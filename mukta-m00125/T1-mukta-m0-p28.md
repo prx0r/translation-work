@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[umā](umā) [maheśvare](maheśvare) [vāme](vāme) [sukhāsīne](sukhāsīne) [maheśvaraḥ](maheśvaraḥ)
+[umā](umā) [maheśvare](maheśvare) [left](vāme) [comfortably-seated](sukhāsīne) [maheśvaraḥ](maheśvaraḥ)
 
 ## mukta-m0-p28-v677
-[eka-dvi-triṣu](ekadvitriṣu) [sarvatra](sarvatra) [vāñchayā](vāñchayā) [kautukaṃ](kautukaṃ) [matam](matam)
+[one](eka) [two](dvi) [three](triṣu) [everywhere](sarvatra) [by-desire](vāñchayā) [festive-rite](kautukaṃ) [approved](matam)
 
 ## mukta-m0-p28-v678
-[yāga-ārambha-dine](yāgārambhadinetvetat) [etat](etat) [vidhānaṃ](vidhānaṃ) [parikīrtitam](parikīrtitam)
+[sacrifice](yāga) [beginning](ārambha) [day](dine) [indeed](tu) [this](etat) [procedure](vidhānaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p28-v679
-[kautukaṃ](kautukaṃ) [vāñchite](vāñchite) [bimbe](bimbetaddināt) [tad-dine](taddināt) [pūrva-rātrike](pūrvarātrike)
+[festive-rite](kautukaṃ) [in-desired](vāñchite) [image](bimbe) [from-that-day](taddināt) [in-previous-night](pūrvarātrike)
 
 ## mukta-m0-p28-v680
-[triśūle](triśūle) [madhya-patre](madhyapatre) [vā](vā) [tat-stha](tatstha) [deva-kare](devakarepi) [api](api) [vā](vā)
+[in-trident](triśūle) [in-middle-leaf](madhyapatre) [or](vā) [standing-there](tatstha) [in-god's-hand](devakare) [also](api) [or](vā)
 
 ## mukta-m0-p28-v681
-[yāga-ārambhasya](yāgārambhasya) [pūrvedyuḥ](pūrvedyuḥ) [tat-dine](taddine) [vā](vā) [samācaret](samācaret)
+[sacrifice](yāga) [beginning](ārambhasya) [on-previous-day](pūrvedyuḥ) [on-that-day](taddine) [or](vā) [one-should-perform](samācaret)
 
 ## mukta-m0-p28-v682
-[deśikaḥ](deśiko) [mūrti-paiḥ](mūrtipaissārdhaṃ) [sārdhaṃ](sārdhaṃ) [sakalī-kṛta-vigrahaḥ](sakalīkṛtavigrahaḥ)
+[preceptor](deśiko) [with-image-priests](mūrtipaiḥ) [together](sārdhaṃ) [made-sakala](sakalīkṛta) [body](vigrahaḥ)
 
 ## mukta-m0-p28-v683
-[brahma-iṣṭiṃ](brahmeṣṭiṃ) [bhūta-śuddhiṃ](bhūtaśuddhiñca) [ca](ca) [sakalī-karaṇaṃ](sakalīkaraṇaṃ) [punaḥ](punaḥ)
+[brahma-worship](brahmeṣṭiṃ) [element-purification](bhūtaśuddhiñ) [and](ca) [sakalīkaraṇa](sakalīkaraṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p28-v684
-[vedikāyāṃ](vedikāyāṃ) [tataḥ](tataḥ) [kṛtvā](kṛtvā) [sthaṇḍile](sthaṇḍile) [tu](tu) [śiva-āsanam](śivāsanam)
+[on-platform](vedikāyāṃ) [then](tataḥ) [having-made](kṛtvā) [on-altar](sthaṇḍile) [indeed](tu) [śiva-seat](śivāsanam)
 
 ## mukta-m0-p28-v685
-[pañca-brahmāṇi](pañcabrahmāṇi) [vinyasya](vinyasya) [kalpayet](kalpayettatkalāmayam) [tat-kalā-mayam](tatkalāmayam)
+[five-brahmans](pañcabrahmāṇi) [having-placed](vinyasya) [one-should-arrange](kalpayet) [consisting-of-their-kalās](tatkalāmayam)
 
 ## mukta-m0-p28-v686
-[hṛdaya-ādīni](hṛdayādīni) [vinyasya](vinyasya) [pādya-ādyaiḥ](pādyadyairarcayettataḥ) [arcayet](arcayet) [tataḥ](tataḥ)
+[heart-etc.](hṛdayādīni) [having-placed](vinyasya) [with-foot-water-etc.](pādyādyaiḥ) [one-should-worship](arcayet) [then](tataḥ)
 
 ## mukta-m0-p28-v687
-[vidyeśān](vidyeśān) [paritaḥ](paritaśceṣṭvā) [ceṣṭvā](ceṣṭvā) [lokapālān](lokapālān) [prapūjayet](prapūjayet)
+[vidyeśas](vidyeśān) [around](paritaḥ) [having-worshipped](ca) [having-worshipped](iṣṭvā) [guardians-of-directions](lokapālān) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p28-v688
-[tāni](tāni) [vā](vā) [vedikā](vedikā) [bāhye](bāhye) [sthaṇḍila-ūrdhve](sthaṇḍilordhve) [sthale](sthalepi) [api](api) [vā](vā)
+[them](tāni) [or](vā) [platform](vedikā) [outside](bāhye) [on-altar](sthaṇḍile) [above](ūrdhve) [on-ground](sthale) [also](api) [or](vā)
 
 ## mukta-m0-p28-v689
-[tad-ante](tadante) [ca](ca) [astra-rājānam](aṣṭadik) [aṣṭa-dik](aṣṭadik) [sthaṇḍile-sthitam](sthaṇḍilesthitam)
+[after-that](tadante) [and](ca) [weapon-king](astrarājānam) [in-eight-directions](aṣṭadik) [situated-on-altar](sthaṇḍilesthitam)
 
 ## mukta-m0-p28-v690
-[saṃskṛtya](saṃskṛtya) [vidhinā](vidhinā) [kuṇḍaṃ](kuṇḍaṃ) [śiva-agniṃ](śivāgniṃ) [vidhinā](vidhinā) [nayet](nayet)
+[having-consecrated](saṃskṛtya) [according-to-rule](vidhinā) [fire-pit](kuṇḍaṃ) [śiva-fire](śivāgniṃ) [according-to-rule](vidhinā) [one-should-lead](nayet)
 
 ## mukta-m0-p28-v691
-[nyastvā](nyastvā'vāhya) [avāhya](avāhya) [śivaṃ](śivaṃ) [sāṃgaṃ](sāṃgaṃ) [sa-brahma-aṃgaṃ](sabrahmāṃgañca) [ca](ca) [tarpayet](tarpayet)
+[having-placed](nyastvā) [having-invoked](āvāhya) [śiva](śivaṃ) [with-limbs](sāṃgaṃ) [with-brahmans-and-limbs](sabrahmāṃgañ) [and](ca) [one-should-satisfy](tarpayet)
 
 ## mukta-m0-p28-v692
-[sva-sva-mantra-pradhāne](svasvamantrapradhāne) [tu](tu) [sarvaiḥ](sarvairmantraiśca) [mantraiḥ](mantraiḥ) [ca](ca) [tarpayet](tarpayet)
+[in-own-mantra](svasvamantra) [principal](pradhāne) [indeed](tu) [with-all-mantras](sarvairmantraiḥ) [and](ca) [one-should-satisfy](tarpayet)
 
 ## mukta-m0-p28-v693
-[tila-sarṣapa-mudgāḥ](tilasarṣapamudgā) [vā](vā) [homa-karmaṇi](homakarmaṇisaṃsthitāḥ) [saṃsthitāḥ](saṃsthitāḥ)
+[sesame](tila) [mustard](sarṣapa) [mung-beans](mudgā) [or](vā) [in-oblation-rite](homakarmaṇi) [established](saṃsthitāḥ)
 
 ## mukta-m0-p28-v694
-[tila-sarṣapa-mudgāḥ](tilasarṣapamudgāśca) [ca](ca) [saktu-veṇuḥ](saktuveṇurgulaṃ) [gulaṃ](gulaṃ) [madhu](madhu)
+[sesame](tila) [mustard](sarṣapa) [mung-beans](mudgāḥ) [and](ca) [flour](saktu) [bamboo](veṇuḥ) [jaggery](gulaṃ) [honey](madhu)
 
 ## mukta-m0-p28-v695
-[samid-ājya-anna-lājāṃs](samidājyānnalājāṃstu) [tu](tu) [catur-vargeṣu](caturvargeṣu) [homayet](homayet)
+[fuel-sticks](samid) [ghee](ājya) [rice](anna) [parched-grain](lājān) [and](tu) [in-four-groups](caturvargeṣu) [one-should-offer](homayet)
 
 ## mukta-m0-p28-v696
-[pradhāne](pradhānetvanya) [tu](tu) [anya](anya) [kuṇḍeṣu](kuṇḍeṣu) [kalā-artham](kalārthañjuhuyuḥ) [juhuyuḥ](juhuyuḥ) [kramāt](kramāt)
+[in-principal](pradhāne) [indeed](tu) [in-other](anya) [fire-pits](kuṇḍeṣu) [for-kalās](kalārthaṃ) [they-should-offer](juhuyuḥ) [in-order](kramāt)
 
 ## mukta-m0-p28-v697
-[tatra](tatra) [bhedena](bhedena) [mantrāṇāṃ](mantrāṇāṃ) [bhedaḥ](bhedo) [na](nātra) [atra](atra) [vidhīyate](vidhīyate)
+[there](tatra) [by-difference](bhedena) [of-mantras](mantrāṇāṃ) [difference](bhedo) [not](na) [here](atra) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p28-v698
-[tad-ante](tadante) [bali-dānaṃ](balidānaṃ) [syāt](syāt) [tat-vidhānam](tadvidhānamihocyate) [iha](iha) [ucyate](ucyate)
+[after-that](tadante) [offering-of-bali](balidānaṃ) [should-be](syāt) [its-procedure](tadvidhānam) [here](iha) [is-stated](ucyate)
 
 ## mukta-m0-p28-v699
-[tatra](tatreṣṭvā) [iṣṭvā](iṣṭvā) [ca](ca) [astra-rājantam](aṣṭadik) [triśūlena](triśūlena) [samanvitam](samanvitam)
+[there](tatra) [having-worshipped](iṣṭvā) [and](ca) [weapon-king](astrarājantu) [with-trident](triśūlena) [accompanied](samanvitam)
 
 ## mukta-m0-p28-v700
-[ghaṇṭā-rava-samopetaṃ](ghaṇṭāravasamopetaṃ) [bali-dravya-samāyugam](balidravyasamāyugam)
+[with-bell-sound](ghaṇṭārava) [endowed](samopetaṃ) [with-bali-substance](balidravyasamāyugam)

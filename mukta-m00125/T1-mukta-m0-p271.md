@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p271-v6751
-[in-middle](tanmadhye) [remember](saṃsmaret) [lotus](padmaṃ) [seed+stalk+petals](bījanāladalāni) [and](ca)
+[in-its-middle](tanmadhye) [one-should-visualize](saṃsmaret) [lotus](padmaṃ) [seed+stalk+petals](bījanāladalāni) [and](ca)
 
 ## mukta-m0-p271-v6752
-[embodied-form](mūrti) [bhūtaṃ](bhūtaṃ) [remember](smaret) [pot](kumbhaṃ) [previously-described-meditation](pūrvoktadhyāna) [joined](saṃyutam)
+[embodied-in-form](mūrti+bhūtaṃ) [one-should-visualize](smaret) [pot](kumbhaṃ) [previously-stated+meditation](pūrvoktadhyāna) [endowed-with](saṃyutam)
 
 ## mukta-m0-p271-v6753
-[aghorāṇum](aghorāṇum) [uttering](samucārya) [worship](yajet) [with-pādya-etc](pādyādibhirguruḥ)
+[aghora-mantra](aghorāṇum) [having-uttered](samucārya) [should-worship](yajet) [with-water-for-feet-etc.](pādyādibhir) [teacher](guruḥ)
 
 ## mukta-m0-p271-v6754
-[cardamom+clove](elālavaṅga) [joined](saṃyuktaṃ) [three-fruits](phalatraya) [accompanied](samanvitam)
+[cardamom+clove](elālavaṅga) [joined-with](saṃyuktaṃ) [three-fruits](phalatraya) [accompanied-by](samanvitam)
 
 ## mukta-m0-p271-v6755
-[waters](āpaḥ) [milk](kṣīra) [kuśa-tips](kuśāgrāṇi) [rice-grains](taṇḍulāssumanāsthilāḥ)
+[water](āpaḥ) [milk](kṣīra) [kuśa-grass-tips](kuśāgrāṇi) [rice-grains](taṇḍulās) [flowers](sumanās) [sesame-seeds](tilāḥ)
 
 ## mukta-m0-p271-v6756
-[sandalwood](candana) [light](laghu) [costus](kuṣṭaṃ) [and](ca) [fragrance-etc](gandhādyaṃ) [three](trayam) [called](ucyate)
+[sandalwood](candana) [light+costus](laghu+kuṣṭaṃ) [and](ca) [fragrance-etc.](gandhādyaṃ) [triad](trayam) [is-called](ucyate)
 
 ## mukta-m0-p271-v6757
-[that-lotus-petal-root](tatpadmadalamūle) [then](tu) [right](dakṣiṇe) [weapon](astraṃ) [uttering](samuccaran)
+[at-the-root-of-that-lotus-petal](tatpadmadalamūle) [then](tu) [in-the-south](dakṣiṇe) [weapon-mantra](astraṃ) [uttering](samuccaran)
 
 ## mukta-m0-p271-v6758
-[giving](datvā) [with-own-covering](svāvaraṇopetaṃ) [without-covering](nirāvaraṇameva) [or](vā)
+[having-offered](datvā) [with-its-retinue](svāvaraṇopetaṃ) [without-retinue](nirāvaraṇam) [or](eva) [or](vā)
 
 ## mukta-m0-p271-v6759
-[asitāṅga](asitāṅgo) [ruru](ruruścaṇḍaḥ) [caṇḍa](caṇḍaḥ) [krota](krota) [unmatta](unmatta) [bhairava](bhairavaḥ)
+[asitāṅga](asitāṅgo) [ruru](ruruś) [caṇḍa](caṇḍaḥ) [krota](krota) [unmatta-bhairava](unmatta+bhairavaḥ)
 
 ## mukta-m0-p271-v6760
-[that-outside](tadbāhye) [world-protectors](lokapāniṣṭvā) [those-weapons](tadastrāṇi) [and](ca) [that-outside](tadbahiḥ)
+[outside-that](tadbāhye) [having-worshipped-guardians-of-directions](lokapān+iṣṭvā) [their-weapons](tadastrāṇi) [and](ca) [outside-that](tadbahiḥ)
 
 ## mukta-m0-p271-v6761
-[with-fragrance-etc](gandhādyai) [covered](rāvṛtāniṣṭvā) [lamp](dīpam) [ghee-born](ājya) [samudbhavam](samudbhavam)
+[with-fragrance-etc.](gandhādyai) [having-worshipped-surrounding-deities](r+āvṛtān+iṣṭvā) [lamp](dīpam) [from-ghee](ājya+samudbhavam)
 
 ## mukta-m0-p271-v6762
-[to-aghorā](aghorāya) [that-weapon](tadastraya) [water](pānīyaṃ) [and](ca) [offer](nivedayet)
+[to-aghora](aghorāya) [to-that-weapon](tadastraya) [water](pānīyaṃ) [and](ca) [one-should-offer](nivedayet)
 
 ## mukta-m0-p271-v6763
-[to-aghorā](aghorāya) [that-weapon](tadastrāya) [having-offered](saṃnivedya) [japa](japaṃ) [guru](guruḥ)
+[to-aghora](aghorāya) [to-that-weapon](tadastrāya) [having-dedicated](saṃnivedya) [recitation](japaṃ) [teacher](guruḥ)
 
 ## mukta-m0-p271-v6764
-[as-before](prāgvat) [of-pot](kuṇḍasya) [purification](saṃskāraṃ) [five-purifications](pañcasaṃskāra) [purified](saṃskṛte)
+[as-before](prāgvat) [of-the-fire-pit](kuṇḍasya) [consecration](saṃskāraṃ) [in-that-consecrated-by-five-consecrations](pañcasaṃskāra+saṃskṛte)
 
 ## mukta-m0-p271-v6765
-[milk-tree](kṣīra) [wood](vṛkṣa) [twigs](samidbhiśca) [with-ghee](ghṛtena) [caru](caruṇā) [again](punaḥ)
+[with-milk-tree+fuel-sticks](kṣīra+vṛkṣa+samidbhiś) [and](ca) [with-ghee](ghṛtena) [with-cooked-rice](caruṇā) [again](punaḥ)
 
 ## mukta-m0-p271-v6766
-[betel](tāmbūlaṃ) [offer](juhuyādante) [to-own-deity](svadevāyāstra) [weapon-formed](rūpiṇe)
+[betel](tāmbūlaṃ) [one-should-offer-in-fire](juhuyād) [at-the-end](ante) [to-one's-own-deity](svadevāyā) [having-weapon-form](astra+rūpiṇe)
 
 ## mukta-m0-p271-v6767
-[by-aghorā](aghorāya) [then](ca) [that-ash](tadbhasma) [collect](saṃgrāhyāstreṇa) [protect](rakṣayet)
+[with-aghora](aghoreṇa) [and](ca) [that-ash](tadbhasma) [having-collected](saṃgrāhya) [with-weapon-mantra](astreṇa) [one-should-protect](rakṣayet)
 
 ## mukta-m0-p271-v6768
-[homa-rite](homakarma) [offering](nivedyātha) [in-pot](kumbhasthe) [aghorā-formed](aghorā) [rūpiṇe](rūpiṇe)
+[fire-ritual](homakarma) [having-dedicated](nivedya) [then](atha) [to-the-one-abiding-in-the-pot](kumbhasthe) [having-aghora-form](aghora+rūpiṇe)
 
 ## mukta-m0-p271-v6769
-[giving](datvā) [backward-facing-arghya](parāṅmukhārghyaṃ) [then](tu) [enjoyment-limbs](bhogāṅgānyupasaṃharet)
+[having-given](datvā) [arghya-turned-away](parāṅmukhārghyaṃ) [then](tu) [enjoyment-limbs](bhogāṅgāny) [one-should-withdraw](upasaṃharet)
 
 ## mukta-m0-p271-v6770
-[heart-lotus-middle](hṛtsaroruha) [madhye](madhye) [tu](tu) [svsyānyānapi](svsyānyānapi) [śambarān](śambarān)
+[in-the-middle-of-the-heart-lotus](hṛtsaroruha+madhye) [then](tu) [of-oneself](svasyā) [others](anyān) [also](api) [śambaras](śambarān)
 
 ## mukta-m0-p271-v6771
-[sprinkle](prokṣayedvātha) [then](tattoyaiḥ) [daily](pratyahaṃ) [thus](tvevamācaret)
+[one-should-sprinkle](prokṣayed) [or](vā) [then](atha) [with-those-waters](tattoyaiḥ) [every-day](pratyahaṃ) [thus](tu) [thus](evam) [one-should-perform](ācaret)
 
 ## mukta-m0-p271-v6772
-[abandoning-aghorā](hitvāghoramaghorāstraṃ) [in-pot-middle](kumbhamadhye) [or](athavārcayet)
+[having-abandoned-aghora](hitvā+aghoram) [aghora-weapon](aghorāstraṃ) [in-the-middle-of-the-pot](kumbhamadhye) [or](atha) [or](vā) [one-should-worship](arcayet)
 
 ## mukta-m0-p271-v6773
-[fortnight](pakṣāhaṃ) [or](vātha) [month](māsaṃ) [or](vā) [two-three-months](dvitrimāsamathāpi) [or](vā)
+[for-a-fortnight](pakṣāhaṃ) [or](vā) [then](atha) [for-a-month](māsaṃ) [or](vā) [for-two-or-three-months](dvitrimāsam) [or](atha) [also](api) [or](vā)
 
 ## mukta-m0-p271-v6774
-[where-this](yatraitat) [done](kriyate) [peace](śāntirnaṣṭarogā) [destroyed-diseases](naṣṭarogā) [gajādayaḥ](gajādayaḥ)
+[where](yatra) [this](etat) [is-performed](kriyate) [pacification](śāntir) [with-diseases-destroyed](naṣṭarogā) [elephants-etc.](gajādayaḥ)
 
 ## mukta-m0-p271-v6775
-[likewise](tadvajjagatpatiḥ) [world-lord](jagatpatiḥ) [nourished](puṣṭo) [disease-free](nīrogī) [and](ca) [becomes](bhaveddhruvam) [certainly](dhruvam)
+[likewise](tadvaj) [lord-of-the-world](jagatpatiḥ) [nourished](puṣṭo) [free-from-disease](nīrogī) [and](ca) [becomes](bhaved) [certainly](dhruvam)

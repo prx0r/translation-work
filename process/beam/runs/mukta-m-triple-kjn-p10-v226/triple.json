@@ -19,42 +19,43 @@
     {
      "surface": "mahā",
      "gloss": "great",
-     "grounds": "first member of compound qualifying siddhiḥ",
+     "grounds": "first member of compound with siddhiḥ",
      "morph": "compound=mahā+first"
     },
     {
      "surface": "siddhiḥ",
      "gloss": "accomplishment",
-     "grounds": "subject of bhavet",
+     "grounds": "great accomplishment; subject of becoming dear",
      "morph": "f.nom.sg"
     },
     {
      "surface": "yoginīnāṃ",
      "gloss": "of-yoginīs",
-     "grounds": "possessor of affection",
+     "grounds": "those to whom one becomes dear",
      "morph": "f.gen.pl"
     },
     {
      "surface": "priyo",
      "gloss": "dear",
-     "grounds": "predicate describing siddhiḥ",
+     "grounds": "predicate describing the practitioner",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "may-become",
-     "grounds": "optative expressing potential result",
-     "morph": "3.sg.opt.act.√bhū"
+     "grounds": "expresses potential result",
+     "morph": "3.sg.act-optative/√bhū"
     }
    ],
-   "question": "What attainment makes one dear to the yoginīs?",
+   "question": "What attainment makes a practitioner dear to the yoginīs?",
    "premises": [
-    "Enjoyment and liberation together form a great accomplishment.",
-    "Such great accomplishment can become dear to the yoginīs."
+    "Enjoyment and liberation are named together as attainments.",
+    "Great accomplishment is also attained.",
+    "Such attainment results in becoming dear to the yoginīs."
    ],
-   "inference": "The great accomplishment of enjoyment and liberation wins the favor of the yoginīs.",
+   "inference": "One who attains enjoyment, liberation, and great accomplishment becomes dear to the yoginīs.",
    "uncertainties": [],
-   "plain_english": "The great accomplishment of both enjoyment and liberation may become dear to the yoginīs."
+   "plain_english": "He may become dear to the yoginīs through the great accomplishment of enjoyment and liberation."
   },
   {
    "verse": 227,
@@ -62,42 +63,45 @@
     {
      "surface": "candra",
      "gloss": "moon",
-     "grounds": "first member of place-name compound",
+     "grounds": "first member of compound naming the island",
      "morph": "compound=candra+first"
     },
     {
      "surface": "dvīpa",
      "gloss": "island",
-     "grounds": "second member of place-name compound",
+     "grounds": "second member of compound naming the island",
      "morph": "compound=dvīpa+second"
     },
     {
      "surface": "vinirgate",
      "gloss": "emerged",
-     "grounds": "locative participle describing context of chapter",
-     "morph": "m.loc.sg"
+     "grounds": "describes what has come forth in the moon island context",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "navamaḥ",
      "gloss": "ninth",
-     "grounds": "ordinal qualifying paṭalaḥ",
+     "grounds": "ordinal number of the chapter",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "subject of colophon statement",
+     "grounds": "section that has emerged or concluded",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter concludes the teaching emerged in Candra-dvīpa?",
+   "question": "Which chapter concludes in the context of the moon island?",
    "premises": [
-    "A teaching context is identified as emerged in Candra-dvīpa.",
-    "The chapter in that context is numbered ninth."
+    "The context is identified as the moon island.",
+    "Something has emerged or been completed there.",
+    "The ninth chapter is named."
    ],
-   "inference": "The ninth chapter is the one that emerged in Candra-dvīpa.",
-   "uncertainties": [],
-   "plain_english": "Thus ends the ninth chapter, which emerged in Candra-dvīpa."
+   "inference": "The ninth chapter has emerged in the context of the moon island.",
+   "uncertainties": [
+    "The exact sense of vinirgate as emerged or concluded depends on context."
+   ],
+   "plain_english": "The ninth chapter has emerged in the moon island."
   },
   {
    "verse": 228,
@@ -105,48 +109,49 @@
     {
      "surface": "vahni",
      "gloss": "fire",
-     "grounds": "first member of compound describing encirclement",
+     "grounds": "first member of compound describing encirclement by fire",
      "morph": "compound=vahni+first"
     },
     {
      "surface": "nāveṣṭita",
      "gloss": "surrounded",
-     "grounds": "past participle qualifying ātmānam",
+     "grounds": "second member of compound indicating encirclement",
      "morph": "compound=nāveṣṭita+second"
     },
     {
      "surface": "ātmānam",
      "gloss": "self",
-     "grounds": "object of visualization or description",
+     "grounds": "object visualized or positioned",
      "morph": "m.acc.sg"
     },
     {
      "surface": "eka",
      "gloss": "one",
-     "grounds": "first member of compound qualifying pādena",
+     "grounds": "first member of compound specifying one foot",
      "morph": "compound=eka+first"
     },
     {
      "surface": "pādena",
      "gloss": "foot",
-     "grounds": "instrument indicating posture",
+     "grounds": "instrument or means of standing",
      "morph": "m.inst.sg"
     },
     {
      "surface": "saṃsthitam",
      "gloss": "standing",
-     "grounds": "past participle qualifying ātmānam",
+     "grounds": "describes the posture of the self",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "How should the practitioner visualize the self in this meditative posture?",
+   "question": "How should the practitioner visualize the self standing within fire?",
    "premises": [
-    "The self is visualized as surrounded by fire.",
-    "The self is visualized as standing on one foot."
+    "The self is surrounded by fire.",
+    "The self is standing.",
+    "The stance is on one foot."
    ],
-   "inference": "The prescribed visualization is of the self encircled by fire and standing on one foot.",
+   "inference": "The practitioner should visualize the self surrounded by fire and standing on one foot.",
    "uncertainties": [],
-   "plain_english": "One should visualize oneself surrounded by fire and standing on one foot."
+   "plain_english": "Visualize the self surrounded by fire, standing on one foot."
   },
   {
    "verse": 229,
@@ -154,7 +159,7 @@
     {
      "surface": "jñānasya",
      "gloss": "of-knowledge",
-     "grounds": "object of determination",
+     "grounds": "that whose determination is sought",
      "morph": "n.gen.sg"
     },
     {
@@ -166,36 +171,37 @@
     {
      "surface": "deva",
      "gloss": "o-god",
-     "grounds": "vocative address",
+     "grounds": "vocative address to the deity",
      "morph": "m.voc.sg"
     },
     {
      "surface": "adya",
-     "gloss": "now",
-     "grounds": "temporal adverb",
+     "gloss": "today",
+     "grounds": "indicates the time of revelation",
      "morph": "(indecl.)"
     },
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "recipient of revelation",
+     "grounds": "recipient of the revelation",
      "morph": "pron.dat.sg"
     },
     {
      "surface": "prakaṭīkṛtam",
      "gloss": "made-manifest",
-     "grounds": "past participle describing requested action",
-     "morph": "n.acc.sg"
+     "grounds": "describes the determination as revealed",
+     "morph": "m.acc.sg"
     }
    ],
-   "question": "What revelation about knowledge is requested from the deity now?",
+   "question": "What request is made to the god regarding the determination of knowledge?",
    "premises": [
-    "The speaker addresses the deity directly.",
-    "The speaker asks for the determination of knowledge to be made manifest."
+    "The speaker addresses the god.",
+    "The determination of knowledge is the subject.",
+    "The speaker asks for it to be made manifest today."
    ],
-   "inference": "The request is for the deity to reveal the definitive understanding of knowledge.",
+   "inference": "The speaker requests the god to reveal the determination of knowledge now.",
    "uncertainties": [],
-   "plain_english": "O God, now make manifest to me the determination of knowledge."
+   "plain_english": "O God, make the determination of knowledge manifest to me today."
   },
   {
    "verse": 230,
@@ -203,50 +209,51 @@
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "first member of compound indicating eightfold groups",
+     "grounds": "first member of compound indicating eight groups of eight",
      "morph": "compound=aṣṭa+first"
     },
     {
      "surface": "aṣṭaka",
-     "gloss": "octad",
-     "grounds": "second member of compound indicating eightfold groups",
+     "gloss": "groups-of-eight",
+     "grounds": "second member of compound indicating octads",
      "morph": "compound=aṣṭaka+second"
     },
     {
      "surface": "vibhāgam",
      "gloss": "division",
-     "grounds": "object of knowing fully",
+     "grounds": "object to be fully known",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
-     "gloss": "indeed",
-     "grounds": "particle emphasizing the request",
+     "gloss": "and",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "parijñātum",
      "gloss": "to-know-fully",
-     "grounds": "infinitive expressing purpose",
-     "morph": "inf.√jñā"
+     "grounds": "expresses purpose of complete understanding",
+     "morph": "infinitive/√jñā"
     },
     {
      "surface": "anantathā",
      "gloss": "endlessly",
-     "grounds": "adverb indicating complete extent",
+     "grounds": "indicates thorough or limitless manner; sandhi form noted in grounds",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What complete division of the eight octads is sought to be known?",
+   "question": "What division does the speaker seek to know fully and without limit?",
    "premises": [
-    "The speaker seeks to know fully a specific division.",
-    "That division consists of eight octads."
+    "A division into eight groups of eight is named.",
+    "The speaker seeks to know it fully.",
+    "The knowing is described as endless or complete."
    ],
-   "inference": "The request is for exhaustive knowledge of the division into eight octads.",
+   "inference": "The speaker seeks complete knowledge of the division into eight groups of eight.",
    "uncertainties": [
-    "The exact referent of the eight octads is not specified in this verse."
+    "anantathā may mean endlessly or in infinite detail."
    ],
-   "plain_english": "I wish to know fully and completely the division of the eight octads."
+   "plain_english": "And to know fully, without limit, the division into eight groups of eight."
   },
   {
    "verse": 231,
@@ -254,19 +261,19 @@
     {
      "surface": "guhya",
      "gloss": "secret",
-     "grounds": "first member of compound qualifying sthānaṃ",
+     "grounds": "first member of compound describing the place",
      "morph": "compound=guhya+first"
     },
     {
      "surface": "sthānaṃ",
      "gloss": "place",
-     "grounds": "subject described in relation to cakraṃ",
+     "grounds": "location where the wheel is",
      "morph": "n.acc.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "relative particle introducing manner",
+     "grounds": "introduces manner or condition",
      "morph": "(indecl.)"
     },
     {
@@ -278,30 +285,31 @@
     {
      "surface": "kṣipraṃ",
      "gloss": "quickly",
-     "grounds": "adverb modifying sidhyati",
+     "grounds": "manner of accomplishment",
      "morph": "(indecl.)"
     },
     {
      "surface": "sidhyati",
      "gloss": "is-accomplished",
-     "grounds": "main verb stating result",
-     "morph": "3.sg.pres.act.√sidh"
+     "grounds": "states the result in that place",
+     "morph": "3.sg.act-present/√sidh"
     },
     {
      "surface": "bhairava",
      "gloss": "o-bhairava",
-     "grounds": "vocative address",
+     "grounds": "vocative address to Bhairava",
      "morph": "m.voc.sg"
     }
    ],
-   "question": "How is the secret place related to the swift accomplishment of the wheel?",
+   "question": "Where is the wheel said to be accomplished quickly, O Bhairava?",
    "premises": [
-    "A secret place is mentioned in connection with the wheel.",
-    "The wheel is said to be accomplished quickly."
+    "A secret place is mentioned.",
+    "The wheel is the subject of accomplishment.",
+    "The accomplishment happens quickly."
    ],
-   "inference": "Knowledge of the secret place enables the wheel to be accomplished quickly.",
+   "inference": "The wheel is accomplished quickly in the secret place.",
    "uncertainties": [],
-   "plain_english": "O Bhairava, tell me how the wheel is quickly accomplished in the secret place."
+   "plain_english": "O Bhairava, tell how the wheel is quickly accomplished in the secret place."
   },
   {
    "verse": 232,
@@ -309,31 +317,31 @@
     {
      "surface": "sādhu",
      "gloss": "well",
-     "grounds": "exclamation of approval",
+     "grounds": "expression of approval",
      "morph": "(indecl.)"
     },
     {
      "surface": "sādhu",
      "gloss": "well",
-     "grounds": "repeated exclamation of approval",
+     "grounds": "repeated expression of approval",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahādevi",
      "gloss": "o-great-goddess",
-     "grounds": "vocative address",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     },
     {
      "surface": "pṛṣṭaḥ",
      "gloss": "asked",
-     "grounds": "past participle describing the speaker",
+     "grounds": "describes the speaker as having been questioned",
      "morph": "m.nom.sg"
     },
     {
      "surface": "aham",
      "gloss": "i",
-     "grounds": "subject who was asked",
+     "grounds": "speaker who was asked",
      "morph": "pron.nom.sg"
     },
     {
@@ -345,18 +353,19 @@
     {
      "surface": "durlabham",
      "gloss": "hard-to-obtain",
-     "grounds": "predicate describing what was asked",
+     "grounds": "describes what was asked as rare even for gods",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "Why does Bhairava praise the question asked by the great goddess?",
+   "question": "How does Bhairava respond to the great goddess’s difficult question?",
    "premises": [
-    "Bhairava expresses strong approval of the question.",
-    "The matter asked about is difficult for even the gods to obtain."
+    "Bhairava expresses strong approval.",
+    "He acknowledges being asked by the great goddess.",
+    "The matter asked about is hard to obtain even for the gods."
    ],
-   "inference": "The question is praiseworthy because it concerns knowledge rare even among the gods.",
+   "inference": "Bhairava praises the question and affirms that it concerns knowledge rare even among the gods.",
    "uncertainties": [],
-   "plain_english": "Well said, well said, O great goddess! You have asked me about something hard for even the gods to obtain."
+   "plain_english": "Well said, well said, O great goddess. I have been asked about something hard to obtain even for the gods."
   },
   {
    "verse": 233,
@@ -364,42 +373,45 @@
     {
      "surface": "kṣakāraṃ",
      "gloss": "syllable-kṣa",
-     "grounds": "object identified with brahmarandhra",
+     "grounds": "syllable located at the brahmarandhra",
      "morph": "m.acc.sg"
     },
     {
      "surface": "brahmarandhratvaṃ",
      "gloss": "brahmarandhra-state",
-     "grounds": "predicate identifying location of kṣa",
+     "grounds": "state or location at the crown aperture",
      "morph": "n.acc.sg"
     },
     {
      "surface": "laṃkāram",
      "gloss": "syllable-laṃ",
-     "grounds": "object located in the forehead",
+     "grounds": "syllable located in the forehead",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle connecting identifications",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "lalāṭayoḥ",
      "gloss": "in-forehead",
-     "grounds": "location of laṃkāra",
+     "grounds": "location of the syllable laṃ",
      "morph": "n.loc.dual"
     }
    ],
-   "question": "Which bodily locations correspond to the syllables kṣa and laṃ?",
+   "question": "Which syllables are assigned to the brahmarandhra and the forehead?",
    "premises": [
-    "The syllable kṣa is identified with the state of the brahmarandhra.",
+    "The syllable kṣa is associated with the brahmarandhra.",
+    "The syllable laṃ is named next.",
     "The syllable laṃ is located in the forehead."
    ],
-   "inference": "The syllables kṣa and laṃ are mapped respectively to the brahmarandhra and the forehead.",
-   "uncertainties": [],
-   "plain_english": "The syllable kṣa corresponds to the brahmarandhra, and the syllable laṃ to the forehead."
+   "inference": "The syllable kṣa belongs to the brahmarandhra and the syllable laṃ to the forehead.",
+   "uncertainties": [
+    "lalāṭayoḥ is dual in form though translated as forehead region."
+   ],
+   "plain_english": "The syllable kṣa is in the brahmarandhra, and the syllable laṃ is in the forehead."
   },
   {
    "verse": 234,
@@ -407,54 +419,55 @@
     {
      "surface": "ṣakāraṃ",
      "gloss": "syllable-ṣa",
-     "grounds": "object located in throat region",
+     "grounds": "syllable located in the throat region",
      "morph": "m.acc.sg"
     },
     {
      "surface": "kaṇṭha",
      "gloss": "throat",
-     "grounds": "first member of compound indicating region",
+     "grounds": "first member of compound naming the region",
      "morph": "compound=kaṇṭha+first"
     },
     {
      "surface": "deśe",
      "gloss": "region",
-     "grounds": "location of ṣakāra",
+     "grounds": "location of the syllable ṣa",
      "morph": "m.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle connecting identifications",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "śakāraṃ",
      "gloss": "syllable-śa",
-     "grounds": "object located in the heart",
+     "grounds": "syllable located in the heart",
      "morph": "m.acc.sg"
     },
     {
      "surface": "hṛdaye",
      "gloss": "in-heart",
-     "grounds": "location of śakāra",
+     "grounds": "location of the syllable śa",
      "morph": "n.loc.sg"
     },
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "temporal adverb in the sequence",
+     "grounds": "indicates the corresponding placement",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which bodily locations correspond to the syllables ṣa and śa?",
+   "question": "Which syllables are placed in the throat region and in the heart?",
    "premises": [
-    "The syllable ṣa is placed in the throat region.",
-    "The syllable śa is placed in the heart."
+    "The syllable ṣa is assigned to the throat region.",
+    "The syllable śa is named next.",
+    "The syllable śa is assigned to the heart."
    ],
-   "inference": "The syllables ṣa and śa are mapped respectively to the throat and the heart.",
+   "inference": "The syllable ṣa is placed in the throat region and the syllable śa in the heart.",
    "uncertainties": [],
-   "plain_english": "Then the syllable ṣa is in the throat region, and the syllable śa is in the heart."
+   "plain_english": "The syllable ṣa is in the throat region, and then the syllable śa is in the heart."
   },
   {
    "verse": 235,
@@ -462,7 +475,7 @@
     {
      "surface": "sthāna",
      "gloss": "place",
-     "grounds": "first member of compound naming the wheels",
+     "grounds": "first member of compound naming place-wheels",
      "morph": "compound=sthāna+first"
     },
     {
@@ -473,20 +486,20 @@
     },
     {
      "surface": "tu",
-     "gloss": "thus",
-     "grounds": "particle marking conclusion",
+     "gloss": "and",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "saṃproktāḥ",
      "gloss": "declared",
-     "grounds": "past participle stating teaching",
+     "grounds": "states that these wheels have been taught",
      "morph": "m.nom.pl"
     },
     {
      "surface": "teṣāṃ",
      "gloss": "of-them",
-     "grounds": "possessor of meditation",
+     "grounds": "refers to the declared wheels",
      "morph": "pron.gen.pl"
     },
     {
@@ -498,8 +511,8 @@
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative command to listener",
-     "morph": "2.sg.imp.act.√śru"
+     "grounds": "command to listen",
+     "morph": "2.sg.act-imperative/√śru"
     },
     {
      "surface": "priye",
@@ -508,14 +521,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What follows after the location-wheels have been declared?",
+   "question": "What instruction follows after the place-wheels have been declared?",
    "premises": [
-    "The location-wheels have now been declared.",
-    "The meditation on these wheels is offered as the next teaching."
+    "The place-wheels have been declared.",
+    "Their meditation is now offered as the next topic.",
+    "The beloved is asked to listen."
    ],
-   "inference": "After declaring the location-wheels, the teacher proceeds to explain their meditation.",
+   "inference": "After declaring the place-wheels, the teaching turns to their meditation.",
    "uncertainties": [],
-   "plain_english": "Thus the location-wheels have been declared; now hear their meditation, O beloved."
+   "plain_english": "The place-wheels have been declared; now hear their meditation, O beloved."
   },
   {
    "verse": 236,
@@ -529,48 +543,51 @@
     {
      "surface": "āraṃ",
      "gloss": "spoked",
-     "grounds": "second member of compound describing lotus",
-     "morph": "compound=āra+second"
+     "grounds": "describes the lotus as having eight spokes or petals arrangement",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "paṅkajaṃ",
      "gloss": "lotus",
-     "grounds": "object of visualization",
+     "grounds": "object of meditation described",
      "morph": "n.acc.sg"
     },
     {
      "surface": "divyaṃ",
      "gloss": "divine",
-     "grounds": "adjective qualifying paṅkajaṃ",
+     "grounds": "qualifies the lotus",
      "morph": "n.acc.sg"
     },
     {
      "surface": "prathama",
      "gloss": "first",
-     "grounds": "first member of compound qualifying octad",
+     "grounds": "first member of compound naming the first octad",
      "morph": "compound=prathama+first"
     },
     {
      "surface": "aṣṭaka",
      "gloss": "octad",
-     "grounds": "second member of compound indicating adornment",
+     "grounds": "second member of compound naming the first octad",
      "morph": "compound=aṣṭaka+second"
     },
     {
      "surface": "bhūṣitam",
      "gloss": "adorned",
-     "grounds": "past participle qualifying paṅkajaṃ",
+     "grounds": "describes the lotus as adorned by the first octad",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "How is the divine lotus of the first octad to be visualized?",
+   "question": "How is the divine lotus of the first octad described for meditation?",
    "premises": [
-    "The lotus is described as divine and eight-spoked.",
-    "The lotus is adorned by the first octad."
+    "The lotus is divine.",
+    "It has eight spokes or divisions.",
+    "It is adorned by the first octad."
    ],
    "inference": "The meditation object is a divine eight-spoked lotus adorned by the first octad.",
-   "uncertainties": [],
-   "plain_english": "Visualize a divine eight-spoked lotus adorned by the first octad."
+   "uncertainties": [
+    "āraṃ is taken as spoked in line with the legacy hint."
+   ],
+   "plain_english": "Meditate on the divine eight-spoked lotus adorned by the first octad."
   },
   {
    "verse": 237,
@@ -578,62 +595,63 @@
     {
      "surface": "abhyāsāt",
      "gloss": "through-practice",
-     "grounds": "ablative indicating means",
+     "grounds": "means by which steadiness is gained",
      "morph": "m.abl.sg"
     },
     {
      "surface": "sama",
      "gloss": "equal",
-     "grounds": "first member of compound describing mind",
+     "grounds": "first member of compound describing balanced mind",
      "morph": "compound=sama+first"
     },
     {
      "surface": "cittaḥ",
      "gloss": "mind",
-     "grounds": "subject possessing equanimity",
-     "morph": "compound=citta+second"
+     "grounds": "one whose mind is balanced",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "indeed",
-     "grounds": "particle emphasizing instruction",
+     "gloss": "and",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "grāma",
      "gloss": "village",
-     "grounds": "first member of compound naming social duty",
+     "grounds": "first member of compound naming worldly duty",
      "morph": "compound=grāma+first"
     },
     {
      "surface": "dharmañ",
      "gloss": "duty",
-     "grounds": "object to be abandoned",
+     "grounds": "worldly duty to be abandoned; final nasal shows sandhi before ca",
      "morph": "m.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "varjayet",
      "gloss": "should-abandon",
-     "grounds": "optative prescribing conduct",
-     "morph": "3.sg.opt.act.√vṛj"
+     "grounds": "prescribes renunciation",
+     "morph": "3.sg.act-optative/√vṛj"
     }
    ],
-   "question": "What conduct should follow from attaining equanimity through practice?",
+   "question": "What conduct should a practitioner with balanced mind adopt through practice?",
    "premises": [
-    "Practice leads to an equal or balanced mind.",
-    "One with such a mind should abandon village duties."
+    "Practice leads to a balanced mind.",
+    "Village or worldly duty is named as something to relinquish.",
+    "The verse prescribes abandonment."
    ],
-   "inference": "Equanimity gained through practice entails renouncing conventional social duties.",
+   "inference": "Through practice, one with a balanced mind should abandon worldly duties.",
    "uncertainties": [
-    "The exact scope of grāma-dharma is context-dependent."
+    "grāma-dharma may refer broadly to conventional social duties."
    ],
-   "plain_english": "Through practice, becoming even-minded, one should abandon the duties of village life."
+   "plain_english": "Through practice, with a balanced mind, one should abandon the duties of village life."
   },
   {
    "verse": 238,
@@ -641,37 +659,37 @@
     {
      "surface": "dūra",
      "gloss": "distant",
-     "grounds": "first member of compound describing hearing",
+     "grounds": "first member of compound describing hearing from afar",
      "morph": "compound=dūra+first"
     },
     {
      "surface": "āśravaṇa",
      "gloss": "hearing",
-     "grounds": "second member of compound naming power",
+     "grounds": "second member of compound describing distant hearing",
      "morph": "compound=āśravaṇa+second"
     },
     {
      "surface": "vijñānaṃ",
      "gloss": "knowledge",
-     "grounds": "first accomplishment listed",
+     "grounds": "power of knowing or perceiving distant sounds",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pāśa",
      "gloss": "bond",
-     "grounds": "first member of compound naming power",
+     "grounds": "first member of compound naming paralysis of bonds",
      "morph": "compound=pāśa+first"
     },
     {
      "surface": "stobham",
      "gloss": "paralysis",
-     "grounds": "second accomplishment listed",
+     "grounds": "power to arrest or paralyze bonds",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb linking accomplishments",
+     "grounds": "adds another attainment",
      "morph": "(indecl.)"
     },
     {
@@ -681,13 +699,16 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What powers arise from this stage of yogic accomplishment?",
+   "question": "What special powers arise in this stage of practice, O beloved?",
    "premises": [
-    "Knowledge of hearing from afar is attained.",
-    "The power to paralyze bonds is likewise attained."
+    "Knowledge of hearing from afar is mentioned.",
+    "Paralysis of bonds is mentioned.",
+    "Both are presented as attainments."
    ],
-   "inference": "This stage yields both distant hearing and the paralysis of bonds.",
-   "uncertainties": [],
+   "inference": "This stage grants the powers of distant hearing and the paralysis of bonds.",
+   "uncertainties": [
+    "pāśa-stobham may mean arresting bonds or immobilizing fetters."
+   ],
    "plain_english": "O beloved, one gains knowledge of distant hearing and likewise the power to paralyze bonds."
   },
   {
@@ -696,13 +717,13 @@
     {
      "surface": "amaratvam",
      "gloss": "immortality",
-     "grounds": "first accomplishment listed",
-     "morph": "n.acc.sg"
+     "grounds": "attainment named",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb linking accomplishments",
+     "grounds": "adds another attainment",
      "morph": "(indecl.)"
     },
     {
@@ -714,26 +735,27 @@
     {
      "surface": "samāsāt",
      "gloss": "in-brief",
-     "grounds": "ablative indicating summary manner",
+     "grounds": "indicates summary manner",
      "morph": "m.abl.sg"
     },
     {
      "surface": "parivartanam",
      "gloss": "transformation",
-     "grounds": "second accomplishment listed",
-     "morph": "n.acc.sg"
+     "grounds": "attainment of change or transformation",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "What further accomplishments are briefly attributed to this practice?",
+   "question": "What further attainments are briefly stated for the goddess?",
    "premises": [
-    "Immortality is attained through the practice.",
-    "Transformation is likewise attained."
+    "Immortality is named as an attainment.",
+    "Transformation is named as another attainment.",
+    "The teaching is given in brief."
    ],
-   "inference": "In brief, the practice yields immortality and transformation.",
+   "inference": "In brief, the attainments include immortality and transformation.",
    "uncertainties": [
-    "The specific nature of parivartanam is not detailed here."
+    "parivartanam could mean transformation or reversal depending on context."
    ],
-   "plain_english": "O goddess, in brief, one attains immortality and likewise transformation."
+   "plain_english": "O goddess, in brief, there is immortality and likewise transformation."
   },
   {
    "verse": 240,
@@ -741,7 +763,7 @@
     {
      "surface": "dvitīyam",
      "gloss": "second",
-     "grounds": "adjective qualifying the lotus or wheel",
+     "grounds": "qualifies the next lotus or wheel",
      "morph": "n.nom.sg"
     },
     {
@@ -753,40 +775,41 @@
     {
      "surface": "patram",
      "gloss": "petaled",
-     "grounds": "second member of compound describing lotus",
-     "morph": "compound=patra+second"
+     "grounds": "describes the lotus as having eight petals",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "indeed",
-     "grounds": "particle marking transition",
+     "gloss": "and",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "teja",
      "gloss": "fire",
-     "grounds": "first member of compound describing meditation",
+     "grounds": "first member of compound describing fiery meditation",
      "morph": "compound=teja+first"
     },
     {
      "surface": "dhyāna",
      "gloss": "meditation",
-     "grounds": "second member of compound indicating illumination",
+     "grounds": "second member of compound describing meditation on fire",
      "morph": "compound=dhyāna+second"
     },
     {
      "surface": "sudīpitam",
      "gloss": "well-illuminated",
-     "grounds": "past participle qualifying the lotus",
+     "grounds": "describes the lotus as brightly lit by that meditation",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "How is the second eight-petaled center characterized in meditation?",
+   "question": "How is the second eight-petaled lotus characterized in meditation?",
    "premises": [
-    "The second center is described as eight-petaled.",
+    "A second lotus is introduced.",
+    "It has eight petals.",
     "It is well illuminated by meditation on fire."
    ],
-   "inference": "The second eight-petaled center is visualized as brilliantly lit through fire meditation.",
+   "inference": "The second eight-petaled lotus is brightly illuminated through fiery meditation.",
    "uncertainties": [],
    "plain_english": "The second is an eight-petaled lotus, well illuminated by meditation on fire."
   },
@@ -796,13 +819,13 @@
     {
      "surface": "kurute",
      "gloss": "makes",
-     "grounds": "main verb describing yogic power",
-     "morph": "3.sg.pres.mid.√kṛ"
+     "grounds": "states the power to create forms",
+     "morph": "3.sg.mid-present/√kṛ"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "adverb modifying kurute",
+     "grounds": "indicates multiplicity of forms",
      "morph": "(indecl.)"
     },
     {
@@ -814,36 +837,37 @@
     {
      "surface": "dhyāna",
      "gloss": "meditation",
-     "grounds": "first member of compound describing mental state",
+     "grounds": "first member of compound describing one-pointed absorption",
      "morph": "compound=dhyāna+first"
     },
     {
      "surface": "eka",
      "gloss": "one-pointed",
-     "grounds": "second member of compound describing focus",
+     "grounds": "second member of compound indicating single focus",
      "morph": "compound=eka+second"
     },
     {
      "surface": "gata",
      "gloss": "gone",
-     "grounds": "third member of compound describing mind",
+     "grounds": "third member of compound indicating mind gone into absorption",
      "morph": "compound=gata+third"
     },
     {
      "surface": "cetasaḥ",
-     "gloss": "of-mind",
-     "grounds": "possessor of one-pointed meditation",
+     "gloss": "mind",
+     "grounds": "one whose mind has gone into one-pointed meditation",
      "morph": "n.gen.sg"
     }
    ],
-   "question": "What power arises for one whose mind is absorbed in one-pointed meditation?",
+   "question": "What ability arises for one whose mind is absorbed in one-pointed meditation?",
    "premises": [
-    "The practitioner’s mind becomes absorbed in one-pointed meditation.",
-    "Such a practitioner can assume forms in many ways."
+    "The mind is absorbed in one-pointed meditation.",
+    "The practitioner makes form.",
+    "The form can be made in many ways."
    ],
-   "inference": "One-pointed meditative absorption grants the power to manifest multiple forms.",
+   "inference": "One absorbed in one-pointed meditation can assume many forms.",
    "uncertainties": [],
-   "plain_english": "One whose mind is absorbed in one-pointed meditation can assume forms in many ways."
+   "plain_english": "One whose mind is absorbed in one-pointed meditation can assume many forms."
   },
   {
    "verse": 242,
@@ -851,60 +875,61 @@
     {
      "surface": "kruddhaḥ",
      "gloss": "angry",
-     "grounds": "condition under which power is exercised",
+     "grounds": "condition under which destruction occurs",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "indeed",
-     "grounds": "particle emphasizing consequence",
+     "gloss": "and",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "saṃharet",
      "gloss": "destroys",
-     "grounds": "optative expressing potential power",
-     "morph": "3.sg.opt.act.√hṛ"
+     "grounds": "states the power to withdraw or destroy",
+     "morph": "3.sg.act-optative/√hṛ"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "adjective qualifying trailokyaṃ",
+     "grounds": "qualifies the triple world",
      "morph": "n.acc.sg"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "object of destruction",
+     "grounds": "object that can be destroyed",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sa",
      "gloss": "with",
-     "grounds": "first member of compound including moving beings",
+     "grounds": "first member of compound meaning with moving beings",
      "morph": "compound=sa+first"
     },
     {
      "surface": "cara",
      "gloss": "moving",
-     "grounds": "second member of compound describing beings",
+     "grounds": "second member of compound indicating moving beings",
      "morph": "compound=cara+second"
     },
     {
      "surface": "acaram",
      "gloss": "unmoving",
-     "grounds": "third member of compound describing beings",
-     "morph": "compound=acara+third"
+     "grounds": "qualifies the world as including unmoving beings",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What destructive power is attributed to the practitioner when angered?",
+   "question": "What destructive power is attributed to the practitioner when angry?",
    "premises": [
-    "The practitioner may become angry.",
-    "In that state he can destroy the entire triple world with all moving and unmoving beings."
+    "The practitioner is described as angry.",
+    "The power to destroy is stated.",
+    "The entire triple world with moving and unmoving beings is the object."
    ],
-   "inference": "Anger empowers the practitioner to annihilate the whole triple world.",
+   "inference": "When angry, the practitioner can destroy the entire triple world with all moving and unmoving beings.",
    "uncertainties": [],
-   "plain_english": "When angry, he can destroy the entire triple world, with all its moving and unmoving beings."
+   "plain_english": "When angry, he can destroy the entire triple world, with all that moves and does not move."
   },
   {
    "verse": 243,
@@ -912,54 +937,55 @@
     {
      "surface": "tṛtīyam",
      "gloss": "third",
-     "grounds": "adjective qualifying cakraṃ",
+     "grounds": "qualifies the wheel",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "indeed",
-     "grounds": "particle marking transition",
+     "gloss": "and",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahā",
      "gloss": "great",
-     "grounds": "first member of compound qualifying cakraṃ",
+     "grounds": "first member of compound describing the wheel",
      "morph": "compound=mahā+first"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "subject described as liberator",
+     "grounds": "subject described",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nava",
      "gloss": "nine",
-     "grounds": "first member of compound naming tattvas",
+     "grounds": "first member of compound naming nine principles",
      "morph": "compound=nava+first"
     },
     {
      "surface": "tattva",
      "gloss": "principles",
-     "grounds": "second member of compound naming tattvas",
+     "grounds": "second member of compound naming nine principles",
      "morph": "compound=tattva+second"
     },
     {
      "surface": "pramocakaḥ",
      "gloss": "liberator",
-     "grounds": "predicate describing cakraṃ",
+     "grounds": "describes the wheel as liberating from nine principles",
      "morph": "m.nom.sg"
     }
    ],
    "question": "What liberating function is attributed to the third great wheel?",
    "premises": [
-    "The third center is identified as a great wheel.",
-    "This wheel liberates one from the nine principles."
+    "A third great wheel is introduced.",
+    "Nine principles are named.",
+    "The wheel is described as a liberator."
    ],
-   "inference": "The third great wheel functions as the liberator from the nine tattvas.",
+   "inference": "The third great wheel liberates one from the nine principles.",
    "uncertainties": [
-    "The specific set of nine tattvas is not enumerated in this verse."
+    "The specific set of nine principles is not identified in this verse."
    ],
    "plain_english": "The third is the great wheel, the liberator from the nine principles."
   },
@@ -969,54 +995,55 @@
     {
      "surface": "balī",
      "gloss": "wrinkle",
-     "grounds": "first member of compound naming signs of aging",
+     "grounds": "first member of compound naming wrinkles and grey hair",
      "morph": "compound=balī+first"
     },
     {
      "surface": "palita",
      "gloss": "grey-hair",
-     "grounds": "second member of compound naming signs of aging",
+     "grounds": "second member of compound naming wrinkles and grey hair",
      "morph": "compound=palita+second"
     },
     {
      "surface": "nāśam",
      "gloss": "destruction",
-     "grounds": "first accomplishment listed",
+     "grounds": "removal of wrinkles and grey hair",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle connecting accomplishments",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sudūrāt",
      "gloss": "from-very-far",
-     "grounds": "ablative indicating distance of seeing",
+     "grounds": "indicates distant seeing",
      "morph": "(indecl.)"
     },
     {
      "surface": "darśanam",
      "gloss": "seeing",
-     "grounds": "second accomplishment listed",
-     "morph": "n.acc.sg"
+     "grounds": "power of seeing from very far",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb linking accomplishments",
+     "grounds": "adds another attainment",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What bodily and perceptual powers result from this wheel's practice?",
+   "question": "What bodily and perceptual powers are gained through this wheel?",
    "premises": [
-    "The practice brings destruction of wrinkles and grey hair.",
-    "The practice likewise brings the ability to see from very far away."
+    "Destruction of wrinkles and grey hair is named.",
+    "Seeing from very far is named.",
+    "Both are presented as attainments."
    ],
-   "inference": "This wheel grants rejuvenation and distant vision.",
+   "inference": "This wheel grants freedom from wrinkles and grey hair and the power of distant seeing.",
    "uncertainties": [],
-   "plain_english": "It brings the destruction of wrinkles and grey hair, and likewise the ability to see from very far away."
+   "plain_english": "It brings the destruction of wrinkles and grey hair, and likewise the power to see from very far away."
   },
   {
    "verse": 245,
@@ -1024,13 +1051,13 @@
     {
      "surface": "ekānte",
      "gloss": "in-solitude",
-     "grounds": "locative indicating place of practice",
+     "grounds": "place where practice is performed",
      "morph": "m.loc.sg"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "adverb modifying kuru",
+     "grounds": "indicates multiplicity of forms",
      "morph": "(indecl.)"
     },
     {
@@ -1042,36 +1069,37 @@
     {
      "surface": "kuru",
      "gloss": "make",
-     "grounds": "imperative instruction",
-     "morph": "2.sg.imp.act.√kṛ"
+     "grounds": "command to create forms",
+     "morph": "2.sg.act-imperative/√kṛ"
     },
     {
      "surface": "dhyānañ",
      "gloss": "meditation",
-     "grounds": "object of intent",
+     "grounds": "object of intent; final nasal shows sandhi before ca",
      "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking instructions",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent-on-that",
-     "grounds": "adjective describing practitioner",
+     "grounds": "describes one devoted to that meditation",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What disciplined practice in solitude enables the creation of multiple forms?",
+   "question": "What practice is prescribed in solitude for one intent on meditation?",
    "premises": [
-    "The practitioner should remain in solitude.",
-    "The practitioner should be intent on meditation and create forms in many ways."
+    "The practice is to be done in solitude.",
+    "One is instructed to make many forms.",
+    "One must be intent on meditation."
    ],
-   "inference": "Solitary, focused meditation enables the practitioner to manifest multiple forms.",
+   "inference": "In solitude, one intent on meditation should practice creating many forms.",
    "uncertainties": [],
-   "plain_english": "In solitude, intent on meditation, create forms in many ways."
+   "plain_english": "In solitude, intent on meditation, make many forms."
   },
   {
    "verse": 246,
@@ -1079,48 +1107,49 @@
     {
      "surface": "kurute",
      "gloss": "makes",
-     "grounds": "main verb stating result",
-     "morph": "3.sg.pres.mid.√kṛ"
+     "grounds": "states the attainment produced",
+     "morph": "3.sg.mid-present/√kṛ"
     },
     {
      "surface": "amaratvaṃ",
      "gloss": "immortality",
-     "grounds": "object achieved",
+     "grounds": "result achieved",
      "morph": "n.acc.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "particle emphasizing certainty",
+     "grounds": "emphasizes the result",
      "morph": "(indecl.)"
     },
     {
      "surface": "satata",
      "gloss": "constant",
-     "grounds": "first member of compound describing practice",
+     "grounds": "first member of compound describing continuous practice",
      "morph": "compound=satata+first"
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "second member of compound describing dedication",
+     "grounds": "second member of compound describing continuous practice",
      "morph": "compound=abhyāsa+second"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent",
-     "grounds": "adjective describing practitioner",
+     "grounds": "one devoted to constant practice",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What sustained dedication leads the practitioner to attain immortality?",
+   "question": "What result comes to one devoted to constant practice?",
    "premises": [
     "The practitioner is intent on constant practice.",
-    "Such dedication produces immortality."
+    "The verse states a definite result.",
+    "That result is immortality."
    ],
-   "inference": "Unceasing dedicated practice results in immortality.",
+   "inference": "One devoted to constant practice attains immortality.",
    "uncertainties": [],
-   "plain_english": "One who is intent on constant practice indeed attains immortality."
+   "plain_english": "Indeed, one intent on constant practice attains immortality."
   },
   {
    "verse": 247,
@@ -1128,50 +1157,51 @@
     {
      "surface": "divasāt",
      "gloss": "by-day",
-     "grounds": "ablative indicating time or measure",
+     "grounds": "time reference for the practice",
      "morph": "m.abl.sg"
     },
     {
      "surface": "nāśanena",
      "gloss": "non-eating",
-     "grounds": "instrumental indicating means",
+     "grounds": "means described as abstention from eating",
      "morph": "n.inst.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "particle emphasizing means",
+     "grounds": "emphasizes the means",
      "morph": "(indecl.)"
     },
     {
      "surface": "vayo",
      "gloss": "age",
-     "grounds": "first member of compound naming death",
+     "grounds": "first member of compound with death",
      "morph": "compound=vayo+first"
     },
     {
      "surface": "mṛtyuṃ",
      "gloss": "death",
-     "grounds": "object overcome",
+     "grounds": "death associated with age to be overcome",
      "morph": "m.acc.sg"
     },
     {
      "surface": "gamiṣyate",
      "gloss": "will-go",
-     "grounds": "future verb indicating transcendence of death",
-     "morph": "3.sg.fut.mid.√gam"
+     "grounds": "states future overcoming or passing beyond; subject implied",
+     "morph": "3.sg.mid-future/√gam"
     }
    ],
-   "question": "How does abstaining from food by day affect death from aging?",
+   "question": "How does abstention from eating by day affect age-related death?",
    "premises": [
-    "The practice involves non-eating by day.",
-    "Through this means one goes beyond death from aging."
+    "Non-eating by day is specified.",
+    "Age-related death is named.",
+    "The verse states a future overcoming or departure from it."
    ],
-   "inference": "Daily fasting leads to overcoming death caused by aging.",
+   "inference": "Through abstention from eating by day, one will overcome age-related death.",
    "uncertainties": [
-    "The precise regimen implied by divasāt nāśanena is not fully specified."
+    "The exact sense of gamiṣyate with mṛtyuṃ is context-dependent."
    ],
-   "plain_english": "By abstaining from food during the day, one will overcome death from aging."
+   "plain_english": "By abstaining from eating during the day, one will overcome death from old age."
   },
   {
    "verse": 248,
@@ -1179,19 +1209,19 @@
     {
      "surface": "satata",
      "gloss": "constant",
-     "grounds": "first member of compound describing practice",
+     "grounds": "first member of compound describing continuous practice",
      "morph": "compound=satata+first"
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "second member of compound describing yoga",
+     "grounds": "second member of compound describing continuous practice",
      "morph": "compound=abhyāsa+second"
     },
     {
      "surface": "yogena",
      "gloss": "by-yoga",
-     "grounds": "instrumental indicating means",
+     "grounds": "means of attaining the result",
      "morph": "m.inst.sg"
     },
     {
@@ -1209,30 +1239,31 @@
     {
      "surface": "varṣa",
      "gloss": "year",
-     "grounds": "third member of compound describing form",
+     "grounds": "third member of compound indicating sixteen-year form",
      "morph": "compound=varṣa+third"
     },
     {
      "surface": "ākṛtiḥ",
      "gloss": "form",
-     "grounds": "subject that comes to be",
+     "grounds": "resulting bodily form",
      "morph": "f.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "becomes",
-     "grounds": "optative expressing result",
-     "morph": "3.sg.opt.act.√bhū"
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.act-optative/√bhū"
     }
    ],
-   "question": "What youthful bodily form results from constant yogic practice?",
+   "question": "What bodily form results from constant practice of this yoga?",
    "premises": [
-    "The practitioner engages in constant yogic practice.",
-    "This practice results in acquiring the form of a sixteen-year-old."
+    "Constant practice through yoga is the means.",
+    "A specific age-form is named.",
+    "The verse states that this form comes to be."
    ],
-   "inference": "Constant yogic practice can restore or produce a sixteen-year-old form.",
+   "inference": "Through constant yogic practice, one attains the form of a sixteen-year-old.",
    "uncertainties": [],
-   "plain_english": "Through constant yogic practice, one may attain the form of a sixteen-year-old."
+   "plain_english": "Through constant yogic practice, one attains the form of a sixteen-year-old."
   },
   {
    "verse": 249,
@@ -1240,38 +1271,38 @@
     {
      "surface": "dhūmra",
      "gloss": "smoke",
-     "grounds": "first member of compound describing color",
+     "grounds": "first member of compound describing smoky color",
      "morph": "compound=dhūmra+first"
     },
     {
      "surface": "varṇaṃ",
      "gloss": "colored",
-     "grounds": "object of contemplation",
-     "morph": "m.acc.sg"
+     "grounds": "describes the object as smoke-colored",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "adverb indicating continual practice",
+     "grounds": "indicates continual contemplation",
      "morph": "(indecl.)"
     },
     {
      "surface": "cintya",
      "gloss": "contemplate",
-     "grounds": "gerundive instruction",
-     "morph": "gerund.√cint"
+     "grounds": "instruction to contemplate",
+     "morph": "gerund/√cint"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "object shaken",
+     "grounds": "object that can be shaken",
      "morph": "n.acc.sg"
     },
     {
      "surface": "cālayet",
      "gloss": "shakes",
-     "grounds": "optative expressing power",
-     "morph": "3.sg.opt.caus.act.√cal"
+     "grounds": "states the power produced by contemplation",
+     "morph": "3.sg.act-optative/√cal"
     },
     {
      "surface": "priye",
@@ -1280,16 +1311,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What contemplative visualization grants the power to shake the triple world?",
+   "question": "What power arises from continually contemplating a smoke-colored form?",
    "premises": [
-    "One should always contemplate a smoke-colored form.",
-    "Such contemplation enables one to shake the triple world."
+    "A smoke-colored object is to be contemplated.",
+    "The contemplation is to be done always.",
+    "The triple world is named as affected."
    ],
-   "inference": "Constant contemplation of a smoke-colored form yields the power to shake the triple world.",
+   "inference": "By always contemplating a smoke-colored form, one can shake the triple world.",
    "uncertainties": [
-    "The specific object that is smoke-colored is not explicitly named."
+    "The specific object visualized as smoke-colored is not explicitly named."
    ],
-   "plain_english": "O beloved, always contemplating a smoke-colored form, one can shake the triple world."
+   "plain_english": "O beloved, by always contemplating a smoke-colored form, one can shake the triple world."
   }
  ]
 }

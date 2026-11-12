@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p273-v6801
-[pūjayitvā](pūjayitvā) [aśva-yuṅ-māsi](aśvayuṅmāsi) [viśokaḥ](viśokaḥ) [jagati](jagati) [dviṣaḥ](dviṣaḥ)
+[having-worshipped](pūjayitvā) [in-aśvayuj-month](aśvayuṅmāsi) [sorrowless](viśoko) [on-earth](jagati) [enemies](dviṣaḥ)
 
 ## mukta-m0-p273-v6802
-[tasya](tasya) [api](api) [upayujyante](upayujyante) [prāṇinaḥ](prāṇinaḥ) [mahiṣa-ādayaḥ](mahiṣādayaḥ)
+[of-her](tasyā) [also](aye'pi) [are-used](upayujyante) [living-beings](prāṇino) [buffalo-etc.](mahiṣādayaḥ)
 
 ## mukta-m0-p273-v6803
-[bhavānī](bhavānī) [prāṅgaṇe](prāṅgaṇe) [prāṇān](prāṇān) [ye](ye) [ca](ca) [muccanti](muccanti) [dehinaḥ](dehinaḥ)
+[of-bhavānī](bhavānī) [in-courtyard](prāṅgaṇe) [life-breaths](prāṇān) [who](ye) [and](ca) [release](muccanti) [embodied-beings](dehinaḥ)
 
 ## mukta-m0-p273-v6804
-[pūjanīyāḥ](pūjanīyāḥ) [janaiḥ](janaiḥ) [dhīrāḥ](dhīrāḥ) [sthāne](sthāne) [sthāne](sthāne) [pure](pure) [pure](pure)
+[to-be-worshipped](pūjanīyā) [by-people](janair) [wise](dhīrāḥ) [in-place](sthāne) [in-place](sthāne) [in-city](pure) [in-city](pure)
 
 ## mukta-m0-p273-v6805
-[prāg-udak](prāgudak) [pravaṇe](pravaṇe) [deśe](deśe) [rudra-aṣṭābdhi-karaiḥ](rudrāṣṭābdhikaraiḥ) [guruḥ](guruḥ)
+[east+north-sloping](prāgudak+pravaṇe) [in-place](deśe) [with-rudra+eight+ocean+hand-measures](rudrāṣṭābdhikarair) [teacher](guruḥ)
 
 ## mukta-m0-p273-v6806
-[mekhalā-traya](mekhalātraya) [saṃyuktam](saṃyuktaṃ) [yoniḥ](yoniraśvattha) [aśvattha-patra-vat](patravat)
+[with-girdle+triad](mekhalātraya) [joined](saṃyuktaṃ) [womb](yoniḥ) [like-aśvattha+leaf](aśvattha+patravat)
 
 ## mukta-m0-p273-v6807
-[pūjayet](pūjayedvedikordhve) [vedikā-ūrdhve](vedikordhve) [tu](tu) [sarvatra](sarvatra) [eva](eva) [adhivāsayet](adhivāsayet)
+[one-should-worship](pūjayed) [on-altar+top](vedikordhve) [but](tu) [everywhere](sarvatra) [indeed](eva) [one-should-consecrate](adhivāsayet)
 
 ## mukta-m0-p273-v6808
-[tat-mantraiḥ](tanmantraireva) [eva](eva) [homasyāt](homasyād) [durgāyāḥ](durgāyāśca) [ca](ca) [viśeṣataḥ](viśeṣataḥ)
+[with-those+mantras](tanmantrair) [alone](eva) [oblation](homaḥ) [should-be](syād) [of-durgā](durgāyāś) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p273-v6809
-[huta-śeṣam](hutaśeṣaṃ) [turaṅgānām](turaṅgānāṃ) [gajānām](gajānām) [upahārayet](upahārayet)
+[oblation+remainder](hutaśeṣaṃ) [to-horses](turaṅgānāṃ) [to-elephants](gajānām) [one-should-offer](upahārayet)
 
 ## mukta-m0-p273-v6810
-[bhrāmayet](bhrāmayennagare) [nagare](nagare) [nityam](nityaṃ) [nānā-ghoṣa](nānāghoṣa) [purassaram](purassaram)
+[one-should-lead-around](bhrāmayen) [in-city](nagare) [daily](nityaṃ) [with-various+sounds](nānāghoṣa) [preceded-by](purassaram)
 
 ## mukta-m0-p273-v6811
-[pūjayet](pūjayedvājacihnāni) [vāja-cihnāni](vājacihnāni) [phala-mālya](phalamālya) [vilepanaiḥ](vilepanaiḥ)
+[one-should-worship](pūjayed) [horse+marks](vājacihnāni) [with-fruit+garland+unguents](phalamālya+vilepanaiḥ)
 
 ## mukta-m0-p273-v6812
-[huta-śeṣam](hutaśeṣaṃ) [pradātavyam](pradātavyamaupanāyanike) [aupanāyanike](aupanāyanike) [gaje](gaje)
+[oblation+remainder](hutaśeṣaṃ) [to-be-given](pradātavyam) [in-initiation](aupanāyanike) [to-elephant](gaje)
 
 ## mukta-m0-p273-v6813
-[pūjā-mantrān](pūjāmantrān) [pravakṣyāmi](pravakṣyāmi) [śṛṇudhvam](śruṇudhvaṃ) [vipra-sattamāḥ](viprasattamāḥ)
+[worship+mantras](pūjāmantrān) [I-shall-declare](pravakṣyāmi) [listen](śruṇudhvaṃ) [o-best+of-brahmins](viprasattamāḥ)
 
 ## mukta-m0-p273-v6814
-[brahmāṇaḥ](brahmāṇaḥ) [satya-vākyena](satyāvākyena) [somasya](somasya) [varuṇasya](varuṇasya) [ca](ca)
+[of-brahmā](brahmāṇaḥ) [by-truth+speech](satyāvākyena) [of-soma](somasya) [of-varuṇa](varuṇasya) [and](ca)
 
 ## mukta-m0-p273-v6815
-[tejasā](tejasā) [ca](ca) [eva](eva) [sūryasya](sūryasya) [munīnām](munīnāṃ) [tapasā](tapasā) [tathā](tathā)
+[by-splendor](tejasā) [and](ca) [indeed](eva) [of-sun](sūryasya) [of-sages](munīnāṃ) [by-austerity](tapasā) [likewise](tathā)
 
 ## mukta-m0-p273-v6816
-[smara](smaratvaṃ) [tvam](tvam) [rāja-putraḥ](rājaputro'pi) [api](api) [kaustubham](kaustubhaṃ) [ca](ca) [maṇim](maṇiṃ) [smaran](smaran)
+[remember-you](smaratvaṃ) [prince](rājaputro'pi) [kaustubha](kaustubhaṃ) [and](ca) [jewel](maṇiṃ) [remembering](smaran)
 
 ## mukta-m0-p273-v6817
-[mūlye](mūlye) [arthe](arthe) [anṛta-vādī](anṛtavādī) [ca](ca) [kṣatriyaḥ](kṣatriyaśca) [ca](ca) [parāṅmukhaḥ](parāṅmukhaḥ)
+[in-price](mūlye) [in-wealth](arthe) [untruth+speaker](anṛtavādī) [and](ca) [kṣatriya](kṣatriyaś) [and](ca) [turned-away](parāṅmukhaḥ)
 
 ## mukta-m0-p273-v6818
-[vrajet](vrajestvaṃ) [tvam](tvam) [tām](tāṃ) [gatim](gatiṃ) [kṣipram](kṣipraṃ) [tat-javoyaṃ](tajjavoyaṃ) [bhavet](bhavettava) [tava](tava)
+[may-you-go](vrajestvaṃ) [that](tāṃ) [state](gatiṃ) [quickly](kṣipraṃ) [born-of-that](tajjavo) [this](ayaṃ) [may-be](bhavet) [of-you](tava)
 
 ## mukta-m0-p273-v6819
-[ripūn](ripūnvijitya) [vijitya](vijitya) [samare](samare) [saha](saha) [bhartrā](bhartrā) [sukhī](sukhī) [bhava](bhava)
+[enemies](ripūn) [having-conquered](vijitya) [in-battle](samare) [with](saha) [husband](bhartrā) [happy](sukhī) [be](bhava)
 
 ## mukta-m0-p273-v6820
-[patatri-rāṭ](patatrirāḍ) [vainateyaḥ](vainateyastathā) [tathā](tathā) [nārāyaṇa-dhvajaḥ](nārāyaṇadhvajaḥ)
+[king+of-birds](patatrirāḍ) [son-of-vinatā](vainateyas) [likewise](tathā) [nārāyaṇa+banner](nārāyaṇadhvajaḥ)
 
 ## mukta-m0-p273-v6821
-[aprameyaḥ](aprameyo) [durādharṣaḥ](durādharṣo) [raṇe](raṇe) [vai](vai) [ripu-sūdanaḥ](ripusūdanaḥ)
+[immeasurable](aprameyo) [unassailable](durādharṣo) [in-battle](raṇe) [indeed](vai) [enemy+destroyer](ripu+sūdanaḥ)
 
 ## mukta-m0-p273-v6822
-[sāśva-dharma](sāśvadharma) [yutān](yutān) [yodhān](yodhān) [rakṣatvam](rakṣatvaṃ) [ripu-sūdana](ripusūdana)
+[with-horse+dharma](sāśvadharma) [endowed](yutān) [warriors](yodhān) [protect-you](rakṣatvaṃ) [o-enemy+destroyer](ripusūdana)
 
 ## mukta-m0-p273-v6823
-[supratīkaḥ](supratīko'ñjano) [añjanaḥ](añjano) [nīlaḥ](nīla) [etaṣṭau](etaṣṭau) [deva-yonayaḥ](devayonayaḥ)
+[supratīka](supratīko) [añjana](añjano) [nīla](nīla) [these](etaṣṭau) [of-divine+origin](devayonayaḥ)
 
 ## mukta-m0-p273-v6824
-[bhadraḥ](bhadro) [mandraḥ](mandro) [mṛgaḥ](mṛgaścaiva) [ca](ca) [eva](eva) [gaja-saṅkīrṇaḥ](gajasaṅkīrṇa) [eva](eva) [ca](ca)
+[bhadra](bhadro) [mandra](mandro) [mṛga](mṛgaś) [and](ca) [indeed](eva) [elephant+mixed](gajasaṅkīrṇa) [indeed](eva) [and](ca)
 
 ## mukta-m0-p273-v6825
-[pāntu](pāntutvāṃ) [tvām](tvāṃ) [vasavaḥ](vasavo) [rudrāḥ](rudrāḥ) [ādityāḥ](ādityāssamarudgaṇaḥ) [samarud-gaṇaḥ](samarudgaṇaḥ)
+[may-protect](pāntu) [you](tvāṃ) [vasus](vasavo) [rudras](rudrā) [ādityas](ādityās) [with-marut+host](samarudgaṇaḥ)

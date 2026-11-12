@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p274-v6826
-[obtain](avāpnuhi) [victory](jayaṃ) [in-battle](yuddhe) [on-journey](gamane) [safe](svastinaḥ) [go](vraja)
+[obtain](avāpnuhi) [victory](jayaṃ) [in-battle](yuddhe) [in-going](gamane) [with-well-being](svastino) [go](vraja)
 
 ## mukta-m0-p274-v6827
-[steadiness](syathirya) [of-meru](merorjayaṃ) [from-rudra](rudrād) [from-yaśodeva](yaśodevāt) [from-purandara](purandarāt)
+[steadfastness](syathirya) [of-Meru](meror) [victory](jayaṃ) [from-Rudra](rudrād) [fame](yaśo) [from-Indra](devāt) [from-Indra](purandarāt)
 
 ## mukta-m0-p274-v6828
-[the-aśvins](aśvinau) [with-gandharvas](saha+gandharvai) [protect](pāntu) [you](tvāṃ) [everywhere](sarvatassadā)
+[two-Aśvins](aśvinau) [with](saha) [Gandharvas](gandharvai) [may-protect](pāntu) [you](tvāṃ) [from-all-sides](sarvatas) [always](sadā)
 
 ## mukta-m0-p274-v6829
-[nāgas](nāgākinnarā) [kinnaras](kinnarā) [gandharvas](gandharva) [yakṣas](yakṣa) [bhūta-hosts](bhūtagaṇā) [grahas](grahāḥ)
+[Nāgas](nāga) [Kinnaras](ākinnarā) [Gandharvas](gandharva) [Yakṣas](yakṣa) [Bhūta+hosts](bhūtagaṇā) [Grahas](grahāḥ)
 
 ## mukta-m0-p274-v6830
-[hosts](gaṇassenāpatiḥ) [commander-skanda](skando) [varuṇa](varuṇaścāśritāstvayi) [resort-to-you](āśritāstvayi)
+[of-hosts](gaṇes) [commander](senāpatiḥ) [Skanda](skando) [Varuṇa](varuṇaś) [and-resorted](ca+āśritās) [to-you](tvayi)
 
 ## mukta-m0-p274-v6831
-[dogs](śvānaḥ) [sent](prayuktānyaribhiḥ) [by-enemies](aribhiḥ) [defilements](dūṣaṇāni) [all-around](samantataḥ)
+[dogs](śvānaḥ) [employed](prayuktāni) [by-enemies](aribhiḥ) [harms](dūṣaṇāni) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p274-v6832
-[as-in-kālanemi-slaying](kālanemivadhe) [just-as](yadvadyāvat) [tripura-destroyer](tripuradhātini)
+[in-Kālanemi+slaying](kālanemi+vadhe) [as](yadvat) [as](yāvat) [in-Tripura+destroying](tripura+dhātini)
 
 ## mukta-m0-p274-v6833
-[you-shine](śobhitāsi) [thus-today](tathaivādya) [shine](śobhayā) [covenant](samayaṃ) [remember](smara)
+[adorned](śobhitāsi) [thus](tathā) [indeed](eva) [today](adya) [adorn](śobhayā) [occasion](samayaṃ) [remember](smara)
 
 ## mukta-m0-p274-v6834
-[by-diseases](vyādhibhirvividhai) [various](vividhai) [terrible](ghoraiśśāstraiśca) [weapons](śāstraiśca) [conquered-in-battle](yudhinirjitāḥ)
+[by-diseases](vyādhibhir) [by-various](vividhai) [terrible](ghoraiś) [and-by-weapons](śāstraiś+ca) [in-battle](yudhi) [conquered](nirjitāḥ)
 
 ## mukta-m0-p274-v6835
-[pūtanā](pūtanā) [revatī](revatī) [named](nāma) [kālarātrī](kālarātrīti) [remembered](yāḥ+smṛtāḥ)
+[Pūtanā](pūtanā) [Revatī](revatī) [by-name](nāma) [Kālarātrī](kālarātrī) [thus](iti) [who](yāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p274-v6836
-[burning](dahitvāśu) [quickly](āśu) [enemies](ripun) [all](sarvān) [banner](patāke) [you](tvaṃ) [by-me](mayāśritā)
+[having-burned](dahitvā) [quickly](āśu) [enemies](ripun) [all](sarvān) [O-banner](patāke) [you](tvaṃ) [by-me](mayā) [resorted-to](āśritā)
 
 ## mukta-m0-p274-v6837
-[sword](asirviśasanaḥ) [slaying](viśasanaḥ) [sharp](tīkṣṇa) [dharma](dharmā) [hard-to-approach](durāsadaḥ)
+[sword](asir) [cleaving](viśasanaḥ) [scimitar](khaḍgas) [sharp+natured](tīkṣṇa+dharmā) [unassailable](durāsadaḥ)
 
 ## mukta-m0-p274-v6838
-[thus-eight](ityaṣṭau) [your](tava) [names](nāmāni) [by-oneself](svayamuktāni) [by-creator](vedhasā)
+[thus](iti) [eight](aṣṭau) [your](tava) [names](nāmāni) [by-self](svayam) [spoken](uktāni) [by-Brahmā](vedhasā)
 
 ## mukta-m0-p274-v6839
-[gold](hiraṇyaṃ) [and](ca) [body](śarīraṃ) [your](te) [creator](dhātā) [god](devo) [janārdana](janārdanaḥ)
+[golden](hiraṇyaṃ) [and](ca) [body](śarīraṃ) [your](te) [creator](dhātā) [god](devo) [Janārdana](janārdanaḥ)
 
 ## mukta-m0-p274-v6840
-[peace-giving](śamapradastvaṃ) [you](tvaṃ) [in-battle](samare) [armor](varma) [all-calamities](sarvāpado) [indeed](hyasi)
+[peace+giver](śama+pradas) [you](tvaṃ) [in-battle](samare) [armor](varma) [all+calamities](sarva+āpado) [indeed](hi) [are](asi)
 
 ## mukta-m0-p274-v6841
-[from-sound](ghoṣāddhṛdayakampanaḥ) [heart-trembling](hṛdayakampanaḥ)
+[from-sound](ghoṣād) [heart+trembling](dhṛdaya+kampanaḥ)
 
 ## mukta-m0-p274-v6842
-[as](yathā) [by-thunder-sound](jīmūtaghoṣeṇa) [rejoice](hṛṣyanti) [enemy-elephants](paravāraṇāḥ)
+[as](yathā) [by-cloud+thunder](jīmūta+ghoṣeṇa) [rejoice](hṛṣyanti) [enemy+elephants](para+vāraṇāḥ)
 
 ## mukta-m0-p274-v6843
-[as](yathā) [by-thunder-sound](jīmūtaśabdena) [of-women](śtrīṇāṃ) [terror](trāso) [indeed](hi) [arises](jāyate)
+[as](yathā) [by-cloud+sound](jīmūta+śabdena) [of-women](śtrīṇāṃ) [terror](trāso) [indeed](hi) [arises](jāyate)
 
 ## mukta-m0-p274-v6844
-[all-weapons](sarvāyudha) [great](mahāmātra) [all-weapons](sarvāyudha) [destroyer](niṣūdana)
+[all+weapon](sarva+āyudha) [great+element](mahā+mātra) [all+weapon](sarva+āyudha) [destroyer](niṣūdana)
 
 ## mukta-m0-p274-v6845
-[pure](puṇyastvaṃ) [you](tvaṃ) [of-pure-conches](puṇyaśaṅkhānāṃ) [of-auspicious](maṅgalānāṃ) [auspicious](ca+maṅgalaḥ)
+[auspicious](puṇyas) [you](tvaṃ) [of-auspicious+conches](puṇya+śaṅkhānāṃ) [and](ca) [of-auspicious-things](maṅgalānāṃ) [auspicious-one](maṅgalaḥ)
 
 ## mukta-m0-p274-v6846
-[moon-shaped](śaśāṃkākāra) [resembling](saṃkāśa) [snow-lump](himapiṇḍita) [white](pāṇḍara)
+[moon+shape](śaśāṃka+ākāra) [resembling](saṃkāśa) [snow+compacted](hima+piṇḍita) [white](pāṇḍara)
 
 ## mukta-m0-p274-v6847
-[of-all-weapons](sarvāyudhānāṃ) [first](prathame) [created](nirmitāsi) [by-pinākin](pinākinā)
+[of-all+weapons](sarva+āyudhānāṃ) [first](prathame) [created](nirmitāsi) [by-Pinākin](pinākinā)
 
 ## mukta-m0-p274-v6848
-[to-caṇḍikā](caṇḍikāyāḥ) [given](pradattāsi) [all](sarva) [evil](duṣṭa) [destroyer](nibarhiṇī)
+[to-Caṇḍikā](caṇḍikāyāḥ) [given](pradattāsi) [all+evil](sarva+duṣṭa) [destroyer](nibarhiṇī)
 
 ## mukta-m0-p274-v6849
-[all-principles](sarvatatvāṅga) [limb](bhūtāsi) [all-inauspicious](sarvāśubha) [warder](nivāraṇī)
+[all+principle+limb](sarva+tatva+āṅga) [consisting-of](bhūtāsi) [all+inauspicious](sarva+aśubha) [remover](nivāraṇī)
 
 ## mukta-m0-p274-v6850
-[for-driving-away](protsāraṇāya) [of-wicked](duṣṭānāṃ) [of-good](sādhūnāṃ) [for-grasping](grahaṇāya) [and](ca)
+[for-driving-away](protsāraṇāya) [of-wicked](duṣṭānāṃ) [of-good](sādhūnāṃ) [for-protecting](grahaṇāya) [and](ca)

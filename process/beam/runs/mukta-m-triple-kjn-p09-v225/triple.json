@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral element indicating the quantity eighty-four",
-     "morph": "numeral.compound"
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural expressing location within a large number",
-     "morph": "n.loc.pl.nt"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-mechanisms",
-     "grounds": "compound denoting devices or frameworks of birth or origin",
-     "morph": "compound:yoni+yantra; n.loc.pl.nt"
+     "gloss": "womb-diagrams",
+     "grounds": "compound locative referring to womb-mechanisms",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing those subjected to suffering",
-     "morph": "ppp.nom.pl.m; root:pīḍ"
+     "grounds": "past passive participle describing state",
+     "morph": "3.pl.perf.pass"
     }
    ],
-   "question": "What condition afflicts beings within the eighty-four thousand womb-mechanisms?",
+   "question": "What claim about the fate of beings requires that torment occurs within eighty-four thousand womb-diagrams?",
    "premises": [
-    "There exist eighty-four thousand womb-mechanisms.",
-    "Beings are situated within these womb-mechanisms.",
-    "These beings are described as tormented."
+    "Eighty-four thousand womb-diagrams form a fixed set of locations.",
+    "Beings are situated within those womb-diagrams at the relevant time.",
+    "Such placement entails a condition of torment for those beings."
    ],
-   "inference": "Beings located in the eighty-four thousand womb-mechanisms are in a state of torment.",
+   "inference": "Beings are tormented by virtue of their presence in the eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The precise metaphysical nature of 'yoniyantra' in this context is not fully specified."
+    "The precise mode of torment is not specified by this verse alone."
    ],
-   "plain_english": "They are tormented within the eighty-four thousand womb-mechanisms."
+   "plain_english": "In the eighty-four thousand womb-diagrams, beings are tormented."
   }
  ]
 }
