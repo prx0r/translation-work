@@ -1,15 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 218,
- "question": "What claim about the uniqueness of this knowledge must hold for no equal knowledge to exist now or in the future?",
+ "question": "What claim of uniqueness is made about knowledge in relation to what has just been mentioned?",
  "premises": [
-  "Knowledge equal to this exists by comparison.",
-  "No equal knowledge exists now.",
-  "No equal knowledge will exist again in the future."
+  "By this there is knowledge.",
+  "No knowledge equal to it exists.",
+  "No knowledge equal to it will exist again."
  ],
- "inference": "This knowledge is unique, with nothing equal to it either now or in the future.",
+ "inference": "No knowledge equal to this knowledge exists now or will exist again.",
  "uncertainties": [
-  "The scope of comparison is not specified."
+  "The referent of 'this' is not repeated in the verse."
  ],
- "plain_english": "There is no knowledge equal to this; there will be none again, nor will there be."
+ "plain_english": "There is no knowledge equal to this, nor will there be again."
 }

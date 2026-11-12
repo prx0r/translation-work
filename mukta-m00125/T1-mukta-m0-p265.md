@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p265-v6601
-[wise](dhīmān) [worship](yajet) [Viṣṇu](viṣṇuṃ) [outside](bahiḥ) [world-guardian-enclosure](lokapālāvṛtiṃ)
+upward(udg) [Viṣṇu](viṣṇuṃ) [should-worship](yajet) [wise-one](dhīmān) [guardians-of-directions](lokapāla)+[surrounded](āvṛtiṃ) [outside](bahiḥ)
 
 ## mukta-m0-p265-v6602
-[invoking](āvāhya) [worshipping](abhyarcya) [with-sandal-paste-etc](gandhāyair) [nāḍī-joining](nāḍī+sandhāna) [before](pūrvakam)
+[having-invoked](āvāhya)+[and-having-worshipped](abhyarcya) [with-fragrances](gandha)+[and-others](ādyaiḥ)+[channel](nāḍī) [joining](sandhāna) [beginning-with](pūrvakam)
 
 ## mukta-m0-p265-v6603
-[with-sesame-ghee-rice-parched-grain](samidājyānna+lājaiśca) [with-sesame](tilaiḥ) [full](pūrṇāṃ) [perform](samācaret)
+[with-fuel-sticks](samid)+[clarified-butter](ājya)+[food](anna) [with-parched-grains](lājaiḥ)+[and](ca) [with-sesame-seeds](tilaiḥ) [full-offering](pūrṇāṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p265-v6604
-[as-before](prāgukta) [rite](vidhinā) [first](pūrvaṃ) [purified](saṃskṛtāśced) [best-of-twice-born](dvijottamāḥ)
+[previously-stated](prāgukta) [by-method](vidhinā) [before](pūrvaṃ) [consecrated](saṃskṛtāḥ)+[if](cet) [best-of-twice-born](dvijottamāḥ)
 
 ## mukta-m0-p265-v6605
-[at-dance-beginning](nṛttārambhe) [worship](pūjā) [should-be](syād) [of-teacher](deśikasya) [especially](viśeṣataḥ)
+[at-dance](nṛtta)+[beginning](ārambhe) [and](ca) [worship](pūjā) [should-be](syāt) [of-teacher](deśikasya) [especially](viśeṣataḥ)
 
 ## mukta-m0-p265-v6606
-[fee](bhṛtiṃ) [give](dadyāt) [then](tatastāsāṃ) [so-that](yathā) [love](prema) [may-arise](syāt) [O-twice-born](tudvijāḥ)
+[wages](bhṛtiṃ) [one-should-give](dadyāt)+[then](tatas)+[to-them](tāsāṃ) [so-that](yathā) [may-be](syāt) [affection](prema) [then](tu)+[O-twice-born](dvijāḥ)
 
 ## mukta-m0-p265-v6607
-[bathed](kṛtasnānāṅga) [adorned](bhūṣāḍhya) [white-garlands-etc](śuklamālyādi) [endowed](yuktayā)
+[done-bathing](kṛta)+[snāna](snāna)+[limbs](āṅga) [adorned](bhūṣā)+[endowed](āḍhya) [white-garlands](śukla)+[mālya](mālya)+[and-others](ādi) [endowed-with](yuktayā)
 
 ## mukta-m0-p265-v6608
-[worshipping](samabhyarcya) [before-him](tadagretu) [new](nava) [dance-rasas](nāṭya+rasānvitam)
+[having-worshipped-well](samabhyarcya) [then](tad)+[before-that](agre)+[indeed](tu) [nine](nava) [dance](nāṭya) [sentiments](rasa)+[endowed-with](anvitam)
 
 ## mukta-m0-p265-v6609
-[Brahmā](brahmā) [Viṣṇu](viṣṇuśca) [Rudra](rudraśca) [three-sandhyā-lords](sandhyātrayādhipāḥ) [remembered](smṛtāḥ)
+[Brahmā](brahmā) [Viṣṇu](viṣṇuḥ)+[and](ca) [Rudra](rudraḥ)+[and](ca) [three-twilights](sandhyā)+[traya](traya)+[lords](adhipāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p265-v6610
-[to-lotus-seated-one](kamalāsanāya)
+[to-lotus-seated](kamalāsanāya)
 
 ## mukta-m0-p265-v6611
-[with-fragrance-intoxicated-bees](āmoda+mattaralibhir) [humming](rikūjat) [flower-offering](puṣpāṃjalisyāt) [to-supreme-person](puruṣottamāya)
+[with-delight](āmoda) [intoxicated](matta)+[bees](alibhiḥ)+[humming](rikūjat) [flower-offering](puṣpāṃjaliḥ)+[may-be](syāt) [to-Supreme-Person](puruṣottamāya)
 
 ## mukta-m0-p265-v6612
-[flower-offering](puṣpāñjalir) [may-be](bhavatu) [mine](me) [to-supreme-lord](parameśvarāya)
+[flower-offering](puṣpāñjaliḥ)+[may-be](bhavatu) [my](me) [to-Supreme-Lord](parameśvarāya)
 
 ## mukta-m0-p265-v6613
-[at-festival](utsave) [at-bathing](snapane) [monthly-worship](māsapūjāyāṃ) [at-homa-rite](homakarmaṇi)
+[in-festival](utsave) [in-bathing-rite](snapane) [in-monthly](māsa)+[worship](pūjāyāṃ) [in-fire-rite](homa)+[karmaṇi](karmaṇi)
 
 ## mukta-m0-p265-v6614
-[at-flag-raising-etc](dhajārohaṇa+kalādau) [at-desired-rites](kāmyādau) [ca](ca) [distinguished](viśiṣyate)
+[flag-hoisting](dhajārohaṇa) [rite](kalā)+[and-others](ādau) [in-desired-rites](kāmyā)+[and-others](ādau) [and](ca) [is-distinguished](viśiṣyate)
 
 ## mukta-m0-p265-v6615
-[teacher](ācāryaḥ) [adept](sādhakonyaśca) [initiate](putraka) [vowed-disciple](ssamayīti) [ca](ca)
+[teacher](ācāryaḥ) [practitioner](sādhakaḥ)+[another](anyaḥ)+[and](ca) [son-disciple](putrakaḥ) [initiated-one](samayī)+[thus](iti) [and](ca)
 
 ## mukta-m0-p265-v6616
-[by-initiation](saṃskāreṇa) [distinction](viśeṣo'yaṃ) [by-birth](jātyā) [Vaiśya](vaiśi.ya) [freed](mucyate)
+[by-consecration](saṃskāreṇa) [distinction](viśeṣaḥ)+[this](ayam)+[by-birth](jātyā) [Vaiśya](vaiśi.ya) [is-stated](mucyate)
 
 ## mukta-m0-p265-v6617
-[as-before](prāgvadeva) [excellent-in-qualities](guṇotkṛṣṭā) [by-birth](jātyā) [distinction](vaiśiṣya) [declared](mīrtitam)
+[as-before](prāgvat)+[indeed](eva) [excellence-of-qualities](guṇa)+[utkṛṣṭā](utkṛṣṭā) [by-birth](jātyā) [distinction](vaiśiṣyaṃ) [is-declared](īrtitam)
 
 ## mukta-m0-p265-v6618
-[by-yoga](yogena) [by-rite](kriyayā) [or](vātha) [by-conduct](caryayāpi) [distinguished](viśiṣyate)
+[by-yoga](yogena) [by-ritual-action](kriyayā) [or](vā)+[also](atha) [by-service](caryayā)+[also](api) [is-distinguished](viśiṣyate)
 
 ## mukta-m0-p265-v6619
-[disciple](taputrā) [mantrins](mantrīṇaścaite) [these](caite) [distinguished](viśiṣyante) [in-order](krameṇa) [tu](tu)
+[their-sons](tat)+[putrāḥ](putrāḥ) [mantra-holders](mantrīṇaḥ)+[and](ca)+[these](ete) [are-distinguished](viśiṣyante) [in-order](krameṇa) [indeed](tu)
 
 ## mukta-m0-p265-v6620
-[astrologer](daivajñaśca) [in-order](krameṇaiṣāṃ) [distinction](vaiśiṣyaṃ) [in-Śiva-abode](śivadhāmani)
+[astrologer](daivajñaḥ)+[and](ca) [in-order](krameṇa)+[of-these](eṣāṃ) [distinction](vaiśiṣyaṃ) [in-Śiva’s-abode](śiva)+[dhāmani](dhāmani)
 
 ## mukta-m0-p265-v6621
-[my-devotees](madbhaktā) [steadfast](naiṣṭhikā) [afterwards](paścāt) [material](bhautikā) [fee-exempt](bhṛti+varjitāḥ)
+[my-devotees](mad)+[bhaktāḥ](bhaktāḥ) [vow-observing](naiṣṭhikāḥ) [afterwards](paścāt) [material](bhautikāḥ) [wages](bhṛti) [devoid-of](varjitāḥ)
 
 ## mukta-m0-p265-v6622
-[independent-singing](svatantragāna) [skilled](kṛdviṇā) [mantra-singing-etc](mantra+gānādi) [devoted](tatparāḥ)
+[independent](svatantra)+[singing](gāna) [doing](kṛt)+[with-vīṇā](viṇā) [mantra](mantra) [singing](gāna)+[and-others](ādi) [devoted-to](tatparāḥ)
 
 ## mukta-m0-p265-v6623
-[in-order](krameṇaiṣāṃ) [ca](ca) [distinction](vaiśiṣyaṃ) [by-their-own-duties](svasvakarmabhir) [declared](īritam)
+[in-order](krameṇa)+[of-these](eṣāṃ) [and](ca) [distinction](vaiśiṣyaṃ) [by-their-own-duties](svasva)+[karmabhiḥ](karmabhiḥ)+[is-declared](īritam)
 
 ## mukta-m0-p265-v6624
-[by-Brahmin-etc-order](brāhmaṇādi+kraṇeṇāpi) [knowing](jñātvā) [distinction](vaiśiṣyam) [respectfully](ādarāt)
+[Brāhmaṇa](brāhmaṇa)+[and-others](ādi) [in-order](krameṇā)+[also](api) [having-known](jñātvā) [distinction](vaiśiṣyam)+[with-respect](ādarāt)
 
 ## mukta-m0-p265-v6625
-[of-all](sarveṣām) [declared](uditaṃ) [of-them](teṣāṃ) [chief](mukhyantaṃ) [by-teacher's-command](deśikājñayā)
+[of-all](sarveṣām)+[declared](uditaṃ) [of-them](teṣāṃ) [up-to-chief](mukhya)+[antam](antaṃ) [by-teacher’s-command](deśika)+[ājñayā](ājñayā)

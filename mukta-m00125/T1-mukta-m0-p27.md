@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-all [sarve] with-thread-garment-rich [sasūtravastrāḍhyā] gold-lotus-adorned [hemapaṃkajabhūṣitāḥ]
+all(sarve) with-thread+cloth+rich+golden-lotus+adorned(sa+sūtra+vastra+āḍhya+hema+paṃkaja+bhūṣitāḥ)
 
 ## mukta-m0-p27-v652
-by-bathing-study-accomplished-measure [snapanāddhyāyasaṃsiddhapramāṇena] endowed [samanvitāḥ]
+bathing+chapter+accomplished+measure(snapanā+adhyāya+saṃsiddha+pramāṇena) endowed-with(samanvitāḥ)
 
 ## mukta-m0-p27-v653
-in-world-lords-etc [lokeśādiṣu] golds [hemāni] throw [kṣipel] in-outer-pots-too [bāhyaghaṭeṣvapi]
+in-world-guardians+etc(lokeśa+ādiṣu) gold-pieces(hemāni) one-should-cast(kṣipet) in-outer-pots+also(bāhya+ghaṭeṣu+api)
 
 ## mukta-m0-p27-v654
-archway-door-pots-and [toraṇadvārakumbhāṃśca] world-protector-pots-too [lokapālaghaṭānapi]
+arch+door-pots(toraṇa+dvāra+kumbhān) and(ca) world-guardian-pots(lokapāla+ghaṭān) also(api)
 
 ## mukta-m0-p27-v655
-auspicious-eight-joined [maṅgalāṣṭakasaṃyuktaṃ] ten-weapons [daśāstraṃ] should-place [viniveśayet]
+auspicious-octad+endowed-with(maṅgala+aṣṭaka+saṃyuktaṃ) ten-weapons(daśa+astraṃ) one-should-place(viniveśayet)
 
 ## mukta-m0-p27-v656
-golden [sauvarṇaṃ] silver [rājataṃ] thread [sūtraṃ] or [yadvā] cotton-made [kārpāsanirmitam]
+golden(sauvarṇaṃ) silver(rājataṃ) thread(sūtraṃ) or(yad+vā) cotton+made(kārpāsa+nirmitam)
 
 ## mukta-m0-p27-v657
-small-excess-measure-rich [svalpādhikapramāṇāḍhya] serpent-king-hood-endowed [nāgarājaphaṇānvitam]
+little+more+measure+endowed(svalpa+adhika+pramāṇa+āḍhya) serpent-king+hood+possessed(nāgarāja+phaṇā+anvitam)
 
 ## mukta-m0-p27-v658
-ananta-thus-lord [anantastvadhi] of-god [devasyāt] golden [sauvarṇe] silver-too [rājate'pi] or [vā]
+Ananta(anantaḥ) indeed(tu) presiding-deity(adhi+deva) should-be(syāt) in-golden(sauvarṇe) in-silver(rājate) also(api) or(vā)
 
 ## mukta-m0-p27-v659
-strung [grathitaṃ] best [śreṣṭham] thus-said [ityuktaṃ] bracelet-grasper-endowed [valayagrāhakānvitam]
+strung(grathitaṃ) best(śreṣṭham) thus-said(iti+uktaṃ) ring+holder+endowed(valaya+grāhaka+anvitam)
 
 ## mukta-m0-p27-v660
-peace-purpose [śāntyarthaṃ] victory-purpose [vijayārthaṃ] that-art-essence [tatkalātmakam] thus-remembered [iti smṛtam]
+for-peace(śānti+artham) for-victory(vijaya+artham) that(time)+consisting-of(tat+kalātmakam) thus(iti) remembered(smṛtam)
 
 ## mukta-m0-p27-v661
-six-limb-form-glance-and [ṣaḍaṃgamūrtipāṃgañcet] son-life-fruit-giving [putrāyuṣyaphalapradam]
+six-limb+deity+limb+if(ṣaḍ+aṃga+mūrti+pā+āṅgam+cet) son+longevity+fruit+giving(putra+āyuṣya+phala+pradam)
 
 ## mukta-m0-p27-v662
-purifying [saṃśoddhya] with-water [vāriṇā] and [ca] with-sandal [evaṃcandanena] anointing [upalipya] and [ca]
+having-purified(saṃśoddhya) with-water(vāriṇā) and(ca) thus(evam) with-sandal(candanena) having-smeared(upalipya) and(ca)
 
 ## mukta-m0-p27-v663
-each [pratyekaṃ] altar [sthaṇḍilaṃ] making [kṛtvā] above-that [tadūrdhve] yantra-upon [yantrikopari]
+each(pratyekaṃ) altar(sthaṇḍilaṃ) having-made(kṛtvā) upon-that(tad+ūrdhve) on-stand(yantrikā+upari)
 
 ## mukta-m0-p27-v664
-two-prastha-end [dviprasthāntair] not-that-subordinate [nataddhīnaiḥ] drona-etc [droṇādyai] heart [hṛdayaṃ] remembering [smaran]
+with-two-prasthas+ending(dvi+prastha+antaiḥ) not-less-than-that(na+tad+hīnaiḥ) with-droṇa+etc(droṇa+ādyaiḥ) heart(hṛdayaṃ) remembering(smaran)
 
 ## mukta-m0-p27-v665
-unbroken-pair-smooth-cluster-essence-endowed [abhinnayugmasuślakṣṇapūgasārasamanvitam]
+unbroken+pair+very-smooth+areca-nut+essence+endowed(abhinna+yugma+suślakṣṇa+pūga+sāra+samanvitam)
 
 ## mukta-m0-p27-v666
-betel [tāmbūlaṃ] with-thread [sūtrasahitaṃ] on-altar [sthaṇḍilopari] place [vinyaset]
+betel(tāmbūlaṃ) with-thread(sūtra+sahitaṃ) on-altar(sthaṇḍila+upari) one-should-place(vinyaset)
 
 ## mukta-m0-p27-v667
-on-altar [sthaṇḍile] worship [pūjayec] power [śaktiṃ] in-yantra [yaṃtrikāyāṃ] three-skin [tritatvakam]
+on-altar(sthaṇḍile) one-should-worship(pūjayet) Śakti(śaktiṃ) on-stand(yantrikāyāṃ) triad-of-principles(tri+tatvakam)
 
 ## mukta-m0-p27-v668
-ash-holder [bhasmādhāre] Uma-named [umākhyāsyāt] ash [bhasite] Lakulishvara [lakulīśvaram]
+on-ash-receptacle(bhasma+ādhāre) Umā(umā) should-be(ākhyā) on-ash(bhasite) Lakulīśvara(lakulīśvaram)
 
 ## mukta-m0-p27-v669
-vessel-covering [pātramācchādya] cloth-etc [paṭṭādyaiḥ] garland-end-upon-place [mālāntaduparinyaset]
+vessel(pātram) having-covered(ācchādya) with-cloth+etc(paṭṭa+ādyaiḥ) up-to-garland(mālā+anta) upon-that(upari) one-should-place(nyaset)
 
 ## mukta-m0-p27-v670
-village-south [grāmadakṣiṇaṃ] or [vātha] temple [prāsādasya] circumambulation [pradakṣiṇam]
+village+circumambulation(grāma+dakṣiṇaṃ) or(vā) or(atha) of-temple(prāsādasya) circumambulation(pradakṣiṇam)
 
 ## mukta-m0-p27-v671
-thumb-ring-finger [aṃguṣṭhānāmikābhyantu] taking [grahītvā] left-hand [vāmahastake]
+with-thumb+ring-finger(aṃguṣṭha+anāmikābhyām) indeed(tu) having-grasped(grahītvā) in-left-hand(vāma+hastake)
 
 ## mukta-m0-p27-v672
-by-mantra [mantreṇā] anustubha-eye [nuṣṭubhānetraṃ] remembering [smaran] all-forearm [sarvaprakoṣṭhake]
+with-mantra(mantreṇa) with-anuṣṭubh(anuṣṭubhā) weapon(netraṃ) remembering(smaran) in-every-compartment(sarva+prakoṣṭhake)
 
 ## mukta-m0-p27-v673
-all-soul-lord [sarvātmanātha] of-goddesses [devīnāṃ] left [vāme] or [vā] right [dakṣiṇetha] or [vā]
+with-whole-being(sarva+ātmanā) then(atha) of-goddesses(devīnāṃ) on-left(vāme) or(vā) on-right(dakṣiṇe) or(atha) or(vā)
 
 ## mukta-m0-p27-v674
-betel-and [tāmbūlañca] fruit-cake-coconut-fruit-endowed [phalāpūpanālikeraphalānvitam]
+betel(tāmbūlam) and(ca) with-fruit+cake+coconut-fruit(phala+apūpa+nālikera+phala+anvitam)
 
 ## mukta-m0-p27-v675
-Skanda [skando] me [mā] with [sahite] Skanda-less [skandahīne] or [vā] moon-crested [candraśekhare]
+Skanda(skandaḥ) Mā(mā) with-accompanied(sahite) or(vā) Skanda+without(skanda+hīne) or(vā) in-moon-crested(candra+śekhare)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p267-v6651
-[homa](homa) [karma](karma) [nivedya-asmai](nivedyāsmai) [devam](devaṃ) [stutvā](stutvā) [praṇamya](praṇamya) [ca](ca)
+[oblation](homa) [ritual](karma) [having-offered](nivedya) [to-him](asmai) [god](devaṃ) [having-praised](stutvā) [having-bowed](praṇamya) [and](ca)
 
 ## mukta-m0-p267-v6652
-[tad-bhasma-ālepanam](tadbhasmālepanaṃ) [kuryāt](kuryāt) [tat-mantra](tanmantra) [dhyāna](dhyāna) [saṃyutam](saṃyutam)
+[of-that](tad) [ash](bhasma) [smearing](ālepanaṃ) [one-should-do](kuryāt) [with-that](tan) [mantra](mantra) [meditation](dhyāna) [endowed](saṃyutam)
 
 ## mukta-m0-p267-v6653
-[homa-ante](homānte) [vā](vā) [balim](baliṃ) [dadyāt](dadyāt) [anyathā-api](anyathāpi) [nigadyate](nigadyate)
+[at-oblation-end](homānte) [or](vā) [offering](baliṃ) [one-should-give](dadyāt) [otherwise](anyathā) [also](api) [it-is-stated](nigadyate)
 
 ## mukta-m0-p267-v6654
-[gandha-puṣpa-ādinā](gandhapuṣpādinā) [abhyarcya](abhyarcya) [tathā](tathā) [bali-antam](balyantameva) [eva](eva) [ca](ca)
+[with-fragrance](gandha) [flower](puṣpa) [etc.](ādinā) [having-worshipped](abhyarcya) [likewise](tathā) [up-to-offering](balyantam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p267-v6655
-[śuddha-annam](śuddhānnaṃ) [vā](vā) [ājya-saṃyuktam](vājya) [dadhi-apūpa-ādi](dadhyapūpādi) [saṃyutam](saṃyutam)
+[pure](śuddha) [food](annaṃ) [with-ghee](vājya) [mixed](saṃyuktaṃ) [with-curd](dadhi) [cake](apūpa) [etc.](ādi) [mixed](saṃyutam)
 
 ## mukta-m0-p267-v6656
-[cature](cature) [caitya-vṛkṣasya](caitya) [mūle](mūle) [rathyām](rathyām) [atha-api](athāpi) [vā](vā)
+[at-crossroads](cature) [of-sacred](caitya) [tree](vṛkṣasya) [at-root](mūle) [on-road](rathyām) [or](atha) [also](api) [or](vā)
 
 ## mukta-m0-p267-v6657
-[yah](yassatvo) [satvaḥ](satvo) [devadattam](devadattaṃ) [tu](tu) [samāśritya](samāśrityeha) [iha](iha) [vartate](vartate)
+[which](yaḥ) [being](satvo) [devadatta](devadattaṃ) [indeed](tu) [having-resorted-to](samāśritya) [here](iha) [dwells](vartate)
 
 ## mukta-m0-p267-v6658
-[eka-āha-ādi](ekāhādi) [daśa-āha-antam](daśāhāntaṃ) [māsāt](māsāt) [saṃvatsara-antakam](saṃvatsarāntakam)
+[from-one-day](ekāha) [beginning](ādi) [up-to-ten-days](daśāha) [ending](antaṃ) [from-month](māsāt) [up-to-year](saṃvatsara) [ending](antakam)
 
 ## mukta-m0-p267-v6659
-[baliḥ](balireṣa) [eṣa](eṣa) [samākhyātaḥ](samākhyāto) [dhūpa-dīpa-samanvitaḥ](dhūpadīpasamanvitaḥ)
+[offering](baliḥ) [this](eṣa) [is-declared](samākhyāto) [with-incense](dhūpa) [lamp](dīpa) [accompanied](samanvitaḥ)
 
 ## mukta-m0-p267-v6660
-[athavā](athavānya) [anya-prakāreṇa](prakāreṇa) [vyādhi-mocanam](vyādhimocanam) [ucyate](ucyate)
+[now](atha) [or](vā) [by-another](anya) [method](prakāreṇa) [disease](vyādhi) [release](mocanam) [is-stated](ucyate)
 
 ## mukta-m0-p267-v6661
-[sauvarṇām](sauvarṇāṃ) [rājatām](rājatāṃ) [vā](vā) [atha](atha) [śata-niṣka-vinirmitām](śataniṣka)
+[golden](sauvarṇāṃ) [silver](rājatāṃ) [or](vā) [or](atha) [with-hundred](śata) [niṣka](niṣka) [made](vinirmitām)
 
 ## mukta-m0-p267-v6662
-[daśa-niṣkam](daśaniṣkamimāṃ) [imām](imāṃ) [vā](vā) [atha](atha) [pañca-niṣka-vinirmitām](pañcaniṣka)
+[with-ten](daśa) [niṣka](niṣkam) [this](imāṃ) [or](vā) [or](atha) [with-five](pañca) [niṣka](niṣka) [made](vinirmitām)
 
 ## mukta-m0-p267-v6663
-[kuryāt](kuryāt) [pratikṛtim](pratikṛtiṃ) [vidvān](vidvān) [vitta-śāṭhyam](vittaśāṭhyaṃ) [na](na) [kārayet](kārayet)
+[one-should-make](kuryāt) [image](pratikṛtiṃ) [the-wise](vidvān) [wealth](vitta) [deceit](śāṭhyaṃ) [not](na) [should-cause](kārayet)
 
 ## mukta-m0-p267-v6664
-[kāla-rūpam](kālarūpaṃ) [tu](tu) [vā](vā) [nemi-rūpam](nemirūpaṃ) [rūpa-antaram](rūpāntaraṃ) [tu](tu) [vā](vā)
+[time](kāla) [form](rūpaṃ) [indeed](tu) [or](vā) [wheel-rim](nemi) [form](rūpaṃ) [or-another](rūpa) [form](antaraṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p267-v6665
-[anena](anena) [vidhinā](vidhinā) [rogī](rogī) [arogī](arogī) [syāt](syānna) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[by-this](anena) [method](vidhinā) [sick-person](rogī) [free-from-disease](arogī) [will-be](syāt) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p267-v6666
-[pañca-ṣaṇ-māsa-paryantam](pañcaṣaṇmāsaparyantaṃ) [yāvat](yāvat) [vyādhi-vināśanam](vyādhivināśanam)
+[for-five](pañca) [six](ṣaṇ) [month](māsa) [until](paryantaṃ) [as-long-as](yāvat) [disease](vyādhi) [destruction](vināśanam)
 
 ## mukta-m0-p267-v6667
-[aṣṭamyām](aṣṭamyāṃ) [vā](vā) [caturdaśyām](caturdaśyāṃ) [parvaṇi](parvaṇyāpi) [api](api) [ca](ca) [pakṣayoḥ](pakṣayoḥ)
+[on-eighth-day](aṣṭamyāṃ) [or](vā) [on-fourteenth-day](caturdaśyāṃ) [on-festival-day](parvaṇi) [also](api) [and](ca) [of-two-fortnights](pakṣayoḥ)
 
 ## mukta-m0-p267-v6668
-[sva-janmarkṣe](svajanmarkṣe) [anu-janmarkṣe](anujanmarkṣe) [śuddha-deśe](śuddhadeśe) [manorame](manorame)
+[on-one's-own](sva) [birth](janma) [asterism](ṛkṣe) [or-following](anu) [birth](janma) [asterism](ṛkṣe) [in-pure](śuddha) [place](deśe) [delightful](manorame)
 
 ## mukta-m0-p267-v6669
-[sthaṇḍilam](sthaṇḍilaṃ) [tatra](tatra) [kṛtvā](kṛtvānte) [ante](ante) [sādhayet](sādhayet) [kalaśān](kalaśānnavā) [navā](navā)
+[altar](sthaṇḍilaṃ) [there](tatra) [having-made](kṛtvā) [then](ante) [one-should-accomplish](sādhayet) [with-pots](kalaśān) [now](nava)
 
 ## mukta-m0-p267-v6670
-[ekaḥ](eko) [vā](vā) [madhyame](madhyame) [teṣām](teṣāṃ) [ghaṭaḥ](ghaṭassyāddroṇapūritaḥ) [syāt](syāt) [droṇa-pūritaḥ](droṇapūritaḥ)
+[one](eko) [or](vā) [in-middle](madhyame) [of-them](teṣāṃ) [pot](ghaṭaḥ) [should-be](syāt) [with-droṇa](droṇa) [filled](pūritaḥ)
 
 ## mukta-m0-p267-v6671
-[sarva-auṣadhi-samāyuktān](sarvauṣadhi) [nānā-bīja-samanvitān](nānābīja)
+[with-all](sarva) [herbs](auṣadhi) [endowed](samāyuktān) [with-various](nānā) [seeds](bīja) [endowed](samanvitān)
 
 ## mukta-m0-p267-v6672
-[gandha-toya-samāyuktām](gandhatoya) [tat-tat-mantra-samanvitān](tat-tanmantra)
+[with-fragrant](gandha) [water](toya) [endowed](samāyuktān) [with-that](tat) [that](tat) [mantra](mantra) [endowed](samanvitān)
 
 ## mukta-m0-p267-v6673
-[tat-tat-mantra-śata-ālabdhām](tattanmantraśatālabdhāṃ) [tat-pūrve](statpūrve) [vā](vā) [caturṣu](caturṣvapi) [api](api)
+[with-that](tat) [that](tat) [mantra](mantra) [hundred](śata) [consecrated](ālabdhān) [before-that](tatpūrve) [or](vā) [in-four](caturṣu) [also](api)
 
 ## mukta-m0-p267-v6674
-[śiva-agnau](śivāgnau) [juhuyāt](juhuyāddhīmān) [dhīmān](dhīmān) [samid-ājya-anna-saṃyutam](samidājyānna)
+[in-śiva](śiva) [fire](agnau) [one-should-offer](juhuyāt) [the-wise](dhīmān) [with-fuel](samid) [ghee](ājya) [food](anna) [mixed](saṃyutam)
 
 ## mukta-m0-p267-v6675
-[gomaya-ālipta-deśe](gomayāliptadeśe) [tu](tu) [phalaka-upari](phalakopari) [saṃsthitaṃ](saṃshtitam)
+[with-cow-dung](gomaya) [smeared](ālipta) [place](deśe) [indeed](tu) [on-plank](phalaka) [upon](upari) [placed](saṃsthitam)

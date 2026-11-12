@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "vṛkṣa",
-   "morph": "compound",
+   "morph": "compound: vṛkṣa+tree",
    "grounds": "first member of compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "born from tree"
+   "morph": "compound: jā+born",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "mūla",
-   "morph": "compound",
+   "morph": "compound: mūla+root",
    "grounds": "first member of compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "born from root"
+   "morph": "compound: jā+born",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ca",
@@ -34,23 +34,23 @@
   },
   {
    "lemma": "puṣpa",
-   "morph": "compound",
+   "morph": "compound: puṣpa+flower",
    "grounds": "first member of compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "born from flower"
+   "morph": "compound: jā+born",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "phala",
-   "morph": "compound",
+   "morph": "compound: phala+fruit",
    "grounds": "first member of compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "born from fruit"
+   "morph": "compound: jā+born",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "api",
@@ -60,7 +60,7 @@
   {
    "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "alternative particle"
+   "grounds": "disjunctive particle"
   }
  ]
 }

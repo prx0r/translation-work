@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral element forming the count of thousands",
-     "morph": "numeral"
+     "grounds": "numeral element indicating the quantity eighty-four",
+     "morph": "numeral.compound"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative indicating the vast number in which torment occurs",
-     "morph": "n.loc.pl"
+     "grounds": "locative plural expressing location within a large number",
+     "morph": "n.loc.pl.nt"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "in-womb-mechanisms",
-     "grounds": "compound denoting the spheres or devices of birth",
-     "morph": "compound: yoni+womb+first, yantra+mechanism+second; n.loc.pl"
+     "grounds": "compound denoting devices or frameworks of birth or origin",
+     "morph": "compound:yoni+yantra; n.loc.pl.nt"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "describes beings subjected to suffering within those realms",
-     "morph": "m.nom.pl.past-participle; root pīḍ"
+     "grounds": "past passive participle describing those subjected to suffering",
+     "morph": "ppp.nom.pl.m; root:pīḍ"
     }
    ],
    "question": "What condition afflicts beings within the eighty-four thousand womb-mechanisms?",
    "premises": [
-    "The scope is eighty-four thousand in number.",
-    "These thousands are womb-mechanisms or realms of birth.",
-    "Beings within them are described as tormented."
+    "There exist eighty-four thousand womb-mechanisms.",
+    "Beings are situated within these womb-mechanisms.",
+    "These beings are described as tormented."
    ],
-   "inference": "Beings are subjected to torment throughout the vast multiplicity of eighty-four thousand womb-mechanisms.",
+   "inference": "Beings located in the eighty-four thousand womb-mechanisms are in a state of torment.",
    "uncertainties": [
-    "The subject of pīḍitāḥ is not explicitly stated in this verse and is inferred from context."
+    "The precise metaphysical nature of 'yoniyantra' in this context is not fully specified."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
+   "plain_english": "They are tormented within the eighty-four thousand womb-mechanisms."
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p268-v6676
-[having-wiped](nirmṛjya) [with-flour-paste-or](paiṣṭikaivāpi) [with-barley-etc](yavādyair) [with-cow-dung-born](gomayodbhavaiḥ)
+[having-wiped](nirmṛjya) [with-flour-paste](paiṣṭikaiva) [or](api) [with-barley-etc.](yavādyaiḥ) [produced-from-cow-dung](gomayodbhavaiḥ)
 
 ## mukta-m0-p268-v6677
-[or-sprinkle](prokṣayedvātha) [with-mantra](mantreṇa) [then-ash-anointing](tadbhasmālepanaṃ) [then](tataḥ)
+[should-sprinkle](prokṣayed) [or](vā) [then](atha) [with-mantra](mantreṇa) [that-ash-smearing](tadbhasmālepanaṃ) [then](tataḥ)
 
 ## mukta-m0-p268-v6678
-[of-kings](rājñāṃ) [crowned-ones](paṭṭabhṛtāṃ) [or](vātha) [of-feudatories](sāmantānāṃ) [of-great-souls](mahātmanām)
+[of-kings](rājñāṃ) [wearing-diadem](paṭṭabhṛtāṃ) [or](vā) [then](atha) [of-feudatories](sāmantānāṃ) [of-great-souled](mahātmanām)
 
 ## mukta-m0-p268-v6679
-[fifty](pañcāśat) [in-number](saṃkhyayā) [from-them](tebhyo) [not-less](na hīnān) [should-accomplish](sādhayet) [guru](guruḥ)
+[by-fifty](pañcāśat) [in-number](saṃkhyayā) [than-them](tebhyo) [not](na) [less](hīnān) [should-accomplish](sādhayet) [guru](guruḥ)
 
 ## mukta-m0-p268-v6680
-[in-middle](madhyame) [and](ca) [especially](viśeṣeṇa) [with-them](taistān) [should-bathe](saṃsnāpayed) [guru](guruḥ)
+[in-middle](madhyame) [and](ca) [especially](viśeṣeṇa) [with-those](taistān) [should-bathe](saṃsnāpayed) [guru](guruḥ)
 
 ## mukta-m0-p268-v6681
-[from-sunrise](ādityodayamārabhya) [in-water](jale) [standing](sthitvā) [mantra](manuṃ) [japet](japet)
+[sun-rise](ādityodayam) [beginning-from](ārabhya) [in-water](jale) [having-stood](sthitvā) [mantra](manuṃ) [should-mutter](japet)
 
 ## mukta-m0-p268-v6682
-[hundred-eight](śatamaṣṭottaraṃ) [or](vāpi) [daily](pratyahaṃ) [japa-practice](japamācaret)
+[hundred](śatam) [eight-more](aṣṭottaraṃ) [or](vā) [also](api) [every-day](pratyahaṃ) [recitation](japam) [should-perform](ācaret)
 
 ## mukta-m0-p268-v6683
-[with-homa](homena) [equal-number](samasakhyāṃ) [or](vā) [japa-equal](japa tulyaṃ) [supreme-opinion](paraṃ matam)
+[with-oblation](homena) [equal-number](samasakhyāṃ) [or](vā) [recitation-equal](japa+tulyaṃ) [supreme](paraṃ) [opinion](matam)
 
 ## mukta-m0-p268-v6684
-[by-this](anenāpi) [manner](prakāreṇa) [birch-leaf](bhūrjapatra) [bark-etc](tvagādike)
+[by-this](anenāpi) [manner](prakāreṇa) [on-birch-leaf](bhūrjapatra) [bark-etc.](tvagādike)
 
 ## mukta-m0-p268-v6685
-[with-saffron](kuṅkumena) [should-write](likhed) [letters](varṇāṃ) [that-deity-worship-foremost](taddevejyāpurassaram)
+[with-saffron](kuṅkumena) [should-write](likhed) [syllables](varṇāṃ) [that-deity-worship](taddevejyā) [preceded-by](purassaram)
 
 ## mukta-m0-p268-v6686
-[having-done](vidhāya) [japa-only](japamātraṃ) [or](vā) [with-gorocana](gorocanayutaṃ) [tu](tu) [or](vā)
+[having-performed](vidhāya) [recitation-only](japamātraṃ) [or](vā) [with-cow-bezoar](gorocanayutaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p268-v6687
-[having-worshipped](saṃpūjya) [with-sandal-flowers-etc](gandhapuṣpādyaiḥ) [pill](rgulikāṃ) [should-make-then](kārayettataḥ)
+[having-worshipped](saṃpūjya) [with-fragrance-flower-etc.](gandhapuṣpādyaiḥ) [pill](gulikāṃ) [should-make](kārayet) [then](tataḥ)
 
 ## mukta-m0-p268-v6688
-[with-lac](lākṣayā) [or](vātha) [that](sā) [should-be-worn](dhāryā) [until](yāvat) [disease-release](vyādhi vimocanam)
+[with-lac](lākṣayā) [or](vā) [then](atha) [that](sā) [to-be-worn](dhāryā) [as-long-as](yāvat) [disease-release](vyādhi+vimocanam)
 
 ## mukta-m0-p268-v6689
-[in-ear](karṇe) [or](vā) [in-throat-region](kaṇṭhadeśe) [or](vā) [in-tuft](śikhāyāṃ) [or](vā) [in-hand](kare'pi) [or](vā)
+[in-ear](karṇe) [or](vā) [in-throat-region](kaṇṭhadeśe) [or](vā) [on-tuft](śikhāyāṃ) [or](vā) [on-hand](kare) [also](api) [or](vā)
 
 ## mukta-m0-p268-v6690
-[daily](pratyahaṃ) [should-be-worshipped](pūjanīyo) [or](vā) [mantra](mantrassarvaphalapradaḥ) [all-fruit-giving](mantrassarvaphalapradaḥ)
+[every-day](pratyahaṃ) [to-be-worshipped](pūjanīyo) [or](vā) [mantra](mantraḥ) [all-fruit-giving](sarvaphalapradaḥ)
 
 ## mukta-m0-p268-v6691
-[worship](pūjāṃ) [homa](homaṃ) [and](ca) [or](vā) [daily](nityaṃ) [japa-libation](japatarpaṇa) [joined](saṃyutam)
+[worship](pūjāṃ) [oblation](homaṃ) [and](ca) [or](vā) [daily](nityaṃ) [with-recitation-libation](japatarpaṇa+saṃyutam)
 
 ## mukta-m0-p268-v6692
-[powerful](balavān) [pleasant-looking](priyadarśaśca) [king](rājā) [righteous](dhārmādhiko) [becomes](bhavet)
+[strong](balavān) [pleasant-to-behold](priyadarśaḥ) [and](ca) [king](rājā) [righteousness-exceeding](dhārmādhiko) [should-become](bhavet)
 
 ## mukta-m0-p268-v6693
-[appointed](tanniyukto) [or](vātha) [not-other](nānyo) [especially](viśeṣādrāja) [in-king-work](karmaṇi)
+[by-him-appointed](tanniyukto) [or](vā) [then](atha) [or](vā) [another](nānyo) [especially](viśeṣād) [in-royal-duty](rāja+karmaṇi)
 
 ## mukta-m0-p268-v6694
-[everywhere](sarvatra) [in-all-ways](sarvadhā) [he-this](so'yam) [ādiśaiva](ādiśaivaḥ) [proclaimed](prakrīrtitaḥ)
+[everywhere](sarvatra) [in-every-way](sarvadhā) [he](so) [this](ayam) [ādiśaiva](ādiśaivaḥ) [is-declared](prakrīrtitaḥ)
 
 ## mukta-m0-p268-v6695
-[in-middle](madhye) [or](vā) [elephant-stable](gajaśālāyāṃ) [stake-place](śūlasthāne) [pleasant](manorame)
+[in-middle](madhye) [or](vā) [in-elephant-stable](gajaśālāyāṃ) [in-trident-place](śūlasthāne) [charming](manorame)
 
 ## mukta-m0-p268-v6696
-[of-obstacle-lord](vighnarājasya) [of-teacher](śāstuśca) [of-mothers](mātṛṇām) [in-shrine](ālaye'pi) [or](vā)
+[of-vighnarāja](vighnarājasya) [of-śāstṛ](śāstuḥ) [and](ca) [of-mothers](mātṛṇām) [in-shrine](ālaye) [also](api) [or](vā)
 
 ## mukta-m0-p268-v6697
-[with-cow-dung](gomayenopalipyātha) [then-sprinkle](prokṣayedastra) [with-weapon-water](vāriṇā)
+[with-cow-dung](gomayena) [having-smeared](upalipya) [then](atha) [should-sprinkle](prokṣayed) [with-weapon-water](astra+vāriṇā)
 
 ## mukta-m0-p268-v6698
-[with-parched-rice-darbha](lājadarbha samāyuktaṃ) [with-droṇa-water](droṇatoya prapūritam)
+[with-parched-rice-kuśa](lājadarbha+samāyuktaṃ) [with-droṇa-water](droṇatoya+prapūritam)
 
 ## mukta-m0-p268-v6699
-[cardamom](elā) [saffron](kuṅkuma) [camphor](karpūra) [three-fruits](phalatraya) [with](samanvitam)
+[cardamom](elā) [saffron](kuṅkuma) [camphor](karpūra) [three-fruits](phalatraya+samanvitam)
 
 ## mukta-m0-p268-v6700
-[there](tatra) [with-limbs](sāṅga) [great-weapon](maghorāstraṃ) [with-command](sāsanaṃ) [properly-worship](samyagarcayet)
+[there](tatra) [with-limbs](sāṅga) [aghora-weapon](maghorāstraṃ) [with-seat](sāsanaṃ) [properly](samyag) [should-worship](arcayet)
