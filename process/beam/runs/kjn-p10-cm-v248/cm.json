@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+first-member",
-   "grounds": "first member of compound with abhyāsa"
+   "morph": "compound-member",
+   "grounds": "qualifies practice"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second-member",
-   "grounds": "second member of compound with yogena"
+   "morph": "compound-member",
+   "grounds": "first member of yogic means"
   },
   {
    "lemma": "yogena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental indicating means"
+   "morph": "m.ins.sg",
+   "grounds": "means of transformation"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+first-member",
-   "grounds": "first member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "first part of numerical compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+second-member",
-   "grounds": "second member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "second part of numerical compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+third-member",
-   "grounds": "third member of compound with ākṛtiḥ"
+   "morph": "compound-member",
+   "grounds": "unit of age in compound"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "predicate noun"
+   "grounds": "resulting appearance"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "optative expressing result"
+   "morph": "3.sg.optative-act √bhū",
+   "grounds": "states the resulting condition"
   }
  ]
 }
