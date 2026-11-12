@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-supreme-splendor(paraprabhā) lord-of-ancestors(pitṛpatiḥ) other+army+destroyer(parasainyavināśinī)
+[supreme-radiance](paraprabhā) [lord-of-ancestors](pitṛpatiḥ) [enemy-army-destroyer](parasainya+vināśinī)
 
 ## mukta-m0-p78-v1927
-supreme-knowledge(parāvidyā) supreme-accomplishment(parāsiddhiḥ) supreme+abode+giver(parāsthānapradāyinī)
+[supreme-knowledge](parāvidyā) [supreme-accomplishment](parāsiddhiḥ) [supreme-abode-giver](parāsthāna+pradāyinī)
 
 ## mukta-m0-p78-v1928
-ancient(purātanā) prior+supreme(pūrvaparā) other+accomplishment+giver(parasiddhipradāyinī)
+[ancient](purātanā) [prior-and-supreme](pūrva+parā) [supreme-powers-giver](parasiddhi+pradāyinī)
 
 ## mukta-m0-p78-v1929
-love(premā) without+middle+entire(apramadhyamāśeṣā) lotus+leaf+sporting(padmapatravilāsinī)
+[love](premā) [without-middle-and-all-pervading](apramadhyamā+aśeṣā) [lotus-petal-sporting](padmapatra+vilāsinī)
 
 ## mukta-m0-p78-v1930
-lotus+seated(padmāsanā) lotus+beloved(padmapriyā) ruby+form(padmarāgasvarūpiṇī)
+[lotus-seated](padmāsanā) [lotus-loving](padmapriyā) [ruby-form](padmarāga+svarūpiṇī)
 
 ## mukta-m0-p78-v1931
-corpse+dwelling(pretasaṃsthā) supreme-bliss(parānandā) supreme+brahman+form(parabrahmasvarūpuṇī)
+[abiding-among-corpses](pretasaṃsthā) [supreme-bliss](parānandā) [supreme-brahman-form](parabrahma+svarūpuṇī)
 
 ## mukta-m0-p78-v1932
-animal+meat+fond(paśumāṃsapriyā) leaf(parṇā) supreme+nectar+devoted(parāmṛtaparāyaṇā)
+[animal-flesh-loving](paśu+māṃsa+priyā) [leaf-clad](parṇā) [devoted-to-supreme-nectar](parāmṛta+parāyaṇā)
 
 ## mukta-m0-p78-v1933
-blooming+lotus+faced(phullāravindavadanī) blooming+blue-lotus+bodied(phullotpalaśarīriṇī)
+[blooming-lotus-faced](phulla+aravinda+vadanī) [blooming-lotus-bodied](phulla+utpala+śarīriṇī)
 
 ## mukta-m0-p78-v1934
-hissing-sound(phūtkārā) puffing(phutparā) foamy(pheṇī) blooming+blue-lotus+eyed(phullendīvaralocanā)
+[hissing-sound](phūtkārā) [uttering-phut](phut+parā) [foam-like](pheṇī) [blooming-blue-lotus-eyed](phulla+indīvara+locanā)
 
 ## mukta-m0-p78-v1935
-crystalline(sphāṭikā) ankle-bell(ghuṭikā) terrible(ghorā) crystal+mountain+form(sphaṭikādrisvarūpiṇī)
+[crystal-like](sphāṭikā) [anklet-adorned](ghuṭikā) [terrible](ghorā) [crystal-mountain-form](sphaṭikādri+svarūpiṇī)
 
 ## mukta-m0-p78-v1936
-dot+abiding(bindusthā) dot+leading(bindunī) speech(vāṇī) dot+circle+dwelling(binducakranivāsinī)
+[abiding-in-bindu](bindusthā) [leader-of-bindu](bindunī) [speech](vāṇī) [dwelling-in-bindu-chakra](binducakra+nivāsinī)
 
 ## mukta-m0-p78-v1937
-veda+knowledge(vedavidyā) odd-eyed(virūpākṣī) universe+age+manifold+form(viśvayugbahurūpiṇī)
+[knowledge-of-vedas](veda+vidyā) [odd-eyed](virūpākṣī) [manifold-forms-in-all-ages](viśva+yug+bahurūpiṇī)
 
 ## mukta-m0-p78-v1938
-vaikuṇṭha+dwelling(vaikuṇṭhavāsinī) goddess(devī) vaikuṇṭha+abode+giver(vaikuṇṭhapadadāyinī)
+[dwelling-in-vaikuṇṭha](vaikuṇṭha+vāsinī) [goddess](devī) [giver-of-vaikuṇṭha-abode](vaikuṇṭha+pada+dāyinī)
 
 ## mukta-m0-p78-v1939
-existence+beloved(bhavapriyā) existence+source(bhavodbhāvā) existence+form(bhavarūpā) existence+supreme(bhavottamā)
+[lover-of-existence](bhava+priyā) [source-of-existence](bhava+udbhāvā) [form-of-existence](bhava+rūpā) [supreme-in-existence](bhava+uttamā)
 
 ## mukta-m0-p78-v1940
-auspicious(bhadrā) very-auspicious(subhadrā) existence+giver(bhavadā) śumbha+demon+destroyer(śumbhadaityavināśinī)
+[auspicious](bhadrā) [very-auspicious](subhadrā) [giver-of-existence](bhava+dā) [destroyer-of-demon-śumbha](śumbha+daitya+vināśinī)
 
 ## mukta-m0-p78-v1941
-sister(bhaginī) vulva+form(bhagarūpā) and(ca) vulva+honored(bhagamānā) vulva+supreme(bhagottamā)
+[sister](bhaginī) [form-of-bhaga](bhaga+rūpā) [and](ca) [possessing-bhaga](bhaga+mānā) [supreme-in-bhaga](bhaga+uttamā)
 
 ## mukta-m0-p78-v1942
-vulva+created(bhagasṛṣṭā) fortunate(bhāgyavatī) vulva+form(bhagarūpā) vulva+seated(bhagāsinī)
+[created-from-bhaga](bhaga+sṛṣṭā) [fortunate](bhāgyavatī) [form-of-bhaga](bhaga+rūpā) [devourer-of-bhaga](bhaga+asinī)
 
 ## mukta-m0-p78-v1943
-vulva+liṅga+form(bhagaliṅgasvarūpā) and(ca) vulva+liṅga+delighting(bhagaliṅgavinodinī)
+[form-of-bhaga-and-liṅga](bhaga+liṅga+svarūpā) [and](ca) [delighting-in-bhaga-and-liṅga](bhaga+liṅga+vinodinī)
 
 ## mukta-m0-p78-v1944
-vulva+garland(bhagamālā) vulva+digit(bhagakalā) vulva+support(bhagādhārā) vulva+garment(bhagāmbarā)
+[garland-of-bhaga](bhaga+mālā) [aspect-of-bhaga](bhaga+kalā) [support-of-bhaga](bhaga+ādhārā) [garment-of-bhaga](bhaga+ambarā)
 
 ## mukta-m0-p78-v1945
-vulva+liṅga+limb+enjoyment(bhagaliṅgāṅgasambhogā) vulva+liṅga+nectar+bearing(bhagaliṅgāsavāvahā)
+[enjoying-union-of-bhaga-and-liṅga](bhaga+liṅga+aṅga+sambhogā) [bearing-nectar-of-bhaga-and-liṅga](bhaga+liṅga+āsava+āvahā)
 
 ## mukta-m0-p78-v1946
-vulva+liṅga+well-worship(bhagaliṅgasupūjā) and(ca) vulva+liṅga+endowed(bhagaliṅgasamanvitā)
+[well-worshipped-with-bhaga-and-liṅga](bhaga+liṅga+supūjā) [and](ca) [endowed-with-bhaga-and-liṅga](bhaga+liṅga+samanvitā)
 
 ## mukta-m0-p78-v1947
-mādhavī(mādhavī) mādhavī+honored(mādhavīmānyā) sweet(madhurā) honey+proud(madhumāninī)
+[spring-creeper](mādhavī) [honored-by-mādhava](mādhavī+mānyā) [sweet](madhurā) [proud-with-sweetness](madhu+māninī)
 
 ## mukta-m0-p78-v1948
-great+delusion(mahāmohā) great+knowledge(mahāvidyā) great+terrible(mahāghorā) great+memory(mahāsmṛtiḥ)
+[great-delusion](mahā+mohā) [great-knowledge](mahā+vidyā) [greatly-terrible](mahā+ghorā) [great-memory](mahā+smṛtiḥ)
 
 ## mukta-m0-p78-v1949
-menikā(menikā) proud(māninī) honored(mānyā) gem+jewel+adorned(maṇiratnavibhūṣaṇā)
+[jewel-woman](menikā) [proud](māninī) [honorable](mānyā) [adorned-with-gems-and-jewels](maṇi+ratna+vibhūṣaṇā)
 
 ## mukta-m0-p78-v1950
-madana+beautiful(madanāsundarī) intelligence(medhā) honey+intoxicated(madhumattā) honey+beloved(madhupriyā)
+[beautiful-as-madana](madana+sundarī) [intelligence](medhā) [intoxicated-with-sweetness](madhu+mattā) [lover-of-sweetness](madhu+priyā)

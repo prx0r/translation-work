@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-ghost-spirit-demon-etc.-mistress(bhūta+preta+piśāca+ādi+svāminī) worshipped-by-beings(bhūta+pūjitā)
+[mistress-of](bhūta) + [preta](preta) + [piśāca](piśāca) + [ādi](ādi) + [mistress](svāminī) [worshipped-by](bhūta) + [pūjitā](pūjitā)
 
 ## mukta-m0-p70-v1727
-pleased-by-drum-sound(ḍamarū+vādya+santuṣṭā) maker-of-drum-sound(ḍamarū+vādya+kāriṇī)
+[delighted-by](ḍamarū) + [vādyā](vādyā) + [ādi](ādi) [delighted](santuṣṭā) [maker-of](ḍamarū) + [vādyā](vādyā) + [ādi](ādi) + [kāriṇī](kāriṇī)
 
 ## mukta-m0-p70-v1728
-smiling(hāsinī) calling(hvāsinī) rejoicing-in-laughter(hāsya+harṣiṇī) speaking-obstinately(haṭha+vādinī)
+[laughing](hāsinī) [calling](hvāsinī) [causing-laughter-and-joy](hāsya) + [harṣiṇī](harṣiṇī) [violent-speaker](haṭha) + [vādinī](vādinī)
 
 ## mukta-m0-p70-v1729
-sounding(ṭaṅkinī) marked(ṭaṅkitā) chisel(ṭaṅkā) giver-of-gold-measured-by-chisel(ṭaṅka+mātra+suvarṇa+dā)
+[adorned-with-a-hammer](ṭaṅkinī) [hammered](ṭaṅkitā) [hammer](ṭaṅkā) [giver-of-gold-equal-to-a-hammer](ṭaṅka) + [mātra](mātra) + [suvarṇa](suvarṇa) + [dā](dā)
 
 ## mukta-m0-p70-v1730
-broken(truṭitā) of-the-form-of-a-moment(truṭi+rūpā) and(ca) causing-doubt-about-moments(truṭi+sandeha+kāriṇī)
+[broken](truṭitā) [of-the-form-of-a-break](truṭi) + [rūpā](rūpā) [causing-doubt-of-a-break](truṭi) + [sandeha](sandeha) + [kāriṇī](kāriṇī)
 
 ## mukta-m0-p70-v1731
-pervading(akṣiṇī) fashioning(takṣiṇī) seeking-alms(bhikṣā+prārtthinī) devourer-of-enemies(śatru+bhakṣiṇī)
+[eye](akṣiṇī) [chisel](takṣiṇī) [begging-for-alms](bhikṣā) + [prārthinī](prārthinī) [devourer-of-enemies](śatru) + [bhakṣiṇī](bhakṣiṇī)
 
 ## mukta-m0-p70-v1732
-worshipped-by-millions-of-procuresses(kuṭṭanī+koṭi+sampūjyā) following-the-path-of-the-procuress-clan(kuṭṭanī+kula+mārgiṇī)
+[beater](kuṭṭanī) [worshipped-by-millions](koṭi) + [sampūjyā](sampūjyā) [follower-of-the-lineage-of-beaters](kuṭṭanī) + [kula](kula) + [mārgiṇī](mārgiṇī)
 
 ## mukta-m0-p70-v1733
-surrounded-by-the-noose-of-time(kāla+pāśa+āvṛtā) maiden(kanyā) fond-of-the-worship-of-virgins(kumārī+pūjana+priyā)
+[bound-by-the-noose-of-time](kāla) + [pāśa](pāśa) + [āvṛtā](āvṛtā) [maiden](kanyā) [fond-of-the-worship-of-kumārīs](kumārī) + [pūjana](pūjana) + [priyā](priyā)
 
 ## mukta-m0-p70-v1734
-skilled-in-festive-practices(kautuka+ācāra+nipuṇā) dwelling-in-the-festival-hall(kautuka+āgāra+vāsinī)
+[skilled-in-rituals-of-curiosity](kautuka) + [ācāra](ācāra) + [nipuṇā](nipuṇā) [dwelling-in-the-house-of-curiosity](kautuka) + [āgāra](āgāra) + [vāsinī](vāsinī)
 
 ## mukta-m0-p70-v1735
-seated-in-a-chariot-drawn-by-crows(kāka+aṅka+ratha+saṃsthānā) stationed-in-a-crow-marked-vehicle(kāka+aṅka+syandana+āsthitā)
+[having-the-form-of-a-crow-marked-chariot](kāka) + [aṅka](aṅka) + [ratha](ratha) + [saṃsthānā](saṃsthānā) [seated-on-the-chariot-of-a-crow-mark](kāka) + [aṅka](aṅka) + [syandana](syandana) + [asthitā](asthitā)
 
 ## mukta-m0-p70-v1736
-mother-of-crows(kāka+mātā) source-of-crows(kāka+yoniḥ) adorned-with-a-circle-of-crows(kāka+maṇḍala+maṇḍitā)
+[mother-of-crows](kāka) + [mātā](mātā) [origin-of-crows](kāka) + [yoniḥ](yoniḥ) [adorned-with-a-circle-of-crows](kāka) + [maṇḍala](maṇḍala) + [maṇḍitā](maṇḍitā)
 
 ## mukta-m0-p70-v1737
-attainable-by-meditation-on-the-body-etc.-established-in-crow-meditation(kāka+dhyāna+stha+deha+ādi+dhyāna+gamyā) surrounded-by-dham(dham+āvṛtā)
+[meditating-on-crows](kāka) + [dhyāna](dhyāna) + [stha](stha) [attainable-by-meditation-on-the-body-etc.](deha) + [ādi](ādi) + [dhyāna](dhyāna) + [gamyā](gamyā) [covered-with-smoke](dhama) + [āvṛtā](āvṛtā)
 
 ## mukta-m0-p70-v1738
-roaring(dhundhurā) of-roaring-form(dhundhurā+ākārā) slayer-of-Dhūmralocana(dhūmra+locana+ghātinī)
+[dhundhurā](dhundhurā) [of-the-form-of-dhundhurā](dhundhurā) + [ākārā](ākārā) [slayer-of-smoke-eyed-beings](dhūmra) + [locana](locana) + [ghātinī](ghātinī)
 
 ## mukta-m0-p70-v1739
-smoke-colored(dhūmra+varṇinī) smoke-eyed(dhūmra+akṣī) slayer-of-the-demon-Dhūmrākṣa(dhūmra+akṣa+asura+ghātinī)
+[of-smoke-colour](dhūmra) + [varṇinī](varṇinī) [smoke-eyed](dhūmra) + [akṣī](akṣī) [slayer-of-smoke-eyed-demons](dhūmra) + [akṣa](akṣa) + [asura](asura) + [ghātinī](ghātinī)
 
 ## mukta-m0-p70-v1740
-worthy-of-worship-by-recitation-of-the-dhūṃ-seed(dhūṃ+bīja+japa+pūjā+arhā) performer-of-recitation-of-the-dhūṃ-seed(dhūṃ+bīja+japa+kāriṇī)
+[worthy-of-japa-and-worship-of-dhūmbīja](dhūm) + [bīja](bīja) + [japa](japa) + [pūjā](pūjā) + [arhā](arhā) [performer-of-japa-of-dhūmbīja](dhūm) + [bīja](bīja) + [japa](japa) + [kāriṇī](kāriṇī)
 
 ## mukta-m0-p70-v1741
-scattering-dust(dhūlī+prakṣepiṇī) wearing-braided-hair-pervaded-by-dust(dhūlī+vyāpta+dhammilla+dhāriṇī)
+[scatterer-of-dust](dhūlī) + [prakṣepiṇī](prakṣepiṇī) [covered-with-dust-on-her-braided-hair](dhūlī) + [vyāpta](vyāpta) + [dhammilla](dhammilla) + [dhāriṇī](dhāriṇī)
 
 ## mukta-m0-p70-v1742
-hostile-to-dharma(dharma+vidveṣiṇī) protector-of-dharma(dharma+rakṣiṇī) pleased-by-dharma(dharma+toṣitā)
+[hater-of-dharma](dharma) + [dveṣiṇī](dveṣiṇī) [protector-of-dharma](dharma) + [rakṣiṇī](rakṣiṇī) [satisfied-by-dharma](dharma) + [toṣitā](toṣitā)
 
 ## mukta-m0-p70-v1743
-whose-syllables-are-the-mantra-dhāṃ-dhīṃ-dhūṃ-dhaim(dhāṃ+dhīṃ+dhūṃ+dhaim+mantra+varṇā) of-the-form-of-dhauṃ-dhaḥ-svāhā(dhauṃ+dhaḥ+svāhā+svarūpiṇī)
+[dhāṃ](dhāṃ) + [dhīṃ](dhīṃ) + [dhūṃ](dhūṃ) + [dhaiḥ](dhaiḥ) + [mantra](mantra) + [varṇā](varṇā) [dhauṃ](dhauṃ) + [dhaḥ](dhaḥ) + [svāhā](svāhā) + [svarūpiṇī](svarūpiṇī)
 
 ## mukta-m0-p70-v1744
-rebuking(dhikkāriṇī) worshipped-by-the-wise(su+dhī+pūjyā) dwelling-in-the-garden-of-the-abode(dhāma+udyāna+nivāsinī)
+[scolder](dhik) + [kāriṇī](kāriṇī) [worshipped-by-the-wise](su) + [dhī](dhī) + [pūjyā](pūjyā) [dwelling-in-a-place-of-splendour-and-gardens](dhāma) + [udyāna](udyāna) + [nivāsinī](nivāsinī)
 
 ## mukta-m0-p70-v1745
-possessing-great-sound(mahā+dhvani+matī) to-be-fumigated(dhūpyā) delighted-by-the-fragrance-of-incense(dhūpa+āmoda+praharṣiṇī)
+[possessed-of-a-great-sound](mahā) + [dhvani](dhvani) + [matī](matī) [to-be-offered-incense](dhūpyā](dhūpyā) [delighted-by-the-fragrance-of-incense](dhūpa) + [āmoda](āmoda) + [praharṣiṇī](praharṣiṇī)
 
 ## mukta-m0-p70-v1746
-worshipped-by-multitudes-of-fisherwomen(dhīvarī+gaṇa+sampūjyā) giver-of-boons-to-fisherwomen(dhīvarī+vara+dāyinī)
+[worshipped-by-a-multitude-of-fisherwomen](dhīvarī) + [gaṇa](gaṇa) + [sampūjyā](sampūjyā) [giver-of-boons-to-fisherwomen](dhīvarī) + [vara](vara) + [dāyinī](dāyinī)
 
 ## mukta-m0-p70-v1747
-protector-of-multitudes-of-fisherwomen(dhīvarī+gaṇa+goptrī) and(ca) pleased-by-multitudes-of-fisherwomen(dhīvarī+gaṇa+toṣitā)
+[protector-of-a-multitude-of-fisherwomen](dhīvarī) + [gaṇa](gaṇa) + [goptrī](goptrī) [satisfied-by-a-multitude-of-fisherwomen](dhīvarī) + [gaṇa](gaṇa) + [toṣitā](toṣitā)
 
 ## mukta-m0-p70-v1748
-mistress-of-Dhātṛ(dhātṛ+īśā) worshipped-by-Dhātṛ(dhātṛ+sampūjyā) taking-refuge-in-the-myrobalan-tree(dhātrī+vṛkṣa+samāśrayā)
+[dhātrīśā](dhātrīśā) [worshipped-by-dhātrīs](dhātrī) + [sampūjyā](sampūjyā) [having-the-dhātrī-tree-as-her-support](dhātrī) + [vṛkṣa](vṛkṣa) + [samāśrayā](samāśrayā)
 
 ## mukta-m0-p70-v1749
-attached-to-delight-in-drinking-smoke(dhūmra+pāna+rata+āsaktā) giver-of-what-is-desired-to-those-delighting-in-drinking-smoke(dhūmra+pāna+rata+iṣṭa+dā)
+[attached-to-drinking-smoke](dhūmra) + [pāna](pāna) + [rata](rata) + [āsaktā](āsaktā) [giver-of-desired-objects-to-those-delighted-by-drinking-smoke](dhūmra) + [pāna](pāna) + [rata](rata) + [iṣṭa](iṣṭa) + [dā](dā)
 
 ## mukta-m0-p70-v1750
-pleased-by-hearing-the-word-blessed(dhanya+śabda+śruti+prītā) destroyer-of-people-who-make-the-sound-dhundhu(dhundhu+kārī+jana+cchidā)
+[delighted-by-hearing-the-sound-of-'dhanya'](dhanya) + [śabda](śabda) + [śruti](śruti) + [prītā](prītā) [cutter-of-dhundhukāra-makers](dhundhukārī) + [jana](jana) + [chidā](chidā)
