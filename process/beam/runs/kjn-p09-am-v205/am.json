@@ -1,12 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 205,
- "question": "What power does speech gain over wind and similar forces?",
+ "question": "What effect does destroying the wind and related forces have on speech?",
  "premises": [
-  "one should destroy wind and so forth by speech",
-  "he stands like a mute"
+  "Wind and related forces are to be destroyed",
+  "Speech is the affected faculty",
+  "The resulting state resembles muteness"
  ],
- "inference": "speech becomes a force that can nullify elemental powers",
- "uncertainties": [],
- "plain_english": "One should destroy wind and so forth by speech; indeed he stands like a mute."
+ "inference": "Suppressing the wind forces renders one silent like a mute.",
+ "uncertainties": [
+  "The exact referent of vāyvādeḥ (wind element, breath, or hostile forces) is context-dependent."
+ ],
+ "plain_english": "One should destroy the wind and so forth; then he indeed stands mute in speech."
 }

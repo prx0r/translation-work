@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "sa",
-   "morph": "pron.m.nom.sg",
-   "grounds": "demonstrative subject"
+   "morph": "m.nom.sg",
+   "grounds": "subject pronoun"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "n.inst.sg",
-   "grounds": "moment of leaving the body; compound deha-tyakta-mātra"
+   "morph": "compound:deha+tyakta+mātra+n.ins.sg",
+   "grounds": "compound indicating condition"
   },
   {
    "lemma": "paraṃ",
@@ -20,12 +20,12 @@
   {
    "lemma": "śivo",
    "morph": "m.nom.sg",
-   "grounds": "ultimate identity"
+   "grounds": "predicate identity"
   },
   {
    "lemma": "nigadyate",
-   "morph": "3.sg.pres.pass √gad",
-   "grounds": "verb of designation"
+   "morph": "3.sg.present-passive√gad",
+   "grounds": "present passive statement"
   }
  ]
 }
