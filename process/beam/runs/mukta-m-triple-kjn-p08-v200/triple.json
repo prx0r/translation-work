@@ -6,58 +6,58 @@
    "rows": [
     {
      "surface": "labhati",
-     "gloss": "obtains",
-     "grounds": "expresses attainment of the desired result",
+     "gloss": "one-obtains",
+     "grounds": "to gain or attain",
      "morph": "3.sg.pres.act √labh"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle asserting certainty",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "na",
-     "gloss": "no",
-     "grounds": "negates the following noun",
+     "gloss": "not",
+     "grounds": "negation particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sandehaḥ",
      "gloss": "doubt",
-     "grounds": "names uncertainty that is excluded",
+     "grounds": "uncertainty or hesitation",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vividhaṃ",
-     "gloss": "various",
-     "grounds": "qualifies the desired object as manifold",
+     "gloss": "manifold",
+     "grounds": "various or diverse",
      "morph": "n.acc.sg"
     },
     {
      "surface": "yat",
      "gloss": "whatever",
-     "grounds": "relative pronoun introducing the desired object",
-     "morph": "n.acc.sg"
+     "grounds": "relative pronoun referring to the desired object",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "samīhitam",
      "gloss": "desired",
-     "grounds": "denotes what is intended or wished for",
-     "morph": "n.acc.sg ppp √sam-īh"
+     "grounds": "wished for or intended",
+     "morph": "n.nom.sg ppp √sam-īh"
     }
    ],
-   "question": "Is attainment of whatever various goals are desired guaranteed without doubt?",
+   "question": "Is the attainment of every manifold desired goal certain and beyond doubt?",
    "premises": [
-    "The verb labhati asserts actual attainment of an outcome.",
-    "The phrase na sandehaḥ explicitly excludes doubt about this attainment.",
-    "The object vividhaṃ yat samīhitam refers to any various desired goal."
+    "One indeed obtains the desired result.",
+    "There is no doubt regarding this attainment.",
+    "Whatever manifold goal is desired can be attained."
    ],
-   "inference": "Therefore, one certainly attains whatever various goal is desired, without any doubt.",
+   "inference": "Therefore, the practitioner certainly attains every manifold desired goal without doubt.",
    "uncertainties": [
-    "The subject of labhati is implicit and understood from the preceding context."
+    "The specific subject 'one' is implied by the verb form rather than explicitly stated."
    ],
-   "plain_english": "One indeed obtains whatever various thing is desired; there is no doubt."
+   "plain_english": "One indeed obtains whatever manifold thing is desired; there is no doubt."
   }
  ]
 }

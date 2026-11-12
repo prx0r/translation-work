@@ -19,13 +19,13 @@
     {
      "surface": "sthita",
      "gloss": "situated",
-     "grounds": "describes the location of the radiance",
-     "morph": "m.nom.sg"
+     "grounds": "describes the radiance as located in the throat cavity",
+     "morph": "m.nom.sg.ppp (√sthā)"
     },
     {
      "surface": "udyotaṃ",
      "gloss": "radiance",
-     "grounds": "object or subject described as reaching absorption",
+     "grounds": "object or subject of attainment described as luminous",
      "morph": "m.acc.sg"
     },
     {
@@ -37,7 +37,7 @@
     {
      "surface": "randhra",
      "gloss": "aperture",
-     "grounds": "second member of compound naming the locus of dissolution",
+     "grounds": "second member of compound naming the cranial opening",
      "morph": "compound-member"
     },
     {
@@ -49,21 +49,21 @@
     {
      "surface": "gatā",
      "gloss": "gone",
-     "grounds": "indicates attainment of the state of absorption",
-     "morph": "f.nom.sg"
+     "grounds": "indicates attainment of absorption in the brahma aperture",
+     "morph": "f.nom.sg.ppp (√gam)"
     }
    ],
-   "question": "Into what locus does the radiance situated in the throat-cavity dissolve?",
+   "question": "Where does the radiance situated in the throat cavity attain absorption?",
    "premises": [
-    "A radiance is situated in the throat-cavity.",
-    "The brahma-aperture is a locus of absorption.",
-    "This radiance has gone to absorption there."
+    "A radiance is situated in the throat cavity.",
+    "This radiance goes to absorption.",
+    "The absorption occurs in the brahma aperture."
    ],
-   "inference": "The radiance situated in the throat-cavity dissolves into the brahma-aperture.",
+   "inference": "The radiance located in the throat cavity reaches dissolution in the brahma aperture.",
    "uncertainties": [
-    "The grammatical agreement of gatā with udyotaṃ is contextually interpreted."
+    "The feminine gender of gatā suggests an implied feminine subject not explicitly named in this verse."
    ],
-   "plain_english": "The radiance situated in the throat-cavity has gone to absorption in the brahma-aperture."
+   "plain_english": "The radiance situated in the throat cavity has gone to absorption in the brahma aperture."
   }
  ]
 }

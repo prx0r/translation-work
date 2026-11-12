@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "n.comp",
-   "grounds": "compound member"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "unmīlanam",
    "morph": "n.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "subject"
   },
   {
    "lemma": "bhadre",
    "morph": "f.voc.sg",
-   "grounds": "vocative"
+   "grounds": "vocative address"
   },
   {
    "lemma": "bhavati",
-   "morph": "3.sg.act-pres root-bhū",
-   "grounds": "present indicative"
+   "morph": "3.sg.present-active √bhū",
+   "grounds": "main verb"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "manner particle"
   },
   {
    "lemma": "na",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "anya",
-   "morph": "m.instr.sg",
-   "grounds": "instrumental adjective"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "sevanāt",
    "morph": "n.abl.sg",
-   "grounds": "ablative noun"
+   "grounds": "ablative of means"
   }
  ]
 }

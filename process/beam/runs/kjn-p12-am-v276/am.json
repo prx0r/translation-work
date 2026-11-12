@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 276,
- "question": "Which animals are listed as objects in this ritual enumeration?",
+ "question": "Which animals may serve as the sacrificial offering in this ritual?",
  "premises": [
-  "jackal deer buffalo rhinoceros are named",
-  "the list is presented as an enumeration",
-  "no further qualification is given"
+  "A jackal and a deer are listed as possible offerings.",
+  "A buffalo or a rhinoceros may also be offered.",
+  "The list presents alternative suitable animals."
  ],
- "inference": "The verse names jackal, deer, buffalo, and rhinoceros among the listed animals.",
- "uncertainties": [],
- "plain_english": "Jackal, deer, buffalo, and rhinoceros are likewise included."
+ "inference": "The ritual permits offering a jackal, deer, buffalo, or rhinoceros.",
+ "uncertainties": [
+  "The exact identity of śeraka is uncertain; glossed as jackal."
+ ],
+ "plain_english": "One may offer a jackal, a deer, or also a buffalo or a rhinoceros."
 }
