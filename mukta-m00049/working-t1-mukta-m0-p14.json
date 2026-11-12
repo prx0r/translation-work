@@ -70,7 +70,7 @@
 },
 {
 "surface": "naivedya+sevanād",
-"quick_gloss": "from-serving+food-offering"
+"quick_gloss": "from-partaking-of-food-offering"
 },
 {
 "surface": "yat",
@@ -99,7 +99,7 @@
 },
 {
 "surface": "prasāda+grahaṇāt",
-"quick_gloss": "by-taking+grace"
+"quick_gloss": "by-taking-grace"
 },
 {
 "surface": "mucyate",
@@ -144,7 +144,7 @@
 },
 {
 "surface": "brahma+arpita+niṣevaṇāt",
-"quick_gloss": "by-partaking+offered-to-brahman"
+"quick_gloss": "by-partaking-of-what-is-offered-to-brahman"
 }
 ]
 },
@@ -190,7 +190,7 @@
 "tokens": [
 {
 "surface": "mahā+prasāda",
-"quick_gloss": "of-great-sacred-food"
+"quick_gloss": "of-the-great-grace"
 },
 {
 "surface": "māhātmyaṃ",
@@ -272,7 +272,7 @@
 },
 {
 "surface": "vedānta+pāragaiḥ",
-"quick_gloss": "by-those-who-have-reached-the-end+of-vedanta"
+"quick_gloss": "by-those-who-have-reached-the-end-of-vedanta"
 }
 ]
 },
@@ -284,7 +284,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yo",
+"surface": "yaḥ",
 "quick_gloss": "who"
 },
 {
@@ -317,8 +317,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para+brahma+arpite",
-"quick_gloss": "in-offered+to-supreme-brahman"
+"surface": "para+brahma",
+"quick_gloss": "to-the-supreme-brahman"
+},
+{
+"surface": "arpite",
+"quick_gloss": "in-offered"
 },
 {
 "surface": "hi",
@@ -326,7 +330,7 @@
 },
 {
 "surface": "anne",
-"quick_gloss": "food"
+"quick_gloss": "in-food"
 },
 {
 "surface": "na",
@@ -384,7 +388,7 @@
 "tokens": [
 {
 "surface": "brahmasāt+kṛta+naivedya+dveṣṭṝṇāṃ",
-"quick_gloss": "of-haters+of-food-offering-made-over-to-brahman"
+"quick_gloss": "of-those-who-hate-food-offering-made-over-to-brahman"
 },
 {
 "surface": "na",
@@ -408,7 +412,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+icchā+ācāraḥ",
+"surface": "svecchā+ācāraḥ",
 "quick_gloss": "acting-according-to-one's-own-will"
 },
 {
@@ -438,7 +442,7 @@
 "tokens": [
 {
 "surface": "yatra+ityādi",
-"quick_gloss": "where+and-so-on"
+"quick_gloss": "where-etcetera"
 },
 {
 "surface": "amṛtam",
@@ -494,12 +498,12 @@
 "quick_gloss": "offered"
 },
 {
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
-"surface": "|| 91",
-"quick_gloss": "91"
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -520,7 +524,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "O-dear"
+"quick_gloss": "O-beloved"
 },
 {
 "surface": "iti",
@@ -537,10 +541,6 @@
 {
 "surface": "tiraskāram",
 "quick_gloss": "contempt"
-},
-{
-"surface": "|| 93",
-"quick_gloss": "93"
 }
 ]
 },
@@ -553,11 +553,15 @@
 "tokens": [
 {
 "surface": "pralaya+kāla+paryantam",
-"quick_gloss": "until-the-time+of-dissolution"
+"quick_gloss": "until-the-time-of-dissolution"
 },
 {
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 },
 {
 "surface": "niṣkṛtiḥ",
@@ -585,8 +589,12 @@
 "quick_gloss": "acting"
 },
 {
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -606,7 +614,7 @@
 "quick_gloss": "of-the-knower"
 },
 {
-"surface": "sva+icchā+ācāraḥ",
+"surface": "svecchā+ācāraḥ",
 "quick_gloss": "acting-according-to-one's-own-will"
 },
 {
@@ -644,11 +652,11 @@
 },
 {
 "surface": "brahma+mantrasya",
-"quick_gloss": "from-practice+of-brahman-mantra"
+"quick_gloss": "from-practice-of-the-brahman-mantra"
 },
 {
 "surface": "sādhanāt",
-"quick_gloss": "from-practice"
+"quick_gloss": "from-accomplishment"
 }
 ]
 },
@@ -660,16 +668,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para+upakāra+nirataḥ",
-"quick_gloss": "devoted-to-helping+others"
+"surface": "para+upakāra",
+"quick_gloss": "in-benefiting-others"
+},
+{
+"surface": "nirato",
+"quick_gloss": "devoted"
 },
 {
 "surface": "nirvikāraḥ",
 "quick_gloss": "unchanging"
 },
 {
-"surface": "sadā+āśayaḥ",
-"quick_gloss": "always+disposed"
+"surface": "sadā",
+"quick_gloss": "ever"
+},
+{
+"surface": "āśayaḥ",
+"quick_gloss": "minded"
 }
 ]
 },
@@ -682,7 +698,7 @@
 "tokens": [
 {
 "surface": "mātā+pitroḥ",
-"quick_gloss": "causing-delight+of-mother-and-father"
+"quick_gloss": "of-mother-and-father"
 },
 {
 "surface": "prīti+kārī",
@@ -743,8 +759,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "para+strī+gamanam",
-"quick_gloss": "going-to-another's+wife"
+"surface": "para+strī+gamanañ",
+"quick_gloss": "going-to-another's-wife"
 },
 {
 "surface": "ca",

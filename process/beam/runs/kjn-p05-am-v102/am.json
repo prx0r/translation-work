@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom and under what condition may this teaching be given?",
+ "question": "To whom may this teaching rightly be given after proper testing?",
  "premises": [
-  "The teaching may be given.",
-  "The recipient should be previously accomplished.",
-  "The recipient must be tested for one year."
+  "The teaching may be given",
+  "The recipient should be previously accomplished",
+  "The recipient must be tested for one year"
  ],
- "inference": "This teaching may be given only to a previously accomplished person tested for one year.",
- "uncertainties": [],
+ "inference": "This teaching should be given only to a previously accomplished person tested for one year.",
+ "uncertainties": [
+  "pūrvasiddhasya may refer to a prior adept or to prior attainment"
+ ],
  "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
 }

@@ -19,20 +19,20 @@
     {
      "surface": "chidyeta",
      "gloss": "be-cut",
-     "grounds": "optative passive form as given",
+     "grounds": "passive optative form as given",
      "morph": "3.sg.pass-opt"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "fused compound form as given; internal fusion noted, not split",
-     "morph": "compound = member+membership"
+     "grounds": "fused form tad+gata as given; internal sandhi not split",
+     "morph": "compound = tad+gato"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-on-that",
-     "grounds": "fused compound form as given; internal fusion noted, not split",
-     "morph": "compound = member+membership"
+     "grounds": "fused form tan+mana as given; internal sandhi not split",
+     "morph": "compound = tan+mano"
     },
     {
      "surface": "yathā",
@@ -41,17 +41,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How can a mind fixed on that remain uncut even when the body is being severed?",
+   "question": "Under what condition can one remain uncut even while in the act of being severed, according to the focus of mind?",
    "premises": [
-    "The body may be in the process of being cut.",
-    "A mind fixed on that is oriented away from bodily injury.",
-    "That orientation prevents the cutting from affecting the mind."
+    "The act of being cut is underway for one who is so engaged.",
+    "A mind fixed upon that object alters the effect of severance.",
+    "The manner of that fixation determines whether cutting takes hold."
    ],
-   "inference": "A mind fixed on that is not severed even as the body undergoes cutting.",
+   "inference": "One whose mind is fixed on that object is not cut in the manner that would otherwise take effect.",
    "uncertainties": [
-    "The precise referent of that remains context-dependent."
+    "The precise scope of 'that' remains determined by immediate context."
    ],
-   "plain_english": "Just as one whose mind is fixed on that is not cut when the body is being cut, so too is that mind unaffected."
+   "plain_english": "Just as one whose mind is fixed on that object is not cut, even while being cut."
   }
  ]
 }
