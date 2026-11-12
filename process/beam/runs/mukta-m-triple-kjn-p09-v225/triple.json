@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral referring to count",
-     "morph": "indecl."
+     "grounds": "numeral compound",
+     "morph": "compound"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative plural of numeral group",
-     "morph": "m.loc.pl"
+     "grounds": "locative plural of sahasra",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "locative plural of a compound form as given",
-     "morph": "n.loc.pl"
+     "gloss": "in-womb-mechanisms",
+     "grounds": "yoni+yantra compound, locative plural",
+     "morph": "n.loc.pl (compound)"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle form as given",
-     "morph": "m.nom.pl"
+     "grounds": "past passive participle of pīḍ",
+     "morph": "m.nom.pl.ppp (√pīḍ)"
     }
    ],
-   "question": "By what numerical measure are those beings tormented within womb-diagrams according to this claim?",
+   "question": "What vast number of womb-mechanisms subjects beings to torment?",
    "premises": [
-    "A count of eighty-four is specified here.",
-    "That count applies to thousands of womb-diagrams.",
-    "Beings are said to be tormented in those locations."
+    "The number specified is eighty-four thousand.",
+    "These are womb-mechanisms (yoniyantras).",
+    "Beings are tormented within these mechanisms."
    ],
-   "inference": "Beings are tormented in eighty-four thousand womb-diagrams.",
+   "inference": "Beings undergo torment within eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The exact identity of those tormented beings remains unspecified."
+    "The specific beings experiencing torment are implied from the preceding context."
    ],
-   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }

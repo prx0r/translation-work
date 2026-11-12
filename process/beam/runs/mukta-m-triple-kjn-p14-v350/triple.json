@@ -7,39 +7,39 @@
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "cardinal number referring to a count",
+     "grounds": "numeral indicating the eight accomplishments",
      "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective linking elements",
+     "grounds": "conjunction adding to the preceding list",
      "morph": "(indecl.)"
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
      "gloss": "siddhi-attainment-root-kaula",
-     "grounds": "fused form as given; internal sandhi unbroken in this token",
-     "morph": "n.acc.sg"
+     "grounds": "fused form: siddhi-saṃprāptiḥ (attainment of powers) + mūlakaulam (root Kaula); sandhi noted, token kept whole",
+     "morph": "compound+nominal: f.nom.sg + n.nom.sg"
     },
     {
      "surface": "varānane",
-     "gloss": "fair-faced-one",
-     "grounds": "vocative address form as given",
+     "gloss": "O-fair-faced-one",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What specific set of eight elements constitutes the root-kaula through which attainment of siddhi is claimed in this address?",
+   "question": "What attainment is identified as belonging to the root Kaula, O fair-faced one?",
    "premises": [
-    "A count of eight is being specified here.",
-    "An additive link connects that count to a stated attainment.",
-    "The root-kaula of siddhi-attainment is named as the object addressed to the fair-faced one."
+    "The verse enumerates eight accomplishments.",
+    "These accomplishments are linked to attainment.",
+    "This attainment is identified as the root Kaula."
    ],
-   "inference": "Eight items form the root-kaula by which siddhi is attained, and this is addressed to the fair-faced one.",
+   "inference": "The attainment of the eight siddhis constitutes the root Kaula.",
    "uncertainties": [
-    "The internal composition of siddhisaṃprāptirmūlakaulaṃ remains unclear from this token alone."
+    "The exact internal compound structure of siddhisaṃprāptirmūlakaulaṃ is compressed by sandhi and fusion."
    ],
-   "plain_english": "O fair-faced one, there are eight and the root-kaula of siddhi-attainment."
+   "plain_english": "And the attainment of the eight siddhis is the root Kaula, O fair-faced one."
   }
  ]
 }
