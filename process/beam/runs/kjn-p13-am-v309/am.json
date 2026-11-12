@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 309,
- "question": "What additional figures are included in the list addressed to the lord of gods?",
+ "question": "What additional types are named in continuation of the enumeration to the lord of gods?",
  "premises": [
-  "The triple-staff bearer is included.",
-  "Another figure is added likewise.",
-  "That other figure is a seller of the Veda."
+  "The triple-staff bearer is included",
+  "Another type is added likewise",
+  "That additional type is the seller of the Veda"
  ],
- "inference": "The list further includes the triple-staff bearer and a seller of the Veda.",
- "uncertainties": [],
- "plain_english": "O Lord of gods, there is also the triple-staff bearer, and likewise another, the seller of the Veda."
+ "inference": "The enumeration continues with the triple-staff bearer and the seller of the Veda",
+ "uncertainties": [
+  "The ordinal positions of these types in the full sequence are not stated here"
+ ],
+ "plain_english": "O lord of gods, there is also the triple-staff bearer, and likewise another, the seller of the Veda."
 }
