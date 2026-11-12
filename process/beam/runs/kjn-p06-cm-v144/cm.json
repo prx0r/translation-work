@@ -4,7 +4,7 @@
  "rows": [
   {
    "lemma": "bhavati",
-   "morph": "3.sg.act.pres √bhū",
+   "morph": "3.sg.pres.act √bhū",
    "grounds": "assertion of result"
   },
   {
@@ -15,26 +15,26 @@
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation of doubt"
+   "grounds": "negation"
   },
   {
    "lemma": "sandehaḥ",
    "morph": "m.nom.sg",
-   "grounds": "what is denied"
+   "grounds": "absence of uncertainty"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound: ṣaṇ+māsa",
-   "grounds": "number of months"
+   "morph": "compound:ṣaṇ+māsa+abhyantareṇa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "māsa",
-   "morph": "compound: ṣaṇ+māsa",
-   "grounds": "time unit"
+   "morph": "compound:ṣaṇ+māsa+abhyantareṇa",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "abhyantareṇa",
-   "morph": "n.ins.sg",
+   "morph": "n.inst.sg",
    "grounds": "time limit"
   },
   {

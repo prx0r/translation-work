@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 209,
- "question": "What knowledge is indispensable for achieving success in these practices?",
+ "question": "What necessary condition is claimed for success with respect to the method of eight times eight?",
  "premises": [
-  "The method of eight times eight must be known",
-  "Success follows from this knowledge",
-  "Success does not occur otherwise"
+  "The method of eight times eight is a defined procedure.",
+  "Success occurs if and when that method has been known.",
+  "Success does not occur otherwise."
  ],
- "inference": "Mastery of the eight-times-eight method is a necessary condition for success",
- "uncertainties": [],
- "plain_english": "Having known the method of the eight times eight, one succeeds; not otherwise."
+ "inference": "Knowledge of the eight-times-eight method is presented as a necessary condition for success.",
+ "uncertainties": [
+  "The agent of knowing and succeeding is not named explicitly in this verse."
+ ],
+ "plain_english": "Indeed, having known the method of eight times eight, one succeeds; otherwise not."
 }

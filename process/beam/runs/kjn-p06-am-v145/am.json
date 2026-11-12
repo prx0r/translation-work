@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 145,
- "question": "What qualities and adornments characterize the form to be contemplated in this practice?",
+ "question": "What visual and sonic qualities adorn the contemplated fluid-bearing form?",
  "premises": [
-  "The form is fluid and black in color",
-  "It is adorned with sixteen vowels",
-  "These qualities define the contemplative object"
+  "The form is fluid-bearing and black in color.",
+  "The form is adorned with sixteen vowels.",
+  "These qualities characterize the object of contemplation."
  ],
- "inference": "The contemplative form is fluid, black, and adorned with the sixteen vowels.",
- "uncertainties": [],
- "plain_english": "It is fluid, black in color, and adorned with the sixteen vowels."
+ "inference": "The contemplated form is fluid-bearing, black, and adorned with the sixteen vowels.",
+ "uncertainties": [
+  "The token varṇañca contains internal sandhi (varṇaṃ+ca) but is kept as one surface token."
+ ],
+ "plain_english": "It is fluid-bearing, black in color, and adorned with the sixteen vowels."
 }

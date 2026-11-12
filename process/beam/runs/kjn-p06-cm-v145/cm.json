@@ -5,32 +5,32 @@
   {
    "lemma": "sādravaṃ",
    "morph": "n.acc.sg",
-   "grounds": "quality of the form"
+   "grounds": "describes the form"
   },
   {
    "lemma": "kṛṣṇa",
-   "morph": "compound: kṛṣṇa+varṇañca",
-   "grounds": "color of the form"
+   "morph": "compound:kṛṣṇa+varṇañca",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "varṇañca",
-   "morph": "m.acc.sg",
-   "grounds": "color aspect; sandhi with ca"
+   "morph": "compound:kṛṣṇa+varṇañca",
+   "grounds": "color quality; sandhi in token"
   },
   {
    "lemma": "ṣoḍaśa",
-   "morph": "compound: ṣoḍaśa+svara",
-   "grounds": "number of vowels"
+   "morph": "compound:ṣoḍaśa+svara+bhūṣitam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "svara",
-   "morph": "compound: ṣoḍaśa+svara",
-   "grounds": "sounds adorning the form"
+   "morph": "compound:ṣoḍaśa+svara+bhūṣitam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "bhūṣitam",
    "morph": "n.acc.sg",
-   "grounds": "state of the form"
+   "grounds": "describes the form"
   }
  ]
 }

@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound: ṣaṇ+māsāt",
-   "grounds": "number of months"
+   "morph": "compound:ṣaṇ+māsāt",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "māsāt",
    "morph": "m.abl.sg",
-   "grounds": "time period for result"
+   "grounds": "time period"
   },
   {
    "lemma": "jñāyate",
-   "morph": "3.sg.pass.pres √jñā",
+   "morph": "3.sg.pres.pass √jñā",
    "grounds": "manifestation of result"
   },
   {
@@ -24,13 +24,13 @@
   },
   {
    "lemma": "yoginī",
-   "morph": "compound: yoginī+pada",
-   "grounds": "first member of comparison"
+   "morph": "compound:yoginī+pada+tatsamaḥ",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "pada",
-   "morph": "compound: yoginī+pada",
-   "grounds": "level attained"
+   "morph": "compound:yoginī+pada+tatsamaḥ",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "tatsamaḥ",

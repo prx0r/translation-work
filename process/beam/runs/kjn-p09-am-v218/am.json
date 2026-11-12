@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 218,
- "question": "How does this knowledge compare to any other knowledge in past or future?",
+ "question": "What claim of uniqueness is made about knowledge equal to this one with respect to past or future?",
  "premises": [
-  "No knowledge equal to this exists",
-  "No equal knowledge will arise again",
-  "The comparison is absolute"
+  "Knowledge equal to this is posited.",
+  "There is not again such knowledge.",
+  "There will not be such knowledge in the future."
  ],
- "inference": "This knowledge is unsurpassed and will never be equaled",
- "uncertainties": [],
- "plain_english": "There is no knowledge equal to this, nor will there ever be again."
+ "inference": "Knowledge equal to this is presented as unique, with none like it before in that sense and none to come.",
+ "uncertainties": [
+  "The scope of 'this' is not recoverable from this verse alone."
+ ],
+ "plain_english": "There is no knowledge equal to this, nor will there be again."
 }

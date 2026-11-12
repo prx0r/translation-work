@@ -16,7 +16,7 @@
 },
 {
 "surface": "pātakena",
-"quick_gloss": "sin-by"
+"quick_gloss": "sin"
 },
 {
 "surface": "eva",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "dharmau",
-"quick_gloss": "duties-two"
+"quick_gloss": "duties"
 },
 {
 "surface": "dharmam",
@@ -117,28 +117,12 @@
 "quick_gloss": "in-Saumāra"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
+"surface": "sarvāśī",
+"quick_gloss": "eating-all"
 },
 {
-"surface": "āśī",
-"quick_gloss": "+"
-},
-{
-"surface": "āśī",
-"quick_gloss": "eating"
-},
-{
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "vikrayī",
-"quick_gloss": "+"
-},
-{
-"surface": "vikrayī",
-"quick_gloss": "selling"
+"surface": "sarvavikrayī",
+"quick_gloss": "selling-all"
 }
 ]
 },
@@ -183,7 +167,7 @@
 },
 {
 "surface": "uktena",
-"quick_gloss": "prescribed-by"
+"quick_gloss": "as-stated"
 },
 {
 "surface": "vartayet",
@@ -232,7 +216,7 @@
 },
 {
 "surface": "su",
-"quick_gloss": "good"
+"quick_gloss": "of-good"
 },
 {
 "surface": "buddhimān",
@@ -240,7 +224,7 @@
 },
 {
 "surface": "buddhimān",
-"quick_gloss": "intelligent"
+"quick_gloss": "intellect"
 }
 ]
 },
@@ -261,11 +245,11 @@
 },
 {
 "surface": "samākhyātaṃ",
-"quick_gloss": "declared"
+"quick_gloss": "fully-declared"
 },
 {
 "surface": "yat",
-"quick_gloss": "what"
+"quick_gloss": "which"
 },
 {
 "surface": "pṛṣṭaṃ",
@@ -432,12 +416,12 @@
 "quick_gloss": "deity"
 },
 {
-"surface": "āyatanaiḥ",
+"surface": "āyatanair",
 "quick_gloss": "+"
 },
 {
-"surface": "āyatanaiḥ",
-"quick_gloss": "abodes"
+"surface": "āyatanair",
+"quick_gloss": "with-temples"
 },
 {
 "surface": "divyaiḥ",
@@ -453,7 +437,7 @@
 },
 {
 "surface": "udyāna",
-"quick_gloss": "gardens"
+"quick_gloss": "garden"
 },
 {
 "surface": "maṇḍitaiḥ",
@@ -535,7 +519,7 @@
 },
 {
 "surface": "yugāḥ",
-"quick_gloss": "pairs-having"
+"quick_gloss": "pairs"
 },
 {
 "surface": "pūrṇa",
@@ -550,11 +534,11 @@
 "quick_gloss": "moon"
 },
 {
-"surface": "sama",
+"surface": "samāna",
 "quick_gloss": "+"
 },
 {
-"surface": "sama",
+"surface": "samāna",
 "quick_gloss": "equal"
 },
 {
@@ -563,7 +547,7 @@
 },
 {
 "surface": "ānanāḥ",
-"quick_gloss": "faces-having"
+"quick_gloss": "faces"
 }
 ]
 },
@@ -575,16 +559,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su",
-"quick_gloss": "well"
-},
-{
-"surface": "kalpa",
-"quick_gloss": "+"
-},
-{
-"surface": "kalpa",
-"quick_gloss": "formed"
+"surface": "sukalpa",
+"quick_gloss": "well-formed"
 },
 {
 "surface": "cāru",
@@ -600,7 +576,7 @@
 },
 {
 "surface": "jaghanāḥ",
-"quick_gloss": "hips-having"
+"quick_gloss": "hips"
 },
 {
 "surface": "karṇa",
@@ -628,7 +604,7 @@
 },
 {
 "surface": "locanāḥ",
-"quick_gloss": "eyes-having"
+"quick_gloss": "eyes"
 }
 ]
 },
@@ -661,7 +637,7 @@
 },
 {
 "surface": "salilāni",
-"quick_gloss": "waters-having"
+"quick_gloss": "waters"
 },
 {
 "surface": "ca",
@@ -697,16 +673,8 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "jala",
-"quick_gloss": "with-water"
-},
-{
-"surface": "kukkuṭaiḥ",
-"quick_gloss": "+"
-},
-{
-"surface": "kukkuṭaiḥ",
-"quick_gloss": "fowls"
+"surface": "jalakukkuṭaiḥ",
+"quick_gloss": "with-water-fowl"
 }
 ]
 },
@@ -722,40 +690,28 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "nānā",
-"quick_gloss": "various"
-},
-{
-"surface": "vidhaiḥ",
-"quick_gloss": "+"
-},
-{
-"surface": "vidhaiḥ",
-"quick_gloss": "kinds-of"
+"surface": "nānāvidhaiḥ",
+"quick_gloss": "with-various"
 },
 {
 "surface": "vṛkṣaiḥ",
-"quick_gloss": "with-trees"
+"quick_gloss": "+"
+},
+{
+"surface": "vṛkṣaiḥ",
+"quick_gloss": "trees"
 },
 {
 "surface": "pūrṇa",
 "quick_gloss": "full"
 },
 {
-"surface": "nānā",
-"quick_gloss": "various"
-},
-{
-"surface": "vidhaiḥ",
-"quick_gloss": "+"
-},
-{
-"surface": "vidhaiḥ",
-"quick_gloss": "kinds-of"
+"surface": "nānāvidhai",
+"quick_gloss": "with-various"
 },
 {
 "surface": "ravaiḥ",
-"quick_gloss": "with-sounds"
+"quick_gloss": "sounds"
 }
 ]
 },
@@ -821,7 +777,7 @@
 },
 {
 "surface": "sāgarāḥ",
-"quick_gloss": "seas"
+"quick_gloss": "lakes"
 }
 ]
 },
@@ -834,7 +790,7 @@
 "tokens": [
 {
 "surface": "sarva",
-"quick_gloss": "all"
+"quick_gloss": "for-all"
 },
 {
 "surface": "loka",
@@ -858,7 +814,7 @@
 },
 {
 "surface": "arthāya",
-"quick_gloss": "for-the-sake-of"
+"quick_gloss": "for-sake"
 },
 {
 "surface": "rudraḥ",
@@ -866,7 +822,7 @@
 },
 {
 "surface": "soma",
-"quick_gloss": "Soma"
+"quick_gloss": "with-Soma"
 },
 {
 "surface": "gaṇaiḥ",
@@ -874,7 +830,7 @@
 },
 {
 "surface": "gaṇaiḥ",
-"quick_gloss": "with-troops"
+"quick_gloss": "hosts"
 },
 {
 "surface": "saha",
@@ -907,15 +863,15 @@
 },
 {
 "surface": "vipule",
-"quick_gloss": "pure"
+"quick_gloss": "in-Vipula"
 },
 {
 "surface": "pūtātmā",
-"quick_gloss": "self"
+"quick_gloss": "pure-souled"
 },
 {
 "surface": "vijita",
-"quick_gloss": "conquered"
+"quick_gloss": "sense"
 },
 {
 "surface": "indriyaḥ",
@@ -923,7 +879,7 @@
 },
 {
 "surface": "indriyaḥ",
-"quick_gloss": "senses-having"
+"quick_gloss": "conquered"
 }
 ]
 },
@@ -992,16 +948,8 @@
 "quick_gloss": "he"
 },
 {
-"surface": "aśva",
-"quick_gloss": "horse"
-},
-{
-"surface": "megha",
-"quick_gloss": "+"
-},
-{
-"surface": "megha",
-"quick_gloss": "sacrifice"
+"surface": "aśvamedha",
+"quick_gloss": "horse-sacrifice"
 },
 {
 "surface": "phalaṃ",
@@ -1026,11 +974,11 @@
 "tokens": [
 {
 "surface": "yugādau",
-"quick_gloss": "at-yuga-beginning"
+"quick_gloss": "at-Yugādi"
 },
 {
-"surface": "ṣaḍaśītyām",
-"quick_gloss": "at-eighty-six"
+"surface": "ṣaḍaśītyāñ",
+"quick_gloss": "at-Ṣaḍaśīti"
 },
 {
 "surface": "ca",
@@ -1104,7 +1052,7 @@
 "tokens": [
 {
 "surface": "varāha",
-"quick_gloss": "Varāha"
+"quick_gloss": "of-Varāha"
 },
 {
 "surface": "kāmayoḥ",
@@ -1112,11 +1060,7 @@
 },
 {
 "surface": "kāmayoḥ",
-"quick_gloss": "Kāma"
-},
-{
-"surface": "madhye",
-"quick_gloss": "+"
+"quick_gloss": "and-Kāma"
 },
 {
 "surface": "madhye",
@@ -1132,7 +1076,7 @@
 },
 {
 "surface": "tīrthaṃ",
-"quick_gloss": "sacred-place"
+"quick_gloss": "holy-place"
 },
 {
 "surface": "sarva",
