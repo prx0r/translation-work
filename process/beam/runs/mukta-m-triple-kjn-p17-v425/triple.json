@@ -7,38 +7,36 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "object of hearing; immortal essence",
+     "grounds": "object of the imperative; the immortal essence to be heard",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kaulasadbhāvaṃ",
-     "gloss": "kaula-true-nature",
-     "grounds": "compound describing the nectar as the true essence of Kaula",
-     "morph": "compound: kaula+sadbhāva; m.acc.sg"
+     "gloss": "kaula-true-essence",
+     "grounds": "compound describing the nectar as the true nature of Kaula",
+     "morph": "m.acc.sg (compound: kaula+sadbhāva)"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative command addressed to the listener",
-     "morph": "2.sg.act.imp; root śru"
+     "grounds": "command addressed to the listener",
+     "morph": "2.sg.imp.act√śru"
     },
     {
      "surface": "kāmakalātmakam",
      "gloss": "desire-art-natured",
      "grounds": "compound qualifying the nectar as consisting of kāmakalā",
-     "morph": "compound: kāmakalā+ātmaka; m.acc.sg"
+     "morph": "n.acc.sg (compound: kāma+kalā+ātmaka)"
     }
    ],
-   "question": "What essential nature characterizes the Kaula nectar that is to be heard?",
+   "question": "What essential nature characterizes the Kaula nectar the listener is commanded to hear?",
    "premises": [
     "A nectar is presented as the object to be heard.",
-    "This nectar is identified as the true nature of Kaula.",
+    "This nectar is identified as the true essence of Kaula.",
     "This nectar is characterized as having the nature of kāmakalā."
    ],
-   "inference": "The Kaula nectar to be heard is the true essence of Kaula, whose nature is kāmakalā.",
-   "uncertainties": [
-    "The precise doctrinal sense of kāmakalā in this context is not fully specified."
-   ],
+   "inference": "The Kaula nectar to be heard is the true Kaula essence whose nature is kāmakalā.",
+   "uncertainties": [],
    "plain_english": "Hear of the nectar, the true essence of Kaula, whose nature is kāmakalā."
   }
  ]

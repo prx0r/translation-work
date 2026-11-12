@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 304,
- "question": "Which chapter concludes in the text emerged from Candra Dvipa?",
+ "question": "Which chapter concludes in the text that emerged from Candradvīpa?",
  "premises": [
-  "The context is that which emerged from Candra Dvipa",
-  "The ordinal is eleventh",
+  "The context is what emerged from Candradvīpa",
+  "An ordinal number identifies the section",
   "The section is a chapter"
  ],
- "inference": "The eleventh chapter in the text emerged from Candra Dvipa concludes here",
- "uncertainties": [],
- "plain_english": "This is the eleventh chapter in the work that emerged from Candra Dvipa."
+ "inference": "The eleventh chapter concludes in the work emerged from Candradvīpa",
+ "uncertainties": [
+  "Whether candradvīpa refers to a place or a textual source is ambiguous"
+ ],
+ "plain_english": "This is the eleventh chapter in the work that emerged from Candradvīpa."
 }
