@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[four+parts](caturbhāgaiḥ) [four+parts](caturbhāgaiḥ) [remaining](śeṣānyāḥ) [moon+hall](candraśālikā)
+[four-part+by](caturbhāgaiḥ) [four-part+by](caturbhāgaiḥ) [remaining](śeṣāḥ) [other](anyāḥ) [and](ca) [moon-chambers](candraśālikāḥ)
 
 ## mukta-m0-p108-v2677
-[thus](evaṃ) [fifteen](pañcadaśa) [named](ākhyātāḥ) [five+floor+moon+hall](pañcabhūmīnduśālikāḥ)
+[thus](evam) [fifteen](pañcadaśa) [declared](ākhyātāḥ) [five-storey](pañca+bhūmi) [moon-chambers](indu+śālikāḥ)
 
 ## mukta-m0-p108-v2678
-[with+half](sārdhena) [middle](madhyataḥ) [there](tatra) [chariot+half](rathakārdhaṃ) [risen](samudgataḥ)
+[with-half](sārdhena) [in-middle](madhyataḥ) [there](tatra) [chariot-half](rathaka) [half](ardhaṃ) [raised](samudgataḥ)
 
 ## mukta-m0-p108-v2679
-[sixty+part](ṣaṣṭibhāga) [height](samucchāyaṃ) [make](kuryāt) [half+moon+hall](ardhenduśālikām)
+[sixty-part](ṣaṣṭi+bhāga) [height](samucchāyaṃ) [should-make](kuryāt) [half-moon-chamber](ardha+indu+śālikām)
 
 ## mukta-m0-p108-v2680
-[pot+band](kumbhapaṭṭīṃ) [thus](tathā) [neck](kaṇṭham) [half](ardhena) [determine](parikalpayet)
+[pitcher-band](kumbha+paṭṭīṃ) [likewise](tathā) [neck](kaṇṭham) [by-half](ardhena) [should-design](parikalpayet)
 
 ## mukta-m0-p108-v2681
-[thus](tathā) [made](kāryā) [part+by+part](bhāgabhāgena) [created](nirmitā)
+[likewise](tathā) [to-be-made](kāryā) [part](bhāga) [by-part](bhāgena) [constructed](nirmitā)
 
 ## mukta-m0-p108-v2682
-[well](khaneḥ) [tilaka+endowed](tilakopetaṃ) [that+outside](tadbāhye) [half+moon+hall](ardhenduśālikā)
+[of-cavity](khaneḥ) [and](ca) [with-forehead-mark](tilaka+upetaṃ) [its-outside](tad+bāhye) [half-moon-chamber](ardha+indu+śālikā)
 
 ## mukta-m0-p108-v2683
-[there+middle](tanmadhye) [spire](śikharī) [two+parts](dvyaṃśā) [raised+very+pleasing](ucchritātimanoramā)
+[its-middle](tan+madhye) [spire](śikharī) [two-parts](dvi+aṃśā) [raised](ucchritā) [very-charming](ati+manoramā)
 
 ## mukta-m0-p108-v2684
-[that+side](tatpārśva) [half+chariot](ardharatha) [also+thus](apyevaṃ) [make](kartavyā) [half+moon+hall](ardhenduśālikā)
+[its-side](tat+pārśva) [half-chariot](ardha+rathe) [also](api) [thus](evam) [to-be-made](kartavyā) [half-moon-chamber](ardha+inda+śālikā)
 
 ## mukta-m0-p108-v2685
-[above+above](uparyupari) [three](trīṇi) [one](ekaṃ) [earth+thread+equal](bhūsūtratulyataḥ)
+[above](upari) [above](upari) [and](ca) [three](trīṇi) [one](ekaṃ) [ground-line](bhū+sūtra) [equal-to](tulyataḥ)
 
 ## mukta-m0-p108-v2686
-[middle+chariot](madhyaratha) [work](karma) [this](idaṃ) [platform+etc](vedikādyam) [then](atha) [said](ucyate)
+[of-middle-chariot](madhya+rathasya) [work](karma) [this](idam) [platform-etc.](vedikā+ādyam) [now](atha) [is-stated](ucyate)
 
 ## mukta-m0-p108-v2687
-[foot](pādāt) [entrance+band](praveśapaṭṭī) [be](syāt) [exit](nirgamā) [band+foot](paṭṭikāṅghritaḥ)
+[from-foot](pādāt) [recess-band](praveśa+paṭṭī) [should-be](syāt) [projection](nirgamā) [band](paṭṭikā) [from-foot](aṅghritaḥ)
 
 ## mukta-m0-p108-v2688
-[foot](pādena) [square](caturasrā) [be](syāt) [that](sā) [garbha+half+spread](garbhārdhapravistarā)
+[by-part](pādena) [square](caturasrā) [should-be](syāt) [it](sā) [womb-half](garbha+ardha) [in-width](pravistarā)
 
 ## mukta-m0-p108-v2689
-[swan+named+half+thread](haṃsākhyāntārdhasūtrāt) [six+part](ṣaḍvibhāgaḥ) [that+height](taducchrayaḥ)
+[up-to-haṃsa](haṃsa+ākhyā) [end](antā) [half-line](ardha+sūtrāt) [and](ca) [six-division](ṣaḍ+vibhāgaḥ) [its-height](tad+ucchrayaḥ)
 
 ## mukta-m0-p108-v2690
-[cheek+tooth+emerging](kapolādaṃśaniṣkāśāt) [pure+sarasa+spread](amalāsāravistaraḥ)
+[from-capital](kapola+āt) [corner-projection](aṃśa+niṣkāśāt) [amalasāra](amalāsāra) [width](vistaraḥ)
 
 ## mukta-m0-p108-v2691
-[half](ardhena) [neck+band](galapaṭṭī) [ca](ca) [sub+band+other+half](upapaṭṭyaparārdhataḥ)
+[by-half](ardhena) [neck-band](gala+paṭṭī) [and](ca) [upper-band](upapaṭṭī) [by-other-half](apara+ardhataḥ)
 
 ## mukta-m0-p108-v2692
-[two](dvābhyāṃ) [ca](ca) [pure+sarasa+named](amalasārākhyaṃ) [around](parito) [round+raised](vṛttamucchritam)
+[by-two](dvābhyāṃ) [and](ca) [amalasāra-called](amalasāra+ākhyaṃ) [all-around](paritaḥ) [round](vṛttam) [raised](ucchritam)
 
 ## mukta-m0-p108-v2693
-[one](ekena) [square](caturasrā) [be](syāt) [two](dvābhyāṃ) [swan+pigeon](haṃsakapotikā)
+[by-one](ekena) [square](caturasrā) [should-be](syāt) [by-two](dvābhyāṃ) [haṃsa-bracket](haṃsa+kapotikā)
 
 ## mukta-m0-p108-v2694
-[with+beings+parts+three](sabhūtāṃśaistribhiḥ) [make](kāryo) [pot](ghaṭaḥ) [that+double+height](taddviguṇocchrayaḥ)
+[with-element-parts](sa+bhūta+aṃśaiḥ) [by-three](tribhiḥ) [to-be-made](kāryaḥ) [pot](ghaṭaḥ) [its-double-height](tad+dvi+guṇa+ucchrayaḥ)
 
 ## mukta-m0-p108-v2695
-[thus+also](tathā) [eva](eva) [ca](ca)
+[from-that](tvāt) [likewise](tathaiva) [and](ca) (?)
 
 ## mukta-m0-p108-v2696
-[somewhere](kvacid) [bhairava+nāṭya+īśa+gaurī+sun](bhairavanāṭyeśagauryarkaḥ) [south+etc](dakṣiṇāditaḥ)
+[sometimes](kvacit) [Bhairava](bhairava) [Nāṭyeśa](nāṭya+īśa) [Gaurī](gaurī) [Arka](arkaḥ) [from-south-etc.](dakṣiṇa+āditaḥ)
 
 ## mukta-m0-p108-v2697
-[that+neck+half+height](tatkaṭyardhasamucchrāyaṃ) [divide](pravibhajya) [eight+parts](aṣṭabhāgataḥ)
+[its-waist-half](tat+kaṭi+ardha) [height](samucchrāyaṃ) [having-divided](pravibhajya) [into-eight-parts](aṣṭa+bhāgataḥ)
 
 ## mukta-m0-p108-v2698
-[three+parts](tryaṃśakaiḥ) [moon+hall](candraśālāṃ) [two+parts](dvayaṃśataḥ) [middle](madhyataḥ) [city](puram)
+[by-three-parts](tri+aṃśakaiḥ) [moon-chamber](candra+śālām) [by-two-parts](dvayaṃśataḥ) [in-middle](madhyataḥ) [structure](puram)
 
 ## mukta-m0-p108-v2699
-[thus](evaṃ) [that+side](tatpārśvataḥ) [make](kāryāḥ) [half+moon+hall+etc](ardhenduśālikādayaḥ)
+[thus](evam) [on-its-sides](tat+pārśvataḥ) [to-be-made](kāryāḥ) [half-moon-chamber-etc.](ca+ardha+indu+śālikā+ādayaḥ)
 
 ## mukta-m0-p108-v2700
-[site+ornament](vāstubhūṣaṇam) [stone+born](aśmottham) [said](uktam) [others](anyāni) [ca](ca) [say](bruve)
+[building-ornament](vāstu+bhūṣaṇam) [stone-born](aśma+uttham) [stated](uktam) [others](anyāni) [and](ca) [I-speak](bruve)

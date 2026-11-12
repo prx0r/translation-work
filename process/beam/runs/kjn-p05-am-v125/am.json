@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 125,
- "question": "Can a person absorbed in that state be harmed by physical cutting?",
+ "question": "Can a person whose mind is absorbed in that state be harmed when cut?",
  "premises": [
-  "A person may be in the process of being cut.",
-  "That person has gone to that state.",
-  "That person's mind is fixed on that state."
+  "A person may be subjected to cutting.",
+  "Absorption in that state entails the mind being fixed on it.",
+  "Such mental absorption alters the effect of physical harm."
  ],
- "inference": "Despite being cut, such a person is not truly cut.",
+ "inference": "One whose mind is absorbed in that state is not truly cut even while being cut.",
  "uncertainties": [
-  "The referent of 'that' depends on the preceding context."
+  "The referent of 'that' (tad) depends on the preceding context."
  ],
- "plain_english": "Just as one who has gone to that and whose mind is fixed on that, though being cut, is not cut."
+ "plain_english": "Just as one who has gone to that state and whose mind is fixed on it, even while being cut, is not cut."
 }

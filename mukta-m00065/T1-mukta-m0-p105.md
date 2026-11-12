@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p105-v2601
-[eldest+etc](jyeṣṭhādyā) [exit](nirgamā) [to-be-known](jñeyā) [rim](nemī) [that+foot+devoid](tatpādavarjitā)
+[jyeṣṭhā+ādyāḥ](jyeṣṭhādyā) [projections](nirgamā) [to-be-known](jñeyā) [rim](nemī) [its+quarter+deprived](tatpādavarjitā)
 
 ## mukta-m0-p105-v2602
-[yoke+foot+from-middle](yugāṅghrermadhyato) [womb](garbhaḥ) [would-be](syāt) [that+one](tadekena) [pedestal](piṇḍikā)
+[yuga+quarter+from-middle](yugāṅghrermadhyato) [sanctum](garbhaḥ) [should-be](syāt) [by-that+one](tadekena) [pedestal](piṇḍikā)
 
 ## mukta-m0-p105-v2603
-[twenty-eight](aṣṭāviṃśatibhir) [wall](bhittiḥ) [that](sā) [would-be](syāt) [pillar+maiden](stambhakumārikā)
+[by-twenty-eight](aṣṭāviṃśatibhir) [wall](bhittiḥ) [that](sā) [should-be](syāt) [pillar+maiden](stambhakumārikā)
 
 ## mukta-m0-p105-v2604
-[four](catuḥ) [pillars](stāmbhāḥ) [and](ca) [that+middle](tanmadhye) [twelve](dvādaśa) [would-be](syuḥ) [maidens](kumārikāḥ)
+[four+pillared](catuḥ) [and-pillars](stāmbhāśca) [in-its-middle](tanmadhye) [twelve](dvādaśa) [should-be](syuḥ) [maidens](kumārikāḥ)
 
 ## mukta-m0-p105-v2605
-[sides](pārśvayo) [frontness](ragratā) [or](vāpi) [should-make](kuryāt) [āsāra+joined](āsārasaṃyute)
+[on-both-sides](pārśvayo) [going-forward](rgratā) [or](vāpi) [one-should-make](kuryād) [with-āsāra+joined](āsārasaṃyute)
 
 ## mukta-m0-p105-v2606
-[corner+pillar+joined](sakoṇastambhasaṃyukto) [pavilion](maṇḍapaḥ) [and](ca) [threefold](tridhā) [considered](mataḥ)
+[with-corner+pillar+joined](sakoṇastambhasaṃyukto) [hall](maṇḍapaśca) [threefold](tridhā) [considered](mataḥ)
 
 ## mukta-m0-p105-v2607
-[twelve+parts](dvādalāṃśaiḥ) [but](tu) [those](tān) [all](sarvān) [temple](prāsāde) [and](ca) [highest](uttamodike)
+[by-twelve+parts](dvādalāṃśaistu) [them](tān) [all](sarvān) [in-temple](prāsāde) [in-best+and-so-on](cottamodike)
 
 ## mukta-m0-p105-v2608
-[thus](tathā) [elsewhere](anyataḥ)
+[and-so](tathā) [elsewhere](anyataḥ)
 
 ## mukta-m0-p105-v2609
-[terrace+part](jagatīmaṃśato) [holding](dhṛtvā) [enclosure+part](veṣṭanāṃśaṃ) [but](tu) [should-omit](lopayet)
+[from-platform+part](jagatīmaṃśato) [having-taken](dhṛtvā) [enclosing+part](veṣṭanāṃśaṃ) [but](tu) [one-should-remove](lopayet)
 
 ## mukta-m0-p105-v2610
-[diagonals](vidikṣu) [corner+shrines](koṇadhāmāni) [eight+parts](vasvaṃśaiḥ) [pavilions](maṇḍapaiḥ) [with](saha)
+[in-intermediate-directions](vidikṣu) [corner+shrines](koṇadhāmāni) [with-eight+parts](vasvaṃśair) [with-halls](maṇḍapaiḥ) [together](saha)
 
 ## mukta-m0-p105-v2611
-[equal+thread+marked](samasūtrāṅkake) [cut](chede) [equal+share](samabhāgāt) [should-turn](vivartayet)
+[in-equal+line+marked](samasūtrāṅkake) [division](chede) [from-equal+part](samabhāgād) [one-should-turn](vivartayet)
 
 ## mukta-m0-p105-v2612
-[beautiful](cāru) [god-house+pillar+attic+spire](surālayastambhabalabhīśikharāṇi) [and](ca)
+[beautiful](cāru) [temple+pillar+balustrade+spires](surālayastambhabalabhīśikharāṇi) [and](ca)
 
 ## mukta-m0-p105-v2613
-[vāstu+measure](vāstumānam) [thus](iti) [called](khyātaṃ) [liṅga+measure](liṅgamānam) [then](atha) [is-said](ucyate)
+[site+measure](vāstumānam) [thus](iti) [known](khyātaṃ) [liṅga+measure](liṅgamānam) [now](atha) [is-stated](ucyate)
 
 ## mukta-m0-p105-v2614
-[mañjarī](mañjarī) [but](tu) [two+parts](dvibhāgābhyāṃ) [mañjarī+half](mañjaryardhena) [nose](nāsikā)
+[spire](mañjarī) [indeed](tu) [by-two+parts](dvibhāgābhyāṃ) [by-spire+half](mañjaryardhena) [nose](nāsikā)
 
 ## mukta-m0-p105-v2615
-[five+parts](pañcāṃśaiḥ) [that+breadth](tatpṛthutvaṃ) [and](ca) [thus+upward+three+parts](tathordhvastryaṃśakaiḥ) [neck](galaḥ)
+[by-five+parts](pañcāṃśais) [its+breadth](tatpṛthutvaṃ) [and](ca) [likewise](tathā) [by-upper+three+parts](ūrdhvastryaṃśakair) [neck](galaḥ)
 
 ## mukta-m0-p105-v2616
-[gradually](kramāt) [neck+etc+height](grīvādikocchrayaḥ)
+[successively](kramād) [neck+and-so-on+height](grīvādikocchrayaḥ)
 
 ## mukta-m0-p105-v2617
-[shrine+half+from](dhāmārdhāt) [circumambulation](bhramaṇa) [to-be-done](kāryā) [that+half](tadardhena) [and](ca) [walls](bhittayaḥ)
+[from-shrine+half](dhāmārdhāt) [circumambulation](bhramaṇa) [to-be-made](kāryā) [by-its+half](tadardhena) [and](ca) [walls](bhittayaḥ)
 
 ## mukta-m0-p105-v2618
-[pavilion+half+measure](maṇḍapārdhapramāṇena) [in-front](purato) [face+pavilion](mukhamaṇḍapaḥ)
+[by-hall+half+measure](maṇḍapārdhapramāṇena) [in-front](purato) [front+hall](mukhamaṇḍapaḥ)
 
 ## mukta-m0-p105-v2619
-[fourfold+front](catuṣkikāgrato) [always](nityaṃ) [terrace](jagatī) [shrine+measure](dhāmamānataḥ)
+[in-front-of-catuṣkikā](catuṣkikāgrato) [always](nityaṃ) [platform](jagatī) [by-shrine+measure](dhāmamānataḥ)
 
 ## mukta-m0-p105-v2620
-[that+equal](tatsamā) [attic](balabhī) [direction+placed](diksthāḥ) [own+measure+pavilion+possessed](svamānamaṇḍapānvitāḥ)
+[equal-to-that](tatsamā) [balustrade](balabhī) [situated-in-directions](diksthāḥ) [with-own+measure+halls+provided](svamānamaṇḍapānvitāḥ)
 
 ## mukta-m0-p105-v2621
-[temple+quarter+part](prāsādaturyabhāgena) [three+parts+or](tryaṃśairvā) [that+height](tatsamucchrayam)
+[by-temple+fourth+part](prāsādaturyabhāgena) [by-three+parts](tryaṃśair) [or](vā) [its+height](tatsamucchrayam)
 
 ## mukta-m0-p105-v2622
-[that+height](taducchrayaṃ) [taking](haraṃ) [making](kṛtvā) [six+part](sādhāṃśe) [hoof](khura) [gh: kṣura] [slab](paṭṭikā)
+[that+height](taducchrayaṃ) [divisor](haraṃ) [having-made](kṛtvā) [in-half+part](sādhāṃśe) [base](khura) [moulding](paṭṭikā)
 
 ## mukta-m0-p105-v2623
-[?](śaṃguṇaṃ) [would-be](bhavet)
+[six+times](ṣaḍguṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p105-v2624
-[third](tṛtīyena) [sub-slab](upapaṭṭī) [but](tu) [heat+parts](tapāṃśā) [kh: tathāṅgā] [square](ccaturasrikā)
+[by-third](tṛtīyena) [upper-moulding](upapaṭṭī) [but](tu) [by-that+part](tathāṃśā) [and-square](ccaturasrikā)
 
 ## mukta-m0-p105-v2625
-[that+half+part](taddhyaṃśa) [eightfold](maṣṭadhā) [making](kṛtvā) [those+and](taiśca) [lotus](padmaṃ) [should-turn](vivartayet)
+[that+half](taddhyaṃśam) [eightfold](aṣṭadhā) [having-made](kṛtvā) [by-those](taiśca) [lotus](padmaṃ) [one-should-form](vivartayet)
