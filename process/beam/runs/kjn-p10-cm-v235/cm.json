@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound=sthāna+cakrāḥ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming the wheels"
   },
   {
    "lemma": "cakrāḥ",
@@ -15,17 +15,17 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "particle emphasizing declaration"
   },
   {
    "lemma": "saṃproktāḥ",
    "morph": "m.nom.pl",
-   "grounds": "predicate describing wheels"
+   "grounds": "states that the wheels have been taught"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "possessor of meditation"
+   "grounds": "refers to the declared wheels"
   },
   {
    "lemma": "dhyānaṃ",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.imperative-active/√śru",
-   "grounds": "command to listener"
+   "morph": "2.sg.active-imperative √śru",
+   "grounds": "imperative command to listen"
   },
   {
    "lemma": "priye",

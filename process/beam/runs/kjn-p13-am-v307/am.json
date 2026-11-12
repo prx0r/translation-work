@@ -1,13 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "Which first two forms are enumerated among the described types?",
+ "question": "What are the first two forms characterizing the described types?",
  "premises": [
-  "A first type is identified.",
-  "The first type has the form of a boy.",
-  "A second type has the form of a madman."
+  "The first is in the form of a boy",
+  "The second has the form of a madman",
+  "Both are listed as distinct types"
  ],
- "inference": "The first form is that of a boy and the second is that of a madman.",
+ "inference": "The first two types are characterized by a boy form and a madman form.",
  "uncertainties": [],
- "plain_english": "The first is in the form of a boy, and the second has the form of a madman."
+ "plain_english": "The first is in the form of a boy, the second in the form of a madman."
 }

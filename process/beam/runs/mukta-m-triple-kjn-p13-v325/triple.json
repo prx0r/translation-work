@@ -14,37 +14,35 @@
      "surface": "jñātvā",
      "gloss": "having-known",
      "grounds": "absolutive expressing prior act of knowing",
-     "morph": "absolutive (jñā)"
+     "morph": "(indecl.) absolutive √jñā"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound describing the concealed essential nature of that reality",
-     "morph": "m.acc.sg, compound gūḍha+sadbhāva"
+     "grounds": "compound denoting concealed essential being",
+     "morph": "m.acc.sg compound gūḍha+sadbhāva"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun denoting the state of omniscience",
-     "morph": "n.nom.sg"
+     "grounds": "state of complete knowledge",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb indicating the emergence or manifestation of omniscience",
-     "morph": "3.sg.present.middle (pra-jan)"
+     "grounds": "main verb indicating emergence of a state",
+     "morph": "3.sg.present.middle √jan+pra"
     }
    ],
-   "question": "What realization leads to the arising of omniscience?",
+   "question": "What realization brings about the arising of omniscience?",
    "premises": [
-    "There is a reality with a hidden true nature.",
-    "Knowing that hidden true nature is possible.",
-    "Omniscience arises as a result of such knowing."
+    "A hidden true nature exists as an object of knowledge.",
+    "Knowing that hidden true nature is accomplished.",
+    "Omniscience is a state that can arise."
    ],
-   "inference": "Therefore, knowing that hidden true nature brings about omniscience.",
-   "uncertainties": [
-    "The exact referent of 'taṃ' depends on the preceding context."
-   ],
+   "inference": "Knowing the hidden true nature results in the arising of omniscience.",
+   "uncertainties": [],
    "plain_english": "Having known that hidden true nature, omniscience arises."
   }
  ]

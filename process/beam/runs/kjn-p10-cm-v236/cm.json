@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+āraṃ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound describing spokes"
   },
   {
    "lemma": "āraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "describes lotus"
+   "morph": "compound-member",
+   "grounds": "second member of compound qualifying lotus"
   },
   {
    "lemma": "paṅkajaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of meditation"
+   "grounds": "object of visualization"
   },
   {
    "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "qualifies lotus"
+   "grounds": "qualifies the lotus"
   },
   {
    "lemma": "prathama",
-   "morph": "compound=prathama+aṣṭaka",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming the octad"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=prathama+aṣṭaka",
-   "grounds": "adorning group"
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating adornment"
   },
   {
    "lemma": "bhūṣitam",
    "morph": "n.acc.sg",
-   "grounds": "describes lotus"
+   "grounds": "describes the lotus as decorated"
   }
  ]
 }
