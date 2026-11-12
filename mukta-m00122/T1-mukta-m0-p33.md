@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[janita](janitaiḥ) [duḥkha](duḥkhair) [iti](ity) [artha](arthaḥ)
+[produced](janitaiḥ) [by-pains](duḥkhaiḥ) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v802
-[tanmaya](tanmayo) [bhavet](bhavet) [tad](tad) [ahaṅkāra](ahaṅkāre)
+[that-absorbed](tanmayaḥ) [one-should-become](bhavet) [in-that-ego](tat+ahaṅkāre) [own-ego](sva+ahaṅkāraṃ) [one-should-dissolve](vilāpayet) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v803
-[bhāvayan](bhāvayan) [viṣaya](viṣayaiḥ) [puṣpa](puṣpaiḥ) [pūjayan](pūjayaṃs)
+[contemplating](bhāvayan) [with-objects](viṣayaiḥ) [with-flowers](puṣpaiḥ) [worshipping](pūjayan) [that-absorbed](tanmayaḥ) [one-should-become](bhavet)
 
 ## mukta-m0-p33-v804
-[asyā](asyā) [niṣphālana](niṣphālanāt) [citte](citte) [tattva](tattvaṃ)
+[of-this](asyāḥ) [from-manifestation](niṣphālanāt) [in-mind](citte) [that-truth](tat+tattvaṃ) [made-one-with-own-self](sva+ātma+sāt+kṛtam)
 
 ## mukta-m0-p33-v805
-[paripūrṇa](paripūrṇaṃ) [parāmṛṣṭa](parāmṛṣṭam) [iti](iti) [artha](arthaḥ)
+[completely](pari) [full](pūrṇaṃ) [thoroughly](parā) [grasped](mṛṣṭam)
 
 ## mukta-m0-p33-v806
-[kāmeśvarī](kāmeśvarī) [iti](iti) [tāḥ](tāḥ) [sarvakāmadā](sarvakāmadāḥ)
+[kāmeśvarī](kāmeśvarī) [thus](iti) [they](tāḥ) [givers-of-all-desires](sarva+kāma+dāḥ) [hear](śṛṇu) [in-truth](tattvataḥ)
 
 ## mukta-m0-p33-v807
-[tad](tad) [yoga](yoga) [beda](bedāṃs) [tad](tad) [yantra](yantrāṇi)
+[their-yoga-divisions](tat+yoga+bedān) [their-diagrams](tat+yantrāṇi) [and](ca) [givers-of-desired-objects](abhīṣṭa+artha+pradāni)
 
 ## mukta-m0-p33-v808
-[mūla](mūla) [vidyā](vidyā) [akṣara](akṣaraiḥ) [evaṃ](evaṃ)
+[with-root-vidyā-syllables](mūla+vidyā+akṣaraiḥ) [thus](evaṃ) [one-should-make](kuryāt) [limbs](aṅgāni) [in-order-of-six](ṣaṭ+kramāt)
 
 ## mukta-m0-p33-v809
-[caturbhiḥ](caturbhir) [nayana](nayanaṃ) [tadvat](tadvad) [astra](astram)
+[with-four](caturbhiḥ) [eye](nayanaṃ) [likewise](tadvat) [and](ca) [weapon](astram) [with-one](ekena) [declared](coditam)
 
 ## mukta-m0-p33-v810
-[ca](ca) [iti](ity) [antena](antena) [ślokadvaya](ślokadvayena)
+[and](ca) [ending-with](iti+antena) [with-pair-of-verses](śloka+dvayena) [meaning-of-section](paṭala+arthān) [teaches](upadiśati) [there](tatra) [in-truth](tatvataḥ) [as-it-is](yathāvat)
 
 ## mukta-m0-p33-v811
-[tac](tac) [śakti](śaktīḥ) [tad](tad) [āvaraṇa](āvaraṇa)
+[her-powers](tat+śaktīḥ) [consisting-of-her-retinue](tat+āvaraṇa+bhūtāḥ) [powers](śaktīḥ) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v812
-[vyāpaka](vyāpakatvena) [sarvāṅga](sarvāṅge) [mūrdhva](mūrdhvādi) [prapada](prapadāvadhi)
+[by-pervasiveness](vyāpakatvena) [in-whole-body](sarva+aṅge) [from-head](mūrdhva+ādi) [up-to-feet](prapada+avadhi)
 
 ## mukta-m0-p33-v813
-[samasta](samastena) [vyāpaka](vyāpakantu) [kuryāt](kuryādu) [ukta](uktakremeṇa)
+[with-whole](samastena) [pervasion](vyāpakan) [indeed](tu) [one-should-make](kuryāt) [by-stated-method](ukta+krameṇa) [indeed](vai)
 
 ## mukta-m0-p33-v814
-[yena](yena) [devī](devī) [suprasannā](suprasannā) [dadāti](dadātīṣṭam)
+[by-which](yena) [goddess](devī) [well-pleased](suprasannā) [gives](dadāti) [desired-object](iṣṭam) [without-effort](ayatnataḥ)
 
 ## mukta-m0-p33-v815
-[hāra](hāragrevaiyakāñcībhir) [ūrmi](ūrmikānūpurādibhiḥ) [iti](iti) [artha](arthaḥ)
+[with-garlands](hāra) [necklaces](grevaiya) [girdles](kāñcībhiḥ) [with-rings](ūrmikā) [anklets](nūpura) [and-others](ādibhiḥ)
 
 ## mukta-m0-p33-v816
-[ṣaḍbhujā](ṣaḍbhujāṃ) [trīkṣaṇā](trīkṣaṇām) [indu](indukalā) [kalita](kalitamaulikām)
+[six-armed](ṣaḍ+bhujāṃ) [three-eyed](trī+kṣaṇām) [with-crescent-moon-adorned-crest](indu+kalā+kalita+maulikām)
 
 ## mukta-m0-p33-v817
-[mandasmita](mandasmitollasadvaktrāṃ) [dayā](dayāmantharavīkṣaṇām) [iti](iti) [artha](arthaḥ)
+[with-face-shining-with-gentle-smile](manda+smita+ullasat+vaktrāṃ) [with-glance-slowed-by-compassion](dayā+manthara+vīkṣaṇām)
 
 ## mukta-m0-p33-v818
-[ityādi](ityādibhiḥ) [iti](iti) [artha](arthaḥ) [punaḥ](punaḥ)
+[thus](iti) [and-others](ādibhiḥ) [and-so-forth](iti) [etcetera](ādibhiḥ)
 
 ## mukta-m0-p33-v819
-[punarapi](punarapi) [kuryāt](kuryādityarthaḥ) [iti](iti) [artha](arthaḥ)
+[again](punar+api) [one-should-make](kuryāt) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v820
-[pañcadaśa](pañcadaśānāṃ) [nityā](nityānāṃ) [sādhāraṇa](sādhāraṇaṃ) [nāma](nāma)
+[of-the-fifteen](pañcadaśānāṃ) [nityās](nityānāṃ) [common](sādhāraṇaṃ) [name](nāma)
 
 ## mukta-m0-p33-v821
-[ratapātra](ratapātraṃ) [sudhā](sudhāpūrṇaṃ) [varada](varadaṃ) [bibhratī](bibhratīṃ)
+[holding](bibhratīṃ) [with-hands](karaiḥ) [jewel-vessel](rata+pātraṃ) [filled-with-nectar](sudhā+pūrṇaṃ) [boon-giving](varadaṃ)
 
 ## mukta-m0-p33-v822
-[prayoga](prayogādiṣu) [sarvatra](sarvatra) [vakṣye](vakṣye) [dhyāna](dhyānāni)
+[in-applications](prayoga+ādiṣu) [everywhere](sarvatra) [I-shall-tell](vakṣye) [meditations](dhyānāni) [there](tatra) [indeed](vai)
 
 ## mukta-m0-p33-v823
-[śoṣaṇa](śoṣaṇaśceti) [kathitā](kathitā) [bāṇāḥ](bāṇāḥ) [pañca](pañca)
+[and-drying](śoṣaṇaḥ) [and](ca) [thus](iti) [declared](kathitāḥ) [arrows](bāṇāḥ) [five](pañca) [previously-stated](puraḥ+uditāḥ)
 
 ## mukta-m0-p33-v824
-[anaṅga](anaṅgapadapūrvāstāḥ) [pañcamī](pañcamī) [madaveginī](madaveginī) [iti](iti)
+[preceded-by-anaṅga-word](anaṅga+pada+pūrvāḥ) [they](tāḥ) [fifth](pañcamī) [madaveginī](madaveginī)
 
 ## mukta-m0-p33-v825
-[rekhā](rekhā) [gagana](gaganapūrvā'nyā) [pūjyā](pūjyā) [patreṣu](patreṣu) [cāṣṭasu](cāṣṭasu)
+[line](rekhā) [preceded-by-gagana](gagana+pūrvā) [another](anyā) [to-be-worshipped](pūjyā) [in-petals](patreṣu) [and](ca) [in-eight](aṣṭasu)

@@ -7,57 +7,58 @@
     {
      "surface": "ṣaṣṭhaṃ",
      "gloss": "sixth",
-     "grounds": "ordinal referring to position in sequence",
-     "morph": "n.acc.sg"
+     "grounds": "ordinal numeral qualifying cakraṃ",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "particle marking continuation or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "object of implied action",
+     "grounds": "object or topic denoting the cakra",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rājānam",
      "gloss": "king",
-     "grounds": "object associated with the wheel",
+     "grounds": "epithet in apposition to cakraṃ",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral modifying petals",
-     "morph": "(indecl.)"
+     "grounds": "first member of compound describing petals",
+     "morph": "compound-member"
     },
     {
      "surface": "patra",
      "gloss": "petaled",
-     "grounds": "adjectival element describing the wheel",
-     "morph": "n.nom.sg"
+     "grounds": "second member of compound describing petals",
+     "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "adjectival qualifier of the wheel",
-     "morph": "n.acc.sg"
+     "grounds": "adjective qualifying cakraṃ, possessing a pericarp",
+     "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "What specific configuration of the sixth wheel is said to pertain to the king in terms of its petal count and pericarp?",
+   "question": "What are the defining attributes of the sixth cakra?",
    "premises": [
-    "The sixth wheel is designated in sequence.",
-    "That wheel is associated with the king as its object.",
-    "The wheel is described as eight-petaled and bearing a pericarp."
+    "The sixth cakra is identified in sequence.",
+    "It is characterized as a king.",
+    "It has eight petals.",
+    "It possesses a pericarp."
    ],
-   "inference": "The sixth wheel, linked to the king, is characterized as an eight-petaled wheel with a pericarp.",
+   "inference": "The sixth cakra is a royal eight-petaled wheel with a pericarp.",
    "uncertainties": [
-    "The exact ritual function of this wheel remains unspecified by the token set."
+    "The specific symbolic meaning of rājānam in this context is not explicit."
    ],
-   "plain_english": "The sixth wheel is the eight-petaled, pericarp-bearing wheel of the king."
+   "plain_english": "And the sixth cakra is a royal one, having eight petals and a pericarp."
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[from-two-adjacent](anantarābhyāṃ) [by-digging](khananāt) [of-quarrel-agitation](kalahodvegayoḥ) [of-two](dvayoḥ)
+[by-the-next-two](anantarābhyāṃ) [by-burying](khananāt) [of-quarrel+and-agitation](kalaha+udvegayoḥ) [of-the-two](dvayoḥ)
 
 ## mukta-m0-p38-v927
-[of-regions](deśānām) [also](api) [ca](ca) [from-mutual-quarrel](anyonyakalahāt) [affliction](pīḍanam) [becomes](bhavet)
+[of-countries](deśānām) [also](api) [and](ca) [by-mutual+quarrel](anyonya+kalahāt) [affliction](pīḍanaṃ) [may-be](bhavet)
 
 ## mukta-m0-p38-v928
-[in-border-of-kingdom](rāṣṭrasandhitale) [of-it](tasya) [by-digging](khananena) [in-short-time](alpakālataḥ)
+[at-the-border-ground+of-the-kingdom](rāṣṭra+sandhi+tale) [of-that](tasya) [by-burying](khananena) [in-a-short-time](alpa+kālataḥ)
 
 ## mukta-m0-p38-v929
-[by-twenty-two](dvāviṃśena) [of-cows](gavām) [disease](rogaḥ) [by-twenty-three](trayoviṃśena) [of-elephants](dantinām)
+[by-the-twenty-second](dvāviṃśena) [of-cows](gavāṃ) [disease](rogaḥ) [by-the-twenty-third](trayoviṃśena) [of-elephants](dantinām)
 
 ## mukta-m0-p38-v930
-[by-twenty-six](ṣaḍviṃśena) [of-principals](pradhānānām) [disease-attainment](rogāvāptiḥ) [firmly](dṛḍham) [becomes](bhavet)
+[by-the-twenty-sixth](ṣaḍviṃśena) [of-chiefs](pradhānānāṃ) [disease+attainment](roga+avāptiḥ) [firmly](dṛḍhaṃ) [may-be](bhavet)
 
 ## mukta-m0-p38-v931
-[by-twenty-eight](aṣṭāviṃśena) [by-instrument](yantreṇa) [sorcery](kṛtyā) [does-not-return](pratinivartate)
+[by-the-twenty-eighth](aṣṭāviṃśena) [by-the-yantra](yantreṇa) [magical-rite](kṛtyā) [turns-back](pratinivartate)
 
 ## mukta-m0-p38-v932
-[in-pond-well-cistern-etc](taḍāgakūpavāpyādiṣu) [by-offering-etc](arpaṇādyāti) [she](sā) [certainly](dhruvam)
+[in-tanks+wells+ponds+etc](taḍāga+kūpa+vāpī+ādiṣu) [by-offering+etc](arpaṇa+ādyā) [goes](āti) [that](sā) [certainly](dhruvam)
 
 ## mukta-m0-p38-v933
-[then](tataḥ) [upward](ūrdhvena) [by-instrument](yantreṇa) [enemy-speech-stopping](vairivākstambhanam) [becomes](bhavet)
+[then](tataḥ) [by-the-higher](ūrdhvena) [by-the-yantra](yantreṇa) [of-enemy+speech-paralysis](vairi+vāk+stambhanam) [may-be](bhavet)
 
 ## mukta-m0-p38-v934
-[protection](rakṣā) [becomes](bhavati) [in-those-places](tadbhūṣu) [by-digging-and-holding](khananāddhāraṇādapi)
+[protection](rakṣā) [becomes](bhavati) [in-those-lands](tad+bhūṣu) [by-burying](khananāt) [by-wearing](dhāraṇāt) [also](api)
 
 ## mukta-m0-p38-v935
-[there-there](tatratatra) [of-elephants-etc](gajādīnām) [in-tethering-places](ālānasthāneṣu) [from-circle](maṇḍalāt) [as-before](prāgvat)
+[here+and-there](tatra+tatra) [of-elephants+etc](gaja+ādīnām) [in-tethering-places](ālāna+sthāneṣu) [from-the-circle](maṇḍalāt) [as-before](prāgvat)
 
 ## mukta-m0-p38-v936
-[removal-of-affliction](kleśanāśanam)
+[affliction+destruction](kleśa+nāśanam)
 
 ## mukta-m0-p38-v937
-[to-far-shore](pāraṃ) [go](prayānti) [ca](ca) [without-affliction](akleśāt) [various](vicitrāḥ) [instrument-powers](yantraśaktayaḥ)
+[to-the-other-shore](pāraṃ) [they-go](prayānti) [and](ca) [without-affliction](a+kleśāt) [various](vicitrāḥ) [yantra+powers](yantra+śaktayaḥ)
 
 ## mukta-m0-p38-v938
-[on-that-tithi](tattattithau) [its-worship](tadbhajanam) [by-japa-homa-worship-etc](japahomārcanādinā)
+[on-that+lunar-day](tat+tithau) [its-worship](tad+bhajanaṃ) [by-recitation+oblation+worship+etc](japa+homa+arcana+ādinā)
 
 ## mukta-m0-p38-v939
 [honey](kṣaudraṃ) [jaggery](guḍaṃ) [coconut](nālikeraṃ) [fruit](phalaṃ) [parched-grain](lājāṃ) [sesame](tilaṃ) [curd](dadhi)
 
 ## mukta-m0-p38-v940
-[beginning-from-first-tithi](pratipattithimārabhya) [gradually](kramāt) [in-fifteen](pañcadaśasu) [api](api)
+[beginning-with+the-first-lunar-day](pratipat+tithim+ārabhya) [in-order](kramāt) [in-all-fifteen](pañcadaśasu) [also](api)
 
 ## mukta-m0-p38-v941
-[of-first](ādyāyāḥ) [of-lalitā](lalitāyāḥ) [tu](tu) [all-these](sarvāṇyetāni) [always](sarvadā)
+[of-the-first](ādyāyāḥ) [of-Lalitā](lalitāyāḥ) [but](tu) [all-these](sarvāṇi+etāni) [always](sarvadā)
 
 ## mukta-m0-p38-v942
-[of-vidyā-power-possessors](vidyāśaktimatāṃ) [always](nityam) [for-desired-attainment](abhīṣṭāvāptaye) [unceasingly](aniśam)
+[of-those-possessing-mantra+power](vidyā+śakti+matāṃ) [always](nityam) [for-attainment+of-desired-objects](abhīṣṭa+avāptaye) [unceasingly](aniśam)
 
 ## mukta-m0-p38-v943
-[having-ground](saṃpiṣya) [pill](guṭikāṃ) [having-made](kṛtvā) [with-them](tābhiḥ) [everywhere](sarvatra) [accomplish](sādhayet)
+[having-ground](saṃpiṣya) [having-made+a-pill](guṭikāṃ+kṛtvā) [with-those](tābhiḥ) [everywhere](sarvatra) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p38-v944
-[fruit-giving](phalapradāni) [iti](iti) [arthaḥ](arthaḥ)
+[fruit+giving](phala+pradānī) [thus+the-meaning](iti+arthaḥ)
 
 ## mukta-m0-p38-v945
-[libations](tarpaṇāni) [abhiṣekas](abhiṣekāḥ) [are-called](ucyante)
+[oblations+ablutions](tarpaṇāḥ+abhiṣekāḥ) [are-stated](ucyante)
 
 ## mukta-m0-p38-v946
-[by-fifteen-constant-illness](pañcadaśanityāmayatvāt)
+[because-of-consisting-of+the-fifteen-nityās](pañcadaśa+nityā+mayatvāt)
 
 ## mukta-m0-p38-v947
-[with-leaf-juice](paṭīrasaṃyutaṃ) [on-forehead](bhāle) [wearing](dhāraṇaṃ) [all-accomplishment-making](sarvasiddhikṛt)
+[with-sandal-paste+mixed](paṭīra+saṃyutaṃ) [on-the-forehead](bhāle) [wearing](dhāraṇaṃ) [all-accomplishment+causing](sarva+siddhi+kṛt)
 
 ## mukta-m0-p38-v948
-[in-bathing](snāne) [in-drinking](pāne) [in-wearing](dhāraṇe) [ca](ca) [by-pill-application](gulikāyojanena) [vai](vai)
+[in-bathing](snāne) [in-drinking](pāne) [in-wearing](dhāraṇe) [and](ca) [by-application+of-the-pill](gulikā+yojanena) [indeed](vai)
 
 ## mukta-m0-p38-v949
-[not-harm](na bādhante) [then](tataḥ) [always](nityam) [worship](arcayet) [in-own-house](svagṛhe) [somewhere](kvacit)
+[not](na) [they-afflict](bādhante) [therefore](tataḥ) [always](nityam) [one-should-worship](arcayet) [in-one's-own-house](sva+gṛhe) [somewhere](kvacit)
 
 ## mukta-m0-p38-v950
-[of-this](asyāḥ) [by-non-fruiting](niṣphālanāt) [in-mind](citte) [that-tattva](tattattvaṃ) [made-own-self](svātmasātkṛtam)
+[by-its](asyāḥ) [by-contemplation](niṣphālanāt) [in-the-mind](citte) [that+truth](tat+tattvaṃ) [made-one's-own](sva+ātma+sātkṛtam)
