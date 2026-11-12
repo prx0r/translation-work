@@ -7,64 +7,63 @@
     {
      "surface": "kaṇṭha",
      "gloss": "throat",
-     "grounds": "first member of a compound denoting the location of the cavity",
+     "grounds": "first member of compound denoting location",
      "morph": "compound-member"
     },
     {
      "surface": "kūpa",
      "gloss": "cavity",
-     "grounds": "second member of a compound denoting the hollow of the throat",
+     "grounds": "second member of compound denoting location",
      "morph": "compound-member"
     },
     {
      "surface": "sthita",
      "gloss": "situated",
-     "grounds": "describes the radiance as located in the throat-cavity",
-     "morph": "m.acc.sg"
+     "grounds": "describes the location of the radiance",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "udyotaṃ",
      "gloss": "radiance",
-     "grounds": "object or referent described as situated and having gone to absorption",
+     "grounds": "object or subject described as reaching absorption",
      "morph": "m.acc.sg"
     },
     {
      "surface": "brahma",
      "gloss": "brahma",
-     "grounds": "first member of a compound naming the cranial aperture",
+     "grounds": "first member of compound naming the aperture",
      "morph": "compound-member"
     },
     {
      "surface": "randhra",
      "gloss": "aperture",
-     "grounds": "second member of a compound denoting the brahma-aperture",
+     "grounds": "second member of compound naming the locus of dissolution",
      "morph": "compound-member"
     },
     {
      "surface": "layaṃ",
      "gloss": "absorption",
-     "grounds": "state or locus attained in the brahma-aperture",
+     "grounds": "state attained by the radiance",
      "morph": "m.acc.sg"
     },
     {
      "surface": "gatā",
      "gloss": "gone",
-     "grounds": "indicates attainment of absorption; agrees with an implied feminine subject",
+     "grounds": "indicates attainment of the state of absorption",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "Where does the radiance situated in the throat-cavity attain its final absorption?",
+   "question": "Into what locus does the radiance situated in the throat-cavity dissolve?",
    "premises": [
-    "A radiance is situated in the cavity of the throat.",
-    "This radiance reaches absorption in the brahma-aperture.",
-    "The attainment of absorption is described as a completed movement or state."
+    "A radiance is situated in the throat-cavity.",
+    "The brahma-aperture is a locus of absorption.",
+    "This radiance has gone to absorption there."
    ],
-   "inference": "The radiance present in the throat-cavity ultimately dissolves into absorption at the brahma-aperture.",
+   "inference": "The radiance situated in the throat-cavity dissolves into the brahma-aperture.",
    "uncertainties": [
-    "The explicit subject of gatā is not stated in this verse and is inferred from context.",
-    "The grammatical agreement between udyotaṃ and gatā is ambiguous without broader syntactic context."
+    "The grammatical agreement of gatā with udyotaṃ is contextually interpreted."
    ],
-   "plain_english": "The radiance situated in the cavity of the throat has gone to absorption in the brahma-aperture."
+   "plain_english": "The radiance situated in the throat-cavity has gone to absorption in the brahma-aperture."
   }
  ]
 }

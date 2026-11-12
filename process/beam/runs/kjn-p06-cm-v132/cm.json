@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "m.stem+compound",
-   "grounds": "lunar; first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "dvīpa",
-   "morph": "m.stem+compound",
-   "grounds": "island; second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg",
-   "grounds": "emerged or issued from"
+   "morph": "n.loc.sg past-participle compound",
+   "grounds": "context of chapter"
   },
   {
    "lemma": "ṣaṣṭhaḥ",
@@ -25,7 +25,7 @@
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "section of the text"
+   "grounds": "section marker"
   }
  ]
 }

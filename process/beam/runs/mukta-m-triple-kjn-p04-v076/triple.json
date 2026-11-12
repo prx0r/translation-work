@@ -7,77 +7,77 @@
     {
      "surface": "tasmiṃścaiva",
      "gloss": "in-that-and-indeed",
-     "grounds": "locative of tad with enclitics ca and eva",
+     "grounds": "fused form of tasmin + ca + eva",
      "morph": "pron.loc.sg.n + (indecl.) + (indecl.)"
     },
     {
      "surface": "niviṣṭaṃ",
      "gloss": "seated",
      "grounds": "past participle describing the visualized figure",
-     "morph": "ppp.acc.sg.n (ni-√viś)"
+     "morph": "m.acc.sg, ppp + ni-viś"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sitābharaṇabhūṣitam",
      "gloss": "adorned-with-white-ornaments",
-     "grounds": "compound: sita-ābharaṇa-bhūṣitam",
-     "morph": "ppp.acc.sg.n (√bhūṣ) compound"
+     "grounds": "describes the seated figure as decorated in white",
+     "morph": "m.acc.sg, compound = sita+ābharaṇa+bhūṣita"
     }
    ],
-   "question": "How should the deity be visualized as seated and adorned in that locus?",
+   "question": "How should the deity be visualized as seated and adorned in that state?",
    "premises": [
-    "The deity is visualized in that locus",
-    "The deity is seated there",
-    "The deity is adorned with white ornaments"
+    "The visualization occurs in that very locus",
+    "The figure is visualized as seated",
+    "The figure is adorned with white ornaments"
    ],
-   "inference": "Meditation should fix the deity as seated in that place and adorned with white ornaments",
+   "inference": "The practitioner should contemplate the deity seated there adorned with white ornaments",
    "uncertainties": [],
-   "plain_english": "And indeed in that place one should visualize him seated and adorned with white ornaments."
+   "plain_english": "And indeed in that, one should visualize him seated and adorned with white ornaments."
   },
   {
    "verse": 77,
    "rows": [
     {
      "surface": "kṣīrodavi(śe",
-     "gloss": "with-excellent-milk-water",
-     "grounds": "instrumental compound referring to milk-ocean water; surface preserved as given",
-     "morph": "n.ins.sg compound"
+     "gloss": "with-milk-water-special",
+     "grounds": "appears to refer to milk-water or a special milky substance; text shows incomplete or unusual form",
+     "morph": "compound/unclear"
     },
     {
      "surface": "sarvaiḥ",
      "gloss": "by-all",
-     "grounds": "instrumental plural indicating all agents",
-     "morph": "pron.ins.pl.m"
+     "grounds": "indicates all agents performing the sprinkling",
+     "morph": "m.inst.pl"
     },
     {
      "surface": "siñcyamānam",
      "gloss": "being-sprinkled",
      "grounds": "present passive participle describing the visualized figure",
-     "morph": "pres.pass.part.acc.sg.m (√sic)"
+     "morph": "m.acc.sg, pres.pass.part + sic"
     },
     {
      "surface": "anusmaret",
-     "gloss": "one-should-recollect",
-     "grounds": "optative prescribing contemplative recollection",
-     "morph": "3.sg.opt.act (anu-√smṛ)"
+     "gloss": "one-should-remember",
+     "grounds": "injunctive or optative sense prescribing recollection",
+     "morph": "3.sg.act.opt + anu-smṛ"
     }
    ],
-   "question": "What act of consecration should be recollected upon the visualized deity?",
+   "question": "What act of sprinkling should the practitioner recollect in this visualization?",
    "premises": [
-    "The deity is being sprinkled",
+    "The figure is being sprinkled",
     "The sprinkling is done by all",
-    "The sprinkling uses excellent milk-water"
+    "The practitioner should recollect this scene"
    ],
-   "inference": "One should recollect the deity as being sprinkled by all with excellent milk-water",
+   "inference": "One should remember the figure as being sprinkled by all with milky water",
    "uncertainties": [
-    "The exact intended form of kṣīrodavi(śe is unclear due to the preserved broken surface"
+    "The token kṣīrodavi(śe is textually unclear or incomplete"
    ],
-   "plain_english": "One should recollect him as being sprinkled by all with excellent milk-water."
+   "plain_english": "One should remember him as being sprinkled by all with milky water."
   },
   {
    "verse": 78,
@@ -85,39 +85,37 @@
     {
      "surface": "krīḍate",
      "gloss": "plays",
-     "grounds": "present middle describing the deity's activity",
-     "morph": "3.sg.pres.mid (√krīḍ)"
+     "grounds": "describes the activity of the visualized or realized being",
+     "morph": "3.sg.mid.pres + krīḍ"
     },
     {
      "surface": "vividhairbhogair",
      "gloss": "with-various-enjoyments",
-     "grounds": "instrumental compound expressing means of play",
-     "morph": "m.ins.pl compound"
+     "grounds": "fused form indicating diverse pleasures",
+     "morph": "m.inst.pl, compound = vividha+bhoga"
     },
     {
      "surface": "icchārūpañca",
      "gloss": "wish-form-and",
-     "grounds": "compound icchā-rūpam with enclitic ca",
-     "morph": "n.acc.sg compound + (indecl.)"
+     "grounds": "fused form of icchārūpam + ca, indicating a form assumed at will",
+     "morph": "n.acc.sg, compound = icchā+rūpa + (indecl.)"
     },
     {
      "surface": "jāyate",
      "gloss": "becomes",
-     "grounds": "present middle indicating arising or assuming a state",
-     "morph": "3.sg.pres.mid (√jan)"
+     "grounds": "states the resulting transformation",
+     "morph": "3.sg.mid.pres + jan"
     }
    ],
-   "question": "What experiential and transformative results arise from this visualization practice?",
+   "question": "What experiential freedom results from this contemplative visualization?",
    "premises": [
-    "The visualized figure plays with various enjoyments",
-    "A form according to wish arises",
-    "Both results are presented as outcomes"
+    "The being plays with various enjoyments",
+    "A form according to wish is attained",
+    "This attainment comes into being"
    ],
-   "inference": "The practice yields playful enjoyment and the attainment of a form shaped by wish",
-   "uncertainties": [
-    "Subject of krīḍate and jāyate may be the deity or the practitioner depending on context"
-   ],
-   "plain_english": "He plays with various enjoyments and assumes a form according to his wish."
+   "inference": "The practitioner comes to enjoy diverse pleasures and assume any desired form",
+   "uncertainties": [],
+   "plain_english": "He plays with various enjoyments and becomes able to assume any form at will."
   },
   {
    "verse": 79,
@@ -125,37 +123,37 @@
     {
      "surface": "dhyātvā",
      "gloss": "having-meditated",
-     "grounds": "absolutive indicating prior contemplative act",
-     "morph": "abs (√dhyai)"
+     "grounds": "absolutive indicating prior meditative act",
+     "morph": "gerund + dhyai"
     },
     {
      "surface": "candrāsanasthañca",
      "gloss": "seated-on-moon-seat-and",
-     "grounds": "compound candra-āsana-stham with enclitic ca",
-     "morph": "m.acc.sg compound + (indecl.)"
+     "grounds": "fused form of candrāsanastham + ca, describing the meditated object",
+     "morph": "m.acc.sg, compound = candra+āsana+stha + (indecl.)"
     },
     {
      "surface": "ūrddhaścandreṇa",
      "gloss": "above-by-moon",
-     "grounds": "locative adverbial sense with instrumental candreṇa",
-     "morph": "(indecl.) + m.ins.sg"
+     "grounds": "fused form indicating contact with a moon above",
+     "morph": "(indecl.) + m.inst.sg, compound context = ūrddha+candra"
     },
     {
      "surface": "ghaṭṭitam",
-     "gloss": "touched",
-     "grounds": "past participle describing contact from above",
-     "morph": "ppp.acc.sg.m (√ghaṭṭ)"
+     "gloss": "struck",
+     "grounds": "describes the visualized figure as touched or joined by the upper moon",
+     "morph": "m.acc.sg, ppp + ghaṭṭ"
     }
    ],
-   "question": "How should the figure be contemplated in relation to the moon seat and upper moon?",
+   "question": "How should the practitioner visualize the figure seated on a lunar seat?",
    "premises": [
     "Meditation is performed first",
     "The figure is seated on a moon seat",
     "The figure is touched by a moon above"
    ],
-   "inference": "One should meditate on the figure seated on a moon seat and touched by a moon above",
+   "inference": "One should meditate on the figure seated on a lunar seat and touched by a moon above",
    "uncertainties": [],
-   "plain_english": "Having meditated, one should visualize him seated on a moon seat and touched by a moon above."
+   "plain_english": "Having meditated, one should visualize him seated on a moon-seat and touched by a moon above."
   },
   {
    "verse": 80,
@@ -163,25 +161,25 @@
     {
      "surface": "jarāmaraṇanirmuktaṃ",
      "gloss": "freed-from-old-age-death",
-     "grounds": "compound: jarā-maraṇa-nirmuktam",
-     "morph": "ppp.acc.sg.m compound (nis-√muc)"
+     "grounds": "describes liberation from aging and death",
+     "morph": "m.acc.sg, compound = jarā+maraṇa+nirmukta"
     },
     {
      "surface": "sarvavyādhivivarjitam",
      "gloss": "free-from-all-diseases",
-     "grounds": "compound: sarva-vyādhi-vivarjitam",
-     "morph": "ppp.acc.sg.m compound (vi-√vṛj)"
+     "grounds": "describes complete absence of disease",
+     "morph": "m.acc.sg, compound = sarva+vyādhi+vivarjita"
     }
    ],
-   "question": "What condition of freedom from decay and illness characterizes the contemplated state?",
+   "question": "What bodily condition is attained through the preceding lunar meditation?",
    "premises": [
     "The state is free from old age and death",
     "The state is free from all diseases",
-    "Both freedoms qualify the same contemplated condition"
+    "These qualities characterize the meditative result"
    ],
-   "inference": "The contemplated state is characterized by complete freedom from aging, death, and disease",
+   "inference": "The practitioner attains a condition free from aging, death, and all diseases",
    "uncertainties": [],
-   "plain_english": "He is freed from old age and death and devoid of all diseases."
+   "plain_english": "He becomes freed from old age and death, and devoid of all diseases."
   },
   {
    "verse": 81,
@@ -189,43 +187,43 @@
     {
      "surface": "anyañca",
      "gloss": "another-and",
-     "grounds": "adjective with enclitic ca introducing a further teaching",
+     "grounds": "fused form introducing an additional teaching",
      "morph": "n.acc.sg + (indecl.)"
     },
     {
      "surface": "adbhutandevi",
      "gloss": "wonderful-o-goddess",
-     "grounds": "adjective with vocative address",
-     "morph": "n.acc.sg + f.voc.sg"
+     "grounds": "fused vocative address praising the teaching as wondrous",
+     "morph": "n.acc.sg + f.voc.sg, compound context = adbhuta+devī"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative addressing the goddess",
-     "morph": "2.sg.imp.act (√śru)"
+     "grounds": "imperative inviting attention",
+     "morph": "2.sg.act.imp + śru"
     },
     {
      "surface": "tvaṃ",
      "gloss": "you",
-     "grounds": "second person pronoun emphasizing the addressee",
+     "grounds": "explicit addressee",
      "morph": "pron.nom.sg"
     },
     {
      "surface": "kulabhāvini",
      "gloss": "o-one-of-the-lineage",
-     "grounds": "vocative epithet of the goddess",
+     "grounds": "vocative epithet addressing the goddess as belonging to the kula",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What rhetorical move introduces an additional wondrous teaching to the goddess?",
+   "question": "What new instruction is the goddess invited to hear next?",
    "premises": [
-    "Another teaching is announced",
+    "Another teaching is introduced",
     "The teaching is described as wonderful",
-    "The goddess is directly addressed to listen"
+    "The goddess is directly asked to listen"
    ],
-   "inference": "The speaker introduces a further wondrous teaching by calling the goddess to hear it",
+   "inference": "A further wondrous teaching is about to be revealed to the goddess",
    "uncertainties": [],
-   "plain_english": "And hear another wonderful thing, O goddess, you who belong to the lineage."
+   "plain_english": "And hear another wonderful thing, O Goddess, you who belong to the lineage."
   },
   {
    "verse": 82,
@@ -233,40 +231,40 @@
     {
      "surface": "dhyāyamānamidandevi",
      "gloss": "being-meditated-this-o-goddess",
-     "grounds": "present passive participle with demonstrative and vocative",
-     "morph": "pres.pass.part.acc.sg.n (√dhyai) + n.acc.sg + f.voc.sg"
+     "grounds": "fused form of dhyāyamānam + idam + devi referring to the meditation object",
+     "morph": "n.acc.sg, pres.mid.part + dhyai + pron.acc.sg.n + f.voc.sg"
     },
     {
      "surface": "jarāvyādhir",
      "gloss": "old-age-disease",
-     "grounds": "compound subject: jarā-vyādhiḥ",
-     "morph": "m.nom.sg compound"
+     "grounds": "fused form of jarāvyādhiḥ naming aging and illness",
+     "morph": "m.nom.sg, compound = jarā+vyādhi"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present active indicating result of meditation",
-     "morph": "3.sg.pres.act (vi-√naś)"
+     "grounds": "states the effect of the meditation",
+     "morph": "3.sg.act.pres + vi-naś"
     }
    ],
-   "question": "What effect does meditating on this form have upon aging and disease?",
+   "question": "What effect does meditating on this object have on aging and disease?",
    "premises": [
-    "This form is being meditated upon",
-    "Old age and disease are named as conditions",
-    "Those conditions are destroyed"
+    "This object is being meditated upon",
+    "Old age and disease are present conditions",
+    "Meditation causes their destruction"
    ],
-   "inference": "Meditation on this form destroys old age and disease",
+   "inference": "Meditating on this destroys old age and disease",
    "uncertainties": [],
-   "plain_english": "O goddess, when this is meditated upon, old age and disease are destroyed."
+   "plain_english": "O Goddess, when this is meditated upon, old age and disease are destroyed."
   },
   {
    "verse": 83,
    "rows": [
     {
      "surface": "dhyāyeccandramidaṃ",
-     "gloss": "one-should-meditate-moon-this",
-     "grounds": "optative with object candram and demonstrative idam",
-     "morph": "3.sg.opt.act (√dhyai) + m.acc.sg + n.acc.sg"
+     "gloss": "one-should-meditate-this-moon",
+     "grounds": "fused form of dhyāyet + candram + idam prescribing lunar meditation",
+     "morph": "3.sg.act.opt + dhyai + m.acc.sg + pron.acc.sg.n"
     },
     {
      "surface": "devi",
@@ -277,31 +275,31 @@
     {
      "surface": "nābhimūrdhni",
      "gloss": "in-navel-head",
-     "grounds": "locative dual or paired locatives indicating bodily loci",
+     "grounds": "locative pair indicating meditation sites",
      "morph": "f.loc.sg + n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking loci",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "hṛdgatam",
      "gloss": "gone-to-heart",
-     "grounds": "compound hṛd-gatam describing location in the heart",
-     "morph": "ppp.acc.sg.m compound (√gam)"
+     "grounds": "describes the moon as located in the heart",
+     "morph": "m.acc.sg, compound = hṛd+gata"
     }
    ],
-   "question": "In which bodily centers should this moon be meditated upon by the practitioner?",
+   "question": "Where should the practitioner meditate on this moon within the body?",
    "premises": [
-    "This moon is the object of meditation",
-    "The navel and head are specified as loci",
-    "The heart is also specified as a locus"
+    "The moon is the object of meditation",
+    "The navel and head are specified locations",
+    "The heart is also specified as a location"
    ],
    "inference": "One should meditate on this moon in the navel, the head, and the heart",
    "uncertainties": [],
-   "plain_english": "O goddess, one should meditate on this moon as present in the navel, in the head, and in the heart."
+   "plain_english": "O Goddess, one should meditate on this moon in the navel, in the head, and in the heart."
   },
   {
    "verse": 84,
@@ -309,35 +307,35 @@
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "adverb indicating consequence",
+     "grounds": "indicates consequence of the meditation",
      "morph": "(indecl.)"
     },
     {
      "surface": "svātantram",
      "gloss": "independence",
-     "grounds": "accusative object of attainment",
+     "grounds": "names the attained state of autonomy",
      "morph": "n.acc.sg"
     },
     {
      "surface": "āyāti",
      "gloss": "attains",
-     "grounds": "present active indicating resulting attainment",
-     "morph": "3.sg.pres.act (ā-√yā)"
+     "grounds": "states the result achieved",
+     "morph": "3.sg.act.pres + ā-yā"
     },
     {
      "surface": "jarāmaraṇavarjitam",
      "gloss": "free-from-old-age-death",
-     "grounds": "compound qualifying the attained independence",
-     "morph": "ppp.acc.sg.n compound (√vṛj)"
+     "grounds": "qualifies the attained independence",
+     "morph": "n.acc.sg, compound = jarā+maraṇa+varjita"
     }
    ],
-   "question": "What liberating attainment follows from meditating on the moon in those centers?",
+   "question": "What state of freedom follows from meditating on the moon in those centers?",
    "premises": [
-    "A consequence follows from the prior meditation",
-    "Independence is attained",
+    "The meditation has been performed",
+    "Independence is attained as a result",
     "That independence is free from old age and death"
    ],
-   "inference": "The meditation leads to an independence free from old age and death",
+   "inference": "The practitioner attains independence free from old age and death",
    "uncertainties": [],
    "plain_english": "Then one attains independence, free from old age and death."
   },
@@ -347,26 +345,24 @@
     {
      "surface": "sahasradalaśobhāḍhyaṃ",
      "gloss": "rich-with-thousand-petal-beauty",
-     "grounds": "compound: sahasra-dala-śobhā-āḍhyam",
-     "morph": "n.acc.sg compound"
+     "grounds": "describes a lotus-like form with a thousand petals",
+     "morph": "m.acc.sg, compound = sahasra+dala+śobhā+āḍhya"
     },
     {
      "surface": "gokṣīradhavalopamam",
      "gloss": "resembling-white-cow-milk",
-     "grounds": "compound: go-kṣīra-dhavala-upamam",
-     "morph": "n.acc.sg compound"
+     "grounds": "compares the appearance to the whiteness of cow's milk",
+     "morph": "m.acc.sg, compound = go+kṣīra+dhavala+upama"
     }
    ],
-   "question": "What visual qualities define the lotus or form to be contemplated?",
+   "question": "What visual qualities characterize the object to be contemplated in this practice?",
    "premises": [
-    "The form is endowed with thousand-petal beauty",
-    "The form resembles white cow's milk",
-    "Both qualities describe the same visual object"
+    "The object is endowed with thousand-petal beauty",
+    "The object resembles white cow's milk",
+    "These qualities define its appearance"
    ],
-   "inference": "The contemplated form is a radiant thousand-petaled object white like cow's milk",
-   "uncertainties": [
-    "The exact referent, lotus or moon, depends on surrounding context"
-   ],
+   "inference": "The contemplative object appears as a radiant thousand-petalled form white like cow's milk",
+   "uncertainties": [],
    "plain_english": "It is endowed with the beauty of a thousand petals and resembles white cow's milk."
   },
   {
@@ -375,31 +371,31 @@
     {
      "surface": "adhaścakrasamārūḍhaṃ",
      "gloss": "mounted-on-lower-wheel",
-     "grounds": "compound: adhas-cakra-samārūḍham",
-     "morph": "ppp.acc.sg.n compound (sam-ā-√ruh)"
+     "grounds": "fused form describing placement on a lower wheel",
+     "morph": "m.acc.sg, compound = adhas+cakra+samārūḍha"
     },
     {
      "surface": "ūrddhacakreṇa",
      "gloss": "by-upper-wheel",
-     "grounds": "instrumental compound indicating the flooding agent or locus",
-     "morph": "n.ins.sg compound"
+     "grounds": "instrumental indicating the upper wheel's action",
+     "morph": "n.inst.sg, compound = ūrddha+cakra"
     },
     {
      "surface": "plāvitam",
      "gloss": "flooded",
-     "grounds": "past participle describing inundation",
-     "morph": "ppp.acc.sg.n (√plu caus.)"
+     "grounds": "describes being inundated or overflowed",
+     "morph": "m.acc.sg, ppp + plu/plāv"
     }
    ],
-   "question": "How is the contemplated form positioned and inundated between lower and upper wheels?",
+   "question": "How is the visualized form positioned and affected by the upper and lower wheels?",
    "premises": [
-    "The form is mounted on a lower wheel",
-    "An upper wheel is involved",
-    "The form is flooded"
+    "The form is mounted on the lower wheel",
+    "The upper wheel acts upon it",
+    "The form is flooded by that action"
    ],
-   "inference": "The contemplated form rests on the lower wheel and is flooded by the upper wheel",
+   "inference": "The form rests on the lower wheel and is flooded by the upper wheel",
    "uncertainties": [],
-   "plain_english": "It is mounted on the lower wheel and flooded by the upper wheel."
+   "plain_english": "Mounted on the lower wheel, it is flooded by the upper wheel."
   },
   {
    "verse": 87,
@@ -407,27 +403,27 @@
     {
      "surface": "valīpalitanirmuktaḥ",
      "gloss": "freed-from-wrinkles-grey-hair",
-     "grounds": "compound: valī-palita-nirmuktaḥ",
-     "morph": "ppp.nom.sg.m compound (nis-√muc)"
+     "grounds": "describes freedom from signs of aging",
+     "morph": "m.nom.sg, compound = valī+palita+nirmukta"
     },
     {
      "surface": "sarvavyādhivivarjitam",
      "gloss": "free-from-all-diseases",
-     "grounds": "compound: sarva-vyādhi-vivarjitam",
-     "morph": "ppp.acc.sg.n compound (vi-√vṛj)"
+     "grounds": "describes complete absence of disease",
+     "morph": "m.acc.sg, compound = sarva+vyādhi+vivarjita"
     }
    ],
-   "question": "What bodily rejuvenation results from the described contemplative state?",
+   "question": "What physical rejuvenation results from the wheel-based visualization?",
    "premises": [
     "Wrinkles and grey hair are removed",
     "All diseases are absent",
-    "These describe the resulting condition"
+    "These are results of the practice"
    ],
    "inference": "The practitioner becomes free from wrinkles, grey hair, and all diseases",
    "uncertainties": [
-    "Case mismatch between nominative and accusative suggests transmitted or contextual variation"
+    "Case ending differs between the two tokens, suggesting possible textual variation"
    ],
-   "plain_english": "One becomes freed from wrinkles and grey hair and devoid of all diseases."
+   "plain_english": "One becomes freed from wrinkles and grey hair, and devoid of all diseases."
   },
   {
    "verse": 88,
@@ -435,8 +431,8 @@
     {
      "surface": "anyadapyadbhūtaṃ",
      "gloss": "another-also-wonderful",
-     "grounds": "compound with api introducing yet another marvel",
-     "morph": "n.acc.sg compound"
+     "grounds": "fused form introducing yet another wondrous teaching",
+     "morph": "n.acc.sg, compound context = anya+api+adbhuta"
     },
     {
      "surface": "devi",
@@ -447,19 +443,19 @@
     {
      "surface": "śṛṇutaikāgramānasam",
      "gloss": "hear-with-one-pointed-mind",
-     "grounds": "imperative with compound ekāgra-mānasam as adverbial object",
-     "morph": "2.sg.imp.act (√śru) + n.acc.sg compound"
+     "grounds": "fused form urging attentive listening",
+     "morph": "2.pl.act.imp + śru + n.acc.sg, compound = ekāgra+mānasa"
     }
    ],
-   "question": "How is the goddess urged to receive the next wondrous teaching?",
+   "question": "How is the goddess instructed to receive the next wondrous teaching?",
    "premises": [
-    "Another wonderful teaching is introduced",
+    "Another wondrous teaching is introduced",
     "The goddess is addressed directly",
     "She is asked to listen with one-pointed mind"
    ],
-   "inference": "The goddess is urged to hear yet another wondrous teaching with focused attention",
+   "inference": "The goddess should hear the next wondrous teaching with focused attention",
    "uncertainties": [],
-   "plain_english": "O goddess, hear yet another wonderful thing with a one-pointed mind."
+   "plain_english": "O Goddess, hear another wonderful thing with a one-pointed mind."
   },
   {
    "verse": 89,
@@ -467,49 +463,49 @@
     {
      "surface": "sthāne",
      "gloss": "in-place",
-     "grounds": "locative repeated for distributive emphasis",
+     "grounds": "locative indicating a locus",
      "morph": "n.loc.sg"
     },
     {
      "surface": "sthāne",
      "gloss": "in-place",
-     "grounds": "locative repeated for distributive emphasis",
+     "grounds": "repetition emphasizes every place",
      "morph": "n.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative object of meditation",
+     "grounds": "demonstrative referring to the meditated object",
      "morph": "pron.acc.sg.m"
     },
     {
      "surface": "dhyātvā",
      "gloss": "having-meditated",
-     "grounds": "absolutive indicating prior act",
-     "morph": "abs (√dhyai)"
+     "grounds": "absolutive indicating prior meditation",
+     "morph": "gerund + dhyai"
     },
     {
      "surface": "śivādyāvīcigocaram",
-     "gloss": "ranging-from-shiva-to-avici",
-     "grounds": "compound: śiva-ādi-āvīci-gocaram indicating full cosmic range",
-     "morph": "m.acc.sg compound"
+     "gloss": "extending-from-shiva-to-avici",
+     "grounds": "describes the range from highest to lowest realms",
+     "morph": "m.acc.sg, compound = śiva+ādi+āvīci+gocara"
     }
    ],
-   "question": "What cosmic range must be encompassed when meditating on that presence in every place?",
+   "question": "What universal range must the meditated object encompass in every locus?",
    "premises": [
     "Meditation is performed in place after place",
-    "That presence is the object of meditation",
-    "Its range extends from Shiva down to Avici"
+    "The object is contemplated as extending widely",
+    "Its range spans from Shiva down to Avici"
    ],
-   "inference": "One should meditate on that presence in every place as pervading the whole range from Shiva to Avici",
+   "inference": "One should meditate on that object in every place as pervading all realms from Shiva to Avici",
    "uncertainties": [],
-   "plain_english": "Having meditated on him in place after place, one should contemplate him as ranging from Shiva down to Avici."
+   "plain_english": "Having meditated on him in place after place, as extending from Shiva down to Avici,"
   },
   {
    "verse": 90,
@@ -517,39 +513,39 @@
     {
      "surface": "niṣkrāntaṃ",
      "gloss": "issued-forth",
-     "grounds": "past participle describing emanation",
-     "morph": "ppp.acc.sg.m (nis-√kram)"
+     "grounds": "describes emergence from the body",
+     "morph": "m.acc.sg, ppp + niṣ-kram"
     },
     {
      "surface": "romakūpa",
      "gloss": "from-hair-pores",
-     "grounds": "ablative or compound base indicating pores of the body; surface preserved as given",
-     "morph": "m.abl.sg"
+     "grounds": "appears to indicate pores of the body as points of emergence",
+     "morph": "m.abl.pl or compound stem, unclear"
     },
     {
      "surface": "iśca",
      "gloss": "and",
-     "grounds": "enclitic ca attached to preserved surface fragment",
-     "morph": "(indecl.)"
+     "grounds": "textually unclear token, possibly a connective fragment",
+     "morph": "unclear"
     },
     {
      "surface": "gokṣīrahimasannibham",
      "gloss": "resembling-cow-milk-snow",
-     "grounds": "compound: go-kṣīra-hima-sannibham",
-     "morph": "m.acc.sg compound"
+     "grounds": "compares the emerging radiance to milk and snow",
+     "morph": "m.acc.sg, compound = go+kṣīra+hima+sannibha"
     }
    ],
-   "question": "How is the emanation from the body's pores visually characterized in this meditation?",
+   "question": "How does the meditated presence emerge from the body in this visualization?",
    "premises": [
-    "Something has issued forth",
-    "The emanation comes from the hair pores",
+    "The presence issues forth",
+    "It emerges from the hair pores",
     "It resembles cow's milk and snow"
    ],
-   "inference": "The meditation envisions a white emanation issuing from the hair pores like milk and snow",
+   "inference": "The meditated presence should be seen issuing from the hair pores, white like milk and snow",
    "uncertainties": [
-    "The tokenization of romakūpa and iśca is irregular and preserved as given"
+    "The tokens romakūpa and iśca are textually unclear or irregular"
    ],
-   "plain_english": "One should visualize it as having issued forth from the hair pores, resembling cow's milk and snow."
+   "plain_english": "One should visualize it issuing forth from the pores of the body, resembling cow's milk and snow."
   },
   {
    "verse": 91,
@@ -557,31 +553,31 @@
     {
      "surface": "svātantraḥ",
      "gloss": "independent",
-     "grounds": "nominative predicate describing the attained state",
+     "grounds": "describes the attained autonomous state",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śivatulyastu",
      "gloss": "equal-to-shiva-indeed",
-     "grounds": "compound śiva-tulya with enclitic tu",
-     "morph": "m.nom.sg compound + (indecl.)"
+     "grounds": "fused form asserting equality with Shiva",
+     "morph": "m.nom.sg, compound = śiva+tulya + (indecl.)"
     },
     {
      "surface": "svacchandagaticeṣṭitaḥ",
      "gloss": "of-free-will-movement-activity",
-     "grounds": "compound: svacchanda-gati-ceṣṭitaḥ",
-     "morph": "m.nom.sg compound"
+     "grounds": "describes unrestricted movement and action",
+     "morph": "m.nom.sg, compound = svacchanda+gati+ceṣṭita"
     }
    ],
-   "question": "What sovereign and Shiva-like status is attained through this contemplative realization?",
+   "question": "What sovereign status does the practitioner attain through this pervasive visualization?",
    "premises": [
     "The practitioner becomes independent",
     "The practitioner becomes equal to Shiva",
     "Movement and activity become free-willed"
    ],
-   "inference": "The realization confers independence, equality with Shiva, and freely willed activity",
+   "inference": "The practitioner attains independence, equality with Shiva, and free movement and action",
    "uncertainties": [],
-   "plain_english": "One becomes independent, indeed equal to Shiva, with movement and activity governed by free will."
+   "plain_english": "He becomes independent, equal to Shiva, and free in movement and activity."
   },
   {
    "verse": 92,
@@ -589,43 +585,43 @@
     {
      "surface": "guhyanābhihṛdi",
      "gloss": "in-secret-navel-heart",
-     "grounds": "locative compound listing bodily centers",
-     "morph": "n.loc.sg compound"
+     "grounds": "fused locative listing bodily centers",
+     "morph": "n.loc.sg + f.loc.sg + n.loc.sg"
     },
     {
      "surface": "kaṇṭhe",
      "gloss": "in-throat",
-     "grounds": "locative singular naming a center",
+     "grounds": "locative indicating the throat center",
      "morph": "m.loc.sg"
     },
     {
      "surface": "vaktre",
      "gloss": "in-mouth",
-     "grounds": "locative singular naming a center",
+     "grounds": "locative indicating the mouth or face center",
      "morph": "n.loc.sg"
     },
     {
      "surface": "mūrdhni",
      "gloss": "in-head",
-     "grounds": "locative singular naming a center",
-     "morph": "n.loc.sg"
+     "grounds": "locative indicating the head center",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "śikhāntare",
-     "gloss": "in-end-of-tuft",
-     "grounds": "locative compound śikhā-antare naming a center",
-     "morph": "n.loc.sg compound"
+     "gloss": "in-tuft-end",
+     "grounds": "locative indicating the space at the end of the tuft",
+     "morph": "n.loc.sg, compound = śikhā+antara"
     }
    ],
-   "question": "Which sequence of bodily centers is enumerated as loci for the cakras?",
+   "question": "Which bodily centers are enumerated as loci for the wheel meditation?",
    "premises": [
-    "Multiple bodily loci are listed in sequence",
-    "The list includes secret place, navel, heart, throat, mouth, head, and tuft-end",
-    "These loci serve as sites for cakras"
+    "Multiple bodily locations are listed",
+    "The list includes secret place, navel, heart, throat, mouth, head, and tuft end",
+    "These serve as meditative loci"
    ],
-   "inference": "The cakras are located in the secret place, navel, heart, throat, mouth, head, and end of the tuft",
+   "inference": "The meditation is to be located in the secret place, navel, heart, throat, mouth, head, and tuft end",
    "uncertainties": [],
-   "plain_english": "In the secret place, navel, heart, throat, mouth, head, and at the end of the tuft."
+   "plain_english": "In the secret place, navel, heart, throat, mouth, head, and at the end of the tuft,"
   },
   {
    "verse": 93,
@@ -633,8 +629,8 @@
     {
      "surface": "ekādaśavidhā",
      "gloss": "eleven-fold",
-     "grounds": "compound indicating number of kinds or divisions",
-     "morph": "f.nom.pl compound"
+     "grounds": "specifies the number of types or divisions",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "devi",
@@ -645,31 +641,31 @@
     {
      "surface": "cakrāṇi",
      "gloss": "wheels",
-     "grounds": "nominative plural subject",
+     "grounds": "names the meditative centers as wheels",
      "morph": "n.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking descriptions",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sahasrikā",
      "gloss": "thousand-petalled",
-     "grounds": "adjective describing the cakras",
+     "grounds": "describes the wheels as having a thousand petals",
      "morph": "f.nom.pl"
     }
    ],
-   "question": "How many kinds of cakras are identified and what petal character do they possess?",
+   "question": "How many kinds of thousand-petalled wheels are identified in these centers?",
    "premises": [
-    "The cakras are elevenfold",
-    "The cakras are addressed in teaching to the goddess",
-    "The cakras are thousand-petalled"
+    "The wheels are described as elevenfold",
+    "The wheels are thousand-petalled",
+    "The goddess is addressed regarding them"
    ],
-   "inference": "There are eleven kinds of cakras and they are thousand-petalled",
+   "inference": "There are eleven kinds of thousand-petalled wheels in these centers",
    "uncertainties": [],
-   "plain_english": "O goddess, the cakras are elevenfold and thousand-petalled."
+   "plain_english": "O Goddess, there are eleven kinds of thousand-petalled wheels."
   },
   {
    "verse": 94,
@@ -677,45 +673,43 @@
     {
      "surface": "ṣoḍaśaṃ",
      "gloss": "sixteen",
-     "grounds": "numeral adjective indicating petal count",
+     "grounds": "specifies a wheel with sixteen petals",
      "morph": "n.nom.sg"
     },
     {
      "surface": "śatapatrañca",
      "gloss": "hundred-petal-and",
-     "grounds": "compound śata-patram with enclitic ca",
-     "morph": "n.nom.sg compound + (indecl.)"
+     "grounds": "fused form naming a hundred-petalled wheel",
+     "morph": "n.nom.sg, compound = śata+patra + (indecl.)"
     },
     {
      "surface": "koṭipatraṃ",
      "gloss": "crore-petal",
-     "grounds": "compound koṭi-patram indicating vast petal count",
-     "morph": "n.nom.sg compound"
+     "grounds": "names a wheel with countless petals",
+     "morph": "n.nom.sg, compound = koṭi+patra"
     },
     {
      "surface": "yathaiva",
      "gloss": "just-as",
-     "grounds": "comparative particle with emphasis",
+     "grounds": "fused form indicating correspondence or inclusion",
      "morph": "(indecl.) + (indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction continuing enumeration",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What additional petal counts are attributed to the cakras in this enumeration?",
+   "question": "What other petal configurations of wheels are included alongside the thousand-petalled ones?",
    "premises": [
     "A sixteen-petalled form is named",
     "A hundred-petalled form is named",
     "A crore-petalled form is named"
    ],
-   "inference": "The cakras are also described as sixteen-petalled, hundred-petalled, and crore-petalled",
-   "uncertainties": [
-    "The syntactic role of yathaiva is somewhat compressed in this enumeration"
-   ],
-   "plain_english": "They are also sixteen-petalled, hundred-petalled, and likewise crore-petalled."
+   "inference": "The wheels also include sixteen-petalled, hundred-petalled, and crore-petalled forms",
+   "uncertainties": [],
+   "plain_english": "There are also the sixteen-petalled, the hundred-petalled, and the crore-petalled wheels."
   },
   {
    "verse": 95,
@@ -723,19 +717,19 @@
     {
      "surface": "raktaṃ",
      "gloss": "red",
-     "grounds": "adjective indicating color",
+     "grounds": "specifies the color associated with a particular effect",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vaśyaṃ",
      "gloss": "for-subjugation",
-     "grounds": "adjective indicating ritual purpose",
+     "grounds": "indicates use in attraction or control",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "adverb of constancy",
+     "grounds": "emphasizes constant applicability",
      "morph": "(indecl.)"
     },
     {
@@ -747,19 +741,19 @@
     {
      "surface": "mahābhogapradāyakam",
      "gloss": "bestowing-great-enjoyment",
-     "grounds": "compound: mahā-bhoga-pradāyakam",
-     "morph": "n.nom.sg compound"
+     "grounds": "describes the red form as granting great pleasures",
+     "morph": "n.nom.sg, compound = mahā+bhoga+pradāyaka"
     }
    ],
-   "question": "What ritual efficacy is attributed to the red form in this teaching?",
+   "question": "What powers are attributed to meditating on the red form of the wheel?",
    "premises": [
-    "The red form is specified",
-    "It is associated with subjugation",
-    "It bestows great enjoyment"
+    "The red form is associated with subjugation",
+    "The red form bestows great enjoyment",
+    "These effects are said to be constant"
    ],
-   "inference": "The red form is always effective for subjugation and grants great enjoyment",
+   "inference": "The red form is always effective for subjugation and for bestowing great enjoyment",
    "uncertainties": [],
-   "plain_english": "O goddess, the red form is always used for subjugation and bestows great enjoyment."
+   "plain_english": "O Goddess, the red form is always used for subjugation and bestows great enjoyment."
   },
   {
    "verse": 96,
@@ -767,41 +761,41 @@
     {
      "surface": "śuklam",
      "gloss": "white",
-     "grounds": "adjective indicating color",
+     "grounds": "specifies the white color of the meditative form",
      "morph": "n.nom.sg"
     },
     {
      "surface": "āpyāyane",
      "gloss": "in-nourishment",
-     "grounds": "locative indicating ritual application",
+     "grounds": "locative indicating the purpose of nourishment or strengthening",
      "morph": "n.loc.sg"
     },
     {
      "surface": "proktaṃ",
      "gloss": "declared",
-     "grounds": "past participle reporting traditional teaching",
-     "morph": "ppp.nom.sg.n (pra-√vac)"
+     "grounds": "states that this use is taught",
+     "morph": "n.nom.sg, ppp + pra-vac"
     },
     {
      "surface": "viśeṣaṃ",
      "gloss": "especially",
-     "grounds": "adverbial accusative indicating emphasis",
-     "morph": "n.acc.sg"
+     "grounds": "emphasizes a particular quality or use",
+     "morph": "n.acc.sg or (indecl.) use"
     },
     {
      "surface": "śāntikārakam",
      "gloss": "causing-peace",
-     "grounds": "compound: śānti-kārakam",
-     "morph": "n.nom.sg compound"
+     "grounds": "describes the white form as producing pacification",
+     "morph": "n.nom.sg, compound = śānti+kāraka"
     }
    ],
-   "question": "What nourishing and pacifying function is assigned to the white form?",
+   "question": "What purposes are served by meditating on the white form of the wheel?",
    "premises": [
-    "The white form is declared in teaching",
-    "It is used in nourishment",
-    "It especially causes peace"
+    "The white form is declared for nourishment",
+    "The white form especially causes peace",
+    "These are its taught applications"
    ],
-   "inference": "The white form is prescribed for nourishment and especially for producing peace",
+   "inference": "The white form is used for nourishment and especially for producing peace",
    "uncertainties": [],
    "plain_english": "The white form is declared for nourishment and is especially a cause of peace."
   },
@@ -811,25 +805,25 @@
     {
      "surface": "taptacāmīkaraprabhaṃ",
      "gloss": "splendor-of-molten-gold",
-     "grounds": "compound: tapta-cāmīkara-prabham",
-     "morph": "n.nom.sg compound"
+     "grounds": "describes a radiant golden appearance",
+     "morph": "n.nom.sg, compound = tapta+cāmīkara+prabhā"
     },
     {
      "surface": "purakṣobhādikāraṇam",
      "gloss": "cause-of-city-agitation-etc",
-     "grounds": "compound: pura-kṣobha-ādi-kāraṇam",
-     "morph": "n.nom.sg compound"
+     "grounds": "states its use in stirring cities and similar effects",
+     "morph": "n.nom.sg, compound = pura+kṣobha+ādi+kāraṇa"
     }
    ],
-   "question": "What appearance and disruptive power are attributed to the golden-hued form?",
+   "question": "What effect is produced by the form shining like molten gold?",
    "premises": [
     "The form has the splendor of molten gold",
-    "It is a cause of agitation of cities and the like",
-    "Appearance and effect are linked to the same form"
+    "It is described as a cause of agitation of cities and the like",
+    "This links appearance to ritual effect"
    ],
-   "inference": "The molten-gold form is associated with causing agitation of cities and similar effects",
+   "inference": "The molten-gold form is the cause of agitating cities and similar effects",
    "uncertainties": [],
-   "plain_english": "It has the splendor of molten gold and is a cause of the agitation of cities and the like."
+   "plain_english": "The form shining like molten gold is the cause of agitating cities and the like."
   },
   {
    "verse": 98,
@@ -837,37 +831,37 @@
     {
      "surface": "dharmārthau",
      "gloss": "duty-and-wealth",
-     "grounds": "dual compound naming two aims of life",
-     "morph": "m.nom.du compound"
+     "grounds": "names two of the four human aims",
+     "morph": "m.nom.dual, compound = dharma+artha"
     },
     {
      "surface": "kāmamokṣau",
      "gloss": "desire-and-liberation",
-     "grounds": "dual compound naming two aims of life",
-     "morph": "m.nom.du compound"
+     "grounds": "names the remaining two human aims",
+     "morph": "m.nom.dual, compound = kāma+mokṣa"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking groups of attainments",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "aṇimādiguṇāṣṭakam",
      "gloss": "eight-powers-beginning-with-minuteness",
-     "grounds": "compound: aṇimā-ādi-guṇa-aṣṭakam",
-     "morph": "n.nom.sg compound"
+     "grounds": "refers to the eight yogic powers",
+     "morph": "n.nom.sg, compound = aṇimā+ādi+guṇa+aṣṭaka"
     }
    ],
-   "question": "Which human aims and yogic powers are listed as attainable results?",
+   "question": "Which human aims and yogic powers become attainable through this practice?",
    "premises": [
-    "Duty and wealth are named",
-    "Desire and liberation are named",
-    "The eight powers beginning with minuteness are named"
+    "Dharma and wealth are attained",
+    "Desire and liberation are attained",
+    "The eight powers beginning with minuteness are attained"
    ],
-   "inference": "The practice yields the four aims of life and the eight powers beginning with minuteness",
+   "inference": "The practice yields the four human aims and the eight yogic powers",
    "uncertainties": [],
-   "plain_english": "Dharma, wealth, desire, and liberation, as well as the eight powers beginning with minuteness, are attained."
+   "plain_english": "One attains dharma, wealth, desire, and liberation, as well as the eight powers beginning with minuteness."
   },
   {
    "verse": 99,
@@ -875,49 +869,49 @@
     {
      "surface": "bhavatyevaṃ",
      "gloss": "becomes-thus",
-     "grounds": "verb with enclitic evam indicating result",
-     "morph": "3.sg.pres.act (√bhū) + (indecl.)"
+     "grounds": "fused form affirming the stated result",
+     "morph": "3.sg.act.pres + bhū + (indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle",
+     "grounds": "negates doubt",
      "morph": "(indecl.)"
     },
     {
      "surface": "sandeho",
      "gloss": "doubt",
-     "grounds": "nominative noun denying uncertainty",
+     "grounds": "names the absence of uncertainty",
      "morph": "m.nom.sg"
     },
     {
      "surface": "abhyāsāt",
      "gloss": "through-practice",
-     "grounds": "ablative indicating cause or means",
+     "grounds": "ablative indicating the means of attainment",
      "morph": "m.abl.sg"
     },
     {
      "surface": "tadgatasya",
      "gloss": "of-one-devoted-to-that",
-     "grounds": "compound tad-gatasya qualifying the practitioner",
-     "morph": "m.gen.sg compound"
+     "grounds": "describes the practitioner absorbed in that practice",
+     "morph": "m.gen.sg, compound = tad+gata"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What condition guarantees that these promised results arise without doubt?",
+   "question": "Under what condition do these promised results certainly arise for the practitioner?",
    "premises": [
-    "The results come about thus",
-    "There is no doubt about this",
-    "The cause is practice by one devoted to that"
+    "The results are affirmed to occur",
+    "There is no doubt about them",
+    "They arise through practice by one devoted to it"
    ],
-   "inference": "For one devoted to that and engaged in practice, these results arise without doubt",
+   "inference": "For one devoted to this practice, these results certainly arise through sustained practice",
    "uncertainties": [],
-   "plain_english": "Thus it comes to be, without doubt, through the practice of one who is devoted to that."
+   "plain_english": "Thus it comes to be, without doubt, for one devoted to it through practice."
   }
  ]
 }
