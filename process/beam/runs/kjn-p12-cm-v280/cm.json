@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "vṛkṣa",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound:tree+born",
+   "grounds": "source in compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "produced from; compounded with vṛkṣa"
+   "morph": "compound:tree-born",
+   "grounds": "origin marker"
   },
   {
    "lemma": "mūla",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound:root+born",
+   "grounds": "source in compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "produced from; compounded with mūla"
+   "morph": "compound:root-born",
+   "grounds": "origin marker"
   },
   {
    "lemma": "ca",
@@ -34,23 +34,23 @@
   },
   {
    "lemma": "puṣpa",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound:flower+born",
+   "grounds": "source in compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "produced from; compounded with puṣpa"
+   "morph": "compound:flower-born",
+   "grounds": "origin marker"
   },
   {
    "lemma": "phala",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound:fruit+born",
+   "grounds": "source in compound"
   },
   {
    "lemma": "jā",
-   "morph": "compound",
-   "grounds": "produced from; compounded with phala"
+   "morph": "compound:fruit-born",
+   "grounds": "origin marker"
   },
   {
    "lemma": "api",
@@ -60,7 +60,7 @@
   {
    "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "disjunctive particle"
+   "grounds": "alternative particle"
   }
  ]
 }

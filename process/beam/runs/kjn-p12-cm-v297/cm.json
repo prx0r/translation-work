@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kula",
-   "morph": "compound",
-   "grounds": "tradition; first member of compound"
+   "morph": "compound:kula+knowledge",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "vijñāna",
-   "morph": "compound",
-   "grounds": "understanding; first member of compound"
+   "morph": "compound:knowledge+enjoyment",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "saṃbhogāt",
    "morph": "m.abl.sg",
-   "grounds": "from participation or union; compounded with kula-vijñāna"
+   "grounds": "cause or means"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound",
-   "grounds": "numeral; first member of compound"
+   "morph": "compound:six+months",
+   "grounds": "numeral in compound"
   },
   {
    "lemma": "māsāt",
    "morph": "m.abl.sg",
-   "grounds": "after a period; compounded with ṣaṇ"
+   "grounds": "time period"
   },
   {
    "lemma": "siddhi",
-   "morph": "compound",
-   "grounds": "attainment; first member of compound"
+   "morph": "compound:accomplishment+recipient",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "bhājanaḥ",
    "morph": "m.nom.sg",
-   "grounds": "worthy vessel; compounded with siddhi"
+   "grounds": "one who attains"
   }
  ]
 }

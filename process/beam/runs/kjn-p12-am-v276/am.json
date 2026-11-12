@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 276,
- "question": "Which animals are included among the beings designated as sacrificial victims?",
+ "question": "Which animals are included among the suitable offerings or forms in this ritual context?",
  "premises": [
-  "A jackal is included among the listed animals",
-  "A deer or buffalo is included among the listed animals",
-  "A rhinoceros is likewise included among the listed animals"
+  "A jackal is listed",
+  "A deer or buffalo is listed",
+  "A rhinoceros is likewise included"
  ],
- "inference": "The list specifies jackal, deer, buffalo, and rhinoceros as such animals",
- "uncertainties": [],
+ "inference": "The passage enumerates several animals as part of the prescribed set.",
+ "uncertainties": [
+  "Exact ritual role of these animals is not specified in this verse alone"
+ ],
  "plain_english": "A jackal, and a deer, or also a buffalo, and likewise a rhinoceros."
 }

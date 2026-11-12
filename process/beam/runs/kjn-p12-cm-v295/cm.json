@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound",
+   "morph": "compound:knowledge+unfolding",
    "grounds": "first member of compound"
   },
   {
    "lemma": "unmīlanam",
    "morph": "n.nom.sg",
-   "grounds": "opening or awakening; compounded with vijñāna"
+   "grounds": "resulting awakening"
   },
   {
    "lemma": "bhadre",
@@ -20,12 +20,12 @@
   {
    "lemma": "bhavati",
    "morph": "3.sg.present-active √bhū",
-   "grounds": "comes to be"
+   "grounds": "resulting state"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "in this manner"
+   "grounds": "manner particle"
   },
   {
    "lemma": "na",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "anya",
-   "morph": "compound",
-   "grounds": "different; first member of compound"
+   "morph": "compound:other+service",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "sevanāt",
    "morph": "n.abl.sg",
-   "grounds": "by practice or attendance; compounded with anya"
+   "grounds": "excluded means"
   }
  ]
 }

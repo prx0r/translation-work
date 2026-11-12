@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p210-v5226
-[varadanta](varadantaṃ) [vijānīyāt](vijānīyāt) [jānu-stha](jānustha) [maṇibandhaka](maṇibandhakam)
+[boon-giving](varadantaṃ) [one-should-know](vijānīyāt) [knee-placed](jānustha) [wrist](maṇibandhakam)
 
 ## mukta-m0-p210-v5227
-[vikasat](vikasat) [padma-saṃkāśa](padmasaṃkāśaḥ) [adhastāt](adhastāt) [vistṛta-aṃguli](vistṛtāṃguliḥ)
+[blooming](vikasat) [lotus+resembling](padmasaṃkāśaḥ) [below](adhastāt) [spread+fingers](vistṛtāṃguliḥ)
 
 ## mukta-m0-p210-v5228
-[padma](padmaṃ) [vā](vā) [ca](ca) [utpala](utpalaṃ) [vā](vā) [api](api) [vyāla](vyālaṃ) [vā](vā) [metu](metu) [kalpayet](kalpayet)
+[lotus](padmaṃ) [or](vā) [blue-lotus](cotpalaṃ) [or](vāpi) [serpent](vyālaṃ) [or](vā) [fearlessness](metu) [one-should-fashion](kalpayet)
 
 ## mukta-m0-p210-v5229
-[nāsāgra-dṛṣṭi-yuk](nāsāgradṛṣṭiyuk) [vāma-hasta](vāmahasto) [vā](vā) [syāt](syāt) [su-pustaka](supustakaḥ)
+[nose-tip+gaze+endowed](nāsāgradṛṣṭiyuk) [or](vā) [left+hand](mahasto) [or](vā) [should-be](syāt) [with-good-book](supustakaḥ)
 
 ## mukta-m0-p210-v5230
-[sūtra](sūtraṃ) [vāme](vāme) [ca](ca) [hṛdaya](hṛdayaṃ) [nābheḥ](nābher) [meḍhrāt](meḍhrāt) [krameṇa](krameṇa) [tu](tu)
+[thread](sūtraṃ) [in-left](vāme) [and](ca) [heart](hṛdayaṃ) [from-navel](nābheḥ) [from-genitals](meḍhrāt) [in-sequence](krameṇa) [indeed](tu)
 
 ## mukta-m0-p210-v5231
-[laṃba-pāda-sthita](laṃbapādasthitaṃ) [madhya](madhya) [sūtrāt](sūtrāt) [ardha-aṃgula-antare](ardhāṃgulāntare)
+[hanging-foot+standing](laṃbapādasthitaṃ) [middle](madhya) [from-thread](sūtrāt) [half-finger+interval](ardhāṃgulāntare)
 
 ## mukta-m0-p210-v5232
-[sadaśa-aṃguṣṭha](sadaśāṃguṣṭha) [mūla-ucca](mūlocca) [stana-agra-avadhi](stanāgrāvadhireva) [tu](tu)
+[always](sadā) [thumb+root+height](aṃguṣṭha+mūlocca) [nipple+limit](stanāgrāvadhiḥ) [indeed](eva) [indeed](tu)
 
 ## mukta-m0-p210-v5233
-[nābheḥ](nābhestu) [tu](tu) [maṇibandha-antaḥ](maṇibandhāntaḥ) [dhṛtya-aṃgula](dhṛtyaṃgulam) [udāhṛta](udāhṛtaḥ)
+[from-navel](nābheḥ) [indeed](tu) [wrist+end](maṇibandhāntaḥ) [eighteen-fingers](dhṛtyaṃgulam) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p210-v5234
-[nābheḥ](nābhestu) [tu](tu) [maṇibandha-antaṃ](maṇibandhāntaṃ) [sasyāt](sasyādekonaviṃśatiḥ) [ekonaviṃśati](ekonaviṃśatiḥ)
+[from-navel](nābheḥ) [indeed](tu) [wrist+end](maṇibandhāntaṃ) [from-that](sasyāt) [nineteen-less-one](ekonaviṃśatiḥ)
 
 ## mukta-m0-p210-v5235
-[parasya](parasya) [maṇibandhāt](maṇibandhācca) [ca](ca) [bhuja-madhyāt](bhujamadhyāt) [bhava-aṃgula](bhavāṃgulam)
+[of-the-other](parasya) [from-wrist](maṇibandhāt) [and](ca) [from-arm+middle](bhujamadhyāt) [should-be+finger](bhavāṃgulam)
 
 ## mukta-m0-p210-v5236
-[hikkā-sūtra](hikkāsūtra) [dvi-mātrā](dvimātrātha) [atha](atha) [kaṭaka-agra](kaṭakāgra) [samucchrayā](samucchrayā)
+[collarbone+line](hikkāsūtra) [two-measures](dvimātrā) [then](atha) [bracelet+tip+height](kaṭakāgra+samucchrayā)
 
 ## mukta-m0-p210-v5237
-[tat](tatat) [kalā-samopetā](kalāsamopetā) [śukla](śśukla) [yajñopavītinaḥ](yajñopavītinaḥ)
+[there](tatat) [digit+endowed](kalāsamopetāḥ) [white+sacred-thread+wearers](śukla+yajñopavītinaḥ)
 
 ## mukta-m0-p210-v5238
-[kauśika](kauśikaḥ) [kāśyapa](kāśyapaśśyāma) [śyāma](śyāma) [itara](itaraḥ) [pīta-varṇaka](pītavarṇakaḥ)
+[Kauśika](kauśikaḥ) [Kāśyapa](kāśyapaḥ) [dark](śyāmaḥ) [other](itaraḥ) [yellow+colored](pīta+varṇakaḥ)
 
 ## mukta-m0-p210-v5239
-[eṣām](eṣām) [eka-dvaya](ekadvayaṃ) [vā](vā) [api](api) [traya](trayaṃ) [vā](vā) [pārśvayoḥ](pārśvayornyaset) [nyaset](nyaset)
+[of-these](eṣām) [one+two](ekadvayaṃ) [or](vāpi) [three](trayaṃ) [or](vā) [on-sides](pārśvayoḥ) [one-should-place](nyaset)
 
 ## mukta-m0-p210-v5240
-[ūrdhvāt](ūrdhvādvomadhya) [vā](vā) [madhya](madhya) [kaṭakau](kaṭakau) [savya-asavya-karau](savyāsavyakarāvubhau) [ubhau](ubhau)
+[above](ūrdhvāt) [two](dvo) [middle](madhya) [bracelets](kaṭakau) [right+left+hands](savyāsavyakarau) [both](ubhau)
 
 ## mukta-m0-p210-v5241
-[dakṣiṇa-eka-kaṭakañca](dakṣiṇekaṭakañca) [ūru-sthitāyāṃ](ūrusthitāyāṃ) [viniveśayet](viniveśayet)
+[right+bracelet](dakṣiṇekaṭakaṃ) [and](ca) [on-thigh](ūrū) [standing](sthitāyāṃ) [one-should-place](viniveśayet)
 
 ## mukta-m0-p210-v5242
-[bhāga](bhāgam) [agra-tadā](agrantadā) [vāma](vāmo) [bhāga-adhika](bhāgādhika) [caturmukha](caturmukhaḥ)
+[part](bhāgam) [greater](agrantat) [then](ā) [left](vāmaḥ) [part+greater](bhāgādhika) [four-faced](caturmukhaḥ)
 
 ## mukta-m0-p210-v5243
-[kalā-vakra-āsya](kalāvakrāsya) [vistārā](vistārā) [yāmaṃ](yāmaṃ) [vā](vā) [api](api) [ṣaḍ-aṃgula](ṣaḍaṃgulam)
+[digit+curved](kalāvakrā) [face+width](asya+vistārā) [yāma-measure](yāmaṃ) [or](vāpi) [six-fingers](ṣaḍaṃgulam)
 
 ## mukta-m0-p210-v5244
-[hastasya](hastasya) [maṇibandha-antaṃ](maṇibandhāntaṃ) [hikkā-sūtrāt](hikkāsūtrāt) [itaḥ](itaḥ) [kramāt](kramāt)
+[of-hand](hastasya) [wrist+end](maṇibandhāntaṃ) [from-collarbone+line](hikkāsūtrāt) [from-that](itaḥ) [in-sequence](kramāt)
 
 ## mukta-m0-p210-v5245
-[ā-nābheḥ](ānābher) [antaraṃ](antaraṃ) [nālaṃ](nālaṃ) [śeṣaṃ](śeṣaṃ) [sarvaṃ](sarvantu) [tu](tu) [pūrvavat](pūrvavat)
+[up-to-navel](ānābheḥ) [interval+stalk](antaraṃnālaṃ) [rest](śeṣaṃ) [all](sarvam) [indeed](tu) [as-before](pūrvavat)
 
 ## mukta-m0-p210-v5246
-[tatra](tatrā) [akṣi-pāta](akṣipāta) [yegena](yegena) [sadā](sadā) [kuñcita](kuñcita) [locana](locanaḥ)
+[there](tatra) [glance+casting](akṣipāta+yegena) [always+contracted+eyes](sadākuñcita+locanaḥ)
 
 ## mukta-m0-p210-v5247
-[atha](atha) [kuñcita-vāma-aṃghri](kuñcitavāmāṃghri) [yugma-sphig-gata-pārṣṇika](yugmasphiggatapārṣṇikaḥ)
+[now](atha) [bent+left+foot](kuñcitavāmāṃghri) [pair+buttock+placed+heel](yugmasphiggatapārṣṇikaḥ)
 
 ## mukta-m0-p210-v5248
-[saṃdarśa-dṛṣṭi-pāta](saṃdarśadṛṣṭipātaśca) [ca](ca) [ābhaṃgañca](ābhaṃgañca) [eva](eva) [pūrvavat](pūrvavat)
+[visible+glance+casting](saṃdarśadṛṣṭipātaḥ) [and](ca) [bend](ābhaṃgaṃ) [and](ca) [indeed](eva) [as-before](pūrvavat)
 
 ## mukta-m0-p210-v5249
-[nānā-muni-gaṇaiḥ](nānāmunigaṇaissārdhaṃ) [sārdhaṃ](sārdhaṃ) [siddha-vidyā-dharaiḥ](siddhavidyādharairapi) [api](api)
+[various+sage+groups](nānāmunigaṇaiḥ) [together-with](sārdhaṃ) [siddha+vidyādhara](siddhavidyā+dharaiḥ) [also](api)
 
 ## mukta-m0-p210-v5250
-[śailaṃ](śailaṃ) [kuryāt](kuryāttutatpārśve) [tu](tu) [tat](tat) [pārśve](pārśve) [vaṭa-vṛkṣa](vaṭavṛkṣastu) [tu](tu) [śādvala](śādvalaḥ)
+[mountain](śailaṃ) [one-should-make](kuryāt) [there+at-side](tatatpārśve) [banyan+tree](vaṭavṛkṣaḥ) [indeed](tu) [grassy](śādvalaḥ)

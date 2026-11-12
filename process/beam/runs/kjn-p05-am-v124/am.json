@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to poison is attained through this perfected practice?",
+ "question": "Under what condition does poison not enter the body even if bitten by great serpents?",
  "premises": [
-  "Poison does not enter the body",
-  "This holds even if bitten",
-  "The bite may come from great serpents"
+  "A person is bitten by great serpents.",
+  "Even in that condition, poison is in question.",
+  "Poison does not enter the body in that condition."
  ],
- "inference": "The perfected practitioner becomes immune to poison even from great serpents.",
- "uncertainties": [],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "uncertainties": [
+  "The ground for this immunity is not stated in this verse."
+ ],
+ "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }
