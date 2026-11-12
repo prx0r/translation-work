@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter is identified as having emerged in the moon island?",
+ "question": "Which chapter concludes after emerging in the moon island?",
  "premises": [
-  "The context is emergence in the moon island.",
-  "An ordinal number is specified.",
-  "A chapter is named as the subject."
+  "A textual section is identified by number",
+  "The section is located in the moon island context",
+  "The section has emerged or concluded there"
  ],
- "inference": "The ninth chapter is the one that emerged in the moon island.",
- "uncertainties": [],
- "plain_english": "The ninth chapter has emerged in the moon island."
+ "inference": "The ninth chapter, emerged in the moon island, is concluded.",
+ "uncertainties": [
+  "The exact sense of vinirgate as emerged or issued is contextual."
+ ],
+ "plain_english": "Thus ends the ninth chapter, which emerged in Candra-dvīpa."
 }
