@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "ahaṃ",
-   "morph": "1.nom.sg",
-   "grounds": "first person pronoun"
+   "morph": "pron.nom.sg",
+   "grounds": "first-person pronoun"
   },
   {
    "lemma": "tvaṃ",
-   "morph": "2.nom.sg",
-   "grounds": "second person pronoun"
+   "morph": "pron.nom.sg",
+   "grounds": "second-person pronoun"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction linking identities"
+   "grounds": "conjunction linking pronouns"
   },
   {
    "lemma": "viśālākṣi",
-   "morph": "f.voc.sg (viśāla+akṣi)",
-   "grounds": "vocative compound: viśāla+akṣi"
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   },
   {
    "lemma": "sarvaśāstra",
-   "morph": "compound-member (sarva+śāstra)",
-   "grounds": "compound member: sarva+śāstra"
+   "morph": "compound-member",
+   "grounds": "first member of compound describing scope"
   },
   {
    "lemma": "avatārakaḥ",
    "morph": "m.nom.sg",
-   "grounds": "agent noun, one who brings down or reveals"
+   "grounds": "agent noun in predicate; compound with sarvaśāstra"
   }
  ]
 }

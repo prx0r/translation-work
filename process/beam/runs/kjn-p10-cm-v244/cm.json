@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound=balī+first",
-   "grounds": "first member of compound indicating aging signs"
+   "morph": "compound:balī+palita",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "palita",
-   "morph": "compound=palita+second",
-   "grounds": "second member of compound indicating destruction"
+   "morph": "compound:balī+palita",
+   "grounds": "signs of aging"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "first attainment listed"
+   "grounds": "removal"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "particle of continuation"
   },
   {
    "lemma": "sudūrāt",
    "morph": "(indecl.)",
-   "grounds": "manner or range of seeing"
+   "grounds": "at great distance"
   },
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "second attainment listed"
+   "grounds": "vision"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective indicating addition"
+   "grounds": "also"
   }
  ]
 }

@@ -8,35 +8,34 @@
      "surface": "caturaśīti",
      "gloss": "eighty-four",
      "grounds": "numeral referring to count",
-     "morph": "fem.nom.sg"
+     "morph": "indecl."
     },
     {
      "surface": "sahasreṣu",
      "gloss": "thousands",
-     "grounds": "locative plural of count",
+     "grounds": "locative plural of numeral group",
      "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "womb-diagrams",
-     "grounds": "compound locus of entrapment",
+     "grounds": "locative plural of compound context",
      "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive state of beings",
-     "morph": "3.pl.perf.pass"
+     "grounds": "past passive participle agreement",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "By what count and in what locations are certain beings said to endure torment in this claim?",
+   "question": "By what count and in what contexts are certain beings said to endure torment in this claim?",
    "premises": [
     "A count of eighty-four is specified here.",
-    "That count applies to thousands of locations.",
-    "Those locations are identified as womb-diagrams.",
-    "Beings in those locations are said to be tormented."
+    "That count applies to thousands of womb-diagrams.",
+    "Beings are stated to be tormented in those contexts."
    ],
-   "inference": "Beings are tormented in eighty-four thousand womb-diagrams.",
+   "inference": "Torment is assigned to beings situated within eighty-four thousand womb-diagrams.",
    "uncertainties": [
     "The identity of the tormented beings remains unspecified."
    ],

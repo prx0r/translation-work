@@ -1,13 +1,15 @@
 {
  "song": "kjn-p20",
  "verse": 476,
- "question": "Under what condition can the forbidden ever be enjoined by the Lord?",
+ "question": "Under what condition can the forbidden ever be enjoined by the lord?",
  "premises": [
-  "The forbidden is urged in a specific context",
-  "The Lord is addressed as the authority",
-  "No alternative condition permits it"
+  "Something not-to-be-eaten is urged.",
+  "The lord is addressed directly.",
+  "No alternative condition ever applies."
  ],
- "inference": "What is forbidden is never enjoined otherwise under the Lord's authority.",
- "uncertainties": [],
- "plain_english": "O Lord, what is forbidden is urged only in this way and never otherwise."
+ "inference": "The forbidden is enjoined without exception under the lord's authority.",
+ "uncertainties": [
+  "The specific referent of abhakṣyā is not stated in this verse."
+ ],
+ "plain_english": "O Lord, what is not to be eaten is enjoined, and never otherwise."
 }
