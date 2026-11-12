@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[beautiful-in](sundaryāṃ) [blue-gandharvas](nīlagāndarvau) [to-be-done](kartavyau) [by-desiring-siddhi](siddhimicchatā)
+[beautiful](sundaryāṃ) [blue](nīla-) [gāndharvas](gāndarvau) [should-be-made](kartavyau) [perfection](siddhi-) [desiring](icchatā)
 
 ## mukta-m0-p18-v427
-[mahā-blue-by-sequence-indeed](mahānīlakrameṇaiva) [ka-etc-ha-etc-ha-essence](kādihādikahātmikā)
+[great-blue](mahā-nīla-) [by-sequence](krameṇa) [indeed](eva) [kādi](kādi-) [hādi](hādi-) [kha-ādi](ka-hā-) [self-natured](ātmikā)
 
 ## mukta-m0-p18-v428
-[other](anyā) [divine-by-sequence-indeed](divyakrameṇaiva) [these](etā) [also](api) [O-great-lady](maheśvari)
+[other](anyā) [by-divine-sequence](divya-krameṇa) [indeed](eva) [these](etāḥ) [also](api) [great-goddess](maheśvari)
 
 ## mukta-m0-p18-v429
-[own-born-flower-by-sequence-from](svajātapuṣpakramataḥ) [sādhana](sādhanā) [in-bhairavī-mind](bhairavīmanau)
+[by-own-class](sva-jāti-) [flower-sequence](puṣpa-kramataḥ) [sādhanā](sādhanā) [bhairavī](bhairavī-) [in-mantra](manau)
 
 ## mukta-m0-p18-v430
-[by-speech](vācā) [all](sarvaṃ) [indeed](tu) [becomes](bhavati) [speech-born](vāgbhavaṃ) [therefore](tena) [praised](kīrtitam)
+[by-speech](vācā) [all](sarvaṃ) [indeed](tu) [becomes](bhavati) [vāgbhava](vāgbhavaṃ) [by-that](tena) [proclaimed](kīrtitam)
 
 ## mukta-m0-p18-v431
-[śiva-śakti-natured](śivaśaktyātmakaṃ) [seed](bījaṃ) [who](yo) [knows](jānāti) [he](sa) [practitioner](sādhakaḥ)
+[śiva](śiva-) [śakti](śakti-) [self-natured](ātmakaṃ) [seed](bījaṃ) [who](yaḥ) [knows](jānāti) [he](saḥ) [sādhakaḥ](sādhakaḥ)
 
 ## mukta-m0-p18-v432
-[of-śakti](śakteḥ) [equal-taste-bliss-union](samarasānandasaṃyoge) [which-pleasure](yatsukhaṃ) [dear](priye)
+[of-śakti](śakteḥ) [in-perfect-union](samarasa-) [bliss](ānanda-) [in-conjunction](saṃyoge) [that](yat) [bliss](sukhaṃ) [beloved](priye)
 
 ## mukta-m0-p18-v433
-[qualityless](nirguṇaṃ) [indeed](tu) [formless](nirākāraṃ) [being-consciousness-bliss-bodied](saccidānandavigraham)
+[without-quality](nirguṇaṃ) [indeed](tu) [formless](nirākāraṃ) [being-consciousness-bliss](sat-cit-ānanda-) [embodied](vigraham)
 
 ## mukta-m0-p18-v434
 [such](īdṛśaṃ) [indeed](tu) [supreme](paraṃ) [brahman](brahma) [from-mouth](mukhāt) [is-uttered](uccaryate) [how](katham)
 
 ## mukta-m0-p18-v435
-[by-speech](vācā) [all](sarvaṃ) [arises](saṃbhavati) [world-stationary-mobile](jagatsthāvarajaṅgamam)
+[by-speech](vācā) [all](sarvaṃ) [comes-into-being](saṃbhavati) [world](jagat-) [movable-and-immovable](sthāvara-jaṅgamam)
 
 ## mukta-m0-p18-v436
-[śakti](śaktiḥ) [with-consciousness](sacetanā) [called](proktā) [inert](jaḍaḥ) [supreme-śiva](paraśivo) [considered](mataḥ)
+[śakti](śaktiḥ) [conscious](sacetanā) [proclaimed](proktā) [inert](jaḍaḥ) [supreme-śiva](paraśivaḥ) [considered](mataḥ)
 
 ## mukta-m0-p18-v437
-[therefore](tasmāt) [śakti](śaktiṃ) [abandoning](vihāyātha) [everywhere](sarvatra) [inertness](jaḍatā) [considered](matā)
+[therefore](tasmāt) [śakti](śaktiṃ) [having-abandoned](vihāya) [then](atha) [everywhere](sarvatra) [inertness](jaḍatā) [considered](matā)
 
 ## mukta-m0-p18-v438
-[in-mouth](mukhe) [śakti](śaktiḥ) [situated](sthitā) [eternal](nityā) [speech-śakti](vākśaktiḥ) [thus](iti) [praised](kīrtitā)
+[in-mouth](mukhe) [śakti](śaktiḥ) [situated](sthitā) [eternal](nityā) [speech-śakti](vāk-śaktiḥ) [thus](iti) [proclaimed](kīrtitā)
 
 ## mukta-m0-p18-v439
-[all-beginning-element](sarvādibhūtaṃ) [indeed](tu) [mouth](mukhaṃ) [supreme-brahman](parabrahma) [praised](prakīrtitam)
+[of-all](sarva-) [first-cause](ādi-bhūtaṃ) [indeed](tu) [mouth](mukhaṃ) [supreme-brahman](para-brahma) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p18-v440
-[speech-born](vāgbhavaṃ) [mouth](mukham) [thus-called](ityuktaṃ) [mouth](mukhaṃ) [brahman](brahma) [praised](prakīrtitam)
+[vāgbhava](vāgbhavaṃ) [mouth](mukham) [thus](iti) [said](uktaṃ) [mouth](mukhaṃ) [brahman](brahma) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p18-v441
-[name-eighth](nāmāṣṭamaḥ) [chapter](paṭalaḥ)
+[name](nāma-) [eighth](aṣṭamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p18-v442
-[soft-seat](mṛdvāsanaṃ) [mounted](samārūḍhaṃ) [soft](komalaṃ) [topknot](cūḍakaṃ) [and](tathā)
+[soft-seat](mṛd-vāsanaṃ) [mounted-upon](samārūḍhaṃ) [delicate](komalaṃ) [crest](cūḍakaṃ) [thus](tathā)
 
 ## mukta-m0-p18-v443
-[kūrca-seat](kūrcāsanaṃ) [and](tathā) [goddess](devi) [likewise](tathaiva) [love-seat](suratāsanam)
+[kūrca-seat](kūrca-āsanaṃ) [thus](tathā) [goddess](devi) [just-so](tathaiva) [sexual-seat](surata-āsanam)
 
 ## mukta-m0-p18-v444
-[three-skull](trimuṇḍam) [one-skull](ekamuṇḍaṃ) [or](vā) [for-seat](āsanārthe) [praised](prakīrtitam)
+[three-skulls](tri-muṇḍam) [one-skull](eka-muṇḍaṃ) [or](vā) [for-seat-purpose](āsana-arthe) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p18-v445
-[topknot](cūḍakaṃ) [and](ca) [and](tathā) [said](proktaṃ) [likewise](tathaiva) [and](ca) [corpse-seat](śavāsanam)
+[crest](cūḍakaṃ) [and](ca) [thus](tathā) [proclaimed](proktaṃ) [just-so](tathaiva) [and](ca) [corpse-seat](śava-āsanam)
 
 ## mukta-m0-p18-v446
-[hero-seat](vīrāsanaṃ) [O-great-lady](maheśāni) [great-hero-seat](mahāvīrāsanaṃ) [and](tathā)
+[hero-seat](vīra-āsanaṃ) [great-goddess](maheśāni) [great-hero-seat](mahā-vīra-āsanaṃ) [thus](tathā)
 
 ## mukta-m0-p18-v447
-[there-first](tatrādau) [I-will-explain](sampravakṣyāmi) [of-skulls](muṇḍānāṃ) [characteristic](lakṣaṇaṃ) [auspicious](śubham)
+[there](tatra) [first](ādau) [will-proclaim](sampravakṣyāmi) [of-skulls](muṇḍānāṃ) [characteristic](lakṣaṇaṃ) [auspicious](śubham)
 
 ## mukta-m0-p18-v448
-[brahmin-kṣatriya-vaiśya-śūdra](brahmakṣatriyaviṭśūdrāḥ) [fourfold](caturdhā) [bone-born](cāsthijātayaḥ)
+[brahmin](brahma-) [kṣatriya](kṣatriyāḥ) [vaiśya](viṭ-) [śūdra](śūdrāḥ) [fourfold](caturdhā) [bone-classes](asthi-jātayaḥ)
 
 ## mukta-m0-p18-v449
-[thus-this-skull-secret](itthetanmuṇḍarahasye) [said](proktaṃ) [goddess](devi) [O-great-lady](maheśvari)
+[thus](ittha) [this](etat) [skull-secret](muṇḍa-rahasye) [proclaimed](proktaṃ) [goddess](devi) [great-goddess](maheśvari)
 
 ## mukta-m0-p18-v450
-[trisatara...](trisatarānagatrya(?)sthamuttamādikramācchruṇu)
+[three-hundred](tri-sata-) [gone](rān-) [agatrya](agatrya-) [situated](stham) [from-highest](uttama-) [by-sequence](ādikramāt) [hear](śruṇu)

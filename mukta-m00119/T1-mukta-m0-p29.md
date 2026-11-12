@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-such-kind(īdṛgvidhaḥ) without-doubt(nirvikalpaḥ) means-of-accomplishment(sādhana-argaḥ) not(na) otherwise(cānyathā)
+[such+kind](īdṛgvidho) [without+conceptualization](nirvikalpaḥ) [practice+worthy](sādhānārgo) [not](na) [and](ca) [otherwise](anyathā)
 
 ## mukta-m0-p29-v702
-nevertheless(tathāpi) her(tasyāḥ) satisfaction(santoṣaṃ) cause(kārayet) diligently(yatnataḥ) O-Śiva(śive)
+[even+so](tathāpi) [of-her](tasyāḥ) [satisfaction](santoṣaṃ) [one-should-cause](kārayet) [with-effort](yatnataḥ) [O-Śivā](śive)
 
 ## mukta-m0-p29-v703
-she-alone(saiva) creation(sṛṣṭiḥ) world-sustainer(jagaddhātrī) she-alone(saiva) cause(kāraṇam) goddess(īśvarī)
+[she+alone](saiva) [creation](sṛṣtir) [world+sustainer](jagaddhātrī) [she+alone](saiva) [cause](kāraṇam) [supreme-goddess](īśvarī)
 
 ## mukta-m0-p29-v704
-by-her(tayā) whatever(yat) is-done(kriyate) goddess(devi) all(sarve) satisfaction-form(santoṣa-rūpakam)
+[by-her](tayā) [what](yat) [is-done](kriyate) [O-goddess](devi) [all](sarve) [satisfaction+form](santoṣarūpakam)
 
 ## mukta-m0-p29-v705
-Kelikuñcī(kelikuñcī) great-divine(mahādivyaṃ) all-marks-endowed(sarva-lakṣaṇa-saṃyutām)
+[kelikuñcī](kelikuñcī) [great+divine](mahādivyaṃ) [all+marks+endowed](sarvalakṣaṇasaṃyutām)
 
 ## mukta-m0-p29-v706
-from-ka-to-ha-order(kādi-hādi-krameṇa-eva) all(sarve) accomplish(sampādayet) certainly(dhruvam)
+[beginning-with-ka+beginning-with-ha+sequence](kādihādikrameṇa) [indeed](eva) [all](sarve) [one-should-accomplish](sampādayet) [certainly](dhrūvam)
 
 ## mukta-m0-p29-v707
-scent-form-endowed(gandha-rūpa-yutā) may-be(syāt) if(cet) siddha-vidyā-etc-form(siddha-vidyā-ādi-rūpiṇī)
+[scent+form+endowed](gandharūpayutā) [may-be](syāt) [if](cet) [accomplished-knowledge+etc+form](siddhavidyādirūpiṇī)
 
 ## mukta-m0-p29-v708
-cut(chinnā) ... (tu) goddess(deveśi) in-measure(māne) indeed(hi) Bagalā(bagalā) considered(matā)
+[severed](chinnā) [*](*) [*](*) [but](tu) [O-lord-of-gods](deveśi) [in-measure](māne) [indeed](hi) [Bagalā](bagalā) [considered](matā)
 
 ## mukta-m0-p29-v709
-her(tasyāḥ) equal-making(samākaraṇāt) and(ca) Mātaṅgī(mātaṅgī) proclaimed(parikīrtitā)
+[of-her](tasyāḥ) [and](ca) [by-drawing-forth](samākaraṇāt) [Mātaṅgī](mātaṅgī) [is-proclaimed](parikīrtitā)
 
 ## mukta-m0-p29-v710
-all-obstacle(sarva-antarāyaḥ) goddess(deveśi) from-far(dūrāt) seen(sandṛśyate) if(yadi)
+[all+obstacle](sarvāntarāyo) [O-lord-of-gods](deveśi) [from-afar](dūrāt) [is-seen](sandṛśyate) [if](yadi)
 
 ## mukta-m0-p29-v711
-own-will(svecchā) ... touch-Kālī(sparśa-kālī) by-own-will(svecchayā) but(tu) in-reverse(viparyaye)
+[own-will](svecchā) [*](*) [*](*) [touch+Kālī](sparśakālī) [by-own-will](svecchayā) [but](tu) [in-reversal](viparyaye)
 
 ## mukta-m0-p29-v712
-own-will-first(svecchā-ādau) if(cet) flower-endowed(puṣpa-yuktā) Śrī-Mahākāma-Kālikā(śrī-mahā-kāma-kālikā)
+[in-own-will+etc](svecchādau) [if](cet) [flower+endowed](puṣpayuktā) [Śrī+Mahākāmakālikā](śrīmahākāmakālikā)
 
 ## mukta-m0-p29-v713
-in-woman-opinion(strī-mate) to-be-united(yojanīyam) indeed(hi) in-Kelikuñcī(kelikuñcyām) especially(viśeṣataḥ)
+[in-woman's-opinion](strīmate) [to-be-applied](yojanīyaṃ) [indeed](hi) [in-kelikuñcī](kelikuñcyāṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p29-v714
-lip(oṣṭham) ... eye-pair(netra-yugmam) cheek(kapole) forehead-place(bhāla-deśake)
+[lip](oṣṭhaṃ) [*](*) [*](*) [eye+pair](netrayugmaṃ) [on-cheeks](kapole) [on-forehead+region](bhāladeśake)
 
 ## mukta-m0-p29-v715
-hand-in-hand(hastā-hastitayā) holding(dhṛtvā) ten-directions-thousand(dik-sahasram) recite(japet) mantra(manum)
+[hand+by-hand](hastāhastitayā) [having-held](dhṛtvā) [direction+thousand](diksahasraṃ) [one-should-repeat](japet) [mantra](manum)
 
 ## mukta-m0-p29-v716
-... (samācaryam) thousand(sahasram) three-days(tri-dinam) recite(japet)
+[*](*) [*](*) [*](*) [having-performed](samācaryaṃ) [thousand](sahasraṃ) [for-three-days](tridinaṃ) [one-should-repeat](japet)
 
 ## mukta-m0-p29-v717
-... (daśa-sāhasrakam) recite(japet)
+[*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [ten+thousand](daśasāhasrakaṃ) [one-should-repeat](japet)
 
 ## mukta-m0-p29-v718
-mouth(mukhe) ... but(tu) ... thousand-ten(sahasra-daśakam) recite(japet)
+[in-mouth](mukhe) [*](*) [*](*) [but](tu) [having-placed](saṃdatvā) [thousand+ten](sahasradaśakaṃ) [one-should-repeat](japet)
 
 ## mukta-m0-p29-v719
-chowrie(cāmaram) sun-disk(ravi-bimbam) and(ca) three-thread(tri-sūtram) and(ca) lotus(saroruham)
+[yak-tail-fan](cāmaraṃ) [sun+disk](ravibimbañca) [three+thread](trisūtraśca) [lotus](saroruham)
 
 ## mukta-m0-p29-v720
-earth(pṛthvīm) blossomed(vikasitām) ... ten(daśa) places(sthānāni) Pārvatī(pārvati)
+[earth](pṛthvīṃ) [blossomed](vikasitāṃ) [*](*) [*](*) [ten](daśa) [places](sthānāni) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p29-v721
-Kālikā(kālikā) boon-giver(varadā) his(tasya) in-moment(kṣaṇa-mātreṇa) arises(jāyate)
+[Kālikā](kālikā) [boon-giving](varadā) [of-him](tasya) [in-a-moment](kṣaṇamātreṇa) [becomes](jāyate)
 
 ## mukta-m0-p29-v722
-four-seat-absence(catuṣka-pīṭha-abhāve) but(tu) those-names(tat-tat-nāmāni) assign(kalpayet)
+[four+pīṭha+absence](catuṣkapīṭhābhāve) [but](tu) [those+respective+names](tattannāmāni) [one-should-imagine](kalpayet)
 
 ## mukta-m0-p29-v723
-by-offering(dravya-dānena) goddess(deveśi) meditation(mananaṃ) cause(kārayet) dear(priye)
+[substance+giving](dravyadānena) [O-lord-of-gods](deveśi) [contemplation](mananaṃ) [one-should-cause](kārayet) [O-beloved](priye)
 
 ## mukta-m0-p29-v724
-flower-brush(prasūna-tūlikām) making(kṛtvā) high-place(ucca-sthāne) place(nidhāpayet)
+[flower+mattress](prasūnatūlikāṃ) [having-made](kṛtvā) [in-high+place](uccasthāne) [one-should-place](nidhāpayet)
 
 ## mukta-m0-p29-v725
-five-six-fold(pañca-ṣoḍhā-paraḥ) becoming(bhūtvā) in-her(tasyām) nyāsa-etc(nyāsa-ādikam) ... (cavet)
+[five+ṣoḍhā+devoted](pañcaṣoḍhāparo) [having-become](bhūtvā) [on-it](tasyāṃ) [installation+etc](nyāsādikaṃ) [one-should-perform](cavet)

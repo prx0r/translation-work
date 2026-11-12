@@ -8,7 +8,7 @@
      "surface": "chedyamāno",
      "gloss": "being-cut",
      "grounds": "present passive participle describing one subjected to cutting",
-     "morph": "m.nom.sg.participle.passive-present √chid"
+     "morph": "part.pass.pres.m.nom.sg(√chid)"
     },
     {
      "surface": "na",
@@ -19,39 +19,39 @@
     {
      "surface": "chidyeta",
      "gloss": "would-be-cut",
-     "grounds": "optative verb expressing potential or counterfactual cutting",
-     "morph": "3.sg.passive-optative √chid"
+     "grounds": "optative expressing potential or hypothetical cutting",
+     "morph": "3.sg.pass.opt(√chid)"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "compound describing one who has attained that state",
-     "morph": "compound: tad+gataḥ (dependent+head), m.nom.sg"
+     "grounds": "compound indicating one who has reached that state",
+     "morph": "compound:tat+gata(m.nom.sg)"
     },
     {
      "surface": "tan+mano",
-     "gloss": "mind-on-that",
-     "grounds": "compound describing one whose mind is fixed on that",
-     "morph": "compound: tad+manas (dependent+head), m.nom.sg"
+     "gloss": "mind-fixed-on-that",
+     "grounds": "compound indicating one whose mind is absorbed in that",
+     "morph": "compound:tat+manas(m.nom.sg)"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "particle indicating manner or comparison",
+     "grounds": "particle introducing comparison or manner",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Can a person absorbed in that state be harmed by physical cutting?",
+   "question": "What immunity from physical injury results from absorption in that attained state?",
    "premises": [
     "A person may be subjected to the act of cutting.",
-    "One who has gone to that state has the mind fixed on that.",
-    "Absorption in that state alters the effect of physical harm."
+    "Absorption in that state entails the mind being fixed on it.",
+    "Such absorption alters the effect of physical harm."
    ],
-   "inference": "One absorbed in that state remains unaffected even while being cut.",
+   "inference": "One who has reached that state and whose mind is fixed on it is not actually cut even while being cut.",
    "uncertainties": [
-    "The exact referent of 'that' (tad) depends on the preceding context."
+    "Whether the immunity described is literal physical invulnerability or a metaphor for transcendence of bodily experience is not explicit."
    ],
-   "plain_english": "Though being cut, one who has gone to that and whose mind is fixed on that is, as it were, not cut."
+   "plain_english": "Just as one who has gone to that state, with mind fixed on it, is not cut even while being cut."
   }
  ]
 }

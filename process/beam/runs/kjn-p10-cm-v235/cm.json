@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound=sthāna+first",
-   "grounds": "first member of compound"
+   "morph": "compound=sthāna+member",
+   "grounds": "first member of compound naming the wheels"
   },
   {
    "lemma": "cakrāḥ",
-   "morph": "compound=sthāna-cakrāḥ+final, m.nom.pl",
+   "morph": "m.nom.pl",
    "grounds": "subject declared"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "particle marking statement"
   },
   {
    "lemma": "saṃproktāḥ",
-   "morph": "m.nom.pl, ppp/sam-pra-√vac",
-   "grounds": "past participle predicate"
+   "morph": "m.nom.pl",
+   "grounds": "predicate describing cakrāḥ"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "possessive reference"
+   "grounds": "refers to the declared wheels"
   },
   {
    "lemma": "dhyānaṃ",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.act-imper/√śru",
-   "grounds": "imperative verb"
+   "morph": "2.sg.act-imp/√śru",
+   "grounds": "imperative command to the listener"
   },
   {
    "lemma": "priye",
