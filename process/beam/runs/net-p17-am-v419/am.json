@@ -1,15 +1,13 @@
 {
  "song": "net-p17",
  "verse": 419,
- "question": "How did the author come to illuminate this work through the help received from others?",
+ "question": "How did the author’s illumination of this work arise from others’ prior contribution?",
  "premises": [
-  "Others did something for the author.",
-  "Thereafter this work was illumined.",
-  "The illumination was carried out by the author."
+  "Others did something for the author",
+  "This work was illumined",
+  "The illumination was done by the author"
  ],
- "inference": "Having received some help from others, the author illumined this work.",
- "uncertainties": [
-  "The exact nature of what others did is unspecified."
- ],
- "plain_english": "They did something for me; thereafter this was illumined by me."
+ "inference": "After others contributed something for me, this work was illumined by me.",
+ "uncertainties": [],
+ "plain_english": "They did something for me; then this was illumined by me."
 }

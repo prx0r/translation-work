@@ -1,15 +1,13 @@
 {
  "song": "net-p17",
  "verse": 417,
- "question": "What fault in their vision is identified as uneven despite radiant illumination?",
+ "question": "What defect in perception is attributed to those lacking radiant illumination?",
  "premises": [
-  "Radiant illumination is present.",
-  "A fault is identified in their sight.",
-  "That fault is described as uneven and of such a kind."
+  "A fault is identified",
+  "That fault is uneven",
+  "It belongs to their sight and is of such a kind"
  ],
- "inference": "Even with radiant illumination, their sight has such an uneven fault.",
- "uncertainties": [
-  "The referent of 'them' is not specified in this unit."
- ],
- "plain_english": "O radiant illumination, that fault of their sight is this uneven one, of such a kind."
+ "inference": "Their sight has such an uneven fault, O radiant illumination.",
+ "uncertainties": [],
+ "plain_english": "O radiant illumination, that fault is uneven; such is the fault of their sight."
 }

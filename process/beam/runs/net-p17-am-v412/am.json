@@ -3,13 +3,11 @@
  "verse": 412,
  "question": "What response is required once the preceding condition has arisen?",
  "premises": [
-  "A prior condition has been established.",
-  "A command is present to be followed.",
-  "Obedience is prescribed as the response."
+  "A prior condition has been reached",
+  "A command is present",
+  "Observance of that command is prescribed"
  ],
- "inference": "Therefore one should obey the command.",
- "uncertainties": [
-  "The source of the command is not specified in this unit."
- ],
+ "inference": "Then one should obey the command.",
+ "uncertainties": [],
  "plain_english": "Then one should obey the command."
 }

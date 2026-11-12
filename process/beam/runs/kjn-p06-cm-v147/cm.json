@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "yoginī",
-   "morph": "compound-member",
+   "morph": "compound:yoginī+sthānam",
    "grounds": "first member of compound"
   },
   {
    "lemma": "sthānam",
    "morph": "n.acc.sg",
-   "grounds": "object resorted to"
+   "grounds": "location resorted to"
   },
   {
    "lemma": "āśritya",
@@ -20,17 +20,17 @@
   {
    "lemma": "asitaṃ",
    "morph": "n.acc.sg",
-   "grounds": "qualifies the color"
+   "grounds": "quality of form"
   },
   {
    "lemma": "kṛṣṇa",
-   "morph": "compound-member",
+   "morph": "compound:kṛṣṇa+varṇakam",
    "grounds": "first member of compound"
   },
   {
    "lemma": "varṇakam",
    "morph": "n.acc.sg",
-   "grounds": "object contemplated or applied"
+   "grounds": "appearance"
   }
  ]
 }

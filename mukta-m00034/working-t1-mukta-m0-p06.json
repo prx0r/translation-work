@@ -44,16 +44,16 @@
 "quick_gloss": "oneness"
 },
 {
-"surface": "katham",
-"quick_gloss": "how"
-},
-{
 "surface": "syāt",
 "quick_gloss": "could-be"
 },
 {
 "surface": "jaḍa+ajaḍayoḥ",
 "quick_gloss": "of-the-insentient-and-sentient"
+},
+{
+"surface": "katham",
+"quick_gloss": "how"
 }
 ]
 },
@@ -66,7 +66,7 @@
 "tokens": [
 {
 "surface": "sa+aṅgaḥ",
-"quick_gloss": "with-auxiliaries"
+"quick_gloss": "with-limbs"
 },
 {
 "surface": "ca",
@@ -74,11 +74,11 @@
 },
 {
 "surface": "anya+prathā+adhīnaḥ",
-"quick_gloss": "dependent-on-the-manifestation-of-another"
+"quick_gloss": "dependent-on-manifestation-of-another"
 },
 {
 "surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "although"
 },
 {
 "surface": "abhyāsaḥ",
@@ -131,12 +131,16 @@
 "quick_gloss": "that"
 },
 {
-"surface": "sva+siddha+prakāśaḥ",
+"surface": "svasiddha+prakāśaḥ",
 "quick_gloss": "self-established-light"
 },
 {
-"surface": "anya+advaya+avasthā+hetutām",
-"quick_gloss": "the-state-of-being-cause-of-another-non-dual-state"
+"surface": "anya+advaya+avasthā",
+"quick_gloss": "state-of-non-duality-with-another"
+},
+{
+"surface": "hetutām",
+"quick_gloss": "cause-ness"
 },
 {
 "surface": "iyāt",
@@ -168,7 +172,7 @@
 "quick_gloss": "here"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -186,11 +190,11 @@
 "tokens": [
 {
 "surface": "ābhāsa+vigamāt",
-"quick_gloss": "from-the-disappearance-of-appearance"
+"quick_gloss": "from-disappearance-of-manifestation"
 },
 {
 "surface": "acchāt",
-"quick_gloss": "clearly"
+"quick_gloss": "purely"
 },
 {
 "surface": "mukti+bhūtā",
@@ -215,35 +219,39 @@
 "tokens": [
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
+},
+{
+"surface": "*",
+"quick_gloss": "*"
 },
 {
 "surface": "māyā+ābhāsa+pratiṣṭhiteḥ",
-"quick_gloss": "because-of-the-establishment-of-the-appearance-of-māyā"
+"quick_gloss": "because-of-establishment-in-māyā-manifestation"
 }
 ]
 },
@@ -256,7 +264,7 @@
 "tokens": [
 {
 "surface": "prakāśa+vigame",
-"quick_gloss": "even-in-the-disappearance-of-light"
+"quick_gloss": "even-in-disappearance-of-light"
 },
 {
 "surface": "api",
@@ -272,7 +280,7 @@
 },
 {
 "surface": "vāsanā+kṣayaḥ",
-"quick_gloss": "destruction-of-latent-impressions"
+"quick_gloss": "destruction-of-latencies"
 }
 ]
 },
@@ -284,16 +292,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+sva+prāptasya",
-"quick_gloss": "not-self-attained"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "?",
-"quick_gloss": "uncertain"
+"surface": "sva+prāpta+asya",
+"quick_gloss": "of-that-which-has-attained-its-own"
 },
 {
 "surface": "vikala+sva+hetoḥ+avirāmataḥ",
-"quick_gloss": "because-of-the-non-cessation-of-its-own-cause"
+"quick_gloss": "because-of-non-cessation-of-the-cause-of-deficiency"
 }
 ]
 },
@@ -314,7 +322,7 @@
 },
 {
 "surface": "sarvajñatā+bījam",
-"quick_gloss": "the-seed-of-omniscience"
+"quick_gloss": "seed-of-omniscience"
 },
 {
 "surface": "yuktitaḥ",
@@ -342,7 +350,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -351,7 +359,7 @@
 },
 {
 "surface": "pratiṣṭhām",
-"quick_gloss": "foundation"
+"quick_gloss": "establishment"
 },
 {
 "surface": "adhigacchati",
@@ -375,7 +383,7 @@
 "quick_gloss": "toward"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -401,7 +409,7 @@
 "tokens": [
 {
 "surface": "pratīti+bhājanam",
-"quick_gloss": "the-receptacle-of-cognition"
+"quick_gloss": "receptacle-of-cognition"
 },
 {
 "surface": "yadvat",
@@ -409,7 +417,7 @@
 },
 {
 "surface": "maṇi+raupya+ādikaiḥ",
-"quick_gloss": "with-jewel-silver-and-so-on"
+"quick_gloss": "with-jewel-silver-and-others"
 },
 {
 "surface": "alam",
@@ -426,7 +434,7 @@
 "tokens": [
 {
 "surface": "prakāśa+artha+uparaktaḥ",
-"quick_gloss": "though-colored-by-the-object-of-light"
+"quick_gloss": "though-colored-by-object-of-light"
 },
 {
 "surface": "api",
@@ -437,7 +445,7 @@
 "quick_gloss": "crystal-and-so-on"
 },
 {
-"surface": "jaḍa+upamam",
+"surface": "jaḍa+upamaḥ",
 "quick_gloss": "like-the-insentient"
 }
 ]
@@ -454,16 +462,16 @@
 "quick_gloss": "to-deny"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
 "surface": "śakyaḥ",
-"quick_gloss": "is-it-possible"
+"quick_gloss": "is-possible"
 },
 {
 "surface": "paratantra+mayaḥ+prathaḥ",
-"quick_gloss": "the-manifestation-consisting-of-dependence-on-another"
+"quick_gloss": "manifestation-consisting-of-dependence-on-another"
 }
 ]
 },
@@ -476,7 +484,7 @@
 "tokens": [
 {
 "surface": "bhāsate",
-"quick_gloss": "it-appears"
+"quick_gloss": "it-shines"
 },
 {
 "surface": "ca",
@@ -542,31 +550,35 @@
 "tokens": [
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
 },
 {
 "surface": "*",
-"quick_gloss": "lacuna"
+"quick_gloss": "*"
+},
+{
+"surface": "*",
+"quick_gloss": "*"
 },
 {
 "surface": "tatra",
@@ -595,7 +607,7 @@
 "tokens": [
 {
 "surface": "anavacchinna+rūpatvam",
-"quick_gloss": "the-state-of-being-unlimited-in-form"
+"quick_gloss": "unlimited-nature"
 },
 {
 "surface": "tadā",
@@ -623,12 +635,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cit+ullekhāt+anadhikam",
+"surface": "cit+ullekhāt",
 "quick_gloss": "not-more-than-the-trace-of-consciousness"
 },
 {
+"surface": "anadhikam",
+"quick_gloss": "not-more"
+},
+{
 "surface": "lokayātrā+prasādhakam",
-"quick_gloss": "accomplishing-worldly-activity"
+"quick_gloss": "accomplishing-worldly-course"
 }
 ]
 },
@@ -678,7 +694,7 @@
 "tokens": [
 {
 "surface": "sva+ullekha+kartṛtā+sārā",
-"quick_gloss": "having-as-its-essence-the-agency-of-its-own-trace"
+"quick_gloss": "having-as-essence-agency-of-its-own-trace"
 },
 {
 "surface": "pratyakṣa+anubhavāt",
@@ -711,7 +727,7 @@
 },
 {
 "surface": "bhāsayet",
-"quick_gloss": "it-would-appear"
+"quick_gloss": "it-would-shine"
 }
 ]
 },
@@ -724,7 +740,7 @@
 "tokens": [
 {
 "surface": "sāmarasyena",
-"quick_gloss": "with-harmonious-blending"
+"quick_gloss": "by-harmony"
 },
 {
 "surface": "sarvatra",

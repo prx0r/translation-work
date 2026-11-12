@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound-member",
+   "morph": "compound:brahma+granthi",
    "grounds": "first member of compound"
   },
   {
    "lemma": "granthi",
-   "morph": "compound-member",
+   "morph": "compound:brahma+granthi",
    "grounds": "second member of compound"
   },
   {
    "lemma": "sthitā",
    "morph": "f.nom.sg",
-   "grounds": "describes the starting point"
+   "grounds": "location of origin"
   },
   {
    "lemma": "ā",
@@ -25,12 +25,12 @@
   {
    "lemma": "etāṃ",
    "morph": "f.acc.sg",
-   "grounds": "demonstrative reference"
+   "grounds": "demonstrative referent"
   },
   {
    "lemma": "trīṇi",
    "morph": "n.nom.pl",
-   "grounds": "number of items"
+   "grounds": "number"
   },
   {
    "lemma": "eva",
