@@ -1,13 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 120,
- "question": "What assurance is given about explaining the means by which death is destroyed?",
+ "question": "What claim of certainty is made about the destruction of death by the speaker's act of telling?",
  "premises": [
-  "The speaker promises to tell.",
-  "There is said to be no doubt.",
-  "The topic is how death is destroyed."
+  "The speaker tells something.",
+  "No doubt is stated to remain.",
+  "The claim told is that death is destroyed.",
+  "The manner is indicated by as."
  ],
- "inference": "The speaker assures that they will explain without doubt how death is destroyed.",
- "uncertainties": [],
- "plain_english": "I will tell you without doubt how death is destroyed."
+ "inference": "The speaker tells with certainty that death is destroyed.",
+ "uncertainties": [
+  "The means by which death is destroyed is not given in this verse."
+ ],
+ "plain_english": "I tell you this with no doubt: death is destroyed."
 }

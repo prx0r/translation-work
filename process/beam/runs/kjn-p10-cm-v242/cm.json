@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "kruddhaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "condition of the agent"
+   "morph": "m.nom.sg.past-part/√krudh",
+   "grounds": "condition describing the agent"
   },
   {
    "lemma": "tu",
@@ -14,33 +14,33 @@
   },
   {
    "lemma": "saṃharet",
-   "morph": "3.sg.act-opt/√hṛ",
-   "grounds": "optative verb expressing power"
+   "morph": "3.sg.act-opt/sam-√hṛ",
+   "grounds": "optative expressing potential power"
   },
   {
    "lemma": "sarvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "qualifier of trailokyaṃ"
+   "grounds": "adjective qualifying trailokyaṃ"
   },
   {
    "lemma": "trailokyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object that can be destroyed"
+   "grounds": "object of saṃharet"
   },
   {
    "lemma": "sa",
    "morph": "compound=sa+co-member",
-   "grounds": "first member of compound meaning with moving beings"
+   "grounds": "first member of compound indicating inclusion"
   },
   {
    "lemma": "cara",
    "morph": "compound=cara+co-member",
-   "grounds": "middle member of dvandva compound"
+   "grounds": "second member of compound paired with acaram"
   },
   {
    "lemma": "acaram",
-   "morph": "n.acc.sg",
-   "grounds": "final member of dvandva compound qualifying trailokyaṃ"
+   "morph": "compound=acara+head",
+   "grounds": "third member of compound describing trailokyaṃ"
   }
  ]
 }

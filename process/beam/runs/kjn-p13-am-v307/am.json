@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "What are the first two forms enumerated among the described types?",
+ "question": "What first two forms characterize the vessels being described?",
  "premises": [
-  "A first type is identified",
-  "The first appears in the form of a boy",
-  "The second appears in the form of a madman"
+  "The first is in the form of a boy",
+  "The second has the form of a madman",
+  "Both are enumerated as types"
  ],
- "inference": "The first two enumerated forms are that of a boy and that of a madman",
- "uncertainties": [],
+ "inference": "The first two vessel types are characterized by boy-like and madman-like forms",
+ "uncertainties": [
+  "The grammatical role of unmattakākṛtim is slightly compressed in the list"
+ ],
  "plain_english": "The first is in the form of a boy, and the second has the form of a madman."
 }
