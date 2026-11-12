@@ -1,12 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 137,
- "question": "What quality of yogic application is prescribed at the support region?",
+ "question": "What kind of yogic application should be performed at the support region?",
  "premises": [
-  "Yoga should be applied in the region of the support",
-  "This yoga should be cool"
+  "The location is the support region",
+  "Yoga should be applied there",
+  "The yoga is cooling"
  ],
- "inference": "One should practice a cooling yoga at the location of the foundational support",
- "uncertainties": [],
- "plain_english": "One should apply a cooling yoga in the region of the foundational support."
+ "inference": "One should apply cooling yoga at the location of the support region.",
+ "uncertainties": [
+  "skandha interpreted as region; anatomical sense may vary"
+ ],
+ "plain_english": "One should apply the cooling yoga at the location of the support region."
 }

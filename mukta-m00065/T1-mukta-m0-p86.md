@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p86-v2126
-[sound](śabdaḥ) [etc](stauryādikaḥ) [there](tatra) [nose](nāsikā) [always](sadā)
+[sound](śabdaḥ) [firmness+etc](taurya+ādikaḥ) [there](tatra) [parrot+smell](śuka+āghrā) [nose](nāsikā) [always](sadā)
 
 ## mukta-m0-p86-v2127
-[fierce-substance](caṇḍadravya) [like](samaḥ) [speech](vāc) [etc](ca) [cow-path](gavyāgamaḥ) [genital](upasthaḥ) [pedestal-stalk](pīṭhanālakaḥ)
+[fierce+substance+equal](caṇḍa+dravya+samaḥ) [and](ca) [speech](vāk) [genitals](upasthaḥ) [seat+stalk](pīṭha+nālakaḥ)
 
 ## mukta-m0-p86-v2128
-[determination](niścayaḥ) [ego](ahaṅkāraḥ) [intellect](buddhiḥ) [therein-resolve](tadvyavasāyake)
+[determination](niścayaḥ) [should-be](syāt) [ego](ahaṅkāraḥ) [intellect](buddhiḥ) [in-that+resolution](tat+vyavasāyake)
 
 ## mukta-m0-p86-v2129
-[cause](kāraṇaṃ) [person](puruṣaḥ) [heart-seated](hṛtsthaḥ) [passion](rāgaḥ) [there-initial-power](tatrādiśaktigaḥ)
+[cause](kāraṇaṃ) [person](puruṣaḥ) [heart+situated](hṛt+sthaḥ) [attachment](rāgaḥ) [there+primordial+power+gone](tatra+ādi+śakti+gaḥ)
 
 ## mukta-m0-p86-v2130
-[impulsion](preraṇe) [art](kalā) [there](tatra) [time-number](kālasaṅkhyā) [age-state](vayasthitā)
+[in-impelling](preraṇe) [and](ca) [kalā](kalā) [there](tatra) [time+count](kāla+saṅkhyā) [age+situated](vayaḥ+sthitā)
 
 ## mukta-m0-p86-v2131
-[śiva-shrine](śivāyatana) [knowledge](vijñāna) [discrimination](vivekaḥ) [vidyā-lord](vidyayeśvaraḥ)
+[in-Śiva+abode+knowledge+discrimination](śiva+āyatana+vijñāna+viveke) [by-knowledge](vidyayā) [lord](īśvaraḥ)
 
 ## mukta-m0-p86-v2132
-[capacity](sāmarthye) [holding-power](dhāraṇāśaktiḥ) [outer-inner](bahiradhyātmike) [path](adhvani)
+[in-capacity](sāmarthye) [sustaining+power](dhāraṇā+śaktiḥ) [in-outer+inner+path](bahis+adhyātmike+adhvani)
 
 ## mukta-m0-p86-v2133
-[pedestal](piṇḍikā) [world-named](jagatīkhyātā) [temple](prāsādaḥ) [liṅga](liṅgam) [intended](iṣyate)
+[pedestal](piṇḍikā) [earth+called](jagatī+khyātā) [shrine](prāsādaḥ) [liṅga](liṅgam) [is-considered](iṣyate)
 
 ## mukta-m0-p86-v2134
-[three](trīn) [gods](devān) [in-order](kramāt) [placing](nyasya) [brahma-viṣṇu-maheśvara](brahmaviṣṇumaheśvarān)
+[three](trīn) [gods](devān) [and](ca) [in-order](kramāt) [placing](nyasya) [Brahmā+Viṣṇu+Maheśvara](brahma+viṣṇu+maheśvarān)
 
 ## mukta-m0-p86-v2135
-[firm-named](sthirākhyaṃ) [existence-named](bhavasaṃjñaṃ) [wooden](dāravaṃ) [offer-again](juhuyātpunaḥ)
+[stable+named](sthira+ākhyaṃ) [existence+named](bhava+saṃjñaṃ) [and](ca) [wooden](dāravaṃ) [should-offer](juhuyāt) [again](punaḥ)
 
 ## mukta-m0-p86-v2136
-[name-nineteen](nāmaikonaviṃśaḥ) [rule](vidhiḥ)
+[name](nāma) [nineteenth](ekonaviṃśaḥ) [rule](vidhiḥ)
 
 ## mukta-m0-p86-v2137
-[establish](sthāpayet) [by-rule](vidhinā) [properly](samyak) [flag-arrangement](dhvajalkṛptim) [I-say](ato+bruve)
+[one-should-establish](sthāpayet) [by-rule](vidhinā) [properly](samyak) [of-banner+arrangement+possessing](dhvaja+kḷpti+mataḥ) [I-speak](bruve)
 
 ## mukta-m0-p86-v2138
-[small](cūlyaṃ) [pot](kumbhaṃ) [flag](dhvajaṃ) [here](cātra) [marks](lakṣaṇāni) [thus](tathā)
+[crest](cūlyaṃ) [pot](kumbhaṃ) [banner](dhvajaṃ) [and](ca) [here](atra) [characteristics](lakṣaṇāni) [one-should-state](vadet) [likewise](tathā)
 
 ## mukta-m0-p86-v2139
-[mountain-born](śailotthaṃ) [in-mountain-place](śailaje+dhāmni) [gods](devebhyaḥ) [or](vā) [somewhere-opinion](kvacinmate)
+[stone+born](śaila+utthaṃ) [in-stone+born+shrine](śaila+je+dhāmni) [or](vā) [in-temple](deve) [indeed](eva) [somewhere](kvacit) [in-opinion](mate)
 
 ## mukta-m0-p86-v2140
-[three-parts-less](ttribhāgonāt) [īśa](īśasya) [unstruck](anāha) [extent](vistarau)
+[three+part+from](tri+bhāga+unāt) [of-Ādīśa](ādīśasya) [height+and+width](ānāha+vistarau)
 
 ## mukta-m0-p86-v2141
-[otherwise](manyathā) [like-liṅga](liṅgavat) [as](yathā)
+[otherwise](anyathā) [like-liṅga](liṅga+vat) [as](yathā)
 
 ## mukta-m0-p86-v2142
-[graha-crest](grahacūlaṃ) [or](vā) [mountain](śailaṃ) [or](vā) [wrapped](veṣṭitaṃ) [pot](kalaśena) [or](vā)
+[planet+crest](graha+cūlaṃ) [or](tu) [stone](śailaṃ) [or](vā) [enveloped](veṣṭitaṃ) [by-pot](kalaśena) [or](vā)
 
 ## mukta-m0-p86-v2143
-[four-eight](caturasrāṣṭakaṃ) [round](vṛttaṃ) [three-equal](trisamaṃ) [liṅga-length-like](liṅgadairghyavat)
+[four+sided+eight+sided](catur+asra+aṣṭakaṃ) [round](vṛttaṃ) [three+equal](tri+samaṃ) [liṅga+length+like](liṅga+dairghya+vat)
 
 ## mukta-m0-p86-v2144
-[like-liṅga](liṅgavat) [all](cākhilaṃ) [do](kuryāt) [outside](bāhye) [or](vā) [pot-wrapped](ghaṭaveṣṭitam)
+[like-liṅga](liṅga+vat) [and](ca) [entire](akhilaṃ) [one-should-make](kuryāt) [outside](bāhye) [or](vā) [pot+enveloped](ghaṭa+veṣṭitam)
 
 ## mukta-m0-p86-v2145
-[arrow-named](bāṇākhya) [seven-parts](saptāṃśāt) [two-parts](dvyaṃśataḥ) [egg](aṇḍakāt)
+[in-Bāṇa+named](bāṇa+ākhye) [from-seven+parts](sapta+aṃśāt) [from-two+parts](dvi+aṃśataḥ) [from-egg](aṇḍakāt)
 
 ## mukta-m0-p86-v2146
-[season-sun](ṛtvarka) [divided](bhājitaṃ) [making](kṛtvā) [pot](kalaśaṃ) [fashion](vartayed) [wise](budhaḥ)
+[seasons+sun](ṛtu+arka) [having-divided](bhājitaṃ) [having-made](kṛtvā) [pot](kalaśaṃ) [should-shape](vartayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p86-v2147
-[one-part](bhāgaikena) [and](ca) [pot](kumbhaḥ) [its](asya) [pot-band](kumbhapaṭṭī) [from-foot](tu+pādataḥ)
+[by-one+part](bhāga+ekena) [and](ca) [pot](kumbhaḥ) [of-this](asya) [pot+band](kumbha+paṭṭī) [but](tu) [from-quarter](pāda+taḥ)
 
 ## mukta-m0-p86-v2148
-[other-corner](anyakoṇa) [two-parts](dyugāṃśa) [placed](sthe) [south-down](yāmyādho) [round](vṛttam) [from-sky](ābhramāt)
+[other+corner+etc+two+parts+situated](anya+koṇa+ādi+yuga+aṃśa+sthe) [south+below](yāmya+adhaḥ) [round](vṛttam) [from-sky](ābhramāt)
 
 ## mukta-m0-p86-v2149
-[then](tataḥ) [upward-one-part](cordhvaikabhāgena) [neck](grīvā) [two-parts-width](dvibhāgavistarā)
+[then](tataḥ) [and](ca) [upward+one+part+by](ūrdhva+eka+bhāgena) [neck](grīvā) [two+part+wide](dvi+bhāga+vistarā)
 
 ## mukta-m0-p86-v2150
-[that-above](tadūrdhvaḥ) [half-part](ardhāṃśataḥ) [time](kālaḥ) [lotus](padmaṃ) [two-width-height](dvivistarocchrayam)
+[above-that](tat+ūrdhvaḥ) [from-half+part](ardha+aṃśataḥ) [top](kālaḥ) [lotus](padmaṃ) [two+width+height](dvi+vistara+ucchrayam)

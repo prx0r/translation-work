@@ -7,52 +7,51 @@
     {
      "surface": "chedyamāno",
      "gloss": "being-cut",
-     "grounds": "present passive participle describing one undergoing cutting",
-     "morph": "part.pass.pres.m.nom.sg.root-chid"
+     "grounds": "passive present participle form as given",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle",
+     "grounds": "negation particle as given",
      "morph": "(indecl.)"
     },
     {
      "surface": "chidyeta",
-     "gloss": "would-be-cut",
-     "grounds": "optative expressing potential or counterfactual cutting",
-     "morph": "3.sg.pass.opt.root-chid"
+     "gloss": "be-cut",
+     "grounds": "optative passive form as given",
+     "morph": "3.sg.pass-opt"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "compound indicating one who has reached that state",
-     "morph": "compound:tat+gata.m.nom.sg"
+     "grounds": "fused compound form as given; internal fusion noted, not split",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "tan+mano",
-     "gloss": "mind-fixed-on-that",
-     "grounds": "possessive compound indicating one whose mind is absorbed in that",
-     "morph": "compound:tat+manas.m.nom.sg"
+     "gloss": "mind-on-that",
+     "grounds": "fused compound form as given; internal fusion noted, not split",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "yathā",
-     "gloss": "just-as",
-     "grounds": "comparative particle introducing analogy",
+     "gloss": "as",
+     "grounds": "comparative particle as given",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Can a person absorbed in that higher state be harmed by physical cutting?",
+   "question": "What claim about a mind fixed on that object allows for freedom from being cut even in the act of cutting?",
    "premises": [
-    "A person may be undergoing the act of being cut.",
-    "Despite being cut, that person would not truly be cut.",
-    "Such a person has gone to that higher state.",
-    "Such a person has the mind fixed on that state."
+    "Cutting may be in progress against one who is being cut.",
+    "A mind fixed on that object remains oriented away from the blow.",
+    "Such orientation prevents the act of cutting from taking effect."
    ],
-   "inference": "Absorption in that state renders one unaffected by the harm of physical cutting.",
+   "inference": "One whose mind is fixed on that object is not cut, just as the comparison indicates.",
    "uncertainties": [
-    "The exact referent of 'that' (tad) depends on the preceding context."
+    "The precise referent of tad and tan remains context-dependent."
    ],
-   "plain_english": "Just as one who has reached that state and whose mind is fixed on it, though being cut, is not truly cut."
+   "plain_english": "Even as one is being cut, one is not cut if one's mind is fixed on that object, just so."
   }
  ]
 }
