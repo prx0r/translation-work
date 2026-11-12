@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "dhūmra",
-   "morph": "compound=dhūmra+varṇaṃ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound describing color"
   },
   {
    "lemma": "varṇaṃ",
-   "morph": "compound=dhūmra+varṇaṃ",
-   "grounds": "describes object in compound"
+   "morph": "m.acc.sg",
+   "grounds": "describes the object of contemplation"
   },
   {
    "lemma": "sadā",
    "morph": "(indecl.)",
-   "grounds": "time adverb"
+   "grounds": "modifies cintya"
   },
   {
    "lemma": "cintya",
    "morph": "gerund √cint",
-   "grounds": "gerund"
+   "grounds": "indicates the meditative act"
   },
   {
    "lemma": "trailokyaṃ",
@@ -29,8 +29,8 @@
   },
   {
    "lemma": "cālayet",
-   "morph": "3.sg.optative-causative √cal",
-   "grounds": "optative verb"
+   "morph": "3.sg.act-optative √cal",
+   "grounds": "states the resulting power"
   },
   {
    "lemma": "priye",

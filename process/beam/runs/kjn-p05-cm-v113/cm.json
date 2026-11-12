@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "ṣaṇmāsād",
-   "morph": "m.abl.sg",
-   "grounds": "ablative of time"
+   "morph": "compound:m.abl.sg",
+   "grounds": "ablative of time; compound ṣaṣ+māsa"
   },
   {
    "lemma": "abhyased",
-   "morph": "3.sg.opt.act",
-   "grounds": "optative of abhyas"
+   "morph": "3.sg.opt.act:abhyas",
+   "grounds": "optative verb"
   },
   {
    "lemma": "yas",
-   "morph": "pron.m.nom.sg",
+   "morph": "m.nom.sg",
    "grounds": "relative pronoun"
   },
   {
@@ -25,12 +25,12 @@
   {
    "lemma": "kāṣāyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of practice"
+   "grounds": "object of practice or renunciation context"
   },
   {
    "lemma": "bandha+varjitam",
-   "morph": "compound.n.acc.sg",
-   "grounds": "compound adjective"
+   "morph": "compound:n.acc.sg",
+   "grounds": "descriptive compound bandha+varjita"
   }
  ]
 }

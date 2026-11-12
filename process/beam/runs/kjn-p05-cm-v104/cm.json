@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "tvat+prasādena",
-   "morph": "compound.m.ins.sg",
-   "grounds": "compound instrumental"
+   "morph": "compound:m.inst.sg",
+   "grounds": "instrumental of cause; compound tvad+prasāda"
   },
   {
    "lemma": "kauleśa",
-   "morph": "m.voc.sg",
-   "grounds": "vocative address"
+   "morph": "compound:m.voc.sg",
+   "grounds": "vocative address; compound kaula+īśa"
   },
   {
    "lemma": "jñāto",
    "morph": "m.nom.sg",
-   "grounds": "past participle of jñā"
+   "grounds": "past passive participle"
   },
   {
    "lemma": "ahaṃ",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "kaula+nirṇayaḥ",
-   "morph": "compound.m.nom.sg",
-   "grounds": "compound subject"
+   "morph": "compound:m.nom.sg",
+   "grounds": "object understood as known; compound kaula+nirṇaya"
   }
  ]
 }

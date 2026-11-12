@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound=balī+palita",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming aging signs"
   },
   {
    "lemma": "palita",
-   "morph": "compound=balī+palita",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound naming destruction"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "accomplishment named"
+   "grounds": "first attainment listed"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "connecting particle"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "sudūrāt",
    "morph": "(indecl.)",
-   "grounds": "manner or distance adverb"
+   "grounds": "modifies darśanam"
   },
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "accomplishment named"
+   "grounds": "second attainment listed"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connecting adverb"
+   "grounds": "connects attainments"
   }
  ]
 }

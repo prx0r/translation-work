@@ -5,12 +5,12 @@
   {
    "lemma": "divasāt",
    "morph": "m.abl.sg",
-   "grounds": "time reference"
+   "grounds": "indicates time or duration"
   },
   {
    "lemma": "nāśanena",
    "morph": "n.ins.sg",
-   "grounds": "means"
+   "grounds": "indicates means or condition"
   },
   {
    "lemma": "eva",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "vayo",
-   "morph": "compound=vayo+mṛtyuṃ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming death"
   },
   {
    "lemma": "mṛtyuṃ",
-   "morph": "compound=vayo+mṛtyuṃ",
-   "grounds": "object in compound"
+   "morph": "m.acc.sg",
+   "grounds": "object of gamiṣyate"
   },
   {
    "lemma": "gamiṣyate",
-   "morph": "3.sg.future-middle √gam",
-   "grounds": "future verb"
+   "morph": "3.sg.mid-future √gam",
+   "grounds": "states the future outcome"
   }
  ]
 }

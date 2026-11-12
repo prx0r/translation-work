@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "pron.m.loc.sg",
-   "grounds": "interrogative pronoun"
+   "morph": "m.loc.sg",
+   "grounds": "interrogative locative"
   },
   {
    "lemma": "ca",
@@ -24,23 +24,23 @@
   },
   {
    "lemma": "yāti",
-   "morph": "3.sg.pres.act",
-   "grounds": "present verb of yā"
+   "morph": "3.sg.pres.act:yā",
+   "grounds": "present active verb"
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "compound.n.acc.sg",
-   "grounds": "compound object"
+   "morph": "compound:n.acc.sg",
+   "grounds": "requests full explanation; compound tad+sarva"
   },
   {
    "lemma": "kathayasva",
-   "morph": "2.sg.imp.mid",
-   "grounds": "imperative of kath"
+   "morph": "2.sg.imp.mid:kath",
+   "grounds": "imperative request"
   },
   {
    "lemma": "me",
    "morph": "pron.dat.sg",
-   "grounds": "dative pronoun"
+   "grounds": "indirect object pronoun"
   }
  ]
 }
