@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[skull-seat-from](muṇḍāsanāt) [funeral-pyre-seat-from+and](citāsanāt+ca) [which](yat) [fruit](phalaṃ) [obtains](labhate)
+[skull-seat](muṇḍāsanāt) [funeral-pyre-seat+and](citāsanāt+ca) [which](yat) [fruit](phalaṃ) [obtains](labhate) || [198](198)
 
 ## mukta-m0-p68-v1677
-[here+and-hereafter](iha+amutra) [happiness+attainment-for](sukha+avāptyai) [kula-path](kulamārgaḥ) [indeed](hi) [not+other](na+aparaḥ)
+[here+and-in-the-other-world](iha+amutra) [happiness+attainment+for](sukha+avāptyai) [kula-path](kulamārgaḥ) [indeed](hi) [not+other](na+aparaḥ)
 
 ## mukta-m0-p68-v1678
-[by-concealment](gopanāt) [kula-dharma-of](kuladharmasya) [kaula+even](kaulaḥ+api) [hell-dweller](nārakī) [would-become](bhavet)
+[by-concealment](gopanāt) [kula-dharma+of](kula+dharmasya) [kaula+even](kaulaḥ+api) [hell-dweller](nārakī) [would-become](bhavet)
 
 ## mukta-m0-p68-v1679
-[tattva-circle](tattvacakraṃ) [o-lady-of-kula](kuleśāni) [now](sāmprataṃ) [i-speak](vacmi) [that](tat) [listen](śṛṇu)
+[tattva-circle](tattva+cakraṃ) [o-lord-of-kula](kuleśāni) [now](sāmprataṃ) [I-say](vacmi) [that](tat) [hear](śṛṇu)
 
 ## mukta-m0-p68-v1680
-[not+here+qualification](na+atra+adhikāraḥ) [of-all](sarveṣāṃ) [brahman-knowledge](brahmajñān) [practitioners](sādhakān) [without](vinā)
+[not+here](na+atra) [eligibility](adhikāraḥ) [of-all](sarveṣāṃ) [brahman-knowledge](brahma+jñān) [practitioners](sādhakān) [without](vinā)
 
 ## mukta-m0-p68-v1681
-[pure+inner-organ](śuddha+antaḥkaraṇāḥ) [peaceful](śāntāḥ) [all+beings+welfare-in](sarva+prāṇi+hite) [devoted](ratāḥ)
+[pure-inner-organ](śuddha+antaḥkaraṇāḥ) [peaceful](śāntāḥ) [all-beings+welfare](sarva+prāṇi+hite) [delighted](ratāḥ)
 
 ## mukta-m0-p68-v1682
-[true+resolve-having](satya+saṅkalpakāḥ) [brahmanas](brāhmāḥ) [they](te) [alone](eva) [here+qualified](atra+adhikāriṇaḥ)
+[true-resolve](satya+saṅkalpakāḥ) [brahmins](brāhmāḥ) [they](te) [alone](eva) [here](atra) [qualified](adhikāriṇaḥ)
 
 ## mukta-m0-p68-v1683
-[of-them](teṣāṃ) [tattva-knowing](tattva+vidāṃ) [of-persons](puṃsāṃ) [tattva-circle-in](tattva+cakre) [qualification](adhikāritā)
+[of-them](teṣāṃ) [tattva-knowing](tattva+vidāṃ) [of-persons](puṃsāṃ) [in-tattva-circle](tattva+cakre) [eligibility](adhikāritā)
 
 ## mukta-m0-p68-v1684
-[of-whom](yeṣām) [arises](utpadyate) [o-goddess](devi) [they](te) [alone](eva) [tattva-circle-participants](tattva+cakriṇaḥ)
+[of-whom](yeṣām) [arises](utpadyate) [o-goddess](devi) [they](te) [alone](eva) [tattva-circle-performers](tattva+cakriṇaḥ)
 
 ## mukta-m0-p68-v1685
-[here](atra) [circle](cakra) [king-in](rāje) [tattva](tattva) [circle-in](cakre)
+[here](atra) [circle-king](cakra+rāje) [in-tattva-circle](tattva+cakre)
 
 ## mukta-m0-p68-v1686
-[peaceful](śāntāḥ) [attachment](rāga) [aversion](dveṣa) [etc-devoid](ādi+śūnyāḥ)
+[peaceful](śāntāḥ) [passion-hatred+etc+devoid](rāga+dveṣa+ādi+śūnyāḥ)
 
 ## mukta-m0-p68-v1687
-[feeling](bhāvaḥ) [contemplation](bhāvanā) [reflection](vicintanam) [thus+meaning](iti+arthaḥ)
+[feeling](bhāvaḥ) [contemplation](bhāvanā) [reflection](vicintana) [thus+meaning](iti+arthaḥ)
 
 ## mukta-m0-p68-v1688
-[everywhere](sarvatra) [brahman-state-with](brahma+bhāvena) [one-should-accomplish](sādhayet) [tattva-practice](tattva+sādhanam)
+[everywhere](sarvatra) [with-brahman-attitude](brahma+bhāvena) [one-should-accomplish](sādhayet) [tattva-practice](tattva+sādhanam)
 
 ## mukta-m0-p68-v1689
-[brahman-knowers-with](brahma+jñaiḥ) [practitioners-with](sādhakaiḥ) [together](sārddhaṃ) [tattva-circle](tattvacakraṃ) [one-should-begin](samārabhet)
+[with-brahman-knowers](brahma+jñaiḥ) [with-practitioners](sādhakaiḥ) [together](sārddhaṃ) [tattva-circle](tattva+cakraṃ) [one-should-begin](samārabhet)
 
 ## mukta-m0-p68-v1690
-[varied-seat](vicitra+āsanam) [having-brought](ānīya) [one-should-arrange](kalpayet) [pure-seat](vimala+āsanam)
+[variegated-seat](vicitra+āsanam) [having-brought](ānīya) [one-should-imagine](kalpayet) [pure-seat](vimala+āsanam)
 
 ## mukta-m0-p68-v1691
-[one-should-obtain+and](āsādayet+tu) [tattvas](tattvāni) [one-should-place](sthāpayed) [in-front](agrataḥ) [o-auspicious-one](śive)
+[one-should-obtain](āsādayet) [and](tu) [tattvas](tattvāni) [one-should-place](sthāpayet) [in-front](agrataḥ) [o-śiva](śive)
 
 ## mukta-m0-p68-v1692
-[all-tattvas-among](sarva+tattveṣu) [o-lord-of-circle](cakra+īśa) [this](imaṃ) [mantra](mantram) [one-should-utter](udīrayet)
+[in-all-tattvas](sarva+tattveṣu) [o-lord-of-circle](cakreśa) [this](imaṃ) [mantra](mantram) [one-should-utter](udīrayet)
 
 ## mukta-m0-p68-v1693
-[brahman+alone](brahma+eva) [by-that](tena) [to-be-attained](gantavyaṃ) [brahman-action-absorption-by](brahma+karma+samādhinā)
+[brahman+alone](brahma+eva) [by-him](tena) [to-be-attained](gantavyaṃ) [by-brahman-action-absorption](brahma+karma+samādhinā)
 
 ## mukta-m0-p68-v1694
-[tattva](tattva) [practice](sādhanam) [tattva](tattva) [circle](cakra) [practice](sādhanam)
+[tattva-practice](tattva+sādhanam) [tattva-circle-practice](tattva+cakra+sādhanam) || [209](209)
 
 ## mukta-m0-p68-v1695
-[now](atha) [tattva-circle-of](tattva+cakrasya) [procedure](vidhānam) [states](āha) [ramye](ramye) [thus-etc-with](iti+ādibhiḥ)
+[now](atha) [of-tattva-circle](tattva+cakrasya) [procedure](vidhānam) [states](āha) [with-ramye-etc](ramye+ityādibhiḥ)
 
 ## mukta-m0-p68-v1696
-[mantra](mantram) [one-should-utter](udīrayet) [mantra](mantram) [one-should-utter](udīrayet)
+[mantra](mantram) [one-should-utter](udīrayet)
 
 ## mukta-m0-p68-v1697
-[mantra+alone](mantram+eva) [states](āha) [brahman-offering](brahma+arpaṇam) [thus](iti)
+[mantra+indeed](mantram+eva) [states](āha) [with-brahmārpaṇam](brahmārpaṇam+iti)
 
 ## mukta-m0-p68-v1698
-[page-212](p. 212)) [seven-times](saptadhā) [or](vā) [three-times](tridhā) [having-chanted](japtvā) [those](tāni) [all](sarvāṇi) [one-should-purify](śodhayet)
+[p.-212](p.+212) [sevenfold](saptadhā) [or](vā) [threefold](tridhā) [having-recited](japtvā) [them](tāni) [all](sarvāṇi) [one-should-purify](śodhayet)
 
 ## mukta-m0-p68-v1699
-[brahman-knowers-with](brahma+jñaiḥ) [practitioners-with](sādhakaiḥ) [together](sārddhaṃ) [one-should-perform](vidadhyāt) [drink+food](pāna+bhojanam)
+[with-brahman-knowers](brahma+jñaiḥ) [with-practitioners](sādhakaiḥ) [together](sārddhaṃ) [one-should-perform](vidadhyāt) [drinking+eating](pāna+bhojanam)
 
 ## mukta-m0-p68-v1700
-[not](na) [place+time+rule](deśa+kāla+niyamaḥ) [not](na) [vessel+rule](pātra+niyamaḥ) [likewise](tathā)
+[not](na) [place-time-restriction](deśa+kāla+niyamaḥ) [not](na) [vessel-restriction](pātra+niyamaḥ) [likewise](tathā)

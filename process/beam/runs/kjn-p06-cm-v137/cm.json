@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "ādhāra",
-   "morph": "compound:ādhāra+skandha+saṃsthāne",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of location compound"
   },
   {
    "lemma": "skandha",
-   "morph": "compound:ādhāra+skandha+saṃsthāne",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of location compound"
   },
   {
    "lemma": "saṃsthāne",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "yuñjīta",
-   "morph": "3.sg.opt.mid √yuj",
-   "grounds": "injunction for practice"
+   "morph": "3.sg.mid-optative √yuj",
+   "grounds": "injunctive instruction"
   },
   {
    "lemma": "śītalam",

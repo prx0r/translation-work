@@ -8,18 +8,18 @@
 "tokens": [
 {
 "surface": "kulabhedaṃ",
-"quick_gloss": "family+distinction"
+"quick_gloss": "family-difference"
 },
 {
 "surface": "varṇabhedaṃ",
-"quick_gloss": "class+distinction"
+"quick_gloss": "caste-difference"
 },
 {
 "surface": "te",
 "quick_gloss": "they"
 },
 {
-"surface": "gacchanti",
+"surface": "gacchanty",
 "quick_gloss": "go-to"
 },
 {
@@ -41,15 +41,19 @@
 "tokens": [
 {
 "surface": "tattva+cakram",
-"quick_gloss": "truth+circle"
+"quick_gloss": "truth-circle"
 },
 {
 "surface": "anuṣṭheyaṃ",
-"quick_gloss": "to-be-practiced"
+"quick_gloss": "should-be-practiced"
 },
 {
-"surface": "dharma+kāma+artha+muktaye",
-"quick_gloss": "dharma+desire+wealth+liberation"
+"surface": "dharma+kāma+artha",
+"quick_gloss": "for-dharma-desire-wealth"
+},
+{
+"surface": "muktaye",
+"quick_gloss": "and-liberation"
 }
 ]
 },
@@ -62,7 +66,7 @@
 "tokens": [
 {
 "surface": "saṃnyāsa+vihitāt",
-"quick_gloss": "renunciation+prescribed"
+"quick_gloss": "from-renunciation-prescribed"
 },
 {
 "surface": "dharmān",
@@ -74,7 +78,7 @@
 },
 {
 "surface": "vaktum+arhasi",
-"quick_gloss": "to-speak+you-should"
+"quick_gloss": "you-ought-to-tell"
 }
 ]
 },
@@ -86,20 +90,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidhinā",
-"quick_gloss": "by-method"
-},
-{
 "surface": "yena",
 "quick_gloss": "by-which"
 },
 {
-"surface": "kartavyas",
-"quick_gloss": "to-be-done"
+"surface": "vidhinā",
+"quick_gloss": "rule"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
+"surface": "kartavyaḥ+tat",
+"quick_gloss": "it-should-be-done"
 },
 {
 "surface": "sarvaṃ",
@@ -128,7 +128,7 @@
 },
 {
 "surface": "madya+ādīni",
-"quick_gloss": "wine+etc"
+"quick_gloss": "wine-etc."
 },
 {
 "surface": "śodhayet",
@@ -145,23 +145,27 @@
 "tokens": [
 {
 "surface": "brāhmeṇa",
-"quick_gloss": "with-brahma"
+"quick_gloss": "by-brahma"
 },
 {
 "surface": "manunā",
-"quick_gloss": "with-formula"
+"quick_gloss": "by-manu"
 },
 {
 "surface": "o/",
-"quick_gloss": "o/"
+"quick_gloss": "oṃ"
 },
 {
-"surface": "saccidekaṃ+brahma+iti",
-"quick_gloss": "saccidekaṃ+brahma+iti"
+"surface": "saccidekaṃ",
+"quick_gloss": "saccidekaṃ brahmeti"
+},
+{
+"surface": "brahmeti",
+"quick_gloss": "by-mantra"
 },
 {
 "surface": "mantreṇa",
-"quick_gloss": "with-mantra"
+"quick_gloss": "mantreṇa"
 }
 ]
 },
@@ -173,8 +177,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gṛhasthānām+iti+ādi",
-"quick_gloss": "of-householders+thus+etc"
+"surface": "gṛhasthānām",
+"quick_gloss": "for-householders"
+},
+{
+"surface": "ityādi",
+"quick_gloss": "etc."
 }
 ]
 },
@@ -207,12 +215,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "adhyātma+vidyā+nipuṇaḥ",
-"quick_gloss": "spiritual+knowledge+skilled"
+"surface": "adhyātma+vidyā",
+"quick_gloss": "in-spiritual-knowledge"
+},
+{
+"surface": "nipuṇaḥ",
+"quick_gloss": "skilled"
 },
 {
 "surface": "saṃnyāsa+āśramam",
-"quick_gloss": "renunciation+stage"
+"quick_gloss": "renunciation-stage"
 },
 {
 "surface": "āśrayet",
@@ -237,7 +249,7 @@
 },
 {
 "surface": "bandhūn+ca",
-"quick_gloss": "relatives+and"
+"quick_gloss": "relatives"
 },
 {
 "surface": "pravrajan",
@@ -245,11 +257,11 @@
 },
 {
 "surface": "nārakī",
-"quick_gloss": "hell-dweller"
+"quick_gloss": "hell-bound"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-become"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -261,8 +273,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula+avadhūta+saṃskāre",
-"quick_gloss": "family+avadhūta+consecration"
+"surface": "kula+avadhūta",
+"quick_gloss": "in-family-avadhūta"
+},
+{
+"surface": "saṃskāre",
+"quick_gloss": "consecration"
 },
 {
 "surface": "pañcānām",
@@ -282,7 +298,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirmamo",
+"surface": "nirmamaḥ",
 "quick_gloss": "without-possessiveness"
 },
 {
@@ -294,12 +310,12 @@
 "quick_gloss": "should-go"
 },
 {
-"surface": "niṣkāmo",
+"surface": "niṣkāmaḥ",
 "quick_gloss": "without-desire"
 },
 {
 "surface": "vijita+indriyaḥ",
-"quick_gloss": "conquered+senses"
+"quick_gloss": "with-conquered-senses"
 }
 ]
 },
@@ -348,11 +364,11 @@
 "quick_gloss": "village"
 },
 {
-"surface": "pradakṣiṇīkṛtya",
+"surface": "pradakṣiṇī+kṛtya",
 "quick_gloss": "having-circumambulated"
 },
 {
-"surface": "nirapekṣo",
+"surface": "nirapekṣaḥ",
 "quick_gloss": "without-expectation"
 },
 {
@@ -373,12 +389,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula+avadhūtaṃ",
-"quick_gloss": "family+avadhūta"
+"surface": "kula+avadhūtam",
+"quick_gloss": "to-family-avadhūta"
 },
 {
-"surface": "brahma+jñaṃ",
-"quick_gloss": "brahman-knower"
+"surface": "brahma+jñam",
+"quick_gloss": "knower-of-brahman"
 },
 {
 "surface": "gatvā",
@@ -402,8 +418,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gṛha+ādi+viṣaya+mamatā+śūnyaḥ",
-"quick_gloss": "house+etc+object+attachment+devoid"
+"surface": "gṛha+ādi",
+"quick_gloss": "in-house-etc."
+},
+{
+"surface": "viṣaya+mamatā",
+"quick_gloss": "object-attachment"
+},
+{
+"surface": "śūnyaḥ",
+"quick_gloss": "devoid-of"
 },
 {
 "surface": "nilayāt",
@@ -461,7 +485,7 @@
 },
 {
 "surface": "gacchet",
-"quick_gloss": "should-depart"
+"quick_gloss": "goes"
 }
 ]
 },
@@ -473,12 +497,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parama+ānanda+nirvṛttaḥ",
-"quick_gloss": "supreme+bliss+fulfilled"
+"surface": "parama+ānanda",
+"quick_gloss": "in-supreme-bliss"
+},
+{
+"surface": "nirvṛttaḥ",
+"quick_gloss": "satisfied"
 },
 {
 "surface": "parama+ānande",
-"quick_gloss": "in-supreme+bliss"
+"quick_gloss": "in-supreme-bliss"
 },
 {
 "surface": "nimagnaḥ",
@@ -495,7 +523,7 @@
 "tokens": [
 {
 "surface": "prasādaṃ",
-"quick_gloss": "favor"
+"quick_gloss": "grace"
 },
 {
 "surface": "kuru",
@@ -511,7 +539,7 @@
 },
 {
 "surface": "saṃnyāsa+grahaṇaṃ",
-"quick_gloss": "renunciation+acceptance"
+"quick_gloss": "taking-of-renunciation"
 },
 {
 "surface": "prati",
@@ -540,7 +568,7 @@
 },
 {
 "surface": "dvitīya+āśramam",
-"quick_gloss": "second+stage"
+"quick_gloss": "second-stage"
 },
 {
 "surface": "ādiśet",
@@ -556,12 +584,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṛṇa+traya+vimukti+artham",
-"quick_gloss": "three+debts+liberation+for-the-sake-of"
+"surface": "ṛṇa+traya",
+"quick_gloss": "three-debts"
+},
+{
+"surface": "vimukti+artham",
+"quick_gloss": "for-liberation"
 },
 {
 "surface": "deva+ṛṣīn",
-"quick_gloss": "gods+sages"
+"quick_gloss": "gods-sages"
 },
 {
 "surface": "arcayet",
@@ -585,16 +617,12 @@
 "quick_gloss": "sages"
 },
 {
-"surface": "sanaka+ādyāḥ",
-"quick_gloss": "Sanaka+etc"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "sanaka+ādyāḥ+ca",
+"quick_gloss": "sanaka-etc."
 },
 {
 "surface": "deva+brahma+ṛṣayaḥ",
-"quick_gloss": "god+brahman-sages"
+"quick_gloss": "god-brahman-sages"
 },
 {
 "surface": "tathā",
@@ -634,8 +662,12 @@
 "quick_gloss": "hear"
 },
 {
-"surface": "tān+api",
-"quick_gloss": "them+also"
+"surface": "tān",
+"quick_gloss": "them"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -648,19 +680,19 @@
 "tokens": [
 {
 "surface": "mātāmaha+ādayaḥ",
-"quick_gloss": "maternal-grandfather+etc"
+"quick_gloss": "maternal-grandfather-etc."
 },
 {
 "surface": "api",
 "quick_gloss": "also"
 },
 {
-"surface": "evaṃ",
-"quick_gloss": "indeed"
+"surface": "evam",
+"quick_gloss": "thus"
 },
 {
 "surface": "mātāmahī+ādayaḥ",
-"quick_gloss": "maternal-grandmother+etc"
+"quick_gloss": "maternal-grandmother-etc."
 },
 {
 "surface": "api",

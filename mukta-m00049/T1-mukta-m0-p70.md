@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[what](yat) [one-should-pray](prārthayet) [that](tadā) [he-said](āha) [in-householder-stage](gṛha+āśrame) [thus](iti) [beginning-with](ādinā)
+[what](yat) [one-should-pray](prārthayet) [that](tat) [he-says](āha) [in-householder-stage](gṛha+āśrame) [by-thus-etc](iti+ādinā)
 
 ## mukta-m0-p70-v1727
-[peaceful](śāntam) [with-withdrawn](uparata) [mind](cittam)
+[peaceful](śāntam) [withdrawn](upa+rata) [+mind](cittam) [one](tam)
 
 ## mukta-m0-p70-v1728
-[gods](devān) [sages](ṛṣīn) [and-ancestors](pitṝn+ca) [one-should-worship](arcayet) [one-should-honor](pūjayet)
+[gods](devān) [sages](ṛṣīn) [ancestors](pitṝn) [+and](ca) [one-should-worship](arcayet) [honor](pūjayet)
 
 ## mukta-m0-p70-v1729
-[divine-sages](deva+ṛṣayaḥ) [beginning-with-nārada](nārada+ādayaḥ) [and-brahman-sages](brahma+ṛṣayaḥ) [beginning-with-bhṛgu](bhṛgu+ādayaḥ) [and](ca) [to-be-worshipped](pūjyāḥ)
+[divine+sages](deva+ṛṣayaḥ) [nārada-etc](nārada+ādayaḥ) [brahman+sages](brahma+ṛṣayaḥ) [bhṛgu-etc](bhṛgu+ādayaḥ) [+and](ca) [to-be-worshipped](pūjyāḥ)
 
 ## mukta-m0-p70-v1730
-[in-this](atra) [renunciation](saṃnyāsa) [rite](karmaṇi)
+[here](atra) [in-renunciation+rite](saṃnyāsa+karmaṇi) [thus](iti) [indeed](eva)
 
 ## mukta-m0-p70-v1731
-[of-maternal-great-grandmother](pramātāmahī) [and-elder-maternal-great-grandmother](vṛddha+pramātāmahyoḥ) [and](ca) [inclusion](grahaṇam)
+[maternal-great-grandmother](pramātāmahī) [+and-elder-maternal-great-grandmother](vṛddha+pramātāmahyoḥ) [+and](ca) [inclusion](grahaṇam) [is](asti)
 
 ## mukta-m0-p70-v1732
-[maternal-grandfathers](mātāmahān) [in-the-western-tradition](pratīcyām) [and](ca) [one-should-worship](pūjayet) [in-renunciation](nyāsa) [rite](karmaṇi)
+[maternal-grandfathers](mātāmahān) [in-western-tradition](pratīcyām) [+and](ca) [one-should-worship](pūjayet) [in-renunciation+rite](nyāsa+karmaṇi)
 
 ## mukta-m0-p70-v1733
-[gods-and-others](deva+ādīn) [in-order](kramataḥ) [there](tatra) [having-invoked](āvāhya) [worship](pūjām) [one-should-perform](samācaret)
+[gods-etc](deva+ādīn) [in-order](krama+tas) [there](tatra) [having-invoked](āvāhya) [worship](pūjām) [one-should-perform](samācaret)
 
 ## mukta-m0-p70-v1734
-[with-folded-hands](kṛta+añjali+puṭaḥ) [having-become](bhūtvā) [one-should-pray](prārthayet) [to-ancestral](pitṛ) [deities](devatāḥ)
+[with-joined-palms+hollow](kṛta+añjali+puṭaḥ) [having-become](bhūtvā) [one-should-pray](prārthayet) [to-ancestor+deities](pitṛ+devatāḥ)
 
 ## mukta-m0-p70-v1735
-[in-the-state](pade) [beyond-qualities](guṇa+atīta) [you](yūyam) [make-free-from-debt](anṛṇī+kuruta) [quickly](acirāt)
+[in-quality+transcendent-state](guṇa+atīta+pade) [you](yūyam) [free-from-debt](anṛṇī) [make](kuruta) [quickly](acirāt)
 
 ## mukta-m0-p70-v1736
-[freed-from](vinirmuktaḥ) [the-three-debts](ṛṇa+traya) [a-śrāddha-for-oneself](ātma+śrāddham) [one-should-arrange](prakalpayet)
+[from-three+debts+freed](ṛṇa+traya+vinirmuktaḥ) [self+śrāddha](ātma+śrāddham) [one-should-perform](prakalpayet) [thus](iti)
 
 ## mukta-m0-p70-v1737
-[maternal-grandfathers](mātāmahān) [beginning-with-maternal-grandfather](mātāmaha+prabhṛtīn) [one-should-worship](yajet) [one-should-honor](pūjayet)
+[maternal-grandfathers](mātāmahān) [maternal-grandfather+etc](mātāmaha+prabhṛtīn) [one-should-worship](yajet) [honor](pūjayet)
 
 ## mukta-m0-p70-v1738
-[one-should-do](kuryāt)
+[one-should-do](kuryāt) [thus](iti) [indeed](eva) [also](ca)
 
 ## mukta-m0-p70-v1739
-[you](yūyam) [free-from-debt](anṛṇī) [make](kūruta) [238](|| 238)
+[you](yūyam) [free-from-debt](anṛṇī) [make](kūruta) [thus](iti) [238](|| 238)
 
 ## mukta-m0-p70-v1740
-[for-offering](arpaṇa+arthāya) [the-self](ātmānam) [into-the-self](ātmani) [one-should-perform](kuryāt) [a-rite-for-oneself](ātma+kriyām) [the-wise-one](sudhīḥ)
+[in-self](ātmani) [for-self+offering](ātma+arpaṇa+arthāya) [one-should-perform](kuryāt) [self+rite](ātma+kriyām) [wise-one](su+dhīḥ)
 
 ## mukta-m0-p70-v1741
-[having-invoked](āvāhya) [the-ancestors-of-oneself](ātma+pitṝn) [O-goddess](devi) [one-should-offer](dadyāt) [a-rice-ball](piṇḍam) [while-worshipping](samarcayan)
+[having-invoked](āvāhya) [self+ancestors](ātma+pitṝn) [O-goddess](devi) [one-should-give](dadyāt) [rice-ball](piṇḍam) [worshipping](samarcayan)
 
 ## mukta-m0-p70-v1742
-[for-the-rice-ball](piṇḍa+artham) [one-should-spread](āstaret) [kuśa-grass](darbhān) [with-tips-pointing-north](udak+agrān) [in-one's-own-rite](sva+karmaṇi)
+[for-rice-ball+purpose](piṇḍa+artham) [one-should-spread](āstaret) [kuśa-grass](darbhān) [north-pointed](udak+agrān) [in-own+rite](sva+karmaṇi)
 
 ## mukta-m0-p70-v1743
-[desiring-to-renounce](yuyukṣuḥ) [for-purification](śuddhi+artham) [of-the-mind](citta) [this](imam) [mantra](mantram) [a-hundred-times](śatam) [one-should-repeat](japet)
+[desiring-to-renounce](yuyukṣuḥ) [for-mind+purification](citta+śuddhi+artham) [this](imam) [mantra](mantram) [hundred-times](śatam) [one-should-repeat](japet)
 
 ## mukta-m0-p70-v1744
-[ūrvarukamiva bandhanān mṛtyormukṣīya mā'mṛtāt](ūrvarukamiva bandhanān mṛtyormukṣīya mā'mṛtāt)
+[like-a-cucumber](ūrvārukam) [iva](iva) [from-bondage](bandhanān) [from-death](mṛtyoḥ) [may-I-be-freed](mukṣīya) [not-from-immortality](mā+amṛtāt)
 
 ## mukta-m0-p70-v1745
-[having-placed](saṃsthāpya) [a-water-pot](kalaśam) [there](tatra) [the-guru](guruḥ) [the-worship](pūjām) [should-begin](samārabhet)
+[having-placed](saṃsthāpya) [water-pot](kalaśam) [there](tatra) [guru](guruḥ) [worship](pūjām) [should-begin](samārabhet)
 
 ## mukta-m0-p70-v1746
-[the-rite-for-oneself](ātma+kriyām) [one-should-perform](kuryāt)
+[self+rite](ātma+kriyām) [one-should-perform](kuryāt) [thus](iti) [indeed](eva)
 
 ## mukta-m0-p70-v1747
-[such](tathā+bhūtān) [kuśa-grass](darbhān) [one-should-spread](āstaret) [242](|| 242)
+[such](tathā+bhūtān) [kuśa-grass](darbhān) [one-should-spread](āstaret) [thus](iti) [242](|| 242)
 
 ## mukta-m0-p70-v1748
-[that-very](tam+eva) [mantra](mantram) [he-states](āha) [hrīṃ](hrī/) [beginning-with-tryambakam](tryambakam+ityādikam)
+[that](tam) [indeed](eva) [mantra](mantram) [he-says](āha) [hrī](hrī) [tryambakam-etc](tryambakam+ityādikam)
 
 ## mukta-m0-p70-v1749
-[of-the-disciple](śiṣyasya) [of-the-chosen-deity](iṣṭa+devatāyāḥ) [worship](pūjām) [the-guru](guruḥ) [should-begin](samārabhet)
+[of-disciple](śiṣyasya) [of-chosen+deity](iṣṭa+devatāyāḥ) [worship](pūjām) [guru](guruḥ) [should-begin](samārabhet) [thus](iti)
 
 ## mukta-m0-p70-v1750
-[having-performed](vidhāya) [worship](pūjām) [the-knower-of-brahman](brahma+jñaḥ) [the-establishment-of-fire](vahni+sthāpanam) [should-perform](ācaret)
+[having-performed](vidhāya) [worship](pūjām) [knower-of-brahman](brahma+jñaḥ) [fire+establishment](vahni+sthāpanam) [should-perform](ācaret)

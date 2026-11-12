@@ -15,24 +15,20 @@
 "quick_gloss": "one-should-pray"
 },
 {
-"surface": "tadā",
+"surface": "tat",
 "quick_gloss": "that"
 },
 {
 "surface": "āha",
-"quick_gloss": "he-said"
+"quick_gloss": "he-says"
 },
 {
 "surface": "gṛha+āśrame",
 "quick_gloss": "in-householder-stage"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "ādinā",
-"quick_gloss": "beginning-with"
+"surface": "iti+ādinā",
+"quick_gloss": "by-thus-etc"
 }
 ]
 },
@@ -48,12 +44,16 @@
 "quick_gloss": "peaceful"
 },
 {
-"surface": "uparata",
-"quick_gloss": "with-withdrawn"
+"surface": "upa+rata",
+"quick_gloss": "withdrawn"
 },
 {
 "surface": "cittam",
-"quick_gloss": "mind"
+"quick_gloss": "+mind"
+},
+{
+"surface": "tam",
+"quick_gloss": "one"
 }
 ]
 },
@@ -73,8 +73,12 @@
 "quick_gloss": "sages"
 },
 {
-"surface": "pitṝn+ca",
-"quick_gloss": "and-ancestors"
+"surface": "pitṝn",
+"quick_gloss": "ancestors"
+},
+{
+"surface": "ca",
+"quick_gloss": "+and"
 },
 {
 "surface": "arcayet",
@@ -82,7 +86,7 @@
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "one-should-honor"
+"quick_gloss": "honor"
 }
 ]
 },
@@ -95,23 +99,23 @@
 "tokens": [
 {
 "surface": "deva+ṛṣayaḥ",
-"quick_gloss": "divine-sages"
+"quick_gloss": "divine+sages"
 },
 {
 "surface": "nārada+ādayaḥ",
-"quick_gloss": "beginning-with-nārada"
+"quick_gloss": "nārada-etc"
 },
 {
 "surface": "brahma+ṛṣayaḥ",
-"quick_gloss": "and-brahman-sages"
+"quick_gloss": "brahman+sages"
 },
 {
 "surface": "bhṛgu+ādayaḥ",
-"quick_gloss": "beginning-with-bhṛgu"
+"quick_gloss": "bhṛgu-etc"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
 "surface": "pūjyāḥ",
@@ -128,15 +132,19 @@
 "tokens": [
 {
 "surface": "atra",
-"quick_gloss": "in-this"
+"quick_gloss": "here"
 },
 {
-"surface": "saṃnyāsa",
-"quick_gloss": "renunciation"
+"surface": "saṃnyāsa+karmaṇi",
+"quick_gloss": "in-renunciation+rite"
 },
 {
-"surface": "karmaṇi",
-"quick_gloss": "rite"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -149,19 +157,23 @@
 "tokens": [
 {
 "surface": "pramātāmahī",
-"quick_gloss": "of-maternal-great-grandmother"
+"quick_gloss": "maternal-great-grandmother"
 },
 {
 "surface": "vṛddha+pramātāmahyoḥ",
-"quick_gloss": "and-elder-maternal-great-grandmother"
+"quick_gloss": "+and-elder-maternal-great-grandmother"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
 "surface": "grahaṇam",
 "quick_gloss": "inclusion"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 }
 ]
 },
@@ -178,23 +190,19 @@
 },
 {
 "surface": "pratīcyām",
-"quick_gloss": "in-the-western-tradition"
+"quick_gloss": "in-western-tradition"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
 "surface": "pūjayet",
 "quick_gloss": "one-should-worship"
 },
 {
-"surface": "nyāsa",
-"quick_gloss": "in-renunciation"
-},
-{
-"surface": "karmaṇi",
-"quick_gloss": "rite"
+"surface": "nyāsa+karmaṇi",
+"quick_gloss": "in-renunciation+rite"
 }
 ]
 },
@@ -207,10 +215,10 @@
 "tokens": [
 {
 "surface": "deva+ādīn",
-"quick_gloss": "gods-and-others"
+"quick_gloss": "gods-etc"
 },
 {
-"surface": "kramataḥ",
+"surface": "krama+tas",
 "quick_gloss": "in-order"
 },
 {
@@ -240,7 +248,7 @@
 "tokens": [
 {
 "surface": "kṛta+añjali+puṭaḥ",
-"quick_gloss": "with-folded-hands"
+"quick_gloss": "with-joined-palms+hollow"
 },
 {
 "surface": "bhūtvā",
@@ -251,12 +259,8 @@
 "quick_gloss": "one-should-pray"
 },
 {
-"surface": "pitṛ",
-"quick_gloss": "to-ancestral"
-},
-{
-"surface": "devatāḥ",
-"quick_gloss": "deities"
+"surface": "pitṛ+devatāḥ",
+"quick_gloss": "to-ancestor+deities"
 }
 ]
 },
@@ -268,20 +272,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pade",
-"quick_gloss": "in-the-state"
-},
-{
-"surface": "guṇa+atīta",
-"quick_gloss": "beyond-qualities"
+"surface": "guṇa+atīta+pade",
+"quick_gloss": "in-quality+transcendent-state"
 },
 {
 "surface": "yūyam",
 "quick_gloss": "you"
 },
 {
-"surface": "anṛṇī+kuruta",
-"quick_gloss": "make-free-from-debt"
+"surface": "anṛṇī",
+"quick_gloss": "free-from-debt"
+},
+{
+"surface": "kuruta",
+"quick_gloss": "make"
 },
 {
 "surface": "acirāt",
@@ -297,20 +301,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vinirmuktaḥ",
-"quick_gloss": "freed-from"
-},
-{
-"surface": "ṛṇa+traya",
-"quick_gloss": "the-three-debts"
+"surface": "ṛṇa+traya+vinirmuktaḥ",
+"quick_gloss": "from-three+debts+freed"
 },
 {
 "surface": "ātma+śrāddham",
-"quick_gloss": "a-śrāddha-for-oneself"
+"quick_gloss": "self+śrāddha"
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "one-should-arrange"
+"quick_gloss": "one-should-perform"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -327,7 +331,7 @@
 },
 {
 "surface": "mātāmaha+prabhṛtīn",
-"quick_gloss": "beginning-with-maternal-grandfather"
+"quick_gloss": "maternal-grandfather+etc"
 },
 {
 "surface": "yajet",
@@ -335,7 +339,7 @@
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "one-should-honor"
+"quick_gloss": "honor"
 }
 ]
 },
@@ -349,6 +353,18 @@
 {
 "surface": "kuryāt",
 "quick_gloss": "one-should-do"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "ca",
+"quick_gloss": "also"
 }
 ]
 },
@@ -372,6 +388,10 @@
 "quick_gloss": "make"
 },
 {
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
 "surface": "|| 238",
 "quick_gloss": "238"
 }
@@ -385,16 +405,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arpaṇa+arthāya",
-"quick_gloss": "for-offering"
-},
-{
-"surface": "ātmānam",
-"quick_gloss": "the-self"
-},
-{
 "surface": "ātmani",
-"quick_gloss": "into-the-self"
+"quick_gloss": "in-self"
+},
+{
+"surface": "ātma+arpaṇa+arthāya",
+"quick_gloss": "for-self+offering"
 },
 {
 "surface": "kuryāt",
@@ -402,11 +418,11 @@
 },
 {
 "surface": "ātma+kriyām",
-"quick_gloss": "a-rite-for-oneself"
+"quick_gloss": "self+rite"
 },
 {
-"surface": "sudhīḥ",
-"quick_gloss": "the-wise-one"
+"surface": "su+dhīḥ",
+"quick_gloss": "wise-one"
 }
 ]
 },
@@ -423,7 +439,7 @@
 },
 {
 "surface": "ātma+pitṝn",
-"quick_gloss": "the-ancestors-of-oneself"
+"quick_gloss": "self+ancestors"
 },
 {
 "surface": "devi",
@@ -431,15 +447,15 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "one-should-give"
 },
 {
 "surface": "piṇḍam",
-"quick_gloss": "a-rice-ball"
+"quick_gloss": "rice-ball"
 },
 {
 "surface": "samarcayan",
-"quick_gloss": "while-worshipping"
+"quick_gloss": "worshipping"
 }
 ]
 },
@@ -452,7 +468,7 @@
 "tokens": [
 {
 "surface": "piṇḍa+artham",
-"quick_gloss": "for-the-rice-ball"
+"quick_gloss": "for-rice-ball+purpose"
 },
 {
 "surface": "āstaret",
@@ -464,11 +480,11 @@
 },
 {
 "surface": "udak+agrān",
-"quick_gloss": "with-tips-pointing-north"
+"quick_gloss": "north-pointed"
 },
 {
 "surface": "sva+karmaṇi",
-"quick_gloss": "in-one's-own-rite"
+"quick_gloss": "in-own+rite"
 }
 ]
 },
@@ -484,12 +500,8 @@
 "quick_gloss": "desiring-to-renounce"
 },
 {
-"surface": "śuddhi+artham",
-"quick_gloss": "for-purification"
-},
-{
-"surface": "citta",
-"quick_gloss": "of-the-mind"
+"surface": "citta+śuddhi+artham",
+"quick_gloss": "for-mind+purification"
 },
 {
 "surface": "imam",
@@ -501,7 +513,7 @@
 },
 {
 "surface": "śatam",
-"quick_gloss": "a-hundred-times"
+"quick_gloss": "hundred-times"
 },
 {
 "surface": "japet",
@@ -517,8 +529,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ūrvarukamiva bandhanān mṛtyormukṣīya mā'mṛtāt",
-"quick_gloss": "ūrvarukamiva bandhanān mṛtyormukṣīya mā'mṛtāt"
+"surface": "ūrvārukam",
+"quick_gloss": "like-a-cucumber"
+},
+{
+"surface": "iva",
+"quick_gloss": "iva"
+},
+{
+"surface": "bandhanān",
+"quick_gloss": "from-bondage"
+},
+{
+"surface": "mṛtyoḥ",
+"quick_gloss": "from-death"
+},
+{
+"surface": "mukṣīya",
+"quick_gloss": "may-I-be-freed"
+},
+{
+"surface": "mā+amṛtāt",
+"quick_gloss": "not-from-immortality"
 }
 ]
 },
@@ -535,7 +567,7 @@
 },
 {
 "surface": "kalaśam",
-"quick_gloss": "a-water-pot"
+"quick_gloss": "water-pot"
 },
 {
 "surface": "tatra",
@@ -543,11 +575,11 @@
 },
 {
 "surface": "guruḥ",
-"quick_gloss": "the-guru"
+"quick_gloss": "guru"
 },
 {
 "surface": "pūjām",
-"quick_gloss": "the-worship"
+"quick_gloss": "worship"
 },
 {
 "surface": "samārabhet",
@@ -564,11 +596,19 @@
 "tokens": [
 {
 "surface": "ātma+kriyām",
-"quick_gloss": "the-rite-for-oneself"
+"quick_gloss": "self+rite"
 },
 {
 "surface": "kuryāt",
 "quick_gloss": "one-should-perform"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -592,6 +632,10 @@
 "quick_gloss": "one-should-spread"
 },
 {
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
 "surface": "|| 242",
 "quick_gloss": "242"
 }
@@ -605,8 +649,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tam+eva",
-"quick_gloss": "that-very"
+"surface": "tam",
+"quick_gloss": "that"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "mantram",
@@ -614,15 +662,15 @@
 },
 {
 "surface": "āha",
-"quick_gloss": "he-states"
+"quick_gloss": "he-says"
 },
 {
-"surface": "hrī/",
-"quick_gloss": "hrīṃ"
+"surface": "hrī",
+"quick_gloss": "hrī"
 },
 {
 "surface": "tryambakam+ityādikam",
-"quick_gloss": "beginning-with-tryambakam"
+"quick_gloss": "tryambakam-etc"
 }
 ]
 },
@@ -635,11 +683,11 @@
 "tokens": [
 {
 "surface": "śiṣyasya",
-"quick_gloss": "of-the-disciple"
+"quick_gloss": "of-disciple"
 },
 {
 "surface": "iṣṭa+devatāyāḥ",
-"quick_gloss": "of-the-chosen-deity"
+"quick_gloss": "of-chosen+deity"
 },
 {
 "surface": "pūjām",
@@ -647,11 +695,15 @@
 },
 {
 "surface": "guruḥ",
-"quick_gloss": "the-guru"
+"quick_gloss": "guru"
 },
 {
 "surface": "samārabhet",
 "quick_gloss": "should-begin"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 }
 ]
 },
@@ -672,11 +724,11 @@
 },
 {
 "surface": "brahma+jñaḥ",
-"quick_gloss": "the-knower-of-brahman"
+"quick_gloss": "knower-of-brahman"
 },
 {
 "surface": "vahni+sthāpanam",
-"quick_gloss": "the-establishment-of-fire"
+"quick_gloss": "fire+establishment"
 },
 {
 "surface": "ācaret",

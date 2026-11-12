@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "anena",
-   "morph": "n.inst.sg",
-   "grounds": "demonstrative pronoun instrumental"
+   "morph": "pron.n.inst.sg",
+   "grounds": "instrumental demonstrative pronoun"
   },
   {
    "lemma": "jñāna+mātreṇa",
-   "morph": "compound+n.inst.sg",
-   "grounds": "compound: jñāna (knowledge) + mātra (mere)"
+   "morph": "compound:jñāna+mātra; n.inst.sg",
+   "grounds": "instrumental compound emphasizing knowledge alone"
   },
   {
    "lemma": "śrutena",
-   "morph": "n.inst.sg",
+   "morph": "past-participle.n.inst.sg",
    "grounds": "past participle of śru, heard"
   },
   {
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "varānane",
-   "morph": "compound+f.voc.sg",
-   "grounds": "vocative compound: vara (excellent) + ānana (face)"
+   "morph": "compound:vara+ānana; f.voc.sg",
+   "grounds": "vocative compound addressing the goddess"
   }
  ]
 }

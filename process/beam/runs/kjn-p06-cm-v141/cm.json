@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṇ+māsāt",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "number of months"
   },
   {
    "lemma": "māsāt",
@@ -14,8 +14,8 @@
   },
   {
    "lemma": "jñāyate",
-   "morph": "3.sg.pres.pass √jñā",
-   "grounds": "manifestation of result"
+   "morph": "3.sg.pass-present √jñā",
+   "grounds": "result becomes evident"
   },
   {
    "lemma": "siddhiḥ",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "yoginī",
-   "morph": "compound:yoginī+pada+tatsamaḥ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of state comparison"
   },
   {
    "lemma": "pada",
-   "morph": "compound:yoginī+pada+tatsamaḥ",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "level attained"
   },
   {
    "lemma": "tatsamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "comparison of attainment"
+   "grounds": "equivalence to yogini state"
   }
  ]
 }

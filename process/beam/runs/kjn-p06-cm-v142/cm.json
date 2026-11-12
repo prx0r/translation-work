@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound:brahma+granthi",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of knot name"
   },
   {
    "lemma": "granthi",
-   "morph": "compound:brahma+granthi+sthitā",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of knot name"
   },
   {
    "lemma": "sthitā",
    "morph": "f.nom.sg",
-   "grounds": "location of the three"
+   "grounds": "located at the knot"
   },
   {
    "lemma": "ā",
@@ -25,12 +25,12 @@
   {
    "lemma": "etāṃ",
    "morph": "f.acc.sg",
-   "grounds": "demonstrative, possibly irregular form"
+   "grounds": "demonstrative object"
   },
   {
    "lemma": "trīṇi",
    "morph": "n.nom.pl",
-   "grounds": "number of items"
+   "grounds": "number indicated"
   },
   {
    "lemma": "eva",

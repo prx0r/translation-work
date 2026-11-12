@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "muṇḍāsanāt",
-"quick_gloss": "skull-seat-from"
+"quick_gloss": "skull-seat"
 },
 {
 "surface": "citāsanāt+ca",
-"quick_gloss": "funeral-pyre-seat-from+and"
+"quick_gloss": "funeral-pyre-seat+and"
 },
 {
 "surface": "yat",
@@ -25,6 +25,10 @@
 {
 "surface": "labhate",
 "quick_gloss": "obtains"
+},
+{
+"surface": "198",
+"quick_gloss": "198"
 }
 ]
 },
@@ -37,11 +41,11 @@
 "tokens": [
 {
 "surface": "iha+amutra",
-"quick_gloss": "here+and-hereafter"
+"quick_gloss": "here+and-in-the-other-world"
 },
 {
 "surface": "sukha+avāptyai",
-"quick_gloss": "happiness+attainment-for"
+"quick_gloss": "happiness+attainment+for"
 },
 {
 "surface": "kulamārgaḥ",
@@ -69,8 +73,8 @@
 "quick_gloss": "by-concealment"
 },
 {
-"surface": "kuladharmasya",
-"quick_gloss": "kula-dharma-of"
+"surface": "kula+dharmasya",
+"quick_gloss": "kula-dharma+of"
 },
 {
 "surface": "kaulaḥ+api",
@@ -94,12 +98,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tattvacakraṃ",
+"surface": "tattva+cakraṃ",
 "quick_gloss": "tattva-circle"
 },
 {
 "surface": "kuleśāni",
-"quick_gloss": "o-lady-of-kula"
+"quick_gloss": "o-lord-of-kula"
 },
 {
 "surface": "sāmprataṃ",
@@ -107,7 +111,7 @@
 },
 {
 "surface": "vacmi",
-"quick_gloss": "i-speak"
+"quick_gloss": "I-say"
 },
 {
 "surface": "tat",
@@ -115,7 +119,7 @@
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "listen"
+"quick_gloss": "hear"
 }
 ]
 },
@@ -127,15 +131,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na+atra+adhikāraḥ",
-"quick_gloss": "not+here+qualification"
+"surface": "na+atra",
+"quick_gloss": "not+here"
+},
+{
+"surface": "adhikāraḥ",
+"quick_gloss": "eligibility"
 },
 {
 "surface": "sarveṣāṃ",
 "quick_gloss": "of-all"
 },
 {
-"surface": "brahmajñān",
+"surface": "brahma+jñān",
 "quick_gloss": "brahman-knowledge"
 },
 {
@@ -157,7 +165,7 @@
 "tokens": [
 {
 "surface": "śuddha+antaḥkaraṇāḥ",
-"quick_gloss": "pure+inner-organ"
+"quick_gloss": "pure-inner-organ"
 },
 {
 "surface": "śāntāḥ",
@@ -165,11 +173,11 @@
 },
 {
 "surface": "sarva+prāṇi+hite",
-"quick_gloss": "all+beings+welfare-in"
+"quick_gloss": "all-beings+welfare"
 },
 {
 "surface": "ratāḥ",
-"quick_gloss": "devoted"
+"quick_gloss": "delighted"
 }
 ]
 },
@@ -182,11 +190,11 @@
 "tokens": [
 {
 "surface": "satya+saṅkalpakāḥ",
-"quick_gloss": "true+resolve-having"
+"quick_gloss": "true-resolve"
 },
 {
 "surface": "brāhmāḥ",
-"quick_gloss": "brahmanas"
+"quick_gloss": "brahmins"
 },
 {
 "surface": "te",
@@ -197,8 +205,12 @@
 "quick_gloss": "alone"
 },
 {
-"surface": "atra+adhikāriṇaḥ",
-"quick_gloss": "here+qualified"
+"surface": "atra",
+"quick_gloss": "here"
+},
+{
+"surface": "adhikāriṇaḥ",
+"quick_gloss": "qualified"
 }
 ]
 },
@@ -223,11 +235,11 @@
 },
 {
 "surface": "tattva+cakre",
-"quick_gloss": "tattva-circle-in"
+"quick_gloss": "in-tattva-circle"
 },
 {
 "surface": "adhikāritā",
-"quick_gloss": "qualification"
+"quick_gloss": "eligibility"
 }
 ]
 },
@@ -260,7 +272,7 @@
 },
 {
 "surface": "tattva+cakriṇaḥ",
-"quick_gloss": "tattva-circle-participants"
+"quick_gloss": "tattva-circle-performers"
 }
 ]
 },
@@ -276,20 +288,12 @@
 "quick_gloss": "here"
 },
 {
-"surface": "cakra",
-"quick_gloss": "circle"
+"surface": "cakra+rāje",
+"quick_gloss": "circle-king"
 },
 {
-"surface": "rāje",
-"quick_gloss": "king-in"
-},
-{
-"surface": "tattva",
-"quick_gloss": "tattva"
-},
-{
-"surface": "cakre",
-"quick_gloss": "circle-in"
+"surface": "tattva+cakre",
+"quick_gloss": "in-tattva-circle"
 }
 ]
 },
@@ -305,16 +309,8 @@
 "quick_gloss": "peaceful"
 },
 {
-"surface": "rāga",
-"quick_gloss": "attachment"
-},
-{
-"surface": "dveṣa",
-"quick_gloss": "aversion"
-},
-{
-"surface": "ādi+śūnyāḥ",
-"quick_gloss": "etc-devoid"
+"surface": "rāga+dveṣa+ādi+śūnyāḥ",
+"quick_gloss": "passion-hatred+etc+devoid"
 }
 ]
 },
@@ -334,7 +330,7 @@
 "quick_gloss": "contemplation"
 },
 {
-"surface": "vicintanam",
+"surface": "vicintana",
 "quick_gloss": "reflection"
 },
 {
@@ -356,7 +352,7 @@
 },
 {
 "surface": "brahma+bhāvena",
-"quick_gloss": "brahman-state-with"
+"quick_gloss": "with-brahman-attitude"
 },
 {
 "surface": "sādhayet",
@@ -377,18 +373,18 @@
 "tokens": [
 {
 "surface": "brahma+jñaiḥ",
-"quick_gloss": "brahman-knowers-with"
+"quick_gloss": "with-brahman-knowers"
 },
 {
 "surface": "sādhakaiḥ",
-"quick_gloss": "practitioners-with"
+"quick_gloss": "with-practitioners"
 },
 {
 "surface": "sārddhaṃ",
 "quick_gloss": "together"
 },
 {
-"surface": "tattvacakraṃ",
+"surface": "tattva+cakraṃ",
 "quick_gloss": "tattva-circle"
 },
 {
@@ -406,7 +402,7 @@
 "tokens": [
 {
 "surface": "vicitra+āsanam",
-"quick_gloss": "varied-seat"
+"quick_gloss": "variegated-seat"
 },
 {
 "surface": "ānīya",
@@ -414,7 +410,7 @@
 },
 {
 "surface": "kalpayet",
-"quick_gloss": "one-should-arrange"
+"quick_gloss": "one-should-imagine"
 },
 {
 "surface": "vimala+āsanam",
@@ -430,15 +426,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āsādayet+tu",
-"quick_gloss": "one-should-obtain+and"
+"surface": "āsādayet",
+"quick_gloss": "one-should-obtain"
+},
+{
+"surface": "tu",
+"quick_gloss": "and"
 },
 {
 "surface": "tattvāni",
 "quick_gloss": "tattvas"
 },
 {
-"surface": "sthāpayed",
+"surface": "sthāpayet",
 "quick_gloss": "one-should-place"
 },
 {
@@ -447,7 +447,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "o-auspicious-one"
+"quick_gloss": "o-śiva"
 }
 ]
 },
@@ -460,10 +460,10 @@
 "tokens": [
 {
 "surface": "sarva+tattveṣu",
-"quick_gloss": "all-tattvas-among"
+"quick_gloss": "in-all-tattvas"
 },
 {
-"surface": "cakra+īśa",
+"surface": "cakreśa",
 "quick_gloss": "o-lord-of-circle"
 },
 {
@@ -493,7 +493,7 @@
 },
 {
 "surface": "tena",
-"quick_gloss": "by-that"
+"quick_gloss": "by-him"
 },
 {
 "surface": "gantavyaṃ",
@@ -501,7 +501,7 @@
 },
 {
 "surface": "brahma+karma+samādhinā",
-"quick_gloss": "brahman-action-absorption-by"
+"quick_gloss": "by-brahman-action-absorption"
 }
 ]
 },
@@ -513,24 +513,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tattva",
-"quick_gloss": "tattva"
+"surface": "tattva+sādhanam",
+"quick_gloss": "tattva-practice"
 },
 {
-"surface": "sādhanam",
-"quick_gloss": "practice"
+"surface": "tattva+cakra+sādhanam",
+"quick_gloss": "tattva-circle-practice"
 },
 {
-"surface": "tattva",
-"quick_gloss": "tattva"
-},
-{
-"surface": "cakra",
-"quick_gloss": "circle"
-},
-{
-"surface": "sādhanam",
-"quick_gloss": "practice"
+"surface": "209",
+"quick_gloss": "209"
 }
 ]
 },
@@ -547,7 +539,7 @@
 },
 {
 "surface": "tattva+cakrasya",
-"quick_gloss": "tattva-circle-of"
+"quick_gloss": "of-tattva-circle"
 },
 {
 "surface": "vidhānam",
@@ -558,12 +550,8 @@
 "quick_gloss": "states"
 },
 {
-"surface": "ramye",
-"quick_gloss": "ramye"
-},
-{
-"surface": "iti+ādibhiḥ",
-"quick_gloss": "thus-etc-with"
+"surface": "ramye+ityādibhiḥ",
+"quick_gloss": "with-ramye-etc"
 }
 ]
 },
@@ -574,14 +562,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "mantram",
-"quick_gloss": "mantra"
-},
-{
-"surface": "udīrayet",
-"quick_gloss": "one-should-utter"
-},
 {
 "surface": "mantram",
 "quick_gloss": "mantra"
@@ -601,19 +581,15 @@
 "tokens": [
 {
 "surface": "mantram+eva",
-"quick_gloss": "mantra+alone"
+"quick_gloss": "mantra+indeed"
 },
 {
 "surface": "āha",
 "quick_gloss": "states"
 },
 {
-"surface": "brahma+arpaṇam",
-"quick_gloss": "brahman-offering"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "brahmārpaṇam+iti",
+"quick_gloss": "with-brahmārpaṇam"
 }
 ]
 },
@@ -625,12 +601,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p. 212",
-"quick_gloss": "page-212"
+"surface": "p.+212",
+"quick_gloss": "p.-212"
 },
 {
 "surface": "saptadhā",
-"quick_gloss": "seven-times"
+"quick_gloss": "sevenfold"
 },
 {
 "surface": "vā",
@@ -638,15 +614,15 @@
 },
 {
 "surface": "tridhā",
-"quick_gloss": "three-times"
+"quick_gloss": "threefold"
 },
 {
 "surface": "japtvā",
-"quick_gloss": "having-chanted"
+"quick_gloss": "having-recited"
 },
 {
 "surface": "tāni",
-"quick_gloss": "those"
+"quick_gloss": "them"
 },
 {
 "surface": "sarvāṇi",
@@ -667,11 +643,11 @@
 "tokens": [
 {
 "surface": "brahma+jñaiḥ",
-"quick_gloss": "brahman-knowers-with"
+"quick_gloss": "with-brahman-knowers"
 },
 {
 "surface": "sādhakaiḥ",
-"quick_gloss": "practitioners-with"
+"quick_gloss": "with-practitioners"
 },
 {
 "surface": "sārddhaṃ",
@@ -683,7 +659,7 @@
 },
 {
 "surface": "pāna+bhojanam",
-"quick_gloss": "drink+food"
+"quick_gloss": "drinking+eating"
 }
 ]
 },
@@ -700,7 +676,7 @@
 },
 {
 "surface": "deśa+kāla+niyamaḥ",
-"quick_gloss": "place+time+rule"
+"quick_gloss": "place-time-restriction"
 },
 {
 "surface": "na",
@@ -708,7 +684,7 @@
 },
 {
 "surface": "pātra+niyamaḥ",
-"quick_gloss": "vessel+rule"
+"quick_gloss": "vessel-restriction"
 },
 {
 "surface": "tathā",

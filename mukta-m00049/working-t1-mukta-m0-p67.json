@@ -53,7 +53,7 @@
 },
 {
 "surface": "brahma+tejasā",
-"quick_gloss": "by-brahman+splendor"
+"quick_gloss": "brahman+splendor"
 }
 ]
 },
@@ -65,8 +65,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "idam+tu+ityādi",
-"quick_gloss": "this+thus+etc"
+"surface": "idam",
+"quick_gloss": "this"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etcetera"
+},
+{
+"surface": "|| 176",
+"quick_gloss": "176"
 }
 ]
 },
@@ -84,6 +96,10 @@
 {
 "surface": "vivāham",
 "quick_gloss": "wedding"
+},
+{
+"surface": "|| 178",
+"quick_gloss": "178"
 }
 ]
 },
@@ -133,7 +149,7 @@
 },
 {
 "surface": "sādhvasam",
-"quick_gloss": "with-fear"
+"quick_gloss": "fear"
 }
 ]
 },
@@ -145,12 +161,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+indra",
-"quick_gloss": "with-indra"
-},
-{
-"surface": "amara+gaṇāḥ",
-"quick_gloss": "immortal+hosts"
+"surface": "sa+indra+amara+gaṇāḥ",
+"quick_gloss": "with-indra+immortal+hosts"
 },
 {
 "surface": "sarve",
@@ -208,23 +220,19 @@
 "tokens": [
 {
 "surface": "āmaṃ",
-"quick_gloss": "uncooked"
+"quick_gloss": "raw"
 },
 {
 "surface": "pakvaṃ",
 "quick_gloss": "cooked"
 },
 {
-"surface": "yadā",
-"quick_gloss": "when"
-},
-{
-"surface": "ānītaṃ",
-"quick_gloss": "brought"
+"surface": "yadā+ānītaṃ",
+"quick_gloss": "when+brought"
 },
 {
 "surface": "vīra+hasta+arpitaṃ",
-"quick_gloss": "by-hero+hand+offered"
+"quick_gloss": "hero+hand+offered"
 },
 {
 "surface": "śuci",
@@ -323,12 +331,8 @@
 "quick_gloss": "of-kula+scriptures"
 },
 {
-"surface": "cakrāt",
-"quick_gloss": "from-circle"
-},
-{
-"surface": "dūra+taraṃ",
-"quick_gloss": "far+away"
+"surface": "cakrāt+dūra+taraṃ",
+"quick_gloss": "from-circle+farther"
 },
 {
 "surface": "tyajet",
@@ -400,6 +404,10 @@
 {
 "surface": "cakra+sthāne",
 "quick_gloss": "in-circle+place"
+},
+{
+"surface": "|| 185",
+"quick_gloss": "185"
 }
 ]
 },
@@ -465,7 +473,7 @@
 },
 {
 "surface": "vedānta+pāragaḥ",
-"quick_gloss": "vedanta+versed"
+"quick_gloss": "vedānta+versed"
 }
 ]
 },
@@ -477,12 +485,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sākṣāt",
-"quick_gloss": "directly"
-},
-{
-"surface": "śiva+sva+rūpāṇāṃ",
-"quick_gloss": "of-śiva+own+forms"
+"surface": "sākṣāt+śiva+svarūpāṇāṃ",
+"quick_gloss": "of-manifest+śiva+forms"
 },
 {
 "surface": "pāpa+śaṅkā",
@@ -535,8 +539,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "loka+yātrā+prasiddhi+artham",
-"quick_gloss": "world+course+accomplishment+for"
+"surface": "loka+yātrā+prasiddhi+arthaṃ",
+"quick_gloss": "world+course+accomplishment+for-sake"
 },
 {
 "surface": "kuryuḥ",
@@ -610,15 +614,15 @@
 },
 {
 "surface": "prakurvāṇaḥ",
-"quick_gloss": "doing"
+"quick_gloss": "performing"
 },
 {
 "surface": "sarvaiḥ",
-"quick_gloss": "from-all"
+"quick_gloss": "by-all"
 },
 {
 "surface": "pāpaiḥ",
-"quick_gloss": "sins"
+"quick_gloss": "by-sins"
 },
 {
 "surface": "pramucyate",
@@ -635,7 +639,7 @@
 "tokens": [
 {
 "surface": "nityaṃ",
-"quick_gloss": "constantly"
+"quick_gloss": "always"
 },
 {
 "surface": "samācaran",
@@ -669,6 +673,10 @@
 {
 "surface": "kuryuḥ",
 "quick_gloss": "should-do"
+},
+{
+"surface": "|| 196",
+"quick_gloss": "196"
 }
 ]
 }
