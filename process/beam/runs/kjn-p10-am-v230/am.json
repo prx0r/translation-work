@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 230,
- "question": "What division of eight octads is sought to be known exhaustively?",
+ "question": "What division into octads of eight is sought to be fully known?",
  "premises": [
-  "There is a division consisting of eight octads.",
-  "The speaker seeks to know this division fully.",
-  "The knowing is desired in an exhaustive manner."
+  "A division is the object of inquiry.",
+  "The division consists of octads of eight.",
+  "The aim is to know it fully and completely."
  ],
- "inference": "The speaker seeks to know fully and exhaustively the division of the eight octads.",
- "uncertainties": [],
- "plain_english": "I seek to know fully and endlessly the division of the eight octads."
+ "inference": "The speaker seeks to fully know the division into octads of eight in its entirety.",
+ "uncertainties": [
+  "The exact referent of the octads of eight is not specified in this verse."
+ ],
+ "plain_english": "I wish to know fully and completely the division into octads of eight."
 }

@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "etat",
-   "morph": "n.nom.sg",
-   "grounds": "demonstrative pronoun"
+   "morph": "pron.dem.n.nom.sg",
+   "grounds": "demonstrative pronoun referring to the teaching given"
   },
   {
    "lemma": "te",
-   "morph": "2.dat.sg",
-   "grounds": "dative of tvam"
+   "morph": "pron.2.dat.sg",
+   "grounds": "recipient of the teaching"
   },
   {
    "lemma": "jīva+abhyāsaṃ",
-   "morph": "compound=member+membership",
-   "grounds": "nominative/accusative of jīva+abhyāsa; compound analyzed as given"
+   "morph": "compound:n.nom.sg",
+   "grounds": "compound naming the discipline taught"
   },
   {
    "lemma": "kathitaṃ",
    "morph": "n.nom.sg",
-   "grounds": "past passive participle of kathay"
+   "grounds": "past participle indicating completed instruction"
   },
   {
    "lemma": "te",
-   "morph": "2.dat.sg",
-   "grounds": "dative of tvam"
+   "morph": "pron.2.dat.sg",
+   "grounds": "repeated recipient marker"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunctive particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "bhairavi",
    "morph": "f.voc.sg",
-   "grounds": "vocative"
+   "grounds": "vocative address"
   }
  ]
 }
