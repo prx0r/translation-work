@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound:padma+lotus",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "plant"
   },
   {
    "lemma": "patre",
-   "morph": "compound:patra+leaf:n.loc.sg",
-   "grounds": "second member of compound, locus of analogy"
+   "morph": "n.loc.sg",
+   "grounds": "surface"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "comparative particle"
+   "grounds": "comparison"
   },
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "water in the analogy"
+   "grounds": "element"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "correlative particle"
+   "grounds": "correlative comparison"
   },
   {
    "lemma": "ca",
@@ -35,7 +35,7 @@
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "manner particle"
+   "grounds": "manner"
   },
   {
    "lemma": "na",
@@ -45,7 +45,7 @@
   {
    "lemma": "lipyate",
    "morph": "3.sg.present-passive √lip",
-   "grounds": "state of being unaffected"
+   "grounds": "affected"
   }
  ]
 }

@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound:brahma+brahman",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "priestly class"
   },
   {
    "lemma": "hatyā",
-   "morph": "compound:hatyā+killing",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "act of slaying"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "compound:ādika+and-other:n.nom.sg",
-   "grounds": "third member of compound, sin category"
+   "morph": "n.nom.sg",
+   "grounds": "inclusive series"
   },
   {
    "lemma": "pāpam",
    "morph": "n.nom.sg",
-   "grounds": "negative karmic result"
+   "grounds": "demerit"
   },
   {
    "lemma": "aśva",
-   "morph": "compound:aśva+horse",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "sacrificial animal"
   },
   {
    "lemma": "medha",
-   "morph": "compound:medha+sacrifice",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "ritual"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "compound:ādika+and-other:n.nom.sg",
-   "grounds": "third member of compound, merit category"
+   "morph": "n.nom.sg",
+   "grounds": "inclusive series"
   },
   {
    "lemma": "phalam",
    "morph": "n.nom.sg",
-   "grounds": "positive karmic result"
+   "grounds": "merit"
   }
  ]
 }

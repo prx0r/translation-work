@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kula",
-   "morph": "compound:kula+kula",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "tradition"
   },
   {
    "lemma": "vijñāna",
-   "morph": "compound:vijñāna+knowledge",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "understanding"
   },
   {
    "lemma": "saṃbhogāt",
-   "morph": "compound:saṃbhoga+enjoyment:m.abl.sg",
-   "grounds": "third member of compound, through participation"
+   "morph": "m.abl.sg",
+   "grounds": "participation"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṣ+six",
-   "grounds": "first member of compound, sandhi form of ṣaṭ"
+   "morph": "compound-member",
+   "grounds": "number"
   },
   {
    "lemma": "māsāt",
-   "morph": "compound:māsa+month:m.abl.sg",
-   "grounds": "second member of compound, time period"
+   "morph": "m.abl.sg",
+   "grounds": "time period"
   },
   {
    "lemma": "siddhi",
-   "morph": "compound:siddhi+accomplishment",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "attainment"
   },
   {
    "lemma": "bhājanaḥ",
-   "morph": "compound:bhājana+recipient:m.nom.sg",
-   "grounds": "second member of compound, one fit to attain"
+   "morph": "m.nom.sg",
+   "grounds": "worthy vessel"
   }
  ]
 }

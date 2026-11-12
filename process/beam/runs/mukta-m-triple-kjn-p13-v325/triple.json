@@ -7,45 +7,46 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun referring to the previously mentioned reality",
+     "grounds": "anaphoric reference to the previously mentioned object",
      "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive expressing prior cognition",
-     "morph": "(indecl.), absolutive of jñā"
+     "grounds": "absolute participle of jñā denoting prior action",
+     "morph": "verb.3.sg.act-pst/abs+root-jñā"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound object of knowing; gūḍha qualifies sadbhāva",
-     "morph": "m.acc.sg, compound: gūḍha+modifier, sadbhāva+head"
+     "grounds": "fused compound as given; internal composition noted without splitting the token",
+     "morph": "compound=member+membership"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract state that comes into being",
+     "grounds": "abstract nominal form as given, no internal split applied",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "main verb indicating the emergence of omniscience",
-     "morph": "3.sg.passive-present, root pra-jan"
+     "grounds": "present middle form indicating spontaneous emergence",
+     "morph": "verb.3.sg.mid-prs+root-jan"
     }
    ],
-   "question": "What state arises from knowing that hidden true nature?",
+   "question": "Under what condition does all-knowingness arise for the embodied being who has come to know the hidden true nature?",
    "premises": [
-    "There is a hidden true nature to be known.",
-    "Knowing that hidden true nature is a prior act.",
-    "All-knowingness is presented as a resulting state."
+    "Knowing the hidden true nature precedes a further attainment.",
+    "All-knowingness is presented as an arising rather than an innate given.",
+    "Prior recognition of that nature forms the condition for its emergence."
    ],
-   "inference": "Therefore, knowing the hidden true nature gives rise to all-knowingness.",
+   "inference": "All-knowingness arises for one who, having known the hidden true nature, attains it as a consequent state.",
    "uncertainties": [
-    "The exact referent of taṃ depends on the preceding verses."
+    "The exact scope of the hidden true nature remains determined by prior context.",
+    "It is unclear whether the arising is gradual or immediate from the given action."
    ],
-   "plain_english": "Having known that hidden true nature, all-knowingness arises."
+   "plain_english": "Having known the hidden true nature, all-knowingness arises."
   }
  ]
 }

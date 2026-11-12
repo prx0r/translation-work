@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "vuka",
-   "morph": "compound:vuka+vuka",
-   "grounds": "first member of compound, plant name"
+   "morph": "compound-member",
+   "grounds": "ritual substance name"
   },
   {
    "lemma": "puṣpaṃ",
-   "morph": "compound:puṣpa+flower:n.nom.sg",
-   "grounds": "second member of compound, offering item"
+   "morph": "n.acc.sg",
+   "grounds": "offering"
   },
   {
    "lemma": "śiva",
-   "morph": "compound:śiva+auspicious",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "sacred epithet"
   },
   {
    "lemma": "ambuñ",
-   "morph": "compound:ambu+water:n.nom.sg",
-   "grounds": "second member of compound, sandhi form of ambu"
+   "morph": "n.acc.sg",
+   "grounds": "liquid offering"
   },
   {
    "lemma": "ca",
@@ -29,23 +29,23 @@
   },
   {
    "lemma": "rakta",
-   "morph": "compound:rakta+blood",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "ritual substance"
   },
   {
    "lemma": "śukraṃ",
-   "morph": "compound:śukra+semen:n.nom.sg",
-   "grounds": "second member of compound, offering substance"
+   "morph": "n.acc.sg",
+   "grounds": "ritual substance"
   },
   {
    "lemma": "surām",
    "morph": "f.acc.sg",
-   "grounds": "offering substance"
+   "grounds": "ritual substance"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "concluding particle"
+   "grounds": "continuative particle"
   }
  ]
 }

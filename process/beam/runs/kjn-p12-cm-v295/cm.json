@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound:vijñāna+knowledge",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "consciousness"
   },
   {
    "lemma": "unmīlanam",
-   "morph": "compound:unmīlana+unfolding:n.nom.sg",
-   "grounds": "second member of compound, awakening"
+   "morph": "n.nom.sg",
+   "grounds": "opening"
   },
   {
    "lemma": "bhadre",
@@ -20,12 +20,12 @@
   {
    "lemma": "bhavati",
    "morph": "3.sg.present-active √bhū",
-   "grounds": "resulting occurrence"
+   "grounds": "occurs"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "in this manner"
+   "grounds": "in this way"
   },
   {
    "lemma": "na",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "anya",
-   "morph": "compound:anya+other",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "different"
   },
   {
    "lemma": "sevanāt",
-   "morph": "compound:sevana+service:n.abl.sg",
-   "grounds": "second member of compound, means excluded"
+   "morph": "n.abl.sg",
+   "grounds": "practice"
   }
  ]
 }

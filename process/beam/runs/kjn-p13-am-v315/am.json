@@ -1,12 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 315,
- "question": "Which materials are prescribed for the ritual vessels?",
+ "question": "Which materials are listed as suitable for the vessels being described?",
  "premises": [
-  "Vessels may be made of clay or born of a tortoise",
-  "Vessels may be made of bell-metal or copper-metal"
+  "Clay is named as a material",
+  "Tortoise-derived and bell-metal materials are named",
+  "Copper or metal is also named"
  ],
- "inference": "Ritual vessels may be fashioned from clay, tortoise, bell-metal, or copper-metal",
- "uncertainties": [],
- "plain_english": "O Goddess, vessels may be made of clay, born of a tortoise, made of bell-metal, or of copper."
+ "inference": "The vessels may be made of clay, tortoise-derived material, bell-metal, or copper metal",
+ "uncertainties": [
+  "The exact referent of 'tortoise-born' in ritual context is ambiguous"
+ ],
+ "plain_english": "O Goddess, they may be made of clay, born of a tortoise, made of bell-metal, or made of copper."
 }

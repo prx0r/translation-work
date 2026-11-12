@@ -1,12 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 319,
- "question": "What alternative is permitted when the prescribed vessel is unavailable?",
+ "question": "What alternative is permitted when the proper vessel cannot be obtained?",
  "premises": [
-  "The prescribed vessel may not be obtained",
-  "Drinking liquor in another vessel is permitted"
+  "The proper vessel may be unobtainable",
+  "Another vessel is available as an alternative",
+  "Drinking liquor is the act in question"
  ],
- "inference": "If the proper vessel is unavailable, one may drink liquor from another vessel",
+ "inference": "If the proper vessel is not obtained, one may drink the liquor from another vessel",
  "uncertainties": [],
- "plain_english": "If this vessel cannot be obtained, one may drink the liquor from another vessel."
+ "plain_english": "If that vessel cannot be obtained, one may drink the liquor from another vessel."
 }

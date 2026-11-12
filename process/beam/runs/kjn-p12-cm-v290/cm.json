@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "niṣparigraha",
-   "morph": "compound:niṣparigraha+non-possession",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "renunciation"
   },
   {
    "lemma": "santoṣaṃ",
-   "morph": "compound:santoṣa+contentment:m.acc.sg",
-   "grounds": "second member of compound, object not to be made into duality"
+   "morph": "m.acc.sg",
+   "grounds": "satisfaction"
   },
   {
    "lemma": "dvandva",
-   "morph": "compound:dvandva+duality",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "pairs of opposites"
   },
   {
    "lemma": "yogaṃ",
-   "morph": "compound:yoga+union:m.acc.sg",
-   "grounds": "second member of compound, pairing or opposition"
+   "morph": "m.acc.sg",
+   "grounds": "conjunction"
   },
   {
    "lemma": "na",
@@ -30,7 +30,7 @@
   {
    "lemma": "kārayet",
    "morph": "3.sg.optative-causative-active √kṛ",
-   "grounds": "prohibitive instruction"
+   "grounds": "injunction"
   }
  ]
 }

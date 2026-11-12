@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[ājyapūrṇam](ājyapūrṇaṃ) [tathā](tathā) [pātram](pātram) [aikaikasya](aikaikasya) [pradāpayet](pradāpayet)
+[ghee+filled](ājyapūrṇaṃ) [thus](tathā) [vessel](pātram) [to-each-one](aikaikasya) [one-should-give](pradāpayet)
 
 ## mukta-m0-p71-v1752
-[gandhapuṣpopahārāṃśva](gandhapuṣpopahārāṃśva) [sruksruvau](sruksruvau) [lakṣaṇānvitau](lakṣaṇānvitau)
+[fragrance+flower+offerings](gandhapuṣpopahārāṃśva) [ladle](sruk) [and-spoon](sruvau) [endowed-with-marks](lakṣaṇānvitau)
 
 ## mukta-m0-p71-v1753
-[sitāmbaradharāḥ](sitāmbaradharāḥ) [sarve](sarve) [sitacandanacarcitāḥ](sitacandanacarcitāḥ)
+[white+garment+wearing](sitāmbaradharāḥ) [all](sarve) [white+sandal+anointed](sitacandanacarcitāḥ)
 
 ## mukta-m0-p71-v1754
-[tāniṣṭvā](tāniṣṭvā) [svarṇavastrādyaistatastāṃstu](svarṇavastrādyaistatastāṃstu) [samādiśet](samādiśet)
+[those](tāni) [having-worshipped](iṣṭvā) [with-gold+garments+etc.](svarṇavastrādyaḥ) [then](tatas) [to-them](tāṃstu) [one-should-instruct](samādiśet)
 
 ## mukta-m0-p71-v1755
-[khādakaṃ](khādakaṃ) [paścime](paścime) [caiva](caiva) [khuri](khuri) [gh:](gh:) [khari](khari) [kāstraṃ](kāstraṃ) [tathottare](tathottare)
+[sword](khādakaṃ) [in-the-west](paścime) [and](ca) [indeed](eva) [dagger](khuri) [weapon](kāstraṃ) [likewise](tathā) [in-the-north](uttare)
 
 ## mukta-m0-p71-v1756
-[śāstrasadbhāvakarmajñāḥ](śāstrasadbhāvakarmajñāḥ) [kuṇḍasaṃskārapūrvakam](kuṇḍasaṃskārapūrvakam)
+[scripture+true+nature+action+knowing](śāstrasadbhāvakarmajñāḥ) [fire-pit+consecration+preceded-by](kuṇḍasaṃskārapūrvakam)
 
 ## mukta-m0-p71-v1757
-[evaṃ](evaṃ) [tu](tu) [mūrtipāḥ](mūrtipāḥ) [sarve](sarve) [kṛtvā](kṛtvā) [sthaṇḍilatarpaṇam](sthaṇḍilatarpaṇam)
+[thus](evaṃ) [indeed](tu) [image+guardians](mūrtipāḥ) [all](sarve) [having-done](kṛtvā) [altar+libation](sthaṇḍilatarpaṇam)
 
 ## mukta-m0-p71-v1758
-[sthāpakaśca](sthāpakaśca) [śirodeśe](śirodeśe) [pūrvasambhārasaṃbhṛtaḥ](pūrvasambhārasaṃbhṛtaḥ)
+[and-the-installer](sthāpakaśca) [at-the-head-region](śirodeśe) [previous+materials+equipped-with](pūrvasambhārasaṃbhṛtaḥ)
 
 ## mukta-m0-p71-v1759
-[ekacitto](ekacitto) [jitakrodhaḥ](jitakrodhaḥ) [śraddadhāno](śraddadhāno) [jitendriyaḥ](jitendriyaḥ)
+[one-pointed+mind](ekacittaḥ) [conquered+anger](jitakrodhaḥ) [full-of-faith](śraddadhāno) [conquered+senses](jitendriyaḥ)
 
 ## mukta-m0-p71-v1760
-[janite](janite) [tarpite](tarpite) [vahnau](vahnau) [dadyātpūrṇāhutiṃ](dadyātpūrṇāhutiṃ) [tataḥ](tataḥ)
+[when-produced](janite) [when-satisfied](tarpite) [in-the-fire](vahnau) [one-should-offer](dadyāt) [final+oblation](pūrṇāhutiṃ) [then](tataḥ)
 
 ## mukta-m0-p71-v1761
-[tiryagūrdhvāgamotthairvā](tiryagūrdhvāgamotthairvā) [prāguktavidhimantrataḥ](prāguktavidhimantrataḥ)
+[by-oblique+upward+going](tiryagūrdhvāgamotthaiḥ) [or](vā) [by-previously+stated+method+mantras](prāguktavidhimantrataḥ)
 
 ## mukta-m0-p71-v1762
-[dhātuḥ](dhātuḥ) [śabdaniṣedhārthaṃ](śabdaniṣedhārthaṃ) [syānmatriguptabhāṣaṇe](syānmatriguptabhāṣaṇe)
+[of-the-root](dhātuḥ) [sound+prohibition+for-the-sake-of](śabdaniṣedhārthaṃ) [should-be](syāt) [in-mantra+secret+speech](matriguptabhāṣaṇe)
 
 ## mukta-m0-p71-v1763
-[nyāsane](nyāsane) [homakārye](homakārye) [tu](tu) [upāṃścādi](upāṃścādi) [ca](ca) [daiśikaḥ](daiśikaḥ)
+[in-placement](nyāsane) [in-oblation+rite](homakārye) [indeed](tu) [in-audible+etc.](upāṃścādi) [and](ca) [the-officiant](daiśikaḥ)
 
 ## mukta-m0-p71-v1764
-[savighno](savighno) [jāyate](jāyate) [yāgastasmānmūrtidharānyajet](yāgastasmānmūrtidharānyajet) [gh:](gh:) [nyaset](nyaset)
+[with-obstacle](savighno) [arises](jāyate) [sacrifice](yāgaḥ) [therefore](tasmāt) [image+guardians](mūrtidharān) [one-should-worship](yajet)
 
 ## mukta-m0-p71-v1765
-[p.](p.) [35)](35)) [krūraśabdaniṣedhārthaṃ](krūraśabdaniṣedhārthaṃ) [maṅgalārthaṃ](maṅgalārthaṃ) [sadaiva](sadaiva) [tu](tu)
+[harsh+sound+prohibition+for-the-sake-of](krūraśabdaniṣedhārthaṃ) [for-auspiciousness](maṅgalārthaṃ) [always](sadaiva) [indeed](tu)
 
 ## mukta-m0-p71-v1766
-[svaśāstralakṣaṇopetānbrāhmaṇānsusamāhitān](svaśāstralakṣaṇopetānbrāhmaṇānsusamāhitān)
+[own+scripture+characteristics+endowed-with](svaśāstralakṣaṇopetān) [brahmins](brāhmaṇān) [well-composed](susamāhitān)
 
 ## mukta-m0-p71-v1767
-[caturdikṣubahiḥ](caturdikṣubahiḥ) [paścādācāryastānniveśayet](paścādācāryastānniveśayet) [sanni-](sanni-)
+[in-the-four+directions](caturdikṣu) [outside](bahiḥ) [afterwards](paścāt) [the-teacher](ācāryaḥ) [them](tān) [should-place](niveśayet)
 
 ## mukta-m0-p71-v1768
-[paścime](paścime) [vājasaneyāṃśchandogānuttareṇa](vājasaneyāṃśchandogānuttareṇa) [tu](tu)
+[in-the-west](paścime) [the-vājasaneyins](vājasaneyān) [and-the-chandogas](chandogān) [in-the-north](uttareṇa) [indeed](tu)
 
 ## mukta-m0-p71-v1769
-[samādiśya](samādiśya) [tato](tato) [viprānnadyuktāndvā](viprānnadyuktāndvā) [pradarśanāt](pradarśanāt)
+[having-instructed](samādiśya) [then](tato) [the-brahmins](viprān) [now+engaged](nadyuktān) [or](dvā) [by-indication](pradarśanāt)
 
 ## mukta-m0-p71-v1770
-[vṛṣākapiṃ](vṛṣākapiṃ) [ca](ca) [maitraṃ](maitraṃ) [ca](ca) [bahvṛcaḥ](bahvṛcaḥ) [paścime](paścime) [japet](japet)
+[vṛṣākapi](vṛṣākapiṃ) [and](ca) [maitra](maitraṃ) [and](ca) [the-ṛgvedins](bahvṛcaḥ) [in-the-west](paścime) [should-recite](japet)
 
 ## mukta-m0-p71-v1771
-[bhāruṇḍāni](bhāruṇḍāni) [ca](ca) [sāmāni](sāmāni) [vāmadevaṃ](vāmadevaṃ) [tathaiva](tathaiva) [ca](ca)
+[bhāruṇḍa-hymns](bhāruṇḍāni) [and](ca) [sāman-chants](sāmāni) [vāmadeva](vāmadevaṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p71-v1772
-[rudraṃ](rudraṃ) [puruṣasūktaṃ](puruṣasūktaṃ) [ca](ca) [ślokādhyāyaṃ](ślokādhyāyaṃ) [ca](ca) [śukriyam](śukriyam)
+[rudra](rudraṃ) [puruṣa-sūkta](puruṣasūktaṃ) [and](ca) [śloka-chapter](ślokādhyāyaṃ) [and](ca) [śukriya](śukriyam)
 
 ## mukta-m0-p71-v1773
-[sūktaṃ](sūktaṃ) [tathaiva](tathaiva) [ca](ca)
+[hymn](sūktaṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p71-v1774
-[matāntaraviṣayakamiti](matāntaraviṣayakamiti)
+[another+view+subject-matter](matāntaraviṣayakam) [thus](iti)
 
 ## mukta-m0-p71-v1775
-[stotramantravidaścānye](stotramantravidaścānye) [japeyu[kh,](japeyu[kh,) [gh:](gh:) [paṭheyu]rdakṣiṇe](paṭheyu]rdakṣiṇe) [sadā](sadā)
+[hymn+mantra+knowers](stotramantravidaḥ) [and](ca) [others](anye) [should-recite](japeyuḥ) [in-the-south](dakṣiṇe) [always](sadā)
