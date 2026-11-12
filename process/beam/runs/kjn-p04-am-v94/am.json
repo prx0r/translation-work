@@ -1,13 +1,15 @@
 {
  "song": "kjn-p04",
  "verse": 94,
- "question": "What additional petal counts are attributed to the contemplative wheels in this enumeration?",
+ "question": "What additional petal counts are attributed to the wheels in this teaching?",
  "premises": [
-  "Different petal counts are being enumerated.",
-  "The counts include sixteen, hundred, and crore petals.",
-  "These are presented as applicable forms."
+  "A sixteen-petalled form is mentioned",
+  "A hundred-petalled form is mentioned",
+  "A crore-petalled form is mentioned"
  ],
- "inference": "The wheels may also be contemplated as sixteen-petalled, hundred-petalled, and crore-petalled.",
- "uncertainties": [],
- "plain_english": "They are also sixteen-petalled, hundred-petalled, and even crore-petalled."
+ "inference": "The wheels are also described as having sixteen, a hundred, and a crore of petals.",
+ "uncertainties": [
+  "The syntactic role of yathaiva ca is somewhat unclear in this enumeration."
+ ],
+ "plain_english": "They are also sixteen-petalled, hundred-petalled, and crore-petalled, just as described."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-arghaṃ=argha datvā=giving ca=and vṛkṣasya=of-tree mantra=mantra saṃśrāvyakaṃ=to-be-recited vadet=should-say
+[water-offering](arghaṃ) [having-given](datvā) [and](ca) [of-the-tree](vṛkṣasya) [mantra](mantra) [to-be-heard](saṃśrāvyakaṃ) [one-should-say](vadet)
 
 ## mukta-m0-p17-v402
-saṅkramān=transfers anyaditaḥ=from-other sthānāt=from-place guṇavat=possessing-qualities yan=which manoharam=heart-stealing
+[moving](saṅkramānyaditaḥ) [from-place](sthānādguṇavadyanmanoharam)
 
 ## mukta-m0-p17-v403
-yo=which yasmin=in-which vihito=appointed mantraḥ=mantra śāstre=in-scripture syāt=would-be balikarmaṇi=in-bali-rite
+[who](yo) [in-which](yasmin) [prescribed](vihito) [mantra](mantraḥ) [in-scripture](śāstre) [may-be](syādbalikarmaṇi)
 
 ## mukta-m0-p17-v404
-sthāne'smin=in-this-place yāni=which bhūtāni=beings piśācā=piśācas rākṣasāḥ=rākṣasas ca=and ye=who
+[in-place](sthāne'smin) [which](yāni) [beings](bhūtāni) [piśācas](piśācā) [and](rākṣasāśca) [who](ye)
 
 ## mukta-m0-p17-v405
-tān=them tu=but saṃpūjya=worshipping vidhivat=according-to-rite priyavākyaiḥ=with-pleasant-words pratoṣayet=should-please
+[them](tāṃstu) [having-worshipped](saṃpūjya) [according-to-rule](vidhivatpriyavākyaiḥ) [one-should-please](pratoṣayet)
 
 ## mukta-m0-p17-v406
-śivārthaṃ=for-śiva's-purpose yat=which bhavet=would-be kāryaṃ=work yuṣmākam=of-you api=also tat=that bhavet=would-be
+[for-śiva](śivārthaṃ) [what](yadbhavetkāryaṃ) [for-you](yuṣmākamapi) [that](tadbhavet)
 
 ## mukta-m0-p17-v407
-sukhena=happily gacchatā=going anyatra=elsewhere muktvā=leaving sthānam=place idaṃ=this drumam=tree
+[happily](sukhena) [go](gacchatānyatra) [having-left](muktvā) [place](sthānamidaṃ) [tree](drumam)
 
 ## mukta-m0-p17-v408
-śivaṃ=śiva saṃpūjya=worshipping vidhivat=according-to-rite svapnamāṇavakaṃ=dream-boy vijñāpya=to-be-made-known japet=should-chant
+[śiva](śivaṃ) [having-worshipped](saṃpūjya) [according-to-rule](vidhivatsvapnamāṇavakaṃ) [one-should-recite](japet)
 
 ## mukta-m0-p17-v409
-svapnamāṇavakaṃ=dream-boy rātrau=at-night śatam=hundred aṣṭottaraṃ=plus-eight japet=should-chant
+[svapna-māṇavaka](svapnamāṇavakaṃ) [at-night](rātrau) [hundred](śatamaṣṭottaraṃ) [one-should-recite](japet)
 
 ## mukta-m0-p17-v410
-vāmāya=to-vāma viśvarūpāya=to-universal-form svapnādhipataye=to-lord-of-dreams namaḥ=salutation
+[to-vāmā](vāmāya) [to-viśvarūpa](viśvarūpāya) [1](1) [to-lord-of-dreams](svapnādhipataye) [obeisance](namaḥ)
 
 ## mukta-m0-p17-v411
-kriyāsiddhiṃ=accomplishment-of-rite vidhāsyāmi=I-will-perform tvatprasādāt=by-your-grace maheśvara=O-great-lord
+[success-of-rite](kriyāsiddhiṃ) [I-shall-accomplish](vidhāsyāmi) [by-your-grace](tvatprasādānmaheśvara)
 
 ## mukta-m0-p17-v412
-rudreṇa=by-rudra ca=and anvitaṃ=accompanied svapne=in-dream dṛṣṭvā=seeing vācyaṃ=to-be-spoken śubhaṃ=auspicious sadā=always
+[with-rudra](rudreṇa) [and](cānvitaṃ) [in-dream](svapne) [having-seen](dṛṣṭvā) [to-be-spoken](vācyaṃ) [auspicious](śubhaṃ) [always](sadā)
 
 ## mukta-m0-p17-v413
-kapyuṣṭraiḥ=by-monkeys-and-camels bhakṣamāṇaṃ=being-eaten vā=or taṃ=him tyajet=should-abandon aśubha=inauspicious pradam=giving
+[by-monkeys](kapyuṣṭrairbhakṣamāṇaṃ) [or](vā) [that](taṃ) [one-should-abandon](tyajedaśubha) [giving](pradam)
 
 ## mukta-m0-p17-v414
-juhuyāt=should-offer ca=and tadā=then snātvā=bathing aghoraṃ=aghora doṣanivṛttaye=for-removal-of-fault
+[one-should-offer](juhuyācca) [then](tadā) [having-bathed](snātvāghoraṃ) [for-removal-of-fault](doṣanivṛttaye)
 
 ## mukta-m0-p17-v415
-aindre=in-east saumye=in-northeast tathā=and īśāne=in-northeast avyaktādi=unmanifest-beginning mukhaṃ=face kramāt=in-order
+[in-east](aindre) [in-north](saumye) [and](tatheśāne) [beginning-with-avyakta](avyaktādimukhaṃ) [in-order](kramāt)
 
 ## mukta-m0-p17-v416
-kṣaudra=honey ājya=ghee abhyakta=anointed śastreṇa=with-weapon ghorāstreṇa=with-terrible-weapon abhimantrya=consecrating ca=and
+[with-weapon-smeared-with-honey-and-ghee](kṣaudrājyābhyaktaśastreṇa) [with-ghora-weapon](ghorāstreṇābhimantrya) [and](ca)
 
 ## mukta-m0-p17-v417
-ācāryaḥ=teacher prathamaṃ=first hanyāt=should-strike śivāstraṃ=śiva-weapon saṃjapan=chanting tataḥ=then
+[teacher](ācāryaḥ) [first](prathamaṃ) [should-strike](hanyācchivāstraṃ) [reciting](saṃjapaṃstataḥ)
 
 ## mukta-m0-p17-v418
-vārkṣa=tree mantra=mantra anta=end dikkaṃ=direction ghaṭayet=should-join liṅgam=liṅga ādarāt=with-respect
+[tree](vārkṣa) [mantra](mantrāntadikkaṃ) [(?)](?) [indeed](vai) [one-should-fix](ghaṭayelliṅgamādarāt)
 
 ## mukta-m0-p17-v419
-saṃchindyāt=should-cut patitaṃ=fallen vṛkṣam=tree ajātenaiva=by-unborn bhaktimān=devotee
+[one-should-cut](saṃchindyātpatitaṃ) [tree](vṛkṣamajātenaiva) [devout](bhaktimān)
 
 ## mukta-m0-p17-v420
-gṛhṇīyāt=should-take dāru=wood liṅgārthaṃ=for-liṅga tyajet=should-abandon āpāṇḍaraṃ=pale laghu=light
+[one-should-take](gṛhṇīyāddāru) [for-liṅga](liṅgārthaṃ) [one-should-reject](tyajedāpāṇḍaraṃ) [light](laghu)
 
 ## mukta-m0-p17-v421
-sthāpitaṃ=established viparītaṃ=inverted tu=but rāṣṭravibhramam=confusion-of-realm ādiśet=should-declare
+[placed](sthāpitaṃ) [inverted](viparītaṃ) [but](tu) [confusion-of-realm](rāṣṭravibhramamādiśet)
 
 ## mukta-m0-p17-v422
-adhaḥ=downward śiraḥ=head yadā=when liṅgaṃ=liṅga tadā=then gotrakṣayaḥ=destruction-of-lineage bhavet=would-be
+[below](adhaḥ) [head](śiro) [when](yadā) [liṅga](liṅgaṃ) [then](tadā) [destruction-of-lineage](gotrakṣayo) [may-be](bhavet)
 
 ## mukta-m0-p17-v423
-tataḥ=then digdevatāśāntiṃ=peace-of-direction-deities kuryāt=should-do doṣavimuktaye=for-release-from-fault
+[then](tato) [pacification-of-directional-deities](digdevatāśāntiṃ) [one-should-perform](kuryāddoṣavimuktaye)
 
 ## mukta-m0-p17-v424
-anyadikpātadoṣeṇa=by-fault-of-falling-in-other-direction mucyate=is-released śāntiṃ=peace āpnuyāt=obtains
+[by-fault-of-falling-in-another-direction](anyadikpātadoṣeṇa) [one-is-freed](mucyate) [one-obtains](śāntimāpnuyāt)
 
 ## mukta-m0-p17-v425
-dadyāt=should-give pūrṇāhutiṃ=full-offering ca=and api=also tataḥ=then kāmān=desires avāpnuyāt=obtains
+[one-should-give](dadyātpūrṇāhutiṃ) [and](cāpi) [then](tataḥ) [desires](kāmānavāpnuyāt)

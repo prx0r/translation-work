@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[vaijavāpa](vaijavāpa) [neka](neka) [ityādyāḥ](ityādyāḥ) [śākhā](śākhā) [yajuṣi](yajuṣi) [saṃsthitāḥ](saṃsthitāḥ)
+[vaijavāpa-neka-ity-ādyāḥ](vaijavāpaneketyādyāḥ) [branches](śākhā) [in-yajus](yajuṣi) [situated](saṃsthitāḥ)
 
 ## mukta-m0-p15-v352
-[gānāni](gānānyapi) [api](api) [ca](ca) [catvāri](catvāri) [veda](veda) [āraṇyakaḥ](āraṇyakastathā) [tathā](tathā)
+[songs](gānāny) [also](api) [and](ca) [four](catvāri) [veda](veda) [āraṇyaka](āraṇyakas) [likewise](tathā)
 
 ## mukta-m0-p15-v353
-[santuḥ](santuḥ) [śatakāḥ](śatakāścai) [ca](cai) [brahmaprabhavakāḥ](brahmaprabhavakāḥ) [smṛtāḥ](smṛtāḥ)
+[santu](santuḥ) [śataka](śatakāś) [and](cai) [brahma-born](brahmaprabhavakāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p15-v354
-[śaunakaḥ](śaunakaḥ) [pippalādaḥ](pippalādaśca) [ca](ca) [muñjakeśa-ādayaḥ](muñjakeśādayo'pare) [apare](apare)
+[śaunaka](śaunakaḥ) [pippalāda](pippalādaś) [and](ca) [muñjakeśa-etc.](muñjakeśādayo) [others]('pare)
 
 ## mukta-m0-p15-v355
-[mantrāṇām](mantrāṇā) [yutam](yutaṃ) [sāṣṭaśatam](sāṣṭaśaṃtaṃ) [ca](copari) [upari](upari) [ṣaṭśatam](ṣaṭśatam)
+[of-mantras](mantrāṇā) [joined](yutaṃ) [with-eight-hundred](sāṣṭaśaṃtaṃ) [and-above](copari) [six-hundred](ṣaṭśatam)
 
 ## mukta-m0-p15-v356
-[śivādīnām](śivādīnāṃ) [prayatnena](prayatnena) [hi](hyanyathā) [anyathā](anyathā) [doṣa-dāyakāḥ](doṣadāyakāḥ)
+[of-śiva-etc.](śivādīnāṃ) [with-effort](prayatnena) [indeed](hi) [otherwise](anyathā) [fault-giving](doṣadāyakāḥ)
 
 ## mukta-m0-p15-v357
-[rāṣṭra-rājñaḥ](rāṣṭrarājñobhaveddoṣaḥ) [bhavet](bhaveddoṣaḥ) [doṣaḥ](doṣaḥ) [kartuḥ](kartu) [kārayituḥ](kārayitustathā) [tathā](tathā)
+[of-nation-and-king](rāṣṭrarājño) [would-be](bhaved) [fault](doṣaḥ) [of-doer](kartu) [of-causer](kārayitus) [likewise](tathā)
 
 ## mukta-m0-p15-v358
-[nārakāḥ](nārakāste) [te](te) [samākhyātāḥ](samākhyātāḥ) [kartuḥ](kartuḥ) [kula-anvakārakāḥ](kulānvakārakāḥ)
+[hell-dwellers](nārakās) [they](te) [declared](samākhyātāḥ) [of-doer](kartuḥ) [family-line-destroyers](kulānvakārakāḥ)
 
 ## mukta-m0-p15-v359
-[saṃkīrṇa-vṛttiḥ](saṃkīrṇavṛttirvijñeyastvabhojyaḥ) [vijñeyaḥ](vijñeyastvabhojyaḥ) [tu](tu) [abhojyaḥ](abhojyaḥ) [sarvadā](sarvadā) [budhaiḥ](budhaiḥ)
+[mixed-conduct](saṃkīrṇavṛttir) [to-be-known](vijñeyas) [and-unfit-to-be-eaten-with](tvabhojyaḥ) [always](sarvadā) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p15-v360
-[bahu-rūpasya](bahurūpasya) [mantrasya](mantrasya) [nirdoṣaḥ](nirdoṣo) [vai](vai) [bhavet](bhavettataḥ) [tataḥ](tataḥ)
+[of-bahurūpa](bahurūpasya) [of-mantra](mantrasya) [faultless](nirdoṣo) [indeed](vai) [would-be](bhavet) [then](tataḥ)
 
 ## mukta-m0-p15-v361
-[ācāryaḥ](ācāryo) [gīyate](gīyate) [loke](loke) [na](na) [hi](hyasau) [asau](asau) [pāramārthikaḥ](pāramārthikaḥ)
+[teacher](ācāryo) [is-called](gīyate) [in-the-world](loke) [not](na) [indeed](hi) [he](asau) [in-the-ultimate-sense](pāramārthikaḥ)
 
 ## mukta-m0-p15-v362
-[daiśikāḥ](daiśikāstrividhā) [trividhāḥ](trividhā) [grāhyāḥ](grāhyoḥprāguktā) [prāguktāḥ](prāguktā) [ye](ye) [guru-kramāt](gurukramāt)
+[initiators](daiśikās) [threefold](trividhā) [to-be-accepted](grāhyoḥ) [previously-stated](prāguktā) [who](ye) [by-teacher-lineage](gurukramāt)
 
 ## mukta-m0-p15-v363
-[śiva-tulyaḥ](śivatulyo'pi) [api](api) [sa](sa) [tyājyaḥ](tyājyodagdhahasto) [udagdha-hastaḥ](udagdhahasto) [guruḥ](guruḥsa) [sa](sa) [hi](hi)
+[equal-to-śiva](śivatulyo) [even]('pi) [he](sa) [to-be-rejected](tyājyo) [burnt-hand](dagdhahasto) [teacher](guruḥ) [he](sa) [indeed](hi)
 
 ## mukta-m0-p15-v364
-[pratiṣṭheyuḥ](pratiṣṭheyuḥ) [surān](surānsarvānabhāve) [sarvān](sarvānabhāve) [abhāve](abhāve) [daiśikasya](daiśikasya) [tu](tu)
+[should-consecrate](pratiṣṭheyuḥ) [gods](surān) [all](sarvān) [in-absence](abhāve) [of-initiator](daiśikasya) [but](tu)
 
 ## mukta-m0-p15-v365
-[ṛjuḥ](ṛjurlajjānvitaḥ) [lajjā-anvitaḥ](lajjānvitaḥ) [sādhuḥ](sādhurjitakrodho) [jita-krodhaḥ](jitakrodho) [jita-indriyaḥ](jitendriyaḥ)
+[upright](ṛjur) [endowed-with-modesty](lajjānvitaḥ) [virtuous](sādhur) [conquered-anger](jitakrodho) [conquered-senses](jitendriyaḥ)
 
 ## mukta-m0-p15-v366
-[su-dṛṣṭiḥ](sudṛṣṭiḥ) [kula-jaḥ](kulajo) [dhīmān](dhīmānnodvegī) [na](na) [udvegī](udvegī) [sūkta-tatparaḥ](sūktatatparaḥ)
+[good-sighted](sudṛṣṭiḥ) [of-good-family](kulajo) [wise](dhīmān) [not-agitated](nodvegī) [devoted-to-good-speech](sūktatatparaḥ)
 
 ## mukta-m0-p15-v367
-[prāsādam](prāsādaṃ) [maṇḍapam](maṇḍapaṃ) [dvāram](dvāraṃ) [vidyā-ādyaḥ](vidyādyo) [hi](hi) [sa](sa) [kārukaḥ](kārukaḥ)
+[temple](prāsādaṃ) [pavilion](maṇḍapaṃ) [gate](dvāraṃ) [who](yo) [indeed](hi) [he](sa) [artisan](kārukaḥ)
 
 ## mukta-m0-p15-v368
-[śiva-dharma](śivadharma) [vidhāna-jñaḥ](vidhānajñā) [mūrti-pa](mūrtipā) [daiśika-ādayaḥ](daiśikādayaḥ)
+[śiva-dharma](śivadharma) [rule-knowers](vidhānajñā) [image-guardians](mūrtipā) [initiators-etc.](daiśikādayaḥ)
 
 ## mukta-m0-p15-v369
-[vinītāḥ](vinītā) [nipuṇāḥ](nipuṇā) [dakṣāḥ](dakṣā) [guroḥ-ādeśa-vartinaḥ](gurorādeśavartinaḥ)
+[disciplined](vinītā) [skilled](nipuṇā) [capable](dakṣā) [of-teacher](guror) [command-followers](ādeśavartinaḥ)
 
 ## mukta-m0-p15-v370
-[iti](iti) [lakṣaṇa-sāra-samuccaye](lakṣaṇasārasamuccaye) [kartuḥ-ācārya-ādi-parīkṣā](karturācāryādiparīkṣā) [nāma](nāma) [dvitīyaḥ](dvitīyo) [vidhiḥ](vidhiḥ)
+[thus](iti) [in-lakṣaṇasārasamuccaya](lakṣaṇasārasamuccaye) [of-patron-and-teacher-etc.](karturācāryādiparīkṣā) [named](nāma) [second](dvitīyo) [rule](vidhiḥ)
 
 ## mukta-m0-p15-v371
-[śilā](śilā) [vā](vā) [jāti-bhedena](jātibhedena) [adhunā](adhunaiva) [eva](eva) [nirūpyate](nirūpyate)
+[stone](śilā) [or](vā) [by-class](jāti) [distinction](bhedena) [now](adhunaiva) [is-explained](nirūpyate)
 
 ## mukta-m0-p15-v372
-[kāśmīrī](kāśmīrī) [prāci](prāci) [yāmye](yāmye) [vā](vā) [khadiraḥ](khadiro) [brahma-vṛkṣakaḥ](brahmavṛkṣakaḥ)
+[kāśmīrī](kāśmīrī) [in-east](prāci) [in-south](yāmye) [or](vā) [khadira](khadiro) [brahma-tree](brahmavṛkṣakaḥ)
 
 ## mukta-m0-p15-v373
-[antargata](antargata) [jala-stokam](jalastokaṃ) [sāgneyī](sāgneyī) [rūpataḥ](rūpato) [dharā](dharā)
+[within-contained](antargata) [little-water](jalastokaṃ) [fiery](sāgneyī) [by-form](rūpato) [ground](dharā)
 
 ## mukta-m0-p15-v374
-[saumye](saumye) [toyam](toyaṃ) [ca](ca) [māhendrī](māhendrī) [pīlu-uddāla-snuhī-yutā](pīlūddālasnuhīyutā)
+[in-north](saumye) [water](toyaṃ) [and](ca) [māhendrī](māhendrī) [with-pīlu-uddāla-snuhi](pīlūddālasnuhīyutā)
 
 ## mukta-m0-p15-v375
-[a-tṛṇa-ambu-śagāla-āḍhyā](atṛṇāmbuśagālāḍhyā) [vāyavī](vāyavī) [sā](sā) [mahī](mahī) [smṛtā](smṛtā)
+[without-grass-and-water](atṛṇāmbu) [abounding-in-jackals](śagālāḍhyā) [vāyavī](vāyavī) [that](sā) [earth](mahī) [remembered](smṛtā)
