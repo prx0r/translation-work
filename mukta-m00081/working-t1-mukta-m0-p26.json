@@ -8,23 +8,31 @@
 "tokens": [
 {
 "surface": "avastu",
-"quick_gloss": "non-entity"
+"quick_gloss": "non-existent"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "nahyasatyaṃ",
-"quick_gloss": "not-non-truth"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "satyarūpasya",
-"quick_gloss": "truth-form's"
+"surface": "hi",
+"quick_gloss": "indeed"
+},
+{
+"surface": "asatyaṃ",
+"quick_gloss": "unreal"
+},
+{
+"surface": "satya+rūpasya",
+"quick_gloss": "of-true-nature"
 },
 {
 "surface": "sādhanam",
-"quick_gloss": "means"
+"quick_gloss": "means-of-proof"
 }
 ]
 },
@@ -37,23 +45,15 @@
 "tokens": [
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "likewise"
 },
 {
-"surface": "jagatsamutpattau",
-"quick_gloss": "world's"
+"surface": "jagat+samutpattau",
+"quick_gloss": "in-world-origination"
 },
 {
-"surface": "samutpattau",
-"quick_gloss": "origin"
-},
-{
-"surface": "nimittāntara",
-"quick_gloss": "other-cause"
-},
-{
-"surface": "kalpanā",
-"quick_gloss": "supposition"
+"surface": "nimitta+antara+kalpanā",
+"quick_gloss": "of-another-instrumental-cause"
 }
 ]
 },
@@ -66,7 +66,7 @@
 "tokens": [
 {
 "surface": "pakṣe",
-"quick_gloss": "in-the-alternative"
+"quick_gloss": "in-the-second-alternative"
 },
 {
 "surface": "dvitīye",
@@ -74,19 +74,23 @@
 },
 {
 "surface": "tādrūpyaṃ",
-"quick_gloss": "such-form"
+"quick_gloss": "that-sameness-of-nature"
 },
 {
-"surface": "jaḍatvādiha",
-"quick_gloss": "inertness-etc"
+"surface": "jaḍatva+ādi",
+"quick_gloss": "insentience-etc"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-it"
+"quick_gloss": "of-that"
 },
 {
 "surface": "kaḥ",
-"quick_gloss": "who"
+"quick_gloss": "what"
 }
 ]
 },
@@ -98,15 +102,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ārhatāstu",
-"quick_gloss": "ārhats"
+"surface": "ārhatāḥ",
+"quick_gloss": "of-the-Jains"
 },
 {
-"surface": "jino",
-"quick_gloss": "jina"
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
-"surface": "devo",
+"surface": "jinaḥ",
+"quick_gloss": "Jina"
+},
+{
+"surface": "devaḥ",
 "quick_gloss": "god"
 },
 {
@@ -115,15 +123,15 @@
 },
 {
 "surface": "santi",
-"quick_gloss": "are"
+"quick_gloss": "exist"
 },
 {
 "surface": "pṛthak",
-"quick_gloss": "separate"
+"quick_gloss": "separately"
 },
 {
 "surface": "pṛthak",
-"quick_gloss": "separate"
+"quick_gloss": "separately"
 }
 ]
 },
@@ -135,24 +143,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ityevam",
+"surface": "iti",
 "quick_gloss": "thus"
 },
 {
-"surface": "āhusteṣām",
+"surface": "evam",
+"quick_gloss": "in-this-way"
+},
+{
+"surface": "āhuḥ",
 "quick_gloss": "they-say"
+},
+{
+"surface": "teṣām",
+"quick_gloss": "of-them"
 },
 {
 "surface": "api",
 "quick_gloss": "also"
 },
 {
-"surface": "avidyāyoga",
-"quick_gloss": "ignorance-union"
-},
-{
-"surface": "kalpanam",
-"quick_gloss": "supposition"
+"surface": "avidyā+yoga+kalpanam",
+"quick_gloss": "conception-of-connection-with-ignorance"
 }
 ]
 },
@@ -165,10 +177,10 @@
 "tokens": [
 {
 "surface": "yeṣāṃ",
-"quick_gloss": "whose"
+"quick_gloss": "of-whom"
 },
 {
-"surface": "devo",
+"surface": "devaḥ",
 "quick_gloss": "god"
 },
 {
@@ -176,7 +188,7 @@
 "quick_gloss": "formless"
 },
 {
-"surface": "śūnya",
+"surface": "śūnyaḥ",
 "quick_gloss": "void"
 },
 {
@@ -184,8 +196,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "kimucyate",
-"quick_gloss": "what-is-said"
+"surface": "kim",
+"quick_gloss": "what"
+},
+{
+"surface": "ucyate",
+"quick_gloss": "is-said"
 }
 ]
 },
@@ -197,28 +213,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatrāpi",
-"quick_gloss": "there-too"
+"surface": "tatra",
+"quick_gloss": "there"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "asti",
-"quick_gloss": "is"
+"quick_gloss": "exists"
 },
 {
-"surface": "aviveka",
-"quick_gloss": "non-discrimination"
+"surface": "aviveka+ākhyaḥ",
+"quick_gloss": "called-non-discrimination"
 },
 {
-"surface": "ākhyaḥ",
-"quick_gloss": "named"
-},
-{
-"surface": "malo",
+"surface": "malaḥ",
 "quick_gloss": "impurity"
 },
 {
-"surface": "bandhavimokṣatā",
-"quick_gloss": "bondage-liberation"
+"surface": "bandha+vimokṣatā",
+"quick_gloss": "state-of-bondage-and-liberation"
 }
 ]
 },
@@ -230,20 +246,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nyāyavaiśeṣikāṇāṃ",
-"quick_gloss": "of-nyāya-vaiśeṣika"
+"surface": "nyāya+vaiśeṣikāṇāṃ",
+"quick_gloss": "of-the-Nyāya-and-Vaiśeṣikas"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "but"
 },
 {
-"surface": "bandhamokṣau",
-"quick_gloss": "bondage-liberation"
+"surface": "bandha+mokṣau",
+"quick_gloss": "bondage-and-liberation"
 },
 {
-"surface": "pṛthaksthitī",
-"quick_gloss": "separate-states"
+"surface": "pṛthak+sthitī",
+"quick_gloss": "separately-situated"
 }
 ]
 },
@@ -255,12 +271,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃvittiśūnyabrahmatvavādināṃ",
-"quick_gloss": "of-consciousness-void-brahman-doctrine"
+"surface": "saṃvitti+śūnya+brahmatva+vādināṃ",
+"quick_gloss": "of-those-who-assert-Brahman-devoid-of-consciousness"
 },
 {
-"surface": "jaḍataiva",
-"quick_gloss": "inertness"
+"surface": "jaḍatā",
+"quick_gloss": "insentience"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "sā",
@@ -276,24 +296,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kālakāraṇikānāṃ",
-"quick_gloss": "of-time-causalists"
+"surface": "kāla+kāraṇikānāṃ",
+"quick_gloss": "of-those-who-hold-time-as-cause"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "but"
 },
 {
 "surface": "nāmatā",
-"quick_gloss": "name-ness"
+"quick_gloss": "mere-name"
+},
+{
+"surface": "atha",
+"quick_gloss": "or"
+},
+{
+"surface": "vā",
+"quick_gloss": "insentience"
 },
 {
 "surface": "jaḍatā",
-"quick_gloss": "inertness"
-},
-{
-"surface": "athavā",
-"quick_gloss": "or"
+"quick_gloss": "insentience"
 }
 ]
 },
@@ -313,16 +337,16 @@
 "quick_gloss": "if"
 },
 {
-"surface": "citpakṣapātaḥ",
-"quick_gloss": "mind-side-inclination"
+"surface": "cit+pakṣapātaḥ",
+"quick_gloss": "partiality-to-consciousness"
 },
 {
 "surface": "prāpnuyāt",
-"quick_gloss": "would-obtain"
+"quick_gloss": "it-would-obtain"
 },
 {
 "surface": "satataṃ",
-"quick_gloss": "always"
+"quick_gloss": "constant"
 },
 {
 "surface": "grahaḥ",
@@ -342,12 +366,12 @@
 "quick_gloss": "who"
 },
 {
-"surface": "bāhyavādino",
-"quick_gloss": "externalists"
+"surface": "bāhya+vādinaḥ",
+"quick_gloss": "externalist"
 },
 {
-"surface": "bauddhāste",
-"quick_gloss": "buddhists"
+"surface": "bauddhāḥ",
+"quick_gloss": "Buddhists"
 },
 {
 "surface": "te",
@@ -359,7 +383,7 @@
 },
 {
 "surface": "samupāśritāḥ",
-"quick_gloss": "resort-to"
+"quick_gloss": "have-resorted-to"
 }
 ]
 },
@@ -372,23 +396,35 @@
 "tokens": [
 {
 "surface": "bahiḥ",
-"quick_gloss": "outside"
+"quick_gloss": "external"
 },
 {
 "surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
-"surface": "nahyasatyaṃ",
-"quick_gloss": "not-non-truth"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "hi",
+"quick_gloss": "indeed"
+},
+{
+"surface": "asatyaṃ",
+"quick_gloss": "unreal"
 },
 {
 "surface": "satyāt",
-"quick_gloss": "truth"
+"quick_gloss": "from-the-real"
 },
 {
-"surface": "bhavitumarhati",
-"quick_gloss": "to-become"
+"surface": "bhavitum",
+"quick_gloss": "to-arise"
+},
+{
+"surface": "arhati",
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -405,15 +441,15 @@
 },
 {
 "surface": "karaṇatvena",
-"quick_gloss": "instrumentality"
+"quick_gloss": "by-being-an-instrument"
 },
 {
-"surface": "kartrapekṣā",
-"quick_gloss": "agent-dependence"
+"surface": "kartṛ+apekṣā",
+"quick_gloss": "dependence-on-an-agent"
 },
 {
 "surface": "prasajyate",
-"quick_gloss": "is-entailed"
+"quick_gloss": "follows"
 }
 ]
 },
@@ -425,20 +461,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvirūpatve",
-"quick_gloss": "in-two-forms"
+"surface": "dvi+rūpatve",
+"quick_gloss": "in-the-state-of-having-two-natures"
 },
 {
-"surface": "viruddhatva",
-"quick_gloss": "contradiction"
-},
-{
-"surface": "saṃkramatvaṃ",
-"quick_gloss": "transmigration"
+"surface": "viruddhatva+saṃkramatvaṃ",
+"quick_gloss": "transition-to-contradictoriness"
 },
 {
 "surface": "pravartate",
-"quick_gloss": "proceeds"
+"quick_gloss": "occurs"
 }
 ]
 },
@@ -450,24 +482,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nacāpi",
-"quick_gloss": "nor"
+"surface": "na",
+"quick_gloss": "and-not"
 },
 {
-"surface": "kṣaṇabhaṃgitve",
+"surface": "ca",
+"quick_gloss": "also"
+},
+{
+"surface": "api",
+"quick_gloss": "in-momentariness"
+},
+{
+"surface": "kṣaṇa+bhaṃgitve",
 "quick_gloss": "in-momentariness"
 },
 {
 "surface": "yuktā",
-"quick_gloss": "fitting"
+"quick_gloss": "is-fitting"
 },
 {
 "surface": "vaināśikī",
-"quick_gloss": "vaināśikī"
+"quick_gloss": "nihilistic"
 },
 {
 "surface": "sthitiḥ",
-"quick_gloss": "state"
+"quick_gloss": "position"
 }
 ]
 },
@@ -483,20 +523,20 @@
 "quick_gloss": "of-knowledge"
 },
 {
-"surface": "ekakṣaṇe",
-"quick_gloss": "one-moment"
+"surface": "eka+kṣaṇe",
+"quick_gloss": "in-a-single-moment"
 },
 {
 "surface": "yuktā",
-"quick_gloss": "fitting"
+"quick_gloss": "is-fitting"
 },
 {
-"surface": "taddvitvena",
-"quick_gloss": "by-its-twofoldness"
+"surface": "tat+dvitvena",
+"quick_gloss": "by-its-duality"
 },
 {
-"surface": "kṣaṇakṣayaḥ",
-"quick_gloss": "moment-decay"
+"surface": "kṣaṇa+kṣayaḥ",
+"quick_gloss": "destruction-of-the-moment"
 }
 ]
 },
@@ -509,27 +549,27 @@
 "tokens": [
 {
 "surface": "vinaṣṭatvāt",
-"quick_gloss": "destroyed"
-},
-{
-"surface": "phalaṃ",
-"quick_gloss": "fruit"
+"quick_gloss": "because-of-having-perished"
 },
 {
 "surface": "kasya",
 "quick_gloss": "of-whom"
 },
 {
-"surface": "kramāt",
-"quick_gloss": "gradually"
-},
-{
-"surface": "karmaphale",
-"quick_gloss": "action-fruit"
+"surface": "phalaṃ",
+"quick_gloss": "fruit"
 },
 {
 "surface": "yataḥ",
 "quick_gloss": "since"
+},
+{
+"surface": "kramāt",
+"quick_gloss": "in-sequence"
+},
+{
+"surface": "karma+phale",
+"quick_gloss": "in-the-fruit-of-action"
 }
 ]
 },
@@ -541,20 +581,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "grāhyagrāhakasaṃvittiḥ",
-"quick_gloss": "grasper-grasped-consciousness"
+"surface": "grāhya+grāhaka+saṃvitteḥ",
+"quick_gloss": "of-the-consciousness-of-grasped-and-grasper"
 },
 {
-"surface": "bhedavān",
-"quick_gloss": "differentiated"
-},
-{
-"surface": "iva",
-"quick_gloss": "iva"
+"surface": "bhedavān+iva",
+"quick_gloss": "as-if-possessing-difference"
 },
 {
 "surface": "lakṣyate",
-"quick_gloss": "is-indicated"
+"quick_gloss": "appears"
 }
 ]
 },
@@ -566,20 +602,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāsanārūpayā",
-"quick_gloss": "by-latency-form"
+"surface": "vāsanā+rūpayā",
+"quick_gloss": "by-the-form-of-latent-impression"
 },
 {
 "surface": "śuddhe",
-"quick_gloss": "pure"
+"quick_gloss": "in-the-pure"
 },
 {
-"surface": "nāśuddhā",
-"quick_gloss": "not-impure"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "aśuddhā",
+"quick_gloss": "impure"
 },
 {
 "surface": "vāsanā",
-"quick_gloss": "latency"
+"quick_gloss": "latent-impression"
 },
 {
 "surface": "bhavet",
@@ -599,11 +639,11 @@
 "quick_gloss": "arises"
 },
 {
-"surface": "prathama",
+"surface": "prathamā",
 "quick_gloss": "first"
 },
 {
-"surface": "iva",
+"surface": "eva",
 "quick_gloss": "indeed"
 },
 {
@@ -611,12 +651,16 @@
 "quick_gloss": "desire"
 },
 {
-"surface": "nāmājātasya",
-"quick_gloss": "of-unborn"
+"surface": "na+ama",
+"quick_gloss": "of-the-unborn"
+},
+{
+"surface": "ajātasya",
+"quick_gloss": "of-the-unborn"
 },
 {
 "surface": "yādṛśī",
-"quick_gloss": "such"
+"quick_gloss": "of-what-kind"
 }
 ]
 },
@@ -632,28 +676,28 @@
 "quick_gloss": "not"
 },
 {
-"surface": "ghaṭo",
+"surface": "ghaṭaḥ",
 "quick_gloss": "pot"
 },
 {
-"surface": "nirviśeṣo",
-"quick_gloss": "without-distinction"
+"surface": "nirviśeṣaḥ",
+"quick_gloss": "without-particularity"
 },
 {
 "surface": "asti",
-"quick_gloss": "asti"
+"quick_gloss": "exists"
 },
 {
 "surface": "grahe",
-"quick_gloss": "in-grasping"
+"quick_gloss": "in-cognition"
 },
 {
-"surface": "yaj",
-"quick_gloss": "which"
+"surface": "yat",
+"quick_gloss": "since"
 },
 {
-"surface": "jñātṛśuddhatā",
-"quick_gloss": "knower-purity"
+"surface": "jñātṛ+śuddhatā",
+"quick_gloss": "purity-of-the-knower"
 }
 ]
 },
@@ -666,15 +710,15 @@
 "tokens": [
 {
 "surface": "pratibhāsasya",
-"quick_gloss": "of-appearance"
+"quick_gloss": "because-of-the-variety-of-appearance"
 },
 {
 "surface": "vaicitryāt",
-"quick_gloss": "variety"
+"quick_gloss": "because-of-variety"
 },
 {
-"surface": "yugapadgrahaṇaṃ",
-"quick_gloss": "simultaneous-grasping"
+"surface": "yugapad+grahaṇaṃ",
+"quick_gloss": "simultaneous-cognition"
 },
 {
 "surface": "katham",
@@ -699,11 +743,11 @@
 },
 {
 "surface": "saṃparicchede",
-"quick_gloss": "in-delimitation"
+"quick_gloss": "in-determination"
 },
 {
-"surface": "kṣaṇadvaidham",
-"quick_gloss": "moment-twofoldness"
+"surface": "kṣaṇa+dvaidham",
+"quick_gloss": "duality-of-moment"
 },
 {
 "surface": "atha",
@@ -711,7 +755,7 @@
 },
 {
 "surface": "ucyate",
-"quick_gloss": "is-said"
+"quick_gloss": "is-stated"
 }
 ]
 },
@@ -723,24 +767,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nacārthajāte",
-"quick_gloss": "nor"
+"surface": "na",
+"quick_gloss": "and-not"
 },
 {
-"surface": "arthajāte",
-"quick_gloss": "in-thing-class"
+"surface": "ca",
+"quick_gloss": "in-the-class-of-objects"
+},
+{
+"surface": "artha+jāte",
+"quick_gloss": "in-the-class-of-objects"
 },
 {
 "surface": "avastutvaṃ",
-"quick_gloss": "non-entity"
+"quick_gloss": "unreality"
 },
 {
-"surface": "nāvastugrahaṇādaraḥ",
+"surface": "na",
 "quick_gloss": "nor"
 },
 {
-"surface": "avastugrahaṇādaraḥ",
-"quick_gloss": "non-entity-grasping-regard"
+"surface": "avastu+grahaṇa+ādaraḥ",
+"quick_gloss": "regard-for-cognition-of-the-unreal"
 }
 ]
 }

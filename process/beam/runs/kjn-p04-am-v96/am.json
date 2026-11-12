@@ -1,12 +1,15 @@
 {
  "song": "kjn-p04",
  "verse": 96,
- "question": "What specific purposes are served by the white form of this visualization?",
+ "question": "For what purpose is the white wheel declared, and what special effect does it produce?",
  "premises": [
-  "The white form is declared for nourishment.",
-  "The white form especially causes peace."
+  "The white wheel is declared in relation to nourishment.",
+  "It is declared especially for that purpose.",
+  "It causes peace."
  ],
- "inference": "The white form is prescribed for nourishment and especially for producing peace.",
- "uncertainties": [],
- "plain_english": "The white form is declared for nourishment and especially for causing peace."
+ "inference": "The white wheel is declared especially for nourishment and as a cause of peace.",
+ "uncertainties": [
+  "The relation between nourishment and peace is not explained here."
+ ],
+ "plain_english": "The white wheel is declared for nourishment, especially as a cause of peace."
 }

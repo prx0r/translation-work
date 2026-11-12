@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[knowledge-form-indestructibility](vidyārūpādanāśitvaṃ) [not](nahi) [truth](tattvaṃ) [perishable](vinaśvaram)
+knowledge-form+non-perishability(vidyārūpādanāśitvaṃ) not(nahi) reality(tattvaṃ) perishable(vinaśvaram)
 
 ## mukta-m0-p27-v652
-[agency](kartṛtā) [there](tatra) [lamp-etc](dīpādeḥ) [instrumentality](karaṇatvaṃ) [its-seeing](tadīkṣaṇe)
+agency(kartṛtā) there(tatra) of-lamp-etc.(dīpādeḥ) instrumentality(karaṇatvaṃ) in-its-perception(tadīkṣaṇe)
 
 ## mukta-m0-p27-v653
-[of-knowledge](jñānasya) [instrumentality](karaṇatvena) [would-be](bhavecced) [non-stability](anavasthitiḥ)
+of-knowledge(jñānasya) by-instrumentality(karaṇatvena) if-it-were(bhavet) if(ced) non-finality(anavasthitiḥ)
 
 ## mukta-m0-p27-v654
-[in-existence](bhāve) [how](kathaṃ) [perishability](vināśitvaṃ) [would-be](syād) [without](vinā) [other-cause](kāraṇāntaram)
+in-existence(bhāve) how(kathaṃ) perishability(vināśitvaṃ) would-be(syāt) without(vinā) another-cause(kāraṇāntaram)
 
 ## mukta-m0-p27-v655
-[arising](udbhavo) [perishability](naśvaratvaṃ) [and](ca) [two](dvau) [natures](svabhāvau) [how](kathaṃ) [thus](tathā)
+arising(udbhavo) perishability(naśvaratvaṃ) and(ca) two(dvau) natures(svabhāvau) how(kathaṃ) thus(tathā)
 
 ## mukta-m0-p27-v656
-[having-done](kṛtvā) [effect](kāryaṃ) [would-perish](vinaśyeccet) [moment-after](kṣaṇāntaram) [non-stability](avasthitiḥ)
+having-done(kṛtvā) effect(kāryaṃ) it-would-perish(vinaśyet) if(cet) for-another-moment(kṣaṇāntaram) persistence(avasthitiḥ)
 
 ## mukta-m0-p27-v657
-[other-cause-bornness](kāraṇāntarajanyatve) [other-cause-association](kāraṇāntarasaṃgatā)
+in-being-produced-by-another-cause(kāraṇāntarajanyatve) connection-with-another-cause(kāraṇāntarasaṃgatā)
 
 ## mukta-m0-p27-v658
-[not](na) [from-pot](ghaṭād) [pot-production](ghaṭasambhūtiḥ) [due-to-inherence-etc](samavāyādyapekṣayā)
+not(na) from-pot(ghaṭāt) pot-production(ghaṭasambhūtiḥ) by-dependence-on-inherence-etc.(samavāyādyapekṣayā)
 
 ## mukta-m0-p27-v659
-[of-destroyed](naṣṭasya) [that-non-agency](tadakartṛtvam) [of-undestroyed](anaṣṭasya) [own-formness](svarūpitā)
+of-the-destroyed(naṣṭasya) its-non-agency(tadakartṛtvam) of-the-undestroyed(anaṣṭasya) self-nature(svarūpitā)
 
 ## mukta-m0-p27-v660
-[due-to-similarity](sādṛśyād) [deluded](bhrāntam) [sense](akṣaṃ) [ced](ced) [defective](duṣṭaṃ) [prior-grasp](prāggrahe) [as](yathā)
+from-similarity(sādṛśyāt) erroneous(bhrāntam) eye(akṣaṃ) if(cet) undefective(aduṣṭaṃ) as-in-previous-cognition(prāggrahe) as(yathā)
 
 ## mukta-m0-p27-v661
-[in-lamp-flame-heaps](dīpajvālāsamūheṣu) [trembling](kampanaṃ) [not](na) [perishability](vināśitā)
+in-masses-of-lamp-flames(dīpajvālāsamūheṣu) flickering(kampanaṃ) not(na) destruction(vināśitā)
 
 ## mukta-m0-p27-v662
-[in-presence](sannidhau) [made-potent](kṛtaśaktitvād) [of-many](anekeṣāṃ) [thus-standing](tathāsthiteḥ)
+in-proximity(sannidhau) due-to-exerted-power(kṛtaśaktitvāt) of-many(anekeṣāṃ) thus(tathā) persistence(asthiteḥ)
 
 ## mukta-m0-p27-v663
-[difference](vailakṣaṇyam) [novelty](apūrvatvaṃ) [external-manifestation-activity-arising](bāhyābhāsakriyodgamāt)
+distinctness(vailakṣaṇyam) novelty(apūrvatvaṃ) from-arising-of-external-appearance-activity(bāhyābhāsakriyodgamāt)
 
 ## mukta-m0-p27-v664
-[there](tatra) [standing](sthitau) [unreality](astutā) [ced](cenn) [not-saidness](noktatvād) [in-these](eṣu) [reality](vastutā)
+there(tatra) if-unreality-of-what-is-situated(sthitāvastutā) if(cet) not(na) due-to-being-stated(uktatvāt) in-these(eṣu) reality(vastutā)
 
 ## mukta-m0-p27-v665
-[perishes](naśyaty) [in-self](ātmany) [not-acting](akurvan) [or](vā) [thus](tadevaṃ) [standing](sthita) [indeed](eva) [he](saḥ)
+it-perishes(naśyati) in-the-self(ātmani) not-doing(akurvan) or(vā) that(tat) thus(evaṃ) remaining(sthitaḥ) indeed(eva) he(saḥ)
 
 ## mukta-m0-p27-v666
-[non-other](ananyṃ) [distinct](vyatiriktaṃ) [or](vā) [when](yarhi) [non-other](ananyaḥ) [such](tathāvidhaḥ)
+non-different(ananyaṃ) different(vyatiriktaṃ) or(vā) when(yarhi) non-different(ananyaḥ) of-such-nature(tathāvidhaḥ)
 
 ## mukta-m0-p27-v667
-[by-self](ātmanā) [by-other](parato) [or](vāpi) [in-destruction](vināśe) [here-too](atrāpi) [such](tādṛśāḥ)
+by-itself(ātmanā) from-another(parataḥ) or(vā) also(api) in-destruction(vināśe) here(atra) also(api) of-such-kind(tādṛśāḥ)
 
 ## mukta-m0-p27-v668
-[there-too](tatrāpi) [something](kiṃcit) [doing](kurvan) [what](kiṃ) [he](sa) [perishes](naśyati) [such](tathāvidhāḥ)
+there-too(tatrāpi) doing-something(kiṃcitkurvan) what(kim) he(saḥ) perishes(naśyati) of-such-kind(tathāvidhāḥ)
 
 ## mukta-m0-p27-v669
-[pot](ghaṭa) [indeed](eva) [instrumentality](karaṇatve) [aggregate](sāmagrī) [produces](janiketi) [they](te)
+pot(ghaṭaḥ) indeed(eva) in-instrumentality(karaṇatve) aggregate(sāmagrī) productive(janikā) thus(iti) for-you(te)
 
 ## mukta-m0-p27-v670
-[by-many](bahubhiḥ) [then](tarhi) [trivial](tucchaṃ) [indeed](hi) [pot](ghaṭo) [api](api) [how](katham) [would-produce](janayet)
+by-many(bahubhiḥ) then(tarhi) futile(tucchaṃ) indeed(hi) pot(ghaṭaḥ) also(api) would-produce(janayet) how(katham)
 
 ## mukta-m0-p27-v671
-[clay-lump](mṛtpiṇḍasya) [pot-arising](ghaṭotpattau) [being](sati) [that-production-nature](tajjananātmake)
+of-clay-lump(mṛtpiṇḍasya) in-production-of-pot(ghaṭotpattau) being(sati) in-that-which-consists-of-its-production(tajjananātmake)
 
 ## mukta-m0-p27-v672
-[of-pot](ghaṭasya) [perishable-nature](naśvarātmatve) [hammer-etc](mudgarāder) [dependence](apekṣaṇam)
+of-pot(ghaṭasya) in-state-of-perishable-nature(naśvarātmatve) dependence-on-hammer-etc.(mudgarāderapekṣaṇam)
 
 ## mukta-m0-p27-v673
-[its-destruction](tadanāśe) [not](na) [something](kiṃcit) [would-be](syād) [pot](ghaṭa) [indeed](eva) [not](na) [is-born](jāyate)
+in-its-non-destruction(tadanāśe) not(na) anything(kiṃcit) would-be(syāt) pot(ghaṭaḥ) indeed(eva) not(na) is-produced(jāyate)
 
 ## mukta-m0-p27-v674
-[self](svayaṃ) [would-perish](vinaśyen) [clay-lump](mṛtpiṇḍa) [indeed](evaṃ) [ced](cetsa) [perishes](vinaśyati)
+by-itself(svayaṃ) it-would-perish(vinaśyet) clay-lump(mṛtpiṇḍaḥ) thus(evaṃ) if(cet) it(saḥ) perishes(vinaśyati)
 
 ## mukta-m0-p27-v675
-[not-having-done](akṛtvā) [non-instrument](akaraṇaṃ) [in-pot](kumbhe) [having-done](kṛtvā) [its](tasya) [own-formness](svarūpitā)
+without-having-done(akṛtvā) non-doing(akaraṇaṃ) in-pot(kumbhe) having-done(kṛtvā) its(tasya) self-nature(svarūpitā)

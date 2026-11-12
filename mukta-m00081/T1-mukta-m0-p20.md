@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[instrumentality](karaṇatvāt) [inertness](jaḍatvāt) [and](ca) [of-that](tasya) [if](ced) [by-self](ātmanā) [here](atra) [what](kim)
+[because-of-instrumentality+because-of-insentience+and](karaṇatvājjaḍatvācca) [of-that](tasya) [if+by-the-self+here](cedātmanātra) [what](kim)
 
 ## mukta-m0-p20-v477
-[of-intellect](buddheḥ) [quality-ness](guṇatvam) [in-mind](manasi) [would-obtain](prāpnuyāt) [then](atha) [by-consciousness](cetasā)
+[of-the-intellect+quality-ness](buddherguṇatvaṃ) [in-the-mind](manasi) [would-obtain+then](prāpnuyādatha) [by-consciousness](cetasā)
 
 ## mukta-m0-p20-v478
-[that](tad) [thus](evam) [of-previously-seen](pūrvadṛṣṭasya) [description](varṇanā) [dissimilar](asadṛśam) [would-be](bhavet)
+[thus+indeed](tadevaṃ) [of-what-was-seen-before](pūrvadṛṣṭasya) [like-a-description](varṇanāsadṛśaṃ) [would-be](bhavet)
 
 ## mukta-m0-p20-v479
-[own-self](svātma) [power](śakti) [from-immersion](samāveśāt) [formless](amūrtā) [immersion-ness](āveśatā) [how](katham)
+[from-immersion-in-one's-own-power](svātmaśaktisamāveśādamūrtāveśatā) [how](katham)
 
 ## mukta-m0-p20-v480
-[that-nature](tatsvarūpa) [self](ātma) [union](saṃyogaḥ) [union](saṃyogaḥ) [non-distinct](abhinna) [of-places](deśayoḥ)
+[union-with-the-self-of-that-nature](tatsvarūpātmasaṃyogaḥ) [conjunction+of-those-having-non-different-location](saṃyogo'bhinnadeśayoḥ)
 
 ## mukta-m0-p20-v481
-[described](varṇite) [yogi-ness](yogitā) [of-whom](kasya) [if](yadi) [or](vā) [from-that-nature](tatsvarūpataḥ)
+[when-described](varṇite) [yogi-ness](yogitā) [of-whom](kasya) [or](yadi) [or](vā) [by-that-nature](tatsvarūpataḥ)
 
 ## mukta-m0-p20-v482
-[that-form](tadrūpam) [in-self](ātmani) [this](etat) [by-which](yena) [non-contact](aśleṣaḥ) [if](yadi) [and](ca) [is-said](ucyate)
+[that-form](tadrūpam) [in-the-self](ātmanyetadyenāśleṣo) [if](yadi) [and+is-said](cocyate)
 
 ## mukta-m0-p20-v483
-[what](kim) [itself](svayam) [that](tat) [knowability](prameyatvam) [of-this](asya) [if](ced) [from-excess](atirekataḥ)
+[what](kiṃ) [by-itself](svayaṃ) [its-being-an-object-of-knowledge](tatprameyatvamasya) [if+from-difference](cedatirekataḥ)
 
 ## mukta-m0-p20-v484
-[thus](evam) [that](tad) [blind](andha) [succession](pāramparya) [ness](tva) [form](rūpam) [this](idam) [clear](sphuṭam)
+[thus](evaṃ) [this+of-the-nature-of-blind-tradition](tadandhapāramparyatvarūpamidaṃ) [clearly](sphuṭam)
 
 ## mukta-m0-p20-v485
-[known](jñāte) [but](tu) [knowledge](jñāna) [from-form-ness](rūpatvāt) [impulsion](preraṇam) [by-what](kena) [by-cause](hetunā)
+[when-known](jñāte) [but](tu) [because-of-being-of-the-nature-of-knowledge](jñānarūpatvāt) [impelling](preraṇaṃ) [by-what](kena) [reason](hetunā)
 
 ## mukta-m0-p20-v486
-[impelled](prerya) [impulsion](preraṇa) [that](tat) [agent](kartṛ) [two](dvaya) [from-unity](aikyāt) [is-established](upapadyate)
+[because-of-the-identity-of-the-two+the-impelled+the-impelling+and-their-agent](preryapreraṇatatkartṛdvayaikyādupapadyate) [is-possible](upapadyate)
 
 ## mukta-m0-p20-v487
-[thus](tathā) [memory](smaraṇa) [from-union](yogāt) [and](ca) [is-remembered](smaryate) [what](kim) [such](tathāvidham)
+[likewise](tathā) [and+from-connection-with-memory](smaraṇayogācca) [is-remembered](smaryate) [what](kiṃ) [of-such-a-kind](tathāvidham)
 
 ## mukta-m0-p20-v488
-[seen](dṛṣṭa) [of-memory](smaraṇayoḥ) [in-unity](aikye) [established](sthite) [that](tat) [is-established](upapadyate)
+[when-the-identity+of-seeing-and-remembering](dṛṣṭasmaraṇayoraikye) [is-established](sthite) [that](tad) [is-possible](upapadyate)
 
 ## mukta-m0-p20-v489
-[is-fitted](yujyate) [how](katham) [here](atra) [indeed](eva) [of-knowledges](jñānayoḥ) [time](kāla) [of-distinct](bhinnayoḥ)
+[is-fitting](yujyate) [how+here+indeed](kathamatraiva) [of-the-two-cognitions](jñānayoḥ) [differing-in-time](kālabhinnayoḥ)
 
 ## mukta-m0-p20-v490
-[in-non-unity](anaikye) [not](na) [that](saḥ) [indeed](eva) [this](ayam) [thus](iti) [would-be](syāt) [pot](ghaṭa) [of-sticks](daṇḍayoḥ)
+[in-non-identity](anaikye) [not](na) [he](sa) [indeed+this](evāyam) [thus](iti) [would-be+as-of-pot-and-stick](syādghaṭadaṇḍayoḥ)
 
 ## mukta-m0-p20-v491
-[this](eṣā) [indeed](eva) [news](vārtā) [in-union](saṃyoge) [thing](vastu) [by-form-ness](rūpatayā) [established](sthite)
+[this+indeed](eṣaiva) [statement](vārtā) [in-conjunction](saṃyoge) [as-the-nature-of-a-thing](vasturūpatayā) [when-established](sthite)
 
 ## mukta-m0-p20-v492
-[therefore](tasmāt) [all](samasta) [of-beings](bhāvānām) [by-unity](aikyena) [indeed](eva) [is](asti) [union](saṃgamaḥ)
+[therefore](tasmāt) [of-all-beings](samastabhāvānām) [by-identity+alone+there-is](aikyenaivāsti) [connection](saṃgamaḥ)
 
 ## mukta-m0-p20-v493
-[other](para) [mind](citta) [from-complete-knowledge](parijñānāt) [therefore](tasmāt) [knowable](jñeya) [unity-ness](aikyatā) [then](tataḥ)
+[from-the-knowledge-of-another's-mind](paracittaparijñānāt) [therefore](tasmāt) [identity-of-the-knowable](jñeyaikyatā) [then](tataḥ)
 
 ## mukta-m0-p20-v494
-[daily-portion](māhnikam) [complete](sampūrṇam)
+[the-chapter](māhnikaṃ) [completed](sampūrṇam)
 
 ## mukta-m0-p20-v495
-[coherence](samanvayaḥ) [is](asti) [that](tat) [this](idam) [how](katham) [unity](aikyam) [differentiated](vibheditam)
+[there-is-connection](samanvayo'sti) [this+that](tadidaṃ) [how](katham) [identity](aikyaṃ) [differentiated](vibheditam)
 
 ## mukta-m0-p20-v496
-[as](yathā) [in-all](sarveṣu) [in-beings](bhāveṣu) [equality](samatā) [is](asti) [one](eka) [form-ness](rūpatā)
+[just-as](yathā) [in-all](sarveṣu) [beings](bhāveṣu) [equality+there-is+of-one-nature](samatāstyekarūpatā)
 
 ## mukta-m0-p20-v497
-[from-consciousness](cittvāt) [all](sarva) [of-categories](padārthānām) [difference](viśeṣaḥ) [by-what](kena) [let-be-said](kathyatām)
+[because-of-consciousness](cittvāt) [of-all-things](sarvapadārthānāṃ) [difference](viśeṣaḥ) [by-what](kena) [should-be-stated](kathyatām)
 
 ## mukta-m0-p20-v498
-[desirous](icchāvantaḥ) [all](sarve) [indeed](eva) [pervasive](vyāpakāḥ) [and](ca) [all-encompassing](samastakāḥ)
+[possessing-will](icchāvantaḥ) [all](sarve) [indeed](eva) [and-pervasive](vyāpakāśca) [all-comprising](samastakāḥ)
 
 ## mukta-m0-p20-v499
-[origin](prabhavaḥ) [and](ca) [thus](tathā) [all](sarve) [desire](icchā) [reflection](marśāḥ) [thus](tathā) [all](akhilāḥ)
+[and-sources](prabhavaśca) [likewise](tathā) [all](sarve) [consisting-of-will-and-awareness](icchāmarśāstathākhilāḥ)
 
 ## mukta-m0-p20-v500
-[expansion](vikāsa) [joy](āhlāda) [possessing](vantaḥ) [and](ca) [all](sarve) [bliss](nirvṛti) [yoked](yoginaḥ)
+[and-possessing-expansion-and-delight](vikāsāhlādavantaśca) [all](sarve) [endowed-with-bliss](nirvṛtiyoginaḥ)
