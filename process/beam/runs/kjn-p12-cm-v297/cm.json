@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kula",
-   "morph": "compound: kula+kula",
+   "morph": "compound:kula+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "vijñāna",
-   "morph": "compound: vijñāna+knowledge",
-   "grounds": "middle member of compound"
+   "morph": "compound:vijñāna+middle",
+   "grounds": "member of compound"
   },
   {
    "lemma": "saṃbhogāt",
-   "morph": "m.abl.sg",
-   "grounds": "ablative singular masculine"
+   "morph": "compound:saṃbhoga+final;m.abl.sg",
+   "grounds": "means of attainment"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound: ṣaṇ+six",
-   "grounds": "first member of compound"
+   "morph": "compound:ṣaṣ+first",
+   "grounds": "numeral modifying months"
   },
   {
    "lemma": "māsāt",
-   "morph": "m.abl.sg",
-   "grounds": "ablative singular masculine"
+   "morph": "compound:māsa+second;m.abl.sg",
+   "grounds": "time period"
   },
   {
    "lemma": "siddhi",
-   "morph": "compound: siddhi+accomplishment",
+   "morph": "compound:siddhi+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "bhājanaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular masculine"
+   "morph": "compound:bhājana+second;m.nom.sg",
+   "grounds": "resulting status"
   }
  ]
 }

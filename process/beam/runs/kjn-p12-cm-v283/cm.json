@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "yoginī",
-   "morph": "compound: yoginī+yoginī",
+   "morph": "compound:yoginī+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "gaṇa",
-   "morph": "compound: gaṇa+group",
-   "grounds": "middle member of compound"
+   "morph": "compound:gaṇa+middle",
+   "grounds": "member of compound"
   },
   {
    "lemma": "madhyasthaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular masculine"
+   "morph": "compound:madhyastha+final;m.acc.sg",
+   "grounds": "describes the animal's position"
   },
   {
    "lemma": "sa",
    "morph": "m.nom.sg",
-   "grounds": "demonstrative pronoun"
+   "grounds": "demonstrative subject"
   },
   {
    "lemma": "paśuḥ",
    "morph": "m.nom.sg",
-   "grounds": "nominative singular masculine"
+   "grounds": "subject termed"
   },
   {
    "lemma": "kīrtitaṃ",
-   "morph": "n.nom.sg.ppp √kīrt",
-   "grounds": "past passive participle from √kīrt"
+   "morph": "n.nom.sg.past-passive-participle √kīrt",
+   "grounds": "declared designation"
   },
   {
    "lemma": "kule",
    "morph": "n.loc.sg",
-   "grounds": "locative singular neuter"
+   "grounds": "doctrinal context"
   }
  ]
 }

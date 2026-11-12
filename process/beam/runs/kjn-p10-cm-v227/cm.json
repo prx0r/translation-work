@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound=candra+first-member",
+   "morph": "compound-member",
    "grounds": "first member of place name"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound=dvīpa+second-member",
+   "morph": "m.loc.sg+compound-member",
    "grounds": "second member of place name"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg",
-   "grounds": "locative participle describing origin"
+   "morph": "m.loc.sg.past-participle √gam+vi+nis",
+   "grounds": "having come forth or been revealed"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal number"
+   "grounds": "ordinal number of the chapter"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject of colophon"
+   "grounds": "section of the text"
   }
  ]
 }

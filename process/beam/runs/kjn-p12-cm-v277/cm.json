@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "vijñānam",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular neuter"
+   "morph": "n.nom.sg",
+   "grounds": "quality of the animal"
   },
   {
    "lemma": "bala",
-   "morph": "compound: bala+strength",
+   "morph": "compound:bala+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "sāmarthyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular neuter"
+   "morph": "compound:sāmarthya+second;n.nom.sg",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "sapta",
-   "morph": "compound: sapta+seven",
-   "grounds": "numeral, first member of compound"
+   "morph": "compound:sapta+first",
+   "grounds": "numeral modifying births"
   },
   {
    "lemma": "janma",
-   "morph": "compound: janma+birth",
-   "grounds": "middle member of compound"
+   "morph": "compound:janma+middle",
+   "grounds": "member of compound"
   },
   {
    "lemma": "antikaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular neuter"
+   "morph": "compound:antika+final;n.nom.sg",
+   "grounds": "final member of compound"
   },
   {
    "lemma": "paśu",
    "morph": "m.nom.sg",
-   "grounds": "nominative or base form in context"
+   "grounds": "subject described"
   }
  ]
 }

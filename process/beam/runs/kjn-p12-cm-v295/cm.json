@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound: vijñāna+knowledge",
+   "morph": "compound:vijñāna+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "unmīlanam",
-   "morph": "n.nom.sg",
-   "grounds": "nominative singular neuter"
+   "morph": "compound:unmīlana+second;n.nom.sg",
+   "grounds": "result of practice"
   },
   {
    "lemma": "bhadre",
    "morph": "f.voc.sg",
-   "grounds": "vocative singular feminine"
+   "grounds": "vocative address"
   },
   {
    "lemma": "bhavati",
    "morph": "3.sg.present-active √bhū",
-   "grounds": "present indicative from √bhū"
+   "grounds": "resulting state"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "manner of attainment"
   },
   {
    "lemma": "na",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "anya",
-   "morph": "compound: anya+other",
+   "morph": "compound:anya+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "sevanāt",
-   "morph": "n.abl.sg",
-   "grounds": "ablative singular neuter"
+   "morph": "compound:sevana+second;n.abl.sg",
+   "grounds": "excluded means"
   }
  ]
 }

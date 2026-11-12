@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "laulya",
-   "morph": "compound: laulya+greed",
+   "morph": "compound:laulya+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "arthī",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular masculine"
+   "morph": "compound:arthin+second;m.nom.sg",
+   "grounds": "describes the unworthy person"
   },
   {
    "lemma": "capalā",
    "morph": "f.nom.sg",
-   "grounds": "nominative singular feminine"
+   "grounds": "describes the unworthy person"
   },
   {
    "lemma": "nityaṃ",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "constant behavior"
   },
   {
    "lemma": "kula",
-   "morph": "compound: kula+kula",
+   "morph": "compound:kula+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "śāstra",
-   "morph": "compound: śāstra+scripture",
-   "grounds": "middle member of compound"
+   "morph": "compound:śāstra+middle",
+   "grounds": "member of compound"
   },
   {
    "lemma": "viḍambakam",
-   "morph": "n.nom.sg",
-   "grounds": "nominative singular neuter"
+   "morph": "compound:viḍambaka+final;n.nom.sg",
+   "grounds": "characterization of misuse"
   }
  ]
 }

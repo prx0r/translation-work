@@ -13,25 +13,25 @@
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "verb expressing removal or elimination",
-     "morph": "3.sg.opt.act √naś-caus"
+     "grounds": "causative verb expressing removal",
+     "morph": "3.sg.opt.act-caus √naś"
     },
     {
      "surface": "vātān",
-     "gloss": "wind-disorders",
-     "grounds": "bodily winds or disorders caused by them",
+     "gloss": "winds",
+     "grounds": "bodily winds or disorders",
      "morph": "m.acc.pl"
     },
     {
      "surface": "kuṣṭha",
      "gloss": "leprosy",
-     "grounds": "first member of compound naming a disease",
+     "grounds": "first member of compound naming disease",
      "morph": "compound-member"
     },
     {
      "surface": "vyādhim",
      "gloss": "disease",
-     "grounds": "ailment; second member completing compound",
+     "grounds": "ailment specified by preceding member",
      "morph": "m.acc.sg"
     },
     {
@@ -43,20 +43,21 @@
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "verb expressing removal or elimination",
-     "morph": "3.sg.opt.act √naś-caus"
+     "grounds": "repeated causative verb expressing removal",
+     "morph": "3.sg.opt.act-caus √naś"
     }
    ],
-   "question": "Which specific disorders and diseases are eliminated by the described practice?",
+   "question": "Which specific winds and disease does this practice claim to eliminate?",
    "premises": [
-    "The practice destroys eighty wind-disorders.",
-    "The practice also destroys the disease of leprosy."
+    "The practice destroys eighty winds.",
+    "The practice also destroys leprosy-disease.",
+    "Both eliminative effects are attributed to the same practice."
    ],
-   "inference": "The described practice is claimed to eliminate both numerous wind-disorders and leprosy.",
+   "inference": "Therefore, the practice is claimed to remove eighty winds and the disease of leprosy.",
    "uncertainties": [
-    "Whether 'aśītiṃ vātān' refers to eighty distinct types of wind-disorders or is a conventional expression for many."
+    "Whether vātān refers to bodily winds or wind-related disorders is context-dependent."
    ],
-   "plain_english": "It destroys eighty wind-disorders, and indeed it destroys the disease of leprosy."
+   "plain_english": "It destroys the eighty winds, and indeed it destroys the disease of leprosy."
   }
  ]
 }
