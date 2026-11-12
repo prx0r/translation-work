@@ -7,40 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral compound referring to count",
-     "morph": "fem.nom.sg"
+     "grounds": "cardinal number referring to count",
+     "morph": "indecl."
     },
     {
      "surface": "sahasreṣu",
      "gloss": "thousands",
-     "grounds": "locative plural of numeral",
-     "morph": "neut.loc.pl"
+     "grounds": "locative plural of count term",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "womb-diagrams",
-     "grounds": "locative compound referring to womb-mechanisms",
-     "morph": "neut.loc.pl"
+     "grounds": "locative plural of compound referring to womb-mechanisms",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing afflicted beings",
-     "morph": "3.pl.pass-perf"
+     "grounds": "past participle describing afflicted beings",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "By what count and in what locations are certain beings said to endure torment in this enumeration?",
+   "question": "By what count and in what setting are certain beings said to endure torment according to this claim?",
    "premises": [
-    "Eighty-four is given as a fixed numerical count.",
-    "Thousands are specified as the measure of those locations.",
-    "Womb-diagrams are named as the specific locations in question.",
-    "Those present in those locations are described as tormented."
+    "A count of eighty-four is specified for a set of thousands.",
+    "Those thousands are located in womb-diagrams.",
+    "Beings within those womb-diagrams are described as tormented."
    ],
-   "inference": "Beings are tormented in eighty-four thousand womb-diagrams.",
+   "inference": "Beings are tormented within eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The identity of the beings remains unspecified by these tokens alone."
+    "The identity of the tormented beings remains unspecified."
    ],
-   "plain_english": "Eighty-four thousand womb-diagrams are places in which beings are tormented."
+   "plain_english": "Eighty-four thousand in the womb-diagrams are tormented."
   }
  ]
 }

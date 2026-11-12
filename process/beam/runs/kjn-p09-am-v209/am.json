@@ -1,15 +1,13 @@
 {
  "song": "kjn-p09",
  "verse": 209,
- "question": "What claim about success in this practice is at stake in making it conditional on knowing the eight-times-eight method?",
+ "question": "What knowledge is required for success in these ritual operations?",
  "premises": [
-  "The eight-times-eight method is a defined procedure.",
-  "Knowing that method is the stated condition.",
-  "Success does not occur by any other means."
+  "The eight-times-eight method exists",
+  "Knowing it leads to success",
+  "Without it success does not occur"
  ],
- "inference": "Success is strictly conditional on knowing the eight-times-eight method and not otherwise.",
- "uncertainties": [
-  "The nature of the success intended is not specified within this verse alone."
- ],
- "plain_english": "Having known the eight-times-eight method, one succeeds; not otherwise."
+ "inference": "Success depends on knowing the eight-times-eight method.",
+ "uncertainties": [],
+ "plain_english": "Having known the method of the eight groups of eight, one succeeds; not otherwise."
 }
