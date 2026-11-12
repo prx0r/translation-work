@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-śiva-umā-mantra-yogena [by-union-of-śiva-umā-mantra] sandhānam [joining] bhūti-kāṅkṣiṇām [of-those-desiring-prosperity]
+[śiva+umā+mantra+yogena](śivomāmantrayogena) [union](sandhānaṃ) [prosperity+desiring](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-mūrti-ādi-aṅka-avasānam [ending-with-mark-of-image-etc] tu [but] punaḥ [again] evam [thus] tu [and] vinyaset [should-place]
+[form+beginning+limb+ending](mūrtyādyaṅkāvasānaṃ) [but](tu) [again](punar) [thus](evaṃ) [indeed](tu) [one-should-place](vinyaset)
 
 ## mukta-m0-p76-v1878
-tataḥ [then]
+[then](tataḥ)
 
 ## mukta-m0-p76-v1879
-rudra-ādīnām [of-rudra-and-others] tu [but] sarveṣām [of-all] sthāpanam [installation] tattvataḥ [in-truth] kramāt [in-order]
+[rudra+and-others](rudrādīnāṃ) [but](tu) [of-all](sarveṣāṃ) [installation](sthāpanaṃ) [in-reality](tathvataḥ) [in-order](kramāt)
 
 ## mukta-m0-p76-v1880
-ātma-vidyāḥ [self-knowledges] śivam [śiva] ca [and] eva [indeed] bhāvayet [should-meditate] anupūrvataḥ [in-sequence]
+[self+knowledges](ātmavidyāḥ) [śiva](śivaṃ) [and](ca) [indeed](eva) [one-should-contemplate](bhāvayet) [in-sequence](anupūrvataḥ)
 
 ## mukta-m0-p76-v1881
-vyavasthitāḥ [established]
+[situated](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-vidyā-tattve [in-principle-of-knowledge] sthitāḥ [situated] hi [indeed] ete [these] sādhikāre [with-authority] viduḥ [know] budhāḥ [wise]
+[knowledge+principle](vidyātattve) [situated](sthitā) [indeed](hi) [these](ete) [with-authority](sādhikāre) [know](vidur) [the-wise](budhāḥ)
 
 ## mukta-m0-p76-v1883
-tri-tattva-vyāptiḥ [pervasion-of-three-principles] ākhyātā [declared] panthānaḥ [paths] ṣaḍ-vidhāḥ [six-fold] tu [but] iha [here]
+[three+principle+pervasion](tritattvavyāptir) [declared](ākhyātā) [paths](panthānaḥ) [sixfold](ṣaḍvidhās) [but](tu) [here](iha)
 
 ## mukta-m0-p76-v1884
-kramāt [in-order]
+[in-order](kramāt)
 
 ## mukta-m0-p76-v1885
-triṃśat-pañca-adhikam [thirty-five-plus] tattvam [principle] san-mārgam [good-path] pīṭham [seat] aiśvaram [of-īśvara]
+[thirty+five+more](triṃśatpañcādhikaṃ) [principle](tattvaṃ) [true+path](sanmārgaṃ) [seat](pīṭham) [lordly](aiśvaram)
 
 ## mukta-m0-p76-v1886
-bhujaiḥ [with-arms] tu [but] daśabhiḥ [with-ten] yuktam [endowed] jaṭā-mukuṭa-maṇḍitam [adorned-with-matted-hair-crown]
+[with-arms](bhujais) [but](tu) [with-ten](daśabhir) [endowed](yuktaṃ) [matted-hair+crown+adorned](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-gaṇaiḥ [with-gaṇas] devaiḥ [with-gods] tathā [and] siddhaiḥ [with-siddhas] stūyamānaiḥ [being-praised] samāyutam [accompanied]
+[by-attendants](gaṇair) [by-gods](devais) [and](tathā) [by-siddhas](siddhaiḥ) [being-praised](stūyamānaiḥ) [accompanied](samāyutam)
 
 ## mukta-m0-p76-v1888
-sadyojātena [by-sadyojāta] saṃcintya [having-contemplated] vāmadevena [by-vāmadeva] vinyaset [should-place]
+[with-sadyojāta](sadyolātena) [having-contemplated](saṃcintya) [with-vāmadeva](vāmadevena) [one-should-place](vinyaset)
 
 ## mukta-m0-p76-v1889
-bodha-kriyā-niviṣṭam [engaged-in-cognition-action] tu [but] jñeyam [knowable] jñāna-āśritam [supported-by-knowledge] smaret [should-remember]
+[in-cognition+action+entered](bodhakriyāniviṣṭaṃ) [but](tu) [to-be-known](jñeyaṃ) [in-knowledge+resting](jñānāśritaṃ) [one-should-remember](smaret)
 
 ## mukta-m0-p76-v1890
-dhvani-madhya-gatā [situated-in-middle-of-sound] tārā [tārā] tārā-madhya-gateḥ [of-one-gone-into-middle-of-tārā] śaśī [moon]
+[sound+middle+gone](dhvanimadhyagatā) [tārā](tārā) [tārā+middle+gone](tārāmadhyagateḥ) [moon](śaśī)
 
 ## mukta-m0-p76-v1891
-ravi-madhya-gataḥ [gone-into-middle-of-sun] śāntaḥ [peaceful] śānta-madhya-gataḥ [gone-into-middle-of-peace] śivaḥ [śiva]
+[sun+middle+gone](ravimadhyagataḥ) [śānta](śāntaḥ) [śānta+middle+gone](śāntamadhyagataḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p76-v1892
-tadā [then] dig-devatā-homaḥ [homa-to-directional-deities] kāryā [should-be-done] śāntiḥ [peace] ca [and] doṣa-hṛt [removing-faults]
+[then](tadā) [direction+deity+oblation](digdevatāhomaḥ) [to-be-done](kāryā) [pacification](śāntis) [and](ca) [fault+removing](doṣahṛt)
 
 ## mukta-m0-p76-v1893
-anyathā [otherwise] tu [but] bhavet [would-be] ghoram [terrible] kartṛ-rāṣṭra-virūpakam [disfiguring-agent-and-kingdom]
+[otherwise](anyathā) [but](tu) [would-be](bhaved) [terrible](ghoraṃ) [agent+kingdom+disfiguring](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-gajam [elephant] chāgam [goat] lulāyam [lulāya] ca [and] dāsīm [female-slave] matsyam [fish] mṛga-āvikam [deer-sheep]
+[elephant](gajaṃ) [goat](chāgaṃ) [buffalo](lulāyaṃ) [and](ca) [female-servant](dāsīṃ) [fish](matsyaṃ) [deer+sheep](mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-pakṣa-sūtram [side-thread] tataḥ [then] dadyāt [should-give] ṛju-artham [for-straightness] lamba-sūtrakam [hanging-thread]
+[side+thread](pakṣasūtraṃ) [then](tato) [one-should-give](dadyād) [straight+purpose](ṛjvarthaṃ) [hanging+thread](lambasūtrakam)
 
 ## mukta-m0-p76-v1896
-calile [when-moving] śabdite [when-sounding] bhrānte [when-confused] praṇate [when-bowed] svasthite [when-steady] kramāt [in-order]
+[when-moving](calile) [when-sounding](śabdite) [when-wandering](bhrānte) [when-bowing](praṇate) [when-steady](svasthite) [in-order](kramāt)
 
 ## mukta-m0-p76-v1897
-kṣīra-loha-malaiḥ [with-milk-metal-impurities] śubhaiḥ [auspicious]
+[with-milk+iron+impurities](kṣīralohamalaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-tataḥ [then] śānti-ghaṭa-āmbobhiḥ [with-water-of-peace-pot] snānam [bathing] mūrti-dharāḥ [image-bearers] svakam [own]
+[then](tataḥ) [pacification+pot+waters](śāntighaṭāmmobhiḥ) [bathing](snānaṃ) [image+bearers](mūrtidharāḥ) [own](svakam)
 
 ## mukta-m0-p76-v1899
-toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ [consisting-of-water-milk-curd-honey-ghee-water-inner]
+[water+milk+curd+honey+ghee+water+inner+natured](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-mugdā [mugdā] dyaṅgula-mātrasya [of-measure-of-two-fingers] calasya [of-moving] sthāpane [in-placement] hitam [beneficial]
+[mudga](mugdā) [two-finger+measure](dyaṅgulamātrasya) [of-moving](calasya) [in-installation](sthāpane) [beneficial](hitam)

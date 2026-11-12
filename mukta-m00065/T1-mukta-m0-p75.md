@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[place](nyased) [vajra](vajraṃ) [then](tathā) [gold](hema) [palm](tālaṃ) [that](tavān) [with](sahāṃ) [in-order](kramāt)
+[should-place](nyaset) [diamond](vajraṃ) [thus](tathā) [gold](hema) [orpiment](tālaṃ) [tavān](tavān) [sahāṃ](sahāṃ) [in-order](kramāt)
 
 ## mukta-m0-p75-v1852
-[place](nyaset) [gold-absence](hemābhāve) [tar](tāraṃ) [gairika](gairirka) [orpiment](tālakaṃ) [without](vinā)
+[in-absence+of-gold](hemābhāve) [should-place](nyaset) [silver](tāraṃ) [red-ochre](gairirka) [orpiment](tālakaṃ) [without](vinā)
 
 ## mukta-m0-p75-v1853
-[place](nyaset) [all](sarvaṃ) [guru-one](gurusvekaṃ) [mercury](rasendraṃ) [or](vā) [absence](asambhave)
+[should-place](nyaset) [all](sarvaṃ) [in-guru+alone](gurusvekaṃ) [mercury](rasendraṃ) [or](vāpi) [in-absence](asambhave)
 
 ## mukta-m0-p75-v1854
-[these](eṣām) [one](ekatamaṃ) [middle](madhye) [place](nyasen) [brahma-stone](brahmaśilā) [pit](vaṭe)
+[of-these](eṣām) [one+among](ekatamaṃ) [in-middle](madhye) [should-place](nyaset) [in-brahma+stone+pit](brahmaśilāvaṭe)
 
 ## mukta-m0-p75-v1855
-[golden](haimīṃ) [or](vā) [silver-earth](rupyajī) [earth](pṛthvī) [meru](meruṃ) [solar-gold](saurarṇajaṃ) [always](sadā)
+[golden](haimīṃ) [or](vā) [made-of-silver](rupyajī) [earth](pṛthvī) [meru](meruṃ) [made-of-gold](saurarṇajaṃ) [always](sadā)
 
 ## mukta-m0-p75-v1856
-[lotus](padmamaṣṭāyasaṃ) [place](nyasya) [golden](haimaṃ) [silver-born](tārajameva) [or](vā)
+[lotus](padmam) [made-of-eight+metals](aṣṭāyasaṃ) [having-placed](nyasya) [golden](haimaṃ) [made-of-silver](tārajam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p75-v1857
-[silver](rajataṃ) [and](ca) [barley](yavāṃścaiva) [with-tortoise](kūrmeṇa) [with](saha) [place](vinyaset)
+[silver](rajataṃ) [and](ca) [barley-grains](yavāṃś) [and](ca) [indeed](eva) [with-tortoise](kūrmeṇa) [together](saha) [should-place](vinyaset)
 
 ## mukta-m0-p75-v1858
-[there](tatra) [established](saṃsthāpite) [linga](liṅge) [worshipper](yajamānaḥ) [prospers](pravardhate)
+[there](tatra) [being-installed](saṃsthāpite) [liṅga](liṅge) [sacrificer](yajamānaḥ) [prospers](pravardhate)
 
 ## mukta-m0-p75-v1859
-[therein](tasyāṃ) [established](vyavasthite) [rudra](rudre) [people](prajā) [always](nityaṃ) [rejoice](pramodate)
+[in-that](tasyāṃ) [being-situated](vyavasthite) [rudra](rudre) [progeny](prajā) [always](nityaṃ) [rejoices](pramodate)
 
 ## mukta-m0-p75-v1860
-[shri-desire](śrīkāmastu) [place](nyasen) [middle](madhye) [region](deva) [for-growth](vṛddhyarthameva) [or](vā)
+[desiring-prosperity](śrīkāmas) [indeed](tu) [should-place](nyaset) [in-middle](madhye) [god](deva) [for-increase+purpose](vṛddhyartham) [indeed](eva) [or](vā)
 
 ## mukta-m0-p75-v1861
-[cow-horn-earth](gośṛṅgamṛttikāṃ) [and](caiva) [with-bull](vṛṣeṇa) [with](saha) [place](vinyaset)
+[cow+horn+clay](gośṛṅgamṛttikāṃ) [and](ca) [indeed](eva) [with-bull](vṛṣeṇa) [together](saha) [should-place](vinyaset)
 
 ## mukta-m0-p75-v1862
-[things](dravyāṇām) [absence](apyalābhe) [but](tu) [of-these](teṣām) [one](ekatamaṃ) [place](nyaset)
+[of-materials](dravyāṇām) [even](api) [in-absence](alābhe) [indeed](tu) [of-these](teṣām) [one+among](ekatamaṃ) [should-place](nyaset)
 
 ## mukta-m0-p75-v1863
-[thus](evaṃ) [things](dravyāṇi) [all](sarvāṇi) [various](vividhaṃ) [arranging](sanniveśya) [and](ca)
+[thus](evaṃ) [materials](dravyāṇi) [all](sarvāṇi) [variously](vividhaṃ) [having-arranged](sanniveśya) [and](ca)
 
 ## mukta-m0-p75-v1864
-[stone-equal](śilāsamāni) [holes](randhrāṇi) [making](kṛtvā) [eye](netraṃ) [then](tathā) [above](upari)
+[equal-to-stone](śilāsamāni) [cavities](randhrāṇi) [having-made](kṛtvā) [eye](netraṃ) [thus](tathā) [above](upari)
 
 ## mukta-m0-p75-v1865
-[purified](samācamya) [done-placement](kṛtanyāso) [offer](juhuyād) [weapon](asinā) [hundred](śatam)
+[having-sipped-water](samācamya) [having-performed+placement](kṛtanyāso) [should-offer](juhuyāt) [with-fire](asinā) [hundred](śatam)
 
 ## mukta-m0-p75-v1866
-[vastu-lord](vāstospatiṃ) [then](tato) [offering](hutvā) [seat](pīṭhaṃ) [pit](śvabhraṃ) [determine](nirūpayet)
+[vāstospati](vāstospatiṃ) [then](tato) [having-offered](hutvā) [pedestal](pīṭhaṃ) [pit](śvabhraṃ) [should-examine](nirūpayet)
 
 ## mukta-m0-p75-v1867
-[without-joint](niḥ) [firm](suḍṛḍhaṃ) [that](tacca) [do](vidadhīta) [carefully](prayatnataḥ)
+[without-joint](niḥsandhiḥ) [very-firm](suḍṛḍhaṃ) [and](tat) [that](ca) [should-make](vidadhīta) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p75-v1868
-[then](tataḥ) [well-instrumented](suyantritaṃ) [staff](daṇḍe) [bind](badhnīyād) [hair-thread](vālatantunā)
+[then](tataḥ) [well-controlled](suyantritaṃ) [on-pole](daṇḍe) [should-bind](badhnīyāt) [with-hair+thread](vālatantunā)
 
 ## mukta-m0-p75-v1869
-[images](mūrtipaiḥ) [artisans](śilpibhiḥ) [with](sārdham) [attached](anulagnaiḥ) [shiva](śive) [then](tadā)
+[with-image-priests](mūrtipaiḥ) [with-craftsmen](śilpibhiḥ) [together](sārdham) [with-attendants](anulagnaiḥ) [to-śiva](śive) [then](tadā)
 
 ## mukta-m0-p75-v1870
-[door-place](dvāradeśāgate) [linga](liṅge) [half](ardhaṃ) [giving](datvā) [enter](praveśayet)
+[to-door+place+arrived](dvāradeśāgate) [liṅga](liṅge) [half](ardhaṃ) [having-given](datvā) [should-cause-to-enter](praveśayet)
 
 ## mukta-m0-p75-v1871
-[door-bound](dvārabandhānvite) [abode](dhāmni) [sky-like](nabhaseva) [that](tad) [above](ūrdhvataḥ)
+[endowed-with-door+fastening](dvārabandhānvite) [in-shrine](dhāmni) [like-sky](nabhaseva) [then+above](tadūrdhvataḥ)
 
 ## mukta-m0-p75-v1872
-[direction-space](digvyomasparśanāt) [do](kuryāt) [that](taddiśyuktāṃ) [and](ca) [south](dakṣiṇām)
+[from-touching+directions+sky](digvyomasparśanāt) [should-make](kuryāt) [in-that-direction+connected](taddiśyuktāṃ) [and](ca) [fee](dakṣiṇām)
 
 ## mukta-m0-p75-v1873
-[conch](śaṅkhaṃ) [cow](dhenu) [guru](gurordadyād) [indra-etc](indrādispṛṣṭidoṣahṛt)
+[conch](śaṅkhaṃ) [cow](dhenu) [to-guru](guror) [should-give](dadyāt) [removing-faults+of-touching+indra-etc.](indrādispṛṣṭidoṣahṛt)
 
 ## mukta-m0-p75-v1874
-[place](vinyaset) [music-sound](tūryaśabdena) [omen](nimitte) [equinox](viṣuve) [standing](sthite)
+[should-place](vinyaset) [with-sound+of-musical-instruments](tūryaśabdena) [at-auspicious-moment](nimitte) [at-equinox](viṣuve) [being-situated](sthite)
 
 ## mukta-m0-p75-v1875
-[pedestal](piṇḍikāyāṃ) [place](nyaselliṅgamaṅguṣṭhena) [touch](spṛśed) [guru](guruḥ)
+[in-pedestal](piṇḍikāyāṃ) [should-place](nyaset) [liṅga](liṅgam) [with-thumb](aṅguṣṭhena) [should-touch](spṛśet) [guru](guruḥ)

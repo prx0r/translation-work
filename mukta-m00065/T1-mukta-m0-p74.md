@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[hundred-eight](śatamaṣṭottaraṃ) [having-offered](hutvā) [one-by-one](ekaikasya) [but](tu) [in-occurrence](sambhave)
+[hundred](śatam) [eight+more](aṣṭa+uttaraṃ) [having-offered](hutvā) [of-each+one](eka+ikasya) [indeed](tu) [in-occurrence](sambhave)
 
 ## mukta-m0-p74-v1827
-[being-established](sthāpyamānaṃ) [when](yadā) [liṅga](liṅgaṃ) [established](sthitaṃ) [or](vā) [in-middle](madhyataḥ) [auspicious](śubham)
+[being-established](sthāpyamānaṃ) [when](yadā) [liṅga](liṅgaṃ) [situated](sthitaṃ) [or](vā) [in-middle](madhyataḥ) [auspicious](śubham)
 
 ## mukta-m0-p74-v1828
-[of-eldest-etc](jyeṣṭhādīnāṃ) [but](tu) [of-shrines](veśmānāṃ) [threshold-same-line](dehalīsamasūtrataḥ)
+[of-eldest+and-others](jyeṣṭha+ādīnāṃ) [indeed](tu) [of-abodes](veśmānāṃ) [threshold+equal+by-thread](dehalī+sama+sūtrataḥ)
 
 ## mukta-m0-p74-v1829
-[mercury-tortoise-endowed](rasakūrmānvitā) [to-be-joined](yojyā) [above-that](tadūrdhve) [and-other-stone](cāparāśilā)
+[with-rasa+tortoise](rasa+kūrma+anvitā) [to-be-joined](yojyā) [above+that](tad+ūrdhve) [and](ca) [another+stone](aparā+śilā)
 
 ## mukta-m0-p74-v1830
-[having-worshipped](iṣṭvā) [royal-stone](rājaśilāṃ) [there](tatra) [by-śakti-mantra](śaktimantreṇa) [place](vinyaset)
+[having-worshipped](iṣṭvā) [royal+stone](rāja+śilāṃ) [there](tatra) [with-śakti+mantra](śakti+mantreṇa) [one-should-place](vinyaset)
 
 ## mukta-m0-p74-v1831
-[by-śiva-command](śivājñayā) [by-you](tvayā) [goddess](devi) [to-be-stayed-here-always](sthātavyamihasarvadā)
+[by-Śiva's+command](śiva+ājñayā) [by-you](tvayā) [O-goddess](devi) [to-be-stayed](sthātavyam) [here](iha) [always](sarvadā)
 
 ## mukta-m0-p74-v1832
-[and-asura](cāsure)
+[and](ca) [demon](asure])
 
 ## mukta-m0-p74-v1833
-[smearing](vilipya) [with-sandal-first](candanenādau) [having-incensed](dhūpayitvā) [stone-surface](śilātalam)
+[having-smeared](vilipya) [with-sandalwood](candanena) [first](ādau) [having-fumigated](dhūpayitvā) [stone+surface](śilā+talam)
 
 ## mukta-m0-p74-v1834
-[by-own-direction-lord](svadigīśena) [mantra](mantreṇa) [by-heart](hṛdā) [or](vā) [by-praṇava](praṇavena) [or](vā)
+[with-own+direction+lord](sva+dig+īśena) [with-mantra](mantreṇa) [with-hṛd](hṛdā) [or](vā) [with-praṇava](praṇavena) [or](vā)
 
 ## mukta-m0-p74-v1835
-[cow-milk-pudding-mixed-guggulu-liquid](gavyapāyasasaṃmiśragugguludrava) [anointed](lepitāḥ)
+[with-cow-products+milk+mixed](gavya+pāyasa+saṃmiśra) [guggulu+liquid](guggulu+drava) [smeared](lepitāḥ)
 
 ## mukta-m0-p74-v1836
-[in-opinion](mate) [in-opinion](mate) [otherwise](anyathā) [knowing](jñātvā) [by-own-will](svekchayā) [or](vā) [place-teacher](nyasedguruḥ)
+[in-opinion](mate) [in-opinion](mate) [otherwise](anyathā) [having-known](jñātvā) [by-own+will](sva+ikchayā) [or](vā) [should-place+teacher](nyaset+guruḥ)
 
 ## mukta-m0-p74-v1837
-[indra-blue-and](indranīlaṃca) [very-blue](sunīlaṃ) [from-east-etc-order](pūrvādikramato) [place](nyaset)
+[sapphire](indranīlaṃ) [and](ca) [good+blue](su+nīlaṃ) [in-east+etc.+order](pūrva+ādi+kramataḥ) [one-should-place](nyaset)
 
 ## mukta-m0-p74-v1838
-[of-cat's-eye-even-non-availability](vaidūryasyāpyalābhe) [but](tu) [blue](nīlaṃ) [or](vā) [ruby](padmarāgakam)
+[of-cat's-eye](vaidūryasya) [even](api) [in-non-obtainment](alābhe) [indeed](tu) [blue](nīlaṃ) [or](vā) [ruby](padmarāgakam)
 
 ## mukta-m0-p74-v1839
-[pushpaka](puṣpakaṃ) [ruby](padmarāgaṃ) [and](ca) [cat's-eye](vaidūryaṃ) [from-east-direction](prāgdiśāditaḥ)
+[topaz](puṣpakaṃ) [ruby](padmarāgaṃ) [and](ca) [cat's-eye](vaidūryaṃ) [from-east+direction+etc.](prāk+diśā+āditaḥ)
 
 ## mukta-m0-p74-v1840
-[other-opinions](matāntarān)
+[from-other+opinions](mata+antarān)
 
 ## mukta-m0-p74-v1841
-[having-determined-these](nirupyaitāni) [place](vinyase) [from-indra-etc-lord-range](dindrādīśāntagocarāt)
+[having-arranged](nirupya) [these](etāni) [one-should-place](vinyase) [from-Indra+etc.+to-Īśa+end+range](indra+ādi+īśa+anta+gocarāt)
 
 ## mukta-m0-p74-v1842
-[kāśīva](kāśīvamatha) [vermilion](sindūraṃ) [pyrite](mākṣikaṃ) [red-ochre](gairikaṃ) [place](nyaset)
+[orpiment](kāśīvam) [then](atha) [vermilion](sindūraṃ) [honey-stone](mākṣikaṃ) [red-ochre](gairikaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p74-v1843
-[saurāṣṭrī](saurāṣṭrī) [māthika-non-availability](māthikālābhe) [of-red-ochre](gairikasya) [but](tu) [rocanā](rocanām)
+[saurāṣṭrī-earth](saurāṣṭrī) [in-honey-stone+non-obtainment](māthika+alābhe) [of-red-ochre](gairikasya) [indeed](tu) [yellow-pigment](rocanām)
 
 ## mukta-m0-p74-v1844
-[from-east-etc](pūrvādikaṃ) [somewhere](kvacit)
+[east+etc.](pūrva+ādikaṃ) [somewhere](kvacit)
 
 ## mukta-m0-p74-v1845
-[nīvāra-and](nīvārāścāpi) [śyāmāka](śyāmākān) [full-grains](pūrṇadyāṃśca) [place](niveśayet)
+[wild-rice](nīvārān) [and](ca) [also](api) [śyāmāka-grains](śyāmākān) [and](ca) [full-grains](pūrṇadyān) [one-should-deposit](niveśayet)
 
 ## mukta-m0-p74-v1846
-[then](tato) [place](nyaset)
+[one-should-place](nyaset)
 
 ## mukta-m0-p74-v1847
-[straw-grain-special](stṛṇadhānyaviśeṣaḥ)
+[grass+grain+special-kind](stṛṇa+dhānya+viśeṣaḥ])
 
 ## mukta-m0-p74-v1848
-[uśīra](uśīraṃ) [viṣṇu-named](viṣṇusaṃjñaṃ) [and](ca) [sahā](sahāṃ) [and](ca) [characteristic](lakṣaṇaṃ) [somewhere](kvacit)
+[uśīra-grass](uśīraṃ) [Viṣṇu-named](viṣṇu+saṃjñaṃ) [and](ca) [sahā-plant](sahāṃ) [and](ca) [lakṣaṇa-plant](lakṣaṇaṃ) [somewhere](kvacit)
 
 ## mukta-m0-p74-v1849
-[seeds](bījāni) [and-herbs-eight](cauṣadhīraṣṭau) [having-potted](kumbhayitvā) [place-in-order](nyasenkramāt)
+[seeds](bījāni) [and](ca) [herbs](auṣadhīḥ) [eight](aṣṭau) [having-filled](kumbhayitvā) [one-should-place](nyaset) [in-order](kramāt)
 
 ## mukta-m0-p74-v1850
-[in-excess-of-substances](dravyādhike) [great-fault](mahādoṣo) [by-guñjā-etc](guñjāmādhaiḥ) [by-hand-order](karakramāt)
+[in-material+excess](dravya+adhike) [great+fault](mahā+doṣaḥ) [by-guñjā+measure](guñjā+mādhaiḥ) [by-hand+order](kara+kramāt)

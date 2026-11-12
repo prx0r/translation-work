@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "forehead-syllable-mass-situated",
-     "grounds": "compound describing location within the collection of syllables on the forehead",
-     "morph": "compound"
+     "gloss": "situated-in-forehead-syllable-mass",
+     "grounds": "compound: lalāṭa (forehead) + varṇa (syllable) + rāśi (mass) + stha (situated); describes lakṣaṃ",
+     "morph": "compound adj., n.acc.sg."
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numerical quantity indicating the number of repetitions",
-     "morph": "acc.sg.nt."
+     "grounds": "object of the action expressed by kṛtya",
+     "morph": "n.acc.sg."
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "absolutive expressing completion of the act",
-     "morph": "gerund (indecl.), root kṛ"
+     "grounds": "gerund indicating completed performance of repetition",
+     "morph": "gerund (kṛ)"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "god-worshipped-one",
-     "grounds": "vocative compound addressing one honored by the gods",
-     "morph": "voc.sg.m., compound"
+     "gloss": "o-god-worshipped",
+     "grounds": "compound vocative: sura (god) + arcita (worshipped); address to the practitioner",
+     "morph": "compound voc., m.sg."
     }
    ],
-   "question": "What ritual repetition involving the forehead syllable-mass is enjoined for the god-worshipped recipient?",
+   "question": "What specific mantra repetition at the forehead is prescribed for the god-worshipped practitioner?",
    "premises": [
-    "The practice involves what is situated in the forehead syllable-mass.",
-    "The required quantity of the act is one hundred thousand.",
-    "The instruction is addressed to one worshipped by the gods."
+    "The practitioner is addressed as worshipped by the gods.",
+    "A hundred-thousand repetitions are to be performed.",
+    "The repetition is situated in the mass of syllables on the forehead."
    ],
-   "inference": "One hundred thousand repetitions focused on the forehead syllable-mass are enjoined.",
+   "inference": "The god-worshipped practitioner must perform a hundred-thousand repetitions focused on the syllable-mass located at the forehead.",
    "uncertainties": [
-    "The exact nature of the act implied by kṛtya is not explicitly specified in this verse."
+    "The exact nature of the forehead syllable-mass is not specified in this verse alone."
    ],
-   "plain_english": "O one worshipped by the gods, having performed one hundred thousand repetitions situated in the mass of syllables on the forehead."
+   "plain_english": "O you worshipped by the gods, having performed a hundred thousand repetitions situated in the mass of syllables on the forehead..."
   }
  ]
 }

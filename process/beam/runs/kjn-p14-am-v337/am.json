@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 337,
- "question": "What consequence follows if a teacher gives this teaching to unworthy disciples?",
+ "question": "What consequence follows if a teacher gives this teaching to such unfit disciples?",
  "premises": [
-  "A teacher may give the teaching to such disciples.",
-  "Accomplishment depends on proper transmission."
+  "A teacher may give the teaching to these disciples",
+  "These disciples are unqualified",
+  "Accomplishment is said to be lost"
  ],
- "inference": "If given to them, the teacher's accomplishment is diminished.",
+ "inference": "If the teacher gives it to such disciples, his accomplishment is diminished.",
  "uncertainties": [
-  "Syntax is compressed; relation between plural disciples and singular optative is unclear"
+  "The syntax is compressed and may conflate subject and condition."
  ],
  "plain_english": "If the teacher should give this to such disciples, accomplishment is lost."
 }
