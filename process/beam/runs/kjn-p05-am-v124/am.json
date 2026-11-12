@@ -1,15 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Under what condition does poison fail to enter the body, even in the case of a bite?",
+ "question": "What protection is claimed for the body even in the concessive case of being bitten by great serpents?",
  "premises": [
-  "Poison does not enter the body.",
-  "This holds even if one has been bitten.",
-  "The biting is by great serpents."
+  "Poison is named as the subject.",
+  "A negation states that poison does not enter.",
+  "The locus is specified as the body.",
+  "A concessive condition is given of being bitten by great serpents."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "inference": "Poison does not enter the body, even if one has been bitten by great serpents.",
  "uncertainties": [
-  "The reason for this immunity is not stated in these tokens."
+  "The basis for this claimed protection is not stated by these tokens."
  ],
- "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
+ "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }

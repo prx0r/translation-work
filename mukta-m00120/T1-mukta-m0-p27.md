@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-then-and incense-leaves in-sri-cakra one-should-employ
+[then](tataśca) [incense](dhūpa-) [leaves](patrāṇi) [in-the-śrīcakra](śrīcakre) [should-place](viniyojayet)
 
 ## mukta-m0-p27-v652
-supreme-rice-and buttermilk-and fragrant-water beloved
+[the-best-rice-dish](paramānnañca) [and-buttermilk](takrañca) [scented-water](suvāsita-jalaṃ) [beloved](priye)
 
 ## mukta-m0-p27-v653
-with-ghee sprinkled meat various place beloved
+[with-ghee](ghṛtena) [moistened](jñāvitaṃ) [meat](māṃsaṃ) [various](vidhaṃ) [should-place](sthāpayet) [beloved](priye)
 
 ## mukta-m0-p27-v654
-garlic in-sri-cakra-middle place ginger beloved
+[garlic](laśūnaṃ) [in-the-middle-of-the-śrīcakra](śrīcakra-madhye) [should-place](sthāpayed) [ginger](ārdrakaṃ) [beloved](priye)
 
 ## mukta-m0-p27-v655
-parched-rice and flattened-rice and indeed in-sri-cakra employ
+[parched-rice](lājāṃśca) [flattened-rice-cake](piṭakañca) [and](eva) [in-the-śrīcakra](śrīcakre) [should-place](viniyojayet)
 
 ## mukta-m0-p27-v656
-row-form in-cakra-middle place supreme-lady
+[in-row-form](paṅktyākāre) [in-the-middle-of-the-cakra](cakra-madhye) [should-place](sthāpayet) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p27-v657
-purified according-to-rite all in-row-form employ
+[purified](śodhitaṃ) [according-to-rule](vidhivat) [all](sarvaṃ) [in-row-form](paṅktyākāre) [should-place](niyojayet)
 
 ## mukta-m0-p27-v658
-thus by-sri-sarvananda-natha-composed in-sarvollasa twenty-first-chapter
+[thus](iti) [in-the-śrī-sarvānanda-nātha-composed](śrī-sarvānandanātha-viracite) [sarvollāsa](sarvollāse) [twenty-first-ullāsa](ekaviṃśaty-ullāsaḥ)
 
 ## mukta-m0-p27-v659
-for-pacification for-nourishment in-rite silver make beloved
+[in-peace-rite](śāntike) [in-prosperity-rite](puṣṭike) [or-in-prosperity-rite]([j: pauṣṭike]) [should-do](kārye) [of-silver](rājataṃ) [should-cause-to-be-made](kārayet) [beloved](priye)
 
 ## mukta-m0-p27-v660
-in-all-rites to-be-done visvamitra clan-lady
+[in-all-rites](sarva-kāryeṣu) [should-be-done](kartavyaṃ) [viśvāmitra](viśvāmitraṃ) [mistress-of-the-clan](kuleśvari)
 
 ## mukta-m0-p27-v661
-non-difference-established-vessel
+[in-the-state-of-non-difference](abheda-sthita-) [vessel](pātrakam)
 
 ## mukta-m0-p27-v662
-there support indeed having-established sri-vessel place then
+[there](tatra) [a-support](adhāraṃ) [having-placed](tu) [saṃsthāpya] [the-śrī-vessel](śrī-pātraṃ) [should-place](sthāpayet) [then](tataḥ)
 
 ## mukta-m0-p27-v663
-foot-number and corner and mandala make beloved
+[the-number-of-feet](pada-saṃkhyāñca) [and-the-corner](koṇañca) [a-maṇḍala](maṇḍalaṃ) [should-make](kārayet) [beloved](priye)
 
 ## mukta-m0-p27-v664
-now to-hear I-desire truth-knowledge and likewise
+[now](idānīṃ) [to-hear](śrotum) [I-wish](icchāmi) [knowledge-of-tattva](tattva-jñānañca) [and-that](tad) [tell](vada)
 
 ## mukta-m0-p27-v665
-sattva-quality-refuge
+[abiding-in-the-sattva-guṇa](sattva-guṇāśrayāḥ)
 
 ## mukta-m0-p27-v666
-by-truth-knowledge-grace shambhu destruction-maker
+[by-the-grace-of-knowledge-of-tattva](tattva-jñāna-prasādena) [śambhuḥ](śambhuḥ) [the-causer-of-dissolution](saṃhāra-kārakaḥ)
 
 ## mukta-m0-p27-v667
-truth-knowledge without goddess liberation laughter-to seems
+[without-knowledge-of-tattva](tattva-jñānaṃ) [without](vinā) [goddess](devi) [liberation](muktiḥ) [to-ridicule](hāsyāya) [is-fit](kalpate)
 
 ## mukta-m0-p27-v668
-hear goddess I-will-declare truth supreme rare
+[hear](śṛṇu) [goddess](devi) [I-shall-proclaim](pravakṣyāmi) [the-tattva](tattvaṃ) [supreme](parama) [very-rare](durlabham)
 
 ## mukta-m0-p27-v669
-wine meat and fish seal and intercourse shiva
+[wine](madyaṃ) [meat](māṃsaṃ) [thus](tathā) [fish](matsyaṃ) [the-mudrā](mudrāñca) [and-sexual-union](maithunaṃ) [auspicious-one](śive)
 
 ## mukta-m0-p27-v670
-sovereignty supreme delighted by-wine-drinking mountain-born
+[sovereignty](aiśvaryaṃ) [supreme](paramaṃ) [delighted](hṛṣṭaṃ) [by-drinking-wine](madya-pānena) [daughter-of-the-mountain](śailaje)
 
 ## mukta-m0-p27-v671
-by-fish-eating-alone kali direct-perception becomes
+[by-merely-eating-fish](matsya-bhojana-mātreṇa) [direct-perception-of-kālī](kālī-pratyakṣatā) [becomes](bhavet)
 
 ## mukta-m0-p27-v672
-by-intercourse great-yogi my equal no doubt
+[by-sexual-union](maithunena) [the-great-yogī](mahā-yogī) [to-me](mama) [equal](tulyoḥ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p27-v673
-by-second and principle great-bhairava-state attains
+[by-the-second](dvitīyena) [and](ca) [tattva](tattvena) [the-state-of-great-bhairava](mahā-bhairavatāṃ) [he-goes](vrajet)
 
 ## mukta-m0-p27-v674
-by-supreme supremacy goes your equal no doubt
+[by-the-supreme](pareṇa) [to-the-supreme-state](paratāṃ) [he-goes](yāti) [to-you](tava) [or-to-me]([gh, j: mama]) [equal](tulyoḥ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p27-v675
-of-this meaning fruit and-what fivefold also onefold and what
+[of-this](asya) [the-nature](bhāvaṃ) [the-fruit](phalaṃ) [some](kiñca) [in-five-ways](pañcadhā) [or](api) [in-one-way](ekadhā) [what](ca) [is-it](kim)
