@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 248,
- "question": "What bodily form results from constant yogic practice over sixteen years?",
+ "question": "What bodily form results from constant yogic practice over time?",
  "premises": [
-  "The practitioner engages in constant yogic practice",
-  "The duration indicated is two times eight years",
-  "This practice produces a specific bodily form"
+  "The means is constant yogic practice.",
+  "A sixteen-year measure is specified.",
+  "A resulting form is attained."
  ],
  "inference": "Through constant yogic practice, one attains the form of a sixteen-year-old.",
- "uncertainties": [],
+ "uncertainties": [
+  "dvi-aṣṭa-varṣa interpreted as sixteen years"
+ ],
  "plain_english": "Through constant yogic practice, one attains the form of a sixteen-year-old."
 }

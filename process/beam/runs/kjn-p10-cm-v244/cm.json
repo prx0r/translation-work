@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound=balī+palita",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming bodily decay"
   },
   {
    "lemma": "palita",
-   "morph": "compound=balī+palita",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound naming bodily decay"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "attained result"
+   "grounds": "one attained result"
   },
   {
    "lemma": "tu",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "sudūrāt",
-   "morph": "n.abl.sg",
-   "grounds": "manner or range of seeing"
+   "morph": "(indecl.)",
+   "grounds": "indicates distance of perception"
   },
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "attained power"
+   "grounds": "another attained result"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "connects listed results"
   }
  ]
 }

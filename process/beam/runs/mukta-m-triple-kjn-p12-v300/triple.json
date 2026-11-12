@@ -7,57 +7,57 @@
     {
      "surface": "aśītiṃ",
      "gloss": "eighty",
-     "grounds": "numeral object indicating quantity",
+     "grounds": "numeral indicating quantity",
      "morph": "f.acc.sg"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "causative verb expressing removal",
-     "morph": "3.sg.act.opt √naś-caus"
+     "grounds": "verb of removal or elimination",
+     "morph": "3.sg.act.opt-√naś(caus)"
     },
     {
      "surface": "vātān",
-     "gloss": "winds",
-     "grounds": "bodily winds as objects of destruction",
+     "gloss": "wind-disorders",
+     "grounds": "bodily winds or ailments caused by them",
      "morph": "m.acc.pl"
     },
     {
      "surface": "kuṣṭha",
      "gloss": "leprosy",
-     "grounds": "first member specifying type of disease",
+     "grounds": "first member of compound with vyādhim",
      "morph": "compound-member"
     },
     {
      "surface": "vyādhim",
      "gloss": "disease",
-     "grounds": "disease as object of destruction",
-     "morph": "m.acc.sg (compound-final)"
+     "grounds": "ailment; compounded with kuṣṭha",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle adding emphasis or contrast",
+     "grounds": "particle of emphasis or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "repeated causative verb expressing removal",
-     "morph": "3.sg.act.opt √naś-caus"
+     "grounds": "verb of removal or elimination, repeated for emphasis",
+     "morph": "3.sg.act.opt-√naś(caus)"
     }
    ],
-   "question": "Which specific winds and diseases are claimed to be eliminated by this prescribed practice?",
+   "question": "Which specific wind-disorders and diseases are claimed to be eliminated by this practice?",
    "premises": [
-    "The practice destroys eighty winds.",
-    "The practice also destroys leprosy-disease.",
-    "Both eliminations are presented as effects of the same practice."
+    "The practice destroys eighty wind-disorders.",
+    "The practice also destroys the disease of leprosy.",
+    "The verb of destruction is stated twice for emphasis."
    ],
-   "inference": "The prescribed practice removes eighty bodily winds and the disease of leprosy.",
+   "inference": "This practice is claimed to eliminate eighty wind-disorders as well as leprosy.",
    "uncertainties": [
-    "The exact referent of the eighty winds depends on the broader medical or yogic context."
+    "Whether aśītiṃ qualifies vātān alone or implies a broader count is context-dependent."
    ],
-   "plain_english": "It destroys the eighty winds, and indeed destroys the disease of leprosy."
+   "plain_english": "It destroys the eighty wind-disorders, and indeed it destroys the disease of leprosy."
   }
  ]
 }

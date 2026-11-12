@@ -16,7 +16,7 @@
 },
 {
 "surface": "nāsā",
-"quick_gloss": "not+state"
+"quick_gloss": "not+breath/state"
 },
 {
 "surface": "asti",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "varṇyatām",
-"quick_gloss": "should-be-described"
+"quick_gloss": "let-it-be-described"
 }
 ]
 },
@@ -40,8 +40,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvajñatvasarvakartṛtvalakṣaṇataiva",
-"quick_gloss": "omniscience+omnipotence+characterized"
+"surface": "sarvajñatva",
+"quick_gloss": "omniscience"
+},
+{
+"surface": "sarvakartṛtva",
+"quick_gloss": "omnipotence"
+},
+{
+"surface": "lakṣaṇataiva",
+"quick_gloss": "characterized-by"
 },
 {
 "surface": "muktiḥ",
@@ -70,7 +78,7 @@
 },
 {
 "surface": "īśaḥ",
-"quick_gloss": "lord"
+"quick_gloss": "Lord"
 },
 {
 "surface": "anīśvaratāṃ",
@@ -95,7 +103,7 @@
 },
 {
 "surface": "svaguṇinaṃ",
-"quick_gloss": "own+possessor-of-quality"
+"quick_gloss": "own+substratum"
 },
 {
 "surface": "yānti",
@@ -111,7 +119,7 @@
 },
 {
 "surface": "guṇyantaraṃ",
-"quick_gloss": "to-another+possessor-of-quality"
+"quick_gloss": "to-another+substratum"
 },
 {
 "surface": "guṇāḥ",
@@ -198,7 +206,7 @@
 },
 {
 "surface": "prasajyate",
-"quick_gloss": "follows"
+"quick_gloss": "would-follow"
 },
 {
 "surface": "iti",
@@ -267,8 +275,8 @@
 "quick_gloss": "or"
 },
 {
-"surface": "aneka+tvam",
-"quick_gloss": "non-oneness"
+"surface": "anakatvam",
+"quick_gloss": "plurality"
 },
 {
 "surface": "iti",
@@ -300,12 +308,8 @@
 "quick_gloss": "operation"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "anyathā",
-"quick_gloss": "otherwise"
+"surface": "nānyathā",
+"quick_gloss": "not+otherwise"
 },
 {
 "surface": "matā",
@@ -322,7 +326,7 @@
 "tokens": [
 {
 "surface": "muktvā",
-"quick_gloss": "having-abandoned"
+"quick_gloss": "having-released"
 },
 {
 "surface": "yogaphalaṃ",
@@ -396,11 +400,11 @@
 },
 {
 "surface": "santaḥ",
-"quick_gloss": "good-people"
+"quick_gloss": "good-ones"
 },
 {
 "surface": "santaḥ",
-"quick_gloss": "good-people"
+"quick_gloss": "good-ones"
 },
 {
 "surface": "kathaṃ",
@@ -424,8 +428,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñānayogābhyāsādi",
-"quick_gloss": "knowledge+yoga+practice+etc."
+"surface": "jñānayogābhyāsa",
+"quick_gloss": "knowledge+yoga+practice"
+},
+{
+"surface": "ādi",
+"quick_gloss": "etc."
 },
 {
 "surface": "prayāsaṃ",
@@ -454,7 +462,7 @@
 },
 {
 "surface": "vaidharmyāt",
-"quick_gloss": "from-difference-of-nature"
+"quick_gloss": "by-difference"
 },
 {
 "surface": "guṇānāṃ",
@@ -479,7 +487,7 @@
 "tokens": [
 {
 "surface": "kartṛprasavasaṃkīrṇadharmakāḥ",
-"quick_gloss": "agent+emanation+mixed+natured"
+"quick_gloss": "agency+emanation+mixed+nature"
 },
 {
 "surface": "hi",
@@ -541,7 +549,7 @@
 },
 {
 "surface": "tatpratipattiḥ",
-"quick_gloss": "that+cognition"
+"quick_gloss": "its+cognition"
 },
 {
 "surface": "mithyā",
@@ -582,7 +590,7 @@
 "tokens": [
 {
 "surface": "kartṛtvādi",
-"quick_gloss": "agency+etc."
+"quick_gloss": "agency"
 },
 {
 "surface": "guṇāḥ",
@@ -601,12 +609,8 @@
 "quick_gloss": "qualities"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "aham",
-"quick_gloss": "I"
+"surface": "nāham",
+"quick_gloss": "not+I"
 },
 {
 "surface": "iti",
@@ -737,12 +741,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yathokta",
-"quick_gloss": "as-stated"
-},
-{
-"surface": "paśupāśeṣu",
-"quick_gloss": "in-soul+bonds+etc."
+"surface": "yathoktapaśupāśeṣu",
+"quick_gloss": "as-stated+soul+bonds"
 },
 {
 "surface": "sādhyasādhanavarjanāt",
@@ -767,7 +767,7 @@
 },
 {
 "surface": "aśreyaḥphalāḥ",
-"quick_gloss": "non-good+fruitful"
+"quick_gloss": "non-good+fruit"
 },
 {
 "surface": "śreyo'rthibhiḥ",
@@ -792,7 +792,7 @@
 },
 {
 "surface": "abādhitam",
-"quick_gloss": "unobstructed"
+"quick_gloss": "uncontradicted"
 }
 ]
 }
