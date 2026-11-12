@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound",
-   "grounds": "first part of numerical compound"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound",
-   "grounds": "second part of numerical compound"
+   "morph": "compound=aṣṭaka+second",
+   "grounds": "second member of numerical compound"
   },
   {
    "lemma": "vibhāgam",
    "morph": "m.acc.sg",
-   "grounds": "object to be known"
+   "grounds": "object to be fully known"
   },
   {
    "lemma": "tu",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "parijñātum",
-   "morph": "infinitive",
-   "grounds": "purpose infinitive"
+   "morph": "infinitive/√jñā",
+   "grounds": "purpose of the request"
   },
   {
    "lemma": "anantathā",
