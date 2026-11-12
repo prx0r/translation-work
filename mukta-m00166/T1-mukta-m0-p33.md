@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[star-like](stārā) [my](mama) [enemy+fear](arāt+abhiye) [be](astu) [savior](tārā)
+[star-like](stārā) [my+enemy+fear](mama+arāt+abhiye) [may-be](astu) [savior](tārā)
 
 ## mukta-m0-p33-v802
-[honey](madhu)+[endowed](ma)+[feminine-suffix](tī) [goddess](madhumatī)
+[sweet](madhu) [possessing](matī) [sweet-one](madhumatī) [goddess](madhumatī)
 
 ## mukta-m0-p33-v803
-[who](yā) [protecting](rakṣatāt) [me](māṃ) [from-honey-endowed](madhumaty)+[calamity](apāyāt)
+[who](yā) [may-protect+me](rakṣatāt+māṃ) [sweet-one](madhumatī) [from-mishap](apāyāt)
 
 ## mukta-m0-p33-v804
 [honey](madhuḥ) [sweetness](madhuḥ) [nectar](madhuḥ) [spring](madhuḥ)
 
 ## mukta-m0-p33-v805
-[without-other+effort](ananya+ceṣṭaṃ) [makes](kurute) [even](api) [sorrow+bound](duḥkha+badhyaṃ) [by-the-wise](budhaiḥ) [she](sā) [sweet](madhura) [here](atra) [may-prevail](jīyāt)
+[without-other+effort](ananyaceṣṭaṃ) [makes+even](kurute+'pi) [sorrow+bound](duḥkha+badhyaṃ) [by-the-wise](budhaiḥ) [she](sā) [sweetness+here](madhuḥ+atra) [may-prevail](jīyāt)
 
 ## mukta-m0-p33-v806
-[milk+ocean+nectar+seizing](kṣīra+arṇava+sudhā+hārā)
+[page-marker](p.) [number](122)) [milk-ocean+nectar+taking](kṣīrārṇava+sudhā+hārā) [goddess](kṣīrārṇava+sudhā+hārā)
 
 ## mukta-m0-p33-v807
-[milk+ocean+nectar+seizing](kṣīra+arṇava+sudhā+hārā) [Viṣṇu+form](viṣṇu+rūpā) [be](astu) [my](me) [refuge](araṇam)
+[milk-ocean+nectar+taking](kṣīrārṇava+sudhā+hārā) [Viṣṇu+form+may-be](viṣṇurūpā+astu) [my](me) [refuge]('raṇam)
 
 ## mukta-m0-p33-v808
-[Kālikā](kālikā) [dark-one](kālikā) [goddess](kālikā) [Kālī](kālikā)
+[dark-one](kālikā) [Kālī](kālikā) [black-goddess](kālikā) [time-goddess](kālikā)
 
 ## mukta-m0-p33-v809
-[from-meditation+alone](dhyānāt+eva) [may-give](dadātu) [she](sā) [unlimited](aparimitaṃ) [eternal](nityaṃ) [strength](balaṃ) [Kālikā](kālikā)
+[from-meditation+indeed](dhyānāt+eva) [may-give](dadātu) [she+immeasurable](sā+'parimitaṃ) [eternal](nityaṃ) [strength](balaṃ) [Kālī](kālikā)
 
 ## mukta-m0-p33-v810
-[lion+rider](siṃha+vāhinī) [lion-mounted](siṃha+vāhinī) [goddess](siṃha+vāhinī) [she](siṃha+vāhinī)
+[lion+rider](siṃha+vāhinī) [lion-mounted](siṃhavāhinī) [goddess](siṃhavāhinī) [rider](vāhinī)
 
 ## mukta-m0-p33-v811
-[what](kimu) [being](bhūtā) [on-the-path](pathi) [lion+rider](siṃha+vāhinī) [you](tvam)
+[what](kimu) [being](bhūtā) [on-path](pathi) [lion+rider](siṃha+vāhinī) [you](tvam)
 
 ## mukta-m0-p33-v812
-[Oṃkāra](oṃkārā) [sacred-syllable](oṃkārā) [praṇava](oṃkārā) [sound](oṃkārā)
+[oṃ+form](oṃ+kārā) [sacred-syllable](oṃkārā) [praṇava](oṃkārā) [goddess](oṃkārā)
 
 ## mukta-m0-p33-v813
-[who](yā) [within](antar) [always](nityaṃ) [resounds](dandhvanīti) [here](iha) [somehow](kācit) [Oṃkāra](oṅkārā) [this](iyaṃ) [yogi+sovereignty+giving](yogi+sāmrājya+dā) [be](astu)
+[who+within+always](yā+antar+nityam) [resounds+here](dandhvanīti+iha) [some+oṃkāra+this](kācit+oṃkārā+iyaṃ) [yogi+sovereignty+giver+may-be](yogi+sāmrājya+dā+astu)
 
 ## mukta-m0-p33-v814
-[earth+form](vasudhā+kārā) [earth-shaped](vasudhā+kārā) [goddess](vasudhā+kārā) [she](vasudhā+kārā)
+[earth+form](vasudhā+kārā) [earth-shaped](vasudhākārā) [goddess](vasudhākārā) [form](ākārā)
 
 ## mukta-m0-p33-v815
-[I-serve](seve) [that](tāṃ) [god+of-gods+goddess](deva+deva+īśīṃ) [independent](svatantrāṃ) [mantra+mother](mantra+mātaram)
+[I-worship](seve) [her](tāṃ) [god+of-gods+goddess](deva+deva+īśīṃ) [independent](svatantrāṃ) [mantra+mother](mantra+mātaram)
 
 ## mukta-m0-p33-v816
-[consciousness](cetanā) [awareness](cetanā) [spirit](cetanā) [sentience](cetanā)
+[page-marker](p.) [number](123)) [consciousness](cetanā) [awareness](cetanā)
 
 ## mukta-m0-p33-v817
-[own+abode+full-consciousness](svadhāma+pari+cetanā) [may-remove](haratu) [consciousness](cetanā) [she](sā) [difference](bhidām)
+[own+abode+full-consciousness](sva+dhāma+paricetanā) [may-remove](haratu) [consciousness](cetanā) [she](sā) [difference](bhidām)
 
 ## mukta-m0-p33-v818
-[anger+form](kopana+ākṛtiḥ) [wrathful-form](kopana+ākṛtiḥ) [goddess](kopana+ākṛtiḥ) [she](kopana+ākṛtiḥ)
+[anger+form](kopana+ākṛtiḥ) [wrathful-form](kopanākṛtiḥ) [goddess](kopanākṛtiḥ) [appearance](ākṛtiḥ)
 
 ## mukta-m0-p33-v819
-[always](sadā) [gentle+natured](saumya+svabhāvā) [even](api) [become](jātā) [she](sā) [anger+form](kopana+ākṛtiḥ)
+[always](sadā) [gentle+nature+although](saumya+svabhāvā+api) [become](jātā) [she](sā) [anger+form](kopana+ākṛtiḥ)
 
 ## mukta-m0-p33-v820
-[half+dot+bearing](ardha+bindu+dharā) [crescent-holder](ardha+bindu+dharā) [goddess](ardha+bindu+dharā) [she](ardha+bindu+dharā)
+[half+dot+bearing](ardha+bindu+dharā) [crescent-holder](ardhabindudharā) [goddess](ardhabindudharā) [bearer](dharā)
 
 ## mukta-m0-p33-v821
-[half+dot+bearing](ardha+bindu+dharā) [this](sā) [this](iyaṃ) [is-measured](mīyate) [by-whom](kena) [by-the-wise](dhīmatā)
+[half+dot+bearing](ardha+bindu+dharā) [she+this](sā+iyaṃ) [is-measured](mīyate) [by-whom](kena) [by-the-wise](dhīmatā)
 
 ## mukta-m0-p33-v822
-[stream](dhārā) [flow](dhārā) [current](dhārā) [goddess](dhārā)
+[stream](dhārā) [flow](dhārā) [current](dhārā) [series](dhārā)
 
 ## mukta-m0-p33-v823
-[boundless+ocean+world](apāra+avāra+saṃsāra) [essence+uplifting+cause](sāra+uddhāraṇa+kāraṇam)
+[boundless+shore+world+essence+uplifting+cause](apāra+āvāra+saṃsāra+sāra+uddhāraṇa+kāraṇam) [cause](kāraṇam) [uplifting](uddhāraṇa) [essence](sāra)
 
 ## mukta-m0-p33-v824
-[in-mantra+extraction+reverence](mantroddhāraka+mānate) [own+innate](sva+sahajaṃ) [devotion](bhaktī) [essence+limb+came](rasāṅka+āgamat)
+[mantra+extraction+honored](mantroddhāraka+mānate) [own+innate](sva+sahajaṃ) [devotion](bhaktī) [rasa+digit+came](rasāṅka+āgamat)
 
 ## mukta-m0-p33-v825
-[sixth](ṣaṣṭhī) [devotion](bhaktiḥ) [sixth-devotion](ṣaṣṭhī) [bhakti](bhaktiḥ)
+[sixth](ṣaṣṭhī) [devotion](bhaktiḥ) [sixth-devotion](ṣaṣṭhī+bhaktiḥ) [worship](bhaktiḥ)

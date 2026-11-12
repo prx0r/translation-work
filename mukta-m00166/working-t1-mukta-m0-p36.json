@@ -12,15 +12,15 @@
 },
 {
 "surface": "śraddhā",
-"quick_gloss": "trust"
-},
-{
-"surface": "śraddhā",
 "quick_gloss": "devotion"
 },
 {
 "surface": "śraddhā",
-"quick_gloss": "conviction"
+"quick_gloss": "trust"
+},
+{
+"surface": "śraddhā",
+"quick_gloss": "reverence"
 }
 ]
 },
@@ -32,7 +32,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "taddhāma",
+"surface": "tat+dhāma",
 "quick_gloss": "that+abode"
 },
 {
@@ -56,12 +56,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "mamadā",
-"quick_gloss": "mine+giving"
+"surface": "mama+dā",
+"quick_gloss": "joy-giving"
 },
 {
 "surface": "mama",
-"quick_gloss": "my"
+"quick_gloss": "to-me"
 },
 {
 "surface": "astu",
@@ -81,16 +81,16 @@
 "quick_gloss": "page-129"
 },
 {
-"surface": "sadgatiḥ",
+"surface": "sat+gatiḥ",
 "quick_gloss": "good+path"
 },
 {
-"surface": "sadgatiḥ",
-"quick_gloss": "good+destination"
+"surface": "sad+gatiḥ",
+"quick_gloss": "good-destination"
 },
 {
 "surface": "sadgatiḥ",
-"quick_gloss": "good+state"
+"quick_gloss": "salvation"
 }
 ]
 },
@@ -102,11 +102,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "santo",
-"quick_gloss": "the-good"
+"surface": "santaḥ",
+"quick_gloss": "good-ones"
 },
 {
-"surface": "bhajanto",
+"surface": "bhajantaḥ",
 "quick_gloss": "worshipping"
 },
 {
@@ -126,12 +126,8 @@
 "quick_gloss": "you-are-praised"
 },
 {
-"surface": "sadgatiḥ",
-"quick_gloss": "good+path"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "sad+gatiḥ+iti",
+"quick_gloss": "as-good-path"
 },
 {
 "surface": "atas",
@@ -151,20 +147,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "satparāyaṇā",
-"quick_gloss": "devoted+to+the-good"
+"surface": "sat+parāyaṇā",
+"quick_gloss": "devoted-to-the-good"
 },
 {
-"surface": "satparāyaṇā",
-"quick_gloss": "supreme+refuge"
+"surface": "sat+parāyaṇā",
+"quick_gloss": "supreme-refuge"
 },
 {
-"surface": "satparāyaṇā",
-"quick_gloss": "intent+on+truth"
+"surface": "sat+parāyaṇā",
+"quick_gloss": "devoted-to-truth"
 },
 {
-"surface": "satparāyaṇā",
-"quick_gloss": "dedicated+to+the-virtuous"
+"surface": "sat+parāyaṇā",
+"quick_gloss": "highest-goal"
 }
 ]
 },
@@ -176,16 +172,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "natu",
+"surface": "na",
 "quick_gloss": "not"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "jātu",
 "quick_gloss": "ever"
 },
 {
-"surface": "sadātvadātmakā",
-"quick_gloss": "always+your+nature"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "tvad+ātmakā",
+"quick_gloss": "of-your-nature"
 },
 {
 "surface": "yat",
@@ -193,7 +197,7 @@
 },
 {
 "surface": "parigītā",
-"quick_gloss": "sung"
+"quick_gloss": "you-are-sung"
 },
 {
 "surface": "hi",
@@ -204,8 +208,8 @@
 "quick_gloss": "you-are"
 },
 {
-"surface": "satparāyaṇātaḥ",
-"quick_gloss": "devoted+to+the-good"
+"surface": "sat+parāyaṇā+taḥ",
+"quick_gloss": "as-devoted-to-the-good"
 }
 ]
 },
@@ -246,12 +250,12 @@
 "quick_gloss": "river"
 },
 {
-"surface": "kandur",
-"quick_gloss": "root-destroyer"
+"surface": "kanduḥ",
+"quick_gloss": "destroyer"
 },
 {
-"surface": "duṣkṛtaidhassu",
-"quick_gloss": "of-evil-deed+heaps"
+"surface": "duṣkṛta+edhassu",
+"quick_gloss": "in-evil-deed+heaps"
 },
 {
 "surface": "bhūyāt",
@@ -259,7 +263,7 @@
 },
 {
 "surface": "bhūyāt",
-"quick_gloss": "abundantly"
+"quick_gloss": "abundant"
 }
 ]
 },
@@ -300,15 +304,15 @@
 "quick_gloss": "she"
 },
 {
-"surface": "vṛndārakavanditā",
-"quick_gloss": "by-gods+worshipped"
+"surface": "vṛndāraka+vanditā",
+"quick_gloss": "by-gods+adored"
 },
 {
 "surface": "haratu",
 "quick_gloss": "may-remove"
 },
 {
-"surface": "no",
+"surface": "naḥ",
 "quick_gloss": "of-us"
 },
 {
@@ -359,7 +363,7 @@
 },
 {
 "surface": "gaṅgā",
-"quick_gloss": "Ganges"
+"quick_gloss": "Ganga"
 },
 {
 "surface": "api",
@@ -370,12 +374,16 @@
 "quick_gloss": "makes"
 },
 {
-"surface": "citramamalaṃ",
-"quick_gloss": "wonder+spotless"
+"surface": "citram",
+"quick_gloss": "wonder"
 },
 {
-"surface": "sarvoparisthaṃ",
-"quick_gloss": "above+all+standing"
+"surface": "amalaṃ",
+"quick_gloss": "spotless"
+},
+{
+"surface": "sarva+uparisthaṃ",
+"quick_gloss": "above-all+standing"
 },
 {
 "surface": "janam",
@@ -416,7 +424,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mayadamanī",
+"surface": "maya+damanī",
 "quick_gloss": "pride+subduing"
 },
 {
@@ -424,8 +432,8 @@
 "quick_gloss": "Yamuna"
 },
 {
-"surface": "yamatvadāstu",
-"quick_gloss": "death+restraining"
+"surface": "yama+tva+dā",
+"quick_gloss": "restraint+giving"
 },
 {
 "surface": "astu",
@@ -466,7 +474,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nīrabhūr",
+"surface": "nīra+bhūr",
 "quick_gloss": "waterless"
 },
 {
@@ -478,8 +486,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "bhogarasadāstu",
+"surface": "bhoga+rasa+dā",
 "quick_gloss": "enjoyment+essence+giving"
+},
+{
+"surface": "astu",
+"quick_gloss": "may-be"
 },
 {
 "surface": "sarasvatī",
@@ -528,11 +540,11 @@
 "quick_gloss": "dullness"
 },
 {
-"surface": "no",
+"surface": "naḥ",
 "quick_gloss": "of-us"
 },
 {
-"surface": "bodhagobhir",
+"surface": "bodha+gobhiḥ",
 "quick_gloss": "by-knowledge+rays"
 },
 {
@@ -554,11 +566,11 @@
 },
 {
 "surface": "vipāśā",
-"quick_gloss": "unfettered-river"
+"quick_gloss": "unfettered"
 },
 {
 "surface": "vipāśā",
-"quick_gloss": "free-from-bonds"
+"quick_gloss": "river-Vipasha"
 },
 {
 "surface": "vipāśā",
@@ -582,8 +594,8 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "tatodaughā",
-"quick_gloss": "that+stream"
+"surface": "tata+udaughā",
+"quick_gloss": "flowing+stream"
 },
 {
 "surface": "vipāśā",
@@ -640,11 +652,11 @@
 "quick_gloss": "of-rivers"
 },
 {
-"surface": "kṣaṇahativibhavān",
+"surface": "kṣaṇa+hati+vibhavāt",
 "quick_gloss": "by-moment+destruction+power"
 },
 {
-"surface": "nimnaharṣopayānāt",
+"surface": "nimna+harṣa+upayānāt",
 "quick_gloss": "to-low+joy+attainment"
 }
 ]
@@ -661,12 +673,12 @@
 "quick_gloss": "Shatadruka"
 },
 {
-"surface": "śatadrukā",
+"surface": "śata+drukā",
 "quick_gloss": "hundred-channeled"
 },
 {
 "surface": "śatadrukā",
-"quick_gloss": "Sutlej-river"
+"quick_gloss": "river-Sutlej"
 },
 {
 "surface": "śatadrukā",
@@ -682,7 +694,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śatasadbhiḥ",
+"surface": "śata+sadbhiḥ",
 "quick_gloss": "by-hundred+good-ones"
 },
 {

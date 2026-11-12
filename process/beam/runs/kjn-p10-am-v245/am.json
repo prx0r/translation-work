@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 245,
- "question": "What practice should one perform in solitude while intent on meditation?",
+ "question": "What practice in solitude enables one to assume many forms through devoted meditation?",
  "premises": [
   "The practice is to be done in solitude",
-  "The practitioner should be intent on meditation",
-  "The practitioner is instructed to create many forms"
+  "One is instructed to assume many forms",
+  "One must be intent on meditation"
  ],
- "inference": "In solitude, intent on meditation, one should create many forms",
- "uncertainties": [],
- "plain_english": "In solitude, intent on meditation, create many forms."
+ "inference": "In solitude, being intent on meditation, one should practice assuming many forms",
+ "uncertainties": [
+  "dhyānañ shows sandhi before ca in the given tokenization"
+ ],
+ "plain_english": "In solitude, intent on meditation, make yourself assume many forms."
 }
