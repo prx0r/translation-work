@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[all-perception-knowledge-emptiness](sarva[6 ]darśanavijñānaśūnyatā) [padas](pada) [knowers](vedinām)
+[all](sarva) [view](darśana) [knowledge](vijñāna) [emptiness](śūnyatā) [of-word-knowers](padavedinām)
 
 ## mukta-m0-p09-v202
-[seeing](paśyantyā) [described](varṇyamānatve) [hand](haste) [graspable-unity](grāhyaikatā) [falls](patet)
+[of-seeing-speech](paśyantyā) [in-being-described](varṇyamānatve) [in-hand](haste) [graspable](grāhya) [oneness](ekatā) [would-fall](patet)
 
 ## mukta-m0-p09-v203
-[action-sense](karmendriye) [that-graspable](tadgrāhyeṇa) [object](viṣayeṇa) [unity](ekatā) [would-arise](prasajyeta)
+[in-organ-of-action](karmendriye) [by-that-grasped](tadgrāhyeṇa) [by-object](viṣayeṇa) [oneness](ekatā) [would-result](prasajyeta)
 
 ## mukta-m0-p09-v204
-[not](na[1 ]) [that-visible](taddraṣṭavyam) [this](iti) [reflection](vimarśaḥ) [prior](pūrvato) [becomes](bhavet)
+[not](na) [that](tat) [to-be-seen](draṣṭavyam) [thus](iti) [this](etat) [reflection](vimarśaḥ) [from-before](pūrvataḥ) [would-be](bhavet)
 
 ## mukta-m0-p09-v205
-[reflection](vimarśa) [desire-form](icchārūpeṇa) [similarly](tadvad) [here](atrāpi) [established](saṃsthitam)
+[reflection](vimarśaḥ) [in-form-of-will](icchārūpeṇa) [like-that](tadvat) [here](atra) [also](api) [situated](saṃsthitam)
 
 ## mukta-m0-p09-v206
-[until](yāvat) [not](na) [subtle](sūkṣma) [rising](ullāsaḥ) [of-consciousness](citaḥ) [action-oriented](kāryonmukhaḥ) [stands](sthitaḥ)
+[as-long-as](yāvat) [not](na) [subtle](sūkṣmaḥ) [manifestation](ullāsaḥ) [of-consciousness](citaḥ) [action](kārya) [facing](unmukhaḥ) [stands](sthitaḥ)
 
 ## mukta-m0-p09-v207
-[thus](evaṃ) [world-process](bhavaprakriyāyā) [also](api) [subtler](sūkṣmatarā) [state](sthitiḥ)
+[thus](evam) [of-becoming](bhava) [of-process](prakriyāyāḥ) [also](api) [more-subtle](sūkṣmatarā) [state](sthitiḥ)
 
 ## mukta-m0-p09-v208
-[desired](iṣyate) [brahma-form](brahma[2 ]rūpatvaṃ) [pot-etc](ghaṭāderapi) [let-be-said](kathyatām)
+[is-desired](iṣyate) [Brahman](brahma) [nature](rūpatvam) [of-pot](ghaṭa) [etc.](ādeḥ) [also](api) [let-it-be-stated](kathyatām)
 
 ## mukta-m0-p09-v209
-[pot-etc](ghaṭāderapi) [thus](evam) [let-be-said](ucyatām)
+[of-pot](ghaṭa) [etc.](ādeḥ) [also](api) [thus](evam) [let-it-be-said](ucyatām)
 
 ## mukta-m0-p09-v210
-[similarly](tadvad) [speech-sense](vāgindriyasyāpi) [not](na) [again](punaḥ) [that](sā) [supreme-state](parā) [state](daśā[3 ])
+[like-that](tadvat) [of-speech-organ](vāgindriyasya) [also](api) [not](na) [again](punaḥ) [that](sā) [supreme](parā) [state](daśā)
 
 ## mukta-m0-p09-v211
-[instrument](karaṇaṃ) [not](nāda) [form-etc](rūpādi) [word](śabdasyāsti) [śiva-nature](śivātmatā)
+[instrument](karaṇam) [not](na) [of-sound](śabdasya) [consisting-of-non-sound](adarūpa) [etc.](ādi) [exists](asti) [Śiva](śiva) [nature](ātmatā)
 
 ## mukta-m0-p09-v212
-[not](na) [speech](vāca) [desired](iṣyate) [similarly](tadvat) [therefore](tastmāt) [all](sarvaṃ) [śiva-natured](śivātmakam)
+[not](na) [of-speech](vācaḥ) [is-desired](iṣyate) [like-that](tadvat) [therefore](tasmāt) [all](sarvam) [Śiva](śiva) [natured](ātmakam)
 
 ## mukta-m0-p09-v213
-[fitting](yuktam) [therefore](ataḥ) [all](sarvaṃ) [śiva-natured](śivātmakam) [indeed](eva) [established](upapannam) [thus](iti) [śiva](śivam)
+[is-reasonable](yuktam) [therefore](ataḥ) [all](sarvam) [Śiva](śiva) [natured](ātmakam) [indeed](eva) [is-established](upapannam) [thus](iti) [auspiciousness](śivam)
 
 ## mukta-m0-p09-v214
-[thus](iti) [śrī-utpala-deva-work](śrīmadutpaladevapādakṛtau) [śrī-śiva-view-commentary](śrīśivadṛṣṭivṛttau) [second](dvitīyam) [chapter](āhnikam)
+[thus](iti) [of-venerable](śrīmat) [Utpaladeva](utpaladeva) [by-the-master](pādakṛtau) [in-venerable](śrī) [Śivadṛṣṭi](śivadṛṣṭi) [commentary](vṛttau) [second](dvitīyam) [chapter](āhnikam)
 
 ## mukta-m0-p09-v215
-[by-reason](yuktyā) [revealed](prakāśito) [deity](devaḥ) [therefore](tataḥ[5 ]) [power-state](śaktidaśā) [since](yataḥ)
+[by-reasoning](yuktyā) [revealed](prakāśitaḥ) [Lord](devaḥ) [thereafter](tataḥ) [of-power](śakti) [state](daśā) [because](yataḥ)
 
 ## mukta-m0-p09-v216
-[as-male](puṃstvena) [establishment](upapattiḥ)
+[by-personhood](puṃstvena) [establishment](upapattiḥ)
 
 ## mukta-m0-p09-v217
-[not](na[2 ]) [śiva](śivaḥ) [without-power](śaktirahito) [not](na) [power](śaktiḥ) [separate](vyatirekiṇī)
+[not](na) [Śiva](śivaḥ) [without-power](śaktirahitaḥ) [not](na) [power](śaktiḥ) [separate](vyatirekiṇī)
 
 ## mukta-m0-p09-v218
-[power-and-possessor-difference](śaktiśaktimatorbhedaḥ[3 ]) [in-śaiva](śaive) [ever](jātu) [not](na) [described](varṇyate)
+[of-power](śakti) [and-power-holder](śaktimatoḥ) [difference](bhedaḥ) [in-Śaiva-doctrine](śaive) [ever](jātu) [not](na) [is-described](varṇyate)
 
 ## mukta-m0-p09-v219
-[as-elsewhere](yathānyatrā) [invalid-views](prāmāṇikadarśaneṣu)
+[as](yathā) [in-other](anyatra) [unauthoritative](aprāmāṇika) [doctrines](darśaneṣu)
 
 ## mukta-m0-p09-v220
-[capacity](sāmarthyaṃ) [if](yadi) [imagined](kalpyeta) [that](tannāmā) [infinity](nantyameva) [or](vā)
+[capacity](sāmarthyam) [if](yadi) [were-imagined](kalpyeta) [then](tat) [name](nāma) [endlessness](ānantyam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p09-v221
-[power-possessor](śaktimān) [indeed](eva) [power](śaktiḥ) [syācchivavat[2 ]](syācchivavat[2 ]) [instrument-purpose](karaṇārthataḥ)
+[power-holder](śaktimān) [indeed](eva) [power](śaktiḥ) [would-be](syāt) [like-Śiva](śivavat) [for-purpose-of-instrument](karaṇārthataḥ)
 
 ## mukta-m0-p09-v222
-[releasing](muñcato'pi) [own](nijāṃ) [power](śaktiṃ) [in-freedom](svātantrye[1 ]) [knowledge](jñānam) [would-obtain](āpatet)
+[even-releasing](muñcataḥ) [also](api) [own](nijām) [power](śaktim) [in-independence](svātantrye) [knowledge](jñānam) [would-result](āpatet)
 
 ## mukta-m0-p09-v223
-[thus](tathā[1 ]) [himalaya-fire](himavahnyoḥ) [cold-hot-touch](śītoṣṇasparśau) [not](na) [separately](pṛthag) [perceived](upalabhyete)
+[thus](tathā) [of-snow](hima) [and-fire](vahnyoḥ) [cold](śīta) [and-hot](uṣṇa) [touches](sparśau) [not](na) [separately](pṛthak) [are-perceived](upalabhyete)
 
 ## mukta-m0-p09-v224
-[mantra](mantra[3 ]) [stopping](stambhanatāyāṃ) [indeed](hi) [not](nāsau) [fire](vahnistadocyate)
+[by-mantra](mantra) [in-paralysis](stambhanatāyām) [indeed](hi) [not](na) [that](asau) [fire](vahniḥ) [there](tat) [is-said](ucyate)
 
 ## mukta-m0-p09-v225
-[if](yadyauṣṇyā) [non-separation](vyatirekatve) [example](dṛṣṭānto) [burning-support](dāhakāśrayāt)
+[if](yadi) [in-non-separation-from-heat](auṣṇyāvyatirekatve) [example](dṛṣṭāntaḥ) [from-locus-of-burning](dāhakāśrayāt)
