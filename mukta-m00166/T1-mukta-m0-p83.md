@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[totulā](totulā) [iti](iti) [nāma](nāma) [devyāḥ](devyāḥ)
+totally-balanced(totulā) she(totulā) is(totulā) that(totulā)
 
 ## mukta-m0-p83-v2052
-[totulā](totulā) [atulā](atulā) [kalā](kalā) [kalā](kalā) [astu](astu) [sā](sā)
+from-totulā(totulā+) +balance-art(tulakalā) art(kalā) +may-be(astu) she(sā)
 
 ## mukta-m0-p83-v2053
-[tulā](tulā) [koṭiḥ](koṭiḥ) [iti](iti) [nāma](nāma)
+balance(tulā+) +peak(koṭiḥ) she(tulākoṭiḥ) is(tulākoṭiḥ)
 
 ## mukta-m0-p83-v2054
-[deyāt](deyāt) [tulā](tulā) [koṭiḥ](koṭiḥ) [iyam](iyaṃ) [tulām](tulāṃ) [nijām](nijām)
+may-give(deyāt) balance(tulā+) +peak(koṭiḥ) +this(iyam) balance(tulām) own(nijām)
 
 ## mukta-m0-p83-v2055
-[kūṭa](kūṭa) [sthā](sthā) [iti](iti) [nāma](nāma)
+p.-249(p.) 249(249)) unchanging(kūṭasthā) she(kūṭasthā)
 
 ## mukta-m0-p83-v2056
-[lipyate](lipyate) [jātucit](jātucit) [kācit](kācit) [kūṭa](kūṭa) [sthā](sthā) [cit](cit) [mayī](mayī) [iha](iha) [sā](sā)
+is-stained(lipyate) ever(jātucit) any(kācit) unchanging(kūṭasthā) consciousness-made(cinmayī) +here(iha) she(sā)
 
 ## mukta-m0-p83-v2057
-[koṭara](koṭara) [āśrayā](āśrayā) [iti](iti) [nāma](nāma)
+hollow(koṭara+) +dwelling(āśrayā) she(koṭarāśrayā) is(koṭarāśrayā)
 
 ## mukta-m0-p83-v2058
-[śrayā](śrayā) [śriyā](śriyā) [nitya](nitya) [nija](nija) [āsana](āsana) [ṛddhayā](eddhayā)
+with-refuge(śrayā) with-glory(śriyā) with-eternal(nitya+) +own(nija+) +seat(āsana+) +prosperity(ṛddhayā) she(śrayā)
 
 ## mukta-m0-p83-v2059
-[svayam](svayam) [bhūḥ](bhūḥ) [iti](iti) [nāma](nāma)
+self(svayam+) +born(bhūḥ) she(svayambhūḥ) is(svayambhūḥ)
 
 ## mukta-m0-p83-v2060
-[katham](kathaṃ) [sā](sā) [svayam](svayam) [bhūḥ](bhūḥ) [jaḍaiḥ](jaḍaiḥ) [nyāyya](nyāyya) [bhāvyā](bhāvyā)
+how(kathaṃ) she(sā) self-born(svayambhūḥ) +by-the-dull(jaḍaiḥ) +to-be-conceived(nyāyya+) +as-to-be-conceived(bhāvyā)
 
 ## mukta-m0-p83-v2061
-[su](su) [rūpā](rūpā) [iti](iti) [nāma](nāma)
+beautiful-form(su+) +(rūpā) she(surūpā) is(surūpā)
 
 ## mukta-m0-p83-v2062
-[janasya](janasya) [harate](harate) [sā](sā) [eva](eva) [su](su) [rūpā](rūpā) [iti](iti) [nirūpitā](nirūpitā)
+of-person(janasya) takes-away(harate) she-alone(sa) +indeed(eva) beautiful(surūpā) +thus(iti) described(nirūpitā)
 
 ## mukta-m0-p83-v2063
-[sva](sva) [rūpā](rūpā) [iti](iti) [nāma](nāma)
+own(sva+) +form(rūpā) she(svarūpā) is(svarūpā)
 
 ## mukta-m0-p83-v2064
-[calati](ccalati) [ataḥ](ataḥ) [sā](sā) [hi](hi) [sadā](sadā) [sva](sva) [rūpā](rūpā)
+moves(ccalati) +therefore(ataḥ) she(sā) indeed(hi) always(sadā) own-form(svarūpā)
 
 ## mukta-m0-p83-v2065
-[rūpa](rūpa) [varddhinī](varddhinī) [iti](iti) [nāma](nāma)
+p.-250(p.) 250(250)) form(rūpa+) +increasing(varddhinī) she(rūpavarddhinī)
 
 ## mukta-m0-p83-v2066
-[yāvat](yāvat) [na](na) [iyam](iyaṃ) [prasannā](prasannā) [syāt](syāt) [nī](nī) [rūpā](rūpā) [rūpa](rūpa) [varddhinī](varddhinī)
+as-long-as(yāvat) +not(na) +this(iyam) pleased(prasannā) may-be(syāt) +formless(nīrūpā) form-increasing(rūpavarddhinī)
 
 ## mukta-m0-p83-v2067
-[tejasvinī](tejasvinī) [iti](iti) [nāma](nāma)
+radiant(tejasvinī) she(tejasvinī) is(tejasvinī) that(tejasvinī)
 
 ## mukta-m0-p83-v2068
-[tejasvinī](tejasvinī) [yasya](yasya) [sadā](sadā) [prasannā](prasannā)
+radiant(tejasvinī) of-whom(yasya) always(sadā) pleased(prasannā) she(tejasvinī)
 
 ## mukta-m0-p83-v2069
-[su](su) [bhikṣā](bhikṣā) [iti](iti) [nāma](nāma)
+abundant-food(su+) +(bhikṣā) she(subhikṣā) is(subhikṣā)
 
 ## mukta-m0-p83-v2070
-[kaḥ](kaḥ) [syāt](syāt) [tadā](tadā) [dātṛ](dātṛ) [kalā](kalā) [bala](bala) [jñaḥ](jñaḥ)
+who(kaḥ) may-be(syāt) +then(tadā) giver(dātṛ+) +art(kalā+) +strength(bala+) +knower(jñaḥ)
 
 ## mukta-m0-p83-v2071
-[bala](bala) [dā](dā) [iti](iti) [nāma](nāma)
+strength(bala+) +giver(dā) she(baladā) is(baladā)
 
 ## mukta-m0-p83-v2072
-[sarvatra](sarvatra) [bala](bala) [dā](dā) [sā](sā) [astu](astu) [svātantrya](svātantrya) [bala](bala) [dā](dā) [sadā](sadā)
+everywhere(sarvatra) strength-giver(baladā) she(sā) +may-be(astu) independence(svātantrya+) +strength(bala+) +giver(dā) always(sadā)
 
 ## mukta-m0-p83-v2073
-[bala](bala) [dāyinī](dāyinī) [iti](iti) [nāma](nāma)
+strength(bala+) +bestower(dāyinī) she(baladāyinī) is(baladāyinī)
 
 ## mukta-m0-p83-v2074
-[bhavatu](bhavatu) [sadā](sadā) [bala](bala) [dāyinī](dāyinī) [vinetrī](vinetrī)
+may-be(bhavatu) always(sadā) strength-bestower(baladāyinī) leader(vinetrī) she(vinetrī)
 
 ## mukta-m0-p83-v2075
-[mahā](mahā) [kośī](kośī) [iti](iti) [nāma](nāma)
+p.-251(p.) 251(251)) great(mahā+) +treasury(kośī) she(mahākośī)
