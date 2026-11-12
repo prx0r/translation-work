@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protective effect follows from the preceding practice such that poison does not enter the body even in a case of being bitten?",
+ "question": "What immunity to poison is gained by one who has mastered this practice?",
  "premises": [
-  "A person may be bitten by great serpents.",
-  "Even in that case, the person is bitten.",
-  "Poison does not enter that person's body."
+  "The practitioner may be bitten by great serpents",
+  "Poison does not enter the body",
+  "This is a result of the practice"
  ],
- "inference": "As a result of the practice, poison does not enter the body even if bitten by great serpents.",
- "uncertainties": [
-  "The verse states the effect but does not name the practice again within it alone."
- ],
- "plain_english": "Poison does not enter the body, even if bitten by great serpents."
+ "inference": "Even if bitten by great serpents, poison does not enter the body of such a practitioner.",
+ "uncertainties": [],
+ "plain_english": "Even if bitten by great serpents, poison does not enter the body."
 }
