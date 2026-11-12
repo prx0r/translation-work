@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "ṣaṇmāsād",
-   "morph": "compound:m.abl.sg",
-   "grounds": "ablative of time; compound ṣaṣ+māsa"
+   "morph": "m.abl.sg, compound = ṣaṣ+member + māsa+member",
+   "grounds": "ablative indicating duration after which result occurs"
   },
   {
    "lemma": "abhyased",
-   "morph": "3.sg.opt.act:abhyas",
-   "grounds": "optative verb"
+   "morph": "3.sg.act-opt + abhyas",
+   "grounds": "optative expressing recommended practice"
   },
   {
    "lemma": "yas",
    "morph": "m.nom.sg",
-   "grounds": "relative pronoun"
+   "grounds": "relative pronoun introducing practitioner"
   },
   {
    "lemma": "tu",
@@ -25,12 +25,12 @@
   {
    "lemma": "kāṣāyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of practice or renunciation context"
+   "grounds": "object indicating renunciant condition or discipline"
   },
   {
    "lemma": "bandha+varjitam",
-   "morph": "compound:n.acc.sg",
-   "grounds": "descriptive compound bandha+varjita"
+   "morph": "n.acc.sg, compound = bandha+member + varjita+member",
+   "grounds": "attribute qualifying the practice or state"
   }
  ]
 }

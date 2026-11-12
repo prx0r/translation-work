@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "anena",
-   "morph": "n.inst.sg",
-   "grounds": "instrumental demonstrative"
+   "morph": "n.ins.sg",
+   "grounds": "instrument indicating means"
   },
   {
    "lemma": "jñāna+mātreṇa",
-   "morph": "compound:n.inst.sg",
-   "grounds": "instrumental of means; compound jñāna+mātra"
+   "morph": "n.ins.sg, compound = jñāna+member + mātra+member",
+   "grounds": "instrument specifying knowledge alone as means"
   },
   {
    "lemma": "śrutena",
-   "morph": "n.inst.sg",
-   "grounds": "past passive participle"
+   "morph": "n.ins.sg, past-participle + śru",
+   "grounds": "attribute indicating knowledge received by hearing"
   },
   {
    "lemma": "ca",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "varānane",
-   "morph": "compound:f.voc.sg",
-   "grounds": "vocative address; compound vara+ānana"
+   "morph": "f.voc.sg, compound = vara+member + ānana+member",
+   "grounds": "vocative addressing the listener"
   }
  ]
 }

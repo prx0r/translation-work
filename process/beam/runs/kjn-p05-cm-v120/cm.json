@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "kathayāmi",
-   "morph": "1.sg.pres.act:kath",
-   "grounds": "present active verb"
+   "morph": "1.sg.act-pres + kath",
+   "grounds": "verb promising instruction"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation particle"
+   "grounds": "negation used in assurance"
   },
   {
    "lemma": "sandeho",
    "morph": "m.nom.sg",
-   "grounds": "subject of negation"
+   "grounds": "object denied to assure certainty"
   },
   {
    "lemma": "yathā",
@@ -25,12 +25,12 @@
   {
    "lemma": "mṛtyur",
    "morph": "m.nom.sg",
-   "grounds": "subject of destruction"
+   "grounds": "subject to be destroyed"
   },
   {
    "lemma": "vinaśyati",
-   "morph": "3.sg.pres.act:vi-naś",
-   "grounds": "present active verb"
+   "morph": "3.sg.act-fut + vi-naś",
+   "grounds": "verb stating result"
   }
  ]
 }

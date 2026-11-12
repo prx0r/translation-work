@@ -7,37 +7,38 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral referring to count",
+     "grounds": "numeral form as given",
      "morph": "indecl."
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural of thousand",
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral as given",
      "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "locative plural of a compound form",
+     "gloss": "womb-diagrams",
+     "grounds": "compound form as given",
      "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle form",
+     "grounds": "past participle form as given",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "By what count and in what contexts are certain beings said to endure torment according to this statement?",
+   "question": "What claim about the scale of suffering must hold for beings to be tormented in eighty-four thousand womb-diagrams?",
    "premises": [
-    "A count of eighty-four is specified here.",
-    "That count applies within thousands of womb-diagrams.",
-    "Beings are described as tormented in those contexts."
+    "Eighty-four thousand womb-diagrams form a defined set of locations.",
+    "Beings are present within those womb-diagrams in large numbers.",
+    "Such beings are subject to torment within those locations."
    ],
-   "inference": "Torment is said to occur to beings within eighty-four thousand womb-diagrams.",
+   "inference": "A vast multitude of beings undergo torment across eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The identity of the tormented beings is not specified by these tokens alone."
+    "The exact nature of the torment remains unspecified.",
+    "The identity of the beings undergoing torment remains unspecified."
    ],
    "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
   }
