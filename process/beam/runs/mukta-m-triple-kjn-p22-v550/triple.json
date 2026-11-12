@@ -7,50 +7,52 @@
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "root jñā 'know'; absolutive form",
-     "morph": "absolutive"
+     "grounds": "absolutive expressing prior completed cognition",
+     "morph": "(gerund, √jñā)"
     },
     {
      "surface": "tattvam",
-     "gloss": "truth",
-     "grounds": "neuter noun tattva 'truth/reality'",
+     "gloss": "reality",
+     "grounds": "object of knowing; the true principle",
      "morph": "n.acc.sg"
     },
     {
      "surface": "idam",
      "gloss": "this",
-     "grounds": "demonstrative pronoun idam",
-     "morph": "pron.acc.sg.n"
+     "grounds": "demonstrative pointing to the described reality",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "devi",
      "gloss": "o-goddess",
-     "grounds": "vocative of devī",
-     "morph": "voc.sg.f"
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
     },
     {
      "surface": "bhava+bandhā+tmakaiḥ",
-     "gloss": "by-existence-bond-consisting",
-     "grounds": "compound bhava-bandha-ātmaka 'consisting of existence-bond'; instrumental plural",
-     "morph": "inst.pl.m/n"
+     "gloss": "by-worldly-bond-natured",
+     "grounds": "compound denoting those constituted by the bondage of existence",
+     "morph": "compound: bhava+bandha+ātmaka; m.inst.pl"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
-     "grounds": "vocative of priyā",
-     "morph": "voc.sg.f"
+     "grounds": "vocative address expressing affection",
+     "morph": "f.voc.sg"
     }
    ],
-   "question": "What truth must be known to be freed from the bond of existence?",
+   "question": "What effect does knowing this reality have on those constituted by worldly bondage?",
    "premises": [
-    "Knowledge of this truth frees from existence-bond.",
-    "The verse addresses the goddess as beloved."
+    "This reality is an object that can be known.",
+    "Some beings are constituted by the bondage of worldly existence.",
+    "Direct knowledge of reality bears on the condition of bondage."
    ],
-   "inference": "Knowing this truth liberates from bhava-bandha.",
+   "inference": "Knowing this reality transforms the condition of those constituted by worldly bondage.",
    "uncertainties": [
-    "Instrumental plural gender of the compound is ambiguous."
+    "The verse is a fragmentary tail, so the main predicate completing the effect is absent.",
+    "The referent of bhava+bandhā+tmakaiḥ could be beings or bonds depending on the missing context."
    ],
-   "plain_english": "Having known this truth, O goddess, O beloved, one is freed from bonds consisting of existence."
+   "plain_english": "O goddess, O beloved, having known this reality, [one is affected] in relation to those constituted by the bondage of worldly existence."
   }
  ]
 }

@@ -7,40 +7,38 @@
     {
      "surface": "caturaṅgabalaṃ",
      "gloss": "four-limbed-army",
-     "grounds": "compound catur-aṅga-bala in accusative singular neuter",
-     "morph": "n.acc.sg"
+     "grounds": "compound denoting an army with four divisions",
+     "morph": "compound.acc.sg.nt"
     },
     {
      "surface": "jitvā",
      "gloss": "having-conquered",
-     "grounds": "gerund of root ji",
-     "morph": "(indecl.)"
+     "grounds": "absolutive expressing prior completed action",
+     "morph": "gerund (√ji)"
     },
     {
      "surface": "uṣṭānāṃ",
      "gloss": "of-camels",
-     "grounds": "genitive plural masculine",
+     "grounds": "genitive plural indicating the beings affected",
      "morph": "m.gen.pl"
     },
     {
      "surface": "stambhakārakam",
-     "gloss": "paralyzing-causing",
-     "grounds": "compound stambha-kāraka in accusative singular masculine",
-     "morph": "m.acc.sg"
+     "gloss": "causing-paralysis",
+     "grounds": "compound agentive adjective describing one who brings about immobilization",
+     "morph": "compound.acc.sg.m"
     }
    ],
-   "question": "Which four-limbed army is conquered by the vaṭuka who paralyzes camels?",
+   "question": "What conquering and paralyzing power over armies and camels is attributed to Vaṭuka?",
    "premises": [
-    "vaṭuka conquers four-limbed army",
-    "vaṭuka paralyzes camels",
-    "verse names ritual power"
+    "Vaṭuka is described as having conquered a four-limbed army.",
+    "Vaṭuka is described as causing the paralysis of camels."
    ],
-   "inference": "The vaṭuka's power overcomes both army and camels.",
+   "inference": "Vaṭuka possesses the power to overcome military forces and immobilize camels.",
    "uncertainties": [
-    "exact syntactic relation of stambhakārakam",
-    "whether uṣṭānāṃ modifies stambhakārakam"
+    "The exact referent of the four-limbed army in this ritual context is not specified."
    ],
-   "plain_english": "Having conquered the four-limbed army, he is the paralyzer of camels."
+   "plain_english": "Having conquered a four-limbed army, he causes the paralysis of camels."
   }
  ]
 }

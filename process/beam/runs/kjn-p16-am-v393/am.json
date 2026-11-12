@@ -1,15 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 393,
- "question": "Which deities are included in this enumeration?",
+ "question": "Which deities are listed as being subject to the order of effects stated in this context?",
  "premises": [
-  "Brahma Viṣṇu Yama Indra are named",
-  "Varuṇa is added",
-  "Vāyu is added"
+  "Brahmā, Viṣṇu, Yama and Indra are included.",
+  "Varuṇa is included.",
+  "Vāyu is included indeed."
  ],
- "inference": "The enumeration includes Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu.",
+ "inference": "A defined set of major deities is listed as falling under this context.",
  "uncertainties": [
-  "sentence incomplete"
+  "The predicate relation of these deities is presupposed from surrounding verses."
  ],
- "plain_english": "Brahma, Viṣṇu, Yama, Indra, and Varuṇa, Vāyu indeed and."
+ "plain_english": "Brahmā, Viṣṇu, Yama and Indra, and Varuṇa and Vāyu too, are included."
 }

@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "na",
-   "morph": "indecl.",
-   "grounds": "legacy hint: not"
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
   },
   {
    "lemma": "mṛtyur",
    "morph": "m.nom.sg",
-   "grounds": "legacy hint: death"
+   "grounds": "nominative subject of bhavate"
   },
   {
    "lemma": "bhavate",
-   "morph": "3.sg.mid-pres root bhū",
-   "grounds": "legacy hint: becomes"
+   "morph": "3.sg.act.pres/bhav",
+   "grounds": "present of bhū with mṛtyu as subject"
   },
   {
    "lemma": "tasya",
    "morph": "m.gen.sg",
-   "grounds": "legacy hint: of-him"
+   "grounds": "possessive/genitive referring to the qualified person"
   },
   {
    "lemma": "akṣayo",
    "morph": "m.nom.sg",
-   "grounds": "legacy hint: imperishable"
+   "grounds": "predicate adjective qualifying the person"
   },
   {
    "lemma": "hi",
-   "morph": "indecl.",
-   "grounds": "legacy hint: indeed"
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle marking certainty"
   },
   {
    "lemma": "amara+dyutiḥ",
-   "morph": "f.nom.sg",
-   "grounds": "legacy hint: immortal-splendor; compound"
+   "morph": "compound = member+membership",
+   "grounds": "fused compound subject/predicate of enduring nature"
   }
  ]
 }
