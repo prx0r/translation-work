@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[dawn+and](pratyūṣaśca) [radiance+and](prabhāsaśca) [these+eight](ete'ṣṭau) [vasus](vasavaḥ) [remembered](smṛtāḥ)
+[pratyusha](pratyūṣaḥ) [and](ca) [prabhasa](prabhāsaḥ) [and](ca) [these](ete) [eight](aṣṭau) [vasus](vasavaḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p60-v1477
-[three-ages](traitāyuge) [named-anatta](tvanattākhyaḥ) [in-kali](kalau) [lord](svāmī) [sadāśiva](sadāśivaḥ)
+[in-treta-yuga](traitāyuge) [but](tu) [named-anatta](anattākhyaḥ) [in-kali-yuga](kalau) [lord](svāmī) [sadashiva](sadāśivaḥ)
 
 ## mukta-m0-p60-v1478
-[of-fish-etc](mīnādīnāṃ) [and](ca) [of-signs](rāśīnāṃ) [triad](tritayaṃ) [triad](tritayaṃ) [in-order](kramāt)
+[of-mina+etc](mīnādīnāṃ) [and](ca) [of-zodiac-signs](rāśīnāṃ) [triad](tritayaṃ) [triad](tritayaṃ) [in-order](kramāt)
 
 ## mukta-m0-p60-v1479
-[īśvara](īśvarāvyaṃ) [and](ca) [rudra](rudraṃ) [śaṅkara](śaṅkaraṃ) [śambhu-known](śambhujñakam)
+[ishvara](īśvarāvyaṃ) [and](ca) [rudra](rudraṃ) [shankara](śaṅkaraṃ) [shambhu+knower](śambhujñakam)
 
 ## mukta-m0-p60-v1480
-[of-viṣṇu-and-sun](viṣṇvarkayoḥ) [in-place](prathiṣṭhāne) [viṣṇu-indra-etc](viṣṇvindradīnprakalpayet)
+[of-vishnu+and-sun](viṣṇvarkayoḥ) [in-installation](prathiṣṭhāne) [vishnu+indra+etc](viṣṇvindradīn) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p60-v1481
-[from-east-etc](pūrvāditoraṇā) [supervisor](dhyakṣaścatvāromī'prakīrtitāḥ)
+[east+etc+gate+presiding](pūrvāditoraṇā) [presiding](dhyakṣaḥ) [four](catvāraḥ) [these](amī) [are-proclaimed](prakīrtitāḥ)
 
 ## mukta-m0-p60-v1482
-[outside-thus](bahirevamalaṅkṛtya) [then](tataścābhyantare) [again](punaḥ)
+[outside](bahir) [thus](evam) [having-decorated](alaṅkṛtya) [then](tataḥ) [and](ca) [inside](abhyantare) [again](punaḥ)
 
 ## mukta-m0-p60-v1483
-[with-jewels](suratnau) [with-embryo](ṣaghigarbhāśca) [filled](saṃpūrṇā) [with-scented-water](gandhavāriṇāḥ)
+[with-good-gems](suratnau) [six+pitcher+wombed](ṣaghigarbhāśca) [filled](saṃpūrṇā) [with-fragrant+water](gandhavāriṇāḥ)
 
 ## mukta-m0-p60-v1484
-[with-lamps-rice-fruits](dīpākṣataphalairyuktā) [doors](dvāḥ) [eight-guards-mantric](pālāṣṭakamantritāḥ)
+[with-lamp+unbroken-rice+fruits](dīpākṣataphalairyuktā) [door+guardian+eight+consecrated](dvāḥ) [door+guardian+eight+consecrated](pālāṣṭakamantritāḥ)
 
 ## mukta-m0-p60-v1485
-[rudra-vīra](rūdrovīra) [thus](iti) [known](jñeyā) [eight](aṣṭau) [jar-deities](kalaśadevatāḥ)
+[rudra+vira](rūdrovīra) [thus](iti) [should-be-known](jñeyā) [eight](aṣṭau) [pitcher+deities](kalaśadevatāḥ)
 
 ## mukta-m0-p60-v1486
-[fifth](pañcamaḥ) [śaṅku-karṇa-named](śaṅku[k, g: śambhu]karṇākhyaḥ) [all-eyed](sarvanetrastathāparaḥ)
+[fifth](pañcamaḥ) [shanku+karna+named](śaṅkukarṇākhyaḥ) [all+eyed](sarvanetraḥ) [likewise](tathā) [another](aparaḥ)
 
 ## mukta-m0-p60-v1487
-[by-one-one-element-crores](ekaikabhūtakoṭībhirāvṛtā) [flag-deities](dhvajadevatāḥ)
+[by-each+being+crores](ekaikabhūtakoṭībhir) [surrounded](āvṛtā) [banner+deities](dhvajadevatāḥ)
 
 ## mukta-m0-p60-v1488
-[doorkeeper](dāraḥ) [white-black](sitāsitaśceti) [thus](vijñeyā) [door-guards](dvārapālakāḥ)
+[dara](dāraḥ) [white+black](sitāsitaḥ) [and](ca) [thus](iti) [should-be-known](vijñeyā) [door+guardians](dvārapālakāḥ)
 
 ## mukta-m0-p60-v1489
-[with-eight-rambhā](rambhāṣṭakasamāyukta) [with-eight-field-guards](kṣetrapālāṣṭakanvitam)
+[with-rambha+eight+endowed](rambhāṣṭakasamāyukta) [with-field+guardian+eight+provided](kṣetrapālāṣṭakanvitam)
 
 ## mukta-m0-p60-v1490
-[time](kālaḥ) [karālika-one-foot](karālikaikāṅghrirbhīmo'ṣṭau) [field-guards](kṣetrapālakāḥ)
+[kala](kālaḥ) [karalika](karālikaḥ) [one+footed](ekāṅghrir) [bhima](bhīmaḥ) [eight](aṣṭau) [field+guardians](kṣetrapālakāḥ)
 
 ## mukta-m0-p60-v1491
-[with-three-doors-bound](baddhadvāratraye) [there](tasmin) [expel](bāhayetpaścimānanam)
+[in-bound+door+triad](baddhadvāratraye) [in-that](tasmin) [one-should-cause-to-exit](bāhayet) [west+faced](paścimānanam)
 
 ## mukta-m0-p60-v1492
-[enter](praveśayenna) [there](tatraiva) [do](kuryādyāgasya) [protection](rakṣaṇam)
+[one-should-cause-to-enter](praveśayenna) [there](tatra) [indeed](eva) [one-should-make](kuryād) [of-the-rite](yāgasya) [protection](rakṣaṇam)
 
 ## mukta-m0-p60-v1493
-[of-shrine](prāsādasya) [by-measure](pramāmena) [with-seat](sapīṭhaṃ) [two-roofed](dvicchadānvitam)
+[of-the-temple](prāsādasya) [by-measure](pramāṇena) [with-pedestal](sapīṭhaṃ) [with-two+canopies](dvicchadānvitam)
 
 ## mukta-m0-p60-v1494
-[four-roofed](catuśchadaṃ) [four-cornered](catuṣkoṇaṃ) [hero](vīraṃ) [pure](vimalamānataḥ)
+[with-four+canopies](catuśchadaṃ) [four+cornered](catuṣkoṇaṃ) [hero](vīraṃ) [by-pure+measure](vimalamānataḥ)
 
 ## mukta-m0-p60-v1495
-[in-corner](koṇe) [flag-canopy-adorned](dhvajavitānāḍyaṃ) [plantain-mango-decorated](kadalīcūtamaṇḍitam)
+[in-corner](koṇe) [with-banner+canopy+filled](dhvajavitānāḍyaṃ) [with-plantain+mango+adorned](kadalīcūtamaṇḍitam)
 
 ## mukta-m0-p60-v1496
-[by-half-pavilion](maṇḍapārdhapratāṇena) [raised-one-fourth](caturyāṃśasamucchritām)
+[by-pavilion+half+extension](maṇḍapārdhapratāṇena) [with-fourth+part+elevated](caturyāṃśasamucchritām)
 
 ## mukta-m0-p60-v1497
-[make](kurvīta) [or](vātha) [common](sāmānyaṃ) [in-pavilion](maṇḍape) [two-altars](vedikādvayam)
+[one-should-make](kurvīta) [or](vā) [then](atha) [common](sāmānyaṃ) [in-pavilion](maṇḍape) [altar+pair](vedikādvayam)
 
 ## mukta-m0-p60-v1498
-[make](kuryāttantadhyataḥ) [seat](pīṭhaṃ) [named-bhadra](bhadrākhyaṃ) [milk-tree-born](kṣīravṛkṣajam)
+[one-should-make](kuryāt) [there+upon](tantadhyataḥ) [pedestal](pīṭhaṃ) [bhadra+named](bhadrākhyaṃ) [milk+tree+born](kṣīravṛkṣajam)
 
 ## mukta-m0-p60-v1499
-[width-double](vistāradviguṇaṃ) [length](dairghyaṃ) [of-small-ones](kanyasānāṃ) [always](sadaiva) [tu](tu)
+[breadth+double](vistāradviguṇaṃ) [length](dairghyaṃ) [of-the-smaller-ones](kanyasānāṃ) [always](sadā) [indeed](eva) [but](tu)
 
 ## mukta-m0-p60-v1500
-[seat-measure](pīṭhamānamiti) [thus](proktaṃ) [hut-measure](kuṭīmānamato) [I-say](bruve)
+[pedestal+measure](pīṭhamānam) [thus](iti) [declared](proktaṃ) [hut+measure](kuṭīmānam) [now](ataḥ) [I-speak](bruve)
