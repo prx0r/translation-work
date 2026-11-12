@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 321,
- "question": "By what means can the definitive determination of knowledge be known?",
+ "question": "By what means is the determination of knowledge to be attained?",
  "premises": [
   "The determination of knowledge must be known",
-  "It is known by that grace",
+  "It is attained through that grace",
   "The lord of gods is addressed"
  ],
- "inference": "By that grace, the definitive determination of knowledge is to be known",
- "uncertainties": [],
- "plain_english": "O Lord of gods, by that grace the definitive determination of knowledge is to be known."
+ "inference": "The determination of knowledge is to be known through that grace",
+ "uncertainties": [
+  "The referent of 'that' grace is not specified in this verse"
+ ],
+ "plain_english": "O Lord of gods, through that grace the determination of knowledge is to be known."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to poison is claimed for the accomplished practitioner?",
+ "question": "What protective effect is claimed for the body under the condition of being bitten by great serpents?",
  "premises": [
-  "The practitioner may be bitten by great serpents",
-  "Poison would normally enter the body",
-  "Poison does not enter the body"
+  "A person may be bitten by great serpents.",
+  "Even under that condition, poison does not enter the body.",
+  "The body is protected from the entry of poison."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the practitioner's body.",
- "uncertainties": [],
- "plain_english": "Even if bitten by great serpents, poison does not enter the body."
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "uncertainties": [
+  "The source of this protection is not stated in this verse."
+ ],
+ "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
 }
