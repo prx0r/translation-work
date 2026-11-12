@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral form as given",
-     "morph": "indecl."
+     "grounds": "numeral compound element",
+     "morph": "numeral(indecl.)"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "thousands",
-     "grounds": "locative plural of numeral as given",
-     "morph": "m.loc.pl"
+     "grounds": "locative plural of sahasra",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "womb-diagrams",
-     "grounds": "compound form as given, no split",
-     "morph": "n.loc.pl"
+     "gloss": "womb-mechanisms",
+     "grounds": "locative plural of compound yoniyantra",
+     "morph": "n.loc.pl, compound=yoni+yantra"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle form as given",
-     "morph": "m.nom.pl"
+     "grounds": "past passive participle agreeing with implied subject",
+     "morph": "m.nom.pl.past-passive-participle + √pīḍ"
     }
    ],
-   "question": "Under what condition are beings tormented within eighty-four thousand womb-diagrams?",
+   "question": "Within how many womb-mechanisms are beings subjected to torment?",
    "premises": [
-    "Eighty-four thousand womb-diagrams form a defined set of locations.",
-    "Beings are present within those womb-diagrams in this context.",
-    "Such beings are subject to torment in those locations."
+    "The number specified is eighty-four thousand.",
+    "The locations are womb-mechanisms.",
+    "Beings are tormented within these locations."
    ],
-   "inference": "Beings are tormented in the eighty-four thousand womb-diagrams.",
+   "inference": "Beings undergo torment within eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The specific cause of torment is not stated in this verse."
+    "The subject experiencing torment is implied from the preceding context."
    ],
-   "plain_english": "In the eighty-four thousand womb-diagrams, beings are tormented."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }

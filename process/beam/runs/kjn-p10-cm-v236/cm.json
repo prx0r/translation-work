@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+āraṃ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound with āraṃ"
   },
   {
    "lemma": "āraṃ",
-   "morph": "compound=aṣṭa+āraṃ",
-   "grounds": "describes lotus in compound"
+   "morph": "compound-member",
+   "grounds": "adjective compound member qualifying paṅkajaṃ"
   },
   {
    "lemma": "paṅkajaṃ",
@@ -20,22 +20,22 @@
   {
    "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "adjective describing lotus"
+   "grounds": "adjective qualifying paṅkajaṃ"
   },
   {
    "lemma": "prathama",
-   "morph": "compound=prathama+aṣṭaka",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound with aṣṭaka"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=prathama+aṣṭaka",
-   "grounds": "instrument of adornment in compound"
+   "morph": "compound-member",
+   "grounds": "instrumental compound member indicating adornment"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "n.acc.sg.past-part/√bhūṣ",
-   "grounds": "past participle describing lotus"
+   "morph": "n.acc.sg past-part",
+   "grounds": "past participle qualifying paṅkajaṃ"
   }
  ]
 }

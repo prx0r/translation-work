@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound=guhya+sthānaṃ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound with sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
-   "morph": "compound=guhya+sthānaṃ",
-   "grounds": "object described"
+   "morph": "n.nom.sg",
+   "grounds": "subject compared to cakraṃ"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "comparative particle"
+   "grounds": "particle introducing comparison or manner"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subject that accomplishes"
+   "grounds": "predicate noun in comparison"
   },
   {
    "lemma": "kṣipraṃ",
    "morph": "(indecl.)",
-   "grounds": "manner adverb"
+   "grounds": "adverb modifying sidhyati"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.act-pres/√sidh",
-   "grounds": "main verb"
+   "morph": "3.sg.act-pres √sidh",
+   "grounds": "main verb describing efficacy"
   },
   {
    "lemma": "bhairava",

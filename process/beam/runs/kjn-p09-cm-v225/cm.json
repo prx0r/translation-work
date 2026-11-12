@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "caturaśīti",
-   "morph": "indecl.",
-   "grounds": "numeral form as given"
+   "morph": "numeral(indecl.)",
+   "grounds": "numeral compound element"
   },
   {
    "lemma": "sahasreṣu",
-   "morph": "m.loc.pl",
-   "grounds": "locative plural of numeral as given"
+   "morph": "n.loc.pl",
+   "grounds": "locative plural of sahasra"
   },
   {
    "lemma": "yoniyantreṣu",
-   "morph": "n.loc.pl",
-   "grounds": "compound form as given, no split"
+   "morph": "n.loc.pl, compound=yoni+yantra",
+   "grounds": "locative plural of compound yoniyantra"
   },
   {
    "lemma": "pīḍitāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "past participle form as given"
+   "morph": "m.nom.pl.past-passive-participle + √pīḍ",
+   "grounds": "past passive participle agreeing with implied subject"
   }
  ]
 }

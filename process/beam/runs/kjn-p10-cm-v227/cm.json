@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound=candra+dvīpa",
-   "grounds": "first member of place-name compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound with dvīpa"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound=candra+dvīpa",
-   "grounds": "second member of place-name compound"
+   "morph": "compound-member",
+   "grounds": "locative compound base indicating place"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg.past-part/vi-nis-√gam",
-   "grounds": "locative participle describing chapter"
+   "morph": "n.loc.sg past-part",
+   "grounds": "locative participle describing context of conclusion"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal adjective"
+   "grounds": "ordinal adjective qualifying paṭalaḥ"
   },
   {
    "lemma": "paṭalaḥ",

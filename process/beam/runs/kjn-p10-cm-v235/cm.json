@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound=sthāna+cakrāḥ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound with cakrāḥ"
   },
   {
    "lemma": "cakrāḥ",
-   "morph": "compound=sthāna+cakrāḥ",
+   "morph": "m.nom.pl",
    "grounds": "subject declared"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "particle marking continuation"
   },
   {
    "lemma": "saṃproktāḥ",
-   "morph": "m.nom.pl.past-part/sam-pra-√vac",
-   "grounds": "past participle predicate"
+   "morph": "m.nom.pl past-part",
+   "grounds": "past participle describing cakrāḥ"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "possessive relation"
+   "grounds": "possessive relation to dhyānaṃ"
   },
   {
    "lemma": "dhyānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object to be heard"
+   "grounds": "object of hearing"
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.act-imp/√śru",
-   "grounds": "imperative verb"
+   "morph": "2.sg.act-imp √śru",
+   "grounds": "imperative command"
   },
   {
    "lemma": "priye",
