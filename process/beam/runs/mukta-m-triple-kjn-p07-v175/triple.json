@@ -7,45 +7,45 @@
     {
      "surface": "antyajā",
      "gloss": "outcaste-woman",
-     "grounds": "feminine nominative singular of antyajā",
+     "grounds": "refers to the woman of the lowest social class",
      "morph": "f.nom.sg"
     },
     {
      "surface": "saṃpravakṣyāmi",
-     "gloss": "I-shall-declare",
-     "grounds": "first person singular active future of pra-vac",
-     "morph": "1.sg.act.fut root vac"
+     "gloss": "i-shall-declare",
+     "grounds": "speaker announces an upcoming explanation",
+     "morph": "1.sg.future.active √vac"
     },
     {
      "surface": "śṛṇu",
      "gloss": "listen",
-     "grounds": "second person singular imperative active of śru",
-     "morph": "2.sg.imp.act root śru"
+     "grounds": "command directing the addressee to attend",
+     "morph": "2.sg.imperative.active √śru"
     },
     {
      "surface": "devi",
-     "gloss": "O-goddess",
-     "grounds": "feminine vocative singular of devī",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     },
     {
      "surface": "yathāsthitam",
      "gloss": "as-it-is",
-     "grounds": "indeclinable adverb meaning as situated",
+     "grounds": "indicates explanation according to actual state",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How is the outcaste woman to be declared exactly as she truly is?",
+   "question": "How will the true nature of the outcaste woman be declared to the goddess?",
    "premises": [
-    "antyajā denotes the outcaste woman",
-    "saṃpravakṣyāmi means I shall declare",
-    "yathāsthitam means as it is"
+    "The speaker addresses the goddess directly.",
+    "The speaker promises to declare something about the outcaste woman.",
+    "The goddess is asked to listen to the account as it truly is."
    ],
-   "inference": "The speaker promises to declare the outcaste woman's true nature.",
+   "inference": "The speaker commits to revealing the outcaste woman's nature truthfully to the goddess.",
    "uncertainties": [
-    "The verse does not specify the outcaste woman's further doctrinal identity."
+    "The specific doctrinal content about the outcaste woman is not stated in this verse but anticipated."
    ],
-   "plain_english": "Listen, O goddess: I shall declare the outcaste woman exactly as she is."
+   "plain_english": "O goddess, listen: I shall declare the outcaste woman as she truly is."
   }
  ]
 }
