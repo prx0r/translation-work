@@ -8,7 +8,7 @@
      "surface": "chedyamāno",
      "gloss": "being-cut",
      "grounds": "present passive participle describing one subjected to cutting",
-     "morph": "m.nom.sg.pres.pass.part √chid"
+     "morph": "m.nom.sg.passive-present-participle √chid"
     },
     {
      "surface": "na",
@@ -19,39 +19,39 @@
     {
      "surface": "chidyeta",
      "gloss": "would-be-cut",
-     "grounds": "optative expressing the unrealized effect of cutting",
-     "morph": "3.sg.pass.opt √chid"
+     "grounds": "optative expressing potential or counterfactual result",
+     "morph": "3.sg.passive-optative √chid"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
      "grounds": "compound indicating absorption or attainment of that state",
-     "morph": "m.nom.sg compound: tad+gata"
+     "morph": "compound: tad+gata (m.nom.sg)"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-fixed-on-that",
-     "grounds": "compound indicating the mind directed toward that",
-     "morph": "m.nom.sg compound: tad+manas"
+     "grounds": "compound indicating mental absorption in that object or state",
+     "morph": "compound: tad+manas (m.nom.sg)"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "particle of comparison or manner",
+     "grounds": "comparative particle introducing analogy",
      "morph": "(indecl.)"
     }
    ],
    "question": "Can physical cutting harm one whose mind is fully absorbed in that state?",
    "premises": [
-    "A person may be subjected to the act of cutting.",
-    "Absorption in that state directs the mind entirely toward it.",
-    "Such mental absorption prevents the effect of being cut."
+    "A person may be subjected to the act of being cut.",
+    "One can be mentally fixed on and gone to that state.",
+    "Absorption in that state prevents the effect of cutting."
    ],
-   "inference": "One whose mind is absorbed in that remains unaffected even while being cut.",
+   "inference": "Mental absorption in that state renders one unaffected by physical cutting.",
    "uncertainties": [
-    "The exact referent of 'that' depends on the preceding context."
+    "The referent of 'that' depends on the preceding context."
    ],
-   "plain_english": "Even while being cut, one who has gone to that and whose mind is fixed on that is not cut, as it were."
+   "plain_english": "Just as one who has gone to that and whose mind is fixed on that is not cut, even while being cut."
   }
  ]
 }

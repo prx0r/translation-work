@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p129-v3201
-[to-lord-of-gods](devendrāya) [obeisance](namaḥ) [to-all](sarva+) [+gods](+deva+) [+consisting-of](+mayāya) [obeisance](namaḥ) [to-guru](gurave) [obeisance](namaḥ)
+[god+of-gods](devendra) [obeisance](āya) [obeisance](namaḥ) [consisting-of+all+gods](sarvadevamaya) [obeisance](āya) [obeisance](namaḥ) [to-the-guru](gurave) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3202
-[to-thousand](sahasra+) [+armed-one](+bāhave) [obeisance](namaḥ) [obeisance](namaḥ)
+[thousand](sahasra) [armed](bāhave) [obeisance](namaḥ) [to-the-thousand-armed](sahasrabāhavenamaḥ)
 
 ## mukta-m0-p129-v3203
-[to-all](sarva+) [+limbed-one](+aṅgāya) [obeisance](namaḥ) [to-refuge-giver](śaraṇyāya) [obeisance](namaḥ)
+[all](sarva) [limbed](āṅgāya) [obeisance](namaḥ) [to-the-refuge](śaraṇyāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3204
-[to-all](sarva+) [+worlds](+loka+) [+maker](+kṛte) [obeisance](namaḥ) [to-pure-one](pavitrāya) [obeisance](namaḥ) [to-trikakud-mantra](trikakunmantrāya) [obeisance](namaḥ)
+[all](sarva) [world](loka) [maker](kṛte) [obeisance](namaḥ) [to-the-pure](pavitrāya) [obeisance](namaḥ) [three](tri) [peaked](kakut) [mantra](mantrāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3205
-[to-youngest](kaniṣṭhāya) [obeisance](namaḥ) [to-dark](kṛṣṇa+) [+tawny-one](+piṅgalāya) [obeisance](namaḥ)
+[to-the-youngest](kaniṣṭhāya) [obeisance](namaḥ) [dark](kṛṣṇa) [tawny](piṅgalāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3206
-[to-brahma](brahma+) [+staff](+daṇḍa+) [+creator](+vinirmātre) [obeisance](namaḥ) [to-hundred-slayer](śataghnī+) [+noose](+pāśa+) [+spear](+śakti+) [+possessor](+mate) [obeisance](namaḥ)
+[brahma](brahma) [staff](daṇḍa) [creator](vinirmātre) [obeisance](namaḥ) [hundred-slayer](śataghnī) [noose](pāśa) [spear](śakti) [possessing](matenamaḥ)
 
 ## mukta-m0-p129-v3207
-[to-lotus](padma+) [+wombed-one](+garbbhāya) [obeisance](namaḥ) [to-great](mahā+) [+wombed-one](+garbbhāya) [obeisance](namaḥ)
+[lotus](padma) [wombed](garbbhāya) [obeisance](namaḥ) [great](mahā) [wombed](garbbhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3208
-[to-brahma](brahma+) [+maker](+kṛte) [obeisance](namaḥ) [to-brahman-possessing](brahmiṇe) [obeisance](namaḥ) [to-brahman](brahma+) [+knower](+vide) [obeisance](namaḥ)
+[brahma](brahma) [maker](kṛte) [obeisance](namaḥ) [possessing-brahman](brahmiṇe) [obeisance](namaḥ) [brahman](brahma) [knower](vide) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3209
-[to-brahmin](brāhmaṇāya) [obeisance](namaḥ) [to-goal](gataye) [obeisance](namaḥ) [to-infinite](ananta+) [+formed-one](+rūpāya) [obeisance](namaḥ)
+[to-the-brahmin](brāhmaṇāya) [obeisance](namaḥ) [to-the-goal](gataye) [obeisance](namaḥ) [endless](ananta) [formed](rūpāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3210
-[to-manifold](naika+) [+souled-one](+ātmane) [obeisance](namaḥ) [to-self-born](svayambhu+) [+vast](+vasti+) [+splendor](+gmatejasenamaḥ)
+[not-one](na+eka) [souled](ātmanenamaḥ) [self](svayambhuva) [sharp](stigmatejasenamaḥ)
 
 ## mukta-m0-p129-v3211
-[to-upward](urddhva+) [+souled-one](+gātmane) [obeisance](namaḥ) [to-lord-of-beings](paśupataye) [obeisance](namaḥ) [to-wind](vāta+) [+speeded-one](+raṃhasenamaḥ)
+[upward](urddhva) [souled](gātmanenamaḥ) [lord](pati) [of-beings](paśu) [obeisance](taye) [obeisance](namaḥ) [wind](vāta) [speed](raṃhasenamaḥ)
 
 ## mukta-m0-p129-v3212
-[to-mind](manaḥ+) [+swift-one](+javāya) [obeisance](namaḥ) [to-sandal-adorned-one](candanine) [obeisance](namaḥ)
+[mind](manaḥ) [swift](javāya) [obeisance](namaḥ) [sandalwood-adorned](candaninenamaḥ)
 
 ## mukta-m0-p129-v3213
-[to-lotus](padma+) [+stalk](+nāla+) [+tipped-one](+agrāya) [obeisance](namaḥ) [to-excellent](surabhi+) [+deliverer](+uttāraṇāya) [obeisance](namaḥ)
+[lotus](padma) [stalk](nāla) [pointed](agrāya) [obeisance](namaḥ) [fragrant](surabhi) [deliverer](uttāraṇāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3214
-[to-leader-of-men](narāya) [obeisance](namaḥ) [to-karṇikāra](karṇikāra+) [+great](+mahā+) [+garlanded-one](+sragviṇe) [obeisance](namaḥ)
+[to-the-man](narāya) [obeisance](namaḥ) [karṇikāra-flower](karṇikāra) [great](mahā) [garlanded](sragviṇenamaḥ)
 
 ## mukta-m0-p129-v3215
-[to-umā](umā+) [+beloved](+kāntāya) [obeisance](namaḥ) [to-gaṅgā](jāhnavī+) [+bearer](+dhṛṣe) [obeisance](namaḥ)
+[Umā](umā) [beloved](kāntāya) [obeisance](namaḥ) [Jāhnavī](jāhnavī) [bearer](dhṛṣenamaḥ)
 
 ## mukta-m0-p129-v3216
-[to-umā](umā+) [+lord](+dhavāya) [obeisance](namaḥ) [to-excellent](vara+) [+boar](+varāhāya) [obeisance](namaḥ) [to-boon](vara+) [+giver](+dāya) [obeisance](namaḥ)
+[Umā](umā) [lord](dhavāya) [obeisance](namaḥ) [boon](vara) [boar](varāhāya) [obeisance](namaḥ) [boon](vara) [giver](dāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3217
-[to-most-excellent-one](vareṇyāya) [obeisance](namaḥ) [to-great](su+) [+mighty](+mahā+) [+sounded-one](+svanāya) [obeisance](namaḥ)
+[to-the-excellent](vareṇyāya) [obeisance](namaḥ) [very](su) [great](mahā) [sounding](svanāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3218
-[to-great](mahā+) [+grace-bestower](+prasādāya) [obeisance](namaḥ) [to-subduer](damanāya) [obeisance](namaḥ) [to-foe](śatru+) [+slayer](+ghne) [obeisance](namaḥ)
+[great](mahā) [grace](prasādāya) [obeisance](namaḥ) [to-the-subduer](damanāya) [obeisance](namaḥ) [foe](śatru) [slayer](ghnenamaḥ)
 
 ## mukta-m0-p129-v3219
-[to-white](śveta+) [+tawny-one](+piṅgalāya) [obeisance](namaḥ) [to-yellow](pīta+) [+souled-one](+ātmane) [obeisance](namaḥ)
+[white](śveta) [tawny](piṅgalāya) [obeisance](namaḥ) [yellow](pīta) [souled](ātmanenamaḥ)
 
 ## mukta-m0-p129-v3220
-[to-all](sarva+) [+sides](+pārśśva+) [+faced-one](+mukhāya) [obeisance](namaḥ) [to-three](tri+) [+eyed-one](+akṣāya) [obeisance](namaḥ)
+[all](sarva) [sides](pārśśva) [faced](mukhāya) [obeisance](namaḥ) [three](tri) [eyed](akṣāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3221
-[to-dharma](dharma+) [+common](+sādhāraṇa+) [+boon-giver](+varāya) [obeisance](namaḥ) [to-moving](cara+) [+unmoving](+acara+) [+souled-one](+ātmane) [obeisance](namaḥ)
+[dharma](dharma) [common](sādhāraṇa) [boon](varāya) [obeisance](namaḥ) [moving](cara) [unmoving](acara) [souled](ātmanenamaḥ)
 
 ## mukta-m0-p129-v3222
-[to-subtle](sūkṣma+) [+souled-one](+ātmane) [obeisance](namaḥ) [to-immortal](amṛta+) [+bull](+go+) [+lord](+vṛṣeśvarāya) [obeisance](namaḥ)
+[subtle](sūkṣma) [souled](ātmanenamaḥ) [immortal](amṛta) [bull](go) [lord](vṛṣeśvarāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3223
-[to-accomplished](sādhya+) [+sage](+ṛṣaye) [obeisance](namaḥ) [to-āditya](āditya+) [+vāsu](+vāsave) [obeisance](namaḥ)
+[sādhya](sādhya) [sage](ṛṣayenamaḥ) [Āditya](āditya) [Vāsava](vāsavenamaḥ)
 
 ## mukta-m0-p129-v3224
-[to-radiant](vivasvat+) [+savitṛ](+savitra+) [+immortal-one](+mṛtāya) [obeisance](namaḥ) [to-vyāsa](vyāsāya) [obeisance](namaḥ)
+[Vivasvat](vivasvat) [Savitṛ](savitra) [immortal](amṛtāya) [obeisance](namaḥ) [to-Vyāsa](vyāsāya) [obeisance](namaḥ)
 
 ## mukta-m0-p129-v3225
-[to-creation](sarga+) [+good](+su+) [+contraction](+saṅkṣepa+) [+expansion](+vistarāya) [obeisance](namaḥ) [to-cycle](paryaya+) [+leader-of-men](+narāya) [obeisance](namaḥ)
+[creation](sarga) [good](su) [contraction](saṅkṣepa) [expansion](vistarāya) [obeisance](namaḥ) [course](paryayana) [man](narāya) [obeisance](namaḥ)

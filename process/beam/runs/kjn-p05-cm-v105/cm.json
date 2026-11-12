@@ -4,27 +4,27 @@
  "rows": [
   {
    "lemma": "ko",
-   "morph": "m.nom.sg",
+   "morph": "pron.m.nom.sg",
    "grounds": "interrogative pronoun"
   },
   {
    "lemma": "asau",
-   "morph": "m.nom.sg",
-   "grounds": "demonstrative pronoun referring to a previously indicated entity"
+   "morph": "pron.m.nom.sg",
+   "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "jīvaḥ",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "subject noun"
   },
   {
    "lemma": "samuddiṣṭaḥ",
    "morph": "m.nom.sg",
-   "grounds": "past passive participle of samud-diś"
+   "grounds": "past participle of sam-ud-diś"
   },
   {
    "lemma": "kiṃ",
-   "morph": "n.nom.sg",
+   "morph": "pron.n.nom.sg",
    "grounds": "interrogative pronoun"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "jīva+svarūpakam",
-   "morph": "compound = member+membership",
-   "grounds": "nominative/accusative of jīva+svarūpa; compound analyzed as given"
+   "morph": "n.nom.sg",
+   "grounds": "compound: jīva+svarūpakam"
   }
  ]
 }
