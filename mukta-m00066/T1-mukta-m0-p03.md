@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[self](ātmānaṃ) [always](satataṃ) [protect](rakṣedātma) [all](sarva) [people](janam)
+[self](ātmānaṃ) [constantly](satataṃ) [should-protect](rakṣet)+[self](ātma) [all](sarva) [----](----) [people](janam)
 
 ## mukta-m0-p03-v52
-[of-non-devotees](abhaktānāṃ) [but](tu) [bodies](vapuṣāṃ) [true-form](svarūpamiha) [is-described](kathyate)
+[of-non-devotees](abhaktānāṃ) [indeed](tu) [of-bodies](vapuṣāṃ) [own-form](svarūpam)+[here](iha) [is-described](kathyate)
 
 ## mukta-m0-p03-v53
-[many-mind-delusion-endowed](anekacittavibhrāṃtiyuktaṃ) [suffering-only](duḥkhaika) [temple](maṃdiram)
+[with-many](aneka)+[mind](citta)+[delusion](vibhrāṃti)+[endowed](yuktaṃ) [of-sorrow](duḥkha)+[alone](eka) [abode](maṃdiram)
 
 ## mukta-m0-p03-v54
-[disgust](jugupsāyā) [afflicted](parikliṣṭaṃ) [sleep-laziness-etc](nidrālasyādi) [corrupted](dūṣitam)
+[by-disgust](jugupsāyā) [afflicted](parikliṣṭaṃ) [by-sleep](nidrā)+[laziness](ālasya)+[etc.](ādi) [tainted](dūṣitam)
 
 ## mukta-m0-p03-v55
-[self-knowledge-devoid](svātmavijñāna) [direct](pratyakṣa) [hell](narakā) [made](kṛtim)
+[of-own-self](svātma)+[knowledge](vijñāna) [devoid](rahitaṃ) [visible](pratyakṣa) [hell](narakā)+[form](kṛtim)
 
 ## mukta-m0-p03-v56
-[erotic-only-devoid](śṛṃgāramātrarahitaṃ) [many-hatred-corrupted](bahuvidveṣidūṣitam)
+[of-beauty](śṛṃgāra)+[mere](mātra)+[devoid](rahitaṃ) [by-many](bahu)+[haters](vidveṣi)+[tainted](dūṣitam)
 
 ## mukta-m0-p03-v57
-[therefore](tasmād) [devotee-body's](bhaktaśarīrasyā) [linga-root](liṃgamūle) [Maheshvara](maheśvaraḥ)
+[therefore](tasmād) [of-devotee](bhakta)+[body](śarīrasyā) [at-mark](liṃga)+[root](mūle) [O-great-lord](maheśvaraḥ)
 
 ## mukta-m0-p03-v58
-[thus](ityānaṃdataṃtre) [second](dvitīyaḥ) [chapter](paṭalaḥ)
+[thus](iti)+[in-Ānanda-tantra](ānaṃdataṃtre) [second](dvitīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p03-v59
-[Anandanatha](ānaṃdanātha) [worship-only](pūjyayāmeva) [concluded](paryavasāyitām)
+[by-Ānandanātha](ānaṃdanātha) [worship](pūjyayā)+[indeed](eva) [culminating](paryavasāyitām)
 
 ## mukta-m0-p03-v60
-[scriptures](śāstrāṇi) [and](cātisaṃkhyāni) [countless](saṃkhyāvatse) [spread](vitāni) [and](ca)
+[scriptures](śāstrāṇi) [and](ca)+[very-numerous](atisaṃkhyāni) [numerous](saṃkhyāvatse) [spread-out](vitāni) [and](ca)
 
 ## mukta-m0-p03-v61
-[door-by-door](dvāradvārikayā) [Veda-path's](vedamārgasyaivopakārikā) [helper](upakārikā)
+[door-by-door](dvāradvārikayā) [of-Veda](veda)+[path](mārgasya)+[indeed](eva)+[assisting](upakārikā)
 
 ## mukta-m0-p03-v62
-[for-Veda-explanation](vedanirvacanārthāya) [Nirukta-named](niruktākhyā) [will-go](gamiṣyati)
+[of-Veda](veda)+[explanation](nirvacana)+[for-meaning](arthāya) [called-Nirukta](niruktākhyā) [will-go](gamiṣyati)
 
 ## mukta-m0-p03-v63
-[of-Veda-places](vedasthānāṃ) [sounds](svarāṇāṃ) [but](tu) [phonetics-scripture-discussion](śikṣāśāstravivecanam)
+[of-Veda](veda)+[situated](sthānāṃ) [of-accents](svarāṇāṃ) [indeed](tu) [of-Śikṣā](śikṣā)+[scripture](śāstra)+[exposition](vivecanam)
 
 ## mukta-m0-p03-v64
-[astrology's](jyotiṣāmayanaṃ) [new-moon](darśa) [full-moon-etc](paurṇamāsādibodhakam) [indicator](bodhakam)
+[by-Jyotiṣa](jyotiṣā)+[course](ayanam) [new-moon](darśa) [full-moon](paurṇamāsa)+[etc.](ādi)+[knowledge](bodhakam)
 
 ## mukta-m0-p03-v65
-[other](anyānyapi) [also](ca) [and](bāhyāni) [external](vedāṃgāni) [Veda-limbs](bhavaṃti) [become](vai) [indeed](vai)
+[others](anyāni)+[also](api) [and](ca) [external](bāhyāni) [Veda](veda)+[limbs](aṃgāni) [are](bhavaṃti) [indeed](vai)
 
 ## mukta-m0-p03-v66
-[by-logic](nyāyena) [cause-reflection](hetu) [be](ciṃtā) [Puranas](purāṇaistatvanirṇayaḥ) [truth-determination](nirṇayaḥ)
+[by-logic](nyāyena) [reason](hetu) [inquiry](ciṃtā) [shall-be](syāt) [by-Purāṇas](purāṇaiḥ)+[principle](tatva)+[determination](nirṇayaḥ)
 
 ## mukta-m0-p03-v67
-[by-these](etairapi) [also](ca) [and](bāhyāṃgairveda) [external-limbs](mārgaḥ) [Veda](pariṣkṛtaḥ) [path](pariṣkṛtaḥ)
+[by-these](etaiḥ)+[also](api) [and](ca) [external](bāhya)+[limbs](aṃgaiḥ)+[Veda](veda) [path](mārgaḥ) [adorned](pariṣkṛtaḥ)
 
 ## mukta-m0-p03-v68
-[Sama-Rig-Yajur-Atharva](sāma-ṛgyajuṣātharva) [by-difference](bhedātairyajñakalpanam) [sacrifice-planning](kalpanam)
+[Sāman](sāma)+[Ṛg](ṛg)+[Yajus](yajuṣa)+[Atharva](atharva) [by-division](bhedāt)+[by-them](taiḥ)+[sacrifice](yajña)+[arrangement](kalpanam)
 
 ## mukta-m0-p03-v69
-[Agnishtoma-etc](agniṣṭomādi) [sacrifices'](yajñānāṃ) [fruit](phalaṃ) [heaven](svargo) [O-Maheshvari](maheśvari)
+[of-Agniṣṭoma](agniṣṭomādi) [sacrifices](yajñānāṃ) [fruit](phalaṃ) [heaven](svargo) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p03-v70
-[heaven](svargastu) [but](dvividhaḥ) [twofold](prokto) [said](deśo) [place](vā) [or](sukhameva) [happiness](vā) [indeed](vā)
+[heaven](svargaḥ)+[indeed](tu) [twofold](dvividhaḥ) [declared](prokto) [place](deśo) [or](vā) [happiness](sukham)+[indeed](eva) [or](vā)
 
 ## mukta-m0-p03-v71
-[happiness's](sukhasya) [means](sādhanaṃ) [heaven](svargaḥ) [place](deśastasya) [its](tu) [but](sādhanam) [means](sādhanam)
+[of-happiness](sukhasya) [means](sādhanaṃ) [heaven](svargaḥ) [place](deśaḥ)+[that](tasya) [indeed](tu) [means](sādhanam)
 
 ## mukta-m0-p03-v72
-[happiness-only](sukhamātraṃ) [if](yadi) [heaven](svargo) [not](na) [place-rule](deśaniyamo'tra) [here](vai) [indeed](vai)
+[happiness](sukha)+[alone](mātraṃ) [if](yadi) [heaven](svargo) [not](na) [place](deśa)+[restriction](niyamaḥ)+[here](atra) [indeed](vai)
 
 ## mukta-m0-p03-v73
-[prior-view](pūrva) [but](pakṣe) [sacrifices'](yajñānāṃ) [fruit-attainment](phalasaṃpattirucyate) [is-said](ucyate)
+[in-prior-view](pūrva) [side](pakṣe) [indeed](tu) [of-sacrifices](yajñānāṃ) [fruit](phala)+[attainment](saṃpattiḥ)+[is-stated](ucyate)
 
 ## mukta-m0-p03-v74
-[unseen](apūrvaṃ) [arises](jāyate) [therefore](tasmāt) [that](taccātmasamavāyavat) [self-inherence-like](samavāyavat)
+[unseen-potency](apūrvaṃ) [is-born](jāyate) [from-that](tasmāt) [and-that](tat)+[in-self](ātma)+[inherence](samavāya)+[possessing](vat)
 
 ## mukta-m0-p03-v75
-[self-only-abiding](ātmaikavartinā) [enjoyment-until](bhogaparyaṃtamapi) [even](naśyatā) [perishing](naśyatā)
+[in-self](ātma)+[alone](eka)+[abiding](vartinā) [until-experience](bhoga)+[limit](paryaṃtam)+[also](api) [perishing](naśyatā)

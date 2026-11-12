@@ -1,13 +1,13 @@
 {
  "song": "kjn-p04",
  "verse": 86,
- "question": "How is the visualized form positioned and inundated between the wheels?",
+ "question": "How is the visualized form positioned and affected between the lower and upper wheels?",
  "premises": [
   "The form is mounted on the lower wheel.",
-  "The form is flooded by the upper wheel.",
-  "This describes its spatial relation."
+  "The upper wheel acts upon it.",
+  "The form is flooded by the upper wheel."
  ],
- "inference": "The form rests on the lower wheel and is flooded by the upper wheel.",
+ "inference": "The form mounted on the lower wheel is flooded by the upper wheel.",
  "uncertainties": [],
- "plain_english": "It is mounted on the lower wheel and flooded by the upper wheel."
+ "plain_english": "Mounted on the lower wheel, it is flooded by the upper wheel."
 }
