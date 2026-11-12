@@ -5,37 +5,37 @@
   {
    "lemma": "dvitīyam",
    "morph": "n.nom.sg",
-   "grounds": "ordinal qualifier of the lotus"
+   "grounds": "identifies the next wheel in sequence"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "first member of compound indicating petals"
+   "morph": "compound=aṣṭa+patram:first-member",
+   "grounds": "first member of compound indicating eight petals"
   },
   {
    "lemma": "patram",
    "morph": "n.nom.sg",
-   "grounds": "describes the lotus as having eight petals"
+   "grounds": "describes the wheel as having eight petals"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "particle emphasizing the description"
   },
   {
    "lemma": "teja",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying dhyāna"
+   "morph": "compound=teja+dhyāna:first-member",
+   "grounds": "first member of compound indicating meditation on fiery radiance"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound-member",
-   "grounds": "second member of compound indicating means of illumination"
+   "morph": "compound=teja+dhyāna:head-member",
+   "grounds": "specifies the contemplative focus"
   },
   {
    "lemma": "sudīpitam",
-   "morph": "n.nom.sg (past-participle)",
-   "grounds": "past participle qualifying the lotus"
+   "morph": "n.nom.sg",
+   "grounds": "describes the wheel as brightly lit by that meditation"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 341,
- "question": "What disqualifying attitudes toward yoginis and the guru's command are identified?",
+ "question": "Who is explicitly disqualified as hostile to the yoginis and the guru's command?",
  "premises": [
-  "Hostility toward the yoginis is named",
-  "Transgression of the guru's command is named",
-  "Both traits disqualify a person"
+  "Hostility toward the yoginis is mentioned",
+  "Transgression of the guru's command is mentioned",
+  "Such a person is identified"
  ],
- "inference": "One hostile to the yoginis and who transgresses the guru's command is unfit.",
- "uncertainties": [],
- "plain_english": "One who is hostile to the yoginis and transgresses the guru's command."
+ "inference": "One hostile to the yoginis and who violates the guru's command is disqualified.",
+ "uncertainties": [
+  "gurvājñālopakārakaḥ compound analysis is interpretive"
+ ],
+ "plain_english": "And to one hostile to the yoginis, a transgressor of the guru's command."
 }

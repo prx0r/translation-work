@@ -5,37 +5,37 @@
   {
    "lemma": "tṛtīyam",
    "morph": "n.nom.sg",
-   "grounds": "ordinal qualifier of cakraṃ"
+   "grounds": "identifies the next wheel in sequence"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "particle emphasizing the statement"
   },
   {
    "lemma": "mahā",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying cakraṃ"
+   "morph": "compound=mahā+cakraṃ:first-member",
+   "grounds": "first member of compound qualifying the wheel"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subject described"
+   "grounds": "subject being described"
   },
   {
    "lemma": "nava",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying tattva"
+   "morph": "compound=nava+tattva:first-member",
+   "grounds": "first member of compound indicating nine principles"
   },
   {
    "lemma": "tattva",
-   "morph": "compound-member",
-   "grounds": "second member of compound indicating what is released"
+   "morph": "compound=nava+tattva:head-member",
+   "grounds": "specifies the principles involved in liberation"
   },
   {
    "lemma": "pramocakaḥ",
    "morph": "m.nom.sg",
-   "grounds": "predicate describing the wheel's function"
+   "grounds": "describes the wheel as releasing from the nine principles"
   }
  ]
 }

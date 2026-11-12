@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying āśravaṇa"
+   "morph": "compound=dūra+āśravaṇa:first-member",
+   "grounds": "first member of compound indicating hearing from afar"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound-member",
-   "grounds": "second member of compound qualifying vijñānaṃ"
+   "morph": "compound=dūra+āśravaṇa:head-member",
+   "grounds": "second member of compound denoting auditory perception"
   },
   {
    "lemma": "vijñānaṃ",
    "morph": "n.nom.sg",
-   "grounds": "one of the attainments listed"
+   "grounds": "names the power of knowing distant sounds"
   },
   {
    "lemma": "pāśa",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying stobham"
+   "morph": "compound=pāśa+stobham:first-member",
+   "grounds": "first member of compound indicating paralysis of bonds"
   },
   {
    "lemma": "stobham",
    "morph": "m.acc.sg",
-   "grounds": "another attainment or power listed"
+   "grounds": "names the power to arrest bonds"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating continuation of list"
+   "grounds": "adds another attainment in the same list"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "vocative address to the listener"
   }
  ]
 }

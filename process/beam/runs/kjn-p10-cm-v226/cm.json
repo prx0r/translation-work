@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound-member",
-   "grounds": "first member of compound with mukti"
+   "morph": "compound=bhukti+mukti+mahā+siddhiḥ:first-member",
+   "grounds": "first member of compound denoting worldly enjoyment"
   },
   {
    "lemma": "mukti",
-   "morph": "compound-member",
-   "grounds": "second member of compound with mahā"
+   "morph": "compound=bhukti+mukti+mahā+siddhiḥ:second-member",
+   "grounds": "second member of compound denoting liberation"
   },
   {
    "lemma": "mahā",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying siddhiḥ"
+   "morph": "compound=bhukti+mukti+mahā+siddhiḥ:third-member",
+   "grounds": "third member of compound qualifying accomplishment"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject of bhavet"
+   "grounds": "head of compound denoting supreme attainment"
   },
   {
    "lemma": "yoginīnāṃ",
    "morph": "f.gen.pl",
-   "grounds": "possessive relation to priyo"
+   "grounds": "denotes those to whom one becomes dear"
   },
   {
    "lemma": "priyo",
    "morph": "m.nom.sg",
-   "grounds": "predicate adjective describing siddhiḥ"
+   "grounds": "predicate adjective describing the practitioner"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active (√bhū)",
-   "grounds": "optative expressing potential result"
+   "morph": "3.sg.active-optative/√bhū",
+   "grounds": "expresses potential result of the practice"
   }
  ]
 }
