@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[in-whatever-way](yathākathañcit) [of-the-cakras](cakrāṇāṃ) [by-knots+bases+kalās+and-so-on](granthi+ādhāra+kalā+ādibhiḥ)
+[in-whatever-way](yathākathañcit) [of-the-cakras](cakrāṇāṃ) [by-knots+bases+kalās+and-so-forth](granthi+ādhāra+kalā+ādibhiḥ)
 
 ## mukta-m0-p19-v452
-[own-nature](svarūpaṃ) [they-teach](bodhayanti) [aloud](uccaiḥ) [they](te) [also](api) [(ke-)]((ke-)) [not](na) [(*)]((*)) [possessed-of-knowledge](jñāna+śālinaḥ)
+[own-nature](svarūpaṃ) [they-teach](bodhayanti) [aloud](uccaiḥ) [they-also](te'pi) [by-whom](ke-) [not](na) [endowed-with-knowledge](jñāna+śālinaḥ)
 
 ## mukta-m0-p19-v453
-[because-of-atomicity](āṇavatvāt) [(ana-)]((ana-)) [of-the-manifold](prapañcasya) [not](na) [by-us](asmābhiḥ) [they](te) [elaborated](prapañcitāḥ)
+[because-of-being-atomic](āṇavatvāt) [not](ana-) [of-the-manifold](prapañcasya) [not](na) [by-us](asmābhiḥ) [they](te) [elaborated](prapañcitāḥ)
 
 ## mukta-m0-p19-v454
-[for-satisfaction-in-the-nectar-taste-of-own-bliss](sva+ānanda+amṛta+rasa+tṛptaye) [that](sa) [may-be](bhūyāt)
+[for-satisfaction-with-the-nectar-essence-of-own-bliss](sva+ānanda+amṛta+rasa+tṛptaye) [that](sa) [may-be](bhūyāt)
 
 ## mukta-m0-p19-v455
-[the-sequence-established-in-the-nature-of-creation+maintenance+dissolution](sṛṣṭi+sthiti+saṃhāra+svarūpa+niṣṭha+kramam) [we-expound](tanumaḥ)
+[of-creation+maintenance+dissolution](sṛṣṭi+sthiti+saṃhāra) [established-in-the-nature](svarūpa+niṣṭha) [sequence](kramaṃ) [we-expound](tanumaḥ)
 
 ## mukta-m0-p19-v456
-[flashed-forth](sphuritaḥ) [ending-with-the-group-sequence](bṛnda+krama+antaiḥ) [dispeller-of-all-doubts](sarva+saṃśaya+bhedakaḥ)
+[by-the-ends-of-the-group-sequence](bṛnda+krama+antaiḥ) [manifested](sphuritaḥ) [of-all-doubts](sarva+saṃśaya) [breaker](bhedakaḥ)
 
 ## mukta-m0-p19-v457
-[in-the-full-knowledge-of-the-nature-of-the-self](ātma+rūpa+parijñāne) [effecting-grace-to-others](para+anugraha+kāriṇī)
+[in-the-full-knowledge-of-the-nature-of-the-self](ātma+rūpa+parijñāne) [bestowing-grace-on-others](para+anugraha+kāriṇī)
 
 ## mukta-m0-p19-v458
-[pierced-by-latencies-of-conceptualization](vikalpa+vāsanā+viddhaḥ) [consisting-of-worship](pūjana+ātmā) [proceeds](pravartate)
+[pierced-by-latencies-of-conceptualization](vikalpa+vāsanā+viddhaḥ) [consisting-of-worship](pūjanā+ātmā) [proceeds](pravartate)
 
 ## mukta-m0-p19-v459
 [in-the-non-conceptual](nirvikalpe) [great-space](mahā+vyomni) [that](sā) [worship](pūjā) [indeed](hi) [abiding-in-reverence](ādara+ālayā)
@@ -32,46 +32,46 @@
 [in-the-dissolution-of-the-phase-of-own-contraction](sva+saṅkoca+kalā+lope) [non-conceptual](nirvikalpaṃ) [indeed](hi) [worship](pūjanam)
 
 ## mukta-m0-p19-v461
-[because](yataḥ) [in-the-form-of-yoni-and-so-on+fivefold](yoni+ādi+pañca+rūpeṇa) [consisting-of-worship](pūjana+ātmā) [it-abides](sthitaḥ)
+[in-the-form-of-the-womb-and-so-forth-as-fivefold](yoni+ādi+pañca+rūpeṇa) [consisting-of-worship](pūjanā+ātmā) [because](yataḥ) [situated](sthitaḥ)
 
 ## mukta-m0-p19-v462
-[of-the-nature-of-the-great-yoni](mahā+yoni+svarūpasya) [declared-as-having-the-nature-of-pikā](pikā+ātmatayā+uditā) [(?)]((?))
+[of-the-nature-of-the-great-womb](mahā+yoni+svarūpasya) [by-the-state-of-being-the-female](pikā+ātmatayā) [declared](uditā)
 
 ## mukta-m0-p19-v463
-[again](bhūyaḥ) [through-the-sequence-of-returning](pratyāvṛtti+kramāt) [having-the-form-of-the-state-of-own-nature](sva+rūpa+pada+rūpiṇī)
+[by-the-sequence-of-turning-back](pratyāvṛtti+kramāt) [again](bhūyaḥ) [having-the-form-of-the-state-of-own-nature](svarūpa+pada+rūpiṇī)
 
 ## mukta-m0-p19-v464
-[having-attained](āpannaḥ) [own-repose](nija+viśrāntim) [declared-as-the-divine-yoni](divya+yonitayā+uditā)
+[having-attained-own-repose](nija+viśrāntim+āpannaḥ) [by-the-state-of-the-divine-womb](divya+yonitayā) [declared](uditā)
 
 ## mukta-m0-p19-v465
-[that](tat) [the-arising-of-worship](pūjana+udayaḥ) [whose-nature-is-creation](sṛṣṭi+ātmā) [in-the-form-of-non-conceptuality](nirvikalpatā+rūpa)
+[of-that](tat) [in-the-form-of-non-conceptuality](nirvikalpatā+rūpa) [consisting-of-emanation](sṛṣṭi+ātmā) [arising-of-worship](pūjana+udayaḥ)
 
 ## mukta-m0-p19-v466
-[therefore](ataḥ) [by-being-of-that-nature](tat+ātmakatvena) [the-sequence-of-worship](pūjana+kramaḥ) [whose-nature-is-maintenance](sthiti+ātmā)
+[therefore](ataḥ) [by-being-of-that-nature](tat+ātmakatvena) [consisting-of-maintenance](sthiti+ātmā) [sequence-of-worship](pūjana+kramaḥ)
 
 ## mukta-m0-p19-v467
-[of-that-whose-nature-is-the-five-ethers](pañca+ākāśa+svabhāvasya) [consisting-of-the-state-of-being-unveiled](nirāvaraṇatā+mayaḥ) [(niśā-)]((niśā-))
+[of-the-nature-of-the-five-ethers](pañca+ākāśa+svabhāvasya) [consisting-of-the-state-of-being-unveiled](nirāvaraṇatā+mayaḥ)
 
 ## mukta-m0-p19-v468
-[in-the-form-of-khecarī-and-bhūcarī](khecarī+bhūcarī+rūpaṃ) [declared-as-kūrmanātha](kūrma+nāthatayā+uditam)
+[in-the-form-of-khecarī-and-bhūcarī](khecarī+bhūcarī+rūpaṃ) [by-the-state-of-kūrmanātha](kūrma+nāthatayā) [declared](uditam)
 
 ## mukta-m0-p19-v469
-[in-the-form-of-the-devourer-of-dissolution](saṃhāra+bhakṣiṇī+rūpaṃ) [declared-as-meṣanātha](meṣa+nāthatayā+uditam)
+[in-the-form-of-the-devourer-of-dissolution](saṃhāra+bhakṣiṇī+rūpaṃ) [by-the-state-of-meṣanātha](meṣa+nāthatayā) [declared](uditam)
 
 ## mukta-m0-p19-v470
-[in-the-form-of-raudra-and-raudreśvarī](raudra+raudreśvarī+rūpaṃ) [declared-as-the-venerable-chanda](śrīmat+chandatayā+uditam)
+[in-the-form-of-raudra-and-raudreśvarī](raudra+raudreśvarī+rūpaṃ) [by-the-venerable-chanda](śrīmat+chandatayā) [declared](uditam)
 
 ## mukta-m0-p19-v471
 [entered-by-the-unseen-form](adṛṣṭa+vigraha+āviṣṭaṃ) [the-pentad-beginning-with-vyomeśvarī](vyomeśvarī+ādi+pañcakam)
 
 ## mukta-m0-p19-v472
-[having-attained](āsādya) [the-form-of-deities](devatā+rūpam) [through-the-manifestation-of-own-sovereignty](sva+svātantrya+vijṛmbhaṇāt)
+[having-attained-the-form-of-deities](devatā+rūpam+āsādya) [by-the-expansion-of-own-sovereignty](sva+svātantrya+vijṛmbhaṇāt)
 
 ## mukta-m0-p19-v473
-[beginning-with-intellect-and-so-on](buddhi+ādi+āḥ) [this](eṣa) [dissolution](saṃhāraḥ) [primary](pradhānaḥ) [sequence-of-worship](pūjana+kramaḥ)
+[beginning-with-intellect-and-so-forth](buddhi+ādi+ā) [this](eṣa) [dissolution](saṃhāraḥ) [principal](pradhānaḥ) [sequence-of-worship](pūjana+kramaḥ)
 
 ## mukta-m0-p19-v474
-[of-the-forms-consisting-of-worship](pūjana+ātma+svarūpāṇāṃ) [this](ayam) [sequence](kramaḥ) [non-conceptual](nirvikalpakaḥ)
+[of-the-forms-consisting-of-worship](pūjanā+ātma+svarūpāṇāṃ) [this](ayaṃ) [sequence](kramaḥ) [non-conceptual](nirvikalpakaḥ)
 
 ## mukta-m0-p19-v475
-[the-devouring-of-time](kāla+grāsaḥ) [may-be](bhavet) [constantly](nityam) [in-the-various-realms-of-experience](nānā+anubhava+bhūmiṣu)
+[devouring-of-time](kāla+grāsaḥ) [may-be](bhavet) [constantly](nityaṃ) [in-the-various-realms-of-experience](nānā+anubhava+bhūmiṣu)

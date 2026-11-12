@@ -16,7 +16,7 @@
 },
 {
 "surface": "granthi+ādhāra+kalā+ādibhiḥ",
-"quick_gloss": "by-knots+bases+kalās+and-so-on"
+"quick_gloss": "by-knots+bases+kalās+and-so-forth"
 }
 ]
 },
@@ -40,28 +40,20 @@
 "quick_gloss": "aloud"
 },
 {
-"surface": "te",
-"quick_gloss": "they"
+"surface": "te'pi",
+"quick_gloss": "they-also"
 },
 {
-"surface": "api",
-"quick_gloss": "also"
-},
-{
-"surface": "(ke-",
-"quick_gloss": "(ke-)"
+"surface": "ke-",
+"quick_gloss": "by-whom"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "(*",
-"quick_gloss": "(*)"
-},
-{
 "surface": "jñāna+śālinaḥ",
-"quick_gloss": "possessed-of-knowledge"
+"quick_gloss": "endowed-with-knowledge"
 }
 ]
 },
@@ -74,11 +66,11 @@
 "tokens": [
 {
 "surface": "āṇavatvāt",
-"quick_gloss": "because-of-atomicity"
+"quick_gloss": "because-of-being-atomic"
 },
 {
-"surface": "(ana-",
-"quick_gloss": "(ana-)"
+"surface": "ana-",
+"quick_gloss": "not"
 },
 {
 "surface": "prapañcasya",
@@ -111,7 +103,7 @@
 "tokens": [
 {
 "surface": "sva+ānanda+amṛta+rasa+tṛptaye",
-"quick_gloss": "for-satisfaction-in-the-nectar-taste-of-own-bliss"
+"quick_gloss": "for-satisfaction-with-the-nectar-essence-of-own-bliss"
 },
 {
 "surface": "sa",
@@ -131,8 +123,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sṛṣṭi+sthiti+saṃhāra+svarūpa+niṣṭha+kramam",
-"quick_gloss": "the-sequence-established-in-the-nature-of-creation+maintenance+dissolution"
+"surface": "sṛṣṭi+sthiti+saṃhāra",
+"quick_gloss": "of-creation+maintenance+dissolution"
+},
+{
+"surface": "svarūpa+niṣṭha",
+"quick_gloss": "established-in-the-nature"
+},
+{
+"surface": "kramaṃ",
+"quick_gloss": "sequence"
 },
 {
 "surface": "tanumaḥ",
@@ -148,16 +148,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sphuritaḥ",
-"quick_gloss": "flashed-forth"
-},
-{
 "surface": "bṛnda+krama+antaiḥ",
-"quick_gloss": "ending-with-the-group-sequence"
+"quick_gloss": "by-the-ends-of-the-group-sequence"
 },
 {
-"surface": "sarva+saṃśaya+bhedakaḥ",
-"quick_gloss": "dispeller-of-all-doubts"
+"surface": "sphuritaḥ",
+"quick_gloss": "manifested"
+},
+{
+"surface": "sarva+saṃśaya",
+"quick_gloss": "of-all-doubts"
+},
+{
+"surface": "bhedakaḥ",
+"quick_gloss": "breaker"
 }
 ]
 },
@@ -174,7 +178,7 @@
 },
 {
 "surface": "para+anugraha+kāriṇī",
-"quick_gloss": "effecting-grace-to-others"
+"quick_gloss": "bestowing-grace-on-others"
 }
 ]
 },
@@ -190,7 +194,7 @@
 "quick_gloss": "pierced-by-latencies-of-conceptualization"
 },
 {
-"surface": "pūjana+ātmā",
+"surface": "pūjanā+ātmā",
 "quick_gloss": "consisting-of-worship"
 },
 {
@@ -265,20 +269,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "yoni+ādi+pañca+rūpeṇa",
+"quick_gloss": "in-the-form-of-the-womb-and-so-forth-as-fivefold"
+},
+{
+"surface": "pūjanā+ātmā",
+"quick_gloss": "consisting-of-worship"
+},
+{
 "surface": "yataḥ",
 "quick_gloss": "because"
 },
 {
-"surface": "yoni+ādi+pañca+rūpeṇa",
-"quick_gloss": "in-the-form-of-yoni-and-so-on+fivefold"
-},
-{
-"surface": "pūjana+ātmā",
-"quick_gloss": "consisting-of-worship"
-},
-{
 "surface": "sthitaḥ",
-"quick_gloss": "it-abides"
+"quick_gloss": "situated"
 }
 ]
 },
@@ -291,15 +295,15 @@
 "tokens": [
 {
 "surface": "mahā+yoni+svarūpasya",
-"quick_gloss": "of-the-nature-of-the-great-yoni"
+"quick_gloss": "of-the-nature-of-the-great-womb"
 },
 {
-"surface": "pikā+ātmatayā+uditā",
-"quick_gloss": "declared-as-having-the-nature-of-pikā"
+"surface": "pikā+ātmatayā",
+"quick_gloss": "by-the-state-of-being-the-female"
 },
 {
-"surface": "(?",
-"quick_gloss": "(?)"
+"surface": "uditā",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -311,15 +315,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "pratyāvṛtti+kramāt",
+"quick_gloss": "by-the-sequence-of-turning-back"
+},
+{
 "surface": "bhūyaḥ",
 "quick_gloss": "again"
 },
 {
-"surface": "pratyāvṛtti+kramāt",
-"quick_gloss": "through-the-sequence-of-returning"
-},
-{
-"surface": "sva+rūpa+pada+rūpiṇī",
+"surface": "svarūpa+pada+rūpiṇī",
 "quick_gloss": "having-the-form-of-the-state-of-own-nature"
 }
 ]
@@ -332,16 +336,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āpannaḥ",
-"quick_gloss": "having-attained"
+"surface": "nija+viśrāntim+āpannaḥ",
+"quick_gloss": "having-attained-own-repose"
 },
 {
-"surface": "nija+viśrāntim",
-"quick_gloss": "own-repose"
+"surface": "divya+yonitayā",
+"quick_gloss": "by-the-state-of-the-divine-womb"
 },
 {
-"surface": "divya+yonitayā+uditā",
-"quick_gloss": "declared-as-the-divine-yoni"
+"surface": "uditā",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -354,19 +358,19 @@
 "tokens": [
 {
 "surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "pūjana+udayaḥ",
-"quick_gloss": "the-arising-of-worship"
-},
-{
-"surface": "sṛṣṭi+ātmā",
-"quick_gloss": "whose-nature-is-creation"
+"quick_gloss": "of-that"
 },
 {
 "surface": "nirvikalpatā+rūpa",
 "quick_gloss": "in-the-form-of-non-conceptuality"
+},
+{
+"surface": "sṛṣṭi+ātmā",
+"quick_gloss": "consisting-of-emanation"
+},
+{
+"surface": "pūjana+udayaḥ",
+"quick_gloss": "arising-of-worship"
 }
 ]
 },
@@ -386,12 +390,12 @@
 "quick_gloss": "by-being-of-that-nature"
 },
 {
-"surface": "pūjana+kramaḥ",
-"quick_gloss": "the-sequence-of-worship"
+"surface": "sthiti+ātmā",
+"quick_gloss": "consisting-of-maintenance"
 },
 {
-"surface": "sthiti+ātmā",
-"quick_gloss": "whose-nature-is-maintenance"
+"surface": "pūjana+kramaḥ",
+"quick_gloss": "sequence-of-worship"
 }
 ]
 },
@@ -404,15 +408,11 @@
 "tokens": [
 {
 "surface": "pañca+ākāśa+svabhāvasya",
-"quick_gloss": "of-that-whose-nature-is-the-five-ethers"
+"quick_gloss": "of-the-nature-of-the-five-ethers"
 },
 {
 "surface": "nirāvaraṇatā+mayaḥ",
 "quick_gloss": "consisting-of-the-state-of-being-unveiled"
-},
-{
-"surface": "(niśā-",
-"quick_gloss": "(niśā-)"
 }
 ]
 },
@@ -428,8 +428,12 @@
 "quick_gloss": "in-the-form-of-khecarī-and-bhūcarī"
 },
 {
-"surface": "kūrma+nāthatayā+uditam",
-"quick_gloss": "declared-as-kūrmanātha"
+"surface": "kūrma+nāthatayā",
+"quick_gloss": "by-the-state-of-kūrmanātha"
+},
+{
+"surface": "uditam",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -445,8 +449,12 @@
 "quick_gloss": "in-the-form-of-the-devourer-of-dissolution"
 },
 {
-"surface": "meṣa+nāthatayā+uditam",
-"quick_gloss": "declared-as-meṣanātha"
+"surface": "meṣa+nāthatayā",
+"quick_gloss": "by-the-state-of-meṣanātha"
+},
+{
+"surface": "uditam",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -462,8 +470,12 @@
 "quick_gloss": "in-the-form-of-raudra-and-raudreśvarī"
 },
 {
-"surface": "śrīmat+chandatayā+uditam",
-"quick_gloss": "declared-as-the-venerable-chanda"
+"surface": "śrīmat+chandatayā",
+"quick_gloss": "by-the-venerable-chanda"
+},
+{
+"surface": "uditam",
+"quick_gloss": "declared"
 }
 ]
 },
@@ -492,16 +504,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āsādya",
-"quick_gloss": "having-attained"
-},
-{
-"surface": "devatā+rūpam",
-"quick_gloss": "the-form-of-deities"
+"surface": "devatā+rūpam+āsādya",
+"quick_gloss": "having-attained-the-form-of-deities"
 },
 {
 "surface": "sva+svātantrya+vijṛmbhaṇāt",
-"quick_gloss": "through-the-manifestation-of-own-sovereignty"
+"quick_gloss": "by-the-expansion-of-own-sovereignty"
 }
 ]
 },
@@ -513,8 +521,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "buddhi+ādi+āḥ",
-"quick_gloss": "beginning-with-intellect-and-so-on"
+"surface": "buddhi+ādi+ā",
+"quick_gloss": "beginning-with-intellect-and-so-forth"
 },
 {
 "surface": "eṣa",
@@ -526,7 +534,7 @@
 },
 {
 "surface": "pradhānaḥ",
-"quick_gloss": "primary"
+"quick_gloss": "principal"
 },
 {
 "surface": "pūjana+kramaḥ",
@@ -542,11 +550,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūjana+ātma+svarūpāṇāṃ",
+"surface": "pūjanā+ātma+svarūpāṇāṃ",
 "quick_gloss": "of-the-forms-consisting-of-worship"
 },
 {
-"surface": "ayam",
+"surface": "ayaṃ",
 "quick_gloss": "this"
 },
 {
@@ -568,14 +576,14 @@
 "tokens": [
 {
 "surface": "kāla+grāsaḥ",
-"quick_gloss": "the-devouring-of-time"
+"quick_gloss": "devouring-of-time"
 },
 {
 "surface": "bhavet",
 "quick_gloss": "may-be"
 },
 {
-"surface": "nityam",
+"surface": "nityaṃ",
 "quick_gloss": "constantly"
 },
 {

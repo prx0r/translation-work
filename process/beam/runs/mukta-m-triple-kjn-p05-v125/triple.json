@@ -19,20 +19,20 @@
     {
      "surface": "chidyeta",
      "gloss": "be-cut",
-     "grounds": "passive optative form as given",
-     "morph": "3.sg.pass-opt"
+     "grounds": "optative passive form as given",
+     "morph": "3.sg.pass.opt"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "fused form tad+gata as given; internal fusion noted without splitting",
-     "morph": "compound = member+membership"
+     "grounds": "fused form tad+gata as given; internal sandhi not split",
+     "morph": "compound = tad+gato"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-on-that",
-     "grounds": "fused form tan+manas as given; internal fusion noted without splitting",
-     "morph": "compound = member+membership"
+     "grounds": "fused form tan+manas as given; internal sandhi not split",
+     "morph": "compound = tan+mano"
     },
     {
      "surface": "yathā",
@@ -43,15 +43,15 @@
    ],
    "question": "Under what condition can one whose mind is fixed on that remain uncut even when being cut?",
    "premises": [
-    "Cutting is being directed at one who is in process of being cut.",
-    "A mind fixed on that remains oriented away from the act of cutting.",
-    "That orientation prevents the act of cutting from taking effect."
+    "Cutting is taking place at the level of the body or form.",
+    "A mind fixed on that is directed elsewhere than the object being cut.",
+    "That fixation alters the locus to which the act of cutting applies."
    ],
-   "inference": "One whose mind is fixed on that is not cut, just as a particular state prevents severance.",
+   "inference": "When the mind is gone to that and fixed on it, the act of cutting does not reach the one so absorbed.",
    "uncertainties": [
-    "The precise referent of tad and tan remains context-dependent."
+    "The precise scope of 'that' remains determined by context rather than this verse alone."
    ],
-   "plain_english": "Just as one whose mind is fixed on that is not cut even while being cut, so too severance does not take effect in that state."
+   "plain_english": "Even if one is being cut, one whose mind is fixed on that is not cut, just so."
   }
  ]
 }
