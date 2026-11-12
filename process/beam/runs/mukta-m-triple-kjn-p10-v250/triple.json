@@ -13,19 +13,19 @@
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle introducing continuation or contrast",
+     "grounds": "particle marking continuation or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "noun denoting the cakra",
+     "grounds": "noun denoting the energy center",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rājānam",
      "gloss": "royal",
-     "grounds": "epithet in apposition to cakraṃ",
+     "grounds": "adjective in apposition describing cakraṃ",
      "morph": "m.acc.sg"
     },
     {
@@ -43,22 +43,21 @@
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "adjective qualifying cakraṃ, indicating presence of a pericarp",
+     "grounds": "adjective qualifying cakraṃ, possessing a central pericarp",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What are the defining characteristics of the sixth cakra?",
+   "question": "What specific form and attributes characterize the sixth chakra?",
    "premises": [
-    "The sixth cakra is identified in sequence.",
-    "This cakra is described as royal.",
-    "This cakra has eight petals.",
-    "This cakra possesses a pericarp."
+    "The sixth chakra is identified as the object of description.",
+    "This chakra is described as royal in nature.",
+    "This chakra is characterized as having eight petals and a pericarp."
    ],
-   "inference": "The sixth cakra is characterized as a royal, eight-petaled wheel with a pericarp.",
+   "inference": "The sixth chakra is a royal, eight-petaled center possessing a pericarp.",
    "uncertainties": [
-    "The syntactic role of rājānam as appositional epithet to neuter cakraṃ involves a gender difference."
+    "The exact contextual sense of rājānam as 'royal' or 'ruling' is interpretive."
    ],
-   "plain_english": "And the sixth cakra is the royal one, having eight petals and a pericarp."
+   "plain_english": "And the sixth chakra is royal, eight-petaled, and endowed with a pericarp."
   }
  ]
 }

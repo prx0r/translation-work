@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p242-v6026
-[bathing](snātvā) [having-completed](samāpya) [sandhyā](sandhyāṃ) [then](tu) [having-done-duty](kṛtakṛtyaḥ) [best-guru](gurūttamaḥ)
+[having-bathed](snātvā) [having-completed](samāpya) [twilight-worship](sandhyāṃ) [indeed](tu) [having-done+duty](kṛta+kṛtyo) [teacher+best](gurūttamaḥ)
 
 ## mukta-m0-p242-v6027
-[five-limbed](pañcāṅga) [ornamented](bhūṣaṇopetaḥ) [satisfied-mind](tuṣṭamānasaḥ) [south](dakṣiṇā)
+[five+limb](pañcāṅga) [ornament+endowed](bhūṣaṇopeto) [gift+satisfied+mind](dakṣiṇātuṣṭamānasaḥ)
 
 ## mukta-m0-p242-v6028
-[by-reciters](adhyetrṛbhiḥ) [by-astrologers](daivajñaiḥ) [by-artisans](śilpibhiḥ) [pleased](toṣitaiḥ) [accompanied](yutaḥ)
+[with-reciters](adhyetrṛbhiśca) [with-astrologers+with-artisans+satisfied+accompanied](daivajñaiśśilpibhistoṣitairyutaḥ)
 
 ## mukta-m0-p242-v6029
-[having-worshipped](saṃpūjya) [fire](vahniṃ) [in-altar](kuṇḍasthaṃ) [full](pūrṇāṃ) [having-given](datvā) [according-to-order](yathā+kramāt)
+[having-worshipped](saṃpūjya) [fire](vahniṃ) [pit+standing](kuṇḍasthaṃ) [full-offering](pūrṇāṃ) [having-given](datvā) [according-to](yathā) [order](kramāt)
 
 ## mukta-m0-p242-v6030
-[by-grace](prasādāt) [then](au) [would-lead](nayed) [image](bimbaṃ) [to-bath-pit](snānaśvabhre) [or](athavā) [would-lead](nayet)
+[in-front-of-offerings](prasādādau) [should-lead](nayedbimbaṃ) [bathing+pit+or](snānaśvabhre'thavā) [should-lead](nayet)
 
 ## mukta-m0-p242-v6031
-[seat](āsanaṃ) [praṇava](praṇavaṃ) [having-made](kṛtvā) [image-stable](mūrtisthāṇu) [arranged](prakalpitām)
+[seat](āsanaṃ) [sacred-syllable-oṃ](praṇavaṃ) [having-made](kṛtvā) [image+fixed+arranged](mūrtisthāṇu) [prakalpitām](prakalpitām)
 
 ## mukta-m0-p242-v6032
-[having-bathed](saṃsnāpya) [with-pot-water](kuṃbhapānīyaiḥ) [around](paritaḥ) [placed](sthāpitaiḥ) [also](api)
+[having-bathed](saṃsnāpya) [pot+waters](kuṃbhapānīyaiḥ) [around](paritaḥ) [placed](sthāpitairapi)
 
 ## mukta-m0-p242-v6033
-[with-services](upacāraiḥ) [thus](tathā) [other](cānyaiḥ) [śiva-devotee](śivabhaktaṃ) [would-worship](samarcayet)
+[with-services](upacāraistathā) [and](ca) [other](anyaiḥ) [śiva+devotee](śivabhaktaṃ) [should-worship](samarcayet)
 
 ## mukta-m0-p242-v6034
-[then](tataḥ) [from](prabhṛti) [that](taṃ) [devotee](bhaktaṃ) [daily](pratyahaṃ) [would-worship](pūjayet) [man](naraḥ)
+[then](tataḥ) [from-that-time](prabhṛti) [that](taṃ) [devotee](bhaktaṃ) [daily](pratyahaṃ) [should-worship](pūjayennaraḥ)
 
 ## mukta-m0-p242-v6035
-[necessary](āvaśyakaṃ) [thus](tathā) [purification-bathing-sandhyā-etc](śaucasnāna+sandhyādi) [salutation](vandanam)
+[necessary](āvaśyakaṃ) [likewise](tathā) [purification+bathing+twilight-worship+etc](śaucasnāna) [veneration](sandhyādi) [vandanam](vandanam)
 
 ## mukta-m0-p242-v6036
-[man](puruṣaṃ) [nature](prakṛtiṃ) [also](ca+eva) [having-worshipped](saṃpūjya) [door-sides](dvārapārśvayoḥ)
+[spirit](puruṣaṃ) [nature](prakṛtiṃ) [and](ca) [indeed](eva) [having-worshipped](saṃpūjya) [door+sides](dvārapārśvayoḥ)
 
 ## mukta-m0-p242-v6037
-[in-middle-of-house](vāstu+madhye) [having-worshipped](samabhyarcya) [element-purification](bhūtaśuddhiṃ) [having-done](vidhāya) [and](ca)
+[site-deity](vāstu) [in-middle](madhye) [having-worshipped](samabhyarcya) [element+purification](bhūtaśuddhiṃ) [having-performed](vidhāya) [ca](ca)
 
 ## mukta-m0-p242-v6038
-[having-prepared](parikalpya) [special-arghya](viśeṣārghyaṃ) [flower-akṣata-water-joined](kusumākṣata+toyayuk)
+[having-prepared](parikalpya) [special+arghya](viśeṣārghyaṃ) [flower+unbroken-rice+water+joined](kusumākṣata) [toyayuk](toyayuk)
 
 ## mukta-m0-p242-v6039
-[praṇava-etc](praṇavādyān) [would-recite](paṭhet) [mantras](mantrān) [ending-in-namaḥ](namontān) [for-mantra-purification](mantra+śuddhaye)
+[praṇava+beginning](praṇavādyān) [should-recite](paṭhenmantrān) [namaḥ+ending](namontānmantra) [for-mantra+purification](śuddhaye)
 
 ## mukta-m0-p242-v6040
-[six-risen-seat](ṣaḍutthamāsanaṃ) [having-made](kṛtvā) [by-previously-stated](pūrvoktena) [procedure](vidhānataḥ)
+[sixfold+raised](ṣaḍutthamāsanaṃ) [having-made](kṛtvā) [by-previously-stated](pūrvoktena) [by-rule](vidhānataḥ)
 
 ## mukta-m0-p242-v6041
-[that-form](tattadrūpaṃ) [endowed](samopetaṃ) [that-root-atom](tattanmūlāṇunā) [wise](budhaḥ)
+[that+form](tattadrūpaṃ) [endowed-with](samopetaṃ) [by-that+root+syllable](tattanmūlāṇunā) [wise-one](budhaḥ)
 
 ## mukta-m0-p242-v6042
-[foot-water](pādyācamanaṃ) [and](ca) [arghya](arghyaṃ) [by-heart](hṛdayena) [would-offer](nivedayet)
+[water-for-feet+sipping-water](pādyācamanaṃ) [and](ca) [arghya](arghyaṃ) [with-heart-mantra](hṛdayena) [should-offer](nivedayet)
 
 ## mukta-m0-p242-v6043
-[having-wiped](saṃmṛjya) [with-cloth](vāsasā) [garment](vastraṃ) [sandal](gandhaṃ) [with-incense](sa+dhūmakam)
+[having-wiped](saṃmṛjya) [with-cloth](vāsasā) [garment](vastraṃ) [fragrance](gandhaṃ) [with](sa) [incense](dhūmakam)
 
 ## mukta-m0-p242-v6044
-[betel](tāmbūlaṃ) [also](ca) [at-three-sandhyās](trisandhyāsu) [would-give](dadyāt) [at-two-sandhyās](saṃdhyādvaye) [or](api) [vā]
+[betel](tāmbūlaṃ) [and](ca) [in-three-twilights](trisandhyāsu) [one-should-give](dadyātsaṃdhyādvaye'pi) [or](vā)
 
 ## mukta-m0-p242-v6045
-[ending-with-lamp](dīpāntaṃ) [or](vā) [ending-with-offering](nivedyāntaṃ) [would-worship](yajet) [according-to-capacity](śaktyanurūpataḥ)
+[ending-with-lamp](dīpāntaṃ) [or](vā) [ending-with-offering](nivedyāntaṃ) [one-should-worship](yajecchaktyanurūpataḥ)
 
 ## mukta-m0-p242-v6046
-[bathing](snapanaṃ) [by-rite](vidhinā) [should-be-done](kāryaṃ) [by-previously-stated](prāguktena) [order](krameṇa) [then](tu)
+[bathing](snapanaṃ) [by-rule](vidhinā) [to-be-done](kāryaṃ) [by-previously-stated](prāguktena) [in-order](krameṇa) [indeed](tu)
 
 ## mukta-m0-p242-v6047
-[sixteen-vowels](svarāṣṣoḍaśa) [outside-that](tadbāhye) [those](tad) [outside](bāhye) [kā-etc](kādayaḥ) [considered](matāḥ)
+[vowels](svarāṣṣoḍaśa) [outside-that](tadbāhye) [outside-that](tad) [bāhye](bāhye) [beginning-with-ka](kādayo) [are-considered](matāḥ)
 
 ## mukta-m0-p242-v6048
-[one-enclosure](ekāvaraṇa) [joined](saṃyuktam) [lowest](adhamaṃ) [thus](tu+iti) [declared](kīrtitam)
+[one+enclosure+joined](ekāvaraṇa) [saṃyuktamadhamaṃ](saṃyuktamadhamaṃ) [indeed](tu) [thus](iti) [is-declared](kīrtitam)
 
 ## mukta-m0-p242-v6049
-[devotee-birth-day](bhakta+janmadine) [or](vā+api) [doer-birth-day](kartur+janmadine) [or](api) [vā]
+[devotee+birth+day](bhakta) [janmadine](janmadine) [or](vā) [also](api) [performer+birth+day](karturjanmadine'pi) [or](vā)
 
 ## mukta-m0-p242-v6050
-[nine-days](navāhaṃ) [or](vā+atha) [seven-days](saptāhaṃ) [five-days](pañcāhaṃ) [three-days](tridinaṃ) [then](tu) [vā]
+[nine+day](navāhaṃ) [or](vā) [also](atha) [seven+day](saptāhaṃ) [five+day](pañcāhaṃ) [three+day](tridinaṃ) [indeed](tu) [or](vā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p223-v5551
-[others](anyeṣāṃ) [that-chapter](stattadadhyāya) [proclaimed](proktāṃ) [principles](tatva) [etc](ādikāni) [set](aset)
+[of-others](anyeṣāṃ) [being-that+chapter](sat+tadadhyāya) [declared](proktān) [principles+etc.](tatva+ādikāni) [one-should-place](āset)
 
 ## mukta-m0-p223-v5552
-[samid](samidā) [ghee](jyā) [rice](annalājaiḥ) [ca](ca) [sesame](tila) [mustard](sarṣapa) [mudrakaiḥ](mudrakaiḥ)
+[with-fuel-sticks](samid) [with-clarified-butter](ājya) [with-rice](anna) [with-parched-grain](lājaiḥ) [and](ca) [with-sesame](tila) [with-mustard](sarṣapa) [with-mudga-beans](mudrakaiḥ)
 
 ## mukta-m0-p223-v5553
-[śamī](śamyapāmārga) [apāmārga](śamyapāmārga) [śrīvṛkṣa](śrīvṛkṣa) [peacock](māyūra) [fire-corner](avahnikoṇataḥ)
+[with-śamī](śamī) [with-apāmārga](apāmārga) [with-śrīvṛkṣa](śrīvṛkṣa) [with-māyūra](māyūra) [in-fire-corner](āvahni+koṇataḥ)
 
 ## mukta-m0-p223-v5554
-[daily](pratyehaṃ) [as-before](pūrvavat) [having-offered](hutvā) [at-completion](pūrṇānte) [best-teacher](deśikottamaḥ)
+[each-day](pratyehaṃ) [as-before](pūrvavat) [having-offered](hutvā) [at-completion+end](pūrṇā+ante) [teacher+best](deśika+uttamaḥ)
 
 ## mukta-m0-p223-v5555
-[in-morning](prabhāte) [having-done-nitya](kṛtanityantu) [doer](kartā) [should-worship](saṃpūjayet) [guru](gurum)
+[in-morning](prabhāte) [done+daily-rite](kṛta+nityam) [then](tu) [performer](kartā) [should-worship](saṃpūjayet) [guru](gurum)
 
 ## mukta-m0-p223-v5556
-[then](tadante) [giving-dakṣiṇā](dakṣiṇāndatvā) [five-niṣka-etc](pañcaniṣkādi) [measured](sammitām)
+[at-that+end](tat+ante) [fee](dakṣiṇām) [having-given](datvā) [five+niṣka+etc.](pañca+niṣka+ādi) [measured](sammitām)
 
 ## mukta-m0-p223-v5557
-[taking-seed](vardhanyābījamādāya) [devī-heart](devīhṛdaya) [middle](madhyame)
+[of-vardhanī+seed](vardhanyā+bījam) [having-taken](ādāya) [of-goddess+heart](devī+hṛdaya) [in-middle](madhyame)
 
 ## mukta-m0-p223-v5558
-[broken-seat](bhinnapīṭhā) [or](athavā) [devī](devī) [that-gone](tadgataṃ) [or](vā) [mantra](manuṃ) [place](nyaset)
+[split+pedestal](bhinna+pīṭhā) [or](athavā) [goddess](devī) [in-that+gone](tad+gataṃ) [or](vā) [mantra](manuṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p223-v5559
-[having-worshipped](saṃpūjya) [bathing](snapanaṃ) [do](kuryāt) [as-arcana](arcana) [said](uktavad) [worship](arcayet)
+[having-worshipped](saṃpūjya) [bathing](snapanaṃ) [one-should-perform](kuryāt) [as-in-worship+stated](arcana+ukta+vat) [one-should-worship](arcayet)
 
 ## mukta-m0-p223-v5560
-[some](kaścid) [in-this](asmin) [specialty](viśeṣosti) [hear](śrūyatāṃ) [best-brāhmaṇas](dvijasattamāḥ)
+[some](kaścit) [in-this](asmin) [special-rule](viśeṣaḥ) [exists](asti) [let-it-be-heard](śrūyatāṃ) [O-twice-born+best](dvija+sattamāḥ)
 
 ## mukta-m0-p223-v5561
-[thus](tathā) [should-be-done](vidhyeyā) [that](sā) [devī](devī) [in-independent](svatantre) [deva](deva) [lotus](padmani)
+[thus](tathā) [to-be-performed](vidheyā) [that](sā) [goddess](devī) [in-own-tantra](svatantre) [O-god](deva) [O-lotus-born](padmani)
 
 ## mukta-m0-p223-v5562
-[their](teṣāṃ) [hand-etc-placement](hastādivinyāsa) [own-own-prior-etc](svasvapūrvādi) [from-place](deśataḥ)
+[of-them](teṣāṃ) [hand+etc.+placement](hasta+ādi+vinyāsa) [own+own+prior+etc.](sva+sva+pūrva+ādi) [from-direction](deśataḥ)
 
 ## mukta-m0-p223-v5563
-[their](teṣāṃ) [goddesses](devyaś) [or](vā) [side](tatpārśve) [to-be-done](kartavyā) [or](vā) [not](na) [left](vāmatāḥ)
+[of-them](teṣāṃ) [goddesses](devyaḥ) [and](ca) [at-that+side](tat+pārśve) [to-be-done](kartavyāḥ) [or](vā) [not](na) [or-left](vā+amatāḥ)
 
 ## mukta-m0-p223-v5564
-[right-lord-etc](dakṣiṇeśādi) [gods](devānāndevyo) [not](na) [anywhere](kvāpi) [approved](sammatāḥ)
+[on-right](dakṣiṇe) [Īśa+etc.+gods](īśa+ādi+devānām) [goddesses](devyaḥ) [not](na) [ever](kvāpi) [approved](sammatāḥ)
 
 ## mukta-m0-p223-v5565
-[thus](evaṃ) [mortal](martyo) [also](api) [who](yaḥ) [does](kuryāt) [desired](vāñcitaṃ) [fruit](phalam) [obtains](āpnuyāt)
+[thus](evaṃ) [mortal](martyaḥ) [also](api) [who](yaḥ) [should-do](kuryāt) [desired](vāñcitaṃ) [fruit](phalam) [obtains](āpnuyāt)
 
 ## mukta-m0-p223-v5566
-[before-said](pūrvokte) [good-muhūrta](sumuhūrte) [tu](tu) [that-day](taddine) [or](vā) [next-day](pare) [dine](dine)
+[in-aforementioned](pūrvokte) [auspicious-time](su+muhūrte) [then](tu) [on-that-day](tat+dine) [or](vā) [on-next-day](pare+dine)
 
 ## mukta-m0-p223-v5567
-[in-shed](prapāyāṃ) [pavilion](maṇḍape) [enclosed-place](veṣṭadeśe) [cow-dung-smeared](gomayalepite)
+[in-pavilion](prapāyāṃ) [in-hall](maṇḍape) [or-enclosure+place](veṣṭa+deśe) [with-cow-dung+smeared](gomaya+lepite)
 
 ## mukta-m0-p223-v5568
-[establish](stāpayettatra) [there](tatra) [lord](deveśaṃ) [adorned](bhūṣitaṃ) [ornament-worthy](bhūṣaṇārhakaiḥ)
+[one-should-place](stāpayet) [there](tatra) [lord-of-gods](deva+īśaṃ) [adorned](bhūṣitaṃ) [with-ornaments+fit](bhūṣaṇa+arhakaiḥ)
 
 ## mukta-m0-p223-v5569
-[many](aneka) [incenses](dhūpaiḥ) [good-lamps](saddipaiḥ) [brought](ānītaṃ) [palanquin-etc](śibikādibhiḥ)
+[with-many](aneka) [incenses](dhūpaiḥ) [with-good-lamps](sat+dīpaiḥ) [brought](ānītaṃ) [with-palanquin+etc.](śibikā+ādibhiḥ)
 
 ## mukta-m0-p223-v5570
-[deva-sthaṇḍila](devasthaṇḍilayormadhye) [middle](madhye) [establish](sthāpayed) [fire-form](vahni) [mūrtinam](mūrtinam)
+[god+platform](deva+sthaṇḍilayoḥ) [between](madhye) [one-should-place](sthāpayet) [fire](vahni) [embodied](mūrtinam)
 
 ## mukta-m0-p223-v5571
-[viṣṇu](viṣṇuṃ) [his-right-side](tatsavya) [bhāge](bhāge) [tu](tu) [cloth-ornament](vastrābharaṇa) [adorned](bhūṣitam)
+[Viṣṇu](viṣṇuṃ) [his+left](tat+savya) [on-side](bhāge) [then](tu) [with-garment+ornament](vastra+ābharaṇa) [adorned](bhūṣitam)
 
 ## mukta-m0-p223-v5572
-[covering-upper-garment](ācchādanottarīyārthaṃ) [guru](gururdadyāt) [lord](prabhor) [hradā](hradā)
+[for-covering+upper-garment](ācchādana+uttarīya+arthaṃ) [teacher](guruḥ) [should-give](dadyāt) [to-lord](prabhoḥ) [with-heart](hradā)
 
 ## mukta-m0-p223-v5573
-[with-six-limbs](saṣaḍaṅgaṃ) [śiva](śivaṃ) [ceṣṭvā](ceṣṭvā) [samid-ghee-etc](samidājyānakaissaha)
+[with-six+limbs](sa+ṣaḍ+aṅgaṃ) [Śiva](śivaṃ) [having-worshipped](ceṣṭvā) [with-fuel-sticks+clarified-butter+food](samid+ājyā+annakaiḥ) [together-with](saha)
 
 ## mukta-m0-p223-v5574
-[gaurī](gaurī) [īśvara](mīśvara) [right](savye) [tu](tu) [heart](hṛda) [placing](saṃsthāpya) [teacher](deśikaḥ)
+[Gaurī](gaurī) [of-Īśvara](mīśvara) [on-left](savye) [then](tu) [with-heart](hṛdā) [having-placed](saṃsthāpya) [teacher](deśikaḥ)
 
 ## mukta-m0-p223-v5575
-[devī](devyāmaṅgala) [maṅgala-sūtra](maṅgala) [tu](tu) [give](dadyād) [heart-mantra](dhṛdayamantrataḥ)
+[to-goddess](devyām) [auspicious+thread](aṅgala+sūtraṃ) [then](tu) [should-give](dadyāt) [with-heart+mantra](dhṛdaya+mantrataḥ)

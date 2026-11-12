@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p221-v5501
-[navel-middle-from](nābhimadhyāttu) [left](vāme) [and](ca) [right](dakṣiṇe) [outside-only](bahireva) [and](ca)
+navel-middle-from(nābhimadhyāt) [and]-on-left(tu) [and]-on-left(vāme) and(ca) on-right(dakṣiṇe) outside(bahiḥ) indeed(eva) and(ca)
 
 ## mukta-m0-p221-v5502
-[varaha-hand's-back-high](varahastasya) [that-not](pṛṣṭhoccaṃ) [wrist's](tannāha) [maṇibandhayoḥ](maṇibandhayoḥ)
+boon-hand-of(varahastasya) back-height(pṛṣṭha+uccam) that-height(tat+nāha) wrist-of-two(maṇibandhayoḥ)
 
 ## mukta-m0-p221-v5503
-[side-end](pārśvāntaṃ) [juice-measure](rasa) [be](mātraṃ) [interval](syāt) [sage-bulls](antaraṃ) [munipuṃgavāḥ](munipuṃgavāḥ)
+side-end(pārśva+antam) six(rasa) measure(mātram) should-be(syāt) interval(antaram) sages-best(muni+puṃgavāḥ)
 
 ## mukta-m0-p221-v5504
-[navel-that-wrist-end](nābhestaṃ) [memory-finger-measure-thus-said](maṇibandhāntaṃ) [smṛtyaṃgulamitīritam](smṛtyaṃgulamitīritam)
+navel-from(nābheḥ) that(tam) wrist-end(maṇibandha+antam) traditionally(smṛtya) finger-measure(aṅgula+miti) stated(īritam)
 
 ## mukta-m0-p221-v5505
-[foot-thumb-pair's-middle](pādāṃguṣṭhadvayormadhyaṃ) [face-heel-pair-end](mukhapārṣṇidvayāntaram)
+foot-big-toe-two-of(pāda+aṅguṣṭha+dvayoḥ) middle(madhyam) face-heel-two-interval(mukha+pārṣṇi+dvaya+antaram)
 
 ## mukta-m0-p221-v5506
-[half-moon-bee-like-other](ardhendumalivaścānya) [hands'-interval](hastayerantaraṃ) [thought](matam)
+half-moon(ardha+indu) and-garland(māliḥ) and(ca) other(anya) hand-two-of(hastayoḥ) interval(antaram) considered(matam)
 
 ## mukta-m0-p221-v5507
-[goddess-eye-face](devīdṛgāsya) [chin](cibuka) [armpit](kakṣa) [nipple-measure](cūcukamānatā)
+goddess-eye-face-chin-armpit-breast-measure(devī+dṛk+āsya+cibuka+kakṣa+cūcuka+mānatā)
 
 ## mukta-m0-p221-v5508
-[joined-goddess-hip-touched](yuktādevīkaṭispṛṣṭa) [hands-by-also](karābhyāmapi) [united](saṃyutā)
+joined(yuktā) goddess-hip-back(devī+kaṭi+spṛṣṭa) hands-by(karābhyām) also(api) united(saṃyutā)
 
 ## mukta-m0-p221-v5509
-[foot-thumb-pair's-middle](pādāṃguṣṭhadvayormadhyaṃ) [be-eighteen-fingers](bhavedaṣṭadaśāṃgulam)
+foot-big-toe-two-of(pāda+aṅguṣṭha+dvayoḥ) middle(madhyam) should-be(bhavet) eighteen-fingers(aṣṭadaśa+aṅgulam)
 
 ## mukta-m0-p221-v5510
-[god-high-ten-part-one](devoccadaśabhāgaika) [part-from-eleven-limit](bhāgādekādaśāvadhi)
+deity-height(deva+ucca) ten-part-one(daśa+bhāga+eka) part-from(bhāgāt) up-to-eleven(ekādaśa+avadhi)
 
 ## mukta-m0-p221-v5511
-[taken](gṛhīta) [conch](śaṃkha) [discus-and](cakraśca) [hands-by](hastābhyāṃ) [held-also](dhṛtayāpi) [and](ca)
+held-conch-disc(gṛhīta+śaṃkha+cakraḥ) and(ca) hands-by(hastābhyām) held(dhṛtayā) also(api) and(ca)
 
 ## mukta-m0-p221-v5512
-[nose-tip-from](nāsāgrāt) [standing-foot's](sthitapādyasya) [thumb-end](cāṃguṣṭhāntaṃ) [hang](vilaṃbayet)
+nose-tip-from(nāsā+agrāt) standing-foot-of(sthita+pādyasya) and-toe-end(ca+aṅguṣṭha+antam) should-hang-down(vilaṃbayet)
 
 ## mukta-m0-p221-v5513
-[pot-height-width](kuṇḍikotsedhavistāro) [palm-thread-fingers](tālasūtrāṃgulau) [in-thought](matau)
+water-pot-height-width(kuṇḍikā+utsedha+vistārau) palm-measure-thread-finger(tāla+sūtra+aṅgulau) considered(matau)
 
 ## mukta-m0-p221-v5514
-[mouth-five-fingers](āsyaṃpañcāṃgulaṃ) [said](proktaṃ) [nose-high-and](nāsikoccantu) [dwarf](kolakam)
+face(āsyam) five-fingers(pañca+aṅgulam) declared(proktam) nose-height(nāsikā+uccam) but(tu) boar-measure(kolakam)
 
 ## mukta-m0-p221-v5515
-[one-finger](ekāṃgulaṃ) [that](tat) [foot-high](padoccaṃ) [that-root-tip-three-by](tanmūlāgratatistribhiḥ)
+one-finger(eka+aṅgulam) that(tat) foot-height(pada+uccam) that-root-tip-extension(tat+mūla+agra+tatiḥ) by-three(tribhiḥ)
 
 ## mukta-m0-p221-v5516
-[that-above](tadūrdhve) [right-hand](dakṣiṇaṃhastandhārāpātāya) [stream-fall-for](kalpayet) [arrange](kalpayet)
+that-above(tat+ūrdhve) right-hand(dakṣiṇam+hastam) water-stream-falling-for(dhārā+pātāya) should-arrange(kalpayet)
 
 ## mukta-m0-p221-v5517
-[navel-to-wrist-end](nābhestumaṇibandhāntaṃ) [element-measure-thus-remembered](dhātumātramitismṛtam)
+navel-from(nābheḥ) but(tu) wrist-end(maṇibandha+antam) seven-measure(dhātu+mātram) thus(iti) remembered(smṛtam)
 
 ## mukta-m0-p221-v5518
-[boon-giver](varadaḥ) [bracelets](kaṭakau) [be](syātāṃ) [left-other](vāmetara) [hands-both](karāvubhau)
+boon-giving(varadaḥ) kaṭaka-hands(kaṭakau) should-be(syātām) left-other(vāma+itara) hands-two(karau) both(ubhau)
 
 ## mukta-m0-p221-v5519
-[four-faced](caturmukhaścaturbāhuḥ) [four-armed](jaṭāmakuṭamaṇḍitam) [matted-crown-adorned](jaṭāmakuṭamaṇḍitam)
+four-faced(catur+mukhaḥ) four-armed(catur+bāhuḥ) matted-hair-crown-adorned(jaṭā+makuṭa+maṇḍitam)
 
 ## mukta-m0-p221-v5520
-[grass-girdle-with](mauñjīmekhalayopetaṃ) [endowed](sopavītottarīyakam) [sacred-thread-upper-garment](sopavītottarīyakam)
+munja-grass-girdle-endowed(mauñjī+mekhalayā+upetam) with-sacred-thread-upper-garment(sa+upavīta+uttarīyakam)
 
 ## mukta-m0-p221-v5521
-[boon-fear](varābhayakarau) [hands](pūrvausyātāntau) [first](dakṣiṇetarau) [be-end](dakṣiṇetarau) [right-other](dakṣiṇetarau)
+boon-fearlessness-hands(vara+abhaya+karau) first-two(pūrvau) should-be(syātām) those-two(tau) right-left(dakṣiṇa+itarau)
 
 ## mukta-m0-p221-v5522
-[thread](sūtraṃlalaṭanāsāgra) [forehead-nose-tip](madhyame) [middle](nābhigulphayoḥ) [navel-ankle's](nābhigulphayoḥ)
+thread-line(sūtram) forehead-nose-tip-middle(lalāṭa+nāsā+agra+madhyame) navel-ankles-of(nābhi+gulphayoḥ)
 
 ## mukta-m0-p221-v5523
-[that-foot-thumb](tatpādāṃguṣṭha) [root-end-from](mūlāntānnābhervasudaśāṃgulam) [navel-to-ten-fingers](mūlāntānnābhervasudaśāṃgulam)
+that-foot-big-toe-root-end-from(tat+pāda+aṅguṣṭha+mūla+antāt) navel-from(nābheḥ) eight-ten-fingers(vasu+daśa+aṅgulam)
 
 ## mukta-m0-p221-v5524
-[that-middle](tanmadhye) [universe-measure](viśvamātrasyāt) [be](bāhupārśvāntakaṃ) [arm-side-end](rasaiḥ) [juices](rasaiḥ)
+that-middle(tat+madhye) thirteen-measure(viśva+mātrā) should-be(syāt) arm-side-end(bāhu+pārśva+antakam) by-six(rasaiḥ)
 
 ## mukta-m0-p221-v5525
-[brahma-form](brahmarūpamitikhyāta) [thus-called](ntathāpadmāsanasthitam) [and-lotus-seat-situated](ntathāpadmāsanasthitam)
+brahma-form(brahma+rūpam) thus(iti) renowned(khyātam) likewise(tathā) lotus-seat-situated(padmāsana+sthitam)

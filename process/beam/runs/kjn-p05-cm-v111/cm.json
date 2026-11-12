@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "karṇa+sthaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = karṇa+stha; accusative as given"
+   "morph": "compound:karṇa+stha;n.nom.sg",
+   "grounds": "compound: karṇa+stha, located in the ear"
   },
   {
    "lemma": "śrūyate",
-   "morph": "3.sg.pass.pres",
-   "grounds": "passive present of śru"
+   "morph": "3.sg.pres.pass;śru",
+   "grounds": "present passive of śru, to be heard"
   },
   {
    "lemma": "devi",
@@ -19,8 +19,8 @@
   },
   {
    "lemma": "pāramparya+krama+āgatam",
-   "morph": "compound = member+membership",
-   "grounds": "compound = pāramparya+krama+āgata; accusative as given"
+   "morph": "compound:pāramparya+krama+āgata;n.nom.sg",
+   "grounds": "compound: pāramparya+krama+āgata"
   }
  ]
 }

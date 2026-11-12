@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p222-v5526
-[agni-kunda-sya](agnikuṇḍasyaviṣkaṃbhastrimekhala) [viskambha](agnikuṇḍasyaviṣkaṃbhastrimekhala) [tri-mekhala](agnikuṇḍasyaviṣkaṃbhastrimekhala) [yuta-sya](agnikuṇḍasyaviṣkaṃbhastrimekhala) [ca](agnikuṇḍasyaviṣkaṃbhastrimekhala)
+[fire-pit](agnikuṇḍasya) [width](viṣkaṃbhaḥ) [three-rim](trimekhala) [endowed-with](yutasya) [and](ca)
 
 ## mukta-m0-p222-v5527
-[dvadasa-angula-vistara](dvādaśāṃgulavistāra) [dairghya](dairghyā) [sa](sā) [sapta-jihvaka](saptajihvakaḥ)
+[twelve-finger](dvādaśāṃgula) [breadth](vistāra) [length](dairghyā) [that](sā) [seven-flamed](saptajihvakaḥ)
 
 ## mukta-m0-p222-v5528
-[siva-adi-hasta-sutra-naam](śivādihastasūtrāṇāṃ) [pramana](pramāṇaṃdvyantarantu) [dvya-antara](pramāṇaṃdvyantarantu) [yat](yat)
+[Śiva-etc.](śivādi) [hand](hasta) [of-threads](sūtrāṇāṃ) [measure](pramāṇaṃ) [two-interval](dvyantaraṃ) [indeed](tu) [which](yat)
 
 ## mukta-m0-p222-v5529
-[eshaam-eva-nati](eṣāmevanatiścāpi) [ca-api](eṣāmevanatiścāpi) [samkoca](saṃkoco) [nirgama-api](nirgamo'pi) [va](vā)
+[of-these](eṣām) [bending](evanatiḥ) [and](ca) [also](api) [contraction](saṃkoco) [projection](nirgamaḥ) [also](api) [or](vā)
 
 ## mukta-m0-p222-v5530
-[astra-naam-niyama](astrāṇānniyamaścāpi) [ca-api](astrāṇānniyamaścāpi) [sarva-sastra-pracodita](sarvaśāstra pracoditaḥ)
+[of-weapons](astrāṇān) [rule](niyamaḥ) [and](ca) [also](api) [all-scripture](sarvaśāstra) [enjoined](pracoditaḥ)
 
 ## mukta-m0-p222-v5531
-[bhusana-naam-sarveshaam](bhūṣaṇānāñca) [vaam](vāṃ) [dakshina-bhedatah](dakṣiṇa bhedataḥ)
+[of-ornaments](bhūṣaṇānāñ) [and](ca) [of-all](sarveṣāṃ) [left](vāṃ) [right](dakṣiṇa) [by-difference](bhedataḥ)
 
 ## mukta-m0-p222-v5532
-[devi-naam-evam-eva-syaan](devīnāmevamevasyānnarādīnāṃ) [nara-adi-naam](devīnāmevamevasyānnarādīnāṃ) [viseshatah](viśeṣataḥ)
+[of-goddesses](devīnām) [thus](evam) [indeed](eva) [should-be](syāt) [of-men-etc.](narādīnāṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p222-v5533
-[sambhavya](saṃbhāvya) [purvavat](pūrvavat) [kalam](kālaṃ) [pragvat](prāgvat) [krtva-ankura-arpanam](kṛtvāṃkurārpaṇam)
+[having-considered](saṃbhāvya) [as-before](pūrvavat) [time](kālaṃ) [as-before](prāgvat) [having-performed](kṛtvā) [sprout-offering](aṃkurārpaṇam)
 
 ## mukta-m0-p222-v5534
-[gauri-ya](gauryā) [ca](ca) [dakshine](dakṣiṇe) [lakshmi](lakṣmīṃ) [vinsed-desika-uttama](vinseddeśikottamaḥ)
+[of-Gaurī](gauryā) [and](ca) [on-right](dakṣiṇe) [Lakṣmī](lakṣmīṃ) [should-place](vinset) [best-teacher](deśikottamaḥ)
 
 ## mukta-m0-p222-v5535
-[sishta-naam](śiṣṭānāṃ) [brahma-gauri](brahmagaurī) [sri-devi-naam](śrīdevīnāṃ) [kanaka-nyaset](kanakanyaset)
+[of-the-rest](śiṣṭānāṃ) [Brahma-Gaurī](brahmagaurī) [Śrī-goddesses](śrīdevīnāṃ) [Kanakā](kanakāṃ) [should-place](nyaset)
 
 ## mukta-m0-p222-v5536
-[bera-suddhi-pura-grama](beraśuddhipuragrāma) [prabhrti-naam](prabhṛtīnāṃ) [pradakshinam](pradakṣiṇam)
+[image](bera) [purification](śuddhi) [city](pura) [village](grāma) [etc.](prabhṛtīnāṃ) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p222-v5537
-[brahma-vishnu-krttau](brahmaviṣṇu kṛtau) [brahma](brahma) [parsvayor-ambikaam](pārśvayoraṃbikāṃ) [sriyam](śriyam)
+[Brahmā](brahma) [Viṣṇu](viṣṇu) [made](kṛtau) [Brahmā](brahma) [on-both-sides](pārśvayoḥ) [Ambikā](aṃbikāṃ) [Śrī](śriyam)
 
 ## mukta-m0-p222-v5538
-[purva-uttara-kashthasu](pūrvāśottara kāṣṭhāsu) [snana-vedi-traya-anvitam](snānavedi trayānvitam)
+[in-east](pūrvā) [and-north](uttara) [directions](kāṣṭhāsu) [bathing-platform](snānavedi) [with-three](trayānvitam)
 
 ## mukta-m0-p222-v5539
-[yonya-abha-nava-panca-eka](yonyābhanavapañcaika) [kundair-api](kuṇḍairapi) [samanvita](samanvitaḥ)
+[womb-shaped](yonyābha) [nine](nava) [five](pañca) [one](eka) [with-pits](kuṇḍaiḥ) [also](api) [endowed-with](samanvitaḥ)
 
 ## mukta-m0-p222-v5540
-[devasya-mandape](devasyamaṇḍape) [ca-api](cāpi) [kundaani](kuṇḍāni) [nava-sankhyaya](nava saṃkhyayā)
+[of-the-god](devasya) [in-pavilion](maṇḍape) [and](ca) [also](api) [pits](kuṇḍāni) [by-nine](nava) [in-number](saṃkhyayā)
 
 ## mukta-m0-p222-v5541
-[dig-asrany-atha](digaśrānyatha) [vrttaani](vṛttāni) [kalpayet](kalpayet) [kalpa-vit-tama](kalpavittamaḥ)
+[square](digaśrāṇi) [or](atha) [circular](vṛttāni) [should-arrange](kalpayet) [ritual-expert](kalpavittamaḥ)
 
 ## mukta-m0-p222-v5542
-[punyaham](puṇyāhaṃ) [vasto-homas-ca](vāstohomaśca) [sthandilam](sthaṇḍilaṃ) [sayanam](śayanaṃ) [tatha](tathā)
+[puṇyāha-rite](puṇyāhaṃ) [vāstu-offering](vāstohomaḥ) [and](ca) [altar](sthaṇḍilaṃ) [bed](śayanaṃ) [likewise](tathā)
 
 ## mukta-m0-p222-v5543
-[sayane](śayane) [sayayed-devantasya](śāyayeddevantasya) [vaame](vāme) [ca](ca) [dakshine](dakṣiṇe)
+[on-bed](śayane) [should-lay](śāyayet) [god](devam) [his](tasya) [on-left](vāme) [and](ca) [on-right](dakṣiṇe)
 
 ## mukta-m0-p222-v5544
-[devyas-tu](devyāstu) [mandape](maṇḍape) [deviim](devīṃ) [sayayed-dakshine](śāyayeddakṣiṇe) [sriyam](śriyam)
+[of-goddess](devyāḥ) [indeed](tu) [in-pavilion](maṇḍape) [goddess](devīṃ) [should-lay](śāyayet) [on-right](dakṣiṇe) [Śrī](śriyam)
 
 ## mukta-m0-p222-v5545
-[raktena](raktena) [vasama](vāsamā) [devam](devaṃ) [deviim](deviṃ) [pitenam](pītena) [kesavam](keśavam)
+[with-red](raktena) [garment](vāsamā) [god](devaṃ) [goddess](deviṃ) [with-yellow](pītena) [Keśava](keśavam)
 
 ## mukta-m0-p222-v5546
-[acarya](ācāryā) [ssamgrahi-tavyaah](ssaṃgrahītavyāḥ) [pratimandapam-uttamaah](pratimaṇṭapamuttamāḥ)
+[teachers](ācāryāḥ) [should-be-chosen](saṃgrahītavyāḥ) [for-each-pavilion](pratimaṇṭapam) [excellent](uttamāḥ)
 
 ## mukta-m0-p222-v5547
-[deva-uttama-anga-desetu](devottamāṃga deśetu) [siva-kumbham-ca](śivakuṃbhañca) [vardhaniim](vardhanīm)
+[god's](deva) [head](uttamāṃga) [place](deśe) [indeed](tu) [Śiva-pot](śivakuṃbhaṃ) [and](ca) [vardhanī-pot](vardhanīm)
 
 ## mukta-m0-p222-v5548
-[paritotau](paritoṭau) [ghataanyasva](ghaṭānyasva) [vidyesa-adhisthita](vidyeśādhiṣṭhitā) [nyaset](nyaset)
+[around](paritaḥ) [eight](aṭau) [pots](ghaṭān) [placing](nyasya) [Vidyēśa-presided](vidyeśādhiṣṭhitāni) [should-place](nyaset)
 
 ## mukta-m0-p222-v5549
-[vama-adya-adhisthita-nashta](vāmādyādhiṣṭhitānaṣṭa) [kumbhaas-ca](kuṃbhāśca) [parito](parito) [nyaset](nyaset)
+[Vāmā-etc.](vāmādi) [presided](adhiṣṭhitān) [eight](aṣṭa) [pots](kuṃbhān) [and](ca) [around](paritaḥ) [should-place](nyaset)
 
 ## mukta-m0-p222-v5550
-[yajet](yajet) [gandha-adibhir-deva](gaṃdhādibhirdevā) [naivedya-antaih](naivedyāntaiḥ) [prthak-prthak](pṛthak pṛthak)
+[should-worship](yajet) [with-fragrance-etc.](gaṃdhādibhiḥ) [gods](devān) [ending-with-food-offering](naivedyāntaiḥ) [separately](pṛthak) [separately](pṛthak)

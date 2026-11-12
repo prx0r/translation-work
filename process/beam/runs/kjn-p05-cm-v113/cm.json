@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "ṣaṇmāsād",
-   "morph": "m.abl.sg",
-   "grounds": "ablative of ṣaṇmāsa with sandhi as given"
+   "morph": "compound:ṣaṣ+māsa;m.abl.sg",
+   "grounds": "ablative compound: ṣaṣ+māsa"
   },
   {
    "lemma": "abhyased",
-   "morph": "3.sg.act.opt",
-   "grounds": "optative of abhyas"
+   "morph": "3.sg.opt.act;abhyas",
+   "grounds": "optative of abhyas, should practice"
   },
   {
    "lemma": "yas",
@@ -20,17 +20,17 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "adversative particle"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "kāṣāyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "accusative of kāṣāya"
+   "grounds": "accusative of kāṣāya, ochre garment"
   },
   {
    "lemma": "bandha+varjitam",
-   "morph": "compound = member+membership",
-   "grounds": "compound = bandha+varjita; accusative as given"
+   "morph": "compound:bandha+varjita;n.acc.sg",
+   "grounds": "compound: bandha+varjita"
   }
  ]
 }

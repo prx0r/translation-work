@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-sarva-ātodya samāyuktam nṛtta vādya samanvitam
+[with-all](sarva) [+instruments](ātodya) [+endowed](samāyuktan) [with-dance](nṛtta) [+and-music](vādya) [+accompanied](samanvitam)
 
 ## mukta-m0-p22-v527
-tri-śūlena samāyuktam deva-īśena yutam navā
+[with-trident](triśūlena) [+endowed](samāyuktan) [with-lord-of-gods](deveśena) [+joined](yutan) [or](vā)
 
 ## mukta-m0-p22-v528
-daṇḍam saṃsthāpayet paścāt sarva-lakṣaṇa-saṃyutam
+[pole](daṇḍaṃ) [one-should-establish](saṃsthāpayet) [afterwards](paścāt) [with-all](sarva) [+characteristics](lakṣaṇa) [+endowed](saṃyutam)
 
 ## mukta-m0-p22-v529
-dhāma-ucca-stāra-sadṛśaḥ dvi-guṇaḥ tri-guṇaḥ api vā
+[temple](dhāma) [+height](ucca) [+star](tāra) [+equal](sadṛśaḥ) [double](dviguṇas) [triple](triguṇo) [or](api) [or](vā)
 
 ## mukta-m0-p22-v530
-ṣaṭ-sapta-vasu-hastena daṇḍasya adhama-traye
+[with-six](ṣaṭ) [+seven](sapta) [+eight](vasu) [+cubits](hastena) [of-pole](daṇḍasya) [in-lower](adhama) [+three](traye)
 
 ## mukta-m0-p22-v531
-eka-ādi-tala-paryantam gopura-antam atha api vā
+[from-one](eka) [+etc.](ādi) [+storey](tala) [+up-to](paryantaṃ) [up-to-gopura](gopurāntam) [or](atha) [also](api) [or](vā)
 
 ## mukta-m0-p22-v532
-madhye-kanīyase cet tu khātam cet tad-bahiṣkṛtam
+[in-middle](madhye) [in-inferior](kanīyase) [if](cet) [indeed](tu) [pit](khātaṃ) [if](cet) [that](tat) [+outside](bahiṣkṛtam)
 
 ## mukta-m0-p22-v533
-sarva-śūla-ukta-vṛkṣaḥ vā tvak-sāra-kramuka-ādikaḥ
+[all](sarvaḥ) [in-śūla-text](śūla) [+mentioned](ukta) [+tree](vṛkṣo) [or](vā) [bark](tvak) [+pith](sāra) [+areca-nut](kramuka) [+etc.](ādikaḥ)
 
 ## mukta-m0-p22-v534
-palāśa-khadira-aśvattha-vaṭa-candana dāravaḥ
+[palāśa](palāśa) [+khadira](khadira) [+aśvattha](aśvattha) [+vaṭa](vaṭa) [+sandal](candana) [+woods](dāravaḥ)
 
 ## mukta-m0-p22-v535
-vaiṇavam jāti-vṛkṣaiḥ vā śamī-bilvam atha api vā
+[made-of-bamboo](vaiṇavaṃ) [jāti](jāti) [+with-trees](vṛkṣai) [or](vā) [śamī](śamī) [+bilva](bilvam) [or](atha) [also](api) [or](vā)
 
 ## mukta-m0-p22-v536
-svabhāva-nāha-saṃyuktaḥ tvak-sāra-druma-nimitaḥ
+[with-natural](svabhāva) [+hollowness](nāha) [+endowed](saṃyuktas) [bark](tvak) [+pith](sāra) [+tree](druma) [+made](nimitaḥ)
 
 ## mukta-m0-p22-v537
-dvi-bhāga-ādi nava-aṃśa-antam daṇḍa-dairghyam vidhāya ca
+[from-two-parts](dvibhāga) [+etc.](ādi) [up-to-nine-parts](navāṃśāntan) [of-pole](daṇḍa) [length](dairghyaṃ) [having-divided](vidhāya) [and](ca)
 
 ## mukta-m0-p22-v538
-pañca-aṃgulam samārabhya ca aṃgulāt ṣoḍaśa-aṃgulam
+[five-aṅgulas](pañcāṃgulaṃ) [beginning-with](samārabhya) [from-aṅgula](cāṃgulāt) [up-to-sixteen-aṅgulas](ṣoḍaśāṃgulam)
 
 ## mukta-m0-p22-v539
-pañca-aṃśāt dvādaśa-aṃśa-antam mūla-nāham vidhāya ca
+[from-five-parts](pañcāṃśāt) [up-to-twelve-parts](dvādaśāṃśāntaṃ) [root](mūla) [+circumference](nāhaṃ) [having-fixed](vidhāya) [and](ca)
 
 ## mukta-m0-p22-v540
-daṇḍa-uktaḥ veṇu-vṛkṣaḥ vā dhvaja-yaṣṭi-mahīruhaḥ
+[in-pole](daṇḍa) [+mentioned](ukto) [bamboo](veṇu) [+tree](vṛkṣo) [or](vā) [flag](dhvaja) [+staff](yaṣṭi) [+tree](mahīruhaḥ)
 
 ## mukta-m0-p22-v541
-skandham dvayam tan-māna-dvādaśa-aṃgula-mānataḥ
+[branch](skandhaṃ) [two](dvayaṃ) [its](tat) [+measure](māna) [twelve-aṅgulas](dvādaśāṃgulam) [+in-measure](ānataḥ)
 
 ## mukta-m0-p22-v542
-sapta-aṃgulam samārabhya gāyatrī-arṇa-aṃgula-avadhi
+[seven-aṅgulas](saptāṃgulaṃ) [beginning-with](samārabhya) [gāyatrī](gāyatrī) [+syllable](arṇa) [+aṅgulas](āṃgulā) [+up-to](avadhi)
 
 ## mukta-m0-p22-v543
-ardhena vā tri-pādena darvī-ākāraḥ yathā tathā
+[by-half](ardhena) [or](vā) [by-three-quarters](tripādena) [ladle](darvi) [+shaped](ākāro) [as](yathā) [so](tathā)
 
 ## mukta-m0-p22-v544
-catuḥ-tri-dvaya-aṃgulam vā api mānam eṣām prakīrtitam
+[four](catur) [+three](tri) [+two](dvaya) [+aṅgulas](aṃgulaṃ) [or](vā) [also](api) [measure](mānam) [of-these](eṣāṃ) [is-declared](prakīrtitam)
 
 ## mukta-m0-p22-v545
-ardha-chidram adha-skandha prānte yaṣṭi-agra-deśake
+[half](ardha) [+hole](chidram) [lower](adhas) [+branch](skandha) [at-end](prānte) [staff](yaṣṭi) [+tip](agra) [+place](deśake)
 
 ## mukta-m0-p22-v546
-mūla-agra-suṣira-upeta daṇḍa-yaṣṭi-anurūpataḥ
+[root](mūla) [+tip](agra) [+hollow](suṣira) [+endowed](upeta) [pole](daṇḍa) [+staff](yaṣṭi) [+according-to](anurūpataḥ)
 
 ## mukta-m0-p22-v547
-ardha-chidram adha-skandha prānte yaṣṭi-agra-deśake
+[half](ardha) [+hole](chidram) [lower](adhas) [+branch](skandha) [at-end](prānte) [staff](yaṣṭi) [+tip](agra) [+place](deśake)
 
 ## mukta-m0-p22-v548
-bṛhat-skandha tri-bhāga-artham tri-pāda-guṇa-mānataḥ
+[large](bṛhat) [+branch](skandha) [three-parts](tribhāga) [+portion](arthaṃ) [three-quarters](tripāda) [+multiplied](guṇa) [+in-measure](mānataḥ)
 
 ## mukta-m0-p22-v549
-daṇḍa-khāta-pramāṇa-antam daṇḍa-agra-dvalaya sthitaḥ
+[pole](daṇḍa) [+pit](khāta) [+measure](pramāṇa) [+up-to](āntan) [pole](daṇḍa) [+tip](āgrā) [ring](dvalaya) [+situated](sthitaḥ)
 
 ## mukta-m0-p22-v550
-bhū-praviṣṭa pramāṇam yat daṇḍa-agre yaṣṭi-dairghyakam
+[earth](bhū) [+entered](praviṣṭa) [measure](pramāṇaṃ) [which](yat) [pole](daṇḍa) [+at-tip](agre) [staff](yaṣṭi) [+length](dairghyakam)

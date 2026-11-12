@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[vāme](vāme) [viṣṇum](viṣṇuṃ) [samāvāhya](samāvāhya) [pālikāyām](pālikāyāṃ) [tu](tu) [pārvatī](pārvatī)
+on-left(vāme) [viṣṇu](viṣṇuṃ) having-invoked(samāvāhya) on-basin(pālikāyāṃ) but(tu) [pārvatī](pārvatī)
 
 ## mukta-m0-p25-v602
-[daṇḍa+agre](daṇḍāgre) [madane](madane) [jñeyaḥ](jñeyo) [bhāskaraḥ](bhāskaro) [daṇḍa+madhyame](daṇḍamadhyame)
+at-staff+tip(daṇḍa+agre) [madana](madane) to-be-known(jñeyaḥ) [bhāskara](bhāskaraḥ) at-staff+middle(daṇḍa+madhyame)
 
 ## mukta-m0-p25-v603
-[mātaraḥ](mātarassaptadakṣe) [saptadakṣe](mātarassaptadakṣe) [tu](tu) [jyeṣṭhā+paścima+dik+dale](jyeṣṭhāpaścimadikdale)
+[mothers](mātaraḥ)+seven(sapta) on-right(dakṣe) but(tu) [jyeṣṭhā](jyeṣṭhā) on-western+direction+petal(paścima+dik+dale)
 
 ## mukta-m0-p25-v604
-[rudra+arka+vasavaḥ+aśvinī+āvaṣṭādaśa+gaṇāḥ+caye](rudrārkavasavośvinyāvaṣṭādaśagaṇāścaye)
+[rudras](rudra)+[suns](arka)+[vasus](vasavaḥ)+[aśvins](aśvinyau)+eighteen+groups(aṣṭādaśa+gaṇāḥ)+and(ca)+in-collection(aye)
 
 ## mukta-m0-p25-v605
-[bherīm](bherīṃ) [vastreṇa](vastreṇa) [saṃveṣṭaya](saṃveṣṭaya) [madhye](madhye) [rudram](rudraṃ) [samarcayet](samarcayet)
+[kettle-drum](bherīṃ) with-cloth(vastreṇa) having-wrapped(saṃveṣṭaya) in-middle(madhye) [rudra](rudraṃ) one-should-worship(samarcayet)
 
 ## mukta-m0-p25-v606
-[valaye](valaye) [dakṣiṇe](dakṣiṇe) [sūryam](sūryam) [itare](itare) [candraṃ+arcayet](candramarcayet)
+on-hoop(valaye) on-right(dakṣiṇe) [sun](sūryam)+on-other(itare) [moon](candram)+one-should-worship(arcayet)
 
 ## mukta-m0-p25-v607
-[rudrān](rudrāṃstatsaṃkhyake) [tat+saṃkhyake](rudrāṃstatsaṃkhyake) [nyastvā](nyastvā) [carma+sūtreṣu](carmasūtreṣu) [vāsukīm](vāsukīm)
+[rudras](rudrān)+of-that+number(tat+saṃkhyake) having-placed(nyastvā) on-leather+strings(carma+sūtreṣu) [vāsuki](vāsukīm)
 
 ## mukta-m0-p25-v608
-[gandha+puṣpa+ādibhiḥ](gandhapuṣpādibhirdravyaiḥ) [dravyaiḥ](gandhapuṣpādibhirdravyaiḥ) [naivedya+antaiḥ](naivedyāntaiḥ) [pṛthak](pṛthak) [hṛdā](hṛdā)
+with-fragrance+flower+etc(gandha+puṣpa+ādibhiḥ)+substances(dravyaiḥ) ending-with-food-offering(naivedya+antaiḥ) separately(pṛthak) with-heart-mantra(hṛdā)
 
 ## mukta-m0-p25-v609
-[eka+prahārataḥ](ekaprahārataḥ) [pūrvam](pūrvaṃ) [dvitīyam](dvitīyaṃ) [dvi+prahārataḥ](dviprahārataḥ)
+by-one+stroke(eka+prahārataḥ) [first](pūrvaṃ) [second](dvitīyaṃ) by-two+strokes(dvi+prahārataḥ)
 
 ## mukta-m0-p25-v610
-[santāḍya](santāḍya) [vādakam](vādakaṃ) [prokṣya](prokṣya) [mantram](mantraṃ) [pañcākṣaram](pañcākṣaraṃ) [smaran](smaran)
+having-struck(santāḍya) [drummer](vādakaṃ) having-sprinkled(prokṣya) [mantra](mantraṃ) five-syllabled(pañca+akṣaraṃ) remembering(smaran)
 
 ## mukta-m0-p25-v611
-[tat+haste](taddhaste) [kusumam](kusumaṃ) [dadyāt](dadyāt) [tat+mantram](tanmantraṃ) [samanusmaran](samanusmaran)
+in-his+hand(tat+haste) [flower](kusumaṃ) one-should-give(dadyāt)+that+mantra(tat+mantraṃ) remembering(samanusmaran)
 
 ## mukta-m0-p25-v612
-[bherīm](bherīṃ) [skande](skande) [samāropya](samāropya) [vādayet](vādayet) [sarva+tāla+vit](sarvatālavit)
+[kettle-drum](bherīṃ) on-skanda(skande) having-mounted(samāropya) one-should-play(vādayet) all+rhythm+knowing(sarva+tāla+vit)
 
 ## mukta-m0-p25-v613
-[gīta+nṛtta+samāyuktam](gītanṛttasamāyuktam) [anna+liṅga+samāyutam](annaliṃgasamāyutam)
+with-song+dance+accompanied(gīta+nṛtta+samāyutam)+with-food+liṅga+accompanied(anna+liṅga+samāyutam)
 
 ## mukta-m0-p25-v614
-[saṃgrahītvā](saṃgrahītvā) [astra+rājānam](astrarājānaṃ) [vitāna+chatra+saṃyutam](vitānacchatrasaṃyutam)
+having-taken(saṃgrahītvā)+weapon+king(astra+rājānaṃ) with-canopy+parasol+endowed(vitāna+chatra+saṃyutam)
 
 ## mukta-m0-p25-v615
-[praviśya](praviśya) [nagara+ādyantum](nagarādyantu) [brahma+sthāna+āditaḥ](brahmāsthānāditaḥ) [kramāt](kramāt)
+having-entered(praviśya) into-city+etc(nagara+ādi)+indeed(tu) from-brahmā+place+etc(brahmā+sthāna+āditaḥ) in-order(kramāt)
 
 ## mukta-m0-p25-v616
-[bali+dāna+avasāne](balidānāvasāne) [tu](tu) [tāla+svara+samāyutam](tālasvarasamāyutam)
+at-offering+giving+conclusion(bali+dāna+avasāne) but(tu) with-rhythm+tone+accompanied(tāla+svara+samāyutam)
 
 ## mukta-m0-p25-v617
-[brahmāṇi](brahmāṇi) [brahma+tālam](brahmatālaṃ) [syāt](syāt) [megha+rāga+svara+anvitam](megharāgasvarānvitam)
+in-brahmāṇī(brahmāṇi) [brahma-rhythm](brahma+tālaṃ) should-be(syāt) with-megha+rāga+tone+endowed(megha+rāga+svara+anvitam)
 
 ## mukta-m0-p25-v618
-[bhṛṃgiṇī](bhṛṃgiṇī) [kauśikaṃ](kauśikannaṭṭa) [naṭṭa](kauśikannaṭṭa) [bhāṣayā](bhāṣayā) [malla+tālakam](mallatālakam)
+[bhṛṃgiṇī](bhṛṃgiṇī) [kauśika-naṭṭa](kauśika+naṭṭa) in-style(bhāṣayā) [malla-rhythm](malla+tālakam)
 
 ## mukta-m0-p25-v619
-[koṭika+antarka+rāgeṇa](koṭikantarkarāgeṇa) [śālā+pāṇyātu](śālāpāṇyātu) [ḍakkarī](ḍakkarī)
+with-koṭika+tarka+rāga(koṭika+tarka+rāgeṇa) in-śālāpāṇī(śālāpāṇyā)+but(tu) [ḍakkarī](ḍakkarī)
 
 ## mukta-m0-p25-v620
-[dhvaja+ārohaṇa](dhvajārohaṇa) [pūrvam](pūrvaṃ) [syāt](syādutsave) [utsave](syādutsave) [tri+guṇe](triguṇe) [dine](dine)
+flag+hoisting(dhvaja+ārohaṇa) first(pūrvaṃ) should-be(syāt)+in-festival(utsave) on-threefold+day(tri+guṇe+dine)
 
 ## mukta-m0-p25-v621
-[devasya](devasya) [sannidhau](sannidhau) [kṛtvā](kṛtvā) [sthaṇḍilānām](sthaṇḍilānāñcatuṣṭayam) [catuṣṭayam](sthaṇḍilānāñcatuṣṭayam)
+of-deity(devasya) in-presence(sannidhau) having-made(kṛtvā) of-altar-platforms(sthaṇḍilānām)+group-of-four(catuṣṭayam)
 
 ## mukta-m0-p25-v622
-[tat+agre](tadagre) [vṛṣa+kuṃbham](vṛṣakuṃbhaṃsyāt) [syāt](vṛṣakuṃbhaṃsyāt) [vṛṣa+vidyeśvarān+vitam](vṛṣavidyeśvarānvitam)
+in-front-of-that(tat+agre) bull+pot(vṛṣa+kuṃbhaṃ)+should-be(syāt) with-bull+vidyeśvara+endowed(vṛṣa+vidyeśvara+anvitam)
 
 ## mukta-m0-p25-v623
-[krameṇa](krameṇaitān) [etān](krameṇaitān) [samabhyarcya](samabhyarcya) [gandha+puṣpa+ādibhiḥ](gandhapuṣpādibhiḥ) [kramāt](kramāt)
+in-order(krameṇa)+these(etān) having-worshipped(samabhyarcya) with-fragrance+flower+etc(gandha+puṣpa+ādibhiḥ) in-order(kramāt)
 
 ## mukta-m0-p25-v624
-[prāg+ukta](prāgukta) [vidhinā](vidhinā) [ceṣṭvā](ceṣṭvā) [tatvādīn](tatvādīn) [viniveśayet](viniveśayet)
+by-previously+stated+method(prāk+ukta+vidhinā) having-worshipped(ca)+having-performed(iṣṭvā) principles+etc(tatva+ādīn) one-should-place(viniveśayet)
 
 ## mukta-m0-p25-v625
-[bherīm](bherīṃ) [santāḍya](santāḍya) [saṃgrāhya](saṃgrāhya) [triśūlam](triśūlaṃ) [vṛṣabha+anvitam](vṛṣabhānvitam)
+[kettle-drum](bherīṃ) having-struck(santāḍya) having-taken(saṃgrāhya) [trident](triśūlaṃ) with-bull+accompanied(vṛṣabha+anvitam)
