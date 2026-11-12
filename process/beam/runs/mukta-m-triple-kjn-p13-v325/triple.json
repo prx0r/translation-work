@@ -13,14 +13,14 @@
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive expressing prior act of cognition",
-     "morph": "absolutive (jñā)"
+     "grounds": "absolutive expressing prior act of realization",
+     "morph": "absolutive (√jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound object of knowing; gūḍha (hidden) + sadbhāva (true-nature)",
-     "morph": "compound m.acc.sg"
+     "grounds": "compound object of knowing; concealed essential being",
+     "morph": "compound m.acc.sg (gūḍha+sadbhāva)"
     },
     {
      "surface": "sarvajñatvam",
@@ -31,21 +31,21 @@
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "main verb indicating emergence of the resulting state",
-     "morph": "3.sg.present.middle (pra-jan)"
+     "grounds": "main verb indicating emergence or manifestation",
+     "morph": "3.sg.present.middle (pra-√jan)"
     }
    ],
-   "question": "What state arises from knowing that hidden true nature?",
+   "question": "What realization causes the state of omniscience to arise?",
    "premises": [
-    "There is a hidden true nature to be known.",
-    "Knowing that hidden true nature is possible.",
-    "A specific state arises as a result of that knowing."
+    "A hidden true nature exists as an object of knowledge.",
+    "Knowing that hidden true nature is a prior act.",
+    "Omniscience arises as a consequent state."
    ],
-   "inference": "Knowing the hidden true nature gives rise to all-knowingness.",
+   "inference": "Therefore, realizing the hidden true nature results in the arising of omniscience.",
    "uncertainties": [
-    "The exact referent of 'taṃ' depends on the preceding verses."
+    "Whether sarvajñatvam functions as subject or predicate complement is interpreted from context."
    ],
-   "plain_english": "Having known that hidden true nature, all-knowingness arises."
+   "plain_english": "Having known that hidden true nature, omniscience arises."
   }
  ]
 }

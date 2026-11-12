@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 394,
- "question": "Which classes of celestial beings are further included in this vision?",
+ "question": "Which additional classes of beings are included in the enumerated vision?",
  "premises": [
-  "Gandharvas are included.",
-  "Kinnaras, Yakṣas, and Nāgas are included.",
-  "Vidyādharas are included."
+  "Gandharvas are named",
+  "Kinnaras, Yakshas, and Nagas are named",
+  "Vidyadharas are named"
  ],
- "inference": "The vision encompasses Gandharvas, Kinnaras, Yakṣas, Nāgas, and Vidyādharas.",
- "uncertainties": [],
- "plain_english": "Gandharvas, Kinnaras, Yakṣas, Nāgas, and Vidyādharas, O beloved."
+ "inference": "The enumeration continues with Gandharvas, Kinnaras, Yakshas, Nagas, and Vidyadharas.",
+ "uncertainties": [
+  "This verse continues the list begun in the previous verse."
+ ],
+ "plain_english": "Gandharvas, Kinnaras, Yakshas, Nagas, and Vidyadharas, O beloved."
 }

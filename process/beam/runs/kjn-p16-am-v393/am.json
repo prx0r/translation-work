@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 393,
- "question": "Which principal deities are included in the vision or scope described here?",
+ "question": "Which major deities are included in the vision or power described here?",
  "premises": [
-  "Brahma, Viṣṇu, Yama, and Indra are named.",
-  "Varuṇa is named.",
-  "Vāyu is named."
+  "Brahma, Vishnu, Yama, and Indra are named",
+  "Varuna is named",
+  "Vayu is named"
  ],
- "inference": "The scope includes Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu.",
- "uncertainties": [],
- "plain_english": "Brahma, Viṣṇu, Yama, and Indra, and also Varuṇa and Vāyu."
+ "inference": "The verse enumerates Brahma, Vishnu, Yama, Indra, Varuna, and Vayu.",
+ "uncertainties": [
+  "This verse is a list continuing into the next verse."
+ ],
+ "plain_english": "Brahma, Vishnu, Yama, and Indra, and also Varuna and Vayu."
 }

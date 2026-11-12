@@ -1,13 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 319,
- "question": "What substitute is permitted when the preferred vessel is unavailable?",
+ "question": "What alternative is permitted when the preferred ritual vessel cannot be obtained?",
  "premises": [
-  "The preferred vessel may not be obtained.",
-  "Another vessel is available.",
-  "Drinking liquor is the action in question."
+  "The preferred vessel is not obtained",
+  "Another vessel is available",
+  "Drinking liquor is the action in question"
  ],
- "inference": "If the preferred vessel is unavailable, one may drink liquor from another vessel.",
+ "inference": "If the preferred vessel is unavailable, one may drink liquor from another vessel",
  "uncertainties": [],
- "plain_english": "If this vessel cannot be obtained, one may drink the liquor from another vessel."
+ "plain_english": "If this vessel is not obtained, one may drink the liquor from another vessel."
 }

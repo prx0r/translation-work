@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 390,
- "question": "What effect does step-by-step practice of this method produce?",
+ "question": "What effect does step-by-step training in this practice produce?",
  "premises": [
-  "Practice occurs step by step.",
-  "The practice is cultivated progressively.",
-  "It produces great wonder."
+  "The context is practice",
+  "Practice is undertaken step by step",
+  "It causes great wonder"
  ],
- "inference": "When practiced step by step, this method produces great wonder.",
- "uncertainties": [],
- "plain_english": "Indeed, when practiced step by step, it becomes a cause of great wonder."
+ "inference": "When practiced step by step, this discipline produces great wonder.",
+ "uncertainties": [
+  "The verse is elliptical and lacks an explicit finite verb."
+ ],
+ "plain_english": "In practice, when trained step by step, it brings about great wonder."
 }
