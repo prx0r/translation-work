@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 316,
- "question": "What further types of vessels are added to the list?",
+ "question": "What further types of vessels are added to the list of materials?",
  "premises": [
-  "A Kaulika vessel is included",
-  "Another vessel type is likewise included",
-  "That other type is born of glass"
+  "A Kaulika vessel is named.",
+  "Another vessel is added likewise.",
+  "That other vessel is born of glass."
  ],
- "inference": "The list of vessels also includes the Kaulika type and one made of glass",
- "uncertainties": [],
- "plain_english": "O fair-hipped one, there is indeed the Kaulika vessel, and likewise another born of glass."
+ "inference": "The list of vessels also includes a Kaulika one and one made of glass.",
+ "uncertainties": [
+  "The precise referent of kaulikaṃ as a material or type is context-dependent."
+ ],
+ "plain_english": "O fair-hipped one, there is also the Kaulika vessel, and likewise another born of glass."
 }

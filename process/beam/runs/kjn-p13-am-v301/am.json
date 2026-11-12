@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 301,
- "question": "What enduring quality makes this practice dear to the yoginīs?",
+ "question": "What enduring qualities characterize the one dear to the yoginīs?",
  "premises": [
-  "The practice possesses splendor equal to the rising sun",
-  "This splendor is eternal",
-  "It is beloved by the yoginīs"
+  "The referent possesses splendor equal to the rising sun.",
+  "This splendor is affirmed as eternal.",
+  "The referent is dear to the yoginīs."
  ],
- "inference": "An eternally radiant practice is cherished by the yoginīs",
- "uncertainties": [],
- "plain_english": "Eternally radiant like the rising sun, it is indeed dear to the yoginīs."
+ "inference": "The one dear to the yoginīs is eternally radiant like the rising sun.",
+ "uncertainties": [
+  "The exact referent of the description is not explicitly named in this verse."
+ ],
+ "plain_english": "Eternally radiant like the rising sun, he is indeed dear to the yoginīs."
 }
