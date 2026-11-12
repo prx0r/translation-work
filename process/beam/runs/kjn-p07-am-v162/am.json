@@ -1,13 +1,15 @@
 {
  "song": "kjn-p07",
  "verse": 162,
- "question": "How does the practitioner's touch or gaze affect whomever is encountered?",
+ "question": "What effect follows whomever the practitioner touches or sees?",
  "premises": [
-  "The practitioner may touch someone with the hand",
-  "The practitioner may see someone with the eye",
-  "The effect applies to whomever is touched or seen"
+  "The practitioner may touch someone with the hand.",
+  "The practitioner may see someone with the eye.",
+  "The action applies distributively to whomever is touched or seen."
  ],
- "inference": "Whomever the practitioner touches with the hand or sees with the eye is affected.",
- "uncertainties": [],
- "plain_english": "Whomever he touches with his hand, and whomever he sees with his eye."
+ "inference": "Whomever the practitioner touches or sees is affected by that power.",
+ "uncertainties": [
+  "The specific effect on the person touched or seen is not stated in this verse."
+ ],
+ "plain_english": "Whomever he touches with his hand, whomever he sees with his eye."
 }
