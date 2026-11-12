@@ -1,13 +1,14 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What claim is made about the effect of poison in the body of one who has been bitten by great serpents?",
+ "question": "Under what extreme condition is poison said not to enter the body?",
  "premises": [
-  "A person is described as bitten by great serpents.",
-  "Poison is the agent in question.",
-  "It is claimed that poison does not enter the body in that case."
+  "Poison is the subject.",
+  "It is said not to enter the body.",
+  "This holds even if one has been bitten.",
+  "The biting is by great serpents."
  ],
- "inference": "For one bitten by great serpents, poison does not enter the body.",
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
  "uncertainties": [
   "The reason for this immunity is not stated in this verse."
  ],
