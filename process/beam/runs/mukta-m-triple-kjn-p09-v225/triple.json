@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral component forming the count eighty-four thousand",
-     "morph": "numeral.compound"
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.sg"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural indicating the large number in which torment occurs",
-     "morph": "n.loc.pl"
+     "gloss": "thousands",
+     "grounds": "locative plural of count",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-devices",
-     "grounds": "compound denoting mechanisms or realms of birth/wombs",
-     "morph": "n.loc.pl (yoni+yantra compound)"
+     "gloss": "womb-diagrams",
+     "grounds": "locative compound context",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "describes beings subjected to suffering in those womb-devices",
-     "morph": "m.nom.pl.past-participle (√pīḍ)"
+     "grounds": "past passive participle state",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "In what vast multitude of womb-devices are beings subjected to torment?",
+   "question": "What claim about the scope of suffering is at stake in stating how many womb-diagrams contain tormented beings?",
    "premises": [
-    "The number involved is eighty-four thousand.",
-    "These thousands are womb-devices.",
-    "Beings within them are tormented."
+    "A count of eighty-four thousand is specified.",
+    "Those beings are located in womb-diagrams.",
+    "The beings in those locations are tormented."
    ],
-   "inference": "Beings suffer torment within the eighty-four thousand womb-devices.",
+   "inference": "Torment extends to beings present within eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The specific subjects who are tormented are not explicitly named in this verse and must be inferred from context."
+    "Whether the count is literal or figurative remains unclear."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-devices."
+   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
   }
  ]
 }

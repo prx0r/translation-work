@@ -7,7 +7,7 @@
     {
      "surface": "śubhāśubhaṃ",
      "gloss": "auspicious-inauspicious",
-     "grounds": "dvandva compound, object of experience",
+     "grounds": "dvandva compound of śubha and aśubha",
      "morph": "n.acc.sg"
     },
     {
@@ -25,13 +25,13 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "negation particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tena",
      "gloss": "by-that",
-     "grounds": "instrumental agent or associate",
+     "grounds": "demonstrative pronoun",
      "morph": "m.inst.sg"
     },
     {
@@ -47,15 +47,14 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Can any auspicious or inauspicious experience be entirely absent for such a person?",
+   "question": "Can any experience, auspicious or inauspicious, be excluded from what must be undergone?",
    "premises": [
-    "Auspicious and inauspicious experiences arise",
-    "Such experiences must be undergone",
-    "No place lacks them entirely"
+    "Auspicious and inauspicious experiences are to be undergone.",
+    "Nothing is ever devoid of that experiencer."
    ],
-   "inference": "The liberated knower is never wholly separated from experiencing auspicious and inauspicious results.",
+   "inference": "All experiences, whether auspicious or inauspicious, must be encountered without exception.",
    "uncertainties": [],
-   "plain_english": "Auspicious and inauspicious experiences must be undergone, and he is never anywhere devoid of them."
+   "plain_english": "Both auspicious and inauspicious things are to be experienced, and he is never devoid of them anywhere."
   },
   {
    "verse": 327,
@@ -63,13 +62,13 @@
     {
      "surface": "unmanantu",
      "gloss": "transcendent-mind",
-     "grounds": "compound or phrase indicating mind in unmanā state; tu as particle",
-     "morph": "n.nom.sg"
+     "grounds": "unmana with emphatic particle tu fused",
+     "morph": "n.nom.sg+indecl."
     },
     {
      "surface": "mano",
      "gloss": "mind",
-     "grounds": "subject noun",
+     "grounds": "noun",
      "morph": "n.nom.sg"
     },
     {
@@ -81,32 +80,29 @@
     {
      "surface": "tasya",
      "gloss": "of-him",
-     "grounds": "correlative pronoun",
+     "grounds": "correlative demonstrative pronoun",
      "morph": "m.gen.sg"
     },
     {
      "surface": "mokṣo",
      "gloss": "liberation",
-     "grounds": "subject of becoming",
+     "grounds": "noun with sandhi o for aḥ",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavantīha",
      "gloss": "becomes-here",
-     "grounds": "verb with locative particle fused in transmission",
-     "morph": "3.sg.pres.act √bhū"
+     "grounds": "verb bhavati with iha fused by sandhi",
+     "morph": "3.sg.pres.act+indecl."
     }
    ],
-   "question": "What state of mind brings liberation to a person in this very life?",
+   "question": "What mental state brings liberation to a person in this very life?",
    "premises": [
-    "A person's mind can become transcendent",
-    "Transcendence defines a special condition",
-    "Liberation arises for that person"
+    "A person’s mind can become transcendent.",
+    "Such transcendence is linked to liberation here."
    ],
-   "inference": "One whose mind has become transcendent attains liberation here.",
-   "uncertainties": [
-    "The form bhavantīha may reflect a textual irregularity for bhavati iha."
-   ],
+   "inference": "One whose mind has become transcendent attains liberation in this world.",
+   "uncertainties": [],
    "plain_english": "But for one whose mind has become transcendent, liberation arises here."
   },
   {
@@ -115,45 +111,44 @@
     {
      "surface": "tasya",
      "gloss": "of-him",
-     "grounds": "correlative pronoun",
+     "grounds": "demonstrative pronoun",
      "morph": "m.gen.sg"
     },
     {
      "surface": "mokṣo",
      "gloss": "liberation",
-     "grounds": "subject",
+     "grounds": "noun with sandhi o for aḥ",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavedyastu",
      "gloss": "may-be-who",
-     "grounds": "optative verb fused with relative/particle in transmission",
-     "morph": "3.sg.opt.act √bhū"
+     "grounds": "optative bhavet with relative yaḥ and tu fused",
+     "morph": "3.sg.opt.act+rel.+indecl."
     },
     {
      "surface": "pāpapuṇyairna",
      "gloss": "by-sin-merit-not",
-     "grounds": "instrumental dvandva with negation fused",
-     "morph": "n.inst.pl"
+     "grounds": "dvandva compound in instrumental plural with na fused",
+     "morph": "n.inst.pl+indecl."
     },
     {
      "surface": "lipyate",
      "gloss": "is-smeared",
-     "grounds": "passive verb",
-     "morph": "3.sg.pres.pass √lip"
+     "grounds": "passive verb from lip",
+     "morph": "3.sg.pres.pass.√lip"
     }
    ],
-   "question": "Does liberation entail freedom from being tainted by sin and merit?",
+   "question": "Does the liberated person remain affected by the moral consequences of sin and merit?",
    "premises": [
-    "Liberation may arise for someone",
-    "Sin and merit ordinarily bind",
-    "The liberated one is not smeared"
+    "Liberation may arise for such a person.",
+    "Sin and merit are potential sources of taint."
    ],
-   "inference": "For him there is liberation, and he is not tainted by sin or merit.",
+   "inference": "The one who attains liberation is not stained by sin or merit.",
    "uncertainties": [
-    "The fused form bhavedyastu is read as bhaved yas tu."
+    "bhavedyastu is a compressed sandhi form; parsing follows the given tokenization"
    ],
-   "plain_english": "He attains liberation and is not stained by sin or merit."
+   "plain_english": "For him there may be liberation, and he is not stained by sin or merit."
   },
   {
    "verse": 329,
@@ -161,25 +156,25 @@
     {
      "surface": "tasya",
      "gloss": "of-him",
-     "grounds": "correlative pronoun",
+     "grounds": "demonstrative pronoun",
      "morph": "m.gen.sg"
     },
     {
      "surface": "mokṣo",
      "gloss": "liberation",
-     "grounds": "subject",
+     "grounds": "noun with sandhi o for aḥ",
      "morph": "m.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "negation particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sandehaḥ",
      "gloss": "doubt",
-     "grounds": "predicate noun",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     },
     {
@@ -189,13 +184,12 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How certain is the liberated person's detachment from binding impurities?",
+   "question": "How certain is liberation for one who remains unstained by sin and merit?",
    "premises": [
-    "Liberation belongs to that person",
-    "No doubt exists about it",
-    "A lotus leaf remains untouched by water"
+    "The unstained person is said to attain liberation.",
+    "A lotus leaf does not retain water drops."
    ],
-   "inference": "His liberation is beyond doubt, like a water drop on a lotus leaf.",
+   "inference": "There is no doubt about his liberation, just as a water drop does not cling to a lotus leaf.",
    "uncertainties": [],
    "plain_english": "For him there is liberation without doubt, like a drop of water on a lotus leaf."
   },
@@ -205,26 +199,26 @@
     {
      "surface": "piṇḍapāte",
      "gloss": "at-body-fall",
-     "grounds": "locative compound indicating death",
+     "grounds": "compound meaning fall of the body",
      "morph": "m.loc.sg"
     },
     {
      "surface": "yadā",
      "gloss": "when",
-     "grounds": "temporal relative",
+     "grounds": "relative temporal adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
+     "gloss": "O-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "kapālambhidyate",
      "gloss": "skull-is-pierced",
-     "grounds": "noun and passive verb fused in transmission",
-     "morph": "3.sg.pres.pass √bhid"
+     "grounds": "kapālam with passive verb bhidyate fused",
+     "morph": "n.nom.sg+3.sg.pres.pass.√bhid"
     },
     {
      "surface": "tadā",
@@ -233,17 +227,16 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What event at the moment of bodily death marks the final release?",
+   "question": "What event at the time of bodily death marks the final release described here?",
    "premises": [
-    "Bodily death occurs at a time",
-    "The skull is pierced then",
-    "This moment is decisive"
+    "The fall of the body is a decisive moment.",
+    "The piercing of the skull is specified as occurring then."
    ],
-   "inference": "At the fall of the body, O Goddess, when the skull is pierced, that is the moment of release.",
+   "inference": "At the moment of the body’s fall, the skull is pierced.",
    "uncertainties": [
-    "The fused form kapālambhidyate is read as kapālam bhidyate."
+    "The subject and full consequence of kapālambhidyate depend on surrounding context"
    ],
-   "plain_english": "O Goddess, when at the fall of the body the skull is pierced, then that occurs."
+   "plain_english": "O Goddess, when the body falls, then the skull is pierced."
   },
   {
    "verse": 331,
@@ -251,13 +244,13 @@
     {
      "surface": "candradvīpavinirgate",
      "gloss": "in-moon-island-emerged",
-     "grounds": "locative compound describing context",
+     "grounds": "compound locative describing emergence in the moon-island",
      "morph": "m.loc.sg"
     },
     {
      "surface": "nyāsaḥ",
      "gloss": "installation",
-     "grounds": "subject noun",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     },
     {
@@ -269,21 +262,20 @@
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "predicate noun",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How is the thirteenth chapter identified within the emerged moon-island teaching?",
+   "question": "Which chapter concludes with the teaching on emergence in the moon-island?",
    "premises": [
-    "A teaching context is specified",
-    "An installation is named",
-    "It is counted as thirteenth"
+    "The text marks a section on emergence in the moon-island.",
+    "A numbered chapter is being identified."
    ],
-   "inference": "This is the thirteenth chapter, the installation emerged in the moon-island.",
+   "inference": "This marks the thirteenth chapter concerning the installation in the moon-island emergence.",
    "uncertainties": [
-    "The exact referent of candradvīpa is context-dependent."
+    "The exact referent of candradvīpavinirgate is context-dependent"
    ],
-   "plain_english": "This is the thirteenth chapter, the installation, as emerged in the Moon-island."
+   "plain_english": "Thus ends the thirteenth chapter, on the installation in that which has emerged in the moon-island."
   },
   {
    "verse": 332,
@@ -291,37 +283,38 @@
     {
      "surface": "cakradhyānavinirmuktaṃ",
      "gloss": "from-wheel-meditation-liberated",
-     "grounds": "compound describing what is free from wheel meditation",
-     "morph": "n.nom.sg"
+     "grounds": "compound describing freedom from wheel meditation",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "sadyaḥ",
      "gloss": "immediately",
-     "grounds": "adverb of time",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "siddhikaraṃ",
      "gloss": "accomplishment-causing",
      "grounds": "compound adjective",
-     "morph": "n.nom.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "param",
      "gloss": "supreme",
-     "grounds": "adjective qualifying the teaching",
-     "morph": "n.nom.sg"
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What supreme teaching grants accomplishment immediately without wheel meditation?",
+   "question": "What kind of supreme teaching grants accomplishment immediately without wheel meditation?",
    "premises": [
-    "A teaching is free from wheel meditation",
-    "It produces accomplishment",
-    "Its effect is immediate and supreme"
+    "A teaching is described as free from wheel meditation.",
+    "It is said to produce accomplishment immediately."
    ],
-   "inference": "There is a supreme teaching, free from wheel meditation, that immediately brings accomplishment.",
-   "uncertainties": [],
-   "plain_english": "Now hear the supreme teaching, free from wheel meditation, which immediately brings accomplishment."
+   "inference": "There is a supreme teaching, independent of wheel meditation, that immediately brings accomplishment.",
+   "uncertainties": [
+    "The object being described is implied by context"
+   ],
+   "plain_english": "Now hear of the supreme teaching, free from wheel meditation, which immediately brings accomplishment."
   },
   {
    "verse": 333,
@@ -329,18 +322,18 @@
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative command",
-     "morph": "2.sg.imp.act √śru"
+     "grounds": "imperative verb from śru",
+     "morph": "2.sg.imp.act.√śru"
     },
     {
      "surface": "tvamadbhutaṃ",
      "gloss": "you-wondrous",
-     "grounds": "pronoun and adjective fused in transmission",
-     "morph": "n.acc.sg"
+     "grounds": "pronoun tvam with adbhutam fused by sandhi",
+     "morph": "2.nom.sg+n.acc.sg"
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
+     "gloss": "O-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
@@ -351,17 +344,14 @@
      "morph": "n.acc.sg"
     }
    ],
-   "question": "Why should the goddess attend to this wondrous and astonishing teaching?",
+   "question": "What wondrous and astonishing teaching is the goddess being asked to hear?",
    "premises": [
-    "The goddess is addressed directly",
-    "The teaching is wondrous",
-    "It causes great astonishment"
+    "The goddess is directly addressed to listen.",
+    "The teaching is characterized as wondrous and wonder-causing."
    ],
-   "inference": "The goddess is urged to hear this wondrous teaching that produces great amazement.",
-   "uncertainties": [
-    "The fused form tvamadbhutaṃ is read as tvam adbhutaṃ."
-   ],
-   "plain_english": "Hear, O Goddess, this wondrous teaching that causes great astonishment."
+   "inference": "The goddess is invited to hear a wondrous teaching that produces great astonishment.",
+   "uncertainties": [],
+   "plain_english": "Hear, O Goddess, this wondrous teaching that causes great amazement."
   },
   {
    "verse": 334,
@@ -369,26 +359,26 @@
     {
      "surface": "garndhavāḥ",
      "gloss": "gandharvas",
-     "grounds": "class of beings; spelling as given",
+     "grounds": "noun, spelling as given in text",
      "morph": "m.nom.pl"
     },
     {
      "surface": "kinnarā",
      "gloss": "kinnaras",
-     "grounds": "class of beings",
+     "grounds": "noun",
      "morph": "m.nom.pl"
     },
     {
      "surface": "yakṣā",
      "gloss": "yakshas",
-     "grounds": "class of beings",
+     "grounds": "noun",
      "morph": "m.nom.pl"
     },
     {
      "surface": "asurāśca",
      "gloss": "and-asuras",
-     "grounds": "class of beings with conjunction fused",
-     "morph": "m.nom.pl"
+     "grounds": "noun with conjunction ca fused",
+     "morph": "m.nom.pl+indecl."
     },
     {
      "surface": "tapodhanāḥ",
@@ -397,15 +387,14 @@
      "morph": "m.nom.pl"
     }
    ],
-   "question": "Which diverse beings are included among those affected by this teaching?",
+   "question": "Which classes of beings are included among those associated with this teaching?",
    "premises": [
-    "Multiple classes of beings are listed",
-    "Celestial and demonic beings are included",
-    "Ascetics are also included"
+    "Several supernatural and ascetic groups are listed.",
+    "The list includes gandharvas, kinnaras, yakshas, asuras, and ascetics."
    ],
-   "inference": "Gandharvas, kinnaras, yakshas, asuras, and ascetics are all encompassed.",
+   "inference": "A wide range of beings, from celestials to ascetics, are included in this context.",
    "uncertainties": [
-    "The surface garndhavāḥ appears to be a nonstandard spelling of gandharvāḥ."
+    "garndhavāḥ appears to be a nonstandard spelling of gandharvāḥ"
    ],
    "plain_english": "Gandharvas, kinnaras, yakshas, asuras, and ascetics."
   },
@@ -415,30 +404,31 @@
     {
      "surface": "kulabhaktivihīne",
      "gloss": "in-kula-devotion-devoid",
-     "grounds": "locative compound describing an unqualified person",
+     "grounds": "compound locative describing lack of devotion to kula",
      "morph": "m.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis or contrast",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "gurubhaktivivarjite",
      "gloss": "in-guru-devotion-deprived",
-     "grounds": "locative compound describing lack of guru devotion",
+     "grounds": "compound locative describing lack of devotion to guru",
      "morph": "m.loc.sg"
     }
    ],
-   "question": "What disqualifications make a person unfit to receive this teaching?",
+   "question": "What disqualifying lack of devotion excludes a person from receiving this teaching?",
    "premises": [
-    "Devotion to the kula may be absent",
-    "Devotion to the guru may be absent",
-    "Such absence defines unfitness"
+    "Devotion to the kula is required.",
+    "Devotion to the guru is required."
    ],
-   "inference": "One devoid of devotion to the kula and deprived of devotion to the guru is unfit.",
-   "uncertainties": [],
+   "inference": "One who lacks devotion to both the kula and the guru is excluded.",
+   "uncertainties": [
+    "The main clause governing these locatives is supplied by adjacent verses"
+   ],
    "plain_english": "Indeed, in one who is devoid of devotion to the kula and deprived of devotion to the guru."
   },
   {
@@ -447,45 +437,44 @@
     {
      "surface": "vañcakā",
      "gloss": "deceivers",
-     "grounds": "plural noun or adjective",
+     "grounds": "noun/adjective",
      "morph": "m.nom.pl"
     },
     {
      "surface": "kṛpaṇā",
      "gloss": "miserable",
-     "grounds": "plural adjective",
+     "grounds": "adjective",
      "morph": "m.nom.pl"
     },
     {
      "surface": "mūḍhā",
      "gloss": "deluded",
-     "grounds": "plural adjective",
+     "grounds": "adjective",
      "morph": "m.nom.pl"
     },
     {
      "surface": "hīnāni",
      "gloss": "deficient",
-     "grounds": "plural adjective, form as given",
+     "grounds": "adjective, form as given",
      "morph": "n.nom.pl"
     },
     {
      "surface": "satyanindite",
      "gloss": "in-truth-reviled",
-     "grounds": "locative compound describing one who reviles truth",
+     "grounds": "compound locative describing reviling of truth",
      "morph": "m.loc.sg"
     }
    ],
-   "question": "Which moral faults further mark those who must not receive the teaching?",
+   "question": "Which negative qualities characterize those unfit to receive the sacred instruction?",
    "premises": [
-    "Some people are deceitful and deluded",
-    "Some are deficient or miserable",
-    "Some revile truth"
+    "Deceit, misery, and delusion are listed as faults.",
+    "Deficiency and reviling of truth are also indicated."
    ],
-   "inference": "Deceivers, the miserable, the deluded, the deficient, and revilers of truth are excluded.",
+   "inference": "Those marked by deceit, delusion, deficiency, and contempt for truth are unfit recipients.",
    "uncertainties": [
-    "The agreement of hīnāni with preceding masculine plurals is irregular in the transmitted form."
+    "hīnāni shows a neuter plural form amid masculine plurals; agreement is unclear"
    ],
-   "plain_english": "Deceivers, the miserable, the deluded, the deficient, and those who revile truth."
+   "plain_english": "Deceivers, miserable, deluded, deficient, and those who revile the truth."
   },
   {
    "verse": 337,
@@ -498,9 +487,9 @@
     },
     {
      "surface": "dadyāstu",
-     "gloss": "should-give-indeed",
-     "grounds": "optative verb fused with particle",
-     "morph": "3.sg.opt.act √dā"
+     "gloss": "should-give",
+     "grounds": "optative dadyāt with particle tu fused",
+     "morph": "3.sg.opt.act.√dā+indecl."
     },
     {
      "surface": "ime",
@@ -511,33 +500,32 @@
     {
      "surface": "śiṣyā",
      "gloss": "disciples",
-     "grounds": "noun in predicate or apposition",
+     "grounds": "noun",
      "morph": "m.nom.pl"
     },
     {
      "surface": "deśiko",
      "gloss": "teacher",
-     "grounds": "subject noun",
+     "grounds": "noun with sandhi o for aḥ",
      "morph": "m.nom.sg"
     },
     {
      "surface": "siddhirhīyate",
      "gloss": "accomplishment-is-lost",
-     "grounds": "noun and passive verb fused in transmission",
-     "morph": "3.sg.pres.pass √hā"
+     "grounds": "noun siddhiḥ with passive verb hīyate fused",
+     "morph": "f.nom.sg+3.sg.pres.pass.√hā"
     }
    ],
-   "question": "What consequence follows if a teacher gives this teaching to unworthy disciples?",
+   "question": "What consequence follows if a teacher gives this teaching to such unworthy disciples?",
    "premises": [
-    "A teacher may give the teaching",
-    "The recipients may be unworthy disciples",
-    "Accomplishment depends on proper transmission"
+    "The teacher may give the teaching to these disciples.",
+    "Accomplishment is said to be diminished or lost."
    ],
-   "inference": "If the teacher gives it to such disciples, his accomplishment is diminished.",
+   "inference": "If the teacher gives it to such disciples, his accomplishment is lost.",
    "uncertainties": [
-    "The syntax of ye...ime śiṣyā is compressed and partly ambiguous."
+    "The syntax is compressed; the relation between plural disciples and singular giving is unclear"
    ],
-   "plain_english": "If the teacher should give this to such disciples, his accomplishment is lost."
+   "plain_english": "If the teacher should give it to these disciples, his accomplishment is lost."
   },
   {
    "verse": 338,
@@ -545,7 +533,7 @@
     {
      "surface": "dharme",
      "gloss": "in-dharma",
-     "grounds": "locative noun",
+     "grounds": "noun",
      "morph": "m.loc.sg"
     },
     {
@@ -557,7 +545,7 @@
     {
      "surface": "rataye",
      "gloss": "in-delight",
-     "grounds": "dative or locative-like form as given",
+     "grounds": "noun, dative/locative-like form as given",
      "morph": "f.dat.sg"
     },
     {
@@ -569,27 +557,26 @@
     {
      "surface": "krodhaye",
      "gloss": "in-anger",
-     "grounds": "form as given, parallel to rataye",
+     "grounds": "noun form as given",
      "morph": "m.dat.sg"
     },
     {
      "surface": "śūnyavarjitaḥ",
      "gloss": "by-emptiness-devoid",
-     "grounds": "compound adjective describing absence",
+     "grounds": "compound adjective meaning free from emptiness",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What qualities characterize a worthy recipient devoted to dharma and free from anger?",
+   "question": "What qualities should characterize a worthy recipient in relation to dharma, delight, and anger?",
    "premises": [
-    "A worthy person delights in dharma",
-    "This delight is constant",
-    "Anger and emptiness are absent"
+    "Steadiness in dharma and delight is indicated.",
+    "Freedom from emptiness and improper anger is implied."
    ],
-   "inference": "The fit recipient is ever devoted to dharma, free from anger and devoid of emptiness.",
+   "inference": "A worthy recipient is constantly devoted to dharma and delight and free from emptiness and anger.",
    "uncertainties": [
-    "The forms rataye and krodhaye are unusual and may reflect transmission issues."
+    "The forms rataye and krodhaye are unusual in this context; interpretation is tentative"
    ],
-   "plain_english": "One who is always devoted to dharma and delight, and free from anger and emptiness."
+   "plain_english": "One who is always devoted to dharma and delight, and free from emptiness and anger."
   },
   {
    "verse": 339,
@@ -597,13 +584,13 @@
     {
      "surface": "devāgniyatiyoginyā",
      "gloss": "to-gods-fire-discipline-yoginis",
-     "grounds": "compound listing objects of devotion; form as given",
+     "grounds": "compound listing deities, fire, discipline, and yoginis",
      "morph": "f.inst.sg"
     },
     {
      "surface": "bhaktyā",
      "gloss": "with-devotion",
-     "grounds": "instrumental noun",
+     "grounds": "noun",
      "morph": "f.inst.sg"
     },
     {
@@ -619,17 +606,16 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How should a qualified practitioner relate to the gods, fire, discipline, and yoginis?",
+   "question": "What devotional attitude marks a person fit to receive the teaching?",
    "premises": [
-    "Devotion is directed to sacred powers",
-    "Devotion is constant",
-    "The mind remains serene"
+    "Devotion is directed toward gods, fire, discipline, and yoginis.",
+    "The person is described as always serene-minded."
    ],
-   "inference": "A qualified practitioner is always devoted to the gods, fire, discipline, and yoginis, with a serene mind.",
+   "inference": "A fit recipient is always serene-minded and devoted to the gods, fire, discipline, and the yoginis.",
    "uncertainties": [
-    "The compound devāgniyatiyoginyā is difficult to parse precisely in the transmitted form."
+    "The internal structure of devāgniyatiyoginyā is ambiguous"
    ],
-   "plain_english": "Always devoted with reverence to the gods, fire, discipline, and the yoginis, with a serene mind."
+   "plain_english": "Always serene-minded, with devotion to the gods, fire, discipline, and the yoginis."
   },
   {
    "verse": 340,
@@ -637,8 +623,8 @@
     {
      "surface": "suparīkṣya",
      "gloss": "having-well-examined",
-     "grounds": "absolutive participle",
-     "morph": "(gerund) √īkṣ"
+     "grounds": "absolutive from pari-īkṣ",
+     "morph": "(gerund)"
     },
     {
      "surface": "sadā",
@@ -649,7 +635,7 @@
     {
      "surface": "tasya",
      "gloss": "to-him",
-     "grounds": "genitive/dative sense in context",
+     "grounds": "demonstrative pronoun",
      "morph": "m.gen.sg"
     },
     {
@@ -661,21 +647,20 @@
     {
      "surface": "dadyāccirajīvitam",
      "gloss": "should-give-long-life",
-     "grounds": "optative verb fused with object compound",
-     "morph": "3.sg.opt.act √dā"
+     "grounds": "optative dadyāt with cirajīvitam fused",
+     "morph": "3.sg.opt.act.√dā+n.acc.sg"
     }
    ],
-   "question": "Under what condition may a teacher grant this teaching for long-lasting benefit?",
+   "question": "Under what condition should the teacher grant the boon of long life to a disciple?",
    "premises": [
-    "The recipient must be thoroughly examined",
-    "Examination should be constant and careful",
-    "Only then may the teacher give"
+    "The disciple must be thoroughly examined.",
+    "The teacher may then give long life."
    ],
-   "inference": "After thoroughly examining him, the teacher may give it so that he attains long life.",
+   "inference": "Only after careful examination should the teacher grant long life to such a person.",
    "uncertainties": [
-    "The object cirajīvitam may imply long life as a result rather than a direct gift."
+    "The object of giving may be the teaching or a boon; cirajīvitam suggests long life"
    ],
-   "plain_english": "Having always examined him well, one who gives it should grant it for long life."
+   "plain_english": "Having always examined him well, one should give him long life."
   },
   {
    "verse": 341,
@@ -683,7 +668,7 @@
     {
      "surface": "yoginīnāṃ",
      "gloss": "of-yoginis",
-     "grounds": "genitive plural",
+     "grounds": "noun",
      "morph": "f.gen.pl"
     },
     {
@@ -695,25 +680,26 @@
     {
      "surface": "vidviṣṭe",
      "gloss": "hostile",
-     "grounds": "locative of the person opposed",
+     "grounds": "past participle used adjectivally",
      "morph": "m.loc.sg"
     },
     {
      "surface": "gurvājñālopakārakaḥ",
      "gloss": "guru-command-transgressor",
-     "grounds": "compound describing violator of guru's command",
+     "grounds": "compound describing one who violates the guru’s command",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Why must the teaching be withheld from those hostile to the yoginis and the guru's command?",
+   "question": "Which hostile attitudes toward yoginis and the guru disqualify a person from the teaching?",
    "premises": [
-    "Hostility to the yoginis is a fault",
-    "Transgressing the guru's command is a fault",
-    "Such persons are unqualified"
+    "Hostility toward the yoginis is a fault.",
+    "Transgressing the guru’s command is a fault."
    ],
-   "inference": "One hostile to the yoginis and who transgresses the guru's command must not receive it.",
-   "uncertainties": [],
-   "plain_english": "And not to one who is hostile to the yoginis and who violates the guru's command."
+   "inference": "One who is hostile to the yoginis and violates the guru’s command must not receive it.",
+   "uncertainties": [
+    "The governing prohibition is implied from surrounding verses"
+   ],
+   "plain_english": "And to one who is hostile to the yoginis and who transgresses the guru’s command."
   },
   {
    "verse": 342,
@@ -721,45 +707,44 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation",
+     "grounds": "negation particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "śivadūṣake",
      "gloss": "to-shiva-reviler",
-     "grounds": "locative compound",
+     "grounds": "compound locative",
      "morph": "m.loc.sg"
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
+     "gloss": "O-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "nindake",
      "gloss": "to-slanderer",
-     "grounds": "locative noun/adjective",
+     "grounds": "noun/adjective",
      "morph": "m.loc.sg"
     },
     {
      "surface": "kulabhairave",
      "gloss": "of-kula-bhairava",
-     "grounds": "locative compound referring to reviler of Kula Bhairava",
+     "grounds": "compound locative referring to Kula Bhairava",
      "morph": "m.loc.sg"
     }
    ],
-   "question": "Which acts of reviling Shiva and Kula Bhairava disqualify a person from receiving the teaching?",
+   "question": "To which revilers of Shiva and Kula Bhairava must the teaching never be given?",
    "premises": [
-    "Reviling Shiva is prohibited",
-    "Slandering is prohibited",
-    "Reviling Kula Bhairava is prohibited"
+    "Reviling Shiva is prohibited.",
+    "Slandering Kula Bhairava is prohibited."
    ],
    "inference": "The teaching must not be given to one who reviles Shiva or slanders Kula Bhairava.",
    "uncertainties": [
-    "The exact syntactic relation of kulabhairave to nindake is compressed."
+    "The exact syntactic scope of kulabhairave with nindake is context-dependent"
    ],
-   "plain_english": "O Goddess, it must not be given to a reviler of Shiva, nor to a slanderer of Kula Bhairava."
+   "plain_english": "O Goddess, not to one who reviles Shiva, nor to a slanderer of Kula Bhairava."
   },
   {
    "verse": 343,
@@ -767,14 +752,14 @@
     {
      "surface": "sāgaraṃ",
      "gloss": "ocean",
-     "grounds": "accusative object",
+     "grounds": "noun",
      "morph": "m.acc.sg"
     },
     {
      "surface": "ratnasaṃpūrṇamakretuṃ",
      "gloss": "with-jewels-filled-to-make",
-     "grounds": "compound with infinitive fused in transmission",
-     "morph": "m.acc.sg"
+     "grounds": "compound with infinitive fused; form as given",
+     "morph": "m.acc.sg+inf."
     },
     {
      "surface": "yasya",
@@ -785,21 +770,20 @@
     {
      "surface": "saṃcayaḥ",
      "gloss": "accumulation",
-     "grounds": "subject noun",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Can even immense material wealth justify giving away this kaula teaching?",
+   "question": "How great a material offering is declared insufficient compared to this kaula teaching?",
    "premises": [
-    "One might possess vast wealth",
-    "Wealth could fill an ocean with jewels",
-    "Such wealth is compared to the teaching"
+    "An ocean filled with jewels represents immense wealth.",
+    "Such wealth is compared to the value of the teaching."
    ],
-   "inference": "Even one who could fill the ocean with jewels should not trade this teaching for wealth.",
+   "inference": "Even the accumulation of an ocean full of jewels is not an adequate equivalent for this teaching.",
    "uncertainties": [
-    "The fused form ratnasaṃpūrṇamakretuṃ is read as ratnasaṃpūrṇam akartuṃ/karotuṃ contextually unclear."
+    "ratnasaṃpūrṇamakretuṃ is a difficult fused form; parsing is tentative"
    ],
-   "plain_english": "Even if one had the means to fill the ocean with jewels."
+   "plain_english": "Even if one had an accumulation enough to fill the ocean with jewels."
   },
   {
    "verse": 344,
@@ -807,42 +791,43 @@
     {
      "surface": "imaṃ",
      "gloss": "this",
-     "grounds": "demonstrative adjective",
+     "grounds": "demonstrative pronoun",
      "morph": "m.acc.sg"
     },
     {
      "surface": "kaulaṃ",
      "gloss": "kaula-teaching",
-     "grounds": "object noun",
+     "grounds": "adjective/noun",
      "morph": "m.acc.sg"
     },
     {
      "surface": "mahādevi",
-     "gloss": "o-great-goddess",
+     "gloss": "O-great-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "sarvakālasya",
      "gloss": "of-all-times",
-     "grounds": "genitive compound",
+     "grounds": "compound genitive",
      "morph": "m.gen.sg"
     },
     {
      "surface": "nirṇayam",
      "gloss": "determination",
-     "grounds": "appositional object",
+     "grounds": "noun",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What is the enduring status of this kaula teaching across all times?",
+   "question": "What is the status of this kaula teaching as the definitive conclusion for all times?",
    "premises": [
-    "This kaula teaching is being indicated",
-    "It is addressed to the great goddess",
-    "It is the determination for all times"
+    "The teaching is identified as this kaula doctrine.",
+    "It is called the determination for all times."
    ],
-   "inference": "This kaula teaching, O Great Goddess, is the definitive teaching for all times.",
-   "uncertainties": [],
+   "inference": "This kaula teaching is the definitive conclusion valid for all times.",
+   "uncertainties": [
+    "The sentence continues beyond this verse in the source context"
+   ],
    "plain_english": "O Great Goddess, this kaula teaching is the definitive determination for all times."
   },
   {
@@ -857,33 +842,32 @@
     {
      "surface": "jñānavaraṃ",
      "gloss": "knowledge-best",
-     "grounds": "compound object",
+     "grounds": "compound meaning supreme knowledge",
      "morph": "n.acc.sg"
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
+     "gloss": "O-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "saptā...ṇnadāpayet",
-     "gloss": "seven-should-give",
-     "grounds": "damaged or abbreviated form with optative/causative verb fused",
-     "morph": "3.sg.opt.caus.act √dā"
+     "gloss": "seven...should-give",
+     "grounds": "corrupted or abbreviated fused form as transmitted",
+     "morph": "unclear+3.sg.opt.caus.√dā"
     }
    ],
-   "question": "How should this supreme knowledge be properly bestowed according to the prescribed measure?",
+   "question": "What proper gift or observance is required when transmitting this supreme knowledge?",
    "premises": [
-    "The knowledge is supreme",
-    "It must be given properly",
-    "A sevenfold measure is indicated"
+    "The knowledge is described as supreme and to be given properly.",
+    "A sevenfold or related giving is indicated but textually unclear."
    ],
-   "inference": "O Goddess, this supreme knowledge should be properly given in the prescribed sevenfold manner.",
+   "inference": "The supreme knowledge should be properly given with an associated sevenfold offering or observance.",
    "uncertainties": [
-    "The token saptā...ṇnadāpayet is damaged or abbreviated and cannot be fully restored."
+    "saptā...ṇnadāpayet is damaged or abbreviated in the source and cannot be parsed with certainty"
    ],
-   "plain_english": "O Goddess, one should properly bestow this supreme knowledge in the sevenfold way."
+   "plain_english": "O Goddess, one should properly give this supreme knowledge with the sevenfold..."
   },
   {
    "verse": 346,
@@ -891,39 +875,38 @@
     {
      "surface": "prathamaṃ",
      "gloss": "first",
-     "grounds": "adverbial accusative",
+     "grounds": "adverb/adjective",
      "morph": "n.acc.sg"
     },
     {
      "surface": "mūlacakrantu",
-     "gloss": "root-wheel-indeed",
-     "grounds": "object noun with particle fused",
-     "morph": "n.acc.sg"
+     "gloss": "root-wheel",
+     "grounds": "compound with particle tu fused",
+     "morph": "n.nom.sg+indecl."
     },
     {
      "surface": "yadānyabhyasate",
      "gloss": "when-practices",
-     "grounds": "temporal particle and verb fused in transmission",
-     "morph": "3.sg.pres.mid √abhyas"
+     "grounds": "yadā with abhyasate fused by sandhi",
+     "morph": "(indecl.)+3.sg.pres.mid.√abhyas"
     },
     {
      "surface": "priye",
-     "gloss": "o-beloved",
+     "gloss": "O-beloved",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What practice begins first when one engages the root wheel, O beloved?",
+   "question": "What initial practice involving the root wheel begins the described yogic process?",
    "premises": [
-    "Practice proceeds in stages",
-    "The root wheel is engaged first",
-    "The beloved is addressed"
+    "The practice begins with the root wheel.",
+    "The timing is marked by when one practices it."
    ],
-   "inference": "O Beloved, when one first practices upon the root wheel, the initial stage begins.",
+   "inference": "When one first practices the root wheel, the process begins.",
    "uncertainties": [
-    "The fused form yadānyabhyasate is read as yadā abhyasate."
+    "The main clause describing the result continues in the next verse"
    ],
-   "plain_english": "O Beloved, when one first practices on the root wheel."
+   "plain_english": "O Beloved, when one first practices the root wheel."
   },
   {
    "verse": 347,
@@ -931,20 +914,20 @@
     {
      "surface": "prathamaṃ",
      "gloss": "first",
-     "grounds": "adverbial accusative",
+     "grounds": "adverb/adjective",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kampamāyāti",
      "gloss": "trembling-comes",
-     "grounds": "noun and verb fused in transmission",
-     "morph": "3.sg.pres.act √yā"
+     "grounds": "noun kampam with verb āyāti fused",
+     "morph": "m.acc.sg+3.sg.pres.act.√ā-yā"
     },
     {
      "surface": "dhūnanantu",
-     "gloss": "shaking-indeed",
-     "grounds": "noun with particle fused",
-     "morph": "n.nom.sg"
+     "gloss": "shaking",
+     "grounds": "noun dhūnanam with particle tu fused",
+     "morph": "n.nom.sg+indecl."
     },
     {
      "surface": "dvitīyakam",
@@ -953,17 +936,14 @@
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What bodily signs mark the first and second stages of this yogic process?",
+   "question": "What bodily signs arise as the first and second stages of the root-wheel practice?",
    "premises": [
-    "The process unfolds in stages",
-    "Trembling arises first",
-    "Shaking arises second"
+    "Trembling arises first.",
+    "Shaking arises as the second stage."
    ],
-   "inference": "First trembling comes, and shaking is the second sign.",
-   "uncertainties": [
-    "The fused form kampamāyāti is read as kampam āyāti."
-   ],
-   "plain_english": "First trembling arises, and shaking is the second."
+   "inference": "The practice produces trembling first and shaking second.",
+   "uncertainties": [],
+   "plain_english": "First trembling comes, and shaking is the second."
   },
   {
    "verse": 348,
@@ -977,13 +957,13 @@
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "adjective qualifying the group",
+     "grounds": "adjective",
      "morph": "m.acc.sg"
     },
     {
      "surface": "durdurapluta",
      "gloss": "stammering-uttering",
-     "grounds": "compound describing confused utterance; form as given",
+     "grounds": "compound describing confused utterance, form as given",
      "morph": "m.nom.sg"
     },
     {
@@ -999,15 +979,14 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How does the practitioner utter the whole group of mantras and mudras in this state?",
+   "question": "How does the practitioner utter the entire group of mantras and mudras during this stage?",
    "premises": [
-    "All mantras and mudras are involved",
-    "The practitioner is in an altered state",
-    "Utterance becomes stammering"
+    "The whole group of mantras and mudras is involved.",
+    "The utterance is described as stammering or confused."
    ],
-   "inference": "He indeed utters the entire group of mantras and mudras in a stammering manner.",
+   "inference": "He utters the entire group of mantras and mudras in a stammering manner.",
    "uncertainties": [
-    "The form durdurapluta is unusual and interpreted as stammering or faltering utterance."
+    "durdurapluta is an unusual form; interpreted as stammering or faltering utterance"
    ],
    "plain_english": "He indeed utters the entire group of mantras and mudras in a stammering way."
   },
@@ -1017,42 +996,43 @@
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "genitive noun",
+     "grounds": "noun",
      "morph": "m.gen.sg"
     },
     {
      "surface": "vañcanaṃ",
      "gloss": "deception",
-     "grounds": "noun indicating overcoming or transcending",
+     "grounds": "noun",
      "morph": "n.nom.sg"
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
+     "gloss": "O-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "rūpasya",
      "gloss": "of-form",
-     "grounds": "genitive noun",
+     "grounds": "noun",
      "morph": "n.gen.sg"
     },
     {
      "surface": "parivartanam",
      "gloss": "transformation",
-     "grounds": "noun indicating change",
+     "grounds": "noun",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What powers over time and bodily form arise in this advanced yogic state?",
+   "question": "What extraordinary powers over time and form arise at this stage of practice?",
    "premises": [
-    "Time ordinarily constrains beings",
-    "Form ordinarily remains fixed",
-    "This state alters both"
+    "Deception or overcoming of time is named.",
+    "Transformation of form is named."
    ],
-   "inference": "O Goddess, there arises the overcoming of time and the transformation of form.",
-   "uncertainties": [],
+   "inference": "The practitioner gains the power to overcome time and to transform form.",
+   "uncertainties": [
+    "The syntactic connection to the practitioner is supplied by context"
+   ],
    "plain_english": "O Goddess, there is the overcoming of time and the transformation of form."
   }
  ]
