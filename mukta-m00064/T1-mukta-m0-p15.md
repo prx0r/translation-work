@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-by-that-yoga(tadyogāt) became(abhavat) kaula(kaulaḥ) divine-hero(divya+vīraḥ) O-great-goddess(maheśvari)
+[by-that+union](tadyogād) [became](abhavat) [kaula](kaulo) [divine+hero](divyavīro) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p15-v352
-equal-yogin(samāyogī) [he(saḥ) for-us(naḥ) yogin(yogī) may-be(bhavet)] should-worship(yajet) O-goddess(devi) desirous-of-liberation(mumukṣuḥ) O-kula-lover(kula+kāmini)
+[equally-united](samāyogī) [he+for-us+yogin+should-be](sa no yogī bhaved) [should-worship+o-goddess](yajeddevi) [desiring-liberation](mumukṣuḥ) [o-kula-beloved](kulakāmini)
 
 ## mukta-m0-p15-v353
-self(ātmānam) supreme(paramam) brahman(brahma) should-contemplate(cintayet) or(atha) or(vā) not(na) if(cet)
+[oneself](ātmānaṃ) [supreme](paramaṃ) [brahman](brahma) [should-contemplate+or](cintayedathavā) [not](na) [if](cet)
 
 ## mukta-m0-p15-v354
-divine-yoga(divya+yogam) this(idam) O-goddess(devi) with-attentiveness(sa+avadhānena) protect(gopaya)
+[divine+yoga+this](divyayogamidaṃ) [o-goddess](devi) [with+attentiveness](sāvadhānena) [guard](gopaya)
 
 ## mukta-m0-p15-v355
-bindu-triad(bindu+trayam) pervaded-by-kalā(kalā+ākrāntam) first(prathamam) should-contemplate(paricintayet)
+[drop+triad](bindutrayaṃ) [by-kalā+pervaded](kalākrāntaṃ) [first](prathamaṃ) [one-should-contemplate](paricintayet)
 
 ## mukta-m0-p15-v356
-rising-sun-crore-light(bāla+arka+koṭi+saṃjyotiḥ) illuminating-directions-and-sky(prakāśita+dik+ambaram)
+[young+sun+crore+with-radiance](bālārkakoṭisaṃjyotiḥ) [illuminated+direction+space](prakāśitadigambaram)
 
 ## mukta-m0-p15-v357
-from-bindu(bindu+yāvat) middle-body(madhya+deham) from-throat(kaṇṭhāt) to-hips-and-head(kaṭi+śīrṣakam)
+[drop+as-far-as+middle+body](binduyāvanmadhyadehaṃ) [throat+beginning+hip+head](kaṇṭhādikaṭiśīrṣakam)
 
 ## mukta-m0-p15-v358
-from-womb(yoni+ādi) and(ca) to-feet(pāda+antam) to-kāma(kāma+antam) should-contemplate(paricintayet)
+[womb+beginning+and](yonyādikañca) [foot+end](pādāntaṃ) [desire+end](kāmāntaṃ) [one-should-contemplate](paricintayet)
 
 ## mukta-m0-p15-v359
-thus(evam) kāmakalā-form(kāma+kalā+rūpam) own-self-body(sva+ātma+deham) should-contemplate(vicintayet)
+[thus](evaṃ) [desire+kalā+form](kāmakalārūpaṃ) [own+self+body](svātmadehaṃ) [one-should-contemplate](vicintayet)
 
 ## mukta-m0-p15-v360
-briefly(saṃkṣepāt) I-shall-tell(kathayiṣyāmi) of-those-two(tayoḥ) conduct(ācāram) supreme(uttamam)
+[briefly](saṃkṣepāt) [i-shall-tell](kathayiṣyāmi) [of-those-two+conduct+supreme](tayorācāramuttamam)
 
 ## mukta-m0-p15-v361
-this(idam) practice(ācaraṇam) O-goddess(devi) not-for-paśu(paśoḥ) not(na) for-divine-and-hero(divya+vīrayoḥ)
+[this+practice](idamācaraṇaṃ) [o-goddess](devi) [of-paśu+not](paśorna) [of-divine+and-hero](divyavīrayoḥ)
 
 ## mukta-m0-p15-v362
-if(yadi) by-fate(daivāt) O-great-goddess(maheśāni) wine-etc(madya+ādi) and(ca) not(na) is-obtained(labhyate)
+[if](yadi) [by-fate](daivād) [o-great-goddess](maheśāni) [wine+etc.](madyādi) [and](ca) [not](na) [is-obtained](labhyate)
 
 ## mukta-m0-p15-v363
-even-so(tathā+api) not(na) indeed(hi) to-be-spoken(vaktavyam) this(idam) sipping(ācamanaṃ) O-Śivā(śive)
+[even-so](tathāpi) [not](na) [indeed](hi) [to-be-spoken+this+sipping](vaktavyamidamācamanaṃ) [o-śivā](śive)
 
 ## mukta-m0-p15-v364
-therefore(tasmāt) wine-etc(madya+ādikam) O-goddess(devi) to-be-practiced(sevitavyam) day(dine) day(dine)
+[therefore](tasmād) [wine+etc.](madyādikaṃ) [o-goddess](devi) [to-be-practiced](sevitavyaṃ) [day](dine) [day](dine)
 
 ## mukta-m0-p15-v365
-by-guru(guruṇā) initiated(dīkṣitaḥ) having-become(bhūtvā) kaula-nyāsa(kaula+nyāsam) should-perform(samācaret)
+[by-guru](guruṇā) [initiated](dīkṣito) [having-become](bhūtvā) [kaula+nyāsa](kaulanyāsaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p15-v366
-by-me-stated(mayā+uktam) that(tat) in-order(krameṇa) indeed(eva) consecration-pair(abhiṣeka+dvayam) should-perform(caret)
+[by-me+spoken](mayoktaṃ) [that](tat) [in-order+indeed](krameṇaiva) [consecration+pair](abhiṣekadvayaṃ) [one-should-perform](caret)
 
 ## mukta-m0-p15-v367
-divine(divyam) or(vā) hero-yoga(vīra+yogam) or(vā) according-to(yathā) action-accordingly(karma+anusārataḥ)
+[divine](divyaṃ) [or](vā) [hero+yoga](vīrayogaṃ) [or](vā) [as](yathā) [action+according-to](karmānusārataḥ)
 
 ## mukta-m0-p15-v368
-who(yastu) divine(divyaḥ) may-be(bhavet) truly(satyam) he(saḥ) Viṣṇu(viṣṇuḥ) not(na) here(atra) doubt(saṃśayaḥ)
+[who+indeed](yastu) [divine](divyo) [should-be](bhavet) [truly](satyaṃ) [he](sa) [viṣṇu+not+here](viṣṇurnātra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p15-v369
-in-which(yatra) place(deśe) man(naraḥ) stands(tiṣṭhet) divine(divyaḥ) or(vā) hero-best(vīra+puṅgavaḥ)
+[in-which](yatra) [place](deśe) [man+stands](narastiṣṭhed) [divine](divyo) [or](vā) [hero+best](vīrapuṅgavaḥ)
 
 ## mukta-m0-p15-v370
-siddhi-field(siddhi+kṣetram) declared(samuddiṣṭam) all-around(samantāt) ten-yojanas(daśa+yojanam)
+[siddhi+field](siddhikṣetraṃ) [declared](samuddiṣṭaṃ) [on-all-sides+ten+yojana](samantāddaśayojanam)
 
 ## mukta-m0-p15-v371
-by-yoginīs(yoginī) difficult-to-obtain(durlabhā) even(apy) this(etat) by-ḍākinīs(ḍākinībhiḥ) by-serpents(sarīsṛpaiḥ)
+[yoginī](yoginī) [hard-to-obtain+even+this](durlabhāpyetad) [by-ḍākinīs](ḍākinībhiḥ) [by-serpents](sarīsṛpaiḥ)
 
 ## mukta-m0-p15-v372
-by-guhyakas(guhyakaiḥ) by-dānavas(dānavaiḥ) or(vā) by-mārīs(mārībhiḥ) by-yakṣas-and-kinnaras(yakṣa+kinnaraiḥ) [by-māyās(māyābhiḥ)]
+[by-guhyakas+by-dānavas+or+also](guhyakairdānavairvāpi) [by-mārīs+by-yakṣas+by-kinnaras](mārībhiryakṣakinnaraiḥ) [by-māyās](māyābhiḥ)
 
 ## mukta-m0-p15-v373
-necessarily(avaśyam) auspiciousness(maṅgalam) there(tatra) that-city-prosperity(tat+purī+parivardhanam)
+[certainly](avaśyaṃ) [auspiciousness](maṅgalaṃ) [there](tatra) [that+city+prosperity](tatpurīparivardhanam)
 
 ## mukta-m0-p15-v374
-shine-forth(sphuranti) all-scriptures(sarva+śāstrāṇi) from-all(sarvasmāt) even(api) constantly(nityaśaḥ)
+[shine-forth](sphuranti) [all+scriptures](sarvaśāstrāṇi) [from-all+also](sarvasmādapi) [constantly](nityaśaḥ)
 
 ## mukta-m0-p15-v375
-trees(taravaḥ) even(api) indeed(hi) live(jīvanti) beast(paśuḥ) bird(pakṣī) he(saḥ) lives(jīvati)
+[trees+also](taravo'pi) [indeed](hi) [live](jīvanti) [beast](paśuḥ) [bird](pakṣī) [he](sa) [lives](jīvati)

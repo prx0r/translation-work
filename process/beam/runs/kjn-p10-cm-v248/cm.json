@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+first-member",
+   "morph": "compound-member",
    "grounds": "first member of compound describing practice"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second-member",
+   "morph": "compound-member",
    "grounds": "second member of compound describing yoga"
   },
   {
    "lemma": "yogena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental means of transformation"
+   "morph": "m.ins.sg",
+   "grounds": "means of transformation"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+first-member",
-   "grounds": "first member of compound indicating sixteen"
+   "morph": "compound-member",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+second-member",
-   "grounds": "second member of compound indicating sixteen"
+   "morph": "compound-member",
+   "grounds": "second member of numerical compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+third-member",
+   "morph": "compound-member",
    "grounds": "third member of compound describing form"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "resulting bodily appearance"
+   "grounds": "subject that comes to be"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-optative/√bhū",
-   "grounds": "expresses resulting transformation"
+   "morph": "3.sg.optative-act √bhū",
+   "grounds": "main verb expressing result"
   }
  ]
 }

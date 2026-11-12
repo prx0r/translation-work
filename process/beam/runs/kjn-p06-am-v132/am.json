@@ -1,12 +1,13 @@
 {
  "song": "kjn-p06",
  "verse": 132,
- "question": "Which chapter concludes with the emergence from the moon island?",
+ "question": "Which chapter concludes in the section concerning the moon island?",
  "premises": [
   "The context is the emergence from the moon island.",
-  "This marks the end of a numbered chapter."
+  "The chapter is identified by ordinal number.",
+  "It is the sixth chapter."
  ],
- "inference": "Therefore, this is the conclusion of the sixth chapter.",
+ "inference": "This marks the conclusion of the sixth chapter in the moon island section.",
  "uncertainties": [],
- "plain_english": "Thus ends the sixth chapter, concerning that which has emerged from the moon island."
+ "plain_english": "Thus ends the sixth chapter in the section on the moon island."
 }

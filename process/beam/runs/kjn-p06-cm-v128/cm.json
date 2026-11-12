@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "rasanā",
-   "morph": "compound:rasanā+first",
-   "grounds": "first member of compound"
+   "morph": "f.acc.sg",
+   "grounds": "object to be applied"
   },
   {
    "lemma": "tālu",
-   "morph": "compound:tālu+second",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "mūle",
    "morph": "n.loc.sg",
-   "grounds": "location at the base"
+   "grounds": "location of application"
   },
   {
    "lemma": "tu",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound:vyādhi+first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "nāśāya",
    "morph": "m.dat.sg",
-   "grounds": "purpose of removal"
+   "grounds": "purpose of application"
   },
   {
    "lemma": "yojayet",
-   "morph": "3.sg.opt.act √yuj",
-   "grounds": "injunction to engage"
+   "morph": "3.sg.optative-act √yuj",
+   "grounds": "injunction"
   }
  ]
 }

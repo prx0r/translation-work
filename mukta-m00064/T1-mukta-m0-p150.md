@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p150-v3726
-[when](yadā) [brahma-lake+origin](brahmasarodbhūtiḥ) [ratna-seat+from](ratnapīṭhāt) [arrived](samāgataḥ)
+[when](yadā) [brahma-lake+origin](brahmasarodbhūtiḥ) [jewel-throne+from](ratnapīṭhāt) [arrived](samāgataḥ)
 
 ## mukta-m0-p150-v3727
-[those-those](ye) [middle](madhyā) [kings](nṛpataya) [excellent](uttamāḥ) [are](santi) [o-parvati](pārvati)
+[who](ye) [who](ye) [middle](madhyā) [kings](nṛpataya) [supreme](uttamāḥ) [are](santi) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p150-v3728
-[who](yaḥ) [sinful](pāpaḥ) [earth-lord](kṣmāpatirdevi) [in-that](tasmin) [kingdom](rājye) [perishes](vinaśyati)
+[who](yaḥ) [sinful](pāpaḥ) [earth-lord](kṣmāpatiḥ) [O-goddess](devi) [in-that](tasmin) [kingdom](rājye) [perishes](vinaśyati)
 
 ## mukta-m0-p150-v3729
-[on-that-bank](tattīre) [city](nagaraṃ) [having-made](kṛtvā) [realm](rāṣṭraṃ) [by-sins](pāpairnṛpo) [king](nṛpo) [slain](hataḥ)
+[on-its-bank](tattīre) [city](nagaraṃ) [having-made](kṛtvā) [kingdom](rāṣṭraṃ) [by-sinners](pāpaiḥ) [king](nṛpaḥ) [killed](hataḥ)
 
 ## mukta-m0-p150-v3730
-[of-him](tasya) [west-side](paścimabhāge) [but](tu) [which](yā) [river](nadī) [that](sā) [stands](sthitā) [auspicious](śubhā)
+[of-that](tasya) [western+part](paścimabhāge) [indeed](tu) [which](yā) [river](nadī) [she](sā) [situated](sthitā) [auspicious](śubhā)
 
 ## mukta-m0-p150-v3731
-[tarka-form](tarkarūpagate) [year](varṣe) [from-saubhara](saubhārācca) [and](ca) [mutually](parasparam)
+[logic-form+gone](tarkarūpagate) [in-year](varṣe) [from-Saubhāra](saubhārāt) [and](ca) [mutually](parasparam)
 
 ## mukta-m0-p150-v3732
-[in-aiśvarya-tantra](aiśvaryatantre) [that-year](tadvarṣe) [remainder](śeṣe) [king](rājā) [perishes](vinaśyati)
+[in-sovereignty-doctrine](aiśvaryatantre) [in-that-year](tadvarṣe) [at-end](śeṣe) [king](rājā) [perishes](vinaśyati)
 
 ## mukta-m0-p150-v3733
-[from-that-time](tadavadhi) [and](ca) [kāmākhyā](kāmākhyāṃ) [who](yo) [king](rājā) [sees](paśyati) [certainly](dhruvam)
+[from-that-time](tadavadhi) [and](ca) [Kāmākhyā](kāmākhyāṃ) [who](yaḥ) [king](rājā) [sees](paśyati) [certainly](dhruvam)
 
 ## mukta-m0-p150-v3734
-[then](tadā) [brahma-lake](brahmasaro) [born](jātaḥ) [śaṅkara](śaṅkaraḥ) [kakudeśvara](kakudeśvaraḥ)
+[then](tadā) [Brahma-lake](brahmasaraḥ) [born](jātaḥ) [Śaṅkara](śaṅkaraḥ) [Kakudeśvara](kakudeśvaraḥ)
 
 ## mukta-m0-p150-v3735
-[in-which](yasmin) [ruling](śāsati) [saumāra](saumāraṃ) [treachery](drohastu) [various](vividho) [becomes](bhavet)
+[when](yasmin) [ruling](śāsati) [Wednesday](saumāraṃ) [treachery](drohaḥ) [indeed](tu) [various](vividhaḥ) [may-be](bhavet)
 
 ## mukta-m0-p150-v3736
-[kāma-pīṭha-triad](kāmapīṭhatrayañcaiva) [and](ca) [itself](svayameva) [itself](svayaṃ) [taken](hṛtaḥ)
+[Kāma-seat+triad](kāmapīṭhatrayam) [and](ca) [indeed](eva) [by-itself](svayameva) [by-itself](svayaṃ) [taken](hṛtaḥ)
 
 ## mukta-m0-p150-v3737
-[horse-striding](aśvakrāntādvayaṃ) [kuṇḍa](kuṇḍaṃ) [born](samudbhūtaṃ) [in-its-time](svakālataḥ)
+[from-Aśvakrānta](aśvakrāntāt) [pair](dvayaṃ) [pool](kuṇḍaṃ) [arisen](samudbhūtaṃ) [in-its-own-time](svakālataḥ)
 
 ## mukta-m0-p150-v3738
-[in-this](asmin) [ruling](śāsati) [kingdom](rājye) [but](tu) [treachery](drohasturyavidho) [fourfold](turyavidho) [becomes](bhavet)
+[when-this](asmin) [ruling](śāsati) [in-kingdom](rājye) [indeed](tu) [treachery](drohaḥ) [fourfold](turyavidhaḥ) [may-be](bhavet)
 
 ## mukta-m0-p150-v3739
-[this](eṣaḥ) [five-syllabled](pañcākṣaro) [mantra](mantraḥ) [of-garland](mālāyāḥ) [declared](parikīrtitaḥ)
+[this](eṣaḥ) [five-syllabled](pañcākṣaraḥ) [mantra](mantraḥ) [of-the-rosary](mālāyāḥ) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p150-v3740
-[at-end-of-japa](japānte) [on-head](śirasi) [having-placed](nyasya) [at-end-of-sacrifice](satrānte) [and](ca) [praise](stutiṃ) [let-read](paṭhet)
+[at-recitation-end](japānte) [on-head](śirasi) [having-placed](nyasya) [at-session-end](satrānte) [and](ca) [praise](stutiṃ) [should-recite](paṭhet)
 
 ## mukta-m0-p150-v3741
-[forward-reverse](anulomavilomena) [root-mantra](mūlamantreṇa) [let-worship](pūjayet)
+[in-natural-order](anuloma) [in-reverse-order](vilomena) [with-root-mantra](mūlamantreṇa) [should-worship](pūjayet)
 
 ## mukta-m0-p150-v3742
-jaya kāmeśi cāmuṇḍe jayabhūtāpahāriṇi
+[victory](jaya) [O-Kāmeśī](kāmeśi) [O-Cāmuṇḍā](cāmuṇḍe) [victory+being+remover](jayabhūtāpahāriṇi)
 
 ## mukta-m0-p150-v3743
-viśvamūrte śubhe śuddhe virūpākṣi trilocane
+[universe-form](viśvamūrte) [auspicious](śubhe) [pure](śuddhe) [odd-eyed](virūpākṣi) [three-eyed](trilocane)
 
 ## mukta-m0-p150-v3744
-manojave jaye jambhe bhūtākṣi kṣudhite kṣaye
+[mind-swift](manojave) [victorious](jaye) [devourer](jambhe) [being-eyed](bhūtākṣi) [hungry](kṣudhite) [destruction](kṣaye)
 
 ## mukta-m0-p150-v3745
-cāmuṇḍe ca mahākāli kāli kapālahāriṇi
+[O-Cāmuṇḍā](cāmuṇḍe) [and](ca) [O-Mahākālī](mahākāli) [O-Kālī](kāli) [skull+bearer](kapālahāriṇi)
 
 ## mukta-m0-p150-v3746
-cāmuṇḍe kulamālāsye tīkṣṇadaṃṣṭre mahābale
+[O-Cāmuṇḍā](cāmuṇḍe) [family-garland+faced](kulamālāsye) [sharp-tusked](tīkṣṇadaṃṣṭre) [great-strength](mahābale)
 
 ## mukta-m0-p150-v3747
-bhīmākṣi bhīṣaṇe devi sarvabhūtakṣayaṃkari
+[terrible-eyed](bhīmākṣi) [frightful](bhīṣaṇe) [O-goddess](devi) [all-being+destruction+maker](sarvabhūtakṣayaṃkari)
 
 ## mukta-m0-p150-v3748
-kāli karāli vikrānte kāmeśvari harapriye
+[O-Kālī](kāli) [O-Karālī](karāli) [valiant](vikrānte) [O-Kāmeśvarī](kāmeśvari) [Hara-beloved](harapriye)
 
 ## mukta-m0-p150-v3749
-kāmākhye kāmarūpasthe kāmeśvari harapriye
+[O-Kāmākhyā](kāmākhye) [Kāmarūpa+dwelling](kāmarūpasthe) [O-Kāmeśvarī](kāmeśvari) [Hara-beloved](harapriye)
 
 ## mukta-m0-p150-v3750
-(atra paṭalasamāptirnāsti)
+[here](atra) [chapter+completion](paṭalasamāptiḥ) [not](na) [is](asti)
