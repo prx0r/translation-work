@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "What has struck the speaker's pure body today?",
+ "question": "What transformation of the speaker's body is claimed after receiving knowledge?",
  "premises": [
-  "today is the time",
-  "the body is pure",
-  "it is struck by the veil of ignorance"
+  "The speaker refers to her own body",
+  "The body was struck by the veil of ignorance",
+  "The body is now pure"
  ],
- "inference": "Today the speaker's pure body is struck by the veil of ignorance.",
- "uncertainties": [],
- "plain_english": "Today my pure body is struck by the veil of ignorance."
+ "inference": "The speaker claims that her body, once struck by ignorance, is now pure.",
+ "uncertainties": [
+  "deham appears in accusative form but functions as subject in this context."
+ ],
+ "plain_english": "Today my body, once struck by the veil of ignorance, is pure."
 }

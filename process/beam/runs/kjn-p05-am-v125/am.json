@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 125,
- "question": "Can one absorbed in that state be harmed by being cut?",
+ "question": "How can a mind fixed on that remain uncut when the body is being severed?",
  "premises": [
-  "A person may be subjected to cutting.",
-  "That person has gone to that state.",
-  "That person's mind is fixed on that state."
+  "The body may be undergoing severance at a given time.",
+  "A mind fixed on that object remains directed elsewhere.",
+  "That directedness prevents the act of cutting from affecting the mind."
  ],
- "inference": "Absorption in that state prevents harm from cutting.",
- "uncertainties": [],
- "plain_english": "Even while being cut, one is not cut, just as one who has gone to that and whose mind is fixed on that."
+ "inference": "A mind gone to that and fixed on it is not cut even as the body is being cut.",
+ "uncertainties": [
+  "Extent to which fixation blocks the effect remains unspecified."
+ ],
+ "plain_english": "Just as one whose mind is fixed on that is not cut when the body is being cut, so too it remains unaffected."
 }

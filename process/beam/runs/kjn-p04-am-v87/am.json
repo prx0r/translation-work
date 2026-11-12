@@ -1,13 +1,15 @@
 {
  "song": "kjn-p04",
  "verse": 87,
- "question": "What physical freedoms result from the meditation on this thousand-petalled form?",
+ "question": "What physical afflictions are removed by this contemplative attainment?",
  "premises": [
   "The practitioner becomes freed from wrinkles and grey hair.",
-  "The state is devoid of all diseases.",
-  "These are outcomes of the meditation."
+  "The state is devoid of all disease.",
+  "These are results of the described contemplation."
  ],
- "inference": "This meditation makes one free from wrinkles, grey hair, and all diseases.",
- "uncertainties": [],
+ "inference": "This contemplation removes wrinkles, grey hair, and all diseases.",
+ "uncertainties": [
+  "The second token is accusative neuter while the first is nominative masculine, suggesting a possible agreement shift in the transmitted text."
+ ],
  "plain_english": "One becomes freed from wrinkles and grey hair, and devoid of all diseases."
 }

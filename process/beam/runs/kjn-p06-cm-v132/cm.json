@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "n.nom.sg",
-   "grounds": "legacy hint candra"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "dvīpa",
-   "morph": "n.nom.sg",
-   "grounds": "legacy hint dvīpa"
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "vinirgate",
-   "morph": "part.loc.sg",
-   "grounds": "legacy hint gone+forth+from"
+   "morph": "n.loc.sg",
+   "grounds": "locative context of chapter"
   },
   {
    "lemma": "ṣaṣṭhaḥ",
-   "morph": "adj.nom.sg.m",
-   "grounds": "legacy hint sixth"
+   "morph": "m.nom.sg",
+   "grounds": "ordinal number"
   },
   {
    "lemma": "paṭalaḥ",
-   "morph": "n.nom.sg",
-   "grounds": "legacy hint chapter"
+   "morph": "m.nom.sg",
+   "grounds": "section designation"
   }
  ]
 }
