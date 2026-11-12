@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "rasanā",
-   "morph": "f.nom.sg",
-   "grounds": "object to be applied"
+   "morph": "compound:rasanā+tālu-mūle",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "tālu",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:rasanā+tālu-mūle",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "mūle",
@@ -20,11 +20,11 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "emphasis"
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound-member",
+   "morph": "compound:vyādhi+nāśāya",
    "grounds": "first member of compound"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "yojayet",
-   "morph": "3.sg.opt.act √yuj",
-   "grounds": "injunctive instruction"
+   "morph": "3.sg.act-opt √yuj",
+   "grounds": "injunction"
   }
  ]
 }
