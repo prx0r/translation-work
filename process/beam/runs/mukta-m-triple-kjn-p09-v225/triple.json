@@ -7,37 +7,37 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral indicating the quantity eighty-four",
-     "morph": "numeral"
+     "grounds": "numeral element forming a compound number with the following word",
+     "morph": "numeral.compound-member"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "thousands; locative plural indicating location within",
+     "grounds": "locative plural indicating the quantity within which torment occurs",
      "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "in-womb-mechanisms",
-     "grounds": "compound of womb and mechanism/device; locative plural indicating location within",
-     "morph": "compound: yoni+womb+first, yantra+mechanism+second; n.loc.pl"
+     "grounds": "compound of yoni (womb/source) and yantra (mechanism/device) in locative plural",
+     "morph": "yoni+yantra.compound n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "afflicted or oppressed; past passive participle",
-     "morph": "m.nom.pl; ppp; root pīḍ"
+     "grounds": "past passive participle describing beings subjected to affliction",
+     "morph": "m.nom.pl.ppp (√pīḍ)"
     }
    ],
-   "question": "What condition afflicts beings within the eighty-four thousand womb-mechanisms?",
+   "question": "Within how many womb-mechanisms are beings said to be tormented?",
    "premises": [
-    "There are eighty-four thousand womb-mechanisms.",
-    "Beings exist within these womb-mechanisms.",
-    "These beings are tormented."
+    "The number specified is eighty-four thousand.",
+    "The locations are described as womb-mechanisms.",
+    "Beings within these locations are tormented."
    ],
-   "inference": "Existence within the eighty-four thousand womb-mechanisms entails torment.",
+   "inference": "Beings are afflicted throughout eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The subject experiencing torment is implied from context rather than explicitly stated in this verse."
+    "The subject of pīḍitāḥ is not explicitly stated in this verse and must be supplied from context."
    ],
    "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }

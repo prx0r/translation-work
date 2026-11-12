@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p190-v4726
-[tan-madhyamam](tanmadhyamam) [iti](iti) [proktam](proktaṃ) [triguṇam](triguṇaṃ) [ca](ca) [uttamam](uttamaṃ) [bhavet](bhavet)
+[that](tat) [middle](madhyamam) [thus](iti) [declared](proktam) [threefold](triguṇam) [and](ca) [best](uttamam) [should-be](bhavet)
 
 ## mukta-m0-p190-v4727
-[sāvakāśa-antarālam](sāvakāśāntarālaṃ) [cet](cet) [tasmāt](tasmād) [dvi-triguṇam](dvitriguṇaṃ) [bhavet](bhavet)
+[with](sa) [space](avakāśa) [intermediate-space](antarālam) [if](cet) [from-that](tasmāt) [two-or-threefold](dvitriguṇam) [should-be](bhavet)
 
 ## mukta-m0-p190-v4728
-[tad-ardham](tadardhaṃ) [bhitti-yuktam](bhittiyuktaṃ) [vā](vā) [tad-aṣṭāṃśena](tadaṣṭāṃśena) [bhittikam](bhittikam)
+[its](tat) [half](ardham) [with-wall](bhittiyuktam) [or](vā) [by-its-eighth-part](tadaṣṭāṃśena) [wall](bhittikam)
 
 ## mukta-m0-p190-v4729
-[yāvat](yāvad) [vibhāga-mānam](vibhāgamānaṃ) [tu](tu) [bhavet](bhaved) [dvādaśa-mānakam](dvādaśamānakam)
+[as-much-as](yāvat) [division](vibhāga) [measure](mānam) [indeed](tu) [should-be](bhavet) [twelve](dvādaśa) [measure](mānakam)
 
 ## mukta-m0-p190-v4730
-[antarāla-pradeśa-uktam](antarālapradeśoktaṃ) [veśa-yuktam](veśayuktaṃ) [prakīrtitam](prakīrtitam)
+[in-intermediate-space](antarāla) [place](pradeśa) [stated](uktam) [with-entrance](veśayuktam) [is-declared](prakīrtitam)
 
 ## mukta-m0-p190-v4731
-[svāyambhuva-ādi-liṅge](svāyaṃbhuvādiliṅge) [tu](tu) [nyūnam](nyūnaṃ) [vā](vā) [api](vāpy) [adhikam](adhikaṃ) [tu](tu) [vā](vā)
+[in-self-born](svāyaṃbhuva) [and-other](ādi) [liṅgas](liṅge) [indeed](tu) [less](nyūnam) [or](vā) [also](api) [more](adhikam) [indeed](tu) [or](vā)
 
 ## mukta-m0-p190-v4732
-[vivṛta-stambha-saṃyuktam](vivṛtastambhasaṃyuktaṃ) [na](na) [cet](ced) [dvāram](dvāraṃ) [tad-agrake](tadagrake)
+[with-open](vivṛta) [pillars](stambha) [joined](saṃyuktam) [not](na) [if](cet) [door](dvāram) [at-its-front](tadagrake)
 
 ## mukta-m0-p190-v4733
-[vivṛta-stambha-saṃyuktam](vivṛtastambhasaṃyuktaṃ) [cet](cen) [mūladhāma-praveśa-gau](mūladhāmapraveśagau)
+[with-open](vivṛta) [pillars](stambha) [joined](saṃyuktam) [if](cet) [to-main](mūla) [shrine](dhāma) [entrance](praveśa) [leading](gau)
 
 ## mukta-m0-p190-v4734
-[śuddha-nāgara-dhāmnā](śuddhanāgaradhāmnā) [etad](etad) [garbha-māna-ardha-niṣkramaḥ](garbhamānārdhaniṣkramaḥ)
+[of-pure](śuddha) [nāgara](nāgara) [shrine](dhāmnā) [this](etat) [of-sanctum](garbha) [measure](māna) [half](ardha) [projection](niṣkramaḥ)
 
 ## mukta-m0-p190-v4735
-[antarālam](antarālaṃ) [tad-agre](tadagre) [syāt](syāt) [pārśva-deśa-pramāṇakam](pārśvadeśapramāṇakam)
+[intermediate-space](antarālam) [at-its-front](tadagre) [should-be](syāt) [side](pārśva) [region](deśa) [measure](pramāṇakam)
 
 ## mukta-m0-p190-v4736
-[pārśva-dvāra-sama-upetam](pārśvadvārasamopetaṃ) [nirdvāram](nirdvāraṃ) [vā](vā) [atha](atha) [tad](tad) [bhavet](bhavet)
+[with-side](pārśva) [door](dvāra) [equal](sama) [provided](upetam) [without-door](nirdvāram) [or](vā) [then](atha) [that](tat) [should-be](bhavet)
 
 ## mukta-m0-p190-v4737
-[snapana-artham](snapanārthaṃ) [tad-agre](tadagre) [syāt](syāt) [tad-agre](tadagre) [nṛtta-maṇḍapam](nṛttamaṇḍapam)
+[for-bathing](snapana) [purpose](artham) [at-its-front](tadagre) [should-be](syāt) [at-its-front](tadagre) [dance](nṛtta) [hall](maṇḍapam)
 
 ## mukta-m0-p190-v4738
-[mūladhāma-samam](mūladhāmasamaṃ) [śreṣṭham](śreṣṭhaṃ) [sva-aṣṭāṃśa-ūna-adhikam](svāṣṭāṃśonādhikaṃ) [tu](tu) [vā](vā)
+[to-main](mūla) [shrine](dhāma) [equal](samam) [best](śreṣṭham) [by-its-own-eighth-part](svāṣṭāṃśa) [less](ūna) [or-more](adhikam) [indeed](tu) [or](vā)
 
 ## mukta-m0-p190-v4739
-[mānave](mānave) [mānavam](mānavaṃ) [hi](hy) [etat](etatsāmānyaṃ) [sāmānyam](sāmānyaṃ) [samudāhṛtam](samudāhṛtam)
+[in-human-measure](mānave) [human-measure](mānavam) [indeed](hi) [this](etat) [general](sāmānyam) [is-declared](samudāhṛtam)
 
 ## mukta-m0-p190-v4740
-[eteṣām](eteṣāmapi) [api](api) [sarveṣām](sarveṣāṃ) [pramāṇam](pramāṇam) [adhunā](adhunā) [ucyate](ucyate)
+[of-these](eteṣām) [also](api) [of-all](sarveṣām) [measure](pramāṇam) [now](adhunā) [is-stated](ucyate)
 
 ## mukta-m0-p190-v4741
-[śa-hastāvasānaḥ](śahastāvasānastu) [tu](tu) [bhavet](bhaven) [maṇḍapa-vistaraḥ](maṇḍapavistaraḥ)
+[up-to-six](ṣaṭ) [cubits](hasta) [ending](avasānaḥ) [indeed](tu) [should-be](bhavet) [hall](maṇḍapa) [width](vistaraḥ)
 
 ## mukta-m0-p190-v4742
-[nānā-jālaka-saṃyuktam](nānājālakasaṃyuktaṃ) [nānā-dvāra-samāyutam](nānādvārasamāyutam)
+[with-various](nānā) [lattices](jālaka) [joined](saṃyuktam) [with-various](nānā) [doors](dvāra) [provided](samāyutam)
 
 ## mukta-m0-p190-v4743
-[vistāram](vistāramaṣṭavahnyahni) [aṣṭa-vahni-ahni](aṣṭavahnyahni) [vasu-ghnam](vasughnaṃ) [raviṇā](raviṇā) [bhajet](bhajet)
+[width](vistāram) [by-eight](aṣṭa) [three](vahni) [days](ahni) [by-eight](vasu) [multiplied](ghnam) [by-twelve](raviṇā) [one-should-divide](bhajet)
 
 ## mukta-m0-p190-v4744
-[yoni-stārā](yonistārā) [ca](ca) [paryante](paryante) [triṃśat-muni-hate](triṃśanmunihate) [sati](sati)
+[yoni](yoniḥ) [star](tārā) [and](ca) [at-the-end](paryante) [by-thirty](triṃśat) [by-seven](muni) [when-multiplied](hate) [being](sati)
 
 ## mukta-m0-p190-v4745
-[na](na) [ca](cāyaṃ) [ayam](ayam) [vihitaḥ](vihitaḥ) [tu](tu) [agra-maṇḍape](agramaṇḍape) [ca](cāntarālake) [antarālake](antarālake)
+[not](na) [and](ca) [this](ayam) [prescribed](vihitaḥ) [indeed](tu) [in-front](agra) [hall](maṇḍape) [and](ca) [in-intermediate-space](antarālake)
 
 ## mukta-m0-p190-v4746
-[anyeṣām](anyeṣāmapi) [api](api) [sarveṣām](sarveṣāṃ) [mūla-uktam](mūloktaṃ) [sarvam](sarvam) [ācaret](ācaret)
+[of-others](anyeṣām) [also](api) [of-all](sarveṣām) [as-stated-in-root-text](mūloktam) [all](sarvam) [one-should-perform](ācaret)
 
 ## mukta-m0-p190-v4747
-[pañca-hasta-anta-mānam](pañcahastāntamānaṃ) [tu](tu) [bhitti-mānam](bhittimānaṃ) [ca](ca) [maṇḍape](maṇḍape)
+[up-to-five](pañca) [cubits](hasta) [ending](anta) [measure](mānam) [indeed](tu) [wall](bhitti) [measure](mānam) [and](ca) [in-hall](maṇḍape)
 
 ## mukta-m0-p190-v4748
-[pañca-aṅgulam](pañcāṅgulaṃ) [samārabhya](samārabhya) [vyoma-mātra-vivṛddhitaḥ](vyomamātravivṛddhitaḥ)
+[five](pañca) [aṅgulas](aṅgulam) [beginning](samārabhya) [by-one](vyoma) [mātra](mātra) [increase](vivṛddhitaḥ)
 
 ## mukta-m0-p190-v4749
-[vyoma-paṅkti](vyomapaṅkti) [samārabhya](samārabhya) [vyoma-paṅkti-vivṛddhitaḥ](vyomapaṅktivivṛddhitaḥ)
+[from-one](vyoma) [row](paṅkti) [beginning](samārabhya) [by-one](vyoma) [row](paṅkti) [increase](vivṛddhitaḥ)
 
 ## mukta-m0-p190-v4750
-[bhadra-upabhadra-saṃyuktam](bhadropabhadrasaṃyuktaṃ) [madhya-stambha-prabhāsanam](madhyastambhaprabhāsanam)
+[with-bhadra](bhadra) [and-upabhadra](upabhadra) [joined](saṃyuktam) [central](madhya) [pillar](stambha) [arrangement](prabhāsanam)

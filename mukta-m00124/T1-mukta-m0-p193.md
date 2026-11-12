@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p193-v4801
-five-six-sage-hall-even [pañcaṣaṇmunisāle'pi] and-eight-joy-circuit [cāṣṭanandavṛtau] so [tathā]
+[five](pañca) [+six](ṣaṇ) [+sage](muni) [+hall](sāle) [also](api) [and](ca) [eight](aṣṭa) [+nine](nanda) [+increase](vṛtau) [likewise](tathā)
 
 ## mukta-m0-p193-v4802
-equal [samaṃ] then [tu] square [caturaśraṃ] that [tat] first [pūrvaṃ] having-made [kṛtvā] then [tataḥ] after [param]
+[equal](samam) [but](tu) [square](caturaśram) [that](tat) [first](pūrvam) [having-made](kṛtvā) [then](tataḥ) [after](param)
 
 ## mukta-m0-p193-v4803
-back [pṛṣṭhe] or [vā] one-should-arrange [kalpayet] side [pārśve] old-shrine [purātanavimānake]
+[at-back](pṛṣṭhe) [or](vā) [one-should-design](kalpayet) [at-side](pārśve) [old](purātana) [+shrine](vimānake)
 
 ## mukta-m0-p193-v4804
-one-hand [ekahastaṃ] beginning [samārabhya] hand-one-by-one-increase [hastaikaikavivṛddhitaḥ]
+[one](eka) [+cubit](hastam) [beginning-with](samārabhya) [cubit](hasta) [+one](eka) [+one](eka) [+by-increase](vivṛddhitaḥ)
 
 ## mukta-m0-p193-v4805
-one-should-increase-or-diminish [vardhayeddhrāsayedvāpi] until-desired-fullness [yāvadiṣṭaprapūraṇam]
+[one-should-increase](vardhayet) [one-should-decrease](hrāsayet) [or](vā) [also](api) [until](yāvat) [+desired](iṣṭa) [+completion](prapūraṇam)
 
 ## mukta-m0-p193-v4806
-on-one-side [ekapārśve] or [athavā] one-should-do [kuryāt] in-front-measure [mukhāyāme] one-should-arrange [prakalpayet]
+[on-one](eka) [+side](pārśve) [or](athavā) [one-should-make](kuryāt) [front](mukha) [+in-length](āyāme) [one-should-design](prakalpayet)
 
 ## mukta-m0-p193-v4807
-double [dviguṇaṃ] half-of-double [dviguṇārdhaṃ] or [vā] triple [triguṇaṃ] and [ca] quadruple [caturguṇaṃ]
+[double](dviguṇam) [double](dviguṇa) [+half](ardham) [or](vā) [triple](triguṇam) [and](ca) [quadruple](caturguṇam)
 
 ## mukta-m0-p193-v4808
-until-fivefold [yāvatpañcaguṇaṃ] star [tāraṃ] front-measure [mukhāyāmaṃ] one-should-arrange [prakalpayet]
+[until](yāvat) [+five](pañca) [+fold](guṇam) [breadth](tāram) [front](mukha) [+length](āyāmam) [one-should-design](prakalpayet)
 
 ## mukta-m0-p193-v4809
-wall-middle [bhittimadhyaṃ] or [tu] one-should-do [vā kuryāt] of-ramparts [prākārāṇāṃ] measure [pramāṇakam]
+[wall](bhitti) [+middle](madhyam) [but](tu) [or](vā) [one-should-make](kuryāt) [of-enclosures](prākārāṇām) [measurement](pramāṇakam)
 
 ## mukta-m0-p193-v4810
-one-should-arrange [kalpayet] by-foot-path [pādamārgeṇa] of-rampart [prākārasya] in-arrangement [prakalpane]
+[one-should-design](kalpayet) [pillar](pāda) [+by-method](mārgeṇa) [of-enclosure](prākārasya) [in-designing](prakalpane)
 
 ## mukta-m0-p193-v4811
-filling [pūraṇaṃ] or [vā] to-be-done [prakartavyaṃ] in-hand-measure-dependence [hastamānavaśe'pi] and [ca]
+[completion](pūraṇam) [or](vā) [to-be-done](prakartavyam) [cubit](hasta) [+measure](māna) [+by-means-of](vaśe) [also](api) [and](ca)
 
 ## mukta-m0-p193-v4812
-that-spoken-measure [taduktamātraṃ] to-be-taken [saṃgrāhya] measure-spoken [mātroktaṃ] there [tatra] to-be-joined [yojayet]
+[that](tat) [+stated](ukta) [+measure](mātram) [having-taken](saṃgrāhya) [by-measure](mātra) [+stated](uktam) [there](tatra) [one-should-apply](yojayet)
 
 ## mukta-m0-p193-v4813
-remainder [śeṣaṃ] asterism [ṛkṣaṃ] then [tu] from-width [vistārāt] from-all-or [sakalādvātha] one-should-arrange [kalpayet]
+[remainder](śeṣam) [asterism](ṛkṣam) [but](tu) [from-breadth](vistārāt) [from-whole](sakalāt) [or](vā) [then](atha) [one-should-design](kalpayet)
 
 ## mukta-m0-p193-v4814
-length [āyaṃ] tripled [triguṇitaṃ] by-directions [digbhir] by-manus [manubhir] one-should-divide-then [vibhajettataḥ]
+[income](āyam) [tripled](triguṇitam) [by-directions](digbhiḥ) [by-manus](manubhiḥ) [one-should-divide](vibhajet) [then](tataḥ)
 
 ## mukta-m0-p193-v4815
-flag-etc-causes [dhvajādiyonayaḥ] declared [proktāḥ] boundary-thirty [paryantatriṃśato] becomes [bhavet]
+[banner](dhvaja) [+etc.](ādi) [+sources](yonayaḥ) [declared](proktāḥ) [up-to](paryanta) [+thirty](triṃśataḥ) [should-be](bhavet)
 
 ## mukta-m0-p193-v4816
-by-root-shrine-hands [mūlaprāsādahastairvā] or [vā] by-others [cānyairvātha] one-should-inspect [nirīkṣayet]
+[root](mūla) [+temple](prāsāda) [+by-cubits](hastaiḥ) [or](vā) [and](ca) [by-others](anyaiḥ) [or](vā) [then](atha) [one-should-examine](nirīkṣayet)
 
 ## mukta-m0-p193-v4817
-two-hand-within [dvihastāntaḥ] declared [samuddiṣṭaḥ] of-halls [sālānāṃ] and [caiva] width [vistaraḥ]
+[two-cubits](dvihasta) [+limit](antaḥ) [prescribed](samuddiṣṭaḥ) [of-halls](sālānām) [and](ca) [indeed](eva) [breadth](vistaraḥ)
 
 ## mukta-m0-p193-v4818
-triple [triguṇaṃ] then [tu] beginning [samārabhya] in-small-great-temple [kṣudre mahati mandire]
+[triple](triguṇam) [but](tu) [beginning-with](samārabhya) [in-small](kṣudre) [in-great](mahati) [temple](mandire)
 
 ## mukta-m0-p193-v4819
-sixth-part [ṣaḍaṃśaṃ] then [tu] beginning [samārabhya] until-sixteenth-part [yāvatṣoḍaśabhāgikam]
+[six](ṣaḍ) [+part](aṃśam) [but](tu) [beginning-with](samārabhya) [until](yāvat) [+sixteen](ṣoḍaśa) [+divided](bhāgikam)
 
 ## mukta-m0-p193-v4820
-base-etc-group-rich [adhiṣṭhānādivargāḍhyaṃ] fragment-palace-etc-adorned [khaṇḍaharmyādimaṇḍitam]
+[base](adhiṣṭhāna) [+etc.](ādi) [+group](varga) [+endowed-with](āḍhyam) [sectional-mansion](khaṇḍaharmya) [+etc.](ādi) [+adorned-with](maṇḍitam)
 
 ## mukta-m0-p193-v4821
-umbrella-etc-peak-equipped [chatrādiśikharopetam] above-placed-bull-included [ūrdhvasthavṛṣabhānvitam]
+[parasol](chatra) [+etc.](ādi) [+spire](śikhara) [+provided-with](upetam) [above](ūrdhvastha) [+bull](vṛṣabha) [+furnished-with](anvitam)
 
 ## mukta-m0-p193-v4822
-with-quarter [sapādenātha] with-half [sārdhena] quarter-less-double [pādonadviguṇena] or [vā]
+[with-quarter-more](sapādena) [or](atha) [with-half-more](sārdhena) [quarter](pāda) [+less](ūna) [+double](dviguṇena) [or](vā)
 
 ## mukta-m0-p193-v4823
-plinth [upānaṃ] declared [kathitaṃ] its [tasya] above [upariṣṭāt] by-that [tena] by-measure [mānataḥ]
+[plinth](upānam) [stated](kathitam) [of-that](tasya) [above](upariṣṭāt) [by-that](tena) [in-measure](mānataḥ)
 
 ## mukta-m0-p193-v4824
-its [tasya] above [upariṣṭāt] kampa [kampaṃ] then [tu] that-quarter-measure [taccaturthāṃśamānataḥ]
+[of-that](tasya) [above](upariṣṭāt) [fillet](kampam) [but](tu) [that](tat) [+fourth](caturtha) [+part](aṃśa) [+in-measure](mānataḥ)
 
 ## mukta-m0-p193-v4825
-quarter-less-double [pādonadviguṇaṃ] or [vāpi] double-end [dviguṇāntaṃ] one-should-arrange [prakalpayet]
+[quarter](pāda) [+less](ūna) [+double](dviguṇam) [or](vā) [also](api) [double](dviguṇa) [+limit](antam) [one-should-design](prakalpayet)

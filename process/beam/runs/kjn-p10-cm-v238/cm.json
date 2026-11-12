@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound=dūra+first",
-   "grounds": "first member of compound"
+   "morph": "compound=member+membership",
+   "grounds": "first member of compound with āśravaṇa"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound=āśravaṇa+second",
-   "grounds": "second member of compound"
+   "morph": "compound=member+membership",
+   "grounds": "second member of compound with dūra"
   },
   {
    "lemma": "vijñānaṃ",
-   "morph": "compound=vijñāna+final, n.nom.sg",
-   "grounds": "first attainment listed"
+   "morph": "n.nom.sg",
+   "grounds": "names the power of distant hearing or knowing"
   },
   {
    "lemma": "pāśa",
-   "morph": "compound=pāśa+first",
-   "grounds": "first member of compound"
+   "morph": "compound=member+membership",
+   "grounds": "first member of compound with stobham"
   },
   {
    "lemma": "stobham",
-   "morph": "compound=stobha+final, m.acc.sg",
-   "grounds": "second attainment listed"
+   "morph": "m.acc.sg",
+   "grounds": "names the power of arresting bonds"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "connective indicating addition"
   },
   {
    "lemma": "priye",

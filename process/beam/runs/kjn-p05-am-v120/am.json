@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 120,
- "question": "How can death be destroyed without any remaining doubt?",
+ "question": "What claim of certainty is made about the manner in which death is destroyed?",
  "premises": [
-  "The teacher promises instruction",
-  "No doubt is admitted",
-  "Death is said to be destroyed"
+  "The speaker states an intention to tell something.",
+  "No doubt is to remain about that matter.",
+  "The matter is the manner in which death is destroyed."
  ],
- "inference": "The teacher asserts without doubt that death can be destroyed and will explain how.",
- "uncertainties": [],
- "plain_english": "I shall tell you, without doubt, how death is destroyed."
+ "inference": "The speaker tells, without doubt, how death is destroyed.",
+ "uncertainties": [
+  "The manner itself is not specified in this verse"
+ ],
+ "plain_english": "I tell it; there is no doubt, as death is destroyed."
 }

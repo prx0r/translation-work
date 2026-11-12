@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p191-v4751
-[lāṅgala-ākāra-kuḍya-āḍhya](lāṅgalākārakuḍyāḍhyam) [nānā-alaṅkāra-śobhita](nānālaṅkāraśobhitam)
+plough+shape+wall+endowed(lāṅgalākāra+kuḍya+āḍhyaṃ) various+ornament+adorned(nānā+alaṅkāra+śobhitam)
 
 ## mukta-m0-p191-v4752
-[dvāra-tāla-tala-upeta](dvāratālatalopetaṃ) [kūṭa-koṣṭha-ādi-śobhita](kūṭakoṣṭhādiśobhitam)
+door+lock+bolt+provided(dvāra+tāla+tala+upetaṃ) turret+chamber+etc+adorned(kūṭa+koṣṭha+ādi+śobhitam)
 
 ## mukta-m0-p191-v4753
-[āsthāna-maṇḍapam](āsthānamaṇḍapaṃ) [kuryāt](kuryāddhāmno) [dhāmnaḥ](dhāmno) [dikṣu](dikṣu) [vidikṣu](vidikṣu) [ca](ca)
+audience+pavilion(āsthāna+maṇḍapaṃ) one-should-make(kuryāt) of-the-temple(dhāmnaḥ) in-the-directions(dikṣu) in-the-intermediate-directions(vidikṣu) and(ca)
 
 ## mukta-m0-p191-v4754
-[sabhā](sabhā) [vā](vā) [tatra](tatra) [kartavyā](kartavyā) [cāṣṭa-diṅ-mukha-saṃyuta](cāṣṭadiṅmukhasaṃyutam)
+assembly-hall(sabhā) or(vā) there(tatra) to-be-made(kartavyā) and(ca) eight+direction+facing+endowed(aṣṭa+diṅ+mukha+saṃyutam)
 
 ## mukta-m0-p191-v4755
-[eka-aneka-tala-upeta](ekānekatalopetaṃ) [pārśva-sopāna-saṃyuta](pārśvasopānasaṃyutam)
+one+or+many+storey+provided(eka+aneka+tala+upetaṃ) side+staircase+endowed(pārśva+sopāna+saṃyutam)
 
 ## mukta-m0-p191-v4756
-[pañca-hastaṃ](pañcahastaṃ) [samārabhya](samārabhya) [vyoma-hasta-vivṛddhitaḥ](vyomahastavivṛddhitaḥ)
+five+cubits(pañca+hastaṃ) beginning(samārabhya) by-space+cubit+increase(vyoma+hasta+vivṛddhitaḥ)
 
 ## mukta-m0-p191-v4757
-[vistāra-pāda-vṛddhyā](vistārapādavṛddhyā) [tu](tu) [yāvat](yāvadvedaguṇaṃ) [veda-guṇaṃ](vedaguṇaṃ) [bhavet](bhavet)
+by-width+quarter+increase(vistāra+pāda+vṛddhyā) but(tu) until(yāvat) four+times(veda+guṇaṃ) it-should-be(bhavet)
 
 ## mukta-m0-p191-v4758
-[vahni-bhittiṃ](vahnibhittiṃ) [samārabhya](samārabhya) [vyoma-bhitti-vivardhanāt](vyomabhittivivardhanāt)
+three+walls(vahni+bhittiṃ) beginning(samārabhya) by-space+wall+increase(vyoma+bhitti+vivardhanāt)
 
 ## mukta-m0-p191-v4759
-[vistāra-bhitti-vasudhāṃ](vistārabhittivasudhāṃ) [kṛtvā](kṛtvārdhārdhavivardhanāt) [ardha-ardha-vivardhanāt](ardhārdhavivardhanāt)
+width+wall+ground(vistāra+bhitti+vasudhāṃ) having-made(kṛtvā) by-half+half+increase(ardha+ardha+vivardhanāt)
 
 ## mukta-m0-p191-v4760
-[yugma-bhittiṣu](yugmabhittiṣu) [madhya-stha-pādānām](madhyasthapādānāmojavistaraḥ) [oja-vistaraḥ](ojavistaraḥ)
+in-even+walls(yugma+bhittiṣu) of-middle+pillars(madhyastha+pādānām) odd+width(oja+vistaraḥ)
 
 ## mukta-m0-p191-v4761
-[ojabhittiṣu](ojabhittiṣu) [madhya-stha-pada-śreṇi-dvayaṃ](madhyasthapadaśreṇidvayaṃ) [tu](tu) [vā](vā)
+in-odd+walls(oja+bhittiṣu) middle+position+row+pair(madhyastha+pada+śreṇi+dvayaṃ) but(tu) or(vā)
 
 ## mukta-m0-p191-v4762
-[mūla-bhitti-pramāṇena](mūlabhittipramāṇena) [pādaṃ](pādaṃ) [vā](vā) [ardha-tri-pādakam](ardhatripādakam)
+by-base+wall+measure(mūla+bhitti+pramāṇena) pillar(pādaṃ) or(vā) half+or+three-quarters(ardha+tri+pādakam)
 
 ## mukta-m0-p191-v4763
-[mūla-pādāt](mūlapādācca) [ca](ca) [dvāra-sthāḥ](dvārasthāḥ) [pādāḥ](pādā) [ye](ye) [saṃsthitāḥ](saṃsthitāḥ) [tu](tviha) [iha](iha)
+and-from-base+pillar(mūla+pādāt) and(ca) door+situated(dvāra+sthāḥ) pillars(pādāḥ) which(ye) placed(saṃsthitāḥ) indeed(tu) here(iha)
 
 ## mukta-m0-p191-v4764
-[sva-sva-sthāna-gatāḥ](svasvasthānagatā) [vā](vā) [api](api) [vidhātavyāḥ](vidhātavyā) [vicakṣaṇaiḥ](vicakṣaṇaiḥ)
+in-their-own+places+gone(sva+sva+sthāna+gatāḥ) or(vā) also(api) to-be-arranged(vidhātavyāḥ) by-the-wise(vicakṣaṇaiḥ)
 
 ## mukta-m0-p191-v4765
-[eteṣām](eteṣāmapi) [api](api) [sarveṣāṃ](sarveṣāṃ) [prokṣaṇaṃ](prokṣaṇaṃ) [tu](tu) [adhunā](adhunocyate) [ucyate](ucyate)
+of-these(eteṣām) also(api) of-all(sarveṣām) sprinkling(prokṣaṇaṃ) but(tu) now(adhunā) is-told(ucyate)
 
 ## mukta-m0-p191-v4766
-[brāhmaṇān](brāhmaṇān) [bhojayitvā](bhojayitvādau) [ādau](ādau) [tat](tat) [ucchiṣṭaṃ](ucchiṣṭaṃ) [vivarjayet](vivarjayet)
+brahmins(brāhmaṇān) having-fed(bhojayitvā) first(ādau) their+remnants(tat+ucchiṣṭaṃ) one-should-avoid(vivarjayet)
 
 ## mukta-m0-p191-v4767
-[vāstu-homaṃ](vāstuhomaṃ) [tataḥ](tataḥ) [kṛtvā](kṛtvā) [paryagni-karaṇaṃ](paryagnikaraṇaṃ) [nayet](nayet)
+vāstu+oblation(vāstu+homaṃ) then(tataḥ) having-done(kṛtvā) carrying-fire-around(paryagnikaraṇaṃ) one-should-perform(nayet)
 
 ## mukta-m0-p191-v4768
-[nivṛtti-ādi-kalāḥ](nivṛttyādikalā) [nyastvā](nyastvā) [madhya-stambha-catuṣṭaye](madhyastambhacatuṣṭaye)
+nivṛtti+etc+kalās(nivṛtti+ādi+kalāḥ) having-placed(nyastvā) on-middle+pillar+quartet(madhya+stambha+catuṣṭaye)
 
 ## mukta-m0-p191-v4769
-[vastraiḥ](vastrairastreṇa) [astreṇa](astreṇa) [ca](ca) [āveṣṭya](āveṣṭya) [mālā-ādyaiḥ](mālādyairbhūṣayattataḥ) [bhūṣayat](bhūṣayat) [tataḥ](tataḥ)
+with-cloths(vastraiḥ) with-weapon-mantra(astreṇa) and(ca) having-wrapped(āveṣṭya) with-garlands+etc(mālā+ādyaiḥ) one-should-adorn(bhūṣayet) then(tataḥ)
 
 ## mukta-m0-p191-v4770
-[mūrti-mūrtīśvarān](mūrtimūrtīśvarānnyastvā) [nyastvā](nyastvā) [madhyame](madhyame) [maṇḍapasya](maṇḍapasya) [tu](tu)
+forms+and-lords-of-forms(mūrti+mūrtīśvarān) having-placed(nyastvā) in-the-middle(madhyame) of-the-pavilion(maṇḍapasya) but(tu)
 
 ## mukta-m0-p191-v4771
-[taṇḍulaiḥ](taṇḍulaiḥ) [tila-lājaiḥ](tilalājaiśca) [ca](ca) [darbhaiḥ](darbhaiḥpuṣpaiḥ) [puṣpaiḥ](puṣpaiḥ) [paristaret](paristaret)
+with-rice-grains(taṇḍulaiḥ) with-sesame+parched-grains(tila+lājaiḥ) and(ca) with-darbha-grass+flowers(darbhaiḥ+puṣpaiḥ) one-should-strew(paristaret)
 
 ## mukta-m0-p191-v4772
-[tat](tadvāme) [vāme](vāme) [vardhanīṃ](vardhanīṃ) [tasyāṃ](tasyāṃ) [devīm](devīmāvāhya) [āvāhya](āvāhya) [bhaktitaḥ](bhaktitaḥ)
+to-its-left(tat+vāme) sprinkling-vessel(vardhanīṃ) in-that(tasyām) goddess(devīm) having-invoked(āvāhya) with-devotion(bhaktitaḥ)
 
 ## mukta-m0-p191-v4773
-[dharmaṃ](dharmaṃ) [jñānaṃ](jñānaṃ) [ca](ca) [vairāgyam](vairāgyamaiśvaryaṃ) [aiśvaryaṃ](aiśvaryaṃ) [teṣu](teṣu) [vahnitaḥ](vahnitaḥ)
+dharma(dharmaṃ) knowledge(jñānaṃ) and(ca) dispassion(vairāgyam) sovereignty(aiśvaryaṃ) in-them(teṣu) from-fire(vahnitaḥ)
 
 ## mukta-m0-p191-v4774
-[tataḥ](tataḥ) [śivāgniṃ](śivāgniṃ) [saṃsthāpya](saṃsthāpya) [samid-ājya-anna-lājakaiḥ](samidājyānnalājakaiḥ)
+then(tataḥ) śiva+fire(śiva+agniṃ) having-established(saṃsthāpya) with-fuel+ghee+rice+parched-grains(samit+ājya+anna+lājakaiḥ)
 
 ## mukta-m0-p191-v4775
-[pradhānena](pradhānena) [śivena](śivenāṅgaiḥ) [aṅgaiḥ](aṅgaiḥ) [pūrva-dik-sthaṇḍile](pūrvadiksthaṇḍile) [matāḥ](matāḥ)
+with-pradhāna-mantra(pradhānena) with-śiva(śivena) with-aṅgas(aṅgaiḥ) in-east+direction+altar(pūrva+dik+sthaṇḍile) intended(matāḥ)

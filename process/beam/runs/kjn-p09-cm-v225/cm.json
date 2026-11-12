@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "caturaśīti",
-   "morph": "numeral",
-   "grounds": "numeral indicating the quantity eighty-four"
+   "morph": "numeral.compound-member",
+   "grounds": "numeral element forming a compound number with the following word"
   },
   {
    "lemma": "sahasreṣu",
    "morph": "n.loc.pl",
-   "grounds": "thousands; locative plural indicating location within"
+   "grounds": "locative plural indicating the quantity within which torment occurs"
   },
   {
    "lemma": "yoniyantreṣu",
-   "morph": "compound: yoni+womb+first, yantra+mechanism+second; n.loc.pl",
-   "grounds": "compound of womb and mechanism/device; locative plural indicating location within"
+   "morph": "yoni+yantra.compound n.loc.pl",
+   "grounds": "compound of yoni (womb/source) and yantra (mechanism/device) in locative plural"
   },
   {
    "lemma": "pīḍitāḥ",
-   "morph": "m.nom.pl; ppp; root pīḍ",
-   "grounds": "afflicted or oppressed; past passive participle"
+   "morph": "m.nom.pl.ppp (√pīḍ)",
+   "grounds": "past passive participle describing beings subjected to affliction"
   }
  ]
 }
