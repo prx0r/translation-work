@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound=candra+first-member",
-   "grounds": "moon; first member of compound candra-dvīpa"
+   "morph": "compound:candra+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound=dvīpa+second-member",
-   "grounds": "island; second member of compound candra-dvīpa"
+   "morph": "compound:dvīpa+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg",
-   "grounds": "having emerged or issued forth"
+   "morph": "n.loc.sg",
+   "grounds": "having come forth from"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ninth in sequence"
+   "grounds": "ordinal number"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "chapter or section of the text"
+   "grounds": "section of the text"
   }
  ]
 }

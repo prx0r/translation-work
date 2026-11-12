@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+first-member",
-   "grounds": "continual; first member of compound satata-abhyāsa"
+   "morph": "compound:satata+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second-member",
-   "grounds": "repeated practice; second member of compound"
+   "morph": "compound:abhyāsa+second",
+   "grounds": "repeated exercise"
   },
   {
    "lemma": "yogena",
@@ -19,28 +19,28 @@
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+first-member",
-   "grounds": "two; first member of compound dvi-aṣṭa"
+   "morph": "compound:dvi+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+second-member",
-   "grounds": "eight; second member of compound dvi-aṣṭa"
+   "morph": "compound:aṣṭa+second",
+   "grounds": "times eight"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+first-member",
-   "grounds": "year; first member of compound varṣa-ākṛtiḥ"
+   "morph": "compound:varṣa+third",
+   "grounds": "age in years"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "appearance or bodily form"
+   "grounds": "bodily appearance"
   },
   {
    "lemma": "bhavet",
    "morph": "3.sg.optative-act √bhū",
-   "grounds": "may become or would be"
+   "grounds": "resulting state"
   }
  ]
 }

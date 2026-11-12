@@ -7,39 +7,38 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral form as given",
-     "morph": "indecl."
+     "grounds": "numeral, eighty-four",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "thousands",
-     "grounds": "locative plural of numeral as given",
-     "morph": "m.loc.pl"
+     "gloss": "in-thousands",
+     "grounds": "sahasra, thousand",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "womb-diagrams",
-     "grounds": "compound form as given, no split",
-     "morph": "n.loc.pl"
+     "gloss": "in-womb-mechanisms",
+     "grounds": "yoni+yantra, womb+mechanism",
+     "morph": "yoni+yantra#n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle form as given",
-     "morph": "m.nom.pl"
+     "grounds": "pīḍ, to press or torment",
+     "morph": "m.nom.pl.ppp#pīḍ"
     }
    ],
-   "question": "Under what constraint do beings endure torment within eighty-four thousand womb-diagrams?",
+   "question": "Across how many womb-mechanisms are beings subjected to torment?",
    "premises": [
-    "Beings fall within a count of eighty-four thousand womb-diagrams.",
-    "Those womb-diagrams form a bounded field of placement for embodied beings.",
-    "Placement within those womb-diagrams entails a state of torment for those beings."
+    "There are eighty-four thousand womb-mechanisms.",
+    "Beings are tormented within these womb-mechanisms."
    ],
-   "inference": "Beings counted in eighty-four thousand womb-diagrams are held in a tormented state by that placement.",
+   "inference": "Embodied existence entails torment across a vast multitude of womb-mechanisms.",
    "uncertainties": [
-    "The agent responsible for inflicting that torment remains unspecified."
+    "The subject of pīḍitāḥ is implied from the preceding context."
    ],
-   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }
