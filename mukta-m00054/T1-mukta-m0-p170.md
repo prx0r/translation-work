@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p170-v4226
-[directly](sākṣāt) [skilful](kuśala) [like-calf](vat) [good-indra-agni-brought](sat+indra+agni+nīta) [unconquered](uparājitaḥ)
+[directly](sākṣāt) [skilled](kuśala) [like-child](vat) [good-indra+agni+led](sadmendrāgnināta) [unconquered](uparājitaḥ)
 
 ## mukta-m0-p170-v4227
-[yaśodā-delighter](yaśodā+nandano) [nandin](nandī) [earth-circle-rising](dharaṇī+maṇḍala+udayaḥ)
+[yaśodā+delighter](yaśodānandano) [joyful](nandī) [earth+circle+rising](dharaṇīmaṇḍalodayaḥ)
 
 ## mukta-m0-p170-v4228
-[brahma-world-obtained](brahma+loka+āpta) [caṇḍāla-etc-all-beings-group-lord](cāṇḍāla+ādi+aśeṣa+prāṇi+sārtthapaḥ)
+[brahma-world+attained](brahmalokāpta) [caṇḍāla+etc](cāṇḍālādya) [all+beings](śeṣaprāṇi) [group+protector](sārtthapaḥ)
 
 ## mukta-m0-p170-v4229
-[rāma-without-second](rāma+advitīyaḥ) [sumitrā-son-lakṣmaṇa-slaying-indrajit](saumitri+lakṣmaṇa+prahata+indra+jit)
+[rāma+second](rāmādvitīyaḥ) [sumitrā-son](saumitrilakṣmaṇa) [slain+indra-jit](prahatendrajit)
 
 ## mukta-m0-p170-v4230
-[bharata](bharato) [unbearable-gandharva-million-slayer](asahya+gandharva+koṭi+ghno) [lavaṇa-destroyer](lavaṇa+antakaḥ)
+[bharata](bharato) [unbearable+gandharva](sahyagandharva) [million+slayer](koṭighno) [lavaṇa+destroyer](lavaṇāntakaḥ)
 
 ## mukta-m0-p170-v4231
-[eternal-non-eternal-maker](nitya+anitya+ākaro) [dhanvantari](dhanvantariḥ) [sacrifice](yajño) [world-bearer](jagat+dharaḥ)
+[eternal+non-eternal](nityānitya) [maker](ākaro) [dhanvantari](dhanvantarir) [sacrifice](yajño) [world+supporter](jagaddharaḥ)
 
 ## mukta-m0-p170-v4232
-[severed-head-instruction-seeking](chinna+mūrddha+upadeśa+ārta) [son-made-friendship](tanūja+kṛta+maitrikaḥ)
+[severed+head](chinnamūrddha) [instruction+for-sake](upadeśārta) [son+made+friendship](tanūjakṛtamaitrikaḥ)
 
 ## mukta-m0-p170-v4233
-[yoga-nature-meditation-breaking](yoga+ātmaka+dhyāna+bhaṅga) [sagara-sons-ash-maker](sagara+ātmaja+bhasma+kṛt)
+[yoga+natured](yogātmaka) [meditation+breaking](dhyānabhaṅga) [sagara+sons](sagarātmaja) [ash+maker](bhasmakṛt)
 
 ## mukta-m0-p170-v4234
-[śambhu-three-city-burning sole-firmness](śambhu+tri+pura+dāha+eka+sthairya) [viśvaratha-agitated](viśvaratha+uddhataḥ)
+[śambhu](śambhu) [three-city+burning](tripuradāha) [sole+steadiness](ekasthairyaviśva) [chariot+uplifted](rathoddhataḥ)
 
 ## mukta-m0-p170-v4235
-[vājapeya-etc-named-fire](vājapeya+ādi+nāma+agniḥ) [veda-dharma-devoted](veda+dharma+parāyaṇaḥ)
+[vājapeya+etc](vājapeyādi) [named+fire](nāmāgnir) [veda+dharma](vedadharma) [devoted](parāyaṇaḥ)
 
 ## mukta-m0-p170-v4236
-[universe-illuminated-meditation-yoga](viśva+prakāśita+dhyāna+yogo) [delusion-darkness-destroyer](moha+tamisra+hā)
+[universe+illuminated](viśvaprakāśita) [meditation+yoga](dhyānayogo) [delusion+darkness](mohotamisra) [remover](hā)
 
 ## mukta-m0-p170-v4237
-[great-dissolution-universe-one](mahā+pralaya+viśva+eko) [without-second-all-demon-king](advitīya+akhila+daitya+rāṭ)
+[great+dissolution](mahāpralaya) [universe+one](viśvaiko) [without-second](dvitīyo) [all+demons+king](khiladaityarāṭ)
 
 ## mukta-m0-p170-v4238
-[serpent-serpent-hood-form](phaṇī+phaṇi+phaṇā+ākāra) [placed-water-earth](yojita+abhyambuda+kṣitiḥ)
+[serpent+serpent](phaṇīphaṇi) [hood+form](phaṇākāra) [placed+water+earth](yojitābhyambudakṣitiḥ)
 
 ## mukta-m0-p170-v4239
-[blue-garment](nīla+ambaro) [varuṇa-lord](vāruṇī+śo) [mind-speech-body-fault-remover](manaḥ+vāk+kāya+doṣa+hā)
+[blue+garment](nīlāmbaro) [varuṇa+lord](vāruṇīśo) [mind+speech+body](manovākkāya) [fault+remover](doṣahā)
 
 ## mukta-m0-p170-v4240
-[bali-restraining](bali+sa/yyamano) [terrible](ghoro) [rohiṇī-son](rauhiṇeyaḥ) [pralamba-slayer](pralamba+hā)
+[page](p.) [576)](576)) [bali+restraining](balisa/yyamano) [terrible](ghoro) [rohiṇī-son](rauhiṇeyaḥ) [pralamba+slayer](pralambahā)
 
 ## mukta-m0-p170-v4241
-[revatī-lover](revatī+ramaṇaḥ) [ancient-devotion-indeed](pūrva+bhaktiḥ+eva) [acyuta-elder-brother](acyuta+agrajaḥ)
+[revatī+lover](revatīramaṇaḥ) [ancient+devotion](pūrvabhaktir) [indeed](evā) [acyuta+elder-brother](cyutāgrajaḥ)
 
 ## mukta-m0-p170-v4242
-[vṛṣṇi-descendant](vārṣṇeyaḥ) [sātvata-best](sātvatāṃ+śreṣṭhaḥ) [śūra-descendant](śauriḥ) [yadu-line-bearer](yadu+kula+udvahaḥ)
+[vṛṣṇi-descendant](vārṣṇeyaḥ) [sātvatas+best](sātvatāṃśreṣṭhaḥ) [śūra-descendant](śaurir) [yadu+family+bearer](yadukulodvahaḥ)
 
 ## mukta-m0-p170-v4243
-[brahmā-etc-desired-eternal-world-festival-childhood](brahma+ādi+kāmana+nitya+jagat+parveta+śaiśavaḥ)
+[brahmā+etc](brahmādi) [desired+eternal](kāmanānitya) [world+festival](jagatparveta) [childhood](śaiśavaḥ)
 
 ## mukta-m0-p170-v4244
-[vatsa-demon-enemy](vatsa+asura+ariḥ) [keśin-slayer](keśi+ghno) [dhenuka-enemy](dhenuka+ariḥ) [cattle-lord](gavī+īśvaraḥ)
+[vatsa-demon+enemy](vatsāsurāriḥ) [keśin+slayer](keśighno) [dhenuka+enemy](dhenukārir) [cows+lord](ggavīśvaraḥ)
 
 ## mukta-m0-p170-v4245
-[kālīya-subduer](kālīya+marddanaḥ) [all-cowherd-cowherdess-people-dear](sarva+gopa+gopī+jana+priyaḥ)
+[kālīya+subduer](kālīyamarddanaḥ) [all+cowherd+cowherdess](sarvagopagopī) [people+beloved](janapriyaḥ)
 
 ## mukta-m0-p170-v4246
-[ariṣṭa-crusher](ariṣṭa+mathanaḥ) [love-maddened-cowherdesses-liberation-giver](kāma+unmatta+gopī+vimukti+daḥ)
+[ariṣṭa+crusher](ariṣṭamathanaḥ) [love+maddened](kāmonmatta) [cowherdesses+liberation+giver](gopīvimuktidaḥ)
 
 ## mukta-m0-p170-v4247
-[kaṃsa-enemy](kaṃsa+ariḥ) [ugrasena-etc-kingdom-establishing](ugrasena+ādi+rājya+sthāpya) [enemy-slayer](ari+hā) [immortal](amaraḥ)
+[kaṃsa+enemy](kaṃsārir) [ugrasena+etc](ugrasenādi) [kingdom+establisher](rājyasthāpy) [enemy+destroyer](arihā) [immortal](maraḥ)
 
 ## mukta-m0-p170-v4248
-[abandoned-devotee-jarāsandha](tyakta+bhakta+jarāsandha) [bhīmasena-fame-giver](bhīmasena+yaśaḥ+pradaḥ)
+[abandoned+devotee](tyaktabhakta) [jarāsandha](jarāsandha) [bhīmasena+fame+giver](bhīmasenayaśaḥpradaḥ)
 
 ## mukta-m0-p170-v4249
-[rukmiṇī-lover](rukmiṇī+ramaṇo) [rukmin-punisher](rukmi+śāsano) [naraka-destroyer](naraka+anta+kṛt)
+[rukmiṇī+lover](rukmiṇīramaṇo) [rukmin+chastiser](rukmiśāsano) [naraka+destroyer](narakāntakṛt)
 
 ## mukta-m0-p170-v4250
-[all-beautiful-women-beloved](samasta+sundarī+kānto) [demon-enemy](asura+ariḥ) [garuḍa-bannered](garuḍa+dhvajaḥ)
+[all+beautiful-women](samastasundarī) [beloved](kānto) [demons+enemy](surārir) [garuḍa+bannered](ggaruḍadhvajaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p171-v4251
-[indra-lord-pride-destroyer](devendra-darpa-hā) [wish-tree-adorned-earth](kalpadruma-alaṃkṛta-bhūtalaḥ)
+destroyer-of-Indra's-pride(devendradarpahā) earth-adorned-with-wish-fulfilling-trees(kalpadrumālaṃkṛtabhūtalaḥ)
 
 ## mukta-m0-p171-v4252
-[sport-conquered-great-god](līlā-jita-mahādevaḥ) [great-god-alone-worshipped](mahādeva-eka-pūjitaḥ)
+conqueror-of-Mahādeva-in-sport(līlājitamahādevaḥ) worshipped-only-by-Mahādeva(mahādevaikapūjitaḥ)
 
 ## mukta-m0-p171-v4253
-[kāśī-king-head-cutter](kāśīrāja-śiraś-chettā) [rudra-power-alone-crusher](rudra-śakti-eka-marddanaḥ)
+beheader-of-the-head-of-the-king-of-Kāśī(kāśīrājaśiraśchettā) sole-crusher-of-Rudra's-power(rudraśaktyekamarddanaḥ)
 
 ## mukta-m0-p171-v4254
-[śambhu-vow-feller](śambhu-pratijñā-pātā) [and](ca) [self-born-host-worshipper](svayambhū-gaṇa-pūjakaḥ)
+feller-of-Śambhu's-vow(śambhupratijñāpātā) and(ca) worshipper-of-the-hosts-of-the-self-born(svayambhūgaṇapūjakaḥ)
 
 ## mukta-m0-p171-v4255
-[śiva-severe-vow-austerity-subdued](śiva-tīvra-tapo-vaśyaḥ) [formerly-śiva-boon-giver](purā-śiva-vara-pradaḥ)
+subdued-by-Śiva's-severe-austerities-and-vows(śivatīvratapovaśyaḥ) formerly-granter-of-boons-to-Śiva(purāśivavarapradaḥ)
 
 ## mukta-m0-p171-v4256
-[śiva-daughter-vow-lord](śivakanyā-vrata-patiḥ) [kṛṣṇa-form](kṛṣṇa-rūpaḥ) [śiva-enemy-slayer](śiva-ari-hā)
+lord-of-the-vow-of-Śiva's-daughter(śivakanyāvratapatiḥ) of-dark-form(kṛṣṇarūpaḥ) slayer-of-Śiva's-enemy(śivārihā)
 
 ## mukta-m0-p171-v4257
-[sleepless-mucukunda-sole-brahma-weapon-youth-destroyer-taker](vinidra-mucukunda-eka-brahmāstra-yuvanāśva-hṛt)
+destroyer-of-the-youths-by-the-sole-brahmā-weapon-of-the-awakened-Mucukunda(vinidramucukundaikabrahmāstrayuvanāśvahṛt)
 
 ## mukta-m0-p171-v4258
-[with-children-women-water-sport-nectar-well-made-ocean](sa-bāla-strī-jala-krīḍā-amṛta-vāpī-kṛta-arṇavaḥ)
+maker-of-the-ocean-into-a-nectar-lake-for-water-sports-with-children-and-women(sabālastrījalakrīḍāmṛtavāpīkṛtārṇavaḥ)
 
 ## mukta-m0-p171-v4259
-[śrīdāman-śaṅku-devotee-distress-earth-brought-indra-bhairava](śrīdāma-śaṅku-bhakta-ārttha-bhūmi-ānīta-indra-bhairavaḥ)
+bringer-of-Indra-and-Bhairava-to-the-land-for-the-sake-of-the-devotees-Śrīdāman-and-Śaṅku(śrīdāmaśaṅkubhaktārtthabhūmyānītendrabhairavaḥ)
 
 ## mukta-m0-p171-v4260
-[down-to-caṇḍāla-etc-unattainable-dvārakā-treasure-crore-maker](ā-cāṇḍāla-ādikam-prāpya-dvārakā-nidhi-koṭi-kṛt)
+maker-of-millions-of-treasures-in-Dvārakā-accessible-even-to-caṇḍālas-and-others(ācāṇḍālādikamprāpyadvārakānidhikoṭikṛt)
 
 ## mukta-m0-p171-v4261
-[married-brāhmaṇa-daughter-leader-arjuna-pride-remover](pariṇīta-dvija-sutā-netā-arjjuna-mada-apahaḥ)
+marrier-of-the-brāhmaṇa's-daughters(pariṇītadvijasutā) remover-of-Arjuna's-pride(netārjjunamadāpahaḥ)
 
 ## mukta-m0-p171-v4262
-[pārtha-sake-shattered-all-divine-weapons](pārttha-arttha-khaṇḍita-aśeṣa-divya-astraḥ) [pārtha-delusion-bearer](pārttha-moha-bhṛt)
+shatterer-of-all-divine-weapons-for-Arjuna's-sake(pārtthārtthakhaṇḍitāśeṣadivyāstraḥ) bearer-of-delusion-to-Arjuna(pārtthamohabhṛt)
 
 ## mukta-m0-p171-v4263
-[bodiless](anaṅgaḥ) [conquered-gaurī-lord](jita-gaurīśaḥ) [rati-beloved](rati-kāntaḥ) [ever-desired](sada-īpsitaḥ)
+bodiless-one(anaṅgaḥ) conqueror-of-the-lord-of-Gaurī(jitagaurīśaḥ) beloved-of-Rati(ratikāntaḥ) ever-desired(sadepsitaḥ)
 
 ## mukta-m0-p171-v4264
-[uṣā-husband](uṣā-patiḥ) [universe-cause](viśva-hetuḥ) [universe-satisfied](viśva-tṛptaḥ) [supreme-person](adhi-pūruṣaḥ)
+husband-of-Uṣā(uṣāpatiḥ) cause-of-the-universe(viśvahetuḥ) satisfied-with-the-universe(viśvatṛptaḥ) supreme-person(adhipūruṣaḥ)
 
 ## mukta-m0-p171-v4265
-[four-universes-one-universe-soul](catur-viśva-eka-viśva-ātmā) [among-all-excellent-beings-crore](sarva-utkṛṣṭa-asu-koṭiṣu)
+soul-of-the-one-universe-among-the-twenty-four-universes(caturviśvaikaviśvātmā) most-excellent-among-millions-of-beings(sarvotkṛṣṭāsukoṭiṣu)
 
 ## mukta-m0-p171-v4266
-[mahābhārata-maker](mahābhārata-nirmātā) [poet-lord](kavi-indraḥ) [bādarāyaṇa](bādarāyaṇaḥ)
+composer-of-the-Mahābhārata(mahābhāratanirmātā) lord-of-poets(kavīndraḥ) Bādarāyaṇa(bādarāyaṇaḥ)
 
 ## mukta-m0-p171-v4267
-[vedānta-author](vedānta-karttā) [brahman-one-manifester](brahma-eka-vyañjakaḥ) [puru-lineage-maker](puru-vaṃśa-kṛt)
+author-of-the-Vedānta(vedāntakarttā) sole-manifester-of-Brahman(brahmekavyañjakaḥ) founder-of-the-lineage-of-Puru(puruvaṃśakṛt)
 
 ## mukta-m0-p171-v4268
-[weaponless](nirāyudhaḥ) [world-conqueror](jagat-jaitraḥ) [śrī-wealth-possessor](śrī-dhanaḥ) [wicked-deluder](duṣṭa-mohanaḥ)
+weaponless(nirāyudhaḥ) conqueror-of-the-world(jagajjaitraḥ) possessor-of-fortune(śrīdhanaḥ) deluder-of-the-wicked(duṣṭamohanaḥ)
 
 ## mukta-m0-p171-v4269
-[śuddhodana-destroyed-fate](śuddhodaniḥ-nnaṣṭa-diṣṭaḥ) [happiness-giver](sukha-daḥ) [being-nonbeing-lord](sat-asat-patiḥ)
+destroyer-of-the-fate-of-Śuddhodana(śuddhodanirnnaṣṭadiṣṭaḥ) giver-of-happiness(sukhadaḥ) lord-of-the-real-and-unreal(sadasatpatiḥ)
 
 ## mukta-m0-p171-v4270
-[four-crore-distinct-principles](catuṣ-koṭi-pṛthak-tattvaṃ) [perfection-of-wisdom-lord](prajñā-pāramitā-īśvaraḥ)
+lord-of-the-Perfection-of-Wisdom(catuṣkoṭipṛthaktattvaṃ+prajñāpāramiteśvaraḥ)
 
 ## mukta-m0-p171-v4271
-[kalkī](kalkī) [viṣṇuyaśas-son](viṣṇuyaśaḥ-putraḥ) [kali-age-destroyer](kali-kāla-vilopakaḥ)
+Kalki(kalkī) son-of-Viṣṇuyaśas(viṣṇuyaśaḥ+putraḥ) destroyer-of-the-Kali-age(kalikālavilopakaḥ)
 
 ## mukta-m0-p171-v4272
-[truth-establishing](satya-pravarttakaḥ) [god-brāhmaṇa-long-hunger-remover](deva-dvija-dīrggha-kṣudhā-apahaḥ)
+establisher-of-truth(satyapravarttakaḥ) remover-of-the-long-hunger-of-gods-and-brāhmaṇas(devadvijadīrgghakṣudhāpahaḥ)
 
 ## mukta-m0-p171-v4273
-[immediately-earth-endless-prosperity-maker](sadyaḥ-kṣmā-ananta-lakṣmī-kṛt) [destroyed-entire-dharma-restorer](naṣṭa-niḥśeṣa-dharma-kṛt)
+immediately-maker-of-the-earth-endowed-with-infinite-prosperity(sadyaḥkṣmānantalakṣmīkṛt) destroyer-of-all-dharma-that-has-perished(naṣṭaniḥśeṣadharmakṛt)
 
 ## mukta-m0-p171-v4274
-[unachievable-sole-world-teacher](asādhya-eka-jagat-śāstā) [universe-adored](viśva-vandyaḥ) [victory-banner](jaya-dhvajaḥ)
+sole-unconquerable-ruler-of-the-world(asādhyaikajagacchāstā) revered-by-the-universe(viśvavandyaḥ) banner-of-victory(jayadhvajaḥ)
 
 ## mukta-m0-p171-v4275
-[of-husband-best](bharttuḥ-śreṣṭhaḥ) [of-progenitors-foremost](prajā-īśa-agryaḥ) [of-marīci-born-chief](marīci-janaka-agraṇīḥ)
+best-of-husbands(bharttuḥśreṣṭhaḥ) foremost-lord-of-progeny(prajeśāgryaḥ) chief-progenitor-of-Marīci(marīcijanakāgraṇīḥ)

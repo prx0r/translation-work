@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "What qualification must a previously accomplished recipient meet before a certain gift is to be given to him?",
+ "question": "To what kind of recipient may this teaching rightly be given?",
  "premises": [
-  "A gift is prescribed as something to be given.",
-  "The intended recipient is one who has been previously accomplished.",
-  "That recipient must have been tested for the course of one year."
+  "The teaching may be given",
+  "The recipient should be previously accomplished",
+  "The recipient must be tested for one year"
  ],
- "inference": "The gift is to be given only to a previously accomplished person who has passed a one-year test.",
- "uncertainties": [
-  "The nature of the gift itself is not specified in this verse."
- ],
- "plain_english": "What is to be given should go to one who was previously accomplished and has been tested for one year."
+ "inference": "Therefore the teaching should be given only to a previously accomplished person tested for one year.",
+ "uncertainties": [],
+ "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
 }

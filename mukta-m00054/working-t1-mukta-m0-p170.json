@@ -12,15 +12,15 @@
 },
 {
 "surface": "kuśala",
-"quick_gloss": "skilful"
+"quick_gloss": "skilled"
 },
 {
 "surface": "vat",
-"quick_gloss": "like-calf"
+"quick_gloss": "like-child"
 },
 {
-"surface": "sat+indra+agni+nīta",
-"quick_gloss": "good-indra-agni-brought"
+"surface": "sadmendrāgnināta",
+"quick_gloss": "good-indra+agni+led"
 },
 {
 "surface": "uparājitaḥ",
@@ -36,16 +36,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaśodā+nandano",
-"quick_gloss": "yaśodā-delighter"
+"surface": "yaśodānandano",
+"quick_gloss": "yaśodā+delighter"
 },
 {
 "surface": "nandī",
-"quick_gloss": "nandin"
+"quick_gloss": "joyful"
 },
 {
-"surface": "dharaṇī+maṇḍala+udayaḥ",
-"quick_gloss": "earth-circle-rising"
+"surface": "dharaṇīmaṇḍalodayaḥ",
+"quick_gloss": "earth+circle+rising"
 }
 ]
 },
@@ -57,12 +57,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma+loka+āpta",
-"quick_gloss": "brahma-world-obtained"
+"surface": "brahmalokāpta",
+"quick_gloss": "brahma-world+attained"
 },
 {
-"surface": "cāṇḍāla+ādi+aśeṣa+prāṇi+sārtthapaḥ",
-"quick_gloss": "caṇḍāla-etc-all-beings-group-lord"
+"surface": "cāṇḍālādya",
+"quick_gloss": "caṇḍāla+etc"
+},
+{
+"surface": "śeṣaprāṇi",
+"quick_gloss": "all+beings"
+},
+{
+"surface": "sārtthapaḥ",
+"quick_gloss": "group+protector"
 }
 ]
 },
@@ -74,12 +82,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rāma+advitīyaḥ",
-"quick_gloss": "rāma-without-second"
+"surface": "rāmādvitīyaḥ",
+"quick_gloss": "rāma+second"
 },
 {
-"surface": "saumitri+lakṣmaṇa+prahata+indra+jit",
-"quick_gloss": "sumitrā-son-lakṣmaṇa-slaying-indrajit"
+"surface": "saumitrilakṣmaṇa",
+"quick_gloss": "sumitrā-son"
+},
+{
+"surface": "prahatendrajit",
+"quick_gloss": "slain+indra-jit"
 }
 ]
 },
@@ -95,12 +107,16 @@
 "quick_gloss": "bharata"
 },
 {
-"surface": "asahya+gandharva+koṭi+ghno",
-"quick_gloss": "unbearable-gandharva-million-slayer"
+"surface": "sahyagandharva",
+"quick_gloss": "unbearable+gandharva"
 },
 {
-"surface": "lavaṇa+antakaḥ",
-"quick_gloss": "lavaṇa-destroyer"
+"surface": "koṭighno",
+"quick_gloss": "million+slayer"
+},
+{
+"surface": "lavaṇāntakaḥ",
+"quick_gloss": "lavaṇa+destroyer"
 }
 ]
 },
@@ -112,11 +128,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nitya+anitya+ākaro",
-"quick_gloss": "eternal-non-eternal-maker"
+"surface": "nityānitya",
+"quick_gloss": "eternal+non-eternal"
 },
 {
-"surface": "dhanvantariḥ",
+"surface": "ākaro",
+"quick_gloss": "maker"
+},
+{
+"surface": "dhanvantarir",
 "quick_gloss": "dhanvantari"
 },
 {
@@ -124,8 +144,8 @@
 "quick_gloss": "sacrifice"
 },
 {
-"surface": "jagat+dharaḥ",
-"quick_gloss": "world-bearer"
+"surface": "jagaddharaḥ",
+"quick_gloss": "world+supporter"
 }
 ]
 },
@@ -137,12 +157,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "chinna+mūrddha+upadeśa+ārta",
-"quick_gloss": "severed-head-instruction-seeking"
+"surface": "chinnamūrddha",
+"quick_gloss": "severed+head"
 },
 {
-"surface": "tanūja+kṛta+maitrikaḥ",
-"quick_gloss": "son-made-friendship"
+"surface": "upadeśārta",
+"quick_gloss": "instruction+for-sake"
+},
+{
+"surface": "tanūjakṛtamaitrikaḥ",
+"quick_gloss": "son+made+friendship"
 }
 ]
 },
@@ -154,12 +178,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yoga+ātmaka+dhyāna+bhaṅga",
-"quick_gloss": "yoga-nature-meditation-breaking"
+"surface": "yogātmaka",
+"quick_gloss": "yoga+natured"
 },
 {
-"surface": "sagara+ātmaja+bhasma+kṛt",
-"quick_gloss": "sagara-sons-ash-maker"
+"surface": "dhyānabhaṅga",
+"quick_gloss": "meditation+breaking"
+},
+{
+"surface": "sagarātmaja",
+"quick_gloss": "sagara+sons"
+},
+{
+"surface": "bhasmakṛt",
+"quick_gloss": "ash+maker"
 }
 ]
 },
@@ -171,12 +203,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śambhu+tri+pura+dāha+eka+sthairya",
-"quick_gloss": "śambhu-three-city-burning sole-firmness"
+"surface": "śambhu",
+"quick_gloss": "śambhu"
 },
 {
-"surface": "viśvaratha+uddhataḥ",
-"quick_gloss": "viśvaratha-agitated"
+"surface": "tripuradāha",
+"quick_gloss": "three-city+burning"
+},
+{
+"surface": "ekasthairyaviśva",
+"quick_gloss": "sole+steadiness"
+},
+{
+"surface": "rathoddhataḥ",
+"quick_gloss": "chariot+uplifted"
 }
 ]
 },
@@ -188,12 +228,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vājapeya+ādi+nāma+agniḥ",
-"quick_gloss": "vājapeya-etc-named-fire"
+"surface": "vājapeyādi",
+"quick_gloss": "vājapeya+etc"
 },
 {
-"surface": "veda+dharma+parāyaṇaḥ",
-"quick_gloss": "veda-dharma-devoted"
+"surface": "nāmāgnir",
+"quick_gloss": "named+fire"
+},
+{
+"surface": "vedadharma",
+"quick_gloss": "veda+dharma"
+},
+{
+"surface": "parāyaṇaḥ",
+"quick_gloss": "devoted"
 }
 ]
 },
@@ -205,12 +253,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśva+prakāśita+dhyāna+yogo",
-"quick_gloss": "universe-illuminated-meditation-yoga"
+"surface": "viśvaprakāśita",
+"quick_gloss": "universe+illuminated"
 },
 {
-"surface": "moha+tamisra+hā",
-"quick_gloss": "delusion-darkness-destroyer"
+"surface": "dhyānayogo",
+"quick_gloss": "meditation+yoga"
+},
+{
+"surface": "mohotamisra",
+"quick_gloss": "delusion+darkness"
+},
+{
+"surface": "hā",
+"quick_gloss": "remover"
 }
 ]
 },
@@ -222,12 +278,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+pralaya+viśva+eko",
-"quick_gloss": "great-dissolution-universe-one"
+"surface": "mahāpralaya",
+"quick_gloss": "great+dissolution"
 },
 {
-"surface": "advitīya+akhila+daitya+rāṭ",
-"quick_gloss": "without-second-all-demon-king"
+"surface": "viśvaiko",
+"quick_gloss": "universe+one"
+},
+{
+"surface": "dvitīyo",
+"quick_gloss": "without-second"
+},
+{
+"surface": "khiladaityarāṭ",
+"quick_gloss": "all+demons+king"
 }
 ]
 },
@@ -239,12 +303,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "phaṇī+phaṇi+phaṇā+ākāra",
-"quick_gloss": "serpent-serpent-hood-form"
+"surface": "phaṇīphaṇi",
+"quick_gloss": "serpent+serpent"
 },
 {
-"surface": "yojita+abhyambuda+kṣitiḥ",
-"quick_gloss": "placed-water-earth"
+"surface": "phaṇākāra",
+"quick_gloss": "hood+form"
+},
+{
+"surface": "yojitābhyambudakṣitiḥ",
+"quick_gloss": "placed+water+earth"
 }
 ]
 },
@@ -256,16 +324,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nīla+ambaro",
-"quick_gloss": "blue-garment"
+"surface": "nīlāmbaro",
+"quick_gloss": "blue+garment"
 },
 {
-"surface": "vāruṇī+śo",
-"quick_gloss": "varuṇa-lord"
+"surface": "vāruṇīśo",
+"quick_gloss": "varuṇa+lord"
 },
 {
-"surface": "manaḥ+vāk+kāya+doṣa+hā",
-"quick_gloss": "mind-speech-body-fault-remover"
+"surface": "manovākkāya",
+"quick_gloss": "mind+speech+body"
+},
+{
+"surface": "doṣahā",
+"quick_gloss": "fault+remover"
 }
 ]
 },
@@ -277,8 +349,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bali+sa/yyamano",
-"quick_gloss": "bali-restraining"
+"surface": "p.",
+"quick_gloss": "page"
+},
+{
+"surface": "576",
+"quick_gloss": "576)"
+},
+{
+"surface": "balisa/yyamano",
+"quick_gloss": "bali+restraining"
 },
 {
 "surface": "ghoro",
@@ -289,8 +369,8 @@
 "quick_gloss": "rohiṇī-son"
 },
 {
-"surface": "pralamba+hā",
-"quick_gloss": "pralamba-slayer"
+"surface": "pralambahā",
+"quick_gloss": "pralamba+slayer"
 }
 ]
 },
@@ -302,16 +382,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "revatī+ramaṇaḥ",
-"quick_gloss": "revatī-lover"
+"surface": "revatīramaṇaḥ",
+"quick_gloss": "revatī+lover"
 },
 {
-"surface": "pūrva+bhaktiḥ+eva",
-"quick_gloss": "ancient-devotion-indeed"
+"surface": "pūrvabhaktir",
+"quick_gloss": "ancient+devotion"
 },
 {
-"surface": "acyuta+agrajaḥ",
-"quick_gloss": "acyuta-elder-brother"
+"surface": "evā",
+"quick_gloss": "indeed"
+},
+{
+"surface": "cyutāgrajaḥ",
+"quick_gloss": "acyuta+elder-brother"
 }
 ]
 },
@@ -327,16 +411,16 @@
 "quick_gloss": "vṛṣṇi-descendant"
 },
 {
-"surface": "sātvatāṃ+śreṣṭhaḥ",
-"quick_gloss": "sātvata-best"
+"surface": "sātvatāṃśreṣṭhaḥ",
+"quick_gloss": "sātvatas+best"
 },
 {
-"surface": "śauriḥ",
+"surface": "śaurir",
 "quick_gloss": "śūra-descendant"
 },
 {
-"surface": "yadu+kula+udvahaḥ",
-"quick_gloss": "yadu-line-bearer"
+"surface": "yadukulodvahaḥ",
+"quick_gloss": "yadu+family+bearer"
 }
 ]
 },
@@ -348,8 +432,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma+ādi+kāmana+nitya+jagat+parveta+śaiśavaḥ",
-"quick_gloss": "brahmā-etc-desired-eternal-world-festival-childhood"
+"surface": "brahmādi",
+"quick_gloss": "brahmā+etc"
+},
+{
+"surface": "kāmanānitya",
+"quick_gloss": "desired+eternal"
+},
+{
+"surface": "jagatparveta",
+"quick_gloss": "world+festival"
+},
+{
+"surface": "śaiśavaḥ",
+"quick_gloss": "childhood"
 }
 ]
 },
@@ -361,20 +457,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vatsa+asura+ariḥ",
-"quick_gloss": "vatsa-demon-enemy"
+"surface": "vatsāsurāriḥ",
+"quick_gloss": "vatsa-demon+enemy"
 },
 {
-"surface": "keśi+ghno",
-"quick_gloss": "keśin-slayer"
+"surface": "keśighno",
+"quick_gloss": "keśin+slayer"
 },
 {
-"surface": "dhenuka+ariḥ",
-"quick_gloss": "dhenuka-enemy"
+"surface": "dhenukārir",
+"quick_gloss": "dhenuka+enemy"
 },
 {
-"surface": "gavī+īśvaraḥ",
-"quick_gloss": "cattle-lord"
+"surface": "ggavīśvaraḥ",
+"quick_gloss": "cows+lord"
 }
 ]
 },
@@ -386,12 +482,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kālīya+marddanaḥ",
-"quick_gloss": "kālīya-subduer"
+"surface": "kālīyamarddanaḥ",
+"quick_gloss": "kālīya+subduer"
 },
 {
-"surface": "sarva+gopa+gopī+jana+priyaḥ",
-"quick_gloss": "all-cowherd-cowherdess-people-dear"
+"surface": "sarvagopagopī",
+"quick_gloss": "all+cowherd+cowherdess"
+},
+{
+"surface": "janapriyaḥ",
+"quick_gloss": "people+beloved"
 }
 ]
 },
@@ -403,12 +503,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ariṣṭa+mathanaḥ",
-"quick_gloss": "ariṣṭa-crusher"
+"surface": "ariṣṭamathanaḥ",
+"quick_gloss": "ariṣṭa+crusher"
 },
 {
-"surface": "kāma+unmatta+gopī+vimukti+daḥ",
-"quick_gloss": "love-maddened-cowherdesses-liberation-giver"
+"surface": "kāmonmatta",
+"quick_gloss": "love+maddened"
+},
+{
+"surface": "gopīvimuktidaḥ",
+"quick_gloss": "cowherdesses+liberation+giver"
 }
 ]
 },
@@ -420,19 +524,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kaṃsa+ariḥ",
-"quick_gloss": "kaṃsa-enemy"
+"surface": "kaṃsārir",
+"quick_gloss": "kaṃsa+enemy"
 },
 {
-"surface": "ugrasena+ādi+rājya+sthāpya",
-"quick_gloss": "ugrasena-etc-kingdom-establishing"
+"surface": "ugrasenādi",
+"quick_gloss": "ugrasena+etc"
 },
 {
-"surface": "ari+hā",
-"quick_gloss": "enemy-slayer"
+"surface": "rājyasthāpy",
+"quick_gloss": "kingdom+establisher"
 },
 {
-"surface": "amaraḥ",
+"surface": "arihā",
+"quick_gloss": "enemy+destroyer"
+},
+{
+"surface": "maraḥ",
 "quick_gloss": "immortal"
 }
 ]
@@ -445,12 +553,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tyakta+bhakta+jarāsandha",
-"quick_gloss": "abandoned-devotee-jarāsandha"
+"surface": "tyaktabhakta",
+"quick_gloss": "abandoned+devotee"
 },
 {
-"surface": "bhīmasena+yaśaḥ+pradaḥ",
-"quick_gloss": "bhīmasena-fame-giver"
+"surface": "jarāsandha",
+"quick_gloss": "jarāsandha"
+},
+{
+"surface": "bhīmasenayaśaḥpradaḥ",
+"quick_gloss": "bhīmasena+fame+giver"
 }
 ]
 },
@@ -462,16 +574,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rukmiṇī+ramaṇo",
-"quick_gloss": "rukmiṇī-lover"
+"surface": "rukmiṇīramaṇo",
+"quick_gloss": "rukmiṇī+lover"
 },
 {
-"surface": "rukmi+śāsano",
-"quick_gloss": "rukmin-punisher"
+"surface": "rukmiśāsano",
+"quick_gloss": "rukmin+chastiser"
 },
 {
-"surface": "naraka+anta+kṛt",
-"quick_gloss": "naraka-destroyer"
+"surface": "narakāntakṛt",
+"quick_gloss": "naraka+destroyer"
 }
 ]
 },
@@ -483,16 +595,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samasta+sundarī+kānto",
-"quick_gloss": "all-beautiful-women-beloved"
+"surface": "samastasundarī",
+"quick_gloss": "all+beautiful-women"
 },
 {
-"surface": "asura+ariḥ",
-"quick_gloss": "demon-enemy"
+"surface": "kānto",
+"quick_gloss": "beloved"
 },
 {
-"surface": "garuḍa+dhvajaḥ",
-"quick_gloss": "garuḍa-bannered"
+"surface": "surārir",
+"quick_gloss": "demons+enemy"
+},
+{
+"surface": "ggaruḍadhvajaḥ",
+"quick_gloss": "garuḍa+bannered"
 }
 ]
 }

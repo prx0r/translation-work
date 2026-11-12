@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p172-v4276
-[moon-lord](nakṣatreśaḥ) [sun](raviḥ) [splendor](tejaḥ) [best](śreṣṭhaḥ) [śukra](śukraḥ) [poet-lord](kavi+īśvaraḥ)
+[nakṣatra-lord](nakṣatreśo) [sun](ravi-) [splendor](-tejaḥ) [best](śreṣṭhaḥ) [Venus](śukraḥ) [poet-lord](kavīśvaraḥ)
 
 ## mukta-m0-p172-v4277
-[wind](vāyuḥ) [fire](vahniḥ) [pure](śuciḥ) [best](śreṣṭhaḥ) [śaṅkara](śaṅkaraḥ) [rudra-king-guru](rudra+rāṭ+guruḥ)
+[wind](vāyur) [fire](vahniḥ) [pure](śuciḥ) [best](śreṣṭhaḥ) [Śaṅkara](śaṅkaro) [Rudra-king](rudrarāḍ) [guru](guruḥ)
 
 ## mukta-m0-p172-v4278
-[syllable-beginning](varṇa+ādiḥ) [foremost-weapon](agrya+astrī) [gaurī-power-foremost-fortune](gaurī+śakti+agryā+śrīḥ) [and](ca) [nārada](nāradaḥ)
+[color-beginning](varṇādir) [foremost](agryā) [woman](strī) [Gaurī](gaurī) [Śakti-foremost](śaktyagryā) [Śrī](śrīś) [ca](ca) [Nāradaḥ](nāradaḥ)
 
 ## mukta-m0-p172-v4279
-[purifier](pavanaḥ) [wind-lord](pavana+īśānaḥ) [varuṇa](varuṇaḥ) [aquatic-beings-lord](yādasām+patiḥ)
+[wind](pavanaḥ) [wind-lord](pavaneśāno) [Varuṇa](varuṇo) [water-beings-lord](yādasāmpatiḥ)
 
 ## mukta-m0-p172-v4280
-[food](annaṃ) [sudarśana-weapon-foremost](sudarśśana+astra+agryaḥ) [thunderbolt-weapon-best](vajra+praharaṇa+uttamam)
+[food](annaṃ) [Sudarśana-weapon-foremost](sudarśśanāstrāgryo) [thunderbolt-wielder-best](vajrapraharaṇottamam)
 
 ## mukta-m0-p172-v4281
-[arundhatī-sole-husband-lord](arundhatī+eka+patnī+īśaḥ) [indeed](hi) [aśvattha](aśvatthaḥ) [all-trees-king](aśeṣa+vṛkṣa+rāṭ)
+[Arundhatī](arundhaty) [one-wife-lord](ekapatnīśo) [hi](hya) [aśvattha-tree](aśvattho') [all-trees-king](aśeṣavṛkṣarāṭ)
 
 ## mukta-m0-p172-v4282
-[meru](meruḥ) [mountain-lord](giri+patiḥ) [path](mārgaḥ) [sāman-foremost](sāma+agryaḥ) [time-best](kāla+sattamaḥ)
+[Meru](merur) [mountain-lord](giripatir) [path](mārgo) [Sāma-foremost](sāmāgryaḥ) [time-best](kālasattamaḥ)
 
 ## mukta-m0-p172-v4283
-[garuḍa](tārkṣyaḥ) [bird-king](khaga+indraḥ) [season-foremost](ṛtu+agryaḥ) [spring](vasantaḥ) [wish-fulfilling-tree](kalpa+pādapaḥ)
+[Tārkṣya](tārkṣyaḥ) [bird-king](khagendra) [priest-foremost](ṛtvagryo) [spring](vasantaḥ) [kalpa-tree](kalpapādapaḥ)
 
 ## mukta-m0-p172-v4284
-[wish-fulfilling-gem](cintāmaṇiḥ) [teacher-best](guru+śreṣṭhaḥ) [mother](mātā) [most-beneficial](ahita+tamaḥ) [father](pitā)
+[cintāmaṇi](cintāmaṇir) [guru-best](guruśreṣṭho) [mother-most-beneficial](mātāhitatamaḥ) [father](pitā)
 
 ## mukta-m0-p172-v4285
-[syllable-lord](varṇa+īśaḥ) [brāhmaṇa](brāhmaṇaḥ) [and](ca) [inner-organ-foremost](antaḥkaraṇa+agryan) [salutation](namaḥ) [salutation](namaḥ)
+[color-lord](varṇeśo) [brāhmaṇa](brāhmaṇaś) [ca](cāntaḥ) [inner-organ-foremost](karaṇāgryann) [obeisance](amo) [obeisance](namaḥ)
 
 ## mukta-m0-p172-v4286
-[all-offenses-destroying](sarva+aparādha+śamanam) [supreme-devotion-increasing](param+bhakti+vivarddhanam)
+[all-offenses-pacification](sarvāparādhaśamanam) [supreme-devotion-increaser](parambhaktivivarddhanam)
 
 ## mukta-m0-p172-v4287
-[viṣṇu-world-only-stairway](viṣṇu+loka+eka+sopānaṃ) [all-sorrows-destroying](sarva+duḥkha+vināśanam)
+[Viṣṇu-world-only-stair](viṣṇulokaikasopānaṃ) [all-sorrows-destruction](sarvaduḥkhavināśanam)
 
 ## mukta-m0-p172-v4288
-[desire-anger-etc-entire-mind-impurity-purifying](kāma+krodha+ādi+niśśeṣa+manaḥ+mala+viśodhanam)
+[desire-anger-etc-endless](kāmakrodhādiniśśeṣam) [faultless-purification](anomalaviśodhanam)
 
 ## mukta-m0-p172-v4289
-[all-beings](sarveṣām+prāṇinām) [quickly](āśu) [all-desired-fruit-giving](sarva+abhīṣṭa+phala+pradam)
+[all-beings](sarveṣām) [living-beings](prāṇinām) [swiftly](āśu) [all-desired-fruit-giver](sarvābhīṣṭaphalapradam)
 
 ## mukta-m0-p172-v4290
-[terrible-sorrow-pacifying](ghora+duḥkha+praśamanan) [intense-poverty-destroying](tīvra+dāridrya+nāśanam)
+[terrible-sorrow-pacification](ghoraduḥkhapraśamanaṃ) [intense-poverty-destruction](tīvradāridryanāśanam)
 
 ## mukta-m0-p172-v4291
-[all-sovereignty-giving](sarva+aiśvarya+pradaṃ) [all-accomplishments-giving](sarva+siddhi+daṃ) [all-desires-giving](sarva+kāla+dam)
+[all-sovereignty-giver](sarvaiśvaryapradaṃ) [all-perfection-giver](sarvasiddhidaṃ) [all-time-giver](sarvakāladam)
 
 ## mukta-m0-p172-v4292
-[ignorance-dullness-destroying](aprajña+jāḍya+śamanaṃ) [all-knowledge-promoting](sarva+vidyā+pravarttakam)
+[non-intelligence-stupidity-pacification](aprajñajāḍyaśamanaṃ) [all-knowledge-initiator](sarvavidyāpravarttakam)
 
 ## mukta-m0-p172-v4293
-[barren-women](vandhyānāṃ) [son-giving](suta+dañ) [and](ca) [quickly](āśu) [all-best-fruit-giving](sarva+śreṣṭha+phala+pradam)
+[barren-women](vandhyānāṃ) [son-giver](sutadañ) [ca](cāśu) [all-best-fruit-giver](sarvaśreṣṭhaphalapradam)
 
 ## mukta-m0-p172-v4294
-[auspicious](māṅgalyam) [meritorious](puṇyam) [life-prolonging](āyuṣyaṃ) [from-hearing](śravaṇāt) [from-reciting](paṭhanāt) [from-chanting](japāt)
+[auspicious](māṅgalyam) [meritorious](puṇyam) [life-giving](āyuṣyaṃ) [hearing-from](śravaṇāt) [recitation-from](paṭhanāj) [japa-from](japāt)
 
 ## mukta-m0-p172-v4295
-[purāṇa-scriptures](purāṇa+śāstraṃ) [law-texts](smṛtayaḥ) [read](paṭhitāḥ) [taught](pāṭhitāḥ) [likewise](tathā)
+[Purāṇa](purāṇa) [śāstras](śāstraṃ) [Smṛtis](smṛtayaḥ) [recited](paṭhitāḥ) [caused-to-be-recited](pāṭhitās) [tathā](tathā)
 
 ## mukta-m0-p172-v4296
-[always](nityaṃ) [succeeds](siddhyati) [for-all](sarveṣām) [quickly](acirāt) [how-much-more](kimuta) [all](akhilam)
+[always](nityaṃ) [succeeds](siddhyati) [all](sarveṣām) [quickly](acirāt) [kimuta](kimuto') [entirely](akhilam)
 
 ## mukta-m0-p172-v4297
-[this](idam) [o-good-lady](bhadre) [by-you](tvayā) [to-be-kept-secret](gopyam) [to-be-recited](pāṭhyaṃ) [own-purpose-only-accomplishment](sva+arttha+eka+siddhaye)
+[this](idam) [O-Bhadre](bhadre) [by-thee](tvayā) [to-be-hidden](gopyam) [to-be-recited](pāṭhyaṃ) [own-purpose-only-attainment-for](svārtthaikasiddhaye)
 
 ## mukta-m0-p172-v4298
-[devotion-faith-devoid](bhakti+śraddhā+vihīnāya) [viṣṇu-ordinary-seeing](viṣṇu+sāmānya+darśśine)
+[devotion-faith-devoid-to](bhaktiśraddhāvihīnāya) [Viṣṇu-common-seer-to](viṣṇusāmānya-darśśine)
 
 ## mukta-m0-p172-v4299
-[my-grace-without](mat+prasādāt+ṛte) [not](na) [this](idaṃ) [will-grasp](grahīṣyanti) [little-intellect](alpa+medhasaḥ)
+[my-grace](matprasādād) [without](ṛte) [not](na) [this](idaṃ) [will-take](grahīṣyanty) [dull-minded](alpamedhasaḥ)
 
 ## mukta-m0-p172-v4300
-[people](lokānām) [fortune-devoid](bhāgya+hīnānā) [by-which](yena) [sorrow](duḥkha) [is-destroyed](vinaśyati)
+[worlds-of](lokānām) [fortune-devoid-of](bhāgyahīnānā/) [by-which](yyena) [sorrow](duḥkha/) [will-be-destroyed](vvinaśyati)
