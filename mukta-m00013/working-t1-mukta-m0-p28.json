@@ -12,14 +12,14 @@
 },
 {
 "surface": "vācanika",
-"quick_gloss": "prescribed"
+"quick_gloss": "prescribed-by-text"
 },
 {
 "surface": "eva",
 "quick_gloss": "indeed"
 },
 {
-"surface": "aṣṭasahasra+homaḥ",
+"surface": "aṣṭasahasrahomaḥ",
 "quick_gloss": "eight-thousand+oblation"
 }
 ]
@@ -32,19 +32,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarga+anvitaḥ",
+"surface": "sargānvitaḥ",
 "quick_gloss": "with-creation"
 },
 {
 "surface": "bhṛguḥ",
-"quick_gloss": "Bhṛgu"
+"quick_gloss": "bhṛgu"
 },
 {
 "surface": "bhānoḥ",
 "quick_gloss": "of-sun"
 },
 {
-"surface": "tri+akṣaraḥ",
+"surface": "tryakṣaraḥ",
 "quick_gloss": "three-syllabled"
 },
 {
@@ -65,12 +65,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṛṣi+ādi+nyāsaṃ",
-"quick_gloss": "sage+etc+placement"
+"surface": "ṛṣyādi",
+"quick_gloss": "ṛṣi+etc"
+},
+{
+"surface": "nyāsaṃ",
+"quick_gloss": "nyāsa"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -82,19 +86,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mūrddha+ādi",
-"quick_gloss": "from-head+etc"
-},
-{
-"surface": "kaṇṭha+paryantaṃ",
-"quick_gloss": "up-to-throat"
+"surface": "mūrddhādikaṇṭhaparyantaṃ",
+"quick_gloss": "from-head+etc+up-to-throat"
 },
 {
 "surface": "kramāt",
 "quick_gloss": "in-order"
 },
 {
-"surface": "bīja+trayaṃ",
+"surface": "vījatrayaṃ",
 "quick_gloss": "seed+triad"
 },
 {
@@ -111,20 +111,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭ+dīrgha+yukta",
-"quick_gloss": "with-six+long-vowels+joined"
-},
-{
-"surface": "madhyena",
-"quick_gloss": "middle"
+"surface": "ṣaḍdīrghayuktamadhyena",
+"quick_gloss": "with-six+long-vowels+joined+middle"
 },
 {
 "surface": "bījena",
-"quick_gloss": "by-seed"
+"quick_gloss": "by-seed-syllable"
 },
 {
-"surface": "aṅga+ādi+kalpanā",
-"quick_gloss": "limb+etc+formation"
+"surface": "aṅgādikalpanā",
+"quick_gloss": "limbs+etc+formation"
 }
 ]
 },
@@ -136,16 +132,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tataḥ",
+"surface": "tato",
 "quick_gloss": "then"
 },
 {
-"surface": "dhūpa+ādi",
-"quick_gloss": "beginning-with-incense+etc"
-},
-{
-"surface": "visarjana+antaṃ",
-"quick_gloss": "ending-with-dismissal"
+"surface": "dhūpādivisarjanāntaṃ",
+"quick_gloss": "incense+etc+up-to-dismissal"
 },
 {
 "surface": "karma",
@@ -173,16 +165,16 @@
 "quick_gloss": "or"
 },
 {
-"surface": "madhura+āsiktaiḥ",
-"quick_gloss": "sprinkled-with-sweet-substances"
+"surface": "madhurāsiktaiḥ",
+"quick_gloss": "with-sweet-substance+sprinkled"
 },
 {
 "surface": "juhuyāt",
 "quick_gloss": "one-should-offer"
 },
 {
-"surface": "vijita+indriyaḥ",
-"quick_gloss": "with-senses-conquered"
+"surface": "vijitendriyaḥ",
+"quick_gloss": "with-senses+conquered"
 }
 ]
 },
@@ -198,12 +190,12 @@
 "quick_gloss": "enclosed"
 },
 {
-"surface": "vimba+bījena",
-"quick_gloss": "with-Bimba-seed"
+"surface": "vimbabījena",
+"quick_gloss": "by-bimba+seed-syllable"
 },
 {
-"surface": "sarva+kāma+phala+pradam",
-"quick_gloss": "all+desire+fruit+giving"
+"surface": "sarvakāmaphalapradam",
+"quick_gloss": "all+desires+fruit+granting"
 }
 ]
 },
@@ -215,11 +207,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṭa+antaṃ",
-"quick_gloss": "ending-in-ṭa"
+"surface": "ṭāntaṃ",
+"quick_gloss": "ṭa-ending"
 },
 {
-"surface": "dahana+netra+indu+sahitaṃ",
+"surface": "dahananetrendusahitaṃ",
 "quick_gloss": "with-fire+eye+moon"
 },
 {
@@ -228,7 +220,7 @@
 },
 {
 "surface": "udāhṛtam",
-"quick_gloss": "declared"
+"quick_gloss": "is-declared"
 }
 ]
 },
@@ -244,12 +236,16 @@
 "quick_gloss": "as-before"
 },
 {
-"surface": "ṛṣi+ādi+nyāsaṃ",
-"quick_gloss": "sage+etc+placement"
+"surface": "ṛṣyādi",
+"quick_gloss": "ṛṣi+etc"
+},
+{
+"surface": "nyāsaṃ",
+"quick_gloss": "nyāsa"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -262,18 +258,18 @@
 "tokens": [
 {
 "surface": "vyāpakaṃ",
-"quick_gloss": "pervading"
+"quick_gloss": "pervasion"
 },
 {
-"surface": "mūla+bījena",
-"quick_gloss": "with-root-seed"
+"surface": "mūlabījena",
+"quick_gloss": "with-root+seed-syllable"
 },
 {
 "surface": "kurvīta",
-"quick_gloss": "one-should-do"
+"quick_gloss": "one-should-perform"
 },
 {
-"surface": "tat+antaram",
+"surface": "tadantaram",
 "quick_gloss": "after-that"
 }
 ]
@@ -302,12 +298,12 @@
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "arghya+sthāpanaṃ",
-"quick_gloss": "arghya+placement"
+"surface": "arghyasthāpanaṃ",
+"quick_gloss": "arghya+establishment"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -319,16 +315,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tataḥ",
+"surface": "tato",
 "quick_gloss": "then"
 },
 {
-"surface": "dhūpa+ādi",
-"quick_gloss": "beginning-with-incense+etc"
-},
-{
-"surface": "visarjana+antaṃ",
-"quick_gloss": "ending-with-dismissal"
+"surface": "dhūpādivisarjanāntaṃ",
+"quick_gloss": "incense+etc+up-to-dismissal"
 },
 {
 "surface": "karma",
@@ -348,8 +340,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣa+aṃśaṃ",
-"quick_gloss": "tenth-part"
+"surface": "dakṣāṃśaṃ",
+"quick_gloss": "tenth+portion"
 },
 {
 "surface": "kamalaiḥ",
@@ -364,8 +356,8 @@
 "quick_gloss": "one-should-offer"
 },
 {
-"surface": "madhura+ukṣitaiḥ",
-"quick_gloss": "sprinkled-with-sweet-substances"
+"surface": "madhurokṣitaiḥ",
+"quick_gloss": "with-sweet-substance+sprinkled"
 }
 ]
 },
@@ -377,7 +369,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vāk+siddhim",
+"surface": "vāksiddhim",
 "quick_gloss": "speech+accomplishment"
 },
 {
@@ -398,7 +390,7 @@
 },
 {
 "surface": "sādhayet",
-"quick_gloss": "one-should-accomplish"
+"quick_gloss": "one-may-accomplish"
 }
 ]
 },
@@ -410,8 +402,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ajapā+ākhyaḥ",
-"quick_gloss": "called-Ajapā"
+"surface": "ajapākhyaḥ",
+"quick_gloss": "called-ajapā"
 },
 {
 "surface": "manuḥ",
@@ -422,12 +414,12 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "dvi+akṣaraḥ",
+"surface": "dvyakṣaraḥ",
 "quick_gloss": "two-syllabled"
 },
 {
-"surface": "sura+pādapaḥ",
-"quick_gloss": "wish-fulfilling-tree"
+"surface": "surapādapaḥ",
+"quick_gloss": "wish-fulfilling+tree"
 }
 ]
 },
@@ -455,8 +447,8 @@
 "quick_gloss": "well-declared"
 },
 {
-"surface": "girijā+patiḥ",
-"quick_gloss": "husband-of-mountain-daughter"
+"surface": "girijāpatiḥ",
+"quick_gloss": "girijā+lord"
 }
 ]
 },
@@ -472,16 +464,16 @@
 "quick_gloss": "hsāṃ"
 },
 {
-"surface": "ṣaṭ+dīrgha+yuktena",
+"surface": "ṣaḍdīrghayuktena",
 "quick_gloss": "with-six+long-vowels+joined"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "one-should-perform"
 },
 {
-"surface": "aṅga+kriyāṃ",
-"quick_gloss": "limb+action"
+"surface": "aṅgakriyāṃ",
+"quick_gloss": "limb+rite"
 },
 {
 "surface": "manoḥ",
@@ -497,16 +489,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tataḥ",
+"surface": "tato",
 "quick_gloss": "then"
 },
 {
-"surface": "dhūpa+ādi",
-"quick_gloss": "beginning-with-incense+etc"
-},
-{
-"surface": "visarjana+antaṃ",
-"quick_gloss": "ending-with-dismissal"
+"surface": "dhūpādivisarjanāntaṃ",
+"quick_gloss": "incense+etc+up-to-dismissal"
 },
 {
 "surface": "karma",
@@ -526,12 +514,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daśa+aṃśaṃ",
-"quick_gloss": "tenth-part"
+"surface": "daśāṃśaṃ",
+"quick_gloss": "tenth+portion"
 },
 {
 "surface": "juhuyāt",
-"quick_gloss": "should-offer"
+"quick_gloss": "one-should-offer"
 },
 {
 "surface": "mantrī",
@@ -551,7 +539,7 @@
 },
 {
 "surface": "naraḥ",
-"quick_gloss": "man"
+"quick_gloss": "person"
 }
 ]
 },
@@ -572,19 +560,19 @@
 },
 {
 "surface": "santaḥ",
-"quick_gloss": "good-people"
+"quick_gloss": "good-beings"
 },
 {
-"surface": "bhāva+abdheḥ",
+"surface": "bhāvābdheḥ",
 "quick_gloss": "of-existence+ocean"
 },
 {
 "surface": "pāram",
-"quick_gloss": "shore"
+"quick_gloss": "to-far-shore"
 },
 {
 "surface": "āśritāḥ",
-"quick_gloss": "have-reached"
+"quick_gloss": "having-resorted"
 }
 ]
 },
@@ -616,7 +604,7 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "vasu+akṣaraḥ",
+"surface": "vasvakṣaraḥ",
 "quick_gloss": "eight-syllabled"
 },
 {
@@ -633,12 +621,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaiṣṇava+ācamanam",
-"quick_gloss": "Vaiṣṇava+sipping"
+"surface": "vaiṣṇavācamanaṃ",
+"quick_gloss": "vaiṣṇava+ācamana"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -650,12 +638,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+caturthī",
-"quick_gloss": "with-fourth-case"
-},
-{
-"surface": "namaḥ+antaiḥ",
-"quick_gloss": "ending-in-namas"
+"surface": "sacaturthīnamo'ntaiḥ",
+"quick_gloss": "with-fourth-case+namas+ending"
 },
 {
 "surface": "ca",
@@ -667,7 +651,7 @@
 },
 {
 "surface": "vinyaset",
-"quick_gloss": "should-place"
+"quick_gloss": "one-should-place"
 },
 {
 "surface": "sudhīḥ",
@@ -687,16 +671,16 @@
 "quick_gloss": "in-heart"
 },
 {
-"surface": "arddha+lakṣmī+haraye",
-"quick_gloss": "to-Arddhalakṣmīhari"
+"surface": "arddhalakṣmīharaye",
+"quick_gloss": "arddhalakṣmīharaye"
 },
 {
 "surface": "devatāyai",
-"quick_gloss": "to-deity"
+"quick_gloss": "devatāyai"
 },
 {
 "surface": "namaḥ",
-"quick_gloss": "obeisance"
+"quick_gloss": "namaḥ"
 }
 ]
 }

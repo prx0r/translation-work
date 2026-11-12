@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[here+also](atrāpi) [prescribed](vācanika) [indeed](eva) [eight-thousand+oblation](aṣṭasahasra+homaḥ)
+[here+also](atrāpi) [prescribed-by-text](vācanika) [indeed](eva) [eight-thousand+oblation](aṣṭasahasrahomaḥ)
 
 ## mukta-m0-p28-v677
-[with-creation](sarga+anvitaḥ) [Bhṛgu](bhṛguḥ) [of-sun](bhānoḥ) [three-syllabled](tri+akṣaraḥ) [this](ayaṃ) [declared](samīritaḥ)
+[with-creation](sargānvitaḥ) [bhṛgu](bhṛguḥ) [of-sun](bhānoḥ) [three-syllabled](tryakṣaraḥ) [this](ayaṃ) [declared](samīritaḥ)
 
 ## mukta-m0-p28-v678
-[sage+etc+placement](ṛṣi+ādi+nyāsaṃ) [one-should-do](kuryāt)
+[ṛṣi+etc](ṛṣyādi) [nyāsa](nyāsaṃ) [one-should-perform](kuryāt)
 
 ## mukta-m0-p28-v679
-[from-head+etc](mūrddha+ādi) [up-to-throat](kaṇṭha+paryantaṃ) [in-order](kramāt) [seed+triad](bīja+trayaṃ) [one-should-place](nyaset)
+[from-head+etc+up-to-throat](mūrddhādikaṇṭhaparyantaṃ) [in-order](kramāt) [seed+triad](vījatrayaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p28-v680
-[with-six+long-vowels+joined](ṣaṭ+dīrgha+yukta) [middle](madhyena) [by-seed](bījena) [limb+etc+formation](aṅga+ādi+kalpanā)
+[with-six+long-vowels+joined+middle](ṣaḍdīrghayuktamadhyena) [by-seed-syllable](bījena) [limbs+etc+formation](aṅgādikalpanā)
 
 ## mukta-m0-p28-v681
-[then](tataḥ) [beginning-with-incense+etc](dhūpa+ādi) [ending-with-dismissal](visarjana+antaṃ) [rite](karma) [one-should-complete](samāpayet)
+[then](tato) [incense+etc+up-to-dismissal](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p28-v682
-[with-sesame-seeds](tilaiḥ) [or](vā) [sprinkled-with-sweet-substances](madhura+āsiktaiḥ) [one-should-offer](juhuyāt) [with-senses-conquered](vijita+indriyaḥ)
+[with-sesame-seeds](tilaiḥ) [or](vā) [with-sweet-substance+sprinkled](madhurāsiktaiḥ) [one-should-offer](juhuyāt) [with-senses+conquered](vijitendriyaḥ)
 
 ## mukta-m0-p28-v683
-[enclosed](puṭitaṃ) [with-Bimba-seed](vimba+bījena) [all+desire+fruit+giving](sarva+kāma+phala+pradam)
+[enclosed](puṭitaṃ) [by-bimba+seed-syllable](vimbabījena) [all+desires+fruit+granting](sarvakāmaphalapradam)
 
 ## mukta-m0-p28-v684
-[ending-in-ṭa](ṭa+antaṃ) [with-fire+eye+moon](dahana+netra+indu+sahitaṃ) [that](tat) [declared](udāhṛtam)
+[ṭa-ending](ṭāntaṃ) [with-fire+eye+moon](dahananetrendusahitaṃ) [that](tat) [is-declared](udāhṛtam)
 
 ## mukta-m0-p28-v685
-[as-before](pūrvavat) [sage+etc+placement](ṛṣi+ādi+nyāsaṃ) [one-should-do](kuryāt)
+[as-before](pūrvavat) [ṛṣi+etc](ṛṣyādi) [nyāsa](nyāsaṃ) [one-should-perform](kuryāt)
 
 ## mukta-m0-p28-v686
-[pervading](vyāpakaṃ) [with-root-seed](mūla+bījena) [one-should-do](kurvīta) [after-that](tat+antaram)
+[pervasion](vyāpakaṃ) [with-root+seed-syllable](mūlabījena) [one-should-perform](kurvīta) [after-that](tadantaram)
 
 ## mukta-m0-p28-v687
-[thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [arghya+placement](arghya+sthāpanaṃ) [one-should-do](kuryāt)
+[thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [arghya+establishment](arghyasthāpanaṃ) [one-should-perform](kuryāt)
 
 ## mukta-m0-p28-v688
-[then](tataḥ) [beginning-with-incense+etc](dhūpa+ādi) [ending-with-dismissal](visarjana+antaṃ) [rite](karma) [one-should-complete](samāpayet)
+[then](tato) [incense+etc+up-to-dismissal](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p28-v689
-[tenth-part](dakṣa+aṃśaṃ) [with-lotuses](kamalaiḥ) [blooming](phullaiḥ) [one-should-offer](juhuyāt) [sprinkled-with-sweet-substances](madhura+ukṣitaiḥ)
+[tenth+portion](dakṣāṃśaṃ) [with-lotuses](kamalaiḥ) [blooming](phullaiḥ) [one-should-offer](juhuyāt) [with-sweet-substance+sprinkled](madhurokṣitaiḥ)
 
 ## mukta-m0-p28-v690
-[speech+accomplishment](vāk+siddhim) [unequalled](atulāṃ) [prosperity](lakṣmīṃ) [good-fortune](saubhāgyam) [also](api) [one-should-accomplish](sādhayet)
+[speech+accomplishment](vāksiddhim) [unequalled](atulāṃ) [prosperity](lakṣmīṃ) [good-fortune](saubhāgyam) [also](api) [one-may-accomplish](sādhayet)
 
 ## mukta-m0-p28-v691
-[called-Ajapā](ajapā+ākhyaḥ) [mantra](manuḥ) [declared](proktaḥ) [two-syllabled](dvi+akṣaraḥ) [wish-fulfilling-tree](sura+pādapaḥ)
+[called-ajapā](ajapākhyaḥ) [mantra](manuḥ) [declared](proktaḥ) [two-syllabled](dvyakṣaraḥ) [wish-fulfilling+tree](surapādapaḥ)
 
 ## mukta-m0-p28-v692
-[deity](devatā) [of-worlds](jagatām) [origin](ādiḥ) [well-declared](saṃproktā) [husband-of-mountain-daughter](girijā+patiḥ)
+[deity](devatā) [of-worlds](jagatām) [origin](ādiḥ) [well-declared](saṃproktā) [girijā+lord](girijāpatiḥ)
 
 ## mukta-m0-p28-v693
-[hsāṃ](hsāṃ) [with-six+long-vowels+joined](ṣaṭ+dīrgha+yuktena) [one-should-do](kuryāt) [limb+action](aṅga+kriyāṃ) [of-mantra](manoḥ)
+[hsāṃ](hsāṃ) [with-six+long-vowels+joined](ṣaḍdīrghayuktena) [one-should-perform](kuryāt) [limb+rite](aṅgakriyāṃ) [of-mantra](manoḥ)
 
 ## mukta-m0-p28-v694
-[then](tataḥ) [beginning-with-incense+etc](dhūpa+ādi) [ending-with-dismissal](visarjana+antaṃ) [rite](karma) [one-should-complete](samāpayet)
+[then](tato) [incense+etc+up-to-dismissal](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p28-v695
-[tenth-part](daśa+aṃśaṃ) [should-offer](juhuyāt) [practitioner](mantrī) [then](tataḥ) [accomplished](siddhaḥ) [becomes](bhavet) [man](naraḥ)
+[tenth+portion](daśāṃśaṃ) [one-should-offer](juhuyāt) [practitioner](mantrī) [then](tataḥ) [accomplished](siddhaḥ) [becomes](bhavet) [person](naraḥ)
 
 ## mukta-m0-p28-v696
-[of-whom](yasya) [by-remembrance](saṃsmaraṇāt) [good-people](santaḥ) [of-existence+ocean](bhāva+abdheḥ) [shore](pāram) [have-reached](āśritāḥ)
+[of-whom](yasya) [by-remembrance](saṃsmaraṇāt) [good-beings](santaḥ) [of-existence+ocean](bhāvābdheḥ) [to-far-shore](pāram) [having-resorted](āśritāḥ)
 
 ## mukta-m0-p28-v697
-[purifying](pāvanaḥ) [by-name](nāma) [mantra](mantraḥ) [this](ayaṃ) [declared](proktaḥ) [eight-syllabled](vasu+akṣaraḥ) [supreme](paraḥ)
+[purifying](pāvanaḥ) [by-name](nāma) [mantra](mantraḥ) [this](ayaṃ) [declared](proktaḥ) [eight-syllabled](vasvakṣaraḥ) [supreme](paraḥ)
 
 ## mukta-m0-p28-v698
-[Vaiṣṇava+sipping](vaiṣṇava+ācamanam) [one-should-do](kuryāt)
+[vaiṣṇava+ācamana](vaiṣṇavācamanaṃ) [one-should-perform](kuryāt)
 
 ## mukta-m0-p28-v699
-[with-fourth-case](sa+caturthī) [ending-in-namas](namaḥ+antaiḥ) [and](ca) [with-names](nāmabhiḥ) [should-place](vinyaset) [wise-one](sudhīḥ)
+[with-fourth-case+namas+ending](sacaturthīnamo'ntaiḥ) [and](ca) [with-names](nāmabhiḥ) [one-should-place](vinyaset) [wise-one](sudhīḥ)
 
 ## mukta-m0-p28-v700
-[in-heart](hṛdi) [to-Arddhalakṣmīhari](arddha+lakṣmī+haraye) [to-deity](devatāyai) [obeisance](namaḥ)
+[in-heart](hṛdi) [arddhalakṣmīharaye](arddhalakṣmīharaye) [devatāyai](devatāyai) [namaḥ](namaḥ)
