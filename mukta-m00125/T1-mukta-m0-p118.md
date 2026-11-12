@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[by-mouse-etc](mūṣikādyaiḥ) [but](tu) [by-lamp](dīpena) [by-fire](vahninā) [or](vā) [best-brahmins](dvijottamāḥ)
+[mouse+etc](mūṣikādyaiḥ) [by-lamp](tu) [by-lamp](dīpena) [by-fire](vahninā) [or](vā) [o-best-twice-born](dvijottamāḥ)
 
 ## mukta-m0-p118-v2927
-[in-linga-etc-sky](liṅgādisthe'mbare) [burned](dagdhe) [burned](dagdhe) [house-etc](sadmanivātathā)
+[in-liṅga+etc](liṅgādisthe) [in-cloth](ambare) [burnt](dagdhe) [burnt](dagdhe) [in-temple](sadmani) [or-thus](vā) [likewise](tathā)
 
 ## mukta-m0-p118-v2928
-[deficient](hīne) [curtain](kāṇḍapaṭe) [scent](gandhe) [flower](puṣpe) [naivedya-etc](naivedyakādiṣu)
+[deficient](hīne) [in-stem-cloth](kāṇḍapaṭe) [in-fragrance](gandhe) [in-flower](puṣpe) [in-food-offering+etc](naivedyakādiṣu)
 
 ## mukta-m0-p118-v2929
-[to-deity](devāya) [given-things](dattadravyeṣu) [nail-hair-etc-sight](nakharomādidarśane)
+[to-god](devāya) [in-given+substances](dattadravyeṣu) [nail+hair+etc](nakharomādi) [in-seeing](darśane)
 
 ## mukta-m0-p118-v2930
-[common-living-being-born](sāmānyaprāṇisaṃbhūta) [with-impurity-etc](malayuktairathāpivā)
+[common+living-being](sāmānyaprāṇi) [produced](saṃbhūta) [with-impurity+joined](malayuktaiḥ) [or](atha) [or-also](api) [or](vā)
 
 ## mukta-m0-p118-v2931
-[then-attack](tadākrame) [or](vā) [conch-sound](śaṅkhasya) [nisvana](nisvane) [or](vā) [that-abandoned](tadujjhite)
+[in-that+order](tadākrame) [or](vā) [of-conch](śaṅkhasya) [in-sounding](nisvane) [or](vā) [in-its-omission](tadujjhite)
 
 ## mukta-m0-p118-v2932
-[in-linga-image-etc](liṅge) [berādike] [empty](śūnyam) [head](astake) [previously-fixed](pūrvakalpite)
+[in-liṅga](liṅge) [in-image+etc](berādike) [empty+headed](śūnyamastake) [previously+arranged](pūrvakalpite)
 
 ## mukta-m0-p118-v2933
-[strength-given](balāvadatte) [daily](nitye) [or](vā) [fire-rite](vahnikarmaṇi) [daily](nityake)
+[by-force+given](balāvadatte) [in-daily](nitye) [or](vā) [in-fire+rite](vahnikarmaṇi) [in-daily](nityake)
 
 ## mukta-m0-p118-v2934
-[non-shaiva-fire](aśaivāgnau) [done](kṛte) [homa](home) [vedic-etc](vaidikādi) [rite-done](kriyākṛtau)
+[in-non-śaiva+fire](aśaivāgnau) [done](kṛte) [in-oblation](home) [vedic+etc](vaidikādi) [rite+performed](kriyākṛtau)
 
 ## mukta-m0-p118-v2935
-[homa-material](homadravye'thavā) [deficient](hīne) [daily-festival](nityotsava) [omission](vilopane)
+[in-oblation+substance](homadravye) [or](atha) [or](vā) [deficient](hīne) [daily+festival](nityotsava) [in-omission](vilopane)
 
 ## mukta-m0-p118-v2936
-[by-rain-fall-etc](vṛṣṭipātādibhirvāpi) [by-kingdom-disturbance-etc](rāṣṭrakṣobhādi) [cause](hetubhiḥ)
+[by-rain+fall+etc](vṛṣṭipātādibhiḥ) [or](vā) [also](api) [kingdom+disturbance+etc](rāṣṭrakṣobhādi) [by-causes](hetubhiḥ)
 
 ## mukta-m0-p118-v2937
-[drum](atodya) [dance-performance](nṛttakaraṇe) [canopy](vitānasya) [omission](vilopane)
+[instrumental-music](atodya) [dance+performance](nṛttakaraṇe) [of-canopy](vitānasya) [in-omission](vilopane)
 
 ## mukta-m0-p118-v2938
-[sandal-worship](pādukārādhana) [deficient](hīne) [that-vehicle](tadyāne) [or](vā) [omitted](vilopite)
+[sandals+worship](pādukārādhana) [deficient](hīne) [in-its+vehicle](tadyāne) [or](vā) [omitted](vilopite)
 
 ## mukta-m0-p118-v2939
-[stated-circumambulation](uktāpradakṣiṇe) [deficient](hīne) [reverse-circumambulation](vaiparītyapradakṣiṇe)
+[prescribed+circumambulation](uktapradakṣiṇe) [deficient](hīne) [reverse+circumambulation](vaiparītyapradakṣiṇe)
 
 ## mukta-m0-p118-v2940
-[comfort](saukhye) [done](kṛte) [that-limb](tadaṅge) [or](vā) [five-teachers-lord-abandoned](pañcācāryādhipojjhite)
+[in-comfort](saukhye) [done](kṛte) [in-its+limb](tadaṅge) [or](vā) [five+ācārya+lord](pañcācāryādhipa) [omitted](ujjhite)
 
 ## mukta-m0-p118-v2941
-[then](tadā) [lamp](dīpe'thavā) [or](vā) [song](gāne) [deficient](vihīne) [but](tu) [best-brahmins](dvijottamāḥ)
+[then](tadā) [in-lamp](dīpe) [or](atha) [or](vā) [in-song](gāne) [deficient](vihīne) [indeed](tu) [o-best-twice-born](dvijottamāḥ)
 
 ## mukta-m0-p118-v2942
-[that-limb](tadaṅge) [or](vāpy) [not-given](adattāyāṃ) [protection](rakṣāyāṃ) [ash-etc](bhasmanastathā)
+[in-its+limb](tadaṅge) [or](vā) [also](api) [not-given](adattāyām) [in-protection](rakṣāyām) [of-sacred-ash](bhasmanaḥ) [likewise](tathā)
 
 ## mukta-m0-p118-v2943
-[done](kṛte) [stale-flower-etc](paryuṣita) [puṣpādyairarcane) [garbha-house](garbhagehake)
+[done](kṛte) [with-stale+flower+etc](paryuṣitapuṣpādyaiḥ) [in-worship](arcane) [in-sanctum](garbhagehake)
 
 ## mukta-m0-p118-v2944
-[with-nirmalya-mixture](nirmālyasaṅkaropetaiḥ) [decay-leprosy-etc-diseased](kṣayakuṣṭhādirogibhiḥ)
+[with-remains+mixture+endowed](nirmālyasaṅkaropetaiḥ) [by-consumption+leprosy+etc](kṣayakuṣṭhādi) [diseased](rogibhiḥ)
 
 ## mukta-m0-p118-v2945
-[with-bad-marks](duṣṭalakṣaṇayuktaiśca) [deficient-limbed](hīnāṅgairvā) [extra-limbed](adhikāṅgibhiḥ)
+[with-bad+mark+endowed](duṣṭalakṣaṇayuktaiḥ) [and](ca) [by-deficient+limbed](hīnāṅgaiḥ) [or](vā) [by-extra+limbed](adhikāṅgibhiḥ)
 
 ## mukta-m0-p118-v2946
-[etc-shaiva-family-born](ādiśaiva) [kulodbhūtavyatiriktaiśśive'rcite)
+[ādiśaiva+family](ādiśaivakulodbhūta) [other-than](vyatiriktaiḥ) [in-śiva](śive) [worshipped](arcite)
 
 ## mukta-m0-p118-v2947
-[thus](evaṃ) [daily-rite](nityavidho) [spoken](proktaḥ) [expiation](prāyaścitte) [indeed](hy) [sequence](anukramaḥ)
+[thus](evam) [in-daily+rite](nityavidhau) [declared](proktaḥ) [in-expiation](prāyaścitte) [indeed](hi) [sequence](anukramaḥ)
 
 ## mukta-m0-p118-v2948
-[one-sandhya-worship-deficient](ekasandhyārcanāhīne) [worship-best](pūjayottamayā) [joined](yute)
+[one+twilight+worship](ekasandhyārcanā) [deficient](hīne) [with-worship](pūjayā) [with-best](uttamayā) [endowed](yute)
 
 ## mukta-m0-p118-v2949
-[middle](madhyayā) [image-homa](mūrtihomassyāddhīnayā) [peace-homa](śāntihomakam)
+[with-middle](madhyayā) [image+oblation](mūrtihomaḥ) [should-be](syāt) [with-inferior](hīnayā) [peace+oblation](śāntihomakam)
 
 ## mukta-m0-p118-v2950
-[upasandhya-worship-deficient](upasandhyārcane) [hīne] [hīnoktāṃ] [atonement](niṣkṛtiṃ) [guru](guruḥ)
+[in-intermediate-twilight+worship](upasandhyārcane) [deficient](hīne) [inferior+declared](hīnoktām) [expiation](niṣkṛtim) [teacher](guruḥ)

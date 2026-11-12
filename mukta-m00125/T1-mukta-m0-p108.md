@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-should-give sweet-rice by-man ghee-soaked
+should-give(dadyāt) [and](tu) sweet-food(madhura+annam) [and](tu) with-puruṣa-mantra(puruṣeṇa) ghee-sprinkled(ghṛta+plutam)
+
 ## mukta-m0-p108-v2677
-purification-for thus then left-downward-facing
+for-purification(pavitrīkaraṇāya) thus-saying(iti) then(tatas) leftward(savyam) downward-facing(adhaḥ+mukham)
+
 ## mukta-m0-p108-v2678
-secret-mantra recite or death-conqueror-mantra indeed or
+secret-mantra(guhya+mantram) should-mutter(japet) or(vā) this(ayam) or(vā) death-conquering-mantra(mṛtyu+jit+mantram) indeed(eva)
+
 ## mukta-m0-p108-v2679
-for-sipping first give palm-lotus
+for-sipping-water(āpośana+artham) with-first(ādyena) should-offer(pradadyāt) in-hand-lotus(pāṇi+paṅkaje)
+
 ## mukta-m0-p108-v2680
-guest feed according-to-ability at-that-time not deliberate
+guest(atithim) should-feed(bhojayet) according-to-ability(śaktyā) at-that-time(tat+kāle) not(na) should-inquire(vicārayet)
+
 ## mukta-m0-p108-v2681
-wandering-guest-form therefore them not deliberate
+they-move(caranty) in-guest-form(atithi+rūpeṇa) therefore(tasmāt) them(tān) not(na) should-inquire(vicārayet)
+
 ## mukta-m0-p108-v2682
-satisfied-stand thus fed-rice satisfied-we thus declared
+satisfied(tṛptās) are-you(stha) thus-saying(iti) fed-with-food(bhṛta+annas) satisfied(santṛptās) we-are(sma) thus(iti) when-declared(kīrtite)
+
 ## mukta-m0-p108-v2683
-leftover-near make cow-dung-only circle
+near-leavings(ucchiṣṭa+sannidhau) should-make(kuryāt) with-cow-dung(gomayena) indeed(eva) circle(maṇḍalam)
+
 ## mukta-m0-p108-v2684
-left sesame-mixed all-rice accompanied
+with-left(vāmena) sesame-mixed(tila+saṃyuktam) with-all-rice(sarva+audana) accompanied(samanvitam)
+
 ## mukta-m0-p108-v2685
-honey-ghee-sesame-mixed earth-standing right-knee
+honey-ghee-sesame-mixed(madhu+ājya+tila+saṃyuktam) standing-on-ground(bhūmi+ṣṭhas) with-left-knee(savya+jānunā)
+
 ## mukta-m0-p108-v2686
-making water stream vamadeva uttering
+having-made(vidhāya) of-water(vāriṇaḥ) stream(dhārām) vāmadeva-mantra(vāmadevam) uttering(udīrayan)
+
 ## mukta-m0-p108-v2687
-worship incense-flowers-etc bow beg-forgiveness
+having-worshipped(saṃpūjya) with-fragrance-flower-etc(gandha+puṣpa+ādyaiḥ) having-bowed(praṇipatya) should-beg-pardon(kṣamāpayet)
+
 ## mukta-m0-p108-v2688
-first sipping to-three to-two give afterwards
+first(pūrvam) sipping(ācamanam) to-three(tribhyaḥ) with-two(dvābhyām) should-give(dadyāt) afterwards(anantaram)
+
 ## mukta-m0-p108-v2689
-with-camphor that-limb good household-implement likewise
+with-camphor(sa+karpūram) that-limb(tat+aṅgam) good(sat) household-utensil(gṛha+upakaraṇam) likewise(tathā)
+
 ## mukta-m0-p108-v2690
-increase-vessel water-full shraddha-doer south-facing
+vardhanī-vessel(vardhanīm) water-filled(udaka+āpūrṇām) śrāddha-performer(śrāddha+kṛt) facing-south(dakṣiṇa+ānanaḥ)
+
 ## mukta-m0-p108-v2691
-isha-etc-triad afterwards fourth-ending utter
+beginning-with-īśāna(īśa+ādi) triad(tritayam) afterwards(paścāt) ending-in-fourth(caturthī+antam) should-utter(udīrayet)
+
 ## mukta-m0-p108-v2692
-be svadha thus say they earth sprinkle then water
+be(astu) svadhā(svadhā) thus(iti) should-say(brūyuḥ) they(te) on-ground(bhūmau) should-pour(siñcet) then(tataḥ) water(jalam)
+
 ## mukta-m0-p108-v2693
-gods rudras satisfy thus these self recite
+gods(devāḥ) and(ca) rudras(rudrāḥ) may-be-satisfied(tṛpyantām) thus-saying(iti) these(ete) and(ca) himself(svayam) should-recite(paṭhat)
+
 ## mukta-m0-p108-v2694
-thus-said by-them this sentence to brahmin-best
+thus(iti) when-said(ukte) by-them(taiḥ) this(idam) speech(vākyam) in-reply(prati) o-best-twice-born(dvija+sattamāḥ)
+
 ## mukta-m0-p108-v2695
-faith and us not separate much-giving and us thus
+faith(śraddhā) and(ca) of-us(naḥ) not(mā) may-depart(vyavagāt) much-to-be-given(bahu+deyam) and(ca) of-us(naḥ) be(astu) thus(iti)
+
 ## mukta-m0-p108-v2696
-in-which they libations first arghya-vessel placed
+in-which(yasmin) those(te) tricklings(saṃsravāḥ) previously(pūrvam) in-arghya-vessel(arghya+pātre) were-placed(niveśitāḥ)
+
 ## mukta-m0-p108-v2697
-sadyojata mantra ancestors-first follow
+with-sadyojāta-mantra(sadyojātena mantreṇa) beginning-with-pitṛs(pitṛ+pūrvam) should-follow(anuvrajet)
+
 ## mukta-m0-p108-v2698
-desired-with together-enjoy thus they say desired-givers
+with-desired-ones(iṣṭaiḥ) together(saha) should-be-eaten(upabhoktavyam) thus(iti) they(te) should-say(brūyuḥ) wish-granters(iṣṭa+dāḥ)
+
 ## mukta-m0-p108-v2699
-throw family-wife or middle ball tearfully
+should-cast(prakṣipet) family-wife(kula+patnī) or(vā) middle(madhyamam) ball(piṇḍam) should-eat(aśnuyāt)
+
 ## mukta-m0-p108-v2700
-steady glorious famous and learning-progeny-crosser
+wise(dhīraḥ) prosperous(śrīmān) famous(yaśasvī) and(ca) learning-lineage-accomplished(vidyā+santāna+pāragaḥ)

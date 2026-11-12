@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[śrī-veṣṭaka](śrīveṣṭako) [gandha-rasa](gandharasaḥ) [pippalī](pippalī) [hasti-pippalī](hastipippalī)
+[śrīveṣṭaka](śrīveṣṭako) [gandha+rasa](gandharasaḥ) [long-pepper](pippalī) [elephant+long-pepper](hastipippalī)
 
 ## mukta-m0-p11-v252
-[rakta-candana](raktacandanasaṃjñañca) [lavaṃga](lavaṃgaṃ) [rātri-cūrṇaka](rātricūrṇakam)
+[red+sandal+named](raktacandanasaṃjñañca) [clove](lavaṃgaṃ) [night+powder](rātricūrṇakam)
 
 ## mukta-m0-p11-v253
-[catuḥ-kṣīra](catuḥ+kṣīra) [kuja-udbhūta](kujodbhūta) [tvak-sāra](tvaksārvasyātkaṣāyakaḥ)
+[four+milk](catuḥ) [kṣīra](kṣīra) [kuja+born+bark](kujodbhūtatvaksārvasyātkaṣāyakaḥ)
 
 ## mukta-m0-p11-v254
-[dūrvā](dūrvā) [tila](tila) [kuśa-agra](kuśāgraistu) [mārjana](mārjanaṃ) [abhidhīyate](tvabhidhīyate)
+[dūrvā+sesame+kuśa+tips](dūrvātilakuśāgraistu) [sweeping](mārjanaṃ) [indeed+is-prescribed](tvabhidhīyate)
 
 ## mukta-m0-p11-v255
-[pādya](pādyam) [ācamana](ācamanañca) [arghya](arghyaṃ) [gavya](gavyaṃ) [dikṣu](dikṣu) [vidikṣu](vidikṣu) [ca](ca)
+[foot-water](pādyam) [sipping-water](ācamanañcārghyaṃ) [cow-product](gavyaṃ) [in-directions](dikṣu) [in-intermediate-directions](vidikṣu) [and](ca)
 
 ## mukta-m0-p11-v256
-[tila](tilaṃ) [śrī-vṛkṣa-patra](śrīvṛkṣapatrañca) [candana](candanaṃ) [megha-saṃjñaka](meghasaṃjñakam)
+[sesame](tilaṃ) [śrīvṛkṣa+leaf](śrīvṛkṣapatrañca) [sandal](candanaṃ) [cloud+named](meghasaṃjñakam)
 
 ## mukta-m0-p11-v257
-[takkola](takkolañca) [phala](phalaṃ) [kuṣṭha](kuṣṭhaṃ) [kaccola](kaccolaṃ) [loha-saṃjñaka](lohasaṃjñakam)
+[takkola](takkolañca) [fruit](phalaṃ) [kuṣṭha](kuṣṭhaṃ) [kakkola](kaccolaṃ) [iron+named](lohasaṃjñakam)
 
 ## mukta-m0-p11-v258
-[tṛtīya-āvaraṇe](tṛtīyāvaraṇe) [saktu](saktūn) [agnau](agnau) [bhūta-ghaṭeṣu](bhūtaghaṭeṣvapi)
+[in-third+enclosure](tṛtīyāvaraṇe) [groats](saktūn) [in-fire](agnau) [in-element+pots](bhūtaghaṭeṣvapi)
 
 ## mukta-m0-p11-v259
-[dhātrī](dhātrī) [ca](ca) [nālikera](nālikerañca) [likuca](likucaṃ) [mātulaṃgaka](mātulaṃgakam)
+[myrobalan](dhātrī) [and](ca) [coconut](nālikerañca) [likuca-fruit](likucaṃ) [citron](mātulaṃgakam)
 
 ## mukta-m0-p11-v260
-[lakṣmī](lakṣmīñca) [sahadevī](sahadevīñca) [viṣṇu-krānti](viṣṇukrāntiṃ) [krameṇa](krameṇa) [tu](tu)
+[lakṣmī](lakṣmīñca) [sahadevī](sahadevīñca) [viṣṇukrānti](viṣṇukrāntiṃ) [in-order](krameṇa) [indeed](tu)
 
 ## mukta-m0-p11-v261
-[guñjā-ādi](guñjādi) [niṣka-paryanta](niṣkaparyantaṃ) [pādya-ādi-aṅga](pādyādyaṃgaṃ) [pramāṇaka](pramāṇakam)
+[from-guñjā](guñjādi) [up-to-niṣka](niṣkaparyantaṃ) [foot-water+etc+limb](pādyādyaṃgaṃ) [measure](pramāṇakam)
 
 ## mukta-m0-p11-v262
-[madhya-māna](madhyamānaṃ) [tathā](tathā) [prokta](proktaṃ) [pāda-ardha](pādamardhaṃ) [tathā-api](tathāpi) [vā](vā)
+[middle+measure](madhyamānaṃ) [likewise](tathā) [declared](proktaṃ) [quarter](pādamardhaṃ) [likewise+also](tathāpi) [or](vā)
 
 ## mukta-m0-p11-v263
-[karpūra-kuṃkuma-ādīnām](karpūrakuṃkumādīnāṃ) [mānam](mānamiṣṭaṃ) [iṣṭa](iṣṭaṃ) [pradīyatām](pradīyatām)
+[camphor+saffron+etc](karpūrakuṃkumādīnāṃ) [measure](mānam) [as-desired](iṣṭaṃ) [should-be-given](pradīyatām)
 
 ## mukta-m0-p11-v264
-[evaṃ](evaṃ) [trividha-rītyā](trividharītyā) [tu](tu) [śatam](śatamaṣṭottaraṃ) [aṣṭa-uttara](aṣṭottaraṃ) [matam](matam)
+[thus](evaṃ) [by-threefold+method](trividharītyā) [indeed](tu) [hundred](śatam) [eight+more](aṣṭottaraṃ) [is-considered](matam)
 
 ## mukta-m0-p11-v265
-[aṣṭā-dvāra-samāyuktaiḥ](aṣṭādvārasamāyuktai) [rekā-śītiḥ](rekāśītistu) [tu](tu) [pūjyate](pūjyate)
+[with-eight+twelve+combined](aṣṭādvārasamāyuktai) [one+eighty](rekāśītistu) [is-worshipped](pūjyate)
 
 ## mukta-m0-p11-v266
-[varāla](varālatruṭikarpūratvagelośīrajātayaḥ) [truṭi](truṭi) [karpūra](karpūra) [tvak](tvak) [elo](elo) [śīra](śīra) [jātayaḥ](jātayaḥ)
+[varāla](varāla) [truṭi](truṭi) [camphor](karpūra) [bark](tvag) [cardamom](elo) [uśīra+born](śīrajātayaḥ)
 
 ## mukta-m0-p11-v267
-[tena-eva](tenaiva) [pūrayet](pūrayet) [kumbhān](kumbhān) [vardhanī](vardhanī) [kalaśān-api](kalaśānapi)
+[with-that+indeed](tenaiva) [one-should-fill](pūrayet) [pots](kumbhān) [vardhanī](vardhanī) [pitchers](kalaśān) [also](api)
 
 ## mukta-m0-p11-v268
-[kṣīra](kṣīrandadhighṛtañcaiva) [dadhi](dadhi) [ghṛta](ghṛtañcaiva) [prathama-āvaraṇe](prathamāvaraṇe) [nyaset](nyaset)
+[milk](kṣīran) [curd](dadhi) [ghee](ghṛtañcaiva) [in-first+enclosure](prathamāvaraṇe) [one-should-place](nyaset)
 
 ## mukta-m0-p11-v269
-[sarṣapa](sarṣapaṃ) [nālikera-ākhya](nālikerākhyaṃ) [rajanī](rajanī) [mātulaṃgaka](mātulaṃgakam)
+[mustard](sarṣapaṃ) [coconut+named](nālikerākhyaṃ) [turmeric](rajanī) [citron](mātulaṃgakam)
 
 ## mukta-m0-p11-v270
-[pañca-viṃśati-madhya-stha](pañcaviṃśatimadhyastha) [dravyāṇi](dravyāṇyetāni) [ṣoḍaśa](ṣoḍaśa)
+[twenty-five+middle+situated](pañcaviṃśatimadhyastha) [substances](dravyāṇi) [these](etāni) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p11-v271
-[pūrvasmin](pūrvasmin) [saṃsthitaṃ](saṃsthitaṃ) [jñeyaṃ](jñeyaṃ) [koṇa-dvaya-vivarjitam](koṇadvayavivarjitam)
+[in-eastern](pūrvasmin) [situated](saṃsthitaṃ) [should-be-known](jñeyaṃ) [two-corners+excluded](koṇadvayavivarjitam)
 
 ## mukta-m0-p11-v272
-[dakṣiṇe](dakṣiṇe) [paścime](paścime) [jñeyaṃ](jñeyaṃ) [mānyāstra-phala-toya-yuk](mānyāstraphalatoyayuk)
+[in-south](dakṣiṇe) [in-west](paścime) [should-be-known](jñeyaṃ) [mānyā+weapon+fruit+water+joined](mānyāstraphalatoyayuk)
 
 ## mukta-m0-p11-v273
-[kānta-mūla-udakaṃ](kāntamūlodakaṃ) [brahma-kūrcaṃ](brahmakūrcaṃ) [śānti-udaka-valkale](śāntyudavalkale)
+[kānta+root+water](kāntamūlodakaṃ) [brahma+kūrca](brahmakūrcaṃ) [peace+water](śāntyudavalkale)
 
 ## mukta-m0-p11-v274
-[puṣpa-rāgaṃ](puṣparāgaṃ) [pravālañca](pravālañca) [sphaṭikaṃ](sphaṭikaṃ) [marakataṃ](marakatantathā) [tathā](tathā)
+[topaz](puṣparāgaṃ) [coral](pravālañca) [crystal](sphaṭikaṃ) [emerald+likewise](marakatantathā)
 
 ## mukta-m0-p11-v275
-[ratna-udakaṃ](ratnodakamiti) [iti](iti) [proktaṃ](proktaṃ) [loha-udakaṃ](lohodakamataḥ) [ataḥ](ataḥ) [param](param)
+[gem+water](ratnodakam) [thus](iti) [declared](proktaṃ) [metal+water](lohodakam) [now](ataḥ) [further](param)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[there+having-invoked](tatrāvāhya) [let-one-worship](yajet) [with-limbs](sāṅgaṃ) [aghora-weapon](aghorāstraṃ) [in-Shiva-fire](śivānale)
+[there](tatra) [having-invoked](āvāhya) [one-should-worship](yajet) [with-limbs](sāṅgaṃ) [aghora-weapon](aghorāstraṃ) [in-śiva-fire](śivānale)
 
 ## mukta-m0-p117-v2902
-[haviṣya-food](haviṣyānnaṃ) [thousand](sahasraṃ) [or](vā) [half-of-that](tadardhaṃ) [hundred](śatam) [indeed](eva) [or](vā)
+[oblation-food](haviṣyānnaṃ) [a-thousand](sahasraṃ) [or](vā) [its-half](tadardhaṃ) [a-hundred](śatam) [only](eva) [or](vā)
 
 ## mukta-m0-p117-v2903
-[work+instruction](karmanirdeśa) [joined](saṃyuktam) [with-limbs](aṅgair) [with-weapons](astraiḥ) [and](ca) [let-one-satisfy](tarpayet)
+[with-rite-designation](karmanirdeśa) [joined](saṃyuktam) [with-limbs](aṅgaiḥ) [and-with-weapons](astraiḥ) [and](ca) [one-should-satisfy](tarpayet)
 
 ## mukta-m0-p117-v2904
-[again](punaḥ) [full](pūrṇāṃ) [and](ca) [betel](tāmbūlaṃ) [having-given](datvā) [having-praised](stutvā) [having-saluted](abhivandya) [and](ca)
+[again](punaḥ) [full-offering](pūrṇāṃ) [and](ca) [betel](tāmbūlaṃ) [having-given](datvā) [having-praised](stutvā) [having-saluted](abhivandya) [and](ca)
 
 ## mukta-m0-p117-v2905
-[for-own-purpose](svārthaṃ) [and](ca) [for-sacrificer-purpose](yajamānārthaṃ) [and](ca) [let-one-give](dadyāt) [arghya](arghyaṃ) [with-face-turned-away](parāṅmukham)
+[for-one's-own-sake](svārthaṃ) [and](ca) [for-sake-of-sacrificer](yajamānārthaṃ) [and](ca) [one-should-give](dadyāt) [arghya](arghyaṃ) [facing-away](parāṅmukham)
 
 ## mukta-m0-p117-v2906
-[there+indeed](tatraiva) [let-one-protect](rakṣayet) [always](nityaṃ) [until](yāvat) [work](karma) [for-completion](samāptaye)
+[there](tatra) [indeed](eva) [one-should-protect](rakṣayet) [daily](nityaṃ) [until-rite](yāvatkarma) [completion](samāptaye)
 
 ## mukta-m0-p117-v2907
-[inside+outside](antarbahis) [bali](baliṃ) [having-given](datvā) [having-sipped](samācamya) [with-subtle-body](aṇuvigrahaḥ)
+[inside-and-outside](antarbahir) [offering](baliṃ) [having-given](datvā) [having-sipped-water](samācamya) [atomic-bodied](aṇuvigrahaḥ)
 
 ## mukta-m0-p117-v2908
-[then](tataḥ) [that+pot](tat+kumbha) [with-waters](pānīyaiḥ) [let-one-bathe](snāpayet) [supreme-lord](parameśvaram)
+[then](tatas) [with-that-pot](tatkumbha) [waters](pānīyaiḥ) [one-should-bathe](snāpayet) [the-supreme-lord](parameśvaram)
 
 ## mukta-m0-p117-v2909
-[having-prayed](saṃprārthya) [desired](vāñcitaṃ) [from-god](devāt) [having-obtained-permission](labdhānujñaḥ) [grace-born](prasādajam)
+[having-earnestly-requested](saṃprārthya) [the-desired](vāñcitaṃ) [from-the-god](devāt) [having-obtained-permission](labdhānujñaḥ) [born-of-grace](prasādajam)
 
 ## mukta-m0-p117-v2910
-[here+also](atrāpi) [study](adhyayanaṃ) [mantra-recitation](mantrajapaṃ) [like-peace-rite](śāntivat) [let-one-perform](ācaret)
+[here](atra) [also](api) [study](adhyayanaṃ) [mantra-recitation](mantrajapaṃ) [as-pacification](śāntivat) [one-should-perform](ācaret)
 
 ## mukta-m0-p117-v2911
-[another](anyo) [also](api) [of-image-homa](mūrtihomasya) [speciality](viśeṣaḥ) [indeed](tu) [here](atra) [is-told](kathyate)
+[another](anyaḥ) [also](api) [of-image-oblation](mūrtihomasya) [special-rule](viśeṣaḥ) [but](tu) [here](atra) [is-stated](kathyate)
 
 ## mukta-m0-p117-v2912
-[let-one-worship-together](saṃyajet) [image](mūrtim) [image-lord](mūrtīśa) [in-eight](aṣṭa) [pots](kumbheṣu) [outside](bāhyataḥ)
+[one-should-worship](saṃyajet) [image-and-image-lords](mūrti+mūrtīśān) [in-eight](aṣṭa) [pots](kumbheṣu) [outside](bāhyataḥ)
 
 ## mukta-m0-p117-v2913
-[on-altars](sthaṇḍileṣu) [in-eight-pits](aṣṭakuṇḍeṣu) [with-altars](vedikāsahiteṣu) [or](vā)
+[on-altar-grounds](sthaṇḍileṣu) [in-eight-fire-pits](aṣṭakuṇḍeṣu) [with-platforms](vedikāsahiteṣu) [or](vā)
 
 ## mukta-m0-p117-v2914
-[fifty-numbered](pañcāśatsaṃkhyakaṃ) [or](vā) [also](api) [for-that-purpose](tadarthaṃ) [or](vā) [separately](pṛthak) [separately](pṛthak)
+[fifty](pañcāśat) [in-number](saṃkhyakaṃ) [or](vā) [also](api) [its-half](tadarthaṃ) [or](vā) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p117-v2915
-[śamī-pārma-śrī-vṛkṣa-plakṣa](śamyapārmaśrīvṛkṣaplakṣāḥ) [fuel-sticks](samidhaḥ) [declared](īritāḥ)
+[śamī](śamī) [palāśa](apārma) [bilva](śrīvṛkṣa) [and-plakṣa](plakṣāḥ) [fuel-sticks](samidhaḥ) [are-declared](īritāḥ)
 
 ## mukta-m0-p117-v2916
-[in-five-fortnights](pañcapakṣe) [in-eight-fortnights](aṣṭapakṣe) [or](vā) [altar](sthaṇḍilaṃ) [east-facing](pūrvadiggatam)
+[in-fivefold-option](pañcapakṣe) [in-eightfold-option](aṣtapakṣe) [or](vā) [altar-ground](sthaṇḍilaṃ) [situated-in-east](pūrvadiggatam)
 
 ## mukta-m0-p117-v2917
-[in-first](pūrvasmin) [īśa-pit](īśakuṇḍe) [or](vā) [guru](guruḥ) [of-saṃhitā](saṃhitāyāḥ) [oblation](āhutim)
+[in-eastern](pūrvasmin) [īśa-fire-pit](īśa+kuṇḍe) [or](vā) [the-teacher](guruḥ) [with-saṃhitā](saṃhitāya) [oblation](āhutim)
 
 ## mukta-m0-p117-v2918
-[having-worshipped](saṃpūjya) [with-sandal-flowers-etc](gandhapuṣpādyaiḥ) [let-one-pray](prārthayet) [for-desired-accomplishment](iṣṭasiddhaye)
+[having-worshipped](saṃpūjya) [with-fragrance-flowers-etc.](gandha+puṣpa+ādyaiḥ) [one-should-pray](prārthayet) [for-desired-success](iṣṭasiddhaye)
 
 ## mukta-m0-p117-v2919
-[to-be-done](kartavyaḥ) [image-homa](mūrtihomaḥ) [this](ayam) [with-image-lord-worship-homa](mūrtīśārcanahomayuk)
+[to-be-performed](kartavyaḥ) [image-oblation](mūrtihomaḥ) [this](ayam) [joined-with-image-lord-worship-and-oblation](mūrtīśa+arcana+homayuk)
 
 ## mukta-m0-p117-v2920
-[by-peace-stated-day-count](śāntyuktadina-saṃkhyāyāḥ) [by-rule](vaśena) [this](etat) [let-one-perform](samācaret)
+[according-to-pacification-stated](śāntyukta) [day-number](dina+saṃkhyāyāḥ) [by-force-of](vaśena) [this](etat) [one-should-perform](samācaret)
 
 ## mukta-m0-p117-v2921
-[since](yataḥ) [by-me](mayā) [well-instructed](samadiṣṭa) [therefore](tataḥ) [not](na) [today](adya) [also](api) [is-told](kathyate)
+[because](yataḥ) [by-me](mayā) [fully-instructed](samadiṣṭaḥ) [therefore](tataḥ) [not](na) [now](adya) [also](api) [is-stated](kathyate)
 
 ## mukta-m0-p117-v2922
-[in-gate-lord-worship-omission](dvāreśārcanalope) [and](ca) [in-five-purification-omission](pañcaśuddhivilopane)
+[in-door-guardian-worship](dvāreśa+arcana) [omission](lope) [and](ca) [in-five-purifications](pañcaśuddhi) [omission](vilopane)
 
 ## mukta-m0-p117-v2923
-[of-pādya-etc](pādyādīnāṃ) [in-fourfold](catuṣke) [and](ca) [in-anointing+rubbing](abhyaṅgakodvartane) [also](api) [or](vā)
+[of-foot-water-etc.](pādya+ādīnāṃ) [in-the-group-of-four](catuṣke) [and](ca) [in-anointing-and-rubbing](abhyaṅga+udvartane) [also](api) [or](vā)
 
 ## mukta-m0-p117-v2924
-[in-worshipped](arcite) [in-five-cow-products](pañcagavye) [or](vā) [in-omitted](lupte) [in-five-nectars](pañcāmṛte) [also](api) [or](vā)
+[when-worshipped](arcite) [in-five-products-of-cow](pañcagavye) [or](vā) [when-omitted](lupte) [in-five-nectars](pañcāmṛte) [also](api) [or](vā)
 
 ## mukta-m0-p117-v2925
-[in-lamp](dīpe) [and](ca) [in-ārātrika](ārātrike) [in-omitted](lupte) [in-incense-ārātrika](dhūpārātrikayoḥ) [then](atha)
+[in-lamp](dīpe) [and](ca) [in-ārātrika](ārātrike) [when-omitted](lupte) [of-incense-and-ārātrika](dhūpa+ārātrikayoḥ) [then](atha)
