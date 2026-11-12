@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound: padma+lotus",
+   "morph": "compound:padma+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "patre",
-   "morph": "compound: patra+leaf (n.loc.sg)",
-   "grounds": "second member of compound"
+   "morph": "compound:patra+second;n.loc.sg",
+   "grounds": "locus of comparison"
   },
   {
    "lemma": "yathā",
@@ -20,7 +20,7 @@
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "object of comparison"
+   "grounds": "element in comparison"
   },
   {
    "lemma": "tathā",
@@ -44,7 +44,7 @@
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.present-passive √lip",
+   "morph": "3.sg.pass-present √lip",
    "grounds": "state of non-attachment"
   }
  ]

@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "aṇimā",
-   "morph": "f.nom.sg",
+   "morph": "compound:aṇimā+first",
    "grounds": "first supernatural power"
   },
   {
    "lemma": "ādi",
-   "morph": "compound: ādi+and-other",
-   "grounds": "member of compound"
+   "morph": "compound:ādi+middle",
+   "grounds": "inclusive marker"
   },
   {
    "lemma": "guṇa",
-   "morph": "compound: guṇa+qualities",
+   "morph": "compound:guṇa+middle",
    "grounds": "member of compound"
   },
   {
    "lemma": "aiśvarya",
-   "morph": "compound: aiśvarya+lordship",
+   "morph": "compound:aiśvarya+middle",
    "grounds": "member of compound"
   },
   {
    "lemma": "siddhiḥ",
-   "morph": "compound: siddhi+accomplishment (f.nom.sg)",
-   "grounds": "final member of compound"
+   "morph": "compound:siddhi+final;f.nom.sg",
+   "grounds": "resulting attainment"
   },
   {
    "lemma": "ca",
@@ -39,7 +39,7 @@
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
+   "morph": "3.sg.act-optative √bhū",
    "grounds": "potential result"
   }
  ]

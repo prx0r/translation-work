@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "Under what temporal condition are old age and death said to be destroyed?",
+ "question": "What result follows when this practice is performed for one year?",
  "premises": [
-  "A duration of one year is given.",
-  "The condition is that it has been practiced when or for that time.",
-  "Old age and death are the subjects said to be destroyed."
+  "The practice is performed for one year",
+  "The practice becomes established",
+  "Old age and death are destroyed"
  ],
- "inference": "When this has been practiced for one year, old age and death are destroyed.",
- "uncertainties": [
-  "The referent of the practice is presupposed from the preceding verses."
- ],
- "plain_english": "When practiced for one year, old age and death are destroyed."
+ "inference": "When practiced for one year, old age and death are destroyed.",
+ "uncertainties": [],
+ "plain_english": "When this is practiced for one year, old age and death are destroyed."
 }

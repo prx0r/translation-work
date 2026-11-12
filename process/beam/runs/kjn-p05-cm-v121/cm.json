@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "amṛta+agraṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = amṛta+agra; accusative as given"
+   "morph": "compound:n.acc.sg",
+   "grounds": "compound locus"
   },
   {
    "lemma": "rasa+agreṇa",
-   "morph": "compound = member+membership",
-   "grounds": "compound = rasa+agra; instrumental as given"
+   "morph": "compound:m.ins.sg",
+   "grounds": "compound instrumental"
   },
   {
    "lemma": "dahyamāna",
    "morph": "m.nom.sg",
-   "grounds": "present participle middle/passive of dah"
+   "grounds": "present participle"
   },
   {
    "lemma": "sudhīr",
    "morph": "m.nom.sg",
-   "grounds": "nominative of sudhī"
+   "grounds": "subject"
   },
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "adversative/emphatic particle"
+   "grounds": "emphatic particle"
   }
  ]
 }

@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "abdam+ekaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = abda+eka; accusative of duration as given"
+   "morph": "compound:m.acc.sg",
+   "grounds": "compound duration"
   },
   {
    "lemma": "yadā+abhyastañ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = yadā+abhyasta; nominative/accusative as given with fused ending"
+   "morph": "compound:n.nom.sg",
+   "grounds": "compound temporal condition"
   },
   {
    "lemma": "jarā+mṛtyur",
-   "morph": "compound = member+membership",
-   "grounds": "compound = jarā+mṛtyu; nominative as given"
+   "morph": "compound:m.nom.sg",
+   "grounds": "compound subject"
   },
   {
    "lemma": "vinaśyati",
-   "morph": "3.sg.pres.act/vi-naś",
-   "grounds": "verb vi-naś 3.sg.pres.act"
+   "morph": "3.sg.act-pres √naś",
+   "grounds": "resulting state"
   }
  ]
 }

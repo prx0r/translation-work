@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "laulya",
-   "morph": "compound: laulya+greed",
+   "morph": "compound:laulya+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "arthī",
-   "morph": "compound: arthin+seeker (m.nom.sg)",
-   "grounds": "second member of compound"
+   "morph": "compound:arthin+second;m.nom.sg",
+   "grounds": "motivated person"
   },
   {
    "lemma": "capalā",
@@ -20,22 +20,22 @@
   {
    "lemma": "nityaṃ",
    "morph": "(indecl.)",
-   "grounds": "constant time"
+   "grounds": "constant state"
   },
   {
    "lemma": "kula",
-   "morph": "compound: kula+kula",
+   "morph": "compound:kula+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "śāstra",
-   "morph": "compound: śāstra+scripture",
-   "grounds": "member of compound"
+   "morph": "compound:śāstra+middle",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "viḍambakam",
-   "morph": "compound: viḍambaka+mockery (n.nom.sg)",
-   "grounds": "final member of compound"
+   "morph": "compound:viḍambaka+final;n.nom.sg",
+   "grounds": "disparaging characterization"
   }
  ]
 }

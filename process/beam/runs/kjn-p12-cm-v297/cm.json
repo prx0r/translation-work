@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kula",
-   "morph": "compound: kula+kula",
+   "morph": "compound:kula+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "vijñāna",
-   "morph": "compound: vijñāna+knowledge",
-   "grounds": "member of compound"
-  },
-  {
-   "lemma": "saṃbhogāt",
-   "morph": "compound: saṃbhoga+enjoyment (m.abl.sg)",
-   "grounds": "final member of compound"
-  },
-  {
-   "lemma": "ṣaṇ",
-   "morph": "compound: ṣaṣ+six",
-   "grounds": "first member of compound"
-  },
-  {
-   "lemma": "māsāt",
-   "morph": "compound: māsa+months (m.abl.sg)",
+   "morph": "compound:vijñāna+middle",
    "grounds": "second member of compound"
   },
   {
+   "lemma": "saṃbhogāt",
+   "morph": "compound:saṃbhoga+final;m.abl.sg",
+   "grounds": "means or cause"
+  },
+  {
+   "lemma": "ṣaṇ",
+   "morph": "compound:ṣaṣ+first",
+   "grounds": "numeral in compound"
+  },
+  {
+   "lemma": "māsāt",
+   "morph": "compound:māsa+second;m.abl.sg",
+   "grounds": "time period"
+  },
+  {
    "lemma": "siddhi",
-   "morph": "compound: siddhi+accomplishment",
+   "morph": "compound:siddhi+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "bhājanaḥ",
-   "morph": "compound: bhājana+recipient (m.nom.sg)",
-   "grounds": "second member of compound"
+   "morph": "compound:bhājana+second;m.nom.sg",
+   "grounds": "one who attains"
   }
  ]
 }

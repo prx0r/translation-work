@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound: brahma+brahmin",
+   "morph": "compound:brahma+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "hatyā",
-   "morph": "compound: hatyā+killing",
-   "grounds": "member of compound"
+   "morph": "compound:hatyā+middle",
+   "grounds": "grave sin"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "compound: ādi+and-other (n.nom.sg)",
-   "grounds": "final member of compound"
+   "morph": "compound:ādi+final;n.nom.sg",
+   "grounds": "inclusive marker"
   },
   {
    "lemma": "pāpam",
@@ -24,23 +24,23 @@
   },
   {
    "lemma": "aśva",
-   "morph": "compound: aśva+horse",
+   "morph": "compound:aśva+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "medha",
-   "morph": "compound: medha+sacrifice",
-   "grounds": "member of compound"
+   "morph": "compound:medha+middle",
+   "grounds": "great ritual"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "compound: ādi+and-other (n.nom.sg)",
-   "grounds": "final member of compound"
+   "morph": "compound:ādi+final;n.nom.sg",
+   "grounds": "inclusive marker"
   },
   {
    "lemma": "phalam",
    "morph": "n.nom.sg",
-   "grounds": "meritorious result"
+   "grounds": "positive result"
   }
  ]
 }

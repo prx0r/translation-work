@@ -1,16 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protection is claimed for the body even in the case of being bitten by great serpents?",
+ "question": "What immunity to poison results from the completed practice?",
  "premises": [
-  "Poison is the subject.",
-  "A negation states that poison does not enter.",
-  "The location is the body.",
-  "This holds even if one has been bitten by great serpents."
+  "The practitioner may be bitten by great serpents",
+  "Poison would normally enter the body",
+  "Poison does not enter the body"
  ],
- "inference": "Poison does not enter the body, even if one has been bitten by great serpents.",
- "uncertainties": [
-  "The basis for this protection is not stated in this verse."
- ],
- "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
+ "inference": "Even if bitten by great serpents, poison does not enter the practitioner's body.",
+ "uncertainties": [],
+ "plain_english": "Even if bitten by great serpents, poison does not enter the body."
 }

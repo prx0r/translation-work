@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[seed-form](bījarūpaṃ) [great-god](mahādevaṃ) [creation-power](sṛṣṭiśakti) [own-form](svarūpakam)
+[seed-form](bījarūpaṃ) [great-god](mahādevaṃ) [creation+power](sṛṣṭiśakti) [own-nature](svarūpakam)
 
 ## mukta-m0-p63-v1552
-[manifestation](prādurbhāvaṃ) [concealment](tirobhāvaṃ) [mutual](paraspara) [intended](vivakṣitam)
+[manifestation](prādurbhāvaṃ) [withdrawal](tirobhāvaṃ) [mutual](paraspara) [intended](vivakṣitam)
 
 ## mukta-m0-p63-v1553
-[power-there](śaktistatra) [great-goddess](mahādevi) [subtle-form](sūkṣmarūpeṇa) [spoken](bhāṣitā)
+[power](śaktiḥ) [there](tatra) [great-goddess](mahādevi) [subtle+form](sūkṣmarūpeṇa) [spoken](bhāṣitā)
 
 ## mukta-m0-p63-v1554
-[fivefold](pañcadhā) [onefold](ekadhā) [where](yatra) [many-formed](nānārūpavatī) [śivā](śivā)
+[fivefold](pañcadhā) [also](api) [onefold](ekadhā) [where](yatra) [having+manifold+forms](nānārūpavatī) [auspicious](śivā)
 
 ## mukta-m0-p63-v1555
-[inseparable-relation](avinābhāva) [connection](sambandhaṃ) [of-two-indeed](dvayoreva) [mutual](parasparam)
+[inseparable](avinābhāva) [relation](sambandhaṃ) [of-the-two](dvayoḥ) [indeed](eva) [mutual](parasparam)
 
 ## mukta-m0-p63-v1556
-[power-impregnated-śaṅkara](śaktyāktaśaṅkaram)
+[by-power+pervaded](śaktyākta) [Śaṅkara](śaṅkaram)
 
 ## mukta-m0-p63-v1557
-[power-and](śaktiśca) [in-puruṣas-impregnated](puruṣeṣvāktā) [when](yadā) [all](sarva) [illuminating](prakāśinī)
+[power](śaktiḥ) [and](ca) [in-persons](puruṣeṣu) [pervaded](āktā) [when](yadā) [all+illuminating](sarva) (prakāśinī)
 
 ## mukta-m0-p63-v1558
-[śiva](śiva) [knowledge](jñānaṃ) [without](vinā) [anything](kiñcit) [śakti-knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
+[Śiva+knowledge](śiva) (jñānaṃ) [without](vinā) [anything](kiñcit) [power+knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p63-v1559
-[thus](iti) [composed-by-śrī-sarvānanda-nātha](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [fifty-first-chapter](ekapañcāśadullāsaḥ)
+[thus](iti) [in-the-Śrī+Sarvānandanātha+composed](śrīsarvānandanāthaviracite) [in-the-Sarvollāsa](sarvollāse) [fifty-first+chapter](ekapañcāśadullāsaḥ)
 
 ## mukta-m0-p63-v1560
-[therefore](ataśca) [after-many-births](bahujanmānte) [śakti](śakti) [knowledge](jñānaṃ) [is-born](prajāyate)
+[therefore](ataḥ) [and](ca) [at-the-end+of-many+births](bahujanmānte) [power+knowledge](śakti) (jñānaṃ) [arises](prajāyate)
 
 ## mukta-m0-p63-v1561
-[that](sā) [power-vāmā](śaktirvāmā) [to-be-known](vijñeyā) [of-puruṣa](puruṣasyāpi) [liberation-giving](muktidā)
+[that](sā) [power](śaktiḥ) [Vāmā](vāmā) [to-be-known](vijñeyā) [of-the-person](puruṣasya) [also](api) [liberation+giving](muktidā)
 
 ## mukta-m0-p63-v1562
-[giving](dāyinī)
+[giver](dāyinī)
 
 ## mukta-m0-p63-v1563
-[manifest](vyaktā) [pleasing](ramaṇa) [satisfied](tuṣṭā) [and](cet) [hidden](guptā) [pleasing](ramaṇa) [satisfaction](tuṣṭitā)
+[manifest](vyaktā) [delighting+in-union](ramaṇa) [satisfied](tuṣṭā) [if](cet) [hidden](guptā) [delighting+in-union](ramaṇa) [satisfaction](tuṣṭitā)
 
 ## mukta-m0-p63-v1564
-[therefore](ataḥ) [from-them](tebhyaḥ) [principal](pradhānaṃ) [indeed](hi) [power](śaktiṃ) [know](viddhi) [great-minded](mahāmate)
+[therefore](ataḥ) [among-them](tebhyaḥ) [supreme](pradhānaṃ) [indeed](hi) [power](śaktiṃ) [know](viddhi) [O-great-minded-one](mahāmate)
 
 ## mukta-m0-p63-v1565
-[that-very](saiva) [all-lady](sarveśvarī) [goddess](devi) [he](sa) [and](ca) [all](sarvo) [great-lord](maheśvaraḥ)
+[she](sā) [alone](eva) [sovereign-of-all](sarveśvarī) [goddess](devi) [he](sa) [and](ca) [lord-of-all](sarvo) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p63-v1566
-[doable-and-not-doable](kāryākāryaṃ) [O-great-goddess](maheśāni) [of-her](tasyā) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
+[to-be-done+and-not-to-be-done](kāryākāryaṃ) [O-great-goddess](maheśāni) [of-her](tasyā) [alone](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p63-v1567
-[doable-and-not-doable](kāryākāryaṃ) [becomes](bhavet) [of-power](śakteḥ) [unattached](nirliptaḥ) [puruṣa](puruṣaḥ) [O-śiva](śive)
+[to-be-done+and-not-to-be-done](kāryākāryaṃ) [may-be](bhavet) [of-power](śakteḥ) [untainted](nirliptaḥ) [person](puruṣaḥ) [O-auspicious-one](śive)
 
 ## mukta-m0-p63-v1568
-[action](kriyā) [of-power](śakteḥ) [becomes](bhavet) [work](kāryaṃ) [of-beings](prāṇināṃ) [all-accomplishment](sarvasādhane)
+[action](kriyā) [of-power](śakteḥ) [may-be](bhavet) [effect](kāryaṃ) [of-beings](prāṇināṃ) [in-accomplishing+all](sarvasādhane)
 
 ## mukta-m0-p63-v1569
-[or](athavāpi) [śiva](śivaṃ) [to-be-known](jñeyaṃ) [embodied](dehinaṃ) [power](śakti) [seed](bījakam)
+[or-else](athavā) [also](api) [Śiva](śivaṃ) [to-be-known](jñeyaṃ) [embodied](dehinaṃ) [power+seed](śakti) (bījakam)
 
 ## mukta-m0-p63-v1570
-[vāmā-knowledge](vāmājñānaṃ) [O-great-goddess](maheśāni) [gross](sthūla) [subtle](sūkṣma) [measure](pramāṇakam)
+[Vāmā+knowledge](vāmājñānaṃ) [O-great-goddess](maheśāni) [gross+subtle](sthūla) (sūkṣma) [measure](pramāṇakam)
 
 ## mukta-m0-p63-v1571
-[in-absence](abhāve) [own-woman](svastriyaṃ) [goddess](devi) [how-said](kathamuktaṃ) [O-sadāśiva](sadāśive)
+[in-absence](abhāve) [one's-own+woman](svastriyaṃ) [O-goddess](devi) [how](katham) [stated](uktaṃ) [O-Sadāśiva](sadāśive)
 
 ## mukta-m0-p63-v1572
-[brahma](brahma) [given-fire](dattāgninā) [having-offered](hutvā) [śiva](śiva) [given](dattā) [but](tu) [by-desire](kāmataḥ)
+[by-Brahmā+given](brahma) (dattā) [by-fire](agninā) [having-offered](hutvā) [by-Śiva+given](śiva) (dattā) [but](tu) [by-desire](kāmataḥ)
 
 ## mukta-m0-p63-v1573
-[doubt](sandeho) [not-indeed](naiva) [to-be-done](kartavyo) [my](mama) [according-to-words](vākyānusārataḥ)
+[doubt](sandeho) [not](na) [indeed](eva) [to-be-made](kartavyo) [my+word](mama) (vākyānusārataḥ)
 
 ## mukta-m0-p63-v1574
-[own-vāmā](svavāmā) [for-pleasing](toṣaṇārthe) [even](api) [other](para) [vāmā](vāmāṃ) [and](ca) [please](toṣayet)
+[one's-own+Vāmā](svavāmā) [for-the-sake+of-satisfying](toṣaṇārthe) [also](api) [another's+Vāmā](para) (vāmāñ) [and](ca) [one-should-satisfy](toṣayet)
 
 ## mukta-m0-p63-v1575
-[please](toṣayet) [O-supreme-goddess](parameśāni) [heroic-state](vīrabhāva) [resorted](samāśritaḥ)
+[one-should-satisfy](toṣayet) [O-supreme-goddess](parameśāni) [hero+attitude](vīrabhāva) [resorting-to](samāśritaḥ)

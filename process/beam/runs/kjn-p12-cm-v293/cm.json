@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "vuka",
-   "morph": "compound: vuka+vuka",
+   "morph": "compound:vuka+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "puṣpaṃ",
-   "morph": "compound: puṣpa+flower (n.acc.sg)",
-   "grounds": "second member of compound"
+   "morph": "compound:puṣpa+second;n.acc.sg",
+   "grounds": "offering item"
   },
   {
    "lemma": "śiva",
-   "morph": "compound: śiva+auspicious",
+   "morph": "compound:śiva+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "ambuñ",
-   "morph": "compound: ambu+water (n.acc.sg)",
-   "grounds": "second member of compound"
+   "morph": "compound:ambu+second;n.acc.sg",
+   "grounds": "offering item"
   },
   {
    "lemma": "ca",
@@ -29,23 +29,23 @@
   },
   {
    "lemma": "rakta",
-   "morph": "compound: rakta+blood",
+   "morph": "compound:rakta+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "śukraṃ",
-   "morph": "compound: śukra+semen (n.acc.sg)",
-   "grounds": "second member of compound"
+   "morph": "compound:śukra+second;n.acc.sg",
+   "grounds": "offering substance"
   },
   {
    "lemma": "surām",
    "morph": "f.acc.sg",
-   "grounds": "ritual substance"
+   "grounds": "offering substance"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "concluding particle"
+   "grounds": "manner particle"
   }
  ]
 }
