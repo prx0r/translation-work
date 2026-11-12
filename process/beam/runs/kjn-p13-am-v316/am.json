@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 316,
- "question": "What further types of vessels are added to the list for the fair-hipped goddess?",
+ "question": "What further types of vessels are added to the enumeration?",
  "premises": [
-  "A Kaulika vessel is included",
-  "Another vessel is likewise included",
-  "That other vessel is born of glass"
+  "A Kaulika vessel is mentioned.",
+  "Another vessel born of glass is mentioned.",
+  "These are added to the previous list."
  ],
- "inference": "The list further includes a Kaulika vessel and one made of glass.",
- "uncertainties": [],
- "plain_english": "O fair-hipped one, indeed a Kaulika vessel, and likewise another born of glass."
+ "inference": "The list of vessels continues with a Kaulika vessel and one made of glass.",
+ "uncertainties": [
+  "The specific meaning of 'kaulika' as a vessel type is context-dependent."
+ ],
+ "plain_english": "O fair-hipped one, indeed the Kaulika vessel, and likewise another born of glass."
 }
