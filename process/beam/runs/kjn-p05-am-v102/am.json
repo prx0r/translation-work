@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "What kind of recipient is qualified to receive this teaching?",
+ "question": "Under what conditions may this teaching be transmitted to a recipient?",
  "premises": [
-  "The teaching is to be given.",
-  "The recipient is described as previously accomplished.",
-  "The recipient must be tested for one year."
+  "The teaching may be given",
+  "Transmission follows prior accomplishment",
+  "The recipient must be tested for one year"
  ],
- "inference": "Only a previously accomplished person tested for one year is fit to receive it.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "This teaching may be given only to one tested for a year under an accomplished predecessor.",
+ "uncertainties": [
+  "The exact syntactic role of pūrvasiddhasya is slightly ambiguous."
+ ],
+ "plain_english": "It should be given to one tested for a year by a previously accomplished master."
 }

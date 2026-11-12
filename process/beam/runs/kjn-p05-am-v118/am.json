@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "What transformation of the speaker's body is claimed after receiving knowledge?",
+ "question": "What transformation of the body follows the removal of ignorance's veil?",
  "premises": [
-  "The speaker refers to her body now.",
-  "The body is described as pure.",
-  "It was previously struck by the veil of ignorance."
+  "The body was struck by ignorance's veil",
+  "A present transformation is declared",
+  "The body is now described as pure"
  ],
- "inference": "The speaker claims her body is now pure, having been freed from the veil of ignorance.",
- "uncertainties": [],
- "plain_english": "Today my body is pure, no longer struck by the veil of ignorance."
+ "inference": "The body, once struck by the veil of ignorance, is now declared pure.",
+ "uncertainties": [
+  "The accusative deham is unexpected and may reflect textual transmission issues."
+ ],
+ "plain_english": "Today my body, once struck by the veil of ignorance, is pure."
 }

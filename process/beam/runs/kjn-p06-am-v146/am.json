@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 146,
- "question": "What rejuvenating effect results from six months of dedicated practice?",
+ "question": "What rejuvenating effect results from six months of repeated practice?",
  "premises": [
-  "Practice continues for six months",
-  "It is performed repeatedly",
+  "The practice is performed for six months",
+  "It is done repeatedly",
   "Even an old person becomes youthful"
  ],
- "inference": "Six months of repeated practice makes even an old person youthful.",
- "uncertainties": [],
+ "inference": "Through six months of repeated practice, even an old person becomes youthful.",
+ "uncertainties": [
+  "The form 'taruṇā' may reflect textual variation in gender agreement"
+ ],
  "plain_english": "Through six months of repeated practice, even an old person becomes youthful."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-all(sarva) + wealth(sampaṃ) + giving(pradā) [sarvasampaṃpradā] goddess(devī) moon-world(candra) + in(loke) [candraloke] established(pratiṣṭhitā)
+all(sarva) + prosperity(sampaṃ) + giver(pradā) [sarvasampaṃpradā] goddess(devī) moon(candra) + world(loke) [candraloke] established(pratiṣṭhitā)
 
 ## mukta-m0-p08-v177
-illusion(māyā) + ending(antā) [māyāntā] and(ca) great-goddess(maheśāni) three(tri) + power(śaktiḥ) [triśaktiḥ] proclaimed(parikīrtitā)
+māyā(māyā) + ending(antā) [māyāntā] and(ca) great(mahā) + goddess(īśāni) [maheśāni] three(tri) + power(śaktiḥ) [triśaktiḥ] proclaimed(parikīrtitā)
 
 ## mukta-m0-p08-v178
-wealth(dhana) + giver(dātrī) [dhanadātrī] great-goddess(mahādevi) three(tri) + aims(varga) + fruit(phala) + giving(dāyinī) [trivargaphaladāyinī]
+wealth(dhana) + giver(dātrī) [dhanadātrī] great(mahā) + goddess(devī) [mahādevi] three(tri) + class(varga) + fruit(phala) + giver(dāyinī) [trivargaphaladāyinī]
 
 ## mukta-m0-p08-v179
 full(pūrṇa) + form(rūpā) [pūrṇarūpā] great(mahā) + form(rūpā) [mahārūpā] illusion(māyā) + illusion(māyā) [māyāmāyā] proclaimed(prakīrtitā)
 
 ## mukta-m0-p08-v180
-Satī(Satī) + Lopāmudrā(lopāmudrā) [satīlopāmudrā] great-goddess(maheśāni) Viṣṇu(viṣṇu) + in-world(loke) [viṣṇuloke] very-difficult-to-obtain(sudurlabhā)
+satī(satī) + lopāmudrā(lopāmudrā) [satīlopāmudrā] great(mahā) + goddess(īśāni) [maheśāni] Viṣṇu(viṣṇu) + world(loke) [viṣṇuloke] very(su) + difficult-to-obtain(durlabhā) [sudurlabhā]
 
 ## mukta-m0-p08-v181
-sa-letter(sa) + beginning-with(kāra) + beginning(ādyā) [sakārādyā] great-goddess(maheśāni) creation(sṛṣṭi) + maintenance(sthiti) + dissolution(laya) + nature(ātmikā) [sṛṣṭisthitilayātmikā]
+sa(sakāra) + letter(kāra) + beginning(ādyā) [sakārādyā] great(mahā) + goddess(īśāni) [maheśāni] creation(sṛṣṭi) + maintenance(sthiti) + dissolution(laya) + nature(ātmikā) [sṛṣṭisthitilayātmikā]
 
 ## mukta-m0-p08-v182
-by-Maṅgala(maṅgala) + worshipped(upāsitā) [maṅgalopāsitā] knowledge(vidyā) of-all(sarveṣāṃ) joy(nandi) + increasing(varddhinī) [nandivarddhinī]
+Maṅgala(maṅgala) + worshipped(upāsitā) [maṅgalopāsitā] knowledge(vidyā) of-all(sarveṣāṃ) Nandi(nandi) + increaser(varddhinī) [nandivarddhinī]
 
 ## mukta-m0-p08-v183
-in-ka-letter(kakāre) and(ca) in-e-letter(ekāre) and(ca) in-ī-letter(īkāre) and(ca) goddess-of-gods(sureśvari)
+in-ka(kakāre) and(ca) in-e(ekāre) and(ca) in-ī(īkāre) and(ca) gods(sura) + sovereign(īśvari) [sureśvari]
 
 ## mukta-m0-p08-v184
-in-sa-letter(sakāre) terrible(bhīma) + form(rūpā) [bhīmarūpā] and(ca) illusion(māyā) and(ca) indeed(eva) eternal(sanātanī)
+in-sa(sakāre) terrible(bhīma) + form(rūpā) [bhīmarūpā] and(ca) illusion(māyā) and(ca) indeed(eva) eternal(sanātanī)
 
 ## mukta-m0-p08-v185
 in-every(sarvasmin) indeed(eva) mantra(mantre) but(tu) sound(nādaḥ) consciousness(caitanya) + form(rūpakaḥ) [caitanyarūpakaḥ]
 
 ## mukta-m0-p08-v186
-by-sun(sūryeṇa) + worshipped(upāsitā) [sūryeṇopāsitā] knowledge(vidyā) life(āyuḥ) + health(ārogya) + increasing(varddhinī) [āyurārogyavarddhinī]
+by-Sūrya(sūryeṇa) + worshipped(upāsitā) [sūryeṇopāsitā] knowledge(vidyā) life(āyus) + health(ārogya) + increaser(varddhinī) [āyurārogyavarddhinī]
 
 ## mukta-m0-p08-v187
-liberation(mokṣa) + giving(dā) [mokṣadā] sound(nāda) + power(śaktiḥ) [nādaśaktiśca] and(ca) only(kevalaṃ) Brahman(brahma) + form(rūpakam) [brahmarūpakam]
+liberation(mokṣa) + giver(dā) [mokṣadā] sound(nāda) + power(śaktiḥ) [nādaśaktiḥ] and(ca) only(kevalaṃ) Brahman(brahma) + form(rūpakam) [brahmarūpakam]
 
 ## mukta-m0-p08-v188
-in-seed(bīja) + triad(traye) [bījatraye] great-goddess(mahādevi) Brahmāṇī(brahmāṇī) Vaiṣṇavī(vaiṣṇavī) Śacī(śacī)
+in-seed(bīja) + triad(traye) [bījatraye] great(mahā) + goddess(devī) [mahādevi] Brahmāṇī(brahmāṇī) Vaiṣṇavī(vaiṣṇavī) Śacī(śacī)
 
 ## mukta-m0-p08-v189
-in-ī-letter(īkāre) Bhairavī(bhairavī) illusion(māyā) goddess(devī) liberation(nirvāṇa) + form(rūpiṇī) [nirvāṇarūpiṇī]
+in-ī(īkāre) Bhairavī(bhairavī) illusion(māyā) goddess(devī) liberation(nirvāṇa) + form(rūpiṇī) [nirvāṇarūpiṇī]
 
 ## mukta-m0-p08-v190
-in-ka-letter(kakāre) Kamalā(kamalā) + goddess(devī) [kamalādevī] in-ha-letter(hakāre) Hākinī(hākinī) likewise(tathā)
+in-ka(kakāre) Kamalā(kamalā) + goddess(devī) [kamalādevī] in-ha(hakāre) Hākinī(hākinī) likewise(tathā)
 
 ## mukta-m0-p08-v191
-seeds(bījāni) + other(anyāni) [bījānyanyāni] goddess-of-gods(deveśi) enjoyment(bhūkti) + giving(dam) [bhūktidam] liberation(mukti) + giving(dam) [muktidam] remembered(smṛtam)
+seeds(bījāni) + other(anyāni) [bījānyanyāni] gods(deva) + sovereign(īśi) [deveśi] enjoyment(bhūkti) + giving(dam) [bhūktidam] liberation(mukti) + giving(dam) [muktidam] remembered(smṛtam)
 
 ## mukta-m0-p08-v192
-śūdra(śūdraḥ) + and(ca) + even(api) [śūdraścāpi] great-goddess(maheśāni) not(na) should-do(kuryāt) + mantra(mantra) + contemplation(cintanam) [mantracintanam]
+śūdra(śūdraḥ) and(ca) even(api) great(mahā) + goddess(īśāni) [maheśāni] not(na) should-do(kuryāt) mantra(mantra) + contemplation(cintanam) [mantracintanam]
 
 ## mukta-m0-p08-v193
-on-head(śiraḥ) + to-be-given(deyaṃ) [śirodeyaṃ] great-goddess(maheśāni) not(na) to-be-revealed(prākāśyaṃ) goddess-of-gods(sureśvari)
+head(śiraḥ) + to-be-given(deyaṃ) [śirodeyaṃ] great(mahā) + goddess(īśāni) [maheśāni] not(na) to-be-revealed(prākāśyaṃ) gods(sura) + sovereign(īśvari) [sureśvari]
 
 ## mukta-m0-p08-v194
-now(atha) I-shall-speak(vakṣe) world(jagat) + supporter(dhātri) [jagaddhātri] of-Bhairavī(bhairavyā) mantra(mantram) + supreme(uttamam) [mantramuttamam]
+now(atha) I-shall-speak(vakṣe) world(jagat) + sustainer(dhātri) [jagaddhātri] of-Bhairavī(bhairavyāḥ) mantra(mantram) + supreme(uttamam) [mantramuttamam]
 
 ## mukta-m0-p08-v195
-liberation(mukti) + giving(daṃ) [muktidaṃ] desire(kāma) + giving(daṃ) [kāmadaṃ] goddess(devi) supreme(parama) + bliss(ānanda) + causing(kārakam) [paramānandakārakam]
+liberation(mukti) + giving(dam) [muktidaṃ] desire(kāma) + giving(dam) [kāmadaṃ] goddess(devi) supreme(parama) + bliss(ānanda) + causing(kārakam) [paramānandakārakam]
 
 ## mukta-m0-p08-v196
-Śiva(śivaḥ) supreme(para) + Śiva(śivaḥ) [paraśivaścaiva] and(ca) + indeed(eva) higher-and-lower(para) + higher(para) + Śiva(śivaḥ) [parāparaśivaḥ] again(punaḥ)
+Śiva(śivaḥ) supreme(para) + Śiva(śivaḥ) [paraśivaḥ] and(ca) indeed(eva) higher-and-lower(para) + higher(apara) + Śiva(śivaḥ) [parāparaśivaḥ] again(punaḥ)
 
 ## mukta-m0-p08-v197
-ha-letter(ha) + letter(kāraḥ) [hakāraśca] and(ca) sa-letter(sa) + letter(kāraḥ) [sakāraśca] and(ca) ka-letter(ka) + letter(kāraḥ) [kakāraśca] and(ca) great-goddess(maheśvari)
+ha(hakāraḥ) + letter(kāraḥ) [hakāraḥ] and(ca) sa(sakāraḥ) + letter(kāraḥ) [sakāraḥ] and(ca) ka(kakāraḥ) + letter(kāraḥ) [kakāraḥ] and(ca) great(mahā) + goddess(īśvari) [maheśvari]
 
 ## mukta-m0-p08-v198
-va-letter(va) + letter(kāraḥ) [vakāraśca] and(ca) ī-letter(ī) + letter(kāraḥ) [īkāraśca] and(ca) Bhairavī(bhairavī) fear(bhaya) + destroying(nāśinī) [bhayanāśinī]
+va(vakāraḥ) + letter(kāraḥ) [vakāraḥ] and(ca) ī(īkāraḥ) + letter(kāraḥ) [īkāraḥ] and(ca) Bhairavī(bhairavī) fear(bhaya) + destroyer(nāśinī) [bhayanāśinī]
 
 ## mukta-m0-p08-v199
-consciousness(caitanya) + Bhairavī(bhairavī) [caitanyabhairavī] mantra(mantraṃ) only(kevavaṃ) liberation(mokṣa) + means(sāthanam) [mokṣasāthanam]
+consciousness(caitanya) + Bhairavī(bhairavī) [caitanyabhairavī] mantra(mantraṃ) only(kevalaṃ) liberation(mokṣa) + means(sādhanam) [mokṣasādhanam]
 
 ## mukta-m0-p08-v200
-four(catur) + aims(varga) + giving(pradaṃ) [catūrvargapradaṃ] goddess(devi) listen(śṛṇuṣva) beloved-of-Hara(hara) + beloved(vallabhe) [haravallabhe]
+four(catur) + class(varga) + giving(pradam) [catūrvargapradaṃ] goddess(devi) listen(śṛṇuṣva) Hara(hara) + beloved(vallabhe) [haravallabhe]
