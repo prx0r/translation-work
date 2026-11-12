@@ -15,24 +15,24 @@
 "quick_gloss": "fortune"
 },
 {
-"surface": "+prāṇa",
-"quick_gloss": "+life"
+"surface": "prāṇa",
+"quick_gloss": "life-breath"
 },
 {
-"surface": "+saṃyuktā",
-"quick_gloss": "+united"
+"surface": "saṃyuktā",
+"quick_gloss": "united"
 },
 {
 "surface": "dāridrya",
 "quick_gloss": "poverty"
 },
 {
-"surface": "+duḥkha",
-"quick_gloss": "+suffering"
+"surface": "duḥkha",
+"quick_gloss": "suffering"
 },
 {
-"surface": "+mocanī",
-"quick_gloss": "+releasing"
+"surface": "mocanī",
+"quick_gloss": "releasing"
 }
 ]
 },
@@ -48,20 +48,24 @@
 "quick_gloss": "here"
 },
 {
-"surface": "+api",
-"quick_gloss": "+also"
+"surface": "api",
+"quick_gloss": "also"
 },
 {
-"surface": "pūrva+vat",
-"quick_gloss": "as-before"
+"surface": "pūrva",
+"quick_gloss": "previous"
 },
 {
-"surface": "+bīja",
-"quick_gloss": "+seed"
+"surface": "vat",
+"quick_gloss": "like"
 },
 {
-"surface": "+saṃyogaḥ",
-"quick_gloss": "+conjunction"
+"surface": "bīja",
+"quick_gloss": "seed"
+},
+{
+"surface": "saṃyogaḥ",
+"quick_gloss": "conjunction"
 }
 ]
 },
@@ -77,20 +81,24 @@
 "quick_gloss": "here"
 },
 {
-"surface": "+api",
-"quick_gloss": "+also"
+"surface": "api",
+"quick_gloss": "also"
 },
 {
-"surface": "pūrva+vat",
-"quick_gloss": "as-before"
+"surface": "pūrva",
+"quick_gloss": "previous"
 },
 {
-"surface": "+bīja",
-"quick_gloss": "+seed"
+"surface": "vat",
+"quick_gloss": "like"
 },
 {
-"surface": "+saṃyogaḥ",
-"quick_gloss": "+conjunction"
+"surface": "bīja",
+"quick_gloss": "seed"
+},
+{
+"surface": "saṃyogaḥ",
+"quick_gloss": "conjunction"
 }
 ]
 },
@@ -106,20 +114,24 @@
 "quick_gloss": "rudra"
 },
 {
-"surface": "+śaktiḥ",
-"quick_gloss": "+power"
+"surface": "śaktiḥ",
+"quick_gloss": "power"
 },
 {
-"surface": "+iyaṃ",
-"quick_gloss": "+this"
+"surface": "iyaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "devi",
 "quick_gloss": "goddess"
 },
 {
-"surface": "pūrva+āmnāye",
-"quick_gloss": "in-eastern-tradition"
+"surface": "pūrva",
+"quick_gloss": "eastern"
+},
+{
+"surface": "āmnāye",
+"quick_gloss": "tradition"
 },
 {
 "surface": "hi",
@@ -127,7 +139,7 @@
 },
 {
 "surface": "nāyikā",
-"quick_gloss": "leader"
+"quick_gloss": "heroine"
 }
 ]
 },
@@ -143,20 +155,24 @@
 "quick_gloss": "sound"
 },
 {
-"surface": "+bindu",
-"quick_gloss": "+drop"
+"surface": "bindu",
+"quick_gloss": "point"
 },
 {
-"surface": "+samāyuktaḥ",
-"quick_gloss": "+united-with"
+"surface": "samāyuktaḥ",
+"quick_gloss": "united-with"
 },
 {
 "surface": "kathitaḥ",
 "quick_gloss": "declared"
 },
 {
-"surface": "parama+īśvari",
-"quick_gloss": "o-supreme-goddess"
+"surface": "parama",
+"quick_gloss": "supreme"
+},
+{
+"surface": "īśvari",
+"quick_gloss": "goddess"
 }
 ]
 },
@@ -176,20 +192,24 @@
 "quick_gloss": "knowledge"
 },
 {
-"surface": "mahā+īśāni",
-"quick_gloss": "o-great-goddess"
+"surface": "mahā",
+"quick_gloss": "great"
+},
+{
+"surface": "īśāni",
+"quick_gloss": "goddess"
 },
 {
 "surface": "kathitā",
 "quick_gloss": "declared"
 },
 {
-"surface": "+ekādaśa",
-"quick_gloss": "+eleven"
+"surface": "ekādaśa",
+"quick_gloss": "eleven"
 },
 {
-"surface": "+akṣarī",
-"quick_gloss": "+syllabled"
+"surface": "akṣarī",
+"quick_gloss": "syllabled"
 }
 ]
 },
@@ -201,20 +221,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūrva+vat",
-"quick_gloss": "as-before"
+"surface": "pūrva",
+"quick_gloss": "previous"
 },
 {
-"surface": "kāma+rāja",
-"quick_gloss": "kāmarāja"
+"surface": "vat",
+"quick_gloss": "like"
+},
+{
+"surface": "kāma",
+"quick_gloss": "desire"
+},
+{
+"surface": "rāja",
+"quick_gloss": "king"
 },
 {
 "surface": "vidyā",
 "quick_gloss": "knowledge"
 },
 {
-"surface": "+vat",
-"quick_gloss": "+as"
+"surface": "vat",
+"quick_gloss": "like"
 }
 ]
 },
@@ -236,10 +264,6 @@
 {
 "surface": "kramaḥ",
 "quick_gloss": "sequence"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
 }
 ]
 },
@@ -255,28 +279,44 @@
 "quick_gloss": "viṣṇu"
 },
 {
-"surface": "+īśaḥ",
-"quick_gloss": "+īśa"
+"surface": "īśaḥ",
+"quick_gloss": "īśa"
 },
 {
-"surface": "a+kāra",
-"quick_gloss": "a-syllable"
+"surface": "a",
+"quick_gloss": "a"
 },
 {
-"surface": "+yuktaḥ",
-"quick_gloss": "+joined-with"
+"surface": "kāra",
+"quick_gloss": "syllable"
 },
 {
-"surface": "+ha+kāraḥ",
-"quick_gloss": "+ha-syllable"
+"surface": "yuktaḥ",
+"quick_gloss": "joined"
 },
 {
-"surface": "kāla+īśaḥ",
-"quick_gloss": "kāleśa"
+"surface": "ha",
+"quick_gloss": "ha"
 },
 {
-"surface": "ma+kāraḥ",
-"quick_gloss": "ma-syllable"
+"surface": "kāraḥ",
+"quick_gloss": "syllable"
+},
+{
+"surface": "kāla",
+"quick_gloss": "time"
+},
+{
+"surface": "īśaḥ",
+"quick_gloss": "lord"
+},
+{
+"surface": "ma",
+"quick_gloss": "ma"
+},
+{
+"surface": "kāraḥ",
+"quick_gloss": "syllable"
 }
 ]
 },
@@ -292,28 +332,28 @@
 "quick_gloss": "three"
 },
 {
-"surface": "+kūṭa",
-"quick_gloss": "+section"
+"surface": "kūṭa",
+"quick_gloss": "peak"
 },
 {
-"surface": "+ante",
-"quick_gloss": "+end"
+"surface": "ante",
+"quick_gloss": "end"
 },
 {
 "surface": "haṃsa",
 "quick_gloss": "haṃsa"
 },
 {
-"surface": "+bījaṃ",
-"quick_gloss": "+seed"
+"surface": "bījaṃ",
+"quick_gloss": "seed"
 },
 {
 "surface": "tadā",
 "quick_gloss": "then"
 },
 {
-"surface": "sapta+daśī",
-"quick_gloss": "seventeen-syllabled"
+"surface": "saptadaśī",
+"quick_gloss": "seventeen"
 },
 {
 "surface": "bhavet",
@@ -333,20 +373,24 @@
 "quick_gloss": "all"
 },
 {
-"surface": "+ante",
-"quick_gloss": "+end"
+"surface": "ante",
+"quick_gloss": "end"
 },
 {
 "surface": "haṃsa",
 "quick_gloss": "haṃsa"
 },
 {
-"surface": "+saṃyuktā",
-"quick_gloss": "+joined-with"
+"surface": "saṃyuktā",
+"quick_gloss": "joined"
 },
 {
-"surface": "viṃśa+akṣarī",
-"quick_gloss": "twenty-syllabled"
+"surface": "viṃśa",
+"quick_gloss": "twenty"
+},
+{
+"surface": "akṣarī",
+"quick_gloss": "syllabled"
 },
 {
 "surface": "bhavet",
@@ -372,14 +416,6 @@
 {
 "surface": "bhāṣā",
 "quick_gloss": "speech"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
 }
 ]
 },
@@ -397,14 +433,6 @@
 {
 "surface": "sṛṣṭiḥ",
 "quick_gloss": "creation"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
 }
 ]
 },
@@ -420,16 +448,8 @@
 "quick_gloss": "maintenance"
 },
 {
-"surface": "+eṣā",
-"quick_gloss": "+this"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "eṣā",
+"quick_gloss": "this"
 }
 ]
 },
@@ -447,14 +467,6 @@
 {
 "surface": "saṃhṛtiḥ",
 "quick_gloss": "dissolution"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
 }
 ]
 },
@@ -470,16 +482,12 @@
 "quick_gloss": "void"
 },
 {
-"surface": "ha+kāraḥ",
-"quick_gloss": "ha-syllable"
+"surface": "ha",
+"quick_gloss": "ha"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "kāraḥ",
+"quick_gloss": "syllable"
 }
 ]
 },
@@ -499,8 +507,8 @@
 "quick_gloss": "to-hear"
 },
 {
-"surface": "+icchāmi",
-"quick_gloss": "+I-desire"
+"surface": "icchāmi",
+"quick_gloss": "I-desire"
 },
 {
 "surface": "yadi",
@@ -508,11 +516,11 @@
 },
 {
 "surface": "te",
-"quick_gloss": "to-you"
+"quick_gloss": "of-you"
 },
 {
-"surface": "+asti",
-"quick_gloss": "+there-is"
+"surface": "asti",
+"quick_gloss": "exists"
 },
 {
 "surface": "kṛpā",
@@ -536,16 +544,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "svapna+vatī",
-"quick_gloss": "dream-possessing"
+"surface": "svapna",
+"quick_gloss": "dream"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "vatī",
+"quick_gloss": "possessing"
 }
 ]
 },
@@ -561,16 +565,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "madhu+matī",
-"quick_gloss": "honey-possessing"
+"surface": "madhu",
+"quick_gloss": "honey"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "matī",
+"quick_gloss": "possessing"
 }
 ]
 },
@@ -586,8 +586,8 @@
 "quick_gloss": "essence"
 },
 {
-"surface": "+sāra+tarā",
-"quick_gloss": "+more-essential"
+"surface": "sāratarā",
+"quick_gloss": "more-essential"
 },
 {
 "surface": "vidyā",
@@ -598,12 +598,12 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "+ekādaśa",
-"quick_gloss": "+eleven"
+"surface": "ekādaśa",
+"quick_gloss": "eleven"
 },
 {
-"surface": "+akṣarī",
-"quick_gloss": "+syllabled"
+"surface": "akṣarī",
+"quick_gloss": "syllabled"
 }
 ]
 },
@@ -619,16 +619,24 @@
 "quick_gloss": "power"
 },
 {
-"surface": "+e+kāraḥ",
-"quick_gloss": "+e-syllable"
+"surface": "e",
+"quick_gloss": "e"
+},
+{
+"surface": "kāraḥ",
+"quick_gloss": "syllable"
 },
 {
 "surface": "māyā",
 "quick_gloss": "illusion"
 },
 {
-"surface": "ī+kāraḥ",
-"quick_gloss": "ī-syllable"
+"surface": "ī",
+"quick_gloss": "ī"
+},
+{
+"surface": "kāraḥ",
+"quick_gloss": "syllable"
 }
 ]
 },
@@ -640,20 +648,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāma+rājasya",
-"quick_gloss": "of-kāmarāja"
+"surface": "kāma",
+"quick_gloss": "desire"
+},
+{
+"surface": "rājasya",
+"quick_gloss": "king"
 },
 {
 "surface": "kūṭaṃ",
-"quick_gloss": "section"
+"quick_gloss": "peak"
 },
 {
 "surface": "parama",
-"quick_gloss": "supremely"
+"quick_gloss": "supreme"
 },
 {
-"surface": "+dur+labham",
-"quick_gloss": "+hard-to-obtain"
+"surface": "durlabham",
+"quick_gloss": "hard-to-obtain"
 }
 ]
 },
@@ -669,16 +681,12 @@
 "quick_gloss": "haṃsa"
 },
 {
-"surface": "ha+kāraḥ",
-"quick_gloss": "ha-syllable"
+"surface": "ha",
+"quick_gloss": "ha"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "kāraḥ",
+"quick_gloss": "syllable"
 }
 ]
 },
@@ -694,16 +702,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "madhu+matī",
-"quick_gloss": "honey-possessing"
+"surface": "madhu",
+"quick_gloss": "honey"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "matī",
+"quick_gloss": "possessing"
 }
 ]
 },
@@ -719,16 +723,12 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "sa+kāraḥ",
-"quick_gloss": "sa-syllable"
+"surface": "sa",
+"quick_gloss": "sa"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
+"surface": "kāraḥ",
+"quick_gloss": "syllable"
 }
 ]
 }
