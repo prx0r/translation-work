@@ -7,24 +7,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "na",
+"surface": "a",
 "quick_gloss": "not"
+},
+{
+"surface": "paṭāṭaṅka+saṅketāt",
+"quick_gloss": "by-drum+sound+convention"
 },
 {
 "surface": "kevalaṃ",
 "quick_gloss": "merely"
 },
 {
+"surface": "na",
+"quick_gloss": "not"
+},
+{
 "surface": "vibhāvyate",
 "quick_gloss": "is-distinguished"
-},
-{
-"surface": "saṅketāt",
-"quick_gloss": "from-convention"
-},
-{
-"surface": "apaṭa+āṭaṅka",
-"quick_gloss": "of-script-and-ornament"
 }
 ]
 },
@@ -36,16 +36,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samāna+pratipattitaḥ",
-"quick_gloss": "because-of-equal-cognition"
-},
-{
-"surface": "anukaraṇa",
-"quick_gloss": "of-imitation"
-},
-{
-"surface": "anukārya",
-"quick_gloss": "and-what-is-to-be-imitated"
+"surface": "anukārya+anukaraṇa+samāna+pratipattitaḥ",
+"quick_gloss": "by-imitated+imitation+same+cognition"
 }
 ]
 },
@@ -73,12 +65,12 @@
 "quick_gloss": "as"
 },
 {
-"surface": "ayaṃ",
-"quick_gloss": "but-this"
-},
-{
 "surface": "na",
 "quick_gloss": "not"
+},
+{
+"surface": "ayam",
+"quick_gloss": "this"
 },
 {
 "surface": "punaḥ",
@@ -107,7 +99,7 @@
 },
 {
 "surface": "mahā+sāmānya+lakṣaṇam",
-"quick_gloss": "characterized-by-great-universality"
+"quick_gloss": "great+universality+characterized"
 }
 ]
 },
@@ -119,8 +111,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirīha+ātmatayā+api",
-"quick_gloss": "even-by-nature-of-effortlessness"
+"surface": "nirīha+ātmatayā",
+"quick_gloss": "by-motionless+nature"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "etat",
@@ -128,7 +124,7 @@
 },
 {
 "surface": "dvaya+viśrānti+lakṣaṇaḥ",
-"quick_gloss": "characterized-by-rest-in-the-two"
+"quick_gloss": "two+resting-place+characterized"
 }
 ]
 },
@@ -140,8 +136,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyutthāne+api",
-"quick_gloss": "even-in-emergence"
+"surface": "vyutthāne",
+"quick_gloss": "in-emergence"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "sthitaṃ",
@@ -153,7 +153,7 @@
 },
 {
 "surface": "trayam",
-"quick_gloss": "the-triad"
+"quick_gloss": "triad"
 },
 {
 "surface": "ekatra",
@@ -173,12 +173,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aparijñānāt",
-"quick_gloss": "from-non-recognition"
-},
-{
-"surface": "etat+rūpa",
-"quick_gloss": "of-this-nature"
+"surface": "etat+rūpa+aparijñānāt",
+"quick_gloss": "from-this+form+non-recognition"
 },
 {
 "surface": "kāḥ",
@@ -190,7 +186,7 @@
 },
 {
 "surface": "vikṣepa+bhūmayaḥ",
-"quick_gloss": "grounds-of-distraction"
+"quick_gloss": "distraction+grounds"
 }
 ]
 },
@@ -202,16 +198,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhayāt",
-"quick_gloss": "from-fear"
-},
-{
-"surface": "mlāna",
-"quick_gloss": "of-fading"
-},
-{
-"surface": "mukha+āgama",
-"quick_gloss": "of-the-oral-tradition"
+"surface": "mukha+āgama+mlāna+bhayāt",
+"quick_gloss": "from-oral+tradition+fading+fear"
 },
 {
 "surface": "udghāṭya",
@@ -219,7 +207,7 @@
 },
 {
 "surface": "pratipāditam",
-"quick_gloss": "it-has-been-taught"
+"quick_gloss": "taught"
 }
 ]
 },
@@ -231,12 +219,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat",
-"quick_gloss": "that"
+"surface": "marīci+maṇḍalaṃ",
+"quick_gloss": "rays+circle"
 },
 {
-"surface": "marīci+maṇḍalaṃ",
-"quick_gloss": "circle-of-rays"
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
 "surface": "me",
@@ -244,11 +232,11 @@
 },
 {
 "surface": "kṣamyatāṃ",
-"quick_gloss": "let-it-be-forgiven"
+"quick_gloss": "let-be-forgiven"
 },
 {
 "surface": "guru+anugrahāt",
-"quick_gloss": "through-the-grace-of-the-guru"
+"quick_gloss": "by-guru+grace"
 }
 ]
 },
@@ -260,16 +248,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asya+eva",
-"quick_gloss": "of-this-very"
+"surface": "asya",
+"quick_gloss": "of-this"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "varṇa+rājasya",
-"quick_gloss": "king-of-phonemes"
+"quick_gloss": "phoneme+king"
 },
 {
 "surface": "lipi+saṃsthānam",
-"quick_gloss": "the-arrangement-of-letters"
+"quick_gloss": "letter+arrangement"
 },
 {
 "surface": "anyathā",
@@ -285,16 +277,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uttha+rūpāyāḥ",
-"quick_gloss": "of-the-form-arisen"
-},
-{
-"surface": "hṛt+saṃvid",
-"quick_gloss": "from-heart-consciousness"
+"surface": "hṛt+saṃvid+uttha+rūpāyāḥ",
+"quick_gloss": "of-heart+consciousness+arisen+form"
 },
 {
 "surface": "varṇa+araṇi+maya+ātmanaḥ",
-"quick_gloss": "whose-nature-is-the-fire-stick-of-phonemes"
+"quick_gloss": "phoneme+kindling-stick+consisting+nature"
 }
 ]
 },
@@ -310,20 +298,8 @@
 "quick_gloss": "below"
 },
 {
-"surface": "hateḥ",
-"quick_gloss": "by-the-strike"
-},
-{
-"surface": "phaṇā",
-"quick_gloss": "of-the-hood"
-},
-{
-"surface": "mahā+āvarta",
-"quick_gloss": "of-the-great-whirlpool"
-},
-{
-"surface": "kuṇḍalinī+srotas",
-"quick_gloss": "of-the-stream-of-kuṇḍalinī"
+"surface": "kuṇḍalinī+srotas+mahā+āvarta+phaṇā+āhateḥ",
+"quick_gloss": "by-kuṇḍalinī+stream+great+whirlpool+hood+strike"
 }
 ]
 },
@@ -335,12 +311,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
 "surface": "pratyāvṛttyā",
 "quick_gloss": "by-turning-back"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "yat",
@@ -351,8 +327,8 @@
 "quick_gloss": "abode"
 },
 {
-"surface": "meya+saṃharaṇa+ātmanaḥ",
-"quick_gloss": "whose-nature-is-the-withdrawal-of-the-measurable"
+"surface": "ameya+saṃharaṇa+ātmanaḥ",
+"quick_gloss": "of-measurable+withdrawal+nature"
 }
 ]
 },
@@ -364,20 +340,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sthānāt",
-"quick_gloss": "from-the-state"
-},
-{
 "surface": "bindu+śūnya+ātmani",
-"quick_gloss": "whose-nature-is-bindu-and-void"
+"quick_gloss": "in-bindu+void+nature"
 },
 {
-"surface": "tataḥ",
-"quick_gloss": "thence"
+"surface": "sthānāt",
+"quick_gloss": "from-state"
 },
 {
 "surface": "nirāvaraṇatā",
 "quick_gloss": "unobstructedness"
+},
+{
+"surface": "tataḥ",
+"quick_gloss": "therefore"
 }
 ]
 },
@@ -389,24 +365,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kramau",
-"quick_gloss": "the-sequence"
-},
-{
-"surface": "muṇḍa+daṇḍa",
-"quick_gloss": "of-skull-and-staff"
+"surface": "muṇḍa+daṇḍa+kramau",
+"quick_gloss": "skull+staff+sequence"
 },
 {
 "surface": "tena",
-"quick_gloss": "therefore"
+"quick_gloss": "by-that"
 },
 {
 "surface": "matau",
-"quick_gloss": "are-regarded"
+"quick_gloss": "considered"
 },
 {
 "surface": "jñāna+kriyā+ātmakau",
-"quick_gloss": "as-consisting-of-knowledge-and-action"
+"quick_gloss": "knowledge+action+consisting"
 }
 ]
 },
@@ -418,16 +390,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sphāra+mayaḥ",
-"quick_gloss": "consisting-of-the-expansion"
-},
-{
-"surface": "karma+indriya",
-"quick_gloss": "of-the-organs-of-action"
+"surface": "karmendriya+sphāra+mayaḥ",
+"quick_gloss": "action-sense+expansion+consisting"
 },
 {
 "surface": "daṇḍa+ātmā",
-"quick_gloss": "the-staff-nature"
+"quick_gloss": "staff+nature"
 },
 {
 "surface": "tu",
@@ -439,7 +407,7 @@
 },
 {
 "surface": "aparaḥ",
-"quick_gloss": "the-other"
+"quick_gloss": "another"
 }
 ]
 },
@@ -452,19 +420,15 @@
 "tokens": [
 {
 "surface": "anyaḥ",
-"quick_gloss": "the-other"
+"quick_gloss": "other"
 },
 {
-"surface": "sphāra+mayaḥ",
-"quick_gloss": "consisting-of-the-expansion"
-},
-{
-"surface": "raudreśvarī",
-"quick_gloss": "of-Raudreśvarī"
+"surface": "raudreśvarī+sphāra+mayaḥ",
+"quick_gloss": "Raudreśvarī+expansion+consisting"
 },
 {
 "surface": "viśva+vilāpakaḥ",
-"quick_gloss": "the-dissolver-of-the-universe"
+"quick_gloss": "universe+dissolving"
 }
 ]
 },
@@ -477,7 +441,7 @@
 "tokens": [
 {
 "surface": "vyāpti+sārā",
-"quick_gloss": "whose-essence-is-pervasion"
+"quick_gloss": "pervasion+essence"
 },
 {
 "surface": "sthitā",
@@ -485,11 +449,11 @@
 },
 {
 "surface": "mudrā",
-"quick_gloss": "the-seal"
+"quick_gloss": "seal"
 },
 {
 "surface": "pañca+prāṇa+kriyā+ātmikā",
-"quick_gloss": "whose-nature-is-the-activity-of-the-five-prāṇas"
+"quick_gloss": "five+vital-breath+activity+consisting"
 }
 ]
 },
@@ -502,7 +466,7 @@
 "tokens": [
 {
 "surface": "mahā+prabhāvāt",
-"quick_gloss": "from-great-power"
+"quick_gloss": "by-great+power"
 },
 {
 "surface": "jāyante",
@@ -510,11 +474,11 @@
 },
 {
 "surface": "yoginām",
-"quick_gloss": "for-yogins"
+"quick_gloss": "of-yogins"
 },
 {
 "surface": "akrama+udayāḥ",
-"quick_gloss": "non-sequential-manifestations"
+"quick_gloss": "non-sequential+risings"
 }
 ]
 },
@@ -526,20 +490,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogināṃ",
+"surface": "yoginām",
 "quick_gloss": "of-yogins"
 },
 {
 "surface": "mukhya+viśrāntiḥ",
-"quick_gloss": "the-primary-resting-place"
+"quick_gloss": "primary+resting-place"
 },
 {
 "surface": "cit+ānandāya",
-"quick_gloss": "for-consciousness-and-bliss"
+"quick_gloss": "for-consciousness+bliss"
 },
 {
 "surface": "kalpate",
-"quick_gloss": "is-suited"
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -551,24 +515,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prabhāvānām",
-"quick_gloss": "of-the-powers"
-},
-{
-"surface": "sūkṣma+krama",
-"quick_gloss": "of-the-subtle-sequence"
+"surface": "sūkṣma+krama+prabhāvānām",
+"quick_gloss": "of-subtle+sequence+powers"
 },
 {
 "surface": "ākāraḥ",
-"quick_gloss": "the-form"
+"quick_gloss": "form"
 },
 {
-"surface": "yogināṃ",
+"surface": "yoginām",
 "quick_gloss": "of-yogins"
 },
 {
 "surface": "mataḥ",
-"quick_gloss": "is-regarded"
+"quick_gloss": "considered"
 }
 ]
 },
@@ -580,20 +540,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aikāgryam",
-"quick_gloss": "one-pointedness"
+"surface": "dhāma+varṇa+cit+aikāgryam",
+"quick_gloss": "abode+phoneme+consciousness+one-pointedness"
 },
 {
-"surface": "dhāma+varṇa+cit",
-"quick_gloss": "of-abode-phoneme-and-consciousness"
+"surface": "asya",
+"quick_gloss": "of-this"
 },
 {
-"surface": "asya+api",
-"quick_gloss": "of-this-also"
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "anubhava+sthitam",
-"quick_gloss": "established-in-experience"
+"quick_gloss": "in-experience+established"
 }
 ]
 },
@@ -610,15 +570,19 @@
 },
 {
 "surface": "bhoga+vināśāya",
-"quick_gloss": "for-the-destruction-of-enjoyment"
+"quick_gloss": "for-enjoyment+destruction"
 },
 {
 "surface": "tadā",
 "quick_gloss": "then"
 },
 {
-"surface": "kālaḥ+api",
-"quick_gloss": "time-also"
+"surface": "kālaḥ",
+"quick_gloss": "time"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "kalpyate",
@@ -634,16 +598,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rūpeṇa",
-"quick_gloss": "in-the-form"
-},
-{
-"surface": "akrama+uccāra",
-"quick_gloss": "of-non-sequential-utterance"
+"surface": "akrama+uccāra+rūpeṇa",
+"quick_gloss": "by-non-sequential+utterance+form"
 },
 {
 "surface": "cit+prakāśaḥ",
-"quick_gloss": "the-light-of-consciousness"
+"quick_gloss": "consciousness+light"
 },
 {
 "surface": "prakāśate",
@@ -660,15 +620,15 @@
 "tokens": [
 {
 "surface": "adūra+viprakarṣeṇa",
-"quick_gloss": "by-non-remoteness-and-non-separation"
+"quick_gloss": "by-not-distant+separation"
+},
+{
+"surface": "sāmānya+ātmatayā",
+"quick_gloss": "by-universality+nature"
 },
 {
 "surface": "punaḥ",
 "quick_gloss": "again"
-},
-{
-"surface": "sāmānya+ātmatayā",
-"quick_gloss": "by-nature-of-universality"
 }
 ]
 }

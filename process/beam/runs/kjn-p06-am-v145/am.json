@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 145,
- "question": "What characteristics adorn the fluid black-colored form?",
+ "question": "What characteristics adorn the fluid black substance described here?",
  "premises": [
-  "The form is fluid and black-colored",
-  "It is adorned",
-  "The adornment consists of the sixteen vowels"
+  "The substance is fluid and black in color",
+  "It is adorned with sixteen vowels",
+  "These qualities characterize the same object"
  ],
- "inference": "The fluid, black-colored form is adorned with the sixteen vowels.",
- "uncertainties": [],
+ "inference": "The fluid, black-colored substance is adorned with the sixteen vowels.",
+ "uncertainties": [
+  "varṇañca contains sandhi (varṇam+ca) but given as one token"
+ ],
  "plain_english": "It is fluid, black in color, and adorned with the sixteen vowels."
 }

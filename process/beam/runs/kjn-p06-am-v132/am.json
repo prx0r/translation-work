@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 132,
- "question": "Which chapter concludes the teaching on the moon island?",
+ "question": "Which chapter concludes with the teaching on the moon island?",
  "premises": [
-  "The topic of the moon island has concluded",
-  "A chapter number is given",
-  "It is the sixth chapter"
+  "The text refers to emergence from the moon island",
+  "A chapter is being enumerated",
+  "That chapter is identified as the sixth"
  ],
- "inference": "The sixth chapter, concerning the moon island, is concluded.",
- "uncertainties": [],
- "plain_english": "Thus ends the sixth chapter, which has gone forth from the moon island."
+ "inference": "The sixth chapter, concerning what emerges from the moon island, is concluded.",
+ "uncertainties": [
+  "vinirgate may qualify content rather than mark conclusion"
+ ],
+ "plain_english": "Thus ends the sixth chapter, which has emerged from the moon island."
 }
