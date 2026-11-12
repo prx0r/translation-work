@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound=dūra+first",
+   "morph": "compound=dūra+āśravaṇa",
    "grounds": "first member of compound"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound=āśravaṇa+second",
-   "grounds": "second member of compound"
+   "morph": "compound=dūra+āśravaṇa+vijñānaṃ",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "vijñānaṃ",
    "morph": "n.nom.sg",
-   "grounds": "siddhi attained"
+   "grounds": "attainment listed"
   },
   {
    "lemma": "pāśa",
-   "morph": "compound=pāśa+first",
+   "morph": "compound=pāśa+stobham",
    "grounds": "first member of compound"
   },
   {
    "lemma": "stobham",
    "morph": "m.acc.sg",
-   "grounds": "siddhi attained"
+   "grounds": "attainment listed"
   },
   {
    "lemma": "tathā",
@@ -35,7 +35,7 @@
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "addressee"
   }
  ]
 }

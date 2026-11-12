@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound=candra+first",
+   "morph": "compound=candra+dvīpa",
    "grounds": "first member of compound"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound=dvīpa+second",
+   "morph": "compound=candra+dvīpa",
    "grounds": "second member of compound"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg",
-   "grounds": "describes the chapter as having come forth in that context"
+   "morph": "n.loc.sg",
+   "grounds": "describes the chapter context"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal designation"
+   "grounds": "ordinal qualifier"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "section concluded"
+   "grounds": "subject of the colophon"
   }
  ]
 }

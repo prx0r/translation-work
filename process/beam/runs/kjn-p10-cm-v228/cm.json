@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "vahni",
-   "morph": "compound=vahni+first",
+   "morph": "compound=vahni+nāveṣṭita",
    "grounds": "first member of compound"
   },
   {
    "lemma": "nāveṣṭita",
-   "morph": "compound=nāveṣṭita+second",
-   "grounds": "second member of compound describing encirclement"
+   "morph": "compound=vahni+nāveṣṭita",
+   "grounds": "describes the self"
   },
   {
    "lemma": "ātmānam",
@@ -19,7 +19,7 @@
   },
   {
    "lemma": "eka",
-   "morph": "compound=eka+first",
+   "morph": "compound=eka+pādena",
    "grounds": "first member of compound"
   },
   {
@@ -30,7 +30,7 @@
   {
    "lemma": "saṃsthitam",
    "morph": "m.acc.sg",
-   "grounds": "posture of the self"
+   "grounds": "describes the self"
   }
  ]
 }

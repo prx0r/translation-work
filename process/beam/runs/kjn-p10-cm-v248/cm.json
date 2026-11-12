@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+first",
+   "morph": "compound=satata+abhyāsa",
    "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second",
-   "grounds": "second member of compound"
+   "morph": "compound=satata+abhyāsa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "yogena",
@@ -19,28 +19,28 @@
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+first",
-   "grounds": "first member of numerical compound"
+   "morph": "compound=dvi+aṣṭa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+second",
-   "grounds": "second member of numerical compound"
+   "morph": "compound=dvi+aṣṭa",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+third",
-   "grounds": "third member of compound"
+   "morph": "compound=varṣa+ākṛtiḥ",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "bodily appearance attained"
+   "grounds": "resulting appearance"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active/√bhū",
-   "grounds": "result of the practice"
+   "morph": "3.sg.optative-active √bhū",
+   "grounds": "result of practice"
   }
  ]
 }
