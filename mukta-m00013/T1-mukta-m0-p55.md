@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[in-heart](hṛdi) [to-Kālikā](kālikāyai) [to-goddess](devatāyai) [obeisance](namaḥ)
+[in-heart](hṛdi) [to-kālikā](kālikāyai) [to-goddess](devatāyai) [obeisance](namaḥ)
 
 ## mukta-m0-p55-v1352
-[of-previously+mentioned](pūrvoktānāṃ) [of-mantras](mantrāṇāṃ) [all](sarvaṃ) [like-Dakṣiṇā](dakṣiṇāvat) [to-be-done](kāryam)
+[of-previously-stated](pūrva+uktānāṃ) [of-mantras](mantrāṇāṃ) [all](sarvaṃ) [like-dakṣiṇā](dakṣiṇā+vat) [to-be-done](kāryam)
 
 ## mukta-m0-p55-v1353
-[of-others](anyāsāṃ) [mantra](mantra) [syllable](varṇa) [number](saṃkhya) [hundred-thousand+recitation](lakṣajapaḥ)
+[of-others](anyāsāṃ) [mantra+syllable+number](mantra+varṇa+saṃkhya) [hundred-thousand+recitation](lakṣa+japaḥ)
 
 ## mukta-m0-p55-v1354
-[own+seed+pair](nijabījadvayaṃ) [māyā+pair](māyādvayaṃ) [O-Dakṣiṇā](dakṣiṇa) [O-Kālikā](kālike) [fire+beloved](vahnivallabhā)
+[own+seed+pair](nija+bīja+dvayaṃ) [māyā+pair](māyā+dvayaṃ) [dakṣiṇa](dakṣiṇa) [kālike](kālike) [fire+beloved](vahni+vallabhā)
 
 ## mukta-m0-p55-v1355
-[own](nijaṃ) [kūrca](kūrcaṃ) [lajjā](lajjā) [O-Dakṣiṇā](dakṣiṇe) [O-Kālikā](kālike) [phaṭ](phaṭ)
+[own](nijaṃ) [kūrca](kūrcaṃ) [lajjā](lajjā) [dakṣiṇe](dakṣiṇe) [kālike](kālike) [phaṭ](phaṭ)
 
 ## mukta-m0-p55-v1356
-[previous](pūrva) [six+seeds](ṣaḍbījāni) [fire+beloved](vahnivallabhā) [end](ante)
+[previous+six+seeds](pūrva+ṣaḍ+bījāni) [fire+beloved](vahni+vallabhā)
 
 ## mukta-m0-p55-v1357
-[other](anyat) [all](sarvaṃ) [like-Dakṣiṇā](dakṣiṇāvat) [to-be-done](kāryam)
+[other](anyat) [all](sarvaṃ) [like-dakṣiṇā](dakṣiṇā+vat)
 
 ## mukta-m0-p55-v1358
-[Bhairava](bhairavo) [of-this](asya) [seer](ṛṣiḥ) [declared](proktaḥ)
+[bhairava](bhairavaḥ) [of-this](asya) [seer](ṛṣiḥ)
 
 ## mukta-m0-p55-v1359
-[own+seed+pair](nijabījadvayaṃ) [kūrca+pair](kūrcadvayaṃ) [lajjā+pair](lajjāyugaṃ) [fire+beloved](vahnivallabhā)
+[own+seed+pair](nija+bīja+dvayaṃ) [kūrca+pair](kūrca+dvayaṃ) [lajjā+pair](lajjā+yugaṃ) [fire+beloved](vahni+vallabhā)
 
 ## mukta-m0-p55-v1360
-[of-this](asya) [five+faced](pañcavaktra) [seer](ṛṣiḥ) [declared](proktaḥ)
+[of-this](asya) [five-faced](pañca+vaktra) [seer](ṛṣiḥ)
 
 ## mukta-m0-p55-v1361
-[root+triad](mūlatrayaṃ) [kūrca+pair](kūrcadvayaṃ) [lajjā+pair](lajjādvayaṃ) [fire+beloved](vahnivallabhā)
+[root+triad](mūla+trayaṃ) [kūrca+pair](kūrca+dvayaṃ) [lajjā+pair](lajjā+dvayaṃ) [fire+beloved](vahni+vallabhā)
 
 ## mukta-m0-p55-v1362
-[root+seed](mūlabījaṃ) [O-Dakṣiṇā](dakṣiṇe) [O-Kālikā](kālike) [fire+beloved](vahnivallabhā)
+[root+seed](mūla+bījaṃ) [dakṣiṇe](dakṣiṇe) [kālike](kālike) [fire+beloved](vahni+vallabhā)
 
 ## mukta-m0-p55-v1363
-[own+seed](nijabījaṃ) [kūrca+pair](kūrcadvayaṃ) [māyā](māyāṃ) [again](punas) [those](tāni) [fire+beloved](vahnivallabhā)
+[own+seed](nija+bījaṃ) [kūrca+pair](kūrca+dvayaṃ) [māyā](māyāṃ) [again](punaḥ) [those](tāni) [fire+beloved](vahni+vallabhā)
 
 ## mukta-m0-p55-v1364
-[heart](hṛdayaṃ) [vāgbhava](vāgbhavaṃ) [root+pair](mūladvayaṃ) [to-Kālikā](kālikāyai) [ṭha+pair](ṭhadvayam)
+[heart](hṛdayaṃ) [vāgbhava](vāgbhavaṃ) [root+pair](mūla+dvayaṃ) [to-kālikā](kālikāyai) [ṭha+pair](ṭha+dvayam)
 
 ## mukta-m0-p55-v1365
-[preliminary-rite](puraścaraṇaṃ) [hundred-thousand](lakṣa) [recitation](japaḥ) [prescribed](vidhīyate)
+[preliminary-rite](puraścaraṇaṃ) [hundred-thousand+recitation](lakṣa+japaḥ)
 
 ## mukta-m0-p55-v1366
-[four+armed](caturbhujāṃ) [black+colored](kṛṣṇavarṇām) [thus+beginning](ityādi) [to-be-meditated](dhyāyet)
+[four-armed](catur+bhujāṃ) [black-colored](kṛṣṇa+varṇām) [and-so-forth](iti+ādi)
 
 ## mukta-m0-p55-v1367
-[eleven+syllabled](ekādaśākṣarī) [Kālī](kālī) [four+aims](caturvarga) [fruit+giving](phalapradā)
+[eleven-syllabled](ekādaśa+akṣarī) [kālī](kālī) [four-goals+fruit+giving](catur+varga+phala+pradā)
 
 ## mukta-m0-p55-v1368
-[O-Dakṣiṇā](dakṣiṇe) [O-Kālikā](kālike) [and-thus](ceti) [weapon+ending](astrāntā) [declared](samudīritā)
+[dakṣiṇe](dakṣiṇe) [kālike](kālike) [and-thus](ca+iti) [ending-with-astra](astra+antā) [declared](samudīritā)
 
 ## mukta-m0-p55-v1369
-[as-before](pūrvavat) [six](ṣaṭ) [then](tathā) [seeds](bījāni) [at-end](ante) [and](ca) [fire+beautiful](vahnisundarī)
+[as-before](pūrva+vat) [six](ṣaṭ) [then](tathā) [seeds](bījāni) [at-end](ante) [and](ca) [fire+beloved](vahni+sundarī)
 
 ## mukta-m0-p55-v1370
-[deity](devatā) [declared](kathitā) [by-the-good](sadbhiḥ) [Kālī](kālī) [Dakṣiṇā+preceded](dakṣiṇapūrvikā)
+[goddess](devatā) [declared](kathitā) [by-the-wise](sadbhiḥ) [kālī](kālī) [preceded-by-dakṣiṇā](dakṣiṇa+pūrvikā)
 
 ## mukta-m0-p55-v1371
-[Bhairava](bhairavo) [of-this](asya) [seer](ṛṣiḥ) [declared](proktaḥ) [all+tantras](sarvatantra) [accompanied](samanvitaḥ)
+[bhairava](bhairavaḥ) [of-this](asya) [seer](ṛṣiḥ) [declared](proktaḥ) [with-all-tantras+endowed](sarva+tantra+samanvitaḥ)
 
 ## mukta-m0-p55-v1372
-[svāhā+ending](svāhāntā) [declared](kathitā) [mantra](vidyā) [all+desire](sarvakāma) [fruit+giving](phalapradā)
+[ending-with-svāhā](svāhā+antā) [declared](kathitā) [mantra](vidyā) [all-desires+fruit+giving](sarva+kāma+phala+pradā)
 
 ## mukta-m0-p55-v1373
-[five+syllabled](pañcākṣarī) [great+mantra](mahāvidyā) [five+faced](pañcavaktra) [seer](ṛṣiḥ) [remembered](smṛtaḥ)
+[five-syllabled](pañca+akṣarī) [great-mantra](mahā+vidyā) [five-faced+seer](pañca+vaktra+ṛṣiḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p55-v1374
-[svāhā+ending](svāhāntā) [declared](kathitā) [mantra](vidyā) [all+prosperity](sarvasampat) [making](karī) [considered](matā)
+[ending-with-svāhā](svāhā+antā) [declared](kathitā) [mantra](vidyā) [all-prosperity+making](sarva+sampat+karī) [considered](matā)
 
 ## mukta-m0-p55-v1375
-[svāhā+ending](svāhāntā) [declared](kathitā) [mantra](vidyā) [all+enemy](sarvaśatru) [destruction+causing](kṣayaṅkarī)
+[ending-with-svāhā](svāhā+antā) [declared](kathitā) [mantra](vidyā) [all-enemies+destruction+making](sarva+śatru+kṣayaṅ+karī)
