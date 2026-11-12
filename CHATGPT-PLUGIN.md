@@ -5,17 +5,43 @@ call its tools, and (via the repo) edit and extend it.*
 
 ## 1. Connect (5 minutes)
 
-Remote MCP URL (streamable HTTP, no auth yet):
+Remote MCP URL (Streamable HTTP, live and always-on):
 
 ```
 https://mcp.svatantrya.net/mcp
 ```
 
 In ChatGPT: **Settings → Connectors → Add custom connector → MCP server URL**
-paste the URL above. Tools appear as `shastra__*`.
-This is a **permanent named tunnel** on svatantrya.net — the URL does not
-change across restarts or reboots. Serving chain: `tw-mcp.service`
-(127.0.0.1:8930) → named tunnel `94250caf…` → `mcp.svatantrya.net`.
+paste the URL above. Tools appear as `shastra__*` (25 tools, incl. the full
+bibliography surface: `bibliography`, `priority`, `schema`, `stats`, `works`,
+`editions`, `links`, `availability`).
+
+**Durable serving chain (systemd, enabled at boot — survives reboots):**
+
+```
+ChatGPT ──HTTPS──▶ mcp.svatantrya.net  (Cloudflare, proxied)
+                     │  CNAME → 2131eb3e-…cfargotunnel.com
+                     ▼
+        svatantrya-tunnel.service  (cloudflared named tunnel 2131eb3e)
+                     │  ingress: mcp.svatantrya.net → 127.0.0.1:8930
+                     ▼
+        tw-mcp.service  (FastMCP HTTP, mcp_server.py --serve-http :8930)
+                     ▼
+        translation-work (25 tools, bibliography base layer)
+```
+
+Both units are `enabled` + `Restart=always`:
+`systemctl status tw-mcp svatantrya-tunnel`.
+
+Notes:
+- The tunnel config lives at `/root/.cloudflared/config.yml`; DNS record in the
+  `svatantrya.net` zone points `mcp` at tunnel `2131eb3e`.
+- Cloudflare filters the bare `Python-urllib` default UA (403). Every real
+  client — ChatGPT, `python-requests`, `python-httpx`, node-fetch, okhttp,
+  Go, Java — passes. If you must use stdlib, set any non-default `User-Agent`.
+- The broader `trika-x` federation (openpatala__*, scholar__*) is a separate
+  aggregate; its HTTP bridge is not part of this endpoint. This endpoint is the
+  translation/bibliography MCP.
 
 ## 2. What it exposes (25 tools)
 
