@@ -13,14 +13,14 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking to prior items",
+     "grounds": "conjunction linking to preceding items",
      "morph": "(indecl.)"
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "attainment-of-powers-root-kaula",
-     "grounds": "fused form of siddhisaṃprāptiḥ and mūlakaulam; internal sandhi noted, row kept unsplit",
-     "morph": "compound=f.sing.nom+siddhi-saṃprāpti+mūla-kaula.n.nom.sg"
+     "gloss": "power-attainment-root-kaula",
+     "grounds": "fused sandhi form: siddhisaṃprāptiḥ + mūlakaulaṃ; compound expressing attainment of powers as the root Kaula",
+     "morph": "compound=siddhi-saṃprāptiḥ+tatpuruṣa+mūlakaula+tatpuruṣa; f.nom.sg + n.nom.sg"
     },
     {
      "surface": "varānane",
@@ -29,15 +29,14 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What is declared to constitute the root Kaula for the fair-faced goddess?",
+   "question": "What constitutes the root Kaula teaching regarding the attainment of powers?",
    "premises": [
-    "The eight are included in the enumeration.",
-    "Attainment of powers is identified with the root Kaula.",
-    "The declaration is addressed to the fair-faced goddess."
+    "The eight powers are included in this enumeration.",
+    "The attainment of these powers is identified as the root Kaula."
    ],
-   "inference": "The attainment of the eight powers constitutes the root Kaula.",
+   "inference": "Therefore, the attainment of the eight powers constitutes the foundational Kaula teaching.",
    "uncertainties": [
-    "The exact scope of the eight powers is not specified within this unit."
+    "The exact internal compound analysis of siddhisaṃprāptirmūlakaulaṃ may admit alternative segmentation."
    ],
    "plain_english": "And the attainment of the eight powers is the root Kaula, O fair-faced one."
   }

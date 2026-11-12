@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 245,
- "question": "How should a practitioner devoted to meditation act in solitude?",
+ "question": "What practice should be performed in solitude with full intent on meditation?",
  "premises": [
-  "The practice is to be done in solitude.",
-  "One should make many forms.",
-  "One should be intent on meditation."
+  "The practitioner is in solitude",
+  "The practitioner is intent on meditation",
+  "Creating forms in many ways is commanded"
  ],
- "inference": "In solitude, intent on meditation, the practitioner should create many forms.",
- "uncertainties": [],
- "plain_english": "In solitude, intent on meditation, create many forms."
+ "inference": "In solitude, intent on meditation, one should create forms in many ways.",
+ "uncertainties": [
+  "dhyānañ is written with final ñ; taken as accusative singular."
+ ],
+ "plain_english": "In solitude, intent on meditation, create forms in many ways."
 }

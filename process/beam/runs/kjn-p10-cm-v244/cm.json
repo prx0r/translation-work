@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound=first-member",
-   "grounds": "first member of compound with palita"
+   "morph": "compound=balī+palita",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "palita",
-   "morph": "compound=second-member",
-   "grounds": "second member of compound indicating signs of aging"
+   "morph": "compound=balī+palita",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "removal of wrinkles and grey hair"
+   "grounds": "attainment named"
   },
   {
    "lemma": "tu",
@@ -25,17 +25,17 @@
   {
    "lemma": "sudūrāt",
    "morph": "(indecl.)",
-   "grounds": "manner or range of seeing"
+   "grounds": "manner of seeing"
   },
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "another attainment mentioned"
+   "grounds": "attainment named"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective indicating addition"
+   "grounds": "connective adverb"
   }
  ]
 }

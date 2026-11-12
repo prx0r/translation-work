@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=first-member",
-   "grounds": "first member of compound with abhyāsa"
+   "morph": "compound=satata+abhyāsa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=second-member",
-   "grounds": "second member of compound indicating constant practice"
+   "morph": "compound=satata+abhyāsa",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "yogena",
    "morph": "m.inst.sg",
-   "grounds": "means by which the result occurs"
+   "grounds": "means"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=first-member",
-   "grounds": "first member of compound indicating sixteen"
+   "morph": "compound=dvi+aṣṭa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=second-member",
-   "grounds": "second member of compound indicating sixteen"
+   "morph": "compound=dvi+aṣṭa",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=third-member",
-   "grounds": "third member of compound indicating sixteen years"
+   "morph": "compound=dvi+aṣṭa+varṣa",
+   "grounds": "third member of compound"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "resulting appearance"
+   "grounds": "resulting state"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-optative/√bhū",
-   "grounds": "result of constant yogic practice"
+   "morph": "3.sg.optative-active/√bhū",
+   "grounds": "main predicate"
   }
  ]
 }
