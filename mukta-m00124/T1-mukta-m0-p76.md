@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[circular-shaped](vṛttākāraiḥ) [but](tu) [paths](mārgaiḥ) [and](ca) [one-many](ekānekaiḥ) [accompanied](samanvitam)
+[circular-shaped](vṛttākāraiḥ) [and](tu) [with-roads](mārgaiḥ) [and](ca) [one+many](eka+anekaiḥ) [endowed-with](samanvitam)
 
 ## mukta-m0-p76-v1877
-[kumbhaka](kumbhakaṃ) [thus](ca) [declared](nirdiṣṭam) [many](anekaiḥ) [corners](koṇakaiḥ) [endowed](yutam)
+[kumbhaka](kumbhakam) [and](ca) [thus](iti) [designated](nirdiṣṭam) [with-many](anekaiḥ) [with-corners](koṇakaiḥ) [endowed-with](yutam)
 
 ## mukta-m0-p76-v1878
-[city-town](nagarīpattanādau) [but](tu) [here](iha) [in-kāmika](kāmike) [prescribed](vihitam)
+[in-city+town-etc](nagarī+pattana+ādau) [but](tu) [prescribed](vihitaṃ) [indeed](tu) [here](iha) [in-kāmika](kāmike)
 
 ## mukta-m0-p76-v1879
-[brahma-portion](brahmabhāga) [encircled](āvṛta) [street](vīthiḥ) [navel-street](nābhivīthī) [thus](iti) [called](kathyate)
+[by-brahmā-part-surrounded](brahma+bhāga+āvṛtā) [street](vīthiḥ) [navel-street](nābhi+vīthiḥ) [thus](iti) [is-called](kathyate)
 
 ## mukta-m0-p76-v1880
-[that-same](saiva) [auspicious-street](maṅgalavīthī) [thus](iti) [chariot-street](rathavīthī) [thus](iti) [called](ucyate)
+[that](sā) [indeed](eva) [auspicious-street](maṅgala+vīthiḥ) [thus](iti) [chariot-street](ratha+vīthiḥ) [thus](iti) [and](ca) [is-called](ucyate)
 
 ## mukta-m0-p76-v1881
-[those](tāḥ) [indeed](eva) [people-streets](janavīthyāḥ) [would-be](syuḥ) [small](kṣudrāḥ) [transverse-going](tiryaggatāḥ) [considered](matāḥ)
+[they](tāḥ) [indeed](eva) [people-streets](jana+vīthyaḥ) [should-be](syuḥ) [small](kṣudrāḥ) [crosswise-going](tiryak+gatāḥ) [considered](matāḥ)
 
 ## mukta-m0-p76-v1882
-[would-be](syāt) [eleven-rods](ekādaśadaṇḍa) [limit](antaṃ) [street-measure](vīthimānam) [here](iha) [in-agama](āgame)
+[should-be](syāt) [up-to-eleven-rods](ekādaśa+daṇḍa+antaṃ) [street-measure](vīthi+mānam) [here](iha) [in-āgama](āgame)
 
 ## mukta-m0-p76-v1883
-[leaving](hitvā) [auspicious-street-tip](maṅgalavīthyagram) [navel](nābhim) [not](na) [should-extend](protayet) [ever](kvacit)
+[having-left](hitvā) [auspicious-street-tip](maṅgala+vīthi+agraṃ) [navel](nābhiṃ) [not](na) [should-pierce](protayet) [ever](kvacit)
 
 ## mukta-m0-p76-v1884
-[four-gated](caturdvāraṃ) [should-be-made](prakartavyam) [of-all](sarveṣām) [also](api) [of-dwellings](vāstunām)
+[four-gated](catur+dvāraṃ) [should-be-made](prakartavyaṃ) [of-all](sarveṣām) [also](api) [of-sites](vāstunām)
 
 ## mukta-m0-p76-v1885
-[house-plot](gṛhakṣatra) [place](pade) [and](ca) [eva](eva) [gandharva](gandharve) [right](dakṣiṇe) [auspicious](śubham)
+[in-gṛhakṣata-pada](gṛhakṣata+pade) [and](ca) [indeed](eva) [in-gandharva](gandharve) [in-south](dakṣiṇe) [auspicious](śubham)
 
 ## mukta-m0-p76-v1886
-[main-bhallāṭa](mukhyabhallāṭayoḥ) [places](sthāne) [north-gate](cottaradvāra) [said](ucyate)
+[in-mukhya+bhallāṭa](mukhya+bhallāṭayoḥ) [place](sthāne) [and](ca) [northern-gate](uttara+dvāraḥ) [is-stated](ucyate)
 
 ## mukta-m0-p76-v1887
-[remainder](śeṣe) [nāga](nāge) [āditya](aditau) [place](sthānam) [north-gates](udagdvāreṣu) [proclaimed](kīrtitam)
+[in-remaining](śeṣe) [in-nāga](nāge) [in-aditi](aditau) [place](sthānam) [in-northern-gates](udak+dvāreṣu) [is-declared](kīrtitam)
 
 ## mukta-m0-p76-v1888
-[tithi-rods](tithidaṇḍa) [end](avasānam) [but](tu) [house-plot](gṛhakṣetra) [breadth](viśālatā)
+[ending-at-fifteen-rods](tithi+daṇḍa+avasānaṃ) [but](tu) [house-site-breadth](gṛha+kṣetra+viśālatā)
 
 ## mukta-m0-p76-v1889
-[or](athavā) [hand-measure](hastamānena) [house-breadth](gṛhavistāra) [said](ucyate)
+[or](athavā) [by-cubit-measure](hasta+mānena) [house-width](gṛha+vistāraḥ) [is-stated](ucyate)
 
 ## mukta-m0-p76-v1890
-[sixty-one](ekaṣaṣṭi) [broad](viśālaṃ) [but](tu) [house-plot](gṛhakṣetra) [breadth](viśālatā)
+[sixty-one-broad](ekaṣaṣṭi+viśālaṃ) [but](tu) [house-site-breadth](gṛha+kṣetra+viśālatā)
 
 ## mukta-m0-p76-v1891
-[four-halled](catuḥ+śālā) [house](gṛhaṃ) [best](śreṣṭhaṃ) [three-halled](triśālaṃ) [middle](madhyamaṃ) [would-be](bhavet)
+[four-halled-house](catuḥ+śālā+gṛhaṃ) [best](śreṣṭhaṃ) [three-halled](tri+śālaṃ) [middle](madhyamaṃ) [should-be](bhavet)
 
 ## mukta-m0-p76-v1892
-[brahma-place](brahmasthāna) [northwest](vāyavyāṃ) [viṣṇu-place](viṣṇusthānaṃ) [proclaimed](prakīrtitam)
+[of-brahmā-place](brahma+sthānasya) [in-northwest](vāyavyāṃ) [viṣṇu-place](viṣṇu+sthānaṃ) [is-declared](prakīrtitam)
 
 ## mukta-m0-p76-v1893
-[village-middle](grāmamadhye) [that](tad) [northeast](īśānyām) [eight-directions](aṣṭadikṣu) [śiva](śivaḥ) [considered](mataḥ)
+[in-village-middle](grāma+madhye) [in-its-northeast](tat+īśānyām) [in-eight-directions](aṣṭa+dikṣu) [śiva](śivaḥ) [considered](mataḥ)
 
 ## mukta-m0-p76-v1894
-[other-all](anyatsarvaṃ) [as-desired](yatheṣṭaṃ) [place](sthātteṣāṃ) [place-here](sthānamihocyate)
+[other](anyat) [all](sarvaṃ) [as-desired](yathā+iṣṭaṃ) [place](sthāt) [of-them](teṣāṃ) [place](sthānam) [here](iha) [is-stated](ucyate)
 
 ## mukta-m0-p76-v1895
-[sun-place](ravisthānaṃ) [would-be](bhavet) [there](tatra) [place](sthānaṃ) [or](vāpi) [śacī-lord](śacīpateḥ)
+[sun-place](ravi+sthānaṃ) [should-be](bhavet) [there](tatra) [place](sthānaṃ) [or](vā) [also](api) [of-śacī-lord](śacī+pateḥ)
 
 ## mukta-m0-p76-v1896
-[sugrīva](sugrīve) [varuṇa](vāruṇe) [or](vāpi) [six-faced](ṣaṇmukha) [place](sthānam) [proclaimed](īrtitam)
+[in-sugrīva](sugrīve) [in-varuṇa](vāruṇe) [or](vā) [also](api) [six-faced-place](ṣaṇmukha+sthānam) [is-declared](īrtitam)
 
 ## mukta-m0-p76-v1897
-[varuṇa-direction](vāruṇyāṃ) [or](vātha) [southwest](nairṛtyāṃ) [wind-moon-between](vāyusomāntare) [or](athavā)
+[in-west](vāruṇyāṃ) [or](vā) [else](atha) [in-southwest](nairṛtyāṃ) [between-vāyu+soma](vāyu+soma+antare) [or](athavā)
 
 ## mukta-m0-p76-v1898
-[yama](yame) [or](vā) [southwest](nairṛte) [part](bhāge) [northwest](vāyavyām) [indra-middle](indramadhyame)
+[in-yama](yame) [or](vā) [in-nairṛta-part](nairṛte+bhāge) [in-northwest](vāyavyām) [in-indra-middle](indra+madhyame)
 
 ## mukta-m0-p76-v1899
-[varuṇa-direction](vāruṇyāṃ) [śrī-sarasvatī](śrīsarasvatyoḥ) [place](sthānam) [declared](uktam) [śiva-refuge](śivāśritāḥ)
+[in-west](vāruṇyāṃ) [of-śrī+sarasvatī](śrī+sarasvatyoḥ) [place](sthānam) [stated](uktaṃ) [śiva-devotees](śiva+āśritāḥ)
 
 ## mukta-m0-p76-v1900
-[southeast](āgneyāṃ) [moṭikā-place](moṭikāsthānaṃ) [kāmadeva](kāmadevasya) [there](tatra) [indeed](vai)
+[in-southeast](āgneyāṃ) [moṭikā-place](moṭikā+sthānaṃ) [of-kāmadeva](kāmadevasya) [there](tatra) [indeed](vai)

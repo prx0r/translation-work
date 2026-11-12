@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[eight-twelve](aṣṭadvādaśakau) [avoidable](varjyau) [remaining](śeṣāḥ) [best-and](śreṣṭhāśca) [signs](rāśayaḥ)
+[eight](aṣṭa) [and-twelve](dvādaśakau) [to-be-avoided](varjyau) [remaining](śeṣāḥ) [best](śreṣṭhāḥ) [and](ca) [signs](rāśayaḥ)
 
 ## mukta-m0-p74-v1827
-[by-expansion+practice+length](vistāreṇābhyaseddairghyaṃ) [such+or](tādṛśīmathavā) [again](punaḥ)
+[by-breadth](vistāreṇa) [one-should-practice](abhyaset) [length](dairghyaṃ) [of-that-kind](tādṛśīm) [or](atha) [or](vā) [again](punaḥ)
 
 ## mukta-m0-p74-v1828
-[square+rectangle+cornered](caturaśrāyatāśrāṇāṃ) [whole+indeed](sakalenaiva) [join](yojayet)
+[of-four-cornered](caturaśra) [and-oblong](āyatāśrāṇāṃ) [with-entirety](sakalena) [indeed](eva) [one-should-apply](yojayet)
 
 ## mukta-m0-p74-v1829
-[kumbhaka+half-wide](kumbhakasya) [not+half+place](nāhārdhena) [wise-one](nyasedbudhaḥ)
+[of-the-pitcher](kumbhakasya) [half-the-width](viśālārdhaṃ) [by-half-the-circumference](nāhārdhena) [should-place](nyaset) [the-wise-one](budhaḥ)
 
 ## mukta-m0-p74-v1830
-[first+hundred-step](ādau) [end+ishana+square](paryanteśānakoṣṭhakāt)
+[in-the-beginning](ādau) [hundred-square](śatapadaṃ) [having-made](kṛtvā) [at-the-end](paryante) [from-the-īśāna-cell](īśāna+koṣṭhakāt)
 
 ## mukta-m0-p74-v1831
-[five-elements](pañcatattvaṃ) [agni-corner+west-path](tathāgneyakoṇātpaścimamārgataḥ)
+[five-elements](pañcatattvaṃ) [likewise](tathā) [from-the-agni-corner](āgneya+koṇāt) [toward-the-western-path](paścima+mārgataḥ)
 
 ## mukta-m0-p74-v1832
-[letters+twenty-numbered](varṇān) [in-order+thus+place](krameṇaivaṃ) [vinyaset](vinyaset)
+[letters](varṇān) [twenty-in-number](viṃśati+saṃkhyākān) [in-order](krameṇa) [thus](evaṃ) [indeed](tu) [one-should-place](vinyaset)
 
 ## mukta-m0-p74-v1833
-[naya+bhaja+kha-letters](nayabhajakhavarṇaśca) [elephant+tooth+mountain](gajadacala) [eva+ca](eva ca)
+[na-ya-bha-ja-kha-letters](naya+bhaja+kha+varṇaḥ) [and](ca) [ga-ja-da-ca-la](gaja+da+ca+la) [indeed](eva) [and](ca)
 
 ## mukta-m0-p74-v1834
-[west-facing+east+first](paścimābhimukhaṃ) [written+third](likhitānāṃ) [tṛtīyakam](tṛtīyakam)
+[facing-west](paścima+abhimukhaṃ) [first](pūrvaṃ) [of-those-written](likhitānāṃ) [the-third](tṛtīyakam)
 
 ## mukta-m0-p74-v1835
-[eleven+place+after](ekādaśa) [nyaset+west](nyasetpaścāt) [end+place+thirteen](prānte) [nyaset+trayodaśa](nyasettrayodaśa)
+[eleven](ekādaśa) [one-should-place](nyaset) [afterward](paścāt) [at-the-end](prānte) [one-should-place](nyaset) [thirteen](trayodaśa)
 
 ## mukta-m0-p74-v1836
-[kṛttikā+declared+so-much](kṛttikā) [vā+vo+vū+fourfold](vā vo vū catuṣṭayam)
+[kṛttikā](kṛttikā) [declared](kathitā) [so-far](tāvat) [o](o) [vā](vā) [vo](vo) [vū](vū) [the-tetrad](catuṣṭayam)
 
 ## mukta-m0-p74-v1837
-[moon-sign+ku+ārdrā](candrabhaṃ) [kuśca+ārdrā+syāt](kuśca ārdrā syāt) [twenty-five+middle](pañcaviṃśatimadhyame)
+[lunar-mansion](candrabhaṃ) [ku](kuḥ) [and](ca) [ārdrā](ārdrā) [should-be](syāt) [in-the-middle-of-twenty-five](pañcaviṃśati+madhyame)
 
 ## mukta-m0-p74-v1838
-[hu+he+ho+ḍa+puṣya](huśca heśca tathā hośca ḍaśca puṣyaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[hu](huḥ) [and](ca) [he](heḥ) [and](ca) [likewise](tathā) [ho](hoḥ) [and](ca) [ḍa](ḍaḥ) [and](ca) [puṣya](puṣyaḥ) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p74-v1839
-[by-this+order+yoga](anena) [all+here+perform](kramayogena sarvamatra samācaret)
+[by-this](anena) [method-of-sequence](krama+yogena) [everything](sarvam) [here](atra) [one-should-perform](samācaret)
 
 ## mukta-m0-p74-v1840
-[hasta+square](hastayukte) [ca+koṣṭhe](ca koṣṭhe) [ca+pūṣaṇāṭhān](ca pūṣaṇāṭhān) [parikalpayet](parikalpayet)
+[in-the-cell](koṣṭhe) [joined-with-hasta](hasta+yukte) [and](ca) [and](ca) [the-stations-of-pūṣan](pūṣaṇa+āṭhān) [one-should-assign](parikalpayet)
 
 ## mukta-m0-p74-v1841
-[bhe+uttarā+bhādrapade](bhecottarābhādrapade) [dūthā+jhā+ān+tathā+nayet](dūthājhāñān tathā nayet)
+[in-the-lunar-mansion](bhe) [uttarābhādrapada](uttarābhādrapade) [dū-thā-jhā-ñā](dū+thā+jhā+ñān) [likewise](tathā) [one-should-lead](nayet)
 
 ## mukta-m0-p74-v1842
-[a-kāra+grahaṇa+indeed](akāragrahaṇenaiva) [ākāra+accepted+thus+here](ākāraḥ svīkṛtastviha)
+[by-the-grasping-of-a](akāra+grahaṇena) [indeed](eva) [ā](ākāraḥ) [is-included](svīkṛtaḥ) [indeed](tu) [here](iha)
 
 ## mukta-m0-p74-v1843
-[u-kāra+grahaṇa+indeed](ukāragrahaṇenaiva) [ūkāra+accepted+thus+here](ūkāraḥ svīkṛtastviha)
+[by-the-grasping-of-u](ukāra+grahaṇena) [indeed](eva) [ū](ūkāraḥ) [is-included](svīkṛtaḥ) [indeed](tu) [here](iha)
 
 ## mukta-m0-p74-v1844
-[thus+elsewhere+infer](evamanyatra) [conneyaṃ+nāma+nakṣatra+kalpanāt](conneyaṃ nāmanakṣatrakalpanāt)
+[thus](evam) [elsewhere](anyatra) [and](ca) [should-be-understood](unneyam) [from-the-assignment-of-name-nakṣatra](nāma+nakṣatra+kalpanāt)
 
 ## mukta-m0-p74-v1845
-[not+mark+join](nāmarkṣaṃ) [wise-one+not+name+other+grasp](yojayedvidvānnāmāntaraparigrahāt)
+[the-name-nakṣatra](nāma+ṛkṣaṃ) [should-join](yojayet) [the-knower](vidvān) [by-taking-another-name](nāma+antara+parigrahāt)
 
 ## mukta-m0-p74-v1846
-[thus+nakṣatra+wheel](evaṃ) [nakṣatracakrañca](nakṣatracakrañca) [to-you+told+by-me](yuṣmākaṃ kathitaṃ mayā)
+[thus](evaṃ) [nakṣatra-wheel](nakṣatra+cakram) [and](ca) [to-you](yuṣmākam) [told](kathitam) [by-me](mayā)
 
 ## mukta-m0-p74-v1847
-[calamity+opposition+and](vipadi) [vadha+and+in-order](pratyare caiva vadhe caiva yathākramāt)
+[in-calamity](vipadi) [in-pratyara](pratyare) [and](ca) [indeed](eva) [in-vadha](vadhe) [and](ca) [indeed](eva) [in-due-order](yathākramāt)
 
 ## mukta-m0-p74-v1848
-[third+and+also+cycle](tṛtīye) [best+declared](cāpi paryāye cottamaṃ paripaṭhyate)
+[in-the-third](tṛtīye) [and](ca) [also](api) [in-the-cycle](paryāye) [and](ca) [the-best](uttamam) [is-declared](paripaṭhyate)
 
 ## mukta-m0-p74-v1849
-[gaṇa+asura+human](gaṇañcāsuramānuṣyaṃ) [avoid+auspicious+otherwise](varjayecchubhamanyathā)
+[the-group](gaṇam) [and](ca) [demonic-and-human](āsura+mānuṣyam) [one-should-avoid](varjayet) [auspicious](śubham) [otherwise](anyathā)
 
 ## mukta-m0-p74-v1850
-[daṇḍika+svastika+other](daṇḍikaṃ svastikañcānyat) [prastara+and+scattered](prastaraṃ ca prakīrṇakam)
+[daṇḍika](daṇḍikam) [svastika](svastikam) [and](ca) [another](anyat) [prastara](prastaram) [and](ca) [prakīrṇaka](prakīrṇakam)
