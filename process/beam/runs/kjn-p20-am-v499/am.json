@@ -1,13 +1,15 @@
 {
  "song": "kjn-p20",
  "verse": 499,
- "question": "Why did the great fish equal in strength to the speaker fail to come, O beloved?",
+ "question": "Why did the great fish, equal in strength to the speaker, fail to be caught?",
  "premises": [
-  "A great fish did not come.",
-  "That fish was equal in strength to the speaker.",
-  "The beloved is addressed."
+  "The great fish did not come",
+  "The fish was equal in strength to the speaker",
+  "The net of power failed to secure it"
  ],
- "inference": "The great fish, equal in strength to the speaker, did not come.",
- "uncertainties": [],
+ "inference": "Despite the net of power, the great fish equal in strength did not come into it",
+ "uncertainties": [
+  "The exact mechanism of non-arrival is implied rather than stated"
+ ],
  "plain_english": "O beloved, that great fish, equal to me in strength, did not come."
 }

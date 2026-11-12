@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 120,
- "question": "What claim does the speaker make about the destruction of death, and with what degree of certainty?",
+ "question": "What claim about the destruction of death must be made with certainty to remove doubt on that point?",
  "premises": [
-  "The speaker undertakes to tell something.",
-  "There is to be no doubt about it.",
-  "Death is destroyed in the manner to be told."
+  "The speaker states an intention to tell.",
+  "No doubt is to remain.",
+  "The claim is that death is destroyed in a certain way."
  ],
- "inference": "The speaker tells how death is destroyed, and there is no doubt about it.",
- "uncertainties": [],
- "plain_english": "I tell it; there is no doubt that death is destroyed as such."
+ "inference": "The teaching asserts with certainty that death is destroyed.",
+ "uncertainties": [
+  "Means of destruction not specified here"
+ ],
+ "plain_english": "I tell it; there is no doubt, that death is destroyed."
 }
