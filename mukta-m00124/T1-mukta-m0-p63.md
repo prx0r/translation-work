@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[then](tataḥ) [at-dawn](prabhāte) [clear](vimale) [auspicious-day](suvāre) [indeed](tu) [auspicious](śubhe) [day](dine)
+[then](tataḥ) [in-morning](prabhāte) [spotless](vimale) [on-good+day](su+vāre) [indeed](tu) [on-auspicious](śubhe) [on-day](dine)
 
 ## mukta-m0-p63-v1552
-[direction-deities](digdevatāḥ) [and](ca) [having-worshipped](saṃpūjya) [perfumes-etc](gandhādyaiḥ) [and](ca) [by-own-names](svanāmabhiḥ)
+[direction+deities](dik+devatāḥ) [and](ca) [having-worshipped](saṃpūjya) [with-fragrances+etc](gandha+ādyaiḥ) [and](ca) [with-own+names](sva+nāmabhiḥ)
 
 ## mukta-m0-p63-v1553
-[with-arrived-southern](saṃprāptadakṣiṇaiḥ) [brahmins](vipraiḥ) [artisan](śilpinā) [and](ca) [accompanied](samanvitaḥ)
+[with-received+fees+priests](saṃprāpta+dakṣiṇaiḥ+vipraiḥ) [with-artisan](śilpinā) [and](ca) [accompanied](samanvitaḥ) [one](saḥ)
 
 ## mukta-m0-p63-v1554
-[Indra-etc](indrādīn) [around](paritaḥ) [having-worshipped](ceṣṭvā) [stake-establishment](śaṅkusthāpanam) [begin](ārabhet)
+[Indra+etc](indra+ādīn) [all-around](paritaḥ) [and](ca) [having-worshipped](iṣṭvā) [peg+placing](śaṅku+sthāpanam) [one-should-begin](ārabhet)
 
 ## mukta-m0-p63-v1555
-[circle](vṛttaṃ) [having-rotated](saṃbhrāmya) [its-middle](tanmadhye) [place-that](sthāpayet) [at-sunrise](taminodaye)
+[circle](vṛttaṃ) [having-rotated](saṃbhrāmya) [in-its+middle](tat+madhye) [one-should-place](sthāpayet) [it](tam) [at-sunrise](ina+udaye)
 
 ## mukta-m0-p63-v1556
-[that-dot-pair-going](tadbindudvayagaṃ) [thread](sūtraṃ) [east-west-direction](pūrvāparadigiṣyate)
+[that+two-points+going](tat+bindu+dvaya+gaṃ) [thread](sūtraṃ) [in-east+west+direction](pūrva+apara+diśi) [is-desired](iṣyate)
 
 ## mukta-m0-p63-v1557
-[dot-pair-interval](bindudvayāntaraṃ) [rotated](bhrāntaḥ) [shambara-face-tail](śambarānanapucchakam)
+[two-points+interval](bindu+dvaya+antaraṃ) [rotated](bhrāntaḥ) [fish+mouth+tail](śambara+ānana+pucchakam) [forms](karoti)
 
 ## mukta-m0-p63-v1558
-[pole-boring](dhruvavedhena) [or-north](vodīcīṃ) [or-east](prācīṃ) [or](vā) [pole-star](dhruvatārayā)
+[by-pole-star+sighting](dhruva+vedhena) [or](vā) [northern](udīcīṃ) [eastern](prācīṃ) [or](vā) [by-pole-star](dhruva+tārayā)
 
 ## mukta-m0-p63-v1559
-[half-measure-field](mitakṣetrārdhamānena) [square](caturaśraṃ) [indeed](tu) [accomplish](sādhayet)
+[by-measured+area+half+measure](mita+kṣetra+ardha+mānena) [square](caturaśraṃ) [indeed](tu) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p63-v1560
-[water](jalena) [level-ground](talasāmyaṃ) [be](syāt) [middle](madhyame) [or](vā) [peg](karṇike)
+[with-water](jalena) [surface+levelness](tala+sāmyaṃ) [should-be](syāt) [in-middle](madhyame) [or](vā) [then](atha) [in-pericarp](karṇike)
 
 ## mukta-m0-p63-v1561
-[eastern-side](prācītaraṃ) [indeed](tu) [which-place](yatsthānaṃ) [all-fault-causing](sarvadoṣakaraṃ) [becomes](bhavet)
+[more-eastern](prācī+taraṃ) [indeed](tu) [which](yat) [place](sthānaṃ) [all+fault+causing](sarva+doṣa+karaṃ) [would-be](bhavet)
 
 ## mukta-m0-p63-v1562
-[atom-gradual-increase](paramāṇukramādvṛddhyā) [measure-angula](mānāṅgulam) [thus](iti) [remembered](smṛtam)
+[from-atom+sequence](paramāṇu+kramāt) [by-increase](vṛddhyā) [measure+finger](māna+aṅgulam) [thus](iti) [is-remembered](smṛtam)
 
 ## mukta-m0-p63-v1563
-[chariot-dust](rathareṇuḥ) [hair-tip](ca) [vālāgraṃ] [louse-egg](līkṣā) [louse](yūkaḥ) [barley](yavaḥ) [thus](tathā)
+[chariot+dust](ratha+reṇuḥ) [and](ca) [hair+tip](vāla+agraṃ) [nit](līkṣā) [louse](yūkaḥ) [barley-corn](yavaḥ) [likewise](tathā)
 
 ## mukta-m0-p63-v1564
-[eight](aṣṭābhiḥ) [and](ca) [in-order](krameṇaiva) [smaller-etc](kanyasādivibhedataḥ)
+[by-eight](aṣṭābhiḥ) [and](ca) [in-order](krameṇa) [indeed](eva) [by-smallest+etc+distinction](kanyasa+ādi+vibhedataḥ)
 
 ## mukta-m0-p63-v1565
-[with-rice](śālibhiḥ) [and](ca) [three](tribhiḥ) [half](sārdhaiḥ) [four](caturbhiḥ) [and](ca) [thus-long](tathāyataiḥ)
+[with-rice-grains](śālibhiḥ) [and](ca) [with-three](tribhiḥ) [with-half](sa+ardhaiḥ) [with-four](caturbhiḥ) [and](ca) [likewise](tathā) [extended](āyataiḥ)
 
 ## mukta-m0-p63-v1566
-[half](sārdhaiḥ) [six](ṣaḍbhiḥ) [barley](yavair) [or](vā) [then](atha) [half](sārdhaiḥ) [seven](saptabhiḥ) [indeed](eva) [or](vā)
+[with-half](sa+ardhaiḥ) [with-six](ṣaḍbhiḥ) [with-barley-corns](yavaiḥ) [or](vā) [then](atha) [with-half](sa+ardhaiḥ) [with-seven](saptabhiḥ) [indeed](eva) [or](vā)
 
 ## mukta-m0-p63-v1567
-[middle-angula-middle-joint-length](madhyamāṅgulimadhyasthaparvadīrghaṃ) [indeed](tu) [which-becomes](yadbhavet)
+[middle+finger+middle+situated+joint+length](madhyama+aṅguli+madhya+stha+parva+dīrghaṃ) [indeed](tu) [which](yat) [may-be](bhavet)
 
 ## mukta-m0-p63-v1568
-[half-less](ardhonam) [lowest](adhamaṃ) [declared](proktaṃ) [measure-angula-distinction](mātrāṅgulavibhedataḥ)
+[half+less+lowest](ardha+ūna+adhamaṃ) [declared](proktaṃ) [by-measure+finger+distinction](mātra+aṅgula+vibhedataḥ)
 
 ## mukta-m0-p63-v1569
-[thus](evaṃ) [measure-angula](mātrāṅgulaṃ) [declared](proktaṃ) [sacrifice-etc](yāgādīnāṃ) [praised](paśasyate)
+[thus](evaṃ) [measure+finger](mātra+aṅgulam) [declared](proktaṃ) [of-sacrifice+etc](yāga+ādīnāṃ) [is-praised](paśasyate)
 
 ## mukta-m0-p63-v1570
-[that-pair](taddvayaṃ) [hand](hastam) [designated](uddiṣṭaṃ) [that](sa) [kiṣku](kiṣkuriha) [approved](sammataḥ)
+[that+pair](tat+dvayaṃ) [hand](hastam) [designated](uddiṣṭaṃ) [that](sa) [kiṣku](kiṣkuḥ) [here](iha) [accepted](sammataḥ)
 
 ## mukta-m0-p63-v1571
-[measures](mātraiḥ) [indeed](tu) [twenty-six](ṣaḍviṃśatibhiḥ) [bow-fist](dhanurmuṣṭiḥ) [declared](prakīrtitaḥ)
+[with-measures](mātraiḥ) [indeed](tu) [with-twenty-six](ṣaḍviṃśatibhiḥ) [bow+fist](dhanuḥ+muṣṭiḥ) [proclaimed](prakīrtitaḥ)
 
 ## mukta-m0-p63-v1572
-[measure-angula-born-hands](mānāṅgulotthahastāḥ) [indeed](tu) [in-this-science](śāstre'smin) [declared](saṃprakīrtitāḥ)
+[measure+finger+arisen+cubits](māna+aṅgula+uttha+hastāḥ) [indeed](tu) [in-this+treatise](śāstre+asmin) [well-proclaimed](saṃprakīrtitāḥ)
 
 ## mukta-m0-p63-v1573
-[palm](talaṃ) [having-spread](prasārya) [and](ca) [thumb-included](aṅguṣṭhasahitaiḥ) [four-angulas](caturaṅgulaiḥ)
+[palm](talaṃ) [having-spread](prasārya) [and](ca) [with-thumb+accompanied](aṅguṣṭha+sahitaiḥ) [with-four+fingers](catur+aṅgulaiḥ)
 
 ## mukta-m0-p63-v1574
-[vitasti](vitastiḥ) [declared](kathitaḥ) [and](ca) [thus](evaṃ) [pradesha](prādeśaḥ) [thereafter](tadanantaram)
+[span](vitastiḥ) [told](kathitaḥ) [and](ca) [thus](evaṃ) [prādeśa](prādeśaḥ) [that+after](tat+anantaram)
 
 ## mukta-m0-p63-v1575
-[Prajapati-measure](prājāpatyasya) [measure](mānena) [in-pavilion](maṇḍape) [in-image](vigrahe) [and](api) [also](ca)
+[of-Prājāpatya](prājāpatyasya) [by-measure](mānena) [in-pavilion](maṇḍape) [in-image](vigrahe) [also](api) [and](ca)

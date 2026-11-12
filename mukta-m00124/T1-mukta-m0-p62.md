@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[purified+earth+middle](pavitrīkṛtabhūmadhye) [village+etc](grāmādyam) [let-be-taken](parigṛhyatām)
+[purified+land+in-middle](pavitrīkṛta+bhū+madhye) [village+etc](grāma+ādyam) [should-be-taken](parigṛhyatām)
 
 ## mukta-m0-p62-v1527
-[house+village+etc+makers](gṛhagrāmādikartaṇām) [śiva+initiation+possessed+selves](śivadīkṣānvitātmanām)
+[house+village+etc+makers](gṛha+grāma+ādi+kartaṇāṃ) [śiva+initiation+endowed](śiva+dīkṣā+anvita) [souls](ātmanām)
 
 ## mukta-m0-p62-v1528
-[peg+establishment](śaṅkusaṃsthāpanam) [I-will-speak](vakṣye) [villages+etc](grāmādīnām) [auspicious+bringing](śubhāvaham)
+[peg+establishment](śaṅku+saṃsthāpanam) [I-shall-tell](vakṣye) [of-village+etc](grāma+ādīnām) [auspiciousness+bringing](śubha+āvaham)
 
 ## mukta-m0-p62-v1529
-[elsewhere](anyatra) [placed](sthāpitaḥ) [peg](śaṅkuḥ) [village+etc](grāmādyam) [will-destroy](nāśayiṣyati)
+[elsewhere](anyatra) [placed](sthāpitaḥ) [peg](śaṅkuḥ) [village+etc](grāma+ādyam) [will-destroy](nāśayiṣyati)
 
 ## mukta-m0-p62-v1530
-[for+peg](śaṅkvartham) [circle](maṇḍalam) [should-make](kuryāt) [of+gods](devānām) [and](ca) [eternal](sanātanam)
+[for-peg](śaṅku+artham) [circle](maṇḍalam) [one-should-make](kuryāt) [of-gods](devānām) [and](ca) [eternal](sanātanam)
 
 ## mukta-m0-p62-v1531
-[without+cracks](nirdaram) [without+decay](nirjaram) [smooth](snigdham) [pleasant+touch](suspṛśyam) [very+even](susamam) [auspicious](śubham)
+[crackless](nirdaram) [unbroken](nirjaram) [smooth](snigdham) [pleasant-to-touch](su+spṛśyam) [very-even](su+samam) [auspicious](śubham)
 
 ## mukta-m0-p62-v1532
-[of+twice-born+etc](dvijādīnām) [according+to+number](yathāsaṃkhyam) [to-be+fitted](yojanīyam) [by+experts](vicakṣaṇaiḥ)
+[of-twice-born+etc](dvija+ādīnām) [according-to-number](yathā+saṃkhyam) [should-be-employed](yojanīyam) [by-wise](vicakṣaṇaiḥ)
 
 ## mukta-m0-p62-v1533
-[should+dig](khātayet) [those](tān) [many](bahūn) [properly](samyak) [equal](samān) [equal+distance+apart](samatarāntarān)
+[one-should-dig](khātayet) [them](tān) [many](bahūn) [properly](samyak) [equal](samān) [equal+intervals](sama+tara+antarān)
 
 ## mukta-m0-p62-v1534
-[yogurt+ghee+milk+mixed](dadhyājyakṣīrasammiśram) [with+anthill+earth](saval... ) [firm](dṛḍham)
+[curd+ghee+milk+mixed](dadhi+ājya+kṣīra+sammiśram) [with-anthill+earth](sa+valmīka+mṛdā) [firm](dṛḍham)
 
 ## mukta-m0-p62-v1535
-[not+decayed+fine+high](ajarjaramanīcoccam) [very+smooth](susnigdham) [mirror+like](darpaṇopamam)
+[unworn](ajarjaram) [not-low+high](anīca+uccam) [very-smooth](su+snigdham) [mirror+like](darpaṇa+upamam)
 
 ## mukta-m0-p62-v1536
-[khadira+tinisha](khādirastiniśaḥ) [for+kings](rājñām) [for+merchants](vaṇijām) [shaka+khadira](śākakhādirau)
+[khādira](khādiraḥ) [tiniśa](tiniśaḥ) [for-kings](rājñām) [for-merchants](vaṇijām) [śāka+khādira](śāka+khādirau)
 
 ## mukta-m0-p62-v1537
-[milk+tree+shami+sala](kṣīravṛkṣaśamīsālāḥ) [all](sarve) [suitable](yogyāḥ) [declared](samīritāḥ)
+[milk+tree+śamī+sāla](kṣīra+vṛkṣa+śamī+sālāḥ) [all](sarve) [suitable](yogyāḥ) [declared](samīritāḥ)
 
 ## mukta-m0-p62-v1538
-[front](agre) [but+one+finger](tvekāṅgulaḥ) [site](vāstu) [for+all+varnas](sarvavarṇeṣu) [suitable](yogyakaḥ)
+[at-tip](agre) [but](tu) [one+finger](eka+aṅgulaḥ) [indeed](vāstu) [in-all+classes](sarva+varṇeṣu) [suitable](yogyakaḥ)
 
 ## mukta-m0-p62-v1539
-[front](agre) [three+finger+width](tryaṅgulavistāraḥ) [peg+or](śaṅkurvā) [in+all+sites](sarvavāstuṣu)
+[at-tip](agre) [three+finger+wide](tri+aṅgula+vistāraḥ) [peg](śaṅkuḥ) [or](vā) [in-all+sites](sarva+vāstuṣu)
 
 ## mukta-m0-p62-v1540
-[one+finger+decrease+etc](ekāṅgulakṣayādāyaḥ) [root+diameter](mūlanāhaḥ) [is+prescribed](vidhīyate)
+[one+finger+diminution+from](eka+aṅgula+kṣayāt) [āya](āyaḥ) [root+girth](mūla+nāhaḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p62-v1541
-[of+gods+etc](devādīnām) [head+tip](śiro'gram) [should+be](syāt) [of+twice-born](dvijānām) [umbrella+like](chatrasannibham)
+[of-gods+etc](deva+ādīnām) [head+tip](śiraḥ+agram) [should-be](syāt) [of-twice-born](dvijānām) [umbrella+like](chatra+sannibham)
 
 ## mukta-m0-p62-v1542
-[banana+bud+tip](kadalīmukulāgram) [should+be](syāt) [of+shudras](śūdrāṇām) [circle+tip](maṇḍalāgrakam)
+[plantain+bud+tip](kadalī+mukula+agram) [should-be](syāt) [of-śūdras](śūdrāṇām) [round+tip](maṇḍala+agrakam)
 
 ## mukta-m0-p62-v1543
-[seat](āsanam) [bakula](vākulam) [for+kings](rājñām) [tinduka](taindukam) [and](ca) [api](api) [khadira](khādiram)
+[seat](āsanam) [of-vākula](vākulam) [for-kings](rājñām) [of-tinduka](taindukam) [and](ca) [also](api) [of-khādira](khādiram)
 
 ## mukta-m0-p62-v1544
-[should+fit](yojayet) [teacher](deśikaḥ) [wise](dhīmān) [famous+peg](khyātaśaṅkau) [ancient](purātane)
+[should-employ](yojayet) [teacher](deśikaḥ) [wise](dhīmān) [in-famous+peg](khyāta+śaṅkau) [ancient](purātane)
 
 ## mukta-m0-p62-v1545
-[middle+beginning+end+situated](madhyādyantasthitaiḥ) [pegs](kīlaiḥ) [circles](maṇḍalaiḥ) [nine](navabhiḥ) [joined](yutaiḥ)
+[middle+beginning+end+standing](madhya+ādi+anta+sthitaiḥ) [with-pegs](kīlaiḥ) [with-circles](maṇḍalaiḥ) [with-nine](navabhiḥ) [joined](yutaiḥ)
 
 ## mukta-m0-p62-v1546
-[village+field+mountain](grāmakedāraśaile) [should+be](syāt) [needle+one+finger+long](sūcirekāṅgulāyatā)
+[in-village+field+mountain](grāma+kedāra+śaile) [should-be](syāt) [needle](sūciḥ) [one+finger+long](eka+aṅgula+āyatā)
 
 ## mukta-m0-p62-v1547
-[with+five+cow+products](pañcagavyena) [purifying](saṃśodhya) [again](bhūyaḥ) [with+pure+water](śuddhodakena) [or](vā)
+[with-five-products-of-cow](pañca+gavyena) [having-purified](saṃśodhya) [again](bhūyaḥ) [with-pure+water](śuddha+udakena) [or](vā)
 
 ## mukta-m0-p62-v1548
-[with+sandal+etc](gandhādibhiḥ) [worshiping](samabhyarcya) [vastu+increase](vāstuvṛddhim) [remembering](anusmaran)
+[with-fragrance+etc](gandha+ādibhiḥ) [having-worshipped](samabhyarcya) [site+prosperity](vāstu+vṛddhim) [remembering](anusmaran)
 
 ## mukta-m0-p62-v1549
-[peg+place+north+gone](śaṅkusthānottaragate) [rite](kriyām) [this](enām) [should+perform](samācaret)
+[peg+place+north+gone](śaṅku+sthāna+uttara+gate) [rite](kriyām) [this](enām) [one-should-perform](samācaret)
 
 ## mukta-m0-p62-v1550
-[having+done+auspicious+band](kṛtakautukabandhaḥ) [tu](tu) [on+altar+situated](sthaṇḍilastham) [should+worship](samarcayet)
+[done+protective-thread+binding](kṛta+kautuka+bandhaḥ) [but](tu) [on-altar+standing](sthaṇḍila+stham) [one-should-worship](samarcayet)

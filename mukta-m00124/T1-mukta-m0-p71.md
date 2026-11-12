@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[dāpayet](dāpayed) [antarikṣāya](antarikṣāya) [tapanaṃ](tapanaṃ) [dugdha+sarppiṣā](dugdhasarppiṣā)
+[should-offer](dāpayed) [to-antarikṣa](antarikṣāya) [heated-milk](tapanaṃ) [with-milk+ghee](dugdha+sarppiṣā)
 
 ## mukta-m0-p71-v1752
-[pūpṇe](pūpṇe) [ca](ca) [vitathe](vitathe) [dadyāt](dadyāt) [pakvānnaṃ](pakvānnaṃ) [susamāhitaḥ](susamāhitaḥ)
+[to-pūṣan](pūpṇe) [and](ca) [to-vitatha](vitathe) [should-give](dadyāt) [cooked+food](pakva+annaṃ) [well+composed](su+samāhitaḥ)
 
 ## mukta-m0-p71-v1753
-[yamāya](yamāya) [pāyasaṃ](pāyasaṃ) [dadyāt](dadyāt) [gandharve](gandharve) [gandham](gandham) [ucyate](ucyate)
+[to-yama](yamāya) [rice-pudding](pāyasaṃ) [should-give](dadyāt) [to-gandharva](gandharve) [fragrance](gandham) [is-prescribed](ucyate)
 
 ## mukta-m0-p71-v1754
-[dadyāt](dadyānnirṛtaye) [nirṛtaye](nirṛtaye) [tailaṃ](tailaṃ) [piṇyāka+annaṃ](piṇyākānnaṃ) [ca](ca) [buddhimān](buddhimān)
+[should-give](dadyāt) [to-nirṛti](nirṛtaye) [sesame-oil](tailaṃ) [oil-cake+food](piṇyāka+annaṃ) [and](ca) [the-wise-one](buddhimān)
 
 ## mukta-m0-p71-v1755
-[piṣṭāni](piṣṭāni) [puṣpadantāya](puṣpadantāya) [puṣpāṇi](puṣpāṇi) [sajalāni](sajalāni) [ca](ca)
+[ground-offerings](piṣṭāni) [to-puṣpadanta](puṣpadantāya) [flowers](puṣpāṇi) [with+water](sa+jālāni) [and](ca)
 
 ## mukta-m0-p71-v1756
-[vārāhaṃ](vārāhaṃ) [tu](tu) [balau](balau) [māṃsam](māṃsamasurāya) [asurāya](asurāya) [pradāpayet](pradāpayet)
+[boar-meat](vārāhaṃ) [indeed](tu) [in-the-offering](balau) [meat](māṃsam) [to-asura](asurāya) [should-offer](pradāpayet)
 
 ## mukta-m0-p71-v1757
-[rogāya](rogāya) [śuṣkam](śuṣkamastyān) [astyān](astyān) [vai](vai) [dhvajaṃ](dhvajaṃ) [pītaṃ](pītaṃ) [ca](ca) [vāyave](vāyave)
+[to-roga](rogāya) [dried+fish](śuṣka+mastyān) [indeed](vai) [flag](dhvajaṃ) [yellow](pītaṃ) [and](ca) [to-vāyu](vāyave)
 
 ## mukta-m0-p71-v1758
-[bhallāṭāya](bhallāṭāya) [gulānnaṃ](gulānnaṃ) [vai](vai) [samyak](samyagdadyādbalipradaḥ) [dadyāt](dadyāt) [bali+pradaḥ](balipradaḥ)
+[to-bhallāṭa](bhallāṭāya) [molasses+food](gula+annaṃ) [indeed](vai) [properly](samyak) [should-give](dadyāt) [offering+giver](bali+pradaḥ)
 
 ## mukta-m0-p71-v1759
-[gajāya](gajāya) [śarkarā+pūpam](śarkarāpūpam) [adityai](adityai) [modakaṃ](modakaṃ) [viduḥ](viduḥ)
+[to-gaja](gajāya) [sugar+cake](śarkarā+apūpam) [to-aditi](adityai) [sweet-ball](modakaṃ) [they-know](viduḥ)
 
 ## mukta-m0-p71-v1760
-[pāyasaṃ](pāyasaṃ) [ghṛta+sammiśram](ghṛtasammiśram) [īśānāya](īśānāya) [nivedayet](nivedayet)
+[rice-pudding](pāyasaṃ) [ghee+mixed](ghṛta+sammiśram) [to-īśāna](īśānāya) [should-offer](nivedayet)
 
 ## mukta-m0-p71-v1761
-[indrāya](indrāya) [māṣa+annaṃ](māṣamannaṃ) [vai](vai) [mudga+annaṃ](mudgānnaṃ) [ca](ca) [indra+sūnave](indrasūnave)
+[to-indra](indrāya) [black-gram+food](māṣa+annaṃ) [indeed](vai) [mung-bean+food](mudga+annaṃ) [and](ca) [to-indra+son](indra+sūnave)
 
 ## mukta-m0-p71-v1762
-[āpāya](āpāya) [mastyaṃ](mastyaṃ) [māsaṃ](māsaṃ) [ca](ca) [cāpa+vatsāya](cāpavatsāya) [dāpayet](dāpayet)
+[to-āpa](āpāya) [fish](mastyaṃ) [meat](māsaṃ) [and](ca) [to-apavatsa](cāpavatsāya) [should-give](dāpayet)
 
 ## mukta-m0-p71-v1763
-[bidārikāyai](bidārikāyai) [dātavyaṃ](dātavyaṃ) [lavaṇaṃ](lavaṇaṃ) [dhīmatā](dhīmatā) [bhṛśam](bhṛśam)
+[to-bidārikā](bidārikāyai) [should-be-given](dātavyaṃ) [salt](lavaṇaṃ) [by-the-wise-one](dhīmatā) [abundantly](bhṛśam)
 
 ## mukta-m0-p71-v1764
-[kulmāṣaṃ](kulmāṣaṃ) [pāparākṣasyai](pāparākṣasyai) [māṃsa+annaṃ](māṃsānnaṃ) [syāt](syādgraheṣu) [graheṣu](graheṣu) [ca](ca)
+[gruel](kulmāṣaṃ) [to-pāparākṣasī](pāparākṣasyai) [meat+food](māṃsa+annaṃ) [should-be](syāt) [to-the-planets](graheṣu) [and](ca)
 
 ## mukta-m0-p71-v1765
-[sarveṣām](sarveṣāmapi) [api](api) [dātavyaḥ](dātavyo) [balir](balirdadhnā) [dadhnā](dadhnā) [samanvitaḥ](samanvitaḥ)
+[of-all](sarveṣām) [also](api) [should-be-given](dātavyaḥ) [offering](baliḥ) [with-curd](dadhnā) [accompanied](samanvitaḥ)
 
 ## mukta-m0-p71-v1766
-[gṛha+deva+ālaya+ādau](gṛhadevālayādau) [ca](ca) [madhyamaḥ](madhyamaḥ) [kathyate](kathyate'dhunā) [adhunā](adhunā)
+[in-house+temple+etc.](gṛha+deva+ālaya+ādau) [and](ca) [the-middle](madhyamaḥ) [is-declared](kathyate) [now](adhunā)
 
 ## mukta-m0-p71-v1767
-[aryamā+ādi+caturṇāṃ](aryamādicaturṇāṃ) [tu](tu) [pāyasaṃ](pāyasaṃ) [balir](balirucyate) [ucyate](ucyate)
+[of-aryaman+etc.+four](aryama+ādi+caturṇāṃ) [indeed](tu) [rice-pudding](pāyasaṃ) [offering](baliḥ) [is-prescribed](ucyate)
 
 ## mukta-m0-p71-v1768
-[īśāna+ādi+aṣṭa+devānāṃ](īśānādyaṣṭadevānāṃ) [mudga+annaṃ](mudgānnaṃ) [balir](balirucyate) [ucyate](ucyate)
+[of-īśāna+etc.+eight+deities](īśāna+ādi+aṣṭa+devānāṃ) [mung-bean+food](mudga+annaṃ) [offering](baliḥ) [is-prescribed](ucyate)
 
 ## mukta-m0-p71-v1769
-[paścimā+āśā+sthitānāṃ](paścimāśāsthitānāṃ) [tu](tu) [ghṛta+annaṃ](ghṛtānnaṃ) [balir](balirucyate) [ucyate](ucyate)
+[of-those-situated-in-western+direction](paścima+āśā+sthitānāṃ) [indeed](tu) [ghee+food](ghṛta+annaṃ) [offering](baliḥ) [is-prescribed](ucyate)
 
 ## mukta-m0-p71-v1770
-[aṣṭānāṃ](aṣṭānāṃ) [bāhya+devānāṃ](bāhyadevānāṃ) [māṃsa+annaṃ](māṃsānnaṃ) [balir](balirucyate) [ucyate](ucyate)
+[of-the-eight](aṣṭānāṃ) [outer+deities](bāhya+devānāṃ) [meat+food](māṃsa+annaṃ) [offering](baliḥ) [is-prescribed](ucyate)
 
 ## mukta-m0-p71-v1771
-[śuddham](śuddhamannaṃ) [annaṃ](annaṃ) [pradātavyaṃ](pradātavyaṃ) [gandha+puṣpa+puraḥ+saram](gandhapuṣpapuraḥsaram)
+[pure+food](śuddham+annaṃ) [should-be-given](pradātavyaṃ) [fragrance+flower+preceded+by](gandha+puṣpa+puraḥ+saram)
 
 ## mukta-m0-p71-v1772
-[matsyaṃ](matsyaṃ) [śūdra+gṛhe](śūdragṛhe) [proktam](proktamanyatra) [anyatra](anyatra) [madhu](madhu) [kalpayet](kalpayet)
+[fish](matsyaṃ) [in-śūdra+house](śūdra+gṛhe) [is-declared](proktam) [elsewhere](anyatra) [honey](madhu) [one-should-arrange](kalpayet)
 
 ## mukta-m0-p71-v1773
-[grāma+ādau](grāmādau) [vā](vā) [baliḥ](baliḥ) [saḥ](sopi) [api](api) [śuddha+dravyaiḥ](śuddhadravyairvidhīyatām) [vidhīyatām](vidhīyatām)
+[in-village+etc.](grāma+ādau) [or](vā) [offering](baliḥ) [that](saḥ) [also](api) [with-pure+substances](śuddha+dravyaiḥ) [should-be-performed](vidhīyatām)
 
 ## mukta-m0-p71-v1774
-[mahā+vāstuni](mahāvāstuni) [vipra+indrāḥ](viprendrā) [deśikāḥ](deśikā) [bahavaḥ](bahavo) [matāḥ](matāḥ)
+[in-great+vāstu](mahā+vāstuni) [o-best+of-brahmins](vipra+indrāḥ) [teachers](deśikāḥ) [many](bahavaḥ) [are-regarded](matāḥ)
 
 ## mukta-m0-p71-v1775
-[abhāvāt](abhāvādādiśaivānāṃ) [ādi+śaivānāṃ](ādiśaivānāṃ) [tatra](tatra) [brāhmāḥ](brāhmāḥ) [śiva+dvijāḥ](śivadvijāḥ)
+[in-the-absence](abhāvāt) [of-ādi+śaivas](ādi+śaivānāṃ) [there](tatra) [brahmins](brāhmāḥ) [śiva+twice-born](śiva+dvijāḥ)

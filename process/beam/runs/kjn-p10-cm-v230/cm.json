@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first-member",
-   "grounds": "first member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating eight groups of eight"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭaka+second-member",
-   "grounds": "second member indicating sets of eight"
+   "morph": "compound-member",
+   "grounds": "second member of compound forming the division"
   },
   {
    "lemma": "vibhāgam",
@@ -24,13 +24,13 @@
   },
   {
    "lemma": "parijñātum",
-   "morph": "infinitive/√jñā",
-   "grounds": "purpose of the inquiry"
+   "morph": "infinitive √jñā",
+   "grounds": "infinitive expressing purpose"
   },
   {
    "lemma": "anantathā",
    "morph": "(indecl.)",
-   "grounds": "manner or extent of knowing fully"
+   "grounds": "manner of knowing fully"
   }
  ]
 }
