@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 328,
- "question": "Does liberation entail freedom from the taint of sin and merit?",
+ "question": "Does the liberated person remain affected by the moral consequences of sin and merit?",
  "premises": [
   "Liberation may arise for such a person",
-  "Sin and merit are possible taints",
+  "Sin and merit normally bind beings",
   "The liberated one is not smeared by them"
  ],
- "inference": "The liberated person remains untouched by sin and merit",
- "uncertainties": [],
- "plain_english": "He may attain liberation and is not tainted by sin or merit."
+ "inference": "One who attains liberation is not tainted by sin or merit.",
+ "uncertainties": [
+  "The fused form bhavedyastu is syntactically compressed."
+ ],
+ "plain_english": "He may attain liberation, and he is not tainted by sin or merit."
 }

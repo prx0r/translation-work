@@ -7,37 +7,39 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "object of the imperative; the immortal essence to be heard",
+     "grounds": "object of hearing; refers to the supreme nectar mentioned in context",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-essence",
      "grounds": "compound describing the nectar as the true nature of Kaula",
-     "morph": "m.acc.sg (compound: kaula+sadbhāva)"
+     "morph": "compound: kaula+sadbhāva; m.acc.sg"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "command addressed to the listener",
-     "morph": "2.sg.imp.act√śru"
+     "grounds": "imperative command addressed to the listener",
+     "morph": "2.sg.imp.act (śru)"
     },
     {
      "surface": "kāmakalātmakam",
-     "gloss": "desire-art-natured",
-     "grounds": "compound qualifying the nectar as consisting of kāmakalā",
-     "morph": "n.acc.sg (compound: kāma+kalā+ātmaka)"
+     "gloss": "desire-art-consisting-of",
+     "grounds": "compound qualifying the Kaula essence as constituted by kāmakalā",
+     "morph": "compound: kāmakalā+ātmaka; m.acc.sg"
     }
    ],
-   "question": "What essential nature characterizes the Kaula nectar the listener is commanded to hear?",
+   "question": "What essential nature characterizes the nectar identified with the Kaula reality?",
    "premises": [
-    "A nectar is presented as the object to be heard.",
-    "This nectar is identified as the true essence of Kaula.",
-    "This nectar is characterized as having the nature of kāmakalā."
+    "The nectar is identified as the true essence of Kaula.",
+    "This Kaula essence is constituted by kāmakalā.",
+    "The listener is commanded to hear about this nectar."
    ],
-   "inference": "The Kaula nectar to be heard is the true Kaula essence whose nature is kāmakalā.",
-   "uncertainties": [],
-   "plain_english": "Hear of the nectar, the true essence of Kaula, whose nature is kāmakalā."
+   "inference": "The supreme nectar to be understood is the Kaula essence whose very nature is kāmakalā.",
+   "uncertainties": [
+    "The precise doctrinal sense of kāmakalā in this context is not fully specified within the verse alone."
+   ],
+   "plain_english": "Hear of the nectar, the true essence of Kaula, which consists of kāmakalā."
   }
  ]
 }
