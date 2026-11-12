@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "tasya",
-   "morph": "pron.m.gen.sg",
-   "grounds": "correlative pronoun"
+   "morph": "m.gen.sg",
+   "grounds": "possessor"
   },
   {
    "lemma": "mokṣo",
@@ -14,18 +14,18 @@
   },
   {
    "lemma": "bhavedyastu",
-   "morph": "3.sg.opt.act(√bhū)+pron.m.nom.sg+(indecl.)",
-   "grounds": "optative verb fused with relative pronoun and particle"
+   "morph": "3.sg.opt.act (√bhū) + (indecl.)",
+   "grounds": "optative with relative; sandhi bhavet+yah+tu"
   },
   {
    "lemma": "pāpapuṇyairna",
-   "morph": "compound.n.inst.pl+(indecl.)",
-   "grounds": "instrumental dvandva fused with negation"
+   "morph": "n.inst.pl + (indecl.)",
+   "grounds": "instrumental causes with negation; sandhi na"
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.pres.pass.(√lip)",
-   "grounds": "passive verb expressing non-taint"
+   "morph": "3.sg.pres.pass (√lip)",
+   "grounds": "predicate"
   }
  ]
 }

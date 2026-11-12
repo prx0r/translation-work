@@ -7,53 +7,52 @@
     {
      "surface": "kṣīrādā",
      "gloss": "from-milk",
-     "grounds": "Refers to milk as the source substance; analyzed as a fused form indicating origin from milk.",
-     "morph": "compound"
+     "grounds": "ablative sense of kṣīra with following element indicating source; analyzed as fused token",
+     "morph": "n.abl.sg"
     },
     {
      "surface": "....",
-     "gloss": "ellipsis",
-     "grounds": "Marks an omission or pause in the transmitted text.",
-     "morph": "(indecl.)"
+     "gloss": "gap",
+     "grounds": "editorial ellipsis marking missing or omitted text",
+     "morph": "(marker)"
     },
     {
      "surface": "viplakāraiḥ",
      "gloss": "with-fillings",
-     "grounds": "Denotes the materials or preparations used for filling.",
+     "grounds": "instrumental plural denoting substances or materials used for filling",
      "morph": "m.ins.pl"
     },
     {
      "surface": "pūrayet",
      "gloss": "should-fill",
-     "grounds": "Expresses a prescriptive ritual action.",
-     "morph": "3.sg.optative-active + √pṛ"
+     "grounds": "optative verb expressing prescribed action; root pṝ",
+     "morph": "3.sg.act.opt + pṝ"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "Refers to the aforementioned body to be filled.",
-     "morph": "compound"
+     "grounds": "demonstrative plus body; accusative object of filling",
+     "morph": "f.acc.sg (tat+tanu)"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "Indicates continual or constant performance.",
+     "grounds": "indeclinable adverb indicating continual practice",
      "morph": "(indecl.)"
     }
    ],
-   "question": "With what substance and materials should that body be continually filled?",
+   "question": "What continual filling practice sustains that body in this yogic context?",
    "premises": [
-    "Milk is indicated as the source substance.",
-    "Specific fillings serve as the materials for the act.",
-    "The prescribed action is to fill that body.",
-    "The filling is to be performed continually."
+    "Milk and other fillings are indicated as materials",
+    "The prescribed action is to fill that body",
+    "The action is to be performed continually"
    ],
-   "inference": "One should continually fill that body using fillings derived from milk.",
+   "inference": "One should always fill that body with milk and the specified fillings.",
    "uncertainties": [
-    "The exact form and meaning of 'kṣīrādā' is unclear due to fusion or abbreviation.",
-    "The ellipsis '....' indicates missing or omitted content in the text."
+    "The ellipsis leaves the full list of filling substances unspecified",
+    "The exact referent of that body depends on the preceding context"
    ],
-   "plain_english": "One should always fill that body with fillings derived from milk."
+   "plain_english": "One should always fill that body with milk and other fillings."
   }
  ]
 }
