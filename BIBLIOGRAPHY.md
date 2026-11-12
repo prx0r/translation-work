@@ -20,10 +20,25 @@ this baseline wins over older research matrices.*
 Reader (single code path): `/root/translation-work/tools/bibliography.py`
 Importer (re-runnable): `/root/openpatalaproject/pipeline/import_muktabodha_final.py`
 
-## Priority rule (owner)
+## Priority rule (owner 2026-11-12) — the formula
 
-> **Untranslated first; shortest first within equal T; machine-complete and
-> in-progress sink to the bottom.**
+Ranked in **buckets**, shortest-first within each, with a tunable verse-**line**
+`short_max` (default 50) separating short from long:
+
+| bucket | meaning |
+|---|---|
+| 1 | **untranslated-short** (T=0, verses ≤ short_max) — start here |
+| 2 | **translated-short** (T>0, verses ≤ short_max) |
+| 3 | **untranslated-long** (T=0, verses > short_max) — "the line": start longer untranslated here |
+| 4 | translated-long |
+| 8 | prose (needs a chunker) |
+| 9 | in-progress (queue finishes it; not a *start* candidate) |
+| 10 | machine-complete |
+
+Sort key: `(bucket, verses, T)`. Tune `short_max` (`priority(short_max=…)`):
+- `short_max=25` → 65 untranslated-short works / 570 verses
+- **`short_max=50` → 95 works / 1,748 verses (recommended first sweep)**
+- `short_max=100` → 128 works / 4,179 verses
 
 - **T (translatedness)** comes from THIS bibliography first:
   edition count / `has_translation` (2026-11-12 baseline), then curated

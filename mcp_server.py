@@ -648,15 +648,15 @@ def bibliography(catalog: str = "", title: str = "", q: str = "") -> dict:
 
 
 @mcp.tool()
-def priority(limit: int = 20, untranslated_only: bool = True) -> dict:
+def priority(limit: int = 20, untranslated_only: bool = True, short_max: int = 50) -> dict:
     """Ranked translation order from the final bibliography base layer.
     Rule: untranslated first, shortest first within T; machine-complete and
     in-progress sink. T comes from burn_research/editions first (newest-first),
-    then curated FAMOUS + local work_state. Returns top `limit` rows with
+    then curated FAMOUS + local work_state. Buckets: untranslated-short, translated-short, untranslated-long, translated-long (line = short_max, default 50); prose/in-progress/machine-complete sink. Returns top `limit` rows with
     burn_rank, catalog, title, verses, T, T_why, edition_count. Read-only —
     does not seed the swarm (use swarm_seed after picking a work)."""
     return _run(["tools/bibliography.py", "priority",
-                 "--limit", str(limit)]
+                 "--limit", str(limit), "--short-max", str(short_max)]
                 + (["--untranslated-only"] if untranslated_only else []),
                 timeout=60)
 

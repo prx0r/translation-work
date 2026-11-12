@@ -58,6 +58,8 @@ def norm(s: str) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="process/beam/ranked_burn.json")
+    ap.add_argument("--short-max", type=int, default=50,
+                    help="verse-length line separating short/long (default 50)")
     a = ap.parse_args()
     rows = json.load(open("/tmp/mukta_census.json"))
     # SINGLE SOURCE: work_state (dirs/STATUS.json), never a copied status
@@ -144,9 +146,25 @@ def main() -> int:
                     "prose": r["verses"] == 0,
                     "edition_count": len(_eds.get(cat) or []),
                     "baseline": f"muktabodha_final_{AS_OF}"})
-    # 0-verse prose needs a chunker the verse pipeline lacks: rank it as its
-    # own tail track, never ahead of translatable verse texts.
-    out.sort(key=lambda o: (o["T"] >= 10 ** 9, o["prose"], o["T"], o["verses"]))
+    # PRIORITY FORMULA (owner 2026-11-12):
+    #   0 finish in-progress (started)
+    #   1 untranslated-short  (T=0, verses<=short_max)
+    #   2 translated-short    (T>0, verses<=short_max)
+    #   3 untranslated-long   (T=0, verses> short_max)  ← "line": start longer untranslated here
+    #   4 translated-long     (T>0, verses> short_max)
+    #   8 prose (needs chunker) · 9 machine-complete
+    SM = a.short_max
+    def _bucket(o):
+        if o["T"] >= 10 ** 9: return 10   # machine-complete: done
+        if o.get("tw") == "started": return 9  # in progress: queue finishes it, not a START candidate
+        if o["prose"]: return 8              # prose tail (chunker needed)
+        if o["T"] == 0:
+            return 1 if o["verses"] <= SM else 3   # A untranslated-short, C untranslated-long
+        return 2 if o["verses"] <= SM else 4       # B translated-short, D translated-long
+    out.sort(key=lambda o: (_bucket(o), o["verses"], o["T"]))
+    for o in out:
+        o["bucket"] = _bucket(o)
+        o["short_max"] = SM
     for i, o in enumerate(out, 1):
         o["burn_rank"] = i
     (ROOT / a.out).write_text(json.dumps(out, ensure_ascii=False, indent=0))

@@ -103,6 +103,21 @@ def _norm(s: str) -> str:
     return "".join(ch for ch in s if ch.isalpha())
 
 
+def _bucket(verses: int, T: float, prose: bool, tw: str, short_max: int) -> int:
+    """PRIORITY FORMULA (owner 2026-11-12):
+    1 untranslated-short · 2 translated-short · 3 untranslated-long ·
+    4 translated-long · 8 prose · 9 in-progress · 10 machine-complete."""
+    if T >= 10 ** 9:
+        return 10
+    if tw == "started":
+        return 9
+    if prose:
+        return 8
+    if T == 0:
+        return 1 if verses <= short_max else 3
+    return 2 if verses <= short_max else 4
+
+
 def lookup(catalog: str = "", title: str = "", data: dict | None = None) -> dict:
     """One work's bibliography record (flat + editions + matrix + availability)."""
     d = data or load()
@@ -176,7 +191,7 @@ def search(q: str, limit: int = 20, data: dict | None = None) -> list[dict]:
 
 
 def priority_rows(limit: int = 0, untranslated_only: bool = False,
-                  data: dict | None = None) -> list[dict]:
+                  short_max: int = 50, data: dict | None = None) -> list[dict]:
     """Ranked burn list — bibliography-aware T, shortest-first within T.
 
     Prefers process/beam/ranked_burn.json when present and fresh; otherwise
@@ -188,20 +203,23 @@ def priority_rows(limit: int = 0, untranslated_only: bool = False,
         try:
             rows = json.loads(RANKED.read_text(encoding="utf-8"))
             if isinstance(rows, list) and rows:
-                if untranslated_only:
-                    rows = [r for r in rows if r.get("T") == 0]
-                # already burn_rank ordered
-                if limit:
-                    rows = rows[:limit]
                 for r in rows:
                     r.setdefault("baseline", f"muktabodha_final_{AS_OF}")
-                    # attach live bibliography bits
                     cat = r.get("catalog") or ""
                     eds = d.get("editions", {}).get(cat, [])
                     r["edition_count"] = len(eds)
                     burn = d.get("burn", {}).get(cat, {})
                     r["has_translation"] = (burn.get("has_translation") or "").upper() == "TRUE" \
                         or bool(eds) or bool(r.get("T"))
+                    r["bucket"] = _bucket(int(r.get("verses") or 0), r.get("T") or 0,
+                                          bool(r.get("prose")), r.get("tw") or "", short_max)
+                rows.sort(key=lambda o: (o["bucket"], o.get("verses") or 0, o.get("T") or 0))
+                for i, o in enumerate(rows, 1):
+                    o["burn_rank"] = i
+                if untranslated_only:
+                    rows = [r for r in rows if r.get("T") == 0]
+                if limit:
+                    rows = rows[:limit]
                 return rows
         except Exception:
             pass
@@ -238,7 +256,9 @@ def priority_rows(limit: int = 0, untranslated_only: bool = False,
             "has_translation": T > 0 and T < 10 ** 8,
             "baseline": f"muktabodha_final_{AS_OF}",
         })
-    out.sort(key=lambda o: (o["T"] >= 10 ** 9, o["prose"], o["T"], o["verses"]))
+    for o in out:
+        o["bucket"] = _bucket(o["verses"], o["T"], o["prose"], o.get("tw") or "", short_max)
+    out.sort(key=lambda o: (o["bucket"], o["verses"], o["T"]))
     for i, o in enumerate(out, 1):
         o["burn_rank"] = i
     if untranslated_only:
@@ -587,6 +607,7 @@ def main() -> int:
     p = sub.add_parser("priority")
     p.add_argument("--limit", type=int, default=20)
     p.add_argument("--untranslated-only", action="store_true")
+    p.add_argument("--short-max", type=int, default=50)
 
     w = sub.add_parser("works")
     w.add_argument("--has-translation", choices=["true", "false"], default=None)
@@ -640,7 +661,7 @@ def main() -> int:
     if a.cmd == "search":
         return out(search(a.q, a.limit))
     if a.cmd == "priority":
-        rows = priority_rows(a.limit, a.untranslated_only)
+        rows = priority_rows(a.limit, a.untranslated_only, a.short_max)
         return out({"count": len(rows), "rows": rows})
     if a.cmd == "works":
         return out(list_works(has_translation=_b(a.has_translation),
