@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p259-v6451
-yathā(as) śobhāṃśamānaiḥ(beauty-part-measures) ca(and) kapota(pigeon) prativājanaiḥ(counter-?)
+[as](yathā) [beauty+shining](śobhāṃśamānaiś) [and](ca) [pigeon](kapota) [counter-beams](prativājanaiḥ)
 
 ## mukta-m0-p259-v6452
-svarṇāditāra(gold-etc-silver) tāmrorthaiḥ(copper-meanings) jantajairvṛkṣajaistu(living-tree-born) vā(or)
+[gold+etc.+silver](svarṇāditāra) [copper+materials](tāmrorthaiḥ) [animal-born](jantajair) [tree-born](vṛkṣajais) [and](tu) [or](vā)
 
 ## mukta-m0-p259-v6453
-eṣā(this) paiṭhī(paitthi) samākhyātā(called) śekharī(crest) śikharānvitā(peak-endowed)
+[this](eṣā) [paiṭhī](paiṭhī) [declared](samākhyātā) [śekharī](śekharī) [with-crest](śikharānvitā)
 
 ## mukta-m0-p259-v6454
-śūkaḥ(awn) kālaḥ(time) ca(and) timiraḥ(darkness) panasaḥ(jackfruit) niṃbakārjunau(neem-arjuna)
+[śūka](śūkaḥ) [kāla](kālaś) [and](ca) [timira](timiraḥ) [panasa](panaso) [nimbaka](niṃbakā) [and-arjuna](rjunau)
 
 ## mukta-m0-p259-v6455
-vṛkṣeretaiḥ(tree-seeds) prakartavyā(to-be-made) śibikā(palanquin) lakṣaṇānvitā(mark-endowed)
+[with-trees](vṛkṣair) [these](etaiḥ) [should-be-made](prakartavyā) [palanquin](śibikā) [with-characteristics](lakṣaṇānvitā)
 
 ## mukta-m0-p259-v6456
-vakṣye(I-will-speak) paryaṅkamānaśca(cot-measure) śibikā(palanquin) vistaro(detail) yathā(as)
+[I-shall-tell](vakṣye) [couch+measure](paryaṅkamānaś) [and](ca) [palanquin](śibikā) [extent](vistaro) [as](yathā)
 
 ## mukta-m0-p259-v6457
-catuṣpadādi(four-footed-etc) saṃyuktaṃ(joined) pādamānañca(foot-measure) kathyate(is-said)
+[four-footed+etc.](catuṣpadādi) [endowed-with](saṃyuktaṃ) [foot+measure](pādamānañ) [and](ca) [is-stated](kathyate)
 
 ## mukta-m0-p259-v6458
-pāda(foot) dairghyaṃ(length) samākhyātaṃ(called) dvayaṃgulāt(two-fingers) pādavṛddhitaḥ(foot-increase)
+[foot+length](pāda) [length](dairghyaṃ) [declared](samākhyātaṃ) [from-two-fingers](dvayaṃgulāt) [by-foot+increase](pādavṛddhitaḥ)
 
 ## mukta-m0-p259-v6459
-aneka(many) gaṇdikopetannānā(hump-endowed-various) hīra(diamond) samanvitam(accompanied)
+[many+knobs](aneka) [endowed-with](gaṇdikopetan) [various+chains](nānā) [provided-with](hīra) [endowed-with](samanvitam)
 
 ## mukta-m0-p259-v6460
-tat(that) pārśve(side) tviṣikāṃ(splendor) kuryāt(should-make) phalakāṃ(board) vā(or) dvijottamāḥ(best-twice-born)
+[that+side](tat) [on-side](pārśve) [cross-bar](tviṣikāṃ) [should-make](kuryāt) [plank](phalakāṃ) [or](vā) [o-best-twice-born](dvijottamāḥ)
 
 ## mukta-m0-p259-v6461
-nānāpaṭṭa(various-cloth) samāyuktannānāvetra(various-cane) samāyutam(joined)
+[various+bands](nānāpaṭṭa) [endowed-with](samāyuktan) [various+canes](nānāvetra) [endowed-with](samāyutam)
 
 ## mukta-m0-p259-v6462
-lohajandantajaṃ(iron-tooth-born) vātha(or-then) dārujaṃ(wood-born) miśramevavā(mixed-indeed)
+[metal-born](lohajan) [ivory-born](dantajaṃ) [or](vātha) [wood-born](dārujaṃ) [mixed](miśram) [or](evavā)
 
 ## mukta-m0-p259-v6463
-paryaṅkame(cot) tat(that) kathitaṃ(said) bāla(child) paryaṅkamapyatha(cot-also-then)
+[couch](paryaṅkam) [that](e) [stated](tat) [stated](kathitaṃ) [child+couch](bāla) [also-now](paryaṅkamapyatha)
 
 ## mukta-m0-p259-v6464
-khaṭvā(cot) pāda(foot) samāyuktaṃ(joined) paṭṭikāṃ(strip) eka(one) saṃyutam(joined)
+[bedstead+foot](khaṭvā) [endowed-with-feet](pāda) [endowed-with](samāyuktaṃ) [slat](paṭṭikāṃ) [one](eka) [joined-with](saṃyutam)
 
 ## mukta-m0-p259-v6465
-nimbādi(neem-etc) taru(tree) saṃsiddhaṃ(accomplished) bāla(child) paryaṅgamīritam(cot-called)
+[nimba+etc.+tree](nimbādi) [accomplished-with](taru) [accomplished](saṃsiddhaṃ) [child+couch](bāla) [declared](paryaṅgamīritam)
 
 ## mukta-m0-p259-v6466
-yājñīyavṛkṣajāśśastāssamidhodvādaśaṅgulāḥ(sacrificial-tree-born-good-kindling-twelve-fingers)
+[sacrificial+tree-born](yājñīyavṛkṣajāś) [excellent](śastās) [fire-sticks](samidho) [twelve-fingers](dvādaśaṅgulāḥ)
 
 ## mukta-m0-p259-v6467
-triṃśaddarbhadalairgādhaṃ(thirty-kusha-leaves-deep) grathitā(bound) bāhumātrakāḥ(arm-measure)
+[thirty+kuśa-blades](triṃśaddarbhadalair) [thick](gādhaṃ) [tied](grathitā) [arm-length](bāhumātrakāḥ)
 
 ## mukta-m0-p259-v6468
-tanmānā(that-measure) ṛjavassāgrāstatkuṇḍasamidudbhavāḥ(straight-tips-kindling-born)
+[of-that-measure](tanmānā) [straight](ṛjavas) [with-tips](sāgrās) [that+fire-pit+fire-stick](tatkuṇḍasamidudbhavāḥ)
 
 ## mukta-m0-p259-v6469
-catvāro(four) viṣṭarāstadvanmatāḥ(seats-so-considered) paridhayo'pi(ca-circumferences) ca(and)
+[four](catvāro) [seats](viṣṭarās) [likewise](tadvan) [regarded](matāḥ) [enclosing-sticks](paridhayo) [also]('pi) [and](ca)
 
 ## mukta-m0-p259-v6470
-ṣaṭtriṃśaddarbhaparyantaṃ(thirty-six-kusha-limit) kūrcārthaṃ(kusha-bunch-purpose) darbhamāharet(kusha-should-take)
+[up-to-thirty-six](ṣaṭtriṃśaddarbhaparyantaṃ) [for-kuśa-bundle](kūrcārthaṃ) [kuśa-grass](darbham) [one-should-bring](āharet)
 
 ## mukta-m0-p259-v6471
-granthirardhāṅgulātpādavṛddhayā(knot-half-finger-foot-increase) syād(should-be) dyaṅgugāvadhi(two-fingers-limit)
+[knot](granthir) [from-half-finger](ardhāṅgulāt) [by-quarter+increase](pādavṛddhayā) [should-be](syād) [up-to-two-fingers](dyaṅgugāvadhi)
 
 ## mukta-m0-p259-v6472
-vṛddhyaikamātrayā(increase-one-measure) proktaṃ(said) navamātrāvasānakam(nine-measure-end)
+[by-increase+one-measure](vṛddhyaikamātrayā) [declared](proktaṃ) [ending-at-nine-measures](navamātrāvasānakam)
 
 ## mukta-m0-p259-v6473
-brahmaviṣṇvīśvarāḥ(Brahma-Vishnu-Ishvara) kūrcamūlamadhyagragā(kusha-bunch-root-middle-tip-gone) matāḥ(considered)
+[Brahmā+Viṣṇu+Īśvara](brahmaviṣṇvīśvarāḥ) [kuśa-bundle+root+middle+tip](kūrcamūlamadhyagragā) [regarded](matāḥ)
 
 ## mukta-m0-p259-v6474
-utkūrcaśśāntidaḥ(up-kusha-peace-giving) proktastvadhaḥ(said-below) kūrcastu(kusha-bunch) puṣṭidaḥ(nourishing)
+[upward-bundle](utkūrcaś) [peace-giving](śāntidaḥ) [declared](proktas) [but](tu) [downward-bundle](adhaḥ) [but](kūrcas) [prosperity-giving](tu) [prosperity-giving](puṣṭidaḥ)
 
 ## mukta-m0-p259-v6475
-dvitrivedaśarairdarbhairmūlāgrasahitaistu vā(two-three-veda-arrows-kusha-root-tip-accompanied-or)
+[with-two+three+four+five](dvitrivedaśarair) [kuśa-blades](darbhair) [with-root+tip](mūlāgrasahitais) [or](tu) [or](vā)

@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound=bhukti+first-member",
+   "morph": "compound=bhukti+first",
    "grounds": "first member of compound with mukti"
   },
   {
    "lemma": "mukti",
-   "morph": "compound=mukti+second-member",
+   "morph": "compound=mukti+second",
    "grounds": "second member of compound with bhukti"
   },
   {
    "lemma": "mahā",
-   "morph": "compound=mahā+first-member",
+   "morph": "compound=mahā+first",
    "grounds": "first member of compound qualifying siddhiḥ"
   },
   {
@@ -30,12 +30,12 @@
   {
    "lemma": "priyo",
    "morph": "m.nom.sg",
-   "grounds": "predicate adjective describing the practitioner"
+   "grounds": "predicate describing the accomplished one"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-optative/√bhū",
-   "grounds": "optative expressing possible result"
+   "morph": "3.sg.optative-act √bhū",
+   "grounds": "expresses potential result"
   }
  ]
 }

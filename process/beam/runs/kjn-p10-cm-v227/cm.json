@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound=candra+first-member",
-   "grounds": "first member of compound naming the place"
+   "morph": "compound=candra+first",
+   "grounds": "first member of place-name compound"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound=dvīpa+second-member",
-   "grounds": "second member of compound naming the place"
+   "morph": "compound=dvīpa+second",
+   "grounds": "second member of place-name compound"
   },
   {
    "lemma": "vinirgate",
-   "morph": "n.loc.sg",
-   "grounds": "describes the chapter as issued forth in that place"
+   "morph": "m.loc.sg.past-participle √gam",
+   "grounds": "locative participle indicating where the chapter arose"
   },
   {
    "lemma": "navamaḥ",
@@ -25,7 +25,7 @@
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject of the colophon statement"
+   "grounds": "subject of the statement"
   }
  ]
 }

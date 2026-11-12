@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p260-v6476
-[ring-finger+fitting+suitable+hole+endowed](anāmikāṅgulīyogayogyarandhra) [samanvitam](samanvitam) [with](samanvitam) [endowed](samanvitam) [hole](randhra)
+[ring-finger+joining+suitable+hole](anāmikāṅgulīyogayogyarandhra) [endowed-with](samanvitam)
 
 ## mukta-m0-p260-v6477
-[lord+presided](īśvarādhiṣṭhitaṃ) [before](prāgvat) [right](dakṣiṇe) [both](cobhayatra) [and](ca)
+[by-īśvara+presided-over](īśvarādhiṣṭhitaṃ) [as-before](prāgvad) [in-the-south](dakṣiṇe) [and](ca) [in-both](ubhayatra) [and](ca)
 
 ## mukta-m0-p260-v6478
-[ring](aṅgulīyakam) [desired](iṣṭaṃ) [syāt](syāt) [for-that](tadarthaṃ) [gold-made](svarṇanirmitam)
+[ring](aṅgulīyakam) [desired](iṣṭaṃ) [should-be](syāt) [for-that-purpose](tadarthaṃ) [gold+made](svarṇanirmitam)
 
 ## mukta-m0-p260-v6479
-[sun-measure+etc+thirty-six](arkamātrādiṣaṭtriṃśat) [fingers](aṅgulāv) [bent](anatena) [ca](ca)
+[twelve-measures+beginning-with](arkamātrādi) [thirty-six+finger-breadths](ṣaṭtriṃśadaṅgula) [by-length](avanatena) [and](ca)
 
 ## mukta-m0-p260-v6480
-[darbha-garland](darbhamālā) [should-be-made](vidheyā) [syāt](syāt) [little-finger](kaniṣṭhāṅgulinā) [hayā](hayā)
+[kuśa-grass+garland](darbhamālā) [should-be-made](vidheyā) [should-be](syāt) [little-finger+circumference](kaniṣṭhāṅgulināhayā)
 
 ## mukta-m0-p260-v6481
-[beginning](ārabhya) [hand-three](hastatritayaṃ) [three-fingers](trṅgulena) [increase](vivardhanāt)
+[beginning](ārabhya) [hand+three](hastatritayaṃ) [by-three-fingers](trṅgulena) [by-increase](vivardhanāt)
 
 ## mukta-m0-p260-v6482
-[similar](sadṛśe) [or](vā) [interval](antare) [eighth](aṣṭāṃśe) [ninth-measure](navamānaṃ) [declared](prakīrtitam)
+[in-equal](sadṛśe) [or](vā) [in-interval](antare) [in-eighth-part](aṣṭāṃśe) [nine+measures](navamānaṃ) [is-declared](prakīrtitam)
 
 ## mukta-m0-p260-v6483
-[pillars](stambhayoḥ) [seat](viṣṭarasya) [api](api) [measure](pramāṇaṃ) [from-three-fingers](trṅgulāditaḥ)
+[of-the-two-pillars](stambhayoḥ) [of-the-platform](viṣṭarasya) [also](api) [measure](pramāṇaṃ) [from-three-fingers](trṅgulāditaḥ)
 
 ## mukta-m0-p260-v6484
-[by-sacrificers](yājñikaistarubhiḥ) [should-make](kuryāt) [at-consecration](pratiṣṭhādau) [ca](ca) [gateway](toraṇam)
+[with-sacrificial+trees](yājñikaistarubhiḥ) [one-should-make](kuryāt) [in-consecration+etc.](pratiṣṭhādau) [and](ca) [archway](toraṇam)
 
 ## mukta-m0-p260-v6485
-[desired-measure](iṣṭamānena) [dug](khātaṃ) [syāt](syāt) [crest-measure](śikhāmānaṃ) [tathaiva](tathaiva) [ca](ca)
+[with-desired+measure](iṣṭamānena) [pit](khātaṃ) [should-be](syāt) [top+measure](śikhāmānaṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p260-v6486
-[seven-fingers](saptāṅgulaṃ) [beginning](samārabhya) [sky-finger](vyomamātra) [increase](vivṛddhitaḥ)
+[seven-fingers](saptāṅgulaṃ) [beginning](samārabhya) [by-one-measure+increase](vyomamātravivṛddhitaḥ)
 
 ## mukta-m0-p260-v6487
-[width](vistārāt) [foot-increase](pādavṛddhyā) [tu](tu) [two-fingers+sun-measure](dvyaṅgulādarkamātrakam)
+[from-width](vistārāt) [by-quarter+increase](pādavṛddhyā) [but](tu) [two-fingers+up-to-twelve-measures](dvyaṅgulādarkamātrakam)
 
 ## mukta-m0-p260-v6488
-[thus](evaṃ) [gateway-declared](toraṇamākhyātaṃ) [auspicious-eight](maṅgalāṣṭakam) [ucyate](ucyate)
+[thus](evaṃ) [archway](toraṇam) [is-described](ākhyātaṃ) [eight+auspicious-things](maṅgalāṣṭakam) [is-stated](ucyate)
 
 ## mukta-m0-p260-v6489
-[thirty-six-measure](ṣaṭtriśanmātraparyantaṃ) [length](dairghyaṃ) [in-them](teṣu) [should-assign](prakalpayet)
+[thirty-six+measures+up-to](ṣaṭtriśanmātraparyantaṃ) [length](dairghyaṃ) [in-them](teṣu) [one-should-determine](prakalpayet)
 
 ## mukta-m0-p260-v6490
-[interval](antare) [desired](iṣṭa) [division](vibhāge) [tu](tu) [ninth-measure](navamānam) [udāhṛtam](udāhṛtam)
+[in-interval](antare) [in-desired+division](iṣṭavibhāge) [but](tu) [nine+measures](navamānaṃ) [is-stated](udāhṛtam)
 
 ## mukta-m0-p260-v6491
-[by-sacrificial-trees+or+iron](yājñīyavṛkṣailohairvā) [auspicious-eight](maṅgalāṣṭakam) [ācaret](ācaret)
+[with-sacrificial+trees](yājñīyavṛkṣaiḥ) [or](vā) [with-metals](lohaiḥ) [eight+auspicious-things](maṅgalāṣṭakam) [one-should-make](ācaret)
 
 ## mukta-m0-p260-v6492
-[śrīvatsa](śrīvatsaṃ) [svastika](svastikaṃ) [conch](śaṃkho) [lamp](dīpaśśaivāṣṭamaṅgalam) [śaiva-eight-auspicious](śaivāṣṭamaṅgalam)
+[śrīvatsa](śrīvatsaṃ) [svastika](svastikaṃ) [conch](śaṃkhaḥ) [lamp](dīpaḥ) [and](ca) [indeed](eva) [eight+auspicious-things](aṣṭamaṅgalam)
 
 ## mukta-m0-p260-v6493
-[bull](vṛṣaṃ) [leaving](tyaktvā) [for-that](tadarthaṃ) [tu](tu) [own-vehicle](svasvavāhanam) [ācaret](ācaret)
+[bull](vṛṣaṃ) [having-excluded](tyaktvā) [for-that-purpose](tadarthaṃ) [but](tu) [own+vehicle](svasvavāhanam) [one-should-make](ācaret)
 
 ## mukta-m0-p260-v6494
-[in-village+etc](grāmādau) [own-house](svagṛhe) [vāpi](vāpi) [according-to-sacrificer](yajamānānurūpataḥ)
+[in-village+etc.](grāmādau) [or](vā) [in-own-house](svagṛhe) [or](vāpi) [according-to-sacrificer](yajamānānurūpataḥ)
 
 ## mukta-m0-p260-v6495
-[five-fingers](pañcāṅgulaṃ) [beginning](samārabhya) [sky-finger](vyomāṅgula) [increase](vivṛddhitaḥ)
+[five-fingers](pañcāṅgulaṃ) [beginning](samārabhya) [by-one-finger+increase](vyomāṅgula-vivṛddhitaḥ)
 
 ## mukta-m0-p260-v6496
-[width](vistārastadvaśājjñeyassapādaṃ) [vātha](vātha) [mirror](darpaṇam)
+[width](vistāraḥ) [according-to-that](tadvaśāt) [should-be-known](jñeyaḥ) [with-a-quarter](sapādaṃ) [or](vā) [also](atha) [mirror](darpaṇam)
 
 ## mukta-m0-p260-v6497
-[thus](tathaiva) [full-pot](pūrṇakumbhe) [tu](tu) [foot-measure](pādamānaṃ) [declared](prakīrtitam)
+[likewise](tathaiva) [in-full+pot](pūrṇakumbhe) [but](tu) [quarter+measure](pādamānaṃ) [is-declared](prakīrtitam)
 
 ## mukta-m0-p260-v6498
-[thus](tathiva) [foot-ox](pādamukṣe) [syāt](syāt) [standing](sthito) [vā](vā) [lying](śayito) [athavā](athavā)
+[likewise](tathiva) [in-quarter+?](pādamukṣe) [should-be](syāt) [standing](sthitaḥ) [or](vā) [lying](śayitaḥ) [or](athavā)
 
 ## mukta-m0-p260-v6499
-[śrīvatsa](śrīvatsastu) [as-described](yathoddiṣṭaḥ) [svastika](svastiko) [village-entrance](grāmaveśane)
+[śrīvatsa](śrīvatsaḥ) [but](tu) [as-prescribed](yathoddiṣṭaḥ) [svastika](svastikaḥ) [in-village+entrance](grāmaveśane)
 
 ## mukta-m0-p260-v6500
-[in-śrīvatsa](śrīvatse) [foot-lotus](pādapadmaṃ) [ca](ca) [umbrella](chatraṃ) [ca](ca) [place](viniveśayet)
+[in-śrīvatsa](śrīvatse) [foot+lotus](pādapadmaṃ) [and](ca) [parasol](chatraṃ) [and](ca) [one-should-place](viniveśayet)

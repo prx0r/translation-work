@@ -4,7 +4,7 @@
  "rows": [
   {
    "lemma": "ṣaṣṭhaṃ",
-   "morph": "n.acc.sg",
+   "morph": "adj.acc.sg.n",
    "grounds": "ordinal adjective qualifying cakraṃ"
   },
   {
@@ -15,27 +15,27 @@
   {
    "lemma": "cakraṃ",
    "morph": "n.acc.sg",
-   "grounds": "noun denoting the energy center"
+   "grounds": "object being described"
   },
   {
    "lemma": "rājānam",
-   "morph": "m.acc.sg",
-   "grounds": "adjective in apposition describing cakraṃ"
+   "morph": "adj.acc.sg.n",
+   "grounds": "adjective qualifying cakraṃ"
   },
   {
    "lemma": "aṣṭa",
    "morph": "compound-member",
-   "grounds": "numeral forming first member of compound with patra"
+   "grounds": "numeral specifying petal count in compound"
   },
   {
    "lemma": "patra",
    "morph": "compound-member",
-   "grounds": "noun forming second member of compound with aṣṭa"
+   "grounds": "second member of compound describing cakraṃ"
   },
   {
    "lemma": "sakarṇikam",
-   "morph": "n.acc.sg",
-   "grounds": "adjective qualifying cakraṃ, possessing a central pericarp"
+   "morph": "adj.acc.sg.n",
+   "grounds": "adjective indicating presence of a central pericarp"
   }
  ]
 }
