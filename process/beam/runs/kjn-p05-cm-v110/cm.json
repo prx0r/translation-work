@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sa",
-   "morph": "pron.m.nom.sg",
+   "morph": "m.nom.sg",
    "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "compound+n.inst.sg",
-   "grounds": "instrumental compound: deha (body) + tyakta (abandoned) + mātra (mere)"
+   "morph": "compound = member+membership",
+   "grounds": "instrumental of deha+tyakta+mātra"
   },
   {
    "lemma": "paraṃ",
-   "morph": "m.nom.sg",
-   "grounds": "adjective meaning supreme"
+   "morph": "m.acc.sg",
+   "grounds": "accusative of para"
   },
   {
    "lemma": "śivo",
    "morph": "m.nom.sg",
-   "grounds": "noun, name of the supreme principle"
+   "grounds": "nominative of śiva"
   },
   {
    "lemma": "nigadyate",
-   "morph": "3.sg.pass-pres",
-   "grounds": "present passive of ni-gad, to be called"
+   "morph": "3.sg.pass.pres",
+   "grounds": "passive present of nigad"
   }
  ]
 }
