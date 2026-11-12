@@ -16,7 +16,7 @@
 },
 {
 "surface": "kim",
-"quick_gloss": "whether"
+"quick_gloss": "what"
 },
 {
 "surface": "u",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "bhāgi",
-"quick_gloss": "fortunate"
+"quick_gloss": "fortunate-one"
 },
 {
 "surface": "na",
@@ -44,8 +44,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lokeśvara+arcyatvam",
-"quick_gloss": "lord-of-world+worshippability"
+"surface": "lokeśvara",
+"quick_gloss": "world-lord"
+},
+{
+"surface": "arcyatvam",
+"quick_gloss": "worship-worthiness"
 },
 {
 "surface": "api",
@@ -53,7 +57,7 @@
 },
 {
 "surface": "prahīnam",
-"quick_gloss": "abandoned"
+"quick_gloss": "lost"
 }
 ]
 },
@@ -65,8 +69,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daṅga+aṅga+gāṅgam",
-"quick_gloss": "daṅga+aṅga+gāṅgam"
+"surface": "daṅga",
+"quick_gloss": "daṅga"
+},
+{
+"surface": "aṅga",
+"quick_gloss": "aṅga"
+},
+{
+"surface": "gāṅgam",
+"quick_gloss": "gāṅga"
 },
 {
 "surface": "na",
@@ -77,8 +89,8 @@
 "quick_gloss": "as"
 },
 {
-"surface": "yathā+arthā",
-"quick_gloss": "according-to+meaning"
+"surface": "yathārthā",
+"quick_gloss": "true-to-meaning"
 }
 ]
 },
@@ -103,15 +115,19 @@
 },
 {
 "surface": "kim",
-"quick_gloss": "whether"
+"quick_gloss": "what"
 },
 {
-"surface": "pada+gāḥ",
-"quick_gloss": "position+attaining"
+"surface": "pada",
+"quick_gloss": "foot"
+},
+{
+"surface": "gāḥ",
+"quick_gloss": "going"
 },
 {
 "surface": "bhaveyuḥ",
-"quick_gloss": "would-become"
+"quick_gloss": "would-be"
 }
 ]
 },
@@ -136,10 +152,10 @@
 },
 {
 "surface": "bhāsayate",
-"quick_gloss": "illuminates"
+"quick_gloss": "shines"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -156,7 +172,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vīryam",
+"surface": "vīryaṃ",
 "quick_gloss": "heroism"
 },
 {
@@ -164,8 +180,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "vīra+īśvara+tā+prasiddhyai",
-"quick_gloss": "hero+lordship+establishment"
+"surface": "vīra",
+"quick_gloss": "hero"
+},
+{
+"surface": "īśvaratā",
+"quick_gloss": "lordship"
+},
+{
+"surface": "prasiddhyai",
+"quick_gloss": "accomplishment"
 }
 ]
 },
@@ -199,7 +223,7 @@
 "tokens": [
 {
 "surface": "seveta",
-"quick_gloss": "serves"
+"quick_gloss": "would-serve"
 },
 {
 "surface": "sā",
@@ -211,7 +235,7 @@
 },
 {
 "surface": "svayam",
-"quick_gloss": "of-own-accord"
+"quick_gloss": "by-herself"
 },
 {
 "surface": "eva",
@@ -219,7 +243,7 @@
 },
 {
 "surface": "raktā",
-"quick_gloss": "devoted"
+"quick_gloss": "attached"
 }
 ]
 },
@@ -243,8 +267,16 @@
 "quick_gloss": "sins"
 },
 {
-"surface": "an+avāpya+bhāvam",
-"quick_gloss": "not+obtaining+state"
+"surface": "an",
+"quick_gloss": "not"
+},
+{
+"surface": "avāpya",
+"quick_gloss": "obtaining"
+},
+{
+"surface": "bhāvam",
+"quick_gloss": "state"
 }
 ]
 },
@@ -256,8 +288,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lobha+ādayaḥ",
-"quick_gloss": "greed+and-others"
+"surface": "lobha",
+"quick_gloss": "greed"
+},
+{
+"surface": "ādayaḥ",
+"quick_gloss": "and-others"
 },
 {
 "surface": "te",
@@ -269,7 +305,7 @@
 },
 {
 "surface": "apare",
-"quick_gloss": "other"
+"quick_gloss": "others"
 },
 {
 "surface": "pare",
@@ -289,20 +325,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kim",
-"quick_gloss": "whether"
+"surface": "kiṃ",
+"quick_gloss": "what"
 },
 {
 "surface": "bandhavaḥ",
-"quick_gloss": "kinsmen"
+"quick_gloss": "relatives"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "antara+bandhanāya",
-"quick_gloss": "inner+bondage"
+"surface": "antara",
+"quick_gloss": "inner"
+},
+{
+"surface": "bandhanāya",
+"quick_gloss": "bondage"
 }
 ]
 },
@@ -314,7 +354,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uddharayantyaḥ",
+"surface": "uddharayantaḥ",
 "quick_gloss": "uplifting"
 },
 {
@@ -322,12 +362,16 @@
 "quick_gloss": "not"
 },
 {
-"surface": "sukhāya",
-"quick_gloss": "for-happiness"
+"surface": "sukha",
+"quick_gloss": "happiness"
 },
 {
-"surface": "kim",
-"quick_gloss": "whether"
+"surface": "āya",
+"quick_gloss": "for"
+},
+{
+"surface": "kiṃ",
+"quick_gloss": "what"
 },
 {
 "surface": "syuḥ",
@@ -351,8 +395,12 @@
 "quick_gloss": "noble"
 },
 {
-"surface": "smara+yauvanābhyām",
-"quick_gloss": "love+and-youth"
+"surface": "smara",
+"quick_gloss": "love"
+},
+{
+"surface": "yauvanābhyām",
+"quick_gloss": "youth"
 }
 ]
 },
@@ -364,11 +412,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ste",
+"surface": "te",
 "quick_gloss": "those"
 },
 {
-"surface": "alaṅkriyām",
+"surface": "alaṅkriyāṃ",
 "quick_gloss": "ornament"
 },
 {
@@ -376,12 +424,16 @@
 "quick_gloss": "would-make"
 },
 {
-"surface": "alam",
-"quick_gloss": "sufficiently"
+"surface": "alaṃ",
+"quick_gloss": "enough"
 },
 {
-"surface": "suputrāḥ",
-"quick_gloss": "good-sons"
+"surface": "su",
+"quick_gloss": "good"
+},
+{
+"surface": "putrāḥ",
+"quick_gloss": "sons"
 }
 ]
 },
@@ -443,19 +495,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aśaṅkāḥ",
-"quick_gloss": "fearless"
+"surface": "śaṅkāḥ",
+"quick_gloss": "doubts"
 },
 {
-"surface": "su+bṛtyāḥ",
-"quick_gloss": "good-servants"
+"surface": "su",
+"quick_gloss": "good"
+},
+{
+"surface": "bhṛtyāḥ",
+"quick_gloss": "servants"
 },
 {
 "surface": "api",
 "quick_gloss": "also"
 },
 {
-"surface": "tam",
+"surface": "taṃ",
 "quick_gloss": "him"
 },
 {
@@ -472,16 +528,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varṇa+ādyāḥ",
-"quick_gloss": "caste+and-so-on"
+"surface": "varṇa",
+"quick_gloss": "class"
 },
 {
-"surface": "ādi+anta+vidheḥ",
-"quick_gloss": "of-beginning+and-end+rule"
+"surface": "ādyaḥ",
+"quick_gloss": "and-others"
+},
+{
+"surface": "ādya",
+"quick_gloss": "beginning"
+},
+{
+"surface": "anta",
+"quick_gloss": "end"
+},
+{
+"surface": "vidheḥ",
+"quick_gloss": "rule"
 },
 {
 "surface": "vidhiḥ",
-"quick_gloss": "ordinance"
+"quick_gloss": "rule"
 },
 {
 "surface": "syāt",
@@ -497,7 +565,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raṇam",
+"surface": "raṇaṃ",
 "quick_gloss": "battle"
 },
 {
@@ -513,7 +581,7 @@
 "quick_gloss": "victorious"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -530,15 +598,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pralābha+vittaḥ",
-"quick_gloss": "gain+wealth"
+"surface": "pralābha",
+"quick_gloss": "gain"
+},
+{
+"surface": "vittaḥ",
+"quick_gloss": "wealth"
 },
 {
 "surface": "astu",
-"quick_gloss": "may-be"
+"quick_gloss": "would-be"
 },
 {
-"surface": "katham",
+"surface": "kathaṃ",
 "quick_gloss": "how"
 },
 {
@@ -559,11 +631,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kim",
+"surface": "kiṃ",
 "quick_gloss": "what"
 },
 {
-"surface": "kim",
+"surface": "kiṃ",
 "quick_gloss": "what"
 },
 {
@@ -576,11 +648,15 @@
 },
 {
 "surface": "yāti",
-"quick_gloss": "attains"
+"quick_gloss": "goes"
 },
 {
-"surface": "nirasta+yatnaḥ",
-"quick_gloss": "removed+effort"
+"surface": "nirasta",
+"quick_gloss": "removed"
+},
+{
+"surface": "yatnaḥ",
+"quick_gloss": "effort"
 }
 ]
 },
@@ -593,14 +669,14 @@
 "tokens": [
 {
 "surface": "kāmī",
-"quick_gloss": "desirer"
+"quick_gloss": "desirous"
 },
 {
-"surface": "prakāmam",
+"surface": "prakāmaṃ",
 "quick_gloss": "at-will"
 },
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "he"
 },
 {
@@ -637,7 +713,7 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "kim",
+"surface": "kiṃ",
 "quick_gloss": "what"
 },
 {
@@ -645,7 +721,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "he"
 },
 {
@@ -674,8 +750,12 @@
 "quick_gloss": "also"
 },
 {
-"surface": "putrī+padam",
-"quick_gloss": "daughter+state"
+"surface": "putrī",
+"quick_gloss": "daughter"
+},
+{
+"surface": "padam",
+"quick_gloss": "state"
 },
 {
 "surface": "eva",
@@ -703,12 +783,20 @@
 "quick_gloss": "as"
 },
 {
-"surface": "kāma+dughāḥ",
-"quick_gloss": "wish+yielding"
+"surface": "kāma",
+"quick_gloss": "wish"
 },
 {
-"surface": "ghaṭa+udhnyaḥ",
-"quick_gloss": "pot+milked"
+"surface": "dughāḥ",
+"quick_gloss": "yielding"
+},
+{
+"surface": "ghaṭa",
+"quick_gloss": "pot"
+},
+{
+"surface": "udhnyaḥ",
+"quick_gloss": "milking"
 }
 ]
 }

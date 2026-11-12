@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "caturaśīti",
-   "morph": "compound numeral",
-   "grounds": "numeral compound indicating the number eighty-four"
+   "morph": "numeral+compound-member",
+   "grounds": "numeral element forming a compound with the following noun"
   },
   {
    "lemma": "sahasreṣu",
    "morph": "n.loc.pl",
-   "grounds": "locative plural of the numeral noun for thousand, agreeing with yoniyantreṣu"
+   "grounds": "locative plural indicating the large number in which torment occurs"
   },
   {
    "lemma": "yoniyantreṣu",
-   "morph": "compound n.loc.pl",
-   "grounds": "compound of yoni (womb/source) and yantra (mechanism/device) in locative plural"
+   "morph": "yoni+womb+compound-member, yantra+diagram+n.loc.pl",
+   "grounds": "compound of yoni (womb/source) and yantra (diagram/device) in locative plural"
   },
   {
    "lemma": "pīḍitāḥ",
-   "morph": "m.nom.pl.ppp (√pīḍ)",
-   "grounds": "past passive participle describing those subjected to suffering"
+   "morph": "m.nom.pl.past-participle, root pīḍ",
+   "grounds": "past passive participle describing beings subjected to affliction"
   }
  ]
 }
