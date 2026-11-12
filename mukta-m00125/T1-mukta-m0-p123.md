@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[prāyaścitta](prāyaścittaṃ) [tadā](tadā) [kārya](kāryaṃ) [tad+bhīti+vinivṛttaye](tadbhītivinibṛttaye)
+[expiation](prāyaścittam) [then](tadā) [should-be-done](kāryam) [for-that-fear-cessation](tadbhītivinibṛttaye)
 
 ## mukta-m0-p123-v3052
-[sahasra](sahasraṃ) [vā](vā) [japed](japed) [ghora](ghoraṃ) [dvi+guṇa](dviguṇaṃ) [dāpayet](dāpayettataḥ) [tataḥ](tataḥ)
+[a-thousand](sahasram) [or](vā) [should-recite](japet) [the-ghora](ghoram) [double](dviguṇam) [should-cause-to-give](dāpayet) [then](tataḥ)
 
 ## mukta-m0-p123-v3053
-[deva](devaṃ) [saṃsnāpya](saṃsnāpya) [gavyena](gavyena) [samabhyarcya](samabhyarcyādarādguruḥ) [ādarāt](ādarāt) [guru](guruḥ)
+[the-god](devam) [having-bathed](saṃsnāpya) [with-cow-products](gavyena) [having-worshipped](samabhyarcya) [with-reverence](ādarāt) [the-guru](guruḥ)
 
 ## mukta-m0-p123-v3054
-[śānti+homa](śāntihomastu) [vā](vā) [kārya](kāryo) [mūrti+homa](mūrtihomothavā) [vā](vā) [mata](mataḥ)
+[peace-oblation](śāntihomaḥ) [and](tu) [or](vā) [should-be-done](kāryaḥ) [image-oblation](mūrtihomaḥ) [or](atha) [or](vā) [is-considered](mataḥ)
 
 ## mukta-m0-p123-v3055
-[adatte](adatte) [darpaṇa+chatra+cāmara+ādau](darpaṇacchatracāmārādau) [tadā](tadā) [nayet](nayet)
+[not-given](adatte) [mirror](darpaṇacchatra) [chowrie](cāmārādau) [then](tadā) [should-bring](nayet)
 
 ## mukta-m0-p123-v3056
-[kṛte](kṛte) [api](api) [uṣita+puṣpa+ādyaiḥ](uṣitapuṣpādyairarcane) [arcane](arcane) [rāṣṭra](rāṣṭra) [vibhrama](vibhramaḥ)
+[having-been-done](kṛte) [also](api) [with-worn-flowers](uṣitapuṣpa) [etc.](ādyaiḥ) [by-worship](arcane) [kingdom](rāṣṭra) [disturbance](vibhramaḥ)
 
 ## mukta-m0-p123-v3057
-[garbha+gehe](garbhagehe) [sa+nirmālye](sanirmālye) [devānām](devānāṃ) [na](nātra) [atra](atra) [sannidhi](sannidhiḥ)
+[in-the-womb-chamber](garbhagehe) [with-old-offerings](sanirmālye) [of-the-gods](devānām) [not](na) [here](atra) [presence](sannidhiḥ)
 
 ## mukta-m0-p123-v3058
-[aghora+ākhya](aghorākhyaṃ) [japet](japenmantraṃ) [mantra](mantraṃ) [sahasra](sahasraṃ) [doṣa+śāntaye](doṣaśāntaye)
+[the-aghora-named](aghorākhyam) [should-recite](japet) [mantra](mantram) [a-thousand](sahasram) [for-fault-cessation](doṣaśāntaye)
 
 ## mukta-m0-p123-v3059
-[tad+rāṣṭra+vāsinaḥ](tadrāṣṭravāsino) [martyāḥ](martyāḥ) [pīḍayante](pīḍayante) [śatrubhiḥ](śatrubhistadā) [tadā](tadā)
+[the-mortals](martyāḥ) [dwelling-in-that-kingdom](tadrāṣṭravāsinaḥ) [are-afflicted](pīḍayante) [by-enemies](śatrubhiḥ) [then](tadā)
 
 ## mukta-m0-p123-v3060
-[apasmāra+ādibhiḥ](apasmārādibhirgrastairduṣṭalakṣaṇa) [grastaiḥ](grastaiḥ) [duṣṭa+lakṣaṇa](duṣṭalakṣaṇa) [lakṣitaiḥ](lakṣitaiḥ)
+[by-epilepsy](apasmāra) [etc.](ādibhiḥ) [seized](grastaiḥ) [by-evil-omens](duṣṭalakṣaṇa) [marked](lakṣitaiḥ)
 
 ## mukta-m0-p123-v3061
-[rāṣṭra+kṣobhāya](rāṣṭrakṣobhāya) [sā](sā) [pūjā](pūjā) [bhavet](bhavenniṣkṛtirucyate) [niṣkṛtiḥ](niṣkṛtiḥ) [ucyate](ucyate)
+[for-kingdom-disturbance](rāṣṭrakṣobhāya) [that](sā) [worship](pūjā) [becomes](bhavet) [expiation](niṣkṛtiḥ) [is-declared](ucyate)
 
 ## mukta-m0-p123-v3062
-[tad+ūrdhvaṃ](tadūrdhvaṃ) [śata+vṛddhyā](śatavṛddhyā) [tu](tu) [kāla+bhedāt](kālabhedājjapaṃ) [japaṃ](japaṃ) [nayet](nayet)
+[thereafter](tadūrdhvam) [by-hundred-increase](śatavṛddhyā) [then](tu) [by-time-division](kālabhedāt) [recitation](japam) [should-bring](nayet)
 
 ## mukta-m0-p123-v3063
-[ṣaṇ+māsa+upari](ṣāṇmāsopari) [śāntiḥ](śāntissyānmūrtihomassamopari) [syāt](syāt) [mūrti+homa](mūrtihoma) [sama+upari](samopari)
+[after-six-months](ṣāṇmāsopari) [peace](śāntiḥ) [would-be](syāt) [image-oblation](mūrtihomaḥ) [on-equality](samopari)
 
 ## mukta-m0-p123-v3064
-[anya+deśe](anyadeśe) [anya+kāle](anyakāle) [ca](ca) [te](ta) [eva](eva) [aniṣṭa+hetavaḥ](aniṣṭahetavaḥ)
+[in-another-country](anyadeśe) [in-another-time](anyakāle) [ca](ca) [those-same](ta) [eva](eva) [inauspicious-causes](aniṣṭahetavaḥ)
 
 ## mukta-m0-p123-v3065
-[sā](sā) [ca](ca) [pañca+vidhā](pañcavidhā) [proktā](proktā) [śāstre](śāstre) [bāla+ādi](bālādi) [bhedataḥ](bhedataḥ)
+[that](sā) [ca](ca) [fivefold](pañcavidhā) [proclaimed](proktā) [in-the-scripture](śāstre) [by-child](bāla) [etc.](ādi) [difference](bhedataḥ)
 
 ## mukta-m0-p123-v3066
-[ati+bāla+ati+vṛddhābhyām](atibālāti) [tāḥ](tāssārdha) [sārdha](sārdha) [ghaṭikā](ghaṭikā) [matāḥ](matāḥ)
+[by-very-young](atibālā) [and-very-old](ativṛddhābhyām) [they](tāḥ) [half-a-ghaṭikā](sārdha+ghaṭikā) [are-considered](matāḥ)
 
 ## mukta-m0-p123-v3067
-[ati+bālā](atibālā) [ca](ca) [bālā](bālā) [ca](ca) [na](nāsti) [asti](asti) [grāhyaḥ](grāhyastisṛṣvapi) [tisṛṣu](tisṛṣu) [api](api)
+[very-young](atibālā) [ca](ca) [young](bālā) [ca](ca) [not](na) [asti](asti) [to-be-accepted](grāhyaḥ) [in-the-three](tisṛṣu) [also](api)
 
 ## mukta-m0-p123-v3068
-[tāsu](tāsveva) [eva](eva) [prārabhet](prārabhetpūjāṃ) [pūjām](pūjāṃ) [pūrva+ahṇa+ādiṣu](pūrvāhṇādiṣu) [sarvadā](sarvadā)
+[in-them](tāsu) [eva](eva) [should-begin](prārabhet) [worship](pūjām) [in-the-forenoon](pūrvāhṇādiṣu) [always](sarvadā)
 
 ## mukta-m0-p123-v3069
-[ati+bāla+ati+vṛddhā](atibālātivṛddhā) [ca](ca) [garhitā](garhitārambhakarmaṇi) [ārambha+karmaṇi](ārambhakarmaṇi)
+[very-young](atibālā) [and-very-old](ativṛddhā) [ca](ca) [are-blameworthy](garhitā) [in-commencement-of-work](ārambhakarmaṇi)
 
 ## mukta-m0-p123-v3070
-[sandhyā+ārambhe](sandhyārambhe) [tad+anyatra](tadanyatra) [saṃhitā+homa](saṃhitāhomamācaret) [ācaret](ācaret)
+[at-sandhyā-commencement](sandhyārambhe) [or-otherwise](tadanyatra) [the-saṃhitā-oblation](saṃhitāhomam) [should-perform](ācaret)
 
 ## mukta-m0-p123-v3071
-[kṛte](kṛte) [parārthe](parārthe) [doṣāya](doṣāya) [sakṛt](sakṛtsandhyārcane) [sandhyā+arcane](sandhyārcane) [kṛte](kṛte)
+[having-been-done](kṛte) [for-another](parārthe) [for-fault](doṣāya) [once](sakṛt) [sandhyā-worship](sandhyārcane) [having-been-done](kṛte)
 
 ## mukta-m0-p123-v3072
-[pakṣa+ūrdhvaṃ](pakṣordhvaṃ) [śāntiḥ](śāntirityuktā) [iti](iti) [uktā](uktā) [māsa+ūrdhvaṃ](māsordhvaṃ) [śānti+homa](śāntihomakaḥ)
+[after-a-fortnight](pakṣordhvam) [peace](śāntiḥ) [thus](iti) [is-declared](uktā) [after-a-month](māsordhvam) [peace-oblation](śāntihomakaḥ)
 
 ## mukta-m0-p123-v3073
-[ṣaṇ+māsa+ūrdhve](ṣāṇmāsordhve) [vidhātavyaṃ](vidhātavyaṃ) [karma+saṃprokṣaṇaṃ](karmasaṃprokṣaṇaṃ) [dvijāḥ](dvijāḥ)
+[after-six-months](ṣāṇmāsordhve) [is-to-be-done](vidhātavyam) [rite-sprinkling](karmasaṃprokṣaṇam) [O-twice-born](dvijāḥ)
 
 ## mukta-m0-p123-v3074
-[adhikāraḥ](adhikāro) [anuśaiva](anuśaivesti) [esti](esti) [bhṛtya+artham](bhṛtyarthaṃ) [na](na) [bhavet](bavedyadi) [yadi](yadi)
+[authority](adhikāraḥ) [for-a-śaiva](ānuśaivaḥ) [would-be](bhavet) [if](yadi) [for-a-servant](bhṛtyartham) [not](na) [would-be](bhavet)
 
 ## mukta-m0-p123-v3075
-[cala+liṅga](calaliṅga) [pratiṣṭhāyām](pratiṣṭhāyāṃ) [dīkṣāyām](dīkṣāyāṃ) [sarva+deśa+kāḥ](sarvadeśakāḥ)
+[of-a-movable-liṅga](calaliṅga) [in-installation](pratiṣṭhāyām) [in-initiation](dīkṣāyām) [all-countries](sarvadeśakāḥ)
