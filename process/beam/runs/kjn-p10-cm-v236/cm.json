@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+qualifier",
-   "grounds": "first member of compound qualifying āraṃ"
+   "morph": "compound=aṣṭa+first-member",
+   "grounds": "first member of compound describing spokes"
   },
   {
    "lemma": "āraṃ",
-   "morph": "compound=āra+head",
-   "grounds": "second member of compound describing paṅkajaṃ"
+   "morph": "compound=āra+second-member",
+   "grounds": "second member of compound qualifying paṅkajaṃ"
   },
   {
    "lemma": "paṅkajaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object described"
+   "grounds": "object described in meditation"
   },
   {
    "lemma": "divyaṃ",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "prathama",
-   "morph": "compound=prathama+qualifier",
+   "morph": "compound=prathama+first-member",
    "grounds": "first member of compound qualifying aṣṭaka"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭaka+head",
-   "grounds": "second member of compound indicating group of eight"
+   "morph": "compound=aṣṭaka+second-member",
+   "grounds": "second member of compound indicating adornment"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "n.acc.sg.past-part/√bhūṣ",
-   "grounds": "participle describing paṅkajaṃ"
+   "morph": "n.acc.sg",
+   "grounds": "past participle qualifying paṅkajaṃ"
   }
  ]
 }

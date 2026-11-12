@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "vahni",
-   "morph": "compound=vahni+agent",
-   "grounds": "first member of compound indicating surrounding fire"
+   "morph": "compound=vahni+first-member",
+   "grounds": "agent in compound describing surrounding"
   },
   {
    "lemma": "nāveṣṭita",
-   "morph": "compound=nāveṣṭita+head",
-   "grounds": "second member of compound describing ātmānam"
+   "morph": "compound=nāveṣṭita+second-member",
+   "grounds": "past participle qualifying ātmānam; internal sandhi in form"
   },
   {
    "lemma": "ātmānam",
@@ -19,7 +19,7 @@
   },
   {
    "lemma": "eka",
-   "morph": "compound=eka+qualifier",
+   "morph": "compound=eka+first-member",
    "grounds": "first member of compound qualifying pādena"
   },
   {
@@ -29,8 +29,8 @@
   },
   {
    "lemma": "saṃsthitam",
-   "morph": "m.acc.sg.past-part/sam-√sthā",
-   "grounds": "participle describing ātmānam"
+   "morph": "m.acc.sg",
+   "grounds": "past participle qualifying ātmānam"
   }
  ]
 }
