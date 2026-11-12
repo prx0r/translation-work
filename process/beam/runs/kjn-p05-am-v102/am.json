@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom may this teaching rightly be given after proper testing?",
+ "question": "To whom must a particular thing be given only after it has been tested for one year following prior accomplishment?",
  "premises": [
-  "The teaching may be given",
-  "The recipient should be previously accomplished",
-  "The recipient must be tested for one year"
+  "Something is designated as to be given.",
+  "The recipient is one who has been previously accomplished.",
+  "That thing is to be tested for one year before giving."
  ],
- "inference": "This teaching should be given only to a previously accomplished person tested for one year.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "A thing is to be given to one previously accomplished only after testing it for one year.",
+ "uncertainties": [
+  "Nature of the thing to be given remains unspecified"
+ ],
+ "plain_english": "It is to be given to one who has been previously accomplished, and only after it has been tested for one year."
 }
