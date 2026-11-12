@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+first",
-   "grounds": "first member of compound with abhyāsa"
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second",
-   "grounds": "second member of compound with yogena"
+   "morph": "compound-member",
+   "grounds": "second member of compound qualifying yogena"
   },
   {
    "lemma": "yogena",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+first",
-   "grounds": "first member of compound with aṣṭa"
+   "morph": "compound-member",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+second",
-   "grounds": "second member of compound with varṣa"
+   "morph": "compound-member",
+   "grounds": "second member of numerical compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+third",
-   "grounds": "third member of compound with ākṛtiḥ"
+   "morph": "compound-member",
+   "grounds": "third member of compound qualifying ākṛtiḥ"
   },
   {
    "lemma": "ākṛtiḥ",
@@ -39,8 +39,8 @@
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-opt/√bhū",
-   "grounds": "optative expressing result"
+   "morph": "3.sg.optative-active √bhū",
+   "grounds": "optative verb expressing result"
   }
  ]
 }

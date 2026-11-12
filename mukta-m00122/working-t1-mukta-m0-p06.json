@@ -11,12 +11,24 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "śrīcakrasaṃsthāstu",
-"quick_gloss": "be-in-sri-cakra"
+"surface": "śrīcakrasaṃsthā",
+"quick_gloss": "in+śrī+circle+situated"
 },
 {
-"surface": "devyākārāstadājñayā",
-"quick_gloss": "by-that-command"
+"surface": "astu",
+"quick_gloss": "be"
+},
+{
+"surface": "devyā",
+"quick_gloss": "by+goddess"
+},
+{
+"surface": "ākārā",
+"quick_gloss": "by+order"
+},
+{
+"surface": "tadājñayā",
+"quick_gloss": "by+that+order"
 }
 ]
 },
@@ -29,23 +41,23 @@
 "tokens": [
 {
 "surface": "svamaṇḍaleṣu",
-"quick_gloss": "in-own-circles"
+"quick_gloss": "in+own+circles"
 },
 {
 "surface": "nāthāntāḥ",
-"quick_gloss": "ending-in-lords"
+"quick_gloss": "up-to+lords"
 },
 {
 "surface": "śaktyantā",
-"quick_gloss": "ending-in-powers"
+"quick_gloss": "up-to+śaktis"
 },
 {
-"surface": "devi",
-"quick_gloss": "goddess"
+"surface": "devi!",
+"quick_gloss": "o+goddess"
 },
 {
 "surface": "maṇḍale",
-"quick_gloss": "in-circle"
+"quick_gloss": "in+circle"
 }
 ]
 },
@@ -58,15 +70,15 @@
 "tokens": [
 {
 "surface": "navānāṃ",
-"quick_gloss": "of-nine"
+"quick_gloss": "of+nine"
 },
 {
 "surface": "sarvaśaktīnāṃ",
-"quick_gloss": "of-all-powers"
+"quick_gloss": "of+all+śaktis"
 },
 {
 "surface": "devatānāṃ",
-"quick_gloss": "of-deities"
+"quick_gloss": "of+goddesses"
 },
 {
 "surface": "ca",
@@ -74,7 +86,7 @@
 },
 {
 "surface": "pūjane",
-"quick_gloss": "in-worship"
+"quick_gloss": "in+worship"
 }
 ]
 },
@@ -87,23 +99,23 @@
 "tokens": [
 {
 "surface": "saptākṣaryā",
-"quick_gloss": "with-seven-syllables"
+"quick_gloss": "by+seven-syllabled"
 },
 {
 "surface": "tayā",
-"quick_gloss": "by-that"
+"quick_gloss": "by+that"
 },
 {
-"surface": "devi",
-"quick_gloss": "goddess"
+"surface": "devi!",
+"quick_gloss": "o+goddess"
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "worship"
+"quick_gloss": "one+should+worship"
 },
 {
 "surface": "nāmapūrvakam",
-"quick_gloss": "preceded-by-name"
+"quick_gloss": "with+name+preceding"
 }
 ]
 },
@@ -116,19 +128,19 @@
 "tokens": [
 {
 "surface": "śṛṇu",
-"quick_gloss": "listen"
+"quick_gloss": "hear"
 },
 {
-"surface": "devi",
-"quick_gloss": "goddess"
+"surface": "devi!",
+"quick_gloss": "o+goddess"
 },
 {
 "surface": "mahāsiddhikarī",
-"quick_gloss": "maker-of-great-accomplishment"
+"quick_gloss": "great+siddhi+giving"
 },
 {
 "surface": "sarvapriyaṃkarī",
-"quick_gloss": "maker-of-all-dear"
+"quick_gloss": "all+dear+making"
 }
 ]
 },
@@ -140,19 +152,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāṇo'pi",
-"quick_gloss": "breath"
+"surface": "prāṇaḥ",
+"quick_gloss": "life-breath"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "marutā",
-"quick_gloss": "with-wind"
+"quick_gloss": "with+wind"
 },
 {
 "surface": "yuktaḥ",
-"quick_gloss": "joined"
+"quick_gloss": "united"
 },
 {
-"surface": "sa",
+"surface": "saḥ",
 "quick_gloss": "that"
 },
 {
@@ -161,7 +177,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "be"
 },
 {
 "surface": "tṛtīyakam",
@@ -182,7 +198,7 @@
 },
 {
 "surface": "marutsakhaṃ",
-"quick_gloss": "wind-companion"
+"quick_gloss": "with+wind+companion"
 },
 {
 "surface": "ṣaṣṭhaṃ",
@@ -190,11 +206,11 @@
 },
 {
 "surface": "nabho'gniḥ",
-"quick_gloss": "sky-fire"
+"quick_gloss": "sky+fire"
 },
 {
 "surface": "saptamākṣaram",
-"quick_gloss": "seventh-syllable"
+"quick_gloss": "seventh+syllable"
 }
 ]
 },
@@ -206,16 +222,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvāsāmapi",
-"quick_gloss": "of-all"
+"surface": "sarvāsām",
+"quick_gloss": "of+all"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "śaktīnāṃ",
-"quick_gloss": "of-powers"
+"quick_gloss": "of+śaktis"
 },
 {
 "surface": "devatānāṃ",
-"quick_gloss": "of-deities"
+"quick_gloss": "of+goddesses"
 },
 {
 "surface": "ca",
@@ -223,7 +243,7 @@
 },
 {
 "surface": "nāmabhiḥ",
-"quick_gloss": "with-names"
+"quick_gloss": "by+names"
 }
 ]
 },
@@ -235,20 +255,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktitantrādbahirbhūtatantreṣu",
-"quick_gloss": "from-shakti-tantra"
+"surface": "śaktitantrāt",
+"quick_gloss": "from+śakti+tantra"
 },
 {
-"surface": "bahirbhūtatantreṣu",
-"quick_gloss": "in-external-tantras"
+"surface": "bahirbhūta",
+"quick_gloss": "outside+being"
+},
+{
+"surface": "tantreṣu",
+"quick_gloss": "in+tantras"
 },
 {
 "surface": "namasā",
-"quick_gloss": "with-namas"
+"quick_gloss": "with+namas"
 },
 {
 "surface": "sthitiḥ",
-"quick_gloss": "establishment"
+"quick_gloss": "position"
 }
 ]
 },
@@ -264,16 +288,16 @@
 "quick_gloss": "those"
 },
 {
-"surface": "saptākṣarīyogātpratyekaṃ",
-"quick_gloss": "by-seven-syllable-union"
+"surface": "saptākṣarīyogāt",
+"quick_gloss": "by+seven-syllable+yoga"
 },
 {
 "surface": "pratyekaṃ",
-"quick_gloss": "each"
+"quick_gloss": "separately"
 },
 {
 "surface": "ṣoḍaśākṣaram",
-"quick_gloss": "sixteen-syllable"
+"quick_gloss": "sixteen-syllabled"
 }
 ]
 },
@@ -286,11 +310,11 @@
 "tokens": [
 {
 "surface": "teṣāṃ",
-"quick_gloss": "of-those"
+"quick_gloss": "of+them"
 },
 {
 "surface": "navānāṃ",
-"quick_gloss": "of-nine"
+"quick_gloss": "of+nine"
 },
 {
 "surface": "nāmāni",
@@ -298,11 +322,11 @@
 },
 {
 "surface": "maṇḍalīkaraṇaṃ",
-"quick_gloss": "making-circle"
+"quick_gloss": "circle-making"
 },
 {
-"surface": "priye",
-"quick_gloss": "beloved"
+"surface": "priye!",
+"quick_gloss": "o+beloved"
 }
 ]
 },
@@ -315,23 +339,31 @@
 "tokens": [
 {
 "surface": "tena",
-"quick_gloss": "by-that"
+"quick_gloss": "by+that"
 },
 {
 "surface": "śuddhena",
-"quick_gloss": "pure"
+"quick_gloss": "by+pure"
 },
 {
 "surface": "śuddhiḥ",
-"quick_gloss": "purification"
+"quick_gloss": "purity"
 },
 {
-"surface": "syādvidyāyāmanyathā'nyathā",
-"quick_gloss": "may-be"
+"surface": "syāt",
+"quick_gloss": "be"
 },
 {
-"surface": "anyathā'nyathā",
-"quick_gloss": "otherwise-otherwise"
+"surface": "vidyāyām",
+"quick_gloss": "in+vidyā"
+},
+{
+"surface": "anyathā",
+"quick_gloss": "otherwise"
+},
+{
+"surface": "anyathā",
+"quick_gloss": "otherwise"
 }
 ]
 },
@@ -343,20 +375,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "devatānāmityuktiḥ",
-"quick_gloss": "of-deities"
+"surface": "devatānām",
+"quick_gloss": "of+goddesses"
 },
 {
-"surface": "ityuktiḥ",
-"quick_gloss": "thus"
-},
-{
-"surface": "uktiḥ",
-"quick_gloss": "statement"
+"surface": "iti+uktiḥ",
+"quick_gloss": "thus+statement"
 },
 {
 "surface": "puṃviṣayā",
-"quick_gloss": "male-subject"
+"quick_gloss": "to+male+object"
+},
+{
+"surface": "||12||",
+"quick_gloss": "||12||"
+},
+{
+"surface": "||13||",
+"quick_gloss": "||13||"
+},
+{
+"surface": "||14||",
+"quick_gloss": "||14||"
+},
+{
+"surface": "||15||",
+"quick_gloss": "||15||"
 }
 ]
 },
@@ -368,12 +412,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāmānyupadiśati",
+"surface": "nāmāni",
 "quick_gloss": "names"
 },
 {
 "surface": "upadiśati",
-"quick_gloss": "teaches"
+"quick_gloss": "he+teaches"
 },
 {
 "surface": "tatra",
@@ -381,15 +425,23 @@
 },
 {
 "surface": "ṣoḍaśākṣaram",
-"quick_gloss": "sixteen-syllable"
+"quick_gloss": "sixteen-syllabled"
 },
 {
-"surface": "nāmeti",
+"surface": "nāma",
 "quick_gloss": "name"
+},
+{
+"surface": "iti",
+"quick_gloss": "iti"
 },
 {
 "surface": "śeṣaḥ",
 "quick_gloss": "remainder"
+},
+{
+"surface": "||17||",
+"quick_gloss": "||17||"
 }
 ]
 },
@@ -402,7 +454,7 @@
 "tokens": [
 {
 "surface": "saṃbandhataḥ",
-"quick_gloss": "by-relation"
+"quick_gloss": "by+relation"
 },
 {
 "surface": "āptiḥ",
@@ -410,11 +462,11 @@
 },
 {
 "surface": "prāmāṇyam",
-"quick_gloss": "validity"
+"quick_gloss": "authoritativeness"
 },
 {
 "surface": "anvayaḥ",
-"quick_gloss": "connection"
+"quick_gloss": "consecution"
 },
 {
 "surface": "santatiḥ",
@@ -430,8 +482,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dinākṣarāṇyapi",
-"quick_gloss": "day-syllables"
+"surface": "dinākṣarāṇi",
+"quick_gloss": "day+syllables"
 },
 {
 "surface": "api",
@@ -442,12 +494,16 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "amāyo'nantyameva",
-"quick_gloss": "without-maya"
+"surface": "amāyaḥ",
+"quick_gloss": "without+maya"
 },
 {
-"surface": "anantyameva",
-"quick_gloss": "infinity"
+"surface": "anantyam",
+"quick_gloss": "endlessness"
+},
+{
+"surface": "eva",
+"quick_gloss": "also"
 },
 {
 "surface": "ca",
@@ -467,16 +523,12 @@
 "quick_gloss": "well-known"
 },
 {
-"surface": "bāhyato",
-"quick_gloss": "externally"
+"surface": "bāhyataḥ",
+"quick_gloss": "from+outside"
 },
 {
-"surface": "yacca",
+"surface": "yacc",
 "quick_gloss": "that"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "trīṇi",
@@ -487,8 +539,8 @@
 "quick_gloss": "names"
 },
 {
-"surface": "sādhake",
-"quick_gloss": "for-practitioner"
+"surface": "sādhake!",
+"quick_gloss": "o+sadhaka"
 }
 ]
 },
@@ -500,16 +552,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūjāślokastutīḥ",
-"quick_gloss": "worship-verse-praises"
+"surface": "pūjāśloka",
+"quick_gloss": "worship+verse"
+},
+{
+"surface": "stutīḥ",
+"quick_gloss": "hymns"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "should-do"
+"quick_gloss": "one+should+do"
 },
 {
-"surface": "pāramparyaprasiddhaye",
-"quick_gloss": "for-tradition-fame"
+"surface": "pāramparya",
+"quick_gloss": "by+tradition"
+},
+{
+"surface": "prasiddhaye",
+"quick_gloss": "for+establishment"
 }
 ]
 },
@@ -522,23 +582,23 @@
 "tokens": [
 {
 "surface": "pūrṇāyāṃ",
-"quick_gloss": "on-full-moon"
+"quick_gloss": "in+full"
 },
 {
 "surface": "ṣoḍaśārṇāni",
-"quick_gloss": "sixteen-syllables"
+"quick_gloss": "sixteen-syllabled"
 },
 {
-"surface": "nāmānyālikhya",
+"surface": "nāmāni",
 "quick_gloss": "names"
 },
 {
 "surface": "ālikhya",
-"quick_gloss": "writing"
+"quick_gloss": "having+written"
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "worship"
+"quick_gloss": "one+should+worship"
 }
 ]
 },
@@ -550,15 +610,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūjayettatra",
-"quick_gloss": "worship"
+"surface": "pūjayet",
+"quick_gloss": "one+should+worship"
 },
 {
 "surface": "tatra",
 "quick_gloss": "there"
 },
 {
-"surface": "tatrāpi",
+"surface": "tatra",
 "quick_gloss": "there"
 },
 {
@@ -567,15 +627,15 @@
 },
 {
 "surface": "vadan",
-"quick_gloss": "reciting"
+"quick_gloss": "saying"
 },
 {
 "surface": "saptākṣarīṃ",
-"quick_gloss": "seven-syllable"
+"quick_gloss": "seven-syllabled"
 },
 {
-"surface": "śive",
-"quick_gloss": "O-Shiva"
+"surface": "śive!",
+"quick_gloss": "o+auspicious"
 }
 ]
 },
@@ -587,31 +647,31 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "upacārāstatastāṃstaiḥ",
-"quick_gloss": "services"
+"surface": "upacārāḥ",
+"quick_gloss": "offerings"
 },
 {
-"surface": "tatastāṃstaiḥ",
+"surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
-"surface": "tāṃstaiḥ",
+"surface": "tān",
 "quick_gloss": "those"
 },
 {
 "surface": "taiḥ",
-"quick_gloss": "with-them"
+"quick_gloss": "by+those"
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "worship"
+"quick_gloss": "one+should+worship"
 },
 {
 "surface": "śṛṇu",
-"quick_gloss": "listen"
+"quick_gloss": "hear"
 },
 {
-"surface": "tānyapi",
+"surface": "tāni",
 "quick_gloss": "those"
 },
 {
@@ -629,7 +689,15 @@
 "tokens": [
 {
 "surface": "kuryāt",
-"quick_gloss": "should-do"
+"quick_gloss": "one+should+do"
+},
+{
+"surface": "||20||",
+"quick_gloss": "||20||"
+},
+{
+"surface": "||21||",
+"quick_gloss": "||21||"
 }
 ]
 },
@@ -653,16 +721,16 @@
 "quick_gloss": "hymn"
 },
 {
-"surface": "svātmaneti",
-"quick_gloss": "self"
+"surface": "svātmanā",
+"quick_gloss": "by+self"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
 "surface": "samīritāḥ",
-"quick_gloss": "declared"
+"quick_gloss": "said"
 }
 ]
 },
@@ -675,23 +743,27 @@
 "tokens": [
 {
 "surface": "phalakāyāṃ",
-"quick_gloss": "on-board"
+"quick_gloss": "on+board"
 },
 {
 "surface": "sthale",
-"quick_gloss": "on-place"
+"quick_gloss": "on+ground"
 },
 {
-"surface": "vāpi",
+"surface": "vā",
 "quick_gloss": "or"
 },
 {
+"surface": "api",
+"quick_gloss": "also"
+},
+{
 "surface": "suśuddhe",
-"quick_gloss": "very-pure"
+"quick_gloss": "well-purified"
 },
 {
 "surface": "susame",
-"quick_gloss": "even"
+"quick_gloss": "very+level"
 },
 {
 "surface": "sthire",
@@ -707,20 +779,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcāṅgulāntarālāni",
-"quick_gloss": "five-finger-intervals"
+"surface": "pañcāṅgula",
+"quick_gloss": "five-finger"
 },
 {
-"surface": "tato",
+"surface": "antarālāni",
+"quick_gloss": "intervals"
+},
+{
+"surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
-"surface": "deveśi",
-"quick_gloss": "O-goddess-lord"
+"surface": "deveśi!",
+"quick_gloss": "o+goddess+of+gods"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "arise"
+"quick_gloss": "arises"
 }
 ]
 }

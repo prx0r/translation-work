@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.mid-pres/√kṛ",
-   "grounds": "main verb describing the practitioner"
+   "morph": "3.sg.present-middle √kṛ",
+   "grounds": "present verb expressing action"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "adverb modifying kurute"
+   "grounds": "indeclinable adverb modifying kurute"
   },
   {
    "lemma": "rūpaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of kurute"
+   "grounds": "object created or assumed"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=dhyāna+first",
-   "grounds": "first member of compound with eka"
+   "morph": "compound-member",
+   "grounds": "first member of compound describing cetasaḥ"
   },
   {
    "lemma": "eka",
-   "morph": "compound=eka+second",
-   "grounds": "second member of compound with gata"
+   "morph": "compound-member",
+   "grounds": "second member of compound describing focus"
   },
   {
    "lemma": "gata",
-   "morph": "compound=gata+third",
-   "grounds": "third member of compound with cetasaḥ"
+   "morph": "compound-member",
+   "grounds": "third member of compound describing cetasaḥ"
   },
   {
    "lemma": "cetasaḥ",
    "morph": "n.gen.sg",
-   "grounds": "describes the practitioner whose mind is one-pointed in meditation"
+   "grounds": "possessive relation to the practitioner"
   }
  ]
 }

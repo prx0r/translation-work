@@ -9,33 +9,33 @@
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first",
-   "grounds": "first member of compound with patram"
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying patram"
   },
   {
    "lemma": "patram",
-   "morph": "n.nom.sg",
-   "grounds": "describes the second lotus"
+   "morph": "compound-member",
+   "grounds": "compound member describing the lotus"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle emphasizing description"
+   "grounds": "indeclinable particle"
   },
   {
    "lemma": "teja",
-   "morph": "compound=teja+first",
-   "grounds": "first member of compound with dhyāna"
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying dhyāna"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=dhyāna+second",
-   "grounds": "second member of compound with sudīpitam"
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating means of illumination"
   },
   {
    "lemma": "sudīpitam",
-   "morph": "n.nom.sg",
-   "grounds": "past participle describing the lotus"
+   "morph": "n.nom.sg.past-participle",
+   "grounds": "past participle describing the second lotus"
   }
  ]
 }

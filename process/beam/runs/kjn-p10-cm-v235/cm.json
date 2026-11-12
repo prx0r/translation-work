@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound=sthāna+first",
-   "grounds": "first member of compound with cakrāḥ"
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying cakrāḥ"
   },
   {
    "lemma": "cakrāḥ",
-   "morph": "m.nom.pl",
+   "morph": "n.nom.pl",
    "grounds": "subject declared"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle emphasizing declaration"
+   "grounds": "indeclinable particle"
   },
   {
    "lemma": "saṃproktāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "past participle describing cakrāḥ"
+   "morph": "m.nom.pl.past-participle",
+   "grounds": "past participle predicating cakrāḥ"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "specifies whose meditation is to be heard"
+   "grounds": "possessive relation to dhyānaṃ"
   },
   {
    "lemma": "dhyānaṃ",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.act-imper/√śru",
-   "grounds": "imperative command to the listener"
+   "morph": "2.sg.imperative-active √śru",
+   "grounds": "imperative verb addressing the listener"
   },
   {
    "lemma": "priye",
