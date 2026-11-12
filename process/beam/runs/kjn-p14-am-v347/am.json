@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 347,
- "question": "What are the first two bodily signs that arise during this yogic practice?",
+ "question": "What bodily signs mark the first and second stages of the practice?",
  "premises": [
   "Trembling arises first",
-  "Shaking is identified as the second sign",
-  "These signs occur in sequence"
+  "Shaking arises second",
+  "These are sequential signs"
  ],
- "inference": "The practice first produces trembling and then shaking.",
- "uncertainties": [],
- "plain_english": "First trembling arises, and shaking is the second sign."
+ "inference": "The practice produces trembling first and shaking as the second sign.",
+ "uncertainties": [
+  "dhūnanantu is a fused form with particle tu"
+ ],
+ "plain_english": "First trembling comes, and shaking is the second."
 }
