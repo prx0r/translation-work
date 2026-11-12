@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound:balī+palita-nirmuktaḥ",
-   "grounds": "first member of compound"
+   "morph": "f.stem+compound",
+   "grounds": "condition removed"
   },
   {
    "lemma": "palita",
-   "morph": "compound:balī+palita-nirmuktaḥ",
-   "grounds": "second member of compound"
+   "morph": "n.stem+compound",
+   "grounds": "condition removed"
   },
   {
    "lemma": "nirmuktaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "state of liberation"
+   "morph": "m.nom.sg.past-participle",
+   "grounds": "state of liberation from aging signs"
   },
   {
    "lemma": "sarva",
-   "morph": "compound:sarva+vyādhi-vivarjitaḥ",
-   "grounds": "first member of compound"
+   "morph": "stem+compound",
+   "grounds": "totality of ailments"
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound:sarva+vyādhi-vivarjitaḥ",
-   "grounds": "second member of compound"
+   "morph": "m.stem+compound",
+   "grounds": "ailments removed"
   },
   {
    "lemma": "vivarjitaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "state of being free"
+   "morph": "m.nom.sg.past-participle",
+   "grounds": "complete absence of disease"
   }
  ]
 }

@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "jarā",
-   "morph": "compound:jarā+maraṇa-nirmuktaḥ",
-   "grounds": "first member of compound"
+   "morph": "f.stem+compound",
+   "grounds": "condition removed"
   },
   {
    "lemma": "maraṇa",
-   "morph": "compound:jarā+maraṇa-nirmuktaḥ",
-   "grounds": "second member of compound"
+   "morph": "n.stem+compound",
+   "grounds": "condition removed"
   },
   {
    "lemma": "nirmuktaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "state of liberation"
+   "morph": "m.nom.sg.past-participle",
+   "grounds": "liberation from aging and death"
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound:vyādhi+roga-vivarjitaḥ",
-   "grounds": "first member of compound"
+   "morph": "m.stem+compound",
+   "grounds": "ailment removed"
   },
   {
    "lemma": "roga",
-   "morph": "compound:vyādhi+roga-vivarjitaḥ",
-   "grounds": "second member of compound"
+   "morph": "m.stem+compound",
+   "grounds": "ailment removed"
   },
   {
    "lemma": "vivarjitaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "state of being free"
+   "morph": "m.nom.sg.past-participle",
+   "grounds": "complete absence of illness"
   }
  ]
 }

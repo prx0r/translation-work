@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound:candra+dvīpa-vinirgate",
-   "grounds": "first member of compound"
+   "morph": "m.stem+compound",
+   "grounds": "first member of chapter title"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound:candra+dvīpa-vinirgate",
-   "grounds": "second member of compound"
+   "morph": "m.stem+compound",
+   "grounds": "second member of chapter title"
   },
   {
    "lemma": "vinirgate",
-   "morph": "n.loc.sg",
-   "grounds": "contextual location"
+   "morph": "n.loc.sg.past-participle",
+   "grounds": "context of chapter title"
   },
   {
    "lemma": "ṣaṣṭhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal number"
+   "grounds": "chapter number"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "section marker"
+   "grounds": "section designation"
   }
  ]
 }

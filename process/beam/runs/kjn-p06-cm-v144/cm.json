@@ -4,7 +4,7 @@
  "rows": [
   {
    "lemma": "bhavati",
-   "morph": "3.sg.act-pres √bhū",
+   "morph": "3.sg.present-act √bhū",
    "grounds": "assertion of result"
   },
   {
@@ -20,17 +20,17 @@
   {
    "lemma": "sandehaḥ",
    "morph": "m.nom.sg",
-   "grounds": "certainty"
+   "grounds": "absence of uncertainty"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṇ+māsa-abhyantareṇa",
-   "grounds": "first member of compound"
+   "morph": "stem+compound",
+   "grounds": "number of months"
   },
   {
    "lemma": "māsa",
-   "morph": "compound:ṣaṇ+māsa-abhyantareṇa",
-   "grounds": "second member of compound"
+   "morph": "m.stem+compound",
+   "grounds": "time unit"
   },
   {
    "lemma": "abhyantareṇa",

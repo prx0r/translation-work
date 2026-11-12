@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṇ+māsāt",
-   "grounds": "first member of compound"
+   "morph": "stem+compound",
+   "grounds": "number of months"
   },
   {
    "lemma": "māsāt",
@@ -14,8 +14,8 @@
   },
   {
    "lemma": "jñāyate",
-   "morph": "3.sg.pass-pres √jñā",
-   "grounds": "result becomes evident"
+   "morph": "3.sg.present-passive √jñā",
+   "grounds": "manifestation of result"
   },
   {
    "lemma": "siddhiḥ",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "yoginī",
-   "morph": "compound:yoginī+pada-tatsamaḥ",
-   "grounds": "first member of compound"
+   "morph": "f.stem+compound",
+   "grounds": "first member of comparison"
   },
   {
    "lemma": "pada",
-   "morph": "compound:yoginī+pada-tatsamaḥ",
-   "grounds": "second member of compound"
+   "morph": "n.stem+compound",
+   "grounds": "state compared to"
   },
   {
    "lemma": "tatsamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "comparison of attainment"
+   "grounds": "equivalence of attainment"
   }
  ]
 }

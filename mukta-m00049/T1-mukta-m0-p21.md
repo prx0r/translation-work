@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[when-proceeded](pravṛtte) [verse-end](||) [forty-five](45) [end-marker](||)
+[begun](pravṛtte) [||](||) [45](45)
 
 ## mukta-m0-p21-v502
-[not](na) [will-stand](sthāsyati) [in-Śiva+peaceful](śive+śānte) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[not](na) [will-stand](sthāsyati) [in-Śiva](śive) [peaceful](śānte) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v503
-[will-be](bhaviṣyati) [O-lady-of-the-kula](kuleśāni) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[will-be](bhaviṣyati) [O-lady-of-Kula](kuleśāni) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v504
-[they-will-be](bhaviṣyanti) [O-greatly-wise-one](mahāprājñe) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[will-be](bhaviṣyanti) [O-greatly-wise-one](mahāprājñe) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v505
-[they-will-reproach](garhiṣyanti) [and](ca) [husband](bhartāraṃ) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[will-reproach](garhiṣyanti) [and](ca) [husband](bhartāraṃ) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v506
-[they-will-harm](druhyanti) [guru+friend+and-others](guru+mitra+ādīn) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[will-harm](druhyanti) [guru](guru) [friend](mitra) [and-others](ādīn) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v507
-[improper+fruit-bearing](asamyak+phalinaḥ) [trees](vṛkṣāḥ) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[improperly](asamyak) [fruit-bearing](phalinaḥ) [trees](vṛkṣāḥ) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v508
-[mutually](mithaḥ) [they-will-fight](samprahariṣyanti) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[mutually](mithaḥ) [will-fight](samprahariṣyanti) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v509
-[secret+drinking](gūḍha+pānaṃ) [they-will-practice](cariṣyanti) [then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ)
+[secret](gūḍha) [drinking](pānaṃ) [will-practice](cariṣyanti) [then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v510
-[in-peaceful](śānte) [O](he) [restrained+mind](saṃyata+citte) [verse-end](||) [forty-eight](48) [verse-end](||) [river-of-gods](surataraṅgiṇī) [Gaṅgā](gaṅgā)
+[peaceful](śānte) [O](he) [restrained](saṃyata) [mind](citte) [||](||) [48](48) [||](||) [river-of-divine-pleasure](surataraṅgiṇī) [Gaṅgā](gaṅgā)
 
 ## mukta-m0-p21-v511
-[verse-end](||) [fifty-three](53) [verse-end](||) [by-desire-for-wealth+grain+horses](dhana+kaṇa+īhayā) [by-desire-for-a-bit-of-wealth](vitta+leśa+ākāṅkṣayā)
+[||](||) [53](53) [||](||) [wealth](dhana) [particle](kaṇa) [and-horse](īhayā) [by-desire-for-little-wealth](vittaleśākāṅkṣayā)
 
 ## mukta-m0-p21-v512
-[then+indeed](tadā+eva) [mighty](pravalaḥ) [Kali](kaliḥ) [should-be-known](jñātavyaḥ)
+[then](tadā) [indeed](eva) [strong](pravalaḥ) [Kali](kaliḥ) [should-be-known](jñātavyaḥ)
 
 ## mukta-m0-p21-v513
-[in-Kali-age+also](kalau+api) [thus](tathā) [one-should-act](kuryāt) [according-to-kula+path](kula+vartma+anusārataḥ)
+[in-Kali-age](kalau) [also](api) [thus](tathā) [one-should-do](kuryāt) [according-to-Kula-path](kulavartmānusārataḥ)
 
 ## mukta-m0-p21-v514
-[manifest+conduct](vyakta+ācārāḥ) [compassion+natured](dayā+śīlāḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[of-manifest-conduct](vyaktācārāḥ) [compassionate](dayā) [natured](śīlāḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v515
-[devoted](anuraktāḥ) [to-own+wives](sva+dāreṣu) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[devoted](anuraktāḥ) [to-own-wives](svadāreṣu) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v516
-[kula+practice+devoted-to-truth](kula+sādhana+satyāḥ) [who](ye) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[in-Kula-practice](kulasādhana) [truthful](satyāḥ) [who](ye) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v517
-[who](ye) [would-give](dadyuḥ) [to-truth+speaker](satya+vacase) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[who](ye) [would-give](dadyuḥ) [to-truthful-speech](satyavacase) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v518
-[in-kula+dharmas](kula+dharmeṣu) [steadfast](niṣṭhāḥ) [who](ye) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[in-Kula-dharmas](kuladharmeṣu) [steadfast](niṣṭhāḥ) [who](ye) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v519
-[perform](kurvanti) [kaula+service](kaula+sevāṃ) [who](ye) [not](na) [indeed](hi) [them](tān) [afflicts](vādhate) [Kali](kaliḥ)
+[perform](kurvanti) [Kaula-service](kaulasevāṃ) [who](ye) [not](na) [indeed](hi) [them](tān) [afflicts](vādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v520
-[worship](sevante) [you](tvāṃ) [with-kula+practices](kula+ācāraiḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[worship](sevante) [you](tvāṃ) [by-Kula-practices](kulācāraiḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v521
-[remainder](śeṣaḥ) [verse-end](||) [fifty-six](56) [verse-end](||) [not](nahi) [them](tān) [afflicts](bādhate) [them+not](tān+na) [torments](pīḍayati)
+[remainder](śeṣaḥ) [||](||) [56](56) [||](||) [not](nahi) [them](tān) [afflicts](bādhate) [them](tān) [not](na) [torments](pīḍayati)
 
 ## mukta-m0-p21-v522
-[guru+etcetera](guru+ityādi) [joined](yuktāḥ) [associated](saṅgatāḥ) [devoted](anuraktāḥ) [endowed-with-affection](anurāgavantaḥ)
+[guru-etc.](gurvityādi) [|](|) [united](yuktāḥ) [associated](saṅgatāḥ) [|](|) [devoted](anuraktāḥ) [possessed-of-affection](anurāgavantaḥ)
 
 ## mukta-m0-p21-v523
-[wine+meat+and-so-on](madyamāṃsa+ādīni) [items](vastūni) [etcetera](ityādi) [substances](dravyāṇi)
+[wine](madya) [meat](māṃsa) [and-so-on](ādīni)
 
 ## mukta-m0-p21-v524
-[who](ye) [perform](kurvanti) [with-kula+practices](kula+ācāraiḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[who](ye) [perform](kurvanti) [by-Kula-practices](kulācāraiḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
 
 ## mukta-m0-p21-v525
-[who](ye) [perform](kurvanti) [with-kula+practices](kula+ācāraiḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
+[who](ye) [perform](kurvanti) [by-Kula-practices](kulācāraiḥ) [not](na) [indeed](hi) [them](tān) [afflicts](bādhate) [Kali](kaliḥ)
