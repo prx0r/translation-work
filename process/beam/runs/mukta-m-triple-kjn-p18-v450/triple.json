@@ -6,53 +6,53 @@
    "rows": [
     {
      "surface": "kṣīrādā",
-     "gloss": "milk-taking",
-     "grounds": "Lexical hint suggests relation to milk; exact formation and role are uncertain in this context.",
-     "morph": "compound"
+     "gloss": "from-milk",
+     "grounds": "ablative sense indicated by hint; form appears truncated or irregular",
+     "morph": "m.abl.sg"
     },
     {
      "surface": "....",
      "gloss": "gap",
-     "grounds": "Ellipsis marks missing or unreadable text in the source.",
-     "morph": "gap"
+     "grounds": "ellipsis marking missing or unreadable text in the source",
+     "morph": "(gap)"
     },
     {
      "surface": "viplakāraiḥ",
-     "gloss": "with-various-fillings",
-     "grounds": "Instrumental plural indicating the means or substances used for filling.",
-     "morph": "m.inst.pl"
+     "gloss": "with-fillings",
+     "grounds": "instrumental plural denoting substances or ingredients used for filling",
+     "morph": "m.ins.pl"
     },
     {
      "surface": "pūrayet",
-     "gloss": "one-should-fill",
-     "grounds": "Optative verb expressing a prescribed action.",
-     "morph": "3.sg.opt.act (√pṛ)"
+     "gloss": "should-fill",
+     "grounds": "optative expressing prescribed action",
+     "morph": "3.sg.opt.act (√pṝ)"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "Compound referring to the body previously indicated; object of filling.",
-     "morph": "compound (f.acc.sg)"
+     "grounds": "compound or juxtaposition referring to the aforementioned body",
+     "morph": "f.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "Indeclinable adverb indicating continual practice.",
+     "grounds": "indeclinable indicating continual practice",
      "morph": "(indecl.)"
     }
    ],
-   "question": "With what substances must that body be continually filled?",
+   "question": "What substances must continually fill that body in the prescribed ritual practice?",
    "premises": [
-    "The act prescribed is filling.",
-    "The object to be filled is that body.",
-    "The filling is to be done continually with various fillings."
+    "The practice requires filling that specific body.",
+    "The filling is to be performed continually.",
+    "Milk and other fillings serve as the substances for this act."
    ],
-   "inference": "Therefore, one should continually fill that body using the indicated various substances.",
+   "inference": "One should always fill that body with milk and other such fillings.",
    "uncertainties": [
-    "The exact meaning and grammatical analysis of 'kṣīrādā' are unclear.",
-    "The token '....' represents a textual gap, so part of the instruction is missing."
+    "The token '....' marks missing text, leaving intermediate substances unspecified.",
+    "The exact form and parsing of 'kṣīrādā' are uncertain."
    ],
-   "plain_english": "One should always fill that body with milk-related and various other fillings."
+   "plain_english": "One should always fill that body with milk and other such fillings."
   }
  ]
 }

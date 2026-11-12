@@ -20,7 +20,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-be"
+"quick_gloss": "she-might-be"
 },
 {
 "surface": "kṛpā+karī",
@@ -36,20 +36,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varṇa",
-"quick_gloss": "letter"
-},
-{
-"surface": "mālinī",
-"quick_gloss": "garlanded-one"
+"surface": "varṇa+mālinī",
+"quick_gloss": "letter-garlanded"
 },
 {
 "surface": "varṇa+mālinī",
 "quick_gloss": "letter-garlanded"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "varṇa+mālinī",
+"quick_gloss": "letter-garlanded"
+},
+{
+"surface": "varṇa+mālinī",
+"quick_gloss": "letter-garlanded"
 }
 ]
 },
@@ -74,7 +74,7 @@
 },
 {
 "surface": "śāṅkarī",
-"quick_gloss": "Śaṅkara's"
+"quick_gloss": "belonging-to-Śaṅkara"
 },
 {
 "surface": "varṇa+mālinī",
@@ -90,16 +90,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sindūra",
-"quick_gloss": "vermilion"
+"surface": "sindūra+aruṇa+vaktrā",
+"quick_gloss": "vermilion-red-faced"
 },
 {
-"surface": "aruṇa",
-"quick_gloss": "red"
+"surface": "sindūra+aruṇa+vaktrā",
+"quick_gloss": "vermilion-red-faced"
 },
 {
-"surface": "vaktrā",
-"quick_gloss": "faced"
+"surface": "sindūra+aruṇa+vaktrā",
+"quick_gloss": "vermilion-red-faced"
 },
 {
 "surface": "sindūra+aruṇa+vaktrā",
@@ -148,20 +148,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sindūra",
-"quick_gloss": "vermilion"
-},
-{
-"surface": "tilaka",
-"quick_gloss": "forehead-mark"
-},
-{
-"surface": "priyā",
-"quick_gloss": "fond-of"
+"surface": "sindūra+tilaka+priyā",
+"quick_gloss": "vermilion-forehead-mark-loving"
 },
 {
 "surface": "sindūra+tilaka+priyā",
-"quick_gloss": "vermilion-mark-fond"
+"quick_gloss": "vermilion-forehead-mark-loving"
+},
+{
+"surface": "sindūra+tilaka+priyā",
+"quick_gloss": "vermilion-forehead-mark-loving"
+},
+{
+"surface": "sindūra+tilaka+priyā",
+"quick_gloss": "vermilion-forehead-mark-loving"
 }
 ]
 },
@@ -181,16 +181,12 @@
 "quick_gloss": "shines"
 },
 {
-"surface": "śukra+ara",
-"quick_gloss": "Venus-Mars"
-},
-{
-"surface": "yogaṃ",
-"quick_gloss": "conjunction"
+"surface": "śukra+ara+yogaṃ",
+"quick_gloss": "Venus-Mars-conjunction"
 },
 {
 "surface": "yātaḥ",
-"quick_gloss": "having-gone"
+"quick_gloss": "having-gone-to"
 },
 {
 "surface": "vidhuḥ",
@@ -215,15 +211,15 @@
 },
 {
 "surface": "vaśyā",
-"quick_gloss": "controllable"
+"quick_gloss": "subduing"
 },
 {
 "surface": "vaśyā",
 "quick_gloss": "subduing"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "vaśyā",
+"quick_gloss": "subduing"
 }
 ]
 },
@@ -236,7 +232,7 @@
 "tokens": [
 {
 "surface": "vaśyā",
-"quick_gloss": "controllable"
+"quick_gloss": "subduing"
 },
 {
 "surface": "avaśyaṃ",
@@ -248,7 +244,7 @@
 },
 {
 "surface": "deva+devī",
-"quick_gloss": "god-of-gods-goddess"
+"quick_gloss": "goddess-of-gods"
 }
 ]
 },
@@ -260,20 +256,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaśya",
-"quick_gloss": "subduing"
-},
-{
-"surface": "bījā",
-"quick_gloss": "seed-syllable"
+"surface": "vaśya+bījā",
+"quick_gloss": "subduing-seed"
 },
 {
 "surface": "vaśya+bījā",
 "quick_gloss": "subduing-seed"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "vaśya+bījā",
+"quick_gloss": "subduing-seed"
+},
+{
+"surface": "vaśya+bījā",
+"quick_gloss": "subduing-seed"
 }
 ]
 },
@@ -294,7 +290,7 @@
 },
 {
 "surface": "sā",
-"quick_gloss": "by-her"
+"quick_gloss": "served"
 },
 {
 "surface": "iyaṃ",
@@ -322,20 +318,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "loka",
-"quick_gloss": "world"
-},
-{
-"surface": "vaśya",
-"quick_gloss": "subduing"
-},
-{
-"surface": "vibhāvinī",
-"quick_gloss": "causing"
+"surface": "loka+vaśya+vibhāvinī",
+"quick_gloss": "world-subduing-manifesting"
 },
 {
 "surface": "loka+vaśya+vibhāvinī",
-"quick_gloss": "world-subduing-causer"
+"quick_gloss": "world-subduing-manifesting"
+},
+{
+"surface": "loka+vaśya+vibhāvinī",
+"quick_gloss": "world-subduing-manifesting"
+},
+{
+"surface": "loka+vaśya+vibhāvinī",
+"quick_gloss": "world-subduing-manifesting"
 }
 ]
 },
@@ -364,7 +360,7 @@
 },
 {
 "surface": "loka+vaśya+vibhāvinī",
-"quick_gloss": "world-subduing-causer"
+"quick_gloss": "world-subduing-manifesting"
 }
 ]
 },
@@ -376,20 +372,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛpa",
-"quick_gloss": "king"
-},
-{
-"surface": "vaśyā",
-"quick_gloss": "controllable"
+"surface": "nṛpa+vaśyā",
+"quick_gloss": "king-subduing"
 },
 {
 "surface": "nṛpa+vaśyā",
 "quick_gloss": "king-subduing"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "nṛpa+vaśyā",
+"quick_gloss": "king-subduing"
+},
+{
+"surface": "nṛpa+vaśyā",
+"quick_gloss": "king-subduing"
 }
 ]
 },
@@ -413,12 +409,8 @@
 "quick_gloss": "this"
 },
 {
-"surface": "siṃhāsana",
-"quick_gloss": "throne"
-},
-{
-"surface": "mahā+īśvarī",
-"quick_gloss": "great-goddess"
+"surface": "siṃhāsana+mahā+īśvarī",
+"quick_gloss": "throne-great-goddess"
 }
 ]
 },
@@ -438,12 +430,12 @@
 "quick_gloss": "to-be-served"
 },
 {
-"surface": "nṛpaiḥ+sevyā",
-"quick_gloss": "king-served"
+"surface": "nṛpaiḥ",
+"quick_gloss": "by-kings"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "sevyā",
+"quick_gloss": "to-be-served"
 }
 ]
 },
@@ -463,12 +455,16 @@
 "quick_gloss": "such"
 },
 {
-"surface": "nṛpaiḥ+sevyā",
-"quick_gloss": "by-kings-served"
+"surface": "nṛpaiḥ",
+"quick_gloss": "by-kings"
+},
+{
+"surface": "sevyā",
+"quick_gloss": "to-be-served"
 },
 {
 "surface": "prasannā",
-"quick_gloss": "pleased"
+"quick_gloss": "gracious"
 },
 {
 "surface": "parama+īśvarī",
@@ -484,20 +480,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛpa",
-"quick_gloss": "king"
-},
-{
-"surface": "vaśya",
-"quick_gloss": "subduing"
-},
-{
-"surface": "karī",
-"quick_gloss": "making"
+"surface": "nṛpa+vaśya+karī",
+"quick_gloss": "king-subduing-making"
 },
 {
 "surface": "nṛpa+vaśya+karī",
-"quick_gloss": "king-subduing-maker"
+"quick_gloss": "king-subduing-making"
+},
+{
+"surface": "nṛpa+vaśya+karī",
+"quick_gloss": "king-subduing-making"
+},
+{
+"surface": "nṛpa+vaśya+karī",
+"quick_gloss": "king-subduing-making"
 }
 ]
 },
@@ -539,15 +535,15 @@
 },
 {
 "surface": "priyā",
-"quick_gloss": "dear"
+"quick_gloss": "beloved"
 },
 {
 "surface": "priyā",
-"quick_gloss": "cherished"
+"quick_gloss": "beloved"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "priyā",
+"quick_gloss": "beloved"
 }
 ]
 },
@@ -564,15 +560,15 @@
 },
 {
 "surface": "mahiṣī",
-"quick_gloss": "chief-queen"
+"quick_gloss": "queen"
 },
 {
 "surface": "mahiṣī",
-"quick_gloss": "consort"
+"quick_gloss": "queen"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "mahiṣī",
+"quick_gloss": "queen"
 }
 ]
 },
@@ -584,20 +580,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "santoṣa",
-"quick_gloss": "satisfaction"
-},
-{
-"surface": "kartryā",
-"quick_gloss": "making"
-},
-{
-"surface": "anayā",
-"quick_gloss": "by-her"
+"surface": "santoṣa+kartryā",
+"quick_gloss": "by-satisfaction-causing"
 },
 {
 "surface": "ānayatu",
 "quick_gloss": "may-bring"
+},
+{
+"surface": "prakāśam",
+"quick_gloss": "manifestation"
 },
 {
 "surface": "prakāśam",
@@ -613,20 +605,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛpa",
-"quick_gloss": "by-kings"
-},
-{
-"surface": "mānyā",
-"quick_gloss": "honored"
+"surface": "nṛpa+mānyā",
+"quick_gloss": "honored-by-kings"
 },
 {
 "surface": "nṛpa+mānyā",
-"quick_gloss": "king-honored"
+"quick_gloss": "honored-by-kings"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "nṛpa+mānyā",
+"quick_gloss": "honored-by-kings"
+},
+{
+"surface": "nṛpa+mānyā",
+"quick_gloss": "honored-by-kings"
 }
 ]
 },
@@ -651,7 +643,7 @@
 },
 {
 "surface": "prasannā",
-"quick_gloss": "pleased"
+"quick_gloss": "gracious"
 },
 {
 "surface": "tvaṃ",
@@ -659,7 +651,7 @@
 },
 {
 "surface": "nṛpa+mānyā",
-"quick_gloss": "king-honored"
+"quick_gloss": "honored-by-kings"
 },
 {
 "surface": "mahā+īśvarī",
@@ -675,20 +667,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛ",
-"quick_gloss": "by-men"
-},
-{
-"surface": "mānyā",
-"quick_gloss": "honored"
+"surface": "nṛ+mānyā",
+"quick_gloss": "honored-by-men"
 },
 {
 "surface": "nṛ+mānyā",
-"quick_gloss": "man-honored"
+"quick_gloss": "honored-by-men"
 },
 {
-"surface": "devī",
-"quick_gloss": "goddess"
+"surface": "nṛ+mānyā",
+"quick_gloss": "honored-by-men"
+},
+{
+"surface": "nṛ+mānyā",
+"quick_gloss": "honored-by-men"
 }
 ]
 }

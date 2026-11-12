@@ -7,7 +7,7 @@
     {
      "surface": "udayārkasamastejan",
      "gloss": "rising-sun-equal-splendor",
-     "grounds": "bahuvrīhi compound describing splendor equal to the rising sun",
+     "grounds": "bahuvrihi compound describing radiance like the rising sun",
      "morph": "compound"
     },
     {
@@ -24,22 +24,20 @@
     },
     {
      "surface": "yoginīpriyam",
-     "gloss": "dear-to-yoginīs",
-     "grounds": "compound expressing what is beloved by the yoginīs",
+     "gloss": "dear-to-yoginis",
+     "grounds": "compound expressing what is beloved by the yoginis",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What qualities characterize the practice or reality dear to the yoginīs?",
+   "question": "What qualities make the practice eternally dear to the yoginis?",
    "premises": [
-    "It possesses splendor equal to the rising sun",
-    "It is eternally present",
-    "It is indeed dear to the yoginīs"
+    "The practice possesses splendor equal to the rising sun",
+    "The practice is eternal in nature",
+    "The practice is dear to the yoginis"
    ],
-   "inference": "The reality dear to the yoginīs is eternally radiant like the rising sun.",
-   "uncertainties": [
-    "The exact referent of the described qualities is implicit rather than explicitly named"
-   ],
-   "plain_english": "Eternally radiant like the rising sun, it is indeed dear to the yoginīs."
+   "inference": "A practice radiant like the rising sun and eternal is affirmed as beloved by the yoginis",
+   "uncertainties": [],
+   "plain_english": "It is eternally radiant like the rising sun and indeed dear to the yoginis."
   },
   {
    "verse": 302,
@@ -47,20 +45,20 @@
     {
      "surface": "carukādvaitamācāraṃ",
      "gloss": "beautiful-nondual-conduct",
-     "grounds": "compound naming the conduct of beautiful non-duality",
+     "grounds": "compound naming the conduct of beautiful nonduality",
      "morph": "m.acc.sg"
     },
     {
      "surface": "mantrajaiḥ",
      "gloss": "with-mantra-knowers",
-     "grounds": "those who know or master mantras",
-     "morph": "m.inst.pl"
+     "grounds": "those who know or conquer through mantras",
+     "morph": "m.ins.pl"
     },
     {
      "surface": "?",
-     "gloss": "unclear",
-     "grounds": "unreadable or uncertain token in the source",
-     "morph": "(uncertain)"
+     "gloss": "unknown",
+     "grounds": "unreadable or missing token in the source",
+     "morph": "unknown"
     },
     {
      "surface": "saha",
@@ -71,22 +69,21 @@
     {
      "surface": "bhojanam",
      "gloss": "eating",
-     "grounds": "act of eating or partaking of food",
+     "grounds": "act of taking food",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "With whom is eating performed as part of beautiful nondual conduct?",
+   "question": "How is beautiful nondual conduct practiced together with mantra knowers?",
    "premises": [
-    "Beautiful nondual conduct is the context",
-    "Mantra-knowers are present as companions",
-    "Eating is done together with them"
+    "Beautiful nondual conduct is the object of practice",
+    "Mantra knowers are present as companions",
+    "Eating is performed together with them"
    ],
-   "inference": "Eating together with mantra-knowers constitutes part of beautiful nondual conduct.",
+   "inference": "Beautiful nondual conduct includes sharing a meal together with mantra knowers",
    "uncertainties": [
-    "The third token is unclear in the source",
-    "The syntactic role of the unclear token cannot be determined"
+    "The third token is unreadable in the source"
    ],
-   "plain_english": "Eating together with mantra-knowers is part of the beautiful nondual conduct."
+   "plain_english": "Beautiful nondual conduct involves eating together with those who know mantras."
   },
   {
    "verse": 303,
@@ -94,41 +91,39 @@
     {
      "surface": "carukādvaitamācāraṃ",
      "gloss": "beautiful-nondual-conduct",
-     "grounds": "compound naming the conduct of beautiful non-duality",
+     "grounds": "compound naming the conduct of beautiful nonduality",
      "morph": "m.acc.sg"
     },
     {
      "surface": "kathitaṃ",
      "gloss": "declared",
-     "grounds": "past participle indicating something has been taught",
+     "grounds": "past participle indicating what has been taught",
      "morph": "n.nom.sg"
     },
     {
      "surface": "jñānanirṇayam",
      "gloss": "knowledge-determination",
-     "grounds": "compound meaning the ascertainment or determination of knowledge",
+     "grounds": "compound denoting the ascertainment of knowledge",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What has been declared regarding beautiful nondual conduct and knowledge?",
+   "question": "What teaching has been declared as the determination of knowledge?",
    "premises": [
-    "Beautiful nondual conduct is mentioned",
-    "It has been declared",
+    "Beautiful nondual conduct is the subject",
+    "This conduct has been declared",
     "It is identified as the determination of knowledge"
    ],
-   "inference": "Beautiful nondual conduct has been declared as the determination of knowledge.",
-   "uncertainties": [
-    "The grammatical agreement between kathitaṃ and jñānanirṇayam is slightly ambiguous"
-   ],
-   "plain_english": "The beautiful nondual conduct has been declared as the determination of knowledge."
+   "inference": "Beautiful nondual conduct is declared to be the definitive ascertainment of knowledge",
+   "uncertainties": [],
+   "plain_english": "Beautiful nondual conduct has been declared as the determination of knowledge."
   },
   {
    "verse": 304,
    "rows": [
     {
      "surface": "candradvīpavinirgate",
-     "gloss": "emerged-from-candra-dvīpa",
-     "grounds": "compound indicating origin in the Candradvīpa text or tradition",
+     "gloss": "emerged-from-candra-dvipa",
+     "grounds": "compound indicating origin in the Candradvipa text or tradition",
      "morph": "m.loc.sg"
     },
     {
@@ -144,15 +139,15 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter concludes in the text emerged from Candradvīpa?",
+   "question": "Which chapter concludes the teaching emerged from Candradvipa?",
    "premises": [
-    "The context is what emerged from Candradvīpa",
-    "The ordinal is eleventh",
-    "The unit is a chapter"
+    "The teaching emerged from Candradvipa",
+    "The chapter is numbered eleventh",
+    "The unit is identified as a chapter"
    ],
-   "inference": "This marks the end of the eleventh chapter in the Candradvīpa.",
+   "inference": "The eleventh chapter of the teaching emerged from Candradvipa is concluded",
    "uncertainties": [],
-   "plain_english": "Thus ends the eleventh chapter in the text emerged from Candradvīpa."
+   "plain_english": "This is the eleventh chapter that emerged from Candradvipa."
   },
   {
    "verse": 305,
@@ -160,26 +155,26 @@
     {
      "surface": "bhakṣyāṇāntu",
      "gloss": "of-eatables-but",
-     "grounds": "bhakṣyāṇām with sandhi to tu, referring to eatables",
+     "grounds": "genitive plural of eatables with enclitic particle",
      "morph": "n.gen.pl + (indecl.)"
     },
     {
      "surface": "samutpannaṃ",
      "gloss": "arisen",
-     "grounds": "what has come into being or originated",
+     "grounds": "past participle indicating what has come forth",
      "morph": "n.acc.sg"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "adverb indicating repetition or continuation",
+     "grounds": "adverb indicating repetition",
      "morph": "(indecl.)"
     },
     {
      "surface": "pṛcchāmi",
      "gloss": "i-ask",
-     "grounds": "first person statement of inquiry",
-     "morph": "1.sg.pres.act √prach"
+     "grounds": "verb of inquiry spoken by the questioner",
+     "morph": "1.sg.pres.act (praś)"
     },
     {
      "surface": "bhairava",
@@ -188,16 +183,14 @@
      "morph": "m.voc.sg"
     }
    ],
-   "question": "What further inquiry is made to Bhairava concerning the origin of eatables?",
+   "question": "What further question about eatables is posed to Bhairava?",
    "premises": [
     "The topic concerns what has arisen regarding eatables",
     "The speaker asks again",
     "Bhairava is addressed directly"
    ],
-   "inference": "The speaker again asks Bhairava about what has arisen concerning eatables.",
-   "uncertainties": [
-    "The precise object of inquiry about eatables is not fully specified in this verse"
-   ],
+   "inference": "The speaker again asks Bhairava about what has arisen concerning eatables",
+   "uncertainties": [],
    "plain_english": "O Bhairava, I ask again about what has arisen concerning eatables."
   },
   {
@@ -212,31 +205,31 @@
     {
      "surface": "śrotumicchāmi",
      "gloss": "i-wish-to-hear",
-     "grounds": "desiderative expression with infinitive śrotum and icchāmi",
-     "morph": "1.sg.pres.act √iṣ + infinitive"
+     "grounds": "desiderative expression of wanting to hear",
+     "morph": "1.sg.pres.act (iṣ) + infinitive (śru)"
     },
     {
      "surface": "pātrāṇāṃ",
      "gloss": "of-vessels",
-     "grounds": "ritual vessels or recipients",
+     "grounds": "genitive plural referring to ritual vessels or recipients",
      "morph": "n.gen.pl"
     },
     {
      "surface": "caryalakṣaṇam",
      "gloss": "conduct-characteristic",
-     "grounds": "compound meaning the characteristic marks of conduct",
+     "grounds": "compound denoting the defining marks of conduct",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What characteristic related to vessels and conduct does the speaker wish to hear now?",
+   "question": "What characteristic of conduct regarding vessels is sought to be heard now?",
    "premises": [
-    "The speaker expresses a wish to hear now",
+    "The speaker wishes to hear now",
     "The topic concerns vessels",
-    "The specific topic is the characteristic of conduct"
+    "The specific focus is the characteristic of conduct"
    ],
-   "inference": "The speaker now wishes to hear the characteristic of conduct related to vessels.",
+   "inference": "The speaker now wishes to hear the defining characteristic of conduct related to vessels",
    "uncertainties": [],
-   "plain_english": "Now I wish to hear the characteristic of conduct concerning the vessels."
+   "plain_english": "Now I wish to hear the characteristic of conduct regarding the vessels."
   },
   {
    "verse": 307,
@@ -250,8 +243,8 @@
     {
      "surface": "bālarūpeṇa",
      "gloss": "in-boy-form",
-     "grounds": "compound indicating the form of a boy",
-     "morph": "n.inst.sg"
+     "grounds": "compound indicating appearance as a boy",
+     "morph": "n.ins.sg"
     },
     {
      "surface": "dvitīyam",
@@ -262,20 +255,18 @@
     {
      "surface": "unmattakākṛtim",
      "gloss": "madman-form",
-     "grounds": "compound indicating the form or appearance of a madman",
+     "grounds": "compound indicating appearance as a madman",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What are the first two forms enumerated in the list of types?",
+   "question": "What are the first two forms described among the vessels or practitioners?",
    "premises": [
     "The first is characterized by the form of a boy",
     "The second is characterized by the form of a madman",
-    "They are presented in sequence"
+    "Both are listed in sequence"
    ],
-   "inference": "The first type has a boy's form and the second has a madman's form.",
-   "uncertainties": [
-    "The category being enumerated is implied from context rather than stated"
-   ],
+   "inference": "The first two forms are that of a boy and that of a madman",
+   "uncertainties": [],
    "plain_english": "The first is in the form of a boy, and the second has the form of a madman."
   },
   {
@@ -284,7 +275,7 @@
     {
      "surface": "svātantraṃ",
      "gloss": "independence",
-     "grounds": "state of being self-reliant or independent",
+     "grounds": "state of being self-reliant or free",
      "morph": "n.nom.sg"
     },
     {
@@ -302,27 +293,27 @@
     {
      "surface": "ṣaṣṭhañca",
      "gloss": "sixth-and",
-     "grounds": "ordinal sixth with enclitic ca",
+     "grounds": "ordinal with enclitic conjunction",
      "morph": "n.nom.sg + (indecl.)"
     },
     {
      "surface": "vīranāyakam",
      "gloss": "hero-lord",
-     "grounds": "compound meaning leader or lord of heroes",
+     "grounds": "compound denoting a leader of heroes",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What fifth and sixth types are named in the enumeration addressed to the goddess?",
+   "question": "What fifth and sixth forms are identified in the enumeration addressed to the goddess?",
    "premises": [
     "The fifth is identified as independence",
     "The sixth is identified as the hero-lord",
-    "The goddess is addressed"
+    "The goddess is addressed in this enumeration"
    ],
-   "inference": "The fifth type is independence and the sixth is the hero-lord.",
+   "inference": "The fifth and sixth forms in the list are independence and the hero-lord",
    "uncertainties": [
-    "The third and fourth items of the sequence are not given in this verse"
+    "The third and fourth items in the sequence are not present in this verse"
    ],
-   "plain_english": "O Goddess, the fifth is independence, and the sixth is the hero-lord."
+   "plain_english": "O Goddess, the fifth is independence, and the sixth is the lord of heroes."
   },
   {
    "verse": 309,
@@ -330,45 +321,43 @@
     {
      "surface": "tridaṇḍañcaiva",
      "gloss": "triple-staff-and-also",
-     "grounds": "tridaṇḍa with enclitics ca and eva",
-     "morph": "m.acc.sg + (indecl.)"
+     "grounds": "compound with enclitic particles indicating addition and emphasis",
+     "morph": "m.acc.sg + (indecl.) + (indecl.)"
     },
     {
      "surface": "deveśas",
      "gloss": "o-lord-of-gods",
-     "grounds": "vocative or nominative address to the lord of gods",
+     "grounds": "vocative address to the lord of gods",
      "morph": "m.voc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb indicating addition or similarity",
+     "grounds": "adverb indicating similarity or addition",
      "morph": "(indecl.)"
     },
     {
      "surface": "anyaṃ",
      "gloss": "another",
-     "grounds": "an additional different one",
+     "grounds": "pronoun indicating an additional item",
      "morph": "m.acc.sg"
     },
     {
      "surface": "vedavikrayam",
      "gloss": "veda-seller",
-     "grounds": "compound meaning one who sells the Veda",
+     "grounds": "compound denoting one who sells the Vedas",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What additional types are mentioned to the lord of gods in this enumeration?",
+   "question": "What additional types are named in the continued enumeration to the lord of gods?",
    "premises": [
     "The triple-staff bearer is included",
     "Another type is likewise included",
-    "That other type is the seller of the Veda"
+    "That other type is the seller of the Vedas"
    ],
-   "inference": "The enumeration also includes the triple-staff bearer and the seller of the Veda.",
-   "uncertainties": [
-    "The exact position of these types in the overall sequence is unclear"
-   ],
-   "plain_english": "O Lord of gods, there is also the triple-staff bearer, and likewise another, the seller of the Veda."
+   "inference": "The enumeration further includes the triple-staff bearer and the seller of the Vedas",
+   "uncertainties": [],
+   "plain_english": "O Lord of gods, there is also the triple-staff bearer and likewise another, the seller of the Vedas."
   },
   {
    "verse": 310,
@@ -376,51 +365,49 @@
     {
      "surface": "akulañca",
      "gloss": "non-clan-and",
-     "grounds": "akula with enclitic ca, referring to what is outside kula",
+     "grounds": "term for what is outside the clan with enclitic conjunction",
      "morph": "n.acc.sg + (indecl.)"
     },
     {
      "surface": "kulaṃ",
      "gloss": "clan",
-     "grounds": "kula, the clan or spiritual family",
+     "grounds": "term for the clan or family tradition",
      "morph": "n.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
      "grounds": "absolutive indicating prior understanding",
-     "morph": "gerund √jñā"
+     "morph": "gerund (jñā)"
     },
     {
      "surface": "kulaṃ",
      "gloss": "clan",
-     "grounds": "kula, repeated term",
+     "grounds": "term for the clan or family tradition",
      "morph": "n.acc.sg"
     },
     {
      "surface": "devyā",
      "gloss": "of-goddess",
-     "grounds": "referring to the goddess",
+     "grounds": "genitive referring to the goddess",
      "morph": "f.gen.sg"
     },
     {
      "surface": "subhāmini",
      "gloss": "o-fair-one",
-     "grounds": "vocative address to a fair or auspicious lady",
+     "grounds": "vocative address to the fair one",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What distinction must be understood regarding clan and non-clan in relation to the goddess?",
+   "question": "What distinction must be understood regarding clan and non-clan in the goddess's tradition?",
    "premises": [
     "Both non-clan and clan must be known",
-    "The clan of the goddess is referenced",
-    "This understanding is addressed to the fair one"
+    "The clan of the goddess is specifically mentioned",
+    "Understanding precedes further action"
    ],
-   "inference": "One must discern non-clan and clan, including the clan of the goddess.",
-   "uncertainties": [
-    "The syntactic relation of the second occurrence of kulaṃ is ambiguous"
-   ],
-   "plain_english": "O fair one, having known both non-clan and clan, and the clan of the goddess."
+   "inference": "One must discern non-clan and clan by knowing the clan of the goddess",
+   "uncertainties": [],
+   "plain_english": "O fair one, having known both the non-clan and the clan, know the clan of the goddess."
   },
   {
    "verse": 311,
@@ -428,14 +415,14 @@
     {
      "surface": "svaguruṃ",
      "gloss": "own-guru",
-     "grounds": "one's own spiritual teacher",
+     "grounds": "compound referring to one's own teacher",
      "morph": "m.acc.sg"
     },
     {
      "surface": "pujayen",
      "gloss": "one-should-worship",
      "grounds": "optative expressing prescribed worship",
-     "morph": "3.sg.opt.act √pūj"
+     "morph": "3.sg.opt.act (pūj)"
     },
     {
      "surface": "nityaṃ",
@@ -446,23 +433,23 @@
     {
      "surface": "triṣkālaṃ",
      "gloss": "three-times",
-     "grounds": "at the three times of day",
+     "grounds": "compound indicating three periods of the day",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhāvitātmanaḥ",
-     "gloss": "of-contemplative-self",
-     "grounds": "one whose self is cultivated or contemplative",
+     "gloss": "of-contemplative-souled",
+     "grounds": "compound describing one whose self is cultivated",
      "morph": "m.gen.sg"
     }
    ],
-   "question": "How should a contemplative practitioner worship their own guru?",
+   "question": "How often should a contemplative practitioner worship their own guru?",
    "premises": [
-    "The object of worship is one's own guru",
+    "One's own guru is the object of worship",
     "Worship should be performed always",
-    "Worship should be performed three times daily by the contemplative practitioner"
+    "Worship should be performed three times daily by the contemplative"
    ],
-   "inference": "A contemplative practitioner should always worship their own guru three times a day.",
+   "inference": "A contemplative practitioner should always worship their own guru three times a day",
    "uncertainties": [],
    "plain_english": "One whose self is contemplative should always worship their own guru three times a day."
   },
@@ -473,31 +460,29 @@
      "surface": "nivedayet",
      "gloss": "one-should-offer",
      "grounds": "optative expressing prescribed offering",
-     "morph": "3.sg.opt.act √nived"
+     "morph": "3.sg.opt.act (ni-vid caus.)"
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
-     "grounds": "with care or diligent effort",
-     "morph": "m.inst.sg"
+     "grounds": "instrumental indicating diligent effort",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "bhuktimuktijigīṣayā",
      "gloss": "desiring-enjoyment-liberation",
      "grounds": "compound expressing desire to attain enjoyment and liberation",
-     "morph": "f.inst.sg"
+     "morph": "f.ins.sg"
     }
    ],
    "question": "With what intention and effort should offerings be made to the guru?",
    "premises": [
     "An offering should be made",
-    "It should be made with effort",
-    "It should be made with desire for enjoyment and liberation"
+    "The offering requires diligent effort",
+    "The intention is desire for enjoyment and liberation"
    ],
-   "inference": "One should make offerings diligently with the desire for both enjoyment and liberation.",
-   "uncertainties": [
-    "The object being offered is implied from the previous verse"
-   ],
+   "inference": "One should make offerings with effort, desiring both enjoyment and liberation",
+   "uncertainties": [],
    "plain_english": "One should offer with effort, desiring both enjoyment and liberation."
   },
   {
@@ -506,13 +491,13 @@
     {
      "surface": "īpsitaṃ",
      "gloss": "desired",
-     "grounds": "that which is wished for",
+     "grounds": "past participle indicating what is wished for",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle adding emphasis or contrast",
+     "grounds": "particle of emphasis or contrast",
      "morph": "(indecl.)"
     },
     {
@@ -525,28 +510,28 @@
      "surface": "kuryād",
      "gloss": "one-should-perform",
      "grounds": "optative expressing prescribed action",
-     "morph": "3.sg.opt.act √kṛ"
+     "morph": "3.sg.opt.act (kṛ)"
     },
     {
      "surface": "advaitena",
      "gloss": "with-nonduality",
-     "grounds": "in a state or attitude of non-duality",
-     "morph": "n.inst.sg"
+     "grounds": "instrumental indicating accompaniment by nondual awareness",
+     "morph": "n.ins.sg"
     },
     {
      "surface": "samanvitam",
      "gloss": "endowed-with",
-     "grounds": "accompanied or endowed with",
+     "grounds": "past participle indicating being joined or endowed",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "How should one perform a desired vow according to this teaching?",
+   "question": "How should a desired vow be performed according to nondual practice?",
    "premises": [
     "A desired vow is to be performed",
-    "The performance is prescribed as an obligation",
+    "The performance should be carried out deliberately",
     "The vow must be endowed with nonduality"
    ],
-   "inference": "One should perform the desired vow in a manner endowed with nonduality.",
+   "inference": "One should perform the desired vow in a manner endowed with nonduality",
    "uncertainties": [],
    "plain_english": "One should indeed perform the desired vow endowed with nonduality."
   },
@@ -562,8 +547,8 @@
     {
      "surface": "pṛcchāmi",
      "gloss": "i-ask",
-     "grounds": "first person statement of inquiry",
-     "morph": "1.sg.pres.act √prach"
+     "grounds": "verb of inquiry spoken by the questioner",
+     "morph": "1.sg.pres.act (praś)"
     },
     {
      "surface": "deveśa",
@@ -574,7 +559,7 @@
     {
      "surface": "pātrāṇāṃ",
      "gloss": "of-vessels",
-     "grounds": "ritual vessels or recipients",
+     "grounds": "genitive plural referring to ritual vessels",
      "morph": "n.gen.pl"
     },
     {
@@ -586,17 +571,17 @@
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "favorable or auspicious quality",
+     "grounds": "adjective indicating auspiciousness",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What auspicious characteristic of vessels is the speaker asking about again?",
+   "question": "What auspicious characteristic of vessels is asked about again?",
    "premises": [
     "The speaker asks again",
     "The lord of gods is addressed",
     "The inquiry concerns the auspicious characteristic of vessels"
    ],
-   "inference": "The speaker again asks the lord of gods about the auspicious characteristic of vessels.",
+   "inference": "The speaker again asks the lord of gods about the auspicious characteristic of vessels",
    "uncertainties": [],
    "plain_english": "O Lord of gods, I ask again about the auspicious characteristic of the vessels."
   },
@@ -606,14 +591,14 @@
     {
      "surface": "mṛnmayaṃ",
      "gloss": "made-of-clay",
-     "grounds": "composed of clay",
-     "morph": "n.nom.sg"
+     "grounds": "adjective indicating material composition",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "kūrmajaṃ",
      "gloss": "tortoise-born",
-     "grounds": "originating from a tortoise, likely a tortoise shell",
-     "morph": "n.nom.sg"
+     "grounds": "compound indicating origin from a tortoise",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "devi",
@@ -624,27 +609,25 @@
     {
      "surface": "kāṃsajaṃ",
      "gloss": "made-of-bell-metal",
-     "grounds": "composed of bell-metal or bronze",
-     "morph": "n.nom.sg"
+     "grounds": "compound indicating origin from bell metal",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tāmralohajam",
      "gloss": "copper-metal-born",
-     "grounds": "compound indicating made of copper or copper metal",
-     "morph": "n.nom.sg"
+     "grounds": "compound indicating origin from copper metal",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What materials for vessels are enumerated in response to the goddess?",
+   "question": "Which materials are listed as suitable for ritual vessels?",
    "premises": [
-    "Vessels made of clay are mentioned",
-    "Vessels born of tortoise are mentioned",
-    "Vessels made of bell-metal and copper metal are mentioned"
+    "Vessels made of clay are included",
+    "Vessels of tortoise origin are included",
+    "Vessels made of bell metal and copper metal are included"
    ],
-   "inference": "Acceptable vessels include those made of clay, tortoise shell, bell-metal, and copper.",
-   "uncertainties": [
-    "kūrmajaṃ may refer specifically to a tortoise shell vessel"
-   ],
-   "plain_english": "O Goddess, vessels may be made of clay, born of tortoise, made of bell-metal, or made of copper."
+   "inference": "Suitable vessels may be made of clay, tortoise material, bell metal, or copper metal",
+   "uncertainties": [],
+   "plain_english": "O Goddess, vessels may be made of clay, born of a tortoise, made of bell metal, or born of copper."
   },
   {
    "verse": 316,
@@ -652,13 +635,13 @@
     {
      "surface": "kaulikaṃ",
      "gloss": "kaulika",
-     "grounds": "related to the Kaula tradition or a Kaula vessel",
-     "morph": "n.nom.sg"
+     "grounds": "adjective relating to the Kaula tradition",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle adding emphasis",
+     "grounds": "particle of emphasis",
      "morph": "(indecl.)"
     },
     {
@@ -676,42 +659,40 @@
     {
      "surface": "anyaṃ",
      "gloss": "another",
-     "grounds": "an additional different one",
-     "morph": "n.nom.sg"
+     "grounds": "pronoun indicating an additional item",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "kācasambhavam",
      "gloss": "glass-born",
-     "grounds": "originating from or made of glass",
-     "morph": "n.nom.sg"
+     "grounds": "compound indicating origin from glass",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What further types of vessels are added to the list for the fair-hipped goddess?",
+   "question": "What additional vessel types are affirmed for Kaula practice?",
    "premises": [
-    "A Kaulika vessel is included",
-    "Another vessel is likewise included",
-    "That other vessel is made of glass"
+    "A Kaulika vessel is affirmed",
+    "Another vessel type is likewise included",
+    "That additional type is born of glass"
    ],
-   "inference": "The list of vessels also includes a Kaulika vessel and one made of glass.",
-   "uncertainties": [
-    "The specific nature of a kaulika vessel is not defined here"
-   ],
-   "plain_english": "O fair-hipped one, there is indeed the Kaulika vessel, and likewise another made of glass."
+   "inference": "Kaula practice also accepts a Kaulika vessel and one made of glass",
+   "uncertainties": [],
+   "plain_english": "O fair-hipped one, there is indeed the Kaulika vessel and likewise another born of glass."
   },
   {
    "verse": 317,
    "rows": [
     {
      "surface": "viśvāmitrakapālañca",
-     "gloss": "viśvāmitra-skull-and",
-     "grounds": "skull associated with Viśvāmitra with enclitic ca",
-     "morph": "n.nom.sg + (indecl.)"
+     "gloss": "vishvamitra-skull-and",
+     "grounds": "compound naming a skull associated with Vishvamitra with enclitic conjunction",
+     "morph": "n.acc.sg + (indecl.)"
     },
     {
      "surface": "sarvapātrottamaṃ",
-     "gloss": "supreme-of-all-vessels",
-     "grounds": "compound meaning the highest among all vessels",
-     "morph": "n.nom.sg"
+     "gloss": "supreme-among-all-vessels",
+     "grounds": "compound declaring it the highest of all vessels",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "priye",
@@ -720,17 +701,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Which vessel is declared supreme among all vessels to the beloved?",
+   "question": "Which vessel is declared supreme among all ritual vessels?",
    "premises": [
-    "The skull of Viśvāmitra is mentioned",
-    "It is called supreme among all vessels",
-    "The beloved is addressed"
+    "The skull of Vishvamitra is named",
+    "It is described as supreme among all vessels",
+    "The beloved is addressed in this declaration"
    ],
-   "inference": "The skull of Viśvāmitra is declared the supreme vessel among all.",
-   "uncertainties": [
-    "The specific ritual significance of Viśvāmitra's skull is not explained"
-   ],
-   "plain_english": "O beloved, the skull of Viśvāmitra is the supreme vessel of all."
+   "inference": "The skull of Vishvamitra is declared the supreme vessel of all",
+   "uncertainties": [],
+   "plain_english": "O beloved, the skull of Vishvamitra is the supreme vessel of all."
   },
   {
    "verse": 318,
@@ -738,13 +717,13 @@
     {
      "surface": "patiñca",
      "gloss": "lord-and",
-     "grounds": "pati with enclitic ca, meaning lord or master",
+     "grounds": "term for a lord or master with enclitic conjunction",
      "morph": "m.acc.sg + (indecl.)"
     },
     {
      "surface": "patitañca",
      "gloss": "fallen-and",
-     "grounds": "patita with enclitic ca, meaning fallen one",
+     "grounds": "term for one who is fallen with enclitic conjunction",
      "morph": "m.acc.sg + (indecl.)"
     },
     {
@@ -756,34 +735,34 @@
     {
      "surface": "bhave",
      "gloss": "may-be",
-     "grounds": "optative or locative form indicating possibility or state",
-     "morph": "3.sg.opt.act √bhū"
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.opt.act (bhū)"
     },
     {
      "surface": "ccakottamaḥ",
-     "gloss": "supreme-cakra",
-     "grounds": "compound meaning the supreme circle or assembly",
+     "gloss": "supreme-in-circle",
+     "grounds": "compound indicating supremacy within the circle",
      "morph": "m.nom.sg"
     },
     {
      "surface": "?",
-     "gloss": "unclear",
-     "grounds": "unreadable or uncertain token in the source",
-     "morph": "(uncertain)"
+     "gloss": "unknown",
+     "grounds": "unreadable or missing token in the source",
+     "morph": "unknown"
     }
    ],
-   "question": "What paradoxical inclusion defines the supreme cakra in this statement?",
+   "question": "Who may become supreme within the ritual circle despite social status?",
    "premises": [
-    "Both the lord and the fallen are included",
-    "This condition may be present",
-    "It relates to the supreme cakra"
+    "Both a lord and a fallen person are mentioned",
+    "Such a one may become supreme in the circle",
+    "Status distinctions are presented as transcended"
    ],
-   "inference": "The supreme cakra may include both the lord and the fallen.",
+   "inference": "Either a lord or a fallen person may become supreme within the circle",
    "uncertainties": [
-    "The final token is unclear in the source",
-    "The exact syntax and meaning of the verse are partially uncertain"
+    "The sixth token is unreadable in the source",
+    "The exact syntactic role of the final readable elements is uncertain"
    ],
-   "plain_english": "Both the lord and the fallen may be present; that is the supreme cakra."
+   "plain_english": "Both the lord and the fallen may become supreme in the circle."
   },
   {
    "verse": 319,
@@ -791,43 +770,43 @@
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "demonstrative pronoun referring to previously mentioned vessels",
+     "grounds": "demonstrative pronoun referring to the aforementioned",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pātramalābhena",
      "gloss": "by-non-obtainment-of-vessel",
-     "grounds": "compound indicating absence or non-obtainment of such a vessel",
-     "morph": "m.inst.sg"
+     "grounds": "compound indicating absence or non-obtainment of the proper vessel",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "anyapātre",
      "gloss": "in-another-vessel",
-     "grounds": "locative indicating a different vessel",
+     "grounds": "compound indicating a different vessel",
      "morph": "n.loc.sg"
     },
     {
      "surface": "pibet",
      "gloss": "one-may-drink",
-     "grounds": "optative expressing permission or prescription",
-     "morph": "3.sg.opt.act √pā"
+     "grounds": "optative expressing permitted action",
+     "morph": "3.sg.opt.act (pā)"
     },
     {
      "surface": "surām",
      "gloss": "liquor",
-     "grounds": "ritual liquor",
+     "grounds": "ritual drink",
      "morph": "f.acc.sg"
     }
    ],
-   "question": "What alternative is permitted when the prescribed vessel cannot be obtained?",
+   "question": "What alternative is permitted when the proper ritual vessel is unavailable?",
    "premises": [
-    "The prescribed vessel may not be obtained",
+    "The proper vessel may not be obtained",
     "Another vessel is available",
-    "Drinking liquor is the act in question"
+    "Drinking liquor is the ritual act in question"
    ],
-   "inference": "If the prescribed vessel is unavailable, one may drink liquor from another vessel.",
+   "inference": "If the proper vessel is unavailable, one may drink liquor from another vessel",
    "uncertainties": [],
-   "plain_english": "If this vessel cannot be obtained, one may drink the liquor from another vessel."
+   "plain_english": "If this vessel is not obtained, one may drink the liquor from another vessel."
   },
   {
    "verse": 320,
@@ -835,7 +814,7 @@
     {
      "surface": "kathitaṃ",
      "gloss": "declared",
-     "grounds": "past participle indicating something has been taught",
+     "grounds": "past participle indicating what has been taught",
      "morph": "n.nom.sg"
     },
     {
@@ -847,20 +826,20 @@
     {
      "surface": "sadbhāvaṃ",
      "gloss": "true-nature",
-     "grounds": "true being or essential nature",
+     "grounds": "compound denoting the true state or essence",
      "morph": "m.acc.sg"
     },
     {
      "surface": "kimanyaṃ",
      "gloss": "what-else",
-     "grounds": "interrogative asking for something further",
+     "grounds": "interrogative compound asking for further topics",
      "morph": "n.acc.sg"
     },
     {
      "surface": "pṛcchase",
      "gloss": "you-ask",
-     "grounds": "second person present inquiry",
-     "morph": "2.sg.pres.mid √prach"
+     "grounds": "verb of inquiry addressed to the goddess",
+     "morph": "2.sg.pres.mid (praś)"
     },
     {
      "surface": "adhunā",
@@ -869,13 +848,13 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What does the speaker ask the goddess after declaring the true nature?",
+   "question": "What further inquiry remains after the true nature has been declared?",
    "premises": [
     "The true nature has been declared",
     "The goddess is addressed",
-    "The speaker asks what else she wishes to know now"
+    "She is asked what else she wishes to know now"
    ],
-   "inference": "Having declared the true nature, the speaker asks the goddess what else she wishes to ask.",
+   "inference": "After declaring the true nature, the speaker asks the goddess what else she wishes to ask now",
    "uncertainties": [],
    "plain_english": "O Goddess, the true nature has been declared; what else do you ask now?"
   },
@@ -885,8 +864,8 @@
     {
      "surface": "tatprasādena",
      "gloss": "by-that-grace",
-     "grounds": "compound indicating grace or favor of that",
-     "morph": "m.inst.sg"
+     "grounds": "compound indicating grace arising from that",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "deveśa",
@@ -903,20 +882,18 @@
     {
      "surface": "jñānanirṇayam",
      "gloss": "knowledge-determination",
-     "grounds": "compound meaning the ascertainment of knowledge",
+     "grounds": "compound denoting the ascertainment of knowledge",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "By whose grace can the determination of knowledge be known?",
+   "question": "By what means can the determination of knowledge be known?",
    "premises": [
     "The determination of knowledge must be known",
-    "This knowing depends on that grace",
+    "Grace is identified as the means",
     "The lord of gods is addressed"
    ],
-   "inference": "By that grace, O lord of gods, the determination of knowledge is to be known.",
-   "uncertainties": [
-    "The referent of 'that grace' is implicit from prior context"
-   ],
+   "inference": "By that grace, the determination of knowledge is to be known",
+   "uncertainties": [],
    "plain_english": "O Lord of gods, by that grace the determination of knowledge is to be known."
   },
   {
@@ -941,15 +918,15 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter concerning conduct and vessel characteristics concludes here?",
+   "question": "Which chapter concludes the teaching on conduct and vessel characteristics?",
    "premises": [
-    "The topic is the characteristics of conduct and vessels",
-    "The ordinal is twelfth",
-    "The unit is a chapter"
+    "The topic concerns characteristics of conduct and vessels",
+    "The chapter is numbered twelfth",
+    "The unit is identified as a chapter"
    ],
-   "inference": "This marks the end of the twelfth chapter on the characteristics of conduct and vessels.",
+   "inference": "The twelfth chapter on the characteristics of conduct and vessels is concluded",
    "uncertainties": [],
-   "plain_english": "Thus ends the twelfth chapter on the characteristics of conduct and vessels."
+   "plain_english": "This is the twelfth chapter on the characteristics of conduct and vessels."
   },
   {
    "verse": 323,
@@ -957,14 +934,14 @@
     {
      "surface": "adhorddhañca",
      "gloss": "below-above-and",
-     "grounds": "compound adhor-ūrdhva with enclitic ca, meaning below and above",
-     "morph": "(indecl.)"
+     "grounds": "compound indicating lower and higher realms with enclitic conjunction",
+     "morph": "(indecl.) + (indecl.)"
     },
     {
      "surface": "labhej",
      "gloss": "may-obtain",
-     "grounds": "optative expressing possibility or attainment",
-     "morph": "3.sg.opt.act √labh"
+     "grounds": "optative expressing attainment",
+     "morph": "3.sg.opt.act (labh)"
     },
     {
      "surface": "jīvo",
@@ -975,34 +952,31 @@
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive indicating prior understanding",
-     "morph": "gerund √jñā"
+     "grounds": "absolutive indicating prior knowledge",
+     "morph": "gerund (jñā)"
     },
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun",
+     "grounds": "demonstrative pronoun referring to the known reality",
      "morph": "m.acc.sg"
     },
     {
      "surface": "muktibhojanam",
      "gloss": "liberation-enjoyment",
-     "grounds": "compound linking liberation and enjoyment",
+     "grounds": "compound denoting the enjoyment or experience of liberation",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What attainment becomes possible for the living being through knowing that reality?",
+   "question": "What attainment becomes possible for a living being through knowing that reality?",
    "premises": [
-    "The living being may obtain something below and above",
-    "This attainment follows from having known that",
-    "The attainment is described as liberation-enjoyment"
+    "A living being may obtain both below and above",
+    "This attainment follows from knowing that reality",
+    "The result is described as liberation-enjoyment"
    ],
-   "inference": "Having known that, the living being may obtain liberation-enjoyment above and below.",
-   "uncertainties": [
-    "The referent of taṃ is implicit",
-    "The exact sense of adhorddhañca in this context is open to interpretation"
-   ],
-   "plain_english": "Having known that, the living being may obtain liberation and enjoyment, below and above."
+   "inference": "By knowing that reality, a living being may obtain both lower and higher realms as liberation-enjoyment",
+   "uncertainties": [],
+   "plain_english": "Having known that, the living being may obtain both below and above as the enjoyment of liberation."
   },
   {
    "verse": 324,
@@ -1011,56 +985,54 @@
      "surface": "śrutvā",
      "gloss": "having-heard",
      "grounds": "absolutive indicating prior hearing",
-     "morph": "gerund √śru"
+     "morph": "gerund (śru)"
     },
     {
      "surface": "tasya",
      "gloss": "of-that",
-     "grounds": "demonstrative pronoun referring to prior content",
+     "grounds": "demonstrative pronoun referring to the teaching or reality",
      "morph": "m.gen.sg"
     },
     {
      "surface": "patir",
      "gloss": "lord",
-     "grounds": "master or lord, possibly the practitioner or deity",
+     "grounds": "master or lord",
      "morph": "m.nom.sg"
     },
     {
      "surface": "divyaṃ",
      "gloss": "divine",
-     "grounds": "heavenly or divine quality",
+     "grounds": "adjective indicating divine quality",
      "morph": "n.acc.sg"
     },
     {
      "surface": "yāti",
-     "gloss": "goes",
-     "grounds": "present tense indicating movement or attainment",
-     "morph": "3.sg.pres.act √yā"
+     "gloss": "goes-to",
+     "grounds": "verb of motion indicating attainment",
+     "morph": "3.sg.pres.act (yā)"
     },
     {
      "surface": "mokṣavaraṃ",
      "gloss": "supreme-liberation",
-     "grounds": "compound meaning the highest liberation",
+     "grounds": "compound denoting the highest liberation",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "favorable or auspicious quality",
+     "grounds": "adjective indicating auspiciousness",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What supreme attainment follows for the lord after hearing that teaching?",
+   "question": "What supreme attainment follows from hearing that divine teaching?",
    "premises": [
-    "The lord has heard that teaching",
-    "He goes to a divine state",
-    "That state is the auspicious supreme liberation"
+    "One hears that teaching",
+    "The lord goes to a divine state",
+    "The attainment is auspicious supreme liberation"
    ],
-   "inference": "Having heard that, the lord attains the divine and auspicious supreme liberation.",
-   "uncertainties": [
-    "The identity of patir as practitioner or deity is context-dependent"
-   ],
-   "plain_english": "Having heard that, the lord attains the divine, auspicious, supreme liberation."
+   "inference": "Having heard that, the lord attains the divine and auspicious supreme liberation",
+   "uncertainties": [],
+   "plain_english": "Having heard that, the lord goes to the divine, auspicious, supreme liberation."
   }
  ]
 }
