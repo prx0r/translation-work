@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p80-v1976
-[pradyumna](pradyumno) [vahvi+tattva+sthāḥ+tu+aniruddhaḥ](vahvitattvasthāstvaniruddhaḥ) [samīraṇe](samīraṇe)
+[Pradyumna](pradyumno) [fire+element+abiding](vahvi+tattva+sthās) [but](tvan) [Aniruddha](iruddhaḥ) [in-wind](samīraṇe)
 
 ## mukta-m0-p80-v1977
-[dhīḥ](dhīr) [viṣṇuḥ](viṣṇuḥ) [kasarī](kasarī) [garuḍaḥ](garso) [vāsudevaḥ](vāsudevaḥ) [pumān](pumān) [mataḥ](mataḥ)
+[intellect](dhīr) [Viṣṇu](viṣṇuḥ) [Kesarī](kasarī) [Garśa](garso) [Vāsudeva](vāsudevaḥ) [spirit](pumān) [considered](mataḥ)
 
 ## mukta-m0-p80-v1978
-[rāmaḥ](rāmo) [rāmaḥ](rāmaśca) [rāmaḥ](rāmaśca) [buddhaḥ](buddhaḥ) [kalkī](kalkī) [dharā+āditaḥ](dharāditaḥ)
+[Rāma](rāmo) [Rāma](rāmaś) [and](ca) [Rāma](rāmaś) [and](ca) [Buddha](buddhaḥ) [Kalkī](kalkī) [earth+beginning-with](dharā+ditaḥ)
 
 ## mukta-m0-p80-v1979
-[mādhavaḥ](mādhavo) [vahni+tattve](vahnitattve) [tu](tu) [govindaḥ](govindo) [marut+ātmakaḥ](marutātmakaḥ)
+[Mādhava](mādhavo) [in-fire+element](vahni+tattve) [but](tu) [Govinda](govindo) [wind+natured](marut+ātmakaḥ)
 
 ## mukta-m0-p80-v1980
-[buddhiḥ](buddhistrivikramo) [trivikramaḥ](trivikramo) [jñeyaḥ](jñeyo) [garuḍaḥ](garvo) [ca](ca) [vāmanaḥ](vāmanaḥ) [sadā](sadā)
+[intellect](buddhis) [Trivikrama](trivikramo) [to-be-known](jñeyo) [pride](garvo) [and](ca) [Vāmana](vāmanaḥ) [always](sadā)
 
 ## mukta-m0-p80-v1981
-[padmanābhaḥ](padmanābhaḥ) [sadā+śaktiḥ](sadāśaktirdāmodaraḥ) [dāmodaraḥ](dāmodaraḥ) [sa+deśvaraḥ](sadeśvaraḥ)
+[Padmanābha](padmanābhaḥ) [always+power](sadā+śaktir) [Dāmodara](dāmodaraḥ) [always+lord](sad+eśvaraḥ) [kh:]( [kh:) [great+lord](maheśvaraḥ) [](])
 
 ## mukta-m0-p80-v1982
-[avyaktaḥ](avyaktaḥ) [puruṣaḥ](puruṣaḥ) [śaktiḥ](śaktiḥ) [parā+ūrkā](parorkā) [dvādaśa](dvādaśa) [kramāt](kramāt)
+[unmanifest](avyaktaḥ) [spirit](puruṣaḥ) [power](śaktiḥ) [supreme+energy](par+orkā) [twelve](dvādaśa) [in-order](kramāt)
 
 ## mukta-m0-p80-v1983
-[sahasrāṃśuḥ](sahasrāṃśuśca) [ca](ca) [dhātā](dhātā) [ca](ca) [tapanaḥ](tapanaḥ) [savitā](savitā) [tathā](tathā)
+[thousand+rayed](sahasrāṃśuś) [and](ca) [Dhātṛ](dhātā) [and](ca) [Tapana](tapanaḥ) [Savitṛ](savitā) [likewise](tathā)
 
 ## mukta-m0-p80-v1984
-[etat+tattve](etattattve) [sthitāḥ](sthitā) [rudrāḥ](rudrā) [mārga+ādika+ārtika+anta+gāḥ](mārgādikārtikāntagāḥ)
+[in-this+element](etat+tattve) [kh:]( [kh:) [this+element](etettattva) [](]) [situated](sthitā) [Rudras](rudrā) [Mārga+beginning-with+Kārttika+ending-with+going](mārgā+di+kārtikānta+gāḥ)
 
 ## mukta-m0-p80-v1985
-[mahādevaḥ](mahādevaḥ) [śivaḥ](śivo) [rudraḥ](rudraḥ) [śaṅkaraḥ](śaṅkaro) [nīlalohitaḥ](nīlalohitaḥ)
+[Mahādeva](mahādevaḥ) [Śiva](śivo) [Rudra](rudraḥ) [Śaṅkara](śaṅkaro) [Nīlalohita](nīlalohitaḥ)
 
 ## mukta-m0-p80-v1986
-[tathā](tathoktā) [uktāḥ](uktā) [nava+durgāḥ](navadurgāśca) [ca](ca) [ambikā+ādi+gaṇāḥ](ambikādigaṇāśca) [ca](ca) [ye](ye)
+[thus+spoken](tath+oktā) [nine+Durgās](nava+durgāś) [and](ca) [Ambikā+beginning-with+groups](ambikā+di+gaṇāś) [and](ca) [who](ye)
 
 ## mukta-m0-p80-v1987
-[yoginyaḥ](yoginyo) [vividha+ākārāḥ](vividhākārāstathānye) [tathā](tathā) [anye](anye) [pūrva+coditāḥ](pūrvacoditāḥ)
+[Yoginīs](yoginyo) [various+forms](vividh+ākārās) [and+others](tath+ānye) [previously+enjoined](pūrva+coditāḥ)
 
 ## mukta-m0-p80-v1988
-[parivāra+anvitāḥ](parivārānvitāḥ) [śodhyāḥ](śodhyā) [māyā](māyā) [tattva+avadhau](tattvāvadhau) [matā](matā)
+[retinue+endowed](parivār+ānvitāḥ) [to-be-purified](śodhyā) [Māyā](māyā) [gh:]( [gh:) [by-me](mayā) [](]) [element+limit](tattv+āvadhau) [considered](matā)
 
 ## mukta-m0-p80-v1989
-[vidyā+aṅgāni](vidyāṅgāni) [ca](ca) [vidyeśāḥ](vidyeśāḥ) [saṃsthāpyāḥ](saṃsthāpyāścātmatattvataḥ) [ca](ca) [ātma+tattvataḥ](ātmatattvataḥ)
+[knowledge+limbs](vidyā+ṅgāni) [and](ca) [lords-of-knowledge](vidy+eśāḥ) [to-be-established](saṃsthāpyāś) [and](c) [from-self+element](ātma+tattvataḥ)
 
 ## mukta-m0-p80-v1990
-[prati+tattvam](pratitattvaṃ) [surāṇām](surāṇāṃ) [tu](tu) [sthāpana+aṅgani](sthāpanāṅgani) [lakṣayet](lakṣayet)
+[each+element](prati+tattvaṃ) [of-gods](surāṇāṃ) [but](tu) [installation+limbs](sthāpanā+ṅgani) [one-should-observe](lakṣayet)
 
 ## mukta-m0-p80-v1991
-[bodhane](bodhane) [kramāt](kramāt)
+[in-awakening](bodhane]) [in-order](kramāt)
 
 ## mukta-m0-p80-v1992
-[daitya+ādīnām](daityādīnāmathānyeṣāṃ) [atha](atha) [anyeṣām](anyeṣāṃ) [dvādaśa+aṅgāni](dvādaśāṅgāni) [ropaṇe](ropaṇe)
+[of-Daityas+and-others](daity+ādīnām) [then](ath) [of-others](ānyeṣāṃ) [twelve+limbs](dvādaś+āṅgāni) [in-implantation](ropaṇe)
 
 ## mukta-m0-p80-v1993
-[sarva+lakṣaṇa+hīnaḥ](sarvalakṣaṇahīno'pi) [api](api) [jñānavān](jñānavāṃstārako) [tārakaḥ](tārako) [guruḥ](guruḥ)
+[all+characteristics+devoid](sarva+lakṣaṇa+hīno) [even]('pi) [knowledge+possessing](jñānavāṃs) [delivering](tārako) [guru](guruḥ)
 
 ## mukta-m0-p80-v1994
-[tārayitvā](tārayitvā) [nayet](nayet) [kartṛ+niṣṭa+devasya](kartṛniṣṭadevasya) [yat](yat) [puram](puram)
+[having-delivered](tārayitvā) [he-should-lead](nayet) [of-agent+devoted+deity](kartṛ+niṣṭa+devasya) [which](yat) [city](puram) [k,kh:]( [k,) [kh:](kh:) [true+city](satpuram) [](])
 
 ## mukta-m0-p80-v1995
-[pratiṣṭhām](pratiṣṭhāṃ) [na](na) [ca](ca) [devānām](devānāṃ) [tasmāt](tasmātsyādadhbavidguruḥ) [syāt](syāt) [adhbhuta+vid+guruḥ](adhbavidguruḥ)
+[installation](pratiṣṭhāṃ) [not](na) [and](ca) [of-gods](devānāṃ) [therefore](tasmāt) [should-be](syād) [non-knowing](adhba+vid) [guru](guruḥ)
 
 ## mukta-m0-p80-v1996
-[dvi+śakti+garbha+gānām](dviśaktigarbhagānāṃ) [tu](tu) [sthāpanāya](sthāpanāyākhilaṃ) [akhilam](akhilaṃ) [guroḥ](guroḥ)
+[of-those-gone-to-two+power+womb](dvi+śakti+garbha+gānāṃ) [but](tu) [for-installation](sthāpanāy) [all](ākhilaṃ) [of-guru](guroḥ)
 
 ## mukta-m0-p80-v1997
-[dvaita+advaitam](dvaitādvaitaṃ) [tathā](tathā) [miśram](miśramajñānācca) [ajñānāt](ajñānācca) [ca](ca) [viparyayaḥ](viparyayaḥ)
+[dualism+non-dualism](dvait+ādvaitaṃ) [likewise](tathā) [mixed](miśram) [from-ignorance](ajñānāc) [and](ca) [error](viparyayaḥ)
 
 ## mukta-m0-p80-v1998
-[kāryā](kāryā) [sā](sā) [pūrvavat](pūrvavatkṛtsnā) [kṛtsnā](kṛtsnā) [avyaktake](avyaktake'pyayaṃ) [api](api) [ayaṃ](ayaṃ) [vidhiḥ](vidhiḥ)
+[to-be-done](kāryā) [that](sā) [as-before](pūrvavat) [entire](kṛtsnā) [in-unmanifest](avyaktake) [even]('py) [this](ayaṃ) [procedure](vidhiḥ)
 
 ## mukta-m0-p80-v1999
-[veśanam](veśanaṃ) [ca](ca) [eka+vaktre](ekavaktre) [tu](tu) [ardham](ardhaṃ) [sarvam](sarvaṃ) [tri+vaktre](trivaktrake)
+[entry](veśanaṃ) [and](c) [in-one+face](aika+vaktre) [but](tu) [half](ardhaṃ) [all](sarvaṃ) [in-three+face](tri+vaktrake)
 
 ## mukta-m0-p80-v2000
-[catuḥ](catuḥ) [sahasra+samastam](sahasramastam) [vā](vā) [pañca+ānane](pañcānane) [kvacit](kvacinmatam) [matam](matam)
+[four](catuḥ) [with](sahā) [all](samastaṃ) [or](vā) [in-five+face](pañc+ānane) [somewhere](kvacin) [opinion](matam)

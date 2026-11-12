@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-tejaḥ (radiance) caṇḍasya (of fierce) yāgaḥ (sacrifice) ca (and) sarvaḥ (all) syāt (should be) pūrvavat (as before) vidhiḥ (rule)
+[splendor](tejaḥ) [and-of-caṇḍa](caṇḍasya) [and-worship](yāgaḥ) [and](ca) [all](sarvaḥ) [should-be](syāt) [as-before](pūrvavat) [procedure](vidhiḥ)
 
 ## mukta-m0-p82-v2027
-tad (that) nirmālyam (remains) kṣipet (throw) apsu (in waters) garbhe (in womb) ca (and) agnau (in fire) visarjanam (dismissal)
+[its](tat) [remnants](nirmālyaṃ) [should-throw](kṣipet) [in-waters](apsu) [in-womb](garbhe) [and](ca) [in-fire](agnau) [dismissal](visarjanam)
 
 ## mukta-m0-p82-v2028
-rāṣṭra (kingdom) upadrava (calamity) siddhi (accomplishment) artham (for) tat (that) sthāpyam (to be placed) guhya (secret) deśataḥ (from place)
+[for-kingdom](rāṣṭra) [calamity](upadrava) [accomplishment](siddhi) [purpose](arthaṃ) [that](tat) [to-be-established](sthāpyaṃ) [in-secret-place](guhya+deśataḥ)
 
 ## mukta-m0-p82-v2029
-phala (fruit) dāyakam (giving)
+[fruit](phala) [giving](dāyakam)
 
 ## mukta-m0-p82-v2030
-sva (own) artha (purpose) mantra (mantra) sthitiḥ (establishment) tena (by that) caṇḍeśaḥ (Caṇḍeśa) na (not) sthireṣu (in stable) api (even)
+[own](sva) [purpose](artha) [mantra](mantra) [abiding](sthitiḥ) [by-that](tena) [caṇḍeśa](caṇḍeśaḥ) [not](na) [in-immovable-images](sthireṣu) [also](api)
 
 ## mukta-m0-p82-v2031
-yajet (worship) abje (in lotus) homa (oblation) dāna (gift) ādi (etc) pūrvavat (as before)
+[one-should-worship](yajet) [in-lotus](abje) [oblation](homa) [gift](dāna) [etc.](ādi) [as-before](pūrvavat)
 
 ## mukta-m0-p82-v2032
-gaṇa (group) varga (class) ambikā (Ambikā) nām (named) ca (and) nirmālyam (remains) śive (in Śiva) yathā (as)
+[of-gaṇa](gaṇa) [group](varga) [and-ambikā](ambikānāṃ) [and](ca) [not](na) [remnants](nirmālyaṃ) [in-śiva](śive) [as](yathā)
 
 ## mukta-m0-p82-v2033
-purī (city) sāgara (ocean) daitya (demon) ādya (etc) ṛṣi (sage) dig (direction) devatā (deity) graha (planet)
+[city](purī) [ocean](sāgara) [demon](daitya) [etc.](ādyāḥ) [sage](ṛṣi) [direction](dig) [deity](devatā) [planets](grahāḥ)
 
 ## mukta-m0-p82-v2034
-dvaita (dual) advaita (non-dual) tāni (those) atra (here) sāmānya (common) ca (and) siddhaye (for accomplishment)
+[duality](dvaita) [non-duality](advaitāni) [those](tāni) [here](atra) [common](sāmānyani) [and](ca) [for-accomplishment](siddhaye)
 
 ## mukta-m0-p82-v2035
-mārtaṇḍa (sun) ca (and) iti (thus) atha (then) advaite (in non-dual) nirmālyam (remains) caṇḍa (fierce) varjitam (excluded)
+[mārtaṇḍa](mārtaṇḍaḥ) [and](ca) [thus](iti) [then](atha) [in-duality](advaite) [remnants](nirmālyaṃ) [and](ca) [caṇḍa](caṇḍa) [excluded](varjitam)
 
 ## mukta-m0-p82-v2036
-sva (own) iṣṭam (desired) na (not) darśayet (show) loke (in world) advaite (in non-dual) vidhi (rule) kalpitam (prescribed)
+[own](sva) [chosen-deity](iṣṭaṃ) [not](na) [should-show](darśayet) [in-world](loke) [in-non-duality](advaite) [by-rule](vidhi) [prescribed](kalpitam)
 
 ## mukta-m0-p82-v2037
-divya (divine) toya (water) ādikam (etc) teṣām (their) snāne (bathing) arghe (offering) tarpaṇe (libation) hitam (beneficial)
+[divine](divya) [water](toya) [etc.](ādikaṃ) [of-them](teṣāṃ) [in-bathing](snāne) [in-arghya](arghe) [in-libation](tarpaṇe) [beneficial](hitam)
 
 ## mukta-m0-p82-v2038
-naivedya (food offering) bhrātṛ (brother) putrāṇām (sons) bhaginī (sister) nām (named) ca (and) dāpayet (give)
+[food-offering](naivedyaṃ) [of-brothers](bhrātṛ) [and-sons](putrāṇāṃ) [of-sisters](bhaginīnāṃ) [and](ca) [one-should-give](dāpayet)
 
 ## mukta-m0-p82-v2039
-siddhi (accomplishment) labheta (obtain) no (not) citram (wonder) liṅga (liṅga) sannihitam (near) yadā (when)
+[accomplishment](siddhiḥ) [one-may-obtain](labheta) [not](no) [wonder](citraṃ) [liṅga](liṅga) [near](sannihitaṃ) [when](yadā)
 
 ## mukta-m0-p82-v2040
-jayadratha (Jayadratha) ādayaḥ (etc) api (also) anya (other) iti (thus) āha (said) bhagavān (lord) śivaḥ (Śiva)
+[jayadratha](jayadratha) [etc.](ādayaḥ) [also](api) [others](anye) [thus](iti) [said](āha) [lord](bhagavān) [śiva](śivaḥ)
 
 ## mukta-m0-p82-v2041
-iti (thus) lakṣaṇa (characteristic) samuccaye (collection) caṇḍeśvara (Caṇḍeśvara) sthāpanam (installation) nāma (named) saptadaśa (seventeenth) vidhiḥ (rule)
+[thus](iti) [in-lakṣaṇasamuccaya](lakṣaṇa+samuccaye) [caṇḍeśvara](caṇḍeśvara) [installation](sthāpanaṃ) [named](nāma) [seventeenth](saptadaśaḥ) [procedure](vidhiḥ)
 
 ## mukta-m0-p82-v2042
-nayana (eye) unmīlana (opening) ādi (etc) eṣām (their) pūrvavat (as before) sakalam (all) bhavet (becomes)
+[eye](nayana) [opening](unmīlana) [etc.](ādi) [of-these](eṣāṃ) [as-before](pūrvavat) [all](sakalaṃ) [should-be](bhavet)
 
 ## mukta-m0-p82-v2043
-ca (and) āhavarjanāt (from exclusion of offering)
+[and](ca) [dismissal](āhavarjanāt)
 
 ## mukta-m0-p82-v2044
-snāna (bathing) ādi (etc) mānasa (mental) kāryam (to be done) tathā (thus) ratna (jewel) śilā (stone) ādikam (etc)
+[bathing](snāna) [etc.](ādi) [mental](mānasaṃ) [to-be-done](kāryaṃ) [likewise](tathā) [jewel](ratna) [stone](śilā) [etc.](ādikam)
 
 ## mukta-m0-p82-v2045
-nimra (bent) bu (flower) kusumaiḥ (with flowers) pūjā (worship) yayā (by which) citram (wonder) na (not) naśyati (perishes)
+[with-nimra](nimra) [and-baku](baku) [flowers](kusumaiḥ) [worship](pūjā) [by-which](yayā) [image](citraṃ) [not](na) [perishes](naśyati)
 
 ## mukta-m0-p82-v2046
-ratna (jewel) ādini (etc) niveśya (placing) ca (and)
+[jewel](ratna) [etc.](ādini) [having-placed](niveśya) [and](ca)
 
 ## mukta-m0-p82-v2047
-rnyaset (place) diśām (directions) tadva (that) dudumbare (udumbara)
+[one-should-place](nyaset) [of-directions](diśāṃ) [likewise](tadvat) [in-udumbara](udumbare)
 
 ## mukta-m0-p82-v2048
-śūle (on spear) api (even) avam (this) yajanti (worship) aṅgam (limb) yuktā (joined) daṇḍe (staff) ca (and) dīpanī (lamp)
+[on-trident](śule) [also](api) [lower-part](avaṃ) [they-worship](yajanti) [limb](aṅgaṃ) [joined](yuktā) [on-staff](daṇḍe) [and](ca) [kindling](dīpanī)
 
 ## mukta-m0-p82-v2049
-eka (one) dvi (two) tri (three) kare (hand) pūjyaḥ (worshipful) śiva (Śiva) vat (like) bhagavān (lord) guruḥ (teacher)
+[with-one](eka) [two](dvi) [or-three](tri) [hands](kare) [to-be-worshipped](pūjyaḥ) [like-śiva](śiva+vat) [lord](bhagavān) [guru](guruḥ)
 
 ## mukta-m0-p82-v2050
-aghora (Aghora) paścima (western) āsyam (face) vā (or) hotavyam (to be offered) japa (recitation) saṃkhyayā (by count)
+[aghora](aghoraṃ) [western](paścima) [face](āsyaṃ) [or](vā) [to-be-offered](hotavyaṃ) [by-japa](japa) [number](saṃṅkhyayā)

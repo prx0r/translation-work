@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "dhyāyeccandramidaṃ",
-   "morph": "3.sg.opt.act, √dhyai + m.acc.sg + pron.acc.sg.n",
-   "grounds": "sandhi: dhyāyet + candram + idam"
+   "morph": "3.sg.opt.act (dhyai) + noun.m.acc.sg + pron.n.acc.sg",
+   "grounds": "optative verb with object noun and demonstrative"
   },
   {
    "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative"
+   "morph": "noun.voc.sg.f",
+   "grounds": "vocative address"
   },
   {
    "lemma": "nābhimūrdhni",
-   "morph": "n.loc.sg, compound",
-   "grounds": "compound: nābhi + mūrdhan"
+   "morph": "noun.loc.sg.f + noun.loc.sg.n",
+   "grounds": "locative dual or compound-like pair indicating locations"
   },
   {
    "lemma": "ca",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "hṛdgatam",
-   "morph": "m.acc.sg, compound",
-   "grounds": "compound: hṛd + gata"
+   "morph": "compound: noun+adj, m.acc.sg",
+   "grounds": "compound: hṛd+gata describing location"
   }
  ]
 }
