@@ -7,39 +7,39 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "forehead-syllable-mass-situated",
-     "grounds": "compound adjective: lalāṭa (forehead) + varṇa (syllable) + rāśi (mass) + stha (situated)",
-     "morph": "compound, n.acc.sg"
+     "grounds": "fused-compound-as-given",
+     "morph": "compound=member+membership"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numerical noun indicating a large count of repetitions",
+     "grounds": "cardinal-quantity",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "absolutive expressing completion of the act",
-     "morph": "gerund, root kṛ"
+     "grounds": "gerundive-form-as-given",
+     "morph": "indecl."
     },
     {
      "surface": "sura+arcite",
      "gloss": "god-worshipped",
-     "grounds": "vocative compound: sura (god) + arcita (worshipped), addressing the deity",
-     "morph": "compound, m.voc.sg"
+     "grounds": "fused-compound-as-given",
+     "morph": "compound=member+membership"
     }
    ],
-   "question": "What specific repetition in the forehead syllable-mass must be completed for the secret extraction?",
+   "question": "Under what condition must a hundred-thousand measure situated in the forehead-syllable mass be offered by one who has acted in relation to the god-worshipped object?",
    "premises": [
-    "The practice involves performing a repetition counted as one hundred thousand.",
-    "This repetition is situated in the mass of syllables located on the forehead.",
-    "The instruction is addressed to one who is worshipped by the gods."
+    "A measure rests in the forehead-syllable mass as given.",
+    "A hundred-thousand count is specified for that measure.",
+    "The action of completion bears on what is offered to the god-worshipped one."
    ],
-   "inference": "The secret extraction requires completing one hundred thousand repetitions focused in the forehead syllable-mass.",
+   "inference": "The hundred-thousand measure located in the forehead-syllable mass is to be assigned in the context of one who has acted for the god-worshipped.",
    "uncertainties": [
-    "Whether lakṣaṃ refers to mantra recitations, visualizations, or another specific ritual act is not explicit."
+    "The syntactic link between kṛtya and the preceding tokens remains unclear from this verse alone."
    ],
-   "plain_english": "O one worshipped by the gods, having performed one hundred thousand repetitions situated in the mass of syllables on the forehead."
+   "plain_english": "One who has acted offers a hundred-thousand, situated in the mass of forehead syllables, to the god-worshipped."
   }
  ]
 }
