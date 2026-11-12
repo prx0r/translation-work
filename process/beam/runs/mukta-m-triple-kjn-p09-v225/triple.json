@@ -7,37 +7,37 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral element forming the count eighty-four thousand",
-     "morph": "numeral+compound-member"
+     "grounds": "numeral element forming a compound with 'sahasreṣu' to express a large quantity",
+     "morph": "compound-member"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative indicating the vast number in which beings are situated",
-     "morph": "n.loc.pl"
+     "grounds": "locative plural indicating the vast number in which the womb-mechanisms are counted",
+     "morph": "n.loc.pl.nt"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "in-womb-mechanisms",
-     "grounds": "compound denoting the devices or realms of birth",
-     "morph": "compound: yoni+womb+first, yantra+mechanism+second; n.loc.pl"
+     "grounds": "compound of 'yoni' (womb/source) and 'yantra' (mechanism/diagram) in locative plural",
+     "morph": "n.loc.pl.nt, compound"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "describes the afflicted condition of beings in those realms",
-     "morph": "m.nom.pl; past-participle; root pīḍ"
+     "grounds": "past passive participle describing beings subjected to suffering",
+     "morph": "ppp.nom.pl.m, √pīḍ"
     }
    ],
-   "question": "What condition afflicts beings within the eighty-four thousand womb-mechanisms?",
+   "question": "What is the extent of torment endured within the mechanisms of wombs?",
    "premises": [
-    "There exist eighty-four thousand womb-mechanisms.",
-    "Beings are situated within these womb-mechanisms.",
-    "These beings are described as tormented."
+    "The count reaches eighty-four thousands.",
+    "These thousands are womb-mechanisms.",
+    "Beings are tormented within these womb-mechanisms."
    ],
-   "inference": "Beings located in the eighty-four thousand womb-mechanisms suffer torment.",
+   "inference": "Torment is experienced across an immense multitude of eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The implied subject of pīḍitāḥ is not explicitly stated in this verse but is understood from context."
+    "The subject experiencing torment is implied from context rather than explicitly stated in this verse."
    ],
    "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
