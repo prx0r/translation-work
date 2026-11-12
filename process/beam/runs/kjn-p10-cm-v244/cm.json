@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound-member",
-   "grounds": "first member of compound listing signs of aging"
+   "morph": "compound=balī+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "palita",
-   "morph": "compound-member",
-   "grounds": "second member of compound listing signs of aging"
+   "morph": "compound=palita+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "nāśam",
-   "morph": "m.acc.sg",
-   "grounds": "first result listed"
+   "morph": "compound=balī-palita-nāśam+final, m.acc.sg",
+   "grounds": "first result"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle connecting results"
+   "grounds": "connecting particle"
   },
   {
    "lemma": "sudūrāt",
-   "morph": "(indecl.)",
-   "grounds": "adverb indicating distance of seeing"
+   "morph": "n.abl.sg",
+   "grounds": "manner or distance"
   },
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "second result listed"
+   "grounds": "second result"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "adverb linking results"
+   "grounds": "connective adverb"
   }
  ]
 }

@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying hearing"
+   "morph": "compound=dūra+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound-member",
-   "grounds": "first member of compound naming knowledge"
+   "morph": "compound=āśravaṇa+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "vijñānaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "first attainment listed"
+   "morph": "compound=dūra-āśravaṇa-vijñānaṃ+final, n.nom.sg",
+   "grounds": "first accomplishment"
   },
   {
    "lemma": "pāśa",
-   "morph": "compound-member",
-   "grounds": "first member of compound naming paralysis"
+   "morph": "compound=pāśa+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "stobham",
-   "morph": "m.acc.sg",
-   "grounds": "second attainment listed"
+   "morph": "compound=pāśa-stobham+final, m.acc.sg",
+   "grounds": "second accomplishment"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "adverb linking attainments"
+   "grounds": "connective adverb"
   },
   {
    "lemma": "priye",

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 122,
- "question": "How should the vital air be drawn in at the root of the tongue and palate?",
+ "question": "Where must the air be placed, and how must it be drawn, to fulfill the stated practice?",
  "premises": [
-  "The locus is the root of tongue and palate",
-  "The breath is to be positioned there",
-  "The breath should be drawn in slowly"
+  "The air is to be made or placed at the root of the tongue and palate.",
+  "Having done so, one should drink the air.",
+  "That drinking is to be done slowly."
  ],
- "inference": "One should place the breath at the root of the tongue and palate and slowly drink in the air.",
- "uncertainties": [],
- "plain_english": "...having placed the breath at the root of the tongue and palate, should slowly drink in the air."
+ "inference": "Having placed the air at the root of the tongue and palate, one should drink it slowly.",
+ "uncertainties": [
+  "The goal of this practice is not stated in these tokens."
+ ],
+ "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it slowly."
 }

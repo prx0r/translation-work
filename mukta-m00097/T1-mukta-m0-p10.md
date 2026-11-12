@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[niyojya](niyojya) [dahanāgāre](dahanāgāre) [candrasūryakalālaye](candrasūryakalālaye)
+[having-placed](niyojya) [in-fire-abode](dahanāgāre) [moon+sun+digit+abode](candrasūryakalālaye)
 
 ## mukta-m0-p10-v227
-[tad-antaḥ](tadantaḥ) [pratimām](pratimāṃ) [likhet](likhed) [iti](iti) [tātparyārthaḥ](tātparyārthaḥ)
+[within-that](tadantaḥ) [image](pratimāṃ) [one-should-draw](likhet) [thus](iti) [purport+meaning](tātparyārthaḥ)
 
 ## mukta-m0-p10-v228
-[dūrīkṛta](dūrīkṛta) [sva-cāritra](svacāritra) [bhaya](bhaya) [lajjā](lajjā) [anayā](anayā) [aṅkuśām](aṅkuśām)
+[removed+own+conduct+fear+shame+hook](dūrīkṛtasvacāritrabhayalajjānayāṅkuśām)
 
 ## mukta-m0-p10-v229
-[vapra](vapra) [prākāra](prākāra) [niviḍa](niviḍa) [nadī](nadī) [yantra](yantra) [surakṣitām](surakṣitām)
+[rampart+wall+dense+river+device+well-protected](vapraprākāraniviḍanadīyantrasurakṣitām)
 
 ## mukta-m0-p10-v230
-[mano-dhika](manodhika) [mahā-mantra](mahāmantra) [vegena](vegena) [apahṛta](apahṛtāṃ) [aṃśukām](aṃśukām)
+[mind+surpassing+great+mantra+force+snatched-garment](manodhikamahāmantravegenāpahṛtāṃśukām)
 
 ## mukta-m0-p10-v231
-[likhitām](likhitām) [iva](iva) [niḥsaṃjñām](niḥsaṃjñām) [iva](iva) [pramathitām](pramathitām) [iva](iva)
+[drawn+as-if](likhitāmiva) [unconscious+as-if](niḥsaṃjñāmiva) [crushed+as-if](pramathitāmiva)
 
 ## mukta-m0-p10-v232
-[galitām](galitām) [iva](iva) [saṃbhinnām](saṃbhinnām) [iva](iva) [ākulita](ākulita) [mānasām](mānasām)
+[fallen+as-if](galitāmiva) [broken+as-if](saṃbhinnāmiva) [agitated+mind](ākulitamānasām)
 
 ## mukta-m0-p10-v233
-[bhramantīm](bhramantīm) [ānayet](ānayen) [nārīm](nārīṃ) [yojanānām](yojanānāṃ) [śatāt](śatād) [api](api)
+[wandering](bhramantīm) [one-should-bring](ānayet) [woman](nārīṃ) [from-yojanas](yojanānāṃ) [hundred+even](śatādapi)
 
 ## mukta-m0-p10-v234
-[dhārayet](dhārayed) [bāhu-mūle](bāhumūle) [yaḥ](yastu) [abadhyaḥ](abadhyaḥ) [sarva-jantuṣu](sarvajantuṣu)
+[should-wear](dhārayed) [on-arm-root](bāhumūle) [who](yaḥ) [he](tu) [unassailable](abadhyaḥ) [by-all-beings](sarvajantuṣu)
 
 ## mukta-m0-p10-v235
-[candanāguru-karpūraiḥ](candanāgurukarpūrair) [ajarā](ajarā) [amaratām](amaratāṃ) [labhet](labhet)
+[with-sandal+aloewood+camphor](candanāgurukarpūraiḥ) [freedom-from-old-age+immortality](ajarāmaratāṃ) [one-obtains](labhet)
 
 ## mukta-m0-p10-v236
-[likhitam](likhitaṃ) [cakra-yogena](cakrayogena) [yasmin](yasmiṃs) [tasmin](tasmin) [api](api) [sthitam](sthitam)
+[written](likhitaṃ) [by-circle+application](cakrayogena) [in-whatever](yasmiṃstasminn) [also](api) [situated](sthitam)
 
 ## mukta-m0-p10-v237
-[karoti](karoti) [sakalam](sakalaṃ) [lokam](lokam) [acirāt](acirāt) [pāda-vartinam](pādavartinam)
+[makes](karoti) [entire](sakalaṃ) [world](lokam) [in-no-long-time](acirāt) [foot-attendant](pādavartinam)
 
 ## mukta-m0-p10-v238
-[kāryam](kāryam) [iti](iti) [garbha-vākyam](garbhavākyam)
+[to-be-done](kāryam) [thus](iti) [parenthetical+statement](garbhavākyam)
 
 ## mukta-m0-p10-v239
-[ekam-ekam](ekamekam) [avaṣṭabhya](avaṣṭabhya) [sādhya-nāma](sādhyanāma) [akṣaram](akṣaraṃ) [priye](priye)
+[one-by-one](ekamekam) [having-grasped](avaṣṭabhya) [to-be-accomplished+name+syllable](sādhyanāmākṣaraṃ) [O-beloved](priye)
 
 ## mukta-m0-p10-v240
-[hema-madhya](hemamadhya) [gatām](gatāṃ) [kṛtvā](kṛtvā) [dhārayet](dhārayed) [vāmake](vāmake) [bhuje](bhuje)
+[in-gold+middle+placed](hemamadhyagatāṃ) [having-made](kṛtvā) [one-should-wear](dhārayed) [on-left](vāmake) [arm](bhuje)
 
 ## mukta-m0-p10-v241
-[rakṣām](rakṣām) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[protection](rakṣā) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p10-v242
-[karoti](karoti) [dāsa-bhūtam](dāsabhūtaṃ) [hi](hi) [trailokyam](trailokyaṃ) [sa-cara-acaram](sacarācaram)
+[makes](karoti) [slave-become](dāsabhūtaṃ) [indeed](hi) [triple-world](trailokyaṃ) [with-moving+unmoving](sacarācaram)
 
 ## mukta-m0-p10-v243
-[cauram](cauraṃ) [kesariṇam](kesariṇaṃ) [sapram](sapraṃ) [parama-mantra](paramantra) [mahā-graham](mahāgraham)
+[thief](cauraṃ) [lion](kesariṇaṃ) [snake](sapraṃ) [enemy+mantra+great+seizer](paramantramahāgraham)
 
 ## mukta-m0-p10-v244
-[bhūta](bhūta) [preta](preta) [piśācān](piśācāṃś) [ca](ca) [dhāritā](dhāritā) [cakra-rūpiṇī](cakrarūpiṇī)
+[ghosts+spirits+demons](bhūtapretapiśācān) [and](ca) [worn](dhāritā) [circle+formed](cakrarūpiṇī)
 
 ## mukta-m0-p10-v245
-[madhye](madhye) [catuṣpathe](catuṣpathe) [vā](vā) [api](api) [catur-dikṣu](caturdikṣu) [nidhāpayet](nidhāpayet)
+[in-middle](madhye) [or](vāpi) [at-crossroads](catuṣpathe) [in-four+directions](caturdikṣu) [one-should-place](nidhāpayet)
 
 ## mukta-m0-p10-v246
-[purāṇām](purāṇām) [evam](evam) [anyatra](anyatrāpi) [api](api) [nidhāpayet](nidhāpayediti) [iti](iti) [yantram](yantram)
+[of-cities](purāṇām) [thus](evam) [elsewhere+also](anyatrāpi) [one-should-place](nidhāpayet) [thus](iti) [diagram](yantram)
 
 ## mukta-m0-p10-v247
-[yoṣitām](yoṣitāṃ) [ca](ca) [viśeṣeṇa](viśeṣeṇa) [tvad-ṛṣṭānām](tvadṛṣṭānām) [api](api) [īśvari](īśvari)
+[of-women](yoṣitāṃ) [and](ca) [especially](viśeṣeṇa) [of-unseen+even](tvadṛṣṭānām) [also](api) [O-goddess](īśvari)
 
 ## mukta-m0-p10-v248
-[catuḥ-samudra](catuḥsamudra) [paryantām](paryantāṃ) [jvalantīm](jvalantīṃ) [ca](cāpi) [api](api) [cintayet](cintayet)
+[up-to-four+oceans](catuḥsamudraparyantāṃ) [blazing](jvalantīṃ) [and](ca) [also](api) [one-should-visualize](cintayet)
 
 ## mukta-m0-p10-v249
-[pṛthvīm](pṛthvīm) [iti](iti) [arthāt](arthāt) [pūrvavat](pūrvavat) [nāma-lekhana](nāmalekhana) [pūrvam](pūrvameva) [eva](eva)
+[earth](pṛthvīm) [thus](iti) [by-implication](arthāt) [as-before](pūrvavat) [name+writing+preceded+indeed](nāmalekhanapūrvameva)
 
 ## mukta-m0-p10-v250
-[dṛṣṭyā](dṛṣṭyā) [eva](eva) [ākarṣayet](ākarṣayet) [lokam](lokam) [dṛṣṭyā](dṛṣṭyā) [eva](eva) [kurute](kurute) [vaśam](vaśam)
+[by-sight+alone](dṛṣṭyaiva) [one-attracts](ākarṣayet) [world](lokaṃ) [by-sight+alone](dṛṣṭyaiva) [makes](kurute) [subjugation](vaśam)

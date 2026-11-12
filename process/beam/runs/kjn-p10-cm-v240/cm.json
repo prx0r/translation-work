@@ -5,17 +5,17 @@
   {
    "lemma": "dvitīyam",
    "morph": "n.nom.sg",
-   "grounds": "ordinal qualifier of lotus or wheel"
+   "grounds": "ordinal adjective"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing petals"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "patram",
-   "morph": "n.nom.sg",
-   "grounds": "second member of compound describing lotus"
+   "morph": "compound=aṣṭa-patram+final, n.nom.sg",
+   "grounds": "describes wheel or lotus"
   },
   {
    "lemma": "tu",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "teja",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing meditation"
+   "morph": "compound=teja+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound-member",
-   "grounds": "second member of compound indicating illumination"
+   "morph": "compound=dhyāna+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "sudīpitam",
-   "morph": "n.nom.sg.past-participle",
-   "grounds": "past participle qualifying the lotus"
+   "morph": "compound=teja-dhyāna-sudīpitam+final, n.nom.sg, ppp/su-√dīp",
+   "grounds": "describes the second wheel"
   }
  ]
 }

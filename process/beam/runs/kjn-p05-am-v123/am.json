@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What result follows from practicing this breath technique continuously for one year?",
+ "question": "Under what condition of practice over time are old age and death destroyed?",
  "premises": [
-  "The practice is sustained for one year",
-  "Old age and death are the targets",
-  "The practice brings about their destruction"
+  "Practice is undertaken for one year.",
+  "When that practice has been done, a condition holds.",
+  "Under that condition, old age and death are destroyed."
  ],
- "inference": "When practiced for one year, this technique destroys old age and death.",
- "uncertainties": [],
- "plain_english": "When this is practiced for one year, old age and death are destroyed."
+ "inference": "When the practice has been carried out for one year, old age and death are destroyed.",
+ "uncertainties": [
+  "The nature of the practice is not specified here."
+ ],
+ "plain_english": "When practiced for one year, old age and death are destroyed."
 }

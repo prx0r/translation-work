@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 217,
- "question": "What claim about the transmission of the two-syllable arrangement is at stake in prescribing that it be given among others?",
+ "question": "What arrangement should be given to others according to this instruction?",
  "premises": [
-  "The two-syllable arrangement is a defined teaching.",
-  "It is to be given in the context of others.",
-  "The action is prescribed as a causative giving."
+  "An arrangement of two syllables is specified",
+  "It should be given",
+  "The recipients are others"
  ],
- "inference": "The two-syllable arrangement is prescribed to be transmitted in the specified context among others.",
- "uncertainties": [],
- "plain_english": "One should cause the arrangement of the two syllables to be given among others."
+ "inference": "The arrangement of two syllables should be given to others.",
+ "uncertainties": [
+  "The exact sense of anyanteṣu is somewhat unclear without wider context."
+ ],
+ "plain_english": "One should give the arrangement of two syllables to others."
 }

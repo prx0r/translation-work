@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[vajra-prastāriṇī](vajraprastāriṇī) [bhoga-vatī](bhogavatī) [padma-vatī](padmāvatī) [tathā](tathā)
+[vajra-stretcher](vajraprastāriṇī) [bhogavatī](bhogavatī) [padmāvatī](padmāvatī) [likewise](tathā)
 
 ## mukta-m0-p03-v52
-[a-ghorā](aghorā) [rāja-mātaṅgī](rājamātaṅgī) [mātaṅgī](mātaṅgī) [hiṃgulā-ambikā](hiṃgulāmbikā)
+[not-terrible](aghorā) [royal-mātaṅgī](rājamātaṅgī) [mātaṅgī](mātaṅgī) [hiṅgulā-mother](hiṃgulāmbikā)
 
 ## mukta-m0-p03-v53
-[sāmānyataḥ](sāmānyataḥ) [chinna-yoktaḥ](chinnayoktaḥ) [viśeṣaḥ](viśeṣo) [bahu](bahu) [tatra](tatra) [ca](ca)
+[generally](sāmānyataḥ) [of-chinnā-stated](chinnayoktaḥ) [distinction](viśeṣo) [much](bahu) [there](tatra) [and](ca)
 
 ## mukta-m0-p03-v54
-[deveśa](deveśa) [śrotum-icchāmi](śotumicchāmi) [siddha-vidyā-ādi-nirṇayam](siddhavidyādinirṇayam)
+[p. 5)](p. 5)) [o-lord-of-gods](deveśa) [to-hear+I-wish](śotumicchāmi) [siddha-vidyā+etc.+determination](siddhavidyādinirṇayam)
 
 ## mukta-m0-p03-v55
-[vidyā-mantra-krameṇa-eva](vidyāmaṃtrakrameṇaiva) [dvidhā](dvidhā) [tātiḥ](tātiḥ) [prakīrtitā](prakīrtitā)
+[vidyā-mantra+sequence+by](vidyāmaṃtrakrameṇaiva) [twofold](dvidhā) [expansion](tātiḥ) [is-declared](prakīrtitā)
 
 ## mukta-m0-p03-v56
-[catur-yuga-krameṇa-eva](caturyugakrameṇaiva) [bheda-bhedāntaram](bhedabhedāntaraṃ) [śive](śive)
+[four-yuga+sequence+by](caturyugakrameṇaiva) [division+difference+within](bhedabhedāntaraṃ) [o-śiva](śive)
 
 ## mukta-m0-p03-v57
-[siddha-vidyā](siddhavidyā) [maheśāni](maheśāni) [tri-śaktiḥ+bagalā](triśaktirbagalā) [śive](śive)
+[siddha-vidyā](siddhavidyā) [o-great-goddess](maheśāni) [three-powered](triśaktir) [bagalā](bagalā) [o-śiva](śive)
 
 ## mukta-m0-p03-v58
-[dhūmāvatī](dhūmāvatī) [ca](ca) [vidyā](vidyā) [syāt+tretāyāṃ](syāttretāyāṃ) [śṛṇu](śṛṇu) [pārvati](pārvati)
+[dhūmāvatī](dhūmāvatī) [and](ca) [vidyā](vidyā) [should-be](syāt) [in-tretā](tretāyāṃ) [hear](śṛṇu) [o-pārvatī](pārvati)
 
 ## mukta-m0-p03-v59
-[mātaṅgī](mātaṅgī) [bhuvanā](bhuvanā) [lakṣmīḥ+mahāvidyāḥ](lakṣmīrmahāvidyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+[mātaṅgī](mātaṅgī) [bhuvanā](bhuvanā) [lakṣmī](lakṣmīr) [great-vidyās](mahāvidyāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p03-v60
-[dvāpare](dvāpare) [kālikā](kālikā) [tārā](tārā) [rocinī](rocinī) [bhairavī](bhairavī) [tathā](tathā)
+[in-dvāpara](dvāpare) [kālikā](kālikā) [tārā](tārā) [rocinī](rocinī) [bhairavī](bhairavī) [likewise](tathā)
 
 ## mukta-m0-p03-v61
-[dhūmāvatī](dhūmāvatī) [mahāvidyā](mahāvidyā) [mātaṅgī](mātaṅgī) [kamalā](kamalā) [tathā](tathā)
+[dhūmāvatī](dhūmāvatī) [great-vidyā](mahāvidyā) [mātaṅgī](mātaṅgī) [kamalā](kamalā) [likewise](tathā)
 
 ## mukta-m0-p03-v62
-[vidyātvena](vidyātvena) [maheśāni](maheśāni) [kalau](kalau) [kālī](kālī) [tu](tu) [kevalā](kevalā)
+[as-vidyā](vidyātvena) [o-great-goddess](maheśāni) [in-kali](kalau) [kālī](kālī) [indeed](tu) [alone](kevalā)
 
 ## mukta-m0-p03-v63
-[sundarī](sundarī) [bhairavī](bhairavī) [lakṣmīḥ](lakṣmīrmātaṅgī) [mātaṅgī](mātaṅgī) [bhuvaneśvarī](bhuvaneśvarī)
+[sundarī](sundarī) [bhairavī](bhairavī) [lakṣmī](lakṣmīr) [mātaṅgī](mātaṅgī) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p03-v64
-[vidyātvena](vidyātvena) [maheśāni](maheśāni) [kalau](kalau) [saṃkīrtitā](saṃkīrtitā) [mayā](mayā)
+[as-vidyā](vidyātvena) [o-great-goddess](maheśāni) [in-kali](kalau) [proclaimed](saṃkīrtitā) [by-me](mayā)
 
 ## mukta-m0-p03-v65
-[kālī](kālī) [tārā](tārā) [mahāvidyā](mahāvidyā) [ṣoḍaśī](ṣoḍaśī) [bhuvaneśvarī](bhuvaneśvarī)
+[kālī](kālī) [tārā](tārā) [great-vidyā](mahāvidyā) [ṣoḍaśī](ṣoḍaśī) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p03-v66
-[bagalā](bagalā) [siddha-vidyā](siddhavidyā) [ca](ca) [mātaṅgī](mātaṅgī) [kamalā-ambikā](kamalāmbikā)
+[bagalā](bagalā) [siddha-vidyā](siddhavidyā) [and](ca) [mātaṅgī](mātaṅgī) [kamalā-mother](kamalāmbikā)
 
 ## mukta-m0-p03-v67
-[etāḥ](etā) [eva](eva) [mahāvidyāḥ](mahavidyāḥ) [tri-yugam](triyugaṃ) [vyāpya](vyāpya) [saṃsthitāḥ](saṃsthitāḥ)
+[these](etā) [indeed](eva) [great-vidyās](mahavidyāḥ) [three-yugas](triyugaṃ) [pervading](vyāpya) [abiding](saṃsthitāḥ)
 
 ## mukta-m0-p03-v68
-[sādhitā](sādhitā) [kāla-nāthena](kālanāthena) [pratyakṣā](pratyakṣā) [kālikā](kālikā) [kalau](kalau)
+[accomplished](sādhitā) [by-kālanātha](kālanāthena) [manifest](pratyakṣā) [kālikā](kālikā) [in-kali](kalau)
 
 ## mukta-m0-p03-v69
-[saḥ](sa) [cakṣuṣā](cakṣuṣā) [vinā](vinā) [rūpam](rūpaṃ) [darpaṇe](darpaṇe) [draṣṭum-icchati](draṣṭumicchati)
+[he](sa) [with-eye](cakṣuṣā) [without](vinā) [form](rūpaṃ) [in-mirror](darpaṇe) [to-see+wishes](draṣṭumicchati)
 
 ## mukta-m0-p03-v70
-[saḥ](sa) [hi](hi) [śīta-nivṛty-arthaṃ](śītanivṛtyarthaṃ) [hima-śailam](himaśailaṃ) [niṣevate](niṣevate)
+[he](sa) [indeed](hi) [cold+cessation+for](śītanivṛtyarthaṃ) [snow-mountain](himaśailaṃ) [resorts-to](niṣevate)
 
 ## mukta-m0-p03-v71
-[saḥ](sa) [bhojanam](bhojanaṃ) [vinā](vinā) [nūnam](nūnaṃ) [kṣut-nivṛttim-abhīpsati](kṣunnivṛttimabhīpsati)
+[he](sa) [food](bhojanaṃ) [without](vinā) [surely](nūnaṃ) [hunger+cessation](kṣunnivṛttim) [desires](abhīpsati)
 
 ## mukta-m0-p03-v72
-[saḥ](sa) [ca](ca) [śaktim](śaktiṃ) [vinā](vinā) [devi](devi) [manasā](manasā) [yathā](yathā)
+[he](sa) [and](ca) [power](śaktiṃ) [without](vinā) [o-goddess](devi) [with-mind](manasā) [*](*) [*](*) [as](yathā)
 
 ## mukta-m0-p03-v73
-[saḥ](sa) [siddhānnam](siddhānnaṃ) [parityajya](parityajya) [tṛṇāt](tṛṇādbhojanamicchati) [bhojanam](bhojanam) [icchati](icchati)
+[he](sa) [siddha-food](siddhānnaṃ) [abandoning](parityajya) [from-grass+eating](tṛṇādbhojanam) [wishes](icchati)
 
 ## mukta-m0-p03-v74
-[saḥ](sa) [tu](tu) [duḥkha-nivṛty-arthe](duḥkhanivṛtyarthe) [pāpāni](pāpāni) [kurute](kurute) [sadā](sadā)
+[he](sa) [indeed](tu) [suffering+cessation+for](duḥkhanivṛtyarthe) [sins](pāpāni) [does](kurute) [always](sadā)
 
 ## mukta-m0-p03-v75
-[yuga-traye-api](yugatraye'pi) [deveśi](deveśi) [kalipūrveṣu](kalipūrveṣu) [tattvataḥ](tattvataḥ)
+[in-three-yugas](yugatraye'pi) [o-lord-of-gods](deveśi) [in-kali+preceding](kalipūrveṣu) [in-truth](tattvataḥ)

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protection against poison results from mastery of this yogic practice?",
+ "question": "Under what condition does poison fail to enter the body, even in the case of a bite?",
  "premises": [
-  "The practitioner may be bitten by great serpents",
-  "Poison would normally enter the body",
-  "The practice prevents poison from taking effect"
+  "Poison does not enter the body.",
+  "This holds even if one has been bitten.",
+  "The biting is by great serpents."
  ],
- "inference": "Through this practice, poison does not enter the body even if one is bitten by great serpents.",
- "uncertainties": [],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "uncertainties": [
+  "The reason for this immunity is not stated in these tokens."
+ ],
+ "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }

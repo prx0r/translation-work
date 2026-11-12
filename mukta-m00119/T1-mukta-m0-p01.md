@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[star](tārā) [section](khaṇḍaḥ) [chapter](khaṇḍaḥ) [portion](khaṇḍaḥ)
+[tārā+section](tārākhaṇḍaḥ)
 
 ## mukta-m0-p01-v2
-[lord](kādihādimatādhīśe) [of](kādihādimatādhīśe) [sixty](ṣaṣṭi) [siddhis](siddhi) [showing](pradarśini)
+[kādi+hādi+doctrine+lords](kādihādimatādhīśe) [sixty+siddhi+revealer](ṣaṣṭisiddhipradarśini)
 
 ## mukta-m0-p01-v3
-[before](pūrvaṃ) [indicated](saṃsūcitaṃ) [goddess](devi) [not](na) [to-me](mahyaṃ) [told](kathitaṃ) [by-you](tvayā)
+[previously](pūrvaṃ) [indicated](saṃsūcitaṃ) [o-goddess](devi) [not](na) [to-me](mahyaṃ) [told](kathitaṃ) [by-you](tvayā)
 
 ## mukta-m0-p01-v4
-[secret](rahasyaṃ) [all-hidden](sarvagopyaṃ) [that](yat) [indeed](tadeva) [spoken](kathyate) [listen](śṛṇu)
+[secret](rahasyaṃ) [all+to-be-concealed](sarvagopyaṃ) [which](yat) [that+indeed](tadeva) [is-told](kathyate) [listen](śṛṇu)
 
 ## mukta-m0-p01-v5
-[spoken](gaditaṃ) [million](niyutaṃ) [god](deva) [that](tadeva) [lakh](lakṣa) [indicating](vācakam)
+[spoken](gaditaṃ) [ten-million](niyutaṃ) [o-god](deva) [that+indeed](tadeva) [hundred-thousand+denoting](lakṣavācakam)
 
 ## mukta-m0-p01-v6
-[crore](koṭiś) [and](ca) [ten-crore](daśakoṭiś) [and](ca) [arbuda](tvarbudaṃ) [and](ca) [ten-arbuda](daśārbudaṃ)
+[ten-million](koṭiśca) [hundred-million](daśakoṭiśca) [billion](tvarbudaṃ) [and](ca) [ten-billion](daśārbudaṃ)
 
 ## mukta-m0-p01-v7
-[ocean](jaladhiś) [and](ca) [end-middle](antamadhyaṃ) [and](ca) [multitude](vṛndam) [lotus](abjaṃ) [then](tataḥ) [beyond](param)
+[ocean](jaladhiścāntamadhyaṃ) [and](ca) [end+middle](anta+madhyaṃ) [and](ca) [multitude](vṛndamabjaṃ) [lotus](abjaṃ) [thereafter](tataḥ) [further](param)
 
 ## mukta-m0-p01-v8
-[conch](śaṃkhaś) [and](ca) [eva](eva) [great-conch](mahāśaṃkhaḥ) [lotus](padmaṃ) [and](ca) [great-lotus](mahāpadmakam)
+[conch](śaṃkhaścaiva) [and+indeed](ca+eva) [great+conch](mahāśaṃkhaḥ) [lotus](padmaṃ) [and](ca) [great+lotus](mahāpadmakam)
 
 ## mukta-m0-p01-v9
-[makara](makaraḥ) [tortoise](kacchapaś) [and](ca) [eva](eva) [parārdha](parārdhaṃ) [then](tadanantaram)
+[makara](makaraḥ) [tortoise](kacchapaścaiva) [and+indeed](ca+eva) [highest-number](parārdhaṃ) [after+that](tadanantaram)
 
 ## mukta-m0-p01-v10
-[ananta](anantaṃ) [that](tattad) [before](agre) [would-be](syād) [thus](ityuktaṃ) [kālikā-āgame](kālikāgame)
+[infinite](anantaṃ) [that+that+end](tattadagre) [should-be](syādityuktaṃ) [thus+said](iti+uktaṃ) [in-kālikā+āgama](kālikāgame)
 
 ## mukta-m0-p01-v11
-[āgama-grantha-count](āgamagranthasaṃkhyā) [and](ca) [spoken](kathyate) [listen](śṛṇu) [now](sāmpratam)
+[āgama+text+number](āgamagranthasaṃkhyā) [and](ca) [is-told](kathyate) [listen](śṛṇu) [now](sāmpratam)
 
 ## mukta-m0-p01-v12
-[one](ekaṃ) [ten](daśaṃ) [hundred](śataṃ) [known](jñeyaṃ) [thousand](sahasraṃ) [million](niyutaṃ) [thus](tathā)
+[one](ekaṃ) [ten](daśaṃ) [hundred](śataṃ) [to-be-known](jñeyaṃ) [thousand](sahasraṃ) [ten-thousand](niyutaṃ) [likewise](tathā)
 
 ## mukta-m0-p01-v13
-[conch](śaṅkhaṃ) [lotus](padmaṃ) [ocean](samudro) [then](atha) [middle](madhyamaṃ) [limit](vāntyam) [eva](eva) [and](ca)
+[conch](śaṅkhaṃ) [lotus](padmaṃ) [ocean](samudro'tha) [then](atha) [middle](madhyamaṃ) [or+end](vāntyameva) [indeed](eva) [and](ca)
 
 ## mukta-m0-p01-v14
-[ten-increasing](daśottara) [order](krameṇa) [eva](eva) [count](saṃkhyā) [characteristic-collection](lakṣaṇasaṃgrahe)
+[ten+higher+sequence](daśottarakrameṇaiva) [indeed](eva) [number](saṃkhyā) [definition+compilation](lakṣaṇasaṃgrahe)
 
 ## mukta-m0-p01-v15
-[that](saiva) [verse](śloka) [thus](iti) [spoken](gaditaḥ) [tārā-eye-born](tārānetrasamudbhavaḥ)
+[that+indeed](saiva) [verse](śloka+iti) [thus](iti) [declared](gaditastārānetrasamudbhavaḥ) [tārā+eye+born](tārā+netra+samudbhavaḥ)
 
 ## mukta-m0-p01-v16
-[tantras](taṃtrāṇi) [and](ca) [oceans](tvarṇavaś) [and](ca) [eva](eva) [crest-jewel](cūḍāmaṇi) [hundred-three](śatatrayam)
+[tantras](taṃtrāṇi) [and+ocean](tvarṇavaścaiva) [and](ca) [indeed](eva) [crest-jewel+three-hundred](cūḍāmaṇiśatatrayam)
 
 ## mukta-m0-p01-v17
-[kāmadhenu](kāmadhenuḥ) [pārijāta](pārijātaḥ) [and](tvam) [amṛta](amṛtaṃ) [mirror](darpaṇaṃ) [thus](tathā)
+[kāmadhenu](kāmadhenuḥ) [pārijāta](pārijātastvamṛtaṃ) [and](tu) [nectar](amṛtaṃ) [mirror](darpaṇaṃ) [likewise](tathā)
 
 ## mukta-m0-p01-v18
-[sāṃkhyāyana-return](sāṃkhyāyanāvartanatvāt) [thus](tathā) [root-avatar](mūlāvatārakāḥ)
+[sāṃkhyāyana+repetition](sāṃkhyāyanāvartanatvāttathā) [and+thus](tathā) [root+descents](mūlāvatārakāḥ)
 
 ## mukta-m0-p01-v19
-[great-secret](bṛhadrahasya) [ujjābāla](ujjābāle) [heart](hṛdayāni) [many](bahūni) [and](ca)
+[bṛhad+rahasya+ujjābāla](bṛhadrahasyojjābāle) [hearts](hṛdayāni) [many](bahūni) [and](ca)
 
 ## mukta-m0-p01-v20
-[pātañjala-etc](pātaṃjalādikādīni) [thus](tathā) [sārasvata-etc](sārasvatādikāḥ)
+[pātañjala+etc.+ādi](pātaṃjalādikādīni) [likewise](tathā) [sārasvata+etc.](sārasvatādikāḥ)
 
 ## mukta-m0-p01-v21
-[great-named](bṛhatsaṃjñāni) [goddess-lord](deveśa) [according-to-yoga-order](yathāyogakrameṇa) [and](ca)
+[bṛhat+named](bṛhatsaṃjñāni) [o-lord-of-gods](deveśa) [according-to-fitness+sequence](yathāyogakrameṇa) [and](ca)
 
 ## mukta-m0-p01-v22
-[grantha](grantha) [name](nāma) [by-you](tvayā) [spoken](proktaṃ) [how-much](kiyat) [where](kutraṃ) [situated](sthitaṃ) [say](vad)
+[text](grantha) [name](nāma) [by-you](tvayā) [declared](proktaṃ) [how-much](kiyatkutraṃ) [where](kutraṃ) [situated](sthitaṃ) [tell](vad)
 
 ## mukta-m0-p01-v23
-[fifty](paṃcāśad) [indeed](vai) [great-ones](mahābhāraiḥ) [thirty-six](ṣaṭtriṃśat) [count](saṃkhyakaṃ) [earth](bhuvi)
+[fifty](paṃcāśadvai) [with-great+loads](mahābhāraiḥ) [thirty-six+numbered](ṣaṭtriṃśatsaṃkhyakaṃ) [on-earth](bhuvi)
 
 ## mukta-m0-p01-v24
-[thus](evam) [āgama-collection](āgamasandohaḥ) [spoken](kathitaste) [by-me](mayā) [to-you](tava)
+[thus](evamāgamasandohaḥ) [āgama+multitude](āgama+sandohaḥ) [told](kathitaste) [to-you](te) [by-me](mayā) [your](tava)
 
 ## mukta-m0-p01-v25
-[great-vīra](mahāvīraṃ) [pāśupata](pāśupataṃ) [vaiṣṇava](vaiṣṇavaṃ) [vīra-vaiṣṇava](vīravaiṣṇavam)
+[mahāvīra](mahāvīraṃ) [pāśupata](pāśupataṃ) [vaiṣṇava](vaiṣṇavaṃ) [vīra+vaiṣṇava](vīravaiṣṇavam)

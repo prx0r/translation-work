@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 110,
- "question": "What is the soul called at the very moment it leaves the body?",
+ "question": "Under what condition is the one in question called the supreme Śiva?",
  "premises": [
-  "The subject leaves the body",
-  "This departure is the decisive moment",
-  "At that moment a supreme designation applies"
+  "A referent is indicated by the demonstrative.",
+  "The condition given is merely the leaving of the body.",
+  "Under that condition, that referent is called the supreme Śiva."
  ],
- "inference": "Upon merely leaving the body, that soul is called the supreme Śiva.",
- "uncertainties": [],
- "plain_english": "As soon as it leaves the body, it is called the supreme Śiva."
+ "inference": "Upon merely leaving the body, that one is called the supreme Śiva.",
+ "uncertainties": [
+  "The identity of the demonstrative referent is not fixed by these tokens alone."
+ ],
+ "plain_english": "He, upon merely leaving the body, is called the supreme Śiva."
 }

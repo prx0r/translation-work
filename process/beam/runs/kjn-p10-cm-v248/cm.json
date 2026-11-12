@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing practice"
+   "morph": "compound=satata+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound-member",
-   "grounds": "second member of compound describing yoga"
+   "morph": "compound=abhyāsa+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "yogena",
-   "morph": "m.ins.sg",
-   "grounds": "instrumental means"
+   "morph": "compound=satata-abhyāsa-yogena+final, m.inst.sg",
+   "grounds": "means"
   },
   {
    "lemma": "dvi",
-   "morph": "compound-member",
-   "grounds": "first member of numerical compound"
+   "morph": "compound=dvi+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "second member of numerical compound"
+   "morph": "compound=aṣṭa+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound-member",
-   "grounds": "third member of compound describing form"
+   "morph": "compound=varṣa+third",
+   "grounds": "third member of compound"
   },
   {
    "lemma": "ākṛtiḥ",
-   "morph": "f.nom.sg",
-   "grounds": "subject that comes to be"
+   "morph": "compound=dvi-aṣṭa-varṣa-ākṛtiḥ+final, f.nom.sg",
+   "grounds": "subject or predicate"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "optative verb expressing result"
+   "morph": "3.sg.act-opt/√bhū",
+   "grounds": "optative verb"
   }
  ]
 }

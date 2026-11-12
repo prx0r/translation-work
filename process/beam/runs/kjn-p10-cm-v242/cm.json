@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "kruddhaḥ",
-   "morph": "m.nom.sg.past-participle",
-   "grounds": "condition of the subject"
+   "morph": "m.nom.sg, ppp/√krudh",
+   "grounds": "condition of the practitioner"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "contrastive particle"
   },
   {
    "lemma": "saṃharet",
-   "morph": "3.sg.optative-active √hṛ",
-   "grounds": "optative verb expressing power"
+   "morph": "3.sg.act-opt/sam-√hṛ",
+   "grounds": "optative verb"
   },
   {
    "lemma": "sarvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "adjective qualifying trailokyaṃ"
+   "grounds": "adjective modifying triple world"
   },
   {
    "lemma": "trailokyaṃ",
@@ -29,18 +29,18 @@
   },
   {
    "lemma": "sa",
-   "morph": "compound-member",
-   "grounds": "first member of compound indicating inclusion"
+   "morph": "compound=sa+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "cara",
-   "morph": "compound-member",
-   "grounds": "second member of compound describing world"
+   "morph": "compound=cara+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "acaram",
-   "morph": "n.acc.sg",
-   "grounds": "adjective qualifying trailokyaṃ"
+   "morph": "compound=sa-cara-acaram+final, n.acc.sg",
+   "grounds": "describes triple world"
   }
  ]
 }

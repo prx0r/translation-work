@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 231,
- "question": "How is the wheel quickly accomplished in the secret place?",
+ "question": "How is accomplishment attained quickly in the secret place, O Bhairava?",
  "premises": [
-  "A secret place is identified",
-  "The wheel is the object of accomplishment",
-  "Accomplishment occurs quickly"
+  "A secret place is mentioned.",
+  "The wheel is associated with this place.",
+  "Accomplishment occurs quickly there."
  ],
- "inference": "In the secret place, the wheel is quickly accomplished, O Bhairava",
- "uncertainties": [],
- "plain_english": "O Bhairava, tell how the wheel is quickly accomplished in the secret place."
+ "inference": "In the secret place, as a wheel, accomplishment is attained quickly.",
+ "uncertainties": [
+  "The exact syntactic relation of 'yathā cakraṃ' is ambiguous."
+ ],
+ "plain_english": "O Bhairava, tell how accomplishment is quickly attained in the secret place, as in the wheel."
 }

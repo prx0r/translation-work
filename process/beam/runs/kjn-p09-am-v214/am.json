@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 214,
- "question": "What claim about the classification of these yoginīs is at stake in listing them as all innate, all family-born, and all door-guardians?",
+ "question": "What additional categories of yoginis are enumerated in this arrangement?",
  "premises": [
-  "A class is described as all innate.",
-  "The same class is described as all family-born.",
-  "The same class is described as all door-guardians."
+  "All innate yoginis are named",
+  "All family-born yoginis are named",
+  "All door-guardian yoginis are named"
  ],
- "inference": "These yoginīs are presented under three comprehensive classifications simultaneously.",
- "uncertainties": [],
- "plain_english": "All are innate, all are family-born, all are door-guardians."
+ "inference": "The arrangement includes innate, family-born, and door-guardian yoginis.",
+ "uncertainties": [
+  "Exact grammatical agreement of sarvakulajā is slightly ambiguous in isolation."
+ ],
+ "plain_english": "All the innate ones, all those born of the family, and all the door-guardians."
 }
