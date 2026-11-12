@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "anena",
-   "morph": "n.ins.sg",
+   "morph": "n.inst.sg",
    "grounds": "instrumental demonstrative"
   },
   {
    "lemma": "jñāna+mātreṇa",
-   "morph": "n.ins.sg (jñāna+mātra)",
-   "grounds": "instrumental compound"
+   "morph": "n.inst.sg (compound)",
+   "grounds": "instrumental compound; internal sandhi at +"
   },
   {
    "lemma": "śrutena",
-   "morph": "n.ins.sg",
-   "grounds": "past passive participle"
+   "morph": "n.inst.sg (past-passive-participle)",
+   "grounds": "past passive participle in instrumental sense"
   },
   {
    "lemma": "ca",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "varānane",
-   "morph": "f.voc.sg (vara+ānana)",
-   "grounds": "vocative address; compound member"
+   "morph": "f.voc.sg (compound)",
+   "grounds": "vocative address; compound vara+ānana"
   }
  ]
 }
