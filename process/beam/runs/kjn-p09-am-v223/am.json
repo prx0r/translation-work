@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 223,
- "question": "By whom was the teaching concerning the mothers transmitted?",
+ "question": "Who transmitted the teaching concerning the mothers in this lineage?",
  "premises": [
-  "The mothers are the subject.",
-  "The goddess is addressed.",
-  "The sky-movers told it."
+  "The subject concerns the mothers",
+  "The sky-movers are the agents",
+  "The teaching was told"
  ],
- "inference": "The teaching concerning the mothers was transmitted by the sky-movers.",
- "uncertainties": [],
- "plain_english": "O goddess, O beloved, it was told again concerning the mothers by the sky-movers."
+ "inference": "The teaching concerning the mothers was told by the sky-movers.",
+ "uncertainties": [
+  "The exact content told about the mothers is not specified"
+ ],
+ "plain_english": "Again, O goddess, O beloved, it was told concerning the mothers by the sky-movers."
 }

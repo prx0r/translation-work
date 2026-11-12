@@ -53,7 +53,7 @@
 },
 {
 "surface": "dharme",
-"quick_gloss": "dharma"
+"quick_gloss": "in-dharma"
 },
 {
 "surface": "dharmeṇaiva",
@@ -85,16 +85,8 @@
 "quick_gloss": "but"
 },
 {
-"surface": "bahu",
-"quick_gloss": "many"
-},
-{
-"surface": "janma",
-"quick_gloss": "birth"
-},
-{
-"surface": "mānte",
-"quick_gloss": "end"
+"surface": "bahu+janmānte",
+"quick_gloss": "many+birth+end"
 },
 {
 "surface": "jñānam",
@@ -127,7 +119,7 @@
 },
 {
 "surface": "mahādevi",
-"quick_gloss": "great-goddess"
+"quick_gloss": "O-great-goddess"
 },
 {
 "surface": "satyaṃ",
@@ -171,7 +163,7 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "ityāha",
+"surface": "ity",
 "quick_gloss": "thus"
 },
 {
@@ -184,7 +176,7 @@
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "śiva"
+"quick_gloss": "Śiva"
 }
 ]
 },
@@ -205,7 +197,7 @@
 },
 {
 "surface": "mahāmāye",
-"quick_gloss": "great-illusion"
+"quick_gloss": "O-great-illusion"
 },
 {
 "surface": "sarvadā",
@@ -241,16 +233,8 @@
 "quick_gloss": "time"
 },
 {
-"surface": "dyūta",
-"quick_gloss": "dice"
-},
-{
-"surface": "krīḍā",
-"quick_gloss": "play"
-},
-{
-"surface": "ādinā",
-"quick_gloss": "and-so-on"
+"surface": "dyūta+krīḍādinā",
+"quick_gloss": "dice+play+etc"
 },
 {
 "surface": "sudhīḥ",
@@ -286,16 +270,8 @@
 "quick_gloss": "action"
 },
 {
-"surface": "bāhya",
-"quick_gloss": "external"
-},
-{
-"surface": "antara",
-"quick_gloss": "internal"
-},
-{
-"surface": "vibhedataḥ",
-"quick_gloss": "by-distinction"
+"surface": "bāhyāntara+vibhedataḥ",
+"quick_gloss": "external+internal+distinction"
 }
 ]
 },
@@ -397,24 +373,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "japa",
-"quick_gloss": "muttering"
-},
-{
-"surface": "yajño",
-"quick_gloss": "sacrifice"
+"surface": "japa+yajño",
+"quick_gloss": "recitation+sacrifice"
 },
 {
 "surface": "maheśāni",
-"quick_gloss": "great-goddess"
+"quick_gloss": "O-great-goddess"
 },
 {
-"surface": "mat",
-"quick_gloss": "my"
-},
-{
-"surface": "svarūpo",
-"quick_gloss": "own-form"
+"surface": "mat+svarūpo",
+"quick_gloss": "my+own-form"
 },
 {
 "surface": "na",
@@ -439,15 +407,11 @@
 },
 {
 "surface": "parameśāni",
-"quick_gloss": "supreme-goddess"
+"quick_gloss": "O-supreme-goddess"
 },
 {
-"surface": "jīvan",
-"quick_gloss": "living"
-},
-{
-"surface": "mukto",
-"quick_gloss": "liberated"
+"surface": "jīvan+mukto",
+"quick_gloss": "living+liberated"
 },
 {
 "surface": "na",
@@ -475,20 +439,12 @@
 "quick_gloss": "they"
 },
 {
-"surface": "japa",
-"quick_gloss": "of-muttering"
-},
-{
-"surface": "yajñasya",
-"quick_gloss": "sacrifice"
-},
-{
-"surface": "ṣoḍaśīm",
-"quick_gloss": "sixteenth"
+"surface": "japa+yajñasya",
+"quick_gloss": "of-recitation+sacrifice"
 },
 {
 "surface": "kalāṃ",
-"quick_gloss": "part"
+"quick_gloss": "a-part"
 },
 {
 "surface": "nārhanti",
@@ -497,6 +453,10 @@
 {
 "surface": "arhanti",
 "quick_gloss": "deserve"
+},
+{
+"surface": "ṣoḍaśīm",
+"quick_gloss": "sixteenth"
 }
 ]
 },
@@ -508,12 +468,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyāghrā",
-"quick_gloss": "tiger"
-},
-{
-"surface": "dyā",
-"quick_gloss": "and-others"
+"surface": "vyāghrādyā",
+"quick_gloss": "tiger+etc"
 },
 {
 "surface": "jantavo",
@@ -521,19 +477,19 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "goddess"
+"quick_gloss": "O-goddess"
 },
 {
 "surface": "tathaiva",
 "quick_gloss": "likewise"
 },
 {
-"surface": "kupitā",
-"quick_gloss": "angry"
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
-"surface": "ntarāḥ",
-"quick_gloss": "within"
+"surface": "kupitāntarāḥ",
+"quick_gloss": "angry+within"
 }
 ]
 },
@@ -546,11 +502,11 @@
 "tokens": [
 {
 "surface": "dānavā",
-"quick_gloss": "dānavas"
+"quick_gloss": "demons"
 },
 {
 "surface": "bhairavā",
-"quick_gloss": "bhairavas"
+"quick_gloss": "Bhairavas"
 },
 {
 "surface": "duṣṭā",
@@ -565,12 +521,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "śmaśāna",
-"quick_gloss": "cremation-ground"
-},
-{
-"surface": "vāsinaḥ",
-"quick_gloss": "dwellers"
+"surface": "śmaśāna+vāsinaḥ",
+"quick_gloss": "cremation-ground+dwellers"
 }
 ]
 },
@@ -607,7 +559,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "beloved"
+"quick_gloss": "O-beloved"
 }
 ]
 },
@@ -627,16 +579,12 @@
 "quick_gloss": "would-be"
 },
 {
-"surface": "śata",
-"quick_gloss": "hundred"
-},
-{
-"surface": "guṇaḥ",
-"quick_gloss": "times"
+"surface": "śata+guṇaḥ",
+"quick_gloss": "hundred+times"
 },
 {
 "surface": "sahasro",
-"quick_gloss": "thousand"
+"quick_gloss": "thousandfold"
 },
 {
 "surface": "mānaso",
@@ -644,7 +592,7 @@
 },
 {
 "surface": "mataḥ",
-"quick_gloss": "considered"
+"quick_gloss": "is-considered"
 }
 ]
 },
@@ -660,16 +608,8 @@
 "quick_gloss": "somewhat"
 },
 {
-"surface": "su",
-"quick_gloss": "well"
-},
-{
-"surface": "śravaṇa",
-"quick_gloss": "hearing"
-},
-{
-"surface": "upeta",
-"quick_gloss": "endowed"
+"surface": "su+śravaṇopeta",
+"quick_gloss": "good+hearing+endowed"
 },
 {
 "surface": "upāṃśu",
@@ -698,18 +638,18 @@
 },
 {
 "surface": "japo",
-"quick_gloss": "muttering"
+"quick_gloss": "recitation"
 },
 {
 "surface": "bāhyo",
 "quick_gloss": "external"
 },
 {
-"surface": "mānaso'",
+"surface": "mānaso",
 "quick_gloss": "mental"
 },
 {
-"surface": "bhyantaro",
+"surface": "abhyantaro",
 "quick_gloss": "internal"
 },
 {
@@ -727,7 +667,7 @@
 "tokens": [
 {
 "surface": "japena",
-"quick_gloss": "by-muttering"
+"quick_gloss": "by-recitation"
 },
 {
 "surface": "devatā",
@@ -764,11 +704,15 @@
 },
 {
 "surface": "japañ",
-"quick_gloss": "muttering"
+"quick_gloss": "recitation"
 },
 {
 "surface": "caiva",
 "quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "dhyānañ",
@@ -779,8 +723,12 @@
 "quick_gloss": "and"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "varānane",
-"quick_gloss": "fair-faced-one"
+"quick_gloss": "O-fair-faced-one"
 }
 ]
 },
@@ -801,19 +749,11 @@
 },
 {
 "surface": "deveśi",
-"quick_gloss": "lord-of-gods"
+"quick_gloss": "O-lord-of-gods"
 },
 {
-"surface": "bahu",
-"quick_gloss": "many"
-},
-{
-"surface": "janma",
-"quick_gloss": "birth"
-},
-{
-"surface": "ārjitena",
-"quick_gloss": "earned"
+"surface": "bahu+janmārjitena",
+"quick_gloss": "many+birth+earned"
 },
 {
 "surface": "ca",
@@ -829,12 +769,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma",
-"quick_gloss": "brahman"
-},
-{
-"surface": "jñānañ",
-"quick_gloss": "knowledge"
+"surface": "brahma+jñānañ",
+"quick_gloss": "Brahman+knowledge"
 },
 {
 "surface": "ca",
@@ -879,7 +815,7 @@
 },
 {
 "surface": "mahādevi",
-"quick_gloss": "great-goddess"
+"quick_gloss": "O-great-goddess"
 },
 {
 "surface": "kiṃ",
@@ -908,7 +844,7 @@
 "tokens": [
 {
 "surface": "plavaś",
-"quick_gloss": "plava"
+"quick_gloss": "Plava"
 },
 {
 "surface": "ca",
@@ -916,15 +852,19 @@
 },
 {
 "surface": "yavanaś",
-"quick_gloss": "yavana"
+"quick_gloss": "Yavana"
 },
 {
 "surface": "caiva",
 "quick_gloss": "and"
 },
 {
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
 "surface": "saumāraś",
-"quick_gloss": "saumāra"
+"quick_gloss": "Saumāra"
 },
 {
 "surface": "ca",
@@ -932,7 +872,7 @@
 },
 {
 "surface": "maheśvara",
-"quick_gloss": "great-lord"
+"quick_gloss": "O-great-lord"
 }
 ]
 }

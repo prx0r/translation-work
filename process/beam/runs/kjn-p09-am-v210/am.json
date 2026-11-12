@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 210,
- "question": "How should the teaching just given be received and ascertained?",
+ "question": "How should the teaching just given be ascertained with certainty?",
  "premises": [
-  "The teaching is declared without doubt by the speaker.",
-  "Ascertainment is required.",
-  "Ascertainment is to be made with devotion and reasoning."
+  "The teaching is declared without doubt",
+  "It is declared by the speaker",
+  "Ascertainment requires devotion and reasoning"
  ],
- "inference": "The teaching is to be accepted as certain through devotion joined with reasoning.",
- "uncertainties": [],
- "plain_english": "This has been declared by me without doubt; ascertain it with devotion and reasoning."
+ "inference": "The teaching should be ascertained without doubt through devotion and reasoning.",
+ "uncertainties": [
+  "The syntactic role of avadhāram is somewhat compressed"
+ ],
+ "plain_english": "This has indeed been declared by me without doubt; ascertain it with devotion and reasoning."
 }

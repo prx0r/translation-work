@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "aṣṭāṣṭakavidhānaṃ",
-   "morph": "n.acc.sg aṣṭa+aṣṭaka+vidhāna",
-   "grounds": "required knowledge"
+   "morph": "n.acc.sg compound",
+   "grounds": "compound naming the required knowledge; aṣṭa+aṣṭaka+vidhāna"
   },
   {
    "lemma": "tu",
@@ -15,12 +15,12 @@
   {
    "lemma": "jñātvā",
    "morph": "gerund jñā",
-   "grounds": "condition for success"
+   "grounds": "absolutive indicating prerequisite knowledge"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.act.pres sidh",
-   "grounds": "result"
+   "morph": "3.sg.act-pres sidh",
+   "grounds": "main verb stating attainment"
   },
   {
    "lemma": "na",
@@ -30,7 +30,7 @@
   {
    "lemma": "anyathā",
    "morph": "(indecl.)",
-   "grounds": "alternative condition"
+   "grounds": "indicates alternative condition"
   }
  ]
 }
