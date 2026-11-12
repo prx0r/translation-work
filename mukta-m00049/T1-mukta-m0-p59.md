@@ -11,16 +11,16 @@
 [with-wicked](duṣṭena) [with-mind](cetasā) [with-perverted](vikṛtena) [with-mind](manasā)
 
 ## mukta-m0-p59-v1454
-[in-solitary](virale) [in-deserted+place](nirjana+sthāne)
+[in-solitary](virale) [in-deserted+place](nirjana+sthāne) [||41](||) [41](41)
 
 ## mukta-m0-p59-v1455
-[in-another+house](anya+niketane) [in-another's+house](para+gṛhe)
+[in-another+house](anya+niketane) [in-another's+house](para+gṛhe) [||43](||) [43](43)
 
 ## mukta-m0-p59-v1456
 [then](tataḥ) [from-four](caturbhyaḥ) [from-years](varṣebhyaḥ) [above](ūrddhvam)
 
 ## mukta-m0-p59-v1457
-[one-should-urge](prerayet) [one-should-engage](pravartayet) [those](tān) [twenty+years+older](viṃśati+abda+adhikān) [sons](putrān)
+[one-should-urge](prerayet) [one-should-engage](pravartayet) [those](tān) [twenty+years+exceeding](viṃśati+abda+adhikān) [sons](putrān)
 
 ## mukta-m0-p59-v1458
 [relatives](jñātīn) [friends](mitrāṇi) [and-servants](bhṛtyān) [and](ca) [should-protect](pālayet) [should-satisfy](toṣayet) [householder](gṛhī)
@@ -29,10 +29,10 @@
 [guests](abhyāgatān) [and-neutral-persons](udāsīnān) [householder](gṛhasthaḥ) [should-protect](paripālayet)
 
 ## mukta-m0-p59-v1460
-[animal](paśuḥ) [indeed](eva) [he](saḥ) [to-be-known](vijñeyaḥ) [he](saḥ) [sinner](pāpī) [world+censured](loka+garhitaḥ)
+[animal](paśuḥ) [indeed](eva) [he](saḥ) [to-be-known](vijñeyaḥ) [he](saḥ) [sinner](pāpī) [by-world+censured](loka+garhitaḥ)
 
 ## mukta-m0-p59-v1461
-[attachment](āsaktim) [in-food](aśane) [in-clothing](vastre) [not+excessive](na+atiriktam) [one-should-practice](samācaret)
+[attachment](āsaktim) [in-food](aśane) [in-clothing](vastre) [not-excessive](na+atiriktam) [one-should-practice](saṃ+ācaret)
 
 ## mukta-m0-p59-v1462
 [clean](svacchaḥ) [humble](namraḥ) [pure](śuciḥ) [skillful](dakṣaḥ) [engaged](yuktaḥ) [one-should-be](syāt) [in-all+actions](sarva+karmasu)
@@ -41,13 +41,13 @@
 [despicable-ones](jugupsitān) [not](na) [one-should-respect](manyeta) [not](na) [one-should-disrespect](avamanyeta) [proud-ones](māninaḥ)
 
 ## mukta-m0-p59-v1464
-[by-living-together](sahavāsena) [by-reasonings](tarkaiḥ) [and](ca) [having-known](viditvā) [one-should-trust](viśvaset) [then](tataḥ)
+[by-living-together](saha+vāsena) [and-by-reasoning](tarkaiḥ) [and](ca) [having-known](viditvā) [one-should-trust](viśvaset) [then](tataḥ)
 
 ## mukta-m0-p59-v1465
-[friend+enemy+distinguished](mitra+amitra+bhinnān)
+[friend+foe+distinguished](mitra+amitra+bhinnān) [||48](||) [48](48)
 
 ## mukta-m0-p59-v1466
-[world+censured+state](loka+garhita+tvañ) [and](ca) [would-be](syāt) [thus](iti) [says](āha) [if](yadi) [etc.](ityādinā)
+[and-state-of-being-censured-by-world](loka+garhitatvam) [and](ca) [would-be](syāt) [thus](iti) [says](āha) [if](yadi) [etc.](ityādinā)
 
 ## mukta-m0-p59-v1467
 [attachment](āsaktim) [clinging](āsaṅgam) [excessive](atiriktam) [more](adhikam)
@@ -62,13 +62,13 @@
 [by-reasonings](tarkaiḥ) [by-deliberations](paryālocanaiḥ)
 
 ## mukta-m0-p59-v1471
-[one-should-show](pradarśayet) [one's-own+natures](ātma+bhāvān) [not](na) [indeed](eva) [dharma](dharmam) [one-should-transgress](vilaṅghayet)
+[one-should-display](pradarśayet) [one's-own+natures](ātma+bhāvān) [not](na) [indeed](eva) [dharma](dharmam) [one-should-transgress](vilaṅghayet)
 
 ## mukta-m0-p59-v1472
-[done](kṛtam) [which](yat) [for-help](upakārāya) [dharma+knower](dharma+jñaḥ) [not](na) [should-proclaim](prakāśayet)
+[done](kṛtam) [what](yat) [for-help](upakārāya) [dharma+knower](dharma+jñaḥ) [not](na) [should-proclaim](prakāśayet)
 
 ## mukta-m0-p59-v1473
-[with-superior](guruṇā) [with-inferior](laghunā) [and](ca) [even](api) [famous-one](yaśasvī) [not](na) [should-quarrel](vivādayet)
+[with-superior](guruṇā) [with-inferior](laghunā) [and](ca) [also](api) [famous-one](yaśasvī) [not](na) [should-quarrel](vivādayet)
 
 ## mukta-m0-p59-v1474
 [vice](vyasanam) [and](ca) [of-wicked+company](asatām+saṅgam) [false+hostility](mithyā+droham) [one-should-abandon](parityajet)

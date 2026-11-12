@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "bhavati",
-   "morph": "3.sg.present-act √bhū",
+   "morph": "3.sg.pres.act √bhū",
    "grounds": "assertion of result"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "na",
@@ -24,13 +24,13 @@
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "stem+compound",
-   "grounds": "number of months"
+   "morph": "compound:ṣaṇ+māsa+abhyantareṇa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "māsa",
-   "morph": "m.stem+compound",
-   "grounds": "time unit"
+   "morph": "compound:ṣaṇ+māsa+abhyantareṇa",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "abhyantareṇa",
@@ -40,7 +40,7 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "grounds": "emphatic particle"
   }
  ]
 }

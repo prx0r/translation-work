@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-with+to-be-uttered(sa+uccāryā) this(iyam) vedic(vaidikī) tantric(tāntrikī) and(ca) twilight-worship(sandhyā) to-be-performed(kartavyā)
+[with+uttered](स+उच्चार्य) [this](इयं) [vedic](वैदिकी) [tantric](तान्त्रिकी) [and](च) [twilight-worship](सन्ध्या) [should-be-performed](कर्तव्या)
 
 ## mukta-m0-p62-v1527
-household(gṛhyakaṃ) thing+collection(vastu+jātam) house+related(gṛha+sambandhi) all(sarvaṃ) thing(vastu)
+[household](गृह्यकं) [thing+collection](वस्तु+जातम्) [house+related](गृह+सम्बन्धि) [all](सर्वं) [thing](वस्तु)
 
 ## mukta-m0-p62-v1528
-well-known(prasiddhaṃ) deity+place(devatā+kṣetraṃ) sacred+ford(puṇya+tīrthaṃ) is-declared(prakīrtitam)
+[well-known](प्रसिद्धं) [deity+place](देवता+क्षेत्रं) [sacred+ford](पुण्य+तीर्थं) [is-declared](प्रकीर्तितम्)
 
 ## mukta-m0-p62-v1529
-for-hell(narakāya) becomes(bhavet) ford(tīrthaṃ) to-ford(tīrthāya) of-going(vrajatāṃ) of-men(nṛṇām)
+[for-hell](नरकाय) [becomes](भवेत्) [sacred-ford](तीर्थं) [for-sacred-ford](तीर्थाय) [of-those-going](व्रजतां) [of-men](नृणाम्)
 
 ## mukta-m0-p62-v1530
-not(na) indeed(eva) of-vows(vratānāṃ) restriction(niyamaḥ) of-husband(bhartuḥ) service(śuśrūṣaṇaṃ) without(vinā)
+[not](न) [indeed](एव) [of-vows](व्रतानां) [rule](नियमो) [of-husband](भर्तुः) [service](शुश्रूषणं) [without](विना)
 
 ## mukta-m0-p62-v1531
-therefore(tasmāt) with-whole+self(sarva+ātmanā) woman(nārī) husband+service(pati+sevāṃ) should-practice(samācaret)
+[therefore](तस्मात्) [with-whole+self](सर्वा+त्मना) [woman](नारी) [husband+service](पति+सेवां) [should-practice](समाचरेत्)
 
 ## mukta-m0-p62-v1532
-his+command+following(tat+ājñā+anucarī) having-become(bhūtvā) should-please(toṣayet) husband+relatives(pati+bāndhavān)
+[his+command+following](तद्+आज्ञा+अनुचरी) [having-become](भूत्वा) [should-please](तोषयेत्) [husband+relatives](पति+बान्धवान्)
 
 ## mukta-m0-p62-v1533
-not(na) unpleasant(apriyaṃ) by-mind(manasā) even(vāpi) should-do(caret) of-husband(bhartuḥ) devoted-wife(pati+vratā)
+[not](न) [displeasing](अप्रियं) [with-mind](मनसा) [or](वा) [even](अपि) [should-do](चरेद्) [of-husband](भर्तुः) [husband+devoted](पति+व्रता)
 
 ## mukta-m0-p62-v1534
-who(yā) pleases(prīṇayati) husband(bhartāraṃ) she-alone(sā+eva) brahman+state(brahma+padaṃ) obtains(labhet)
+[who](या) [pleases](प्रीणयति) [husband](भर्तारं) [she](सा) [indeed](एव) [brahman+state](ब्रह्म+पदं) [obtains](लभेत्)
 
 ## mukta-m0-p62-v1535
-and(na) not(ca) limb(aṅgaṃ) should-show(darśayet) to-others(anyān) husband+command+following(bhartuḥ+ājñā+anusāriṇī)
+[not](न) [and](च) [body](अङ्गं) [should-show](दर्शयेत्) [to-others](अन्यान्) [husband+command+following](भर्तुर्+आज्ञा+अनुसारिणी)
 
 ## mukta-m0-p62-v1536
-now(atha) woman+duties(strī+dharmān) states(āha) not(na) ford(tīrtha) etc.(ityādibhiḥ) with-seven(saptabhiḥ)
+[now](अथ) [woman+duties](स्त्री+धर्मान्) [says](आह) [not](न) [sacred-ford](तीर्थ) [thus+beginning-with](इत्य्+आदिभिः) [with-seven](सप्तभिः)
 
 ## mukta-m0-p62-v1537
-with-whole+self(sarva+ātmanā) with-all+effort(sarva+prayatnena)
+[with-whole+self](सर्वा+त्मना) [with-all+effort](सर्व+प्रयत्नेन)
 
 ## mukta-m0-p62-v1538
-in-old-age(vārddhakye) of-husband+relatives(pati+bandhūnāṃ) not(na) independent(sva+tantrā) should-be(bhavet) ever(kvacit)
+[in-old-age](वार्द्धक्ये) [husband+relatives](पति+बन्धूनां) [not](न) [self+dependent](स्व+तन्त्रा) [should-be](भवेत्) [ever](क्वचित्)
 
 ## mukta-m0-p62-v1539
-not(na) should-give-in-marriage(udvāhayet) father(pitā) young-girl(bālām) unknown+duty+instruction(ajñāta+dharma+śāsanām)
+[not](न) [should-give-in-marriage](उद्वाहयेत्) [father](पिता) [young-girl](बालाम्) [unknown+dharma+instruction](अज्ञात+धर्म+शासनाम्)
 
 ## mukta-m0-p62-v1540
-very+beneficial(bahu+upakārakān) cows(gāḥ) and(ca) meat+eating(māṃsa+adān) juice+devoid(rasa+varjitān)
+[very+beneficial](बहू+पकारकान्) [cows](गाश्) [and](च) [flesh+not-giving](मांस+अदान्) [taste+devoid](रस+वर्जितान्)
 
 ## mukta-m0-p62-v1541
-earth+born(bhūmi+jātāni) all(sarvāṇi) eatable(bhojyāni) by-own+will(sva+icchayā) O-Shiva(śive)
+[earth+born](भूमि+जातानि) [all](सर्वाणि) [edible-things](भोज्यानि) [by-own+wish](स्वे+च्छया) [O-Śiva](शिवे)
 
 ## mukta-m0-p62-v1542
-in-inability(aśaktau) of-kshatriya+vaishyas(kṣatriya+viśāṃ) by-occupations(vṛttaiḥ) livelihood(nirvāham) should-practice(ācaret)
+[in-inability](अशक्तौ) [kṣatriya+vaiśya](क्षत्रिय+विशां) [by-occupations](वृत्तैर्) [livelihood](निर्वाहम्) [should-practice](आचरेत्)
 
 ## mukta-m0-p62-v1543
-here(atra) in-inability(aśaktau) merchant+occupation(vaṇik+vṛttaṃ) shudra+occupation(śūdra+vṛttam) then(atha) should-resort-to(āśrayet)
+[here](अत्र) [in-inability](अशक्तौ) [merchant+occupation](वणिग्+वृत्तं) [śūdra+occupation](शूद्र+वृत्तम्) [then](अथ) [should-resort-to](आश्रयेत्)
 
 ## mukta-m0-p62-v1544
-of-shudras(śūdrāṇāṃ) O-supreme+goddess(parama+īśāni) service+occupation(sevā+vṛttiṃ) is-prescribed(vidhīyate)
+[of-śūdras](शूद्राणां) [O-supreme+goddess](परमे+शानि) [service+occupation](सेवा+वृत्तिं) [is-prescribed](विधीयते)
 
 ## mukta-m0-p62-v1545
-independent(sva+tantrā) self+dependent(sva+ādhīnā) 106(|| 106)
+[self+dependent](स्व+तन्त्रा) [self+controlled](स्वा+धीना)
 
 ## mukta-m0-p62-v1546
-juice+devoid(rasa+varjitān) taste+empty(āsvāda+śūnyān) 108(|| 108)
+[taste+devoid](रस+वर्जितान्) [flavor+empty](आस्वाद+शून्यान्)
 
 ## mukta-m0-p62-v1547
-now(atha) brahmin+occupation(brāhmaṇa+vṛttam) states(āha) teaching(adhyāpanam) etc.(ityādi)
+[now](अथ) [brāhmaṇa+occupation](ब्राह्मण+वृत्तम्) [says](आह) [teaching](अध्यापनम्) [thus+beginning](इत्य्+आदि)
 
 ## mukta-m0-p62-v1548
-battle+field+governance+form(saṃgrāma+bhūmi+śāsana+rūpe) in-good+conduct(sat+vṛtte)
+[battle+ground+governance+form](संग्राम+भूमि+शासन+रूपे) [good+conduct](सद्+वृत्ते)
 
 ## mukta-m0-p62-v1549
-authority(adhikāraḥ) exists(asti) O-lord+of-gods(deva+īśi) body+journey+accomplishment(deha+yātrā+prasiddhaye)
+[authority](अधिकारो) [is](ऽस्ति) [O-god+lord](देवे+शि) [body+journey+accomplishment](देह+यात्रा+प्रसिद्धये)
 
 ## mukta-m0-p62-v1550
-without-envy(nirmatsaraḥ) without-deceit(niṣkapaṭaḥ) in-own+conduct(sva+vṛttau) brahmin(brāhmaṇaḥ) should-be(bhavet)
+[without-envy](निर्मत्सरो) [without-deceit](निष्कपटः) [in-own+occupation](स्व+वृत्तौ) [brāhmaṇa](ब्राह्मणो) [should-be](भवेत्)

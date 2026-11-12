@@ -9,28 +9,28 @@
   },
   {
    "lemma": "kṛṣṇa",
-   "morph": "stem+compound",
-   "grounds": "color quality"
+   "morph": "compound:kṛṣṇa+varṇañca",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "varṇañca",
-   "morph": "n.acc.sg+indecl.",
-   "grounds": "color aspect; fused with ca"
+   "morph": "m.acc.sg",
+   "grounds": "color quality; sandhi with ca"
   },
   {
    "lemma": "ṣoḍaśa",
-   "morph": "stem+compound",
-   "grounds": "number of vowels"
+   "morph": "compound:ṣoḍaśa+svara+bhūṣitam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "svara",
-   "morph": "m.stem+compound",
-   "grounds": "sonic elements"
+   "morph": "compound:ṣoḍaśa+svara+bhūṣitam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "n.acc.sg.past-participle",
-   "grounds": "adorned by vowels"
+   "morph": "n.acc.sg",
+   "grounds": "quality of the form"
   }
  ]
 }

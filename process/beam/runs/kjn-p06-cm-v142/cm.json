@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "m.stem+compound",
-   "grounds": "first member of knot name"
+   "morph": "compound:brahma+granthi",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "granthi",
-   "morph": "f.stem+compound",
-   "grounds": "subtle knot"
+   "morph": "compound:brahma+granthi+sthitā",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "sthitā",
-   "morph": "f.nom.sg.past-participle",
+   "morph": "f.nom.sg",
    "grounds": "location of the three"
   },
   {
    "lemma": "ā",
    "morph": "(indecl.)",
-   "grounds": "starting point"
+   "grounds": "directional particle"
   },
   {
    "lemma": "etāṃ",
    "morph": "f.acc.sg",
-   "grounds": "demonstrative"
+   "grounds": "demonstrative, possibly irregular form"
   },
   {
    "lemma": "trīṇi",
@@ -35,12 +35,12 @@
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "emphasis"
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "varānane",
    "morph": "f.voc.sg",
-   "grounds": "addressee"
+   "grounds": "vocative address"
   }
  ]
 }

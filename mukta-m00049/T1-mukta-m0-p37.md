@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[bliss](ānanda-) [terrific](bhairavaṃ) [towards](ṅe'ntaṃ) [vaṣaṭ](vaṣaḍ-) [saying](anto) [mantra](manur-) [thought](mataḥ)
+[bliss](ānanda-) [terrific](bhairavaṃ) [towards](ṅe'ntaṃ) [vaṣaṭ](vaṣaḍ-) [uttering](anto) [mantra](manuḥ) [intended](mataḥ)
 
 ## mukta-m0-p37-v902
-[to](su-) [goddess](dhādevyai) [vaṣaṭ](vauṣaḍ-) [saying](anto) [mantra](manur-) [of-her](asyāḥ) [in-offering](prapūjane)
+[to](su-) [goddess](dhādevyai) [vaṣaṭ](vauṣaḍ-) [uttering](anto) [mantra](manuḥ) [of-her](asyāḥ) [in-the-worship](prapūjane)
 
 ## mukta-m0-p37-v903
-[offering-material](dravyaṃ) [having-considered](vibhāvya) [above-it](tasyorddhve) [root-mantra](mūlaṃ) [twelve-times](dvādaśadhā) [should-recite](japet)
+[offering-material](dravyaṃ) [having-considered](vibhāvya) [above-it](tasya+urdhve) [root-mantra](mūlaṃ) [twelve-times](dvādaśa+dhā) [should-recite](japet)
 
 ## mukta-m0-p37-v904
-[mantra](manur-) [two-fold-ending](dviṭhāntaḥ) [svāhā-ending](svāhāntaḥ) [proclaimed](īritaḥ) [taught](kathitaḥ)
+[mantra](manuḥ) [with-dviṭ-ending](dviṭa+antaḥ) [with-svāhā-ending](svāhā+antaḥ) [proclaimed](īritaḥ) [declared](kathitaḥ)
 
 ## mukta-m0-p37-v905
 [attentive](sāvadhānaḥ) [being](san) [should-worship](yajet)
 
 ## mukta-m0-p37-v906
-[vaṣaṭ-sound-ending](vaṣaṭśabdānto) [considered](mataḥ)
+[with-vaṣaṭ-sound-ending](vaṣaṭ+śabda+antaḥ) [considered](mataḥ)
 
 ## mukta-m0-p37-v907
 [will-say](vakṣyati)
 
 ## mukta-m0-p37-v908
-[twelve-times](dvādaśavāraṃ) [root](mūlaṃ) [mantra](mantraṃ) [should-recite](japet)
+[twelve-times](dvādaśa+vāraṃ) [root](mūlaṃ) [mantra](mantraṃ) [should-recite](japet)
 
 ## mukta-m0-p37-v909
-[should-show](darśayed-) [incense](dhūpa-) [lamp](dīpau) [ca](ca) [bell-ringing](ghaṇṭāvādana-) [preceded-by](pūrvakam)
+[should-show](darśayet) [incense](dhūpaṃ) [and-lamp](dīpau) [ca](ca) [with-bell-ringing-first](ghaṇṭā+vāda+na+pūrvakam)
 
 ## mukta-m0-p37-v910
-[in-vow](vrate) [in-fire-offering](home) [in-marriage](vivāhe) [ca](ca) [thus](tathaiva) [festival-rite](utsavakarmaṇi)
+[in-vow](vrate) [in-fire-offering](home) [in-marriage](vivāhe) [ca](ca) [thus](tathā+eva) [in-festival-rite](utsava+karmaṇi)
 
 ## mukta-m0-p37-v911
-[phaṭ](phaṭā'-) [abhukṣya](abhukṣya) [vāyu](vāyu-) [fire](vahni-) [seeds](bījābhyāṃ) [should-consecrate](mantrayet-) [three-times](tridhā)
+[with-phaṭ](phaṭā) [with-abhu]('bhukṣya) [with-vāyu-seed](vāyu+bīja+abhyāṃ) [with-agni-seed](vahni+bīja+abhyāṃ) [should-consecrate](mantrayet) [thrice](tridhā)
 
 ## mukta-m0-p37-v912
-[by-cow](dhenvā) [having-made-nectar](vamamṛtīkṛtya) [this](etam) [mantra](mantram-) [should-utter](udīrayet)
+[with-cow](dhenvā) [having-made-nectar](amṛtī+kṛtya) [this](etam) [mantra](mantram) [should-utter](udīrayet)
 
 ## mukta-m0-p37-v913
-[flesh](māṃsaṃ) [me](me) [make-pure](pavitrīkuru) [make](kuru) [that](tat) [viṣṇu](viṣṇoḥ) [supreme](paramaṃ) [footstep](padam)
+[flesh](māṃsaṃ) [me](me) [make-pure](pavitrī+kuru) [kuru](kuru) [that](tat) [viṣṇu](viṣṇoḥ) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p37-v914
-[incense](dhūpa-) [lamp](dīpau) [ca](ca) [should-show](darśayet) [of-pilgrimage](tīrthasya) [of-wine](madyasya) [204](204)
+[incense](dhūpaṃ) [and-lamp](dīpau) [ca](ca) [should-show](darśayet) [of-pilgrimage](tīrthasya) [of-wine](madyasya) [204](204)
 
 ## mukta-m0-p37-v915
-[by-the-two-seeds](bījābhyāṃ) [three-times](tridhā) [three-times](trivāraṃ) [should-consecrate](mantrayet)
+[with-the-two-seeds](bījābhyāṃ) [thrice](tridhā) [three-times](trivāraṃ) [should-consecrate](mantrayet)
 
 ## mukta-m0-p37-v916
-[mantra](mantram-) [should-utter](udīrayed-) [should-recite](uccaret)
+[mantra](mantram) [should-utter](udīrayet) [should-recite](uccaret)
 
 ## mukta-m0-p37-v917
-[of-viṣṇu](viṣṇoḥ) [footstep](padaṃ) [make](kuru)
+[of-viṣṇu](viṣṇoḥ) [state](padam) [make](kuru)
 
 ## mukta-m0-p37-v918
-[by-this](anena) [mantra](mantreṇa) [intelligent-one](matimān-) [that](taṃ) [fish](mīnam-) [should-consecrate](abhimantrayet)
+[by-this](anena) [mantra](mantreṇa) [intelligent-one](matimān) [that](tam) [fish](mīnam) [should-consecrate](abhimantrayet)
 
 ## mukta-m0-p37-v919
-[like-cucumber](urvārukam-) [iva](iva) [from-bondage](bandhanāt-) [from-death](mṛtyor-) [may-I-be-released](mukṣīya) [not](mā'-) [from-nectar](amṛtāt)
+[like-cucumber](urvārukam+iva) [from-bondage](bandhanāt) [from-death](mṛtyoḥ) [may-I-be-liberated](mukṣīya) [from-not-nectar](mā+amṛtāt)
 
 ## mukta-m0-p37-v920
-[like-in-sky](divīva) [eye](cakṣur-) [stretched](ātatam)
+[like-in-sky](divi+iva) [eye](cakṣuḥ) [stretched](ātatam)
 
 ## mukta-m0-p37-v921
-[of-viṣṇu](viṣṇor-) [which](yat) [supreme](paramaṃ) [footstep](padam)
+[of-viṣṇu](viṣṇoḥ) [that](yat) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p37-v922
-[in-root-mantra](mūle) [tu](tu) [faithful](śraddadhāno) [who](yaḥ) [what](kiṃ) [to-him](tasya) [by-leaf](dala-) [by-branch](śākhayā)
+[in-root-mantra](mūle) [tu](tu) [faithful](śraddadhānaḥ) [who](yaḥ) [what](kim) [to-him](tasya) [by-leaf](dala) [or-branch](śākhayā)
 
 ## mukta-m0-p37-v923
-[that](tad-) [eva](eva) [for-goddess-pleasure](devatāprītyai) [very-praiseworthy](supraśastaṃ) [by-me](mayā) [is-declared](ucyate)
+[that](tat) [alone](eva) [for-goddess-pleasure](devatā+prītyai) [very-praiseworthy](su+praśastam) [by-me](mayā) [is-declared](ucyate)
 
 ## mukta-m0-p37-v924
 [all](sarvaṃ) [by-root-mantra](mūlena) [having-purified](saṃśodhya) [to-great-goddess](mahādevyai) [should-offer](nivedayet)
 
 ## mukta-m0-p37-v925
-[in-flesh-purification](māṃsaśodhane) [taught](kathitena) [by-mantra](mantreṇa) [by-this](anenā'-) [stated-below](antaroktena)
+[in-flesh-purification](māṃsa+śodhane) [declared](kathitena) [by-mantra](mantreṇa) [by-this](anena) [stated-below](antaroktena)

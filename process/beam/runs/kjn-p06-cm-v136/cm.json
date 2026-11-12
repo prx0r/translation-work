@@ -9,8 +9,8 @@
   },
   {
    "lemma": "kṛṣṇa",
-   "morph": "stem+compound",
-   "grounds": "color of the form"
+   "morph": "compound:kṛṣṇa+rūpaṃ",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "rūpaṃ",
@@ -20,17 +20,17 @@
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective"
+   "grounds": "connective particle"
   },
   {
    "lemma": "balī",
-   "morph": "f.stem+compound",
-   "grounds": "condition destroyed"
+   "morph": "compound:balī+palita+nāśanam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "palita",
-   "morph": "n.stem+compound",
-   "grounds": "condition destroyed"
+   "morph": "compound:balī+palita+nāśanam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "nāśanam",
