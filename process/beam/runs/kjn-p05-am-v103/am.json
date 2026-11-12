@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "Which chapter concludes in the text emerged from Candradvīpa?",
+ "question": "What is the ordinal position of the chapter that emerged from Candradvīpa?",
  "premises": [
-  "The text emerged from Candradvīpa",
-  "The section is numbered fifth",
-  "The section is a chapter"
+  "A chapter emerged from Candradvīpa.",
+  "That chapter is counted as the fifth.",
+  "It is designated as a paṭala."
  ],
- "inference": "This marks the end of the fifth chapter of the text from Candradvīpa.",
- "uncertainties": [],
- "plain_english": "Thus ends the fifth chapter in the text that emerged from Candradvīpa."
+ "inference": "The chapter that emerged from Candradvīpa is the fifth chapter.",
+ "uncertainties": [
+  "Content of the chapter not specified"
+ ],
+ "plain_english": "The fifth chapter is the one that emerged from Candradvīpa."
 }

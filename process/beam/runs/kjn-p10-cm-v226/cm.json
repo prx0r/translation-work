@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound=bhukti+mukti",
+   "morph": "compound=bhukti+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "mukti",
-   "morph": "compound=bhukti+mukti",
+   "morph": "compound=mukti+second",
    "grounds": "second member of compound"
   },
   {
    "lemma": "mahā",
-   "morph": "compound=mahā+siddhiḥ",
+   "morph": "compound=mahā+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "head of compound"
+   "grounds": "subject of verb"
   },
   {
    "lemma": "yoginīnāṃ",
    "morph": "f.gen.pl",
-   "grounds": "possessor of favor"
+   "grounds": "denotes those for whom dear"
   },
   {
    "lemma": "priyo",
    "morph": "m.nom.sg",
-   "grounds": "predicate describing practitioner"
+   "grounds": "predicate adjective"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "potential result"
+   "morph": "3.sg.act-optative/√bhū",
+   "grounds": "optative verb"
   }
  ]
 }

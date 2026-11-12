@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.present-middle √kṛ",
-   "grounds": "action of practitioner"
+   "morph": "3.sg.mid-pres/√kṛ",
+   "grounds": "main verb"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "manner of forming"
+   "grounds": "manner adverb"
   },
   {
    "lemma": "rūpaṃ",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=dhyāna+eka",
+   "morph": "compound=dhyāna+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "eka",
-   "morph": "compound=dhyāna+eka",
+   "morph": "compound=eka+second",
    "grounds": "second member of compound"
   },
   {
    "lemma": "gata",
-   "morph": "compound=eka+gata",
+   "morph": "compound=gata+third",
    "grounds": "third member of compound"
   },
   {
    "lemma": "cetasaḥ",
    "morph": "n.gen.sg",
-   "grounds": "possessor of focused mind"
+   "grounds": "describes whose mind is absorbed"
   }
  ]
 }
