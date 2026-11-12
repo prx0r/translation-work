@@ -7,51 +7,51 @@
     {
      "surface": "brahmatvaṃ",
      "gloss": "brahma-state",
-     "grounds": "neuter noun brahmatva in accusative or nominative singular",
-     "morph": "n.acc.sg.n"
+     "grounds": "abstract state of being Brahma",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "indeclinable particle",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "indeclinable adverb of time",
+     "grounds": "temporal adverb indicating that moment",
      "morph": "(indecl.)"
     },
     {
      "surface": "tyaktaṃ",
      "gloss": "abandoned",
-     "grounds": "past passive participle of tyaj, neuter accusative or nominative singular",
-     "morph": "ppp.acc.sg.n"
+     "grounds": "past passive participle indicating relinquishment",
+     "morph": "n.nom.sg.ppp (√tyaj)"
     },
     {
      "surface": "citta",
      "gloss": "mind",
-     "grounds": "neuter noun citta in nominative singular",
-     "morph": "n.nom.sg.n"
+     "grounds": "addressed as the locus of the state",
+     "morph": "n.voc.sg"
     },
     {
      "surface": "dhīvarātmakam",
-     "gloss": "fisherman-nature",
-     "grounds": "compound adjective dhīvara plus ātmaka, neuter accusative singular",
-     "morph": "adj.acc.sg.n"
+     "gloss": "fisherman-natured",
+     "grounds": "compound describing the mind's character; dhīvara+ātmaka",
+     "morph": "n.voc.sg (compound)"
     }
    ],
-   "question": "What happens to the Brahma-state when the mind becomes fisherman-nature?",
+   "question": "What state was relinquished by the fisherman-natured mind at that moment?",
    "premises": [
-    "Brahma-state is abandoned then.",
-    "Mind takes fisherman-nature.",
-    "Anger creates a power-net."
+    "The mind is characterized as having a fisherman nature.",
+    "The state of Brahmahood had been present.",
+    "At that moment, that Brahma-state was abandoned."
    ],
-   "inference": "The Brahma-state is abandoned as the mind becomes fisherman-nature.",
+   "inference": "The fisherman-natured mind relinquished its Brahma-state at that time.",
    "uncertainties": [
-    "Exact syntactic relation between citta and dhīvarātmakam remains uncertain."
+    "Whether 'citta' functions as a vocative address or as the subject of an implied clause is contextually inferred."
    ],
-   "plain_english": "Then the Brahma-state was abandoned; the mind became fisherman-nature."
+   "plain_english": "Indeed, O fisherman-natured mind, the state of Brahmahood was then abandoned."
   }
  ]
 }
