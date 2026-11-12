@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter concludes in the section that has emerged in Candra-dvīpa?",
+ "question": "Which chapter is declared to have emerged in the context of Candra-dvipa?",
  "premises": [
-  "The context is Candra-dvīpa",
-  "A section has emerged there",
-  "The chapter is identified as ninth"
+  "The text marks a specific place of emergence.",
+  "The emerged unit is identified by an ordinal number.",
+  "The unit is designated as a chapter."
  ],
- "inference": "The ninth chapter concludes in the section emerged in Candra-dvīpa",
- "uncertainties": [],
- "plain_english": "Thus ends the ninth chapter in the section that emerged in Candra-dvīpa."
+ "inference": "The ninth chapter is declared to have emerged in Candra-dvipa.",
+ "uncertainties": [
+  "The exact sense of vinirgate as textual emergence or narrative emergence is context-dependent."
+ ],
+ "plain_english": "Thus the ninth chapter emerged in Candra-dvipa."
 }

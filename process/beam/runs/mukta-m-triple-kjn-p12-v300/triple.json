@@ -13,51 +13,50 @@
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "expresses removal or elimination",
-     "morph": "3.sg.opt-act; √naś (causative)"
+     "grounds": "causative verb expressing removal or destruction",
+     "morph": "3.sg.opt.act, √naś (caus.)"
     },
     {
      "surface": "vātān",
      "gloss": "winds",
-     "grounds": "bodily winds or wind-related disorders",
+     "grounds": "bodily winds or humors affected by the practice",
      "morph": "m.acc.pl"
     },
     {
      "surface": "kuṣṭha",
      "gloss": "leprosy",
-     "grounds": "first member of a compound naming a disease",
-     "morph": "compound-member"
+     "grounds": "first member of a compound naming a specific disease",
+     "morph": "compound member"
     },
     {
      "surface": "vyādhim",
      "gloss": "disease",
-     "grounds": "head of the compound denoting illness",
-     "morph": "m.acc.sg; compound-head"
+     "grounds": "second member of a compound naming the ailment",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
-     "gloss": "indeed",
-     "grounds": "particle adding emphasis or contrast",
+     "gloss": "and",
+     "grounds": "particle adding or contrasting another effect",
      "morph": "(indecl.)"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "repeated verb emphasizing elimination",
-     "morph": "3.sg.opt-act; √naś (causative)"
+     "grounds": "causative verb expressing removal or destruction",
+     "morph": "3.sg.opt.act, √naś (caus.)"
     }
    ],
-   "question": "Which specific bodily afflictions are eliminated by the described practice?",
+   "question": "What specific winds and disease are eliminated by the described yogic practice?",
    "premises": [
     "The practice destroys eighty winds.",
-    "The practice also destroys leprosy disease.",
-    "The repetition of the verb emphasizes complete elimination."
+    "The practice also destroys the disease of leprosy."
    ],
-   "inference": "The described practice removes both the eighty winds and the disease of leprosy.",
+   "inference": "The described practice has the power to eliminate both the eighty winds and leprosy.",
    "uncertainties": [
-    "The exact nature of the eighty winds in this context is not specified."
+    "The exact nature of the eighty winds is not specified in this verse."
    ],
-   "plain_english": "It destroys the eighty winds, and indeed it destroys the disease of leprosy."
+   "plain_english": "It destroys the eighty winds, and it also destroys the disease of leprosy."
   }
  ]
 }

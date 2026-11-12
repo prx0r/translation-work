@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[wealth](ṝddhiḥ) [health](ārogyam) [sovereignty](aiśvaryam) [from-installation-of-deity](devasthāpanataḥ) [becomes](bhavet)
+[prosperity](ṛddhiḥ)+[health](ārogyam)+[sovereignty](aiśvaryaṃ) [from-installation-of-deities](devasthāpanato) [should-arise](bhavet)
 
 ## mukta-m0-p58-v1427
-[in-difficult-star](durṝkṣe) [in-difficult-grasp](durgrahe) [in-constellation](viṣṭau) [nakṣatra](nakṣatre) [and](ca) [eva](eva) [in-conjunction](saṅgrahe)
+[in-inauspicious-constellation](durṝkṣe) [in-inauspicious-planet](durgrahe) [gh:](gh:) [in-bad-planet](kugrahe) [in-viṣṭi](viṣṭau) [in-lunar-mansion](nakṣatre) [and](ca)+[indeed](eva) [in-conjunction](saṅgrahe)
 
 ## mukta-m0-p58-v1428
-[these](eteṣu) [installed](sthāpitāḥ) [gods](devāḥ) [decay-famine-disease-giving](kṣayadurbhikṣarogadāḥ)
+[in-these](eteṣu) [installed](sthāpitā) [deities](devāḥ) [givers-of-decay-famine-disease](kṣaya+durbhikṣa+rogadā)
 
 ## mukta-m0-p58-v1429
-[becomes](bhavet) [harmful](doṣakaram) [therefore](tasmāt) [properly-installed](prāvasthāpitam) [bestower-of-boons](varapradam)
+[would-be](bhavet)+[fault-causing](doṣakaraṃ) [therefore](tasmāt)+[previously](prā) [gh:](gh:) [drīk](drīka)+[established](vasthāpitaṃ) [boon-granting](varapradam)
 
 ## mukta-m0-p58-v1430
-[thus](iti) [in-collection-of-marks](lakṣaṇasamuccaye) [examination-of-ṛtu-days](ṛtvādidinaparīkṣaṇam) [named](nāma) [tenth](daśamaḥ) [rite](vidhiḥ)
+[thus](iti) [in-Lakṣaṇasamuccaya](lakṣaṇasamuccaye) [examination-of-season-etc-days](ṛtvādidinaparīkṣaṇaṃ) [named](nāma) [tenth](daśamo) [procedure](vidhiḥ)
 
 ## mukta-m0-p58-v1431
-[with-thirty-hasts-etc](triṃśaddhastādibhiḥ) [and](ca) [another](anyo) [ten-less](daśahānyā) [sometimes](kvacin) [opinion](mate)
+[from-thirty-cubits](triṃśaddhastādibhiḥ)+[and](ca)+[another](anyo) [by-decrease-of-ten](daśahānyā) [in-some-opinion](kvacinmate)
 
 ## mukta-m0-p58-v1432
-[by-threefold](triguṇaiḥ) [eldest](jyeṣṭhaḥ) [thus](ityevam) [should-make](kārayet) [otherwise](anyathā) [or](vā)
+[by-threefold](triguṇaiḥ)+[largest](jyeṣṭha) [thus](iti)+[indeed](evaṃ) [gh:](gh:) [jyeṣṭam](jyeṣṭam)+[thus](ityevaṃ) [one-should-make](kārayed)+[otherwise](anyathā)+[also](api) [or](vā)
 
 ## mukta-m0-p58-v1433
-[up-to-twenty-eight](aṣṭāviṃśatiparyantam) [should-construct](vidadhyāt) [pavilions](maṇḍapān) [nine](nava)
+[up-to-twenty-eight](aṣṭāviṃśatiparyantaṃ) [one-should-construct](vidadhyāt)+[pavilions](maṇḍapān)+[nine](nava)
 
 ## mukta-m0-p58-v1434
-[well-decorated](suveśaḥ) [gharghara](ghargharā) [skilled](dakṣaḥ) [pavilions](maṇḍapāḥ) [by-name](nāmataḥ) [nine](nava)
+[suveśa](suveśo) [ghargharā](ghargharā) [dakṣa](dakṣo) [pavilions](maṇḍapā) [by-name](nāmato) [gh:](gh:) [nāmmatā](nāmmatā) [nine](nava) [mū:](mū:) [ten](daśa)
 
 ## mukta-m0-p58-v1435
-[in-front-of-temple](prāsādasyāgradeśe) [and](ca) [not-near](nāsannena) [and](ca) [far](dūrataḥ)
+[of-the-temple](prāsādasya)+[in-front-region](agradeśe) [and](ca) [not-near](nāsannena) [and](ca) [not-far](dūrataḥ)
 
 ## mukta-m0-p58-v1436
-[knee-measure-raised](jānumātroddhṛte) [peg](śalye) [east-northeast-moon-eclipse](prāgīśenduplave) [done](kṛte)
+[when-stake-is-removed](jānumātroddhṛte) [stake](śalye) [when-flooded-toward-east-north-moon](prāgīśenduplave) [being-done](kṛte)
 
 ## mukta-m0-p58-v1437
-[vedic-altars](vedāsrān) [round](vartulān) [or](vā) [api](api) [not-crooked](avakrān) [sacrificial](yājñikān) [firm](dṛḍhān)
+[quadrangular](vedāsrān) [circular](vartulān) [or](vā)+[also](api) [not-crooked](avakrān) [fit-for-sacrifice](yājñikān) [strong](dṛḍhān)
 
 ## mukta-m0-p58-v1438
-[with-crest-peg-binding](taccūḍāśalyabandhena) [should-join](yojayet) [two-gates](dvārakadvayam)
+[by-binding-of-their-crest-and-stake](taccūḍāśalyabandhena) [one-should-join](yojayed) [pair-of-doors](dvārakadvayam)
 
 ## mukta-m0-p58-v1439
-[with-six-layers-covered](ṣaḍbhistu paṭalaiśchannaṃ) [dense-etc](ghanādi) [three-pavilions](maṇḍapatrayam)
+[with-six](ṣaḍbhiḥ)+[indeed](tu) [with-layers](paṭalaiḥ)+[covered](channaṃ) [dense-etc](ghanādi) [group-of-three-pavilions](maṇḍapatrayam)
 
 ## mukta-m0-p58-v1440
-[with-eight-monkeys](aṣṭabhirmarkaṭairyuktaṃ) [with-three-gates](dvārakaiśca tribhiryutam)
+[with-eight](aṣṭabhiḥ)+[with-brackets](markaṭaiḥ)+[joined](yuktaṃ) [and](ca)+[with-doors](dvārakaiḥ)+[with-three](tribhiḥ)+[provided](yutam)
 
 ## mukta-m0-p58-v1441
-[with-eight-coverings-covered](aṣṭabhiśchadanaiśchannaṃ) [well-decorated-triad](suveśāditrayaṃ) [becomes](bhavet)
+[with-eight](aṣṭabhiḥ)+[with-roofs](chadanaiḥ)+[covered](channaṃ) [triad-of-suveśa-etc](suveśāditrayaṃ) [should-be](bhavet)
 
 ## mukta-m0-p58-v1442
-[upajaṃghā-octad](upajaṃghāṣṭakī) [and-this](caiṣāṃ) [width-how-much-raised](vistarākīdṛśamunnatām)
+[group-of-eight-upajaṅghās](upajaṃghāṣṭakī) [and](ca)+[of-these](eṣāṃ) [height-like-the-width](vistarākīdṛśamunnatām)
 
 ## mukta-m0-p58-v1443
-[by-that-measure](tena mānena) [neck](kaṇṭhaḥ) [should-be](syāt) [between-pavilions](maṇḍapāntaram) [is-called](ucyate)
+[by-that](tena) [measure](mānena) [neck](kaṇṭhaḥ) [should-be](syāt)+[another-pavilion](maṇḍapāntaram)+[is-stated](ucyate)
 
 ## mukta-m0-p58-v1444
-[victory-named](jayākhyaḥ) [ten-hasta](daśahastaḥ) [ca](ca) [should-be-made](vidhātavyaḥ) [dense-shaped](ghanākṛtiḥ)
+[named-jaya](jayākhyo) [ten-cubits](daśahastaḥ)+[and](ca) [should-be-made](vidhātavyo) [of-solid-form](ghanākṛtiḥ)
 
 ## mukta-m0-p58-v1445
-[like-well-decorated](suveśasadṛśāḥ) [but](kintu) [twenty-pillars](stambhaviṃśativarttitāḥ) [increased](vardhitā)
+[similar-to-suveśa](suveśasadṛśāḥ) [but](kintu) [consisting-of-twenty-pillars](stambhaviṃśativarttitāḥ) [kh,g,gh:](kh,g,gh:) [increased](vardhitā)
 
 ## mukta-m0-p58-v1446
-[iron-spike-bound-monkeys-with-jina](lohakaṇṭakasambaddhakapibhirjinasayutāḥ)
+[bound-with-iron-pegs](lohakaṇṭakasambaddha)+[with-brackets](kapibhiḥ)+[joined-with-jina](jinasayutāḥ)
 
 ## mukta-m0-p58-v1447
-[hundred-half-hasta](śatārdhahastaḥ) [wide](vipulaḥ) [five-and](pañcone) [confusion](vibhramaḥ) [becomes](bhavet)
+[half-hundred-cubits](śatārdhahasto) [wide](vipulaḥ) [less-by-five](pañcone) [vibhrama](vibhramo) [kh:](kh:) [vipuro](vipuro) [should-be](bhavet)
 
 ## mukta-m0-p58-v1448
-[should-join](saṃyojyāḥ) [ear-pillars](karṇagāṃstambhān) [thus](ityevam) [three-pavilions](maṇḍapatryam)
+[should-be-joined](saṃyojyāḥ) [pillars-at-corners](karṇagāṃstambhān)+[thus](iti)+[indeed](evaṃ) [group-of-three-pavilions](maṇḍapatryam)
 
 ## mukta-m0-p58-v1449
-[should-make](kartavyāḥ) [pavilions](maṇḍayāḥ) [all](sarve) [middle](madhye) [with-seat](pīṭhasamanvitāḥ)
+[should-be-made](kartavyā) [pavilions](maṇḍayāḥ) [all](sarve) [in-middle](madhye) [provided-with-platform](pīṭhasamanvitāḥ)
 
 ## mukta-m0-p58-v1450
-[common](sāmānyāt) [all-seats](sarvapīṭhāni) [sometimes](kvacid) [other-opinion](anyamate) [otherwise](anyathā)
+[generally](sāmānyāt)+[all-platforms](sarvapīṭhāni) [in-some-other-opinion](kvacidanyamate)+[otherwise](anyathā)
