@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[having-sprinkled](abhyukṣya) [with-root+mantra](mūlamantreṇa) [on-bed](śayyāyāṃ) [there](tatra) [one-should-lie-down](saṃviśet)
+[sprinkling](abhyukṣya) [with+the+root+mantra](mūlamantreṇa) [on+the+bed](śayyāyāṃ) [there](tatra) [should+lie+down](saṃviśet)
 
 ## mukta-m0-p12-v277
-[supreme+guru](parameṣṭhigurum) [and](ca) [indeed](eva) [on-left](vāme) [having-worshipped](abhyarcya) [gaṇeśvara](gaṇeśvaram)
+[the+supreme+lord+guru](parameṣṭhiguruṃ) [and+also](caiva) [on+the+left](vāme) [having+worshipped](abhyarcya) [Gaṇeśvara](gaṇeśvaram)
 
 ## mukta-m0-p12-v278
-[then](tataḥ) [to-māyā+seat](māyamāsanāya) [obeisance](namaḥ) [thus](iti) [one-should-worship](arcayet) [in-śiva](śive)
+[then](tato) [to+Māyā+āsana](māyamāsanāya) [obeisance](namaḥ) [thus](iti) [should+worship](arcayet) [in+Śiva](śive)
 
 ## mukta-m0-p12-v279
-[having-drawn](likhitvā) [having-sipped-water](ācamya) [with-effort](yatnena) [by-own+mantra+stated+method](svamantroktavidhānataḥ)
+[having+written](likhitvā) [having+sipped+water](ācamya) [carefully](yatnena) [according+to+the+method+stated+in+one's+own+mantra](svamantroktavidhānataḥ)
 
 ## mukta-m0-p12-v280
-[o-amulet](pratisare) [rakṣa](rakṣa) [rakṣa](rakṣa) [me](māṃ) [hūṃ](hūṃ) [phaṭ](phaṭ) [with-svāhā](svāhayā) [joined](yutam)
+[on+the+protection+cord](pratisare) [protect](rakṣa) [protect](rakṣa) [me](mām) [hūm](hūm) [phaṭ](phaṭ) [together+with+svāhā](svāhayā) [joined](yutam)
 
 ## mukta-m0-p12-v281
-[limb+placement](aṅganyāsa) [and-hand+placement](karanyāsau) [mātṛkā+placement](mātṛkānyāsam) [indeed](eva) [and](ca)
+[limb+nyāsa](aṅganyāsakaranyāsau) [and+also](mātṛkānyāsam) [indeed](eva) [ca](ca)
 
 ## mukta-m0-p12-v282
-[having-meditated](dhyātvā) [with-devotion](bhaktyā) [having-worshipped](samabhyarcya) [with-mental-offerings](mānasaiḥ) [best+practitioner](sādhakottamaḥ)
+[having+meditated](dhyātvā) [with+devotion](bhaktyā) [having+thoroughly+worshipped](samabhyarcya) [by+mental+offerings](mānasaiḥ) [the+best+of+sādhakas](sādhakottamaḥ)
 
 ## mukta-m0-p12-v283
-[praṇava](praṇavam) [and](ca) [then](tataḥ) [o-goddess](devi) [to-vaṭukas](vaṭukebhyaḥ) [obeisance](namaḥ) [likewise](tathā)
+[the+praṇava](praṇavam) [and+then](ca) [tato] [O+Goddess](devi) [to+the+Vaṭukas](vaṭukebhyaḥ) [obeisance](namaḥ) [thus](tathā)
 
 ## mukta-m0-p12-v284
-[then](tataḥ) [but](tu) [with-fire+seed](vahnibījena) [from-all-sides](samantāt) [with-water+stream](jaladhārayā)
+[then](tataḥ) [with+the+fire+seed](vahnibījena) [on+all+sides](samantāt) [by+a+stream+of+water](jaladhārayā)
 
 ## mukta-m0-p12-v285
-[recitation](japam) [having-done](kṛtvā) [having-offered](samarpya) [then](atha) [according-to-rule](vidhinā) [o-supreme-goddess](parameśvari)
+[japa](japam) [having+performed](kṛtvā) [having+offered](samarpyātha) [according+to+the+rite](vidhinā) [O+Supreme+Goddess](parameśvari)
 
 ## mukta-m0-p12-v286
-[oblation](homam) [and](ca) [libation](tarpaṇam) [and](ca) [indeed](eva) [consecration](abhiṣekam) [then](tataḥ) [after](param)
+[homa](homaṃ) [and+tarpaṇa](caiva) [tarpaṇam] [and+also](caiva) [ablution](abhiṣekam) [thereafter](tataḥ) [beyond](param)
 
 ## mukta-m0-p12-v287
-[golden](kāñcanam) [fee](dakṣiṇām) [having-given](datvā) [fault+covering](chidrāvaraṇam) [one-should-perform](ācaret)
+[golden](kāñcanam) [gift](dakṣiṇām) [having+given](datvā) [the+covering+of+openings](chidrāvaraṇam) [should+perform](ācaret)
 
 ## mukta-m0-p12-v288
-[thus+said](evamuktam) [o-great-goddess](mahādevi) [bed+practice](śayyāsādhanam) [supreme](uttamam)
+[thus](evam) [spoken](uktam) [O+Great+Goddess](mahādevi) [the+bed+sādhana](śayyāsādhanam) [supreme](uttamam)
 
 ## mukta-m0-p12-v289
-[now](atha) [listen](śṛṇu) [of-three+times](trivārasya) [of-four+times](caturvārasya) [practice](sādhanam)
+[now](atha) [hear](śṛṇu) [of+the+threefold](trivārasya) [of+the+fourfold](caturvārasya) [the+sādhana](sādhanam)
 
 ## mukta-m0-p12-v290
-[one-should-bow](praṇamet) [having-worshipped+guru](gurum+abhyarcya) [with-maṇidhari](maṇidhari) [thus](iti) [by-mantra](mantrataḥ)
+[should+bow](praṇamet) [to+the+guru](gurum) [having+worshipped](abhyarcya) [by+the+mantra](maṇidharīti) [mantrataḥ]
 
 ## mukta-m0-p12-v291
-[compassion](dayām) [may-do](kurvantu) [they](te) [all](sarve) [and](ca) [success+givers](siddhidāḥ) [may-be](bhavantu) [to-me](me)
+[compassion](dayām) [may+they+do](kurvantu) [they](te) [all](sarve) [givers+of+siddhi](siddhidāḥ) [and+may+they+become](ca) [bhavantu] [to+me](me)
 
 ## mukta-m0-p12-v292
-[then](tataḥ) [east+facing](pūrvamukhaḥ) [or](vā) [also](api) [north+direction+facing](uttarāśāmukhaḥ) [also](api) [or](vā)
+[then](tataḥ) [facing+east](pūrvamukhaḥ) [or](vāpi) [facing+north](uttarāśāmukhaḥ) [or+also](api) [vā](vā)
 
 ## mukta-m0-p12-v293
-[place](sthānam) [having-swept](sammārjya) [there](tatra) [indeed](eva) [corpse+seed](pretabījam) [should-write](likhet) [wise-one](sudhīḥ)
+[the+place](sthānam) [having+swept](sammārjya) [there](tatraiva) [the+preta+seed](pretabījam) [should+write](likhet) [the+wise+one](sudhīḥ)
 
 ## mukta-m0-p12-v294
-[there](tatra) [having-sat](upaviśya) [o-lord-of-gods](deveśi) [in-heart](hṛdi) [chosen+deity](iṣṭadevatām) [one-should-remember](smaret)
+[there](tatra) [having+seated](upaviśya) [O+Lord+of+Gods](deveśi) [in+the+heart](hṛdi) [the+desired+deity](iṣṭadevatām) [should+remember](smaret)
 
 ## mukta-m0-p12-v295
-[to-kālī+and-others](kālyādibhyaḥ) [o-great-goddess](maheśāni) [having-worshipped](pūjayitvā) [according-to-rule](vidhānataḥ)
+[to+Kālī+and+others](kālyādibhyaḥ) [O+Great+Lord](maheśāni) [having+worshipped](pūjayitvā) [according+to+the+rite](vidhānataḥ)
 
 ## mukta-m0-p12-v296
-[worship](pūjā) [offering+and-others](balyādikāḥ) [remembered](smṛtāḥ)
+[worship](pūjā) [offerings](balyādikāḥ) [are+remembered](smṛtāḥ)
 
 ## mukta-m0-p12-v297
-[having-done](kṛtvā) [place](sthānam) [having-left](parityajya) [goddess](devīm) [having-remembered](smṛtvā) [to-house](gṛham) [one-should-go](vrajet)
+[having+done](kṛtvā) [the+place](sthānam) [having+abandoned](parityajya) [the+Goddess](devīm) [having+remembered](smṛtvā) [to+the+home](gṛham) [should+go](vrajet)
 
 ## mukta-m0-p12-v298
-[to-whomever](yasmai) [to-anyone](kasmai) [not](na) [to-be-given](dātavyam) [of-practitioners](sādhakānām) [supreme](param) [benefit](hitam)
+[to+whomsoever](yasmai) [kasmai] [not](na) [to+be+given](dātavyam) [of+the+sādhakas](sādhakānām) [supreme](param) [benefit](hitam)
 
 ## mukta-m0-p12-v299
-[bilva+root](bilvamūlam) [o-great-goddess](maheśāni) [all-around](samantāt) [sixteen](ṣoḍaśam) [hand-measure](karam)
+[the+root+of+the+bilva](bilvamūlam) [O+Great+Lord](maheśāni) [all+around](samantāt) [sixteen](ṣoḍaśa) [hands](karam)
 
 ## mukta-m0-p12-v300
-[ṛg+yajus+sāma+like](ṛgyajuḥsāmasadṛśam) [leaf+triad](patratrayam) [o-fair-faced-one](varānane)
+[like+the+Ṛg](ṛgyajuḥ) [Sāma](sāma) [equal](sadṛśam) [with+three+leaves](patratrayam) [O+Beautiful+Faced+One](varānane)
