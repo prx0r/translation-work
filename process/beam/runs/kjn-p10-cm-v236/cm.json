@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=member+bahuvrīhi",
-   "grounds": "first member of compound describing spokes"
+   "morph": "compound-member",
+   "grounds": "first member of compound aṣṭa-āraṃ"
   },
   {
    "lemma": "āraṃ",
-   "morph": "compound=member+bahuvrīhi",
+   "morph": "compound-member",
    "grounds": "second member of compound qualifying paṅkajaṃ"
   },
   {
    "lemma": "paṅkajaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object described and adorned"
+   "grounds": "object described as divine and adorned"
   },
   {
    "lemma": "divyaṃ",
@@ -24,17 +24,17 @@
   },
   {
    "lemma": "prathama",
-   "morph": "compound=member+karmadharaya",
-   "grounds": "first member of compound qualifying the octad"
+   "morph": "compound-member",
+   "grounds": "first member of compound prathama-aṣṭaka"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=member+tatpuruṣa",
-   "grounds": "instrumental cause of adornment in compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating adorning group"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "n.acc.sg",
+   "morph": "n.acc.sg.past-participle",
    "grounds": "past participle qualifying paṅkajaṃ"
   }
  ]

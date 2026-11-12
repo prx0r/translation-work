@@ -4,42 +4,42 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=member+karmadharaya",
-   "grounds": "first member of compound qualifying practice"
+   "morph": "compound-member",
+   "grounds": "first member of compound satata-abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=member+tatpuruṣa",
-   "grounds": "second member of compound qualifying yoga"
+   "morph": "compound-member",
+   "grounds": "second member of compound satata-abhyāsa"
   },
   {
    "lemma": "yogena",
-   "morph": "m.ins.sg",
-   "grounds": "instrumental means of transformation"
+   "morph": "m.inst.sg",
+   "grounds": "instrumental indicating means"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=member+dvigu",
-   "grounds": "first member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "first member of numerical compound dvi-aṣṭa"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=member+dvigu",
-   "grounds": "second member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "second member of numerical compound dvi-aṣṭa"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=member+tatpuruṣa",
-   "grounds": "third member of compound qualifying form"
+   "morph": "compound-member",
+   "grounds": "first member of compound varṣa-ākṛtiḥ"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject that comes to be"
+   "grounds": "subject of bhavet"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-opt/√bhū",
+   "morph": "3.sg.optative-active √bhū",
    "grounds": "optative expressing resulting state"
   }
  ]

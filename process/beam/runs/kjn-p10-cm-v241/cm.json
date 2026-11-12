@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.mid-pres/√kṛ",
-   "grounds": "main verb describing the practitioner’s power"
+   "morph": "3.sg.present-middle √kṛ",
+   "grounds": "present verb describing the practitioner's power"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "manner of assuming form"
+   "grounds": "indeclinable adverb modifying kurute"
   },
   {
    "lemma": "rūpaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object created or assumed"
+   "grounds": "object of kurute"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=member+tatpuruṣa",
-   "grounds": "first member of compound describing focused mind"
+   "morph": "compound-member",
+   "grounds": "first member of compound dhyāna-eka-gata-cetasaḥ"
   },
   {
    "lemma": "eka",
-   "morph": "compound=member+tatpuruṣa",
-   "grounds": "second member of compound describing focus"
+   "morph": "compound-member",
+   "grounds": "member of compound indicating one-pointedness"
   },
   {
    "lemma": "gata",
-   "morph": "compound=member+bahuvrīhi",
-   "grounds": "third member of compound describing mind state"
+   "morph": "compound-member",
+   "grounds": "member of compound indicating mind gone to one-pointed meditation"
   },
   {
    "lemma": "cetasaḥ",
    "morph": "n.gen.sg",
-   "grounds": "possessor of one-pointed meditative focus"
+   "grounds": "possessive relation describing the practitioner whose mind is one-pointed in meditation"
   }
  ]
 }
