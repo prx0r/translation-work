@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[two-dots](bindudvaye) [in-breast](kuce) [pair](yugme) [hibiscus-colored-half-moon](javābhamarddhacandrakam)
+[two-dots](bindudvaye) [in-breasts](kuce) [in-pair](yugme) [hibiscus-hued](javābha)+[half-moon](marddhacandrakam)
 
 ## mukta-m0-p08-v177
-[in-kāmarāja](kāmarāje) [great-seed](mahābīja) [attracting](ākarṣaṇakare) [supreme](pare)
+[in-kāmarāja](kāmarāje) [in-great-seed](mahābīja) [attraction-causing](ākarṣaṇakare) [supreme](pare)
 
 ## mukta-m0-p08-v178
-[in-two-lotus-forearm](padmadvayaprakoṣṭhe) [and](ca) [maddening](mādanaṃ) [yellow-like](pītasannibham)
+[in-two-lotus-enclosures](padmadvayaprakoṣṭhe) [and](ca) [mādana](mādanaṃ) [yellow-resembling](pītasannibham)
 
 ## mukta-m0-p08-v179
-[fourth](caturthī) [in-yoni-middle](yonimadhye) [indeed](tu) [illuminated](dīpitāṃ) [should-meditate](paricintayet)
+[fourth](caturthī) [in-womb-center](yonimadhye) [indeed](tu) [shining](dīpitāṃ) [one-should-meditate](paricintayet)
 
 ## mukta-m0-p08-v180
-[of-goddess](devyā) [seed](bījañca) [supreme](paramaṃ) [as-yoni](yonitvena) [should-contemplate](vicintayet)
+[of-goddess](devyā) [seed](bījañca) [supreme](paramaṃ) [as-womb](yonitvena) [one-should-conceive](vicintayet)
 
 ## mukta-m0-p08-v181
-[again](bhūyo'haṃ) [I](ahaṃ) [will-tell](kathayiṣyāmi) [meditation-truth](dhyānatattvaṃ) [composed](samāhitaḥ)
+[again](bhūyo) [I](ahaṃ) [will-tell](kathayiṣyāmi) [meditation-truth](dhyānatattvaṃ) [composed](samāhitaḥ)
 
 ## mukta-m0-p08-v182
-[śakti-seed](śaktibījantu) [there](tatraiva) [of-Śaṅkara](śaṅkarasya) [three-eyed](trinetrakam)
+[śakti-seed](śaktibījantu) [there-indeed](tatraiva) [of-śaṅkara](śaṅkarasya) [three-eyed](trinetrakam)
 
 ## mukta-m0-p08-v183
-[three-peaks-three-hrīṃ](trikūṭatrayahrīṃkāraṃ) [of-goddess](devyā) [three-eyes](netratrayaṃ) [auspicious](śubham)
+[triple-triad](trikūṭatraya)+[hrīṃ-syllable](hrīṃkāraṃ) [of-goddess](devyā) [three-eyes](netratrayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p08-v184
-[from-ra](rephāccaiva) [and](ca) [great-illusion](mahāmāyā) [all-pervasion](sarvavyāptiṃ) [grants](prayacchati)
+[from-repha](rephāccaiva) [great-illusion](mahāmāyā) [all-pervasion](sarvavyāptiṃ) [bestows](prayacchati)
 
 ## mukta-m0-p08-v185
-[of-kāmarāja](kāmarājasya) [in-hrīṃ](hrīṃkāre) [fruit](phalaṃ) [will-speak](vakṣyāmi) [supreme-that](tatparam)
+[of-kāmarāja](kāmarājasya) [in-hrīṃ-syllable](hrīṃkāre) [fruit](phalaṃ) [I-will-tell](vakṣyāmi) [that-supreme](tatparam)
 
 ## mukta-m0-p08-v186
-[great-illusion](mahāmāyā) [kāma-art](kāmakalā) [consciousness-bliss-illuminating](cidānandaprakāśikā)
+[great-illusion](mahāmāyā) [desire-art](kāmakalā) [consciousness-bliss-manifesting](cidānandaprakāśikā)
 
 ## mukta-m0-p08-v187
-[ha-syllable](hakāro) [destroys](hanti) [indeed](vai) [death](mṛtyuṃ) [ra](rephaḥ) [all-illuminating](sarvaprakāśakaḥ)
+[ha-syllable](hakāro) [destroys](hanti) [indeed](vai) [death](mṛtyuṃ) [repha](rephaḥ) [all-illuminating](sarvaprakāśakaḥ)
 
 ## mukta-m0-p08-v188
-[remainder](śeṣañca) [and](ca) [I-tell](kathayāmyatha) [then](atha)
+[remainder](śeṣañca) [I-tell](kathayāmyatha)
 
 ## mukta-m0-p08-v189
-[la-syllable](lakāraḥ) [from-earth-lordship](pṛthivīśatvādrūpaiśvaryakaraḥ) [form-wealth-making](rūpaiśvaryakaraḥ) [always](sadā)
+[la-syllable](lakāraḥ) [due-to-earth-nature](pṛthivīśatvād)+[form-sovereignty-causing](rūpaiśvaryakaraḥ) [always](sadā)
 
 ## mukta-m0-p08-v190
-[Indra](śakrastribhuvane) [in-three-worlds](tribhuvane) [king](rājā) [in-three-peaks](trikūṭeṣu) [established](vyavasthitaḥ)
+[śakra](śakras)+[in-three-worlds](tribhuvane) [king](rājā) [in-triads](trikūṭeṣu) [situated](vyavasthitaḥ)
 
 ## mukta-m0-p08-v191
-[consciousness-bliss-filled](cidānandamayaṃ) [form](rūpaṃ) [grants](prayacchati) [not](na) [doubt](saṃśayaḥ)
+[consciousness-bliss-made](cidānandamayaṃ) [form](rūpaṃ) [bestows](prayacchati) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p08-v192
-[beyond-principle](tattvātītaṃ) [state](padaṃ) [after](paścāt) [ka-syllable](kakāro) [head-destroyer](mastakāntakaḥ)
+[beyond-principles](tattvātītaṃ) [state](padaṃ) [afterwards](paścāt) [ka-syllable](kakāro) [head-end](mastakāntakaḥ)
 
 ## mukta-m0-p08-v193
-[such](etādṛśī) [great-knowledge](mahāvidyā) [half-woman-lord](arddhanāriśvaraḥ) [Śiva](śivaḥ)
+[such](etādṛśī) [great-knowledge](mahāvidyā) [half-female-lord](arddhanāriśvaraḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p08-v194
-[of-fortune](saubhāgyāyā) [seed-distinction](bījabhedaṃ) [will-speak](vakṣyāmi) [supremely-wonderful](paramādbhutam)
+[of-saubhāgyā](saubhāgyāyā) [seed-division](bījabhedaṃ) [I-will-tell](vakṣyāmi) [supremely-wonderful](paramādbhutam)
 
 ## mukta-m0-p08-v195
-[four-Vedas](caturvedaḥ) [Śiva](śivaḥ) [Śambhu](śambhuścaturdikṣu) [in-four-directions](caturdikṣu) [established](vyavasthitaḥ)
+[four-vedas](caturvedaḥ) [śiva](śivaḥ) [śambhu](śambhuś)+[in-four-directions](caturdikṣu) [situated](vyavasthitaḥ)
 
 ## mukta-m0-p08-v196
-[in-śakti-peak](śaktikūṭe) [two-ka](kakārau) [two](dvau) [of-Brahmā](brahmaṇastu) [four-faced](caturmukham)
+[in-śakti-group](śaktikūṭe) [two-ka-syllables](kakārau) [two](dvau) [of-brahmā](brahmaṇas)+[indeed](tu) [four-faces](caturmukham)
 
 ## mukta-m0-p08-v197
-[Tripurā](tripurā) [and](ca) [great-illusion](mahāmāyā) [śakti](śaktirekā) [one](ekā) [proclaimed](prakīrtitā)
+[tripurā](tripurā) [and](ca) [great-illusion](mahāmāyā) [power](śaktir)+[one](ekā) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p08-v198
-[he](sa) [heaven-partaker](svargabhāgī) [liberated](muktaśca) [and](ca) [goddess-son](devīputro) [on-earth](mahītale)
+[he](sa) [heaven-partaker](svargabhāgī) [liberated](muktaś)+[and](ca) [goddess-son](devīputro) [on-earth-surface](mahītale)
 
 ## mukta-m0-p08-v199
-[twelfth](dvādaśaḥ) [manifestation](prakāśaḥ)
+[twelfth](dvādaśaḥ) [chapter](prakāśaḥ)
 
 ## mukta-m0-p08-v200
-[Brahma-knowledge-form](brahmavidyāsvarūpāñca) [and](ca) [enjoyment-liberation-fruit-giving](bhuktimuktiphalapradām)
+[brahman-knowledge-formed](brahmavidyāsvarūpāñca) [enjoyment-liberation-fruit-giving](bhuktimuktiphalapradām)

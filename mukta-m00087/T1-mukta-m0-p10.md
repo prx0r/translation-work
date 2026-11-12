@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[whose+grace](yatprasādāt) [arose](abhūt) [Lakshmi](lakṣmīḥ) [Vaishnavi](vaiṣṇavī) [Vishnu+beloved](viṣṇuvallabhā)
+[by-whose-grace](yatprasādād) [became](abhūl) [lakṣmī](lakṣmīr) [vaiṣṇavī](vaiṣṇavī) [beloved-of-viṣṇu](viṣṇuvallabhā)
 
 ## mukta-m0-p10-v227
-[another](aparām) [I+will+declare](pravakṣyāmi) [Shodashi](ṣoḍaśīm) [all+difficult](sarvadurlabhām)
+[another-and](aparāñca) [i-shall-declare](pravakṣyāmi) [ṣoḍaśī](ṣoḍaśīṃ) [difficult-for-all-to-attain](sarvadurlabhām)
 
 ## mukta-m0-p10-v228
-[having+chanted](japtvā) [best+sadhaka](sādhakaśreṣṭhaḥ) [lordship+of+speech](vāgīśatvam) [attained](upeyivān)
+[having-recited](japtvā) [indeed](tu) [best-of-practitioners](sādhakaśreṣṭho) [lordship-of-speech](vāgīśatvam) [attained](upeyivān)
 
 ## mukta-m0-p10-v229
-[with+this](anayā) [equal](sadṛśī) [vidya](vidyā) [not+was](na+bhūtā) [not+will+be](na+bhaviṣyati)
+[like-this](anayā) [equal](sadṛśī) [knowledge](vidyā) [not](na) [was](bhūtā) [not](na) [will-be](bhaviṣyati)
 
 ## mukta-m0-p10-v230
-[ajapa](ajapā) [great+vidya](mahāvidyā) [in+all+tantras](sarvatantreṣu) [pure](nirmalā)
+[unuttered](ajapā) [and](ca) [great-knowledge](mahāvidyā) [in-all-tantras](sarvatantreṣu) [pure](nirmalā)
 
 ## mukta-m0-p10-v231
-[giving+siddhi](siddhidā) [of+all+desires](sarvakāmānām) [Shiva+throat+ornament](śivakaṇṭhavibhūṣitā)
+[giver-of-accomplishment](siddhidā) [of-all-desires](sarvakāmānāṃ) [adorned-by-śiva's-neck](śivakaṇṭhavibhūṣitā)
 
 ## mukta-m0-p10-v232
-[then+another](athāparām) [I+will+declare](pravakṣyāmi) [giving+lordship+of+speech](vāgīśatvapradāyinīm)
+[now](atha) [another](aparāṃ) [i-shall-declare](pravakṣyāmī) [giver-of-lordship-of-speech](vāgīśatvapradāyinīm)
 
 ## mukta-m0-p10-v233
-[whose+grace](yatprasādāt) [guru+of+gods](surācāryaḥ) [lordship+of+speech](vāgīśatvam) [obtained](upālabhat)
+[by-whose-grace](yatprasādāt) [teacher-of-gods](surācāryo) [lordship-of-speech](vāgīśatvam) [obtained](upālabhat)
 
 ## mukta-m0-p10-v234
-[bindu+srag+bija+preceded](bindusragbījapūrvā) [she](sā) [by+Shambhu](śambhunā) [worshipped](paripūjitā)
+[preceded-by-bindu-and-srag-bīja](bindusragbījapūrvā) [she](sā) [by-śambhu](śambhunā) [fully-worshipped](paripūjitā)
 
 ## mukta-m0-p10-v235
-[of+Lopamudra+named+vidya](lopāmudrākhyavidyāyāḥ) [manner](prakāraḥ) [such](īdṛśaḥ) [remembered](smṛtaḥ)
+[of-the-knowledge-called-lopāmudrā](lopāmudrākhyavidyāyāḥ) [form](prakāra) [such](īdṛśaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p10-v236
-[he](saḥ) [most+secret](guhyatamaḥ) [in+tantra](tantre) [wish+giving](manorathapradāyakaḥ)
+[that](sa) [indeed](tu) [most-secret-in-tantra](guhyatamastantre) [giver-of-desired-objects](manorathapradāyakaḥ)
 
 ## mukta-m0-p10-v237
-[worshipped](upāsyā) [by+Narada](nāradena) [this](iyam) [whence+arose](yataḥ+abhūt) [mental](mānasī) [path](gatiḥ)
+[to-be-worshipped](upāsyā) [by-nārada](nāradeneyaṃ) [because](yato) [became](’bhūn) [mental-state](mānasī) [attainment](gatiḥ)
 
 ## mukta-m0-p10-v238
-[whose](yasyāḥ) [by+knowledge+alone](vijñānamātreṇa) [Brahman](brahma) [directly](sākṣāt) [no+doubt](na+saṃśayaḥ)
+[of-which](yasyā) [by-mere-knowledge](vijñānamātreṇa) [brahman](brahma) [directly](sākṣān) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p10-v239
-[being+nonbeing+free](bhāvābhāvavinirmuktā) [beyond+gunas](guṇātītā) [declared](nigadyate)
+[free-from-being-and-non-being](bhāvābhāvavinirmuktā) [beyond-qualities](guṇātītā) [is-declared](nigadyate)
 
 ## mukta-m0-p10-v240
-[real+unreal+thing+determination](sadasadvastunirddhāraḥ) [of+turiya](turyāyāḥ) [these+parts](kalāḥ+imāḥ)
+[determination-of-real-and-unreal-things](sadasadvastunirddhāras) [of-turīyā](turyāyās) [indeed](tu) [phases](kalā) [these](imāḥ)
 
 ## mukta-m0-p10-v241
-[of+vidyas](vidyānām) [highest](uttamā) [vidya](vidyā) [in+all+shastras](sarvaśāstreṣu) [rare](durlabhā)
+[of-knowledges](vidyānām) [supreme](uttamā) [knowledge](vidyā) [in-all-scriptures](sarvaśāstreṣu) [difficult-to-attain](durlabhā)
 
 ## mukta-m0-p10-v242
-[by+one+utterance](ekoccāreṇa) [perish](naśyanti) [crores+of+great+sins](mahāpātakakoṭayaḥ)
+[by-one-utterance](ekoccāreṇa) [are-destroyed](naśyanti) [crores-of-great-sins](mahāpātakakoṭayaḥ)
 
 ## mukta-m0-p10-v243
-[tula+purusha+lakshas](tulāpuruṣalakṣāṇi) [and](ca) [hundred+horse+sacrifices](vājimedhaśatāni)
+[hundreds-of-thousands-of-tulāpuruṣa-gifts](tulāpuruṣalakṣāṇi) [hundreds-of-horse-sacrifices](vājimedhaśatāni) [and](ca)
 
 ## mukta-m0-p10-v244
-[by+one+utterance+alone](ekoccāraṇamātreṇa) [what+then](kiṃ+punaḥ) [Brahman](brahma) [alone](kevalam)
+[by-mere-one-utterance](ekoccāraṇamātreṇa) [what](kiṃ) [moreover](punar) [brahman](brahma) [alone](kevalam)
 
 ## mukta-m0-p10-v245
-[weight](tulām) [not+deserve](nārhanti) [anywhere](kutrāpi) [no](nātra) [deliberation](kāryā+vicāraṇā)
+[balance](tulāṃ) [not](na) [deserve](arhanti) [anywhere](kutrāpi) [not](na) [here](atra) [to-be-made](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p10-v246
-[in+all+ways](sarvathā) [conceal](gopayed) [vidya](vidyām) [if+one+wishes](yadīcchet) [own](ātmanaḥ) [benefit](hitam)
+[in-every-way](sarvathā) [one-should-conceal](gopayed) [knowledge](vidyāṃ) [if](yad) [one-desires](īcched) [of-oneself](ātmano) [welfare](hitam)
 
 ## mukta-m0-p10-v247
-[bija](bījam) [fivefold](pañcakam) [thus](ittham) [indeed](eva) [spoken](uditam) [all+purpose+siddhi+giving](sarvārthasiddhipradam)
+[seed](bījaṃ) [consisting-of-five](pañcakam) [thus](ittham) [in-this-way](evam) [declared](uditaṃ) [giver-of-accomplishment-of-all-aims](sarvārthasiddhipradam)
 
 ## mukta-m0-p10-v248
-[essence+of+essence](sārāt+sāratarā) [of+all+worlds](samastajagatām) [origin+being](utpattibhūtā) [Shiva](śivā)
+[essence-of-essence](sārāt) [more-essential](sāratarā) [of-all-worlds](samastajagatām) [source-of-origination](utpattibhūtā) [auspicious](śivā)
 
 ## mukta-m0-p10-v249
-[vidya](vidyā) [this](iyam) [all+first](sarvapūrvā) [all+benefit+doing](sakalahitakarī) [cit+kalā+endless+form](citkalānantarūpā)
+[this-knowledge](vidyeyaṃ) [first-of-all](sarvapūrvā) [causing-benefit-to-all](sakalahitakarī) [of-the-nature-of-unending-consciousness-phases](citkalānantarūpā)
 
 ## mukta-m0-p10-v250
-[by+all+Agamas](sarvāmnāyaiḥ) [worshipped](prapūjyā) [all+benefit+doing](sakalahitakarī) [to+be+concealed](gopanīyā) [carefully](prayatnāt)
+[by-all-traditions](sarvāmnāyaiḥ) [to-be-worshipped](prapūjyā) [causing-benefit-to-all](sakalahitakarī) [to-be-concealed](gopanīyā) [with-effort](prayatnāt)

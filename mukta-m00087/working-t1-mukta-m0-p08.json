@@ -12,15 +12,19 @@
 },
 {
 "surface": "kuce",
-"quick_gloss": "in-breast"
+"quick_gloss": "in-breasts"
 },
 {
 "surface": "yugme",
-"quick_gloss": "pair"
+"quick_gloss": "in-pair"
 },
 {
-"surface": "javābhamarddhacandrakam",
-"quick_gloss": "hibiscus-colored-half-moon"
+"surface": "javābha",
+"quick_gloss": "hibiscus-hued"
+},
+{
+"surface": "marddhacandrakam",
+"quick_gloss": "half-moon"
 }
 ]
 },
@@ -37,11 +41,11 @@
 },
 {
 "surface": "mahābīja",
-"quick_gloss": "great-seed"
+"quick_gloss": "in-great-seed"
 },
 {
 "surface": "ākarṣaṇakare",
-"quick_gloss": "attracting"
+"quick_gloss": "attraction-causing"
 },
 {
 "surface": "pare",
@@ -58,7 +62,7 @@
 "tokens": [
 {
 "surface": "padmadvayaprakoṣṭhe",
-"quick_gloss": "in-two-lotus-forearm"
+"quick_gloss": "in-two-lotus-enclosures"
 },
 {
 "surface": "ca",
@@ -66,11 +70,11 @@
 },
 {
 "surface": "mādanaṃ",
-"quick_gloss": "maddening"
+"quick_gloss": "mādana"
 },
 {
 "surface": "pītasannibham",
-"quick_gloss": "yellow-like"
+"quick_gloss": "yellow-resembling"
 }
 ]
 },
@@ -87,7 +91,7 @@
 },
 {
 "surface": "yonimadhye",
-"quick_gloss": "in-yoni-middle"
+"quick_gloss": "in-womb-center"
 },
 {
 "surface": "tu",
@@ -95,11 +99,11 @@
 },
 {
 "surface": "dīpitāṃ",
-"quick_gloss": "illuminated"
+"quick_gloss": "shining"
 },
 {
 "surface": "paricintayet",
-"quick_gloss": "should-meditate"
+"quick_gloss": "one-should-meditate"
 }
 ]
 },
@@ -124,11 +128,11 @@
 },
 {
 "surface": "yonitvena",
-"quick_gloss": "as-yoni"
+"quick_gloss": "as-womb"
 },
 {
 "surface": "vicintayet",
-"quick_gloss": "should-contemplate"
+"quick_gloss": "one-should-conceive"
 }
 ]
 },
@@ -140,7 +144,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūyo'haṃ",
+"surface": "bhūyo",
 "quick_gloss": "again"
 },
 {
@@ -174,11 +178,11 @@
 },
 {
 "surface": "tatraiva",
-"quick_gloss": "there"
+"quick_gloss": "there-indeed"
 },
 {
 "surface": "śaṅkarasya",
-"quick_gloss": "of-Śaṅkara"
+"quick_gloss": "of-śaṅkara"
 },
 {
 "surface": "trinetrakam",
@@ -194,8 +198,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trikūṭatrayahrīṃkāraṃ",
-"quick_gloss": "three-peaks-three-hrīṃ"
+"surface": "trikūṭatraya",
+"quick_gloss": "triple-triad"
+},
+{
+"surface": "hrīṃkāraṃ",
+"quick_gloss": "hrīṃ-syllable"
 },
 {
 "surface": "devyā",
@@ -220,11 +228,7 @@
 "tokens": [
 {
 "surface": "rephāccaiva",
-"quick_gloss": "from-ra"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "from-repha"
 },
 {
 "surface": "mahāmāyā",
@@ -236,7 +240,7 @@
 },
 {
 "surface": "prayacchati",
-"quick_gloss": "grants"
+"quick_gloss": "bestows"
 }
 ]
 },
@@ -253,7 +257,7 @@
 },
 {
 "surface": "hrīṃkāre",
-"quick_gloss": "in-hrīṃ"
+"quick_gloss": "in-hrīṃ-syllable"
 },
 {
 "surface": "phalaṃ",
@@ -261,11 +265,11 @@
 },
 {
 "surface": "vakṣyāmi",
-"quick_gloss": "will-speak"
+"quick_gloss": "I-will-tell"
 },
 {
 "surface": "tatparam",
-"quick_gloss": "supreme-that"
+"quick_gloss": "that-supreme"
 }
 ]
 },
@@ -282,11 +286,11 @@
 },
 {
 "surface": "kāmakalā",
-"quick_gloss": "kāma-art"
+"quick_gloss": "desire-art"
 },
 {
 "surface": "cidānandaprakāśikā",
-"quick_gloss": "consciousness-bliss-illuminating"
+"quick_gloss": "consciousness-bliss-manifesting"
 }
 ]
 },
@@ -315,7 +319,7 @@
 },
 {
 "surface": "rephaḥ",
-"quick_gloss": "ra"
+"quick_gloss": "repha"
 },
 {
 "surface": "sarvaprakāśakaḥ",
@@ -335,16 +339,8 @@
 "quick_gloss": "remainder"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "kathayāmyatha",
 "quick_gloss": "I-tell"
-},
-{
-"surface": "atha",
-"quick_gloss": "then"
 }
 ]
 },
@@ -360,12 +356,12 @@
 "quick_gloss": "la-syllable"
 },
 {
-"surface": "pṛthivīśatvādrūpaiśvaryakaraḥ",
-"quick_gloss": "from-earth-lordship"
+"surface": "pṛthivīśatvād",
+"quick_gloss": "due-to-earth-nature"
 },
 {
 "surface": "rūpaiśvaryakaraḥ",
-"quick_gloss": "form-wealth-making"
+"quick_gloss": "form-sovereignty-causing"
 },
 {
 "surface": "sadā",
@@ -381,8 +377,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śakrastribhuvane",
-"quick_gloss": "Indra"
+"surface": "śakras",
+"quick_gloss": "śakra"
 },
 {
 "surface": "tribhuvane",
@@ -394,11 +390,11 @@
 },
 {
 "surface": "trikūṭeṣu",
-"quick_gloss": "in-three-peaks"
+"quick_gloss": "in-triads"
 },
 {
 "surface": "vyavasthitaḥ",
-"quick_gloss": "established"
+"quick_gloss": "situated"
 }
 ]
 },
@@ -411,7 +407,7 @@
 "tokens": [
 {
 "surface": "cidānandamayaṃ",
-"quick_gloss": "consciousness-bliss-filled"
+"quick_gloss": "consciousness-bliss-made"
 },
 {
 "surface": "rūpaṃ",
@@ -419,11 +415,11 @@
 },
 {
 "surface": "prayacchati",
-"quick_gloss": "grants"
+"quick_gloss": "bestows"
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "no"
 },
 {
 "surface": "saṃśayaḥ",
@@ -440,7 +436,7 @@
 "tokens": [
 {
 "surface": "tattvātītaṃ",
-"quick_gloss": "beyond-principle"
+"quick_gloss": "beyond-principles"
 },
 {
 "surface": "padaṃ",
@@ -448,7 +444,7 @@
 },
 {
 "surface": "paścāt",
-"quick_gloss": "after"
+"quick_gloss": "afterwards"
 },
 {
 "surface": "kakāro",
@@ -456,7 +452,7 @@
 },
 {
 "surface": "mastakāntakaḥ",
-"quick_gloss": "head-destroyer"
+"quick_gloss": "head-end"
 }
 ]
 },
@@ -477,11 +473,11 @@
 },
 {
 "surface": "arddhanāriśvaraḥ",
-"quick_gloss": "half-woman-lord"
+"quick_gloss": "half-female-lord"
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "Śiva"
+"quick_gloss": "śiva"
 }
 ]
 },
@@ -494,15 +490,15 @@
 "tokens": [
 {
 "surface": "saubhāgyāyā",
-"quick_gloss": "of-fortune"
+"quick_gloss": "of-saubhāgyā"
 },
 {
 "surface": "bījabhedaṃ",
-"quick_gloss": "seed-distinction"
+"quick_gloss": "seed-division"
 },
 {
 "surface": "vakṣyāmi",
-"quick_gloss": "will-speak"
+"quick_gloss": "I-will-tell"
 },
 {
 "surface": "paramādbhutam",
@@ -519,15 +515,15 @@
 "tokens": [
 {
 "surface": "caturvedaḥ",
-"quick_gloss": "four-Vedas"
+"quick_gloss": "four-vedas"
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "Śiva"
+"quick_gloss": "śiva"
 },
 {
-"surface": "śambhuścaturdikṣu",
-"quick_gloss": "Śambhu"
+"surface": "śambhuś",
+"quick_gloss": "śambhu"
 },
 {
 "surface": "caturdikṣu",
@@ -535,7 +531,7 @@
 },
 {
 "surface": "vyavasthitaḥ",
-"quick_gloss": "established"
+"quick_gloss": "situated"
 }
 ]
 },
@@ -548,23 +544,27 @@
 "tokens": [
 {
 "surface": "śaktikūṭe",
-"quick_gloss": "in-śakti-peak"
+"quick_gloss": "in-śakti-group"
 },
 {
 "surface": "kakārau",
-"quick_gloss": "two-ka"
+"quick_gloss": "two-ka-syllables"
 },
 {
 "surface": "dvau",
 "quick_gloss": "two"
 },
 {
-"surface": "brahmaṇastu",
-"quick_gloss": "of-Brahmā"
+"surface": "brahmaṇas",
+"quick_gloss": "of-brahmā"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "caturmukham",
-"quick_gloss": "four-faced"
+"quick_gloss": "four-faces"
 }
 ]
 },
@@ -577,7 +577,7 @@
 "tokens": [
 {
 "surface": "tripurā",
-"quick_gloss": "Tripurā"
+"quick_gloss": "tripurā"
 },
 {
 "surface": "ca",
@@ -588,8 +588,8 @@
 "quick_gloss": "great-illusion"
 },
 {
-"surface": "śaktirekā",
-"quick_gloss": "śakti"
+"surface": "śaktir",
+"quick_gloss": "power"
 },
 {
 "surface": "ekā",
@@ -617,7 +617,7 @@
 "quick_gloss": "heaven-partaker"
 },
 {
-"surface": "muktaśca",
+"surface": "muktaś",
 "quick_gloss": "liberated"
 },
 {
@@ -630,7 +630,7 @@
 },
 {
 "surface": "mahītale",
-"quick_gloss": "on-earth"
+"quick_gloss": "on-earth-surface"
 }
 ]
 },
@@ -647,7 +647,7 @@
 },
 {
 "surface": "prakāśaḥ",
-"quick_gloss": "manifestation"
+"quick_gloss": "chapter"
 }
 ]
 },
@@ -660,11 +660,7 @@
 "tokens": [
 {
 "surface": "brahmavidyāsvarūpāñca",
-"quick_gloss": "Brahma-knowledge-form"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "brahman-knowledge-formed"
 },
 {
 "surface": "bhuktimuktiphalapradām",
