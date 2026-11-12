@@ -1,12 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 342,
- "question": "To which revilers of sacred principles must the teaching never be given?",
+ "question": "To which revilers of sacred authorities must the teaching never be given?",
  "premises": [
-  "Reviling Shiva is a grave fault.",
-  "Slandering Kula Bhairava is a grave fault."
+  "Reviling Shiva is prohibited",
+  "Slandering is prohibited",
+  "Disrespect toward Kula Bhairava is prohibited"
  ],
- "inference": "The teaching must not be given to a reviler of Shiva or a slanderer of Kula Bhairava.",
- "uncertainties": [],
- "plain_english": "Not to a reviler of Shiva, O goddess, nor to a slanderer of Kula Bhairava."
+ "inference": "The teaching must not be given to those who revile Shiva or slander Kula Bhairava.",
+ "uncertainties": [
+  "kulabhairave may refer to a person or the tradition; context is ambiguous"
+ ],
+ "plain_english": "O Goddess, not to one who reviles Shiva, nor to a slanderer of Kula Bhairava."
 }

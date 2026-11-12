@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "Under what condition of practice for one year are old age and death destroyed?",
+ "question": "What result follows from practicing this technique continuously for one year?",
  "premises": [
-  "A practice is undertaken.",
-  "That practice is carried out for one year.",
-  "When practiced for one year, old age and death are destroyed."
+  "The practice is continued for one year",
+  "The condition is that it has been practiced",
+  "Old age and death are destroyed"
  ],
- "inference": "When this practice has been carried out for one year, old age and death are destroyed.",
- "uncertainties": [
-  "Which practice is meant not restated here"
- ],
- "plain_english": "When practiced for one year, old age and death are destroyed."
+ "inference": "One year of this practice destroys old age and death.",
+ "uncertainties": [],
+ "plain_english": "When this has been practiced for one year, old age and death are destroyed."
 }
