@@ -1,15 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 315,
- "question": "Which materials are prescribed for the ritual vessels being described?",
+ "question": "Which materials for vessels are enumerated in response to the goddess?",
  "premises": [
-  "Vessels may be made of clay",
-  "Vessels may be tortoise-born",
-  "Vessels may be made of bell-metal or copper"
+  "A clay vessel is named.",
+  "A tortoise-born vessel is named.",
+  "Vessels of bell-metal and copper-metal are named."
  ],
- "inference": "Acceptable vessels include those made of clay, tortoise-derived material, bell-metal, and copper.",
- "uncertainties": [
-  "The exact meaning of 'kūrmajaṃ' is uncertain"
- ],
- "plain_english": "O Goddess, vessels made of clay, born of tortoise, made of bell-metal, and made of copper."
+ "inference": "Acceptable vessels include those made of clay, tortoise, bell-metal, and copper-metal.",
+ "uncertainties": [],
+ "plain_english": "O Goddess, vessels made of clay, born of a tortoise, made of bell-metal, and made of copper-metal."
 }

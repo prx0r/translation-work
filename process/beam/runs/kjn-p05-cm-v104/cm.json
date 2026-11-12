@@ -4,12 +4,12 @@
  "rows": [
   {
    "lemma": "tvat+prasādena",
-   "morph": "compound: tvat+prasādena (m.ins.sg)",
-   "grounds": "instrumental cause"
+   "morph": "compound+m.ins.sg",
+   "grounds": "instrumental compound"
   },
   {
    "lemma": "kauleśa",
-   "morph": "m.voc.sg",
+   "morph": "compound+m.voc.sg",
    "grounds": "vocative address"
   },
   {
@@ -20,12 +20,12 @@
   {
    "lemma": "ahaṃ",
    "morph": "pron.nom.sg",
-   "grounds": "speaker pronoun"
+   "grounds": "first person pronoun"
   },
   {
    "lemma": "kaula+nirṇayaḥ",
-   "morph": "compound: kaula+nirṇayaḥ (m.nom.sg)",
-   "grounds": "compound object of knowledge"
+   "morph": "compound+m.nom.sg",
+   "grounds": "compound subject"
   }
  ]
 }

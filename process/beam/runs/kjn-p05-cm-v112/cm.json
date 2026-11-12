@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "anena",
-   "morph": "pron.n.ins.sg",
+   "morph": "n.ins.sg",
    "grounds": "instrumental demonstrative"
   },
   {
    "lemma": "jñāna+mātreṇa",
-   "morph": "compound: jñāna+mātreṇa (n.ins.sg)",
-   "grounds": "compound instrumental"
+   "morph": "compound+n.ins.sg",
+   "grounds": "instrumental compound"
   },
   {
    "lemma": "śrutena",
@@ -20,11 +20,11 @@
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "conjunctive particle"
   },
   {
    "lemma": "varānane",
-   "morph": "f.voc.sg",
+   "morph": "compound+f.voc.sg",
    "grounds": "vocative address"
   }
  ]

@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral form as given",
-     "morph": "indecl."
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural of numeral as given",
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
      "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "locative plural compound as given",
-     "morph": "compound = member+membership"
+     "gloss": "womb-diagrams",
+     "grounds": "locative compound context",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle form as given",
-     "morph": "m.nom.pl"
+     "grounds": "past passive participle agreement",
+     "morph": "3.pl.perf.pass"
     }
    ],
-   "question": "By what measure of count and location are certain beings said to undergo torment in this context?",
+   "question": "By what count and in what kind of womb-diagrams are certain beings said to be tormented?",
    "premises": [
-    "A count of eighty-four is specified for the set in question.",
-    "That count is placed within thousands as a locative frame.",
-    "The location is specified as womb-diagrams where torment occurs."
+    "A count of eighty-four is specified here.",
+    "That count applies to thousands of womb-diagrams.",
+    "Beings are stated to be tormented within them."
    ],
-   "inference": "Torment is assigned to beings situated within eighty-four thousands of womb-diagrams.",
+   "inference": "Eighty-four thousand womb-diagrams are the sites in which those beings are tormented.",
    "uncertainties": [
-    "The identity of the beings undergoing torment is not specified by these tokens alone."
+    "Which class of beings is meant remains implicit from this verse alone."
    ],
-   "plain_english": "In eighty-four thousands of womb-diagrams, they are tormented."
+   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
   }
  ]
 }
