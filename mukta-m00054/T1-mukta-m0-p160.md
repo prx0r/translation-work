@@ -23,13 +23,13 @@
 [bondage](bandha)-[liberation](mokṣa)-[maker](karañcaiva) [of-the-sun](bhānoḥ) [name](nāma)-[recitation](anukīrttanam)
 
 ## mukta-m0-p160-v3983
-[imperishable](akṣayaṃ) [happiness](sukham) [food](annādyam) [becomes](bhavettasya) [accomplished](upasādhitam)
+[imperishable](akṣayaṃ) [happiness](sukham) [food](annādyam) [becomes](bhavettasya) [by-that](upasādhitam)
 
 ## mukta-m0-p160-v3984
-[victorious](vijayī) [and](ca) [becomes](bhavennityaṃ) [welfare](śreyaḥ) [and](ca) [supreme](param) [obtains](āpnuyāt)
+[victorious](vijayī) [and](ca) [becomes](bhavennityaṃ) [highest](parama) [good](śreyaśca) [attains](āpnuyāt)
 
 ## mukta-m0-p160-v3985
-[becomes](bhaved) [hundred](varṣa)-[years](śata)-[long-lived](āyuḥ) [and](ca) [all](sarva)-[diseases](vyādhi)-[free](vivarjitaḥ)
+[becomes](bhaved) [hundred](varṣa)-[years](śata)-[long-lived](āyuśca) [all](sarva)-[disease](vyādhi)-[free](vivarjitaḥ)
 
 ## mukta-m0-p160-v3986
 [I-bow](vvande) [to-Viṣṇu](viṣṇum) [existence](bhava)-[fear](bhaya)-[remover](haraṃ) [all](sarva)-[worlds](loka)-[sole](eka)-[lord](nātham)
@@ -38,28 +38,28 @@
 [he](saḥ) [earth](bhūmiṃ) [on-all-sides](sarvatasspṛtvā) [stood](atyatiṣṭhat) [ten](daśa)-[fingers](aṅgulam)
 
 ## mukta-m0-p160-v3988
-[and-the-nectar](utāmṛta)-[essence](tattvasya) [lord](īśānaḥ) [by-what](yad) [food](annena) [passes-beyond](atirohati)
+[of-immortality](utāmṛtattvasya) [lord](īśānaḥ) [by-food](yadannenā) [passes-beyond](tirohati)
 
 ## mukta-m0-p160-v3989
-[foot](pādaḥ) [of-him](asya) [all](viśvā) [beings](bhūtāni) [three-quarters](tripād) [of-him](asya) [nectar](amṛtam) [in-heaven](divi)
+[foot](pādaḥ) [of-him](asya) [all](viśvā) [beings](bhūtāni) [three-quarters](tripādasya) [immortal](amṛtam) [in-heaven](divi)
 
 ## mukta-m0-p160-v3990
-[then](tataḥ) [pervading](viṣvaṅ) [strode](vyakrāmat) [with-eating](sāśana) [without-eating](anaśane) [towards](abhi)
+[then](tataḥ) [pervading](viṣvaṅ) [strode](vyakrāmat) [with-eating](sāśanāna) [without-eating](śane'-abhi)
 
 ## mukta-m0-p160-v3991
 [he](saḥ) [born](jātaḥ) [was-greater](atyaricyata) [afterwards](paścāt) [earth](bhūmim) [then](atho) [before](puraḥ)
 
 ## mukta-m0-p160-v3992
-[animals](paśūn) [he-made](stāścakre) [belonging-to-air](vāyavyān) [wild](āraṇyāḥ) [and-village](grāmyāśca) [which](ye)
+[animals](paśūn) [he-made](stāścakre) [belonging-to-vāyu](vāyavyān) [wild](āraṇyāḥ) [village](grāmyāśca) [which](ye)
 
 ## mukta-m0-p160-v3993
-[hymns](chandāṃsi) [were-born](jajñire) [from-him](tasmāt) [Yajus](yajuḥ) [from-him](tasmāt) [was-born](ajāyata)
+[hymns](chandāṃsi) [were-born](jajñire) [from-him](tasmāt) [Yajus](yajuḥ) [from-that](tasmāt) [was-born](ajāyata)
 
 ## mukta-m0-p160-v3994
-[cows](gāvaḥ) [indeed](ha) [were-born](jajñire) [from-him](tasmāt) [from-him](tasmāt) [born](jātāḥ) [goats-and-sheep](ajāvayaḥ)
+[cows](gāvaḥ) [indeed](ha) [were-born](jajñire) [from-him](tasmāt) [from-that](tasmāt) [born](jātāḥ) [goats-and-sheep](ajāvayaḥ)
 
 ## mukta-m0-p160-v3995
-[by-him](tena) [gods](devāḥ) [sacrificed](ayajanta) [Sādhyas](sādhyāḥ) [seers](ṛṣayaśca) [and](ye)
+[by-him](tena) [gods](devāḥ) [sacrificed](ayajanta) [Sādhyas](sādhyāḥ) [seers](ṛṣayaśca) [which](ye)
 
 ## mukta-m0-p160-v3996
 [mouth](mukham) [what](kim) [of-him](asya) [was](āsīt) [what](kim) [arms](bāhū) [what](kim) [thighs](ūrū) [feet](pādāḥ) [are-called](ucyete)
@@ -74,4 +74,4 @@
 [from-feet](padbhyām) [earth](bhūmir) [quarters](diśaḥ) [from-ear](śrotrāt) [thus](tathā) [worlds](lokāḥ) [they-arranged](akalpayan)
 
 ## mukta-m0-p160-v4000
-[spring](vasantaḥ) [of-him](asya) [was](āsīt) [clarified-butter](ājyam) [summer](grīṣmaḥ) [fuel](idhmaḥ) [autumn](śarat) [oblation](haviḥ)
+[spring](vasantaḥ) [of-him](asya) [was](āsīt) [ghee](ājyam) [summer](grīṣmaḥ) [fuel](idhmaḥ) [autumn](śarat) [oblation](haviḥ)
