@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "By what origin is the fifth chapter of this work identified as having come forth?",
+ "question": "Which chapter concludes the teaching that emerged from Candradvīpa?",
  "premises": [
-  "A chapter is identified as the fifth in order.",
-  "That chapter is described as having emerged from Candradvīpa.",
-  "The term paṭala marks it as a chapter of the work."
+  "The text emerged from Candradvīpa",
+  "A chapter is being identified",
+  "It is the fifth chapter"
  ],
- "inference": "The fifth chapter is the one that has emerged from Candradvīpa.",
- "uncertainties": [
-  "The content transmitted from Candradvīpa is not specified by these tokens."
- ],
- "plain_english": "The fifth chapter is the one that emerged from Candradvīpa."
+ "inference": "This marks the conclusion of the fifth chapter of the Candradvīpa teaching.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the fifth chapter that emerged from Candradvīpa."
 }

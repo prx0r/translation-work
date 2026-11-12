@@ -1,16 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protection is claimed for the body even in the concessive case of being bitten by great serpents?",
+ "question": "What immunity to poison results from mastery of this yogic practice?",
  "premises": [
-  "Poison is named as the subject.",
-  "A negation states that poison does not enter.",
-  "The locus is specified as the body.",
-  "A concessive condition is given of being bitten by great serpents."
+  "The practitioner may be bitten by great serpents",
+  "Poison normally enters the body",
+  "In this case poison does not enter"
  ],
- "inference": "Poison does not enter the body, even if one has been bitten by great serpents.",
- "uncertainties": [
-  "The basis for this claimed protection is not stated by these tokens."
- ],
- "plain_english": "Poison does not enter the body, even if bitten by great serpents."
+ "inference": "Mastery of the practice grants immunity even to deadly serpent venom.",
+ "uncertainties": [],
+ "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
 }

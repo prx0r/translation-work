@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[having-written](likhitvā) [think](cintayed) [substance](dravyaṃ) [dead-state-devoid](mṛtabhāva-vivarjitam)
+[having-written](likhitvā) [one-should-contemplate](cintayet) [substance](dravyaṃ) [dead+state+devoid](mṛta+bhāva+vivarjitam)
 
 ## mukta-m0-p33-v802
-[seven-times-recitation-only](saptavārajapenaiva) [substance-purification-tu](dravyaśuddhistu) [that-moment](tatkṣaṇāt)
+[by-seven+times+chanting](sapta+vāra+japena) [alone](eva) [substance+purification](dravya+śuddhiḥ) [indeed](tu) [at-that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p33-v803
-[thus](iti) [śrī-sarvānandanātha](śrīsarvānandanātha) [composed](viracite) [sarvollāsa](sarvollāse) [twenty-sixth-ullāsa](ṣaḍviṃśatyullāsaḥ)
+[thus](iti) [by-śrī-sarvānandanātha](śrī+sarvānandanātha) [composed](viracite) [in-sarvollāsa](sarvollāse) [twenty-sixth+chapter](ṣaḍviṃśati+ullāsaḥ)
 
 ## mukta-m0-p33-v804
-[of-both](ubhayoḥ) [cause](kāraṇaṃ) [to-be-known](jñeyaṃ) [three-guṇa-great](guṇatrayamahat)
+[of-both](ubhayoḥ) [cause](kāraṇaṃ) [to-be-known](jñeyaṃ) [three+qualities+great](guṇa+traya+mahat) [supreme](param)
 
 ## mukta-m0-p33-v805
-[of-pigeon](kapotakasya) [of-goat](chāgasya) [of-tortoise](kūrmasya) [O-supreme-lady](parameśvari)
+[of-pigeon](kapotakasya) [of-goat](chāgasya) [of-tortoise](kūrmasya) [o-supreme-goddess](parameśvari)
 
 ## mukta-m0-p33-v806
-[having-brought](ānīya) [those](tāni) [with-effort](yatnena) [for-goddess-satisfaction](devyāḥ+santuṣṭahetave)
+[having-brought](ānīya) [them](tāni) [with-effort](yatnena) [of-goddess](devyāḥ) [satisfaction+for-the-sake-of](santuṣṭa+hetave)
 
 ## mukta-m0-p33-v807
-[having-brought](ānīya) [those](tāni) [with-effort](yatnena) [to-goddess-offering-slay](devyai+coddiśya+ghātayet)
+[having-brought](ānīya) [them](tāni) [with-effort](yatnena) [to-goddess](devyai) [and-having-dedicated](ca+uddiśya) [one-should-kill](ghātayet)
 
 ## mukta-m0-p33-v808
-[otherwise](anyathā) [slaying](ghātanād) [O-goddess](devi) [raurava-hell](rauravaṃ+narakaṃ) [go](vrajet)
+[otherwise](anyathā) [from-killing](ghātanāt) [o-goddess](devi) [raurava](rauravaṃ) [hell](narakaṃ) [one-would-go](vrajet)
 
 ## mukta-m0-p33-v809
-[in-ancestors-god-sacrifices](pitṛdaivatayajñeṣu) [living-being-harm](prāṇihiṃsā) [is-prescribed](vidhīyate)
+[in-ancestor+and-deity+sacrifices](pitṛ+daivata+yajñeṣu) [killing-of-living-beings](prāṇi+hiṃsā) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p33-v810
-[in-difficult](viṣame) [in-inaccessible](durgame) [in-terrible](ghore) [this-only](etat) [eva](eva) [no-doubt](na+saṃśayaḥ)
+[in-difficult](viṣame) [in-impassable](durgame) [in-terrible](ghore) [this-alone](etat+eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p33-v811
-[for-deity](devatārthe) [for-brāhmaṇa](dvijārthe) [or](vā) [having-slain](hatvā) [with-sins](pāpairna) [is-smeared](lipyate)
+[for-deity's-sake](devatā+arthe) [or-for-brahmin's-sake](dvija+arthe) [or](vā) [having-killed](hatvā) [by-sins](pāpaiḥ) [not](na) [is-tainted](lipyate)
 
 ## mukta-m0-p33-v812
-[for-deity](devatārthe) [for-brāhmaṇa](dvijārthe) [or](vā) [having-slain](hatvā) [with-sins](pāpairna) [is-smeared](lipyate)
+[for-deity's-sake](devatā+arthe) [or-for-brahmin's-sake](dvija+arthe) [or](vā) [having-killed](hatvā) [by-sins](pāpaiḥ) [not](na) [is-tainted](lipyate)
 
 ## mukta-m0-p33-v813
-[of-five-elements](pañcatattvasya) [greatness](māhātmyaṃ) [fruit](phalañca) [fivefold](pañcadhā) [because](yataḥ)
+[of-five+elements](pañca+tattvasya) [greatness](māhātmyaṃ) [and-fruit](phalaṃ) [and](ca) [fivefold](pañcadhā) [because](yataḥ)
 
 ## mukta-m0-p33-v814
-[three-times](trivāraṃ) [reciting](paṭhanāt) [mantra](mantraṃ) [meat-purification](māṃsaśuddhiḥ) [tu](tu) [that-moment](tatkṣaṇāt)
+[three+times](tri+vāraṃ) [from-recitation](paṭhanāt) [mantra](mantraṃ) [meat+purification](māṃsa+śuddhiḥ) [indeed](tu) [at-that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p33-v815
-[whose](yasya) [thighs](ūruṣu) [in-three](triṣu) [strides](vikramaṇeṣu) [perish](adhikṣiyanti) [worlds](bhuvanāni) [all](viśvā)
+[yasyoruṣu triṣu vikramaṇeṣvadhikṣiyanti bhuvanāni viśvā](yasyoruṣu triṣu vikramaṇeṣvadhikṣiyanti bhuvanāni viśvā)
 
 ## mukta-m0-p33-v816
-[good-guru](sadgurañca) [eva](eva) [voda](voda) [alaṃ](alaṃ) [rohita](rohitaṃ) [ca](ca) [best](uttamaṃ) [dear](priye)
+[good+guru](sat+guruṃ) [and-also](ca+eva) [vodāla-fish](vodālaṃ) [rohita-fish](rohitaṃ) [and-best](ca+uttamaṃ) [o-beloved](priye)
 
 ## mukta-m0-p33-v817
-[purified](śodhitaṃ) [cet](cet) [to-be-given](pradātavyaṃ) [śakti-mouth](śaktivaktre) [O-great-lady](maheśvari)
+[purified](śodhitaṃ) [if](cet) [should-be-given](pradātavyaṃ) [in-śakti's+mouth](śakti+vaktre) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p33-v818
-[therefore](tasmāt) [recommended](praśastakaṃ) [to-be-known](jñeyaṃ) [burnt](dagdhaṃ) [hi](hi) [O-fair-one](varavarṇini)
+[therefore](tasmāt) [excellent](praśastakaṃ) [to-be-known](jñeyaṃ) [roasted](dagdhaṃ) [indeed](hi) [o-fair-colored-one](vara+varṇini)
 
 ## mukta-m0-p33-v819
-[śakti-mouth](śaktivaktre) [to-be-given](pradātavyaṃ) [with-cause](kāraṇena) [endowed](samanvitam)
+[in-śakti's+mouth](śakti+vaktre) [should-be-given](pradātavyaṃ) [with-wine](kāraṇena) [accompanied](samanvitam)
 
 ## mukta-m0-p33-v820
-[like-cucumber](urvārukamiva) [from-bondage](bandhanān) [from-death](mṛtyor) [may-I-be-released](mukṣīya) [mā](mā) [from-immortality](amṛtāt)
+[urvārukamiva bandhanān mṛtyormukṣīyamāmṛtāt](urvārukamiva bandhanān mṛtyormukṣīyamāmṛtāt)
 
 ## mukta-m0-p33-v821
-[three-times](trivāraṃ) [reciting](paṭhanān) [mantra](mantraṃ) [fish-purification](mīnaśuddhiḥ) [tu](tu) [that-moment](tatkṣaṇāt)
+[three+times](tri+vāraṃ) [from-recitation](paṭhanāt) [mantra](mantraṃ) [fish+purification](mīna+śuddhiḥ) [indeed](tu) [at-that-moment](tatkṣaṇāt)
 
 ## mukta-m0-p33-v822
-[yoni-lotus-kadamba](yonipadmakadambeti) [mark](lakṣaṇaṃ) [is-declared](parikīrtitam)
+[yoni+lotus+kadamba](yoni+padma+kadamba) [thus](iti) [characteristic](lakṣaṇaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p33-v823
-[thus](iti) [mudrā](mudrā) [purified](śodhitaṃ) [cet](cet) [goddess](devyāḥ) [pleasing](prītikarā) [supreme](parā)
+[thus](iti) [mudrā](mudrā) [purified](śodhitaṃ) [if](cet) [of-goddess](devyāḥ) [pleasure+causing](prīti+karā) [supreme](parā)
 
 ## mukta-m0-p33-v824
-[thus](iti) [mudrā](mudrā) [made](kṛtā) [designation](saṃjñā) [great-joy-giving](mahāmodapradāyinī)
+[thus](iti) [mudrā](mudrā) [made](kṛtā) [designation](saṃjñā) [great+joy+giving](mahā+moda+pradāyinī)
 
 ## mukta-m0-p33-v825
-[mantra-two](mantradvayaṃ) [thrice](tridhā) [having-recited](japtvā) [mudrā-purification](mudrāśuddhiḥ) [tu](tu) [that-moment](tatkṣaṇāt)
+[two+mantras](mantra+dvayaṃ) [thrice](tridhā) [having-chanted](japtvā) [mudrā+purification](mudrā+śuddhiḥ) [indeed](tu) [at-that-moment](tatkṣaṇāt)

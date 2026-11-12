@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "teṣāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "demonstrative pronoun tad"
+   "morph": "pron.m.gen.pl",
+   "grounds": "refers to previously mentioned beings"
   },
   {
    "lemma": "nāmavidhiṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound nāma-vidhi"
+   "morph": "m.acc.sg (compound)",
+   "grounds": "object of vakṣye; compound nāma+vidhi"
   },
   {
    "lemma": "vakṣye",
-   "morph": "1.sg.mid.fut",
-   "grounds": "vac future middle"
+   "morph": "1.sg.mid.fut (vac)",
+   "grounds": "main verb"
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.act.imp",
-   "grounds": "śru imperative active"
+   "morph": "2.sg.act.imp (śru)",
+   "grounds": "imperative to listener"
   },
   {
    "lemma": "tvaṃ",
-   "morph": "2.nom.sg",
-   "grounds": "pronoun yuvam"
+   "morph": "pron.nom.sg",
+   "grounds": "addressee"
   },
   {
    "lemma": "varalocane",
-   "morph": "f.voc.sg",
-   "grounds": "vocative vara-locanā"
+   "morph": "f.voc.sg (compound)",
+   "grounds": "vocative address; compound vara+locana"
   }
  ]
 }
