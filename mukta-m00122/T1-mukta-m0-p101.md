@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p101-v2501
-[proclaimed-twelve-spoked-wheel](proktadvādaśāracakre) [by-previously-stated-order](pūrvoktakrameṇa) [sixteen-eternal-ones](ṣoḍaśanityāḥ) [one-should-worship-thus](samarccayediti)
+[after](prokta) [twelve](dvādaśa) [circle](āracakre) [by-means-of](pūrvokta) [order](krameṇa) [sixteen](ṣoḍaśa) [the-eternal-goddesses](anityāḥ) [one-should-worship](samarccayet) [thus](iti)
 
 ## mukta-m0-p101-v2502
-[by-these](ābhiḥ)+[yantra-panels](yantrapaṭala)+[to-be-described](vakṣyamāṇa)+[in-yantras](yantreṣu)+[also](api) [worship-etc](pūjādikaṃ) [one-should-do](kuryāt)
+[by-these](ābhiḥ) [in-the-yantra-section](yantrapaṭalavakṣyamāṇayantreṣu) [also](api) [worship-etc.](pūjādikaṃ) [one-should-do](kuryāt)
 
 ## mukta-m0-p101-v2503
-[corner-self-vajra-formation-practices](koṇātmavajranirmmāṇaprayogāḥ) [afterwards](parataḥ) [in-śiva](śive)
+[corner-born](koṇātmavajra) [construction](nirmmāṇaprayogāḥ) [thereafter](parataḥ) [in-Śiva](śive)
 
 ## mukta-m0-p101-v2504
-[for-sādhaka-desired-attainment](yatsādhakārthitāvāptyai) [equal-to-god's-feet](surāṅghripasamo) [he-becomes](bhavet)
+[by-which](yat) [for-the-attainment-of-the-desire-of-the-sādhaka](sādhakārthitāvāptyai) [equal-to-the-feet-of-the-gods](surāṅghripasamaḥ) [he-becomes](bhavet)
 
 ## mukta-m0-p101-v2505
-[with-twenty-nine](navaviṃśatibhiḥ) [five-hundred](pañcaśataṃ) [compartments](koṣṭhāni) [by-that-indeed](tena+vai)
+[by-twenty-nine](navaviṃśatibhiḥ) [five-hundred](pañcaśataṃ) [compartments](koṣṭhāni) [by-that](tena) [verily](vai)
 
 ## mukta-m0-p101-v2506
-[remaining](śiṣṭeṣu) [vakra-eight](vakra+uṣṭhāni?) [sixty-five](pañcaṣaṣṭyā) [two-hundred](śatadvayam)
+[in-the-remaining](śiṣṭeṣu) [eight](aṣṭa) [compartments](koṣṭhāni) [by-sixty-five](pañcaṣaṣṭyā) [two-hundred](śatadvayam)
 
 ## mukta-m0-p101-v2507
-[with-compartments](koṣṭhaiḥ)+[having-made](vidhāya)+[below](adho)+[middle](madhye)+[or](vā)+[outer](vāhyā)+[beginning](ārambhāt)+[clockwise](pradakṣiṇam)
+[compartments](koṣṭhaiḥ) [having-made](vidhāya) [below](adho) [in-the-middle](madhye) [from-the-outer-beginning](vāhyārambhāt) [to-the-right](pradakṣiṇam)
 
 ## mukta-m0-p101-v2508
-[in-middle](madhye)+[remaining](avaśiṣṭe) [fragment-letters](khaṇḍārṇa)+[twenty-four](caturviṃśati)+[one-should-write](mālikhet)
+[in-the-middle-alone](madhye) [remaining](avaśiṣṭe) [syllable-group](khaṇḍārṇa) [twenty-four](caturvviṃśatim) [one-should-write](mālikhet)
 
 ## mukta-m0-p101-v2509
-[lalitā](lalitāṃ) [sādhya-garbha](sādhyagarbhāṃ)+[indeed](tu) [one-should-draw](vilikhen)+[from-middle-corner](madhyakoṇataḥ)
+[Lalitā](lalitām) [with-the-sādhya-in-the-womb](sādhyagarbhām) [and](tu) [one-should-write](vilikhet) [from-the-middle-corner](madhyakoṇataḥ)
 
 ## mukta-m0-p101-v2510
-[having-placed](saṃsthāpya) [somewhere](kutracit)+[place](sthāne) [one-should-worship](pūjayed)+[for-desired-attainment](vāñchitāptaye)
+[having-established](saṃsthāpya) [in-some](kutracit) [place](sthāne) [one-should-worship](pūjayedvā) [for-the-attainment-of-desire](añchitāptaye)
 
 ## mukta-m0-p101-v2511
-[auspicious-things](maṅgalānyeva) [arise](jāyante) [not-inauspicious-talk](nāmaṅgalakathā) [there-is](bhavet)
+[auspicious-things](maṅgalāni) [alone](eva) [arise](jāyante) [no](na) [inauspicious-talk](amaṅgalakathā) [there-is](bhavet)
 
 ## mukta-m0-p101-v2512
-[in-four-direction-triangles-fourfold](caturdiggatatrikoṇacatuṣṭaye)+[also](api) [sādhya-garbha](sādhyagarbhāṃ) [one-should-draw](samālikhet) [thus](iti)
+[in-the-four-directions](caturdik) [and-in-the-four-corners](gatatrikoṇacatuṣṭaye) [also](api) [with-the-sādhya-in-the-womb](sādhyagarbhām) [one-should-write-equally](samālikhet) [thus](iti)
 
 ## mukta-m0-p101-v2513
-[inauspicious-talk](amaṅgalakathā) [inauspicious](amaṅgalam)+[iti](iti) [word](śabdaḥ)+[in-that](tasmin)+[iti](iti) [remainder](śeṣaḥ)
+[inauspicious-talk](amaṅgalakathā) [inauspicious](amaṅgalam) [this-word](iti) [word](śabdaḥ) [in-that](tasmin) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p101-v2514
-[having-drawn](vilikhya) [in-middle](madhye) [lalitā](lalitāṃ) [sādhya-garbha](sādhyagarbhāṃ) [one-should-draw](samālikhet)
+[having-written](vilikhya) [in-the-middle](madhye) [Lalitā](lalitām) [with-the-sādhya-in-the-womb](sādhyagarbhām) [one-should-write-equally](samālikhet)
 
 ## mukta-m0-p101-v2515
-[by-that](tena)+[also](api) [as-before](pūrvvavat) [stated](proktaṃ) [in-place](deśe) [not](na) [should-be-unfit](syādabhavyakam)
+[by-that](tena) [also](api) [as-before](pūrvvavat) [it-is-stated](proktam) [in-that-place](deśe) [not](na) [inauspicious-thing](abhavyakam) [would-be](syāt)
 
 ## mukta-m0-p101-v2516
-[in-middle](madhye) [sādhya-letter-endowed](sādhyākṣaropetāṃ) [one-should-place](sthāpayet)+[that-result-attainment](tatphalāptaye)
+[in-the-middle](madhye) [together-with-the-sādhya-syllable](sādhyākṣaropetām) [one-should-place](sthāpayet) [for-the-attainment-of-that-fruit](tatphalāptaye)
 
 ## mukta-m0-p101-v2517
-[having-placed](saṃsthāpya) [pot](kumbhaṃ) [that-letter-herb-decoction-filled](tadvarṇabhūruhakvāthapūritam)
+[having-established](saṃsthāpya) [a-kumbha](kumbham) [filled-with](pūritam) [that-color](tatvarṇa) [and-tree-decoction](bhūruhakvātha)
 
 ## mukta-m0-p101-v2518
-[in-birth-stars](janmarkṣeṣu) [especially](viśeṣeṇa) [for-all-dissolution-peace](samastalayaśāntaye)
+[in-birth-nakṣatras](janmarkṣeṣu) [especially](viśeṣeṇa) [for-the-pacification-of-all-layas](samastalayaśāntaye)
 
 ## mukta-m0-p101-v2519
-[with-bindu-kāma](savindukāmā)+[having-drawn](likhya) [in-previously-stated-place](pūrvoktadeśe) [from-placement](sthāpanāt) [previously-stated-result-siddhi](pūrvoktaphalasiddhiḥ)+[thus](iti)
+[with-a-bindu](savindukām) [having-written](ālikhya) [in-the-place-stated-before](pūrvoktadeśe) [from-before-establishment](sthāpanāt) [the-fruit-stated-before](pūrvoktaphala) [attainment](siddhiḥ) [thus](iti)
 
 ## mukta-m0-p101-v2520
-[there](tatra) [middle-sādhya-letter-endowed](madhyasādhyākṣaropetāṃ) [not-elsewhere](nānyatra)+[iti](iti) [as-much](yāvat)
+[there](tatra) [in-the-middle](madhya) [together-with-the-sādhya-syllable](sādhyākṣaropetām) [not](na) [elsewhere](anyatra) [thus](iti) [as-far-as](yāvat)
 
 ## mukta-m0-p101-v2521
-[for-previously-stated-result-prosperity](pūrvoktaphalasamṛddhaye)
+[for-the-prosperity-of-the-fruit-stated-before](pūrvoktaphalasamṛddhaye)
 
 ## mukta-m0-p101-v2522
-[p.353](p.+353)+[also-other](tathānyadapi) [goddess](deveśi) [practice](prayogaṃ) [all-purifying](sarvapāvanam)
+[thus](tathā) [another-also](anyadapi) [O-goddess-of-gods](deveśi) [rite](prayogam) [all-purifying](sarvapāvanam)
 
 ## mukta-m0-p101-v2523
-[contraction-darkness-sun](saṅkocadhvāntamārttaṇḍaṃ) [satisfaction-ocean-ritual-rise](santoṣāvdhividhūdayam)
+[the-contracted-darkness](saṅkocadhvāntam) [Mārtaṇḍa](ārttaṇḍam) [the-joy-ocean](santoṣāvdhi) [causing-to-rise](vidhūdayam)
 
 ## mukta-m0-p101-v2524
-[silent-one](maunī) [should-chant](japet) [with-flowers](prasūnaiśca) [should-worship](pūjayet) [fragrant-ones](saurabhānvitai)
+[a-silent-one](maunī) [should-recite](japet) [and-with-flowers](prasūnaiḥ) [and](ca) [should-worship](pūjayet) [endowed-with-fragrance](saurabhānvitaiḥ)
 
 ## mukta-m0-p101-v2525
-[fragrant-etc](saurabhādyaistilaiḥ) [white](śubhraistilaiḥ?) [rice](taṇḍulairvidhivaddhunet) [properly](vidhivat)+[should-offer](dhunet)
+[with-fragrant-etc.](saurabhādyaiḥ) [with-sesame-seeds](tilaiḥ) [white](śubhraih) [with-rice-grains](taṇḍulair) [according-to-rule](vidhivat) [should-offer-homa](dhunet)

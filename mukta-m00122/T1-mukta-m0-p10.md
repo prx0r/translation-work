@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[brahma-āṇḍa-ādi-kaṭāha-antaṃ](brahmāṇḍādikaṭāhāntaṃ) [tāṃ](tāṃ) [vande](vande) [siddha-mātṛkām](siddhamātṛkām)
+[brahma-egg](brahmāṇḍa-) [up-to](ādi-) [pot](kaṭāha-) [up-to](antaṃ) [that](tāṃ) [I-bow-to](vande) [siddha-mother](siddhamātṛkām)
 
 ## mukta-m0-p10-v227
-[brahma-āṇḍa-ādi-kāṭāha-antaṃ](brahmāṇḍādikāṭāhāntaṃ) [jagat](jagadadyāpi) [adya-api](adyāpi) [dṛśyate](dṛśyate)
+[brahma-egg](brahmāṇḍa-) [up-to](ādi-) [pot](kaṭāha-) [up-to](antaṃ) [world](jagat) [even-now](adyāpi) [is-seen](dṛśyate)
 
 ## mukta-m0-p10-v228
-[mātṛkāyām](mātṛkāyāmekākṣare'pi) [eka-akṣare](ekākṣare'pi) [api](api) [saṃsiddhe](saṃsiddhe) [tat](tattathā) [tathā](tathā) [siddhyati](siddhyatīti) [iti](iti)
+[in-mother](mātṛkāyāṃ) [in-one-syllable](ekākṣare) [also](api) [when-accomplished](saṃsiddhe) [thus](tathā) [it](tat) [is-accomplished](siddhyati) [iti](iti) || [88](88) || [89](89)
 
 ## mukta-m0-p10-v229
-[jagat-kāraṇa-tvam](jagatkāraṇatvamastītyupadiśya) [asti](asti) [iti](ityupadiśya) [upadiśya](upadiśya) [tan-mayatā](tanmayatā) [svātmanaḥ](svātmanaḥ) [siddhā](siddheti) [iti](iti) [śeṣaḥ](śeṣaḥ)
+[of-world](jagat-) [causality](kāraṇatvam) [exists](asti) [thus-having-taught](iti-upadiśya) [by-that-ness](tanmayatā) [of-self](svātmanaḥ) [is-accomplished](siddhā) [iti](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p10-v230
-[jyeṣṭha-aṅga](jyeṣṭhāṅgabāhuhṛtpṛṣṭhakaṭipādanivāsinīm) [bāhu](bāhu) [hṛt](hṛt) [pṛṣṭha](pṛṣṭha) [kaṭi](kaṭi) [pāda](pāda) [nivāsinīm](nivāsinīm)
+[jyeṣṭhā-limb](jyeṣṭhā-) [arm](aṅga-) [hand](bāhu-) [heart](hṛt-) [back](pṛṣṭha-) [hip](kaṭi-) [foot](pāda-) [dwelling](nivāsinīm)
 
 ## mukta-m0-p10-v231
-[praṇamāmi](praṇamāmi) [mahā-devīm](mahādevīṃ) [parama-ānanda-rūpiṇīm](paramānandarūpiṇīm)
+[I-bow-to](praṇamāmi) [great-goddess](mahādevīṃ) [supreme-bliss](paramānanda-) [form](rūpiṇīm)
 
 ## mukta-m0-p10-v232
-[kā](keyaṃ) [iyaṃ](iyaṃ) [kasmāt](kasmāt) [kva](kvakeneti) [kena](kena) [iti](iti) [sa-rūpa](sarūpārūpabhāvanām) [a-rūpa](arūpa) [bhāvanām](bhāvanām)
+[what-this](keyaṃ) [from-what](kasmāt) [where](kva) [how](kena) [iti](iti) [with-form](sa-) [without-form](arūpa-) [contemplation](bhāvanām)
 
 ## mukta-m0-p10-v233
-[devīm](devīṃ) [kula-kala](kulakalollolaprollasantīṃ) [ullola](ullola) [prollasantīm](prollasantīṃ) [parām](parāṃ) [śivām](śivāṃ)
+[goddess](devīṃ) [kula-wave](kula-) [agitated](kalolla-) [shining-forth](prollasantīṃ) [supreme](parāṃ) [auspicious](śivāṃ)
 
 ## mukta-m0-p10-v234
-[parama-ānanda](paramānandānubhava) [anubhava](anubhava) [iti](iti)
+[supreme-bliss](paramānanda-) [experience](anubhavaḥ) [iti](iti) || [94](94)
 
 ## mukta-m0-p10-v235
-[na](nodghāṭitam) [udghāṭitam](udghāṭitam)
+[not-uncovered](nodghāṭitam)
 
 ## mukta-m0-p10-v236
-[vande](vande) [tām](tāmaṣṭavargotthamahāsiddhyaṣṭakeśvarīṃ) [aṣṭa-varga](aṣṭavarga) [uttha](uttha) [mahā-siddhi](mahāsiddhi) [aṣṭaka](aṣṭaka) [īśvarīm](īśvarīṃ)
+[I-bow-to](vande) [that](tām) [eight-class](aṣṭavarga-) [arisen](utthā-) [great-siddhi](mahāsiddhi-) [eight-lord](aṣṭakeśvarīṃ)
 
 ## mukta-m0-p10-v237
-[catur](caturājñākośabhūtāṃ) [ājñā](ājñā) [kośa](kośa) [bhūtām](bhūtāṃ) [naumi](naumi) [śrī-tripurām](śrītripurāmaham) [aham](aham)
+[four-command](caturājñā-) [treasury](kośa-) [become](bhūtāṃ) [I-praise](naumi) [śrī-tripurā](śrītripurām) [aham](aham)
 
 ## mukta-m0-p10-v238
-[devyāḥ](devyāstvakhaṇḍarūpāyāḥ) [tu](tu) [akhaṇḍa](akhaṇḍa) [rūpāyāḥ](rūpāyāḥ) [stavanam](stavanaṃ) [tava](tava) [tat](tadyataḥ) [yataḥ](yataḥ)
+[of-goddess](devyāḥ) [undivided-form](tvakhaṇḍarūpāyāḥ) [praise](stavanaṃ) [to-thee](tava) [by-that](tadyataḥ)
 
 ## mukta-m0-p10-v239
-[tat](tadavagantavyamārādhyacaraṇamukhāt) [avagantavyam](avagantavyam) [ārādhya](ārādhya) [caraṇa](caraṇa) [mukhāt](mukhāt)
+[that](tat) [is-to-be-understood](avagantavyam) [from-worshipped-feet](ārādhya-) [mouth](caraṇa-) [mukhāt](mukhāt)
 
 ## mukta-m0-p10-v240
-[itaḥ](itaḥ) [param](paramasmadvyākhyā) [asmad](asmad) [vyākhyā](vyākhyā)
+[from-here](itaḥ) [beyond](param) [our-commentary](asmadvyākhyā)
 
 ## mukta-m0-p10-v241
-[mātṛkāyāḥ](mātṛkāyāstādātmyāditi) [tādātmyāt](tādātmyāt) [iti](iti) [śivam](śivam)
+[of-mother](mātṛkāyāḥ) [identity](tādātmyā) [iti](iti) [auspicious](śivam)
 
 ## mukta-m0-p10-v242
-[asyāḥ](asyā) [niḥphālanāt](niḥphālanāccitte) [citte](citte) [tat-tattvam](tattattvaṃ) [svātma-sāt-kṛtam](svātmasātkṛtam)
+[of-this](asyāḥ) [by-non-fruition](niḥphālanāt) [in-mind](citte) [that-tattva](tattattvaṃ) [by-self](svātma-) [made](sātkṛtam)
 
 ## mukta-m0-p10-v243
-[iti](iti) [ṣoḍaśa](ṣoḍaśanityātantreṣu) [nityā](nityā) [tantreṣu](tantreṣu) [śrī-kādimati](śrīkādimate) [dvitīyam](dvitīyaṃ) [paṭalam](paṭalam)
+[iti](iti) [in-sixteen-nityā-tantras](ṣoḍaśanityātantreṣu) [in-śrī-kādi-school](śrīkādimate) [second](dvitīyaṃ) [chapter](paṭalam)
 
 ## mukta-m0-p10-v244
-[paripūrṇam](paripūrṇaṃ) [parāmṛṣṭam](parāmṛṣṭam)
+[complete](paripūrṇaṃ) [contemplated](parāmṛṣṭam)
 
 ## mukta-m0-p10-v245
-[vārāhyā](vārāhyā) [kurukullāyā](kurukullāyā) [ātmanaḥ](ātmano'ṣṭākṣarasya) [aṣṭa-akṣarasya](aṣṭākṣarasya) [ca](ca)
+[of-vārāhī](vārāhyāḥ) [of-kurukullā](kurukullāyāḥ) [of-self](ātmanaḥ) [of-eight-syllable](aṣṭākṣarasya) [and](ca)
 
 ## mukta-m0-p10-v246
-[procyate](procyate) [sādhu-saṅketair](sādhusaṅketairlipīnāṃ) [lipīnām](lipīnāṃ) [prāg](prāgudīritaiḥ) [udīritaiḥ](udīritaiḥ)
+[is-proclaimed](procyate) [by-good-indications](sādhu-) [saṅketaiḥ] [by-syllables](lipīnāṃ) [before-stated](prāgudīritaiḥ)
 
 ## mukta-m0-p10-v247
-[tri-vidhā](trividhā) [haṃsa-bhedena](haṃsabhedena) [śṛṇu](śṛṇu) [tāḥ](tāśca) [ca](ca) [yathā-kramam](yathākramam)
+[threefold](trividhāḥ) [by-haṃsa-distinction](haṃsabhedena) [hear](śṛṇu) [them](tāḥ) [and](ca) [in-order](yathākramam)
 
 ## mukta-m0-p10-v248
-[pañca-triṃśat](pañcatriṃśatpaṭale) [paṭale](paṭale) [proktaiḥ](proktaiḥ)
+[in-thirty-fifth-chapter](pañcatriṃśatpaṭale) [stated](proktaiḥ) || [1](1)
 
 ## mukta-m0-p10-v249
-[tṛtīyā](tṛtīyā) [prakṛtiḥ](prakṛtiḥ) [sā](saiva) [eva](eva) [turyā](turyā) [taiḥ](tairantyamāyayā) [antya](antya) [māyayā](māyayā)
+[third](tṛtīyā) [prakṛti](prakṛtiḥ) [that-same](saiva) [fourth](turyā) [by-them](taiḥ) [by-final-māyā](antyamāyayā)
 
 ## mukta-m0-p10-v250
-[iti](iti) [tripura-sundaryāḥ](tripurasundaryā) [vidyā](vidyā) [samyak](samyak) [samīritā](samīritā)
+[iti](iti) [of-tripurasundarī](tripurasundaryāḥ) [vidyā](vidyā) [well](samyak) [is-stated](samīritā)
