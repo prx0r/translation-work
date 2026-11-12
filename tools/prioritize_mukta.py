@@ -7,15 +7,17 @@ flag counts as translated, curated famous-translation estimates).
 Rank key: (T, verses). Done-by-us works sink to bottom (skip burn).
 
 Usage: python3 tools/prioritize_mukta.py [--out process/beam/ranked_burn.json]
-Reads: /tmp/mukta_census.json, tools/work_state.py (status),
+Reads: tools/bibliography.py (FINAL base layer 2026-11-12 — first priority),
+  /tmp/mukta_census.json, tools/work_state.py (status),
   openpatala availability index (for the 15 title-joins).
-Writes: ranked list [{burn_rank, catalog, title, verses, T, T_why}].
+Writes: ranked list [{burn_rank, catalog, title, verses, T, T_why, baseline}].
 """
 from __future__ import annotations
 import argparse, json, sys, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+AS_OF = "2026-11-12"
 
 # Curated famous-English-translation counts (high-confidence only; estimates
 # flagged ~. Re-audit against the research matrix when PR-001 lands.)
@@ -85,6 +87,14 @@ def main() -> int:
         sev = json.load(open(ROOT / "process/beam/seed_evidence.json"))
     except Exception:
         sev = {}
+    # FINAL BIBLIOGRAPHY (base layer, 2026-11-12): T from this first
+    try:
+        from bibliography import load as _bib_load
+        _bib = _bib_load()
+        _burn = _bib.get("burn") or {}
+        _eds = _bib.get("editions") or {}
+    except Exception:
+        _burn, _eds = {}, {}
     out = []
     for r in rows:
         cat = r["catalog"]
@@ -99,23 +109,31 @@ def main() -> int:
         elif st == "started":
             T, why = 10 ** 8, "in progress here: finish before new burns"
         else:
-            T, why = 0, "no known translation: unserved"
+            T, why = 0, "untranslated in final bibliography"
+            # 1) FINAL bibliography wins (newest-first): edition count / has_translation
+            n_ed = len(_eds.get(cat) or [])
+            b = _burn.get(cat) or {}
+            has_t = (b.get("has_translation") or "").strip().upper() == "TRUE"
+            if n_ed or has_t:
+                T = max(T, n_ed, 1)
+                why = (f"final biblio {AS_OF}: {n_ed} edition(s)"
+                       if n_ed else f"final biblio {AS_OF}: has_translation")
+            # 2) openpatala index (title-join fallback)
             w = ixn.get(norm(r["title"]))
             if w and (w.get("has_english") or (w.get("translations") or [])):
                 T = max(T, len(w.get("translations") or []) or 1)
-                why = "openpatala index: english present"
+                if T and why.startswith("untranslated"):
+                    why = "openpatala index: english present"
+            # 3) curated FAMOUS / hits / seed as uplift only
             if cat in FAMOUS:
                 fT, fwhy = FAMOUS[cat]
                 if fT >= T:
                     T, why = fT, "curated: " + fwhy
             if cat in ch and ch[cat]:
-                # scraped index evidence (Magee PDFs, Dyczkowski pages,
-                # Wallis posts): each hit is a real translation artefact
                 T = T + len(ch[cat])
                 why = (why + f" + {len(ch[cat])} index hits "
                        f"({', '.join(sorted(set(h['source'] for h in ch[cat])))})")
             if cat in sev:
-                # bibliographySeed gold evidence (curated 2026-08-10, URLs)
                 e = sev[cat]
                 add = 3 * e["complete_en"] + max(0, e["n"] - e["complete_en"])
                 if add > 0:
@@ -123,7 +141,9 @@ def main() -> int:
                     why = why + f" + seed:{e['status']}({add})"
         out.append({"catalog": cat, "title": r["title"], "verses": r["verses"],
                     "T": T, "T_why": why, "tw": st,
-                    "prose": r["verses"] == 0})
+                    "prose": r["verses"] == 0,
+                    "edition_count": len(_eds.get(cat) or []),
+                    "baseline": f"muktabodha_final_{AS_OF}"})
     # 0-verse prose needs a chunker the verse pipeline lacks: rank it as its
     # own tail track, never ahead of translatable verse texts.
     out.sort(key=lambda o: (o["T"] >= 10 ** 9, o["prose"], o["T"], o["verses"]))

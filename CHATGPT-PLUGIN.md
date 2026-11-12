@@ -17,15 +17,31 @@ This is a **permanent named tunnel** on svatantrya.net — the URL does not
 change across restarts or reboots. Serving chain: `tw-mcp.service`
 (127.0.0.1:8930) → named tunnel `94250caf…` → `mcp.svatantrya.net`.
 
-## 2. What it exposes (18 tools)
+## 2. What it exposes (25 tools)
 
-Read/status: `status`, `recon`, `gates`, `swarm_status`, `swarm_workers`,
-`supervise`, `queue_guard`, `concepts`, `lore`, `skill`
-Write/act (assessor acts): `swarm_seed`, `swarm_review`, `swarm_decide`,
-`assemble`, `promote`, `validate`, `review_sweep`, `beam_review`
+**Bibliography / data (read-only, the base layer — see `BIBLIOGRAPHY.md`):**
+`bibliography` (paths / get / search), `priority` (ranked burn), `schema`
+(all data structures), `stats` (aggregates), `works` (filtered list),
+`editions` (translation links), `links` (718 catalog↔URL), `availability`
+(743-work index).
+
+**Read/status:** `status`, `recon`, `gates`, `swarm_status`, `swarm_workers`,
+`supervise`, `queue_guard`, `concepts`, `lore`, `skill`.
+
+**Write/act (assessor acts):** `swarm_seed`, `swarm_review`, `swarm_decide`,
+`assemble`, `promote`, `validate`, `review_sweep`, `beam_review`.
 
 Safety: beam never writes `data/`, never marks PASS; promotion is an
 assessor act; no tool pushes to git.
+
+Typical browse flow:
+1. `shastra.stats` → orientation
+2. `shastra.priority {"limit":10}` → what to translate next
+3. `shastra.bibliography {"catalog":"M00031"}` → what translations exist
+4. `shastra.editions {"catalog":"M00031"}` → the actual translation links
+5. `shastra.links {"catalog":"M00031"}` → every catalogued URL + role
+6. `shastra.availability {"coverage":"none","limit":20}` → untranslated index
+
 
 ## 3. Where everything lives (for editing)
 

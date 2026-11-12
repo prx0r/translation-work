@@ -1,6 +1,6 @@
 # MCP.md — shastra MCP: translation-work as callable tools
 
-*2026-11-08. Server: `mcp_server.py` v3.4.7 (FastMCP stdio, **17 tools**). Registered as
+*2026-11-12. Server: `mcp_server.py` v3.5.0 (FastMCP stdio, **25 tools**). Registered as
 `shastra` in `~/.config/opencode/opencode.jsonc` — restart opencode to load.
 This file is the complete manual: concepts, lanes, every tool with WHEN and
 worked examples, the autonomous loop, troubleshooting, and boundaries. The law
@@ -12,7 +12,7 @@ acting. On any conflict between this file and the skills, the skills win
 
 1. Concepts — DUMB/SMART/scripts, machine-proposed, the layers
 2. Skills — the law, and how to load it
-3. Tool reference — all 17 tools: purpose, args, returns, WHEN, example
+3. Tool reference — all 25 tools: purpose, args, returns, WHEN, example
 4. Standard flows — small work, large work, autonomy (with worked sessions)
 5. Decision trees — which lane, which tool next
 6. Troubleshooting — symptoms, causes, fixes
@@ -205,6 +205,52 @@ touches meaning). `task_id` reviews one specific task; omit to sweep. Off by
 default in ralph (`RALPH_BEAM_REVIEW=0`) so it does not steal quota from the
 drafters; turn on when the tier is quiet. Logs every verdict to
 `process/beam/assessor-reviews.jsonl`.
+
+### `bibliography(catalog?, title?, q?)` — read. The final bibliography base layer.
+
+Baseline 2026-11-12 Muktabodha coverage package, staged as first-class corpus
+files. No args → `paths()` (where it lives). `catalog`/`title` → one work
+(editions, has_translation, availability join). `q` → substring search.
+Full manual: `BIBLIOGRAPHY.md`. Read-only.
+
+```json
+{"catalog": "M00031"}
+{"q": "kularnava"}
+{}
+```
+
+### `priority(limit=20, untranslated_only=true)` — read. Ranked translation order.
+
+Burn queue from the final bibliography: untranslated first, shortest first
+within T; machine-complete/in-progress sink. T from burn_research/editions
+first, then curated FAMOUS + work_state. Returns `burn_rank`, `catalog`,
+`title`, `verses`, `T`, `T_why`, `edition_count`. Does **not** seed — pick a
+row, then `recon` → `swarm_seed` (or hand-draft).
+
+```json
+{"limit": 10}
+{"limit": 50, "untranslated_only": false}
+```
+
+### `schema()` / `stats()` / `works()` / `editions()` / `links()` / `availability()` — read. Full bibliography browse.
+
+The complete query surface over the final baseline (see `BIBLIOGRAPHY.md`):
+
+| Tool | Key args | Returns |
+|---|---|---|
+| `schema()` | — | every data structure: fields, types, values, paths |
+| `stats()` | — | 499 rows / 213 positives / 294 editions / coverage / domains |
+| `works()` | `has_translation`, `language`, `min/max_verses`, `limit`, `offset` | filtered work list |
+| `editions()` | `catalog`, `language`, `tier`, `downloadable_only` | translation links |
+| `links()` | `catalog`, `domain`, `edition_related` | 718 catalog↔URL with roles |
+| `availability()` | `catalog`, `work`, `language`, `coverage`, `missing` | 743-work index |
+
+```
+{"has_translation": "false", "limit": 20}       # works() — untranslated
+{"catalog": "M00031"}                            # editions() — translation links
+{"edition_related": "true", "limit": 50}         # links()
+{"coverage": "none", "limit": 30}                # availability()
+```
 
 ### Review console (CLI, not an MCP tool) — `tools/review_inbox.py`
 

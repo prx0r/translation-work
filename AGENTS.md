@@ -79,14 +79,14 @@ Rule 9: Calibrate, don't force. Rule 10: Preserve every rejected candidate.
 Schemas (validators): schemas/base.py, t1.py, l0.py, argmap.py, l2.py, c1.py, c2.py, signoff.py, suggestion.py
 Tools: tools/emit_data.py, validate_song.py, render_md.py, proof_record.py (+disp), emit_site.py, validate_site.py, render_c2.py, propose.py, qa_vs_witness.py, build_concepts.py, lookup_concept.py, build_l0.py (CM-data -> working-L0 builder)
 Scratch policy (owner 2026-11-04, binding): ALL intermediates live in this repo — reusable builders in tools/, per-work CM/batch inputs in <work>/cm/ (e.g. vbt/cm/l0cm-v1-60.json). /tmp is NEVER used for translation-work files; nothing ephemeral survives the session.
-Canonical docs: FINAL.md, FINAL-PROCESS.md, LAYERS.md, ALIGNMENT.md, CANONICAL.md, TENSIONS.json, DATATYPES.json, stack.json, README.md, CHAT.md, mistakes.md, crystal.md, targets.md, THEMES.md, INDEX.json, REGISTRY.json
+Canonical docs: FINAL.md, FINAL-PROCESS.md, LAYERS.md, ALIGNMENT.md, CANONICAL.md, TENSIONS.json, DATATYPES.json, stack.json, README.md, CHAT.md, mistakes.md, crystal.md, targets.md, THEMES.md, INDEX.json, REGISTRY.json, **BIBLIOGRAPHY.md** (final Muktabodha base layer 2026-11-12 — where it lives + priority rule)
 Formal alignment (trika-x gates): FORMAL-ALIGN.md (locator inventory, EVIDENCE resolution, bridge snapshot) — translation-work never writes EVIDENCE or Lean.
 Operator manual (run everything): RUNBOOK.md (bring-up, button, lanes, gates, monitoring, failure playbook, recovery).
 DB hookup (read-only): DB-BACKBONE.md (portable box DB + tools/dbread.py) — translation-work never writes the DB.
 Lore: lore/rasa/ (Abhinavagupta grounding), lore/witnesses/ (vendored, comparison only), lore/links.json (verified URLs), lore/concepts/ (21 concept files), lore/ipvv-deepdive-2026-11-01.md
 Skills: skills/crystal-ipvv/SKILL.md (THE process), EXAMPLES.md (prompts + good/bad)
 Swarm skill (huge texts only, feeds the process, never replaces it): skills/largetext/SKILL.md + EXAMPLES.md (beam drafters + assessor gate + transmission briefs + calibration)
-MCP interface (all of the above as callable tools): mcp_server.py (14 tools) + MCP.md (full docs: when-to-use, troubleshooting, autonomy wiring)
+MCP interface (all of the above as callable tools): mcp_server.py (19 tools) + MCP.md (full docs: when-to-use, troubleshooting, autonomy wiring) + BIBLIOGRAPHY.md (base layer: `shastra.bibliography` / `shastra.priority`)
 Gate: check.py (exit 0 = canonical)
 
 ## Layer Contracts (from LAYERS.md)

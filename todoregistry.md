@@ -7,7 +7,16 @@ SKILL.md + EXAMPLES.md + FINAL-PROCESS.md + crystal.md + mistakes.md (all read
 and re-verified 2026-11-04 — see CANONICAL CHECKLIST below). When todos change,
 edit THIS file in the same commit — never leave it behind.*
 
-## State snapshot (verified 2026-11-10 — CURRENT; supersedes all older snapshots below)
+## State snapshot (verified 2026-11-12 — bibliography base layer; supersedes older snapshots below)
+
+- **Final Muktabodha bibliography imported** (baseline 2026-11-12): 499 catalog /
+  213 with translation evidence / 294 keyed editions. Canonical paths + priority
+  rule: **`BIBLIOGRAPHY.md`**. MCP: `shastra.bibliography` (base layer lookup) +
+  `shastra.priority` (ranked burn: untranslated-first, shortest-first).
+  Ranked queue: `process/beam/ranked_burn.json` (re-rank: `tools/prioritize_mukta.py`).
+  Reader: `tools/bibliography.py`. Index: openpatalaproject → openpatala served copy.
+
+## State snapshot (verified 2026-11-10 — historical; supersedes older snapshots below)
 
 - **REGISTRY 95/95 GOLD, 0 pending.** Every lane-owned work is minimal-gold
   (T1/L0/argmap/L2/C1-essence + proof PASS; L3/L4 waived for śāstra per

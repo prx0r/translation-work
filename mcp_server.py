@@ -584,10 +584,134 @@ def beam_review(task_id: str = "", max_new: int = 1, apply: bool = False) -> dic
     return _run(["tools/beam_review.py", "--sweep", "--max", str(max_new)] + (["--apply"] if apply else []), timeout=600)
 
 
+@mcp.tool()
+def bibliography(catalog: str = "", title: str = "", q: str = "") -> dict:
+    """Final Muktabodha bibliography — THE base layer for translation priority
+    (baseline 2026-11-12). Paths + per-work record (editions, has_translation,
+    availability join). Args: catalog (M00031) OR title OR q (substring search).
+    No args → paths() where the bibliography lives. Read-only."""
+    if catalog or title:
+        return _run(["tools/bibliography.py", "get",
+                     "--catalog", catalog, "--title", title], timeout=60)
+    if q:
+        return _run(["tools/bibliography.py", "search", q, "--limit", "20"], timeout=60)
+    return _run(["tools/bibliography.py", "paths"], timeout=30)
+
+
+@mcp.tool()
+def priority(limit: int = 20, untranslated_only: bool = True) -> dict:
+    """Ranked translation order from the final bibliography base layer.
+    Rule: untranslated first, shortest first within T; machine-complete and
+    in-progress sink. T comes from burn_research/editions first (newest-first),
+    then curated FAMOUS + local work_state. Returns top `limit` rows with
+    burn_rank, catalog, title, verses, T, T_why, edition_count. Read-only —
+    does not seed the swarm (use swarm_seed after picking a work)."""
+    return _run(["tools/bibliography.py", "priority",
+                 "--limit", str(limit)]
+                + (["--untranslated-only"] if untranslated_only else []),
+                timeout=60)
+
+
+@mcp.tool()
+def schema() -> dict:
+    """Data structures for ALL bibliography surfaces (fields, types, values,
+    paths) so any agent can query without reading files. Covers burn_flat,
+    editions, links, research_matrix, availability_index, ranked_burn.
+    Read-only. Companion: translation pipeline layers in DATATYPES.json."""
+    return _run(["tools/bibliography.py", "schema"], timeout=60)
+
+
+@mcp.tool()
+def stats() -> dict:
+    """Bibliography aggregate stats: 499 catalog rows, positives, editions,
+    languages, availability coverage, link domains, ranked counts, top-5.
+    Read-only orientation before browsing."""
+    return _run(["tools/bibliography.py", "stats"], timeout=60)
+
+
+@mcp.tool()
+def works(has_translation: str = "", language: str = "", min_verses: int = 0,
+          max_verses: int = 0, limit: int = 50, offset: int = 0) -> dict:
+    """Browse/list works with filters (the list endpoint for agents).
+    has_translation: "" (all) | "true" | "false". language: en|hi|fr|…
+    Untranslated rows are shortest-first; translated rows by edition count.
+    Returns catalog, title, author, verses, edition_count, languages,
+    info_url, download_url. Paginated (limit/offset). Read-only."""
+    cmd = ["tools/bibliography.py", "works",
+           "--limit", str(limit), "--offset", str(offset),
+           "--min-verses", str(min_verses), "--max-verses", str(max_verses)]
+    if has_translation in ("true", "false"):
+        cmd += ["--has-translation", has_translation]
+    if language:
+        cmd += ["--language", language]
+    return _run(cmd, timeout=60)
+
+
+@mcp.tool()
+def editions(catalog: str = "", language: str = "", tier: str = "",
+             downloadable_only: bool = False, limit: int = 50, offset: int = 0) -> dict:
+    """Browse translation editions (the translation LINKS live here: translator,
+    year, language, scope, publisher, access_tier, info_url, download_url,
+    corroboration_url, confidence, verification_status, evidence). Filter by
+    catalog / language / tier; downloadable_only=true for direct URLs.
+    Paginated. Read-only."""
+    cmd = ["tools/bibliography.py", "editions",
+           "--limit", str(limit), "--offset", str(offset)]
+    if catalog:
+        cmd += ["--catalog", catalog]
+    if language:
+        cmd += ["--language", language]
+    if tier:
+        cmd += ["--tier", tier]
+    if downloadable_only:
+        cmd += ["--downloadable-only"]
+    return _run(cmd, timeout=60)
+
+
+@mcp.tool()
+def links(catalog: str = "", domain: str = "", edition_related: str = "",
+          limit: int = 50, offset: int = 0) -> dict:
+    """Browse 718 bibliographic URL links (catalog ↔ URL relationships) with
+    source roles (CANONICAL_INFO_URL | EDITION_INFO_URL | …), domain, whether
+    edition-related, and evidence notes. NOT every link is a translation.
+    edition_related: "" (all) | "true" | "false". Paginated. Read-only."""
+    cmd = ["tools/bibliography.py", "links",
+           "--limit", str(limit), "--offset", str(offset)]
+    if catalog:
+        cmd += ["--catalog", catalog]
+    if domain:
+        cmd += ["--domain", domain]
+    if edition_related in ("true", "false"):
+        cmd += ["--edition-related", edition_related]
+    return _run(cmd, timeout=60)
+
+
+@mcp.tool()
+def availability(catalog: str = "", work: str = "", language: str = "",
+                 coverage: str = "", missing: str = "",
+                 limit: int = 50, offset: int = 0) -> dict:
+    """Query the compiled translation-availability index (743 works; the API
+    surface that openpatala serves). Filter by catalog / work / language /
+    coverage (full|partial|none) / missing (true|false). Returns has_english,
+    coverage, languages, translations[], english_urls, copyright_hint.
+    Paginated. Read-only."""
+    cmd = ["tools/bibliography.py", "availability",
+           "--limit", str(limit), "--offset", str(offset)]
+    for flag, val in (("--catalog", catalog), ("--work", work),
+                      ("--language", language), ("--coverage", coverage)):
+        if val:
+            cmd += [flag, val]
+    if missing in ("true", "false"):
+        cmd += ["--missing", missing]
+    return _run(cmd, timeout=60)
+
+
 TOOLS = ["status", "validate", "lore", "swarm_status",
          "swarm_seed", "swarm_review", "swarm_decide", "promote",
          "skill", "concepts", "gates", "recon", "assemble", "supervise",
-         "swarm_workers", "review_sweep", "beam_review"]
+         "swarm_workers", "review_sweep", "beam_review",
+         "bibliography", "priority", "schema", "stats", "works",
+         "editions", "links", "availability"]
 
 
 if __name__ == "__main__":
