@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "ṣaṇmāsād",
-   "morph": "compound m.abl.sg",
-   "grounds": "ablative compound: ṣaṣ+māsa"
+   "morph": "compound:ṣaṣ+māsa+member;m.abl.sg",
+   "grounds": "ablative of time; compound ṣaṣ+māsa"
   },
   {
    "lemma": "abhyased",
-   "morph": "3.sg.opt.act √abhyas",
-   "grounds": "optative of abhyas, to practice"
+   "morph": "3.sg.act-opt;abhyas",
+   "grounds": "optative verb of practice"
   },
   {
    "lemma": "yas",
    "morph": "pron.m.nom.sg",
-   "grounds": "relative pronoun"
+   "grounds": "relative pronoun subject"
   },
   {
    "lemma": "tu",
@@ -25,12 +25,12 @@
   {
    "lemma": "kāṣāyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "accusative of kāṣāya, ochre or ascetic discipline"
+   "grounds": "object or state practiced; ochre renunciation"
   },
   {
    "lemma": "bandha+varjitam",
-   "morph": "compound n.acc.sg",
-   "grounds": "compound: bandha+varjita"
+   "morph": "compound:bandha+varjita+member;n.acc.sg",
+   "grounds": "compound describing the state; bandha+varjita"
   }
  ]
 }
