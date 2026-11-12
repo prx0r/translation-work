@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 315,
- "question": "Which materials for vessels are enumerated in this list?",
+ "question": "Which materials for vessels are enumerated in response to the goddess?",
  "premises": [
-  "Vessels made of clay are mentioned.",
-  "Vessels of tortoise origin are mentioned.",
-  "Vessels made of bell-metal and copper-metal are mentioned."
+  "Vessels may be made of clay.",
+  "Vessels may be tortoise-born, bell-metal, or copper-metal."
  ],
- "inference": "The verse lists clay, tortoise-derived, bell-metal, and copper-metal vessels.",
+ "inference": "Several material types are listed as suitable for vessels.",
  "uncertainties": [
-  "The exact nature of 'tortoise-born' vessels is not explained here."
+  "The exact referent of 'tortoise-born' as a vessel material is context-dependent."
  ],
- "plain_english": "O goddess, vessels made of clay, born of tortoise, made of bell-metal, and born of copper-metal."
+ "plain_english": "O goddess, vessels may be made of clay, tortoise-born, made of bell-metal, or made of copper."
 }
