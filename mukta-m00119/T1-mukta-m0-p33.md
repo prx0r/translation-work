@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[pātrāṇi](pātrāṇi) [pūjane](pūjane) [devi](devi) [yathāyogena](yathāyogena) [yojayet](yojayet)
+[vessels](pātrāṇi) [in-worship](pūjane) [O-goddess](devi) [according-to-fitness](yathāyogena) [one-should-employ](yojayet)
 
 ## mukta-m0-p33-v802
-[śakti](śakti) [medhāmayī](medhāmayī) [proktā](proktā) [tad-yogaṃ](tadyogaṃ) [ca](ca) [samabhyaset](samabhyaset)
+[power](śaktiḥ) [consisting-of-intelligence](medhāmayī) [declared](proktā) [its-union](tadyogaṃ) [and](ca) [one-should-practice](samabhyaset)
 
 ## mukta-m0-p33-v803
-[divya-cakre](divyacakre) [jīva-cakre](jīvacakre) [śāligrāme](śāligrāme) [tathā-eva](tathaiva) [ca](ca)
+[in-divine-circle](divyacakre) [in-living-circle](jīvacakre) [in-śāligrāma](śāligrāme) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p33-v804
-[pratyakṣa-rūpāṇi](pratyakṣarūpāṇi) [etāni](etāni) [devāḥ-tiṣṭhanti](devāstiṣṭhanti) [sarvadā](sarvadā)
+[visible-forms](pratyakṣarūpāṇi) [these](etāni) [gods](devāḥ) [stand](tiṣṭhanti) [always](sarvadā)
 
 ## mukta-m0-p33-v805
-[sūrya-bimbe](sūryabimbe) [candra-vimbe](candravimbe) [śāligrāma-śilāsu](śāligrāmaśilāsu) [ca](ca)
+[in-sun-disc](sūryabimbe) [in-moon-disc](candravimbe) [in-śāligrāma-stones](śāligrāmaśilāsu) [and](ca)
 
 ## mukta-m0-p33-v806
-[yantraṃ](yantraṃ) [tu](tu) [gṛham](gṛham) [iti](iti) [uktaṃ](uktaṃ) [binduḥ](binduḥ) [siṃhāsanaṃ](siṃhāsanaṃ) [bhavet](bhavet)
+[diagram](yantraṃ) [indeed](tu) [house](gṛham) [thus-said](iti+uktam) [point](binduḥ) [throne](siṃhāsanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p33-v807
-[cakra-yukte](cakrayukte) [cakra-madhye](cakramadhye) [hīne](hīne) [ca](ca) [upari](upari) [bhāvayet](bhāvayet)
+[in-circle-endowed](cakrayukte) [in-circle-middle](cakramadhye) [in-deficient](hīne) [and](ca) [above](upari) [one-should-conceive](bhāvayet)
 
 ## mukta-m0-p33-v808
-[tasya-upari](tasyopari) [vibhāvyā](vibhāvyā) [atha](atha) [pūjayet](pūayedyatnataḥ) [yatnataḥ](yatnataḥ) [śive](śive)
+[upon-that](tasya+upari) [to-be-conceived](vibhāvyā) [then](atha) [one-should-worship](pūjayet) [with-effort](yatnataḥ) [O-Śivā](śive)
 
 ## mukta-m0-p33-v809
-[yaḥ](yo) [bhāvaḥ](bhāvo) [yasya](yasya) [vai](vai) [proktaḥ](proktastena) [tena](tena) [bhāvena](bhāvena) [tiṣṭhati](tiṣṭhati)
+[which](yaḥ) [disposition](bhāvaḥ) [of-whom](yasya) [indeed](vai) [declared](proktaḥ) [by-that](tena) [disposition](bhāvena) [it-remains](tiṣṭhati)
 
 ## mukta-m0-p33-v810
-[bīja-yuktaṃ](bījayuktaṃ) [tu](tu) [yat](yat) [yantraṃ](yantraṃ) [tat](tat) [yantraṃ](yantraṃ) [siddhi-rūpakam](siddhirūpakam)
+[seed-endowed](bījayuktaṃ) [indeed](tu) [which](yat) [diagram](yantraṃ) [that](tat) [diagram](yantraṃ) [of-accomplishment-nature](siddhirūpakam)
 
 ## mukta-m0-p33-v811
-[divya-cakraṃ](divyacakraṃ) [yadā](yadā) [prāptaṃ](prāptaṃ) [jīva-cakraṃ](jīvacakraṃ) [tadā](tadā) [na](na) [ca](ca)
+[divine-circle](divyacakraṃ) [when](yadā) [obtained](prāptaṃ) [living-circle](jīvacakraṃ) [then](tadā) [not](na) [and](ca)
 
 ## mukta-m0-p33-v812
-[bāṇa-liṅgaṃ](bāṇaliṅgaṃ) [yadā](yadā) [prāptaṃ](prāptaṃ) [śāligrāmaḥ](śāligrāmastadā) [tadā](tadā) [na](na) [vai](vai)
+[bāṇa-liṅga](bāṇaliṅgaṃ) [when](yadā) [obtained](prāptaṃ) [śāligrāma](śāligrāmaḥ) [then](tadā) [not](na) [indeed](vai)
 
 ## mukta-m0-p33-v813
-[śāligrāmaṃ](śāligrāmaṃ) [tathā](tathā) [mantraṃ](mantraṃ) [dvayam](dvayamekatra) [ekatra](ekatra) [na](na) [arcayet](arcayet)
+[śāligrāma](śāligrāmaṃ) [likewise](tathā) [mantra](mantraṃ) [the-two](dvayam) [in-one-place](ekatra) [one-should-not-worship](na+arcayet)
 
 ## mukta-m0-p33-v814
-[eka-pīṭhe](ekapīṭhe) [pṛthak](pṛthak) [pūjāṃ](pūjāṃ) [vinā](vīnā) [yantraṃ](yantraṃ) [karoti](karoti) [yaḥ](yaḥ)
+[on-one-seat](ekapīṭhe) [separate](pṛthak) [worship](pūjāṃ) [without](vīnā) [diagram](yantraṃ) [does](karoti) [who](yaḥ)
 
 ## mukta-m0-p33-v815
-[śāligrāme](śāligrāme) [tathā](tathā) [yantre](yantre) [vidyamāne](vidyamāne) [maheśvari](maheśvari)
+[in-śāligrāma](śāligrāme) [likewise](tathā) [in-diagram](yantre) [being-present](vidyamāne) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p33-v816
-[śāligrāmaḥ](śāligrāmo) [bhavet](bhavedyantraṃ) [yantraṃ](yantraṃ) [śāligrāmaḥ](śāligrāmo) [gṛhaṃ](gṛhaṃ) [bhavet](bhavet)
+[śāligrāma](śāligrāmaḥ) [should-be](bhavet) [diagram](yantraṃ) [śāligrāma](śāligrāmaḥ) [house](gṛhaṃ) [should-be](bhavet)
 
 ## mukta-m0-p33-v817
-[pratimā](pratimā) [vā](vā) [prakartavyā](prakartavyā) [yathā-uktā](yathoktā) [śubha-lakṣaṇā](śubhalakṣaṇā)
+[image](pratimā) [or](vā) [to-be-made](prakartavyā) [as-prescribed](yathoktā) [of-auspicious-marks](śubhalakṣaṇā)
 
 ## mukta-m0-p33-v818
-[jīva-cakre](jīvacakre) [maheśāni](maheśāni) [prasannā](prasannā) [asti](asti) [nirantaram](nirantaram)
+[in-living-circle](jīvacakre) [O-great-goddess](maheśāni) [pleased](prasannā) [is](asti) [continually](nirantaram)
 
 ## mukta-m0-p33-v819
-[bālukāyāṃ](bālukāyāṃ) [bhavet](bhavettailaṃ) [tailaṃ](tailaṃ) [bandhyā](bandhyā) [putraṃ](putraṃ) [prasūyate](prasūyate)
+[in-sand](bālukāyāṃ) [may-be](bhavet) [oil](tailaṃ) [barren-woman](bandhyā) [son](putraṃ) [gives-birth](prasūyate)
 
 ## mukta-m0-p33-v820
-[jīva-cakrasya](jīvacakrasya) [vijñānī](vijñānī) [kalau](kalau) [kvāpi](kvāpi) [na](na) [vai](vai) [bhavet](bhavet)
+[of-living-circle](jīvacakrasya) [knower](vijñānī) [in-Kali-age](kalau) [anywhere](kvāpi) [not](na) [indeed](vai) [may-be](bhavet)
 
 ## mukta-m0-p33-v821
-[tathā](tathā) [jīvaṃ](jīvaṃ) [parityajya](parityajya) [paridhāvati](paridhāvati) [dhāvati](dhāvati)
+[thus](tathā) [living-being](jīvaṃ) [having-abandoned](parityajya) [runs-about](paridhāvati) [runs](dhāvati)
 
 ## mukta-m0-p33-v822
-[paśyan](paśyan) [lihan](lihan) [spṛśan](spṛśan) [bhajan](bhajan) [dhyāyan](dhyāyan) [maheśvari](maheśvari)
+[seeing](paśyan) [licking](lihan) [touching](spṛśan) [*](*) [*](*) [worshipping](bhajan) [meditating](dhyāyan) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p33-v823
-[jīvaṃ](jīvaṃ) [jīvena](jīvena) [yujyīta](yujjīta) [jīvaṃ](jīvaṃ) [jīvena](jīvena) [yojayet](yojayet)
+[living-being](jīvaṃ) [with-living-being](jīvena) [one-should-unite](yujjīta) [living-being](jīvaṃ) [with-living-being](jīvena) [one-should-join](yojayet)
 
 ## mukta-m0-p33-v824
-[aho](aho) [dhanyāt](dhanyātparo) [paraḥ](paraḥ) [devi](devi) [jīva-cakrī](jīvacakrī) [narottamaḥ](narottamaḥ)
+[ah](aho) [than-fortunate](dhanyāt) [higher](paraḥ) [O-goddess](devi) [possessor-of-living-circle](jīvacakrī) [best-of-men](narottamaḥ)
 
 ## mukta-m0-p33-v825
-[bhavet](bhaveddevi) [devi](devi) [sakṛt](sakṛjjīvasya) [jīvasya](jīvasya) [darśakaḥ](darśakaḥ) [vijñānātmā](vijñānātmā)
+[of-knowledge-nature](vijñānātmā) [may-be](bhavet) [O-goddess](devi) [once](sakṛt) [of-living-being](jīvasya) [seer](darśakaḥ)
