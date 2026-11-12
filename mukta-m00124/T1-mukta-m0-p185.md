@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p185-v4601
-[dakṣiṇā-dāna-ante](dakṣiṇādānamante) [syāt](syānmantranyāsamataḥ) [mantra-nyāsa-ataḥ](mantranyāsamataḥ) [param](param)
+[fee](dakṣiṇā) [giving](dānam) [at-end](ante) [should-be](syāt) [mantra](mantra) [placement](nyāsaḥ) [thereafter](ataḥ) [then](param)
 
 ## mukta-m0-p185-v4602
-[dvā-viṃśatiḥ](dvāviṃśatiḥ) [kriyāḥ](kriyāḥ) [proktāḥ](proktāḥ) [tāsām](tāsāṃ) [lakṣaṇam](lakṣaṇam) [ucyate](ucyate)
+[twenty-two](dvāviṃśatiḥ) [rites](kriyāḥ) [declared](proktāḥ) [of-them](tāsāṃ) [characteristic](lakṣaṇam) [is-stated](ucyate)
 
 ## mukta-m0-p185-v4603
-[dantaḥ](dantaśca) [ca](dantaśca) [bera-nirmāṇe](beranirmāṇe) [tasya](tasya) [saṃgraham](saṃgraham) [ucyate](ucyate)
+[ivory](dantaḥ) [and](ca) [in-image](bera) [making](nirmāṇe) [its](tasya) [collection](saṃgraham) [is-stated](ucyate)
 
 ## mukta-m0-p185-v4604
-[śilā-ādi-sthānam](śilādisthānam) [āsādya](āsādya) [sthaṇḍile](sthaṇḍile) [pūjita-īśvaraḥ](pūjiteśvaraḥ)
+[stone](śilā) [etc.](ādi) [place](sthānam) [having-reached](āsādya) [on-altar](sthaṇḍile) [worshipped](pūjita) [lord](īśvaraḥ)
 
 ## mukta-m0-p185-v4605
-[śilā-ādyam](śilādyaṃ) [prokṣya](prokṣya) [vastreṇa](vastreṇa) [varmaṇā](varmaṇā) [āveṣṭya](āveṣṭya) [pūjayet](pūjayet)
+[stone](śilā) [etc.](ādyam) [having-sprinkled](prokṣya) [with-cloth](vastreṇa) [with-armor-mantra](varmaṇā) [having-wrapped](āveṣṭya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p185-v4606
-[saṃpūjya](saṃpūjya) [vastra-haima-ādyaiḥ](vastrahaimādyairācāryaṃ) [ācāryam](vastrahaimādyairācāryaṃ) [sthapatiṃ](sthapatiṃ) [tathā](tathā)
+[having-worshipped](saṃpūjya) [with-cloth](vastra) [gold](haima) [etc.](ādyaiḥ) [teacher](ācāryam) [architect](sthapatiṃ) [likewise](tathā)
 
 ## mukta-m0-p185-v4607
-[ādau](ādau) [siktaṃ](siktaṃ) [dravībhūtam](dravībhūtam) [astreṇa](astreṇāstrāvya) [astrāvya](astreṇāstrāvya) [vāriṇā](vāriṇā)
+[at-first](ādau) [melted](siktam) [liquefied](dravībhūtam) [with-weapon-mantra](astreṇa) [having-sprinkled](āstrāvya) [with-water](vāriṇā)
 
 ## mukta-m0-p185-v4608
-[saṃpūjya](saṃpūjya) [gandha-puṣpa-ādyaiḥ](gandhapuṣpādyairhṛdā) [hṛdā](gandhapuṣpādyairhṛdā) [vastreṇa](vastreṇa) [veṣṭayet](veṣṭayet)
+[having-worshipped](saṃpūjya) [with-fragrance](gandha) [flower](puṣpa) [etc.](ādyaiḥ) [with-heart-mantra](hṛdā) [with-cloth](vastreṇa) [one-should-wrap](veṣṭayet)
 
 ## mukta-m0-p185-v4609
-[tasya](tasya) [nirmāṇa-kāle](nirmāṇakāle) [tu](tu) [uttara-abhimukhaḥ](uttarābhimukho) [guruḥ](guruḥ)
+[of-it](tasya) [at-making](nirmāṇa) [time](kāle) [indeed](tu) [north](uttara) [facing](abhimukhaḥ) [teacher](guruḥ)
 
 ## mukta-m0-p185-v4610
-[tasyāḥ](tasyāścottaradigbhāge) [ca](tasyāścottaradigbhāge) [uttara-dig-bhāge](tasyāścottaradigbhāge) [śānti-homaṃ](śāntihomaṃ) [tu](tu) [kārayet](kārayet)
+[of-that](tasyāḥ) [and](ca) [in-northern](uttara) [direction](dik) [part](bhāge) [peace](śānti) [fire-offering](homam) [indeed](tu) [one-should-cause-to-perform](kārayet)
 
 ## mukta-m0-p185-v4611
-[vṛkṣa-saṃgrahaṇe](vṛkṣasaṃgrahaṇe) [vṛkṣaṃ](vṛkṣaṃ) [saṃpūjya](saṃpūjya) [evaṃ](evaṃ) [vadet](vadedguruḥ) [guruḥ](vadedguruḥ)
+[at-tree](vṛkṣa) [collection](saṃgrahaṇe) [tree](vṛkṣam) [having-worshipped](saṃpūjya) [thus](evam) [should-say](vadet) [teacher](guruḥ)
 
 ## mukta-m0-p185-v4612
-[saṅkrāmaḥ](saṅkrāmaḥ) [syāt](syāditisthānaṃ) [iti](syāditisthānaṃ) [sthānaṃ](syāditisthānaṃ) [guṇavat](guṇavadyanmanoramam) [yat](guṇavadyanmanoramam) [manoramaṃ](guṇavadyanmanoramam)
+[transfer](saṅkrāmaḥ) [may-be](syāt) [thus](iti) [place](sthānam) [endowed-with-qualities](guṇavat) [and](yat) [delightful](manoramam)
 
 ## mukta-m0-p185-v4613
-[ghṛta-aktena](ghṛtāktena) [kuṭhāreṇa](kuṭhāreṇa) [chindyāt](chindyānmṛtyuñjayaṃ) [mṛtyuñjayaṃ](chindyānmṛtyuñjayaṃ) [smaran](smaran)
+[with-ghee](ghṛta) [smeared](aktena) [with-axe](kuṭhāreṇa) [one-should-cut](chindyāt) [Mṛtyuñjaya](mṛtyuñjayam) [remembering](smaran)
 
 ## mukta-m0-p185-v4614
-[tāpa-mṛtyu-mahā-roha-gulma-uccāṭanam](tāpamṛtyumahārohagulmoccāṭanamagnitaḥ) [agnitaḥ](tāpamṛtyumahārohagulmoccāṭanamagnitaḥ)
+[heat](tāpa) [death](mṛtyu) [great](mahā) [disease](roha) [tumor](gulma) [expulsion](uccāṭanam) [from-fire](agnitaḥ)
 
 ## mukta-m0-p185-v4615
-[pratimā-lakṣaṇaṃ](pratimālakṣaṇaṃ) [proktaṃ](proktaṃ) [maṇḍapaṃ](maṇḍapaṃ) [tu](tu) [adhunā](adhunocyate) [ucyate](adhunocyate)
+[image](pratimā) [characteristic](lakṣaṇam) [declared](proktam) [pavilion](maṇḍapam) [indeed](tu) [now](adhunā) [is-stated](ucyate)
 
 ## mukta-m0-p185-v4616
-[tri-hastaṃ](trihastaṃ) [tu](tu) [samārabhya](samārabhya) [ca](ca) [eka-eka-kara-vṛddhitaḥ](caikaikakaravṛddhitaḥ)
+[three](tri) [cubits](hastam) [indeed](tu) [beginning](samārabhya) [and](ca) [by-one](eka) [one](eka) [cubit](kara) [increase](vṛddhitaḥ)
 
 ## mukta-m0-p185-v4617
-[atra](atrānuktaṃ) [anuktaṃ](atrānuktaṃ) [tu](tu) [yat](yatkiñcittatsarvaṃ) [kiñcit](yatkiñcittatsarvaṃ) [tat](yatkiñcittatsarvaṃ) [sarvaṃ](yatkiñcittatsarvaṃ) [pūrva-vat](pūrvavannayet) [nayet](pūrvavannayet)
+[here](atra) [unstated](anuktam) [indeed](tu) [whatever](yatkiñcit) [that](tat) [all](sarvam) [as-before](pūrvavat) [one-should-conduct](nayet)
 
 ## mukta-m0-p185-v4618
-[caturaśrāṇi](caturaśrāṇi) [vṛttāni](vṛttāni) [tat-digaśrāṇi](taddigaśrāṇi) [vā](vā) [nayet](nayet)
+[square](caturaśrāṇi) [circular](vṛttāni) [of-that](tat) [direction](dik) [cornered](aśrāṇi) [or](vā) [one-should-make](nayet)
 
 ## mukta-m0-p185-v4619
-[maṇḍapaṃ](maṇḍapaṃ) [samalaṅkṛtvā](samalaṅkṛtvā) [pīṭhaṃ](pīṭhaṃ) [tatra](tatra) [vinikṣipet](vinikṣipet)
+[pavilion](maṇḍapam) [having-well-decorated](samalaṅkṛtvā) [pedestal](pīṭham) [there](tatra) [one-should-place](vinikṣipet)
 
 ## mukta-m0-p185-v4620
-[eka-paṭṭa-yutaṃ](ekapaṭṭayutaṃ) [vā](vāpi) [api](vāpi) [pūjayet](pūjayeccandanādibhiḥ) [candana-ādibhiḥ](pūjayeccandanādibhiḥ)
+[with-one](eka) [slab](paṭṭa) [joined](yutam) [or](vā) [api](api) [one-should-worship](pūjayet) [with-sandal](candana) [etc.](ādibhiḥ)
 
 ## mukta-m0-p185-v4621
-[lokapālān](lokapālāṃśca) [ca](lokapālāṃśca) [caturaḥ](caturaḥ) [ratnāni](ratnāni) [vividhāni](vividhāni) [ca](ca)
+[world](loka) [guardians](pālān) [and](ca) [four](caturaḥ) [gems](ratnāni) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p185-v4622
-[muktā](muktā) [vajraṃ](vajraṃ) [tathā](tathā) [puṣpa-rāgaṃ](puṣparāgaṃ) [gomedakaṃ](gomedakaṃ) [tathā](tathā)
+[pearl](muktā) [diamond](vajram) [likewise](tathā) [topaz](puṣparāgam) [hessonite](gomedakam) [likewise](tathā)
 
 ## mukta-m0-p185-v4623
-[pañca-ratnam](pañcaratnam) [iti](iti) [proktaṃ](proktaṃ) [māṇikkaṃ](māṇikkaṃ) [ca](ca) [ekam](caikameva) [eva](caikameva) [vā](vā)
+[five](pañca) [gem](ratnam) [thus](iti) [declared](proktam) [ruby](māṇikkam) [and](ca) [one](ekam) [only](eva) [or](vā)
 
 ## mukta-m0-p185-v4624
-[sva-sva-loka-pa-mantraiḥ](svasvalokapamantraiśca) [ca](svasvalokapamantraiśca) [madhya-ādi-kramataḥ](madhyādikramato) [nyaset](nyaset)
+[with-own](sva) [own](sva) [world](loka) [guardian](pa) [mantras](mantraiḥ) [and](ca) [from-middle](madhya) [in-order](ādikramataḥ) [one-should-place](nyaset)
 
 ## mukta-m0-p185-v4625
-[śailaṃ](śailaṃ) [cet](cet) [sthāpane](sthāpane) [kāle](kāle) [ratna-ādyaṃ](ratnādyaṃ) [vidhivat](vidhivannyaset) [nyaset](vidhivannyaset)
+[stone](śailam) [if](cet) [at-installation](sthāpane) [time](kāle) [gem](ratna) [etc.](ādyam) [according-to-rule](vidhivat) [one-should-place](nyaset)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p183-v4551
-[having-made](kṛtvā) [in-that-boundary-place](tadavadhisthāne) [to-be-established](sthāpyaṃ) [or-support-named](vādhārasaṃjñakam)
+[having-done](kṛtvā) [in-that+limit+place](tat+avadhi+sthāne) [to-be-placed](sthāpyaṃ) [or](vā) [called-support](ādhāra+saṃjñakam)
 
 ## mukta-m0-p183-v4552
-[with-firm-spear-like-pieces-from-image](mūrtinirgataśūlaiśca) [firm](susthiraiḥ) [heartwood](sāradārujaiḥ)
+[with-image+emerged+spikes](mūrti+nirgata+śūlaiḥ) [and](ca) [with-firm](susthiraiḥ) [made-of-sāla-wood](sāra+dāru+jaiḥ)
 
 ## mukta-m0-p183-v4553
-[on-brahma-staff-etc-staff](brahmadaṇḍādidaṇḍe) [tu](tu) [having-joined](yojayitvā) [best-teacher](guruttamaḥ)
+[in-brahma-staff+etc+staff](brahma+daṇḍa+ādi+daṇḍe) [indeed](tu) [having-joined](yojayitvā) [the-best-teacher](guru+uttamaḥ)
 
 ## mukta-m0-p183-v4554
-[with-straight-iron-plates](ṛjubhirlohapaṭṭaiśca) [with-iron-nails](lohakīlairanekadhā)
+[with-straight](ṛjubhiḥ) [iron+plates](loha+paṭṭaiḥ) [and](ca) [with-iron+nails](loha+kīlaiḥ) [in-many-ways](anekadhā)
 
 ## mukta-m0-p183-v4555
-[with-paste-smooth-etc](kalkacikkaṇakādyaistu) [complete-limbed](saṃpūrṇāṅgaṃ) [as-not](yathā) [nasat](nasat)
+[with-plaster+powder+etc](kalka+cikkaṇa+ādyaiḥ) [indeed](tu) [with-complete+limbs](saṃpūrṇa+aṅgaṃ) [so-that](yathā) [not-shaking](na+sat)
 
 ## mukta-m0-p183-v4556
-[before-eye-opening](nayanonmīlanātpūrvaṃ) [material-only](dravyamātraṃ) [tu](tu) [that-becomes](tadbhavet)
+[from-eye+opening](nayana+unmīlanāt) [before](pūrvaṃ) [material+form-only](dravya+mātraṃ) [indeed](tu) [that](tat) [should-be](bhavet)
 
 ## mukta-m0-p183-v4557
-[there](tatra) [consecration](pratiṣṭhā) [to-be-done](kartavyā) [by-installation-stated-procedure](sthāpanoktavidhānataḥ)
+[there](tatra) [consecration](pratiṣṭhā) [to-be-done](kartavyā) [according-to-installation+stated+procedure](sthāpana+ukta+vidhānataḥ)
 
 ## mukta-m0-p183-v4558
-[legs-thighs](jaṅghorū) [image-staffs](pratimādaṇḍān) [having-placed](sthāpayitvā) [above-that](tadūrdhvataḥ)
+[shank+thigh](jaṅghā+ūrū) [image+staffs](pratimā+daṇḍān) [having-placed](sthāpayitvā) [above-that](tat+ūrdhvataḥ)
 
 ## mukta-m0-p183-v4559
-[all-staffs-etc-joined](sarvadaṇḍādisaṃyuktaṃ) [having-made](kṛtvā) [ca](ca) [image-etc](pratimādikam)
+[with-all+staffs+etc+joined](sarva+daṇḍa+ādi+saṃyuktaṃ) [having-made](kṛtvā) [and](ca) [image+etc](pratimā+ādikam)
 
 ## mukta-m0-p183-v4560
-[essence-image-etc-arrangement](tattvamūrtyādivinyāsaṃ) [having-made](kṛtvā) [her](tāṃ) [let-install-indeed](sthāpayettu) [vā](vā)
+[principle+form+etc+arrangement](tattva+mūrti+ādi+vinyāsaṃ) [having-done](kṛtvā) [that](tāṃ) [should-install](sthāpayet) [indeed](tu) [or](vā)
 
 ## mukta-m0-p183-v4561
-[other-all](anyatsarvaṃ) [same](samānaṃ) [would-be](syāt) [but](kintu) [foot-stone-etc](pādaśilādayaḥ)
+[other](anyat) [all](sarvaṃ) [same](samānaṃ) [should-be](syāt) [but](kintu) [foot+stone+etc](pāda+śilā+ādayaḥ)
 
 ## mukta-m0-p183-v4562
-[in-hollow-pedestal-middle](suṣire) [pīṭhamadhye] [tu](tu) [as-smooth](yathāsnigdhaṃ) [one-should-employ](niyojayet)
+[in-hollow](suṣire) [in-pedestal+middle](pīṭha+madhye) [indeed](tu) [so-that+firm](yathā+snigdhaṃ) [one-should-fix](niyojayet)
 
 ## mukta-m0-p183-v4563
-[image-mantras](mūrtimantrān) [nyaset](nyaset) [pot-water-born](kumbhatoyagān) [in-image-heart](pratimāhṛdi)
+[image+mantras](mūrti+mantrān) [one-should-place](nyaset) [gone-to-pot+water](kumbha+toya+gān) [in-image+heart](pratimā+hṛdi)
 
 ## mukta-m0-p183-v4564
-[that-stone](tacchailaṃ) [with-mortar](sudhayā) [having-plastered](lepya) [with-cloth](vastreṇāveṣṭya) [paint](citrayet)
+[that+stone](tat+śailaṃ) [with-plaster](sudhayā) [having-smeared](ālepya) [with-cloth](vastreṇa) [having-wrapped](āveṣṭya) [one-should-paint](citrayet)
 
 ## mukta-m0-p183-v4565
-[in-village](grāme) [or](vā) [in-city](nagare) [vāpi](vāpi) [in-port](pattane) [in-capital](rājadhānike)
+[in-village](grāme) [or](vā) [in-city](nagare) [or](vāpi) [in-town](pattane) [in-capital](rāja+dhānike)
 
 ## mukta-m0-p183-v4566
-[on-sea-shore](samudratīre) [on-dam](setau) [ca](ca) [on-pond-banks](puṣkariṇyāstaṭeṣu) [ca](ca)
+[on-sea+shore](samudra+tīre) [on-dam](setau) [and](ca) [on-lotus-pond+banks](puṣkariṇyāḥ+taṭeṣu) [and](ca)
 
 ## mukta-m0-p183-v4567
-[in-garden](udyāne) [in-holy-place](puṇyadeśe) [vā](vā) [without-parts](niṣkalaṃ) [with-parts](sakalaṃ) [tu](tu) [vā](vā)
+[in-garden](udyāne) [in-sacred+place](puṇya+deśe) [or](vā) [without-parts](niṣkalaṃ) [with-parts](sakalaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p183-v4568
-[palace-born](saudhajaṃ) [vā](vā) [half-painted](vārdhacitraṃ) [vā](vā) [reflection](ābhāsaṃ) [vātha](vātha) [pedestal](pīṭhakam)
+[temple-born](saudha+jaṃ) [or](vā) [half-relief](ardha+citraṃ) [or](vā) [semblance](ābhāsaṃ) [or](vātha) [on-pedestal](pīṭhakam)
 
 ## mukta-m0-p183-v4569
-[beginning](ārabhya) [five-five-parts](pañcapañcāṃśamekaikapadavardhanāt)
+[beginning](ārabhya) [five+five+parts](pañca+pañca+aṃśam) [by-one+one+part+increase](eka+eka+pada+vardhanāt)
 
 ## mukta-m0-p183-v4570
-[one](ekaṃ) [vāpi](vāpi) [two](dvayaṃ) [vāpi](vāpi) [three](trayaṃ) [vā](vā) [in-brahma-temple](brahmamandire)
+[one](ekaṃ) [or](vāpi) [two](dvayaṃ) [or](vāpi) [three](trayaṃ) [or](vā) [in-brahma+temple](brahma+mandire)
 
 ## mukta-m0-p183-v4571
-[foot](padaṃ) [demonic](paiśācikaṃ) [proclaimed](proktaṃ) [in-brahma-portion](brahmabhāge) [let-arrange](prakalpayet)
+[part](padaṃ) [demonic](paiśācikaṃ) [declared](proktaṃ) [in-brahma+portion](brahma+bhāge) [one-should-assign](prakalpayet)
 
 ## mukta-m0-p183-v4572
-[without-parts](niṣkalaṃ) [in-brahma-portion](brahmabhāge) [tu](tu) [with-parts](sakalaṃ) [in-divine-portion](daivikāṃśake)
+[without-parts](niṣkalaṃ) [in-brahma+portion](brahma+bhāge) [indeed](tu) [with-parts](sakalaṃ) [in-divine+portion](daivika+aṃśake)
 
 ## mukta-m0-p183-v4573
-[let-install](sthāpayen) [human](mānuṣaṃ) [vāpi](vāpi) [of-mother](mātuḥ) [some](kecid) [this](idaṃ) [would-be](bhavet)
+[one-should-install](sthāpayet) [human](mānuṣaṃ) [or](vāpi) [of-mother](mātuḥ) [some](kecit) [this](idam) [should-be](bhavet)
 
 ## mukta-m0-p183-v4574
-[demons-gandharvas-yakshas-etc](rakṣogandharvayakṣādyāḥ) [pisacas-etc](piśācādyāśca) [image-protectors](mūrtipāḥ)
+[demons+gandharvas+yakshas+etc](rakṣaḥ+gandharva+yakṣa+ādyāḥ) [goblins+etc](piśāca+ādyāḥ) [and](ca) [image+guardians](mūrti+pāḥ)
 
 ## mukta-m0-p183-v4575
-[ishana-etc-four-corners](īśānādicatuṣkoṇe) [assembly-hall-etc](sabhādyaṃ) [there](tatra) [let-arrange](kalpayet)
+[in-īśāna+etc+four-corners](īśāna+ādi+catuḥ+koṇe) [assembly+etc](sabhā+ādyaṃ) [there](tatra) [one-should-arrange](kalpayet)

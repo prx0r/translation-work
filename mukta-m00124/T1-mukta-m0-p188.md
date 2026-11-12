@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p188-v4676
-[study-of-āgama](āgamādhyayanaṃ) [should-do](kuryāt) [in-īśāna](īśāne) [initiated-one](dīkṣitaḥ) [indeed-here](tviha)
+[scripture-from](āgamāt) [study](adhyayanaṃ) [should-do](kuryāt) [in-Īśāna](īśāne) [initiated](dīkṣitaḥ) [here](tu) [indeed](iha)
 
 ## mukta-m0-p188-v4677
-[remainder-of-night](rātriśeṣam) [having-removed](apohya) [then](atha) [in-clear-dawn](prabhāte) [pure](vimale) [then](tataḥ)
+[night-rest](rātriśeṣam) [having-passed-over](apohya) [then](atha) [at-dawn](prabhāte) [clear](vimale) [thereafter](tataḥ)
 
 ## mukta-m0-p188-v4678
-[mantra-armed-body](mantrasannaddhakāyaḥ) [indeed](tu) [having-entered](praviśya) [sacrificial-pavilion](makhamaṇḍapam)
+[by-mantra-bound-body](mantrasannaddhakāyaḥ) [indeed](tu) [having-entered](praviśya) [sacrifice-hall](makhamaṇḍapam)
 
 ## mukta-m0-p188-v4679
-[having-removed](vyapohya) [cloth-brushes-etc](vastrakūrcādīn) [should-worship](yajet) [with-sandal-etc](gandhādibhiḥ) [by-heart](hṛdā)
+[having-put-aside](vyapohya) [cloth](vastra) [and-bundle-of-grass](kūrca-ādīn) [should-worship](yajet) [by-fragrance-etc.](gandha-ādibhiḥ) [by-heart](hṛdā)
 
 ## mukta-m0-p188-v4680
-[having-offered-aghora-eight-hundred](aghorāṣṭaśataṃ) [for-expiation](prāyaścittārtham) [indeed](eva) [or](vā)
+[eight-hundred-of-Aghora](aghorāṣṭaśatam) [having-offered-in-fire](hutvā) [expiation-for](prāyaścitta-artham) [only](eva) [or](vā)
 
 ## mukta-m0-p188-v4681
-[from-five-niṣkas](pañcaniṣkaṃ) [beginning](samārabhya) [by-increasing-five-niṣkas](pañcaniṣkavivardhanāt)
+[from-five-niṣkas](pañcaniṣkam) [having-begun](samārabhya) [by-five-niṣka-increase](pañcaniṣka-vivardhanāt)
 
 ## mukta-m0-p188-v4682
-[or](athavā) [poor-one](daridraḥ) [tu](tu) [from-niṣka](niṣkādyaṃ) [five-niṣkas](pañcaniṣkakān)
+[or](athavā) [indeed](ca) [poor-person](daridraḥ) [indeed](tu) [from-one-niṣka-etc.](niṣka-ādyam) [up-to-five-niṣkas](pañcaniṣkakān)
 
 ## mukta-m0-p188-v4683
-[of-others](anyeṣāṃ) [and](ca) [indeed](eva) [of-all](sarveṣāṃ) [as-before](pūrvavat) [gift](dakṣiṇā) [becomes](bhavet)
+[of-others](anyeṣām) [and](ca) [indeed](eva) [of-all](sarveṣām) [as-before](pūrvavat) [gift-of-dakṣiṇā](dakṣiṇā) [should-be](bhavet)
 
 ## mukta-m0-p188-v4684
-[with-attendant-pots](parivāraghaṭaiḥ) [endowed](yuktam) [with-all-ornaments](sarvālaṅkārasaṃyutam)
+[with-attendant-pots](parivāra-ghaṭaiḥ) [joined](yuktam) [with-all-ornaments](sarva-alaṅkāra-saṃyutam)
 
 ## mukta-m0-p188-v4685
-[from-pot](kumbhāt) [seed](bījaṃ) [having-taken](samādāya) [in-image-heart](pratimāhṛdi) [should-place](vinyaset)
+[from-kumbha](kumbhāt) [seed](bījam) [having-taken](samādāya) [in-image-heart](pratimā-hṛdi) [should-place](vinyaset)
 
 ## mukta-m0-p188-v4686
-[with-spoon](vardhanyā) [seed](bījam) [having-taken](ādāya) [on-that-seat](tatpīṭhe) [should-place](vinyaset) [teacher](guruḥ)
+[from-vardhanī](vardhanyā) [seed](bījam) [having-taken](ādāya) [on-that-pīṭha](tat-pīṭhe) [should-place](vinyaset) [the-guru](guruḥ)
 
 ## mukta-m0-p188-v4687
-[if-goddess-has-separate-seat](vibhinnapīṭhāṃ) [devī](devī) [cet](cet) [separate-installation](pṛthaksthāpanam) [should-begin](ārabhet)
+[separately-based-pīṭha](vibhinna-pīṭhām) [goddess](devīm) [if](cet) [separate-installation](pṛthak-sthāpana) [should-begin](ārabhet)
 
 ## mukta-m0-p188-v4688
-[in-palace](saudhe) [some](kaścit) [difference](viśeṣaḥ) [asti](asti) [of-them](teṣām) [indeed](eva) [atha](atha) [in-presence](sannidhau)
+[in-palace](saudhe) [some](kaścit) [special-rule](viśeṣaḥ) [is](asti) [of-them](teṣām) [indeed](eva) [in-presence](atha) [proximity](sannidhau)
 
 ## mukta-m0-p188-v4689
-[for-arcā-rite](karmārcāyāḥ) [tu](tu) [on-seat](pīṭhe) [or](vā) [on-brush](kūrce) [or](vā) [bathing](snāpanaṃ) [on-ground](sthale)
+[of-ritual-image](karmārcāyāḥ) [indeed](tu) [on-pīṭha](pīṭhe) [or](vā) [on-kūrca](kūrce) [or](vā) [bathing](snāpanam) [on-ground](sthale)
 
 ## mukta-m0-p188-v4690
-[having-worshipped-as-described](arcanoktaṃ) [samabhyarcya](samabhyarcya) [with-clothes-ornaments-flowers](vastrābharaṇapuṣpakaiḥ)
+[as-stated-in-worship](arcana-uktam) [having-worshipped-equally](samabhyarcya) [by-cloth-ornaments-flowers](vastra-ābharaṇa-puṣpakaiḥ)
 
 ## mukta-m0-p188-v4691
-[bathing](snapanaṃ) [should-arrange](kalpayet) [vā](vā) [ced](ced) [with-festival](utsavena) [joined](yutaṃ) [tu](tu) [vā](vā)
+[bathing](snapanam) [should-arrange](kalpayet) [if](vā) [indeed](cet) [with-festival](utsavena) [joined](yutam) [indeed](tu) [or](vā)
 
 ## mukta-m0-p188-v4692
-[in-own-pradhāna](svapradhāne) [in-subordinate-limb](parāṅge) [ca](ca) [installation](sthāpanaṃ) [ca](ca) [thus](evam) [declared](īritam)
+[in-own-main-shrine](sva-pradhāne) [in-outer-limb](parāṅge) [ca](ca) [installation](sthāpanam) [and](ca) [thus](evam) [is-declared](īritam)
 
 ## mukta-m0-p188-v4693
-[other](itaraṃ) [that-without-it](tadvihīnaṃ) [syāt](syāt) [tat](tat) [ca](ca) [twofold](dvividham) [ucyate](ucyate)
+[other](itaram) [that-devoid-of](tat-vihīnam) [should-be](syāt) [that](tat) [and](ca) [twofold](dvividham) [is-declared](ucyate)
 
 ## mukta-m0-p188-v4694
-[clay-joined](mittyāśliṣṭaṃ) [with-painting](citrayuktaṃ) [stone](śailaṃ) [vā](vā) [village-situated](grāmasaṃsthitam)
+[closely-adhering](mittyā-āliṣṭam) [with-painting-joined](citra-yuktam) [of-stone](śailam) [or](vā) [situated-in-village](grāma-saṃsthitam)
 
 ## mukta-m0-p188-v4695
-[in-temple](prāsāde) [in-pavilion](maṇḍape) [in-hall](sāle) [in-gateway](gopure) [on-bali-seat](balipīṭhake)
+[in-sanctuary](prāsāde) [in-mandapa](maṇḍape) [in-hall](sāle) [in-gopura](gopure) [in-bali-pīṭha](bali-pīṭhake)
 
 ## mukta-m0-p188-v4696
-[in-outer-limb](bahiraṅge) [difference](viśeṣaḥ) [asti](asti) [that](tat) [hear](śṛṇudhvam) [śiva-brāhmaṇas](śivadvijāḥ)
+[in-outer-limb](bahiraṅge) [special-rule](viśeṣaḥ) [is](asti) [that](tat) [listen](śaṇu) [indeed](dhvam) [O-Siva-twice-born](śiva-dvijāḥ)
 
 ## mukta-m0-p188-v4697
-[without-bed-arrangement](śayyākḷptaṃ) [vinā](vinā) [vā](vā) [api](api) [all](sarvaṃ) [as-before](pūrvavad) [should-do](ācaret)
+[bed-arranged](śayyā-ākḷptam) [without](vinā) [or](api) [all](sarvam) [as-before](pūrvavat) [should-perform](ācaret)
 
 ## mukta-m0-p188-v4698
-[of-abode](dhāmnaḥ) [arrangement](kḷptiṃ) [ca](ca) [in-daily-rite](nityeṣṭim) [festival](utsavaṃ) [bathing](snapanaṃ) [tathā](tathā)
+[of-shrine-arrangement](dhāmnaḥ-kḷptim) [and](ca) [in-perpetual-worship](nitya-iṣṭim) [festival](utsavam) [bathing](snapanam) [thus](tathā)
 
 ## mukta-m0-p188-v4699
-[repair-of-old](jīrṇoddhāraṃ) [child-house](bālagṛhaṃ) [there](tatra) [installation](saṃsthāpanaṃ) [tathā](tathā)
+[renovation](jīrṇoddhāram) [child-shrine](bālagṛham) [there](tatra) [installation](saṃsthāpanam) [thus](tathā)
 
 ## mukta-m0-p188-v4700
-[at-end-of-dhiṣṇya](dhiṣṇyāvasāne) [previously-said](pūrvokte) [time](kāle) [ca](ca) [tu](tu) [aṅkura-offering](aṅkurārpaṇam)
+[at-end-of-dhiṣṇya](dhiṣṇya-avasāne) [as-stated-before](pūrva-ukte) [in-time](kāle) [and](ca) [sowing-of-seedlings](tv-aṅkura-arpaṇam)

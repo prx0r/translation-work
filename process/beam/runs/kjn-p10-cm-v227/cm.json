@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound",
-   "grounds": "first member of compound naming the island"
+   "morph": "compound=candra+first",
+   "grounds": "first member of place name"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound",
-   "grounds": "second member of compound candra-dvīpa"
+   "morph": "compound=dvīpa+second",
+   "grounds": "second member of place name"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg.perf-part",
-   "grounds": "locative participle qualifying paṭalaḥ"
+   "morph": "m.loc.sg, past-participle vi-nis-√gam",
+   "grounds": "locative participle describing origin"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal qualifying paṭalaḥ"
+   "grounds": "ordinal qualifier"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject of the colophon statement"
+   "grounds": "subject of colophon"
   }
  ]
 }
