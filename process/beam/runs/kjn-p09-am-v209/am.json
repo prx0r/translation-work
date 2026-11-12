@@ -1,15 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 209,
- "question": "What condition is necessary for success in the prescribed method?",
+ "question": "What necessary condition is claimed for success in relation to the eight-times-eight method rather than allowing success by other means?",
  "premises": [
-  "The eight-times-eight method must be known.",
-  "Success follows from this knowledge.",
-  "Success does not occur otherwise."
+  "The eight-times-eight method is a defined procedure.",
+  "Success follows from knowing that method.",
+  "Success does not follow otherwise."
  ],
- "inference": "Knowledge of the eight-times-eight method is indispensable for success.",
+ "inference": "Knowledge of the eight-times-eight method is a necessary condition for success.",
  "uncertainties": [
-  "The precise content of the eight-times-eight method is not detailed here."
+  "The nature of the success intended is not specified here."
  ],
- "plain_english": "Having known the eight-times-eight method, one succeeds; not otherwise."
+ "plain_english": "Indeed, having known the eight-times-eight method, one succeeds; not otherwise."
 }

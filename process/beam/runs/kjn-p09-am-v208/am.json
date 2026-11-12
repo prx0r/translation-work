@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 208,
- "question": "What range of magical effects can be accomplished through this circle?",
+ "question": "What range of effects is claimed for this circle such that multiple distinct operations are attributed to it in address?",
  "premises": [
-  "Killing and uprooting are possible.",
-  "Paralyzing and deluding are possible.",
-  "Other similar effects are included."
+  "Killing and uprooting are attributed to it.",
+  "Paralyzing, deluding, and the like are attributed to it.",
+  "These effects are addressed to the fortunate and beloved one."
  ],
- "inference": "The circle enables a range of hostile and controlling magical acts.",
- "uncertainties": [],
- "plain_english": "O fortunate one, O beloved, killing, uprooting, paralyzing, deluding, and such effects are accomplished."
+ "inference": "The circle is credited with a range of effects including killing, uprooting, paralyzing, and deluding.",
+ "uncertainties": [
+  "The agent by whom these effects are produced is not stated here."
+ ],
+ "plain_english": "O fortunate and beloved one, killing and uprooting, paralyzing, deluding, and the like occur."
 }

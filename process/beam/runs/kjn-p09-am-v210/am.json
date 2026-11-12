@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 210,
- "question": "How should the teaching just declared be received and ascertained?",
+ "question": "What claim is made about the certainty and source of the ascertainment declared here rather than its being conjectural?",
  "premises": [
-  "The teaching is declared without doubt.",
-  "It is spoken by the authoritative speaker.",
-  "It should be ascertained with devotion and reasoning."
+  "The ascertainment is declared by the speaker.",
+  "It is declared with devotion and reasoning.",
+  "It is declared as doubt-free."
  ],
- "inference": "The teaching is certain and must be understood through devotion and reasoning.",
- "uncertainties": [],
- "plain_english": "Indeed, this has been declared by me without doubt; ascertain it with devotion and reasoning."
+ "inference": "The ascertainment is presented as a doubt-free declaration made with devotion and reasoning.",
+ "uncertainties": [
+  "The content of the ascertainment is not restated in this verse."
+ ],
+ "plain_english": "Indeed, this doubt-free ascertainment has been declared by me with devotion and reasoning."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[sarva](sarvasaṃkṣobhiṇīṃ) [all](sarvasaṃkṣobhiṇīṃ) [shaking](saṃkṣobhiṇīṃ) [having-made](kṛtvā) [buddha](buddhañca) [and](ca) [worship](paripūjayet)
+[all+agitating](sarvasaṃkṣobhiṇīṃ) [having-made](kṛtvā) [buddha](buddhañ) [and](ca) [should-worship](paripūjayet)
 
 ## mukta-m0-p25-v602
-[fire-born](vahnijāyā) [wife](jāyā) [spoken](nigadito) [buddhist](bauddha) [mantra](mantraḥ) [by-wise](manīṣibhiḥ)
+[fire+consort+pronounced](vahnijāyānigadito) [buddhist+mantra](bauddhamantro) [by-the-wise](manīṣibhiḥ)
 
 ## mukta-m0-p25-v603
-[to-buddha](buddhāya) [buddhist-prior](bauddhapūrvāya) [for-vision](darsanāya) [salutation](namaḥ) [supreme](param)
+[to-buddha](buddhāya) [buddhist+preceded](bauddhapūrvāya) [to-vision](darsanāya) [obeisance](namaḥ) [supreme](param)
 
 ## mukta-m0-p25-v604
-[in-wheel](cakre) [oceans](samudrāḥ) [thus](iti) [ca](ca) [with-siddhis](sasiddhayastu) [with-weapons](sāyudhāḥ)
+[in-circle](cakre) [oceans](samudrā) [thus](iti) [and](ca) [with-siddhis](sasiddhayas) [indeed](tu) [with-weapons](sāyudhāḥ)
 
 ## mukta-m0-p25-v605
-[then](tataḥ) [all-offerings](sarvopacāraisca) [worshipped](pūjitāḥ) [may-be](santu) [uttering](uccaran)
+[then](tataḥ) [with-all+offerings](sarvopacārais) [and](ca) [worshipped](pūjitāḥ) [let-be](santu) [and+uttering](ca+uccaran)
 
 ## mukta-m0-p25-v606
-[java-flower](javākusuma) [resembling](sankāsāḥ) [kāma-attraction](kāmākarṣaṇikā) [etc](ādikāḥ)
+[china-rose+flower+resembling](javākusumasankāsāḥ) [desire+attracting+and-others](kāmākarṣaṇikādikāḥ)
 
 ## mukta-m0-p25-v607
-[from-west](pascimād) [order](krameṇāpi) [bindu](bindu) [with-vowels](svaraiḥ) [with](saha)
+[west+beginning+in-order](pascimādikrameṇa) [also](api) [with-bindu+joined](binduyuktaiḥ) [with-vowels](svaraiḥ) [together](saha)
 
 ## mukta-m0-p25-v608
-[ego-attraction](ahankārākarṣaṇīñca) [sound-attraction](sabdākarṣaṇarūpiṇīm)
+[ego+attracting](ahankārākarṣaṇīñ) [and](ca) [sound+attracting+formed](sabdākarṣaṇarūpiṇīm)
 
 ## mukta-m0-p25-v609
-[memory-attraction](smṛtyākarṣaṇarūpāñca) [name-attraction](nāmākarṣaṇarūpiṇīm)
+[memory+attracting+formed](smṛtyākarṣaṇarūpāñ) [and](ca) [name+attracting+formed](nāmākarṣaṇarūpiṇīm)
 
 ## mukta-m0-p25-v610
-[nectar-attracting](amṛtākarṣiṇīṃ) [goddess](devīṃ) [body-attracting](sarīrākarṣiṇīṃ) [thus](tathā)
+[nectar+attracting](amṛtākarṣiṇīṃ) [goddess](devīṃ) [body+attracting](sarīrākarṣiṇīṃ) [likewise](tathā)
 
 ## mukta-m0-p25-v611
-[all-filling](sarvāsāpūrakaṃ) [named](nāma) [wheel](cakraṃ) [worship-then](saṃpūjayettataḥ)
+[all+hope+fulfilling](sarvāsāpūrakaṃ) [named](nāma) [circle](cakraṃ) [should-worship](saṃpūjayet) [then](tataḥ)
 
 ## mukta-m0-p25-v612
-[second-enclosure](dvitīyāvaraṇe) [mantrin](mantrī) [three-eyed](trinetrāṃ) [wheel-lady](cakranāyikām)
+[in-second+enclosure](dvitīyāvaraṇe) [mantrin](mantrī) [three-eyed](trinetrāṃ) [circle+mistress](cakranāyikām)
 
 ## mukta-m0-p25-v613
-[all-dispersing](sarvavidrāvaṇīṃ) [having-made](kṛtvā) [brahma](brahmāṇaṃ) [worship](paripūjayet)
+[all+driving-away](sarvavidrāvaṇīṃ) [having-made](kṛtvā) [brahma](brahmāṇaṃ) [should-worship](paripūjayet)
 
 ## mukta-m0-p25-v614
-[to-brahma](brahmaṇe) [vedic](vaidiketyuktvā) [vision](darsanāya) [salutation](namaḥ) [remembering](smaran)
+[to-brahma](brahmaṇe) [vedic](vaidika) [thus+having-said](iti+uktvā) [to-vision](darsanāya) [obeisance](namaḥ) [remembering](smaran)
 
 ## mukta-m0-p25-v615
-[offering](samarpya) [root-goddess](mūladevyaitāṃ) [worship](pūjām) [arghya-water](arghyodakādibhiḥ)
+[having-offered](samarpya) [to-root+goddess](mūladevyai) [this](tāṃ) [worship](pūjām) [with-arghya+water+etc](arghyodakādibhiḥ)
 
 ## mukta-m0-p25-v616
-[eight-petalled](aṣṭapatre) [worship](yajenmantrī) [ka-series-eight](kādivargāṣṭakena) [ca](ca)
+[on-eight+petals](aṣṭapatre) [should-worship](yajet) [mantrin](mantrī) [with-ka+etc+group+eight](kādivargāṣṭakena) [and](ca)
 
 ## mukta-m0-p25-v617
-[rosary-book](akṣasrakpustakā) [fearlessness-boon](abhītivaradā) [lotus-hands](ḍhyakarāmbujāḥ)
+[rosary+book+fearlessness+boon+endowed+hand+lotuses](akṣasrakpustakābhītivaradāḍhyakarāmbujāḥ)
 
 ## mukta-m0-p25-v618
-[west](pascime) [ananga-madana](anangamadanām) [north](uttare) [madana-turām](madanāturām)
+[in-west](pascime) [ananga+madana](anangamadanām) [in-north](uttare) [madanatura](madanāturām)
 
 ## mukta-m0-p25-v619
-[ananga-goad](anangānkusāntu) [northwest](vāyavye) [sambhu](sambhau) [ananga-mālinī](cānangamālinīm)
+[ananga+ankusa](anangānkuśān) [indeed](tu) [in-northwest](vāyavye) [in-isha](sambhau) [and](ca) [ananga+malini](anangamālinīm)
 
 ## mukta-m0-p25-v620
-[all-shaking](sarvasaṃkṣobhaṇaṃ) [wheel](cakraṃ) [eight-petalled](aṣṭārañca) [worship](prapūjayet)
+[all+agitating](sarvasaṃkṣobhaṇaṃ) [circle](cakram) [eight+spoked](aṣṭārañ) [and](ca) [should-worship](prapūjayet)
 
 ## mukta-m0-p25-v621
-[ananga-flower](anangakusumāgre) [tu](tu) [wheel-lady](cakresīṃ) [beautiful](sundarīṃ) [worship](yajet)
+[ananga+kusuma+in-front](anangakusumāgre) [indeed](tu) [circle+mistress](cakresīṃ) [sundari](sundarīṃ) [should-worship](yajet)
 
 ## mukta-m0-p25-v622
-[to-shiva](sivāya) [shiva-form](saivarūpāya) [vision](darsanāya) [salutation](namaḥ) [remembering](smaran)
+[to-shiva](sivāya) [shaiva+form](saivarūpāya) [to-vision](darsanāya) [obeisance](namaḥ) [remembering](smaran)
 
 ## mukta-m0-p25-v623
-[all-shaking-letters](sarvasaṃkṣobhavarṇānte) [agent](kārake) [wheel](cakra) [thus](ityapi)
+[all+agitating+syllable+at-end](sarvasaṃkṣobhavarṇānte) [making](kārake) [circle](cakra) [thus](iti) [also](api)
 
 ## mukta-m0-p25-v624
-[all-siddhi-giving](sarvasiddhipradaṃ) [named](nāma) [creation-wheel-triad](sṛṣṭicakratrayātmakam)
+[all+siddhi+granting](sarvasiddhipradaṃ) [named](nāma) [creation+circle+triad+consisting](sṛṣṭicakratrayātmakam)
 
 ## mukta-m0-p25-v625
-[sun-crystal](sūryakāntapratīkāsā) [bow-arrow](dhanurbāṇakarāmbujāḥ)
+[sunstone+resembling](sūryakāntapratīkāsā) [bow+arrow+hand+lotuses](dhanurbāṇakarāmbujāḥ)

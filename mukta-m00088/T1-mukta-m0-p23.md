@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[guru-byo](gurubhyo) [nama](nama) [uccārya](uccārya) [pādukā-byo](pādukābhyo) [namo](namo) [vadet](vadet)
+[to-gurus](gurubhyo) [obeisance](nama) [having-uttered](uccārya) [to-sandals](pādukābhyo) [obeisance](namo) [one-should-say](vadet)
 
 ## mukta-m0-p23-v552
-[eteṣām](eteṣāṃ) [pādukāḥ](pādukāstadvadācāryebhyo) [tadvat](tadvadācāryebhyo) [ācāryebhyo](tadvadācāryebhyo) [namo](namo) [vadet](vadet)
+[of-these](eteṣāṃ) [sandals](pādukās) [likewise](tadvad) [to-teachers](ācāryebhyo) [obeisance](namo) [one-should-say](vadet)
 
 ## mukta-m0-p23-v553
-[guru-pankti](gurupankti) [prapūjya](prapūjyātha) [atha](prapūjyātha) [svayam](svayaṃ) [śrī-tripurā](srītripurā) [bhavet](bhavet)
+[guru+line](gurupankti) [having-worshipped](prapūjyā) [then](atha) [oneself](svayaṃ) [śrī+Tripurā](srītripurā) [one-should-become](bhavet)
 
 ## mukta-m0-p23-v554
-[parama-ādyaḥ](paramādyaḥ) [śiva-antaḥ](sivāntasca) [ca](sivāntasca) [kāmesvarī-ambikā](kāmesvaryambikā) [tataḥ](tataḥ)
+[Paramādya](paramādyaḥ) [Śiva+ending](sivāntaś) [and](ca) [Kāmeśvarī](kāmesvary) [Ambikā](ambikā) [then](tataḥ)
 
 ## mukta-m0-p23-v555
-[prajñā-devī](prajñādevī) [prakāśaḥ](prakāsasca) [ca](prakāsasca) [divya-oghe](divyaughe) [saptamaḥ](saptamo) [bhavet](bhavet)
+[Prajñādevī](prajñādevī) [Prakāśa](prakāsaś) [and](ca) [in-divine+stream](divyaughe) [seventh](saptamo) [should-be](bhavet)
 
 ## mukta-m0-p23-v556
-[mānava-ogham](mānavaughamathocyate) [atha](mānavaughamathocyate) [ucyate](mānavaughamathocyate)
+[human+stream](mānavaugham) [now](atha) [is-spoken](ucyate)
 
 ## mukta-m0-p23-v557
-[manoharaḥ](manoharaḥ) [paraḥ](paraḥ) [svātmā](svātmā) [alobhaḥ](alobhascāṣṭamo) [ca](alobhascāṣṭamo) [aṣṭamaḥ](alobhascāṣṭamo) [mataḥ](mataḥ)
+[Manohara](manoharaḥ) [supreme](paraḥ) [own+self](svātmā) [Alobha](alobhaś) [and](ca) [eighth](aṣṭamo) [considered](mataḥ)
 
 ## mukta-m0-p23-v558
-[anyāsām](anyāsāṃ) [sarva-vidyānām](sarvavidyānāṃ) [samānāḥ](samānā) [guravaḥ](guravaḥ) [kramāt](kramāt)
+[of-other](anyāsāṃ) [of-all+vidyās](sarvavidyānāṃ) [same](samānā) [gurus](guravaḥ) [in-order](kramāt)
 
 ## mukta-m0-p23-v559
-[kāmesvarī](kāmesvarī) [tṛtīyā](tṛtīyā) [syāt](syāccaturthī) [caturthī](syāccaturthī) [syāt](syādathāmbikā) [atha](syādathāmbikā) [ambikā](syādathāmbikā)
+[Kāmeśvarī](kāmesvarī) [third](tṛtīyā) [should-be](syāt) [fourth](caturthī) [should-be](syād) [then](atha) [Ambikā](ambikā)
 
 ## mukta-m0-p23-v560
-[atha](atha) [nāma](nāma) [sadguruḥ](sadgurusca) [ca](sadgurusca) [siddha-oghaḥ](siddhaughascottaraḥ) [uttaraḥ](siddhaughascottaraḥ) [kramāt](kramāt)
+[then](atha) [name](nāma) [true+guru](sadguruś) [and](ca) [siddha+stream](siddhaughaś) [and](ca) [higher](uttaraḥ) [sequence](kramāt)
 
 ## mukta-m0-p23-v561
-[siddhaḥ](siddhastathā) [tathā](siddhastathā) [ca](siddhastathā) [govindaḥ](govindaḥ) [śaṅkaraḥ](sankaro) [mānavaḥ](mānavo) [bhavet](bhavet)
+[Siddha](siddhas) [likewise](tathā) [and](ca) [Govinda](govindaḥ) [Śaṅkara](sankaro) [human](mānavo) [should-be](bhavet)
 
 ## mukta-m0-p23-v562
-[sampradāya-vihīnasya](sampradāyavihīnasya) [na](na) [dadyāt](dadyāt) [paṅktim](panktimuttamām) [uttamām](panktimuttamām)
+[of-one-devoid-of-tradition](sampradāyavihīnasya) [not](na) [one-should-give](dadyāt) [line](panktim) [supreme](uttamām)
 
 ## mukta-m0-p23-v563
-[mahā-niṣṭam](mahāniṣṭaṃ) [bhavet](bhavettasya) [tasya](bhavettasya) [satyam](satyaṃ) [satyam](satyaṃ) [na](na) [saṃśayaḥ](saṃsayaḥ)
+[great+calamity](mahāniṣṭaṃ) [would-be](bhavet) [of-him](tasya) [truth](satyaṃ) [truth](satyaṃ) [not](na) [doubt](saṃsayaḥ)
 
 ## mukta-m0-p23-v564
-[guru-kramam](gurukramaṃ) [prapūjya](prapūjyātha) [atha](prapūjyātha) [yajet](yajedāmnāyadevatāḥ) [āmnāya-devatāḥ](yajedāmnāyadevatāḥ)
+[guru+sequence](gurukramaṃ) [having-worshipped](prapūjyā) [then](atha) [one-should-worship](yajed) [tradition+deities](āmnāyadevatāḥ)
 
 ## mukta-m0-p23-v565
-[sarva-saṃkṣobhaṇe](sarvasaṃkṣobhaṇe) [cakre](cakre) [pūrva-āmnāyam](pūrvāmnāyaṃ) [samarcayet](samarcayet)
+[in-all+agitating](sarvasaṃkṣobhaṇe) [in-circle](cakre) [eastern+tradition](pūrvāmnāyaṃ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p23-v566
-[sarva-rakṣākare](sarvarakṣākare) [cakre](cakre) [dakṣiṇa-āmnāyam](dakṣiṇāmnāyamarcayet) [arcayet](dakṣiṇāmnāyamarcayet)
+[in-all+protecting](sarvarakṣākare) [in-circle](cakre) [southern+tradition](dakṣiṇāmnāyam) [one-should-worship](arcayet)
 
 ## mukta-m0-p23-v567
-[aṣṭa-cakre](aṣṭacakre) [yajet](yajeddevīmuttarāmnāyanāyikām) [devīm](yajeddevīmuttarāmnāyanāyikām) [uttara-āmnāya-nāyikām](yajeddevīmuttarāmnāyanāyikām)
+[in-eight+circle](aṣṭacakre) [one-should-worship](yajed) [goddess](devīm) [northern+tradition+mistress](uttarāmnāyanāyikām)
 
 ## mukta-m0-p23-v568
-[sarva-āmnāya-maye](sarvāmnāyamaye) [cakra](cakra) [ūrdhva-āmnāyam](ūrdhvāmnāyaṃ) [prapūjayet](prapūjayet)
+[in-all+tradition+consisting](sarvāmnāyamaye) [in-circle](cakra) [upper+tradition](ūrdhvāmnāyaṃ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p23-v569
-[pūrva-uktam](pūrvoktamantrayogeṇa) [mantra-yogeṇa](pūrvoktamantrayogeṇa) [tataḥ](tataḥ) [santarpayet](santarpayet) [kramāt](kramāt)
+[by-previously+stated+mantra+application](pūrvoktamantrayogeṇa) [then](tataḥ) [one-should-propitiate](santarpayet) [in-order](kramāt)
 
 ## mukta-m0-p23-v570
-[tri-śaktiḥ](trisaktiḥ) [sarva-sāmrājya-lakṣmīḥ](sarvasāmrājyalakṣmīḥ) [pañca](pañca) [prakīrtitāḥ](prakīrtitāḥ)
+[Triśakti](trisaktiḥ) [universal+sovereignty+Lakṣmī](sarvasāmrājyalakṣmīḥ) [five](pañca) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p23-v571
-[ajapā](ajapā) [mātṛkā](mātṛkā) [ca](ceti) [iti](ceti) [pañca](pañca) [kośāḥ](kosāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+[Ajapā](ajapā) [Mātṛkā](mātṛkā) [and](ca) [thus](iti) [five](pañca) [sheaths](kosāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p23-v572
-[tripuṭā](tripuṭā) [pañca-kāmesī](pañcakāmesī) [pañca](pañca) [kalpa-latāḥ](kalpalatāḥ) [smṛtāḥ](smṛtāḥ)
+[Tripuṭā](tripuṭā) [Pañcakāmeśī](pañcakāmesī) [five](pañca) [wish-fulfilling+creepers](kalpalatāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p23-v573
-[annapūrṇā](annapūrṇeti) [iti](annapūrṇeti) [vikhyātāḥ](vikhyātāḥ) [pañca](pañca) [kāma-dughāḥ](kāmadughāḥ) [smṛtāḥ](smṛtāḥ)
+[Annapūrṇā](annapūrṇā) [thus](iti) [celebrated](vikhyātāḥ) [five](pañca) [wish-granting+cows](kāmadughāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p23-v574
-[vārāhī](vārāhīti) [iti](vārāhīti) [ca](ca) [saṃproktāḥ](saṃproktāḥ) [pañca-ratnāḥ](pañcaratnāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+[Vārāhī](vārāhī) [thus](iti) [and](ca) [declared](saṃproktāḥ) [five+jewels](pañcaratnāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p23-v575
-[mahā-kośa-īśvarī+vṛnda+maṇḍita+āsana+saṃsthitā](mahākoṣesvarīvṛndamaṇḍitāsanasaṃsthitā)
+[by-great+treasure+goddess+multitude+adorned+seat+seated](mahākoṣesvarīvṛndamaṇḍitāsanasaṃsthitā)

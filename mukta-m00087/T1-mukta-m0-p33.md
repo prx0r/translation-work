@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[unmādinī](unmādinīṃ) [vaiṣṇava](vaiṣṇavañca) [ca](vaiṣṇavañca) [darśana](darśnaṃ) [galakūpaka](galakūpake)
+[unmādinīm](unmādinīṃ) [vaiṣṇavam](vaiṣṇavañ) [ca](ca) [vision](darśnaṃ) [throat-pit](galakūpake)
+
 ## mukta-m0-p33-v802
-[sarvajñā](sarvajñādyāstatomantrī) [ādyāḥ](sarvajñādyāstatomantrī) [tataḥ](sarvajñādyāstatomantrī) [mantrī](sarvajñādyāstatomantrī) [nyaset](nyasedeṣu) [eṣu](nyasedeṣu) [samāhitaḥ](samāhitaḥ)
+[all-knowing-etc.](sarvajñādyās) [then](tato) [mantrin](mantrī) [should-place](nyased) [in-these](eṣu) [composed](samāhitaḥ)
+
 ## mukta-m0-p33-v803
-[tataḥ](tato) [vāma-krameṇa](vāmakrameṇaiva) [eva](vāmakrameṇaiva) [vṛṣaṇe](vṛṣaṇe) [vinyaset](vinyaset) [stane](stane)
+[then](tato) [left-sequence](vāmakrameṇa) [indeed](eva) [in-testicle](vṛṣaṇe) [should-place](vinyaset) [in-breast](stane)
+
 ## mukta-m0-p33-v804
-[pāntu](pāntu) [naḥ](no) [daśa-koṇe](daśakoṇe) [tāḥ](tāḥ) [sarva-rakṣā-kare](sarvarakṣākare) [sthitāḥ](sthitāḥ)
+[may-protect](pāntu) [us](no) [in-ten-cornered-figure](daśakoṇe) [they](tāḥ) [in-all-protection-making](sarvarakṣākare) [situated](sthitāḥ)
+
 ## mukta-m0-p33-v805
-[anena](anena) [vyāpakaṃ](vyāpakaṃ) [kṛtvā](kṛtvā) [tripurā](tripurāmālinīṃ) [mālinīṃ](tripurāmālinīṃ) [tathā](tathā)
+[by-this](anena) [pervasion](vyāpakaṃ) [having-done](kṛtvā) [Tripurāmālinī](tripurāmālinīṃ) [likewise](tathā)
+
 ## mukta-m0-p33-v806
-[etat-trayaṃ](etattrayaṃ) [bhruvoḥ-madhye](bhruvormadhye) [vinyaset](vinyaset) [sādhaka-uttamaḥ](sādhakottamaḥ)
+[this-triad](etattrayaṃ) [in-eyebrows-middle](bhruvormadhye) [should-place](vinyaset) [best-of-practitioners](sādhakottamaḥ)
+
 ## mukta-m0-p33-v807
-[vaśinī](vaśinyādyaṣṭa) [ādi](vaśinyādyaṣṭa) [aṣṭa](vaśinyādyaṣṭa) [vāgdevīḥ](vāgdevīreṣu) [eṣu](vāgdevīreṣu) [sthāneṣu](sthāneṣu) [vinyaset](vinyaset)
+[Vaśinī-etc.](vaśinyādy) [eight](aṣṭa) [speech-goddesses](vāgdevīr) [in-these](eṣu) [places](sthāneṣu) [should-place](vinyaset)
+
 ## mukta-m0-p33-v808
-[vilomena](vilomenaiṣu) [eṣu](vilomenaiṣu) [deśeṣu](deśeṣu) [vāmeṣu](vāmeṣu) [vidhinā](vidhinā'munā) [amunā](vidhinā'munā)
+[in-reverse-order](vilomena) [in-these](eṣu) [places](deśeṣu) [in-left-ones](vāmeṣu) [by-this-rule](vidhinā'munā)
+
 ## mukta-m0-p33-v809
-[anena](anena) [vyāpakaṃ](vyāpakaṃ) [kṛtvā](kṛtvā) [tripurāṃ](tripurāṃ) [siddhi-nāyikām](siddhināyaikām)
+[by-this](anena) [pervasion](vyāpakaṃ) [having-done](kṛtvā) [Tripurā](tripurāṃ) [for-accomplishment-leading](siddhināyaikām)
+
 ## mukta-m0-p33-v810
-[etat-trayaṃ](etattrayaṃ) [lalāṭe](lalāṭe) [tu](tu) [vinyaset](vinyaset) [sādhaka-agraṇīḥ](sādhakāgraṇīḥ)
+[this-triad](etattrayaṃ) [on-forehead](lalāṭe) [indeed](tu) [should-place](vinyaset) [foremost-of-practitioners](sādhakāgraṇīḥ)
+
 ## mukta-m0-p33-v811
-[hṛdaya-stha](hṛdayasthatrikoṇasya) [trikoṇasya](hṛdayasthatrikoṇasya) [catur-dikṣu](caturdikṣu) [bahiḥ-kramāt](bahiḥkramāt)
+[of-heart-situated-triangle](hṛdayasthatrikoṇasya) [in-four-directions](caturdikṣu) [in-outer-sequence](bahiḥkramāt)
+
 ## mukta-m0-p33-v812
-[vaśīkaraṇa-pāśaṃ](vaśīkaraṇapāśañca) [ca](vaśīkaraṇapāśañca) [stambhana-aṅkuśaṃ](stambhanāṅkuśameva) [eva](stambhanāṅkuśameva) [ca](stambhanāṅkuśameva)
+[subjugation-noose](vaśīkaraṇapāśañ) [and](ca) [paralyzing-goad](stambhanāṅkuśam) [indeed](eva) [and](ca)
+
 ## mukta-m0-p33-v813
-[kāma-pīṭhaṃ](kāmapīṭhañcāgrakoṇ) [ca](kāmapīṭhañcāgrakoṇ) [agra-koṇ](kāmapīṭhañcāgrakoṇ) [jālandharaṃ](jālandharantu) [tu](jālandharantu) [dakṣiṇe](dakṣiṇe)
+[Kāmapīṭha](kāmapīṭhañ) [and](ca) [in-front-corner](agrakoṇ) [Jālandhara](jālandharan) [indeed](tu) [in-south](dakṣiṇe)
+
 ## mukta-m0-p33-v814
-[koṇa-traye](koṇatraye) [ca](ca) [kāmeśīṃ](kāmeśīṃ) [vajreśīṃ](vajreśīṃ) [bhaga-mālinīm](bhagamālinīm)
+[in-three-corners](koṇatraye) [and](ca) [Kāmeśī](kāmeśīṃ) [Vajreśī](vajreśīṃ) [Bhagamālinī](bhagamālinīm)
+
 ## mukta-m0-p33-v815
-[śrī-devyaḥ](śrīdevyaḥ) [pūjitāḥ](pūjitāḥ) [santu](santu) [vyāpakatvena](vyāpakatvena) [vinyaset](vinyaset)
+[auspicious-goddesses](śrīdevyaḥ) [worshipped](pūjitāḥ) [may-be](santu) [as-pervasion](vyāpakatvena) [should-place](vinyaset)
+
 ## mukta-m0-p33-v816
-[śāktaṃ](śāktantu) [tu](śāktantu) [darśanaṃ](darśanaṃ) [mantrī](mantrī) [lalāṭe](lalāṭe) [kramataḥ](kramato) [nyaset](nyaset)
+[Śākta](śāktan) [indeed](tu) [vision](darśanaṃ) [mantrin](mantrī) [on-forehead](lalāṭe) [in-sequence](kramato) [should-place](nyaset)
+
 ## mukta-m0-p33-v817
-[ataḥ](ataḥ) [paraṃ](paraṃ) [brahma-rūpāṃ](brahmarūpāṃ) [śrīmat-tripura-sundarīm](śrīmattripurasundarīm)
+[after-this](ataḥ) [further](paraṃ) [Brahman-formed](brahmarūpāṃ) [glorious-Tripurasundarī](śrīmattripurasundarīm)
+
 ## mukta-m0-p33-v818
-[śrī-devyaḥ](śrīdevyaḥ) [pūjitāḥ](pūjitāḥ) [santu](santu) [parāpara-rahasya-gāḥ](parāpararahasyagāḥ)
+[auspicious-goddesses](śrīdevyaḥ) [worshipped](pūjitāḥ) [may-be](santu) [higher-lower-secret-going](parāpararahasyagāḥ)
+
 ## mukta-m0-p33-v819
-[śiraḥ](śiraḥ) [kaṇṭhaṃ](kaṇṭhaṃ) [mukhaṃ](mukhaṃ) [śrotraṃ](śrotraṃ) [netraṃ](netraṃ) [nāsāṃ](nāsāṃ) [bhujadvayam](bhujadvayam)
+[head](śiraḥ) [throat](kaṇṭhaṃ) [face](mukhaṃ) [ear](śrotraṃ) [eye](netraṃ) [nose](nāsāṃ) [two-arms](bhujadvayam)
+
 ## mukta-m0-p33-v820
-[guhyaṃ](guhyaṃ) [pādaṃ](pādañca) [ca](pādañca) [gulphaṃ](gulphañca) [ca](gulphañca) [devyāḥ](devyāḥ) [pañcadaśa-akṣaram](pañcadaśākṣaram)
+[secret-part](guhyaṃ) [foot](pādañ) [and](ca) [ankle](gulphañ) [and](ca) [of-goddess](devyāḥ) [fifteen-syllabled](pañcadaśākṣaram)
+
 ## mukta-m0-p33-v821
-[pañca-kūṭaṃ](pañcakūṭaṃ) [samuccārya](samuccārya) [pañcamīṃ](pañcamīṃ) [tripura-īśvarīm](tripureśvarīm)
+[five-sections](pañcakūṭaṃ) [having-uttered](samuccārya) [fifth](pañcamīṃ) [Tripureśvarī](tripureśvarīm)
+
 ## mukta-m0-p33-v822
-[ṣaḍ-āmnāya](ṣaḍāmnāyaprabhedena) [prabhedena](ṣaḍāmnāyaprabhedena) [śāktaṃ](śāktaṃ) [śambhavaṃ](śambhavameva) [eva](śambhavameva) [vā](vā)
+[by-six-traditions-distinction](ṣaḍāmnāyaprabhedena) [Śākta](śāktaṃ) [Śāmbhava](śambhavam) [indeed](eva) [or](vā)
+
 ## mukta-m0-p33-v823
-[kṣetra-pālaṃ](kṣetrapālantu) [tu](kṣetrapālantu) [hṛdaye](hṛdaye) [yoginīṃ](yoginīṃ) [vinyaset](vinyased) [gude](gude)
+[field-protector](kṣetrapālan) [indeed](tu) [in-heart](hṛdaye) [Yoginī](yoginīṃ) [should-place](vinyased) [in-anus](gude)
+
 ## mukta-m0-p33-v824
-[yoni-mudrāṃ](yonimudrāṃ) [mūrdhni](mūrdhni) [deśe](deśe) [parāṃ](parāṃ) [śaktiṃ](śaktiñca) [ca](śaktiñca) [vinyaset](vinyaset)
+[yoni-seal](yonimudrāṃ) [on-head-place](mūrdhni) [place](deśe) [supreme](parāṃ) [power](śaktiñ) [and](ca) [should-place](vinyaset)
+
 ## mukta-m0-p33-v825
-[yasmai](yasmai) [kasmai](kasmai) [na](na) [dātavyaḥ](dātavyo) [na](na) [dātavyaḥ](dātavyaḥ) [kadācana](kadācana)
+[to-whom](yasmai) [to-anyone](kasmai) [not](na) [to-be-given](dātavyo) [not](na) [to-be-given](dātavyaḥ) [ever](kadācana)
