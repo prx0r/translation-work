@@ -8,7 +8,11 @@
 "tokens": [
 {
 "surface": "samavartitva",
-"quick_gloss": "equality"
+"quick_gloss": "equanimity"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "varṇena",
@@ -19,8 +23,16 @@
 "quick_gloss": "direction"
 },
 {
-"surface": "avācī",
-"quick_gloss": "southern"
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "vācī",
+"quick_gloss": "speaking"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "iti",
@@ -58,10 +70,10 @@
 "tokens": [
 {
 "surface": "pratīcī",
-"quick_gloss": "western"
+"quick_gloss": "western-direction"
 },
 {
-"surface": "dig",
+"surface": "dik",
 "quick_gloss": "direction"
 },
 {
@@ -69,8 +81,16 @@
 "quick_gloss": "Hara"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "tva",
 "quick_gloss": "state"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "iṣā",
@@ -85,12 +105,16 @@
 "quick_gloss": "westward"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "janiṃ",
 "quick_gloss": "birth"
 },
 {
 "surface": "mama",
-"quick_gloss": "my"
+"quick_gloss": "of-me"
 }
 ]
 },
@@ -119,12 +143,20 @@
 "quick_gloss": "king"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "rājaḥ",
 "quick_gloss": "of-kings"
 },
 {
 "surface": "kuberaḥ",
 "quick_gloss": "Kubera"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "api",
@@ -135,8 +167,16 @@
 "quick_gloss": "direction"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "udīcī",
 "quick_gloss": "northern"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "iti",
@@ -160,8 +200,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidigdiśām",
-"quick_gloss": "intermediate-directions"
+"surface": "vidig",
+"quick_gloss": "intermediate"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "diśām",
+"quick_gloss": "of-directions"
 }
 ]
 },
@@ -173,24 +221,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṛd",
-"quick_gloss": "of-quarters"
-},
-{
-"surface": "diśaḥ",
-"quick_gloss": "of-directions"
+"surface": "dṛśaḥ",
+"quick_gloss": "of-sight"
 },
 {
 "surface": "prasattyai",
 "quick_gloss": "for-manifestation"
 },
 {
-"surface": "bhavatād",
+"surface": "bhavatāt",
 "quick_gloss": "may-be"
 },
 {
-"surface": "vidigdiśām",
-"quick_gloss": "of-intermediate-directions"
+"surface": "vidig",
+"quick_gloss": "intermediate"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "diśām",
+"quick_gloss": "of-directions"
 }
 ]
 },
@@ -203,7 +255,7 @@
 "tokens": [
 {
 "surface": "ahaṃkṛtiḥ",
-"quick_gloss": "egoism"
+"quick_gloss": "ego-sense"
 }
 ]
 },
@@ -219,24 +271,44 @@
 "quick_gloss": "threefold"
 },
 {
-"surface": "ahaṃkṛtiḥ",
-"quick_gloss": "egoism"
+"surface": "+",
+"quick_gloss": "+"
 },
 {
-"surface": "jīyād",
-"quick_gloss": "may-triumph"
+"surface": "ahaṃkṛtiḥ",
+"quick_gloss": "ego-sense"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "jīyāt",
+"quick_gloss": "may-prevail"
 },
 {
 "surface": "viśva",
 "quick_gloss": "universe"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "eka",
 "quick_gloss": "one"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "prasava",
 "quick_gloss": "birth"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "sthalī",
@@ -266,11 +338,15 @@
 "tokens": [
 {
 "surface": "tiṣṭha",
-"quick_gloss": "remain"
+"quick_gloss": "stand"
 },
 {
 "surface": "hṛṣṭa",
 "quick_gloss": "in-joyful"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "matau",
@@ -285,12 +361,20 @@
 "quick_gloss": "supreme"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "eva",
 "quick_gloss": "indeed"
 },
 {
 "surface": "bhrama",
 "quick_gloss": "delusion"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "apanut",
@@ -306,8 +390,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 276",
+"quick_gloss": "p. 276)"
+},
+{
 "surface": "balimāyā",
-"quick_gloss": "Bali's-illusion"
+"quick_gloss": "power-of-Bali"
 }
 ]
 },
@@ -320,18 +408,26 @@
 "tokens": [
 {
 "surface": "hanta",
-"quick_gloss": "oh"
+"quick_gloss": "behold"
 },
 {
-"surface": "yātā",
-"quick_gloss": "who-went"
+"surface": "yā",
+"quick_gloss": "who"
 },
 {
-"surface": "uṣayat",
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "atoṣayat",
 "quick_gloss": "satisfied"
 },
 {
-"surface": "deyād",
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "deyāt",
 "quick_gloss": "may-give"
 },
 {
@@ -339,8 +435,16 @@
 "quick_gloss": "Bali"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "māyā",
-"quick_gloss": "illusion"
+"quick_gloss": "power"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "atulaṃ",
@@ -361,7 +465,7 @@
 "tokens": [
 {
 "surface": "balipriyā",
-"quick_gloss": "beloved-of-Bali"
+"quick_gloss": "dear-to-Bali"
 }
 ]
 },
@@ -377,24 +481,44 @@
 "quick_gloss": "who"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "asthāpayat",
 "quick_gloss": "established"
 },
 {
-"surface": "adholoke",
-"quick_gloss": "in-nether-world"
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "adhaḥ",
+"quick_gloss": "in-nether"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "loke",
+"quick_gloss": "world"
 },
 {
 "surface": "dvāra",
-"quick_gloss": "at-door"
+"quick_gloss": "door"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "agre",
-"quick_gloss": "front"
+"quick_gloss": "at-front"
 },
 {
 "surface": "niyataṃ",
-"quick_gloss": "permanently"
+"quick_gloss": "constantly"
 },
 {
 "surface": "baleḥ",
@@ -426,12 +550,24 @@
 "quick_gloss": "sacrificer"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "citta",
 "quick_gloss": "mind"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "eka",
 "quick_gloss": "sole"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "nandinī",
@@ -464,24 +600,40 @@
 "quick_gloss": "with-various"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "āhutibhiḥ",
 "quick_gloss": "oblations"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "jīyāt",
-"quick_gloss": "may-triumph"
+"quick_gloss": "may-prevail"
 },
 {
 "surface": "sruvā",
-"quick_gloss": "ladle"
+"quick_gloss": "sacrificial-ladle"
 },
 {
-"surface": "sat",
-"quick_gloss": "with-good"
+"surface": "san",
+"quick_gloss": "good"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "mantra",
-"quick_gloss": "mantras"
+"quick_gloss": "mantra"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "pūjitā",
@@ -514,16 +666,24 @@
 "quick_gloss": "who"
 },
 {
-"surface": "veda",
-"quick_gloss": "Veda"
+"surface": "vede",
+"quick_gloss": "in-Veda"
 },
 {
 "surface": "ṛk",
-"quick_gloss": "in-Ṛk"
+"quick_gloss": "Ṛk"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "jayati",
-"quick_gloss": "triumphs"
+"quick_gloss": "prevails"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "eṣā",
@@ -564,16 +724,28 @@
 "quick_gloss": "Veda"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "sāra",
 "quick_gloss": "essence"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "artha",
 "quick_gloss": "meaning"
 },
 {
+"surface": "+",
+"quick_gloss": "+"
+},
+{
 "surface": "vidbhiḥ",
-"quick_gloss": "knowers"
+"quick_gloss": "by-knowers"
 },
 {
 "surface": "sā",
@@ -582,6 +754,10 @@
 {
 "surface": "saśraddhā",
 "quick_gloss": "endowed-with-faith"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
 },
 {
 "surface": "iti",
@@ -615,14 +791,14 @@
 "tokens": [
 {
 "surface": "kavyena",
-"quick_gloss": "with-funeral-offering"
+"quick_gloss": "by-funeral-offering"
 },
 {
 "surface": "kṛpayā",
 "quick_gloss": "by-compassion"
 },
 {
-"surface": "yasyā",
+"surface": "yasyāḥ",
 "quick_gloss": "of-whom"
 },
 {
@@ -634,8 +810,16 @@
 "quick_gloss": "she"
 },
 {
-"surface": "śrāddhadevatā",
-"quick_gloss": "deity-of-śrāddha"
+"surface": "śrāddha",
+"quick_gloss": "śrāddha"
+},
+{
+"surface": "+",
+"quick_gloss": "+"
+},
+{
+"surface": "devatā",
+"quick_gloss": "deity"
 }
 ]
 },
@@ -646,6 +830,10 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
+{
+"surface": "p. 277",
+"quick_gloss": "p. 277)"
+},
 {
 "surface": "mātā",
 "quick_gloss": "mother"
