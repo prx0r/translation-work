@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "ṣaṇmāsād",
-   "morph": "m.abl.sg",
-   "grounds": "ablative of time period; sandhi form as given"
+   "morph": "compound+m.abl.sg: ṣaṣ+member,māsa+head",
+   "grounds": "ablative of time; compound ṣaṇmāsa"
   },
   {
    "lemma": "abhyased",
-   "morph": "3.sg.act.opt",
-   "grounds": "optative third person of abhyas"
+   "morph": "3.sg.act-opt √abhyas",
+   "grounds": "optative verb"
   },
   {
    "lemma": "yas",
-   "morph": "m.nom.sg",
-   "grounds": "relative pronoun, subject"
+   "morph": "pron.m.nom.sg",
+   "grounds": "relative pronoun"
   },
   {
    "lemma": "tu",
@@ -25,12 +25,12 @@
   {
    "lemma": "kāṣāyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "accusative object of practice/context"
+   "grounds": "object or state associated with renunciation"
   },
   {
    "lemma": "bandha+varjitam",
-   "morph": "compound = member+membership",
-   "grounds": "compound = bandha+varjita; qualifier of kāṣāyaṃ"
+   "morph": "compound+n.acc.sg: bandha+member,varjita+head",
+   "grounds": "compound describing the state"
   }
  ]
 }

@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "samīra+pūrako",
-   "morph": "compound = member+membership",
-   "grounds": "compound = samīra+pūraka; adjectival qualifier of vāyuḥ"
+   "morph": "compound+m.nom.sg: samīra+member,pūraka+head",
+   "grounds": "compound describing vāyu"
   },
   {
    "lemma": "vāyuḥ",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "subject"
   },
   {
    "lemma": "sarva+jīveṣu",
-   "morph": "compound = member+membership",
-   "grounds": "compound = sarva+jīva; locative locus"
+   "morph": "compound+m.loc.pl: sarva+member,jīva+head",
+   "grounds": "locative compound"
   },
   {
    "lemma": "saṃsthitam",
    "morph": "n.nom.sg",
-   "grounds": "past passive participle; predicate describing what is situated"
+   "grounds": "past participle predicate"
   }
  ]
 }

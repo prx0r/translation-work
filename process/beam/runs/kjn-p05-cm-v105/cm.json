@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "ko",
-   "morph": "m.nom.sg",
+   "morph": "pron.m.nom.sg",
    "grounds": "interrogative pronoun"
   },
   {
    "lemma": "asau",
-   "morph": "m.nom.sg",
-   "grounds": "demonstrative pronoun referring to jīva"
+   "morph": "pron.m.nom.sg",
+   "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "jīvaḥ",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject of inquiry"
+   "grounds": "subject of inquiry"
   },
   {
    "lemma": "samuddiṣṭaḥ",
    "morph": "m.nom.sg",
-   "grounds": "past passive participle qualifying jīvaḥ"
+   "grounds": "past participle"
   },
   {
    "lemma": "kiṃ",
-   "morph": "n.nom.sg",
-   "grounds": "interrogative pronoun for nature"
+   "morph": "pron.n.nom.sg",
+   "grounds": "interrogative pronoun"
   },
   {
    "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "disjunctive particle linking questions"
+   "grounds": "disjunctive particle"
   },
   {
    "lemma": "jīva+svarūpakam",
-   "morph": "compound = member+membership",
-   "grounds": "compound = jīva+svarūpa; nominative/accusative object of inquiry"
+   "morph": "compound+n.nom.sg: jīva+member,svarūpaka+head",
+   "grounds": "compound asking for essence"
   }
  ]
 }

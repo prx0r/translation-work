@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "kathayāmi",
-   "morph": "1.sg.act.pres",
-   "grounds": "present active first person of kathay"
+   "morph": "1.sg.act-pres √kath",
+   "grounds": "verb of declaration"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation of doubt"
+   "grounds": "negation particle"
   },
   {
    "lemma": "sandeho",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject of negation"
+   "grounds": "negated noun"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "correlative adverb introducing the manner/result"
+   "grounds": "manner conjunction"
   },
   {
    "lemma": "mṛtyur",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject of vinaśyati"
+   "grounds": "subject"
   },
   {
    "lemma": "vinaśyati",
-   "morph": "3.sg.act.pres",
-   "grounds": "present active third person of naś"
+   "morph": "3.sg.act-fut √naś",
+   "grounds": "verb of result"
   }
  ]
 }

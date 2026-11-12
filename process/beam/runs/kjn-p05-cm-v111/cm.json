@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "karṇa+sthaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = karṇa+stha; nominative/accusative subject of hearing"
+   "morph": "compound+n.nom.sg: karṇa+member,stha+head",
+   "grounds": "compound describing what is heard"
   },
   {
    "lemma": "śrūyate",
-   "morph": "3.sg.pass.pres",
-   "grounds": "present passive third person of śru"
+   "morph": "3.sg.pass-pres √śru",
+   "grounds": "passive verb"
   },
   {
    "lemma": "devi",
@@ -19,8 +19,8 @@
   },
   {
    "lemma": "pāramparya+krama+āgatam",
-   "morph": "compound = member+membership",
-   "grounds": "compound = pāramparya+krama+āgata; qualifier of what is heard"
+   "morph": "compound+n.nom.sg: pāramparya+member,krama+member,āgata+head",
+   "grounds": "compound describing transmission"
   }
  ]
 }

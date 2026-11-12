@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "ṣaṣṭhaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "ordinal referring to the sixth wheel"
+   "morph": "adj.n.acc.sg",
+   "grounds": "ordinal adjective qualifying cakraṃ"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "particle marking continuation or contrast"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of the described configuration"
+   "grounds": "primary object being described"
   },
   {
    "lemma": "rājānam",
    "morph": "m.acc.sg",
-   "grounds": "designation of the presiding deity"
+   "grounds": "epithet characterizing the cakra"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "(indecl.)",
-   "grounds": "numeral modifying petals"
+   "morph": "compound:numeral+member",
+   "grounds": "numeral forming first member of compound with patra"
   },
   {
    "lemma": "patra",
-   "morph": "n.nom.sg",
-   "grounds": "qualifier of the wheel"
+   "morph": "compound:n.+member",
+   "grounds": "second member of compound describing the cakra"
   },
   {
    "lemma": "sakarṇikam",
-   "morph": "n.acc.sg",
-   "grounds": "qualifier describing the petaled wheel"
+   "morph": "adj.n.acc.sg",
+   "grounds": "adjective indicating presence of a central pericarp"
   }
  ]
 }

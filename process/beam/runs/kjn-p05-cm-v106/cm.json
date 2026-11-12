@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "m.loc.sg",
-   "grounds": "interrogative pronoun in locative; sandhi form as given"
+   "morph": "pron.m.loc.sg",
+   "grounds": "interrogative locative"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunctive particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "eva",
@@ -20,27 +20,27 @@
   {
    "lemma": "layaṃ",
    "morph": "m.acc.sg",
-   "grounds": "accusative object of yāti"
+   "grounds": "object of motion"
   },
   {
    "lemma": "yāti",
-   "morph": "3.sg.act.pres",
-   "grounds": "present active third person of yā"
+   "morph": "3.sg.act-pres √yā",
+   "grounds": "verb of motion"
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = tat+sarva; accusative object of kathayasva"
+   "morph": "compound+n.acc.sg: tad+member,sarva+head",
+   "grounds": "compound summarizing inquiry"
   },
   {
    "lemma": "kathayasva",
-   "morph": "2.sg.act.imp",
-   "grounds": "imperative second person of kathay"
+   "morph": "2.sg.mid-imperative √kath",
+   "grounds": "imperative request"
   },
   {
    "lemma": "me",
-   "morph": "1.sg.dat",
-   "grounds": "dative pronoun of recipient"
+   "morph": "pron.dat.sg",
+   "grounds": "recipient of explanation"
   }
  ]
 }

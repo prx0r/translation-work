@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[high-wall-gift](uccaprākāradānena) [and-cutting-removal](tacchedoddharaṇena) [or](vā)
+[high](ucca) [wall](prākāra) [by-giving](dānena) [its](tat) [breaking](cheda) [by-removal](uddharaṇena) [or](vā)
 
 ## mukta-m0-p117-v2902
-[thorn-staying](śalyasthā) [or-very-high](vāthavātyuccā) [maker](kartāraṃ) [kills](hanti) [threshold](dehalī)
+[thorn](śalya) [situated](sthā) [or](vā) [or](atha) [very-high](atyuccā) [the-maker](kartāraṃ) [kills](hanti) [threshold](dehalī)
 
 ## mukta-m0-p117-v2903
-[linga-half-raising](liṅgārdhocchayanī) [should-be-done](kāryā) [with-arcā](sārcāyāṃ) [pedestal-raising](pīṭhikocchrayā)
+[liṅga](liṅga) [half](ardha) [elevation](ucchayanī) [to-be-made](kāryā) [with-image](sārcāyāṃ) [pedestal](pīṭhikā) [height](ucchrayā)
 
 ## mukta-m0-p117-v2904
-[below](adhaśca) [spread](vistṛte) [door](dvāre) [gold](ruk) [may-be](syāt) [woman-or](strīvātha) [fickle](cañcalā)
+[below](adhaḥ) [and](ca) [widened](vistṛte) [in-door](dvāre) [pain](ruk) [would-be](syāt) [woman](strī) [or](vā) [and](atha) [fickle](cañcalā)
 
 ## mukta-m0-p117-v2905
-[destruction](kṣayaṃ) [ant-middle](pipīlikāmadhyaṃ) [family-destroying](kulaghnaṃ) [conch-thorn](śaṅkhakaṇṭhakam)
+[decay](kṣayaṃ) [ant](pipīlikā) [middle](madhyaṃ) [family](kula) [destroying](ghnaṃ) [conch](śaṅkha) [throat](kaṇṭhakam)
 
 ## mukta-m0-p117-v2906
-[broken](bhinna) [branch](śākhe) [decay-door](kṣayodvāre) [direction-confused](digbhrānte) [place-confusion](sthānavibhramaḥ)
+[broken](bhinna) [branch](śākhe) [decay](kṣaya) [door](udvāre) [direction](dik) [confused](bhrānte) [place](sthāna) [confusion](vibhramaḥ)
 
 ## mukta-m0-p117-v2907
-[decayed](jarjare) [reversed](viparīte) [or](vā) [wealth-loss](dhananāśaḥ) [always](sadā) [man](nare)
+[decayed](jarjare) [reversed](viparīte) [or](vā) [wealth](dhana) [destruction](nāśaḥ) [always](sadā) [for-man](nare)
 
 ## mukta-m0-p117-v2908
-[self-opened](svayamudvāṭite) [likewise](tadvat) [afflicted](pīḍitāhitatā) [nanāt](nanāt)
+[self](svayam) [opened](udvāṭite) [likewise](tadvat) [afflicted](pīḍita) [harmfulness](ahitatā) [from-man](nanāt)
 
 ## mukta-m0-p117-v2909
-[door](dvāra) [pierced](biddhaṃ) [abandon](tyajedveśma) [family-destruction-fear](kulakṣayabhayātsadā)
+[door](dvāra) [pierced](biddhaṃ) [one-should-abandon](tyajet) [house](veśma) [family](kula) [destruction](kṣaya) [fear](bhayāt) [always](sadā)
 
 ## mukta-m0-p117-v2910
-[pierced-unpierced](bedhyabedhakayorvāstvostyaktvā) [double-distance](dviguṇamantaram)
+[of-pierced](bedhya) [and-piercer](bedhakayoḥ) [of-sites](vāstvoḥ) [having-left](tyaktvā) [double](dviguṇam) [interval](antaram)
 
 ## mukta-m0-p117-v2911
-[all](sarveṣāṃ) [auspicious-giving](śubhadā) [which](yāśca) [doors-etc](dvārādīnāṃ) [those](ca) [I-speak](tā) [bruve](bruve)
+[of-all](sarveṣāṃ) [auspicious](śubhadā) [which](yāḥ) [and](ca) [of-door](dvāra) [etc.](ādīnāṃ) [and](ca) [them](tā) [I-speak](bruve)
 
 ## mukta-m0-p117-v2912
-[those-two-united](tāvekīkṛtya) [cut](saṃchindyāttrīṣvadryaṣṭābhireva) [or](vā)
+[them](tāḥ) [having-unified](ekīkṛtya) [one-should-divide](saṃchindyāt) [by-three](trīṣu) [or](vā) [by-mountain](adri) [by-eight](aṣṭābhiḥ) [indeed](eva) [or](vā)
 
 ## mukta-m0-p117-v2913
-[sorrow](viṣādaśceti) [and-mountain-part](cādryaṃśe) [fruit](phalaṃ) [seven](saptasu) [embodied](dehinām)
+[despair](viṣādaḥ) [and](ca) [thus](iti) [and](ca) [in-mountain](adri) [part](aṃśe) [result](phalaṃ) [in-seven](saptasu) [for-beings](dehinām)
 
 ## mukta-m0-p117-v2914
-[unequal](viṣamāḥ) [auspicious-giving](śubhadāstatra) [equal](samāścāniṣṭakarmasu)
+[odd](viṣamāḥ) [auspicious](śubhadāḥ) [there](tatra) [even](samāḥ) [and](ca) [in-inauspicious](aniṣṭa) [actions](karmasu)
 
 ## mukta-m0-p117-v2915
-[smoke](dhūmaḥścā) [ca](ca) [harsh](kharo) [crow](dhvāṅkṣaḥ) [equal](samā) [these](ete) [diagonal](vidik) [standing](sthitāḥ)
+[smoke](dhūmaḥ) [and](ca) [dog](śvā) [and](ca) [donkey](kharaḥ) [crow](dhvāṅkṣaḥ) [even](samāḥ) [these](ete) [in-intermediate-directions](vidik) [situated](sthitāḥ)
 
 ## mukta-m0-p117-v2916
-[flag](dhvajaḥ)
+[banner](dhvajaḥ)
 
 ## mukta-m0-p117-v2917
-[woman-son-wealth](strīputrārthān) [bull](vṛṣo) [gives](dadyādaśeṣasukhadaḥ) [elephant](karī)
+[wife](strī) [son](putra) [wealth](arthān) [bull](vṛṣaḥ) [would-give](dadyāt) [all](aśeṣa) [happiness](sukha) [giving](daḥ) [elephant](karī)
 
 ## mukta-m0-p117-v2918
-[disease-death-giving](vyādhimṛtyupradātoktaḥ) [dog](sārameyo'rthagotrahṛt)
+[disease](vyādhi) [death](mṛtyu) [giving](pradātā) [said](uktaḥ) [dog](sārameyaḥ) [wealth](artha) [family](gotra) [taking](hṛt)
 
 ## mukta-m0-p117-v2919
-[thinness-roughness-poverty](kṛśatāraukṣyadāridryaṃ) [all-inauspicious-doing](sarvāniṣṭakaraḥ) [donkey](kharaḥ)
+[emaciation](kṛśatā) [dryness](raukṣya) [poverty](dāridryaṃ) [all](sarva) [inauspicious](aniṣṭa) [causing](karaḥ) [donkey](kharaḥ)
 
 ## mukta-m0-p117-v2920
-[grief-delusion-strife-disease-bondage-etc-doing](śokamohakalivyādhibandhādikṛcca) [crow](vāyasaḥ)
+[sorrow](śoka) [delusion](moha) [strife](kali) [disease](vyādhi) [bondage](bandha) [etc.](ādi) [causing](kṛt) [and](ca) [crow](vāyasaḥ)
 
 ## mukta-m0-p117-v2921
-[measurements](āyāṃśca) [and-join](yojayejjñātvā) [may-be-income-best](syādāyaścottamo) [as](yathā)
+[incomes](āyān) [and](ca) [one-should-apply](yojayet) [having-known](jñātvā) [should-be](syāt) [income](āyaḥ) [and](ca) [best](uttamaḥ) [as](yathā)
 
 ## mukta-m0-p117-v2922
-[having-done-thus](kṛtvaivaṃ) [establish](sthāpayed) [door](dvāraṃ) [previously-said-rite-first](prāguktavidhipūrvakam)
+[having-done](kṛtvā) [thus](evaṃ) [one-should-establish](sthāpayet) [door](dvāraṃ) [previously](prāk) [stated](ukta) [rule](vidhi) [preceded-by](pūrvakam)
 
 ## mukta-m0-p117-v2923
-[others](itareṣāṃ) [ca](ca) [karma-etc](karmādyairnottamānāṃ) [with-pavilions](samaṇḍapaiḥ)
+[of-others](itareṣāṃ) [and](ca) [by-actions](karmādyaiḥ) [not](na) [of-the-best](uttamānāṃ) [with-pavilions](samaṇḍapaiḥ)
 
 ## mukta-m0-p117-v2924
-[pillar-from-sound-etc](stambhāddhinādayaśca) [syuḥ](syuḥ) [seven](sapta) [twenty](viṃśatirevahi)
+[pillar](stambha) [etc.](ādhi) [names](nādayaḥ) [and](ca) [should-be](syuḥ) [seven](sapta) [twenty](viṃśatiḥ) [indeed](eva) [hi](hi)
 
 ## mukta-m0-p117-v2925
-[rucaka-named](rucakākhyaśca) [veda-eight](vedāsrastvaṣṭāsro) [vajra-named](vajrasaṃjñakaḥ)
+[rucaka](rucaka) [named](ākhyaḥ) [and](ca) [four](veda) [cornered](asraḥ) [and](tu) [eight](aṣṭa) [cornered](asraḥ) [vajra](vajra) [named](saṃjñakaḥ)

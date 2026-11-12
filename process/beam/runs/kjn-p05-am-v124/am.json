@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Under what extreme condition of being bitten by great serpents is poison said not to enter the body?",
+ "question": "What immunity to poison is claimed for the practitioner even when bitten by great serpents?",
  "premises": [
-  "Poison is the thing in question.",
-  "A person may be bitten by great serpents.",
-  "Even in that condition, poison does not enter the body."
+  "Poison is the potential threat.",
+  "The practitioner may be bitten by great serpents.",
+  "Poison does not enter the body."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the body.",
- "uncertainties": [
-  "The reason poison does not enter is not stated by this verse alone."
- ],
- "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
+ "inference": "Therefore the practitioner becomes immune to poison even when bitten by great serpents.",
+ "uncertainties": [],
+ "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
 }

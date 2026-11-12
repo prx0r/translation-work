@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "amṛta+agraṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = amṛta+agra; accusative/locative adverbial of position"
+   "morph": "compound+n.acc.sg: amṛta+member,agra+head",
+   "grounds": "compound indicating location"
   },
   {
    "lemma": "rasa+agreṇa",
-   "morph": "compound = member+membership",
-   "grounds": "compound = rasa+agra; instrumental of means"
+   "morph": "compound+n.inst.sg: rasa+member,agra+head",
+   "grounds": "instrumental compound"
   },
   {
    "lemma": "dahyamāna",
    "morph": "m.nom.sg",
-   "grounds": "present passive participle describing the agent"
+   "grounds": "present participle"
   },
   {
    "lemma": "sudhīr",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "subject noun"
   },
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "adversative/emphatic particle"
+   "grounds": "inclusive particle"
   }
  ]
 }

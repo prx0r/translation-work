@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "tvat+prasādena",
-   "morph": "compound = member+membership",
-   "grounds": "compound = tvat+prasāda; instrumental of means"
+   "morph": "compound+m.inst.sg: tvad+member,prasāda+head",
+   "grounds": "instrumental cause; compound with tvad"
   },
   {
    "lemma": "kauleśa",
-   "morph": "m.voc.sg",
-   "grounds": "vocative address to the recipient of the statement"
+   "morph": "compound+m.voc.sg: kaula+member,īśa+head",
+   "grounds": "vocative address; compound kauleśa"
   },
   {
    "lemma": "jñāto",
    "morph": "m.nom.sg",
-   "grounds": "past passive participle of jñā agreeing with ahaṃ"
+   "grounds": "past participle"
   },
   {
    "lemma": "ahaṃ",
-   "morph": "m.nom.sg",
-   "grounds": "first-person pronoun, subject"
+   "morph": "pron.nom.sg",
+   "grounds": "speaker"
   },
   {
    "lemma": "kaula+nirṇayaḥ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = kaula+nirṇaya; nominative object/thing known"
+   "morph": "compound+m.nom.sg: kaula+member,nirṇaya+head",
+   "grounds": "compound object of knowledge"
   }
  ]
 }

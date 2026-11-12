@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "abdam+ekaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = abda+eka; accusative of duration"
+   "morph": "compound+m.acc.sg: abda+member,eka+head",
+   "grounds": "accusative of duration; compound"
   },
   {
    "lemma": "yadā+abhyastañ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = yadā+abhyasta; temporal clause, sandhi form as given"
+   "morph": "compound+n.nom.sg: yadā+member,abhyasta+head",
+   "grounds": "compound temporal clause with past participle"
   },
   {
    "lemma": "jarā+mṛtyur",
-   "morph": "compound = member+membership",
-   "grounds": "compound = jarā+mṛtyu; nominative subject"
+   "morph": "compound+m.nom.sg: jarā+member,mṛtyu+head",
+   "grounds": "compound subject"
   },
   {
    "lemma": "vinaśyati",
-   "morph": "3.sg.act.pres",
-   "grounds": "present active third person of naś"
+   "morph": "3.sg.act-fut √naś",
+   "grounds": "verb of result"
   }
  ]
 }

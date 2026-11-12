@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p115-v2851
-[height](ucchrayo) [double](dviguṇo) [from-door](dvārād) [otherwise-residence](anyathāvāsaṃ) [called](ucyate)
+[height](ucchrayo) [twice](dviguṇo) [than-door](dvārād) [otherwise](anyathā) [dwelling](āvāsaṃ) [is-called](ucyate)
 
 ## mukta-m0-p115-v2852
-[doors](dvārāṇi) [ten](daśa) [accomplished](siddhāni) [four-foremost](catvāryagrāṇi) [among-them](teṣu) [and](ca)
+[doors](dvārāṇi) [ten](daśa) [established](siddhāni) [four](catvāri) [foremost](agrāṇi) [among-them](teṣu) [and](ca)
 
 ## mukta-m0-p115-v2853
-[height-half](ucchrayārdhena) [width](vistāra) [height](ucchrayo) [or](vā) [threefold-excess](tridhādhikaḥ)
+[by-height+half](ucchraya+ardhena) [width](vistāra) [height](ucchrayo) [or](vā) [by-third+greater](tridhā+adhikaḥ)
 
 ## mukta-m0-p115-v2854
-[height-half](ucchrayārdhena) [spread](vistīrṇā) [branch](śākhā) [odd-number](viṣamasaṅkhyayā)
+[by-height+half](ucchraya+ardhena) [expanded](vistīrṇā) [branch](śākhā) [by-odd+number](viṣama+saṅkhyayā)
 
 ## mukta-m0-p115-v2855
-[branch-width](śākhāpṛthutvam) [not-less](aṅnyūnaṃ) [leaf](dalaṃ) [of-arms](bāhukayor) [opinion](matam)
+[branch+thickness](śākhā+pṛthutvam) [by-finger+less](aṅguli+ūnaṃ) [leaf](dalaṃ) [of-two-arms](bāhukayoḥ) [is-considered](matam)
 
 ## mukta-m0-p115-v2856
-[great-image-shrine](mahārcādhāmni) [of-some](keṣāñcid) [Rudra-branch-included](rudraśākhānvitaṃ) [opinion](matam)
+[in-great+image+shrine](mahā+arcā+dhāmni) [of-some](keṣāñcid) [with-Rudra+branch](rudra+śākhā+anvitaṃ) [is-considered](matam)
 
 ## mukta-m0-p115-v2857
-[staff-branch](daṇḍaśākhā) [rasa-part](rasāṃśena) [that-called-ashrama](tamākhyāśrama) [three](traya) [part](bhāgikā)
+[staff+branch](daṇḍa+śākhā) [by-sixth+part](rasa+aṃśena) [that+called](tam+ākhyā) [by-hermitage+part](āśrama+bhāgikā)
 
 ## mukta-m0-p115-v2858
-[ray](marīcī) [pairwise](yugmataḥ) [to-be-made](kāryā) [root-called](mūlākhyā) [poison](viṣapeṇa) [but](tu)
+[rays](marīcī) [in-pairs](yugmataḥ) [to-be-made](kāryā) [root+called](mūla+ākhyā) [by-fifth-part](viṣapeṇa) [but](tu)
 
 ## mukta-m0-p115-v2859
-[all-blind](sarvāndha) [kārikā-insertion](kārikāveśo) [root-branch-equal](mūlaśākhāsamo) [becomes](bhavet)
+[all+blind](sarva+andha) [maker+entrance](kārikā+āveśo) [to-root+branch+equal](mūla+śākhā+samo) [should-be](bhavet)
 
 ## mukta-m0-p115-v2860
-[dividing](vibhajya) [door-outer](dvārabāhyā) [and](ca) [element](bhūtā) [would-be](syāt) [staff-branch](daṇḍaśākhikā)
+[having-divided](vibhajya) [door+outside](dvāra+bāhyā) [and](ca) [by-five](bhūtā) [should-be](syāt) [staff+branch](daṇḍa+śākhikā)
 
 ## mukta-m0-p115-v2861
-[that-half-water-width](tsārdhāmbuvistareṇa) [but](tu)
+[with-one-and-half+water+width](sa+ardha+ambu+vistareṇa) [but](tu)
 
 ## mukta-m0-p115-v2862
-[two-entry](dvipraveśāt) [width-lord](pṛthutveśo) [pillar-branch](stambhaśākhā) [would-be-this](bhavediyam)
+[from-two+entrances](dvi+praveśāt) [in-thickness+entrance](pṛthutva+īśo) [pillar+branch](stambha+śākhā) [should-be](bhavet) [this](iyam)
 
 ## mukta-m0-p115-v2863
-[poison](viṣaṣeṇa) [but](tu)
+[by-fifth-part](viṣaṣeṇa) [but](tu)
 
 ## mukta-m0-p115-v2864
-[one-and-quarter-two-part-width](sapādadvyaṃśavistārā) [ray-arrow-entry](marīcīṣupraveśataḥ)
+[with-quarter+twenty-two+width](sa+pāda+dvi+aṃśa+vistārā) [in-rays+entrance](marīcīṣu+praveśataḥ)
 
 ## mukta-m0-p115-v2865
-[beauty-proportion](śobhānurūpataḥ) [to-be-made](kāryāḥ) [band-etc](paṭṭikādyāḥ) [by-artisans](śilpibhiḥ)
+[according-to-beauty+fitness](śobhā+anurūpataḥ) [to-be-made](kāryāḥ) [strips+etc](paṭṭikā+ādyāḥ) [but](tu) [by-craftsmen](śilpibhiḥ)
 
 ## mukta-m0-p115-v2866
-[staff-dark-kārikā-named](daṇḍāndhakārikānāma) [peace-called](śāntākhyā) [form-branch](rūpaśākhikā)
+[of-staff+blind+makers](daṇḍa+andha+kārikānām) [peace+called](śānta+ākhyā) [form+branch](rūpa+śākhikā)
 
 ## mukta-m0-p115-v2867
-[dark-one](andhakārī) [but](tu) [form-called](rūpākhyā) [and-dark-one](cāndhakārī) [ray](marīcikā)
+[blind-maker](andhakārī) [but](tu) [form+called](rūpa+ākhyā) [and](ca) [blind-maker](andhakārī) [ray](marīcikā)
 
 ## mukta-m0-p115-v2868
-[half-element-part-half-one-pair-one-half-water](sārdhabhūtāṃśasārdhaikayugaikasārdhavāribhiḥ)
+[with-half+five+parts+half+one+pair+one+half+water](sa+ardha+bhūta+aṃśa+sa+ardha+eka+yuga+eka+sa+ardha+vāribhiḥ)
 
 ## mukta-m0-p115-v2869
-[arrow-part](bāṇāṃśāt) [root-branch](mūlaśākhā) [and](ca) [from-staff-datu-entry](daṇḍāddatupraveśanam)
+[from-five+parts](bāṇa+aṃśāt) [root+branch](mūla+śākhā) [and](ca) [from-staff](daṇḍāt) [then](atu) [entrance](praveśanam)
 
 ## mukta-m0-p115-v2870
-[experts](vicakṣaṇauḥ)
+[by-the-wise](vicakṣaṇauḥ)
 
 ## mukta-m0-p115-v2871
-[darkness-called](dhvāntākhyā) [leaf-branch](patraśākhā) [and](ca) [so-dark-kārikā](tathāndhakārikā) [again](punaḥ)
+[darkness+called](dhvānta+ākhyā) [leaf+branch](patra+śākhā) [and](ca) [likewise](tathā) [blind-maker](andhakārikā) [again](punaḥ)
 
 ## mukta-m0-p115-v2872
-[leaf-branch](patraśākhā) [in-order](kramāt) [to-be-made](kāryā) [half-arrow-half-moon-like](sārdheṣusārdhacandravat)
+[leaf+branch](patra+śākhā) [in-order](kramāt) [to-be-made](kāryā) [with-half+five+half+moon](sa+ardha+iṣu+sa+ardha+candravat)
 
 ## mukta-m0-p115-v2873
-[thin-fourth-moon-called-arrow-one-water-number](tanuturyaśaśāṅkākhyabāṇaikajalasaṅkhyayā)
+[by-body+four+moon+called+five+one+water+number](tanu+turya+śaśāṅka+ākhya+bāṇa+eka+jala+saṅkhyayā)
 
 ## mukta-m0-p115-v2874
-[seven-arrows-sage-holes](sapteṣumunirandhrāṇi) [by-Rudras](rudrakaiḥ)
+[seven+five+nine+cavities](sapta+iṣu+muni+randhrāṇi) [by-Rudras](rudrakaiḥ)
 
 ## mukta-m0-p115-v2875
-[staff-dark-kārikā-nāga-tama-pillar-dark-kārikā](daṇḍāndhakārikānāgatamastambhāndhakārikā)
+[of-staff+blind+maker+gone](daṇḍa+andha+kārikā+anāgata) [pillar+blind-maker](stambha+andhakārikā)
