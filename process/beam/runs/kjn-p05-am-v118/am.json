@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "In what condition is the speaker's body described as being today?",
+ "question": "In what condition does the speaker find their body today with respect to the veil of ignorance?",
  "premises": [
-  "The speaker refers to their own body.",
-  "The body is described as pure.",
-  "It is described as struck by the veil of ignorance."
+  "The speaker's body is in question.",
+  "That body is pure by nature.",
+  "That body has been struck by the veil of ignorance."
  ],
- "inference": "Today the speaker's pure body is struck by the veil of ignorance.",
- "uncertainties": [],
- "plain_english": "Today my pure body is struck by the veil of ignorance."
+ "inference": "Today the speaker's pure body has been struck by the veil of ignorance.",
+ "uncertainties": [
+  "Cause of the striking not stated"
+ ],
+ "plain_english": "Today my pure body has been struck by the veil of ignorance."
 }

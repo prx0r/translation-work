@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+abhyāsa",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "first member of compound qualifying abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=satata+abhyāsa",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "second member of compound qualifying yogena"
   },
   {
    "lemma": "yogena",
-   "morph": "m.inst.sg",
-   "grounds": "means of attainment"
+   "morph": "m.ins.sg",
+   "grounds": "instrumental means"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+aṣṭa",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=dvi+aṣṭa",
-   "grounds": "second member of compound"
+   "morph": "compound",
+   "grounds": "second member of numerical compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+ākṛtiḥ",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "third member of compound qualifying ākṛtiḥ"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "resulting appearance"
+   "grounds": "subject of becoming"
   },
   {
    "lemma": "bhavet",
    "morph": "3.sg.optative-active √bhū",
-   "grounds": "result of practice"
+   "grounds": "main verb"
   }
  ]
 }

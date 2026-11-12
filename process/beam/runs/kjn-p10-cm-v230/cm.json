@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+aṣṭaka",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭa+aṣṭaka",
-   "grounds": "second member of compound"
+   "morph": "compound",
+   "grounds": "second member of compound qualifying vibhāgam"
   },
   {
    "lemma": "vibhāgam",
    "morph": "m.acc.sg",
-   "grounds": "object to be known"
+   "grounds": "object of knowing"
   },
   {
    "lemma": "tu",
@@ -25,12 +25,12 @@
   {
    "lemma": "parijñātum",
    "morph": "infinitive √jñā",
-   "grounds": "purpose of inquiry"
+   "grounds": "infinitive of purpose"
   },
   {
    "lemma": "anantathā",
    "morph": "(indecl.)",
-   "grounds": "manner of knowing"
+   "grounds": "manner adverb"
   }
  ]
 }

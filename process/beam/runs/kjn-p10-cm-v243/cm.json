@@ -5,7 +5,7 @@
   {
    "lemma": "tṛtīyam",
    "morph": "n.nom.sg",
-   "grounds": "qualifies the wheel"
+   "grounds": "ordinal qualifier of cakraṃ"
   },
   {
    "lemma": "tu",
@@ -14,8 +14,8 @@
   },
   {
    "lemma": "mahā",
-   "morph": "compound=mahā+cakraṃ",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "first member of compound qualifying cakraṃ"
   },
   {
    "lemma": "cakraṃ",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "nava",
-   "morph": "compound=nava+tattva",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "first member of compound qualifying tattva"
   },
   {
    "lemma": "tattva",
-   "morph": "compound=nava+tattva",
-   "grounds": "object of liberation"
+   "morph": "compound",
+   "grounds": "second member of compound qualifying pramocakaḥ"
   },
   {
    "lemma": "pramocakaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes the wheel"
+   "grounds": "predicate describing cakraṃ"
   }
  ]
 }

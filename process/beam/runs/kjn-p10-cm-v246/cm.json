@@ -5,12 +5,12 @@
   {
    "lemma": "kurute",
    "morph": "3.sg.present-middle √kṛ",
-   "grounds": "action of practitioner"
+   "grounds": "main verb"
   },
   {
    "lemma": "amaratvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "result attained"
+   "grounds": "object attained"
   },
   {
    "lemma": "hi",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "satata",
-   "morph": "compound=satata+abhyāsa",
-   "grounds": "first member of compound"
+   "morph": "compound",
+   "grounds": "first member of compound qualifying abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=satata+abhyāsa",
-   "grounds": "means of attainment"
+   "morph": "compound",
+   "grounds": "second member of compound qualifying tatparaḥ"
   },
   {
    "lemma": "tatparaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes the practitioner"
+   "grounds": "description of practitioner"
   }
  ]
 }

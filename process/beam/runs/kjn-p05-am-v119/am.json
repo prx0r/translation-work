@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 119,
- "question": "What auspicious matter does the speaker now wish to hear concerning time?",
+ "question": "What auspicious matter concerning time does the speaker now wish to hear?",
  "premises": [
-  "The speaker wishes to hear now.",
-  "The object of hearing is the deception of time.",
-  "That deception is described as auspicious."
+  "The speaker now wishes to hear something.",
+  "That something concerns the deception of time.",
+  "That matter is auspicious."
  ],
- "inference": "The speaker now wishes to hear of the auspicious deception of time.",
- "uncertainties": [],
- "plain_english": "Now I wish to hear of the auspicious deception of time."
+ "inference": "The speaker now wishes to hear the auspicious account of the deception of time.",
+ "uncertainties": [
+  "Content of that account not given here"
+ ],
+ "plain_english": "Now I wish to hear the auspicious account of the deception of time."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 111,
- "question": "What kind of teaching is said to be heard in the ear, and by what mode of transmission?",
+ "question": "What kind of teaching is heard abiding in the ear, and by what mode does it reach the hearer?",
  "premises": [
-  "Something abiding in the ear is said to be heard.",
-  "The addressee is addressed as goddess.",
-  "That thing is described as having come down through tradition in order."
+  "Something abiding in the ear is heard.",
+  "That which is heard comes down through tradition in order.",
+  "The address is made to the goddess."
  ],
- "inference": "O goddess, what abides in the ear and has come down through successive tradition is heard.",
- "uncertainties": [],
- "plain_english": "O goddess, that which abides in the ear and has come down through tradition is heard."
+ "inference": "O goddess, what comes down through tradition in order is heard abiding in the ear.",
+ "uncertainties": [
+  "Content of what is heard not specified"
+ ],
+ "plain_english": "O goddess, that which has come down through tradition in order is heard abiding in the ear."
 }
