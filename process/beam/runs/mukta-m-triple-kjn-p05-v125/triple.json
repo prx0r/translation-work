@@ -7,32 +7,32 @@
     {
      "surface": "chedyamāno",
      "gloss": "being-cut",
-     "grounds": "passive participle of chid, 'to cut'",
-     "morph": "pres.part.pass-m.nom.sg"
+     "grounds": "present passive participle of √chid",
+     "morph": "m.nom.sg.pres.pass.part-√chid"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negative particle",
+     "grounds": "negation particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "chidyeta",
-     "gloss": "is-cut",
-     "grounds": "passive optative of chid",
-     "morph": "3.sg.pass.opt-chid"
+     "gloss": "would-be-cut",
+     "grounds": "optative passive of √chid",
+     "morph": "3.sg.pass.opt-√chid"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "compound of tad and gata, 'gone'",
-     "morph": "past.part.nom.sg.m"
+     "grounds": "compound of tad and gata",
+     "morph": "m.nom.sg.comp(tad+gata)"
     },
     {
      "surface": "tan+mano",
-     "gloss": "with-mind-on-that",
-     "grounds": "compound of tad and manas, 'mind'",
-     "morph": "nom.sg.n"
+     "gloss": "mind-fixed-on-that",
+     "grounds": "bahuvrihi compound of tad and manas with internal sandhi",
+     "morph": "m.nom.sg.comp(tad+manas)"
     },
     {
      "surface": "yathā",
@@ -41,17 +41,15 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How can a practitioner who has gone to that and fixed mind on that remain uncut even when being cut?",
+   "question": "Can one absorbed in that state be harmed by being cut?",
    "premises": [
-    "being cut does not cut him",
-    "gone to that he remains uncut",
-    "mind fixed on that protects him"
+    "A person may be subjected to cutting.",
+    "That person has gone to that state.",
+    "That person's mind is fixed on that state."
    ],
-   "inference": "spiritual attainment transcends bodily harm",
-   "uncertainties": [
-    "exact referent of tad is unclear"
-   ],
-   "plain_english": "Though being cut, he is not cut, having gone to that with mind fixed on that, as."
+   "inference": "Absorption in that state prevents harm from cutting.",
+   "uncertainties": [],
+   "plain_english": "Even while being cut, one is not cut, just as one who has gone to that and whose mind is fixed on that."
   }
  ]
 }

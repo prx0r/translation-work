@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 113,
- "question": "What should one practice for six months to become free from bondage?",
+ "question": "What practice over six months leads to a state free from bondage?",
  "premises": [
-  "practice lasts six months",
-  "the practitioner is specified",
-  "the result is freedom from bondage"
+  "Practice is undertaken for six months",
+  "The practitioner is described conditionally",
+  "The result is freedom from bondage"
  ],
- "inference": "One should practice for six months to become free from bondage.",
- "uncertainties": [],
- "plain_english": "Whoever practices for six months indeed becomes free from bondage."
+ "inference": "One who practices for six months attains a state free from bondage.",
+ "uncertainties": [
+  "The syntactic role of kāṣāyaṃ is ambiguous in this context"
+ ],
+ "plain_english": "Whoever practices for six months becomes free from bondage."
 }
