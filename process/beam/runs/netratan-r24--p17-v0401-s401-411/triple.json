@@ -7,67 +7,63 @@
     {
      "surface": "nirṇītaṃ",
      "gloss": "decided",
-     "grounds": "past participle of nir-ṇī",
-     "morph": "m.nom.sg"
+     "grounds": "past passive participle indicating something settled",
+     "morph": "n.nom.sg.nt ppp ni-nī"
     },
     {
      "surface": "caitat",
-     "gloss": "this",
-     "grounds": "demonstrative pronoun",
-     "morph": "m.nom.sg"
+     "gloss": "and-this",
+     "grounds": "demonstrative referring to the matter at hand",
+     "morph": "n.nom.sg.nt pronoun ca+etad"
     },
     {
      "surface": "prāgeva",
-     "gloss": "before",
-     "grounds": "indeclinable adverb",
-     "morph": "(indecl.)"
+     "gloss": "already-before",
+     "grounds": "emphatic temporal adverbial compound",
+     "morph": "(indecl.) prāk+eva"
     }
    ],
-   "question": "What has already been decided before this point in the teaching?",
+   "question": "What prior determination already settles the matter under discussion?",
    "premises": [
-    "The matter is already settled",
-    "It is stated as decided",
-    "No further deliberation is needed"
+    "The matter is described as decided.",
+    "The decision applies to this very matter.",
+    "The decision was made already before."
    ],
-   "inference": "The verse affirms a prior conclusion rather than opening a new inquiry.",
-   "uncertainties": [
-    "Exact referent of 'this' is not specified in the verse"
-   ],
-   "plain_english": "This has already been decided beforehand."
+   "inference": "Therefore, the point at issue has been conclusively established beforehand.",
+   "uncertainties": [],
+   "plain_english": "And this has already been decided before."
   },
   {
    "verse": 402,
    "rows": [
     {
      "surface": "praṇavoccāraṇānte",
-     "gloss": "after-pranava-utterance",
-     "grounds": "compound locative singular",
-     "morph": "m.loc.sg"
+     "gloss": "at-end-of-om-utterance",
+     "grounds": "locative compound marking the point after uttering praṇava",
+     "morph": "m.loc.sg praṇava+uccāraṇa+anta"
     },
     {
      "surface": "viśramitavyam",
-     "gloss": "should-rest",
-     "grounds": "gerundive passive",
-     "morph": "3.sg.pass.-tavya"
+     "gloss": "one-should-rest",
+     "grounds": "gerundive expressing obligation to pause or rest",
+     "morph": "n.nom.sg.nt gerundive vi-śram"
     },
     {
      "surface": "ityarthaḥ",
-     "gloss": "thus-meaning",
-     "grounds": "compound nominative singular",
-     "morph": "m.nom.sg"
+     "gloss": "such-is-the-meaning",
+     "grounds": "formula indicating the intended sense",
+     "morph": "m.nom.sg iti+artha"
     }
    ],
-   "question": "What should one do after uttering the pranava?",
+   "question": "What obligatory pause must follow the completion of praṇava utterance?",
    "premises": [
-    "The utterance has an end",
-    "Rest follows that end",
-    "The meaning is stated directly"
+    "The context is the end of praṇava utterance.",
+    "Resting is prescribed at that point.",
+    "This is stated as the intended meaning."
    ],
-   "inference": "After pranava utterance, one should rest.",
-   "uncertainties": [
-    "Duration or manner of rest is not specified"
-   ],
-   "plain_english": "After uttering the pranava, one should rest; that is the meaning."
+   "inference": "Therefore, one must come to rest immediately after uttering the praṇava.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that one should rest at the end of the utterance of the praṇava."
   },
   {
    "verse": 403,
@@ -75,85 +71,85 @@
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive of kṛ",
-     "morph": "absol."
+     "grounds": "absolutive indicating a prior action",
+     "morph": "(indecl.) gerund kṛ"
     },
     {
      "surface": "ālayaṃ",
      "gloss": "abode",
-     "grounds": "accusative singular",
-     "morph": "m.acc.sg"
+     "grounds": "object of the act of making or establishing",
+     "morph": "m.acc.sg ālaya"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "connective particle linking actions or elements",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What is made into an abode in this instruction?",
+   "question": "What preparatory act of establishing an abode is added to the procedure?",
    "premises": [
-    "An action of making is stated",
-    "An abode is the object",
-    "The conjunction continues the thought"
+    "An action of making is indicated.",
+    "The object made is an abode.",
+    "The connective adds this act to the sequence."
    ],
-   "inference": "One makes an abode, and the instruction continues.",
+   "inference": "Therefore, establishing an abode is included as a preparatory step.",
    "uncertainties": [
-    "The exact abode and its purpose are not named here"
+    "The specific nature of the abode is not specified in this unit."
    ],
-   "plain_english": "Having made an abode, and..."
+   "plain_english": "And having made an abode."
   },
   {
    "verse": 404,
    "rows": [
     {
      "surface": "tacchaktibṛṃhitatvāt",
-     "gloss": "by-that-shakti-augmented-ness",
-     "grounds": "ablative of abstract noun",
-     "morph": "n.abl.sg"
+     "gloss": "from-being-strengthened-by-that-power",
+     "grounds": "ablative of cause formed from a compound with internal fusion",
+     "morph": "n.abl.sg tad+śakti+bṛṃhita+tva"
     },
     {
      "surface": "eva",
-     "gloss": "eva",
-     "grounds": "particle",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "śāktāḥ",
-     "gloss": "shaktas",
-     "grounds": "nominative plural",
-     "morph": "m.nom.pl"
+     "gloss": "empowered-ones",
+     "grounds": "those endowed with or belonging to śakti",
+     "morph": "m.nom.pl śākta"
     },
     {
      "surface": "tanmayāḥ",
-     "gloss": "therein-absorbed",
-     "grounds": "compound nominative plural",
-     "morph": "m.nom.pl"
+     "gloss": "absorbed-in-that",
+     "grounds": "describes complete identification with that",
+     "morph": "m.nom.pl tanmaya"
     },
     {
      "surface": "eva",
-     "gloss": "eva",
-     "grounds": "particle",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "ityarthaḥ",
-     "gloss": "thus-meaning",
-     "grounds": "compound nominative singular",
-     "morph": "m.nom.sg"
+     "gloss": "such-is-the-meaning",
+     "grounds": "formula indicating the intended sense",
+     "morph": "m.nom.sg iti+artha"
     }
    ],
-   "question": "Why are the Shaktas absorbed in that?",
+   "question": "Why are the practitioners described as empowered and wholly absorbed in that power?",
    "premises": [
-    "Augmentation by that shakti is the cause",
-    "The Shaktas are named",
-    "Absorption in that is affirmed"
+    "They are strengthened by that power.",
+    "Because of this strengthening they are called empowered.",
+    "They are also described as absorbed in that."
    ],
-   "inference": "Because of augmentation by that shakti, the Shaktas are absorbed in it.",
+   "inference": "Therefore, augmentation by that power makes them both empowered and fully identified with it.",
    "uncertainties": [
-    "The referent of 'that' depends on prior context"
+    "The referent of 'that power' depends on the preceding context."
    ],
-   "plain_english": "Because of augmentation by that shakti, the Shaktas are indeed absorbed in it; that is the meaning."
+   "plain_english": "The meaning is that, precisely because they are strengthened by that power, they are empowered and indeed absorbed in it."
   },
   {
    "verse": 405,
@@ -161,26 +157,23 @@
     {
      "surface": "māntraṃ",
      "gloss": "mantric",
-     "grounds": "adjective accusative singular",
-     "morph": "n.acc.sg"
+     "grounds": "adjective qualifying the object of knowledge",
+     "morph": "n.nom.sg māntra"
     },
     {
      "surface": "prameyam",
      "gloss": "object-of-knowledge",
-     "grounds": "accusative singular",
-     "morph": "n.acc.sg"
+     "grounds": "that which is to be known or measured",
+     "morph": "n.nom.sg prameya"
     }
    ],
-   "question": "What kind of object of knowledge is being described?",
+   "question": "What kind of knowable object is identified in the mantric domain?",
    "premises": [
-    "The object is mantric",
-    "It is an object of knowledge",
-    "The two terms form one phrase"
+    "An object of knowledge is named.",
+    "It is qualified as mantric."
    ],
-   "inference": "The object of knowledge is mantric.",
-   "uncertainties": [
-    "No further specification of the mantric object is given"
-   ],
+   "inference": "Therefore, the knowable object in question belongs to the mantric sphere.",
+   "uncertainties": [],
    "plain_english": "The object of knowledge is mantric."
   },
   {
@@ -188,40 +181,41 @@
    "rows": [
     {
      "surface": "kāryeṇānābilīkṛtatvāt",
-     "gloss": "by-action-not-defiled-ness",
-     "grounds": "ablative of abstract noun",
-     "morph": "n.abl.sg"
+     "gloss": "from-not-being-clouded-by-action",
+     "grounds": "ablative of cause; compound with internal sandhi fusion",
+     "morph": "n.abl.sg kārya+anābilīkṛta+tva"
     },
     {
      "surface": "vimalāḥ",
      "gloss": "pure",
-     "grounds": "nominative plural",
-     "morph": "m.nom.pl"
+     "grounds": "predicate describing freedom from impurity",
+     "morph": "m.nom.pl vimala"
     },
     {
      "surface": "anugrahapravaṇatvāt",
-     "gloss": "by-grace-inclination",
-     "grounds": "ablative of abstract noun",
-     "morph": "n.abl.sg"
+     "gloss": "from-inclination-toward-grace",
+     "grounds": "ablative of cause indicating a disposition to bestow grace",
+     "morph": "n.abl.sg anugraha+pravaṇa+tva"
     },
     {
      "surface": "śubhāḥ",
      "gloss": "auspicious",
-     "grounds": "nominative plural",
-     "morph": "m.nom.pl"
+     "grounds": "predicate describing beneficent nature",
+     "morph": "m.nom.pl śubha"
     }
    ],
-   "question": "Why are they pure and auspicious?",
+   "question": "What two causal qualities make these entities pure and auspicious?",
    "premises": [
-    "Action does not defile them",
-    "Grace inclines toward them",
-    "Purity and auspiciousness are the result"
+    "They are not clouded by action.",
+    "Not being clouded by action makes them pure.",
+    "They are inclined toward grace.",
+    "Inclination toward grace makes them auspicious."
    ],
-   "inference": "They are pure because action does not defile them, and auspicious because grace inclines toward them.",
+   "inference": "Therefore, freedom from action's clouding and inclination toward grace account for their purity and auspiciousness.",
    "uncertainties": [
-    "The subjects are not explicitly named in this verse"
+    "The entities described as pure and auspicious are not explicitly named in this unit."
    ],
-   "plain_english": "They are pure because action does not defile them, and auspicious because grace inclines toward them."
+   "plain_english": "Because they are not clouded by action they are pure, and because they are inclined toward grace they are auspicious."
   },
   {
    "verse": 407,
@@ -229,169 +223,165 @@
     {
      "surface": "nirodhikā",
      "gloss": "absorbing",
-     "grounds": "compound adjective nominative plural",
-     "morph": "f.nom.pl"
+     "grounds": "adjective describing a restraining or absorbing function",
+     "morph": "f.nom.sg nirodhikā"
     },
     {
      "surface": "kalāḥ",
-     "gloss": "kalas",
-     "grounds": "nominative plural",
-     "morph": "f.nom.pl"
+     "gloss": "phases",
+     "grounds": "subject term referring to kalās",
+     "morph": "f.nom.pl kalā"
     },
     {
      "surface": "hyetāḥ",
      "gloss": "indeed-these",
-     "grounds": "demonstrative with particle",
-     "morph": "f.nom.pl"
+     "grounds": "emphatic demonstrative identifying the kalās",
+     "morph": "f.nom.pl hi+etāḥ"
     },
     {
      "surface": "sarvadevanirodhikāḥ",
-     "gloss": "all-deva-absorbing",
-     "grounds": "compound adjective nominative plural",
-     "morph": "f.nom.pl"
+     "gloss": "absorbing-all-gods",
+     "grounds": "compound predicate extending absorption to all deities",
+     "morph": "f.nom.pl sarva+deva+nirodhikā"
     }
    ],
-   "question": "What do these kalas absorb?",
+   "question": "What universal absorptive power is attributed to these kalās?",
    "premises": [
-    "These kalas are absorbing",
-    "They absorb all devas",
-    "The statement is emphatic"
+    "These kalās are described as absorbing.",
+    "Their absorption extends to all gods."
    ],
-   "inference": "These kalas absorb all devas.",
-   "uncertainties": [
-    "The exact list of kalas is not given here"
-   ],
-   "plain_english": "These kalas are indeed absorbing, and they absorb all devas."
+   "inference": "Therefore, these kalās possess the power to absorb all deities.",
+   "uncertainties": [],
+   "plain_english": "Indeed, these kalās are absorbing, for they absorb all the gods."
   },
   {
    "verse": 408,
    "rows": [
     {
      "surface": "eṣātmakatvāt",
-     "gloss": "by-this-self-nature",
-     "grounds": "ablative of abstract noun",
-     "morph": "n.abl.sg"
+     "gloss": "from-being-of-this-nature",
+     "grounds": "ablative of cause indicating essential identity",
+     "morph": "n.abl.sg eṣa+ātmaka+tva"
     },
     {
      "surface": "kutaḥ",
      "gloss": "whence",
-     "grounds": "interrogative adverb",
+     "grounds": "interrogative particle introducing a rhetorical question",
      "morph": "(indecl.)"
     },
     {
      "surface": "atyantanairmalyam",
      "gloss": "absolute-purity",
-     "grounds": "nominative singular",
-     "morph": "n.nom.sg"
+     "grounds": "state of complete freedom from impurity",
+     "morph": "n.nom.sg atyanta+nairmalya"
     }
    ],
-   "question": "Whence comes absolute purity from this self-nature?",
+   "question": "How does being of this essential nature account for absolute purity?",
    "premises": [
-    "This self-nature is the cause",
-    "The question asks for origin",
-    "Absolute purity is the result"
+    "Their nature is identified as being of this kind.",
+    "Absolute purity is asserted in relation to that nature.",
+    "The rhetorical question implies a necessary connection."
    ],
-   "inference": "Absolute purity arises from this self-nature.",
+   "inference": "Therefore, absolute purity follows from their being of this essential nature.",
    "uncertainties": [
-    "The verse poses the question rather than answering it fully"
+    "The specific content of 'this nature' is supplied by context."
    ],
-   "plain_english": "From this self-nature, whence absolute purity?"
+   "plain_english": "Since they are of this nature, whence could there be anything but absolute purity?"
   },
   {
    "verse": 409,
    "rows": [
     {
      "surface": "śaktyādisamanāntānām",
-     "gloss": "shakti-etc-ending",
-     "grounds": "genitive plural compound",
-     "morph": "m.gen.pl"
+     "gloss": "of-those-ending-with-samanā-from-śakti",
+     "grounds": "genitive plural compound denoting a range from śakti to samanā",
+     "morph": "m.gen.pl śakti+ādi+samanā+anta"
     },
     {
      "surface": "iti",
-     "gloss": "iti",
-     "grounds": "quotative particle",
+     "gloss": "thus",
+     "grounds": "quotative or delimiting particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What range is indicated by shakti and so forth ending?",
+   "question": "Which range of principles is delimited from śakti up to samanā?",
    "premises": [
-    "A range from shakti onward is named",
-    "The ending is included",
-    "The quotative marks the cited phrase"
+    "A sequence beginning with śakti is indicated.",
+    "The sequence ends with samanā.",
+    "The particle marks this as a specified range."
    ],
-   "inference": "The phrase cites a range beginning with shakti and ending at a specified term.",
+   "inference": "Therefore, the group referred to spans from śakti through samanā.",
    "uncertainties": [
-    "The final term of the range is not visible in this excerpt"
+    "The grammatical role of this genitive phrase depends on the surrounding context."
    ],
-   "plain_english": "Of those beginning with shakti and ending... thus."
+   "plain_english": "Thus, of those beginning with śakti and ending with samanā."
   },
   {
    "verse": 410,
    "rows": [
     {
      "surface": "svaprakāśasvarūpaḥ",
-     "gloss": "self-luminous-nature",
-     "grounds": "compound nominative singular",
-     "morph": "m.nom.sg"
+     "gloss": "of-self-luminous-nature",
+     "grounds": "compound describing an essence that shines by itself",
+     "morph": "m.nom.sg svaprakāśa+svarūpa"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "connective particle adding a further attribute",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What additional nature is affirmed here?",
+   "question": "What additional attribute of self-luminous nature is affirmed here?",
    "premises": [
-    "A self-luminous nature is stated",
-    "The conjunction adds it",
-    "The nature is intrinsic"
+    "A nature characterized by self-luminosity is stated.",
+    "The connective adds this attribute to prior descriptions."
    ],
-   "inference": "The self-luminous nature is also affirmed.",
+   "inference": "Therefore, the subject is further characterized as self-luminous in nature.",
    "uncertainties": [
-    "The subject to which it belongs is not named in this verse"
+    "The subject bearing this nature is not explicitly named in this unit."
    ],
-   "plain_english": "And [it is] of self-luminous nature."
+   "plain_english": "And of self-luminous nature."
   },
   {
    "verse": 411,
    "rows": [
     {
      "surface": "na+vindati",
-     "gloss": "not-finds",
-     "grounds": "negative verb, fused sandhi form",
-     "morph": "3.sg.act.-pres + root vid"
+     "gloss": "does-not-find",
+     "grounds": "negated verb expressing failure to attain or perceive",
+     "morph": "3.sg.pres.act na+vid"
     },
     {
      "surface": "yadā",
      "gloss": "when",
-     "grounds": "conjunction",
+     "grounds": "temporal conjunction introducing a condition",
      "morph": "(indecl.)"
     },
     {
      "surface": "mantrī",
-     "gloss": "mantrin",
-     "grounds": "nominative singular",
-     "morph": "m.nom.sg"
+     "gloss": "mantra-practitioner",
+     "grounds": "agent engaged in mantra practice",
+     "morph": "m.nom.sg mantrin"
     },
     {
      "surface": "sṛṣṭisaṃhāravartmanī",
-     "gloss": "creation-destruction-paths",
-     "grounds": "dual accusative compound",
-     "morph": "n.acc.du"
+     "gloss": "two-paths-of-creation-and-dissolution",
+     "grounds": "dual compound object denoting the paths of emanation and reabsorption",
+     "morph": "n.acc.du sṛṣṭi+saṃhāra+vartman"
     }
    ],
-   "question": "When does the mantrin not find the creation and destruction paths?",
+   "question": "Under what condition does the mantra practitioner fail to find the paths of creation and dissolution?",
    "premises": [
-    "The mantrin is the subject",
-    "Creation and destruction paths are the object",
-    "The condition is stated by 'when'"
+    "The agent is a mantra practitioner.",
+    "The objects sought are the paths of creation and dissolution.",
+    "The verb states that these are not found at a certain time."
    ],
-   "inference": "The mantrin does not find the creation and destruction paths under the stated condition.",
+   "inference": "Therefore, there is a condition in which the mantra practitioner does not find the paths of creation and dissolution.",
    "uncertainties": [
-    "The exact condition implied by 'when' is not fully specified here"
+    "The specific condition indicated by 'when' is completed by the surrounding context."
    ],
-   "plain_english": "When, the mantrin does not find the creation and destruction paths."
+   "plain_english": "When the mantra practitioner does not find the paths of creation and dissolution."
   }
  ]
 }

@@ -1,15 +1,13 @@
 {
  "song": "net-p17",
  "verse": 401,
- "question": "What claim has already been conclusively established earlier in the teaching?",
+ "question": "What prior determination already settles the matter under discussion?",
  "premises": [
-  "A matter is stated as decided",
-  "The decision refers to this point",
-  "The settlement occurred previously"
+  "The matter is described as decided.",
+  "The decision applies to this very matter.",
+  "The decision was made already before."
  ],
- "inference": "The point under discussion has been definitively resolved earlier.",
- "uncertainties": [
-  "The specific content of the decided matter is not stated in this unit"
- ],
+ "inference": "Therefore, the point at issue has been conclusively established beforehand.",
+ "uncertainties": [],
  "plain_english": "And this has already been decided before."
 }

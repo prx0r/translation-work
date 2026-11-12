@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 411,
- "question": "Under what condition does the mantra practitioner fail to perceive the paths of creation and dissolution?",
+ "question": "Under what condition does the mantra practitioner fail to find the paths of creation and dissolution?",
  "premises": [
-  "The practitioner is engaged in practice",
-  "The paths of creation and dissolution are the objects",
-  "Non-finding occurs at a certain time"
+  "The agent is a mantra practitioner.",
+  "The objects sought are the paths of creation and dissolution.",
+  "The verb states that these are not found at a certain time."
  ],
- "inference": "When the mantra practitioner does not find the paths of creation and dissolution, a specific condition holds.",
- "uncertainties": [],
- "plain_english": "When the mantra practitioner does not perceive the paths of creation and dissolution."
+ "inference": "Therefore, there is a condition in which the mantra practitioner does not find the paths of creation and dissolution.",
+ "uncertainties": [
+  "The specific condition indicated by 'when' is completed by the surrounding context."
+ ],
+ "plain_english": "When the mantra practitioner does not find the paths of creation and dissolution."
 }
