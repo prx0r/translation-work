@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "etat",
-   "morph": "pron.n.nom.sg",
+   "morph": "n.nom.sg (demonstrative)",
    "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "te",
    "morph": "pron.dat.sg",
-   "grounds": "second person pronoun dative"
+   "grounds": "dative of recipient"
   },
   {
    "lemma": "jīva+abhyāsaṃ",
-   "morph": "compound m.acc.sg",
-   "grounds": "compound jīva+abhyāsa"
+   "morph": "m.acc.sg (compound)",
+   "grounds": "compound object"
   },
   {
    "lemma": "kathitaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "past participle of kath, to tell"
+   "morph": "n.nom.sg (past-passive-participle)",
+   "grounds": "past passive participle"
   },
   {
    "lemma": "te",
    "morph": "pron.dat.sg",
-   "grounds": "second person pronoun dative"
+   "grounds": "dative of recipient repeated"
   },
   {
    "lemma": "ca",
@@ -35,7 +35,7 @@
   {
    "lemma": "bhairavi",
    "morph": "f.voc.sg",
-   "grounds": "vocative of bhairavī"
+   "grounds": "vocative address"
   }
  ]
 }
