@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 116,
- "question": "What kind of qualified recipient is fit to receive this teaching?",
+ "question": "What kind of recipient is qualified to receive this teaching?",
  "premises": [
-  "The teaching may be given",
-  "The recipient is endowed with all states or qualities",
-  "The recipient has a firmly resolved mind"
+  "The teaching is to be given.",
+  "The recipient is endowed with all states.",
+  "The recipient has a resolved mind."
  ],
- "inference": "This teaching should be given to one who is fully qualified and firmly resolved.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is endowed with all qualities and has a firmly resolved mind."
+ "inference": "Only a person endowed with all states and firm resolve is fit to receive the teaching.",
+ "uncertainties": [
+  "The phrase sarva+bhāva+upapannasya is doctrinally broad and context-sensitive."
+ ],
+ "plain_english": "It should be given to one who is endowed with all states and whose mind is firmly resolved."
 }

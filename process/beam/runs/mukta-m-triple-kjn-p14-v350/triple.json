@@ -7,40 +7,39 @@
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "numeral indicating the eightfold set",
-     "morph": "num.nom.pl"
+     "grounds": "cardinal number referring to a count",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction adding to the preceding list",
+     "grounds": "connective linking elements",
      "morph": "(indecl.)"
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "attainment-of-powers-root-kaula",
-     "grounds": "fused form joining attainment of powers with the root Kaula teaching; internal sandhi noted but token kept whole",
-     "morph": "compound.nom.sg.n"
+     "gloss": "siddhi-attainment-root-kaula",
+     "grounds": "fused form as given; internal sandhi unbroken in this token",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "varānane",
-     "gloss": "O-fair-faced-one",
-     "grounds": "vocative address to the goddess",
+     "gloss": "fair-faced-one",
+     "grounds": "vocative address form as given",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What elements constitute the root Kaula teaching addressed to the fair-faced goddess?",
+   "question": "What specific set of eight elements constitutes the root-kaula through which attainment of siddhi is claimed in this address?",
    "premises": [
-    "The eight are included as a constituent element.",
-    "The attainment of powers is included as a constituent element.",
-    "These elements are identified as the root Kaula."
+    "A count of eight is being specified here.",
+    "An additive link connects that count to a stated attainment.",
+    "The root-kaula of siddhi-attainment is named as the object addressed to the fair-faced one."
    ],
-   "inference": "The eight and the attainment of powers together constitute the root Kaula.",
+   "inference": "Eight items form the root-kaula by which siddhi is attained, and this is addressed to the fair-faced one.",
    "uncertainties": [
-    "The exact referent of the eight is not specified within this verse alone.",
-    "The internal syntactic relation within the fused token siddhisaṃprāptirmūlakaulaṃ allows more than one precise parsing."
+    "The internal composition of siddhisaṃprāptirmūlakaulaṃ remains unclear from this token alone."
    ],
-   "plain_english": "And the eight, along with the attainment of powers, are the root Kaula, O fair-faced one."
+   "plain_english": "O fair-faced one, there are eight and the root-kaula of siddhi-attainment."
   }
  ]
 }
