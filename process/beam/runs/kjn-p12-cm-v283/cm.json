@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "yoginī",
-   "morph": "compound",
+   "morph": "compound: yoginī+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "gaṇa",
-   "morph": "compound",
-   "grounds": "middle member of compound"
+   "morph": "compound: gaṇa+middle",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "madhyasthaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular adjective"
+   "morph": "compound: madhyastha+final, m.acc.sg",
+   "grounds": "final member of compound"
   },
   {
    "lemma": "sa",
@@ -25,17 +25,17 @@
   {
    "lemma": "paśuḥ",
    "morph": "m.nom.sg",
-   "grounds": "nominative singular noun"
+   "grounds": "ritual designation"
   },
   {
    "lemma": "kīrtitaṃ",
-   "morph": "n.nom.sg.ppp √kīrt",
-   "grounds": "past passive participle"
+   "morph": "n.nom.sg.past-passive-participle √kīrt",
+   "grounds": "past participle"
   },
   {
    "lemma": "kule",
    "morph": "n.loc.sg",
-   "grounds": "locative singular noun"
+   "grounds": "doctrinal context"
   }
  ]
 }

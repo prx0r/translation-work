@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[devouring](ghasmarā) [all-eating](sarvabhakṣā) [and](ca) [faith](viśvāsā) [various-born](vividhodbhavā)
+[devouring](ghasmarā) [all+eating](sarva+bhakṣā) [and](ca) [trustworthy](viśvāsā) [of-various+origins](vividha+udbhavā)
 
 ## mukta-m0-p55-v1352
-[inconceivable-glory](acintyavaibhavā) [red](raktā) [tenth](daśamī) [proclaimed](parikīrtitā)
+[of-inconceivable+majesty](acintya+vaibhavā) [red](raktā) [tenth](daśamī) [proclaimed](parikīrtitā)
 
 ## mukta-m0-p55-v1353
-[where](yatra) [not-spoken](noktā) [deity](devatā) [but](tu) [offering-rite](balikarmaṇi) [there](tatra) [her](tām)
+[where](yatra) [not+mentioned](na+uktā) [deity](devatā) [indeed](tu) [in-offering+rite](bali+karmaṇi) [there](tatra) [her](tām)
 
 ## mukta-m0-p55-v1354
-[in-circles](vṛttayor) [new-womb](navayoniṃ) [but](tu) [making](kṛtvā) [that-outside-lotus](tadbahirambujam)
+[of-two-circles](vṛttayoḥ) [nine+triangle](nava+yoniṃ) [indeed](tu) [having-made](kṛtvā) [outside+of-that](tat+bahiḥ) [lotus](ambujam)
 
 ## mukta-m0-p55-v1355
-[that-outside](tadbahiś) [square](caturasre) [two](dve) [gate-pair-endowed](dvāradvayasamanvite)
+[outside+of-that](tat+bahiḥ) [two+squares](caturasre) [two](dve) [endowed-with-two+doors](dvāra+dvaya+samanvite)
 
 ## mukta-m0-p55-v1356
-[there](tatra) [insect](kīṭaṃ) [scorpion](vṛścikam) [thus-meaning](ityarthaḥ) [corner-directions](koṇadikṣu) [northwest-etc](vāyavyādiṣu)
+[there](tatra) [insect](kīṭaṃ) [scorpion](vṛścikam) [thus+meaning](iti+arthaḥ) [||14||15||16||17||](|| 14 || 15 || 16 || 17 ||) [in-corner+directions](koṇa+dikṣu) [in-northwest+etc.](vāyavya+ādiṣu) [||](||)
 
 ## mukta-m0-p55-v1357
-[māyā](māyā) [heart-line](hṛllekhā) [seven-syllabled](saptākṣaryā) [kurukullā-etc-vidyā](kurukullādyavidyayā)
+[18||](18 ||) [māyā](māyā) [hṛllekhā](hṛllekhā) [||19||20||21||](|| 19 || 20 || 21 ||) [with-seven+syllabled](sapta+akṣaryā) [with-kurukullā+etc.+mantra](kurukullā+ādi+vidyayā) [||](||)
 
 ## mukta-m0-p55-v1358
-[unspoken](anukteṣu) [limb-root-by](aṅgamūlābhyām) [arghya](arghyaṃ) [accomplish](saṃsādhayet) [thus](tathā)
+[in-unmentioned-cases](anukteṣu) [with-limb+and-root-mantras](aṅga+mūlābhyām) [arghya](arghyaṃ) [one-should-accomplish](saṃsādhayet) [likewise](tathā)
 
 ## mukta-m0-p55-v1359
-[count-unspoken](saṅkhyānuktau) [thousand](sahasraṃ) [may-be](syāt) [hundred](śataṃ) [or](vā) [tantra-enjoined](tantracoditam)
+[when-number+not-stated](saṅkhyā+anuktau) [thousand](sahasraṃ) [should-be](syāt) [hundred](śataṃ) [or](vā) [prescribed-by-tantra](tantra+coditam)
 
 ## mukta-m0-p55-v1360
-[of-vidyā](vidyāyāḥ) [sādhana](sādhanaṃ) [thus](tadvat) [in-this-tantra](tantre'smin) [supreme-lady](parameśvari)
+[of-mantra](vidyāyāḥ) [accomplishment](sādhanaṃ) [likewise](tadvat) [in-tantra](tantre) [this](asmin) [O-supreme-goddess](parama+īśvari)
 
 ## mukta-m0-p55-v1361
-[desire-homa-rite](kāmyahomavidhiṃ) [I-will-speak](vakṣye) [hear](śṛṇu) [wish-giving](vāñchitadāyakam)
+[desire+oblation+procedure](kāmya+homa+vidhiṃ) [I-shall-tell](vakṣye) [listen](śṛṇu) [wish+granting](vāñchita+dāyakam)
 
 ## mukta-m0-p55-v1362
-[same-color-calf](samānavarṇavatsāyā) [red](raktāyā) [protect?](gopaya) [thus](stathā)
+[of-same+color+calf](samāna+varṇa+vatsāyā) [of-red-cow](raktāyā) [of-cow](gopaya) [(?)](?) [likewise](stathā)
 
 ## mukta-m0-p55-v1363
-[with-ghee](ghṛtena) [sprinkled](siktaṃ) [wax](sikthaṃ) [but](tu) [making](kṛtvā) [that-with-sugar](tatsasitaṃ) [in-hand](kare)
+[with-ghee](ghṛtena) [sprinkled](siktaṃ) [wax](sikthaṃ) [indeed](tu) [having-made](kṛtvā) [that+with-sugar](tat+sa+sitaṃ) [in-hand](kare)
 
 ## mukta-m0-p55-v1364
-[thus](evaṃ) [homa](homo) [great-lakshmi](mahālakṣmīm) [brings](āvahet) [pratipad-done](pratipatkṛtaḥ)
+[thus](evaṃ) [oblation](homo) [great+fortune](mahā+lakṣmīm) [may-bring](āvahet) [performed-on-first-lunar-day](pratipat+kṛtaḥ)
 
 ## mukta-m0-p55-v1365
-[on-fifth](pañcamyāṃ) [but](tu) [especially](viśeṣeṇa) [previously-drum](prāgv`ddholaṃ) [perform](samācaret)
+[on-fifth-lunar-day](pañcamyāṃ) [indeed](tu) [especially](viśeṣeṇa) [as-before](prāk+vat) [swinging-rite](dholam) [one-should-perform](samācaret)
 
 ## mukta-m0-p55-v1366
-[by-prior-later-stated-acceptance](pūrvāparaproktāṅgīkāreṇa)
+[by-acceptance+of-previous+and-later+stated](pūrva+apara+prokta+aṅgīkāreṇa)
 
 ## mukta-m0-p55-v1367
-[with-sugar](śarkarāsahitam)
+[together-with-sugar](śarkarā+sahitam) [||27||28||29](|| 27 || 28 || 29)
 
 ## mukta-m0-p55-v1368
-[with-rice-ghee](annājyābhyāṃ) [but](tu) [duly](niyataṃ) [having-offered](hutvā) [food-abundant](annādyaḥ) [becomes](bhavet) [man](naraḥ)
+[with-food+and-ghee](anna+ājyābhyāṃ) [indeed](tu) [regularly](niyataṃ) [having-offered](hutvā) [possessing-food+etc.](anna+ādyaḥ) [becomes](bhavet) [man](naraḥ)
 
 ## mukta-m0-p55-v1369
-[from-ghee-homa](ghṛtahomāt) [obtains](avāpnoti) [likewise](tathaiva) [sesame-rice](tilataṇḍulaiḥ)
+[from-ghee+oblation](ghṛta+homāt) [obtains](avāpnoti) [likewise](tathaiva) [with-sesame+and-rice-grains](tila+taṇḍulaiḥ)
 
 ## mukta-m0-p55-v1370
-[from-pratipad](pratipattithim) [beginning](ārabhya) [to-fifteenth](pañcadaśyantam) [ambikā](ambike)
+[beginning-from-first-lunar-day](pratipat+tithim+ārabhya) [until-fifteenth](pañcadaśī+antam) [O-mother](ambike)
 
 ## mukta-m0-p55-v1371
-[since](yataḥ) [by-that](tena) [on-own-tithi](svasvatithau) [those](tāḥ) [those](tāḥ) [worshipable](pūjyāḥ) [by-offering-etc](hutādibhiḥ)
+[because](yatas) [therefore](tena) [on-each+own+lunar-day](sva+sva+tithau) [those](tāstā) [to-be-worshipped](pūjyā) [with-oblations+etc.](huta+ādibhiḥ)
 
 ## mukta-m0-p55-v1372
-[by-that](tena) [endowed-with-life-wealth-health-knowledge-fame](āyuḥśrīdhanārogyavidyākīrtisamanvitaḥ)
+[by-that](tena) [endowed-with-life+prosperity+wealth+health+knowledge+fame](āyuḥ+śrī+dhana+ārogya+vidyā+kīrti+samanvitaḥ)
 
 ## mukta-m0-p55-v1373
-[on-which-tithi](yattithau) [which](yā) [proclaimed](samākhyātā) [daughter](sutā) [equally](samam) [obtains](avāpnuyāt)
+[on-which+lunar-day](yat+tithau) [who](yā) [declared](samākhyātā) [daughter](sutā) [equally](samam) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p55-v1374
-[having-obtained](samprāpya) [japa-homa-worship-yoga-tarpaṇa-sprinkling](japahomārcāyogatarpaṇasekataḥ)
+[having-attained](samprāpya) [by-recitation+oblation+worship+union+libation+sprinkling](japa+homa+arcā+yoga+tarpaṇa+sekataḥ)
 
 ## mukta-m0-p55-v1375
-[objects](vastūni) [obtains](avāpnoti) [thus-connection](ityanvayaḥ) [vowed](vratī) [becomes](bhavet) [with-own-resolve](svasaṅkalpasahitaḥ)
+[objects](vastūni) [obtains+thus+connection](avāpnoti+iti+anvayaḥ) [||33||](|| 33 ||) [observing-vow](vratī) [should-be](bhavet) [endowed-with-own+resolve](sva+saṅkalpa+sahitaḥ)

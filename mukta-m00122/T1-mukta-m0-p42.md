@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[worship-recitation-etc-instrumental](arcājapādinā)
+[worship](arcā) [muttering](japa) [and-so-forth](ādinā)
 
 ## mukta-m0-p42-v1027
-[of-kameshvari-etc-fifteen](kāmeśvaryādinityānāṃ) [fifteen](pañcadaśānām) [thus-remainder](iti) [remainder](śeṣaḥ)
+[of-Kāmeśvarī](kāmeśvaryā) [and-so-forth](ādi) [of-the-Nityās](nityānāṃ) [of-the-fifteen](pañcadaśānām) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p42-v1028
-[spoken-numbers-by-syllables](proktasaṅkhyairakṣaraiḥ)
+[with-the-stated](prokta) [numbers](saṅkhyaiḥ) [with-syllables](akṣaraiḥ)
 
 ## mukta-m0-p42-v1029
-[region-movement](pradeśagatyā) [draw](vilikhet) [as-many](yāvat) [number](saṅkhyaṃ) [as-interval](yathāntaram)
+[by-spatial](pradeśa) [movement](gatyā) [one-should-draw](vilikhet) [up-to-that-number](yāvatsaṅkhyaṃ) [as](yathā) [interval](antaram)
 
 ## mukta-m0-p42-v1030
-[remainder](avaśiṣṭaṃ) [becomes](bhavet) [in-them](teṣu) [direction-placed](dikstheṣu) [unified](ekīkṛteṣu) [and](ca)
+[the-remainder](avaśiṣṭaṃ) [should-be](bhavet) [in-those](teṣu) [situated-in-the-directions](dikstheṣu) [when-united](ekīkṛteṣu) [and](ca)
 
 ## mukta-m0-p42-v1031
-[fifty-less-one-squares](ekonapañcāśatkoṣṭheṣu) [unified](ekībhūteṣu) [there-indeed](tatra) [vai](vai)
+[in-the-forty-nine](ekonapañcāśat) [cells](koṣṭheṣu) [when-united](ekībhūte(na)ṣu) [there](tatra) [indeed](vai)
 
 ## mukta-m0-p42-v1032
-[having-drawn](likhitvā) [pericarp-middle](karṇikāmadhye) [yoni](yoniṃ) [maya-womb](māyodarāṃ) [draw](likhet)
+[having-written](likhitvā) [in-the-middle](madhye) [of-the-pericarp](karṇikā) [the-yoni](yoniṃ) [womb-of-Māyā](māyodarāṃ) [one-should-draw](likhet)
 
 ## mukta-m0-p42-v1033
-[bhaga-garland](bhagamālāṃ) [middle-power](madhyaśaktyā) [invoke](āvāhya) [worship-outside](abhyarcayedbahiḥ)
+[Bhagamālā](bhagamālāṃ) [in-the-central](madhya) [śakti](śaktyām) [having-invoked](āvāhya) [one-should-worship](abhyarcayet) [outside](bahiḥ)
 
 ## mukta-m0-p42-v1034
-[as-order](yathākramam) [this-wheel](idaṃ) [cakram](cakram) [of-them](āsāṃ) [common](sādhāraṇaṃ) [becomes](bhavet)
+[in-due-order](yathākramam) [this](idaṃ) [diagram](cakram) [of-them](āsāṃ) [common](sādhāraṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p42-v1035
-[as-order](yathākrameṇa) [picture-ended](citrāntāḥ) [worship](pūjayet) [spoken-forms](uktavigrahāḥ)
+[in-due-order](yathākrameṇa) [ending-with-Citrā](citrāntāḥ) [one-should-worship](pūjayet) [with-the-stated](ukta) [forms](vigrahāḥ)
 
 ## mukta-m0-p42-v1036
-[four-groups-of-four](catuṣkacatuṣṭayeṣu) [unified](ekīkṛteṣu) [middle-line-triad-erasure-remainder](madhyarekhātrayamārjaneti) [remainder](śeṣaḥ)
+[in-the-four](catuṣka) [sets-of-four](catuṣṭayeṣu) [when-united](ekīkṛteṣu) [the-erasing](mārjana) [of-the-three](traya) [middle-lines](madhya+rekhā) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p42-v1037
-[of-gates](dvārāṇāṃ) [sides](pārśvayoḥ) [corners](koṇeṣu) [worship](arcayet) [twelve](dvādaśa) [in-order](kramāt)
+[of-the-gates](dvārāṇāṃ) [on-the-sides](pārśvayoḥ) [in-the-corners](koṇeṣu) [one-should-worship](arcayet) [the-twelve](dvādaśa) [in-order](kramāt)
 
 ## mukta-m0-p42-v1038
-[kumari](komārīṃ) [vaishnavi](vaiṣṇavīṃ) [saumya](saumye) [varahi](vārāhī) [aindri](aindrīṃ) [ca](ca) [eastern](pūrvage)
+[Kaumārī](komārīṃ) [Vaiṣṇavī](vaiṣṇavīṃ) [in-the-north](saumye) [Vārāhī](vārāhī) [and-Aindrī](aindrīṃ) [and](ca) [in-the-east](pūrvage)
 
 ## mukta-m0-p42-v1039
-[place-time](deśakālau) [thus-form](tathākāra) [sound](śabdau) [spoken-order-indeed](proktakrameṇa) [vai](vai)
+[place](deśa) [and-time](kālau) [likewise](tathā) [form](ākāra) [and-sound](śabdau) [in-the-stated](prokta) [order](krameṇa) [indeed](vai)
 
 ## mukta-m0-p42-v1040
-[offerings](upacāraiḥ) [liquors](āsavaiḥ) [ca](ca) [meats](māṃsaiḥ) [fishes](matsyaiḥ) [well-prepared](susaṃskṛtaiḥ)
+[with-offerings](upacāraiḥ) [with-liquors](āsavaiḥ) [and](ca) [with-meats](māṃsaiḥ) [with-fishes](matsyaiḥ) [well-prepared](susaṃskṛtaiḥ)
 
 ## mukta-m0-p42-v1041
-[fourteen-eternal-ones](caturdaśanityānām) [pūrvage](pūrvage) [gate](dvāre) [iti](iti) [remainder](śeṣaḥ)
+[of-the-fourteen](caturdaśa) [Nityās](nityānām) [in-the-eastern](pūrvage) [gate](dvāre) [thus](iti) [ellipsis](śeṣaḥ)
 
 ## mukta-m0-p42-v1042
-[plantain-jackfruit-etc](kadalīpanasādyaiḥ) [ca](ca) [fruits](phalaiḥ) [honey](madhubhiḥ) [eva](eva) [ca](ca)
+[with-plantain](kadalī) [jackfruit](panasa) [and-so-forth](ādyaiḥ) [and](ca) [with-fruits](phalaiḥ) [with-honey](madhubhiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p42-v1043
-[one-night](ekarātraṃ) [three-night](trirātraṃ) [or](vā) [five-night](pañcarātraṃ) [tu](tu) [seven](sapta) [or](vā)
+[one-night](eka+rātraṃ) [three-nights](tri+rātraṃ) [or](vā) [five-nights](pañca+rātraṃ) [indeed](tu) [seven](sapta) [or](vā)
 
 ## mukta-m0-p42-v1044
-[year](varṣaṃ) [or](vā) [until-phalguna](phālgunāntaṃ) [vā](vā) [becomes](syāt) [all-suffering-destruction](samastārtināśanam)
+[a-year](varṣaṃ) [or](vā) [until-the-end-of-Phālguna](phālguna+antaṃ) [or](vā) [it-should-be](syāt) [of-all](samasta) [affliction](ārti) [destruction](nāśanam)
 
 ## mukta-m0-p42-v1045
-[of-deities](devatānām) [in-arising](athotpāte) [threefold](trividhe) [tu](tu) [in-abhicara](abhicārake)
+[of-the-deities](devatānām) [then](atha) [in-calamity](utpāte) [in-the-threefold](trividhe) [indeed](tu) [in-sorcery](abhicārake)
 
 ## mukta-m0-p42-v1046
-[in-hardships](kṛcchreṣu) [others](anyeṣu) [terrible](ghoreṣu) [worship-this](pūjaiṣā) [all-desires-giving](sarvakāmadā)
+[in-difficulties](kṛcchreṣu) [in-other](anyeṣu) [in-terrible](ghoreṣu) [this-worship](pūjā) [this](eṣā) [granting-all-desires](sarva+kāmadā)
 
 ## mukta-m0-p42-v1047
-[having-done](kṛtvā) [this-spoken-form](etatproktarūpaṃ) [ca](ca) [spoken-materials](proktadravyaiḥ) [thus](tathā) [worship](arcayet)
+[having-performed](kṛtvā) [this](etat) [in-the-stated](prokta) [form](rūpaṃ) [and](ca) [with-the-stated](prokta) [substances](dravyaiḥ) [thus](tathā) [one-should-worship](arcayet)
 
 ## mukta-m0-p42-v1048
-[that-previous-eternal-end](tatpūrvanityāntaṃ) [thus](tathā) [worship](arcayet) [iti](iti)
+[ending-with-that](tat) [preceding](pūrva) [Nityā](nityā) [thus](tathā) [one-should-worship](arcayet) [thus](iti)
 
 ## mukta-m0-p42-v1049
-[jasmine-mallika-malati-jati-shatapatra-utpala-etc](mallikāmālatījātīśatapatrotpalādibhiḥ)
+[with-jasmine](mallikā) [mālatī](mālatī) [jātī](jātī) [lotus](śatapatra) [water-lily](utpala) [and-so-forth](ādibhiḥ)
 
 ## mukta-m0-p42-v1050
-[this-vidya-devotion-form](etadvidyābhaktirūpāḥ) [with-iti](tiyutān) [others](anyāṃśca) [worship](pūjayet)
+[endowed-with](yutān) [devotion](bhakti) [in-the-form-of](rūpāḥ) [to-this](etat) [vidyā](vidyā) [and-others](anyān) [not-different](ananyān) [and](ca) [one-should-worship](pūjayet)

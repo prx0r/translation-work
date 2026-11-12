@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound",
+   "morph": "compound: padma+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "patre",
-   "morph": "n.loc.sg",
-   "grounds": "locative singular noun"
+   "morph": "compound: patra+second, n.loc.sg",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "relative adverb introducing comparison"
+   "grounds": "comparative particle"
   },
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "locative singular noun"
+   "grounds": "object of comparison"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "correlative adverb"
+   "grounds": "correlative particle"
   },
   {
    "lemma": "ca",
@@ -35,17 +35,17 @@
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "manner particle"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation particle"
+   "grounds": "negation"
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.pres.pass √lip",
-   "grounds": "present passive verb"
+   "morph": "3.sg.middle-present √lip",
+   "grounds": "describes non-attachment"
   }
  ]
 }

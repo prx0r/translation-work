@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound",
+   "morph": "compound: brahma+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "hatyā",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: hatyā+middle",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular adjective"
+   "morph": "compound: ādi+final, n.nom.sg",
+   "grounds": "final member indicating series"
   },
   {
    "lemma": "pāpam",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular noun"
+   "morph": "n.nom.sg",
+   "grounds": "negative karmic result"
   },
   {
    "lemma": "aśva",
-   "morph": "compound",
+   "morph": "compound: aśva+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "medha",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: medha+middle",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular adjective"
+   "morph": "compound: ādi+final, n.nom.sg",
+   "grounds": "final member indicating series"
   },
   {
    "lemma": "phalam",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular noun"
+   "morph": "n.nom.sg",
+   "grounds": "positive karmic result"
   }
  ]
 }

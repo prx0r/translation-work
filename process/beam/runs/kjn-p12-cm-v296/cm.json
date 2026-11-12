@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "laulya",
-   "morph": "compound",
+   "morph": "compound: laulya+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "arthī",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular noun"
+   "morph": "compound: arthin+second, m.nom.sg",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "capalā",
    "morph": "f.nom.sg",
-   "grounds": "nominative singular adjective"
+   "grounds": "describes the person"
   },
   {
    "lemma": "nityaṃ",
    "morph": "(indecl.)",
-   "grounds": "adverb"
+   "grounds": "temporal adverb"
   },
   {
    "lemma": "kula",
-   "morph": "compound",
+   "morph": "compound: kula+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "śāstra",
-   "morph": "compound",
-   "grounds": "middle member of compound"
+   "morph": "compound: śāstra+middle",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "viḍambakam",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular noun"
+   "morph": "compound: viḍambaka+final, n.nom.sg",
+   "grounds": "final member of compound"
   }
  ]
 }

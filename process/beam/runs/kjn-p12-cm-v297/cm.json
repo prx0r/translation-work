@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kula",
-   "morph": "compound",
+   "morph": "compound: kula+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "vijñāna",
-   "morph": "compound",
-   "grounds": "middle member of compound"
+   "morph": "compound: vijñāna+middle",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "saṃbhogāt",
-   "morph": "m.abl.sg",
-   "grounds": "ablative singular noun"
+   "morph": "compound: saṃbhoga+final, m.abl.sg",
+   "grounds": "final member of compound"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound",
-   "grounds": "numeral, first member of compound"
+   "morph": "compound: ṣaṣ+first",
+   "grounds": "first member of compound; sandhi form as given"
   },
   {
    "lemma": "māsāt",
-   "morph": "m.abl.sg",
-   "grounds": "ablative singular noun"
+   "morph": "compound: māsa+second, m.abl.sg",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "siddhi",
-   "morph": "compound",
+   "morph": "compound: siddhi+first",
    "grounds": "first member of compound"
   },
   {
    "lemma": "bhājanaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "nominative singular noun"
+   "morph": "compound: bhājana+second, m.nom.sg",
+   "grounds": "second member of compound"
   }
  ]
 }

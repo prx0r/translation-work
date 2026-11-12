@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "jananī",
-   "morph": "f.nom.sg",
-   "grounds": "nominative singular noun"
-  },
-  {
-   "lemma": "jāra",
-   "morph": "compound",
+   "morph": "compound: jananī+first",
    "grounds": "first member of compound"
   },
   {
+   "lemma": "jāra",
+   "morph": "compound: jāra+middle",
+   "grounds": "second member of compound"
+  },
+  {
    "lemma": "garbham",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular noun in compound sense"
+   "morph": "compound: garbha+final, m.acc.sg",
+   "grounds": "final member of compound"
   },
   {
    "lemma": "tu",
@@ -25,17 +25,17 @@
   {
    "lemma": "svaputraṃ",
    "morph": "m.acc.sg",
-   "grounds": "accusative singular noun"
+   "grounds": "object of protection"
   },
   {
    "lemma": "gopayet",
-   "morph": "3.sg.opt.act √gup",
-   "grounds": "optative verb"
+   "morph": "3.sg.active-optative √gup",
+   "grounds": "injunctive or optative sense"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "relative adverb introducing comparison"
+   "grounds": "comparative particle"
   }
  ]
 }

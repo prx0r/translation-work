@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[vairita](vairita) [ityādāvapi](ityādāvapi) [kṣudrāditaḥ](kṣudrāditaḥ) [vairikṛtakṣudraprayogāditaḥ](vairikṛtakṣudraprayogāditaḥ) [96](96) [97](97)
+[enmity](vairita) [thus-etc](ityādau) [also](api) [from-trifling-etc](kṣudrāditaḥ) [from-enemy+done+trifling+application-etc](vairikṛta+kṣudra+prayogāditaḥ)
 
 ## mukta-m0-p49-v1202
-[devatāgaṇaviśeṣāḥ](devatāgaṇaviśeṣāḥ) [ādiśabdaḥ](ādiśabdaḥ) [śatrukṛtakṣudraprayogādiviṣayaḥ](śatrukṛtakṣudraprayogādiviṣayaḥ)
+[deity+group+particulars](devatā+gaṇa+viśeṣāḥ) [etc-word](ādiśabdaḥ) [enemy+done+trifling+application-etc+subject](śatrukṛta+kṣudra+prayoga+ādi+viṣayaḥ)
 
 ## mukta-m0-p49-v1203
-[paripūrṇaṃ](paripūrṇaṃ) [parāmṛṣṭam](parāmṛṣṭam)
+[complete](paripūrṇaṃ) [touched](parāmṛṣṭam) [fully](paripūrṇaṃ) [considered](parāmṛṣṭam)
 
 ## mukta-m0-p49-v1204
-[tadvidhānaṃ](tadvidhānaṃ) [śṛṇu](śṛṇu) [prājñe](prājñe) [kathayāmi](kathayāmi) [yathāvidhi](yathāvidhi)
+[its+procedure](tat+vidhānaṃ) [hear](śṛṇu) [O-wise-one](prājñe) [I-tell](kathayāmi) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p49-v1205
-[pūjākramaṃ](pūjākramaṃ) [ca](ca) [yantrāṇi](yantrāṇi) [tathaiva](tathaiva) [ripunigraham](ripunigraham)
+[worship+sequence](pūjā+kramaṃ) [and](ca) [diagrams](yantrāṇi) [likewise](tathaiva) [enemy+subjugation](ripu+nigraham)
 
 ## mukta-m0-p49-v1206
-[rakṣāṃ](rakṣāṃ) [puragajāśvānāṃ](puragajāśvānāṃ) [rāja(jya)rakṣāṃ](rāja(jya)rakṣāṃ) [ca](ca) [vai](vai) [kramāt](kramāt)
+[protection](rakṣāṃ) [of-city+elephants+horses](pura+gaja+aśvānāṃ) [kingdom+protection](rājya+rakṣāṃ) [and](ca) [indeed](vai) [in-order](kramāt)
 
 ## mukta-m0-p49-v1207
-[randhrājñāmukhakaṇṭheṣu](randhrājñāmukhakaṇṭheṣu) [hṛnnābhyācārapaddvaye](hṛnnābhyācārapaddvaye)
+[in-aperture+command+mouth+throat](randhra+ājñā+mukha+kaṇṭheṣu) [in-heart+navel+magic+two-feet](hṛt+nābhi+ācāra+pat+dvaye)
 
 ## mukta-m0-p49-v1208
-[tataḥ](tataḥ) [śaktīrāvṛtisthā](śaktīrāvṛtisthā) [dhyānaṃ](dhyānaṃ) [ca](ca) [śṛṇu](śṛṇu) [pārvati](pārvati)
+[then](tataḥ) [powers+standing-in-enclosure](śaktīḥ+āvṛti+sthāḥ) [meditation](dhyānaṃ) [and](ca) [hear](śṛṇu) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p49-v1209
-[sādhyanakṣatravṛkṣādikīlakasthāpanena](sādhyanakṣatravṛkṣādikīlakasthāpanena) [vairinigrahaviśeṣān](vairinigrahaviśeṣān) [t](t) [1](1) [2](2)
+[target+constellation+tree-etc+peg+placing](sādhya+nakṣatra+vṛkṣa+ādi+kīlaka+sthāpanena) [enemy+subjugation+particulars](vairi+nigraha+viśeṣān)
 
 ## mukta-m0-p49-v1210
-[upariṣṭādvakṣyamāṇamātṛkānyāsapuraḥsaramityarthaḥ](upariṣṭādvakṣyamāṇamātṛkānyāsapuraḥsaramityarthaḥ)
+[above+to-be-stated+mātṛkā+placement+preceded-by](upariṣṭāt+vakṣyamāṇa+mātṛkā+nyāsa+puraḥsaram) [thus-meaning](iti+arthaḥ)
 
 ## mukta-m0-p49-v1211
-[tadantaraṣṭapatreṣu](tadantaraṣṭapatreṣu) [vijayāṃ](vijayāṃ) [vimalāṃ](vimalāṃ) [subhām](subhām)
+[within-that+eight-petals](tat+antara+aṣṭa+patreṣu) [Vijayā](vijayāṃ) [Vimalā](vimalāṃ) [Śubhā](subhām)
 
 ## mukta-m0-p49-v1212
-[tadantaraṣṭakoṇeṣu](tadantaraṣṭakoṇeṣu) [kamalāṃ](kamalāṃ) [kāminīṃ](kāminīṃ) [tathā](tathā)
+[within-that+eight-corners](tat+antara+aṣṭa+koṇeṣu) [Kamalā](kamalāṃ) [Kāminī](kāminīṃ) [likewise](tathā)
 
 ## mukta-m0-p49-v1213
-[kalyāṇīṃ](kalyāṇīṃ) [kālakolāṃ](kālakolāṃ) [ca](ca) [pūjayeduktayogataḥ](pūjayeduktayogataḥ)
+[Kalyāṇī](kalyāṇīṃ) [Kālakolā](kālakolāṃ) [and](ca) [one-should-worship](pūjayet) [by-stated+method](ukta+yogataḥ)
 
 ## mukta-m0-p49-v1214
-[sākinīṃ](sākinīṃ) [lākinīṃ](lākinīṃ) [ṣaṭsu](ṣaṭsu) [koṇeṣu](koṇeṣu) [parito'rcayet](parito'rcayet)
+[Sākinī](sākinīṃ) [Lākinī](lākinīṃ) [in-six](ṣaṭsu) [corners](koṇeṣu) [all-around](paritaḥ) [one-should-worship](arcayet)
 
 ## mukta-m0-p49-v1215
-[aṣṭakoṇāntarāleṣu](aṣṭakoṇāntarāleṣu) [pūjayedāyudhāṣṭakam](pūjayedāyudhāṣṭakam)
+[eight-corner+intervals](aṣṭa+koṇa+antarāleṣu) [one-should-worship](pūjayet) [weapon+group-of-eight](āyudha+aṣṭakam)
 
 ## mukta-m0-p49-v1216
-[tadantaraṣṭapatrābjaṃ](tadantaraṣṭapatrābjaṃ) [vṛttayugmamathāntarā](vṛttayugmamathāntarā)
+[within-that+eight-petal+lotus](tat+antara+aṣṭa+patra+abjaṃ) [circle+pair](vṛtta+yugmam) [then](atha) [within](antarā)
 
 ## mukta-m0-p49-v1217
-[ṝtadigādi](ṝtadigādi) [9](9)
+[beginning-with-east-direction-etc](ṛta+dik+ādi)
 
 ## mukta-m0-p49-v1218
-[tadantastādṛśaṃ](tadantastādṛśaṃ) [kuryāt](kuryāt) [ṣaṭkoṇaṃ](ṣaṭkoṇaṃ) [vā](vā) [tu](tu) [vigraham](vigraham)
+[within-that](tat+antaḥ) [such](tādṛśaṃ) [one-should-make](kuryāt) [six-corner](ṣaṭ+koṇaṃ) [or](vā) [indeed](tu) [figure](vigraham)
 
 ## mukta-m0-p49-v1219
-[bheruṇḍāṃ](bheruṇḍāṃ) [pañcamīṃ](pañcamīṃ) [nityāmuktaśaktibhirāvṛtām](nityāmuktaśaktibhirāvṛtām)
+[Bheruṇḍā](bheruṇḍāṃ) [fifth](pañcamīṃ) [Nityā](nityām) [by-stated+powers+surrounded](ukta+śaktibhiḥ+āvṛtām)
 
 ## mukta-m0-p49-v1220
-[balidravyaṃ](balidravyaṃ) [mudrāsahitam](mudrāsahitam)
+[offering](baliṃ) [and](ca) [with-sixteen-syllable](ṣoḍaśa+arṇena) [one-should-give](dadyāt) [at-beginning+and-end](ādi+antayoḥ) [in-order](kramāt)
 
 ## mukta-m0-p49-v1221
-[tadāvṛttisthaśaktīnāṃ](tadāvṛttisthaśaktīnāṃ) [krameṇa](krameṇa) [śṛṇu](śṛṇu) [pārvati](pārvati)
+[of-that+enclosure+standing+powers](tat+āvṛti+stha+śaktīnāṃ) [in-sequence](krameṇa) [hear](śṛṇu) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p49-v1222
-[cārusmitāñcitamukhīṃ](cārusmitāñcitamukhīṃ) [divyālaṅkārabhūṣitām](divyālaṅkārabhūṣitām)
+[with-charming+smile+adorned+face](cāru+smita+añcita+mukhīṃ) [with-divine+ornaments+decorated](divya+alaṅkāra+bhūṣitām)
 
 ## mukta-m0-p49-v1223
-[devīmuktakrameṇa](devīmuktakrameṇa) [pūjayediti](pūjayediti)
+[goddess](devīm) [by-stated+sequence](ukta+krameṇa) [one-should-worship](pūjayet) [thus](iti)
 
 ## mukta-m0-p49-v1224
-[dbalidravyaṃ](dbalidravyaṃ) [mudrāsahitam](mudrāsahitam)
+[offering+substance](bali+dravyaṃ) [with-gesture+accompanied](mudrā+sahitam)
 
 ## mukta-m0-p49-v1225
-[rasanānūpurormyādibhūṣaṇairatisundarīm](rasanānūpurormyādibhūṣaṇairatisundarīm)
+[with-girdle+anklet+wave-etc+ornaments](rasanā+nūpura+ūrmi+ādi+bhūṣaṇaiḥ) [very-beautiful](ati+sundarīm)

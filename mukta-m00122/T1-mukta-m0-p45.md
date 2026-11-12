@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[hear](śṛṇu) [goddess](devi) [I-will-declare](pravakṣyāmi) [ritual-worthy](prayogārho) [from-which](yato) [may-be](bhavet)
+[listen](śṛṇu) [o-goddess](devi) [!]() [i-shall-declare](pravakṣyāmi) [fit-for-application](prayogārho) [whereby](yato) [one-may-become](bhavet)
 
 ## mukta-m0-p45-v1102
-[before](prāg) [mark](vallakṣaṃ) [that](tad) [tenth-part](daśāṃśaṃ) [should-do](kuryāt) [oblation](homaṃ) [and](ca) [libation](tarpaṇam)
+[as-before](prāgvat) [one-hundred-thousand](lakṣaṃ) [its-tenth-part](taddaśāṃśaṃ) [one-should-perform](kuryād) [oblation](dhomaṃ) [and](ca) [libation](tarpaṇam)
 
 ## mukta-m0-p45-v1103
-[moon](candra) [moon](candra) [musk](nakastūrī) [perfumed](vāsitaiḥ) [waters](jalaiḥ) [should-satisfy](tarpayet)
+[with-camphor+sandal+and-musk+scented](candracandranakastūrīvāsitais) [one-should-offer-libation](tarpayej) [with-waters](jalaiḥ)
 
 ## mukta-m0-p45-v1104
-[thousand-fold](sahasra) [japa](jāpī) [that](tad) [devotee](bhaktaḥ) [should-do](kuryāt) [said](uktam) [not](na) [otherwise](cā'nyathā)
+[performer-of-thousand-recitations](sahasrajāpī) [devoted-to-that](tadbhaktaḥ) [one-should-do](kuryād) [what-is-prescribed](uktaṃ) [not](na) [and](ca) [otherwise](anyathā)
 
 ## mukta-m0-p45-v1105
-[all](sarva) [eternal](nitya) [common](sādhāraṇaḥ) [that](tan) [consisting](mayaḥ) [as-before](prāgvat)
+[common-to-all-nityās](sarvanityāsādhāraṇaḥ) [|]() [absorbed-in-that](tanmayaḥ) [as-before](prāgvat)
 
 ## mukta-m0-p45-v1106
-[verses](ślokaiḥ) [vidyā](vidyā) [preliminary-rite](puraścaraṇa) [manner](prakāram) [instructs](upadiśati) [there](tatra) [from-which](yataḥ) [by-practice](sādhanataḥ)
+[with-verses](ślokair) [the-method-of-mantra-preliminary-rites](vidyāpuraścaraṇaprakāram) [he-teaches](upadiśati) [|]() [there](tatra) [whereby](yataḥ) [from-accomplishment](sādhanataḥ)
 
 ## mukta-m0-p45-v1107
-[lakh](lakṣaṃ) [of-vidyā](vidyāyā) [according-to-yuga](yugānurūpam) [syllable](akṣara) [lakh](lakṣa) [order](krameṇa)
+[one-hundred-thousand](lakṣaṃ) [of-the-mantra](vidyāyā) [according-to-the-age](yugānurūpam) [in-the-order-of-syllable-hundred-thousands](akṣaralakṣakrameṇa)
 
 ## mukta-m0-p45-v1108
-[ritual-expert](prayogādyabhijñaḥ) [not-other](nānyam) [thus](iti) [all-deities](sarvadevatā) [common](sādhāraṇam)
+[knowing-application-etc.](prayogādyabhijñaḥ) [not-another](nānyam) [thus](iti) [(not-otherwise)](nānyatheti) [common-to-all-deities](sarvadevatāsādhāraṇam)
 
 ## mukta-m0-p45-v1109
-[thus](tathā) [eva](eva) [water-lilies](kairavaiḥ) [red](raktaiḥ) [women](aṅganāḥ) [tu](tu) [under-control](vaśaṃ) [lead](nayet)
+[likewise](tathaiva) [with-white-lotuses](kairavair) [with-unattached-ones](aktair) [women](aṅganās) [indeed](tu) [under-control](vaśaṃ) [one-may-bring](nayet)
 
 ## mukta-m0-p45-v1110
-[jasmine](mallikā) [mālatī](mālatī) [jasmine](jātī) [hundred-petalled](śatapatraiḥ) [offered](hutaiḥ) [becomes](bhavet)
+[with-jasmine+mālatī+jātī+and-hundred-petalled-flowers](mallikāmālatījātīśatapatrair) [offered-in-oblation](hutair) [it-may-be](bhavet)
 
 ## mukta-m0-p45-v1111
-[cassia](āragvadha) [flowers](prasūnaiḥ) [tu](tu) [honey](kṣaudra) [anointed](aktaiḥ) [by-oblation](havanāt) [becomes](bhavet)
+[with-āragvadha-flowers](āragvadhaprasūnais) [indeed](tu) [with-honey-smeared](kṣaudrāktair) [from-offering](havanād) [it-may-be](bhavet)
 
 ## mukta-m0-p45-v1112
-[ghee](ājya) [anointed](aktaiḥ) [oleander](karavīra) [born](utthaiḥ) [flowers](prasūnaiḥ) [reddish](aruṇaiḥ) [offered](hutaiḥ)
+[with-ghee-smeared](ājyāktaiḥ) [produced-from-oleander](karavīrotthaiḥ) [with-flowers](prasūnair) [red](aruṇair) [offered-in-oblation](hutaiḥ)
 
 ## mukta-m0-p45-v1113
-[ornament](bhūṣā) [vehicle](vāhana) [trade](vāṇijya) [successes](siddhayaḥ) [ca](ca) [of-him](asya) [desired](vāñchitāḥ)
+[ornament+vehicle+and-commerce-successes](bhūṣāvāhanavāṇijyasiddhayaś) [and](ca) [his](asya) [desired](vāñchitāḥ)
 
 ## mukta-m0-p45-v1114
-[that](tat) [oil](taila) [anointed](aktaiḥ) [night](niśā) [middle](madhye) [tu](tu) [lead](ānayet) [desired](vāñchitāṃ) [bride](vadhūm)
+[smeared-with-that-oil](tattailāktair) [in-the-middle-of-night](niśāmadhye) [indeed](tu) [one-may-bring](ānayed) [the-desired](vāñchitāṃ) [woman](vadhūm)
 
 ## mukta-m0-p45-v1115
-[month](māsa) [from](ād) [enemy](arāteḥ) [severe](tīvra) [pain](ārti) [fever](jvareṇa) [becomes](bhavati) [certainly](dhruvam)
+[within-a-month](māsād) [of-the-enemy](arāteḥ) [with-intense-pain](tīvrārti) [with-fever](jvareṇa) [it-happens](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p45-v1116
-[of-enemy](śatroḥ) [body](dehe) [wounds](vraṇāni) [syuḥ](syuḥ) [difficult](duḥsādhyāni) [by-physicians](cikitsakaiḥ)
+[of-the-enemy](śatror) [on-the-body](dehe) [wounds](vraṇāni) [may-arise](syur) [difficult-to-cure](duḥsādhyāni) [by-physicians](cikitsakaiḥ)
 
 ## mukta-m0-p45-v1117
-[thus](tathā) [that](tat) [oil](taila) [sprinkled](saṃsiktaiḥ) [seeds](bījaiḥ) [aṅkāraka](aṅkārakaiḥ) [api](api)
+[likewise](tathā) [smeared-with-that-oil](tattailasaṃsiktair) [with-seeds](bījair) [marked-with-aṅkāra](aṅkārakair) [also](api)
 
 ## mukta-m0-p45-v1118
-[same-form](samānarūpa) [calf](vatsāyāḥ) [white](śukla) [calf](vatsāyāḥ) [iti](iti) [meaning](arthaḥ)
+[of-a-cow-having-a-calf-of-same-color](samānarūpavatsāyāḥ) [of-a-white-cow-having-a-white-calf](śuklavatsāyā) [thus-the-meaning](ityarthaḥ) [||27||28||29||30]()
 
 ## mukta-m0-p45-v1119
-[others](itaraiḥ) [black](kṛṣṇaiḥ) [or](vā) [in-other](pakṣāntare) [that](tat) [oil](taila) [anointed](aktaiḥ) [mustard](sarṣapa) [two](dvaya) [oil](taila) [anointed](aktaiḥ)
+[with-others](itaraiḥ) [black](kṛṣṇaiḥ) [|]() [or](vā) [in-the-other-alternative](pakṣāntare) [|]() [smeared-with-that-oil](tattailāktaiḥ) [smeared-with-oil-of-both-mustards](sarṣapadvayatailāktaiḥ)
 
 ## mukta-m0-p45-v1120
-[desired](vāñchitāṃ) [woman](vanitāṃ) [love-fever](kāmajvara) [afflicted](ārtām) [lead](ānayed) [certainly](dhruvam)
+[the-desired](vāñchitāṃ) [woman](vanitāṃ) [tormented-by-fever-of-love](kāmajvarārtām) [one-may-bring](ānayed) [certainly](dhruvam)
 
 ## mukta-m0-p45-v1121
-[courage](dhairya) [honor](māna) [family](kula) [always](nityaṃ) [difficult](duṣprāpām) [lead](ānayed) [bride](vadhūm)
+[devoid-of-firmness+pride+and-family](dhairyamānakulair) [always](nityaṃ) [hard-to-obtain](duṣprāpām) [one-may-bring](ānayed) [woman](vadhūm)
 
 ## mukta-m0-p45-v1122
-[by-that](tena) [annapūrṇā](annapūrṇa) [world](bhuvana) [enjoyer](bhoktā) [ca](ca) [becomes](bhavati) [dear](priye)
+[by-that](tena) [of-the-world-filled-with-food](annapūrṇabhuvano) [enjoyer](bhoktā) [and](ca) [one-becomes](bhavati) [o-beloved](priye) [!]()
 
 ## mukta-m0-p45-v1123
-[mung-beans](mudgaiḥ) [mung-bean](mudgaṃ) [held](dhṛtaiḥ) [ghee](ājyam) [desired](iṣṭaiḥ) [iṣṭaṃ](iṣṭaṃ) [offered](hutaiḥ) [becomes](bhavet)
+[with-mudga-beans](mudgaiḥ) [mudga-bean](mudgaṃ) [with-ghee](dhṛtair) [with-clarified-butter](ājyam) [desired-things](iṣṭair) [the-desired](iṣṭaṃ) [by-offerings](hutair) [may-be](bhavet)
 
 ## mukta-m0-p45-v1124
-[red](rājī) [pepper](marīca) [salt](loṇa) [born](utthāṃ) [effigy](puttalīṃ) [should-offer](juhuyāt) [night](niśi)
+[made-of-mustard+pepper+and-salt](rājīmarīcaloṇotthāṃ) [an-effigy](puttalīṃ) [one-should-offer](juhuyān) [at-night](niśi)
 
 ## mukta-m0-p45-v1125
-[navel](nābheḥ) [below](adhastāt) [heart](hṛdayāt) [split](bhinnena) [up-to-neck](ākaṇṭhataḥ) [thus](tathā)
+[below-the-navel](nābheradhastād) [from-the-heart](dhṛdayād) [pierced](bhinnena) [up-to-the-throat](ākaṇṭhatas) [likewise](tathā)

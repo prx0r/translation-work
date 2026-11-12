@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[man-composed](manmayaḥ) [shiva-self](śivātmā)
+[mind-made](manmayaḥ) [śiva-self](śivātmā)
 
 ## mukta-m0-p54-v1327
-[thus](iti) [glorious](śrī) [sixteen-nitya-tantra](ṣoḍaśanityātantreṣu) [glorious-kadimata](śrīkādimate) [tenth](daśamaṃ) [chapter](paṭalam)
+[thus](iti) [śrī](śrī) [sixteen-night-tantra](ṣoḍaśanityātantreṣu) [in-śrīkādimata](śrīkādimate) [tenth](daśamaṃ) [chapter](paṭalam)
 
 ## mukta-m0-p54-v1328
-[completely-full](paripūrṇaṃ) [supremely-touched](parāmṛṣṭam)
+[full](paripūrṇaṃ) [contemplated](parāmṛṣṭam)
 
 ## mukta-m0-p54-v1329
-[that](tatsādhanavidhiṃ) [vidya](sā vidyā) [fire-dwelling](vahnivāsinyāḥ) [told](kathitā) [to-you](te) [nine-syllabled](navākṣarā)
+[that](sā) [knowledge](vidyā) [of-vahnivāsinī](vahnivāsinyāḥ) [told](kathitā) [to-thee](te) [nine-syllabled](navākṣarā)
 
 ## mukta-m0-p54-v1330
-[that](tatsādhanavidhiṃ) [its](tasyāḥ) [rite](prayogānvividhānapi)
+[of-that](tasyāḥ) [means-of-sadhana](sādhanavidhiṃ) [of-that](tasyāḥ) [practices](prayogān) [various](vividhan) [also](api)
 
 ## mukta-m0-p54-v1331
-[with-vidya-second-seed](vidyādvitīyabījena) [vowels](svarān) [long](dīrghānniyojayet)
+[by-second-seed-of-knowledge](vidyādvitīyabījena) [vowels](svarān) [long](dīrghān) [should-join](niyojayet)
 
 ## mukta-m0-p54-v1332
-[nine-syllables](navākṣarāṇi) [of-vidya](vidyāyā) [in-nine-openings](navarandhreṣu) [place](vinyaset)
+[nine-syllables](navākṣarāṇi) [of-knowledge](vidyāyāḥ) [in-nine-openings](navarandhreṣu) [should-place](vinyaset)
 
 ## mukta-m0-p54-v1333
-[in-all-vidyas](sarvāsvapi) [and](ca) [vidyas](vidyāsu) [pervading](vyāpakaṃ) [that](tat) [perform](samācaret)
+[in-all](sarvāsvapi) [and](ca) [knowledges](vidyāsu) [pervading](vyāpakaṃ) [that](tat) [should-perform](samācaret)
 
 ## mukta-m0-p54-v1334
-[of-it](tasyācireṇa) [quickly](acireṇa) [of-gods](devānāṃ) [by-grace](prasādāt) [arise](sambhavanti) [and](ca)
+[of-that](tasyāḥ) [quickly](acireṇa) [of-gods](devānāṃ) [by-favor](prasādāt) [arise](sambhavanti) [and](ca)
 
 ## mukta-m0-p54-v1335
-[in-third-chapter](tṛtīye paṭale) [other](anyat) [easy](sugamam)
+[in-third](tṛtīye) [chapter](paṭale) [other](anyat) [easy](sugamam) [one](1)
 
 ## mukta-m0-p54-v1336
-[of-all](sarvāsāṃ) [first](prathamaṃ) [having-done](kṛtvā) [afterwards](paścāttatroditaṃ) [place](nyaset)
+[all](sarvāsāṃ) [first](prathamaṃ) [having-made](kṛtvā) [afterwards](paścāt) [there](tatra) [uttered](uditam) [should-place](nyaset)
 
 ## mukta-m0-p54-v1337
-[by-that](tena) [of-her](tasyāstu) [script](lipiśo) [nyasa](nyāsannaiva) [spoken](samīritam)
+[by-that](tena) [of-her](tasyāḥ) [by-script](lipiśaḥ) [nyāsa](nyāsaṃ) [not](na) [iva](iva) [declared](samīritam)
 
 ## mukta-m0-p54-v1338
-[beautiful-smiling-lotus-faced](cārusmeramukhāmbhojāṃ) [with-three-bright-eyes](visalannayanatrayām)
+[beautiful-smiling-face-lotus](cārusmeramukhāmbhojāṃ) [three-bright-eyes](visalannayanatrayām)
 
 ## mukta-m0-p54-v1339
-[ruby-crown-ray](padmarāgakirīṭāṃśusambhedāruṇitāmbarām)
+[padmarāga-diadem](padmarāgakirīṭāṃśu) [reddened](sambhedāruṇita) [garments](ambarām)
 
 ## mukta-m0-p54-v1340
-[gem-pearl-cluster-ornament-bright](ratnamauktikasaṃbhinnastabakābharaṇojjvalām)
+[gem-pearl](ratnamauktika) [intermixed](saṃbhinna) [cluster](stabaka) [ornament](ābharaṇa) [brilliant](ujjvalām)
 
 ## mukta-m0-p54-v1341
-[bearing](dadhānāṃ) [with-left-arms](bāhubhirvāmaiḥ) [white-lotus](kahlāraṃ) [golden-horn](hemaśṛṅgakam)
+[bearing](dadhānāṃ) [with-arms](bāhubhiḥ) [left](vāmaiḥ) [water-lily](kahlāraṃ) [golden-stalk](hemaśṛṅgakam)
 
 ## mukta-m0-p54-v1342
-[with-equal-powers-around](svasamānābhirabhitaḥ) [shaktis](śaktibhiḥ) [surrounded](parivāritām)
+[like-herself](svasamānābhiḥ) [on-all-sides](abhitaḥ) [by-śaktis](śaktibhiḥ) [surrounded](parivāritām)
 
 ## mukta-m0-p54-v1343
-[flaming-sparkling](jvālinīvisphuliṅginyau) [auspicious](maṅgalā) [charming](sumanoharā)
+[jvālinī](jvālinī) [visphuliṅginī](visphuliṅginyau) [maṅgalā](maṅgalā) [very-beautiful](sumanoharā)
 
 ## mukta-m0-p54-v1344
-[nine-syllables](navākṣarāṇi) [south-east](dakṣiṇapūrvaṃ) [place](nyaset) [pervading](vyāpakaṃ) [as-before](prāgvat)
+[nine-syllables](navākṣarāṇi) [south-east](dakṣiṇapūrvaṃ) [should-place](nyaset) [pervading](vyāpakaṃ) [as-before](prāgvat) [three](3) [four](4) [five](5)
 
 ## mukta-m0-p54-v1345
-[in-fifteenth-kulasundari-chapter](pañcadaśe kulasundarīpaṭale) [will-be-spoken](vakṣyamāṇatvādiha) [not-explain](na vyākaromi)
+[in-fifteenth](pañcadaśe) [kulasundarī-chapter](kulasundarīpaṭale) [since-to-be-stated](vakṣyamāṇatvāt) [here](iha) [not](na) [explain](vyākaromi) [seven](7)
 
 ## mukta-m0-p54-v1346
-[upward-etc-left-right](ūrddhvādivāmadakṣiṇayoḥ) [arrange](kalpayet)
+[upward](ūrddhva) [etc.](ādi) [left-and-right](vāmadakṣiṇayoḥ) [should-arrange](kalpayet) [nine](9) [ten](10) [eleven](11) [twelve](12)
 
 ## mukta-m0-p54-v1347
-[in-corner](a.qṭakoṇeṣu) [worship](sampūjyāstadagrāttu) [clockwise](pradakṣiṇam)
+[in-eight-corners](aṣṭakoṇeṣu) [should-worship](sampūjyā) [from-that-foremost](tadagrāt) [tu](tu) [clockwise](pradakṣiṇam)
 
 ## mukta-m0-p54-v1348
-[of-aries](meṣāṃ) [taurus-named](vṛṣāhvayāṃ) [shakti](śaktiṃ) [gemini](mithunāṃ) [cancer](karkaṭīmapi)
+[meṣā](meṣāṃ) [vṛṣāhvayā](vṛṣāhvayāṃ) [śakti](śaktiṃ) [mithunā](mithunāṃ) [karkaṭīm](karkaṭīm) [also](api)
 
 ## mukta-m0-p54-v1349
-[aquarius](kumbhāṃ) [pisces](mīnāṃ) [worship](yajetprāgvadagrādārabhya) [shankari](śāṅkari)
+[kumbhā](kumbhāṃ) [mīnā](mīnāṃ) [should-worship](yajet) [as-before](prāgvat) [from-foremost](agrāt) [having-begun](ārabhya) [o-śāṅkarī](śāṅkari)
 
 ## mukta-m0-p54-v1350
-[of-other-two-directions](anyayośca) [shaktis](diśoḥ śaktīḥ) [said](proktā) [ten](daśa) [worship](samarcayet)
+[of-other](anyayoḥ) [and](ca) [directions](diśoḥ) [śaktīs](śaktīḥ) [proclaimed](proktāḥ) [ten](daśa) [should-worship](samarcayet)
