@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 139,
- "question": "What kind of physical location is suitable for this yogic practice?",
+ "question": "What kind of physical location is suitable for undertaking this yogic practice?",
  "premises": [
-  "The place should be a solitary ground-level house",
-  "The place should be free of people",
-  "The place should be free of gnats and mosquitoes"
+  "The practice requires a specific environment.",
+  "The place should be solitary and underground or earthen.",
+  "The place should be free from gnats and mosquitoes."
  ],
- "inference": "The practice should be performed in a solitary ground-level place free of gnats and mosquitoes.",
- "uncertainties": [],
- "plain_english": "In a solitary ground-level house, in a place free of gnats and mosquitoes."
+ "inference": "The practice should be done in a solitary earthen dwelling free from gnats and mosquitoes.",
+ "uncertainties": [
+  "bhū-gṛhe may mean an earthen house or a room on the ground."
+ ],
+ "plain_english": "In a solitary earthen house, in a place free from gnats and mosquitoes."
 }

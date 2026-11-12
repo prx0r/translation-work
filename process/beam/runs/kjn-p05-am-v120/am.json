@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 120,
- "question": "What assurance is given about the possibility of destroying death?",
+ "question": "What claim does the speaker make about death, with an assurance against doubt?",
  "premises": [
-  "The speaker promises to explain",
-  "There is no doubt",
-  "Death can be destroyed"
+  "The speaker says they will tell something.",
+  "There is to be no doubt about it.",
+  "The claim is that death is destroyed in the manner stated."
  ],
- "inference": "I shall tell you without doubt how death is destroyed.",
- "uncertainties": [],
- "plain_english": "I shall tell you, without doubt, how death is destroyed."
+ "inference": "The speaker tells, without doubt, how death is destroyed.",
+ "uncertainties": [
+  "The manner 'as' is left open by this verse and requires the following context to be specified."
+ ],
+ "plain_english": "I tell it; there is no doubt that death is destroyed as stated."
 }
