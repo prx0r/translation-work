@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "bhavati",
-   "morph": "3.sg.present.act √bhū",
-   "grounds": "asserts result"
+   "morph": "3.sg.act.pres √bhū",
+   "grounds": "verb asserting result"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "particle of emphasis"
   },
   {
    "lemma": "na",
@@ -20,27 +20,27 @@
   {
    "lemma": "sandehaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject negated"
+   "grounds": "subject denied"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:ṣaṇ+māsa",
+   "grounds": "first member of compound indicating duration"
   },
   {
    "lemma": "māsa",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound:ṣaṇ+māsa",
+   "grounds": "second member of compound indicating duration"
   },
   {
    "lemma": "abhyantareṇa",
    "morph": "n.inst.sg",
-   "grounds": "time limit"
+   "grounds": "instrumental indicating time limit"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "particle of emphasis"
   }
  ]
 }

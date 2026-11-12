@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "ādhāra",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:ādhāra+skandha",
+   "grounds": "first member of compound indicating base"
   },
   {
    "lemma": "skandha",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound:ādhāra+skandha",
+   "grounds": "second member of compound indicating area"
   },
   {
    "lemma": "saṃsthāne",
    "morph": "n.loc.sg",
-   "grounds": "place of practice"
+   "grounds": "locative indicating place of practice"
   },
   {
    "lemma": "yogaṃ",
    "morph": "m.acc.sg",
-   "grounds": "object to be applied"
+   "grounds": "object of practice"
   },
   {
    "lemma": "yuñjīta",
-   "morph": "3.sg.optative.middle √yuj",
-   "grounds": "injunctive instruction"
+   "morph": "3.sg.mid.opt √yuj",
+   "grounds": "optative prescribing yogic application"
   },
   {
    "lemma": "śītalam",
    "morph": "m.acc.sg",
-   "grounds": "describes the yoga"
+   "grounds": "describes the quality of the yoga"
   }
  ]
 }

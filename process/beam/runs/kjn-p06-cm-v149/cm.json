@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "jarā",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:jarā+maraṇa",
+   "grounds": "first member of compound indicating decay"
   },
   {
    "lemma": "maraṇa",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound:jarā+maraṇa",
+   "grounds": "second member of compound indicating mortality"
   },
   {
    "lemma": "nirmuktaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes resulting state"
+   "grounds": "past participle indicating release"
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:vyādhi+roga",
+   "grounds": "first member of compound indicating affliction"
   },
   {
    "lemma": "roga",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound:vyādhi+roga",
+   "grounds": "second member of compound indicating affliction"
   },
   {
    "lemma": "vivarjitaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes resulting state"
+   "grounds": "past participle indicating absence"
   }
  ]
 }

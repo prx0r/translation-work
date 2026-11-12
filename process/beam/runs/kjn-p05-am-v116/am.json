@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 116,
- "question": "To what kind of resolved recipient may this teaching properly be given?",
+ "question": "To what kind of person, endowed with all states and of resolved mind, is a certain teaching said to be given?",
  "premises": [
-  "The teaching may be given",
-  "The recipient is endowed with all states",
-  "The recipient has a resolved mind"
+  "A person is described as endowed with all states.",
+  "That same person is described as of resolved mind.",
+  "To such a person, something is to be given."
  ],
- "inference": "This teaching should be given to one who is endowed with all states and has a resolved mind.",
- "uncertainties": [],
- "plain_english": "It should be given to one endowed with all states and of resolved mind."
+ "inference": "Something is to be given to one who is endowed with all states and of resolved mind.",
+ "uncertainties": [
+  "What is to be given not specified"
+ ],
+ "plain_english": "It is to be given to one endowed with all states and of resolved mind."
 }

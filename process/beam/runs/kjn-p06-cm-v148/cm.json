@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "keśa",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:keśa+skandha",
+   "grounds": "first member of compound listing body parts"
   },
   {
    "lemma": "skandha",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound:keśa+skandha",
+   "grounds": "second member of compound listing body parts"
   },
   {
    "lemma": "kapāla",
-   "morph": "compound-member",
-   "grounds": "third member of compound"
+   "morph": "compound:kapāla+sthaṃ",
+   "grounds": "first member of compound indicating location"
   },
   {
    "lemma": "sthaṃ",
    "morph": "n.acc.sg",
-   "grounds": "describes location"
+   "grounds": "past participle indicating location"
   },
   {
    "lemma": "rañjayet",
-   "morph": "3.sg.optative.act √rañj",
-   "grounds": "injunctive instruction"
+   "morph": "3.sg.act.opt √rañj",
+   "grounds": "optative prescribing action"
   },
   {
    "lemma": "tasya",
    "morph": "n.gen.sg",
-   "grounds": "source of splendor"
+   "grounds": "genitive referring to the fluid or form"
   },
   {
    "lemma": "tejasā",
    "morph": "n.inst.sg",
-   "grounds": "instrument of coloring"
+   "grounds": "instrumental indicating means"
   }
  ]
 }

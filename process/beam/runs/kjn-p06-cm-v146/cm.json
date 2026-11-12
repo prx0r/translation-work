@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:ṣaṇ+māsa",
+   "grounds": "first member of compound indicating duration"
   },
   {
    "lemma": "māsa",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound:ṣaṇ+māsa",
+   "grounds": "second member of compound indicating duration"
   },
   {
    "lemma": "asevanā",
    "morph": "f.inst.sg",
-   "grounds": "instrumental cause"
+   "grounds": "instrumental indicating means"
   },
   {
    "lemma": "abhyastāt",
    "morph": "n.abl.sg",
-   "grounds": "cause of transformation"
+   "grounds": "ablative indicating cause"
   },
   {
    "lemma": "vṛddhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "initial condition"
+   "grounds": "subject described before transformation"
   },
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "concessive particle"
+   "grounds": "particle indicating concession"
   },
   {
    "lemma": "taruṇā",
    "morph": "f.inst.sg",
-   "grounds": "resulting condition"
+   "grounds": "state attained after practice"
   },
   {
    "lemma": "āyate",
-   "morph": "3.sg.present.middle √i",
-   "grounds": "transformation"
+   "morph": "3.sg.mid.pres √i",
+   "grounds": "verb indicating transformation"
   }
  ]
 }

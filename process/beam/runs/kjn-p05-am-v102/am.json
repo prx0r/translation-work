@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom and under what condition may this teaching be given?",
+ "question": "To whom alone may a certain teaching be given after it has been tested for a full year following prior accomplishment?",
  "premises": [
-  "The teaching may be given",
-  "The recipient must be previously accomplished",
-  "The recipient must be tested for one year"
+  "The teaching is only to be given to one who has been previously accomplished.",
+  "That recipient must have been tested for one full year.",
+  "The act of giving is restricted by both prior accomplishment and prior testing."
  ],
- "inference": "This teaching should be given only to a previously accomplished person who has been tested for one year.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "The teaching is to be given only to a previously accomplished person who has been tested for one year.",
+ "uncertainties": [
+  "Criteria for prior accomplishment remain unspecified"
+ ],
+ "plain_english": "The teaching is to be given only to one who was previously accomplished and has been tested for one year."
 }

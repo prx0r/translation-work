@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "bhū",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:bhū+gṛhe",
+   "grounds": "first member of compound indicating underground"
   },
   {
    "lemma": "gṛhe",
    "morph": "n.loc.sg",
-   "grounds": "location of practice"
+   "grounds": "locative indicating dwelling place"
   },
   {
    "lemma": "nirjane",
    "morph": "n.loc.sg",
-   "grounds": "describes place"
+   "grounds": "describes the place as uninhabited"
   },
   {
    "lemma": "sthāne",
    "morph": "n.loc.sg",
-   "grounds": "general location"
+   "grounds": "general locative for location"
   },
   {
    "lemma": "daṃśa",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound:daṃśa+maśaka",
+   "grounds": "first member of compound listing pests"
   },
   {
    "lemma": "maśaka",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound:daṃśa+maśaka",
+   "grounds": "second member of compound listing pests"
   },
   {
    "lemma": "varjite",
    "morph": "n.loc.sg",
-   "grounds": "describes place"
+   "grounds": "past participle indicating absence of pests"
   }
  ]
 }
