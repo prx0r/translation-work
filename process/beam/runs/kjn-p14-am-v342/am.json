@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 342,
- "question": "To whom must the teacher refuse to give the Kaula teaching?",
+ "question": "Why must revilers of Shiva and Kula Bhairava be denied this sacred teaching?",
  "premises": [
-  "Some revile Shiva",
-  "Some slander Kula Bhairava",
-  "The teaching must not be given to them"
+  "The teaching must not be given to a reviler of Shiva",
+  "It must not be given to a slanderer",
+  "Reviling Kula Bhairava is included as disqualifying"
  ],
- "inference": "The teaching must not be given to revilers of Shiva or slanderers of Kula Bhairava.",
- "uncertainties": [],
- "plain_english": "O Goddess, it must not be given to one who reviles Shiva or slanders Kula Bhairava."
+ "inference": "Those who revile Shiva or Kula Bhairava are excluded from receiving the teaching.",
+ "uncertainties": [
+  "kulabhairave may refer to reviling Kula Bhairava or to a person in that context"
+ ],
+ "plain_english": "O Goddess, it must not be given to a reviler of Shiva, nor to a slanderer of Kula Bhairava."
 }

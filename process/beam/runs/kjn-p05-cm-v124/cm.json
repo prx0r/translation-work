@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "viṣaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "accusative of viṣa, poison"
+   "morph": "n.nom.sg",
+   "grounds": "subject noun"
   },
   {
    "lemma": "na",
@@ -14,28 +14,28 @@
   },
   {
    "lemma": "kramate",
-   "morph": "3.sg.act-pres",
-   "grounds": "present active of kram, to enter or spread"
+   "morph": "3.sg.pres.act √kram",
+   "grounds": "present active verb from kram"
   },
   {
    "lemma": "dehe",
    "morph": "m.loc.sg",
-   "grounds": "locative of deha, body"
+   "grounds": "locative of place"
   },
   {
    "lemma": "daṃśito",
-   "morph": "m.nom.sg",
-   "grounds": "past participle of daṃś, bitten"
+   "morph": "m.nom.sg.ppp",
+   "grounds": "past passive participle of daṃś, concessive sense"
   },
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "inclusive or concessive particle"
   },
   {
    "lemma": "mahā+uragaiḥ",
-   "morph": "compound m.inst.pl",
-   "grounds": "instrumental compound: mahā+uraga"
+   "morph": "compound.inst.pl.m",
+   "grounds": "instrumental compound indicating agents of biting"
   }
  ]
 }
