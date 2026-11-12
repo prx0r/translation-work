@@ -4,48 +4,48 @@
  "rows": [
   {
    "lemma": "vuka",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: vuka+first-member",
+   "grounds": "first member of compound naming a flower"
   },
   {
    "lemma": "puṣpaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "vuka-flower"
+   "morph": "compound: puṣpa+second-member, n.acc.sg",
+   "grounds": "offering item"
   },
   {
    "lemma": "śiva",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: śiva+first-member",
+   "grounds": "first member of compound naming water"
   },
   {
    "lemma": "ambuñ",
-   "morph": "n.nom.sg",
-   "grounds": "shiva-water"
+   "morph": "compound: ambu+second-member, n.acc.sg",
+   "grounds": "offering item; final nasal written as ñ before ca"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "conjunction linking items"
   },
   {
    "lemma": "rakta",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: rakta+first-member",
+   "grounds": "first member in a pair of substances"
   },
   {
    "lemma": "śukraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "blood-semen"
+   "morph": "n.acc.sg",
+   "grounds": "substance paired with blood"
   },
   {
    "lemma": "surām",
    "morph": "f.acc.sg",
-   "grounds": "ritual drink"
+   "grounds": "offering item"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "manner adverb"
+   "grounds": "adverb extending the list"
   }
  ]
 }

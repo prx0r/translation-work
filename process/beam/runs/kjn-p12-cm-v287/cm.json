@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: padma+first-member",
+   "grounds": "first member of compound naming the leaf"
   },
   {
    "lemma": "patre",
-   "morph": "n.loc.sg",
-   "grounds": "lotus-leaf"
+   "morph": "compound: patra+second-member, n.loc.sg",
+   "grounds": "locative in simile"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "comparative particle"
+   "grounds": "comparative particle introducing simile"
   },
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "water on leaf"
+   "grounds": "locative in simile"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "correlative particle"
+   "grounds": "correlative particle completing simile"
   },
   {
    "lemma": "ca",
@@ -35,7 +35,7 @@
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "manner adverb"
+   "grounds": "adverb indicating manner"
   },
   {
    "lemma": "na",
@@ -45,7 +45,7 @@
   {
    "lemma": "lipyate",
    "morph": "3.sg.present-passive √lip",
-   "grounds": "affected or stained"
+   "grounds": "verb stating non-attachment"
   }
  ]
 }

@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kula",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: kula+first-member",
+   "grounds": "first member naming knowledge"
   },
   {
    "lemma": "vijñāna",
-   "morph": "compound",
-   "grounds": "kula-knowledge"
+   "morph": "compound: vijñāna+second-member, n.gen.sg-or-compound",
+   "grounds": "object of enjoyment"
   },
   {
    "lemma": "saṃbhogāt",
    "morph": "m.abl.sg",
-   "grounds": "from experience or union"
+   "grounds": "ablative indicating cause"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound",
-   "grounds": "numeral in compound"
+   "morph": "compound: ṣaṣ+first-member",
+   "grounds": "numeral qualifying months"
   },
   {
    "lemma": "māsāt",
-   "morph": "m.abl.sg",
-   "grounds": "six-months"
+   "morph": "compound: māsa+second-member, m.abl.sg",
+   "grounds": "ablative indicating time period"
   },
   {
    "lemma": "siddhi",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: siddhi+first-member",
+   "grounds": "first member describing recipient"
   },
   {
    "lemma": "bhājanaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "accomplishment-recipient"
+   "morph": "compound: bhājana+second-member, m.nom.sg",
+   "grounds": "predicate describing the person"
   }
  ]
 }

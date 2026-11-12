@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "niṣparigraha",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: niṣparigraha+first-member",
+   "grounds": "first member of compound naming contentment"
   },
   {
    "lemma": "santoṣaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "non-possession-contentment"
+   "morph": "compound: santoṣa+second-member, m.acc.sg",
+   "grounds": "object related to non-possession"
   },
   {
    "lemma": "dvandva",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: dvandva+first-member",
+   "grounds": "first member of compound naming union"
   },
   {
    "lemma": "yogaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "duality-union"
+   "morph": "compound: yoga+second-member, m.acc.sg",
+   "grounds": "object denoting engagement with dualities"
   },
   {
    "lemma": "na",
@@ -29,8 +29,8 @@
   },
   {
    "lemma": "kārayet",
-   "morph": "3.sg.optative-causative-active √kṛ",
-   "grounds": "one should cause"
+   "morph": "3.sg.optative-causative √kṛ",
+   "grounds": "optative injunction prohibiting an action"
   }
  ]
 }

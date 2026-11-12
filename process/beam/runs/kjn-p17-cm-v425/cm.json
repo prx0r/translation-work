@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "amṛtaṃ",
-   "morph": "n.acc.sg.n",
-   "grounds": "amṛta with accusative ending -m"
+   "morph": "n.acc.sg",
+   "grounds": "direct object described further by following compounds"
   },
   {
    "lemma": "kaulasadbhāvaṃ",
-   "morph": "n.acc.sg.m",
-   "grounds": "kaula plus sadbhāva with accusative ending -m"
+   "morph": "kaula+sadbhāva, m.acc.sg",
+   "grounds": "compound in apposition to 'amṛtaṃ'"
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.act.impv + root śru",
-   "grounds": "imperative form of root śru"
+   "morph": "2.sg.imp.act (√śru)",
+   "grounds": "command addressed to the listener"
   },
   {
    "lemma": "kāmakalātmakam",
-   "morph": "adj.acc.sg.n",
-   "grounds": "kāma plus kalā plus ātmaka with accusative ending -m"
+   "morph": "kāma+kalā+ātmaka, m.acc.sg",
+   "grounds": "compound adjective qualifying 'kaulasadbhāvaṃ'"
   }
  ]
 }

@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: vijñāna+first-member",
+   "grounds": "first member of compound naming unfolding"
   },
   {
    "lemma": "unmīlanam",
-   "morph": "n.nom.sg",
-   "grounds": "knowledge-unfolding"
+   "morph": "compound: unmīlana+second-member, n.nom.sg",
+   "grounds": "subject denoting awakening of knowledge"
   },
   {
    "lemma": "bhadre",
@@ -20,12 +20,12 @@
   {
    "lemma": "bhavati",
    "morph": "3.sg.present-active √bhū",
-   "grounds": "comes to be"
+   "grounds": "verb stating the result"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "in this way"
+   "grounds": "adverb indicating manner"
   },
   {
    "lemma": "na",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "anya",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound: anya+first-member",
+   "grounds": "first member describing alternative service"
   },
   {
    "lemma": "sevanāt",
-   "morph": "n.abl.sg",
-   "grounds": "other-service"
+   "morph": "compound: sevana+second-member, n.abl.sg",
+   "grounds": "ablative indicating excluded means"
   }
  ]
 }

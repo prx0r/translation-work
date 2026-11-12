@@ -7,39 +7,39 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "amṛta with accusative ending -m",
-     "morph": "n.acc.sg.n"
+     "grounds": "direct object described further by following compounds",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-nature",
-     "grounds": "kaula plus sadbhāva with accusative ending -m",
-     "morph": "n.acc.sg.m"
+     "grounds": "compound in apposition to 'amṛtaṃ'",
+     "morph": "kaula+sadbhāva, m.acc.sg"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative form of root śru",
-     "morph": "2.sg.act.impv + root śru"
+     "grounds": "command addressed to the listener",
+     "morph": "2.sg.imp.act (√śru)"
     },
     {
      "surface": "kāmakalātmakam",
-     "gloss": "desire-art-consisting",
-     "grounds": "kāma plus kalā plus ātmaka with accusative ending -m",
-     "morph": "adj.acc.sg.n"
+     "gloss": "desire-art-consisting-of",
+     "grounds": "compound adjective qualifying 'kaulasadbhāvaṃ'",
+     "morph": "kāma+kalā+ātmaka, m.acc.sg"
     }
    ],
-   "question": "What is the nectar-like true nature of Kaula that one is commanded to hear?",
+   "question": "What essential character defines the Kaula nectar that the listener is commanded to hear?",
    "premises": [
-    "The verse commands hearing.",
-    "Kaula true nature is nectar.",
-    "It consists of desire-art."
+    "The teaching presents a nectar identified as the true nature of Kaula.",
+    "This Kaula true nature is characterized as consisting of kāmakalā.",
+    "The listener is directly commanded to hear this teaching."
    ],
-   "inference": "The listener should hear Kaula's true nature as nectar composed of kāmakalā.",
+   "inference": "The Kaula nectar to be heard is the true Kaula essence whose nature is kāmakalā.",
    "uncertainties": [
-    "The exact syntactic relation of kāmakalātmakam to kaulasadbhāvaṃ is inferred."
+    "The precise doctrinal nuance of 'kāmakalā' in this context is not fully specified by the verse alone."
    ],
-   "plain_english": "Hear the nectar, the true nature of Kaula, which consists of kāmakalā."
+   "plain_english": "Hear of the nectar, the true nature of Kaula, which consists of Kāmakalā."
   }
  ]
 }
