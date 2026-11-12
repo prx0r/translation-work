@@ -19,8 +19,12 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "sāpi",
-"quick_gloss": "she+also"
+"surface": "sā",
+"quick_gloss": "she"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "nirañjanā",
@@ -36,20 +40,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nā",
+"surface": "nāsā",
 "quick_gloss": "nose"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "nā",
-"quick_gloss": "nose"
-},
-{
-"surface": "sā",
-"quick_gloss": "she"
 }
 ]
 },
@@ -69,20 +61,32 @@
 "quick_gloss": "of-all"
 },
 {
-"surface": "yāpi",
-"quick_gloss": "who+also"
+"surface": "yā",
+"quick_gloss": "who"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "nāseti",
-"quick_gloss": "destroys+thus"
+"quick_gloss": "destroys"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "kāpyanumīyate'tra",
-"quick_gloss": "some+also+is-inferred+here"
+"surface": "kāpi",
+"quick_gloss": "some"
+},
+{
+"surface": "anumīyate",
+"quick_gloss": "is-inferred"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 }
 ]
 },
@@ -93,18 +97,6 @@
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
-{
-"surface": "cakṣuḥ",
-"quick_gloss": "eye"
-},
-{
-"surface": "cakṣuḥ",
-"quick_gloss": "eye"
-},
-{
-"surface": "cakṣuḥ",
-"quick_gloss": "eye"
-},
 {
 "surface": "cakṣuḥ",
 "quick_gloss": "eye"
@@ -119,16 +111,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prīterekanidānaṃ",
-"quick_gloss": "of-joy+sole+cause"
+"surface": "prīteḥ",
+"quick_gloss": "of-joy"
+},
+{
+"surface": "ekanidānaṃ",
+"quick_gloss": "one+cause"
 },
 {
 "surface": "sā",
 "quick_gloss": "she"
 },
 {
-"surface": "cakṣurity",
-"quick_gloss": "eye+thus"
+"surface": "cakṣuḥ",
+"quick_gloss": "eye"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "abhidhīyate",
@@ -144,20 +144,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sparśa",
+"surface": "sparśavatī",
 "quick_gloss": "touch-possessing"
-},
-{
-"surface": "vatī",
-"quick_gloss": "possessing"
-},
-{
-"surface": "sparśa",
-"quick_gloss": "touch-possessing"
-},
-{
-"surface": "vatī",
-"quick_gloss": "possessing"
 }
 ]
 },
@@ -174,11 +162,15 @@
 },
 {
 "surface": "kvāpi",
-"quick_gloss": "anywhere"
+"quick_gloss": "somewhere"
 },
 {
-"surface": "kadāpyeṣā",
+"surface": "kadāpi",
 "quick_gloss": "ever"
+},
+{
+"surface": "eṣā",
+"quick_gloss": "this"
 },
 {
 "surface": "satī",
@@ -202,19 +194,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ra",
-"quick_gloss": "taste"
-},
-{
-"surface": "sā",
-"quick_gloss": "taste"
-},
-{
-"surface": "ra",
-"quick_gloss": "taste"
-},
-{
-"surface": "sā",
+"surface": "rasā",
 "quick_gloss": "taste"
 }
 ]
@@ -239,7 +219,7 @@
 "quick_gloss": "she"
 },
 {
-"surface": "rasayed",
+"surface": "rasayet",
 "quick_gloss": "may-make-taste"
 },
 {
@@ -260,20 +240,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gandha",
+"surface": "gandhapriyā",
 "quick_gloss": "fragrance-loving"
-},
-{
-"surface": "priyā",
-"quick_gloss": "loving"
-},
-{
-"surface": "gandha",
-"quick_gloss": "fragrance-loving"
-},
-{
-"surface": "priyā",
-"quick_gloss": "loving"
 }
 ]
 },
@@ -318,20 +286,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su",
+"surface": "sugandhā",
 "quick_gloss": "well-fragrant"
-},
-{
-"surface": "gandhā",
-"quick_gloss": "fragrant"
-},
-{
-"surface": "su",
-"quick_gloss": "well-fragrant"
-},
-{
-"surface": "gandhā",
-"quick_gloss": "fragrant"
 }
 ]
 },
@@ -343,20 +299,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sugandhāstu",
-"quick_gloss": "well-fragrant+indeed"
+"surface": "sugandhā",
+"quick_gloss": "well-fragrant"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "bhavodbhūte",
 "quick_gloss": "in-world+arisen"
 },
 {
-"surface": "māyādurgandha",
-"quick_gloss": "māyā+bad-smell"
-},
-{
-"surface": "hārikā",
-"quick_gloss": "remover"
+"surface": "māyādurgandhahārikā",
+"quick_gloss": "māyā+bad-smell+remover"
 }
 ]
 },
@@ -368,20 +324,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su",
+"surface": "susparśā",
 "quick_gloss": "good-touch"
-},
-{
-"surface": "sparśā",
-"quick_gloss": "touch"
-},
-{
-"surface": "su",
-"quick_gloss": "good-touch"
-},
-{
-"surface": "sparśā",
-"quick_gloss": "touch"
 }
 ]
 },
@@ -394,11 +338,15 @@
 "tokens": [
 {
 "surface": "yatpādareṇusaṃsparśāt",
-"quick_gloss": "by-whose+foot+dust+touch"
+"quick_gloss": "by-whose+foot+dust+contact"
 },
 {
-"surface": "susparśāstu",
-"quick_gloss": "good-touch+be"
+"surface": "susparśā",
+"quick_gloss": "good-touch"
+},
+{
+"surface": "astu",
+"quick_gloss": "may-be"
 },
 {
 "surface": "śivāya",
@@ -406,7 +354,7 @@
 },
 {
 "surface": "vaḥ",
-"quick_gloss": "for-you"
+"quick_gloss": "of-you"
 }
 ]
 },
@@ -418,20 +366,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mano",
+"surface": "manogatiḥ",
 "quick_gloss": "mind-going"
-},
-{
-"surface": "gatiḥ",
-"quick_gloss": "going"
-},
-{
-"surface": "mano",
-"quick_gloss": "mind-going"
-},
-{
-"surface": "gatiḥ",
-"quick_gloss": "going"
 }
 ]
 },
@@ -444,7 +380,7 @@
 "tokens": [
 {
 "surface": "tyākhyā",
-"quick_gloss": "called"
+"quick_gloss": "thus-called"
 },
 {
 "surface": "devī",
@@ -456,7 +392,7 @@
 },
 {
 "surface": "me",
-"quick_gloss": "in-my"
+"quick_gloss": "my"
 },
 {
 "surface": "manasi",
@@ -467,8 +403,16 @@
 "quick_gloss": "may-dwell"
 },
 {
-"surface": "vāsaraśrīrivārke",
-"quick_gloss": "like-daylight+splendor"
+"surface": "vāsaraśrīḥ",
+"quick_gloss": "day+splendor"
+},
+{
+"surface": "iva",
+"quick_gloss": "as"
+},
+{
+"surface": "arke",
+"quick_gloss": "in-sun"
 }
 ]
 },
@@ -480,20 +424,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛga",
+"surface": "mṛganābhiḥ",
 "quick_gloss": "musk"
-},
-{
-"surface": "nābhiḥ",
-"quick_gloss": "navel"
-},
-{
-"surface": "mṛga",
-"quick_gloss": "musk"
-},
-{
-"surface": "nābhiḥ",
-"quick_gloss": "navel"
 }
 ]
 },
@@ -506,11 +438,11 @@
 "tokens": [
 {
 "surface": "ghrāṇaikamārgaṃ",
-"quick_gloss": "nose+sole+path"
+"quick_gloss": "nose+only+path"
 },
 {
 "surface": "vidadhāti",
-"quick_gloss": "makes"
+"quick_gloss": "creates"
 },
 {
 "surface": "cetaḥ",
@@ -525,12 +457,12 @@
 "quick_gloss": "she"
 },
 {
-"surface": "mṛganābhir",
+"surface": "mṛganābhiḥ",
 "quick_gloss": "musk"
 },
 {
 "surface": "āryaiḥ",
-"quick_gloss": "by-the-noble"
+"quick_gloss": "by-noble-ones"
 }
 ]
 },
@@ -542,20 +474,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mṛga",
+"surface": "mṛgākṣī",
 "quick_gloss": "deer-eyed"
-},
-{
-"surface": "akṣī",
-"quick_gloss": "eyed"
-},
-{
-"surface": "mṛga",
-"quick_gloss": "deer-eyed"
-},
-{
-"surface": "akṣī",
-"quick_gloss": "eyed"
 }
 ]
 },
@@ -567,8 +487,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "seyaṃ",
+"surface": "sā",
 "quick_gloss": "this"
+},
+{
+"surface": "iyaṃ",
+"quick_gloss": "here"
 },
 {
 "surface": "kāpi",
@@ -583,7 +507,7 @@
 "quick_gloss": "for-us"
 },
 {
-"surface": "bhūyād",
+"surface": "bhūyāt",
 "quick_gloss": "may-be"
 },
 {
@@ -604,20 +528,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karpūrāmoda",
-"quick_gloss": "camphor+fragrance"
-},
-{
-"surface": "dhāriṇī",
-"quick_gloss": "bearing"
-},
-{
-"surface": "karpūrāmoda",
-"quick_gloss": "camphor+fragrance"
-},
-{
-"surface": "dhāriṇī",
-"quick_gloss": "bearing"
+"surface": "karpūrāmodadhāriṇī",
+"quick_gloss": "camphor+fragrance+bearing"
 }
 ]
 },
@@ -630,15 +542,15 @@
 "tokens": [
 {
 "surface": "vinaśyati",
-"quick_gloss": "is-destroyed"
+"quick_gloss": "may-perish"
 },
 {
-"surface": "śivāyāstu",
+"surface": "śivāya",
 "quick_gloss": "for-welfare"
 },
 {
-"surface": "karpūrāmodadhāriṇī",
-"quick_gloss": "camphor+fragrance+bearing"
+"surface": "astu",
+"quick_gloss": "may-be"
 },
 {
 "surface": "karpūrāmodadhāriṇī",
@@ -654,20 +566,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "padma",
+"surface": "padmayoniḥ",
 "quick_gloss": "lotus-born"
-},
-{
-"surface": "yoniḥ",
-"quick_gloss": "womb"
-},
-{
-"surface": "padma",
-"quick_gloss": "lotus-born"
-},
-{
-"surface": "yoniḥ",
-"quick_gloss": "womb"
 }
 ]
 },
@@ -679,12 +579,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yonipraveśadurveśa",
-"quick_gloss": "womb+entry+bad-appearance"
-},
-{
-"surface": "mukhaṃ",
-"quick_gloss": "face"
+"surface": "yonipraveśadurveśamukhaṃ",
+"quick_gloss": "womb+entry+bad-state+face"
 },
 {
 "surface": "duḥkhaṃ",

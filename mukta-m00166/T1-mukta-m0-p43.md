@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[drunk](pītā) [imbibed](pītā) [yellow](pītā) [consumed](pītā)
+[drunk](pītā) [yellow](pītā) [imbibed](pītā) [she](pītā)
 
 ## mukta-m0-p43-v1052
-[sung](gītā) [drunk](pītā) [for-welfare](hitāya) [may-she-be](astu) [mother](mātā) [shining](bhātā) [of-the-good](satāṃ) [in-the-heart](hṛdi)
+[sung](gītā) [drunk](pītā) [for-welfare](hitāya) [may-be](astu) [mother](mātā) [shining](bhātā) [of-the-good](satāṃ) [in-the-heart](hṛdi)
 
 ## mukta-m0-p43-v1053
-[variegated](karburā) [spotted](karburā) [tawny](karburā) [multicolored](karburā)
+[variegated](karburā) [spotted](karburā) [tawny](karburā) [she](karburā)
 
 ## mukta-m0-p43-v1054
-[variegated](karburā) [goddess](devatā) [may-she-be](bhūyād) [worldly-existence](bhava) + [burden](bhāra) + [remover](apahāriṇī)
+[variegated](karburā) [goddess](devatā) [may-be](bhūyād) [worldly+burden+removing](bhava+bhāra+apahāriṇī)
 
 ## mukta-m0-p43-v1055
-[hunger](kṣudhā) [appetite](kṣudhā) [craving](kṣudhā) [need](kṣudhā)
+[hunger](kṣudhā) [appetite](kṣudhā) [craving](kṣudhā) [she](kṣudhā)
 
 ## mukta-m0-p43-v1056
-[hunger](kṣudhā) [goddess](devī) [triumphs](jayati) [this](eṣā) [all](sarva) + [elements](dhātu) + [one](eka) + [seed](bīja) + [source](bhūḥ)
+[hunger](kṣudhā) [goddess](devī) [triumphs](jayati) [this](eṣā) [all+elements+one+seed+becoming](sarva+dhātu+eka+bīja+bhūḥ)
 
 ## mukta-m0-p43-v1057
-[thirst](tṛṣṇā) [craving](tṛṣṇā) [desire](tṛṣṇā) [longing](tṛṣṇā)
+[thirst](tṛṣṇā) [craving](tṛṣṇā) [desire](tṛṣṇā) [she](tṛṣṇā)
 
 ## mukta-m0-p43-v1058
-[by-whom](yat) + [impelled](nunnaḥ) [ocean](abdhi) + [drying-up](viśoṣa) + [sole](eka) + [cause](hetuḥ) [thirst](tṛṣṇā) [triumphs](jayati) [that](asau)
+[by-whom+impelled](yat+nunnaḥ) [ocean+drying+sole+cause](abdhi+viśoṣa+eka+hetus) [thirst](tṛṣṇā) [triumphs](jayati) [that](asau)
 
 ## mukta-m0-p43-v1059
-[by-old-age](jarā) + [grown-old](vṛddhā) [aged](jarāvṛddhā) [ancient](jarāvṛddhā) [senescent](jarāvṛddhā)
+[by-old-age+aged](jarā+vṛddhā) [old](jarā+vṛddhā) [aged](jarā+vṛddhā) [she](jarā+vṛddhā)
 
 ## mukta-m0-p43-v1060
-[wonder](citraṃ) [she](sā) + [even](api) [by-old-age](jarā) + [grown-old](vṛddhā) [may-make](kriyāt) [my](mama) [old-age](jarā) + [ageless](jarām)
+[wonder](citraṃ) [she+also](sā+api) [by-old-age+aged](jarā+vṛddhā) [may-make](kriyāt) [of-me](mama) [old-age+free](jarā+ajarām)
 
 ## mukta-m0-p43-v1061
-[young-woman](taruṇī) [maiden](taruṇī) [youthful](taruṇī) [girl](taruṇī)
+[young-woman](taruṇī) [maiden](taruṇī) [youthful](taruṇī) [she](taruṇī)
 
 ## mukta-m0-p43-v1062
-[of-the-young-woman](taruṇyāḥ) [supreme](paraṃ) [smile](hāsya) + [mere](mātra) + [favor](prasādaḥ)
+[of-the-young-woman](taruṇyāḥ) [supreme](paraṃ) [smile+mere+grace](hāsya+mātra+prasādaḥ)
 
 ## mukta-m0-p43-v1063
-[compassion](karuṇā) + [abode](ālayā) [merciful](karuṇālayā) [compassionate-one](karuṇālayā) [ocean-of-mercy](karuṇālayā)
+[compassion+abode](karuṇā+ālayā) [merciful](karuṇā+ālayā) [compassionate](karuṇā+ālayā) [she](karuṇā+ālayā)
 
 ## mukta-m0-p43-v1064
-[you-remove-far](dūrīkaroṣi) [because](yat) [not](na) + [therefore](ataḥ) [you-are-sung](gīyase) [compassion](karuṇā) + [abode](ālayā)
+[you-remove-far](dūrīkaroṣi) [because](yat) [not](na) [therefore](ataḥ) [you-are-sung](gīyase) [as-compassion+abode](karuṇā+ālayā)
 
 ## mukta-m0-p43-v1065
-[art](kalā) [digit](kalā) [skill](kalā) [part](kalā)
+[art](kalā) [digit](kalā) [part](kalā) [she](kalā)
 
 ## mukta-m0-p43-v1066
-[with-all-parts](sakalā) [not](na) [in-control](vaśe) [how](kiṃ) [would-be](syuḥ) [hand](kara) + [garland](mālā) + [equal](atulāḥ) [arts](kalāḥ)
+[all](sakalā) [not](na) [in-control](vaśe) [how](kiṃ) [may-be](syuḥ) [hand+garland+equal](kara+mālā+tulāḥ) [arts](kalāḥ)
 
 ## mukta-m0-p43-v1067
-[instant](kāṣṭhā) [measure-of-time](kāṣṭhā) [limit](kāṣṭhā) [direction](kāṣṭhā)
+[instant](kāṣṭhā) [measure](kāṣṭhā) [limit](kāṣṭhā) [she](kāṣṭhā)
 
 ## mukta-m0-p43-v1068
-[may-perish](naśyet) [in-a-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [instant](kāṣṭhā) + [thus](iti) + [of-her](asyāḥ) [by-grace](prasādataḥ)
+[may-perish](naśyet) [in-a-moment](kṣaṇena) [of-devotees](bhaktānāṃ) [instant](kāṣṭhā) [thus](iti) [of-her](asyāḥ) [by-grace](prasādataḥ)
 
 ## mukta-m0-p43-v1069
-[moment](muhūrtā) [short-time](muhūrtā) [auspicious-time](muhūrtā) [instant](muhūrtā)
+[moment](muhūrtā) [period](muhūrtā) [instant](muhūrtā) [she](muhūrtā)
 
 ## mukta-m0-p43-v1070
-[own-form](svarūpaṃ) [celebrated](prathitā) [on-earth](bhūmau) [moment](muhūrtā) + [may-be](astu) [for-welfare](śivāya) [of-you](vaḥ)
+[own-form](svarūpaṃ) [celebrated](prathitā) [on-earth](bhūmau) [moment](muhūrtā) [may-be](astu) [for-welfare](śivāya) [of-you](vaḥ)
 
 ## mukta-m0-p43-v1071
-[twinkling](nimeṣā) [blink](nimeṣā) [instant](nimeṣā) [moment](nimeṣā)
+[twinkling](nimeṣā) [instant](nimeṣā) [moment](nimeṣā) [she](nimeṣā)
 
 ## mukta-m0-p43-v1072
-[twinkling](nimeṣā) + [may-be](astu) [supreme-goddess](pareśānī) [special](viśeṣa) + [entire](aśeṣa) + [prosperity](bhūti) + [giver](dā)
+[twinkling](nimeṣā) [may-be](astu) [supreme+goddess](para+īśānī) [special+entire+prosperity+giving](viśeṣa+aśeṣa+bhūti+dā)
 
 ## mukta-m0-p43-v1073
-[time](kāla) + [form](rūpiṇī) [embodiment-of-time](kālarūpiṇī) [time-formed](kālarūpiṇī) [temporal-form](kālarūpiṇī)
+[time+form](kāla+rūpiṇī) [time-embodied](kāla+rūpiṇī) [temporal](kāla+rūpiṇī) [she](kāla+rūpiṇī)
 
 ## mukta-m0-p43-v1074
-[planet](graha) + [zodiac-sign](rāśi) + [circle](bhacakra) + [by-which](kā) + [measurable](anumeyā) [celebrated](prathitā) [she](sā) [indeed](kila) [time](kāla) + [form](rūpiṇī) + [thus](iti)
+[planet+zodiac+circle+by-measurable](graha+rāśi+bha+cakra+kā+anumeyā) [celebrated](prathitā) [she](sā) [indeed](kila) [time+form](kāla+rūpiṇī) [thus](iti)
 
 ## mukta-m0-p43-v1075
-[beautiful](su) + [ear](karṇa) + [tongue](rasanā) [fair-eared-tongued](sukarṇarasanā) [lovely-eared](sukarṇarasanā) [sweet-tongued](sukarṇarasanā)
+[beautiful+ear+tongue](su+karṇa+rasanā) [fair-eared-tongued](su+karṇa+rasanā) [auspicious](su+karṇa+rasanā) [she](su+karṇa+rasanā)
