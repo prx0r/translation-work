@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 335,
- "question": "What disqualifying lack of devotion characterizes the person under discussion?",
+ "question": "What disqualifying lack of devotion excludes a person from receiving this teaching?",
  "premises": [
-  "A person may lack devotion to the kula",
-  "A person may lack devotion to the guru",
-  "Both lacks are specified together"
+  "Absence of devotion to the kula is specified",
+  "Absence of devotion to the guru is specified",
+  "Both lacks are presented as conditions of exclusion"
  ],
- "inference": "The person in question is devoid of devotion to both the kula and the guru.",
- "uncertainties": [],
- "plain_english": "In one who is devoid of devotion to the kula and deprived of devotion to the guru."
+ "inference": "Therefore, one devoid of devotion to both kula and guru is disqualified.",
+ "uncertainties": [
+  "The consequence is completed in subsequent verses"
+ ],
+ "plain_english": "But in one who is devoid of devotion to the Kula and deprived of devotion to the Guru."
 }
