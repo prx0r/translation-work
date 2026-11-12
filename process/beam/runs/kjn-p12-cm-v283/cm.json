@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "yoginī",
-   "morph": "compound:yoginī+gaṇa",
+   "morph": "compound",
    "grounds": "first member of compound"
   },
   {
    "lemma": "gaṇa",
-   "morph": "compound:yoginī+gaṇa+madhyastham",
-   "grounds": "second member of compound"
+   "morph": "compound",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "madhyasthaṃ",
    "morph": "m.acc.sg",
-   "grounds": "adjective, accusative singular"
+   "grounds": "yogini-group-middle-situated"
   },
   {
    "lemma": "sa",
@@ -25,17 +25,17 @@
   {
    "lemma": "paśuḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject, nominative singular"
+   "grounds": "sacrificial victim"
   },
   {
    "lemma": "kīrtitaṃ",
-   "morph": "n.nom.sg.ppp √kīrt",
-   "grounds": "past passive participle"
+   "morph": "n.nom.sg.past-passive-participle √kīrt",
+   "grounds": "declared in tradition"
   },
   {
    "lemma": "kule",
    "morph": "n.loc.sg",
-   "grounds": "location, locative singular"
+   "grounds": "in the Kula tradition"
   }
  ]
 }

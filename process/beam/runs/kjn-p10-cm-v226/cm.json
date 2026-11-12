@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound-member",
-   "grounds": "first member of pair with mukti"
+   "morph": "compound=bhukti+first",
+   "grounds": "first member of compound with mukti"
   },
   {
    "lemma": "mukti",
-   "morph": "compound-member",
-   "grounds": "second member of pair with bhukti"
+   "morph": "compound=mukti+second",
+   "grounds": "second member of compound with mahā"
   },
   {
    "lemma": "mahā",
-   "morph": "compound-member",
-   "grounds": "qualifies siddhiḥ"
+   "morph": "compound=mahā+third",
+   "grounds": "third member of compound with siddhiḥ"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject of becoming dear"
+   "grounds": "subject of bhavet"
   },
   {
    "lemma": "yoginīnāṃ",
@@ -34,7 +34,7 @@
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-act √bhū",
+   "morph": "3.sg.act-optative/√bhū",
    "grounds": "expresses potential result"
   }
  ]

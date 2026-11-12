@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "kula",
-   "morph": "compound:kula+vijñāna",
+   "morph": "compound",
    "grounds": "first member of compound"
   },
   {
    "lemma": "vijñāna",
-   "morph": "compound:kula+vijñāna+saṃbhogāt",
-   "grounds": "second member of compound"
+   "morph": "compound",
+   "grounds": "kula-knowledge"
   },
   {
    "lemma": "saṃbhogāt",
    "morph": "m.abl.sg",
-   "grounds": "final member of compound, ablative singular"
+   "grounds": "from experience or union"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṇ+māsāt",
-   "grounds": "numeral, first member of compound"
+   "morph": "compound",
+   "grounds": "numeral in compound"
   },
   {
    "lemma": "māsāt",
    "morph": "m.abl.sg",
-   "grounds": "second member of compound, ablative singular"
+   "grounds": "six-months"
   },
   {
    "lemma": "siddhi",
-   "morph": "compound:siddhi+bhājanaḥ",
+   "morph": "compound",
    "grounds": "first member of compound"
   },
   {
    "lemma": "bhājanaḥ",
    "morph": "m.nom.sg",
-   "grounds": "second member of compound, nominative singular"
+   "grounds": "accomplishment-recipient"
   }
  ]
 }

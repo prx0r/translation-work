@@ -7,20 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viprāḥ",
+"surface": "viprā",
 "quick_gloss": "brahmin"
 },
 {
-"surface": "vipra+itarāḥ",
-"quick_gloss": "other-than-twice-born"
+"surface": "vipretarāḥ",
+"quick_gloss": "other-than-brahmin"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "ca+eva",
+"quick_gloss": "and+indeed"
 },
 {
 "surface": "sarve",
@@ -48,7 +44,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tam",
+"surface": "taṃ",
 "quick_gloss": "that"
 },
 {
@@ -73,7 +69,7 @@
 },
 {
 "surface": "iti+ādi",
-"quick_gloss": "thus-etcetera"
+"quick_gloss": "thus+beginning"
 },
 {
 "surface": "|| 136",
@@ -97,7 +93,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "svam",
+"surface": "svaṃ",
 "quick_gloss": "own"
 },
 {
@@ -105,7 +101,7 @@
 "quick_gloss": "wealth"
 },
 {
-"surface": "ātmānam",
+"surface": "ātmānaṃ",
 "quick_gloss": "self"
 },
 {
@@ -144,7 +140,7 @@
 },
 {
 "surface": "iti+ādi",
-"quick_gloss": "thus-etcetera"
+"quick_gloss": "thus+beginning"
 }
 ]
 },
@@ -157,7 +153,7 @@
 "tokens": [
 {
 "surface": "iti+ādinā",
-"quick_gloss": "thus-etcetera"
+"quick_gloss": "thus+beginning"
 },
 {
 "surface": "atra",
@@ -190,7 +186,7 @@
 },
 {
 "surface": "nirvikalpaḥ",
-"quick_gloss": "free-from-concepts"
+"quick_gloss": "free-from-conceptions"
 },
 {
 "surface": "mantrasya",
@@ -230,7 +226,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "devāḥ",
+"surface": "devā",
 "quick_gloss": "gods"
 },
 {
@@ -256,7 +252,7 @@
 },
 {
 "surface": "brahma+bhūtāḥ",
-"quick_gloss": "become-brahman"
+"quick_gloss": "brahman-become"
 },
 {
 "surface": "parama+ātma",
@@ -276,7 +272,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svīya+mantram",
+"surface": "svīya+mantraṃ",
 "quick_gloss": "own-mantra"
 },
 {
@@ -314,7 +310,7 @@
 },
 {
 "surface": "bhāgineyān",
-"quick_gloss": "to-sister's-sons"
+"quick_gloss": "sister's-sons"
 },
 {
 "surface": "ca",
@@ -351,10 +347,10 @@
 },
 {
 "surface": "iti+ādinā",
-"quick_gloss": "thus-etcetera"
+"quick_gloss": "thus+beginning"
 },
 {
-"surface": "aham",
+"surface": "ahaṃ",
 "quick_gloss": "I"
 },
 {
@@ -459,7 +455,7 @@
 "tokens": [
 {
 "surface": "brahma+bhūtaḥ",
-"quick_gloss": "become-brahman"
+"quick_gloss": "brahman-become"
 },
 {
 "surface": "naraḥ",
@@ -470,8 +466,12 @@
 "quick_gloss": "pure"
 },
 {
-"surface": "puṇya+pāpaiḥ",
-"quick_gloss": "by-merit-and-sin"
+"surface": "puṇya",
+"quick_gloss": "merit"
+},
+{
+"surface": "pāpaiḥ",
+"quick_gloss": "and-sins"
 },
 {
 "surface": "na",
@@ -491,8 +491,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sva+sva+varṇa",
-"quick_gloss": "own-class"
+"surface": "sva+sva",
+"quick_gloss": "own"
+},
+{
+"surface": "varṇa",
+"quick_gloss": "caste"
 },
 {
 "surface": "uttama",
@@ -541,7 +545,7 @@
 },
 {
 "surface": "brahma+jñān",
-"quick_gloss": "brahman-knowers"
+"quick_gloss": "brahman-knowledge"
 },
 {
 "surface": "brahma+dīkṣitān",
@@ -569,8 +573,12 @@
 "quick_gloss": "as-long-as"
 },
 {
-"surface": "bhāskara+tārakam",
-"quick_gloss": "sun-and-stars"
+"surface": "bhāskara",
+"quick_gloss": "sun"
+},
+{
+"surface": "tārakam",
+"quick_gloss": "and-stars"
 }
 ]
 },
@@ -586,11 +594,11 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "koṭi+guṇam",
+"surface": "koṭi+guṇaṃ",
 "quick_gloss": "ten-million-times"
 },
 {
-"surface": "pāpam",
+"surface": "pāpaṃ",
 "quick_gloss": "sin"
 },
 {
@@ -612,7 +620,7 @@
 "tokens": [
 {
 "surface": "iti+ādi",
-"quick_gloss": "thus-etcetera"
+"quick_gloss": "thus+beginning"
 },
 {
 "surface": "yaḥ",
@@ -653,7 +661,7 @@
 },
 {
 "surface": "tatpuruṣaḥ",
-"quick_gloss": "tatpuruṣa-compound"
+"quick_gloss": "tatpuruṣa"
 }
 ]
 },
@@ -673,8 +681,12 @@
 "quick_gloss": "others"
 },
 {
-"surface": "kṣatriya+ādayaḥ",
-"quick_gloss": "kṣatriya-and-others"
+"surface": "kṣatriya",
+"quick_gloss": "kṣatriya"
+},
+{
+"surface": "ādayaḥ",
+"quick_gloss": "and-others"
 }
 ]
 },
@@ -690,8 +702,8 @@
 "quick_gloss": "they-go"
 },
 {
-"surface": "brahma+sāyujyam",
-"quick_gloss": "union-with-brahman"
+"surface": "brahma+sāyujyaṃ",
+"quick_gloss": "brahman-union"
 },
 {
 "surface": "tathaiva",

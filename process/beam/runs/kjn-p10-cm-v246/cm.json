@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.present-middle √kṛ",
+   "morph": "3.sg.mid-present/√kṛ",
    "grounds": "states the result achieved"
   },
   {
    "lemma": "amaratvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "attainment produced"
+   "grounds": "object attained"
   },
   {
    "lemma": "hi",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "satata",
-   "morph": "compound-member",
-   "grounds": "qualifies practice"
+   "morph": "compound=satata+first",
+   "grounds": "first member of compound with abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound-member",
-   "grounds": "means of attainment"
+   "morph": "compound=abhyāsa+second",
+   "grounds": "second member of compound with tatparaḥ"
   },
   {
    "lemma": "tatparaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes dedication to practice"
+   "grounds": "describes the practitioner devoted to constant practice"
   }
  ]
 }

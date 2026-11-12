@@ -1,13 +1,14 @@
 {
  "song": "kjn-p04",
  "verse": 93,
- "question": "How many kinds of wheels are identified in these bodily locations?",
+ "question": "How many wheels are identified and what is their general petal characterization?",
  "premises": [
-  "The wheels are described as eleven-fold.",
-  "The wheels are addressed to the goddess.",
-  "The wheels are thousand-petalled."
+  "The wheels are elevenfold.",
+  "The wheels are described as thousand-petalled."
  ],
- "inference": "There are eleven kinds of thousand-petalled wheels in these locations.",
- "uncertainties": [],
+ "inference": "There are eleven wheels, characterized as thousand-petalled.",
+ "uncertainties": [
+  "The agreement of sahasrikā with neuter plural cakrāṇi is grammatically irregular."
+ ],
  "plain_english": "O goddess, there are eleven kinds of wheels, and they are thousand-petalled."
 }

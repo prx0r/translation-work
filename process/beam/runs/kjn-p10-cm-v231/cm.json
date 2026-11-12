@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound-member",
-   "grounds": "qualifies the place"
+   "morph": "compound=guhya+first",
+   "grounds": "first member of compound with sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "location identified with the wheel"
+   "grounds": "subject described as cakraṃ"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "introduces manner or explanation"
+   "grounds": "introduces manner or comparison"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subject that is accomplished"
+   "grounds": "identifies the secret place"
   },
   {
    "lemma": "kṣipraṃ",
@@ -29,7 +29,7 @@
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.present-act √sidh",
+   "morph": "3.sg.act-present/√sidh",
    "grounds": "states the result"
   },
   {
