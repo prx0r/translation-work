@@ -1,14 +1,12 @@
 {
  "song": "kjn-p04",
  "verse": 87,
- "question": "What physical rejuvenation results from the wheel-based visualization described above?",
+ "question": "What physical rejuvenation results from the wheel-based visualization?",
  "premises": [
   "The practitioner becomes free from wrinkles and grey hair.",
-  "The practitioner becomes devoid of all disease."
+  "The practitioner becomes free from all diseases."
  ],
- "inference": "This visualization frees one from wrinkles, grey hair, and all diseases.",
- "uncertainties": [
-  "The gender/case agreement between the two tokens is slightly irregular as given."
- ],
- "plain_english": "One becomes freed from wrinkles and grey hair, and devoid of all diseases."
+ "inference": "This visualization results in rejuvenation and freedom from all diseases.",
+ "uncertainties": [],
+ "plain_english": "One becomes freed from wrinkles and grey hair and devoid of all diseases."
 }

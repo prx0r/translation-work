@@ -16,7 +16,7 @@
 },
 {
 "surface": "ajñātvā",
-"quick_gloss": "not-having-known"
+"quick_gloss": "without-knowing"
 },
 {
 "surface": "yaḥ",
@@ -90,7 +90,7 @@
 },
 {
 "surface": "bhaktimatāṃ",
-"quick_gloss": "of-devoted-ones"
+"quick_gloss": "of-devotees"
 },
 {
 "surface": "jānānām",
@@ -111,7 +111,7 @@
 },
 {
 "surface": "āplutasya",
-"quick_gloss": "of-one-immersed"
+"quick_gloss": "of-immersed"
 }
 ]
 },
@@ -158,15 +158,11 @@
 "tokens": [
 {
 "surface": "śaśvat",
-"quick_gloss": "of-ever"
+"quick_gloss": "always"
 },
 {
-"surface": "amṛta",
-"quick_gloss": "nectar"
-},
-{
-"surface": "āpluta",
-"quick_gloss": "immersed"
+"surface": "amṛta+āpluta",
+"quick_gloss": "nectar-immersed"
 },
 {
 "surface": "śītalasya",
@@ -199,12 +195,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaddha",
-"quick_gloss": "bound"
-},
-{
-"surface": "dṛṣṭim",
-"quick_gloss": "sight"
+"surface": "vaddha+dṛṣṭim",
+"quick_gloss": "fixed-gaze"
 }
 ]
 },
@@ -280,16 +272,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parama",
-"quick_gloss": "with-supreme"
-},
-{
-"surface": "amṛta",
-"quick_gloss": "nectar"
+"surface": "parama+amṛta",
+"quick_gloss": "supreme-nectar"
 },
 {
 "surface": "aktam",
-"quick_gloss": "smeared"
+"quick_gloss": "anointed"
 }
 ]
 },
@@ -301,12 +289,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirmala",
-"quick_gloss": "with-pure"
-},
-{
-"surface": "sūkti",
-"quick_gloss": "good-speech"
+"surface": "nirmala+sūkti",
+"quick_gloss": "pure-utterance"
 },
 {
 "surface": "bhāra",
@@ -314,7 +298,7 @@
 },
 {
 "surface": "bharitā",
-"quick_gloss": "filled"
+"quick_gloss": "filled-with"
 },
 {
 "surface": "jāgarti",
@@ -359,7 +343,7 @@
 },
 {
 "surface": "ālambitāyām",
-"quick_gloss": "when-resorted-to"
+"quick_gloss": "supported"
 }
 ]
 },
@@ -384,15 +368,15 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "goddess"
 },
 {
 "surface": "dadāsi",
 "quick_gloss": "give"
 },
 {
-"surface": "karuṇā+ākare",
-"quick_gloss": "O-abode-of-compassion"
+"surface": "karuṇā+kare",
+"quick_gloss": "O-compassionate-one"
 }
 ]
 },
@@ -404,12 +388,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cit",
-"quick_gloss": "in-consciousness"
-},
-{
-"surface": "viśrānti",
-"quick_gloss": "repose"
+"surface": "cit+viśrānti",
+"quick_gloss": "consciousness-repose"
 },
 {
 "surface": "mahā+sattā",
@@ -446,11 +426,11 @@
 "tokens": [
 {
 "surface": "guṇa+traya",
-"quick_gloss": "of-three-qualities"
+"quick_gloss": "three-qualities"
 },
 {
 "surface": "ātmikā",
-"quick_gloss": "nature"
+"quick_gloss": "consisting-of"
 },
 {
 "surface": "asi",
@@ -466,7 +446,7 @@
 },
 {
 "surface": "karaṇa",
-"quick_gloss": "for-creation"
+"quick_gloss": "creation"
 },
 {
 "surface": "icchayā",
@@ -491,14 +471,14 @@
 },
 {
 "surface": "nitya+pūjā",
-"quick_gloss": "in-daily-worship"
+"quick_gloss": "daily-worship"
 },
 {
 "surface": "yuktasya",
 "quick_gloss": "engaged"
 },
 {
-"surface": "parameśvari",
+"surface": "parama+īśvari",
 "quick_gloss": "O-supreme-goddess"
 }
 ]
@@ -512,7 +492,7 @@
 "tokens": [
 {
 "surface": "tāpa+traya",
-"quick_gloss": "of-three-afflictions"
+"quick_gloss": "three-afflictions"
 },
 {
 "surface": "parimlāna",
@@ -598,7 +578,7 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "goddess"
 },
 {
 "surface": "kṣamasva",
@@ -635,7 +615,7 @@
 },
 {
 "surface": "jagat+dhātri",
-"quick_gloss": "O-world-bearer"
+"quick_gloss": "world-supporter"
 },
 {
 "surface": "kṣantavyam",
@@ -647,7 +627,7 @@
 },
 {
 "surface": "añjaliḥ",
-"quick_gloss": "folded-hands"
+"quick_gloss": "salutation"
 }
 ]
 },
