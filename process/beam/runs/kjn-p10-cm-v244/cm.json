@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound:balī+palita",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming signs of aging"
   },
   {
    "lemma": "palita",
-   "morph": "compound:balī+palita",
-   "grounds": "signs of aging"
+   "morph": "compound-member",
+   "grounds": "second member of compound naming signs of aging"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "removal"
+   "grounds": "head noun denoting removal of aging signs"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of continuation"
+   "grounds": "particle connecting listed powers"
   },
   {
    "lemma": "sudūrāt",
    "morph": "(indecl.)",
-   "grounds": "at great distance"
+   "grounds": "ablative adverb indicating distant perception"
   },
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "vision"
+   "grounds": "noun denoting the power of distant vision"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "also"
+   "grounds": "adverb linking additional power"
   }
  ]
 }

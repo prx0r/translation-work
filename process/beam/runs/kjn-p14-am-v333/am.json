@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 333,
- "question": "What kind of wondrous teaching is the goddess asked to hear?",
+ "question": "What wondrous teaching is the goddess invited to hear next?",
  "premises": [
-  "The goddess is addressed to hear",
-  "The teaching is wondrous and causes great amazement"
+  "The goddess is addressed directly",
+  "She is asked to listen",
+  "The teaching causes great wonder"
  ],
- "inference": "The goddess is invited to hear a supremely wondrous teaching",
+ "inference": "The goddess is invited to hear a wondrous teaching that causes great amazement.",
  "uncertainties": [
-  "tvamadbhutaṃ is a fused form; parsing as tvam adbhutam is possible"
+  "The fused form tvamadbhutaṃ combines address and object."
  ],
- "plain_english": "Hear, O goddess, this wondrous teaching that causes great amazement."
+ "plain_english": "Hear, O Goddess, this wondrous teaching that causes great amazement."
 }
