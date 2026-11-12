@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "indecl.",
-   "grounds": "legacy hint in-candra-dvīpa"
+   "morph": "compound=candra+first",
+   "grounds": "first member of compound with dvīpa"
   },
   {
    "lemma": "dvīpa",
-   "morph": "n.nom.sg",
-   "grounds": "legacy hint island"
+   "morph": "compound=dvīpa+second",
+   "grounds": "second member of compound with candra"
   },
   {
    "lemma": "vinirgate",
-   "morph": "part",
-   "grounds": "legacy hint emerged"
+   "morph": "n.loc.sg",
+   "grounds": "describes the context of emergence"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "legacy hint ninth"
+   "grounds": "qualifies paṭalaḥ"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "legacy hint chapter"
+   "grounds": "subject of the colophon statement"
   }
  ]
 }

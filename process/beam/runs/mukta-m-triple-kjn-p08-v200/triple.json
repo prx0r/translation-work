@@ -7,7 +7,7 @@
     {
      "surface": "labhati",
      "gloss": "obtains",
-     "grounds": "expresses attainment or acquisition",
+     "grounds": "expresses attainment of the desired result",
      "morph": "3.sg.pres.act √labh"
     },
     {
@@ -19,43 +19,43 @@
     {
      "surface": "na",
      "gloss": "no",
-     "grounds": "negates the existence of doubt",
+     "grounds": "negates the following noun",
      "morph": "(indecl.)"
     },
     {
      "surface": "sandehaḥ",
      "gloss": "doubt",
-     "grounds": "names uncertainty as absent",
+     "grounds": "names uncertainty that is excluded",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vividhaṃ",
      "gloss": "various",
-     "grounds": "qualifies the desired object as diverse",
+     "grounds": "qualifies the desired object as manifold",
      "morph": "n.acc.sg"
     },
     {
      "surface": "yat",
      "gloss": "whatever",
-     "grounds": "introduces the scope of desired things",
-     "morph": "n.nom.sg"
+     "grounds": "relative pronoun introducing the desired object",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "samīhitam",
      "gloss": "desired",
-     "grounds": "denotes what is wished for or intended",
-     "morph": "n.nom.sg ppp √sam-īh"
+     "grounds": "denotes what is intended or wished for",
+     "morph": "n.acc.sg ppp √sam-īh"
     }
    ],
-   "question": "What certainty accompanies the attainment of diverse desired outcomes?",
+   "question": "Is attainment of whatever various goals are desired guaranteed without doubt?",
    "premises": [
-    "The agent obtains the desired outcome.",
-    "The desired outcome may be various in kind.",
-    "No doubt exists regarding this attainment."
+    "The verb labhati asserts actual attainment of an outcome.",
+    "The phrase na sandehaḥ explicitly excludes doubt about this attainment.",
+    "The object vividhaṃ yat samīhitam refers to any various desired goal."
    ],
-   "inference": "Whatever diverse thing is desired is certainly obtained.",
+   "inference": "Therefore, one certainly attains whatever various goal is desired, without any doubt.",
    "uncertainties": [
-    "The implicit subject of labhati is not explicitly stated in this verse."
+    "The subject of labhati is implicit and understood from the preceding context."
    ],
    "plain_english": "One indeed obtains whatever various thing is desired; there is no doubt."
   }

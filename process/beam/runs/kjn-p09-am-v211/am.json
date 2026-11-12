@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 211,
- "question": "What textual division concludes at this point in the Candradvīpa teaching?",
+ "question": "What locative origin is assigned to the eighth chapter in this colophonic statement?",
  "premises": [
-  "The context is the Candradvīpa emergence",
-  "The division is numbered eighth",
-  "The division is a chapter"
+  "The eighth chapter is the subject.",
+  "It is said to have emerged in Candradvīpa.",
+  "The location qualifies its origin."
  ],
- "inference": "This marks the end of the eighth chapter in the Candradvīpa section.",
- "uncertainties": [],
- "plain_english": "In the teaching that emerged in Candradvīpa, this is the eighth chapter."
+ "inference": "The eighth chapter emerged in Candradvīpa.",
+ "uncertainties": [
+  "The historical sense of 'emerged' is not specified by this verse alone."
+ ],
+ "plain_english": "The eighth chapter, emerged in Candradvīpa, is here."
 }

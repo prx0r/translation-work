@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 212,
- "question": "What new topic is the speaker about to explain to the beloved listener?",
+ "question": "What arrangement does the speaker promise to tell to the beloved one?",
  "premises": [
-  "The speaker intends to tell something",
-  "The topic is the arrangement of yoginī rows",
-  "The listener is addressed as beloved"
+  "The speaker promises to tell something.",
+  "That something is the arrangement of the row of yoginīs.",
+  "It is told to the beloved one."
  ],
- "inference": "The speaker will now explain the arrangement of the rows of yoginīs.",
- "uncertainties": [],
- "plain_english": "O beloved, I shall tell you the arrangement of the rows of yoginīs."
+ "inference": "The speaker will tell the beloved one the arrangement of the row of yoginīs.",
+ "uncertainties": [
+  "The details of that arrangement are not given in this verse."
+ ],
+ "plain_english": "I shall tell you, O beloved one, the arrangement of the row of yoginīs."
 }

@@ -1,14 +1,13 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "What chapter emerges after candra dvipa?",
+ "question": "Which chapter concludes in the section on the moon island?",
  "premises": [
-  "Candra dvipa has emerged.",
-  "The ninth chapter follows."
+  "The context is emergence in the moon island",
+  "A chapter is identified by ordinal number",
+  "The ninth chapter is named"
  ],
- "inference": "The ninth chapter is named after that emergence.",
- "uncertainties": [
-  "Exact chapter scope is unclear."
- ],
- "plain_english": "After candra dvipa emerges, the ninth chapter is named."
+ "inference": "The ninth chapter concludes in the section that has emerged in the moon island.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the ninth chapter in the section on the moon island."
 }

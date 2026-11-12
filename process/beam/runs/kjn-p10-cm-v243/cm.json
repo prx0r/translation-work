@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "tṛtīyam",
-   "morph": "adj.acc.sg",
-   "grounds": "token as given"
+   "morph": "n.nom.sg",
+   "grounds": "qualifies mahā cakraṃ"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "mahā",
-   "morph": "adj.nom.sg",
-   "grounds": "token as given"
+   "morph": "compound=mahā+first",
+   "grounds": "first member of compound with cakraṃ"
   },
   {
    "lemma": "cakraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "token as given"
+   "morph": "n.nom.sg",
+   "grounds": "subject described as liberator"
   },
   {
    "lemma": "nava",
-   "morph": "num.indecl.",
-   "grounds": "token as given"
+   "morph": "compound=nava+first",
+   "grounds": "first member of compound with tattva"
   },
   {
    "lemma": "tattva",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "morph": "compound=tattva+second",
+   "grounds": "second member of compound with pramocakaḥ"
   },
   {
    "lemma": "pramocakaḥ",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "morph": "m.nom.sg",
+   "grounds": "predicate describing cakraṃ"
   }
  ]
 }

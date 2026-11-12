@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "num",
-   "grounds": "legacy hint eight"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of compound with aṣṭaka"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "num",
-   "grounds": "legacy hint eight"
+   "morph": "compound=aṣṭaka+second",
+   "grounds": "second member of compound with aṣṭa"
   },
   {
    "lemma": "vibhāgam",
    "morph": "m.acc.sg",
-   "grounds": "legacy hint division"
+   "grounds": "object to be fully known"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "legacy hint and"
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
   },
   {
    "lemma": "parijñātum",
-   "morph": "inf",
-   "grounds": "legacy hint to-know-fully"
+   "morph": "infinitive/√jñā",
+   "grounds": "expresses purpose of knowing"
   },
   {
    "lemma": "anantathā",
-   "morph": "indecl.",
-   "grounds": "legacy hint endlessly"
+   "morph": "(indecl.)",
+   "grounds": "indicates the manner or extent of knowing"
   }
  ]
 }

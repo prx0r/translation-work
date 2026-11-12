@@ -1,13 +1,15 @@
 {
  "song": "kjn-p07",
  "verse": 163,
- "question": "What special knowledge is declared to the beloved of yoginis?",
+ "question": "What special knowledge is declared to the beloved of the yoginis?",
  "premises": [
-  "A specific knowledge is named",
-  "It concerns arresting greying hair",
-  "It is declared to the addressee"
+  "A specific knowledge is declared",
+  "It concerns arresting grey hair",
+  "The addressee is the beloved of yoginis"
  ],
- "inference": "The knowledge of arresting grey hair is declared to the beloved of yoginis.",
- "uncertainties": [],
+ "inference": "The knowledge of arresting grey hair has been declared to the beloved of the yoginis.",
+ "uncertainties": [
+  "connection to the previous verse’s actions is implied but not explicit"
+ ],
  "plain_english": "O beloved of the yoginis, the knowledge of arresting grey hair has been declared."
 }

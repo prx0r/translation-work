@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "num",
-   "grounds": "legacy hint eight"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of compound with āraṃ"
   },
   {
    "lemma": "āraṃ",
-   "morph": "adj",
-   "grounds": "legacy hint spoked"
+   "morph": "compound=āraṃ+second",
+   "grounds": "describes paṅkajaṃ"
   },
   {
    "lemma": "paṅkajaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "legacy hint lotus"
+   "morph": "n.acc.sg",
+   "grounds": "object of visualization"
   },
   {
    "lemma": "divyaṃ",
-   "morph": "adj",
-   "grounds": "legacy hint divine"
+   "morph": "n.acc.sg",
+   "grounds": "qualifies paṅkajaṃ"
   },
   {
    "lemma": "prathama",
-   "morph": "adj",
-   "grounds": "legacy hint by-first"
+   "morph": "compound=prathama+first",
+   "grounds": "first member of compound with aṣṭaka"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "n.ins.sg",
-   "grounds": "legacy hint octad"
+   "morph": "compound=aṣṭaka+second",
+   "grounds": "second member of compound with prathama"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "part",
-   "grounds": "legacy hint adorned"
+   "morph": "n.acc.sg",
+   "grounds": "describes paṅkajaṃ"
   }
  ]
 }

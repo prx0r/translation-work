@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "morph": "compound=satata+first",
+   "grounds": "first member of compound with abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "n.instr.sg",
-   "grounds": "token as given"
+   "morph": "compound=abhyāsa+second",
+   "grounds": "second member of compound with yogena"
   },
   {
    "lemma": "yogena",
-   "morph": "n.instr.sg",
-   "grounds": "token as given"
+   "morph": "m.ins.sg",
+   "grounds": "means of attaining the result"
   },
   {
    "lemma": "dvi",
-   "morph": "num.indecl.",
-   "grounds": "token as given"
+   "morph": "compound=dvi+first",
+   "grounds": "first member of compound with aṣṭa"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "num.indecl.",
-   "grounds": "token as given"
+   "morph": "compound=aṣṭa+second",
+   "grounds": "second member of compound with varṣa"
   },
   {
    "lemma": "varṣa",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "morph": "compound=varṣa+third",
+   "grounds": "third member of compound with ākṛtiḥ"
   },
   {
    "lemma": "ākṛtiḥ",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "morph": "f.nom.sg",
+   "grounds": "subject of bhavet"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act.opt root bhū",
-   "grounds": "token as given"
+   "morph": "3.sg.act-optative/√bhū",
+   "grounds": "main verb expressing the result"
   }
  ]
 }

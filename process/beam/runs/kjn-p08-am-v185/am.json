@@ -1,13 +1,15 @@
 {
  "song": "kjn-p08",
  "verse": 185,
- "question": "How many goddesses situated at secondary seats constitute the abode of siddhas?",
+ "question": "How many are situated at the secondary seat as the abode of goddesses and siddhas?",
  "premises": [
-  "There are seven goddesses",
-  "They are situated at secondary seats",
-  "They form the abode of siddhas"
+  "There are seven situated at the secondary seat",
+  "They are associated with goddesses",
+  "They constitute a siddha abode"
  ],
- "inference": "Seven goddesses at the secondary seats constitute the siddha abode.",
- "uncertainties": [],
- "plain_english": "Seven goddesses situated at the secondary seats form the abode of the siddhas."
+ "inference": "Seven situated at the secondary seat form the siddha abode of the goddesses.",
+ "uncertainties": [
+  "syntactic relation between devīnāṃ and siddha-ālayam is ambiguous"
+ ],
+ "plain_english": "Seven, situated at the secondary seat, are the siddha abode of the goddesses."
 }

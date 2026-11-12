@@ -7,58 +7,57 @@
     {
      "surface": "aśītiṃ",
      "gloss": "eighty",
-     "grounds": "number eighty in accusative",
-     "morph": "num.acc.sg"
+     "grounds": "numeral indicating quantity",
+     "morph": "f.acc.sg"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "causative of naś, third singular active present",
-     "morph": "verb.3sg.act-caus-pres"
+     "grounds": "verb expressing removal or elimination",
+     "morph": "3.sg.opt.act √naś"
     },
     {
      "surface": "vātān",
      "gloss": "winds",
-     "grounds": "wind, accusative plural",
+     "grounds": "bodily winds or wind disorders as object",
      "morph": "m.acc.pl"
     },
     {
      "surface": "kuṣṭha",
      "gloss": "leprosy",
-     "grounds": "first member of compound kuṣṭha-vyādhim",
-     "morph": "compound.member"
+     "grounds": "first member of compound naming the disease",
+     "morph": "compound-member"
     },
     {
      "surface": "vyādhim",
      "gloss": "disease",
-     "grounds": "disease, accusative singular",
+     "grounds": "second member and head of compound as object",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle",
+     "grounds": "particle adding emphasis or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "causative of naś, third singular active present",
-     "morph": "verb.3sg.act-caus-pres"
+     "grounds": "repeated verb reinforcing elimination",
+     "morph": "3.sg.opt.act √naś"
     }
    ],
-   "question": "What bodily afflictions does this practice destroy, and in what number?",
+   "question": "Which specific winds and disease does the described practice claim to eliminate?",
    "premises": [
-    "eighty winds are destroyed",
-    "leprosy disease is destroyed",
-    "practice has purifying effect"
+    "The practice destroys eighty winds.",
+    "The practice destroys the disease of leprosy.",
+    "The verb nāśayet is repeated for emphasis."
    ],
-   "inference": "The rite destroys eighty winds and leprosy disease.",
+   "inference": "The described practice is claimed to eliminate eighty wind disorders and the disease of leprosy.",
    "uncertainties": [
-    "kuṣṭha may modify vyādhim as compound",
-    "exact ritual context is not stated"
+    "Whether vātān refers to literal winds or specific bodily wind disorders is context-dependent."
    ],
-   "plain_english": "It destroys eighty winds and indeed destroys leprosy disease."
+   "plain_english": "It destroys the eighty winds, and indeed destroys the disease of leprosy."
   }
  ]
 }

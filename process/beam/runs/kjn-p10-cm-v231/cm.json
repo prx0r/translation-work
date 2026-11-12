@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "adj",
-   "grounds": "legacy hint secret"
+   "morph": "compound=guhya+first",
+   "grounds": "first member of compound with sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "legacy hint place"
+   "morph": "n.acc.sg",
+   "grounds": "subject described as cakraṃ"
   },
   {
    "lemma": "yathā",
-   "morph": "indecl.",
-   "grounds": "legacy hint as"
+   "morph": "(indecl.)",
+   "grounds": "introduces the manner or identity"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "legacy hint wheel"
+   "grounds": "identifies the secret place"
   },
   {
    "lemma": "kṣipraṃ",
-   "morph": "indecl.",
-   "grounds": "legacy hint quickly"
+   "morph": "(indecl.)",
+   "grounds": "modifies sidhyati"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.pres.act root sidh",
-   "grounds": "legacy hint is-accomplished"
+   "morph": "3.sg.act-present/√sidh",
+   "grounds": "main verb stating the result"
   },
   {
    "lemma": "bhairava",
-   "morph": "voc.sg",
-   "grounds": "legacy hint o-bhairava"
+   "morph": "m.voc.sg",
+   "grounds": "vocative address"
   }
  ]
 }

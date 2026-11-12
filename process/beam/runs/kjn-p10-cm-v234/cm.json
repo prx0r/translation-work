@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "ṣakāraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "legacy hint syllable-ṣa"
+   "morph": "m.acc.sg",
+   "grounds": "object located in the throat region"
   },
   {
    "lemma": "kaṇṭha",
-   "morph": "n.loc.sg",
-   "grounds": "legacy hint in-throat-region"
+   "morph": "compound=kaṇṭha+first",
+   "grounds": "first member of compound with deśe"
   },
   {
    "lemma": "deśe",
-   "morph": "n.loc.sg",
-   "grounds": "legacy hint region"
+   "morph": "m.loc.sg",
+   "grounds": "location for ṣakāraṃ"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "legacy hint and"
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
    "lemma": "śakāraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "legacy hint syllable-śa"
+   "morph": "m.acc.sg",
+   "grounds": "object located in the heart"
   },
   {
    "lemma": "hṛdaye",
    "morph": "n.loc.sg",
-   "grounds": "legacy hint in-the-heart"
+   "grounds": "location for śakāraṃ"
   },
   {
    "lemma": "tadā",
-   "morph": "indecl.",
-   "grounds": "legacy hint then"
+   "morph": "(indecl.)",
+   "grounds": "indicates the stage of placement"
   }
  ]
 }

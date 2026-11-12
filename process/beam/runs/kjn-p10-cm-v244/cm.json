@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "morph": "compound=balī+first",
+   "grounds": "first member of compound with palita"
   },
   {
    "lemma": "palita",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "morph": "compound=palita+second",
+   "grounds": "second member of compound with nāśam"
   },
   {
    "lemma": "nāśam",
-   "morph": "n.acc.sg",
-   "grounds": "token as given"
+   "morph": "m.acc.sg",
+   "grounds": "first attainment named"
   },
   {
    "lemma": "tu",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
    "lemma": "sudūrāt",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "morph": "(indecl.)",
+   "grounds": "modifies darśanam"
   },
   {
    "lemma": "darśanam",
-   "morph": "n.nom.sg",
-   "grounds": "token as given"
+   "morph": "n.acc.sg",
+   "grounds": "second attainment named"
   },
   {
    "lemma": "tathā",
-   "morph": "indecl.",
-   "grounds": "token as given"
+   "morph": "(indecl.)",
+   "grounds": "connective indicating addition"
   }
  ]
 }

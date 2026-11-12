@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "vahni",
-   "morph": "indecl.",
-   "grounds": "legacy hint by-fire"
+   "morph": "compound=vahni+first",
+   "grounds": "first member of compound with nāveṣṭita"
   },
   {
    "lemma": "nāveṣṭita",
-   "morph": "part",
-   "grounds": "legacy hint surrounded"
+   "morph": "compound=nāveṣṭita+second",
+   "grounds": "describes ātmānam as encircled by fire"
   },
   {
    "lemma": "ātmānam",
    "morph": "m.acc.sg",
-   "grounds": "legacy hint self"
+   "grounds": "object of visualization or description"
   },
   {
    "lemma": "eka",
-   "morph": "num",
-   "grounds": "legacy hint on-one"
+   "morph": "compound=eka+first",
+   "grounds": "first member of compound with pādena"
   },
   {
    "lemma": "pādena",
    "morph": "m.ins.sg",
-   "grounds": "legacy hint foot"
+   "grounds": "indicates the posture of standing"
   },
   {
    "lemma": "saṃsthitam",
-   "morph": "part",
-   "grounds": "legacy hint standing"
+   "morph": "m.acc.sg",
+   "grounds": "describes ātmānam"
   }
  ]
 }

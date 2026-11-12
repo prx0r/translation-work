@@ -1,13 +1,13 @@
 {
  "song": "kjn-p08",
  "verse": 192,
- "question": "Which goddesses are named as part of this enumerated group?",
+ "question": "Which goddesses are named together in this enumerated pair?",
  "premises": [
   "Varahi is named",
-  "Varahi is described as thunderbolt-handed",
-  "Yogeshvari is likewise named"
+  "Varahi is thunderbolt-handed",
+  "Yogeshvari is named likewise"
  ],
- "inference": "Varahi, the thunderbolt-handed, and Yogeshvari are named in this group.",
+ "inference": "The pair named consists of thunderbolt-handed Varahi and Yogeshvari.",
  "uncertainties": [],
- "plain_english": "Varahi, who holds the thunderbolt, and likewise Yogeshvari."
+ "plain_english": "Varahi, thunderbolt-handed, and likewise Yogeshvari are named."
 }
