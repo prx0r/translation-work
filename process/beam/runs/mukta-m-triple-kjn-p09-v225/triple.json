@@ -7,20 +7,20 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral compound referring to count",
-     "morph": "fem.nom.sg"
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "thousands",
-     "grounds": "locative plural of numeral",
-     "morph": "neut.loc.pl"
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "womb-diagrams",
      "grounds": "locative compound referring to womb-mechanisms",
-     "morph": "neut.loc.pl"
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
@@ -29,18 +29,17 @@
      "morph": "3.pl.pass-perf"
     }
    ],
-   "question": "By what count and in what locations are certain beings said to endure torment in this enumeration?",
+   "question": "Under what condition are beings tormented within the eighty-four thousand womb-diagrams?",
    "premises": [
-    "Eighty-four is given as a fixed numerical count.",
-    "Thousands are specified as the measure of those locations.",
-    "Womb-diagrams are named as the specific locations in question.",
-    "Those present in those locations are described as tormented."
+    "A count of eighty-four thousand is specified.",
+    "Those units are identified as womb-diagrams.",
+    "Beings are described as being tormented there."
    ],
-   "inference": "A total of eighty-four thousand womb-diagrams are the locations in which those beings are tormented.",
+   "inference": "Beings endure torment within the eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The identity of the beings tormented is not specified by these tokens alone."
+    "The agent causing the torment remains unspecified."
    ],
-   "plain_english": "Eighty-four thousand womb-diagrams are the places where they are tormented."
+   "plain_english": "Eighty-four thousand womb-diagrams hold tormented beings."
   }
  ]
 }

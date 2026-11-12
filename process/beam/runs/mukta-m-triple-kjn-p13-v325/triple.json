@@ -7,42 +7,44 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "points to the hidden true nature as the object of knowledge",
-     "morph": "pron.m.acc.sg"
+     "grounds": "demonstrative pointing to the hidden true nature",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "expresses the prior act of realization leading to the result",
-     "morph": "absolutive (jñā)"
+     "grounds": "absolutive expressing prior act of knowing",
+     "morph": "gerund (jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound denoting the concealed essential reality that is known",
-     "morph": "compound m.acc.sg (gūḍha+sadbhāva)"
+     "grounds": "compound denoting a concealed essential reality",
+     "morph": "compound m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "names the state that comes into being",
+     "grounds": "state of complete knowledge",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "states the emergence of all-knowingness as the outcome",
-     "morph": "3.sg.pres.middle (pra-jan)"
+     "grounds": "verb indicating coming into being",
+     "morph": "3.sg.present.middle (pra-jan)"
     }
    ],
-   "question": "What state arises from knowing the hidden true nature?",
+   "question": "What state arises from knowing that hidden true nature?",
    "premises": [
-    "The hidden true nature can be known.",
-    "Knowing that hidden true nature is a decisive act.",
-    "All-knowingness arises as a result of that knowing."
+    "There exists a hidden true nature.",
+    "That hidden true nature can be known.",
+    "Knowing it produces a resulting state."
    ],
-   "inference": "Realization of the hidden true nature produces all-knowingness.",
-   "uncertainties": [],
+   "inference": "Knowing that hidden true nature gives rise to all-knowingness.",
+   "uncertainties": [
+    "The referent of taṃ may draw on the immediately preceding context."
+   ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
  ]
