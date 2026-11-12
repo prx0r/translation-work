@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[in-divine](divye) [or-in-hero-best](vīra+vare) [or](vāpi) [not](na) [fault](doṣaḥ) [here](atra) [by-Śiva's-command](śiva+ājñayā)
+[in-divine](divye) [or-in-supreme-hero](vīra+vare) [or](vāpi) [not](na) [fault](doṣaḥ) [here](atra) [by-Śiva's-command](śiva+ājñayā)
 
 ## mukta-m0-p08-v177
 [tell](vada) [to-me](me) [O-supreme-lord](parama+īśāna) [to-hear](śrotuṃ) [my](me) [mind](cittam) [eager](utsukam)
 
 ## mukta-m0-p08-v178
-[divine](divyaḥ) [all-mind-captivating](sarva+manaḥ+hārī) [measured-speech](mita+vādī) [steady-seated](sthira+āsanaḥ)
+[divine](divyaḥ) [all-mind-captivating](sarva+manaḥ+hārī) [measured-speaker](mita+vādī) [steady-seated](sthira+āsanaḥ)
 
 ## mukta-m0-p08-v179
-[at-guru's-feet-lotus](guru+pāda+ambuje) [reverent](bhīruḥ) [everywhere](sarvatra) [fear-devoid](bhaya+varjitaḥ)
+[at-guru's-foot-lotus](guru+pāda+ambuje) [reverent](bhīruḥ) [everywhere](sarvatra) [devoid-of-fear](bhaya+varjitaḥ)
 
 ## mukta-m0-p08-v180
-[with-all-qualities-endowed](sarva+guṇa+anvitaḥ) [divine](divyaḥ) [that](saḥ) [I](aham) [what](kiṃ) [with-much-talk](bahu+vākyataḥ)
+[endowed-with-all-qualities](sarva+guṇa+anvitaḥ) [divine](divyaḥ) [that-I-am](saḥ+aham) [what](kiṃ) [with-much-talk](bahu+vākyataḥ)
 
 ## mukta-m0-p08-v181
 [talkative](vācālaḥ) [strong](balavān) [pure](śuddhaḥ) [in-five-elements](pañca+tattve) [always](sadā) [delight](ratiḥ)
 
 ## mukta-m0-p08-v182
-[great-minded](mahā+āśayaḥ) [always](sadā) [O-goddess](devi) [of-good-people](sādhūnāṃ) [in-protection](pālane) [devoted](rataḥ)
+[noble-minded](mahā+āśayaḥ) [always](sadā) [O-goddess](devi) [of-the-good](sādhūnāṃ) [in-protection](pālane) [devoted](rataḥ)
 
 ## mukta-m0-p08-v183
-[thus](evaṃ) [with-many-qualities-endowed](bahu+guṇaiḥ+yuktaḥ) [hero](vīraḥ) [Rudra](rudraḥ) [himself](svayaṃ) [O-beloved](priye)
+[thus](evaṃ) [endowed-with-many-qualities](bahu+guṇaiḥ+yuktaḥ) [hero](vīraḥ) [Rudra](rudraḥ) [himself](svayaṃ) [O-beloved](priye)
 
 ## mukta-m0-p08-v184
-[lowly](adhamān) [sin-minded](pāpa+cittān) [and](ca) [five-element-revilers](pañca+tattva+vinindakān)
+[lowly](adhamān) [and-evil-minded](pāpa+cittān+ca) [and-revilers-of-five-elements](pañca+tattva+vinindakān)
 
 ## mukta-m0-p08-v185
-[some](kecit) [donkey-like](khara+upamāḥ) [fallen](bhraṣṭāḥ) [some](kecit) [and](ca) [pig-like](śūkara+upamāḥ)
+[some](kecit) [like-donkeys](khara+upamāḥ) [fallen](bhraṣṭāḥ) [and-some](kecit+ca) [like-pigs](śūkara+upamāḥ)
 
 ## mukta-m0-p08-v186
-[of-these](eṣāṃ) [goddess-worship](devī+arcanam) [success](siddhiḥ) [or-counting](gaṇanam) [or](vā) [whence](kutaḥ) [could-be](bhavet)
+[of-these](eṣāṃ) [worship-of-goddess](devī+arcanam) [attainment](siddhiḥ) [or-counting](gaṇanaṃ) [or](vā) [whence](kutaḥ) [could-be](bhavet)
 
 ## mukta-m0-p08-v187
-[excluded](varjitāḥ) [in-every-way](sarvathā) [O-fair-one](bhadre) [from-supreme-goal-expelled](parama+artha+bahiṣkṛtāḥ)
+[excluded](varjitāḥ) [in-every-way](sarvathā) [O-auspicious-one](bhadre) [expelled-from-supreme-truth](parama+artha+bahiṣkṛtāḥ)
 
 ## mukta-m0-p08-v188
-[low](kṣudraḥ) [indeed](hi) [animal-state](paśu+bhāvaḥ) [and](ca) [declared](gaditaḥ) [which](yat) [by-self](svayaṃ) [always](sadā)
+[low](kṣudraḥ) [indeed](hi) [and-state-of-beast](paśu+bhāvaḥ+ca) [declared](gaditaḥ) [which](yat) [itself](svayaṃ) [always](sadā)
 
 ## mukta-m0-p08-v189
-[deity](devatā) [not](na) [indeed](eva) [knows](jānāti) [therefore](tasmāt) [offered](samarpitam) [not](na) [indeed](hi)
+[deity](devatā) [not-at-all](na+eva) [knows](jānāti) [therefore](tasmāt) [offered](samarpitam) [not](na) [indeed](hi)
 
 ## mukta-m0-p08-v190
-[sun](sūryaḥ) [as](yathā) [destroys](samāhanti) [darkness](cāndhakāram) [in-moment](kṣaṇāt) [even](api)
+[sun](sūryaḥ) [as](yathā) [destroys](samāhanti) [and-darkness](ca+andhakāraṃ) [even-in-a-moment](kṣaṇāt+api)
 
 ## mukta-m0-p08-v191
-[which](yaḥ) [declared](uktaḥ) [animal-state](paśu+bhāvaḥ) [indeed](hi) [in-Kali-age](kalau) [who](kaḥ) [of-that](tasya) [protector](pālakaḥ)
+[which](yaḥ) [declared](uktaḥ) [state-of-beast](paśu+bhāvaḥ) [indeed](hi) [in-Kali-age](kalau) [who](kaḥ) [its](tasya) [protector](pālakaḥ)
 
 ## mukta-m0-p08-v192
-[by-Śiva](śivena) [spoken](gaditam) [what](yat) [indeed](tu) [that](tat) [truth](satyam) [thus](iti) [considering](bhāvayan)
+[by-Śiva](śivena) [declared](gaditam) [which](yat) [but](tu) [that](tat) [as-truth](satyam+iti) [considering](bhāvayan)
 
 ## mukta-m0-p08-v193
-[his](tasya) [conduct](ācāram) [I-tell](vadāmi) [quickly](āśu) [hear](śṛṇu) [doubt-destroying](saṃśaya+nāśakam)
+[his-conduct](tasya+ācāram) [I-tell](vadāmi) [quickly](āśu) [listen](śṛṇu) [doubt-destroying](saṃśaya+nāśakam)
 
 ## mukta-m0-p08-v194
-[except-ritu-bathed](ṛtu+snātām) [without](vinā) [woman](nārīm) [with-desire-feeling](kāma+bhāvena) [indeed](hi) [should-touch](spṛśet)
+[without-ritually-bathed](ṛtu+snātām) [without](vinā) [woman](nārīm) [with-lustful-feeling](kāma+bhāvena) [indeed](hi) [should-touch](spṛśet)
 
 ## mukta-m0-p08-v195
-[should-abandon](saṃtyajet) [fish-and-meat](matsya+māṃsāni) [paśus](pāśavaḥ) [always](nityam) [indeed](eva) [and](ca)
+[should-abandon](saṃtyajet) [fish-and-meat](matsya+māṃsāni) [the-paśu](pāśavaḥ) [always](nityam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p08-v196
 [in-temple](deva+ālaye) [always](sadā) [should-stay](tiṣṭhet) [for-food](āhāra+artham) [to-house](gṛham) [should-go](vrajet)
 
 ## mukta-m0-p08-v197
-[sovereignty](aiśvaryam) [should-not-desire](prārthayet) [not](na) [indeed](eva) [if](yadi) [exists](asti) [that](tat) [indeed](tu) [not](na) [should-abandon](tyajet)
+[lordship](aiśvaryam) [should-not-pray-for](prārthayet+na+eva) [if-exists](yadi+asti) [that](tat) [but](tu) [not](na) [should-abandon](tyajet)
 
 ## mukta-m0-p08-v198
-[from-miserliness-and-treachery](kārpa+drohān) [should-cast-away](kṣipet) [all](sarvān) [egoism-etc](ahaṅkāra+ādikān) [then](tataḥ)
+[cruelty-and-treachery](kārpa+drohān) [should-cast-away](kṣipet) [all](sarvān) [ego-etc](ahaṅkāra+ādikān) [then](tataḥ)
 
 ## mukta-m0-p08-v199
-[ever](kadācit) [should-initiate](dīkṣayet) [not](na) [indeed](eva) [paśus](pāśavaḥ) [O-supreme-goddess](parama+īśvari)
+[ever](kadācit) [should-not-initiate](dīkṣayet+na+eva) [the-paśu](pāśavaḥ) [O-supreme-goddess](parama+īśvari)
 
 ## mukta-m0-p08-v200
-[from-ignorance](ajñānāt) [or](yadi) [or](vā) [from-greed](lobhāt) [mantra-giving](mantra+dānam) [does](karoti) [and](ca)
+[from-ignorance](ajñānāt) [if](yadi) [or](vā) [from-greed](lobhāt) [giving-of-mantra](mantra+dānam) [does](karoti) [and](ca)
