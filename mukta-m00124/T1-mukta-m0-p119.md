@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam) [gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam) [gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam) [gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam)
+[pillar+ring](nālikā) [support](andhārikā) [support](dhāra) [breast](hāra) [of+breast](urasya) [adornment](abhimaṇḍanam)
 
 ## mukta-m0-p119-v2952
-[gloss](śukanāsikayopetaṃ) [gloss](yuktaṃ) [gloss](pramukhamaṇṭapam) [gloss](śukanāsikayopetaṃ)
+[parrot+nose](śukanāsikayā) [endowed+with](upetam) [fitting](yuktam) [fore+hall](pramukhamaṇṭapam)
 
 ## mukta-m0-p119-v2953
-[gloss](tathā) [gloss](ṣaṭsaptabhaumaṃ) [gloss](triḥpañcatriḥ) [gloss](saptabhāgabhāk)
+[thus](tathā) [six+seven+storied](ṣaṭsaptabhaumam) [three+times+five+times](triḥpañcatriḥ) [seven+part+possessing](saptabhāgabhāk)
 
 ## mukta-m0-p119-v2954
-[gloss](saptadaśadviraṣṭāṃśanavāṣṭadaśakāṃśakam) [gloss](saptadaśadviraṣṭāṃśanavāṣṭadaśakāṃśakam) [gloss](saptadaśadviraṣṭāṃśanavāṣṭadaśakāṃśakam) [gloss](saptadaśadviraṣṭāṃśanavāṣṭadaśakāṃśakam)
+[seventeen+two+eight+part](saptadaśadviraṣṭāṃśa) [nine+eight+ten+part+possessing](navāṣṭadaśakāṃśakam)
 
 ## mukta-m0-p119-v2955
-[gloss](madhyakarṇavinirgacchatpramāṇabhavanānvitam) [gloss](madhyakarṇavinirgacchatpramāṇabhavanānvitam) [gloss](madhyakarṇavinirgacchatpramāṇabhavanānvitam) [gloss](madhyakarṇavinirgacchatpramāṇabhavanānvitam)
+[middle+ear](madhyakarṇa) [issuing+from](vinirgacchat) [measure](pramāṇa) [building+endowed+with](bhavanānvitam)
 
 ## mukta-m0-p119-v2956
-[gloss](yuktaṃ) [gloss](drāmiḍavinyāsaṃ) [gloss](nāgarakriyayānvitam) [gloss](yuktaṃ)
+[endowed+with](yuktam) [Drāvida+arrangement](drāmiḍavinyāsam) [Nāgara+practice+endowed+with](nāgarakriyayānvitam)
 
 ## mukta-m0-p119-v2957
-[gloss](sakhaṇḍākhaṇḍaharmyaṃ) [gloss](tu) [gloss](khaṇḍaharmyobhayātmakam) [gloss](sakhaṇḍākhaṇḍaharmyaṃ)
+[with+parts+without+parts](sakhaṇḍākhaṇḍaharmyam) [tu](tu) [parted+mansion+both+nature](khaṇḍaharmyobhayātmakam)
 
 ## mukta-m0-p119-v2958
-[gloss](evamādivicitrāṅgaṃ) [gloss](vimānaṃ) [gloss](nāma) [gloss](vesaram)
+[thus+beginning](evamādi) [variegated+limbed](vicitrāṅgam) [vimāna](vimānam) [name](nāma) [Vesara](vesaram)
 
 ## mukta-m0-p119-v2959
-[gloss](taduparyucitagrīvaśikharasthūpikānvitam) [gloss](taduparyucitagrīvaśikharasthūpikānvitam) [gloss](taduparyucitagrīvaśikharasthūpikānvitam) [gloss](taduparyucitagrīvaśikharasthūpikānvitam)
+[above+that](tadupari) [suitable+neck](ucitagrīva) [spire](śikhara) [finial+endowed+with](sthūpikānvitam)
 
 ## mukta-m0-p119-v2960
-[gloss](sādhāraṇatalāsaktakāyastambhaniveśanam) [gloss](sādhāraṇatalāsaktakāyastambhaniveśanam) [gloss](sādhāraṇatalāsaktakāyastambhaniveśanam) [gloss](sādhāraṇatalāsaktakāyastambhaniveśanam)
+[common+platform](sādhāraṇatala) [attached](āsakta) [body+pillar](kāyastambha) [arrangement](niveśanam)
 
 ## mukta-m0-p119-v2961
-[gloss](evamādyaṅgavaicitryaṃ) [gloss](varāṭaṃ) [gloss](dhāma) [gloss](sammatam)
+[thus+beginning](evamādi) [limb+variegation](aṅgavaicitryam) [Varāṭa](varāṭam) [abode](dhāma) [approved](sammatam)
 
 ## mukta-m0-p119-v2962
-[gloss](uttarādha) [gloss](upārohakriyāndhārikayānvitam) [gloss](uttarādha) [gloss](upārohakriyāndhārikayānvitam)
+[upper+lower](uttarādhaḥ) [superstructure+action](upārohakriyā) [andhārikā+endowed+with](andhārikayānvitam)
 
 ## mukta-m0-p119-v2963
-[gloss](caturaśrāṣṭavṛttābhaṃ) [gloss](grīvāśikharasaurabham) [gloss](caturaśrāṣṭavṛttābhaṃ) [gloss](grīvāśikharasaurabham)
+[four+sided+eight+circular+like](caturaśrāṣṭavṛttābham) [neck+spire](grīvāśikhara) [fragrant](saurabham)
 
 ## mukta-m0-p119-v2964
-[gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam) [gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam) [gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam) [gloss](nālikāndhārikādhārahārorasyābhimaṇḍanam)
+[pillar+ring](nālikā) [support](andhārikā) [support](dhāra) [breast](hāra) [of+breast](urasya) [adornment](abhimaṇḍanam)
 
 ## mukta-m0-p119-v2965
-[gloss](ṣaḍvidhākṛtiyuksadma) [gloss](sammataṃ) [gloss](sārvadeśikam) [gloss](ṣaḍvidhākṛtiyuksadma)
+[six+kinds+form](ṣaḍvidhākṛti) [endowed+with](yuk) [mansion](sadma) [approved](sammatam) [all+countries](sārvadeśikam)
 
 ## mukta-m0-p119-v2966
-[gloss](hastacchedaparīhāranyūnādhikasamīkṛtam) [gloss](hastacchedaparīhāranyūnādhikasamīkṛtam) [gloss](hastacchedaparīhāranyūnādhikasamīkṛtam) [gloss](hastacchedaparīhāranyūnādhikasamīkṛtam)
+[hand+cut](hastaccheda) [avoidance](parīhāra) [less+more](nyūnādhika) [made+equal](samīkṛtam)
 
 ## mukta-m0-p119-v2967
-[gloss](hastacchedeparīhṛtyairhṛtvā) [gloss](dhāmavidhānavit) [gloss](hastacchedeparīhṛtyairhṛtvā) [gloss](dhāmavidhānavit)
+[hand+cut](hastacchede) [avoiding](parīhṛtyaiḥ) [having+taken](hṛtvā) [abode+knowing](dhāmavidhāvit)
 
 ## mukta-m0-p119-v2968
-[gloss](labdhamātrāvihīnaṃ) [gloss](tu) [gloss](nātiriktaṃ) [gloss](savaktrakam)
+[measure+only](labdhamātra) [without](vihīnam) [tu](tu) [not+excessive](nātiriktam) [with+face](savaktrakam)
 
 ## mukta-m0-p119-v2969
-[gloss](tripañcasaptadvicatuḥ) [gloss](ṣaḍabhaktyaikatalakramāt) [gloss](tripañcasaptadvicatuḥ) [gloss](ṣaḍabhaktyaikatalakramāt)
+[three+five+seven+two+four+six](tripañcasaptadvicatuḥṣaṭ) [by+division+one+storey+order](abhaktyaikatalakramāt)
 
 ## mukta-m0-p119-v2970
-[gloss](sākṣāddvitricatuṣpañcatalamaṣṭanavāṃśakam) [gloss](sākṣāddvitricatuṣpañcatalamaṣṭanavāṃśakam) [gloss](sākṣāddvitricatuṣpañcatalamaṣṭanavāṃśakam) [gloss](sākṣāddvitricatuṣpañcatalamaṣṭanavāṃśakam)
+[directly](sākṣāt) [two+three+four+five](dvitricatuṣpañca) [storey+eight+nine+part](talam aṣṭanavāṃśakam)
 
 ## mukta-m0-p119-v2971
-[gloss](śreṣṭhaṃ) [gloss](trayodaśāṃśaṃ) [gloss](tu) [gloss](dvādaśāṃśamiti) [gloss](smṛtam)
+[best](śreṣṭham) [thirteen+part](trayodaśāṃśam) [tu](tu) [twelve+part](dvādaśāṃśam) [thus](iti) [remembered](smṛtam)
 
 ## mukta-m0-p119-v2972
-[gloss](tathā) [gloss](cāṣṭatalaṃ) [gloss](proktaṃ) [gloss](navabhaumaṃ) [gloss](niketanam)
+[thus](tathā) [ca](ca) [eight+storeyed](aṣṭatalam) [proclaimed](proktam) [nine+storied](navabhaumam) [dwelling](niketanam)
 
 ## mukta-m0-p119-v2973
-[gloss](vimānaṃ) [gloss](daśabhaumaṃ) [gloss](tu) [gloss](dvātriṃśatsaptabhāgayuk)
+[vimāna](vimānam) [ten+storied](daśabhaumam) [tu](tu) [thirty+two+seven+part+endowed](dvātriṃśatsaptabhāgayuk)
 
 ## mukta-m0-p119-v2974
-[gloss](tathā) [gloss](dvādaśabhaumaṃ) [gloss](tu) [gloss](catuḥ) [gloss](ṣaṭpañcabhāgabhāk)
+[thus](tathā) [twelve+storied](dvādaśabhaumam) [tu](tu) [four+six+five+part+possessing](catuḥṣaṭpañcabhāgabhāk)
 
 ## mukta-m0-p119-v2975
-[gloss](saptatridvyaṃśakādaṃśāddaśāṣṭadaśabhāgikam) [gloss](saptatridvyaṃśakādaṃśāddaśāṣṭadaśabhāgikam) [gloss](saptatridvyaṃśakādaṃśāddaśāṣṭadaśabhāgikam) [gloss](saptatridvyaṃśakādaṃśāddaśāṣṭadaśabhāgikam)
+[seven+three+two+part](saptatridvyaṃśa) [from+part](ādāṃśāt) [ten+eight+ten+part+possessing](daśāṣṭadaśabhāgikam)

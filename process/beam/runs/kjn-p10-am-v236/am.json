@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 236,
- "question": "How is the divine lotus associated with the first octad described?",
+ "question": "How is the first meditative lotus described in terms of form and adornment?",
  "premises": [
-  "The lotus is divine and eight-spoked",
-  "It is adorned by the first octad",
-  "These features characterize the lotus"
+  "A divine lotus is the object described.",
+  "The lotus has eight spokes.",
+  "It is adorned by the first octad."
  ],
- "inference": "The divine eight-spoked lotus is described as adorned by the first octad.",
- "uncertainties": [],
- "plain_english": "It is a divine eight-spoked lotus, adorned by the first octad."
+ "inference": "The first meditative lotus is a divine eight-spoked lotus adorned by the first octad.",
+ "uncertainties": [
+  "The specific members of the first octad are not named here."
+ ],
+ "plain_english": "Meditate on a divine eight-spoked lotus adorned by the first octad."
 }
