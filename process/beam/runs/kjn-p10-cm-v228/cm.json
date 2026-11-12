@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "vahni",
-   "morph": "compound=vahni+first-member",
-   "grounds": "agent or instrument surrounding the self in compound"
+   "morph": "compound=vahni+nāveṣṭita",
+   "grounds": "agent in surrounding compound"
   },
   {
    "lemma": "nāveṣṭita",
-   "morph": "compound=nāveṣṭita+second-member",
-   "grounds": "describes the self as encircled by fire; internal sandhi in compound"
+   "morph": "compound=vahni+nāveṣṭita",
+   "grounds": "describes the self"
   },
   {
    "lemma": "ātmānam",
    "morph": "m.acc.sg",
-   "grounds": "object visualized or established in practice"
+   "grounds": "object visualized"
   },
   {
    "lemma": "eka",
-   "morph": "compound=eka+first-member",
-   "grounds": "first member of compound specifying the foot"
+   "morph": "compound=eka+pādena",
+   "grounds": "qualifies foot"
   },
   {
    "lemma": "pādena",
-   "morph": "m.ins.sg",
-   "grounds": "means by which one stands"
+   "morph": "m.inst.sg",
+   "grounds": "means of standing"
   },
   {
    "lemma": "saṃsthitam",
    "morph": "m.acc.sg",
-   "grounds": "describes the posture of the self"
+   "grounds": "describes the self"
   }
  ]
 }

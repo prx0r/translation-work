@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first-member",
-   "grounds": "first member of compound indicating eightfold groups"
+   "morph": "compound=aṣṭa+aṣṭaka",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭaka+second-member",
-   "grounds": "second member of compound indicating divisions"
+   "morph": "compound=aṣṭa+aṣṭaka",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "vibhāgam",
    "morph": "m.acc.sg",
-   "grounds": "object to be fully known"
+   "grounds": "object to be known"
   },
   {
    "lemma": "tu",
@@ -25,12 +25,12 @@
   {
    "lemma": "parijñātum",
    "morph": "infinitive/√jñā",
-   "grounds": "purpose of the inquiry"
+   "grounds": "purpose of request"
   },
   {
    "lemma": "anantathā",
    "morph": "(indecl.)",
-   "grounds": "manner or extent of knowing fully"
+   "grounds": "manner of knowing"
   }
  ]
 }
