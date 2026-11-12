@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "caturaśīti",
-   "morph": "numeral.stem",
-   "grounds": "numeral base of compound number"
+   "morph": "numeral+compound-member",
+   "grounds": "numeral element qualifying the following thousands"
   },
   {
    "lemma": "sahasreṣu",
    "morph": "n.loc.pl",
-   "grounds": "locative plural of thousand"
+   "grounds": "locative plural indicating the vast number"
   },
   {
    "lemma": "yoniyantreṣu",
-   "morph": "n.loc.pl (compound: yoni+yantra)",
-   "grounds": "compound: yoni+womb + yantra+diagram; locative plural"
+   "morph": "n.loc.pl (yoni+yantra+compound)",
+   "grounds": "compound denoting devices or realms of birth"
   },
   {
    "lemma": "pīḍitāḥ",
-   "morph": "m.nom.pl (ppp, √pīḍ)",
-   "grounds": "past passive participle, plural subject"
+   "morph": "m.nom.pl (past-participle, √pīḍ)",
+   "grounds": "describes beings subjected to suffering in those realms"
   }
  ]
 }

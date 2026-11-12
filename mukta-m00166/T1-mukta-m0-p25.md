@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[who](kaḥ) [in-Śiva](śive) [strives](prayatate) [not](na) [or](vā) [in-own](nije) [of-whom](kasya) [mind+arrangement](citta+vidhiḥ) [thus](iti) [fullness](pūrṇatām)
+[who](kaḥ) [in-Śiva](śive) [strives](prayatate) [not](na) [or](vā) [in-own](nije) [of-whom](kasya) [mind+effort](cittavidhir) [thus](iti) [fullness](pūrṇatām)
 
 ## mukta-m0-p25-v602
-[somewhere](kutracit) [in-good-time](su+samaye) [here](atra) [of-me](me) [also](api) [which](yad) [in-speech](vāci) [of-whirling-mind](ghūrṇita+mateḥ) [as-if](iva) [reverence](ādaraḥ)
+[somewhere](kutracit) [in-good+time](susamaye) [here](atra) [of-me](me) [also](api) [which](yad) [in-speech](vāci) [of-whirling+mind](ghūrṇitamater) [as-if](iva) [regard](ādaraḥ)
 
 ## mukta-m0-p25-v603
-[like-intoxicated](matta+vat) [supreme+delight](parama+raṃ) [in-praise+O-lord](stave+īśvaraṃ) [own+very-secret](sva+ati+guhyam) [even](api) [outwardly](bāhyam) [acting](ācaram)
+[like-intoxicated](mattavat) [supreme+rasa](paramaraṃ) [praise+lord](staveśvaraṃ) [own+very+secret](svātiguhyam) [also](api) [external](bāhyam) [acting](ācaram)
 
 ## mukta-m0-p25-v604
-[today](adya) [but](tu) [heard+great-glory](śruta+mahā+anubhāva) [speech+within](vāk+antare) [also](api) [O-supreme](parame) [are](asi) [someone](kaḥ+api) [ah](aho)
+[today](adya) [indeed](tu) [heard+great+power+speech](śrutamahānubhāvavāg) [within](āntare) [also](api) [in-supreme](parame) [you-are](asi) [who](kaḥ) [indeed](api) [oh](aho)
 
 ## mukta-m0-p25-v605
-[there](tatra) [occurring](vṛttam) [also](api) [of-you](te) [always+to-be-called](sadā+āhvayaṃ) [who](kaḥ) [not](na) [praises](nauti) [all+beneficial](sakala+upakārakam)
+[there](tatra) [existing](vṛttam) [also](api) [your](te) [always+called](sadāhvayaṃ) [who](kaḥ) [not](na) [praises](nauti) [all+benefiting](sakalopakārakam)
 
 ## mukta-m0-p25-v606
-[that](taṃ) [having-heard](niśamya) [in-those+seeking-his-grace](tat+anugraha+arthiṣu) [you](tvaṃ) [thus](tathā) [spread](prathaya) [of-me](mad) [as](yathā) [you-understood](adhyagāḥ)
+[that](taṃ) [having-heard](niśamya) [in-those+grace+seekers](tadanugrahārthiṣu) [you](tvaṃ) [thus](tathā) [proclaim](prathaya) [from-me](mad) [as](yathā) [you-understood](adhyagāḥ)
 
 ## mukta-m0-p25-v607
-[to-be-remembered](smāryaḥ) [this](eṣaḥ) [to-be-muttered](parijapyaḥ) [this](eṣaḥ) [or](vā) [to-be-recited](pāṭhyaḥ) [this](eṣaḥ) [to-be-offered](havanīyaḥ) [this](eṣaḥ) [and](ca)
+[to-be-remembered](smārya) [this](eṣa) [to-be-recited](parijapya) [this](eṣa) [or](vā) [to-be-read](pāṭhya) [this](eṣa) [to-be-offered](havanīya) [this](eṣa) [and](ca)
 
 ## mukta-m0-p25-v608
-[difficult+yoga+path](durga+yoga+pada+vīṃ) [supreme](parām) [even](api) [who](yaḥ) [of-one-about-to-go](prayātuḥ) [even](api) [in-doubt-of-attainment](labdhi+saṃśaye)
+[difficult+yoga+path+course](durgayogapadavīṃ) [supreme](parām) [even](api) [who](yaḥ) [of-one-going](prayātur) [even](api) [in-attainment+doubt](labdhisaṃśaye)
 
 ## mukta-m0-p25-v609
-[considers](manyate) [twofold](dvividhaḥ) [this](eṣaḥ) [thus](saḥ) [from-study](adhyayāt) [of-this](asya) [enjoyment+multitude](bhoga+nivahaḥ) [how-much](kiyān) [indeed](iva)
+[considers](manyate) [two+fold](dvividha) [this](eṣa) [he](saḥ) [may-study](adhyayād) [of-this](asya) [enjoyment+multitude](bhoganivahaḥ) [how-much](kiyān) [as-it-were](iva)
 
 ## mukta-m0-p25-v610
-[that](sā) [also](api) [liberation+unfolding](mokṣa+vivṛtiḥ) [full-of-great-joy](su+harṣa+bhūḥ) [by-study+and-so-forth](adhyaya+ādi+ka+vaśā) [dependent](avaśā) [may-be](bhavet)
+[that](sā) [also](api) [liberation+unfolding](mokṣavivṛtiḥ) [good+joy+born](suharṣabhūr) [by-study+etc.+power](adhyayādikavaśā) [dependent](avaśā) [may-be](bhavet)
 
 ## mukta-m0-p25-v611
-[nyāsa+sole+ornament](nyāsa+eka+bhūṣaḥ) [endowed-with-memory](smṛtimān) [at-three-times](tri+kālaṃ) [should-recite](paṭhet) [this](imaṃ) [with-faith](pratyayataḥ) [at-dawn](prage) [or](vā)
+[nyāsa+unity+adorned](nyāsaikyabhūṣaḥ) [endowed-with-memory](smṛtimāṃs) [three+times](trikālaṃ) [should-recite](paṭhed) [this](imaṃ) [with-faith](pratyayataḥ) [at-dawn](prage) [or](vā)
 
 ## mukta-m0-p25-v612
-[again-and-again](pūjaṃ) [again-and-again](pūjaṃ) [bows](praṇamati) [not](na) [who](kaḥ) [essence+whole-essence+consisting-of](sāra+sarvasva+bhūtam)
+[again-and-again](pūjaṃ) [again-and-again](pūjaṃ) [bows](praṇamati) [not](na) [who](kaḥ) [essence+treasure+become](sārasarvasvabhūtam)
 
 ## mukta-m0-p25-v613
-[by-śakti+mark](śakti+aṅkena) [in-vilāsa+named](vilāsa+nāmni) [honored](mahitā) [devotion](bhaktiḥ) [gone](gatā) [fifth](pañcamī)
+[by-śakti+mark](śaktyaṅkena) [in-vilāsa+named](vilāsanāmni) [honored](mahitā) [devotion](bhaktir) [gone](gatā) [fifth](pañcamī)
 
 ## mukta-m0-p25-v614
-[in-name+vilāsa](nāma+vilāse) [fifth](pañcamī) [devotion](bhaktiḥ)
+[in-name+vilāsa](nāmavilāse) [fifth](pañcamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p25-v615
-[in-masculine-state](puṃ+bhāve) [or](vā) [in-remembrance+muttering+offering+reciting+satiation](smṛti+japa+huta+adhyetṛ+tā+tarpaṇeṣu)
+[in-masculine+state](puṃbhāve) [or](vā) [in-remembrance+recitation+offering+study+libation](smṛtijapahutādhyetṛtātarpaṇeṣu)
 
 ## mukta-m0-p25-v616
-[Sāhib+Kaula](sāhib+kaulaḥ) [those](tāni) [by-devotion+alone+controlled](bhakti+eka+vaśyaḥ) [with-verses](vṛttaiḥ) [meaning](arthaṃ) [indicating](lakṣayadbhiḥ) [composed](babandha)
+[Sāhib+Kaula](sāhibkaulas) [those](tāni) [by-devotion+alone+controlled](bhaktyekavaśyo) [with-verses](vṛttair) [meaning](arthaṃ) [by-indicating](lakṣayadbhir) [composed](babandha)
 
 ## mukta-m0-p25-v617
-[in-sequence](paryāyeṇa) [here](iha) [sixth](ṣaṣṭhyā) [and](ca) [by-taruṇā+named+established](taruṇā+ākhya+upapāditā)
+[in-sequence](paryāyeṇa) [here](iha) [by-sixth](ṣaṣṭhyā) [and](ca) [Taruṇā+named](taruṇākhyā) [established](upapāditā)
 
 ## mukta-m0-p25-v618
 [described](varṇitāni) [not](na) [to-be-faulted](dūṣyāṇi) [those](tāni) [by-realization](udbhāvanayā) [by-oneself](svayam)
 
 ## mukta-m0-p25-v619
-[remembers](smarati) [one](ekaṃ) [immediately](sadyaḥ) [something](kim+api) [and](ca) [consciousness+self](cit+ātmā) [this](eṣaḥ) [triumphs](jayati)
+[remembers](smaraty) [one](ekaṃ) [immediately](sadyaḥ) [something](kimapi) [and](ca) [consciousness+self](cidātmaiṣa) [this](eṣa) [triumphs](jayati)
 
 ## mukta-m0-p25-v620
-[she](sā) [this](eṣā) [some](kācit) [unbroken+joy+abundance](akhaṇḍa+harṣa+vibhavā) [consciousness](cit) [may-shine-forth](sphūrjatāt) [by-own-light](sva+tviṣā)
+[she](sā) [this](eṣā) [some](kācid) [unbroken+joy+abundance](akhaṇḍaharṣavibhavā) [consciousness](cit) [may-shine-forth](sphūrjatāt) [by-own+light](svatviṣā)
 
 ## mukta-m0-p25-v621
-[my](mama) [mind](matiḥ) [now](atha) [and](ca) [thus](evaṃ) [of-śakti+names](śakti+nāmnāṃ) [play](vilāsaḥ)
+[my](mama) [mind](matir) [now](atha) [and](ca) [thus](evaṃ) [of-śakti+names](śaktināmnāṃ) [manifestation](vilāsaḥ)
 
 ## mukta-m0-p25-v622
-[Sāhib+Kaula+taste+lord](sāhib+kaula+rasa+īśvaraḥ) [triumphs](vijayate) [by-peace+nature](śānta+ātmatā) [shining](bhāsvaraḥ)
+[Sāhib+Kaula+rasa+lord](sāhibkaularaseśvaro) [triumphs](vijayate) [peace+nature+shining](śāntātmatābhāsvaraḥ)
 
 ## mukta-m0-p25-v623
-[new+rasa+row](abhinava+rasa+rājīṃ) [that](tāṃ) [supreme+and-so-forth+knowledge+sovereign](parā+ādi+vidyā+īśvarīṃ) [I-praise](vande)
+[new+rasa+series](abhinavarasarājīṃ) [that](tāṃ) [supreme+etc.+queen-of-knowledge](parādividyeśvarīṃ) [I-praise](vande)
 
 ## mukta-m0-p25-v624
-[great+knowledge](mahā+vidyā)
+[great+knowledge](mahāvidyā)
 
 ## mukta-m0-p25-v625
-[great+knowledge](mahā+vidyā) [beginningless](anādyā) [in-clear+bliss-giving](viśada+sukha+de) [may-grant](yacchatu) [state](pade)
+[great+knowledge](mahāvidyā) [beginningless](anādyā) [clear+bliss+giving](viśadasukhade) [which](yac) [may-grant](chatu) [in-state](pade)

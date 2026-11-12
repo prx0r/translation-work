@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.present-middle √kṛ",
-   "grounds": "main predicate"
+   "morph": "3.sg.mid-present √kṛ",
+   "grounds": "main verb"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "manner of forming"
+   "grounds": "manner"
   },
   {
    "lemma": "rūpaṃ",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound-member",
+   "morph": "compound=dhyāna+first-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "eka",
-   "morph": "compound-member",
+   "morph": "compound=eka+second-member",
    "grounds": "second member of compound"
   },
   {
    "lemma": "gata",
-   "morph": "compound-member",
+   "morph": "compound=gata+third-member",
    "grounds": "third member of compound"
   },
   {
    "lemma": "cetasaḥ",
-   "morph": "n.gen.sg",
-   "grounds": "possessor of one-pointedness"
+   "morph": "compound=cetasaḥ+head, n.gen.sg",
+   "grounds": "possessor of focused state"
   }
  ]
 }

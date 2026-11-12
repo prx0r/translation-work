@@ -1,13 +1,14 @@
 {
  "song": "kjn-p14",
  "verse": 347,
- "question": "What bodily signs appear sequentially during the early stage of practice?",
+ "question": "What bodily signs arise in the first and second stages of this practice?",
  "premises": [
-  "A first sign is explicitly marked",
-  "Trembling arises as that first sign",
-  "Shaking is named as the second sign"
+  "First trembling arises",
+  "Second comes shaking"
  ],
- "inference": "The practice first produces trembling and then shaking",
- "uncertainties": [],
- "plain_english": "First trembling arises, and shaking is the second."
+ "inference": "The practice produces sequential signs of trembling and then shaking",
+ "uncertainties": [
+  "The grammatical agreement in dhūnanantu dvitīyakam is compressed"
+ ],
+ "plain_english": "First trembling comes, and second comes shaking."
 }

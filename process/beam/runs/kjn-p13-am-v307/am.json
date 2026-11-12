@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "What are the first two forms described in the sequence of types?",
+ "question": "What are the first two forms or types described in this enumeration?",
  "premises": [
   "The first is characterized by the form of a boy",
   "The second is characterized by the form of a madman",
-  "They are presented in sequence"
+  "Both are presented as distinct types in sequence"
  ],
- "inference": "The first two types are the boy-form and the madman-form",
- "uncertainties": [],
- "plain_english": "The first is in the form of a boy, the second in the form of a madman."
+ "inference": "The enumeration begins with a boy-like form and continues with a madman-like form.",
+ "uncertainties": [
+  "The grammatical case of bālarūpeṇa differs from the nominative ordinals, suggesting compressed phrasing"
+ ],
+ "plain_english": "The first is in the form of a boy, and the second has the form of a madman."
 }

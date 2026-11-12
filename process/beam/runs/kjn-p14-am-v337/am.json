@@ -1,13 +1,14 @@
 {
  "song": "kjn-p14",
  "verse": 337,
- "question": "What consequence follows if a teacher gives this teaching to such disciples?",
+ "question": "What consequence follows if a teacher gives this teaching to such unworthy disciples?",
  "premises": [
-  "The verse considers a teacher giving instruction to these disciples",
-  "The disciples are implied to be unqualified from context",
-  "Loss of accomplishment is stated as the result"
+  "The teacher may give the teaching to such disciples",
+  "Accomplishment is lost as a result"
  ],
- "inference": "A teacher who gives the teaching to unworthy disciples loses accomplishment",
- "uncertainties": [],
- "plain_english": "If a teacher should give this to such disciples, his accomplishment is diminished."
+ "inference": "Teaching the unworthy causes the teacher to lose accomplishment",
+ "uncertainties": [
+  "Agreement between plural disciples and singular optative is irregular"
+ ],
+ "plain_english": "If a teacher should give this to such disciples, his accomplishment is lost."
 }

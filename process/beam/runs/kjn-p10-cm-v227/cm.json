@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound-member",
-   "grounds": "first member of place name"
+   "morph": "compound=candra+first-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound-member",
-   "grounds": "second member of place name"
+   "morph": "compound=dvīpa+head, m.nom.sg",
+   "grounds": "compound head"
   },
   {
    "lemma": "vinirgate",
-   "morph": "n.loc.sg",
-   "grounds": "describes origin of chapter"
+   "morph": "m.loc.sg",
+   "grounds": "describes paṭalaḥ"
   },
   {
    "lemma": "navamaḥ",

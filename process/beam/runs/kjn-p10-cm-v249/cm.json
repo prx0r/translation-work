@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "dhūmra",
-   "morph": "compound-member",
+   "morph": "compound=dhūmra+first-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "varṇaṃ",
-   "morph": "n.acc.sg",
+   "morph": "compound=varṇaṃ+head, n.acc.sg",
    "grounds": "describes object of contemplation"
   },
   {
    "lemma": "sadā",
    "morph": "(indecl.)",
-   "grounds": "frequency of contemplation"
+   "grounds": "manner of contemplation"
   },
   {
    "lemma": "cintya",
    "morph": "gerund √cint",
-   "grounds": "prior action"
+   "grounds": "gerund instruction"
   },
   {
    "lemma": "trailokyaṃ",
@@ -29,8 +29,8 @@
   },
   {
    "lemma": "cālayet",
-   "morph": "3.sg.optative-causative √cal",
-   "grounds": "resulting power"
+   "morph": "3.sg.act-causative-optative √cal",
+   "grounds": "main verb"
   },
   {
    "lemma": "priye",

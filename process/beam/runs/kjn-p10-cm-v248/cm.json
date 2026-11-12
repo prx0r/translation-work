@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound-member",
+   "morph": "compound=satata+first-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound-member",
+   "morph": "compound=abhyāsa+second-member",
    "grounds": "second member of compound"
   },
   {
    "lemma": "yogena",
-   "morph": "m.ins.sg",
-   "grounds": "means of transformation"
+   "morph": "m.inst.sg",
+   "grounds": "means"
   },
   {
    "lemma": "dvi",
-   "morph": "compound-member",
-   "grounds": "first part of number"
+   "morph": "compound=dvi+first-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "second part of number"
+   "morph": "compound=aṣṭa+second-member",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound-member",
-   "grounds": "third part of compound"
+   "morph": "compound=varṣa+third-member",
+   "grounds": "third member of compound"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "resulting appearance"
+   "grounds": "subject"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "resulting state"
+   "morph": "3.sg.act-optative √bhū",
+   "grounds": "main verb"
   }
  ]
 }

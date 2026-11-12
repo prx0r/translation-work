@@ -5,13 +5,13 @@
 [world](jagat) [+mother](mātā)
 
 ## mukta-m0-p26-v627
-[world](jagat) [+mother](mātā) [may-protect](pātāt) [from-world](jagat) [+dense](aghana) [+fall](ipātād) [venerable-goddess](bhagavatī)
+[world](jagat) [+mother](mātā) [may-protect](pātāt) [from-world](jagat) [+dense](aghana) [+calamity](nipātāt) [venerable-goddess](bhagavatī)
 
 ## mukta-m0-p26-v628
 [great](mahā) [+lakṣmī](lakṣmīḥ)
 
 ## mukta-m0-p26-v629
-[great](mahā) [+lakṣmīḥ](lakṣmīḥ) [she](sā) [us](no) [charming](lalita) [+fruitful](phalitā) [from-difficult](durgati) [+course](tateḥ)
+[great](mahā) [+lakṣmī](lakṣmīḥ) [she](sā) [us](no) [charmingly](lalita) [+fruitful](phalitā) [from-misfortune](durgati) [+expanse](tateḥ)
 
 ## mukta-m0-p26-v630
 [śiva](śiva) [+beloved](priyā)
@@ -20,16 +20,16 @@
 [beloved](priyā) [to-be-meditated](dhyeyā) [may-give](deyāt) [innate](sahaja) [+own](nija) [+devotion](bhakti) [+glory](śriyam) [this](iyam)
 
 ## mukta-m0-p26-v632
-[viṣṇu](viṣṇu) [+illusion](māyā)
+[viṣṇu](viṣṇu) [+māyā](māyā)
 
 ## mukta-m0-p26-v633
-[people](jjanaṃ) [of-viṣṇu](viṣṇoḥ) [+illusion](māyā) [supremely](parama) [+delightful](rama) [from-mishap](pāyāt) [may-protect](avatu) [she](sā)
+[people](jjanaṃ) [of-viṣṇu](viṣṇoḥ) [+māyā](māyā) [supremely](parama) [+delightful](rama) [may-protect](pāyāt) [may-protect](avatu) [she](sā)
 
 ## mukta-m0-p26-v634
 [auspicious](śubhā)
 
 ## mukta-m0-p26-v635
-[auspicious](śubhā) [bright](śubhraṃ) [destroyed](vibhraṃśita) [+kali](kali) [+impurity](malaṃ) [bliss](śaṃ) [may-bestow](vitaratāt)
+[auspicious](śubhā) [bright](śubhraṃ) [removed](vibhraṃśita) [+kali](kali) [+impurity](malaṃ) [bliss](śaṃ) [may-bestow](vitaratāt)
 
 ## mukta-m0-p26-v636
 [peaceful](śāntā)
@@ -41,7 +41,7 @@
 [accomplished](siddhā)
 
 ## mukta-m0-p26-v639
-[renowned](prasiddhā) [accomplished](siddhā) [she](sā) [without-condition](nirupadhi) [perfect-accomplishment](susiddhiṃ) [may-bestow](vitaratāt)
+[renowned](prasiddhā) [accomplished](siddhā) [she](sā) [unconditioned](nirupadhi) [perfect-accomplishment](susiddhiṃ) [may-bestow](vitaratāt)
 
 ## mukta-m0-p26-v640
 [accomplished](siddha) [+sarasvatī](sarasvatī)
@@ -53,7 +53,7 @@
 [forbearance](kṣamā)
 
 ## mukta-m0-p26-v643
-[forbearance](kṣamā) [at-will](kāmaṃ) [she](sā) [me](mām) [may-protect](avatu) [from-paśupati](paśuparṣat) [+attainment](parigateḥ)
+[forbearance](kṣamā) [willingly](kāmaṃ) [she](sā) [me](mām) [may-protect](avatu) [from-paśupati](paśuparṣat) [+attainment](parigateḥ)
 
 ## mukta-m0-p26-v644
 [radiance](kāntiḥ)
@@ -65,13 +65,13 @@
 [splendor](prabhā)
 
 ## mukta-m0-p26-v647
-[splendor](prabhā) [that](sā) [+light](bhām) [may-illumine](ābhāsayatu) [with-delight](kutukāt) [some](kām) [+incomparable](api) [equal](samām)
+[splendor](prabhā) [that](sā) [+light](bhām) [may-illuminate](ābhāsayatu) [with-delight](kutukāt) [some](kām) [+indeed](api) [equal](samām)
 
 ## mukta-m0-p26-v648
 [moonlight](jyotsnā)
 
 ## mukta-m0-p26-v649
-[be](bhava) [moonlight](jyotsnā) [complete](kṛtsnā) [in-darkness](timira) [+battle](samare) [difficult](durgati) [+causing](kare)
+[be](bhava) [moonlight](jyotsnā) [complete](kṛtsnā) [in-darkness](timira) [+battle](samare) [misfortune](durgati) [+causing](kare)
 
 ## mukta-m0-p26-v650
 [pārvatī](pārvatī)

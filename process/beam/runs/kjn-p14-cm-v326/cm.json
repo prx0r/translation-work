@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "śubhāśubhaṃ",
-   "morph": "compound",
-   "grounds": "coordinative compound object"
+   "morph": "compound=śubha+coord+aśubha+head; n.nom.sg",
+   "grounds": "dvandva compound of śubha and aśubha"
   },
   {
    "lemma": "ca",
@@ -14,28 +14,28 @@
   },
   {
    "lemma": "saṃbhoktaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "gerundive describing what must be undergone"
+   "morph": "n.nom.sg; gerundive √bhuj",
+   "grounds": "gerundive of experience"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negation particle"
   },
   {
    "lemma": "tena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental agent or referent"
+   "morph": "n.ins.sg",
+   "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "rahitaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "predicate of absence"
+   "morph": "n.nom.sg; ppp √rah",
+   "grounds": "past participle used adjectivally"
   },
   {
    "lemma": "kvacit",
    "morph": "(indecl.)",
-   "grounds": "indefinite locative adverb"
+   "grounds": "indefinite adverb"
   }
  ]
 }

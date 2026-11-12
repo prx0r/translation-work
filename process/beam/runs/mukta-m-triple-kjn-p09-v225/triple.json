@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral base of compound number",
-     "morph": "numeral.stem"
+     "grounds": "numeral element qualifying the following thousands",
+     "morph": "numeral+compound-member"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative plural of thousand",
+     "grounds": "locative plural indicating the vast number",
      "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound: yoni+womb + yantra+diagram; locative plural",
-     "morph": "n.loc.pl (compound: yoni+yantra)"
+     "gloss": "in-womb-mechanisms",
+     "grounds": "compound denoting devices or realms of birth",
+     "morph": "n.loc.pl (yoni+yantra+compound)"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle, plural subject",
-     "morph": "m.nom.pl (ppp, √pīḍ)"
+     "grounds": "describes beings subjected to suffering in those realms",
+     "morph": "m.nom.pl (past-participle, √pīḍ)"
     }
    ],
-   "question": "What suffering afflicts beings within the eighty-four thousand womb-diagrams?",
+   "question": "What condition afflicts beings within the eighty-four thousand womb-mechanisms?",
    "premises": [
-    "The scope is eighty-four thousand.",
-    "These thousands are womb-diagrams.",
-    "Beings within them are tormented."
+    "There exist eighty-four thousand womb-mechanisms.",
+    "Beings are located within these womb-mechanisms.",
+    "These beings are described as tormented."
    ],
-   "inference": "Beings are subjected to torment throughout the vast array of eighty-four thousand womb-diagrams.",
+   "inference": "Beings situated in the eighty-four thousand womb-mechanisms are subject to torment.",
    "uncertainties": [
-    "The subject of pīḍitāḥ is implied from context rather than explicitly stated in this verse."
+    "The implied subject of pīḍitāḥ is not explicitly stated in this verse and is inferred from context."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-diagrams."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }

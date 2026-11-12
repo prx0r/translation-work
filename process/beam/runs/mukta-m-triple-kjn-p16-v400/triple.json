@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "situated-in-forehead-syllable-mass",
-     "grounds": "Compound adjective describing something located in the collection of syllables on the forehead.",
-     "morph": "compound adj.acc.sg.n"
+     "gloss": "forehead-syllable-mass-situated",
+     "grounds": "fused-compound-as-given",
+     "morph": "compound=member+membership"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "Numerical quantity indicating the number of repetitions.",
+     "grounds": "cardinal-quantity",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "Gerund expressing the completion of the action.",
-     "morph": "gerund (kṛ)"
+     "grounds": "gerundive-form-as-given",
+     "morph": "indecl."
     },
     {
      "surface": "sura+arcite",
-     "gloss": "O-god-worshipped",
-     "grounds": "Vocative address to a deity honored by the gods.",
-     "morph": "compound m.voc.sg"
+     "gloss": "god-worshipped",
+     "grounds": "fused-compound-as-given",
+     "morph": "compound=member+membership"
     }
    ],
-   "question": "What ritual repetition involving the forehead syllable-mass is enjoined for the god-worshipped?",
+   "question": "What specific object or mark situated at the forehead is to be regarded as the hundred-thousand count when offered in the act performed for the god-worshipped one?",
    "premises": [
-    "The action is directed toward what is situated in the forehead syllable-mass.",
-    "The prescribed quantity of the action is one hundred thousand.",
-    "The addressee is the one worshipped by the gods."
+    "A mark situated in the forehead-syllable mass is identified here.",
+    "That mark is counted as a hundred-thousand in measure.",
+    "The act of having done pertains to what is directed to the god-worshipped one."
    ],
-   "inference": "One must perform a hundred-thousandfold repetition focused on what is situated in the forehead syllable-mass, O god-worshipped.",
+   "inference": "The hundred-thousand count applies to the forehead-syllable mass mark in the context of an act directed to the god-worshipped one.",
    "uncertainties": [
-    "The exact nature of the action implied by kṛtya (such as recitation or visualization) is not explicitly specified."
+    "The syntactic link between kṛtya and the preceding terms remains unclear from this verse alone."
    ],
-   "plain_english": "O god-worshipped one, having performed a hundred thousand repetitions focused on what is situated in the mass of syllables on the forehead."
+   "plain_english": "The mark situated in the mass of forehead syllables is a hundred-thousand, having been made for the god-worshipped one."
   }
  ]
 }

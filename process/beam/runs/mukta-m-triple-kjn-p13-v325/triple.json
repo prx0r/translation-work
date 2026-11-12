@@ -7,44 +7,42 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun referring to the hidden true nature",
-     "morph": "pron.acc.sg.m"
+     "grounds": "points to the nature described",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive expressing prior cognition",
-     "morph": "gerund (jñā)"
+     "grounds": "expresses prior act of knowing",
+     "morph": "absolutive (jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound denoting a concealed essential reality",
-     "morph": "compound.acc.sg.m (gūḍha+sadbhāva)"
+     "grounds": "object of knowing; compound of hidden and true nature",
+     "morph": "m.acc.sg, compound"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun denoting omniscience",
-     "morph": "n.acc.sg"
+     "grounds": "state that comes into being",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb indicating the emergence of a state",
+     "grounds": "states the result of that knowing",
      "morph": "3.sg.present.middle (pra-jan)"
     }
    ],
    "question": "What state arises from knowing the hidden true nature?",
    "premises": [
-    "There is a hidden true nature to be known.",
-    "Knowing that hidden true nature is possible.",
-    "All-knowingness is a state that can arise."
+    "There is a hidden true nature that can be known.",
+    "Knowing that hidden true nature has a transformative result.",
+    "All-knowingness is the state that arises from such knowing."
    ],
    "inference": "Knowing the hidden true nature gives rise to all-knowingness.",
-   "uncertainties": [
-    "The exact referent of taṃ depends on the preceding context."
-   ],
+   "uncertainties": [],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
  ]
