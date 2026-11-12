@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p120-v2976
-six-limbed-covered all obstacle-destroying offering-sacrifice-with
+[six+limbs](ṣaḍaṅgaiḥ) [surrounded](āvṛtāḥ) [all](sarve) [obstacle+destroyers](vighnaghnāḥ) [with-offering+oblations](balihomakaiḥ)
 
 ## mukta-m0-p120-v2977
-therefore-first and satisfied ancestral-rite not-following-mouths-so
+[therefore](tasmāt) [in-beginning](ādau) [and](ca) [to-be-propitated](santarpyāḥ) [in-śrāddha](śrāddhe) [not+facing-after](nānvīmukhāḥ) [likewise](tathā)
 
 ## mukta-m0-p120-v2978
-land-born clan-born stone-split-equal wealth
+[ground+born](sthalajaṃ) [lineage+produced](gotrasambhūtaṃ) [stone+splitting+equal](śilābhedasamaṃ) [wealth](dhanam)
 
 ## mukta-m0-p120-v2979
-crow-luster splitter
+[ṅ:](ṅ:) [kākānti]](kākānti]) [splitting](bhedakam)
 
 ## mukta-m0-p120-v2980
-wide many-branched-limbed hundred-thousand soft mountain-born
+[vast](vipulaṃ) [many+branch+limbed](bahuśākhāṅgaṃ) [[kh:]( [kh:) [lākhyaṃ]](lākhyaṃ]) [mark](lakṣaṃ) [soft+mountain+born](komalamadrijam)
 
 ## mukta-m0-p120-v2981
-third lotus-half-born lakshmi-this-tilaka and
+[third](tṛtīyaṃ) [lotus+half+born](padmamardhajaṃ) [[mū:]( [mū:) [vardhaja]](vardhaja]) [characteristic](lakṣma) [this](etat) [of-tilaka](tilakasya) [and](ca)
 
 ## mukta-m0-p120-v2982
-expanded crooked-sam ghee elevated spread clear
+[expanded](sphāraṃ) [curved+joined](kuṭilasaṃ) [[ṅ:]( [ṅ:) [lajaṃ]](lajaṃ]) [creeping](sarpi) [elevated](pronnataṃ) [extended](vitataṃ) [clear](sphuṭam)
 
 ## mukta-m0-p120-v2983
-fivefold ten-lines sixth whole form
+[fivefold](pañcadhā) [by-ten+lines](daśarekhābhiḥ) [sixth](ṣaṣṭhaṃ) [whole](sakala) [[kh,]( [kh,) [gh:](gh:) [sabala]](sabala]) [form](rūpakam)
 
 ## mukta-m0-p120-v2984
-kalinda kola-tusk-wet thorns surrounded
+[kalinda](kalinda) [[gh:]( [gh:) [kāliṅga]](kāliṅga]) [boar+tusk+wet](koladaṣṭrārdraṃ) [with-thorns](kaṇṭakaiḥ) [all-around](paritaiḥ) [endowed](yutam)
 
 ## mukta-m0-p120-v2985
-thorns ram-horn-like leaf young-abhaja becomes
+[with-thorns](kaṇṭakaiḥ) [ram+horn+resembling](meṣaśṛṅgābhaiḥ) [leaf](patraṃ) [young+born](bālābhajaṃ) [should-be](bhavet)
 
 ## mukta-m0-p120-v2986
-throat
+[thorn](kaṇṭhakaṃ) []](])
 
 ## mukta-m0-p120-v2987
-dog-tail-like round-tip cat-face fragile
+[dog+tail+like](śvapucchavat) [and](ca) [round+tipped](vṛttāgraṃ) [cat+face](mārjāramukha) [[kh:]( [kh:) [nakha]](nakha]) [fragile](bhaṅguram)
 
 ## mukta-m0-p120-v2988
-cucumber thread-round-tip thorn snake-crawling
+[snake-gourd](aurvāru) [[kh,]( [kh,) [gh:](gh:) [airvāru]](airvāru]) [thread+round+tipped](tantuvṛttāgraṃ) [thorn](kaṇṭhakaṃ) [serpent+creeping](sarpasarpaṇam)
 
 ## mukta-m0-p120-v2989
-spread curled-tip and white red-face-beautiful
+[spread-out](vistṛtaṃ) [curved+tipped](kuñcitāgraṃ) [and](ca) [white](śvetaṃ) [red+faced+shining](raktāsyaśobhitam)
 
 ## mukta-m0-p120-v2990
-knot-leaf-sprouts endowed reversed-upward-going
+[knot+leaf+sprout](granthipatrāṅkuraiḥ) [endowed](yuktaṃ) [with-inverted](viparyastaiḥ) [always+upward+going](sadordhvagam)
 
 ## mukta-m0-p120-v2991
-somewhere-cut somewhere-split somewhere leaf-half-wrapped
+[somewhere](kvacit) [cut](chinnaṃ) [somewhere](kvacit) [split](bhinnaṃ) [somewhere](kvacit) [by-leaf+half+enveloped](patrārdhaveṣṭitam)
 
 ## mukta-m0-p120-v2992
-previously-said-variegated-rich pleasing beautiful well-lined
+[previously+mentioned+creeper+picture+rich](pūrvoktavallicitrāḍhyaṃ) [pleasing](hṛdyaṃ) [beautiful](cāru) [well+lined](surekhitam)
 
 ## mukta-m0-p120-v2993
-root-middle and tip old young-branch
+[at-root+middle](mūlemadhya) [likewise](tathā) [at-tip](agre) [and](ca) [grown](vṛddhaṃ) [young+branched](taruṇaśākhikam)
 
 ## mukta-m0-p120-v2994
-by-artisans-multiplied having-done afterwards leaves draw
+[by-artisans](śilpibhiḥ) [having-examined](guṇitaṃ) [having-made](kṛtvā) [afterwards](paścāt) [leaves](patrāṇi) [one-should-draw](saṃlikhet)
 
 ## mukta-m0-p120-v2995
-pu not-exists thirtieth rule
+[pu0](pu0) [not-exists]](nāsti]) [thirtieth](triṃśaḥ) [rule](vidhiḥ)
 
 ## mukta-m0-p120-v2996
-worship-that-vastu gods and vedic-corner rudra-devoted
+[one-should-worship](yajet) [that+vāstu](tadvāstu) [[mū,]( [mū,) [gh:](gh:) [dardhastu]](dardhastu]) [gods](devān) [and](ca) [in-veda+corner](vedāsre) [in-rudra+portion](rudrabhākike)
 
 ## mukta-m0-p120-v2997
-direction-places marici-etc middle principles creator
+[in-direction+squares](dikpadeṣu) [marīci+and-others](marīcyādyāḥ) [in-middle](madhye) [in-principles](tattveṣu) [of-brahmā](vedhasaḥ)
 
 ## mukta-m0-p120-v2998
-brahma-place white lotus kalagni worship-then
+[in-brahmā+place](brahmasthāne) [in-white](site) [lotus](padme) [[mū,]( [mū,) [ṅ:](ṅ:) [pakṣe]](pakṣe]) [kālāgni](kālāgniṃ) [one-should-worship](pūjayet) [then](tataḥ)
 
 ## mukta-m0-p120-v2999
-hataka-isha balesha and again atibala so
+[hāṭakeśa](hāṭakeśaṃ) [baleśa](baleśaṃ) [[ṅ:]( [ṅ:) [caleśaṃ]](caleśaṃ]) [and](ca) [again](punaḥ) [and](ca) [atibala](atibalaṃ) [likewise](tathā)
 
 ## mukta-m0-p120-v3000
-seventh and virupaksha bhrukuti-isha in-petals and
+[seventh](saptamaṃ) [and](ca) [virūpākṣa](virūpākṣaṃ) [bhrukuṭīśa](bhrukuṭīśaṃ) [in-petals](daleṣu) [and](ca)

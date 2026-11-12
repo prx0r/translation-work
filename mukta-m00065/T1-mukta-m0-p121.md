@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p121-v3001
-[karkoṭa-anta](karkoṭāntaṃ) [sva-mantra](svamantreṇa) [pūjayet](pūjayej) [jaladi-gṛha](jaladiggṛhe)
+[karkoṭa+antam](karkoṭāntaṃ) [sva+mantreṇa](svamantreṇa) [pūjayet](pūjayej) [jala+dik+gṛhe](jaladiggṛhe)
 
 ## mukta-m0-p121-v3002
-[nāga-aṣṭaka](nnāgāṣṭakāṃs) [tataḥ](tataḥ) [tathā](tathā) [pūjā](pūjā)
+[nāga+aṣṭakam](nnāgāṣṭakāṃs) [tataḥ](tataḥ) [kh](kh) [tathā](tathā)
 
 ## mukta-m0-p121-v3003
-[śaṅkha](śaṅkhaṃ) [vāsuki](vāsukiṃ) [ca-eva](caiva) [padma](padmaṃ) [karkoṭaka-anta](karkoṭakāntakam)
+[śaṅkham](śaṅkhaṃ) [vāsukim](vāsukiṃ) [ca](ca) [eva](eva) [padmam](padmaṃ) [karkoṭaka+antakam](karkoṭakāntakam)
 
 ## mukta-m0-p121-v3004
-[pañca-gavya](pañcagavyakam) [snāna](snāna) [gandha](gandha) [vastra](vastra)
+[pañca](pañca) [gavya](gavya) [kam](kam) [iti](pañcagavyakam)
 
 ## mukta-m0-p121-v3005
-[vādhi-sārdhaka](vādhisārdhakām) [homa](homa) [caru](caru) [śānti](śānti)
+[vā](vā) [adhi](adhi) [sārdha](sārdha) [kām](kām) [adhisārdhakām](dhisārdhakām])
 
 ## mukta-m0-p121-v3006
-[su-snāpya](susnāpya) [gandha-vastra-ādi](gandhavastrādyaiḥ) [saṃ-pūjya](saṃpūjyā) [ananta-mantra](anantamantrataḥ)
+[su+snāpya](susnāpya) [gandha+vastra+ādyaiḥ](gandhavastrādyaiḥ) [saṃpūjya](saṃpūjyā) [ananta+mantrataḥ](nantamantrataḥ)
 
 ## mukta-m0-p121-v3007
-[viṃśa](viṃśa) [vaṃśa](vaṃśa) [g](g) [gh](gh) [homa](homa)
+[viṃśa](viṃśa) [g](g) [gh](gh) [vaṃśa](vaṃśa])
 
 ## mukta-m0-p121-v3008
-[hūṃ](hū/) [hūṃ](hū/) [anantāya](anantāya) [nāga-adhipati](nāgādhipataye) [namaḥ](namaḥ)
+[hū](hū/) [hū](hū/) [anantāya](anantāya) [kh](kh) [ananta+nāgāya](anantanāgāya]) [nāga+adhipataye](nāgādhipataye) [namaḥ](namaḥ)
 
 ## mukta-m0-p121-v3009
-[khurika](khurikenā) [avadhārya](vadhāryeṣa) [guhya](guhyenā) [ambhasi](mbhasi) [vā](vā) [kṣipet](kṣipet)
+[khurikeṇa](khurikenā) [avadhārya](vadhāryeṣa) [eṣaḥ](eṣa) [mū](mū) [a](a) [ṅ](ṅ) [jyeṣṭha](jyeṣṭha]) [guhyena](guhyenā) [ambhasi](mbhasi) [vā](vā) [kṣipet](kṣipet)
 
 ## mukta-m0-p121-v3010
-[kapilā-puccha](kapilāpuccha) [vāmadeva](vāmadevaṃ) [lagna](lagno) [atra](tra) [santaret](santared) [yajamānaka](yajamānakaḥ)
+[kapilā+puccha](kapilāpuccha) [kh](kh) [g](g) [vāma+devam](vāmadevaṃ]) [lagnaḥ](lagno') [atra](tra) [santaret](santared) [yajamānakaḥ](yajamānakaḥ)
 
 ## mukta-m0-p121-v3011
-[tataḥ](tataś) [ca](cā) [aṣṭa-śata](aṣṭaśataṃ) [homa](homaṃ) [bahu-rūpa](bahurūpeṇa) [homa-yet](homayet)
+[tataḥ](tataś) [ca](cā) [aṣṭa+śatam](ṣṭaśataṃ) [homam](homaṃ) [bahu+rūpeṇa](bahurūpeṇa) [homayet](homayet)
 
 ## mukta-m0-p121-v3012
-[caru](caruṃ) [saṃ-śādhayet](saṃśādhayettena) [śānti](śāntiṃ) [tena-eva](tenaiva) [kārayet](kārayet)
+[carum](caruṃ) [saṃśādhayet](saṃśādhayet) [tena](tena) [śāntim](śāntiṃ) [tena](tena) [eva](eva) [kārayet](kārayet)
 
 ## mukta-m0-p121-v3013
-[tāṃ](tāṃ) [ca](ca) [gāṃ](gāṃ) [gurave](gurave) [dadyāt](dadyāt) [toṣayet](toṣayecca) [sva-vitta](svavittataḥ)
+[tām](tāṃ) [ca](ca) [gām](gāṃ) [gurave](gurave) [dadyāt](dadyāt) [toṣayet](toṣayecca) [ca](ca) [gh](gh) [kha+agnyena](khāgnyena]) [sva+vittataḥ](svavittataḥ)
 
 ## mukta-m0-p121-v3014
-[dikṣu](dikṣvarkeṣu) [arka](arkeṣu) [marīci-ādi](marīcyādyān) [madhye](madhye) [ṣaṭ-pada](ṣaṭpadakeṣv) [aja](ajam)
+[dikṣu](dikṣv) [arkeṣu](arkeṣu) [marīci+ādyān](marīcyādyān) [madhye](madhye) [ṣaṭ+padakeṣu](ṣaṭpadakeṣv) [ajam](ajam) [gh](gh) [dhvajaḥ](dhvajaḥ])
 
 ## mukta-m0-p121-v3015
-[tan-madhye](tanmadhye) [kāla-rudra-īśa](kālarudreśaṃ) [pūjya](pūjya) [gandha-ādi](gandhādi) [pūrva-vat](pūrvavat)
+[tat+madhye](tanmadhye) [kāla+rudra+īśam](kālarudreśaṃ) [pūjya](pūjya) [gandha+ādi+pūrva+vat](gandhādipūrvavat)
 
 ## mukta-m0-p121-v3016
-[pañca-gavya](pañcagavyaṃ) [kṣipet](kṣipet) [kūpe](kūpe) [gaṅgā-mantra-ambu](gaṅgāmantrāmbunā) [saha](saha)
+[pañca+gavyam](pañcagavyaṃ) [kṣipet](kṣipet) [kūpe](kūpe) [gaṅgā+mantra+ambunā](gaṅgāmantrāmbunā) [saha](saha)
 
 ## mukta-m0-p121-v3017
-[kara-antara-stha](karāntarastha) [dārvī](dārvībhir) [dhaṭī](dhaṭībhir) [dāru-cakra](dārucakrakam)
+[kara+antara+stha+dārvībhiḥ](karāntarasthadārvībhir) [dhaṭībhiḥ](dhaṭībhir) [dāru+cakrakam](dārucakrakam)
 
 ## mukta-m0-p121-v3018
-[prasupta](prasuptaṃ) [yāga-pūrvaka](yāgapūrvakam) [kūpa](kūpa) [pūjā](pūjā)
+[prasuptam](prasuptaṃ) [yāga+pūrva+kam](yāgapūrvakam)
 
 ## mukta-m0-p121-v3019
-[udyāneṣu](udyāneṣu) [sura-agre](surāgre) [vā](vā) [dikṣu](dikṣu) [kūpa](kūpaṃ) [ca](ca) [pūrva-vat](pūrvavat)
+[udyāneṣu](udyāneṣu) [sura+agre](surāgre) [vā](vā) [kh](kh) [ṅ](ṅ) [agreṣu](greṣu]) [dikṣu](dikṣu) [kūpam](kūpaṃ) [ca](ca) [pūrva+vat](pūrvavat)
 
 ## mukta-m0-p121-v3020
-[kṣepaṇa](kṣepaṇaṃ) [vapana](vapanaṃ) [yat](yac) [ca](ca) [savya-asavya](savyāsavyena) [kārayet](kārayet)
+[kṣepaṇam](kṣepaṇaṃ) [vapanam](vapanaṃ) [yat](yac) [ca](ca) [savya+asavyena](savyāsavyena) [kārayet](kārayet)
 
 ## mukta-m0-p121-v3021
-[sva-tāraka](svaistārakaiḥ) [prakuryāt](prakuryācca) [ca](ca) [tila](tilair) [homa](homaṃ) [ca](ca) [madhya-ga](madhyagaiḥ)
+[svaiḥ](svais) [tārakaiḥ](tārakaiḥ) [prakuryāt](prakuryāc) [ca](ca) [tilaiḥ](tilair) [homam](homaṃ) [ca](ca) [madhya+gaiḥ](madhyagaiḥ)
 
 ## mukta-m0-p121-v3022
-[pūrva-āgāre](pūrvāgāre) [atha](tha) [hotavyaṃ](hotavyaṃ) [vṛkṣāṇāṃ](vṛkṣāṇāṃ) [vṛkṣa-daivata](vṛkṣadaivatam)
+[pūrva+āgāre](pūrvāgāre') [atha](tha) [hotavyam](hotavyaṃ) [vṛkṣāṇām](vṛkṣāṇāṃ) [vṛkṣa+daivatam](vṛkṣadaivatam)
 
 ## mukta-m0-p121-v3023
-[bāṇa-mata](bāṇamatāt) [samādāya](samādāya) [likhitaṃ](likhitaṃ) [ca](ca) [tad-akṣara](tadakṣaraiḥ)
+[bāṇa+matāt](bāṇamatāt) [samādāya](samādāya) [likhitam](likhitaṃ) [ca](ca) [tat+akṣaraiḥ](tadakṣaraiḥ)
 
 ## mukta-m0-p121-v3024
-[nāma](nāmeti) [śabda](śabdo) [liṅga](li0) [puṃ](pu0) [nāsti](nāsti) [katriṃśa](katriṃśo) [vidhi](vidhiḥ)
+[nāma](nāmeti) [iti](iti) [śabdaḥ](śabdo) [li0](li0) [pu0](pu0) [na](nāsti) [asti](asti) [katriṃśaḥ](katriṃśo) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p121-v3025
-[pavitrārohaṇa](pavitrārohaṇaṃ) [kāryaṃ](kāryaṃ) [cāturmāsya](cāturmāsyaṃ) [vrata](vrataṃ) [caran](caran)
+[pavitra+ārohaṇam](pavitrārohaṇaṃ) [mū](mū) [ropaṇam](ropaṇaṃ]) [kāryam](kāryaṃ) [cātur+māsyam](cāturmāsyaṃ) [vratam](vrataṃ) [caran](caran)

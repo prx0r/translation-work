@@ -1,15 +1,13 @@
 {
  "song": "kjn-p12",
  "verse": 280,
- "question": "What plant-derived substances are included as possible offerings or ingredients?",
+ "question": "What plant-derived substances are permitted as alternative offerings?",
  "premises": [
-  "Substances born from trees are included.",
-  "Substances born from roots are included.",
-  "Substances born from flowers or fruits are also included."
+  "Substances born from trees and roots are included.",
+  "Substances born from flowers and fruits are also included.",
+  "The list presents alternative permissible sources."
  ],
- "inference": "Offerings or ingredients may be derived from trees, roots, flowers, or fruits.",
- "uncertainties": [
-  "The syntactic connection to the previous verse's preparation is implied but not explicit."
- ],
- "plain_english": "Things born from trees, born from roots, and indeed born from flowers or born from fruits may also be used."
+ "inference": "Offerings may be derived from trees, roots, flowers, or fruits.",
+ "uncertainties": [],
+ "plain_english": "Offerings may be those born from trees, from roots, from flowers, or from fruits."
 }
