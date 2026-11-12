@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to venom does the perfected practitioner gain in the body?",
+ "question": "What claim is made about the effect of poison on the body even in the case of a bite from great serpents?",
  "premises": [
-  "The practitioner may be bitten by great serpents",
-  "Poison would normally enter the body",
-  "In this case poison does not enter"
+  "Poison is in view.",
+  "A person may be bitten by great serpents.",
+  "Even in that case, poison does not enter the body."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the practitioner's body.",
- "uncertainties": [],
- "plain_english": "Even if bitten by great serpents, poison does not enter the body."
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "uncertainties": [
+  "The basis for this immunity is not stated in this verse."
+ ],
+ "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }

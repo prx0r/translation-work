@@ -5,12 +5,12 @@
   {
    "lemma": "divasāt",
    "morph": "m.abl.sg",
-   "grounds": "time reference"
+   "grounds": "time reference in compound context"
   },
   {
    "lemma": "nāśanena",
    "morph": "n.inst.sg",
-   "grounds": "means or condition"
+   "grounds": "instrumental means"
   },
   {
    "lemma": "eva",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "vayo",
-   "morph": "compound=vayas+first",
-   "grounds": "first member of compound"
+   "morph": "compound=vayo+first-member",
+   "grounds": "first member of compound qualifying mṛtyuṃ"
   },
   {
    "lemma": "mṛtyuṃ",
-   "morph": "compound=mṛtyu+final, m.acc.sg",
-   "grounds": "object overcome"
+   "morph": "m.acc.sg",
+   "grounds": "object of going"
   },
   {
    "lemma": "gamiṣyate",
-   "morph": "3.sg.future-middle √gam",
-   "grounds": "future result"
+   "morph": "3.sg.mid-future/√gam",
+   "grounds": "future verb"
   }
  ]
 }

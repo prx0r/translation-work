@@ -9,28 +9,28 @@
   },
   {
    "lemma": "sama",
-   "morph": "compound=sama+first",
-   "grounds": "first member of compound"
+   "morph": "compound=sama+first-member",
+   "grounds": "first member of compound qualifying cittaḥ"
   },
   {
    "lemma": "cittaḥ",
-   "morph": "compound=citta+final, m.nom.sg",
-   "grounds": "compound final describing practitioner"
+   "morph": "m.nom.sg",
+   "grounds": "subject with equanimous mind"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "particle of continuation"
   },
   {
    "lemma": "grāma",
-   "morph": "compound=grāma+first",
-   "grounds": "first member of compound"
+   "morph": "compound=grāma+first-member",
+   "grounds": "first member of compound qualifying dharmañ"
   },
   {
    "lemma": "dharmañ",
-   "morph": "compound=dharma+final, m.acc.sg",
-   "grounds": "object to be abandoned, sandhi form"
+   "morph": "m.acc.sg",
+   "grounds": "object to be abandoned; sandhi form"
   },
   {
    "lemma": "ca",
@@ -39,7 +39,7 @@
   },
   {
    "lemma": "varjayet",
-   "morph": "3.sg.optative-act √vṛj",
+   "morph": "3.sg.act-optative/√vṛj",
    "grounds": "optative injunction"
   }
  ]

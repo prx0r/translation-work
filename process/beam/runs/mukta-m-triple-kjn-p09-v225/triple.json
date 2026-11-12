@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral base of compound indicating quantity",
-     "morph": "numeral.stem"
+     "grounds": "numeral referring to count",
+     "morph": "indecl."
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural expressing location within a vast number",
-     "morph": "n.loc.pl"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound of yoni and yantra in locative plural denoting realms or mechanisms of birth",
-     "morph": "n.loc.pl (compound: yoni+yantra)"
+     "gloss": "womb-diagrams",
+     "grounds": "locative plural of compound referring to womb-mechanisms",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing those subjected to suffering",
-     "morph": "m.nom.pl (past-passive-participle, root pīḍ)"
+     "grounds": "past passive participle describing those affected",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "What condition afflicts beings within the eighty-four thousand womb-diagrams?",
+   "question": "By what count and in what setting are certain beings said to endure torment in this claim?",
    "premises": [
-    "The scope encompasses eighty-four thousand instances.",
-    "These instances are womb-diagrams as loci of existence.",
-    "Beings within them are described as tormented."
+    "A count of eighty-four is specified for the setting.",
+    "That count is placed among thousands of womb-diagrams.",
+    "Beings located there are described as tormented."
    ],
-   "inference": "Beings suffer torment throughout the vast multitude of womb-diagrams.",
+   "inference": "Beings are tormented within eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The implied subject of pīḍitāḥ is supplied from context as beings or souls."
+    "The identity of the tormented beings remains unspecified."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-diagrams."
+   "plain_english": "Eighty-four thousand womb-diagrams are places in which beings are tormented."
   }
  ]
 }
