@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-power-divided(bindu-sound-art-rich) word-born indeed this
+[śakti+bhinnaṃ](śaktibhinnaṃ) [bindu+nāda+kalā+āḍhyaṃ](bindunādakalāḍhyaṃ) [vāgbhavaṃ](vāgbhavaṃ) [tu](tu) [idam](idam)
+
 ## mukta-m0-p52-v1277
-bindu-sound-art-overcome desire-king this great
+[bindu+nāda+kalā+ākrāntaṃ](bindunādakalākrāntaṃ) [kāmarājam](kāmarājam) [idam](idaṃ) [mahat](mahat)
+
 ## mukta-m0-p52-v1278
-by-this arrow-mantra-by protection armor indeed
+[anena](anena) [śara+mantreṇa](śaramantreṇa) [rakṣaṇaṃ](rakṣaṇaṃ) [kavacena](kavacena) [tu](tu)
+
 ## mukta-m0-p52-v1279
-having-bound trident-seal indeed wave-over-desire
+[baddhvā](baddhvā) [triśūla+mudrām](triśūlamudrāntu) [tu](tu) [bhrāmayet](bhrāmayet) [madana+upari](madanopari)
+
 ## mukta-m0-p52-v1280
-spread trident's seal this proclaimed
+[prasārayet](prasārayet) [triśūlasya](triśūlasya) [mudrā](mudreyaṃ) [iyam](iyam) [parikīrttitā](parikīrttitā)
+
 ## mukta-m0-p52-v1281
-raise weapon-mantra-by heart destroy
+[uddharet](uddhared) [astra+mantreṇa](astramantreṇa) [hṛdayena](hṛdayena) [vilopayet](vilopayet)
+
 ## mukta-m0-p52-v1282
-daily-worship having-done indeed night establish mantra
+[nitya+pūjāṃ](nityapūjāṃ) [vidhāya](vidhāya) [eva](eva) [niśi](niśi) [saṃsthāpya](saṃsthāpya) [vidyayā](vidyayā)
+
 ## mukta-m0-p52-v1283
-immediately consecration or year-worship-purpose-accomplishment
+[sadyaḥ+adhivāsanaṃ](sadyo'dhivāsanaṃ) [vā](vā) [api](api) [varṣa+pūjā+artha+siddhaye](varṣapūjārthasiddhaye)
+
 ## mukta-m0-p52-v1284
-nine-cornered having-made then vermilion great-radiant
+[nava+koṇaṃ](navakoṇaṃ) [vidhāya](vidhāya) [atha](atha) [sindūreṇa](sindūreṇa) [mahā+prabham](mahāprabham)
+
 ## mukta-m0-p52-v1285
-one or all pleasing establish teacher-best
+[ekaṃ](ekaṃ) [vā](vā) [sakalaṃ](sakalaṃ) [ramyaṃ](ramyaṃ) [sthāpayet](sthāpayed) [deśika+uttamaḥ](deśikottamaḥ)
+
 ## mukta-m0-p52-v1286
-ashoka-tree having-drawn triangle mandala draw
+[aśoka+tarum](aśokatarum) [ālikhya](ālikhya) [tri+koṇaṃ](trikoṇaṃ) [maṇḍalaṃ](maṇḍalaṃ) [likhet](likhet)
+
 ## mukta-m0-p52-v1287
-red-flower red-cloth left-right in-order
+[rakta+puṣpaṃ](raktapuṣpaṃ) [rakta+vastraṃ](raktavastraṃ) [vāma+dakṣiṇayoḥ](vāmadakṣiṇayoḥ) [kramāt](kramāt)
+
 ## mukta-m0-p52-v1288
-spring-accompanied desire worship accomplishment-for
+[vasanta+sahitaṃ](vasantasahitaṃ) [kāmaṃ](kāmaṃ) [pūjayet](pūjayet) [siddhi+hetave](siddhihetave)
+
 ## mukta-m0-p52-v1289
-to-desire homage not-drawn mantra indeed nine-syllabled
+[kāmāya nama](kāmāya nama) [ālikhya](alikhya) [vidyā](vidyeyantu) [iyam](iyam) [tu](tu) [nava+akṣarī](navākṣarī)
+
 ## mukta-m0-p52-v1290
-to-rati homage and eight-lettered rati-mantra proclaimed
+[ratyai namaḥ](ratyai namaś) [ca](ca) [aṣṭa+varṇā](aṣṭavarṇā) [rati+vidyā](ratividyā) [prakīrttitā](prakīrttitā)
+
 ## mukta-m0-p52-v1291
-delight speak rati-place delight-mantra eight-lettered
+[prītiṃ](prītiṃ) [vadet](vadet) [rati+sthāne](ratisthāne) [prīti+mantraḥ](prītimantro) [aṣṭa+varṇakaḥ]('ṣṭavarṇakaḥ)
+
 ## mukta-m0-p52-v1292
-lotus-betel-hand and red-colored-adorned
+[padma+tāmbūla+haste](padmatāmbūlahaste) [ca](ca) [rakta+varṇa+vibhūṣite](raktavarṇavibhūṣite)
+
 ## mukta-m0-p52-v1293
-left-right meditation desire-god proclaimed
+[vāma+dakṣiṇayoḥ](vāmadakṣiṇayor) [dhyānaṃ](dhyānaṃ) [kāmadevasya](kāmadevasya) [kīrttitam](kīrttitam)
+
 ## mukta-m0-p52-v1294
-golden left-hand and nectar-full-pot-endowed
+[sauvarṇaṃ](sauvarṇaṃ) [vāma+haste](vāmahaste) [ca](ca) [sudhā+pūrṇa+ghaṭa+anvitam](sudhāpūrṇaghaṭānvitam)
+
 ## mukta-m0-p52-v1295
-with-limbs desire having-worshipped then incense-lamp-etc show
+[sa+aṅgaṃ](sāṅgaṃ) [kāmaṃ](kāmaṃ) [prapūjya](prapūjyātha) [atha](atha) [dhūpa+dīpa+ādi](dhūpadīpādi) [darśayet](darśayet)
+
 ## mukta-m0-p52-v1296
-that and properly having-worshipped then great-triple-city-beauty
+[tam](tañ) [ca](ca) [samyak](samyak) [prapūjya](prapūjyātha) [atha](atha) [mahā+tripurasundarīm](mahātripurasundarīm)
+
 ## mukta-m0-p52-v1297
-fragrant-flowers with-saffron various-fruit-juices also
+[saugandhikaiḥ](saugandhikaiḥ) [sa+kāśmīraiḥ](sakāśmīrair) [nānā+phala+rasaiḥ](nānāphalarasair) [api](api)
+
 ## mukta-m0-p52-v1298
-married-woman and having-worshipped yoni-mandala worship
+[suvāsinīm](suvāsinīñ) [ca](ca) [saṃpūjya](saṃpūjya) [yoni+maṇḍalam](yonimaṇḍalam) [arccayet](arccayet)
+
 ## mukta-m0-p52-v1299
-brahmins also having-worshipped give teacher-offering
+[brāhmaṇān](brāhmaṇān) [api](api) [saṃpūjya](saṃpūjya) [pradadyāt](pradadyād) [guru+dakṣiṇām](gurudakṣiṇām)
+
 ## mukta-m0-p52-v1300
-his yearly worship fruitful not otherwise be
+[tasya](tasya) [sāṃvatsarī](sāṃvatsarī) [pūjā](pūjā) [sa+phalā](saphalā) [na](na) [anyathā](anyathā) [bhavet](bhavet)

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-root-risen + energy-wheel again-root lead gradually
+[root](mūla) [arisen](udgataṃ) [energy](śakti) [wheel](cakraṃ) [again](punar) [to-root](mūlaṃ) [should-lead](nayet) [in-order](kramāt)
+
 ## mukta-m0-p35-v852
-in-this very imperishable principle dissolved that contemplate
+[in-this](asminn) [indeed](eva) [imperishable](avyaye) [principle](tattve) [dissolved](vilīnaṃ) [that](tad) [one-should-contemplate](vicintayet)
+
 ## mukta-m0-p35-v853
-this-characteristic substance offer-without-outward-facing
+[thisness](idantā) [characterized](lakṣaṇaṃ) [substance](dravyaṃ) [one-should-offer](juhuyāt) [outward](abahir) [facing](mukhaḥ)
+
 ## mukta-m0-p35-v854
-declared action-yoga this by-whom that-devotion becomes
+[declared](kathitaḥ) [action](karma) [yoga](yogaḥ) [this](ayaṃ) [by-which](yena) [in-that](tat) [steadfastness](niṣṭhatā) [may-be](bhavet)
+
 ## mukta-m0-p35-v855
-this-practice-and-also perfected becomes yoga-king
+[of-this](etat) [by-practice](abhyāsataḥ) [and](ca) [indeed](eva) [accomplished](siddhaḥ) [becomes](bhavati) [yogi](yogi) [king](rāṭ)
+
 ## mukta-m0-p35-v856
-offering also-enjoy giving that-devotion-possessing
+[offered-food](naivedyaṃ) [and](ca) [one-should-partake](upabhuñjīta) [having-given](dattvā) [to-that](tat) [devotion](bhakti) [endowed](sāline)
+
 ## mukta-m0-p35-v857
-then-and to-guru give three-bows accomplishments
+[then](tataḥ) [and](ca) [to-guru](gurave) [should-give](dadyāt) [salutation](namaskāra) [triad](trayaṃ) [accomplishments](sidhīḥ)
+
 ## mukta-m0-p35-v858
-limb-attached of-men brahmin-killing removes
+[on-body](aṅge) [clinging](lagnaṃ) [of-humans](manuṣyāṇāṃ) [brahmin](brahma) [murder](hatyāṃ) [removes](vyapohati)
+
 ## mukta-m0-p35-v859
-pilgrimage-bath-thousand-crore-fruit-giving sri-cakra-foot-water
+[holy-place](tīrtha) [bath](snāna) [thousand](sahasra) [ten-million](koṭi) [fruit](phala) [giving](daṃ) [śrī](srī) [cakra](cakra) [foot](pāda) [water](udakam)
+
 ## mukta-m0-p35-v860
-full-bliss by-meritorious worship-this declared
+[by-Pūrṇānanda](pūrṇānandena) [by-accomplished-one](kṛtinā) [worship](saparyā) [this](eṣā) [proclaimed](prakīrtitā)
+
 ## mukta-m0-p35-v861
-manifestation
+[illumination](prakāsaḥ)
+
 ## mukta-m0-p35-v862
-what what enjoyment in-you not gather mind-supported
+[which](kaṃ) [which](kaṃ) [enjoyment](bhogaṃ) [in-you](tvayi) [not](na) [gathers](cinute) [mind](cittam) [when-resorted-to](ālambitāyām)
+
 ## mukta-m0-p35-v863
-consciousness-moon-orb-within-situated salutation-to-you shiva-beloved
+[consciousness](cit) [moon](candra) [circle](maṇḍala) [within](antaḥ) [standing](sthe) [salutation](namas) [to-you](te) [Hara](hara) [beloved](vallabhe)
+
 ## mukta-m0-p35-v864
-stability-state-established goddess salutation pillar-loved mother
+[in-stability](sthiti) [state](bhāva) [abiding](sthite) [goddess](devi) [salutation](namaḥ) [to-Sthāṇu](sthāṇu) [dear](priye) [O-Mother](ambike)
+
 ## mukta-m0-p35-v865
-consciousness-pentad goddess salutation-to-you shiva-consort
+[consciousness](caitanya) [pentad](pañcake) [goddess](devi) [salutation](namas) [to-you](tubhyaṃ) [Hara](hara) [consort](aṅgane)
+
 ## mukta-m0-p35-v866
-consciousness-rest-great-being-only mother salutation-be to-you
+[in-consciousness](cit) [repose](viśrānti) [great](mahā) [being](sattā) [essence-alone](mātre) [mother](mātar) [salutation](namas) [be](astu) [to-you](te)
+
 ## mukta-m0-p35-v867
-four-seats-lady auspicious salutation-to-you tripura-lady
+[four](catuḥ) [seats](pīṭha) [sovereign](īśvari) [auspicious-one](śive) [salutation](namas) [to-you](te) [three](tri) [cities](pura) [sovereign](īśvari)
+
 ## mukta-m0-p35-v868
-mother-form assuming to-her mother salutation-be to-you
+[mother](mātṛkā) [form](rūpam) [having-assumed](āsthāya) [to-her](tasyai) [mother](mātar) [salutation](namas) [be](astu) [to-you](te)
+
 ## mukta-m0-p35-v869
-praised you desired thing give compassionate-best
+[praised](stutā) [you](tvaṃ) [desired](vāñchitaṃ) [thing](vastu) [give](dadāsi) [compassion](karuṇā) [ocean](āvare)
+
 ## mukta-m0-p35-v870
-speech-origin-great-accomplishment give tripura-beauty
+[speech-seed](vāgbhava) [beginning-with](ādi) [great](mahā) [accomplishment](siddhiṃ) [give](dehi) [Tripurasundarī](tripurasundari)
+
 ## mukta-m0-p35-v871
-three-sufferings-withered-face protect me auspicious
+[suffering](duḥkha) [triad](traya) [withered](parimlāna) [face](vadanaṃ) [protect](pāhi) [me](māṃ) [auspicious-one](śive)
+
 ## mukta-m0-p35-v872
-according-to-attachment japa worship accept my-grace
+[according-to](yathā) [ability](śakti) [recitation](japaṃ) [worship](pūjāṃ) [accept](gṛhāṇa) [by-my](mat) [favor](anugrahāt)
+
 ## mukta-m0-p35-v873
-my-fault poverty forgive supreme-goddess
+[my](mama) [offense](aparādhaṃ) [wretchedness](kārpaṇyaṃ) [forgive](kṣamasva) [supreme](para) [goddess](devate)
+
 ## mukta-m0-p35-v874
-impure strength our children shiva-beloved
+[impure](aśuddhaṃ) [strength](balam) [of-us](asmākaṃ) [of-children](sisūnāṃ) [Hara](hara) [beloved](vallabhe)
+
 ## mukta-m0-p35-v875
-so-long I accomplished am not your anything diminished
+[so-long](tāvat) [I](aham) [fulfilled](kṛta) [purpose](arthaḥ) [am](asmi) [not](na) [of-you](te) [anything](kiñcana) [diminishes](hīyate)

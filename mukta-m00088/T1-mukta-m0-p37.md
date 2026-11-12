@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[vajresvari](vajresvarī) [bhagavati](bhagavatī) [bhagamalini](bhagamālinī) [ca](ca)
+[vajra+īśvarī](vajresvarī) [bhagavatī](bhagavatī) [bhaga+mālinī](bhagamālinī) [ca](ca)
 
 ## mukta-m0-p37-v902
-[kamesvarim](kāmesvarīṃ) [bhagavatim](bhagavatīṃ) [paripujayami](paripūjayāmi)
+[kāma+īśvarīm](kāmesvarīṃ) [bhagavatīm](bhagavatīṃ) [pari+pūjayāmi](paripūjayāmi)
 
 ## mukta-m0-p37-v903
-[vajresvarim](vajresvarīṃ) [bhagavatim](bhagavatīṃ) [paripujayami](paripūjayāmi)
+[vajra+īśvarīm](vajresvarīṃ) [bhagavatīm](bhagavatīṃ) [pari+pūjayāmi](paripūjayāmi)
 
 ## mukta-m0-p37-v904
-[subhram](subhrāṃ) [bhaje](bhaje) [bhagavatim](bhagavatīṃ) [bhagamalini+ca](bhagamālinīñca)
+[subhrām](subhrāṃ) [bhaje](bhaje) [bhagavatīm](bhagavatīṃ) [bhaga+mālinīm](bhagamālinīñca)
 
 ## mukta-m0-p37-v905
-[seve](seve) [paraparamayim](parāparamayīṃ) [paramesvarim](paramesvarīṃ) [tam](tām)
+[seve](seve) [parā+aparamayīm](parāparamayīṃ) [parama+īśvarīm](paramesvarīṃ) [tām](tām)
 
 ## mukta-m0-p37-v906
-[lila+ni+tilola+nalina+utpala+locana+alim](līlāni(ti)lolanalinotpalalocanālim)
+[līlā+ati+lola+nalina+utpala+locana+ālim](līlānitilolanalinotpalalocanālim)
 
 ## mukta-m0-p37-v907
-[sa-brahmacari+parama+amrita+candra+rekham](sabrahmacāriparamāmṛtacandrarekhām)
+[sa+brahma+cāri+parama+amṛta+candra+rekhām](sabrahmacāriparamāmṛtacandrarekhām)
 
 ## mukta-m0-p37-v908
-[padmasanam](padmāsanāṃ) [trinayanam](trinayanāṃ) [tarunendumastam](taruṇendumastām)
+[padma+āsanām](padmāsanāṃ) [tri+nayanām](trinayanāṃ) [taruṇa+indu+mastām](taruṇendumastām)
 
 ## mukta-m0-p37-v909
-[patra+amsu+induka+manīya+lalāṭa+paṭṭām](patrāṃsumindukamanīyalalāṭapaṭṭām)
+[patra+aṃśu+indu+kamanīya+lalāṭa+paṭṭām](patrāṃsumindukamanīyalalāṭapaṭṭām)
 
 ## mukta-m0-p37-v910
-[panditya+khandita+sudha+nidhi+mandala+abham](pāṇḍityakhaṇḍitasudhānidhimaṇḍalābhām)
+[pāṇḍitya+khaṇḍita+sudhā+nidhi+maṇḍala+ābhām](pāṇḍityakhaṇḍitasudhānidhimaṇḍalābhām)
 
 ## mukta-m0-p37-v911
-[sacchayaya](sacchāyayā) [dviguna+sobhita+kambu+kantim](dviguṇasobhitakambukaṇṭhīm)
+[sacchāyayā](sacchāyayā) [dvi+guṇa+śobhita+kambu+kaṇṭhīm](dviguṇasobhitakambukaṇṭhīm)
 
 ## mukta-m0-p37-v912
-[rbala+pravala+lalita+anguli+pani+lilam](rbālapravālalalitāngulipāṇilīlām)
+[bāla+pravāla+lalita+aṅguli+pāṇi+līlām](rbālapravālalalitāngulipāṇilīlām)
 
 ## mukta-m0-p37-v913
-[pasa+ankusa+isu+dhanur+ayudha+bhusananam+tam](pāsānkuseṣudhanurāyudhabhūṣaṇānām(ṇāṃ tām))
+[pāśa+aṅkuśa+iṣu+dhanuḥ+āyudha+bhūṣaṇānām](pāsānkuseṣudhanurāyudhabhūṣaṇānām) [tām](tām)
 
 ## mukta-m0-p37-v914
-[sobha+abhibhavi+kuca+mandala+purna+kumbham](sobhābhibhāvikucamaṇḍalapūrṇakumbhām)
+[śobhā+abhibhāvi+kuca+maṇḍala+pūrṇa+kumbhām](sobhābhibhāvikucamaṇḍalapūrṇakumbhām)
 
 ## mukta-m0-p37-v915
-[sriman+maha+dyuti+mayim](srīmanmahādyutimayīṃ) [nava+loma+raji](navalomarājīm)
+[śrīmat+mahā+dyuti+mayīm](srīmanmahādyutimayīṃ) [nava+loma+rājīm](navalomarājīm)
 
 ## mukta-m0-p37-v916
-[stambha+abhibhavi+sukumara+taru+ru+yugmam](stambhābhibhāvisukumārataroruyugmām)
+[stambha+abhibhāvi+sukumāra+tara+ūru+yugmām](stambhābhibhāvisukumārataroruyugmām)
 
 ## mukta-m0-p37-v917
-[saundarya+gocara+manohara+pada+padma](saundaryagocaramanoharapādapadmām)
+[saundarya+gocara+manohara+pāda+padmām](saundaryagocaramanoharapādapadmām)
 
 ## mukta-m0-p37-v918
-[drishta+atidista+vara+dana+adhah+prasannam](dṛṣṭātidiṣṭavaradānamadhaḥprasannām)
+[dṛṣṭa+ati+dṛṣṭa+vara+dāna+adhaḥ+prasannām](dṛṣṭātidiṣṭavaradānamadhaḥprasannām)
 
 ## mukta-m0-p37-v919
-[cakresvarim](cakresvarīṃ) [subhakarim](subhakarīṃ) [paripujayami](paripūjayāmi)
+[cakra+īśvarīm](cakresvarīṃ) [subha+karīm](subhakarīṃ) [pari+pūjayāmi](paripūjayāmi)
 
 ## mukta-m0-p37-v920
-[pushpaih](puṣpaiḥ) [prapujya](prapūjya) [paramesvari](paramesvari) [te+arcayami](te'rcayāmi)
+[puṣpaiḥ](puṣpaiḥ) [pra+pūjya](prapūjya) [parama+īśvari](paramesvari) [te](te) [arcayāmi]('rcayāmi)
 
 ## mukta-m0-p37-v921
-[mantraih](mantraiḥ) [param](paraṃ) [paramayim](paramayīṃ) [paripujayami](paripūjayāmi)
+[mantraiḥ](mantraiḥ) [param](paraṃ) [paramayīm](paramayīṃ) [pari+pūjayāmi](paripūjayāmi)
 
 ## mukta-m0-p37-v922
-[matah](mātaḥ) [para](parā) [tripuravasinika](tripuravāsinikā) [tvam+eva](tvameva)
+[mātaḥ](mātaḥ) [parā](parā) [tri+pura+vāsinikā](tripuravāsinikā) [tvam](tvam) [eva](eva)
 
 ## mukta-m0-p37-v923
-[tvam+ca+astame](tvañcāṣṭame) [bhagavati](bhagavatī) [tripuratmaka+iti](tripurātmaketi)
+[tvam](tvañ) [ca](cāṣṭame) [bhagavatī](bhagavatī) [tri+pura+ātmakā](tripurātmakā) [iti](iti)
 
 ## mukta-m0-p37-v924
-[tvam](tvaṃ) [giyase](gīyase) [sukritibhih](sukṛtibhiḥ) [khalu+kaisca+devi](khalu kaisca devī)
+[tvam](tvaṃ) [gīyase](gīyase) [su+kṛtibhiḥ](sukṛtibhiḥ) [khalu](khalu) [kaiśca](kaisca) [devī](devī)
 
 ## mukta-m0-p37-v925
-[saptottara](saptottarā) [satamayi](satamayī) [tvam+asi](tvamasi) [tvam+eka](tvamekā)
+[sapta+uttarā](saptottarā) [śata+mayī](satamayī) [tvam](tvam) [asi](asi) [tvam](tvam) [ekā](ekā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p47-v1151
-incense(dhūpayet) her(tām) with-aghora(aghoreṇa) anoint(lepāyet) with-puruṣa(puruṣeṇa) but(tu)
+[should-fumigate](dhūpayet) [her](tām) [with-Aghora-mantra](aghoreṇa) [should-anoint](lepayet) [with-Puruṣa-mantra](puruṣeṇa) [indeed](tu)
 
 ## mukta-m0-p47-v1152
-meru(meruṃ) and(ca) fifth(pañcamena) indeed(eva) mantra(matreṇa) this(anena) consecrate(mantrayet)
+[Meru](merum) [and](ca) [with-fifth](pañcamena) [indeed](eva) [with-mantra](matreṇa) [with-this](anena) [should-consecrate](mantrayet)
 
 ## mukta-m0-p47-v1153
-that(tat) not(na) desired(samīhitaṃ) in-skull-garland(muṇḍamālāyāṃ) remembered(saṃsmṛtā) because(yataḥ)
+[that](tat) [not](na) [desired](samīhitam) [in-skull-garland](muṇḍamālāyāṃ) [remembered](saṃsmṛtā) [because](yataḥ)
 
 ## mukta-m0-p47-v1154
-lotus-shaped(padmākāre) peepal-leaf-nine(asvatthapatranavakeḥ) place(sthāpayet) and(ca) or(vā)
+[in-lotus+shape](padmākāre) [in-aśvattha+leaf+nine](aśvatthapatranavakeḥ) [should-place](sthāpayecca) [or](vā)
 
 ## mukta-m0-p47-v1155
-great-pretā-seat(mahāpretāsanaṃ) seed(bījaṃ) place(nyaset) there(tatra) and(ca) practitioner(sādhakaḥ)
+[great+corpse+seat](mahāpretāsanaṃ) [seed](bījaṃ) [should-place](nyaset) [there](tatra) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p47-v1156
-according-to-rite(vidhivat) fire(agnim) kindle(āropya) with-ghee(ghṛtena) with-devotion(saktitaḥ) offer(hunet)
+[according-to-rule](vidhivad) [fire](agnim) [having-installed](āropya) [with-ghee](ghṛtena) [with-devotion](saktito) [should-offer](hunet)
 
 ## mukta-m0-p47-v1157
-one-hundred-eight(aṣṭottaraśataṃ) recite(japtvā) guru(guruḥ) garland(mālāṃ) perform(samācaret)
+[eight+above+hundred](aṣṭottarasataṃ) [having-recited](japtvā) [guru](guruḥ) [garland](mālāṃ) [should-perform](samācaret)
 
 ## mukta-m0-p47-v1158
-to-guru(gurave) fee(dakṣiṇāṃ) give(dadyāt) according-to-means(yathāvibhavapūrvakam)
+[to-guru](gurave) [fee](dakṣiṇāṃ) [should-give](dadyād) [according-to+wealth+preceded](yathāvibhavapūrvakam)
 
 ## mukta-m0-p47-v1159
-sprinkle(abhyukṣya) first(ādau) recite(japet) garland(mālāṃ) at-worship-end(pūjānte) also(api) thus(tathā) indeed(eva) and(ca)
+[should-sprinkle](abhyukṣyāt) [in-beginning](ādau) [should-recite](japet) [garland](mālāṃ) [at-worship+end](pūjānte) [also](api) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p47-v1160
-heart-mantra(hṛnmantraṃ) and(ca) utter(samuccārya) worship(pūjayet) best-practitioner(sādhakottamaḥ)
+[heart+mantra](hṛnmantrañ) [and](ca) [having-uttered](samuccārya) [should-worship](pūjayet) [practitioner+best](sādhakottamaḥ)
 
 ## mukta-m0-p47-v1161
-four-aims(caturvargaḥ) in-you(tvayi) placed(nyastaḥ) therefore(tasmāt) to-me(me) siddhi-giver(siddhidā) be(bhava)
+[four+aims](caturvargaḥ) [in-you](tvayi) [placed](nyastaḥ) [therefore](tasmāt) [to-me](me) [success+giving](siddhidā) [be](bhava)
 
 ## mukta-m0-p47-v1162
-māyā(māyāṃ) siddheśvarī(siddhesvarīṃ) not(na) end(antāṃ) heart-within(hṛdayānto) mantra(manuḥ) remembered(smṛtaḥ)
+[māyā](māyāṃ) [success+goddess](siddhesvarīṃ) [ending-in-na](nentāṃ) [heart+ending](hṛdayānto) [mantra](manuḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p47-v1163
-heart-region(hṛtpradese) bring(samānīya) not(na) but(tu) with-left(vāmena) touch(saṃspṛśet)
+[in-heart+region](hṛtpradese) [having-brought](samānīya) [not](na) [but](tu) [with-left](vāmena) [should-touch](saṃspṛset)
 
 ## mukta-m0-p47-v1164
-with-index-finger(tarjanyā) not(na) touch(spṛśet) garland(mālām) with-thumb-tip(aṅguṣṭāgreṇa) move(cālayet)
+[with-index-finger](tarjanyā) [not](na) [should-touch](spṛset) [garland](mālām) [with-thumb+tip](anguṣṭāgreṇa) [should-move](cālayet)
 
 ## mukta-m0-p47-v1165
-index-thumb-union(tarjanyanguṣṭhayogena) in-hatred-expulsion(vidveṣoccāṭane) japa(japaḥ)
+[index-finger+thumb+union](tarjanyanguṣṭhayogena) [in-enmity+uprooting](vidveṣoccāṭane) [recitation](japaḥ)
 
 ## mukta-m0-p47-v1166
-after-japa(japānte) on-head(mastake) garland(mālāṃ) throw(kṣiptvā) with-this(anena) worship(samarcayet)
+[at-recitation+end](japānte) [on-head](mastake) [garland](mālāṃ) [having-placed](kṣiptvā) [with-this](anena) [should-worship](samarcayet)
 
 ## mukta-m0-p47-v1167
-auspicious(śivaṃ) make(kuruṣva) for-me(me) O-blessed(bhadre) fame(yaśaḥ) vigor(vīryaṃ) and(ca) always(sarvadā)
+[auspiciousness](sivaṃ) [make](kuruṣva) [for-me](me) [O-auspicious-one](bhadre) [fame](yaso) [vigor](vīryañ) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p47-v1168
-at-japa-time(japakāle) also(api) protect(goptavyā) japa-garland(japamālā) very-beautiful(susobhanā)
+[at-recitation+time](japakāle) [also](api) [to-be-protected](goptavyā) [recitation+garland](japamālā) [very-beautiful](susobhanā)
 
 ## mukta-m0-p47-v1169
-seize(gṛhṇanti) rākṣasas(rākṣās) by-that(tena) count(gaṇayet) always(sarvathā) wise-one(budhaḥ)
+[seize](gṛhṇanti) [demons](rākṣāḥ) [therefore](tena) [should-count](gaṇayet) [in-every-way](sarvathā) [wise-one](budhaḥ)
 
 ## mukta-m0-p47-v1170
-from-hand(karāt) fallen(bhraṣṭe) sound-made(sabdakṛte) recite(japet) one-hundred-eight(aṣṭottaraṃ śatam)
+[from-hand](karāt) [fallen](bhraṣṭe) [sound+made](sabdakṛte) [should-recite](japet) [eight+above+hundred](aṣṭottaraṃ) [hundred](satam)
 
 ## mukta-m0-p47-v1171
-forbidden-touch(niṣiddhasparsane) likewise(tadvat) recite(japet) wash(prakṣālya) mantra-knower(mantravit)
+[in-forbidden+touch](niṣiddhasparsane) [likewise](tadvaj) [should-recite](japet) [having-washed](prakṣālya) [mantra+knower](mantravit)
 
 ## mukta-m0-p47-v1172
-of-mantra-and-sādhana(mantrasādhanayoraikyaṃ) unity(aikyaṃ) rare(durlabhaṃ) on-earth(bhuvi) by-men(mānavaiḥ)
+[mantra+sādhana+unity](mantrasādhanayoraikyaṃ) [hard-to-obtain](durlabhaṃ) [on-earth](bhuvi) [by-humans](mānavaiḥ)
 
 ## mukta-m0-p47-v1173
-named-ānanda(ānandākhye) in-pañcarātra(pañcarātre) to-sukra(sukrāya) to-poet(kavaye) formerly(purā)
+[in-Ānanda+named](ānandākhye) [in-Pañcarātra](pañcarātre) [to-Śukra](sukrāya) [to-poet](kavaye) [formerly](purā)
 
 ## mukta-m0-p47-v1174
-do(kuryāt) then(atha) their(tayoḥ) unity(aikyaṃ) by-scripture-seen(sāstradṛṣṭena) path(vartmanā)
+[should-make](kuryāt) [then](atha) [of-those-two+unity](tayoraikyaṃ) [scripture+seen](sāstradṛṣṭena) [by-path](vartmanā)
 
 ## mukta-m0-p47-v1175
-at-beginning-and-end(ādyante) whole(sakalaṃ) name(nāma) then(tataḥ) praṇava(praṇavam) write(ālikhet)
+[at-beginning+end](ādyante) [whole](sakalaṃ) [name](nāma) [then](tataḥ) [praṇava](praṇavam) [should-write](ālikhet)
