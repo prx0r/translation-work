@@ -5,7 +5,7 @@
 [tamo+guṇa+āśrita+parā](tamoguṇāśritaparā) [tamo+guṇa+vināśinī](tamoguṇavināśinī)
 
 ## mukta-m0-p31-v752
-[tamo+guṇa+dhvaṃsa+tuṣṭā](tamoguṇadhvaṃsatuṣṭā) [tamaḥ](tamaḥ) [prati+sthita+ā](pārepratiṣṭhitā)
+[tamo+guṇa+dhvaṃsa+tuṣṭā](tamoguṇadhvaṃsatuṣṭā) [tamaḥ](tamaḥ) [prati+sthita](pratiṣṭhitā)
 
 ## mukta-m0-p31-v753
 [tamo+bhava+bhava+āśraddhā](tamobhavabhavāśraddhā) [tamo+bhava+bhava+āśrayā](tamobhavabhavāśrayā)
@@ -32,46 +32,46 @@
 [tapasvin+tāpa+saṃharttrī](tapasvitāpasaṃharttrī) [tapasvin+tāpa+śānti+kṛt](tapasvitāpaśāntikṛt)
 
 ## mukta-m0-p31-v761
-[tapasvin+mantra+tantra+īśī](tapasvimantratantreśī) [tapasvin+mantra+rūpiṇī](tapasvimantrarūpiṇī)
+[tapasvin+mantra+tantreśī](tapasvimantratantreśī) [tapasvin+mantra+rūpiṇī](tapasvimantrarūpiṇī)
 
 ## mukta-m0-p31-v762
 [tapasvin+karma+sambhūtā](tapasvikarmasambhūtā) [tapasvin+karma+sākṣiṇī](tapasvikarmasākṣiṇī)
 
 ## mukta-m0-p31-v763
-[tapaḥ+vaśyā](tapovaśyā) [tapaḥ+gamyā](tapogamyā) [tapaḥ+geha+nivāsinī](tapogehanivāsinī)
+[tapo+vaśyā](tapovaśyā) [tapo+gamyā](tapogamyā) [tapo+geha+nivāsinī](tapogehanivāsinī)
 
 ## mukta-m0-p31-v764
-[tapaḥ+tathyā](tapastathyā) [tapaḥ+gopyā](tapogopyā) [tapaḥ+japyā](tapojapyā) [tapaḥ+nṛtā](taponṛtā)
+[tapaḥ+tathyā](tapastathyā) [tapo+gopyā](tapogopyā) [tapo+japyā](tapojapyā) [tapo+nṛtā](taponṛtā)
 
 ## mukta-m0-p31-v765
-[tapaḥ+sandhyā](tapassandhyā) [tapaḥ+vandhyā](tapovandhyā) [tapaḥ+sānnidhya+kāriṇī](tapassānnidhyakāriṇī)
+[tapaḥ+sandhyā](tapassandhyā) [tapo+vandhyā](tapovandhyā) [tapaḥ+sānnidhya+kāriṇī](tapassānnidhyakāriṇī)
 
 ## mukta-m0-p31-v766
-[tapaḥ+leyā](tapoleyā) [tapaḥ+deyā](tapodeyā) [tapaḥ+tattva+phala+pradā](tapastattvaphalapradā)
+[tapo+leyā](tapoleyā) [tapo+deyā](tapodeyā) [tapaḥ+tattva+phala+pradā](tapastattvaphalapradā)
 
 ## mukta-m0-p31-v767
-[tapaḥ+vighna+caya+dhvaṃsī](tapovighnacayadhvaṃsī) [tapaḥ+vighna+bhayaṅkarī](tapovighnabhayaṅkarī)
+[tapo+vighna+caya+dhvaṃsī](tapovighnacayadhvaṃsī) [tapo+vighna+bhayaṅkarī](tapovighnabhayaṅkarī)
 
 ## mukta-m0-p31-v768
-[tapaḥ+bhūmi+pati+dhyeyā](tapobhūmipatidhyeyā) [tapaḥ+bhūmi+pati+īṣṭa+dā](tapobhūmipatīṣṭadā)
+[tapo+bhūmi+pati+dhyeyā](tapobhūmipatidhyeyā) [tapo+bhūmi+pati+īṣṭa+dā](tapobhūmipatīṣṭadā)
 
 ## mukta-m0-p31-v769
-[tapaḥ+vana+gata+prītā](tapovanagatiprītā) [tapaḥ+vana+vihāriṇī](tapovanavihāriṇī)
+[tapo+vana+gata+prītā](tapovanagatiprītā) [tapo+vana+vihāriṇī](tapovanavihāriṇī)
 
 ## mukta-m0-p31-v770
-[tapaḥ+vana+susādhyā](tapovanasusādhyā) [ca](ca) [tapaḥ+vana+susiddhi+dā](tapovanasusiddhidā)
+[tapo+vana+susādhyā](tapovanasusādhyā) [ca](ca) [tapo+vana+susiddhi+dā](tapovanasusiddhidā)
 
 ## mukta-m0-p31-v771
-[tapaḥ+dhana+susam+sevyā](tapodhanasusaṃsevyā) [tapaḥ+dhana+susādhitā](tapodhanasusādhitā)
+[tapo+dhana+susam+sevyā](tapodhanasusaṃsevyā) [tapo+dhana+susādhitā](tapodhanasusādhitā)
 
 ## mukta-m0-p31-v772
-[tapaḥ+dhana+namaskārā](tapodhananamaskārā) [tapaḥ+dhana+vimukti+dā](tapodhanavimuktidā)
+[tapo+dhana+namaskārā](tapodhananamaskārā) [tapo+dhana+vimukti+dā](tapodhanavimuktidā)
 
 ## mukta-m0-p31-v773
-[tapaḥ+dhana+dhana+ārādhyā](tapodhanadhanārādhyā) [tapaḥ+dhana+phala+pradā](tapodhanaphalapradā)
+[tapo+dhana+dhana+ārādhyā](tapodhanadhanārādhyā) [tapo+dhana+phala+pradā](tapodhanaphalapradā)
 
 ## mukta-m0-p31-v774
-[tapaḥ+dhana+dhana+prītā](tapodhanadhanaprītā) [tapaḥ+dhana+dhana+ālayā](tapodhanadhanālayā)
+[tapo+dhana+dhana+prītā](tapodhanadhanaprītā) [tapo+dhana+dhana+ālayā](tapodhanadhanālayā)
 
 ## mukta-m0-p31-v775
-[tapaḥ+dhana+jana+ārādhyā](tapodhanajanārādhyā) [tapaḥ+dhana+jana+prasūḥ](tapodhanajanaprasūḥ)
+[tapo+dhana+jana+ārādhyā](tapodhanajanārādhyā) [tapo+dhana+jana+prasūḥ](tapodhanajanaprasūḥ)

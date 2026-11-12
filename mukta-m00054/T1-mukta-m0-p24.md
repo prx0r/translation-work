@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[food-offering+slanderers](naivedyanindakān) [wicked](duṣṭān) [having-seen](dṛṣṭvā) [dance](nṛtyanti) [bhairavas](bhairavāḥ)
+[offering+reviler](naivedya+nindakān) [wicked](duṣṭān) [having-seen](dṛṣṭvā) [dance](nṛtyanti) [Bhairavas](bhairavāḥ)
 
 ## mukta-m0-p24-v577
-[flesh+bone+skin+engaged](māṃsāsthicarmaṇodyuktā) [they-devour](bhakṣayanti) [not](na) [doubt](saṃśayaḥ)
+[flesh+bone+skin+engaged](māṃsa+asthi+carmaṇa+udyuktā) [devour](bhakṣayanti) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p24-v578
-[otherwise](anyathā) [does](kurute) [who](yastu) [his](tasya) [destruction](nāśo) [will-be](bhaviṣyati)
+[otherwise](anyathā) [does](kurute) [who](yaḥ) [but](tu) [his](tasya) [destruction](nāśo) [will-be](bhaviṣyati)
 
 ## mukta-m0-p24-v579
-[mantra+disturbance](mantrakṣobhaśca) [or](vā) [may-be](bhūyāt) [diminished+life](kṣīṇāyurvā) [may-be](bhaveddhruvam) [certainly](dhruvam)
+[mantra+disturbance](mantra+kṣobhaḥ) [and](ca) [or](vā) [may-be](bhūyāt) [diminished+life](kṣīṇa+āyuḥ) [or](vā) [may-be](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p24-v580
-[krama+initiation+endowed](kramadīkṣāyuto) [O-goddess](devi) [gradually+kingdom](kramādrājyamavāpnuyāt) [obtains](avāpnuyāt)
+[sequence+initiation+endowed](krama+dīkṣā+yuto) [O-goddess](devi) [gradually](kramāt) [kingdom](rājyam) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p24-v581
-[two-times+and](dvivārañca) [recites+who](paṭhedyo) [indeed](hi) [desire](vāñchā) [obtains](vvindati) [always](nityaśaḥ)
+[two+times](dvi+vāram) [and](ca) [recites](paṭhet) [who](yaḥ) [indeed](hi) [desire](vāñchām) [obtains](vindati) [always](nityaśaḥ)
 
 ## mukta-m0-p24-v582
-[four-times](caturvārampaṭheddevi) [recites](paṭhed) [O-goddess](devi) [four+classes+lord](caturvarṇādhipo) [becomes](bhavet)
+[four+times](catur+vāram) [recites](paṭhet) [O-goddess](devi) [four+classes+lord](catur+varṇa+adhipo) [becomes](bhavet)
 
 ## mukta-m0-p24-v583
-[six-times+and](ṣaḍvārañca) [recites](paṭheddevi) [O-goddess](devi) [six+powers+lord](ṣaḍaiśvaryādhipo) [becomes](bhavet)
+[six+times](ṣaḍ+vāram) [and](ca) [recites](paṭhet) [O-goddess](devi) [six+powers+lord](ṣaḍ+aiśvarya+adhipo) [becomes](bhavet)
 
 ## mukta-m0-p24-v584
-[eight-times](vāsuvārampaṭheddevi) [recites](paṭhed) [O-goddess](devi) [direction+lord](digīśo) [becomes](bhavati) [certainly](dhruvam)
+[eight+times](vāsu+vāram) [recites](paṭhet) [O-goddess](devi) [direction+lord](dig+īśo) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p24-v585
-[ten-times](daśavāraṅkīrttayedyo) [praises+who](kīrttayedyo) [ten+worthy](daśārhaḥ) [sky-mover+lord](khecareśvaraḥ)
+[ten+times](daśa+vāram) [recites](kīrttayet) [who](yaḥ) [ten+worthy](daśa+arhaḥ) [sky+moving+lord](khecara+īśvaraḥ)
 
 ## mukta-m0-p24-v586
-[twenty-five-times+by](pañcaviṃśativāraistu) [all+anxiety+destroyer](sarvacintāvināśakaḥ)
+[twenty-five+times](pañcaviṃśati+vāraiḥ) [but](tu) [all+anxiety+destroyer](sarva+cintā+vināśakaḥ)
 
 ## mukta-m0-p24-v587
-[hundred-times](śatavāraṅkīrttayedyaḥ) [praises+who](kīrttayedyaḥ) [hundred+faced+equal+intellect](śatānanasamānadhīḥ)
+[hundred+times](śata+vāram) [recites](kīrttayet) [who](yaḥ) [hundred+faced+equal+intellect](śata+ānana+samāna+dhīḥ)
 
 ## mukta-m0-p24-v588
-[thousand+repetition+from](sahasrāvarttanāddevi) [O-goddess](devi) [Lakshmi](lakṣmīrāvṛṇute) [chooses](āvṛṇute) [herself](svayam)
+[thousand+repetitions](sahasra+āvarttanāt) [O-goddess](devi) [Lakshmi](lakṣmīḥ) [chooses](āvṛṇute) [herself](svayam)
 
 ## mukta-m0-p24-v589
-[five-thousand](pañcasāhasramāvarttya) [having-repeated](āvarttya) [crore+of-Kama+enchanter](kāmakoṭivimohanaḥ)
+[five+thousand](pañca+sāhasram) [having-repeated](āvarttya) [crore+of-desires+enchanter](kāma+koṭi+vimohanaḥ)
 
 ## mukta-m0-p24-v590
-[twenty-five-thousand+by](pañcaviṃśatisāhasraiścaturviṃśatisiddhidhṛk) [twenty-four+siddhis+holder](caturviṃśatisiddhidhṛk)
+[twenty-five+thousands](pañcaviṃśati+sāhasraiḥ) [twenty-four+powers+holder](caturviṃśati+siddhi+dhṛk)
 
 ## mukta-m0-p24-v591
-[three-lakh+repetition+from](lakṣatrayāvarttanāttu) [Mahadeva](mahādeva) [conquers](vvijeṣyati)
+[three+hundred-thousand+repetitions](lakṣa+traya+āvarttanāt) [but](tu) [Mahadeva](mahādevam) [conquers](vijeṣyati)
 
 ## mukta-m0-p24-v592
-[ten-lakh+repetition+from](daśalakṣāvartanāttu) [ten+knowledges+attainment](daśavidyāptiruttamā) [supreme](uttamā)
+[ten+hundred-thousand+repetitions](daśa+lakṣa+āvarttanāt) [but](tu) [ten+knowledges+attainment](daśa+vidyā+āptiḥ) [supreme](uttamā)
 
 ## mukta-m0-p24-v593
-[fifty-lakh](pañcāśallakṣamāvṛtya) [having-repeated](āvṛtya) [Mahakala+equal](mahākālasamo) [becomes](bhavet)
+[fifty+hundred-thousand](pañcāśat+lakṣam) [having-repeated](āvṛtya) [Mahakala+equal](mahākāla+samo) [becomes](bhavet)
 
 ## mukta-m0-p24-v594
-[boon+giving+engaged+hand](varadānodyuktakarām) [Mahakala+accompanied](mahākālasamanvitām)
+[boon+giving+engaged+hand](vara+dāna+udyukta+karām) [Mahakala+accompanied](mahākāla+samanvitām)
 
 ## mukta-m0-p24-v595
-[Shri-vidya+Kalika+Tara+three+powers](śrīvidyā-kālikā-tārā-triśakti) [conqueror](vijayī) [becomes](bhavet)
+[Shri-vidya+Kalika+Tara+three+powers+conqueror](śrīvidyā+kālikā+tārā+tri+śakti+vijayī) [becomes](bhavet)
 
 ## mukta-m0-p24-v596
-[great+kingdom](mahārājyamavāpnoti) [obtains](avāpnoti) [not+here](nātra) [to-be-done](kāryā) [consideration](vicāraṇā)
+[great+kingdom](mahā+rājyam) [obtains](avāpnoti) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p24-v597
-[krama+initiation+endowed](kramadīkṣāyuto) [O-goddess](devi) [king](rājā) [becomes](bhavati) [certainly](niścitam)
+[sequence+initiation+endowed](krama+dīkṣā+yuto) [O-goddess](devi) [king](rājā) [becomes](bhavati) [certainly](niścitam)
 
 ## mukta-m0-p24-v598
-[krama+initiation+endowed](kramadīkṣāyuto) [O-goddess](devi) [Shiva](śiva) [indeed](eva) [not](na) [other](cāparaḥ)
+[sequence+initiation+endowed](krama+dīkṣā+yuto) [O-goddess](devi) [Shiva](śivaḥ) [indeed](eva) [not](na) [other](ca+aparaḥ)
 
 ## mukta-m0-p24-v599
-[krama+initiation+devoid+of](kramadīkṣāvihīnasya) [siddhi+loss](siddhihāniḥ) [step](pade) [step](pade)
+[sequence+initiation+devoid](krama+dīkṣā+vihīnasya) [success+loss](siddhi+hāniḥ) [step](pade) [step](pade)
 
 ## mukta-m0-p24-v600
-[there+also](tatrāpi) [blessed](dhanyo) [O-lord-of-gods](deveśi) [name+thousand+reciter](nāmasāhasrapāṭhakaḥ)
+[there](tatra) [also](api) [blessed](dhanyo) [O-goddess-lord](deva+īśi) [name+thousand+reciter](nāma+sāhasra+pāṭhakaḥ)
