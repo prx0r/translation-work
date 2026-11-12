@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound: vijñāna+first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "unmīlanam",
-   "morph": "compound: unmīlana+second, n.nom.sg",
-   "grounds": "second member of compound"
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular of unmīlana"
   },
   {
    "lemma": "bhadre",
    "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "vocative singular of bhadrā"
   },
   {
    "lemma": "bhavati",
-   "morph": "3.sg.present-active √bhū",
-   "grounds": "occurs"
+   "morph": "3.sg.pres.act √bhū",
+   "grounds": "present indicative of bhū"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "in this way"
+   "grounds": "adverb"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negation particle"
   },
   {
    "lemma": "anya",
-   "morph": "compound: anya+first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "sevanāt",
-   "morph": "compound: sevana+second, n.abl.sg",
-   "grounds": "second member of compound"
+   "morph": "n.abl.sg",
+   "grounds": "ablative singular of sevana"
   }
  ]
 }

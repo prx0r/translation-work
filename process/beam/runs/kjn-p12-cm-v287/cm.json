@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound: padma+first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "patre",
-   "morph": "compound: patra+second, n.loc.sg",
-   "grounds": "second member of compound"
+   "morph": "n.loc.sg",
+   "grounds": "locative singular of patra"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "comparative particle"
+   "grounds": "relative adverb"
   },
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "water"
+   "grounds": "locative singular of toya"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "correlative particle"
+   "grounds": "correlative adverb"
   },
   {
    "lemma": "ca",
@@ -35,17 +35,17 @@
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "manner adverb"
+   "grounds": "adverb"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negation particle"
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.present-passive √lip",
-   "grounds": "affected"
+   "morph": "3.sg.pres.pass √lip",
+   "grounds": "present indicative passive of lip"
   }
  ]
 }

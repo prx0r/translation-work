@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "aṇimā",
-   "morph": "compound: aṇimā+first",
-   "grounds": "first siddhi"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "ādi",
-   "morph": "compound: ādi+middle",
+   "morph": "compound-member",
    "grounds": "middle member of compound"
   },
   {
    "lemma": "guṇa",
-   "morph": "compound: guṇa+middle",
+   "morph": "compound-member",
    "grounds": "middle member of compound"
   },
   {
    "lemma": "aiśvarya",
-   "morph": "compound: aiśvarya+final",
-   "grounds": "final member of compound"
+   "morph": "compound-member",
+   "grounds": "middle member of compound"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "supernatural attainment"
+   "grounds": "nominative singular of siddhi"
   },
   {
    "lemma": "ca",
@@ -35,12 +35,12 @@
   {
    "lemma": "mānasī",
    "morph": "f.nom.sg",
-   "grounds": "pertaining to mind"
+   "grounds": "nominative singular feminine of mānasa"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "potential result"
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "optative of bhū"
   }
  ]
 }
