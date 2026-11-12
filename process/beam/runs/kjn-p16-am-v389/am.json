@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 389,
- "question": "Why is this circle considered uniquely supreme among yogic practices?",
+ "question": "How rare is this circle compared to any higher yogic attainment?",
  "premises": [
-  "This circle is hard to obtain",
+  "This circle is difficult to obtain",
   "No yoga higher than this exists",
-  "The statement asserts its supremacy"
+  "The statement asserts supreme status"
  ],
  "inference": "This circle is rare and there is no yoga higher than it.",
- "uncertainties": [],
- "plain_english": "This circle is indeed hard to obtain; there is no yoga higher than this."
+ "uncertainties": [
+  "Case agreement in imaṃ cakraṃ and yogaṃ imam+param is syntactically compressed."
+ ],
+ "plain_english": "This circle is indeed difficult to obtain; there is no yoga higher than this."
 }
