@@ -7,39 +7,37 @@
     {
      "surface": "ūrddha",
      "gloss": "upward",
-     "grounds": "legacy hint upward",
-     "morph": "indecl."
+     "grounds": "directional term indicating vertical direction",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tīryak+saṃśuddhā",
      "gloss": "horizontal-purified",
-     "grounds": "compound horizontal+purified",
-     "morph": "compound"
+     "grounds": "compound describing purification extending horizontally",
+     "morph": "compound=tīryak+saṃśuddhā; f.nom.sg"
     },
     {
      "surface": "mahāśakti",
      "gloss": "great-power",
-     "grounds": "compound great+power",
-     "morph": "compound"
+     "grounds": "epithet denoting supreme power",
+     "morph": "compound=mahā+śakti; f.nom.sg"
     },
     {
      "surface": "sutejasā",
      "gloss": "with-great-splendor",
-     "grounds": "instrumental great-splendor",
-     "morph": "f.sg.instr"
+     "grounds": "describes radiant brilliance",
+     "morph": "compound=su+tejas; n.inst.sg"
     }
    ],
-   "question": "What qualities characterize the purified horizontal great power?",
+   "question": "How is the great power characterized in its upward, horizontal, and radiant purity?",
    "premises": [
-    "The power is upward and horizontal.",
-    "It is purified and great.",
-    "It is endowed with great splendor."
+    "The power extends upward",
+    "The power is purified horizontally",
+    "The power possesses great splendor"
    ],
-   "inference": "The verse describes a purified horizontal great power radiant with splendor.",
-   "uncertainties": [
-    "Exact ritual referent remains implicit."
-   ],
-   "plain_english": "The upward, horizontal, purified great power shines with great splendor."
+   "inference": "The great power is omnidirectionally pure and radiantly potent.",
+   "uncertainties": [],
+   "plain_english": "The great power is purified upward and horizontally, endowed with great splendor."
   },
   {
    "verse": 177,
@@ -47,43 +45,43 @@
     {
      "surface": "tāmbula+pūritaṃ",
      "gloss": "betel-filled",
-     "grounds": "compound betel+filled",
-     "morph": "compound"
+     "grounds": "compound describing the mouth filled with betel",
+     "morph": "compound=tāmbula+pūrita; n.nom.sg"
     },
     {
      "surface": "vaktraṃ",
      "gloss": "mouth",
-     "grounds": "legacy hint mouth",
+     "grounds": "the face or mouth",
      "morph": "n.nom.sg"
     },
     {
      "surface": "viliptaṃ",
      "gloss": "smeared",
-     "grounds": "legacy hint smeared",
-     "morph": "participle"
+     "grounds": "past participle indicating anointment",
+     "morph": "n.nom.sg; ppp √lip"
     },
     {
      "surface": "muktamena",
      "gloss": "with-musk",
-     "grounds": "compound with+musk",
-     "morph": "compound"
+     "grounds": "instrumental indicating the substance used for smearing",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "indecl."
+     "grounds": "conjunction connecting attributes",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How is the mouth described in this ritual scene?",
+   "question": "What physical adornments mark the mouth in this ritual description?",
    "premises": [
-    "The mouth is filled with betel.",
-    "It is smeared with musk.",
-    "The description joins these features."
+    "The mouth is filled with betel",
+    "The mouth is smeared with musk",
+    "Both adornments are present together"
    ],
-   "inference": "The verse portrays a mouth filled with betel and smeared with musk.",
+   "inference": "The mouth is ritually adorned with betel and musk.",
    "uncertainties": [
-    "The exact ritual actor is not named."
+    "muktamena may refer to musk or another fragrant substance"
    ],
    "plain_english": "The mouth is filled with betel and smeared with musk."
   },
@@ -92,40 +90,38 @@
    "rows": [
     {
      "surface": "yoginī+vīra+saṃyuktaṃ",
-     "gloss": "yoginī-hero-united",
-     "grounds": "compound yoginī+hero+united",
-     "morph": "compound"
+     "gloss": "yogini-hero-united",
+     "grounds": "compound indicating union with yoginis and heroes",
+     "morph": "compound=yoginī+vīra+saṃyukta; n.nom.sg"
     },
     {
      "surface": "yugma+pātraṃ",
      "gloss": "pair-vessel",
-     "grounds": "compound pair+vessel",
-     "morph": "compound"
+     "grounds": "ritual vessel used by a pair",
+     "morph": "compound=yugma+pātra; n.nom.sg"
     },
     {
      "surface": "pṛthak",
      "gloss": "separately",
-     "grounds": "legacy hint separately",
-     "morph": "indecl."
+     "grounds": "adverb indicating distinction",
+     "morph": "(indecl.)"
     },
     {
      "surface": "pṛthak",
      "gloss": "separately",
-     "grounds": "legacy hint separately",
-     "morph": "indecl."
+     "grounds": "repeated adverb emphasizing individual distinction",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How are yoginī and hero united in the pair vessel?",
+   "question": "How is the ritual vessel arranged in relation to the yoginis and heroes?",
    "premises": [
-    "Yoginī and hero are united.",
-    "A pair vessel is involved.",
-    "The items are treated separately."
+    "The vessel is united with yoginis and heroes",
+    "The vessel is a paired vessel",
+    "Each is arranged separately"
    ],
-   "inference": "The verse links yoginī-hero union with a pair vessel and separate handling.",
-   "uncertainties": [
-    "The ritual procedure is only sketched."
-   ],
-   "plain_english": "Yoginī and hero are united in a pair vessel, each handled separately."
+   "inference": "Paired vessels are used distinctly for the united yoginis and heroes.",
+   "uncertainties": [],
+   "plain_english": "United with yoginis and heroes, there is a paired vessel, each placed separately."
   },
   {
    "verse": 179,
@@ -133,33 +129,31 @@
     {
      "surface": "rakta+ambara+dharāḥ",
      "gloss": "red-garment-wearing",
-     "grounds": "compound red+garment+wearing",
-     "morph": "compound"
+     "grounds": "compound describing those who wear red garments",
+     "morph": "compound=rakta+ambara+dhara; m.nom.pl"
     },
     {
      "surface": "sarve",
      "gloss": "all",
-     "grounds": "legacy hint all",
+     "grounds": "pronoun indicating the entire group",
      "morph": "m.nom.pl"
     },
     {
      "surface": "keyūra+kaṭaka+ujjvalāḥ",
      "gloss": "armlet-bracelet-resplendent",
-     "grounds": "compound armlet+bracelet+resplendent",
-     "morph": "compound"
+     "grounds": "compound describing brilliance from armlets and bracelets",
+     "morph": "compound=keyūra+kaṭaka+ujjvala; m.nom.pl"
     }
    ],
-   "question": "What appearance do all the participants have?",
+   "question": "What attire and ornaments characterize all the participants in this gathering?",
    "premises": [
-    "All wear red garments.",
-    "All are resplendent with armlets and bracelets.",
-    "The description is collective."
+    "All wear red garments",
+    "All are resplendent with armlets and bracelets",
+    "These attributes apply to everyone present"
    ],
-   "inference": "The verse depicts all participants in red garments adorned with shining armlets and bracelets.",
-   "uncertainties": [
-    "The exact group remains unspecified."
-   ],
-   "plain_english": "All wear red garments and shine with armlets and bracelets."
+   "inference": "All participants are uniformly adorned in red garments and shining ornaments.",
+   "uncertainties": [],
+   "plain_english": "All are clad in red garments and resplendent with armlets and bracelets."
   },
   {
    "verse": 180,
@@ -167,73 +161,71 @@
     {
      "surface": "ittham+bhūtaṃ",
      "gloss": "thus-being",
-     "grounds": "compound thus+being",
-     "morph": "compound"
+     "grounds": "compound indicating such a state or condition",
+     "morph": "compound=ittham+bhūta; m.acc.sg"
     },
     {
      "surface": "kula+ācāryaḥ",
      "gloss": "kula-teacher",
-     "grounds": "compound kula+teacher",
-     "morph": "compound"
+     "grounds": "the teacher of the kula tradition",
+     "morph": "compound=kula+ācārya; m.nom.sg"
     },
     {
      "surface": "kula+putraiḥ+adhiṣṭhitam",
      "gloss": "by-kula-sons-presided-over",
-     "grounds": "compound by+kula+sons+presided",
-     "morph": "compound"
+     "grounds": "compound indicating presiding by sons of the kula",
+     "morph": "compound=kula+putra+adhiṣṭhita; m.acc.sg"
     }
    ],
-   "question": "Who presides over the thus-constituted kula assembly?",
+   "question": "Who presides over the kula teacher in this ritually constituted state?",
    "premises": [
-    "The assembly is thus constituted.",
-    "The kula teacher is involved.",
-    "Kula sons preside over it."
+    "The kula teacher is in such a state",
+    "The kula teacher is presided over by kula sons",
+    "The presiding is performed by qualified members"
    ],
-   "inference": "The verse states that kula sons preside over the thus-constituted kula assembly under its teacher.",
-   "uncertainties": [
-    "The precise institutional role is implicit."
-   ],
-   "plain_english": "The thus-constituted kula assembly is presided over by kula sons."
+   "inference": "The kula teacher, thus constituted, is attended and presided over by the sons of the kula.",
+   "uncertainties": [],
+   "plain_english": "The kula teacher, being in such a state, is presided over by the sons of the kula."
   },
   {
    "verse": 181,
    "rows": [
     {
      "surface": "karavīraṃ",
-     "gloss": "at-Karavīra",
-     "grounds": "legacy hint at-Karavīra",
+     "gloss": "at-Karavira",
+     "grounds": "name of a sacred site",
      "morph": "n.acc.sg"
     },
     {
      "surface": "mahākālaṃ",
-     "gloss": "at-Mahākāla",
-     "grounds": "legacy hint at-Mahākāla",
-     "morph": "n.acc.sg"
+     "gloss": "at-Mahakala",
+     "grounds": "name of a sacred site",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "devikoṭyaṃ",
-     "gloss": "at-Devīkoṭa",
-     "grounds": "legacy hint at-Devīkoṭa",
-     "morph": "n.acc.sg"
+     "gloss": "at-Devikota",
+     "grounds": "name of a sacred site",
+     "morph": "f.loc.sg"
     },
     {
      "surface": "varānane",
      "gloss": "O-fair-faced-one",
-     "grounds": "legacy hint O-fair-faced-one",
-     "morph": "f.voc.sg"
+     "grounds": "vocative address to the goddess",
+     "morph": "compound=vara+ānana; f.voc.sg"
     }
    ],
-   "question": "Which sacred places are named in this address?",
+   "question": "Which sacred sites are named as locations in this teaching to the fair-faced goddess?",
    "premises": [
-    "Karavīra is named.",
-    "Mahākāla is named.",
-    "Devīkoṭa is named."
+    "Karavira is named as a site",
+    "Mahakala is named as a site",
+    "Devikota is named as a site"
    ],
-   "inference": "The verse names Karavīra, Mahākāla, and Devīkoṭa in an address to the fair-faced one.",
+   "inference": "Karavira, Mahakala, and Devikota are identified as sacred locations.",
    "uncertainties": [
-    "The grammatical relation to the address is loose."
+    "grammatical case of devikoṭyaṃ differs from the others in the list"
    ],
-   "plain_english": "Karavīra, Mahākāla, and Devīkoṭa are named, O fair-faced one."
+   "plain_english": "At Karavira, at Mahakala, and at Devikota, O fair-faced one."
   },
   {
    "verse": 182,
@@ -241,63 +233,61 @@
     {
      "surface": "teṣāṃ",
      "gloss": "of-them",
-     "grounds": "legacy hint of-them",
+     "grounds": "pronoun referring to previously mentioned entities",
      "morph": "m.gen.pl"
     },
     {
      "surface": "madhye",
      "gloss": "in-middle",
-     "grounds": "legacy hint in-middle",
-     "morph": "indecl."
+     "grounds": "locative indicating position among them",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "pradhānan",
      "gloss": "chief",
-     "grounds": "legacy hint chief",
-     "morph": "m.nom.sg"
+     "grounds": "the foremost or principal ones",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "indecl."
+     "grounds": "particle emphasizing the statement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ye",
      "gloss": "who",
-     "grounds": "legacy hint who",
+     "grounds": "relative pronoun introducing a clause",
      "morph": "m.nom.pl"
     },
     {
      "surface": "jātāḥ",
      "gloss": "born",
-     "grounds": "legacy hint born",
-     "morph": "participle"
+     "grounds": "past participle indicating birth",
+     "morph": "m.nom.pl; ppp √jan"
     },
     {
      "surface": "kṣetrajā",
      "gloss": "field-born",
-     "grounds": "legacy hint field-born",
-     "morph": "compound"
+     "grounds": "compound denoting those born in sacred fields",
+     "morph": "compound=kṣetra+ja; m.nom.pl"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "legacy hint O-beloved",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Who among them are chief and field-born?",
+   "question": "Who are identified as the chief ones born among them in the sacred fields?",
    "premises": [
-    "Some are in the middle of them.",
-    "The chief ones are born.",
-    "They are field-born."
+    "There is a group referred to as them",
+    "Some among them are born as field-born",
+    "These field-born are chief among them"
    ],
-   "inference": "The verse identifies chief field-born beings among those in the middle.",
-   "uncertainties": [
-    "The exact group of 'them' is unspecified."
-   ],
-   "plain_english": "Among them, the chief field-born ones are born, O beloved."
+   "inference": "The field-born are the chief ones among that group.",
+   "uncertainties": [],
+   "plain_english": "Among them, O beloved, those who are born as field-born are indeed the chief."
   },
   {
    "verse": 183,
@@ -305,39 +295,37 @@
     {
      "surface": "catur+yugeṣu",
      "gloss": "in-four-ages",
-     "grounds": "compound in+four+ages",
-     "morph": "compound"
+     "grounds": "compound referring to the four cosmic ages",
+     "morph": "compound=catur+yuga; n.loc.pl"
     },
     {
      "surface": "deveśi",
      "gloss": "O-lord-of-gods",
-     "grounds": "legacy hint O-lord-of-gods",
-     "morph": "f.voc.sg"
+     "grounds": "vocative address to the goddess",
+     "morph": "compound=deva+īśī; f.voc.sg"
     },
     {
      "surface": "kṣetrajā",
      "gloss": "field-born",
-     "grounds": "legacy hint field-born",
-     "morph": "compound"
+     "grounds": "those born in sacred fields",
+     "morph": "compound=kṣetra+ja; m.nom.pl"
     },
     {
      "surface": "siddhi+pūjitā",
      "gloss": "by-siddhi-honored",
-     "grounds": "compound by+siddhi+honored",
-     "morph": "compound"
+     "grounds": "compound indicating honor through spiritual accomplishment",
+     "morph": "compound=siddhi+pūjita; m.nom.pl"
     }
    ],
-   "question": "When are field-born beings honored by siddhi?",
+   "question": "How are the field-born regarded across the four cosmic ages?",
    "premises": [
-    "The setting is the four ages.",
-    "Field-born beings are involved.",
-    "They are honored by siddhi."
+    "The four ages are the temporal scope",
+    "The field-born exist in all four ages",
+    "The field-born are honored by siddhi"
    ],
-   "inference": "The verse says field-born beings are honored by siddhi across the four ages.",
-   "uncertainties": [
-    "The exact siddhi is not specified."
-   ],
-   "plain_english": "In the four ages, field-born beings are honored by siddhi, O lord of gods."
+   "inference": "Throughout the four ages, the field-born are honored for their spiritual accomplishment.",
+   "uncertainties": [],
+   "plain_english": "O lord of gods, in the four ages the field-born are honored by siddhi."
   },
   {
    "verse": 184,
@@ -345,51 +333,49 @@
     {
      "surface": "kṣetrajā",
      "gloss": "field-born",
-     "grounds": "legacy hint field-born",
-     "morph": "compound"
+     "grounds": "those born in sacred fields",
+     "morph": "compound=kṣetra+ja; m.nom.pl"
     },
     {
      "surface": "kathitā",
      "gloss": "declared",
-     "grounds": "legacy hint declared",
-     "morph": "participle"
+     "grounds": "past participle indicating they have been explained",
+     "morph": "m.nom.pl; ppp √kath"
     },
     {
      "surface": "devi",
      "gloss": "O-goddess",
-     "grounds": "legacy hint O-goddess",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "pīṭhajāḥ",
      "gloss": "seat-born",
-     "grounds": "legacy hint seat-born",
-     "morph": "compound"
+     "grounds": "those born in sacred seats",
+     "morph": "compound=pīṭha+ja; m.nom.pl"
     },
     {
      "surface": "kathayāmi",
      "gloss": "I-tell",
-     "grounds": "legacy hint I-tell",
-     "morph": "1.sg.act"
+     "grounds": "present tense verb indicating current teaching",
+     "morph": "1.sg.pres.act √kath"
     },
     {
      "surface": "te",
      "gloss": "to-you",
-     "grounds": "legacy hint to-you",
-     "morph": "m.dat.sg"
+     "grounds": "dative pronoun indicating the recipient",
+     "morph": "pron.dat.sg"
     }
    ],
-   "question": "What does the speaker declare about field-born and seat-born beings?",
+   "question": "What transition in teaching follows the explanation of the field-born?",
    "premises": [
-    "Field-born beings are declared.",
-    "Seat-born beings are also mentioned.",
-    "The speaker tells this to the goddess."
+    "The field-born have already been declared",
+    "The seat-born are now introduced",
+    "The speaker will explain the seat-born"
    ],
-   "inference": "The verse declares field-born beings and mentions seat-born beings to the goddess.",
-   "uncertainties": [
-    "The full distinction between the two groups is not given."
-   ],
-   "plain_english": "Field-born beings are declared, O goddess; seat-born beings too, I tell you."
+   "inference": "Having explained the field-born, the teaching now turns to the seat-born.",
+   "uncertainties": [],
+   "plain_english": "The field-born have been declared, O goddess; now I shall tell you of the seat-born."
   },
   {
    "verse": 185,
@@ -397,73 +383,69 @@
     {
      "surface": "upapīṭha+sthitā",
      "gloss": "at-secondary-seat-situated",
-     "grounds": "compound at+secondary+seat+situated",
-     "morph": "compound"
+     "grounds": "compound indicating location at secondary seats",
+     "morph": "compound=upapīṭha+sthita; m.nom.pl"
     },
     {
      "surface": "sapta",
      "gloss": "seven",
-     "grounds": "legacy hint seven",
-     "morph": "num"
+     "grounds": "numeral indicating quantity",
+     "morph": "(indecl.)"
     },
     {
      "surface": "devīnāṃ",
      "gloss": "of-goddesses",
-     "grounds": "legacy hint of-goddesses",
+     "grounds": "genitive plural referring to goddesses",
      "morph": "f.gen.pl"
     },
     {
      "surface": "siddha-ālayam",
      "gloss": "siddha-abode",
-     "grounds": "compound siddha+abode",
-     "morph": "compound"
+     "grounds": "compound denoting the dwelling of siddhas",
+     "morph": "compound=siddha+ālaya; m.acc.sg"
     }
    ],
-   "question": "Where are the seven goddesses situated?",
+   "question": "How many goddesses situated at secondary seats constitute the abode of siddhas?",
    "premises": [
-    "Seven goddesses are involved.",
-    "They are situated at a secondary seat.",
-    "A siddha abode is mentioned."
+    "There are seven goddesses",
+    "They are situated at secondary seats",
+    "They form the abode of siddhas"
    ],
-   "inference": "The verse places seven goddesses at a secondary seat connected with a siddha abode.",
-   "uncertainties": [
-    "The exact spatial relation is compressed."
-   ],
-   "plain_english": "Seven goddesses are situated at the secondary seat, the siddha abode."
+   "inference": "Seven goddesses at the secondary seats constitute the siddha abode.",
+   "uncertainties": [],
+   "plain_english": "Seven goddesses situated at the secondary seats form the abode of the siddhas."
   },
   {
    "verse": 186,
    "rows": [
     {
      "surface": "oḍiyāna",
-     "gloss": "Oḍiyāna",
-     "grounds": "legacy hint Oḍiyāna",
+     "gloss": "Odiyana",
+     "grounds": "name of a sacred seat",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mahā+pīṭham",
      "gloss": "great-seat",
-     "grounds": "compound great+seat",
-     "morph": "compound"
+     "grounds": "compound denoting a principal sacred seat",
+     "morph": "compound=mahā+pīṭha; n.nom.sg"
     },
     {
      "surface": "upapīṭha+samanvitam",
      "gloss": "with-secondary-seat-endowed",
-     "grounds": "compound with+secondary+seat+endowed",
-     "morph": "compound"
+     "grounds": "compound indicating association with secondary seats",
+     "morph": "compound=upapīṭha+samanvita; n.nom.sg"
     }
    ],
-   "question": "What characterizes the great seat at Oḍiyāna?",
+   "question": "What is the status of Odiyana in relation to great and secondary seats?",
    "premises": [
-    "Oḍiyāna is named.",
-    "A great seat is there.",
-    "It is endowed with a secondary seat."
+    "Odiyana is identified as a great seat",
+    "Odiyana is endowed with secondary seats",
+    "Both levels of seats are associated with it"
    ],
-   "inference": "The verse describes the great seat at Oḍiyāna as endowed with a secondary seat.",
-   "uncertainties": [
-    "The ritual use is not specified."
-   ],
-   "plain_english": "Oḍiyāna is the great seat, endowed with a secondary seat."
+   "inference": "Odiyana is a great seat that includes secondary seats.",
+   "uncertainties": [],
+   "plain_english": "Odiyana is the great seat, endowed with secondary seats."
   },
   {
    "verse": 187,
@@ -471,45 +453,43 @@
     {
      "surface": "pīṭha+ādya+devatānāṃ",
      "gloss": "of-seat-etc-deities",
-     "grounds": "compound of+seat+etc+deities",
-     "morph": "compound"
+     "grounds": "compound referring to deities of the seat and others",
+     "morph": "compound=pīṭha+ādi+devatā; f.gen.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "indecl."
+     "grounds": "conjunction linking topics",
+     "morph": "(indecl.)"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "legacy hint hear",
-     "morph": "2.sg.act"
+     "grounds": "imperative verb requesting attention",
+     "morph": "2.sg.imp.act √śru"
     },
     {
      "surface": "pūjā+vidhiṃ",
      "gloss": "worship-method",
-     "grounds": "compound worship+method",
-     "morph": "compound"
+     "grounds": "compound denoting the procedure of worship",
+     "morph": "compound=pūjā+vidhi; m.acc.sg"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "legacy hint O-beloved",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What should the beloved hear about seat deities?",
+   "question": "What instruction is given regarding the worship of the seat deities and others?",
    "premises": [
-    "Seat and other deities are involved.",
-    "The worship method is mentioned.",
-    "The beloved is addressed."
+    "The deities of the seat and others are the object",
+    "A method of worship exists for them",
+    "The listener is asked to hear this method"
    ],
-   "inference": "The verse asks the beloved to hear the worship method of seat and other deities.",
-   "uncertainties": [
-    "The exact deities are not enumerated."
-   ],
-   "plain_english": "Hear the worship method of the seat and other deities, O beloved."
+   "inference": "The listener should hear the method for worshipping the seat deities and others.",
+   "uncertainties": [],
+   "plain_english": "And hear, O beloved, the method of worship for the deities of the seat and others."
   },
   {
    "verse": 188,
@@ -517,57 +497,55 @@
     {
      "surface": "etaiḥ",
      "gloss": "by-these",
-     "grounds": "legacy hint by-these",
-     "morph": "m.instr.pl"
+     "grounds": "instrumental pronoun referring to previously mentioned means",
+     "morph": "m.inst.pl"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "indecl."
+     "grounds": "particle emphasizing the result",
+     "morph": "(indecl.)"
     },
     {
      "surface": "pūjitā",
      "gloss": "worshipped",
-     "grounds": "legacy hint worshipped",
-     "morph": "participle"
+     "grounds": "past participle indicating worship",
+     "morph": "f.nom.pl; ppp √pūj"
     },
     {
      "surface": "bhadre",
      "gloss": "O-auspicious-one",
-     "grounds": "legacy hint O-auspicious-one",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "sarve",
      "gloss": "all",
-     "grounds": "legacy hint all",
-     "morph": "m.nom.pl"
+     "grounds": "pronoun indicating totality",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "sidhyanti",
      "gloss": "succeed",
-     "grounds": "legacy hint succeed",
-     "morph": "3.pl.act"
+     "grounds": "present tense verb indicating accomplishment",
+     "morph": "3.pl.pres.act √sidh"
     },
     {
      "surface": "mātarāḥ",
      "gloss": "mothers",
-     "grounds": "legacy hint mothers",
+     "grounds": "the divine mothers",
      "morph": "f.nom.pl"
     }
    ],
-   "question": "What happens when the mothers are worshipped by these?",
+   "question": "What result follows when all the mothers are worshipped by these means?",
    "premises": [
-    "The mothers are worshipped by these.",
-    "All of them succeed.",
-    "The auspicious one is addressed."
+    "The mothers are worshipped by these means",
+    "All the mothers are included",
+    "Worship leads to accomplishment"
    ],
-   "inference": "The verse says all mothers succeed when worshipped by these means.",
-   "uncertainties": [
-    "The exact means are only pronominal."
-   ],
-   "plain_english": "When worshipped by these, all mothers succeed, O auspicious one."
+   "inference": "When worshipped by these means, all the mothers grant success.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, when worshipped by these means, all the mothers grant success."
   },
   {
    "verse": 189,
@@ -575,51 +553,49 @@
     {
      "surface": "yogena",
      "gloss": "by-yoga",
-     "grounds": "legacy hint by-yoga",
-     "morph": "m.instr.sg"
+     "grounds": "instrumental indicating the means of yoga",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "yoga+jā",
      "gloss": "yoga-born",
-     "grounds": "compound yoga+born",
-     "morph": "compound"
+     "grounds": "compound indicating origin through yoga",
+     "morph": "compound=yoga+ja; f.nom.sg"
     },
     {
      "surface": "mātā",
      "gloss": "mother",
-     "grounds": "legacy hint mother",
+     "grounds": "the divine mother",
      "morph": "f.nom.sg"
     },
     {
      "surface": "mantreṇa",
      "gloss": "by-mantra",
-     "grounds": "legacy hint by-mantra",
-     "morph": "m.instr.sg"
+     "grounds": "instrumental indicating the means of mantra",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "mantra+jā",
      "gloss": "mantra-born",
-     "grounds": "compound mantra+born",
-     "morph": "compound"
+     "grounds": "compound indicating origin through mantra",
+     "morph": "compound=mantra+ja; f.nom.sg"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "legacy hint O-beloved",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "How are yoga-born and mantra-born mothers produced?",
+   "question": "By what distinct means are the yoga-born and mantra-born mothers produced?",
    "premises": [
-    "Yoga produces a yoga-born mother.",
-    "Mantra produces a mantra-born mother.",
-    "The beloved is addressed."
+    "A mother is born through yoga",
+    "A mother is born through mantra",
+    "Each origin corresponds to its specific means"
    ],
-   "inference": "The verse states that yoga and mantra respectively produce yoga-born and mantra-born mothers.",
-   "uncertainties": [
-    "The exact ritual process is not detailed."
-   ],
-   "plain_english": "By yoga a yoga-born mother, by mantra a mantra-born mother, O beloved."
+   "inference": "The mother is yoga-born through yoga and mantra-born through mantra.",
+   "uncertainties": [],
+   "plain_english": "By yoga the mother is yoga-born, and by mantra, O beloved, she is mantra-born."
   },
   {
    "verse": 190,
@@ -627,51 +603,51 @@
     {
      "surface": "bhakṣitaṃ",
      "gloss": "eaten",
-     "grounds": "legacy hint eaten",
-     "morph": "participle"
+     "grounds": "past participle indicating consumption",
+     "morph": "n.nom.sg; ppp √bhakṣ"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "indecl."
+     "grounds": "particle emphasizing the statement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "caruṃ",
      "gloss": "sacred-offering",
-     "grounds": "legacy hint sacred-offering",
+     "grounds": "ritual oblation of food",
      "morph": "m.acc.sg"
     },
     {
      "surface": "divyaṃ",
      "gloss": "divine",
-     "grounds": "legacy hint divine",
+     "grounds": "adjective indicating divine nature",
      "morph": "m.acc.sg"
     },
     {
      "surface": "sapta+janma+antikaṃ",
      "gloss": "lasting-seven-births",
-     "grounds": "compound lasting+seven+births",
-     "morph": "compound"
+     "grounds": "compound indicating duration across seven births",
+     "morph": "compound=sapta+janma+antika; m.acc.sg"
     },
     {
      "surface": "paśum",
      "gloss": "animal",
-     "grounds": "legacy hint animal",
+     "grounds": "the sacrificial or bound being",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What is the effect of eating the divine sacred offering?",
+   "question": "What lasting effect results from consuming the divine sacred offering?",
    "premises": [
-    "A divine sacred offering is eaten.",
-    "It lasts seven births.",
-    "An animal is mentioned."
+    "The divine sacred offering is eaten",
+    "Its effect extends to seven births",
+    "It pertains to the bound being"
    ],
-   "inference": "The verse connects eating a divine offering with a seven-birth effect and an animal.",
+   "inference": "Eating the divine sacred offering affects the bound being for seven births.",
    "uncertainties": [
-    "The exact causal relation is compressed."
+    "syntactic relation of paśum to the rest of the verse is ambiguous"
    ],
-   "plain_english": "The divine sacred offering is eaten, lasting seven births, for the animal."
+   "plain_english": "Indeed, the divine sacred offering, when eaten, lasts for seven births for the bound being."
   },
   {
    "verse": 191,
@@ -679,109 +655,105 @@
     {
      "surface": "garbhe",
      "gloss": "in-womb",
-     "grounds": "legacy hint in-womb",
+     "grounds": "locative indicating the womb",
      "morph": "m.loc.sg"
     },
     {
      "surface": "jātena",
      "gloss": "by-born",
-     "grounds": "legacy hint by-born",
-     "morph": "m.instr.sg"
+     "grounds": "instrumental past participle referring to one born",
+     "morph": "m.inst.sg; ppp √jan"
     },
     {
      "surface": "deveśi",
      "gloss": "O-lord-of-gods",
-     "grounds": "legacy hint O-lord-of-gods",
-     "morph": "f.voc.sg"
+     "grounds": "vocative address to the goddess",
+     "morph": "compound=deva+īśī; f.voc.sg"
     },
     {
      "surface": "garbhaṃ",
      "gloss": "womb",
-     "grounds": "legacy hint womb",
+     "grounds": "accusative object referring to the womb state",
      "morph": "m.acc.sg"
     },
     {
      "surface": "jānanti",
      "gloss": "they-know",
-     "grounds": "legacy hint they-know",
-     "morph": "3.pl.act"
+     "grounds": "present tense verb indicating knowledge",
+     "morph": "3.pl.pres.act √jñā"
     },
     {
      "surface": "ātmanaḥ",
      "gloss": "of-self",
-     "grounds": "legacy hint of-self",
+     "grounds": "genitive referring to one's own self",
      "morph": "m.gen.sg"
     }
    ],
-   "question": "Who knows the womb of the self?",
+   "question": "What special knowledge is possessed by those born in the womb under this condition?",
    "premises": [
-    "One born in the womb is involved.",
-    "They know the womb.",
-    "The womb belongs to the self."
+    "One is born in the womb",
+    "Such beings possess knowledge",
+    "They know their own womb state"
    ],
-   "inference": "The verse says those born in the womb know the womb of the self.",
-   "uncertainties": [
-    "The subject 'they' is not fully specified."
-   ],
-   "plain_english": "Born in the womb, they know the womb of the self, O lord of gods."
+   "inference": "Those born in the womb know the womb of their own self.",
+   "uncertainties": [],
+   "plain_english": "O lord of gods, those born in the womb know the womb of their own self."
   },
   {
    "verse": 192,
    "rows": [
     {
      "surface": "vārāhī",
-     "gloss": "Vārāhī",
-     "grounds": "legacy hint Vārāhī",
+     "gloss": "Varahi",
+     "grounds": "name of a goddess",
      "morph": "f.nom.sg"
     },
     {
      "surface": "vajra+hastā",
      "gloss": "thunderbolt-handed",
-     "grounds": "compound thunderbolt+handed",
-     "morph": "compound"
+     "grounds": "compound epithet describing holding a thunderbolt",
+     "morph": "compound=vajra+hasta; f.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "indecl."
+     "grounds": "conjunction linking names",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "legacy hint likewise",
-     "morph": "indecl."
+     "grounds": "adverb indicating addition",
+     "morph": "(indecl.)"
     },
     {
      "surface": "yogeśvarī",
-     "gloss": "Yogeśvarī",
-     "grounds": "legacy hint Yogeśvarī",
-     "morph": "f.nom.sg"
+     "gloss": "Yogeshvari",
+     "grounds": "name of a goddess",
+     "morph": "compound=yoga+īśvarī; f.nom.sg"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "legacy hint thus",
-     "morph": "indecl."
+     "grounds": "particle marking enumeration",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "indecl."
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "Which goddesses are named in this list?",
+   "question": "Which goddesses are named as part of this enumerated group?",
    "premises": [
-    "Vārāhī is thunderbolt-handed.",
-    "Yogeśvarī is likewise named.",
-    "The list is introduced by 'thus'."
+    "Varahi is named",
+    "Varahi is described as thunderbolt-handed",
+    "Yogeshvari is likewise named"
    ],
-   "inference": "The verse names Vārāhī and Yogeśvarī among the goddesses.",
-   "uncertainties": [
-    "The full list is not present in this verse."
-   ],
-   "plain_english": "Vārāhī, thunderbolt-handed, and likewise Yogeśvarī, thus."
+   "inference": "Varahi, the thunderbolt-handed, and Yogeshvari are named in this group.",
+   "uncertainties": [],
+   "plain_english": "Varahi, who holds the thunderbolt, and likewise Yogeshvari."
   },
   {
    "verse": 193,
@@ -789,57 +761,57 @@
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "legacy hint likewise",
-     "morph": "indecl."
+     "grounds": "adverb indicating addition",
+     "morph": "(indecl.)"
     },
     {
      "surface": "anyā",
      "gloss": "another",
-     "grounds": "legacy hint another",
+     "grounds": "pronoun indicating an additional figure",
      "morph": "f.nom.sg"
     },
     {
      "surface": "dvārapālinyā",
      "gloss": "door-guardian",
-     "grounds": "legacy hint door-guardian",
-     "morph": "f.instr.sg"
+     "grounds": "female guardian of the door",
+     "morph": "compound=dvāra+pālinī; f.inst.sg"
     },
     {
      "surface": "taiḥ",
      "gloss": "by-them",
-     "grounds": "legacy hint by-them",
-     "morph": "m.instr.pl"
+     "grounds": "instrumental pronoun referring to the group",
+     "morph": "m.inst.pl"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "indecl."
+     "grounds": "particle emphasizing the statement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "saṃvyāpitañ",
      "gloss": "pervaded",
-     "grounds": "legacy hint pervaded",
-     "morph": "participle"
+     "grounds": "past participle indicating complete pervasion",
+     "morph": "n.nom.sg; ppp caus. √vyāp"
     },
     {
      "surface": "jagat",
      "gloss": "world",
-     "grounds": "legacy hint world",
+     "grounds": "the universe or world",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What is pervaded by them through the door guardian?",
+   "question": "What is the extent of pervasion accomplished by these deities including the door guardian?",
    "premises": [
-    "Another door guardian is involved.",
-    "They pervade by means of her.",
-    "The world is the object."
+    "Another door guardian is included",
+    "These deities act together",
+    "The world is pervaded by them"
    ],
-   "inference": "The verse says the world is pervaded by them through another door guardian.",
+   "inference": "Together with the door guardian, these deities pervade the entire world.",
    "uncertainties": [
-    "The exact agents 'them' are not specified."
+    "instrumental dvārapālinyā alongside taiḥ is syntactically unusual"
    ],
-   "plain_english": "Likewise another door guardian pervades the world by them."
+   "plain_english": "Likewise another, the door guardian; by them indeed the world is pervaded."
   },
   {
    "verse": 194,
@@ -847,45 +819,43 @@
     {
      "surface": "sarvāḥ",
      "gloss": "all",
-     "grounds": "legacy hint all",
-     "morph": "f.nom.pl"
+     "grounds": "pronoun indicating totality",
+     "morph": "f.acc.pl"
     },
     {
      "surface": "tāṃ",
      "gloss": "them",
-     "grounds": "legacy hint them",
-     "morph": "f.acc.sg"
+     "grounds": "demonstrative pronoun referring to the group",
+     "morph": "f.acc.pl"
     },
     {
      "surface": "pūjayet",
      "gloss": "one-should-worship",
-     "grounds": "legacy hint one-should-worship",
-     "morph": "3.sg.opt"
+     "grounds": "optative verb expressing injunction",
+     "morph": "3.sg.opt.act √pūj"
     },
     {
      "surface": "nityaṃ",
      "gloss": "daily",
-     "grounds": "legacy hint daily",
-     "morph": "indecl."
+     "grounds": "adverb indicating regularity",
+     "morph": "(indecl.)"
     },
     {
      "surface": "guru+siddha+samanvitām",
-     "gloss": "with-guru+siddha-endowed",
-     "grounds": "compound with+guru+siddha+endowed",
-     "morph": "compound"
+     "gloss": "with-guru-siddha-endowed",
+     "grounds": "compound indicating accompaniment by guru and siddhas",
+     "morph": "compound=guru+siddha+samanvita; f.acc.pl"
     }
    ],
-   "question": "How should all worship the endowed one?",
+   "question": "How should all these deities be worshipped in relation to the guru and siddhas?",
    "premises": [
-    "All should worship her.",
-    "Worship is daily.",
-    "She is endowed with guru and siddha."
+    "All of them should be worshipped",
+    "Worship should be performed daily",
+    "They are to be worshipped together with guru and siddhas"
    ],
-   "inference": "The verse instructs daily worship of the one endowed with guru and siddha.",
-   "uncertainties": [
-    "The exact identity of 'her' is implicit."
-   ],
-   "plain_english": "All should worship her daily, endowed with guru and siddha."
+   "inference": "One should daily worship all of them together with the guru and siddhas.",
+   "uncertainties": [],
+   "plain_english": "One should worship all of them daily, together with the guru and the siddhas."
   },
   {
    "verse": 195,
@@ -893,39 +863,37 @@
     {
      "surface": "kula+aṣṭakaṃ",
      "gloss": "group-of-eight",
-     "grounds": "compound group+of+eight",
-     "morph": "compound"
+     "grounds": "compound denoting the eightfold kula",
+     "morph": "compound=kula+aṣṭaka; n.acc.sg"
     },
     {
      "surface": "pravakṣyāmi",
      "gloss": "I-shall-declare",
-     "grounds": "legacy hint I-shall-declare",
-     "morph": "1.sg.fut"
+     "grounds": "future tense verb indicating forthcoming teaching",
+     "morph": "1.sg.fut.act pra+√vac"
     },
     {
      "surface": "aṣṭa+aṣṭaka+vidhi",
      "gloss": "eight-times-eight-method",
-     "grounds": "compound eight+times+eight+method",
-     "morph": "compound"
+     "grounds": "compound denoting the method of eight groups of eight",
+     "morph": "compound=aṣṭa+aṣṭaka+vidhi; m.acc.sg"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "legacy hint O-beloved",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What will the speaker declare to the beloved?",
+   "question": "What teaching about the eightfold kula and its method is promised next?",
    "premises": [
-    "A group of eight is involved.",
-    "The speaker will declare it.",
-    "An eight-times-eight method is mentioned."
+    "The speaker will declare the group of eight",
+    "The method of eight times eight is included",
+    "This teaching is addressed to the beloved"
    ],
-   "inference": "The verse promises to declare the group of eight and its eight-times-eight method.",
-   "uncertainties": [
-    "The full method is not given here."
-   ],
-   "plain_english": "I shall declare the group of eight and the eight-times-eight method, O beloved."
+   "inference": "The speaker will now declare the eightfold kula and the eight-times-eight method.",
+   "uncertainties": [],
+   "plain_english": "O beloved, I shall declare the group of eight and the method of eight times eight."
   },
   {
    "verse": 196,
@@ -933,85 +901,81 @@
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "legacy hint as",
-     "morph": "indecl."
+     "grounds": "correlative adverb indicating manner",
+     "morph": "(indecl.)"
     },
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "legacy hint this",
+     "grounds": "demonstrative pronoun referring to what was stated",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "so",
-     "grounds": "legacy hint so",
-     "morph": "indecl."
+     "grounds": "correlative adverb indicating correspondence",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sarve",
      "gloss": "all",
-     "grounds": "legacy hint all",
+     "grounds": "pronoun indicating totality",
      "morph": "m.nom.pl"
     },
     {
      "surface": "jñātavyā",
      "gloss": "to-be-known",
-     "grounds": "legacy hint to-be-known",
-     "morph": "participle"
+     "grounds": "gerundive indicating necessity of knowing",
+     "morph": "m.nom.pl; gerundive √jñā"
     },
     {
      "surface": "yoginī+kramam",
-     "gloss": "yoginī-sequence",
-     "grounds": "compound yoginī+sequence",
-     "morph": "compound"
+     "gloss": "yogini-sequence",
+     "grounds": "compound denoting the ordered sequence of yoginis",
+     "morph": "compound=yoginī+krama; m.acc.sg"
     }
    ],
-   "question": "How should the yoginī sequence be known?",
+   "question": "How should the sequence of yoginis be understood in relation to what has been stated?",
    "premises": [
-    "This is as it is.",
-    "All should know it.",
-    "The yoginī sequence is the object."
+    "What has been stated serves as the model",
+    "All should understand accordingly",
+    "The yogini sequence must be known in that way"
    ],
-   "inference": "The verse says all should know the yoginī sequence in the same way as this.",
-   "uncertainties": [
-    "The referent of 'this' is implicit."
-   ],
-   "plain_english": "As this is, so all should know the yoginī sequence."
+   "inference": "The entire sequence of yoginis should be known exactly as this has been explained.",
+   "uncertainties": [],
+   "plain_english": "As this is, so all should know the sequence of the yoginis."
   },
   {
    "verse": 197,
    "rows": [
     {
      "surface": "yoginī+melakaṃ",
-     "gloss": "yoginī-assembly",
-     "grounds": "compound yoginī+assembly",
-     "morph": "compound"
+     "gloss": "yogini-assembly",
+     "grounds": "compound denoting the gathering of yoginis",
+     "morph": "compound=yoginī+melaka; n.nom.sg"
     },
     {
      "surface": "cakraṃ",
      "gloss": "circle",
-     "grounds": "legacy hint circle",
+     "grounds": "ritual circle or wheel",
      "morph": "n.nom.sg"
     },
     {
      "surface": "aṇimā+ādi+guṇa+aṣṭakam",
-     "gloss": "aṇimā-etc-quality-eight",
-     "grounds": "compound aṇimā+etc+quality+eight",
-     "morph": "compound"
+     "gloss": "anima-etc-quality-eight",
+     "grounds": "compound referring to the eight qualities beginning with anima",
+     "morph": "compound=aṇimā+ādi+guṇa+aṣṭaka; n.nom.sg"
     }
    ],
-   "question": "What is the first circle of yoginī assembly?",
+   "question": "What constitutes the first circle associated with the yogini assembly?",
    "premises": [
-    "A yoginī assembly is involved.",
-    "A circle is named.",
-    "It has eight qualities from aṇimā onward."
+    "There is a yogini assembly",
+    "It forms a circle",
+    "This circle is the eight qualities beginning with anima"
    ],
-   "inference": "The verse identifies a yoginī-assembly circle endowed with eight qualities beginning with aṇimā.",
-   "uncertainties": [
-    "The exact list of qualities is not given."
-   ],
-   "plain_english": "The yoginī assembly circle has eight qualities beginning with aṇimā."
+   "inference": "The yogini assembly circle is constituted by the eight qualities beginning with anima.",
+   "uncertainties": [],
+   "plain_english": "The yogini assembly is the circle of the eight qualities beginning with anima."
   },
   {
    "verse": 198,
@@ -1019,39 +983,37 @@
     {
      "surface": "dvitīyan",
      "gloss": "second",
-     "grounds": "legacy hint second",
-     "morph": "m.nom.sg"
+     "grounds": "ordinal indicating the second in sequence",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "indecl."
+     "grounds": "particle emphasizing the statement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahā+cakraṃ",
      "gloss": "great-circle",
-     "grounds": "compound great+circle",
-     "morph": "compound"
+     "grounds": "compound denoting a great ritual circle",
+     "morph": "compound=mahā+cakra; n.nom.sg"
     },
     {
      "surface": "sarva+ākṛṣṭi+pravartakam",
      "gloss": "all-attraction-effecting",
-     "grounds": "compound all+attraction+effecting",
-     "morph": "compound"
+     "grounds": "compound indicating the power to attract all",
+     "morph": "compound=sarva+ākṛṣṭi+pravartaka; n.nom.sg"
     }
    ],
-   "question": "What is the second great circle?",
+   "question": "What power characterizes the second great circle in this sequence?",
    "premises": [
-    "The second item is introduced.",
-    "A great circle is named.",
-    "It effects all attraction."
+    "This is the second great circle",
+    "It has an operative power",
+    "Its power is the attraction of all"
    ],
-   "inference": "The verse identifies the second great circle as effecting all attraction.",
-   "uncertainties": [
-    "The exact ritual operation is not detailed."
-   ],
-   "plain_english": "The second is the great circle effecting all attraction."
+   "inference": "The second great circle is that which effects the attraction of all.",
+   "uncertainties": [],
+   "plain_english": "The second is the great circle that brings about the attraction of all."
   },
   {
    "verse": 199,
@@ -1059,39 +1021,37 @@
     {
      "surface": "tṛtīyan",
      "gloss": "third",
-     "grounds": "legacy hint third",
-     "morph": "m.nom.sg"
+     "grounds": "ordinal indicating the third in sequence",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "indecl."
+     "grounds": "particle emphasizing the statement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahā+cakraṃ",
      "gloss": "great-circle",
-     "grounds": "compound great+circle",
-     "morph": "compound"
+     "grounds": "compound denoting a great ritual circle",
+     "morph": "compound=mahā+cakra; n.nom.sg"
     },
     {
      "surface": "para+kāya+praveśanam",
      "gloss": "other-body-entering",
-     "grounds": "compound other+body+entering",
-     "morph": "compound"
+     "grounds": "compound denoting entry into another's body",
+     "morph": "compound=para+kāya+praveśana; n.nom.sg"
     }
    ],
-   "question": "What is the third great circle?",
+   "question": "What power characterizes the third great circle in this sequence?",
    "premises": [
-    "The third item is introduced.",
-    "A great circle is named.",
-    "It concerns entering another body."
+    "This is the third great circle",
+    "It has an operative power",
+    "Its power is entering another's body"
    ],
-   "inference": "The verse identifies the third great circle as entering another body.",
-   "uncertainties": [
-    "The exact practice is not detailed."
-   ],
-   "plain_english": "The third is the great circle of entering another body."
+   "inference": "The third great circle is that which enables entering another's body.",
+   "uncertainties": [],
+   "plain_english": "The third is the great circle that enables entering another's body."
   }
  ]
 }

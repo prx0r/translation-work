@@ -1,15 +1,13 @@
 {
  "song": "kjn-p08",
  "verse": 192,
- "question": "Which goddesses are named in this list?",
+ "question": "Which goddesses are named as part of this enumerated group?",
  "premises": [
-  "Vārāhī is thunderbolt-handed.",
-  "Yogeśvarī is likewise named.",
-  "The list is introduced by 'thus'."
+  "Varahi is named",
+  "Varahi is described as thunderbolt-handed",
+  "Yogeshvari is likewise named"
  ],
- "inference": "The verse names Vārāhī and Yogeśvarī among the goddesses.",
- "uncertainties": [
-  "The full list is not present in this verse."
- ],
- "plain_english": "Vārāhī, thunderbolt-handed, and likewise Yogeśvarī, thus."
+ "inference": "Varahi, the thunderbolt-handed, and Yogeshvari are named in this group.",
+ "uncertainties": [],
+ "plain_english": "Varahi, who holds the thunderbolt, and likewise Yogeshvari."
 }
