@@ -1,14 +1,13 @@
 {
  "song": "kjn-p22",
  "verse": 544,
- "question": "What should be placed there with a good companion?",
+ "question": "How should the seat be arranged in the prescribed place for this rite?",
  "premises": [
-  "A couch is placed there.",
-  "It is endowed with a good companion."
+  "A couch is to be placed",
+  "The location is the previously described place",
+  "It should be accompanied by a good companion"
  ],
- "inference": "A couch should be placed there, endowed with a good companion.",
- "uncertainties": [
-  "Exact companion role is implicit."
- ],
- "plain_english": "One should place a couch there, endowed with a good companion."
+ "inference": "One should place a couch there together with a good companion",
+ "uncertainties": [],
+ "plain_english": "There one should place a couch, accompanied by a good companion."
 }

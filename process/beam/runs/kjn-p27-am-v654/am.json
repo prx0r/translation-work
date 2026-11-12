@@ -1,12 +1,15 @@
 {
  "song": "kjn-p27",
  "verse": 654,
- "question": "Which creatures are named in this list?",
+ "question": "What additional threatening or unsettling forms are enumerated for the beloved?",
  "premises": [
-  "scorpion and snake are named",
-  "mouse and frog are named"
+  "A scorpion is mentioned as a form.",
+  "A snake, mouse, and frog are also mentioned.",
+  "These are addressed to the beloved."
  ],
- "inference": "The verse names scorpion, snake, mouse, and frog.",
- "uncertainties": [],
- "plain_english": "Scorpion, snake, mouse, and frog, O beloved."
+ "inference": "The yoginīs may also appear as scorpions, snakes, mice, and frogs.",
+ "uncertainties": [
+  "The token 'udhyantaraḥ' is an unclear or nonstandard form, possibly meaning snake."
+ ],
+ "plain_english": "A scorpion, a snake, and a mouse, a frog, O beloved."
 }

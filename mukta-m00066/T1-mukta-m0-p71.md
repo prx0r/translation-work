@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[when-eaten](bhukteṣu) [being-given](dīyamānasya) [of-beauty-wealth-house](sauṃdaryadhanaveśmanaḥ)
+[enjoyed](bhukteṣu) [being-given](dīyamānasya) [beauty](sauṃdarya)+[wealth](dhana)+[abode](veśmanaḥ)
 
 ## mukta-m0-p71-v1752
-[desire-attracting](kāmākarṣiṇikā) [chief](mukhyā) [new-cool-rays](navaśītarucaḥ) [arts](kalāḥ)
+[attracting-desire](kāmākarṣiṇikā) [chief](mukhyā) [nine](nava)+[cool-rayed](śītarucaḥ) [digits](kalāḥ)
 
 ## mukta-m0-p71-v1753
-[all-agitating](sarvasaṃkṣobhiṇī) [seal](mudrā) [chief-seal-new](mukhyāmudrānava) [dear](priye)
+[all-agitating](sarvasaṃkṣobhiṇī) [seal](mudrā) [chief](mukhyā)+[seals](mudrā)+[nine](nava) [beloved](priye)
 
 ## mukta-m0-p71-v1754
-[atom-etc](aṇimādyā) [great-goddess](mahādevi) [for-sport](vinodāya) [from-magic](indrajālataḥ)
+[minuteness-etc.](aṇimādyā) [great-goddess](mahādevi) [for-sport](vinodāya)+[by-magic](indrajālataḥ)
 
 ## mukta-m0-p71-v1755
-[brahma-etc](brahmādyāstu) [great-enjoyment](mahābhoge) [constantly](saṃtataṃ) [to-serve](sevituṃ) [cities](purāḥ)
+[Brahmā-etc.](brahmādyāḥ)+[indeed](tu) [in-great-enjoyment](mahābhoge) [continually](saṃtataṃ) [to-serve](sevituṃ) [cities](purāḥ)
 
 ## mukta-m0-p71-v1756
-[fourteen-worlds](caturdaśajagatyaṃba) [chosen](proccitāḥ) [palace-grounds](saudhabhūmayaḥ)
+[fourteen](caturdaśa)+[worlds](jagati)+[mother](aṃba) [raised](proccitāḥ) [mansion](saudha)+[floors](bhūmayaḥ)
 
 ## mukta-m0-p71-v1757
-[thus](evaṃ) [manifested](prakāśitā) [knowledge](vidyā) [lion-seat](sihmāsana) [great-lady](maheśvarī)
+[thus](evaṃ) [revealed](prakāśitā) [knowledge](vidyā) [lion-throne](sihmāsana) [great-goddess](maheśvarī)
 
 ## mukta-m0-p71-v1758
-[therefore](tasmāt) [lion-seat-named](sihmāsanākhyeva) [in-three-worlds](triṣulokeṣu) [famous](viśrutā)
+[therefore](tasmāt) [lion-throne-named](sihmāsana)+[ākhyā](ākhyā)+[indeed](eva) [in-three-worlds](triṣu)+[lokeṣu](lokeṣu) [renowned](viśrutā)
 
 ## mukta-m0-p71-v1759
-[bliss-creeper-knowledge](ānaṃdavallividyeyaṃ) [all-bliss-containing](samastānaṃdagarbhiṇī)
+[bliss-creeper](ānaṃda)+[valli](valli)+[knowledge](vidyā)+[this](iyaṃ) [all](samasta)+[bliss](ānaṃda)+[womb-containing](garbhiṇī)
 
 ## mukta-m0-p71-v1760
-[bliss-goddess](ānaṃdadevī) [lalita](lalitā) [lalita-bliss-bhairavi](lalitānaṃdabhairavī)
+[bliss-goddess](ānaṃda)+[devī](devī) [Lalitā](lalitā) [Lalitā-bliss](lalitā)+[ānaṃda]+[Bhairavī](bhairavī)
 
 ## mukta-m0-p71-v1761
-[all-scriptures-taught](samastaśāstrasaṃbodhyā) [hero-soul-giving](vīravaiśvātmadāyinī)
+[by-all-scriptures](samasta)+[śāstra](śāstra)+[to-be-known](saṃbodhyā) [to-heroes](vīra)+[universal-self](vaiśva)+[ātma](ātma)+[giver](dāyinī)
 
 ## mukta-m0-p71-v1762
-[being-thought-sweet](cintyamānaivamadhurā) [being-spoken-siddhi-giving](jalpyamānaivasidhyadā)
+[when-contemplated](cintyamānā)+[thus](evam)+[sweet](adhurā) [when-uttered](jalpyamānā)+[indeed](eva)+[always-accomplishing](sidhyadā)
 
 ## mukta-m0-p71-v1763
-[not-like-this](nānayāsadṛśaṃ) [what](kiṃcit) [in-three-worlds](triṣulokeṣu) [exists](vidyate)
+[not](na)+[by-another](anayā)+[similar](sadṛśaṃ) [anything](kiṃcit) [in-three-worlds](triṣu)+[lokeṣu](lokeṣu) [exists](vidyate)
 
 ## mukta-m0-p71-v1764
-[when-bliss-great-knowledge](yadānaṃdamahāvidyām) [declares](avadhatte) [once-man](sakṛtpumān)
+[when](yadā)+[bliss](ānaṃda)+[great-knowledge](mahāvidyām)+[attends-to](avadhatte) [once](sakṛt)+[person](pumān)
 
 ## mukta-m0-p71-v1765
-[all-auspiciousness](samasta+saubhāgya) [possessing-siddhi](yutosiddhimān) [once-then](sakṛdathate)
+[with-all](samasta) [good-fortune](saubhāgya) [endowed](yutaḥ)+[accomplished-one](siddhimān) [at-once](sakṛd)+[obtains](athate)
 
 ## mukta-m0-p71-v1766
-[supreme-abode](paraṃdhāmāpicidrūpaṃ) [because](yato) [linga](liṃga) [resorted](samāśritam)
+[supreme](paraṃ)+[abode](dhāma)+[also](api)+[consciousness-form](cidrūpaṃ) [because](yataḥ) [in-liṅga](liṃga) [resorted-to](samāśritam)
 
 ## mukta-m0-p71-v1767
-[immortals](amarāśca) [gods](surāyakṣā) [demons-gandharvas-kinnaras](rakṣogaṃdharva+kinnarāḥ)
+[immortals](amarāḥ)+[and](ca) [gods](surā)+[Yakṣas](yakṣā) [demons](rakṣaḥ)+[Gandharvas](gaṃdharva) [Kinnaras](kinnarāḥ)
 
 ## mukta-m0-p71-v1768
-[niliṃpas](niliṃpakāśca) [pramathas](pramathāḥ) [all-gods](sarvedevā) [great-goddess](maheśvari)
+[gods](niliṃpakāḥ)+[and](ca) [attendants](pramathāḥ) [all](sarve)+[gods](devā) [great-goddess](maheśvari)
 
 ## mukta-m0-p71-v1769
-[lions-elephants](siṃhājagājāśca) [tigers](śārdūlāḥ) [sharabhas](śarabhāśca) [thus](tathā) [deer](mṛgāḥ)
+[lions](siṃhāḥ)+[elephants](jagājāḥ)+[and](ca) [tigers](śārdūlāḥ) [śarabhas](śarabhāḥ)+[and](ca) [likewise](tathā) [deer](mṛgāḥ)
 
 ## mukta-m0-p71-v1770
-[life-pulsation](prāṇaspaṃdana) [consciousness-only](cinmātrā) [forms](rūpāḥ) [all](sarve) [different-born](vijātayaḥ)
+[life-breath](prāṇa)+[vibration](spaṃdana) [consciousness-mere](cinmātrā) [forms](rūpāḥ) [all](sarve) [creatures](vijātayaḥ)
 
 ## mukta-m0-p71-v1771
-[therefore](tasmāt) [parvati](pārvati) [hands](hastānme) [feet](pādānmūrdhastathorasaḥ)
+[therefore](tasmāt) [Pārvatī](pārvati) [from-hands](hastān)+[of-me](me) [from-feet](pādān)+[from-head](mūrdhaḥ)+[and](tathā)+[from-chest](urasaḥ)
 
 ## mukta-m0-p71-v1772
-[still](adhyāpi) [see](paśyadeveśi) [my-linga](mamaliṃgaṃ) [indeed](hi) [worshipped](pūjyate)
+[even-now](adhyāpi) [see](paśya)+[goddess-lord](deveśi) [my](mama)+[liṅga](liṃgaṃ) [indeed](hi) [is-worshipped](pūjyate)
 
 ## mukta-m0-p71-v1773
-[self-born-bana-linga](svayaṃbhubāṇaliṃgaṃ) [and](ca) [thus](tathā) [crystal-linga](sphaṭka+liṃgakam)
+[self-born](svayaṃbhu)+[Bāṇa-liṅga](bāṇaliṃgaṃ) [and](ca) [likewise](tathā) [crystal](sphaṭka) [liṅga](liṃgakam)
 
 ## mukta-m0-p71-v1774
-[earthen-linga](pārthivaṃ+liṃgamīśāni) [thus](tathā) [silver-linga](rājata+liṃgakam)
+[earthen](pārthivaṃ) [liṅga](liṃgam)+[Īśānī](īśāni) [likewise](tathā) [silver](rājata) [liṅga](liṃgakam)
 
 ## mukta-m0-p71-v1775
-[by-all](samastaiḥ) [worshipped](pūjyate) [goddess](devi) [all-auspiciousness-desiring](sarvasaubhāgya+kāmukaiḥ)
+[by-all](samastaiḥ) [is-worshipped](pūjyate) [goddess](devi) [by-all-good-fortune](sarva)+[saubhāgya] [desirers](kāmukaiḥ)

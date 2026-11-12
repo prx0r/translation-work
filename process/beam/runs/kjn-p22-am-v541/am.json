@@ -1,14 +1,13 @@
 {
  "song": "kjn-p22",
  "verse": 541,
- "question": "What are the first and second results that should be?",
+ "question": "What are the first and second results said to arise from this practice?",
  "premises": [
-  "First is gray-hair stopping.",
-  "Second is desired."
+  "A first result is named as stopping gray hair",
+  "A second result is named as obtaining what is desired",
+  "Both are presented as outcomes"
  ],
- "inference": "The first result is stopping gray hair and the second is the desired result.",
- "uncertainties": [
-  "Exact list context is implicit."
- ],
- "plain_english": "First is stopping gray hair; second should be the desired result."
+ "inference": "The first result should be stopping gray hair and the second should be fulfillment of desire",
+ "uncertainties": [],
+ "plain_english": "The first should be the stopping of gray hair, and the second the attainment of what is desired."
 }

@@ -1,14 +1,13 @@
 {
  "song": "kjn-p22",
  "verse": 545,
- "question": "What smells are mentioned among camphor, sandalwood, and so on?",
+ "question": "What range of scents may be present among substances like camphor and sandalwood?",
  "premises": [
-  "Good smell is mentioned.",
-  "Foul smell is mentioned as alternative."
+  "Good smell is mentioned",
+  "Foul smell is mentioned as an alternative",
+  "The context includes camphor, sandalwood, and similar substances"
  ],
- "inference": "Good or foul smell is mentioned among camphor, sandalwood, and so on.",
- "uncertainties": [
-  "Exact application is implicit."
- ],
- "plain_english": "Good smell or foul smell among camphor, sandalwood, and so on."
+ "inference": "Among substances like camphor and sandalwood, either good or foul smells may be present",
+ "uncertainties": [],
+ "plain_english": "Whether a good smell or a foul smell, among camphor, sandalwood, and the like."
 }

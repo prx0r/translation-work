@@ -1,14 +1,16 @@
 {
  "song": "kjn-p27",
  "verse": 655,
- "question": "What kinds of threats are enumerated here?",
+ "question": "What human and afflictive dangers appear among the assumed threatening forms?",
  "premises": [
-  "disease is named",
-  "king and thieves are named"
+  "Disease is listed among the forms or threats.",
+  "A king and thieves are also listed.",
+  "A lacuna interrupts the sequence."
  ],
- "inference": "The verse enumerates disease, king, and thieves among threats.",
+ "inference": "The manifestations include dangers such as disease, kings, and thieves.",
  "uncertainties": [
-  "lacuna obscures one item"
+  "The lacuna obscures the relation of 'veda' to the rest of the list.",
+  "The case of 'rājānañ' differs from other nominatives in the list."
  ],
- "plain_english": "Veda, disease, king, and thieves are named."
+ "plain_english": "Veda ... [lacuna] disease, and indeed a king and thieves."
 }

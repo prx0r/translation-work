@@ -1,12 +1,15 @@
 {
  "song": "kjn-p27",
  "verse": 670,
- "question": "Which fragrant flowers are listed?",
+ "question": "Which fragrant flowers are specified for use in the external worship?",
  "premises": [
-  "campaka and kiṅkarāta are named",
-  "blue lotus and fragrant ones are named"
+  "Campaka flowers are specified.",
+  "Kiṅkarāta flowers are specified.",
+  "Fragrant blue lotuses are specified."
  ],
- "inference": "The verse lists campaka, kiṅkarāta, blue lotus, and fragrant flowers.",
- "uncertainties": [],
- "plain_english": "With campaka, kiṅkarāta, and blue lotus, fragrant."
+ "inference": "External worship should use campaka, kiṅkarāta, and fragrant blue-lotus flowers.",
+ "uncertainties": [
+  "The identity of 'kiṅkarātaiḥ' as a specific flower is uncertain."
+ ],
+ "plain_english": "With campaka flowers, with kiṅkarāta, and with fragrant blue lotuses."
 }

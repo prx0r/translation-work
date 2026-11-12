@@ -7,89 +7,87 @@
     {
      "surface": "imāṃ",
      "gloss": "this",
-     "grounds": "as given",
+     "grounds": "demonstrative pointing to the knowledge",
      "morph": "f.acc.sg"
     },
     {
      "surface": "vidyāṃ",
      "gloss": "knowledge",
-     "grounds": "as given",
+     "grounds": "object to be practiced",
      "morph": "f.acc.sg"
     },
     {
      "surface": "jāpyaṃ",
      "gloss": "to-be-recited",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "prescribes recitation as practice",
+     "morph": "n.acc.sg.gerundive"
     },
     {
      "surface": "kuryād",
      "gloss": "one-should-make",
-     "grounds": "as given",
-     "morph": "3.sg.act-opt"
+     "grounds": "injunctive instruction to the practitioner",
+     "morph": "3.sg.act.optative-√kṛ"
     },
     {
      "surface": "bhayor+ddhitā",
-     "gloss": "from-fear-uplifted",
-     "grounds": "fused form retained",
-     "morph": "f.nom.sg"
+     "gloss": "uplifted-from-fear",
+     "grounds": "compound: bhaya+uddhitā; describes the resulting state",
+     "morph": "compound=f.acc.sg"
     }
    ],
-   "question": "What practice should one perform with this knowledge to be uplifted from fear?",
+   "question": "What practice with this knowledge lifts a person out of fear?",
    "premises": [
-    "This knowledge is to be recited.",
-    "Recitation uplifts from fear."
+    "This knowledge is identified as the object of practice",
+    "Recitation is prescribed as the method",
+    "The result is being uplifted from fear"
    ],
-   "inference": "One should recite this knowledge to be uplifted from fear.",
-   "uncertainties": [
-    "Exact compound sense remains broad."
-   ],
-   "plain_english": "One should recite this knowledge to be uplifted from fear."
+   "inference": "Reciting this knowledge should be undertaken to become free from fear",
+   "uncertainties": [],
+   "plain_english": "One should recite this knowledge and thereby become uplifted from fear."
   },
   {
    "verse": 527,
    "rows": [
     {
      "surface": "yatra",
-     "gloss": "where",
-     "grounds": "as given",
-     "morph": "indecl."
+     "gloss": "wherever",
+     "grounds": "indicates any place or context",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "correlative indicating corresponding result",
+     "morph": "(indecl.)"
     },
     {
      "surface": "kṣudra+siddhir",
      "gloss": "minor-accomplishment",
-     "grounds": "fused form retained",
-     "morph": "f.nom.sg"
+     "grounds": "compound: kṣudra+siddhi; refers to lesser powers",
+     "morph": "compound=f.nom.sg"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates multiplicity of forms",
+     "morph": "(indecl.)"
     },
     {
      "surface": "śāstra+coditā",
-     "gloss": "by-scripture-enjoined",
-     "grounds": "fused form retained",
-     "morph": "f.nom.sg"
+     "gloss": "enjoined-by-scripture",
+     "grounds": "compound: śāstra+coditā; authorized by teaching",
+     "morph": "compound=f.nom.sg"
     }
    ],
-   "question": "Where does minor accomplishment arise in many ways as enjoined by scripture?",
+   "question": "Where do the minor accomplishments enjoined by scripture arise?",
    "premises": [
-    "Minor accomplishment arises where it arises.",
-    "Scripture enjoins it in many ways."
+    "Minor accomplishments are acknowledged",
+    "They appear in many forms",
+    "They are enjoined by scripture"
    ],
-   "inference": "Minor accomplishment occurs in various places as scripture enjoins.",
-   "uncertainties": [
-    "Spatial reference is implicit."
-   ],
-   "plain_english": "Minor accomplishment arises in many ways where scripture enjoins it."
+   "inference": "Wherever such practice occurs, various minor accomplishments prescribed by scripture may arise",
+   "uncertainties": [],
+   "plain_english": "Wherever it is practiced, various minor accomplishments enjoined by scripture arise."
   },
   {
    "verse": 528,
@@ -97,50 +95,51 @@
     {
      "surface": "pūjayet",
      "gloss": "one-should-worship",
-     "grounds": "as given",
-     "morph": "3.sg.act-opt"
+     "grounds": "injunctive instruction for ritual honor",
+     "morph": "3.sg.act.optative-√pūj"
     },
     {
      "surface": "tat",
      "gloss": "that",
-     "grounds": "as given",
+     "grounds": "refers back to the knowledge or practice",
      "morph": "n.acc.sg"
     },
     {
      "surface": "pra(ya",
      "gloss": "with-effort",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "token given as listed; indicates exertion",
+     "morph": "(indecl.)"
     },
     {
      "surface": "kaulave",
      "gloss": "in-kaula",
-     "grounds": "as given",
-     "morph": "m.loc.sg"
+     "grounds": "locates practice within the Kaula context",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "siddhim",
      "gloss": "success",
-     "grounds": "as given",
+     "grounds": "desired attainment",
      "morph": "f.acc.sg"
     },
     {
      "surface": "icchatā",
      "gloss": "by-one-desiring",
-     "grounds": "as given",
-     "morph": "m.inst.sg"
+     "grounds": "qualifies the practitioner by intention",
+     "morph": "m.inst.sg.present-participle-√iṣ"
     }
    ],
-   "question": "How should one worship to obtain success in the kaula path?",
+   "question": "How should one desiring success honor this within the Kaula path?",
    "premises": [
-    "Worship is performed with effort.",
-    "Success is desired in kaula."
+    "Worship is prescribed for that object",
+    "The context is the Kaula path",
+    "The practitioner desires success"
    ],
-   "inference": "One should worship that with effort to obtain desired success in kaula.",
+   "inference": "One who desires success in the Kaula path should worship that with effort",
    "uncertainties": [
-    "Object of worship is implicit."
+    "The token 'pra(ya' appears incomplete or irregular in the source"
    ],
-   "plain_english": "One should worship that with effort to obtain desired success in kaula."
+   "plain_english": "One who desires success in the Kaula path should worship that with effort."
   },
   {
    "verse": 529,
@@ -148,24 +147,23 @@
     {
      "surface": "ṣoḍaśaḥ",
      "gloss": "sixteenth",
-     "grounds": "as given",
+     "grounds": "ordinal number marking sequence",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "as given",
+     "grounds": "sectional division of the text",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What chapter number is being concluded here?",
+   "question": "Which chapter of the text concludes at this point?",
    "premises": [
-    "The chapter is sixteenth."
+    "An ordinal number is given",
+    "A textual division is named"
    ],
-   "inference": "This is the sixteenth chapter.",
-   "uncertainties": [
-    "No doctrinal claim beyond numbering."
-   ],
+   "inference": "This marks the end of the sixteenth chapter",
+   "uncertainties": [],
    "plain_english": "This is the sixteenth chapter."
   },
   {
@@ -174,50 +172,49 @@
     {
      "surface": "sāmprataṃ",
      "gloss": "now",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
     },
     {
      "surface": "śrotum",
      "gloss": "to-hear",
-     "grounds": "as given",
-     "morph": "inf."
+     "grounds": "expresses desire for instruction",
+     "morph": "infinitive-√śru"
     },
     {
      "surface": "icchāmi",
-     "gloss": "I-wish",
-     "grounds": "as given",
-     "morph": "1.sg.act-pres"
+     "gloss": "i-wish",
+     "grounds": "speaker states personal desire",
+     "morph": "1.sg.act.present-√iṣ"
     },
     {
      "surface": "niḥsandigdhaṃ",
      "gloss": "without-doubt",
-     "grounds": "as given",
+     "grounds": "requests clear and certain explanation",
      "morph": "n.acc.sg"
     },
     {
      "surface": "vada",
      "gloss": "speak",
-     "grounds": "as given",
-     "morph": "2.sg.act-imp"
+     "grounds": "direct request to the lord",
+     "morph": "2.sg.act.imperative-√vad"
     },
     {
      "surface": "prabho",
-     "gloss": "O-lord",
-     "grounds": "as given",
+     "gloss": "o-lord",
+     "grounds": "vocative address to the teacher",
      "morph": "m.voc.sg"
     }
    ],
-   "question": "What does the disciple now wish to hear without doubt from the lord?",
+   "question": "What clear instruction does the speaker now request from the lord?",
    "premises": [
-    "The disciple wishes to hear.",
-    "The lord is asked to speak without doubt."
+    "The speaker expresses a wish to hear",
+    "The request is for doubtless explanation",
+    "The lord is addressed directly"
    ],
-   "inference": "The disciple wishes to hear an undoubted teaching from the lord.",
-   "uncertainties": [
-    "Specific topic is implicit."
-   ],
-   "plain_english": "Now I wish to hear; speak without doubt, O lord."
+   "inference": "The speaker asks the lord to explain the matter clearly and without doubt",
+   "uncertainties": [],
+   "plain_english": "Now I wish to hear; O lord, speak without doubt."
   },
   {
    "verse": 531,
@@ -225,50 +222,49 @@
     {
      "surface": "gūḍhaṃ",
      "gloss": "hidden",
-     "grounds": "as given",
+     "grounds": "describes a concealed location or principle",
      "morph": "n.acc.sg"
     },
     {
      "surface": "guhyaṃ",
      "gloss": "secret",
-     "grounds": "as given",
+     "grounds": "emphasizes esoteric nature",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sa+nābhiñ",
      "gloss": "with-navel",
-     "grounds": "fused form retained",
-     "morph": "m.acc.sg"
+     "grounds": "compound: sa+nābhi; indicates inclusion of the navel region",
+     "morph": "compound=n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "connects listed elements",
+     "morph": "(indecl.)"
     },
     {
      "surface": "hṛdi",
      "gloss": "in-heart",
-     "grounds": "as given",
+     "grounds": "locates one center in the heart",
      "morph": "n.loc.sg"
     },
     {
      "surface": "padma+madho+mukham",
      "gloss": "lotus-downward-facing",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: padma+adhas+mukha; describes the heart lotus orientation",
+     "morph": "compound=n.acc.sg"
     }
    ],
-   "question": "What hidden and secret centers are located at navel and heart?",
+   "question": "Which hidden bodily centers are identified beginning with the navel and heart?",
    "premises": [
-    "Hidden and secret things are named.",
-    "They are located at navel and heart."
+    "Hidden and secret loci are being named",
+    "The navel region is included",
+    "The heart is described as a downward-facing lotus"
    ],
-   "inference": "Hidden and secret centers are located at the navel and heart.",
-   "uncertainties": [
-    "Exact anatomical referent is implicit."
-   ],
-   "plain_english": "Hidden and secret things are at the navel and in the downward-facing lotus of the heart."
+   "inference": "The teaching identifies secret centers including the navel and the downward-facing lotus in the heart",
+   "uncertainties": [],
+   "plain_english": "The hidden and secret places include the navel and the downward-facing lotus in the heart."
   },
   {
    "verse": 532,
@@ -276,50 +272,49 @@
     {
      "surface": "nāsā+graṃ",
      "gloss": "nose-tip",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: nāsā+agra; names a focal point",
+     "morph": "compound=n.acc.sg"
     },
     {
      "surface": "dvādaśā+ntaṃ",
      "gloss": "twelve-end",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: dvādaśa+anta; refers to the point twelve finger-widths above",
+     "morph": "compound=n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "adds another location",
+     "morph": "(indecl.)"
     },
     {
      "surface": "bhruvor",
      "gloss": "of-eyebrows",
-     "grounds": "as given",
-     "morph": "f.gen.du"
+     "grounds": "specifies the pair of eyebrows",
+     "morph": "f.gen.dual"
     },
     {
      "surface": "madhye",
      "gloss": "in-middle",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "locates the point between them",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "vyavasthitam",
      "gloss": "situated",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "states that these points are established",
+     "morph": "n.acc.sg.past-participle-√sthā"
     }
    ],
-   "question": "Where are the nose-tip, twelve-end, and eyebrow-middle situated?",
+   "question": "Which additional bodily points are established as centers of focus?",
    "premises": [
-    "Nose-tip and twelve-end are named.",
-    "Eyebrow-middle is also situated."
+    "The tip of the nose is named",
+    "The end of the twelve is named",
+    "The middle between the eyebrows is named"
    ],
-   "inference": "These centers are situated at nose-tip, twelve-end, and eyebrow-middle.",
-   "uncertainties": [
-    "Exact mapping of centers is implicit."
-   ],
-   "plain_english": "The nose-tip, twelve-end, and eyebrow-middle are situated as centers."
+   "inference": "The nose-tip, the twelve-end, and the point between the eyebrows are established as focal centers",
+   "uncertainties": [],
+   "plain_english": "Also situated are the tip of the nose, the end of the twelve, and the middle between the eyebrows."
   },
   {
    "verse": 533,
@@ -327,83 +322,81 @@
     {
      "surface": "ekādaśa+vidhaṃ",
      "gloss": "eleven-fold",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: ekādaśa+vidha; specifies number of kinds",
+     "morph": "compound=n.nom.sg"
     },
     {
      "surface": "proktaṃ",
      "gloss": "declared",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "indicates authoritative teaching",
+     "morph": "n.nom.sg.past-participle-√vac"
     },
     {
      "surface": "vijñānaṃ",
      "gloss": "knowledge",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "the subject being classified",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "deha+madhyataḥ",
-     "gloss": "body-within",
-     "grounds": "fused form retained",
-     "morph": "indecl."
+     "gloss": "from-within-body",
+     "grounds": "compound: deha+madhya with ablative sense; located in the body",
+     "morph": "compound=(indecl.)"
     }
    ],
-   "question": "How many kinds of knowledge are declared within the body?",
+   "question": "How is embodied knowledge classified within the body according to this teaching?",
    "premises": [
-    "Knowledge is declared.",
-    "It is eleven-fold within the body."
+    "Knowledge is the subject",
+    "It is declared to be eleven-fold",
+    "It is located within the body"
    ],
-   "inference": "Eleven kinds of knowledge are declared within the body.",
-   "uncertainties": [
-    "Enumeration details are not given."
-   ],
-   "plain_english": "Eleven kinds of knowledge are declared within the body."
+   "inference": "Knowledge within the body is declared to be of eleven kinds",
+   "uncertainties": [],
+   "plain_english": "Knowledge within the body is declared to be elevenfold."
   },
   {
    "verse": 534,
    "rows": [
     {
      "surface": "hṛdi+stha+sahajo",
-     "gloss": "in-heart-abiding-innate",
-     "grounds": "fused form retained",
-     "morph": "m.nom.sg"
+     "gloss": "innate-abiding-in-heart",
+     "grounds": "compound: hṛdi+stha+sahaja; describes the innate presence in the heart",
+     "morph": "compound=m.nom.sg"
     },
     {
      "surface": "deva",
      "gloss": "god",
-     "grounds": "as given",
+     "grounds": "identifies the divine presence",
      "morph": "m.nom.sg"
     },
     {
      "surface": "smaraṇā+rhaḥ",
-     "gloss": "remembrance-worthy",
-     "grounds": "fused form retained",
-     "morph": "m.nom.sg"
+     "gloss": "worthy-of-remembrance",
+     "grounds": "compound: smaraṇa+arha; fit to be remembered",
+     "morph": "compound=m.nom.sg"
     },
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "as given",
+     "grounds": "refers to that deity",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ucyate",
      "gloss": "is-called",
-     "grounds": "as given",
-     "morph": "3.sg.pass-pres"
+     "grounds": "states the designation",
+     "morph": "3.sg.passive.present-√vac"
     }
    ],
-   "question": "What innate heart-abiding god is worthy of remembrance?",
+   "question": "What divine presence abiding innately in the heart is worthy of remembrance?",
    "premises": [
-    "An innate god abides in the heart.",
-    "He is worthy of remembrance."
+    "A deity abides innately in the heart",
+    "That deity is worthy of remembrance",
+    "This is stated as a designation"
    ],
-   "inference": "The innate god abiding in the heart is worthy of remembrance.",
-   "uncertainties": [
-    "Specific deity name is implicit."
-   ],
-   "plain_english": "The innate god abiding in the heart is worthy of remembrance."
+   "inference": "The innate deity abiding in the heart is called worthy of remembrance",
+   "uncertainties": [],
+   "plain_english": "The innate god abiding in the heart is said to be worthy of remembrance."
   },
   {
    "verse": 535,
@@ -411,68 +404,67 @@
     {
      "surface": "sṛ+kāraṃ",
      "gloss": "sṛ-syllable",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: sṛ+kāra; names the syllable",
+     "morph": "compound=m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "emphasizes the statement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates constant association",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sṛṣṭi",
      "gloss": "creation",
-     "grounds": "as given",
+     "grounds": "linked to the syllable by meaning",
      "morph": "f.nom.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "assertive particle",
+     "morph": "(indecl.)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "marks the explanation",
+     "morph": "(indecl.)"
     },
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "reinforces the manner of understanding",
+     "morph": "(indecl.)"
     },
     {
      "surface": "saṃharej",
      "gloss": "one-should-withdraw",
-     "grounds": "as given",
-     "morph": "3.sg.act-opt"
+     "grounds": "prescribes reabsorption of the world",
+     "morph": "3.sg.act.optative-√hṛ"
     },
     {
      "surface": "jagat",
      "gloss": "world",
-     "grounds": "as given",
+     "grounds": "object of withdrawal",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "How should one withdraw the world through the sṛ syllable?",
+   "question": "How does understanding the syllable sṛ relate to withdrawing the world?",
    "premises": [
-    "The sṛ syllable is creation.",
-    "One should withdraw the world."
+    "The syllable sṛ is associated with creation",
+    "This association is stated as constant",
+    "Withdrawal of the world is prescribed"
    ],
-   "inference": "Through the sṛ syllable, one should withdraw the world.",
-   "uncertainties": [
-    "Exact meditative operation is implicit."
-   ],
-   "plain_english": "The sṛ syllable is creation; thus one should withdraw the world."
+   "inference": "By understanding the syllable sṛ as creation, one should withdraw the world",
+   "uncertainties": [],
+   "plain_english": "The syllable sṛ is always associated with creation; thus one should withdraw the world."
   },
   {
    "verse": 536,
@@ -480,62 +472,61 @@
     {
      "surface": "ha+kāram",
      "gloss": "ha-syllable",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: ha+kāra; names the syllable",
+     "morph": "compound=m.acc.sg"
     },
     {
      "surface": "īkṣam",
      "gloss": "seeing",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "interprets the syllable as vision or awareness",
+     "morph": "f.acc.sg"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "marks the reported interpretation",
+     "morph": "(indecl.)"
     },
     {
      "surface": "āhur",
      "gloss": "they-say",
-     "grounds": "as given",
-     "morph": "3.pl.act-pres"
+     "grounds": "attributes the teaching to authorities",
+     "morph": "3.pl.act.perfect-√ah"
     },
     {
      "surface": "mahā+rthañ",
      "gloss": "great-meaning",
-     "grounds": "fused form retained",
-     "morph": "m.acc.sg"
+     "grounds": "compound: mahā+artha; indicates profound significance",
+     "morph": "compound=m.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "adds further qualification",
+     "morph": "(indecl.)"
     },
     {
      "surface": "gataṃ",
-     "gloss": "gone",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "gloss": "gone-to",
+     "grounds": "describes attainment of a state",
+     "morph": "n.acc.sg.past-participle-√gam"
     },
     {
      "surface": "param",
      "gloss": "supreme",
-     "grounds": "as given",
+     "grounds": "qualifies the ultimate state",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What great meaning is said to be reached through the ha syllable?",
+   "question": "What supreme meaning is attributed to the syllable ha by the authorities?",
    "premises": [
-    "The ha syllable is seeing.",
-    "It reaches the supreme great meaning."
+    "The syllable ha is interpreted as seeing",
+    "Authorities report this meaning",
+    "It is linked to a great and supreme attainment"
    ],
-   "inference": "Through the ha syllable one reaches the supreme great meaning.",
-   "uncertainties": [
-    "Exact semantic link is implicit."
-   ],
-   "plain_english": "They say the ha syllable is seeing, reaching the supreme great meaning."
+   "inference": "Authorities say the syllable ha means seeing and leads to the supreme great meaning",
+   "uncertainties": [],
+   "plain_english": "They say the syllable ha means seeing, and it reaches the supreme, great meaning."
   },
   {
    "verse": 537,
@@ -543,95 +534,95 @@
     {
      "surface": "anyo'nyañ",
      "gloss": "mutually",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "expresses reciprocal relation",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "connects elements of the process",
+     "morph": "(indecl.)"
     },
     {
      "surface": "pravartante",
      "gloss": "they-proceed",
-     "grounds": "as given",
-     "morph": "3.pl.act-pres"
+     "grounds": "describes ongoing mutual activity",
+     "morph": "3.pl.middle.present-√vṛt"
     },
     {
      "surface": "agni+dhūmau",
-     "gloss": "fire-smoke",
-     "grounds": "fused form retained",
-     "morph": "m.nom.du"
+     "gloss": "fire-and-smoke",
+     "grounds": "compound: agni+dhūma; paired example",
+     "morph": "compound=m.nom.dual"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "introduces a comparison",
+     "morph": "(indecl.)"
     },
     {
      "surface": "priye",
-     "gloss": "O-beloved",
-     "grounds": "as given",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "How do fire and smoke proceed mutually, O beloved?",
+   "question": "How do the paired principles operate in mutual relation like fire and smoke?",
    "premises": [
-    "Fire and smoke proceed mutually.",
-    "The comparison is given."
+    "The principles proceed mutually",
+    "Fire and smoke are given as an analogy",
+    "The beloved is addressed"
    ],
-   "inference": "Fire and smoke proceed mutually, as stated to the beloved.",
-   "uncertainties": [
-    "Exact doctrinal comparison is implicit."
-   ],
-   "plain_english": "Fire and smoke proceed mutually, O beloved."
+   "inference": "The paired principles arise and operate mutually, just as fire and smoke do",
+   "uncertainties": [],
+   "plain_english": "O beloved, they proceed mutually, just as fire and smoke do."
   },
   {
    "verse": 538,
    "rows": [
     {
      "surface": "śaktyā+bhyāsa+rato",
-     "gloss": "in-śakti-practice-devoted",
-     "grounds": "fused form retained",
-     "morph": "m.nom.sg"
+     "gloss": "devoted-to-śakti-practice",
+     "grounds": "compound: śakti+abhyāsa+rata; engaged in practice of power",
+     "morph": "compound=m.nom.sg"
     },
     {
      "surface": "yogī",
      "gloss": "yogin",
-     "grounds": "as given",
+     "grounds": "the practitioner",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kule",
      "gloss": "in-kula",
-     "grounds": "as given",
+     "grounds": "locates attainment within the Kula",
      "morph": "n.loc.sg"
     },
     {
      "surface": "sāmānyatāṃ",
      "gloss": "commonality",
-     "grounds": "as given",
+     "grounds": "state of shared identity or universality",
      "morph": "f.acc.sg"
     },
     {
      "surface": "vrajet",
      "gloss": "should-attain",
-     "grounds": "as given",
-     "morph": "3.sg.act-opt"
+     "grounds": "prescribes the resulting attainment",
+     "morph": "3.sg.act.optative-√vraj"
     }
    ],
-   "question": "What should a yogin devoted to śakti practice attain in kula?",
+   "question": "What attainment comes to a yogin devoted to the practice of śakti in the Kula?",
    "premises": [
-    "The yogin is devoted to śakti practice.",
-    "He should attain commonality in kula."
+    "The yogin is devoted to śakti practice",
+    "The context is the Kula",
+    "Attainment of commonality is stated"
    ],
-   "inference": "A yogin devoted to śakti practice should attain commonality in kula.",
+   "inference": "A yogin devoted to śakti practice in the Kula should attain commonality",
    "uncertainties": [
-    "Meaning of commonality is implicit."
+    "The exact sense of 'sāmānyatāṃ' may range from universality to shared identity"
    ],
-   "plain_english": "A yogin devoted to śakti practice should attain commonality in kula."
+   "plain_english": "A yogin devoted to the practice of śakti should attain commonality within the Kula."
   },
   {
    "verse": 539,
@@ -639,50 +630,49 @@
     {
      "surface": "pāramparyān",
      "gloss": "from-tradition",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates transmission through lineage",
+     "morph": "f.abl.sg"
     },
     {
      "surface": "mataṃ",
      "gloss": "doctrine",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "the teaching or view",
+     "morph": "n.nom.sg.past-participle-√man"
     },
     {
      "surface": "kaulaṃ",
      "gloss": "kaula",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "identifies the doctrine as Kaula",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "karṇāt",
      "gloss": "from-ear",
-     "grounds": "as given",
+     "grounds": "source point of oral transmission",
      "morph": "m.abl.sg"
     },
     {
      "surface": "karṇa+gataṃ",
-     "gloss": "to-ear-gone",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "gloss": "gone-to-ear",
+     "grounds": "compound: karṇa+gata; received by another ear",
+     "morph": "compound=n.nom.sg"
     },
     {
      "surface": "param",
      "gloss": "supreme",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "qualifies the doctrine as highest",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "How is the supreme kaula doctrine transmitted from tradition?",
+   "question": "How is the supreme Kaula doctrine transmitted through tradition?",
    "premises": [
-    "Kaula doctrine comes from tradition.",
-    "It passes from ear to ear."
+    "The doctrine is Kaula and supreme",
+    "It comes through tradition",
+    "It passes from ear to ear"
    ],
-   "inference": "The supreme kaula doctrine is transmitted from tradition through ear-to-ear teaching.",
-   "uncertainties": [
-    "Exact lineage details are implicit."
-   ],
-   "plain_english": "The supreme kaula doctrine comes from tradition and passes from ear to ear."
+   "inference": "The supreme Kaula doctrine is transmitted by tradition from ear to ear",
+   "uncertainties": [],
+   "plain_english": "The supreme Kaula doctrine is transmitted by tradition, passing from ear to ear."
   },
   {
    "verse": 540,
@@ -690,50 +680,49 @@
     {
      "surface": "kṛtvā",
      "gloss": "having-done",
-     "grounds": "as given",
-     "morph": "abs."
+     "grounds": "indicates a prior completed action",
+     "morph": "absolutive-√kṛ"
     },
     {
      "surface": "kulā+bhiṣekan",
      "gloss": "kula-initiation",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: kula+abhiṣeka; ritual consecration",
+     "morph": "compound=m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "emphasizes the sequence",
+     "morph": "(indecl.)"
     },
     {
      "surface": "prakāśyaṃ",
      "gloss": "to-be-revealed",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "prescribes disclosure after initiation",
+     "morph": "n.nom.sg.gerundive-√kāś"
     },
     {
      "surface": "tv",
      "gloss": "indeed",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "emphatic particle as given",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ātma+nirṇayam",
      "gloss": "self-determination",
-     "grounds": "fused form retained",
-     "morph": "m.acc.sg"
+     "grounds": "compound: ātma+nirṇaya; discernment or determination of the self",
+     "morph": "compound=m.acc.sg"
     }
    ],
-   "question": "What should be revealed after performing kula initiation?",
+   "question": "What must be revealed only after performing the Kula initiation?",
    "premises": [
-    "Kula initiation is performed.",
-    "Self-determination is to be revealed."
+    "Kula initiation is performed first",
+    "Revelation follows that act",
+    "The content revealed concerns determination of the self"
    ],
-   "inference": "After kula initiation, self-determination should be revealed.",
-   "uncertainties": [
-    "Exact ritual context is implicit."
-   ],
-   "plain_english": "Having performed kula initiation, one should reveal self-determination."
+   "inference": "After performing Kula initiation, the determination of the self should be revealed",
+   "uncertainties": [],
+   "plain_english": "Having performed the Kula initiation, one should then reveal the determination of the self."
   },
   {
    "verse": 541,
@@ -741,44 +730,43 @@
     {
      "surface": "prathamaṃ",
      "gloss": "first",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "marks the first item in a sequence",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "palita+stambhaṃ",
      "gloss": "gray-hair-stopping",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: palita+stambha; arresting of graying",
+     "morph": "compound=n.nom.sg"
     },
     {
      "surface": "dvitīyam",
      "gloss": "second",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "marks the second item",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "īpsitaṃ",
      "gloss": "desired",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "refers to attainment of what is wished",
+     "morph": "n.nom.sg.past-participle-√āp"
     },
     {
      "surface": "bhavet",
      "gloss": "should-be",
-     "grounds": "as given",
-     "morph": "3.sg.act-opt"
+     "grounds": "states expected results",
+     "morph": "3.sg.act.optative-√bhū"
     }
    ],
-   "question": "What are the first and second results that should be?",
+   "question": "What are the first and second results said to arise from this practice?",
    "premises": [
-    "First is gray-hair stopping.",
-    "Second is desired."
+    "A first result is named as stopping gray hair",
+    "A second result is named as obtaining what is desired",
+    "Both are presented as outcomes"
    ],
-   "inference": "The first result is stopping gray hair and the second is the desired result.",
-   "uncertainties": [
-    "Exact list context is implicit."
-   ],
-   "plain_english": "First is stopping gray hair; second should be the desired result."
+   "inference": "The first result should be stopping gray hair and the second should be fulfillment of desire",
+   "uncertainties": [],
+   "plain_english": "The first should be the stopping of gray hair, and the second the attainment of what is desired."
   },
   {
    "verse": 542,
@@ -786,37 +774,36 @@
     {
      "surface": "pañcaman",
      "gloss": "fifth",
-     "grounds": "as given",
-     "morph": "m.acc.sg"
+     "grounds": "marks the fifth item in a sequence",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "emphasizes this item",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahā+ratnaṃ",
      "gloss": "great-jewel",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: mahā+ratna; a supreme attainment",
+     "morph": "compound=n.nom.sg"
     },
     {
      "surface": "jarā+maraṇa+nāśanam",
-     "gloss": "old-age-death-destroying",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "gloss": "destroying-old-age-death",
+     "grounds": "compound: jarā+maraṇa+nāśana; removes aging and death",
+     "morph": "compound=n.nom.sg"
     }
    ],
-   "question": "What is the fifth great jewel that destroys old age and death?",
+   "question": "What fifth attainment is described as destroying old age and death?",
    "premises": [
-    "The fifth is a great jewel.",
-    "It destroys old age and death."
+    "A fifth item is named",
+    "It is called a great jewel",
+    "It destroys old age and death"
    ],
-   "inference": "The fifth great jewel destroys old age and death.",
-   "uncertainties": [
-    "Exact jewel identity is implicit."
-   ],
+   "inference": "The fifth attainment is the great jewel that destroys old age and death",
+   "uncertainties": [],
    "plain_english": "The fifth is the great jewel that destroys old age and death."
   },
   {
@@ -825,38 +812,37 @@
     {
      "surface": "bhū+gṛhe",
      "gloss": "in-earth-house",
-     "grounds": "fused form retained",
-     "morph": "n.loc.sg"
+     "grounds": "compound: bhū+gṛha; a house or room on the ground",
+     "morph": "compound=n.loc.sg"
     },
     {
      "surface": "nirjane",
      "gloss": "in-solitary",
-     "grounds": "as given",
+     "grounds": "describes a secluded place",
      "morph": "m.loc.sg"
     },
     {
      "surface": "deśe",
      "gloss": "place",
-     "grounds": "as given",
+     "grounds": "general location for practice",
      "morph": "m.loc.sg"
     },
     {
      "surface": "gandha+dhūpa+su+dhūpite",
-     "gloss": "with-fragrance-incense-well-perfumed",
-     "grounds": "fused form retained",
-     "morph": "m.loc.sg"
+     "gloss": "well-perfumed-with-fragrance-incense",
+     "grounds": "compound: gandha+dhūpa+su+dhūpita; ritually scented environment",
+     "morph": "compound=m.loc.sg"
     }
    ],
-   "question": "In what kind of place should the earth-house be situated?",
+   "question": "What kind of place is prescribed for performing this practice?",
    "premises": [
-    "The place is solitary.",
-    "It is well perfumed with fragrance and incense."
+    "A ground-level house is specified",
+    "The place is solitary",
+    "It is well perfumed with fragrance and incense"
    ],
-   "inference": "The earth-house should be in a solitary, well-perfumed place.",
-   "uncertainties": [
-    "Exact ritual setting is implicit."
-   ],
-   "plain_english": "In a solitary place, an earth-house well perfumed with fragrance and incense."
+   "inference": "The practice should be performed in a solitary ground-level place well perfumed with fragrance and incense",
+   "uncertainties": [],
+   "plain_english": "In a solitary ground-level place, well perfumed with fragrance and incense."
   },
   {
    "verse": 544,
@@ -864,38 +850,37 @@
     {
      "surface": "paryaṅkaṃ",
      "gloss": "couch",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "seat or bed for the practice",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "vinyaset",
      "gloss": "one-should-place",
-     "grounds": "as given",
-     "morph": "3.sg.act-opt"
+     "grounds": "instruction to arrange the seat",
+     "morph": "3.sg.act.optative-√nyas"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "refers to the previously described place",
+     "morph": "(indecl.)"
     },
     {
      "surface": "su+sahāya+samanvitam",
-     "gloss": "with-good-companion-endowed",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "gloss": "endowed-with-good-companion",
+     "grounds": "compound: su+sahāya+samanvita; accompanied by a suitable helper",
+     "morph": "compound=m.acc.sg"
     }
    ],
-   "question": "What should be placed there with a good companion?",
+   "question": "How should the seat be arranged in the prescribed place for this rite?",
    "premises": [
-    "A couch is placed there.",
-    "It is endowed with a good companion."
+    "A couch is to be placed",
+    "The location is the previously described place",
+    "It should be accompanied by a good companion"
    ],
-   "inference": "A couch should be placed there, endowed with a good companion.",
-   "uncertainties": [
-    "Exact companion role is implicit."
-   ],
-   "plain_english": "One should place a couch there, endowed with a good companion."
+   "inference": "One should place a couch there together with a good companion",
+   "uncertainties": [],
+   "plain_english": "There one should place a couch, accompanied by a good companion."
   },
   {
    "verse": 545,
@@ -903,167 +888,166 @@
     {
      "surface": "sugandhaṃ",
      "gloss": "good-smell",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "pleasant fragrance",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "pūti+gandhaṃ",
      "gloss": "foul-smell",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "grounds": "compound: pūti+gandha; unpleasant odor",
+     "morph": "compound=m.acc.sg"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "presents alternatives",
+     "morph": "(indecl.)"
     },
     {
      "surface": "karpūrañ+candanā+diṣu",
      "gloss": "in-camphor-sandalwood-etc",
-     "grounds": "fused form retained",
-     "morph": "m.loc.pl"
+     "grounds": "compound: karpūra+candana+ādi; among substances like camphor and sandalwood",
+     "morph": "compound=n.loc.pl"
     }
    ],
-   "question": "What smells are mentioned among camphor, sandalwood, and so on?",
+   "question": "What range of scents may be present among substances like camphor and sandalwood?",
    "premises": [
-    "Good smell is mentioned.",
-    "Foul smell is mentioned as alternative."
+    "Good smell is mentioned",
+    "Foul smell is mentioned as an alternative",
+    "The context includes camphor, sandalwood, and similar substances"
    ],
-   "inference": "Good or foul smell is mentioned among camphor, sandalwood, and so on.",
-   "uncertainties": [
-    "Exact application is implicit."
-   ],
-   "plain_english": "Good smell or foul smell among camphor, sandalwood, and so on."
+   "inference": "Among substances like camphor and sandalwood, either good or foul smells may be present",
+   "uncertainties": [],
+   "plain_english": "Whether a good smell or a foul smell, among camphor, sandalwood, and the like."
   },
   {
    "verse": 546,
    "rows": [
     {
      "surface": "atītā+nāgatañ",
-     "gloss": "past-future",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "gloss": "past-and-future",
+     "grounds": "compound: atīta+anāgata; times already gone and yet to come",
+     "morph": "compound=n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "emphasizes inclusion",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tasmin",
      "gloss": "in-that",
-     "grounds": "as given",
-     "morph": "m.loc.sg"
+     "grounds": "refers to the experiential state or locus",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "as given",
+     "grounds": "specifies time as what is transcended",
      "morph": "m.gen.sg"
     },
     {
      "surface": "vañcanam",
      "gloss": "deception",
-     "grounds": "as given",
-     "morph": "n.acc.sg"
+     "grounds": "indicates overcoming or eluding time",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "What deception of time occurs in that?",
+   "question": "How are past and future time overcome within that state?",
    "premises": [
-    "Past and future are named.",
-    "Time's deception occurs in that."
+    "Past and future are both included",
+    "The locus is indicated as that state",
+    "Time is described as being deceived or eluded"
    ],
-   "inference": "In that, there is deception of past and future time.",
+   "inference": "In that state, past and future are encompassed through the eluding of time",
    "uncertainties": [
-    "Exact temporal mechanism is implicit."
+    "The term 'vañcanam' may mean deception, elusion, or transcendence of time"
    ],
-   "plain_english": "In that, there is deception of past and future time."
+   "plain_english": "In that, there is the eluding of time, encompassing both past and future."
   },
   {
    "verse": 547,
    "rows": [
     {
      "surface": "adhor+ddhve",
-     "gloss": "below-above",
-     "grounds": "fused form retained",
-     "morph": "n.loc.sg"
+     "gloss": "below-and-above",
+     "grounds": "compound: adhas+ūrdhva; indicates vertical range",
+     "morph": "compound=n.loc.sg"
     },
     {
      "surface": "ramate",
      "gloss": "sports",
-     "grounds": "as given",
-     "morph": "3.sg.act-pres"
+     "grounds": "describes free movement or delight",
+     "morph": "3.sg.middle.present-√ram"
     },
     {
      "surface": "haṃso",
      "gloss": "swan",
-     "grounds": "as given",
+     "grounds": "symbolic term for the breath or soul",
      "morph": "m.nom.sg"
     },
     {
      "surface": "dvādaśā+nte",
      "gloss": "in-twelve-end",
-     "grounds": "fused form retained",
-     "morph": "m.loc.sg"
+     "grounds": "compound: dvādaśa+anta; locus twelve finger-widths above",
+     "morph": "compound=n.loc.sg"
     },
     {
      "surface": "layaṃ",
      "gloss": "dissolution",
-     "grounds": "as given",
+     "grounds": "state of absorption",
      "morph": "m.acc.sg"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates recurrence",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "Where does the swan sport and dissolve again?",
+   "question": "Where does the haṃsa move freely and where does it undergo dissolution?",
    "premises": [
-    "The swan sports below and above.",
-    "It dissolves in the twelve-end."
+    "The haṃsa sports below and above",
+    "The twelve-end is named as a locus",
+    "Dissolution occurs there again"
    ],
-   "inference": "The swan sports below and above and dissolves again in the twelve-end.",
+   "inference": "The haṃsa moves below and above and again dissolves at the twelve-end",
    "uncertainties": [
-    "Exact symbolic meaning is implicit."
+    "The term 'haṃsa' may refer to breath, soul, or a symbolic principle"
    ],
-   "plain_english": "The swan sports below and above and dissolves again in the twelve-end."
+   "plain_english": "The haṃsa sports below and above, and again dissolves at the end of the twelve."
   },
   {
    "verse": 548,
    "rows": [
     {
      "surface": "mṛṇāla+tantu+sadṛśaṃ",
-     "gloss": "lotus-stalk-fiber-like",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "gloss": "like-lotus-stalk-fiber",
+     "grounds": "compound: mṛṇāla+tantu+sadṛśa; simile for subtlety",
+     "morph": "compound=n.acc.sg"
     },
     {
      "surface": "bhāvā+bhāva+vivarjitam",
-     "gloss": "being-non-being-devoid",
-     "grounds": "fused form retained",
-     "morph": "n.acc.sg"
+     "gloss": "devoid-of-being-non-being",
+     "grounds": "compound: bhāva+abhāva+vivarjita; beyond existence and non-existence",
+     "morph": "compound=n.acc.sg"
     }
    ],
-   "question": "What is like a lotus-stalk fiber and devoid of being and non-being?",
+   "question": "What subtle reality is described as beyond both being and non-being?",
    "premises": [
-    "It is like lotus-stalk fiber.",
-    "It is devoid of being and non-being."
+    "A subtle form is likened to a lotus-stalk fiber",
+    "That reality is devoid of being and non-being"
    ],
-   "inference": "The described reality is like lotus-stalk fiber and devoid of being and non-being.",
-   "uncertainties": [
-    "Referent is implicit."
-   ],
-   "plain_english": "It is like a lotus-stalk fiber and devoid of being and non-being."
+   "inference": "The described reality is subtle like a lotus-stalk fiber and beyond being and non-being",
+   "uncertainties": [],
+   "plain_english": "It is like the fiber of a lotus stalk, devoid of being and non-being."
   },
   {
    "verse": 549,
@@ -1071,74 +1055,75 @@
     {
      "surface": "svayaṃ",
      "gloss": "by-itself",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates spontaneous movement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "connects clauses",
+     "morph": "(indecl.)"
     },
     {
      "surface": "calate",
      "gloss": "moves",
-     "grounds": "as given",
-     "morph": "3.sg.act-pres"
+     "grounds": "describes motion",
+     "morph": "3.sg.middle.present-√cal"
     },
     {
      "surface": "cor",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "token given as listed; functions as connector",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ddhvam",
      "gloss": "upward",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates upward direction",
+     "morph": "(indecl.)"
     },
     {
      "surface": "adhañ",
      "gloss": "downward",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates downward direction",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "connects directions",
+     "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "emphasizes the statement",
+     "morph": "(indecl.)"
     },
     {
      "surface": "svayam",
      "gloss": "by-itself",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "repeats spontaneity",
+     "morph": "(indecl.)"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "as given",
-     "morph": "indecl."
+     "grounds": "indicates repeated movement",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How does it move by itself upward and downward again?",
+   "question": "In what manner does this principle move upward and downward on its own?",
    "premises": [
-    "It moves by itself.",
-    "It moves upward and downward again."
+    "Movement occurs by itself",
+    "The directions are upward and downward",
+    "The motion is repeated"
    ],
-   "inference": "It moves by itself upward and downward again.",
+   "inference": "This principle moves spontaneously upward and downward again and again",
    "uncertainties": [
-    "Subject is implicit."
+    "The tokens 'cor' and 'ddhvam' appear irregular or fragmented in the source"
    ],
-   "plain_english": "It moves by itself upward and downward again."
+   "plain_english": "By itself it moves upward and downward, and again by itself."
   }
  ]
 }

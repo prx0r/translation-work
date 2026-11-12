@@ -1,14 +1,16 @@
 {
  "song": "kjn-p27",
  "verse": 653,
- "question": "How should the described form be ascertained?",
+ "question": "What attitude must a practitioner adopt to ascertain the described form?",
  "premises": [
-  "the form is described",
-  "one should ascertain it with attention"
+  "That form is being described.",
+  "Part of the description is missing in a lacuna.",
+  "The practitioner should ascertain it with attention."
  ],
- "inference": "The form must be carefully ascertained.",
+ "inference": "Despite the incomplete description, one must attentively ascertain that form.",
  "uncertainties": [
-  "lacuna obscures description"
+  "The lacuna obscures part of what is described.",
+  "The verb 'kathyante' appears plural while 'tat rūpaṃ' is singular."
  ],
- "plain_english": "That form is described; one should ascertain it with attention."
+ "plain_english": "That form is described ... [lacuna]; being attentive, one should ascertain it."
 }

@@ -1,13 +1,12 @@
 {
  "song": "kjn-p22",
  "verse": 529,
- "question": "What chapter number is being concluded here?",
+ "question": "Which chapter of the text concludes at this point?",
  "premises": [
-  "The chapter is sixteenth."
+  "An ordinal number is given",
+  "A textual division is named"
  ],
- "inference": "This is the sixteenth chapter.",
- "uncertainties": [
-  "No doctrinal claim beyond numbering."
- ],
+ "inference": "This marks the end of the sixteenth chapter",
+ "uncertainties": [],
  "plain_english": "This is the sixteenth chapter."
 }
