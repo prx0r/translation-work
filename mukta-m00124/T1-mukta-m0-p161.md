@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p161-v4001
-[six-parts](ṣaḍaṃśaiḥ) [lead](trapuṣam) [or](vā) [may-be](syāt) [with-one-and-half-parts](sārdhadvyaṃśena) [turning](vartanam)
+[six-part](ṣaḍaṃśaiḥ) [cucumber-shaped](trapuṣaṃ) [or](vā) [should-be](syāt) [with-one-and-half-two-parts](sārdhadvyaṃśena) [rounding](vartanam)
 
 ## mukta-m0-p161-v4002
-[moon-crescent-like](candrakhaṇḍanibhaṃ) [declared](proktaṃ) [from-breadth](vistārāt) [three-parts-turning](tryaṃśavartitam)
+[moon](candra) [piece](khaṇḍa) [resembling](nibhaṃ) [declared](proktaṃ) [from-width](vistārāt) [three-part](tryaṃśa) [rounded](vartitam)
 
 ## mukta-m0-p161-v4003
-[these](etāni) [of-all-marks](sarvaliṅgānāṃ) [eternal](sanātana) [heads](śirāṃsi) [indeed](hi)
+[these](etāni) [of-all](sarva) [liṅgas](liṅgānāṃ) [eternal](sanātana) [tops](śirāṃsi) [indeed](hi)
 
 ## mukta-m0-p161-v4004
-[inauspicious](aśubhe) [but](tu) [inauspicious](aśubhaṃ) [know](vidyāt) [for-that-purpose](tadartham) [above](upari) [place](nyaset)
+[in-inauspicious](aśubhe) [but](tu) [inauspicious](aśubhaṃ) [one-should-know](vidyāt) [for-that](tat) [purpose](artham) [above](upari) [one-should-place](nyaset)
 
 ## mukta-m0-p161-v4005
-[four-five-hand](catuṣpañcakare) [five](pañca) [six-seven](ṣaṭsaptasu) [and](ca) [seven](saptakam)
+[in-four](catuḥ) [five](pañca) [cubits](kare) [five](pañca) [in-six](ṣaṭ) [seven](saptasu) [and](ca) [seven](saptakam)
 
 ## mukta-m0-p161-v4006
-[head-turning-portion](śirovartanabhāge) [but](tu) [fourth](caturthe) [or](vā) [six-parts](ṣaḍaṃśake)
+[of-head](śiraḥ) [rounding](vartana) [portion](bhāge) [but](tu) [in-fourth](caturthe) [or](vā) [in-sixth-part](ṣaḍaṃśake)
 
 ## mukta-m0-p161-v4007
-[head-turning-portion's](śirovartanabhāgasya) [three-parts](tryaṃśaṃ) [worship-part](pūjāṃśaka) [above](upari)
+[of-head](śiraḥ) [rounding](vartana) [portion’s](bhāgasya) [third-part](tryaṃśaṃ) [above-worship](pūjā) [portion](aṃśaka) [above](upari)
 
 ## mukta-m0-p161-v4008
-[one-part](ekāṃśaṃ) [join](yojayet) [wise](dhīmān) [in-linga](liṅge) [two-parts](dvyaṃśaṃ) [but](tu) [middle](madhyame)
+[one-part](ekāṃśaṃ) [should-join](yojayet) [wise-one](dhīmān) [in-liṅga](liṅge) [two-parts](dvyaṃśaṃ) [but](tu) [in-middle](madhyame)
 
 ## mukta-m0-p161-v4009
-[only](kevalaṃ) [or](vā) [head-measure](śiromānam) [placing](adhiropya) [turn](vivartayet)
+[only](kevalaṃ) [or](vā) [head](śiraḥ) [measure](mānam) [having-raised](adhiropya) [one-should-round](vivartayet)
 
 ## mukta-m0-p161-v4010
-[two-circles](vṛttadvayaṃ) [but](tu) [that-measure](tanmānāt) [of-both](ubhayoḥ) [sides](pārśvayoḥ) [lead](nayet)
+[two-circles](vṛttadvayaṃ) [but](tu) [by-that](tat) [measure](mānāt) [on-both](ubhayoḥ) [sides](pārśvayoḥ) [one-should-draw](nayet)
 
 ## mukta-m0-p161-v4011
-[with-circles](maṇḍalaiḥ) [and](ca) [three](tribhiḥ) [two-fish](matsyadvayam) [here](atra) [arises](upajāyate)
+[with-circles](maṇḍalaiḥ) [and](ca) [with-three](tribhiḥ) [two-fishes](matsya) [pair](dvayam) [here](atra) [arises](upajāyate)
 
 ## mukta-m0-p161-v4012
-[there](tatra) [standing](sthitvā) [with-three](tribhiḥ) [or](vā) [asya](asya) [turning](vartanīyaṃ) [head-auspicious](śiraḥśubham)
+[there](tatra) [having-stood](sthitvā) [with-three](tribhiḥ) [or](vā) [its](asya) [should-be-rounded](vartanīyaṃ) [head](śiraḥ) [auspicious](śubham)
 
 ## mukta-m0-p161-v4013
-[umbrella-shaped](chatrākāraṃ) [but](tu) [of-brahmins](viprāṇāṃ) [egg-like](kukkuṭāṇḍanibhaṃ) [for-king](nṛpe)
+[umbrella](chatra) [shaped](ākāraṃ) [but](tu) [for-brahmins](viprāṇāṃ) [hen’s](kukkuṭa) [egg](aṇḍa) [resembling](nibhaṃ) [for-king](nṛpe)
 
 ## mukta-m0-p161-v4014
-[another](aparaṃ) [moon](candram) [also](api) [other-linga-difference](anyaliṅgabhedena) [is-said](kathyate)
+[another](aparaṃ) [moon-shaped](candram) [also](api) [by-other](anya) [liṅga](liṅga) [distinction](bhedena) [is-described](kathyate)
 
 ## mukta-m0-p161-v4015
-[fourfold](caturvidhaṃ) [may-be](syāt) [umbrella-like](chatrābhaṃ) [there](tatra) [first](ādye) [same-linga](samaliṅgake)
+[fourfold](caturvidhaṃ) [should-be](syāt) [umbrella](chatra) [resembling](ābhaṃ) [there](tatra) [in-first](ādye) [in-equal](sama) [liṅga](liṅgake)
 
 ## mukta-m0-p161-v4016
-[mutual-mixture](anyo'nyasaṅkaraḥ) [but](tu) [of-these](eṣām) [inauspicious](aśubhāya) [appointed](prakalpitaḥ)
+[mutual](anyonya) [mixture](saṅkaraḥ) [but](tu) [of-these](eṣām) [for-inauspiciousness](aśubhāya) [is-prescribed](prakalpitaḥ)
 
 ## mukta-m0-p161-v4017
-[but](kintu) [their](teṣāṃ) [division](vibhāgaṃ) [tu](tu) [by-well-known-saying](prasiddhoktyā) [perform](samācaret)
+[but](kintu) [of-them](teṣāṃ) [division](vibhāgaṃ) [indeed](tu) [by-well-known](prasiddha) [statement](uktyā) [one-should-perform](samācaret)
 
 ## mukta-m0-p161-v4018
-[all-auspicious-works](sarvamaṅgalakāryādau) [at-beginning](ādau) [should-be-done](kartavyaṃ) [auspicious-sprout](maṅgalāṅkuram)
+[in-all](sarva) [auspicious](maṅgala) [rite](kārya) [beginning](ādau) [to-be-done](kartavyaṃ) [auspicious](maṅgala) [sprouting](aṅkuram)
 
 ## mukta-m0-p161-v4019
-[nine-days](navāhe) [or](vā) [seven-days](saptāhe) [five-days](pañcāhe) [three-days](tridine) [or](vā) [also](api)
+[in-nine](nava) [days](ahe) [or](vā) [else](atha) [in-seven](sapta) [days](ahe) [in-five](pañca) [days](ahe) [in-three](tri) [days](dine) [even](api) [or](vā)
 
 ## mukta-m0-p161-v4020
-[from-evening-day](sāyādidinam) [beginning](ārabhya) [of-gods](devānām) [sprout-offering](aṅkurārpaṇam)
+[from-evening](sāya) [beginning](ādi) [day](dinam) [beginning](ārabhya) [of-gods](devānām) [sprout](aṅkura) [offering](arpaṇam)
 
 ## mukta-m0-p161-v4021
-[of-seeds](bījānām) [lord](adhipaḥ) [moon](somaḥ) [therefore](tasmāt) [at-night](rātrau) [tu](tu) [sow](nirvapet)
+[of-seeds](bījānām) [lord](adhipaḥ) [Soma](somo) [therefore](tasmāt) [at-night](rātrau) [indeed](tu) [one-should-sow](nirvapet)
 
 ## mukta-m0-p161-v4022
-[of-house](sadanasya) [front](agrage) [place](deśe) [left](vāme) [or](vā) [front-right](agradakṣiṇe)
+[of-building](sadanasya) [in-front](agrage) [place](deśe) [on-left](vāme) [or](vā) [also](api) [in-front](agra) [south](dakṣiṇe)
 
 ## mukta-m0-p161-v4023
-[pavilion](maṇḍapaṃ) [there](tatra) [should-be-made](kartavyaṃ) [previously-decided](pūrvasaṅkalpite) [or](athavā)
+[pavilion](maṇḍapaṃ) [there](tatra) [to-be-made](kartavyaṃ) [in-previously](pūrva) [designated](saṅkalpite) [or](atha) [else](vā)
 
 ## mukta-m0-p161-v4024
-[with-canopy-banner](vitānadhvajasaṃyuktadvāratoraṇasaṃyute) [gate-arch](dvāratoraṇasaṃyute)
+[with-canopy](vitāna) [banner](dhvaja) [joined](saṃyukta) [door](dvāra) [arch](toraṇa) [joined](saṃyute)
 
 ## mukta-m0-p161-v4025
-[purification-day](puṇyāhaprokṣaṇaṃ) [do](kuryāt) [or](athavā) [with-cloth](streṇa) [purify](śodhayet)
+[holy-water](puṇyāha) [sprinkling](prokṣaṇaṃ) [one-should-do](kuryāt) [or](atha) [else](vā) [with-weapon-mantra](astreṇa) [one-should-purify](śodhayet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[kūṭa-koṣṭhaka-nīḍānām](kūṭakoṣṭhakanīḍānāṃ) [vistāraḥ](vistāro) [bhāgaḥ](bhāga) [iṣyate](iṣyate)
+[cornered-chamber](kūṭa-koṣṭhaka) [nest](nīḍānāṃ) [expansion](vistāro) [part](bhāgaḥ) [is-considered](iṣyate)
 
 ## mukta-m0-p153-v3802
-[śikhare](śikhare) [tu](tu) [mahā-nāsyaḥ](mahānāsyaś) [catasraḥ](catasraḥ) [parikīrtitāḥ](parikīrtitāḥ)
+[on-the-peak](śikhare) [but](tu) [great-nosed](mahā-nāsyaḥ) [four](catasraḥ) [are-declared](parikīrtitāḥ)
 
 ## mukta-m0-p153-v3803
-[svastikam](svastikaṃ) [tat-bhaumam](tattribhaumaṃ) [syāt](syāc) [śiva-prīti-karam](śivaprītikaraṃ) [bhavet](bhavet)
+[svastika](svastikaṃ) [that](tat) [three-storied](tri-bhaumaṃ) [should-be](syāt) [auspiciousness-giving](śiva-prīti-karaṃ) [becomes](bhavet)
 
 ## mukta-m0-p153-v3804
-[śālāyām](śālāyām) [api](astathā) [dvi-aṃśaḥ](dvyaṃśo) [hāram](hāraṃ) [bhāgena](bhāgena) [kalpayet](kalpayet)
+[in-the-hall](śālāyām) [and-thus](atha) [two-parts](dvyaṃśo) [garland](hāraṃ) [by-a-part](bhāgena) [should-arrange](kalpayet)
 
 ## mukta-m0-p153-v3805
-[aṣṭa-nīḍāni](aṣṭanīḍāni) [nāḍyaḥ](nāḍyaḥ) [syuḥ](syurnīḍaṃ) [nīḍam](nīḍaṃ) [śobhā-vaśena](śobhāvaśena) [tu](tu)
+[eight-nests](aṣṭa-nīḍāni) [tubes](nāḍyaḥ) [should-be](syuḥ) [nest](nīḍaṃ) [by-beauty-power](śobhā-vaśena) [indeed](tu)
 
 ## mukta-m0-p153-v3806
-[vimala-ākṛtikam](vimalākṛtikaṃ) [nāmnā](nāmnā) [sarva-alaṅkāra-saṃyutam](sarvālaṅkārasaṃyutam)
+[spotlessly-formed](vimalā-kṛtikaṃ) [by-name](nāmnā) [all-ornaments](sarva-alaṅkāra) [endowed-with](saṃyutam)
 
 ## mukta-m0-p153-v3807
-[vistāre](vistāre) [vasu-bhāgāḥ](vasubhāgāḥ) [syuḥ](syurāyāme) [āyāme](āyāme) [dvādaśa-aṃśakaḥ](dvādaśāṃśakaḥ)
+[in-expansion](vistāre) [eight-parts](vasu-bhāgāḥ) [should-be](syuḥ) [in-length](āyāme) [twelve-parts](dvādaśa-aṃśakaḥ)
 
 ## mukta-m0-p153-v3808
-[masūraka-acchi-antaṃ](masūrakācchiro'ntaṃ) [tu](tu) [dvi-aśram](dvyaśraṃ) [vṛttam](vṛttaṃ) [tu](tu) [kārayet](kārayet)
+[masūra-shaped](masūraka) [up-to-head-end](ācchiraḥ-antaṃ) [twice-angular](dvyaśraṃ) [circular](vṛttaṃ) [indeed](tu) [should-make](kārayet)
 
 ## mukta-m0-p153-v3809
-[tat-adhaḥ](tadadhaś) [caturaśram](caturaśraṃ) [syāt](syānmūlato) [mūlataḥ](mūlato) [dvi-aśra-vṛttake](dvyaśravṛttake)
+[below-that](tad-adhaḥ) [quadrangular](caturaśraṃ) [should-be](syāt) [from-base](mūlataḥ) [twice-angular-circular](dvyaśra-vṛttake)
 
 ## mukta-m0-p153-v3810
-[kūṭa-koṣṭhaka-nīḍa-aṃśa-vistāraḥ](kūṭakoṣṭhakanīḍāṃśavistāro) [bhāgaḥ](bhāga) [iṣyate](iṣyate)
+[cornered-chamber](kūṭa-koṣṭhaka) [nest](nīḍa) [part](aṃśa) [expansion](vistāro) [part](bhāgaḥ) [is-considered](iṣyate)
 
 ## mukta-m0-p153-v3811
-[ṣaḍ-bhāgāḥ](ṣaḍbhāgāḥ) [syuḥ](syustadūrdhve) [tat-ūrdhve](tadūrdhve) [tu](tu) [pṛṣṭhataḥ](pṛṣṭhatastasya) [tasya](tasya) [pārśvayoḥ](pārśvayoḥ)
+[six-parts](ṣaḍ-bhāgāḥ) [should-be](syuḥ) [above-that](tad-ūrdhve) [indeed](tu) [at-back](pṛṣṭhataḥ) [of-it](tasya) [on-sides](pārśvayoḥ)
 
 ## mukta-m0-p153-v3812
-[ūrdhva-bhaumam](ūrdhvabhaumaṃ) [catur-bhāgam](caturbhāgaṃ) [yathā-yukti-vaśāt](yathāyuktivaśānnayet) [nayet](nayet)
+[upper-storey](ūrdhva-bhaumaṃ) [four-parts](catur-bhāgaṃ) [according-to-suitability](yathā-yukti-vaśāt) [should-direct](nayet)
 
 ## mukta-m0-p153-v3813
-[garbha-kūṭa-upasaṃyuktam](garbhakūṭopasaṃyuktaṃ) [kṣudra-nāsī-vibhūṣitam](kṣudranāsīvibhūṣitam)
+[with-garbhakūṭa](garbha-kūṭa) [joined](upasaṃyuktaṃ) [with-small-noses](kṣudra-nāsī) [adorned](vibhūṣitam)
 
 ## mukta-m0-p153-v3814
-[śikhare](śikhare) [dabhra-nāsyaḥ](dabhranāsyaḥ) [syuḥ](syustisraḥ) [tisraḥ](tisraḥ) [pāda-samanvitāḥ](pādasamanvitāḥ)
+[on-the-peak](śikhare) [few-nosed](dabhra-nāsyaḥ) [should-be](syuḥ) [three](tisraḥ) [with-pedestals](pāda-samanvitāḥ)
 
 ## mukta-m0-p153-v3815
-[harāyām](harāyāṃ) [kṣudra-nīḍam](kṣudranīḍaṃ) [syāt](syādarkadviguṇasaṃkhyayā) [arka-dvi-guṇa-saṃkhyayā](arkadviguṇasaṃkhyayā)
+[in-the-harā](harāyāṃ) [small-nest](kṣudra-nīḍaṃ) [should-be](syāt) [twice-the-number-of-arkas](arka-dvi-guṇa-saṃkhyayā)
 
 ## mukta-m0-p153-v3816
-[vistārāḥ](vistārāstvaṣṭabhāgāḥ) [tu](tu) [aṣṭa-bhāgāḥ](aṣṭabhāgāḥ) [syuḥ](syurāyāmo) [āyāmaḥ](āyāmo) [daśa-bhāgikaḥ](daśabhāgikaḥ)
+[in-expansions](vistārāḥ) [eight-parts](aṣṭa-bhāgāḥ) [should-be](syuḥ) [length](āyāmaḥ) [ten-parts](daśa-bhāgikaḥ)
 
 ## mukta-m0-p153-v3817
-[hāra-bhāgam](hārabhāgaṃ) [tu](tu) [bhāgena](bhāgena) [ṣaḍ-aṃśam](ṣaḍaṃśañcordhvabhūmike) [ca](ca) [ūrdhva-bhūmike](ūrdhvabhūmike)
+[garland-part](hāra-bhāgaṃ) [indeed](tu) [by-a-part](bhāgena) [six-parts](ṣaḍ-aṃśam) [and](ca) [on-upper-storey](ūrdhva-bhūmike)
 
 ## mukta-m0-p153-v3818
-[sāyatam](sāyataṃ) [dvi-aśra-vṛttam](dvyaśravṛttaṃ) [syāt](syādvedikāgalamastakam) [vedikā-gala-mastakam](vedikāgalamastakam)
+[with-curve](sāyatam) [twice-angular-circular](dvyaśra-vṛttaṃ) [should-be](syāt) [vedikā](vedikā) [throat](gala) [top](mastakam)
 
 ## mukta-m0-p153-v3819
-[etat](etaddhastyādikaṃ) [hasti-ādikam](hastyādikaṃ) [saudham](saudhaṃ) [gaja-pṛṣṭham](gajapṛṣṭhaṃ) [purātanam](purātanam)
+[this](etat) [beginning-with-hasta](hasti-ādikaṃ) [mansion](saudhaṃ) [elephant-back](gaja-pṛṣṭhaṃ) [ancient](purātanam)
 
 ## mukta-m0-p153-v3820
-[bhāgataḥ](bhāgato) [gṛha-piṇḍī](gṛhapiṇḍī) [syāt](syātkandharaṃ) [kandharam](kandharaṃ) [vāṃśataḥ](vāṃśato) [bhavet](bhavet)
+[by-parts](bhāgataḥ) [house-piṇḍī](gṛha-piṇḍī) [should-be](syāt) [neck](kandharaṃ) [by-parts](vā-aṃśataḥ) [becomes](bhavet)
 
 ## mukta-m0-p153-v3821
-[tri-bhāgaḥ](tribhāgaḥ) [koṣṭhaka-āyāmaḥ](koṣṭhakāyāmaḥ) [sārdhataḥ](sārdhato) [nīḍa-vistaraḥ](nīḍavistaraḥ)
+[three-parts](tri-bhāgaḥ) [chamber-length](koṣṭha-āyāmaḥ) [with-half](sārdhataḥ) [nest-expansion](nīḍa-vistaraḥ)
 
 ## mukta-m0-p153-v3822
-[ūrdhva-kṣme](ūrdhvakṣme'pi) [api](api) [ṣaḍ-aṃśa-aṃśam](ṣaḍaṃśāṃśaṃ) [kūṭam](kūṭaṃ) [tat-dvi-guṇa-āyatam](taddviguṇāyatam)
+[on-upper-storey](ūrdhva-kṣme) [also](api) [six-part-fraction](ṣaḍ-aṃśa-aṃśaṃ) [kūṭa](kūṭaṃ) [twice-that](tat-dvi-guṇa-āyatam)
 
 ## mukta-m0-p153-v3823
-[ūrdhva-bhūmau](ūrdhvabhūmau) [tri-bhāgena](tribhāgena) [madhye](madhye) [daṇḍena](daṇḍena) [nirgataḥ](nirgataḥ)
+[on-upper-storey](ūrdhva-bhūmau) [by-three-parts](tri-bhāgena) [in-middle](madhye) [by-daṇḍa](daṇḍena) [projecting](nirgataḥ)
 
 ## mukta-m0-p153-v3824
-[aṣṭāśraḥ](aṣṭāśra) [ūrdhva-bhūmau](ūrdhvabhūmau) [tu](tu) [sauṣṭhikānām](sauṣṭhikānāṃ) [tu](tu) [mastakam](mastakam)
+[eight-angled](aṣṭa-aśraḥ) [on-upper-storey](ūrdhva-bhūmau) [indeed](tu) [of-sauṣṭhika](sauṣṭhikānāṃ) [indeed](tu) [top](mastakam)
 
 ## mukta-m0-p153-v3825
-[aṣṭa-kūṭam](aṣṭakūṭaṃ) [tathā](tathā) [koṣṭham](koṣṭhaṃ) [nīḍakam](nīḍakaṃ) [ca](ca) [tathā](tathā) [bhavet](bhavet)
+[eight-kūṭas](aṣṭa-kūṭaṃ) [thus](tathā) [chamber](koṣṭhaṃ) [nest](nīḍakaṃ) [ca](ca) [thus](tathā) [becomes](bhavet)

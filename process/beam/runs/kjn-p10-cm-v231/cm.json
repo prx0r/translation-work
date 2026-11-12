@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound=guhya+first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object described"
+   "grounds": "subject described as cakraṃ"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "introduces manner"
+   "grounds": "introduces the manner of accomplishment"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subject of accomplishment"
+   "grounds": "predicate identifying the secret place"
   },
   {
    "lemma": "kṣipraṃ",
    "morph": "(indecl.)",
-   "grounds": "manner of accomplishment"
+   "grounds": "adverb modifying sidhyati"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.present-active √sidh",
-   "grounds": "main predicate"
+   "morph": "3.sg.act-pres/√sidh",
+   "grounds": "main verb describing attainment"
   },
   {
    "lemma": "bhairava",

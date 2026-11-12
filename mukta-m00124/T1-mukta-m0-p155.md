@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p155-v3851
-remaining-parts-by + spire-measure + palace-end + square
+[with-remaining+parts](śeṣabhāgaiḥ) [measuring-to-the-crest](śikhāmānaṃ) [up-to-the-building-top](harmyāntaṃ) [square](caturaśrakam)
+
 ## mukta-m0-p155-v3852
-on-spire + pain-noses + may-be + small-nosed + likewise + and
+[on-the-crest](śikhare) [veda+nāsās](vedanāsāḥ) [should-be](syuḥ) [small+nāsās](alpanāsyaḥ) [likewise](tathaiva) [and](ca)
+
 ## mukta-m0-p155-v3853
-that-only + pinnacle-chamber-etc + in-middle-in-middle + twice-born-best
+[that+same](tadeva) [kūṭa+koṣṭha+etc.](kūṭakoṣṭhādi) [in-the-middle+in-the-middle](madhyemadhye) [o-best+twice-born](dvijottamāḥ)
+
 ## mukta-m0-p155-v3854
-width-half-measure-by + womb-house-endowed
+[with-half-width+measure](vistārārdhapramāṇena) [with-sanctum](garbhagehasamanvitam)
+
 ## mukta-m0-p155-v3855
-various-masūraka-etc-limb + by-name + this + śrī-viśālaka
+[with-various+base-moulding+etc.+parts](nānāmasūrakādyaṅgaṃ) [by-name](nāmnā) [this](idaṃ) [śrīviśālaka](śrīviśālakam)
+
 ## mukta-m0-p155-v3856
-womb-house + by-three-parts + house-mass + from-that-part
+[sanctum](garbhagehaṃ) [with-three+parts](tribhirbhāgaiḥ) [wall-mass](gṛhapiṇḍaḥ) [of-that+part](tadaṃśataḥ)
+
 ## mukta-m0-p155-v3857
-pinnacle-chamber-nest-of + by-part-one + width
+[of-kūṭa+koṣṭha+nīḍa](kūṭakoṣṭhakanīḍānāṃ) [with-one+part](bhāgenaikena) [width](vistaraḥ)
+
 ## mukta-m0-p155-v3858
-hall-middle + great-nose + part-middle-exit
+[in-the-middle+of-śālā](śālāmadhye) [great+nāsī](mahānāsī) [projecting-from-middle+of-part](bhāgamadhyavinirgamaḥ)
+
 ## mukta-m0-p155-v3859
-above-that + eight-part + but + part-attic-of + width
+[above+that](tadūrdhve) [in-eight+parts](vasubhāge) [indeed](tu) [of-one-part](bhāgam) [of-platform](aṭṭasya) [width](vistaram)
+
 ## mukta-m0-p155-v3860
-length-but + by-two-parts + in-its-middle + nest-part-from
+[length](āyāmastu) [with-two+parts](dvibhāgena) [in-its-middle](tanmadhye) [nīḍa](nīḍam) [by-part](aṃśataḥ)
+
 ## mukta-m0-p155-v3861
-width-twice-measure-length + in-its-middle + by-half + cage
+[twice-the-width+length](vistāradviguṇāyāmaḥ) [in-its-middle](tanmadhye) [by-half](ardhena) [pañjara](pañjaram)
+
 ## mukta-m0-p155-v3862
-eight-cornered + corner-pinnacle + may-be + chamber + karkari-made
+[octagonal](aṣṭāśraṃ) [corner+kūṭa](karṇakūṭaṃ) [should-be](syāt) [koṣṭha](koṣṭhakaṃ) [made-with-karkarī](karkarīkṛtam)
+
 ## mukta-m0-p155-v3863
-pinnacle-chamber-nest-of + number + as-before + stated
+[of-kūṭa+koṣṭha+nīḍa](kūṭakoṣṭhakanīḍānāṃ) [number](saṃkhyā) [as-before+stated](pūrvavadīritā)
+
 ## mukta-m0-p155-v3864
-auspicious-chamber + this + by-name + veda-ground + of-gods
+[bhadrakoṣṭha](bhadrakoṣṭham) [this](idaṃ) [by-name](nāmnā) [vedabhauma](vedabhaumaṃ) [of-the-gods](divaukasām)
+
 ## mukta-m0-p155-v3865
-pipe-difference + four-part + by-part + darkness + should-lead
+[nāli+division](nālibhedaṃ) [into-four+parts](caturbhāgaṃ) [by-one-part](bhāgena) [andhārikā](andhārikāṃ) [one-should-make](nayet)
+
 ## mukta-m0-p155-v3866
-pinnacle-chamber-nest-and + by-part + should-arrange
+[kūṭa+koṣṭha+nīḍa](kūṭakoṣṭhakanīḍañca) [by-one-part](bhāgena) [one-should-arrange](parikalpayet)
+
 ## mukta-m0-p155-v3867
-water + abandoning + and-above + and + eight-parts + divided
+[water-course](jalaṃ) [having-excluded](vihāya) [and+above](cordhve) [and](ca) [with-eight+parts](vasubhāgaiḥ) [being-divided](vibhājite)
+
 ## mukta-m0-p155-v3868
-above-that + juice-part + but + part + excellent-width
+[above+that](tadūrdhve) [in-six+parts](rasabhāge) [indeed](tu) [one-part](bhāgaḥ) [of-sauṣṭhika](sauṣṭhikavistaraḥ)
+
 ## mukta-m0-p155-v3869
-above-that + but + three-part + but + from-middle-by-staff + exit
+[above+that](tadūrdhvaṃ) [in-three+parts](tribhāge) [indeed](tu) [from-the-middle](madhyāt) [by-a-daṇḍa](daṇḍena) [projection](nirgamaḥ)
+
 ## mukta-m0-p155-v3870
-sun-chamber + likewise + hall-cage-of + then-eight
+[ravikoṣṭha](ravikoṣṭhaṃ) [likewise](tathā) [of-śālā+pañjara](śālāpañjarāṇām) [then](atha) [eight](aṣṭakam)
+
 ## mukta-m0-p155-v3871
-throat-nose-eight-joined + chamber + somewhat-raised
+[with-neck+nāsā+eight+joined](galanāsāṣṭasaṃyuktaṃ) [koṣṭha](koṣṭhakaṃ) [somewhat+elevated](kiñcidunnatam)
+
 ## mukta-m0-p155-v3872
-with-base + pedestal + only + or + masūraka
+[with-upapīṭha+base](sopapīṭhamadhiṣṭhānaṃ) [only](kevalaṃ) [or](vā) [base-moulding](masūrakam)
+
 ## mukta-m0-p155-v3873
-as-before + high-part + may-be + by-this-name + water-bringing
+[as-before](pūrvavat) [height+part](tuṅgabhāgaṃ) [should-be](syāt) [this](etat) [by-name](nāmnā) [jalāvaha](jalāvaham)
+
 ## mukta-m0-p155-v3874
-womb-dwelling + four-part + by-part + house-mass
+[sanctum](garbhavāsaḥ) [four+parts](caturbhāgaḥ) [by-one-part](bhāgena) [wall-mass](gṛhapiṇḍikā)
+
 ## mukta-m0-p155-v3875
-pinnacle-chamber-nest-of + width + part + indeed + for
+[of-kūṭa+koṣṭha+nīḍa](kūṭakoṣṭhakanīḍānāṃ) [width](vistāraḥ) [one-part](bhāgaḥ) [indeed](eva) [verily](hi)
