@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[liṅga-ādi](liṅgādi) [sthāpita](sthāpitaṃ) [and](yacca) [forgive](tatkṣamasva) [upon-me](mamopari)
+[liṅga+etc](liṅgādi) [established](sthāpitaṃ) [establishing](sthāpakaṃ) [and+what](yacca) [that+forgive](tatkṣamasva) [upon+me](mamopari)
 
 ## mukta-m0-p90-v2227
-[our](asmākaṃ) [artisans](śilpināṃ) [also](cāpi) [well-pleased](suprīto) [be](bhava) [O-Bhava](he bhava)
+[of-us](asmākaṃ) [of-artisans](śilpināṃ) [and+also](cāpi) [very+pleased](suprīto) [be](bhava) [O](he) [Bhava](bhava) [yours](tava)
 
 ## mukta-m0-p90-v2228
-[that](taṃ) [sword](khaḍgaṃ) [bracelet](kaṅkaṇaṃ) [cow](dhenuṃ) [give](dadyāt) [with-accessories](sopaskarau) [bulls](vṛṣau)
+[that](taṃ) [sword](khaḍgaṃ) [bracelet](kaṅkaṇaṃ) [cow](dhenuṃ) [one-should-give](dadyāt) [with+implements](sopaskarau) [two-bulls](vṛṣau)
 
 ## mukta-m0-p90-v2229
-[one-hand](ekahastaṃ) [beginning](samārabhya) [up-to-eight-hands](aṣṭahastāvadhikramāt)
+[one+hand](ekahastaṃ) [beginning](samārabhya) [up-to+eight+hands](aṣṭahastāvadhikramāt)
 
 ## mukta-m0-p90-v2230
-[world-guardians](lokapālā) [weapons](āyudha) [endowed](upetaṃ) [maṇḍala](maṇḍalaṃ) [all-divine](sārvadaivikam)
+[with+weapons+of+world-guardians](lokapālāyudhopetaṃ) [circle](maṇḍalaṃ) [for+all+deities](sārvadaivikam)
 
 ## mukta-m0-p90-v2231
-[what](yad) [four-cornered](catuṣkoṇa) [conches](śaṅkhāḥ) [śrīvatsa-named](śrīvatsākhyaṃ) [of-Hari](herestu) [that](tat)
+[which](yat) [in+four+corners+going](catuṣkoṇagāḥ) [conches](śaṅkhāḥ) [named+śrīvatsa](śrīvatsākhyaṃ) [of-lines](herestu) [that](tat)
 
 ## mukta-m0-p90-v2232
-[then](atha) [other](anyat) [nine-durgā-etc](navadurgādi) [nine-navel](navanābhaṃ) [called](taducyate)
+[now](atha) [another](anyat) [nine+fortress+etc](navadurgādi) [nine+naveled](navanābhaṃ) [that](tat) [is-called](ucyate)
 
 ## mukta-m0-p90-v2233
 [thus](tathā)
 
 ## mukta-m0-p90-v2234
-[lotus-measure](padmamānaṃ) [door](dvāra) [one](ekena) [each-time](prativāraṇā)
+[lotus+measure](padmamānaṃ) [garland](mālaṃ) [should-be](bhavet) [door](dvāram) [by+one](ekena) [at+each+door](prativāraṇā)
 
 ## mukta-m0-p90-v2235
-[son-life-wealth-increase](putrāyurdhanavṛddhidam)
+[son+life+wealth+increase+giving](putrāyurdhanavṛddhidam) [increasing](vardhanam)
 
 ## mukta-m0-p90-v2236
-[red-ochre-sindūra](gairikeṅgudasindūrai) [red-desired](raktamiṣṭa) [or](vā)
+[with+red-chalk+with-iṅguda+with-vermilion](gairikeṅgudasindūrai) [red](raktam) [desired](iṣṭa) [with-wax](siktha) [or](kayāthavā)
 
 ## mukta-m0-p90-v2237
-[cold](śitaiḥ)
+[with-white](śitaiḥ)
 
 ## mukta-m0-p90-v2238
-[white-two](sitābhyām) [black-portion](asitāṃśena) [unity](aikyaṃ) [smoky](dhūmra) [color](varṇakam)
+[by-two+white](sitābhyām) [by-part+of-black](asitāṃśena) [union](aikyaṃ) [should-be](syāt) [smoky+color](dhūmravarṇakam) [smoke](dhūma)
 
 ## mukta-m0-p90-v2239
-[not-less](na hīnā) [not-excess](nādhikā) [not-crooked](avakrā) [made](kāryā) [line](rekhā) [beautiful](suśobhanā)
+[not](na) [deficient](hīnā) [not](na) [excessive](adhikā) [not+crooked](avakrā) [to-be-made](kāryā) [line](rekhā) [very+beautiful](suśobhanā)
 
 ## mukta-m0-p90-v2240
-[crooked](vakrāyām) [loss-of-purpose](arthanāśaḥ) [syāt](syād) [scattered](vyasta) [color](varṇake) [enemy](ripuḥ)
+[in+crooked](vakrāyām) [destruction+of-wealth](arthanāśaḥ) [should-be](syāt) [in+disordered+place](vyastasthe) [in-color](varṇake) [enemy](ripuḥ)
 
 ## mukta-m0-p90-v2241
-[all-virtue-giving](aśeṣaguṇadaṃ) [therefore](tasmāt) [pillar](sthaṇḷiṃ) [sand-made](vālukāmayam)
+[all+quality+giving](aśeṣaguṇadaṃ) [therefore](tasmāt) [altar](sthaṇḷiṃ) [made+of-sand](vālukāmayam)
 
 ## mukta-m0-p90-v2242
-[their](tayoḥ) [places](sthānāni) [holy](puṇyāni) [I-tell](kathayāmi) [on-earth](mahītale)
+[of-those-two](tayoḥ) [places](sthānāni) [sacred](puṇyāni) [I-tell](kathayāmi) [on+earth](mahītale)
 
 ## mukta-m0-p90-v2243
-[confluence](sandohe) [river-bank](nimnagākūle) [siddha-places](siddhakṣetreṣu) [everywhere](sarvataḥ)
+[in-confluence](sandohe) [on+bank+of-river](nimnagākūle) [in+sacred+fields](siddhakṣetreṣu) [in-sacred-places](sthāneṣu) [everywhere](sarvataḥ)
 
 ## mukta-m0-p90-v2244
-[Mālyavān-Śṛṅgī-Nīla](mālyavāñśṛṅginīlau) [and](ca) [Ṛkṣa](ṛkṣaś) [these](ceme) [mountain-lords](adrināyakāḥ)
+[Mālyavān](mālyavān) [Śṛṅgin](śṛṅgin) [Nīla](nīlau) [and](ca) [Ṛkṣa](ṛkṣaḥ) [and](ca) [these](ime) [mountain+lords](adrināyakāḥ)
 
 ## mukta-m0-p90-v2245
-[Śrīśaila](śrīśailaś) [and](caiva) [Vindhya](vindhyaś) [and](ca) [Mahendra](mahendraś) [and](ca) [family-mountains](kulācalāḥ)
+[Śrīśaila](śrīśailaḥ) [and+indeed](ca+eva) [Vindhya](vindhyaḥ) [and](ca) [Mahendra](mahendraḥ) [and](ca) [family+mountains](kulācalāḥ)
 
 ## mukta-m0-p90-v2246
-[Viraja](virajaś) [and](ca) [Iruḍa](iruḍaḥ) [Puṇḍra](puṇḍra) [and](ca) [these](amūni) [sub-fields](upakṣetrāṇy) [ca](ca)
+[Viraja](virajaḥ) [and](ca) [Eruḍa](airuḍaḥ) [Ruta](rutaḥ) [Puṇḍra](puṇḍra) [and](ca) [secondary+fields](upakṣetrāṇi) [these](amūni) [and](ca)
 
 ## mukta-m0-p90-v2247
-[Māyāpurī](māyāpury) [and](atha) [Jālākhyam](jālākhyam) [these](ete) [confluence-named](sandohasaṃjñakāḥ)
+[Māyāpurī](māyāpurī) [then](atha) [named+Jāla](jālākhyam) [these](ete) [named+sandoha](sandohasaṃjñakāḥ)
 
 ## mukta-m0-p90-v2248
-[five-rivers](pañcanady) [and](atha) [Sindhu](sindhuś) [and](ca) [Sarasvatī](sarasvatī) [eight-rivers](aṣṭanimnagā)
+[Pañcanada](pañcanada) [then](atha) [Sindhu](sindhuḥ) [and](ca) [Sarasvatī](sarasvatī) [eight+river](aṣṭanimnagā)
 
 ## mukta-m0-p90-v2249
-[Antarvedī](antarvedī) [Pratiṣṭhāna](pratiṣṭhānaṃ) [Yājñika](yājñiko) [region](deśa) [desired](iṣyate)
+[Antarvedī](antarvedī) [Pratiṣṭhāna](pratiṣṭhānaṃ) [sacrificial](yājñiko) [country](deśaḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p90-v2250
-[Karavīra](karavīro) [Mahākāla](mahākālaḥ) [Saugandhyupavana](saugandhyupavanaṃ) [forest](vanam)
+[Karavīra](karavīro) [Mahākāla](mahākālaḥ) [fragrant+grove](saugandhyupavanaṃ) [shelter](paraṇaṃ) [forest](vanam)

@@ -8,12 +8,12 @@
      "surface": "pūjayitvā",
      "gloss": "having-worshipped",
      "grounds": "absolutive of pūj",
-     "morph": "gerund pūj"
+     "morph": "gerund (pūj)"
     },
     {
      "surface": "imaṃ",
      "gloss": "this",
-     "grounds": "demonstrative pronoun",
+     "grounds": "demonstrative pointing to the circle",
      "morph": "m.acc.sg"
     },
     {
@@ -37,19 +37,19 @@
     {
      "surface": "prayuñjati",
      "gloss": "one-applies",
-     "grounds": "present action of practitioner",
-     "morph": "3.sg.pres.act pra-yuj"
+     "grounds": "present action of the practitioner",
+     "morph": "3.sg.active-present (pra-yuj)"
     }
    ],
-   "question": "What practice must accompany worship of this circle to produce its effect?",
+   "question": "What practice must accompany worship of this circle to produce its effects?",
    "premises": [
-    "The circle is worshipped first",
-    "Meditation is applied continuously",
-    "Duration of meditation matters"
+    "The circle is first worshipped.",
+    "Meditation is applied continuously.",
+    "The duration of meditation is emphasized."
    ],
-   "inference": "Worship of the circle must be sustained by ongoing meditation.",
+   "inference": "Sustained meditation following worship of the circle activates its power.",
    "uncertainties": [],
-   "plain_english": "Having worshipped this circle, one applies meditation for as long as one continues."
+   "plain_english": "Having worshipped this circle, one applies meditation for as long as one continues the practice."
   },
   {
    "verse": 202,
@@ -57,51 +57,49 @@
     {
      "surface": "bhāṣās",
      "gloss": "languages",
-     "grounds": "subject of hearing",
+     "grounds": "subject of perception",
      "morph": "f.nom.pl"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "vividhākārā",
      "gloss": "of-various-forms",
-     "grounds": "describes languages",
-     "morph": "f.nom.pl"
+     "grounds": "describes the languages",
+     "morph": "f.nom.pl (compound: vividha+ākāra)"
     },
     {
      "surface": "aśrutāni",
      "gloss": "unheard",
-     "grounds": "languages not previously heard",
+     "grounds": "languages never heard before",
      "morph": "n.nom.pl"
     },
     {
      "surface": "śrutāni",
      "gloss": "heard",
-     "grounds": "languages previously heard",
+     "grounds": "languages heard before",
      "morph": "n.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connects alternatives",
+     "grounds": "connects unheard and heard",
      "morph": "(indecl.)"
     }
    ],
    "question": "What kinds of languages become perceptible through this meditative practice?",
    "premises": [
-    "Languages of various forms arise",
-    "Some were previously unheard",
-    "Some were previously heard"
+    "Various forms of language arise.",
+    "These include languages previously unheard.",
+    "These include languages previously heard."
    ],
-   "inference": "The practice gives access to diverse languages, both familiar and unfamiliar.",
-   "uncertainties": [
-    "Agreement between bhāṣās and neuter adjectives may reflect loose usage"
-   ],
-   "plain_english": "Indeed, languages of various forms, both unheard and heard, arise."
+   "inference": "The practice grants access to diverse languages, both familiar and unfamiliar.",
+   "uncertainties": [],
+   "plain_english": "Indeed, various forms of language, both unheard and heard, become manifest."
   },
   {
    "verse": 203,
@@ -109,32 +107,32 @@
     {
      "surface": "svayam",
      "gloss": "by-oneself",
-     "grounds": "emphasizes self-origin",
+     "grounds": "spontaneous occurrence",
      "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "restrictive emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "ātmanā",
-     "gloss": "by-self",
-     "grounds": "agent or instrument",
+     "gloss": "by-oneself",
+     "grounds": "agent or instrument of hearing",
      "morph": "m.inst.sg"
     },
     {
      "surface": "ātmane",
-     "gloss": "to-self",
-     "grounds": "recipient",
+     "gloss": "to-oneself",
+     "grounds": "recipient of hearing",
      "morph": "m.dat.sg"
     },
     {
      "surface": "śrūyate",
      "gloss": "is-heard",
-     "grounds": "passive experience of sound",
-     "morph": "3.sg.pres.pass śru"
+     "grounds": "passive perception",
+     "morph": "3.sg.passive-present (śru)"
     },
     {
      "surface": "ca",
@@ -144,41 +142,43 @@
     },
     {
      "surface": "ātmani",
-     "gloss": "in-self",
+     "gloss": "in-oneself",
      "grounds": "locus of hearing",
      "morph": "m.loc.sg"
     },
     {
      "surface": "ātmanā",
-     "gloss": "by-self",
-     "grounds": "agent or instrument repeated",
+     "gloss": "by-oneself",
+     "grounds": "agent or instrument reiterated",
      "morph": "m.inst.sg"
     }
    ],
-   "question": "How are these languages experienced within the practitioner's own consciousness?",
+   "question": "How and where are these languages experienced by the practitioner?",
    "premises": [
-    "Hearing occurs by oneself",
-    "Hearing is directed to oneself",
-    "Hearing occurs within oneself"
+    "The hearing occurs spontaneously.",
+    "The self is the agent, recipient, and locus.",
+    "No external source is required."
    ],
-   "inference": "The languages are heard inwardly, as a self-generated experience within consciousness.",
-   "uncertainties": [],
-   "plain_english": "By oneself alone, through oneself, to oneself, and within oneself, they are heard."
+   "inference": "The languages are heard inwardly by the self, within the self, and for the self.",
+   "uncertainties": [
+    "The precise syntactic roles of the repeated forms of ātman are contextually fluid."
+   ],
+   "plain_english": "Indeed, they are heard spontaneously by oneself, to oneself, and within oneself."
   },
   {
    "verse": 204,
    "rows": [
     {
      "surface": "balīpalitanirmuktaḥ",
-     "gloss": "freed-from-wrinkles-grey-hair",
-     "grounds": "describes transformed state",
-     "morph": "m.nom.sg compound balī+palita+nirmukta"
+     "gloss": "freed-from-wrinkles-and-grey-hair",
+     "grounds": "describes the transformed practitioner",
+     "morph": "m.nom.sg (compound: balī+palita+nirmukta)"
     },
     {
      "surface": "kāmadevaḥ",
      "gloss": "god-of-love",
-     "grounds": "comparison for beauty",
-     "morph": "m.nom.sg compound kāma+deva"
+     "grounds": "comparison for beauty and vitality",
+     "morph": "m.nom.sg (compound: kāma+deva)"
     },
     {
      "surface": "dvitīyakaḥ",
@@ -187,13 +187,13 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What bodily transformation results from the described yogic attainment?",
+   "question": "What physical transformation results from the preceding meditative attainment?",
    "premises": [
-    "Wrinkles and grey hair are removed",
-    "The practitioner resembles Kāma",
-    "The resemblance is as a second Kāma"
+    "The practitioner becomes free of wrinkles and grey hair.",
+    "The practitioner is compared to the god of love.",
+    "The comparison implies a second Kāma."
    ],
-   "inference": "The practitioner attains a youthful, divinely attractive form like a second god of love.",
+   "inference": "The practice rejuvenates the practitioner, making him like a second god of love.",
    "uncertainties": [],
    "plain_english": "Freed from wrinkles and grey hair, he becomes like a second god of love."
   },
@@ -202,58 +202,58 @@
    "rows": [
     {
      "surface": "vāyvādeḥ",
-     "gloss": "of-wind-and-others",
-     "grounds": "source or force to be subdued",
-     "morph": "m.abl.sg compound vāyu+ādi"
+     "gloss": "of-wind-and-so-forth",
+     "grounds": "object or source to be destroyed",
+     "morph": "m.gen.sg (compound: vāyu+ādi)"
     },
     {
      "surface": "nāśayet",
      "gloss": "one-should-destroy",
      "grounds": "prescribed action",
-     "morph": "3.sg.opt.act naś"
+     "morph": "3.sg.active-optative (naś)"
     },
     {
      "surface": "vācā",
      "gloss": "by-speech",
-     "grounds": "instrument affected",
+     "grounds": "instrument of destruction or restraint",
      "morph": "f.inst.sg"
     },
     {
      "surface": "mūkavat",
      "gloss": "like-a-mute",
-     "grounds": "comparison for silence",
-     "morph": "(indecl.)"
+     "grounds": "manner of remaining",
+     "morph": "(indecl.) (compound: mūka+vat)"
     },
     {
      "surface": "tiṣṭhate",
      "gloss": "stands",
      "grounds": "resulting state",
-     "morph": "3.sg.pres.mid sthā"
+     "morph": "3.sg.middle-present (sthā)"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "subject affected",
+     "grounds": "subject experiencing the state",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What effect on speech can be produced by subduing the wind and related forces?",
+   "question": "What effect does the practice have on speech and related forces?",
    "premises": [
-    "The force of wind and others is destroyed",
-    "Speech is affected",
-    "The subject remains like a mute"
+    "Forces such as wind are to be destroyed by speech.",
+    "The practitioner remains like a mute.",
+    "This describes a resulting condition."
    ],
-   "inference": "By neutralizing the wind and related forces, one can render a person mute.",
+   "inference": "By mastering speech, the practitioner subdues forces like wind and abides in silence.",
    "uncertainties": [
-    "Exact referent of vāyvādeḥ in ritual context is unclear"
+    "The exact referent of vāyvādeḥ and the mechanism of nāśayet vācā are ambiguous."
    ],
-   "plain_english": "One should destroy the force of wind and so forth; then he stands mute in speech."
+   "plain_english": "One should destroy the force of wind and so forth by speech; indeed, he remains standing like a mute."
   },
   {
    "verse": 206,
@@ -267,37 +267,37 @@
     {
      "surface": "cakraṃ",
      "gloss": "circle",
-     "grounds": "object introduced",
+     "grounds": "object being described",
      "morph": "n.acc.sg"
     },
     {
      "surface": "deveśi",
-     "gloss": "o-goddess-lord",
+     "gloss": "o-goddess",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     },
     {
      "surface": "sainyastambhakaraṃ",
-     "gloss": "army-paralyzing-making",
-     "grounds": "describes power of circle",
-     "morph": "n.acc.sg compound sainya+stambha+kara"
+     "gloss": "causing-army-paralysis",
+     "grounds": "function of the seventh circle",
+     "morph": "n.acc.sg (compound: sainya+stambha+kara)"
     },
     {
      "surface": "param",
      "gloss": "supreme",
-     "grounds": "emphasizes excellence",
+     "grounds": "emphasizes its excellence",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What supreme power is attributed to the seventh circle addressed to the goddess?",
+   "question": "What is the primary power attributed to the seventh circle?",
    "premises": [
-    "The seventh circle is introduced",
-    "It is addressed to the goddess",
-    "It causes paralysis of armies"
+    "The seventh circle is addressed to the goddess.",
+    "It causes paralysis of armies.",
+    "It is described as supreme."
    ],
    "inference": "The seventh circle possesses the supreme power to paralyze armies.",
    "uncertainties": [],
-   "plain_english": "O goddess, the seventh circle is supreme and causes the paralysis of armies."
+   "plain_english": "O Goddess, the seventh circle is supreme and causes the paralysis of armies."
   },
   {
    "verse": 207,
@@ -305,7 +305,7 @@
     {
      "surface": "dūrāt",
      "gloss": "from-afar",
-     "grounds": "distance of perception",
+     "grounds": "indicates distance",
      "morph": "(indecl.)"
     },
     {
@@ -323,40 +323,40 @@
     {
      "surface": "tasmin",
      "gloss": "in-that",
-     "grounds": "refers to the circle",
+     "grounds": "refers to the seventh circle",
      "morph": "n.loc.sg"
     },
     {
      "surface": "pūjādhyānaratasya",
-     "gloss": "of-one-devoted-to-worship-meditation",
-     "grounds": "describes qualified practitioner",
-     "morph": "m.gen.sg compound pūjā+dhyāna+rata"
+     "gloss": "of-one-devoted-to-worship-and-meditation",
+     "grounds": "describes the qualified practitioner",
+     "morph": "m.gen.sg (compound: pūjā+dhyāna+rata)"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What perceptual ability arises for one devoted to worship and meditation on that circle?",
+   "question": "What perceptual ability arises for one devoted to the seventh circle?",
    "premises": [
-    "The practitioner is devoted to worship and meditation",
-    "The effect occurs in relation to that circle",
-    "Vision occurs from afar"
+    "The context is the seventh circle.",
+    "The practitioner is devoted to worship and meditation.",
+    "Vision occurs from afar."
    ],
-   "inference": "Devotion to worship and meditation on that circle grants distant vision.",
+   "inference": "Devotion to worship and meditation in the seventh circle grants distant vision.",
    "uncertainties": [],
-   "plain_english": "For one devoted to worship and meditation on that circle, there is indeed vision from afar."
+   "plain_english": "And for one devoted to worship and meditation in that circle, there is vision from afar."
   },
   {
    "verse": 208,
    "rows": [
     {
      "surface": "māraṇoccāṭanaṃ",
-     "gloss": "killing-uprooting",
-     "grounds": "magical operations named",
-     "morph": "n.nom.sg compound māraṇa+uccāṭana"
+     "gloss": "killing-and-uprooting",
+     "grounds": "magical effects",
+     "morph": "n.nom.sg (compound: māraṇa+uccāṭana)"
     },
     {
      "surface": "bhadre",
@@ -367,8 +367,8 @@
     {
      "surface": "stambhamohādikaṃ",
      "gloss": "paralyzing-deluding-and-so-forth",
-     "grounds": "additional operations",
-     "morph": "n.nom.sg compound stambha+moha+ādika"
+     "grounds": "additional magical effects",
+     "morph": "n.nom.sg (compound: stambha+moha+ādika)"
     },
     {
      "surface": "priye",
@@ -377,15 +377,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Which ritual powers become available through the practices being described?",
+   "question": "What further magical operations are enabled by this circle?",
    "premises": [
-    "Killing and uprooting are mentioned",
-    "Paralyzing and deluding are mentioned",
-    "Other similar powers are included"
+    "Killing and uprooting are mentioned.",
+    "Paralyzing, deluding, and similar acts are included.",
+    "These are addressed to the beloved goddess."
    ],
-   "inference": "The practices enable powers such as killing, uprooting, paralyzing, and deluding.",
+   "inference": "The circle enables operations such as killing, uprooting, paralyzing, and deluding.",
    "uncertainties": [],
-   "plain_english": "O fortunate one, O beloved, killing, uprooting, paralyzing, deluding, and such powers arise."
+   "plain_english": "O fortunate one, O beloved, killing, uprooting, paralyzing, deluding, and so forth are accomplished."
   },
   {
    "verse": 209,
@@ -393,31 +393,31 @@
     {
      "surface": "aṣṭāṣṭakavidhānaṃ",
      "gloss": "eight-times-eight-method",
-     "grounds": "required procedural knowledge",
-     "morph": "n.acc.sg compound aṣṭa+aṣṭaka+vidhāna"
+     "grounds": "specific ritual or doctrinal method",
+     "morph": "n.acc.sg (compound: aṣṭa+aṣṭaka+vidhāna)"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "condition for success",
-     "morph": "gerund jñā"
+     "grounds": "prerequisite understanding",
+     "morph": "gerund (jñā)"
     },
     {
      "surface": "sidhyati",
      "gloss": "one-succeeds",
-     "grounds": "result of knowing method",
-     "morph": "3.sg.pres.act sidh"
+     "grounds": "attainment of success",
+     "morph": "3.sg.active-present (sidh)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation of alternative",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
@@ -427,15 +427,15 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What condition is necessary for success in the eight-times-eight method?",
+   "question": "What condition is necessary for achieving success in these practices?",
    "premises": [
-    "The eight-times-eight method must be known",
-    "Success follows from that knowledge",
-    "Success does not occur otherwise"
+    "Success depends on knowing the eight-times-eight method.",
+    "Without this knowledge success does not occur.",
+    "No alternative path is affirmed."
    ],
-   "inference": "Success depends exclusively on knowing the eight-times-eight method.",
+   "inference": "Mastery of the eight-times-eight method is indispensable for success.",
    "uncertainties": [],
-   "plain_english": "Having known the eight-times-eight method, one succeeds; not otherwise."
+   "plain_english": "Indeed, having known the method of the eight groups of eight, one succeeds; not otherwise."
   },
   {
    "verse": 210,
@@ -443,32 +443,32 @@
     {
      "surface": "niḥsandigdhaṃ",
      "gloss": "without-doubt",
-     "grounds": "characterizes declaration",
+     "grounds": "certainty of the teaching",
      "morph": "n.acc.sg"
     },
     {
      "surface": "mayā",
      "gloss": "by-me",
-     "grounds": "speaker as agent",
+     "grounds": "speaker of the declaration",
      "morph": "1.inst.sg"
     },
     {
      "surface": "proktaṃ",
      "gloss": "declared",
-     "grounds": "statement made",
-     "morph": "n.nom.sg past-passive-participle pra-vac"
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg (past-passive-participle, pra-vac)"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "assertive particle",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhaktiyuktyā",
      "gloss": "with-devotion-and-reasoning",
      "grounds": "means of ascertainment",
-     "morph": "f.inst.sg compound bhakti+yukti"
+     "morph": "f.inst.sg (compound: bhakti+yukti)"
     },
     {
      "surface": "avadhāram",
@@ -477,69 +477,69 @@
      "morph": "n.acc.sg"
     }
    ],
-   "question": "How should the teaching be ascertained according to the speaker's declaration?",
+   "question": "How should the declared teaching be firmly understood by the practitioner?",
    "premises": [
-    "The teaching is declared without doubt",
-    "The speaker affirms it",
-    "Ascertainment requires devotion and reasoning"
+    "The teaching is declared without doubt.",
+    "It is spoken by the authoritative speaker.",
+    "Ascertainment requires devotion and reasoning."
    ],
-   "inference": "The teaching should be confidently ascertained through both devotion and reasoning.",
+   "inference": "The teaching must be ascertained with certainty through devotion and reasoning.",
    "uncertainties": [
-    "Grammatical relation of avadhāram to proktaṃ is slightly compressed"
+    "The syntactic relation of avadhāram to proktaṃ is slightly compressed."
    ],
-   "plain_english": "Indeed, I have declared this without doubt; it should be ascertained with devotion and reasoning."
+   "plain_english": "Indeed, this has been declared by me without doubt; it is to be ascertained with devotion and reasoning."
   },
   {
    "verse": 211,
    "rows": [
     {
      "surface": "candradvīpavinirgate",
-     "gloss": "in-candradvīpa-emerged",
-     "grounds": "locative title phrase",
-     "morph": "m.loc.sg compound candradvīpa+vinirgata"
+     "gloss": "emerged-in-candradvīpa",
+     "grounds": "locative title of the text section",
+     "morph": "m.loc.sg (compound: candradvīpa+vinirgata)"
     },
     {
      "surface": "aṣṭamaḥ",
      "gloss": "eighth",
-     "grounds": "ordinal number",
+     "grounds": "ordinal number of the chapter",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "textual division",
+     "grounds": "section marker",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter concludes in the section that emerged in Candradvīpa?",
+   "question": "Which chapter concludes at this point in the Candradvīpa text?",
    "premises": [
-    "The section is identified as emerged in Candradvīpa",
-    "The division is a chapter",
-    "Its ordinal position is eighth"
+    "The section is identified as emerged in Candradvīpa.",
+    "The chapter is numbered eighth.",
+    "This marks a textual division."
    ],
-   "inference": "This marks the conclusion of the eighth chapter in the Candradvīpa section.",
+   "inference": "This verse marks the end of the eighth chapter in the Candradvīpa.",
    "uncertainties": [],
-   "plain_english": "In the section that emerged in Candradvīpa, this is the eighth chapter."
+   "plain_english": "In the text emerged in Candradvīpa, this is the eighth chapter."
   },
   {
    "verse": 212,
    "rows": [
     {
      "surface": "yoginīpañktivinyāsaṃ",
-     "gloss": "yogini-row-arrangement",
+     "gloss": "arrangement-of-yoginī-rows",
      "grounds": "topic to be explained",
-     "morph": "m.acc.sg compound yoginī+paṅkti+vinyāsa"
+     "morph": "m.acc.sg (compound: yoginī+pañkti+vinyāsa)"
     },
     {
      "surface": "kathayāmi",
      "gloss": "I-shall-tell",
      "grounds": "speaker's promise",
-     "morph": "1.sg.pres.act kath"
+     "morph": "1.sg.active-present (kath)"
     },
     {
      "surface": "tava",
      "gloss": "to-you",
-     "grounds": "addressee",
+     "grounds": "recipient of the teaching",
      "morph": "2.gen.sg"
     },
     {
@@ -551,9 +551,9 @@
    ],
    "question": "What new topic does the speaker promise to explain to the beloved?",
    "premises": [
-    "The speaker addresses the beloved",
-    "The speaker promises to tell something",
-    "The topic is the arrangement of yoginī rows"
+    "The speaker addresses the beloved.",
+    "The speaker promises to tell something.",
+    "The topic is the arrangement of yoginī rows."
    ],
    "inference": "The speaker will now explain the arrangement of the rows of yoginīs.",
    "uncertainties": [],
@@ -564,28 +564,28 @@
    "rows": [
     {
      "surface": "sarvabhūcarīsarvagocarayoginīnāṃ",
-     "gloss": "of-all-earth-moving-and-all-sky-moving-yoginis",
-     "grounds": "collective group specified",
-     "morph": "f.gen.pl compound sarva+bhūcarī+sarva+gocara+yoginī"
+     "gloss": "of-all-earth-moving-and-all-sky-moving-yoginīs",
+     "grounds": "collective group of yoginīs",
+     "morph": "f.gen.pl (compound: sarva+bhūcarī+sarva+gocara+yoginī)"
     },
     {
      "surface": "sarvakṣetrakam",
      "gloss": "all-field-group",
-     "grounds": "total domain or grouping",
-     "morph": "n.acc.sg compound sarva+kṣetraka"
+     "grounds": "total domain or field",
+     "morph": "n.acc.sg (compound: sarva+kṣetraka)"
     }
    ],
-   "question": "Which groups of yoginīs are encompassed within the complete field being described?",
+   "question": "What comprehensive domain of yoginīs is introduced as the subject?",
    "premises": [
-    "All earth-moving yoginīs are included",
-    "All sky-moving yoginīs are included",
-    "They form a complete field-group"
+    "All earth-moving yoginīs are included.",
+    "All sky-moving yoginīs are included.",
+    "Their entire field-group is named."
    ],
-   "inference": "The complete field comprises all earth-moving and all sky-moving yoginīs.",
+   "inference": "The subject encompasses the complete field of all earth-moving and sky-moving yoginīs.",
    "uncertainties": [
-    "Exact technical sense of sarvakṣetrakam is context-dependent"
+    "The exact technical meaning of sarvakṣetrakam is context-dependent."
    ],
-   "plain_english": "This is the complete field of all earth-moving and all sky-moving yoginīs."
+   "plain_english": "The entire field of all earth-moving and all sky-moving yoginīs."
   },
   {
    "verse": 214,
@@ -593,33 +593,31 @@
     {
      "surface": "sarvasahajāḥ",
      "gloss": "all-innate",
-     "grounds": "first category of yoginīs",
-     "morph": "f.nom.pl compound sarva+sahaja"
+     "grounds": "category of yoginīs",
+     "morph": "f.nom.pl (compound: sarva+sahaja)"
     },
     {
      "surface": "sarvakulajā",
      "gloss": "all-family-born",
-     "grounds": "second category of yoginīs",
-     "morph": "f.nom.pl compound sarva+kulaja"
+     "grounds": "category of yoginīs",
+     "morph": "f.nom.pl (compound: sarva+kulaja)"
     },
     {
      "surface": "sarvadvārapālikāḥ",
      "gloss": "all-door-guardians",
-     "grounds": "third category of yoginīs",
-     "morph": "f.nom.pl compound sarva+dvārapālikā"
+     "grounds": "category of yoginīs",
+     "morph": "f.nom.pl (compound: sarva+dvārapālikā)"
     }
    ],
-   "question": "What categories of yoginīs are included in this comprehensive enumeration?",
+   "question": "Which categories of yoginīs are enumerated within this arrangement?",
    "premises": [
-    "All innate yoginīs are included",
-    "All family-born yoginīs are included",
-    "All door-guardian yoginīs are included"
+    "All innate yoginīs are included.",
+    "All family-born yoginīs are included.",
+    "All door-guardian yoginīs are included."
    ],
-   "inference": "The enumeration covers innate, family-born, and door-guardian yoginīs.",
-   "uncertainties": [
-    "sarvakulajā appears without plural marker but is read as plural in context"
-   ],
-   "plain_english": "All the innate ones, all the family-born ones, and all the door-guardians."
+   "inference": "The arrangement includes innate, family-born, and door-guardian yoginīs.",
+   "uncertainties": [],
+   "plain_english": "All the innate ones, all those born of the family, and all the door-guardians."
   },
   {
    "verse": 215,
@@ -639,37 +637,37 @@
     {
      "surface": "guhyaṃ",
      "gloss": "secret",
-     "grounds": "thing revealed",
+     "grounds": "the hidden teaching itself",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tava",
-     "gloss": "your",
-     "grounds": "possessor of devotion",
+     "gloss": "by-your",
+     "grounds": "reason for revelation",
      "morph": "2.gen.sg"
     },
     {
      "surface": "bhaktyā",
-     "gloss": "by-devotion",
-     "grounds": "reason for revelation",
+     "gloss": "devotion",
+     "grounds": "cause of disclosure",
      "morph": "f.inst.sg"
     },
     {
      "surface": "prakāśitam",
      "gloss": "revealed",
      "grounds": "act of disclosure",
-     "morph": "n.nom.sg past-passive-participle pra-kāś"
+     "morph": "n.nom.sg (past-passive-participle, pra-kāś)"
     }
    ],
-   "question": "Why has the supreme secret among secrets been revealed to the listener?",
+   "question": "Why has this supreme secret among secrets been revealed now?",
    "premises": [
-    "The teaching is the supreme secret among secrets",
-    "It has been revealed",
-    "The listener's devotion is the cause"
+    "The teaching is the supreme secret among secrets.",
+    "It has been revealed.",
+    "The revelation is due to the recipient's devotion."
    ],
-   "inference": "The supreme secret is revealed because of the listener's devotion.",
+   "inference": "Because of devotion, the supreme secret among secrets has been revealed.",
    "uncertainties": [],
-   "plain_english": "Because of your devotion, the supreme secret of secrets has been revealed."
+   "plain_english": "The supreme secret of secrets has been revealed because of your devotion."
   },
   {
    "verse": 216,
@@ -677,41 +675,41 @@
     {
      "surface": "sāmprataṃ",
      "gloss": "now",
-     "grounds": "marks transition",
+     "grounds": "present moment",
      "morph": "(indecl.)"
     },
     {
      "surface": "śrotum",
      "gloss": "to-hear",
      "grounds": "purpose of desire",
-     "morph": "infinitive śru"
+     "morph": "infinitive (śru)"
     },
     {
      "surface": "icchāmi",
      "gloss": "I-wish",
      "grounds": "speaker's desire",
-     "morph": "1.sg.pres.act iṣ"
+     "morph": "1.sg.active-present (iṣ)"
     },
     {
      "surface": "gurubhyaḥ",
      "gloss": "from-the-gurus",
-     "grounds": "source of teaching",
+     "grounds": "source of the teaching",
      "morph": "m.abl.pl"
     },
     {
      "surface": "siddhapūjanam",
-     "gloss": "siddha-worship",
-     "grounds": "topic desired",
-     "morph": "n.acc.sg compound siddha+pūjana"
+     "gloss": "worship-of-siddhas",
+     "grounds": "topic desired to be heard",
+     "morph": "n.acc.sg (compound: siddha+pūjana)"
     }
    ],
    "question": "What instruction does the speaker now wish to hear from the gurus?",
    "premises": [
-    "The speaker expresses a present wish",
-    "The wish is to hear from the gurus",
-    "The topic is the worship of the siddhas"
+    "The speaker expresses a present wish.",
+    "The wish is to hear from the gurus.",
+    "The topic is the worship of the siddhas."
    ],
-   "inference": "The speaker now seeks instruction from the gurus on the worship of the siddhas.",
+   "inference": "The speaker now wishes to hear about the worship of the siddhas from the gurus.",
    "uncertainties": [],
    "plain_english": "Now I wish to hear from the gurus about the worship of the siddhas."
   },
@@ -720,34 +718,34 @@
    "rows": [
     {
      "surface": "akṣaradvayavinyāsam",
-     "gloss": "two-syllable-arrangement",
-     "grounds": "ritual placement described",
-     "morph": "m.acc.sg compound akṣara+dvaya+vinyāsa"
+     "gloss": "arrangement-of-two-syllables",
+     "grounds": "ritual or mantra arrangement",
+     "morph": "m.acc.sg (compound: akṣara+dvaya+vinyāsa)"
     },
     {
      "surface": "anyanteṣu",
      "gloss": "among-others",
-     "grounds": "recipients or contexts",
+     "grounds": "context or recipients",
      "morph": "m.loc.pl"
     },
     {
      "surface": "pradāpayet",
      "gloss": "one-should-give",
-     "grounds": "prescriptive instruction",
-     "morph": "3.sg.opt.caus pra-dā"
+     "grounds": "prescribed transmission",
+     "morph": "3.sg.active-causative-optative (pra-dā)"
     }
    ],
-   "question": "What ritual transmission involving two syllables should be given to others?",
+   "question": "What specific transmission is prescribed to be given among others?",
    "premises": [
-    "A two-syllable arrangement is specified",
-    "Others are the recipients",
-    "Giving it is prescribed"
+    "An arrangement of two syllables is specified.",
+    "It is to be given in other contexts or to others.",
+    "The giving is prescribed."
    ],
-   "inference": "One should transmit the arrangement of two syllables to others.",
+   "inference": "The arrangement of two syllables should be given among others.",
    "uncertainties": [
-    "The form and referent of anyanteṣu are unclear"
+    "The meaning of anyanteṣu is unclear in this context."
    ],
-   "plain_english": "One should give the arrangement of the two syllables to others."
+   "plain_english": "One should give the arrangement of the two syllables among others."
   },
   {
    "verse": 218,
@@ -767,41 +765,41 @@
     {
      "surface": "jñānaṃ",
      "gloss": "knowledge",
-     "grounds": "subject of comparison",
+     "grounds": "subject being praised",
      "morph": "n.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "first negation",
+     "grounds": "negation of past or present equivalent",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhūyo",
      "gloss": "again",
-     "grounds": "temporal extension",
+     "grounds": "future recurrence",
      "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "second negation",
+     "grounds": "negation of future equivalent",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhaviṣyati",
      "gloss": "will-be",
-     "grounds": "future existence denied",
-     "morph": "3.sg.fut.act bhū"
+     "grounds": "future existence",
+     "morph": "3.sg.active-future (bhū)"
     }
    ],
-   "question": "How does this knowledge compare to any knowledge that may arise in the future?",
+   "question": "How does this knowledge compare to any other knowledge in past or future?",
    "premises": [
-    "This knowledge is taken as the standard",
-    "No equal knowledge exists now",
-    "No equal knowledge will exist in the future"
+    "No knowledge equal to this exists.",
+    "No equal knowledge will arise again.",
+    "The comparison is absolute."
    ],
-   "inference": "No knowledge equal to this will ever arise again.",
+   "inference": "This knowledge is unparalleled in the past and will remain so in the future.",
    "uncertainties": [],
    "plain_english": "There is no knowledge equal to this, nor will there ever be again."
   },
@@ -811,26 +809,26 @@
     {
      "surface": "teṣāṃ",
      "gloss": "of-them",
-     "grounds": "refers to previously mentioned beings",
+     "grounds": "refers to the previously mentioned beings",
      "morph": "m.gen.pl"
     },
     {
      "surface": "nāmavidhiṃ",
-     "gloss": "name-method",
-     "grounds": "procedure to be explained",
-     "morph": "m.acc.sg compound nāma+vidhi"
+     "gloss": "method-of-names",
+     "grounds": "topic to be explained",
+     "morph": "m.acc.sg (compound: nāma+vidhi)"
     },
     {
      "surface": "vakṣye",
      "gloss": "I-shall-speak",
      "grounds": "speaker's promise",
-     "morph": "1.sg.fut.mid vac"
+     "morph": "1.sg.middle-future (vac)"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "command to listener",
-     "morph": "2.sg.imp.act śru"
+     "grounds": "command to listen",
+     "morph": "2.sg.active-imperative (śru)"
     },
     {
      "surface": "tvaṃ",
@@ -842,16 +840,16 @@
      "surface": "varalocane",
      "gloss": "o-beautiful-eyed-one",
      "grounds": "vocative address",
-     "morph": "f.voc.sg compound vara+locana"
+     "morph": "f.voc.sg (compound: vara+locana)"
     }
    ],
-   "question": "What does the speaker promise to explain regarding the names of those beings?",
+   "question": "What does the speaker promise to explain to the beautiful-eyed listener?",
    "premises": [
-    "The speaker addresses the listener",
-    "The speaker promises to speak",
-    "The topic is the method of their names"
+    "The speaker addresses the listener directly.",
+    "The speaker promises to speak.",
+    "The topic is the method of their names."
    ],
-   "inference": "The speaker will explain the method concerning their names.",
+   "inference": "The speaker will explain the method of their names to the listener.",
    "uncertainties": [],
    "plain_english": "O beautiful-eyed one, listen; I shall speak the method of their names."
   },
@@ -861,8 +859,8 @@
     {
      "surface": "caturyuga",
      "gloss": "four-ages",
-     "grounds": "temporal designation",
-     "morph": "n.nom.sg compound catur+yuga"
+     "grounds": "designation or name element",
+     "morph": "n.nom.sg (compound: catur+yuga)"
     },
     {
      "surface": "iti",
@@ -872,78 +870,78 @@
     },
     {
      "surface": "deveśa",
-     "gloss": "o-lord-of-gods",
+     "gloss": "o-lord",
      "grounds": "vocative address",
-     "morph": "m.voc.sg compound deva+īśa"
+     "morph": "m.voc.sg (compound: deva+īśa)"
     },
     {
      "surface": "svatantra",
      "gloss": "independent",
-     "grounds": "describes the impellers",
-     "morph": "m.nom.pl"
+     "grounds": "quality of the impellers",
+     "morph": "m.nom.pl (compound: sva+tantra)"
     },
     {
      "surface": "kulacodakāḥ",
      "gloss": "family-impellers",
-     "grounds": "agents named",
-     "morph": "m.nom.pl compound kula+codaka"
+     "grounds": "agents who impel the lineage",
+     "morph": "m.nom.pl (compound: kula+codaka)"
     }
    ],
    "question": "Who are identified as the independent impellers of the lineage across the four ages?",
    "premises": [
-    "The four ages are invoked",
-    "The agents are called family impellers",
-    "They are described as independent"
+    "The term four ages is invoked.",
+    "The beings are called independent.",
+    "They are described as impellers of the family."
    ],
-   "inference": "The independent family impellers operate across the four ages.",
+   "inference": "The independent impellers of the lineage are associated with the four ages.",
    "uncertainties": [
-    "Syntactic role of caturyuga iti is compressed"
+    "The syntactic role of caturyuga iti is compressed and somewhat unclear."
    ],
-   "plain_english": "O lord of gods, thus are the independent impellers of the lineage through the four ages."
+   "plain_english": "Thus, O lord, they are the independent impellers of the lineage through the four ages."
   },
   {
    "verse": 221,
    "rows": [
     {
      "surface": "daśakoṭipramāṇaṃ",
-     "gloss": "ten-crore-in-measure",
-     "grounds": "states vast extent",
-     "morph": "n.nom.sg compound daśa+koṭi+pramāṇa"
+     "gloss": "measuring-ten-crores",
+     "grounds": "vast extent of the teaching",
+     "morph": "n.nom.sg (compound: daśa+koṭi+pramāṇa)"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle of emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "idam",
      "gloss": "this",
-     "grounds": "demonstrative subject",
+     "grounds": "demonstrative referring to the teaching",
      "morph": "n.nom.sg"
     },
     {
      "surface": "kaulaṃ",
      "gloss": "kaula-teaching",
-     "grounds": "doctrine named",
+     "grounds": "name of the tradition or doctrine",
      "morph": "n.nom.sg"
     },
     {
      "surface": "parodbhavam",
      "gloss": "supremely-arisen",
-     "grounds": "describes origin",
-     "morph": "n.nom.sg compound para+udbhava"
+     "grounds": "origin of the teaching",
+     "morph": "n.nom.sg (compound: para+udbhava)"
     }
    ],
-   "question": "What is the extent and origin of this Kaula teaching being described?",
+   "question": "What is the extent and origin of this Kaula teaching?",
    "premises": [
-    "The teaching is identified as Kaula",
-    "Its measure is ten crores",
-    "It is supremely arisen"
+    "The teaching is identified as Kaula.",
+    "It measures ten crores in extent.",
+    "It is supremely arisen."
    ],
    "inference": "This Kaula teaching is vast in extent and of supreme origin.",
    "uncertainties": [
-    "The unit implied by daśakoṭi is not specified"
+    "The exact sense of daśakoṭipramāṇaṃ (textual, temporal, or numerical) is uncertain."
    ],
    "plain_english": "Indeed, this Kaula teaching, supremely arisen, measures ten crores."
   },
@@ -952,46 +950,46 @@
    "rows": [
     {
      "surface": "icchākhyā",
-     "gloss": "named-will",
+     "gloss": "named-icchā",
      "grounds": "name of the yoginī",
-     "morph": "f.nom.sg compound icchā+ākhyā"
+     "morph": "f.nom.sg (compound: icchā+ākhyā)"
     },
     {
      "surface": "yoginī",
-     "gloss": "yogini",
-     "grounds": "subject named",
+     "gloss": "yoginī",
+     "grounds": "subject",
      "morph": "f.nom.sg"
     },
     {
      "surface": "siddhaiḥ",
      "gloss": "by-the-siddhas",
-     "grounds": "agents associated",
+     "grounds": "agents associated with transmission",
      "morph": "m.inst.pl"
     },
     {
      "surface": "māyāntaṃ",
-     "gloss": "up-to-maya",
-     "grounds": "limit or domain reached",
-     "morph": "n.acc.sg compound māyā+anta"
+     "gloss": "up-to-māyā",
+     "grounds": "limit or extent",
+     "morph": "n.acc.sg (compound: māyā+anta)"
     },
     {
      "surface": "para-icchayā",
      "gloss": "by-supreme-will",
      "grounds": "instrumental cause",
-     "morph": "f.inst.sg compound para+icchā"
+     "morph": "f.inst.sg (compound: para+icchā)"
     }
    ],
-   "question": "By what power does the yoginī named Icchā extend up to the limit of māyā?",
+   "question": "By whose agency and to what extent does the yoginī named Icchā operate?",
    "premises": [
-    "The yoginī is named Icchā",
-    "She is associated with the siddhas",
-    "Her reach extends up to māyā by supreme will"
+    "The yoginī is named Icchā.",
+    "The siddhas are involved.",
+    "Her operation extends up to māyā by supreme will."
    ],
-   "inference": "The yoginī Icchā, with the siddhas, extends up to māyā through supreme will.",
+   "inference": "The yoginī Icchā, associated with the siddhas, operates up to the limit of māyā by supreme will.",
    "uncertainties": [
-    "The exact syntactic relation of siddhaiḥ is ambiguous"
+    "The syntactic relationship between siddhaiḥ and the rest of the verse is ambiguous."
    ],
-   "plain_english": "The yoginī named Icchā, with the siddhas, reaches up to māyā by supreme will."
+   "plain_english": "The yoginī named Icchā, by the siddhas and by supreme will, extends up to māyā."
   },
   {
    "verse": 223,
@@ -999,13 +997,13 @@
     {
      "surface": "mātarāṇāṃ",
      "gloss": "of-the-mothers",
-     "grounds": "group concerned",
+     "grounds": "recipients or subject group",
      "morph": "f.gen.pl"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "continues transmission",
+     "grounds": "continuation of transmission",
      "morph": "(indecl.)"
     },
     {
@@ -1017,14 +1015,14 @@
     {
      "surface": "khecaraiḥ",
      "gloss": "by-the-sky-movers",
-     "grounds": "agents of telling",
-     "morph": "m.inst.pl compound khe+cara"
+     "grounds": "agents of transmission",
+     "morph": "m.inst.pl (compound: kha+cara)"
     },
     {
      "surface": "kathitaṃ",
      "gloss": "told",
      "grounds": "act of transmission",
-     "morph": "n.nom.sg past-passive-participle kath"
+     "morph": "n.nom.sg (past-passive-participle, kath)"
     },
     {
      "surface": "priye",
@@ -1033,15 +1031,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Who transmitted the teaching concerning the mothers to the goddess?",
+   "question": "To whom and by whom was this teaching further transmitted?",
    "premises": [
-    "The subject concerns the mothers",
-    "The teaching was told",
-    "The sky-movers are the agents"
+    "The teaching concerns the mothers.",
+    "It was told again.",
+    "The sky-movers were the transmitters."
    ],
-   "inference": "The sky-movers transmitted the teaching concerning the mothers.",
+   "inference": "The teaching was further transmitted to the mothers by the sky-movers.",
    "uncertainties": [],
-   "plain_english": "O goddess, O beloved, it was told again concerning the mothers by the sky-movers."
+   "plain_english": "O goddess, O beloved, it was told again to the mothers by the sky-movers."
   },
   {
    "verse": 224,
@@ -1049,26 +1047,26 @@
     {
      "surface": "bhūcarīṇāṃ",
      "gloss": "of-the-earth-movers",
-     "grounds": "group concerned",
-     "morph": "f.gen.pl compound bhū+carī"
+     "grounds": "recipients of transmission",
+     "morph": "f.gen.pl (compound: bhū+carī)"
     },
     {
      "surface": "subhakṣāṇāṃ",
      "gloss": "of-the-good-eaters",
-     "grounds": "epithet of the group",
-     "morph": "f.gen.pl compound su+bhakṣa"
+     "grounds": "epithet of the recipients",
+     "morph": "f.gen.pl (compound: su+bhakṣa)"
     },
     {
      "surface": "bhūcarī",
      "gloss": "by-the-earth-mover",
-     "grounds": "agent of telling",
-     "morph": "f.inst.sg compound bhū+carī"
+     "grounds": "agent of transmission",
+     "morph": "f.inst.sg (compound: bhū+carī)"
     },
     {
      "surface": "kathitaṃ",
      "gloss": "told",
      "grounds": "act of transmission",
-     "morph": "n.nom.sg past-passive-participle kath"
+     "morph": "n.nom.sg (past-passive-participle, kath)"
     },
     {
      "surface": "priye",
@@ -1077,17 +1075,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Who transmitted the teaching concerning the auspicious earth-moving yoginīs?",
+   "question": "How was the teaching transmitted among the earth-moving yoginīs?",
    "premises": [
-    "The subject concerns the earth-moving yoginīs",
-    "They are described as good eaters",
-    "An earth-mover told the teaching"
+    "The recipients are earth-moving yoginīs described as good eaters.",
+    "The transmitter is an earth-mover.",
+    "The teaching was told to them."
    ],
-   "inference": "An earth-moving yoginī transmitted the teaching concerning the auspicious earth-movers.",
+   "inference": "The teaching was transmitted by an earth-mover to the earth-moving yoginīs.",
    "uncertainties": [
-    "Instrumental sense of bhūcarī is inferred from context"
+    "The epithet subhakṣāṇāṃ is unusual and its precise connotation is uncertain."
    ],
-   "plain_english": "O beloved, it was told concerning the auspicious earth-moving yoginīs by an earth-mover."
+   "plain_english": "O beloved, it was told by an earth-mover to the earth-moving yoginīs, the good eaters."
   }
  ]
 }

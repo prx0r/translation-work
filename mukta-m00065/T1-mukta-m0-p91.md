@@ -2,70 +2,70 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p91-v2251
-[bāṇa](bāṇa) [svayaṃbhu](svayaṃbhu) [liṅga](liṅga) [padma](padma) [khaṇḍa](khaṇḍa) [taḍāga](taḍāga)
+[bāṇa](bāṇa) [svayaṃbhu](svayaṃbhu) [liṅgānām](liṅgānānāṃ) [padma](padma) [khaṇḍa](khaṇḍa) [taḍāgayoḥ](taḍāgayoḥ)
 
 ## mukta-m0-p91-v2252
-[siddha](siddha) [deva-ālaya](devālayo) [grāma](grāma) [nagara](nagaraṃ) [kheṭaka](kheṭakaṃ) [pura](puram)
+[siddha](siddha) [deva](deva) [ālayaḥ](ālayaḥ) [grāmaḥ](grāmaḥ) [nagaram](nagaraṃ) [kheṭakam](kheṭakaṃ) [puram](puram)
 
 ## mukta-m0-p91-v2253
-[puṇya-sthāna](puṇyasthānam) [atha](atha) [anya](anyacca) [siddha-sthāna](siddhasthānānyamūni) [ca](ca)
+[puṇya](puṇya) [sthānam](sthānam) [atha](atha) [anyat](anyat) [ca](ca) [siddha](siddha) [sthānāni](sthānāni) [amūni](amūni) [ca](ca)
 
 ## mukta-m0-p91-v2254
-[gṛhṇīyāt](gṛhṇīyādbhūmimādau) [bhūmi](bhūmimādau) [tu](tu) [śāsana](śāsanena) [kraya](krayeṇa) [vā](vā)
+[gṛhṇīyāt](gṛhṇīyāt) [bhūmim](bhūmim) [ādau](ādau) [tu](tu) [śāsanena](śāsanena) [krayeṇa](krayeṇa) [vā](vā)
 
 ## mukta-m0-p91-v2255
-[ādau](ādau) [kūrma-ādi](kurmādyateḥ) [sthāna](sthānam) [īśa-ādi](īśādīnāṃ) [tatas](tato) [yatas](yataḥ)
+[ādau](ādau) [kūrma](kurma) [ādyateḥ](ādyateḥ) [sthānam](sthānam) [īśa](īśa) [ādīnām](ādīnām) [tataḥ](tataḥ) [yataḥ](yataḥ)
 
 ## mukta-m0-p91-v2256
-[maṭha](maṭhamāśritya) [āśritya](maṭhamāśritya) [ye](ye) [liṅga](liṅgam) [arcayanti](arcayanti) [ku-buddhi](kubuddhayaḥ)
+[maṭham](maṭham) [āśritya](āśritya) [ye](ye) [liṅgam](liṅgam) [arcayanti](arcayanti) [ku](ku) [buddhayaḥ](buddhayaḥ)
 
 ## mukta-m0-p91-v2257
-[yadi](yadīcchennarakaṃ) [icchet](yadīcchennarakaṃ) [naraka](narakaṃ) [gantuṃ](gantuṃ) [putra-pautra-ādi](putrapautrādibhiḥ) [saha](saha)
+[yadi](yadi) [icchet](icchet) [narakam](narakaṃ) [gantum](gantuṃ) [putra](putra) [pautra](pautra) [ādibhiḥ](ādibhiḥ) [saha](saha)
 
 ## mukta-m0-p91-v2258
 [mahī](mahī)
 
 ## mukta-m0-p91-v2259
-[ripu](ripurmānaṃ) [māna](mānaṃ) [sukha](sukhaṃ) [ca](ca) [syāt](syānmadhyamā) [madhyamā](madhyamā) [sarvatas](sarvataḥ) [plavā](plavā)
+[ripuḥ](ripuḥ) [mānam](mānaṃ) [sukham](sukhaṃ) [ca](ca) [syāt](syāt) [madhyamā](madhyamā) [sarvataḥ](sarvataḥ) [plavā](plavā)
 
 ## mukta-m0-p91-v2260
-[bhaṅga](bhaṅgaḥ) [pīta](pīto'rtha) [artha](artha) [ijyā](ijyā) [syāt](syātpūrvādervasudhāplavāt) [pūrva-ādi](pūrvādervasudhāplavāt) [vasudhā-plava](vasudhāplavāt)
+[bhaṅgaḥ](bhaṅgaḥ) [pītaḥ](pītaḥ) [arthaḥ](arthaḥ) [ijyā](ijyā) [syāt](syāt) [pūrva](pūrva) [ādeḥ](ādeḥ) [vasudhā](vasudhā) [plavāt](plavāt)
 
 ## mukta-m0-p91-v2261
-[sajñaka](sajñakaḥ)
+[sa](sa) [jñakaḥ](jñakaḥ)
 
 ## mukta-m0-p91-v2262
-[nadī-praveśitā](nadīpraveśitā) [śastā](śastā) [pūrva-ādi](pūrvādi) [paścime](paścime'pi) [api](paścime'pi) [vā](vā)
+[nadī](nadī) [praveśitā](praveśitā) [śastā](śastā) [pūrva](pūrva) [ādi](ādi) [paścime](paścime) [api](api) [vā](vā)
 
 ## mukta-m0-p91-v2263
-[vaṭa](vaṭaḥ) [prācyāṃ](prācyāṃ) [yama-āśā](yamāśāyāṃ) [yajña-aṅga](yajñāṅgo) [bodhi](bodhirabdiśi) [abdiśi](abdiśi)
+[vaṭaḥ](vaṭaḥ) [prācyām](prācyām) [yama](yama) [āśāyām](āśāyām) [yajña](yajña) [aṅgaḥ](aṅgaḥ) [bodhiḥ](bodhiḥ) [abdiśi](abdiśi)
 
 ## mukta-m0-p91-v2264
-[jayantī](jayantīdāḍimīśyāmāpunnāgāriṣṭapādapā) [dāḍimī](dāḍimī) [śyāmā](śyāmā) [punnāga](punnāga) [ariṣṭa](ariṣṭa) [pādapa](pādapā)
+[jayantī](jayantī) [dāḍimī](dāḍimī) [śyāmā](śyāmā) [punnāga](punnāga) [ariṣṭa](ariṣṭa) [pādapāḥ](pādapāḥ)
 
 ## mukta-m0-p91-v2265
-[bahu-darbha-vatī](bahudarbhavatī) [viprā](viprā) [kṣatriyā](kṣatriyā) [ca](ca) [śara-ākulā](śarākulā)
+[bahu](bahu) [darbha](darbha) [vatī](vatī) [viprā](viprā) [kṣatriyā](kṣatriyā) [ca](ca) [śara](śara) [ākulā](ākulā)
 
 ## mukta-m0-p91-v2266
-[phala-puṣpa-vatī](phalapuṣpavatīsnigdhā) [snigdhā](snigdhā) [snigdha-gulma](snigdhagulmoṣadhīdrumāḥ) [oṣadhī](oṣadhī) [druma](drumāḥ)
+[phala](phala) [puṣpa](puṣpa) [vatī](vatī) [snigdhā](snigdhā) [snigdha](snigdha) [gulma](gulma) [oṣadhī](oṣadhī) [drumāḥ](drumāḥ)
 
 ## mukta-m0-p91-v2267
-[eka-varṇā](ekavarṇā) [ghanā](ghanā) [tulyā](tulyā) [yama-ambu-diśi](yamāmbudiśi) [unnatā](connatā)
+[eka](eka) [varṇā](varṇā) [ghanā](ghanā) [tulyā](tulyā) [yama](yama) [ambu](ambu) [diśi](diśi) [ca](ca) [unnatā](unnatā)
 
 ## mukta-m0-p91-v2268
-[candana](candanāgurukāśmīracandrābjotpalacampakāḥ) [aguru](aguru) [kāśmīra](kāśmīra) [candra](candra) [abja](abja) [utpala](utpala) [campaka](campakāḥ)
+[candana](candana) [aguru](aguru) [kāśmīra](kāśmīra) [candra](candra) [abja](abja) [utpala](utpala) [campakāḥ](campakāḥ)
 
 ## mukta-m0-p91-v2269
-[śālī](śālībhamadadadhyājyadugdhānyetatsugandhinī) [bhama](bhama) [dadhya](dadhya) [ājya](ājya) [dugdha](dugdhānyetatsugandhinī) [sugandhinī](sugandhinī)
+[śāli](śāli) [ibha](ibha) [mada](mada) [dadhi](dadhi) [ājya](ājya) [dugdha](dugdha) [anya](anya) [etat](etat) [su](su) [gandhinī](gandhinī)
 
 ## mukta-m0-p91-v2270
-[grīṣma-kāle](grīṣmakāle) [ca](ca) [yā](yā) [śītā](śītā) [uṣmaṇā](uṣmaṇā) [śiśire](śiśire'nviyā) [anviyā](anviyā)
+[grīṣma](grīṣma) [kāle](kāle) [ca](ca) [yā](yā) [śītā](śītā) [uṣmaṇā](uṣmaṇā) [śiśire](śiśire) [anviyā](anviyā)
 
 ## mukta-m0-p91-v2271
-[śubhātmanā](śubhātmanā)
+[śubha](śubha) [ātmanā](ātmanā)
 
 ## mukta-m0-p91-v2272
-[miṣo](miṣo) [vṛṣā](vṛṣā)
+[miṣaḥ](miṣaḥ) [vṛṣāḥ](vṛṣāḥ)
 
 ## mukta-m0-p91-v2273
 [sā](sā) [mahī](mahī)
@@ -74,4 +74,4 @@
 [āṣāḍhā](āṣāḍhā) [kṛttikā](kṛttikā) [jyeṣṭhā](jyeṣṭhā) [tathā](tathā) [śatabhiṣā](śatabhiṣā) [ca](ca) [bham](bham)
 
 ## mukta-m0-p91-v2275
-[sva-jāti](svajāti) [brāhmaṇī](brāhmaṇī) [vāpi](vāpi) [yathā-lābhaṃ](yathālābhaṃ) [ca](ca) [gṛhyate](gṛhyate)
+[sva](sva) [jāti](jāti) [brāhmaṇī](brāhmaṇī) [vā](vā) [api](api) [yathā](yathā) [lābham](lābhaṃ) [ca](ca) [gṛhyate](gṛhyate)
