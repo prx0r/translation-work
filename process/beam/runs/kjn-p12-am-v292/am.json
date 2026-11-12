@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 292,
- "question": "How is the caru offering regarded by the siddhas and yoginīs in this tradition?",
+ "question": "How is the ritual oblation regarded by the siddhas and yoginis in this tradition?",
  "premises": [
-  "The caru belongs to the context of siddhas and yoginīs.",
+  "The oblation is associated with siddhas and yoginis.",
   "It is described as dear.",
-  "This regard is constant."
+  "This regard is said to be constant."
  ],
- "inference": "This caru is always dear to the siddhas and yoginīs.",
- "uncertainties": [],
- "plain_english": "This caru is always dear to the siddhas and to the yoginīs."
+ "inference": "This oblation is always dear to the siddhas and yoginis.",
+ "uncertainties": [
+  "The predicate 'is' is implied."
+ ],
+ "plain_english": "This oblation is always dear to the siddhas and to the yoginis."
 }
