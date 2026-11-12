@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 204,
- "question": "What status is attributed to Kāmadeva in this description that distinguishes him as a second figure freed from age-related marks?",
+ "question": "What claim about the status of Kāmadeva is at stake in describing him as freed from wrinkles and grey hair and as second?",
  "premises": [
   "Kāmadeva is described as freed from wrinkles and grey hair.",
-  "He is designated as the second.",
-  "These attributes mark a distinct status for him."
+  "Kāmadeva is described as being second in the sequence under consideration.",
+  "These two attributes are predicated of the same figure."
  ],
- "inference": "Kāmadeva appears here as a second figure characterized by freedom from age-related marks.",
- "uncertainties": [],
+ "inference": "Kāmadeva appears here in a condition free from age and in a position marked as second.",
+ "uncertainties": [
+  "The referent of 'second' is not determined by this verse alone."
+ ],
  "plain_english": "Kāmadeva, freed from wrinkles and grey hair, is the second."
 }

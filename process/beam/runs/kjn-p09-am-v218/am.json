@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 218,
- "question": "What absolute claim is made about the uniqueness of the knowledge in question relative to anything equal to it?",
+ "question": "What claim about the uniqueness of knowledge is at stake in asserting that nothing equal to it will exist again?",
  "premises": [
-  "There is knowledge equal to this.",
-  "Such knowledge will not exist again.",
-  "Nor will it exist at all in that equal form."
+  "Knowledge equal to this knowledge is posited as a possible object of comparison.",
+  "Such equal knowledge will not exist again.",
+  "The negation is stated twice for emphasis."
  ],
- "inference": "No knowledge equal to this knowledge will ever exist.",
- "uncertainties": [],
- "plain_english": "There is no knowledge equal to this; there will be none again."
+ "inference": "The knowledge in question is presented as unique, with no equal knowledge to arise again.",
+ "uncertainties": [
+  "The scope of 'again' is not specified by this verse alone."
+ ],
+ "plain_english": "There is no knowledge equal to this; again there will be none."
 }

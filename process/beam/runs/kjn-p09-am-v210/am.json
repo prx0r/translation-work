@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 210,
- "question": "What epistemic claim is made about the ascertainment declared here, and by what means is it presented as given?",
+ "question": "What claim about the authority of the statement is at stake in declaring a doubt-free ascertainment by means of devotion and reasoning?",
  "premises": [
-  "The ascertainment is declared by the speaker.",
-  "It is declared without doubt.",
-  "It is declared with devotion and reasoning."
+  "An ascertainment is declared.",
+  "That ascertainment is declared to be doubt-free.",
+  "It is declared by the speaker through devotion and reasoning."
  ],
- "inference": "The speaker presents this ascertainment as doubt-free, given through devotion and reasoning.",
- "uncertainties": [],
- "plain_english": "This ascertainment has been declared by me without doubt, indeed, with devotion and reasoning."
+ "inference": "The speaker presents the ascertainment as doubt-free on the basis of devotion and reasoning.",
+ "uncertainties": [
+  "The content of the ascertainment is not fully specified by this verse alone."
+ ],
+ "plain_english": "Indeed, by me it has been declared doubt-free as an ascertainment, with devotion and reasoning."
 }

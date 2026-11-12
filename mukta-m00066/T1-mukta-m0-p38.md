@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[liberating](vivimocayamāṃ) [lord](nātha) [kiss](cu) [kiss](cu) [kiss](cuṃbāmi) [my](me) [banner](dhvajam)
+[causing-to-release](vivimocayamāṃ) [o-lord](nātha) [cu](cu) [cu](cu) [I-kiss](cuṃbāmi) [my](me) [flag](dhvajam)
 
 ## mukta-m0-p38-v927
-[hum](huṃ) [hum](huṃ) [hum](huṃ) [give](dehi) [give](dehīti) [abandoning](tyaktvāpallavacāruṇā) 
+[huṃ](huṃ) [huṃ](huṃ) [huṃ](huṃ) [give](dehi) [give](dehi) [thus](iti) [having-abandoned](tyaktvā) [sprout+beautiful](pallava+cāruṇā)
 
 ## mukta-m0-p38-v928
-[seventh-offering](saptamāhutisusnātaṃ) [lingam](liṃgam) [drawing](ākṛṣya) [passionate-woman](rāgiṇī)
+[seventh+oblation+well-bathed](saptama+āhuti+susnātaṃ) [liṅga](liṃgam) [having-drawn](ākṛṣya) [passionate-woman](rāgiṇī)
 
 ## mukta-m0-p38-v929
-[kisses](cuṃbatī) [and](ca) [in-mouth](mukhe) [lingam](liṃgaṃ) [obtained-seven-ablutions](prāptasaptābhiṣecanam)
+[kissing](cuṃbatī) [and](ca) [in-mouth](mukhe) [liṅga](liṃgaṃ) [obtained+seventh+consecration](prāpta+sapta+abhiṣecanam)
 
 ## mukta-m0-p38-v930
-[in-mouth](mukhe) [placing](nikṣipyataṃ) [god](devaṃ) [biting](daśanena) [clever](vidaghnatī)
+[in-mouth](mukhe) [should-be-placed](nikṣipyataṃ) [god](devaṃ) [with-teeth](daśanena) [biting](vidaghnatī)
 
 ## mukta-m0-p38-v931
-[of-banner](dhvajasya) [filament-part](karṇikābhāgaṃ) [with-tongue](jihvayā) [and](ca) [agitate](vilolayet)
+[of-flag](dhvajasya) [pericarp+part](karṇikā+bhāgaṃ) [with-tongue](jihvayā) [and](ca) [should-roll](vilolayet)
 
 ## mukta-m0-p38-v932
-[on-sides](pārśvoścanakharekhābhirurarī) [makes](kurute) [pleasure](ratim)
+[on-sides](pārśvoḥ) [with-nail+lines](nakhara+rekhābhiḥ) [on-thighs](urarī) [makes](kurute) [pleasure](ratim)
 
 ## mukta-m0-p38-v933
-[drinking](pibaṃtī) [sound](vacataṃ) [noise](nādaṃ) [various-play](bahulīlāṃ) [perform](samācaret)
+[drinking](pibaṃtī) [of-mouth](vacataṃ) [sound](nādaṃ) [much+play](bahu+līlāṃ) [should-perform](samācaret)
 
 ## mukta-m0-p38-v934
-[then](atha) [of-moon-channel](caṃdrakalānāḍyāḥ) [own-form](svarūpaṃ) [I-tell](kathayāmi) [to-you](te)
+[now](atha) [of-moon+digit+channel](caṃdra+kalā+nāḍyāḥ) [own-form](svarūpaṃ) [I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p38-v935
-[many-colored](anekavarṇaśāvavre) [adorned-own-form](vibhūṣitanijākṛtiḥ)
+[many+color+beautiful+circle](aneka+varṇa+śāva+vre) [adorned+own+form](vibhūṣita+nija+ākṛtiḥ)
 
 ## mukta-m0-p38-v936
-[extremely](atyaṃtaṃ) [soft-formed](mṛdulākāraṃ) [in-middle](madhye) [somewhat](kiṃcit) [thick](sthalīyasi)
+[very](atyaṃtaṃ) [soft+form](mṛdula+ākāraṃ) [in-middle](madhye) [somewhat](kiṃcit) [broader](sthalīyasi)
 
 ## mukta-m0-p38-v937
-[barley-shaped](yavākāramanuprāptā) [again](bhūyaḥ) [thrilled-form](pulakitākṛtiḥ)
+[barley+shape](yava+ākāram) [having-attained](anuprāptā) [again](bhūyaḥ) [horripilated+form](pulakita+ākṛtiḥ)
 
 ## mukta-m0-p38-v938
-[of-other-channels](anyāsāmapi) [nāḍīnāṃ](nāḍīnāṃ) [seven-enjoyment-nectar-ray](saptabhogasudhākirām)
+[of-others](anyāsām) [also](api) [of-channels](nāḍīnāṃ) [seven+enjoyment+nectar+streaming](sapta+bhoga+sudhā+kirām)
 
 ## mukta-m0-p38-v939
-[all-bliss](samastānaṃda) [filled](bharitā) [desire-support-staff](kāmālaṃbanayaṣṭikā)
+[all+bliss+filled](samasta+ānaṃda+bharitā) [desire+support+staff](kāma+ālaṃbana+yaṣṭikā)
 
 ## mukta-m0-p38-v940
-[ageless-immortal-cause](ajarāmaratāhetu) [her-dissolving-action](masyāvidrāvaṇakriyām)
+[non-aging+immortality+cause](ajara+amaratā+hetu) [of-that+melting+action](asya+vidrāvaṇa+kriyām)
 
 ## mukta-m0-p38-v941
-[in-new-accomplishments](navāsidheṣu) [accomplishable](sādhyeṣu) [know](jānaṃti) [not](na) [fair-faced](varānane)
+[in-nine+accomplishments](nava+sidheṣu) [to-be-accomplished](sādhyeṣu) [they-know](jānaṃti) [not](na) [o-fair-faced-one](varānane)
 
 ## mukta-m0-p38-v942
-[of-thighs](jaṃghayorapi) [thigh](jaṃghedve) [on-chest](vakṣasyapi) [between-arms](bhujāṃtaram)
+[on-legs](jaṃghayoḥ) [also](api) [on-legs](jaṃghe) [two](dve) [on-chest](vakṣasi) [also](api) [between-arms](bhuja+aṃtaram)
 
 ## mukta-m0-p38-v943
-[on-lip](adhare) [also](cāpi) [bimba-lip](biṃboṣṭhaṃ) [on-nose](nāsāyāmapi) [nose](nāsikām)
+[on-lower-lip](adhare) [and](ca) [also](api) [bimba+lip](biṃba+oṣṭhaṃ) [on-nose](nāsāyām) [also](api) [nostril](nāsikām)
 
 ## mukta-m0-p38-v944
-[whole-body](sarvāṃgīṇamidaṃ) [named](nāma) [massage](mardanaṃ) [declared](parikīrtitam)
+[all+limbed](sarva+aṃgīṇam) [this](idaṃ) [name](nāma) [pressing](mardanaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p38-v945
-[at-ear-root-vein-pair](karṇamūlasirayugme) [kiss-bite](sa) [cuṃbanaradakṣatam)
+[ear+root+vein+pair](karṇa+mūla+sira+yugme) [with-that](sa) [kissing+and+scratching](cuṃbana+rada+kṣatam)
 
 ## mukta-m0-p38-v946
-[somewhat](kiṃciddaśanadaṃśena) [nipple-pair](cūcukadvaṃdva) [sucking](cūṣaṇam)
+[with-some](kiṃcit) [tooth+bite](daśana+daṃśena) [nipple+pair+sucking](cūcuka+dvaṃdva+cūṣaṇam)
 
 ## mukta-m0-p38-v947
-[at-navel-depression](nābhīpuṭe) [blowing](phūtkaraṇaṃ) [at-brow-middle](bhrūmadhye) [also](cāpi) [hissing](sītkṛtiḥ)
+[in-navel+cavity](nābhī+puṭe) [blowing](phūtkaraṇaṃ) [between-eyebrows](bhrū+madhye) [and](ca) [also](api) [hissing](sītkṛtiḥ)
 
 ## mukta-m0-p38-v948
-[at-seat-place](āsanasya) [pradeśe](pradeśe) [ca](ca) [gentle](maṃdaraṃ) [fist-striking](muṣṭitāḍanam)
+[of-seat](āsanasya) [in-region](pradeśe) [and](ca) [gentle](maṃdaraṃ) [fist+striking](muṣṭi+tāḍanam)
 
 ## mukta-m0-p38-v949
-[these](etānyupācared) [hero](vīro) [messenger-arousing](dūtikādrāvako) [becomes](bhavet)
+[these](etāni) [should-employ](upācared) [hero](vīro) [messenger-woman+melter](dūtikā+drāvakaḥ) [becomes](bhavet)
 
 ## mukta-m0-p38-v950
-[previously-said](pūrvokta) [restlessness](cāpalaṃ) [mantra](maṃtraṃ) [bhaga-mālinī](bhagamālinikāmanum)
+[previously-said](pūrvokta) [and](ca) [fickleness](cāpalaṃ) [mantra](maṃtraṃ) [bhagamālinikā+mantra](bhagamālinikā+manum)

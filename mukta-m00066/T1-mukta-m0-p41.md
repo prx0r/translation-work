@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[by-these](etair) [bliss-sacrifice-ending](ānaṃdayāgāṃta) [with-white-semen-drops](śuklaśoṇitabiṃdubhiḥ)
+with-these(etaiḥ) + bliss-sacrifice-end(ānaṃda+yāga+aṃta) white-red-drops(śukla+śoṇita+biṃdubhiḥ)
 
 ## mukta-m0-p41-v1002
-[by-these](etair) [bliss-sacrifice-ending](ānaṃdayāgāṃta) [with-white-semen-drops](śuklaśoṇitabiṃdubhiḥ)
+with-these(etaiḥ) + bliss-sacrifice-end(ānaṃda+yāga+aṃta) white-red-drops(śukla+śoṇita+biṃdubhiḥ)
 
 ## mukta-m0-p41-v1003
-[by-these](etair) [bliss-sacrifice-ending](ānaṃdayāgāṃta) [white-semen](śuklaśoṇita) [drops](biṃdubhiḥ)
+with-these(etaiḥ) + bliss-sacrifice-end(ānaṃda+yāga+aṃta) white-red-drops(śukla+śoṇita) drops(biṃdubhiḥ)
 
 ## mukta-m0-p41-v1004
-[satisfy](tarpayed) [all](akhilaṃ) [universe](viśvaṃ) [self-bliss-great-goddess](svātmānaṃdamaheśvari)
+one-should-satisfy(tarpayet) + entire(akhilaṃ) universe(viśvaṃ) O-great-goddess-of-self-bliss(sva+ātma+ānaṃda+maheśvari)
 
 ## mukta-m0-p41-v1005
-[then-messenger](athatāṃdūtikā) [her-action](mastaceṣṭāṃ) [breath-only](niśvāsamātriṇīm)
+then(atha) + her(tāṃ) + messenger-woman(dūtikām) + whose-activity-is-that(tat+ceṣṭāṃ) consisting-only-of-breath(niśvāsa+mātriṇīm)
 
 ## mukta-m0-p41-v1006
-[bliss-only-immersed](ānaṃdamātranirmagnāṃ) [in-ineffable](anivācye) [taste](rase) [established](sthitām)
+immersed-only-in-bliss(ānaṃda+mātra+nirmagnāṃ) in-ineffable(anivācye) in-essence(rase) situated(sthitām)
 
 ## mukta-m0-p41-v1007
-[navel-root](nābhimūlaṃ) [thigh-root](sakthimūlaṃ) [foot-tender](padapallavakomalam)
+navel-root(nābhi+mūlaṃ) thigh-root(sakthi+mūlaṃ) tender-as-foot-blossom(pada+pallava+komalam)
 
 ## mukta-m0-p41-v1008
-[below-shoulder](adhiskaṃdhaṃ) [falls-her](patedasyā) [making-hand-rubbing](vidhāyakaramarddanāt)
+upon-shoulder(adhiskaṃdhaṃ) may-fall(patet) + of-her(asyāḥ) by-pressing-with-caressing-hand(vidhāyaka+kara+marddanāt)
 
 ## mukta-m0-p41-v1009
-[especially](viśeṣāt) [love-house](smaragehasya) [around-soft-hand](paritomṛdupāṇinā)
+especially(viśeṣāt) of-the-love-abode(smara+gehasya) all-around(paritaḥ) + with-gentle-hand(mṛdu+pāṇinā)
 
 ## mukta-m0-p41-v1010
-[rise](uttiṣṭhot) [rise-auspicious](tiṣṭhakalyāṇi) [sacrifice-this](yāgo'yaṃ) [accomplished](caritārthakaḥ)
+arise(uttiṣṭha) + stand(tiṣṭha) + O-auspicious-one(kalyāṇi) this-sacrifice(yāgaḥ+ayaṃ) fulfilled(carita+arthakaḥ)
 
 ## mukta-m0-p41-v1011
-[sirisa-leaf-heart](śirīṣadalahṛdyāni) [your-limbs](tavāṃgāni) [slender-bellied](talodari)
+charming-as-śirīṣa-petals(śirīṣa+dala+hṛdyāni) your-limbs(tava+aṃgāni) O-slender-waisted-one(talodari)
 
 ## mukta-m0-p41-v1012
-[forgive](kṣamasvatāni) [all](sarvāṇi) [again](bhūyo) [knowledge-obtain](bodhamavāpnuyāt)
+may-endure(kṣamasva) + all(tāni) + all(sarvāṇi) again(bhūyaḥ) consciousness(bodham) + may-obtain(avāpnuyāt)
 
 ## mukta-m0-p41-v1013
-[then-rising](tadutthāya) [great-embrace](mahotsaṃga) [make](maṃgī) [instruct](kurvītibodhayet)
+having-risen-from-that(tat+utthāya) great-embrace(mahā+utsaṃga) in-lap(maṃgī) make(kurvīti) + instruct(bodhayet)
 
 ## mukta-m0-p41-v1014
-[excessive-bliss](atyānaṃdāt) [subjection](pāravaśyaṃ) [shows](vyaṃjatī) [own-body](nijavarṣmaṇā)
+from-excessive-bliss(ati+ānaṃdāt) helplessness(pāravaśyaṃ) manifesting(vyaṃjatī) with-her-own-body(nija+varṣmaṇā)
 
 ## mukta-m0-p41-v1015
-[ah-bliss](ahonānaṃda) [all-self](sarvasvam) [experienced](anubhūtaṃ) [by-me-now](mayādhunā)
+ah(aho) + bliss-essence(nānaṃda+sarvasvam) + experienced(anubhūtaṃ) by-me(mayā) + now(adhunā)
 
 ## mukta-m0-p41-v1016
-[ah-linga-great-lord](aholiṃgamaheśasya) [satisfaction-great-sacrifice](saṃtarpaṇamahāmakhaḥ)
+ah(aho) + of-liṅga-maheśa(liṃga+maheśasya) satisfaction-great-sacrifice(saṃtarpaṇa+mahā+makhaḥ)
 
 ## mukta-m0-p41-v1017
-[ah-satisfied](ahotṛptāsmimattāsmi) [accomplished](caritārthāsmi) [abundantly](bhūyasā)
+ah(aho) + satisfied-am-I(tṛptā+asmi) + intoxicated-am-I(mattā+asmi) fulfilled-am-I(carita+arthā+asmi) abundantly(bhūyasā)
 
 ## mukta-m0-p41-v1018
-[from-birth-death](ājanmamaraṇaṃ) [your](tvatkaṃ) [foot](caraṇaṃ) [refuge](śaraṇaṃ) [mine](mama)
+from-birth-to-death(ā+janma+maraṇaṃ) your(tvatkaṃ) feet(caraṇaṃ) refuge(śaraṇaṃ) my(mama)
 
 ## mukta-m0-p41-v1019
-[self](svayaṃ) [house-embrace](gṛhasamāśleṣāṃ) [me](māmathāpyurarīkuru)
+yourself(svayaṃ) household-embrace(gṛha+samāśleṣāṃ) of-love(māmathā) + waters(āpyuḥ) + make-favorable(arī+kuru)
 
 ## mukta-m0-p41-v1020
-[self-even](svayamapyayam) [embracing](āśliṣya) [hero](vīrastāṃrajanīṃ) [leads](nayet)
+himself(svayam) + also(api) + this-one(ayam) + having-embraced(āśliṣya) the-hero(vīraḥ) + that-night(tāṃ+rajanīṃ) should-spend(nayet)
 
 ## mukta-m0-p41-v1021
-[greatness](māhātmyaṃ) [to-all](sakalebhyo'pi) [than-sacrifices](kratubhyo'pyadhikaṃ) [fruit](phalam)
+greatness(māhātmyaṃ) than-all(sakalebhyaḥ) + also(api) than-sacrifices(kratubhyaḥ) + also(api) + greater(adhikaṃ) fruit(phalam)
 
 ## mukta-m0-p41-v1022
-[love-sacrifice](ratādhvaro) [living-liberation](jīvanmuktir) [great-offering](mahāhutir) [thus-goddess](itīśvarī)
+love-sacrifice(rata+adhvaraḥ) + living-liberation(jīvat+muktiḥ) + great-oblation(mahā+hutiḥ) + thus(iti) + O-goddess(īśvarī)
 
 ## mukta-m0-p41-v1023
-[fruit-bound-state](phalenibaddhabhāvānām) [at-indra](atyeṃdra) [foot-born](padasaṃbhavaḥ)
+for-those-whose-minds-are-bound-to-fruit(phala+nibaddha+bhāvānām) attainment-of-the-state-beyond-Indra(ati+iṃdra+pada+saṃbhavaḥ)
 
 ## mukta-m0-p41-v1024
-[of-indra](iṃdrasyeṃdratvam) [by-this](etena) [great-sacrifice](mahāyāgena) [beautiful](suṃdari)
+of-Indra(iṃdrasya) + Indra-hood(iṃdratvam) + by-this(etena) great-sacrifice(mahā+yāgena) O-beautiful-one(suṃdari)
 
 ## mukta-m0-p41-v1025
-[of-rudra](rudrasya) [rudra-authority](rudrādhikṛtir) [water-lordship](jaleśatvaṃ) [varuna](pracetasaḥ)
+of-Rudra(rudrasya) Rudra-sovereignty(rudra+adhikṛtiḥ) + lordship-over-waters(jala+īśatvaṃ) of-Varuṇa(pracetasaḥ)

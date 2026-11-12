@@ -1,12 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 347,
- "question": "What bodily signs arise in the first and second stages of practice?",
+ "question": "What bodily signs appear in the first two stages of this practice?",
  "premises": [
-  "A first stage is associated with trembling",
-  "A second stage is associated with shaking"
+  "The practice produces sequential signs",
+  "Trembling comes first",
+  "Shaking occurs as the second sign"
  ],
- "inference": "Trembling comes first and shaking arises as the second sign",
- "uncertainties": [],
- "plain_english": "First trembling comes, and shaking is the second."
+ "inference": "The first sign is trembling and the second is shaking.",
+ "uncertainties": [
+  "kampamāyāti and dhūnanantu are fused forms; syntactic roles are compressed"
+ ],
+ "plain_english": "First trembling arises, and shaking is the second."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 214,
- "question": "What three classes of figures are being enumerated as a complete set in this context?",
+ "question": "What claim about classification is at stake in grouping innate, family-born, and door-guardian figures under a total class?",
  "premises": [
-  "All innate figures are named.",
-  "All family-born figures are named.",
-  "All door guardians are named."
+  "Figures described as all-innate are posited.",
+  "Figures described as all-family-born are posited.",
+  "Figures described as all-door-guardians are posited as a related class."
  ],
- "inference": "Three complete classes are enumerated together as all innate, all family-born and all door guardians.",
- "uncertainties": [],
- "plain_english": "All innate, all family-born, and all door guardians."
+ "inference": "Three classes are presented together as forming a related total set in this context.",
+ "uncertainties": [
+  "The relation between these three classes is not specified by this verse alone."
+ ],
+ "plain_english": "All innate, all family-born, and all door-guardians are here set forth."
 }

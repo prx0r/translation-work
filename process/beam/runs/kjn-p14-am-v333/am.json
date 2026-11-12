@@ -1,12 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 333,
- "question": "What wondrous and wonder-causing teaching is the goddess asked to hear?",
+ "question": "What kind of wondrous teaching is the goddess asked to hear now?",
  "premises": [
-  "The goddess is commanded to hear",
-  "The subject is wondrous and causes great wonder"
+  "The goddess is addressed directly",
+  "She is asked to listen",
+  "The teaching is wondrous and causes great amazement"
  ],
- "inference": "The goddess is invited to hear a wondrous teaching that produces great amazement",
- "uncertainties": [],
- "plain_english": "Hear, O goddess, this wondrous teaching that causes great amazement."
+ "inference": "The goddess is invited to hear a wondrous teaching that produces great amazement.",
+ "uncertainties": [
+  "tvamadbhutaṃ is fused; case relation of adbhutaṃ depends on parsing"
+ ],
+ "plain_english": "O goddess, hear this wondrous teaching that causes great amazement."
 }

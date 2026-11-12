@@ -1,15 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "What are the first two forms enumerated in the classification of practitioners?",
+ "question": "What are the first two forms described in this enumeration?",
  "premises": [
-  "The first is characterized by a boy's form.",
-  "The second is characterized by a madman's form.",
-  "Both are presented as sequential types."
+  "The first is characterized by the form of a boy",
+  "The second is characterized by the form of a madman",
+  "These are listed in sequence"
  ],
- "inference": "The first two types are the one in boy form and the one in madman form.",
- "uncertainties": [
-  "The noun being classified is implied from context rather than stated."
- ],
+ "inference": "The enumeration begins with a boy-like form and continues with a madman-like form.",
+ "uncertainties": [],
  "plain_english": "The first is in the form of a boy, and the second has the form of a madman."
 }

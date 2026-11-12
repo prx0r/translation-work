@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[by-secret](guptena) [by-this](anena) [by-path](mārgeṇa) [difficult-even-taste](durgesamarasaḥ) [becomes](bhavet)
+[secret](guptena) [by-this](anena) [by-path](mārgeṇa) [in-fortress+in-battle](durge+samaraso) [one-becomes](bhavet)
 
 ## mukta-m0-p42-v1027
-[being-done](kriyamāṇaḥ) [fruit](phalaṃ) [gives](dhatte) [done](kṛtaḥ) [fruit-giving](phaladāyakaḥ)
+[being-performed](kriyamāṇaḥ) [fruit](phalaṃ) [it-gives](dhatte) [and-done](kṛtaḥ) [and](ca) [fruit-giving](phala+dāyakaḥ)
 
 ## mukta-m0-p42-v1028
-[being-spoken](ucyamānaḥ) [also](api) [with-compassion](nudayā) [with-obstruction](sahabādhnāti) [friendship](mitratām)
+[being-spoken](ucyamānaḥ) [even](api) [with-joy](nudayā) [together](saha) [it-binds](bādhnāti) [friendship](mitratām)
 
 ## mukta-m0-p42-v1029
-[not](nā) [with-this](anena) [equal](sadṛśaṃ) [action](karma) [not](nā) [with-this](anena) [equal](sadṛśaṃ) [austerity](tapaḥ)
+[not](na) [with-this](anena) [equal](sadṛśaṃ) [action](karma) [not](na) [with-this](anena) [equal](sadṛśaṃ) [austerity](tapaḥ)
 
 ## mukta-m0-p42-v1030
-[this](ayaṃ) [indeed](hi) [of-liberation-paths](mokṣamārgāṇām) [path-easy](adhvāsulabha) [movement](saṃcaraḥ)
+[this](ayaṃ) [indeed](hi) [of-liberation-paths](mokṣa+mārgāṇām) [road](adhvā) [easy-to-traverse](sulabha+saṃcaraḥ)
 
 ## mukta-m0-p42-v1031
-[secret-than-secret](guptādguptataraṃ) [action](karma) [hidden-than-hidden](guhyādguhyataraṃ) [indeed-this](tvidam)
+[than-secret](guptāt) [more-secret](guptataraṃ) [action](karma) [than-hidden](guhyāt) [more-hidden](guhyataraṃ) [indeed](tu) [this](idam)
 
 ## mukta-m0-p42-v1032
-[evil-souled](durātma) [bad-conducted](sudrācāreṣu) [very](ati) [anger-blinded](krodhāṃdhabuddhiṣu)
+[among-evil-souled](durātma) [among-bad-conducted](sudrācāreṣu) [exceedingly](ati) [among-anger-blinded-intellects](krodha+aṃdha+buddhiṣu)
 
 ## mukta-m0-p42-v1033
-[benefit-harm-ignorant](hitāhitānabhijñeṣu) [vain-quarrel-making](vṛthākalahakāriṣu)
+[among-those-not-knowing-benefit-and-harm](hita+ahita+anabhijñeṣu) [among-those-doing-useless-quarrel](vṛthā+kalaha+kāriṣu)
 
 ## mukta-m0-p42-v1034
-[time-ignorant](akālajñeṣu) [fools](mūrkheṣu) [śiva-devotion-opposed](harabhakti+virodhiṣu)
+[among-those-not-knowing-proper-time](akāla+jñeṣu) [among-fools](mūrkheṣu) [among-those-opposed-to-devotion-to-Hara](hara+bhakti+virodhiṣu)
 
 ## mukta-m0-p42-v1035
-[fallen-from-height](ārūḍhapatiteṣu) [mother](amba) [long-threaded](dīrgghasūtreṣu) [accomplished](sādhiṣu)
+[among-those-fallen-after-rising](ārūḍha+patiteṣu) [O-mother](aṃba) [among-procrastinating](dīrgghasūtreṣu) [among-practitioners](sādhiṣu)
 
 ## mukta-m0-p42-v1036
-[thieves](malimluceṣu) [dull](maṃdeṣu) [belly-only-nourished](tuṃdumātrābhi+poṣiṣu)
+[among-thieves](malimluceṣu) [among-dull](maṃdeṣu) [among-those-nourished-by-mere-tunduma](tuṃdumātra+abhi+poṣiṣu)
 
 ## mukta-m0-p42-v1037
-[despised](kutsiteṣu) [ill-conducted](kuśīleṣu) [power-hostile](śaktidrohiṣu) [powers](śaktiṣu)
+[among-despised](kutsiteṣu) [among-bad-conducted](kuśīleṣu) [among-those-hostile-to-Śakti](śakti+drohiṣu) [among-powers](śaktiṣu)
 
 ## mukta-m0-p42-v1038
-[cārvāka-doctrine-clinging](cārvākamatalagneṣu) [god-hostile-acting](devadrohakareṣu) [and](ca)
+[among-those-attached-to-Cārvāka-doctrine](cārvāka+mata+lagneṣu) [among-those-committing-treachery-to-gods](deva+droha+kareṣu) [and](ca)
 
 ## mukta-m0-p42-v1039
-[not](na) [to-be-taught](praśyam) [this](idaṃ) [blessed-one](bhadre) [sacrifice-king-great-nectar](yāgarājamahāmṛtam)
+[not](na) [to-be-revealed](praśyam) [this](idam) [O-fair-one](bhadre) [sacrifice-king-great-nectar](yāga+rāja+mahā+amṛtam)
 
 ## mukta-m0-p42-v1040
-[ten-yojana-limit](daśayojanaparyaṃtaṃ) [that](sā) [meritorious](puṇyā) [proclaimed](parikīrttitā)
+[up-to-ten-yojanas](daśa+yojana+paryaṃtaṃ) [that](sā) [sacred](puṇyā) [is-proclaimed](parikīrttitā)
 
 ## mukta-m0-p42-v1041
-[family-pair](kuladvaṃdvam) [by-this-very](anenaiva) [adorned](bhūṣitaṃ) [mountain-daughter](bhūdharātmaje)
+[family-lineage](kula+dvaṃdvam) [by-this-alone](anena) [indeed](eva) [adorned](bhūṣitaṃ) [O-daughter-of-mountain](bhūdhara+ātmaje)
 
 ## mukta-m0-p42-v1042
-[women](yoṣitāṃ) [eye-delight](nayanānaṃda) [moonlight](caṃdrikā) [ocean-stopping](siṃdhūttaṃbhana)
+[of-women](yoṣitāṃ) [eye-delight](nayana+ānaṃda) [ocean-swelling-moonlight](siṃdhu+uttaṃbhana+caṃdrikā)
 
 ## mukta-m0-p42-v1043
-[bee-women](bhṛṃgāṅganā) [song-bonds](gītibaṃdhāḥ) [ca](ca) [what](kā) [O-faithful-wife](sati)
+[bee-woman-born](bhṛṃga+aṅganā+ja) [unrestrained](uddāma) [song-compositions](gīti+baṃdhāḥ) [and](ca) [what](kā) [virtuous-woman](sati)
 
 ## mukta-m0-p42-v1044
-[by-seeing](ālokanena) [of-this](asya) [supreme](paraṃ) [accomplished](kṛtārthaṃ) [thinking](manyamānasāḥ)
+[by-seeing](ālokena) [of-him](asya) [supremely](paraṃ) [fulfilled](kṛtārthaṃ) [considering-themselves](manyamānasāḥ)
 
 ## mukta-m0-p42-v1045
-[like-vajra-of-indra](vajradhārevaśakrasya) [on-mountains](parvateṣu) [here](iha) [O-pārvatī](pārvati)
+[like-thunderbolt-bearer](vajradhāra) [like-Indra](iva) [of-Śakra](śakrasya) [on-mountains](parvateṣu) [here](iha) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p42-v1046
-[in-aṇimā-etc](aṇimādiṣu) [accomplishments](saṃsiddhiṣu) [skill](vipāṭava) [obtains](mṛcchati)
+[in-aṇimā-etc.](aṇimā+ādiṣu) [in-accomplishments](saṃsiddhiṣu) [not](a) [skill](pāṭavam) [attains](ṛcchati)
 
 ## mukta-m0-p42-v1047
-[fire-following](vahnarapyanuvarttinyaḥ) [wax-dolls](jātuṣyā+iva+putrikāḥ)
+[of-fire](vahnaḥ) [also](api) [following](anuvarttinyaḥ) [made-of-lac](jātuṣyāḥ) [like](iva) [dolls](putrikāḥ)
 
 ## mukta-m0-p42-v1048
-[having-made-offering](upāyanīkṛtya) [and](ca) [him](taṃ) [serve](sevaṃte) [royal-women](rājayoṣitaḥ)
+[having-made-offering](upāyanī+kṛtya) [and](ca) [him](taṃ) [they-serve](sevaṃte) [royal-women](rāja+yoṣitaḥ)
 
 ## mukta-m0-p42-v1049
-[mountains](parvatān) [these](eṣu) [do](kurvaṃti) [who](ye) [great-sacrifice-supreme](mahāyāgamuttamam)
+[on-mountains](parvatān) [in-these](eṣu) [they-perform](kurvaṃti) [who](ye) [great-sacrifice](mahā+yāgam) [supreme](uttamam)
 
 ## mukta-m0-p42-v1050
-[forest](araṇya) [in-middle](madhye) [who](ye) [sacrifice](yāgam) [at-midnight](arddharātreṣu) [do](kurvate)
+[in-forest-middle](araṇya+madhye) [who](ye) [sacrifice](yāgam) [at-midnights](arddharātreṣu) [perform](kurvate)

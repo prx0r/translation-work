@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 217,
- "question": "What is prescribed to be given in other contexts, and what is its form?",
+ "question": "What claim about transmission is at stake in requiring that the arrangement of the two syllables be given in other contexts?",
  "premises": [
-  "The arrangement of two syllables is specified.",
-  "It is to be given in other contexts.",
-  "The action is prescribed by an optative."
+  "The arrangement of the two syllables is a defined element.",
+  "It is to be caused to be given.",
+  "This is prescribed in other contexts."
  ],
- "inference": "In other contexts, one should cause the arrangement of two syllables to be given.",
- "uncertainties": [],
- "plain_english": "In other contexts, one should give the arrangement of two syllables."
+ "inference": "In contexts other than the one stated, the arrangement of the two syllables is to be transmitted by the prescribed means.",
+ "uncertainties": [
+  "The identity of 'others' and the agent are not specified by this verse alone."
+ ],
+ "plain_english": "One should cause the arrangement of the two syllables to be given among others."
 }

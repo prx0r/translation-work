@@ -6,58 +6,59 @@
    "rows": [
     {
      "surface": "kathitaṃ",
-     "gloss": "told",
-     "grounds": "past passive participle indicating something declared",
-     "morph": "n.nom.sg.ppp √kath"
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been told",
+     "morph": "n.nom.sg.ppp (√kath)"
     },
     {
      "surface": "melakaṃ",
-     "gloss": "union",
-     "grounds": "meeting or confluence, object of declaration",
+     "gloss": "meeting-place",
+     "grounds": "noun denoting the place of union or assembly",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sthānaṃ",
-     "gloss": "place",
-     "grounds": "abode or location, object of hearing",
+     "gloss": "abode",
+     "grounds": "noun denoting a location or seat",
      "morph": "n.nom.sg"
     },
     {
      "surface": "śrutaṃ",
      "gloss": "heard",
-     "grounds": "past passive participle indicating something received by hearing",
-     "morph": "n.nom.sg.ppp √śru"
+     "grounds": "past passive participle indicating what has been received by hearing",
+     "morph": "n.nom.sg.ppp (√śru)"
     },
     {
      "surface": "te",
      "gloss": "by-you",
-     "grounds": "addressee who has heard the teaching",
-     "morph": "pron.gen.sg"
+     "grounds": "second-person pronoun indicating the recipient or agent of hearing",
+     "morph": "pron.2.gen.sg"
     },
     {
      "surface": "ceṣṭitaṃ",
-     "gloss": "desired",
-     "grounds": "past passive participle indicating what is sought or wished for",
-     "morph": "n.nom.sg.ppp √ceṣṭ"
+     "gloss": "sought",
+     "grounds": "past passive participle indicating what is desired or undertaken",
+     "morph": "n.nom.sg.ppp (√ceṣṭ)"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "qualifies the desired object as beneficial",
+     "grounds": "adjective qualifying the desired outcome as beneficial",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Which auspicious union, place, and desired object have now been conveyed?",
+   "question": "What auspicious matters concerning the meeting place have been declared and heard?",
    "premises": [
-    "The union has been declared.",
-    "The place has been heard by you.",
-    "The desired object is characterized as auspicious."
+    "The meeting place and abode have been declared.",
+    "These matters have been heard by the listener.",
+    "The sought outcome is described as auspicious."
    ],
-   "inference": "The teaching concerning the auspicious union, place, and desired object has been fully communicated.",
+   "inference": "The teaching has successfully communicated the auspicious nature of the declared meeting place and abode to the listener.",
    "uncertainties": [
-    "The exact syntactic grouping of ceṣṭitaṃ and śubham with the preceding nouns is somewhat ambiguous."
+    "The precise doctrinal referent of melakaṃ and sthānaṃ depends on the broader context.",
+    "ceṣṭitaṃ could be read as 'activity' or 'endeavor' rather than 'sought'."
    ],
-   "plain_english": "The union has been told, the place has been heard by you, and the auspicious desired thing has been conveyed."
+   "plain_english": "The meeting place and abode have been declared; you have heard of the auspicious goal that is sought."
   }
  ]
 }
