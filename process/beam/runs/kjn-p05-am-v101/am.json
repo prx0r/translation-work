@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 101,
- "question": "From whom must this Kaula teaching be carefully concealed in the mortal world?",
+ "question": "Under what conditions must a particular teaching remain concealed rather than be disclosed in the mortal world?",
  "premises": [
-  "The teaching is to be concealed",
-  "Concealment requires deliberate effort",
-  "The context is the mortal world among lowest men"
+  "A teaching must be concealed with effort.",
+  "The mortal world contains those unfit to receive it.",
+  "Only the lowest among men lack fitness for such a teaching."
  ],
- "inference": "This teaching must be kept secret with effort from the lowest people in the mortal world.",
- "uncertainties": [],
- "plain_english": "It must be carefully concealed in the mortal world from the lowest of men."
+ "inference": "Concealment is a duty imposed by the unfitness of the audience in the mortal world.",
+ "uncertainties": [
+  "Extent of effort required remains unspecified."
+ ],
+ "plain_english": "This teaching must be concealed with effort in the mortal world, especially among the lowest of men."
 }

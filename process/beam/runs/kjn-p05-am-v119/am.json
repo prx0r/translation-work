@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 119,
- "question": "What auspicious knowledge about overcoming time does the speaker now wish to hear?",
+ "question": "What auspicious knowledge does the speaker now wish to hear concerning time?",
  "premises": [
-  "The speaker expresses a wish now",
-  "The wish is to hear about time",
-  "The topic is the auspicious deception of time"
+  "The speaker now wishes to hear.",
+  "The object of hearing is the deception of time.",
+  "That deception is described as auspicious to know."
  ],
- "inference": "The speaker wishes to hear the auspicious teaching on overcoming time.",
- "uncertainties": [],
- "plain_english": "Now I wish to hear the auspicious teaching on overcoming time."
+ "inference": "The speaker wishes to hear the auspicious teaching concerning the deception of time.",
+ "uncertainties": [
+  "The content of that teaching is not given here."
+ ],
+ "plain_english": "Now I wish to hear the auspicious deception of time."
 }
