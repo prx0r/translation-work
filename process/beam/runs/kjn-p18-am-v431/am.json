@@ -1,14 +1,15 @@
 {
  "song": "kjn-p18",
  "verse": 431,
- "question": "What is seated upon the pair of bows?",
+ "question": "What is located between the pair of bows in this fragmentary description?",
  "premises": [
-  "The compound describes something seated upon two bows",
-  "The verse is incomplete"
+  "A location between two bows is specified",
+  "Something is seated or placed there",
+  "The rest of the description is missing"
  ],
- "inference": "The verse names a bow-pair seated state but lacks the rest.",
+ "inference": "The verse identifies a presence situated between two bows, but its identity is not preserved.",
  "uncertainties": [
-  "The missing text prevents full interpretation"
+  "The subject located between the bows is missing"
  ],
- "plain_english": "Seated upon the pair of bows."
+ "plain_english": "Seated between the two bows..."
 }

@@ -7,14 +7,14 @@
     {
      "surface": "nādaṃ",
      "gloss": "sound",
-     "grounds": "object of emission",
+     "grounds": "object emitted",
      "morph": "m.acc.sg"
     },
     {
      "surface": "pramuñcate",
      "gloss": "emits",
-     "grounds": "action of releasing",
-     "morph": "3.sg.pres.middle pra-muc"
+     "grounds": "action of releasing sound",
+     "morph": "3.sg.middle-present √muc"
     },
     {
      "surface": "devi",
@@ -25,7 +25,7 @@
     {
      "surface": "mahāvegañ",
      "gloss": "great-speed",
-     "grounds": "intense force; sandhi form",
+     "grounds": "quality arising with sound",
      "morph": "m.acc.sg"
     },
     {
@@ -38,20 +38,20 @@
      "surface": "jāyate",
      "gloss": "arises",
      "grounds": "coming into being",
-     "morph": "3.sg.pres.middle jan"
+     "morph": "3.sg.middle-present √jan"
     }
    ],
-   "question": "What sonic force is emitted and arises in this experiential process?",
+   "question": "What sound and force arise in this experiential process?",
    "premises": [
     "A sound is emitted.",
-    "Great speed or force arises together with it.",
-    "The goddess is addressed as witness or recipient."
+    "Great speed also arises.",
+    "The goddess is addressed as witness."
    ],
-   "inference": "The process produces both sound and a powerful arising force.",
+   "inference": "The process produces both resonant sound and intense dynamic force.",
    "uncertainties": [
-    "The exact subject emitting the sound is implicit."
+    "The subject emitting the sound is not explicitly named."
    ],
-   "plain_english": "O goddess, it emits the sound, and great force arises."
+   "plain_english": "O goddess, it emits the sound, and great speed arises."
   },
   {
    "verse": 402,
@@ -65,25 +65,25 @@
     {
      "surface": "ūrddhamparaṃ",
      "gloss": "higher-beyond",
-     "grounds": "further elevated stage",
+     "grounds": "further elevated teaching",
      "morph": "n.acc.sg"
     },
     {
      "surface": "guhyaṃ",
      "gloss": "secret",
-     "grounds": "esoteric teaching",
+     "grounds": "esoteric quality",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
      "grounds": "command to listen",
-     "morph": "2.sg.imp.act śru"
+     "morph": "2.sg.active-imperative √śru"
     },
     {
      "surface": "tvañ",
      "gloss": "you",
-     "grounds": "addressee; sandhi form",
+     "grounds": "addressee",
      "morph": "pron.nom.sg"
     },
     {
@@ -95,21 +95,19 @@
     {
      "surface": "parāparam",
      "gloss": "higher-lower",
-     "grounds": "both transcendent and immanent",
+     "grounds": "teaching spanning supreme and non-supreme",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What further secret teaching beyond the previous stage is now revealed?",
+   "question": "What further secret teaching beyond the previous stage is to be heard?",
    "premises": [
     "The discourse moves beyond the prior point.",
-    "A secret teaching is offered to be heard.",
-    "That teaching concerns the higher and the lower together."
+    "A higher and secret teaching is offered.",
+    "The teaching encompasses both higher and lower aspects."
    ],
-   "inference": "The next instruction reveals a secret that unites transcendent and immanent levels.",
-   "uncertainties": [
-    "The precise content of the secret is not yet specified."
-   ],
-   "plain_english": "From here onward, hear now the higher secret that is both supreme and non-supreme."
+   "inference": "The listener is invited to receive a more esoteric teaching that transcends and includes levels.",
+   "uncertainties": [],
+   "plain_english": "Now hear from me a higher, secret teaching that is both supreme and non-supreme."
   },
   {
    "verse": 403,
@@ -134,8 +132,8 @@
     },
     {
      "surface": "grāmadharmañ",
-     "gloss": "village-dharma",
-     "grounds": "ordinary social conduct; sandhi form",
+     "gloss": "village-conduct",
+     "grounds": "ordinary social norms",
      "morph": "m.acc.sg"
     },
     {
@@ -148,20 +146,20 @@
      "surface": "varjayet",
      "gloss": "one-should-avoid",
      "grounds": "prescriptive injunction",
-     "morph": "3.sg.opt.act vṛj"
+     "morph": "3.sg.active-optative √vṛj"
     }
    ],
-   "question": "What conduct must the practitioner abandon through constant spiritual practice?",
+   "question": "What conduct must the practitioner abandon through constant practice?",
    "premises": [
-    "Practice is to be performed constantly.",
-    "The hero practitioner is directly addressed.",
-    "Ordinary village dharma is to be avoided."
+    "Constant practice is enjoined.",
+    "The hero is directly addressed.",
+    "Ordinary village conduct is named as to be avoided."
    ],
    "inference": "Sustained practice requires renouncing conventional social conduct.",
    "uncertainties": [
-    "The scope of 'village-dharma' may be literal or symbolic."
+    "The exact scope of village conduct is not specified."
    ],
-   "plain_english": "O hero, through constant practice one should avoid the ways of ordinary village life."
+   "plain_english": "O hero, through constant practice one should avoid ordinary worldly conduct."
   },
   {
    "verse": 404,
@@ -169,13 +167,13 @@
     {
      "surface": "jarā-maraṇanirmukto",
      "gloss": "old-age-death-freed",
-     "grounds": "liberated from decay and death",
-     "morph": "m.nom.sg compound: jarā-maraṇa+nir-mukta"
+     "grounds": "liberation from decay and death",
+     "morph": "m.nom.sg (compound: jarā-maraṇa+coord, nirmukta+head)"
     },
     {
      "surface": "nityaṃ",
      "gloss": "eternally",
-     "grounds": "permanent condition",
+     "grounds": "permanent state",
      "morph": "(indecl.)"
     },
     {
@@ -199,14 +197,12 @@
    ],
    "question": "What liberated condition results from the prescribed yogic discipline?",
    "premises": [
-    "Freedom from old age and death is attained.",
+    "Freedom from old age and death is stated.",
     "This freedom is described as eternal.",
     "The beloved yoginī is addressed."
    ],
-   "inference": "The practice leads to enduring liberation from aging and death.",
-   "uncertainties": [
-    "Whether this liberation is bodily or spiritual is not explicit."
-   ],
+   "inference": "The practitioner attains permanent liberation from aging and death.",
+   "uncertainties": [],
    "plain_english": "O beloved yoginī, one becomes eternally freed from old age and death."
   },
   {
@@ -228,13 +224,13 @@
      "surface": "pravakṣyāmi",
      "gloss": "i-shall-declare",
      "grounds": "promise of teaching",
-     "morph": "1.sg.fut.act pra-vac"
+     "morph": "1.sg.active-future √vac"
     },
     {
      "surface": "randhrakauśalasya",
      "gloss": "aperture-skill",
-     "grounds": "expertise regarding openings",
-     "morph": "n.gen.sg compound: randhra+kauśala"
+     "grounds": "expertise regarding subtle openings",
+     "morph": "n.gen.sg (compound: randhra+first, kauśala+head)"
     },
     {
      "surface": "nirṇayam",
@@ -245,15 +241,15 @@
    ],
    "question": "What definitive teaching about skill in the apertures will be declared next?",
    "premises": [
-    "The speaker announces a further teaching.",
+    "The speaker announces a further declaration.",
     "The topic is skill related to apertures.",
-    "A definitive determination will be given."
+    "A definitive determination is promised."
    ],
-   "inference": "The next section will explain the precise method concerning the apertures.",
+   "inference": "The next instruction will clarify the mastery of subtle apertures.",
    "uncertainties": [
-    "The specific apertures intended are not named here."
+    "The specific apertures intended are not identified here."
    ],
-   "plain_english": "From here onward I shall declare the definitive teaching on skill in the apertures."
+   "plain_english": "Now I shall declare the definitive teaching on skill in the apertures."
   },
   {
    "verse": 406,
@@ -268,31 +264,29 @@
      "surface": "tulyabalo",
      "gloss": "equal-strength",
      "grounds": "equal in power",
-     "morph": "m.nom.sg compound: tulya+bala"
+     "morph": "m.nom.sg (compound: tulya+first, bala+head)"
     },
     {
      "surface": "bhūtvā",
      "gloss": "having-become",
-     "grounds": "prior attainment",
-     "morph": "(gerund) bhū"
+     "grounds": "attainment of state",
+     "morph": "(indecl., absolutive) √bhū"
     },
     {
      "surface": "saṃhārasṛṣṭikārakam",
      "gloss": "dissolution-creation-making",
      "grounds": "agent of destruction and creation",
-     "morph": "m.acc.sg compound: saṃhāra-sṛṣṭi+kāraka"
+     "morph": "m.acc.sg (compound: saṃhāra-sṛṣṭi+coord, kāraka+head)"
     }
    ],
-   "question": "What divine capacity is attained by becoming equal in strength to the speaker?",
+   "question": "What divine power is attained by becoming equal in strength to the speaker?",
    "premises": [
     "One becomes equal in strength to the speaker.",
-    "This state is described as having been attained.",
-    "The result is the power to effect dissolution and creation."
+    "This state enables making dissolution and creation.",
+    "The attainment is described as a transformation."
    ],
    "inference": "Attaining equality with the speaker grants power over dissolution and creation.",
-   "uncertainties": [
-    "The identity of the speaker is implied but not stated in this verse."
-   ],
+   "uncertainties": [],
    "plain_english": "Having become equal in strength to me, one becomes capable of dissolution and creation."
   },
   {
@@ -301,7 +295,7 @@
     {
      "surface": "visarjaḥ",
      "gloss": "emission",
-     "grounds": "act or point of release",
+     "grounds": "outflowing principle",
      "morph": "m.nom.sg"
     },
     {
@@ -319,8 +313,8 @@
     {
      "surface": "tasmiṃścitte",
      "gloss": "in-that-mind",
-     "grounds": "location in that mind; internal sandhi",
-     "morph": "n.loc.sg compound: tasmin+citta"
+     "grounds": "location in awareness; internal sandhi tasmin+citte",
+     "morph": "n.loc.sg (compound: tad+first, citta+head)"
     },
     {
      "surface": "sthiraṃ",
@@ -335,17 +329,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What Kaula emission must remain steadily established in that mind?",
+   "question": "How should the Kaula emission remain established within the mind?",
    "premises": [
     "A Kaula emission is identified.",
-    "It is located in that mind.",
-    "It should remain steady always."
+    "The mind is the locus of stability.",
+    "Steadiness is to be maintained always."
    ],
-   "inference": "The Kaula emission is to be held constantly stable within the mind.",
+   "inference": "The Kaula emission must be held steadily and continuously in the mind.",
    "uncertainties": [
-    "The referent of 'that mind' depends on prior context."
+    "The precise nature of the emission is not fully explained."
    ],
-   "plain_english": "O goddess, the Kaula emission should always remain steady in that mind."
+   "plain_english": "O goddess, the Kaula emission should remain always steady in that mind."
   },
   {
    "verse": 408,
@@ -353,8 +347,8 @@
     {
      "surface": "kapālaghaṭṭikā",
      "gloss": "skull-vessel",
-     "grounds": "cranial container or aperture",
-     "morph": "f.nom.sg compound: kapāla+ghaṭṭikā"
+     "grounds": "cranial container or center",
+     "morph": "f.nom.sg (compound: kapāla+first, ghaṭṭikā+head)"
     },
     {
      "surface": "devi",
@@ -371,8 +365,8 @@
     {
      "surface": "sthāpitaṃ",
      "gloss": "placed",
-     "grounds": "established or set",
-     "morph": "n.nom.sg past-participle sthā"
+     "grounds": "established or deposited",
+     "morph": "n.nom.sg (past-participle) √sthā"
     },
     {
      "surface": "priye",
@@ -381,17 +375,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What hidden placement within the skull-vessel is being indicated here?",
+   "question": "Where is the hidden principle established according to this teaching?",
    "premises": [
-    "The skull-vessel is named.",
-    "Something is hidden there.",
-    "That hidden element has been placed or established."
+    "A skull-vessel is named.",
+    "Something is described as hidden.",
+    "That hidden element is placed there."
    ],
-   "inference": "A concealed element is established within the skull-vessel.",
+   "inference": "A concealed principle is established within the skull-vessel.",
    "uncertainties": [
-    "The exact object placed in the skull-vessel is not specified."
+    "What exactly is placed in the skull-vessel is not explicitly stated."
    ],
-   "plain_english": "O beloved goddess, it is hidden and placed within the skull-vessel."
+   "plain_english": "O beloved goddess, it is hidden and placed in the skull-vessel."
   },
   {
    "verse": 409,
@@ -405,31 +399,31 @@
     {
      "surface": "maṃkṣuṇo",
      "gloss": "or",
-     "grounds": "alternative particle; form uncertain",
+     "grounds": "alternative marker in text",
      "morph": "(indecl.)"
     },
     {
      "surface": "vāpi",
-     "gloss": "or",
-     "grounds": "alternative particle",
+     "gloss": "or-also",
+     "grounds": "alternative connective",
      "morph": "(indecl.)"
     },
     {
      "surface": "vyāghrasiṃhagajastathā",
      "gloss": "tiger-lion-elephant-likewise",
-     "grounds": "large creatures listed together; internal sandhi",
-     "morph": "m.nom.sg compound: vyāghra-siṃha-gaja+tathā"
+     "grounds": "large creature examples; internal sandhi gajaḥ+tathā",
+     "morph": "m.nom.sg (compound: vyāghra-siṃha-gaja+coord, tathā+indecl.)"
     }
    ],
-   "question": "What range of beings illustrates the scope of the teaching's application?",
+   "question": "What range of beings illustrates the scope of this Kaula principle?",
    "premises": [
     "A fly is mentioned as one example.",
-    "Alternative markers indicate other possibilities.",
-    "Tiger, lion, and elephant are also included."
+    "Tiger, lion, and elephant are mentioned as others.",
+    "The examples span small and large beings."
    ],
-   "inference": "The teaching applies across beings from the smallest to the largest.",
+   "inference": "The principle applies across vastly different forms of life.",
    "uncertainties": [
-    "The form 'maṃkṣuṇo' is unclear and may be corrupt or dialectal."
+    "The token maṃkṣuṇo is obscure in this context."
    ],
    "plain_english": "Whether a fly or likewise a tiger, lion, or elephant."
   },
@@ -452,24 +446,24 @@
      "surface": "kulavijñānaṃ",
      "gloss": "kula-knowledge",
      "grounds": "knowledge of the Kula",
-     "morph": "n.nom.sg compound: kula+vijñāna"
+     "morph": "n.nom.sg (compound: kula+first, vijñāna+head)"
     },
     {
      "surface": "pāramparyakramāgatam",
      "gloss": "tradition-sequence-come",
      "grounds": "received through lineage",
-     "morph": "n.nom.sg compound: pāramparya-krama+āgata"
+     "morph": "n.nom.sg (compound: pāramparya-krama+first, āgata+head)"
     }
    ],
-   "question": "What is the authoritative source of this Kula knowledge?",
+   "question": "What is the source and nature of this Kula knowledge?",
    "premises": [
-    "This is identified as Kula knowledge.",
-    "It has come down through succession.",
-    "The transmission follows a traditional sequence."
+    "The teaching is identified as Kula knowledge.",
+    "It has come through an ordered tradition.",
+    "Its transmission is emphasized as authoritative."
    ],
-   "inference": "This Kula knowledge derives its authority from lineage transmission.",
+   "inference": "This Kula knowledge is authentic because it is transmitted through lineage.",
    "uncertainties": [],
-   "plain_english": "This indeed is the knowledge of Kula, received through the sequence of tradition."
+   "plain_english": "This indeed is Kula knowledge, received through the succession of tradition."
   },
   {
    "verse": 411,
@@ -477,41 +471,41 @@
     {
      "surface": "tasmāt",
      "gloss": "therefore",
-     "grounds": "conclusion from prior statement",
+     "grounds": "consequential conclusion",
      "morph": "(indecl.)"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "entirety of the teaching",
+     "grounds": "total scope",
      "morph": "n.acc.sg"
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
      "grounds": "diligent manner",
-     "morph": "m.inst.sg"
+     "morph": "m.ins.sg"
     },
     {
      "surface": "jñātavyaṃ",
      "gloss": "to-be-known",
      "grounds": "obligation to understand",
-     "morph": "n.nom.sg gerundive jñā"
+     "morph": "n.nom.sg (gerundive) √jñā"
     },
     {
      "surface": "kulalakṣaṇam",
      "gloss": "kula-characteristic",
      "grounds": "defining mark of Kula",
-     "morph": "n.acc.sg compound: kula+lakṣaṇa"
+     "morph": "n.nom.sg (compound: kula+first, lakṣaṇa+head)"
     }
    ],
-   "question": "Why must the defining characteristic of Kula be known with effort?",
+   "question": "How should the defining characteristic of Kula be approached by the seeker?",
    "premises": [
-    "The prior verse establishes lineage authority.",
-    "All of it must be known.",
-    "Knowing requires deliberate effort."
+    "A conclusion is drawn from prior teaching.",
+    "The characteristic of Kula must be known.",
+    "Effort is required in knowing it."
    ],
-   "inference": "Because it is a transmitted Kula teaching, its defining characteristic must be diligently understood.",
+   "inference": "The seeker must diligently come to know the defining mark of Kula.",
    "uncertainties": [],
    "plain_english": "Therefore, the characteristic of Kula must be known in its entirety with effort."
   },
@@ -521,14 +515,14 @@
     {
      "surface": "vyāpayitvā",
      "gloss": "having-pervaded",
-     "grounds": "prior act of pervasion",
-     "morph": "(gerund) vyāp"
+     "grounds": "act of pervading",
+     "morph": "(indecl., absolutive) √vyāp"
     },
     {
      "surface": "sthito",
      "gloss": "abiding",
      "grounds": "established state",
-     "morph": "m.nom.sg past-participle sthā"
+     "morph": "m.nom.sg (past-participle) √sthā"
     },
     {
      "surface": "deva",
@@ -539,34 +533,33 @@
     {
      "surface": "tadvad",
      "gloss": "like-that",
-     "grounds": "comparison to prior state",
+     "grounds": "comparative manner",
      "morph": "(indecl.)"
     },
     {
      "surface": "yogīnasopamaḥ",
      "gloss": "yogin-incomparable",
-     "grounds": "yogin without equal; fused form",
-     "morph": "m.nom.sg compound: yogin+an-upama"
+     "grounds": "yogin without equal; internal sandhi yogī+anupamaḥ",
+     "morph": "m.nom.sg (compound: yogin+first, anupama+head)"
     },
     {
      "surface": "?",
-     "gloss": "?",
-     "grounds": "punctuation or uncertain marker",
-     "morph": "(punct.)"
+     "gloss": "question-mark",
+     "grounds": "punctuation as given",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "What incomparable state does the yogin attain after pervading all?",
+   "question": "What incomparable state does the yogin attain by pervading and abiding?",
    "premises": [
-    "Pervasion has been accomplished.",
-    "The yogin abides in that state.",
-    "The yogin is described as incomparable."
+    "Pervasion precedes abiding.",
+    "The yogin is described as incomparable.",
+    "The state is likened to a divine mode."
    ],
-   "inference": "After pervading all, the yogin abides in an incomparable state.",
+   "inference": "By pervading all and abiding, the yogin reaches an incomparable state.",
    "uncertainties": [
-    "The final token '?' is unclear in function.",
-    "The compound 'yogīnasopamaḥ' may be read differently."
+    "The final punctuation token suggests an incomplete or interrogative transmission."
    ],
-   "plain_english": "O god, having pervaded all and abiding thus, the yogin becomes incomparable."
+   "plain_english": "O god, having pervaded and abiding thus, the yogin becomes incomparable?"
   },
   {
    "verse": 413,
@@ -580,14 +573,14 @@
     {
      "surface": "jalaṃ",
      "gloss": "water",
-     "grounds": "element to be excluded from thought",
+     "grounds": "element not to be contemplated",
      "morph": "n.acc.sg"
     },
     {
      "surface": "cintayeddevi",
      "gloss": "one-should-think-o-goddess",
-     "grounds": "injunction with vocative; fused form",
-     "morph": "3.sg.opt.act cint + f.voc.sg devi"
+     "grounds": "injunction with vocative; internal sandhi cintayet+devi",
+     "morph": "3.sg.active-optative √cint (fused with vocative)"
     },
     {
      "surface": "devi",
@@ -604,19 +597,19 @@
     {
      "surface": "vahnivāyurākāśam",
      "gloss": "fire-wind-ether",
-     "grounds": "other elements excluded; internal sandhi",
-     "morph": "n.acc.sg compound: vahni-vāyu+ākāśa"
+     "grounds": "other elements not to be contemplated",
+     "morph": "n.acc.sg (compound: vahni-vāyu-ākāśa+coord)"
     }
    ],
-   "question": "Which elemental objects must be excluded from contemplation in this practice?",
+   "question": "Which elemental objects should not be contemplated in this practice?",
    "premises": [
-    "Water should not be contemplated.",
-    "Fire, wind, and ether should not be contemplated.",
-    "The goddess is addressed in the instruction."
+    "Water is excluded from contemplation.",
+    "Fire, wind, and ether are also excluded.",
+    "The instruction is addressed to the goddess."
    ],
-   "inference": "The practice requires withdrawing attention from the gross elements.",
+   "inference": "The practice requires transcending contemplation of the gross elements.",
    "uncertainties": [
-    "The token 'cintayeddevi' appears fused and 'devi' is repeated."
+    "The token cintayeddevi appears to fuse verb and vocative, with devi repeated."
    ],
    "plain_english": "O goddess, one should not contemplate water, nor fire, wind, or ether."
   },
@@ -625,15 +618,15 @@
    "rows": [
     {
      "surface": "manasya",
-     "gloss": "in-mind",
-     "grounds": "location in the mind; form uncertain",
-     "morph": "n.loc.sg"
+     "gloss": "of-mind",
+     "grounds": "locus of transformation",
+     "morph": "n.gen.sg"
     },
     {
      "surface": "unmanībhāvo",
      "gloss": "transcendent-mind-state",
-     "grounds": "state beyond ordinary mind",
-     "morph": "m.nom.sg compound: unmanī+bhāva"
+     "grounds": "state beyond ordinary mind; internal sandhi unmanībhāvaḥ",
+     "morph": "m.nom.sg (compound: unmanī+first, bhāva+head)"
     },
     {
      "surface": "yadā",
@@ -644,8 +637,8 @@
     {
      "surface": "bhavati",
      "gloss": "becomes",
-     "grounds": "arising of the state",
-     "morph": "3.sg.pres.act bhū"
+     "grounds": "arising of state",
+     "morph": "3.sg.active-present √bhū"
     },
     {
      "surface": "sundari",
@@ -654,17 +647,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What condition arises in the mind when the unmanī state occurs?",
+   "question": "What mental transformation marks the arising of the transcendent state?",
    "premises": [
-    "The context is the mind.",
-    "The unmanī state comes into being.",
-    "This is presented as a conditional moment."
+    "A condition of the mind is described.",
+    "The state is called unmanī, beyond mind.",
+    "Its arising is presented as a decisive moment."
    ],
-   "inference": "When unmanī arises, the mind enters a transcendent condition.",
-   "uncertainties": [
-    "The form 'manasya' is unusual for a locative and may be irregular."
-   ],
-   "plain_english": "O beautiful one, when the state of unmanī arises in the mind."
+   "inference": "When the mind enters the unmanī state, ordinary mentation is transcended.",
+   "uncertainties": [],
+   "plain_english": "O beautiful one, when the state beyond mind arises in the mind."
   },
   {
    "verse": 415,
@@ -672,33 +663,33 @@
     {
      "surface": "ghaṭapaṭasthitastambhā",
      "gloss": "pot-cloth-situated-pillars",
-     "grounds": "ordinary objects and supports; compound",
-     "morph": "m.nom.pl compound: ghaṭa-paṭa-sthita+stambha"
+     "grounds": "ordinary objects and supports; internal sandhi sthita+stambhāḥ",
+     "morph": "m.nom.pl (compound: ghaṭa-paṭa-sthita+first, stambha+head)"
     },
     {
      "surface": "grāmakūpādikaṃ",
      "gloss": "village-well-etc",
-     "grounds": "common village features and so on",
-     "morph": "n.acc.sg compound: grāma-kūpa+ādika"
+     "grounds": "common worldly things",
+     "morph": "n.nom.sg (compound: grāma-kūpa+coord, ādika+head)"
     },
     {
      "surface": "budhaḥ",
      "gloss": "wise-one",
-     "grounds": "the knowing person",
+     "grounds": "knowing subject",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How does the wise one perceive ordinary objects in this altered state?",
+   "question": "What ordinary objects remain perceived by the wise in this context?",
    "premises": [
-    "Common objects like pots, cloths, and pillars are mentioned.",
-    "Village features such as wells are included.",
-    "The wise one is the subject."
+    "Everyday objects like pots, cloths, and pillars are listed.",
+    "Village wells and similar things are included.",
+    "A wise one is the perceiver."
    ],
-   "inference": "The wise one experiences ordinary objects within the context of this state.",
+   "inference": "Even in higher awareness, ordinary worldly objects may still be present to perception.",
    "uncertainties": [
-    "The verb is missing, so the exact relation to the wise one is implicit."
+    "The syntactic role of this verse depends on surrounding context."
    ],
-   "plain_english": "The wise one, amid pots, cloths, pillars, village wells, and the like."
+   "plain_english": "The wise one perceives pots, cloths, pillars, village wells, and such things."
   },
   {
    "verse": 416,
@@ -706,8 +697,8 @@
     {
      "surface": "tāḍyamānan",
      "gloss": "being-struck",
-     "grounds": "subjected to blows; sandhi form",
-     "morph": "m.nom.sg pres.pass.participle taḍ"
+     "grounds": "subjected to blows",
+     "morph": "m.nom.sg (present-participle, passive) √taḍ"
     },
     {
      "surface": "na",
@@ -718,19 +709,19 @@
     {
      "surface": "bodhyate",
      "gloss": "is-aware",
-     "grounds": "perceives or feels",
-     "morph": "3.sg.pres.passive budh"
+     "grounds": "absence of awareness",
+     "morph": "3.sg.passive-present √budh"
     },
     {
      "surface": "jīvas",
      "gloss": "soul",
-     "grounds": "living being; sandhi form",
+     "grounds": "living being; internal sandhi jīvaḥ",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tal",
      "gloss": "that",
-     "grounds": "demonstrative; form uncertain",
+     "grounds": "demonstrative marker as given",
      "morph": "(indecl.)"
     },
     {
@@ -743,20 +734,20 @@
      "surface": "gataḥ",
      "gloss": "gone",
      "grounds": "having entered",
-     "morph": "m.nom.sg past-participle gam"
+     "morph": "m.nom.sg (past-participle) √gam"
     }
    ],
-   "question": "What insensibility characterizes the soul that has entered dissolution?",
+   "question": "What insensibility characterizes the being who has entered dissolution?",
    "premises": [
-    "The being is struck.",
-    "It does not perceive or feel the striking.",
-    "It has gone to the state of dissolution."
+    "The being is struck but does not perceive it.",
+    "The being has gone to a state of dissolution.",
+    "Awareness of external impact is absent."
    ],
-   "inference": "In dissolution, the soul becomes unaware of external impacts.",
+   "inference": "In the state of dissolution, the embodied being becomes unaware of bodily affliction.",
    "uncertainties": [
-    "The token 'tal' is unclear and may be a textual irregularity."
+    "The token tal is unclear and may be a textual irregularity."
    ],
-   "plain_english": "Being struck, the soul does not feel it, having gone into dissolution."
+   "plain_english": "Even when struck, the being is not aware, having gone into the state of dissolution."
   },
   {
    "verse": 417,
@@ -764,7 +755,7 @@
     {
      "surface": "akṣayo",
      "gloss": "imperishable",
-     "grounds": "undecaying nature; sandhi form",
+     "grounds": "undecaying nature; internal sandhi akṣayaḥ",
      "morph": "m.nom.sg"
     },
     {
@@ -776,31 +767,31 @@
     {
      "surface": "amaro",
      "gloss": "immortal",
-     "grounds": "deathless nature; sandhi form",
+     "grounds": "deathless nature; internal sandhi amaraḥ",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhūtvā",
      "gloss": "having-become",
-     "grounds": "attained condition",
-     "morph": "(gerund) bhū"
+     "grounds": "attainment of state",
+     "morph": "(indecl., absolutive) √bhū"
     },
     {
      "surface": "kāmadevadvitīyakaḥ",
-     "gloss": "kāma-deva-second",
-     "grounds": "like a second Kāma-deva",
-     "morph": "m.nom.sg compound: kāmadeva+dvitīyaka"
+     "gloss": "kāma-god-second",
+     "grounds": "likened to a second Kāma; internal sandhi dvitīyakaḥ",
+     "morph": "m.nom.sg (compound: kāmadeva+first, dvitīyaka+head)"
     }
    ],
-   "question": "What exalted identity is gained upon becoming imperishable and immortal?",
+   "question": "What exalted condition is attained by becoming imperishable and immortal?",
    "premises": [
-    "One becomes imperishable.",
-    "One becomes immortal.",
-    "One becomes like a second Kāma-deva."
+    "The practitioner becomes imperishable.",
+    "The practitioner becomes immortal.",
+    "The result is compared to being a second Kāma."
    ],
-   "inference": "Attaining imperishability and immortality confers a godlike identity akin to Kāma-deva.",
+   "inference": "Liberated attainment confers deathless splendor comparable to Kāma.",
    "uncertainties": [],
-   "plain_english": "Having become imperishable and immortal, one becomes like a second Kāma-deva."
+   "plain_english": "Having become imperishable and immortal, one becomes like a second god of love."
   },
   {
    "verse": 418,
@@ -808,13 +799,13 @@
     {
      "surface": "puṣpavṛṣṭipatantasya",
      "gloss": "flower-shower-falling",
-     "grounds": "of falling flower rain",
-     "morph": "f.gen.sg compound: puṣpa-vṛṣṭi+patant"
+     "grounds": "celestial flowers raining down",
+     "morph": "m.gen.sg (compound: puṣpa-vṛṣṭi+first, patat+head)"
     },
     {
      "surface": "pārijātasya",
      "gloss": "of-pārijāta",
-     "grounds": "of the celestial pārijāta",
+     "grounds": "heavenly tree or its flowers",
      "morph": "m.gen.sg"
     },
     {
@@ -824,15 +815,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What celestial imagery accompanies the described exalted state?",
+   "question": "What celestial sign accompanies the exalted state being described?",
    "premises": [
-    "A shower of flowers is falling.",
+    "A shower of flowers is mentioned.",
     "The flowers are associated with the pārijāta.",
-    "The beautiful one is addressed."
+    "The image suggests a celebratory or divine event."
    ],
-   "inference": "The state is accompanied by imagery of a celestial pārijāta flower shower.",
+   "inference": "The attained state is marked by an auspicious celestial flower shower.",
    "uncertainties": [
-    "The main clause is absent, so the image's grammatical role is incomplete."
+    "The grammatical connection to the previous verse is implicit."
    ],
    "plain_english": "O beautiful one, as a shower of pārijāta flowers falls."
   },
@@ -842,8 +833,8 @@
     {
      "surface": "pañcaśrotātmakañ",
      "gloss": "five-stream-consisting",
-     "grounds": "made of five streams; sandhi form",
-     "morph": "n.acc.sg compound: pañca-śrota+ātmaka"
+     "grounds": "composed of five streams",
+     "morph": "n.acc.sg (compound: pañca-śrota+first, ātmaka+head)"
     },
     {
      "surface": "ca",
@@ -860,33 +851,33 @@
     {
      "surface": "mokṣārthaṃ",
      "gloss": "for-liberation",
-     "grounds": "for the sake of liberation",
-     "morph": "n.acc.sg compound: mokṣa+artha"
+     "grounds": "purpose of liberation",
+     "morph": "n.acc.sg (compound: mokṣa+first, artha+head)"
     },
     {
      "surface": "codito",
      "gloss": "declared",
-     "grounds": "taught or enjoined; sandhi form",
-     "morph": "m.nom.sg past-participle cud"
+     "grounds": "taught or enjoined; internal sandhi coditaḥ",
+     "morph": "m.nom.sg (past-participle) √cud"
     },
     {
      "surface": "mayā",
      "gloss": "by-me",
      "grounds": "speaker as agent",
-     "morph": "pron.inst.sg"
+     "morph": "pron.ins.sg"
     }
    ],
-   "question": "What five-stream reality has been declared by the speaker for liberation?",
+   "question": "What five-stream teaching has been declared for the sake of liberation?",
    "premises": [
-    "Something consists of five streams.",
-    "It is declared for the purpose of liberation.",
-    "The speaker claims to have declared it."
+    "A five-stream nature is identified.",
+    "The teaching is declared by the speaker.",
+    "Its purpose is liberation."
    ],
-   "inference": "The speaker has taught a five-stream principle as a means to liberation.",
+   "inference": "The speaker has taught a five-stream doctrine aimed at liberation.",
    "uncertainties": [
-    "The exact referent of the five streams is not specified."
+    "The referent of the five streams is not specified in this verse."
    ],
-   "plain_english": "And indeed, that which consists of five streams has been declared by me for the sake of liberation."
+   "plain_english": "I have indeed declared that which consists of five streams for the sake of liberation."
   },
   {
    "verse": 420,
@@ -894,14 +885,14 @@
     {
      "surface": "atorddhaṃ",
      "gloss": "from-here-above",
-     "grounds": "transition to next topic; fused form",
+     "grounds": "transition to next topic",
      "morph": "(indecl.)"
     },
     {
      "surface": "kathyate",
      "gloss": "is-spoken",
-     "grounds": "is being explained",
-     "morph": "3.sg.pres.passive kath"
+     "grounds": "teaching is presented",
+     "morph": "3.sg.passive-present √kath"
     },
     {
      "surface": "devi",
@@ -913,20 +904,18 @@
      "surface": "mudrānirṇayalakṣaṇam",
      "gloss": "seal-determination-characteristic",
      "grounds": "defining explanation of seals",
-     "morph": "n.nom.sg compound: mudrā-nirṇaya+lakṣaṇa"
+     "morph": "n.nom.sg (compound: mudrā-nirṇaya+first, lakṣaṇa+head)"
     }
    ],
-   "question": "What new topic concerning the seals is introduced after this point?",
+   "question": "What new topic concerning seals is introduced after the previous teaching?",
    "premises": [
     "The discourse moves to a further stage.",
-    "The goddess is addressed.",
-    "The characteristic determination of seals is to be explained."
+    "The subject is the determination of seals.",
+    "Its characteristic is to be explained."
    ],
-   "inference": "The next teaching will define and determine the seals.",
-   "uncertainties": [
-    "The form 'atorddhaṃ' appears irregular compared to earlier 'ata ūrddhaṃ'."
-   ],
-   "plain_english": "From here onward, O goddess, the defining determination of the seals is explained."
+   "inference": "The next section will define and determine the nature of the seals.",
+   "uncertainties": [],
+   "plain_english": "O goddess, now the characteristic determination of the seals is explained."
   },
   {
    "verse": 421,
@@ -934,8 +923,8 @@
     {
      "surface": "dvādaśānte",
      "gloss": "at-twelve-end",
-     "grounds": "at the twelve-finger endpoint",
-     "morph": "n.loc.sg compound: dvādaśa+anta"
+     "grounds": "location at the twelfth point",
+     "morph": "n.loc.sg (compound: dvādaśa+first, anta+head)"
     },
     {
      "surface": "yadā",
@@ -946,33 +935,33 @@
     {
      "surface": "paśyet",
      "gloss": "one-sees",
-     "grounds": "vision in practice",
-     "morph": "3.sg.opt.act dṛś"
+     "grounds": "visionary perception",
+     "morph": "3.sg.active-optative √dṛś"
     },
     {
      "surface": "sphurantam",
      "gloss": "quivering",
-     "grounds": "vibrating or flashing",
-     "morph": "m.acc.sg pres.participle sphur"
+     "grounds": "vibrating appearance",
+     "morph": "m.acc.sg (present-participle) √sphur"
     },
     {
      "surface": "maṇimālikā",
      "gloss": "jewel-garland",
-     "grounds": "string of jewels; form as given",
-     "morph": "f.nom.sg compound: maṇi+mālikā"
+     "grounds": "vision of a string of jewels; internal sandhi maṇimālikām",
+     "morph": "f.nom.sg (compound: maṇi+first, mālikā+head)"
     }
    ],
-   "question": "What visionary appearance is perceived at the twelve-finger endpoint?",
+   "question": "What visionary experience occurs at the twelfth center in this practice?",
    "premises": [
-    "The location is the dvādaśānta.",
-    "A quivering appearance is seen.",
-    "It is described as a jewel garland."
+    "The locus is the end of the twelve.",
+    "A quivering form is seen.",
+    "That form appears as a jewel garland."
    ],
-   "inference": "At the dvādaśānta one may perceive a quivering jewel garland.",
+   "inference": "At the twelfth center, the practitioner may perceive a quivering jewel garland.",
    "uncertainties": [
-    "The case agreement between 'sphurantam' and 'maṇimālikā' is irregular."
+    "The exact referent of the jewel garland is symbolic and not specified."
    ],
-   "plain_english": "When one sees, at the twelve-finger endpoint, a quivering garland of jewels."
+   "plain_english": "When one sees a quivering jewel garland at the end of the twelve."
   },
   {
    "verse": 422,
@@ -981,19 +970,19 @@
      "surface": "mudritam",
      "gloss": "sealed",
      "grounds": "marked or closed by seals",
-     "morph": "n.nom.sg past-participle mudr"
+     "morph": "n.nom.sg (past-participle) √mudr"
     },
     {
      "surface": "pañcamudrābhiś",
      "gloss": "by-five-seals",
-     "grounds": "by means of five seals; sandhi form",
-     "morph": "f.inst.pl compound: pañca+mudrā"
+     "grounds": "instrumental use of five seals; internal sandhi mudrābhiḥ",
+     "morph": "f.ins.pl (compound: pañca+first, mudrā+head)"
     },
     {
      "surface": "caitanyasahitaṃ",
      "gloss": "consciousness-accompanied",
-     "grounds": "joined with consciousness",
-     "morph": "n.nom.sg compound: caitanya+sahita"
+     "grounds": "joined with awareness",
+     "morph": "n.nom.sg (compound: caitanya+first, sahita+head)"
     },
     {
      "surface": "priye",
@@ -1002,15 +991,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What sealed and consciousness-filled condition is established by the five seals?",
+   "question": "How is the experienced state sealed and accompanied by consciousness?",
    "premises": [
-    "Something is sealed.",
-    "The sealing is done by the five seals.",
-    "It is accompanied by consciousness."
+    "The state is sealed.",
+    "Five seals are the means.",
+    "Consciousness accompanies the sealed state."
    ],
-   "inference": "The five seals establish a state that is sealed and imbued with consciousness.",
+   "inference": "The practice seals the experience with five seals while maintaining consciousness.",
    "uncertainties": [
-    "The subject being sealed is implied from context rather than stated."
+    "The identity of the five seals is not listed here."
    ],
    "plain_english": "O beloved, it is sealed by the five seals and accompanied by consciousness."
   },
@@ -1020,45 +1009,45 @@
     {
      "surface": "pañcād",
      "gloss": "from-five",
-     "grounds": "starting point; sandhi form",
+     "grounds": "starting point; internal sandhi pañcāt",
      "morph": "(indecl.)"
     },
     {
      "surface": "vādaśāntaṃ",
      "gloss": "to-twelve-end",
-     "grounds": "up to the twelve-finger endpoint; sandhi form",
-     "morph": "n.acc.sg compound: vā+dvādaśānta"
+     "grounds": "endpoint at the twelfth center",
+     "morph": "n.acc.sg (compound: dvādaśa+first, anta+head)"
     },
     {
      "surface": "yāvac",
      "gloss": "as-far-as",
-     "grounds": "extent of range; sandhi form",
+     "grounds": "extent of movement",
      "morph": "(indecl.)"
     },
     {
      "surface": "śaktyācāreṇa",
      "gloss": "by-śakti-practice",
-     "grounds": "through the practice of śakti",
-     "morph": "m.inst.sg compound: śakti+ācāra"
+     "grounds": "method of śakti conduct",
+     "morph": "m.ins.sg (compound: śakti+first, ācāra+head)"
     },
     {
      "surface": "bhedayet",
      "gloss": "one-should-pierce",
-     "grounds": "injunction to penetrate",
-     "morph": "3.sg.opt.act bhid"
+     "grounds": "penetrative yogic action",
+     "morph": "3.sg.active-optative √bhid"
     }
    ],
-   "question": "What range must be pierced through the practice of śakti?",
+   "question": "What range must be pierced through the practice of śakti conduct?",
    "premises": [
-    "The range extends from five to the twelve-end.",
+    "The range extends from five to the end of twelve.",
     "The method is śakti practice.",
-    "Piercing is prescribed."
+    "Piercing is the prescribed action."
    ],
-   "inference": "Through śakti practice one should pierce the path from the fivefold level up to the dvādaśānta.",
+   "inference": "Through śakti practice, one should pierce the path from the fifth to the twelfth center.",
    "uncertainties": [
-    "The exact meaning of 'from five' is context-dependent."
+    "The exact referents of the fifth and twelfth points are context-dependent."
    ],
-   "plain_english": "By the practice of śakti, one should pierce from the five up to the twelve-finger endpoint."
+   "plain_english": "By the practice of śakti, one should pierce from the fifth up to the end of the twelve."
   },
   {
    "verse": 424,
@@ -1066,39 +1055,39 @@
     {
      "surface": "līyante",
      "gloss": "they-dissolve",
-     "grounds": "merge or dissolve",
-     "morph": "3.pl.pres.middle lī"
+     "grounds": "absorption or merging",
+     "morph": "3.pl.middle-present √lī"
     },
     {
      "surface": "khecarīcakre",
      "gloss": "in-khecarī-circle",
-     "grounds": "in the circle of khecarī",
-     "morph": "n.loc.sg compound: khecarī+cakra"
+     "grounds": "locus of dissolution",
+     "morph": "n.loc.sg (compound: khecarī+first, cakra+head)"
     },
     {
      "surface": "kṣobhayet",
      "gloss": "one-should-agitate",
-     "grounds": "injunction to stir",
-     "morph": "3.sg.opt.act kṣubh"
+     "grounds": "activation of the nectar",
+     "morph": "3.sg.active-optative √kṣubh"
     },
     {
      "surface": "paramāmṛtam",
      "gloss": "supreme-nectar",
-     "grounds": "highest nectar",
-     "morph": "n.acc.sg compound: parama+amṛta"
+     "grounds": "highest immortal essence",
+     "morph": "n.acc.sg (compound: parama+first, amṛta+head)"
     }
    ],
-   "question": "What dissolution and agitation lead to the supreme nectar in the khecarī circle?",
+   "question": "What dissolution and activation occur within the khecarī circle?",
    "premises": [
-    "Things dissolve in the khecarī circle.",
-    "One should agitate the supreme nectar.",
-    "Both dissolution and agitation are indicated."
+    "Dissolution takes place in the khecarī circle.",
+    "The supreme nectar is to be agitated.",
+    "Both absorption and activation are indicated."
    ],
-   "inference": "Dissolution in the khecarī circle and agitation give access to the supreme nectar.",
+   "inference": "In the khecarī circle, elements dissolve and the supreme nectar is stirred into activity.",
    "uncertainties": [
-    "The subject of 'līyante' is not explicitly stated."
+    "The subject of līyante is not explicitly stated."
    ],
-   "plain_english": "They dissolve in the circle of khecarī; one should stir the supreme nectar."
+   "plain_english": "They dissolve in the khecarī circle, and one should agitate the supreme nectar."
   }
  ]
 }

@@ -6,53 +6,53 @@
    "rows": [
     {
      "surface": "kṣīrādā",
-     "gloss": "milk-from",
-     "grounds": "milk plus from",
-     "morph": "indecl."
+     "gloss": "milk-derived",
+     "grounds": "compound or fused form related to kṣīra (milk); legacy hint suggests milk-from",
+     "morph": "compound"
     },
     {
      "surface": "....",
-     "gloss": "ellipsis",
-     "grounds": "missing or illegible token",
-     "morph": "unknown"
+     "gloss": "gap",
+     "grounds": "ellipsis indicating missing or unreadable text in the source",
+     "morph": "unreadable"
     },
     {
      "surface": "viplakāraiḥ",
-     "gloss": "with-fillings",
-     "grounds": "instrumental plural masculine",
-     "morph": "instr.pl.m"
+     "gloss": "with-various-fillings",
+     "grounds": "substance or material used for filling",
+     "morph": "m.inst.pl"
     },
     {
      "surface": "pūrayet",
-     "gloss": "should-fill",
-     "grounds": "optative third singular active",
-     "morph": "3.sg.act.opt.√pūr"
+     "gloss": "one-should-fill",
+     "grounds": "act of filling or completing",
+     "morph": "3.sg.act-optative √pṝ"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "accusative singular masculine",
-     "morph": "acc.sg.m"
+     "grounds": "tad (that) + tanu (body)",
+     "morph": "compound.f.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "indeclinable adverb",
-     "morph": "indecl."
+     "grounds": "indicates continual practice",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "What practice continually fills that body with milk-derived fillings?",
+   "question": "What substances must continually fill that body in this ritual practice?",
    "premises": [
-    "milk source is named",
-    "fillings are instrumental",
-    "body is accusative object"
+    "That body is the object to be filled.",
+    "Milk-derived and various filling substances are to be used.",
+    "The act of filling is prescribed as continual."
    ],
-   "inference": "The verse prescribes continually filling that body with fillings derived from milk.",
+   "inference": "One should always fill that body with milk-derived and various substances.",
    "uncertainties": [
-    "the second token is illegible or omitted",
-    "exact sandhi of kṣīrādā is unclear"
+    "The token '....' marks missing or unreadable text.",
+    "The exact formation and full sense of 'kṣīrādā' remain uncertain."
    ],
-   "plain_english": "From milk ... with fillings, one should always fill that body."
+   "plain_english": "One should always fill that body with milk-derived and various filling substances."
   }
  ]
 }
