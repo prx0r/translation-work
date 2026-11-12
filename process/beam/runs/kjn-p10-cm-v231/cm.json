@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=guhya+first",
+   "grounds": "qualifies the place"
   },
   {
    "lemma": "sthānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "subject described as cakraṃ"
+   "grounds": "location of the wheel"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "manner particle"
+   "grounds": "introduces manner or condition"
   },
   {
    "lemma": "cakraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "predicate or apposition to sthānaṃ"
+   "morph": "n.nom.sg",
+   "grounds": "subject that is accomplished"
   },
   {
    "lemma": "kṣipraṃ",
    "morph": "(indecl.)",
-   "grounds": "manner adverb"
+   "grounds": "manner of accomplishment"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.present-act + sidh",
-   "grounds": "main verb"
+   "morph": "3.sg.present-active √sidh",
+   "grounds": "main action"
   },
   {
    "lemma": "bhairava",
    "morph": "m.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "addressed deity"
   }
  ]
 }

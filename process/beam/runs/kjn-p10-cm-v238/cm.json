@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=dūra+first",
+   "grounds": "first member of compound describing hearing"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound=āśravaṇa+second",
+   "grounds": "second member of compound describing knowledge"
   },
   {
    "lemma": "vijñānaṃ",
@@ -19,8 +19,8 @@
   },
   {
    "lemma": "pāśa",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=pāśa+first",
+   "grounds": "first member of compound describing paralysis"
   },
   {
    "lemma": "stobham",
@@ -30,12 +30,12 @@
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective adverb"
+   "grounds": "connective indicating addition"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "addressed listener"
   }
  ]
 }

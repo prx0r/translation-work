@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=sthāna+first",
+   "grounds": "first member of compound naming wheels"
   },
   {
    "lemma": "cakrāḥ",
-   "morph": "m.nom.pl",
+   "morph": "n.nom.pl",
    "grounds": "subject declared"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "saṃproktāḥ",
-   "morph": "m.nom.pl.past-participle + sam-pra-vac",
-   "grounds": "past participle predicate"
+   "morph": "m.nom.pl",
+   "grounds": "states what has been taught"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "possessor of meditation"
+   "grounds": "refers to the wheels"
   },
   {
    "lemma": "dhyānaṃ",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.imperative-act + śru",
-   "grounds": "imperative command"
+   "morph": "2.sg.imperative-active √śru",
+   "grounds": "command to the listener"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "grounds": "addressed listener"
   }
  ]
 }

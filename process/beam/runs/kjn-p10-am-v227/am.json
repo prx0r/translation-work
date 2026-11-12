@@ -1,15 +1,13 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter concludes after emerging in the moon island?",
+ "question": "Which numbered chapter has emerged in the section called Candra-dvīpa?",
  "premises": [
-  "A textual section is identified by number",
-  "The section is located in the moon island context",
-  "The section has emerged or concluded there"
+  "A chapter is identified by ordinal number",
+  "The chapter is said to have emerged",
+  "Its locus is named Candra-dvīpa"
  ],
- "inference": "The ninth chapter, emerged in the moon island, is concluded.",
- "uncertainties": [
-  "The exact sense of vinirgate as emerged or issued is contextual."
- ],
- "plain_english": "Thus ends the ninth chapter, which emerged in Candra-dvīpa."
+ "inference": "The ninth chapter has emerged in Candra-dvīpa",
+ "uncertainties": [],
+ "plain_english": "The ninth chapter, emerged in Candra-dvīpa, is concluded."
 }
