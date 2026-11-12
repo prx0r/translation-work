@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "tasya",
-   "morph": "m.gen.sg",
-   "grounds": "correlative pronoun"
+   "morph": "pron.m.gen.sg",
+   "grounds": "correlative pronoun referring to the liberated person"
   },
   {
    "lemma": "mokṣo",
@@ -14,18 +14,18 @@
   },
   {
    "lemma": "bhavedyastu",
-   "morph": "3.sg.opt.act (√bhū)+indecl.",
-   "grounds": "fused form combining optative verb and relative particle"
+   "morph": "3.sg.opt.act+√bhū+pron.m.nom.sg",
+   "grounds": "fused optative verb and relative pronoun"
   },
   {
    "lemma": "pāpapuṇyairna",
-   "morph": "n.inst.pl+indecl.",
-   "grounds": "instrumental dvandva with negation fused in transmission"
+   "morph": "compound+n.ins.pl+(indecl.)",
+   "grounds": "fused compound instrumental and negation"
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.pres.pass (√lip)",
-   "grounds": "passive verb expressing non-taint"
+   "morph": "3.sg.pres.pass+√lip",
+   "grounds": "verb expressing being tainted or affected"
   }
  ]
 }
