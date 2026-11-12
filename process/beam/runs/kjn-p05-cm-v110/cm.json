@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "demonstrative pronoun"
+   "morph": "pron.m.nom.sg",
+   "grounds": "subject pronoun"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "compound = member+membership",
-   "grounds": "compound = deha+tyakta+mātra; instrumental as given"
+   "morph": "compound:n.inst.sg",
+   "grounds": "compound indicating condition"
   },
   {
    "lemma": "paraṃ",
-   "morph": "m.acc.sg",
-   "grounds": "accusative of para"
+   "morph": "m.nom.sg",
+   "grounds": "predicate quality"
   },
   {
    "lemma": "śivo",
    "morph": "m.nom.sg",
-   "grounds": "nominative of śiva"
+   "grounds": "predicate identity"
   },
   {
    "lemma": "nigadyate",
-   "morph": "3.sg.pass.pres",
-   "grounds": "verb gad, passive present"
+   "morph": "3.sg.pass-pres √gad",
+   "grounds": "passive present verb"
   }
  ]
 }

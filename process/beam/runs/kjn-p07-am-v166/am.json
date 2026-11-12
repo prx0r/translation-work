@@ -1,12 +1,15 @@
 {
  "song": "kjn-p07",
  "verse": 166,
- "question": "How is Kula god born in Akula?",
+ "question": "How did Kula arise within Akula according to the question posed to Bhairava?",
  "premises": [
-  "Kula god is born in Akula.",
-  "The question is addressed to Bhairava."
+  "Akula is the locus mentioned.",
+  "Kula is said to have arisen.",
+  "The manner of this arising is questioned."
  ],
- "inference": "The verse asks how Kula god is born in Akula.",
- "uncertainties": [],
- "plain_english": "How indeed is Kula god born in Akula, O Bhairava?"
+ "inference": "The question asks how Kula was born within Akula.",
+ "uncertainties": [
+  "The role of devaṃ is syntactically ambiguous in this verse."
+ ],
+ "plain_english": "O Bhairava, how indeed was Kula born within Akula?"
 }

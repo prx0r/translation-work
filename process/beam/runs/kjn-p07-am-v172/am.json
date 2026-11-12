@@ -1,12 +1,15 @@
 {
  "song": "kjn-p07",
  "verse": 172,
- "question": "What do they say about Kula-born and outcaste women?",
+ "question": "How are the Kula-born woman and the outcaste woman identified in traditional terms?",
  "premises": [
-  "They say Kula-born is courtesan.",
-  "Outcaste woman and caste and outcaste woman are named."
+  "The Kula-born woman is identified as a courtesan by some.",
+  "The outcaste woman is identified by caste.",
+  "These are reported as traditional statements."
  ],
- "inference": "The verse reports that some call Kula-born a courtesan and names outcaste woman, caste, and outcaste woman.",
- "uncertainties": [],
- "plain_english": "They say Kula-born is a courtesan; outcaste woman, caste, outcaste woman."
+ "inference": "Tradition calls the Kula-born a courtesan and identifies the outcaste woman by her caste.",
+ "uncertainties": [
+  "The syntax and exact referents of the final three tokens are compressed and ambiguous."
+ ],
+ "plain_english": "They say the Kula-born is a courtesan; the outcaste woman is defined by her outcaste status."
 }
