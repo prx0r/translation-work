@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 101,
- "question": "Under what conditions must this teaching be kept secret in the mortal world?",
+ "question": "Under what condition must the teaching be concealed rather than openly given in the world of mortals among the lowest of men?",
  "premises": [
-  "The teaching is to be concealed.",
-  "Concealment requires deliberate effort.",
-  "The context is the mortal world among lowest men."
+  "A teaching of this kind carries risk in an unfit setting.",
+  "Effort is required to determine the fitness of a recipient.",
+  "Concealment is prescribed when recipients lack the capacity to receive it."
  ],
- "inference": "This teaching must be carefully hidden from unworthy people in the mortal world.",
- "uncertainties": [],
- "plain_english": "It must be carefully concealed in the mortal world among the lowest of men."
+ "inference": "The teaching is to be concealed with effort in the mortal world, especially among the lowest of men.",
+ "uncertainties": [
+  "Extent of 'lowest of men' remains context-dependent."
+ ],
+ "plain_english": "This teaching must be concealed with effort in the mortal world, among the lowest of men."
 }
