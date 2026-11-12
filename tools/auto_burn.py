@@ -71,7 +71,7 @@ def seed(q: list, work: str, song: str, verses: list, note: str) -> int:
         grp = verses[i:i + 24]
         if any(grp[0] <= hi and lo <= grp[-1] for lo, hi in taken):
             continue  # overlap: already being/been done
-        tid = f"{work[:7]}-triple-{song}-v{grp[0]:03d}"
+        tid = f"{work}-triple-{song}-v{grp[0]:04d}"
         if tid in have:
             continue
         now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")

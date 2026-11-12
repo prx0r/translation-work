@@ -100,7 +100,7 @@ def onboard(cat: str, title: str, verses: list, trads: str, who: str) -> Path:
     for i in range(0, len(verses), 25):
         n = i // 25 + 1
         ps.append({"work_id": w.name, "order": n,
-                   "locator": f"{w.name[:10]}-p{n:02d}",
+                   "locator": f"{w.name}-p{n:02d}",
                    "verses": f"{i+1}-{i+len(verses[i:i+25])}",
                    "sanskrit": " ".join(verses[i:i + 25])})
     with open(w / "passages.jsonl", "w") as f:
