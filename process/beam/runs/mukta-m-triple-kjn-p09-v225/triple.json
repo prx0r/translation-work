@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "indeclinable numeral qualifying sahasreṣu",
-     "morph": "(indecl.)"
+     "grounds": "numeral compound indicating the number eighty-four",
+     "morph": "compound numeral (catur+aśīti)"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative plural of sahasra, expressing quantity",
+     "grounds": "locative plural expressing location within thousands",
      "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-mechanisms",
-     "grounds": "locative plural compound denoting loci of birth or embodiment",
-     "morph": "n.loc.pl; compound yoni+yantra"
+     "gloss": "in-womb-diagrams",
+     "grounds": "compound of yoni (womb/source) and yantra (diagram/device) in locative plural",
+     "morph": "compound n.loc.pl (yoni+yantra)"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing beings subjected to suffering",
-     "morph": "m.nom.pl.ppp; √pīḍ"
+     "grounds": "past passive participle describing those subjected to affliction",
+     "morph": "m.nom.pl past-passive-participle (√pīḍ)"
     }
    ],
-   "question": "In what vast number and kind of loci are beings subjected to torment?",
+   "question": "In what condition are beings situated within the eighty-four thousand womb-diagrams?",
    "premises": [
-    "Beings are described as tormented (pīḍitāḥ).",
-    "The torment occurs within womb-mechanisms (yoniyantreṣu).",
-    "These womb-mechanisms number eighty-four thousand (caturaśīti sahasreṣu)."
+    "There exist eighty-four thousand womb-diagrams.",
+    "Beings are located within these womb-diagrams.",
+    "These beings are described as tormented."
    ],
-   "inference": "Beings undergo torment throughout the full expanse of eighty-four thousand womb-mechanisms.",
+   "inference": "Beings within the eighty-four thousand womb-diagrams are in a state of torment.",
    "uncertainties": [
-    "The compound yoniyantra may be rendered as womb-mechanisms, matrices of birth, or sources of embodiment."
+    "The specific subjects who are tormented are not explicitly named in this verse and rely on prior context."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
+   "plain_english": "They are tormented within the eighty-four thousand womb-diagrams."
   }
  ]
 }
