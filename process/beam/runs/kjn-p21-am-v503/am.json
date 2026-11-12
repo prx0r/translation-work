@@ -1,12 +1,15 @@
 {
  "song": "kjn-p21",
  "verse": 503,
- "question": "Why is the assumption of fisherman-hood significant for the brahmin leader?",
+ "question": "On what causal basis is the state of fisherman-hood said to have been brought about for a leader of brahmins?",
  "premises": [
-  "Fisherman-hood was assumed",
-  "The fisherman is identified as a brahmin leader"
+  "A state designated as fisherman-hood is said to have been made.",
+  "The cause is given by a relative clause.",
+  "The agent is identified as a leader of brahmins who is a fisherman."
  ],
- "inference": "The brahmin leader's adoption of fisherman-hood carries special significance",
- "uncertainties": [],
- "plain_english": "Because fisherman-hood was assumed, the fisherman is a leader among brahmins."
+ "inference": "It is because the leader of brahmins is a fisherman that the state of fisherman-hood is said to have been brought about.",
+ "uncertainties": [
+  "The narrative reason for this attribution remains implicit."
+ ],
+ "plain_english": "Fisherman-hood was brought about because the fisherman, a leader of brahmins, brought it about."
 }

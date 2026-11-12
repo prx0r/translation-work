@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[trikla-bāśayāḥ](triklabāśayāḥ)
+[three](tri) [affliction](kleśa) [abodes](āśayāḥ)
 
 ## mukta-m0-p50-v1227
-[varṇa-āśrama](varṇāśrama) [vyavasthām](vyavasthāṃ) [ca](ca) [niyamān](niyamāṃśca) [śarīriṇām](śarīriṇām)
+[class](varṇa) [and-stage-of-life](āśrama) [order](vyavasthāṃ) [and](ca) [rules](niyamān) [and](ca) [of-embodied-beings](śarīriṇām)
 
 ## mukta-m0-p50-v1228
-[dharma-śāstraiḥ](dharmaśāstraismṛtiḥ) [smṛtiḥ](smṛtiḥ) [śāstraiḥ](śāstrairācārasya) [ācārasya](ācārasya) [pravarttanam](pravarttanam)
+[by-dharma-texts](dharmaśāstrais) [by-smṛti](smṛtiḥ) [by-scriptures](śāstrair) [of-conduct](ācārasya) [promotion](pravarttanam)
 
 ## mukta-m0-p50-v1229
-[prati-varṇa-āśramam](prativarṇāśramaṃ) [ca](ca) [eva](eva) [bhinna-bhinna](bhinnabhinnā) [vyavasthitiḥ](vyavasthitiḥ)
+[according-to-each-class-and-stage](prativarṇāśramaṃ) [and](ca) [indeed](eva) [different](bhinna) [different](bhinnā) [arrangement](vyavasthitiḥ)
 
 ## mukta-m0-p50-v1230
-[para-dāra-prasaṃgeṣu](paradāraprasaṃgeṣu) [yathā](yathā) [varṇam](varṇaṃ) [ca](ca) [daṇḍanam](daṇḍanam)
+[in-connections](prasaṃgeṣu) [with-another's-wife](paradāra) [according-to-class](yathā) [class](varṇaṃ) [and](ca) [punishment](daṇḍanam)
 
 ## mukta-m0-p50-v1231
-[yataḥ](yataḥ) [prajā-mano-doṣa](prajāmanodoṣa) [nivṛtyai](nivṛtyaidaṇḍakalpanam) [daṇḍa-kalpanam](daṇḍakalpanam)
+[because](yataḥ) [of-people](prajā) [mind](manaḥ) [fault](doṣa) [cessation](nivṛtyai) [punishment](daṇḍa) [prescription](kalpanam)
 
 ## mukta-m0-p50-v1232
-[sāma-bheda-udāna-daṇḍa-upāyāḥ](sāmabhedaudānadaṇḍaupyupāyā) [viśva-rakṣaṇe](viśvarakṣaṇe)
+[conciliation](sāma) [division](bhedau) [gift](dāna) [punishment](daṇḍau) [also](api) [means](upāyā) [in-world-protection](viśvarakṣaṇe)
 
 ## mukta-m0-p50-v1233
-[tena](tena) [eva](eva) [vyapadeśaḥ](vyapadeśo) [hi](hi) [sarvasya](sarvasya) [naya-vartmanaḥ](nayavartmanaḥ)
+[by-that](tena) [indeed](eva) [designation](vyapadeśaḥ) [indeed](hi) [of-all](sarvasya) [policy](naya) [course](vartmanaḥ)
 
 ## mukta-m0-p50-v1234
-[prajā-doṣasya](prajādoṣasya) [bāhulyāt](bāhulyāta) [dvi-apekṣā](dvyapekṣā) [tu](tu) [bhūyasī](bhūyasī)
+[of-people](prajā) [fault](doṣasya) [from-abundance](bāhulyāt) [twofold-consideration](dvyapekṣā) [but](tu) [greater](bhūyasī)
 
 ## mukta-m0-p50-v1235
-[evaṃ](evaṃ) [kṛtena](kṛtena) [mārgeṇa](mārgeṇa) [maryādā](maryādā) [kalpanā-ātmanaḥ](kalpanātmanaḥ)
+[thus](evaṃ) [by-done](kṛtena) [by-path](mārgeṇa) [of-boundary](maryādā) [prescription](kalpanā) [nature](ātmanaḥ)
 
 ## mukta-m0-p50-v1236
-[varttante](varttaṃta) [eva](eva) [citteṣu](citteṣu) [doṣāḥ](doṣāste) [tu](tu) [hīna-ātmaje](hinātmaje)
+[remain](varttaṃte) [indeed](eva) [in-minds](citteṣu) [faults](doṣās) [those](te) [but](tu) [in-low-born](hinātmaje)
 
 ## mukta-m0-p50-v1237
-[manu-ādi-kṛta-śāstrāṇi](manvādikṛtaśāstrāṇi) [pramāṇī-kṛtya](pramāṇīkṛtyabhūrayaḥ) [bhūrayaḥ](bhūrayaḥ)
+[Manu-and-others](manvādi) [composed](kṛta) [scriptures](śāstrāṇi) [having-made-authority](pramāṇīkṛtya) [many](bhūrayaḥ)
 
 ## mukta-m0-p50-v1238
-[teṣām](teṣāṃ) [bhaya](bhaya) [bhaṭa-śreṇi](bhaṭaśreṇi) [dvīpa-sādhana-saṃpadām](dvīpasādhanasaṃpadām)
+[of-them](teṣāṃ) [fear](bhaya) [soldier](bhaṭa) [row](śreṇi) [island](dvīpa) [accomplishment](sādhana) [wealth](saṃpadām)
 
 ## mukta-m0-p50-v1239
-[rāja-ādi-agocarāṇām](rājādyagocarāṇāṃ) [tu](tu) [keṣām](keṣāmapi) [api](api) [tanū-bhṛtām](tanūbhṛtām)
+[of-king-and-others](rājādi) [beyond-range](agocarāṇāṃ) [but](tu) [of-some](keṣām) [also](api) [of-embodied-beings](tanūbhṛtām)
 
 ## mukta-m0-p50-v1240
-[yama-daṇḍa-ādi](yamadaṇḍādi) [śāstrāṇi](śāstrāṇya) [pramāṇī](pramāṇī) [kṛtya](kṛtyavallatām) [vallatām](vallatām)
+[Yama's-punishment-and-others](yamadaṇḍādi) [scriptures](śāstrāṇya) [having-made-authority](pramāṇī) [having-made](kṛtya) [attachment](vallatām)
 
 ## mukta-m0-p50-v1241
-[rāja-daṇḍa-bhayāt](rājadaṇḍabhayādeke) [eke](eke) [yama-daṇḍa-bhayāt](yamadaṇḍabhayātpare) [pare](pare)
+[from-fear](bhayāt) [of-king's-punishment](rājadaṇḍa) [some](eke) [from-fear](bhayāt) [of-Yama's-punishment](yamadaṇḍa) [others](pare)
 
 ## mukta-m0-p50-v1242
-[uttamāḥ](uttamā) [madhyamāḥ](madhyamā) [nīcāḥ](nīcāḥ) [tasmin](tasmin) [kāle](kāledha'māḥ) [dhamāḥ](dhamāḥ)
+[highest](uttamā) [middle](madhyamā) [lowest](nīcāḥ) [in-that](tasmin) [time](kāle) [lower](adhamāḥ) [lowest](adhamāḥ)
 
 ## mukta-m0-p50-v1243
-[teṣām](teṣāṃ) [krameṇa](krameṇa) [sarveṣām](sarveṣāṃ) [citta-doṣa-nivāraṇe](cittadoṣanivāraṇe)
+[of-them](teṣāṃ) [in-order](krameṇa) [of-all](sarveṣāṃ) [mind](citta) [fault](doṣa) [in-removal](nivāraṇe)
 
 ## mukta-m0-p50-v1244
-[tatra](tatra) [sāma-upadeśasya](sāmopadeśasya) [lakṣaṇam](lakṣaṇaṃ) [saṃpracakṣmahe](saṃpracakṣmahe)
+[there](tatra) [of-conciliatory-instruction](sāmopadeśasya) [characteristic](lakṣaṇaṃ) [we-declare](saṃpracakṣmahe)
 
 ## mukta-m0-p50-v1245
-[rāgam](rāgaṃ) [tyajati](tyajati) [sarvatra](sarvatrasvaiva) [sva-eva](svaiva) [bhāryā-avalambatām](bhāryāvalaṃbatām)
+[passion](rāgaṃ) [abandons](tyajati) [everywhere](sarvatra) [in-own](sva) [indeed](eva) [wife](bhāryā) [dependence](avalaṃbatām)
 
 ## mukta-m0-p50-v1246
-[ātmīye](ātmīye) [na](naiva) [eva](eva) [labdhena](labdhena) [vastunā](vastunā) [hṛdi-tṛptatā](hṛditṛptatā)
+[in-one's-own](ātmīye) [not](na) [indeed](eva) [by-obtained](labdhena) [thing](vastunā) [in-heart](hṛdi) [satisfaction](tṛptatā)
 
 ## mukta-m0-p50-v1247
-[vidyām](vidyāṃbhajata) [bhajata](bhajata) [sācārāḥ](sācārāḥ) [śuddha-sva-ātma-vimṛṣṭaye](śuddhasvātmavimṛṣṭaye)
+[knowledge](vidyāṃ) [practice](bhajata) [with-conduct](sācārāḥ) [for-pure](śuddha) [own-self](svātma) [examination](vimṛṣṭaye)
 
 ## mukta-m0-p50-v1248
-[iththam](iththaṃ) [gṛhīta](gṛhīta) [dharma-arthāḥ](dharmārthā) [vimṛśyan](vimṛśyanvātmanodhiyā) [ātmanā](ātmanā) [dhiyā](dhiyā)
+[thus](itthaṃ) [grasped](gṛhīta) [dharma-and-wealth](dharmārthā) [reflecting](vimṛśyan) [by-mind](ātmano) [by-intellect](dhiyā)
 
 ## mukta-m0-p50-v1249
-[tat-mūlam](tanmūlaṃ) [ca](ca) [mahā-duḥkham](mahāduḥkhaṃ) [vimṛśya](vimṛśyanyāyamasthitā) [nyāyam](nyāyam) [asthitā](asthitā)
+[its-root](tanmūlaṃ) [and](ca) [great-suffering](mahāduḥkhaṃ) [reflecting](vimṛśyan) [in-reasoning](nyāyam) [abiding](asthitā)
 
 ## mukta-m0-p50-v1250
-[bheda-upadeśa-mārgeṇa](bhedopadeśamārgeṇa) [vyādiśan](vyādiśannaramadhyamān) [nara-madhyamān](naramadhyamān)
+[by-path](mārgeṇa) [of-instruction-by-division](bhedopadeśa) [they-instruct](vyādiśan) [middle-men](naramadhyamān)

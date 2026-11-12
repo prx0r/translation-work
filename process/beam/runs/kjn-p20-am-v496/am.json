@@ -4,10 +4,12 @@
  "question": "How was the speaker's secret knowledge-tablet secured after being placed?",
  "premises": [
   "A knowledge-tablet was placed.",
-  "It belonged to the speaker.",
+  "The tablet belonged to the speaker.",
   "It was kept secret and protected."
  ],
- "inference": "After placing the knowledge-tablet, it was kept hidden and protected.",
- "uncertainties": [],
+ "inference": "After placing the speaker's knowledge-tablet, it was kept hidden and protected.",
+ "uncertainties": [
+  "The location where it was placed is implied by context but not stated here."
+ ],
  "plain_english": "Having placed my knowledge-tablet, it was kept secret and protected."
 }

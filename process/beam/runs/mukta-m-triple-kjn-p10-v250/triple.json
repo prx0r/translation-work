@@ -7,8 +7,8 @@
     {
      "surface": "ṣaṣṭhaṃ",
      "gloss": "sixth",
-     "grounds": "ordinal numeral qualifying cakra",
-     "morph": "m.acc.sg"
+     "grounds": "ordinal adjective qualifying cakraṃ",
+     "morph": "adj.n.acc.sg"
     },
     {
      "surface": "tu",
@@ -25,39 +25,39 @@
     {
      "surface": "rājānam",
      "gloss": "royal",
-     "grounds": "epithet describing cakra",
+     "grounds": "epithet describing cakraṃ; masculine form used attributively",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral member of compound describing petals",
+     "grounds": "numeral forming first member of compound with patra",
      "morph": "compound-member"
     },
     {
      "surface": "patra",
-     "gloss": "petal",
-     "grounds": "member of compound describing petals",
+     "gloss": "petaled",
+     "grounds": "second member of compound describing cakraṃ",
      "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "compound adjective qualifying cakra",
-     "morph": "n.acc.sg"
+     "grounds": "adjective qualifying cakraṃ, indicating presence of a central pericarp",
+     "morph": "adj.n.acc.sg"
     }
    ],
-   "question": "What specific form and attributes characterize the sixth cakra?",
+   "question": "What are the defining characteristics attributed to the sixth cakra?",
    "premises": [
-    "The sixth cakra is introduced as the subject.",
-    "It is described as royal in nature.",
-    "It possesses eight petals and a pericarp."
+    "The sixth cakra is identified as the subject of description.",
+    "It is characterized as royal in nature.",
+    "It is described as having eight petals and a pericarp."
    ],
-   "inference": "The sixth cakra is a royal center distinguished by eight petals and a central pericarp.",
+   "inference": "The sixth cakra is defined as a royal, eight-petaled wheel possessing a central pericarp.",
    "uncertainties": [
-    "Whether rājānam functions as a proper name or a qualitative epithet is context-dependent."
+    "The masculine accusative form rājānam agrees unusually with the neuter cakraṃ, possibly reflecting appositional or formulaic usage."
    ],
-   "plain_english": "And the sixth cakra is royal, having eight petals and a pericarp."
+   "plain_english": "And the sixth cakra is royal, eight-petaled, and has a pericarp."
   }
  ]
 }

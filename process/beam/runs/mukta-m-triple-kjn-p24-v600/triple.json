@@ -7,17 +7,20 @@
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "Marks the conclusion of a textual section or chapter.",
+     "grounds": "noun marking a textual section or chapter division",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which structural division of the text concludes at this point?",
+   "question": "Which textual division formally concludes the preceding meditative instructions?",
    "premises": [
     "The term paṭalaḥ denotes a chapter or section.",
-    "It appears as a concluding marker in the text."
+    "It functions as a structural marker in the text.",
+    "The preceding verses present meditative instructions."
    ],
-   "inference": "This point marks the end of a chapter.",
-   "uncertainties": [],
+   "inference": "This term marks the formal conclusion of the current chapter.",
+   "uncertainties": [
+    "The specific chapter number or title is not indicated in this token."
+   ],
    "plain_english": "End of the chapter."
   }
  ]

@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "m.loc.sg",
-   "grounds": "interrogative pronoun with fused final consonant as given"
+   "morph": "pron.interr.loc.sg",
+   "grounds": "interrogative pronoun, masculine or neuter locative singular"
   },
   {
    "lemma": "ca",
@@ -20,27 +20,27 @@
   {
    "lemma": "layaṃ",
    "morph": "m.acc.sg",
-   "grounds": "accusative of laya"
+   "grounds": "accusative singular of laya"
   },
   {
    "lemma": "yāti",
-   "morph": "3.sg.act.pres",
-   "grounds": "present 3.sg.act of yā"
+   "morph": "3.sg.pres.act (√yā)",
+   "grounds": "present active third person singular of yā"
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = tat+sarva; accusative as given"
+   "morph": "n.acc.sg (compound: tad+modifier, sarva+head)",
+   "grounds": "accusative singular of compound tad-sarva"
   },
   {
    "lemma": "kathayasva",
-   "morph": "2.sg.act.imp",
-   "grounds": "imperative 2.sg.act of kathay"
+   "morph": "2.sg.imp.mid (√kath)",
+   "grounds": "imperative middle second person singular of kath"
   },
   {
    "lemma": "me",
-   "morph": "1.dat.sg",
-   "grounds": "pronoun first person"
+   "morph": "pron.1.dat.sg",
+   "grounds": "first person pronoun, dative singular"
   }
  ]
 }

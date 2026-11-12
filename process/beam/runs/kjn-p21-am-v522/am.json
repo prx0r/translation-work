@@ -1,12 +1,15 @@
 {
  "song": "kjn-p21",
  "verse": 522,
- "question": "What does the speaker promise to explain briefly for the practitioner's success?",
+ "question": "For what purpose does the speaker say they will tell briefly how success is attained?",
  "premises": [
-  "The speaker will tell in brief",
-  "Success occurs for the practitioner"
+  "The speaker states an intention to tell.",
+  "The telling is said to be in brief.",
+  "Success is said to occur for the practitioner."
  ],
- "inference": "The speaker will briefly explain how success is achieved by the practitioner",
- "uncertainties": [],
- "plain_english": "I tell briefly how it succeeds for the practitioner."
+ "inference": "The speaker will tell briefly how success is attained for the practitioner.",
+ "uncertainties": [
+  "The method of success is not specified in this verse."
+ ],
+ "plain_english": "I tell in brief how success is attained for the practitioner."
 }

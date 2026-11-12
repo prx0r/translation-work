@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[hear](śṛṇu) [your](te) [that-word-matka](tadvacomatkaṃ) [O](bhobho) [men-middle](puruṣamadhyamāḥ)
+[listen](śṛṇu) [you](te) [that+speech+wonder](tat+vacaḥ+matkaṃ) [oh+oh](bho+bho) [men+middling](puruṣa+madhyamāḥ)
 
 ## mukta-m0-p51-v1252
-[on-self-ground](ātmabhūmau) [and](ca) [standing](tiṣṭhaṃtāṃ) [in-own-things](satsusviyyeṣu) [things](vastuṣu)
+[self+ground](ātma+bhūmau) [and](ca) [standing](tiṣṭhaṃtāṃ) [good+own](sat+susviyyeṣu) [in-things](vastuṣu)
 
 ## mukta-m0-p51-v1253
-[unsteady?](astirāmonāmahansūryavaṃśe) [earth-lord](mahīpatiḥ)
+[asti+rāma+named](astirāma+nāma+haṃsūrya+vaṃśe) [in-sun+dynasty](haṃsūrya+vaṃśe) [king](mahīpatiḥ)
 
 ## mukta-m0-p51-v1254
-[him-followed](tamanvagāyayaurāmamanujo) [dharma-possessing](dharmaśālinam)
+[him](tam) [followed](anvagāt) [yayāti+rāma](yayāti+rāmam) [younger-brother](anujaḥ) [dharma+possessing](dharma+śālinam)
 
 ## mukta-m0-p51-v1255
-[with-her](tayā) [and](ca) [together-Rama](sahitorāmaḥ) [with-younger](kaniṣṭhena) [and](ca) [in-forest](kānane)
+[by-her](tayā) [and](ca) [together](sahitaḥ) [rāmaḥ](rāmaḥ) [by-younger](kaniṣṭhena) [and](ca) [in-forest](kānane)
 
 ## mukta-m0-p51-v1256
-[ear](karṇā) [with-karnika](karṇikayā) [ear-possessing](karṇyasītāṃ) [beauty-possessing](saundaryaśālinīm)
+[ear](karṇā) [by-pericarp](karṇikayā) [worthy-of-ear](karṇyā) [sītām](sītāṃ) [beauty+possessing](saundarya+śālinīm)
 
 ## mukta-m0-p51-v1257
-[rooted-uprooted](samūlonmūlito) [in-battle](saṃkhye) [by-Raghava-alone-wandering](rāghaveṇaikacāriṇā)
+[with-root+uprooted](samūla+unmūlitaḥ) [in-battle](saṃkhye) [by-rāghava](rāghaveṇa) [alone+wandering](eka+cāriṇā)
 
 ## mukta-m0-p51-v1258
-[other-land](parabhūmi) [attachment](prasaktiśca) [not-went](natvayātāṃ) [somewhere](kvacit) [somewhere](kvacit)
+[other+land](para+bhūmi) [attachment](prasaktiḥ) [and](ca) [not+by-you+gone](na+tvayā+tāṃ) [anywhere](kvacit) [anywhere](kvacit)
 
 ## mukta-m0-p51-v1259
-[alone](ekākī) [foot-going](pādacārī) [and](ca) [of-vultures](gṛdhrāṇāmabhavadbaliḥ)
+[alone](ekākī) [on-foot+walking](pāda+cārī) [and](ca) [of-vultures](gṛdhrāṇām) [became](abhavat) [prey](baliḥ)
 
 ## mukta-m0-p51-v1260
-[such-fall](etādṛśavinīpātamagamaddhṛtarāṣṭrajaḥ)
+[such](etādṛśa) [downfall](vinīpātam) [obtained](agamat) [dhṛtarāṣṭra+son](dhṛtarāṣṭra+jaḥ)
 
 ## mukta-m0-p51-v1261
-[deposit-here-conduct](nikṣipasvamihācāramanuniṣṭhagatajvaraḥ)
+[cast-away](nikṣipasva) [here](iha) [conduct](ācāram) [without+attachment](anuniṣṭha+gata+jvaraḥ)
 
 ## mukta-m0-p51-v1262
-[fear-instruction-split](bhetopadeśanirbhiṇāścittadoṣa) [mind-fault](nirāgrahāḥ)
+[by-fear+instruction+pierced](bheta+upadeśa+nirbhinnāḥ) [mind+faults](citta+doṣa) [without-insistence](nirāgrahāḥ)
 
 ## mukta-m0-p51-v1263
-[then](atha) [low](nīca) [of-men](narāṇāṃ) [but](tu) [gift-form-instruction](dānarūpopadeśataḥ)
+[now](atha) [low](nīca) [of-men](narāṇāṃ) [but](tu) [gift+form+instruction](dāna+rūpa+upadeśataḥ)
 
 ## mukta-m0-p51-v1264
-[gift](dānaṃ) [named](nāmeṣṭavastūnāṃ) [true-false-form](satyāsatyasvarūpiṇām)
+[gift](dānaṃ) [indeed](nāma) [desired+things](iṣṭa+vastūnāṃ) [true+untrue+natured](satya+asatya+svarūpiṇām)
 
 ## mukta-m0-p51-v1265
-[there](tatra) [Vyasa-etc](vyāsādayaḥ) [said-thus](procuevaṃ) [to-low-men](nīcanarānprati)
+[there](tatra) [vyāsa+others](vyāsa+ādayaḥ) [said](procuḥ) [thus](evaṃ) [low+men+towards](nīca+narān+prati)
 
 ## mukta-m0-p51-v1266
-[other-wives](paradārānuṣaṃ) [go](gācca) [by-abstinence](viratyā) [merit-wealth](puṇyasaṃpadaḥ)
+[others'+wives+approach](para+dārā+anuṣaṃgāt) [and](ca) [by-abstention](viratyā) [merit+wealth](puṇya+saṃpadaḥ)
 
 ## mukta-m0-p51-v1267
-[other-thing](paravastu) [grasping](grahaṇato) [by-non-eternal](nirutyā) [wealth-arises](saṃpadudbhavet)
+[others'+property](para+vastu) [from-seizing](grahaṇataḥ) [by-abstention](nirutyā) [wealth+arising](saṃpat+udbhavet)
 
 ## mukta-m0-p51-v1268
-[by-this](anena) [merit-path](puṇyamārgeṇa) [your](tava) [happiness](saukhyaṃ) [step](pade) [step](pade)
+[by-this](anena) [merit+path](puṇya+mārgeṇa) [your](tava) [happiness](saukhyaṃ) [step](pade) [step](pade)
 
 ## mukta-m0-p51-v1269
-[will-complete](samāpsyasi)
+[you-will-obtain](samāpsyasi)
 
 ## mukta-m0-p51-v1270
-[enticing](vipralobhya) [good-conduct](sadācārān) [Vyasa-taught](vyāsādhyātānvininvire)
+[having-enticed](vipralobhya) [good+conducts](sat+ācārān) [vyāsa+others+stated](vyāsa+ādhi+ātān) [they-led](vininvire)
 
 ## mukta-m0-p51-v1271
-[severe-fasting](tīvropavāsa) [suffering-etc](duḥkhādyamapi) [do](kurvaṃti) [men](mānavāḥ)
+[intense+fasting](tīvra+upavāsa) [suffering+etc](duḥkha+ādyam) [even](api) [do](kurvaṃti) [people](mānavāḥ)
 
 ## mukta-m0-p51-v1272
-[therefore-gift-instruction](atodānopadeśo'yaṃ) [low-mortals](nicamartyeṣu) [urged](coditaḥ)
+[therefore](ataḥ) [gift+instruction](dāna+upadeśaḥ) [this](ayam) [low+mortals+among](nica+martyeṣu) [declared](coditaḥ)
 
 ## mukta-m0-p51-v1273
-[many-fault-grasping](bahudoṣagrahavatāṃ) [three-enclosures](kakṣyātraya) [transgressing](vilaṃghinām)
+[many+faults+grasping](bahu+doṣa+grahavatāṃ) [three+stages](kakṣyā+traya) [transgressing](vilaṃghinām)
 
 ## mukta-m0-p51-v1274
-[among-them](teṣu) [that-path](tanmārgamālambya) [teach](śikṣayantyadhamādhamān)
+[among-them](teṣu) [that+path](tat+mārgam) [having-resorted-to](ālambya) [they-instruct](śikṣayanti) [lowest+of-low](adhama+adhamān)
 
 ## mukta-m0-p51-v1275
-[hand-cutting](hastacchedaiḥ) [foot-cutting](padacchedaiḥ) [beatings](tāḍanaiḥ) [needle-piercing](sūcivedhanaiḥ)
+[by-hand+cuttings](hasta+cchedaiḥ) [by-foot+cuttings](pada+cchedaiḥ) [by-beatings](tāḍanaiḥ) [by-needle+piercings](sūci+vedhanaiḥ)

@@ -1,14 +1,15 @@
 {
  "song": "kjn-p21",
  "verse": 520,
- "question": "What event befell the one born of Acyavana in the great ocean?",
+ "question": "What is truly said to have been born of Cyavana and to have fallen into the great ocean?",
  "premises": [
-  "One born of Acyavana is mentioned",
-  "That one fell into the great ocean"
+  "Something born of Cyavana is mentioned.",
+  "It is said to have fallen.",
+  "A location in the great ocean is specified."
  ],
- "inference": "The one born of Acyavana fell into the great ocean",
+ "inference": "Truly, what was born of Cyavana fell into the great ocean.",
  "uncertainties": [
-  "Reading 'acyavana' versus 'cyavana' follows the given surface"
+  "The identity of what was born remains implicit."
  ],
- "plain_english": "Truly, the one born of Acyavana fell into the great ocean."
+ "plain_english": "Truly, what was born of Cyavana fell into the great ocean."
 }

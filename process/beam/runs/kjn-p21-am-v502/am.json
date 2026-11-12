@@ -1,12 +1,15 @@
 {
  "song": "kjn-p21",
  "verse": 502,
- "question": "How are beasts known in the world characterized with respect to knowledge?",
+ "question": "By what criterion do those speaking in the world classify beasts as a class devoid of knowledge?",
  "premises": [
-  "Beasts are known in the world",
-  "They are described as devoid of knowledge"
+  "A class of beings is spoken of in the world.",
+  "That class is designated as beasts.",
+  "Beasts are characterized as devoid of knowledge."
  ],
- "inference": "Worldly understanding identifies beasts as lacking knowledge",
- "uncertainties": [],
- "plain_english": "They say that beasts, known in the world, are devoid of knowledge."
+ "inference": "The traditional classification holds beasts to be known in the world as devoid of knowledge.",
+ "uncertainties": [
+  "The extent of the claim to a universal classification is not explicit."
+ ],
+ "plain_english": "In the world they say that beasts, devoid of knowledge, are a known class."
 }

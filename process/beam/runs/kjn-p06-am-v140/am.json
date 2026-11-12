@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 140,
- "question": "What further qualities adorn the ideal place for practice?",
+ "question": "What additional qualities characterize the ideal place for this practice?",
  "premises": [
   "The place is secluded and deserted",
-  "The place is divine",
-  "It is adorned with multitudes of flowers"
+  "The place has a divine quality",
+  "The place is adorned with many flowers"
  ],
- "inference": "The ideal place is secluded, divine, and adorned with flowers.",
- "uncertainties": [],
- "plain_english": "In a secluded, deserted, divine place, adorned with multitudes of flowers."
+ "inference": "The ideal place is secluded, deserted, divine, and adorned with many flowers.",
+ "uncertainties": [
+  "prakaraṇa interpreted as multitude following legacy hint"
+ ],
+ "plain_english": "In a secluded, deserted, divine place, adorned with an abundance of flowers."
 }

@@ -1,12 +1,15 @@
 {
  "song": "kjn-p21",
  "verse": 501,
- "question": "What state characterizes the one who has drawn in the fish?",
+ "question": "On what basis does the account hold that drawing the fish occurs only when it is equipped with a net of power?",
  "premises": [
-  "The fish is drawn in",
-  "The agent becomes equipped with a power-net"
+  "The action of drawing takes place at a specified time.",
+  "The fish is described as equipped with a net of power.",
+  "The particle marks a distinct step in the sequence of action."
  ],
- "inference": "Drawing in the fish results in being endowed with the net of śakti",
- "uncertainties": [],
- "plain_english": "Then, having indeed drawn in the fish, one becomes equipped with the net of power."
+ "inference": "The capture of the fish is presented as conditional on its being equipped with a net of power.",
+ "uncertainties": [
+  "The precise scope of śakti-jāla remains context-dependent."
+ ],
+ "plain_english": "Then, indeed, having drawn the fish, it is described as equipped with a net of power."
 }
