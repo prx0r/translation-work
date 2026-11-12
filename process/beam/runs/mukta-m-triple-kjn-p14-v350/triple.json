@@ -7,7 +7,7 @@
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "numeral referring to the eight attainments",
+     "grounds": "numeral referring to the eight powers",
      "morph": "num.nom.pl"
     },
     {
@@ -18,9 +18,9 @@
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "siddhi-attainment-root-kaula",
-     "grounds": "sandhi fusion of siddhisaṃprāptiḥ and mūlakaulam; compound expressing attainment of powers as the root Kaula",
-     "morph": "compound"
+     "gloss": "attainment-of-powers-root-kaula",
+     "grounds": "fused form of siddhisaṃprāptiḥ and mūlakaulam; internal sandhi noted, analyzed as given",
+     "morph": "compound.nom.sg.f+compound.nom.sg.n"
     },
     {
      "surface": "varānane",
@@ -29,17 +29,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What status do the eight attainments of siddhi hold within the root Kaula teaching?",
+   "question": "Do the eight powers and attainment of siddhis constitute the root Kaula teaching?",
    "premises": [
-    "The eight are explicitly named in this context.",
-    "The attainment of siddhis is identified with the root Kaula.",
-    "The teaching is addressed directly to the fair-faced goddess."
+    "The eight powers are included in this enumeration.",
+    "Attainment of siddhis is included in this enumeration.",
+    "These attainments are identified as the root Kaula."
    ],
-   "inference": "The eight attainments of siddhi constitute the essence of the root Kaula.",
+   "inference": "The eight powers together with the attainment of siddhis belong to and define the root Kaula.",
    "uncertainties": [
-    "The exact internal compound analysis of siddhisaṃprāptirmūlakaulaṃ is compressed by sandhi."
+    "The exact internal structure of the fused token siddhisaṃprāptirmūlakaulaṃ allows more than one syntactic parsing."
    ],
-   "plain_english": "And the eight, O fair-faced one, along with the attainment of siddhis, are the root Kaula."
+   "plain_english": "And the eight powers, along with the attainment of siddhis, are the root Kaula, O fair-faced one."
   }
  ]
 }

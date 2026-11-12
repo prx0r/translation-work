@@ -3,11 +3,13 @@
  "verse": 315,
  "question": "Which materials are enumerated as suitable for ritual vessels?",
  "premises": [
-  "Vessels made of clay are mentioned",
-  "Vessels of tortoise origin are mentioned",
-  "Vessels of bell metal and copper are mentioned"
+  "Clay is listed as a material.",
+  "Tortoise-derived material is listed.",
+  "Bell metal and copper metal are listed."
  ],
- "inference": "Suitable vessels include those made of clay, tortoise, bell metal, and copper.",
- "uncertainties": [],
- "plain_english": "O Goddess, vessels may be made of clay, born of a tortoise, made of bell metal, or made of copper."
+ "inference": "Ritual vessels may be made of clay, tortoise-derived material, bell metal, or copper.",
+ "uncertainties": [
+  "The exact meaning of 'kūrmajaṃ' in this ritual context is uncertain."
+ ],
+ "plain_english": "O goddess, vessels may be made of clay, born of a tortoise, made of bell metal, or made of copper."
 }

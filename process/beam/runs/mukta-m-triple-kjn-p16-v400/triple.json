@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "forehead-syllable-mass-situated",
-     "grounds": "fused compound as given; internal sandhi not split",
-     "morph": "compound = member+membership"
+     "gloss": "situated-in-forehead-syllable-mass",
+     "grounds": "Compound adjective describing something located in the collection of syllables on the forehead.",
+     "morph": "compound adj.acc.sg.n"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "cardinal quantity as given",
+     "grounds": "Numerical quantity indicating the number of repetitions.",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "gerundive/absolute form as given",
-     "morph": "indecl."
+     "grounds": "Gerund expressing the completion of the action.",
+     "morph": "gerund (kṛ)"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "god-worshipped",
-     "grounds": "fused compound as given; internal sandhi not split",
-     "morph": "compound = member+membership"
+     "gloss": "O-god-worshipped",
+     "grounds": "Vocative address to a deity honored by the gods.",
+     "morph": "compound m.voc.sg"
     }
    ],
-   "question": "Under what condition must a hundred-thousand, situated in the mass of forehead syllables and having been enacted, be offered to one worshipped by the gods?",
+   "question": "What ritual repetition involving the forehead syllable-mass is enjoined for the god-worshipped?",
    "premises": [
-    "A quantity of a hundred-thousand is situated in the mass of forehead syllables.",
-    "The act has been completed prior to the offering in question.",
-    "The recipient is one who is worshipped by the gods."
+    "The action is directed toward what is situated in the forehead syllable-mass.",
+    "The prescribed quantity of the action is one hundred thousand.",
+    "The addressee is the one worshipped by the gods."
    ],
-   "inference": "The completed offering of that quantity is directed specifically to the god-worshipped recipient.",
+   "inference": "One must perform a hundred-thousandfold repetition focused on what is situated in the forehead syllable-mass, O god-worshipped.",
    "uncertainties": [
-    "The exact ritual scope of the offering remains unclear from this verse alone."
+    "The exact nature of the action implied by kṛtya (such as recitation or visualization) is not explicitly specified."
    ],
-   "plain_english": "A hundred-thousand, situated in the mass of forehead syllables, having been enacted, is for the one worshipped by the gods."
+   "plain_english": "O god-worshipped one, having performed a hundred thousand repetitions focused on what is situated in the mass of syllables on the forehead."
   }
  ]
 }

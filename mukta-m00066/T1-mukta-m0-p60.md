@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p60-v1476
-[svataṃtra](svataṃtra) [svaira](svaira) [saṃcāraḥ](saṃcāraḥ) [na](na) [asya](asya) [adhikyena](adhikyena) [kaṃcana](kaṃcana)
+[independent](svataṃtra) [self-willed](svaira) [movement](saṃcāro) [not](na) [by-its](asya) [superiority](ādhikyena) [anyone](kaṃcana)
 
 ## mukta-m0-p60-v1477
-[tad](tad) [eva](eva) [rūpaṃ](rūpaṃ) [saṃdhatte](saṃdhatte) [vāyuḥ+eva+mahābalaḥ](vāyurevamahābalaḥ)
+[that](tad) [indeed](eva) [form](rūpaṃ) [joins](saṃdhatte) [wind](vāyur) [indeed](eva) [greatly-powerful](mahābalaḥ)
 
 ## mukta-m0-p60-v1478
-[etad](etad) [aṇḍa](aṇḍa) [purā](purā) [avasthā](avasthā) [tad](tad) [aṇḍa](aṇḍa) [antaram](antaram) [īritam](īritam)
+[this](etad) [egg](aṇḍa) [former-state](purāvasthā) [that](tad) [egg](aṇḍa) [interior](antaram) [declared](īritam)
 
 ## mukta-m0-p60-v1479
-[jantu](jantu) [deha](deha) [antare](antare) [yadvat](yadvat) [sirāḥ](sirāḥ) [tadvat](tadvat) [mahā+pagāḥ](mahāpagāḥ)
+[creature](jantu) [body](deha) [within](antare) [as](yadvat) [veins](sirās) [so](tadvat) [great-rivers](mahāpagāḥ)
 
 ## mukta-m0-p60-v1480
-[tathā](tathā) [aṇḍa](aṇḍa) [madhye](madhye) [suśroṇi](suśroṇi) [bhāti](bhāti) [bhānuḥ](bhānuḥ) [pradīptimān](pradīptimān)
+[so](tathā) [egg](aṇḍa) [in-middle](madhye) [O-beautiful-hipped-one](suśroṇi) [shines](bhāti) [sun](bhānuḥ) [radiant](pradīptimān)
 
 ## mukta-m0-p60-v1481
-[yathā](yathā) [kvacit](kvacit) [sirā](sirā) [koṇe](koṇe) [malakośonnakośake](malakośonnakośake)
+[as](yathā) [somewhere](kvacit) [vein](sirā) [corner](koṇe) [impurity](mala) [sheath](kośa) [swelling](unna) [sheath](kośake)
 
 ## mukta-m0-p60-v1482
-[yathā](yathā) [antargata](antargata) [kīṭānāṃ](kīṭānāṃ) [vṛttānta](vṛttānta) [na](na) [śarīriṇau](śarīriṇau)
+[as](yathā) [inside](antar) [gone](gata) [insects](kīṭānāṃ) [condition](vṛttānto) [not](na) [bodiless](śarīriṇau)
 
 ## mukta-m0-p60-v1483
-[deha](deha) [anurūpa](anurūpa) [saṃceṣṭaḥ](saṃceṣṭaḥ) [yathā](yathā) [deha](deha) [abhimānavān](abhimānavān)
+[body](deha) [conforming](anurūpa) [activity](saṃceṣṭo) [as](yathā) [body](deha) [identification](abhimānavān)
 
 ## mukta-m0-p60-v1484
-[ataḥ](ataḥ) [ātyantika](ātyantika) [nāśaḥ](nāśaḥ) [na](na) [eva](eva) [piṇḍa](piṇḍa) [aṇḍayoḥ](aṇḍayoḥ) [bhavet](bhavet)
+[therefore](ata) [absolute](ātyantiko) [destruction](nāśo) [not](na) [indeed](eva) [of-body](piṇḍa) [and-egg](aṇḍayor) [would-be](bhavet)
 
 ## mukta-m0-p60-v1485
-[kīṭa](kīṭa) [ādya](ādya) [apekṣayā](apekṣayā) [yadvat](yadvat) [paśyatāṃ](paśyatāṃ) [cira](cira) [jīvitā](jīvitā)
+[insect](kīṭa) [and-others](ādya) [in-comparison](apekṣayā) [as](yadvat) [of-those-seeing](paśyatāṃ) [long-life](cirajīvitā)
 
 ## mukta-m0-p60-v1486
-[nṛṇām](nṛṇām) [apekṣyā](apekṣyā) [yadvat](yadvat) [siddhānāṃ](siddhānāṃ) [ciraṃ](ciraṃ) [jīvitā](jīvitā)
+[of-humans](nṛṇām) [in-comparison](apekṣyā) [as](yadvat) [of-siddhas](siddhānāṃ) [long-life](cirajīvitā)
 
 ## mukta-m0-p60-v1487
-[mahā](mahā) [śaṃbhoḥ](śaṃbhoḥ) [iti](iti) [yathā](yathā) [kramāt](kramāt) [dīrgha](dīrgha) [āyuṣaḥ](āyuṣaḥ) [sthitiḥ](sthitiḥ)
+[of-great-Śambhu](mahāśaṃbhor) [thus](iti) [as](yathā) [gradually](kramād) [long-lived](dīrghāyuṣa) [state](sthitiḥ)
 
 ## mukta-m0-p60-v1488
-[tat](tat) [tat](tat) [deha](deha) [tataiḥ](tataiḥ) [sāraiḥ](sāraiḥ) [cirācira](cirācira) [nivāsitā](nivāsitā)
+[that](tat) [that](tad) [body](deha) [spread-out](tataiḥ) [essences](sāraiś) [long](cirā) [or-short](cira) [dwelling](nivāsitā)
 
 ## mukta-m0-p60-v1489
-[kāka](kāka) [ādīnāṃ](ādīnāṃ) [śarīreṣu](śarīreṣu) [cira](cira) [jīvi](jīvi) [maheśvaraḥ](maheśvaraḥ)
+[of-crows](kāka) [and-others](ādīnāṃ) [in-bodies](śarīreṣu) [long-living](cirajīvi) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p60-v1490
-[yathā](yathā) [yathā](yathā) [nirmalatāṃ](nirmalatāṃ) [bhūta](bhūta) [saṃghātaḥ](saṃghātaḥ) [īhate](īhate)
+[as](yathā) [as](yathā) [purity](nirmalatāṃ) [element](bhūta) [aggregate](saṃghāta) [strives-for](īhate)
 
 ## mukta-m0-p60-v1491
-[tat](tat) [ca](ca) [nairmalyam](nairmalyam) [eṇākṣi](eṇākṣi) [tathā](tathā) [pākena](pākena) [jāyate](jāyate)
+[that](tat) [and](ca) [purity](nairmalyam) [O-doe-eyed-one](eṇākṣi) [so](tathā) [by-maturation](pākena) [is-born](jāyate)
 
 ## mukta-m0-p60-v1492
-[saḥ](saḥ) [ca](ca) [api](api) [aniyataḥ](aniyataḥ) [subhru](subhru) [kvacid](kvacid) [bhavati](bhavati) [na](na) [kvacit](kvacit)
+[that](sa) [and](ca) [also](api) [not-fixed](aniyataḥ) [O-beautiful-browed-one](subhru) [somewhere](kvacid) [is](bhavati) [not](na) [somewhere](kvacit)
 
 ## mukta-m0-p60-v1493
-[kaścit](kaścit) [pūrva](pūrva) [adhika](adhika) [janmi](janmi) [guṇaiḥ](guṇaiḥ) [sarvaiḥ](sarvaiḥ) [ca](ca) [saṃyutaḥ](saṃyutaḥ)
+[someone](kaścit) [previous](pūrva) [superior](ādhiko) [born](janmi) [with-qualities](guṇaiḥ) [with-all](sarvaiś) [and](ca) [endowed](saṃyutaḥ)
 
 ## mukta-m0-p60-v1494
-[śāṃbhava](śāṃbhava) [upāya](upāya) [saṃsiddha](saṃsiddha) [śāktānava](śāktānava) [vivarjitaḥ](vivarjitaḥ)
+[Śāmbhava](śāṃbhava) [means](upāya) [accomplished](saṃsiddha) [Śākta](śākta) [and-Āṇava](āṇava) [devoid-of](vivarjitaḥ)
 
 ## mukta-m0-p60-v1495
-[marut](marut) [vaśa](vaśa) [mahābhūta](mahābhūta) [pākasya](pākasya) [eṣa](eṣa) [parākramaḥ](parākramaḥ)
+[wind](marud) [controlled](vaśa) [great-element](mahābhūta) [maturation](pākasya) [this](eṣa) [power](parākramaḥ)
 
 ## mukta-m0-p60-v1496
-[trailokya](trailokya) [timira](timira) [dhvaṃsi](dhvaṃsi) [bhāskara](bhāskara) [ākhyaṃ](ākhyaṃ) [mahāmahaḥ](mahāmahaḥ)
+[three-world](trailokya) [darkness](timira) [destroying](dhvaṃsi) [sun](bhāskarākhyaṃ) [great-light](mahāmahaḥ)
 
 ## mukta-m0-p60-v1497
-[sthānāt](sthānāt) [sthāna](sthāna) [antara](antara) [prāptyā](prāptyā) [calanaṃ](calanaṃ) [tena](tena) [pārvati](pārvati)
+[from-place](sthānāt) [to-another-place](sthānāntara) [by-attainment](prāptyā) [movement](calanaṃ) [by-that](tena) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p60-v1498
-[tad](tad) [ādeḥ](ādeḥ) [kāraṇaṃ](kāraṇaṃ) [vāyuḥ](vāyuḥ) [evaṃ](evaṃ) [hartā](hartā) [samīraṇaḥ](samīraṇaḥ)
+[of-that](tad) [and-others](ādeḥ) [cause](kāraṇaṃ) [wind](vāyur) [indeed](evaṃ) [remover](hartā) [breath](samīraṇaḥ)
 
 ## mukta-m0-p60-v1499
-[anyonya](anyonya) [bhautika](bhautika) [aṃśānāṃ](aṃśānāṃ) [na](na) [yat](yat) [janma](janma) [ca](ca) [janminaḥ](janminaḥ)
+[mutual](anyonya) [elemental](bhautikāṃśānāṃ) [not](na) [which](yad) [birth](janma) [and](ca) [of-the-born](janminaḥ)
 
 ## mukta-m0-p60-v1500
-[yatnena](yatnena) [ghaṭitaṃ](ghaṭitaṃ) [rūpaṃ](rūpaṃ) [svena](svena) [yat](yat) [saṃhariṣyate](saṃhariṣyate)
+[by-effort](yatnena) [fashioned](ghaṭitaṃ) [form](rūpaṃ) [by-itself](svena) [which](yat) [will-withdraw](saṃhariṣyate)

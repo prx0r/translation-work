@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 311,
- "question": "How frequently should a contemplative practitioner worship their own guru?",
+ "question": "How should a contemplative practitioner worship their own guru?",
  "premises": [
-  "One's own guru is the object of worship",
-  "Worship should be constant",
-  "Worship should occur at three times"
+  "The object of worship is one's own guru.",
+  "Worship should be constant.",
+  "Worship should occur three times daily."
  ],
- "inference": "A contemplative practitioner should always worship their own guru three times daily.",
- "uncertainties": [],
- "plain_english": "One whose self is contemplative should always worship their own guru three times a day."
+ "inference": "A contemplative practitioner should worship their own guru always, three times a day.",
+ "uncertainties": [
+  "The genitive 'bhāvitātmanaḥ' may qualify the practitioner or relate differently in context."
+ ],
+ "plain_english": "One should always worship one's own guru three times a day, with a contemplative mind."
 }
