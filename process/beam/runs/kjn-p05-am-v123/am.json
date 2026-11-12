@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What duration of practice is required for old age and death to be destroyed?",
+ "question": "What claim is made about old age and death when the practice has been carried out for one year?",
  "premises": [
-  "The practice is continued for one year",
-  "The practice becomes established",
-  "Old age and death are destroyed"
+  "A practice is carried out for one year.",
+  "That practice is the condition stated.",
+  "Under that condition, old age and death are destroyed."
  ],
- "inference": "When this practice is maintained for one year, old age and death are destroyed.",
- "uncertainties": [],
+ "inference": "When the practice has been carried out for one year, old age and death are destroyed.",
+ "uncertainties": [
+  "The specific practice is not named in this verse alone"
+ ],
  "plain_english": "When practiced for one year, old age and death are destroyed."
 }

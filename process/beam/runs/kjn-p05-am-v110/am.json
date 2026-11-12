@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 110,
- "question": "What is the soul called immediately upon leaving the physical body?",
+ "question": "What condition is claimed to be sufficient for that being to be called the supreme Śiva?",
  "premises": [
-  "The soul leaves the body",
-  "This departure is described as mere leaving",
-  "At that moment it is declared supreme Śiva"
+  "A referent is indicated.",
+  "The condition given is merely leaving the body.",
+  "Upon that condition, that referent is called the supreme Śiva."
  ],
- "inference": "Upon merely leaving the body, that soul is called the supreme Śiva.",
- "uncertainties": [],
- "plain_english": "As soon as it leaves the body, it is called the supreme Śiva."
+ "inference": "Upon merely leaving the body, that being is called the supreme Śiva.",
+ "uncertainties": [
+  "The antecedent of 'he' is not given in this verse alone"
+ ],
+ "plain_english": "He, upon merely leaving the body, is called the supreme Śiva."
 }

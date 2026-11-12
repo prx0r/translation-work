@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 106,
- "question": "Into what does the individual soul dissolve and how should this be explained?",
+ "question": "What claim about dissolution is at stake when asking in what it dissolves and requesting a full account of all of that?",
  "premises": [
-  "The soul undergoes dissolution",
-  "The locus of dissolution is questioned",
-  "The speaker requests a full explanation"
+  "Dissolution is said to occur for something.",
+  "The locus of that dissolution is in question.",
+  "A complete account of all related matters is requested."
  ],
- "inference": "The verse asks where the soul dissolves and requests that all of this be explained.",
- "uncertainties": [],
- "plain_english": "And into what does it dissolve? Tell me all of that."
+ "inference": "The speaker requests to be told in what dissolution occurs and the full account of all of that.",
+ "uncertainties": [
+  "The referent of 'that all' is not specified in this verse alone"
+ ],
+ "plain_english": "And indeed, in what does it go to dissolution? Tell me all of that."
 }

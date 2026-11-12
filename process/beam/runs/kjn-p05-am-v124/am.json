@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to deadly poison results from the perfected yogic practice?",
+ "question": "What claim is made about the effect of poison on the body of one who has been bitten by great serpents under the stated condition?",
  "premises": [
-  "The practitioner may be bitten by great serpents",
-  "Poison would normally enter the body",
-  "In this case poison does not enter"
+  "One may be bitten by great serpents.",
+  "Poison is the agent at issue.",
+  "Poison does not enter the body in that case."
  ],
- "inference": "Through this perfected practice, poison does not enter the body even if bitten by great serpents.",
- "uncertainties": [],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "uncertainties": [
+  "The condition that prevents poison from entering is not stated in this verse alone"
+ ],
+ "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }

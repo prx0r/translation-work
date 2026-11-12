@@ -13,39 +13,37 @@
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive expressing prior cognition leading to the result",
-     "morph": "gerund(jñā)"
+     "grounds": "absolutive expressing prior act of knowing",
+     "morph": "(indecl., absolutive, √jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "object of knowing; compound of hidden and true being",
-     "morph": "compound(gūḍha+sadbhāva).m.acc.sg"
+     "grounds": "compound describing the concealed essential nature",
+     "morph": "m.acc.sg, compound: gūḍha+sadbhāva"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "state that arises as the result",
-     "morph": "n.nom.sg"
+     "grounds": "state of omniscience",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "main verb stating the emergence of the resulting state",
-     "morph": "3.sg.present.middle(pra-jan)"
+     "grounds": "verb indicating the emergence of a state",
+     "morph": "3.sg.present.middle, √jan with pra-"
     }
    ],
-   "question": "What state arises from knowing that hidden true nature?",
+   "question": "What realization arises from knowing the hidden true nature?",
    "premises": [
-    "There is a hidden true nature to be known.",
-    "Knowing that hidden true nature is possible.",
-    "A specific resultant state arises from such knowing."
+    "The hidden true nature can be known.",
+    "Knowing that hidden true nature has a transformative result.",
+    "Omniscience is the state that emerges from such knowledge."
    ],
-   "inference": "Knowing the hidden true nature gives rise to all-knowingness.",
-   "uncertainties": [
-    "The exact referent of 'taṃ' depends on the preceding verses."
-   ],
-   "plain_english": "Having known that hidden true nature, all-knowingness arises."
+   "inference": "Knowing the hidden true nature gives rise to omniscience.",
+   "uncertainties": [],
+   "plain_english": "Having known that hidden true nature, omniscience arises."
   }
  ]
 }
