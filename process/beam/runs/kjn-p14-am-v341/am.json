@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 341,
- "question": "Which acts of hostility and disobedience make a person unfit for the teaching?",
+ "question": "What hostile behavior toward sacred authorities disqualifies a potential recipient?",
  "premises": [
-  "Hostility toward the yoginis is disqualifying",
-  "Transgressing the guru's command is disqualifying",
-  "Such a person is identified negatively"
+  "Hostility toward the yoginis is a fault",
+  "Transgressing the guru's command is a fault",
+  "Such a person is unfit to receive the teaching"
  ],
  "inference": "One hostile to the yoginis and disobedient to the guru must not receive the teaching.",
- "uncertainties": [],
- "plain_english": "And to one who is hostile to the yoginis and transgresses the guru's command..."
+ "uncertainties": [
+  "The predicate denying transmission is carried over from adjacent verses"
+ ],
+ "plain_english": "And not to one who is hostile to the yoginis and who transgresses the guru's command."
 }
