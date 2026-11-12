@@ -1,0 +1,104 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p55",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1354 ratio=0.847",
+  "ALIGN_NODISP v1358 ratio=0.882",
+  "ALIGN_NODISP v1360 ratio=0.851",
+  "ALIGN_NODISP v1362 ratio=0.897",
+  "ALIGN_NODISP v1363 ratio=0.871",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "c16f06ca4337dc11",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 162
+ },
+ "align": {
+  "min_ratio": 0.847,
+  "sub090": {
+   "1354": {
+    "ratio": 0.847,
+    "disposition": null
+   },
+   "1358": {
+    "ratio": 0.882,
+    "disposition": null
+   },
+   "1360": {
+    "ratio": 0.851,
+    "disposition": null
+   },
+   "1362": {
+    "ratio": 0.897,
+    "disposition": null
+   },
+   "1363": {
+    "ratio": 0.871,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "When the teacher is pleased, the disciple's sins are immediately destroyed."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 55,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 162,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v1354",
+  "fix: word-order/gloss vs source for v1358",
+  "fix: word-order/gloss vs source for v1360",
+  "fix: word-order/gloss vs source for v1362",
+  "fix: word-order/gloss vs source for v1363"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "667a5f25dc25e786af14c46cb5dd9a88da703edf4687f212d4543d2bc3e4f5b9",
+  "l0": "fe60d58e1adf9d266c380f826bc8b59e2738340960859fcff1baf5aa1738ea4d",
+  "argmap": "acea65261f3e06243b69e0b80fcb7d9ed6bab1b0762dec642f3db1b1d995beaf",
+  "l2": "667efd6a15802047d5fa886a70e3bde5317d545186bbb5bfe8841c5921807a96",
+  "c1": "fc2028e64b23c9d4880ad162bc24709618ace701b8749d134d0913aa02755a69"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "c16f06ca4337dc11",
+  "t1": "kul-p55/data/kul-p55.t1.json",
+  "l0": "kul-p55/data/kul-p55.l0.json",
+  "l2": "kul-p55/data/kul-p55.l2.json",
+  "c1": "kul-p55/data/kul-p55.c1.json"
+ }
+}

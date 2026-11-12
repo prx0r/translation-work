@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 295,
- "question": "By what means alone does the unfolding of true knowledge occur?",
+ "question": "By what means does the unfolding of true knowledge occur according to this teaching?",
  "premises": [
-  "The unfolding of knowledge occurs in this way.",
-  "It does not occur through other service.",
-  "The statement is addressed to the fair one."
+  "The unfolding of knowledge is said to occur.",
+  "It occurs in this manner.",
+  "It does not occur through other forms of service."
  ],
- "inference": "The unfolding of knowledge arises in this way and not through any other service.",
- "uncertainties": [],
- "plain_english": "O fair one, the unfolding of knowledge occurs in this way, and not through any other service."
+ "inference": "The unfolding of knowledge arises in this way and not through other service.",
+ "uncertainties": [
+  "The specific referent of 'thus' depends on the preceding ritual context."
+ ],
+ "plain_english": "O fair one, the unfolding of knowledge comes about in this way, and not through any other service."
 }

@@ -1,0 +1,100 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p48",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1178 ratio=0.871",
+  "ALIGN_NODISP v1182 ratio=0.781",
+  "ALIGN_NODISP v1183 ratio=0.854",
+  "ALIGN_NODISP v1189 ratio=0.867",
+  "ALIGN_NODISP v1190 ratio=0.792"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "f7a297d837af1eaf",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 122
+ },
+ "align": {
+  "min_ratio": 0.781,
+  "sub090": {
+   "1178": {
+    "ratio": 0.871,
+    "disposition": null
+   },
+   "1182": {
+    "ratio": 0.781,
+    "disposition": null
+   },
+   "1183": {
+    "ratio": 0.854,
+    "disposition": null
+   },
+   "1189": {
+    "ratio": 0.867,
+    "disposition": null
+   },
+   "1190": {
+    "ratio": 0.792,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 32,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 122,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v1178",
+  "fix: word-order/gloss vs source for v1182",
+  "fix: word-order/gloss vs source for v1183",
+  "fix: word-order/gloss vs source for v1189",
+  "fix: word-order/gloss vs source for v1190"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "73670062afd906e6c8a025b8e9a7fdf48383912d195b564365251e6d68ee4531",
+  "l0": "7b451fca6d4cc60c9ceb91f65f51516d2458604f3902b2c1e8b63ddce763df0c",
+  "argmap": "b807ec72e13645108bc053adc86d3fb5c50f1a151c5797819da559d31e0d25b4",
+  "l2": "c7b45a13efe20499aca37740a5ac1e25817154fc9c202f6db5cf9f9bcd0dfda5",
+  "c1": "25567f96a92b03a0ed336fb9bdbdd057f2adba4d7f8afe11d88da9cb8fd3d68a"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "f7a297d837af1eaf",
+  "t1": "kul-p48/data/kul-p48.t1.json",
+  "l0": "kul-p48/data/kul-p48.l0.json",
+  "l2": "kul-p48/data/kul-p48.l2.json",
+  "c1": "kul-p48/data/kul-p48.c1.json"
+ }
+}

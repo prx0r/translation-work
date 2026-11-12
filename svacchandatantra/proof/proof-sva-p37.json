@@ -1,0 +1,172 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p37",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v901 ratio=0.583",
+  "ALIGN_NODISP v902 ratio=0.400",
+  "ALIGN_NODISP v905 ratio=0.365",
+  "ALIGN_NODISP v906 ratio=0.667",
+  "ALIGN_NODISP v909 ratio=0.667",
+  "ALIGN_NODISP v910 ratio=0.667",
+  "ALIGN_NODISP v912 ratio=0.667",
+  "ALIGN_NODISP v913 ratio=0.667",
+  "ALIGN_NODISP v914 ratio=0.667",
+  "ALIGN_NODISP v915 ratio=0.400",
+  "ALIGN_NODISP v917 ratio=0.784",
+  "ALIGN_NODISP v918 ratio=0.400",
+  "ALIGN_NODISP v919 ratio=0.667",
+  "ALIGN_NODISP v920 ratio=0.839",
+  "ALIGN_NODISP v921 ratio=0.667",
+  "ALIGN_NODISP v924 ratio=0.667",
+  "ALIGN_NODISP v925 ratio=0.400"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "062b524436c57063",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 105
+ },
+ "align": {
+  "min_ratio": 0.365,
+  "sub090": {
+   "901": {
+    "ratio": 0.583,
+    "disposition": null
+   },
+   "902": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "905": {
+    "ratio": 0.365,
+    "disposition": null
+   },
+   "906": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "909": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "910": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "912": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "913": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "914": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "915": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "917": {
+    "ratio": 0.784,
+    "disposition": null
+   },
+   "918": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "919": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "920": {
+    "ratio": 0.839,
+    "disposition": null
+   },
+   "921": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "924": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "925": {
+    "ratio": 0.4,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 58,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 105,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v901",
+  "fix: word-order/gloss vs source for v902",
+  "fix: word-order/gloss vs source for v905",
+  "fix: word-order/gloss vs source for v906",
+  "fix: word-order/gloss vs source for v909",
+  "fix: word-order/gloss vs source for v910",
+  "fix: word-order/gloss vs source for v912",
+  "fix: word-order/gloss vs source for v913",
+  "fix: word-order/gloss vs source for v914",
+  "fix: word-order/gloss vs source for v915",
+  "fix: word-order/gloss vs source for v917",
+  "fix: word-order/gloss vs source for v918",
+  "fix: word-order/gloss vs source for v919",
+  "fix: word-order/gloss vs source for v920",
+  "fix: word-order/gloss vs source for v921",
+  "fix: word-order/gloss vs source for v924",
+  "fix: word-order/gloss vs source for v925"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "898234dfa763e520be0b330048630032d3281b7d98f0ff9967621b1c69f0e44a",
+  "l0": "f6e9209346dc5c7e5f317e7a4ff9ed477113f596fce84099cacfe6b42a733c51",
+  "argmap": "b4735a7e0bfea2d7d6a911ac744e57a8c16c319a833eabc0902c47eec2412f20",
+  "l2": "0b3d2ac9fb7f3b3090498c7305a9dd85a11277f83c48965d9f462b4bb92d2367",
+  "c1": "968b7635cc7092d4dd155d418866dbf65ce17bf465e1d3139ae3b41538c9d59b"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "062b524436c57063",
+  "t1": "sva-p37/data/sva-p37.t1.json",
+  "l0": "sva-p37/data/sva-p37.l0.json",
+  "l2": "sva-p37/data/sva-p37.l2.json",
+  "c1": "sva-p37/data/sva-p37.c1.json"
+ }
+}

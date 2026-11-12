@@ -1,0 +1,144 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p44",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1076 ratio=0.800",
+  "ALIGN_NODISP v1077 ratio=0.795",
+  "ALIGN_NODISP v1079 ratio=0.866",
+  "ALIGN_NODISP v1080 ratio=0.809",
+  "ALIGN_NODISP v1081 ratio=0.875",
+  "ALIGN_NODISP v1082 ratio=0.755",
+  "ALIGN_NODISP v1083 ratio=0.887",
+  "ALIGN_NODISP v1089 ratio=0.892",
+  "ALIGN_NODISP v1090 ratio=0.875",
+  "ALIGN_NODISP v1092 ratio=0.874",
+  "ALIGN_NODISP v1094 ratio=0.880",
+  "L2_CITE_FAIL 1",
+  "DATA_OBJECTS 1 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "ab32a032c156bfcc",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 129
+ },
+ "align": {
+  "min_ratio": 0.755,
+  "sub090": {
+   "1076": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "1077": {
+    "ratio": 0.795,
+    "disposition": null
+   },
+   "1079": {
+    "ratio": 0.866,
+    "disposition": null
+   },
+   "1080": {
+    "ratio": 0.809,
+    "disposition": null
+   },
+   "1081": {
+    "ratio": 0.875,
+    "disposition": null
+   },
+   "1082": {
+    "ratio": 0.755,
+    "disposition": null
+   },
+   "1083": {
+    "ratio": 0.887,
+    "disposition": null
+   },
+   "1089": {
+    "ratio": 0.892,
+    "disposition": null
+   },
+   "1090": {
+    "ratio": 0.875,
+    "disposition": null
+   },
+   "1092": {
+    "ratio": 0.874,
+    "disposition": null
+   },
+   "1094": {
+    "ratio": 0.88,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 48,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "indriyajayaḥ itthaṃ cāsya yogasya saguṇatvameva vyaktīkṛtam"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p44-v1086]: cite part not byte-exact in source: indriyajayaḥ itthaṃ cāsya yogasya saguṇatvameva vyaktīkṛtam"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 129,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v1076",
+  "fix: word-order/gloss vs source for v1077",
+  "fix: word-order/gloss vs source for v1079",
+  "fix: word-order/gloss vs source for v1080",
+  "fix: word-order/gloss vs source for v1081",
+  "fix: word-order/gloss vs source for v1082",
+  "fix: word-order/gloss vs source for v1083",
+  "fix: word-order/gloss vs source for v1089",
+  "fix: word-order/gloss vs source for v1090",
+  "fix: word-order/gloss vs source for v1092",
+  "fix: word-order/gloss vs source for v1094"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "4dd4e31e5d662ee160b2936afd209938aac6b759e89ec2a4d3f3c1b9b1e0b8c1",
+  "l0": "7c2b607b8d4207e23d53cf7e069d5dcc86f8da8251a17ab037f7219ef5e2791b",
+  "argmap": "a3947df17decc6769535ab44257de3d202e6b1d9e9941a29d70fb196a6f23544",
+  "l2": "816994b67456dbdf53bebc36e48ff322f96da0c631da637f47234e88cb4093d0",
+  "c1": "d17afdc608fe57c85447fe251a011b5cfdd19c3de637b9643ed8b3ecad5de174"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ab32a032c156bfcc",
+  "t1": "sva-p44/data/sva-p44.t1.json",
+  "l0": "sva-p44/data/sva-p44.l0.json",
+  "l2": "sva-p44/data/sva-p44.l2.json",
+  "c1": "sva-p44/data/sva-p44.c1.json"
+ }
+}

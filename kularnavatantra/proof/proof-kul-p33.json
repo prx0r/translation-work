@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p33",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "ca8a564111310375",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 107
+ },
+ "align": {
+  "min_ratio": 0.943,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "The seed, refuge of all principles, purifies all principles."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 45,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 107,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "b5c450f466796405782d6c4273744852c0b96fae9c0f00ef83b9a420dff9c4e8",
+  "l0": "ffef0b71a707feb33b9b7f57f68f5b0a7590bdddda91d526d626ac12a6e74abb",
+  "argmap": "9e11c9c398920dfb7debe1d362bc160fca02adb18683716572b36e69408385ae",
+  "l2": "2e81ed5b4e0a2aca3ae9d2865dd10f5bf05ec42c20c8416f30ace278fdd21e88",
+  "c1": "2c716a647c6d3a5e8ce9c2aa4d121946786b1fb57c9a195eb773492f62489bf1"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ca8a564111310375",
+  "t1": "kul-p33/data/kul-p33.t1.json",
+  "l0": "kul-p33/data/kul-p33.l0.json",
+  "l2": "kul-p33/data/kul-p33.l2.json",
+  "c1": "kul-p33/data/kul-p33.c1.json"
+ }
+}

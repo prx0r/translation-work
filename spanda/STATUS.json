@@ -1,14 +1,15 @@
 {
  "work": "spanda",
  "updated": "2026-11-11",
- "next": "p04b/p05/p06 triples seeded 2026-11-11 (KSTS scheme: full 1-52 coverage, gap 25->39 closed); ranges relabeled; lore process/beam/lore/spanda.md",
+ "next": "p04b/p05/p06 triples seeded 2026-11-11 (KSTS scheme: full 1-52 coverage, gap 25->39 closed); ranges relabeled; lore process/beam/lore/spanda.md | staged 7 data songs (batch assemble 2026-11-12)",
  "counts": {
   "passages": 4,
   "verses": 25,
   "l0_parsed": 263,
   "l0_ambiguous": 0,
   "l0_failed": 0,
-  "proof": "PASS"
+  "proof": "PASS",
+  "staged_songs": 7
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-spanda-raw.jsonl",
  "r2_bytes": 21309,

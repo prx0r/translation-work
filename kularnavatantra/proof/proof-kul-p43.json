@@ -1,0 +1,86 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p43",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1065 ratio=0.821",
+  "ALIGN_NODISP v1070 ratio=0.897",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "e1df3a3813b5965a",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 133
+ },
+ "align": {
+  "min_ratio": 0.821,
+  "sub090": {
+   "1065": {
+    "ratio": 0.821,
+    "disposition": null
+   },
+   "1070": {
+    "ratio": 0.897,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "The kaulika's effort becomes vain if he dishonors the kula-knower."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 55,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 133,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v1065",
+  "fix: word-order/gloss vs source for v1070"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "4ea8c178c160e648c73b05d01e2254b52af4f262df95910a1dc12548213e09a3",
+  "l0": "40d6ac3ee7aea47dbb0740d1b483642849688b3766872a782a02187079337f33",
+  "argmap": "6d419b8653c47d4154c24b5ecde4a5736d37109aaadd6b2cdbae0e006c8f17f9",
+  "l2": "a7144f51d0fef11dd22458955ad4c37fbbdd5618ec706219765f7b51f209f0e0",
+  "c1": "120b8dc7b221af6c4ed6158b1bc5559f48f2b49525ca4703ef20f27bd278697a"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "e1df3a3813b5965a",
+  "t1": "kul-p43/data/kul-p43.t1.json",
+  "l0": "kul-p43/data/kul-p43.l0.json",
+  "l2": "kul-p43/data/kul-p43.l2.json",
+  "c1": "kul-p43/data/kul-p43.c1.json"
+ }
+}

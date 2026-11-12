@@ -1,0 +1,84 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p14",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v348 ratio=0.882",
+  "L2_CITE_FAIL 1",
+  "DATA_OBJECTS 1 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "efa1468daa71de0a",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 95
+ },
+ "align": {
+  "min_ratio": 0.882,
+  "sub090": {
+   "348": {
+    "ratio": 0.882,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 34,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "saṃhārākhyayā, ātmanīti svahṛdaye bhairaveṇa niṣkalena"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p14-v334]: cite part not byte-exact in source: saṃhārākhyayā, ātmanīti svahṛdaye bhairaveṇa niṣkalena"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 95,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v348"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "31f5c1962e10f4a55eedc95d01be59dd2616e0cca9ee797ed1f919cc139c5f5a",
+  "l0": "8bd30809071f2b42e05b6231f668b0db23b40e81416c6cbe1e8ab4312eae0658",
+  "argmap": "7affe37e62acc2418d098d9f5dd9000893a194938a43f7e5b9bfc0a1929f15f1",
+  "l2": "df9d659e4562a8f856870b2ada2ccca9555086ba1b1ea5d29b10eee31dada6d9",
+  "c1": "9d040b6ee04caa58863f8905851058afb748b8cd2063d7b0eea0960261a92dc2"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "efa1468daa71de0a",
+  "t1": "sva-p14/data/sva-p14.t1.json",
+  "l0": "sva-p14/data/sva-p14.l0.json",
+  "l2": "sva-p14/data/sva-p14.l2.json",
+  "c1": "sva-p14/data/sva-p14.c1.json"
+ }
+}

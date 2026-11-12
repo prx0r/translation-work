@@ -1,66 +1,77 @@
 [
-{
-"verse_id": "span-p09-v76",
-"song": "span-p09",
-"verse": 76,
-"sutra": "1.21",
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "śuddha+",
-"quick_gloss": "pure"
-},
-{
-"surface": "vidyā+",
-"quick_gloss": "knowledge"
-},
-{
-"surface": "udayāt+",
-"quick_gloss": "from-arising"
-},
-{
-"surface": "cakreśatva+",
-"quick_gloss": "of-wheel-lordship"
-},
-{
-"surface": "siddhiḥ",
-"quick_gloss": "accomplishment"
-}
-]
-},
-{
-"verse_id": "span-p09-v77",
-"song": "span-p09",
-"verse": 77,
-"sutra": "1.22",
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "mahā+",
-"quick_gloss": "great"
-},
-{
-"surface": "hrada+",
-"quick_gloss": "lake"
-},
-{
-"surface": "anusandhāna+",
-"quick_gloss": "contemplation"
-},
-{
-"surface": "mantra+",
-"quick_gloss": "mantra"
-},
-{
-"surface": "vīrya+",
-"quick_gloss": "power"
-},
-{
-"surface": "anubhavaḥ",
-"quick_gloss": "experience"
-}
-]
-}
+ {
+  "verse_id": "span-p09-v76",
+  "song": "span-p09",
+  "verse": 76,
+  "sutra": "1.21",
+  "quick_english": "From the arising of pure knowledge comes the accomplishment of wheel-lordship.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "śuddha+",
+    "quick_gloss": "pure",
+    "grounds": "legacy hint pure; compound member"
+   },
+   {
+    "surface": "vidyā+",
+    "quick_gloss": "knowledge",
+    "grounds": "legacy hint knowledge; compound head"
+   },
+   {
+    "surface": "udayāt+",
+    "quick_gloss": "from-arising",
+    "grounds": "legacy hint from-arising; ablative sense"
+   },
+   {
+    "surface": "cakreśatva+",
+    "quick_gloss": "of-wheel-lordship",
+    "grounds": "legacy hint of-wheel-lordship; genitive sense"
+   },
+   {
+    "surface": "siddhiḥ",
+    "quick_gloss": "accomplishment",
+    "grounds": "legacy hint accomplishment; nominative result"
+   }
+  ]
+ },
+ {
+  "verse_id": "span-p09-v77",
+  "song": "span-p09",
+  "verse": 77,
+  "sutra": "1.22",
+  "quick_english": "Experience of mantra power arises through contemplation of the great lake.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "mahā+",
+    "quick_gloss": "great",
+    "grounds": "legacy hint great; compound member"
+   },
+   {
+    "surface": "hrada+",
+    "quick_gloss": "lake",
+    "grounds": "legacy hint lake; compound member"
+   },
+   {
+    "surface": "anusandhāna+",
+    "quick_gloss": "contemplation",
+    "grounds": "legacy hint contemplation; compound member"
+   },
+   {
+    "surface": "mantra+",
+    "quick_gloss": "mantra",
+    "grounds": "legacy hint mantra; compound member"
+   },
+   {
+    "surface": "vīrya+",
+    "quick_gloss": "power",
+    "grounds": "legacy hint power; compound member"
+   },
+   {
+    "surface": "anubhavaḥ",
+    "quick_gloss": "experience",
+    "grounds": "legacy hint experience; nominative result"
+   }
+  ]
+ }
 ]

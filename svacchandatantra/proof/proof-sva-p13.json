@@ -1,0 +1,96 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p13",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v313 ratio=0.880",
+  "ALIGN_NODISP v316 ratio=0.899",
+  "L2_CITE_FAIL 4",
+  "DATA_OBJECTS 4 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "9c2c30d824f7e28b",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 113
+ },
+ "align": {
+  "min_ratio": 0.88,
+  "sub090": {
+   "313": {
+    "ratio": 0.88,
+    "disposition": null
+   },
+   "316": {
+    "ratio": 0.899,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 40,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "puṣpeti astrajaptena puṣpeṇetyarthaḥ recakenetyūrdhvamāgīkeṇa",
+   "proktadvitīyajanmopayogāya te ca mantraśaktyaiva siddhyanti",
+   "bhaviṣyati mantrākhye iti vidyāpīṭhāderapyupalakṣaṇaparam",
+   "ityuktatvāt evamuttaratrāpi jñeyam"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p13-v306]: cite part not byte-exact in source: puṣpeti astrajaptena puṣpeṇetyarthaḥ recakenetyūrdhvamāgīkeṇ",
+   "l2[sva-p13-v307]: cite part not byte-exact in source: proktadvitīyajanmopayogāya te ca mantraśaktyaiva siddhyanti",
+   "l2[sva-p13-v315]: cite part not byte-exact in source: bhaviṣyati mantrākhye iti vidyāpīṭhāderapyupalakṣaṇaparam",
+   "l2[sva-p13-v325]: cite part not byte-exact in source: ityuktatvāt evamuttaratrāpi jñeyam"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 113,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v313",
+  "fix: word-order/gloss vs source for v316"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "ecec56dc88f233a77e948a3f644236be6437a94d3d68caa5e58594ec60cb4c5c",
+  "l0": "fbd36150d25af6d71c50ac5004d70e38ede618228812905bc4719920894f783f",
+  "argmap": "fc7aa80dde07fa2455836b048134f371c38b0a6f6904dc86ac28a19196961f3c",
+  "l2": "81e03566505ac92f35e3f19c07522f38cad40007650b9ad64173ea7f58b15875",
+  "c1": "d2af10ba43d4e787bc4415a2d386a5897a1260e325cb854705c19494ef619c71"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "9c2c30d824f7e28b",
+  "t1": "sva-p13/data/sva-p13.t1.json",
+  "l0": "sva-p13/data/sva-p13.l0.json",
+  "l2": "sva-p13/data/sva-p13.l2.json",
+  "c1": "sva-p13/data/sva-p13.c1.json"
+ }
+}
