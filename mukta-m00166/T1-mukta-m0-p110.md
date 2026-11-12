@@ -2,61 +2,61 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p110-v2726
-[assembled](sametā) [various](vicitrāḥ) [similar](sadṛkṣāḥ) [and](ca) [what](kim) [indeed](nu)
+[assembled](sametā) [variegated](vicitrāḥ) [similar](sadṛkṣāḥ) [and](ca) [what](kiṃ) [indeed](nu)
 
 ## mukta-m0-p110-v2727
-[but](kintu) [unknown](ajñātaḥ) [he](saḥ) [by-fools](mūḍhaiḥ) [if](yadi) [by-Śiva's-power](śiva+kalayā) [deceived](vañcitāḥ) [then](tat) [they](te) [indeed](eva)
+[but](kintu) [unknown](ajñātaḥ) [he](sa) [by-fools](mūḍhaiḥ) [if](yadi) [by-Śiva's+power](śiva+kalayā) [deceived](vañcitāḥ) [then](tat) [they](te) [indeed](eva)
 
 ## mukta-m0-p110-v2728
-[they](te) [indeed](eva) [by-misfortune-struck](daurbhāgya+hatāḥ) [by-this-much](iyattvāt) [jewel-mine-ness](ratnākara+tvam) [what](kim) [indeed](u) [diminished](hīnam) [of-ocean](abdheḥ)
+[they](ta) [indeed](eva) [by-misfortune+struck](daurbhāgya+hatā) [due-to-limitation](iyattvāt) [jewel-mine+ness](ratnākara+tvaṃ) [what](kimu) [diminished](hīnam) [of-ocean](abdheḥ)
 
 ## mukta-m0-p110-v2729
-[self-delighting](sva+ārāme) [from-unity](aikyāt) [who](kaḥ) [indeed](iva) [here](atra) [effort](yatnaḥ)
+[in-own+delight](svārāma) [due-to-unity](aikyāt) [who](ka) [as-it-were](iva) [here](atra) [effort](yatnaḥ)
 
 ## mukta-m0-p110-v2730
-[of-Rāmānanda-story](rāmānanda+kathā) [nevertheless](tathāpi) [expanded](vicitā) [in-that-experience](tat+anubhūtau) [indeed](kila)
+[Rāma+bliss+narrative](rāmānanda+kathā) [even-so](tathāpi) [examined](vicitā) [in-reality+experience](tattānubhūtau) [indeed](kila)
 
 ## mukta-m0-p110-v2731
-[of-lights](jyotiṣām) [light](jyotiḥ) [one](ekaḥ) [indeed](tu) [moon](candraḥ) [alone](eva) [digit-possessor](kalā+nidhiḥ)
+[of-lights](jyotiṣāṃ) [light](jyotiḥ) [one](ekaḥ) [indeed](tu) [moon](candra) [alone](eva) [digit+treasury](kalānidhiḥ)
 
 ## mukta-m0-p110-v2732
-[one](ekaḥ) [alone](eva) [victorious](jayī) [sun](bhāsvān) [who](yaḥ) [renowned](prasiddhaḥ) [in-sky](ambare) [jewel](maṇiḥ)
+[one](eka) [alone](eva) [victorious](jayī) [sun](bhāsvān) [who](yaḥ) [renowned](prasiddhaḥ) [in-sky](ambare) [jewel](maṇiḥ)
 
 ## mukta-m0-p110-v2733
-[by-jewel-knower-known-abode](ratna+abhijña+avidita+dhiṣaṇaḥ) [knows](veda) [someone](kaścit) [true-nature](sva+rūpam)
+[by-jewel+knower+not+known+abode](ratnābhijña+a+vidita+dhiṣaṇaḥ) [knows](veda) [someone](kaścit) [true-nature](svarūpam)
 
 ## mukta-m0-p110-v2734
-[they-know](vidanti) [what](kim) [value](mūlyam) [fully](alam) [quality](guṇam) [or](vā)
+[they-know](vidanti) [what](kiṃ) [value](mūlyam) [fully](alaṃ) [quality](guṇaṃ) [or](vā)
 
 ## mukta-m0-p110-v2735
-[who](yaḥ) [having-seen](dṛṣṭvā) [indeed](eva) [overflowing-supreme-essence](ucchalat+ati+rasam) [mind-ocean](citta+sindhum) [makes](vidhatte)
+[who](yo) [having-seen](dṛṣṭvā) [indeed](eva) [surging+supreme+essence](ucchalat+ati+rasaṃ) [mind+ocean](citta+sindhuṃ) [makes](vidhatte)
 
 ## mukta-m0-p110-v2736
-[by-whose-power](yat+śaktyā) [for-all-destroyer-maker](sakala+anta+kāra+kṛtine) [to-Time](kālāya) [to-that](tasmai) [salutation](namaḥ)
+[by-whose+power](yat+śaktyā) [all+end+making+doer](sakalānta+kāra+kṛtine) [to-Time](kālāya) [to-that](tasmai) [salutation](namaḥ)
 
 ## mukta-m0-p110-v2737
-[they-disregard](helante) [for-own-cause](sva+nikāraṇāya) [that](tat) [this](idam) [not](na) [but](tu) [of-him](asya) [any](kācit) [harm](kṣatiḥ)
+[they-disregard](helante) [for-own+cause](svanikāraṇāya) [that](tat) [this](idaṃ) [not](na) [indeed](tu) [of-it](asya) [any](kācit) [harm](kṣatiḥ)
 
 ## mukta-m0-p110-v2738
-[full](pūrṇam) [essence](rasam) [let-drink](pibatu) [let-rejoice](nandatu) [let-blame](nindatāt) [or](vā)
+[full](pūrṇaṃ) [essence](rasaṃ) [let-drink](pibatu) [let-rejoice](nandatu) [let-blame](nindatāt) [or](vā)
 
 ## mukta-m0-p110-v2739
-[having-made](vidhāya) [at-first](ādau) [great-belly](mahā+kukṣim) [ocean](sindhuḥ) [jewel-mine](ratnākaraḥ) [made](kṛtaḥ)
+[having-made](vidhāya) [at-first](ādau) [great+belly](mahā+kukṣiṃ) [ocean](sindhuḥ) [jewel+mine](ratnākaraḥ) [made](kṛtaḥ)
 
 ## mukta-m0-p110-v2740
-[in-Sāhib-Kaula-state](sāhib+kaula+pade) [in-sport-arisen](vilāsa+muditaḥ) [Śrī-Śakti-named](śrī+śakti+nāmā) [other](anya) [after](anu)
+[in-Sāhib+Kaula+state](sāhib+kaula+pade) [in-sport+delighted](vilāsa+muditaḥ) [Śrī+Śakti+named](śrī+śakti+nāmā) [afterwards](anyanu)
 
 ## mukta-m0-p110-v2741
-[own-essence-juicy](sva+rasa+rasālā) [together-new](sam+abhinavam)
+[own+essence+abounding](sva+rasa+rasālā) [ever-new](samabhinavam)
 
 ## mukta-m0-p110-v2742
-[by-destroyed-mind](hata+matayā) [or](vā) [by-own-dissolution](sva+mat+alayā) [or](vā) [together-new](sam+abhinavam)
+[by-destroyed+mind](hata+matayā) [or](vā) [by-own+mind+dissolution](sva+mata+layā) [or](vā) [ever-new](samabhinavam)
 
 ## mukta-m0-p110-v2743
-[various-arts-possessing](vividha+kalāmā) [comprehended-Śiva](kalita+śivam)
+[various+arts+possessing](vividha+kalāmā) [comprehended+Śiva](kalita+śivam)
 
 ## mukta-m0-p110-v2744
-[bowing-stream](namat+upadhārā) [may-grant](diśatu) [auspiciousness](śivam)
+[bowing+stream](namat+upadhārā) [may-grant](diśatu) [auspiciousness](śivam)
 
 ## mukta-m0-p110-v2745
-[for-illumination](nīrājanāya) [may-shine](bhātu) [this](etat) [of-Śrī-Devī](śrī+devyāḥ) [daṇḍaka-named](daṇḍaka+abhidham)
+[for-illumination](nīrājanāya) [may-shine](bhātu) [this](etat) [of-Śrī+Devī](śrī+devyāḥ) [daṇḍaka+named](daṇḍaka+abhidham)
