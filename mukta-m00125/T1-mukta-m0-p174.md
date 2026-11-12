@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p174-v4326
-[should-place](sthāpayet) [in-rākṣasa](rākṣase) [on-seat](pīṭhe) [own-direction](svadik) [for-sādhana](sādhana) [for-accomplishment](siddhaye)
+[should-establish](sthāpayet) [on-rākṣasa](rākṣase) [pedestal](pīṭhe) [for-own-direction](svadik) [accomplishment](sādhana) [for-success](siddhaye)
 
 ## mukta-m0-p174-v4327
-[enemy](arāti) [destruction](kṣaya) [hatred](vidveṣam) [stake](kīla) [by-piercing](bhedena) [delusion](mohanam)
+[destruction-of-enemies](arāti+kṣaya) [hatred](vidveṣaṃ) [by-splitting-of-peg](kīla+bhedena) [delusion](mohanam)
 
 ## mukta-m0-p174-v4328
-[does](kurute) [not](na) [here](atra) [doubt](sandehaḥ) [according-to-rule](vidhivat) [mantra](mantra) [joined](saṃyutam)
+[it-causes](kurute) [not](na) [here](atra) [doubt](sandeho) [according-to-rule](vidhivat) [joined-with-mantra](mantra+saṃyutam)
 
 ## mukta-m0-p174-v4329
-[square](caturaśram) [and](tathā) [octagon](aṣṭāśram) [round](vṛttam) [young-moon](bālendu) [head](mastakam)
+[square](caturaśraṃ) [likewise](tathā) [octagonal](aṣṭāśraṃ) [circular](vṛttaṃ) [crescent-moon](bālendu) [headed](mastakam)
 
 ## mukta-m0-p174-v4330
-[noose](pāśa) [head](mastaka) [joined](yuktam) [that](tat) [for-noose-body](pāśakāya) [by-rule](vidhānataḥ)
+[endowed-with-noose-head](pāśa+mastaka+yuktaṃ) [that](tat) [according-to-rule-of-noose-body](pāśa+kāya+vidhānataḥ)
 
 ## mukta-m0-p174-v4331
-[disease](vyādhi) [destruction](hānim) [and](ca) [good-fortune](saubhāgyam) [obtains](āpnuyāt) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[destruction-of-disease](vyādhi+hāniṃ) [and](ca) [good-fortune](saubhāgyam) [one-obtains](āpnuyāt) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p174-v4332
-[in-nine-parts](navabhakte) [in-three-parts](tribhirbhakte) [in-middle](madhye) [six](ṣaḍ) [rasa](rasa) [for-increase](vṛddhaye)
+[in-nine-divisions](nava+bhakte) [in-three-divisions](tribhiḥ+bhakte) [in-middle](madhye) [for-increase-of-six-flavors](ṣaḍ+rasa+vṛddhaye)
 
 ## mukta-m0-p174-v4333
-[may-obtain](māpnuyāt)
+[one-obtains](māpnuyāt)
 
 ## mukta-m0-p174-v4334
-[by-that](tena) [liṅga](liṃgena) [mantra-knower](mantrajñaḥ) [expulsion](proccāṭa) [agitation](udvega) [confusion](vibhramān)
+[by-that](tena) [liṅga](liṃgena) [knower-of-mantras](mantra+jñaḥ) [expulsion](proccāṭa) [agitation](udvega) [confusions](vibhramān)
 
 ## mukta-m0-p174-v4335
-[previously-said](pūrvoktam) [varuṇa](vāruṇam) [liṅga](liṅgam) [yakṣa](yākṣam) [and](ca) [upward-head](ūrdhvaśiraḥ) [endowed](anvitam)
+[previously-mentioned](pūrvoktaṃ) [vāruṇa](vāruṇaṃ) [liṅga](liṅgaṃ) [yākṣa](yākṣaṃ) [and](ca) [endowed-with-upward-head](ūrdhva+śiraḥ+anvitam)
 
 ## mukta-m0-p174-v4336
-[mace](gadā) [head](mastaka) [liṅga](liṅgam) [but](tu) [on-mace-mark](gadāṅke) [placing](sthāpya) [teacher](deśikaḥ)
+[mace-headed](gadā+mastaka) [liṅga](liṅgaṃ) [but](tu) [in-mace-marked-place](gadā+aṅke) [having-established](sthāpya) [teacher](deśikaḥ)
 
 ## mukta-m0-p174-v4337
-[victory](jayam) [courage](dhairyam) [and](tathā) [kingdom](rājya) [attainment](prāptim) [and](ca) [lordship](prabhutām) [also](api)
+[victory](jayaṃ) [firmness](dhairyaṃ) [likewise](tathā) [attainment-of-kingdom](rājya+prāptiṃ) [and](ca) [sovereignty](prabhutām) [also](api)
 
 ## mukta-m0-p174-v4338
-[length](dairghya) [half](ardham) [like-raudra](raudravat) [having-made](kṛtvā) [rasa](rasa) [with-limbs](aṅgaiḥ) [lotus](padma) [born](saṃbhavam)
+[half-of-length](dairghya+ardhaṃ) [like-raudra](raudra+vat) [having-made](kṛtvā) [with-flavor-parts](rasa+aṅgaiḥ) [lotus-born](padma+saṃbhavam)
 
 ## mukta-m0-p174-v4339
-[octagon](aṣṭāśram) [round](vṛttakam) [fierce](raudram) [side](pārśva) [in-middle](madhye) [thrice](triḥ) [raised](unnatam)
+[octagonal](aṣṭāśraṃ) [circular](vṛttakaṃ) [raudra](raudraṃ) [in-middle-of-sides](pārśva+madhye) [elevated-in-three](tri+unnatam)
 
 ## mukta-m0-p174-v4340
-[having-placed](sthāpayitvā) [own-direction](svadik) [equality](sāmyam) [liṅga](liṅgam) [trident](śūla) [head](śiraḥ) [joined](yutam)
+[having-established](sthāpayitvā) [equal-to-own-direction](svadik+sāmyaṃ) [liṅga](liṅgaṃ) [endowed-with-trident-head](śūla+śiraḥ+yutam)
 
 ## mukta-m0-p174-v4341
-[knowledge](jñāna) [science](vijñāna) [liberation](mokṣa) [for](artham) [lordship-of-yogis](yogīśatva) [giving](pradāyakam)
+[for-knowledge](jñāna) [higher-knowledge](vijñāna) [and-liberation](mokṣa+arthaṃ) [bestowing-lordship-of-yogins](yogīśatva+pradāyakayakam)
 
 ## mukta-m0-p174-v4342
-[in-height](utsedhe) [planet](graha) [in-part](bhakte) [but](tu) [four-cornered](vedāśram) [but](tu) [arrow](śara) [part](aṃśakam)
+[in-height](utsedhe) [divided-into-planets](graha+bhakte) [but](tu) [four-sided](veda+aśraṃ) [but](tu) [in-five-parts](śara+aṃśakam)
 
 ## mukta-m0-p174-v4343
-[in-brahma](brāhyām) [having-placed](sthāpayitvā) [but](tu) [lordship-of-own-direction](svadigīśatvam) [obtains](āpnuyāt)
+[in-brahmā-part](brāhyāṃ) [having-established](sthāpayitvā) [but](tu) [lordship-of-own-direction](svadig+īśatvam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p174-v4344
-[sky-going](khacarī) [hundred-ness](śatvam) [obtains](āpnoti) [empire](sāmrājya) [fruit](phala) [accomplishment](sādhan)
+[state-of-moving-in-sky](khacarī+śatvam) [one-obtains](āpnoti) [accomplishment-of-fruit-of-sovereignty](sāmrājya+phala+sādhan)
 
 ## mukta-m0-p174-v4345
-[as-before](pūrvavat) [middle](madhya) [in-round](vṛtte) [but](tu) [head](mastakam) [lead](trapuṣa) [like](upamam)
+[as-before](pūrvavat) [in-middle-circle](madhya+vṛtte) [but](tu) [head](mastakaṃ) [resembling-cucumber](trapuṣa+upamam)
 
 ## mukta-m0-p174-v4346
-[wheel](cakra) [head](mastaka) [joined](saṃyuktam) [on-wheel-mark](cakrāṅkāyām) [but](tu) [teacher](deśikaḥ)
+[endowed-with-discus-head](cakra+mastaka+saṃyuktaṃ) [in-discus-marked-place](cakra+aṅkāyāṃ) [but](tu) [teacher](deśikaḥ)
 
 ## mukta-m0-p174-v4347
-[liṅga](liṅga) [in-measure](āyāme) [in-nine-parts](navāṃśe) [but](tu) [brahma](brahma) [part](aṃśaḥ) [quality](guṇa) [by-share](bhāgataḥ)
+[in-length-of-liṅga](liṅga+āyāme) [in-nine-parts](nava+aṃśe) [but](tu) [brahmā-part](brahma+aṃśo) [in-three-divisions](guṇa+bhāgataḥ)
 
 ## mukta-m0-p174-v4348
-[siddhi](siddhi) [liṅga](liṅgam) [this](idam) [best](śreṣṭham) [shadowless](vicchāya) [etc](ādi) [pedestal](piṇḍikam)
+[this](idam) [liṅga-of-accomplishment](siddhi+liṅgam) [best](śreṣṭhaṃ) [pedestal](piṇḍikam) [in-faded-etc](vicchāya+ādiṣu)
 
 ## mukta-m0-p174-v4349
-[thousand](sahasra) [liṅga](liṅgam) [to-be-made](kartavyam) [that](tat) [and](ca) [previously-said](prāgukta) [like](vat) [should-lead](nayet)
+[thousand-liṅgas](sahasra+liṅgaṃ) [should-be-made](kartavyaṃ) [and-that](tat+ca) [as-stated-before](prāk+ukta+vat) [one-should-fashion](nayet)
 
 ## mukta-m0-p174-v4350
-[worship](arcā) [in-part](aṃśe) [veda](veda) [in-share](bhāge) [but](tu) [nāha](nāhe) [nakṣatra](nakṣatra) [divided](bhājite)
+[in-worship-part](arcā+aṃśe) [in-four-divisions](veda+bhāge) [but](tu) [in-circumference](nāhe) [divided-into-constellations](nakṣatra+bhājite)

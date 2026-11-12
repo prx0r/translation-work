@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p187-v4651
-thus(thus) liṅga(linga) vimānādyam(vimana-etc) kṛtvā(having-made) saṃsthāpayet(establish) sudhīḥ(wise-one)
+[thus](evaṃ) [liṅga](liṅga) [shrine+etc.](vimāna+ādyaṃ) [having-made](kṛtvā) [should-establish](saṃsthāpayet) [wise-one](sudhīḥ)
+
 ## mukta-m0-p187-v4652
-mūrdheṣṭakādikam(head-brick-etc) karma(work) jīrṇoddhārādikam(renovation-etc) ca(and) yat(which)
+[crown-brick+etc.](mūrdha+iṣṭakā+ādikaṃ) [ritual](karma) [decayed+restoration+etc.](jīrṇa+uddhāra+ādikaṃ) [and](ca) [which](yat)
+
 ## mukta-m0-p187-v4653
-kriyamāṇe'pi(being-done-even) mūlasya(of-root) pavitrārohaṇādike(purification-ascent-etc)
+[being-performed](kriyamāṇe) [even](api) [of-root](mūlasya) [purification+ceremony+etc.](pavitra+ārohaṇa+ādike)
+
 ## mukta-m0-p187-v4654
-pṛthagvā(separately-or) karaṇīyaṃ(to-be-done) tadyathāśāstraṃ(that-according-to-scripture) dvijottamāḥ(twice-born-best)
+[separately](pṛthak) [or](vā) [to-be-done](karaṇīyaṃ) [that](tat) [according-to-scripture](yathā+śāstraṃ) [O-best-of-twice-born](dvija+uttamāḥ)
+
 ## mukta-m0-p187-v4655
-āyuḥ(life) śrīkīrtisaubhāgyārogyabhogyabuhuprajāḥ(prosperity-fame-good-fortune-health-enjoyment-many-progeny)
+[life](āyuḥ) [prosperity+fame+good-fortune+health+enjoyment+many-offspring](śrī+kīrti+saubhāgya+ārogya+bhogya+bahu+prajāḥ)
+
 ## mukta-m0-p187-v4656
-ekādyekaikavṛddhyā(one-etc-one-by-one-increase) tu(but) rudrasaṃkhyāvasānakam(rudra-number-ending)
+[one+etc.](eka+ādi) [by-each-increase](eka+eka+vṛddhyā) [indeed](tu) [Rudra-number+ending](rudra+saṃkhyā+avasānakam)
+
 ## mukta-m0-p187-v4657
-śataṃ(hundred) vārdhaṃ(or-half) tadardhaṃ(that-half) vā(or) śatordhvamapi(above-hundred-also) puṣkalam(abundant)
+[hundred](śataṃ) [or-half](vā+ardhaṃ) [or-its-half](tat+ardhaṃ) [or](vā) [beyond-hundred](śata+ūrdhvam) [also](api) [abundant](puṣkalam)
+
 ## mukta-m0-p187-v4658
-evaṃ(thus) yaḥ(who) kārayet(causes) kartā(doer) sa(he) evāhaṃ(indeed-I) na(no) saṃśayaḥ(doubt)
+[thus](evaṃ) [who](yaḥ) [causes-to-do](kārayet) [doer](kartā) [he](saḥ) [indeed](eva) [I](ahaṃ) [no](na) [doubt](saṃśayaḥ)
+
 ## mukta-m0-p187-v4659
-dravyaiśśilādibhiḥ(with-materials-stone-etc) kuryāt(should-do) pūrvoktaistaṃ(previously-said-him) viśeṣṭaḥ(special)
+[with-materials](dravyaiḥ) [stone+etc.](śilā+ādibhiḥ) [should-make](kuryāt) [with-aforementioned](pūrva+uktaiḥ) [that](taṃ) [excellent](viśeṣṭaḥ)
+
 ## mukta-m0-p187-v4660
-piṅgalābhaṃ(tawny-colored) jaṭācūḍaṃ(matted-hair-tuft) daśadordaṇḍamaṇḍitam(ten-arm-staff-adorned)
+[tawny-colored](piṅgala+ābhaṃ) [matted-hair+crest](jaṭā+cūḍaṃ) [ten-arm+staff+adorned](daśa+dor+daṇḍa+maṇḍitam)
+
 ## mukta-m0-p187-v4661
-khaṭvāṅgaṃ(skull-staff) dakṣabhāgasthairvahantaṃ(right-side-standing-carrying) karapallavaiḥ(hand-tender)
+[skull-staff](khaṭvāṅgaṃ) [by-right-side+ones](dakṣa+bhāga+sthaiḥ) [holding](vahantaṃ) [with-hand+blossoms](kara+pallavaiḥ)
+
 ## mukta-m0-p187-v4662
-bījāpūraṃ(citron) ca(and) vāmasthairvahantaṃ(left-side-standing-carrying) suprasannakam(very-pleased)
+[citron](bījāpūraṃ) [and](ca) [by-left-side+ones](vāma+sthaiḥ) [holding](vahantaṃ) [very-serene](su+prasannakam)
+
 ## mukta-m0-p187-v4663
-icchājñānakriyāśaktitrayasaṃkḷptalocanam(will-knowledge-action-power-triad-intended-eye)
+[will+knowledge+action+power+triad+formed+eyes](icchā+jñāna+kriyā+śakti+traya+saṃkḷpta+locanam)
+
 ## mukta-m0-p187-v4664
-brahmasūtrādikaṃ(brahma-thread-etc) kāryaṃ(to-be-done) sukheśa(Sukhesha) pratimoditam(image-delighted)
+[sacred-thread+etc.](brahma+sūtra+ādikaṃ) [to-be-made](kāryaṃ) [Sukheśa-image+declared](sukheśa+pratimā+uditam)
+
 ## mukta-m0-p187-v4665
-itthaṃ(thus) lakṣaṇamākhyātaṃ(characteristic-declared) pratiṣṭhāvidhirucyate(consecration-rite-said)
+[thus](itthaṃ) [characteristics](lakṣaṇam) [declared](ākhyātaṃ) [consecration+rite](pratiṣṭhā+vidhiḥ) [is-stated](ucyate)
+
 ## mukta-m0-p187-v4666
-tadante(after-that) ratnavinyāsaṃ(gem-placement) dṛṣṭyunmīlanameva(eye-opening-indeed) ca(and)
+[at-its-end](tat+ante) [jewel+depositing](ratna+vinyāsaṃ) [eye+opening](dṛṣṭi+unmīlanam) [indeed](eva) [and](ca)
+
 ## mukta-m0-p187-v4667
-jalādhivāsanaṃ(water-immersion) paścānmaṇṭapaṃ(afterwards-pavilion) pūrvavannayet(as-before-bring)
+[water+immersion](jala+adhivāsanaṃ) [afterwards](paścāt) [pavilion](maṇṭapaṃ) [as-before](pūrva+vat) [should-lead](nayet)
+
 ## mukta-m0-p187-v4668
-tāni(those) kuṇḍāni(pits) vṛttāni(round) taddigaśrāṇi(those-direction-?) vā(or) bhavet(be)
+[those](tāni) [fire-pits](kuṇḍāni) [circular](vṛttāni) [or](vā) [that-direction+aligned](tat+dik+aśrāṇi) [should-be](bhavet)
+
 ## mukta-m0-p187-v4669
-puṇyāhaṃ(auspicious-day) vāstuhomaṃ(vastu-homa) ca(and) bhūparigrahameva(earth-taking-indeed) ca(and)
+[benediction](puṇya+ahaṃ) [Vāstu-offering](vāstu+homam) [and](ca) [ground+acceptance](bhū+parigraham) [indeed](eva) [and](ca)
+
 ## mukta-m0-p187-v4670
-pratimāśodhanaṃ(image-purification) kṛtvā(having-done) kautukaṃ(thread) bandhayettataḥ(bind-then)
+[image+purification](pratimā+śodhanaṃ) [having-done](kṛtvā) [protective-thread](kautukaṃ) [should-bind](bandhayet) [then](tataḥ)
+
 ## mukta-m0-p187-v4671
-śiraḥpradeśe(head-region) devasya(of-god) sadāśivaghaṭaṃ(Sadashiva-pot) nyaset(place)
+[head+region](śiraḥ+pradeśe) [of-deity](devasya) [Sadāśiva+pot](sadāśiva+ghaṭaṃ) [should-place](nyaset)
+
 ## mukta-m0-p187-v4672
-vardhanīmuttare(vardhani-north) nyasya(place) yajettasyāṃ(worship-therein) manonmanīm(manonmani)
+[vardhanī-pot](vardhanīm) [in-north](uttare) [having-placed](nyasya) [should-worship](yajet) [in-that](tasyāṃ) [Manonmanī](manonmanīm)
+
 ## mukta-m0-p187-v4673
-tattvamūrtyādivinyāsaṃ(tattva-murti-etc-placement) kṛtvā(having-done) homaṃ(homa) samācaret(perform)
+[tattva+form+etc.+placement](tattva+mūrti+ādi+vinyāsaṃ) [having-done](kṛtvā) [fire-offering](homam) [should-perform](samācaret)
+
 ## mukta-m0-p187-v4674
-yavā/lājāṃśca(barley/parched-rice-and) hutvānte(having-offered-end) siddhārthaṃ(mustard-seeds) ca(and) payāṃstathā(milk-thus)
+[barley](yavān) [and-parched-rice](lājān) [and](ca) [having-offered](hutvā) [at-end](ante) [white-mustard](siddhārtham) [and](ca) [milk](payāṃsi) [likewise](tathā)
+
 ## mukta-m0-p187-v4675
-śamīravadiramāyūrabilvāsyuḥ(shami-arka-bilva-etc) vahnikoṇataḥ(from-fire-corner)
+[śamī+avadira+māyūra+bilva](śamī+avadira+māyūra+bilva) [should-be](āsyuḥ) [in-fire-corner](vahni+koṇataḥ)

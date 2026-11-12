@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p183-v4551
-[tāra](tāra) [dvibhāge](dvibhāge) [tryaṃśa-ādyāḥ](tryaṃśādyāḥ) [saptāntāḥ](saptāntāḥ) [śāntika-ādayaḥ](śāntikādayaḥ)
+[star](tāra) [in-division](dvibhāge) [three-part-beginning](tryaṃśa+ādyāḥ) [seven-ending](sapta+antāḥ) [peace-etc](śāntika+ādayaḥ)
 
 ## mukta-m0-p183-v4552
-[eka](eka) [dvitri-karaiḥ](dvitrikaraiḥ) [yuktam](yuktam) [ānāt](ānāt) [hīnam](hīnam) [tu](tu) [vā](vā) [adhikam](adhikam)
+[by-one](eka) [by-two-three-rays](dvi+tri+karaiḥ) [joined](yuktam) [from-measure](ānāt) [less](hīnaṃ) [indeed](tu) [or](vā) [more](adhikam)
 
 ## mukta-m0-p183-v4553
-[vistārāt](vistārāt) [chrayāt](chrayāt) [vā](vā) [atha](atha) [vistāra](vistāra) [syocchrayeṇa](syocchrayeṇa) [vā](vā)
+[from-width](vistārāt) [from-height](chrayāt) [or](vā) [now](atha) [of-width](vistārasya) [by-height](ucchrayeṇa) [or](vā)
 
 ## mukta-m0-p183-v4554
-[prasaṅgena](prasaṅgena) [ca](ca) [kathyante](kathyante) [leśāt](leśāt) [āyā](āyā) [dayaḥ](dayaḥ) [api](api) [ye](ye)
+[by-context](prasaṅgena) [and](ca) [are-stated](kathyante) [a-little](leśāt) [income-etc](āyā+ādayaḥ) [also](api) [which](ye)
 
 ## mukta-m0-p183-v4555
-[rudra-bhānu](rudrabhānu) [śariḥ](śarir) [hanyāt](hanyāt) [śeṣam](śeṣam) [āyam](āyaṃ) [vinirdiśet](vinirdiśet)
+[by-eleven](rudra) [by-twelve](bhānu) [by-five](śariḥ) [one-should-multiply](hanyāt) [remainder](śeṣam) [income](āyaṃ) [one-should-determine](vinirdiśet)
 
 ## mukta-m0-p183-v4556
-[guṇayet](guṇayet) [kṣapaye](kṣapaye) [dvā](dvā) [api](api) [tat-śeṣam](taccheṣaṃ) [vyayam](vyayam) [ādiśet](ādiśet)
+[one-should-multiply](guṇayet) [one-should-divide](kṣapaye) [or](vā) [also](api) [that-remainder](tat+śeṣaṃ) [expenditure](vyayam) [one-should-designate](ādiśet)
 
 ## mukta-m0-p183-v4557
-[nṛpa](nṛpa) [kartṛ](kartṛ) [dinā](dinā) [dvāstu](dvāstu) [liṃga-ādyukta](liṃgādyukta) [dināntakam](dināntakam)
+[king](nṛpa) [agent](kartṛ) [day](dinā) [or](vā) [indeed](tu) [liṅga-etc](liṅga+ādi) [joined](yukta) [up-to-day](dina+antakam)
 
 ## mukta-m0-p183-v4558
-[tuṣṭiḥ](tuṣṭissampadvipatkṣema) [sampat](tuṣṭissampadvipatkṣema) [vipat](tuṣṭissampadvipatkṣema) [kṣema](tuṣṭissampadvipatkṣema) [pratyaram](pratyaraṃ) [sādhakaḥ](sādhako) [vadhaḥ](vadhaḥ)
+[satisfaction](tuṣṭiḥ) [prosperity](sampat) [calamity](vipat) [welfare](kṣema) [enmity](pratyaraṃ) [accomplishment](sādhakaḥ) [death](vadhaḥ)
 
 ## mukta-m0-p183-v4559
-[dvitīye](dvitīye) [saṃpad-ādyāḥ](saṃpadādyāstu) [tu](tu) [pūrvavat](pūrvavatsamudāhṛdam) [samudāhṛtam](pūrvavatsamudāhṛdam)
+[in-second](dvitīye) [prosperity-etc](sampat+ādyāḥ) [indeed](tu) [as-before](pūrva+vat) [declared](samudāhṛtam)
 
 ## mukta-m0-p183-v4560
-[vaināśikam](vaināśikaṃ) [ca](ca) [tyaktvā](tyaktvā) [tu](tu) [tṛtīye](tṛtīye) [vā](vā) [viparyaye](viparyaye)
+[destructive](vaināśikaṃ) [and](ca) [having-abandoned](tyaktvā) [indeed](tu) [in-third](tṛtīye) [or](vā) [in-reverse](viparyaye)
 
 ## mukta-m0-p183-v4561
-[viyoga-ādi](viyogādyaśubhaṃ) [aśubham](viyogādyaśubhaṃ) [yogam](yogaṃ) [gaṇam](gaṇaṃ) [ca](ca) [asura](asura) [mānuṣam](mānuṣam)
+[separation-etc](viyoga+ādi) [inauspicious](aśubhaṃ) [conjunction](yogaṃ) [group](gaṇaṃ) [and](ca) [demonic](āsura) [human](mānuṣam)
 
 ## mukta-m0-p183-v4562
-[saptartu](saptarturbhūta) [bhūta](saptarturbhūta) [veda](vedāgni) [agni](vedāgni) [navabhiḥ](navabhiḥ) [kṣapitam](kṣapitaṃ) [tu](tu) [yat](yat)
+[by-seven](sapta) [by-six](ṛtuḥ) [by-five](bhūta) [by-four](veda) [by-three](agni) [by-nine](navabhiḥ) [divided](kṣapitaṃ) [indeed](tu) [which](yat)
 
 ## mukta-m0-p183-v4563
-[rudra](rudra) [randhra-guṇa](randhraguṇaivṛddhiṃ) [vṛddhim](randhraguṇaivṛddhiṃ) [yonibhiḥ](yonibhiḥ) [kṣapayet](kṣapayed) [guruḥ](guruḥ)
+[by-eleven](rudra) [by-nine](randhra) [by-multipliers](guṇaiḥ) [increase](vṛddhiṃ) [by-wombs](yonibhiḥ) [should-divide](kṣapayet) [teacher](guruḥ)
 
 ## mukta-m0-p183-v4564
-[dakṣiṇa-ādyāḥ](dakṣiṇādyāstrayo'gnayaḥ) [trayaḥ](dakṣiṇādyāstrayo'gnayaḥ) [agnayaḥ](dakṣiṇādyāstrayo'gnayaḥ)
+[southern-etc](dakṣiṇa+ādyāḥ) [three](trayaḥ) [fires](agnayaḥ)
 
 ## mukta-m0-p183-v4565
-[ṣaḍja](ṣaḍjo) [vṛṣabha](vṛṣabhagāndhārau) [gāndhārau](vṛṣabhagāndhārau) [pañcamaḥ](pañcamo) [madhyamaḥ](madhyamastathā) [tathā](madhyamastathā)
+[ṣaḍja](ṣaḍjaḥ) [vṛṣabha-and-gāndhāra](vṛṣabha+gāndhārau) [pañcama](pañcamaḥ) [madhyama](madhyamaḥ) [likewise](tathā)
 
 ## mukta-m0-p183-v4566
-[ṣaḍja](ṣaḍja"ca) [ca](ṣaḍja"ca) [vṛṣabhaḥ](vṛṣabho) [madhye](madhye) [bhūteṣu](bhūteṣu) [pṛthivī](pṛthivī) [jalam](jalam)
+[ṣaḍja](ṣaḍjaḥ) [and](ca) [vṛṣabha](vṛṣabhaḥ) [in-middle](madhye) [among-elements](bhūteṣu) [earth](pṛthivī) [water](jalam)
 
 ## mukta-m0-p183-v4567
-[pṛthvī-ādyāḥ](pṛthvyādyāḥ) [prathitāḥ](prathitāḥ) [pañca](pañca) [dakṣiṇa-ādyāḥ](dakṣiṇādyāstathāgnayaḥ) [tathā](dakṣiṇādyāstathāgnayaḥ) [agnayaḥ](dakṣiṇādyāstathāgnayaḥ)
+[earth-etc](pṛthvī+ādyāḥ) [celebrated](prathitāḥ) [five](pañca) [southern-etc](dakṣiṇa+ādyāḥ) [likewise](tathā) [fires](agnayaḥ)
 
 ## mukta-m0-p183-v4568
-[ninditāḥ](ninditā) [ravi-saura-rāśi](ravisaurārāśśubhayoge) [śubha-yoge](ravisaurārāśśubhayoge) [śubha-pradāḥ](śubhapradāḥ)
+[blamed](ninditāḥ) [sun-and-saturn](ravi+saurārāḥ) [in-auspicious-conjunction](śubha+yoge) [auspicious-giving](śubha+pradāḥ)
 
 ## mukta-m0-p183-v4569
-[liṃga](liṃga) [bera-ādike](berādike) [ca](ca) [eva](eva) [māyā-ādyam](māyādyaṃ) [kalpayet](kalpayed) [vijāḥ](vijāḥ)
+[in-liṅga-image-etc](liṅga+bera+ādike) [and](ca) [indeed](eva) [māyā-etc](māyā+ādyaṃ) [one-should-arrange](kalpayet) [knowing-ones](vijāḥ)
 
 ## mukta-m0-p183-v4570
-[dhāmnas](dhāmnastryaṃśaṃ) [tri-aṃśam](dhāmnastryaṃśaṃ) [catuḥ-tri-aṃśam](catustryaṃśaṃ) [pañca-tri-aṃśam](pañcatryaṃśa) [dvi-bhāgikam](dribhāgikam)
+[of-sanctum](dhāmnaḥ) [three-parts](tri+aṃśaṃ) [four-parts](catuḥ+tri+aṃśaṃ) [five-parts](pañca+tri+aṃśa) [two-divisions](dvi+bhāgikam)
 
 ## mukta-m0-p183-v4571
-[caturbhiḥ](caturbhirvā) [vā](caturbhirvā) [tri-bhāgaiḥ](tribhāgairvā) [vā](tribhāgairvā) [garbha-geham](garbhagehaṃ) [pakalpayet](pakalpayet)
+[by-four](caturbhiḥ) [or](vā) [by-three-parts](tri+bhāgaiḥ) [or](vā) [womb-chamber](garbha+gehaṃ) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p183-v4572
-[navāṃśe](navāṃśe) [tri-catuḥ-pañca-ṣaḍ-sapta-aṃśaiḥ](tricatuṣpañcaṣaḍsaptāṃśaistu) [tu](tricatuṣpañcaṣaḍsaptāṃśaistu) [nālikām](nālikām)
+[in-nine-parts](nava+aṃśe) [by-three-four-five-six-seven-parts](tri+catuḥ+pañca+ṣaḍ+sapta+aṃśaiḥ) [indeed](tu) [channel](nālikām)
 
 ## mukta-m0-p183-v4573
-[tri-aṃśa-ekam](tryaṃśaikaṃ) [tat](tadūdvayāṃśaṃ) [ūdvaya-aṃśam](tadūdvayāṃśaṃ) [vā](vā) [pañca-aṃśe](pañcāṃśe) [tri-aṃśam](tryaṃśameva) [eva](tryaṃśameva) [vā](vā)
+[one-of-three-parts](tri+aṃśa+ekaṃ) [or](vā) [two-parts-of-that](tat+dvi+aṃśaṃ) [or](vā) [in-five-parts](pañca+aṃśe) [three-parts](tri+aṃśam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p183-v4574
-[catuḥ-aṃśam](caturaṃśaṃ) [tu](tu) [vā](vā) [madhye](madhye) [ṣaḍ-aṃśam](ṣaḍaṃśaṃ) [pañca](pañca) [bhāgikam](bhāgikam)
+[four-parts](catuḥ+aṃśaṃ) [indeed](tu) [or](vā) [in-middle](madhye) [six-parts](ṣaḍ+aṃśaṃ) [five-divisions](pañca+bhāgikam)
 
 ## mukta-m0-p183-v4575
-[catuḥ-aṃśena](caturaṃśena) [vā](vā) [bhadram](bhadraṃ) [madhyame](madhyame) [parikalpayet](parikalpayet)
+[by-four-parts](catuḥ+aṃśena) [or](vā) [projection](bhadraṃ) [in-middle](madhyame) [one-should-arrange](parikalpayet)
