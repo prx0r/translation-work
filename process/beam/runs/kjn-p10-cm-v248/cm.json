@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound = satata+first",
-   "grounds": "qualifies the practice"
+   "morph": "compound=first-member",
+   "grounds": "first member of compound with abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound = abhyāsa+first",
-   "grounds": "first member of yoga compound"
+   "morph": "compound=second-member",
+   "grounds": "second member of compound indicating constant practice"
   },
   {
    "lemma": "yogena",
-   "morph": "m.ins.sg",
+   "morph": "m.inst.sg",
    "grounds": "means by which the result occurs"
   },
   {
    "lemma": "dvi",
-   "morph": "compound = dvi+first",
-   "grounds": "first numeral in age expression"
+   "morph": "compound=first-member",
+   "grounds": "first member of compound indicating sixteen"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound = aṣṭa+first",
-   "grounds": "second numeral in age expression"
+   "morph": "compound=second-member",
+   "grounds": "second member of compound indicating sixteen"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound = varṣa+first",
-   "grounds": "unit of age in the compound"
+   "morph": "compound=third-member",
+   "grounds": "third member of compound indicating sixteen years"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "bodily appearance attained"
+   "grounds": "resulting appearance"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-act √bhū",
-   "grounds": "resulting state of the body"
+   "morph": "3.sg.act-optative/√bhū",
+   "grounds": "result of constant yogic practice"
   }
  ]
 }

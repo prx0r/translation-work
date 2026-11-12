@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound = sthāna+first",
-   "grounds": "first member describing the wheels"
+   "morph": "compound=first-member",
+   "grounds": "first member of compound with cakrāḥ"
   },
   {
    "lemma": "cakrāḥ",
    "morph": "m.nom.pl",
-   "grounds": "subject declared in this verse"
+   "grounds": "subject declared"
   },
   {
    "lemma": "tu",
@@ -30,17 +30,17 @@
   {
    "lemma": "dhyānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object the listener is asked to hear"
+   "grounds": "object to be heard"
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.imperative-act √śru",
-   "grounds": "imperative instruction to the listener"
+   "morph": "2.sg.act-imperative/√śru",
+   "grounds": "command to listen"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address to the listener"
+   "grounds": "vocative address"
   }
  ]
 }

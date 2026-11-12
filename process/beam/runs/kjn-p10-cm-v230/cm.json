@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound = aṣṭa+first",
-   "grounds": "first numeral in the compound"
+   "morph": "compound=first-member",
+   "grounds": "first member of compound indicating eight groups of eight"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound = aṣṭaka+first",
-   "grounds": "groups of eight forming the division"
+   "morph": "compound=second-member",
+   "grounds": "second member of compound indicating eight groups of eight"
   },
   {
    "lemma": "vibhāgam",
@@ -24,7 +24,7 @@
   },
   {
    "lemma": "parijñātum",
-   "morph": "infinitive √jñā",
+   "morph": "(infinitive)/√jñā",
    "grounds": "purpose of the request"
   },
   {

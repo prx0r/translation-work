@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.pres-mid √kṛ",
-   "grounds": "describes the practitioner's ability"
+   "morph": "3.sg.mid-present/√kṛ",
+   "grounds": "action performed by the practitioner"
   },
   {
    "lemma": "bahudhā",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound = dhyāna+first",
-   "grounds": "first member of absorbed-mind compound"
+   "morph": "compound=first-member",
+   "grounds": "first member of compound describing focused mind"
   },
   {
    "lemma": "eka",
-   "morph": "compound = eka+first",
-   "grounds": "qualifies absorption in meditation"
+   "morph": "compound=second-member",
+   "grounds": "second member of compound describing focused mind"
   },
   {
    "lemma": "gata",
-   "morph": "compound = gata+first",
-   "grounds": "indicates mind gone into meditation"
+   "morph": "compound=third-member",
+   "grounds": "third member of compound describing focused mind"
   },
   {
    "lemma": "cetasaḥ",
    "morph": "n.gen.sg",
-   "grounds": "possessor of one-pointed meditative absorption"
+   "grounds": "possessor of one-pointed meditative focus"
   }
  ]
 }
