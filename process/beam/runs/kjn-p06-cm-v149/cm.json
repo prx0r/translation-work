@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "jarā",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound: jarā+maraṇa",
+   "grounds": "first condition removed"
   },
   {
    "lemma": "maraṇa",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound: jarā+maraṇa",
+   "grounds": "second condition removed"
   },
   {
    "lemma": "nirmuktaḥ",
    "morph": "m.nom.sg",
-   "grounds": "released from aging and death"
+   "grounds": "state of liberation"
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound: vyādhi+roga",
+   "grounds": "first ailment removed"
   },
   {
    "lemma": "roga",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound: vyādhi+roga",
+   "grounds": "second ailment removed"
   },
   {
    "lemma": "vivarjitaḥ",
    "morph": "m.nom.sg",
-   "grounds": "completely free from ailments"
+   "grounds": "state of being without"
   }
  ]
 }

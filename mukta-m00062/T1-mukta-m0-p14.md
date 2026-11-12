@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p14-v326
-scissors+skull-hand(kartṛkapālahastaṃ) and(ca) drum+khaṭvāṅga-holding(ḍamarukhaṭvāṅgadhāriṇam)
+[scissors+skull-hand](kartṛka+pāla+hastaṃ) [and](ca) [drum+skull-staff-holder](ḍamaru+khaṭvāṅga+dhāriṇam)
 
 ## mukta-m0-p14-v327
-five-corpses(pañcapretaṃ) and(ca) that-below(tadadhaḥ) Brahmā-etc(brahmādyāḥ) five-causes(pañcakāraṇāḥ)
+[five-corpses](pañca+pretaṃ) [and](ca) [below-that](tat+adhaḥ) [brahma-etc](brahma+ādyāḥ) [five-causes](pañca+kāraṇāḥ)
 
 ## mukta-m0-p14-v328
-yellow-black(pītaśyāmaṃ) red-smoky(raktadhūmraṃ) white-appearance(śvetābhāvaṃ) and(ca) causes(kāraṇāḥ)
+[yellow-black](pīta+śyāmaṃ) [red-smoky](rakta+dhūmraṃ) [white-lustrous](śveta+ābhāvaṃ) [and](ca) [causes](kāraṇāḥ)
 
 ## mukta-m0-p14-v329
-forefinger-tip-cast(tarjanīmukhaniḥkṣiptā) Śiva-standing(śivadhasthā) three-eyed(trilocanā)
+[forefinger-tip-emitted](tarjanī+mukha+niḥkṣiptā) [standing-on-śiva](śiva+dhasthā) [three-eyed](tri+locanā)
 
 ## mukta-m0-p14-v330
-thunderbolt-teeth(vajradaṃṣṭrā) nail-touch(nakhasparśā) lotus-back-on(padmapṛṣṭhe) supreme-Śiva(śivottamā)
+[thunderbolt-teeth](vajra+daṃṣṭrā) [nail-touching](nakha+sparśā) [on-lotus-back](padma+pṛṣṭhe) [supreme-śivā](śiva+uttamā)
 
 ## mukta-m0-p14-v331
-Indra(indraṃ) yellow-hued-thunderbolt(pītābhavajraṃ) and(ca) Agni(vahniṃ) red(raktaṃ) with-spear(saśaktikam)
+[indra](indraṃ) [yellow-hued-thunderbolt](pīta+ābha+vajraṃ) [and](ca) [fire](vahniṃ) [red-with-spear](raktaṃ+sa+śaktikam)
 
 ## mukta-m0-p14-v332
-Varuṇa(varuṇaṃ) noose-white-faced(pāśaśubhrāsya) Vāyu(vāyuḥ) dark-goad-banner(śyāmāṃkuśadhvajam)
+[varuṇa](varuṇaṃ) [noose-white-faced](pāśa+śubhra+āsya) [wind](vāyuḥ) [dark-goad-bannered](śyāma+aṃkuśa+dhvajam)
 
 ## mukta-m0-p14-v333
-eight-directions-lords(digaṣṭapataye) to-be-known(jñeyam) seat(āsanaṃ) declared(parikīrtitam)
+[of-eight-direction-lords](dik+aṣṭa+pataye) [to-be-known](jñeyam) [seat](āsanaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p14-v334
-Dvāpara(dvāparaṃ) and-beautiful-red(cāruṇaṃ) color(varṇaṃ) dark(śyāmaṃ) and(ca) indeed(eva) Kali(kali) remembered(smṛtam)
+[dvāpara](dvāparaṃ) [and](ca) [reddish](aruṇaṃ) [color](varṇaṃ) [dark](śyāmaṃ) [and](ca) [indeed](eva) [kali](kali) [remembered](smṛtam)
 
 ## mukta-m0-p14-v335
-Sāma(sāmaṃ) red(raktam) thus(iti) known(khyātaṃ) black-Atharvaṇa(kṛṣṇātharvaṇam) is-called(ucyate)
+[sāma](sāmaṃ) [red](raktam) [thus](iti) [known](khyātaṃ) [black-atharvaṇa](kṛṣṇa+atharvaṇam) [is-called](ucyate)
 
 ## mukta-m0-p14-v336
-thousand-sun-flame-tipped(sahasrasūryajvālāgram) seat(āsanaṃ) declared(parikīrtitam)
+[thousand-sun-flame-tipped](sahasra+sūrya+jvāla+agram) [seat](āsanaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p14-v337
-or(athavā) comfortably(sukha) and-seated(cāsīnaṃ) all-gods-governed(sarvadevādhiyantritā)
+[or](athavā) [comfortably](sukha) [seated](ca+āsīnaṃ) [by-all-gods-governed](sarva+deva+adhi+yantritā)
 
 ## mukta-m0-p14-v338
-all-gods-shelter(sarvadevāśrayī) eternal(nityā) Mālinī(mālinī) victory-auspicious(jayamaṅgalā)
+[all-gods-refuge](sarva+deva+āśrayī) [eternal](nityā) [mālinī](mālinī) [victory-auspicious](jaya+maṅgalā)
 
 ## mukta-m0-p14-v339
-pratyālīḍha-footed(pratyālīḍhapadā) or(vāpi) dancing(nṛtyamānā) also(api) and(ca) one-should-meditate(smaret)
+[with-pratyālīḍha-posture](pratyālīḍha+padā) [or](vāpi) [dancing](nṛtyamānā) [also](api) [and](ca) [one-should-visualize](smaret)
 
 ## mukta-m0-p14-v340
-thus(evaṃ) one-should-meditate(dhyāyā) great-Kālī(mahākālīm) unbroken(abhīnna) fresh-youth(navayauvanā)
+[thus](evaṃ) [one-should-meditate](dhyāyā) [great-kālī](mahā+kālīm) [unbroken-new-youth](abhīnna+nava+yauvanā)
 
 ## mukta-m0-p14-v341
-five-Kālīs(paṃcakālī) varieties(prabhedāḥ) but(tu) distinction(viśeṣaṃ) hear(śṛṇu) Pārvatī(pārvati)
+[five-kālīs](paṃca+kālī) [varieties](prabhedāḥ) [but](tu) [distinction](viśeṣaṃ) [hear](śṛṇu) [pārvatī](pārvati)
 
 ## mukta-m0-p14-v342
-above(ūrdhvaṃ) light-made(jyotirmayaṃ) face(vaktraṃ) Caṇḍayogeśvarī-named(caṇḍayogeśvarībhidhām)
+[above](ūrdhvaṃ) [light-made](jyotiḥ+mayaṃ) [face](vaktraṃ) [caṇḍayogeśvarī-named](caṇḍa+yogeśvarī+abhidhām)
 
 ## mukta-m0-p14-v343
-one-face-jewel-mudrā(vaktraikaratnamudrāṃ) and(ca) devoid(vihīnā) five-Kālī(paṃcakālikā)
+[one-face-jewel-seal](vaktra+eka+ratna+mudrāṃ) [and](ca) [devoid](vihīnā) [five-kālī](paṃca+kālikā)
 
 ## mukta-m0-p14-v344
-ornaments-etc(bhūṣaṇādīni) colors(varṇāni) as(yathā) Śrī-Guhyakālikā(śrīguhyakālikā)
+[ornaments-etc](bhūṣaṇa+ādīni) [colors](varṇāni) [as](yathā) [śrī-guhyakālikā](śrī+guhya+kālikā)
 
 ## mukta-m0-p14-v345
-Bhāṣā-Kālī(bhāṣākālyā) equal-form(tulyarūpā) distinction(viśeṣaṃ) that(sa) and(ca) them(tān) hear(śṛṇu)
+[bhāṣā-kālī](bhāṣā+kālyā) [similar-form](tulya+rūpā) [distinction](viśeṣaṃ) [that](sa) [and](ca) [of-them](tān) [hear](śṛṇu)
 
 ## mukta-m0-p14-v346
-blue-cloud-resembling(nīlajīmūtasaṃkāśā) nine-faced(navavaktrā) great-goddess(maheśvarī)
+[blue-cloud-resembling](nīla+jīmūta+saṃkāśā) [nine-faced](nava+vaktrā) [great-goddess](mahā+īśvarī)
 
 ## mukta-m0-p14-v347
-bound-lotus-seated(baddhapadmāsanā) goddess(devī) full-raised-breasts(pīnonnatapayodharā)
+[bound-lotus-seat](baddha+padma+āsanā) [goddess](devī) [full-raised-breasts](pīna+unnata+payaḥ+dharā)
 
 ## mukta-m0-p14-v348
-intoxication-reeling-long-eyed(madaghūrṇitadīrghākṣī) meditation-eye-intent(dhyānalocanatatparā)
+[intoxication-reeling-long-eyed](mada+ghūrṇita+dīrgha+akṣī) [meditation-eye-intent](dhyāna+locana+tatparā)
 
 ## mukta-m0-p14-v349
-forefinger-tip-on(tarjanyagre) situated(sthitaṃ) thunderbolt(vajraṃ) form(mūrtiṃ) fire-like-radiance(jvalanasaprabhām)
+[at-forefinger-tip](tarjany+agre) [situated](sthitaṃ) [thunderbolt](vajraṃ) [form](mūrtiṃ) [fire-like-luster](jvalana+sa+prabhām)
 
 ## mukta-m0-p14-v350
-destruction-wheel-middle-standing(saṃhāracakramadhyasthaṃ) fleshless(nirmāṃsā) hollow-mother(koṭarāṃbikām)
+[destruction-wheel-middle-situated](saṃhāra+cakra+madhya+sthaṃ) [fleshless](nir+māṃsā) [hollow-mother](koṭara+aṃbikām)
