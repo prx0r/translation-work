@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[tasmāt](therefore) [syād](should-be) [viṣṇu+samparkaḥ](viṣṇu+contact) [pakṣa+sūtre](wing+thread) [ava](down) [lambane](hanging)
+[therefore](tasmāt) [should-be](syāt) [Viṣṇu+connection](viṣṇu+samparkaḥ) [in-side+thread](pakṣa+sūtre) [or](eva) [variant:](kh:) [thread](sūtre) [and](ca) [in-hanging](lambane)
 
 ## mukta-m0-p66-v1627
-[chatrā+bhaṃ](umbrella+like) [kukkuṭa+aṇḍe](cock+egg) [tu](but) [bāla+indu+ābhe](young+moon+like) [yava+upamam](barley+resembling)
+[umbrella+like](chatrā+ābhaṃ) [in-cock+egg](kukkuṭa+aṇḍe) [but](tu) [young-moon+like](bāla+indu+ābhe) [barley+like](yava+upamam)
 
 ## mukta-m0-p66-v1628
-[yaśaḥ](fame) [rājyaṃ](kingdom) [dhanaṃ](wealth) [putraṃ](son) [saubhāgyaṃ](good-fortune) [jīvitaṃ](life) [kramāt](in-order)
+[fame](yaśo) [kingdom](rājyaṃ) [wealth](dhanaṃ) [son](putraṃ) [good-fortune](saubhāgyaṃ) [life](jīvitaṃ) [in-order](kramāt)
 
 ## mukta-m0-p66-v1629
-[etat](this) [vāṇa+mataṃ](arrow+opinion) [proktaṃ](declared) [lakṣaṇaṃ](mark) [sārva+liṅgikam](all+linga-related)
+[this](etat) [of-Bāṇa](vāṇa+matam) [declared](proktam) [characteristic](lakṣaṇam) [essence+marked](sāra+liṅgikam)
 
 ## mukta-m0-p66-v1630
-[santyāgāt](from-abandonment) [ardhāt](from-half) [pāda+ūrdhva+lambanam](foot+above+hanging)
+[by-abandoning](santyāgāt) [from-half](ardhāt) [from-quarter](pādāt) [upper+hanging](ūrdhva+lambanam)
 
 ## mukta-m0-p66-v1631
-[praṇālasya](of-channel) [ardha+vistārāt](half+breadth) [pīṭha+avaṭa+kala+indu](seat+cavity+digit+moon) [vā](or)
+[of-drainage-channel](praṇālasya) [from-half+width](ardha+vistārāt) [pedestal+basin](pīṭha+avaṭaka) [crescent](indu) [or](vā)
 
 ## mukta-m0-p66-v1632
-[rekhā+pṛthutvaṃ](line+thickness) [sāṅghrī](with-foot) [tu](but) [dve](two) [likṣe](nits) [mūrdhaje](on-head-hair) [tathā](also)
+[line+breadth](rekhā+pṛthutvam) [with-foot](sāṅghrī) [but](tu) [two](dve) [should-be-drawn](likṣe) [on-head+hair](mūrdha+je) [likewise](tathā)
 
 ## mukta-m0-p66-v1633
-[vṛddhi+rekhā](growth+line) [tathā](also) [sthānaṃ](place) [marmakaṃ](vital-spot) [ca](and) [ādi+varjitam](beginning+excluded)
+[growth+line](vṛddhi+rekhā) [likewise](tathā) [place](sthānam) [vital-point](marmakam) [and](ca) [beginning+excluded](ādi+varjitam)
 
 ## mukta-m0-p66-v1634
-[sūkṣmāṇām](of-subtle) [api](even) [liṅgānāṃ](of-marks) [tri+rāśi+kṛta+lakṣaṇam](three+heap+made+mark)
+[of-subtle](sūkṣmāṇām) [even](api) [of-marks](liṅgānām) [by-rule-of-three+made](tri+rāśi+kṛta) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p66-v1635
-[dig+īśānāṃ](direction+lords) [tu](but) [liṅgānāṃ](of-marks) [sva+kāma+phala+sādhane](own+desire+fruit+accomplishment)
+[of-direction+lords](dik+īśānām) [but](tu) [of-marks](liṅgānām) [in-own+desire+fruit+accomplishment](sva+kāma+phala+sādhane)
 
 ## mukta-m0-p66-v1636
-[śūlaṃ](trident) [vajraṃ](thunderbolt) [ca](and) [śaktiṃ](spear) [ca](and) [tikṣṇa+agraṃ](sharp+tip) [kambukaṃ](conch) [tathā](also)
+[trident](śūlam) [thunderbolt](vajram) [and](ca) [spear](śaktim) [and](ca) [sharp+pointed](tīkṣṇa+agram) [conch](kambukam) [likewise](tathā)
 
 ## mukta-m0-p66-v1637
-[liṅgha+vat](like-linga) [vartayed](should-turn) [rekhāṃ](line) [hema+sūcyā](gold+needle) [tu](but) [anantaram](afterwards)
+[like-mark](liṅgha+vat) [should-draw](vartayet) [line](rekhām) [with-gold+needle](hema+sūcyā) [but](tu) [thereafter](anantaram)
 
 ## mukta-m0-p66-v1638
-[dvi+māṣayā](two+māṣa) [tataḥ](then) [anyasya](of-another) [kanyasasya](of-smaller) [eka+māṣayā](one+māṣa)
+[with-two+māṣas](dvi+māṣayā) [then](tataḥ) [of-another](anyasya) [of-inferior](kanyasasya) [with-one+māṣa](eka+māṣayā)
 
 ## mukta-m0-p66-v1639
-[snigdhā](smooth) [samā](even) [ca](and) [gambhīrā](deep) [ṛjvī](straight) [sarva+artha+dā](all+purpose+giving) [bhavet](should-be)
+[smooth](snigdhā) [even](samā) [and](ca) [deep](gambhīrā) [straight](ṛjvī) [all+purpose+giving](sarva+artha+dā) [should-be](bhavet)
 
 ## mukta-m0-p66-v1640
-[śastram](weapon) [āmantrya](having-invoked) [śastreṇa](by-weapon) [vilikhet](should-draw) [dakṣiṇena](by-right) [tu](but)
+[weapon](śastram) [having-consecrated](āmantrya) [with-weapon](śastreṇa) [should-incise](vilikhet) [with-right](dakṣiṇena) [but](tu)
 
 ## mukta-m0-p66-v1641
-[sarvam](all) [eva](indeed) [śiras+sthatvam](head+state) [īśānasya](of-īśāna) [hi](for) [lakṣaṇam](mark)
+[all](sarvam) [indeed](eva) [head+situated](śiras+sthatvam) [of-Īśāna](īśānasya) [indeed](hi) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p66-v1642
-[saumyā](gentle) [abhayā](fearless) [pradātrī](giver) [ca](and) [vīrā](heroic) [hṛṣṭā](delighted) [prabodhikā](awakening)
+(p. 20) [gentle](saumyā) [fearlessness+giving](abhayā) [bestowing](pradātrī) [and](ca) [heroic](vīrā) [joyful](hṛṣṭā) [awakening](prabodhikā)
 
 ## mukta-m0-p66-v1643
-[krūrā](cruel) [kruddhā](angry) [karālā](terrifying) [ca](and) [bhīṣaṇā](frightful) [vikṛtā](deformed) [adbhutā](wondrous)
+[fierce](krūrā) [angry](kruddhā) [terrible](karālā) [and](ca) [frightful](bhīṣaṇā) [deformed+wondrous](vikṛta+adbhutā)
 
 ## mukta-m0-p66-v1644
-[netra+tri+bhāga+madhye](eye+three+part+middle) [tu](but) [tārakā+ākhyaṃ](star+named) [prakīrtitam](declared)
+[eye+three+part](netra+tri+bhāga) [in-middle](madhye) [but](tu) [called-pupil](tārakā+ākhyam) [is-declared](prakīrtitam)
 
 ## mukta-m0-p66-v1645
-[na](not) [ūrdhvaṃ](upward) [na](not) [adhaḥ](downward) [natiḥ](bending) [yag+vā](oblique+or) [na](not) [nyūna+adhika+vibhramā](less+excess+confusion)
+[not-upward](na+ūrdhvam) [not-downward](na+adhaḥ) [not-slanting](na+tiryak) [or](vā) [not](na) [deficient+excessive+error](nyūna+adhika+vibhramā)
 
 ## mukta-m0-p66-v1646
-[snāna+adhivāsanam](bathing+consecration)
+[bathing+preliminary-consecration](snāna+adhivāsanam)
 
 ## mukta-m0-p66-v1647
-[etasya](of-this) [arthau](meanings) [nipātānām](of-particles) [aneka+arthatayā](many+meaning-ness) [mataḥ](opinion)
+[of-this](etasya) [meaning](arthau) [variant:](gh:) [meaning](arthaḥ) [of-particles](nipātānām) [by-many+meaning+state](aneka+artha+tayā) [is-considered](mataḥ)
 
 ## mukta-m0-p66-v1648
-[nareṇa](by-man) [arghaṃ](offering) [pradadyāt](should-give) [ca](and) [pādyaṃ](foot-water) [ca](and) [ājātakena](by-goat-born) [tu](but)
+[by-man](nareṇa) [argha](argham) [variant:](navena) [arvaṃ] [should-give](pradadyāt) [and](ca) [foot-water](pādyam) [and](ca) [with-Ajāta-mantra](ajāta+kena) [but](tu)
 
 ## mukta-m0-p66-v1649
-[pañcamena](by-fifth) [srajaṃ](garland) [dadyāt](should-give) [dhūpaṃ](incense) [vai](indeed) [dakṣiṇena](by-right) [tu](but)
+[with-fifth](pañcamena) [garland](srajam) [should-give](dadyāt) [incense](dhūpam) [indeed](vai) [with-Dakṣiṇa-mantra](dakṣiṇena) [but](tu)
 
 ## mukta-m0-p66-v1650
-[śrīvāsa+saralābhyāṃ](śrīvāsa+pine) [ca](and) [khaṇḍa+dhūpaiḥ](piece+incense) [ca](and) [dhūpayet](should-fumigate)
+[with-Śrīvāsa+Sarala](śrīvāsa+saralābhyām) [and](ca) [with-lump+incenses](khaṇḍa+dhūpaiḥ) [and](ca) [should-fumigate](dhūpayet)

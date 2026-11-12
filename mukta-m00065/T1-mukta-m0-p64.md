@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[pada](pradhānaśilpinaṃ) [pada](tadvagdandhapuṣpaistathetarān)
+[chief](pradhāna) [craftsman](śilpinaṃ) [similarly](tadvat) [with-dandha-flowers](dandha+puṣpaiḥ) [thus](tathā) [others](itarān)
 
 ## mukta-m0-p64-v1577
-[pada](bhavatpādaprasādānme) [pada](kṛtsnaṃ) [pada](yāgaphalaṃ) [pada](bhavet)
+[by-your-feet](bhavat+pāda) [grace](prasādāt) [for-me](me) [entire](kṛtsnaṃ) [sacrifice](yāga) [fruit](phalaṃ) [may-be](bhavet)
 
 ## mukta-m0-p64-v1578
-[pada](pādalagno) [pada](vadetkartā) [pada](kuru) [pada](karmatvadājñayā)
+[feet](pāda) [clinging](lagnaḥ) [should-say](vadet) [performer](kartā) [do](kuru) [action](karma) [by-your](tvat) [command](ājñayā)
 
 ## mukta-m0-p64-v1579
-[pada](prakṣālya) [pada](pāṇipādaṃ) [pada](ca) [pada](triḥ) [pada](pibedambu) [pada](vītritam)
+[having-washed](prakṣālya) [hands](pāṇi) [and-feet](pādaṃ) [and](ca) [thrice](triḥ) [should-drink](pibet) [water](ambu) [strained](vītritam)
 
 ## mukta-m0-p64-v1580
-[pada](saṃhitābhistribhiḥ) [pada](pūrvamāsyamevamupaspṛśet)
+[with-saṃhitās](saṃhitābhiḥ) [three](tribhiḥ) [first](pūrvam) [mouth](āsyam) [thus](evam) [should-sip](upaspṛśet)
 
 ## mukta-m0-p64-v1581
-[pada](aṅgūṣṭhānāmikābhyāṃ) [pada](tu) [pada](cakṣuḥśrotre) [pada](punaḥ) [pada](punaḥ)
+[with-thumb](aṅgūṣṭha) [and-ring-finger](anāmikābhyāṃ) [indeed](tu) [eyes](cakṣuḥ) [and-ears](śrotre) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p64-v1582
-[pada](sarvābhistu) [pada](śiraḥ) [pada](paścādvāhū) [pada](cāgreṇa) [pada](saṃspṛśet)
+[with-all](sarvābhiḥ) [indeed](tu) [head](śiraḥ) [afterwards](paścāt) [arms](vāhū) [and](ca) [with-tip](agreṇa) [should-touch](saṃspṛśet)
 
 ## mukta-m0-p64-v1583
-[pada](yāgālayaṃ) [pada](praviśyātha) [pada](khaḍgabījaiḥ) [pada](surecitaiḥ)
+[sacrifice](yāga) [abode](ālayaṃ) [having-entered](praviśya) [then](atha) [with-sword](khaḍga) [bījas](bījaiḥ) [well-recited](su+recitaiḥ)
 
 ## mukta-m0-p64-v1584
-[pada](bhūtaśuddhiṃ) [pada](tataḥ) [pada](kuryānmūrtyādisakalīkṛtam)
+[elements](bhūta) [purification](śuddhiṃ) [then](tataḥ) [should-perform](kuryāt) [with-mūrti-etc.](mūrti+ādi) [made-complete](sakalī+kṛtam)
 
 ## mukta-m0-p64-v1585
-[pada](dvādaśāṅgulamutsiktaṃ) [pada](sitoṣṇīṣavidhārakaḥ)
+[twelve](dvādaśa) [aṅgula](aṅgulam) [raised](utsiktaṃ) [white](sita) [turban](uṣṇīṣa) [wearer](vidhārakaḥ)
 
 ## mukta-m0-p64-v1586
-[pada](bhavedyajñe) [pada](sadācāryaḥ) [pada](śrīkaṇṭharūpadhārakaḥ)
+[should-be](bhavet) [in-sacrifice](yajñe) [always](sadā) [ācārya](ācāryaḥ) [Śrīkaṇṭha](śrīkaṇṭha) [form](rūpa) [bearing](dhārakaḥ)
 
 ## mukta-m0-p64-v1587
-[pada](ityevaṃ) [pada](nirvikalpena) [pada](cetasā) [pada](cintayetsadā)
+[thus](iti) [in-this-way](evaṃ) [with-undivided](nirvikalpena) [mind](cetasā) [should-contemplate](cintayet) [always](sadā)
 
 ## mukta-m0-p64-v1588
-[pada](tenārdhavāriṇā) [pada](prokṣya) [pada](sarvaṃ) [pada](puṣpaphalādikam)
+[with-that](tena) [half](ardha) [water](vāriṇā) [having-sprinkled](prokṣya) [all](sarvaṃ) [flower](puṣpa) [fruit](phala) [etc.](ādikam)
 
 ## mukta-m0-p64-v1589
-[pada](varmaṇā) [pada](saṅgahetpaścāccāmarairvātha) [pada](picchakaiḥ)
+[with-armor-mantra](varmaṇā) [should-cover](saṅgahet) [afterwards](paścāt) [with-chowries](cāmaraiḥ) [or](vā) [then](atha) [with-fans](picchakaiḥ)
 
 ## mukta-m0-p64-v1590
-[pada](gandhāmbuphalaratnāḍhyamoṣadhīvastrasaṃyutam)
+[fragrance](gandha) [water](ambu) [fruit](phala) [jewel](ratna) [abounding](āḍhyam) [herbs](oṣadhī) [cloth](vastra) [endowed-with](saṃyutam)
 
 ## mukta-m0-p64-v1591
-[pada](aiśyāṃ) [pada](diśyastrasaṃyuktaṃ) [pada](sthāpayedambaropari)
+[in-northeast](aiśyāṃ) [direction](diśi) [with-weapon-mantra](astra+saṃyuktaṃ) [should-place](sthāpayet) [on-cloth](ambara+upari)
 
 ## mukta-m0-p64-v1592
-[pada](vinyasya) [pada](kalaśāṃstatra) [pada](tāṃśca) [pada](dakṣiṇato'rcayet)
+[having-placed](vinyasya) [water-pots](kalaśān) [there](tatra) [them](tān) [and](ca) [to-the-south](dakṣiṇataḥ) [should-worship](arcayet)
 
 ## mukta-m0-p64-v1593
-[pada](vitānaṃ) [pada](mañcamāṃśena) [pada](prāguktairdhvajatoraṇān)
+[canopy](vitānaṃ) [platform](mañcam) [with-part](aṃśena) [with-aforementioned](prāk+uktaiḥ) [banner](dhvaja) [and-arches](toraṇān)
 
 ## mukta-m0-p64-v1594
-[pada](saṃsthitam)
+[standing](saṃsthitam)
 
 ## mukta-m0-p64-v1595
-[pada](indrendviśāgradarbhāśva) [pada](stṛṇīyādakṣatāṃ) [pada](śucīn)
+[indra](indra) [moon](indu) [īśa](īśa) [pointed](agra) [kuśa-grass](darbha) [and-aśva](aśva) [should-strew](stṛṇīyāt) [unbroken-rice](akṣatān) [pure](śucīn)
 
 ## mukta-m0-p64-v1596
-[pada](arghaṃ) [pada](datvā) [pada](tu) [pada](vaktreṇa) [pada](dhūpaṃ) [pada](vai) [pada](madhyagena) [pada](tu)
+[argha](arghaṃ) [having-given](datvā) [indeed](tu) [with-face-mantra](vaktreṇa) [incense](dhūpaṃ) [indeed](vai) [with-middle-mantra](madhyagena) [indeed](tu)
 
 ## mukta-m0-p64-v1597
-[pada](avyaktādīni) [pada](liṅgāni) [pada](prāgindvīśaśirāṃsi) [pada](ca)
+[the-unmanifest](avyakta) [etc.](ādīni) [liṅgas](liṅgāni) [east](prāk) [moon](indu) [īśa](īśa) [heads](śirāṃsi) [and](ca)
 
 ## mukta-m0-p64-v1598
-[pada](viṣamasūtrakaiḥ)
+[with-irregular](viṣama) [threads](sūtrakaiḥ)
 
 ## mukta-m0-p64-v1599
-[pada](ūrdhvādhoṃśaparityāgātpunarvṛttiṃ) [pada](dvidhāṃśataḥ)
+[upper](ūrdhva) [and-lower](adhaḥ) [parts](aṃśa) [by-abandonment](parityāgāt) [again](punar) [revolution](vṛttiṃ) [in-two](dvidhā) [parts](aṃśataḥ)
 
 ## mukta-m0-p64-v1600
-[pada](antarluptvā) [pada](sahasrāṇi) [pada](bhavatyantaritaiḥ) [pada](sadā)
+[having-divided](antarluptvā) [thousands](sahasrāṇi) [becomes](bhavati) [with-intervals](antaritaiḥ) [always](sadā)

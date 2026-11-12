@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[at-that-time](tasminkāle) [offering](pradānaṃ) [and](ca) [to-teacher](gurave) [to-be-given](deyam) [respectfully](ādarāt)
+[at-that](tasmin) [time](kāle) [gift](pradānaṃ) [and](ca) [to-guru](gurave) [should-be-given](deyam) [with-respect](ādarāt)
 
 ## mukta-m0-p63-v1552
-[twelfth](dvādaśo) [rite](vidhiḥ)
+[twelfth](dvādaśo) [rule](vidhiḥ)
 
 ## mukta-m0-p63-v1553
-[full-pot-etc](pūrṇakumbhādi) [auspicious](maṅgalye) [on-occasion](nimitte) [previously-mentioned](pūrvacodite)
+[full](pūrṇa) [pot](kumbha) [etc.](ādi) [auspicious](māṅgalye) [occasion](nimitte) [previously](pūrva) [prescribed](cocite)
 
 ## mukta-m0-p63-v1554
-[for-auspicious-purpose](maṅgalārthaṃ) [to-be-used](prayoktavyāḥ) [for-beauty](śobhārthaṃ) [and](ca) [so](tathā) [women](striyaḥ)
+[for-auspiciousness](maṅgala) [purpose](arthaṃ) [should-be-employed](prayoktavyāḥ) [for-beauty](śobha) [purpose](arthaṃ) [and](ca) [likewise](tathā) [women](striyaḥ)
 
 ## mukta-m0-p63-v1555
-[not](na) [this](ca+ayaṃ) [rule](niyamo) [here](hyatra) [of-brahmins](brāhmaṇānāṃ) [acceptance](parigrahe)
+[not](na) [and](ca) [this](ayaṃ) [rule](niyamaḥ) [indeed](hi) [here](atra) [of-brāhmaṇas](brāhmaṇānāṃ) [in-employment](parigrahe)
 
 ## mukta-m0-p63-v1556
-[in-festival](utsave) [for-auspicious-purpose](maṅgalārthe) [indeed](tu) [proper-veda-sound](samyag+vedasvanaḥ) [remembered](smṛtaḥ)
+[in-festival](utsave) [for-auspicious](maṅgala) [purpose](arthe) [but](tu) [proper](samyak) [veda](veda) [sound](svanaḥ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p63-v1557
-[in-all-beginnings](sarvārambheṣu) [that-worshipful](tat+pūjyaṃ) [not](na) [veda](vedaḥ) [there](tatra) [cause](kāraṇam)
+[in-all](sarva) [undertakings](ārambheṣu) [that](tat) [to-be-honored](pūjyaṃ) [not](na) [veda](vedaḥ) [there](tatra) [cause](kāraṇam)
 
 ## mukta-m0-p63-v1558
-[knower-of-truth-for-astrology](jyotir+jñāna+artha+tattva+jñaḥ) [astrologer](daivajñaḥ) [is-born](jāyate) [because](yataḥ)
+[astrology](jyotis) [knowledge](jñāna) [purpose](artha) [truth](tattva) [knower](jñaḥ) [astrologer](daivajñaḥ) [is-born](jāyate) [because](yataḥ)
 
 ## mukta-m0-p63-v1559
-[knowledge](jñānaṃ) [is-worshipped](saṃpūjyate) [always](nityaṃ) [not](na) [birth](jātiḥ) [there](tatra) [cause](kāraṇam)
+[knowledge](jñānaṃ) [is-honored](saṃpūjyate) [always](nityaṃ) [not](na) [birth](jātiḥ) [there](tatra) [cause](kāraṇam)
 
 ## mukta-m0-p63-v1560
-[skillful](nipuṇaṃ) [well-conducted](supraṇītaṃ) [and](ca) [confidence-many-seeing](pratyayāneka+darśakam)
+[skilled](nipuṇaṃ) [well-established](supraṇītaṃ) [and](ca) [conviction](pratyaya) [many](aneka) [showing](darśakam)
 
 ## mukta-m0-p63-v1561
-[with-flowers-garments-incense-etc](sra'vastra+gandha+dhūpa+ādyaiḥ) [astrologer](daivajñaṃ) [worship](saṃprapūjayet)
+[with-garlands](sraj) [garments](vastra) [fragrance](gandha) [incense](dhūpa) [etc.](ādyaiḥ) [astrologer](daivajñaṃ) [one-should-worship](saṃprapūjayet)
 
 ## mukta-m0-p63-v1562
-[by-ghatika-shanku-yoga](ghaṭikā+śaṅku+yogena) [consecration-ascendant](pratiṣṭhā+lagnam) [declare](ādiśet)
+[with-time-measure](ghaṭikā) [gnomon](śaṅku) [conjunction](yogena) [installation](pratiṣṭhā) [auspicious-moment](lagnam) [one-should-indicate](ādiśet)
 
 ## mukta-m0-p63-v1563
-[all-means-endowed](sarva+upāya+anvitaṃ) [meritorious](puṇyaṃ) [dharma-kama-artha-moksha-giving](dharma+kāma+artha+mokṣa+dam)
+[with-all](sarva) [means](upāyān) [endowed](vitaṃ) [meritorious](puṇyaṃ) [dharma](dharma) [desire](kāma) [wealth](artha) [liberation](mokṣa) [giving](dam)
 
 ## mukta-m0-p63-v1564
-[what-not-achievable](yan+na+sādhyaṃ) [indeed](tu) [in-vedas](vedeṣu) [that-easily-achievable](tat+susādhyaṃ) [in-shiva-agama](śivāgame)
+[what](yat) [not](na) [achievable](sādhyaṃ) [indeed](tu) [in-vedas](vedeṃṣu) [that](tat) [well](su) [achievable](sādhyaṃ) [in-śiva](śiva) [scripture](āgame)
 
 ## mukta-m0-p63-v1565
-[not-this-cause](na+ca+etat+kāraṇaṃ) [by-vedas](vedaiḥ) [of-consecration](pratiṣṭhāyāḥ) [in-shiva-agama](śivāgame)
+[and-not](na+ca) [this](etat) [cause](kāraṇaṃ) [by-vedas](vedaiḥ) [of-installation](pratiṣṭhāyāḥ) [in-śiva](śiva) [scripture](āgame)
 
 ## mukta-m0-p63-v1566
-[from-devi-mata](devyā+matāt) [drawing](samākṛṣya) [written](likhitaṃ) [briefly](leśato) [by-me](mayā)
+[from-devī](devyā) [tradition](mata) [from-that](āt) [having-extracted](samākṛṣya) [written](likhitaṃ) [in-brief](leśataḥ) [by-me](mayā)
 
 ## mukta-m0-p63-v1567
-[purifying](śodhayitvā) [then](tato) [linga](liṅgaṃ) [on-chariot](rathe) [placing](tvāropya) [carefully](yatnataḥ)
+[having-purified](śodhayitvā) [then](tataḥ) [liṅga](liṅgaṃ) [on-chariot](rathe) [indeed](tu) [having-mounted](āropya) [with-effort](yatnataḥ)
 
 ## mukta-m0-p63-v1568
-[pull](ākarṣayet) [also](ca) [by-elephants-horses](nāga+aśvaiḥ) [or-buffaloes](mahiṣaiḥ+vā) [by-bulls](bṛṣaiḥ) [chariot](ratham)
+[one-should-draw](ākarṣayet) [and](ca) [by-elephants](nāga) [horses](aśvaiḥ) [by-buffaloes](mahiṣaiḥ) [or](vā) [by-bulls](bṛṣaiḥ) [chariot](ratham)
 
 ## mukta-m0-p63-v1569
-[descending](avatārya) [arrived](āgataṃ) [linga](liṅgaṃ) [on-chariot](syandana+sthaṃ) [carefully](prayatnataḥ)
+[having-brought-down](avatārya) [arrived](āgataṃ) [liṅga](liṅgaṃ) [on-chariot](syandana) [standing](sthaṃ) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p63-v1570
-[eight-limbed-purified](aṣṭāṅga+saṃskṛtaṃ) [arghya](ca+arghaṃ) [giving](dattvā) [linga](liṅgaṃ) [enter](praveśayet)
+[eight](aṣṭa) [part](aṅga) [consecrated](saṃskṛtaṃ) [and](ca) [argha](arghaṃ) [having-given](dattvā) [liṅga](liṅgaṃ) [one-should-cause-to-enter](praveśayet)
 
 ## mukta-m0-p63-v1571
-[gold-vessel-etc](hema+pātra+ādigaiḥ) [with-these](etaiḥ) [arghya](arghaṃ) [give](dadyāt) [then-eight](atha+aṣṭabhiḥ)
+[gold](hema) [vessel](pātra) [etc.](ādi) [with-these](gaiḥ) [with-these](etaiḥ) [argha](arghaṃ) [one-should-give](dadyāt) [then](atha) [with-eight](aṣṭabhiḥ)
 
 ## mukta-m0-p63-v1572
-[foot-cleaning](pāda+śaucaṃ) [then](tata) [doing](kṛtvā) [sandals](pāduke) [place](sthāpayet) [again](punaḥ)
+[foot](pāda) [washing](śaucaṃ) [then](tataḥ) [having-done](kṛtvā) [sandals](pāduke) [one-should-place](sthāpayet) [again](punaḥ)
 
 ## mukta-m0-p63-v1573
-[with-saffron-aguru-camphor](kuṅkuma+aguru+karpūraiḥ) [anoint](limpeta) [with-sandal](sama+candanaiḥ)
+[with-saffron](kuṅkuma) [aloewood](aguru) [camphor](karpūraiḥ) [one-should-anoint](limpeta) [with-equal](sama) [sandalwood](candanaiḥ)
 
 ## mukta-m0-p63-v1574
-[crown](mukuṭaṃ) [earrings](kuṇḍalaṃ) [and](ca+eva) [necklace-armlet-bracelet](hāra+keyūra+kaṅkaṇau)
+[crown](mukuṭaṃ) [earring](kuṇḍalaṃ) [and](ca) [indeed](eva) [necklace](hāra) [armlet](keyūra) [bracelet](kaṅkaṇau)
 
 ## mukta-m0-p63-v1575
-[in-householder-rite](gṛhasthānāṃ+vidhau) [properly](samyak) [wealth-deceit](vitta+śāṭhyaṃ) [not](na) [do](kārayet)
+[of-householders](gṛhasthānāṃ) [in-rite](vidhau) [properly](samyak) [wealth](vitta) [deceit](śāṭhyaṃ) [not](na) [one-should-do](kārayet)

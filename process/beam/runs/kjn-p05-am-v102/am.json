@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "Under what conditions may this teaching be given to a recipient?",
+ "question": "Under what conditions may the Kaula teaching be given to a recipient?",
  "premises": [
   "The teaching may be given",
-  "The giver is previously accomplished",
-  "The recipient is tested for one year"
+  "The giver should be previously accomplished",
+  "The recipient must be tested for one year"
  ],
- "inference": "A previously accomplished teacher may give this teaching to one tested for a year.",
- "uncertainties": [],
- "plain_english": "It should be given by one previously accomplished to a person tested for one year."
+ "inference": "The teaching should be given only by an accomplished teacher to one tested for a year.",
+ "uncertainties": [
+  "The relation of pūrvasiddhasya to giver or recipient is contextually inferred."
+ ],
+ "plain_english": "It should be given by one previously accomplished to a person who has been tested for one year."
 }
