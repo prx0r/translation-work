@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[place](nyaset) [that](tan) [middle](madhyataḥ) [stake](śaṅkuṃ) [khadira](khādiraṃ) [twelve-cubits-high](dvādaśocchrayam)
+should-place(nyaset) in-its-middle(tan+madhyataḥ) gnomon(śaṅkuṃ) made-of-khādira(khādiraṃ) twelve-units-high(dvādaśa+ucchrayam)
 
 ## mukta-m0-p93-v2302
-[by-shadow](tacchāyāyāḥ) [entry](praveśena) [west](paścimāṃ) [direction](diśam) [mark](aṅkayet)
+by-that-shadow(tat+chāyāyāḥ) by-entry(praveśena) western(paścimāṃ) direction(diśam) one-should-mark(aṅkayet)
 
 ## mukta-m0-p93-v2303
-[fish-suitable](mīnayogyāṃ) [thus](tathā) [south](yāmyāṃ) [north](saumyāśāṃ) [ca](ca) [prepare](prasādhayet)
+fit-for-fish(mīna+yogyāṃ) likewise(tathā) southern(yāmyāṃ) and-northern-direction(saumya+āśāṃ) ca and(ca) one-should-accomplish(prasādhayet)
 
 ## mukta-m0-p93-v2304
-[veda-corner](vedāsraṃ) [ca](ca) [four-string](catuḥsūtraṃ) [fall](pātataḥ) [there](tatra) [succeeds](siddhyati)
+four-cornered(veda+asraṃ) and(ca) four-threaded(catuḥ+sūtraṃ) by-falling(pātataḥ) there(tatra) is-accomplished(siddhyati)
 
 ## mukta-m0-p93-v2305
-[peaceful](śāntā) [famous](yaśovatī) [lovely](kāntā) [vast](viśālā) [life-bearing](prāṇavāhinī)
+Śāntā(śāntā) Yaśovatī(yaśovatī) Kāntā(kāntā) Viśālā(viśālā) [kh:( [kh:) Vilāsā(vilāsā) ](]) Prāṇavāhinī(prāṇavāhinī)
 
 ## mukta-m0-p93-v2306
-[northern-mouth](uttarāsyāṃ) [ten-other](daśānyā) [ca](ca) [eighty-one-footed](ekāśītyaṅghrikārikā)
+in-northern-direction(uttara+āsyāṃ) ten-others(daśa+anyāḥ) and(ca) having-eighty-one-parts(ekāśīti+aṅghri+kārikā)
 
 ## mukta-m0-p93-v2307
-[victorious](jayā) [flame](jvālā) [sorrowless](viśokā) [ca](ca) [remembered](smṛtaitā) [by-string-fall](sūtrapātataḥ)
+Jayā(jayā) Jvālā(jvālā) Viśokā(viśokā) and(ca) remembered(smṛtā) these(etāḥ) by-laying-threads(sūtra+pātataḥ)
 
 ## mukta-m0-p93-v2308
-[indra-sun](śakramarkaṃ) [thus](tathā) [truth](satyaṃ) [firm](bhṛśaṃ) [sky](vyomaṃ) [ca](ca) [east](pūrvataḥ)
+Śakra(śakram) Arka(arkaṃ) likewise(tathā) Satya(satyaṃ) Bhṛśa(bhṛśaṃ) and-Vyoma(vyomaṃ) ca and(ca) in-east(pūrvataḥ)
 
 ## mukta-m0-p93-v2309
-[yama](kṛtāntam) [atha](atha) [gandharva](gāndharvaṃ) [bee](bhṛṅgaṃ) [deer](mṛgaṃ) [ca](ca) [south](dakṣiṇe)
+Kṛtānta(kṛtāntam) then(atha) Gāndharva(gāndharvaṃ) Bhṛṅga(bhṛṅgaṃ) and-Mṛga(mṛgaṃ) ca and(ca) in-south(dakṣiṇe)
 
 ## mukta-m0-p93-v2310
-[varuna](varuṇaṃ) [demon-drying](daityaśoṣau) [ca](ca) [consumption](yakṣmāṇaṃ) [west](paścime) [always](sadā)
+Varuṇa(varuṇaṃ) Daitya-and-Śoṣa(daitya+śoṣau) and(ca) Yakṣmāṇa(yakṣmāṇaṃ) in-west(paścime) always(sadā)
 
 ## mukta-m0-p93-v2311
-[nine-end-foot](navāntapadago) [brahma](brahmā) [worshipful](pūjyo) [others](anye) [two-footed](dvipadaṅghrikāḥ)
+occupying-nine-inner-parts(nava+anta+pada+gaḥ) Brahmā(brahmā) to-be-worshipped(pūjyaḥ) others(anye) having-two-part-feet(dvi+pada+aṅghrikāḥ)
 
 ## mukta-m0-p93-v2312
-[thus](tathā) [below](adhaḥ) [bow-calf-named](cāpavatsākhyaḥ) [center-between](kendrāntare) [tu](tu) [six-footed](ṣaṭpade)
+likewise(tathā) below(adhaḥ) and(ca) named-Āpavatsa(āpavatsa+ākhyaḥ) in-intercardinal-center(kendra+antare) but(tu) in-six-parts(ṣaṭ+pade)
 
 ## mukta-m0-p93-v2313
-[savitri](sāvitrī) [that-below](tadadho) [two-footed](dvyaṅghre) [vivasvan](vivasvān) [six-footed](ṣaṭpade) [tvadhaḥ](tvadhaḥ)
+Sāvitrī(sāvitrī) below-that(tat+adhaḥ) in-two-parts(dvi+aṅghre) Vivasvān(vivasvān) in-six-parts(ṣaṭ+pade) but-below(tu+adhaḥ)
 
 ## mukta-m0-p93-v2314
-[varuna-brahma-middle](varuṇabrahmaṇormadhye) [mitra-named](mitrākhyaṃ) [six-footed](ṣaṭpade) [worship](yajet)
+between-Varuṇa-and-Brahmā(varuṇa+brahmaṇoḥ+madhye) named-Mitra(mitra+ākhyaṃ) in-six-parts(ṣaṭ+pade) one-should-worship(yajet)
 
 ## mukta-m0-p93-v2315
-[six-placed](ṣaḍsthaṃ) [north](saumye) [earth-bearer](dharādharam)
+situated-in-six(ṣaḍsthaṃ) ](]) in-north(saumye) Dharādhara(dharādharam)
 
 ## mukta-m0-p93-v2316
-[jambha-papa-pilipiccha](jambhapāpapilīpicchān) [worship](yaje) [direction-outside](dīśādibāhyataḥ)
+Jambha-Pāpa-Pilīpiccha(jambha+pāpa+pilīpicchān) one-should-worship(yaje) [k,( [k,) g:(g:) one-should-place(nyase) ](]) outside-directions(dik+ādi+bāhyataḥ)
 
 ## mukta-m0-p93-v2317
-[śātmake](śātmake)
+consisting-of-śāta(śātmake) ](])
 
 ## mukta-m0-p93-v2318
-[ten-chambered](daśakoṣṭhasthitā) [directions](dikṣu) [tvanye](tvanye) [ceśādikoṇagāḥ](ceśādikoṇagāḥ)
+situated-in-ten-cells(daśa+koṣṭha+sthitāḥ) in-directions(dikṣu) but(tu) others(anye) and(ca) located-in-Īśa-corners(īśa+ādi+koṇa+gāḥ)
 
 ## mukta-m0-p93-v2319
-[sin-named](pāpasaṃjñānilau) [devas](devā) [one-and-half-footed](sārdhasārdhāṅghrisaṃsthitāḥ)
+Pāpa-and-Anila(pāpa+saṃjña+anilau) deities(devāḥ) situated-in-half-and-half-parts(sārdha+sārdha+aṅghri+saṃsthitāḥ)
 
 ## mukta-m0-p93-v2320
-[deva-vastu-rite](devavāstuvidhau) [all](sarvaṃ) [speak](vakṣye) [thorn-extraction](śalyoddhṛti) [order](kramāt)
+in-rules-of-divine-architecture(deva+vāstu+vidhau) all(sarvaṃ) I-shall-tell(vakṣye) in-order-of-extracting-śalya(śalya+uddhṛti) kramāt in-sequence(kramāt)
 
 ## mukta-m0-p93-v2321
-[rūpavat](rūpavat)
+[mū,( [mū,) ṅ:(ṅ:) having-form(rūpavat) ](])
 
 ## mukta-m0-p93-v2322
-[same-direction-twenty-cubits](sadigviṃśatkaro) [length](dairghyāt) [twenty-seven-wide](saptaviṃśativistṛtaḥ)
+with-twenty-cubits-plus-directions(sa+dig+viṃśat+karaḥ) in-length(dairghyāt) twenty-seven-wide(sapta+viṃśati+vistṛtaḥ)
 
 ## mukta-m0-p93-v2323
-[rudra-double](rudradviguṇitaṃ) [nāha](nāhāt) [broad-light](pṛthujyotir) [without](vinā) [three](tribhiḥ)
+multiplied-by-eleven(rudra+dvi+guṇitaṃ) in-circumference(nāhāt) Pṛthujyotis(pṛthujyotiḥ) without(vinā) three(tribhiḥ)
 
 ## mukta-m0-p93-v2324
-[wall-string-equal](kuḍyasūtrasamā) [street](vīthī) [street-divisions](vīthībhedāt) [many](anekadhā)
+equal-to-wall-thread(kuḍya+sūtra+samā) path(vīthī) by-difference-of-paths(vīthī+bhedāt) in-many-ways(anekadhā)
 
 ## mukta-m0-p93-v2325
-[sides](pārśvayor) [vinā](vinā)
+on-both-sides(pārśvayoḥ) without(vinā)

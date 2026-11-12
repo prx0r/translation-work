@@ -7,39 +7,39 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "object of the imperative 'śṛṇu'; denotes the immortal essence",
+     "grounds": "object of hearing; the immortal essence being described",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-nature",
-     "grounds": "compound 'kaula-sadbhāva'; appositional or coordinate object with 'amṛtaṃ'",
-     "morph": "m.acc.sg (compound: kaula+sadbhāva)"
+     "grounds": "compound qualifying the nectar as the true nature of Kaula",
+     "morph": "kaula+sadbhāva (compound), m.acc.sg"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "command addressed to the listener",
-     "morph": "2.sg.imp.act (√śru)"
+     "grounds": "imperative address directing the listener to attend",
+     "morph": "2.sg.act-imperative √śru"
     },
     {
      "surface": "kāmakalātmakam",
      "gloss": "desire-art-consisting-of",
-     "grounds": "compound 'kāma-kalā-ātmaka'; qualifies 'kaulasadbhāvaṃ'/'amṛtaṃ'",
-     "morph": "m.acc.sg (compound: kāma+kalā+ātmaka)"
+     "grounds": "compound qualifying the nectar as consisting of the art of desire",
+     "morph": "kāma+kalā+ātmaka (compound), m.acc.sg"
     }
    ],
-   "question": "What essential nature characterizes the Kaula nectar that the listener is commanded to hear?",
+   "question": "What is the essential nature of the Kaula nectar that is to be heard?",
    "premises": [
-    "The listener is directly commanded to hear.",
-    "The object to be heard is identified as nectar and the true nature of Kaula.",
-    "This Kaula essence is described as consisting of kāmakalā."
+    "The listener is commanded to hear about a specific nectar.",
+    "This nectar is identified as the true nature of Kaula.",
+    "This nectar consists of the art of desire."
    ],
-   "inference": "The Kaula nectar to be heard is essentially constituted by kāmakalā.",
+   "inference": "The Kaula nectar to be heard is the true Kaula reality whose essence is the art of desire.",
    "uncertainties": [
-    "The precise doctrinal sense of 'kāmakalā' in this context is not fully specified by the verse alone."
+    "The precise doctrinal sense of kāmakalā in this context may admit multiple interpretations."
    ],
-   "plain_english": "Hear the nectar, the true nature of Kaula, which consists of kāmakalā."
+   "plain_english": "Hear of the nectar, the true nature of Kaula, which consists of the art of desire."
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[five-cubit](pañcahasto'thavā) [or](athavā) [to-be-made](kāryaḥ) [six-four-finger](ṣaṭcaturaṅgulaḥ) [remembered](smṛtaḥ)
+[five-cubits](pañcahastaḥ) [or](atha) [or](vā) [to-be-made](kāryaḥ) [six-four-aṅgulas](ṣaṭ+catur+aṅgulaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p95-v2352
-[unequal](viṣamaistu) [not](na) [middle](mādhyāni) [great-fault](māghyadoṣo) [becomes](mahānbhavet)
+[with-uneven](viṣamaiḥ) [but](tu) [not](na) [middle-ones](mādhyāni) [middle-fault](māghya+doṣaḥ) [great](mahān) [would-be](bhavet)
 
 ## mukta-m0-p95-v2353
-[for-purification-of-defect](doṣaviśuddhyarthaṃ) [should-give](dāpayettatra) [wise](buddhimān)
+[income](āya) [fault-purification-for](doṣa+viśuddhi+artham) [should-give](dāpayet) [there](tatra) [wise-one](buddhimān)
 
 ## mukta-m0-p95-v2354
-[three-finger](tryaṅgulaṃ) [circumference](pariṇāhena) [jin-count-finger-long](jinasaṅkhyāṅgulāyatam)
+[three-aṅgulas](tri+aṅgulam) [in-circumference](pariṇāhena) [jina-number-aṅgulas-long](jina+saṅkhyā+aṅgula+āyatam)
 
 ## mukta-m0-p95-v2355
-[wood-measure](hastadārusamāsena) [explained](vyākhyātaṃ) [site-accomplishment](vāstusādhanam)
+[hand-timber-measure](hasta+dāru+samāsena) [explained](vyākhyātam) [site-preparation](vāstu+sādhanam)
 
 ## mukta-m0-p95-v2356
-[thousand](sahasraṃ) [bows](dhanuṣāṃ) [krośa](krośo) [double](dviguṇaṃ) [remembered](smṛtam)
+[thousand](sahasram) [of-bow-lengths](dhanuṣām) [krośa](krośaḥ) [gavyūti](gavyūtiḥ) [double](dvi+guṇam) [remembered](smṛtam)
 
 ## mukta-m0-p95-v2357
-[one](ekaṃ) [ten-hundred](daśaśataṃ) [to-be-known](jñeyaṃ) [thousand](sahasramayutaṃ) [again](punaḥ)
+[one](ekam) [ten-hundred](daśa+śatam) [to-be-known](jñeyam) [thousand](sahasram) [ten-thousand](ayutam) [again](punaḥ)
 
 ## mukta-m0-p95-v2358
-[vṛnda](vṛndaṃ) [kharva](kharvaṃ) [nikharva](nikharvaṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [padma-named](padmasaṃjñakam)
+[vṛnda](vṛndam) [kharva](kharvam) [nikharva](nikharvam) [and](ca) [śaṅkha](śaṅkham) [indeed](vai) [padma-named](padma+saṃjñakam)
 
 ## mukta-m0-p95-v2359
-[parārdha](parārdhaṃ) [all](sarva) [named](mākhyātaṃ) [ten-increase-successive](daśavṛddhyuttarottaram)
+[parārdha](parārdham) [all](sarvam) [declared](ākhyātam) [tenfold-increase-successively](daśa+vṛddhi+uttara+uttaram)
 
 ## mukta-m0-p95-v2360
-[of-city](purasya) [all-around](sarvato) [directions](dikṣu) [with-outer-inner](sabāhyābhyantareṣu) [and](ca)
+[of-city](purasya) [on-all-sides](sarvataḥ) [in-directions](dikṣu) [with-outer-and-inner](sa+bāhya+abhyantareṣu) [and](ca)
 
 ## mukta-m0-p95-v2361
-[should-make](kuryādabhimukhāvaitau) [village](grāmasna) [city](nagarasya) [and](ca)
+[one-should-make](kuryāt) [facing-these-two](abhimukhau+etau) [of-village](grāmasya) [and](ca) [of-city](nagarasya) [and](ca)
 
 ## mukta-m0-p95-v2362
-[two-hundred](śatadvaye)
+[in-two-hundred](śata+dvaye)
 
 ## mukta-m0-p95-v2363
-[east-west-gone](prākpratīcyāgato) [middle](madhye) [bamboo](vaṃśo) [south-moon-side](dakṣiṇasomataḥ)
+[east-west-going](prāk+pratīcī+āgataḥ) [in-middle](madhye) [beam](vaṃśaḥ) [south-north](dakṣiṇa+somataḥ)
 
 ## mukta-m0-p95-v2364
-[west-facing](paścimasaṃmukhā)
+[west-facing](paścima+saṃmukhāḥ)
 
 ## mukta-m0-p95-v2365
-[not-north-facing](nottarābhimukhāḥ) [auspicious](śastāḥ) [sometimes](kadāciddakṣiṇāmukhāḥ)
+[not](na) [north-facing](uttara+abhimukhāḥ) [commended](śastāḥ) [sometimes](kadācit) [south-facing](dakṣiṇa+āmukhāḥ)
 
 ## mukta-m0-p95-v2366
-[then-first](tadādau) [declared](kīrtyate) [for-stability](sthityai) [maker](kurtuḥ) [fame-auspicious-desire](kīrtiśubhecchayā)
+[then](tadā) [in-beginning](ādau) [is-declared](kīrtyate) [for-stability](sthityai) [of-maker](kartuḥ) [fame-auspiciousness-desire](kīrti+śubha+icchayā)
 
 ## mukta-m0-p95-v2367
-[hanūmat-bhūta-vetāla-mātṛkās](hanūmadbhūtavetālamātṛkālāstu) [south](dakṣiṇe)
+[Hanūmat](hanūmat) [Bhūta](bhūta) [Vetāla](vetāla) [Mātṛ](mātṛ) [Kālā](kālāḥ) [but](tu) [in-south](dakṣiṇe)
 
 ## mukta-m0-p95-v2368
-[oceans](samudrā) [varuṇa](varuṇo) [rivers](nadyo) [viśvāmitra](viśvāmitro'psaro) [water](jale)
+[oceans](samudrāḥ) [Varuṇa](varuṇaḥ) [rivers](nadyaḥ) [Viśvāmitra](viśvāmitraḥ) [Apsaras](apsaraḥ) [in-water](jale)
 
 ## mukta-m0-p95-v2369
-[north](saumye) [skanda](skando) [viśākha](viśākhaśca) [to-be-placed](sthāpyā) [yakṣas](yakṣā) [planets](grahāstathā)
+[in-north](saumye) [Skanda](skandaḥ) [Viśākha](viśākhaḥ) [and](ca) [to-be-established](sthāpyāḥ) [Yakṣas](yakṣāḥ) [Grahas](grahāḥ) [likewise](tathā)
 
 ## mukta-m0-p95-v2370
-[city-first-facing](purādyabhimukhā) [gods](devāḥ) [auspicious](śubhāḥ) [own-place-situated](svasthānasaṃsthitā)
+[city-etc-facing](pura+ādi+abhimukhāḥ) [gods](devāḥ) [auspicious](śubhāḥ) [in-own-places-situated](sva+sthāna+saṃsthitāḥ)
 
 ## mukta-m0-p95-v2371
-[in-kṛta](kṛte) [god](devaṃ) [draw-north](likhetsaumyaṃ) [that-wall](tatkuḍrye) [city-facing](purasammukham)
+[when-made](kṛte) [god](devam) [one-should-draw](likhet) [northern](saumyam) [on-its-wall](tat+kuḍye) [city-facing](pura+sammukham)
 
 ## mukta-m0-p95-v2372
-[own-deities](svadevatāḥ)
+[own-deities](sva+devatāḥ)
 
 ## mukta-m0-p95-v2373
-[bitter-thorny](kaṭukaṇṭakinastiktāḥ) [piśāca-named-trees](piśācākhyādipādapāḥ)
+[pungent](kaṭu) [thorny](kaṇṭakinaḥ) [bitter](tiktāḥ) [piśāca-named-etc-trees](piśāca+ākhya+ādi+pādapāḥ)
 
 ## mukta-m0-p95-v2374
-[palace](prāsādasya) [nearby](samīpasthāḥ) [all-defect-bringing](sarvadoṣāvahā) [to-men](nṛṇam)
+[of-temple](prāsādasya) [near-situated](samīpa+sthāḥ) [all-faults-bringing](sarva+doṣa+āvahāḥ) [for-men](nṛṇām)
 
 ## mukta-m0-p95-v2375
-[unable](aśakta) [to-cut](cchedane) [their](teṣāṃ) [plant-milky-between](ropayetkṣīriṇo'ntare)
+[unable](aśaktaḥ) [in-cutting](chedane) [of-them](teṣām) [one-should-plant](ropayet) [milky-trees](kṣīriṇaḥ) [in-between](antare)
