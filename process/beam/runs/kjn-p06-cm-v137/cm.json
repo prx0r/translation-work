@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "ādhāra",
-   "morph": "compound:ādhāra+skandha+saṃsthāne",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating location"
   },
   {
    "lemma": "skandha",
-   "morph": "compound:ādhāra+skandha+saṃsthāne",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating location"
   },
   {
    "lemma": "saṃsthāne",
    "morph": "n.loc.sg",
-   "grounds": "place of practice"
+   "grounds": "locative specifying the place of practice"
   },
   {
    "lemma": "yogaṃ",
    "morph": "m.acc.sg",
-   "grounds": "practice to be applied"
+   "grounds": "object of the practice to be applied"
   },
   {
    "lemma": "yuñjīta",
    "morph": "3.sg.opt.mid √yuj",
-   "grounds": "injunction for practice"
+   "grounds": "injunctive instruction for yogic practice"
   },
   {
    "lemma": "śītalam",
    "morph": "m.acc.sg",
-   "grounds": "quality of the yoga"
+   "grounds": "qualifies the yoga as cooling"
   }
  ]
 }

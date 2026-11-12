@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "bhū",
-   "morph": "compound:bhū+gṛhe",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound indicating underground location"
   },
   {
    "lemma": "gṛhe",
    "morph": "n.loc.sg",
-   "grounds": "type of dwelling"
+   "grounds": "locative specifying dwelling place"
   },
   {
    "lemma": "nirjane",
    "morph": "n.loc.sg",
-   "grounds": "describes the place"
+   "grounds": "describes the place as uninhabited"
   },
   {
    "lemma": "sthāne",
    "morph": "n.loc.sg",
-   "grounds": "general location"
+   "grounds": "locative specifying location"
   },
   {
    "lemma": "daṃśa",
-   "morph": "compound:daṃśa+maśaka+varjite",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming pests absent"
   },
   {
    "lemma": "maśaka",
-   "morph": "compound:daṃśa+maśaka+varjite",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound naming pests absent"
   },
   {
    "lemma": "varjite",
    "morph": "n.loc.sg",
-   "grounds": "absence of pests"
+   "grounds": "describes the place as free from pests"
   }
  ]
 }

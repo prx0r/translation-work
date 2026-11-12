@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṇ+māsāt",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound indicating duration"
   },
   {
    "lemma": "māsāt",
    "morph": "m.abl.sg",
-   "grounds": "time period"
+   "grounds": "ablative indicating time after which result occurs"
   },
   {
    "lemma": "jñāyate",
    "morph": "3.sg.pres.pass √jñā",
-   "grounds": "manifestation of result"
+   "grounds": "passive verb indicating attainment becomes evident"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "attainment achieved"
+   "grounds": "subject indicating the attained accomplishment"
   },
   {
    "lemma": "yoginī",
-   "morph": "compound:yoginī+pada+tatsamaḥ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound naming the state attained"
   },
   {
    "lemma": "pada",
-   "morph": "compound:yoginī+pada+tatsamaḥ",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound naming the state attained"
   },
   {
    "lemma": "tatsamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "comparison of attainment"
+   "grounds": "describes the perfection as equal to the yogini state"
   }
  ]
 }

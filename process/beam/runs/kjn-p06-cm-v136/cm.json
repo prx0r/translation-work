@@ -5,17 +5,17 @@
   {
    "lemma": "sādravaṃ",
    "morph": "n.acc.sg",
-   "grounds": "describes the form"
+   "grounds": "describes the form as moist or fluid"
   },
   {
    "lemma": "kṛṣṇa",
-   "morph": "compound:kṛṣṇa+rūpaṃ",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound describing the form's color"
   },
   {
    "lemma": "rūpaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of contemplation"
+   "grounds": "object being described"
   },
   {
    "lemma": "ca",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "balī",
-   "morph": "compound:balī+palita+nāśanam",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming what is destroyed"
   },
   {
    "lemma": "palita",
-   "morph": "compound:balī+palita+nāśanam",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound naming what is destroyed"
   },
   {
    "lemma": "nāśanam",
    "morph": "n.acc.sg",
-   "grounds": "effect of the form"
+   "grounds": "qualifies the form as removing wrinkles and gray hair"
   }
  ]
 }

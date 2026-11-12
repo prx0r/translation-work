@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral element forming a compound with the following noun",
-     "morph": "compound:numeral"
+     "grounds": "numeral referring to count",
+     "morph": "indecl."
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative plural indicating the vast number",
-     "morph": "n.loc.pl"
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-mechanisms",
-     "grounds": "compound of yoni (womb/source) and yantra (mechanism/device) in locative plural",
-     "morph": "compound:yoni+yantra:n.loc.pl"
+     "gloss": "womb-diagrams",
+     "grounds": "locative plural of compound referring to womb-mechanisms",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing those subjected to affliction",
-     "morph": "m.nom.pl.ppp:pīḍ"
+     "grounds": "past passive participle describing those affected",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "Within what vast multitude of womb-mechanisms are beings subjected to torment?",
+   "question": "Under what condition are beings tormented within the vast array of womb-mechanisms described in this count?",
    "premises": [
-    "The number involved is eighty-four thousand.",
-    "These are womb-mechanisms or sources of birth.",
-    "Beings within them are tormented."
+    "A count of eighty-four thousand is specified.",
+    "These occur within womb-mechanisms.",
+    "The beings present there are in a tormented state."
    ],
-   "inference": "Beings suffer affliction across an immense array of eighty-four thousand womb-mechanisms.",
+   "inference": "Beings are tormented within eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The exact referent of the tormented beings is implied from context rather than stated in this verse."
+    "The agent of torment is not specified by these tokens."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
+   "plain_english": "In eighty-four thousand womb-mechanisms, beings are tormented."
   }
  ]
 }

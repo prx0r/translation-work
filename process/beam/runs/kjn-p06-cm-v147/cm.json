@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "yoginī",
-   "morph": "compound:yoginī+sthānam",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound naming the place"
   },
   {
    "lemma": "sthānam",
    "morph": "n.acc.sg",
-   "grounds": "location resorted to"
+   "grounds": "object indicating the location resorted to"
   },
   {
    "lemma": "āśritya",
-   "morph": "(gerund) √śri (with ā)",
-   "grounds": "prior action"
+   "morph": "(gerund) √śri",
+   "grounds": "absolutive indicating prior action of taking refuge in that place"
   },
   {
    "lemma": "asitaṃ",
    "morph": "n.acc.sg",
-   "grounds": "describes the color"
+   "grounds": "qualifies the color as dark"
   },
   {
    "lemma": "kṛṣṇa",
-   "morph": "compound:kṛṣṇa+varṇakam",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound describing color"
   },
   {
    "lemma": "varṇakam",
    "morph": "n.acc.sg",
-   "grounds": "object of contemplation"
+   "grounds": "object described as dark black in color"
   }
  ]
 }

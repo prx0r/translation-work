@@ -1,15 +1,15 @@
 {
  "song": "net-p17",
  "verse": 412,
- "question": "What response is required once the preceding condition has arisen?",
+ "question": "What response is required once the prior condition has arisen?",
  "premises": [
-  "A consequence is marked by then",
-  "A command is identified as the object",
+  "A prior condition has been established",
+  "A command is present as the object",
   "Observance is prescribed"
  ],
- "inference": "In that situation, one should obey the command.",
+ "inference": "Then one should obey the command.",
  "uncertainties": [
-  "The source of the command is not specified"
+  "The source or content of the command is not specified in this unit."
  ],
  "plain_english": "Then one should obey the command."
 }

@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṇ+māsa+asevanā",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound indicating duration"
   },
   {
    "lemma": "māsa",
-   "morph": "compound:ṣaṇ+māsa+asevanā",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "member of compound indicating duration"
   },
   {
    "lemma": "asevanā",
-   "morph": "f.inst.sg",
-   "grounds": "means of attainment"
+   "morph": "f.ins.sg",
+   "grounds": "instrumental indicating means through service or practice"
   },
   {
    "lemma": "abhyastāt",
    "morph": "n.abl.sg",
-   "grounds": "cause of transformation"
+   "grounds": "ablative indicating result from sustained practice"
   },
   {
    "lemma": "vṛddhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "initial condition"
+   "grounds": "describes the practitioner as aged"
   },
   {
    "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "concessive particle"
+   "grounds": "concessive particle emphasizing transformation despite age"
   },
   {
    "lemma": "taruṇā",
-   "morph": "m.nom.sg",
-   "grounds": "resulting condition"
+   "morph": "f.nom.sg",
+   "grounds": "describes the transformed state"
   },
   {
    "lemma": "āyate",
-   "morph": "3.sg.pres.mid √i (with ā)",
-   "grounds": "transformation"
+   "morph": "3.sg.pres.mid √i",
+   "grounds": "verb indicating transformation into youthfulness"
   }
  ]
 }
