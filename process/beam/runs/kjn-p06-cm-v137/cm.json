@@ -4,12 +4,12 @@
  "rows": [
   {
    "lemma": "ādhāra",
-   "morph": "compound:ādhāra+skandha",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "skandha",
-   "morph": "compound:ādhāra+skandha",
+   "morph": "compound-member",
    "grounds": "second member of compound"
   },
   {
@@ -20,17 +20,17 @@
   {
    "lemma": "yogaṃ",
    "morph": "m.acc.sg",
-   "grounds": "object to be applied"
+   "grounds": "practice to be applied"
   },
   {
    "lemma": "yuñjīta",
-   "morph": "3.sg.act.opt √yuj",
-   "grounds": "injunctive instruction"
+   "morph": "3.sg.opt.mid √yuj",
+   "grounds": "injunction"
   },
   {
    "lemma": "śītalam",
    "morph": "m.acc.sg",
-   "grounds": "quality of the yoga"
+   "grounds": "quality of yoga"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[first+first](prathamaprathame) [and-first](tvādyaṃ) [second+first](dvitīyaprathame) [thus](tathā)
+[first+in-first] (prathamaprathame) [indeed+first] (tvādyaṃ) [second+in-first] (dvitīyaprathame) [likewise] (tathā)
 
 ## mukta-m0-p03-v52
-[that+box](tattakoṣṭheṣu) [should-write](vilikhet) [that+that+fifth+letter](tattatpañcamamakṣaram)
+[in-those+cells] (tattakoṣṭheṣu) [one-should-write] (vilikhet) [that+that+fifth+syllable] (tattatpañcamamakṣaram)
 
 ## mukta-m0-p03-v53
-[previously-stated+part+etc](prāguktāṃśakādyamanugraheṣvavekṣaṇīyamityarthaḥ)
+[previously-stated+portion+etc.] (prāguktāṃśakādyam) [in-favors+to-be-considered] (anugraheṣvavekṣaṇīyam) [thus+meaning] (ityarthaḥ) [||40||41||42] (|| 40 || 41 || 42)
 
 ## mukta-m0-p03-v54
-[own-name+first-letter](svanāmādyakṣaraṃ) [where](yatra) [box](koṣṭhe) [is-seen](sandṛśyate) [from-that](tataḥ)
+[page-9] (p. 9)) [own-name+first+syllable] (svanāmādyakṣaraṃ) [where] (yatra) [in-cell] (koṣṭhe) [is-seen] (sandṛśyate) [from-there] (tataḥ)
 
 ## mukta-m0-p03-v55
-[accomplished+accomplished](siddhasiddho) [by-japa](japātsiddhyet) [doubled](dviguṇātsiddhasādhyakaḥ)
+[siddha+siddha] (siddhasiddho) [from-recitation] (japāt) [succeeds] (siddhyet) [from-double] (dviguṇāt) [siddha+sādhya] (siddhasādhyakaḥ)
 
 ## mukta-m0-p03-v56
-[confused+rites](vyākulakramāṇi) [are-seen](dṛśyanta) [iti](iti) [first+proclaimed+rite+word+meaning](prathamaproktakramaśabdasyārthaḥ)
+[confused+sequences] (vyākulakramāṇi) [are-seen] (dṛśyanta) [thus] (iti) [first+stated+sequence+word+meaning] (prathamaproktakramaśabdasyārthaḥ) [||46] (|| 46)
 
 ## mukta-m0-p03-v57
-[accomplishable+accomplished](sādhyasiddhe) [great+distress](atisaṃkleśāt) [accomplishable+accomplishable](sādhyasādhyo) [great+sorrow+making](atiduḥkhakṛt)
+[sādhya+siddha] (sādhyasiddhe) [with-great+affliction] (atisaṃkleśāt) [sādhya+sādhya] (sādhyasādhyo) [great-suffering+causing] (atiduḥkhakṛt)
 
 ## mukta-m0-p03-v58
-[well+accomplished+accomplished](susiddhasiddho) [by-study](adhyayanāt) [fruit](phalaṃ) [would-give](dadyādyathepsitam)
+[susiddha+siddha] (susiddhasiddho) [by-study] (adhyayanāt) [fruit] (phalaṃ) [would-give] (dadyāt) [as-desired] (yathepsitam)
 
 ## mukta-m0-p03-v59
-[well+accomplished](susiddhe) [but](tu) [famous](prasiddhastu) [previous+birth+effort](pūrvajanmakṛtaśramaḥ)
+[in-susiddha] (susiddhe) [but] (tu) [well-accomplished] (prasiddhastu) [previous-birth+done+effort] (pūrvajanmakṛtaśramaḥ)
 
 ## mukta-m0-p03-v60
-[for-sorcery](abhicāre) [of-enemy](riporevaṃ) [if](yadi) [own+self+ruin](svātmavipattaye)
+[in-hostile-rite] (abhicāre) [of-enemy] (ripor) [thus] (evaṃ) [if] (yadi) [for-own+self+destruction] (svātmavipattaye)
 
 ## mukta-m0-p03-v61
-[enemy+accomplished](arisiddhaḥ) [son](sutaṃ) [would-kill](hanyādarisādhyaḥ) [own+wife](svayoṣitam)
+[enemy+siddha] (arisiddhaḥ) [son] (sutaṃ) [would-kill] (hanyāt) [enemy+sādhya] (arisādhyaḥ) [own-wife] (svayoṣitam)
 
 ## mukta-m0-p03-v62
-[enemy+enemy](aryariḥ) [own+self+slayer](svātmahā) [mantra](mantraḥ) [by-attainment+only](samprāptyaiva) [well+certain](suniścitam)
+[enemy+enemy] (aryariḥ) [own-destruction] (svātmahā) [mantra] (mantraḥ) [having-obtained+indeed] (samprāptyaiva) [certainly] (suniścitam)
 
 ## mukta-m0-p03-v63
-[threefold](tridhā) [having-made](kṛtvā) [with-sounds](svarairbhindyāt) [that+other+opposite](tadanyadviparītakam)
+[threefold] (tridhā) [having-made] (kṛtvā) [with-vowels] (svarair) [one-should-divide] (bhindyāt) [that+other] (tadanyat) [contrary] (viparītakam)
 
 ## mukta-m0-p03-v64
-[self](svayaṃ) [debtor](ṛṇī) [if](cettanmantraṃ) [should-abandon](tyajet) [former](pūrva) [debtor](ṛṇī) [because](yataḥ)
+[oneself] (svayaṃ) [debtor] (ṛṇī) [if] (cet) [that+mantra] (tanmantraṃ) [one-should-abandon] (tyajet) [previous] (pūrva) [debtor] (ṛṇī) [because] (yataḥ)
 
 ## mukta-m0-p03-v65
-[previous+birth+practice](pūrvajanmakṛtābhyāse) [sin+etc](pāpādasyāphalāptikṛt)
+[previous-birth+done+practice] (pūrvajanmakṛtābhyāse) [from-sin] (pāpāt) [of-this+fruit+non-attainment+causing] (asyāphalāptikṛt)
 
 ## mukta-m0-p03-v66
-[mantra](mantraḥ) [by-attainment+only](samprāptimātreṇa) [former](prāktanaḥ) [for-accomplishment](siddhaye) [becomes](bhavet)
+[mantra] (mantraḥ) [attainment+merely] (samprāptimātreṇa) [former] (prāktanaḥ) [for-success] (siddhaye) [would-be] (bhavet)
 
 ## mukta-m0-p03-v67
-[lakshmi+pride+not-honoring](lakṣmīmadādanādṛtya) [in-mantra](mantre) [enjoyment](bhogamavāptavān)
+[prosperity+giving] (lakṣmīmadādanāt) [having-respected] (ādṛtya) [in-mantra] (mantre) [enjoyment] (bhogam) [obtained] (avāptavān)
 
 ## mukta-m0-p03-v68
-[therefore+debt+purification](tasmādṛṇaviśuddhistu) [should-be-done](kāryā) [by-all](sarvaistu) [everywhere](sarvataḥ)
+[therefore] (tasmāt) [debt+purification] (ṛṇaviśuddhis) [indeed] (tu) [to-be-done] (kāryā) [by-all] (sarvaistu) [in-all-ways] (sarvataḥ)
 
 ## mukta-m0-p03-v69
-[crystal](sphāṭikaiśca) [coral](pravālaiśca) [pearls](mauktikairhemanirmitaiḥ)
+[with-crystal] (sphāṭikaiś) [and] (ca) [with-coral] (pravālaiś) [and] (ca) [with-pearl] (mauktikair) [with-gold+made] (hemanirmitaiḥ)
 
 ## mukta-m0-p03-v70
-[everywhere](sarvataḥ) [in-mantras](mantreṣu) [in-sciences](vidyāsu) [ca+iti+arthaḥ](cetyarthaḥ)
+[in-all-ways] (sarvataḥ) [in-mantras] (mantreṣu) [in-vidyās] (vidyāsu) [and+thus+meaning] (cetyarthaḥ) [||56||57||58||59||60||61] (|| 56 || 57 || 58 || 59 || 60 || 61)
 
 ## mukta-m0-p03-v71
-[by-verses](ślokairakṣamālādikamupadiśati) [there](tatra) [sandalwood](kucandanaiḥ) [red-sandalwood](raktacandanaiḥ)
+[with-verses] (ślokair) [rosary+etc.] (akṣamālādikam) [teaches] (upadiśati) [there] (tatra) [with-ku-candana] (kucandanaiḥ) [with-red-sandalwood] (raktacandanaiḥ) [||63] (|| 63)
 
 ## mukta-m0-p03-v72
-[beginning+a+end+letters](ādikṣāntairakṣaraiḥ) [would-be](syādakṣamālā) [as-meaning](yathārthataḥ)
+[beginning-with-a+ending-with-kṣa+with-syllables] (ādikṣāntairakṣaraiḥ) [would-be] (syāt) [rosary] (akṣamālā) [as-appropriate] (yathārthataḥ)
 
 ## mukta-m0-p03-v73
-[thus](evaṃ) [all+qualities+endowed](sarvaguṇopeto) [becomes](jāyate) [all+accomplished](sarvasiddhimān)
+[thus] (evaṃ) [with-all+qualities+endowed] (sarvaguṇopeto) [becomes] (jāyate) [all-accomplishments+possessing] (sarvasiddhimān)
 
 ## mukta-m0-p03-v74
-[finger+joint+touch](aṅgulīparvasaṃsparśādapi) [or](vā) [should-count](gaṇayejjapam)
+[finger+joint+contact] (aṅgulīparvasaṃsparśāt) [even] (api) [or] (vā) [one-may-count] (gaṇayet) [recitation] (japam)
 
 ## mukta-m0-p03-v75
-[vidya](vidyāṃ) [should-chant](japecchataṃ) [by-that](tena) [that+sin](tatpāpānmucyate) [certainly](dhruvam)
+[vidyā] (vidyāṃ) [one-should-recite] (japet) [hundred] (śataṃ) [by-that] (tena) [from-that+sin] (tatpāpāt) [is-freed] (mucyate) [certainly] (dhruvam)

@@ -4,12 +4,12 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound:ṣaṇ+māsa",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "māsa",
-   "morph": "compound:ṣaṇ+māsa",
+   "morph": "compound-member",
    "grounds": "second member of compound"
   },
   {
@@ -25,7 +25,7 @@
   {
    "lemma": "vṛddhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "initial state of practitioner"
+   "grounds": "initial condition"
   },
   {
    "lemma": "api",
@@ -39,7 +39,7 @@
   },
   {
    "lemma": "āyate",
-   "morph": "3.sg.mid.pres √i",
+   "morph": "3.sg.pres.mid √i",
    "grounds": "transformation"
   }
  ]

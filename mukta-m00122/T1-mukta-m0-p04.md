@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[naimittika-atikramaṇe](naimittikātikramaṇe) [sahasraṃ](sahasraṃ) [prajapet](prajapet) [tadā](tadā)
+[occasional-duty](naimittika) [transgression](atikramaṇe) [thousand](sahasraṃ) [should-mutter](prajapet) [then](tadā)
 
 ## mukta-m0-p04-v77
-[vimukhaḥ](vimukhaḥ) [paranindāsu](paranindāsu) [devatā-darśaneṣu](devatādarśaneṣu) [ca](ca)
+[averse](vimukhaḥ) [in-others+criticism](paranindāsu) [in-deities+sights](devatādarśaneṣu) [and](ca)
 
 ## mukta-m0-p04-v78
-[dayānvitaḥ](dayānvitaḥ) [sarva-jane](sarvajane) [prekṣā-kārī](prekṣākārī) [gata-spṛhaḥ](gataspṛhaḥ)
+[compassion+endowed](dayānvitaḥ) [toward-all+people](sarvajane) [circumspect+acting](prekṣākārī) [gone+desire](gataspṛhaḥ)
 
 ## mukta-m0-p04-v79
-[yaḥ](yaḥ) [sa](sa) [sarva-guṇopetaḥ](sarvaguṇopeto) [vidyā-siddhim](vidyāsiddhim) [avāpnuyāt](avāpnuyāt)
+[who](yaḥ) [he](sa) [all+qualities+endowed](sarvaguṇopeto) [knowledge+accomplishment](vidyāsiddhim) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p04-v80
-[na](na) [tasya](tasya) [sidabhiḥ](sidabhiḥ) [kutrāpi](kutrāpi) [kadācit](kadācicca) [ca](ca) [kathañcana](kathañcana)
+[not](na) [of-him](tasya) [with-accomplishments](sidabhiḥ) [anywhere](kutrāpi) [ever](kadācic) [and](ca) [in-any-way](kathañcana)
 
 ## mukta-m0-p04-v81
-[nindāsu](nindāsu) [vimukhaḥ](vimukhaḥ) [darśaneṣu](darśaneṣu) [vaidika-vaiṣṇava-śaivādiṣu](vaidikavaiṣṇavaśaivādiṣu)
+[in-criticisms](nindāsu) [averse](vimukhaḥ) [in-sights](darśaneṣu) [Vedic+Vaiṣṇava+Śaiva+etc.](vaidikavaiṣṇavaśaivādiṣu) [||69||70||71](|| 69 || 70 || 71)
 
 ## mukta-m0-p04-v82
-[ekāntaraṃ](ekāntaraṃ) [tu](tu) [grathanaṃ](grathanaṃ) [vidarbha-udvyantarīkṛtaḥ](vidarbhodvyantarīkṛtaḥ)
+[every-other](ekāntaraṃ) [indeed](tu) [stringing](grathanaṃ) [by-Vidarbhā-style](vidarbhā) [interposed](udvyantarīkṛtaḥ)
 
 ## mukta-m0-p04-v83
-[anyathā](anyathā) [sa](sa) [guruḥ](guruḥ) [śiṣyaṃ](śiṣyaṃ) [nihantyeva](nihantyevācirāt) [acirāt](acirāt) [dhruvam](dhruvam)
+[otherwise](anyathā) [he](sa) [guru](guruḥ) [disciple](śiṣyaṃ) [destroys](nihanti) [indeed+quickly](evācirāt) [certainly](dhruvam)
 
 ## mukta-m0-p04-v84
-[dvayaṃ](dvayaṃ) [yojayet](yojayedeṣo'nyaḥ) [eṣaḥ](eṣo'nyaḥ) [anyaḥ](anyaḥ) [evaṃ](evaṃ) [traividhyam](traividhyam) [iti](iti)
+[pair](dvayaṃ) [should-join](yojayet) [this](eṣaḥ) [other](anyaḥ) [thus](evaṃ) [threefoldness](traividhyam) [thus](iti)
 
 ## mukta-m0-p04-v85
-[parihāra-prakāram](parihāraprakārantu) [tu](tu) [vakṣye](vakṣye) [yogeṣu](yogeṣu) [tattvataḥ](tattvataḥ)
+[remedy+method](parihāraprakāram) [indeed](tu) [I-shall-tell](vakṣye) [in-yogas](yogeṣu) [in-truth](tattvataḥ)
 
 ## mukta-m0-p04-v86
-[garvitaḥ](garvitastvavidhiprāptaḥ) [tu](tu) [avidhi-prāptaḥ](avidhiprāptaḥ) [śatravaḥ](śatravo) [vairi-koṣṭhagāḥ](vairikoṣṭhagāḥ)
+[proud](garvitaḥ) [indeed+without-rule+obtained](tu+avidhi+prāptaḥ) [enemies](śatravo) [in-enemy+group+gone](vairikoṣṭhagāḥ)
 
 ## mukta-m0-p04-v87
-[nirjitā](nirjitā) [karma-bāhulyāt](karmabāhulyādahasāḥ) [ahasāḥ](ahasāḥ) [satva-varjitāḥ](satvavarjitāḥ)
+[conquered](nirjitā) [by-action+abundance](karmabāhulyāt) [egoistic](ahasāḥ) [by-goodness+devoid](satvavarjitāḥ)
 
 ## mukta-m0-p04-v88
-[akāla-viniyogena](akālaviniyogena) [prabodhaḥ](prabodhaḥ) [svāpagā](svāpagā) [japāt](japāt)
+[by-untimely+application](akālaviniyogena) [awakening](prabodhaḥ) [own+going](svāpagā) [from-muttering](japāt)
 
 ## mukta-m0-p04-v89
-[ruddhā](ruddhā) [visandhikāḥ](visandhikāḥ) [prāpta-duḥkhā](prāptaduḥkhā) [vairi-samanvitāḥ](vairisamanvitāḥ)
+[obstructed](ruddhā) [without-joints](visandhikāḥ) [obtained+suffering](prāptaduḥkhā) [by-enemies+accompanied](vairisamanvitāḥ)
 
 ## mukta-m0-p04-v90
-[apūrṇena](apūrṇenopadiṣṭā) [upadiṣṭāḥ](upadiṣṭā) [ye](ye) [hīna-vīryāḥ](hīnavīryāstu) [tu](tu) [te](te) [matāḥ](matāḥ)
+[by-incomplete](apūrṇena) [instructed](upadiṣṭā) [who](ye) [low+power](hīnavīryāḥ) [indeed](tu) [they](te) [considered](matāḥ)
 
 ## mukta-m0-p04-v91
-[rugṇā](rugṇā) [pralapanaiḥ](pralapanairjāpādanyamantraiḥ) [jāpāt](jāpāt) [anya-mantraiḥ](anyamantraiḥ) [saha](saha) [āvilāḥ](āvilāḥ)
+[diseased](rugṇā) [by-delirious-talk+muttering](pralapanair+jāpāt) [with-other+mantras](anyamantraiḥ) [with+confused](sahāvilāḥ)
 
 ## mukta-m0-p04-v92
-[pañcaviṃśatiḥ](pañcaviṃśatiruddiṣṭā) [uddiṣṭā](uddiṣṭā) [doṣān](doṣāṃstān) [tān](tān) [śamayet](śamayedguruḥ) [guruḥ](guruḥ)
+[twenty-five](pañcaviṃśatiḥ) [declared](uddiṣṭā) [faults](doṣān) [them](tān) [should-pacify](śamayet) [guru](guruḥ)
 
 ## mukta-m0-p04-v93
-[ubhayaṃ](ubhayaṃ) [bodhayan](bodhayan) [śiṣyaṃ](śiṣyaṃ) [saṃrakṣet](saṃrakṣedgururātmavān) [guruḥ](guruḥ) [ātmavān](ātmavān)
+[both](ubhayaṃ) [instructing](bodhayan) [disciple](śiṣyaṃ) [should-protect](saṃrakṣet) [guru](guruḥ) [self-possessed](ātmavān)
 
 ## mukta-m0-p04-v94
-[ādi-māntya-vihīnāḥ](ādimāntyavihīnāstu) [tu](tu) [varṇāḥ](varṇāḥ) [syuḥ](syuḥ) [śarada-abhnavat](śaradabhnavat)
+[beginning+end+devoid](ādimāntyavihīnāḥ) [indeed](tu) [syllables](varṇāḥ) [should-be](syuḥ) [like-autumn+cloud](śaradabhnavat)
 
 ## mukta-m0-p04-v95
-[yat](yadahaṅkāravijñānānmatsamojāyate) [ahaṅkāra-vijñānāt](ahaṅkāravijñānāt) [mat-samaḥ](matsamo) [jāyate](jāyate) [naraḥ](naraḥ)
+[when](yat) [by-ego+knowledge](ahaṅkāravijñānāt) [equal-to-me](matsamaḥ) [is-born](jāyate) [man](naraḥ)
 
 ## mukta-m0-p04-v96
-[tādātmya-siddhiṃ](tādātmyasiddhiṃ) [tāṃ](tāṃ) [viddhi](viddhi) [sarva-mantra-artha-vigrahām](sarvamantrārthavigrahām)
+[identity+accomplishment](tādātmyasiddhiṃ) [that](tāṃ) [know](viddhi) [all+mantra+meaning+embodiment](sarvamantrārthavigrahām)
 
 ## mukta-m0-p04-v97
-[teṣāṃ](teṣāṃ) [ca](ca) [tatra](tatra) [tatrāpi](tatrāpi) [vidyayā](vidyayā) [vidhim](vidhim) [ācaret](ācaret)
+[of-them](teṣāṃ) [and](ca) [there](tatra) [there](tatra) [also](api) [by-knowledge](vidyayā) [procedure](vidhim) [should-perform](ācaret)
 
 ## mukta-m0-p04-v98
-[tena](tena) [tanmayatā-siddhiḥ](tanmayatāsiddhiḥ) [sarvatra](sarvatra) [bhavati](bhavati) [dhruvam](dhruvam)
+[by-that](tena) [consisting-of-that+accomplishment](tanmayatāsiddhiḥ) [everywhere](sarvatra) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p04-v99
-[ādi-anta-akṣara-dvayātmikām](ādyantākṣaraddvayātmikām)
+[first+last+syllable+pair+nature](ādyantākṣara+dvaya+ātmikām) [||83||84||85](|| 83 || 84 || 85)
 
 ## mukta-m0-p04-v100
-[vācya-rūpaṃ](vā'cyarūpaṃ) [sarva-devatā-ātmatāṃ](sarvadevatātmatāṃ) [ca](ceti) [iti](iti)
+[expressed+form](vācyarūpaṃ) [all+deity+nature](sarvadevatātmatāṃ) [and](ca) [thus](iti)

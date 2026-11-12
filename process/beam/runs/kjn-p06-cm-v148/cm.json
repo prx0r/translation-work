@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "keśa",
-   "morph": "compound:keśa+skandha",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "skandha",
-   "morph": "compound:keśa+skandha",
+   "morph": "compound-member",
    "grounds": "second member of compound"
   },
   {
    "lemma": "kapāla",
-   "morph": "compound:kapāla+sthaṃ",
+   "morph": "compound-member",
    "grounds": "third member of compound"
   },
   {
@@ -24,12 +24,12 @@
   },
   {
    "lemma": "rañjayet",
-   "morph": "3.sg.act.opt √rañj",
-   "grounds": "injunctive instruction"
+   "morph": "3.sg.opt.act √rañj",
+   "grounds": "injunction"
   },
   {
    "lemma": "tasya",
-   "morph": "pron.gen.sg",
+   "morph": "m.gen.sg",
    "grounds": "source of splendor"
   },
   {

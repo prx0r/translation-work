@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 147,
- "question": "What dark form is contemplated after resorting to the yogini's place?",
+ "question": "What dark coloration is associated with resorting to the yogini's place?",
  "premises": [
   "One resorts to the place of the yogini",
-  "A form is contemplated there",
-  "The form is dark and black-colored"
+  "A color is described there",
+  "The color is dark and black"
  ],
- "inference": "Having resorted to the yogini's place, one contemplates the dark, black-colored form.",
- "uncertainties": [],
- "plain_english": "Having resorted to the place of the yogini, one contemplates the dark, black-colored form."
+ "inference": "Resorting to the yogini's place involves a dark black coloration.",
+ "uncertainties": [
+  "Referent of the color (substance or visualization) is unclear"
+ ],
+ "plain_english": "Having resorted to the place of the yogini, one encounters a dark, black color."
 }
