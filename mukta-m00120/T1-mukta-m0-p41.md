@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[pādya](pādyam)+[ācamanīya](ācamanīyam)+[ca](ca) [navama](navamam) [parikīrtita](parikīrtitam)
+[foot-water](pādyam) [and+sipping-water](ācamanīyam+ca) [ninth](navamaṃ) [declared](parikīrtitam)
 
 ## mukta-m0-p41-v1002
-[śakti](śaktaye) [bhoga-pātra](bhogapātrañca) [pūjā-pātra](pūjāpātrād) [yaj](yajet) [śivā](śivām)
+[to-śakti](śaktaye) [enjoyment+vessel](bhoga+pātrañca) [from-worship+vessel](pūjā+pātrād) [should-worship](yajet) [śivā](śivām)
 
 ## mukta-m0-p41-v1003
-[śakti-mātra](śaktimātre) [śakti-pātra](śaktipātraṃ) [vīra](vīrāya) [vīra-pātra](vīrapātrakam)
+[to-śakti+alone](śaktimātre) [śakti+vessel](śakti+pātraṃ) [to-hero](vīrāya) [hero+vessel](vīra+pātrakam)
 
 ## mukta-m0-p41-v1004
-[śrī-pātra](śrīpātrād)+[amṛta](amṛtena)+[api](nāpi) [yaj](yajed)+[argha-ādi](arghādinā) [priya](priye)
+[from-śrī+vessel](śrī+pātrād) [with-nectar](amṛtena) [also](api) [should-worship](yajet) [with-argha+etc.](arghādinā) [o-beloved](priye)
 
 ## mukta-m0-p41-v1005
-[bhoga-artha](bhogārthaṃ) [bhoga-pātra](bhogapātrañca) [śakti](śaktaye) [ca](ca) [pradāpay](pradāpayet)
+[for-enjoyment](bhogārthaṃ) [enjoyment+vessel](bhoga+pātrañca) [to-śakti](śaktaye) [and](ca) [should-give](pradāpayet)
 
 ## mukta-m0-p41-v1006
-[vaṭuka-kṣetra-pāla](vaṭukakṣetrapālebhyo) [bali-pātra](valipātraṃ) [niveday](nivedayet)
+[to-vaṭuka+and-kṣetrapāla](vaṭuka+kṣetrapālebhyo) [offering+vessel](vali+pātraṃ) [should-offer](nivedayet)
 
 ## mukta-m0-p41-v1007
-[pādya-pātra](pādyapātraṃ) [pada](pade) [devī](devyā) [mukha](mukhe) [ācamanīyaka](ācamanīyakam)
+[foot-water+vessel](pādya+pātraṃ) [at-foot](pade) [should-give](dadet) [of-goddess](devyā) [in-mouth](mukhe) [sipping-water](ācamanīyakam)
 
 ## mukta-m0-p41-v1008
-[kāraṇa](kāraṇaṃ) [hi](hi) [bhav](bhavet) [kārya](kāryaṃ) [śrī-devī](śrīdevyāś)+[caraṇa-ambuja](caraṇāmbuje)
+[cause](kāraṇaṃ) [indeed](hi) [should-be](bhavet) [effect](kāryaṃ) [at-śrī+goddess+foot+lotus](śrī+devyāś+caraṇāmbuje)
 
 ## mukta-m0-p41-v1009
-[mṛta-bhāva](mṛtabhāvaṃ) [parityaj](parityajyā)+[api](pyamaraḥ) [sādhaka](sādhako) [bhav](bhavet)
+[mortal+state](mṛta+bhāvaṃ) [having-abandoned](parityajya) [immortal](amaraḥ) [practitioner](sādhako) [should-become](bhavet)
 
 ## mukta-m0-p41-v1010
-[ataḥ](ataśca) [sādhaka](sādhakāḥ) [sarva](sarve) [dad](dadeyuḥ) [kāraṇa](kāraṇaṃ) [mukha](mukhe)
+[therefore](ataśca) [practitioners](sādhakāḥ) [all](sarve) [should-give](dadeyuḥ) [cause](kāraṇaṃ) [in-mouth](mukhe)
 
 ## mukta-m0-p41-v1011
-[tad-anta](tadante) [sādhaka](sādhako) [devī](devi) [piv](pivedoṣṭhādharaṃ) [madhu](madhu)
+[at-end-of-that](tadante) [practitioner](sādhako) [o-goddess](devi) [o-supreme-goddess](parameśāni) [should-drink](pived) [lip+lower](oṣṭhādharaṃ) [honey](madhu)
 
 ## mukta-m0-p41-v1012
-[nārī-deha-saṃśrita](nārīdehasaṃśritāham)+[amṛta-pāna-āśrita](amṛtapānamāśritā)
+[in-woman+body+dwelling](nārī+deha+saṃśritā) [I](aham) [nectar+drinking+taking-refuge](amṛta+pāna+māśritā)
 
 ## mukta-m0-p41-v1013
-[yathā](yathā) [deha](dehasya) [duḥkha](duḥkhe)+[api](pi) [dehin](dehī) [bhav](bhavati) [duḥkha-bhāj](duḥkhabhāk)
+[as](yathā) [of-body](dehasya) [in-pain](duḥkhe) [even](api) [embodied-one](dehī) [becomes](bhavati) [pain+sharer](duḥkha+bhāk)
 
 ## mukta-m0-p41-v1014
-[sādhaka](sādhakasyāpi) [mukti-artha](muktyarthaṃ) [pāna-akta](pānāktā) [kāmuka-anvita](kāmukānvitā)
+[of-practitioner](sādhakasyāpi) [for-liberation](muktyarthaṃ) [drink+anointed](pānāktā) [with-desire+endowed](kāmuka+ānvitā)
 
 ## mukta-m0-p41-v1015
-[parā](parā) [śrī-kālikā-rūpa](śrīkālikārūpā) [śrī-cakra-pālana](śrīcakrapālane) [varā](varā)
+[supreme](parā) [śrī+kālikā+form](śrī+kālikā+rūpā) [woman](strī) [in-śrī+cakra+protection](śrī+cakra+pālane) [excellent](varā)
 
 ## mukta-m0-p41-v1016
-[varābhaya-kara](varābhayakarā) [ghora-rāva-yukta](ghorārāvayuktā) [vibhūṣaṇa](vibhūṣaṇā)
+[boon+and-fearlessness+handed](vara+abhaya+karā) [terrible](ghorā) [with-sound+endowed](rāva+yuktā) [adorned](vibhūṣaṇā)
 
 ## mukta-m0-p41-v1017
-[nagnā](nagnā) [mattā](mattā) [mahā-devī](mahādevī) [siṃha-pṛṣṭha](siṃhapṛṣṭhe) [śava-āsana](śavāsanā)
+[naked](nagnā) [intoxicated](mattā) [great+goddess](mahā+devī) [on-lion+back](siṃha+pṛṣṭhe) [on-corpse+seat](śava+āsanā)
 
 ## mukta-m0-p41-v1018
-[lakṣa](lakṣa) [lakṣa](lakṣa) [samāyukta](samāyuktā) [śrī-cakra](śrīcakraṃ) [pālay](pālayet) [sadā](sadā)
+[lakh](lakṣa) [lakh](lakṣa) [with-united](samāyuktā) [śrī+cakra](śrī+cakraṃ) [should-protect](pālayet) [always](sadā)
 
 ## mukta-m0-p41-v1019
-[darśana](darśane) [ghrāṇa-saṃsparśa](ghrāṇasaṃsparśe) [pāna-ānanda-pradāyikā](pānānandapradāyikā)
+[in-seeing](darśane) [in-smelling+touching](ghrāṇa+saṃsparśe) [drink+bliss+giver](pāna+ānanda+pradāyikā)
 
 ## mukta-m0-p41-v1020
-[kṛpā-anvita](kṛpānvitā)
+[with-compassion+endowed](kṛpā+ānvitā)
 
 ## mukta-m0-p41-v1021
-[iti](iti) [śrī-sarvānanda-nātha-viracita](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [dvātriṃśad-ullāsa](dvātriṃśadullāsaḥ)
+[thus](iti) [in-śrī+sarvānandanātha+composed](śrī+sarvānandanātha+viracite) [in-sarvollāsa](sarvollāse) [thirty-second+chapter](dvātriṃśad+ullāsaḥ)
 
 ## mukta-m0-p41-v1022
-[sarva-deva](sarvadevā) [na](na) [tṛpy](tṛpyanti) [smaraṇa](smaraṇāt) [pūjana](pūjanāt) [śiva](śive)
+[all+gods](sarva+devā) [not](na) [are-satisfied](tṛpyanti) [by-remembrance](smaraṇāt) [by-worship](pūjanāt) [o-śiva](śive)
 
 ## mukta-m0-p41-v1023
-[sarva-dravya-samāyukta](sarvadravyasamāyuktaṃ) [manu](manunā) [pātraka](pātrakaṃ) [dad](dadet)
+[with-all+substances+endowed](sarva+dravya+samāyuktaṃ) [with-mantra](manunā) [vessel](pātrakaṃ) [should-give](dadet)
 
 ## mukta-m0-p41-v1024
-[kapilā-anta](kapilānte) [jaṭā-bhāra](jaṭābhāra) [bhāsura-anta](bhāsurānte) [tri-netra](trinetra) [ca](ca)
+[o-kapilānta](kapilānte) [o-matted-hair+mass](jaṭā+bhāra) [o-bhāsurānta](bhāsurānte) [o-three-eyed](tri+netra) [o](ca)
 
 ## mukta-m0-p41-v1025
-[vahni-jāyā-anvita](vahnijāyānvito) [mantra](mantro) [vaṭuka](vaṭukasya) [udāhṛta](udāhṛtaḥ)
+[with-fire+consort+endowed](vahni+jāyā+anvito) [mantra](mantro) [of-vaṭuka](vaṭukasya) [declared](udāhṛtaḥ)

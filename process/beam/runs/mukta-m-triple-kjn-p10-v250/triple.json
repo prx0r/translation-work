@@ -13,7 +13,7 @@
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle introducing continuation or specification",
+     "grounds": "particle marking continuation or contrast",
      "morph": "(indecl.)"
     },
     {
@@ -25,39 +25,40 @@
     {
      "surface": "rājānam",
      "gloss": "royal",
-     "grounds": "epithet qualifying cakraṃ",
+     "grounds": "attribute qualifying cakraṃ",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral forming compound with patra",
-     "morph": "(indecl.)"
+     "grounds": "numeral forming first member of compound with patra",
+     "morph": "compound-member"
     },
     {
      "surface": "patra",
      "gloss": "petal",
-     "grounds": "compound member indicating petals; part of bahuvrihi with aṣṭa",
+     "grounds": "second member of compound describing cakraṃ",
      "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "bahuvrihi adjective qualifying cakraṃ",
+     "grounds": "attribute indicating presence of a pericarp",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What specific form and attributes characterize the sixth cakra in this sequence?",
+   "question": "What form and attributes characterize the sixth chakra?",
    "premises": [
-    "The sixth cakra is identified as the object of description.",
-    "It is characterized as royal in nature.",
-    "It possesses eight petals and a pericarp."
+    "The sixth chakra is the subject of description.",
+    "The sixth chakra is characterized as royal.",
+    "The sixth chakra has eight petals.",
+    "The sixth chakra possesses a pericarp."
    ],
-   "inference": "The sixth cakra is defined as a royal eight-petaled center with a pericarp.",
+   "inference": "The sixth chakra is a royal wheel with eight petals and a pericarp.",
    "uncertainties": [
-    "The precise symbolic meaning of rājānam as applied to the cakra is not specified."
+    "Whether rājānam is intended as a literal epithet or a symbolic designation is not explicit."
    ],
-   "plain_english": "And the sixth cakra is royal, having eight petals and a pericarp."
+   "plain_english": "And the sixth chakra is royal, having eight petals and a pericarp."
   }
  ]
 }
