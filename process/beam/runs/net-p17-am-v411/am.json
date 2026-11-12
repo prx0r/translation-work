@@ -3,11 +3,13 @@
  "verse": 411,
  "question": "Under what condition does the mantra practitioner fail to find the paths of creation and dissolution?",
  "premises": [
-  "The agent is a mantra practitioner",
-  "The objects sought are the paths of creation and dissolution",
-  "A temporal condition of not finding is stated"
+  "The mantra practitioner is the agent.",
+  "The paths of creation and dissolution are the objects sought.",
+  "At a certain time this finding does not occur."
  ],
  "inference": "There is a condition in which the mantra practitioner does not find the paths of creation and dissolution.",
- "uncertainties": [],
+ "uncertainties": [
+  "The specific condition indicated by 'when' is not fully stated in this fragment."
+ ],
  "plain_english": "When the mantra practitioner does not find the paths of creation and dissolution."
 }

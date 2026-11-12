@@ -1,15 +1,13 @@
 {
  "song": "net-p17",
  "verse": 401,
- "question": "What prior determination establishes the matter under discussion?",
+ "question": "What prior determination establishes the point now being restated?",
  "premises": [
-  "The matter is declared decided",
-  "This determination refers to the present topic",
-  "The decision was made already before"
+  "The matter has been decided.",
+  "This conclusion was reached earlier.",
+  "No new determination is required now."
  ],
- "inference": "The point at issue has been conclusively settled earlier.",
- "uncertainties": [
-  "The specific earlier passage or topic is not named here"
- ],
+ "inference": "The present statement rests on an already established conclusion.",
+ "uncertainties": [],
  "plain_english": "And this has already been decided before."
 }
