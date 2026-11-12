@@ -8,7 +8,7 @@
      "surface": "aṣṭau",
      "gloss": "eight",
      "grounds": "numeral indicating a set of eight",
-     "morph": "num.nom.pl"
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
@@ -19,8 +19,8 @@
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
      "gloss": "attainment-of-powers-root-kaula",
-     "grounds": "compound with internal sandhi: siddhi-saṃprāptiḥ (attainment of powers) joined with mūlakaulam (root Kaula)",
-     "morph": "compound: siddhi-saṃprāptiḥ+nom.sg.f + mūlakaulam+nom.sg.n"
+     "grounds": "compound with internal sandhi joining siddhisaṃprāptiḥ and mūlakaulaṃ",
+     "morph": "compound"
     },
     {
      "surface": "varānane",
@@ -29,17 +29,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What additional attainments belong to the root Kaula, O fair-faced one?",
+   "question": "What additional attainments belong to the root Kaula teaching?",
    "premises": [
     "The verse enumerates eight items.",
-    "The conjunction links these to prior attainments.",
-    "Attainment of powers is identified with the root Kaula."
+    "The conjunction adds these to previously mentioned attainments.",
+    "The attainment of powers is identified with the root Kaula."
    ],
-   "inference": "The eight attainments, including the attainment of powers, constitute the root Kaula.",
+   "inference": "Eight attainments, including the attainment of powers, are included within the root Kaula teaching.",
    "uncertainties": [
-    "The exact referents of the eight items depend on the preceding verses."
+    "The exact referents of the eight items are not specified within this verse alone."
    ],
-   "plain_english": "And the eight, along with the attainment of powers, are the root Kaula, O fair-faced one."
+   "plain_english": "And there are eight, O fair-faced one, including the attainment of powers, which belong to the root Kaula."
   }
  ]
 }
