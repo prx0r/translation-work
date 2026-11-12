@@ -1,15 +1,14 @@
 {
  "song": "kjn-p16",
  "verse": 381,
- "question": "What physical and mental technique must the practitioner perform in this yogic method?",
+ "question": "What physical and mental technique should be applied to fix the mind?",
  "premises": [
-  "The tongue should be turned upward.",
-  "The mind should be fixed there.",
-  "These actions form a prescribed technique."
+  "The tongue is turned upward",
+  "The mind is to be placed somewhere specific"
  ],
- "inference": "The practitioner should turn the tongue upward and fix the mind in that place.",
+ "inference": "After turning the tongue upward, one should fix the mind there",
  "uncertainties": [
-  "The exact referent of tasmin (tongue position or upper place) is context-dependent."
+  "tasmin: the exact referent of 'in that' is not explicit in this verse"
  ],
- "plain_english": "Having turned the tongue upward, one should fix the mind there."
+ "plain_english": "Having turned the tongue upward, one should fix the mind in that."
 }

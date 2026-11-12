@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound-member",
+   "morph": "compound=bhukti+co-member",
    "grounds": "first member of dvandva with mukti"
   },
   {
    "lemma": "mukti",
-   "morph": "compound-member",
+   "morph": "compound=mukti+co-member",
    "grounds": "second member of dvandva with bhukti"
   },
   {
    "lemma": "mahā",
-   "morph": "compound-member",
+   "morph": "compound=mahā+qualifier",
    "grounds": "first member of compound qualifying siddhiḥ"
   },
   {
@@ -25,7 +25,7 @@
   {
    "lemma": "yoginīnāṃ",
    "morph": "f.gen.pl",
-   "grounds": "denotes those to whom one becomes dear"
+   "grounds": "possessor of priyo"
   },
   {
    "lemma": "priyo",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-optative/√bhū",
-   "grounds": "potential result expressed"
+   "morph": "3.sg.act-opt/√bhū",
+   "grounds": "optative expressing potential result"
   }
  ]
 }
