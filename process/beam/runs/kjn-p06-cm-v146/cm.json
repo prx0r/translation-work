@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound-member",
+   "morph": "compound:ṣaṇ+māsa",
    "grounds": "first member of compound"
   },
   {
    "lemma": "māsa",
-   "morph": "compound-member",
+   "morph": "compound:ṣaṇ+māsa",
    "grounds": "second member of compound"
   },
   {
    "lemma": "asevanā",
    "morph": "f.ins.sg",
-   "grounds": "instrumental cause; sandhi form"
+   "grounds": "means of attainment"
   },
   {
    "lemma": "abhyastāt",
    "morph": "n.abl.sg",
-   "grounds": "cause of transformation"
+   "grounds": "emphasizes sustained effort"
   },
   {
    "lemma": "vṛddhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes the practitioner"
+   "grounds": "describes practitioner before result"
   },
   {
    "lemma": "api",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "taruṇā",
-   "morph": "m.nom.sg",
-   "grounds": "resulting state; sandhi form"
+   "morph": "f.nom.sg",
+   "grounds": "describes transformed state"
   },
   {
    "lemma": "āyate",
-   "morph": "3.sg.present-middle √i",
-   "grounds": "result of practice"
+   "morph": "3.sg.mid-pres √i",
+   "grounds": "indicates transformation"
   }
  ]
 }

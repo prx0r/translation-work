@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "bhavati",
-   "morph": "3.sg.present-act √bhū",
-   "grounds": "assertion of result"
+   "morph": "3.sg.act-pres √bhū",
+   "grounds": "asserts result"
   },
   {
    "lemma": "eva",
@@ -20,22 +20,22 @@
   {
    "lemma": "sandehaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject negated"
+   "grounds": "absence of uncertainty"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound-member",
+   "morph": "compound:ṣaṇ+māsa",
    "grounds": "first member of compound"
   },
   {
    "lemma": "māsa",
-   "morph": "compound-member",
+   "morph": "compound:ṣaṇ+māsa",
    "grounds": "second member of compound"
   },
   {
    "lemma": "abhyantareṇa",
    "morph": "n.ins.sg",
-   "grounds": "time limit"
+   "grounds": "time limit for result"
   },
   {
    "lemma": "tu",

@@ -1,15 +1,13 @@
 {
  "song": "kjn-p06",
  "verse": 132,
- "question": "Which chapter concludes in the section concerning the emergence from the moon island?",
+ "question": "Which chapter concludes with the emergence from the moon-island?",
  "premises": [
-  "The text is divided into chapters.",
-  "This section concerns emergence from the moon island.",
-  "The chapter is identified by ordinal number."
+  "The text refers to emergence from the moon-island",
+  "A chapter division is marked",
+  "This is identified as the sixth chapter"
  ],
- "inference": "The sixth chapter concludes in the context of emergence from the moon island.",
- "uncertainties": [
-  "The compound candra-dvīpa-vinirgate may refer to a specific textual section title."
- ],
- "plain_english": "Thus ends the sixth chapter in the section on the emergence from the moon island."
+ "inference": "The sixth chapter concludes with the topic of emergence from the moon-island.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the sixth chapter, concerning the emergence from the moon-island."
 }

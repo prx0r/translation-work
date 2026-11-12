@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to poison is claimed for the body of such a practitioner?",
+ "question": "What protective effect is attributed to the prior practice even in the case of a bite from great serpents?",
  "premises": [
-  "The practitioner may be bitten by great serpents",
-  "Poison is the potential threat",
-  "Poison does not enter the body"
+  "A person may be bitten by great serpents.",
+  "Even in that case, poison does not enter the body.",
+  "The negation applies despite the bite."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the practitioner's body.",
- "uncertainties": [],
- "plain_english": "Even if bitten by great serpents, poison does not enter the body."
+ "inference": "As a result of the preceding practice, poison has no effect even if one is bitten by great serpents.",
+ "uncertainties": [
+  "The causal link is presupposed from the sequence of verses rather than argued here."
+ ],
+ "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
 }
