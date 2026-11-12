@@ -1,15 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 121,
- "question": "What claim is made about a wise person who, while burning, acts with the tip of nectar and the tip of essence?",
+ "question": "Under what condition is even the wise person described as burning, and by what means is that described?",
  "premises": [
-  "A wise person is under consideration.",
-  "That person is in a burning state.",
-  "That person acts by means of the tip of nectar and the tip of essence."
+  "Reference is made to the tip of nectar.",
+  "Reference is made to the tip of essence.",
+  "Even the wise person, while burning, is mentioned.",
+  "The particle api marks an exception or contrast."
  ],
- "inference": "Even a wise person, while burning, uses the tip of nectar and the tip of essence.",
+ "inference": "Even the wise person burns when engaged with the tip of nectar by means of the tip of essence.",
  "uncertainties": [
-  "Exact practice and result not specified here"
+  "The syntactic construction is compressed and the agent of burning is not explicit."
  ],
- "plain_english": "Even a wise person, burning, uses the tip of nectar with the tip of essence."
+ "plain_english": "Even the wise person, burning at the tip of nectar with the tip of essence, also..."
 }

@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What temporal condition must be met for old age and death to be destroyed by this practice?",
+ "question": "Under what temporal condition is old age and death destroyed?",
  "premises": [
-  "A practice is under consideration.",
-  "That practice is carried out for one year.",
-  "When practiced for one year, old age and death are destroyed."
+  "Practice is undertaken for one year.",
+  "When that practice has been done, a condition holds.",
+  "Under that condition, old age and death are destroyed."
  ],
- "inference": "When this practice has been practiced for one year, old age and death are destroyed.",
+ "inference": "When the practice has been performed for one year, old age and death are destroyed.",
  "uncertainties": [
-  "Which practice is meant refers back to prior verses"
+  "The subject of practice is not named in this verse."
  ],
  "plain_english": "When practiced for one year, old age and death are destroyed."
 }

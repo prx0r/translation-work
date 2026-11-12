@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[worship](arcayet) [linga](liṃgam) [ishana](īśānam) [yama-etc](iyamādyā) [by-me](mayā) [offering](āhutiḥ)
+[one-should-worship](arcayet) [liṅga](liṃgam) [lord](īśānam) [this](iyam) [first](ādyā) [by-me](mayā) [oblation](āhutiḥ)
 
 ## mukta-m0-p32-v777
-[moon-womb](caṃdragarbha) [thus](iti) [some](kā) [is](asti) [nadi](nāḍī) [nali](nali) [eye](nalocane)
+[caṃdragarbhā](caṃdragarbhā) [thus](iti) [some](kāpi) [is](asti) [channel](nāḍī) [lotus](nalina) [eyed-one](locane)
 
 ## mukta-m0-p32-v778
-[there](tatratyam) [nectar](amṛtaṃ) [know](viddhi) [kameshvari](kāmeśvari) [instruction](uktibhūti) [beneficent](dam)
+[there-situated](tatratyam) [nectar](amṛtam) [know](viddhi) [kāmeśvarī](kāmeśvarī) [utterance](ukti) [prosperity-giving](bhūtidam)
 
 ## mukta-m0-p32-v779
-[slightly-pink](īṣatpāṭalavarṇaṃ) [and](ca) [jasmine-like-fragrance](yūthikāsamasaurabham)
+[slightly](īṣat) [pale-red](pāṭala) [colored](varṇaṃ) [and](ca) [yūthikā-flower](yūthikā) [equal](sama) [fragrance](saurabham)
 
 ## mukta-m0-p32-v780
-[with-becoming](sabhavatyaṃ) [completed](samāpanno) [water-ness](jaladatvaṃ) [subjugates](vaśīkriyāt)
+[with](sa) [bhavatyam](bhavatyam) [attained](samāpanno) [cloud-state](jaladatvaṃ) [by-subjugation](vaśīkriyāt)
 
 ## mukta-m0-p32-v781
-[not](na) [lake-deva](sarodeva) [in-swatas](svāteṣu) [stumble](skhalitaṃ) [going](gamanaṃ) [be](bhavet)
+[not](na) [lake](saro) [indeed](deva) [in-svāti-stars](svāteṣu) [slipped](skhalitaṃ) [going](gamanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p32-v782
-[moon-intoxicated](caṃdonmattā) [in-place](padasthāne) [moon-womb](caṃdragarbhā) [proclaimed](prakīrttitā)
+[moon](caṃda) [intoxicated](unmattā) [in-foot-position](padasthāne) [caṃdragarbhā](caṃdragarbhā) [is-proclaimed](prakīrttitā)
 
 ## mukta-m0-p32-v783
-[here-messenger](atradūtyāḥ) [body](śarīrasya) [before-also](pūrvatrāpi) [state-I-speak](daśābruve)
+[here](atra) [of-messenger-goddess](dūtyāḥ) [of-body](śarīrasya) [previously](pūrvatrāpi) [ten](daśa) [I-spoke](abruve)
 
 ## mukta-m0-p32-v784
-[slightly-reddish-eyes](īṣadāraktatānetre) [some-earth-dance](kiṃcidbhūvallitāṃḍavaṃ)
+[slightly](īṣad) [reddish](āraktatā) [eyes](netre) [somewhat](kiṃcid) [eyebrow](bhū) [creeper](valli) [dance](tāṃḍavaṃ)
 
 ## mukta-m0-p32-v785
-[ananda-natha](ānaṃdanātha) [mansion](bhavana) [outer-corridor](bāhyakakṣyā) [entering](vigāhanam)
+[o-ānandanātha](ānaṃdanātha) [mansion](bhavana) [outer](bāhya) [chamber](kakṣyā) [entering](vigāhanam)
 
 ## mukta-m0-p32-v786
-[of-breasts](stanayoḥ) [hair-erect-sprout](pulakāṃkūraḥ) [of-cheeks](gaṃḍayoḥ) [redness](cānuraktatā)
+[of-breasts](stanayoḥ) [horripilation](pulaka) [sprout](aṃkūraḥ) [of-cheeks](gaṃḍayoḥ) [and](ca) [reddening](anuraktatā)
 
 ## mukta-m0-p32-v787
-[thus](evaṃ) [manner](prakārā) [she](sā) [messenger](dūtī) [moon-womb-nectar-fluids](caṃdragarbhāmṛtadravaiḥ)
+[thus](evaṃ) [in-manner](prakārā) [that](sā) [messenger-goddess](dūtī) [caṃdragarbhā](caṃdragarbhā) [nectar](amṛta) [with-streams](dravaiḥ)
 
 ## mukta-m0-p32-v788
-[worship](yajet) [ananda-natha](ānaṃdanāthaṃ) [she](sā) [hero-like](vīravat) [fruit](phalam) [obtains](aśnute)
+[should-worship](yajet) [ānandanātha](ānaṃdanāthaṃ) [she](sā) [like-a-hero](vīravat) [fruit](phalam) [enjoys](aśnute)
 
 ## mukta-m0-p32-v789
-[meaning-finger](arthāṃguli) [raised](samunnamra) [molten-gold-like](taptakāṃcanasannibhā)
+[meaning](artha) [finger](aṃguli) [raised](samunnamra) [heated](tapta) [gold](kāṃcana) [resembling](sannibhā)
 
 ## mukta-m0-p32-v790
-[of-her](tasyāḥ) [chandri-nika-nadi](caṃdriṇikānāyā) [more-linga-lord-dance](bhūyoliṃgeśatāḍavāt)
+[of-her](tasyāḥ) [caṃdriṇikā](caṃdriṇikā) [named](nāyā) [again](bhūyaḥ) [in-liṅga](liṃge) [lord](īśa) [by-striking](tāḍavāt)
 
 ## mukta-m0-p32-v791
-[kadamba](kādaṃbarī) [juice-fragrant](rasāmodī) [intoxicated-water](madaṃtoya) [arises](mudbhavet)
+[kādaṃbarī](kādaṃbarī) [juice](rasa) [fragrance](āmodī) [intoxication](mānmada) [water](toyaṃ) [would-arise](udbhavet)
 
 ## mukta-m0-p32-v792
-[godavari](godāvarī) [pilgrimage-full](tīrthamayī) [by-her](tayā) [sprinkle](siṃcet) [maheshvara](maheśvaram)
+[godāvarī](godāvarī) [sacred-place](tīrtha) [consisting-of](mayī) [by-her](tayā) [one-should-sprinkle](siṃcet) [great-lord](maheśvaram)
 
 ## mukta-m0-p32-v793
-[rudra-ness-limit-devotee](rudratvasīmābhaktasya) [fire-principle](vahnitattva) [subjugation](vaśīkṛtim)
+[rudra-state](rudratva) [limit](sīmā) [of-devotee](bhaktasya) [fire](vahni) [element](tattva) [subjugation](vaśīkṛtim)
 
 ## mukta-m0-p32-v794
-[extends](tanoti) [lord-this](bhagavāneṣaḥ) [great-bliss](mahānaṃda) [maheshvara](maheśvaraḥ)
+[extends](tanoti) [lord](bhagavān) [this](eṣaḥ) [great-bliss](mahānaṃda) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p32-v795
-[uma-give](umedāhaṃ) [bestow](prayacchaṃti) [self-fire](svayamagni) [maya-from](mayoyataḥ)
+[o-umā](ume) [I-give](dāhaṃ) [they-bestow](prayacchaṃti) [by-themselves](svayam) [fire](agni) [consisting-of](mayaḥ) [since](yataḥ)
 
 ## mukta-m0-p32-v796
-[of-this](asya) [mantra](maṃtraḥ) [tu](tu) [fair-hipped](suśroṇī) [hear](śrūyatām) [declared](abhidhīyate)
+[of-this](asyā) [mantra](maṃtraḥ) [then](tu) [o-fair-hipped-one](suśroṇī) [let-it-be-heard](śrūyatām) [is-declared](abhidhīyate)
 
 ## mukta-m0-p32-v797
-[worship](arcayāmi) [your-limb](bhavadgātra) [from-me](mataḥ) [success](siddhiṃ) [bestow](prayacchame)
+[I-worship](arcayāmi) [your](bhavat) [body](gātraṃ) [from-that](ataḥ) [success](siddhiṃ) [grant](prayaccha) [to-me](me)
 
 ## mukta-m0-p32-v798
-[then-other-nadi-goddess](athānyanāḍikādevī) [who](yā) [she](sā) [moon-great-rise](caṃdramahodayā)
+[now](atha) [another](anya) [channel](nāḍikā) [goddess](devī) [who](yā) [she](sā) [moon](caṃdra) [rising](mahodayā)
 
 ## mukta-m0-p32-v799
-[inside](aṃtaḥ) [somewhat](kiṃcit) [dark-color](śyāmavarṇā) [in-three](triṣu) [places](sthāneṣu) [curved](vakritā)
+[within](aṃtaḥ) [somewhat](kiṃcit) [dark](śyāma) [colored](varṇā) [in-three](triṣu) [places](sthāneṣu) [curved](vakritā)
 
 ## mukta-m0-p32-v800
-[play-nectar](līlānamrita) [golden-limbed](gaurāṃgī) [moving-brow-creeper-radiant](valadbhrūvallibhāsurā)
+[playful](līlā) [nectar](namrita) [fair](gaura) [limbed](aṃgī) [moving](valad) [eyebrow](bhrū) [creeper](valli) [shining](bhāsurā)
