@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "By what identifying mark is this particular chapter distinguished as the fifth in the sequence that emerged from Candradvīpa?",
+ "question": "Which chapter concludes in the text emerged from Candradvīpa?",
  "premises": [
-  "A chapter emerged from Candradvīpa.",
-  "That chapter is counted in sequence.",
-  "It holds the position of fifth."
+  "The text is identified as emerged from Candradvīpa",
+  "The section is numbered fifth",
+  "The section is called a chapter"
  ],
- "inference": "This is the fifth chapter to have emerged from Candradvīpa.",
- "uncertainties": [
-  "No content of chapter specified here"
- ],
- "plain_english": "The fifth chapter is the one that emerged from Candradvīpa."
+ "inference": "Therefore this marks the fifth chapter in the text emerged from Candradvīpa.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the fifth chapter in the teaching that emerged from Candradvīpa."
 }

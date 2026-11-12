@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "What qualification must a recipient meet before a particular teaching may be given to one who has previously accomplished it?",
+ "question": "To whom may this teaching legitimately be given after proper testing?",
  "premises": [
-  "The teaching is only to be given under qualification.",
-  "The recipient must be one previously accomplished.",
-  "That recipient must have been tested for one year."
+  "The teaching may be given",
+  "The recipient should be previously accomplished",
+  "The recipient must be tested for one year"
  ],
- "inference": "Only a previously accomplished person tested for one year is fit to receive this teaching.",
- "uncertainties": [
-  "Nature of the test remains unspecified"
- ],
- "plain_english": "This teaching is to be given only to one who has previously accomplished it and has been tested for one year."
+ "inference": "Therefore the teaching should be given only to a previously accomplished person tested for one year.",
+ "uncertainties": [],
+ "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
 }
