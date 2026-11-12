@@ -7,8 +7,8 @@
     {
      "surface": "chedyamāno",
      "gloss": "being-cut",
-     "grounds": "present passive participle indicating the act of being cut",
-     "morph": "m.nom.sg.pres.pass.part root chid"
+     "grounds": "present passive participle of cutting",
+     "morph": "part.m.nom.sg.pass-present √chid"
     },
     {
      "surface": "na",
@@ -19,39 +19,39 @@
     {
      "surface": "chidyeta",
      "gloss": "would-be-cut",
-     "grounds": "optative expressing the potential or actual effect of cutting",
-     "morph": "3.sg.pass.opt root chid"
+     "grounds": "optative passive expressing potential non-effect",
+     "morph": "3.sg.pass-optative √chid"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "compound describing one who has reached or is absorbed in that state",
-     "morph": "m.nom.sg compound tad+gata"
+     "grounds": "compound describing one who has reached that state",
+     "morph": "compound: tad+gataḥ (dependent+head), m.nom.sg"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-fixed-on-that",
-     "grounds": "compound describing one whose mind is directed toward that",
-     "morph": "m.nom.sg compound tad+manas"
+     "grounds": "compound describing one whose mind is directed to that",
+     "morph": "compound: tad+manaḥ (dependent+head), m.nom.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "particle introducing comparison or manner",
+     "grounds": "particle indicating manner or comparison",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Can a person absorbed in that state be harmed when subjected to cutting?",
+   "question": "Can physical cutting harm one whose being and mind are absorbed in that state?",
    "premises": [
     "A person may be subjected to the act of being cut.",
-    "A person can be absorbed in that state with mind fixed on it.",
-    "Absorption in that state prevents the effect of being cut."
+    "That person's being is gone to that higher state.",
+    "That person's mind is fixed on that same state."
    ],
-   "inference": "One whose mind is absorbed in that state remains unharmed even while being cut.",
+   "inference": "One absorbed in that state remains unaffected even while being cut.",
    "uncertainties": [
     "The exact referent of 'that' depends on the preceding context."
    ],
-   "plain_english": "Even while being cut, one who has gone to that state and whose mind is fixed on it is not cut."
+   "plain_english": "Even while being cut, one whose being and mind are absorbed in that is not cut, as it were."
   }
  ]
 }

@@ -7,20 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaśiṣṭhaṃ",
-"quick_gloss": "vasishtha"
-},
-{
-"surface": "prāham",
-"quick_gloss": "said"
+"surface": "prāha",
+"quick_gloss": "spoke-I"
 },
 {
 "surface": "ajñānaṃ",
-"quick_gloss": "ignorance"
+"quick_gloss": "out-of-ignorance"
 },
 {
-"surface": "cīnācārādhikāraṇān",
-"quick_gloss": "chinese-practice-authority-related"
+"surface": "cīnācāra+adhikāraṇāt",
+"quick_gloss": "due-to-Cīnācāra+authority"
 }
 ]
 },
@@ -36,16 +32,24 @@
 "quick_gloss": "your"
 },
 {
-"surface": "bhaktivaśenāsmi",
-"quick_gloss": "by-devotion-power"
+"surface": "bhakti+vaśena",
+"quick_gloss": "by-devotion+power"
 },
 {
-"surface": "prakāśyamiha",
-"quick_gloss": "will-manifest-here"
+"surface": "asmi",
+"quick_gloss": "am-I"
+},
+{
+"surface": "prakāśya",
+"quick_gloss": "revealing"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
 },
 {
 "surface": "tatparaḥ",
-"quick_gloss": "devoted-to-that"
+"quick_gloss": "intent-on-that"
 }
 ]
 },
@@ -57,16 +61,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yasyānuṣṭhānamātreṇa",
-"quick_gloss": "whose"
+"surface": "yasya",
+"quick_gloss": "of-which"
 },
 {
-"surface": "yasyānuṣṭhānamātreṇa",
-"quick_gloss": "by-merely-practice"
+"surface": "anuṣṭhāna+mātreṇa",
+"quick_gloss": "by-practice+mere"
 },
 {
-"surface": "bhavābdhau",
-"quick_gloss": "in-ocean-of-becoming"
+"surface": "bhava+abdhau",
+"quick_gloss": "in-ocean-of-existence"
 },
 {
 "surface": "na",
@@ -86,16 +90,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tattvajñānamayaṃ",
-"quick_gloss": "consisting-of-truth-knowledge"
+"surface": "tattvajñāna+mayaṃ",
+"quick_gloss": "truth-knowledge+consisting-of"
 },
 {
-"surface": "sākṣādvimuktiphaladāyakam",
+"surface": "sākṣāt",
 "quick_gloss": "directly"
 },
 {
-"surface": "sākṣādvimuktiphaladāyakam",
-"quick_gloss": "giving-liberation-fruit"
+"surface": "vimukti+phala+dāyakam",
+"quick_gloss": "complete-liberation+fruit+giving"
 }
 ]
 },
@@ -123,8 +127,8 @@
 "quick_gloss": "mental"
 },
 {
-"surface": "tarpaṇādikam",
-"quick_gloss": "libation-etc"
+"surface": "tarpaṇa+ādikam",
+"quick_gloss": "libation+and-so-forth"
 }
 ]
 },
@@ -140,12 +144,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "viśeṣo",
-"quick_gloss": "difference"
+"surface": "viśeṣaḥ",
+"quick_gloss": "distinction"
 },
 {
-"surface": "divārātrau",
-"quick_gloss": "day-night"
+"surface": "divā+rātrau",
+"quick_gloss": "in-day+and-night"
 },
 {
 "surface": "na",
@@ -156,8 +160,8 @@
 "quick_gloss": "at-twilight"
 },
 {
-"surface": "mahāniśi",
-"quick_gloss": "at-deep-night"
+"surface": "mahā+niśi",
+"quick_gloss": "at-great-night"
 }
 ]
 },
@@ -177,12 +181,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "cācarettatra",
+"surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "cācarettatra",
-"quick_gloss": "should-do"
+"surface": "ācaret",
+"quick_gloss": "should-perform"
 },
 {
 "surface": "tatra",
@@ -190,15 +194,15 @@
 },
 {
 "surface": "nirvikalpaṃ",
-"quick_gloss": "without-doubt"
+"quick_gloss": "free-of-concepts"
 },
 {
-"surface": "manaścaret",
+"surface": "manaḥ",
 "quick_gloss": "mind"
 },
 {
-"surface": "manaścaret",
-"quick_gloss": "should-practice"
+"surface": "caret",
+"quick_gloss": "should-direct"
 }
 ]
 },
@@ -214,8 +218,8 @@
 "quick_gloss": "always"
 },
 {
-"surface": "pūjayeddevīmasnātaḥ",
-"quick_gloss": "should-worship"
+"surface": "pūjayet",
+"quick_gloss": "one-should-worship"
 },
 {
 "surface": "devīm",
@@ -226,8 +230,8 @@
 "quick_gloss": "unbathed"
 },
 {
-"surface": "kṛtabhojanaḥ",
-"quick_gloss": "having-eaten"
+"surface": "kṛta+bhojanaḥ",
+"quick_gloss": "having-done+eating"
 }
 ]
 },
@@ -239,16 +243,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "strīdveṣo",
-"quick_gloss": "hatred-of-women"
+"surface": "strī+dveṣaḥ",
+"quick_gloss": "women+hatred"
 },
 {
-"surface": "naiva",
+"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "kartavyo",
-"quick_gloss": "should-be-done"
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "kartavyaḥ",
+"quick_gloss": "to-be-done"
 },
 {
 "surface": "viśeṣāt",
@@ -259,7 +267,7 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "striyāṃ",
+"surface": "striyām",
 "quick_gloss": "in-woman"
 }
 ]

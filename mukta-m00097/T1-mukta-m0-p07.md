@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[beautiful-middle-region-endowed-with-three-folds-and-strength](trivalībalanāyuktamadhyadeśasuśobhitām)
+[three-fold](trivalī) [belt](balana) [possessed-of](yuktam) [middle](madhya) [region](deśa) [well-adorned](suśobhitām)
 
 ## mukta-m0-p07-v152
-[hipped-one-adorned-with-invaluable-jeweled-girdle](anargharatnaghaṭitakāñcīyuktanitambinīm)
+[priceless](anargha) [jewel](ratna) [fashioned](ghaṭita) [girdle](kāñcī) [possessed-of](yuktā) [hipped-one](nitambinīm)
 
 ## mukta-m0-p07-v153
-[lady-with-tender-thighs-like-banana-stems](kadalīlalitastambhasukumārorumīśvarīm)
+[plantain-tree](kadalī) [graceful](lalita) [pillar](stambha) [very-tender](sukumāra) [thigh](ūru) [mistress](īśvarīm)
 
 ## mukta-m0-p07-v154
-[lady-whose-lotus-feet-are-rubbed-by-brahma-s-crown-jewel](namadbrahmaśiroratnanirghṛṣṭacaraṇāmbujām)
+[bowing](namat) [Brahmā](brahma) [head](śira) [jewel](ratna) [rubbed](nirghṛṣṭa) [lotus-foot](caraṇāmbujām)
 
 ## mukta-m0-p07-v155
-[red-as-hibiscus-and-pomegranate-surpassing-vermilion](lauhityajitasindūrajapādāḍimarāgiṇīm)
+[redness](lauhitya) [conquered](jita) [vermilion](sindūra) [foot](pāda) [pomegranate](aḍima) [reddened](rāgiṇīm)
 
 ## mukta-m0-p07-v156
-[situated-in-red-lotus-adorned-with-red-ornaments](raktapadmaniviṣṭāṃ tu raktābharaṇamaṇḍitām)
+[red](rakta) [lotus](padma) [seated-on](niviṣṭām) [indeed](tu) [red](rakta) [ornament](ābharaṇa) [adorned](maṇḍitām)
 
 ## mukta-m0-p07-v157
-[rich-in-all-erotic-attire-and-all-ornaments](sarvaśṛṅgāraveśāḍhyāṃ sarvālaṅkārabhūṣitām)
+[all](sarva) [erotic](śṛṅgāra) [attire](veśa) [rich-in](āḍhyāṃ) [all](sarva) [ornament](alaṅkāra) [adorned](bhūṣitām)
 
 ## mukta-m0-p07-v158
-[world-attracting-and-world-cause-formed](jagadākarṣaṇakarīṃ jagatkāraṇarūpiṇīm)
+[world](jagat) [attraction](ākarṣaṇa) [causing](karīṃ) [world](jagat) [cause](kāraṇa) [having-form](rūpiṇīm)
 
 ## mukta-m0-p07-v159
-[all-lakshmi-formed-eternal-delighted-in-supreme-bliss](sarvalakṣmīmayīṃ nityāṃ paramānandananditām)
+[all](sarva) [fortune](lakṣmī) [consisting-of](mayīṃ) [eternal](nityāṃ) [supreme-bliss](paramānanda) [delighted](nanditām)
 
 ## mukta-m0-p07-v160
-[by-knowledge-drawn-graceful-one-with-salutation-joined](vidyayāvāhya subhage namaskāraniyuktayā)
+[by-vidyā](vidyayā) [having-been-invoked](āvāhya) [O-fortunate-one](subhage) [by-prostration](namaskāra) [appointed](niyuktayā)
 
 ## mukta-m0-p07-v161
-[then-worship-should-be-begun](tataḥ pūjanamārabhet)
+[- - - - - - - - - - - - - - - -]( - - - - - - - - - - - - - - - - ) [then](tataḥ) [worship](pūjanam) [one-should-begin](ārabhet)
 
 ## mukta-m0-p07-v162
-[to-be-united-simultaneously-or-sequentially-o-great-lady](yugapatkramarūpeṇa yojanīyā maheśvari)
+[simultaneously](yugapat) [in-order](krama) [having-form](rūpeṇa) [to-be-placed](yojanīyā) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p07-v163
-[in-east-and-also-indrani-in-south-kaumari](pūrve caiva tathendrāṇī kaumārī dakṣiṇe tathā)
+[in-the-east](pūrve) [and](ca) [indeed](eva) [thus](tathā) [Indrāṇī](indrāṇī) [Kauṃārī](kaumārī) [in-the-south](dakṣiṇe) [thus](tathā)
 
 ## mukta-m0-p07-v164
-[camunda-in-fire-quarter-great-lakshmi-in-southwest](cāmuṇḍāṃ devi cāgneye mahālakṣmīṃ tu nair-ṛte)
+[Cāmuṇḍā](cāmuṇḍāṃ) [goddess](devi) [in-the-south-east](āgneye) [Mahālakṣmī](mahālakṣmīṃ) [indeed](tu) [in-the-south-west](nair-ṛte)
 
 ## mukta-m0-p07-v165
-[mudra-anima-and-siddhi-these-three-to-be-worshipped-in-each-quarter-say-teachers](mudrā aṇimā ca siddhiriti | etacca trayaṃ praticakramagra eva pūjyamiti guravaḥ)
+[mudrā](mudrā) [Aṇimā](aṇimā) [and](ca) [Siddhi](siddhiḥ) [thus](iti) [this](etad) [indeed](ca) [triple](trayam) [in-each-circle](praticakram) [first](agra) [indeed](eva) [to-be-worshipped](pūjyam) [thus](iti) [teachers](guravaḥ)
 
 ## mukta-m0-p07-v166
-[ego-attracting-and-sound-attracting-formed](ahaṅkārākarṣiṇī ca śabdākarṣasvarūpiṇī)
+[Ahaṅkārākarṣiṇī](ahaṅkārākarṣiṇī) [and](ca) [Śabdākarṣa](śabdākarṣa) [having-form](svarūpiṇī)
 
 ## mukta-m0-p07-v167
-[taste-attracting-goddess-and-smell-attracting](rasākarṣakarī devī gandhākarṣakarī tathā)
+[Rasākarṣakarī](rasākarṣakarī) [goddess](devī) [Gandhākarṣakarī](gandhākarṣakarī) [thus](tathā)
 
 ## mukta-m0-p07-v168
-[memory-attracting-formed-and-name-attracting-acting](smṛtyākarṣaṇarūpā ca nāmākarṣaṇakāriṇī)
+[Smṛtyākarṣaṇa](smṛtyākarṣaṇa) [having-form](rūpā) [and](ca) [Nāmākarṣaṇakāriṇī](nāmākarṣaṇakāriṇī)
 
 ## mukta-m0-p07-v169
-[nectar-attracting-and-supreme-body-attracting](amṛtasyākarṣaṇī ca śarīrākarṣaṇī parā)
+[Amṛta](amṛtasya) [attractress](ākarṣaṇī) [and](ca) [body](śarīra) [attractress](ākarṣaṇī) [supreme](parā)
 
 ## mukta-m0-p07-v170
-[with-maya-lakshmi-kalas-these-sixteen-kalas](māyālakṣmīkalābhistu kalāṣoḍaśakaṃ tvidam)
+[Māyālakṣmī](māyālakṣmī) [by-kalās](kalābhiḥ) [indeed](tu) [group-of-sixteen](kalāṣoḍaśakam) [this](idam)
 
 ## mukta-m0-p07-v171
-[in-west-ananga-destroyer-in-north-madanottara](paścime'naṅgamathanāmuttare madanottarām)
+[in-the-west](paścime) [Anaṅgamathanā](anaṅgamathanām) [in-the-north](uttare) [Madanottarām](madanottarām)
 
 ## mukta-m0-p07-v172
-[ananga-goad-in-northwest-ananga-garland-in-northeast](anaṅgāṅkuśāṃ vāyavya īśāne'naṅgamālinīm)
+[Anaṅgāṅkuśām](anaṅgāṅkuśāṃ) [in-the-north-west](vāyavya) [in-the-north-east](īśāne) [Anaṅgamālinīm](anaṅgamālinīm)
 
 ## mukta-m0-p07-v173
-[all-attracting-and-all-delighting](sarvākarṣakarī cānyā sarvāhlādakarī tathā)
+[all](sarva) [attraction](ākarṣakarī) [and](ca) [another](anyā) [all](sarva) [delight](āhlāda) [causing](karī) [thus](tathā)
 
 ## mukta-m0-p07-v174
-[all-subduing-formed-and-all-controlling](sarvajambhanarūpā tu sarvato vaśakāriṇī)
+[all](sarva) [stupefaction](jambhana) [having-form](rūpā) [indeed](tu) [everywhere](sarvataḥ) [subjugation](vaśa) [causing](kāriṇī)
 
 ## mukta-m0-p07-v175
-[power-accomplishing-all-aims-and-fulfilling-all-desires](sarvārthasādhakī śaktiḥ sarvāśāparipūrakī)
+[all](sarva) [object](artha) [accomplishing](sādhakī) [power](śaktiḥ) [all](sarva) [hope](āśā) [fulfilling](paripūrakī)

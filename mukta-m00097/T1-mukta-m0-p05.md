@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[hear](śṛṇu) [vidyā-limb-formed](vidyāṅgarūpiṇīḥ)
+[-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [hear](śṛṇu) [knowledge+limb+forms-fem-pl](vidyā+aṅga+rūpiṇīḥ)
 
 ## mukta-m0-p05-v102
-[thus](iti) [here](atra) [junction](sandhiḥ) [rāma](rāmaḥ) [of-daśaratha](dāśarathī) [this](saiṣa)
+[this-fem](sā) [this-masc](eṣa) [son-of-daśaratha](dāśarathī) [rāma](rāmaḥ) [thus+like](iti+vat) [here](atra) [junction](sandhiḥ)
 
 ## mukta-m0-p05-v103
-[also](ca) [api](api) [seated-on-ātma-seat](ātmāsanagatāṃ) [thus](tathā) [seated-on-cakra-seat](cakrāsanasthitām)
+[self+seat+gone-acc-fem](ātmā+āsana+gatāṃ) [and](ca) [also](api) [likewise](tathā) [wheel+seat+standing-acc-fem](cakra+āsana+sthitām)
 
 ## mukta-m0-p05-v104
-[root-vidyā](mūlavidyām) [api](api) [beloved](priye)
+[-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [-](-) [root+knowledge-acc-fem](mūla+vidyām) [also](api) [dear-voc-fem](priye)
 
 ## mukta-m0-p05-v105
-[hear](śṛṇu) [iti](iti) [eastern](prācyena) [connection](saṃbandhaḥ)
+[hear+thus](śṛṇu+iti) [with-former](prācyena) [connection](saṃbandhaḥ)
 
 ## mukta-m0-p05-v106
-[peace-ended](śāntāntaṃ) [kādi-joined](kādisaṃyuktam) [ai-ended](aikārānta) [end-joined](antayojitam)
+[ending-in-śānta](śānta+antaṃ) [joined-with-ka-ādi](kā+ādi+saṃyuktam) [joined-with-ai-ending-end](ai+kāra+anta+anta+yojitam)
 
 ## mukta-m0-p05-v107
-[om-middle-placed](e-omadhyagataṃ) [seed](bījaṃ) [for-speech-rite](vāgvidhānāya) [only](kevalam)
+[e-o-middle-gone](e-o+madhya+gataṃ) [seed](bījaṃ) [for-speech+arrangement](vāk+vidhānāya) [only](kevalam)
 
 ## mukta-m0-p05-v108
-[maddening](mādanaṃ) [indra-joined](śakrasaṃyuktam) [fourth-vowel-joined](caturthasvarasaṃyutam)
+[mādana](mādanaṃ) [joined-with-śakra](śakra+saṃyuktaṃ) [joined-with-fourth-vowel](caturtha+svara+saṃyutam)
 
 ## mukta-m0-p05-v109
-[peace-ended](śāntāntaṃ) [kādi-joined](kādisaṃyuktam) [ai-ended](aikārānta) [end-joined](antayojitam)
+[ending-in-śānta](śānta+antaṃ) [joined-with-ka-ādi](kā+ādi+saṃyuktam) [joined-with-ai-ending-end](ai+kāra+anta+anta+yojitam)
 
 ## mukta-m0-p05-v110
-[meaning-complete](gatārtham)
+[meaning+gone](gata+artham)
 
 ## mukta-m0-p05-v111
-[kula-vidyā](kulavidyā) [great-goddess](maheśāni) [all-works-accomplishing](sarvakāryārthasādhakī)
+[kula+knowledge](kula+vidyā) [o-great-goddess](mahā+īśāni) [all+task+purpose+accomplishing-fem](sarva+kārya+artha+sādhakī)
 
 ## mukta-m0-p05-v112
-[then](tataḥ) [kāmarāja](kāmarāja) [iti](iti)
+[then](tataḥ) [kāmarāja](kāma+rājaḥ) [thus](iti)
 
 ## mukta-m0-p05-v113
-[of-this](etasyā) [eva](eva) [vidyā](vidyāyāḥ) [śiva-māyā-fire-bindu](śivamāyāgnibindumat)
+[of-this-fem](etasyāḥ) [indeed](eva) [of-knowledge](vidyāyāḥ) [śiva+māyā+fire+bindu+possessing](śiva+māyā+agni+bindu+mat)
 
 ## mukta-m0-p05-v114
-[again](punar) [vidyā-first](vidyādyam) [above](asyordhvam) [within-end](antarantaṃ) [śiva-joined](śivānvitam)
+[again](punar) [knowledge+pair](vidyā+dvayam) [of-this+above](asya+ūrdhvam) [inner+end](antara+antaṃ) [with-śiva](śiva+anvitam)
 
 ## mukta-m0-p05-v115
-[again](punar) [first-great-vidyā](ādyāṃ) [mahāvidyā](mahāvidyāṃ) [śiva-moon-joined](śivacandrasamanvitām)
+[again](punar) [first-acc-fem](ādyāṃ) [great+knowledge-acc-fem](mahā+vidyāṃ) [with-śiva+moon](śiva+candra+samanvitām)
 
 ## mukta-m0-p05-v116
-[of-devi-ātma-seat-vidyā](devyātmāsanavidyāyāḥ) [previously-said](pūrvoktāyā) [in-order](yathākramam)
+[of-goddess+self+seat+knowledge](devī+ātmā+āsana+vidyāyāḥ) [previously+spoken-gen-fem](pūrva+uktāyāḥ) [according-to-order](yathā+kramam)
 
 ## mukta-m0-p05-v117
-[joining](saṃyojya) [supreme-goddess](parameśāni) [together](sākam) [half-moon](ardhendunā) [then](tataḥ)
+[having-joined](saṃyojya) [o-supreme-goddess](parama+īśāni) [together-with](sākam) [with-half+moon](ardha+indunā) [then](tataḥ)
 
 ## mukta-m0-p05-v118
-[haṃsa-moon-mounted](haṃsasomasamārūḍhām) [first](ādyām) [fire-seat-situated](agnyāsanasthitām)
+[mounted-on-haṃsa+soma-acc-fem](haṃsa+soma+samārūḍhām) [first-acc-fem](ādyām) [standing-on-fire+seat-acc-fem](agni+āsana+sthitām)
 
 ## mukta-m0-p05-v119
-[thus](evam) [these](etā) [great-vidyās](mahāvidyā) [goddess](devi) [all-purposes-accomplishing](sarvārthasiddhidāḥ)
+[thus](evam) [these-fem-pl](etāḥ) [great+knowledges-fem-pl](mahā+vidyāḥ) [o-goddess](devi) [all+purpose+accomplishment+giving-fem-pl](sarva+artha+siddhi+dāḥ)
 
 ## mukta-m0-p05-v120
-[maddening](mādanaṃ) [below-that](tadadhaḥ) [śakti](śaktiḥ) [below-that](tadadho) [bindu-garlanded](bindumālinī)
+[mādana](mādanaṃ) [below-that](tat+adhaḥ) [śakti](śaktiḥ) [below-that](tat+adhaḥ) [garlanded-with-bindu-fem](bindu+mālinī)
 
 ## mukta-m0-p05-v121
-[māyā-bindu-īśvara-joined](māyābindvīśvarayutā) [all-above](sarvopari) [placed](niyojitā)
+[joined-with-māyā+bindu+īśvara-fem](māyā+bindu+īśvara+yutā) [above-all](sarva+upari) [placed-fem](niyojitā)
 
 ## mukta-m0-p05-v122
-[śiva-seed](śivabījaṃ) [threefold](tridhā) [uniting](yuṅktvā) [creation-preservation-dissolution-order](sṛṣṭisthitilayakramaiḥ)
+[śiva+seed-acc](śiva+bījaṃ) [threefold](tridhā) [having-joined](yuṅktvā) [by-creation+maintenance+dissolution+sequences](sṛṣṭi+sthiti+laya+kramaiḥ)
 
 ## mukta-m0-p05-v123
-[again](punaḥ) [preservation-śiva-below](sthitiśivādhastād) [indra-seed](indrabījaṃ) [place](niyojayet)
+[again](punaḥ) [below-sthiti+śiva](sthiti+śiva+adhastāt) [indra+seed-acc](indra+bījaṃ) [one-should-place](niyojayet)
 
 ## mukta-m0-p05-v124
-[fourth-vowel-joined](caturthasvarasaṃyuktam) [bindu-fragment-moon-adorned](bindukhaṇḍendvalaṅkṛtam)
+[joined-with-fourth-vowel](caturtha+svara+saṃyuktaṃ) [adorned-with-bindu+part+moon](bindu+khaṇḍa+indu+alaṅkṛtam)
 
 ## mukta-m0-p05-v125
-[māyā-seed](māyābījaṃ) [great-goddess](maheśāni) [maddening](mādanaṃ) [indra-joined](śakrasaṃyutam)
+[māyā+seed](māyā+bījaṃ) [o-great-goddess](mahā+īśāni) [mādana](mādanaṃ) [joined-with-śakra](śakra+saṃyutam)
