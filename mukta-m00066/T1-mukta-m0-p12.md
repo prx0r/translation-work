@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[all-lord](sarveśvarī) [who](yā) [first-letter](divarṇa) [fourfold](catuṣṭaya) [held-jewel](dhṛtāmaṇau)
+[all-sovereign](sarveśvarī) [beginning-with-ya](yādi) + [letter](varṇa) + [tetrad](catuṣṭaya) [held](dhṛtā) + [in-jewel](maṇau)
 
 ## mukta-m0-p12-v277
-[thus](evaṃ) [speech-goddess](vāgdevatā) [nyāsa](nyāsaṃ) [place](nyased) [letters](varṇān) [great-mantra](mahāmano)
+[thus](evaṃ) [speech-goddess](vāgdevatā) + [placement](nyāsaṃ) [should-place](nyaset) [letters](varṇān) [O-great-minded-one](mahāmano)
 
 ## mukta-m0-p12-v278
-[ears](śrotrayor) [pair](yugale) [also](cāpi) [mouth](mukhe) [and](ca) [arms](bhujayos) [thus](tathā)
+[in-two-ears](śrotrayoḥ) + [in-pair](yugale) + [and-also](ca) + [indeed](api) [in-mouth](mukhe) [and](ca) [in-two-arms](bhujayoḥ) + [likewise](tathā)
 
 ## mukta-m0-p12-v279
-[placing](nyasya) [or](vā) [placing](nyasya) [vā](vā) [sixfold](ṣoḍhā) [cakra-nyāsa](cakranyāsā) [both](ubhau) [dear](priye)
+[having-placed](nyasya) [or](vā) [having-placed](nyasya) [or](vā) [sixfold](ṣoḍhā) [cakra](cakra) + [placements](nyāsau) [both](ubhau) [O-beloved](priye)
 
 ## mukta-m0-p12-v280
-[worship](abhyarcyagaṃdhapuṣpādaiḥ) [with-sandal-incense-flowers](abhyarcyagaṃdhapuṣpādaiḥ) [supported](sādhāraṃ) [conch](śaṃkham) [worship](arcayet)
+[having-worshipped](abhyarcya) + [with-fragrance](gaṃdha) + [flowers](puṣpa) + [etc.](ādaiḥ) [common](sādhāraṃ) [conch](śaṃkham) + [should-worship](arcayet)
 
 ## mukta-m0-p12-v281
-[a-to-ka](akadādi) [three-lines-end](trirekhāṃtā) [consonant-within](halakṣābhyaṃtarasthitam)
+[beginning-with-a-ka](akadādi) [ending-with-three-lines](trirekhāṃtā) [consonant](hala) + [syllable](kṣa) + [situated-within](abhyaṃtara) + [situated](sthitam)
 
 ## mukta-m0-p12-v282
-[that-water](tadaṃbhasā) [front](puro) [part](bhāge) [square](caturaśraṃ) [hexagon](ṣaḍaśrakam)
+[with-its](tat) + [water](aṃbhasā) [in-eastern](puro) + [part](bhāge) [square](caturaśraṃ) [hexagon](ṣaḍaśrakam)
 
 ## mukta-m0-p12-v283
-[foundation](ādhāram) [mantra](anunā) [foundation](ādhātra) [worship](pūjanīyāḥ) [pure](śuceḥ) [rays](kalāḥ)
+[support](ādhāram) + [with-mantra](anunā) + [by-support](ādhātra) [to-be-worshipped](pūjanīyāḥ) [of-the-pure-one](śuceḥ) [digits](kalāḥ)
 
 ## mukta-m0-p12-v284
-[worship](abhyarcya) [sun-rays](bhāskarakalās) [then](tataś) [initial-filling](cādimapūraṇam)
+[having-worshipped](abhyarcya) [sun](bhāskara) + [digits](kalāḥ) + [then](tataḥ) + [and](ca) + [first](ādi) + [filling](apūraṇam)
 
 ## mukta-m0-p12-v285
-[initial](upādimaṃ) [middle](madhyamaṃ) [there](tatra) [deposit](nikṣipya) [wise](buddhimān)
+[and-first](upādimaṃ) [and-middle](madhyamaṃ) [and](ca) [there](tatra) [having-placed](nikṣipya) [the-wise-one](buddhimān)
 
 ## mukta-m0-p12-v286
-[corners](koṇeṣu) [bālā](bālām) [draw](ālikhya) [outside-hexagon](bahiṣṣaṭkoṇam) [draw](ālikhet)
+[in-corners](koṇeṣu) [Bālā](bālām) + [having-drawn](ālikhya) [outside](bahiḥ) + [hexagon](ṣaṭkoṇam) + [should-draw](ālikhet)
 
 ## mukta-m0-p12-v287
-[water](arghyaṃ) [touching](spṛṣṭvā) [creation-beginning](sṛṣṭimukhaiś) [ninety-four](caturnavati) [rays](raśmibhiḥ)
+[arghya](arghyaṃ) [having-touched](spṛṣṭvā) [with-creation](sṛṣṭi) + [etc.](mukhaiḥ) + [with-four](catur) + [ninety](navati) [rays](raśmibhiḥ)
 
 ## mukta-m0-p12-v288
-[these-mantras](etairmaṃtrair) [mantra-made](maṃtritaṃ) [be](syād) [initial](ādimaṃ) [supreme-nectar](paramāmṛtam)
+[by-these](etaiḥ) + [mantras](maṃtraiḥ) + [consecrated](maṃtritaṃ) [should-be](syāt) + [first](ādimaṃ) [supreme](parama) + [nectar](amṛtam)
 
 ## mukta-m0-p12-v289
-[supreme-bliss-giver](paramānaṃdajanako) [become](bhavet) [success-single-means](sidhyaikasādhanaḥ)
+[supreme](parama) + [bliss](ānaṃda) + [producer](janakaḥ) [should-be](bhavet) [of-accomplishment](sidhyi) + [sole](eka) + [means](sādhanaḥ)
 
 ## mukta-m0-p12-v290
-[three-part-mudrā](trikhaṇḍamudrayā) [outer](bāhya) [seven-mudrās](saptamudrāś) [show](ca) [darśayet]
+[with-three-part](trikhaṇḍa) + [mudrā](mudrayā) [external](bāhya) [seven](sapta) + [mudrās](mudrāḥ) + [and](ca) [should-display](darśayet)
 
 ## mukta-m0-p12-v291
-[salutation](vaṃdanaṃ) [cow](dhenu) [yoni](yonī) [ca](ca) [seven-mudrās](saptamudrāḥ) [declared](prakīrtitāḥ)
+[salutation](vaṃdanaṃ) [cow](dhenu) [womb](yonī) [and](ca) [seven](sapta) + [mudrās](mudrāḥ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p12-v292
-[sixty-four-services](catuṣṣaṭyupacārāṇāṃ) [mantras](maṃtrā) [goddess](devī) [separate](pṛthak) [separate](pṛthak)
+[of-sixty-four](catuṣṣaṭi) + [services](upacārāṇāṃ) [mantras](maṃtrā) [of-goddess](devī) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p12-v293
-[limb-mantras](aṃgamaṃtrair) [six-limbs](aṃgaṣaṭkaṃ) [tithi](tithi) [daily](nityāś) [ca](ca) [sixteen](ṣoḍaśa)
+[with-limb](aṃga) + [mantras](maṃtraiḥ) + [six](ṣaṭkaṃ) + [limbs](aṃga) [lunar-day](tithi) [Nityās](nityāḥ) + [and](ca) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p12-v294
-[head](śirasi) [own-guru](svaguroḥ) [feet](pādau) [devotion-full](bhaktipūrṇaḥ) [worship](samarcayet)
+[on-head](śirasi) [of-own](sva) + [guru](guroḥ) [feet](pādau) [devotion](bhakti) + [filled](pūrṇaḥ) [should-worship](samarcayet)
 
 ## mukta-m0-p12-v295
-[inner](abhyaṃtara) [earth-house](mahīgehe) [brahma-etc](brāhmādyāḥ) [declared](parikīrtitāḥ)
+[in-inner](abhyaṃtara) + [earth](mahī) + [house](gehe) [Brāhmī](brāhmādyāḥ) + [etc.](ādyāḥ) [are-declared](parikīrtitāḥ)
 
 ## mukta-m0-p12-v296
-[offering](samarpaṇena) [mantra](manunā) [yoginis](yoginībhyaḥ) [worship](samarcayet)
+[with-offering](samarpaṇena) + [mantra](manunā) [to-Yoginīs](yoginībhyaḥ) [should-worship](samarcayet)
 
 ## mukta-m0-p12-v297
-[agitation-mudrā](saṃkṣobhamudrāṃ) [show](saṃdarśya) [sixteen-spoked](ṣoḍaśāraṃ) [worship](prapūjayet)
+[agitation](saṃkṣobha) + [mudrā](mudrāṃ) [having-displayed](saṃdarśya) [sixteen](ṣoḍaśa) + [spoked](āraṃ) [should-worship](prapūjayet)
 
 ## mukta-m0-p12-v298
-[worship](arcyāstu) [secret-yogini](guptayoginya) [tripura-lady](tripureśīti) [wheel-bearer](cakriṇī)
+[to-be-worshipped](arcyāḥ) + [indeed](tu) [secret](gupta) + [Yoginīs](yoginyaḥ) [Tripureśī](tripureśī) + [thus](iti) [wheel-ruler](cakriṇī)
 
 ## mukta-m0-p12-v299
-[anaṅga-kusuma-etc](anaṃgakusumādyāstu) [powers](śaktayaḥ) [there](tatra) [situated](saṃsthitāḥ)
+[Anaṅgakusumā](anaṃgakusumā) + [etc.](ādyāḥ) + [indeed](tu) [powers](śaktayaḥ) + [there](tatra) [situated](saṃsthitāḥ)
 
 ## mukta-m0-p12-v300
-[mudrā](mudrā) [ca](cā) [attractive](karṣiṇī) [known](jñeyā) [then](tatastu) [world-sphere](bhuvanārake)
+[mudrā](mudrā) [and](ca) [attracting](ākarṣiṇī) [to-be-known](jñeyā) [then](tataḥ) + [indeed](tu) [in-world](bhuvana) + [circle](ārake)
