@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound = bhukti+co-member",
-   "grounds": "first member of compound denoting worldly enjoyment"
+   "morph": "compound=bhukti+first-member",
+   "grounds": "first member of compound with mukti"
   },
   {
    "lemma": "mukti",
-   "morph": "compound = mukti+co-member",
-   "grounds": "second member of compound denoting liberation"
+   "morph": "compound=mukti+first-member",
+   "grounds": "second member of compound with mahā-siddhiḥ"
   },
   {
    "lemma": "mahā",
-   "morph": "compound = mahā+co-member",
-   "grounds": "qualifying member of compound indicating greatness"
+   "morph": "compound=mahā+first-member",
+   "grounds": "first member of compound with siddhiḥ"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "head of compound meaning great accomplishment of enjoyment and liberation"
+   "grounds": "subject of bhavet"
   },
   {
    "lemma": "yoginīnāṃ",
    "morph": "f.gen.pl",
-   "grounds": "denotes those to whom the practitioner becomes dear"
+   "grounds": "possessor of priyo"
   },
   {
    "lemma": "priyo",
    "morph": "m.nom.sg",
-   "grounds": "predicate describing the practitioner’s favored state"
+   "grounds": "predicate describing siddhiḥ"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-act √bhū",
-   "grounds": "expresses the resulting attainment"
+   "morph": "3.sg.act-optative √bhū",
+   "grounds": "optative expressing possibility"
   }
  ]
 }

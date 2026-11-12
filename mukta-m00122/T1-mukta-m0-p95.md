@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[from-sacrifice-even](havanādapi) [that](tat) [attainment](prāptiḥ) [becomes](bhavati) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
+[from-oblation+even](havanāt+api) [that+attainment](tat+prāptiḥ) [becomes+indeed](bhavati+eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p95-v2352
-[on-that-day](taddināt) [before-even](prāevan) [circle](maṇḍalāt) [those-fruits](tatphalāni) [victory-fruits](jayaphalāni) [thus](iti) [declared-form](proktarūpataḥ)
+[from-that-day](taddināt) [from-before+indeed+that-mandala](prāk+eva+maṇḍalāt) [those+fruits](tat+phalāni) [victory+fruits](jaya+phalāni) [thus](iti) [in-stated+manner](prokta+rūpataḥ)
 
 ## mukta-m0-p95-v2353
-[victory](vijayam) [iti-remainder](itiśeṣaḥ) [thus](tathā) [with-sixty-etc](ṣaṣṭyādibhiḥ) [ending-tenth](daśamyantābhiḥ) [five-tithis](pañcatithibhiḥ)
+[victory+thus+remainder](vijayam+iti+śeṣaḥ) [likewise](tathā) [with-sixth+etc+ending-with-tenth](ṣaṣṭi+ādibhiḥ+daśamī+antābhiḥ) [with-five+tithis](pañca+tithibhiḥ)
 
 ## mukta-m0-p95-v2354
-[black-formed](kṛṣṇarūpaiḥ) [on-thirteenth](trayodaśyāṃ) [white-formed](sitarūpaiśca) [with-sesame](tilairjuhuyādityarthaḥ)
+[with-dark+forms](kṛṣṇa+rūpaiḥ) [on-thirteenth](trayodaśyām) [with-white+forms+and](sita+rūpaiḥ+ca) [with-sesame-seeds](tilaiḥ) [one-should-offer+thus+meaning](juhuyāt+iti+arthaḥ)
 
 ## mukta-m0-p95-v2355
-[with-honey-sweet](madhusiktairhomāt) [that-that-fruit-attainment](tattatphalāvāptiriti)
+[with-honey+sprinkled](madhu+siktaiḥ) [from-oblation](homāt) [that+that+fruit+attainment+thus](tat+tat+phala+avāptiḥ+iti)
 
 ## mukta-m0-p95-v2356
-[eighty-one-versed](aśītyarṇavatīṃ) [vidyā](vidyāṃ) [with-them](tairyantrāṇi) [hear](śṛṇu) [dear](priye)
+[eighty+syllable+possessing](aśīti+arṇa+vatīm) [mantra](vidyām) [with-those](taiḥ) [yantras](yantrāṇi) [hear](śṛṇu) [O-beloved](priye)
 
 ## mukta-m0-p95-v2357
-[eighty-one-padas](ekāśītipadāni) [are](syusteṣu) [those](tāni) [write](likhetkramāt)
+[eighty-one+squares](ekāśīti+padāni) [may-be](syuḥ) [in-them](teṣu) [those](tāni) [one-should-write](likhet) [in-order](kramāt)
 
 ## mukta-m0-p95-v2358
-[having-made-trident](śūlīkṛtya) [and](ca) [line-ends](rekhāgrāṇyatrāvāhyābhipūjya) [her](tām)
+[having-made-trident](śūlī+kṛtya) [and](ca) [line+ends](rekhā+agrāṇi) [here](atra) [having-invoked](āvāhya) [having-worshipped](abhipūjya) [her](tām)
 
 ## mukta-m0-p95-v2359
-[vidyā-order](vidyākramaṃ) [there](tatra) [in-yantra](yantre) [worship](yajettatphalamāpnuyāt)
+[mantra+order](vidyā+kramam) [there](tatra) [in-yantra](yantre) [one-should-worship](yajet) [that+fruit](tat+phalam) [one-may-obtain](āpnuyāt)
 
 ## mukta-m0-p95-v2360
-[sixteen-vowel-arrangement](ṣoḍaśasvarayojanārūpaḥ) [with-them](taiḥ) [letters](akṣaraiḥ) [yantras](yantrāṇi) [to-be-spoken](vakṣyamāṇāni)
+[sixteen+vowel+application+form](ṣoḍaśa+svara+yojanā+rūpaḥ) [with-those](taiḥ) [with-syllables](akṣaraiḥ) [yantras](yantrāṇi) [to-be-described](vakṣyamāṇāni)
 
 ## mukta-m0-p95-v2361
-[therein](tasmin) [for-rite](prayogārthaṃ) [vidyā-order-and](vidyākramañcārcayet) [by-that](tena) [victory-fruit-success](vijayaphalasiddhiriti)
+[in-that](tasmin) [for-application+purpose](prayoga+artham) [mantra+order+and](vidyā+kramam+ca) [one-should-worship](arcayet) [by-that](tena) [victory+fruit+accomplishment+thus](vijaya+phala+siddhiḥ+iti)
 
 ## mukta-m0-p95-v2362
-[nine](navāni) [arise](sambhavantyatra) [here](koṣṭhāni) [supreme-goddess](parameśvari)
+[nine](navāni) [arise](sambhavanti) [here](atra) [cells](koṣṭhāni) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p95-v2363
-[in-them](teṣu) [middle-lotus](madhyasthapadmasya) [pericarp](karṇikāyāṃ) [write-well](samālikhet)
+[in-them](teṣu) [of-middle+lotus](madhya+stha+padmasya) [in-pericarp](karṇikāyām) [one-should-write](samālikhet)
 
 ## mukta-m0-p95-v2364
-[in-them-first-eight](teṣvādito'ṣṭau) [write](saṃlikhya) [with-bindu](vindunā) [outside-that](tadbahistathā)
+[in-them](teṣu) [from-beginning](āditaḥ) [eight](aṣṭau) [having-written](saṃlikhya) [with-bindu](vindunā) [outside-that](tat+bahiḥ) [likewise](tathā)
 
 ## mukta-m0-p95-v2365
-[thus](evamaṣṭasu) [write](saṃlikhya) [surround](veṣṭayenmātṛkākṣaraiḥ)
+[thus](evam) [in-eight](aṣṭasu) [having-written](saṃlikhya) [one-should-enclose](veṣṭayet) [with-mātṛkā+syllables](mātṛkā+akṣaraiḥ)
 
 ## mukta-m0-p95-v2366
-[four-sided-three](caturasratraye) [outside](bāhye) [of-yantra](yantrasyāgre) [write-well](samālikhet)
+[in-square+triad](caturasra+traye) [outside](bāhye) [of-yantra](yantrasya) [in-front](agre) [one-should-write](samālikhet)
 
 ## mukta-m0-p95-v2367
-[vidyā-letters-herbs-decoction-water](vidyākṣarauṣadhikvāthajalairāpūrya) [as-before](pūrvavat)
+[with-mantra+syllable+herb+decoction+waters](vidyā+akṣara+auṣadhi+kvātha+jalaiḥ) [having-filled](āpūrya) [as-before](pūrvavat)
 
 ## mukta-m0-p95-v2368
-[consecrate-then](abhiṣiñcettataḥ) [from-afflictions](kleśairvimukto) [becomes](jāyate) [happy](sukhī)
+[one-should-sprinkle](abhiṣiñcet) [then](tataḥ) [from-afflictions](kleśaiḥ) [freed](vimuktaḥ) [becomes](jāyate) [happy](sukhī)
 
 ## mukta-m0-p95-v2369
-[nine-planet-enemy](navagrahārtoripubhiḥ) [from-all](sarvataḥ) [affliction-occurrence](kleśasambhave)
+[by-nine+planet+afflicted+enemies](nava+graha+ārta+ripubhiḥ) [from-all-sides](sarvataḥ) [affliction+arising](kleśa+sambhave)
 
 ## mukta-m0-p95-v2370
-[for-son](putrāptyai) [or-desired-attainment](vāñchitaprāptyai) [in-three](triṣu) [births](janmasu) [do](kārayet)
+[for-son+attainment](putra+āptyai) [for-desired+attainment](vāñchita+prāptyai) [in-three](triṣu) [in-births](janmasu) [one-should-cause](kārayet)
 
 ## mukta-m0-p95-v2371
-[goddess](devīmāvāhya) [worship](sampūjya) [chant-vidyā](japedvidyāṃ) [thus-ten-thousand](tathā'yutam)
+[goddess](devīm) [having-invoked](āvāhya) [having-worshipped](sampūjya) [one-should-recite](japet) [mantra](vidyām) [likewise](tathā) [ten-thousand](ayutam)
 
 ## mukta-m0-p95-v2372
-[that](taṃ) [pot](kumbhaṃ) [per-pericarp](pratikarṇikamitiśeṣaḥ) [as-before](pūrvavat) [with-fruit-sprouts-etc](phalapallavādibhiḥ)
+[that](tam) [pot](kumbham) [at-each-pericarp+thus+remainder](prati+karṇikam+iti+śeṣaḥ) [as-before](pūrvavat) [with-fruit+sprout+etc](phala+pallava+ādibhiḥ)
 
 ## mukta-m0-p95-v2373
-[having-chanted](sañjapya) [in-three-births](triṣu) [janmasvabhiṣekāt) [proclaimed-fruit-success](proktaphalasiddhiriti)
+[having-recited](sañjapya) [in-three](triṣu) [in-births](janmasu) [from-consecration](abhiṣekāt) [stated+fruit+accomplishment+thus](prokta+phala+siddhiḥ+iti)
 
 ## mukta-m0-p95-v2374
-[kings](rājānaṃ) [women](vanitāṃ) [mortals](martyānanyāṃśca) [all-beings](prāṇino'khilān)
+[king](rājānam) [woman](vanitām) [mortals](martyān) [others+and](anyān+ca) [beings](prāṇinaḥ) [all](akhilān)
 
 ## mukta-m0-p95-v2375
-[placing](nidhāya) [in-wall-middle](bhittimadhye) [or](vā) [in-sleeping-place](śayanasthānake) [own](nije)
+[having-placed](nidhāya) [in-wall+middle](bhitti+madhye) [or](vā) [in-sleeping+place](śayana+sthānake) [in-own](nije)

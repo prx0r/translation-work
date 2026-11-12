@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p94-v2326
-[with-fuel](samidbhiḥ)+[should-offer](juhuyāt)+[properly](samyak)+[lord-of-day](vāreśa)+[worship](arcana)+[preceded-by](pūrvakam)
+with-fuel-sticks(samidbhiḥ) one-should-offer(juhuyāt) properly(samyak) lord-of-day+worship+preceded-by(vāra+īśa+arcana+pūrvakam)
 
 ## mukta-m0-p94-v2327
-[with-life-and-lifeless-forms](sajīvanirjīvarūpe)
+with-living+without-living+forms(sajīva+nirjīva+rūpe) everywhere(sarvatra) in-others(anyeṣu) in-disputes-also(vivādeṣu+api)
 
 ## mukta-m0-p94-v2328
-[from-homa](homāt)+[declared-result](proktaphala)+[accomplishment](siddhiḥ)+[thus](iti)
+from-oblation(homāt) declared+fruit+accomplishment(prokta+phala+siddhiḥ) thus(iti)
 
 ## mukta-m0-p94-v2329
-[therefore](tena)+[his](asya)+[victory](vijayaḥ)+[may-be](bhūyāt)+[by-death](nidhanena)+[or](vā)+[again](punaḥ)
+by-that(tena) of-him(asya) victory(vijayaḥ) may-be(bhūyāt) by-death(nidhanena) also(api) or(vā) again(punaḥ)
 
 ## mukta-m0-p94-v2330
-[with-leaves](patraiḥ)+[with-flowers](puṣpaiḥ)+[with-fruits](phalaiḥ)+[with-stalks](kāṇḍaiḥ)+[with-roots](mūlaiḥ)+[also](ca)+[should-offer](hunet)+[in-order](kramāt)
+with-leaves(patraiḥ) with-flowers(puṣpaiḥ) with-fruits(phalaiḥ) with-stems(kāṇḍaiḥ) with-roots(mūlaiḥ) and(ca) also(api) one-should-offer(hunet) in-order(kramāt)
 
 ## mukta-m0-p94-v2331
-[facing-enemy-direction](arātidiṅmukhaḥ)+[having-become](bhūtvā)+[in-pit](kuṇḍe)+[triangular](tryasre)+[according-to-rite](vidhānataḥ)
+enemy+direction+facing(arāti+diṅ+mukhaḥ) having-become(bhūtvā) in-fire-pit(kuṇḍe) in-triangular(tryasre) according-to-rule(vidhānataḥ)
 
 ## mukta-m0-p94-v2332
-[enemy](vairī)+[equal-in-force](balasamagraḥ)+[also](api)+[endowed-with-valor-pride](śauryamānānvitaḥ)+[also](ca)
+enemy(vairī) strength+equal+even(bala+sama+agraḥ) also(api) valor+pride+endowed-with(śaurya+māna+anvitaḥ) also(api) and(ca)
 
 ## mukta-m0-p94-v2333
-[by-homa](homena)+[on-monday](somavāre)+[ca](ca)+[becomes](bhavet)+[as-before](prāgvat)+[no](na)+[doubt](saṃśayaḥ)
+by-oblation(homena) on-Monday(soma+vāre) and(ca) may-be(bhavet) as-before(prāk+vat) no(na) doubt(saṃśayaḥ)
 
 ## mukta-m0-p94-v2334
-[on-day-of-mars](vāre+bhaumasya)+[by-offering](havanāt)+[then](tadā)+[obtains](āpnoti)+[certainly](suniścitam)
+on-day(vāre) of-Mars(bhaumasya) from-oblation(havanāt) then(tadā) obtains(āpnoti) certainly(su+niścitam)
 
 ## mukta-m0-p94-v2335
-[on-wednesdays](budhavāreṣu)+[of-bright-one](śubhrāyāḥ)+[with-calf](savatsāyāḥ)+[with-ghee](ghṛtānvitam)
+on-Wednesdays(budha+vāreṣu) of-white-cow(śubhrāyāḥ) with-calf(sa+vatsāyāḥ) with-ghee(ghṛta+anvitam)
 
 ## mukta-m0-p94-v2336
-[with-nakshatra-tree-twigs](nakṣatravṛkṣasamidbhiḥ)
+with-constellation+tree+fuel-sticks(nakṣatra+vṛkṣa+samidbhiḥ) they(te) enemies(śatravaḥ) with-fuel-sticks(samidbhiḥ) of-death(mṛtyoḥ) thus(iti) ellipsis(śeṣaḥ)
 
 ## mukta-m0-p94-v2337
-[by-prescribed-order](uddiṣṭakramaiḥ)+[from-leaf-etc](patrādyaiḥ)+[to-root](mūlāntaiḥ)+[with-five-limbs](pañcabhiraṅgaiḥ)+[thus-meaning](ityarthaḥ)
+by-prescribed+orders(uddiṣṭa+kramaiḥ) with-leaf+etc(patra+ādyaiḥ) ending-with-root(mūla+antaiḥ) with-five(pañcabhiḥ) with-parts(aṅgaiḥ) thus(iti) meaning(arthaḥ)
 
 ## mukta-m0-p94-v2338
-[in-forty-nine-days](ekonapañcāśaddinaiḥ)+[thus-meaning](ityarthaḥ)
+by-forty-nine+days(ekona+pañcāśat+dinaiḥ) thus(iti) meaning(arthaḥ) in-triangular(tryasre) in-triangle+fire-pit(trikoṇa+kuṇḍe) thus(iti) meaning(arthaḥ)
 
 ## mukta-m0-p94-v2339
-[on-carpenter-day](takṣavāreṣu)+[their](te)+[birth](janma)+[before](pūrvam)+[eva](eva)+[hi](hi)+[that](tad)+[act](kriyā)
+on-Thursdays(takṣa+vāreṣu) that(te) birth(janma) previously(pūrvam) indeed(eva) hi(hi) that-action(tat+kriyā)
 
 ## mukta-m0-p94-v2340
-[that-daily-worship](tattannityārcanam)+[that-gate-lord-pair-worship](tattaddvāreśadvayapūjanam)
+that+that+daily-worship(tat+tat+nitya+arcanam) that+that+two-lords-of-day+worship(tat+tat+dvāra+īśa+dvaya+pūjanam)
 
 ## mukta-m0-p94-v2341
-[quickly](śīghram)+[result-accomplishment](tatphalasaṃsiddhyai)+[becomes](bhavati)+[eva](eva)+[otherwise](anyathā)+[otherwise](anyathā)
+quickly(śīghram) that+fruit+accomplishment(tat+phala+saṃsiddhyai) becomes(bhavati) indeed(eva) otherwise(anyathā) otherwise(anyathā)
 
 ## mukta-m0-p94-v2342
-[should-offer](hunet)+[thus](tathā)+[result-obtainment](tatphalāptiḥ)+[by-those-days](taddinaiḥ)+[would-be](syāt)+[without-doubt](asaṃśayam)
+one-should-offer(hunet) thus(tathā) that+fruit+attainment(tat+phala+āptiḥ) in-those-days(tat+dinaiḥ) may-be(syāt) without-doubt(asaṃśayam)
 
 ## mukta-m0-p94-v2343
-[with-those-sprinkled](tatsiktaiḥ)+[should-do](vidadhīta)+[thus](ittham)+[by-those-days](taddinaiḥ)+[that](tat)+[accomplishes](siddhyati)
+with-that+sprinkled(tat+siktaiḥ) one-should-perform(vidadhīta) thus(ittham) in-those-days(tat+dinaiḥ) that(tat) and(ca) is-accomplished(siddhyati)
 
 ## mukta-m0-p94-v2344
-[by-that-day](taddināt)+[those-results](tatphalāni)+[would-be](syuḥ)+[thus](iti)+[in-seven-days](vāreṣu+saptasu)
+from-that-day(tat+dināt) that+fruits(tat+phalāni) may-be(syuḥ) thus(iti) on-days(vāreṣu) seven(saptasu)
 
 ## mukta-m0-p94-v2345
-[subject](viyayam)+[listen](śṛṇu)+[goddess](deveśi)+[I-tell](kathayāmi)+[in-order](krameṇa)+[to-you](te)
+detail(viyayam) hear(śṛṇu) O-goddess(deva+īśi) I-tell(kathayāmi) in-order(krameṇa) to-you(te)
 
 ## mukta-m0-p94-v2346
-[that-gate-lord-pair](tadvāreśadvayam)+[ca](ca)+[having-worshipped](pūjayitvā)+[afterwards](paścāt)+[rites](prayogān)+[should-do](kuryāt)+[iti](iti)
+that+two-lords-of-day(tat+vāra+īśa+dvayam) and(ca) having-worshipped(pūjayitvā) afterwards(paścāt) rituals(prayogān) one-should-perform(kuryāt) thus(iti)
 
 ## mukta-m0-p94-v2347
-[with-rice-chickpea-green-gram](śālīcaṇakamudgaiḥ)+[ca](ca)+[with-barley-beans](yavamāṣaiḥ)+[ca](ca)+[by-offering](homataḥ)
+with-rice(śāli) with-chickpea(caṇaka) with-mung-bean(mudgaiḥ) and(ca) with-barley(yava) with-black-gram(māṣaiḥ) and(ca) from-oblation(homataḥ)
 
 ## mukta-m0-p94-v2348
-[from-sixth-etc](ṣaṣṭhyādi)+[ca](ca)+[to-tenth](daśamyantam)+[with-goat-born-ghee](ajābhavaghṛtaiḥ)+[thus](tathā)
+sixth+etc(ṣaṣṭhī+ādi) and(ca) ending-with-tenth(daśamī+antam) with-goat+ghee(aja+bhava+ghṛtaiḥ) likewise(tathā)
 
 ## mukta-m0-p94-v2349
-[thereafter](tadūrdhvam)+[to-fifteenth-end](pañcadaśyante)+[with-all](samastaiḥ)+[ca](ca)+[with-two-sesames](tiladvayaiḥ)
+beyond-that(tat+ūrdhvam) ending-with-fifteenth(pañcadaśī+ante) with-all(samastaiḥ) and(ca) with-two-sesames(tila+dvayaiḥ)
 
 ## mukta-m0-p94-v2350
-[by-offering](havanāt)+[that](tad)+[obtains](avāpnoti)+[which](yad)+[that](āsau)+[result](phalam)+[declared](īritam)
+from-oblation(havanāt) that(tat) obtains(avāpnoti) which(yat) by-him(asau) fruit(phalam) declared(īritam)

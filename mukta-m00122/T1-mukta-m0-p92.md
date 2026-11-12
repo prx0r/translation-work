@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p92-v2276
-[its](asyā) [from-non-fruiting](niṣphālanāt) [in-mind](citte) [that-principle](tattattvaṃ) [made-own-self](svātmasātkṛtam)
+[of-this](asyā) [from-fruitlessness](niṣphālanāt) [in-mind](citte) [that+truth](tat+tattvaṃ) [made-one's-own](svātmasātkṛtam)
 
 ## mukta-m0-p92-v2277
-[examined](parāmṛṣṭam) [examined](parāmṛṣṭam) [examined](parāmṛṣṭam) [examined](parāmṛṣṭam)
+[considered](parāmṛṣṭam)
 
 ## mukta-m0-p92-v2278
-[there](tatra) [by-others](anyaiḥ) [by-ten-prajāpati-etc](daśaprājāpatyādibhiḥ) [verse-96](96) [verse-97](97)
+[there](tatra) [by-others](anyaiḥ) [by-ten-prajāpatis+and-others](daśaprājāpatya+ādibhiḥ)
 
 ## mukta-m0-p92-v2279
-[siddha-desired-happiness-abode](siddhasamīhitasukhāspadaḥ) [siddha-desired](siddhasamīhitaḥ) [and](ca) [happiness-abode](sukhāspadaḥ) [thus-meaning](cetyarthaḥ)
+[abode-of-accomplished-desired-happiness](siddhasamīhitasukhāspadaḥ) [accomplished-desired](siddhasamīhitaḥ) [and](ca) [abode-of-happiness](sukhāspadaḥ) [and](ca) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p92-v2280
-[of-śiva-and-śakti](śivaśaktyoḥ) [of-śiva-and-śakti](śivaśaktyoḥ) [of-śiva-and-śakti](śivaśaktyoḥ) [of-śiva-and-śakti](śivaśaktyoḥ)
+[of-śiva+and-śakti](śiva+śaktyoḥ)
 
 ## mukta-m0-p92-v2281
-[seventeenth-chapter](saptadaśapaṭalaṃ) [completed](paripūrṇaṃ) [examined](parāmṛṣṭham) [completed](paripūrṇaṃ)
+[seventeenth-chapter](saptadaśapaṭalaṃ) [completed](paripūrṇaṃ) [considered](parāmṛṣṭham)
 
 ## mukta-m0-p92-v2282
-[that-rite](tadvidhānaṃ) [hear](śṛṇu) [wise-one](prājñe) [knowledge](vidyā) [previously-taught](prāguditā) [to-you](tava)
+[its-procedure](tadvidhānaṃ) [hear](śṛṇu) [O-wise-one](prājñe) [knowledge](vidyā) [previously-declared](prāguditā) [to-you](tava)
 
 ## mukta-m0-p92-v2283
-[that-yantra-uses](tadyantraviniyogāṃśca) [and](ca) [will-speak](vakṣye) [i](ahaṃ) [victory-giving](vijayapradān)
+[and-its-yantra-applications](tat+yantra+viniyogān) [and](ca) [I-shall-tell](vakṣye) [here](aham) [victory-giving](vijayapradān)
 
 ## mukta-m0-p92-v2284
-[by-remaining-two](śeṣābhyāṃ) [and](ca) [two](dvayaṃ) [should-do](kuryāt) [six-limbs](ṣaḍaṅgāni) [hands-and-limbs](karāṅgayoḥ)
+[with-the-two-remaining](śeṣābhyāṃ) [and](ca) [pair](dvayaṃ) [one-should-make](kuryāt) [six-limbs](ṣaḍaṅgāni) [on-hands+and-limbs](kara+aṅgayoḥ)
 
 ## mukta-m0-p92-v2285
-[letters](akṣarāṇi) [in-order](kramāt) [with-bindu](vinduyutāni) [other](anyat) [tu](tu) [as-before](pūrvavat)
+[syllables](akṣarāṇi) [in-order](kramāt) [joined-with-bindu](bindu+yutāni) [but-other](anyat) [indeed](tu) [as-before](pūrvavat)
 
 ## mukta-m0-p92-v2286
-[that-uses](tadviniyogāṃśca) [thus-meaning](etyarthaḥ) [that-uses](tadviniyogāṃśca) [thus-meaning](etyarthaḥ)
+[and-their-applications](tat+viniyogān) [and](ca) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p92-v2287
-[radiant-crown-placed](bhāsvanmukuṭavinyasta) [crescent-moon](candrarekhā) [shining](virājitām) [radiant-crown-placed](bhāsvanmukuṭavinyasta) [crescent-moon](candrarekhā)
+[on-shining-diadem-placed](bhāsvat+mukuṭa+vinyasta) [by-crescent-moon-adorned](candra+rekhā+virājitām)
 
 ## mukta-m0-p92-v2288
-[rising-sun-disk-like-body-radiance](udyadbhasvadbimbatulyadehakāntiṃ) [pure-smile](śucismitām) [rising-sun-disk-like-body-radiance](udyadbhasvadbimbatulyadehakāntiṃ) [pure-smile](śucismitām)
+[like-rising-radiant-orb](udyat+bhasvat+bimba+tulya) [body-luster](deha+kāntiṃ) [with-pure-smile](śuci+smitām)
 
 ## mukta-m0-p92-v2289
-[wheel](cakraṃ) [thus](tathā) [goad](aṅkuśaṃ) [sword](khaḍgaṃ) [arrow](sāyakaṃ) [citron](mātuluṅgakam)
+[discus](cakraṃ) [and](tathā) [goad](aṅkuśaṃ) [sword](khaḍgaṃ) [arrow](sāyakaṃ) [citron](mātuluṅgakam)
 
 ## mukta-m0-p92-v2290
-[in-worship](upāsane) [very-gentle](atisaumyāṃ) [ca](ca) [lion-upon](siṃhopari) [seated](kṛtāsanām) [in-worship](upāsane)
+[in-worship](upāsane) [very-gentle](atisaumyāṃ) [and](ca) [upon-lion](siṃha+upari) [made-seat](kṛtāsanām)
 
 ## mukta-m0-p92-v2291
-[in-battle](samare) [in-worship](pūjane) [others](anyeṣu) [uses](prayogeṣu) [comfortably-seated](sukhāsanām) [in-battle](samare)
+[in-battle](samare) [in-worship](pūjane) [in-other](anyeṣu) [in-applications](prayogeṣu) [seated-comfortably](sukhāsanām)
 
 ## mukta-m0-p92-v2292
-[all-goddess](sarvādevyā) [similar-form](samākāra) [face-hand-weapon](mukhapāṇyāyudhāni) [api](api) [all-goddess](sarvādevyā) [similar-form](samākāra)
+[of-all-goddesses](sarvā+devyā) [form+face+hands+weapons](samākāra+mukha+pāṇi+āyudhāni) [also](api)
 
 ## mukta-m0-p92-v2293
-[in-order](krameṇa) [placing](vinyasya) [all-form](samastarūpayā) [with-knowledge](vidyayā) [pervading](vyāpakaṃ) [ca](ca) [should-place](nyasediti)
+[in-order](krameṇa) [having-placed](vinyasya) [with-all-form](samasta+rūpayā) [with-vidyā](vidyayā) [pervasion](vyāpakaṃ) [and](ca) [one-should-place](nyaset) [thus](iti)
 
 ## mukta-m0-p92-v2294
-[for-victory-in-battle](yuddhavijayārthaṃ) [having-meditated](dhyātvā) [should-worship](pūjayedityarthaḥ) [others](anyeṣu) [in-subjugation-etc](vaśyādiṣu)
+[for-battle-victory](yuddha+vijaya+arthaṃ) [having-meditated](dhyātvā) [one-should-worship](pūjayet) [thus](iti) [meaning](arthaḥ) [in-others](anyeṣu) [in-subjugation+and-others](vaśya+ādiṣu)
 
 ## mukta-m0-p92-v2295
-[comfortably-seated](sukhāsīnāṃ) [with-retinue](saparivārāṃ) [goddess](devīṃ) [should-meditate](dhyāyediti) [comfortably-seated](sukhāsīnāṃ) [with-retinue](saparivārāṃ)
+[comfortably-seated](sukhāsīnāṃ) [with-retinue](saparivārāṃ) [goddess](devīṃ) [one-should-meditate](dhyāyet) [thus](iti)
 
 ## mukta-m0-p92-v2296
-[eight-petals](dalāṣṭakasamopetaṃ) [there](tatra) [as-before](prāgvat) [should-worship](samarcayet) [eight-petals](dalāṣṭakasamopetaṃ)
+[endowed-with-eight-petals](dala+aṣṭaka+samopetaṃ) [there](tatra) [as-before](prāgvat) [one-should-worship](samarcayet)
 
 ## mukta-m0-p92-v2297
-[its-end](tadantaśca) [thus](tathā) [lotus](padmaṃ) [sixteen-petals](ṣoḍaśacchadasaṃyutam) [its-end](tadantaśca) [thus](tathā)
+[within-that](tadantaḥ) [and](ca) [likewise](tathā) [lotus](padmaṃ) [endowed-with-sixteen-petals](ṣoḍaśa+cchada+saṃyutam)
 
 ## mukta-m0-p92-v2298
-[by-each-power](tattacchaktyā) [surrounded](vṛtāṃ) [properly](samyag) [with-offerings](upacāraistathā) [should-worship](arcayet) [by-each-power](tattacchaktyā)
+[surrounded-by-those-respective-śaktis](tat+tat+śaktyā) [encompassed](vṛtāṃ) [properly](samyak) [with-offerings](upacāraiḥ) [likewise](tathā) [one-should-worship](arcayet)
 
 ## mukta-m0-p92-v2299
-[two-offerings](balidvayaṃ) [ca](ca) [should-do](kurvīta) [worship](pūjāṃ) [ca](ca) [api](api) [should-complete](samāpayet) [two-offerings](balidvayaṃ)
+[two-offerings](bali+dvayaṃ) [and](ca) [one-should-make](kurvīta) [worship](pūjāṃ) [and](ca) [also](api) [one-should-complete](samāpayet)
 
 ## mukta-m0-p92-v2300
-[crescent-moon-shining-crown](candrakhaṇḍalasanmauliyutā) [sā](sā) [tanmayī](tanmayī) [considered](matā) [crescent-moon-shining-crown](candrakhaṇḍalasanmauliyutā) [sā](sā)
+[with-crescent-moon-shining-diadem](candra+khaṇḍa+lasat+mauli+yutā) [she](sā) [consisting-of-that](tanmayī) [considered](matā)

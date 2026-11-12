@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound = guhya+co-member",
-   "grounds": "first member of compound qualifying the place"
+   "morph": "compound=guhya+first-member",
+   "grounds": "first member of compound guhya-sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "head of compound denoting the secret location"
+   "grounds": "subject described as cakraṃ"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "introduces the manner or condition"
+   "grounds": "relative adverb introducing manner"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subject that is accomplished"
+   "grounds": "predicate identifying the secret place"
   },
   {
    "lemma": "kṣipraṃ",
    "morph": "(indecl.)",
-   "grounds": "indicates speed of accomplishment"
+   "grounds": "adverb modifying sidhyati"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.pres-act √sidh",
-   "grounds": "states the result in that secret place"
+   "morph": "3.sg.act-present √sidh",
+   "grounds": "main verb stating result"
   },
   {
    "lemma": "bhairava",
    "morph": "m.voc.sg",
-   "grounds": "vocative address to Bhairava"
+   "grounds": "vocative address"
   }
  ]
 }
