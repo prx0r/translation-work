@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p104-v2576
-cāmuṇḍā(cāmuṇḍā) ca(and) eva(indeed) vārāhī(vārāhī) lakṣmīḥ(lakṣmī) ca(and) puruṣa+ākṛtiḥ(having-male-form)
+[cāmuṇḍā](cāmuṇḍā) [and](ca) [indeed](eva) [vārāhī](vārāhī) [lakṣmī](lakṣmīḥ) [and](ca) [man+form](puruṣa+ākṛtiḥ)
 
 ## mukta-m0-p104-v2577
-bahulā(abundant) bahula+premā(having-great-love) sarva+vāhana+vāhanā(riding-all-vehicles)
+[abundant](bahulā) [abundant+love](bahula+premā) [all+vehicle+rider](sarva+vāhana+vāhanā)
 
 ## mukta-m0-p104-v2578
-madhukaiṭabha+hantrī(slayer-of-madhu-and-kaiṭabha) ca(and) caṇḍamuṇḍa+vināśinī(destroyer-of-caṇḍa-and-muṇḍa)
+[madhu-kaiṭabha+slayer](madhu+kaiṭabha+hantrī) [and](ca) [caṇḍa-muṇḍa+destroyer](caṇḍa+muṇḍa+vināśinī)
 
 ## mukta-m0-p104-v2579
-sarva+śāstra+mayī(consisting-of-all-scriptures) vidyā(knowledge) sarva+astra+dhāriṇī(bearer-of-all-weapons) tathā(likewise)
+[all+scripture+consisting-of](sarva+śāstra+mayī) [knowledge](vidyā) [all+weapon+bearing](sarva+astra+dhāriṇī) [likewise](tathā)
 
 ## mukta-m0-p104-v2580
-kumārī(maiden) ca(and) eva(indeed) kanyā(girl) ca(and) kaumārī(kaumārī) yuvatī(young-woman) yatiḥ(ascetic)
+[maiden](kumārī) [and](ca) [indeed](eva) [girl](kanyā) [and](ca) [kaumārī](kaumārī) [young-woman](yuvatī) [ascetic](yatiḥ)
 
 ## mukta-m0-p104-v2581
-yaḥ(who) idam(this) ca(and) paṭhet(should-recite) stotram(hymn) durgā+nāma+śata+aṣṭakam(hundred-and-eight-names-of-durgā)
+[who](yaḥ) [this](idam) [and](ca) [may-recite+hymn+durgā+name+hundred+eight](paṭhet+stotram+durgā+nāma+śatāṣṭakam)
 
 ## mukta-m0-p104-v2582
-dhanam(wealth) dhānyam(grain) sutān(sons) jāyām(wife) hayam(horse) hastinam(elephant) eva(indeed) ca(and)
+[wealth](dhanam) [grain](dhānyaṃ) [sons](sutān) [wife](jāyāṃ) [horse](hayaṃ) [elephant](hastinam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p104-v2583
-kumārīḥ(maidens) pūjayitvā(having-worshipped) ca(and) dhyātvā(having-meditated) devīm(goddess) sura+īśvarīm(lord-of-gods)
+[maidens](kumārīḥ) [having-worshipped](pūjayitvā) [and](ca) [having-meditated-on](dhyātvā) [goddess](devīṃ) [gods+sovereign](sura+īśvarīm)
 
 ## mukta-m0-p104-v2584
-rājānaḥ(kings) dāsatām(servitude) yānti(go) rājya+śriyam(royal-prosperity) avāpnuyāt(may-obtain)
+[kings](rājānaḥ) [servitude](dāsatāṃ) [go](yāṃti) [kingdom+fortune](rājya+śriyam) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p104-v2585
-vilikhya(having-drawn) yantram(yantra) vidhinā(according-to-rule) vidhi+jñaḥ(knower-of-rites) bhavet(should-be) sadā(always) dhārayatā(by-one-wearing) purāriḥ(enemy-of-purā)
+[having-inscribed](vilikhya) [diagram](yantram) [according-to-rule](vidhinā) [rule+knower](vidhi+jñaḥ) [may-become](bhavet) [always](sadā) [by-wearing](dhārayatā) [enemy-of-pura](purāriḥ)
 
 ## mukta-m0-p104-v2586
-vilikhya(having-written) prapaṭhet(should-recite) stotram(hymn) saḥ(he) bhavet(should-become) sampadām(of-prosperities) padam(abode)
+[having-inscribed](vilikhya) [may-recite+hymn](prapaṭhet+stotraṃ) [he](saḥ) [may-become+prosperities+abode](bhavet+sampadām+padam)
 
 ## mukta-m0-p104-v2587
-tat(that) paṭhyatā(by-being-recited) vidhānena(according-to-prescription) tadā(then) sarvam(all) bhaviṣyati(will-be)
+[by-that+being-recited](tat+paṭhyatā) [according-to-rule](vidhānena) [then](tadā) [all](sarvam) [will-be](bhaviṣyati)
 
 ## mukta-m0-p104-v2588
-tat(that) eva(indeed) nāma(name) sāhasram(thousand) dakāra+ādi(beginning-with-letter-da) vara+ānane(O-fair-faced-one)
+[that](tat) [indeed](eva) [name](nāma) [thousand](sāhasram) [beginning-with-da-kāra](dakāra+ādi) [beautiful-faced-one](varānane)
 
 ## mukta-m0-p104-v2589
-sarvāsām(of-all) pūjitam(worshipped) nāma(name) śrī+durgā+devatā(goddess-śrī-durgā) matā(considered)
+[of-all](sarvāsāṃ) [worshipped+name](pūjitam+nāma) [śrī-durgā+deity](śrī+durgā+devatā) [considered](matā)
 
 ## mukta-m0-p104-v2590
-sarva+āśā+pūraṇe(in-fulfilling-all-desires) devī(goddess) viniyogaḥ(application) prakīrttitaḥ(declared)
+[all+desires+fulfillment](sarva+āśā+pūraṇe) [goddess](devī) [application](viniyogaḥ) [declared](prakīrttitaḥ)
 
 ## mukta-m0-p104-v2591
-dundurgā(dundurgā) durgati+harā(remover-of-misfortune) durgā+jala+nivāsinī(dwelling-in-difficult-waters)
+[dundurgā](dundurgā) [difficulty+remover](durgati+harā) [fortress+water+dwelling](durga+jala+nivāsinī)
 
 ## mukta-m0-p104-v2592
-durgamārga+kṛta+āvāsā(residing-on-difficult-paths) durgamārga+jaya+priyā(fond-of-victory-on-difficult-paths)
+[difficult+path+made+dwelling](durga+mārga+kṛta+āvāsā) [difficult+path+victory+fond-of](durga+mārga+jaya+priyā)
 
 ## mukta-m0-p104-v2593
-durgamārga+stuti+parā(devoted-to-praise-on-difficult-paths) durgamārga+smṛti+parā(devoted-to-remembrance-on-difficult-paths)
+[difficult+path+praise+devoted](durga+mārga+stuti+parā) [difficult+path+remembrance+devoted](durga+mārga+smṛti+parā)
 
 ## mukta-m0-p104-v2594
-durgamārga+sthala+sthānā(stationed-in-places-of-difficult-paths) durgamārga+vilāsinī(sporting-on-difficult-paths)
+[difficult+path+place+abiding](durga+mārga+sthala+sthānā) [difficult+path+sporting](durga+mārga+vilāsinī)
 
 ## mukta-m0-p104-v2595
-durga+asura+nihantrī(slayer-of-the-demon-durga) ca(and) durga+asura+niṣūdinī(destroyer-of-the-demon-durga)
+[durga+asura+slayer](durga+asura+nihantrī) [and](ca) [durga+asura+destroyer](durga+asura+niṣūdinī)
 
 ## mukta-m0-p104-v2596
-durga+asura+vadha+unmattā(exultant-in-slaying-the-demon-durga) durga+asura+vadha+utsukā(eager-for-slaying-the-demon-durga)
+[durga+asura+slaying+intoxicated](durga+asura+vadha+unmattā) [durga+asura+slaying+eager](durga+asura+vadha+utsukā)
 
 ## mukta-m0-p104-v2597
-durga+asura+vadha+prepsuḥ(desiring-to-slay-the-demon-durga) durga+asura+makha+antakṛt(ending-the-sacrifice-of-the-demon-durga)
+[durga+asura+slaying+desiring](durga+asura+vadha+prepsuḥ) [durga+asura+sacrifice+ender+maker](durga+asura+makha+anta+kṛt)
 
 ## mukta-m0-p104-v2598
-durga+vidrāvaṇa+karī(causing-flight-from-fortresses) durga+vidrāvaṇī(putting-to-flight-from-fortresses) sadā(always)
+[fortress+routing+maker](durga+vidrāvaṇa+karī) [fortress+routing](durga+vidrāvaṇī) [always](sadā)
 
 ## mukta-m0-p104-v2599
-durga+vidhvaṃsana+karī(causing-destruction-of-fortresses) durga+daitya+nikṛntanī(cutter-down-of-fierce-demons)
+[fortress+destroying+maker](durga+vidhvaṃsana+karī) [fortress+daitya+cutting](durga+daitya+nikṛntanī)
 
 ## mukta-m0-p104-v2600
-durga+daitya+hara+trātā(protector-from-destroyer-of-fierce-demons) durga+daitya+sṛk+unmadā(intoxicated-by-blood-of-fierce-demons)
+[fortress+daitya+slaying+protector](durga+daitya+hara+trātā) [fortress+daitya+blood+exulting](durga+daitya+sṛk+unmadā)

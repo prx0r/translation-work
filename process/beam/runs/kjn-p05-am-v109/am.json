@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 109,
- "question": "Where is the breath-filled vital air said to be situated?",
+ "question": "Where is the breath-filled vital air said to be situated among living beings?",
  "premises": [
-  "The subject is the breath-filled air",
-  "This air is described as situated",
-  "Its location is in all beings"
+  "The subject is the breath-filled vital air.",
+  "It is described as situated.",
+  "Its location is in all living beings."
  ],
  "inference": "The breath-filled vital air is situated in all living beings.",
- "uncertainties": [],
+ "uncertainties": [
+  "Agreement of saṃsthitam (neuter) with vāyuḥ (masculine) may reflect textual transmission."
+ ],
  "plain_english": "The breath-filled vital air is situated in all living beings."
 }
