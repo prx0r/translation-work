@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[maintainer-maker](sthitikartā) [would-be](bhaved) [viṣṇu](viṣṇurbrahmā) [creation-doer](sṛṣṭikaraṃ) [always](sadā)
+[preserver](sthiti+kartā) [should-be](bhavet) [Viṣṇu](viṣṇuḥ) [Brahmā](brahmā) [creation-doer](sṛṣṭi+karaṃ) [always](sadā)
 
 ## mukta-m0-p08-v177
-[that-seed](tadbīje) [roasted](puṭitaṃ) [having-made](kṛtvā) [of-gods](devānāṃ) [japa](japamācaret)
+[in-that-seed](tat+bīje) [having-enclosed](puṭitaṃ) [having-done](kṛtvā) [of-gods](devānāṃ) [recitation](japam) [one-should-perform](ācaret)
 
 ## mukta-m0-p08-v178
-[otherwise](anyathā) [like-ghost](pretavacchuddhirjāyate) [purification](kamalekṣaṇe)
+[otherwise](anyathā) [like-a-corpse](preta+vat) [purity](śuddhiḥ) [arises](jāyate) [O-lotus-eyed-one](kamala+īkṣaṇe)
 
 ## mukta-m0-p08-v179
-[six-chakras](ṣaṭcakre) [supreme-lady](parameśāni) [diligently](yatnato) [japa](japamācaret)
+[in-six-chakras](ṣaṭ+cakre) [O-supreme-goddess](parama+īśāni) [with-effort](yatnataḥ) [recitation](japam) [one-should-perform](ācaret)
 
 ## mukta-m0-p08-v180
-[art-tree](kalāvṛkṣe) [equal](samo) [having-become](bhūtvā) [practitioner](sādhakaḥ) [sky-goer](khecaro) [becomes](bhavet)
+[to-wish-fulfilling-tree](kalā+vṛkṣe) [equal](samaḥ) [having-become](bhūtvā) [practitioner](sādhakaḥ) [sky-mover](khe+caraḥ) [should-become](bhavet)
 
 ## mukta-m0-p08-v181
-[minuteness](aṇimā) [subtle-form](sūkṣmarūpaṃ) [and](ca) [lightness](laghimā) [gross-form](sthūlarūpakam)
+[minuteness](aṇimā) [subtle-form](sūkṣma+rūpaṃ) [and](ca) [lightness](laghimā) [gross-form](sthūla+rūpakam)
 
 ## mukta-m0-p08-v182
-[mind-distress-causing](manaḥkleśakaraṃ) [and](ca) [indeed](eva) [manifestation](prākāśyaṃ) [lotus-faced](kamalānane)
+[mind-affliction-causing](manaḥ+kleśa+karaṃ) [and](ca) [indeed](eva) [visibility](prākāśyaṃ) [O-lotus-faced-one](kamala+ānane)
 
 ## mukta-m0-p08-v183
-[then](tadaiva) [indeed](mahimā) [goddess](devi) [my](mama) [in-knowledges](jñāneṣu) [resides](vartate)
+[then-indeed](tadā+eva) [greatness](mahimā) [O-goddess](devi) [in-my-knowledges](mama) (jñāneṣu) [exists](vartate)
 
 ## mukta-m0-p08-v184
-[universe-control-form](brahmāṇḍavaśarūpaṃ) [and](ca) [dominion](vaśitvaṃ) [told](kathitaṃ) [beloved](priye)
+[universe-control-form](brahmāṇḍa+vaśa+rūpaṃ) [and](ca) [lordship](vaśitvaṃ) [declared](kathitaṃ) [O-beloved](priye)
 
 ## mukta-m0-p08-v185
-[minuteness-etc-quality](aṇimādiguṇaṃ) [goddess](devi) [your](tava) [by-devotion](bhaktyā) [manifested](prakāśitam)
+[minuteness-etc-quality](aṇimā+ādi+guṇaṃ) [O-goddess](devi) [by-your-devotion](tava) (bhaktyā) [revealed](prakāśitam)
 
 ## mukta-m0-p08-v186
-[hear](śṛṇu) [goddess](devi) [I-will-declare](pravakṣyāmi) [of-element-purification](bhūtaśuddhestu) [indeed](kāraṇam)
+[listen](śṛṇu) [O-goddess](devi) [I-shall-declare](pravakṣyāmi) [of-element-purification](bhūta+śuddheḥ) [indeed](tu) [cause](kāraṇam)
 
 ## mukta-m0-p08-v187
-[this](etajjñānaprabhāveṇa) [by-knowledge-power](bhūtaśuddheḥ) [of-element-purification](phalaṃ) [fruit](bhavet)
+[by-power-of-this-knowledge](etat+jñāna+prabhāveṇa) [of-element-purification](bhūta+śuddheḥ) [fruit](phalaṃ) [should-be](bhavet)
 
 ## mukta-m0-p08-v188
-[thus](iti) [in-holy-element-purification-tantra](śrībhūtaśuddhitantre) [in-hara-pārvatī-dialogue](harapārvatīsaṃvāde) [fifth](pañcamaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-the-auspicious-Bhūtaśuddhi-Tantra](śrī+bhūta+śuddhi+tantre) [in-the-dialogue-of-Hara-and-Pārvatī](hara+pārvatī+saṃvāde) [fifth](pañcamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p08-v189
-[which](yajjñātvā) [having-known](parameśāni) [supreme-lady](śivo'haṃ) [śiva](mṛtyunāśakaḥ) [I](yajjñātvā) [death-destroyer](viṣṇudevaśca)
+[having-known-which](yat+jñātvā) [O-supreme-goddess](parama+īśāni) [I-am-Śiva](śivaḥ+aham) [death-destroyer](mṛtyu+nāśakaḥ)
 
 ## mukta-m0-p08-v190
-[which](yat) [having-known](jñātvā) [viṣṇu-god](viṣṇudevaśca) [and](sthiti-kartā) [maintainer-maker](śucismite) [pure-smiled](yajjñātvā)
+[having-known-which](yat+jñātvā) [Viṣṇu-god](viṣṇu+devaḥ) [and](ca) [preserver](sthiti+kartā) [O-pure-smiling-one](śuci+smite)
 
 ## mukta-m0-p08-v191
-[moon](candraḥ) [sun](sūryo) [great-lady](maheśāni) [which](yat) [having-known](jñātvā) [supreme-lady](parameśvari)
+[moon](candraḥ) [sun](sūryaḥ) [O-great-goddess](mahā+īśāni) [having-known-which](yat+jñātvā) [O-supreme-goddess](parama+īśvari)
 
 ## mukta-m0-p08-v192
-[unmanifest-formed](avyaktarūpiṇīṃ) [lovely](ramyāṃ) [yoga-accessible](yogagamyāṃ) [always](sadā) [beloved](priye)
+[unmanifest-formed](avyakta+rūpiṇīṃ) [delightful](ramyāṃ) [attainable-by-yoga](yoga+gamyāṃ) [always](sadā) [O-beloved](priye)
 
 ## mukta-m0-p08-v193
-[body](śarīraṃ) [twofold](dvividhaṃ) [goddess](devi) [gross](sthūlaṃ) [subtle](sūkṣmaṃ) [pure-smiled](śucismite)
+[body](śarīraṃ) [twofold](dvi+vidhaṃ) [O-goddess](devi) [gross](sthūlaṃ) [subtle](sūkṣmaṃ) [O-pure-smiling-one](śuci+smite)
 
 ## mukta-m0-p08-v194
-[in-feces-urine](viṇmūtrasthe) [hara](haraṃ) [and](ca) [indeed](eva) [in-wind-bile](vātapitte) [then](tu) [joined](saṅgatam)
+[in-feces-and-urine](viṇ+mūtra+sthe) [Hara](haraṃ) [and](ca) [indeed](eva) [in-wind-and-bile](vāta+pitte) [indeed](tu) [united](saṅgatam)
 
 ## mukta-m0-p08-v195
-[iḍā](iḍā) [on-left](vāme) [situated](sthitā) [nāḍī](nāḍī) [white](śuklā) [indeed](tu) [moon-formed](candrarūpiṇī)
+[iḍā](iḍā) [on-left](vāme) [situated](sthitā) [channel](nāḍī) [white](śuklā) [indeed](tu) [moon-formed](candra+rūpiṇī)
 
 ## mukta-m0-p08-v196
-[in-its-middle](tanmadhye) [supreme-lady](parameśāni) [suṣumnā](suṣumnā) [brahma-formed](brahmarūpiṇī)
+[in-its-middle](tat+madhye) [O-supreme-goddess](parama+īśāni) [suṣumnā](suṣumnā) [Brahman-formed](brahma+rūpiṇī)
 
 ## mukta-m0-p08-v197
-[from-root-to-brahma-aperture-end](mūlādibrahmarandhrāntaṃ) [pervading](vyāpya) [stands](tiṣṭhati) [always](sarvadā)
+[from-mūlādhāra-to-brahmarandhra](mūla+ādi+brahma+randhra+antaṃ) [pervading](vyāpya) [stands](tiṣṭhati) [always](sarvadā)
 
 ## mukta-m0-p08-v198
-[three](tisraḥ) [crores](koṭyaḥ) [thousand](sahasraṃ) [indeed](tu) [in-body](śarīre) [nāḍīs](nāḍyo) [considered](matāḥ)
+[three](tisraḥ) [crores](koṭyaḥ) [thousand](sahasraṃ) [indeed](tu) [in-body](śarīre) [channels](nāḍyaḥ) [considered](matāḥ)
 
 ## mukta-m0-p08-v199
-[in-left-nāḍī](vāmanāḍyāṃ) [great-lady](maheśāni) [by-air-seed](vāyubījena) [should-fill](pūrayet)
+[in-left-channel](vāma+nāḍyāṃ) [O-great-goddess](mahā+īśāni) [with-wind-seed](vāyu+bījena) [one-should-fill](pūrayet)
 
 ## mukta-m0-p08-v200
-[in-maṇipūra](maṇipūre) [great-lady](maheśāni) [sixty-four](catuḥṣaṣṭhī) [and](ca) [should-hold](dhārayet)
+[in-maṇipūra](maṇipūre) [O-great-goddess](mahā+īśāni) [sixty-four](catuḥ+ṣaṣṭhī) [and](ca) [one-should-retain](dhārayet)

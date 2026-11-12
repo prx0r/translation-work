@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing spokes"
+   "morph": "num.stem",
+   "grounds": "qualifies āraṃ"
   },
   {
    "lemma": "āraṃ",
-   "morph": "compound-member",
-   "grounds": "second member of compound qualifying paṅkajaṃ"
+   "morph": "n.acc.sg",
+   "grounds": "describes paṅkajaṃ"
   },
   {
    "lemma": "paṅkajaṃ",
@@ -20,22 +20,22 @@
   {
    "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "attribute of paṅkajaṃ"
+   "grounds": "qualifies paṅkajaṃ"
   },
   {
    "lemma": "prathama",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying aṣṭaka"
+   "morph": "n.sg.stem",
+   "grounds": "qualifies aṣṭaka"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound-member",
+   "morph": "n.sg.stem",
    "grounds": "agent of adornment"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "n.acc.sg (past-participle, √bhūṣ)",
-   "grounds": "predicate describing paṅkajaṃ"
+   "morph": "n.acc.sg.past-part/√bhūṣ",
+   "grounds": "describes paṅkajaṃ"
   }
  ]
 }

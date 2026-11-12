@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[padma+madhye](padmamadhye) [sthitam](sthitaṃ) [devam](devaṃ) [nirīham](nirīhaṃ) [śava+rūpa+vat](śavarūpavat)
+[lotus+middle](padmamadhye) [situated](sthitaṃ) [god](devaṃ) [without-effort](nirīhaṃ) [corpse+form+like](śavarūpavat)
 
 ## mukta-m0-p04-v77
-[śakti+saṃyoga+mātreṇa](śaktisaṃyogamātreṇa) [karma+kartā](karmakartā) [saḥ](sa) [ucyate](ucyate)
+[power+union+merely](śaktisaṃyogamātreṇa) [action+doer](karmakartā) [he](sa) [is-called](ucyate)
 
 ## mukta-m0-p04-v78
-[śaktim](śaktiṃ) [vinā](vinā) [maheśāni](maheśāni) [na](na) [kiñcid+api](kiñcidapi) [vartate](vartate)
+[power](śaktiṃ) [without](vinā) [o-great-goddess](maheśāni) [not](na) [anything+even](kiñcidapi) [exists](vartate)
 
 ## mukta-m0-p04-v79
-[sadāśiva+puraṃ](sadāśivapuraṃ) [devi](devi) [vaikuṇṭhaṃ](vaikuṇṭhaṃ) [paramaṃ](paramaṃ) [padam](padam)
+[sadāśiva+city](sadāśivapuraṃ) [o-goddess](devi) [vaikuṇṭha](vaikuṇṭhaṃ) [supreme](paramaṃ) [abode](padam)
 
 ## mukta-m0-p04-v80
-[sadāśivena](sadāśivena) [ca](ca) [samaṃ](samaṃ) [kṣaṇa+mātraṃ](kṣaṇamātraṃ) [ramet](ramet) [priye](priye)
+[with-sadāśiva](sadāśivena) [and](ca) [together](samaṃ) [moment+only](kṣaṇamātraṃ) [one-should-delight](ramet) [o-beloved](priye)
 
 ## mukta-m0-p04-v81
-[tena+amṛtena](tenāmṛtena) [deveśi](deveśi) [ṣaṭ+cakraṃ](ṣaṭcakraṃ) [plāvayet](plāvayet) [kramāt](kramāt)
+[by-that+nectar](tenāmṛtena) [o-goddess-of-gods](deveśi) [six+chakra](ṣaṭcakraṃ) [one-should-flood](plāvayet) [in-order](kramāt)
 
 ## mukta-m0-p04-v82
-[guhyāt](guhyād) [guhyataraṃ](guhyataraṃ) [ramyaṃ](ramyaṃ) [triṣu](triṣu) [lokeṣu](lokeṣu) [durlabham](durlabham)
+[than-secret](guhyād) [more-secret](guhyataraṃ) [delightful](ramyaṃ) [in-three](triṣu) [in-worlds](lokeṣu) [hard-to-obtain](durlabham)
 
 ## mukta-m0-p04-v83
-[prāṇa+mantreṇa](prāṇamantreṇa) [deveśi](deveśi) [śaktiṃ](śaktiṃ) [kuṇḍalinīṃ](kuṇḍalinīṃ) [parām](parām)
+[by-breath+mantra](prāṇamantreṇa) [o-goddess-of-gods](deveśi) [power](śaktiṃ) [kuṇḍalinī](kuṇḍalinīṃ) [supreme](parām)
 
 ## mukta-m0-p04-v84
-[sahasrāre](sahasrāre) [śiraḥ+padme](śiraḥpadme) [pare](pare) [brahmaṇi](brahmaṇi) [yojayet](yojayet)
+[in-thousand-petaled](sahasrāre) [in-head+lotus](śiraḥpadme) [in-supreme](pare) [in-brahman](brahmaṇi) [one-should-unite](yojayet)
 
 ## mukta-m0-p04-v85
-[tasmāt](tasmāt) [sarvāṇi](sarvāṇi) [tattvāni](tattvāni) [bīja+rūpeṇa](bījarūpeṇa) [bhāvayet](bhāvayet)
+[therefore](tasmāt) [all](sarvāṇi) [principles](tattvāni) [in-seed+form](bījarūpeṇa) [one-should-contemplate](bhāvayet)
 
 ## mukta-m0-p04-v86
-[sarva+pāpa+ātmakaṃ](sarvapāpātmakaṃ) [krūraṃ](krūraṃ) [puruṣaṃ](puruṣaṃ) [piṅga+mūrdha+jaṃ](piṅgamūrdhajam)
+[all+sin+natured](sarvapāpātmakaṃ) [fierce](krūraṃ) [person](puruṣaṃ) [tawny+haired](piṅgamūrdhajam)
 
 ## mukta-m0-p04-v87
-[daśadhā](daśadhā) [vāyum](vāyum) [utṣādya](utṣādya) [vapuḥ](vapuḥ) [pāpaṃ](pāpaṃ) [viśodhayet](viśodhayet)
+[tenfold](daśadhā) [wind](vāyum) [having-expelled](utṣādya) [body](vapuḥ) [sin](pāpaṃ) [one-should-purify](viśodhayet)
 
 ## mukta-m0-p04-v88
-[raktaṃ](raktaṃ) [vibhāvya](vibhāvya) [daśadhā](daśadhā) [taj+japāt+ca](tajjapācca) [hutāśanam](hutāśanam)
+[red](raktaṃ) [having-contemplated](vibhāvya) [tenfold](daśadhā) [by-its+recitation+and](tajjapācca) [fire](hutāśanam)
 
 ## mukta-m0-p04-v89
-[lalāṭe](lalāṭe) [vāruṇaṃ](vāruṇaṃ) [bījaṃ](bījaṃ) [śuddhaṃ](śuddhaṃ) [sañcintya](sañcintya) [taj+japāt](tajjapāt)
+[on-forehead](lalāṭe) [of-water](vāruṇaṃ) [seed](bījaṃ) [pure](śuddhaṃ) [having-contemplated](sañcintya) [by-its+recitation](tajjapāt)
 
 ## mukta-m0-p04-v90
-[sarva+vyathā+vinirmuktaṃ](sarvavyathāvinirmuktaṃ) [jātaṃ](jātaṃ) [divya+vapuḥ](divyavapuḥ) [tataḥ](tataḥ)
+[from-all+pain+freed](sarvavyathāvinirmuktaṃ) [born](jātaṃ) [divine+body](divyavapus) [then](tataḥ)
 
 ## mukta-m0-p04-v91
-[avagatya](avagatya) [dharā+bījaṃ](dharābījaṃ) [mūlādhāre](mūlādhāre) [vicintayet](vicintayet)
+[having-understood](avagatya) [earth+seed](dharābījaṃ) [in-root+support](mūlādhāre) [one-should-contemplate](vicintayet)
 
 ## mukta-m0-p04-v92
-[tataḥ](tataḥ) [sarvāṇi](sarvāṇi) [bījāni](bījāni) [tattvāni](tattvāni) [ca](ca) [śuci+smite](śucismite)
+[then](tataḥ) [all](sarvāṇi) [seeds](bījāni) [principles](tattvāni) [and](ca) [o-pure-smiling-one](śucismite)
 
 ## mukta-m0-p04-v93
-[ājñā+ādi+guṇa+padma+antaṃ](ājñādiguṇapadmāntaṃ) [saṃsthāpya](saṃsthāpya) [parameśvari](parameśvari)
+[from-command+beginning+quality+lotus+end](ājñādiguṇapadmāntaṃ) [having-established](saṃsthāpya) [o-supreme-goddess](parameśvari)
 
 ## mukta-m0-p04-v94
-[etat](etad) [rahasyaṃ](rahasyaṃ) [paramaṃ](paramaṃ) [sadā](sadā) [mama](mama) [hṛdi](hṛdi) [sthitam](sthitam)
+[this](etad) [secret](rahasyaṃ) [supreme](paramaṃ) [always](sadā) [my](mama) [in-heart](hṛdi) [situated](sthitam)
 
 ## mukta-m0-p04-v95
-[bījaṃ](bījaṃ) [kuṇḍalinīṃ](kuṇḍalinīṃ) [devi](devi) [ājñā+cakraṃ](ājñācakraṃ) [samānayet](samānayet)
+[seed](bījaṃ) [kuṇḍalinī](kuṇḍalinīṃ) [o-goddess](devi) [to-command+chakra](ājñācakraṃ) [one-should-lead](samānayet)
 
 ## mukta-m0-p04-v96
-[pañcāśat+mātṛkā+mantraṃ](pañcāśanmātṛkāmantraṃ) [daśadhā](daśadhā) [prajapet](prajapet) [priye](priye)
+[fifty+mātṛkā+mantra](pañcāśanmātṛkāmantraṃ) [tenfold](daśadhā) [one-should-recite](prajapet) [o-beloved](priye)
 
 ## mukta-m0-p04-v97
-[lambayet](lambayet) [parameśāni](parameśāni) [jīvaṃ](jīvaṃ) [kuṇḍalinī+saha](kuṇḍalinīsaha)
+[one-should-cause-to-descend](lambayet) [o-supreme-goddess](parameśāni) [individual-soul](jīvaṃ) [with-kuṇḍalinī](kuṇḍalinīsaha)
 
 ## mukta-m0-p04-v98
-[tad+cakre](taccakre) [parameśāni](parameśāni) [mātṛkā+varṇaṃ](mātṛkāvarṇam) [uttamam](uttamam)
+[in-that+chakra](taccakre) [o-supreme-goddess](parameśāni) [mātṛkā+letter](mātṛkāvarṇam) [supreme](uttamam)
 
 ## mukta-m0-p04-v99
-[sarvaṃ](sarvaṃ) [hi](hi) [manasā](manasā) [kāryaṃ](kāryaṃ) [manaḥ](manaḥ) [sarva+artha+sādhakam](sarvārthasādhakam)
+[all](sarvaṃ) [indeed](hi) [by-mind](manasā) [to-be-done](kāryaṃ) [mind](manaḥ) [all+purpose+accomplishing](sarvārthasādhakam)
 
 ## mukta-m0-p04-v100
-[lambayet](lambayet) [praṇavaiḥ](praṇavairdevi) [purīṃ[prati]dhvanimayīṃ](purīṃ[prati]dhvanimayīṃ) [prati](prati)
+[one-should-cause-to-descend](lambayet) [by-praṇavas](praṇavaiḥ) [o-goddess](devi) [city](purīṃ) [toward+sound+made](prati+dhvanimayīṃ) [toward](prati)

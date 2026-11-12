@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[pure](viśuddhaṃ) [spotless](nirmalaṃ) [pure](śuddhaṃ) [with-sixteen-vowels](ṣoḍaśasvarasaṃyutam)
+[pure](viśuddhaṃ) [stainless](nirmalaṃ) [clean](śuddhaṃ) [sixteen](ṣoḍaśa) + [vowel](svara) + [endowed-with](saṃyutam)
 
 ## mukta-m0-p03-v52
-[of-it](tasya) [in-middle](madhye) [situated](sthitaṃ) [goddess](devi) [space](ākāśaṃ) [shakti-formed](śaktirūpiṇam)
+[of-that](tasya) [in-middle](madhye) [situated](sthitaṃ) [O-goddess](devi) [ether](ākāśaṃ) [power](śakti) + [form](rūpiṇam)
 
 ## mukta-m0-p03-v53
-[mind](manastatra) [there](tatra) [great-lady](maheśāni) [charioteer](sārathiḥ) [everywhere](sarvataḥ) [always](sadā)
+[mind](manaḥ) + [there](tatra) [O-great-goddess](maheśāni) [charioteer](sārathiḥ) [everywhere](sarvataḥ) [always](sadā)
 
 ## mukta-m0-p03-v54
-[vowel](svaraṃ) [and](ca) [sixteenth](ṣoḍaśaṃ) [goddess](devi) [with-half-bindu](bindvardhasaṃyutaṃ) [make](kuru)
+[vowel](svaraṃ) [and](ca) [sixteen](ṣoḍaśaṃ) [O-goddess](devi) [bindu](bindu) + [ardha](ardha) + [endowed-with](saṃyutaṃ) [make](kuru)
 
 ## mukta-m0-p03-v55
-[from-east-etc](pūrvādikramato) [goddess](devi) [tenfold](daśadhā) [recite](prajapet) [beloved](priye)
+[east](pūrva) + [etc.](ādi) + [in-order](kramataḥ) [O-goddess](devi) [ten-times](daśadhā) [should-mutter](prajapet) [O-beloved](priye)
 
 ## mukta-m0-p03-v56
-[burn](dahet) [its](tasya) [from-recitation](japād) [goddess](devi) [grass](tṛṇaṃ) [fire](vahniryathā) [as-burns](dahet)
+[burns](dahet) [of-that](tasya) [from-muttering](japāt) [O-goddess](devi) [grass](tṛṇaṃ) [fire](vahniḥ) + [as](yathā) [burns](dahet)
 
 ## mukta-m0-p03-v57
-[that-city](tatpurīṃ) [supreme-lady](parameśāni) [two-petaled](dvidalaṃ) [pair-lettered](yugavarṇakam)
+[that](tat) + [city](purīṃ) [O-supreme-goddess](parameśāni) [two](dvi) + [petaled](dalaṃ) [pair](yuga) + [lettered](varṇakam)
 
 ## mukta-m0-p03-v58
-[with-half-bindu](bindvardhasaṃyutaṃ) [having-made](kṛtvā) [practitioner](sādhako) [recitation-perform](japamācaret)
+[bindu](bindu) + [ardha](ardha) + [endowed-with](saṃyutaṃ) [having-made](kṛtvā) [practitioner](sādhakaḥ) [muttering](japam) + [should-perform](ācaret)
 
 ## mukta-m0-p03-v59
-[command](ājñāṃ) [city](purīṃ) [lead](nayet) [quickly](śīghraṃ) [mind](mano) [in-mind](manasi) [meditation](bhāvanam)
+[command](ājñāṃ) [city](purīṃ) [should-lead](nayet) [quickly](śīghraṃ) [mind](manaḥ) [in-mind](manasi) [contemplation](bhāvanam)
 
 ## mukta-m0-p03-v60
-[of-guru-command](gurorājñādhāraṇāt) [tu](tu) [command-city](ājñāpuramimaṃ) [this](imaṃ) [remembered](smṛtam)
+[guru](guruḥ) + [command](ājñā) + [holding](dhāraṇāt) [indeed](tu) [command](ājñā) + [city](puram) + [this](imaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p03-v61
-[thus](evaṃ) [creation](prapañcaṃ) [having-pierced](bhittvā) [indeed](vai) [kundalini](kuṇḍalīṃ) [with-jiva](jīvasaṃyutām)
+[thus](evaṃ) [manifestation](prapañcaṃ) [having-pierced](bhittvā) [indeed](vai) [kuṇḍalī](kuṇḍalīṃ) [individual-soul](jīva) + [united-with](saṃyutām)
 
 ## mukta-m0-p03-v62
-[with-five-pranas](pañcaprāṇasamāyuktā) [with-twenty-four](caturviṃśatisaṃyutā)
+[five](pañca) + [vital-airs](prāṇa) + [united-with](samāyuktā) [twenty-four](caturviṃśati) + [united-with](saṃyutā)
 
 ## mukta-m0-p03-v63
-[intellect-ego-mind](buddhyahaṅkāracittāni) [lead](nayet) [to-shiva-city](śivapuraṃ) [toward](prati)
+[intellect](buddhi) + [ego](ahaṅkāra) + [mind](cittāni) [should-lead](nayet) [Śiva](śiva) + [city](puraṃ) [towards](prati)
 
 ## mukta-m0-p03-v64
-[there](tatra) [having-gone](gatvā) [great-lord](maheśāna) [kundalini](kuṇḍalī) [what-did](kimakarot) [lord](prabho)
+[there](tatra) [having-gone](gatvā) [O-great-lord](maheśāna) [kuṇḍalī](kuṇḍalī) [what](kim) + [did](akarot) [O-lord](prabho)
 
 ## mukta-m0-p03-v65
-[by-senses](indriyairakṣarairdevi) [by-letters](akṣarairdevi) [goddess](devi) [oneness](ekatvaṃ) [arises](jāyate) [when](yadā)
+[with-senses](indriyaiḥ) + [with-syllables](akṣaraiḥ) + [O-goddess](devi) [oneness](ekatvaṃ) [arises](jāyate) [when](yadā)
 
 ## mukta-m0-p03-v66
-[all-self-enclosure](sarvātmasampuṭaṃ) [goddess](devi) [all-knowledge-holding](sarvavidyābhidhāraṇam)
+[all](sarva) + [self](ātma) + [enclosure](sampuṭaṃ) [O-goddess](devi) [all](sarva) + [knowledge](vidyā) + [holding](abhidhāraṇam)
 
 ## mukta-m0-p03-v67
-[thus](iti) [shri-bhuta-shuddhi-tantra](śrībhūtaśuddhitantre) [hara-gauri-dialogue](haragaurīsaṃvāde) [second](dvitīyaḥ) [chapter](paṭalaḥ)
+[thus](iti) [in-the-venerable](śrī) + [Bhūtaśuddhi-tantra](bhūtaśuddhitantre) [in-the-dialogue-of-Hara-and-Gaurī](haragaurīsaṃvāde) [second](dvitīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p03-v68
-[from-secret](guhyād) [more-secret](guhyataraṃ) [goddess](devi) [very-hidden](sugopyaṃ) [in-three-worlds](bhuvanatraye)
+[than-secret](guhyād) [more-secret](guhyataraṃ) [O-goddess](devi) [well-hidden](sugopyaṃ) [in-the-three-worlds](bhuvanatraye)
 
 ## mukta-m0-p03-v69
-[having-enveloped](saṃveṣṭya) [supreme](paramā) [goddess](devī) [where-resides](yatrāste) [supreme-lady](parameśvari)
+[having-enveloped](saṃveṣṭya) [supreme](paramā) [goddess](devī) [where](yatra) + [dwells](āste) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p03-v70
-[from-a-to-ksha](akārādikṣakārāntāḥ) [in-all-seed](sarvabīje) [employ](niyojayet)
+[beginning-with-a](akāra) + [etc.](ādi) + [ending-with-kṣa](kṣakāra) + [ending](antāḥ) [in-all](sarva) + [seed](bīje) [should-place](niyojayet)
 
 ## mukta-m0-p03-v71
-[having-recited](prajapya) [tenfold](daśadhā) [goddess](devi) [supreme-kundalini](kuṇḍalīṃ) [go](paramāṃ) [vrajet](vrajet)
+[having-muttered](prajapya) [ten-times](daśadhā) [O-goddess](devi) [kuṇḍalī](kuṇḍalīṃ) [supreme](paramāṃ) [should-go](vrajet)
 
 ## mukta-m0-p03-v72
-[with-thousand-petals](sahasradalasaṃyuktaṃ) [lotus](padmaṃ) [eternal-agama](nityāgamaṃ) [beloved](priye)
+[thousand](sahasra) + [petal](dala) + [endowed-with](saṃyuktaṃ) [lotus](padmaṃ) [eternal](nitya) + [tradition](āgamaṃ) [O-beloved](priye)
 
 ## mukta-m0-p03-v73
-[sadashiva](sadāśivo) [great-lady](maheśāni) [where-resides](yatrāste) [supreme-lady](parameśvari)
+[Sadāśiva](sadāśivaḥ) [O-great-goddess](maheśāni) [where](yatra) + [dwells](āste) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p03-v74
-[shiva](śivaṃ) [having-obtained](prāpya) [great-lady](maheśāni) [kundalini](kuṇḍalī) [in-shiva-presence](śivasannidhau)
+[Śiva](śivaṃ) [having-reached](prāpya) [O-great-goddess](maheśāni) [kuṇḍalī](kuṇḍalī) [in-the-presence-of-Śiva](śivasannidhau)
 
 ## mukta-m0-p03-v75
-[everywhere](sarvatra) [enclosure](sampuṭaṃ) [having-given](dattvā) [delude](mohayet) [supreme](paramaṃ) [shiva](śivam)
+[everywhere](sarvatra) [enclosure](sampuṭaṃ) [having-given](dattvā) [deludes](mohayet) [supreme](paramaṃ) [Śiva](śivam)

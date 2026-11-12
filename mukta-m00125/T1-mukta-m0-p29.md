@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-entering city+etc teacher disciple indeed or
+[having-entered](praviśya) [city+and-so-on+but](nagarādyantu) [teacher](deśikaś) [disciple](śiṣya) [indeed](eva) [or](vā)
 
 ## mukta-m0-p29-v702
-sweet-ball sweet-ball mung-sweet jaggery roasted-grain to-Ganesha
+[sweet-ball](laḍḍukaṃ) [sweet-cake](modakaṃ) [made-of-mung-bean](maudgaṃ) [jaggery](gulaṃ) [parched-flour](saktuṃ) [to-Gaṇeśvara](gaṇeśvare)
 
 ## mukta-m0-p29-v703
-Brahma-pleasing this given second-day mentioned
+[dear-to-Brahmā](brahma+priyam) [this](idaṃ) [to-be-given](deyaṃ) [on-second+day](dvitīye+hani) [declared](kīrtitam)
 
 ## mukta-m0-p29-v704
-third-day to-be-given beings pleasure-causing
+[on-third+day](tṛtīye+hani) [to-be-given](dātavyaṃ) [of-beings](bhūtānāṃ) [for-satisfaction+cause](prīti+kāraṇam)
 
 ## mukta-m0-p29-v705
-fourth-day to-be-given gandharva-pleasing indeed and
+[on-fourth+day](caturthe+hani) [to-be-given](dātavyaṃ) [dear-to-Gandharvas](gandharva+priyam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p29-v706
-fifth-day to-be-given Indra-pleasing becomes
+[on-fifth+day](pañcame+hani) [to-be-given](dātavyaṃ) [dear-to-Indra](indra+priya) [causing](karaṃ) [should-be](bhavet)
 
 ## mukta-m0-p29-v707
-sixth-day to-be-given sages pleasure-accomplishment
+[on-sixth+day](ṣaṣṭhe+hani) [to-be-given](pradātavyaṃ) [of-seers](ṛṣīṇāṃ) [for-satisfaction+accomplishment](prīti+siddhaye)
 
 ## mukta-m0-p29-v708
-seventh-day to-be-given Shri pleasure-causing becomes
+[on-seventh+day](saptame+hani) [to-be-given](dātavyaṃ) [of-Śrī](śriyaḥ) [satisfaction-causing](prīti+karaṃ) [should-be](bhavet)
 
 ## mukta-m0-p29-v709
-eighth-day to-be-given rakshasa pleasure-accomplishment
+[on-eighth+day](aṣṭame+hani) [to-be-given](dātavyaṃ) [of-Rākṣasas](rākṣasaḥ) [for-satisfaction+accomplishment](prīti+siddhaye)
 
 ## mukta-m0-p29-v710
-ninth-day to-be-given Shiva-pleasing becomes
+[on-ninth+day](navame+hani) [to-be-given](dātavyaṃ) [dear-to-Śiva](śiva+prīti) [causing](karaṃ) [should-be](bhavet)
 
 ## mukta-m0-p29-v711
-pure-rice+curd joined sweet-ball+cake joined
+[pure-rice](śuddha+annam) [with-curd+joined](dadhi+saṃyuktaṃ) [with-sweet-balls+cakes+joined](laḍḍuka+āpūpa+saṃyutam)
 
 ## mukta-m0-p29-v712
-fruits and night-powder ghee-rice curd-roasted-grain
+[with-fruits](phalaiśca) [turmeric-powder](rajanī+cūrṇaṃ) [ghee-rice](ghṛta+annaṃ) [curd+parched-flour](dadhi+saktukam)
 
 ## mukta-m0-p29-v713
-to-beings krisara declared by-that to-them offering becomes
+[to-beings](bhūtebhyaḥ) [rice-and-sesame-dish](kṛsaraḥ) [declared](proktaḥ) [by-that](tena) [to-them](tebhyo) [offering](balir) [should-be](bhavet)
 
 ## mukta-m0-p29-v714
-banana-fruit joined to-sages offering perform
+[with-banana+fruit+joined](kadalī+phala+saṃyuktaṃ) [to-seers](ṛṣibhyo) [offering](balim) [one-should-perform](ācaret)
 
 ## mukta-m0-p29-v715
-fourth-day to-be-given Indra's indeed satisfaction
+[on-fourth+day](caturthe+'hani) [to-be-given](dātavyaṃ) [of-Śakra](śakrasyāsya) [indeed](tu) [for-satisfaction](tṛptaye)
 
 ## mukta-m0-p29-v716
-fifth-day to-be-given Brahma-pleasing becomes
+[on-fifth+day](pañcame+hani) [to-be-given](dātavyaṃ) [dear-to-Brahmā](brahma+prīti) [causing](karaṃ) [should-be](bhavet)
 
 ## mukta-m0-p29-v717
-sixth-day to-be-given Vishnu-pleasure-increase
+[on-sixth+day](ṣaṣṭhe+hani) [to-be-given](pradātavyaṃ) [of-Viṣṇu+satisfaction+increase](viṣṇu+prīti+vivṛddhaye)
 
 ## mukta-m0-p29-v718
-seventh-day to-be-given Shiva-pleasing becomes
+[on-seventh+day](saptame+hani) [to-be-given](dātavyaṃ) [dear-to-Śiva](śiva+prīti) [causing](karaṃ) [should-be](bhavet)
 
 ## mukta-m0-p29-v719
-eighth-day to-be-given Ishvara-pleasure-accomplishment
+[on-eighth+day](aṣṭame+hani) [to-be-given](nidātavyam) [of-Īśvara+satisfaction+accomplishment](īśvara+prīti+siddhaye)
 
 ## mukta-m0-p29-v720
-ninth-day to-be-given Chandesa-pleasure-cause
+[on-ninth+day](navame+hani) [to-be-given](dātavyaṃ) [of-Caṇḍeśa+satisfaction+cause](caṇḍeśa+prīti+hetave)
 
 ## mukta-m0-p29-v721
-spoken otherwise upward indeed told twelve-day
+[declared](kathitāni) [from-here](ata) [above+but](ūrdhvantu) [is-told](kathyate) [in-twelve-day-period](dvādaśāhake)
 
 ## mukta-m0-p29-v722
-first-day to-be-given obstacle-mantra remembering
+[on-first+day](prathame+hani) [to-be-given](dātavyaṃ) [obstacle-mantra](vighna+mantram) [remembering](anusmaran)
 
 ## mukta-m0-p29-v723
-ghee-fish joined hibiscus-flower joined
+[with-ghee+fish+joined](ghṛta+matsya+samāyuktaṃ) [with-japā-flower+joined](japā+kusuma+saṃyutam)
 
 ## mukta-m0-p29-v724
-rice-pudding roasted-grain+flower and lotus-flower joined
+[milk-rice](pāyasaṃ) [parched-flour+flower](saktu+puṣpañca) [with-lotus-flower+accompanied](padma+puṣpa+samanvitam)
 
 ## mukta-m0-p29-v725
-krisara-rice ghee roasted-grain sweet-balls and joined
+[sesame-rice](kṛsara+annaṃ) [ghee](ghṛtaṃ) [parched-flour](saktu) [with-sweet-balls](laḍḍukaiśca) [accompanied](samanvitam)
