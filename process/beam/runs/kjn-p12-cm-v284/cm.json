@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "jananī",
-   "morph": "f.nom.sg",
-   "grounds": "subject of comparison"
-  },
-  {
-   "lemma": "jāra",
-   "morph": "compound:jāra+first",
+   "morph": "compound: jananī+first",
    "grounds": "first member of compound"
   },
   {
+   "lemma": "jāra",
+   "morph": "compound: jāra+middle",
+   "grounds": "middle member of compound"
+  },
+  {
    "lemma": "garbham",
-   "morph": "compound:garbha+second;m.acc.sg",
-   "grounds": "origin of child"
+   "morph": "compound: garbha+final, m.acc.sg",
+   "grounds": "final member of compound"
   },
   {
    "lemma": "tu",
@@ -25,11 +25,11 @@
   {
    "lemma": "svaputraṃ",
    "morph": "m.acc.sg",
-   "grounds": "object to be protected"
+   "grounds": "sva + putra"
   },
   {
    "lemma": "gopayet",
-   "morph": "3.sg.act-optative √gup",
+   "morph": "3.sg.optative-active √gup",
    "grounds": "injunction"
   },
   {

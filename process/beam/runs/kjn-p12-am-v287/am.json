@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 287,
- "question": "How is the yogin's non-attachment illustrated by the lotus-leaf analogy?",
+ "question": "How is the liberated yogin's non-attachment illustrated by a natural analogy?",
  "premises": [
-  "Water rests on a lotus leaf without adhering to it.",
-  "This image serves as an analogy.",
-  "The yogin is likewise not tainted."
+  "Water rests on a lotus leaf.",
+  "The lotus leaf is not tainted by the water.",
+  "The same non-tainting applies to the yogin."
  ],
- "inference": "Just as water does not cling to a lotus leaf, the yogin is not tainted.",
- "uncertainties": [],
+ "inference": "Just as water does not taint a lotus leaf, so the yogin is not tainted.",
+ "uncertainties": [
+  "The subject of 'lipyate' is implied from context."
+ ],
  "plain_english": "Just as water on a lotus leaf does not cling, so too one is not tainted."
 }

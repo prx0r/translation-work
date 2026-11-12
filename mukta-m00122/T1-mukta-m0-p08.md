@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-not if-that-power-transfer how-his will-be
+[not](na) [if](cet) [that+power+transmission](tat+śakti+saṅkrāntiḥ) [how](katham) [of-him](asya) [will-be](bhaviṣyati)
 
 ## mukta-m0-p08-v177
-gold ornament cloth house or other-desired
+[gold](suvarṇaṃ) [ornament](bhūṣaṇaṃ) [garment](vāso) [dwelling](bhavanaṃ) [or](vā) [other+desired](anya+dīpsitam)
 
 ## mukta-m0-p08-v178
-his-activity-end-that-consent-only do thus-meaning
+[own+activity](sva+vyāpāra) [that+approved](tat+anumatam) [indeed](eva) [should-do](kuryāt) [thus+meaning](iti+arthaḥ)
 
 ## mukta-m0-p08-v179
-always-that-one then-dependent by-that success-will-be
+[always](sarvadā) [he](asau) [then+dependent](tadā+āyattaḥ) [by-that](tena) [success](siddhiḥ) [will-be](bhaviṣyati)
 
 ## mukta-m0-p08-v180
-five-six-peak-vidya-by purified many-days
+[by-five+six+syllable+vidyās](pañca+ṣaṭ+kūṭa+vidyābhyāṃ) [purified](śodhitaṃ) [by-many+days](bahu+vāsaraiḥ)
 
 ## mukta-m0-p08-v181
-in-support heart head circle contemplate middle
+[in-base](ādhāre) [in-heart](hṛdaye) [on-head](mūrdhni) [wheel](cakraṃ) [having-contemplated](sañcintya) [in-middle](madhyataḥ)
 
 ## mukta-m0-p08-v182
-thirty vidya speak ear goddess-soul full-minded
+[thirtieth](triṃśo) [vidyā](vidyāṃ) [should-speak](vadet) [in-ear](karṇe) [goddess+self](devī+ātmā) [full+minded](pūrṇa+mānasaḥ)
 
 ## mukta-m0-p08-v183
-hundred chant that-front-staying near three-days dwell
+[hundred](śataṃ) [should-mutter](japet) [that+in-front+standing](tat+agra+sthaḥ) [near](nikaṭe) [three+days](tri+dinaṃ) [should-dwell](vaset)
 
 ## mukta-m0-p08-v184
-therefore that-near that worship-command-etc-doer-become
+[from-that](tasmāt) [in-his-presence](tat+antike) [his](tasya) [worship+instruction+etc.+doer](pūjā+deśa+ādi+kṛt) [should-be](bhavet)
 
 ## mukta-m0-p08-v185
-then-then beginning that-dependent-wealth-etc
+[then](tataḥ) [from-that-time](tadā) [having-begun](samārabhya) [on-him+dependent](tat+āyatta) [by-wealth+etc.](dhana+ādibhiḥ)
 
 ## mukta-m0-p08-v186
-grace-etc do for-success not-otherwise be
+[favor+etc.](anugraha+ādi) [should-do](kurvīta) [for-success](siddhaye) [not](na) [otherwise](anyathā) [would-be](bhavet)
 
 ## mukta-m0-p08-v187
-decoction-waters filling bathing speak-mantra
+[with-decoction+waters](kvātha+udakaiḥ) [having-filled](samāpuryā) [having-sprinkled](abhiṣicya) [with-these](ābhiḥ) [should-speak](vadet) [mantra](manum)
 
 ## mukta-m0-p08-v188
-second-abhisheka do goddess-soul-success
+[second](dvitīyam) [sprinkling](abhiṣekam) [indeed](tu) [should-perform](kuryāt) [for-goddess+self+accomplishment](devī+ātma+siddhaye)
 
 ## mukta-m0-p08-v189
-triangles make here middle pot place
+[triangles](trikoṇāni) [having-made](vidhāya) [here](atra) [in-middle](madhye) [pot](kumbhaṃ) [indeed](tu) [should-place](vinyaset)
 
 ## mukta-m0-p08-v190
-wealth-etc thus here etc-word house-field-etc said
+[by-wealth+etc.](dhana+ādibhiḥ) [thus](iti) [here](atra) [by-etc.+word](ādi+śabdena) [house+field+etc.](gṛha+kṣetra+ādīni) [are-stated](ucyante)
 
 ## mukta-m0-p08-v191
-filled khari-water boiled letter-herbs
+[filled](pūritaṃ) [with-khārī+water](khārī+toyena) [boiled](kvathitena) [with-akṣara+herbs](akṣara+auṣadhaiḥ)
 
 ## mukta-m0-p08-v192
-gold copper cloths wrap
+[gold-pieces](hiraṇyāni) [with-copper](sa+tāmrāṇi) [with-two-cloths](vāsobhyām) [should-wrap](abhiveṣṭayet)
 
 ## mukta-m0-p08-v193
-indra-creeper-bound citron-fruit-included
+[with-śatakratu+creeper+bound](śatakratu+latā+baddhaiḥ) [with-citron+fruits+endowed](mātuluṅga+phala+anvitaiḥ)
 
 ## mukta-m0-p08-v194
-with thousand thirty-six five-numbers order-stated
+[with-half](sārddhaṃ) [thousand](sahasraṃ) [thirty-six](ṣaṭtriṃśat) [five+numbers](pañca+saṃkhyāḥ) [in-order+stated](krama+uditāḥ)
 
 ## mukta-m0-p08-v195
-time-soul-eternal-mantra-parts chant previous-day
+[kālātmā+nityā+mantras](kālātma+nityā+mantrān) [and](ca) [having-muttered](japitvā) [on-previous+day](pūrva+vāsare)
 
 ## mukta-m0-p08-v196
-thousand chant-after homa do all-around
+[thousand](sahasraṃ) [should-mutter](prajapet) [afterwards](paścāt) [oblation](homaṃ) [having-done](kṛtvā) [all-around](samantataḥ)
 
 ## mukta-m0-p08-v197
-joyful yogini-groups one-by-one deity-souls
+[by-delighted](muditaiḥ) [by-yoginī+groups](yoginī+vṛndaiḥ) [one-by-one](ekaikaṃ) [by-deity+self](devatā+ātmabhiḥ)
 
 ## mukta-m0-p08-v198
-own-order his tell then from-he also him
+[own+method](sva+kramaṃ) [to-him](tasya) [should-tell](kathayet) [from-that-time](tadā) [beginning](prabhṛti) [he](saḥ) [also](api) [him](tam)
 
 ## mukta-m0-p08-v199
-thousand chant vidya abhisheka-accompanied
+[thousand](sahasraṃ) [should-mutter](prajapet) [vidyā](vidyām) [with-sprinkling+accompanied](abhiṣeka+samanvitam)
 
 ## mukta-m0-p08-v200
-in-them powers invoke worship-abhisheka
+[in-them](teṣu) [powers](śaktīḥ) [having-invoked](samāvāhya) [having-worshipped](sampūjya) [thus](eva) [should-sprinkle](abhiṣecayet)

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 292,
- "question": "How is the sacred offering regarded by siddhas and yoginis?",
+ "question": "To whom is the sacred offering especially dear at all times?",
  "premises": [
-  "Siddhas and yoginis are mentioned together.",
-  "This caru offering is the object of regard.",
-  "It is always dear to them."
+  "The offering is dear to siddhas.",
+  "The offering is dear to yoginīs.",
+  "This is always the case."
  ],
- "inference": "This sacred caru offering is always dear to the siddhas and yoginis.",
- "uncertainties": [],
- "plain_english": "This caru is always dear to the siddhas and the yoginis."
+ "inference": "This sacred offering is always dear to the siddhas and the yoginīs.",
+ "uncertainties": [
+  "The predicate is implied from context."
+ ],
+ "plain_english": "This sacred offering is always dear to the siddhas and the yoginīs."
 }
