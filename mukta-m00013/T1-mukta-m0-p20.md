@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[truth-etc](satyādi) [five-short-vowels](pañca+hrasva) [endowed-with](āḍhyā) [to-be-placed](nyastavyā) [element](bhūta) [splendors](saṃprabhāḥ)
+[truth-etc](satyādi) [five-short-vowels-endowed](pañcahrasvāḍhyā) [to-be-placed](nyastavyā) [element-luminous](bhūtasaṃprabhāḥ)
 
 ## mukta-m0-p20-v477
-[everywhere](sarvatra) [hand](kara) [limb](aṅga) [placement](nyāse) [thus](evam) [order](kramaḥ)
+[everywhere](sarvatra) [in-hand-limb-nyāsa](karāṅganyāse) [thus](evam) [sequence](kramaḥ)
 
 ## mukta-m0-p20-v478
-[to-be-placed](nyastavyam) [on-face](vadane) [root-mantra](mūlam) [again](bhūyaḥ) [and-this](ca+etām) [on-breasts](stanau) [one-should-place](nyaset)
+[to-be-placed](nyastavyaṃ) [on-face](vadane) [root-mantra](mūlaṃ) [again](bhūyaḥ) [and-this](ca+etāṃ) [on-breasts](stanau) [one-should-place](nyaset)
 
 ## mukta-m0-p20-v479
-[left-shoulder](savya+aṃse) [pair-of-sides](parśva+yugale) [navel-region](nābhi+deśe) [and](ca) [teacher](deśikaḥ)
+[on-left-shoulder](savyāṃse) [on-both-sides](parśvayugale) [on-navel-region](nābhideśe) [and](ca) [teacher](deśikaḥ)
 
 ## mukta-m0-p20-v480
 [thus](evam) [everywhere](sarvatra)
 
 ## mukta-m0-p20-v481
-[thus](evam) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [external-worship](vahiḥ+pūjām) [one-should-begin](ārabheta)
+[thus](evam) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [external-worship](vahiḥpūjām) [one-should-begin](ārabheta)
 
 ## mukta-m0-p20-v482
-[square](caturasram) [four-doored](catur+dvāram) [thus](evam) [diagram](maṇḍalam) [one-should-draw](ālikhet)
+[four-cornered](caturasraṃ) [four-doored](caturdvāram) [thus](evam) [maṇḍala](maṇḍalam) [one-should-draw](ālikhet)
 
 ## mukta-m0-p20-v483
-[everywhere](sarvatra) [with-praṇava-in-beginning](praṇava+ādi) [with-namas-at-end](namaḥ+antena) [one-should-worship](pūjayet)
+[everywhere](sarvatra) [with-praṇava-beginning-namas-ending](praṇavādinamo'ntena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p20-v484
-[with-vehicle](sa+vāhanāya) [thus](iti) [Kramadīpikā](krama+dīpikā)
+[with-vehicle](savāhanāya) [thus](iti) [Kramadīpikā](kramadīpikā)
 
 ## mukta-m0-p20-v485
-[of-this](asya) [preliminary-rite](puraścaraṇam) [thirty-two-lakh](dvātriṃśat+lakṣa) [recitation](japaḥ)
+[of-this](asya) [preliminary-rite](puraścaraṇaṃ) [thirty-two-lakh-recitation](dvātriṃśallakṣajapaḥ)
 
 ## mukta-m0-p20-v486
-[with-three-sweets](tri+svādu) [mixed](yuktaiḥ) [one-should-offer](juhuyāt) [with-eight-substances](aṣṭa+dravyaiḥ) [one-tenth](daśa+aṃśataḥ)
+[with-three-sweet-mixed](trisvāduryuktaiḥ) [one-should-offer](juhuyāt) [with-eight-substances](aṣṭadravyaiḥ) [by-tenth-part](daśāṃśataḥ)
 
 ## mukta-m0-p20-v487
-[three-sweets](tri+svādu) [thus](iti) [ghee-honey-sugar](ghṛta+madhu+śarkarāḥ) [thus](iti)
+[three-sweet](trisvād) [thus](iti) [ghee-honey-sugar](ghṛtamadhuśarkarā) [thus](iti)
 
 ## mukta-m0-p20-v488
-[six-limbs](ṣaṭ+aṅgāni) [of-this-mantra](manoḥ+asya) [with-affix](jāti+yuktena) [teacher](deśikaḥ)
+[six-limbs](ṣaḍaṅgāni) [of-this-mantra](manorasya) [with-gender-affix](jātiyuktena) [teacher](deśikaḥ)
 
 ## mukta-m0-p20-v489
-[gentle](saumyām) [jewel-pot](ratna+ghaṭa) [standing-on-left-foot](stha+savya+caraṇām) [one-should-meditate](dhyāyet) [supreme](parām) [mother-goddess](ambikām)
+[gentle](saumyāṃ) [jewel-pot-standing-left-footed](ratnaghaṭasthasavyacaraṇāṃ) [one-should-meditate](dhyāyet) [supreme](parām) [mother-goddess](ambikām)
 
 ## mukta-m0-p20-v490
-[one-tenth-of-that](tat+daśa+aṃśam) [one-should-offer](juhuyāt) [practitioner](mantrī) [on-seat](pīṭhe) [previously-stated](prāk+īrite) [one-should-worship](yajet) [thus-statement](iti+vacanāt)
+[its-tenth-part](taddaśāṃśaṃ) [one-should-offer](juhuyāt) [practitioner](mantrī) [on-seat](pīṭhe) [previously-stated](prāgīrite) [one-should-worship](yajet) [thus-statement](iti+vacanāt)
 
 ## mukta-m0-p20-v491
-[as-before](pūrva+vat) [placement](nyāsaḥ)
+[as-before](pūrvavat) [nyāsa](nyāsaḥ)
 
 ## mukta-m0-p20-v492
-[six-limbs](ṣaṭ+aṅgāni) [thus-etc](iti+ādi)
+[six-limbs](ṣaḍaṅgāni) [etcetera](ityādi)
 
 ## mukta-m0-p20-v493
-[thus](evam) [having-meditated](dhyātvā) [as-before](pūrva+vat) [one-should-worship](yajet)
+[thus](evam) [having-meditated](dhyātvā) [as-before](pūrvavat) [one-should-worship](yajet)
 
 ## mukta-m0-p20-v494
-[other](anyat) [all](sarvam) [as-before](pūrva+vat) [to-be-understood](bodhām)
+[other](anyat) [all](sarvaṃ) [as-before](pūrvavat) [to-be-understood](bodhām)
 
 ## mukta-m0-p20-v495
-[twenty-four-lakhs](caturviṃśati+lakṣam) [thus](iti) [some](kecit)
+[twenty-four-lakhs](caturviṃśatilakṣam) [thus](iti) [some](kecit)
 
 ## mukta-m0-p20-v496
-[of-this](asya) [like-one-syllabled](eka+akṣarī+vat) [seer-meter-deity-placement](ṛṣi+chandas+devatā+nyāsaḥ)
+[of-this](asya) [like-one-syllabled](ekākṣarīvat) [sage-meter-deity-nyāsa](ṛṣicchandodevatānyāsaḥ)
 
 ## mukta-m0-p20-v497
-[seer-etc](ṛṣi+ādyāḥ) [previously](pūrvam) [stated](uktāḥ) [should-be](syuḥ) [with-seed](bījena) [limb-rite](aṅga+kriyā) [indeed](mantā)
+[sage-etc](ṛṣyādyāḥ) [previously](pūrvam) [stated](uktāḥ) [should-be](syuḥ) [with-seed-syllable](bījena) [limb-rite](aṅgakriyā) [opinion](mantā)
 
 ## mukta-m0-p20-v498
 [her](tām)
 
 ## mukta-m0-p20-v499
-[in-sixteen-petals](ṣoḍaśa+dale) [of-worship](pūjāyāḥ) [because-of-not-being-stated](anuktatvāt) [absence-of-sixteen-petals](ṣoḍaśa+dala+abhāvaḥ)
+[in-sixteen-petals](ṣoḍaśadale) [of-worship](pūjāyā) [because-of-not-being-stated](anuktatvāt) [absence-of-sixteen-petals](ṣoḍaśadalābhāvaḥ)
 
 ## mukta-m0-p20-v500
-[O-Annapūrṇā](annapūrṇe) [ṭha-pair](ṭha+yugalam) [mantra](manuḥ) [seventeen-syllabled](saptadaśa+akṣaraḥ)
+[Annapūrṇā](annapūrṇa) [ṭha-pair](ṭhayugalaṃ) [mantra](manuḥ) [seventeen-syllabled](saptadaśākṣaraḥ)

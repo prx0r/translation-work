@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "ṣoḍaśaṃ",
-   "morph": "adj.nom.sg.n",
-   "grounds": "numeral adjective indicating petal count"
+   "morph": "n.nom.sg",
+   "grounds": "numeral indicating a petal count"
   },
   {
    "lemma": "śatapatrañca",
-   "morph": "adj.nom.sg.n + compound + (indecl.)",
-   "grounds": "compound śata-patram with enclitic ca"
+   "morph": "n.nom.sg + compound=śata+patra + (indecl.)",
+   "grounds": "compound with enclitic ca indicating another petal count"
   },
   {
    "lemma": "koṭipatraṃ",
-   "morph": "adj.nom.sg.n + compound",
-   "grounds": "compound koṭi-patram indicating a vast petal count"
+   "morph": "n.nom.sg + compound=koṭi+patra",
+   "grounds": "compound indicating a vast petal count"
   },
   {
    "lemma": "yathaiva",
@@ -25,7 +25,7 @@
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction continuing the enumeration"
+   "grounds": "conjunction adding to the enumeration"
   }
  ]
 }

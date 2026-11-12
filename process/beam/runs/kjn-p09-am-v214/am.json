@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 214,
- "question": "What categories of yoginīs are enumerated in this grouping?",
+ "question": "What claim about the classification of these figures is at stake in grouping innate, family-born and all door-guardians together?",
  "premises": [
-  "All innate yoginīs are named",
-  "All family-born yoginīs are named",
-  "All door-guardian yoginīs are named"
+  "All innate figures are enumerated.",
+  "All family-born figures are enumerated.",
+  "All door-guardians are enumerated together as a class."
  ],
- "inference": "The grouping includes innate, family-born, and door-guardian yoginīs.",
- "uncertainties": [],
- "plain_english": "All the innate ones, all those born of the families, and all the door-guardians."
+ "inference": "These three classes are presented as coextensive groups within the yoginī system under consideration.",
+ "uncertainties": [
+  "The syntactic relation of these to verse 213 is not specified here."
+ ],
+ "plain_english": "All innate, all family-born, all door-guardians."
 }

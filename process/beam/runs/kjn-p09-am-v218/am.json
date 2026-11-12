@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 218,
- "question": "How unparalleled is the knowledge being praised in this declaration?",
+ "question": "What claim about the uniqueness of this knowledge is at stake in denying that anything equal to it will exist again?",
  "premises": [
-  "No knowledge equal to this exists",
-  "No equal knowledge will arise again",
-  "The comparison is absolute in time"
+  "There is knowledge equal to this.",
+  "No such knowledge will exist again.",
+  "This is stated by double negation for emphasis."
  ],
- "inference": "This knowledge is declared to be without equal in the past or future.",
- "uncertainties": [],
- "plain_english": "There is no knowledge equal to this, nor will there ever be again."
+ "inference": "The knowledge in question is presented as unique, with nothing equal to it to arise again.",
+ "uncertainties": [
+  "The temporal scope of bhūyo is not specified."
+ ],
+ "plain_english": "Knowledge equal to this will not be again, nor will it be."
 }
