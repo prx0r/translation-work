@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing practice"
+   "morph": "compound=satata+modifier",
+   "grounds": "first member of compound qualifying practice"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound-member",
-   "grounds": "second member of compound describing yoga"
+   "morph": "compound=abhyāsa+modifier",
+   "grounds": "second member of compound qualifying yoga"
   },
   {
    "lemma": "yogena",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "dvi",
-   "morph": "compound-member",
+   "morph": "compound=dvi+modifier",
    "grounds": "first member of compound indicating sixteen"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
+   "morph": "compound=aṣṭa+modifier",
    "grounds": "second member of compound indicating sixteen"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound-member",
-   "grounds": "third member of compound describing form"
+   "morph": "compound=varṣa+modifier",
+   "grounds": "third member of compound qualifying form"
   },
   {
    "lemma": "ākṛtiḥ",
@@ -39,8 +39,8 @@
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-optative √bhū",
-   "grounds": "expresses potential result"
+   "morph": "3.sg.act-opt/√bhū",
+   "grounds": "optative expressing the resulting state"
   }
  ]
 }

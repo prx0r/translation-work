@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.mid-present √kṛ",
-   "grounds": "main verb describing the yogin’s power"
+   "morph": "3.sg.mid-pres/√kṛ",
+   "grounds": "main verb describing the practitioner's power"
   },
   {
    "lemma": "bahudhā",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing mental absorption"
+   "morph": "compound=dhyāna+modifier",
+   "grounds": "first member of compound describing focused mind"
   },
   {
    "lemma": "eka",
-   "morph": "compound-member",
-   "grounds": "second member of compound describing mental absorption"
+   "morph": "compound=eka+modifier",
+   "grounds": "second member of compound describing focus"
   },
   {
    "lemma": "gata",
-   "morph": "compound-member",
-   "grounds": "third member of compound describing mind"
+   "morph": "compound=gata+head",
+   "grounds": "third member of compound describing mind's state"
   },
   {
    "lemma": "cetasaḥ",
    "morph": "n.gen.sg",
-   "grounds": "describes the practitioner whose mind is absorbed"
+   "grounds": "possessor of the one-pointed meditative state"
   }
  ]
 }
