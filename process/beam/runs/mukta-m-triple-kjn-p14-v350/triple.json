@@ -8,38 +8,38 @@
      "surface": "aṣṭau",
      "gloss": "eight",
      "grounds": "numeral indicating a set of eight",
-     "morph": "m.nom.pl"
+     "morph": "num.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking elements",
+     "grounds": "conjunction adding to the preceding enumeration",
      "morph": "(indecl.)"
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "power-attainment-root-kaula",
-     "grounds": "fused form of siddhisaṃprāptiḥ and mūlakaulam; attainment of powers identified as root Kaula",
-     "morph": "compound"
+     "gloss": "attainment-of-powers-root-kaula",
+     "grounds": "fused sandhi form combining attainment of powers with the root Kaula; internal sandhi noted but token kept whole",
+     "morph": "compound.nom.sg.n"
     },
     {
      "surface": "varānane",
-     "gloss": "o-fair-faced-one",
+     "gloss": "O-fair-faced-one",
      "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What constitutes the root Kaula teaching addressed to the fair-faced goddess?",
+   "question": "What constitutes the eightfold attainment identified as the root Kaula?",
    "premises": [
-    "Eight accomplishments are enumerated.",
-    "The attainment of powers is named explicitly.",
-    "This attainment is identified with the root Kaula."
+    "The enumeration includes eight elements.",
+    "The attainment of powers is identified with the root Kaula.",
+    "This teaching is addressed directly to the goddess."
    ],
-   "inference": "The attainment of the eight powers constitutes the root Kaula.",
+   "inference": "The eightfold set culminates in the attainment of powers, which is declared to be the essence of the root Kaula.",
    "uncertainties": [
-    "The exact scope of the eight accomplishments is not specified in this verse."
+    "The exact referents of all eight elements depend on the preceding verses in the enumeration."
    ],
-   "plain_english": "And the attainment of the eight powers is the root Kaula, O fair-faced one."
+   "plain_english": "And these are eight; the attainment of powers is the root Kaula, O fair-faced one."
   }
  ]
 }
