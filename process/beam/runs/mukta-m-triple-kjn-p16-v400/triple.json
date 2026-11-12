@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "forehead-letter-mass-situated",
-     "grounds": "compound: lalāṭa (forehead) + varṇa (letter/syllable) + rāśi (mass/collection) + stha (situated); describes location of the repetition",
-     "morph": "compound, n.acc.sg"
+     "gloss": "situated-in-forehead-letter-mass",
+     "grounds": "compound describing location within the collection of syllables on the forehead",
+     "morph": "compound.acc.sg.nt"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numerical object of the action expressed by the gerund",
+     "grounds": "numerical quantity indicating the number of repetitions",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "absolutive indicating completion of the repetition",
-     "morph": "(indecl.), gerund, root kṛ"
+     "grounds": "absolutive expressing completion of the act prior to the main context",
+     "morph": "gerund (indecl.), root kṛ"
     },
     {
      "surface": "sura+arcite",
      "gloss": "god-worshipped-one",
-     "grounds": "vocative compound addressing the deity: sura (god) + arcita (worshipped)",
-     "morph": "compound, m.voc.sg"
+     "grounds": "vocative address to the deity honored by the gods",
+     "morph": "compound.voc.sg.m"
     }
    ],
-   "question": "What specific ritual repetition must be completed in the forehead syllable-collection, O god-worshipped one?",
+   "question": "What specific ritual repetition must the resolute practitioner complete with the forehead syllable mass?",
    "premises": [
-    "The action involves performing a hundred-thousand repetitions.",
-    "The repetition is situated in the collection of syllables on the forehead.",
-    "The instruction is addressed to a deity worshipped by gods."
+    "The preceding instruction requires firm resolve and secrecy.",
+    "The act involves something situated in the mass of letters on the forehead.",
+    "The prescribed quantity of the act is one hundred thousand."
    ],
-   "inference": "One must complete a hundred-thousand repetitions focused in the forehead syllable-collection.",
+   "inference": "The resolute practitioner must perform one hundred thousand repetitions focused on the forehead syllable mass.",
    "uncertainties": [
-    "The exact nature of the syllables or mantra in the forehead collection is not specified in this verse."
+    "The exact nature of the act counted to one hundred thousand is implied rather than explicitly named."
    ],
-   "plain_english": "O god-worshipped one, having performed a hundred thousand repetitions situated in the collection of syllables on the forehead."
+   "plain_english": "O one worshipped by the gods, having performed one hundred thousand repetitions situated in the mass of letters on the forehead."
   }
  ]
 }
