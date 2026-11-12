@@ -8,54 +8,55 @@
      "surface": "ṣaṣṭhaṃ",
      "gloss": "sixth",
      "grounds": "ordinal adjective qualifying cakraṃ",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle introducing continuation or contrast",
+     "grounds": "particle marking continuation or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "object or topic being described",
+     "grounds": "noun denoting the subtle center",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rājānam",
      "gloss": "royal",
-     "grounds": "adjective qualifying cakraṃ",
+     "grounds": "adjective or epithet qualifying cakraṃ",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral forming first member of compound",
-     "morph": "compound-member"
+     "grounds": "numeral forming first member of compound with patra",
+     "morph": "aṣṭa+compound-member"
     },
     {
      "surface": "patra",
-     "gloss": "petaled",
-     "grounds": "second member of compound describing cakraṃ",
-     "morph": "compound-member"
+     "gloss": "petal",
+     "grounds": "noun forming second member of compound with aṣṭa",
+     "morph": "patra+compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "adjective qualifying cakraṃ",
+     "grounds": "adjective qualifying cakraṃ, indicating presence of a pericarp",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What are the defining attributes and structure of the sixth cakra?",
+   "question": "What are the defining characteristics and form of the sixth cakra?",
    "premises": [
-    "The sixth cakra is identified as the subject.",
-    "The sixth cakra is described as royal.",
-    "The sixth cakra has eight petals and a pericarp."
+    "The sixth cakra is identified in sequence.",
+    "This cakra is described as royal in nature.",
+    "This cakra has eight petals.",
+    "This cakra possesses a pericarp."
    ],
-   "inference": "The sixth cakra is characterized as a royal, eight-petaled center possessing a pericarp.",
+   "inference": "The sixth cakra is characterized as royal, eight-petaled, and endowed with a pericarp.",
    "uncertainties": [
-    "The precise symbolic meaning of rājānam in this context is not fully specified."
+    "The exact sense of rājānam as 'royal' or as a specific name is context-dependent."
    ],
    "plain_english": "And the sixth cakra is royal, eight-petaled, and has a pericarp."
   }

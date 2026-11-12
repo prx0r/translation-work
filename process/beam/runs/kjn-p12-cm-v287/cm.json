@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound=first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "patre",
    "morph": "n.loc.sg",
-   "grounds": "locative singular noun"
+   "grounds": "locative noun in simile"
   },
   {
    "lemma": "yathā",
@@ -20,7 +20,7 @@
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "locative singular noun"
+   "grounds": "locative noun in simile"
   },
   {
    "lemma": "tathā",
@@ -44,7 +44,7 @@
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.pass-pres √lip",
+   "morph": "3.sg.present-passive √lip",
    "grounds": "present passive verb"
   }
  ]

@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound=first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "unmīlanam",
    "morph": "n.nom.sg",
-   "grounds": "nominative singular noun"
+   "grounds": "noun in nominative"
   },
   {
    "lemma": "bhadre",
    "morph": "f.voc.sg",
-   "grounds": "vocative singular address"
+   "grounds": "vocative address"
   },
   {
    "lemma": "bhavati",
-   "morph": "3.sg.act-pres √bhū",
-   "grounds": "present tense verb"
+   "morph": "3.sg.present-active √bhū",
+   "grounds": "present verb"
   },
   {
    "lemma": "evaṃ",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "anya",
-   "morph": "compound=first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "sevanāt",
    "morph": "n.abl.sg",
-   "grounds": "ablative singular noun"
+   "grounds": "ablative noun indicating cause"
   }
  ]
 }

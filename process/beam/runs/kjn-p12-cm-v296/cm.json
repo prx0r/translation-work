@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "laulya",
-   "morph": "compound=first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "arthī",
    "morph": "m.nom.sg",
-   "grounds": "nominative singular noun"
+   "grounds": "noun in nominative"
   },
   {
    "lemma": "capalā",
    "morph": "f.nom.sg",
-   "grounds": "nominative singular adjective"
+   "grounds": "adjective in nominative"
   },
   {
    "lemma": "nityaṃ",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "kula",
-   "morph": "compound=first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "śāstra",
-   "morph": "compound=middle",
+   "morph": "compound-member",
    "grounds": "middle member of compound"
   },
   {
    "lemma": "viḍambakam",
-   "morph": "n.nom.sg",
-   "grounds": "nominative singular noun"
+   "morph": "n.acc.sg",
+   "grounds": "noun in accusative"
   }
  ]
 }

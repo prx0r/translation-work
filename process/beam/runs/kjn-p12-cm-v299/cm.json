@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "mukha",
-   "morph": "compound=first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "prakṣālanaṃ",
    "morph": "n.nom.sg",
-   "grounds": "nominative singular noun"
+   "grounds": "noun in nominative"
   },
   {
    "lemma": "nityaṃ",
@@ -20,22 +20,22 @@
   {
    "lemma": "brahmaṇaḥ",
    "morph": "m.gen.sg",
-   "grounds": "genitive singular noun"
+   "grounds": "genitive noun"
   },
   {
    "lemma": "ūrddha",
-   "morph": "compound=first",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "gatam",
    "morph": "n.nom.sg.ppp √gam",
-   "grounds": "nominative singular past participle"
+   "grounds": "past passive participle in nominative"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative singular address"
+   "grounds": "vocative address"
   }
  ]
 }

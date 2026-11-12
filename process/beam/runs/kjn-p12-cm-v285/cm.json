@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "aṇimā",
-   "morph": "f.nom.sg",
-   "grounds": "nominative singular noun, first in list"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming a siddhi"
   },
   {
    "lemma": "ādi",
-   "morph": "compound=first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "middle member of compound"
   },
   {
    "lemma": "guṇa",
-   "morph": "compound=middle",
+   "morph": "compound-member",
    "grounds": "middle member of compound"
   },
   {
    "lemma": "aiśvarya",
-   "morph": "compound=first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "middle member of compound"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "nominative singular noun"
+   "grounds": "noun in nominative"
   },
   {
    "lemma": "ca",
@@ -35,11 +35,11 @@
   {
    "lemma": "mānasī",
    "morph": "f.nom.sg",
-   "grounds": "nominative singular adjective"
+   "grounds": "adjective qualifying accomplishment"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-opt √bhū",
+   "morph": "3.sg.optative-active √bhū",
    "grounds": "optative verb"
   }
  ]

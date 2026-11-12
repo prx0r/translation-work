@@ -12,18 +12,18 @@
 },
 {
 "surface": "skhalita",
-"quick_gloss": "slipped"
+"quick_gloss": "stumbled"
 },
 {
-"surface": "śud",
-"quick_gloss": "purified"
+"surface": "śu",
+"quick_gloss": "pure"
 },
 {
-"surface": "vyartham",
-"quick_gloss": "vain"
+"surface": "dvyartham",
+"quick_gloss": "meaningless"
 },
 {
-"surface": "abhyasen",
+"surface": "abhyaset",
 "quick_gloss": "should-practice"
 },
 {
@@ -41,19 +41,27 @@
 "tokens": [
 {
 "surface": "māghamāsaṃ",
-"quick_gloss": "month-of-māgha"
+"quick_gloss": "māgha-month"
 },
 {
 "surface": "vinā",
-"quick_gloss": "without"
+"quick_gloss": "except"
 },
 {
 "surface": "śastaṃ",
 "quick_gloss": "auspicious"
 },
 {
-"surface": "bhānorayanamuttaram",
-"quick_gloss": "sun's-northern-course"
+"surface": "bhānoḥ",
+"quick_gloss": "of-the-sun"
+},
+{
+"surface": "ayanam",
+"quick_gloss": "course"
+},
+{
+"surface": "uttaram",
+"quick_gloss": "northern"
 }
 ]
 },
@@ -65,8 +73,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrāvaṇaśca",
+"surface": "śrāvaṇaḥ",
 "quick_gloss": "śrāvaṇa"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "vidhīyante",
@@ -74,11 +86,11 @@
 },
 {
 "surface": "tadanye",
-"quick_gloss": "those-others"
+"quick_gloss": "other-than-those"
 },
 {
-"surface": "ninditā",
-"quick_gloss": "blameworthy"
+"surface": "ninditāḥ",
+"quick_gloss": "censured"
 },
 {
 "surface": "matāḥ",
@@ -95,27 +107,39 @@
 "tokens": [
 {
 "surface": "śukle",
-"quick_gloss": "bright-fortnight"
+"quick_gloss": "in-bright-fortnight"
 },
 {
-"surface": "vādyatṛtīyāṃśaṃ",
-"quick_gloss": "or-third-day"
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
+"surface": "ādyatṛtīyāṃśaṃ",
+"quick_gloss": "first-third-part"
 },
 {
 "surface": "kṛṣṇe",
-"quick_gloss": "dark-fortnight"
+"quick_gloss": "in-dark-fortnight"
 },
 {
-"surface": "cāntyaṃ",
-"quick_gloss": "and-last"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "antyaṃ",
+"quick_gloss": "last"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
-"surface": "vā tyajet",
-"quick_gloss": "omit"
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
+"surface": "tyajet",
+"quick_gloss": "one-should-avoid"
 }
 ]
 },
@@ -128,11 +152,11 @@
 "tokens": [
 {
 "surface": "navamīṃ",
-"quick_gloss": "ninth"
+"quick_gloss": "ninth-day"
 },
 {
 "surface": "pañcadaśyau",
-"quick_gloss": "fifteenth"
+"quick_gloss": "fifteenth-days"
 },
 {
 "surface": "ca",
@@ -140,7 +164,7 @@
 },
 {
 "surface": "hitvā",
-"quick_gloss": "omitting"
+"quick_gloss": "having-avoided"
 },
 {
 "surface": "yugmetaraṃ",
@@ -148,7 +172,7 @@
 },
 {
 "surface": "tithim",
-"quick_gloss": "tithi"
+"quick_gloss": "lunar-day"
 }
 ]
 },
@@ -161,11 +185,11 @@
 "tokens": [
 {
 "surface": "kṛṣṇe",
-"quick_gloss": "dark-fortnight"
+"quick_gloss": "in-dark-fortnight"
 },
 {
 "surface": "ṣaṣṭiṃ",
-"quick_gloss": "sixtieth"
+"quick_gloss": "sixth-day"
 },
 {
 "surface": "ca",
@@ -181,15 +205,19 @@
 },
 {
 "surface": "tāḥ",
-"quick_gloss": "all"
+"quick_gloss": "those"
 },
 {
 "surface": "sarvāninditāḥ",
-"quick_gloss": "blameless"
+"quick_gloss": "all-uncensured"
 },
 {
-"surface": "stviha",
-"quick_gloss": "indeed-here"
+"surface": "tu",
+"quick_gloss": "indeed"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
 }
 ]
 },
@@ -210,7 +238,7 @@
 },
 {
 "surface": "saumyaṃ",
-"quick_gloss": "gentle"
+"quick_gloss": "saumya"
 },
 {
 "surface": "vaiṣṇavaṃ",
@@ -218,7 +246,7 @@
 },
 {
 "surface": "vāruṇaṃ",
-"quick_gloss": "varuṇa"
+"quick_gloss": "vāruṇa"
 },
 {
 "surface": "maghā",
@@ -235,15 +263,19 @@
 "tokens": [
 {
 "surface": "pūjyāḥ",
-"quick_gloss": "worshipful"
+"quick_gloss": "are-to-be-honored"
 },
 {
 "surface": "śatabhiṣak",
 "quick_gloss": "śatabhiṣak"
 },
 {
-"surface": "caiva",
-"quick_gloss": "and-indeed"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "viśākhā",
@@ -251,11 +283,11 @@
 },
 {
 "surface": "pūrvajaiḥ",
-"quick_gloss": "with-earlier-ones"
+"quick_gloss": "with-the-pūrvās"
 },
 {
 "surface": "saha",
-"quick_gloss": "with"
+"quick_gloss": "together"
 }
 ]
 },
@@ -268,11 +300,15 @@
 "tokens": [
 {
 "surface": "mānuṣe",
-"quick_gloss": "human"
+"quick_gloss": "for-human-rites"
 },
 {
-"surface": "pauṣyapauṣṇāśca",
-"quick_gloss": "pauṣya"
+"surface": "pauṣya",
+"quick_gloss": "puṣya"
+},
+{
+"surface": "pauṣṇāḥ",
+"quick_gloss": "revatī"
 },
 {
 "surface": "ca",
@@ -280,15 +316,15 @@
 },
 {
 "surface": "tadanye",
-"quick_gloss": "those-others"
+"quick_gloss": "other-than-those"
 },
 {
 "surface": "ninditāḥ",
-"quick_gloss": "blameworthy"
+"quick_gloss": "censured"
 },
 {
-"surface": "stviha",
-"quick_gloss": "indeed-here"
+"surface": "iha",
+"quick_gloss": "here"
 }
 ]
 },
@@ -300,8 +336,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manuṣyairapi",
+"surface": "manuṣyaiḥ",
 "quick_gloss": "by-humans"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "vāraṃ",
@@ -312,12 +352,16 @@
 "quick_gloss": "and"
 },
 {
-"surface": "varjayettu",
-"quick_gloss": "omit"
+"surface": "varjayet",
+"quick_gloss": "one-should-avoid"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "sitāparam",
-"quick_gloss": "bright-superior"
+"quick_gloss": "other-than-friday"
 }
 ]
 },
@@ -330,7 +374,7 @@
 "tokens": [
 {
 "surface": "śubhakarma",
-"quick_gloss": "auspicious-rite"
+"quick_gloss": "auspicious-act"
 },
 {
 "surface": "na",
@@ -350,7 +394,7 @@
 },
 {
 "surface": "astaṃ",
-"quick_gloss": "set"
+"quick_gloss": "to-setting"
 },
 {
 "surface": "gate",
@@ -358,7 +402,7 @@
 },
 {
 "surface": "budhaiḥ",
-"quick_gloss": "by-wise"
+"quick_gloss": "by-the-wise"
 }
 ]
 },
@@ -371,7 +415,7 @@
 "tokens": [
 {
 "surface": "divā",
-"quick_gloss": "daytime"
+"quick_gloss": "by-day"
 },
 {
 "surface": "garbhapratiṣṭhā",
@@ -383,11 +427,11 @@
 },
 {
 "surface": "śarvaryāṃ",
-"quick_gloss": "night"
+"quick_gloss": "by-night"
 },
 {
 "surface": "vāstukarma",
-"quick_gloss": "site-rite"
+"quick_gloss": "building-rite"
 },
 {
 "surface": "ca",
@@ -404,23 +448,31 @@
 "tokens": [
 {
 "surface": "rātrau",
-"quick_gloss": "night"
+"quick_gloss": "at-night"
 },
 {
 "surface": "vāstubaliṃ",
-"quick_gloss": "site-offering"
+"quick_gloss": "building-offering"
 },
 {
 "surface": "grāme",
 "quick_gloss": "in-village"
 },
 {
-"surface": "nāgnau",
-"quick_gloss": "not-fire"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "kuryātkathañcana",
+"surface": "agnau",
+"quick_gloss": "in-fire"
+},
+{
+"surface": "kuryāt",
 "quick_gloss": "should-do"
+},
+{
+"surface": "kathañcana",
+"quick_gloss": "in-any-way"
 }
 ]
 },
@@ -432,16 +484,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vivarjyaścararāśistu",
-"quick_gloss": "avoid"
+"surface": "vivarjyaḥ",
+"quick_gloss": "to-be-avoided"
 },
 {
 "surface": "cararāśiḥ",
-"quick_gloss": "moving-sign"
+"quick_gloss": "movable-sign"
 },
 {
-"surface": "sajīvaścecchubhapradaḥ",
+"surface": "tu",
+"quick_gloss": "indeed"
+},
+{
+"surface": "sajīvaḥ",
 "quick_gloss": "if-with-jupiter"
+},
+{
+"surface": "cet",
+"quick_gloss": "if"
 },
 {
 "surface": "śubhapradaḥ",
@@ -457,20 +517,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gurūdayastu",
-"quick_gloss": "guru-rise"
+"surface": "gurūdayaḥ",
+"quick_gloss": "jupiter-rising"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "viprāṇāṃ",
-"quick_gloss": "of-brahmins"
+"quick_gloss": "for-brāhmaṇas"
 },
 {
 "surface": "bhūpatīnāṃ",
-"quick_gloss": "of-kings"
+"quick_gloss": "for-kings"
 },
 {
 "surface": "bhṛgūdayaḥ",
-"quick_gloss": "venus-rise"
+"quick_gloss": "venus-rising"
 }
 ]
 },
@@ -482,12 +546,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "triṣaḍekādaśasthāne",
-"quick_gloss": "three-six-eleven"
+"surface": "triṣaḍekādaśa",
+"quick_gloss": "in-third-sixth-eleventh"
 },
 {
-"surface": "pāpāstu",
-"quick_gloss": "sinful"
+"surface": "sthāne",
+"quick_gloss": "place"
+},
+{
+"surface": "pāpāḥ",
+"quick_gloss": "malefics"
+},
+{
+"surface": "tu",
+"quick_gloss": "indeed"
 },
 {
 "surface": "niśi",
@@ -508,18 +580,18 @@
 "tokens": [
 {
 "surface": "caturaśre",
-"quick_gloss": "square"
+"quick_gloss": "in-square-aspect"
 },
 {
 "surface": "śubhāḥ",
 "quick_gloss": "auspicious"
 },
 {
-"surface": "pāpā",
-"quick_gloss": "sinful"
+"surface": "pāpāḥ",
+"quick_gloss": "malefics"
 },
 {
-"surface": "varjanīyā",
+"surface": "varjanīyāḥ",
 "quick_gloss": "to-be-avoided"
 },
 {
@@ -536,8 +608,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "varjayeddeśiko",
-"quick_gloss": "avoid"
+"surface": "varjayet",
+"quick_gloss": "should-avoid"
 },
 {
 "surface": "deśikaḥ",
@@ -548,8 +620,8 @@
 "quick_gloss": "wise"
 },
 {
-"surface": "pañcagocarasaṃsthitaḥ",
-"quick_gloss": "five-go"
+"surface": "pañcagocara",
+"quick_gloss": "in-five-transit"
 },
 {
 "surface": "saṃsthitaḥ",
@@ -566,23 +638,27 @@
 "tokens": [
 {
 "surface": "yuktaṃ",
-"quick_gloss": "fitting"
+"quick_gloss": "conjoined"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "kāṅkṣitañcoḍuṃ",
+"surface": "kāṅkṣitaṃ",
 "quick_gloss": "desired"
 },
 {
-"surface": "uḍuṃ",
-"quick_gloss": "star"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "santyajeddeśikottamaḥ",
-"quick_gloss": "abandon"
+"surface": "uḍuṃ",
+"quick_gloss": "lunar-mansion"
+},
+{
+"surface": "santyajet",
+"quick_gloss": "should-abandon"
 },
 {
 "surface": "deśikottamaḥ",
@@ -606,8 +682,12 @@
 "quick_gloss": "parigha"
 },
 {
-"surface": "caiva",
-"quick_gloss": "and-indeed"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "gaṇḍaṃ",
@@ -615,7 +695,7 @@
 },
 {
 "surface": "vaidhṛtiharṣaṇe",
-"quick_gloss": "vaidhṛti-harṣaṇa"
+"quick_gloss": "vaidhṛti-and-harṣaṇa"
 }
 ]
 },
@@ -628,23 +708,27 @@
 "tokens": [
 {
 "surface": "māsaśūnyaṃ",
-"quick_gloss": "month-empty"
+"quick_gloss": "month-void"
 },
 {
-"surface": "grahairbhinnaṃ",
+"surface": "grahaiḥ",
 "quick_gloss": "by-planets"
 },
 {
+"surface": "bhinnaṃ",
+"quick_gloss": "afflicted"
+},
+{
 "surface": "dagdhavāraṃ",
-"quick_gloss": "burnt-weekday"
+"quick_gloss": "burnt-day"
 },
 {
 "surface": "tathaiva",
-"quick_gloss": "and-so"
+"quick_gloss": "likewise"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -657,7 +741,11 @@
 "tokens": [
 {
 "surface": "tithinakṣatramāsābdāyanāntaṃ",
-"quick_gloss": "tithi-nakṣatra-month-year-ayana-end"
+"quick_gloss": "lunar-day-nakṣatra-month-year-solstice"
+},
+{
+"surface": "antaṃ",
+"quick_gloss": "end"
 },
 {
 "surface": "ca",
@@ -665,7 +753,7 @@
 },
 {
 "surface": "varjayet",
-"quick_gloss": "omit"
+"quick_gloss": "one-should-avoid"
 }
 ]
 },
@@ -677,16 +765,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yajamānānukūlarkṣe",
-"quick_gloss": "sacrificer-favorable"
+"surface": "yajamānānukūla",
+"quick_gloss": "to-patron-favorable"
+},
+{
+"surface": "ṛkṣe",
+"quick_gloss": "in-nakṣatra"
 },
 {
 "surface": "svalpadoṣe",
-"quick_gloss": "small-fault"
+"quick_gloss": "with-little-fault"
 },
 {
 "surface": "guṇādhike",
-"quick_gloss": "merit-superior"
+"quick_gloss": "with-great-merit"
 }
 ]
 },
@@ -698,24 +790,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kārayedvāstukarmaitatsarvasampatsamṛddhaye",
-"quick_gloss": "should-do"
+"surface": "kārayet",
+"quick_gloss": "one-may-perform"
 },
 {
 "surface": "vāstukarma",
-"quick_gloss": "site-rite"
+"quick_gloss": "building-rite"
 },
 {
-"surface": "etat",
+"surface": "itat",
 "quick_gloss": "this"
 },
 {
-"surface": "sarvasampat",
-"quick_gloss": "all-prosperity"
-},
-{
-"surface": "samṛddhaye",
-"quick_gloss": "abundance"
+"surface": "sarvasampatsamṛddhaye",
+"quick_gloss": "for-all-prosperity-abundance"
 }
 ]
 },
@@ -727,12 +815,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nimittaśakunānādau",
-"quick_gloss": "omen-bird-etc"
+"surface": "nimittaśakunān",
+"quick_gloss": "omen-and-portents"
+},
+{
+"surface": "ādau",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "jñātvā",
-"quick_gloss": "knowing"
+"quick_gloss": "having-ascertained"
 },
 {
 "surface": "karma",
@@ -740,7 +832,7 @@
 },
 {
 "surface": "samācaret",
-"quick_gloss": "perform"
+"quick_gloss": "one-should-perform"
 }
 ]
 }

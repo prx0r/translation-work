@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "jananī",
-   "morph": "f.nom.sg",
-   "grounds": "nominative singular noun"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "jāra",
-   "morph": "compound=first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "middle member of compound"
   },
   {
    "lemma": "garbham",
    "morph": "m.acc.sg",
-   "grounds": "accusative singular noun in compound"
+   "grounds": "noun in accusative"
   },
   {
    "lemma": "tu",
@@ -25,11 +25,11 @@
   {
    "lemma": "svaputraṃ",
    "morph": "m.acc.sg",
-   "grounds": "accusative singular compound noun"
+   "grounds": "compound noun in accusative"
   },
   {
    "lemma": "gopayet",
-   "morph": "3.sg.act-opt √gup",
+   "morph": "3.sg.optative-active √gup",
    "grounds": "optative verb"
   },
   {
