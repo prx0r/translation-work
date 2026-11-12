@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p148-v3676
-[worship](vāstuṃ) [should-worship](saṃpūjayetpaścāt) [after-that](tadante) [should-bathe](snāpayecchivam)
+[site](vāstuṃ) [should-worship](saṃpūjayet) [afterwards](paścāt) [after-that](tadante) [should-bathe](snāpayet) [śiva](śivam)
 
 ## mukta-m0-p148-v3677
-[suddenly](akasmātpatitaṃ) [fallen](patitaṃ) [temple](dhāma) [from-root-to-top](mūlādāmastakaṃ) [if](yadi)
+[suddenly](akasmāt) [fallen](patitaṃ) [temple](dhāma) [from-root](mūlāt) [to-top](āmastakaṃ) [if](yadi)
 
 ## mukta-m0-p148-v3678
-[bathing](snapanaṃ) [and](ca) [for-śiva](śive) [dance](nṛtyaṃ) [should-do](kuryādvittānu) [according-to-wealth](sārataḥ)
+[bathing](snapanaṃ) [and](ca) [for-śiva](śive) [dancing](nṛtyaṃ) [should-perform](kuryāt) [according-to-wealth](vittānu+sārataḥ)
 
 ## mukta-m0-p148-v3679
-[temple](prāsāda) [by-prescribed-rite](manukarmoktyā) [first-brick-etc](ādyeṣṭakādi) [joined](yutaṃ) [should-lead](nayet)
+[temple](prāsādaṃ) [according-to-subsequent-rite-instruction](anukarmoktyā) [with-first-brick-etc](ādyeṣṭakādi+yutaṃ) [should-lead](nayet)
 
 ## mukta-m0-p148-v3680
-[should-do](kuryāddhāmno'tha) [of-temple](dhāmnaḥ) [then](atha) [joining](sandhānaṃ) [seven-backed](saptapṛṣṭa) [five](pañca) [veda-like](vedabham)
+[should-perform](kuryāt) [of-temple](dhāmnaḥ) [then](atha) [joining](sandhānaṃ) [seven-ridges](saptapṛṣṭa) [five-vedas-equal](pañca+vedabham)
 
 ## mukta-m0-p148-v3681
-[should-erect](sthūyādyavayave) [limb](avayave) [broken](chīnne'pyeta) [even](pyeta) [ten-days](dekāhamācaret)
+[if-broken](chīnne) [in-a-part](sthūyādyavayave) [also](api) [this](etam) [one-day](ekāham) [should-perform](ācaret)
 
 ## mukta-m0-p148-v3682
-[suddenly](akasmāddhāmabhedādau) [temple-breach](dhāmabhedādau) [result](phalamindrādi) [from-indra-etc](indrādi) [direction-lordship](digvaśāt)
+[suddenly](akasmāt) [in-temple-breaking](dhāma+bhedādau) [fruit](phalam) [indra-ādi](indra+ādi) [by-direction-power](digvaśāt)
 
 ## mukta-m0-p148-v3683
-[temple-interior](dhāmāntarastha) [gods](devānāṃ) [broken-etc](bhagnādau) [when-present](samupasthite)
+[in-another-temple](dhāma+antarastha) [of-gods](devānāṃ) [broken-etc](bhagnādau) [having-occurred](samupasthite)
 
 ## mukta-m0-p148-v3684
-[pavilion-etc](maṇḍapādi) [fall](nipāte) [and](ca) [pacification](śāntimekāhamācaret) [one-day](ekāhamācaret)
+[hall-etc](maṇḍapādi) [in-fall](nipāte) [and](ca) [peace-rite](śāntim) [one-day](ekāham) [should-perform](ācaret)
 
 ## mukta-m0-p148-v3685
-[king](nṛpaterādiśedbhaṅgaṃ) [should-order](ādiśet) [damage](bhaṅgaṃ) [thereby](tena) [best-foreigner](vaideśikottamaḥ)
+[of-king](nṛpater) [etc](ādi) [should-indicate](śet) [breaking](bhaṅgaṃ) [by-that](tena) [best-of-foreigners](vaideśikottamaḥ)
 
 ## mukta-m0-p148-v3686
-[śaiva](śaiva) [feast-included](saṃbhojanopetāṃ) [brahmin-enjoyment](viprabhukti) [with](samanvitam)
+[with-śaiva-feeding](śaiva+saṃbhojana+upetāṃ) [together-with-brahmin-feeding](vipra+bhukti+samanvitam)
 
 ## mukta-m0-p148-v3687
-[baṇa-liṅga-etc](bāṇaliṃgādikaṃ) [or](vātha) [with-temple](prāsādena) [accompanied](samanvitam)
+[bāṇa-liṅga-etc](bāṇaliṃgādikaṃ) [or](vā) [together-with-temple](atha) [together-with-sanctuary](prāsādena+samanvitam)
 
 ## mukta-m0-p148-v3688
-[by-prescribed-rite](anukarmavidhānena) [former-place](pūrvasthāne) [equal](samaṃ) [should-lead](nayet)
+[according-to-subsequent-rite-method](anukarmavidhānena) [to-former-place](pūrvasthāne) [equal](samam) [should-lead](nayet)
 
 ## mukta-m0-p148-v3689
-[place-afterward](sthānānantara) [gone](gataṃ) [liṅga](liṃgaṃ) [north-east](udak) [before](pūrvatra) [should-place](vinyaset)
+[to-place-after](sthānānantara+gatam) [liṅga](liṃgam) [to-north-east](udak+pūrvatra) [should-install](vinyaset)
 
 ## mukta-m0-p148-v3690
-[tree](vṛkṣe) [place-change](sthānāntaraṃ) [obtained](prāpte) [crop-destruction](sasyanāśo) [will-be](bhaviṣyati)
+[in-tree](vṛkṣe) [to-another-place](sthānāntaram) [having-reached](prāpte) [destruction-of-crops](sasya+nāśaḥ) [will-be](bhaviṣyati)
 
 ## mukta-m0-p148-v3691
-[should-perform](samācared) [two-seven-days](dvisaptāhaṃ) [śaiva-feast](śaiva) [with](bhojanaṃ) [joined](saṃyutam)
+[should-perform](samācaret) [two-weeks](dvisaptāham) [with-śaiva-feeding](śaiva+bhojanaṃ+saṃyutam)
 
 ## mukta-m0-p148-v3692
-[bathing](snapanaṃ) [should-cause](kārayennityaṃ) [always](nityaṃ) [with-abundant-offerings](prabhūta) [haviṣānvitam](haviṣānvitam)
+[bathing](snapanaṃ) [should-cause-to-do](kārayet) [daily](nityam) [abundant-oblation-together](prabhūta+haviṣānvitam)
 
 ## mukta-m0-p148-v3693
-[other](tadanya) [flower](kusume) [born](jāte) [other](tadanya) [fruit](phala) [occurrence](saṃbhave)
+[other-than-that](tadanya) [flower](kusume) [having-arisen](jāte) [other-than-that](tadanya) [fruit](phala) [occurrence](saṃbhave)
 
 ## mukta-m0-p148-v3694
-[seven-days](saptāhaṃ) [or](vā) [nine-days](navāhaṃ) [or](vā) [five-days](pañcāhaṃ) [pacification](śāntimācaret)
+[seven-days](saptāham) [or](vā) [nine-days](navāham) [or](vā) [five-days](pañcāham) [peace-rite](śāntim) [should-perform](ācaret)
 
 ## mukta-m0-p148-v3695
-[śiva-liṅga](śivaliṅge) [or](ca) [image](bere) [or](vā) [pedestal](pīṭhe) [heat-etc](voṣṇādi) [occurrence](saṃbhave)
+[in-śivaliṅga](śivaliṅge) [and](ca) [in-image](bere) [or](vā) [in-pīṭha](pīṭhe) [or](vā) [heat-etc](uṣṇādi) [occurrence](saṃbhave)
 
 ## mukta-m0-p148-v3696
-[fragrance-water](gandhodai) [coconut-etc](rnālikerādyaiḥ) [placed](vinyastaiḥ) [bathing-prescribed](snapanoktitaḥ)
+[with-scented-water](gandhodaiḥ) [with-coconut-etc](nālikerādyaiḥ) [having-been-placed](vinyastaiḥ) [according-to-bathing-instruction](snapana+oktitaḥ)
 
 ## mukta-m0-p148-v3697
-[or](athavākṣīra) [milk](kṣīra) [honey](madhvājyaiḥ) [ghee](ājyaiḥ) [prasthas](prasthaissaṃsnāpayecchivam) [should-bathe-śiva](snāpayecchivam)
+[or-else](athavā) [with-goat-milk](akṣīra) [with-honey](madhvājyaiḥ) [with-prasthas](prasthaiḥ) [should-bathe](saṃsnāpayet) [śiva](śivam)
 
 ## mukta-m0-p148-v3698
-[sandal](candanāgaru) [agaru](agaru) [camphor](karpūrośīra) [uśīra](uśīra) [saffron](kuṃkuma) [joined](saṃyutam)
+[with-sandal](candanāgaru) [with-agaru](karpūra) [with-ushīra](uśīra) [with-kumkuma](kuṃkuma) [together](saṃyutam)
 
 ## mukta-m0-p148-v3699
-[direction-ho](diśāhoaṃ) [then](tataḥ) [should-do](kuryāt) [until-heat](yāvadauṣṇaṃ) [ceases](nivartate)
+[directional-homa](diśāhoaṃ) [then](tataḥ) [should-perform](kuryāt) [as-long-as](yāvat) [heat](auṣṇam) [ceases](nivartate)
 
 ## mukta-m0-p148-v3700
-[men](narā) [deer](mṛgāśva) [horses](aśva) [animals](paśavaḥ) [birds](pakṣiṇo) [or](vā) [reptiles](sarīsṛpāḥ)
+[men](narāḥ) [wild-animals](mṛgāḥ) [horses](aśva) [cattle](paśavaḥ) [birds](pakṣiṇaḥ) [or](vā) [reptiles](sarīsṛpāḥ)

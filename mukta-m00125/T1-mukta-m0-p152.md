@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p152-v3776
-[peace-make](śāntiṃ) [then](tadā) [best](śreṣṭha) [middle](madhyama) [low](adhama) [path-from](mārgataḥ)
+[peace](śāntiṃ) [one-should-perform](kuryāt) [then](tadā) [o-best](śreṣṭha) [by-middle+inferior+course](madhyama+adhama+mārgataḥ)
 
 ## mukta-m0-p152-v3777
-[temple](prāsāde) [fallen](patite) [broken](bhinne) [face](vaktre) [worn](jīrṇe) [and](ca) [direction](dig) [wandering](bhrame)
+[in-temple](prāsāde) [fallen](patite) [broken](bhinne) [in-face](vaktre) [decayed](jīrṇe) [and](ca) [direction+confusion](dik+bhrame)
 
 ## mukta-m0-p152-v3778
-[those-those](tattad) [substances](dravyair) [then](atha) [excellent](utkṛṣṭaiḥ) [measure](māna) [with](yuktaṃ) [thus](tathā) [lead](nayet)
+[with-those+those](tat+tad) [materials](dravyaiḥ) [then](atha) [with-excellent](utkṛṣṭaiḥ) [with-measure+endowed](māna+yuktaṃ) [thus](tathā) [one-should-lead](nayet)
 
 ## mukta-m0-p152-v3779
-[measure](māna) [with](yuktaṃ) [base](adhiṣṭhāna) [etc](ādi) [limb](aṅgaṃ) [which](yad) [opposite-born](viparītajam)
+[with-measure+endowed](māna+yuktam) [from-base+etc.+limb](adhiṣṭhāna+ādi+aṅgaṃ) [which](yat) [contrary+born](viparīta+jam)
 
 ## mukta-m0-p152-v3780
-[self-born](svāyambhuvādi) [lingas](liṅgeṣu) [appointed](kalpitaṃ) [as-before](pūrvavat) [lead](nayet)
+[in-self-born+etc.](svāyambhuva+ādi) [in-liṅgas](liṅgeṣu) [arranged](kalpitaṃ) [as-before](pūrva+vat) [one-should-lead](nayet)
 
 ## mukta-m0-p152-v3781
-[or](athavā) [stone-made](aśmamayaṃ) [outside](bāhye) [inside](abhye) [brick-made](iṣṭakāmayaṃ) [may-be](syāt)
+[or](athavā) [stone+made](aśma+mayaṃ) [outside](bāhye) [not-outside](abāhye) [should-be](syāt) [brick+made](iṣṭakā+mayam)
 
 ## mukta-m0-p152-v3782
-[not-in-place](asthānasthā) [to-be-placed](vidhātavyāḥ) [in-place](svasthānasthā) [especially](viśeṣataḥ)
+[in-wrong-place+standing](asthāna+sthāḥ) [to-be-made](vidhātavyāḥ) [in-own-place+standing](svasthāna+sthāḥ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p152-v3783
-[dravida](drāviḍe) [and](ca) [thus](tathā) [to-be-done](kāryaṃ) [cowrie](varāṭādau) [thus](tathā) [opinion](matam)
+[in-drāviḍa](drāviḍe) [and](ca) [thus](tathā) [to-be-done](kāryaṃ) [in-varāṭa+etc.](varāṭa+ādau) [thus](tathā) [opinion](matam)
 
 ## mukta-m0-p152-v3784
-[house](bhavanaṃ) [worn](jīrṇa) [in-other](manyasmin) [doing](kurvan) [directions](dikṣu) [make-do](cakārayet)
+[building](bhavanaṃ) [decayed](jīrṇaṃ) [in-another](anyasmin) [making](kurvan) [in-directions](dikṣu) [one-should-cause-to-make](ca+kārayet)
 
 ## mukta-m0-p152-v3785
-[door](dvāraṃ) [as-before](pūrvavat) [desired](iṣṭaṃ) [may-be](syāt) [west-door](paścimadvāraṃ) [or](eva) [vā](vā)
+[door](dvāraṃ) [as-before](pūrva+vat) [desired](iṣṭaṃ) [should-be](syāt) [western+door](paścima+dvāram) [only](eva) [or](vā)
 
 ## mukta-m0-p152-v3786
-[nose](nāsikā) [etc](ādi) [limb](aṅga) [lacking](hīna) [therefore](tu) [again](punar) [thus](tadvat) [act](samācaret)
+[nose+etc.+limb+devoid](nāsikā+ādi+aṅga+hīne) [but](tu) [again](punaḥ) [like-that](tadvat) [one-should-perform](samācaret)
 
 ## mukta-m0-p152-v3787
-[well-placed](susthitaṃ) [ill-placed](dusthitaṃ) [or](vāpi) [shiva-linga](śivaliṅgaṃ) [not](na) [move](cālayet)
+[well-situated](susthitaṃ) [ill-situated](dusthitaṃ) [or](vā) [even](api) [śiva+liṅga](śiva+liṅgaṃ) [not](na) [one-should-move](cālayet)
 
 ## mukta-m0-p152-v3788
-[worn](jīrṇādi) [fault](doṣa) [free](rahitaṃ) [worship](pūjā) [lacking](hīnaṃ) [tu](tu) [ill-placed](dusthitam)
+[decay+etc.+fault+devoid](jīrṇa+ādi+doṣa+rahitaṃ) [worship+devoid](pūjā+hīnam) [but](tu) [ill-situated](dusthitam)
 
 ## mukta-m0-p152-v3789
-[worn](jīrṇādyaṃ) [worshipped](pūjitaṃ) [kills](hanti) [not](na) [kills](nihanti) [that](tad) [unworshipped](apūjitam)
+[decayed+etc.](jīrṇa+ādyam) [worshipped](pūjitaṃ) [destroys](hanti) [destroys](nihanti) [that](tat) [unworshipped](apūjitam)
 
 ## mukta-m0-p152-v3790
-[worn](jīrṇaṃ) [burnt](dagdhaṃ) [thin](kṛśaṃ) [thick](sthūlaṃ) [lacking](hīnaṃ) [measure](māna) [excess](adhikaṃ) [thus](tathā)
+[decayed](jīrṇaṃ) [burnt](dagdhaṃ) [thin](kṛśaṃ) [thick](sthūlaṃ) [deficient](hīnaṃ) [measure+exceeding](māna+adhikaṃ) [likewise](tathā)
 
 ## mukta-m0-p152-v3791
-[marks-lost](lakṣmojjhitaṃ) [thunder-struck](vajrahataṃ) [joined](saṃpuṭaṃ) [cracked](sphuṭitaṃ) [thus](tathā)
+[mark+devoid](lakṣma+ujjhitaṃ) [thunderbolt+struck](vajra+hataṃ) [closed](saṃpuṭaṃ) [split](sphuṭitaṃ) [likewise](tathā)
 
 ## mukta-m0-p152-v3792
-[abandonable](tyājyāni) [in-all-ways](sarvathā) [these](etāni) [lingas](liṅgāni) [sixteen](ṣoḍaśa) [indeed](eva) [that](tat)
+[to-be-abandoned](tyājyāni) [in-every-way](sarvathā) [these](etāni) [liṅgas](liṅgāni) [sixteen](ṣoḍaśa) [indeed](eva) [that](tat)
 
 ## mukta-m0-p152-v3793
-[very-high-low](atyuccanimna) [etc](ādi) [direction-confused](dikmūḍha) [middle](madhyasthaṃ) [uneven](viṣama) [placed](sthitam)
+[very-high+low+etc.+direction+confused](atyucca+nimna+ādi+dik+mūḍham) [in-middle+standing](madhya+sthaṃ) [unevenly+situated](viṣama+sthitam)
 
 ## mukta-m0-p152-v3794
-[by-ignorant](ajñena) [established](sthāpitaṃ) [linga](liṅgaṃ) [thus](tathā) [mantra](mantra) [action-other](kriyetaram)
+[by-ignorant](ajñena) [installed](sthāpitaṃ) [liṅga](liṅgaṃ) [likewise](tathā) [mantra+rite+other](mantra+kriyā+itaram)
 
 ## mukta-m0-p152-v3795
-[thus](tathā) [indeed](eva) [to-be-established](sthāpanīyāni) [if](yadi) [these](etāni) [without-wound](avraṇāni) [hi](hi)
+[likewise](tathaiva) [to-be-installed](sthāpanīyāni) [if](yadi) [these](etāni) [without-flaw](avraṇāni) [indeed](hi)
 
 ## mukta-m0-p152-v3796
-[worn](jīrṇaṃ) [or](vā) [or](api) [broken](bhagnaṃ) [by-rite](vidhinā) [api](api) [not](na) [move](cālayet)
+[decayed](jīrṇaṃ) [or](vā) [or-else](athavā) [broken](bhagnaṃ) [by-rule](vidhinā) [even](api) [not](na) [one-should-move](cālayet)
 
 ## mukta-m0-p152-v3797
-[being-carried](hriyamāṇaṃ) [by-water](jalena) [taken](hṛtaṃ) [by-that](tena) [ca](ca) [what](yad) [becomes](bhavet)
+[being-carried-away](hriyamāṇaṃ) [by-water](jalena) [carried-away](hṛtaṃ) [by-that](tena) [and](ca) [what](yat) [may-be](bhavet)
 
 ## mukta-m0-p152-v3798
-[establishment](sthāpanaṃ) [in-those](teṣu) [or](vā) [elsewhere](anyatra) [to-be-done](kartavyaṃ) [as-before](pūrvavat) [face](mukham)
+[installation](sthāpanaṃ) [in-those](teṣu) [or](vā) [elsewhere](anyatra) [to-be-done](kartavyaṃ) [as-before](pūrva+vat) [facing](mukham)
 
 ## mukta-m0-p152-v3799
-[thousand-bowed](sahasrakārmuka) [end](antaṃ) [or](vā) [establish](sthāpayet) [linga](liṅgaṃ) [with-respect](mādarāt)
+[thousand+bow-lengths+up-to](sahasra+kārmuka+antaṃ) [or](vā) [one-should-install](sthāpayet) [liṅga](liṅgaṃ) [with-respect](sa+ādarāt)
 
 ## mukta-m0-p152-v3800
-[idol](bere) [stone-made](śilāmaye) [mārde](mārde) [baked](pakve) [vā](vā) [wood](vṛkṣe) [atha](atha) [gem-born](ratnaje)
+[in-image](bere) [stone+made](śilā+mayem) [in-unbaked](āmarde) [in-baked](pakve) [or](vā) [in-wooden](ārkṣe) [then](atha) [in-jewel+born](ratna+je)

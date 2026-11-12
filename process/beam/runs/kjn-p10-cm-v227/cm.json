@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound=candra+first-member",
+   "morph": "compound=candra+first",
    "grounds": "first member of compound with dvīpa"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound=dvīpa+second-member",
-   "grounds": "second member of compound with vinirgate"
+   "morph": "compound=dvīpa+second",
+   "grounds": "second member of compound with candra"
   },
   {
    "lemma": "vinirgate",
@@ -20,12 +20,12 @@
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal qualifier of the chapter"
+   "grounds": "ordinal number of the chapter"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject completing the section"
+   "grounds": "section designation"
   }
  ]
 }

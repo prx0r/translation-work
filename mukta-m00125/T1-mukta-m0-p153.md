@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-limb-deficient [aṅgahīne] but [tu] that-abandonable [tattyājya] thus-here [mityatraja] deliberation [vicāraṇā]
+[limb+deficient](aṅga+hīne) [but](tu) [that+to-be-abandoned](tat+tyājya) [thus+here](iti+atra) [consideration](vicāraṇā)
 
 ## mukta-m0-p153-v3802
-ear-tooth-etc-by-deficient [karṇadantādibhirhīne] that-that-substance-firm [tattaddravyardṛḍhaṃ] lead [nayet]
+[ear+tooth+etc.+deficient](karṇa+danta+ādibhiḥ+hīne) [that+that+material](tat+tat+dravya) [firmly](dṛḍhaṃ) [one-should-lead](nayet)
 
 ## mukta-m0-p153-v3803
-foot-hand-deficient-thus-abandonable [padbāhuhīnetyājyaṃ] or [vā] joining [sandhānaṃ] or [vā] residence-practice [vāsamācaret]
+[foot+arm+deficient](pad+bāhu+hīne) [to-be-abandoned](tyājyaṃ) [or](vā) [joining](sandhānaṃ) [or](vā) [one-should-perform](samācaret)
 
 ## mukta-m0-p153-v3804
-limb [aṅgaṃ] principal-spike [pradhānaśūlaṃ] is [syāt] brahma-staff-but [brahmadaṇḍastu] is-called [kathyate]
+[limb](aṅgaṃ) [principal+peg](pradhāna+śūlaṃ) [should-be](syāt) [brahma-staff](brahma+daṇḍaḥ) [but](tu) [is-called](kathyate)
 
 ## mukta-m0-p153-v3805
-thigh-located-knee-calf [ūrusthejānujaṅghe] and [ca] sub-limbs-declared [upāṅgānyuditāṇi] and [ca]
+[thigh](ūruḥ) [and](ca) [knee+shank](jānu+jaṅghe) [and](ca) [secondary-limbs](upāṅgāni) [declared](uditāṇi) [and](ca)
 
 ## mukta-m0-p153-v3806
-brahma-staff-devoid [brahmadaṇḍavihīne] but [tu] spike-establishment-begin [śūlasthāpanamārabhet]
+[brahma-staff+devoid](brahma+daṇḍa+vihīne) [but](tu) [peg+installation](śūla+sthāpanam) [one-should-begin](ārabhet)
 
 ## mukta-m0-p153-v3807
-previously-established [pūrvasaṃsthāpito] brahma-staff-if [brahmadaṇḍaścel] lakṣaṇa-endowed [lakṣaṇānvitaḥ]
+[previously+installed](pūrva+saṃsthāpitaḥ) [brahma-staff](brahma+daṇḍaḥ) [if](cet) [with-characteristics+endowed](lakṣaṇa+anvitaḥ)
 
 ## mukta-m0-p153-v3808
-breakage-etc-of [bhaṅgādīnāṃ] arising [samutpattau] again-establishment [punassaṃsthāpanaṃ] lead [nayet]
+[breakage+etc.](bhaṅga+ādīnāṃ) [arising](samutpattau) [again+installation](punaḥ+saṃsthāpanaṃ) [one-should-perform](nayet)
 
 ## mukta-m0-p153-v3809
-jewel-born [ratnajaṃ] and [ca] abandonable [parityājyaṃ] receivable [grāhyaṃ] or [vā] for-joining [ghaṭanāya] and [ca]
+[jewel-made](ratna+jaṃ) [and](ca) [to-be-abandoned](parityājyaṃ) [to-be-taken](grāhyaṃ) [or](vā) [for-joining](ghaṭanāya) [and](ca)
 
 ## mukta-m0-p153-v3810
-metal [lohaṃ] liquefied [dravīkṛtaṃ] there [tatra] join [yojayet] idol-work [berakarmaṇi]
+[metal](lohaṃ) [melted](dravīkṛtaṃ) [there](tatra) [one-should-apply](yojayet) [in-image-work](bera+karmaṇi)
 
 ## mukta-m0-p153-v3811
-unconsecrated [apratiṣṭhita] deity-if [devaścet] that-pedestal-from [tatpīṭhādauniyojayot]
+[not-consecrated](apratiṣṭhita) [deity](devaḥ) [if](cet) [that+pedestal+etc.](tat+pīṭha+ādau) [one-should-apply](niyojayot)
 
 ## mukta-m0-p153-v3812
-with-lakṣaṇa-but [salakṣaṇātu] pedestal [pīṭhī] if [cet] likewise [tadvat] brahma-stone-bull [brahmaśilāvṛṣaḥ]
+[with-good-characteristics](salakṣaṇā) [but](tu) [pedestal](pīṭhī) [if](cet) [likewise](tadvat) [brahma-stone+bull](brahma+śilā+vṛṣaḥ)
 
 ## mukta-m0-p153-v3813
-stone-pedestal-of [śailapīṭhasya] and [ca] extraction [uddhāraṃ] having-done [kṛtvā] stone [śailaṃ] but [tu] join [yojayet]
+[stone-pedestal](śaila+pīṭhasya) [and+lifting](ca+uddhāraṃ) [having-done](kṛtvā) [stone](śailaṃ) [but](tu) [one-should-apply](yojayet)
 
 ## mukta-m0-p153-v3814
-afterwards [paścāt] stone [śailaṃ] well-join [samāyojya] form [ākṛti] as-before [pūrvavad] becomes [bhavet]
+[afterwards](paścāt) [stone](śailaṃ) [to-be-joined](samāyojyam) [form](ākṛti) [as-before](pūrva+vat) [should-be](bhavet)
 
 ## mukta-m0-p153-v3815
-pavilion [maṇḍape] retinue [parivāre] and [ca] retinue-shrine-also [parivārālaye'pyathā]
+[in-hall](maṇḍape) [in-retinue](parivāre) [and](ca) [in-retinue-shrine](parivāra+ālaye) [also](api) [then](athā)
 
 ## mukta-m0-p153-v3816
-inner-maṇḍala-hall-etc [antarmaṇḍalasālādyaṃ] as-before [pūrvavat] arrange [parikalpayet]
+[inner-enclosure+hall+etc.](antar+maṇḍala+sālā+ādyaṃ) [as-before](pūrva+vat) [one-should-arrange](parikalpayet)
 
 ## mukta-m0-p153-v3817
-with-measure [sapramāṇe] as [yathā] scripture [śāstraṃ] prescribed-ornament-endowed [vihitālaṃkṛtānvite]
+[with-proper-measure](sa+pramāṇe) [as](yathā) [scripture](śāstraṃ) [prescribed+ornamented+endowed](vihita+alaṃkṛta+anvite)
 
 ## mukta-m0-p153-v3818
-auspicious [praśastā] east-north [prāgudag] growth [vṛddhiḥ] west [pratīcchyāṃ] by-enemies [ripubhiḥ] decay [kṣayaḥ]
+[auspicious](praśastā) [east+north](prāk+udag) [increase](vṛddhiḥ) [in-west](pratīcyāṃ) [by-enemies](ripubhiḥ) [loss](kṣayaḥ)
 
 ## mukta-m0-p153-v3819
-that-plot [tadvāstu] all-around-growth [paritovṛddhiḥ] equal-or-unequal [samāvāviṣamāpi] or [vā]
+[that+site](tat+vāstu) [all-around+increase](paritaḥ+vṛddhiḥ) [equal](samā) [or](vā) [unequal](aviṣamā) [also](api) [or](vā)
 
 ## mukta-m0-p153-v3820
-village-etc-of [grāmādīnāṃ] house-etc-of [gṛhādīnāṃ] halls-of [śālānāṃ] and [ca] especially [viśeṣataḥ]
+[of-villages+etc.](grāma+ādīnāṃ) [of-houses+etc.](gṛha+ādīnāṃ) [of-halls](śālānāṃ) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p153-v3821
-equal [samaṃ] or [vā] join [yojayet] from-that [tasmād] greater [adhikaṃ] or-also [vāpi] join [yojayet]
+[equal](samaṃ) [or](vā) [one-should-apply](yojayet) [than-that](tasmāt) [greater](adhikaṃ) [or](vā) [also](api) [one-should-apply](yojayet)
 
 ## mukta-m0-p153-v3822
-house-row-of-two [gṛhamālikayor] ground [bhūmiṃ] by-number [saṃkhyayā] arrange [parikalpayet]
+[house+row](gṛha+mālikayoḥ) [ground](bhūmiṃ) [by-number](saṃkhyayā) [one-should-arrange](parikalpayet)
 
 ## mukta-m0-p153-v3823
-of-stated [uktānāmapi] all [sarveṣā] speciality [viśeṣaḥ] some [kaścit] is-desired [iṣyate]
+[of-stated](uktānām) [also](api) [of-all](sarveṣā) [distinction](viśeṣaḥ) [some](kaścit) [is-desired](iṣyate)
 
 ## mukta-m0-p153-v3824
-in-old-covering [jīrṇepidhāne] abode-etc [dhāmādyam] seat-located-etc [āsanasthādibhiḥ] equal [samam]
+[in-worn-out+covering](jīrṇe+pidhāne) [shrine+etc.](dhāma+ādyam) [with-seat-situated+etc.](āsana+stha+ādibhiḥ) [equal](samam)
 
 ## mukta-m0-p153-v3825
-linga-etc [liṅgādau] and [ca] pot [ghaṭe] full [pūrṇe] pedestal [pīṭhe] or [vā] daily [pratyahaṃ] sacrifice [yajet]
+[in-liṅga+etc.](liṅga+ādau) [and](ca) [in-pot](ghaṭe) [full](pūrṇe) [in-pedestal](pīṭhe) [or](vā) [daily](pratyahaṃ) [one-should-worship](yajet)
