@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[like-sheaths](kañcukaiḥ+iva) [enveloped](vṛtaḥ) [he](saḥ) [having-attained-the-masculine](pauruṣīm+āgataḥ) [nature](prakṛtim) [elevated](utkṛtām) [by-the-guṇas](guṇaiḥ)
+[sheaths](kañcukaiḥ)+[like](iva) [covered](vṛtaḥ) [he](sa) [of-puruṣa](pauruṣīm)+[attained](āgataḥ) [nature](prakṛtim)+[elevated](utkṛtāṃ) [by-guṇas](guṇaiḥ)
 
 ## mukta-m0-p24-v577
-[creating-the-inner](āntarīḥ+viracayan) [and-the-outer](bahiḥ+tathā) [by-the-ten-sense-organs](daśa+indriyaiḥ) [possessing-qualities-such-as-sound](śabdita+ādi+guṇibhiḥ)
+[inner](āntarīḥ)+[fashioning](viracayan) [outside](bahiḥ)+[likewise](tathā) [sound](śabdita)+[and-so-on](ādi)+[endowed-with](guṇibhiḥ)+[ten](daśa)+[senses](indriyaiḥ)
 
 ## mukta-m0-p24-v578
-[forms](ākarāḥ) [also](api) [headed-by-the-womb](jarāyu+maulayaḥ) [there](tatra) [shine](bhānti) [separately](pṛthak) [by-the-will-of-the-Lord](īśvara+icchayā)
+[forms](ākarāḥ) [also](api) [womb](jarāyu)+[headed-by](maulayaḥ)+[there](tatra) [shine](bhānti) [separately](pṛthak)+[by-lord's](īśvara)+[will](icchayā)
 
 ## mukta-m0-p24-v579
-[the-multitude-of-elements](bhūta+yūtham) [shines-forth](abhibhāti) [though-illumined](bhāsitaḥ+api) [the-creation-of-objects](artha+sargaḥ) [thus](iti) [according-to-my-capacity](śakti+taḥ) [by-me](mayā)
+[element](bhūta)+[multitude](yūtham)+[shines-forth](abhibhāti) [illuminated](bhāsitaḥ)+[also](api)+[object](artha)+[creation](sargaḥ) [thus](iti) [according-to-ability](śaktitaḥ) [by-me](mayā)
 
 ## mukta-m0-p24-v580
-[I-know](vedmi) [her](tām) [the-cause-of-all](sakala+kāraṇam) [the-auspicious-one](śivām) [I-worship](pūjayāmi) [and](ca) [I-recite](japāmi) [contemplating](bhāvayan)
+[I-know](vedmi) [her](tām) [of-all](sakala)+[cause](kāraṇam) [auspicious-one](śivām) [I-worship](pūjayāmi) [and](ca) [I-mutter](japāmi) [contemplating](bhāvayan)
 
 ## mukta-m0-p24-v581
-[by-the-name](ākhyayā) [requested](ācita) [brought-to-the-state-of-a-hymn](stotratāṃ+gamitayā) [numbering-a-thousand](sahasra+saṃkhyayā) [I-bow-to](abhinaumi) [her](tām)
+[by-name](ākhyayā)+[collected](ācita)+[thousand](sahasra)+[number](saṃkhyayā) [to-state-of-hymn](stotratāṃ) [brought](gamitayā)+[I-praise](abhinaumi) [her](tām)
 
 ## mukta-m0-p24-v582
-[he](saḥ) [having-bowed](praṇamya) [with-the-head](śirasā) [with-folded-hands](kṛta+añjaliḥ) [Nandikeśvara](nandikeśvaraḥ) [spoke](uvāca) [the-lord-of-speech](vāk+patiḥ)
+[he](sa) [having-bowed](praṇamya) [with-head](śirasā) [with-folded-hands](kṛtāñjaliḥ)+[Nandikeśvara](nandikeśvara) [spoke](uvāca) [lord-of-speech](vākpatiḥ)
 
 ## mukta-m0-p24-v583
-[to-me](mayi) [having-attained-the-state-of-servant-of-servants](dāsa+dāsa+padavīṃ+gate) [be-gracious](saṃprasīda) [taking-refuge-in-you-alone](bhavat+eka+saṃśraye)
+[of-servant](dāsa)+[of-servant](dāsa)+[to-state](padavīṃ) [gone](gate) [in-me](mayi) [be-gracious](saṃprasīda) [in-you](bhavat)+[alone](eka)+[taking-refuge](saṃśraye)
 
 ## mukta-m0-p24-v584
-[I-am-honored](ādṛtaḥ+asmi) [taking-refuge](śaraṇam) [having-devotion-and-love-for-you-alone](tvad+eka+prīti+bhaktiḥ) [thus](iti) [I-undertake-this-boldness](dhārṣṭyam+ārabhe)
+[I-am-honored](ādṛtaḥ)+[am](asmi) [refuge](śaraṇam) [in-you](tvad)+[alone](eka)+[love](prīti)+[devotion](bhaktiḥ)+[thus](iti) [boldness](dhārṣṭyam)+[I-undertake](ārabhe)
 
 ## mukta-m0-p24-v585
-[not](na) [until-today](adya+yāvat) [excessively](adhikām) [by-me](mayā) [nor](na) [requests-and-so-forth](arthanā+ādiḥ) [deserve-fruitlessness](aphalatvam+arhati)
+[not](nā)+[today](adya) [until](yāvat)+[excessively](adhikām)+[this](itam) [by-me](mayā) [not](nā)+[request](arthanā)+[and-so-on](ādi)+[fruitlessness](aphalatvam)+[deserves](arhati)
 
 ## mukta-m0-p24-v586
-[even-if](yadi) [unspeakable](avācyam) [also](api) [that](tat) [nevertheless](tathā+api) [by-me](me) [to-be-spoken](vācyam+eva) [out-of-compassion](dayayā) [by-those-who-are-abodes-of-compassion](dayā+āśrayaiḥ)
+[even-if](yadi)+[unspeakable](avācyam)+[also](api) [that](tat)+[even-so](tathā)+[also](api) [by-me](me) [to-be-spoken](vācyam)+[indeed](eva) [out-of-compassion](dayayā) [by-compassion](dayā)+[abodes](āśrayaiḥ)
 
 ## mukta-m0-p24-v587
-[throughout-life](janma+yāvat) [propitiating](abhirādhayan) [Śiva](śivam) [for](hi) [worship](rādhanā) [is-the-means-of-attaining-the-supreme-goal](para+siddhi+sādhanī)
+[from-birth](janma) [as-long-as](yāvat)+[propitiating](abhirādhayan)+[Śiva](śivaṃ) [propitiation](rādhanā) [indeed](hi) [supreme](para)+[attainment](siddhi)+[accomplishing](sādhanī)
 
 ## mukta-m0-p24-v588
-[that](tām) [one-should-practice](caret) [and-also](tad+api) [that-truth](tat+tvam) [accordingly](api+anu) [otherwise](anyathā) [how](kutaḥ) [can-there-be-certainty](bhavati+nirṇayaḥ)
+[that](tām) [one-should-practice](caret)+[and-also](tadapi) [that](tat)+[truth](tvam)+[also](api)+[accordingly](anu) [otherwise](hi)+[otherwise](anyathā) [becomes](bhavati) [certainty](nirṇayaḥ) [whence](kutaḥ)
 
 ## mukta-m0-p24-v589
-[your-own](nijām) [lordship](svāmitām) [also](api) [in-the-hymn](stave) [O-Lord](īśvaram) [you-should-declare](vaktum+arhasi) [O-mighty-one](vibho) [the-powerful](prabhāviṇam)
+[lordship](svāmitām)+[also](api) [own](nijāṃ) [in-hymn](stave)+[O-lord](īśvaraṃ) [to-speak](vaktum)+[you-should](arhasi) [O-mighty-one](vibho) [powerful](prabhāviṇam)
 
 ## mukta-m0-p24-v590
-[for](yat) [what-is-done](vidhīyate) [this](idam) [is-not-fitting](na+yujyate) [indeed](hi) [for-the-supreme](uttamāya) [victory](vijayaḥ) [death](mṛtiḥ) [are-equal](same)
+[which](yad)+[is-done](vidhīyata) [this](idam) [not](na) [is-fitting](yujyate) [indeed](hi)+[for-the-superior](uttamāya) [victory](vijayaḥ) [death](mṛtiḥ) [equal](same)
 
 ## mukta-m0-p24-v591
-[but-today](adya+tu) [having-heard-your-great-majesty](śruta+mahā+anubhāvataḥ) [again](bhūyaḥ+eva) [on-all-sides](paritaḥ) [shining-forth](samunmiṣat)
+[today](adya) [but](tu) [having-heard](śruta)+[great](mahā)+[majesty](anubhāvataḥ) [again](bhūyaḥ) [indeed](eva) [all-around](paritaḥ) [shining-forth](samunmiṣat)
 
 ## mukta-m0-p24-v592
-[is-spoken](procyate) [in-me](mayi) [my](mama) [attains-fame](prasiddhatāṃ+yāti) [devotion](bhaktiḥ) [also](api) [to-you](te) [compassion](dayā) [then](tadā)
+[is-spoken](procyate) [in-me](mayi) [my](mama) [to-fame](prasiddhatāṃ) [goes](yāti) [devotion](bhaktiḥ)+[also](api) [your](te) [compassion](dayā) [then](tadā)
 
 ## mukta-m0-p24-v593
-[this](imam) [issued-from-your-mouth](tvat+mukha+udgatam) [having-reflected-upon](vicintya) [which](yat) [who](kaḥ) [does-not-bow](na+nauti) [new-and-wondrous](nava+rāja+adbhutam)
+[from-your-mouth](tvat)+[mouth](mukha)+[emerged](udgatam)+[this](imam) [having-considered](vicintya) [which](yat) [who](kaḥ) [not](na) [praises](nauti) [new](nava)+[king](rāja)+[wonderful](madbhutam)
 
 ## mukta-m0-p24-v594
-[even-until-today](adya+yāvat+api) [that-which](yat) [was-not-asked](na+vā+anyathā) [asked](pṛṣṭam) [today](adya) [but](tu) [why](katham) [should-it-not-be-asked](na+pṛcchyatām)
+[today](adya) [until](yāvat)+[also](api) [which](yat)+[not](na) [or](vā)+[otherwise](anyathā) [asked](pṛṣṭam)+[today](adya) [but](tu) [how](kathaṃ) [not](na) [should-be-asked](pṛcchyatām)
 
 ## mukta-m0-p24-v595
-[that-which](yat) [even-if-not-to-be-given](na+deyam+api) [that](tat) [by-those-whose-wealth-is-compassion](dayā+dhanaiḥ) [is-given](dīyate) [why-not](kimu+na) [to-one-who-serves-the-feet](pāda+sevine)
+[which](yat)+[not](na) [to-be-given](deyam)+[also](api) [that](tat) [by-compassion](dayā)+[wealthy](dhanaiḥ)+[is-given](dīyate) [how-much-more](kimu) [not](na) [to-foot](pāda)+[servant](sevine)
 
 ## mukta-m0-p24-v596
-[fitness](yogyatām) [also](api) [having-discerned](vivicya) [in-the-true-scripture](sat+śrutau) [did-it-not-say](sma+āha) [why](kim) [not](na) [easily-attainable](su+labham) [from-the-refuge-of-the-good](sat+āśrayāt)
+[worthiness](yogyatām)+[also](api) [having-discerned](vivicya) [in-true-scripture](sat)+[śrutau] [said](sma)+[ah](āha) [what](kim) [not](na) [easy-to-obtain](sulabham) [from-good](sat)+[refuge](āśrayāt)
 
 ## mukta-m0-p24-v597
-[its-fruit](tat+phalam) [ripened](pariṇatam) [indeed-this](tu+idam) [the-mind](matiḥ) [which](yat) [is-inquiring](anuyoginī) [into-a-particular-subject](viśeṣa+viṣaye)
+[that](tat)+[fruit](phalam) [ripened](pariṇatam) [indeed](tu)+[this](idam) [mind](matiḥ)+[which](yad) [in-special](viśeṣa)+[object](viṣaye)+[inquiring](anuyoginī)
 
 ## mukta-m0-p24-v598
-[by-whom](kaiḥ) [even](api) [this](idam) [was-asked-and-stated](anuyuktam+īritam) [not](no) [by-me-also](mayā+api) [knowing-the-tradition-of-the-doctrine](samaya+prathā+vidā)
+[by-whom](kaiḥ)+[even](api)+[this](idam)+[inquired](anuyuktam)+[spoken](īritam) [not](no) [by-me](mayā)+[also](api) [tradition](samaya)+[establishment](prathā)+[knowing](vidā)
 
 ## mukta-m0-p24-v599
-[throughout-life](janma+yāvat) [worshipping-more-and-more](adhika+adhikam+bhajan) [fitness-as-a-recipient](pātratām) [therefore](ataḥ) [you-are](asi) [in-that-scripture](tat+śrutau)
+[from-birth](janma) [as-long-as](yāvat)+[more-and-more](adhikādhikam) [worshipping](bhajan) [worthiness](pātratām)+[therefore](ataḥ) [hence](itaḥ)+[you-are](asi) [in-that-scripture](tat)+[śrutau]
 
 ## mukta-m0-p24-v600
-[for](hi) [its-fruit](tat+phalam) [is-in-your-hand](tava+hasta+gam) [because](yataḥ) [you-are-the-doorkeeper](dvāra+gaḥ+asi) [always](satatam) [even-in-secrecy](rahasya+api)
+[that](tat)+[fruit](phalam) [indeed](hi) [your](tava) [in-hand](hasta)+[gone](gam) [because](yataḥ) [door](dvāra)+[standing](gaḥ)+[you-are](asi) [always](satatam) [in-secret](rahasya)+[also](api)
