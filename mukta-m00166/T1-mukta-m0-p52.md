@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[cloud-sound](ghanadhvaniḥ) [she](sā) [dense+heat+remover](ghana+tāpa+hā) [may-be](astu)
+[cloud](ghana) [+](+) [sound](dhvaniḥ) [she](sā) [dense](ghana) [+](+) [heat](tāpa) [+](+) [remover](hā) [may-be](astu)
 
 ## mukta-m0-p52-v1277
-[accomplishment+giver](siddhi+dā) [accomplishment+giver](siddhi+dā) [accomplishment+giver](siddhi+dā) [accomplishment+giver](siddhi+dā)
+[success](siddhi) [+](+) [giver](dā)
 
 ## mukta-m0-p52-v1278
-[she](sā) [accomplishment+giver](siddhi+dā) [may-be](stāt) [of-me](mama) [of-accomplished+intellect](siddha+buddheḥ)
+[she](sā) [success](siddhi) [+](+) [giver](dā) [may-be](stāt) [of-me](mama) [accomplished](siddha) [+](+) [intellect](buddheḥ)
 
 ## mukta-m0-p52-v1279
-[intellect+giver](buddhi+dā) [intellect+giver](buddhi+dā) [intellect+giver](buddhi+dā) [intellect+giver](buddhi+dā)
+[intellect](buddhi) [+](+) [giver](dā)
 
 ## mukta-m0-p52-v1280
-[ever](jātucit) [not](na) [indeed](hi) [may-be](bhavet) [difference+prevalence](bhidā+prathā)
+[ever](jātucit) [not](na) [indeed](hi) [may-be](bhaved) [difference](bhidā) [+](+) [expansion](prathā)
 
 ## mukta-m0-p52-v1281
-[eternal](nityā) [eternal](nityā) [eternal](nityā) [eternal](nityā)
+[eternal](nityā)
 
 ## mukta-m0-p52-v1282
-[doctrine+abiding](siddhānta+sthā) [some](kācana) [ignorance+destroyer](ajñatva+hantrī) [some](kācana)
+[doctrine](siddhānta) [+](+) [abiding](sthā) [a-certain](kācana) [ignorance](ajñatva) [+](+) [destroyer](hantrī)
 
 ## mukta-m0-p52-v1283
-[true+path+awakener](satya+mārga+prabodhinī) [true+path+awakener](satya+mārga+prabodhinī) [true+path+awakener](satya+mārga+prabodhinī) [true+path+awakener](satya+mārga+prabodhinī)
+[true](satya) [+](+) [path](mārga) [+](+) [awakener](prabodhinī)
 
 ## mukta-m0-p52-v1284
-[of-the-deluded](bhrāntānāṃ) [you](tvaṃ) [always](sadā) [may-be](bhūyāḥ) [true+path+awakener](satya+mārga+prabodhinī)
+[of-the-deluded](bhrāntānāṃ) [you](tvaṃ) [always](sadā) [may-be](bhūyāḥ) [true](satya) [+](+) [path](mārga) [+](+) [awakener](prabodhinī)
 
 ## mukta-m0-p52-v1285
-[conch+necked](kambu+grīvā) [conch+necked](kambu+grīvā) [conch+necked](kambu+grīvā) [conch+necked](kambu+grīvā)
+[conch](kambu) [+](+) [necked](grīvā)
 
 ## mukta-m0-p52-v1286
-[conch+necked](kambu+grīvā) [for-welfare](śivāya) [may-be](astu) [golden+conch+adorned](svarṇa+kambu+virājitā)
+[conch](kambu) [+](+) [necked](grīvā) [for-welfare](śivāya) [may-be](astu) [golden](svarṇa) [+](+) [conch](kambu) [+](+) [adorned](virājitā)
 
 ## mukta-m0-p52-v1287
-[earth-possessing](vasumatī) [earth-possessing](vasumatī) [earth-possessing](vasumatī) [earth-possessing](vasumatī)
+[earth](vasumatī)
 
 ## mukta-m0-p52-v1288
-[welfare+giving](svasti+pradā) [may-be](astu) [earth-possessing](vasumatī) [on-all-sides](abhitaḥ) [with-arts](kalābhiḥ)
+[welfare](svasti) [+](+) [giver](pradā) [may-be](astu) [earth](vasumatī) [on-all-sides](abhitaḥ) [with-arts](kalābhiḥ)
 
 ## mukta-m0-p52-v1289
-[umbrella+shade+made+abode](chatra+cchāyā+kṛta+ālayā) [umbrella+shade+made+abode](chatra+cchāyā+kṛta+ālayā) [umbrella+shade+made+abode](chatra+cchāyā+kṛta+ālayā) [umbrella+shade+made+abode](chatra+cchāyā+kṛta+ālayā)
+[umbrella](chatra) [+](+) [shade](chāyā) [+](+) [made](ākṛta) [+](+) [abode](ālayā)
 
 ## mukta-m0-p52-v1290
-[fearless](nirbhayā) [with-compassion](dayayā) [may-protect](pāyāt) [umbrella+shade+made+abode](chatra+cchāyā+kṛta+ālayā)
+[fearless](nirbhayā) [with-compassion](dayayā) [may-protect](pāyāt) [umbrella](chatra) [+](+) [shade](chāyā) [+](+) [made](ākṛta) [+](+) [abode](ālayā)
 
 ## mukta-m0-p52-v1291
-[world+womb](jagad+garbhā) [world+womb](jagad+garbhā) [world+womb](jagad+garbhā) [world+womb](jagad+garbhā)
+[world](jagat) [+](+) [womb](garbhā)
 
 ## mukta-m0-p52-v1292
-[impression](vāsanāṃ) [of-womb+dwelling](garbha+vāsasya) [remove](hara) [again](bhūyaḥ) [supreme+goddess](para+īśvarī)
+[impression](vāsanāṃ) [womb](garbha) [+](+) [dwelling](vāsasya) [remove](hara) [again](bhūyaḥ) [supreme](para) [+](+) [goddess](īśvarī)
 
 ## mukta-m0-p52-v1293
-[coiled-one](kuṇḍalinī) [coiled-one](kuṇḍalinī) [coiled-one](kuṇḍalinī) [coiled-one](kuṇḍalinī)
+[coiled-one](kuṇḍalinī)
 
 ## mukta-m0-p52-v1294
-[she](sā) [this](iyaṃ) [coiled-one](kuṇḍalinī) [triumphs](jayati) [exceedingly](atitarāṃ) [of-soul+sole+life](jīva+eka+jīvaḥ) [auspicious](śivā)
+[this](sā) [indeed](iyam) [coiled-one](kuṇḍalinī) [triumphs](jayati) [exceedingly](atitarāṃ) [individual-soul](jīva) [+](+) [sole](eka) [+](+) [life](jīvaḥ) [auspicious](śivā)
 
 ## mukta-m0-p52-v1295
-[serpent+form+reclining](bhujaga+ākāra+śāyinī) [serpent+form+reclining](bhujaga+ākāra+śāyinī) [serpent+form+reclining](bhujaga+ākāra+śāyinī) [serpent+form+reclining](bhujaga+ākāra+śāyinī)
+[serpent](bhujaga) [+](+) [form](ākāra) [+](+) [reclining](śāyinī)
 
 ## mukta-m0-p52-v1296
-[great+path](mahā+pathaṃ) [gone](gatā) [she](sā) [you](tvaṃ) [serpent+form+reclining](bhujaga+ākāra+śāyinī)
+[great](mahā) [+](+) [path](pathaṃ) [gone](gatā) [she](sā) [you](tvaṃ) [serpent](bhujaga) [+](+) [form](ākāra) [+](+) [reclining](śāyinī)
 
 ## mukta-m0-p52-v1297
-[shining+seven+lotus](prollasat+sapta+padmā) [this](iyaṃ) [shining+seven+lotus](prollasat+sapta+padmā) [this](iyaṃ)
+[blossoming](prollasat) [+](+) [seven](sapta) [+](+) [lotus](padmā)
 
 ## mukta-m0-p52-v1298
-[shining+seven+lotus](prollasat+sapta+padmā) [this](iyaṃ) [sixteen+support+within-range](ṣoḍaśa+ādhāra+gocarā) [this](iyaṃ)
+[blossoming](prollasat) [+](+) [seven](sapta) [+](+) [lotus](padmā) [this](iyam) [sixteen](ṣoḍaśa) [+](+) [support](ādhāra) [+](+) [sphere](gocarā)
 
 ## mukta-m0-p52-v1299
-[navel+stalk+lotus-fiber](nābhi+nāla+mṛṇālinī) [navel+stalk+lotus-fiber](nābhi+nāla+mṛṇālinī) [navel+stalk+lotus-fiber](nābhi+nāla+mṛṇālinī) [navel+stalk+lotus-fiber](nābhi+nāla+mṛṇālinī)
+[navel](nābhi) [+](+) [stalk](nāla) [+](+) [lotus-fiber](mṛṇālinī)
 
 ## mukta-m0-p52-v1300
-[brahman+state+awakener](brahma+tā+bodhikā) [may-be](astu) [of-this](asya) [navel+stalk+lotus-fiber](nābhi+nāla+mṛṇālinī)
+[Brahman](brahma) [+](+) [state](tā) [+](+) [awakener](bodhikā) [may-be](astu) [of-this](asya) [navel](nābhi) [+](+) [stalk](nāla) [+](+) [lotus-fiber](mṛṇālinī)

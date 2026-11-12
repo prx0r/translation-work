@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-own-mind(svāntam) firm+own-mind(dṛḍha+svantam) this(iyam) may-make(karotu)
+[own-mind](svāntam) [firm](dṛḍha) [+own](sva) [+mind](antam) [this](iyam) [may-make](karotu)
 
 ## mukta-m0-p50-v1227
-śrī-nāma(śrī+nāma) in-sport(vilāse) eighth(aṣṭamī) devotion(bhaktiḥ)
+[in-śrī](śrī) [+name](nāma) [+sport](vilāse) [eighth](aṣṭamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p50-v1228
-desire(kāma) form(rūpa) dwelling(nivāsinī) she(kāmarūpanivāsinī)
+[kāmarūpa](kāmarūpa) [+dwelling](nivāsinī)
 
 ## mukta-m0-p50-v1229
-beautifully-smiling(suhāsinī) for-essence(rasāya) may-be(astu) desire-form-dwelling(kāmarūpa+nivāsinī)
+[beautifully-smiling](suhāsinī) [of-essence](rasāya) [may-be](astu) [kāmarūpa](kāmarūpa) [+dwelling](nivāsinī)
 
 ## mukta-m0-p50-v1230
-desire(kāma) seed(bīja) possessing(vatī) she(kāmabījavatī)
+[kāma](kāma) [+seed](bīja) [+possessing](vatī)
 
 ## mukta-m0-p50-v1231
-possessing(vatī) always(sadā) by-him(tena) not(na) served(sevitā) may-you-be(syāḥ)
+[possessing](vatī) [always](sadā) [by-him](tena) [not](na) [served](sevitā) [may-you-be](syāḥ)
 
 ## mukta-m0-p50-v1232
-true(satyā) real(satyā) truth(satyā) she(satyā)
+[true](satyā)
 
 ## mukta-m0-p50-v1233
-true-though(satyā+api) untrue(asatyam) this(idam) extends(ātanute) how(katham) or(vā)
+[true](satyā) [even-though](api) [untrue](asatyam) [this](idam) [spreads](ātanute) [how](katham) [or](vā)
 
 ## mukta-m0-p50-v1234
-truth(satya) dharma(dharma) devoted(parāyaṇā) she(satyadharmaparāyaṇā)
+[truth](satya) [+dharma](dharma) [+devoted](parāyaṇā)
 
 ## mukta-m0-p50-v1235
-truth-dharma-steady(satya+dharma+sthirāḥ) this(sā) she(iyam) truth-dharma-devoted(satya+dharma+parāyaṇā)
+[truth](satya) [+dharma](dharma) [+steadfast](sthirāḥ) [this](sā) [she](iyam) [truth](satya) [+dharma](dharma) [+devoted](parāyaṇā)
 
 ## mukta-m0-p50-v1236
-gross(sthūla) path(mārga) situated(sthitā) she(sthūlamārgasthitā)
+[gross](sthūla) [+path](mārga) [+situated](sthitā)
 
 ## mukta-m0-p50-v1237
-full-bliss(pūrṇa+ānandā) wonder(citram) this(etad) marvelous(vicitram)
+[full](pūrṇa) [+bliss](ānandā) [wonder](citram) [this](etat) [marvelous](vicitram)
 
 ## mukta-m0-p50-v1238
-subtle(sūkṣmā) fine(sūkṣmā) delicate(sūkṣmā) she(sūkṣmā)
+[subtle](sūkṣmā)
 
 ## mukta-m0-p50-v1239
-arise(bhavanti) without-effort(ayatnataḥ) of-whom(yasyāḥ) she(sā) subtle(sūkṣmā) of-what-kind(kīdṛśī) auspicious(śivā)
+[arise](bhavanti) [without-effort](ayatnataḥ) [of-whom](yasyāḥ) [she](sā) [subtle](sūkṣmā) [of-what-nature](kīdṛśī) [auspicious-one](śivā)
 
 ## mukta-m0-p50-v1240
-subtle(sūkṣma) intellect(buddhi) awakening(prabodhinī) she(sūkṣmabuddhiprabodhinī)
+[subtle](sūkṣma) [+intellect](buddhi) [+awakener](prabodhinī)
 
 ## mukta-m0-p50-v1241
-how(katham) to-be-known(jñeyā) not(na) if(cet) she(sā) may-be(syāt) subtle-intellect-awakening(sūkṣma+buddhi+prabodhinī)
+[how](katham) [to-be-known](jñeyāt) [not](na) [if](cet) [she](sā) [may-be](syāt) [subtle](sūkṣma) [+intellect](buddhi) [+awakener](prabodhinī)
 
 ## mukta-m0-p50-v1242
-six(ṣaṭ) angle(koṇā) hexagon(ṣaṭkoṇā) she(ṣaṭkoṇā)
+[six](ṣaṭ) [+cornered](koṇā)
 
 ## mukta-m0-p50-v1243
-she(sā) six-angled(ṣaṭ+koṇā) six-action-firmness(ṣaṭ+kriyā+dārḍhya) giving(dā) may-be(astu)
+[she](sā) [six](ṣaṭ) [+cornered](koṇā) [six](ṣaṭ) [+action](kriyā) [+firmness](dārḍhya) [+giver](dā) [may-be](astu)
 
 ## mukta-m0-p50-v1244
-three(tri) angle(koṇā) triangle(trikoṇā) she(trikoṇā)
+[three](tri) [+cornered](koṇā)
 
 ## mukta-m0-p50-v1245
-this(sā) she(iyam) illusion(māyā) by-what(kena) measure(mānena) mother(mātā)
+[this](sā) [she](iyam) [māyā](māyā) [by-what](kena) [measure](mānena) [mother](mātā)
 
 ## mukta-m0-p50-v1246
-three(tri) eyed(netrā) three-eyed(trinetrā) she(trinetrā)
+[three](tri) [+eyed](netrā)
 
 ## mukta-m0-p50-v1247
-she(sā) to-me(me) three-eyed(tri+netrā) to-givers(dadatām) good-eye(su+netram)
+[she](sā) [to-me](me) [three](tri) [+eyed](netrā) [to-givers](dadatām) [good-eye](sunetram)
 
 ## mukta-m0-p50-v1248
-three-city-beautiful(tripura+sundarī) lovely(tripurasundarī) goddess(tripurasundarī) she(tripurasundarī)
+[Tripura](tripura) [+beautiful](sundarī)
 
 ## mukta-m0-p50-v1249
-three-eyed-beloved(tri+netra+dayitā) beneficent(hitā) three-city-beautiful(tripura+sundarī) may-protect(pātu) us(naḥ)
+[three](tri) [+eye](netra) [+beloved](dayitā) [beneficent](hitā) [Tripura](tripura) [+beautiful](sundarī) [may-protect](pātu) [us](naḥ)
 
 ## mukta-m0-p50-v1250
-bull(vṛṣa) dear(priyā) bull-beloved(vṛṣapriyā) she(vṛṣapriyā)
+[bull](vṛṣa) [+beloved](priyā)

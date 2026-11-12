@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[pregnant-within](antarvatnī) [she](sā) [inner-power](antar+śaktiḥ) [goddess](devī)
+[inner](antar) [+pregnant](vatnī) [pregnant-one](antarvatnī) [bearing-within](antarvatnī)
 
 ## mukta-m0-p49-v1202
-[by-reflection](vimarśanena) [in-the-self](ātmani) [consciousness-made](cinmaye) [pregnant-within](antarvatnī) [auspicious](śivā) [this](iyam) [by-the-wise](matimadbhiḥ) [praiseworthy](īḍyā)
+[by-reflection](vimarśanena) [+in-the-self](ātmani) [consciousness-made](cinmaye) [+pregnant-within](antarvatnī) [auspicious](śivā) [+this](iyam) [by-the-wise](matimadbhiḥ) [+to-be-praised](īḍyā)
 
 ## mukta-m0-p49-v1203
-[veda-power](veda+śaktiḥ) [she](sā) [sacred-energy](brahma+śaktiḥ) [goddess](devī)
+[veda](veda) [+power](śaktiḥ) [knowledge-power](vedaśaktiḥ) [sacred-energy](vedaśaktiḥ)
 
 ## mukta-m0-p49-v1204
-[knowable](vedyā) [not](na) [or](vā) [she](sā) [may-protect](avatu) [veda-power](veda+śaktiḥ)
+[to-be-known](vedyā) [not](na) [or](vā) [she](sā) [+may-protect](avatu) [veda](veda) [+power](śaktiḥ)
 
 ## mukta-m0-p49-v1205
-[boon-giver](vara+dā) [she](sā) [granter-of-wishes](vara+pradā) [goddess](devī)
+[boon](vara) [+giver](dā) [boon-giver](varadā) [granting-boons](varadā)
 
 ## mukta-m0-p49-v1206
-[boon-giver](vara+dā) [indeed](tu) [this](iyam) [alone](eva) [always](sadā) [renowned](prathitā) [two-feet](caraṇau) [as-refuge](śaraṇau) [may-resort](śrayatām) [with-compassion](dayayā)
+[boon-giver](varadā) [indeed](tu) [+this](iyam) [+alone](eva) [always](sadā) [celebrated](prathitā) [two-feet](caraṇau) [as-refuge](śaraṇau) [may-resort](śrayatām) [with-compassion](dayayā)
 
 ## mukta-m0-p49-v1207
-[boon-holder](vara+dhāriṇī) [she](sā) [granter-of-boons](vara+dātrī) [goddess](devī)
+[boon](vara) [+holder](dhāriṇī) [boon-holder](varadhāriṇī) [bearing-boons](varadhāriṇī)
 
 ## mukta-m0-p49-v1208
-[are-praised](saṃkīrtyase) [you](tvam) [boon-holder](vara+dhāriṇī) [thus](iti)
+[are-praised](saṃkīrtyase) [you](tvaṃ) [boon](vara) [+holder](dhāriṇī) [+thus](iti) [as-boon-holder](varadhāriṇī) [celebrated](saṃkīrtyase)
 
 ## mukta-m0-p49-v1209
-[cool-one](śītalā) [she](sā) [soothing-goddess](śīta+devī) [peaceful](śāntā)
+[cool](śīta) [+possessing](lā) [cool-one](śītalā) [soothing](śītalā)
 
 ## mukta-m0-p49-v1210
-[anger-heat-destroyer](krodha+uṣma+hantrī) [own-knowledge-creator](nija+bodha+kartrī) [she](sā) [goddess](devī)
+[anger](krodha) [+heat](ūṣma) [+destroyer](hantrī) [own](nija) [+knowledge](bodha) [+creator](kartrī)
 
 ## mukta-m0-p49-v1211
-[of-good-conduct](su+śīlā) [she](sā) [virtuous-one](sad+vṛttā) [goddess](devī)
+[good](su) [+conduct](śīlā) [virtuous](suśīlā) [well-disposed](suśīlā)
 
 ## mukta-m0-p49-v1212
-[may-protect](sāvyāt) [of-good-conduct](su+śīlā) [by-her-own-play](nija+līlayā) [this-one](enam)
+[may-protect](sāvyāt) [good](su) [+conducted](śīlā) [own](nija) [+play](līlayā) [+this-one](enam)
 
 ## mukta-m0-p49-v1213
-[child-demon-destroyer](bāla+graha+vināśinī) [she](sā) [protector](rakṣiṇī) [goddess](devī)
+[child](bāla) [+seizer](graha) [+destroyer](vināśinī) [destroyer-of-child-demons](bālagrahavināśinī)
 
 ## mukta-m0-p49-v1214
-[yogins](yoginaḥ) [even](api) [therefore](tataḥ) [I-know](jāne) [to-obtain](labdhum) [desire](vāñchanti) [childhood](śaiśavam)
+[yogins](yoginaḥ) [+even](api) [therefore](tataḥ) [I-know](jāne) [to-obtain](labdhuṃ) [desire](vāñchanti) [childhood](śaiśavam)
 
 ## mukta-m0-p49-v1215
-[young-maiden](kumārī) [she](sā) [virgin-goddess](kanyā+devī) [eternal](nityā)
+[maiden](kumārī) [young-girl](kumārī) [virgin-goddess](kumārī) [princess](kumārī)
 
 ## mukta-m0-p49-v1216
-[goddess](devī) [sung](gītā) [she](sā) [young-maiden](kumārī) [ancient](purāṇā)
+[goddess](devī) [sung](gītā) [she](sā) [maiden](kumārī) [ancient](purāṇā)
 
 ## mukta-m0-p49-v1217
-[of-good-festivals](su+parvā) [she](sā) [auspicious-occasion](śubha+parvan) [goddess](devī)
+[good](su) [+festival](parvā) [auspicious-festival](suparvā) [sacred-occasion](suparvā)
 
 ## mukta-m0-p49-v1218
-[in-giving-and-other-acts](dāna+ādi+kṛtyeṣu) [of-supreme-merit-form](su+puṇya+rūpā) [renowned](khyātā) [of-good-festivals](su+parvā) [may-be](astu) [for-happiness](sukhāya) [complete](sārvā)
+[in-giving](dānā) [+etc.](ādi) [+acts](kṛtyeṣu) [very-auspicious](su) [+merit](puṇya) [+form](rūpā) [renowned](khyātā) [auspicious-festival](suparvā) [+may-be](astu) [for-happiness](sukhāya) [all-bestowing](sārvā)
 
 ## mukta-m0-p49-v1219
-[named-Kāmākhyā](kāma+ākhyā) [she](sā) [desire-named](kāma+nāmnī) [goddess](devī)
+[desire](kāma) [+named](ākhyā) [Kāmākhyā](kāmākhyā) [desire-named-goddess](kāmākhyā)
 
 ## mukta-m0-p49-v1220
-[named-Kāmākhyā](kāma+ākhyā) [this](iyam) [some](kāpi) [by-desireless-action](niṣkāma+karma) [to-be-known](jñeyā) [may-protect](pāyāt) [goddess](devatā) [me](mām) [may-protect](apāyāt)
+[desire-named](kāmākhyā) [+this](iyam) [some](kāpi) [desireless](niṣkāma) [+action](karma) [+to-be-known](jñeyā) [may-protect](pāyāt) [goddess](devatā) [me](mām) [+may-protect](apāyāt)
 
 ## mukta-m0-p49-v1221
-[adored-by-Kāma](kāma+vanditā) [she](sā) [worshipped-by-desire](kāma+pūjitā) [goddess](devī)
+[by-desire](kāma) [+worshipped](vanditā) [worshipped-by-Kāma](kāmavanditā) [adored-by-desire](kāmavanditā)
 
 ## mukta-m0-p49-v1222
-[knowing](viti) [having-thought](matvā) [indeed](kila) [adored-by-Kāma](kāma+vanditā) [you](tvam)
+[knowing](viti) [having-thought](matvā) [indeed](kila) [by-desire](kāma) [+worshipped](vanditā) [you](tvam)
 
 ## mukta-m0-p49-v1223
-[Jālandhara-holder](jālandhara+dharā) [she](sā) [seat-bearer](pīṭha+dharā) [goddess](devī)
+[Jālandhara](jālandhara) [+supporting](dharā) [Jālandhara-supporting](jālandharadharā) [holder-of-Jālandhara](jālandharadharā)
 
 ## mukta-m0-p49-v1224
-[Jālandhara-holder](jālandhara+dharā) [she](sā) [alone](eva) [only](kevalā) [god-of-gods](deva+devatā)
+[Jālandhara](jālandhara) [+supporting](dharā) [she](sā) [+alone](eva) [only](kevalā) [god](deva) [+of-gods](devatā)
 
 ## mukta-m0-p49-v1225
-[endless-one](anantā) [she](sā) [infinite-goddess](ananta+devī) [limitless](aparimitā)
+[without-end](an) [+end](antā) [endless](anantā) [infinite](anantā)
