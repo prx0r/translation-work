@@ -34,6 +34,24 @@ Importer (re-runnable): `/root/openpatalaproject/pipeline/import_muktabodha_fina
 Current top of queue (untranslated, shortest): see
 `python3 tools/bibliography.py priority --limit 20`.
 
+## OpenPatala REST API (live)
+
+Public, read-only, Postgres-backed: **`https://patala.svatantrya.net`** (46 `/v1/*`
+routes + `/health`; OpenAPI at `/openapi.json`). Durable: `openpatala-api.service`
+(:8802, enabled) behind `svatantrya-tunnel.service`.
+
+Useful for translation work:
+- `/v1/resolve?q=` — map a title/catalog to a canonical `PTW_…` work id (provenance binding)
+- `/v1/works/{id}/translations` — existing translations for a work
+- `/v1/translations`, `/v1/translation-availability` — availability index (743 works, 265 w/ English)
+- `/v1/passages/{id}/translations` + `/alignments` — verse-level alignment to our layers
+- `/v1/frontier/translations` — gaps (what to translate next)
+- `/v1/passages`, `/v1/editions`, `/v1/witnesses`, `/v1/stats`
+
+Local: `http://127.0.0.1:8802`. The MCP `availability`/`bibliography` tools already
+serve the same availability data; the REST adds the identity graph (PTW ids, editions,
+witnesses, alignments) that binds our translations to canonical records.
+
 ## MCP (base layer for translations)
 
 Registered as `shastra` (remote: `https://mcp.svatantrya.net/mcp`). Full
