@@ -27,12 +27,8 @@
 "quick_gloss": "glorious"
 },
 {
-"surface": "mahā",
-"quick_gloss": "great"
-},
-{
-"surface": "matiḥ",
-"quick_gloss": "minded"
+"surface": "mahāmatiḥ",
+"quick_gloss": "great-minded"
 }
 ]
 },
@@ -44,12 +40,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ku",
-"quick_gloss": "bad"
-},
-{
-"surface": "vācā",
-"quick_gloss": "speech"
+"surface": "kuvācā",
+"quick_gloss": "by-bad-speech"
 },
 {
 "surface": "dhārmikāḥ",
@@ -64,12 +56,8 @@
 "quick_gloss": "kings"
 },
 {
-"surface": "yuddha",
-"quick_gloss": "battle"
-},
-{
-"surface": "durmadāḥ",
-"quick_gloss": "mad"
+"surface": "yuddha+durmadāḥ",
+"quick_gloss": "battle-mad"
 }
 ]
 },
@@ -85,19 +73,15 @@
 "quick_gloss": "stands"
 },
 {
-"surface": "avyakta",
-"quick_gloss": "unmanifest"
-},
-{
-"surface": "rūpeṇa",
-"quick_gloss": "form"
+"surface": "avyakta+rūpeṇa",
+"quick_gloss": "in-unmanifest-form"
 },
 {
 "surface": "paṭṭe",
 "quick_gloss": "on-throne"
 },
 {
-"surface": "ā+kalpam",
+"surface": "ākalpam",
 "quick_gloss": "until-kalpa"
 },
 {
@@ -139,7 +123,7 @@
 },
 {
 "surface": "matā",
-"quick_gloss": "regarded"
+"quick_gloss": "considered"
 }
 ]
 },
@@ -168,7 +152,7 @@
 },
 {
 "surface": "siddhim",
-"quick_gloss": "siddhi"
+"quick_gloss": "perfection"
 },
 {
 "surface": "avāpsyati",
@@ -188,15 +172,15 @@
 "quick_gloss": "will-be"
 },
 {
-"surface": "mahā+ātmāno",
+"surface": "mahātmāno",
 "quick_gloss": "great-souled"
 },
 {
-"surface": "gaṇa+īśāḥ",
+"surface": "gaṇeśāḥ",
 "quick_gloss": "lords-of-gaṇas"
 },
 {
-"surface": "dhana+īśāḥ",
+"surface": "dhaneśāḥ",
 "quick_gloss": "lords-of-wealth"
 },
 {
@@ -214,7 +198,7 @@
 "tokens": [
 {
 "surface": "viharanti",
-"quick_gloss": "they-wander"
+"quick_gloss": "they-roam"
 },
 {
 "surface": "sadā",
@@ -229,12 +213,12 @@
 "quick_gloss": "they-sport"
 },
 {
-"surface": "bhairavāḥ",
-"quick_gloss": "Bhairavas"
-},
-{
 "surface": "yathā",
 "quick_gloss": "as"
+},
+{
+"surface": "bhairavāḥ",
+"quick_gloss": "Bhairavas"
 }
 ]
 },
@@ -291,7 +275,7 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "deva+īśi",
+"surface": "deveśi",
 "quick_gloss": "O-lord-of-gods"
 },
 {
@@ -324,24 +308,16 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mahā+īśāni",
-"quick_gloss": "O-great-lady"
+"surface": "maheśāni",
+"quick_gloss": "O-great-goddess"
 },
 {
 "surface": "kalau",
 "quick_gloss": "in-Kali-age"
 },
 {
-"surface": "varṣa",
-"quick_gloss": "year"
-},
-{
-"surface": "śata",
-"quick_gloss": "hundred"
-},
-{
-"surface": "trayam",
-"quick_gloss": "three"
+"surface": "varṣa+śata+trayam",
+"quick_gloss": "three-hundred-years"
 }
 ]
 },
@@ -361,11 +337,11 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mahā+māye",
+"surface": "mahāmāye",
 "quick_gloss": "O-great-illusion"
 },
 {
-"surface": "tat+ante",
+"surface": "tad+ante",
 "quick_gloss": "at-that-end"
 },
 {
@@ -390,8 +366,8 @@
 "quick_gloss": "of-Kāmākhyā"
 },
 {
-"surface": "mahā+īśāni",
-"quick_gloss": "O-great-lady"
+"surface": "maheśāni",
+"quick_gloss": "O-great-goddess"
 },
 {
 "surface": "sākalyena",
@@ -424,7 +400,7 @@
 },
 {
 "surface": "daṣṭasya",
-"quick_gloss": "of-bitten"
+"quick_gloss": "of-bitten-one"
 },
 {
 "surface": "pratīkāraḥ",
@@ -435,12 +411,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "kṣaṇāt",
-"quick_gloss": "moment"
+"surface": "tat+kṣaṇāt",
+"quick_gloss": "at-that-moment"
 }
 ]
 },
@@ -457,7 +429,7 @@
 },
 {
 "surface": "niṣkṛtiḥ",
-"quick_gloss": "release"
+"quick_gloss": "no-release"
 },
 {
 "surface": "na",
@@ -468,16 +440,12 @@
 "quick_gloss": "is"
 },
 {
-"surface": "tasya",
-"quick_gloss": "of-him"
-},
-{
-"surface": "abhāvāt",
-"quick_gloss": "from-absence"
+"surface": "tasya+abhāvāt",
+"quick_gloss": "from-its-absence"
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "no"
 },
 {
 "surface": "saṃśayaḥ",
@@ -493,12 +461,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānā+vidha",
-"quick_gloss": "by-various"
-},
-{
-"surface": "mahā+utpātaiḥ",
-"quick_gloss": "great-calamities"
+"surface": "nānāvidha+mahā+utpātaiḥ",
+"quick_gloss": "by-various-great-calamities"
 },
 {
 "surface": "yāvat",
@@ -522,36 +486,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "deva",
-"quick_gloss": "god"
-},
-{
-"surface": "mayaḥ",
-"quick_gloss": "consisting-of"
+"surface": "sarva+deva+mayaḥ",
+"quick_gloss": "consisting-of-all-gods"
 },
 {
 "surface": "vipraḥ",
 "quick_gloss": "brahmin"
 },
 {
-"surface": "brahma",
-"quick_gloss": "Brahma"
-},
-{
-"surface": "viṣṇu",
-"quick_gloss": "Viṣṇu"
-},
-{
-"surface": "śiva",
-"quick_gloss": "Śiva"
-},
-{
-"surface": "ātmakaḥ",
-"quick_gloss": "nature"
+"surface": "brahma+viṣṇu+śiva+ātmakaḥ",
+"quick_gloss": "of-Brahmā-Viṣṇu-Śiva-nature"
 }
 ]
 },
@@ -605,7 +549,7 @@
 },
 {
 "surface": "devatāḥ",
-"quick_gloss": "deities"
+"quick_gloss": "gods"
 },
 {
 "surface": "sarve",
@@ -682,12 +626,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūjitā",
-"quick_gloss": "worshipped"
-},
-{
-"surface": "ekā",
-"quick_gloss": "one"
+"surface": "pūjitā+ekā",
+"quick_gloss": "when-one-maiden"
 },
 {
 "surface": "kumārī",
@@ -695,7 +635,7 @@
 },
 {
 "surface": "cet",
-"quick_gloss": "if"
+"quick_gloss": "indeed"
 },
 {
 "surface": "dvitīyam",
@@ -743,12 +683,8 @@
 "quick_gloss": "this"
 },
 {
-"surface": "cara",
-"quick_gloss": "moving"
-},
-{
-"surface": "acaram",
-"quick_gloss": "unmoving"
+"surface": "cara+acaram",
+"quick_gloss": "moving-and-unmoving"
 }
 ]
 },
@@ -785,7 +721,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "no"
 },
 {
 "surface": "saṃśayaḥ",
@@ -805,12 +741,8 @@
 "quick_gloss": "is-obtained"
 },
 {
-"surface": "koṭi",
-"quick_gloss": "crore"
-},
-{
-"surface": "guṇitam",
-"quick_gloss": "multiplied"
+"surface": "koṭi+guṇitam",
+"quick_gloss": "multiplied-by-crores"
 },
 {
 "surface": "viśvāsāt",
@@ -838,12 +770,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "go",
-"quick_gloss": "cow"
-},
-{
-"surface": "grāsam",
-"quick_gloss": "morsel"
+"surface": "go+grāsam",
+"quick_gloss": "cow-mouthful"
 },
 {
 "surface": "pāvanam",
@@ -854,16 +782,8 @@
 "quick_gloss": "in-world"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "pāpa",
-"quick_gloss": "sin"
-},
-{
-"surface": "nikṛntanam",
-"quick_gloss": "destroying"
+"surface": "sarva+pāpa+nikṛntanam",
+"quick_gloss": "all-sin-destroying"
 }
 ]
 },
@@ -875,20 +795,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kalpa",
-"quick_gloss": "kalpa"
-},
-{
-"surface": "koṭi",
-"quick_gloss": "crore"
-},
-{
-"surface": "śata",
-"quick_gloss": "hundred"
-},
-{
-"surface": "ayutaiḥ",
-"quick_gloss": "myriads"
+"surface": "kalpa+koṭi+śata+ayutaiḥ",
+"quick_gloss": "by-hundreds-of-millions-of-kalpa-crores"
 }
 ]
 }
