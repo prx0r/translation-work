@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 347,
- "question": "What bodily signs arise sequentially during the initial yogic practice?",
+ "question": "What bodily signs arise in sequence during the initial stages of this practice?",
  "premises": [
-  "Trembling arises first.",
-  "Shaking arises as the second sign.",
-  "These are ordered stages of experience."
+  "Trembling arises first",
+  "Shaking arises second",
+  "These are sequential signs"
  ],
  "inference": "The practice first produces trembling and then shaking.",
- "uncertainties": [],
- "plain_english": "First trembling comes, and shaking is the second."
+ "uncertainties": [
+  "The fused token kampamāyāti is read as kampam + āyāti."
+ ],
+ "plain_english": "First trembling comes, and second comes shaking."
 }

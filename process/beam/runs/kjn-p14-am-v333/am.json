@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 333,
- "question": "What wondrous teaching is the goddess invited to hear next?",
+ "question": "Why should the goddess attend to the teaching about to be revealed now?",
  "premises": [
-  "The goddess is directly addressed.",
-  "She is urged to listen.",
-  "The subject is described as wondrous and causing great amazement."
+  "The goddess is asked to listen",
+  "The teaching is wondrous",
+  "It causes great amazement"
  ],
- "inference": "A wondrous and greatly astonishing teaching is about to be revealed.",
- "uncertainties": [],
- "plain_english": "Listen, O goddess, to this wondrous teaching that causes great amazement."
+ "inference": "The goddess should listen because the teaching is wondrous and astonishing.",
+ "uncertainties": [
+  "The fused token tvamadbhutaṃ is read as tvam + adbhutam."
+ ],
+ "plain_english": "Listen, O Goddess, to this wondrous teaching that causes great amazement."
 }

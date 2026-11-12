@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "In what condition is the speaker's body described today?",
+ "question": "What transformation from ignorance to purity is claimed for the speaker's body now?",
  "premises": [
-  "Today the speaker's body is under consideration.",
-  "The body is pure.",
-  "The body has been struck by the veil of ignorance."
+  "The body was struck by the veil of ignorance.",
+  "The speaker refers to the present moment.",
+  "The body is now described as pure."
  ],
- "inference": "Today the speaker's pure body has been struck by the veil of ignorance.",
- "uncertainties": [],
- "plain_english": "Today my pure body has been struck by the veil of ignorance."
+ "inference": "The speaker claims that the body, once veiled by ignorance, is now pure.",
+ "uncertainties": [
+  "The case ending of deham is unexpected for a nominative subject in this form."
+ ],
+ "plain_english": "Today my body, once struck by the veil of ignorance, is pure."
 }

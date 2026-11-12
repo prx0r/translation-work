@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom and under what test must a previously accomplished object be given?",
+ "question": "Under what condition may this teaching be given to a recipient?",
  "premises": [
-  "Something is to be given to a previously accomplished person.",
-  "That object must have been tested for one year.",
-  "The test of one year qualifies the object for giving."
+  "The teaching is to be given.",
+  "The recipient must be tested for one year.",
+  "The giving is connected with one previously accomplished."
  ],
- "inference": "Only an object tested for one year is to be given to one who has been previously accomplished.",
- "uncertainties": [],
- "plain_english": "What has been tested for one year is to be given to one who has accomplished it before."
+ "inference": "This teaching may be given only to one who has been tested for a year in relation to the previously accomplished.",
+ "uncertainties": [
+  "The exact syntactic role of pūrvasiddhasya is slightly ambiguous."
+ ],
+ "plain_english": "It should be given to one who has been tested for one year by the previously accomplished."
 }
