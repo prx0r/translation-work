@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p138-v3426
-[in-middle](madhye) [goal](sādhyaṃ) [having-drawn](samālikhya) [that](tat) [should-dig](khaned) [in-houses-etc](bhavanādiṣu)
+[in-the-middle](madhye) [the-object-of-sadhana](sādhyam) [having-drawn](samālikhya) [that](tat) [one-should-dig](khaned) [in-houses-etc](bhavanādiṣu)
 
 ## mukta-m0-p138-v3427
-[without-rivals](niḥsapatnā) [unparalleled](nirupamā) [with-policy](nītiyuktā) [uninterrupted](nirantarāḥ)
+[without-rivals](niḥsapatnāḥ) [without-equal](nirupamāḥ) [endowed-with-policy](nītiyuktāḥ) [uninterrupted](nirantarāḥ)
 
 ## mukta-m0-p138-v3428
-[of-them](tāsāṃ) [vidyā](vidyāṃ) [hear](śṛṇu) [O-wise](prājñe) [by-which](yābhiḥ) [would-be](syāt) [accomplished-form](siddhavigrahaḥ)
+[of-them](tāsām) [the-knowledge](vidyām) [hear](śṛṇu) [o-wise-one](prājñe) [by-which](yābhiḥ) [would-be](syāt) [one-with-accomplished-form](siddhavigrahaḥ)
 
 ## mukta-m0-p138-v3429
-[as-declared-order](proktakramataḥ) | [in-that-place](tatra+pradeśe) | [uninterrupted](nirantarāḥ) [being-continuous](santanyamānāḥ)
+[according-to-the-stated-order](proktakramataḥ) [in-that-place](tatra) [in-that-region](pradeśe) [uninterrupted](nirantarāḥ) [being-extended](santanyamānāḥ)
 
 ## mukta-m0-p138-v3430
-[uttered](samīritā) [by-six-powers](viṣoḍhābhiḥ) [except-sound](svaravarjamaśeṣataḥ)
+[uttered](samīritāḥ) [by-poison-removers](viṣoḍhābhiḥ) [with-syllable-and-varja-excepted](svaravarjamaśeṣataḥ)
 
 ## mukta-m0-p138-v3431
-[with-two-seeds](lalitāśaktipūjoktavījadvayasamanvitam)
+[with-the-two-seeds](vījadvaya+samanvitam) [stated-in-the-worship-of-lalita-shakti](lalitāśaktipūjā+uktam)
 
 ## mukta-m0-p138-v3432
-[separately](pratyekaṃ) [with-sixteen-syllables](ṣoḍaśārṇābhir) [with-vidyās](vidyābhistābhir) [O-ambikā](ambike)
+[separately](pratyekam) [by-sixteen-syllabled](ṣoḍaśārṇābhiḥ) [by-those-knowledges](vidyābhiḥ) [by-them](tābhiḥ) [o-ambika](ambike)
 
 ## mukta-m0-p138-v3433
-[of-which](yanmayaṃ) [universe](viśvam) [all](akhilaṃ) [is-seen](dṛśyate) [with-moving-and-nonmoving](sacarācaram)
+[consisting-of-that](yanmayam) [the-universe](viśvam) [the-whole](akhilam) [is-seen](dṛśyate) [with-moving-and-non-moving](sacarācaram)
 
 ## mukta-m0-p138-v3434
-[by-its-realization](asyā+niphālanāt) [in-mind](citte) [that-tattva](tattattvaṃ) [made-one's-own](svātmasāt+kṛtam)
+[by-the-perception-of-this](asyāḥ) [niphālanāt] [in-the-mind](citte) [that-tattva](tattattvam) [to-one's-own-self](svātmasāt) [made](kṛtam)
 
 ## mukta-m0-p138-v3435
-[chapter](paṭalaṃ) [complete](paripūrṇaṃ) [touched-supreme](parāmṛṣṭam) || 26 || O/ ||
+[the-chapter](paṭalam) [completely](paripūrṇam) [contemplated](parāmṛṣṭam) [||](||) [26](26) [O/](O/)
 
 ## mukta-m0-p138-v3436
-[as-long-as](yāvat) | [of-vidyā](vidyāyāḥ) [of-lalitā-vidyā](lalitāvidyāyāḥ) [vidyā-filled](yanmayaṃ+vidyāmayam)
+[as-long-as](yāvat) [of-the-knowledge](vidyāyāḥ) [of-lalita-knowledge](lalitāvidyāyāḥ) [consisting-of-that](yanmayam) [consisting-of-knowledge](vidyāmayam)
 
 ## mukta-m0-p138-v3437
-[sixteenth-chapter](ṣaḍviṃśapaṭalaṃ) [complete](paripūrṇaṃ) [touched-supreme](parāmṛṣṭam) || 26 || oṃ+tatsat ||
+[the-twenty-sixth-chapter](ṣaḍviṃśa+paṭalam) [completely](paripūrṇam) [contemplated](parāmṛṣṭam) [||](||) [26](26) [om](om) [tat](tat) [sat](sat) [||](||)
 
 ## mukta-m0-p138-v3438
-[with-mātṛkā-bhūtanātha-etc](mātṛkābhūtanāthādyaiḥ) [with-śrīcakra](śrīcakreṇa) [and](ca) [with-powers](śaktibhiḥ)
+[by-matrika-and-bhuta-natha-etc](mātṛkābhūtanāthādyaiḥ) [by-the-sri-chakra](śrīcakreṇa) [and](ca) [by-the-shaktis](śaktibhiḥ)
 
 ## mukta-m0-p138-v3439
-[with-one-breath](ekaśvāsaṃ) [beginning](samārabhya) [with-their-numbers](tatsaṃkhyābhiḥ) [in-order](krameṇa) [indeed](vai)
+[beginning-from-one-breath](ekaśvāsaṃ) [having-commenced](samārabhya) [by-that-number](tatsaṃkhyābhiḥ) [in-order](krameṇa) [indeed](vai)
 
 ## mukta-m0-p138-v3440
-[specialities](viśeṣāṃś) [and](ca) [from-inner-to-outer](antarādvāhyāt) [those-those-accomplishing-siddhi](tattatsiddhyupapādakān)
+[the-special-ones](viśeṣān) [internal-and-external](antarāt+vāhyāt) [those-causing-that-siddhi](tattatsiddhyupapādakān)
 
 ## mukta-m0-p138-v3441
-[he](sa) [but](tu) [fivefold](pañcavidho) [from-element-difference](bhūtabhedād) [from-origin-place](udbhavadeśataḥ)
+[he](saḥ) [but](tu) [fivefold](pañcavidhaḥ) [by-element-difference](bhūtabhedāt) [by-place-of-origin](udbhavadeśataḥ)
 
 ## mukta-m0-p138-v3442
-[prāṇa-fire-water-air-selves](prāṇāgnīlāmbukhātmānaḥ) [winds](pavanāḥ) [would-be](syur) [in-order](yathākraman)
+[prana-fire-water-self](prāṇāgnīlāmbukhātmānaḥ) [the-winds](pavanāḥ) [would-be](syuḥ) [in-order](yathākramam)
 
 ## mukta-m0-p138-v3443
-[in-order](kramāt) [in-four-elements](caturṣu+bhūteṣu) [space](vyoma) [all-self](sarvvātmakaṃ) [becomes](bhavet)
+[in-order](krameṇa) [in-the-four-elements](caturṣu) [bhūteṣu] [ether](vyoma) [all-pervading](sarvvātmakam) [would-be](bhavet)
 
 ## mukta-m0-p138-v3444
-[left-right](vāmadakṣau) [of-them](tayostasya) [entry](praveśo) [exit](nirgamastathā)
+[the-left-and-right](vāma+dakṣau) [of-them](tayos) [its](tasya) [entry](praveśaḥ) [exit](nirgamaḥ) [thus](tathā)
 
 ## mukta-m0-p138-v3445
-[earth](pṛthivī) [water](salilaṃ) [moon](candro) [sun](raviranyattrayaṃ) [becomes](bhavet)
+[earth](pṛthivī) [water](salilam) [moon](candraḥ) [sun](raviḥ) [otherwise](anyatra) [the-triple](trayam) [would-be](bhavet)
 
 ## mukta-m0-p138-v3446
-[outer-inner](vāhyābhyantarān) [specialities](viśeṣān) [to-be-spoken](vacyītyuktaṃ) [becomes](bhavatīti)
+[external-and-internal](vāhyābhyantarān) [the-special-ones](viśeṣān) [should-be-spoken](vacyāḥ) [thus](iti) [it-is-said](uktaṃ) [it-becomes](bhavati) [iti](iti)
 
 ## mukta-m0-p138-v3447
-[mātṛkā](mātṛkāñca) [and](tathā) [vidyā](vidyā) [from-vowel-consonant-difference](svaravyañjanabhedataḥ)
+[the-matrika](mātṛkām) [and](ca) [thus](tathā) [the-knowledge](vidyām) [by-syllable-and-consonant-difference](svaravyañjanabhedataḥ)
 
 ## mukta-m0-p138-v3448
-[in-body](śarīre) [also](api) [above-pot](ghaṭerūrddhaṃ) [moon-below](candrādho) [sun-uttered](ravirīritaḥ)
+[in-the-body-also](śarīre) [api] [above-the-pitcher](ghaṭe) [ūrddham] [below-the-moon](candrāt) [adhaḥ] [the-sun](raviḥ) [is-declared](īritaḥ)
 
 ## mukta-m0-p138-v3449
-[white-black](śuklakṛṣṇau) [thus](tathā) [purification](prakṣāviti) [moons](candrā) [ten-interval](daśāntarāḥ)
+[white-and-black](śuklakṛṣṇau) [thus](tathā) [the-two-currents](prakṣau) [iti](iti) [of-the-moon](candrāḥ) [the-ten-intermediate](daśāntarāḥ)
 
 ## mukta-m0-p138-v3450
-[elevenfold](ekādaśavidhau) [moon-sun](candrabhāskarau) [well-uttered](samyagīritau)
+[in-elevenfold-manner](ekādaśavidhau) [moon-and-sun](candrabhaaskarau) [properly](samyak) [declared](īritau)

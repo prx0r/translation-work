@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p142-v3526
-[nadi-cakra-antaram](nāḍīcakrāntaraṃ) [nītvā](nītvā) [sarva-aṅgāni](sarvvāṅgāni) [ca](ca) [cārayet](cārayet)
+[nādī+circle+interior](nāḍīcakrāntaraṃ) [having-led](nītvā) [all+limbs](sarvvāṅgāni) [and](ca) [one-should-move](cārayet)
 
 ## mukta-m0-p142-v3527
-[dhārayan](dhārayan) [vārayet](vārayet) [icchā-vaśena](icchāvaśena) [aṅgāni](aṅgāni) [sarvataḥ](sarvataḥ)
+[holding](dhārayan) [one-should-restrain](vārayed) [by-will+power](icchāvaśena) [limbs](aṅgāni) [on-all-sides](sarvataḥ)
 
 ## mukta-m0-p142-v3528
-[rasa-ambuda-āhavyāpta-svaiḥ](rasāmbudāhavyāptasvaiḥ) [sahaṃsaiḥ](sahaṃsair) [vyāpayet](vyāpayet) [tanum](tanum)
+[essence+water+burning+pervaded+own](rasāmbudāhavyāptasvaiḥ) [with-hamsas](sahaṃsair) [one-should-pervade](vyāpayet) [body](tanum)
 
 ## mukta-m0-p142-v3529
-[turīyataḥ](turīyataḥ) [ṣoḍaśa-mātrābhiḥ](ṣoḍaśamātrābhiḥ)
+[from-the-fourth-state](turīyataḥ) [by-sixteen+measures](ṣoḍaśamātrābhiḥ)
 
 ## mukta-m0-p142-v3530
-[deha-viṣaye](dehaviṣaye) [prakāśa](prakāśa) [iti](iti) [sva-tejasaḥ](svatejaso) [bahiḥ](bahiḥ) [prakāśanam](prakāśanaṃ) [bīja-ādivat](bījādivat)
+[in-body+domain](dehaviṣaye) [illumination](prakāśa) [thus](iti) [of-own+radiance](svatejaso) [outside](bahiḥ) [shining-forth](prakāśanaṃ) [like-seed+etc.](bījādivat)
 
 ## mukta-m0-p142-v3531
-[mūlataḥ](mūlataḥ) [mūlādhārāt](mūlādhārāt)
+[from-the-root](mūlataḥ) [from-root+support](mūlādhārāt)
 
 ## mukta-m0-p142-v3532
-[vāyum](vāyum) [iti](iti) [śeṣaḥ](śeṣaḥ) [icchā-vaśena](icchāvaśena) [sva-abhimata-aṅga-dhāraṇa-vaśena](syābhimatāṅgadhāraṇavaśena)
+[wind](vāyum) [thus](iti) [to-be-supplied](śeṣaḥ) [by-will+power](icchāvaśena) [by-own+desired+limb+holding+power](syābhimatāṅgadhāraṇavaśena)
 
 ## mukta-m0-p142-v3533
-[tri-kāla-jñaḥ](trikālajño) [viśuddha-ātmā](viśuddhātmā) [sukhī](sukhī) [jīvet](jīvec) [ciram](ciraṃ) [bhuvi](bhuvi)
+[knower-of-three+times](trikālajño) [pure+self](viśuddhātmā) [happy](sukhī) [one-should-live](jīvec) [long](ciraṃ) [on-earth](bhuvi)
 
 ## mukta-m0-p142-v3534
-[sva-icchayā](svecchayā) [deha-madhya-sthaḥ](dehamadhyasthaḥ) [kuḍma-gṛha-gataḥ](kuḍmagṛhagato) [yathā](yathā)
+[by-own+will](svecchayā) [in-body+middle+standing](dehamadhyasthaḥ) [as-if](yathā) [gone-to-inner+chamber](kuḍmagṛhagato)
 
 ## mukta-m0-p142-v3535
-[prāṇān](prāṇān) [ākṛṣya](ākṛṣya) [madhya-stha-suṣumnā-randhrataḥ](madhyasthasuṣumnārandhratastathā) [tathā](tathā)
+[vital-breaths](prāṇān) [having-drawn-in](ākṛṣya) [from-middle+standing+suṣumnā+opening](madhyasthasuṣumnārandhratas) [likewise](tathā)
 
 ## mukta-m0-p142-v3536
-[athavā](athavottarasaṃproktacūrṇāsvādanato) [uttara-saṃprokta-cūrṇa-āsvādanataḥ](uttarasaṃproktacūrṇāsvādanato) [vaśī](vaśī)
+[or](athavā) [by-above+declared+powder+tasting](uttarasaṃproktacūrṇāsvādanato) [self-controlled](vaśī)
 
 ## mukta-m0-p142-v3537
-[sva-icchā-utkrāntiḥ](svecchotkrāntiriti) [iti](iti) [proktā](proktā) [yoga-yukta-ātmanām](yogayuktātmanāṃ) [priye](priye)
+[by-own-will+departure](svecchotkrāntir) [thus](iti) [declared](proktā) [of-yoga+engaged+selves](yogayuktātmanāṃ) [beloved](priye)
 
 ## mukta-m0-p142-v3538
-[sva-dehe](svadehe) [tat-tad-bhūta-mayī-kṛte](tattadbhūtamayīkṛte) [prokta-phala-siddhiḥ](proktaphalasiddhiriti) [iti](iti)
+[in-own+body](svadehe) [made-of-those+elements](tattadbhūtamayīkṛte) [of-declared+result+accomplishment](proktaphalasiddhir) [thus](iti)
 
 ## mukta-m0-p142-v3539
-[śarīra-vyāsaṅga-rahitaḥ](śarīravyāsaṅgarahitaḥ)
+[from-body+attachment+free](śarīravyāsaṅgarahitaḥ)
 
 ## mukta-m0-p142-v3540
-[vāna-vacchinna-svarūpaḥ](vānavacchinnasvarūpo) [bhavati](bhavatīti) [iti](iti)
+[or](vā) [of-unobstructed+own-nature](anavacchinnasvarūpo) [one-becomes](bhavatīti)
 
 ## mukta-m0-p142-v3541
-[kalau](kalau) [duḥśāṭakam](duḥśāṭakaṃ) [prāyaḥ](prāyo) [marttye](marttye) [siddhiḥ](siddhir) [api](apīśvari) [īśvari](īśvari)
+[in-Kali-age](kalau) [difficult+to-practice](duḥśāṭakaṃ) [mostly](prāyo) [among-mortals](marttye) [accomplishment](siddhir) [even](api) [O-goddess](īśvari)
 
 ## mukta-m0-p142-v3542
-[paripūrṇa-aṅga-saṃyuktām](paripūrṇāṅgasaṃyuktāmagrato) [agrataḥ](agrato) [vīkṣya](vīkṣya) [yogataḥ](yogataḥ)
+[endowed-with-complete+limbs+union](paripūrṇāṅgasaṃyuktām) [in-front](agrato) [having-seen](vīkṣya) [through-yoga](yogataḥ)
 
 ## mukta-m0-p142-v3543
-[svām](svāṃ) [tanum](tanuṃ) [gopayet](gopayet) [svīyaiḥ](sviyaistatastāñca) [tataḥ](tataḥ) [tān](tāñca) [ca](ca) [tathā](tathā) [brajet](brajet)
+[own](svāṃ) [body](tanuṃ) [one-should-protect](gopayet) [by-own](sviyaḥ) [then](tatas) [them](tāñ) [and](ca) [likewise](tathā) [one-should-go](brajet)
 
 ## mukta-m0-p142-v3544
-[śṛṇu](śṛṇu) [tāni](tāni) [mahādevi](mahādevi) [yaiḥ](yairanyairjāyate) [anyaiḥ](anyair) [jāyate](jāyate) [guṇaiḥ](guṇaiḥ)
+[hear](śṛṇu) [those](tāni) [O-great+goddess](mahādevi) [by-which](yaiḥ) [by-others](anyair) [is-born](jāyate) [by-qualities](guṇaiḥ)
 
 ## mukta-m0-p142-v3545
-[jitendriyatvam](jitendriyatvamakrodhaḥ) [akrodhaḥ](akrodhaḥ) [kṛpayā](kṛpayā) [jana-gopitā](janagopitā)
+[sense+control](jitendriyatvam) [non-anger](akrodhaḥ) [by-compassion](kṛpayā) [people+protection](janagopitā)
 
 ## mukta-m0-p142-v3546
-[yaiḥ](yaiḥ) [sādhya-sādhakau](sādhyasādhakau) [jñātvā](jñātvā) [deha-tyāga-matandritau](dehatyāgamatandritau)
+[by-which](yaiḥ) [to-be-accomplished+accomplisher](sādhyasādhakau) [having-known](jñātvā) [body+abandonment](dehatyāgam) [unwearied](atandritau)
 
 ## mukta-m0-p142-v3547
-[sugatim](sugatiṃ) [prāpya](prāpya) [siddhyai](siddhyai) [tu](tu) [bhavataḥ](bhavato) [jāta-mātrataḥ](jātamātrataḥ)
+[good-destination](sugatiṃ) [having-attained](prāpya) [for-accomplishment](siddhyai) [indeed](tu) [they-become](bhavato) [from-birth+only](jātamātrataḥ)
 
 ## mukta-m0-p142-v3548
-[samāśrayet](samāśrayettatastvabdānmṛtistasya) [tataḥ](tataḥ) [tu](tu) [abdān](abdān) [mṛtiḥ](mṛtistasya) [tasya](tasya) [su-niścitam](suniścitam)
+[one-should-resort-to](samāśrayet) [then](tatas) [indeed](tu) [from-years](abdān) [death](mṛtis) [of-him](tasya) [well+ascertained](suniścitam)
 
 ## mukta-m0-p142-v3549
-[dṛśau](dṛśau) [nāsā-antika-ākrāntyā](nāsāntikākrāntyā) [candrake](candrake) [yoṅgayoḥ](yoṅgayorna) [na](na) [cet](cet)
+[eyes](dṛśau) [by-nose+tip+approach](nāsāntikākrāntyā) [in-moon+digit](candrake) [in-two+limbs](yoṅgayoḥ) [not](na) [if](cet)
 
 ## mukta-m0-p142-v3550
-[gulpha-adhaḥ](gulphādhaḥ) [sphuraṇam](sphuraṇaṃ) [nāḍyoḥ](nāḍyoḥ) [pādayoḥ](pādayoścenna) [ca](ca) [na](na) [jāyate](jāyate)
+[below+ankle](gulphādhaḥ) [throbbing](sphuraṇaṃ) [of-nādīs](nāḍyoḥ) [of-feet](pādayoḥ) [and](ca) [not](na) [is-born](jāyate)
