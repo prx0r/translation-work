@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+first",
-   "grounds": "first member of compound with abhyāsa"
+   "morph": "compound=member+satata-abhyāsa",
+   "grounds": "first member of compound satata-abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second",
-   "grounds": "second member of compound with yogena"
+   "morph": "compound=member+satata-abhyāsa",
+   "grounds": "second member of compound satata-abhyāsa"
   },
   {
    "lemma": "yogena",
    "morph": "m.ins.sg",
-   "grounds": "instrumental means of transformation"
+   "grounds": "means of attaining the result"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+first",
-   "grounds": "first member of compound with aṣṭa"
+   "morph": "compound=member+dvi-aṣṭa",
+   "grounds": "first member of compound dvi-aṣṭa"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+second",
-   "grounds": "second member of compound with varṣa"
+   "morph": "compound=member+dvi-aṣṭa",
+   "grounds": "second member of compound dvi-aṣṭa"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+third",
-   "grounds": "third member of compound with ākṛtiḥ"
+   "morph": "compound=member+varṣa-ākṛti",
+   "grounds": "first member of compound varṣa-ākṛti"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject describing the resulting appearance"
+   "grounds": "resulting bodily appearance"
   },
   {
    "lemma": "bhavet",
    "morph": "3.sg.act-optative/√bhū",
-   "grounds": "expresses the resulting state"
+   "grounds": "states the resulting condition"
   }
  ]
 }

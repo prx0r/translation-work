@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[having-bowed](praṇamya) [with-head](śirasā) [goddess](devī) [Gaurī](gaurī) [asks](pṛcchati) [Śaṅkara](śaṅkaram)
+[having-bowed](praṇamya) [with-head](śirasā) [goddess](devī) [gaurī](gaurī) [asks](pṛcchati) [śaṅkara](śaṅkaram)
 
 ## mukta-m0-p01-v2
-[favor](prasādaṃ) [do](kuru) [lord-of-gods](deveśa) [tell](brūhi) [dharma+wealth+accomplishing](dharma+artha+sādhakam)
+[favor](prasādaṃ) [do](kuru) [lord-of-gods](deveśa) [tell](brūhi) [dharma+wealth+accomplishing](dharmārthasādhakam)
 
 ## mukta-m0-p01-v3
-[pacification](śāntikaṃ) [nourishment](pauṣṭikaṃ) [or+also](vā+atha) [rites](karaṇāni) [many](bahūni) [and](ca)
+[pacifying](śāntikaṃ) [nourishing](pauṣṭikaṃ) [or+also](vātha) [rites](karaṇāni) [many](bahūni) [and](ca)
 
 ## mukta-m0-p01-v4
-[knowledge+loss](jñāna+hāniṃ) [action+loss](kriyā+hāniṃ) [binding](kīlakaṃ) [and](ca) [likewise+other](tathā+aparam)
+[knowledge+loss](jñānahāniṃ) [action+loss](kriyāhāniṃ) [obstruction](kīlakaṃ) [and](ca) [likewise+other](tathāparam)
 
 ## mukta-m0-p01-v5
-[mantra+meditation](mantra+dhyānaṃ) [especially](viśeṣeṇa) [that+all](tat+sarvaṃ) [tell](vada) [to-me](me) [lord](prabho)
+[mantra+meditation](mantradhyānaṃ) [especially](viśeṣeṇa) [that+all](tatsarvaṃ) [tell](vada) [to-me](me) [lord](prabho)
 
 ## mukta-m0-p01-v6
-[of-which](yasya) [knowledge+mere](vijñāna+mātreṇa) [human](manuṣyo) [on-earth](bhuvi) [rare](durlabhaḥ)
+[of-which](yasya) [knowledge+mere](vijñānamātreṇa) [human](manuṣyo) [on-earth](bhuvi) [rare](durlabhaḥ)
 
 ## mukta-m0-p01-v7
-[that+I-shall-tell](tat+vadiṣyāmi) [to-you](te) [goddess](devi) [that+all](tat+sarvaṃ) [fully-declared](samudāhṛtam)
+[that+will-tell](tadvadiṣyāmi) [to-you](te) [goddess](devi) [that+all](tatsarvaṃ) [declared](samudāhṛtam)
 
 ## mukta-m0-p01-v8
-[from-Uḍḍīśa](uḍḍīśāt) [essence+having-drawn](sāram+ākṛṣya) [by-me+spoken](mayā+uktaṃ) [of-you](tava) [out-of-devotion](bhaktitaḥ)
+[from-uḍḍīśa](uḍḍīśāt) [essence+having-drawn](sāramākṛṣya) [by-me+spoken](mayoktaṃ) [your](tava) [out-of-devotion](bhaktitaḥ)
 
 ## mukta-m0-p01-v9
-[matted-haired-one](kapardinaṃ) [odd-eyed-one](virūpākṣaṃ) [all+beings+fear+removing](sarva+bhūta+bhaya+apaham)
+[kapardin](kapardinaṃ) [virūpākṣa](virūpākṣaṃ) [all+beings+fear+removing](sarvabhūtabhayāpaham)
 
 ## mukta-m0-p01-v10
-[by-those+indeed](tais+tu) [employed](prayojitaiḥ) [immediately](sadyaḥ) [life-breaths](prāṇān) [kills](hanti) [no](na) [doubt](saṃśayaḥ)
+[by-those+indeed](taistu) [employed](prayojitaiḥ) [immediately](sadyaḥ) [life-breaths](prāṇān) [kills](hanti) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p01-v11
-[third](tṛtīyaṃ) [causing-hatred](dveṣaṇaṃ) [and+also](ca+atha) [fourth](turyam) [eradication](uccāṭanaṃ) [likewise](tathā)
+[third](tṛtīyaṃ) [causing-hatred](dveṣaṇaṃ) [and+then](cātha) [fourth](turyam) [eradication](uccāṭanaṃ) [likewise](tathā)
 
 ## mukta-m0-p01-v12
-[of-fire](vahneḥ) [paralyzing+making](stambha+karaṃ) [and+also](ca+atha) [subjugation](vaśīkaraṇam) [supreme](uttamam)
+[of-fire](vahneḥ) [paralyzing+making](stambhakaraṃ) [and+then](cātha) [subjugation+supreme](vaśīkaraṇamuttamam)
 
 ## mukta-m0-p01-v13
-[by-Śiva](śivena) [told](kathitā) [practices](yogā) [in-Uḍḍīśa](uḍḍīśe) [scripture+determination](śāstra+niścaye)
+[by-śiva](śivena) [told](kathitā) [practices](yogā) [in-uḍḍīśa](uḍḍīśe) [scripture+determination](śāstraniścaye)
 
 ## mukta-m0-p01-v14
-[spirit+fever+of](bhūta+jvarasya) [causing](karaṇam) [missile+weapon+of](astra+śastrasya) [spoiling](dūṣaṇam)
+[spirit+fever+of](bhūtajvarasya) [causing](karaṇam) [missile+weapon+of](astraśastrasya) [spoiling](dūṣaṇam)
 
 ## mukta-m0-p01-v15
-[destruction](vināśaṃ) [maddening+making](matta+karaṇaṃ) [elephant+horse+enraging](gaja+vāji+prakopanam)
+[destruction](vināśaṃ) [maddening+making](mattakaraṇaṃ) [elephant+horse+enraging](gajavājiprakopanam)
 
 ## mukta-m0-p01-v16
-[of-fire](vahner) [destruction](vināśanaṃ) [should-do](kuryāt) [of-leaves](parṇānāṃ) [indeed](hi) [destruction](vināśanam)
+[of-fire+destruction](vahnervināśanaṃ) [one-should-do](kuryāt) [of-leaves](parṇānāṃ) [indeed](hi) [destruction](vināśanam)
 
 ## mukta-m0-p01-v17
-[vetāla+sandal+accomplishment](vetāla+pādukā+siddhim) [from-meteor](ulvakāt) [burning](jvalanaṃ) [likewise](tathā)
+[vetāla+sandal+attainment](vetālapādukāsiddhim) [from-meteor+blazing](ulvakājjvalanaṃ) [likewise](tathā)
 
 ## mukta-m0-p01-v18
-[knowledge+mantra+applications+etc](vidyā+mantra+prayogān+ādīn) [herbs+and](auṣadhān+ca) [magical](ābhicārikān)
+[knowledge+mantra+applications+etc](vidyāmantraprayogādīn) [herbs+and](auṣadhāṃśca) [magical](ābhicārikān)
 
 ## mukta-m0-p01-v19
-[Uḍḍīśa](uḍḍīśaṃ) [who](yo) [not](na) [knows](jānāti) [he](sa) [angry](ruṣṭaḥ) [what](kiṃ) [will-do](kariṣyati)
+[uḍḍīśa](uḍḍīśaṃ) [who](yo) [not](na) [knows](jānāti) [he](sa) [angry](ruṣṭaḥ) [what](kiṃ) [will-do](kariṣyati)
 
 ## mukta-m0-p01-v20
-[sun](sūryaṃ) [and](ca) [may-cause-to-fall](pātayet) [on-earth](bhūmau) [not+this](na+idaṃ) [false](mithyā) [will-be](bhaviṣyati)
+[sun](sūryaṃ) [and](ca) [may-cause-to-fall+on-earth](pātayedbhūmau) [not+this](nedaṃ) [false](mithyā) [will-be](bhaviṣyati)
 
 ## mukta-m0-p01-v21
-[of-Yama](yamasya) [and](ca) [as](yathā) [staff](daṇḍaṃ) [of-Kubera](kuberasya) [mace](gadā) [as](yathā)
+[of-yama](yamasya) [and](ca) [as](yathā) [staff](daṇḍaṃ) [of-kubera](kuberasya) [mace](gadā) [as](yathā)
 
 ## mukta-m0-p01-v22
-[trident](śūla) [+hand](pāṇi) [+possessing](naḥ) [of](śūlapāṇinaḥ)
+[of-trident+holder](śūlapāṇinaḥ)
 
 ## mukta-m0-p01-v23
-[likewise+these](tathā+ete) [and](ca) [great+practices](mahā+yogāḥ) [employed](prayuktāḥ) [enemy+cause](śatru+kāraṇe)
+[likewise+these](tathaite) [and](ca) [great+practices](mahāyogāḥ) [employed](prayuktāḥ) [enemy+cause](śatrukāraṇe)
 
 ## mukta-m0-p01-v24
-[by-satisfied](santuṣṭena) [by-employed](prayuktena) [succeed](sidhyanti) [with-good+consideration](su+vicārataḥ)
+[by-satisfied](santuṣṭena) [by-employed](prayuktena) [succeed](sidhyanti) [with-good+consideration](suvicārataḥ)
 
 ## mukta-m0-p01-v25
-[by-which+indeed](yena+eva) [done+merely](kṛta+mātreṇa) [spirit](bhūto) [seizes](gṛhṇāti) [human](mānavam)
+[by-which+indeed](yenaiva) [done+mere](kṛtamātreṇa) [spirit](bhūto) [seizes](gṛhṇāti) [human](mānavam)

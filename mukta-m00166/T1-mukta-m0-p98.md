@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-[boundary](maryādā) [and](ca) [in-great](mahā+) [ocean](udadhau)
+[page](p.) [284](284)) [boundary](maryādā) [and](ca) [in-great-ocean](mahā+udadhau)
 
 ## mukta-m0-p98-v2427
-[victorious](jayati) [one](ekā) [alone](eva) [that](sā) [goddess](devī) [boundary](maryādā) [and](ca) [in-great](mahā+) [ocean](udadhau)
+[victorious](jayati) [one+alone](ekā+eva) [she](sā) [goddess](devī) [boundary](maryādā) [and](ca) [in-great-ocean](mahā+udadhau)
 
 ## mukta-m0-p98-v2428
 [nourishing](poṣaṇī) [power](śaktiḥ)
 
 ## mukta-m0-p98-v2429
-[nourishing](poṣaṇī) [power](śaktiḥ) [this](eṣā) [alone](eva) [victorious](jayati) [of-primal-nature](prakṛti+) [splendor](prabhā)
+[nourishing](poṣaṇī) [power](śaktiḥ) [this+alone](eṣā+eva) [is-victorious](jayati) [nature-born](prakṛti+prabhā)
 
 ## mukta-m0-p98-v2430
 [withering](śoṣaṇī) [power](śaktiḥ)
@@ -23,22 +23,22 @@
 [long-haired](dīrgha+keśī)
 
 ## mukta-m0-p98-v2433
-[for-long](dīrghaṃ) [time](kālaṃ) [before-me](mat+agre) [may-be](astu) [long-haired](dīrgha+keśī) [well-worshipped](su+sevitā)
+[long](dīrghaṃ) [time](kālaṃ) [before-me](mat+agre) [let-be](astu) [long-haired](dīrgha+keśī) [well-worshipped](su+sevitā)
 
 ## mukta-m0-p98-v2434
 [very-hairy](su+lomaśā)
 
 ## mukta-m0-p98-v2435
-[by-hair](loma+) [pretext](vyājāt) [outside](bahiḥ) [gone-forth](yātāḥ) [powers](śaktiḥ) [this](eṣā) [very-hairy](su+lomaśā)
+[hair-pretext](loma+vyājāt) [outside-gone](bahis+yātāḥ) [power](śaktiḥ) [this](eṣā) [very-hairy](su+lomaśā)
 
 ## mukta-m0-p98-v2436
 [fourteenth](caturdaśī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p98-v2437
-[lovely-one](lalitā)
+[lovely](lalitā)
 
 ## mukta-m0-p98-v2438
-[by-father](tāta+) [by-protection](tā+) [made](kalitā+) [non-difference](abheda+) [undivided](dabhetā) [in-heart](hṛdi) [well-delighted](saṃratā)
+[father-bank-made-non-difference](tāta+tāṭa+kalita+abheda) [non-different](dabhetā) [in-heart](hṛdi) [well-delighted](saṃ+ratā)
 
 ## mukta-m0-p98-v2439
 [fleshy](māṃsalā)
@@ -50,28 +50,28 @@
 [slender](tanvī)
 
 ## mukta-m0-p98-v2442
-[of-mountain-lord](girīndra+) [daughter](nandinīṃ) [by-devotees](bhaktāḥ) [she](sā) [slender](tanvī) [thus](iti) [regarded](matā) [wondrous](adbhutā)
+[mountain-lord-daughter](giri+indra+nandinīṃ) [devotees](bhaktāḥ) [she](sā) [slender](tanvī) [thus](iti) [considered-wonderful](matā+adbhutā)
 
 ## mukta-m0-p98-v2443
-[Veda](veda+) [Vedāṅga](vedāṅga+) [bearer](dhāriṇī)
+[veda-vedāṅga-holder](veda+vedāṅga+dhāriṇī)
 
 ## mukta-m0-p98-v2444
-[who](yā) [in-mind](citte) [shines](sphurati) [goddess](īśī) [she](sā) [Veda](veda+) [Vedāṅga](vedāṅga+) [bearer](dhāriṇī)
+[who](yā) [in-mind](citte) [shines](sphurati) [goddess](īśī) [she](sā) [veda-vedāṅga-holder](veda+vedāṅga+dhāriṇī)
 
 ## mukta-m0-p98-v2445
-[of-human-blood](nara+asṛk+) [drinking](pāna+) [intoxicated](mattā)
+[human-blood-drinking-intoxicated](nara+asṛk+pāna+mattā)
 
 ## mukta-m0-p98-v2446
-[of-human-blood](nara+asṛk+) [drinking](pāna+) [intoxicated](mattā) [indeed](eva) [victorious](jayati) [of-Īśāna](īśāna+) [wife](gehinī)
+[human-blood-drinking-intoxicated](nara+asṛk+pāna+mattā) [indeed](eva) [is-victorious](jayati) [Īśāna-wife](īśāna+gehinī)
 
 ## mukta-m0-p98-v2447
-[with-human-skull](nara+muṇḍa+) [bone](asthi+) [ornament](bhūṣaṇā)
+[human-skull-bone-adorned](nara+muṇḍa+asthi+bhūṣaṇā)
 
 ## mukta-m0-p98-v2448
-[with-precious](mahārha+) [ornaments](ābhūṣaṇā) [having-become](bhūtā) [with-human-skull](nara+muṇḍa+) [bone](asthi+) [ornament](bhūṣaṇā)
+[precious-ornamented](mahā+arha+ābhūṣaṇā) [having-become](bhūtā) [human-skull-bone-adorned](nara+muṇḍa+asthi+bhūṣaṇā)
 
 ## mukta-m0-p98-v2449
-[in-dice-play](akṣa+krīḍā+) [delighting](aratiḥ)
+[dice-play-delight](akṣa+krīḍā+ratiḥ)
 
 ## mukta-m0-p98-v2450
-[she-took-away](ahārayat) [own-sovereignty](sva+sāmrājyaṃ) [she](sā) [in-dice-play](akṣa+krīḍā+) [delighting](aratiḥ) [auspicious-one](śivā)
+[she-took-away](ahārayat) [own-sovereignty](sva+sāmrājyaṃ) [she](sā) [dice-play-delight](akṣa+krīḍā+ratiḥ) [auspicious-one](śivā)

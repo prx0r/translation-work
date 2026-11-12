@@ -5,12 +5,12 @@
   {
    "lemma": "dvitīyam",
    "morph": "n.nom.sg",
-   "grounds": "qualifies the lotus described"
+   "grounds": "identifies the next lotus or wheel"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first",
-   "grounds": "first member of compound with patram"
+   "morph": "compound=member+aṣṭa-patra",
+   "grounds": "first member of compound aṣṭa-patra"
   },
   {
    "lemma": "patram",
@@ -20,22 +20,22 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "teja",
-   "morph": "compound=teja+first",
-   "grounds": "first member of compound with dhyāna"
+   "morph": "compound=member+teja-dhyāna",
+   "grounds": "first member of compound teja-dhyāna"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=dhyāna+second",
-   "grounds": "second member of compound with sudīpitam"
+   "morph": "compound=member+teja-dhyāna",
+   "grounds": "second member of compound teja-dhyāna"
   },
   {
    "lemma": "sudīpitam",
    "morph": "n.nom.sg",
-   "grounds": "describes the lotus as illumined by fire meditation"
+   "grounds": "describes the lotus as brightly lit by fiery meditation"
   }
  ]
 }

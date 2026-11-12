@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound=balī+first",
-   "grounds": "first member of compound with palita"
+   "morph": "compound=member+balī-palita",
+   "grounds": "first member of compound balī-palita"
   },
   {
    "lemma": "palita",
-   "morph": "compound=palita+second",
-   "grounds": "second member of compound with nāśam"
+   "morph": "compound=member+balī-palita",
+   "grounds": "second member of compound balī-palita"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "names removal of aging signs"
+   "grounds": "an attained effect"
   },
   {
    "lemma": "tu",
@@ -30,12 +30,12 @@
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "names the power of distant vision"
+   "grounds": "another attained effect"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connects listed attainments"
+   "grounds": "adds another effect"
   }
  ]
 }
