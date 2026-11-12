@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[five-part-end-limit](pañcabhāgāvasānāntaṃ) [hall-width](śālāvistāra) [is-desired](iṣyate)
+[five](pañca)[+part](bhāga)[+end](avasāna)[+limit](antaṃ) [hall](śālā)[+width](vistāraḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p93-v2302
-[porch](alindaḥ) [wide-door](pṛthudvāreṇa) [equal](samo) [or](vā) [half-measure](cārdhamānataḥ)
+[verandah](alindaḥ) [with-wide](pṛthu)[+door](dvāreṇa) [equal](samaḥ) [or](vā) [and](ca)[+half](ardha)[+in-measure](mānataḥ)
 
 ## mukta-m0-p93-v2303
-[garbha-placement-sequence](garbhādhānakramaṇakaṃ) [kabhitti](kabhittirmukhyadhāmani)
+[conception](garbha)[+placing](ādhāna)[+procedure](kramaṇakaṃ) [wall](kabhittiḥ)[+in-main](mukhya)[+abode](dhāmani)
 
 ## mukta-m0-p93-v2304
-[or](athavā) [brahma-wall](brahmabhittau) [or](vā) [garbha-placement](garbhādhānaṃ) [is-prescribed](vidhīyate)
+[or](athavā) [in-brahma](brahma)[+wall](bhittau) [or](vā) [conception](garbha)[+placing](ādhānaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p93-v2305
-[northern](uttare) [raṅga](raṅmityuktaṃ) [said](uktaṃ) [householder's](tadgṛhiṇyā) [house](gṛhaṃ) [becomes](bhavet)
+[in-north](uttare) [raṅ](raṅ)[+thus-said](iti)[+said](uktaṃ) [that](tat)[+of-housewife](gṛhiṇyāḥ) [house](gṛhaṃ) [should-be](bhavet)
 
 ## mukta-m0-p93-v2306
-[nine-part](navabhāge) [house](gṛhe) [there](tatra) [southern](dakṣiṇe) [five-part](pañcabhāgakam)
+[in-nine](nava)[+part](bhāge) [house](gṛhe) [there](tatra) [in-south](dakṣiṇe) [five](pañca)[+part](bhāgakam)
 
 ## mukta-m0-p93-v2307
-[porch](alinde) [door](dvāramevaṃ) [thus](syādanyatrāpyevameva) [also](tu)
+[in-verandah](alinde) [door](dvāram)[+thus](evaṃ) [should-be](syāt)[+elsewhere](anyatra)[+also](api)[+thus](evam)[+indeed](eva) [but](tu)
 
 ## mukta-m0-p93-v2308
-[wall-thickness](bhittivyāse) [sun-part](arkabhāgaṃ) [but](tu) [external](bāhye) [external-arrow-part](bāhyaśarāṃśakam)
+[in-wall](bhitti)[+thickness](vyāse)[+twelve](arka)[+part](bhāgaṃ) [but](tu) [outside](bāhye) [outer](bāhya)[+five](śara)[+part](aṃśakam)
 
 ## mukta-m0-p93-v2309
-[wall-middle](bhittimadhyaṃ) [between-them](tayormadhyaṃ) [foot-middle](pādamadhyaṃ) [or](tu) [equal](vā) [same](samam)
+[wall](bhitti)[+middle](madhyaṃ) [of-those-two](tayoḥ)[+middle](madhyaṃ) [pillar](pāda)[+middle](madhyaṃ) [but](tu) [or](vā) [equal](samam)
 
 ## mukta-m0-p93-v2310
-[corner](koṇāttṛtīyabhāge) [third-part](tṛtīyabhāge) [water-outlet](jalanirgama) [desired](iṣyate)
+[from-corner](koṇāt)[+third](tṛtīya)[+part](bhāge) [but](tu) [water](jala)[+outlet](nirgamaḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p93-v2311
-[bhallāṭa](bhallāṭe) [and](caiva) [middle](madhye) [ca](ca) [door](dvāramāsu) [prescribed](vidhīyate)
+[at-front](bhallāṭe) [and](ca)[+indeed](eva) [in-middle](madhye) [and](ca) [door](dvāram)[+in-these](āsu) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p93-v2312
-[deities](devānāmubhayaṃ) [both](ubhayaṃ) [grasp](grāhyaṃ) [middle-door](madhyadvāraṃ) [but](tu) [indeed](vai) [ground](tale)
+[of-gods](devānām)[+both](ubhayaṃ) [to-be-taken](grāhyaṃ) [middle](madhya)[+door](dvāraṃ) [but](tu) [indeed](vai) [at-bottom](tale)
 
 ## mukta-m0-p93-v2313
-[sun](ādityān) [nanda-foot-end](nandapādānte) [five-finger-step](pañcāṅgulagatikramāt)
+[of-Ādityas](ādityān) [at-nanda](nanda)[+pillar](pāda)[+end](ante) [by-five](pañca)[+aṅgula](aṅgula)[+movement](gati)[+sequence](kramāt)
 
 ## mukta-m0-p93-v2314
-[dharma-nanda-eight-part](dharmanandāṣṭadhātvaṃśāḥ) [eastern-part-foot](pūrvabhāgādipādakāḥ)
+[dharma](dharma)[+nanda](nanda)[+eight](aṣṭa)[+dhātu](dhātu)[+parts](aṃśāḥ) [from-east](pūrva)[+part](bhāga)[+etc.](ādi)[+pillars](pādakāḥ)
 
 ## mukta-m0-p93-v2315
-[house-foot-middle](gṛhāṅghrimadhyayormadhyaṃ) [wall-middle](bhittimadhyamiti) [remembered](smṛtam)
+[house](gṛha)[+pillar](aṅghri)[+of-two-middles](madhyayoḥ)[+middle](madhyaṃ) [wall](bhitti)[+middle](madhyam)[+thus](iti) [is-remembered](smṛtam)
 
 ## mukta-m0-p93-v2316
-[this-all](etatsarvaṃ) [but](tu) [halls](śālānāṃ) [common](sāmānyamiti) [proclaimed](kīrtyate)
+[this](etat)[+all](sarvaṃ) [but](tu) [of-halls](śālānāṃ) [common](sāmānyam)[+thus](iti) [is-declared](kīrtyate)
 
 ## mukta-m0-p93-v2317
-[elephants-horses-chariots-warriors](hastyaśvarathayodhānāṃ) [sacrifice-homa-etc-works](yāgahomādikarmasu)
+[for-elephant](hasti)[+horse](aśva)[+chariot](ratha)[+warriors](yodhānāṃ) [in-sacrifice](yāga)[+oblation](homa)[+etc.](ādi)[+rites](karmasu)
 
 ## mukta-m0-p93-v2318
-[single-hall](ekaśālā) [auspicious](praśastā) [syāt](syāt) [women](strīṇā) [raṅga-dependent](raṅgopajīvinām)
+[one](eka)[+hall](śālā) [praised](praśastā) [should-be](syāt)[+of-women](strīṇām) [stage](raṅga)[+living-by](upajīvinām)
 
 ## mukta-m0-p93-v2319
-[hall-less-place](śālāvirahitasthāne) [wall](kuḍye) [door](dvāraṃ) [employ](prayojayet)
+[hall](śālā)[+devoid](virahita)[+place](sthāne) [in-wall](kuḍye) [door](dvāraṃ) [should-be-employed](prayojayet)
 
 ## mukta-m0-p93-v2320
-[principal-hall](pradhānaśālā) [where](yatraiva) [raṅga-place](raṅgasthānaṃ) [prescribed](vidhīyate)
+[main](pradhāna)[+hall](śālā) [where](yatra)[+indeed](eva) [stage](raṅga)[+place](sthānaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p93-v2321
-[cūlī-harmya-with](cūlīharmyayutaṃ) [or](cordhve) [upward](cāgradvārasamanvitam) [front-door-endowed](cāgradvārasamanvitam)
+[with-cūlī](cūlī)[+mansion](harmya)[+joined](yutaṃ) [and](ca)[+above](ūrdhve) [and](ca)[+front](agra)[+door](dvāra)[+endowed-with](samanvitam)
 
 ## mukta-m0-p93-v2322
-[everywhere](sarvataḥ) [kuṇḍa-endowed](kuṇḍasaṃyuktaṃ) [house-door-endowed](gṛhadvārasanvitam)
+[on-all-sides](sarvataḥ) [with-pits](kuṇḍa)[+joined](saṃyuktaṃ) [house](gṛha)[+door](dvāra)[+endowed-with](sanvitam)
 
 ## mukta-m0-p93-v2323
-[with-upward-residence](sordhvavāstavyasaṃyuktaṃ) [cūlī-harmya-with](cūlīharmyayutaṃ) [or](tu) [vā](vā)
+[with-upper](sa)[+upper](ūrdhva)[+dwelling](vāstavya)[+joined](saṃyuktaṃ) [with-cūlī](cūlī)[+mansion](harmya)[+joined](yutaṃ) [but](tu) [or](vā)
 
 ## mukta-m0-p93-v2324
-[karṇakūṭa-devoid](karṇakūṭavihīnaṃ) [or](vā) [other-all](cānyatsarvaṃ) [but](tu) [in-vāstus](vāstuṣu)
+[corner](karṇa)[+pavilion](kūṭa)[+devoid-of](vihīnaṃ) [or](vā) [and](ca)[+other](anyat)[+all](sarvaṃ) [but](tu) [in-buildings](vāstuṣu)
 
 ## mukta-m0-p93-v2325
-[assembly-hall-endowed](sabhākārayutaṃ) [or](vāpi) [alone](kevalaṃ) [or](vā) [water-land](jalasthalam)
+[with-assembly](sabhā)[+form](ākāra)[+joined](yutaṃ) [or](vā)[+also](api) [only](kevalaṃ) [or](vā) [water](jala)[+place](sthalam)

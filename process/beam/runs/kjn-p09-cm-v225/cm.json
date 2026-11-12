@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "caturaśīti",
-   "morph": "fem.nom.pl",
-   "grounds": "numeral referring to count"
+   "morph": "numeral.compound-member",
+   "grounds": "numeral forming compound with following 'sahasreṣu' to express total count"
   },
   {
    "lemma": "sahasreṣu",
-   "morph": "m.loc.pl",
-   "grounds": "locative plural of numeral group"
+   "morph": "n.loc.pl",
+   "grounds": "locative plural of 'sahasra' (thousand), completing the numeral expression"
   },
   {
    "lemma": "yoniyantreṣu",
-   "morph": "n.loc.pl",
-   "grounds": "compound locative context"
+   "morph": "compound:n.loc.pl",
+   "grounds": "compound 'yoni' (womb/source) + 'yantra' (diagram/device) in locative plural"
   },
   {
    "lemma": "pīḍitāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "past passive participle form"
+   "morph": "m.nom.pl.ppp(pīḍ)",
+   "grounds": "past passive participle describing those subjected to suffering"
   }
  ]
 }

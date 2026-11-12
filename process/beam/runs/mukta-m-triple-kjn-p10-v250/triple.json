@@ -7,13 +7,13 @@
     {
      "surface": "ṣaṣṭhaṃ",
      "gloss": "sixth",
-     "grounds": "ordinal numeral qualifying cakraṃ",
+     "grounds": "ordinal adjective qualifying cakraṃ",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
-     "gloss": "but",
-     "grounds": "particle marking contrast or continuation",
+     "gloss": "and",
+     "grounds": "particle introducing continuation",
      "morph": "(indecl.)"
     },
     {
@@ -25,39 +25,39 @@
     {
      "surface": "rājānam",
      "gloss": "royal",
-     "grounds": "epithet in apposition to cakraṃ",
+     "grounds": "epithet qualifying cakraṃ",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral forming first member of compound with patra",
-     "morph": "compound-member"
+     "grounds": "numeral specifying petal count",
+     "morph": "(indecl.)"
     },
     {
      "surface": "patra",
-     "gloss": "petal",
-     "grounds": "second member of compound with aṣṭa",
+     "gloss": "petaled",
+     "grounds": "second member indicating petals",
      "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "descriptive adjective qualifying cakraṃ",
+     "grounds": "possessive adjective qualifying cakraṃ",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What form and status characterize the sixth cakra?",
+   "question": "What form and attributes characterize the sixth cakra?",
    "premises": [
-    "The sixth cakra is the subject described.",
-    "It is characterized as royal in status.",
-    "It possesses eight petals and a pericarp."
+    "The sixth cakra is identified as royal.",
+    "The sixth cakra is described as eight-petaled.",
+    "The sixth cakra is described as having a pericarp."
    ],
-   "inference": "The sixth cakra is a royal center with eight petals and a pericarp.",
+   "inference": "The sixth cakra is a royal eight-petaled wheel with a pericarp.",
    "uncertainties": [
-    "The exact referent of rājānam as royal or kingly is context-dependent."
+    "The exact nuance of rājānam as an epithet is context-dependent."
    ],
-   "plain_english": "But the sixth cakra is royal, eight-petaled, and has a pericarp."
+   "plain_english": "And the sixth cakra is royal, eight-petaled, and has a pericarp."
   }
  ]
 }

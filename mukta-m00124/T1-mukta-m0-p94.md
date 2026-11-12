@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p94-v2326
-[main](pradhāna) [hall](maṇḍapa) [building](āgāraṃ) [spire](cūlī) [palace](harmya) [devoid](vivarjitam)
+[main](pradhāna) [hall+chamber](maṇḍapa+āgāraṃ) [crest+palace+devoid-of](cūlī+harmya+vivarjitam)
 
 ## mukta-m0-p94-v2327
-[other](anyat) [previous](pūrva) [path](vartmanā) [with](yuktam) [lūpa](lūpa) [ascent](āroha) [rite](kriyā)
+[plaster+ascending+action+endowed-with](lūpa+āroha+kriyā+yuktam) [other](anyat) [previously+stated+method](pūrva+ukta+vartmanā)
 
 ## mukta-m0-p94-v2328
-[upper](ūrdhva) [ground](bhūmiḥ) [called](khyātā) [second](dvitīyāṃ) [hear](śṛṇuta) [twice-born](dvijāḥ)
+[upper+floor](ūrdhva+bhūmiḥ) [thus](iti) [known](khyātā) [second](dvitīyāṃ) [listen](śṛṇuta) [O-twice-born](dvijāḥ)
 
 ## mukta-m0-p94-v2329
-[that](sā) [ground](bhūmiḥ) [hall](maṇḍapa) [building](āgāra) [spire](cūlī) [palace](harmya) [adorned](vibhūṣitā)
+[that](sā) [floor](bhūmiḥ) [hall+chamber+crest+palace+adorned-with](maṇḍapa+āgāra+cūlī+harmya+vibhūṣitā)
 
 ## mukta-m0-p94-v2330
-[part](bhāga) [two](dvayena) [its](tasya) [eva](eva) [arrangement](vinyāsaḥ) [enumerated](paripaṭhyate)
+[part+two](bhāga+dvayena) [of-that-very](tasya+eva) [arrangement](vinyāsaḥ) [is-taught](paripaṭhyate)
 
 ## mukta-m0-p94-v2331
-[four](catur) [part](bhāga) [two](dvibhāgena) [back](pṛṣṭha) [dwelling](āvāsa) [assembly](sabhāṃ) [lead](nayet)
+[four+part+two+division](catur+bhāga+dvi+bhāgena) [back+dwelling+hall](pṛṣṭha+āvāsa+sabhāṃ) [one-should-lead](nayet)
 
 ## mukta-m0-p94-v2332
-[sides](pārśvayoḥ) [both](ubhayoḥ) [ca](ca) [eva](eva) [four](catur) [part](bhāga) [end](anta) [width](vistaram)
+[on-sides](pārśvayoḥ) [on-both](ubhayoḥ) [and](ca) [indeed](eva) [four+part+end+extent](catur+bhāga+anta+vistaram)
 
 ## mukta-m0-p94-v2333
-[main](pradhāna) [dwelling](āvāsa) [eye](netra) [station](sthana) [eye](netra) [peak](kūṭa) [two](dvayaṃ) [lead](nayet)
+[main+dwelling+window+place+window+tower+pair](pradhāna+āvāsa+netra+stha+netra+kūṭa+dvayaṃ) [one-should-lead](nayet)
 
 ## mukta-m0-p94-v2334
-[back](pṛṣṭha) [dwelling](āvāsa) [assembly](sabhā) [thus](tadvat) [other](anyat) [all](sarvam) [below](adhaḥ) [place](sthale)
+[back+dwelling+hall](pṛṣṭha+āvāsa+sabhā) [likewise](tadvat) [other](anyat) [all](sarvam) [on-lower+ground](adhaḥ+sthale)
 
 ## mukta-m0-p94-v2335
-[veranda](alindasya) [around](samantāt) [tu](tu) [part](bhāgena) [one](ekena) [enclosure](vārakam)
+[of-verandah](alindasya) [all-around](samantāt) [but](tu) [by-part+one](bhāgena+ekena) [enclosure](vārakam)
 
 ## mukta-m0-p94-v2336
-[thus](tathā) [main](pradhāna) [hall](śālāyāḥ) [tu](tu) [according](anusāreṇa) [sides](pārśvayoḥ)
+[likewise](tathā) [of-main+hall](pradhāna+śālāyāḥ) [but](tu) [according-to](anusāreṇa) [on-sides](pārśvayoḥ)
 
 ## mukta-m0-p94-v2337
-[part](bhāga) [two](dvaya) [exit](viniṣkrāmaḥ) [part](bhāga) [two](dvaya) [wide](viśālataḥ)
+[part+two+projection](bhāga+dvaya+viniṣkrāmaḥ) [part+two+breadth](bhāga+dvaya+viśālataḥ)
 
 ## mukta-m0-p94-v2338
-[four](catuḥ) [hall](śālā) [end](vasānāntām) [upper](ūrdhva) [below](adhaḥ) [determine](parikalpayet)
+[four+hall+end+limit](catuḥ+śālā+avasāna+antām) [above+below](ūrdhva+adhaḥ) [one-should-arrange](parikalpayet)
 
 ## mukta-m0-p94-v2339
-[six](ṣaṇṇāṃ) [vai](vai) [eye](netra) [hall](śālānāṃ) [between](antarāle) [ca](ca) [open](vāssthalam)
+[of-six](ṣaṇṇāṃ) [indeed](vai) [of-window+halls](netra+śālānāṃ) [in-interval](antarāle) [and](ca) [dwelling+place](vāstu+sthalam)
 
 ## mukta-m0-p94-v2340
-[south](dakṣiṇe) [ca](ca) [uttare](uttare) [ca](ca) [eva](eva) [east](pūrve) [ca](ca) [eva](eva) [especially](viśeṣataḥ)
+[in-south](dakṣiṇe) [and-in-north](ca+uttare) [and](ca) [indeed](eva) [in-east](pūrve) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p94-v2341
-[or](athavā) [southwest](nairṛte) [northwest](vāyau) [god](deva) [part](bhāga) [with](samanvitam)
+[or](athavā) [in-southwest](nairṛte) [in-northwest](vāyau) [deity+portion+endowed-with](deva+bhāga+samanvitam)
 
 ## mukta-m0-p94-v2342
-[that](tad) [below](adhaḥ) [ground](bhū) [two](dvayaṃ) [yat](yat) [tu](tu) [rope](rajjusūtra) [kapota](kapota) [yuk](yuk)
+[below-that](tat+adhaḥ) [floor+two](bhū+dvayaṃ) [which](yat) [but](tu) [cord+thread+cornice+endowed-with](rajju+sūtra+kapota+yuk)
 
 ## mukta-m0-p94-v2343
-[that](tad) [below](adhastāt) [around](samantāt) [tu](tu) [part](bhāgena) [one](ekena) [enclosure](vārakam)
+[below-that](tat+adhastāt) [all-around](samantāt) [but](tu) [by-part+one](bhāgena+ekena) [enclosure](vārakam)
 
 ## mukta-m0-p94-v2344
-[that](tad) [below](adhastāt) [floor](talaṃ) [ca](ca) [eleven](ekādaśa) [twelve](dvādaśa) [storied](bhūmikam)
+[below-that](tat+adhastāt) [floor](talam) [and](ca) [one](eka) [eleven+twelve+storied](daśa+dvādaśa+bhūmikam)
 
 ## mukta-m0-p94-v2345
-[first](ādyaṃ) [tu](tu) [all](sarvatobhadraṃ) [second](dvitīyaṃ) [increasing](vardhamānakam)
+[first](ādyam) [but](tu) [auspicious-on-all-sides](sarvataḥ+bhadram) [second](dvitīyam) [increasing](vardhamānakam)
 
 ## mukta-m0-p94-v2346
-[caruka](carukaṃ) [fifth](pañcamaṃ) [know](vidyāt) [hall](śālānām) [cover](apidhānakam)
+[caruka](carukam) [fifth](pañcamam) [one-should-know](vidyāt) [of-halls](śālānām) [covering](apidhānakam)
 
 ## mukta-m0-p94-v2347
-[south](dakṣiṇe) [ca](ca) [uttare](uttare) [ca](ca) [eva](eva) [six](ṣaṇ) [eye](netraṃ) [svastika](svastikaṃ) [considered](matam)
+[in-south](dakṣiṇe) [and-in-north](ca+uttare) [and](ca) [indeed](eva) [six+windowed](ṣaṭ+netram) [svastika](svastikam) [considered](matam)
 
 ## mukta-m0-p94-v2348
-[nandyāvarta](nandyāvartaṃ) [remembered](smṛtaṃ) [east](pūrve) [south](dakṣiṇe) [west](paścime) [tathā](tathā)
+[nandyāvarta](nandyāvartam) [remembered](smṛtam) [in-east](pūrve) [in-south](dakṣiṇe) [in-west](paścime) [likewise](tathā)
 
 ## mukta-m0-p94-v2349
-[niṣpaṭa](niṣpaṭaṃ) [caruka](carukaṃ) [know](vidyāt) [everywhere](sarvatra) [eva](eva) [especially](viśeṣataḥ)
+[niṣpaṭa](niṣpaṭam) [caruka](carukam) [one-should-know](vidyāt) [everywhere](sarvatra) [indeed](eva) [especially](viśeṣataḥ)
 
 ## mukta-m0-p94-v2350
-[especially](viśeṣāt) [earth](bhū) [lord](bhṛtāṃ) [auspicious](śastaṃ) [caruka](carukaṃ) [god](deva) [worthy](yogyakam)
+[especially](viśeṣāt) [for-kings](bhūbhṛtām) [commended](śastam) [caruka](carukam) [for-gods+suitable](deva+yogyakam)
