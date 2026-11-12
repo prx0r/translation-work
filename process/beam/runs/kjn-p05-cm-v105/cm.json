@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "ko",
-   "morph": "pron.nom.sg.m",
-   "grounds": "interrogative pronoun masculine nominative singular"
+   "morph": "pron.m.nom.sg",
+   "grounds": "interrogative subject"
   },
   {
    "lemma": "asau",
-   "morph": "pron.nom.sg.m",
-   "grounds": "demonstrative pronoun masculine nominative singular"
+   "morph": "pron.m.nom.sg",
+   "grounds": "demonstrative determiner"
   },
   {
    "lemma": "jīvaḥ",
    "morph": "m.nom.sg",
-   "grounds": "masculine nominative singular noun"
+   "grounds": "subject in question"
   },
   {
    "lemma": "samuddiṣṭaḥ",
-   "morph": "ppp.nom.sg.m",
-   "grounds": "past passive participle of sam-ud-diś, masculine nominative singular"
+   "morph": "m.nom.sg",
+   "grounds": "past participle"
   },
   {
    "lemma": "kiṃ",
-   "morph": "pron.nom.sg.n",
-   "grounds": "interrogative pronoun neuter nominative singular"
+   "morph": "pron.n.nom.sg",
+   "grounds": "interrogative"
   },
   {
    "lemma": "vā",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "jīva+svarūpakam",
-   "morph": "compound:jīva+svarūpaka(n.nom.sg)",
-   "grounds": "nominative singular compound jīva-svarūpaka"
+   "morph": "compound:n.nom.sg",
+   "grounds": "compound object of inquiry"
   }
  ]
 }

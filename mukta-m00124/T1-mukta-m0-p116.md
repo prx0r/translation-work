@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-there+front pavilion by+veda+part+only but made
+[then](tad) [in-front](agre) [pavilion](maṇṭapam) [by-one-sixth-part](vedabhāgena) [indeed](eva) [by](tu) [made](nirmitam)
 
 ## mukta-m0-p116-v2877
-side+of+pavilion+only by+veda+part courtyard
+[on-sides](pārśvayoḥ) [of-pavilion](maṇṭapasya) [indeed](eva) [by-one-sixth-part](vedabhāgena) [open-court](vārsthalam)
 
 ## mukta-m0-p116-v2878
-there+front one+part+wall wall and+also should+employ
+[then](tad) [in-front](agre) [one-part](vāram) [one-sixth](ekāṃśam) [wall](kuḍyam) [and](ca) [also](api) [should-use](prayojayet)
 
 ## mukta-m0-p116-v2879
-front+hall should+be+made specially like+temple
+[front-hall](mukhaśālā) [should-be-made](prakartavyā) [especially](viśeṣeṇa) [like-a-vimāna](vimānavat)
 
 ## mukta-m0-p116-v2880
-this+that increasing be kings praised
+[this](etat) [that](tat) [vardhamāna](vardhamānam) [should-be](syāt) [of-kings](bhūpālānām) [commended](praśaṃsitam)
 
 ## mukta-m0-p116-v2881
-mind+pleasing thus known twice-born praised
+[delightful](manoramyam) [thus](iti) [famous](khyātam) [of-twice-born](dvijātīnām) [commended](praśaṃsitam)
 
 ## mukta-m0-p116-v2882
-courtyard but with+hall be prosperity+making and+this+declared
+[courtyard](aṅkaṇam) [with-veranda](sabhāram) [should-be](syāt) [bringing-prosperity](śrīkaram) [this](ca) [said](īritam)
 
 ## mukta-m0-p116-v2883
-courtyard veda+part be hall+measure two+parts+from
+[courtyard](aṅkaṇam) [one-sixth-part](vedabhāgam) [should-be](syāt) [hall-extension](śālāvyāsaḥ) [two-parts](dvibhāgataḥ)
 
 ## mukta-m0-p116-v2884
-courtyard but with+hall be main+house but store+room
+[courtyard](aṅkaṇam) [with-veranda](sabhāram) [should-be](syāt) [main-house](mukhyāgāram) [and](tu) [store-room](koṣṭhakam)
 
 ## mukta-m0-p116-v2885
-hall+front+joined that+auspicious and order+abandoned
+[with-hall-entrance](śālāvaktra+samāyuktam) [that](tat) [bhadra](bhadram) [and](ca) [by-sequence-left-out](kramojjhitam)
 
 ## mukta-m0-p116-v2886
-courtyard arm+halls two main+house sides
+[in-open-court](vārsthale) [two-wing-halls](bāhuśāle) [two](dve) [of-main-house](mukhyāgārasya) [on-sides](pārśvayoḥ)
 
 ## mukta-m0-p116-v2887
-around one+part with+hall be water+ground
+[around](paritaḥ) [one-part](vāram) [one-sixth](ekāṃśam) [with-veranda](sabhāram) [should-be](syāt) [water-place](jalasthalam)
 
 ## mukta-m0-p116-v2888
-sides both and+only halls should+be+done by+experts
+[on-sides](pārśvayoḥ) [of-both](ubhayoḥ) [and](ca) [indeed](eva) [halls](śāle) [should-be-made](kārye) [by-experts](vicakṣaṇaiḥ)
 
 ## mukta-m0-p116-v2889
-corner+pavilion+four but there corners should+make
+[cluster-of-four-karṇakūṭas](karṇakūṭa+catuṣkam) [and](tu) [there](tatra) [in-corners](koṇeṣu) [should-cause-to-be-made](kārayet)
 
 ## mukta-m0-p116-v2890
-four+parts+measure with+wall front+side
+[of-four-parts](caturbhāga+samāyāmam) [with-passage](savāram) [on-front-side](mukha+pārśvake)
 
 ## mukta-m0-p116-v2891
-nest+eight should+be+made directions+front this opinion
+[eight-niches](nīḍa+aṣṭakam) [should-be-made](prakartavyam) [facing-directions](diśāmukham) [this](idam) [considered](matam)
 
 ## mukta-m0-p116-v2892
-courtyard pavilion+shaped by+name spacious called
+[courtyard](aṅkaṇam) [like-a-pavilion](maṇṭapa+ākāram) [by-name](nāmnā) [vast](vipulam) [is-called](ucyate)
 
 ## mukta-m0-p116-v2893
-pavilion and front+hall+two leaving but pavilion+roof
+[pavilion](maṇṭapam) [and](ca) [front-hall](agraśālā) [situated](stha) [two](dvayam) [having-left-out](hitvā) [and](tu) [kūṭaka](kūṭakam)
 
 ## mukta-m0-p116-v2894
-in+breadth ten+parts be in+length twelve+parts
+[in-breadth](vistāre) [ten-parts](daśabhāgāḥ) [should-be](syuḥ) [in-length](āyāme) [twelve-parts](dvādaśa+aṃśakam)
 
 ## mukta-m0-p116-v2895
-courtyard front back one+part be
+[of-courtyard](aṅkaṇasya) [in-front](puraḥ) [behind](pṛṣṭha) [passage](vāram) [by-one-part](ekāṃśataḥ) [should-be](bhavet)
 
 ## mukta-m0-p116-v2896
-outer+courtyard and one+part part wall
+[outside](bahih) [rain-court](varṣasthalam) [and](ca) [one-part](eka+bhāgam) [by-part](bhāgena) [passage](vārakam)
 
 ## mukta-m0-p116-v2897
-outer+courtyard+from auspicious+two auspicious+endowed be
+[from-outside-rain-court](bahir+varṣasthalāt) [two-bhadras](bhadra+dvayam) [with-bhadra](bhadra+anvitam) [should-be](bhavet)
 
 ## mukta-m0-p116-v2898
-their+between in+order hall+measure here desired
+[of-them](tayoḥ) [in-middle](madhye) [in-order](anulomena) [hall-length](śālāyāmam) [here](iha) [is-desired](iṣyate)
 
 ## mukta-m0-p116-v2899
-one+part+interval by all halls placed
+[by-one-part](eka+bhāga) [interval](antarālena) [all](sarvāḥ) [halls](śālāḥ) [arranged](niveśitāḥ)
 
 ## mukta-m0-p116-v2900
-middle walls desired be elevated owner+residence
+[in-middle](madhye) [passages](vārāṇi) [desired](iṣṭam) [should-be](syāt) [elevated](ucchritam) [lord's-residence](svāmi+vāsakam)

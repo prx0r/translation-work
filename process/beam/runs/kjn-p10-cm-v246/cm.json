@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.present-middle √kṛ",
-   "grounds": "states the result produced by practice"
+   "morph": "3.sg.mid-pres/√kṛ",
+   "grounds": "main verb describing attainment"
   },
   {
    "lemma": "amaratvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "state attained through practice"
+   "grounds": "object attained"
   },
   {
    "lemma": "hi",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "satata",
-   "morph": "compound=satata+modifier",
-   "grounds": "first member of compound describing practice"
+   "morph": "compound=satata+first",
+   "grounds": "first member of compound with abhyāsa"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+head",
-   "grounds": "second member naming repeated effort"
+   "morph": "compound=abhyāsa+second",
+   "grounds": "second member of compound with tatparaḥ"
   },
   {
    "lemma": "tatparaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes one devoted to constant practice"
+   "grounds": "describes the practitioner"
   }
  ]
 }

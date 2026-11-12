@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 245,
- "question": "How should a devoted practitioner cultivate multiple forms in meditation?",
+ "question": "What practice is enjoined in solitude for one intent on meditation?",
  "premises": [
-  "The practice is to be done in solitude.",
-  "Meditation can produce many forms.",
-  "The practitioner must be intent on that practice."
+  "The practitioner is in solitude",
+  "The practitioner is intent on meditation",
+  "An imperative commands making forms in many ways"
  ],
- "inference": "In solitude, being intent on meditation, one should create many forms.",
- "uncertainties": [],
- "plain_english": "In solitude, intent on meditation, create many forms."
+ "inference": "In solitude, one intent on meditation should create forms in many ways.",
+ "uncertainties": [
+  "dhyānañ shows sandhi before ca; analyzed as fused form"
+ ],
+ "plain_english": "In solitude, intent on meditation, create forms in many ways."
 }
