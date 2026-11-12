@@ -1,15 +1,13 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter concludes in the section called Candra-dvīpa?",
+ "question": "Which chapter concludes with the emergence in Candra-dvīpa?",
  "premises": [
-  "The text refers to Candra-dvīpa as emerged or issued forth.",
-  "A chapter number is specified.",
-  "The ninth chapter is identified."
+  "The context is emergence in Candra-dvīpa",
+  "The section is identified by an ordinal number",
+  "The unit named is a chapter"
  ],
- "inference": "The ninth chapter is completed in the Candra-dvīpa section.",
- "uncertainties": [
-  "The exact sense of vinirgate in this colophon is somewhat compressed."
- ],
- "plain_english": "Thus ends the ninth chapter in the Candra-dvīpa."
+ "inference": "The ninth chapter concludes in the context of emergence in Candra-dvīpa.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the ninth chapter, having emerged in Candra-dvīpa."
 }

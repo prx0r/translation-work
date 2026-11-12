@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protective claim is made about the body such that poison does not enter it even if bitten by great serpents?",
+ "question": "What protective claim is being made by stating that poison does not enter the body even if one has been bitten by great serpents?",
  "premises": [
-  "A person is described as bitten by great serpents.",
-  "Poison is the agent in question.",
-  "It is claimed that poison does not enter the body in that case."
+  "Poison is the subject of negation.",
+  "The locus stated is the body.",
+  "The condition stated is having been bitten, even by great serpents."
  ],
- "inference": "Even when bitten by great serpents, poison does not enter the body of the person in question.",
+ "inference": "Under the stated condition, poison does not enter the body.",
  "uncertainties": [
-  "The reason for this protection is not stated in this verse alone."
+  "The means by which this protection holds is not stated in this verse."
  ],
  "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }

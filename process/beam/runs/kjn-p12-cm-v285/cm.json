@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "aṇimā",
-   "morph": "compound: aṇimā+first",
-   "grounds": "first siddhi in compound"
+   "morph": "f.nom.sg",
+   "grounds": "nominative singular of aṇiman, first in list"
   },
   {
    "lemma": "ādi",
-   "morph": "compound: ādi+middle",
-   "grounds": "indicates series"
+   "morph": "ādi+guṇa (compound)",
+   "grounds": "first member of compound with guṇa"
   },
   {
    "lemma": "guṇa",
-   "morph": "compound: guṇa+middle",
-   "grounds": "member of compound"
+   "morph": "guṇa+aiśvarya (compound)",
+   "grounds": "first member of compound with aiśvarya"
   },
   {
    "lemma": "aiśvarya",
-   "morph": "compound: aiśvarya+final, n.nom.sg",
-   "grounds": "final member of compound"
+   "morph": "aiśvarya+siddhiḥ (compound)",
+   "grounds": "first member of compound with siddhiḥ"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "resulting attainment"
+   "grounds": "nominative singular of siddhi"
   },
   {
    "lemma": "ca",
@@ -35,12 +35,12 @@
   {
    "lemma": "mānasī",
    "morph": "f.nom.sg",
-   "grounds": "describes accomplishment"
+   "grounds": "nominative singular feminine adjective agreeing with siddhiḥ"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.active-optative √bhū",
-   "grounds": "potential result"
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "optative third person singular of bhū"
   }
  ]
 }

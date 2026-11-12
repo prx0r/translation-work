@@ -29,17 +29,17 @@
      "morph": "m.loc.sg"
     }
    ],
-   "question": "What obligation requires that a certain teaching be concealed with effort in the mortal world among the lowest of men?",
+   "question": "What obligation requires that a certain teaching be concealed with effort in the world of mortals among the lowest of men?",
    "premises": [
     "A teaching is marked as something to be concealed.",
-    "Concealment is to be carried out with effort.",
-    "The sphere for such concealment is the mortal world among the lowest of men."
+    "Concealment is to be carried out with deliberate effort.",
+    "Such concealment is prescribed for the mortal world among the lowest of men."
    ],
-   "inference": "The teaching is not to be openly imparted in that setting but guarded with effort.",
+   "inference": "The teaching is restricted in scope and must be guarded from unfit recipients.",
    "uncertainties": [
-    "The specific teaching to be concealed is not named in this verse."
+    "The precise teaching to be concealed is not specified here."
    ],
-   "plain_english": "This teaching must be concealed with effort in the mortal world, among the lowest of men."
+   "plain_english": "This teaching is to be concealed with effort in the mortal world, among the lowest of men."
   },
   {
    "verse": 102,
@@ -52,36 +52,36 @@
     },
     {
      "surface": "pūrvasiddhasya",
-     "gloss": "of-prior-accomplished",
+     "gloss": "of-previously-accomplished",
      "grounds": "genitive of pūrvasiddha",
      "morph": "m.gen.sg"
     },
     {
      "surface": "abdameka+parīkṣitam",
      "gloss": "tested-one-year",
-     "grounds": "compound = abda+eka+parīkṣita analyzed as given; internal composition not split",
+     "grounds": "compound = abda+eka+parīkṣita analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "Under what condition must a gift be given to one who has been previously accomplished and tested for one year?",
+   "question": "Under what condition must a gift be given to one who has previously accomplished something and has been tested for one year?",
    "premises": [
-    "A gift is marked as something that must be given.",
-    "The recipient is one who was previously accomplished.",
-    "That recipient must have been tested for one year."
+    "A gift is prescribed as something to be given.",
+    "The recipient is one who has been previously accomplished.",
+    "The recipient must have been tested for the duration of one year."
    ],
-   "inference": "Imparting is warranted only for a previously accomplished person who has passed a one-year test.",
+   "inference": "Transmission is restricted to a previously accomplished recipient who has passed a year-long test.",
    "uncertainties": [
-    "The nature of the gift itself is not specified in this verse."
+    "The nature of the gift itself remains unspecified in this verse."
    ],
-   "plain_english": "What is to be given must go to one who was previously accomplished and has been tested for one year."
+   "plain_english": "It is to be given to one who has previously accomplished and has been tested for one year."
   },
   {
    "verse": 103,
    "rows": [
     {
      "surface": "candradvīpa+vinirgate",
-     "gloss": "from-candradīpa-emerged",
-     "grounds": "compound = candradvīpa+vinirgata analyzed as given; internal composition not split",
+     "gloss": "from-candradipa-emerged",
+     "grounds": "compound = candradvīpa+vinirgata analyzed as given",
      "morph": "compound = member+membership"
     },
     {
@@ -97,15 +97,15 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What claim about textual order is being made by identifying a particular chapter as the fifth to have emerged from Candradvīpa?",
+   "question": "What claim about textual origin is made by identifying a particular chapter as the fifth to have emerged from Candradvīpa?",
    "premises": [
     "A chapter is said to have emerged from Candradvīpa.",
     "That chapter is numbered as the fifth.",
     "The numbering marks its place in a sequence of chapters."
    ],
-   "inference": "The text places this chapter fifth in the sequence that emerged from Candradvīpa.",
+   "inference": "The text presents this chapter as the fifth in the sequence that emerged from Candradvīpa.",
    "uncertainties": [
-    "The contents of that chapter are not indicated by this verse alone."
+    "The contents of the preceding chapters are not indicated here."
    ],
    "plain_english": "The fifth chapter is the one that emerged from Candradvīpa."
   },
@@ -115,7 +115,7 @@
     {
      "surface": "tvat+prasādena",
      "gloss": "by-your-grace",
-     "grounds": "compound = tvat+prasāda analyzed as given; internal composition not split",
+     "grounds": "compound = tvat+prasāda analyzed as given",
      "morph": "compound = member+membership"
     },
     {
@@ -127,33 +127,33 @@
     {
      "surface": "jñāto",
      "gloss": "known",
-     "grounds": "past passive participle of jñā",
+     "grounds": "past participle of jñā",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "i",
-     "grounds": "first person pronoun",
-     "morph": "1.nom.sg"
+     "grounds": "pronoun first person",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "kaula+nirṇayaḥ",
      "gloss": "kaula-determination",
-     "grounds": "compound = kaula+nirṇaya analyzed as given; internal composition not split",
+     "grounds": "compound = kaula+nirṇaya analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What causal claim is made about the speaker's knowledge of the Kaula determination in relation to the grace of the Lord of the Kaulas?",
+   "question": "What claim about the source of knowledge is being made when it is said that the determination of the Kaula was known only by a particular grace?",
    "premises": [
-    "The speaker addresses the Lord of the Kaulas.",
-    "The speaker claims to have come to know the Kaula determination.",
-    "That knowledge is attributed to the Lord's grace."
+    "The speaker addresses the lord of the Kaulas.",
+    "By that lord's grace, something has become known.",
+    "The speaker claims to know the determination of the Kaula."
    ],
-   "inference": "The Kaula determination is known to the speaker solely by the grace of the Lord of the Kaulas.",
+   "inference": "The determination of the Kaula is known to the speaker solely through the grace of the lord of the Kaulas.",
    "uncertainties": [
-    "The extent or depth of that knowledge is not specified."
+    "The full content of the Kaula determination is not stated here."
    ],
-   "plain_english": "By your grace, O Lord of the Kaulas, I have come to know the determination of the Kaula."
+   "plain_english": "By your grace, O lord of the Kaulas, I have come to know the determination of the Kaula."
   },
   {
    "verse": 105,
@@ -179,7 +179,7 @@
     {
      "surface": "samuddiṣṭaḥ",
      "gloss": "declared",
-     "grounds": "past passive participle of samud-diś",
+     "grounds": "past participle of samud-diś",
      "morph": "m.nom.sg"
     },
     {
@@ -197,19 +197,19 @@
     {
      "surface": "jīva+svarūpakam",
      "gloss": "soul-nature",
-     "grounds": "compound = jīva+svarūpa analyzed as given; internal composition not split",
+     "grounds": "compound = jīva+svarūpa analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What twofold question about the soul is posed, requiring a distinction between which soul is declared and what its nature is?",
+   "question": "What twofold inquiry is being posed about the soul, concerning both which soul is declared and what its nature is?",
    "premises": [
     "A question is raised as to which soul is declared.",
-    "A further question is raised as to what the nature of the soul is.",
-    "The two questions are posed disjunctively."
+    "An alternative question is raised as to what the nature of the soul is.",
+    "Both questions concern the same entity referred to as the soul."
    ],
-   "inference": "Identification of the soul and determination of its nature are distinct questions to be answered.",
+   "inference": "The inquiry seeks both identification of the declared soul and determination of its nature.",
    "uncertainties": [
-    "The answer to either question is not given in this verse."
+    "No answer is given within this verse itself."
    ],
    "plain_english": "Which soul is declared? Or what is the nature of the soul?"
   },
@@ -243,39 +243,39 @@
     {
      "surface": "yāti",
      "gloss": "goes",
-     "grounds": "present active of yā",
+     "grounds": "present of yā third person",
      "morph": "3.sg.act.pres"
     },
     {
      "surface": "tat+sarvaṃ",
      "gloss": "that-all",
-     "grounds": "compound = tat+sarva analyzed as given; internal composition not split",
+     "grounds": "compound = tat+sarva analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "kathayasva",
      "gloss": "tell",
-     "grounds": "imperative active of kathay",
+     "grounds": "imperative of kathay second person",
      "morph": "2.sg.act.imp"
     },
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "pronoun dative",
+     "grounds": "pronoun first person",
      "morph": "1.dat.sg"
     }
    ],
-   "question": "What demand is made for an account of the locus of dissolution and of all that is connected to it?",
+   "question": "What demand for explanation is made concerning the locus in which dissolution occurs and the totality of what goes to dissolution?",
    "premises": [
-    "A question asks in what something undergoes dissolution.",
-    "A request is made to tell all of that to the speaker.",
-    "The particle structure marks emphasis on that locus."
+    "A question is raised about the locus in which something goes to dissolution.",
+    "The particle structure emphasizes that locus of dissolution.",
+    "The speaker requests that all of that be told to them."
    ],
-   "inference": "A full explanation is requested concerning both the locus of dissolution and everything pertaining to it.",
+   "inference": "The speaker demands a complete explanation of both the locus of dissolution and everything that undergoes it.",
    "uncertainties": [
-    "The referent of 'that all' is not specified within this verse."
+    "The identity of what undergoes dissolution is not specified here."
    ],
-   "plain_english": "And indeed, in what does it go to dissolution? Tell me all of that."
+   "plain_english": "And in what indeed does it go to dissolution? Tell me all of that."
   },
   {
    "verse": 107,
@@ -289,39 +289,39 @@
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "accusative of para",
+     "grounds": "accusative of para or adverbial as given",
      "morph": "n.acc.sg"
     },
     {
      "surface": "niṣkalaṃ",
      "gloss": "partless",
      "grounds": "accusative of niṣkala",
-     "morph": "m.acc.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "nityaṃ",
      "gloss": "eternal",
      "grounds": "accusative of nitya",
-     "morph": "m.acc.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "nirāmaya+nirañjanam",
-     "gloss": "free-from-disease-stainless",
-     "grounds": "compound = nirāmaya+nirañjana analyzed as given; internal composition not split",
+     "gloss": "diseasefree-stainless",
+     "grounds": "compound = nirāmaya+nirañjana analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What positive attributes are claimed for that which is designated here, such that it is held to be supreme, partless, eternal, and free from affliction and stain?",
+   "question": "What positive characterization is being assigned to that entity by attributing to it the qualities of supreme, partless, eternal, disease-free, and stainless?",
    "premises": [
-    "A single referent is designated by 'he'.",
-    "That referent is characterized as supreme and partless.",
-    "That referent is characterized as eternal and as free from affliction and stain."
+    "A demonstrative refers to a single entity.",
+    "That entity is characterized as supreme and partless.",
+    "That entity is further characterized as eternal, disease-free, and stainless."
    ],
-   "inference": "The referent is defined by a cluster of negating and positive attributes marking it as transcendent.",
+   "inference": "The entity is defined by a cluster of negating and positive attributes marking it as transcendent.",
    "uncertainties": [
-    "The antecedent of 'he' is not given in this verse alone."
+    "The ontological status of this entity beyond these attributes is not developed here."
    ],
-   "plain_english": "He is the supreme, the partless, the eternal, free from disease and stainless."
+   "plain_english": "He is the supreme, partless, eternal one, free from disease and stainless."
   },
   {
    "verse": 108,
@@ -364,28 +364,28 @@
     },
     {
      "surface": "haṃsaḥ",
-     "gloss": "haṃsa",
+     "gloss": "hamsa",
      "grounds": "nominative of haṃsa",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śakti+pudgalaḥ",
      "gloss": "power-individual",
-     "grounds": "compound = śakti+pudgala analyzed as given; internal composition not split",
+     "grounds": "compound = śakti+pudgala analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What identity claim equates the soul, designated as more supreme, with the Haṃsa understood as power joined to an individual?",
+   "question": "What identity claim is being made by equating the soul, described as more supreme, with the Haṃsa who is characterized as power and individual?",
    "premises": [
-    "He is called the soul and is said to be more supreme.",
-    "A relative clause identifies that same referent.",
-    "That referent is identified as the Haṃsa, characterized as power joined to an individual."
+    "The soul is identified as more supreme.",
+    "A relative clause picks out that same entity.",
+    "That entity is identified as the Haṃsa, characterized as power and individual."
    ],
-   "inference": "The soul that is more supreme is identified with the Haṃsa as śakti-pudgala.",
+   "inference": "The supreme soul is identified with the Haṃsa understood as śakti-pudgala.",
    "uncertainties": [
-    "The precise relation between śakti and pudgala is not unpacked in this verse."
+    "The precise relation between śakti and pudgala is not specified here."
    ],
-   "plain_english": "He is the soul, more supreme. Indeed, he is the Haṃsa, power joined to the individual."
+   "plain_english": "He is the soul, more supreme. He indeed is the Haṃsa, power and individual."
   },
   {
    "verse": 109,
@@ -393,7 +393,7 @@
     {
      "surface": "samīra+pūrako",
      "gloss": "wind-filling",
-     "grounds": "compound = samīra+pūraka analyzed as given; internal composition not split",
+     "grounds": "compound = samīra+pūraka analyzed as given",
      "morph": "compound = member+membership"
     },
     {
@@ -411,19 +411,19 @@
     {
      "surface": "saṃsthitam",
      "gloss": "situated",
-     "grounds": "past passive participle of sam-sthā",
-     "morph": "n.nom.sg"
+     "grounds": "past participle of sam-sthā",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What ontological claim is made about the wind-filling air with respect to its presence in all beings?",
+   "question": "What claim is being made about the pervasive presence of the wind-filling air by stating that it is situated in all beings?",
    "premises": [
     "The air is characterized as wind-filling.",
-    "That air is said to be situated in all beings.",
-    "The participle marks a state of abiding presence."
+    "That air is said to be situated.",
+    "Its location is stated as being in all beings."
    ],
-   "inference": "The wind-filling air abides as a situated presence in all beings.",
+   "inference": "The wind-filling air is present and situated within every being.",
    "uncertainties": [
-    "The mode of that abiding presence is not specified in this verse."
+    "The mode of its presence in beings is not detailed here."
    ],
    "plain_english": "The wind-filling air is situated in all beings."
   },
@@ -438,40 +438,40 @@
     },
     {
      "surface": "deha+tyakta+mātreṇa",
-     "gloss": "by-body-left-merely",
+     "gloss": "body-left-merely",
      "grounds": "compound = deha+tyakta+mātra analyzed as given; instrumental",
      "morph": "compound = member+membership"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "accusative of para",
+     "grounds": "adjectival/adverbial as given",
      "morph": "m.acc.sg"
     },
     {
      "surface": "śivo",
-     "gloss": "śiva",
+     "gloss": "siva",
      "grounds": "nominative of śiva",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nigadyate",
      "gloss": "is-called",
-     "grounds": "present passive of ni-gad",
+     "grounds": "passive of gad present third person",
      "morph": "3.sg.pass.pres"
     }
    ],
-   "question": "What soteriological claim is made about the status of that referent upon the mere leaving of the body?",
+   "question": "What claim about post-mortem identity is made by stating that upon merely leaving the body that entity is called the supreme Śiva?",
    "premises": [
-    "A referent is designated by 'he'.",
-    "The condition given is the mere leaving of the body.",
-    "Under that condition, that referent is called supreme Śiva."
+    "A demonstrative refers to a particular entity.",
+    "The condition given is merely leaving the body.",
+    "Under that condition, that entity is called the supreme Śiva."
    ],
-   "inference": "Upon merely leaving the body, the referent is designated as supreme Śiva.",
+   "inference": "Upon mere departure from the body, the entity is designated as the supreme Śiva.",
    "uncertainties": [
-    "The antecedent of 'he' is not specified in this verse alone."
+    "The continuity of identity between embodied and disembodied states is not argued here."
    ],
-   "plain_english": "He, upon merely leaving the body, is called supreme Śiva."
+   "plain_english": "He, upon merely leaving the body, is called the supreme Śiva."
   },
   {
    "verse": 111,
@@ -479,13 +479,13 @@
     {
      "surface": "karṇa+sthaṃ",
      "gloss": "ear-abiding",
-     "grounds": "compound = karṇa+stha analyzed as given; accusative",
+     "grounds": "compound = karṇa+stha analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "śrūyate",
      "gloss": "is-heard",
-     "grounds": "present passive of śru",
+     "grounds": "passive of śru present third person",
      "morph": "3.sg.pass.pres"
     },
     {
@@ -496,22 +496,22 @@
     },
     {
      "surface": "pāramparya+krama+āgatam",
-     "gloss": "tradition-order-arrived",
-     "grounds": "compound = pāramparya+krama+āgata analyzed as given; internal composition not split",
+     "gloss": "tradition-order-come",
+     "grounds": "compound = pāramparya+krama+āgata analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What claim is made about the mode of transmission by which something abiding in the ear is heard, addressed to the Goddess?",
+   "question": "What claim is being made about the mode of transmission by stating that what abides in the ear is heard as coming down through a traditional order?",
    "premises": [
     "Something abiding in the ear is heard.",
-    "That thing is characterized as having come by way of tradition in order.",
-    "The statement is addressed to the Goddess."
+    "The address is made to the Goddess.",
+    "That which is heard is described as having come through a traditional order."
    ],
-   "inference": "What is heard abiding in the ear comes down through a transmitted order of tradition.",
+   "inference": "The teaching is received by ear as a transmission that comes down through tradition.",
    "uncertainties": [
-    "The specific object heard is not named in this verse."
+    "The specific content heard is not identified in this verse."
    ],
-   "plain_english": "O Goddess, what abides in the ear is heard as coming down through the order of tradition."
+   "plain_english": "O Goddess, what abides in the ear is heard as coming down through tradition."
   },
   {
    "verse": 112,
@@ -520,18 +520,18 @@
      "surface": "anena",
      "gloss": "by-this",
      "grounds": "demonstrative pronoun instrumental",
-     "morph": "m.ins.sg"
+     "morph": "n.ins.sg"
     },
     {
      "surface": "jñāna+mātreṇa",
-     "gloss": "by-knowledge-merely",
-     "grounds": "compound = jñāna+mātra analyzed as given; instrumental",
+     "gloss": "knowledge-merely",
+     "grounds": "compound = jñāna+mātra analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "śrutena",
      "gloss": "by-heard",
-     "grounds": "past passive participle of śru instrumental",
+     "grounds": "past participle of śru instrumental",
      "morph": "n.ins.sg"
     },
     {
@@ -547,15 +547,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What claim is made about efficacy by attributing result to mere knowledge that has been heard, addressed to one of fair face?",
+   "question": "What claim about efficacy is being made by attributing result to mere knowledge that has been heard, addressed to one of fair face?",
    "premises": [
-    "An instrument is designated by 'by this'.",
+    "An instrument is indicated by a demonstrative.",
     "That instrument is characterized as mere knowledge and as what has been heard.",
-    "The statement is addressed to one of fair face."
+    "The address is made to one of fair face."
    ],
-   "inference": "Mere knowledge, when heard, is presented here as a sufficient instrument for the purpose at stake.",
+   "inference": "Mere knowledge, when heard, is presented here as sufficient by the means indicated.",
    "uncertainties": [
-    "The specific result to be attained is not stated in this verse alone."
+    "The specific result produced is not stated in this verse."
    ],
    "plain_english": "By this mere knowledge, by what has been heard, O fair-faced one."
   },
@@ -565,13 +565,13 @@
     {
      "surface": "ṣaṇmāsād",
      "gloss": "from-six-months",
-     "grounds": "ablative of ṣaṇmāsa with fused form as given",
+     "grounds": "ablative of ṣaṇmāsa",
      "morph": "m.abl.sg"
     },
     {
      "surface": "abhyased",
      "gloss": "should-practice",
-     "grounds": "optative active of abhi-as",
+     "grounds": "optative of abhi-as third person",
      "morph": "3.sg.act.opt"
     },
     {
@@ -595,21 +595,21 @@
     {
      "surface": "bandha+varjitam",
      "gloss": "bondage-free",
-     "grounds": "compound = bandha+varjita analyzed as given; internal composition not split",
+     "grounds": "compound = bandha+varjita analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What temporal condition is placed on practice for one who, free from bondage, takes up the ochre robe?",
+   "question": "What temporal condition is prescribed for practice by one who, after six months, should practice what is described as free from bondage?",
    "premises": [
-    "A person is described in relation to the ochre robe and as free from bondage.",
-    "That person should practice.",
-    "The practice is to begin or be carried out from six months onward."
+    "A time limit of six months is given.",
+    "A relative clause identifies who is to practice.",
+    "The object of practice is described as free from bondage."
    ],
-   "inference": "For such a person, practice is enjoined starting from a period of six months.",
+   "inference": "After six months, the qualified person should practice that which is described as free from bondage.",
    "uncertainties": [
-    "The object or goal of that practice is not specified in this verse."
+    "The exact nature of the practice object remains only partially specified here."
    ],
-   "plain_english": "Whoever, free from bondage, should practice the ochre robe from six months onward."
+   "plain_english": "Whoever, after six months, should practice the ochre robe that is free from bondage."
   },
   {
    "verse": 114,
@@ -617,7 +617,7 @@
     {
      "surface": "sarva+vyādhi+vinirmukto",
      "gloss": "all-disease-freed",
-     "grounds": "compound = sarva+vyādhi+vinirmukta analyzed as given; internal composition not split",
+     "grounds": "compound = sarva+vyādhi+vinirmukta analyzed as given",
      "morph": "compound = member+membership"
     },
     {
@@ -629,19 +629,19 @@
     {
      "surface": "saha+melakam",
      "gloss": "together-union",
-     "grounds": "compound = saha+melaka analyzed as given; internal composition not split",
+     "grounds": "compound = saha+melaka analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What state is claimed for one freed from all diseases with respect to union together with yogis?",
+   "question": "What state is claimed for one freed from all diseases, namely a union together with yogis?",
    "premises": [
-    "A person is characterized as freed from all diseases.",
-    "That person is associated with yogis.",
-    "A state of union together is indicated."
+    "One is described as freed from all diseases.",
+    "Association is indicated with yogis.",
+    "That association is characterized as union together."
    ],
-   "inference": "One freed from all diseases attains union together with yogis.",
+   "inference": "One freed from all diseases attains union in association with yogis.",
    "uncertainties": [
-    "The nature or permanence of that union is not specified in this verse."
+    "The nature and permanence of that union are not specified here."
    ],
    "plain_english": "Freed from all diseases, he attains union together with yogis."
   },
@@ -657,25 +657,25 @@
     {
      "surface": "te",
      "gloss": "to-you",
-     "grounds": "pronoun dative",
+     "grounds": "pronoun second person",
      "morph": "2.dat.sg"
     },
     {
      "surface": "jīva+abhyāsaṃ",
      "gloss": "soul-practice",
-     "grounds": "compound = jīva+abhyāsa analyzed as given; accusative",
+     "grounds": "compound = jīva+abhyāsa analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "past passive participle of kathay",
+     "grounds": "past participle of kathay",
      "morph": "n.nom.sg"
     },
     {
      "surface": "te",
      "gloss": "to-you",
-     "grounds": "pronoun dative",
+     "grounds": "pronoun second person",
      "morph": "2.dat.sg"
     },
     {
@@ -686,20 +686,20 @@
     },
     {
      "surface": "bhairavi",
-     "gloss": "o-bhairavī",
+     "gloss": "o-bhairavi",
      "grounds": "vocative of bhairavī",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What act of transmission is claimed by the speaker in addressing Bhairavī with respect to the practice of the soul?",
+   "question": "What claim of transmission is being made when it is stated that this practice of the soul has been told to a particular person addressed as Bhairavī?",
    "premises": [
-    "This practice of the soul is designated.",
-    "It has been told to the addressee.",
-    "The statement is addressed to Bhairavī."
+    "A demonstrative refers to the practice of the soul.",
+    "That practice is said to have been told.",
+    "The recipient is addressed as Bhairavī and indicated by the dative."
    ],
-   "inference": "The speaker has now transmitted the practice of the soul to Bhairavī.",
+   "inference": "The practice of the soul has been transmitted to Bhairavī.",
    "uncertainties": [
-    "The full content of that practice is not detailed in this verse."
+    "The full details of that practice are not given in this verse."
    ],
    "plain_english": "This practice of the soul has been told to you, and to you, O Bhairavī."
   },
@@ -709,7 +709,7 @@
     {
      "surface": "sarva+bhāva+upapannasya",
      "gloss": "all-state-endowed",
-     "grounds": "compound = sarva+bhāva+upapanna analyzed as given; genitive/dative context",
+     "grounds": "compound = sarva+bhāva+upapanna analyzed as given",
      "morph": "compound = member+membership"
     },
     {
@@ -721,19 +721,19 @@
     {
      "surface": "kṛta+niścaye",
      "gloss": "resolved-mind",
-     "grounds": "compound = kṛta+niścaya analyzed as given; dative/locative context",
+     "grounds": "compound = kṛta+niścaya analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What restriction on imparting is established by limiting what is to be given to one endowed with all states and of resolved mind?",
+   "question": "What restriction on transmission is implied by stating that a teaching is to be given only to one endowed with all states and of resolved mind?",
    "premises": [
-    "Something is marked as to be given.",
-    "The intended recipient is one endowed with all states.",
-    "That recipient is further characterized as one of resolved mind."
+    "A gift or teaching is marked as to be given.",
+    "The recipient is described as endowed with all states.",
+    "The recipient is further described as one of resolved mind."
    ],
-   "inference": "Imparting is enjoined only for a recipient endowed with all states and of resolved mind.",
+   "inference": "Transmission is prescribed only for a recipient endowed with all states and of resolved mind.",
    "uncertainties": [
-    "The thing to be given is not named in this verse."
+    "The identity of what is to be given is not specified here."
    ],
    "plain_english": "It is to be given to one endowed with all states, to one of resolved mind."
   },
@@ -755,7 +755,7 @@
     {
      "surface": "kaulikaṃ",
      "gloss": "kaula",
-     "grounds": "adjectival of kaula",
+     "grounds": "adjectival of kaulika",
      "morph": "n.nom.sg"
     },
     {
@@ -766,7 +766,7 @@
     },
     {
      "surface": "yoginīnām",
-     "gloss": "of-yoginīs",
+     "gloss": "of-yoginis",
      "grounds": "genitive plural of yoginī",
      "morph": "f.gen.pl"
     },
@@ -783,17 +783,17 @@
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What prohibition is placed on giving the Kaula essence with respect to what arises from yoginīs?",
+   "question": "What prohibition on transmission is being made by stating that the Kaula essence is not to be given to those of yoginī origin?",
    "premises": [
-    "The Kaula essence is marked as not to be given.",
-    "A contrast is marked by 'indeed'.",
-    "A reference is made to the origin of yoginīs."
+    "A negation applies to giving.",
+    "The object is described as the Kaula essence.",
+    "A restriction is added concerning those of yoginī origin."
    ],
-   "inference": "The Kaula essence is not to be given in relation to what has its origin from yoginīs.",
+   "inference": "The Kaula essence is not to be given to those whose origin is said to be yoginī.",
    "uncertainties": [
-    "The precise scope of 'origin of yoginīs' is not determined by this verse alone."
+    "The reason for this restriction is not stated in this verse."
    ],
-   "plain_english": "The Kaula essence is not to be given; indeed, not what arises from yoginīs."
+   "plain_english": "The Kaula essence is not to be given, indeed, to those of yoginī origin."
   },
   {
    "verse": 118,
@@ -807,14 +807,14 @@
     {
      "surface": "me",
      "gloss": "my",
-     "grounds": "pronoun genitive",
+     "grounds": "pronoun first person",
      "morph": "1.gen.sg"
     },
     {
      "surface": "nirmalaṃ",
      "gloss": "pure",
      "grounds": "accusative of nirmala",
-     "morph": "m.acc.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "deham",
@@ -825,19 +825,19 @@
     {
      "surface": "ajñāna+paṭala+āhatam",
      "gloss": "ignorance-veil-struck",
-     "grounds": "compound = ajñāna+paṭala+āhata analyzed as given; internal composition not split",
+     "grounds": "compound = ajñāna+paṭala+āhata analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What claim is made about the speaker's body today in light of its being struck by a veil of ignorance?",
+   "question": "What claim about the present condition of the body is being made by describing a pure body as struck today by a veil of ignorance?",
    "premises": [
     "A temporal reference is made to today.",
-    "The speaker refers to their own body.",
-    "That body is characterized as pure but struck by a veil of ignorance."
+    "Reference is made to the speaker's pure body.",
+    "That body is described as struck by a veil of ignorance."
    ],
-   "inference": "The speaker's body, though pure in nature, is presently struck by a veil of ignorance.",
+   "inference": "At present, the speaker's pure body is in a condition struck by a veil of ignorance.",
    "uncertainties": [
-    "It is not stated in this verse whether that condition is to be removed."
+    "The cause or remedy for this condition is not stated here."
    ],
    "plain_english": "Today my pure body is struck by a veil of ignorance."
   },
@@ -854,12 +854,12 @@
      "surface": "śrotum",
      "gloss": "to-hear",
      "grounds": "infinitive of śru",
-     "morph": "inf."
+     "morph": "(indecl.)"
     },
     {
      "surface": "icchāmi",
      "gloss": "i-wish",
-     "grounds": "present active of iṣ",
+     "grounds": "present of iṣ first person",
      "morph": "1.sg.act.pres"
     },
     {
@@ -881,17 +881,17 @@
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What desire is expressed by the speaker concerning an auspicious account of the deception practiced by time?",
+   "question": "What desire for knowledge is being expressed by wishing now to hear about the auspicious deception of time?",
    "premises": [
-    "The speaker expresses a wish now.",
-    "The object of that wish is to hear something.",
-    "That something is characterized as the auspicious deception of time."
+    "A temporal reference is made to now.",
+    "The speaker expresses a wish to hear.",
+    "The object of hearing is described as the auspicious deception of time."
    ],
-   "inference": "The speaker now wishes to hear an auspicious teaching concerning the deception of time.",
+   "inference": "The speaker now wishes to learn about the auspicious deception practiced by time.",
    "uncertainties": [
-    "The content of that deception is not revealed in this verse."
+    "The meaning of an auspicious deception of time is not explained in this verse."
    ],
-   "plain_english": "Now I wish to hear the auspicious deception of time."
+   "plain_english": "Now I wish to hear about the auspicious deception of time."
   },
   {
    "verse": 120,
@@ -899,7 +899,7 @@
     {
      "surface": "kathayāmi",
      "gloss": "i-tell",
-     "grounds": "present active of kathay",
+     "grounds": "present of kathay first person",
      "morph": "1.sg.act.pres"
     },
     {
@@ -917,7 +917,7 @@
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "comparative/temporal particle",
+     "grounds": "correlative adverb",
      "morph": "(indecl.)"
     },
     {
@@ -929,21 +929,21 @@
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present active of vi-naś",
+     "grounds": "present of vi-naś third person",
      "morph": "3.sg.act.pres"
     }
    ],
-   "question": "What assurance is given by the speaker about the manner in which death is destroyed?",
+   "question": "What claim of certainty is being made by asserting that death is destroyed in a particular way, with no doubt on the matter?",
    "premises": [
-    "The speaker states an intention to tell something.",
-    "No doubt is allowed regarding that statement.",
-    "The content is that death is destroyed in a certain manner."
+    "The speaker asserts an act of telling.",
+    "A negation of doubt is stated.",
+    "A correlative states the manner in which death is destroyed."
    ],
-   "inference": "The speaker assures that death is destroyed, and that this is to be told without doubt.",
+   "inference": "The speaker declares with certainty the manner in which death is destroyed.",
    "uncertainties": [
-    "The means by which death is destroyed is not specified in this verse."
+    "The manner itself is indicated by correlative but not fully expanded here."
    ],
-   "plain_english": "I tell it; there is no doubt that death is destroyed as such."
+   "plain_english": "I tell it; there is no doubt, that death is destroyed as such."
   },
   {
    "verse": 121,
@@ -951,19 +951,19 @@
     {
      "surface": "amṛta+agraṃ",
      "gloss": "nectar-tip",
-     "grounds": "compound = amṛta+agra analyzed as given; accusative",
+     "grounds": "compound = amṛta+agra analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "rasa+agreṇa",
      "gloss": "essence-tip",
-     "grounds": "compound = rasa+agra analyzed as given; instrumental",
+     "grounds": "compound = rasa+agra analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "dahyamāna",
      "gloss": "burning",
-     "grounds": "present passive participle of dah",
+     "grounds": "present participle passive of dah",
      "morph": "m.nom.sg"
     },
     {
@@ -979,17 +979,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What claim is made about the even-wise person who, while burning, acts in relation to the tip of nectar and the tip of essence?",
+   "question": "What claim is being made about the capacity of even a wise person when burning at the tip of nectar with the tip of essence?",
    "premises": [
-    "A reference is made to the tip of nectar.",
-    "A reference is made to the tip of essence used as instrument.",
-    "Even a wise person, while burning, is the subject of the statement."
+    "A location is indicated at the tip of nectar.",
+    "An instrument is indicated by the tip of essence.",
+    "A wise person is described as burning, even so."
    ],
-   "inference": "The verse presents a condition in which even the wise person, while burning, engages with the tip of nectar and the tip of essence.",
+   "inference": "Even a wise person, under the condition of burning at those points, is brought into consideration by this statement.",
    "uncertainties": [
-    "The result of that action is not stated in this verse alone."
+    "The outcome for the wise person is not stated in this verse."
    ],
-   "plain_english": "At the tip of nectar, with the tip of essence, even the wise person, while burning, also..."
+   "plain_english": "At the tip of nectar, with the tip of essence, even the wise person, though burning, remains."
   },
   {
    "verse": 122,
@@ -997,14 +997,14 @@
     {
      "surface": "rasanā+tālu+mūle",
      "gloss": "tongue-palate-root",
-     "grounds": "compound = rasanā+tālu+mūla analyzed as given; locative",
+     "grounds": "compound = rasanā+tālu+mūla analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
      "grounds": "absolute participle of kṛ",
-     "morph": "abs."
+     "morph": "(indecl.)"
     },
     {
      "surface": "vāyuṃ",
@@ -1015,7 +1015,7 @@
     {
      "surface": "pibec",
      "gloss": "should-drink",
-     "grounds": "optative active of pā",
+     "grounds": "optative of pā third person",
      "morph": "3.sg.act.opt"
     },
     {
@@ -1025,55 +1025,55 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What prescribed action is enjoined at the root of the tongue and palate with respect to the air?",
+   "question": "What practice is prescribed by instructing that air be placed at the root of tongue and palate and drunk slowly?",
    "premises": [
-    "A location is specified at the root of the tongue and palate.",
-    "Having placed the air there, an action is enjoined.",
-    "That action is to drink slowly."
+    "A location is specified at the root of tongue and palate.",
+    "Having placed air there is prescribed as a prior action.",
+    "The action prescribed is to drink that air slowly."
    ],
-   "inference": "One should place the air at the root of the tongue and palate and drink it slowly.",
+   "inference": "A slow breath-drinking practice is prescribed at the root of tongue and palate.",
    "uncertainties": [
-    "The purpose of drinking the air is not stated in this verse."
+    "The intended result of this practice is not stated here."
    ],
-   "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it slowly."
+   "plain_english": "Having placed the air at the root of tongue and palate, one should drink it slowly."
   },
   {
    "verse": 123,
    "rows": [
     {
      "surface": "abdam+ekaṃ",
-     "gloss": "one-year",
-     "grounds": "compound = abda+eka analyzed as given; accusative of duration",
+     "gloss": "year-one",
+     "grounds": "compound = abda+eka analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "compound = yadā+abhyasta analyzed as given; fused form as given, not split",
+     "grounds": "compound = yadā+abhyasta analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "jarā+mṛtyur",
-     "gloss": "old-age-death",
-     "grounds": "compound = jarā+mṛtyu analyzed as given; nominative",
+     "gloss": "oldage-death",
+     "grounds": "compound = jarā+mṛtyu analyzed as given",
      "morph": "compound = member+membership"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present active of vi-naś",
+     "grounds": "present of vi-naś third person",
      "morph": "3.sg.act.pres"
     }
    ],
-   "question": "What result is claimed when the practice in question has been carried out for one year?",
+   "question": "What result is claimed when the practice has been carried out for one year, namely the destruction of old age and death?",
    "premises": [
-    "A duration of one year is specified.",
-    "A condition is given of that practice having been performed.",
+    "A duration of one year is specified for the practice.",
+    "A condition is stated of that practice having been done.",
     "Under that condition, old age and death are destroyed."
    ],
-   "inference": "When practiced for one year, the practice destroys old age and death.",
+   "inference": "Practice sustained for one year results in the destruction of old age and death.",
    "uncertainties": [
-    "The specific practice referred to is not named in this verse alone."
+    "The exact practice referred to is not named in this verse."
    ],
    "plain_english": "When practiced for one year, old age and death are destroyed."
   },
@@ -1095,7 +1095,7 @@
     {
      "surface": "kramate",
      "gloss": "enters",
-     "grounds": "present middle of kram",
+     "grounds": "present of kram middle third person",
      "morph": "3.sg.mid.pres"
     },
     {
@@ -1107,7 +1107,7 @@
     {
      "surface": "daṃśito",
      "gloss": "bitten",
-     "grounds": "past passive participle of daṃś",
+     "grounds": "past participle of daṃś",
      "morph": "m.nom.sg"
     },
     {
@@ -1118,20 +1118,20 @@
     },
     {
      "surface": "mahā+uragaiḥ",
-     "gloss": "by-great-serpents",
-     "grounds": "compound = mahā+uraga analyzed as given; instrumental plural",
+     "gloss": "great-serpents",
+     "grounds": "compound = mahā+uraga analyzed as given",
      "morph": "compound = member+membership"
     }
    ],
-   "question": "What protective claim is made about the body such that poison does not enter it even if bitten by great serpents?",
+   "question": "What protective claim is being made by stating that poison does not enter the body even if one has been bitten by great serpents?",
    "premises": [
-    "A person is described as bitten by great serpents.",
-    "Poison is the agent in question.",
-    "It is claimed that poison does not enter the body in that case."
+    "Poison is the subject of negation.",
+    "The locus stated is the body.",
+    "The condition stated is having been bitten, even by great serpents."
    ],
-   "inference": "Even when bitten by great serpents, poison does not enter the body of the person in question.",
+   "inference": "Under the stated condition, poison does not enter the body.",
    "uncertainties": [
-    "The reason for this protection is not stated in this verse alone."
+    "The means by which this protection holds is not stated in this verse."
    ],
    "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
   }
