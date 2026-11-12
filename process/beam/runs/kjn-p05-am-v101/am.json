@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 101,
- "question": "How carefully must this teaching be concealed in the mortal world?",
+ "question": "Under what conditions must a certain teaching be concealed rather than openly disclosed in the mortal world?",
  "premises": [
-  "The teaching must be concealed",
-  "Concealment requires diligent effort",
-  "The mortal world contains unworthy people"
+  "A teaching is marked as something to be concealed.",
+  "Such concealment is to be carried out with effort.",
+  "This concealment is prescribed specifically in the mortal world among the lowest of men."
  ],
- "inference": "Therefore this teaching should be carefully hidden from the lowest people in the mortal world.",
- "uncertainties": [],
- "plain_english": "It must be carefully concealed with effort in the mortal world among the lowest of men."
+ "inference": "The teaching requires deliberate concealment with effort when situated among the lowest of men in the mortal world.",
+ "uncertainties": [
+  "The exact teaching to be concealed is not specified by these tokens alone."
+ ],
+ "plain_english": "It must be concealed with effort in the mortal world, among the lowest of men."
 }

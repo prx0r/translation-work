@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 110,
- "question": "What is the soul declared to be upon merely leaving the body?",
+ "question": "Under what minimal condition is that entity said to be called the supreme Śiva?",
  "premises": [
-  "The soul leaves the body",
-  "The moment of leaving is decisive",
-  "It is then declared supreme Śiva"
+  "A demonstrative refers to a particular entity.",
+  "The condition given is merely the leaving of the body.",
+  "Upon that condition, that entity is called the supreme Śiva."
  ],
- "inference": "Therefore upon merely leaving the body, the soul is declared to be supreme Śiva.",
- "uncertainties": [],
- "plain_english": "Upon merely leaving the body, it is declared to be the supreme Śiva."
+ "inference": "Upon merely leaving the body, that entity is called the supreme Śiva.",
+ "uncertainties": [
+  "The identity of the demonstrative 'he' must be supplied from prior context."
+ ],
+ "plain_english": "He, upon merely leaving the body, is called the supreme Śiva."
 }

@@ -1,13 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protection against poison results from this accomplished practice?",
+ "question": "Under what extreme condition is poison said not to enter the body?",
  "premises": [
-  "The practitioner may be bitten by great serpents",
-  "Poison would normally enter the body",
-  "Poison does not enter the body"
+  "Poison is the subject.",
+  "Poison does not enter.",
+  "Its locus is the body.",
+  "This holds even if one has been bitten by great serpents."
  ],
- "inference": "Therefore the accomplished practitioner remains unaffected by poison even when bitten by great serpents.",
- "uncertainties": [],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "inference": "Poison does not enter the body, even if one has been bitten by great serpents.",
+ "uncertainties": [
+  "The agent/state enabling this immunity is not stated by these tokens alone."
+ ],
+ "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }

@@ -1,13 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "What transformation of the body is claimed after receiving the teaching?",
+ "question": "In what condition is the speaker's body said to be at present, despite its being pure?",
  "premises": [
-  "The speaker refers to the present moment",
-  "The body is now described as pure",
-  "It was previously struck by the veil of ignorance"
+  "The time indicated is today.",
+  "The speaker refers to their own body.",
+  "That body is described as pure.",
+  "That body is described as struck by the veil of ignorance."
  ],
- "inference": "Therefore the teaching has rendered the speaker's body pure, removing the veil of ignorance.",
- "uncertainties": [],
- "plain_english": "Today my body is pure, though it was struck by the veil of ignorance."
+ "inference": "Today, the speaker's pure body is struck by the veil of ignorance.",
+ "uncertainties": [
+  "The tense relation between 'today' and the participle is not explicit."
+ ],
+ "plain_english": "Today my pure body is struck by the veil of ignorance."
 }
