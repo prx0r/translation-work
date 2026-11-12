@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-meditate(dhyāyet) śrī(śrī) tripurā(tripurā) siddha(siddhāṃ) before(vasinīpurataḥ) wise(sudhīḥ)
+should-meditate(dhyāyet) glorious-tripura-siddhā(śrī+tripurā+siddhāṃ) in-front-of-vaśinī(vasinī+purataḥ) wise-one(sudhīḥ)
 
 ## mukta-m0-p27-v652
-show(sandarsya) khecarī-mudrā(khecarīmudrāṃ) worship(yajet) śakti(śaktiñca) by-māyā(māyayā)
+having-displayed(sandarsya) khecarī-mudrā(khecarī+mudrāṃ) should-worship(yajet) śakti(śaktiñ) and(ca) with-māyā(māyayā)
 
 ## mukta-m0-p27-v653
-in-circle(cakre) samudrā-etc(samudrā ityādi) as-before(pūrvavat) arrange(parikalpayet)
+in-circle(cakre) samudrā-etc(samudrā+iti+ādi) as-before(pūrvavat) one-should-arrange(parikalpayet)
 
 ## mukta-m0-p27-v654
-in-western-etc(pascimādicaturdikṣu) arrows(bāṇān) worship(saṃpūjayed) wise(budhaḥ)
+in-west-etc(pascima+ādi) in-four-directions(catur+dikṣu) arrows(bāṇān) should-worship(saṃpūjayet) wise-one(budhaḥ)
 
 ## mukta-m0-p27-v655
-red-garland-splendor(raktamālyavisobhāḍhyān) youthful-intoxicated-forms(yauvanonmattavigrahān)
+adorned-with-red-garlands(rakta+mālya+viśobhāḍhyān) with-forms-maddened-by-youth(yauvana+unmatta+vigrahān)
 
 ## mukta-m0-p27-v656
-bow-arrow-noose-goad-pairs(bāṇadhanuḥpāsasṛṇiyugmāni) in-order(kramādanu)
+arrow-bow-noose-goad-pairs(bāṇa+dhanuḥ+pāsa+sṛṇi+yugmāni) and(ca) in-order(kramāt) accordingly(anu)
 
 ## mukta-m0-p27-v657
-by-nyāsa-order(nyāsoktakramayogeṇa) worship(pūjayet) best-sādhaka(sādhakottamaḥ)
+by-method-of-sequence-stated-in-nyāsa(nyāsa+ukta+krama+yogeṇa) should-worship(pūjayet) best-of-practitioners(sādhaka+uttamaḥ)
 
 ## mukta-m0-p27-v658
-in-astra-triangle-middle(astratrikoṇayormadhye) worship(pūjayed) limb-deities(angadevatāḥ)
+in-middle-of-weapon-triangle(astra+trikoṇayoḥ+madhye) should-worship(pūjayet) limb-deities(aṅga+devatāḥ)
 
 ## mukta-m0-p27-v659
-by-letter-nonletter(akṣarākṣarabhedena) all-scattered-and-unscattered(samastavyastayā) worship(yajet)
+by-distinction-of-syllable-and-non-syllable(akṣara+akṣara+bhedena) collectively-and-separately(samasta+vyastayā) one-should-worship(yajet)
 
 ## mukta-m0-p27-v660
-of-sundarī(sundaryāsca) by-three-peaks(tribhiḥ kūṭaistrikoṇaṃ) fully-worship(paripūjayet)
+of-sundarī(sundaryāḥ) and(ca) with-three-sections(tribhiḥ+kūṭaiḥ) triangle(trikoṇaṃ) one-should-worship(paripūjayet)
 
 ## mukta-m0-p27-v661
-vajreśvarī(vajresvarīṃ) viṣṇu-śakti(viṣṇusaktiṃ) in-sūrya-circle(sūryacakre) worship(prapūjayet)
+vajreśvarī(vajreśvarīṃ) viṣṇu-śakti(viṣṇu+śaktiṃ) in-sun-circle(sūrya+cakre) one-should-worship(prapūjayet)
 
 ## mukta-m0-p27-v662
-in-bindu-circle(binducakre) worship(yajed) goddess(devīṃ) para-brahma-form(paraṃbrahmasvarūpiṇīm)
+in-bindu-circle(bindu+cakre) one-should-worship(yajet) goddess(devīṃ) of-supreme-brahman-nature(paraṃ+brahma+svarūpiṇīm)
 
 ## mukta-m0-p27-v663
-in-full-ūḍḍīśa-lord(pūrṇe coḍḍīsanāthasca) in-oḍra-caryā-lord(caryānāthastu oḍrake)
+in-pūrṇa(pūrṇe) and(ca) oḍḍīśa-nātha(oḍḍīsa+nāthaḥ) and(ca) caryā-nātha(caryā+nāthaḥ) but(tu) in-oḍraka(oḍrake)
 
 ## mukta-m0-p27-v664
-thus(evam) circle-goddess(cakresvarīṃ) meditate(dhyātvā) by-kāmarāja(kāmarājena) worship(pūjayet)
+thus(evaṃ) circle-ruling-goddess(cakreśvarīṃ) having-meditated(dhyātvā) with-kāmarāja(kāmarājena) one-should-worship(pūjayet)
 
 ## mukta-m0-p27-v665
-in-all-siddhi-circle(sarvasiddhiprade cakre) to-second-enclosure(dvitīyāvaraṇe) lead(nayet)
+in-circle-granting-all-siddhis(sarva+siddhi+prade+cakre) in-second-enclosure(dvitīya+āvaraṇe) one-should-lead(nayet)
 
 ## mukta-m0-p27-v666
-noose-goad-bow-arrow-bearing(pāsānkusadhanurbāṇadharāṃ) red(raktāṃ) beautiful(susobhanām)
+holding-noose-goad-bow-arrow(pāśa+aṅkuśa+dhanur+bāṇa+dharāṃ) red(raktāṃ) very-beautiful(su+śobhanām)
 
 ## mukta-m0-p27-v667
-showing-bīja-mudrā(bījamudrāñca sandarsya) supreme-śakti(parāṃ saktiṃ) worship(prapūjayet)
+and(ca) having-displayed-bīja-mudrā(bīja+mudrāñ) having-shown(sandarsya) supreme-parā-śakti(parāṃ+śaktiṃ) one-should-worship(prapūjayet)
 
 ## mukta-m0-p27-v668
-in-all-siddhi-circle(sarvasiddhimaye cakre) samudrā-etc(samudretyādi) as-before(pūrvavat)
+in-circle-full-of-all-siddhis(sarva+siddhi+mayecakre) samudrā-etc(samudrā+iti+ādi) as-before(pūrvavat)
 
 ## mukta-m0-p27-v669
-para-brahma-form(paraṃbrahmasvarūpāñca) supreme-nectar-form(paramāmṛtarūpiṇīm)
+and(ca) of-supreme-brahman-nature(paraṃ+brahma+svarūpāñ) and(ca) of-supreme-nectar-nature(parama+amṛta+rūpiṇīm)
 
 ## mukta-m0-p27-v670
-all-mudrā-goddess(sarvamudresvarīñcāpi) all-vidyā-goddess(sarvavidyesvarīṃ tathā)
+and(ca) ruler-of-all-mudrās(sarva+mudrā+īśvarīñ) and-also(ca+api) likewise(tathā) ruler-of-all-vidyās(sarva+vidyā+īśvarīṃ)
 
 ## mukta-m0-p27-v671
-all-yoga-goddess(sarvayogesvarīñcāpi) all-siddhi-goddess(sarvasiddhīsvarīmapi)
+and-also(ca+api) ruler-of-all-yogas(sarva+yoga+īśvarīñ) and-also(ca+api) ruler-of-all-siddhis(sarva+siddhi+īśvarīm)
 
 ## mukta-m0-p27-v672
-samudrā(samudrāṃ) with-weapons(sāyudhāñcāpi) with-circle(sacakrāñca) with-vehicle(savāhanām)
+with-mudrā(samudrāṃ) with-weapons(sa+āyudhāñ) and-also(ca+api) with-circle(sa+cakrāñ) and(ca) with-vehicle(sa+vāhanām)
 
 ## mukta-m0-p27-v673
-higher-lower(parāparāṃ) great-goddess(mahādevīṃ) enjoyment-liberation-giving(bhuktimuktipradāyinīm)
+supreme-and-non-supreme(parā+aparāṃ) great-goddess(mahā+devīṃ) giver-of-enjoyment-and-liberation(bhukti+mukti+pradāyinīm)
 
 ## mukta-m0-p27-v674
-by-mind-thus(manasaivaṃ) behold(samālokya) śrī-tripura-sundarī(srīmattripurasundarīm)
+thus(evam) having-contemplated-with-mind(manasā+evaṃ+samālokya) glorious-tripurasundarī(śrīmat+tripura+sundarīm)
 
 ## mukta-m0-p27-v675
-all-bliss-circle(sarvānandamayaṃ cakraṃ) baindava(baindavaṃ) fully-worship(paripūjayet)
+circle-consisting-of-all-bliss(sarva+ānanda+mayaṃ+cakraṃ) bindu-born(baindavaṃ) one-should-worship(paripūjayet)

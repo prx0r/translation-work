@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[by-ears](karṇābhyāṃ) [by-brahma-randhra](brahmarandhreṇa) [earth-touching-indeed](bhūmisparsanameva) [or](vā)
+[with-ears](karṇābhyāṃ) [with-brahma-aperture](brahmarandhreṇa) [earth](bhūmi)+[touching](sparśanam)+[indeed](eva) [or](vā)
 
 ## mukta-m0-p33-v802
-[separately](pratyekaṃ) [should-bow](praṇamenmantrī) [staff-like](daṇḍavat) [should-prostrate](praṇipātayet)
+[each](pratyekaṃ) [should-bow](praṇamet)+[mantrin](mantrī) [like-a-staff](daṇḍavat) [should-prostrate](praṇipātayet)
 
 ## mukta-m0-p33-v803
-[bow](namaskāro) [vain](vṛthā) [his](tasya) [offense](aparādho) [would-be](bhavedatha)
+[obeisance](namaskāro) [in-vain](vṛthā) [of-him](tasya) [offense](aparādho) [would-be](bhaved)+[then](atha)
 
 ## mukta-m0-p33-v804
-[great-darkness](mahāndhakāre) [hell](narake) [is-cooked](pacyate) [no](nātra) [doubt](saṃsayaḥ)
+[in-great](mahān)+[darkness](dhakāre) [in-hell](narake) [is-cooked](pacyate) [not](na)+[here](atra) [doubt](saṃsayaḥ)
 
 ## mukta-m0-p33-v805
-[curse](sapanti) [deities](devatāstasya) [fruitless](viphalaṃ) [that](tat) [declared](prakīrtitam)
+[curse](sapanti) [deities](devatās)+[of-him](tasya) [fruitless](viphalaṃ) [that](tat) [is-declared](prakīrtitam)
 
 ## mukta-m0-p33-v806
-[so-many-thousand-years](tāvadvarṣasahasrāṇi) [in-brahma-world](brahmaloke) [is-honored](mahīyate)
+[for-so-many](tāvad)+[year](varṣa)+[thousands](sahasrāṇi) [in-brahma](brahma)+[world](loke) [is-honored](mahīyate)
 
 ## mukta-m0-p33-v807
-[circumambulation-bows](pradakṣiṇanamaskāraiḥ) [pleasing](paritoṣya) [great-goddess](mahesvarīm)
+[with-circumambulation](pradakṣiṇa)+[and-obeisances](namaskāraiḥ) [having-pleased](paritoṣya) [the-great-goddess](mahesvarīm)
 
 ## mukta-m0-p33-v808
-[again](bhūyo'pi) [nine-mudras](mudrānavakaṃ) [to-great-goddess](mahādevyai) [should-show](pradarsayet)
+[again](bhūyo)+[also]('pi) [mudrā](mudrā)+[set-of-nine](navakaṃ) [to-the-great-goddess](mahādevyai) [should-display](pradarsayet)
 
 ## mukta-m0-p33-v809
-[right-side](svadakṣiṇe) [hand-measure](hastamātrapramāṇaṃ) [altar](sthaṇḍilaṃ) [should-draw](likhet)
+[on-own](sva)+[right-side](dakṣiṇe) [hand](hasta)+[measure](mātra)+[extent](pramāṇaṃ) [altar-ground](sthaṇḍilaṃ) [should-draw](likhet)
 
 ## mukta-m0-p33-v810
-[six-angled](ṣaṭkoṇe) [and](ca) [six-limbs](ṣaḍangāni) [middle](madhye) [goddess](devīṃ) [should-worship](prapūjayet)
+[in-six](ṣaṭ)+[cornered-figure](koṇe) [and](ca) [six](ṣaḍ)+[limbs](angāni) [in-middle](madhye) [the-goddess](devīṃ) [should-worship](prapūjayet)
 
 ## mukta-m0-p33-v811
-[fire-deity](vahnidevatayoraikyaṃ) [unity](vahnidevatayoraikyaṃ) [having-meditated](dhyātveṣṭaṃ) [there](tatra) [should-worship](pūjayet)
+[of-fire](vahni)+[and-deity](devatayor)+[unity](aikyaṃ) [having-meditated](dhyātv)+[desired](eṣṭaṃ) [there](tatra) [should-worship](pūjayet)
 
 ## mukta-m0-p33-v812
-[svaha-ended](svāhāntamūlamantreṇa) [ten-part](dasāṃsaṃ) [offering](homamācaret)
+[with-svāhā](svāhā)+[ending](anta)+[root](mūla)+[mantra](mantreṇa) [tenth](daśa)+[part](āṃsaṃ) [oblation](homam)+[should-perform](ācaret)
 
 ## mukta-m0-p33-v813
-[life-offering](prāṇāhutistu) [by-root](mūlena) [six-limbs](ṣaḍangena) [six-offerings](ṣaḍāhutīḥ)
+[breath](prāṇa)+[oblation](āhutis)+[indeed](tu) [with-root-mantra](mūlena) [with-six](ṣaḍ)+[limbs](angena) [six](ṣaḍ)+[oblations](āhutīḥ)
 
 ## mukta-m0-p33-v814
-[again](punarmūlena) [by-root-mantra](mantreṇa) [six-offering](ṣaḍāhutiṃ) [should-perform](samācaret)
+[again](punar)+[with-root](mūlena) [with-mantra](mantreṇa) [six](ṣaḍ)+[oblations](āhutiṃ) [should-perform](samācaret)
 
 ## mukta-m0-p33-v815
-[should-dismiss](visarjayettato) [goddess](devīṃ) [daily-offering](nityahoma) [thus](iti) [remembered](smṛtaḥ)
+[should-dismiss](visarjayet)+[then](tato) [the-goddess](devīṃ) [daily](nitya)+[oblation](homaḥ) [thus](iti) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p33-v816
-[by-milk](dugdhena) [libation](tarpaṇaṃ) [should-do](kuryānna) [not](tu) [by-wine](madyena) [should-satisfy](tarpayet)
+[with-milk](dugdhena) [libation](tarpaṇaṃ) [should-make](kuryān)+[not](na) [but](tu) [with-liquor](madyena) [should-offer-libation](tarpayet)
 
 ## mukta-m0-p33-v817
-[libation](tarpaṇaṃ) [many-ways](bahudhā) [would-find](vindyānmadhupiṣṭaguḍodbhavam)
+[libation](tarpaṇaṃ) [in-many-ways](bahudhā) [one-should-know](vindyān)+[from-honey](madhu)+[flour](piṣṭa)+[and-molasses](guḍa)+[produced](udbhavam)
 
 ## mukta-m0-p33-v818
-[vaishya](vaisyastu) [honey](mākṣikaṃ) [should-give](dadyācchūdraḥ) [flower-juice](puṣparasādikam)
+[vaiśya](vaisyas)+[indeed](tu) [honey](mākṣikaṃ) [should-give](dadyāc)+[śūdra](chūdraḥ) [flower](puṣpa)+[juice](rasa)+[and-so-forth](ādikam)
 
 ## mukta-m0-p33-v819
-[left-desiring](vāmakāmo) [brahmin](brāhmaṇo'pi) [wine](madyaṃ) [meat](māṃsaṃ) [not](na) [should-eat](bhakṣayet)
+[left-hand](vāma)+[desiring](kāmo) [brāhmaṇa](brāhmaṇo)+[even]('pi) [liquor](madyaṃ) [meat](māṃsaṃ) [not](na) [should-eat](bhakṣayet)
 
 ## mukta-m0-p33-v820
-[coconut-water](nārikelodakaṃ) [bronze-vessel](kāṃsye) [copper-vessel](tāmrapātre) [should-pour](sṛjenmadhu)
+[coconut](nārikela)+[water](udakaṃ) [in-bell-metal-vessel](kāṃsye) [in-copper](tāmra)+[vessel](pātre) [should-pour](sṛjen)+[honey](madhu)
 
 ## mukta-m0-p33-v821
-[satya-treta-dvapara](satyatretādvāpareṣu) [in-order](krameṇa) [declared](parikīrtitaḥ)
+[in-satya](satya)+[tretā](tretā)+[and-dvāpara](dvāpareṣu) [in-order](krameṇa) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p33-v822
-[are-told](kathyante) [substance-differences](dravyabhedāstu) [of-mantra-practitioner](savikalpasya) [mantriṇaḥ)
+[are-told](kathyante) [substance](dravya)+[distinctions](bhedās)+[indeed](tu) [of-the-ritualist-with-options](savikalpasya) [of-the-mantrin](mantriṇaḥ)
 
 ## mukta-m0-p33-v823
-[milk-ghee-honey-mead](kṣīrājyamadhumaireyadravyabhedā) [substance-differences](bhavanti) [indeed](hi)
+[milk](kṣīra)+[ghee](ājya)+[honey](madhu)+[and-liquor](maireya)+[substance](dravya)+[distinctions](bhedā) [are](bhavanti) [indeed](hi)
 
 ## mukta-m0-p33-v824
-[by-previous](pūrvoktenaiva) [rite](vidhinā) [should-contemplate](cintayet) [beautiful-supreme](sundarīṃ) [parām](parām)
+[by-previously](pūrva)+[stated](uktena)+[indeed](eva) [by-method](vidhinā) [should-meditate](cintayet) [on-the-beautiful](sundarīṃ) [supreme](parām)
 
 ## mukta-m0-p33-v825
-[western](pascimāṃ) [at-dissolution](pralaye) [circle](cakre) [knot-place](granthisthāneṣu) [and](ca) [northern](uttarām)
+[the-western](paścimāṃ) [at-dissolution](pralaye) [in-the-circle](cakre) [in-knot](granthi)+[places](sthāneṣu) [and](ca)+[the-northern](uttarām)

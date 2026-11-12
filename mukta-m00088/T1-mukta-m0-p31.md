@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[higher-lower-thus](parāpareti) [renowned](vikhyātā) [to-be-known](jñātavyā) [by-best-practitioners](sādhakottamaiḥ)
+[the+higher+and+the+lower](parāparā) [thus](iti) [known](vikhyātā) [to+be+known](jñātavyā) [by+the+best+of+practitioners](sādhakottamaiḥ)
 
 ## mukta-m0-p31-v752
-[higher-lower](parāparā) [pervading](vyāpikā) [and](ca) [to-be-known](jñātavyā) [from-guru's-mouth](guruvaktrataḥ)
+[the+higher-and-lower](parāparā) [the+pervading](vyāpikā) [and](ca) [to+be+known](jñātavyā) [from+the+mouth+of+the+guru](guruvaktrataḥ)
 
 ## mukta-m0-p31-v753
-[face](mukhaṃ) [dot-like-form](binduvadākāraṃ) [below-that](tadadhaḥ) [pair-of-breasts](kucayugmakam)
+[the+face](mukham) [like+a+drop](binduvadākāram) [below+that](tadadhaḥ) [the+pair+of+breasts](kucayugmakam)
 
 ## mukta-m0-p31-v754
-[face-dot](mukhabinduḥ) [becomes](bhavet) [sun](sūryo) [fire-moon](dahanendū) [two-breasts](stanāvubhau)
+[the+face-drop](mukhabinduḥ) [may+be](bhavet) [the+sun](sūryaḥ) [the+burning](dahana) [and+the+moon](indū) [the+two+breasts](stanāvubhau)
 
 ## mukta-m0-p31-v755
-[from-nose-tip-to-breast-pair](nāsādyangastanadvandvād) [from-arm-origin](bāhuyoneḥ) [two-feet](padadvayam)
+[from+the+nose+and+limbs](nāsādyangāt) [from+the+pair+of+breasts](stanadvandvāt) [from+the+source+of+the+arms](bāhuyoneḥ) [the+pair+of+feet](padadvayam)
 
 ## mukta-m0-p31-v756
-[thus](evaṃ) [kāma-kalā-form](kāmakalārūpam) [self](ātmānaṃ) [should-meditate](cintayet) [always](sadā)
+[thus](evam) [of+the+form+of+kāmakalā](kāmakalārūpam) [the+self](ātmānam) [one+should+meditate](cintayet) [always](sadā)
 
 ## mukta-m0-p31-v757
-[navel-seated](nābhisthaṃ) [sun-disk-like](sūryabimbābhaṃ) [young-sun-radiance](taruṇādityavarcasam)
+[in+the+navel](nābhistham) [like+a+disk+of+the+sun](sūryabimbābham) [having+the+brilliance+of+a+young+sun](taruṇādityavarcasam)
 
 ## mukta-m0-p31-v758
-[throat](kaṇṭhe) [lamp-flame-shaped](dīpasikhākāraṃ) [bell-emerald-like](ghaṇṭāvaidūryasannibham)
+[in+the+throat](kaṇṭhe) [like+the+flame+of+a+lamp](dīpasikhākāram) [resembling+bell+and+vaidūrya](ghaṇṭāvaidūryasannibham)
 
 ## mukta-m0-p31-v759
-[ninth](navame) [universal-radiance](visvatejas) [and](ca) [should-meditate](cintayet) [in-these](eṣu) [practitioner](sādhakaḥ)
+[in+the+ninth](navame) [the+universal+splendor](visvatejasaḥ) [one+should+meditate](cintayet) [in+these](eṣu) [the+practitioner](sādhakaḥ)
 
 ## mukta-m0-p31-v760
-[that-whirling-vortex-wind](tadbhramāvartavātaḥ) [this](ayaṃ) [prāṇa](prāṇaḥ) [thus](iti) [is-called](ucyate) [by-wise](budhaiḥ)
+[that](tat) [by+the+whirl+and+vortex+of+wind](bhramāvartavātaḥ) [this](ayam) [the+breath](prāṇaḥ) [is+called](ityucyate) [by+the+wise](budhaiḥ)
 
 ## mukta-m0-p31-v761
-[going](gacchantī) [by-brahma-path](brahmamārgeṇa) [entering](pravisantī) [own-abode](svaketane)
+[going](gacchantī) [by+the+path+of+brahman](brahmamārgeṇa) [entering](pravisantī) [in+one's+own+abode](svaketane)
 
 ## mukta-m0-p31-v762
-[by-that](tena) [mantra-flame](mantrasikhā) [born](jātā) [all-accomplishment-giving-lamp](sarvasiddhipradīpikā)
+[by+that](tena) [the+crest+of+the+mantra](mantrasikhā) [was+born](jātā) [the+illuminator+of+all+perfections](sarvasiddhipradīpikā)
 
 ## mukta-m0-p31-v763
-[flameless](sikhāhīnāḥ) [thus](tathā) [mantras](mantrāḥ) [not](na) [succeed](sidhyanti) [ever](kadācana)
+[without+a+crest](sikhāhīnāḥ) [and+thus](tathā) [the+mantras](mantrāḥ) [do+not+succeed](na+sidhyanti) [ever](kadācana)
 
 ## mukta-m0-p31-v764
-[flame-instruction](sikhopadeśaḥ) [everywhere](sarvatra) [by-wise](vidvadbhiḥ) [protected](parigopitaḥ)
+[the+instruction+of+the+crest](sikhopadeśaḥ) [everywhere](sarvatra) [by+the+wise](vidvadbhiḥ) [is+kept+hidden](parigopitaḥ)
 
 ## mukta-m0-p31-v765
-[sleep-time](svāpakāle) [but](tu) [of-mantra](mantrasya) [chanting](japaḥ) [harmful-fruit-giving](anarthaphalapradaḥ)
+[at+the+time+of+sleep](svāpakāle) [tu](tu) [of+the+mantra](mantrasya) [japaḥ](japaḥ) [giving+the+fruit+of+misfortune](anarthaphalapradaḥ)
 
 ## mukta-m0-p31-v766
-[of-fiery](āgneyasya) [mantra](manoḥ) [gentle](saumya) [of-mantra](mantrasya) [this-opposite](etadviparyayaḥ)
+[of+the+āgneya+mantra](āgneyasya+manoḥ) [of+the+saumya+mantra](saumya+mantrasya) [this](etat) [the+opposite](viparyayaḥ)
 
 ## mukta-m0-p31-v767
-[awakening-time](prabodhakālaḥ) [to-be-known](vijñeyaḥ) [sleep-time](svāpakālaḥ) [then-or](tato'thavā)
+[the+time+of+awakening](prabodhakālaḥ) [is+to+be+known](vijñeyaḥ) [the+time+of+sleep](svāpakālaḥ) [then](tataḥ) [or](athavā)
 
 ## mukta-m0-p31-v768
-[in-devadāru-forest](devadāruvane) [formerly](pūrvaṃ) [brāhmaṇas](brāhmaṇān) [very-dull-minded](atidurdhiyaḥ)
+[in+the+devadāru+forest](devadāruvane) [formerly](pūrvam) [brāhmaṇas](brāhmaṇān) [very+slow-witted](atidurdhiyaḥ)
 
 ## mukta-m0-p31-v769
-[god-of-gods](devadeva) [world-lord](jagannātha) [great-god](mahādeva) [world-master](jagatpate)
+[O+god+of+gods](devadeva) [O+lord+of+the+world](jagannātha) [O+great+god](mahādeva) [O+lord+of+the+world](jagatpate)
 
 ## mukta-m0-p31-v770
-[self-willed-conduct](svacchandacaritāḥ) [all](sarve) [in-devadāru-forest](devadāruvane) [twice-born](dvijāḥ)
+[of+spontaneous+conduct](svacchandacaritāḥ) [all](sarve) [in+the+devadāru+forest](devadāruvane) [the+twice-born](dvijāḥ)
 
 ## mukta-m0-p31-v771
-[of-those-lacking-self-knowledge](ātmajñānavihīnānām) [of-yoga-practice-neglecting](yogābhyāsāvahelinām)
+[devoid+of+self-knowledge](ātmajñānavihīnānām) [neglectful+of+the+practice+of+yoga](yogābhyāsāvahelinām)
 
 ## mukta-m0-p31-v772
-[how](kathaṃ) [or](vā) [in-brahma-knowledge](brahmavidyāyām) [in-initiation](dīkṣāyām) [eligibility](adhikāritā)
+[how](katham) [indeed](vā) [in+brahmavidyā](brahmavidyāyām) [for+initiation](dīkṣāyām) [is+there+qualification](adhikāritā)
 
 ## mukta-m0-p31-v773
-[to-him](tasmai) [spoken](uktā) [brahma-become](brahmabhūtā) [gāyatrī](gāyatrī) [tripurā-containing](tripurāmayī)
+[to+him](tasmai) [was+spoken](uktā) [brahman-become](brahmabhūtā) [the+gāyatrī](gāyatrī) [consisting+of+tripurā](tripurāmayī)
 
 ## mukta-m0-p31-v774
-[woman](nārī) [śūdra](sūdraḥ) [or](athavā) [outcast](vrātyaḥ) [knowing-thus](jñātvā+eva) [brāhmaṇa](brāhmaṇaḥ) [becomes](bhavet)
+[a+woman](nārī) [a+śūdra](śūdraḥ) [or](athavā) [a+vrātya](vrātyaḥ) [having+known](jñātvā) [thus](eva) [a+brāhmaṇa](brāhmaṇaḥ) [becomes](bhavet)
 
 ## mukta-m0-p31-v775
-[now](atha) [I-will-speak](vakṣyāmi) [that](tām) [knowledge](vidyām) [gāyatrī](gāyatrīm) [ancient-tripurā](tripurātanīm)
+[now](atha) [I+shall+declare](vakṣyāmi) [that](tām) [knowledge](vidyām) [the+gāyatrī](gāyatrīm) [of+tripurā](tripurātanīm)

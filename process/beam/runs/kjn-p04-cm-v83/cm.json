@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "dhyāyeccandramidaṃ",
-   "morph": "3.sg.opt.act (√dhyai) + noun.acc.sg.m + pron.acc.sg.m",
-   "grounds": "optative verb with object and demonstrative"
+   "morph": "3.sg.opt.act (dhyai) + candra.acc.sg.m + pron.acc.sg.n",
+   "grounds": "optative verb with object and demonstrative fused in one token"
   },
   {
    "lemma": "devi",
-   "morph": "noun.voc.sg.f",
+   "morph": "voc.sg.f",
    "grounds": "vocative address"
   },
   {
    "lemma": "nābhimūrdhni",
-   "morph": "noun.loc.sg.f + noun.loc.sg.n",
-   "grounds": "locative dual or compound locative expression"
+   "morph": "compound: nābhi+mūrdhan (loc.sg.n)",
+   "grounds": "locative compound indicating bodily loci"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "conjunction adding another locus"
   },
   {
    "lemma": "hṛdgatam",
-   "morph": "compound.acc.sg.m",
-   "grounds": "compound past participle: hṛd + gata"
+   "morph": "compound: hṛd+gata (ppp.acc.sg.m, gam)",
+   "grounds": "compound describing location in the heart"
   }
  ]
 }

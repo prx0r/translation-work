@@ -25,14 +25,14 @@
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "fused compound as given; internal sandhi not split",
-     "morph": "compound = tad+gato"
+     "grounds": "fused compound form as given; internal fusion noted, not split",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-on-that",
-     "grounds": "fused compound as given; internal sandhi not split",
-     "morph": "compound = tan+mano"
+     "grounds": "fused compound form as given; internal fusion noted, not split",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "yathā",
@@ -41,17 +41,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How can a mind fixed on that object remain uncut even when the body is being severed?",
+   "question": "How can a mind fixed on that remain uncut when the body is being severed?",
    "premises": [
     "The body may be undergoing severance at a given time.",
-    "A mind fixed on that object remains directed elsewhere in focus.",
-    "That directed focus prevents the act of cutting from affecting the mind."
+    "A mind fixed on that object remains oriented elsewhere.",
+    "That orientation prevents the act of cutting from affecting the mind."
    ],
-   "inference": "A mind fixed on that object is not subject to severance even as the body is being cut.",
+   "inference": "A mind fixed on that is not subject to being cut even as the body undergoes severance.",
    "uncertainties": [
-    "Extent to which fixation must be sustained remains unspecified."
+    "Extent to which fixation blocks effect remains unspecified"
    ],
-   "plain_english": "Just as one whose mind is fixed on that object is not cut even when being cut, so too is that mind unaffected by severance."
+   "plain_english": "Even as one is being cut, one is not cut if one's mind is fixed on that, just so."
   }
  ]
 }
