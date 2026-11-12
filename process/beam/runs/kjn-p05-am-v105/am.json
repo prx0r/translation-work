@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 105,
- "question": "What is the identity and essential nature of the soul that has been declared?",
+ "question": "What two questions about the soul must be answered to determine both which soul is declared and what its nature is?",
  "premises": [
-  "The soul has been previously declared",
-  "Its identity is asked about",
-  "Its essential nature is asked about"
+  "A question is raised as to which soul is declared.",
+  "A further question is raised as to what the nature of the soul is.",
+  "Both questions are posed disjunctively in the same inquiry."
  ],
- "inference": "The inquiry seeks both who the declared soul is and what its essential nature is.",
- "uncertainties": [],
- "plain_english": "Who is that soul that has been declared, and what is the nature of the soul?"
+ "inference": "Any account of the soul must specify both its identity as declared and its own nature.",
+ "uncertainties": [
+  "The verse poses questions but gives no answer within itself."
+ ],
+ "plain_english": "Which soul is declared? Or what is the nature of the soul?"
 }

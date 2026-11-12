@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.present-middle/√kṛ",
-   "grounds": "main verb"
+   "morph": "3.sg.mid-present/√kṛ",
+   "grounds": "main verb describing the practitioner’s power"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "manner of making form"
+   "grounds": "indeclinable adverb modifying kurute"
   },
   {
    "lemma": "rūpaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object created"
+   "grounds": "object created or assumed"
   },
   {
    "lemma": "dhyāna",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "eka",
-   "morph": "compound=eka+first-member",
-   "grounds": "qualifies gata"
+   "morph": "compound=eka+second-member",
+   "grounds": "second member of compound with gata"
   },
   {
    "lemma": "gata",
-   "morph": "compound=gata+second-member",
-   "grounds": "describes cetasaḥ"
+   "morph": "compound=gata+third-member",
+   "grounds": "third member of compound with cetasaḥ"
   },
   {
    "lemma": "cetasaḥ",
-   "morph": "n.gen.sg",
-   "grounds": "possessor of one-pointed meditation"
+   "morph": "m.gen.sg",
+   "grounds": "describes the practitioner whose mind is one-pointed in meditation"
   }
  ]
 }

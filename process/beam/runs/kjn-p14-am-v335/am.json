@@ -1,15 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 335,
- "question": "In what paired conditions is a contrastive point being drawn?",
+ "question": "What disqualifying lack of devotion defines the person described here?",
  "premises": [
-  "A condition of being devoid of kula devotion is posited.",
-  "A contrastive particle marks a distinction.",
-  "A parallel condition of being deprived of guru devotion is posited."
+  "The person lacks devotion to the kula",
+  "The person lacks devotion to the guru",
+  "Both lacks are presented together"
  ],
- "inference": "The statement turns on the case of one who is devoid of kula devotion and deprived of guru devotion.",
+ "inference": "The described person is disqualified by absence of devotion to both kula and guru.",
  "uncertainties": [
-  "The main clause is not present in this fragment of tokens."
+  "The syntactic role of this locative phrase depends on adjacent verses."
  ],
- "plain_english": "Indeed, in the case of one devoid of kula devotion and deprived of guru devotion..."
+ "plain_english": "Indeed, in one who is devoid of devotion to the kula and deprived of devotion to the guru."
 }

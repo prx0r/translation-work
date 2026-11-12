@@ -9,13 +9,13 @@
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+first-member",
-   "grounds": "base of yoga compound"
+   "morph": "compound=abhyāsa+second-member",
+   "grounds": "second member of compound with yogena"
   },
   {
    "lemma": "yogena",
    "morph": "m.ins.sg",
-   "grounds": "means of transformation"
+   "grounds": "instrumental indicating means"
   },
   {
    "lemma": "dvi",
@@ -24,23 +24,23 @@
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first-member",
-   "grounds": "numeral component of years"
+   "morph": "compound=aṣṭa+second-member",
+   "grounds": "second member of compound with varṣa"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+first-member",
-   "grounds": "base of form compound"
+   "morph": "compound=varṣa+third-member",
+   "grounds": "third member of compound with ākṛtiḥ"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "resulting appearance"
+   "grounds": "subject that comes to be"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active/√bhū",
-   "grounds": "result verb"
+   "morph": "3.sg.act-optative/√bhū",
+   "grounds": "optative expressing resulting state"
   }
  ]
 }
