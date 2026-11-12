@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To what kind of recipient may this teaching properly be given?",
+ "question": "To what kind of person, tested over a specific period, is this teaching to be given rather than withheld?",
  "premises": [
-  "The teaching may be given",
-  "The recipient should be previously accomplished",
-  "The recipient must be tested for one year"
+  "The teaching is only to be given, not indiscriminately distributed.",
+  "It is owed to one who has prior accomplishment in the practice.",
+  "Such a person must have been tested for the course of one year."
  ],
- "inference": "This teaching should be given only to a previously accomplished person tested for one year.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "The teaching is to be given only to one previously accomplished and tested for one year.",
+ "uncertainties": [
+  "The exact nature of the required test is not specified here."
+ ],
+ "plain_english": "It is to be given to one who has been previously accomplished and tested for one year."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 106,
- "question": "Into what does the soul dissolve, and what full explanation must be given?",
+ "question": "In what locus does dissolution occur, and what is the full set of things that go to dissolution, such that the teacher is asked to explain both?",
  "premises": [
-  "The soul undergoes dissolution",
-  "The locus of dissolution is questioned",
-  "A complete explanation is requested"
+  "Dissolution is said to occur in some locus.",
+  "All of a certain set goes to that dissolution.",
+  "The speaker requests a full explanation of both points."
  ],
- "inference": "The teacher is asked to explain fully into what the soul dissolves.",
- "uncertainties": [],
- "plain_english": "And into what does it dissolve? Tell me all of that."
+ "inference": "The inquiry asks for the locus of dissolution and for an account of all that goes to dissolution.",
+ "uncertainties": [
+  "The identity of the locus and the set remain unknown prior to the answer."
+ ],
+ "plain_english": "In what does it indeed go to dissolution? Tell me all of that."
 }

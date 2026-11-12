@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-destroyed(hataṃ) by-whom-one-form-ness(kenaikarūpatvaṃ) in-common-even(sāmānye'pi) established(yvavasthite)
+[destroyed](hataṃ) [by-what](kena) + [one](eka) + [nature](rūpatvaṃ) [in-universal](sāmānye) + [even](api) [being-established](yvavasthite)
 
 ## mukta-m0-p30-v727
-in-those(tāsu) individuals(vyaktiṣu) form-etc-arrangement(rūpādisaṃniveśādibhedataḥ)
+[in-those](tāsu) [individuals](vyaktiṣu) [form](rūpa) + [etc.](ādi) + [arrangement](saṃniveśa) + [etc.](ādi) + [due-to-difference](bhedataḥ)
 
 ## mukta-m0-p30-v728
-in-liberated(mukteṣu) without-distinction(nirviśeṣatvāt) by-whom-unity(kenaikyaṃ) there(tatra) prevented(vāryate)
+[in-the-liberated](mukteṣu) [due-to-absence-of-distinction](nirviśeṣatvāt) [by-what](kena) + [oneness](aikyaṃ) [there](tatra) [is-prevented](vāryate)
 
 ## mukta-m0-p30-v729
-by-that-much(tāvatā) world-wealth(viśvasampatteḥ) omniscience(sarvajñatvāt) non-strangeness(acitratā)
+[to-that-extent](tāvatā) [from-the-attainment-of-the-universe](viśva) + [sampatteḥ](sampatteḥ) [omniscience](sarvajñatva) + [etc.](ādi) + [absence-of-diversity](acitratā)
 
 ## mukta-m0-p30-v730
-of-all(sarvasya) all-form-ness(sarvarūpatvaṃ) all-selfhood(sarvātmatvam) unobstructed(avāritam)
+[of-everything](sarvasya) [all](sarva) + [formness](rūpatvaṃ) [all](sarva) + [selfness](ātmatvam) + [unobstructed](avāritam)
 
 ## mukta-m0-p30-v731
-established(śivatvaṃ) everywhere(sarvatra) distinction(viśeṣāt) of-śaiva-doctrinaires(chaivavādinām)
+[established](sthitaṃ) [Śiva-hood](śivatvaṃ) [everywhere](sarvatra) [especially](viśeṣāt) + [for-the-Śaiva](śaiva) + [proponents](vādinām)
 
 ## mukta-m0-p30-v732
-thus(iti) śrīsamadarśanānatirekaṃ(śrīsamadarśanānatirekaṃ) named(nāma) sixth(ṣaṣṭham) chapter(āhnikam)
+[thus](iti) [venerable](śrī) + [sama](sama) + [vision](darśana) + [non-difference](anatirekaṃ) [named](nāma) [sixth](ṣaṣṭham) + [chapter](āhnikam)
 
 ## mukta-m0-p30-v733
-in-that-known(tasmiñjñāte) or(athavā) unknown(ajñāte) śiva-ness(śivatvam) unobstructed(anivāritam)
+[in-that](tasmiñ) + [known](jñāte) + [or](atha) + [or](vā) + [unknown](ajñāte) [Śiva-hood](śivatvam) + [unobstructed](anivāritam)
 
 ## mukta-m0-p30-v734
-unknown(ajñātaṃ) not(na) gold(suvarṇaṃ) what(kiṃ) then(tadā) what(kim) stone(upalaṃ) becomes(bhavet)
+[unknown](ajñātaṃ) [not](na) [gold](suvarṇaṃ) [what](kiṃ) [then](tadā) [what](kim) + [a-stone](upalaṃ) [would-be](bhavet)
 
 ## mukta-m0-p30-v735
-by-price-etc(mūlyādinā) for-enjoyment(upabhogāya) for-gift(dānārtham) used(upayujyate)
+[by-value](mūlya) + [etc.](ādi) + [for-enjoyment](upabhogāya) [for-giving](dāna) + [for-the-sake-of](artham) + [is-employed](upayujyate)
 
 ## mukta-m0-p30-v736
-still(tathāpi) for-action-enjoyment(kāryabhogārthaṃ) that(sa) known(jñātaḥ) by-whom(vāryate)
+[even-so](tathā) + [even](api) [for-the-purpose-of](kārya) + [enjoyment](bhoga) + [arthaṃ](arthaṃ) [that](sa) [known](jñātaḥ) [by-whom](kena) [is-prevented](vāryate)
 
 ## mukta-m0-p30-v737
-once(ekavāraṃ) by-pramāṇa(pramāṇena) from-scripture(śāstrāt) or(vā) from-guru-word(guruvākyataḥ)
+[once](eka) + [vāraṃ](vāraṃ) [by-valid-cognition](pramāṇena) [from-scripture](śāstrāt) + [or](vā) [from-the-teacher's](guru) + [statement](vākyataḥ)
 
 ## mukta-m0-p30-v738
-by-means(karaṇena) no(na) duty(kṛtyaṃ) anywhere(kvāpi) by-meditation(bhāvanayā) or(api) vā(vā)
+[by-an-instrument](karaṇena) [not](nāsti) [anything-to-be-done](kṛtyaṃ) [anywhere](kva) + [api](api) [by-contemplation](bhāvanayā) + [api](api) + [vā](vā)
 
 ## mukta-m0-p30-v739
-on-earth(bhūtale) conviction(pratyayaṃ) goes(yāti) not(na) being(bhāvaḥ) means(karaṇaṃ) not(na) ca(ca)
+[on-the-ground](bhūtale) [cognition](pratyayaṃ) [goes](yāti) [not](na) [a-thing](bhāvaḥ) [an-instrument](karaṇaṃ) + [na](na) + [ca](ca)
 
 ## mukta-m0-p30-v740
-all(sarva) eva(eva) āt(āt) etat(etat) bhāvanā-karaṇāt(bhāvanākaraṇāt) fallen(cyutam)
+[all](sarva) [indeed](eva) + [ata](ata) [eva](eva) + [etat](etat) + [from-contemplation](bhāvanā) + [and-instrumentation](karaṇāt) + [deviated](cyutam)
 
 ## mukta-m0-p30-v741
-still(tathāpi) for-variegated-action(citrakarmārtham) means(upāyaḥ) to-be-stated(vācyaḥ) with-respect(ādarāt)
+[even-so](tathā) + [even](api) [for-the-sake-of](citra) + [action](karmā) + [artham](artham) + [a-means](upāyo) [to-be-stated](vācya) [with-respect](ādarāt)
 
 ## mukta-m0-p30-v742
-fire(vahnir) although(yadyapi) known(vijñātaḥ) light-etc(prakāśādi) does(karoti) that(asau)
+[fire](vahniḥ) + [yadi](yadi) + [api](api) [known](vijñātaḥ) [light](prakāśa) + [ādi](ādi) [does](karoti) + [asau](asau)
 
 ## mukta-m0-p30-v743
-by-lamp(dīpena) by-another(anyatamena) api(api) not(na) thus(tathā) fire(vahnir) by-fuel(āśinā)
+[by-a-lamp](dīpena) + [by-any-other](anyatamena) + [api](api) [not](na) [thus](tathā) [by-a-mass-of](vahni) + [fire](rāśinā)
 
 ## mukta-m0-p30-v744
-therefore(tataḥ) own-self-action-tendency(svarūpāhlādanirmuktirahitecchodayodgamaḥ) own-self-action-tendency(svarūpāhlādanirmuktirahitecchodayodgamaḥ)
+[therefore](tataḥ) [toward-one's-own](sva) + [self](ātma) + [activity](kriyā) + [eagerness](unmukhyam) + [desire](icchā) + [first](prathama) + [ka](ka) + [arising](udgamaḥ)
 
 ## mukta-m0-p30-v745
-own-nature-delight-free-desire-rise(svarūpāhlādanirmuktirahitecchodayodgamaḥ) own-nature-delight-free-desire-rise(svarūpāhlādanirmuktirahitecchodayodgamaḥ)
+[of-one's-own-nature](sva) + [rūpa](rūpa) + [delight](āhlāda) + [release](nirmukti) + [devoid-of](rahita) + [desire](icchā) + [arising](udaya) + [udgamaḥ](udgamaḥ)
 
 ## mukta-m0-p30-v746
-that(śaktiḥ) power(śaktiḥ) of-supreme-lord(parameśasya) situated(saṃsthitā) substance-action-like(dravyakarmavat)
+[that](sā) [power](śaktiḥ) [of-the-supreme](parama) + [Lord](īśasya) [abiding](saṃsthitā) [like-substance](dravya) + [and-action](karma) + [vat](vat)
 
 ## mukta-m0-p30-v747
-not(na) by-that(tayā) api(api) without(vinā) action(kāryaṃ) anything(kiṃcana) api(api) arises(jāyate)
+[not](na) [by-that](tayā) + [api](api) [without](vinā) [action](kāryaṃ) [anything](kiṃcana) + [api](api) [indeed](hi) [is-born](jāyate)
 
 ## mukta-m0-p30-v748
-therefore(tasmāt) thus(ittham) here(iha) to-be-known(jñeyaṃ) śākta(śāktaṃ) form-distinction-like(rūpabhedavat)
+[therefore](tasmāt) + [thus](ittham) + [here](iha) [to-be-known](jñeyaṃ) [the-Śākta](śāktaṃ) [like-the-difference-of](rūpa) + [forms](bheda) + [vat](vat)
 
 ## mukta-m0-p30-v749
-that(sa) eva(eva) śākta-knowledge-self(śāktabodhātmasvacchāvayavarūpavān) śākta-knowledge-self(śāktabodhātmasvacchāvayavarūpavān)
+[he](sa) [indeed](eva) [consisting-of](śākta) + [knowledge](bodha) + [self](ātma) + [own](sva) + [clear](ccha) + [part](avayava) + [possessing-form](rūpa) + [vān](vān)
 
 ## mukta-m0-p30-v750
-thus-situated(tathāsthitasya) by-meditation(dhyānena) by-knowledge(bodhāt) or(vā) that-nature(tatsvarūpabhāk) that-nature(tatsvarūpabhāk)
+[of-one-thus](tathā) + [situated](sthitāsya) [by-meditation](dhyānena) [or](bodhāt) + [vā](vā) [that](tat) + [own](sva) + [nature](rūpa) + [partaking](bhāk)

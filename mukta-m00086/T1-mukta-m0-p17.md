@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[shukra-atma](śukrātmā) [bhaskara](bhāskaro'nanto) [ananta](bhāskaro'nanto) [deva-raja](devarājaḥ) [shiva](śivastathā) [tatha](śivastathā)
+[śukra+ātmā](śukrātmā) [bhāskaraḥ](bhāskaro) [anantaḥ](ananto) [deva+rājaḥ](devarājaḥ) [śivaḥ](śivas) [tathā](tathā)
 
 ## mukta-m0-p17-v402
-[manu-sarga](manusargau) [tatah](tataḥ) [shakti](śaktirbhānurindro) [bhanu](śaktirbhānurindro) [indra](śaktirbhānurindro) [maheshvari](maheśvarī)
+[manu+sargau](manusargau) [tataḥ](tataḥ) [śaktiḥ](śaktir) [bhānuḥ](bhānur) [indraḥ](indro) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p17-v403
-[mantra-nirnaya-tantra](mantranirṇayatantre) [ca](ca) [shivena](śivena) [parikirtita](parikīrtitā)
+[mantra+nirṇaya+tantre](mantranirṇayatantre) [ca](ca) [śivena](śivena) [parikīrtitā](parikīrtitā)
 
 ## mukta-m0-p17-v404
-[vagbhava](vāgbhavaṃ) [vijaya](vijayā) [maya](māyā) [brahma](brahmā) [shakra](śakraśca) [ca](śakraśca) [parvati](pārvatī)
+[vāgbhavaṃ](vāgbhavaṃ) [vijayā](vijayā) [māyā](māyā) [brahmā](brahmā) [śakraḥ](śakraś) [ca](ca) [pārvatī](pārvatī)
 
 ## mukta-m0-p17-v405
-[tatah](tato) [ha-adya](hādyaṃ) [manu-sarga-vibhushita](manusargavibhūṣitam)
+[tataḥ](tato) [hādyaṃ](hādyaṃ) [manu+sarga+vibhūṣitam](manusargavibhūṣitam)
 
 ## mukta-m0-p17-v406
-[ashtadashakshari](aṣṭādaśākṣarī) [vidya](vidyā) [maha-tripura-sundari](mahātripurasundarī)
+[aṣṭādaśa+akṣarī](aṣṭādaśākṣarī) [vidyā](vidyā) [mahā+tripura+sundarī](mahātripurasundarī)
 
 ## mukta-m0-p17-v407
-[sarva-ante](sarvānte) [hamsa-samyukta](haṃsasaṃyuktā) [tada](tadā) [vimshakshari](viṃśākṣarī) [bhavet](bhavet)
+[sarva+ante](sarvānte) [haṃsa+saṃyuktā](haṃsasaṃyuktā) [tadā](tadā) [viṃśa+akṣarī](viṃśākṣarī) [bhavet](bhavet)
 
 ## mukta-m0-p17-v408
-[manuna](manunā) [sarga-van](sargavān) [bhrgu](bhṛguḥ)
+[manunā](manunā) [sarga+vān](sargavān) [bhṛguḥ](bhṛguḥ)
 
 ## mukta-m0-p17-v409
-[kama-bija](kāmabījaṃ) [lakshmi](lakṣmīrbhṛguḥ) [bhrgu](lakṣmīrbhṛguḥ) [prajapati](prajāpatiḥ)
+[kāma+bījaṃ](kāmabījaṃ) [lakṣmīḥ](lakṣmīr) [bhṛguḥ](bhṛguḥ) [prajāpatiḥ](prajāpatiḥ)
 
 ## mukta-m0-p17-v410
-[narinam](nārīṇāṃ) [mohini](mohinī) [devi](devī) [jagat-karana-rupini](jagatkāraṇarūpiṇī)
+[nārīṇāṃ](nārīṇāṃ) [mohinī](mohinī) [devī](devī) [jagat+kāraṇa+rūpiṇī](jagatkāraṇarūpiṇī)
 
 ## mukta-m0-p17-v411
-[bhaga](bhago) [maya](māyā) [tatah](tato) [brahma](brahmā) [shakra](śakrastu) [tu](śakrastu) [bhuvaneshvari](bhuvaneśvarī)
+[bhagaḥ](bhago) [māyā](māyā) [tataḥ](tato) [brahmā](brahmā) [śakraḥ](śakras) [tu](tu) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p17-v412
-[bhuvaneshya](bhuvaneśyā) [mahesha](maheśaśca) [ca](maheśaśca) [shakti](śaktirbrahmeśa) [brahmesha](śaktirbrahmeśa) [indraka](indrakaḥ)
+[bhuvaneśyāḥ](bhuvaneśyā) [maheśaḥ](maheśaś) [ca](ca) [śaktiḥ](śaktir) [brahma+īśaḥ](brahmeśa) [indrakaḥ](indrakaḥ)
 
 ## mukta-m0-p17-v413
-[bhuvaneshya](bhuvaneśyā) [netra-astra](netramastraṃ) [shakti](śaktirmādana) [madana](śaktirmādana) [eva](eva) [ca](ca)
+[bhuvaneśyāḥ](bhuvaneśyā) [netra+astraṃ](netramastraṃ) [śaktiḥ](śaktir) [mādanaḥ](mādana) [eva](eva) [ca](ca)
 
 ## mukta-m0-p17-v414
-[esha](eṣā) [para-api](parāpi) [vijneya](vijñeyā) [tattva-rupa](tattvarūpā) [maheshvari](maheśvarī)
+[eṣā](eṣā) [parā](parā) [api](api) [vijñeyā](vijñeyā) [tattva+rūpā](tattvarūpā) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p17-v415
-[na-asti](nāsti) [vidya](vidyā) [sama](samā) [ca-asya](cāsyā) [bala-virya-samanvita](balavīryasamanvitā)
+[na](nāsti) [asti](nāsti) [vidyā](vidyā) [samā](samā) [ca](cāsyā) [asyāḥ](cāsyā) [bala+vīrya+samanvitā](balavīryasamanvitā)
 
 ## mukta-m0-p17-v416
-[kama-indrau](kāmendrau) [ca](ca) [maha-maya](mahāmāyā) [vagbhava](vāgbhavaṃ) [kuta-uttama](kūṭamuttamam)
+[kāma+indrau](kāmendrau) [ca](ca) [mahā+māyā](mahāmāyā) [vāgbhavaṃ](vāgbhavaṃ) [kūṭam](kūṭam) [uttamam](uttamam)
 
 ## mukta-m0-p17-v417
-[shakti-kuta](śaktikūṭaṃ) [shrnushva](śṛṇuṣva) [tat](tat)
+[śakti+kūṭaṃ](śaktikūṭaṃ) [śṛṇuṣva](śṛṇuṣva) [tat](tat)
 
 ## mukta-m0-p17-v418
-[shakti](śaktiḥ) [kama](kāmaḥ) [sahasraksha](sahasrākṣo) [maha-maya](mahāmāyā) [tatah](tataḥ) [param](param)
+[śaktiḥ](śaktiḥ) [kāmaḥ](kāmaḥ) [sahasra+akṣaḥ](sahasrākṣo) [mahā+māyā](mahāmāyā) [tataḥ](tataḥ) [param](param)
 
 ## mukta-m0-p17-v419
-[sa-virya](savīryā) [siddhi-da](siddhidā) [nitya](nityā) [vidya](vidyā) [sarva-artha-siddhi-da](sarvārthasiddhidā)
+[sa+vīryā](savīryā) [siddhi+dā](siddhidā) [nityā](nityā) [vidyā](vidyā) [sarva+artha+siddhi+dā](sarvārthasiddhidā)
 
 ## mukta-m0-p17-v420
-[bhairava](bhairavaṃ) [bindu-mali](bindumālī) [ca](ca) [brahma](brahmā) [shakra](śakraḥ) [sureshvari](sureśvarī)
+[bhairavaṃ](bhairavaṃ) [bindu+mālī](bindumālī) [ca](ca) [brahmā](brahmā) [śakraḥ](śakraḥ) [sura+īśvarī](sureśvarī)
 
 ## mukta-m0-p17-v421
-[maha-maya](mahāmāyā) [vagbhavanca](vāgbhavañca) [manmatha](mānmathaṃ) [sarga-van](sargavān) [bhrgu](bhṛguḥ)
+[mahā+māyā](mahāmāyā) [vāgbhavam](vāgbhavañ) [ca](ca) [mānmathaṃ](mānmathaṃ) [sarga+vān](sargavān) [bhṛguḥ](bhṛguḥ)
 
 ## mukta-m0-p17-v422
-[shakti-kuta](śaktikūṭaṃ) [likhet-tatah](likhettataḥ)
+[śakti+kūṭaṃ](śaktikūṭaṃ) [likhet](likhet) [tataḥ](tataḥ)
 
 ## mukta-m0-p17-v423
-[bhrgu](bhṛgurbrahmā) [brahma](bhṛgurbrahmā) [sahasraksha](sahasrākṣo) [maha-maya](mahāmāyā) [tad-antaram](tadantaram)
+[bhṛguḥ](bhṛgur) [brahmā](brahmā) [sahasra+akṣaḥ](sahasrākṣo) [mahā+māyā](mahāmāyā) [tad+antaram](tadantaram)
 
 ## mukta-m0-p17-v424
-[saptavimshakshari](saptaviṃśākṣarī) [vidya](vidyā) [maha-tripura-sundari](mahātripurasundarī)
+[sapta+viṃśa+akṣarī](saptaviṃśākṣarī) [vidyā](vidyā) [mahā+tripura+sundarī](mahātripurasundarī)
 
 ## mukta-m0-p17-v425
-[ramate](ramate) [sakalam](sakalāṃ) [narin](nārīṃ) [japtva](japtvā) [yati](yāti) [sura-alayam](surālayam)
+[ramate](ramate) [sakalāṃ](sakalāṃ) [nārīṃ](nārīṃ) [japtvā](japtvā) [yāti](yāti) [sura+ālayam](surālayam)

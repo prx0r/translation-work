@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 213,
- "question": "What claim about scope requires the total field-group to belong to all earth-moving and all sky-moving yoginīs together?",
+ "question": "Which groups of yoginīs are encompassed in the total field being described?",
  "premises": [
-  "There are yoginīs who move on earth and yoginīs who move in the sky.",
-  "All of these are included without exception.",
-  "A single field-group belongs to all of them."
+  "All earth-moving yoginīs are included.",
+  "All sky-moving yoginīs are included.",
+  "They form a complete field-group."
  ],
- "inference": "The complete field-group belongs to all earth-moving and all sky-moving yoginīs.",
- "uncertainties": [],
- "plain_english": "The whole field-group belongs to all earth-moving and all sky-moving yoginīs."
+ "inference": "The described field encompasses all earth-moving and sky-moving yoginīs.",
+ "uncertainties": [
+  "The syntactic role of sarvakṣetrakam depends on the following context."
+ ],
+ "plain_english": "The complete field of all earth-moving and all sky-moving yoginīs."
 }

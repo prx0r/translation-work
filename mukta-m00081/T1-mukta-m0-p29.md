@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[not-and](naca) [or](vā) [cognition](pratyayaṃ) [would-go](gacchet) [suddenly-one-utterance-only](jhaṭityekoktimātrataḥ)
+not(naca) [or](vā) [conviction](pratyayaṃ) [one-should-go](gacchet) [suddenly](jhaṭiti) [by-one+statement+mere](eka+ukti+mātrataḥ)
 
 ## mukta-m0-p29-v702
-[many](anekeṣām) [atoms](aṇūnāṃ) [and](ca) [how](katham) [in-one](ekatra) [abiding](saṃsthitiḥ)
+[of-many](anekeṣām) [atoms](aṇūnāṃ) [and](ca) [how](katham) [in-one-place](ekatra) [co-existence](saṃsthitiḥ)
 
 ## mukta-m0-p29-v703
-[thingness](vastutve) [refinement](saṃskāraḥ) [indeed](eva) [various-existences-following](nānāsattānuyogataḥ)
+[in-thingness](vastutve) [impression+born](saṃskāra+utya) [indeed](eva) [due-to-connection-with-manifold-existences](nānā+sattā+anuyogataḥ)
 
 ## mukta-m0-p29-v704
-[mutually](paraspareṇa) [pervading](vyāpyatvāt) [pervaded-pervader-relation](vyāpyavyāpakatā) [becomes](bhavet)
+[mutually](paraspareṇa) [due-to-pervasiveness](vyāpyatvāt) [pervaded+pervader-ness](vyāpya+vyāpakatā) [would-be](bhavet)
 
 ## mukta-m0-p29-v705
-[of-space-intellect-mind-etc](ākāśabuddhicittādeḥ) [how](katham) [in-one](ekatra) [if](cet) [abiding](sthitiḥ)
+[of-space+intellect+mind+etc.](ākāśa+buddhi+citta+ādeḥ) [how](katham) [in-one-place](ekatra) [if](cet) [existence](sthitiḥ)
 
 ## mukta-m0-p29-v706
-[of-all](sarvasya) [in-all-bodies](sarvadeheṣu) [pervasion-establishment](vyāpakatvavyavasthiteḥ)
+[of-all](sarvasya) [in-all-bodies](sarva+deheṣu) [pervasiveness+being-established](vyāpakatva+vyavasthiteḥ)
 
 ## mukta-m0-p29-v707
-[by-action](karmaṇām) [according-to-suitability](ānurūpyāt) [if](cet) [consciousness-obstruction](saṃvidbādhā) [not](na) [by-actions](karmabhiḥ)
+[of-actions](karmaṇām) [if-due-to-conformity](ānurūpyāt+cet) [consciousness+obstruction](saṃvid+bādhā) [not](na) [by-actions](karmabhiḥ)
 
 ## mukta-m0-p29-v708
-[not](na) [corpse-ness](śavatvaṃ) [in-body](śarīre) [would-be](syāt) [other-self-shining-established](anyātmasphuraṇasthiteḥ)
+[not](na) [corpse-ness](śavatvaṃ) [in-body](śarīre) [would-be](syāt) [due-to-presence-of-another-self-manifestation](anya+ātma+sphuraṇa+sthiteḥ)
 
 ## mukta-m0-p29-v709
-[one-cognition](ekabodhaḥ) [by-hundreds-of-cognitions](bodhaśatair) [overcome](abhibhūtaḥ) [would-become](bhavet) [then](tadā)
+[one-consciousness](eka+bodhaḥ) [by-hundred-consciousnesses](bodha+śataiḥ) [overpowered](abhibhūtaḥ) [would-be](bhavet) [then](tadā)
 
 ## mukta-m0-p29-v710
-[in-liberation](mokṣe) [also](api) [by-shiva-plurality](śivabāhulyāt) [various-leadership](nānānāyakatā) [becomes](bhavet)
+[in-liberation](mokṣe) [even](api) [due-to-multiplicity-of-Śiva](śiva+bāhulyāt) [manifold-leadership](nānā+nāyakatā) [would-be](bhavet)
 
 ## mukta-m0-p29-v711
-[of-many](bahūnāṃ) [leadership](nāyakatve) [also](api) [leadership](nāyakatvaṃ) [is-hindered](vihanyate)
+[of-many](bahūnāṃ) [in-leadership](nāyakatve) [even](api) [leadership](nāyakatvaṃ) [is-destroyed](vihanyate)
 
 ## mukta-m0-p29-v712
-[which](yā) [unlike-other](anyasadṛśī) [ground](bhūmiḥ) [that](sā) [supreme](parā) [limit-ground](prāntabhūmikā)
+[which](yā) [not-other+similar](ananya+sadṛśī) [state](bhūmiḥ) [that](sā) [supreme](parā) [final-state](prānta+bhūmikā)
 
 ## mukta-m0-p29-v713
-[by-omniscience](sarvajñatvena) [of-all](sarveṣām) [one-action-following](ekakāryānuvartanāt)
+[by-omniscience](sarvajñatvena) [of-all](sarveṣām) [in-one+purpose+conformity](eka+kārya+anuvartanāt)
 
 ## mukta-m0-p29-v714
-[or](athavā) [by-own-self-glory-supreme-bliss-satisfaction](svātmavibhavaparamānandatṛptitaḥ)
+[or](athavā) [from-satisfaction-in-own-self-glory-supreme-bliss](sva+ātma+vibhava+parama+ānanda+tṛptitaḥ)
 
 ## mukta-m0-p29-v715
-[becomes](bhaven) [liberated-self-space](muktātmabhe) [also](api) [that](sā) [but](tu) [beginningless](anādau) [in-shiva](śive) [established](sthitā)
+[would-be](bhavet) [in-liberated-self-state](mukta+ātma+bhe) [even](api) [that](sā) [but](tu) [in-beginningless](anādau) [in-Śiva](śive) [established](sthitā)
 
 ## mukta-m0-p29-v716
-[beginningless-shiva-principle](anādiśivatattvasya) [own-bliss](svāmodaṃ) [what](kiṃ) [not](na) [is-known](vidyate)
+[of-beginningless-Śiva-principle](anādi+śiva+tattvasya) [own-joy](sva+āmodaṃ) [why](kiṃ) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p29-v717
-[then](atha) [of-king](rājñaḥ) [as](yathā) [kingdom-action](rājyakarma) [performing](vidadhataḥ) [happiness](sukham)
+[now](atha) [of-king](rājñaḥ) [as](yathā) [kingdom+duty](rājya+karma) [performing](vidadhataḥ) [happiness](sukham)
 
 ## mukta-m0-p29-v718
-[if](yadi) [that](tattarhi) [in-liberation](mokṣe) [also](api) [distinction](viśeṣaḥ) [what](kiṃ) [is-prevented](nivāryate)
+[if](yadi) [then](tat+tarhi) [in-liberation](mokṣe) [even](api) [distinction](viśeṣaḥ) [what](kiṃ) [is-prevented](nivāryate)
 
 ## mukta-m0-p29-v719
-[therefore](tasmāt) [by-many-selfhood](anekātmatayā) [faults](doṣāḥ) [come](āyānti) [such](tādṛśāḥ)
+[therefore](tasmāt) [by-manifold-selfhood](aneka+ātmatayā) [faults](doṣāḥ) [come](āyānti) [such](tādṛśāḥ)
 
 ## mukta-m0-p29-v720
-[liberation-ness](mokṣatā) [and](ca) [would-be-established](upapadyeta) [pure](nirmalaṃ) [impure](samalaṃ) [thus](tathā)
+[liberation-ness](mokṣatā) [and](ca) [would-be-possible](upapadyeta) [stainless](nirmalaṃ) [with-impurity](samalaṃ) [likewise](tathā)
 
 ## mukta-m0-p29-v721
-[possibility](sambhavaḥ) [would-be](syāt) [such](tathārūpa) [shiva-ness](śivatvāt) [other-seeing](anyadarśane)
+[possibility](sambhavaḥ) [would-be](syāt) [from-view-of-other-than-such-Śiva-ness](tathā+rūpa+śivatvāt+anya+darśane)
 
 ## mukta-m0-p29-v722
-[in-unity](ekatve) [bondage-etc](bandhatādyasti) [two](dviṣaḥ) [in-k-etc](kādiṣu) [they](te) [as](yathā)
+[in-oneness](ekatve) [bondage+etc.](bandhatā+ādi) [exists](asti) [of-two](dviṣaḥ) [in-Kā+etc.](kā+ādiṣu) [for-you](te) [as](yathā)
 
 ## mukta-m0-p29-v723
-[simultaneous](yugapad) [bondage-affliction-etc](bandhapīḍādiḥ) [thus](tadvat) [various-bodies](nānāśarīratā)
+[simultaneous+bondage+pain+etc.](yugapad+bandha+pīḍā+ādiḥ) [like-that](tadvat) [manifold+embodiment](nānā+śarīratā)
 
 ## mukta-m0-p29-v724
-[one](ekaḥ) [also](api) [there](tatra) [variegated](vairūpaḥ) [many](bahavaḥ) [also](api) [one-formed](ekarūpiṇaḥ)
+[one](ekaḥ) [even](api) [there](tatra) [of-various-form](vairūpaḥ) [many](bahavaḥ) [even](api) [of-one-form](eka+rūpiṇaḥ)
 
 ## mukta-m0-p29-v725
-[pervading](vyāpakāḥ) [and](ca) [thus](tathā) [all](sarve) [all](sarve) [indeed](eva) [self-cognition](ātmasaṃvidaḥ)
+[pervasive](vyāpakāḥ) [and](ca) [likewise](tathā) [all](sarve) [all](sarve) [indeed](eva) [self+consciousnesses](ātma+saṃvidaḥ)

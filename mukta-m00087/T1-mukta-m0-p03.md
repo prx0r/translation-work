@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[para+añca](parāñca) [kathayāmi](kathayāmi) [aham](aham) [iti](iti)
+[higher](parāñca) [I-tell](kathayāmi) [I](aham)
 
 ## mukta-m0-p03-v52
-[maheśaḥ](maheśaḥ) [krodha+kāmau](krodhakāmau) [ca](ca) [kāleśaḥ](kāleśaḥ) [pṛthivī](pṛthivī) [haraḥ](haraḥ)
+[Maheśa](maheśaḥ) [anger+desire](krodha+kāmau) [and](ca) [Kāleśa](kāleśaḥ) [earth](pṛthivī) [Hara](haraḥ)
 
 ## mukta-m0-p03-v53
-[eṣā](eṣā) [saptadaśī](saptadaśī) [vidyā](vidyā) [catur+varga+phala+pradā](caturvargaphalapradā)
+[this](eṣā) [seventeen-syllabled](saptadaśī) [knowledge](vidyā) [four+aims+fruit+giving](catur+varga+phala+pradā)
 
 ## mukta-m0-p03-v54
-[mahā+māyā](mahāmāyā) [mahā+bījam](mahābījam) [adha](adha) [āmnāya](āmnāya) [īritaḥ](īritaḥ)
+[great+illusion+great+seed+essence](mahā+māyā+mahā+bīja+madha) [tradition](āmnāya) [declared](īritaḥ)
 
 ## mukta-m0-p03-v55
-[evam+eva](evameva) [prakāreṇa](prakāreṇa) [ṣaḍ+āmnāyāḥ](ṣaḍāmnāyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
+[thus+indeed](evam+eva) [in-manner](prakāreṇa) [six+traditions](ṣaḍ+āmnāyāḥ) [proclaimed](prakīrtitāḥ)
 
 ## mukta-m0-p03-v56
-[dīrgha+āyuḥ](dīrghāyurdhanasapattiraiśvayaṇa) [dhana+sapattiḥ](dīrghāyurdhanasapattiraiśvayaṇa) [aiśvaryaṇa](dīrghāyurdhanasapattiraiśvayaṇa) [yutaḥ](yutaḥ) [sadā](sadā)
+[long+life+wealth+prosperity+sovereignty](dīrgha+āyur+dhana+sapattiḥ+raiśvayaṇa) [endowed-with](yutaḥ) [always](sadā)
 
 ## mukta-m0-p03-v57
-[niṣphalaṃ](niṣphalaṃ) [jīvitaṃ](jīvitaṃ) [tasya](tasya) [sa](sa) [bhavet](bhavet) [sādhakaḥ](sādhako) [adhamaḥ](adhamaḥ)
+[fruitless](niṣphalaṃ) [life](jīvitaṃ) [of-him](tasya) [he](sa) [would-be](bhavet) [practitioner+lowest](sādhakaḥ+adhamaḥ)
 
 ## mukta-m0-p03-v58
-[śaktiḥ](śaktiḥ) [śambhuḥ](śambhuḥ) [svayambhuḥ](svayambhuśca) [ca](svayambhuśca) [śakraḥ](śakrastu) [tu](śakrastu) [bhuvaneśvarī](bhuvaneśvarī)
+[Śakti](śaktiḥ) [Śambhu](śambhuḥ) [self-born](svayambhuḥ) [and](ca) [Śakra](śakraḥ) [indeed](tu) [Bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p03-v59
-[kāmaḥ](kāmaḥ) [śivaḥ](śivastathā) [tathā](śivastathā) [brahmā](brahmā) [śakraḥ](śakro) [api](api) [bhuvaneśvarī](bhuvaneśvarī)
+[Kāma](kāmaḥ) [Śiva](śivaḥ) [and-also](tathā) [Brahmā](brahmā) [Śakra](śakraḥ) [also](api) [Bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p03-v60
-[vidyānām](vidyānāmuttamā) [uttamā](vidyānāmuttamā) [vidyā](vidyā) [vaśya+saubhāgya+vāk+pradā](vaśyasaubhāgyavākpradā)
+[of-knowledges+supreme](vidyānām+uttamā) [knowledge](vidyā) [subjugation+good-fortune+speech+giving](vaśya+saubhāgya+vāk+pradā)
 
 ## mukta-m0-p03-v61
-[adhunā](adhunā) [śakti+rūpām](śaktirūpāntu) [tu](śaktirūpāntu) [vakṣyāmi](vakṣyāmi) [durlabhām](durlabhāṃ) [parām](parām)
+[now](adhunā) [śakti+form](śakti+rūpāntu) [I-shall-tell](vakṣyāmi) [difficult-to-obtain](durlabhāṃ) [supreme](parām)
 
 ## mukta-m0-p03-v62
-[pūrva+vat](pūrvavacchaktikūṭañca) [śakti+kūṭam](pūrvavacchaktikūṭañca) [ca](pūrvavacchaktikūṭañca) [pañcamī](pañcamī) [bhuvi](bhuvi) [durlabhā](durlabhā)
+[as-before](pūrva+vat) [śakti+section](śakti+kūṭañca) [fifth](pañcamī) [on-earth](bhuvi) [difficult-to-obtain](durlabhā)
 
 ## mukta-m0-p03-v63
-[ari+hā](arihā) [siddhi+dā](siddhidā) [vidyā](vidyā) [sarva+doṣa+vivarjitā](sarvadoṣavivarjitā)
+[enemy+destroying](ari+hā) [accomplishment+giving](siddhi+dā) [knowledge](vidyā) [all+faults+devoid-of](sarva+doṣa+vivarjitā)
 
 ## mukta-m0-p03-v64
-[bṛhat+śrī+krama+tantrasya](bṛhacchrīkramatantrasya) [matam](mataṃ) [jñātve](jñātveti) [iti](jñātveti) [kīrtitam](kīrtitam)
+[great+Śrī+Krama+Tantra's](bṛhat+śrī+krama+tantrasya) [doctrine](mataṃ) [having-known](jñātvā) [thus](iti) [proclaimed](kīrtitam)
 
 ## mukta-m0-p03-v65
-[ekādaśaḥ](ekādaśaḥ) [prakāśaḥ](prakāśaḥ) [iti](iti) [eva](eva)
+[eleventh](ekādaśaḥ) [chapter](prakāśaḥ)
 
 ## mukta-m0-p03-v66
-[subhagāyāḥ](subhagāyā) [bhavanti](bhavantyeva) [eva](bhavantyeva) [tad+eva](tadevātha) [atha](tadevātha) [nigadyate](nigadyate)
+[of-Subhagā](subhagāyā) [they-are](bhavanti) [indeed](eva) [therefore](tad) [now](eva) [also](atha) [is-spoken](nigadyate)
 
 ## mukta-m0-p03-v67
-[arddha+candraḥ](arddhacandraśca) [ca](arddhacandraśca) [binduḥ](binduśca) [ca](binduśca) [nava+arṇaḥ](navārṇo) [meruḥ](merurucyate) [ucyate](merurucyate)
+[half+moon](arddha+candraḥ) [and](ca) [dot](binduḥ) [and](ca) [nine+syllabled](nava+arṇaḥ) [Meru](meruḥ) [is-called](ucyate)
 
 ## mukta-m0-p03-v68
-[mahā+tripura+sundaryāḥ](mahātripurasundaryā) [mantrāḥ](mantrā) [meru+samudbhavāḥ](merusamudbhavāḥ)
+[of-great+Tripurasundarī](mahā+tripura+sundaryā) [mantras](mantrā) [from-Meru+arisen](meru+samudbhavāḥ)
 
 ## mukta-m0-p03-v69
-[pañcāśat+pīṭha+sampannā](pañcāśatpīṭhasampannā) [sarva+tīrtha+mayī](sarvatīrthamayī) [parā](parā)
+[fifty+seats+endowed-with](pañcāśat+pīṭha+sampannā) [all+pilgrimage-sites+consisting-of](sarva+tīrtha+mayī) [supreme](parā)
 
 ## mukta-m0-p03-v70
-[a+kāra+śiva+saṃyogāt](akārāchivasaṃyogād) [vyoma+maṇḍalam](vyomamaṇḍalam) [āsthitā](āsthitā)
+[from-a+syllable+Śiva+union](a+kārāt+śiva+saṃyogāt) [space+sphere](vyoma+maṇḍalam) [situated](āsthitā)
 
 ## mukta-m0-p03-v71
-[e+kārāt](ekārādvaiṣṇavī) [vaiṣṇavī](ekārādvaiṣṇavī) [śaktiḥ](śaktirviśvapālanatatparā) [viśva+pālana+tatparā](śaktirviśvapālanatatparā)
+[from-e+syllable](e+kārāt) [Vaiṣṇavī](vaiṣṇavī) [power](śaktiḥ) [world+protection+devoted](viśva+pālana+tatparā)
 
 ## mukta-m0-p03-v72
-[ka+kārāt](kakārāt) [kāma+dā](kāmadā) [kāma+rūpiṇī](kāmarūpiṇī) [sphurat](sphuradavyayā) [avyayā](sphuradavyayā)
+[from-ka+syllable](ka+kārāt) [desire+giving](kāma+dā) [desire+formed](kāma+rūpiṇī) [shining+imperishable](sphurat+avyayā)
 
 ## mukta-m0-p03-v73
-[bindunā](bindunā) [śiva+rūpeṇa](śivarūpeṇa) [śūnya+rūpeṇa](śunyarūpeṇa) [sākṣiṇī](sākṣiṇī)
+[with-dot](bindunā) [with-Śiva+form](śiva+rūpeṇa) [with-void+form](śunya+rūpeṇa) [witness](sākṣiṇī)
 
 ## mukta-m0-p03-v74
-[evam](evaṃ) [rūpaṃ](rūpaṃ) [brahma+rūpaṃ](brahmarūpaṃ) [meruṇā](meruṇānena) [anena](meruṇānena) [jāyate](jāyate)
+[thus](evaṃ) [form](rūpaṃ) [Brahman+form](brahma+rūpaṃ) [by-this+Meru](meruṇā+anena) [is-born](jāyate)
 
 ## mukta-m0-p03-v75
-[ebhiḥ](ebhirnavārṇakairvarṇaistripurā) [nava+arṇakaiḥ](ebhirnavārṇakairvarṇaistripurā) [varṇaiḥ](ebhirnavārṇakairvarṇaistripurā) [tripurā](tripurā) [kathyate](kathyate) [adhunā](adhunā)
+[by-these+nine+syllabled+letters](ebhiḥ+nava+arṇakaiḥ+varṇaiḥ) [Tripurā](tripurā) [is-spoken](kathyate) [now](adhunā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[fifteen-angled](pañcadaśāṅgulaṃ) [pit](khātaṃ) [beautiful](ramaṇīyantu) [should-make](kārayet)
+[fifteen](pañcadaśa)-[finger-breadths](aṅgulaṃ) [excavated](khātaṃ) [beautiful](ramaṇīyam)-[and](tu) [should+make](kārayet)
 
 ## mukta-m0-p03-v52
-[of-altars](kuṇḍānāṃ) [such](yādṛśaṃ) [form](rūpaṃ) [of-girdles](mekhalānāñca) [and](ca) [such](tādṛśam)
+[of+the+kunda-s](kuṇḍānām) [of+what+kind](yādṛśam) [form](rūpam) [of+the+mekhala-s](mekhalānāñca) [of+such+kind](tādṛśam)
 
 ## mukta-m0-p03-v53
-[ten-hand](daśahastāntamanyeṣāmarddhāṅgulaṃ) [limit](antam) [of-others](anyeṣām) [half-angled](arddhāṅgulaṃ) [separately](pṛthak) [separately](pṛthak)
+[up+to+ten+hastas](daśahastāntam)-[of+others](anyeṣām)-[half+a+finger-breadth](arddhāṅgulam) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p03-v54
-[that-outer](tadbāhya) [girdle-height](mekhalotsedhamaṅguladvitayaṃ) [two-angled](dvitayaṃ) [should-be](bhavet)
+[of+that](tad)-[outer](bāhya)-[of+the+mekhala](mekhalā)-[height](utsedham)-[two+finger-breadths](aṅguladvayam) [should+be](bhavet)
 
 ## mukta-m0-p03-v55
-[veda-fire-wing-spread](vedāgnipakṣavistārāḥ) [should-be-made](kartavyā) [girdles](mekhalāḥ) [auspicious](śubhāḥ)
+[by+veda](veda)-[by+fire](agni)-[by+side](pakṣa)-[by+width](vistārāḥ) [to+be+made](kartavyāḥ) [mekhala-s](mekhalāḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p03-v56
-[should-be-made](kartavyamathavā) [or](athavā) [pit](khātaṃ) [twelve-angled-measured](dvādaśāṅgulasammitam)
+[to+be+made](kartavyam)-[or+else](athavā) [excavation](khātam) [twelve+finger-breadths](dvādaśāṅgula)-[measured](sammitam)
 
 ## mukta-m0-p03-v57
-[raised](ucchritā) [girdles](mekhalāḥ) [all](sarvāścaturaṅgulavistṛtāḥ) [four-angled-spread](caturaṅgulavistṛtāḥ)
+[raised](ucchritāḥ) [mekhala-s](mekhalāḥ) [all](sarvāḥ)-[four+finger-breadths](caturaṅgula)-[wide](vistṛtāḥ)
 
 ## mukta-m0-p03-v58
-[should-dig](khanet) [six-angled-height](ṣaḍaṅgulotsedhā) [girdle](mekhalā) [veda-spread](vedavistṛtā)
+[should+excavate](khanet) [six+finger-breadths](ṣaḍaṅgula)-[high](utsedhāḥ) [mekhala](mekhalā) [by+veda](veda)-[wide](vistṛtā)
 
 ## mukta-m0-p03-v59
-[or](athavā) [all-altar](sarvakuṇḍaṃ) [indeed](hi) [should-dig](khaneddhastaikamānataḥ) [one-hand-measure](hastaikamānataḥ)
+[or+else](athavā) [all](sarva)-[kunda](kuṇḍam) [indeed](hi) [should+excavate](khanet)-[one+hasta](hastaikam)-[by+measure](mānataḥ)
 
 ## mukta-m0-p03-v60
-[as-much-as](yāvat) [of-altar](kuṇḍasya) [spread](vistāraḥ) [digging](khananaṃ) [so-much](tāvadīritam) [declared](īritam)
+[as+much+as](yāvat) [of+the+kunda](kuṇḍasya) [width](vistāraḥ) [excavation](khanaṃ) [so+much](tāvat) [is+said](īritam)
 
 ## mukta-m0-p03-v61
-[or](athavā) [threefold](tritayī) [should-be-made](kāryā) [veda-fire-eye-angled](vedāgninayanāṅgulaiḥ)
+[or+else](athavā) [triple](tritayī) [should+be+made](kāryā) [by+veda](veda)-[by+fire](agni)-[by+eye](nayana)-[by+finger-breadths](aṅgulaiḥ)
 
 ## mukta-m0-p03-v62
-[highest](uttamā) [middle](madhyamā) [lower](nyūnā) [in-order](krameṇa) [proclaimed](parikīrtitāḥ)
+[best](uttamā) [middle](madhyamā) [inferior](nyūnā) [in+order](krameṇa) [are+declared](parikīrtitāḥ)
 
 ## mukta-m0-p03-v63
-[aratri-measure-altar](aratrimātrakuṇḍe) [but](tu) [three-two-one-angled-united](tri-dvyekāṅgulasaṃyutāḥ)
+[in+a+kuṇḍa+of+one+aratni](aratrimātra)-[kuṇḍe](kuṇḍe) [indeed](tu) [three](tri)-[two](dvi)-[one](eka)-[finger-breadth](aṅgula)-[joined](saṃyutāḥ)
 
 ## mukta-m0-p03-v64
-[girdle](mekhalā) [two-hand](dvikare) [altar](kuṇḍe) [rasa-veda-quality-angled](rasa-vedaguṇāṅgulāḥ)
+[mekhala-s](mekhalāḥ) [in+a+two-hasta+kuṇḍa](dvikare) [kuṇḍe](kuṇḍe) [six](rasa)-[four](veda)-[finger-breadths](guṇāṅgulāḥ)
 
 ## mukta-m0-p03-v65
-[ten-eight-angled](daśāṣṭāṅgāṅgulairjñeyā) [known](jñeyā) [rasa-hand](rasahaste) [but](tu) [girdles](mekhalāḥ)
+[ten](daśa)-[eight](aṣṭa)-[finger-breadths](aṅgulaiḥ) [are+to+be+known](jñeyāḥ) [in+a+ten-hasta](rasahaste) [indeed](tu) [mekhala-s](mekhalāḥ)
 
 ## mukta-m0-p03-v66
-[height-length](utsedhāyāmato) [known](jñeyā) [girdles](mekhalāḥ) [everywhere](sarvato) [by-wise](budhaiḥ)
+[by+height](utsedha)-[by+length](āyamataḥ) [are+to+be+known](jñeyāḥ) [mekhala-s](mekhalāḥ) [on+all+sides](sarvataḥ) [by+the+wise](budhaiḥ)
 
 ## mukta-m0-p03-v67
-[peepal-leaf-form](aśvatthapatrarūpāṃ) [or](vā) [triangular](trikoṇāṃ) [or](vā) [discerning](vicakṣaṇaḥ)
+[like+a+leaf+of+the+aśvattha](aśvatthapatra)-[form](rūpām) [or](vā) [triangular](trikoṇām) [or](vā) [the+discerning+one](vicakṣaṇaḥ)
 
 ## mukta-m0-p03-v68
-[one-angled](ekāṅgulantu) [yoni-tip](yonyagraṃ) [should-make](kuryādīṣadadhomukham) [slightly-downward](īṣadadhomukham)
+[one+finger-breadth](eka)-[finger-breadth](aṅgulam)-[indeed](tu) [of+the+yoni](yoni)-[tip](agram) [should+make](kuryāt)-[slightly](īṣat)-[downward+faced](adhomukham)
 
 ## mukta-m0-p03-v69
-[one-by-one-angled](ekaikāṅgulato) [yoni](yoniṃ) [in-other-altars](kuṇḍeṣvanyeṣu) [should-increase](varddhayet)
+[from+one+to+one+finger-breadth](ekaika)-[finger-breadth](aṅgulataḥ) [the+yoni](yonim) [in+other](anyeṣu) [kunda-s](kuṇḍeṣu) [should+increase](varddhayet)
 
 ## mukta-m0-p03-v70
-[twelve-angled-long](dvādaśāṅguladīrghāntu) [and](tathā) [eight-angled-spread](aṣṭāṅgulavistṛtām)
+[twelve+finger-breadths](dvādaśa)-[finger-breadths](aṅgula)-[long](dīrghām)-[indeed](tu) [thus](tathā)-[eight+finger-breadths](aṣṭa)-[finger-breadths](aṅgula)-[wide](vistṛtām)
 
 ## mukta-m0-p03-v71
-[ten-hand-limit](daśahastāntakaṃ) [measure](mānaṃ) [as-before](pūrvavad) [should-increase](varddhayet) [in-order](kramāt)
+[up+to+ten+hastas](daśahastāntakam) [measure](mānam) [as+before](pūrvavat) [should+increase](varddhayet) [in+order](kramāt)
 
 ## mukta-m0-p03-v72
-[three-two-one-angled-spread](tridvyekāṅgulavistāraṃ) [in-order](kramānmūlāgramiṣyate) [root-tip](mūlāgram) [desired](iṣyate)
+[three](tri)-[two](dvi)-[one](eka)-[finger-breadth](aṅgula)-[wide](vistāram) [in+order](kramāt) [from+root+to+tip](mūla)-[agram](agram) [it+is+intended](iṣyate)
 
 ## mukta-m0-p03-v73
-[fist-jewel-hand](muṣṭyaratnekahastānāṃ) [navel](nābhirutsedhabhāvataḥ) [height-being](utsedhabhāvataḥ)
+[of+a+muṣṭi](muṣṭi)-[of+an+aratni](aratni)-[of+one+hasta](ekahastānām) [the+navel](nābhiḥ) [by+height](utsedha)-[nature](bhāvataḥ)
 
 ## mukta-m0-p03-v74
-[barley-two](yavadvayakrameṇaiva) [in-order](krameṇaiva) [indeed](eva) [navel](nābhiṃ) [separately](pṛthagudāradhīḥ) [generous-intellect](udāradhīḥ)
+[by+two+yavas](yavadvaya)-[in+order](krameṇa)-[indeed](eva) [the+navel](nābhim) [separately](pṛthak) [the+wise+one](udāradhīḥ) [should+bring+forth](udāra)-[dhīḥ](dhīḥ)
 
 ## mukta-m0-p03-v75
-[yoni-altar](yonikuṇḍe) [should-abandon](tyajed) [yoni](yonimabje) [lotus](abje) [navel](nābhiṃ) [should-avoid](vivarjayet)
+[in+a+yoni-kunda](yoni)-[kuṇḍe](kuṇḍe) [should+abandon](tyajet) [the+yoni](yonim) [in+a+lotus](abje) [the+navel](nābhim) [should+avoid](vivarjayet)

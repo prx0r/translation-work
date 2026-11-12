@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 219,
- "question": "What claim about instruction requires the speaker to declare the method of names for them and to command the beautiful-eyed one to hear?",
+ "question": "What does the speaker promise to explain to the beautiful-eyed listener?",
  "premises": [
-  "A method concerning the names of those beings is to be stated.",
-  "The speaker will declare it.",
-  "The recipient is commanded to hear it."
+  "The speaker will speak about them.",
+  "The topic is the method of their names.",
+  "The listener is urged to hear."
  ],
- "inference": "The speaker will declare the method of their names; the beautiful-eyed one is to hear it.",
- "uncertainties": [],
- "plain_english": "I shall speak the method of their names; hear it, O beautiful-eyed one."
+ "inference": "The speaker will explain the method of their names.",
+ "uncertainties": [
+  "The referent of teṣāṃ depends on prior context."
+ ],
+ "plain_english": "I shall speak the method of their names; listen, O beautiful-eyed one."
 }

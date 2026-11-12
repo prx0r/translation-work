@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[guggulu-of](guggulasya) [and](ca) [homa-by](homena) [all-sorrows](sarvaduḥkhāni) [destroy](nāśayet)
+[of-bdellium](guggulasya) [and](ca) [by-oblation](homena) [all+sorrows](sarva+duḥkhāni) [one-should-destroy](nāśayet)
 
 ## mukta-m0-p11-v252
-[red-sandalwood](raktacandanahomena) [by-homa](raktacandanahomena) [subdue](vaśyā) [indeed](hi) [men](puruṣāḥ) [women](striyaḥ)
+[by-red+sandalwood+oblation](rakta+candana+homena) [subdued](vaśyā) [indeed](hi) [men](puruṣāḥ) [women](striyaḥ)
 
 ## mukta-m0-p11-v253
-[musk](kastūrī) [offering](havanān) [mantrin](mantrī) [all](sarve) [subdued](vaśyā) [become](bhavanti) [indeed](hi)
+[by-musk+oblation](kastūrī+havanāt) [the-mantrin](mantrī) [all](sarve) [subdued](vaśyā) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p11-v254
-[sugar-ghee](śarkarāguḍahomena) [by-homa](śarkarāguḍahomena) [all-works](sarvakāryāṇi) [accomplish](sādhayet)
+[by-sugar+molasses+oblation](śarkarā+guḍa+homena) [all+tasks](sarva+kāryāṇi) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p11-v255
-[ghee-pudding](ghṛtapāyasahomena) [by-homa](ghṛtapāyasahomena) [subdue](vaśīkuryāt) [great-planets](mahāgrahān)
+[by-ghee+milk-rice+oblation](ghṛta+pāyasa+homena) [one-should-subdue](vaśīkuryāt) [great+planets](mahā+grahān)
 
 ## mukta-m0-p11-v256
-[three-worlds](trailokyaṃ) [subjection](vaśam) [obtain](āpnoti) [grain-increase](dhānyavṛddhir) [become](bhavet) [indeed](kila)
+[the-three+worlds](trai+lokyaṃ) [control](vaśam) [one-obtains](āpnoti) [grain+increase](dhānya+vṛddhiḥ) [becomes](bhavet) [indeed](kila)
 
 ## mukta-m0-p11-v257
-[full-pomegranate](pūrṇadāḍimbahomena) [by-homa](pūrṇadāḍimbahomena) [subdue](vaśīkuryāt) [great-planets](mahāgrahān)
+[by-full+pomegranate+oblation](pūrṇa+dāḍimba+homena) [one-should-subdue](vaśīkuryāt) [great+planets](mahā+grahān)
 
 ## mukta-m0-p11-v258
-[citron-fruit](mātuluṅgaphalaiḥ) [by-homa](homāt) [kshatriyas](kṣatriyā) [subdued](vaśagā) [certainly](dhruvam)
+[by-citron+fruits+oblation](mātuluṅga+phalaiḥ+homāt) [kṣatriyas](kṣatriyā) [under-control](vaśagā) [certainly](dhruvam)
 
 ## mukta-m0-p11-v259
-[ash-gourd-fruit](kuṣmāṇḍaphalahomena) [by-homa](kuṣmāṇḍaphalahomena) [shudras](śūdrā) [subdued](vaśyā) [become](bhavanti) [indeed](hi)
+[by-pumpkin+fruit+oblation](kuṣmāṇḍa+phala+homena) [śūdras](śūdrā) [subdued](vaśyā) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p11-v260
-[grape-fruit](drākṣāphalaiḥ) [accomplishments](siddhayo) [eight](aṣṭau) [lakh-homas](lakṣahomān) [no-doubt](na+saṃśayaḥ)
+[by-grape+fruits](drākṣā+phalaiḥ) [eight+siddhis](siddhayaḥ+aṣṭau) [by-hundred-thousand+oblations](lakṣa+homāt) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p11-v261
-[subdued](vaśyā) [ten](daśasaṃkhyātā) [numbered](daśasaṃkhyātā) [become](bhavantyeva) [no-doubt](na+saṃśayaḥ)
+[subdued](vaśyāḥ) [in-ten+number](daśa+saṃkhyātā) [become](bhavanti) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p11-v262
-[subdued](vaśyā) [twenty](viṃśatisaṃkhyātā) [numbered](viṃśatisaṃkhyātā) [become](bhavantyeva) [no-doubt](na+saṃśayaḥ)
+[subdued](vaśyāḥ) [in-twenty+number](viṃśati+saṃkhyātā) [become](bhavanti) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p11-v263
-[lakh](lakṣamātreṇa) [by-amount](mātreṇa) [mantra-knower](mantrajño) [king-like](rājatulyo) [become](bhaved) [certainly](dhruvam)
+[by-hundred-thousand+measure](lakṣa+mātreṇa) [mantra-knower](mantra+jñaḥ) [equal-to-king](rāja+tulyaḥ) [becomes](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p11-v264
-[four-oceans](catuḥsamudraparyantāṃ) [bounded](paryantāṃ) [earth](medinīṃ) [subjection](vaśam) [bring](ānayet)
+[up-to-four+oceans](catuḥ+samudra+paryantāṃ) [the-earth](medinīṃ) [under-control](vaśam) [one-should-bring](ānayet)
 
 ## mukta-m0-p11-v265
-[sugarcane-sticks](ikṣudaṇḍaiḥ) [happiness](sukhāvāpti) [obtain](sukhāvāpti) [that-subjection](tadvaśā) [king-daughters](rājakanyakāḥ)
+[by-sugarcane+stalks](ikṣu+daṇḍaiḥ) [attainment-of-happiness](sukha+avāptiḥ) [by-that+subdued](tat+vaśā) [royal+maidens](rāja+kanyakāḥ)
 
 ## mukta-m0-p11-v266
-[flower](puṣpaṃ) [whole](samagraṃ) [offer](juhuyāt) [lotus](kamalenāpi) [also](api) [abundant](puṣkalam)
+[flower](puṣpaṃ) [whole](samagraṃ) [one-should-offer](juhuyāt) [with-lotus](kamalena) [also](api) [abundantly](puṣkalam)
 
 ## mukta-m0-p11-v267
-[hundred](śatasaṃkhyāstilāścaiva) [numbered](śatasaṃkhyāstilāścaiva) [sesame](tilāḥ) [and](ca) [eva](eva) [mustard](rājikāḥ) [hundred](śatasaṃkhyayā) [numbered](śatasaṃkhyayā)
+[hundred+number](śata+saṃkhyāḥ) [sesame-seeds](tilāḥ) [and](ca) [indeed](eva) [mustard-seeds](rājikāḥ) [in-hundred+number](śata+saṃkhyayā)
 
 ## mukta-m0-p11-v268
-[half-culluka](cullukārddhaṃ) [thus](tathā) [milk](kṣīram) [food](annaṃ) [morsel](grāsamitaṃ) [become](bhavet)
+[half+handful](culluka+ārddhaṃ) [likewise](tathā) [milk](kṣīram) [food](annaṃ) [mouthful+measure](grāsa+mitaṃ) [should-be](bhavet)
 
 ## mukta-m0-p11-v269
-[mind-pleasing](manaḥpriyaiśca) [and](ca) [pieces](khaṇḍaiśca) [fruits](phalair) [become](bhavati) [certainly](niścayāt)
+[with-mind+pleasing](manaḥ+priyaiḥ) [and](ca) [with-pieces](khaṇḍaiḥ) [and](ca) [with-fruits](phalaiḥ) [it-becomes](bhavati) [certainly](niścayāt)
 
 ## mukta-m0-p11-v270
-[jackfruits](panasaiḥ) [fruit-filled](phalagarbhasthaiś) [mangoes](cūtair) [honey-mixed](madhuyutair) [offer](hunet)
+[with-jackfruits](panasaiḥ) [with-fruit+womb+situated](phala+garbha+sthaiḥ) [with-mangoes](cūtaiḥ) [with-honey+joined](madhu+yutaiḥ) [one-should-offer](hunet)
 
 ## mukta-m0-p11-v271
-[grape-fruit](drākṣāphalaṃ) [whole](samastaṃ) [be](syāt) [orange](nāgaraṅgañca) [and](ca) [date](kharjuram)
+[grape+fruit](drākṣā+phalaṃ) [whole](samastaṃ) [should-be](syāt) [orange](nāgaraṅgaṃ) [and](ca) [date](kharjuram)
 
 ## mukta-m0-p11-v272
-[gunja-like](guñjāsamānaṃ) [camphor](karpūraṃ) [musk](kastūrī) [saffron](ghusṛṇaṃ) [thus](tathā)
+[guñjā+equal](guñjā+samānaṃ) [camphor](karpūraṃ) [musk](kastūrī) [saffron](ghusṛṇaṃ) [likewise](tathā)
 
 ## mukta-m0-p11-v273
-[mind-pleasing](manaḥpriyāṇi) [all](sarvāṇi) [fruits](phalāni) [for-offering](havanāya) [and](ca)
+[mind+pleasing](manaḥ+priyāṇi) [all](sarvāṇi) [fruits](phalāni) [for-oblation](havanāya) [and](ca)
 
 ## mukta-m0-p11-v274
-[another-method](prakārāntaram) [is-said](ucyate)
+[another+method](prakāra+antaram) [is-stated](ucyate)
 
 ## mukta-m0-p11-v275
-[become](bhavanti) [attracting](karṣamāṇañca) [and](ca) [jaggery](guḍaṃ) [half-pala](palārddhamātrakam)
+[become](bhavanti) [karṣa+measure](karṣa+māṇam) [and](ca) [molasses](guḍaṃ) [half+pala+measure](pala+ārddha+mātrakam)

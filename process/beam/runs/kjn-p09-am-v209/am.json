@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 209,
- "question": "What claim about attainment requires success to follow only from knowing the sixty-fourfold method and not from any other way?",
+ "question": "What condition is necessary for success in the prescribed method?",
  "premises": [
-  "The method of eight times eight is to be known.",
-  "One who knows it succeeds.",
+  "The eight-times-eight method must be known.",
+  "Success follows from this knowledge.",
   "Success does not occur otherwise."
  ],
- "inference": "Attainment is possible only by knowing the eight-times-eight method, not by any other means.",
- "uncertainties": [],
- "plain_english": "Indeed, having known the method of eight times eight, one succeeds; not otherwise."
+ "inference": "Knowledge of the eight-times-eight method is indispensable for success.",
+ "uncertainties": [
+  "The precise content of the eight-times-eight method is not detailed here."
+ ],
+ "plain_english": "Having known the eight-times-eight method, one succeeds; not otherwise."
 }

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[worshipper](pūjakaḥ) [worship](pūjanaṃ) [worshipped](pūjyam) [thus](iti) [all](sarvaṃ) [shiva](śivaḥ) [situated](sthitaḥ)
+[worshipper](pūjakaḥ) [worship](pūjanaṃ) [worshipped](pūjyam) [thus](iti) [all](sarvaṃ) [Śiva](śivaḥ) [stands](sthitaḥ)
+
 ## mukta-m0-p34-v827
-[in-all-forms](sarvākāreṣu) [by-enjoyable](bhogyena) [sacrifice](yajanaṃ) [my](mama) [occurs](vartate)
+[in-all+forms](sarva+ākāreṣu) [by-enjoyment](bhogyena) [worship](yajanaṃ) [of-me](mama) [occurs](vartate)
+
 ## mukta-m0-p34-v828
-[to-shiva](śivaṃ) [I-go](yāmi) [shiva](śivo) [I-go](yāmi) [by-shiva](śivena) [shiva-accomplishment](śivasādhanaḥ)
+[to-Śiva](śivaṃ) [I-go](yāmi) [Śiva](śivaḥ) [I-go](yāmi) [by-Śiva](śivena) [having-Śiva+as-means](śiva+sādhanaḥ)
+
 ## mukta-m0-p34-v829
-[shiva](śivo) [enjoyer](bhoktā) [shiva](śivo) [enjoyable](bhojyaṃ) [in-shivas](śiveṣu) [shiva-accomplishment](śivasādhanaḥ)
+[Śiva](śivaḥ) [enjoyer](bhoktā) [Śiva](śivaḥ) [enjoyable](bhojyaṃ) [among-Śivas](śiveṣu) [having-Śiva+as-means](śiva+sādhanaḥ)
+
 ## mukta-m0-p34-v830
-[shiva](śivaḥ) [doer](kartā) [shiva](śivaḥ) [action](karma) [I-am-shiva](śivo'smi) [instrument-natured](karaṇātmakaḥ)
+[Śiva](śivaḥ) [doer](kartā) [Śiva](śivaḥ) [action](karma) [Śiva](śivaḥ) [I-am](asmi) [of-instrument+nature](karaṇa+ātmakaḥ)
+
 ## mukta-m0-p34-v831
-[by-meditation-and-instrument](bhāvanākaraṇābhyāṃ) [what](kiṃ) [of-shiva](śivasya) [of-constant-rising](satatoditeḥ)
+[by-contemplation+and-non-doing](bhāvanā+akaraṇābhyāṃ) [what](kiṃ) [of-Śiva](śivasya) [always+shining-forth](satata+uditeḥ)
+
 ## mukta-m0-p34-v832
-[what-visible](yaddṛśyaṃ) [and](yacca) [what-touchable](saṃspṛśyaṃ) [what-smellable](yadghreyaṃ) [tasty](rasyam) [indeed](eva) [what](yat)
+[what](yat) [visible](dṛśyaṃ) [and-what](yat) [and](ca) [touchable](saṃspṛśyaṃ) [what](yat) [smellable](ghreyaṃ) [tastable](rasyam) [indeed](eva) [what](yat)
+
 ## mukta-m0-p34-v833
-[in-goable](gamye) [in-graspable](grāhye) [and](tathā) [in-speakable](vācye) [in-pleasure-etc](sukhādāvapi) [always](sarvadā)
+[in-what-is-to-be-gone-to](gamye) [in-what-is-to-be-grasped](grāhye) [likewise](tathā) [in-what-is-to-be-spoken](vācye) [in-pleasure+etc.](sukha+ādau) [also](api) [always](sarvadā)
+
 ## mukta-m0-p34-v834
-[in-thinkable](mantavye) [and](cābhimātavye) [in-self-conceited](boddhavye) [in-knowable](dhṛtisaṃgamāt) [by-firmness-union](dhṛtisaṃgamāt)
+[in-what-is-to-be-thought](mantavye) [and-in-what-is-to-be-considered](ca) [abhimātavye](abhimātavye) [in-what-is-to-be-known](boddhavye) [by-firmness+connection](dhṛti+saṃgamāt)
+
 ## mukta-m0-p34-v835
-[established](pratipāditam) [this-much](etāvat) [all](sarvam) [indeed](eva) [shiva-natured](śivātmakam)
+[explained](pratipāditam) [this-much](etāvat) [all](sarvam) [indeed](eva) [of-Śiva+nature](śiva+ātmakam)
+
 ## mukta-m0-p34-v836
-[becomes](bhavati) [shiva-filled-self](śivamayātmā) [by-all-bhava](sarvabhāvena) [all](sarvaḥ)
+[becomes](bhavati) [of-Śiva+nature](śiva+mayaḥ) [self](ātmā) [by-all+manner](sarva+bhāvena) [all](sarvaḥ)
+
 ## mukta-m0-p34-v837
-[of-sages](ṛṣīṇāṃ) [in-mouth-cavity](vaktrakuhare) [in-them-indeed](teṣvevānugrahakriyā) [grace-action](teṣvevānugrahakriyā)
+[of-the-sages](ṛṣīṇāṃ) [in-mouth+cavity](vaktra+kuhare) [in-them](teṣu) [indeed](eva) [grace+action](anugraha+kriyā)
+
 ## mukta-m0-p34-v838
-[in-Kalapi-village-chief](kalāpigrāmapramukhe) [in-cut-off](samucchinne) [and](ca) [in-teaching](śāsane)
+[in-Kalāpigrāma+beginning](kalāpigrāma+pramukhe) [ceased](samucchinne) [and](ca) [teaching](śāsane)
+
 ## mukta-m0-p34-v839
-[for-grace](anugrahāyāvatīrṇaś) [descended](codayāmāsa) [urged](bhūtale) [on-earth](bhūtale)
+[for-grace](anugrahāya) [descended](avatīrṇaḥ) [urged](codayāmāsa) [on-earth](bhūtale)
+
 ## mukta-m0-p34-v840
-[not-be-cut](nocchidyeta) [as](yathā) [scripture](śāstraṃ) [secret](rahasyaṃ) [make](kuru) [such](tādṛśam)
+[may-not-be-cut-off](na) [ucchidyeta](ucchidyeta) [as](yathā) [scripture](śāstraṃ) [secret](rahasyaṃ) [make](kuru) [such](tādṛśam)
+
 ## mukta-m0-p34-v841
-[created](sasarja) [mental](mānasaṃ) [son](putraṃ) [Tryambaka-Aditya-named](tryambakādityanāmakam)
+[created](sasarja) [mind-born](mānasaṃ) [son](putraṃ) [Tryambakāditya+named](tryambakāditya+nāmakam)
+
 ## mukta-m0-p34-v842
-[he-also](so'pi) [having-gone](gatvā) [cave](guhāṃ) [properly](samyak) [Tryambaka-named](tryambakākhyāṃ) [then](tataḥ) [beyond](param)
+[he](saḥ) [also](api) [having-gone](gatvā) [to-cave](guhāṃ) [properly](samyak) [Tryambaka+named](tryambaka+ākhyāṃ) [then](tataḥ) [after](param)
+
 ## mukta-m0-p34-v843
-[to-sky](kham) [rose](utpapāta) [perfected](saṃsiddhaḥ) [his-son-also](tatputro'pi) [thus](tathā) [thus](tathā)
+[to-sky](kham) [leapt-up](utpapāta) [accomplished](saṃsiddhaḥ) [his+son](tat+putraḥ) [also](api) [likewise](tathā) [likewise](tathā)
+
 ## mukta-m0-p34-v844
-[until-fifteenth](yāvatpañcadaśaḥ) [son](putraḥ) [all-scripture-expert](sarvaśāstraviśāradaḥ)
+[until](yāvat) [fifteenth](pañcadaśaḥ) [son](putraḥ) [all+scriptures+skilled](sarva+śāstra+viśāradaḥ)
+
 ## mukta-m0-p34-v845
-[outward-facing](bahirmukhasya) [his](tasyātha) [then](brāhmaṇī) [brahmin-woman](kācideva) [some](hi) [indeed](hi)
+[of-outward-facing](bahirmukhasya) [of-him](tasya) [then](atha) [Brahmin-woman](brāhmaṇī) [some](kācit) [indeed](eva) [indeed](hi)
+
 ## mukta-m0-p34-v846
-[seeing](dṛṣṭvā) [her](tāṃ) [with-marks](lakṣaṇairyuktāṃ) [endowed](yogyāṃ) [suitable](kanyām) [girl](athātmanaḥ) [for-self](athātmanaḥ)
+[having-seen](dṛṣṭvā) [her](tāṃ) [with-marks+endowed](lakṣaṇaiḥ+yuktāṃ) [suitable](yogyāṃ) [daughter](kanyām) [then](atha) [for-himself](ātmanaḥ)
+
 ## mukta-m0-p34-v847
-[having-requested](arthayitvā) [brahmin-woman](brāhmaṇīṃ) [her](tām) [brought](ānayāmāsa) [carefully](yatnataḥ)
+[having-requested](arthayitvā) [Brahmin-woman](brāhmaṇīṃ) [her](tām) [brought](ānayāmāsa) [with-effort](yatnataḥ)
+
 ## mukta-m0-p34-v848
-[by-him](tena) [who](yaḥ) [he](sa) [and](ca) [in-time](kālena) [to-Kashmir](kaśmīreṣvāgato) [came](bhraman) [wandering](bhraman)
+[by-him](tena) [who](yaḥ) [he](sa) [and](ca) [at-time](kālena) [in-Kashmir](kaśmīreṣu) [came](āgataḥ) [wandering](bhraman)
+
 ## mukta-m0-p34-v849
-[of-him-also](tasyāpyabhūt) [became](sa) [he](bhagavān) [lord](aruṇādityasaṃjñakaḥ) [Aruna-Aditya-named](aruṇādityasaṃjñakaḥ)
+[of-him](tasya) [also](api) [was-born](abhūt) [he](sa) [venerable](bhagavān) [Aruṇāditya+named](aruṇāditya+saṃjñakaḥ)
+
 ## mukta-m0-p34-v850
-[from-him](tasmādasmi) [I-am](samudbhūtaḥ) [born](somānandākhya) [Somananda-named](īdṛśaḥ) [such](īdṛśaḥ)
+[from-him](tasmāt) [I](asmi) [born](samudbhūtaḥ) [Somānanda+named](somānandākhyaḥ) [such](īdṛśaḥ)

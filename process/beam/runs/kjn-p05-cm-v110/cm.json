@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sa",
-   "morph": "pron.dem.m.nom.sg",
-   "grounds": "demonstrative pronoun, masculine nominative singular"
+   "morph": "m.nom.sg",
+   "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "n.inst.sg (compound: deha+modifier, tyakta+modifier, mātra+head)",
-   "grounds": "instrumental singular of compound deha-tyakta-mātra"
+   "morph": "compound = member+membership",
+   "grounds": "compound = deha+tyakta+mātra; instrumental as given"
   },
   {
    "lemma": "paraṃ",
-   "morph": "adv.",
-   "grounds": "adverbial or neuter accusative usage"
+   "morph": "m.acc.sg",
+   "grounds": "accusative of para"
   },
   {
    "lemma": "śivo",
    "morph": "m.nom.sg",
-   "grounds": "masculine nominative singular noun"
+   "grounds": "nominative of śiva"
   },
   {
    "lemma": "nigadyate",
-   "morph": "3.sg.pres.pass (√gad)",
-   "grounds": "present passive third person singular of ni-gad"
+   "morph": "3.sg.pass.pres",
+   "grounds": "passive of nigad, 3rd person"
   }
  ]
 }

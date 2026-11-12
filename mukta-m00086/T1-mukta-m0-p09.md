@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-sāmānyam common sarva-devīnām all-goddesses mukham face etat this samīritam declared
+[common](sāmānyaṃ) [of-all+goddesses](sarva+devīnāṃ) [face](mukham) [this](etat) [declared](samīritam)
+
 ## mukta-m0-p09-v202
-vibhāvya visualize āvāhayet invoke devīm goddess śrīmat-tripura-sundarīm glorious-tripura-beauty
+[having-visualized](vibhāvya) [should-invoke](āvāhayet) [goddess](devīṃ) [glorious+tripurasundarī](śrīmat+tripurasundarīm)
+
 ## mukta-m0-p09-v203
-ājyena ghee juhuyāt offer mantrī mantra-knower vaktra-ekīkaraṇam face-unification tu indeed idam this
+[with-clarified-butter](ājyena) [should-offer](juhuyāt) [priest](mantrī) [mouth+unification](vaktra+ekīkaraṇaṃ) [indeed](tu) [this](idam)
+
 ## mukta-m0-p09-v204
-nāḍī-sandhānam channel-joining uddiṣṭam declared etat this āgama-vedibhiḥ by-agama-knowers
+[channel+junction](nāḍī+sandhānam) [declared](uddiṣṭam) [this](etat) [by-āgama+knowers](āgama+vedibhiḥ)
+
 ## mukta-m0-p09-v205
-saṅkalpam resolve ca and tataḥ then kṛtvā having-made kāmya-homam desire-offering samācaret perform
+[resolve](saṅkalpam) [and](ca) [then](tataḥ) [having-made](kṛtvā) [desire+oblation](kāmya+homam) [should-perform](samācaret)
+
 ## mukta-m0-p09-v206
-juhuyāt offer jvalite blazing vahnau fire saṃkhyām count ca and paritaścaret circumambulate
+[should-offer](juhuyāt) [in-blazing](jvalite) [fire](vahnau) [number](saṃkhyām) [and](ca) [around](paritaḥ) [should-move](caret)
+
 ## mukta-m0-p09-v207
-yadi if kāmī desirous bhavet be ca eva and-indeed śūdraḥ śūdra api even homa-karmaṇi in-homa-rite
+[if](yadi) [desirous](kāmī) [should-be](bhavet) [and](ca) [indeed](eva) [śūdra](śūdraḥ) [also](api) [in-oblation+rite](homa+karmaṇi)
+
 ## mukta-m0-p09-v208
-vārāhī-tantra-rājasya of-vārāhī-tantra-king matam opinion etat this udīritam declared
+[of-vārāhī+tantra+king](vārāhī+tantra+rājasya) [opinion](matam) [this](etat) [declared](udīritam)
+
 ## mukta-m0-p09-v209
-uccāṭe in-expulsion vāyu-jihvāyām wind-tongue madhya-sthāyām middle-placed tu and māraṇe in-killing
+[in-expulsion](uccāṭe) [in-wind+tongue](vāyu+jihvāyām) [in-middle-situated](madhya+sthāyām) [but](tu) [in-killing](māraṇe)
+
 ## mukta-m0-p09-v210
-vilva-akṣa-śīgru-ghaṭitam bilva-akṣa-śigru-composed māraṇa-uccaṭana-ādiṣu in-killing-expulsion-etc
+[bilva+seed+moringa+composed](vilva+akṣa+śīgru+ghaṭitam) [in-killing+expulsion+etc](māraṇa+uccaṭana+ādiṣu)
+
 ## mukta-m0-p09-v211
-tisraḥ three mudrāḥ seals smṛtāḥ remembered home in-homa mṛgī deer haṃsī swan ca and kasturī musk
+[three](tisraḥ) [hand-gestures](mudrāḥ) [remembered](smṛtāḥ) [in-oblation](home) [mṛgī](mṛgī) [haṃsī](haṃsī) [and](ca) [kasturī](kasturī)
+
 ## mukta-m0-p09-v212
-mṛgī deer kaniṣṭhā-tarjanyau little-ring-and-index tyaktvā abandoning mudrā-trayam three-seals smṛtam remembered
+[mṛgī](mṛgī) [little-finger+forefinger](kaniṣṭhā+tarjanyau) [having-abandoned](tyaktvā) [gesture+triad](mudrā+trayam) [remembered](smṛtam)
+
 ## mukta-m0-p09-v213
-yajñe in-sacrifice śāntika-kārye in-peace-rite ca and mṛgī deer haṃsī swan prakīrtitā proclaimed
+[in-sacrifice](yajñe) [in-pacification+work](śāntika+kārye) [and](ca) [mṛgī](mṛgī) [haṃsī](haṃsī) [proclaimed](prakīrtitā)
+
 ## mukta-m0-p09-v214
-śāntau in-peace vaśye in-subjugation tathā likewise stambhe in-stupefaction vidveṣa-uccaṭa-māraṇe in-enmity-expulsion-killing
+[in-pacification](śāntau) [in-subjugation](vaśye) [likewise](tathā) [in-paralyzing](stambhe) [in-hatred+expulsion+killing](vidveṣa+uccaṭa+māraṇe)
+
 ## mukta-m0-p09-v215
-bālā-bījaiḥ with-bālā-seeds yathā-nyāyam duly śrī-vidyām śrīvidyā pūjayet worship tataḥ then
+[with-bālā+seeds](bālā+bījaiḥ) [according-to-rule](yathā+nyāyam) [śrīvidyā](śrīvidyām) [should-worship](pūjayet) [then](tataḥ)
+
 ## mukta-m0-p09-v216
-ghṛtena with-ghee srucam ladle āpūrya filling puṣpam flower agre before nidhāya placing ca and
+[with-ghee](ghṛtena) [ladle](srucam) [having-filled](āpūrya) [flower](puṣpam) [at-tip](agre) [having-placed](nidhāya) [and](ca)
+
 ## mukta-m0-p09-v217
-yava-rūpām barley-formed hunet offer dhārām stream jaya-ghoṣa-puraḥsaraiḥ with-victory-shout-foremost
+[barley+form](yava+rūpām) [should-offer](hunet) [stream](dhārām) [victory+shout+preceded-by](jaya+ghoṣa+puraḥsaraiḥ)
+
 ## mukta-m0-p09-v218
-ātma-arpaṇena with-self-offering manunā mantra hunet offer aṣṭa-āhutim eight-offerings kramāt in-order
+[with-self+offering](ātma+arpaṇena) [with-mantra](manunā) [should-offer](hunet) [eight+oblations](aṣṭa+āhutim) [in-order](kramāt)
+
 ## mukta-m0-p09-v219
-itaḥ from-here pūrvam before iti thus procya saying prāṇa-buddhiḥ life-intellect iti thus ca and uccaret utter
+[from-here](itaḥ) [before](pūrvam) [thus](iti) [having-said](procya) [prāṇabuddhi](prāṇabuddhi) [thus](iti) [and](ca) [should-utter](uccaret)
+
 ## mukta-m0-p09-v220
-avasthāsu in-states manasā with-mind iti thus vācā with-speech ca and karmaṇā with-action iti thus ca and
+[in-states](avasthāsu) [manas](manas) [thus](iti) [by-speech](vācā) [and](ca) [by-action](karmaṇā) [thus](iti) [and](ca)
+
 ## mukta-m0-p09-v221
-śiṅā mantra yat which smṛtam remembered iti thus etat this yat which uktam said yat which kṛtam done tathā likewise
+[śiṅā](śiṅā) [what](yat) [remembered](smṛtam) [thus](iti) [this](etat) [what-spoken](yat+uktam) [what-done](yat+kṛtam) [likewise](tathā)
+
 ## mukta-m0-p09-v222
-ṅe-antām ending-in-ṅe samarpitam offered tāram tāra tat that sadā-ātma-arpaṇe in-eternal-self-offering manuḥ mantra
+[ending-in-ṅe](ṅe+antām) [offered](samarpitam) [oṃ](tāram) [that](tat) [sat](sat) [in-self+offering](ātma+arpaṇe) [mantra](manuḥ)
+
 ## mukta-m0-p09-v223
-abhyukṣya sprinkling pūjayet worship vahnim fire gandha-puṣpa-ādinā with-incense-flowers-etc sudhīḥ wise-one
+[having-sprinkled](abhyukṣya) [should-worship](pūjayet) [fire](vahnim) [with-fragrance+flower+etc](gandha+puṣpa+ādinā) [wise-one](sudhīḥ)
+
 ## mukta-m0-p09-v224
-eka-ekām each-one āhutim offering hutvā having-offered tat-tat-mantreṇa by-respective-mantra deśikaḥ teacher
+[one-by-one](eka+ekām) [oblation](āhutim) [having-offered](hutvā) [with-that+that+mantra](tat+tat+mantreṇa) [teacher](deśikaḥ)
+
 ## mukta-m0-p09-v225
-anena by-this agnim fire ca and saṃprārthya requesting kṣamasva forgive iti thus visarjayet dismiss
+[with-this](anena) [fire](agnim) [and](ca) [having-entreated](saṃprārthya) [kṣamasva](kṣamasva) [thus](iti) [should-dismiss](visarjayet)

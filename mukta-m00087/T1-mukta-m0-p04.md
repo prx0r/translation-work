@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[this](etad) [speech-born](vāgbhavam) [having-written](ālikhya) [all-sciences](sarvavidyāḥ) [should-uplift](samuddharet)
+[this](etad) [speech-born](vāgbhavam) [having-written](ālikhya) [all+vidyās](sarva+vidyāḥ) [one-should-extract](samuddharet)
 
 ## mukta-m0-p04-v77
-[abandoning](hitvā) [younger-brother](anujaṃ) [Shiva](śivaṃ) [with-tip](sāgraṃ) [this-vidya](vidyeyaṃ) [Manu-worshipped](manupūjitā)
+[having-abandoned](hitvā) [younger-brother](anujaṃ) [śiva](śivaṃ) [with-agra](sāgraṃ) [vidyā](vidyā) [this](iyaṃ) [manu+worshipped](manu+pūjitā)
 
 ## mukta-m0-p04-v78
-[moon](candra) [worshipped](ārādhita) [vidya](vidyā) [this](eyaṃ) [enjoyment](bhukti) [liberation](mukti) [giver](pradāyinī)
+[by-candra+worshipped](candra+ārādhita) [vidyā](vidyā) [this](iyaṃ) [enjoyment+liberation+bestowing](bhukti+mukti+pradāyinī)
 
 ## mukta-m0-p04-v79
-[Kubera](kubera) [worshipped](ārādhitā) [vidya](vidyā) [enjoyment](bhukti) [liberation](mukti) [fruit](phala) [giver](pradā)
+[by-kubera+worshipped](kubera+ārādhitā) [vidyā](vidyā) [enjoyment+liberation+fruit+giving](bhukti+mukti+phala+pradā)
 
 ## mukta-m0-p04-v80
-[Kama](kāma) [worshipped](ārādhitā) [vidya](vidyā) [but](tu) [before](puraiva) [proclaimed](parikīrtitā)
+[by-kāma+worshipped](kāma+ārādhita) [vidyā](vidyā) [indeed](tu) [before+indeed](purā+eva) [fully-described](parikīrtitā)
 
 ## mukta-m0-p04-v81
-[thus](tathā) [Lopa](lopā) [great-vidya](mahāvidyā) [she-this-here](saivātra) [Agastya-worshipped](agastyapūjitā)
+[likewise](tathā) [lopā](lopā) [great+vidyā](mahā+vidyā) [she+indeed](sā+eva) [here](atra) [by-agastya+worshipped](agastya+pūjitā)
 
 ## mukta-m0-p04-v82
-[Shakti](śakti) [Agastya-vidya-this](agastyavidyeyaṃ) [Nandi-worshipped-deity](nandyārādhitadevatā)
+[in-śakti](śaktau) [agastya+vidyā](agastya+vidyā) [this](iyaṃ) [by-nandin+worshipped+deity](nandi+ārādhita+devatā)
 
 ## mukta-m0-p04-v83
-[with](saha) [beginning](ādya) [end](ante) [with-two](sahayoḥ) [middle](madhye) [who](kaḥ) [sun-worshipped](sūryapūjitā)
+[with-sa+beginning](sa+ha+ādya) [mantra](mante) [of-sa+ha](sa+ha+yoḥ) [in-middle](madhye) [kaḥ](kaḥ) [by-sūrya+worshipped](sūrya+pūjitā)
 
 ## mukta-m0-p04-v84
-[ha-beginning](hasādyaṃ) [Vishnu-worshipped-this](viṣṇupūjyeyaṃ) [six-peaked](ṣaṭkūṭā) [supreme-goddess](parameśvarī)
+[ha+beginning](ha+sa+ādyaṃ) [by-viṣṇu+worshipped](viṣṇu+pūjyā) [this](iyaṃ) [six+parted](ṣaṭ+kūṭā) [supreme+goddess](parama+īśvarī)
 
 ## mukta-m0-p04-v85
-[Vishnu-vidya-fifth-and](viṣṇuvidyāpañcamañca) [Skanda-worshipped-deity](skandārādhitadevatā)
+[viṣṇu+vidyā](viṣṇu+vidyā) [fifth](pañcamam) [and](ca) [by-skanda+worshipped+deity](skanda+ārādhita+devatā)
 
 ## mukta-m0-p04-v86
-[four-peaked](catuḥkūṭā) [great-vidya](mahāvidyā) [by-Shankara](śaṅkareṇa) [well-worshipped](prapūjitā)
+[four+parted](catuḥ+kūṭā) [great+vidyā](mahā+vidyā) [by-śaṅkara](śaṅkareṇa) [fully+worshipped](prapūjitā)
 
 ## mukta-m0-p04-v87
-[Shakti-peak](śaktikūṭaṃ) [three-syllable-and](trikārṇañca) [of-Kamaraja](kāmarājasya) [should-write](saṃlikhet)
+[śakti+part](śakti+kūṭaṃ) [three+syllabled](tri+kārṇam) [and](ca) [of-kāmarāja](kāmarājasya) [one-should-write](saṃlikhet)
 
 ## mukta-m0-p04-v88
-[by-Durvasa](durvāsasā) [worshipped-this](pūjiteyaṃ) [human-aims-giver](puruṣārthapradāyinī)
+[by-durvāsas](durvāsasā) [worshipped](pūjitā) [this](iyaṃ) [human-goals+bestowing](puruṣa+artha+pradāyinī)
 
 ## mukta-m0-p04-v89
-[other-also](anye'pi) [pure](śuddhā) [differences](bhedāḥ) [may-be](syuḥ) [are-told](kathyante) [Tantra-path](tantravartmanā)
+[others](anye) [also](api) [pure](śuddhāḥ) [divisions](bhedāḥ) [may-be](syuḥ) [are-told](kathyante) [by-tantra+path](tantra+vartmanā)
 
 ## mukta-m0-p04-v90
-[difference-but](bhedastu) [of-Manu-vidya](manuvidyāyā) [not-is](nāsti) [in-all-agamas-even](sarvāgameṣvapi)
+[difference](bhedaḥ) [but](tu) [of-manu+vidyā](manu+vidyāyāḥ) [not](na) [exists](asti) [in-all+āgamas](sarva+āgameṣu) [even](api)
 
 ## mukta-m0-p04-v91
-[these](ete) [in-Kama](kāme) [and](ca) [third](tārttīye) [second](dvitīyā) [moon-worshipped](candrapūjitā)
+[these](ete) [in-kāma](kāme) [and](ca) [in-tārttīya](tārttīye) [second](dvitīyā) [by-candra+worshipped](candra+pūjitā)
 
 ## mukta-m0-p04-v92
-[Shiva-Kamesha-Shakti-Ilas](śivakāmeśaśaktīlāḥ) [supreme](parā) [Kubera-worshipped](dhanadapūjitā)
+[śiva+kāmeśa+śakti](śiva+kāmeśa+śaktī) [lāḥ](lāḥ) [supreme](parā) [by-dhanada+worshipped](dhanada+pūjitā)
 
 ## mukta-m0-p04-v93
-[of-Agastya](agastyasya) [great-vidya](mahāvidyā) [Kamaraja](kāmarājaḥ) [he](sa) [indeed](eva) [indeed](hi)
+[of-agastya](agastyasya) [great+vidyā](mahā+vidyā) [kāmarāja](kāmarājaḥ) [he](saḥ) [indeed](eva) [that](hi)
 
 ## mukta-m0-p04-v94
-[sa-ha-kama-beginning](sa-ha-kāmādi) [kama-end](kāmāntaṃ) [in-Shakti](śaktau) [Nandi-well-worshipped](nandiprapūjitā)
+[sa+ha+kāma+beginning](sa+ha+kāma+ādi) [kāma+ending](kāma+antaṃ) [in-śakti](śaktau) [by-nandin+fully+worshipped](nandi+prapūjitā)
 
 ## mukta-m0-p04-v95
-[difference-but](bhedastu) [of-sun-vidya](sūryavidyāyā) [here](atra) [not-is](nāsti) [ever](kadācana)
+[difference](bhedaḥ) [but](tu) [of-sūrya+vidyā](sūrya+vidyāyāḥ) [here](atra) [not](na) [exists](asti) [ever](kadācana)
 
 ## mukta-m0-p04-v96
-[in-Shakti](śaktau) [kama-last](kāmāntimaṃ) [vidya](vidyā) [second](dvitīyā) [Vishnu-worshipped](viṣṇupūjitā)
+[in-śakti](śaktau) [kāma+ending](kāma+antimaṃ) [vidyā](vidyā) [second](dvitīyā) [by-viṣṇu+worshipped](viṣṇu+pūjitā)
 
 ## mukta-m0-p04-v97
-[in-speech](vāci) [in-Kama](kāme) [thus](tathā) [in-Shakti](śaktau) [Skanda-worshipped-other](skandapūjyā'parā) [may-be](bhavet)
+[in-vāc](vāci) [in-kāma](kāme) [likewise](tathā) [in-śakti](śaktau) [by-skanda+worshipped](skanda+pūjyā) [another](aparā) [may-be](bhavet)
 
 ## mukta-m0-p04-v98
-[in-Kama](kāme) [three-end](trayānte) [bhu-ji-vau](bhūjīvau) [three-peaked](trikūṭā) [Shiva-worshipped](śivapūjitā)
+[in-kāma](kāme) [three+ending](traya+ante) [bhū+jīva](bhū+jīvau) [three+parted](tri+kūṭā) [by-śiva+worshipped](śiva+pūjitā)
 
 ## mukta-m0-p04-v99
-[of-Agastya](agastyasya) [great-vidya](mahāvidyā) [she-this-here-Agastya-worshipped](saivātrāgastyapūjitā)
+[of-agastya](agastyasya) [great+vidyā](mahā+vidyā) [she+indeed](sā+eva) [here](atra) [by-agastya+worshipped](agastya+pūjitā)
 
 ## mukta-m0-p04-v100
-[these](ete) [differences](bhedāḥ) [well-declared](samākhyātāḥ) [pure](śuddhāḥ) [accomplishment-giving](siddhipradāyakāḥ)
+[these](ete) [divisions](bhedāḥ) [fully-declared](samākhyātāḥ) [pure](śuddhāḥ) [siddhi+bestowing](siddhi+pradāyakāḥ)

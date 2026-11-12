@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first",
-   "grounds": "first member of compound indicating eight groups of eight"
+   "morph": "compound-member",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭaka+second",
-   "grounds": "second member of compound qualifying vibhāgam"
+   "morph": "compound-member",
+   "grounds": "second member indicating sets of eight"
   },
   {
    "lemma": "vibhāgam",
@@ -20,17 +20,17 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle marking continuation or emphasis"
+   "grounds": "connective particle"
   },
   {
    "lemma": "parijñātum",
-   "morph": "inf./√jñā",
-   "grounds": "infinitive expressing purpose"
+   "morph": "(indecl.)",
+   "grounds": "purpose of the request"
   },
   {
    "lemma": "anantathā",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating thorough or limitless manner"
+   "grounds": "manner or extent of knowing"
   }
  ]
 }

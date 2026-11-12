@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-naimittike (occasional) ca (and) paridhīn (boundaries) nitye (in-eternal) na (not) eva (indeed) ca (and) saṃdahet (burns)
+[in-occasional-rite](naimittike) [and](ca) [enclosing-sticks](paridhīn) [in-regular-rite](nitye) [not](na) [indeed](eva) [and](ca) [one-should-burn](saṃdahet)
 
 ## mukta-m0-p10-v227
-iti (thus) śrī-pūrṇānanda-paramahaṃsa-viracite (composed-by-sri-purnananda-paramahamsa) śrī-tattva-cintāmaṇau (in-sri-tattvacintamani) aṣṭamaḥ (eighth) prakāśaḥ (chapter)
+[thus](iti) [śrī+pūrṇānanda+paramahaṃsa+composed](śrīpūrṇānandaparamahaṃsaviracite) [in-śrī+tattva+cintāmaṇi](śrītattvacintāmaṇau) [eighth](aṣṭamaḥ) [chapter](prakāśaḥ)
 
 ## mukta-m0-p10-v228
-atha (now) prasaṅgāt (by-occasion) vakṣyāmi (I-will-speak) homa-dravyasya (of-homa-substance) lakṣaṇam (characteristic)
+[now](atha) [by-context](prasaṅgād) [I-shall-tell](vakṣyāmi) [oblation+material's](homadravyasya) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p10-v229
-mūḍhasya (of-foolish) api (even) ca (and) mūkasya (of-mute) śilā-rūpasya (of-stone-form) na (not) anyathā (otherwise)
+[of-fool](mūḍhasya) [also](api) [and](ca) [of-mute](mūkasya) [of-stone+like](śilārūpasya) [not](na) [otherwise](anyathā)
 
 ## mukta-m0-p10-v230
-yoṣitaḥ (women) sakalāḥ (all) vaśyāḥ (submissive) dāsī-bhūtāḥ (become-servants) bhavanti (become) hi (indeed)
+[women](yoṣitaḥ) [all](sakalā) [subdued](vaśyā) [slave+become](dāsībhūtā) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p10-v231
-hutvā (having-offered) lakṣam (hundred-thousand) vaśīkuryāt (subjugates) viṃśatim (twenty) dharaṇī-bhujām (earth-rulers)
+[having-offered](hutvā) [hundred-thousand](lakṣaṃ) [one-subdues](vaśīkuryād) [twenty](viṃśatiṃ) [earth+kings](dharaṇībhujām)
 
 ## mukta-m0-p10-v232
-madhu-akta-karavīraiḥ (with-honey-anointed-oleander) tu (but) sāṅgam (with-limbs) bhūpam (king) vaśam (subjection) nayet (leads)
+[with-honey+smeared+oleander](madhvaktakaravīraistu) [with-limbs](sāṅgaṃ) [king](bhūpaṃ) [under-control](vaśaṃ) [one-brings](nayet)
 
 ## mukta-m0-p10-v233
-pāṭalaiḥ (with-patala-flowers) yūthikā-kundaiḥ (with-jasmine-and-kunda) śata-patraiḥ (with-hundred-petaled) ca (and) jātibhiḥ (with-jasmine)
+[with-pāṭala](pāṭalair) [with-yūthikā+kundas](yūthikākundaiḥ) [with-hundred-petaled](śatapatraiśca) [with-jasmine](jātibhiḥ)
 
 ## mukta-m0-p10-v234
-sarva-saubhāgyam (all-prosperity) āpnoti (obtains) buddhyā (by-intellect) ca (and) vāk-patiḥ (lord-of-speech) bhavet (becomes)
+[all+good-fortune](sarvasaubhāgyam) [one-obtains](āpnoti) [by-intelligence](buddhyā) [and](ca) [lord+of-speech](vākpatir) [one-becomes](bhavet)
 
 ## mukta-m0-p10-v235
-rakta-utpalaiḥ (with-red-lotuses) jagat (world) vaśyam (submissive) rājānaḥ (kings) vaśagāḥ (subject) kṣaṇāt (instantly)
+[with-red+lotuses](raktotpalair) [world](jagad) [subdued](vaśyaṃ) [kings](rājāno) [under-control+gone](vaśagāḥ) [in-an-instant](kṣaṇāt)
 
 ## mukta-m0-p10-v236
-śveta-utpalaiḥ (with-white-lotuses) śriyam (prosperity) vācam (speech) labhate (obtains) havanāt (from-offering) dhruvam (certainly)
+[with-white+lotuses](śvetotpalaiḥ) [prosperity](śriyaṃ) [speech](vācaṃ) [one-obtains](labhate) [from-oblation](havanād) [certainly](dhruvam)
 
 ## mukta-m0-p10-v237
-vakulasya (of-vakula) phalaiḥ (with-fruits) puṣpaiḥ (with-flowers) saubhāgyam (good-fortune) jāyate (arises) mahat (great)
+[of-vakula](vakulasya) [with-fruits](phalaiḥ) [with-flowers](puṣpaiḥ) [good-fortune](saubhāgyaṃ) [arises](jāyate) [great](mahat)
 
 ## mukta-m0-p10-v238
-havanāt (from-offering) maraṇam (death) ca (and) eva (indeed) mantriṇā (by-mantra) vijitam (conquered) bhavet (becomes)
+[from-oblation](havanān) [death](maraṇañ) [and](ca) [indeed](eva) [by-mantrin](mantriṇā) [conquered](vijitaṃ) [becomes](bhavet)
 
 ## mukta-m0-p10-v239
-prāpnoti (obtains) mantrī (mantra-user) mahatīm (great) stambhayet (paralyzes) jagatīm (world) imām (this)
+[obtains](prāpnoti) [mantrin](mantrī) [great](mahatīṃ) [one-should-paralyze](stambhayej) [earth](jagatīm) [this](imām)
 
 ## mukta-m0-p10-v240
-sarve (all) lokāḥ (worlds) vaśāḥ (subject) tasya (his) bhavanti (become) eva (indeed) na (not) saṃśayaḥ (doubt)
+[all](sarve) [people](lokā) [under-control](vaśās) [his](tasya) [become](bhavanty) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p10-v241
-durga-upasarga-śamanam (pacification-of-obstacles) pala-tri-madhu-homataḥ (from-offering-three-palas-honey)
+[fortress+calamity+pacification](durgopasargaśamanaṃ) [fruit+three+honey+oblation](palatrimadhuhomataḥ)
 
 ## mukta-m0-p10-v242
-khe-caraḥ (sky-goer) jāyate (becomes) rātrau (at-night) kṛtvā (having-done) homam (offering) catuṣpathe (at-crossroads)
+[sky+goer](khecaro) [one-becomes](jāyate) [at-night](rātrau) [having-done](kṛtvā) [oblation](homaṃ) [at-crossroads](catuṣpathe)
 
 ## mukta-m0-p10-v243
-mahā-rāṣṭram (great-kingdom) mahā-durgam (great-fortress) samastam (all) vaśam (subjection) ānayet (brings)
+[great+kingdom](mahārāṣṭraṃ) [great+fortress](mahādurgaṃ) [entire](samastaṃ) [under-control](vaśam) [one-brings](ānayet)
 
 ## mukta-m0-p10-v244
-āyuḥ (life) dhanam (wealth) atha (then) ārogyam (health) samṛddhiḥ (prosperity) jāyate (arises) nṛṇām (of-men)
+[life](āyur) [wealth](dhanam) [then](atha) [health](ārogyaṃ) [prosperity](samṛddhir) [arises](jāyate) [of-men](nṛṇām)
 
 ## mukta-m0-p10-v245
-dadhi-mākṣika-yogeṇa (by-curd-honey-mixture) saubhāgyam (good-fortune) dhanam (wealth) āpnuyāt (obtains)
+[curd+honey+mixture](dadhimākṣikayogeṇa) [good-fortune](saubhāgyaṃ) [wealth](dhanam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p10-v246
-vaśayet (subjugates) duṣṭa-lokān (wicked-people) ca (and) havanāt (from-offering) na (not) atra (here) saṃśayaḥ (doubt)
+[one-subdues](vaśayed) [wicked+people](duṣṭalokāṃś) [and](ca) [from-oblation](havanān) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p10-v247
-dadhnā (with-curd) aṣṭa-śatakam (eight-hundred) hutvā (having-offered) akāla-mṛtyum (untimely-death) vaśam (subjection) nayet (leads)
+[with-curd](dadhnā) [eight+hundred](aṣṭaśatakaṃ) [having-offered](hutvā) [untimely+death](akālamṛtyuṃ) [under-control](vaśaṃ) [one-brings](nayet)
 
 ## mukta-m0-p10-v248
-madhu-ājya-guggulena (with-honey-ghee-guggulu) eva (indeed) rājendram (king) vaśam (subjection) ānayet (brings)
+[with-honey+ghee+guggulu](madhvājyaguggulenaiva) [king+lord](rājendraṃ) [under-control](vaśam) [one-brings](ānayet)
 
 ## mukta-m0-p10-v249
-roga-hantā (disease-destroyer) loka-hantā (world-destroyer) mṛtyu-hantā (death-destroyer) bhavet (becomes) dhruvam (certainly)
+[disease+destroyer](rogahantā) [people+destroyer](lokahantā) [death+destroyer](mṛtyuhantā) [one-becomes](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p10-v250
-tila-ājya-homa-mātreṇa (by-mere-sesame-ghee-offering) sarva-karmāṇi (all-acts) sādhayet (accomplishes)
+[sesame+ghee+oblation+mere](tilājyahomamātreṇa) [all+actions](sarvakarmāṇi) [one-accomplishes](sādhayet)
