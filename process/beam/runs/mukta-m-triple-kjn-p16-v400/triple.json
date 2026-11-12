@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "situated-in-forehead-syllable-mass",
-     "grounds": "compound adjective describing the locus of the practice; lalāṭa (forehead) + varṇa (syllable/letter) + rāśi (mass) + stha (situated)",
-     "morph": "compound.n.acc.sg"
+     "gloss": "forehead-syllable-mass-situated",
+     "grounds": "fused-compound-as-given",
+     "morph": "compound=member+membership"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "object indicating the quantity of repetitions to be performed",
+     "grounds": "cardinal-quantity",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "absolutive expressing completion of the prescribed act",
-     "morph": "gerund.(kṛ)"
+     "grounds": "gerundive-form-as-given",
+     "morph": "indecl."
     },
     {
      "surface": "sura+arcite",
      "gloss": "god-worshipped",
-     "grounds": "vocative address to the recipient; sura (god) + arcita (worshipped)",
-     "morph": "compound.f.voc.sg"
+     "grounds": "fused-compound-as-given",
+     "morph": "compound=member+membership"
     }
    ],
-   "question": "What quantified practice situated in the forehead’s syllable-mass is required of the one worshipped by the gods?",
+   "question": "Under what condition must the hundred-thousand mark situated in the forehead-syllable mass be offered by one who has acted, addressed to the god-worshipped one?",
    "premises": [
-    "One hundred thousand repetitions must be performed.",
-    "The repetitions are situated in the mass of syllables on the forehead.",
-    "The instruction is addressed to one worshipped by the gods."
+    "A mark of a hundred thousand rests in the mass of syllables at the forehead.",
+    "The action has already been completed by the practitioner.",
+    "This offering is directed to that which is worshipped by the gods."
    ],
-   "inference": "A specific, quantified forehead-centered practice is enjoined upon the worthy, god-worshipped recipient.",
+   "inference": "The completed act qualifies a specific forehead mark of a hundred thousand for offering to the god-worshipped recipient.",
    "uncertainties": [
-    "The exact nature of the act counted as a 'lakṣa' (e.g., japa or another ritual action) is implied rather than explicitly stated."
+    "The exact ritual recipient remains context-dependent from surrounding verses."
    ],
-   "plain_english": "O you who are worshipped by the gods, having performed one hundred thousand repetitions situated in the mass of syllables on the forehead..."
+   "plain_english": "One who has acted should offer the hundred-thousand mark situated in the mass of forehead syllables to the god-worshipped one."
   }
  ]
 }
