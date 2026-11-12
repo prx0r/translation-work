@@ -11,8 +11,12 @@
 "quick_gloss": "dispassion"
 },
 {
-"surface": "viratiḥ",
+"surface": "vi",
 "quick_gloss": "cessation"
+},
+{
+"surface": "ratiḥ",
+"quick_gloss": "delight"
 },
 {
 "surface": "viratiḥ",
@@ -36,7 +40,7 @@
 "quick_gloss": "when"
 },
 {
-"surface": "āviṣṭo",
+"surface": "āviṣṭaḥ",
 "quick_gloss": "entered"
 },
 {
@@ -85,16 +89,28 @@
 "quick_gloss": "increasing"
 },
 {
-"surface": "satya+vardhinī",
+"surface": "satya",
 "quick_gloss": "truth-promoting"
 },
 {
-"surface": "satya+vardhinī",
-"quick_gloss": "verity-enhancing"
+"surface": "vardhinī",
+"quick_gloss": "augmenting"
 },
 {
-"surface": "satya+vardhinī",
-"quick_gloss": "reality-augmenting"
+"surface": "satya",
+"quick_gloss": "truth-enhancing"
+},
+{
+"surface": "vardhinī",
+"quick_gloss": "growing"
+},
+{
+"surface": "satya",
+"quick_gloss": "truth-increasing"
+},
+{
+"surface": "vardhinī",
+"quick_gloss": "vardhinī"
 }
 ]
 },
@@ -115,7 +131,7 @@
 },
 {
 "surface": "parameśāni",
-"quick_gloss": "O-supreme-goddess"
+"quick_gloss": "o-supreme-goddess"
 },
 {
 "surface": "janānāṃ",
@@ -148,15 +164,19 @@
 },
 {
 "surface": "puruṣa",
-"quick_gloss": "man"
+"quick_gloss": "person"
 },
 {
 "surface": "ājñā",
 "quick_gloss": "command"
 },
 {
-"surface": "puruṣa+ājñā",
+"surface": "puruṣa",
 "quick_gloss": "human-injunction"
+},
+{
+"surface": "ājñā",
+"quick_gloss": "order"
 }
 ]
 },
@@ -169,19 +189,19 @@
 "tokens": [
 {
 "surface": "ajñāna",
-"quick_gloss": "in-ignorance"
+"quick_gloss": "ignorance"
 },
 {
 "surface": "khaṇḍane",
-"quick_gloss": "destruction"
+"quick_gloss": "in-destroying"
 },
 {
 "surface": "jñāna",
-"quick_gloss": "in-knowledge"
+"quick_gloss": "knowledge"
 },
 {
 "surface": "maṇḍane",
-"quick_gloss": "adorning"
+"quick_gloss": "in-adorned"
 },
 {
 "surface": "api",
@@ -197,7 +217,7 @@
 },
 {
 "surface": "sthirā",
-"quick_gloss": "firm"
+"quick_gloss": "steady"
 }
 ]
 },
@@ -235,11 +255,11 @@
 "tokens": [
 {
 "surface": "tattva",
-"quick_gloss": "by-reality"
+"quick_gloss": "reality"
 },
 {
 "surface": "ātmanā",
-"quick_gloss": "nature"
+"quick_gloss": "by-nature"
 },
 {
 "surface": "api",
@@ -295,8 +315,12 @@
 "quick_gloss": "patience"
 },
 {
-"surface": "kaivalya+dāyinī",
+"surface": "kaivalya",
 "quick_gloss": "emancipation-bestowing"
+},
+{
+"surface": "dāyinī",
+"quick_gloss": "granting"
 }
 ]
 },
@@ -357,16 +381,28 @@
 "quick_gloss": "serving"
 },
 {
-"surface": "vivikta+sevinī",
-"quick_gloss": "seclusion-devoted"
+"surface": "vivikta",
+"quick_gloss": "seclusion-resorting"
 },
 {
-"surface": "vivikta+sevinī",
-"quick_gloss": "retreat-resorting"
+"surface": "sevinī",
+"quick_gloss": "attending"
 },
 {
-"surface": "vivikta+sevinī",
-"quick_gloss": "isolation-attending"
+"surface": "vivikta",
+"quick_gloss": "retreat-loving"
+},
+{
+"surface": "sevinī",
+"quick_gloss": "devoted"
+},
+{
+"surface": "vivikta",
+"quick_gloss": "solitary-dwelling"
+},
+{
+"surface": "sevinī",
+"quick_gloss": "sevinī"
 }
 ]
 },
@@ -379,7 +415,7 @@
 "tokens": [
 {
 "surface": "yena",
-"quick_gloss": "by-whom"
+"quick_gloss": "by-which"
 },
 {
 "surface": "viśva",
@@ -410,7 +446,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "bhāvaye",
+"surface": "bhāvayet",
 "quick_gloss": "should-conceive"
 }
 ]
@@ -431,16 +467,28 @@
 "quick_gloss": "producing"
 },
 {
-"surface": "prajñā+janayitrī",
+"surface": "prajñā",
 "quick_gloss": "insight-generating"
 },
 {
-"surface": "prajñā+janayitrī",
-"quick_gloss": "knowledge-begetting"
+"surface": "janayitrī",
+"quick_gloss": "begetting"
 },
 {
-"surface": "prajñā+janayitrī",
-"quick_gloss": "understanding-creating"
+"surface": "prajñā",
+"quick_gloss": "knowledge-creating"
+},
+{
+"surface": "janayitrī",
+"quick_gloss": "mother"
+},
+{
+"surface": "prajñā",
+"quick_gloss": "wisdom-bearing"
+},
+{
+"surface": "janayitrī",
+"quick_gloss": "janayitrī"
 }
 ]
 },
@@ -490,19 +538,31 @@
 },
 {
 "surface": "śrutiḥ",
-"quick_gloss": "learning"
+"quick_gloss": "learned"
 },
 {
-"surface": "bahu+śrutiḥ",
+"surface": "bahu",
 "quick_gloss": "well-versed"
 },
 {
-"surface": "bahu+śrutiḥ",
-"quick_gloss": "greatly-learned"
+"surface": "śrutiḥ",
+"quick_gloss": "heard"
 },
 {
-"surface": "bahu+śrutiḥ",
-"quick_gloss": "widely-heard"
+"surface": "bahu",
+"quick_gloss": "very-learned"
+},
+{
+"surface": "śrutiḥ",
+"quick_gloss": "scripture"
+},
+{
+"surface": "bahu",
+"quick_gloss": "erudite"
+},
+{
+"surface": "śrutiḥ",
+"quick_gloss": "śrutiḥ"
 }
 ]
 },
@@ -519,7 +579,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "not-one"
 },
 {
 "surface": "eka",
@@ -535,11 +595,11 @@
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "on-other-hand"
 },
 {
 "surface": "ekataḥ",
-"quick_gloss": "on-one-hand"
+"quick_gloss": "ekataḥ"
 },
 {
 "surface": "api",
@@ -580,7 +640,7 @@
 },
 {
 "surface": "nirīhā",
-"quick_gloss": "unstriving"
+"quick_gloss": "effortless"
 }
 ]
 },
@@ -649,8 +709,12 @@
 "quick_gloss": "one"
 },
 {
-"surface": "samasta+ekā",
+"surface": "samasta",
 "quick_gloss": "universal-unity"
+},
+{
+"surface": "ekā",
+"quick_gloss": "single"
 }
 ]
 },
@@ -662,7 +726,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+vidāṃ",
+"surface": "tadvidāṃ",
 "quick_gloss": "of-those-who-know-that"
 },
 {
@@ -670,7 +734,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "sva+rūpeṇa",
+"surface": "svarūpeṇa",
 "quick_gloss": "by-own-nature"
 },
 {
@@ -700,31 +764,43 @@
 "tokens": [
 {
 "surface": "sarva",
-"quick_gloss": "by-all"
+"quick_gloss": "all"
 },
 {
 "surface": "loka",
-"quick_gloss": "worlds"
+"quick_gloss": "world"
 },
 {
 "surface": "eka",
-"quick_gloss": "alone"
+"quick_gloss": "by-one"
 },
 {
 "surface": "sevitā",
 "quick_gloss": "served"
 },
 {
-"surface": "sarva+loka+eka+sevitā",
+"surface": "sarva",
 "quick_gloss": "universally-worshipped"
 },
 {
-"surface": "sarva+loka+eka+sevitā",
-"quick_gloss": "all-worlds-served"
+"surface": "sevitā",
+"quick_gloss": "attended"
 },
 {
-"surface": "sarva+loka+eka+sevitā",
-"quick_gloss": "solely-honored"
+"surface": "sarva",
+"quick_gloss": "by-all-worlds-served"
+},
+{
+"surface": "sevitā",
+"quick_gloss": "sevitā"
+},
+{
+"surface": "sarva",
+"quick_gloss": "one-served-by-all"
+},
+{
+"surface": "sevitā",
+"quick_gloss": "sevitā"
 }
 ]
 },
@@ -753,15 +829,15 @@
 },
 {
 "surface": "sarva",
-"quick_gloss": "by-all"
+"quick_gloss": "all"
 },
 {
 "surface": "loka",
-"quick_gloss": "worlds"
+"quick_gloss": "world"
 },
 {
 "surface": "eka",
-"quick_gloss": "alone"
+"quick_gloss": "by-one"
 },
 {
 "surface": "sevitā",
@@ -782,11 +858,11 @@
 },
 {
 "surface": "sevā",
-"quick_gloss": "attendance"
+"quick_gloss": "worship"
 },
 {
 "surface": "sevā",
-"quick_gloss": "worship"
+"quick_gloss": "attendance"
 },
 {
 "surface": "sevā",
@@ -806,7 +882,7 @@
 "quick_gloss": "service"
 },
 {
-"surface": "uttara+uttaraṃ",
+"surface": "uttarottaraṃ",
 "quick_gloss": "higher-and-higher"
 },
 {
@@ -815,11 +891,11 @@
 },
 {
 "surface": "kalā",
-"quick_gloss": "art"
+"quick_gloss": "digit"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "ekā",
@@ -851,16 +927,28 @@
 "quick_gloss": "fond-of"
 },
 {
-"surface": "sevā+priyā",
-"quick_gloss": "devotion-loving"
+"surface": "sevā",
+"quick_gloss": "worship-loving"
 },
 {
-"surface": "sevā+priyā",
-"quick_gloss": "worship-delighting"
+"surface": "priyā",
+"quick_gloss": "dear"
 },
 {
-"surface": "sevā+priyā",
-"quick_gloss": "attendance-dear"
+"surface": "sevā",
+"quick_gloss": "devotion-cherishing"
+},
+{
+"surface": "priyā",
+"quick_gloss": "beloved"
+},
+{
+"surface": "sevā",
+"quick_gloss": "service-delighting"
+},
+{
+"surface": "priyā",
+"quick_gloss": "priyā"
 }
 ]
 }

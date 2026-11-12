@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 326,
- "question": "Can any experience, auspicious or inauspicious, be entirely absent for the embodied being?",
+ "question": "Can any experience, auspicious or inauspicious, be entirely avoided by that person?",
  "premises": [
   "Auspicious and inauspicious experiences arise",
   "Such experiences must be undergone",
-  "No circumstance is entirely free of them"
+  "No place lacks them"
  ],
- "inference": "The embodied being cannot be devoid of experiencing both auspicious and inauspicious results anywhere.",
- "uncertainties": [],
- "plain_english": "Both auspicious and inauspicious experiences must be undergone, and one is never anywhere devoid of them."
+ "inference": "That person is nowhere devoid of experiencing both auspicious and inauspicious results.",
+ "uncertainties": [
+  "The referent of tena is implied from context."
+ ],
+ "plain_english": "Auspicious and inauspicious things must be experienced, and he is nowhere devoid of them."
 }

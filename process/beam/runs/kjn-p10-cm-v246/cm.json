@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.mid-pres/√kṛ",
-   "grounds": "main verb"
+   "morph": "3.sg.pres.mid √kṛ",
+   "grounds": "verb expressing attainment"
   },
   {
    "lemma": "amaratvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object attained"
+   "grounds": "object attained through practice"
   },
   {
    "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "particle of emphasis"
+   "grounds": "particle emphasizing certainty"
   },
   {
    "lemma": "satata",
-   "morph": "m.sg.stem",
-   "grounds": "qualifies abhyāsa"
+   "morph": "compound=satata+first-member",
+   "grounds": "first member of compound qualifying practice"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "m.sg.stem",
-   "grounds": "first member of compound"
+   "morph": "compound=abhyāsa+second-member",
+   "grounds": "second member of compound indicating means"
   },
   {
    "lemma": "tatparaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes practitioner"
+   "grounds": "describes the devoted practitioner"
   }
  ]
 }

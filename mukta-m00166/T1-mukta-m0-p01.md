@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[glorious](śrī)+[of-Śambhu](śambhoḥ) [triumphs](jayati) [by-nature](svabhāva)+[sweet](madhuraṃ) [that](tat)+[power](śakti)+[form](rūpaṃ) [light](mahaḥ)
+[of-glorious-śambhu](śrī+śambhoḥ) [triumphs](jayati) [sweet-by-nature](svabhāva+madhuraṃ) [in-the-form-of-his-power](tat+śakti+rūpaṃ) [light](mahaḥ)
 
 ## mukta-m0-p01-v2
-[by-autonomy](svātantryeṇa) [placed](niveśita)+[own](ātma)+[majesty](vibhavaḥ) [of-the-hymn](sūkteḥ) [play](vilāsaṃ) [clearly](sphuṭam)
+[by-independence](svātantryeṇa) [having-established-own-majesty](niveśita+ātma+vibhavaḥ) [of-good-speech](sūkteḥ) [play](vilāsaṃ) [clearly](sphuṭam)
 
 ## mukta-m0-p01-v3
-[the-mendicant](bhikṣuḥ) [by-partisanship](pakṣitayā) [by-beloved](priyā)+[produced](janitayā) [having-abandoned](tyaktvā) [by-another](anyayā) [in-leading](ane) [mind](manaḥ)
+[the-mendicant](bhikṣuḥ) [by-being-a-bird](pakṣitayā) [by-being-a-beloved](priyā+janitayā) [having-abandoned](tyaktvā) [by-another](anyayā) [in-another](ane) [mind](manaḥ)
 
 ## mukta-m0-p01-v4
-[those](tāḥ)+[various](tāḥ) [form](rūpa)+[arts](kalāḥ) [know](vidanti) [the-skilled](kṛtinaḥ) [pervaded](vyāpta)+[light](prakāśa)+[risen](udayāḥ)
+[those-various](tāḥ+tāḥ) [forms-of-art](rūpa+kalāḥ) [know](vidanti) [the-skilled-ones](kṛtinaḥ) [with-pervading-radiance-arisen](vyāpta+prakāśa+udayāḥ)
 
 ## mukta-m0-p01-v5
-[body](kāyam) [what](kiṃ) [indeed](nu) [led](nināya) [policy](nīti)+[skilled](nipuṇā) [individually](pratyekam) [unity](aikya)+[manifestation](prathām)
+[the-body](kāyaṃ) [how-indeed](kiṃ nu) [led](nināya) [skilled-in-policy](nīti+nipuṇā) [to-each](pratyekam) [to-the-manifestation-of-oneness](aikya+prathām)
 
 ## mukta-m0-p01-v6
-[not](na) [half](ardha)+[from-limb](aṅgāt) [spreads](vitanoti) [far](dūram) [immeasurable](amita)+[love](prema)+[serene](prasannaṃ) [Śiva](śivam)
+[from-the-half-body](na+ardhāṅgāt) [spreads](vitanoti) [far](dūram) [of-boundless-love-serene](amita+prema+prasannaṃ) [śiva](śivam)
 
 ## mukta-m0-p01-v7
-[remaining](śiṣṭaḥ) [body](dehaḥ) [like](iva) [indestructible](avināśa)+[object](viṣayaḥ) [on-that](tat)+[surface](pattale) [shines](bhāti) [which](yaḥ)
+[remaining](śiṣṭaḥ) [like-a-body](deha iva) [whose-object-is-indestructible](avināśa+viṣayaḥ) [on-his-leaf](tat+pattale) [shines](bhāti) [who](yaḥ)
 
 ## mukta-m0-p01-v8
-[merely](mātrā) [otherworldly](āmuṣmikam) [abode](ālayam) [of-moon](hima)+[rayed](rucāṃ) [by-all](sarva)+[desirable](abhilāṣyaṃ) [excellent](varam)
+[the-measure](mātrām) [otherworldly](auṣmikam) [abode](ālayaṃ) [of-the-cool-rayed-one](hima+rucāṃ) [desired-by-all](sarva+abhilāṣyaṃ) [excellent](varam)
 
 ## mukta-m0-p01-v9
-[by-Gaṅgā](gaṅgā)+[seized](ākrānta)+[supreme](para)+[limb](aṅgam) [with-limb](aṅga)+[digit](kalayā) [goddess](devī) [supreme](parā) [resorted-to](śiśriye)
+[with-gaṅgā-spread-over-the-other-limb](gaṅgā+ākrānta+para+aṅgam) [with-auspicious-digit](aṅga+kalayā) [the-goddess](devī) [supreme](parā) [resorted-to](śiśriye)
 
 ## mukta-m0-p01-v10
-[by-greed](lobha)+[afflicted](ārtāḥ) [approach](pratiyānti) [by-deficient](hīna)+[austerity](tapasā) [cohabitation](saṃvāsa)+[deprived](hīnāḥ) [for-long](ciram)
+[afflicted-by-greed](lobha+ārtāḥ) [approach](pratiyānti) [by-low-austerity](hīna+tapasā) [devoid-of-cohabitation](saṃvāsa+hīnāḥ) [for-long](ciram)
 
 ## mukta-m0-p01-v11
-[covered](saṃvītaḥ) [what](kimu) [ash](bhasma)+[heap](rāśiḥ) [like](iva) [who](yaḥ) [Gaṅgā](gaṅgā)+[water](ambu)+[congealed](piṇḍīkṛtaḥ)
+[covered](saṃvītaḥ) [as-if](kimu) [a-heap-of-ashes](bhasma+rāśiḥ+iva) [who](yaḥ) [made-into-a-lump-by-gaṅgā-water](gaṅgā+ambu+piṇḍī+kṛtaḥ)
 
 ## mukta-m0-p01-v12
-[having-crossed-over](saṃkrāmya) [one](eka)+[digit](kalā) [even](api) [approached](upāsthita)+[matted-hair](jaṭā)+[mass](jūṭaṃ) [resorted-to](śritā) [of-Śaṅkara](śāṅkaram)
+[having-transferred](saṃkrāmya) [even-a-single-digit](eka+kalā+api) [approached-matted-hair-mass](upāsthita+jaṭā+jūṭaṃ) [resorted-to](śritā) [belonging-to-śaṅkara](śāṅkaram)
 
 ## mukta-m0-p01-v13
-[Śambhu](śambhuḥ) [what](kim) [indeed](nu) [descended](avatīrṇavān) [with-very-pure](suvimala)+[intense](uddhāma)+[light](prakāśa)+[splendor](śriyā)
+[śambhu](śambhuḥ) [has-indeed](kiṃ nu) [descended](avatīrṇavān) [with-splendor-of-very-pure-brilliant-radiance](su+vimala+uddhāma+prakāśa+śriyā)
 
 ## mukta-m0-p01-v14
-[bashful](lajjāluḥ) [having-abandoned](pravihāya) [him](taṃ) [and](ca) [fallen](patitā) [on-earth](bhūmau) [trembling](calā) [in-agitation](sambhramāt)
+[bashful](lajjāluḥ) [having-abandoned](pravihāya) [him](taṃ) [and](ca) [fallen](patitā) [on-the-ground](bhūmau) [trembling](calā) [in-confusion](sambhramāt)
 
 ## mukta-m0-p01-v15
-[to-the-worlds](lokānāṃ) [displays](paridarśayati) [with-great-wonder](aticamatkāra)+[sole](eka)+[essence](sāra)+[elevated](uddhurām)
+[to-the-worlds](lokānāṃ) [shows](paridarśayati) [bearing-the-essence-of-unique-wonder](ati+camatkāra+eka+sāra+uddhurām)
 
 ## mukta-m0-p01-v16
-[thus](evam) [therefore](ataḥ) [approach](pratiyānti) [full](pūrṇa)+[perception](kalanāḥ) [delighted](mugdhāḥ) [own](sva)+[abode](dhāma)+[hermitages](āśramān)
+[thus](evam) [from-here](ataḥ) [approach](pratiyānti) [with-full-comprehension](pūrṇa+kalanāḥ) [the-deluded-ones](mugdhāḥ) [to-their-own-abodes](sva+dhāma+āśramān)
 
 ## mukta-m0-p01-v17
-[to-know](jñātuṃ) [with-peace](sānta)+[darkness](masīṃ) [digit](kalāṃ) [not](na) [capable](vaśinaḥ) [peace](tānti)+[giving](pradāṃ) [ever](jātucit)
+[to-know](jñātuṃ) [the-peaceful-dark](sānta+amasīṃ) [digit](kalāṃ) [not](na) [capable](vaśinaḥ) [the-peace-giving](tānti+pradāṃ) [ever](jātucit)
 
 ## mukta-m0-p01-v18
-[not](no) [go](yānti) [forcibly](prasabhaṃ) [with-assembly](sabhā)+[laughter](hāsa)+[making](kṛtaḥ) [white](śveta)+[other](anya)+[color](varṇa)+[delusion](bhramam)
+[not](no) [go](yānti) [forcibly](prasabhaṃ) [with-laughter-in-assembly](sa+bhā+hāsa+kṛtaḥ) [the-error-of-another-white-color](śveta+anya+varṇa+bhramam)
 
 ## mukta-m0-p01-v19
-[immediately](sadyaḥ)+[purifying](śuddhikarīṃ) [digit](kalāṃ) [most-beneficial](hitatamām) [coming](āgāminīṃ) [who](yaḥ) [new](navām)
+[immediately-purifying](sadyaḥ+śuddhi+karīṃ) [digit](kalāṃ) [most-beneficial](hita+tamām) [coming](āgāminīṃ) [who](yaḥ) [new](navām)
 
 ## mukta-m0-p01-v20
-[being](bhāva)+[non-being](abhāva)+[contemplation](vibhāvanā)+[supreme-power](ativibhavaṃ) [god](deva)+[supreme-god](adhidevaṃ) [with-new](navaiḥ)
+[the-supreme-power-of-discerning-being-and-non-being](bhāva+abhāva+vibhāvana+ati+vibhavaṃ) [the-god-of-gods](deva+adhi+devaṃ) [with-new-praises](navaiḥ)
 
 ## mukta-m0-p01-v21
-[accomplished](siddha)+[tasted](āsvādya)+[unobstructed](nirādya)+[knowledge](bodha)+[power](vibhavaḥ) [affliction](bādhā)+[limit](avadhiḥ) [who](yaḥ) [supreme](paraḥ)
+[whose-power-of-knowledge-is-to-be-tasted-and-unobstructed-by-the-accomplished](siddha+āsvādya+nirādya+bodha+vibhavaḥ) [the-limit-of-affliction](bādha+avadhiḥ) [who](yaḥ) [supreme](paraḥ)
 
 ## mukta-m0-p01-v22
-[of-heroes](vīrāṇāṃ) [warding-off](vinivārayanti) [which](ye) [of-the-moon](indu)+[irresistible](durvāraṃ) [transformation](vikāra)+[mine](ākaram)
+[of-the-heroes](vīrāṇāṃ) [who-ward-off](vinivārayanti) [of-the-moon](induḥ) [the-irresistible](durvāraṃ) [source-of-change](vikāra+ākaram)
 
 ## mukta-m0-p01-v23
-[all](sarve) [even](api) [fearless](asta)+[bhayāḥ) [as-if](iva) [seen](īkṣita)+[beneficial](hita)+[pair](dvandva)+[single](eka)+[body](deha)+[resorting](āśrayāḥ)
+[all](sarve+api) [as-if-fearless](asta+bhayāḥ+iva) [resorting-to-a-single-body-of-the-pair-seen-as-beneficial](īkṣita+hita+dvandva+eka+deha+āśrayāḥ)
 
 ## mukta-m0-p01-v24
-[of-the-worlds](lokānām) [as-if](iva) [to-speak](vaktum) [liberation](ukti)+[shining](vilasat)+[wave](tāraṅga)+[play](raṅga)+[sound](dhvaniḥ)
+[of-the-worlds](lokānām) [as-if](iva) [to-speak](vaktum) [the-sound-of-waves-sporting-in-liberation](ukti+vilasat+tāraṅga+raṅga+dhvaniḥ)
 
 ## mukta-m0-p01-v25
-[issued-forth](niryātā) [outside](bahiḥ) [by-gesture](iṅgita)+[very-skillful](aticaturā) [Gaṅgā](gaṅgā)+[pure](amala)+[limbed](aṅgī) [what](kimu)
+[issued-forth](niryātā) [outside](bahiḥ) [very-skilled-in-gestures](iṅgita+ati+caturā) [gaṅgā](gaṅgā) [of-pure-limbs](amala+aṅgī) [as-if](kimu)

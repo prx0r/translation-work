@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral referring to count",
-     "morph": "fem.nom.sg"
+     "grounds": "numeral compound indicating the number eighty-four",
+     "morph": "compound numeral"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "thousands",
-     "grounds": "locative plural of numeral group",
-     "morph": "neut.loc.pl"
+     "gloss": "in-thousands",
+     "grounds": "locative plural of the numeral noun for thousand, agreeing with yoniyantreṣu",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "womb-diagrams",
-     "grounds": "locative compound context",
-     "morph": "neut.loc.pl"
+     "gloss": "in-womb-mechanisms",
+     "grounds": "compound of yoni (womb/source) and yantra (mechanism/device) in locative plural",
+     "morph": "compound n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle agreement",
-     "morph": "3.pl.perf.pass"
+     "grounds": "past passive participle describing those subjected to suffering",
+     "morph": "m.nom.pl.ppp (√pīḍ)"
     }
    ],
-   "question": "By what count and in what setting are certain beings said to endure torment?",
+   "question": "In what vast array of womb-mechanisms are beings subjected to torment?",
    "premises": [
-    "A count of eighty-four is specified.",
-    "That count applies to thousands of womb-diagrams.",
-    "Beings within those womb-diagrams are tormented."
+    "The scope is specified as eighty-four thousand.",
+    "These thousands consist of womb-mechanisms.",
+    "Beings within these womb-mechanisms are tormented."
    ],
-   "inference": "Beings are tormented within eighty-four thousand womb-diagrams.",
+   "inference": "Beings suffer torment across eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The identity of those tormented remains unspecified."
+    "The subject of pīḍitāḥ is not explicitly stated in this verse and is inferred from context."
    ],
-   "plain_english": "Eighty-four thousand womb-diagrams contain tormented beings."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }

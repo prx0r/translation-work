@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "num.stem",
-   "grounds": "qualifies āraṃ"
+   "morph": "compound=aṣṭa+first-member",
+   "grounds": "first member of compound indicating eight spokes"
   },
   {
    "lemma": "āraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "describes paṅkajaṃ"
+   "morph": "compound=āra+second-member",
+   "grounds": "second member of compound describing the lotus"
   },
   {
    "lemma": "paṅkajaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object described"
+   "grounds": "object of visualization"
   },
   {
    "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "qualifies paṅkajaṃ"
+   "grounds": "qualifies the lotus as divine"
   },
   {
    "lemma": "prathama",
-   "morph": "n.sg.stem",
-   "grounds": "qualifies aṣṭaka"
+   "morph": "compound=prathama+first-member",
+   "grounds": "first member of compound indicating the first octad"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "n.sg.stem",
-   "grounds": "agent of adornment"
+   "morph": "compound=aṣṭaka+second-member",
+   "grounds": "second member of compound naming the adorning group"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "n.acc.sg.past-part/√bhūṣ",
-   "grounds": "describes paṅkajaṃ"
+   "morph": "n.acc.sg",
+   "grounds": "past participle describing the lotus"
   }
  ]
 }
