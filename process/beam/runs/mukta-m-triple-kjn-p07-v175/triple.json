@@ -12,40 +12,40 @@
     },
     {
      "surface": "saṃpravakṣyāmi",
-     "gloss": "i-shall-declare",
-     "grounds": "first person singular active future indicative of saṃpra-vac",
-     "morph": "1.sg.act.fut-indic + root vac"
+     "gloss": "I-shall-declare",
+     "grounds": "first person singular active future of pra-vac",
+     "morph": "1.sg.act.fut root vac"
     },
     {
      "surface": "śṛṇu",
      "gloss": "listen",
-     "grounds": "second person singular active imperative of śru",
-     "morph": "2.sg.act.imper + root śru"
+     "grounds": "second person singular imperative active of śru",
+     "morph": "2.sg.imp.act root śru"
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
-     "grounds": "vocative singular of devī",
+     "gloss": "O-goddess",
+     "grounds": "feminine vocative singular of devī",
      "morph": "f.voc.sg"
     },
     {
      "surface": "yathāsthitam",
      "gloss": "as-it-is",
-     "grounds": "indeclinable adverb meaning as it is",
+     "grounds": "indeclinable adverb meaning as situated",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What does the speaker promise to declare to the goddess about outcaste women?",
+   "question": "How is the outcaste woman to be declared exactly as she truly is?",
    "premises": [
-    "Speaker addresses goddess directly.",
-    "He will declare outcaste women.",
-    "Declaration is as it is."
+    "antyajā denotes the outcaste woman",
+    "saṃpravakṣyāmi means I shall declare",
+    "yathāsthitam means as it is"
    ],
-   "inference": "The verse introduces a forthcoming teaching on outcaste women.",
+   "inference": "The speaker promises to declare the outcaste woman's true nature.",
    "uncertainties": [
-    "Exact doctrinal content not stated in this verse."
+    "The verse does not specify the outcaste woman's further doctrinal identity."
    ],
-   "plain_english": "I shall declare, O goddess, about outcaste women, as it is."
+   "plain_english": "Listen, O goddess: I shall declare the outcaste woman exactly as she is."
   }
  ]
 }

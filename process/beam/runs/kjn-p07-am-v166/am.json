@@ -1,14 +1,12 @@
 {
  "song": "kjn-p07",
  "verse": 166,
- "question": "How is Kula born as god in Akula?",
+ "question": "How is Kula god born in Akula?",
  "premises": [
-  "in Akula Kula is god",
-  "question asks how it is born"
+  "Kula god is born in Akula.",
+  "The question is addressed to Bhairava."
  ],
- "inference": "The verse questions the birth of Kula as god within Akula.",
- "uncertainties": [
-  "Akula/Kula technical sense unspecified"
- ],
- "plain_english": "O Bhairava, how indeed is Kula born as god in Akula?"
+ "inference": "The verse asks how Kula god is born in Akula.",
+ "uncertainties": [],
+ "plain_english": "How indeed is Kula god born in Akula, O Bhairava?"
 }

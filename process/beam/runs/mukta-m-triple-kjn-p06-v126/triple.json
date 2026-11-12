@@ -7,51 +7,50 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "token amṛtaṃ",
+     "grounds": "legacy hint nectar",
      "morph": "n.acc.sg"
     },
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "token taṃ",
-     "morph": "pron.acc.sg"
+     "grounds": "legacy hint that",
+     "morph": "pron.acc.sg.m"
     },
     {
      "surface": "vijānīyāt",
      "gloss": "one-should-know",
-     "grounds": "token vijānīyāt",
-     "morph": "3.sg.act-opt+root-jñā"
+     "grounds": "legacy hint one+should+know",
+     "morph": "3.sg.act.opt.+root"
     },
     {
      "surface": "balī",
      "gloss": "strength",
-     "grounds": "token balī",
+     "grounds": "legacy hint strength",
      "morph": "n.nom.sg"
     },
     {
      "surface": "palita",
      "gloss": "gray-hair",
-     "grounds": "token palita",
+     "grounds": "legacy hint gray+hair",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nāśanam",
      "gloss": "destruction",
-     "grounds": "token nāśanam",
+     "grounds": "legacy hint destruction",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What should one know as nectar that destroys gray hair and grants strength?",
+   "question": "What should one know as the nectar that destroys strength and gray hair?",
    "premises": [
-    "The verse identifies nectar with a known substance.",
-    "That substance destroys gray hair.",
-    "It also grants strength."
+    "The verse names amṛtaṃ as the object of knowledge.",
+    "It links that nectar to destruction of balī and palita."
    ],
-   "inference": "The nectar is to be recognized as a strength-giving, gray-hair-destroying power.",
+   "inference": "The nectar is to be recognized as the power that removes aging signs.",
    "uncertainties": [
     "Exact referent of amṛtaṃ is not specified in this verse."
    ],
-   "plain_english": "Know that nectar as the power that destroys gray hair and gives strength."
+   "plain_english": "Know that nectar as the destroyer of strength and gray hair."
   },
   {
    "verse": 127,
@@ -59,51 +58,50 @@
     {
      "surface": "balī",
      "gloss": "strength",
-     "grounds": "token balī",
+     "grounds": "legacy hint strength",
      "morph": "n.nom.sg"
     },
     {
      "surface": "palita",
      "gloss": "gray-hair",
-     "grounds": "token palita",
+     "grounds": "legacy hint gray+hair",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nirmuktaḥ",
      "gloss": "freed-from",
-     "grounds": "token nirmuktaḥ",
+     "grounds": "legacy hint freed+from",
      "morph": "part.nom.sg.m"
     },
     {
      "surface": "sarva",
      "gloss": "all",
-     "grounds": "token sarva",
+     "grounds": "legacy hint all",
      "morph": "adj.nom.sg"
     },
     {
      "surface": "vyādhi",
      "gloss": "disease",
-     "grounds": "token vyādhi",
+     "grounds": "legacy hint disease",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vivarjitaḥ",
      "gloss": "devoid-of",
-     "grounds": "token vivarjitaḥ",
+     "grounds": "legacy hint devoid+of",
      "morph": "part.nom.sg.m"
     }
    ],
-   "question": "What qualities characterize one freed from gray hair and strength-related decline?",
+   "question": "What condition results from being freed from strength and gray hair?",
    "premises": [
-    "The subject is freed from gray hair.",
-    "The subject is freed from strength-related decline.",
-    "The subject is devoid of all disease."
+    "The subject is freed from balī and palita.",
+    "The subject is also devoid of all disease."
    ],
-   "inference": "Liberation from these signs accompanies freedom from disease.",
+   "inference": "Freedom from aging signs accompanies freedom from disease.",
    "uncertainties": [
-    "The exact practice producing this state is not stated here."
+    "The subject is implicit."
    ],
-   "plain_english": "Freed from gray hair and weakness, one becomes devoid of all disease."
+   "plain_english": "Freed from strength and gray hair, one is devoid of all disease."
   },
   {
    "verse": 128,
@@ -111,57 +109,57 @@
     {
      "surface": "rasanā",
      "gloss": "tongue",
-     "grounds": "token rasanā",
+     "grounds": "legacy hint tongue",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tālu",
      "gloss": "palate",
-     "grounds": "token tālu",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint palate",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "mūle",
      "gloss": "root",
-     "grounds": "token mūle",
+     "grounds": "legacy hint root",
      "morph": "n.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "tu",
-     "grounds": "token tu",
+     "grounds": "legacy hint tu",
      "morph": "(indecl.)"
     },
     {
      "surface": "vyādhi",
      "gloss": "disease",
-     "grounds": "token vyādhi",
+     "grounds": "legacy hint disease",
      "morph": "n.gen.sg"
     },
     {
      "surface": "nāśāya",
      "gloss": "destruction",
-     "grounds": "token nāśāya",
+     "grounds": "legacy hint destruction",
      "morph": "n.dat.sg"
     },
     {
      "surface": "yojayet",
      "gloss": "one-should-apply",
-     "grounds": "token yojayet",
-     "morph": "3.sg.act-opt+root-yuj"
+     "grounds": "legacy hint one+should+apply",
+     "morph": "3.sg.act.opt.+root"
     }
    ],
    "question": "Where should the tongue be applied for the destruction of disease?",
    "premises": [
-    "The tongue is to be applied.",
-    "The application is at the root of the palate.",
-    "Its purpose is destruction of disease."
+    "The tongue and palate are named.",
+    "The root is the place of application.",
+    "The purpose is destruction of disease."
    ],
-   "inference": "Applying the tongue at the palate root destroys disease.",
+   "inference": "The tongue should be applied at the root of the palate to destroy disease.",
    "uncertainties": [
-    "The precise physical technique is not detailed."
+    "Exact technique is not described."
    ],
-   "plain_english": "Apply the tongue at the root of the palate to destroy disease."
+   "plain_english": "Apply the tongue at the root of the palate for the destruction of disease."
   },
   {
    "verse": 129,
@@ -169,57 +167,56 @@
     {
      "surface": "rasanaṃ",
      "gloss": "tongue",
-     "grounds": "token rasanaṃ",
+     "grounds": "legacy hint tongue",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kuñcayet",
      "gloss": "one-should-contract",
-     "grounds": "token kuñcayet",
-     "morph": "3.sg.act-opt+root-kuñc"
+     "grounds": "legacy hint one+should+contract",
+     "morph": "3.sg.act.opt.+root"
     },
     {
      "surface": "nityam",
      "gloss": "always",
-     "grounds": "token nityam",
+     "grounds": "legacy hint always",
      "morph": "(indecl.)"
     },
     {
      "surface": "sva",
      "gloss": "own",
-     "grounds": "token sva",
-     "morph": "adj.acc.sg"
+     "grounds": "legacy hint own",
+     "morph": "adj.nom.sg"
     },
     {
      "surface": "vaktreṇa",
      "gloss": "mouth",
-     "grounds": "token vaktreṇa",
+     "grounds": "legacy hint mouth",
      "morph": "n.inst.sg"
     },
     {
      "surface": "tu",
      "gloss": "tu",
-     "grounds": "token tu",
+     "grounds": "legacy hint tu",
      "morph": "(indecl.)"
     },
     {
      "surface": "saṃyutam",
      "gloss": "united-with",
-     "grounds": "token saṃyutam",
-     "morph": "part.acc.sg.n"
+     "grounds": "legacy hint united+with",
+     "morph": "part.acc.sg"
     }
    ],
    "question": "How should the tongue be contracted in this practice?",
    "premises": [
-    "The tongue should be contracted.",
-    "The contraction is done always.",
+    "The tongue is to be contracted always.",
     "It is united with one's own mouth."
    ],
-   "inference": "The tongue is to be continually contracted within one's own mouth.",
+   "inference": "The tongue should be continually contracted while united with the mouth.",
    "uncertainties": [
-    "The exact muscular action is not specified."
+    "The precise physical action is not detailed."
    ],
-   "plain_english": "Always contract the tongue, keeping it united with one's own mouth."
+   "plain_english": "Always contract the tongue, united with one's own mouth."
   },
   {
    "verse": 130,
@@ -227,63 +224,62 @@
     {
      "surface": "hṛdi",
      "gloss": "heart",
-     "grounds": "token hṛdi",
+     "grounds": "legacy hint heart",
      "morph": "n.loc.sg"
     },
     {
      "surface": "sthaṃ",
      "gloss": "situated",
-     "grounds": "token sthaṃ",
-     "morph": "part.acc.sg.n"
+     "grounds": "legacy hint situated",
+     "morph": "part.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "ca",
-     "grounds": "token ca",
+     "grounds": "legacy hint ca",
      "morph": "(indecl.)"
     },
     {
      "surface": "manaḥ",
      "gloss": "mind",
-     "grounds": "token manaḥ",
+     "grounds": "legacy hint mind",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "token kṛtvā",
-     "morph": "ger+root-kṛ"
+     "grounds": "legacy hint having+made",
+     "morph": "ger.+root"
     },
     {
      "surface": "yāvat",
      "gloss": "until",
-     "grounds": "token yāvat",
+     "grounds": "legacy hint until",
      "morph": "(indecl.)"
     },
     {
      "surface": "unmanatāṃ",
      "gloss": "unmana-state",
-     "grounds": "token unmanatāṃ",
+     "grounds": "legacy hint unmana+state",
      "morph": "n.acc.sg"
     },
     {
      "surface": "gataḥ",
      "gloss": "gone",
-     "grounds": "token gataḥ",
+     "grounds": "legacy hint gone",
      "morph": "part.nom.sg.m"
     }
    ],
-   "question": "What mental state must be reached after placing the mind in the heart?",
+   "question": "What mental state is reached when the mind is placed in the heart?",
    "premises": [
-    "The mind is placed in the heart.",
-    "This continues until a state is reached.",
-    "That state is unmana."
+    "The mind is made situated in the heart.",
+    "The process continues until unmana state is reached."
    ],
-   "inference": "The practice aims at reaching the unmana state.",
+   "inference": "Placing the mind in the heart leads to the unmana state.",
    "uncertainties": [
-    "The exact meaning of unmana is not defined here."
+    "The term unmana is left untranslated."
    ],
-   "plain_english": "Place the mind in the heart until one reaches the unmana state."
+   "plain_english": "Having placed the mind in the heart, one goes until the unmana state."
   },
   {
    "verse": 131,
@@ -291,45 +287,44 @@
     {
      "surface": "kālasya",
      "gloss": "time",
-     "grounds": "token kālasya",
+     "grounds": "legacy hint time",
      "morph": "n.gen.sg"
     },
     {
      "surface": "vañcanaṃ",
      "gloss": "deception",
-     "grounds": "token vañcanaṃ",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint deception",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "devi",
      "gloss": "goddess",
-     "grounds": "token devi",
+     "grounds": "legacy hint goddess",
      "morph": "n.voc.sg"
     },
     {
      "surface": "sugopyaṃ",
      "gloss": "well-guarded",
-     "grounds": "token sugopyaṃ",
-     "morph": "adj.acc.sg.n"
+     "grounds": "legacy hint well+guarded",
+     "morph": "adj.nom.sg"
     },
     {
      "surface": "prakaṭīkṛtam",
      "gloss": "made-manifest",
-     "grounds": "token prakaṭīkṛtam",
-     "morph": "part.acc.sg.n"
+     "grounds": "legacy hint made+manifest",
+     "morph": "part.nom.sg.n"
     }
    ],
-   "question": "What is revealed concerning the deception of time?",
+   "question": "What is being made manifest regarding the deception of time?",
    "premises": [
-    "The topic is deception of time.",
-    "It is addressed to the goddess.",
-    "It is well guarded yet made manifest."
+    "The deception of time is addressed to the goddess.",
+    "It is well guarded and made manifest."
    ],
-   "inference": "The secret of cheating time is disclosed while remaining guarded.",
+   "inference": "The teaching reveals the guarded secret of cheating time.",
    "uncertainties": [
-    "The exact method of cheating time is not given in this verse."
+    "The exact method is not stated here."
    ],
-   "plain_english": "O goddess, the well-guarded secret of cheating time is made manifest."
+   "plain_english": "O goddess, the well-guarded deception of time is made manifest."
   },
   {
    "verse": 132,
@@ -337,45 +332,44 @@
     {
      "surface": "candra",
      "gloss": "candra",
-     "grounds": "token candra",
+     "grounds": "legacy hint candra",
      "morph": "n.nom.sg"
     },
     {
      "surface": "dvīpa",
      "gloss": "dvīpa",
-     "grounds": "token dvīpa",
+     "grounds": "legacy hint dvīpa",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vinirgate",
      "gloss": "gone-forth-from",
-     "grounds": "token vinirgate",
-     "morph": "part.loc.sg.m"
+     "grounds": "legacy hint gone+forth+from",
+     "morph": "part.loc.sg"
     },
     {
      "surface": "ṣaṣṭhaḥ",
      "gloss": "sixth",
-     "grounds": "token ṣaṣṭhaḥ",
+     "grounds": "legacy hint sixth",
      "morph": "adj.nom.sg.m"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "token paṭalaḥ",
+     "grounds": "legacy hint chapter",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Which chapter begins after the departure from candra dvīpa?",
+   "question": "Which chapter follows the going forth from candra dvīpa?",
    "premises": [
-    "The departure is from candra dvīpa.",
-    "The next unit is the sixth chapter.",
-    "The chapter is named paṭala."
+    "The verse names candra dvīpa.",
+    "It says the sixth chapter has gone forth from it."
    ],
-   "inference": "The sixth chapter follows the candra dvīpa section.",
+   "inference": "The sixth chapter is associated with emergence from candra dvīpa.",
    "uncertainties": [
-    "The full contents of that chapter are not stated."
+    "The doctrinal meaning of candra dvīpa is not explained."
    ],
-   "plain_english": "After candra dvīpa, the sixth chapter begins."
+   "plain_english": "The sixth chapter has gone forth from candra dvīpa."
   },
   {
    "verse": 133,
@@ -383,63 +377,62 @@
     {
      "surface": "tritattvaṃ",
      "gloss": "three-tattva",
-     "grounds": "token tritattvaṃ",
+     "grounds": "legacy hint three+tattva",
      "morph": "n.acc.sg"
     },
     {
      "surface": "katha",
      "gloss": "tell",
-     "grounds": "token katha",
+     "grounds": "legacy hint tell",
      "morph": "(indecl.)"
     },
     {
      "surface": "me",
      "gloss": "me",
-     "grounds": "token me",
+     "grounds": "legacy hint me",
      "morph": "pron.dat.sg"
     },
     {
      "surface": "nātha",
      "gloss": "lord",
-     "grounds": "token nātha",
+     "grounds": "legacy hint lord",
      "morph": "n.voc.sg"
     },
     {
      "surface": "tvam",
      "gloss": "you",
-     "grounds": "token tvam",
+     "grounds": "legacy hint you",
      "morph": "pron.nom.sg"
     },
     {
      "surface": "eva",
      "gloss": "alone",
-     "grounds": "token eva",
+     "grounds": "legacy hint alone",
      "morph": "(indecl.)"
     },
     {
      "surface": "śaraṇaṃ",
      "gloss": "refuge",
-     "grounds": "token śaraṇaṃ",
+     "grounds": "legacy hint refuge",
      "morph": "n.acc.sg"
     },
     {
      "surface": "gatā",
      "gloss": "gone",
-     "grounds": "token gatā",
+     "grounds": "legacy hint gone",
      "morph": "part.nom.sg.f"
     }
    ],
-   "question": "Who is asked to explain the three tattvas?",
+   "question": "Who is asked to tell the three tattvas and is the sole refuge?",
    "premises": [
-    "The speaker asks for explanation.",
-    "The topic is the three tattvas.",
-    "The addressee is called lord and refuge."
+    "The speaker asks the lord to tell the three tattvas.",
+    "The lord alone is refuge."
    ],
-   "inference": "The lord is asked to explain the three tattvas.",
+   "inference": "The lord is both the source of the three tattvas and the sole refuge.",
    "uncertainties": [
-    "The three tattvas themselves are not enumerated here."
+    "The three tattvas are not enumerated."
    ],
-   "plain_english": "Tell me, O lord, my refuge, about the three tattvas."
+   "plain_english": "Tell me the three tattvas, O lord; you alone are my refuge."
   },
   {
    "verse": 134,
@@ -447,57 +440,56 @@
     {
      "surface": "devyāḥ",
      "gloss": "goddess",
-     "grounds": "token devyāḥ",
+     "grounds": "legacy hint goddess",
      "morph": "n.gen.sg"
     },
     {
      "surface": "cakra",
      "gloss": "cakra",
-     "grounds": "token cakra",
+     "grounds": "legacy hint cakra",
      "morph": "n.acc.sg"
     },
     {
      "surface": "gatam",
      "gloss": "gone",
-     "grounds": "token gatam",
+     "grounds": "legacy hint gone",
      "morph": "part.acc.sg.n"
     },
     {
      "surface": "cintya",
      "gloss": "to-be-contemplated",
-     "grounds": "token cintya",
-     "morph": "gerundive.acc.sg.n"
+     "grounds": "legacy hint to+be+contemplated",
+     "morph": "ger.+root"
     },
     {
      "surface": "pratipadāyāṃ",
      "gloss": "pratipadā",
-     "grounds": "token pratipadāyāṃ",
+     "grounds": "legacy hint pratipadā",
      "morph": "n.loc.sg"
     },
     {
      "surface": "śaśī",
      "gloss": "moon",
-     "grounds": "token śaśī",
+     "grounds": "legacy hint moon",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yathā",
      "gloss": "like",
-     "grounds": "token yathā",
+     "grounds": "legacy hint like",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How should the goddess's cakra be contemplated?",
+   "question": "How is the goddess's cakra to be contemplated on pratipadā?",
    "premises": [
-    "The goddess's cakra is to be contemplated.",
-    "The contemplation occurs in pratipadā.",
-    "It is compared to the moon."
+    "The goddess's cakra is gone and to be contemplated.",
+    "It is compared to the moon on pratipadā."
    ],
-   "inference": "The cakra is contemplated like the moon in pratipadā.",
+   "inference": "The cakra is contemplated like the new moon on the first lunar day.",
    "uncertainties": [
-    "The exact visual form is not described."
+    "The exact contemplative method is not given."
    ],
-   "plain_english": "Contemplate the goddess's cakra in pratipadā, like the moon."
+   "plain_english": "Contemplate the goddess's cakra, gone like the moon on pratipadā."
   },
   {
    "verse": 135,
@@ -505,59 +497,58 @@
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "token tatra",
+     "grounds": "legacy hint there",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "ca",
-     "grounds": "token ca",
+     "grounds": "legacy hint ca",
      "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "eva",
-     "grounds": "token eva",
+     "grounds": "legacy hint eva",
      "morph": "(indecl.)"
     },
     {
      "surface": "śikhā",
      "gloss": "crest",
-     "grounds": "token śikhā",
+     "grounds": "legacy hint crest",
      "morph": "n.nom.sg"
     },
     {
      "surface": "līnā",
      "gloss": "absorbed",
-     "grounds": "token līnā",
+     "grounds": "legacy hint absorbed",
      "morph": "part.nom.sg.f"
     },
     {
      "surface": "asthi",
      "gloss": "bone",
-     "grounds": "token asthi",
+     "grounds": "legacy hint bone",
      "morph": "n.nom.sg"
     },
     {
      "surface": "cakre",
      "gloss": "cakra",
-     "grounds": "token cakre",
+     "grounds": "legacy hint cakra",
      "morph": "n.loc.sg"
     },
     {
      "surface": "varānane",
      "gloss": "beautiful-faced",
-     "grounds": "token varānane",
+     "grounds": "legacy hint beautiful+faced",
      "morph": "adj.voc.sg.f"
     }
    ],
-   "question": "What is absorbed in the bone cakra?",
+   "question": "Where is the crest absorbed in the bone cakra?",
    "premises": [
     "The crest is absorbed.",
-    "The absorption is in the bone cakra.",
-    "The addressee is beautiful-faced."
+    "The bone cakra is the location."
    ],
-   "inference": "The crest becomes absorbed in the bone cakra.",
+   "inference": "The crest is absorbed in the bone cakra.",
    "uncertainties": [
     "The identity of the crest is not specified."
    ],
@@ -569,57 +560,56 @@
     {
      "surface": "sādravaṃ",
      "gloss": "with-fluid",
-     "grounds": "token sādravaṃ",
+     "grounds": "legacy hint with+fluid",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "kṛṣṇa",
      "gloss": "black",
-     "grounds": "token kṛṣṇa",
+     "grounds": "legacy hint black",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "token rūpaṃ",
+     "grounds": "legacy hint form",
      "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "ca",
-     "grounds": "token ca",
+     "grounds": "legacy hint ca",
      "morph": "(indecl.)"
     },
     {
      "surface": "balī",
      "gloss": "strength",
-     "grounds": "token balī",
+     "grounds": "legacy hint strength",
      "morph": "n.nom.sg"
     },
     {
      "surface": "palita",
      "gloss": "gray-hair",
-     "grounds": "token palita",
+     "grounds": "legacy hint gray+hair",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nāśanam",
      "gloss": "destruction",
-     "grounds": "token nāśanam",
+     "grounds": "legacy hint destruction",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What form destroys gray hair and grants strength?",
+   "question": "What form, together with strength and gray hair, is destroyed?",
    "premises": [
-    "The form is black.",
-    "The form is with fluid.",
-    "It destroys gray hair and grants strength."
+    "A black form with fluid is named.",
+    "Strength and gray hair are also destroyed."
    ],
-   "inference": "A black fluid form destroys gray hair and grants strength.",
+   "inference": "The practice destroys the black fluid form along with aging signs.",
    "uncertainties": [
-    "The exact substance or practice is not named."
+    "The exact form is not identified beyond black and fluid."
    ],
-   "plain_english": "The black fluid form destroys gray hair and gives strength."
+   "plain_english": "The black form with fluid, along with strength and gray hair, is destroyed."
   },
   {
    "verse": 137,
@@ -627,51 +617,51 @@
     {
      "surface": "ādhāra",
      "gloss": "ādhāra",
-     "grounds": "token ādhāra",
+     "grounds": "legacy hint ādhāra",
      "morph": "n.nom.sg"
     },
     {
      "surface": "skandha",
      "gloss": "shoulder",
-     "grounds": "token skandha",
+     "grounds": "legacy hint shoulder",
      "morph": "n.nom.sg"
     },
     {
      "surface": "saṃsthāne",
      "gloss": "abode",
-     "grounds": "token saṃsthāne",
+     "grounds": "legacy hint abode",
      "morph": "n.loc.sg"
     },
     {
      "surface": "yogaṃ",
      "gloss": "yoga",
-     "grounds": "token yogaṃ",
+     "grounds": "legacy hint yoga",
      "morph": "n.acc.sg"
     },
     {
      "surface": "yuñjīta",
      "gloss": "one-should-apply",
-     "grounds": "token yuñjīta",
-     "morph": "3.sg.act-opt+root-yuj"
+     "grounds": "legacy hint one+should+apply",
+     "morph": "3.sg.act.opt.+root"
     },
     {
      "surface": "śītalam",
      "gloss": "cool",
-     "grounds": "token śītalam",
-     "morph": "adj.acc.sg.n"
+     "grounds": "legacy hint cool",
+     "morph": "adj.acc.sg"
     }
    ],
-   "question": "Where should cool yoga be applied?",
+   "question": "Where should yoga be applied in a cool manner?",
    "premises": [
-    "Yoga is to be applied.",
-    "The application is in the abode of ādhāra shoulder.",
-    "The yoga is cool."
+    "The abode is at ādhāra shoulder.",
+    "Yoga should be applied there.",
+    "The application is cool."
    ],
-   "inference": "Cool yoga should be applied in the ādhāra shoulder abode.",
+   "inference": "Yoga is to be applied coolly at the ādhāra shoulder abode.",
    "uncertainties": [
-    "The exact bodily location is not fully clarified."
+    "The term ādhāra is not explained."
    ],
-   "plain_english": "Apply cool yoga in the abode of the ādhāra shoulder."
+   "plain_english": "Apply yoga coolly at the abode of ādhāra shoulder."
   },
   {
    "verse": 138,
@@ -679,55 +669,54 @@
     {
      "surface": "ādityaṃ",
      "gloss": "sun",
-     "grounds": "token ādityaṃ",
+     "grounds": "legacy hint sun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śatruvat",
      "gloss": "enemy",
-     "grounds": "token śatruvat",
+     "grounds": "legacy hint enemy",
      "morph": "adv"
     },
     {
      "surface": "paśyet",
      "gloss": "one-should-see",
-     "grounds": "token paśyet",
-     "morph": "3.sg.act-opt+root-paś"
+     "grounds": "legacy hint one+should+see",
+     "morph": "3.sg.act.opt.+root"
     },
     {
      "surface": "somaṃ",
      "gloss": "moon",
-     "grounds": "token somaṃ",
+     "grounds": "legacy hint moon",
      "morph": "n.acc.sg"
     },
     {
      "surface": "vai",
      "gloss": "vai",
-     "grounds": "token vai",
+     "grounds": "legacy hint vai",
      "morph": "(indecl.)"
     },
     {
      "surface": "mitravat",
      "gloss": "friend",
-     "grounds": "token mitravat",
+     "grounds": "legacy hint friend",
      "morph": "adv"
     },
     {
      "surface": "yathā",
      "gloss": "like",
-     "grounds": "token yathā",
+     "grounds": "legacy hint like",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How should sun and moon be regarded?",
+   "question": "How should the sun and moon be regarded in this practice?",
    "premises": [
     "The sun should be seen like an enemy.",
-    "The moon should be seen like a friend.",
-    "The comparison is prescribed."
+    "The moon should be seen like a friend."
    ],
-   "inference": "One should regard the sun as an enemy and the moon as a friend.",
+   "inference": "The sun and moon are to be regarded with opposite attitudes.",
    "uncertainties": [
-    "The reason for this valuation is not stated."
+    "The practical reason is not stated."
    ],
    "plain_english": "See the sun like an enemy and the moon like a friend."
   },
@@ -737,57 +726,56 @@
     {
      "surface": "bhū",
      "gloss": "earth",
-     "grounds": "token bhū",
+     "grounds": "legacy hint earth",
      "morph": "n.nom.sg"
     },
     {
      "surface": "gṛhe",
      "gloss": "house",
-     "grounds": "token gṛhe",
+     "grounds": "legacy hint house",
      "morph": "n.loc.sg"
     },
     {
      "surface": "nirjane",
      "gloss": "solitary",
-     "grounds": "token nirjane",
-     "morph": "adj.loc.sg.m"
+     "grounds": "legacy hint solitary",
+     "morph": "adj.loc.sg"
     },
     {
      "surface": "sthāne",
      "gloss": "place",
-     "grounds": "token sthāne",
+     "grounds": "legacy hint place",
      "morph": "n.loc.sg"
     },
     {
      "surface": "daṃśa",
      "gloss": "gnat",
-     "grounds": "token daṃśa",
+     "grounds": "legacy hint gnat",
      "morph": "n.nom.sg"
     },
     {
      "surface": "maśaka",
      "gloss": "mosquito",
-     "grounds": "token maśaka",
+     "grounds": "legacy hint mosquito",
      "morph": "n.nom.sg"
     },
     {
      "surface": "varjite",
      "gloss": "devoid-of",
-     "grounds": "token varjite",
-     "morph": "part.loc.sg.m"
+     "grounds": "legacy hint devoid+of",
+     "morph": "part.loc.sg"
     }
    ],
-   "question": "What kind of place is prescribed for practice?",
+   "question": "What kind of place is recommended for practice?",
    "premises": [
     "The place is an earth house.",
-    "The place is solitary.",
-    "The place is devoid of gnats and mosquitoes."
+    "It is solitary and devoid of gnats and mosquitoes."
    ],
    "inference": "Practice should occur in a solitary earth house free of gnats and mosquitoes.",
    "uncertainties": [
-    "The exact structure of the earth house is not described."
+    "The exact dwelling type is unclear."
    ],
-   "plain_english": "Practice in a solitary earth house free of gnats and mosquitoes."
+   "plain_english": "In a solitary earth house, a place devoid of gnats and mosquitoes."
   },
   {
    "verse": 140,
@@ -795,51 +783,50 @@
     {
      "surface": "ekānte",
      "gloss": "solitary",
-     "grounds": "token ekānte",
-     "morph": "adj.loc.sg.m"
+     "grounds": "legacy hint solitary",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "nirjane",
      "gloss": "deserted",
-     "grounds": "token nirjane",
-     "morph": "adj.loc.sg.m"
+     "grounds": "legacy hint deserted",
+     "morph": "adj.loc.sg"
     },
     {
      "surface": "divye",
      "gloss": "divine",
-     "grounds": "token divye",
-     "morph": "adj.loc.sg.m"
+     "grounds": "legacy hint divine",
+     "morph": "adj.loc.sg"
     },
     {
      "surface": "puṣpa",
      "gloss": "flower",
-     "grounds": "token puṣpa",
+     "grounds": "legacy hint flower",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prakaraṇa",
      "gloss": "multitude",
-     "grounds": "token prakaraṇa",
+     "grounds": "legacy hint multitude",
      "morph": "n.nom.sg"
     },
     {
      "surface": "śobhite",
      "gloss": "adorned",
-     "grounds": "token śobhite",
-     "morph": "part.loc.sg.m"
+     "grounds": "legacy hint adorned",
+     "morph": "part.loc.sg"
     }
    ],
-   "question": "What kind of solitary place is adorned with flowers?",
+   "question": "What kind of solitary place is adorned for practice?",
    "premises": [
     "The place is solitary and deserted.",
-    "The place is divine.",
-    "It is adorned with a multitude of flowers."
+    "It is divine and adorned with a multitude of flowers."
    ],
-   "inference": "The prescribed place is a divine solitary spot adorned with many flowers.",
+   "inference": "The recommended place is a deserted divine spot adorned with many flowers.",
    "uncertainties": [
-    "The exact location is not named."
+    "The exact location is not specified."
    ],
-   "plain_english": "A solitary divine place adorned with many flowers."
+   "plain_english": "In a solitary deserted divine place adorned with a multitude of flowers."
   },
   {
    "verse": 141,
@@ -847,57 +834,56 @@
     {
      "surface": "ṣaṇ",
      "gloss": "six",
-     "grounds": "token ṣaṇ",
+     "grounds": "legacy hint six",
      "morph": "num"
     },
     {
      "surface": "māsāt",
      "gloss": "months",
-     "grounds": "token māsāt",
+     "grounds": "legacy hint months",
      "morph": "n.abl.sg"
     },
     {
      "surface": "jñāyate",
      "gloss": "known",
-     "grounds": "token jñāyate",
-     "morph": "3.sg.pass-pres+root-jñā"
+     "grounds": "legacy hint known",
+     "morph": "3.sg.pass.pres.+root"
     },
     {
      "surface": "siddhiḥ",
      "gloss": "perfection",
-     "grounds": "token siddhiḥ",
+     "grounds": "legacy hint perfection",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yoginī",
      "gloss": "yoginī",
-     "grounds": "token yoginī",
+     "grounds": "legacy hint yoginī",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pada",
      "gloss": "state",
-     "grounds": "token pada",
+     "grounds": "legacy hint state",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tatsamaḥ",
      "gloss": "equal",
-     "grounds": "token tatsamaḥ",
+     "grounds": "legacy hint equal",
      "morph": "adj.nom.sg.m"
     }
    ],
-   "question": "When is yoginī perfection known?",
+   "question": "When is perfection known and equal to the yoginī state?",
    "premises": [
     "Perfection is known after six months.",
-    "The perfection belongs to yoginī.",
-    "It is equal to that state."
+    "It is equal to the yoginī state."
    ],
-   "inference": "Yoginī perfection becomes known after six months.",
+   "inference": "Six months of practice brings perfection equal to the yoginī state.",
    "uncertainties": [
-    "The exact criteria of perfection are not listed."
+    "The practice itself is not named."
    ],
-   "plain_english": "After six months, yoginī perfection is known."
+   "plain_english": "After six months perfection is known, equal to the yoginī state."
   },
   {
    "verse": 142,
@@ -905,63 +891,62 @@
     {
      "surface": "brahma",
      "gloss": "brahma",
-     "grounds": "token brahma",
+     "grounds": "legacy hint brahma",
      "morph": "n.nom.sg"
     },
     {
      "surface": "granthi",
      "gloss": "granthi",
-     "grounds": "token granthi",
+     "grounds": "legacy hint granthi",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sthitā",
      "gloss": "situated",
-     "grounds": "token sthitā",
+     "grounds": "legacy hint situated",
      "morph": "part.nom.sg.f"
     },
     {
      "surface": "ā",
      "gloss": "from-here",
-     "grounds": "token ā",
+     "grounds": "legacy hint from+here",
      "morph": "(indecl.)"
     },
     {
      "surface": "etāṃ",
      "gloss": "etāṃ",
-     "grounds": "token etāṃ",
+     "grounds": "legacy hint etāṃ",
      "morph": "pron.acc.sg.f"
     },
     {
      "surface": "trīṇi",
      "gloss": "three",
-     "grounds": "token trīṇi",
-     "morph": "num.acc.pl.n"
+     "grounds": "legacy hint three",
+     "morph": "num.acc"
     },
     {
      "surface": "eva",
      "gloss": "eva",
-     "grounds": "token eva",
+     "grounds": "legacy hint eva",
      "morph": "(indecl.)"
     },
     {
      "surface": "varānane",
      "gloss": "beautiful-faced",
-     "grounds": "token varānane",
+     "grounds": "legacy hint beautiful+faced",
      "morph": "adj.voc.sg.f"
     }
    ],
-   "question": "What is situated at the brahma granthi?",
+   "question": "What is situated from here through the three?",
    "premises": [
-    "Something is situated at brahma granthi.",
-    "It is addressed to the beautiful-faced one.",
-    "Three items are involved."
+    "Brahma granthi is situated.",
+    "It extends from here through three."
    ],
-   "inference": "Three items are situated from the brahma granthi onward.",
+   "inference": "The brahma granthi is situated from here through three.",
    "uncertainties": [
-    "The three items are not identified in this verse."
+    "The three items are not specified."
    ],
-   "plain_english": "From the brahma granthi, three things are situated, O beautiful-faced one."
+   "plain_english": "The brahma granthi is situated from here through three, O beautiful-faced one."
   },
   {
    "verse": 143,
@@ -969,51 +954,50 @@
     {
      "surface": "draveṇa",
      "gloss": "fluid",
-     "grounds": "token draveṇa",
+     "grounds": "legacy hint fluid",
      "morph": "n.inst.sg"
     },
     {
      "surface": "rañjayet",
      "gloss": "one-should-color",
-     "grounds": "token rañjayet",
-     "morph": "3.sg.act-opt+root-rañj"
+     "grounds": "legacy hint one+should+color",
+     "morph": "3.sg.act.opt.+root"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "token sarvaṃ",
+     "grounds": "legacy hint all",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "romakūpa",
      "gloss": "pore",
-     "grounds": "token romakūpa",
+     "grounds": "legacy hint pore",
      "morph": "n.acc.sg"
     },
     {
      "surface": "ādikaṃ",
      "gloss": "beginning",
-     "grounds": "token ādikaṃ",
+     "grounds": "legacy hint beginning",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "priye",
      "gloss": "beloved",
-     "grounds": "token priye",
+     "grounds": "legacy hint beloved",
      "morph": "adj.voc.sg.f"
     }
    ],
    "question": "What should be colored by fluid?",
    "premises": [
-    "Fluid is the instrument.",
-    "All pores and beginning parts are colored.",
-    "The addressee is beloved."
+    "All pores and the beginning are to be colored.",
+    "The coloring is done by fluid."
    ],
-   "inference": "One should color all pores and related parts with fluid.",
+   "inference": "Fluid should color all pores and the beginning.",
    "uncertainties": [
-    "The exact coloring process is not described."
+    "The beginning refers to an unspecified starting point."
    ],
-   "plain_english": "Color all pores and the rest with fluid, O beloved."
+   "plain_english": "Color all pores and the beginning with fluid, O beloved."
   },
   {
    "verse": 144,
@@ -1021,63 +1005,62 @@
     {
      "surface": "bhavati",
      "gloss": "becomes",
-     "grounds": "token bhavati",
-     "morph": "3.sg.act-pres+root-bhū"
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act.pres.+root"
     },
     {
      "surface": "eva",
      "gloss": "thus",
-     "grounds": "token eva",
+     "grounds": "legacy hint thus",
      "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "no",
-     "grounds": "token na",
+     "grounds": "legacy hint no",
      "morph": "(indecl.)"
     },
     {
      "surface": "sandehaḥ",
      "gloss": "doubt",
-     "grounds": "token sandehaḥ",
+     "grounds": "legacy hint doubt",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ṣaṇ",
      "gloss": "six",
-     "grounds": "token ṣaṇ",
+     "grounds": "legacy hint six",
      "morph": "num"
     },
     {
      "surface": "māsa",
      "gloss": "months",
-     "grounds": "token māsa",
-     "morph": "n.nom.pl"
+     "grounds": "legacy hint months",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "abhyantareṇa",
      "gloss": "within",
-     "grounds": "token abhyantareṇa",
+     "grounds": "legacy hint within",
      "morph": "(indecl.)"
     },
     {
      "surface": "tu",
      "gloss": "tu",
-     "grounds": "token tu",
+     "grounds": "legacy hint tu",
      "morph": "(indecl.)"
     }
    ],
    "question": "Is there doubt about the result within six months?",
    "premises": [
-    "The result becomes certain.",
     "There is no doubt.",
-    "The timeframe is within six months."
+    "The result occurs within six months."
    ],
-   "inference": "There is no doubt that the result occurs within six months.",
+   "inference": "The outcome is certain within six months.",
    "uncertainties": [
-    "The specific result is not named in this verse."
+    "The outcome itself is not named."
    ],
-   "plain_english": "There is no doubt it happens within six months."
+   "plain_english": "There is no doubt; it becomes so within six months."
   },
   {
    "verse": 145,
@@ -1085,51 +1068,50 @@
     {
      "surface": "sādravaṃ",
      "gloss": "with-fluid",
-     "grounds": "token sādravaṃ",
+     "grounds": "legacy hint with+fluid",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "kṛṣṇa",
      "gloss": "black",
-     "grounds": "token kṛṣṇa",
+     "grounds": "legacy hint black",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "varṇañca",
      "gloss": "color",
-     "grounds": "token varṇañca",
+     "grounds": "legacy hint color",
      "morph": "n.acc.sg"
     },
     {
      "surface": "ṣoḍaśa",
      "gloss": "sixteen",
-     "grounds": "token ṣoḍaśa",
+     "grounds": "legacy hint sixteen",
      "morph": "num"
     },
     {
      "surface": "svara",
      "gloss": "svaras",
-     "grounds": "token svara",
+     "grounds": "legacy hint svaras",
      "morph": "n.nom.pl"
     },
     {
      "surface": "bhūṣitam",
      "gloss": "adorned",
-     "grounds": "token bhūṣitam",
+     "grounds": "legacy hint adorned",
      "morph": "part.acc.sg.n"
     }
    ],
-   "question": "What adorns the black fluid color?",
+   "question": "What is adorned with sixteen svaras?",
    "premises": [
-    "The color is black and fluid.",
-    "It is adorned.",
-    "Sixteen svaras adorn it."
+    "A black color with fluid is named.",
+    "It is adorned with sixteen svaras."
    ],
    "inference": "The black fluid color is adorned with sixteen svaras.",
    "uncertainties": [
-    "The exact role of the svaras is not explained."
+    "The referent of the color is not specified."
    ],
-   "plain_english": "The black fluid color is adorned with sixteen svaras."
+   "plain_english": "The black color with fluid, adorned with sixteen svaras."
   },
   {
    "verse": 146,
@@ -1137,63 +1119,62 @@
     {
      "surface": "ṣaṇ",
      "gloss": "six",
-     "grounds": "token ṣaṇ",
+     "grounds": "legacy hint six",
      "morph": "num"
     },
     {
      "surface": "māsa",
      "gloss": "months",
-     "grounds": "token māsa",
-     "morph": "n.nom.pl"
+     "grounds": "legacy hint months",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "asevanā",
      "gloss": "service",
-     "grounds": "token asevanā",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint service",
+     "morph": "n.abl.sg"
     },
     {
      "surface": "abhyastāt",
      "gloss": "practiced",
-     "grounds": "token abhyastāt",
-     "morph": "part.abl.sg.m"
+     "grounds": "legacy hint practiced",
+     "morph": "part.abl.sg"
     },
     {
      "surface": "vṛddhaḥ",
      "gloss": "old",
-     "grounds": "token vṛddhaḥ",
+     "grounds": "legacy hint old",
      "morph": "adj.nom.sg.m"
     },
     {
      "surface": "api",
      "gloss": "api",
-     "grounds": "token api",
+     "grounds": "legacy hint api",
      "morph": "(indecl.)"
     },
     {
      "surface": "taruṇā",
      "gloss": "youthful",
-     "grounds": "token taruṇā",
-     "morph": "adj.nom.sg.m"
+     "grounds": "legacy hint youthful",
+     "morph": "adj.dat.sg.f"
     },
     {
      "surface": "āyate",
      "gloss": "becomes",
-     "grounds": "token āyate",
-     "morph": "3.sg.mid-pres+root-i"
+     "grounds": "legacy hint becomes",
+     "morph": "3.sg.act.pres.+root"
     }
    ],
-   "question": "What happens to an old person after six months of practice?",
+   "question": "What happens to an old person through practice within six months?",
    "premises": [
-    "The practice is maintained for six months.",
-    "Even an old person is affected.",
-    "The old person becomes youthful."
+    "Practice occurs over six months.",
+    "Even an old person becomes youthful."
    ],
    "inference": "Six months of practice makes even an old person youthful.",
    "uncertainties": [
-    "The exact practice is not specified in this verse."
+    "The practice is not named."
    ],
-   "plain_english": "Even an old person becomes youthful after six months of practice."
+   "plain_english": "Through practice within six months, even an old person becomes youthful."
   },
   {
    "verse": 147,
@@ -1201,51 +1182,50 @@
     {
      "surface": "yoginī",
      "gloss": "yoginī",
-     "grounds": "token yoginī",
+     "grounds": "legacy hint yoginī",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sthānam",
      "gloss": "place",
-     "grounds": "token sthānam",
+     "grounds": "legacy hint place",
      "morph": "n.acc.sg"
     },
     {
      "surface": "āśritya",
      "gloss": "having-resorted-to",
-     "grounds": "token āśritya",
-     "morph": "ger+root-āśri"
+     "grounds": "legacy hint having+resorted+to",
+     "morph": "ger.+root"
     },
     {
      "surface": "asitaṃ",
      "gloss": "black",
-     "grounds": "token asitaṃ",
+     "grounds": "legacy hint black",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "kṛṣṇa",
      "gloss": "black",
-     "grounds": "token kṛṣṇa",
+     "grounds": "legacy hint black",
      "morph": "adj.acc.sg.n"
     },
     {
      "surface": "varṇakam",
      "gloss": "colored",
-     "grounds": "token varṇakam",
+     "grounds": "legacy hint colored",
      "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "What color results from resorting to yoginī's place?",
+   "question": "What is colored black after resorting to the yoginī place?",
    "premises": [
-    "One resorts to yoginī's place.",
-    "The result is black.",
-    "The color is described as kṛṣṇa."
+    "One resorts to the yoginī place.",
+    "The result is black colored."
    ],
-   "inference": "Resorting to yoginī's place yields a black color.",
+   "inference": "Resorting to the yoginī place yields a black colored result.",
    "uncertainties": [
-    "The exact application of the color is not stated."
+    "The colored object is not specified."
    ],
-   "plain_english": "Resorting to yoginī's place yields a black color."
+   "plain_english": "Having resorted to the yoginī place, it becomes black colored."
   },
   {
    "verse": 148,
@@ -1253,57 +1233,56 @@
     {
      "surface": "keśa",
      "gloss": "hair",
-     "grounds": "token keśa",
+     "grounds": "legacy hint hair",
      "morph": "n.nom.sg"
     },
     {
      "surface": "skandha",
      "gloss": "shoulder",
-     "grounds": "token skandha",
+     "grounds": "legacy hint shoulder",
      "morph": "n.nom.sg"
     },
     {
      "surface": "kapāla",
      "gloss": "skull",
-     "grounds": "token kapāla",
+     "grounds": "legacy hint skull",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sthaṃ",
      "gloss": "situated",
-     "grounds": "token sthaṃ",
-     "morph": "part.acc.sg.n"
+     "grounds": "legacy hint situated",
+     "morph": "part.acc.sg"
     },
     {
      "surface": "rañjayet",
      "gloss": "one-should-color",
-     "grounds": "token rañjayet",
-     "morph": "3.sg.act-opt+root-rañj"
+     "grounds": "legacy hint one+should+color",
+     "morph": "3.sg.act.opt.+root"
     },
     {
      "surface": "tasya",
      "gloss": "his",
-     "grounds": "token tasya",
+     "grounds": "legacy hint his",
      "morph": "pron.gen.sg.m"
     },
     {
      "surface": "tejasā",
      "gloss": "by-splendor",
-     "grounds": "token tejasā",
+     "grounds": "legacy hint by+splendor",
      "morph": "n.inst.sg"
     }
    ],
-   "question": "What should be colored by his splendor?",
+   "question": "What situated in hair, shoulder, and skull should be colored by his splendor?",
    "premises": [
-    "Hair, shoulder, and skull are involved.",
-    "They are situated together.",
-    "They should be colored by his splendor."
+    "Hair, shoulder, and skull are named.",
+    "The coloring is done by his splendor."
    ],
-   "inference": "One should color hair, shoulder, and skull by his splendor.",
+   "inference": "The situated element in hair, shoulder, and skull is colored by his splendor.",
    "uncertainties": [
-    "The exact coloring method is not described."
+    "The situated element is not explicitly named."
    ],
-   "plain_english": "Color the hair, shoulder, and skull by his splendor."
+   "plain_english": "Color what is situated in hair, shoulder, and skull by his splendor."
   },
   {
    "verse": 149,
@@ -1311,49 +1290,48 @@
     {
      "surface": "jarā",
      "gloss": "old-age",
-     "grounds": "token jarā",
+     "grounds": "legacy hint old+age",
      "morph": "n.nom.sg"
     },
     {
      "surface": "maraṇa",
      "gloss": "death",
-     "grounds": "token maraṇa",
+     "grounds": "legacy hint death",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nirmuktaḥ",
      "gloss": "freed-from",
-     "grounds": "token nirmuktaḥ",
+     "grounds": "legacy hint freed+from",
      "morph": "part.nom.sg.m"
     },
     {
      "surface": "vyādhi",
      "gloss": "disease",
-     "grounds": "token vyādhi",
+     "grounds": "legacy hint disease",
      "morph": "n.nom.sg"
     },
     {
      "surface": "roga",
      "gloss": "illness",
-     "grounds": "token roga",
+     "grounds": "legacy hint illness",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vivarjitaḥ",
      "gloss": "devoid-of",
-     "grounds": "token vivarjitaḥ",
+     "grounds": "legacy hint devoid+of",
      "morph": "part.nom.sg.m"
     }
    ],
-   "question": "What is one freed from and devoid of?",
+   "question": "What is the result of being freed from old age and death?",
    "premises": [
-    "One is freed from old age.",
-    "One is freed from death.",
+    "One is freed from old age and death.",
     "One is devoid of disease and illness."
    ],
-   "inference": "The practitioner becomes free from aging and death and free of disease.",
+   "inference": "Freedom from old age and death entails freedom from disease and illness.",
    "uncertainties": [
-    "The means of this freedom are not stated in this verse."
+    "The subject is implicit."
    ],
    "plain_english": "Freed from old age and death, one is devoid of disease and illness."
   }

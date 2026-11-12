@@ -7,61 +7,62 @@
     {
      "surface": "kaṇṭha",
      "gloss": "throat",
-     "grounds": "noun denoting throat",
+     "grounds": "throat noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kūpa",
      "gloss": "cavity",
-     "grounds": "noun denoting cavity",
+     "grounds": "cavity noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sthita",
      "gloss": "situated",
-     "grounds": "participle adjective",
+     "grounds": "situated adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "udyotaṃ",
      "gloss": "radiance",
-     "grounds": "noun denoting radiance",
+     "grounds": "radiance noun accusative",
      "morph": "m.acc.sg"
     },
     {
      "surface": "brahma",
      "gloss": "brahma",
-     "grounds": "noun denoting brahma",
+     "grounds": "brahma noun",
      "morph": "n.nom.sg"
     },
     {
      "surface": "randhra",
      "gloss": "aperture",
-     "grounds": "noun denoting aperture",
-     "morph": "m.nom.sg"
+     "grounds": "aperture noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "layaṃ",
      "gloss": "absorption",
-     "grounds": "noun denoting absorption",
+     "grounds": "absorption noun accusative",
      "morph": "m.acc.sg"
     },
     {
      "surface": "gatā",
      "gloss": "gone",
-     "grounds": "participle adjective",
+     "grounds": "gone participle",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "What becomes of the radiance situated in the throat cavity?",
+   "question": "Where does the radiance situated in the throat cavity ultimately go?",
    "premises": [
-    "radiance is situated in the throat cavity",
-    "it goes to absorption in the brahma aperture",
-    "previous verses describe freedom from aging and disease"
+    "radiance situated in throat cavity",
+    "brahma aperture is destination",
+    "absorption is final state"
    ],
-   "inference": "the throat-cavity radiance is absorbed into the brahma aperture",
+   "inference": "throat radiance is absorbed into brahma aperture",
    "uncertainties": [
-    "exact syntactic relation of brahma randhra is inferred from context"
+    "exact syntactic role of udyotaṃ",
+    "gender agreement of gatā"
    ],
    "plain_english": "The radiance situated in the throat cavity goes to absorption in the brahma aperture."
   }

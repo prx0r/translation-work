@@ -1,14 +1,12 @@
 {
  "song": "kjn-p07",
  "verse": 153,
- "question": "What qualities appear in the fourth and fifth stages?",
+ "question": "What powers appear in the fourth and fifth stages?",
  "premises": [
-  "fourth stage has speech-desirability",
-  "fifth stage has distant-hearing"
+  "The fourth stage gives speech-desirability.",
+  "The fifth stage gives distant-hearing."
  ],
- "inference": "The fourth and fifth stages grant speech-desirability and distant-hearing.",
- "uncertainties": [
-  "stage referent unspecified"
- ],
- "plain_english": "In the fourth stage speech becomes desirable; in the fifth, distant hearing arises."
+ "inference": "The verse assigns speech-desirability to the fourth stage and distant hearing to the fifth.",
+ "uncertainties": [],
+ "plain_english": "In the fourth stage there is desirability of speech; in the fifth, distant hearing."
 }
