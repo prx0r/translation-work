@@ -13,49 +13,51 @@
     {
      "surface": "mṛtyur",
      "gloss": "death",
-     "grounds": "subject of becoming",
+     "grounds": "nominative subject referring to death",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavate",
      "gloss": "becomes",
-     "grounds": "predicate for that person",
-     "morph": "3.sg.pres.ātmanepada √bhū"
+     "grounds": "present active of bhū with subject mṛtyuḥ",
+     "morph": "3.sg.act.pres/bhū"
     },
     {
      "surface": "tasya",
-     "gloss": "for-him",
-     "grounds": "refers to the practitioner",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun referring to the qualified person",
      "morph": "m.gen.sg"
     },
     {
      "surface": "akṣayo",
      "gloss": "imperishable",
-     "grounds": "describes his splendor",
+     "grounds": "predicate adjective qualifying the state of that person",
      "morph": "m.nom.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "emphatic particle marking certainty",
      "morph": "(indecl.)"
     },
     {
      "surface": "amara+dyutiḥ",
      "gloss": "immortal-splendor",
-     "grounds": "possessor of undying radiance",
-     "morph": "compound: amara+dyutiḥ; m.nom.sg"
+     "grounds": "compound = member+membership; subject/predicate denoting imperishable radiance",
+     "morph": "compound = amara+dyutiḥ"
     }
    ],
-   "question": "What condition of death and splendor arises for such a practitioner?",
+   "question": "On what basis does the possession of immortal splendor entail that death has no power over a particular person in this teaching?",
    "premises": [
-    "Death does not occur for him",
-    "His splendor is imperishable",
-    "His radiance is immortal"
+    "Death is denied as a condition for the person in question.",
+    "That person is characterized by imperishable splendor.",
+    "The particle indeed marks a necessary consequence of that characterization."
    ],
-   "inference": "The practitioner transcends death and possesses undying, imperishable splendor.",
-   "uncertainties": [],
-   "plain_english": "For him there is no death; indeed, his splendor is imperishable and immortal."
+   "inference": "For one endowed with immortal splendor, death does not arise as a binding condition.",
+   "uncertainties": [
+    "Scope of 'that person' remains determined by prior context rather than this verse alone."
+   ],
+   "plain_english": "Indeed, death does not come to him; he is imperishable, possessed of immortal splendor."
   },
   {
    "verse": 377,
@@ -63,49 +65,51 @@
     {
      "surface": "kruddhan",
      "gloss": "angered",
-     "grounds": "state of the practitioner",
+     "grounds": "adjectival participle describing the agent in a hypothetical action",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
-     "gloss": "but",
-     "grounds": "contrastive particle",
+     "gloss": "indeed",
+     "grounds": "adversative/emphatic particle marking a shift to a hypothetical case",
      "morph": "(indecl.)"
     },
     {
      "surface": "cālayet",
      "gloss": "he-may-shake",
-     "grounds": "potential action",
-     "morph": "3.sg.opt.parasmaipada √cal"
+     "grounds": "optative active of cal denoting hypothetical capacity",
+     "morph": "3.sg.act.opt/cal"
     },
     {
      "surface": "devi",
-     "gloss": "O-goddess",
-     "grounds": "vocative address",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the interlocutor",
      "morph": "f.voc.sg"
     },
     {
      "surface": "trailokya",
-     "gloss": "three-worlds",
-     "grounds": "object that may be shaken",
+     "gloss": "three-world",
+     "grounds": "accusative object denoting the totality of the three worlds",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sa+cara+acaram",
-     "gloss": "with-moving-unmoving",
-     "grounds": "describes the three worlds as containing moving and unmoving beings",
-     "morph": "compound: sa+cara+acaram; n.acc.sg"
+     "gloss": "with-moving-and-unmoving",
+     "grounds": "compound = member+membership; qualifies trailokya as including moving and unmoving beings",
+     "morph": "compound = sa+cara+acaram"
     }
    ],
-   "question": "What power does an angered accomplished practitioner wield over the three worlds?",
+   "question": "What claim about the capacity of an angered agent is being made that would require shaking the three worlds together with all moving and unmoving things?",
    "premises": [
-    "The practitioner can become angered",
-    "He may shake the three worlds",
-    "The three worlds include moving and unmoving beings"
+    "An angered agent is posited as the hypothetical subject.",
+    "The object is the three worlds including moving and unmoving things.",
+    "The optative marks a capacity attributed to that agent under the stated condition."
    ],
-   "inference": "When angered, the practitioner has the power to shake the entire threefold world.",
-   "uncertainties": [],
-   "plain_english": "But if angered, O Goddess, he can shake the three worlds with all their moving and unmoving beings."
+   "inference": "When angered, the agent is attributed the capacity to shake the entire threefold world with its moving and unmoving contents.",
+   "uncertainties": [
+    "It is unclear whether the capacity is literal, figurative, or strictly yogic without wider context."
+   ],
+   "plain_english": "But if angered, O goddess, he could shake the three worlds together with all that moves and all that does not move."
   },
   {
    "verse": 378,
@@ -113,49 +117,51 @@
     {
      "surface": "yādṛśo",
      "gloss": "of-what-kind",
-     "grounds": "correlative describing accomplishment",
+     "grounds": "correlative adjective denoting the nature of the accomplishment",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavate",
      "gloss": "becomes",
-     "grounds": "predicate of accomplishment",
-     "morph": "3.sg.pres.ātmanepada √bhū"
+     "grounds": "present of bhū linking nature to accomplishment",
+     "morph": "3.sg.act.pres/bhū"
     },
     {
      "surface": "siddhis",
      "gloss": "accomplishment",
-     "grounds": "subject whose nature is described",
+     "grounds": "nominative subject denoting the attained accomplishment",
      "morph": "f.nom.sg"
     },
     {
      "surface": "satata+abhyāsa",
      "gloss": "constant-practice",
-     "grounds": "cause of accomplishment",
-     "morph": "compound: satata+abhyāsa; m.nom.sg"
+     "grounds": "compound = member+membership; instrumental/causal basis for the nature of accomplishment",
+     "morph": "compound = satata+abhyāsa"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "restrictive particle emphasizing exclusivity of the basis",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "connective particle linking the stated principle to the preceding teaching",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What determines the nature and attainment of spiritual accomplishment?",
+   "question": "What necessary relation between constant practice and accomplishment is asserted such that the nature of accomplishment is determined by that practice alone?",
    "premises": [
-    "Accomplishment arises in a certain manner",
-    "Its nature corresponds to practice",
-    "Constant practice is the determining factor"
+    "Accomplishment is the subject under consideration.",
+    "Its nature is said to be of a certain kind.",
+    "That nature arises by constant practice alone."
    ],
-   "inference": "The kind of accomplishment attained depends entirely on constant practice.",
-   "uncertainties": [],
-   "plain_english": "Whatever kind of accomplishment arises, it comes indeed from constant practice."
+   "inference": "The kind of accomplishment attained is exactly the kind determined by constant practice.",
+   "uncertainties": [
+    "The correlative pair is left implicit and must be supplied from the surrounding teaching."
+   ],
+   "plain_english": "And indeed, the accomplishment becomes just of the kind that comes from constant practice alone."
   },
   {
    "verse": 379,
@@ -163,43 +169,45 @@
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "demonstrative pointing to the teaching",
+     "grounds": "demonstrative pointing to the knowledge just specified",
      "morph": "n.nom.sg"
     },
     {
      "surface": "jñānaṃ",
      "gloss": "knowledge",
-     "grounds": "subject identified",
+     "grounds": "nominative subject identified by the demonstrative",
      "morph": "n.nom.sg"
     },
     {
      "surface": "varaṃ",
      "gloss": "supreme",
-     "grounds": "qualifies knowledge",
+     "grounds": "predicate adjective qualifying the knowledge",
      "morph": "n.nom.sg"
     },
     {
      "surface": "jñānaṃ",
      "gloss": "knowledge",
-     "grounds": "repeated for emphasis",
+     "grounds": "repeated nominative for emphatic identification",
      "morph": "n.nom.sg"
     },
     {
      "surface": "svātantra+siddhi+mānasī",
      "gloss": "autonomy-accomplishment-mind",
-     "grounds": "describes knowledge as oriented to autonomy and accomplishment in the mind",
-     "morph": "compound: svātantra+siddhi+mānasī; f.nom.sg"
+     "grounds": "compound = member+membership; descriptive predicate naming this knowledge by its function",
+     "morph": "compound = svātantra+siddhi+mānasī"
     }
    ],
-   "question": "How is this knowledge characterized in relation to autonomy and accomplishment?",
+   "question": "By what identifying claim is a particular knowledge singled out as supreme rather than being placed on par with other forms of knowledge?",
    "premises": [
-    "This is knowledge",
-    "It is supreme knowledge",
-    "It pertains to autonomy and accomplishment in the mind"
+    "A specific knowledge is pointed to by the demonstrative.",
+    "That knowledge is declared supreme.",
+    "It is further identified as the knowledge of autonomy-accomplishment belonging to mind."
    ],
-   "inference": "The teaching presented is the supreme knowledge centered on mental autonomy and accomplishment.",
-   "uncertainties": [],
-   "plain_english": "This is knowledge, the supreme knowledge, the mind of autonomy and accomplishment."
+   "inference": "This knowledge is to be recognized as supreme and as specifically the autonomy-accomplishment knowledge of mind.",
+   "uncertainties": [
+    "The exact technical scope of the compound remains dense without adjacent definition."
+   ],
+   "plain_english": "This knowledge is supreme knowledge — the mental knowledge of the accomplishment of autonomy."
   },
   {
    "verse": 380,
@@ -207,37 +215,39 @@
     {
      "surface": "gṛhītavyaṃ",
      "gloss": "to-be-taken",
-     "grounds": "prescribes acceptance of the knowledge",
-     "morph": "n.nom.sg gerundive"
+     "grounds": "gerundive of grah denoting an obligation to accept",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
-     "grounds": "manner of taking it",
+     "grounds": "instrumental indicating the manner of undertaking the obligation",
      "morph": "m.inst.sg"
     },
     {
      "surface": "kaulave",
      "gloss": "in-kaula-path",
-     "grounds": "context of the teaching",
+     "grounds": "locative specifying the domain in which it is to be taken",
      "morph": "m.loc.sg"
     },
     {
      "surface": "siddhim+icchatā",
      "gloss": "accomplishment-desiring",
-     "grounds": "describes the one who should take it",
-     "morph": "compound: siddhim+icchatā; m.inst.sg"
+     "grounds": "compound = member+membership; agentive description of one who is obliged to take it",
+     "morph": "compound = siddhim+icchatā"
     }
    ],
-   "question": "Who should receive this knowledge and with what attitude in the Kaula path?",
+   "question": "Under what condition is this knowledge placed under an obligation to be taken, and with what degree of exertion is that obligation to be fulfilled?",
    "premises": [
-    "This knowledge must be taken up",
-    "It requires effort",
-    "The recipient desires accomplishment in the Kaula path"
+    "The object is something to be taken.",
+    "It is to be taken with effort.",
+    "This obligation falls to one who desires accomplishment within the Kaula path."
    ],
-   "inference": "One who seeks accomplishment in the Kaula path should earnestly receive this knowledge.",
-   "uncertainties": [],
-   "plain_english": "One who desires accomplishment in the Kaula path should take this up with effort."
+   "inference": "One who desires accomplishment in the Kaula path must take this knowledge up with effort.",
+   "uncertainties": [
+    "The antecedent of the gerundive is not repeated in this verse and must come from verse 379."
+   ],
+   "plain_english": "It must be taken with effort in the Kaula path by one who desires accomplishment."
   },
   {
    "verse": 381,
@@ -245,49 +255,51 @@
     {
      "surface": "rasanā",
      "gloss": "tongue",
-     "grounds": "object to be turned upward",
+     "grounds": "nominative/accusative object of the action of raising",
      "morph": "f.acc.sg"
     },
     {
      "surface": "ūrddhakaṃ",
      "gloss": "upward",
-     "grounds": "direction of the tongue",
+     "grounds": "adverbial accusative describing the direction of raising the tongue",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "prior action",
-     "morph": "gerund √kṛ"
+     "grounds": "absolute participle setting the prior condition for the main action",
+     "morph": "(indecl.)"
     },
     {
      "surface": "manas",
      "gloss": "mind",
-     "grounds": "object to be fixed",
+     "grounds": "accusative object to be fixed",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tasmin",
      "gloss": "in-that",
-     "grounds": "place where mind is fixed",
+     "grounds": "locative pronoun referring to the place/state established by the prior action",
      "morph": "n.loc.sg"
     },
     {
      "surface": "niveśayet",
      "gloss": "one-should-fix",
-     "grounds": "instruction for practice",
-     "morph": "3.sg.opt.parasmaipada ni+√viś"
+     "grounds": "causative optative prescribing the action",
+     "morph": "3.sg.act.opt/niviś-caus"
     }
    ],
-   "question": "What physical and mental technique should be performed in this yogic practice?",
+   "question": "What sequential condition must be established before fixing the mind, such that the fixation is prescribed to take place at a specific location?",
    "premises": [
-    "The tongue should be turned upward",
-    "The mind should be placed there",
-    "This is a prescribed practice"
+    "The tongue is to be raised upward.",
+    "That action establishes a particular location or state.",
+    "The mind is to be fixed in that location or state."
    ],
-   "inference": "The practice requires turning the tongue upward and fixing the mind in that place.",
-   "uncertainties": [],
-   "plain_english": "Having turned the tongue upward, one should fix the mind there."
+   "inference": "After raising the tongue upward, one should fix the mind in the state or place thereby established.",
+   "uncertainties": [
+    "The precise anatomical or yogic referent of 'in that' is not specified by this verse alone."
+   ],
+   "plain_english": "Having raised the tongue upward, one should fix the mind in that place."
   },
   {
    "verse": 382,
@@ -295,37 +307,39 @@
     {
      "surface": "kṣaṇena",
      "gloss": "in-a-moment",
-     "grounds": "timeframe of liberation",
+     "grounds": "instrumental of time indicating the speed of the result",
      "morph": "m.inst.sg"
     },
     {
      "surface": "mucyate",
      "gloss": "is-freed",
-     "grounds": "result of the practice",
-     "morph": "3.sg.pres.passive √muc"
+     "grounds": "passive present of muc denoting release",
+     "morph": "3.sg.pass.pres/muc"
     },
     {
      "surface": "rogair",
      "gloss": "from-diseases",
-     "grounds": "afflictions removed",
+     "grounds": "instrumental/ablative source of release",
      "morph": "m.inst.pl"
     },
     {
      "surface": "vyādhi+mṛtyu+jarā+ādibhiḥ",
      "gloss": "from-illness-death-old-age-etc",
-     "grounds": "lists diseases, death, old age and other afflictions",
-     "morph": "compound: vyādhi+mṛtyu+jarā+ādibhiḥ; m.inst.pl"
+     "grounds": "compound = member+membership; expanded source of afflictions from which release occurs",
+     "morph": "compound = vyādhi+mṛtyu+jarā+ādibhiḥ"
     }
    ],
-   "question": "What immediate freedom results from performing the prescribed yogic technique?",
+   "question": "What claim about the immediacy of release is made by attributing freedom from a broad class of afflictions to a single moment of practice?",
    "premises": [
-    "Freedom occurs in a moment",
-    "One is freed from diseases",
-    "Illness, death, old age and similar afflictions are included"
+    "Release occurs in a moment.",
+    "The sources of release are diseases and afflictions including illness, death, old age, and the like.",
+    "The passive construction marks release as the result attained."
    ],
-   "inference": "The practice quickly frees one from diseases, illness, death, old age, and related afflictions.",
-   "uncertainties": [],
-   "plain_english": "In a moment one is freed from diseases, from illness, death, old age, and the like."
+   "inference": "By the practice stated, one is freed in a moment from diseases and from afflictions such as illness, death, and old age.",
+   "uncertainties": [
+    "The agent of practice is not named in this verse and is carried over from the preceding prescription."
+   ],
+   "plain_english": "In a moment one is freed from diseases and from illness, death, old age, and so on."
   },
   {
    "verse": 383,
@@ -333,45 +347,45 @@
     {
      "surface": "kṣaṇena",
      "gloss": "in-a-moment",
-     "grounds": "timeframe of destruction",
+     "grounds": "instrumental of time marking immediacy",
      "morph": "m.inst.sg"
     },
     {
      "surface": "naśyate",
      "gloss": "is-destroyed",
-     "grounds": "result for disease",
-     "morph": "3.sg.pres.passive √naś"
+     "grounds": "passive present of naś denoting destruction of the affliction",
+     "morph": "3.sg.pass.pres/naś"
     },
     {
      "surface": "vyādhiḥ",
      "gloss": "disease",
-     "grounds": "subject destroyed",
+     "grounds": "nominative subject undergoing destruction",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kaṭuke",
      "gloss": "in-pungent",
-     "grounds": "condition or experience associated with destruction",
+     "grounds": "locative specifying the condition or substance in which the result holds",
      "morph": "n.loc.sg"
     },
     {
      "surface": "kuṣṭha+nāśanam",
      "gloss": "leprosy-destruction",
-     "grounds": "specifies destruction of leprosy",
-     "morph": "compound: kuṣṭha+nāśanam; n.nom.sg"
+     "grounds": "compound = member+membership; predicate/name indicating destruction specifically of leprosy",
+     "morph": "compound = kuṣṭha+nāśanam"
     }
    ],
-   "question": "What specific diseases are destroyed quickly through this practice?",
+   "question": "What specific therapeutic claim is restricted to a pungent condition, such that a particular disease is said to be destroyed in a moment?",
    "premises": [
-    "Disease is destroyed in a moment",
-    "A pungent experience is involved",
-    "Leprosy is specifically destroyed"
+    "A disease is destroyed in a moment.",
+    "This takes place in a pungent condition.",
+    "The result is specified as destruction of leprosy."
    ],
-   "inference": "The practice rapidly destroys disease, including leprosy, in connection with a pungent experience.",
+   "inference": "In a pungent condition, leprosy is destroyed in a moment.",
    "uncertainties": [
-    "The exact referent of 'kaṭuke' (a taste, substance, or sensation) is unclear from this verse alone."
+    "The identity of 'pungent' as substance, taste, or condition is not determined by this verse alone."
    ],
-   "plain_english": "In a moment disease is destroyed; in the pungent state there is the destruction of leprosy."
+   "plain_english": "In a moment disease is destroyed in a pungent substance — specifically, leprosy is destroyed."
   },
   {
    "verse": 384,
@@ -379,45 +393,45 @@
     {
      "surface": "kṣīra+svādena",
      "gloss": "by-milk-taste",
-     "grounds": "means or experience leading to transformation",
-     "morph": "compound: kṣīra+svādena; m.inst.sg"
+     "grounds": "instrumental compound = member+membership; means by which the result is attained",
+     "morph": "compound = kṣīra+svādena"
     },
     {
      "surface": "medhāvi",
      "gloss": "wise",
-     "grounds": "quality of the person",
+     "grounds": "nominative agent qualified by the result",
      "morph": "m.nom.sg"
     },
     {
      "surface": "amaro",
      "gloss": "immortal",
-     "grounds": "resulting state",
+     "grounds": "predicate adjective describing the transformed state of the agent",
      "morph": "m.nom.sg"
     },
     {
      "surface": "jāyate",
      "gloss": "becomes",
-     "grounds": "transformation predicate",
-     "morph": "3.sg.pres.ātmanepada √jan"
+     "grounds": "present middle of jan denoting transformation into the stated state",
+     "morph": "3.sg.mid.pres/jan"
     },
     {
      "surface": "naraḥ",
      "gloss": "man",
-     "grounds": "subject who becomes immortal",
+     "grounds": "nominative subject undergoing transformation",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What transformation occurs in a person through the experience of milk taste?",
+   "question": "What transformation is claimed for a wise person as a result of using milk-taste, such that a change of state rather than a mere acquisition is asserted?",
    "premises": [
-    "The experience involves the taste of milk",
-    "The person becomes wise",
-    "The person becomes immortal"
+    "A man who is wise is the subject.",
+    "The means is the taste of milk.",
+    "By that means he becomes immortal."
    ],
-   "inference": "Through the taste of milk, a person becomes wise and attains immortality.",
+   "inference": "By means of milk-taste, a wise man is transformed and becomes immortal.",
    "uncertainties": [
-    "Whether 'kṣīra+svādena' refers to literal milk or a yogic nectar is not specified."
+    "It is unclear whether 'milk-taste' denotes ingestion, a yogic practice, or a symbolic element."
    ],
-   "plain_english": "By the taste of milk, a man becomes wise and immortal."
+   "plain_english": "By the taste of milk, a wise man becomes immortal."
   },
   {
    "verse": 385,
@@ -425,57 +439,57 @@
     {
      "surface": "cittaṃ",
      "gloss": "mind",
-     "grounds": "object to be placed",
+     "grounds": "accusative object to be placed",
      "morph": "n.acc.sg"
     },
     {
      "surface": "dadyāt",
      "gloss": "one-should-place",
-     "grounds": "instruction for mental placement",
-     "morph": "3.sg.opt.parasmaipada √dā"
+     "grounds": "optative of dā prescribing placement",
+     "morph": "3.sg.act.opt/dā"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "emphatic particle marking the prescription",
      "morph": "(indecl.)"
     },
     {
      "surface": "cakreṇa",
      "gloss": "in-circle",
-     "grounds": "location or means for placing mind",
+     "grounds": "instrumental/locative-like means specifying the location or support",
      "morph": "n.inst.sg"
     },
     {
      "surface": "nāse",
      "gloss": "in-nose",
-     "grounds": "location for the second placement",
-     "morph": "n.loc.sg"
+     "grounds": "locative specifying an alternative or additional location",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "dadyāt",
      "gloss": "one-should-place",
-     "grounds": "repeated instruction",
-     "morph": "3.sg.opt.parasmaipada √dā"
+     "grounds": "repeated optative prescribing a second placement",
+     "morph": "3.sg.act.opt/dā"
     },
     {
      "surface": "vijṛmbhikā",
      "gloss": "yawning",
-     "grounds": "object or state to be placed or induced",
-     "morph": "f.nom.sg"
+     "grounds": "accusative object or locative reference tied to the second placement",
+     "morph": "f.acc.sg"
     }
    ],
-   "question": "Where should the mind and yawning be directed in this yogic instruction?",
+   "question": "What twofold placement of the mind is prescribed, and what distinct points of application are specified for each placement?",
    "premises": [
-    "The mind should be placed in the circle",
-    "Placement in the nose is instructed",
-    "Yawning is involved in the practice"
+    "The mind is to be placed in the circle.",
+    "The mind is also to be placed in the nose.",
+    "A second placement is associated with yawning."
    ],
-   "inference": "The practice involves placing the mind in the circle and directing yawning in the nose.",
+   "inference": "One should place the mind in the circle, and place it in the nose in connection with yawning.",
    "uncertainties": [
-    "The syntactic role of 'vijṛmbhikā' and the exact technique are ambiguous."
+    "The syntactic relation between 'nose' and 'yawning' is ambiguous and not resolved by this verse alone."
    ],
-   "plain_english": "One should place the mind in the circle, and place yawning in the nose."
+   "plain_english": "One should place the mind in the circle; one should place it in the nose at the time of yawning."
   },
   {
    "verse": 386,
@@ -483,45 +497,45 @@
     {
      "surface": "deva+kanyā",
      "gloss": "divine-maiden",
-     "grounds": "being associated with the result",
-     "morph": "compound: deva+kanyā; f.nom.sg"
+     "grounds": "compound = member+membership; nominative subject of becoming",
+     "morph": "compound = deva+kanyā"
     },
     {
      "surface": "surāṇām",
      "gloss": "of-gods",
-     "grounds": "specifies the divine maidens",
+     "grounds": "genitive plural specifying relation to the gods",
      "morph": "m.gen.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "connective linking classes",
      "morph": "(indecl.)"
     },
     {
      "surface": "yakṣa+vidyādharo",
-     "gloss": "yaksha-vidyadhara",
-     "grounds": "state or company attained",
-     "morph": "compound: yakṣa+vidyādharo; m.nom.sg"
+     "gloss": "yakṣa-vidyādhara",
+     "grounds": "compound = member+membership; nominative subject of becoming",
+     "morph": "compound = yakṣa+vidyādharo"
     },
     {
      "surface": "bhavet",
      "gloss": "he-may-become",
-     "grounds": "potential result",
-     "morph": "3.sg.opt.parasmaipada √bhū"
+     "grounds": "optative of bhū denoting a possible attainment",
+     "morph": "3.sg.act.opt/bhū"
     }
    ],
-   "question": "What exalted beings or states may the practitioner attain through this practice?",
+   "question": "What classes of beings are claimed as attainable states by the practice, and on what basis are they grouped together?",
    "premises": [
-    "Divine maidens of the gods are mentioned",
-    "Yakshas and Vidyadharas are mentioned",
-    "The practitioner may attain such a state"
+    "One may become a divine maiden of the gods.",
+    "One may also become a yakṣa-vidyādhara.",
+    "The connective groups these as parallel attainments."
    ],
-   "inference": "The practitioner may come to be among divine maidens, Yakshas, and Vidyadharas.",
+   "inference": "By this practice one may attain the state of a divine maiden of the gods or the state of a yakṣa-vidyādhara.",
    "uncertainties": [
-    "Whether the practitioner becomes a Yaksha-Vidyadhara or gains their company is ambiguous."
+    "The gender/number agreement is compact and may be generalized beyond the literal form."
    ],
-   "plain_english": "He may become associated with the divine maidens of the gods and with Yakshas and Vidyadharas."
+   "plain_english": "One may become a divine maiden of the gods, and also a yakṣa-vidyādhara."
   },
   {
    "verse": 387,
@@ -529,45 +543,45 @@
     {
      "surface": "divya+kanyā",
      "gloss": "divine-maidens",
-     "grounds": "objects attracted",
-     "morph": "compound: divya+kanyā; f.acc.pl"
+     "grounds": "compound = member+membership; accusative object attracted",
+     "morph": "compound = divya+kanyā"
     },
     {
      "surface": "anekāśca",
-     "gloss": "and-many",
-     "grounds": "indicates plurality of maidens",
-     "morph": "f.acc.pl + (indecl.)"
+     "gloss": "many",
+     "grounds": "adjectival qualifier with connective to the object class",
+     "morph": "f.acc.pl"
     },
     {
      "surface": "ākṛṣya",
      "gloss": "having-attracted",
-     "grounds": "prior action",
-     "morph": "gerund ā+√kṛṣ"
+     "grounds": "absolute participle of ā-kṛṣ denoting prior action",
+     "morph": "(indecl.)"
     },
     {
      "surface": "bhuñjate",
      "gloss": "they-enjoy",
-     "grounds": "resulting enjoyment",
-     "morph": "3.pl.pres.ātmanepada √bhuj"
+     "grounds": "middle present of bhuj denoting enjoyment by the agent",
+     "morph": "3.pl.mid.pres/bhuj"
     },
     {
      "surface": "priye",
-     "gloss": "O-beloved",
-     "grounds": "vocative address",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the interlocutor",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What enjoyment follows from attracting many divine maidens in this practice?",
+   "question": "What sequence of actions is attributed to the practitioner such that attraction of beings leads to a stated form of enjoyment?",
    "premises": [
-    "Many divine maidens are attracted",
-    "Attraction precedes enjoyment",
-    "Enjoyment follows as a result"
+    "Many divine maidens are attracted.",
+    "Attraction is accomplished by the practitioner.",
+    "There follows enjoyment of them by that practitioner."
    ],
-   "inference": "After attracting many divine maidens, one enjoys them, O beloved.",
+   "inference": "Having attracted many divine maidens, O beloved, the practitioner enjoys them.",
    "uncertainties": [
-    "The subject of 'bhuñjate' (practitioner or the maidens) is not explicit."
+    "The agent is not named explicitly and is carried over from the preceding verses."
    ],
-   "plain_english": "Having attracted many divine maidens, they enjoy, O beloved."
+   "plain_english": "Having attracted many divine maidens, O beloved, they enjoy them."
   },
   {
    "verse": 388,
@@ -575,57 +589,57 @@
     {
      "surface": "ūrddha+retā",
      "gloss": "upward-semen",
-     "grounds": "describes the yogi's retained vital energy",
-     "morph": "compound: ūrddha+retā; m.nom.sg"
+     "grounds": "compound = member+membership; descriptive predicate of the yogin",
+     "morph": "compound = ūrddha+retā"
     },
     {
      "surface": "bhaved",
      "gloss": "becomes",
-     "grounds": "predicate of transformation",
-     "morph": "3.sg.opt.parasmaipada √bhū"
+     "grounds": "optative of bhū denoting a possible state",
+     "morph": "3.sg.act.opt/bhū"
     },
     {
      "surface": "yogī",
-     "gloss": "yogi",
-     "grounds": "subject who attains the state",
+     "gloss": "yogin",
+     "grounds": "nominative subject attaining the state",
      "morph": "m.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation in contrast",
+     "grounds": "negation marking a contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "yogī",
-     "gloss": "yogi",
-     "grounds": "contrasted subject",
+     "gloss": "yogin",
+     "grounds": "nominative subject of the negated clause",
      "morph": "m.nom.sg"
     },
     {
      "surface": "karata(?",
      "gloss": "by-hand",
-     "grounds": "uncertain reading indicating manual action",
-     "morph": "uncertain form"
+     "grounds": "uncertain surface as given; treated as transmitted form requiring caution; instrumental reference to hand",
+     "morph": "m.inst.sg (uncertain)"
     },
     {
      "surface": "priye",
-     "gloss": "O-beloved",
+     "gloss": "o-beloved",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What distinguishes a true yogi with upward-retained energy from another claimant?",
+   "question": "What contrast is being drawn between two ways of being a yogin, such that retention of semen is asserted as the condition for one state and denied for another?",
    "premises": [
-    "A yogi becomes one whose semen flows upward",
-    "Another is said not to be a yogi",
-    "A manual action is contrasted"
+    "A yogin may become one of upward semen.",
+    "A yogin is not so by the hand.",
+    "The contrast marks two distinct modes of yogic practice."
    ],
-   "inference": "True yogic status is marked by upward-retained energy, not by mere manual practice.",
+   "inference": "The yogin becomes upward-semen by the prescribed practice, not by a manual mode.",
    "uncertainties": [
-    "The token 'karata(?' is textually uncertain and its exact meaning is unclear."
+    "Token 6 is transmitted as 'karata(?' in the list; surface fidelity requires keeping that form as given, but its exact case/reading remains uncertain."
    ],
-   "plain_english": "The yogi becomes one whose energy flows upward; not a yogi by hand, O beloved."
+   "plain_english": "The yogin becomes upward-semen, O beloved; the yogin is not so by hand."
   },
   {
    "verse": 389,
@@ -633,54 +647,56 @@
     {
      "surface": "durlabhan",
      "gloss": "difficult-to-obtain",
-     "grounds": "describes the circle",
+     "grounds": "predicate adjective describing the circle",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "emphatic particle marking value",
      "morph": "(indecl.)"
     },
     {
      "surface": "imaṃ",
      "gloss": "this",
-     "grounds": "demonstrative specifying the circle",
-     "morph": "n.acc.sg"
+     "grounds": "demonstrative pointing to the circle",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "cakraṃ",
      "gloss": "circle",
-     "grounds": "object praised as rare",
-     "morph": "n.nom.sg"
+     "grounds": "accusative subject of the predication",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "nāsti",
-     "gloss": "there-is-not",
-     "grounds": "negates existence of higher yoga",
-     "morph": "3.sg.pres √as"
+     "gloss": "not",
+     "grounds": "negation of existence/comparability",
+     "morph": "3.sg.act.pres/as"
     },
     {
      "surface": "yogaṃ",
      "gloss": "yoga",
-     "grounds": "subject compared",
-     "morph": "n.nom.sg"
+     "grounds": "nominative/subject of comparison",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "imam+param",
      "gloss": "higher-than-this",
-     "grounds": "states no yoga is higher than this",
-     "morph": "compound: imam+param; n.nom.sg"
+     "grounds": "compound = member+membership; predicate of comparison denying a higher yoga",
+     "morph": "compound = imam+param"
     }
    ],
-   "question": "How rare and supreme is this circle compared to other yogic methods?",
+   "question": "What comparative claim about rarity and superiority is made for this circle, such that no higher yoga is asserted to exist in comparison to it?",
    "premises": [
-    "This circle is difficult to obtain",
-    "No yoga exists higher than this",
-    "The teaching asserts its supremacy"
+    "This circle is difficult to obtain.",
+    "There is no yoga higher than this.",
+    "The negation is a claim of superiority by comparison."
    ],
-   "inference": "This circle is both rare and unsurpassed by any other yoga.",
-   "uncertainties": [],
+   "inference": "This circle is difficult to obtain and has no yoga higher than it.",
+   "uncertainties": [
+    "The syntactic alignment between 'durlabhan' and the clause is compact and depends on ellipsis."
+   ],
    "plain_english": "This circle is indeed difficult to obtain; there is no yoga higher than this."
   },
   {
@@ -689,7 +705,7 @@
     {
      "surface": "abhyāse",
      "gloss": "in-practice",
-     "grounds": "context of repeated practice",
+     "grounds": "locative specifying the domain of the result",
      "morph": "m.loc.sg"
     },
     {
@@ -701,25 +717,27 @@
     {
      "surface": "pada+abhyasta",
      "gloss": "step-practiced",
-     "grounds": "describes practice mastered step by step",
-     "morph": "compound: pada+abhyasta; n.nom.sg"
+     "grounds": "compound = member+membership; adjectival describing practice done step by step",
+     "morph": "compound = pada+abhyasta"
     },
     {
      "surface": "mahat+āścarya+kārakam",
      "gloss": "great-wonder-causing",
-     "grounds": "describes the effect of practice",
-     "morph": "compound: mahat+āścarya+kārakam; n.nom.sg"
+     "grounds": "compound = member+membership; predicate describing what stepwise practice produces",
+     "morph": "compound = mahat+āścarya+kārakam"
     }
    ],
-   "question": "What effect arises when this practice is mastered step by step?",
+   "question": "What effect is attributed to practice when carried out step by step, such that its result is characterized as producing great wonder?",
    "premises": [
-    "The context is ongoing practice",
-    "Practice is mastered step by step",
-    "It produces great wonder"
+    "Practice is the domain under consideration.",
+    "When practiced step by step, it is of a particular kind.",
+    "That kind of practice produces what causes great wonder."
    ],
-   "inference": "Step-by-step mastery in practice produces greatly wondrous effects.",
-   "uncertainties": [],
-   "plain_english": "Indeed, when practiced step by step, it produces great wonder."
+   "inference": "Practice carried out step by step produces a result that causes great wonder.",
+   "uncertainties": [
+    "The subject of production is ellipted and must be inferred from context."
+   ],
+   "plain_english": "In practice, step by step practice indeed produces something that causes great wonder."
   },
   {
    "verse": 391,
@@ -727,43 +745,45 @@
     {
      "surface": "bhavate",
      "gloss": "becomes",
-     "grounds": "predicate of result",
-     "morph": "3.sg.pres.ātmanepada √bhū"
+     "grounds": "present of bhū denying the existence of doubt",
+     "morph": "3.sg.act.pres/bhū"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation of doubt",
+     "grounds": "negation of the subject",
      "morph": "(indecl.)"
     },
     {
      "surface": "atra",
      "gloss": "here",
-     "grounds": "locative emphasis",
+     "grounds": "locative referring to this teaching or practice",
      "morph": "(indecl.)"
     },
     {
      "surface": "saṃdehaḥ",
      "gloss": "doubt",
-     "grounds": "what is denied",
+     "grounds": "nominative subject negated",
      "morph": "m.nom.sg"
     },
     {
      "surface": "satata+abhyāsa+tatparāḥ",
      "gloss": "constant-practice-devoted",
-     "grounds": "describes those for whom there is no doubt",
-     "morph": "compound: satata+abhyāsa+tatparāḥ; m.nom.pl"
+     "grounds": "compound = member+membership; dative/agentive description of those for whom no doubt arises",
+     "morph": "compound = satata+abhyāsa+tatparāḥ"
     }
    ],
-   "question": "For whom is there no doubt about the promised results of this practice?",
+   "question": "For whom is doubt said to have no place in this matter, and on what basis is that certainty asserted?",
    "premises": [
-    "A result comes to be",
-    "There is no doubt in this matter",
-    "This applies to those devoted to constant practice"
+    "Doubt is the thing negated.",
+    "Its location is this teaching or practice.",
+    "No doubt arises for those devoted to constant practice."
    ],
-   "inference": "For those devoted to constant practice, the promised result is beyond doubt.",
-   "uncertainties": [],
-   "plain_english": "There is no doubt here for those devoted to constant practice."
+   "inference": "For those devoted to constant practice, there is no doubt here.",
+   "uncertainties": [
+    "The exact referent of 'here' is determined by the preceding sequence of results."
+   ],
+   "plain_english": "There is no doubt here for those who are devoted to constant practice."
   },
   {
    "verse": 392,
@@ -771,159 +791,165 @@
     {
      "surface": "pratimā+jalpanan",
      "gloss": "in-image-muttering",
-     "grounds": "practice of muttering before an image",
-     "morph": "compound: pratimā+jalpanan; n.loc.sg"
+     "grounds": "compound = member+membership; locative/accusative setting specifying the context of the action",
+     "morph": "compound = pratimā+jalpanan"
     },
     {
      "surface": "tasmi(n",
      "gloss": "in-that",
-     "grounds": "locative reference to that context",
-     "morph": "n.loc.sg"
+     "grounds": "locative pronoun referring back to the image-muttering context; surface kept as transmitted",
+     "morph": "n.loc.sg (surface as given)"
     },
     {
      "surface": "ghaṭa+pāṣāṇa+sphoṭanam",
      "gloss": "pot-stone-breaking",
-     "grounds": "resulting power to break pot and stone",
-     "morph": "compound: ghaṭa+pāṣāṇa+sphoṭanam; n.nom.sg"
+     "grounds": "compound = member+membership; nominative/subject of the stated result",
+     "morph": "compound = ghaṭa+pāṣāṇa+sphoṭanam"
     }
    ],
-   "question": "What extraordinary power arises from muttering in the presence of an image?",
+   "question": "What result is claimed to occur in the context of muttering before an image, such that a striking physical effect is asserted?",
    "premises": [
-    "Muttering occurs in relation to an image",
-    "This takes place in that context",
-    "Breaking of pot and stone results"
+    "The context is muttering in relation to an image.",
+    "In that context a result occurs.",
+    "That result is the breaking of pots and stones."
    ],
-   "inference": "Muttering before the image grants the power to break pots and stones.",
+   "inference": "In the context of muttering before an image, pots and stones are broken.",
    "uncertainties": [
-    "The exact ritual context of 'pratimā+jalpanan' is not fully specified."
+    "Token 2 is transmitted as 'tasmi(n' (truncated form); surface fidelity requires keeping it exactly as given, with locative reference uncertain."
    ],
-   "plain_english": "In that muttering before the image, there is the breaking of pots and stones."
+   "plain_english": "In muttering before an image, in that context, pots and stones are broken."
   },
   {
    "verse": 393,
    "rows": [
     {
      "surface": "brahma+viṣṇu+yama+indrāś",
-     "gloss": "Brahma-Vishnu-Yama-Indra",
-     "grounds": "list of deities",
-     "morph": "compound: brahma+viṣṇu+yama+indrāś; m.nom.pl"
+     "gloss": "brahma-viṣṇu-yama-indra",
+     "grounds": "compound = member+membership; nominative plural subjects",
+     "morph": "compound = brahma+viṣṇu+yama+indrāś"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "connective linking lists",
      "morph": "(indecl.)"
     },
     {
      "surface": "varuṇo",
-     "gloss": "Varuna",
-     "grounds": "deity in the list",
+     "gloss": "varuṇa",
+     "grounds": "nominative subject added to the list",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vāyur",
-     "gloss": "Vayu",
-     "grounds": "deity in the list",
+     "gloss": "vāyu",
+     "grounds": "nominative subject added to the list",
      "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "emphatic particle marking the completeness of the list",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "connective closing the list",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which principal deities are included in the vision granted by this practice?",
+   "question": "What class of deities is being enumerated in full, and what rhetorical force is given to that enumeration by the emphatic particles?",
    "premises": [
-    "Brahma, Vishnu, Yama, and Indra are named",
-    "Varuna is named",
-    "Vayu is named"
+    "Brahmā, Viṣṇu, Yama, and Indra are listed.",
+    "Varuṇa and Vāyu are added.",
+    "The emphatic particles mark the list as complete."
    ],
-   "inference": "The practice encompasses a vision including Brahma, Vishnu, Yama, Indra, Varuna, and Vayu.",
-   "uncertainties": [],
-   "plain_english": "Brahma, Vishnu, Yama, and Indra, and also Varuna and Vayu."
+   "inference": "The major deities Brahmā, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu are all included in this enumeration.",
+   "uncertainties": [
+    "The verb governing this list is ellipted and must be supplied from the surrounding context."
+   ],
+   "plain_english": "Brahmā, Viṣṇu, Yama, and Indra, and Varuṇa and Vāyu indeed."
   },
   {
    "verse": 394,
    "rows": [
     {
      "surface": "gandharvāḥ",
-     "gloss": "Gandharvas",
-     "grounds": "celestial beings in the list",
+     "gloss": "gandharvas",
+     "grounds": "nominative plural subjects in the enumeration",
      "morph": "m.nom.pl"
     },
     {
      "surface": "kinnarā",
-     "gloss": "Kinnaras",
-     "grounds": "celestial beings in the list",
+     "gloss": "kinnaras",
+     "grounds": "nominative plural subjects in the enumeration",
      "morph": "m.nom.pl"
     },
     {
      "surface": "yakṣā",
-     "gloss": "Yakshas",
-     "grounds": "celestial beings in the list",
+     "gloss": "yakṣas",
+     "grounds": "nominative plural subjects in the enumeration",
      "morph": "m.nom.pl"
     },
     {
      "surface": "nāgā",
-     "gloss": "Nagas",
-     "grounds": "celestial beings in the list",
+     "gloss": "nāgas",
+     "grounds": "nominative plural subjects in the enumeration",
      "morph": "m.nom.pl"
     },
     {
      "surface": "vidyādharāḥ",
-     "gloss": "Vidyadharas",
-     "grounds": "celestial beings in the list",
+     "gloss": "vidyādharas",
+     "grounds": "nominative plural subjects in the enumeration",
      "morph": "m.nom.pl"
     },
     {
      "surface": "priye",
-     "gloss": "O-beloved",
+     "gloss": "o-beloved",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Which other classes of celestial beings appear within the scope of this vision?",
+   "question": "What additional class of beings is added to the previous enumeration, and what purpose does this expanded list serve in the teaching?",
    "premises": [
-    "Gandharvas and Kinnaras are named",
-    "Yakshas and Nagas are named",
-    "Vidyadharas are named"
+    "Gandharvas, Kinnaras, Yakṣas, Nāgas, and Vidyādharas are listed.",
+    "The list continues the enumeration begun in the previous verse.",
+    "It is addressed to the beloved interlocutor."
    ],
-   "inference": "The vision extends to Gandharvas, Kinnaras, Yakshas, Nagas, and Vidyadharas.",
-   "uncertainties": [],
-   "plain_english": "Gandharvas, Kinnaras, Yakshas, Nagas, and Vidyadharas, O beloved."
+   "inference": "These classes of beings are included among those appearing in connection with the practice described.",
+   "uncertainties": [
+    "The governing verb remains ellipted across verses 393-394."
+   ],
+   "plain_english": "Gandharvas, Kinnaras, Yakṣas, Nāgas, and Vidyādharas, O beloved."
   },
   {
    "verse": 395,
    "rows": [
     {
      "surface": "nakṣatra+tāraka+upetaṃ",
-     "gloss": "with-constellations-stars-endowed",
-     "grounds": "describes the universe as filled with stars and constellations",
-     "morph": "compound: nakṣatra+tāraka+upetaṃ; n.acc.sg"
+     "gloss": "with-constellations-and-stars-endowed",
+     "grounds": "compound = member+membership; adjectival describing the object shown",
+     "morph": "compound = nakṣatra+tāraka+upetaṃ"
     },
     {
      "surface": "brahmāṇḍa+parighaṭṭitam",
      "gloss": "universe-encompassed",
-     "grounds": "describes the whole cosmic sphere",
-     "morph": "compound: brahmāṇḍa+parighaṭṭitam; n.acc.sg"
+     "grounds": "compound = member+membership; adjectival describing the object as encompassing the universe",
+     "morph": "compound = brahmāṇḍa+parighaṭṭitam"
     }
    ],
-   "question": "What cosmic totality is encompassed in the vision revealed by constant meditation?",
+   "question": "What kind of object is described as endowed with constellations and stars and as encompassing the universe, such that its nature is the basis for a subsequent act of showing?",
    "premises": [
-    "The vision includes constellations and stars",
-    "The entire cosmic egg is encompassed",
-    "This forms a complete cosmic totality"
+    "An object is endowed with constellations and stars.",
+    "That same object encompasses the universe.",
+    "These qualities prepare for an act of manifestation described next."
    ],
-   "inference": "The vision encompasses the entire universe endowed with constellations and stars.",
-   "uncertainties": [],
-   "plain_english": "The universe encompassed, endowed with constellations and stars."
+   "inference": "What is shown is an object endowed with constellations and stars and encompassing the universe.",
+   "uncertainties": [
+    "The noun qualified by these compounds is ellipted and must be supplied from verse 396."
+   ],
+   "plain_english": "Endowed with constellations and stars, encompassing the universe."
   },
   {
    "verse": 396,
@@ -931,37 +957,39 @@
     {
      "surface": "darśayet",
      "gloss": "he-may-show",
-     "grounds": "potential revelatory action",
-     "morph": "3.sg.opt.parasmaipada √dṛś (causative)"
+     "grounds": "causative optative of dṛś denoting manifestation",
+     "morph": "3.sg.act.opt/dṛś-caus"
     },
     {
      "surface": "svaka+piṇḍaṃ",
      "gloss": "own-body",
-     "grounds": "object shown in vision",
-     "morph": "compound: svaka+piṇḍaṃ; m.acc.sg"
+     "grounds": "compound = member+membership; accusative object shown",
+     "morph": "compound = svaka+piṇḍaṃ"
     },
     {
      "surface": "satata+dhyānāt",
      "gloss": "by-constant-meditation",
-     "grounds": "means of achieving the vision",
-     "morph": "compound: satata+dhyānāt; n.abl.sg"
+     "grounds": "compound = member+membership; ablative of means",
+     "morph": "compound = satata+dhyānāt"
     },
     {
      "surface": "aneka+dhā",
      "gloss": "in-many-ways",
-     "grounds": "manner in which the body is shown",
-     "morph": "compound: aneka+dhā; (indecl.)"
+     "grounds": "adverbial compound = member+membership; manner of showing",
+     "morph": "compound = aneka+dhā"
     }
    ],
-   "question": "How does constant meditation enable one to perceive one's own body?",
+   "question": "By what means and in what manner is the practitioner's own body said to be shown, given the cosmic object described in the previous verse?",
    "premises": [
-    "Constant meditation is the means",
-    "One's own body is shown",
-    "It is shown in many ways"
+    "By constant meditation something is shown.",
+    "The object shown is one's own body.",
+    "It is shown in many ways."
    ],
-   "inference": "Through constant meditation, one may perceive one's own body in many forms.",
-   "uncertainties": [],
-   "plain_english": "By constant meditation, he may show his own body in many ways."
+   "inference": "By constant meditation, one causes one's own body to be shown in many ways.",
+   "uncertainties": [
+    "The relation between the cosmic description of verse 395 and the body shown here is not explicit in this verse alone."
+   ],
+   "plain_english": "By constant meditation he may show his own body in many ways."
   },
   {
    "verse": 397,
@@ -969,43 +997,45 @@
     {
      "surface": "abhyāsād",
      "gloss": "from-practice",
-     "grounds": "source of accomplishment",
+     "grounds": "ablative of source indicating origin of accomplishment",
      "morph": "m.abl.sg"
     },
     {
      "surface": "dadate",
      "gloss": "gives",
-     "grounds": "bestowal of accomplishment",
-     "morph": "3.sg.pres.ātmanepada √dā"
+     "grounds": "present middle of dā denoting bestowal",
+     "morph": "3.pl.mid.pres/dā"
     },
     {
      "surface": "siddhir",
      "gloss": "accomplishment",
-     "grounds": "subject bestowed",
+     "grounds": "nominative subject doing the giving/bestowing",
      "morph": "f.nom.sg"
     },
     {
      "surface": "aṣṭadhā",
      "gloss": "eightfold",
-     "grounds": "manner or division of accomplishment",
+     "grounds": "adverbial numeral describing the manner or form of accomplishment",
      "morph": "(indecl.)"
     },
     {
      "surface": "śāstra+coditā",
      "gloss": "scripture-enjoined",
-     "grounds": "describes accomplishment as taught in scripture",
-     "morph": "compound: śāstra+coditā; f.nom.sg"
+     "grounds": "compound = member+membership; adjectival describing accomplishment as enjoined by scripture",
+     "morph": "compound = śāstra+coditā"
     }
    ],
-   "question": "What kind of accomplishment does sustained practice bestow according to scripture?",
+   "question": "What claim is made about the origin and form of accomplishment, such that practice is said to produce an eightfold accomplishment enjoined by scripture?",
    "premises": [
-    "Accomplishment arises from practice",
-    "It is eightfold",
-    "It is enjoined by scripture"
+    "Accomplishment arises from practice.",
+    "That accomplishment is eightfold.",
+    "It is an accomplishment enjoined by scripture."
    ],
-   "inference": "Practice bestows the eightfold accomplishment taught in the scriptures.",
-   "uncertainties": [],
-   "plain_english": "From practice comes accomplishment, eightfold, as enjoined by scripture."
+   "inference": "From practice arises an eightfold accomplishment, enjoined by scripture.",
+   "uncertainties": [
+    "The agent of 'gives' is grammatically the accomplishment itself, a compact personification not explained here."
+   ],
+   "plain_english": "From practice, accomplishment gives an eightfold accomplishment enjoined by scripture."
   },
   {
    "verse": 398,
@@ -1013,20 +1043,20 @@
     {
      "surface": "sataḥ",
      "gloss": "to-the-worthy",
-     "grounds": "recipient who is fit",
+     "grounds": "dative/genitive of person qualified as worthy",
      "morph": "m.dat.sg"
     },
     {
      "surface": "kaulam+idaṃ",
      "gloss": "this-kaula",
-     "grounds": "the Kaula teaching to be given",
-     "morph": "compound: kaulam+idaṃ; n.nom.sg"
+     "grounds": "compound = member+membership; nominative/accusative object to be given",
+     "morph": "compound = kaulam+idaṃ"
     },
     {
      "surface": "deyaṃ",
      "gloss": "to-be-given",
-     "grounds": "prescription to give",
-     "morph": "n.nom.sg gerundive"
+     "grounds": "gerundive of dā prescribing giving",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "na",
@@ -1037,31 +1067,33 @@
     {
      "surface": "deyaṃ",
      "gloss": "to-be-given",
-     "grounds": "repeated prohibition",
-     "morph": "n.nom.sg gerundive"
+     "grounds": "repeated gerundive prescribing non-giving",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "yasya",
      "gloss": "to-whomsoever",
-     "grounds": "indefinite recipient in prohibition",
-     "morph": "m.dat.sg"
+     "grounds": "genitive/dative relative pronoun referring to an unqualified person",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "kasyacit",
      "gloss": "of-anyone",
-     "grounds": "reinforces indiscriminate recipient",
+     "grounds": "indefinite pronoun reinforcing the unrestricted negative",
      "morph": "m.gen.sg"
     }
    ],
-   "question": "To whom may this Kaula teaching be given and to whom must it be withheld?",
+   "question": "What restriction is placed on the transmission of this Kaula teaching, such that it is obligatory to give it only to the worthy and forbidden to give it to just anyone?",
    "premises": [
-    "This Kaula teaching should be given to the worthy",
-    "It should not be given indiscriminately",
-    "Giving to just anyone is prohibited"
+    "This Kaula is to be given to the worthy.",
+    "It is not to be given to whomever, to anyone.",
+    "The double negation marks a strict restriction on transmission."
    ],
-   "inference": "The Kaula teaching must be transmitted only to the worthy and withheld from all others.",
-   "uncertainties": [],
-   "plain_english": "This Kaula teaching should be given to the worthy, not given to just anyone."
+   "inference": "This Kaula teaching must be given to the worthy and must not be given to just anyone.",
+   "uncertainties": [
+    "The criteria for 'worthy' are not specified within this verse."
+   ],
+   "plain_english": "This Kaula is to be given to the worthy; it is not to be given to just anyone."
   },
   {
    "verse": 399,
@@ -1069,43 +1101,45 @@
     {
      "surface": "etat+uddharaṇaṃ",
      "gloss": "this-extraction",
-     "grounds": "the extracted teaching or essence",
-     "morph": "compound: etat+uddharaṇaṃ; n.nom.sg"
+     "grounds": "compound = member+membership; nominative object to be concealed",
+     "morph": "compound = etat+uddharaṇaṃ"
     },
     {
      "surface": "gopyaṃ",
      "gloss": "to-be-concealed",
-     "grounds": "prescribes secrecy",
-     "morph": "n.nom.sg gerundive"
+     "grounds": "gerundive of gup prescribing concealment",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "nityan",
      "gloss": "always",
-     "grounds": "duration of secrecy",
+     "grounds": "adverbial indicating the temporal scope of concealment",
      "morph": "(indecl.)"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "emphatic particle marking the obligation",
      "morph": "(indecl.)"
     },
     {
      "surface": "kṛta+niścayaḥ",
      "gloss": "firmly-resolved",
-     "grounds": "describes the one who keeps it secret",
-     "morph": "compound: kṛta+niścayaḥ; m.nom.sg"
+     "grounds": "compound = member+membership; agentive description of one obliged to conceal it",
+     "morph": "compound = kṛta+niścayaḥ"
     }
    ],
-   "question": "How should this extracted teaching be guarded by a resolved practitioner?",
+   "question": "What obligation of concealment is placed on one who is firmly resolved, and what is the object that must always be concealed?",
    "premises": [
-    "This extraction must be concealed",
-    "It must be concealed always",
-    "The practitioner should be firmly resolved"
+    "This extraction is to be concealed.",
+    "The concealment is to be always.",
+    "This obligation falls to one who is firmly resolved."
    ],
-   "inference": "A firmly resolved practitioner must always keep this extracted teaching secret.",
-   "uncertainties": [],
-   "plain_english": "This extraction must always be kept secret by one who is firmly resolved."
+   "inference": "One who is firmly resolved must always conceal this extraction.",
+   "uncertainties": [
+    "The referent of 'this extraction' is not defined within this verse and depends on the immediately preceding teaching."
+   ],
+   "plain_english": "This extraction is to be concealed always, indeed, by one who is firmly resolved."
   }
  ]
 }

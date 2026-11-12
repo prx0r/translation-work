@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 398,
- "question": "To whom may this Kaula teaching be given and to whom must it be withheld?",
+ "question": "What restriction is placed on the transmission of this Kaula teaching, such that it is obligatory to give it only to the worthy and forbidden to give it to just anyone?",
  "premises": [
-  "This Kaula teaching should be given to the worthy",
-  "It should not be given indiscriminately",
-  "Giving to just anyone is prohibited"
+  "This Kaula is to be given to the worthy.",
+  "It is not to be given to whomever, to anyone.",
+  "The double negation marks a strict restriction on transmission."
  ],
- "inference": "The Kaula teaching must be transmitted only to the worthy and withheld from all others.",
- "uncertainties": [],
- "plain_english": "This Kaula teaching should be given to the worthy, not given to just anyone."
+ "inference": "This Kaula teaching must be given to the worthy and must not be given to just anyone.",
+ "uncertainties": [
+  "The criteria for 'worthy' are not specified within this verse."
+ ],
+ "plain_english": "This Kaula is to be given to the worthy; it is not to be given to just anyone."
 }

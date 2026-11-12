@@ -1,15 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 392,
- "question": "What extraordinary power arises from muttering in the presence of an image?",
+ "question": "What result is claimed to occur in the context of muttering before an image, such that a striking physical effect is asserted?",
  "premises": [
-  "Muttering occurs in relation to an image",
-  "This takes place in that context",
-  "Breaking of pot and stone results"
+  "The context is muttering in relation to an image.",
+  "In that context a result occurs.",
+  "That result is the breaking of pots and stones."
  ],
- "inference": "Muttering before the image grants the power to break pots and stones.",
+ "inference": "In the context of muttering before an image, pots and stones are broken.",
  "uncertainties": [
-  "The exact ritual context of 'pratimā+jalpanan' is not fully specified."
+  "Token 2 is transmitted as 'tasmi(n' (truncated form); surface fidelity requires keeping it exactly as given, with locative reference uncertain."
  ],
- "plain_english": "In that muttering before the image, there is the breaking of pots and stones."
+ "plain_english": "In muttering before an image, in that context, pots and stones are broken."
 }

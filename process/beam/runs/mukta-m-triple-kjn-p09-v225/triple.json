@@ -7,39 +7,40 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral referring to count",
+     "grounds": "numeral form as given",
      "morph": "indecl."
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "thousands",
-     "grounds": "locative plural of numeral group",
+     "gloss": "in-thousands",
+     "grounds": "locative plural of numeral as given",
      "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "womb-diagrams",
-     "grounds": "locative plural of compound referring to womb-mechanisms",
+     "gloss": "in-womb-diagrams",
+     "grounds": "compound form as given",
      "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing those affected",
+     "grounds": "past participle form as given",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "By what count and in what setting are certain beings said to endure torment in this claim?",
+   "question": "By what count and in what contexts are beings said to endure torment according to this claim?",
    "premises": [
-    "A count of eighty-four is specified for the setting.",
-    "That count is placed among thousands of womb-diagrams.",
-    "Beings located there are described as tormented."
+    "Torment is said to occur in eighty-four thousand womb-diagrams.",
+    "The location is specified as those womb-diagrams in the thousands.",
+    "The beings subject to this state are described as tormented."
    ],
    "inference": "Beings are tormented within eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The identity of the tormented beings remains unspecified."
+    "The agent or cause of torment is not specified.",
+    "The duration of torment is not indicated."
    ],
-   "plain_english": "Eighty-four thousand womb-diagrams are places in which beings are tormented."
+   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
   }
  ]
 }

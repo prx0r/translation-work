@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 391,
- "question": "For whom is there no doubt about the promised results of this practice?",
+ "question": "For whom is doubt said to have no place in this matter, and on what basis is that certainty asserted?",
  "premises": [
-  "A result comes to be",
-  "There is no doubt in this matter",
-  "This applies to those devoted to constant practice"
+  "Doubt is the thing negated.",
+  "Its location is this teaching or practice.",
+  "No doubt arises for those devoted to constant practice."
  ],
- "inference": "For those devoted to constant practice, the promised result is beyond doubt.",
- "uncertainties": [],
- "plain_english": "There is no doubt here for those devoted to constant practice."
+ "inference": "For those devoted to constant practice, there is no doubt here.",
+ "uncertainties": [
+  "The exact referent of 'here' is determined by the preceding sequence of results."
+ ],
+ "plain_english": "There is no doubt here for those who are devoted to constant practice."
 }

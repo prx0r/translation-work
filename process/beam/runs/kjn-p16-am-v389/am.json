@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 389,
- "question": "How rare and supreme is this circle compared to other yogic methods?",
+ "question": "What comparative claim about rarity and superiority is made for this circle, such that no higher yoga is asserted to exist in comparison to it?",
  "premises": [
-  "This circle is difficult to obtain",
-  "No yoga exists higher than this",
-  "The teaching asserts its supremacy"
+  "This circle is difficult to obtain.",
+  "There is no yoga higher than this.",
+  "The negation is a claim of superiority by comparison."
  ],
- "inference": "This circle is both rare and unsurpassed by any other yoga.",
- "uncertainties": [],
+ "inference": "This circle is difficult to obtain and has no yoga higher than it.",
+ "uncertainties": [
+  "The syntactic alignment between 'durlabhan' and the clause is compact and depends on ellipsis."
+ ],
  "plain_english": "This circle is indeed difficult to obtain; there is no yoga higher than this."
 }

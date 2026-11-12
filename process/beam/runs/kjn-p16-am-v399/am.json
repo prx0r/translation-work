@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 399,
- "question": "How should this extracted teaching be guarded by a resolved practitioner?",
+ "question": "What obligation of concealment is placed on one who is firmly resolved, and what is the object that must always be concealed?",
  "premises": [
-  "This extraction must be concealed",
-  "It must be concealed always",
-  "The practitioner should be firmly resolved"
+  "This extraction is to be concealed.",
+  "The concealment is to be always.",
+  "This obligation falls to one who is firmly resolved."
  ],
- "inference": "A firmly resolved practitioner must always keep this extracted teaching secret.",
- "uncertainties": [],
- "plain_english": "This extraction must always be kept secret by one who is firmly resolved."
+ "inference": "One who is firmly resolved must always conceal this extraction.",
+ "uncertainties": [
+  "The referent of 'this extraction' is not defined within this verse and depends on the immediately preceding teaching."
+ ],
+ "plain_english": "This extraction is to be concealed always, indeed, by one who is firmly resolved."
 }

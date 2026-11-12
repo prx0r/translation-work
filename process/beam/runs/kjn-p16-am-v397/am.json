@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 397,
- "question": "What kind of accomplishment does sustained practice bestow according to scripture?",
+ "question": "What claim is made about the origin and form of accomplishment, such that practice is said to produce an eightfold accomplishment enjoined by scripture?",
  "premises": [
-  "Accomplishment arises from practice",
-  "It is eightfold",
-  "It is enjoined by scripture"
+  "Accomplishment arises from practice.",
+  "That accomplishment is eightfold.",
+  "It is an accomplishment enjoined by scripture."
  ],
- "inference": "Practice bestows the eightfold accomplishment taught in the scriptures.",
- "uncertainties": [],
- "plain_english": "From practice comes accomplishment, eightfold, as enjoined by scripture."
+ "inference": "From practice arises an eightfold accomplishment, enjoined by scripture.",
+ "uncertainties": [
+  "The agent of 'gives' is grammatically the accomplishment itself, a compact personification not explained here."
+ ],
+ "plain_english": "From practice, accomplishment gives an eightfold accomplishment enjoined by scripture."
 }

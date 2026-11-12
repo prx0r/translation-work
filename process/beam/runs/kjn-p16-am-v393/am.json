@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 393,
- "question": "Which principal deities are included in the vision granted by this practice?",
+ "question": "What class of deities is being enumerated in full, and what rhetorical force is given to that enumeration by the emphatic particles?",
  "premises": [
-  "Brahma, Vishnu, Yama, and Indra are named",
-  "Varuna is named",
-  "Vayu is named"
+  "Brahmā, Viṣṇu, Yama, and Indra are listed.",
+  "Varuṇa and Vāyu are added.",
+  "The emphatic particles mark the list as complete."
  ],
- "inference": "The practice encompasses a vision including Brahma, Vishnu, Yama, Indra, Varuna, and Vayu.",
- "uncertainties": [],
- "plain_english": "Brahma, Vishnu, Yama, and Indra, and also Varuna and Vayu."
+ "inference": "The major deities Brahmā, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu are all included in this enumeration.",
+ "uncertainties": [
+  "The verb governing this list is ellipted and must be supplied from the surrounding context."
+ ],
+ "plain_english": "Brahmā, Viṣṇu, Yama, and Indra, and Varuṇa and Vāyu indeed."
 }

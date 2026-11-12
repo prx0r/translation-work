@@ -1,13 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 390,
- "question": "What effect arises when this practice is mastered step by step?",
+ "question": "What effect is attributed to practice when carried out step by step, such that its result is characterized as producing great wonder?",
  "premises": [
-  "The context is ongoing practice",
-  "Practice is mastered step by step",
-  "It produces great wonder"
+  "Practice is the domain under consideration.",
+  "When practiced step by step, it is of a particular kind.",
+  "That kind of practice produces what causes great wonder."
  ],
- "inference": "Step-by-step mastery in practice produces greatly wondrous effects.",
- "uncertainties": [],
- "plain_english": "Indeed, when practiced step by step, it produces great wonder."
+ "inference": "Practice carried out step by step produces a result that causes great wonder.",
+ "uncertainties": [
+  "The subject of production is ellipted and must be inferred from context."
+ ],
+ "plain_english": "In practice, step by step practice indeed produces something that causes great wonder."
 }
