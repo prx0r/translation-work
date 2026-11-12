@@ -3,11 +3,13 @@
  "verse": 342,
  "question": "To whom must the teaching not be given according to this prohibition?",
  "premises": [
-  "A reviler of Shiva is named",
-  "A slanderer of Kula Bhairava is named",
-  "The teaching is explicitly withheld from them"
+  "A reviler of Śiva is excluded.",
+  "A slanderer is excluded.",
+  "The prohibition is stated in the context of Kula Bhairava."
  ],
- "inference": "The teaching must not be given to one who reviles Shiva or slanders Kula Bhairava",
- "uncertainties": [],
- "plain_english": "O goddess, not to one who reviles Shiva, nor to a slanderer of Kula Bhairava."
+ "inference": "The teaching must not be given to revilers or slanderers in the Kula Bhairava context.",
+ "uncertainties": [
+  "The syntactic relation of kulabhairave to the preceding terms is somewhat compressed."
+ ],
+ "plain_english": "O goddess, it must not be given to one who reviles Śiva, to a slanderer, or in relation to the Kula Bhairava."
 }
