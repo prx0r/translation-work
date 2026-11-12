@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "sthāna",
-   "morph": "compound=sthāna+location",
-   "grounds": "first member indicating location-based wheels"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming the wheels"
   },
   {
    "lemma": "cakrāḥ",
    "morph": "m.nom.pl",
-   "grounds": "subject denoting the wheels of the places"
+   "grounds": "subject declared"
   },
   {
    "lemma": "tu",
@@ -19,28 +19,28 @@
   },
   {
    "lemma": "saṃproktāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "states that these wheels have been taught"
+   "morph": "m.nom.pl.past-participle sam-pra-√vac",
+   "grounds": "past participle stating what has been taught"
   },
   {
    "lemma": "teṣāṃ",
    "morph": "pron.gen.pl",
-   "grounds": "refers to the previously declared wheels"
+   "grounds": "refers to the wheels whose meditation is to be heard"
   },
   {
    "lemma": "dhyānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object denoting the contemplative practice to be heard"
+   "grounds": "object to be heard"
   },
   {
    "lemma": "śṛṇu",
-   "morph": "2.sg.imperative-active/√śru",
-   "grounds": "command inviting attention to the teaching"
+   "morph": "2.sg.imperative-active √śru",
+   "grounds": "imperative command to the listener"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address to the listener"
+   "grounds": "vocative address"
   }
  ]
 }

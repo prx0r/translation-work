@@ -1,15 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "What are the first two forms or types enumerated in this sequence?",
+ "question": "What are the first two forms enumerated in this sequence?",
  "premises": [
-  "The first is characterized by the form of a boy",
-  "The second is characterized by the form of a madman",
-  "Both are presented in sequence"
+  "A sequence of forms is being listed.",
+  "The first is characterized as a child form.",
+  "The second is characterized as a madman form."
  ],
- "inference": "The first type appears in boy form and the second in the form of a madman",
- "uncertainties": [
-  "The category being enumerated is implied from surrounding verses"
- ],
- "plain_english": "The first is in the form of a boy, and the second has the form of a madman."
+ "inference": "The first two forms are the child form and the madman form.",
+ "uncertainties": [],
+ "plain_english": "The first is in the form of a child, the second in the form of a madman."
 }

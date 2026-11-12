@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 337,
- "question": "What consequence follows if a teacher gives this teaching to such disciples?",
+ "question": "What consequence follows when a teacher gives this to such disciples?",
  "premises": [
-  "The teacher may give the teaching to these disciples.",
-  "These disciples are unqualified as described above.",
-  "Accomplishment is said to be lost."
+  "A teacher may give to these disciples",
+  "The disciples are of the disqualified kind",
+  "Accomplishment is lost as a result"
  ],
- "inference": "Therefore giving the teaching to unqualified disciples causes loss of accomplishment.",
- "uncertainties": [],
- "plain_english": "If the teacher should give it to such disciples, accomplishment is lost."
+ "inference": "If the teacher gives this to such disciples, accomplishment is diminished.",
+ "uncertainties": [
+  "The syntax of dadyāstu and subject agreement is compressed."
+ ],
+ "plain_english": "If the teacher should give this to such disciples, accomplishment is lost."
 }
