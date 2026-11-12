@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kaṇṭha",
-   "morph": "compound:kaṇṭha+first",
-   "grounds": "first member of compound describing location"
+   "morph": "compound-member",
+   "grounds": "first member of a compound denoting the location of the cavity"
   },
   {
    "lemma": "kūpa",
-   "morph": "compound:kūpa+second",
-   "grounds": "second member of compound denoting throat-hollow"
+   "morph": "compound-member",
+   "grounds": "second member of a compound denoting the hollow of the throat"
   },
   {
    "lemma": "sthita",
@@ -20,27 +20,27 @@
   {
    "lemma": "udyotaṃ",
    "morph": "m.acc.sg",
-   "grounds": "object described as reaching dissolution"
+   "grounds": "object or referent described as situated and having gone to absorption"
   },
   {
    "lemma": "brahma",
-   "morph": "compound:brahma+first",
-   "grounds": "first member of compound naming the cranial aperture"
+   "morph": "compound-member",
+   "grounds": "first member of a compound naming the cranial aperture"
   },
   {
    "lemma": "randhra",
-   "morph": "compound:randhra+second",
-   "grounds": "second member of compound denoting the cranial opening"
+   "morph": "compound-member",
+   "grounds": "second member of a compound denoting the brahma-aperture"
   },
   {
    "lemma": "layaṃ",
    "morph": "m.acc.sg",
-   "grounds": "state attained by the radiance"
+   "grounds": "state or locus attained in the brahma-aperture"
   },
   {
    "lemma": "gatā",
    "morph": "f.nom.sg",
-   "grounds": "indicates attainment of absorption in the cranial aperture"
+   "grounds": "indicates attainment of absorption; agrees with an implied feminine subject"
   }
  ]
 }
