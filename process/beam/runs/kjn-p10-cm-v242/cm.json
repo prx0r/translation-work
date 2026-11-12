@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "kruddhaḥ",
-   "morph": "m.nom.sg.past-participle/√krudh",
-   "grounds": "condition of the subject"
+   "morph": "m.nom.sg",
+   "grounds": "condition of the agent"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of continuation"
+   "grounds": "connective particle"
   },
   {
    "lemma": "saṃharet",
-   "morph": "3.sg.act-optative/sam-√hṛ",
-   "grounds": "optative or potential verb"
+   "morph": "3.sg.act-optative/√hṛ",
+   "grounds": "optative expressing power"
   },
   {
    "lemma": "sarvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "adjective qualifying trailokyaṃ"
+   "grounds": "qualifies trailokyaṃ"
   },
   {
    "lemma": "trailokyaṃ",
@@ -29,18 +29,18 @@
   },
   {
    "lemma": "sa",
-   "morph": "compound=sa+first-member",
-   "grounds": "first member of compound qualifying cara-acaram"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "cara",
-   "morph": "compound=cara+first-member",
-   "grounds": "first member of dvandva compound"
+   "morph": "compound-member",
+   "grounds": "middle member of compound"
   },
   {
    "lemma": "acaram",
    "morph": "n.acc.sg",
-   "grounds": "second member of dvandva compound qualifying trailokyaṃ"
+   "grounds": "describes trailokyaṃ"
   }
  ]
 }

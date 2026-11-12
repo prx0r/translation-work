@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 323,
- "question": "What attainment becomes possible for a living being through knowing that reality?",
+ "question": "What attainment becomes possible for a living being through that knowledge?",
  "premises": [
-  "A living being gains knowledge of that reality",
-  "Attainment extends below and above",
+  "A living being has known that",
+  "The attainment spans below and above",
   "The attainment is described as liberation-enjoyment"
  ],
- "inference": "By knowing that, a living being may obtain liberation-enjoyment in all realms",
- "uncertainties": [],
- "plain_english": "Having known that, the living being may obtain liberation and enjoyment, below and above."
+ "inference": "Having known that, a living being may obtain liberation-enjoyment in all realms.",
+ "uncertainties": [
+  "The referent of 'that' depends on preceding context"
+ ],
+ "plain_english": "Having known that, the living being may obtain, below and above, the enjoyment of liberation."
 }

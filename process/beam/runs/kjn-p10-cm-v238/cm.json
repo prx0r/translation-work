@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound=dūra+first-member",
-   "grounds": "first member of compound qualifying āśravaṇa"
+   "morph": "compound-member",
+   "grounds": "qualifies hearing"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound=āśravaṇa+second-member",
-   "grounds": "second member of compound qualifying vijñānaṃ"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "vijñānaṃ",
@@ -19,8 +19,8 @@
   },
   {
    "lemma": "pāśa",
-   "morph": "compound=pāśa+first-member",
-   "grounds": "first member of compound qualifying stobham"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "stobham",
@@ -30,7 +30,7 @@
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connective adverb"
+   "grounds": "connective particle"
   },
   {
    "lemma": "priye",

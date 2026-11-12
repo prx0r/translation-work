@@ -5,12 +5,12 @@
   {
    "lemma": "ṣakāraṃ",
    "morph": "m.acc.sg",
-   "grounds": "object located in throat region"
+   "grounds": "located in throat region"
   },
   {
    "lemma": "kaṇṭha",
-   "morph": "compound=kaṇṭha+first-member",
-   "grounds": "first member of compound indicating region"
+   "morph": "compound-member",
+   "grounds": "first member of location compound"
   },
   {
    "lemma": "deśe",
@@ -20,12 +20,12 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle of continuation"
+   "grounds": "connective particle"
   },
   {
    "lemma": "śakāraṃ",
    "morph": "m.acc.sg",
-   "grounds": "object located in heart"
+   "grounds": "located in heart"
   },
   {
    "lemma": "hṛdaye",
@@ -35,7 +35,7 @@
   {
    "lemma": "tadā",
    "morph": "(indecl.)",
-   "grounds": "temporal adverb"
+   "grounds": "temporal marker"
   }
  ]
 }

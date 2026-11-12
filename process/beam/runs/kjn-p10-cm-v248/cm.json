@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+first-member",
-   "grounds": "first member of compound qualifying abhyāsa"
+   "morph": "compound-member",
+   "grounds": "qualifies practice"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second-member",
-   "grounds": "second member of compound qualifying yogena"
+   "morph": "compound-member",
+   "grounds": "first member of yoga compound"
   },
   {
    "lemma": "yogena",
    "morph": "m.inst.sg",
-   "grounds": "instrumental means"
+   "grounds": "means of transformation"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+first-member",
-   "grounds": "first member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "first part of numerical compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+second-member",
-   "grounds": "second member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "second part of numerical compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+third-member",
-   "grounds": "third member of compound qualifying ākṛtiḥ"
+   "morph": "compound-member",
+   "grounds": "third part of numerical compound"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "subject or predicate noun"
+   "grounds": "resulting appearance"
   },
   {
    "lemma": "bhavet",
    "morph": "3.sg.act-optative/√bhū",
-   "grounds": "optative verb"
+   "grounds": "optative expressing result"
   }
  ]
 }
