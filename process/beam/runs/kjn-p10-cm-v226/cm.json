@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "morph": "compound=bhukti+first-member",
+   "grounds": "first member of compound with mukti"
   },
   {
    "lemma": "mukti",
-   "morph": "compound-member",
-   "grounds": "second member of compound"
+   "morph": "compound=mukti+first-member",
+   "grounds": "second member of compound with mahā-siddhiḥ"
   },
   {
    "lemma": "mahā",
-   "morph": "compound-member",
-   "grounds": "third member of compound"
+   "morph": "compound=mahā+first-member",
+   "grounds": "first member of compound with siddhiḥ"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "head of compound, subject"
+   "grounds": "subject of becoming"
   },
   {
    "lemma": "yoginīnāṃ",
    "morph": "f.gen.pl",
-   "grounds": "possessor of favor"
+   "grounds": "indicates those to whom one becomes dear"
   },
   {
    "lemma": "priyo",
    "morph": "m.nom.sg",
-   "grounds": "predicate adjective"
+   "grounds": "predicate describing the resulting state"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-act √bhū",
-   "grounds": "optative verb"
+   "morph": "3.sg.act-optative/√bhū",
+   "grounds": "expresses potential result"
   }
  ]
 }
