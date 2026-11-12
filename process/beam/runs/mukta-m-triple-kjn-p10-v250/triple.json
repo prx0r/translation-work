@@ -7,58 +7,57 @@
     {
      "surface": "ṣaṣṭhaṃ",
      "gloss": "sixth",
-     "grounds": "ordinal adjective qualifying cakraṃ",
+     "grounds": "ordinal qualifier of cakraṃ",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
-     "gloss": "but",
+     "gloss": "and",
      "grounds": "particle marking continuation or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "primary noun denoting the chakra",
+     "grounds": "primary object being described",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rājānam",
      "gloss": "king",
-     "grounds": "appositive epithet describing cakraṃ",
+     "grounds": "epithet characterizing the sixth cakra",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral forming first member of compound with patra",
+     "grounds": "numeral member of compound describing petals",
      "morph": "compound-member"
     },
     {
      "surface": "patra",
      "gloss": "petal",
-     "grounds": "second member of compound describing the chakra's petals",
+     "grounds": "second member of compound describing petals",
      "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "adjective qualifying cakraṃ, indicating presence of a pericarp",
+     "grounds": "qualifier indicating presence of a central pericarp",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What are the defining structural features and epithet of the sixth chakra?",
+   "question": "What defining attributes characterize the sixth cakra identified as king?",
    "premises": [
-    "The sixth chakra is identified as the subject.",
-    "This chakra is described with the epithet 'king'.",
-    "The chakra possesses eight petals.",
-    "The chakra is characterized as having a pericarp."
+    "The sixth cakra is designated as king.",
+    "The sixth cakra has eight petals.",
+    "The sixth cakra possesses a pericarp."
    ],
-   "inference": "The sixth chakra is distinguished as the kingly chakra with eight petals and a central pericarp.",
+   "inference": "The sixth cakra is a royal eight-petaled center endowed with a pericarp.",
    "uncertainties": [
-    "The specific contextual sense of 'rājānam' as an epithet is not fully explicit in this verse alone."
+    "The exact symbolic sense of rājānam in this context is not fully specified."
    ],
-   "plain_english": "But the sixth chakra is the king, having eight petals and a pericarp."
+   "plain_english": "And the sixth cakra is the king, having eight petals and a pericarp."
   }
  ]
 }

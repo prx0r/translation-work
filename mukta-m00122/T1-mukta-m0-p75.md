@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-[nyāsas](nyāsān) [kuryāt](kuryāditisampradāyaḥ)
+[placements](nyāsān) [one-should-perform](kuryāt) [thus](iti) [tradition](sampradāyaḥ)
 
 ## mukta-m0-p75-v1852
-[khaḍga-rūpā](khaḍgarūpā) [vitta-rūpā](vittarūpā) [ramyā](ramyāpyānandakautuke) [ānanda-kautuke](ramyāpyānandakautuke)
+[sword+form](khaḍgarūpā) [wealth+form](vittarūpā) [delightful](ramyā) [also](api) [in-bliss+play](ānandakautuke)
 
 ## mukta-m0-p75-v1853
-[bahiḥ](bahiraṣṭacchadāmbhoje) [aṣṭa-chada-ambhoje](bahiraṣṭacchadāmbhoje) [brāhmya-ādyāḥ](brāhmyādyāśca) [ca](brāhmyādyāśca) [sam-arcayet](samarcayet)
+[outside](bahis) [eight+petal+lotus](aṣṭacchadāmbhoje) [Brāhmī+and-others](brāhmyādyāḥ) [and](ca) [one-should-worship](samarcayet)
 
 ## mukta-m0-p75-v1854
-[indra](indrāgniyamarakṣobhirvaruṇānilasomakān) [agni](indrāgniyamarakṣobhirvaruṇānilasomakān) [yama](indrāgniyamarakṣobhirvaruṇānilasomakān) [rakṣas](indrāgniyamarakṣobhirvaruṇānilasomakān) [varuṇa](indrāgniyamarakṣobhirvaruṇānilasomakān) [anila](indrāgniyamarakṣobhirvaruṇānilasomakān) [soma](indrāgniyamarakṣobhirvaruṇānilasomakān)
+[with-Indra](indra) [Agni](agni) [Yama](yama) [Rakṣas](rakṣobhis) [Varuṇa](varuṇa) [Vāyu](anila) [Soma](somakān)
 
 ## mukta-m0-p75-v1855
-[śakti-antaiḥ](śaktyantairnāmabhiḥ) [nāmabhiḥ](śaktyantairnāmabhiḥ) [prāgvat](prāgvat) [pūjayet](pūjayet) [sarva-siddhaye](sarvasiddhaye)
+[ending-with-śakti](śaktyantais) [with-names](nāmabhiḥ) [as-before](prāgvat) [one-should-worship](pūjayet) [for-all+accomplishments](sarvasiddhaye)
 
 ## mukta-m0-p75-v1856
-[tat-madhye](tanmadhye) [vṛtta-yugma-stham](vṛttayugmasthaṃ) [kuryāt](kuryādaṣṭacchadāmbujam) [aṣṭa-chada-ambujam](kuryādaṣṭacchadāmbujam)
+[in-its+middle](tanmadhye) [situated-in+two+circles](vṛttayugmasthaṃ) [one-should-make](kuryāt) [eight+petal+lotus](aṣṭacchadāmbujam)
 
 ## mukta-m0-p75-v1857
-[kṛtvā](kṛtvā'tra) [atra](kṛtvā'tra) [tām](tāṃ) [sam-āvāhya](samāvāhya) [prāgvat](prāgvatsamyagathārcayet) [samyak](prāgvatsamyagathārcayet) [atha](prāgvatsamyagathārcayet) [arcayet](prāgvatsamyagathārcayet)
+[having-made](kṛtvā) [here](atra) [her](tāṃ) [having-invoked](samāvāhya) [as-before](prāgvat) [properly](samyak) [then](atha) [one-should-worship](arcayet)
 
 ## mukta-m0-p75-v1858
-[daśamīm](daśamīmekādaśīṃ) [ekādaśīm](daśamīmekādaśīṃ) [ca](ca) [pūjayet](pūjayet) [tathā](tathā) [vakṣyamāṇa-prakāreṇa](vakṣyamāṇaprakāreṇa)
+[tenth-day](daśamīm) [eleventh-day](ekādaśīṃ) [and](ca) [one-should-worship](pūjayet) [thus](tathā) [in-the-manner+to-be-stated](vakṣyamāṇaprakāreṇa)
 
 ## mukta-m0-p75-v1859
-[śakti-antaiḥ](śaktyantairnāmabhiḥ) [nāmabhiḥ](śaktyantairnāmabhiḥ) [indra-śakti-ādi](indraśaktītyādiprāgvat) [prāgvat](indraśaktītyādiprāgvat) [saptākṣari-antaiḥ](saptākṣaryantaiḥ)
+[ending-with-śakti](śaktyantais) [with-names](nāmabhiḥ) [Indra-śakti+etc.](indraśaktītyādi) [as-before](prāgvat) [ending-with+seven+syllables](saptākṣaryantaiḥ)
 
 ## mukta-m0-p75-v1860
-[tathā-eva](tathaiva) [lokapāla-anta-śaktī](lokapālāntaśaktī) [dvāra-dvaye](dvāradvaye'rcayet) [arcayet](dvāradvaye'rcayet)
+[in-the-same-way](tathaiva) [world+guardian+ending-śaktis](lokapālāntaśaktī) [in-the-two+doors](dvāradvaye) [one-should-worship](arcayet)
 
 ## mukta-m0-p75-v1861
-[saptākṣaryā](saptākṣaryā) [baliṃ](baliṃ) [dadyāt](dadyātpūjānte) [pūjā-ante](dadyātpūjānte) [kurukullayā](kurukullayā)
+[with-seven+syllables](saptākṣaryā) [offering](baliṃ) [one-should-give](dadyāt) [at-worship+end](pūjānte) [with-Kurukullā](kurukullayā)
 
 ## mukta-m0-p75-v1862
-[prātaḥ](prātaḥ) [salila-pānaṃ](salilapānaṃ) [ca](ca) [kuryāt](kuryādvidyātmasiddhaye) [vidyā-ātma-siddhaye](kuryādvidyātmasiddhaye)
+[in-the-morning](prātaḥ) [water+drinking](salilapānaṃ) [and](ca) [one-should-do](kuryāt) [for-mantra+self+accomplishment](vidyātmasiddhaye)
 
 ## mukta-m0-p75-v1863
-[kāśmīra](kāśmīrakālāgurubhirmṛgasvedamadairapi) [kāla-aguru](kāśmīrakālāgurubhirmṛgasvedamadairapi) [mṛga-sveda](kāśmīrakālāgurubhirmṛgasvedamadairapi) [mada](kāśmīrakālāgurubhirmṛgasvedamadairapi) [api](kāśmīrakālāgurubhirmṛgasvedamadairapi)
+[with-saffron](kāśmīra) [black+aloes](kālāgurubhis) [with-musk](mṛgasvedamadais) [also](api)
 
 ## mukta-m0-p75-v1864
-[caturasra-dvayaṃ](caturasradvayaṃ) [kṛtvā](kṛtvā) [tatra](tatra) [ukta-krameṇa](uktakrameṇa) [tām](tāṃ) [pūjayet](pūjayediti)
+[square+pair](caturasradvayaṃ) [having-made](kṛtvā) [there](tatra) [by-the-stated+method](uktakrameṇa) [her](tāṃ) [one-should-worship](pūjayet) [thus](iti)
 
 ## mukta-m0-p75-v1865
-[prādakṣiṇyena](prādakṣiṇyenārcayediti) [arcayet](prādakṣiṇyenārcayediti) [iti](prādakṣiṇyenārcayediti) [yāvat](yāvat) [sāmānyaṃ](sāmānyaṃ) [pūrva-uktavat](pūrvoktavadityarthaḥ) [iti](pūrvoktavadityarthaḥ) [arthaḥ](pūrvoktavadityarthaḥ)
+[clockwise](prādakṣiṇyena) [one-should-worship](arcayet) [thus](iti) [as-far-as](yāvat) [general](sāmānyaṃ) [as-stated+before](pūrvoktavat) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p75-v1866
-[yāvat](yāvat)
+[as-far-as](yāvat)
 
 ## mukta-m0-p75-v1867
-[ca](copadiśati) [upadiśati](copadiśati) [tatra](tatra) [mṛga-sveda-madaiḥ](mṛgasvedamadaiḥ) [mṛga-svedaiḥ](mṛgasvedaiḥ) [mṛga-madaiḥ](mṛgamadaiśca) [ca](mṛgamadaiśca)
+[and](ca) [instructs](upadiśati) [there](tatra) [with-musk](mṛgasvedamadaiḥ) [with-musk-sweat](mṛgasvedaiḥ) [and-with-musk](mṛgamadaiḥ) [and](ca)
 
 ## mukta-m0-p75-v1868
-[citra-bhūṣa-ambaraḥ](citrabhūṣāmbaraḥ) [sragvī](sragvī) [japed](japedvidyāṃ) [vidyām](japedvidyāṃ) [niśā-mukhe](niśāmukhe)
+[variegated+ornament+garment](citrabhūṣāmbaraḥ) [wearing-garland](sragvī) [one-should-recite](japet) [mantra](vidyāṃ) [at-night+beginning](niśāmukhe)
 
 ## mukta-m0-p75-v1869
-[sarvābhiḥ](sarvābhirapi) [api](sarvābhirapi) [nityābhiḥ](nityābhiḥ) [prātar](prātarmātṛkayā) [mātṛkayā](prātarmātṛkayā) [samam](samam)
+[with-all](sarvābhis) [also](api) [with-Nityās](nityābhiḥ) [in-the-morning](prātas) [with-Mātṛkā](mātṛkayā) [together](samam)
 
 ## mukta-m0-p75-v1870
-[anyaiḥ](anyairapi) [api](anyairapi) [ca](ca) [mantraiḥ](matraistairvidyābhistatprasiddhyati) [taiḥ](matraistairvidyābhistatprasiddhyati) [vidyābhiḥ](matraistairvidyābhistatprasiddhyati) [tat](matraistairvidyābhistatprasiddhyati) [prasiddhyati](matraistairvidyābhistatprasiddhyati)
+[with-other](anyais) [also](api) [and](ca) [with-mantras](mantrais) [with-those](tais) [with-vidyās](vidyābhis) [its+accomplishment](tatprasiddhyati)
 
 ## mukta-m0-p75-v1871
-[sugandhi-salilaiḥ](sugandhisalilairhomaṃ) [homaṃ](sugandhisalilairhomaṃ) [tāvat](tāvattṛmadhurāplutaiḥ) [tri-madhura-āplutaiḥ](tāvattṛmadhurāplutaiḥ)
+[with-fragrant+waters](sugandhisalilais) [oblation](homaṃ) [then](tāvat) [soaked-in+three+sweets](trimadhurāplutaiḥ)
 
 ## mukta-m0-p75-v1872
-[siddha-vidyā](siddhavidyā(=)punaḥ) [punaḥ](siddhavidyā(=)punaḥ) [kuryāt](kuryātkāmyakarmāṇi) [kāmya-karmāṇi](kuryātkāmyakarmāṇi) [sādhakaḥ](sādhakaḥ)
+[accomplished+mantra](siddhavidyā) [again](punaḥ) [one-should-perform](kuryāt) [desire+rites](kāmyakarmāṇi) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p75-v1873
-[vidyā-svarūpa-bhedāḥ](vidyāsvarūpabhedā/stu) [tu](vidyāsvarūpabhedā/stu) [śṛṇu](śṛṇu) [vakṣye](vakṣye) [yathā-vidhi](yathāvidhi)
+[mantra+nature+divisions](vidyāsvarūpabhedān) [but](tu) [listen](śṛṇu) [I-shall-tell](vakṣye) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p75-v1874
-[bhavati](bhavatītyupahvaraḥ) [iti](bhavatītyupahvaraḥ) [upahvaraḥ](bhavatītyupahvaraḥ) [sampradāya-arthaḥ](sampradāyārthaḥ)
+[it-becomes](bhavati) [thus](iti) [secret-meaning](upahvaraḥ) [tradition+meaning](sampradāyārthaḥ)
 
 ## mukta-m0-p75-v1875
-[vṛtta-sthaiḥ](vṛttasthaiḥ)
+[by-those-standing-in+circles](vṛttasthaiḥ)

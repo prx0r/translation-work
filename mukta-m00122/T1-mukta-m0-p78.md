@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[daily](dinaśovilihet) [morning](prātar) [years](abdān) [mute](mūko) [becomes](bhavet) [poet](kaviḥ)
+daily(dinaśaḥ) should-write(vilikhet) in-morning(prātaḥ) after-a-year(abdāt) mute(mūkaḥ) becomes(bhavet) poet(kaviḥ)
 
 ## mukta-m0-p78-v1927
-[kubera](kubero) [sun](ravi) [moon](candrā) [king](rāja) [guru](guru) [white](sita) [saturn](saurayaḥ)
+kubera(kubera) + sun(ūravi) + moon(candra) + mars(ara) + mercury(jña) + jupiter(guru) + venus(usita) + saturn(saurayaḥ)
 
 ## mukta-m0-p78-v1928
-[name](nāma) [seven](saptā) [syllable](akṣarī) [union](yuktyā) [worship](pūjayet) [satisfy](tarpayet) [burn](dhunet)
+with-name(nāma) + seven-syllable(saptākṣarī) + application(yuktyā) one-should-worship(pūjayet) one-should-offer-libations(tarpayet) one-should-offer-oblations(dhunet)
 
 ## mukta-m0-p78-v1929
-[mother-letters](mātṛkā) [placement](nyāsa) [with](sahitaṃ) [touch](spṛśet) [protection](rakṣā) [for](kṛte) [mantra](manum)
+with-mātṛkā(mātṛkā) + installation(nyāsa) + accompanied-by(sahitaṃ) one-should-touch(spṛśet) on-rosary(rakṣākṛte) mantra(manum)
 
 ## mukta-m0-p78-v1930
-[by-that](tena) [they](te) [happy](sukhino) [become](bhūyaḥ) [with-descendants](sānvayā) [as-long-as-life](yāvadāyuṣam)
+by-that(tena) they(te) happy(sukhinaḥ) become(bhūyaḥ) with-descendants(sānvayāḥ) as-long-as-life(yāvadāyuṣam)
 
 ## mukta-m0-p78-v1931
-[that](tad) [ghee](ghṛtaṃ) [licking](lihataḥ) [year](saṃvatsarāt) [stated](prokta) [fruit](phala) [accomplishment](siddhir) [thus](iti)
+that(tat) + ghee(ghṛtaṃ) of-one-licking(lihataḥ) after-a-year(saṃvatsarāt) of-stated(phrokta) + result(phala) + accomplishment(siddhiḥ) thus(iti) || 68
 
 ## mukta-m0-p78-v1932
-[that-that](tattan) [circle](maṇḍale) [worship](pūjā) [satisfaction](tarpaṇa) [oblation](homa) [etc](ādinā) [desired](vāñchita) [accomplishments](siddhīḥ) [thus](riti)
+in-that(tat) + that(tat) + circle(maṇḍale) by-worship(pūjā) + libation(tarpaṇa) + oblation(homa) + and-so-forth(ādinā) desired(vāñchita) + accomplishments(siddhīḥ) thus(riti)
 
 ## mukta-m0-p78-v1933
-[nine](nava) [squares](koṣṭhe) [nine](nava) [stated](proktān) [rahu](rāhu) [ketu](ketu) [with](samanvitān)
+in-nine-cells(navakoṣṭhe) nine(nava) declared(proktān) with-rāhu(rāhu) + ketu(ketu) + accompanied-by(samanvitān)
 
 ## mukta-m0-p78-v1934
-[squares](koṣṭhetāṃs) [those](taiḥ) [worship](yajet) [immediately](sadyo) [freed-from-disease](muktarogaḥ) [happy](sukhī) [becomes](bhavet)
+in-cell(koṣṭhe) them(tān) with-those(taiḥ) one-should-worship(yajet) immediately(sadyaḥ) freed-from-disease(muktarogaḥ) happy(sukhī) becomes(bhavet)
 
 ## mukta-m0-p78-v1935
-[calamity](utpāte) [war](samarodyoge) [do](kuryāt) [stated](uktā) [worship](arcana) [etc](ādikam)
+in-calamity(utpāte) in-battle(samara) + undertaking(udyoge) one-should-perform(kuryāt) declared(ukta) + worship(arcana) + and-so-forth(ādikam)
 
 ## mukta-m0-p78-v1936
-[by-that](tena) [all](sarva) [dangers](āpad) [freed](unmuktaḥ) [happy](sukhī) [lives](jīvati) [on-earth](bhūtale)
+by-that(tena) from-all(sarva) + calamities(āpad) + freed(unmuktaḥ) happy(sukhī) lives(jīvati) on-earth(bhūtale)
 
 ## mukta-m0-p78-v1937
-[tell](kathayāmi) [two](dvayaṃ) [to-you](te) [today](adya) [speak](vakṣye) [that](tat) [chapter](paṭale) [all](akhilam)
+I-tell(kathayāmi) pair(dvayaṃ) to-you(te) today(adya) I-shall-speak(vakṣye) in-that(tat) + section(paṭale) all(akhilam)
 
 ## mukta-m0-p78-v1938
-[do](kuryāt) [limbs](aṅgāni) [six](ṣaḍ) [groups](vargaiḥ) [five-five](pañcapañca) [fifteen](daśa) [syllables](akṣaraiḥ)
+one-should-make(kuryāt) limbs(aṅgāni) six(ṣaḍ) + groups(vargaiḥ) with-five(pañca) + five(pañca) + fifteen(daśa) + syllables(akṣaraiḥ)
 
 ## mukta-m0-p78-v1939
-[stated](ukta) [manner](prakāraiḥ) [daily](dinanityā) [seven](saptā) [syllable](akṣarī) [middle](madhyagataiḥ) [nine](navabhiḥ) [name](nāma) [mantras](mantraiḥ)
+by-declared(ukta) + methods(prakāraiḥ) in-daily(dina) + regular(nitya) + seven-syllable(saptākṣarī) + middle(madhya) + situated(gataiḥ) with-nine(navabhiḥ) name(nāma) + mantras(mantraiḥ)
 
 ## mukta-m0-p78-v1940
-[all](sarva) [dangers](āpadbhyaḥ) [freed](vimuktaḥ) [happy](sukhī) [becomes](bhavatīti)
+from-all(sarvā) + calamities(āpadbhyaḥ) freed(vimuktaḥ) happy(sukhī) becomes(bhavati) thus(iti)
 
 ## mukta-m0-p78-v1941
-[that](tat) [chapter](paṭale) [mother-letters](mātṛkā) [chapter](paṭale) [all](akhilaṃ) [other](anyad) [thus](iti) [remainder](śeṣaḥ)
+in-that(tat) + section(paṭale) in-mātṛkā(mātṛkā) + section(paṭale) all(akhilaṃ) other(anyat) thus(iti) + remainder(śeṣaḥ)
 
 ## mukta-m0-p78-v1942
-[hands-limbs](karāṅgayoḥ) [do](vidhāyetthaṃ) [beginning](ādi) [kṣa](kṣānta) [letters](akṣarāṇi) [indeed](vai)
+on-hands(karā) + and-limbs(aṅgayoḥ) one-should-perform(vidhāyet) thus(itthaṃ) beginning-with-a(ādi) + ending-with-kṣa(kṣānta) + syllables(akṣarāṇi) indeed(vai)
 
 ## mukta-m0-p78-v1943
-[lips](oṣṭha) [teeth](danta) [head](śiraḥ) [tongue](jihvāsu) [one-by-one](ekaśo) [place](vinyaset) [vowels](svarān)
+on-lips(oṣṭha) + teeth(danta) + head(śiraḥ) + tongue(jihvāsu) one-by-one(ekaśaḥ) one-should-place(vinyaset) vowels(svarān)
 
 ## mukta-m0-p78-v1944
-[place](vinyaset) [four](caturo) [groups](vargān) [fifth](pañcamaṃ) [side](pārśva) [back](pṛṣṭhataḥ)
+one-should-place(vinyaset) four(caturo) + groups(vargān) fifth(pañcamaṃ) on-sides(pārśva) + and-back(pṛṣṭhataḥ)
 
 ## mukta-m0-p78-v1945
-[skin](tvak) [horn](sṛṅ) [flesh](māṃsa) [fat](medaḥ) [bone](asthi) [marrow](majjā) [semen](śukra) [ending](anta) [going](gāmiṣu)
+in-skin(tvak) + blood(sṛk) + flesh(māṃsa) + fat(medaḥ) + bone(asthi) + marrow(majjā) + semen(śukra) + interior(anta) + going(gāmiṣu)
 
 ## mukta-m0-p78-v1946
-[heart](hṛdaya) [touching](sparśināṃ) [those](teṣāṃ) [remembering](smaran) [elements](dhātuṣu) [place](vinyaset)
+of-those(teṣāṃ) touching(hṛdayasparśināṃ) remembering(smaran) in-elements(dhātuṣu) one-should-place(vinyaset)
 
 ## mukta-m0-p78-v1947
-[heart](hṛdaya) [below](adhastathā) [feet](pāda) [pair](yuga) [tip](agra) [limit](avadhi) [touch](parāmṛśan) [ha](hakāraṃ) [and](ca) [place](nyaset) [thus](ityarthaḥ)
+below-heart(hṛdaya) + downwards(adhastathā) + at-feet(pāda) + in-belly(jaṭhare) in-face(vadane) one-should-place(nyaset)
 
 ## mukta-m0-p78-v1948
-[by-mantras](jātiyuktairmantraiḥ) [hands-limbs](karāṅganyāsaṃ) [do](kuryāditi)
+with-class(jāti) + joined(yuktaiḥ) + mantras(mantraiḥ) on-hands(karā) + and-limbs(aṅga) + installation(nyāsaṃ) one-should-do(kuryāt) thus(iti) || 79
 
 ## mukta-m0-p78-v1949
-[foot](prapadā) [finger](aṅguli) [joints](sandhī) [are-called](ucyete) [fifth](pañcamaṃ) [group](vargam) [thus](iti) [remainder](śeṣaḥ)
+tips-of-feet(prapada) + finger(aṅguli) + joints(sandhī) are-stated(ucyete) fifth(pañcamaṃ) group(vargam) thus(iti) + remainder(śeṣaḥ) || 81
 
 ## mukta-m0-p78-v1950
-[heart](hṛdayādi) [feet](pādayuga) [tip](agra) [limit](avadhi) [touching](parāmṛśan) [ha](hakāraṃ) [and](ca) [place](nyased) [thus](ityarthaḥ)
+from-heart(hṛdaya) + beginning(ādi) + up-to-tips-of-both-feet(pādayugāgra) + limit(avadhi) touching(paramṛśan) letter-ha(hakāraṃ) also(ca) one-should-place(nyaset) thus(iti) + meaning(arthaḥ)

@@ -5,17 +5,17 @@
   {
    "lemma": "abhyāsāt",
    "morph": "m.abl.sg",
-   "grounds": "means of attaining equal mind"
+   "grounds": "ablative indicating the means of attaining steadiness"
   },
   {
    "lemma": "sama",
-   "morph": "compound=sama+cittaḥ",
-   "grounds": "first member of compound"
+   "morph": "compound = sama+co-member",
+   "grounds": "first member of compound describing balanced mind"
   },
   {
    "lemma": "cittaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes practitioner"
+   "grounds": "head of compound describing one with equanimous mind"
   },
   {
    "lemma": "tu",
@@ -24,13 +24,13 @@
   },
   {
    "lemma": "grāma",
-   "morph": "compound=grāma+dharmañ",
-   "grounds": "first member of compound"
+   "morph": "compound = grāma+co-member",
+   "grounds": "first member of compound denoting worldly social duties"
   },
   {
    "lemma": "dharmañ",
-   "morph": "m.acc.pl",
-   "grounds": "object to be abandoned; sandhi form"
+   "morph": "m.acc.sg",
+   "grounds": "object to be abandoned; final nasal written as ñ before ca in this tokenization"
   },
   {
    "lemma": "ca",
@@ -39,8 +39,8 @@
   },
   {
    "lemma": "varjayet",
-   "morph": "3.sg.optative-act/√vṛj",
-   "grounds": "prescribes renunciation"
+   "morph": "3.sg.optative-act √vṛj",
+   "grounds": "prescribes renunciation of worldly duties"
   }
  ]
 }
