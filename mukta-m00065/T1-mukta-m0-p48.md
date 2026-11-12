@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[pralaya-cloud-color-like](pralayāmbudavarṇābho) [skull-garland-wearing](muṇḍakāpālamālinaḥ) [who?](kaḥ)
+[pralaya+ambuda+varṇa+ābhaḥ](pralayāmbudavarṇābho) [muṇḍa+kapāla+mālinaḥ](muṇḍakāpālamālinaḥ) [kaḥ](kaḥ)
 
 ## mukta-m0-p48-v1177
-[caṇḍa-named](caṇḍākhyo) [mother-middle-in](mātṛmadhye) [tu](tu) [situated](saṃsthitaḥ) [yellow-brush-bearing](pītakūrcabhṛt)
+[caṇḍa+ākhyaḥ](caṇḍākhyo) [mātṛ+madhye](mātṛmadhye) [tu](tu) [saṃsthitaḥ](saṃsthitaḥ) [pīta+kūrca+bhṛt](pītakūrcabhṛt)
 
 ## mukta-m0-p48-v1178
-[tat-six-limbs](tatṣaḍaṅgāni) [by-born-bowed](jātyanataiḥ) [with-space](khānvitaṃ) [ca](ca) [in-order-worship](kramādyajet)
+[tat+ṣaḍ+aṅgāni](tatṣaḍaṅgāni) [jāti+anataiḥ](jātyanataiḥ) [kha+anvitaṃ](khānvitaṃ) [ca](ca) [kramāt](kramād) [yajet](yajet)
 
 ## mukta-m0-p48-v1179
-[sound-bindu-with-joined](nādabindvindusaṃyuktaṃ) [mother-lord-until-illumined](mātṛnāthāntadīpitam)
+[nāda+bindu+indu+saṃyuktaṃ](nādabindvindusaṃyuktaṃ) [mātṛ+nātha+anta+dīpitam](mātṛnāthāntadīpitam)
 
 ## mukta-m0-p48-v1180
-[secret-deities-other-forms](guhyadevānyarūpāṇāṃ) [own-own-scripture-in-decision](sve sve śāstre viniścayaḥ)
+[guhya+deva+anya+rūpāṇāṃ](guhyadevānyarūpāṇāṃ) [sve](sve) [sve](sve) [śāstre](śāstre) [viniścayaḥ](viniścayaḥ)
 
 ## mukta-m0-p48-v1181
-[fivefold](pañcadhā) [images](pratimāḥ) [known](khyātā) [by-measure](mānataḥ) [sevenfold](saptadhā) [thus](tathā)
+[pañcadhā](pañcadhā) [pratimāḥ](pratimāḥ) [khyātāḥ](khyātā) [mānataḥ](mānataḥ) [saptadhā](saptadhā) [tathā](tathā)
 
 ## mukta-m0-p48-v1182
-[thus-from-lord-gods-all](thatheśvarātsurā sarve) [work-cause-difference](kāryakāraṇabhedataḥ)
+[tathā](tathā) [īśvarāt](īśvarāt) [surāḥ](surā) [sarve](sarve) [kārya+kāraṇa+bhedataḥ](kāryakāraṇabhedataḥ)
 
 ## mukta-m0-p48-v1183
-[thus](iti) [characteristic-collection](lakṣaṇasamuccaye) [rudra-etc](rudrādi) [manifest-linga](vyaktaliṅga) [conduct](vartanaṃ) [named](nāma) [sixth](ṣaṣṭo) [rite](vidhiḥ)
+[iti](iti) [lakṣaṇa+samuccaye](lakṣaṇasamuccaye) [rudra+ādi](rudrādi) [vyakta+liṅga](vyaktaliṅga) [vartanam](vartanaṃ) [nāma](nāma) [ṣaṣṭaḥ](ṣaṣṭo) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p48-v1184
-[five-faced-etc](pañcāsyādi) [as-linga](yathāliṅgaṃ) [becomes-well-manifest-five](bhavetsuvyaktapañcakam)
+[pañca+āsya+ādi](pañcāsyādi) [yathā+liṅgaṃ](yathāliṅgaṃ) [bhavet](bhavet) [su+vyakta+pañcakam](suvyaktapañcakam)
 
 ## mukta-m0-p48-v1185
-[five-faced](pañcavaktram) [inauspicious-in](aniṣṭeṣu) [four-faced](caturvaktraṃ) [happiness-bringing](sukhāvaham)
+[pañca+vaktra+aniṣṭeṣu](pañcavaktramaniṣṭeṣu) [catur+vaktraṃ](caturvaktraṃ) [sukha+āvaham](sukhāvaham)
 
 ## mukta-m0-p48-v1186
-[one-faced](ekavaktraṃ) [disease-destroying](syādrogaghnaṃ) [not-desired](nādhikāmyaṃ) [moving-unmoving](calācalam)
+[eka+vaktraṃ](ekavaktraṃ) [syāt](syād) [roga+ghnaṃ](rogaghnaṃ) [na](na) [adhikāmyaṃ](adhikāmyaṃ) [cala+acalam](calācalam)
 
 ## mukta-m0-p48-v1187
-[four-faced](caturmukhaṃ) [tu](tu) [space-support](khādhāre) [five-faced](pañcāsyaṃ) [vā](vā) [four-faced](caturmukham)
+[catur+mukhaṃ](caturmukhaṃ) [tu](tu) [kha+ādhāre](khādhāre) [pañca+āsyaṃ](pañcāsyaṃ) [vā](vā) [catur+mukham](caturmukham)
 
 ## mukta-m0-p48-v1188
-[linga-top-situated](liṅgamūrdhnisthita) [face-īśāna](vaktramaiśānaṃ) [tv](tv) [īśa-beholding](īśamīkṣakam)
+[liṅga+mūrdhni+sthita](liṅgamūrdhnisthita) [vaktram](vaktram) [aiśānaṃ](aiśānaṃ) [tu](tu) [īśa+īkṣakam](īśamīkṣakam)
 
 ## mukta-m0-p48-v1189
-[lion-faced](siṃhāsyaṃ) [beard-hair-rich](śmaśrukeśāḍhyaṃ) [maindra](maindraṃ) [tatpuruṣa-face](tatpurūṣānanam)
+[siṃha+āsyaṃ](siṃhāsyaṃ) [śmaśru+keśa+āḍhyaṃ](śmaśrukeśāḍhyaṃ) [maindraṃ](maindraṃ) [tatpuruṣa+ānanam](tatpurūṣānanam)
 
 ## mukta-m0-p48-v1190
-[tusk-terrible](daṃṣṭrākarālaṃ) [round-eyed](vṛttākṣaṃ) [blazing-hair-etc-ornamented](jvalatkeśādibhūṣitam)
+[daṃṣṭrā+karālaṃ](daṃṣṭrākarālaṃ) [vṛtta+akṣaṃ](vṛttākṣaṃ) [jvalat+keśa+ādi+bhūṣitam](jvalatkeśādibhūṣitam)
 
 ## mukta-m0-p48-v1191
-[beloved-ornament-hair-etc](kāntālaṅkārakeśādi) [tilaka-mark-ornamented](tilakolakamaṇḍitam)
+[kānta+alaṅkāra+keśa+ādi](kāntālaṅkārakeśādi) [tilaka+alaka+maṇḍitam](tilakolakamaṇḍitam)
 
 ## mukta-m0-p48-v1192
-[three-eyed](tryakṣaṃ) [stout](pīnaṃ) [youthful-form](yuvākāraṃ) [well-pleased](suprasannaṃ) [well-beautiful](suśobhamam)
+[tri+akṣaṃ](tryakṣaṃ) [pīnaṃ](pīnaṃ) [yuva+ākāraṃ](yuvākāraṃ) [su+prasannaṃ](suprasannaṃ) [su+śobhamam](suśobhamam)
 
 ## mukta-m0-p48-v1193
-[sadyaḥ](sadyaḥ) [two-faced-by-two](puṃbhyāṃ dvivaktraṃ) [syāt](syāt) [by-man-one-faced](puruṣeṇaikavaktrakam)
+[sadyaḥ](sadyaḥ) [puṃbhyāṃ](puṃbhyāṃ) [dvi+vaktraṃ](dvivaktraṃ) [syāt](syāt) [puruṣeṇa](puruṣeṇa) [eka+vaktrakam](ekavaktrakam)
 
 ## mukta-m0-p48-v1194
-[by-tattvas-linga](tatvairliṅgaṃ) [by-planets-devotee](grahairbhakte) [having-taken-water-portion](hṛtvāmbhoṃśo) [in-directions](vidikṣu) [ca](ca)
+[tatvaiḥ](tatvair) [liṅgaṃ](liṅgaṃ) [grahaiḥ](grahair) [bhakte](bhakte) [hṛtvā](hṛtvā) [ambhaḥ+aṃśaḥ](ambhoṃśo) [vidikṣu](vidikṣu) [ca](ca)
 
 ## mukta-m0-p48-v1195
-[by-direction-division](digvibhāgena) [that-face](tadvaktraṃ) [element-veda-faced](bhūtavedānanaṃ) [always](sadā)
+[dik+vibhāgena](digvibhāgena) [tat+vaktraṃ](tadvaktraṃ) [bhūta+veda+ānanaṃ](bhūtavedānanaṃ) [sadā](sadā)
 
 ## mukta-m0-p48-v1196
-[that-like](tadvaddyāsye) [two-measure-named](dvimātrākhyamekāsye) [three-three-fingers](tritrikāṅgulān)
+[tadvat](tadvad) [dvyāsye](dyāsye) [dvi+mātra+ākhyam](dvimātrākhyam) [eka+āsye](ekāsye) [tri+tri+ka+aṅgulān](tritrikāṅgulān)
 
 ## mukta-m0-p48-v1197
-[having-taken](hṛtvā) [in-corners](koṇeṣu) [holes-portions](randhrāṃśairliṅgaṃ) [six-tāla-surrounded](ṣaṭtālaveṣṭitam)
+[hṛtvā](hṛtvā) [koṇeṣu](koṇeṣu) [randhra+aṃśaiḥ](randhrāṃśair) [liṅgaṃ](liṅgaṃ) [ṣaṭ+tāla+veṣṭitam](ṣaṭtālaveṣṭitam)
 
 ## mukta-m0-p48-v1198
-[two-by-two](dvābhyāṃ dvābhyāṃ) [ca](ca) [there-face](tatrāsyaṃ) [linga](liṅgaṃ) [seven-faced-surrounded](saptāsyaveṣṭitam)
+[dvābhyāṃ](dvābhyāṃ) [dvābhyāṃ](dvābhyāṃ) [ca](ca) [tatra](tatrā) [āsyaṃ](āsyaṃ) [liṅgaṃ](liṅgaṃ) [sapta+āsya+veṣṭitam](saptāsyaveṣṭitam)
 
 ## mukta-m0-p48-v1199
-[ninety-angula](navatyaṅgulakaṃ) [round-from](vṛttādekāsyaṃ) [previous-face](pūrvavaktrakam)
+[navati+aṅgulakaṃ](navatyaṅgulakaṃ) [vṛttāt](vṛttād) [eka+āsyaṃ](ekāsyaṃ) [pūrva+vaktrakam](pūrvavaktrakam)
 
 ## mukta-m0-p48-v1200
-[that-below-six-division](tadadhaḥṣaḍvibhāgena) [śiva-faces](śivavaktrāṇi) [fashion](vartayet)
+[tat+adhaḥ](tadadhaḥ) [ṣaḍ+vibhāgena](ṣaḍvibhāgena) [śiva+vaktrāṇi](śivavaktrāṇi) [vartayet](vartayet)

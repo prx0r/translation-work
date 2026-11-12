@@ -7,37 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral form as given",
-     "morph": "indecl."
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.sg"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "thousands",
-     "grounds": "locative plural of numeral as given",
-     "morph": "loc.pl.m."
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "womb-diagrams",
-     "grounds": "compound form as given, no split",
-     "morph": "loc.pl.n."
+     "grounds": "compound locative referring to womb-mechanisms",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle form as given",
-     "morph": "nom.pl.m."
+     "grounds": "past passive participle describing state",
+     "morph": "3.pl.perf.pass"
     }
    ],
-   "question": "What kind of suffering befalls beings confined within eighty-four thousand womb-diagrams?",
+   "question": "By what count and in what locations are certain beings held in a state of torment?",
    "premises": [
-    "Beings are placed in womb-diagrams counted by the thousands.",
-    "The total count reaches eighty-four thousand such womb-diagrams.",
-    "Those beings within them undergo torment."
+    "A count of eighty-four applies to a set of thousands.",
+    "Those thousands are located within womb-diagrams.",
+    "Beings in those locations are in a tormented state."
    ],
-   "inference": "Beings dwelling in the eighty-four thousand womb-diagrams are subject to torment.",
-   "uncertainties": [],
-   "plain_english": "In the eighty-four thousand womb-diagrams, beings are tormented."
+   "inference": "Eighty-four thousand beings are tormented within womb-diagrams.",
+   "uncertainties": [
+    "Whether the count is distributive or collective remains unclear."
+   ],
+   "plain_english": "Eighty-four thousand are tormented in the womb-diagrams."
   }
  ]
 }

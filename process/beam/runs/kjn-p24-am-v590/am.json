@@ -1,15 +1,15 @@
 {
  "song": "kjn-p24",
  "verse": 590,
- "question": "What numbers of beauty and qualities are mentioned?",
+ "question": "What numbers and qualities are enumerated as attainable in this context?",
  "premises": [
-  "sixty-four is named",
-  "beauty is named",
-  "eight qualities are named"
+  "Sixty-four is mentioned.",
+  "Beauty is mentioned.",
+  "Eight qualities are also mentioned."
  ],
- "inference": "The verse mentions sixty-four and eight qualities of beauty.",
+ "inference": "Therefore sixty-four, beauty, and also eight qualities are enumerated.",
  "uncertainties": [
-  "exact enumeration unclear"
+  "The syntactic relation and exact referent of saudarya are unclear in this fragmentary line."
  ],
- "plain_english": "Sixty-four and eight qualities of beauty are mentioned."
+ "plain_english": "Sixty-four, and beauty, and also eight qualities."
 }

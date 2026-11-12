@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 132,
- "question": "Which chapter concludes in the text called Candra Dvīpa?",
+ "question": "Which chapter concludes with the teaching on emergence from the lunar realm?",
  "premises": [
-  "The text is Candra Dvīpa",
-  "A chapter is concluded within it",
-  "It is identified as the sixth"
+  "The context involves emergence from the moon-island.",
+  "A chapter is being identified.",
+  "That chapter is the sixth."
  ],
- "inference": "The sixth chapter in the Candra Dvīpa is concluded.",
- "uncertainties": [],
- "plain_english": "Thus ends the sixth chapter in the Candra Dvīpa."
+ "inference": "The sixth chapter concludes with the topic of emergence from the lunar realm.",
+ "uncertainties": [
+  "The compound 'candra-dvīpa-vinirgate' may be a chapter title or a concluding topic marker."
+ ],
+ "plain_english": "Thus ends the sixth chapter, on emergence from the moon-island."
 }
