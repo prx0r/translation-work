@@ -1,14 +1,15 @@
 {
  "song": "kjn-p21",
  "verse": 511,
- "question": "How are Bhaṭṭa and others related to Droṇaka and Harasiddhikā?",
+ "question": "Which figures are listed together as belonging to the group associated with Droṇaka and others, including Harasiddhikā?",
  "premises": [
   "Bhaṭṭa and others are named.",
-  "Droṇaka and others and Harasiddhikā are named."
+  "Droṇaka and others are named in the genitive.",
+  "Harasiddhikā is named likewise."
  ],
- "inference": "The verse lists associated figures.",
+ "inference": "Bhaṭṭa and others, together with those of Droṇaka and others and with Harasiddhikā, form the listed set.",
  "uncertainties": [
-  "Relationship among them is not stated."
+  "The exact relation between these sets is not specified."
  ],
- "plain_english": "Bhaṭṭa and others, likewise Droṇaka and others, and Harasiddhikā."
+ "plain_english": "Bhaṭṭa and others, likewise those of Droṇaka and others, and Harasiddhikā."
 }

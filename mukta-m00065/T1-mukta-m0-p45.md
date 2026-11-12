@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[pada](piṅgākṣī) [pada](cākṣayākṣapā) [pada](ilā) [pada](līlā) [pada](layā) [pada](tathā)
+[tawny-eyed](piṅgākṣī) [and](ca) [imperishable+rosary-holder](akṣayākṣapā) [ilā](ilā) [līlā](līlā) [layā](layā) [likewise](tathā)
 
 ## mukta-m0-p45-v1102
-[pada](hutāśā) [pada](ca) [pada](viśālākṣī) [pada](huṅkārā) [pada](vaḍavāmukhī)
+[fire](hutāśā) [and](ca) [wide-eyed](viśālākṣī) [huṅkārā](huṅkārā) [mare-faced](vaḍavāmukhī)
 
 ## mukta-m0-p45-v1103
-[pada](sarbajñā) [pada](taralā) [pada](tārā) [pada](ṛgvedā) [pada](tu) [pada](hayānanā)
+[all-knowing](sarbajñā) [trembling](taralā) [tārā](tārā) [ṛgveda](ṛgvedā) [indeed](tu) [horse-faced](hayānanā)
 
 ## mukta-m0-p45-v1104
-[pada](raktākṣī) [pada](suprasiddhā) [pada](tu) [pada](vidmujjihvā) [pada](karaṅkiṇī)
+[red-eyed](raktākṣī) [well-accomplished](suprasiddhā) [indeed](tu) [lightning-tongued](vidmujjihvā) [skeleton-bearing](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[pada](candrā) [pada](candravalī) [pada](caiva) [pada](prapañcā) [pada](pralayāntikā)
+[moon](candrā) [moon-creeper](candravalī) [and+indeed](caiva) [manifestation](prapañcā) [dissolution-end](pralayāntikā)
 
 ## mukta-m0-p45-v1106
-[pada](yamanī) [pada](tapanī) [pada](caiva) [pada](vāmanī) [pada](vikṛtānanā)
+[restraining](yamanī) [burning](tapanī) [and+indeed](caiva) [dwarfing](vāmanī) [deformed-faced](vikṛtānanā)
 
 ## mukta-m0-p45-v1107
-[pada](yamajihvā) [pada](jayantī) [pada](ca) [pada](durjayā) [pada](ca) [pada](yamāntikā)
+[death-tongued](yamajihvā) [victorious](jayantī) [and](ca) [invincible](durjayā) [and](ca) [death-end](yamāntikā)
 
 ## mukta-m0-p45-v1108
-[pada](catuḥ) [pada](ṣaṣṭiriyaṃ) [pada](devyā) [pada](mūrtibhedā) [pada](nigadyate)
+[sixty-four](catuḥ+ṣaṣṭir) [this](iyaṃ) [of-the-goddess](devyā) [form+divisions](mūrti+bhedā) [is-declared](nigadyate)
 
 ## mukta-m0-p45-v1109
-[pada](hemābhā) [pada](bhūṣaṇāḍhyā) [pada](syādakṣobhyā) [pada](karisaṃsthitā)
+[golden-hued](hemābhā) [adorned-with-ornaments](bhūṣaṇāḍhyā) [should-be](syād) [akṣobhyā](akṣobhyā) [seated-on-elephant](kari+saṃsthitā)
 
 ## mukta-m0-p45-v1110
-[pada](dhanuḥ) [pada](kapābhṛtsaumye) [pada](ṝkṣasthā) [pada](tarjanīyutā)
+[bow](dhanuḥ) [skull-bearing](kapābhṛt) [in-the-left](saumye) [seated-on-bear](ṛkṣa+sthā) [with-threatening-finger](tarjanī+yutā)
 
 ## mukta-m0-p45-v1111
-[pada](pretasthā) [pada](rāghasī) [pada](gaurī) [pada](kārdhakatarikānvitā)
+[seated-on-corpse](preta+sthā) [rāghasī](rāghasī) [white](gaurī) [with-half-scissors](kārdhaka+tarikā+nvitā)
 
 ## mukta-m0-p45-v1112
-[pada](kapālaṃ) [pada](ca) [pada](phalaṃ) [pada](saumye) [pada](dhatte) [pada](kubjanṛsaṃsthitā)
+[skull](kapālaṃ) [and](ca) [fruit](phalaṃ) [in-the-left](saumye) [holds](dhatte) [seated-on-dwarf-man](kubja+nṛ+saṃsthitā)
 
 ## mukta-m0-p45-v1113
-[pada](vāme) [pada](kapālapicchī) [pada](bhṛtsarvālaṅkāramaṇḍitā)
+[in-the-left](vāme) [skull+feather-bearing](kapāla+picchī) [adorned-with-all-ornaments](sarvālaṅkāra+maṇḍitā)
 
 ## mukta-m0-p45-v1114
-[pada](kauśeyapāśabhṛdyāmye) [pada](vāme) [pada](cāṅkuśakheṭinī)
+[silk+noose-bearing](kauśeya+pāśa+bhṛt) [in-the-right](yāmye) [in-the-left](vāme) [and](ca) [goad+shield-bearing](aṅkuśa+kheṭinī)
 
 ## mukta-m0-p45-v1115
-[pada](kuṭhārāśanibhṛdyāmye) [pada](saumye) [pada](pāśāṅkuśānvitā)
+[axe+thunderbolt-bearing](kuṭhāra+aśani+bhṛt) [in-the-right](yāmye) [in-the-left](saumye) [endowed-with-noose+goad](pāśāṅkuśā+nvitā)
 
 ## mukta-m0-p45-v1116
-[pada](yāmye) [pada](ḍamaruśūleṣumastahastākṣapā) [pada](matā)
+[in-the-right](yāmye) [drum+trident+arrow+intoxicated-hand+rosary-holder](ḍamaru+śūla+iṣu+matta+hasta+akṣapā) [is-considered](matā)
 
 ## mukta-m0-p45-v1117
-[pada](raktā) [pada](bahirsthitā) [pada](tvīlā) [pada](krīḍantī) [pada](dahanaiḥ) [pada](saha)
+[red](raktā) [standing-outside](bahis+sthitā) [indeed](tu) [īlā](īlā) [playing](krīḍantī) [with-fires](dahanaiḥ) [together](saha)
 
 ## mukta-m0-p45-v1118
-[pada](bibhrāṇā) [pada](paṭṭiśaṃ) [pada](pāśaṃ) [pada](vāme) [pada](mastārdhamambujam)
+[bearing](bibhrāṇā) [spear](paṭṭiśaṃ) [noose](pāśaṃ) [in-the-left](vāme) [intoxicated+half](masta+ardham) [lotus](ambujam)
 
 ## mukta-m0-p45-v1119
-[pada](kartarīkārdhabhṛdvāme) [pada](tarjanyākṛṣṭasṛkkikā)
+[scissors+half-bearing](kartarīkā+ardha+bhṛt) [in-the-left](vāme) [with-threatening-finger+drawn+lip-corner](tarjanī+ākṛṣṭa+sṛkkikā)
 
 ## mukta-m0-p45-v1120
-[pada](śūlaṃ) [pada](ruruyutaṃ) [pada](dvābhyāṃ) [pada](dhatte) [pada](lolā) [pada](sūsārase)
+[trident](śūlaṃ) [with-antelope](ruru+yutaṃ) [with-two-hands](dvābhyāṃ) [holds](dhatte) [lolā](lolā) [on-lotus](su+sārase)
 
 ## mukta-m0-p45-v1121
-[pada](laṅkeśorusthitā) [pada](laṅkā) [pada](carvantīṃ) [pada](piśitaṃ) [pada](ghanam)
+[on-laṅkeśa's-thigh+seated](laṅkeśa+uru+sthitā) [laṅkā](laṅkā) [chewing](carvantīṃ) [flesh](piśitaṃ) [dense](ghanam)
 
 ## mukta-m0-p45-v1122
-[pada](śoṇā) [pada](laṅkeśvarī) [pada](kuṇḍe) [pada](ūrdhvabālāṃ) [pada](ca) [pada](bibhratī)
+[red](śoṇā) [laṅkeśvarī](laṅkeśvarī) [in-the-bowl](kuṇḍe) [upward-hair](ūrdhva+bālāṃ) [and](ca) [bearing](bibhratī)
 
 ## mukta-m0-p45-v1123
-[pada](bibhrāṇā) [pada](kolagā) [pada](raktā) [pada](lālāsṛglālāsā) [pada](matā)
+[bearing](bibhrāṇā) [seated-on-boar](kola+gā) [red](raktā) [saliva+blood+delighting-in](lālā+sṛk+lālāsā) [is-considered](matā)
 
 ## mukta-m0-p45-v1124
-[pada](kartarīkumbhabhṛdyāme) [pada](saumye) [pada](pāśakapālinī)
+[scissors+skull-bearing](kartarī+kumbha+bhṛt) [in-the-right](yāme) [in-the-left](saumye) [noose+skull-holder](pāśa+kapālinī)
 
 ## mukta-m0-p45-v1125
-[pada](vāme) [pada](cābhayahastā) [pada](syādviṣṭarājyaghaṭānvitā)
+[in-the-left](vāme) [and](ca) [fearlessness+hand](abhaya+hastā) [should-be](syād) [endowed-with-seat+kingdom+vessel](viṣṭara+ājya+ghaṭā+nvitā)
