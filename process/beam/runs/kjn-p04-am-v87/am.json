@@ -1,13 +1,14 @@
 {
  "song": "kjn-p04",
  "verse": 87,
- "question": "What bodily freedom is gained from this wheel-based visualization?",
+ "question": "What bodily rejuvenation results from the wheel-based visualization?",
  "premises": [
-  "The practitioner becomes free from wrinkles and grey hair.",
-  "The practitioner becomes free from all diseases.",
-  "These are presented as results of the practice."
+  "The practitioner becomes freed from wrinkles and grey hair",
+  "The state is devoid of all diseases"
  ],
- "inference": "This visualization makes one free from wrinkles, grey hair, and all diseases.",
- "uncertainties": [],
+ "inference": "The visualization yields rejuvenation and freedom from all diseases",
+ "uncertainties": [
+  "The second compound is neuter accusative in form but functions as a result description in context"
+ ],
  "plain_english": "One becomes freed from wrinkles and grey hair, and devoid of all diseases."
 }

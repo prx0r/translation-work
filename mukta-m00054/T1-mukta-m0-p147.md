@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p147-v3651
-kadamba-ball+form(kadambagolakākāraḥ) kuṣmāṇḍa-troop+leader(kuṣmāṇḍagaṇanāyakaḥ)
+[kadamba+ball+form](kadambagolakākāraḥ) [kuṣmāṇḍa+gaṇa+leader](kuṣmāṇḍagaṇanāyakaḥ)
 
 ## mukta-m0-p147-v3652
-dwarf(kharvaḥ) sword+fond(khaḍgapriyaḥ) sword+pit+interior+dwelling(khaḍgakhātāntasthaḥ) sky+spotless(khanirmmalaḥ)
+[dwarf](kharvaḥ) [sword+fond](khaḍgapriyaḥ) [sword+scabbard+interior+dwelling](khaḍgakhātāntasthaḥ) [sky+stainless](khanirmmalaḥ)
 
 ## mukta-m0-p147-v3653
-quality+endowed(guṇāḍhyo) deep(gahano) in-song+abiding(gastho) prose+verse+nectar+ocean(gadyapadyasudhārṇavaḥ)
+[quality+endowed](guṇāḍhyo) [impenetrable](gahano) [going+abiding](gastho) [prose+verse+nectar+ocean](gadyapadyasudhārṇavaḥ)
 
 ## mukta-m0-p147-v3654
-secret+conduct+delighting(guhyācārarato) secret(guhyo) secret+scripture+defined(guhyāgamanirūpitaḥ)
+[secret+conduct+delighting](guhyācārarato) [secret](guhyo) [secret+scripture+ascertained](guhyāgamanirūpitaḥ)
 
 ## mukta-m0-p147-v3655
-bell+rattle+garlanded(ghaṇṭāgharggharikāmālī) pot+pitcher(ghaṭakumbho) pot+bellied(ghaṭodaraḥ)
+[bell+rattle+garlanded](ghaṇṭāgharggharikāmālī) [pot+pitcher](ghaṭakumbho) [pot+bellied](ghaṭodaraḥ)
 
 ## mukta-m0-p147-v3656
-fierce(caṇḍaḥ) Caṇḍeśvara+friend(caṇḍeśvarasuhṛt) lord-of-Caṇḍa(caṇḍeśaḥ) fierce+valor(caṇḍavikramaḥ)
+[fierce](caṇḍaḥ) [caṇḍeśvara+friend](caṇḍeśvarasuhṛt) [caṇḍeśa](caṇḍeśaḥ) [fierce+valor](caṇḍavikramaḥ)
 
 ## mukta-m0-p147-v3657
-meter(chandaḥ) meter+bodied(chandovapuḥ) will(chandaḥ) difficult-to-perceive+will+form(durllakṣyachandavigrahaḥ)
+[meter](chandaḥ) [meter+bodied](chandovapuḥ) [will](chando) [difficult+to+perceive+meter+form](durllakṣyachandavigrahaḥ)
 
 ## mukta-m0-p147-v3658
-muttering(japo) muttering+devoted(japaparo) to-be-muttered(japyo) tongue+throne+lord(jihvāsiṃhāsanaprabhuḥ)
+[muttering](japo) [muttering+devoted](japaparo) [to-be-muttered](japyo) [tongue+throne+lord](jihvāsiṃhāsanaprabhuḥ)
 
 ## mukta-m0-p147-v3659
-clang+abundant+resonance+clanging+jewel+anklet(ṭaṅkārasphārasaṃrāva-ṣṭaṅkārimaṇinūpuraḥ)
+[ṭaṅkāra+abundant+resounding+ṭaṅkāra-making+jewel+anklet](ṭaṅkārasphārasaṃrāva-ṣṭaṅkārimaṇinūpuraḥ)
 
 ## mukta-m0-p147-v3660
-ḍiṇḍi-drum+headed(ḍiṇḍimuṇḍo) ḍākinī+lord(ḍākinīśo) tumultuous(ḍāmaro) ḍiṇḍi-drum+fond(ḍiṇḍimapriyaḥ)
+[ḍiṇḍi+head](ḍiṇḍimuṇḍo) [ḍākinī+lord](ḍākinīśo) [ḍāmara](ḍāmaro) [ḍiṇḍima+fond](ḍiṇḍimapriyaḥ)
 
-## mukta-m0-p3661
-ḍhakkā-drum+sound+delighted(ḍhakkāaninādamudito) ḍhauṅ-sound(ḍhauṅko) Ḍhuṇḍhi+Vināyaka(ḍhuṇḍhivināyakaḥ)
+## mukta-m0-p147-v3661
+[ḍhakkā+unstruck+sound+delighted](ḍhakkāaninādamudito) [ḍhauṅka](ḍhauṅko) [ḍhuṇḍhi+vināyaka](ḍhuṇḍhivināyakaḥ)
 
 ## mukta-m0-p147-v3662
-stars+within+dwelling(tārakāntarasaṃsthānas) savior(tārakas) Tāraka+demon+slayer(tārakāntakaḥ)
+[stars+interior+dwelling](tārakāntarasaṃsthānas) [savior](tārakas) [tāraka+slayer](tārakāntakaḥ)
 
 ## mukta-m0-p147-v3663
-Dakṣa+sacrifice+destroyer(dakṣayajñapramathano) giver(dātā) demon+deluder(dānavamohanaḥ)
+[dakṣa+sacrifice+destroyer](dakṣayajñapramathano) [giver](dātā) [demon+deluder](dānavamohanaḥ)
 
 ## mukta-m0-p147-v3664
-tusk+broken+cloud+garland(dantaprabhinnābhramālo) demon+elephant+tearer(daityavāraṇadāraṇaḥ)
+[tusk+split+cloud+garlanded](dantaprabhinnābhramālo) [demon+elephant+tearer](daityavāraṇadāraṇaḥ)
 
 ## mukta-m0-p147-v3665
-wealth+grain+lord(dhanadhānyapatir) blessed(ddhanyo) wealth+giver(dhanado) earth+bearer(dharaṇīdharaḥ)
+[wealth+grain+lord](dhanadhānyapatir) [blessed](ddhanyo) [wealth+giver](dhanado) [earth+bearer](dharaṇīdharaḥ)
 
 ## mukta-m0-p147-v3666
-meditation+alone+manifest(dhyānaikaprakaṭo) to-be-meditated(dhyeyo) meditation+and+meditator+devoted(dhyānandhyānaparāyaṇaḥ)
+[meditation+alone+manifest](dhyānaikaprakaṭo) [to-be-meditated](dhyeyo) [meditation+and+meditator+devoted](dhyānandhyānaparāyaṇaḥ)
 
 ## mukta-m0-p147-v3667
-partless(niṣkalo) spotless(nirmmalo) eternal(nityo) eternal+and+non-eternal(nityānityo) free-from-disease(nirāmayaḥ)
+[partless](niṣkalo) [stainless](nirmmalo) [eternal](nityo) [eternal+non-eternal](nityānityo) [free-from-disease](nirāmayaḥ)
 
 ## mukta-m0-p147-v3668
-higher+than-the-highest(parātparaḥ) lord-of-beings(paśupatiḥ) beings+bond+liberator(paśupāśavimocakaḥ)
+[higher+than+the-highest](parātparaḥ) [beings+lord](paśupatiḥ) [beings+bond+liberator](paśupāśavimocakaḥ)
 
 ## mukta-m0-p147-v3669
-lotus+serene+eyed(padmaprasannanayanaḥ) prostrate+ignorance+remover(praṇatājñānamocanaḥ)
+[lotus+serene+eyed](padmaprasannanayanaḥ) [prostrate+ignorance+remover](praṇatājñānamocanaḥ)
 
 ## mukta-m0-p147-v3670
-fruit+in-hand(phalahastaḥ) serpent+lord(phaṇipatiḥ) phet-sound(phetkāraḥ) molasses+fond(phāṇitapriyaḥ)
+[fruit+in-hand](phalahastaḥ) [serpent+lord](phaṇipatiḥ) [phet-sound](phetkāraḥ) [syrup+fond](phāṇitapriyaḥ)
 
 ## mukta-m0-p147-v3671
-Brahman+by-Brahmā+worshipped+foot(brahmabrahmārccitapado) celibate-student(brahmacārī) lord-of-prayer(bṛhaspatiḥ)
+[brahman+by-brahman+worshipped+foot](brahmabrahmārccitapado) [celibate](brahmacārī) [bṛhaspati](bṛhaspatiḥ)
 
 ## mukta-m0-p147-v3672
-great+sound+foremost+consciousness+maker(bṛhannādāgrayacitkāro) universe+offering+girdle(brahmāṇḍavalimekhalaḥ)
+[great+sound+foremost+consciousness+maker](bṛhannādāgrayacitkāro) [universe+offering+girdle](brahmāṇḍavalimekhalaḥ)
 
 ## mukta-m0-p147-v3673
-venerable-lord(bhagavān) devotees+easily-attained(bhaktisulabho) welfare+giver(bhūtido) ashes+adorned(bhūtibhūṣaṇaḥ)
+[venerable-lord](bhagavān) [devotees+easily-attained](bhaktisulabho) [welfare+giver](bhūtido) [ashes+adorned](bhūtibhūṣaṇaḥ)
 
 ## mukta-m0-p147-v3674
-counselor(mantrī) mantra+lord(mantrapatir) thinker(mantrī) intoxication+intoxicated+charming(madamattamanoramaḥ)
+[counselor](mantrī) [mantra+lord](mantrapatir) [mantra-possessing](mantrī) [intoxication+intoxicated+delightful](madamattamanoramaḥ)
 
 ## mukta-m0-p147-v3675
-great+strength(mahābalo) great+heroism(mahāvīryo) great+vitality(mahāprāṇo) great+minded(mahāmanāḥ)
+[great+strength](mahābalo) [great+heroism](mahāvīryo) [great+vitality](mahāprāṇo) [great+minded](mahāmanāḥ)

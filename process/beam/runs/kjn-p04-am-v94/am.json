@@ -1,13 +1,14 @@
 {
  "song": "kjn-p04",
  "verse": 94,
- "question": "What other petal counts are attributed to the cakras in this enumeration?",
+ "question": "What additional petal configurations are attributed to the cakras?",
  "premises": [
-  "A sixteen-petalled form is mentioned.",
-  "A hundred-petalled form is mentioned.",
-  "A crore-petalled form is mentioned."
+  "Sixteen-petalled and hundred-petalled forms are named",
+  "A crore-petalled form is also named"
  ],
- "inference": "The cakras also include sixteen-petalled, hundred-petalled, and crore-petalled forms.",
- "uncertainties": [],
- "plain_english": "There are also sixteen-petalled, hundred-petalled, and crore-petalled ones."
+ "inference": "The cakras may also be conceived with sixteen, hundred, or countless petals",
+ "uncertainties": [
+  "The syntactic role of yathaiva ca is somewhat compressed in this enumeration"
+ ],
+ "plain_english": "They are also sixteen-petalled, hundred-petalled, and even crore-petalled."
 }

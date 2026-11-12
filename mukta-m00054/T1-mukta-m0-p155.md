@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p155-v3851
-pure(śuddha) + one-pointed(ekāgra) + mind(manāḥ) [śuddhaikāgramanā] O-king(rājan) + conquered(jita) + anger(krodhaḥ) [rājañjitakrodho] conquered(jita) + senses(indriyaḥ) [jitendriyaḥ]
+[pure](śuddha) [one-pointed+mind](ekāgramanā) [o-king](rājañ) [conquered+anger](jitakrodho) [conquered+senses](jitendriyaḥ)
 
 ## mukta-m0-p155-v3852
-by-hymn(stotreṇa) or(vā) + also(api) Savitṛ(savitā) that(tat) + to-me(me) tell(kathaya) O-very-pious-one(suvrata)
+[by-hymn](stotreṇa) [or](vāpi) [Savitar](savitā) [that](tat) [to-me](me) [tell](kathaya) [o-virtuous-one](suvrata)
 
 ## mukta-m0-p155-v3853
-then(tadā) to-me(me) to-sight(darśanaṃ) + came(yātaḥ) [darśana/yyātaḥ] in-person(sākṣāt) + god(devaḥ) [sākṣāddevo] sun(divākaraḥ)
+[then](tadā) [to-me](me) [vision+came](darśana/ yyātaḥ) [in-person](sākṣād) [god](devo) [sun](divākaraḥ)
 
 ## mukta-m0-p155-v3854
-by-which(yena) to-you(te) to-sight(darśanaṃ) + came(yātaḥ) [darśana/yyātaḥ] in-person(sākṣāt) + god(devaḥ) [sākṣāddevo] sun(divākaraḥ)
+[by-which](yena) [to-you](te) [vision+came](darśana/ yyātaḥ) [in-person](sākṣād) [god](devo) [sun](divākaraḥ)
 
 ## mukta-m0-p155-v3855
-not(na) if(cet) + exists(asti) fear(bhayaṃ) + anything(kiñcit) [bhayaṅkiñcid] by-recitation(yajanena) and(ca) is-pacified(śāmyati)
+[not](na) [if](ced) [is](asti) [fear](bhayaṅ) [any](kiñcid) [by-recitation](yajanena) [and](ca) [is-pacified](śāmyati)
 
 ## mukta-m0-p155-v3856
-other(anye) and(ca) diseases(rogāḥ) + are-pacified(śāmyanti) [rogāśśāmyanti] of-one-reading(paṭhataḥ) of-one-hearing(śṛṇvataḥ) + likewise(tathā) [śṛṇvatastathā]
+[other](anye) [and](ca) [diseases](rogāś) [are-pacified](śāmyanti) [of-one-reading](paṭhataḥ) [of-one-hearing](śṛṇvatas) [likewise](tathā)
 
 ## mukta-m0-p155-v3857
-who(yaḥ) this(etat) + from-beginning(āditaḥ) [etadāditaḥ] having-heard(śrutvā) into-battle(saṅgrāmam) + may-enter(praviśet) + man(naraḥ) [saṅgrāmampraviśennaraḥ]
+[who](ya) [this](etad) [from-beginning](āditaḥ) [having-heard](śrutvā) [into-battle](saṅgrāmam) [may-enter](praviśen) [man](naraḥ)
 
 ## mukta-m0-p155-v3858
-of-barren-women(vandhyānām) + son(putra) + producing(janam) [vandhyānāmputrajananam] of-the-frightened(bhītānām) + fear(bhaya) + destruction(nāśanam) [bhītānāmbhayanāśanam]
+[of-barren-women](vandhyānām) [son+birth](putrajananam) [of-the-frightened](bhītānām) [fear+destruction](bhayanāśanam)
 
 ## mukta-m0-p155-v3859
-of-children(bālānām) + and(ca) + indeed(eva) [bālānāñcaiva] of-all(sarveṣām) + planet(graha) + demon(rakṣaḥ) + warding-off(nivāraṇam) [sarveṣāṅgraharakṣonivāraṇam]
+[of-children](bālānāñ) [and](ca) [indeed](eva) [of-all](sarveṣāṅ) [planet+demon+warding-off](graharakṣonivāraṇam)
 
 ## mukta-m0-p155-v3860
-accomplished(saṃsiddhaḥ) + all(sarva) + resolve(saṅkalpaḥ) [saṃsiddhassarvasaṅkalpaḥ] happiness(sukham) + exceedingly(atyantam) + enjoys(aśnute) [sukhamatyantamaśnute]
+[accomplished](saṃsiddhas) [all+resolve](sarvasaṅkalpaḥ) [happiness](sukham) [exceedingly](atyantam) [enjoys](aśnute)
 
 ## mukta-m0-p155-v3861
-for-sovereignty(rājyāya) by-those-desiring-kingdom(rājyakāmaiḥ) + and(ca) [rājyakāmaiśca] to-be-recited(paṭhitavyam) + this(idam) + by-men(naraiḥ) [paṭhitavyamidannaraiḥ]
+[for-kingship](rājyāya) [by-those-desiring-kingship](rājyakāmaiś) [and](ca) [to-be-recited](paṭhitavyam) [this](idam) [by-men](naraiḥ)
 
 ## mukta-m0-p155-v3862
-cattle(paśvā) may-they-carry(vahantu) of-vaiśyas(vaiśyānāṃ) of-śūdras(śūdrāṇām) + dharma(dharma) + increase(barddhanam) [śūdrāṇāndharmabarddhanam]
+[with-cattle](paśvā) [may-carry](vahantu) [of-vaiśyas](vaiśyānāṃ) [of-śūdras](śūdrāṇān) [dharma+increase](dharmabarddhanam)
 
 ## mukta-m0-p155-v3863
-that(tat) + hear(śṛṇuṣva) [tacchṛṇuṣva] O-best-of-kings(nṛpaśreṣṭha) with-attentive-self(prayatātmā) I-speak(bravīmi) to-you(te)
+[that](tac) [hear](chṛṇuṣva) [o-best-of-kings](nṛpaśreṣṭha) [with-attentive-self](prayatātmā) [I-tell](bravīmi) [to-you](te)
 
 ## mukta-m0-p155-v3864
-p.(p.) 543)(543)) lord-of-all(viśva) + īśvara(īśvaraḥ) [viśveśvaro] source-of-the-universe(viśva) + yoni(yoniḥ) [viśvayonir] + restrained(niyata) + self(ātmā) [nniyatātmā] conquered(jita) + senses(indriyaḥ) [jitendriyaḥ]
+[p.-543)](p. 543)) [lord-of-universe](viśveśvaro) [source-of-universe](viśvayonir) [restrained+self](nniyatātmā) [conquered+senses](jitendriyaḥ)
 
 ## mukta-m0-p155-v3865
-great(maha) + yogin(yogī) [mahāyogī] great(maha) + intelligence(buddhiḥ) [mahābuddhir] + great-souled(mahat) + ātman(ātmā) [mahātmā] very(su) + great(maha) + strength(balaḥ) [sumahābalaḥ]
+[great+yogin](mahāyogī) [great+intellect](mahābuddhir) [great+self](mahātmā) [very+great+strength](sumahābalaḥ)
 
 ## mukta-m0-p155-v3866
-past(bhūta) + future(bhavyaḥ) [bhūtabhavyo] realized(bhāvita) + self(ātmā) [bhāvitātmā] being(bhūta) + inner(antaḥ) + cause(karaṇaḥ) [bhūtāntaḥkaraṇaś] + auspicious(śivaḥ) [karaṇaśśivaḥ]
+[past+future](bhūtabhavyo) [realized+self](bhāvitātmā) [being+end](bhūtāntaḥ) [inner+organ](karaṇaś) [auspicious](śivaḥ)
 
 ## mukta-m0-p155-v3867
-most-excellent(vareṇyaḥ) boon(vara) + giver(daḥ) [varado] yogin(yogī) well(su) + joined(saṃyuktaḥ) [susa/yyuktaḥ] illuminator(prakāśakaḥ)
+[most-excellent](vareṇyo) [boon+giver](varado) [yogin](yogī) [well+joined](susa/yyuktaḥ) [illuminator](prakāśakaḥ)
 
 ## mukta-m0-p155-v3868
-leader(nayaḥ) thousand(sahasra) + foot(pāt) [sahasrapāt] + virtuous(sādhuḥ) [sahasrapātsādhur] + divine(divya) + earring(kuṇḍala) + adorned(maṇḍitaḥ) [ddivyakuṇḍalamaṇḍitaḥ]
+[guide](nayaḥ) [thousand+footed](sahasrapāt) [virtuous](sādhur) [divine+earring+adorned](ddivyakuṇḍalamaṇḍitaḥ)
 
 ## mukta-m0-p155-v3869
-composed(samāhita) + mind(matiḥ) [samāhitamatir] + supporter(ddhātā) [samāhitamatirddhātā] ordainer(vidhātā) + made(kṛta) + auspicious(maṅgalaḥ) [vidhātākṛtamaṅgalaḥ]
+[collected+mind](samāhitamatir) [supporter](ddhātā) [ordainer](vidhātā) [made+auspicious](kṛtamaṅgalaḥ)
 
 ## mukta-m0-p155-v3870
-well-united(samāyuktā) liberated(vimukta) + self(ātmā) [vimuktātmā] accomplished(kṛta) + self(ātmā) [kṛtātmā] of-the-accomplished(kṛtinām) + best(varaḥ) [kṛtinā/vvaraḥ]
+[well+united](samāyuktā) [liberated+self](vimuktātmā) [accomplished+self](kṛtātmā) [of-the-accomplished+best](kṛtinā/ vvaraḥ)
 
 ## mukta-m0-p155-v3871
-lovely(kāntaḥ) desire(kāma) + etc.(ādiḥ) [kāmādir] + Āditya(ādityaḥ) [kāmādirādityo] restrained(niyata) + self(ātmā) [niyatātmā] untroubled(nirākulaḥ)
+[lovely](kāntaḥ) [desire+origin](kāmādir) [Āditya](ādityo) [restrained+self](niyatātmā) [unperturbed](nirākulaḥ)
 
 ## mukta-m0-p155-v3872
-seven(sapta) + seven(saptiḥ) [saptasaptir] + inconceivable(acintya) + self(ātmā) [acintyātmā] great(maha) + compassionate(kāruṇika) + supreme(uttamaḥ) [mahākāruṇikottamaḥ]
+[seven+seven](saptasaptir) [inconceivable+self](acintyātmā) [great+compassionate+supreme](mahākāruṇikottamaḥ)
 
 ## mukta-m0-p155-v3873
-unconquered(ajayaḥ) universe(viśva) + abode(nilayaḥ) [viśvanilayas] + all(sarva) + division(vibhāgaḥ) [sa/vvibhāgo] bull(vṛṣa) + banner(dhvajaḥ) [vṛṣadhvajaḥ]
+[unconquered](ajayo) [universe+abode](viśvanilayas) [all+division](sa/vvibhāgo) [bull+bannered](vṛṣadhvajaḥ)
 
 ## mukta-m0-p155-v3874
-one(eka) + wheel(cakra) + chariot(rathaḥ) [ekacakraratho] silent(maunī) good(su) + chariot(rathaḥ) [suratho] of-charioteers(rathinām) + best(varaḥ) [rathinā/vvaraḥ]
+[one+wheel+chariot](ekacakraratho) [silent-one](maunī) [good+chariot](suratho) [of-charioteers+best](rathinā/ vvaraḥ)
 
 ## mukta-m0-p155-v3875
-divine(divya) + maker(kṛt) [divyakṛd] + day(dina) + maker(kṛt) [dinakṛd] + god(devaḥ) [dinakṛddevo] god(deva) + of-gods(devaḥ) [devadevo] lord(divas) + of-heaven(patiḥ) [divaspatiḥ]
+[day+maker](divyakṛd) [day+maker](dinakṛd) [god](devo) [god+of-gods](devadevo) [lord-of-heaven](divaspatiḥ)
