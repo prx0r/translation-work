@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p182-v4526
-[consecration](abhiṣekastu) [knowledge](vidyā) [self](ātmā) [all-support](sarvvāśrayo) [great](mahān)
+[consecration](abhiṣekaḥ) [but](tu) [knowledge](vidyā) [should-be](syāt) [self](ātmā) [all](sarvva) [+](āśrayaḥ) [great](mahān)
 
 ## mukta-m0-p182-v4527
-[gift](dakṣiṇā) [absence-of-difference](bhedaśūnyatvaṃ) [service](śuśrūṣā) [steadiness](sthairyyamucyate)
+[gift](dakṣiṇā) [difference](bheda) [+](śūnyatvaṃ) [service](śuśrūṣā) [steadfastness](sthairyyam) [is-called](ucyate)
 
 ## mukta-m0-p182-v4528
-[eternal](nityā) [fifteen](pañcadaśaitāḥ) [may-be](syuriti) [declared](proktāstu) [latent-impressions](vāsanāḥ)
+[eternal](nityāḥ) [fifteen](pañcadaśa) [these](etāḥ) [should-be](syuḥ) [thus](iti) [declared](proktāḥ) [but](tu) [dispositions](vāsanāḥ)
 
 ## mukta-m0-p182-v4529
-[of-them](teṣāmanyonyasambhedaprakāraistatprapañcatā)
+[of-them](teṣām) [mutual](anyonya) [+](sambheda) [+](prakāraiḥ) [their](tat) [+](prapañcatā)
 
 ## mukta-m0-p182-v4530
-[mantra-syllable](ntu) [mantra-syllable](de) [mantra-syllable](rū) [mantra-syllable](ṣe) [mantra-syllable](pa) [mantra-syllable](ṇa)
+[ntu](ntu) [de](de) [rū](rū) [ṣe](ṣe) [pa](pa) [ṇa](ṇa) [vī](vī) [śe](śe) [taṃ](taṃ) [di](di) [mī](mī) [na](na) [ri](ri) [syā](syā) [da](da) [te](te)
 
 ## mukta-m0-p182-v4531
-[mantra-syllable](taḥ) [mantra-syllable](rtha) [mantra-syllable](ka) [mantra-syllable](syā) [mantra-syllable](thi) [mantra-syllable](ścā)
+[taḥ](taḥ) [rtha](rtha) [ka](ka) [syā](syā) [thi](thi) [ścā](ścā) [stu](stu) [ta](ta) [taḥ](taḥ) [ntre](ntre) [go](go) [rva](rva) [pi](pi) [ta](ta) [ṣu](ṣu) [sa](sa)
 
 ## mukta-m0-p182-v4532
-[mantra-syllable](ro) [mantra-syllable](ma) [mantra-syllable](ī) [mantra-syllable](yo) [mantra-syllable](kā) [mantra-syllable](rvi)
+[ro](ro) [ma](ma) [ī](ī) [yo](yo) [kā](kā) [rvi](rvi) [rśa](rśa) [ta](ta) [naṃ](naṃ) [ta](ta) [phā](phā) [ndu](ndu) [la](la) [nā](nā) [nni](nni) [vi](vi)
 
 ## mukta-m0-p182-v4533
-[special-union-of-difference-in-true-form-of-mudrā](mudrāparamārtharūpabhedayogaviśeṣaḥ) [manifestation](prapañcatā)
+[seal](mudrā) [+](parama) [+](artha) [+](rūpa) [+](bheda) [+](yoga) [+](viśeṣaḥ) [elaboration](prapañcatā)
 
 ## mukta-m0-p182-v4534
-[from-absence-of-perception-of-its-duality](taddvaividhyapratītirāhityāt) [determination-of-its-unity](tadaikyanirṇītiśca) [is-done](kriyata) [thus](iti)
+[that](tat) [+](dvaividhya) [+](pratīti) [+](rāhityāt) [that](tat) [+](aikya) [+](nirṇītiḥ) [and](ca) [is-made](kriyate) [thus](iti)
 
 ## mukta-m0-p182-v4535
-[of-well-accomplished-mantra-powers](mantravīryyasusiddhānāmitareṣāṃ) [maker-of-distinction](viśeṣakṛt)
+[mantra](mantra) [+](vīryya) [+](susiddhānām) [of-others](itareṣāṃ) [distinction](viśeṣa) [+](kṛt)
 
 ## mukta-m0-p182-v4536
-[three-letters](varṇatrayaṃ) [beginning](samārabhya) [up-to-nine-syllables](navārṇāvadhi) [seed-syllables](vījakāḥ)
+[syllable](varṇa) [+](trayaṃ) [beginning-with](samārabhya) [nine](nava) [+](arṇa) [+](avadhi) [seed-syllables](vījakāḥ)
 
 ## mukta-m0-p182-v4537
-[then](tata) [upward](ūrddhaṃ) [gone](gatā) [garlands](mālāstāsu) [difference](bhedo) [not](na) [exists](vidyate)
+[from-that](tataḥ) [upward](ūrddhaṃ) [gone](gatāḥ) [garlands](mālāḥ) [in-them](tāsu) [difference](bhedaḥ) [not](na) [is-known](vidyate)
 
 ## mukta-m0-p182-v4538
-[by-words](padairmmantreṣu) [difference](bhedaḥ) [may-be](syāt) [their](teṣāṃ) [numbers](saṃkhyāḥ) [hear](śṛṇu) [in-order](kramāt)
+[by-words](padaiḥ) [in-mantras](mmantreṣu) [difference](bhedaḥ) [should-be](syāt) [their](teṣāṃ) [numbers](saṃkhyāḥ) [hear](śṛṇu) [in-order](kramāt)
 
 ## mukta-m0-p182-v4539
-[with-twenty](saviṃśati) [seven-hundred](saptaśataṃ) [by-forty](catvāriṃśadbhiranvitam)
+[with-twenty](saviṃśati) [seven-hundred](saptaśataṃ) [by-forty](catvāriṃśadbhiḥ) [accompanied](anvitam)
 
 ## mukta-m0-p182-v4540
-[from-three-syllable-mantra-difference](tryakṣaramantrabhedādinavākṣaramantrabhedāntamiti) [remainder](śeṣaḥ)
+[three](tri) [+](akṣara) [+](mantra) [+](bheda) [+](ādi) [nine](nava) [+](akṣara) [+](mantra) [+](bheda) [+](antam) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p182-v4541
-[three-hundred](triśata) [twenty](viṃśati) [then](tatastrilakṣeṇa) [joined](samanvitam)
+[three-hundred](triśata) [twenty](viṃśati) [from-that](tatas) [by-three-hundred-thousand](trilakṣeṇa) [accompanied](samanvitam)
 
 ## mukta-m0-p182-v4542
-[difference-numbers](bhedasaṃkhyetthaṃ) [of-seven](saptānāṃ) [by-them](tābhiranyāḥ) [should-derive](samunnayet)
+[difference](bheda) [+](saṃkhyā) [thus](itthaṃ) [of-seven](saptānāṃ) [by-them](tābhiḥ) [others](anyāḥ) [one-should-derive](samunnayet)
 
 ## mukta-m0-p182-v4543
-[by-these](etairevonnayenmantrapadabhedānanukramāt)
+[by-these](etaiḥ) [indeed](eva) [one-should-derive](unnayet) [mantra](mantra) [+](pada) [+](bhedān) [in-sequence](anukramāt)
 
 ## mukta-m0-p182-v4544
-[lines](rekhāścatasraḥ) [five](pañcaivamṛjvākārā) [up-to-ten](daśāvadhi)
+[lines](rekhāḥ) [four](catasraḥ) [five](pañca) [thus](evam) [straight](ṛju) [+](ākārāḥ) [up-to-ten](daśa) [+](avadhi)
 
 ## mukta-m0-p182-v4545
-[by-numbers](saṃkhyābhiḥ) [other](anyā) [from-ten-syllables](daśākṣarādibhedasaṃkhyāḥ)
+[by-numbers](saṃkhyābhiḥ) [|](|) [other](anyāḥ) [ten](daśa) [+](akṣara) [+](ādi) [+](bheda) [+](saṃkhyāḥ)
 
 ## mukta-m0-p182-v4546
-[oblique-lines](tiryyagrekhāstāvatīśca) [having-made](kṛtvā) [in-them](teṣvaṅkamālikhet)
+[transverse](tiryyak) [+](rekhāḥ) [that-many](tāvatīḥ) [and](ca) [having-made](kṛtvā) [in-them](teṣu) [number](aṅkam) [one-should-write](ālikhet)
 
 ## mukta-m0-p182-v4547
-[in-first](ādye) [by-two-two-sequence](dvidvikramādaṅkān) [should-fill](pūrayettatra) [indicated](coditān)
+[in-the-first](ādye) [by-twos](dvidvi) [+](kramāt) [numbers](aṅkān) [one-should-fill](pūrayet) [there](tatra) [prescribed](coditān)
 
 ## mukta-m0-p182-v4548
-[in-second-row](dvitīyapaṃktau) [in-first](prathame) [section](khaṇḍe) [rest](śeṣāṃstu) [should-fill](pūrayet)
+[in-the-second](dvitīya) [+](paṃktau) [in-the-first](prathame) [section](khaṇḍe) [the-rest](śeṣān) [but](tu) [one-should-fill](pūrayet)
 
 ## mukta-m0-p182-v4549
-[in-third-row](tṛtīyapaṃktau) [but](tu) [with-rest](śeṣaistvevameva) [should-write](samālikhet)
+[in-the-third](tṛtīya) [+](paṃktau) [but](tu) [with-the-rest](śeṣaiḥ) [thus](tu) [indeed](eva) [one-should-write](samālikhet)
 
 ## mukta-m0-p182-v4550
-[in-oblique-rows](tiryyakpaṃktiṣvanabhyastakramamaṅkāstu) [everywhere](sarvataḥ)
+[in-transverse](tiryyak) [+](paṃktiṣu) [non-repeated](anabhyasta) [+](kramam) [numbers](aṅkāḥ) [but](tu) [everywhere](sarvataḥ)
