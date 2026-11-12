@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Under what condition does poison fail to enter the body?",
+ "question": "What protection is stated for one bitten by great serpents, with respect to poison entering the body?",
  "premises": [
   "A person may be bitten by great serpents.",
-  "Even if bitten, poison does not enter the body."
+  "Even in that condition, poison does not enter the body.",
+  "The negation applies to the action of poison entering."
  ],
- "inference": "In the stated condition, poison fails to enter the body even if the person has been bitten by great serpents.",
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
  "uncertainties": [
-  "The condition that prevents poison from entering is not stated in this verse."
+  "Basis of this protection not specified in this verse"
  ],
  "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }

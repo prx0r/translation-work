@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 110,
- "question": "Under what condition is that individual called the supreme Śiva?",
+ "question": "Under what minimal condition is that referent called the supreme Śiva?",
  "premises": [
-  "A certain individual is in question.",
-  "Upon merely leaving the body, that individual is called the supreme Śiva."
+  "A referent is indicated by sa.",
+  "The condition stated is mere leaving of the body.",
+  "Upon that condition the referent is called the supreme Śiva."
  ],
- "inference": "Merely leaving the body is the condition under which that individual is called the supreme Śiva.",
+ "inference": "Upon merely leaving the body, that referent is called the supreme Śiva.",
  "uncertainties": [
-  "The continuity of identity across leaving the body is not argued here."
+  "Scope of 'mere' not specified"
  ],
  "plain_english": "He, upon merely leaving the body, is called the supreme Śiva."
 }
