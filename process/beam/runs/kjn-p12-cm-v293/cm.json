@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "vuka",
-   "morph": "compound",
-   "grounds": "plant name; first member of compound"
+   "morph": "compound=first",
+   "grounds": "first member of compound, plant name"
   },
   {
    "lemma": "puṣpaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "blossom; second member of compound"
+   "morph": "n.acc.sg",
+   "grounds": "accusative singular noun"
   },
   {
    "lemma": "śiva",
-   "morph": "compound",
-   "grounds": "sacred; first member of compound"
+   "morph": "compound=first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "ambuñ",
-   "morph": "n.nom.sg",
-   "grounds": "sacred water; second member of compound"
+   "morph": "n.acc.sg",
+   "grounds": "accusative singular noun with sandhi nasal"
   },
   {
    "lemma": "ca",
@@ -29,23 +29,23 @@
   },
   {
    "lemma": "rakta",
-   "morph": "compound",
-   "grounds": "ritual substance; first member of compound"
+   "morph": "compound=first",
+   "grounds": "first member of compound or list item"
   },
   {
    "lemma": "śukraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "ritual substance; second member of compound"
+   "morph": "n.acc.sg",
+   "grounds": "accusative singular noun"
   },
   {
    "lemma": "surām",
    "morph": "f.acc.sg",
-   "grounds": "ritual drink"
+   "grounds": "accusative singular noun"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "comparative particle"
+   "grounds": "adverb of manner"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[īśāna](īśānaṃ) [karṇikā](karṇikāyāṃ) [tu](tu) [pūjayet](pūjayet) [kusuma+ādi](kusumādibhiḥ)
+īśānaṃ(īśānam) karṇikāyām(karṇikāyām) tu(tu) pūjayet(pūjayet) kusuma+ādibhiḥ(kusumādibhiḥ)
 
 ## mukta-m0-p39-v952
-[vāma](vāmam) [uttara+patra](uttarapatre) [tu](tu) [sadya](sadyaṃ) [paścima+patra](paścimapatrataḥ)
+vāmam(vāmam) uttara+patre(uttarapatre) tu(tu) sadyam(sadyam) paścima+patrataḥ(paścimapatrataḥ)
 
 ## mukta-m0-p39-v953
-[bāhu](bāhubhiḥ) [daśa](daśabhiḥ) [ca+eva](caiva) [śaśāṅka+makuṭa](śaśāṅkamakuṭaiḥ) [saha](saha)
+bāhubhiḥ(bāhubhiḥ) daśabhiḥ(daśabhiḥ) ca(ca) eva(eva) śaśāṅka+makuṭaiḥ(śaśāṅkamakuṭaiḥ) saha(saha)
 
 ## mukta-m0-p39-v954
-[agni+īśa+rakṣa+vāyavya+catur+dikṣu](agnīśarakṣovāyavyacaturdikṣu) [gata](gataṃ) [yajet](yajet)
+agni+īśa+rakṣas+vāyavya+catur+dikṣu(agnīśarakṣovāyavyacaturdikṣu) gatam(gatam) yajet(yajet)
 
 ## mukta-m0-p39-v955
-[hṛdaya](hṛdayaṃ) [candra+varṇa+ābha](candravarṇābhaṃ) [śiras](śiro) [gorocana+prabha](gorocanaprabham)
+hṛdayam(hṛdayam) candra+varṇa+ābham(candravarṇābham) śiraḥ(śiraḥ) gorocana+prabham(gorocanaprabham)
 
 ## mukta-m0-p39-v956
-[ādhūmra](ādhūmraṃ) [kavaca](kavacaṃ) [nyasyet](nyasyedastraṃ) [astra](astraṃ) [kapila+varṇaka](kapilavarṇakam)
+ā+dhūmram(ādhūmram) kavacam(kavacam) nyasyet(nyasyet) astram(astram) kapila+varṇakam(kapilavarṇakam)
 
 ## mukta-m0-p39-v957
-[pañca+vaktra+yuta](pañcavaktrayutāḥ) [sarve](sarve) [daśa+bāhu+indu+bhūṣita](daśabāhvindubhūṣitāḥ)
+pañca+vaktra+yutāḥ(pañcavaktrayutāḥ) sarve(sarve) daśa+bāhu+indu+bhūṣitāḥ(daśabāhvindubhūṣitāḥ)
 
 ## mukta-m0-p39-v958
-[dvi+aṣṭa+vatsara+ākāra](dviraṣṭavatsarākārāḥ) [surūpa](surūpāḥ) [sthira+yauvana](sthirayauvanāḥ)
+dvi+raṣṭa+vatsara+ākārāḥ(dviraṣṭavatsarākārāḥ) su+rūpāḥ(surūpāḥ) sthira+yauvanāḥ(sthirayauvanāḥ)
 
 ## mukta-m0-p39-v959
-[mūrdha+ādi+bhyaḥ](mūrdhādibhyo) [hṛd+ādi+bhyaḥ](hṛdādibhyastvānetavyāḥ) [prabhu](prabhorime)
+mūrdha+ādibhyaḥ(mūrdhādibhyaḥ) hṛd+ādibhyaḥ(hṛdādibhyas) tu(tu) ānetavyāḥ(ānetavyāḥ) prabhoḥ(prabhoḥ) ime(ime)
 
 ## mukta-m0-p39-v960
-[garbha+āvaraṇa](garbhāvaraṇamevaṃ) [tu](tu) [pūjayet](pūjayedabhito) [hara](haram)
+garbha+āvaraṇam(garbhāvaraṇam) evam(evam) tu(tu) pūjayet(pūjayet) abhitaḥ(abhito) haram(haram)
 
 ## mukta-m0-p39-v961
-[aṅka+ārūḍhā](aṅkārūḍhā) [prabhu](prabhoḥ) [pūjyā](pūjyā) [ādi+śakti](ādiśaktirmanonmanī) [manonmanī](manonmanī)
+aṅka+ārūḍhā(aṅkārūḍhā) prabhoḥ(prabhoḥ) pūjyā(pūjyā) ādi+śaktiḥ(ādiśaktiḥ) manonmanī(manonmanī)
 
 ## mukta-m0-p39-v962
-[na](nāvakuṇṭhanameteṣāmamṛtīkaraṇaṃ) [amṛtī+karaṇa](amṛtīkaraṇaṃ) [vinā](vinā)
+na(na) avakuṇṭhanam(avakuṇṭhanam) eteṣām(eteṣām) amṛtī+karaṇam(amṛtīkaraṇam) vinā(vinā)
 
 ## mukta-m0-p39-v963
-[snapanam](snapanaṃ) [dīpa+klpti](dīpakḷptiśca) [ca](ca) [na](na) [pṛthak](pṛthak) [ca+aṅga+bhāvataḥ](cāṅgabhāvataḥ)
+snapanam(snapanam) dīpa+kḷptiḥ(dīpakḷptiḥ) ca(ca) na(na) pṛthak(pṛthak) ca(ca) aṅga+bhāvataḥ(aṅgabhāvataḥ)
 
 ## mukta-m0-p39-v964
-[ananta+īśa](ananteśaśca) [ca](ca) [sūkṣma](sūkṣmaśca) [ca](ca) [śiva+uttama+eka+netra](śivottamaikanetrakau)
+ananteśaḥ(ananteśaḥ) ca(ca) sūkṣmaḥ(sūkṣmaḥ) ca(ca) śivottama+eka+netrakau(śivottamaikanetrakau)
 
 ## mukta-m0-p39-v965
-[ete](ete) [devāḥ](devāścaturvaktrā) [catur+vaktra](caturvaktrā) [hara+vat](haravaddaśabāhavaḥ) [daśa+bāhu](daśabāhavaḥ)
+ete(ete) devāḥ(devāḥ) catur+vaktrāḥ(caturvaktrā) hara+vat(haravat) daśa+bāhavaḥ(daśabāhavaḥ)
 
 ## mukta-m0-p39-v966
-[khaḍga+kheṭa+danuḥ+bāṇa+kamaṇḍalu+akṣa+sūtrin](khaḍgakheṭadhanurbāṇakamaṇḍalvakṣasūtriṇaḥ)
+khaḍga+kheṭa+dhanus+bāṇa+kamaṇḍalu+akṣa+sūtriṇaḥ(khaḍgakheṭadhanurbāṇakamaṇḍalvakṣasūtriṇaḥ)
 
 ## mukta-m0-p39-v967
-[yuga+anta+āditya+saṃkāśa](yugāntādityasaṃkāśāḥ) [saṃsṛṣṭau](saṃsṛṣṭau) [śiva+codita](śivacoditāḥ)
+yugānta+āditya+saṃkāśāḥ(yugāntādityasaṃkāśāḥ) saṃsṛṣṭau(saṃsṛṣṭau) śiva+coditāḥ(śivacoditāḥ)
 
 ## mukta-m0-p39-v968
-[śiva+uttama](śivottamaṃ) [tu](tu) [vāruṇyām](vāruṇyāmekanetraṃ) [eka+netra](ekanetraṃ) [tathā](tathottare) [uttare](uttare)
+śivottamam(śivottamam) tu(tu) vāruṇyām(vāruṇyām) eka+netram(ekanetram) tathā(tathā) uttare(uttare)
 
 ## mukta-m0-p39-v969
-[śrīkaṇṭha](śrīkaṇṭhāṃ) [ca+eva](caiva) [nairṛtyām](nairṛtyāṃ) [vāyavyām](vāyavyāṃ) [tu](tu) [śikhaṇḍin](śikhaṇḍinam)
+śrīkaṇṭhām(śrīkaṇṭhām) ca(ca) eva(eva) nairṛtyām(nairṛtyām) vāyavyām(vāyavyām) tu(tu) śikhaṇḍinam(śikhaṇḍinam)
 
 ## mukta-m0-p39-v970
-[siṃha+ārūḍhā+ambikā](siṃhārūḍhāmbikā) [tri+akṣā](tryakṣā) [pīta+ābhā](pītābhā) [darpaṇa+udvahā](darpaṇodvahā)
+siṃha+ārūḍhā(siṃhārūḍhā) ambikā(ambikā) tri+akṣā(tryakṣā) pīta+ābhā(pītābhā) darpaṇa+udvahā(darpaṇodvahā)
 
 ## mukta-m0-p39-v971
-[vaiyāghra+vasana](vaiyāghravasanastryakṣaḥ) [tri+akṣa](tryakṣaḥ) [śūla+daṇḍa+kuṭhāra+bhṛt](śūladaṇḍakuṭhārabhṛt)
+vaiyāghra+vasanaḥ(vaiyāghravasanas) tri+akṣaḥ(tryakṣaḥ) śūla+daṇḍa+kuṭhāra+bhṛt(śūladaṇḍakuṭhārabhṛt)
 
 ## mukta-m0-p39-v972
-[nandin](nandinaṃ) [pūrva+dig+bhāge](pūrvadigbhāge) [padmarāga+sama+prabha](padmarāgasamaprabham)
+nandinam(nandinam) pūrva+dik+bhāge(pūrvadigbhāge) padmarāga+sama+prabham(padmarāgasamaprabham)
 
 ## mukta-m0-p39-v973
-[harita+ābha](haritābhaṃ) [mahākāla](mahākālaṃ) [śūla+hasta](śūlahastaṃ) [tri+locana](trilocanam)
+harita+ābham(haritābham) mahākālam(mahākālam) śūla+hastam(śūlahastam) tri+locanam(trilocanam)
 
 ## mukta-m0-p39-v974
-[gaṇeśa](gaṇeśo) [vāmana+ākāra](vāmanākāro) [gaja+vaktra](gajavaktraḥ) [sva+danta+bhṛt](svadantabhṛt)
+gaṇeśaḥ(gaṇeśo) vāmana+ākāraḥ(vāmanākāro) gaja+vaktraḥ(gajavaktraḥ) sva+danta+bhṛt(svadantabhṛt)
 
 ## mukta-m0-p39-v975
-[salaṅḍuka+kuṭhāra+akṣa+mālā+hasta](salaṅḍukakuṭhārākṣamālāhastastrilocanaḥ) [tri+locana](trilocanaḥ)
+sa+laṅḍuka+kuṭhāra+akṣa+mālā+hastaḥ(salaṅḍukakuṭhārākṣamālāhastas) tri+locanaḥ(trilocanaḥ)

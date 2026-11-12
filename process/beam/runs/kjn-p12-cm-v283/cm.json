@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "yoginī",
-   "morph": "compound",
-   "grounds": "female practitioner; first member of compound"
+   "morph": "compound=first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "gaṇa",
-   "morph": "compound",
-   "grounds": "assembly; middle member of compound"
+   "morph": "compound=middle",
+   "grounds": "middle member of compound"
   },
   {
    "lemma": "madhyasthaṃ",
    "morph": "m.acc.sg",
-   "grounds": "located among; final member of compound"
+   "grounds": "accusative singular adjective"
   },
   {
    "lemma": "sa",
@@ -25,17 +25,17 @@
   {
    "lemma": "paśuḥ",
    "morph": "m.nom.sg",
-   "grounds": "bound being or victim"
+   "grounds": "nominative singular noun"
   },
   {
    "lemma": "kīrtitaṃ",
-   "morph": "n.nom.sg.past-passive-participle √kīrt",
-   "grounds": "declared or named"
+   "morph": "n.nom.sg.ppp √kīrt",
+   "grounds": "past participle"
   },
   {
    "lemma": "kule",
    "morph": "n.loc.sg",
-   "grounds": "in the tradition"
+   "grounds": "locative singular noun"
   }
  ]
 }

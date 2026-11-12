@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[sandalwood](candanaṃ) [and](ca) [aloes](agaruṃ) [and](ca) [indeed](eva) [saffron](kuṅkumaṃ) [fragrance](gandha) [is-called](ucyate)
+sandalwood(candanaṃ) and(ca) + aloe-wood(agaruñ) + and(ca) + indeed(eva) saffron(kuṅkumaṃ) fragrance(gandhaḥ) is-called(ucyate)
 
 ## mukta-m0-p44-v1077
-[with-kashmir-fragrance-camphor-sandalwood](kāśmīragandhakarpūracandanair) [or](vā) [one-should-prepare](prakalpayet)
+with-saffron(kāśmīra) + fragrance(gandha) + camphor(karpūra) + sandalwood(candanair) or(vā) one-should-prepare(prakalpayet)
 
 ## mukta-m0-p44-v1078
-[from-best-best-linga](uttamottamaliṅgād) [etc](ādi) [from-palā](āpalādi) [up-to-palā](palāvadhi)
+for-best-of-the-best-liṅga(uttama) + uttama(uttama) + liṅga(liṅga) + etc.(ādau) from-one-āpalaka(ā) + pala(pala) + etc.(ādi) up-to-one-pala(pala) + limit(avadhi)
 
 ## mukta-m0-p44-v1079
-[thus](evaṃ) [of-padya-etc-things](pādyādivastūnāṃ) [measure](pramāṇaṃ) [is-declared](parikīrtitam)
+thus(evaṃ) of-foot-water(pādya) + etc.(ādi) + substances(vastūnāṃ) measure(pramāṇaṃ) is-declared(parikīrtitam)
 
 ## mukta-m0-p44-v1080
-[white-lotus](śvetapadmaṃ) [and](ca) [punnāga](punnāgaṃ) [conch-flower](śaṅkhapuṣpaṃ) [and](ca) [jasmine](mallikā)
+white-lotus(śvetapadmaṃ) and(ca) punnāga(punnāgaṃ) conch-flower(śaṅkhapuṣpaṃ) and(ca) jasmine(mallikā)
 
 ## mukta-m0-p44-v1081
-[two-eared](dvikarṇi) [kurava](kuravaṃ) [jasmine](jātī) [lakṣmī](lakṣmīśca) [and](ca) [vakula](vakulaṃ) [thus](tathā)
+dvikarṇi(dvikarṇi) kurava(kuravaṃ) jātī(jātī) and(ca) + lakṣmī(lakṣmīḥ) and(ca) vakula(vakulaṃ) likewise(tathā)
 
 ## mukta-m0-p44-v1082
-[poison-iron-sulfate-flower](viṣakāsīsakusumaṃ) [bhadrā](bhadrā) [and](ca) [great](mahatī) [and](ca) [that](sā)
+viṣakāsīsa-flower(viṣakāsīsa) + flower(kusumaṃ) bhadrā(bhadrā) and(ca) mahatī(mahatī) and(ca) that(sā)
 
 ## mukta-m0-p44-v1083
-[hālikā](hālikā) [hundred-petaled](śatapatraṃ) [and](ca) [datura](unmanttaṃ) [kuśa-flower](kuśapuṣpakam)
+hālikā(hālikā) hundred-petalled-lotus(śatapatraṃ) and(ca) unmatta(unmanttaṃ) kuśa-flower(kuśa) + flower(puṣpakam)
 
 ## mukta-m0-p44-v1084
-[red-lotus](raktapadmaṃ) [palāśa](palāśaṃ) [and](ca) [red-water-lily](raktotpalaṃ) [and](ca) [pāṭalī](pāṭalī)
+red-lotus(raktapadmaṃ) palāśa(palāśaṃ) and(ca) red-lily(raktotpalaṃ) and(ca) pāṭalī(pāṭalī)
 
 ## mukta-m0-p44-v1085
-[vyāghrī](vyāghrī) [and](ca) [red-mandāra](raktamandāraḥ) [paṭṭikā](paṭṭikā) [vaijikā](vaijikā) [thus](tathā)
+vyāghrī(vyāghrī) and(ca) red-mandāra(rakta) + mandāraḥ(mandāraḥ) paṭṭikā(paṭṭikā) vaijikā(vaijikā) likewise(tathā)
 
 ## mukta-m0-p44-v1086
-[śonakya](śonakyaṃ) [karṇikāra](karṇikāraṃ) [and](ca) [campaka](campakaṃ) [golden-datura](hemadhutturam)
+śonakya(śonakyaṃ) karṇikāra(karṇikāraṃ) and(ca) campaka(campakaṃ) golden-dhuttura(hema) + dhutturam(dhutturam)
 
 ## mukta-m0-p44-v1087
-[these](etāni) [yellow-flowers](pītapuṣpāṇi) [in-black](kṛṣṇe) [blue-water-lily](nīlotpalaṃ) [best](varam)
+these(etāni) yellow-flowers(pīta) + puṣpāṇi(puṣpāṇi) in-black(kṛṣṇe) blue-lotus(nīlotpalaṃ) is-best(varam)
 
 ## mukta-m0-p44-v1088
-[apāmārga](apāmārgaṃ) [kuśa](kuśā) [dūrvā](dūrvāḥ) [five-bilva](pañcabilvāḥ) [śamī](śamī) [thus](tathā)
+apāmārga(apāmārgaṃ) kuśa-grasses(kuśāḥ) dūrvā-grasses(dūrvāḥ) five-bilva-leaves(pañca) + bilvāḥ(bilvāḥ) śamī(śamī) likewise(tathā)
 
 ## mukta-m0-p44-v1089
-[single-leaf-lotus](ekapatrāravindaṃ) [and](ca) [viṣṇukrānti](viṣṇukrāntiḥ) [thus](tathā) [indeed](eva) [and](ca)
+single-petal-lotus(eka) + patra(patra) + aravindaṃ(aravindaṃ) and(ca) viṣṇukrānti(viṣṇukrāntiḥ) likewise(tathā) + indeed(eva) and(ca)
 
 ## mukta-m0-p44-v1090
-[thus-etc](evamādīni) [leaves](patrāṇi) [son-increase-causing](putravṛddhikarāṇi) [and](ca)
+such(evam) + etc.(ādīni) leaves(patrāṇi) son(putra) + prosperity(vṛddhi) + causing(karāṇi) and(ca)
 
 ## mukta-m0-p44-v1091
-[from-thousand-arka-flowers](arkapuṣpasahasrebhyo) [baka-flower](bakapuṣpaṃ) [is-superior](viśiṣyate)
+than-thousands-of-arka-flowers(arka) + puṣpa(puṣpa) + sahasrebhyaḥ(sahasrebhyaḥ) bakula-flower(baka) + puṣpaṃ(puṣpaṃ) is-superior(viśiṣyate)
 
 ## mukta-m0-p44-v1092
-[from-thousand-datura](dhuttūrakasahasrebhyaḥ) [śamī-flower](śamīpuṣpaṃ) [is-superior](viśiṣyate)
+than-thousands-of-dhuttūra-flowers(dhuttūraka) + sahasrebhyaḥ(sahasrebhyaḥ) śamī-flower(śamī) + puṣpaṃ(puṣpaṃ) is-superior(viśiṣyate)
 
 ## mukta-m0-p44-v1093
-[karavīra-equal](karavīrasamā) [known](jñeyā) [jasmine](jātī) [vijaya-pāṭalī](vijayapāṭalī)
+equal-to-karavīra(karavīra) + samā(samā) should-be-known(jñeyā) jātī(jātī) vijayā(vijaya) + pāṭalī(pāṭalī)
 
 ## mukta-m0-p44-v1094
-[nāga-campaka-punnāga](nāgacampakapunnāgā) [datura-equal](dhuttūrakasamāḥ) [remembered](smṛtāḥ)
+nāga-campaka(nāga) + campaka(campaka) + punnāgāḥ(punnāgāḥ) equal-to-dhuttūra(dhuttūraka) + samāḥ(samāḥ) are-considered(smṛtāḥ)
 
 ## mukta-m0-p44-v1095
-[śirīṣa-sarja-bandhūka-flowers](śirīṣasarjabandhūkakusumāni) [one-should-abandon](visarjayet)
+śirīṣa(śirīṣa) + sarja(sarja) + bandhūka(bandhūka) + flowers(kusumāni) one-should-discard(visarjayet)
 
 ## mukta-m0-p44-v1096
-[vaibhītaka-leaves](vaibhītakāni) [leaves](patrāṇi) [flowers](kusumāni) [one-should-avoid](vivarjayet)
+vaibhītaka(vaibhītakāni) leaves(patrāṇi) flowers(kusumāni) one-should-avoid(vivarjayet)
 
 ## mukta-m0-p44-v1097
-[fragrant-impure](gandhavantyapavitrāṇi) [flowers](kusumāni) [one-should-avoid](vivarjayet)
+fragrant(gandhavanti) + impure(apavitrāṇi) flowers(kusumāni) one-should-avoid(vivarjayet)
 
 ## mukta-m0-p44-v1098
-[gilded](kanakāni) [kadamba](kadambāni) [at-night](rātrau) [should-be-given](deyāni) [to-śaṅkara](śaṅkare)
+kanaka-flowers(kanakāni) kadamba-flowers(kadambāni) at-night(rātrau) should-be-offered(deyāni) to-Śaṅkara(śaṅkare)
 
 ## mukta-m0-p44-v1099
-[for-half-watch](praharārdhe) [remembered](smṛtā) [jasmine](jātī) [karavīra](karavīram) [day-and-night](aharniśam)
+for-half-a-prahara(prahara) + ardhe(ardhe) is-prescribed(smṛtā) jātī(jātī) karavīra(karavīram) + day-and-night(aharniśam)
 
 ## mukta-m0-p44-v1100
-[self-fallen-flowers](svayaṃ) [patitapuṣpāṇi] [one-should-reject](tyajet) [and-damaged](upahatāni) [and](ca)
+self(svayaṃ) + fallen(patita) + flowers(puṣpāṇi) one-should-reject(tyajet) + and(ca) + damaged(upahatāni) and(ca)
