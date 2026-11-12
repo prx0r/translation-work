@@ -20,15 +20,19 @@
 },
 {
 "surface": "vaktram",
-"quick_gloss": "face"
+"quick_gloss": "and+face"
 },
 {
 "surface": "maheśe",
-"quick_gloss": "for-Maheśa"
+"quick_gloss": "in+great+lord"
 },
 {
-"surface": "rudra+vigrahe",
-"quick_gloss": "in-Rudra-image"
+"surface": "rudra",
+"quick_gloss": "of+rudra"
+},
+{
+"surface": "vigrahe",
+"quick_gloss": "form"
 }
 ]
 },
@@ -41,7 +45,7 @@
 "tokens": [
 {
 "surface": "malātmanā",
-"quick_gloss": "by-impure-soul"
+"quick_gloss": "by+impure+self"
 },
 {
 "surface": "viśiṣṭam",
@@ -49,15 +53,15 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "but"
 },
 {
-"surface": "pūrva+vat",
-"quick_gloss": "as-before"
+"surface": "pūrvavat",
+"quick_gloss": "as+before"
 },
 {
 "surface": "parikalpayet",
-"quick_gloss": "should-arrange"
+"quick_gloss": "should+arrange"
 }
 ]
 },
@@ -69,12 +73,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṣṭha+svara+samopetam",
-"quick_gloss": "with-sixth-vowel"
+"surface": "ṣaṣṭhasvara",
+"quick_gloss": "with+sixth+note"
 },
 {
-"surface": "bindu+nāda+vibhūṣitam",
-"quick_gloss": "with-bindu-and-nāda"
+"surface": "samopetam",
+"quick_gloss": "united"
+},
+{
+"surface": "bindu",
+"quick_gloss": "with+bindu"
+},
+{
+"surface": "nāda",
+"quick_gloss": "and+sound"
+},
+{
+"surface": "vibhūṣitam",
+"quick_gloss": "adorned"
 }
 ]
 },
@@ -87,19 +103,27 @@
 "tokens": [
 {
 "surface": "bere",
-"quick_gloss": "in-image"
+"quick_gloss": "in+the+image"
 },
 {
-"surface": "sadāśiva+iva",
-"quick_gloss": "as-Sadāśiva"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "sadāśivā",
+"quick_gloss": "like+sadāśiva"
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
 "surface": "liṅge",
-"quick_gloss": "in-liṅga"
+"quick_gloss": "in+the+liṅga"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "evam",
@@ -107,7 +131,7 @@
 },
 {
 "surface": "samācaret",
-"quick_gloss": "should-do"
+"quick_gloss": "should+perform"
 }
 ]
 },
@@ -119,20 +143,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratimā+lakṣaṇa+uktam",
-"quick_gloss": "as-stated-image-marks"
+"surface": "pratimālakṣaṇa",
+"quick_gloss": "the+characteristics+of+the+image"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
+"surface": "uktaṃ",
+"quick_gloss": "stated"
 },
 {
 "surface": "maheśam",
-"quick_gloss": "Maheśa"
+"quick_gloss": "and+great+lord"
 },
 {
-"surface": "anunā+yutam",
-"quick_gloss": "with-mantra"
+"surface": "anunā",
+"quick_gloss": "with+mantra"
+},
+{
+"surface": "yutam",
+"quick_gloss": "accompanied"
 }
 ]
 },
@@ -144,20 +172,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tan+mantreṇa",
-"quick_gloss": "with-that-mantra"
+"surface": "tanmantreṇa",
+"quick_gloss": "with+that+mantra"
 },
 {
 "surface": "samopetam",
-"quick_gloss": "joined"
+"quick_gloss": "united"
 },
 {
-"surface": "vidyā+deham",
-"quick_gloss": "vidyā-body"
+"surface": "vidyādeham",
+"quick_gloss": "the+body+of+vidyā"
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "should-arrange"
+"quick_gloss": "should+fashion"
 }
 ]
 },
@@ -169,12 +197,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vidyā+deha+artham",
-"quick_gloss": "for-vidyā-body"
+"surface": "vidyādehārtham",
+"quick_gloss": "for+the+purpose+of+the+body+of+vidyā"
 },
 {
-"surface": "uddiṣṭaḥ",
-"quick_gloss": "declared"
+"surface": "uddiṣṭam",
+"quick_gloss": "intended"
 },
 {
 "surface": "sarvataḥ",
@@ -182,15 +210,15 @@
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "Śiva"
+"quick_gloss": "śiva"
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "indeed"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -203,23 +231,23 @@
 "tokens": [
 {
 "surface": "tena",
-"quick_gloss": "by-that"
+"quick_gloss": "by+that"
 },
 {
 "surface": "āvāhya",
-"quick_gloss": "invoking"
+"quick_gloss": "having+invoked"
 },
 {
 "surface": "śivam",
-"quick_gloss": "Śiva"
+"quick_gloss": "śiva"
 },
 {
-"surface": "deha+traye",
-"quick_gloss": "in-three-bodies"
+"surface": "dehatritaye",
+"quick_gloss": "in+the+triple+body"
 },
 {
-"surface": "pūrva+vartmanā",
-"quick_gloss": "by-previous-path"
+"surface": "pūrvavartmanā",
+"quick_gloss": "by+the+former+path"
 }
 ]
 },
@@ -232,7 +260,7 @@
 "tokens": [
 {
 "surface": "gandham",
-"quick_gloss": "sandal"
+"quick_gloss": "fragrance"
 },
 {
 "surface": "puṣpam",
@@ -240,7 +268,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "dhūpam",
@@ -248,7 +276,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "dīpam",
@@ -256,15 +284,15 @@
 },
 {
 "surface": "naivedyam",
-"quick_gloss": "naivedya"
+"quick_gloss": "food+offering"
 },
 {
 "surface": "api",
-"quick_gloss": "api"
+"quick_gloss": "also"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -276,16 +304,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañca+āvaraṇa+saṃyuktam",
-"quick_gloss": "with-five-enclosures"
+"surface": "pañcāvaraṇasaṃyuktam",
+"quick_gloss": "united+with+five+enclosures"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
+"surface": "catuḥ",
+"quick_gloss": "in+four"
 },
 {
-"surface": "catuḥ+tri+dvaya+eka+saṃvṛtau",
-"quick_gloss": "with-four-three-two-one"
+"surface": "tri",
+"quick_gloss": "three"
+},
+{
+"surface": "dvaya",
+"quick_gloss": "two"
+},
+{
+"surface": "eka",
+"quick_gloss": "or+one"
+},
+{
+"surface": "saṃvṛtau",
+"quick_gloss": "enclosure"
 }
 ]
 },
@@ -297,32 +337,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parivāra+yutam",
-"quick_gloss": "with-attendants"
+"surface": "parivārayutam",
+"quick_gloss": "accompanied+by+retinue"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "and+if"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "it+be"
 },
 {
 "surface": "balim",
-"quick_gloss": "offering"
+"quick_gloss": "offerings"
 },
 {
 "surface": "tasmin",
-"quick_gloss": "therein"
+"quick_gloss": "in+that"
 },
 {
 "surface": "samācaret",
-"quick_gloss": "should-do"
+"quick_gloss": "should+perform"
 }
 ]
 },
@@ -334,28 +370,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śuddha+nṛttam",
-"quick_gloss": "pure-dance"
+"surface": "śuddhanṛttam",
+"quick_gloss": "pure+dance"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "yathā+uktam",
-"quick_gloss": "yathā-uktam"
+"surface": "yathā",
+"quick_gloss": "as+stated"
 },
 {
 "surface": "sarvam",
-"quick_gloss": "all"
+"quick_gloss": "uktam) [all"
 },
 {
-"surface": "prakṛti+vat",
-"quick_gloss": "as-nature"
+"surface": "prakṛtivat",
+"quick_gloss": "like+prakṛti"
 },
 {
 "surface": "nayet",
-"quick_gloss": "should-lead"
+"quick_gloss": "should+lead"
 }
 ]
 },
@@ -367,24 +403,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śuddha+nṛttam",
-"quick_gloss": "pure-dance"
+"surface": "śuddhanṛttam",
+"quick_gloss": "pure+dance"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "hitvā",
-"quick_gloss": "leaving"
+"quick_gloss": "having+abandoned"
 },
 {
 "surface": "vā",
-"quick_gloss": "vā"
+"quick_gloss": "or"
 },
 {
 "surface": "karma",
-"quick_gloss": "karma"
+"quick_gloss": "action"
 },
 {
 "surface": "sarvam",
@@ -392,7 +428,7 @@
 },
 {
 "surface": "samācaret",
-"quick_gloss": "should-do"
+"quick_gloss": "should+perform"
 }
 ]
 },
@@ -408,20 +444,20 @@
 "quick_gloss": "festival"
 },
 {
-"surface": "snapanaṃ",
+"surface": "snapanam",
 "quick_gloss": "bathing"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "eva",
-"quick_gloss": "eva"
+"quick_gloss": "indeed"
 },
 {
-"surface": "damanārohaṇa+kriyām",
-"quick_gloss": "damanārohaṇa-rite"
+"surface": "damanārohaṇakriyām",
+"quick_gloss": "the+ritual+of+mounting+the+damanaka"
 }
 ]
 },
@@ -433,20 +469,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃvatsara+ādi+lekhām",
-"quick_gloss": "year-beginning-lines"
+"surface": "saṃvatsara",
+"quick_gloss": "year+etc."
+},
+{
+"surface": "ādi",
+"quick_gloss": "ādi"
+},
+{
+"surface": "lekhām",
+"quick_gloss": "inscriptions"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "vasanta+ākhyam",
-"quick_gloss": "Vasanta-named"
+"surface": "vasantākhyam",
+"quick_gloss": "named+vasanta"
 },
 {
-"surface": "tat+utsavam",
-"quick_gloss": "that-festival"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "utsavam",
+"quick_gloss": "festival"
 }
 ]
 },
@@ -463,23 +511,23 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "jīrṇānām",
-"quick_gloss": "of-worn"
+"quick_gloss": "of+the+decayed"
 },
 {
 "surface": "uddhāram",
-"quick_gloss": "removal"
+"quick_gloss": "restoration"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "guru+uttamāḥ",
-"quick_gloss": "O-best-gurus"
+"surface": "gurūttamāḥ",
+"quick_gloss": "o+best+of+gurus"
 }
 ]
 },
@@ -492,15 +540,23 @@
 "tokens": [
 {
 "surface": "kiñca",
-"quick_gloss": "kiñca"
+"quick_gloss": "somewhat"
 },
 {
-"surface": "āṣāḍhe+aśvinī+māse",
-"quick_gloss": "in-Āṣāḍha-or-Aśvinī-month"
+"surface": "āṣāḍhe",
+"quick_gloss": "in+āṣāḍha"
 },
 {
-"surface": "pūrva+phalguni+saṃgame",
-"quick_gloss": "at-pūrva-phalgunī-conjunction"
+"surface": "aśvinī",
+"quick_gloss": "in+aśvinī"
+},
+{
+"surface": "māse",
+"quick_gloss": "month"
+},
+{
+"surface": "pūrvaphalgunisaṃgame",
+"quick_gloss": "conjunction+of+pūrva+phālgunī"
 }
 ]
 },
@@ -512,16 +568,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaurī+maheśvarī+mūrtī",
-"quick_gloss": "Gaurī-Maheśvarī-forms"
+"surface": "gaurī",
+"quick_gloss": "gaurī"
+},
+{
+"surface": "maheśvarī",
+"quick_gloss": "and+maheśvarī"
+},
+{
+"surface": "mūrtīḥ",
+"quick_gloss": "images"
 },
 {
 "surface": "sadeśe",
-"quick_gloss": "in-place"
+"quick_gloss": "in+the+proper+place"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "and"
 },
 {
 "surface": "manonmanī",
@@ -537,24 +601,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaurī",
-"quick_gloss": "Gaurī"
-},
-{
-"surface": "mantreṇa",
-"quick_gloss": "by-mantra"
+"surface": "gaurīmantreṇa",
+"quick_gloss": "by+gaurī+mantra"
 },
 {
 "surface": "gauryāḥ",
-"quick_gloss": "of-Gaurī"
+"quick_gloss": "for+gaurī"
 },
 {
 "surface": "tu",
 "quick_gloss": "tu"
 },
 {
-"surface": "ṣaḍviṃśati+kalā+anvitām",
-"quick_gloss": "with-twenty-six-kalās"
+"surface": "ṣaḍviṃśatikalānvitām",
+"quick_gloss": "with+twenty+six+kalās"
 }
 ]
 },
@@ -566,20 +626,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ādi+śakti+aṇunā",
-"quick_gloss": "by-Ādiśakti-aṇu"
+"surface": "ādiśaktyaṇunā",
+"quick_gloss": "by+the+prime+śakti+atom"
 },
 {
 "surface": "tasyām",
-"quick_gloss": "in-her"
+"quick_gloss": "in+her"
 },
 {
-"surface": "ādi+śaktim",
-"quick_gloss": "Ādiśakti"
+"surface": "ādiśaktim",
+"quick_gloss": "the+prime+śakti"
 },
 {
 "surface": "prapūjayet",
-"quick_gloss": "should-worship"
+"quick_gloss": "should+worship"
 }
 ]
 },
@@ -592,23 +652,23 @@
 "tokens": [
 {
 "surface": "aṣṭamyām",
-"quick_gloss": "on-eighth"
+"quick_gloss": "on+the+eighth"
 },
 {
 "surface": "vā",
-"quick_gloss": "vā"
+"quick_gloss": "or"
 },
 {
 "surface": "caturdaśyām",
-"quick_gloss": "on-fourteenth"
+"quick_gloss": "on+the+fourteenth"
 },
 {
-"surface": "vā",
-"quick_gloss": "vā"
+"surface": "viṣuva",
+"quick_gloss": "at+equinox"
 },
 {
-"surface": "viṣuva+ayana+saṃkrame",
-"quick_gloss": "at-equinox"
+"surface": "ayanasaṃkrame",
+"quick_gloss": "or+solstice"
 }
 ]
 },
@@ -621,27 +681,31 @@
 "tokens": [
 {
 "surface": "suyoge",
-"quick_gloss": "in-good-yoga"
+"quick_gloss": "in+a+good+yoga"
 },
 {
-"surface": "sūrya+vāre",
-"quick_gloss": "on-Sunday"
+"surface": "sūryavāre",
+"quick_gloss": "on+a+sunday"
 },
 {
 "surface": "vā",
-"quick_gloss": "vā"
+"quick_gloss": "or"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "utsava+ante",
-"quick_gloss": "after-festival"
+"surface": "utsavānte",
+"quick_gloss": "at+the+end+of+the+festival"
 },
 {
-"surface": "dinaṃ+trayam",
-"quick_gloss": "three-days"
+"surface": "trayam",
+"quick_gloss": "for+three"
+},
+{
+"surface": "dinam",
+"quick_gloss": "days"
 }
 ]
 },
@@ -653,16 +717,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rājñobhiṣeka+nakṣatre",
-"quick_gloss": "at-king-abhiṣeka-nakṣatra"
+"surface": "rājñaḥ",
+"quick_gloss": "for+the+king"
+},
+{
+"surface": "abhiṣekanakṣatre",
+"quick_gloss": "at+the+consecration+nakṣatra"
 },
 {
 "surface": "durbhikṣe",
-"quick_gloss": "in-famine"
+"quick_gloss": "in+famine"
 },
 {
 "surface": "durnimittike",
-"quick_gloss": "in-bad-omen"
+"quick_gloss": "in+evil+omens"
 }
 ]
 },
@@ -674,20 +742,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pratiṣṭhā+ante",
-"quick_gloss": "at-consecration-end"
+"surface": "pratiṣṭhānte",
+"quick_gloss": "at+the+end+of+consecration"
 },
 {
-"surface": "dbute",
-"quick_gloss": "dbute"
+"surface": "adbhute",
+"quick_gloss": "in+a+portent"
 },
 {
-"surface": "sarva+roga+utpattau",
-"quick_gloss": "all-disease-origin"
+"surface": "sarvarogotpattau",
+"quick_gloss": "in+the+arising+of+all+diseases"
 },
 {
 "surface": "avagrahe",
-"quick_gloss": "avagrahe"
+"quick_gloss": "in+obstruction"
 }
 ]
 },
@@ -699,32 +767,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "snapanaṃ",
+"surface": "snapanam",
 "quick_gloss": "bathing"
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "and"
 },
 {
-"surface": "yathā+māyam",
-"quick_gloss": "as-māyā"
+"surface": "yathā",
+"quick_gloss": "as+prescribed"
 },
 {
-"surface": "tad",
-"quick_gloss": "tad"
+"surface": "ānmāya",
+"quick_gloss": "ānmāya"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
-"surface": "aneka+vidham",
-"quick_gloss": "many-kinds"
+"surface": "anekavidham",
+"quick_gloss": "of+many+kinds"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "bhavet"
+"quick_gloss": "would+be"
 }
 ]
 }

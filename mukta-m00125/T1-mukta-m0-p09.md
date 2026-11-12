@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[śiva-pot-being-washed](śivakumbhasyamānaṃ) [may-be](syāt) [for-that-purpose](tadarthaṃ) [water-vessel-etc](karakematamū)
+[śiva+pot](śivakumbhasyamānaṃ) [should-be](syāt) [for-that-purpose](tadarthaṃ) [hand-pot](karakam) [considered](ematam)
 
 ## mukta-m0-p09-v202
-[pot](kalaśe) [covering](veṣṭanaṃ) [three-two-sky-thread](tridvivyomasūtraiḥ) [in-order](krameṇa) [then](tu)
+[in-jar](kalaśe) [wrapping](veṣṭanaṃ) [with-three+two+sky+threads](tridvivyomasūtraiḥ) [in-order](krameṇa) [and](tu)
 
 ## mukta-m0-p09-v203
-[armor](varmaṇā) [placed](vihitaṃ) [that](tad) [pot-placement](cakumbhanyāso) [from-heart](hṛdāmataḥ)
+[with-armor-mantra](varmaṇā) [performed](vihitaṃ) [that](tat) [pot+placement](kumbhanyāso) [with-heart-mantra](hṛdā) [considered](mataḥ)
 
 ## mukta-m0-p09-v204
-[kūrca](kūrcānvaiśenamantreṇa) [with-mantra](kūrcānvaiśenamantreṇa) [substance](dravyaṃ) [with-root](mūlena) [place](vinyaset)
+[with-kuśa-grass](kūrcān) [with-vaiśa-mantra](vaiśenamantreṇa) [substance](dravyaṃ) [with-root-mantra](mūlena) [one-should-place](vinyaset)
 
 ## mukta-m0-p09-v205
-[pearl](muktā) [and](ca) [five-gems](pañcaratnaṃ) [may-be](syād) [absence](abhāve) [gold-approved](hemasammatam)
+[pearl](muktā) [and](ca) [five+jewels](pañcaratnaṃ) [should-be](syāt) [in-absence](abhāve) [gold](hema) [approved](sammatam)
 
 ## mukta-m0-p09-v206
-[of-them-half](tayorardhaṃ) [that-half](tadardhaṃ) [or](vā) [māṣa](māṣaṃ) [or](vā) [very-poor](atidaridrake)
+[of-those-two](tayoḥ) [half](ardhaṃ) [or](vā) [half-of-that](tadardhaṃ) [or](vā) [a-māṣa](māṣaṃ) [or](vā) [in-extreme-poverty](atidaridrake)
 
 ## mukta-m0-p09-v207
-[madhyam-ācamana-arghya](mādyamācamanañcārghyaṃ) [five-cow-products](pañcagavyañcaturdiśi)
+[foot-water](mādyam) [sipping-water](ācamanam) [and](ca) [arghya](arghyaṃ) [five+cow-products](pañcagavyam) [in-four-directions](caturdiśi)
 
 ## mukta-m0-p09-v208
-[kuśa-water](kuśodakaṃ) [then](tataḥ) [milk](kṣīraṃ) [curd-warm](dadhikoṣṇaṃ) [ghee](ghṛtaṃ) [may-be](bhavet)
+[kuśa+water](kuśodakaṃ) [then](tataḥ) [milk](kṣīraṃ) [curd](dadhi) [warm-water](koṣṇaṃ) [ghee](ghṛtaṃ) [should-be](bhavet)
 
 ## mukta-m0-p09-v209
-[second-placement](dvitīyasthāpanaṃ) [declared](proktaṃ) [third](tṛtīyañca) [said](nigadyate)
+[second+placement](dvitīyasthāpanaṃ) [declared](proktaṃ) [third](tṛtīyam) [and](ca) [is-stated](nigadyate)
 
 ## mukta-m0-p09-v210
-[wealth-sugarcane-banana-sesame-mustard-drinks](bhūtikṣusāra+kadalī+tila+sarṣapa+pānasāḥ)
+[ashes](bhūti) [sugarcane+essence](kṣusāra) [plantain](kadalī) [sesame](tila) [mustard](sarṣapa) [jackfruit](pānasāḥ)
 
 ## mukta-m0-p09-v211
-[coconut](nālikerañca) [orange-pair](nāraṃṅgadvayaṃ) [may-be](syāt) [citron](mātulaṃgakam)
+[coconut](nālikeram) [and](ca) [orange+pair](nāraṃṅgadvayam) [should-be](syāt) [citron](mātulaṃgakam)
 
 ## mukta-m0-p09-v212
-[jackfruit-mango-banana-born](panasāmrakadalyuttha) [coconut](nālikerañca) [mustard](sarṣapam)
+[jackfruit](panasa) [mango](āmra) [plantain+born](kadalyuttha) [coconut](nālikeram) [and](ca) [mustard](sarṣapam)
 
 ## mukta-m0-p09-v213
-[orange-pair](nāraṃgadvitayantasmāt) [yavanī-vāra-lājaka](yavanīvāralājakam)
+[orange+pair](nāraṃgadvitayam) [from-that](tasmāt) [barley](yava) [nīvāra-rice](nīvāra) [parched-rice](lājakam)
 
 ## mukta-m0-p09-v214
-[costus](kuṣṭhaṃ) [jaggery](gulaṃ) [milk](payaḥ) [after](paścāt) [mustard](sarṣapañca) [clove](lavaṃgakam)
+[costus](kuṣṭhaṃ) [molasses](gulaṃ) [milk](payaḥ) [afterwards](paścāt) [mustard](sarṣapam) [and](ca) [clove](lavaṃgakam)
 
 ## mukta-m0-p09-v215
-[sattuka-coconut](sattukannālikerañca) [turmeric-powder](haridrācūrṇakantathā)
+[parched-grain+flour](sattukam) [coconut](nālikeram) [and](ca) [turmeric+powder](haridrācūrṇakam) [likewise](tathā)
 
 ## mukta-m0-p09-v216
-[twenty-five](pañcaviṃśati) [among](madhye) [tu](tu) [abandon](santyajed) [inner-circle](antarāvṛtim)
+[twenty-five](pañcaviṃśati) [in-middle](madhye) [but](tu) [one-should-abandon](santyajet) [inner+enclosure](antarāvṛtim)
 
 ## mukta-m0-p09-v217
-[four-directions](caturdikṣu) [and](ca) [corners](koṇeṣu) [pādya-etc-eight](pādyādyaṣṭakam) [declared](īritam)
+[in-four-directions](caturdikṣu) [and](ca) [in-corners](koṇeṣu) [foot-water+etc.+eight](pādyādyaṣṭakam) [declared](īritam)
 
 ## mukta-m0-p09-v218
-[above](ūrdhvamekonapañcāsat) [in-order](krameṇa) [enumerated](paripaṭhyate)
+[above](ūrdhvam) [forty-nine](ekonapañcāsat) [in-order](krameṇa) [is-recited](paripaṭhyate)
 
 ## mukta-m0-p09-v219
-[leaf-camphor-water](patrakarpūranīrañca) [tooth](dāntaṃ) [flesh](māṃsimurantṛṇam)
+[leaf](patra) [camphor](karpūra) [water](nīram) [and](ca) [ivory](dāntaṃ) [flesh](māṃsi) [mura-grass](mura) [grass](tṛṇam)
 
 ## mukta-m0-p09-v220
-[apāmārga](apāmārgantato) [then](tato) [viṣṇukrānti](viṣṇukrānti) [dhurtūra-named](dhurtūrasaṃjñakam)
+[apāmārga](apāmārgam) [then](tato) [viṣṇukrānti](viṣṇukrānti) [dhattūra+named](dhurtūrasaṃjñakam)
 
 ## mukta-m0-p09-v221
-[or](athavā) [another-way](anyaprakāreṇa) [that](tadeva) [again](punar) [said](ucyate)
+[or](athavā) [by-another+method](anyaprakāreṇa) [that-same](tadeva) [again](punar) [is-stated](ucyate)
 
 ## mukta-m0-p09-v222
-[milk-curd-ghee-honey](kṣīraṃ+dadhi+ghṛtaṃ+kṣaudram) [āgneya-etc](āgneyādi) [diagonal-directions](vidikṣu) [and](ca)
+[milk](kṣīram) [curd](dadhi) [ghee](ghṛtaṃ) [honey](kṣaudram) [beginning-with-southeast](āgneyādi) [in-intermediate-directions](vidikṣu) [and](ca)
 
 ## mukta-m0-p09-v223
-[coconut](nālikerañca) [bilva](bilvañca) [jambu](jambukaccolapāṭalī)
+[coconut](nālikeram) [and](ca) [bilva](bilvam) [and](ca) [jambu](jambu) [cakkola](cakkola) [pāṭalī](pāṭalī)
 
 ## mukta-m0-p09-v224
-[simha-dhurtūra-named](simhadhurtūrasaṃjñe) [and](ca) [sixteen](ṣoḍaśāstravinirdiśet)
+[siṃha](simha) [dhattūra+named](dhurtūrasaṃjñe) [and](ca) [sixteen](ṣoḍaśa) [by-scripture](āstra) [one-should-specify](vinirdiśet)
 
 ## mukta-m0-p09-v225
-[banana-hundred-petals](kadalīśatapatrañca) [dhātakī](dhātakī) [white-lodhra](śvetalodhakam)
+[plantain](kadalī) [hundred-petalled-lotus](śatapatram) [and](ca) [dhātakī](dhātakī) [white-lodhra](śvetalodhakam)
