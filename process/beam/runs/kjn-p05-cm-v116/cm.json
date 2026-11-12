@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "sarva+bhāva+upapannasya",
-   "morph": "m.gen.sg",
-   "grounds": "compound: sarva+bhāva+upapannasya"
+   "morph": "compound:sarva+bhāva+upapanna=m.dep+m.dep+m.head; m.gen.sg",
+   "grounds": "genitive of recipient; compound sarva+bhāva+upapanna"
   },
   {
    "lemma": "dātavyaṃ",
    "morph": "gerundive.n.nom.sg",
-   "grounds": "gerundive of transmission"
+   "grounds": "gerundive of dā"
   },
   {
    "lemma": "kṛta+niścaye",
-   "morph": "m.loc.sg",
-   "grounds": "compound locative recipient"
+   "morph": "compound:kṛta+niścaya=m.dep+m.head; m.loc.sg",
+   "grounds": "locative or dative-like recipient; compound kṛta+niścaya"
   }
  ]
 }

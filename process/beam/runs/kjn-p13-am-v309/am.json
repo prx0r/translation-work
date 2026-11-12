@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 309,
- "question": "What additional types are included in the enumeration addressed to the lord of gods?",
+ "question": "What additional types are named in continuation of the enumeration to the lord of gods?",
  "premises": [
-  "The lord of gods is addressed.",
-  "One type named is the bearer of the triple staff.",
-  "Another type named is the seller of the Vedas."
+  "A triple-staff bearer is included",
+  "Another type is added likewise",
+  "That other type is a seller of the Veda"
  ],
- "inference": "The enumeration further includes the triple-staff bearer and the Veda-seller.",
- "uncertainties": [],
- "plain_english": "O Lord of gods, there is also the triple-staff bearer and likewise another, the seller of the Vedas."
+ "inference": "The enumeration continues with the triple-staff bearer and likewise the seller of the Veda",
+ "uncertainties": [
+  "The form deveśas may function as a vocative in context despite its surface"
+ ],
+ "plain_english": "O Lord of gods, also the triple-staff bearer, and likewise another, the seller of the Veda."
 }

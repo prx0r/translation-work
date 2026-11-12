@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "abdam+ekaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound duration"
+   "morph": "compound:abda+eka=m.dep+m.head; m.acc.sg",
+   "grounds": "accusative of duration; compound abda+eka"
   },
   {
    "lemma": "yadā+abhyastañ",
-   "morph": "n.nom.sg",
-   "grounds": "compound temporal participle"
+   "morph": "compound:yadā+abhyasta=indecl.dep+m.head; n.nom.sg",
+   "grounds": "compound temporal expression; yadā+abhyasta"
   },
   {
    "lemma": "jarā+mṛtyur",
-   "morph": "m.nom.sg",
-   "grounds": "compound subject"
+   "morph": "compound:jarā+mṛtyu=f.dep+m.head; m.nom.sg",
+   "grounds": "compound subject; jarā+mṛtyu"
   },
   {
    "lemma": "vinaśyati",
-   "morph": "3.sg.fut.act √naś",
-   "grounds": "verb of result"
+   "morph": "3.sg.act-pres",
+   "grounds": "present verb of vi-naś"
   }
  ]
 }

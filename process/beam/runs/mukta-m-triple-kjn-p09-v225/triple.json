@@ -8,7 +8,7 @@
      "surface": "caturaśīti",
      "gloss": "eighty-four",
      "grounds": "numeral referring to count",
-     "morph": "fem.nom.sg"
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
@@ -19,27 +19,27 @@
     {
      "surface": "yoniyantreṣu",
      "gloss": "womb-diagrams",
-     "grounds": "compound locative context",
+     "grounds": "locative compound referring to womb-mechanisms",
      "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle",
-     "morph": "m.nom.pl"
+     "grounds": "past passive participle describing state",
+     "morph": "3.pl.perf.pass"
     }
    ],
-   "question": "Under what constraint are beings tormented within eighty-four thousand womb-diagrams?",
+   "question": "By what count and in what locations are certain beings said to endure torment in this claim?",
    "premises": [
-    "A fixed count of womb-diagrams is specified here.",
-    "Those womb-diagrams are said to contain tormented beings.",
-    "The location marks a bounded field of suffering."
+    "A count of eighty-four is specified for the group in question.",
+    "That count is placed among thousands of specified locations.",
+    "Those locations are identified as womb-diagrams where beings remain."
    ],
-   "inference": "Beings are tormented within the specified set of eighty-four thousand womb-diagrams.",
+   "inference": "Beings are tormented within eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The agent of torment is not stated in this verse."
+    "The identity of the beings tormented is not specified by these tokens alone."
    ],
-   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
+   "plain_english": "Eighty-four thousand womb-diagrams are places where beings are tormented."
   }
  ]
 }

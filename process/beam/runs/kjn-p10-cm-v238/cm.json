@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "dūra",
-   "morph": "compound=dūra+first-member",
+   "morph": "compound=dūra+member",
    "grounds": "first member of compound with āśravaṇa"
   },
   {
    "lemma": "āśravaṇa",
-   "morph": "compound=āśravaṇa+second-member",
-   "grounds": "second member of compound with dūra"
+   "morph": "compound=āśravaṇa+member",
+   "grounds": "second member of compound with vijñānaṃ"
   },
   {
    "lemma": "vijñānaṃ",
    "morph": "n.nom.sg",
-   "grounds": "names a resulting power or cognition"
+   "grounds": "first item in list of attainments"
   },
   {
    "lemma": "pāśa",
-   "morph": "compound=pāśa+first-member",
+   "morph": "compound=pāśa+member",
    "grounds": "first member of compound with stobham"
   },
   {
    "lemma": "stobham",
    "morph": "m.acc.sg",
-   "grounds": "names another resulting power"
+   "grounds": "second item in list of attainments"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "connects listed attainments"
+   "grounds": "indeclinable linking items"
   },
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative address to the listener"
+   "grounds": "vocative address"
   }
  ]
 }

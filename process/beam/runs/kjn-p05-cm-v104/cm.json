@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "tvat+prasādena",
-   "morph": "m.inst.sg",
-   "grounds": "compound instrumental cause"
+   "morph": "compound:tvad+prasāda=pron.dep+m.head; m.ins.sg",
+   "grounds": "instrumental of cause; compound tvad+prasāda"
   },
   {
    "lemma": "kauleśa",
-   "morph": "m.voc.sg",
-   "grounds": "vocative address"
+   "morph": "compound:kaula+īśa=m.dep+m.head; m.voc.sg",
+   "grounds": "vocative address; compound kaula+īśa"
   },
   {
    "lemma": "jñāto",
    "morph": "m.nom.sg",
-   "grounds": "past participle result"
+   "grounds": "past participle of jñā"
   },
   {
    "lemma": "ahaṃ",
    "morph": "pron.nom.sg",
-   "grounds": "speaker pronoun"
+   "grounds": "first person pronoun subject"
   },
   {
    "lemma": "kaula+nirṇayaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound object of knowledge"
+   "morph": "compound:kaula+nirṇaya=m.dep+m.head; m.nom.sg",
+   "grounds": "compound object understood as known doctrine; kaula+nirṇaya"
   }
  ]
 }

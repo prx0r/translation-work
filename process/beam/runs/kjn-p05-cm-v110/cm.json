@@ -5,12 +5,12 @@
   {
    "lemma": "sa",
    "morph": "m.nom.sg",
-   "grounds": "demonstrative subject"
+   "grounds": "demonstrative pronoun subject"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "n.inst.sg",
-   "grounds": "compound instrumental of condition"
+   "morph": "compound:deha+tyakta+mātra=m.dep+m.dep+n.head; n.ins.sg",
+   "grounds": "instrumental absolute-like compound; deha+tyakta+mātra"
   },
   {
    "lemma": "paraṃ",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "nigadyate",
-   "morph": "3.sg.pres.pass √gad",
-   "grounds": "passive verb of designation"
+   "morph": "3.sg.pass-pres",
+   "grounds": "present passive of ni-gad"
   }
  ]
 }
