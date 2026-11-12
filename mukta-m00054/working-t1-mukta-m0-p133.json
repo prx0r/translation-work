@@ -12,7 +12,7 @@
 },
 {
 "surface": "aparaḥ",
-"quick_gloss": "another"
+"quick_gloss": "other"
 },
 {
 "surface": "mantraḥ",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "tattvena",
-"quick_gloss": "than+the+truth"
+"quick_gloss": "than+the+principle"
 },
 {
 "surface": "guroḥ",
@@ -45,11 +45,11 @@
 "tokens": [
 {
 "surface": "mahimnaḥ",
-"quick_gloss": "of+the+greatness"
+"quick_gloss": "of+greatness"
 },
 {
-"surface": "stava+pāṭhasya",
-"quick_gloss": "of+the+praise+recitation"
+"surface": "stavapāṭhasya",
+"quick_gloss": "of+the+hymn+of+praise"
 },
 {
 "surface": "kalā",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "ṣoḍaśīm",
-"quick_gloss": "the+sixteenth"
+"quick_gloss": "sixteenth"
 }
 ]
 },
@@ -85,8 +85,12 @@
 "quick_gloss": "meritorious"
 },
 {
-"surface": "gandharva+bhāṣitam",
-"quick_gloss": "by+the+Gandharvas+spoken"
+"surface": "gandharva",
+"quick_gloss": "by+Gandharvas"
+},
+{
+"surface": "bhāṣitam",
+"quick_gloss": "spoken"
 }
 ]
 },
@@ -103,7 +107,7 @@
 },
 {
 "surface": "stavam+idam",
-"quick_gloss": "this+praise"
+"quick_gloss": "this+hymn+of+praise"
 },
 {
 "surface": "akārṣīt",
@@ -111,11 +115,11 @@
 },
 {
 "surface": "divya+divyam",
-"quick_gloss": "divine+among+divine"
+"quick_gloss": "divine+divine"
 },
 {
 "surface": "mahimnaḥ",
-"quick_gloss": "of+the+greatness"
+"quick_gloss": "of+greatness"
 }
 ]
 },
@@ -128,15 +132,19 @@
 "tokens": [
 {
 "surface": "stavam+idam",
-"quick_gloss": "this+praise"
+"quick_gloss": "this+hymn+of+praise"
 },
 {
 "surface": "amogham",
 "quick_gloss": "infallible"
 },
 {
-"surface": "puṣpadanta+praṇītam",
-"quick_gloss": "by+Puṣpadanta+composed"
+"surface": "puṣpadanta",
+"quick_gloss": "by+Puṣpadanta"
+},
+{
+"surface": "praṇītam",
+"quick_gloss": "composed"
 }
 ]
 },
@@ -157,7 +165,7 @@
 },
 {
 "surface": "mahā+īśaḥ",
-"quick_gloss": "the+great+lord"
+"quick_gloss": "great+lord"
 }
 ]
 },
@@ -169,8 +177,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kiśora+candra+śekhare",
-"quick_gloss": "in+the+young+moon+crested+one"
+"surface": "kiśora+candra",
+"quick_gloss": "in+the+young+moon"
+},
+{
+"surface": "śekhare",
+"quick_gloss": "crested+one"
 },
 {
 "surface": "ratiḥ",
@@ -182,7 +194,7 @@
 },
 {
 "surface": "mama",
-"quick_gloss": "of+me"
+"quick_gloss": "my"
 }
 ]
 },
@@ -223,15 +235,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+kapāla+sampade",
-"quick_gloss": "for+the+great+skull+wealth"
+"surface": "mahā+kapāla",
+"quick_gloss": "of+great+skull"
 },
 {
-"surface": "sarit+jaṭā",
-"quick_gloss": "with+river+matted+hair"
+"surface": "sampade",
+"quick_gloss": "to+the+wealth"
 },
 {
-"surface": "astu",
+"surface": "sarij",
+"quick_gloss": "with+river"
+},
+{
+"surface": "jaṭā",
+"quick_gloss": "matted+hair"
+},
+{
+"surface": "alam",
 "quick_gloss": "may+be"
 },
 {
@@ -253,15 +273,19 @@
 },
 {
 "surface": "cirāya",
-"quick_gloss": "for+long"
+"quick_gloss": "for+long+time"
 },
 {
 "surface": "jāyatām",
 "quick_gloss": "may+arise"
 },
 {
-"surface": "cakora+bandhu+śekharaḥ",
-"quick_gloss": "the+moon+of+the+cakora+friend+crested+one"
+"surface": "cakorabandhu",
+"quick_gloss": "moon+friend"
+},
+{
+"surface": "śekharaḥ",
+"quick_gloss": "crested+one"
 }
 ]
 },
@@ -274,10 +298,10 @@
 "tokens": [
 {
 "surface": "prakalpanā+eka+śilpini",
-"quick_gloss": "in+the+sole+artist+of+creation"
+"quick_gloss": "in+the+sole+artist"
 },
 {
-"surface": "tri+locane",
+"surface": "trilocane",
 "quick_gloss": "in+the+three+eyed+one"
 },
 {
@@ -286,7 +310,7 @@
 },
 {
 "surface": "mama",
-"quick_gloss": "of+me"
+"quick_gloss": "my"
 }
 ]
 },
@@ -298,16 +322,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kalā+nidhāna+bandhuraḥ",
-"quick_gloss": "adorned+by+the+store+of+arts"
+"surface": "kalā+nidhāna",
+"quick_gloss": "moon+treasure"
+},
+{
+"surface": "bandhuraḥ",
+"quick_gloss": "beautiful"
 },
 {
 "surface": "śriyam",
 "quick_gloss": "prosperity"
 },
 {
-"surface": "jagat+dhurandharaḥ",
-"quick_gloss": "the+support+of+the+world"
+"surface": "jagat",
+"quick_gloss": "world"
+},
+{
+"surface": "dhurandharaḥ",
+"quick_gloss": "supporter"
 }
 ]
 },
@@ -320,15 +352,15 @@
 "tokens": [
 {
 "surface": "makha+chidām",
-"quick_gloss": "the+sacrifices+cutter"
+"quick_gloss": "sacrifice+destroyer"
 },
 {
-"surface": "andhaka+chidam",
-"quick_gloss": "the+darkness+cutter"
+"surface": "andhaka+chidām",
+"quick_gloss": "darkness+destroyer"
 },
 {
-"surface": "antaka+chidam",
-"quick_gloss": "the+end+maker+cutter"
+"surface": "antaka+chidām",
+"quick_gloss": "end+destroyer"
 },
 {
 "surface": "ambhaje",
@@ -344,16 +376,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaja+antakām",
-"quick_gloss": "the+elephant+slayer"
+"surface": "gajāntaka",
+"quick_gloss": "elephant+slayer"
 },
 {
-"surface": "andhaka+antakam",
-"quick_gloss": "the+Andhaka+slayer"
+"surface": "andhakāntaka",
+"quick_gloss": "darkness+slayer"
 },
 {
-"surface": "antaka+antakam",
-"quick_gloss": "the+end+maker+slayer"
+"surface": "antakāntaka",
+"quick_gloss": "end+slayer"
 },
 {
 "surface": "ambhaje",
@@ -369,8 +401,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhvani+krama+pravarttita",
-"quick_gloss": "by+the+order+of+sound+set+in+motion"
+"surface": "dhvani+krama",
+"quick_gloss": "by+rhythm+order"
+},
+{
+"surface": "pravarttita",
+"quick_gloss": "set+in+motion"
 },
 {
 "surface": "pracaṇḍa",
@@ -382,7 +418,7 @@
 },
 {
 "surface": "śivaḥ",
-"quick_gloss": "Śivaḥ"
+"quick_gloss": "Śiva"
 }
 ]
 },
@@ -406,12 +442,16 @@
 "quick_gloss": "ever"
 },
 {
-"surface": "sadā+śivam",
-"quick_gloss": "Sadāśivam"
+"surface": "sadāśivam",
+"quick_gloss": "Sadāśiva"
 },
 {
-"surface": "bhajāmi+aham",
+"surface": "bhajāmi",
 "quick_gloss": "I+worship"
+},
+{
+"surface": "aham",
+"quick_gloss": "I"
 }
 ]
 },
@@ -468,12 +508,24 @@
 "quick_gloss": "of+supreme+prosperity"
 },
 {
-"surface": "param+padam",
-"quick_gloss": "the+supreme+state"
+"surface": "param+padaṃ",
+"quick_gloss": "supreme+state"
 },
 {
-"surface": "tad+aṅgaja+tviṣ+añcayaḥ",
-"quick_gloss": "by+that+limb+born+radiance+multitude"
+"surface": "tad",
+"quick_gloss": "that"
+},
+{
+"surface": "aṅgaja",
+"quick_gloss": "limb-born"
+},
+{
+"surface": "tviṣām",
+"quick_gloss": "rays"
+},
+{
+"surface": "cayaḥ",
+"quick_gloss": "multitude"
 }
 ]
 },
@@ -493,12 +545,20 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "mantra+bhūṣaṇā",
-"quick_gloss": "mantra+as+ornament"
+"surface": "mantra",
+"quick_gloss": "mantra"
 },
 {
-"surface": "jagat+jayāya",
-"quick_gloss": "for+the+conquest+of+the+world"
+"surface": "bhūṣaṇā",
+"quick_gloss": "ornament"
+},
+{
+"surface": "jagat",
+"quick_gloss": "world"
+},
+{
+"surface": "jayāya",
+"quick_gloss": "for+victory"
 },
 {
 "surface": "jāyatām",
@@ -515,7 +575,7 @@
 "tokens": [
 {
 "surface": "sahasra+karam",
-"quick_gloss": "with+a+thousand+hands"
+"quick_gloss": "thousand+handed"
 },
 {
 "surface": "ati+ugram",
@@ -527,7 +587,7 @@
 },
 {
 "surface": "śambhum",
-"quick_gloss": "Śambhum"
+"quick_gloss": "Śambhu"
 },
 {
 "surface": "umā+patim",
@@ -544,15 +604,23 @@
 "tokens": [
 {
 "surface": "jaya+pradam",
-"quick_gloss": "giver+of+victory"
+"quick_gloss": "victory+giving"
 },
 {
-"surface": "sarva+vipat+pramocanam",
-"quick_gloss": "all+calamities+liberator"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "vipat",
+"quick_gloss": "calamities"
+},
+{
+"surface": "pramocana",
+"quick_gloss": "liberation"
 },
 {
 "surface": "vakṣyāmi",
-"quick_gloss": "I+shall+recite"
+"quick_gloss": "I+shall+speak"
 },
 {
 "surface": "śaivam",
@@ -584,7 +652,7 @@
 "quick_gloss": "I+shall+declare"
 },
 {
-"surface": "śiva+mayam",
+"surface": "śivamayam",
 "quick_gloss": "Śiva+made"
 },
 {
@@ -592,8 +660,12 @@
 "quick_gloss": "armor"
 },
 {
-"surface": "sarva+rakṣā+karam",
-"quick_gloss": "all+protection+maker"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "rakṣā+karam",
+"quick_gloss": "protection+making"
 },
 {
 "surface": "nṛṇām",
@@ -610,23 +682,23 @@
 "tokens": [
 {
 "surface": "jita+indriyaḥ",
-"quick_gloss": "with+conquered+senses"
+"quick_gloss": "conquered+senses"
 },
 {
 "surface": "jita+prāṇaḥ",
-"quick_gloss": "with+conquered+breath"
+"quick_gloss": "conquered+breath"
 },
 {
 "surface": "cintayet",
-"quick_gloss": "may+meditate"
+"quick_gloss": "may+contemplate"
 },
 {
 "surface": "śivam",
-"quick_gloss": "on+Śiva"
+"quick_gloss": "Śiva"
 },
 {
 "surface": "avyayam",
-"quick_gloss": "the+immutable"
+"quick_gloss": "un-decaying"
 }
 ]
 },
@@ -639,7 +711,7 @@
 "tokens": [
 {
 "surface": "atīndriyam",
-"quick_gloss": "beyond+the+senses"
+"quick_gloss": "beyond+senses"
 },
 {
 "surface": "sūkṣmam",
@@ -647,7 +719,7 @@
 },
 {
 "surface": "anantam",
-"quick_gloss": "endless"
+"quick_gloss": "infinite"
 },
 {
 "surface": "ādyam",
@@ -658,12 +730,12 @@
 "quick_gloss": "may+meditate"
 },
 {
-"surface": "para+ānanda+mayam",
-"quick_gloss": "on+the+supreme+bliss+abounding"
+"surface": "parānanda+mayam",
+"quick_gloss": "supreme+bliss+full"
 },
 {
-"surface": "mahā+īśam",
-"quick_gloss": "the+great+lord"
+"surface": "maheśam",
+"quick_gloss": "great+lord"
 }
 ]
 },
@@ -675,20 +747,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍ+akṣara+nyāsa+samāhita+ātmā",
-"quick_gloss": "with+the+six+syllable+nyāsa+concentrated+in+self"
+"surface": "ṣaḍakṣara",
+"quick_gloss": "six-syllabled"
+},
+{
+"surface": "nyāsa",
+"quick_gloss": "nyāsa"
+},
+{
+"surface": "samāhita+ātmā",
+"quick_gloss": "well+composed+mind"
 },
 {
 "surface": "śaivena",
-"quick_gloss": "by+the+Śaiva"
+"quick_gloss": "by+Śaiva"
+},
+{
+"surface": "kuryāt",
+"quick_gloss": "should+make"
 },
 {
 "surface": "kavacena",
 "quick_gloss": "armor"
-},
-{
-"surface": "kuryāt",
-"quick_gloss": "may+make"
 },
 {
 "surface": "rakṣām",

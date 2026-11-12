@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 214,
- "question": "What additional categories of yoginīs are included in this arrangement?",
+ "question": "What classes of beings are claimed together in this enumeration?",
  "premises": [
-  "All innate yoginīs are included.",
-  "All family-born yoginīs are included.",
-  "All door-guardian yoginīs are included."
+  "All innate beings are named.",
+  "All family-born beings are named.",
+  "All door-guardians are named."
  ],
- "inference": "The arrangement also comprises innate, family-born, and door-guardian yoginīs.",
- "uncertainties": [],
- "plain_english": "It includes all the innate ones, all those born in families, and all the door-guardians."
+ "inference": "All innate, all family-born, and all door-guarding beings are enumerated together.",
+ "uncertainties": [
+  "The relation between these classes is not specified in this verse."
+ ],
+ "plain_english": "All innate, all family-born, and all door-guardians."
 }

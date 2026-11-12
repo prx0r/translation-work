@@ -1,13 +1,14 @@
 {
  "song": "kjn-p09",
  "verse": 218,
- "question": "How does this knowledge compare to any knowledge that may arise in the future?",
+ "question": "What exclusivity is claimed for the knowledge associated with this teaching?",
  "premises": [
-  "This knowledge is taken as the standard.",
-  "No equal knowledge will arise again.",
-  "The negation is emphatically repeated."
+  "Knowledge equal to this will not be again.",
+  "Knowledge equal to this will not be at all in the future."
  ],
- "inference": "No knowledge equal to this will ever arise in the future.",
- "uncertainties": [],
- "plain_english": "There will never again be knowledge equal to this."
+ "inference": "No knowledge equal to this exists now or will exist again.",
+ "uncertainties": [
+  "The scope of comparison is not limited further by this verse."
+ ],
+ "plain_english": "There is no knowledge equal to this, nor will there be again."
 }

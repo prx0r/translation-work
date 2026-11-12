@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 215,
- "question": "Why has the supreme secret among all secrets been revealed now?",
+ "question": "What is claimed to have been revealed, and under what condition?",
  "premises": [
-  "The teaching is the supreme secret among secrets.",
-  "It has been revealed.",
-  "The revelation is due to the listener's devotion."
+  "Among secrets, there is a supreme secret.",
+  "That supreme secret has been revealed to you.",
+  "It has been revealed by devotion."
  ],
- "inference": "The listener's devotion has caused the supreme secret to be revealed.",
- "uncertainties": [],
- "plain_english": "Because of your devotion, the supreme secret of all secrets has been revealed."
+ "inference": "The supreme secret among secrets has been revealed to you through devotion.",
+ "uncertainties": [
+  "The identity of that supreme secret is not specified in this verse."
+ ],
+ "plain_english": "The supreme secret among secrets has been revealed to you by devotion."
 }

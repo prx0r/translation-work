@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[to-season](ṛtave) [homage](namaḥ) [to-year](sa/vvatsarāya) [homage](namaḥ) [to-month](māsāya) [homage](namaḥ)
+[to-season](ṛtavenamaḥ) [obeisance](|) [to-year](sa/vvatsarāyanamaḥ) [obeisance](||) [to-month](māsāyanamaḥ)
 
 ## mukta-m0-p130-v3227
-[to-fortnight](pakṣāya) [homage](namaḥ) [to-number+conclusion](saṅkhyā+samāpanāya) [homage](namaḥ) [to-instant](kalāyai) [homage](namaḥ)
+[to-fortnight](pakṣāyanamaḥ) [obeisance](||) [to-number+completion](saṅkhyāsamāpanāyanamaḥ) [obeisance](||) [to-instant](kalāyainamaḥ) [obeisance](||)
 
 ## mukta-m0-p130-v3228
-[to-moment](kāṣṭhāyai) [homage](namaḥ) [to-divisions](lavebhyo) [homage](namaḥ) [to-measures](mātrābhyo) [homage](namaḥ)
+[to-kāṣṭhā](kāṣṭhāyainamaḥ) [obeisance](||) [to-lavas](lavebhyonamaḥ) [obeisance](||) [to-measures](mātrābhyonamaḥ) [obeisance](||)
 
 ## mukta-m0-p130-v3229
-[to-muhūrta+day+night](muhūrtta+ahaḥ+kṣapābhyo) [homage](namaḥ) [to-instants](kṣaṇebhyo) [homage](namaḥ)
+[to-muhūrta+day+night](muhūrttāhaḥkṣapābhyonamaḥ) [obeisance](||) [to-moments](kṣaṇebhyonamaḥ)
 
 ## mukta-m0-p130-v3230
-[to-first+emergence](ādya+nirgamāya) [homage](namaḥ) [to-existent](sate) [homage](namaḥ) [to-non-existent](asate) [homage](namaḥ)
+[obeisance](||) [to-primal+emergence](ādyanirgamāyanamaḥ) [obeisance](||) [to-being](satenamaḥ) [obeisance](||) [to-non-being](asatenamaḥ)
 
 ## mukta-m0-p130-v3231
-[to-manifest](vyaktāya) [homage](namaḥ) [to-unmanifest](avyaktāya) [homage](namaḥ) [to-father](pitre) [homage](namaḥ)
+[to-manifest](vyaktāyanamaḥ) [obeisance](||) [to-unmanifest](avyaktāyanamaḥ) [obeisance](||) [to-father](pitrenamaḥ)
 
 ## mukta-m0-p130-v3232
-[to-mother](mātre) [homage](namaḥ) [to-grandfather](pitāmahāya) [homage](namaḥ) [to-heaven+door](svarga+dvārāya) [homage](namaḥ)
+[to-mother](mātrenamaḥ) [obeisance](||) [to-grandfather](pitāmahāyanamaḥ) [obeisance](||) [to-heaven+door](svargadvārāyanamaḥ)
 
 ## mukta-m0-p130-v3233
-[to-offspring+door](prajā+dvārāya) [homage](namaḥ) [to-liberation+door](mokṣa+dvārāya) [homage](namaḥ)
+[to-progeny+door](prajādvārāyanamaḥ) [obeisance](||) [to-liberation+door](mokṣadvārāyanamaḥ)
 
 ## mukta-m0-p130-v3234
-[to-brahma+world](brahma+lokāya) [homage](namaḥ) [to-supreme+goal](parā+gataye) [homage](namaḥ)
+[obeisance](||) [to-brahma+world](brahmalokāyanamaḥ) [obeisance](||) [to-supreme+goal](parāgatayenamaḥ)
 
 ## mukta-m0-p130-v3235
-[to-god+demon+creator](deva+asura+vinirmātre) [homage](namaḥ) [to-god+demon+supreme-refuge](deva+asura+parāyaṇāya) [homage](namaḥ)
+[to-god+asura+creator](devāsuravinirmātrenamaḥ) [obeisance](||) [to-god+asura+supreme-refuge](devāsuraparāyaṇāyanamaḥ)
 
 ## mukta-m0-p130-v3236
-[to-god+demon+teacher](deva+asura+gurave) [homage](namaḥ) [to-god](devāya) [homage](namaḥ)
+[to-god+asura+teacher](devāsuraguravenamaḥ) [obeisance](||) [to-god](devāyanamaḥ)
 
 ## mukta-m0-p130-v3237
-[to-god+demon+saluted](deva+asura+namaskṛtāya) [homage](namaḥ) [to-god+demon+great-being](deva+asura+mahāmātrāya) [homage](namaḥ)
+[to-god+asura+saluted](devāsuranamaskṛtāyanamaḥ) [obeisance](||) [to-god+asura+great-counsellor](devāsuramahāmātrāyanamaḥ)
 
 ## mukta-m0-p130-v3238
-[to-god+demon+host+chief](deva+asura+gaṇa+agraṇye) [homage](namaḥ) [to-god+above-gods](deva+atidevāya) [homage](namaḥ)
+[obeisance](||) [to-god+asura+host+chief](devāsuragaṇāgraṇyenamaḥ) [obeisance](||) [to-god+of-gods](devātidevāyanamaḥ)
 
 ## mukta-m0-p130-v3239
-[to-divine+sage](deva+ṛṣṣaye) [homage](namaḥ) [to-god+demon+boon+giver](deva+asura+vara+pradāya) [homage](namaḥ)
+[to-divine+sage](devarṣṣayenamaḥ) [obeisance](||) [to-god+asura+boon+giver](devāsuravarapradāyanamaḥ)
 
 ## mukta-m0-p130-v3240
-[to-god+demon+lord](deva+asura+īśvarāya) [homage](namaḥ) [to-all](viśvāya) [homage](namaḥ)
+[to-god+asura+lord](devāsureśvarāyanamaḥ) [obeisance](||) [to-all](viśvāyanamaḥ)
 
 ## mukta-m0-p130-v3241
-[to-god+demon+great-lord](deva+asura+mahā+īśvarāya) [homage](namaḥ) [to-all+god+consisting](sarva+deva+mayāya) [homage](namaḥ)
+[to-god+asura+great-lord](devāsuramaheśvarāyanamaḥ) [obeisance](||) [to-all+god+consisting](sarvadevamayāyanamaḥ)
 
 ## mukta-m0-p130-v3242
-[to-inconceivable](acintyāya) [homage](namaḥ) [to-god+self](deva+ātmane) [homage](namaḥ) [to-self+born](ātma+sambhavāya) [homage](namaḥ)
+[to-inconceivable](acintyāyanamaḥ) [obeisance](||) [to-god+self](devātmanenamaḥ) [obeisance](||) [to-self+born](ātmasambhavāyanamaḥ) [obeisance](||)
 
 ## mukta-m0-p130-v3243
-[to-passionless](virajāya) [homage](namaḥ) [to-water-born](nīra+jāya) [homage](namaḥ) [to-immortal](amarāya) [homage](namaḥ)
+[obeisance](||) [to-passionless](virajāyanamaḥ) [obeisance](||) [to-water-born](nīrajāyanamaḥ) [obeisance](||) [to-immortal](amarāyanamaḥ)
 
 ## mukta-m0-p130-v3244
-[to-praiseworthy](īḍyāya) [homage](namaḥ) [to-elephant+lord](hastī+īśvarāya) [homage](namaḥ) [to-tiger](vyāghrāya) [homage](namaḥ)
+[to-praiseworthy](īḍyāyanamaḥ) [obeisance](||) [to-elephant+lord](hastīśvarāyanamaḥ) [obeisance](||) [to-tiger](vyāghrāyanamaḥ)
 
 ## mukta-m0-p130-v3245
-[to-god+lion](deva+siṃhāya) [homage](namaḥ) [to-man+bull](nara+ṛṣabhāya) [homage](namaḥ) [to-wise](vibudhāya) [homage](namaḥ)
+[to-god+lion](devasiṃhāyanamaḥ) [obeisance](||) [to-man+bull](nararṣabhāyanamaḥ) [obeisance](||) [to-wise](vibudhāyanamaḥ) [obeisance](||)
 
 ## mukta-m0-p130-v3246
-[to-foremost+excellent](agra+varāya) [homage](namaḥ) [to-subtle](sūkṣmāya) [homage](namaḥ) [to-all+god](sarva+devāya) [homage](namaḥ)
+[to-foremost+excellent](agravarāyanamaḥ) [obeisance](||) [to-subtle](sūkṣmāyanamaḥ) [obeisance](||) [to-all+god](sarvadevāyanamaḥ) [obeisance](||)
 
 ## mukta-m0-p130-v3247
-[to-austerity+consisting](tapaḥ+mayāya) [homage](namaḥ) [to-well+joined](su+yuktāya) [homage](namaḥ) [to-beautiful](śobhanāya) [homage](namaḥ)
+[to-austerity+consisting](tapomayāyanamaḥ) [obeisance](||) [to-well+yoked](suyuktāyanamaḥ) [obeisance](||) [to-beautiful](śobhanāyanamaḥ) [obeisance](||)
 
 ## mukta-m0-p130-v3248
-[to-thunderbolt-bearer](vajriṇe) [homage](namaḥ) [to-spears+source](prāsānām+prabhavāya) [homage](namaḥ)
+[to-thunderbolt-wielder](vajriṇenamaḥ) [obeisance](||) [to-spears+source](prāsānāmprabhavāyanamaḥ)
 
 ## mukta-m0-p130-v3249
-[to-imperishable](avyayāya) [homage](namaḥ) [to-hidden](guhāya) [homage](namaḥ) [to-lovely](kāntāya) [homage](namaḥ)
+[to-imperishable](avyayāyanamaḥ) [obeisance](||) [to-hidden](guhāyanamaḥ) [obeisance](||) [to-lovely](kāntāyanamaḥ)
 
 ## mukta-m0-p130-v3250
-[to-horned](śṛṅgiṇe) [homage](namaḥ) [to-peak+fond](śṛṅga+priyāya) [homage](namaḥ) [to-brown](babhrave) [homage](namaḥ)
+[obeisance](||) [to-horned](śṛṅgiṇenamaḥ) [obeisance](||) [to-horn+fond](śṛṅgapriyāyanamaḥ) [obeisance](||) [to-brown](babhravenamaḥ)

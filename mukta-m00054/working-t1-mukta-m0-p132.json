@@ -12,11 +12,11 @@
 },
 {
 "surface": "jihvā",
-"quick_gloss": "with-tongue"
+"quick_gloss": "tongue"
 },
 {
-"surface": "emi",
-"quick_gloss": "I-go"
+"surface": "imi",
+"quick_gloss": "indeed"
 },
 {
 "surface": "tvām",
@@ -32,7 +32,7 @@
 },
 {
 "surface": "nanu",
-"quick_gloss": "surely"
+"quick_gloss": "not"
 },
 {
 "surface": "dhṛṣṭā",
@@ -57,19 +57,19 @@
 },
 {
 "surface": "svayam",
-"quick_gloss": "by-themselves"
+"quick_gloss": "self"
 },
 {
 "surface": "tasthe",
-"quick_gloss": "stood"
+"quick_gloss": "established"
 },
 {
 "surface": "tābhyām",
-"quick_gloss": "by-those-two"
+"quick_gloss": "to-those-two"
 },
 {
 "surface": "tava",
-"quick_gloss": "of-you"
+"quick_gloss": "your"
 },
 {
 "surface": "kim",
@@ -77,7 +77,7 @@
 },
 {
 "surface": "anuvṛttiḥ",
-"quick_gloss": "imitation"
+"quick_gloss": "following"
 },
 {
 "surface": "na",
@@ -98,10 +98,10 @@
 "tokens": [
 {
 "surface": "sthirāyāḥ",
-"quick_gloss": "of-the-firm"
+"quick_gloss": "of-steady"
 },
 {
-"surface": "tvat",
+"surface": "tvad",
 "quick_gloss": "your"
 },
 {
@@ -155,7 +155,7 @@
 },
 {
 "surface": "khalaḥ",
-"quick_gloss": "the-wicked"
+"quick_gloss": "wicked-one"
 }
 ]
 },
@@ -167,12 +167,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kasya",
+"surface": "kasyāpi",
 "quick_gloss": "of-anyone"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
 },
 {
 "surface": "unnatyai",
@@ -184,7 +180,7 @@
 },
 {
 "surface": "śirasaḥ",
-"quick_gloss": "of-the-head"
+"quick_gloss": "of-head"
 },
 {
 "surface": "tvayi",
@@ -192,7 +188,7 @@
 },
 {
 "surface": "avanatiḥ",
-"quick_gloss": "bowing-down"
+"quick_gloss": "bowing"
 }
 ]
 },
@@ -216,16 +212,20 @@
 "quick_gloss": "praiseworthy"
 },
 {
-"surface": "bhaṅga+vyasaninaḥ",
-"quick_gloss": "of-the-one-intent-on-destroying"
+"surface": "bhuvana",
+"quick_gloss": "of-world"
 },
 {
 "surface": "bhaya",
-"quick_gloss": "the-fear"
+"quick_gloss": "fear"
 },
 {
-"surface": "bhuvana",
-"quick_gloss": "of-the-worlds"
+"surface": "bhaṅga",
+"quick_gloss": "destruction"
+},
+{
+"surface": "vyasaninaḥ",
+"quick_gloss": "of-one-addicted-to"
 }
 ]
 },
@@ -258,12 +258,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rakṣāyai",
-"quick_gloss": "for-the-protection"
+"surface": "jagat",
+"quick_gloss": "for-world"
 },
 {
-"surface": "jagat",
-"quick_gloss": "of-the-world"
+"surface": "rakṣāyai",
+"quick_gloss": "protection"
 },
 {
 "surface": "tvam",
@@ -321,11 +321,11 @@
 "tokens": [
 {
 "surface": "paratantrāḥ",
-"quick_gloss": "dependent-on-another"
+"quick_gloss": "dependent-on-others"
 },
 {
 "surface": "prabhu",
-"quick_gloss": "of-the-lord"
+"quick_gloss": "of-lord"
 },
 {
 "surface": "dhiyaḥ",
@@ -346,7 +346,7 @@
 },
 {
 "surface": "rakṣāyai",
-"quick_gloss": "for-the-protection"
+"quick_gloss": "for-protection"
 },
 {
 "surface": "tripurahara",
@@ -374,24 +374,28 @@
 "quick_gloss": "in-scripture"
 },
 {
-"surface": "baddhvā",
-"quick_gloss": "having-bound"
-},
-{
 "surface": "śraddhām",
 "quick_gloss": "faith"
 },
 {
-"surface": "dṛḍha+parikaraḥ",
-"quick_gloss": "with-firm-resolve"
+"surface": "baddhvā",
+"quick_gloss": "having-bound"
+},
+{
+"surface": "dṛḍha",
+"quick_gloss": "firm"
+},
+{
+"surface": "parikaraḥ",
+"quick_gloss": "retinue"
 },
 {
 "surface": "karmasu",
-"quick_gloss": "in-actions"
+"quick_gloss": "in-rites"
 },
 {
 "surface": "janaḥ",
-"quick_gloss": "a-person"
+"quick_gloss": "person"
 }
 ]
 },
@@ -403,20 +407,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karttuḥ",
-"quick_gloss": "of-the-doer"
-},
-{
 "surface": "dhruvam",
-"quick_gloss": "of-the-fixed"
+"quick_gloss": "of-the-resolute"
 },
 {
-"surface": "śraddhā+vidhuram",
-"quick_gloss": "devoid-of-faith"
+"surface": "karttuḥ",
+"quick_gloss": "doer"
+},
+{
+"surface": "śraddhā",
+"quick_gloss": "faith"
+},
+{
+"surface": "vidhuram",
+"quick_gloss": "devoid-of"
 },
 {
 "surface": "abhicārāya",
-"quick_gloss": "for-malevolent-rites"
+"quick_gloss": "for-sorcery"
 },
 {
 "surface": "hi",
@@ -437,7 +445,7 @@
 "tokens": [
 {
 "surface": "mṛgavyādha",
-"quick_gloss": "of-the-hunter"
+"quick_gloss": "of-hunter"
 },
 {
 "surface": "rabhasaḥ",
@@ -492,7 +500,7 @@
 "tokens": [
 {
 "surface": "dadhati",
-"quick_gloss": "they-hold"
+"quick_gloss": "hold"
 },
 {
 "surface": "antaḥ",
@@ -500,15 +508,15 @@
 },
 {
 "surface": "tattvam",
-"quick_gloss": "principle"
+"quick_gloss": "reality"
 },
 {
-"surface": "kim+api",
+"surface": "kimapi",
 "quick_gloss": "something"
 },
 {
 "surface": "yaminaḥ",
-"quick_gloss": "the-self-restrained"
+"quick_gloss": "self-restrained-ones"
 },
 {
 "surface": "tat",
@@ -574,7 +582,7 @@
 "tokens": [
 {
 "surface": "priyāya",
-"quick_gloss": "to-the-dear"
+"quick_gloss": "to-beloved"
 },
 {
 "surface": "asmai",
@@ -631,7 +639,7 @@
 },
 {
 "surface": "sarvāya",
-"quick_gloss": "to-the-all"
+"quick_gloss": "to-all"
 },
 {
 "surface": "ca",
@@ -652,7 +660,7 @@
 "tokens": [
 {
 "surface": "pramahasi",
-"quick_gloss": "in-the-greatly-shining"
+"quick_gloss": "in-great"
 },
 {
 "surface": "pade",
@@ -685,7 +693,7 @@
 "tokens": [
 {
 "surface": "caraṇayoḥ",
-"quick_gloss": "at-the-two-feet"
+"quick_gloss": "at-feet"
 },
 {
 "surface": "te",
@@ -693,11 +701,15 @@
 },
 {
 "surface": "vākya",
-"quick_gloss": "of-speech"
+"quick_gloss": "speech"
 },
 {
-"surface": "puṣpa+upahāram",
-"quick_gloss": "flower-offering"
+"surface": "puṣpa",
+"quick_gloss": "flower"
+},
+{
+"surface": "upahāram",
+"quick_gloss": "offering"
 }
 ]
 },
@@ -722,7 +734,7 @@
 },
 {
 "surface": "pāram",
-"quick_gloss": "to-the-far-shore"
+"quick_gloss": "shore"
 },
 {
 "surface": "na",
@@ -751,7 +763,7 @@
 },
 {
 "surface": "laghu",
-"quick_gloss": "and-light"
+"quick_gloss": "light"
 },
 {
 "surface": "vṛttaiḥ",
@@ -788,7 +800,7 @@
 },
 {
 "surface": "āyuḥ",
-"quick_gloss": "and-life"
+"quick_gloss": "life"
 },
 {
 "surface": "putravān",
@@ -796,7 +808,7 @@
 },
 {
 "surface": "kīrtimān",
-"quick_gloss": "and-fame"
+"quick_gloss": "possessing-fame"
 },
 {
 "surface": "ca",
