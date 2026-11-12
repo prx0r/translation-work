@@ -1,15 +1,12 @@
 {
  "song": "kjn-p24",
  "verse": 600,
- "question": "Which textual division formally concludes the preceding meditative instructions?",
+ "question": "What textual division marks the conclusion of this section?",
  "premises": [
-  "The term paṭalaḥ denotes a chapter or section.",
-  "It functions as a structural marker in the text.",
-  "The preceding verses present meditative instructions."
+  "paṭalaḥ denotes a chapter or section",
+  "the term appears as a concluding marker"
  ],
- "inference": "This term marks the formal conclusion of the current chapter.",
- "uncertainties": [
-  "The specific chapter number or title is not indicated in this token."
- ],
+ "inference": "this point marks the end of a chapter",
+ "uncertainties": [],
  "plain_english": "End of the chapter."
 }

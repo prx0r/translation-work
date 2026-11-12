@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-jewel-pillar-like(ratnastaṃbhasamākārā) shining(sphurat) body(tanuḥ)
+[jewel](ratna) [pillar](staṃbha) [having-form](samākārā) [plate](dhāla) [waving](dhalya) [shining](sphurat) [body](tanuḥ)
 
 ## mukta-m0-p67-v1652
-from-first-syllable(ādivarṇaṃ) beginning(ārabhya) until-mantra-syllables(yāvanmaṃtrākṣarāvadhi)
+[beginning-with-first-letter](ādivarṇaṃ) [having-commenced](samārabhya) [up-to](yāvat) [mantra](maṃtra) [syllable](akṣara) [limit](avadhi)
 
 ## mukta-m0-p67-v1653
-on-pedestal(pādukopari) knowledge(vidyā) may-be(syād) below(adhastāt) unity(ekatātayoḥ)
+[above-footstool](pādukā+upari) [knowledge](vidyā) [should-be](syāt) [below](adhastāt) [of-the-two-unities](eka+tātayoḥ)
 
 ## mukta-m0-p67-v1654
-therefore(tasmāt) holy(śrī) teacher's-foot(deśikāṃghreḥ) and(ca) mantra-form(maṃtramūrteḥ) no-difference(nobhidā)
+[therefore](tasmāt) [of-the-venerable](śrī) [teacher's-feet](deśika+aṃghreḥ) [and](ca) [of-mantra-form](maṃtra+mūrtteḥ) [by-the-name](ca+nobhidā)
 
 ## mukta-m0-p67-v1655
-up-to-twelfth-end(ādvādaśāntam) elevated(unnamre) heart-place(hṛtsthāne) lotus(kamalaṃ) remember(smaret)
+[up-to-twelve-end](ā+dvādaśa+antam) [in-the-raised](unnamre) [in-the-heart-place](hṛt+sthāne) [lotus](kamalaṃ) [one-should-visualize](smaret)
 
 ## mukta-m0-p67-v1656
-in-its-middle(tanmadhye) meditation(dhyāna) desired-object(iṣṭārtha) attainment(padaprāpti) causing(karaṃ) worship(bhajet)
+[in-its-middle](tat+madhye) [meditation](dhyānam) [desired-object](iṣṭa+artha) [goal-attainment-causing](pada+prāpti+karaṃ) [one-should-practice](bhajet)
 
 ## mukta-m0-p67-v1657
-one-face(ekavaktra) two-arms(bhujadvaṃdvaṃ) sometimes(kvacid) four-arms(bāhucatuṣṭayam)
+[one-face](eka+vaktra) [two-arms](ibhuja+dvaṃdvaṃ) [sometimes](kvacit) [four-arms](bāhu+catuṣṭayam)
 
 ## mukta-m0-p67-v1658
-sometimes(kvacid) when(yadā) head-count(śirṣasaṃkhyā) then(tad) double(vaiguṇyena) arms(bāhavaḥ)
+[sometimes](kvacit) [when](yadā) [head-number](śirṣa+saṃkhyā) [by-that-multiplicity](tat+vaiguṇyena) [arms](bāhavaḥ)
 
 ## mukta-m0-p67-v1659
-viṣṇu-joined(viṣṇūpaśliṣṭa) among-gods(deveṣu) meditation-differences(dhyānabhedāt) eyes(vilocanāḥ)
+[in-Viṣṇu-embraced](viṣṇū+upaśliṣṭa) [goddesses](deveṣu) [by-difference-of-meditation](dhyāna+bhedāt) [eyes](vilocanāḥ)
 
 ## mukta-m0-p67-v1660
-meditation-differences(dhyānabhedāt) breasts(stanā) bent(namra) middle(madhyā) moon-faced(candranibhānanāḥ)
+[by-difference-of-meditation](dhyāna+bhedāt) [with-breasts-bent-middle](stanā+namra+madhyāḥ) [moon-like-faces](candra+nibha+ānanāḥ)
 
 ## mukta-m0-p67-v1661
-very-pleased(atiprasannāḥ) to-be-made(karttavyāḥ) wine-red-eyes(madāruṇavilocanāḥ)
+[very-gracious](ati+prasannāḥ) [should-be-made](karttavyāḥ) [with-intoxicated-reddened-eyes](mada+aruṇa+vilocanāḥ)
 
 ## mukta-m0-p67-v1662
-meditation-arrangement(dhyāna-klapti) this(iyaṃ) declared(proktā) contemplation-essence(bhāvanasāra) form(vigrahā)
+[of-meditation](dhyāna) [this-arrangement](kḷpteḥ+iyaṃ) [declared](proktā) [contemplation-essence-embodied](bhāvanā+sāra+vigrahā)
 
 ## mukta-m0-p67-v1663
-that(tat) before(pūrvam) eva(eva) spoken(gaditaṃ) by-me(mayā) sweet-speaking(madhurabhāṣiṇi)
+[that](tat) [before](pūrvam) [indeed](eva) [spoken](gaditaṃ) [by-me](mayā) [O-sweet-speaking-one](madhura+bhāṣiṇi)
 
 ## mukta-m0-p67-v1664
-thus(evaṃ) guru-etc(gurvādibhiḥ) five(paṃca) objects(padārthaiḥ) contemplation-filled(bhāvanānvitaiḥ)
+[thus](evaṃ) [by-guru-and-others](guru+ādibhiḥ) [five](paṃca) [with-categories](padārthaiḥ) [endowed-with-contemplation](bhāvanā+anvitaiḥ)
 
 ## mukta-m0-p67-v1665
-slow(maṃdaṃ) middle(madhyaṃ) and(ca) intense(tīvraṃ) ca(ca) there(tatra) threefold(tridhā) devotion-rain(bhaktavarṣaṇī)
+[mild](maṃdaṃ) [middle](madhyaṃ) [and](ca) [intense](tīvraṃ) [and](ca) [there](tatra) [threefold](tridhā) [devotion-showering](bhakti+varṣaṇī)
 
 ## mukta-m0-p67-v1666
-previous-birth-sins(pūrvajanmakṛtān) doṣān(doṣān) present-birth-situated(ihajanmasthitān) gone(gatān)
+[previous-birth](pūrva+janma) [done](kṛtān) [faults](doṣān) [in-this-birth](iha+janma) [existing](sthitān) [incurred](gatān)
 
 ## mukta-m0-p67-v1667
-speech-perfection(vācāṃsiddhiṃ) word-perfection(vacaḥsiddhiṃ) long-life(cirāyuṣyaṃ) great-glory(mahadyaśaḥ)
+[of-speech](vācāṃ) [accomplishment](siddhiṃ) [word](vacaḥ) [accomplishment](siddhiṃ) [long-life](cira+āyuṣyaṃ) [great-fame](mahat+yaśaḥ)
 
 ## mukta-m0-p67-v1668
-self-śiva-experience(svayaṃśivatvānubhavaṃ) by-will(svecchayā) contemplation-formation(bhāvakalpanam)
+[own](svayaṃ) [Śiva-hood](śivatva) [experience](anubhavaṃ) [by-own-will](sva+icchayā) [state-conception](bhāva+kalpanam)
 
 ## mukta-m0-p67-v1669
-wish-fulfillment(saṃkalpasiddhidāṃ) all-worlds-blessing(sarvalokānugrahakāritām)
+[will-accomplishment-giving](saṃkalpa+siddhi+dāṃ) [all-worlds](sarva+lokān) [grace-causing](anugraha+kāritām)
 
 ## mukta-m0-p67-v1670
-slight-grace(īṣatprasāde) even-low( nīcānām) indra-status(aindrapadadāyitām)
+[in-slight-favor](īṣat+prasāde) [even-of-lowly-ones](nīcānām+api) [Indra's-position](aindra+pada) [bestowing](dāyitām)
 
 ## mukta-m0-p67-v1671
-intense(tīvraṃ) tu(tu) deity-form(devatārūpaṃ) gives(vitarati) mountain-daughter(adrikanyake)
+[intense](tīvraṃ) [but](tu) [deity-form](devatā+rūpaṃ) [bestows](vitarati) [O-mountain-daughter](adri+kanyake)
 
 ## mukta-m0-p67-v1672
-intense(tīvre) tu(tu) deity-form(devatārūpe) thirty-years(triṃśadvarṣāṇi) worship(upāsate)
+[in-intense](tīvre) [but](tu) [deity-form](devatā+rūpe) [thirty-years](triṃśat+varṣāṇi) [they-worship](upāsate)
 
 ## mukta-m0-p67-v1673
-accomplished(siddhāṃti) that(taṃ) O-great-goddess(maheśāni) that(tad) this(etat) make-one's-own(svātmasāt) do(kuru)
+[they-attain-perfection](siddhāṃti) [that](taṃ) [O-great-goddess](maheśāni) [that-this](tat+etat) [make-your-own](sva+ātmasāt) [do](kuru)
 
 ## mukta-m0-p67-v1674
-secret-mystery(rahasya) knowledge(parijñānāt) vidyās(vidyāḥ) all(sarvāḥ) and(ca) accomplishment-giving(siddhidāḥ)
+[by-which](yat) [secret](rahasya) [complete-knowledge](pari+jñānāt) [knowledges](vidyāḥ) [all](sarvāḥ) [and](ca) [accomplishment-giving](siddhi+dāḥ)
 
 ## mukta-m0-p67-v1675
-who(ye) hold(dhārayanti) in-mind(manasā) they(te) devotees(bhaktā) fortunate(bhāgyaśālinaḥ)
+[who](ye) [hold](dhārayanti) [in-mind](manasā) [they](te) [devotees](bhaktāḥ) [fortune-possessing](bhāgya+śālinaḥ)

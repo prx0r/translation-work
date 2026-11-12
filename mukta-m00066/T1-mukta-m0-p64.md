@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-[what-fruit](kiṃphalā) [expectation](pekṣayā) [devotee-protection](bhaktatrāṇaṃ) [do](kurvaṃti) [deities](devatāḥ)
+[what](kiṃ) [fruit](phalā) [with-expectation](pekṣayā) [devotee](bhakta) [protection](trāṇaṃ) [do](kurvaṃti) [deities](devatāḥ)
 
 ## mukta-m0-p64-v1577
-[that](taccāpi) [fruit](phalam) [own-yoga-accomplishment](ātmīyayogasidhyaiva) [arises](jāyatām)
+[and-that](tat) [also](ca) [api](api) [fruit](phalam) [one's-own](ātmīya) [yoga](yoga) [accomplishment](sidhyā) [indeed](eva) [let-arise](jāyatām)
 
 ## mukta-m0-p64-v1578
-[their](tāsāmapi) [again](punaḥ) [worship-worthy](pūjyam) [certainly](avasyaṃ) [spoken](vācyameva) [to-you](te)
+[of-them](tāsām) [also](api) [again](punaḥ) [to-be-worshipped](pūjyam) [necessarily](avasyaṃ) [to-be-spoken](vācyam) [indeed](eva) [by-you](te)
 
 ## mukta-m0-p64-v1579
-[other-deity](devāntaram) [expectation](apekṣā) [may-be](syāt) [that-deity](taddevaṃ) [other-deity](devatāntaram)
+[another](deva) [deity](antaram) [dependence](apekṣā) [would-be](syāt) [then](tat) [thus](evaṃ) [another](devatā) [deity](antaram)
 
 ## mukta-m0-p64-v1580
 [finally](antato) [if](yadi) [rest](viśrāntiḥ) [somewhere](kutrāpi) [is-attained](pratipadyate)
 
 ## mukta-m0-p64-v1581
-[then-from-beginning](tadādāveva) [well-desired](sanneṣṭaṃ) [vain-effort-stubbornness](vṛthādhājadurāgrahaḥ)
+[then](tat) [at-the-very-beginning](ādau) [indeed](eva) [let-it-be-accepted](sanneṣṭaṃ) [vain](vṛthā) [wandering](ādhā) [obstinate-insistence](durāgrahaḥ)
 
 ## mukta-m0-p64-v1582
-[accomplished](siddhimatyapi) [creatures](jaṃtūnāṃ) [for-protection](trāṇārthaṃ) [present](sannidhāyinī)
+[in-accomplishment](siddhimati) [also](api) [of-beings](jaṃtūnāṃ) [for-protection](trāṇārthaṃ) [present](sannidhāyinī)
 
 ## mukta-m0-p64-v1583
-[if](yadi) [by-nature](svabhāvāt) [compassion](karuṇā) [of-deities](devatānāṃ) [great-powered](mahaujasām)
+[if](yadi) [by-nature](svabhāvāt) [compassion](karuṇā) [of-deities](devatānāṃ) [of-great-power](mahaujasām)
 
 ## mukta-m0-p64-v1584
-[not](na) [in-world](kopiloke) [poor-wretched-human](dāridradīnātmāmānavo) [would-be](bhavet)
+[not](na) [anywhere](ka) [api](api) [in-the-world](loke) [poverty](dāridra) [wretched](dīna) [self](ātmā) [human](mānavo) [would-be](bhavet)
 
 ## mukta-m0-p64-v1585
-[compassion](karuṇā) [and](ce) [deity-itself](devameva) [must-be](bhavitavyaṃ) [o-great-lady](maheśvari)
+[compassion](karuṇā) [and](cet) [thus](evam) [indeed](eva) [must-be](bhavitavyaṃ) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p64-v1586
-[granting](yacchaṃtīnāṃ) [deities](devatānāṃ) [merchants-like](vaṇijāmiva) [no-compassion](kākṛpā)
+[of-those-giving](yacchaṃtīnāṃ) [of-deities](devatānāṃ) [like-merchants](vaṇijām) [iva](iva) [where](kā) [compassion](kṛpā)
 
 ## mukta-m0-p64-v1587
-[embodiment](dehavatvam) [accepting](urīkṛtya) [done](kṛtā) [mad-speech-like](unmattajalpavat)
+[embodiment](deha) [state](vatvam) [having-assumed](urīkṛtya) [made](kṛtā) [like-madman's-talk](unmatta) [prattle](jalpavat)
 
 ## mukta-m0-p64-v1588
-[in-this](asminnānaṃdataṃtre) [but](tu) [that-after](tatpaścāt) [examined](pravivicyate)
+[in-this](asmin) [Ānanda-tantra](nānaṃdataṃtre) [but](tu) [that](tat) [afterwards](paścāt) [is-examined](pravivicyate)
 
 ## mukta-m0-p64-v1589
-[at-oblation-time](havyagrahaṇakāle) [but](tu) [going](gatvā) [come-again](yānti) [again](punastviti)
+[at-the-time](kāle) [of-receiving](grahaṇa) [oblation](havya) [but](tu) [having-gone](gatvā) [they-come](āyānti) [again](punas) [thus](iti)
 
 ## mukta-m0-p64-v1590
-[as-here](yathātra) [earth-circle](bhūmivalaye) [village-town-city-etc](grāmapallipurādikam)
+[just-as](yathā) [here](atra) [on-the-earth](bhūmi) [circle](valaye) [village](grāma) [hamlet](palli) [town](pura) [and-so-forth](ādikam)
 
 ## mukta-m0-p64-v1591
-[when-in-bharata-varsha](yadaivabhāratevarṣe) [when](yadā) [region](deśaṃ) [various](pṛthagvidhāḥ)
+[when](yadā) [indeed](eva) [in-Bhārata](bhārate) [region](varṣe) [when](yadā) [countries](deśaṃ) [of-various-kinds](pṛthagvidhāḥ)
 
 ## mukta-m0-p64-v1592
-[not](na) [in-them](tāsu) [deity-nature](devatābhāvaḥ) [any](kopyastyanyonyamudgataḥ)
+[not](na) [in-them](tāsu) [absence-of-deity](devatā) [bhāvaḥ](bhāvaḥ) [any](ka) [api](api) [exists](asti) [mutually](anyonyam) [arisen](udgataḥ)
 
 ## mukta-m0-p64-v1593
-[dwell](vasanti) [left-eye](vāmanayane) [not](nāntānyonyamupāsate)
+[they-dwell](vasanti) [O-lovely-eyed-one](vāmanayane) [not](na) [elsewhere](antā) [each-other](anyonyam) [they-worship](upāsate)
 
 ## mukta-m0-p64-v1594
-[everywhere](sarvatrajātayaḥ) [castes](santi) [various-dress-rites-shining](nānāveṣakriyojvalāḥ)
+[everywhere](sarvatra) [classes](jātayaḥ) [exist](santi) [with-various](nānā) [dress](veṣa) [and-customs](kriya) [shining](ujvalāḥ)
 
 ## mukta-m0-p64-v1595
-[that](yacāpi) [unblinking](nirnnimeṣatvaṃ) [and](yacca) [not-flesh](nāra) [bodily](śarīratā)
+[and-what](yat) [also](ca) [api](api) [unwinkingness](nirnnimeṣatvaṃ) [and-what](yat) [and](ca) [not-human](nāra) [bodily-state](śarīratā)
 
 ## mukta-m0-p64-v1596
-[that](tat) [all](sarvaṃ) [that-that](tat tadurviṃ) [and](ca) [distinctive-medicine-use](viśiṣṭauṣadhisevayā)
+[that](tat) [all](sarvaṃ) [that](tat) [that](tat) [earth](urviṃ) [and](ca) [by-service](sevayā) [of-special](viśiṣṭa) [herbs](auṣadhi)
 
 ## mukta-m0-p64-v1597
-[before](pūrvamevamayā) [spoken](proktā) [when-thus](yadaivamaṇimaṃtrayoḥ)
+[previously](pūrvam) [thus](evam) [by-me](mayā) [declared](proktā) [when](yadā) [indeed](eva) [of-gem](maṇi) [and-mantra](maṃtrayoḥ)
 
 ## mukta-m0-p64-v1598
-[we-think](manvāmahe) [great-goddess](mahādevi) [deity-hood](devatātvaṃ) [not](na) [anything](kiṃcana)
+[we-consider](manvāmahe) [O-great-goddess](mahādevi) [deity-hood](devatātvaṃ) [not](na) [anything](kiṃcana)
 
 ## mukta-m0-p64-v1599
-[that-thing](tadbhūjavastu) [by-power](śaktyaiva) [not](na) [by-birth](tu jāti) [by-nature](svabhāvataḥ)
+[therefore](tat) [that](bhūja) [thing](vastu) [by-power](śaktyā) [indeed](eva) [not](na) [but](tu) [by-birth](jāti) [by-nature](svabhāvataḥ)
 
 ## mukta-m0-p64-v1600
-[directly](pratyakṣato) [not](na) [seen](dṛśyante) [long-life-etc](dīrghāyuṣṭvādi) [accomplishments](siddhayaḥ)
+[perceptibly](pratyakṣato) [not](na) [are-seen](dṛśyante) [long-life](dīrghāyuṣṭva) [and-so-forth](ādi) [accomplishments](siddhayaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-svarūpataḥ (from-own-form) śaktipātāt (from-power-descent) svabhāvena (by-nature) samāgatān (assembled)
+[by-own-nature](svarūpataḥ) [from-descent+of-power](śaktipātāt) [by-own-nature](svabhāvena) [come-together](samāgatān)
 
 ## mukta-m0-p68-v1677
-kiṃcid (some) ratnamayaṃ (jewel-made) vastu (thing) pratibiṃba (reflection) na (not) laṃpaṭam (lustful)
+[somewhat](kiṃcid) [jewel-made](ratnamayaṃ) [thing](vastu) [reflection](pratibiṃba) [not](na) [attached-to](laṃpaṭam)
 
 ## mukta-m0-p68-v1678
-yadratnādyajaḍaṃ (whatever-jewel-etc-non-inert) tatrāpyevaṃ (there-too-thus) tāmarasānane (lotus-faced)
+[which](yat) [jewel+etc.](ratnādi) [non-inert](ajaḍaṃ) [there](tatra) [also](api) [thus](evaṃ) [o-lotus-faced-one](tāmarasānane)
 
 ## mukta-m0-p68-v1679
-athāṃbu (then-water) vastuni (in-thing) preśyaḥ (messenger) śaktipātaparākramaḥ (power-descent-valor)
+[now](atha) [water](aṃbu) [in-object](vastuni) [to-be-seen](preśyaḥ) [descent+of-power+force](śaktipāta+parākramaḥ)
 
 ## mukta-m0-p68-v1680
-śaktipātaṃ (power-descent) vinā (without) tatra (there) mādhuryasya (of-sweetness) kva (where) saṃbhavaḥ (origin)
+[descent+of-power](śaktipātaṃ) [without](vinā) [there](tatra) [of-sweetness](mādhuryasya) [where](kva) [possibility](saṃbhavaḥ)
 
 ## mukta-m0-p68-v1681
-khadyotatārakāmukhyā (firefly-star-chief) kiṃcit (some) tejastamoharaḥ (light-darkness-removing)
+[firefly+star+chief](khadyota+tārakā+mukhyā) [somewhat](kiṃcit) [light](tejas) [darkness-removing](tamoharaḥ)
 
 ## mukta-m0-p68-v1682
-mārttāṃḍabhairavākāraṃ (sun-bhairava-form) pratāpaiḥ (by-heat) atiduḥ (very-difficult) saham (bearable)
+[sun+Bhairava+form](mārttāṇḍa+bhairava+ākāraṃ) [by-splendors](pratāpaiḥ) [very-difficult+to-bear](ati+duḥ+saham)
 
 ## mukta-m0-p68-v1683
-hetunā (by-cause) śaktipātena (by-power-descent) vinā (without) na (not) eva (indeed) hi (indeed) dṛśyate (seen)
+[by-cause](hetunā) [descent+of-power](śaktipātena) [without](vinā) [not](na) [indeed](eva) [is-seen](hi) (dṛśyate)
 
 ## mukta-m0-p68-v1684
-ekonīlaḥ (one-blue) prāṇaharaḥ (life-taking) prāṇadaḥ (life-giving) kaścana (some) aparaḥ (other)
+[one](ekaḥ) [blue](nīlaḥ) [life-destroying](prāṇa+haraḥ) [life-giving](prāṇa+daḥ) [some](kaścana) [another](aparaḥ)
 
 ## mukta-m0-p68-v1685
-ekomarutkṣaṇāt (from-one-wind-moment) eva (indeed) jagadghaṭanalaṃpaṭaḥ (world-formation-lustful)
+[one](ekaḥ) [wind](marut) [in-a-moment](kṣaṇāt) [indeed](eva) [world+arranging+eager](jagat+ghaṭana+laṃpaṭaḥ)
 
 ## mukta-m0-p68-v1686
-tadvat (thus) śakteḥ (of-power) śaktipātaḥ (power-descent) na (not) sarvatra (everywhere) kvacit (sometimes) kvacit (sometimes)
+[likewise](tadvat) [of-power](śakteḥ) [descent+of-power](śaktipātaḥ) [not](na) [everywhere](sarvatra) [somewhere](kvacit) [somewhere](kvacit)
 
 ## mukta-m0-p68-v1687
-yathā (as) bhumyādikāṃśānāṃ (of-earth-etc-parts) saṃsāra (samsara) gaṇanā (count) adhikaḥ (exceeding)
+[as](yathā) [earth+etc.](bhumi+ādikāṃśānāṃ) [worldly-disease+counting+exceeding](saṃsāra+rogaṇanā+adhikaḥ)
 
 ## mukta-m0-p68-v1688
-samudra (ocean) bheri (drum) iyaṃ (this) poṣṭaghuṭikā (nourishing-bead) jhallarī (cymbal) mukhaiḥ (by-mouths)
+[ocean+kettle-drum](samudra+bheriyaṃ) [small-drum](poṣṭaghuṭikā) [cymbal+etc.](jhallarī+mukhaiḥ)
 
 ## mukta-m0-p68-v1689
-varṇātmakāḥ (sound-natured) tu (indeed) ye (which) śabdāḥ (words) nityāḥ (eternal) sarvagatāḥ (all-pervading) ca (and) te (they)
+[letter-consisting](varṇa+ātmakāḥ) [indeed](tu) [which](ye) [sounds](śabdā) [eternal](nityāḥ) [all-pervading](sarvagatāḥ) [and-those](ca) (te)
 
 ## mukta-m0-p68-v1690
-sarvagāḥ (all-going) api (even) dṛśyaṃte (seen) na (not) abhivyakteḥ (of-manifestation) apekṣayā (by-dependence)
+[all-pervading](sarvagā) [although](api) [are-seen](dṛśyaṃte) [not](na) [of-manifestation+expectation](abhivyakteḥ+apekṣayā)
 
 ## mukta-m0-p68-v1691
-nityatvaṃ (eternity) ca (and) maheśāni (great-lady) pratyabhijñā (recognition) pramāṇataḥ (from-proof)
+[eternity](nityatvaṃ) [and](ca) [o-great-goddess](maheśāni) [by-recognition+as-means-of-knowledge](pratyabhijñā+pramāṇataḥ)
 
 ## mukta-m0-p68-v1692
-sa (he) eva (indeed) aṃgaṃ (limb) gakāra (g-sound) trayajña (three-sacrifice) dattena (by-given) ghuṣyate (proclaimed)
+[that](sa) [indeed](eva) [o-dear](aṃgaṃ) [letter-ga](ga+kāraḥ) [this](atra) [by-Yajñadatta](yajñadattena) [is-uttered](ghuṣyate)
 
 ## mukta-m0-p68-v1693
-tasmāt (therefore) sarve (all) api (even) amī (these) śabdāḥ (words) nityāḥ (eternal) sarvagatāḥ (all-pervading) api (even)
+[therefore](tasmāt) [all](sarve) [also](api) [these](amī) [sounds](śabdāḥ) [eternal](nityāḥ) [all-pervading](sarvagatāḥ) [also](api)
 
 ## mukta-m0-p68-v1694
-utpannasya (of-born) dṛśaḥ (of-sight) rāśiḥ (heap) yasya (whose) brahmāṇḍam (world-egg) api (even) aṇu (atom)
+[of-arisen](utpannasya) [of-vision](dṛśoḥ) [ray](āśiḥ) [of-whom](yasya) [universe](brahmāṇḍam) [even](api) [atom](aṇu)
 
 ## mukta-m0-p68-v1695
-uttarottaram (more-and-more) atyaṃta (extremely) vitatā (spread-out) vīravaṃdite (hero-saluted)
+[successively](uttarottaram) [exceedingly](atyaṃta) [expanded](vitatā) [o-praised-by-heroes](vīravaṃdite)
 
 ## mukta-m0-p68-v1696
-śabdabrahmaṇi (in-sound-brahman) niṣṇātaḥ (immersed) paraṃ (supreme) brahma (brahman) adhigacchati (attains)
+[in-sound+Brahman](śabda+brahmaṇi) [skilled](niṣṇātaḥ) [supreme](paraṃ) [Brahman](brahma) [attains](adhigacchati)
 
 ## mukta-m0-p68-v1697
-tājikriyā (tajika-action) guṇa (quality) dravya (substance) bhedāt (by-difference) bhinnā (divided) sahasradhā (thousandfold)
+[by-action+quality+substance](tāḥ+kriyā+guṇa+dravya) [by-difference](bhedāt) [divided](bhinnāḥ) [in-thousands-of-ways](sahasradhā)
 
 ## mukta-m0-p68-v1698
-vṛkṣa (tree) ulatāḥ (creepers) tṛṇaṃ (grass) ca (and) iti (thus) śabdādeḥ (of-sound-etc) jāti (genus) vikriyāḥ (modifications)
+[tree](vṛkṣaḥ) [creeper](latāḥ) [grass](tṛṇaṃ) [and](ca) [thus](iti) [of-sound+etc.](śabdādeḥ) [class+modifications](jāti+vikriyāḥ)
 
 ## mukta-m0-p68-v1699
-dhūmraḥ (smoky) pītaḥ (yellow) śyāmalaḥ (dark) ca (and) api (even) ete (these) śabdaguṇa (sound-quality) utthitāḥ (risen)
+[smoky](dhūmraḥ) [yellow](pītaḥ) [dark](śyāmalaḥ) [and](ca) [also](api) [these](ete) [sound+quality+arisen](śabda+guṇa+utthitāḥ)
 
 ## mukta-m0-p68-v1700
-ghaṭaḥ (pot) paṭaḥ (cloth) ca (and) kuḍyaṃ (wall) ca (and) iti (thus) etāḥ (these) dravyagatāḥ (substance-gone) giraḥ (words)
+[pot](ghaṭaḥ) [cloth](paṭaḥ) [and](ca) [wall](kuḍyaṃ) [and](ca) [thus](iti) [these](etāḥ) [substance-gone+words](dravya+gatāḥ+giraḥ)

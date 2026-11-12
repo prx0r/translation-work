@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[then](tarhi) [divine](daivāni) [all](sarvāṇi) [universal-forms](viśvarūpāṇi) [what](kiṃ) [say](vada)
+[then](tarhi) [+indeed](eva) [+these](āni) [all](sarvāṇi) [universal+forms](viśvarūpāṇi) [what](kiṃ) [speak](vada)
 
 ## mukta-m0-p66-v1627
-[rabbit-horn](śaśaśṛṅgasya) [which](yat) [some-form](kiñcidrūpaṃ) [where](kva) [is-obtained](pratipadyate)
+[hare+horn's](śaśaśṛṅgasya) [which](yat) [some+form](kiñcidrūpaṃ) [where](kva) [is-established](pratipadyate)
 
 ## mukta-m0-p66-v1628
-[as](yathā) [earth-water](bhūmyaṃbu) [by-elements](tejobhiḥ) [by-sound](śabdena) [by-wind](marutā) [also](api) [and](ca)
+[as](yathā) [+without-earth+water](bhūmyaṃbu) [with-fires](tejobhiḥ) [with-sound](śabdena) [with-wind](marutā) [+also](api) [and](ca)
 
 ## mukta-m0-p66-v1629
-[somewhere](kvacit) [by-word-meanings](padārthaiḥ) [earth-etc](urvyādyaiḥ) [by-five](paṃcabhiḥ) [pure-souled](nirmalātmabhiḥ)
+[somewhere](kvacit) [with-objects](padārthair) [+earth-etc](urvyādyaiḥ) [with-five](paṃcabhir) [+pure+natured](nnirmalātmabhiḥ)
 
 ## mukta-m0-p66-v1630
-[by-firm-contemplation](pratyaṃtabhāvanādārḍhyād) [deity](devatā) [form](rūpam) [such](īdṛśam)
+[inner+contemplation+firmness-from](pratyaṃtabhāvanādārḍhyād) [deity](devatā) [form](rūpam) [+such](īdṛśam)
 
 ## mukta-m0-p66-v1631
-[sacrifices](yāgāḥ) [and](ca) [twofold](dvividhā) [declared](proktā) [by-sacrificer-two-divisions](yajvanopidvibhedinaḥ)
+[sacrifices](yāgāś) [+and](ca) [two+kinds](dvividhā) [declared](proktā) [sacrificers](yajvano) [+also](pi) [+two+divided](dvibhedinaḥ)
 
 ## mukta-m0-p66-v1632
-[pauṇḍarīka](pauṇḍarīkaṃ) [twelve-day](dvādaśāhaṃ) [vājapeya-etc](vājapeyādayaḥ) [dear](priye)
+[pauṇḍarīka](pauṇḍarīkaṃ) [twelve-day-rite](dvādaśāhaṃ) [vājapeya-etc](vājapeyādayaḥ) [o-beloved](priye)
 
 ## mukta-m0-p66-v1633
-[śrī-yāga-dark](śrīyāgaśyāmalā) [sacrifice](yāgaḥ) [śambhu-sacrifice](śaṃbhuyāgaḥ) [thus](tathā) [other](paraḥ)
+[śrī+sacrifice](śrīyāgaḥ) [śyāmalā+sacrifice](śyāmalā) [+sacrifice](yāgaḥ) [śaṃbhu+sacrifice](śaṃbhuyāgas) [+and](tathā) [other](paraḥ)
 
 ## mukta-m0-p66-v1634
-[heramba-sacrifice](heraṃbayāgaḥ) [gopāla-sacrifice](gopālayāgaḥ) [sun-sacrifice](sūryamakhaḥ) [thus](tathā)
+[heraṃba+sacrifice](heraṃbayāgo) [gopāla+sacrifice](gopālayāgaḥ) [sun+sacrifice](sūryamakhas) [+and](tathā)
 
 ## mukta-m0-p66-v1635
-[enjoyment-predominant](bhuktipradhānāḥ) [fair-hipped](suśroṇi) [hidden](gopitāḥ) [declared](parikīrttitāḥ)
+[enjoyment+predominant](bhuktipradhānāḥ) [o-fair-hipped-one](suśroṇi) [concealed](gopitāḥ) [declared](parikīrttitāḥ)
 
 ## mukta-m0-p66-v1636
-[manifest](prakaṭā) [śrī-sacrifice-etc](śrīmakhādīnāṃ) [sacrificer-disease-hidden](yaṣṭārogopitāḥ) [remembered](smṛtāḥ)
+[manifest](prakaṭā) [śrī+sacrifice-etc](śrī) [+sacrifice-etc](makhādīnāṃ) [sacrificer](yaṣṭā) [+disease](ro) [+concealed](gopitāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p66-v1637
-[authority](prāmāṇyam) [in-both](ubhayatrāpi) [difference](viśeṣaḥ) [there](tatra) [is-said](kathyate)
+[authority](prāmāṇyam) [in-both](ubhayatrāpi) [distinction](viśeṣas) [there](tatra) [is-stated](kathyate)
 
 ## mukta-m0-p66-v1638
-[of-royal-nature](rājasaprakṛtīnāṃ) [but](tu) [manifest-sacrifice](prakaṭeṣṭaḥ) [is-preferred](prathiyyasi)
+[royal+natured-ones](rājasaprakṛtīnāṃ) [indeed](tu) [in-manifest-rites](prakaṭeṣṭaḥ) [you-are-renowned](prathiyyasi)
 
 ## mukta-m0-p66-v1639
-[inward-facing](antarmukhānāṃ) [heroes](vīrāṇāṃ) [moderate-exaltation-desiring](matyaṃtaunnatyakāṃkṣiṇām)
+[inward-facing](antarmukhānāṃ) [of-heroes](vīrāṇāṃ) [supreme+elevation+desiring](matyaṃtaunnatyakāṃkṣiṇām)
 
 ## mukta-m0-p66-v1640
-[hidden-sacrifice-indeed](gupteṣṭireva) [certainly](niyataṃ) [fruit-prosperity](phalasaṃpatti) [desiring](kāṃkṣiṇī)
+[in-concealed-rite](gupteṣṭir) [+indeed](eva) [certainly](niyataṃ) [fruit+attainment+desiring](phalasaṃpatti) [+desiring](kāṃkṣiṇī)
 
 ## mukta-m0-p66-v1641
-[that](tad) [deity](devatā) [own-form](svarūpaṃ) [and](ca) [five-things-unity](paṃcavastvekatātmatā)
+[therefore](tad) [deity+nature](devatā) [+nature](svarūpaṃ) [and](ca) [five+substances+one+essence](paṃcavastvekatātmatā)
 
 ## mukta-m0-p66-v1642
-[teacher](gurur) [knowledge](vidyā) [meditation](dhyāna) [arrangement](kḷptir) [mind](manaḥ) [and](ca) [wind](pavanaḥ) [thus](tathā)
+[guru](gurur) [knowledge](vidyā) [meditation+arrangement](dhyāna) [+arrangement](kḷptir) [mind](manaś) [+and](ca) [breath](pavanas) [+and](tathā)
 
 ## mukta-m0-p66-v1643
-[fourth-ending](caturthyaṃtaḥ) [word](śabdaḥ) [indeed](eva) [deity](devatā) [thus](iti) [clearly](sphuṭaṃ) [said](jaguḥ)
+[dative+ending](caturthyaṃtaḥ) [word](śabda) [indeed](eva) [deity](devateti) [clearly](sphuṭaṃ) [they-declared](jaguḥ)
 
 ## mukta-m0-p66-v1644
-[teacher-etc-thing](gurvādivastu) [combination](saṃbhedaḥ) [indeed](eva) [deity-form](devatavigraham)
+[guru-etc+substance+union](gurvādivastu) [+union](saṃbheda) [indeed](eva) [deity+body](devatavigraham)
 
 ## mukta-m0-p66-v1645
-[they](te) [indeed](hi) [accomplished](siddhaṃ) [grant](prayacchaṃti) [they](te) [but](tu) [without-contemplation](nirbhāvanā) [with-joy](mudā)
+[they](te) [indeed](hi) [accomplished](siddhaṃ) [bestow](prayacchaṃti) [they](te) [indeed](tu) [without-contemplation](nirbhāvanā) [with-joy](mudā)
 
 ## mukta-m0-p66-v1646
-[twelve-ending](dvādaśāṃta) [lotus-ending](sarojāṃtaḥ) [pericarp-three-aśa-circle](karṇikātryaśamaṇḍale)
+[twelve+end+lotus+within](dvādaśāṃta) [+lotus+within](sarojāṃtaḥ) [pericarp+triangle+circle-in](karṇikātryaśamaṇḍale)
 
 ## mukta-m0-p66-v1647
-[in-middle](tanmadhye) [with-lakṣa-aṛṇa-haṃ](sahalakṣārṇahaṃ) [good-syllable-seat](sadv yakṣarapīṭhikām)
+[that+middle-in](tanmadhye) [with-thousand+syllables](sahalakṣārṇa) [haṃ+sat+syllable+pedestal](haṃ) [+sat+syllable+pedestal](sadvyakṣarapīṭhikām)
 
 ## mukta-m0-p66-v1648
-[that-day-born-feet-like](tadaharjātapādābhau) [new-sprout-tender](navapallavakomalau)
+[that+day+born+lotus-like](tadaharjātapādābhau) [new+sprout+tender](navapallavakomalau)
 
 ## mukta-m0-p66-v1649
-[red-white-made-form](raktaśuklamayākārau) [red-white-own-splendor](raktaśuklanijatviṣau)
+[red+white+consisting-of+forms](raktaśuklamayākārau) [red+white+own+splendors](raktaśuklanijatviṣau)
 
 ## mukta-m0-p66-v1650
-[teacher-contemplation](gurubhāvanam) [this](etat) [but](tu) [mantra-contemplation](mantrabhāvanam) [is-called](ucyate)
+[guru+contemplation](gurubhāvanam) [this](etat) [indeed](tu) [mantra+contemplation](mantrabhāvanam) [is-called](ucyate)

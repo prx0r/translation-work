@@ -7,7 +7,7 @@
     {
      "surface": "yoginīmelakaṃ",
      "gloss": "yogini-gathering",
-     "grounds": "gathering of yoginis",
+     "grounds": "compound denoting assembly of yoginis",
      "morph": "m.acc.sg"
     },
     {
@@ -19,31 +19,31 @@
     {
      "surface": "asmin",
      "gloss": "in-this",
-     "grounds": "refers to the present context",
+     "grounds": "demonstrative referring to present context",
      "morph": "m.loc.sg"
     },
     {
      "surface": "bhuktimuktipradaḥ",
      "gloss": "enjoyment-liberation-giver",
-     "grounds": "bestower of enjoyment and liberation",
+     "grounds": "compound describing bestower of enjoyment and liberation",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "at all times",
+     "grounds": "adverb of constant time",
      "morph": "(indecl.)"
     }
    ],
    "question": "What benefit does the yogini gathering always bestow in this context?",
    "premises": [
     "The yogini gathering is present in this context.",
-    "This gathering is described as a giver of enjoyment and liberation.",
-    "Its bestowal of these fruits is constant."
+    "It is characterized as a giver of enjoyment and liberation.",
+    "This bestowal is said to occur always."
    ],
-   "inference": "Therefore, the yogini gathering always grants both enjoyment and liberation.",
+   "inference": "The yogini gathering in this context always grants both enjoyment and liberation.",
    "uncertainties": [],
-   "plain_english": "Indeed, in this context the gathering of yoginis always bestows both enjoyment and liberation."
+   "plain_english": "Indeed, in this, the gathering of yoginis always grants both enjoyment and liberation."
   },
   {
    "verse": 577,
@@ -51,37 +51,37 @@
     {
      "surface": "raktena",
      "gloss": "with-blood",
-     "grounds": "instrumental substance",
+     "grounds": "substance used for filling",
      "morph": "n.ins.sg"
     },
     {
      "surface": "pūrayed",
-     "gloss": "should-fill",
-     "grounds": "injunction to fill",
-     "morph": "3.sg.act.optative + √pṝ"
+     "gloss": "one-should-fill",
+     "grounds": "injunctive instruction for ritual action",
+     "morph": "3.sg.optative-active √pṝ"
     },
     {
      "surface": "raktaṃ",
      "gloss": "blood",
-     "grounds": "substance to be filled",
+     "grounds": "substance to be filled or measured",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śukrasya",
      "gloss": "of-semen",
-     "grounds": "substance used as measure",
+     "grounds": "substance used as measure of equality",
      "morph": "n.gen.sg"
     },
     {
      "surface": "eva",
      "gloss": "just",
-     "grounds": "emphatic particle",
+     "grounds": "restrictive particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "samaṃ",
      "gloss": "equal",
-     "grounds": "equal in measure",
+     "grounds": "indicates equal quantity",
      "morph": "n.acc.sg"
     },
     {
@@ -91,15 +91,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "How should blood be measured when filling it in this ritual, beloved?",
+   "question": "How should blood be measured when filling in this ritual instruction?",
    "premises": [
-    "Blood is to be filled using blood as the means.",
-    "The measure is specified in relation to semen.",
-    "The quantity must be exactly equal to that of semen."
+    "Blood is the substance to be filled.",
+    "Semen provides the measure for comparison.",
+    "The quantity of blood should be made equal to that of semen."
    ],
-   "inference": "Therefore, one should fill blood in a quantity equal to that of semen.",
+   "inference": "One should fill with blood in a quantity equal to that of semen.",
    "uncertainties": [],
-   "plain_english": "Beloved, one should fill blood with blood in a quantity equal to that of semen."
+   "plain_english": "O beloved, one should fill with blood in a quantity equal to that of semen."
   },
   {
    "verse": 578,
@@ -107,45 +107,45 @@
     {
      "surface": "raktaṃ",
      "gloss": "blood",
-     "grounds": "identified as left nectar",
+     "grounds": "substance identified symbolically",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vāmāmṛtaṃ",
      "gloss": "left-nectar",
-     "grounds": "esoteric designation of blood",
+     "grounds": "compound identifying blood as nectar of the left",
      "morph": "n.nom.sg"
     },
     {
      "surface": "śukraṃ",
      "gloss": "semen",
-     "grounds": "identified with wine mixed with brahma",
+     "grounds": "substance identified symbolically",
      "morph": "n.nom.sg"
     },
     {
      "surface": "surayā",
      "gloss": "with-wine",
-     "grounds": "substance mixed in",
+     "grounds": "substance mixed with semen",
      "morph": "f.ins.sg"
     },
     {
      "surface": "brahmamiśritam",
      "gloss": "brahma-mixed",
-     "grounds": "mixed with brahma",
+     "grounds": "compound describing mixture with brahma substance",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What esoteric identities are assigned to blood and semen in this ritual?",
+   "question": "How are blood and semen symbolically identified in this ritual teaching?",
    "premises": [
-    "Blood is equated with the left nectar.",
-    "Semen is identified with a substance mixed with wine.",
-    "That mixture is further described as mixed with brahma."
+    "Blood is identified as the nectar of the left.",
+    "Semen is identified in relation to wine.",
+    "Semen is described as mixed with brahma."
    ],
-   "inference": "Therefore, blood is the left nectar and semen is wine mixed with brahma.",
+   "inference": "Blood is the left nectar, and semen is that which is mixed with wine and brahma.",
    "uncertainties": [
-    "The exact referent of 'brahma' in this mixture is unclear."
+    "The exact referent of brahma in brahmamiśritam is context-dependent."
    ],
-   "plain_english": "Blood is the left nectar, and semen is wine mixed with brahma."
+   "plain_english": "Blood is the nectar of the left, and semen is mixed with wine and brahma."
   },
   {
    "verse": 579,
@@ -153,77 +153,77 @@
     {
      "surface": "madirānandacaitanyaṃ",
      "gloss": "wine-bliss-consciousness",
-     "grounds": "consciousness of wine and bliss",
+     "grounds": "compound denoting consciousness of wine-bliss",
      "morph": "n.acc.sg"
     },
     {
      "surface": "bhaktiyukto",
-     "gloss": "devotion-endowed",
-     "grounds": "endowed with devotion",
+     "gloss": "endowed-with-devotion",
+     "grounds": "compound describing devotional state",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mahātmanaḥ",
      "gloss": "of-great-souled-one",
-     "grounds": "pertaining to a great-souled being",
+     "grounds": "refers to an exalted person",
      "morph": "m.gen.sg"
     }
    ],
-   "question": "What state of consciousness should the devoted great-souled practitioner embody?",
+   "question": "What state of consciousness is associated with the devoted great-souled one?",
    "premises": [
-    "A state called wine-bliss-consciousness is indicated.",
-    "The practitioner is endowed with devotion.",
-    "This state is associated with a great-souled being."
+    "A great-souled one is endowed with devotion.",
+    "Wine-bliss-consciousness is named in this context.",
+    "The devotional state is linked to that consciousness."
    ],
-   "inference": "Therefore, the devoted great-souled practitioner should embody the consciousness of wine and bliss.",
+   "inference": "The devoted great-souled one is associated with the consciousness of wine-bliss.",
    "uncertainties": [
-    "The syntactic role of 'mahātmanaḥ' is ambiguous without further context."
+    "The syntactic role of mahātmanaḥ in the larger sentence is unclear from this verse alone."
    ],
-   "plain_english": "The devoted one should embody the wine-bliss-consciousness of the great-souled being."
+   "plain_english": "The consciousness of wine-bliss belongs to the devoted great-souled one."
   },
   {
    "verse": 580,
    "rows": [
     {
      "surface": "śaṅkhasthaṃ",
-     "gloss": "in-conch",
-     "grounds": "placed in a conch",
+     "gloss": "placed-in-conch",
+     "grounds": "compound indicating location in a conch",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kalaśasthaṃ",
-     "gloss": "in-vessel",
-     "grounds": "placed in a vessel",
+     "gloss": "placed-in-vessel",
+     "grounds": "compound indicating location in a vessel",
      "morph": "n.acc.sg"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "alternative option",
+     "grounds": "alternative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "pūjayitvā",
      "gloss": "having-worshipped",
-     "grounds": "after performing worship",
-     "morph": "(gerund) + √pūj"
+     "grounds": "absolutive indicating prior ritual action",
+     "morph": "absolutive √pūj"
     },
     {
      "surface": "yathākramam",
-     "gloss": "in-order",
-     "grounds": "according to proper sequence",
+     "gloss": "in-proper-order",
+     "grounds": "adverbial compound indicating sequence",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Where and in what manner should the substance be worshipped in this rite?",
+   "question": "Where should the substance be placed and worshipped in proper ritual order?",
    "premises": [
-    "The substance may be placed in a conch or in a vessel.",
-    "Worship must be performed upon it.",
-    "The worship must follow the proper order."
+    "The substance may be placed in a conch.",
+    "Alternatively it may be placed in a vessel.",
+    "It should be worshipped in proper order."
    ],
-   "inference": "Therefore, one should worship it in a conch or vessel according to the proper sequence.",
+   "inference": "After placing it in a conch or vessel, one should worship it in proper order.",
    "uncertainties": [],
-   "plain_english": "Having worshipped it, placed in a conch or in a vessel, in the proper order."
+   "plain_english": "Having worshipped it in proper order, whether placed in a conch or in a vessel."
   },
   {
    "verse": 581,
@@ -231,45 +231,45 @@
     {
      "surface": "jayādyāḥ",
      "gloss": "jaya-and-others",
-     "grounds": "herbs beginning with jaya",
+     "grounds": "compound naming a group beginning with jaya",
      "morph": "f.nom.pl"
     },
     {
      "surface": "auṣadhīḥ",
      "gloss": "herbs",
-     "grounds": "medicinal or ritual herbs",
-     "morph": "f.nom.pl"
+     "grounds": "ritual or medicinal plants",
+     "morph": "f.acc.pl"
     },
     {
      "surface": "sarvā",
      "gloss": "all",
-     "grounds": "all of them",
+     "grounds": "quantifier indicating totality",
      "morph": "f.nom.pl"
     },
     {
      "surface": "mohanādyāḥ",
-     "gloss": "deluding-and-others",
-     "grounds": "herbs beginning with deluding",
+     "gloss": "mohana-and-others",
+     "grounds": "compound naming another group beginning with mohana",
      "morph": "f.nom.pl"
     },
     {
      "surface": "kṛtāñjalī",
      "gloss": "with-folded-hands",
-     "grounds": "gesture of reverence",
-     "morph": "f.nom.sg"
+     "grounds": "compound indicating reverential gesture",
+     "morph": "f.nom.pl"
     }
    ],
-   "question": "Which herbs are invoked with folded hands during this ritual procedure?",
+   "question": "Which groups of herbs are invoked with folded hands in this ritual context?",
    "premises": [
-    "Herbs beginning with jaya are included.",
-    "Herbs beginning with mohana are included.",
-    "All these herbs are addressed with folded hands."
+    "Herbs beginning with jaya are named.",
+    "Herbs beginning with mohana are named.",
+    "All are described with folded hands."
    ],
-   "inference": "Therefore, all herbs such as jaya and mohana are invoked with folded hands.",
+   "inference": "All the herbs, such as jaya and others and mohana and others, are present with folded hands.",
    "uncertainties": [
-    "The exact identity of the herbs named jaya and mohana is uncertain."
+    "The exact grammatical agreement of kṛtāñjalī with the preceding terms is ambiguous."
    ],
-   "plain_english": "All the herbs, beginning with jaya and with mohana, are invoked with folded hands."
+   "plain_english": "All the herbs, beginning with jaya and with mohana, stand with folded hands."
   },
   {
    "verse": 582,
@@ -277,43 +277,43 @@
     {
      "surface": "kṣāra",
      "gloss": "alkali",
-     "grounds": "alkaline substance",
-     "morph": "n.nom.sg"
+     "grounds": "listed substance",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "kṣīra",
      "gloss": "milk",
-     "grounds": "milk substance",
+     "grounds": "listed substance",
      "morph": "n.nom.sg"
     },
     {
      "surface": "dadhi",
      "gloss": "curd",
-     "grounds": "curd substance",
+     "grounds": "listed substance",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sarpiḥ",
      "gloss": "ghee",
-     "grounds": "clarified butter",
+     "grounds": "listed substance",
      "morph": "n.nom.sg"
     },
     {
      "surface": "madya",
      "gloss": "wine",
-     "grounds": "intoxicating drink",
+     "grounds": "listed substance",
      "morph": "n.nom.sg"
     },
     {
      "surface": "uda",
      "gloss": "water",
-     "grounds": "water substance",
+     "grounds": "listed substance",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ikṣu",
      "gloss": "sugarcane",
-     "grounds": "sugarcane juice or substance",
+     "grounds": "listed substance",
      "morph": "m.nom.sg"
     },
     {
@@ -325,19 +325,19 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     }
    ],
    "question": "What substances are enumerated for use in this ritual sequence?",
    "premises": [
     "Alkali, milk, curd, and ghee are listed.",
-    "Wine, water, and sugarcane are also listed.",
-    "These substances are presented together as a set."
+    "Wine, water, and sugarcane are listed.",
+    "The list is presented as a connected set."
    ],
-   "inference": "Therefore, the ritual employs alkali, milk, curd, ghee, wine, water, and sugarcane.",
+   "inference": "The enumerated substances are alkali, milk, curd, ghee, wine, water, and sugarcane.",
    "uncertainties": [],
-   "plain_english": "Alkali, milk, curd, ghee, wine, water, and sugarcane are included."
+   "plain_english": "Alkali, milk, curd, ghee, wine, water, and sugarcane."
   },
   {
    "verse": 583,
@@ -345,58 +345,57 @@
     {
      "surface": "vaktre",
      "gloss": "in-mouth",
-     "grounds": "location in the mouth",
+     "grounds": "location for placement",
      "morph": "n.loc.sg"
     },
     {
      "surface": "ekaikaśaḥ",
      "gloss": "one-by-one",
-     "grounds": "individually in sequence",
+     "grounds": "adverb indicating sequential application",
      "morph": "(indecl.)"
     },
     {
      "surface": "madhye",
      "gloss": "in-middle",
-     "grounds": "in the middle",
+     "grounds": "location within a central area",
      "morph": "n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "number eight",
+     "grounds": "numeral quantity",
      "morph": "f.nom.pl"
     },
     {
      "surface": "tāṃ",
      "gloss": "that",
-     "grounds": "demonstrative referring to the goddess or power",
+     "grounds": "demonstrative referring to a feminine entity",
      "morph": "f.acc.sg"
     },
     {
      "surface": "kulaparvatām",
      "gloss": "clan-mountain",
-     "grounds": "epithet meaning mountain of the clan",
+     "grounds": "compound denoting the clan mountain",
      "morph": "f.acc.sg"
     }
    ],
-   "question": "How are the substances applied and what figure is placed in the middle?",
+   "question": "How and where should the eight substances be applied in relation to the clan mountain?",
    "premises": [
-    "Substances are applied in the mouth one by one.",
-    "An action occurs in the middle.",
-    "Eight and the one called clan-mountain are mentioned in that context."
+    "Application occurs in the mouth and in the middle.",
+    "The substances are applied one by one.",
+    "Eight are associated with that clan mountain."
    ],
-   "inference": "Therefore, the substances are applied one by one in the mouth and in the middle with the eight and the clan-mountain.",
+   "inference": "The eight should be applied one by one in the mouth and in the middle in relation to that clan mountain.",
    "uncertainties": [
-    "The syntax connecting 'aṣṭau' and 'tāṃ kulaparvatām' is unclear.",
-    "The referent of 'kulaparvatām' is uncertain."
+    "The precise ritual referent of kulaparvatām is unclear."
    ],
-   "plain_english": "One by one in the mouth and in the middle, with the eight and that clan-mountain."
+   "plain_english": "One by one in the mouth and in the middle, the eight, to that clan mountain."
   },
   {
    "verse": 584,
@@ -404,50 +403,48 @@
     {
      "surface": "uddhṛtya",
      "gloss": "having-drawn-up",
-     "grounds": "after lifting or drawing out",
-     "morph": "(gerund) + ud-√hṛ"
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive ud-√hṛ"
     },
     {
      "surface": "śirasi",
      "gloss": "on-head",
-     "grounds": "location on the head",
+     "grounds": "location for placement",
      "morph": "n.loc.sg"
     },
     {
      "surface": "dadyāt",
-     "gloss": "should-give",
-     "grounds": "injunction to place or give",
-     "morph": "3.sg.act.optative + √dā"
+     "gloss": "one-should-place",
+     "grounds": "injunctive instruction for ritual action",
+     "morph": "3.sg.optative-active √dā"
     },
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "subsequent result",
+     "grounds": "adverb indicating subsequent result",
      "morph": "(indecl.)"
     },
     {
      "surface": "yogī",
      "gloss": "yogin",
-     "grounds": "the practitioner",
+     "grounds": "practitioner who attains the result",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhaviṣyati",
      "gloss": "will-become",
-     "grounds": "future attainment",
-     "morph": "3.sg.act.future + √bhū"
+     "grounds": "future result of the action",
+     "morph": "3.sg.future-active √bhū"
     }
    ],
-   "question": "What action leads to the practitioner becoming a yogin in this rite?",
+   "question": "What result follows when the practitioner draws up and places it on the head?",
    "premises": [
-    "Something must be drawn up.",
-    "It must then be placed on the head.",
-    "This act results in a future transformation of the practitioner."
+    "The substance is drawn up.",
+    "It is placed on the head.",
+    "A future transformation of the yogin is stated."
    ],
-   "inference": "Therefore, by drawing it up and placing it on the head, the practitioner will become a yogin.",
-   "uncertainties": [
-    "The object to be drawn up and placed is not explicitly stated in this verse."
-   ],
+   "inference": "After drawing it up and placing it on the head, one will become a yogin.",
+   "uncertainties": [],
    "plain_english": "Having drawn it up and placed it on the head, one will then become a yogin."
   },
   {
@@ -462,43 +459,43 @@
     {
      "surface": "yuktaṃ",
      "gloss": "mixed",
-     "grounds": "combined or prepared",
+     "grounds": "describes prepared state of substance",
      "morph": "n.acc.sg"
     },
     {
      "surface": "samādāya",
      "gloss": "having-taken",
-     "grounds": "after taking up",
-     "morph": "(gerund) + sam-ā-√dā"
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive sam-ā-√dā"
     },
     {
      "surface": "athavā",
      "gloss": "or-else",
-     "grounds": "alternative option",
+     "grounds": "alternative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "citrajaṃ",
-     "gloss": "picture-born",
-     "grounds": "produced from a picture or drawing",
+     "gloss": "born-from-picture",
+     "grounds": "compound indicating alternative origin",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "auspicious in quality",
+     "grounds": "qualifies the alternative substance",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What alternative substances may be taken for the ritual offering?",
+   "question": "What alternative auspicious substance may be taken instead of mixed blood?",
    "premises": [
     "Mixed blood may be taken.",
-    "An alternative is also permitted.",
-    "That alternative is described as auspicious and born from a picture."
+    "An alternative is introduced.",
+    "The alternative is described as auspicious and born from a picture."
    ],
-   "inference": "Therefore, one may take mixed blood or an auspicious substance born from a picture.",
+   "inference": "One may take mixed blood or, alternatively, an auspicious substance born from a picture.",
    "uncertainties": [
-    "The meaning of 'citrajaṃ' in this ritual context is uncertain."
+    "The meaning of citrajaṃ in this ritual context is uncertain."
    ],
    "plain_english": "Having taken mixed blood, or else an auspicious substance born from a picture."
   },
@@ -507,50 +504,50 @@
    "rows": [
     {
      "surface": "akṣataiḥ",
-     "gloss": "with-unbroken-rice",
-     "grounds": "unbroken grains used in offering",
+     "gloss": "with-unbroken-grains",
+     "grounds": "ritual offering material",
      "morph": "m.ins.pl"
     },
     {
      "surface": "śālijaiḥ",
      "gloss": "with-rice-born",
-     "grounds": "grains born from rice",
+     "grounds": "compound specifying grains from rice",
      "morph": "m.ins.pl"
     },
     {
      "surface": "divyaiḥ",
      "gloss": "with-divine",
-     "grounds": "divine in quality",
+     "grounds": "qualifies the grains as divine",
      "morph": "m.ins.pl"
     },
     {
      "surface": "anyaiḥ",
      "gloss": "with-others",
-     "grounds": "other alternatives",
+     "grounds": "indicates alternative materials",
      "morph": "m.ins.pl"
     },
     {
      "surface": "vāpi",
      "gloss": "or-also",
-     "grounds": "inclusive alternative",
+     "grounds": "inclusive alternative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "suśobhanaiḥ",
-     "gloss": "very-beautiful",
-     "grounds": "very splendid or beautiful",
+     "gloss": "with-very-beautiful",
+     "grounds": "qualifies alternative materials",
      "morph": "m.ins.pl"
     }
    ],
-   "question": "What kinds of grains may be used as offerings in this ritual?",
+   "question": "What kinds of grains or materials may be used in this offering?",
    "premises": [
-    "Unbroken rice grains may be used.",
-    "Divine grains born from rice are included.",
-    "Other very beautiful grains may also be used."
+    "Unbroken grains born from rice are mentioned.",
+    "These grains are described as divine.",
+    "Other very beautiful materials may also be used."
    ],
-   "inference": "Therefore, offerings may be made with unbroken rice grains, divine rice grains, or other very beautiful grains.",
+   "inference": "One may use divine unbroken rice grains or other very beautiful materials.",
    "uncertainties": [],
-   "plain_english": "With unbroken rice grains, with divine grains born from rice, or with other very beautiful ones."
+   "plain_english": "With divine unbroken rice grains, or also with other very beautiful ones."
   },
   {
    "verse": 587,
@@ -558,7 +555,7 @@
     {
      "surface": "divyasugandhapuṣpaiḥ",
      "gloss": "with-divine-fragrant-flowers",
-     "grounds": "divine and fragrant flowers",
+     "grounds": "compound describing offering materials",
      "morph": "n.ins.pl"
     },
     {
@@ -570,7 +567,7 @@
     {
      "surface": "vicitrābharaṇabhūṣitaḥ",
      "gloss": "adorned-with-varied-ornaments",
-     "grounds": "decorated with various ornaments",
+     "grounds": "compound describing adorned state",
      "morph": "m.nom.sg"
     }
    ],
@@ -578,11 +575,11 @@
    "premises": [
     "Divine fragrant flowers are used.",
     "The practitioner is described as adorned.",
-    "The adornment consists of various ornaments."
+    "The adornment consists of varied ornaments."
    ],
-   "inference": "Therefore, the practitioner should be adorned with various ornaments while using divine fragrant flowers.",
+   "inference": "Using divine fragrant flowers, one should be adorned with varied ornaments.",
    "uncertainties": [],
-   "plain_english": "With divine fragrant flowers, adorned with various ornaments."
+   "plain_english": "With divine fragrant flowers, adorned with varied ornaments."
   },
   {
    "verse": 588,
@@ -590,38 +587,36 @@
     {
      "surface": "yoginī",
      "gloss": "of-yoginis",
-     "grounds": "related to yoginis",
-     "morph": "f.gen.sg"
+     "grounds": "group associated with the result",
+     "morph": "f.gen.pl"
     },
     {
      "surface": "siddhavīrāṇāṃ",
      "gloss": "of-siddha-heroes",
-     "grounds": "related to accomplished heroes",
+     "grounds": "group associated with the result",
      "morph": "m.gen.pl"
     },
     {
      "surface": "bhavate",
      "gloss": "becomes",
-     "grounds": "comes to be",
-     "morph": "3.sg.mid.present + √bhū"
+     "grounds": "states resulting status",
+     "morph": "3.sg.present-middle √bhū"
     },
     {
      "surface": "mātṛvallabhaḥ",
-     "gloss": "mother-beloved",
-     "grounds": "beloved of the mother",
+     "gloss": "beloved-of-mother",
+     "grounds": "compound describing favored status",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What status does one attain among yoginis and siddha heroes through this practice?",
+   "question": "What favored status does one attain among yoginis and siddha heroes?",
    "premises": [
-    "The context involves yoginis and siddha heroes.",
-    "A transformation of status is described.",
-    "The resulting status is being beloved of the mother."
+    "Yoginis and siddha heroes are named.",
+    "A resulting status is declared.",
+    "That status is being beloved of the mother."
    ],
-   "inference": "Therefore, one becomes beloved of the mother among the yoginis and siddha heroes.",
-   "uncertainties": [
-    "The identity of 'the mother' is not specified in this verse."
-   ],
+   "inference": "One becomes beloved of the mother among the yoginis and siddha heroes.",
+   "uncertainties": [],
    "plain_english": "One becomes beloved of the Mother among the yoginis and the siddha heroes."
   },
   {
@@ -629,40 +624,38 @@
    "rows": [
     {
      "surface": "ghṛtakhaṇḍasamāyuktaṃ",
-     "gloss": "with-ghee-lump-mixed",
-     "grounds": "mixed with a lump of ghee",
+     "gloss": "joined-with-ghee-lump",
+     "grounds": "compound describing mixture with ghee lump",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śarkarāyāṃ",
      "gloss": "in-sugar",
-     "grounds": "placed in sugar",
+     "grounds": "location or medium for filling",
      "morph": "f.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "particle marking emphasis",
+     "grounds": "particle marking emphasis or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "pūrayet",
-     "gloss": "should-fill",
-     "grounds": "injunction to fill",
-     "morph": "3.sg.act.optative + √pṝ"
+     "gloss": "one-should-fill",
+     "grounds": "injunctive instruction for ritual action",
+     "morph": "3.sg.optative-active √pṝ"
     }
    ],
-   "question": "How should the mixture with ghee and sugar be prepared in this ritual?",
+   "question": "What mixture should be filled into sugar in this ritual step?",
    "premises": [
-    "A substance mixed with a lump of ghee is specified.",
-    "Sugar is the medium or location for filling.",
-    "An injunction to fill is given."
+    "A substance joined with a lump of ghee is specified.",
+    "Sugar is named as the medium.",
+    "The action prescribed is filling."
    ],
-   "inference": "Therefore, one should fill it in sugar mixed with a lump of ghee.",
-   "uncertainties": [
-    "The object to be filled is not explicitly stated in this verse."
-   ],
-   "plain_english": "One should fill it, mixed with a lump of ghee, in sugar."
+   "inference": "One should fill sugar with that which is joined with a lump of ghee.",
+   "uncertainties": [],
+   "plain_english": "One should fill it in sugar together with a lump of ghee."
   },
   {
    "verse": 590,
@@ -670,37 +663,37 @@
     {
      "surface": "catuḥṣaṣṭiṃ",
      "gloss": "sixty-four",
-     "grounds": "the number sixty-four",
+     "grounds": "numeral quantity",
      "morph": "f.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "saudarya",
      "gloss": "beauty",
-     "grounds": "quality of beauty or excellence",
+     "grounds": "quality named in the list",
      "morph": "n.nom.sg"
     },
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "the number eight",
+     "grounds": "numeral quantity",
      "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "guṇāḥ",
      "gloss": "qualities",
-     "grounds": "qualities or attributes",
+     "grounds": "set of attributes",
      "morph": "m.nom.pl"
     },
     {
@@ -716,18 +709,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What numerical sets of qualities or attributes are mentioned in this context?",
+   "question": "What numbers and qualities are enumerated as attained in this context?",
    "premises": [
     "The number sixty-four is mentioned.",
-    "Beauty and eight qualities are mentioned.",
-    "Particles indicate inclusion or alternatives among these items."
+    "Beauty is mentioned.",
+    "Eight qualities are also mentioned."
    ],
-   "inference": "Therefore, sixty-four, beauty, and eight qualities are enumerated in this context.",
+   "inference": "Sixty-four, beauty, and also eight qualities are enumerated.",
    "uncertainties": [
-    "The grammatical relation between 'saudarya' and the numbers is unclear.",
-    "The intended grouping of these items is ambiguous."
+    "The syntactic connection of saudarya to the numerals is unclear."
    ],
-   "plain_english": "Sixty-four, and beauty, and also eight qualities, or."
+   "plain_english": "Sixty-four, and beauty, and also eight qualities."
   },
   {
    "verse": 591,
@@ -735,49 +727,49 @@
     {
      "surface": "vīrapūjāṃ",
      "gloss": "hero-worship",
-     "grounds": "worship of the hero",
+     "grounds": "compound denoting worship of heroes",
      "morph": "f.acc.sg"
     },
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "after that",
+     "grounds": "adverb indicating sequence",
      "morph": "(indecl.)"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-done",
-     "grounds": "after performing",
-     "morph": "(gerund) + √kṛ"
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive √kṛ"
     },
     {
      "surface": "yena",
      "gloss": "by-which",
-     "grounds": "by means of which",
+     "grounds": "relative pronoun indicating means",
      "morph": "n.ins.sg"
     },
     {
      "surface": "tuṣyet",
      "gloss": "may-be-pleased",
-     "grounds": "may become satisfied",
-     "morph": "3.sg.act.optative + √tuṣ"
+     "grounds": "expresses desired result of satisfaction",
+     "morph": "3.sg.optative-active √tuṣ"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "once more",
+     "grounds": "adverb indicating repetition",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What should be done after hero worship to bring about satisfaction again?",
+   "question": "What purpose should the performance of hero worship serve in this ritual?",
    "premises": [
-    "Hero worship is to be performed.",
-    "An action follows that worship.",
-    "That action should result in being pleased again."
+    "Hero worship is performed.",
+    "The performance is done by some means.",
+    "The intended result is that satisfaction arises again."
    ],
-   "inference": "Therefore, after performing hero worship, one should act in a way that brings satisfaction again.",
+   "inference": "After performing hero worship, one should do so in a way that brings pleasure again.",
    "uncertainties": [
-    "The specific means indicated by 'yena' is not explicit in this verse."
+    "The referent of yena is not explicitly specified."
    ],
    "plain_english": "Then, having performed the hero worship, by which one may be pleased again."
   },
@@ -787,43 +779,45 @@
     {
      "surface": "vaktrāt",
      "gloss": "from-mouth",
-     "grounds": "source is the mouth",
+     "grounds": "source location",
      "morph": "n.abl.sg"
     },
     {
      "surface": "vaktraṃ",
      "gloss": "to-mouth",
-     "grounds": "destination is the mouth",
+     "grounds": "destination location",
      "morph": "n.acc.sg"
     },
     {
      "surface": "viśeṣeṇa",
      "gloss": "especially",
-     "grounds": "with special emphasis",
+     "grounds": "adverb indicating special emphasis",
      "morph": "m.ins.sg"
     },
     {
      "surface": "siddhibhāgyaḥ",
-     "gloss": "siddhi-fortune",
-     "grounds": "one who shares in attainment",
+     "gloss": "sharing-in-siddhi",
+     "grounds": "compound describing attainment of siddhi",
      "morph": "m.nom.sg"
     },
     {
      "surface": "samānyathā",
      "gloss": "otherwise",
-     "grounds": "in the contrary case",
+     "grounds": "adverb indicating alternative condition",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What mode of transmission especially confers a share in spiritual attainment?",
+   "question": "What special transmission leads to sharing in siddhi rather than the ordinary outcome?",
    "premises": [
-    "Transmission from mouth to mouth is specified.",
-    "This mode is emphasized as special.",
-    "An alternative outcome is indicated otherwise."
+    "Transmission occurs from mouth to mouth.",
+    "This mode is marked as special.",
+    "An alternative ordinary outcome is contrasted."
    ],
-   "inference": "Therefore, especially mouth-to-mouth transmission makes one a sharer in attainment, otherwise not.",
-   "uncertainties": [],
-   "plain_english": "Especially from mouth to mouth one becomes a sharer in attainment; otherwise not."
+   "inference": "Especially through mouth-to-mouth transmission one shares in siddhi; otherwise it is ordinary.",
+   "uncertainties": [
+    "The exact parsing of samānyathā as a fused form is interpretive."
+   ],
+   "plain_english": "Especially from mouth to mouth, one partakes of siddhi; otherwise it is ordinary."
   },
   {
    "verse": 593,
@@ -831,43 +825,43 @@
     {
      "surface": "anena",
      "gloss": "by-this",
-     "grounds": "by this means or practice",
+     "grounds": "instrumental demonstrative referring to the method",
      "morph": "n.ins.sg"
     },
     {
      "surface": "ārabdhamātreṇa",
-     "gloss": "merely-begun",
-     "grounds": "as soon as it is begun",
+     "gloss": "by-mere-beginning",
+     "grounds": "compound indicating only the commencement of action",
      "morph": "n.ins.sg"
     },
     {
      "surface": "siddhayogyaḥ",
-     "gloss": "fit-for-attainment",
-     "grounds": "worthy or fit for attainment",
+     "gloss": "fit-for-siddhi",
+     "grounds": "compound describing eligibility for siddhi",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "becomes",
-     "grounds": "would become",
-     "morph": "3.sg.act.optative + √bhū"
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.optative-active √bhū"
     },
     {
      "surface": "tataḥ",
      "gloss": "then",
-     "grounds": "as a result",
+     "grounds": "adverb indicating consequence",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What immediate effect follows merely beginning this prescribed practice?",
+   "question": "What level of engagement with this method makes one fit for siddhi?",
    "premises": [
-    "The practice is referred to as this.",
-    "It is considered merely upon being begun.",
-    "Fitness for attainment is the stated result."
+    "This method is the means.",
+    "Only the beginning of it is undertaken.",
+    "Fitness for siddhi is stated as the result."
    ],
-   "inference": "Therefore, by merely beginning this practice, one becomes fit for attainment.",
+   "inference": "By merely beginning this, one then becomes fit for siddhi.",
    "uncertainties": [],
-   "plain_english": "By merely beginning this, one then becomes fit for attainment."
+   "plain_english": "By merely beginning this, one then becomes fit for siddhi."
   },
   {
    "verse": 594,
@@ -875,49 +869,49 @@
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "concluding formula",
+     "grounds": "colophon marker concluding a section",
      "morph": "(indecl.)"
     },
     {
      "surface": "jñānanirṇaye",
      "gloss": "in-knowledge-determination",
-     "grounds": "in the determination of knowledge",
+     "grounds": "compound naming the text or section",
      "morph": "m.loc.sg"
     },
     {
      "surface": "mahākaule",
      "gloss": "in-great-kaula",
-     "grounds": "in the great Kaula text",
+     "grounds": "compound qualifying the text as great kaula",
      "morph": "m.loc.sg"
     },
     {
      "surface": "candradvīpavinirgate",
-     "gloss": "from-candra-dvipa-issued",
-     "grounds": "issued from Candra-dvipa",
+     "gloss": "issued-from-candra-dvipa",
+     "grounds": "compound indicating origin from Candra Dvipa",
      "morph": "m.loc.sg"
     },
     {
      "surface": "aṣṭādaśaḥ",
      "gloss": "eighteenth",
-     "grounds": "ordinal number eighteen",
+     "grounds": "ordinal number of the chapter",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "section or chapter",
+     "grounds": "sectional unit of the text",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter concludes in the text called Determination of Knowledge issued from Candra-dvipa?",
+   "question": "Which chapter concludes at this point in the named Kaula text?",
    "premises": [
-    "The verse is a concluding statement.",
-    "It names the work as Determination of Knowledge in the Great Kaula.",
-    "It specifies the work as issued from Candra-dvipa and gives an ordinal chapter number."
+    "The section is identified as Jñānanirṇaya.",
+    "It is described as Mahākaula issued from Candra Dvipa.",
+    "The chapter number is given as eighteenth."
    ],
-   "inference": "Therefore, this is the eighteenth chapter in the Great Kaula Determination of Knowledge issued from Candra-dvipa.",
+   "inference": "This marks the conclusion of the eighteenth chapter in the Jñānanirṇaya, the great Kaula text issued from Candra Dvipa.",
    "uncertainties": [],
-   "plain_english": "Thus ends the eighteenth chapter in the Great Kaula Determination of Knowledge, issued from Candra-dvipa."
+   "plain_english": "Thus ends the eighteenth chapter in the Jñānanirṇaya, the great Kaula scripture issued from Candra Dvipa."
   },
   {
    "verse": 595,
@@ -925,41 +919,41 @@
     {
      "surface": "devyāḥ",
      "gloss": "of-goddess",
-     "grounds": "belonging to the goddess",
+     "grounds": "possessive relation to the goddess",
      "morph": "f.gen.sg"
     },
     {
      "surface": "cakraṅgatāḥ",
      "gloss": "gone-to-circle",
-     "grounds": "entered into the circle",
+     "grounds": "compound describing those who have entered the circle",
      "morph": "m.nom.pl"
     },
     {
      "surface": "sarve",
      "gloss": "all",
-     "grounds": "all of them",
+     "grounds": "quantifier indicating totality",
      "morph": "m.nom.pl"
     },
     {
      "surface": "divyarūpa",
      "gloss": "divine-form",
-     "grounds": "having divine form",
+     "grounds": "compound describing their form",
      "morph": "m.nom.pl"
     },
     {
      "surface": "sutejasaḥ",
-     "gloss": "with-great-splendor",
-     "grounds": "possessing great radiance",
+     "gloss": "of-great-splendor",
+     "grounds": "compound describing radiant nature",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "What is the nature of all beings who have entered the goddess's circle?",
+   "question": "What is the nature of all those who have entered the goddess's circle?",
    "premises": [
-    "All beings have entered the goddess's circle.",
+    "All have gone to the circle of the goddess.",
     "They are described as having divine form.",
     "They are described as possessing great splendor."
    ],
-   "inference": "Therefore, all who have entered the goddess's circle are of divine form and great splendor.",
+   "inference": "All who have entered the goddess's circle are of divine form and great splendor.",
    "uncertainties": [],
    "plain_english": "All who have entered the goddess's circle are of divine form and great splendor."
   },
@@ -968,132 +962,132 @@
    "rows": [
     {
      "surface": "mokṣakāmī",
-     "gloss": "liberation-desiring",
-     "grounds": "one who desires liberation",
+     "gloss": "desiring-liberation",
+     "grounds": "compound describing aspirant's goal",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "at all times",
+     "grounds": "adverb of constant practice",
      "morph": "(indecl.)"
     },
     {
      "surface": "dhyāyet",
-     "gloss": "should-meditate",
-     "grounds": "injunction to meditate",
-     "morph": "3.sg.act.optative + √dhyai"
+     "gloss": "one-should-meditate",
+     "grounds": "injunctive instruction for meditation",
+     "morph": "3.sg.optative-active √dhyai"
     },
     {
      "surface": "śuklāmbaradharāṃ",
-     "gloss": "white-garment-wearing",
-     "grounds": "wearing white garments",
+     "gloss": "wearing-white-garment",
+     "grounds": "compound describing the meditated form",
      "morph": "f.acc.sg"
     },
     {
      "surface": "śubhām",
      "gloss": "auspicious",
-     "grounds": "auspicious in nature",
+     "grounds": "qualifies the meditated form",
      "morph": "f.acc.sg"
     }
    ],
-   "question": "How should a seeker of liberation meditate on the goddess in this form?",
+   "question": "How should one who desires liberation meditate on the auspicious form?",
    "premises": [
     "The practitioner desires liberation.",
     "Meditation is prescribed as a constant practice.",
-    "The goddess is to be visualized as auspicious and wearing white garments."
+    "The form to be meditated on wears white garments and is auspicious."
    ],
-   "inference": "Therefore, one who desires liberation should always meditate on the auspicious goddess wearing white garments.",
+   "inference": "One who desires liberation should always meditate on the auspicious form wearing white garments.",
    "uncertainties": [],
-   "plain_english": "One who desires liberation should always meditate on the auspicious goddess wearing white garments."
+   "plain_english": "One who desires liberation should always meditate on the auspicious one clad in white garments."
   },
   {
    "verse": 597,
    "rows": [
     {
      "surface": "raktāmbaradharāṃ",
-     "gloss": "red-garment-wearing",
-     "grounds": "wearing red garments",
+     "gloss": "wearing-red-garment",
+     "grounds": "compound describing the meditated form",
      "morph": "f.acc.sg"
     },
     {
      "surface": "dhyāyet",
-     "gloss": "should-meditate",
-     "grounds": "injunction to meditate",
-     "morph": "3.sg.act.optative + √dhyai"
+     "gloss": "one-should-meditate",
+     "grounds": "injunctive instruction for meditation",
+     "morph": "3.sg.optative-active √dhyai"
     },
     {
      "surface": "raktagandha",
      "gloss": "red-fragrance",
-     "grounds": "red fragrance",
+     "grounds": "compound element describing adornment",
      "morph": "compound-member"
     },
     {
      "surface": "anulepanaḥ",
-     "gloss": "anointed",
-     "grounds": "smeared with unguent",
+     "gloss": "anointed-with",
+     "grounds": "compound describing application of unguent",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "How should the goddess be visualized when meditating with red adornments?",
+   "question": "What alternative form and adornment should be visualized in meditation?",
    "premises": [
-    "Meditation on the goddess is prescribed.",
-    "She is to be visualized wearing red garments.",
-    "The practitioner is described as anointed with red fragrance."
+    "Meditation is prescribed.",
+    "The form wears red garments.",
+    "The form is anointed with red fragrance."
    ],
-   "inference": "Therefore, one should meditate on the goddess wearing red garments while anointed with red fragrance.",
+   "inference": "One should meditate on the form wearing red garments and anointed with red fragrance.",
    "uncertainties": [
-    "The compound boundary in 'raktagandha anulepanaḥ' is interpreted across tokens as given."
+    "The agreement between raktāmbaradharāṃ and anulepanaḥ is grammatically irregular."
    ],
-   "plain_english": "One should meditate on her wearing red garments, anointed with red fragrance."
+   "plain_english": "One should meditate on her clad in red garments, anointed with red fragrance."
   },
   {
    "verse": 598,
    "rows": [
     {
      "surface": "tanmadhye",
-     "gloss": "in-that-middle",
-     "grounds": "in the middle of that",
+     "gloss": "in-middle-of-that",
+     "grounds": "compound indicating central location",
      "morph": "n.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "ātmanā",
-     "gloss": "with-self",
-     "grounds": "by means of oneself",
+     "gloss": "as-self",
+     "grounds": "instrumental indicating identification with self",
      "morph": "m.ins.sg"
     },
     {
      "surface": "devī",
      "gloss": "goddess",
-     "grounds": "the goddess",
+     "grounds": "deity to be contemplated",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tadrūpaṃ",
-     "gloss": "that-form",
-     "grounds": "having that form",
+     "gloss": "in-that-form",
+     "grounds": "compound indicating assumed form",
      "morph": "n.acc.sg"
     },
     {
      "surface": "paribhāvayet",
-     "gloss": "should-contemplate",
-     "grounds": "injunction to contemplate fully",
-     "morph": "3.sg.act.optative + pari-√bhū"
+     "gloss": "one-should-contemplate",
+     "grounds": "injunctive instruction for contemplation",
+     "morph": "3.sg.optative-causative-active pari-√bhū"
     }
    ],
-   "question": "How should one contemplate the goddess in relation to oneself in that central space?",
+   "question": "How should the goddess be contemplated in the middle of that visualization?",
    "premises": [
     "The contemplation takes place in the middle of that.",
     "The goddess is the object of contemplation.",
-    "One should contemplate her in that form with oneself."
+    "She should be contemplated in that form as oneself."
    ],
-   "inference": "Therefore, in that middle one should contemplate the goddess in that form as oneself.",
+   "inference": "In the middle of that, one should contemplate the goddess in that form as oneself.",
    "uncertainties": [],
    "plain_english": "And in the middle of that, one should contemplate the goddess in that form as oneself."
   },
@@ -1102,50 +1096,50 @@
    "rows": [
     {
      "surface": "śaṅkhahastāṃ",
-     "gloss": "conch-in-hand",
-     "grounds": "holding a conch in hand",
+     "gloss": "holding-conch-in-hand",
+     "grounds": "compound describing the meditated form",
      "morph": "f.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "at all times",
+     "grounds": "adverb of constant practice",
      "morph": "(indecl.)"
     },
     {
      "surface": "dhyāyet",
-     "gloss": "should-meditate",
-     "grounds": "injunction to meditate",
-     "morph": "3.sg.act.optative + √dhyai"
+     "gloss": "one-should-meditate",
+     "grounds": "injunctive instruction for meditation",
+     "morph": "3.sg.optative-active √dhyai"
     },
     {
      "surface": "manasā",
      "gloss": "by-mind",
-     "grounds": "with the mind",
+     "grounds": "instrument of conception",
      "morph": "n.ins.sg"
     },
     {
      "surface": "cintitaṃ",
      "gloss": "what-is-conceived",
-     "grounds": "that which is thought of",
+     "grounds": "object of mental intention",
      "morph": "n.acc.sg"
     },
     {
      "surface": "labhet",
-     "gloss": "may-obtain",
-     "grounds": "may attain",
-     "morph": "3.sg.act.optative + √labh"
+     "gloss": "one-may-obtain",
+     "grounds": "expresses attainment of desired result",
+     "morph": "3.sg.optative-active √labh"
     }
    ],
-   "question": "What result follows from always meditating on the goddess holding a conch?",
+   "question": "What result follows from always meditating on the conch-bearing form?",
    "premises": [
-    "One should always meditate on the goddess holding a conch.",
-    "The meditation is performed with the mind.",
+    "One should always meditate on the form holding a conch.",
+    "The meditation involves mental conception.",
     "Obtaining what is conceived is stated as the result."
    ],
-   "inference": "Therefore, by always meditating on the conch-bearing goddess, one may obtain what is conceived in the mind.",
+   "inference": "By always meditating on the conch-bearing form, one may obtain what is conceived in the mind.",
    "uncertainties": [],
-   "plain_english": "One should always meditate on her holding a conch; by the mind one may obtain what is conceived."
+   "plain_english": "One should always meditate on her holding a conch in her hand; by the mind one may obtain what is conceived."
   }
  ]
 }

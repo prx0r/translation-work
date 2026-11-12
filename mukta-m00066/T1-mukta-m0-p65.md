@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[different+born](bhinnajātaiḥ) [means](upāyaiḥ) [and](ca) [not](na) [how](kathaṃ) [goddess](devi) [will-succeed](setsyati)
+[by-various](bhinnajātair) [means](upāyaiś) [and](ca) [not](na) [how](kathaṃ) [o-goddess](devi) [will-succeed](setsyati)
 
 ## mukta-m0-p65-v1602
-[not](na) [human](nariaśca) [human-affair](naravṛttaṃtaḥ) [by-gods](surair) [or](vā) [not](anānu) [is-known](budhyate)
+[human](nariaś) [and](ca) [human-affairs](naravṛttaṃtaḥ) [by-gods](surair) [or](vā) [not](na) [is-understood](anu) (budhyate)
 
 ## mukta-m0-p65-v1603
-[what](kim) [these](ayaḥ) [are](saṃti) [thus](tadvat) [on-earth-sphere](bhūgole) [different](bhinnāś) [and](ca) [kinds](jātayaḥ)
+[what-kind](kimayaḥ) [exist](saṃti) [likewise](tadvad) [on-earth-globe](bhūgole) [different](bhinnāś) [and](ca) [species](jātayaḥ)
 
 ## mukta-m0-p65-v1604
-[always](sarvadā) [satisfied](tṛptimantaḥ) [and](ca) [what](yacca) [there](tatra) [gods](divaukasaḥ)
+[always](sarvadā) [satisfied](tṛptimantaś) [and](ca) [which](yac) [and](ca) [there](tatra) [heaven-dwellers](divaukasaḥ)
 
 ## mukta-m0-p65-v1605
-[this](iyad) [earth](bhūmiḥ) [great-element](mahadbhūtaṃ) [vast](viśālā) [all-wombed](sarvagarbbhiṇi)
+[this-much](iyad) [earth](bhūmir) [great-element](mahadbhūtaṃ) [vast](viśālā) [all-bearing](sarvagarbbhiṇi)
 
 ## mukta-m0-p65-v1606
-[beings](satvaiḥ) [many-kinds](bahuvidhaiḥ) [endowed](jjuṣṭā) [many](vahvībhiḥ) [kinds](jātibhiḥ) [grown](vṛdhā)
+[by-beings](satvair) [of-many-kinds](bahuvidhair) [inhabited](jjuṣṭā) [by-many](vahvībhir) [species](jātibhir) [abundantly](vṛdhā)
 
 ## mukta-m0-p65-v1607
-[of-all](sarveṣām) [also](api) [creatures](jantūnām) [refuge](āśrayaṃ) [and](ca) [equal-lifespan](samāyuṣām)
+[of-all](sarveṣām) [also](api) [creatures](jantūnām) [support](āśrayaṃ) [and](ca) [of-equal-lifespan](samāyuṣām)
 
 ## mukta-m0-p65-v1608
-[hood-circlet](phaṇāmaṇḍala) [around](paryaka) [eternal-play](nityakhelana) [child](bālikā)
+[on-hood-circle-couch](phaṇāmaṇḍalaparyaka) [eternal-play-child](nityakhelanabālikā)
 
 ## mukta-m0-p65-v1609
-[great-rivers](mahānadībhiḥ) [exalted](uddāmā) [necklaces](hārālibhiḥ) [like](iva) [shining](ujvalā)
+[by-great-rivers](mahānadībhir) [adorned](uddāmā) [by-garland-rows](hārālibhir) [as-if](iva) [radiant](ujvalā)
 
 ## mukta-m0-p65-v1610
-[clinging](śliṣṭeva) [by-wind](vāyunā) [by-that](tena) [mountain-garlands](śailālipulakākulā)
+[embraced](śliṣṭa) [as-if](iva) [by-wind](vāyunā) [by-that](tena) [with-mountain-hair-horripilation](śailālipulakākulā)
 
 ## mukta-m0-p65-v1611
-[tamala-dark](tamālaśyāmale) [navel](nābhoḥ) [heap](rāśinā) [held-garment](vidhṛtāṃbarā)
+[on-tamāla-dark](tamālaśyāmale) [of-sky-mass](nābhorāśinā) [wearing-garment](vidhṛtāṃbarā)
 
 ## mukta-m0-p65-v1612
-[fourteen-worlds](caturddaśajagat) [first-form](prātamūrtinā) [meru](meruṇā) [supported](āśritā)
+[by-fourteen-world-pervading-form](caturddaśajagatprātamūrtinā) [by-Meru](meruṇā) [supported](śritā)
 
 ## mukta-m0-p65-v1613
-[somewhere](kvacid) [farther](dūrataraiḥ) [long](dīrghaiḥ) [vīraṇa-grasses](vīraṇaireva) [surrounded](saṃvṛtā)
+[somewhere](kvacid) [by-very-distant](dūratarair) [long](dīrghair) [by-vīraṇa-grasses](vīraṇair) [indeed](eva) [covered](saṃvṛtā)
 
 ## mukta-m0-p65-v1614
-[somewhere](kvacit) [iron-shaped](lohamayākārā) [somewhere](kvacit) [copper-made](tāmramayā) [form](kṛtiḥ)
+[somewhere](kvacil) [iron-made-form](lohamayākārā) [somewhere](kvacit) [copper-made](tāmramayā) [shape](kṛtiḥ)
 
 ## mukta-m0-p65-v1615
-[ilāvṛta-etc](ilāvṛtādi) [varṣa-beginning](varṣādau) [somewhere](kvacana) [golden-formed](svarṇarūpiṇī)
+[in-Ilāvṛta-etc.](ilāvṛtādi) [in-regions](varṣādau) [somewhere](kvacana) [golden-formed](svarṇarūpiṇī)
 
 ## mukta-m0-p65-v1616
-[circles](maṇḍalauḥ) [surrounded](vṛtā)
+[by-circles](maṇḍalaur) [surrounded](vṛtā)
 
 ## mukta-m0-p65-v1617
-[ten-nāḍī-joined](daśanāḍīyutā) [somewhere](kvāpi) [somewhere](kvacin) [less-day](nyūnadinā) [remembered](smṛtā)
+[with-ten-nāḍīs](daśanāḍīyutā) [somewhere](kvāpi) [somewhere](kvacin) [with-shorter-day](nyūnadinā) [known](smṛtā)
 
 ## mukta-m0-p65-v1618
-[six-month-only](ṣaṇmāsamātraṃ) [somewhere](kvacana) [night](rātri) [birth-devoid](saṃbhavavarjitā)
+[for-six-months-only](ṣaṇmāsamātraṃ) [somewhere](kvacana) [night-occurrence-devoid](rātri) (saṃbhavavarjitā)
 
 ## mukta-m0-p65-v1619
-[somewhere](kvacit) [crow-faced](kākamukhaiḥ) [mortals](martyaiḥ) [somewhere](kvacid) [vulture-faced](gṛdhramukhaiḥ) [men](naraiḥ)
+[somewhere](kvacit) [with-crow-faced-humans](kākamukhairmartyaiḥ) [somewhere](kvacid) [with-vulture-faced-men](gṛdhramukhairnnaraiḥ)
 
 ## mukta-m0-p65-v1620
-[thus](iththaṃ) [many-formed](bahuvidhākārā) [all-support](sarvādhāra) [own-form](nijākṛtiḥ)
+[thus](iththaṃ) [of-many-forms](bahuvidhākārā) [supporting-all-own-form](sarvādhāranijākṛtiḥ)
 
 ## mukta-m0-p65-v1621
-[thus](evaṃ) [whole-earth-circle](samastabhūcakra) [inhabitants](vāsināṃ) [all-bodied](sarvadehinām)
+[thus](evaṃ) [of-all-earth-circle](samastabhūcakra) [dwellers](vāsināṃ) [of-all-embodied-beings](sarvadehinām)
 
 ## mukta-m0-p65-v1622
-[mantras](maṃtrāś) [and](ca) [are](santi) [many](bahavaḥ) [fruits](phalāni) [various](vividhāni) [and](ca)
+[mantras](maṃtrāś) [and](ca) [exist](santi) [many](bahavaḥ) [fruits](phalāni) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p65-v1623
-[of-gods](devānāṃ) [and](ca) [equal-this](samānaiṣā) [path](rītiḥ) [heaven-dwellers](svarganivāsinām)
+[of-gods](devānāṃ) [and](ca) [equal](samānaiṣā) [custom](rītiḥ) [of-heaven-dwellers](svarganivāsinām)
 
 ## mukta-m0-p65-v1624
-[desire-glory](ṛcikāmāyaśaskāmā) [gods](devā) [indeed](vai) [sacrifice](satram) [sat](āsata)
+[desiring-hymns](ṛcikāmā) [desiring-fame](yaśaskāmā) [gods](devā) [indeed](vai) [session](satram) [sat](āsata)
 
 ## mukta-m0-p65-v1625
-[heart](hṛdayaṃ) [go](gamayā) [power](śaktyā) [arguments](tarkaiḥ) [and](ca) [logic](nyāya) [harsh](karkaśaiḥ)
+[heart](hṛdayaṃ) [make-reach](gamayā) [by-power](śaktyā) [by-reasonings](tarkaiś) [and](ca) [by-logic-harsh](anyāya) (karkaśaiḥ)
