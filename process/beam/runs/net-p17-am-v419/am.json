@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 419,
- "question": "How did the contributions of others lead to this illumination by the author?",
+ "question": "How does the author attribute the illumination of this work to both others and himself?",
  "premises": [
   "Others did something for the author",
-  "This work was subsequently illumined",
-  "The author identifies himself as the illuminator"
+  "As a result this was illumined",
+  "The illumination is attributed to the author"
  ],
- "inference": "After others contributed something for him, the author illumined this work.",
- "uncertainties": [],
+ "inference": "Through what others did for him, the author illumined this work.",
+ "uncertainties": [
+  "The exact contribution made by others is unspecified"
+ ],
  "plain_english": "They did something for me; then this was illumined by me."
 }

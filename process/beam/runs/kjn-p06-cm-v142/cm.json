@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound-member",
-   "grounds": "member of compound naming the knot location"
+   "morph": "compound:brahma+first",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "granthi",
-   "morph": "compound-member",
-   "grounds": "member of compound naming the knot location"
+   "morph": "compound:granthi+second",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "sthitā",
    "morph": "f.nom.sg",
-   "grounds": "describes position starting from the brahma knot"
+   "grounds": "located"
   },
   {
    "lemma": "ā",
    "morph": "(indecl.)",
-   "grounds": "prefix or particle indicating starting point"
+   "grounds": "starting point"
   },
   {
    "lemma": "etāṃ",
    "morph": "f.acc.sg",
-   "grounds": "demonstrative referring to the subject"
+   "grounds": "demonstrative"
   },
   {
    "lemma": "trīṇi",
    "morph": "n.nom.pl",
-   "grounds": "numeral indicating quantity"
+   "grounds": "number"
   },
   {
    "lemma": "eva",
@@ -40,7 +40,7 @@
   {
    "lemma": "varānane",
    "morph": "f.voc.sg",
-   "grounds": "vocative address to the goddess"
+   "grounds": "vocative address"
   }
  ]
 }

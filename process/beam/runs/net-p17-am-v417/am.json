@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 417,
- "question": "What uneven fault in their vision corresponds to the radiant illumination addressed?",
+ "question": "What fault in the sight of those beings is identified as uneven despite radiant illumination?",
  "premises": [
-  "A radiant illumination is invoked",
-  "A fault in their sight is identified",
-  "That fault is described as uneven and of such a kind"
+  "Radiant illumination is present",
+  "A fault is identified as uneven",
+  "The fault belongs to their sight"
  ],
- "inference": "In the presence of radiant illumination, their sight has that same uneven fault.",
- "uncertainties": [],
- "plain_english": "O radiant illumination, that uneven fault is such in their sight."
+ "inference": "Their sight has such an uneven fault even in the presence of radiant illumination.",
+ "uncertainties": [
+  "The identity of 'them' is not specified"
+ ],
+ "plain_english": "O radiant illumination, that fault is this unevenness: their sight is such."
 }
