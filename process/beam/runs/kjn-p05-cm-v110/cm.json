@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "sa",
-   "morph": "pron.m.nom.sg",
+   "morph": "m.nom.sg",
    "grounds": "demonstrative subject"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "compound:deha+tyakta+mātreṇa",
-   "grounds": "compound instrumental of condition"
+   "morph": "compound.n.ins.sg",
+   "grounds": "compound instrumental: deha (body) + tyakta (left) + mātreṇa (merely)"
   },
   {
    "lemma": "paraṃ",
@@ -25,7 +25,7 @@
   {
    "lemma": "nigadyate",
    "morph": "3.sg.pres.pass √gad",
-   "grounds": "present passive statement"
+   "grounds": "passive verb"
   }
  ]
 }

@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "etat",
-   "morph": "pron.n.nom.sg",
+   "morph": "n.nom.sg",
    "grounds": "demonstrative object"
   },
   {
    "lemma": "te",
-   "morph": "pron.dat.sg",
-   "grounds": "recipient pronoun"
+   "morph": "2.dat.sg",
+   "grounds": "recipient"
   },
   {
    "lemma": "jīva+abhyāsaṃ",
-   "morph": "compound:jīva+abhyāsam",
-   "grounds": "compound object taught"
+   "morph": "compound.m.acc.sg",
+   "grounds": "compound: jīva (soul) + abhyāsam (practice)"
   },
   {
    "lemma": "kathitaṃ",
@@ -24,8 +24,8 @@
   },
   {
    "lemma": "te",
-   "morph": "pron.dat.sg",
-   "grounds": "recipient pronoun repeated"
+   "morph": "2.dat.sg",
+   "grounds": "recipient repeated"
   },
   {
    "lemma": "ca",
