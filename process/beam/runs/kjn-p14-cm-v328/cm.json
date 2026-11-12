@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "tasya",
-   "morph": "pron.m.gen.sg",
-   "grounds": "correlative pronoun"
+   "morph": "m.gen.sg",
+   "grounds": "demonstrative pronoun"
   },
   {
    "lemma": "mokṣo",
    "morph": "m.nom.sg",
-   "grounds": "resulting state"
+   "grounds": "subject noun"
   },
   {
    "lemma": "bhavedyastu",
-   "morph": "compound",
-   "grounds": "optative bhavet with relative yaḥ and particle tu fused"
+   "morph": "3.sg.opt.act+bhū+yad+tu",
+   "grounds": "optative verb with relative and particle fused in token"
   },
   {
    "lemma": "pāpapuṇyairna",
-   "morph": "compound",
-   "grounds": "instrumental compound with negation na fused"
+   "morph": "n.inst.pl+na",
+   "grounds": "compound of sin and merit with negation fused in token"
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.pres.pass-√lip",
-   "grounds": "passive verb expressing non-affliction"
+   "morph": "3.sg.pres.ind.pass+lip",
+   "grounds": "passive verb"
   }
  ]
 }
