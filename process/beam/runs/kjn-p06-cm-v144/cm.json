@@ -4,7 +4,7 @@
  "rows": [
   {
    "lemma": "bhavati",
-   "morph": "3.sg.act-pres √bhū",
+   "morph": "3.sg.present-active √bhū",
    "grounds": "assertion of result"
   },
   {
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound=ṣaṇ+māsa",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "numeral component of time period"
   },
   {
    "lemma": "māsa",
-   "morph": "compound=ṣaṇ+māsa",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "time unit"
   },
   {
    "lemma": "abhyantareṇa",
    "morph": "n.inst.sg",
-   "grounds": "time limit"
+   "grounds": "time limit for result"
   },
   {
    "lemma": "tu",

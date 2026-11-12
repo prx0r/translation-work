@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "keśa",
-   "morph": "compound=keśa+skandha",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound location"
   },
   {
    "lemma": "skandha",
-   "morph": "compound=keśa+skandha",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member of compound location"
   },
   {
    "lemma": "kapāla",
-   "morph": "compound=kapāla+sthaṃ",
-   "grounds": "third member of compound"
+   "morph": "compound-member",
+   "grounds": "third member of compound location"
   },
   {
    "lemma": "sthaṃ",
    "morph": "n.acc.sg",
-   "grounds": "location of substance"
+   "grounds": "located in those regions"
   },
   {
    "lemma": "rañjayet",
-   "morph": "3.sg.act-opt √rañj",
+   "morph": "3.sg.optative-active √rañj",
    "grounds": "injunctive instruction"
   },
   {
    "lemma": "tasya",
-   "morph": "pron.gen.sg",
-   "grounds": "source of power"
+   "morph": "n.gen.sg",
+   "grounds": "refers to the form's power"
   },
   {
    "lemma": "tejasā",
    "morph": "n.inst.sg",
-   "grounds": "instrument of coloring"
+   "grounds": "instrumental cause of coloring"
   }
  ]
 }

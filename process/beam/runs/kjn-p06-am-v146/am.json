@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 146,
- "question": "What rejuvenating effect results from six months of repeated practice?",
+ "question": "What transformation occurs even in an old person after six months of repeated practice?",
  "premises": [
   "The practice is performed for six months",
-  "It is done repeatedly",
-  "Even an old person becomes youthful"
+  "The subject may be old",
+  "The result is becoming youthful"
  ],
- "inference": "Through six months of repeated practice, even an old person becomes youthful.",
- "uncertainties": [],
+ "inference": "Even an old person becomes youthful after six months of repeated practice",
+ "uncertainties": [
+  "The form āyate is unusual; taken as becomes/attains"
+ ],
  "plain_english": "Through six months of repeated practice, even an old person becomes youthful."
 }

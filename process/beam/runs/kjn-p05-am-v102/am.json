@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "What kind of recipient is worthy to receive this teaching?",
+ "question": "To what kind of previously accomplished person must a tested item be given after a year of trial?",
  "premises": [
-  "The teaching may be given",
-  "Recipient should be previously accomplished",
-  "Recipient must be tested one year"
+  "Something is designated as to be given in this context.",
+  "The recipient is one who has been previously accomplished.",
+  "The item to be given has been tested for one year."
  ],
- "inference": "Only a previously accomplished person tested for one year should receive this teaching.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "Only a previously accomplished person who has passed a one-year test is fit to receive the item.",
+ "uncertainties": [
+  "The nature of the item being given is not specified in this verse."
+ ],
+ "plain_english": "It is to be given to one previously accomplished, after being tested for one year."
 }

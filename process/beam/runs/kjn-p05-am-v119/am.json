@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 119,
- "question": "What auspicious teaching about overcoming the deception of time is now requested?",
+ "question": "What does the speaker now wish to hear, and how is that subject characterized?",
  "premises": [
-  "The speaker wishes to hear",
-  "The topic is time's deception",
-  "The teaching is called auspicious"
+  "The speaker wishes to hear something now.",
+  "The object of hearing is the deception of time.",
+  "That subject is characterized as auspicious."
  ],
- "inference": "The speaker now asks to hear the auspicious method for overcoming the deception of time.",
- "uncertainties": [],
- "plain_english": "Now I wish to hear the auspicious means for overcoming the deception of time."
+ "inference": "The speaker now wishes to hear about the auspicious deception of time.",
+ "uncertainties": [
+  "The phrase śubham vañcanam is syntactically ambiguous in this verse."
+ ],
+ "plain_english": "Now I wish to hear the auspicious deception of time."
 }
