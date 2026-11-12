@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.mid-pres/√kṛ",
-   "grounds": "main verb"
+   "morph": "3.sg.present-mid/√kṛ",
+   "grounds": "action performed by the practitioner"
   },
   {
    "lemma": "amaratvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object attained"
+   "grounds": "result attained"
   },
   {
    "lemma": "hi",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "satata",
-   "morph": "compound=satata+first",
+   "morph": "compound=satata+abhyāsa",
    "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+second",
+   "morph": "compound=satata+abhyāsa",
    "grounds": "second member of compound"
   },
   {
    "lemma": "tatparaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes practitioner"
+   "grounds": "describes the practitioner"
   }
  ]
 }

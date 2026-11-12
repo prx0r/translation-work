@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "vahni",
-   "morph": "compound=vahni+first",
+   "morph": "compound=vahni+nāveṣṭita",
    "grounds": "first member of compound"
   },
   {
    "lemma": "nāveṣṭita",
-   "morph": "compound=nāveṣṭita+second",
-   "grounds": "part of compound describing self"
+   "morph": "compound=vahni+nāveṣṭita",
+   "grounds": "second member of compound describing enclosure"
   },
   {
    "lemma": "ātmānam",
    "morph": "m.acc.sg",
-   "grounds": "object of visualization or description"
+   "grounds": "object visualized or described"
   },
   {
    "lemma": "eka",
-   "morph": "compound=eka+first",
+   "morph": "compound=eka+pādena",
    "grounds": "first member of compound"
   },
   {
    "lemma": "pādena",
    "morph": "m.inst.sg",
-   "grounds": "instrument indicating posture"
+   "grounds": "instrument or manner of standing"
   },
   {
    "lemma": "saṃsthitam",
    "morph": "m.acc.sg",
-   "grounds": "describes the self"
+   "grounds": "describes the state of the self"
   }
  ]
 }

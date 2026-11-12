@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "karṇa+sthaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "karṇa+stha accusative compound"
+   "morph": "compound = karṇa+stha",
+   "grounds": "compound = karṇa+stha; accusative as given"
   },
   {
    "lemma": "śrūyate",
-   "morph": "3.sg.pass.pres/śru",
-   "grounds": "present passive of śru 3.sg"
+   "morph": "3.sg.pres.pass/śru",
+   "grounds": "verb śru pass 3.sg.pres"
   },
   {
    "lemma": "devi",
    "morph": "f.voc.sg",
-   "grounds": "devī vocative"
+   "grounds": "vocative address"
   },
   {
    "lemma": "pāramparya+krama+āgatam",
-   "morph": "compound = member+membership",
-   "grounds": "pāramparya+krama+āgata accusative compound"
+   "morph": "compound = pāramparya+krama+āgata",
+   "grounds": "compound = pāramparya+krama+āgata; accusative as given"
   }
  ]
 }

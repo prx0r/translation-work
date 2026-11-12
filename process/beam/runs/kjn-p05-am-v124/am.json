@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Under what condition does poison fail to enter the body?",
+ "question": "Under what condition does poison fail to enter the body, even in the case of a bite?",
  "premises": [
+  "Poison is the thing in question.",
   "A person may be bitten by great serpents.",
-  "Even in that condition, poison does not enter the body.",
-  "This is stated as a general result."
+  "Even in that case, poison does not enter the body."
  ],
  "inference": "Even if bitten by great serpents, poison does not enter the body.",
  "uncertainties": [
-  "Causal basis for this result not stated in this verse"
+  "The reason for poison failing to enter is not stated in this verse."
  ],
- "plain_english": "Poison does not enter the body, even if bitten by great serpents."
+ "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
 }
