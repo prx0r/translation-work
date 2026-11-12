@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[sixteen-eternal-ones'](ṣoḍaśanityānāṃ) [bali-mantra](balimantra) [said](ukta) [thus-meaning](ityarthaḥ)
+[of-sixteen-nityās](ṣoḍaśanityānāṃ) [offering-mantra](balimantraḥ) [stated](uktaḥ) [thus-meaning](ityarthaḥ)
 
 ## mukta-m0-p16-v377
-[i-will-tell](kathayāmi) [in-order](krameṇaiva) [always](nityaṃ) [all-aims-accomplishing](sarvārthasiddhidam)
+[I-tell](kathayāmi) [in-order](krameṇa) [indeed](eva) [eternal](nityaṃ) [all+purpose+accomplishing](sarva+artha+siddhidam)
 
 ## mukta-m0-p16-v378
-[by-whom](yenātipāpayukto'pi) [even-sinful](atipāpayukto'pi) [attains-success](siddhimeti) [certainly](suniścitam)
+[by-which](yena) [exceedingly+sin+endowed](ati+pāpa+yuktaḥ) [even](api) [accomplishment](siddhim) [attains](eti) [very-certainly](suniścitam)
 
 ## mukta-m0-p16-v379
-[invocation-mantra](āvāhanamanuṃ) [afterwards](paścāt) [all-worship-mantra](samastārcāmanuṃ) [also](tathā)
+[invocation-mantra](āvāhana+manuṃ) [afterwards](paścāt) [all+worship+mantra](samasta+arcā+manuṃ) [likewise](tathā)
 
 ## mukta-m0-p16-v380
-[meditation](dhyānaṃ) [with-attendants](saparivārāyā) [eternal-worship-rite-sequence](nityapūjāvidhikramau)
+[meditation](dhyānaṃ) [with-retinue](saparivārāyāḥ) [daily+worship+procedure+sequence](nitya+pūjā+vidhi+kramau)
 
 ## mukta-m0-p16-v381
-[mantra-self-yoga](mantrātmayogamarcāyā) [upacaras](upacārān) [japa-sequence](japakramam)
+[mantra+nature+union](mantra+ātma+yogam) [of-worship](arcāyāḥ) [offerings](upacārān) [recitation+procedure](japa+kramam)
 
 ## mukta-m0-p16-v382
-[heart-space](hṛdvanena) [together](samāyena) [third](tṛtīyaṃ) [first](prathamā) [but](tvasau)
+[with-heart](hṛdā) [with-that](anena) [with-equal](samāyena) [third](tṛtīyaṃ) [first](prathamā) [but-that](tu) [she](asau)
 
 ## mukta-m0-p16-v383
-[tradition](sampradāyaḥ) [all-worship-mantra](samastārcāmanuṃ) [seed-pair-form](bījadvayarūpam)
+[tradition](sampradāyaḥ) [all+worship+mantra](samasta+arcā+manuṃ) [seed+pair+form](bīja+dvaya+rūpam)
 
 ## mukta-m0-p16-v384
-[heart-head](hṛcchiraśca) [crest-armor](śikhāvarma) [eye-weapon](netramastraṃ) [six-limbs](ṣaḍaṅgakam)
+[heart](hṛt) [head](śiraḥ) [and](ca) [tuft](śikhā) [armor](varma) [eye](netram) [weapon](astraṃ) [six+limbed](ṣaṭ+aṅgakam)
 
 ## mukta-m0-p16-v385
-[third](tṛtīyā) [that-same](saiva) [with-power-beginning](śaktyādyā) [goddess-self-seat](devyātmāsanametayā)
+[third](tṛtīyā) [she](sā) [indeed](eva) [beginning-with-śakti](śakti+ādyā) [of-goddess+self+seat](devyā+ātma+āsanam) [by-this](etayā)
 
 ## mukta-m0-p16-v386
-[haṃsa-heart](haṃsahṛdbhyāṃ) [fifth](pañcamī) [also](ca) [all-mantra-seat](sarvamantrāsanaṃ) [thus](tathā)
+[with-haṃsa+heart](haṃsa+hṛdbhyāṃ) [fifth](pañcamī) [and](ca) [all+mantra+seat](sarva+mantra+āsanaṃ) [likewise](tathā)
 
 ## mukta-m0-p16-v387
-[by-second](dvitīyayā) [vidya](vidyayeti) [remainder](śeṣaḥ)
+[by-second](dvitīyayā) [by-vidyā](vidyayā) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p16-v388
-[third-thus](tṛtīyeti) [enumeration-order](parigaṇanakramaśca) [for-ease](saukaryārthaḥ)
+[third](tṛtīyā) [thus](iti) [enumeration+sequence](parigaṇana+kramaḥ) [and](ca) [for-ease](saukarya+artham)
 
 ## mukta-m0-p16-v389
-[of-that](tasya) [power](śakteśca) [middle-standing](madhyasthā) [which](yā) [sixth](ṣaṣṭhī) [declared](samīritā)
+[of-that](tasya) [of-śakti](śakteḥ) [and](ca) [situated-in-middle](madhya+sthā) [which](yā) [she](sā) [sixth](ṣaṣṭhī) [declared](samīritā)
 
 ## mukta-m0-p16-v390
-[by-seventh](saptamyā'vāhanaṃ) [invoke](kuryānnamasoktatrikhaṇḍayā)
+[by-seventh](saptamyā) [invocation](āvāhanam) [one-should-do](kuryāt) [with-namas+uttered+three+part](namas+ukta+tri+khaṇḍayā)
 
 ## mukta-m0-p16-v391
-[being-stated](vakṣyamāṇatvāt) [of-all](sarveṣāṃ) [mantras](mantrāṇām) [obtainment-place](upalabdhisthānamityarthaḥ)
+[because-of-being-stated-later](vakṣyamāṇa+tvāt) [of-all](sarveṣāṃ) [of-mantras](mantrāṇām) [source+of-knowledge](upalabdhi+sthānam) [thus-meaning](iti+arthaḥ)
 
 ## mukta-m0-p16-v392
-[middle](madhyame) [burning-yoga](dāhayogastu) [at-consonant-end](vyañjanānte) [declared](samīritaḥ)
+[in-middle](madhyame) [burning+union](dāha+yogaḥ) [but](tu) [at-consonant+end](vyañjana+ante) [declared](samīritaḥ)
 
 ## mukta-m0-p16-v393
-[beginning-from-that](tadādikāḥ) [all-powers](sarvaśaktīścakrasthā) [by-names](nāmabhirjapet)
+[beginning-with-that](tat+ādikāḥ) [all+śaktis](sarva+śaktīḥ) [situated-in-circle](cakra+sthāḥ) [by-names](nāmabhiḥ) [one-should-recite](japet)
 
 ## mukta-m0-p16-v394
-[life-essence-power-joined](prāṇorasāśaktiyutaḥ) [kameshvari-great-syllable](kāmeśvaryakṣaraṃ) [mahat](mahat)
+[with-breath](prāṇaḥ) [with-rasa](rasa) [with-śakti+joined](śakti+yutaḥ) [of-kāmeśvarī+syllable](kāmeśvarī+akṣaraṃ) [great](mahat)
 
 ## mukta-m0-p16-v395
-[pervaded](vyāptaṃ) [rasa-earth-without](rasākṣmāsvayutaṃ) [pure-seed](vimalābījamīritam)
+[pervaded](vyāptaṃ) [with-rasa+earth+vowels+joined](rasa+akṣmā+sva+yutaṃ) [of-vimalā+seed](vimalā+bījam) [declared](īritam)
 
 ## mukta-m0-p16-v396
-[of-worships](pūjānāmamantraiḥ) [all](sarvāḥ) [powers](śaktīḥ) [worship](pūjayediti)
+[with-worship+name+mantras](pūjā+nāma+mantraiḥ) [all](sarvāḥ) [śaktis](śaktīḥ) [one-should-worship](pūjayet) [thus](iti)
 
 ## mukta-m0-p16-v397
-[la-syllable](lakāra) [heart-line](hṛllekhābhiḥ) [cluster](kūṭaṃ) [klhrī](klhrī/)
+[with-lakāra](lakāra) [with-hṛllekhās](hṛllekhābhiḥ) [seed-syllable](kūṭaṃ) [klhrī](klhrī/) [thus](iti)
 
 ## mukta-m0-p16-v398
-[p.68](p.) [haṃsa](haṃsaḥ) [with-heart-essence-water](sahṛdrasāmbuḥ) [pervaded-earth-with](syādvyāptakṣmāsvairyuto) [mantra](manuḥ)
+[page-68](p. 68)) [haṃsa](haṃsaḥ) [with-heart](sa+hṛt) [with-rasa+water](rasa+ambuḥ) [should-be](syāt) [with-pervading+earth+vowels+joined](vyāpta+kṣmā+svaiḥ+yutaḥ) [mantra](manuḥ)
 
 ## mukta-m0-p16-v399
-[in-disputes](vādeṣu) [in-transactions](vyavahāreṣu) [in-battles](samareṣu) [also](ca) [certain](niścitam)
+[in-debates](vādeṣu) [in-transactions](vyavahāreṣu) [in-battles](samareṣu) [and](ca) [certainly](niścitam)
 
 ## mukta-m0-p16-v400
-[of-all-lady](sarveśvaryāḥ) [declared](samākhyātaḥ) [all-success-causing](sarvasiddhikaraḥ) [always](sadā)
+[of-sarveśvarī](sarveśvaryāḥ) [declared](samākhyātaḥ) [all+accomplishment+causing](sarva+siddhi+karaḥ) [always](sadā)

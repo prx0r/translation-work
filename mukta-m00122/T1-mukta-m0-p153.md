@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[in-beginning-etc](prāgādiṣu) [indeed](tu) [seven-even](saptāpi) [in-middle](madhye) [fire](vahniṃ) [thus](tathā) [remembering](smaran)
+[east-etc-in](prāg+ādiṣu) [but](tu) [seven-also](sapta+api) [in-middle](madhye) [fire](vahniṃ) [thus](tathā) [remembering](smaran)
 
 ## mukta-m0-p153-v3802
-[jihvās+of](jihvānām) [abhi+one+one](abhirekaikaṃ) [fire+and](vahneśca) [two-syllable+etc](dvyakṣarādikam)
+[of-tongues](jihvānām) [upon-each-one](abhi+eka+ekaṃ) [of-fire-and](vahneḥ+ca) [two-syllable-beginning](dvi+akṣara+ādikam)
 
 ## mukta-m0-p153-v3803
-[fire](vahniṃ) [honoring](sabhājanaṃ) [in-hand](haste) [having-taken](gṛhītvā) [aṅgāraka+and](aṅgārakañca) [that](tat)
+[fire](vahniṃ) [with-vessel](sa+bhājanaṃ) [in-hand](haste) [having-taken](gṛhītvā) [charcoal-and](aṅgārakam+ca) [that](tat)
 
 ## mukta-m0-p153-v3804
-[revolving](viparibhrāmya) [kuṇḍa](kuṇḍantu) [in-that-middle](tanmadhye) [should-place](vinyasettataḥ)
+[having-circled-around](viparibhrāmya) [pit-but](kuṇḍam+tu) [in-its-middle](tat+madhye) [should-place](vinyaset) [then](tataḥ)
 
 ## mukta-m0-p153-v3805
-[having-made](kṛtvā) [with-darbha-grass](darbhaiḥ) [having-spread](paristīryya) [palāśa+aśvattha+leaves](palāśāśvatthapatrakaiḥ)
+[having-done](kṛtvā) [with-darbha-grass](darbhaiḥ) [having-strewn-around](paristīryya) [with-palāśa-aśvattha-leaves](palāśa+aśvattha+patrakaiḥ)
 
 ## mukta-m0-p153-v3806
-[should-offer](juhuyāt) [one+one](ekamekantu) [nātha+eternal+self-born](nāthanityātmabhūtajaiḥ)
+[should-offer](juhuyāt) [one-by-one-but](ekam+ekam+tu) [born-from-lord-nityā-self](nātha+nityā+ātma+bhūta+jaiḥ)
 
 ## mukta-m0-p153-v3807
-[self-command-place-gone](svājñāsthānagatāṃ) [having-known](buddhvā) [spreading-before](paristaraṇapūrvakam)
+[gone-to-own-command-place](sva+ājñā+sthāna+gatāṃ) [having-known](buddhvā) [preceded-by-strewing](paristaraṇa+pūrvakam)
 
 ## mukta-m0-p153-v3808
-[worship](pūjāṃ) [having-completed](samāpya) [should-wander](vicaret) [happy](sukhī) [that-form-having](tadrūpavānnaraḥ)
+[worship](pūjāṃ) [having-completed](samāpya) [should-move](vicaret) [happy](sukhī) [having-that-form-man](tat+rūpa+vān+naraḥ)
 
 ## mukta-m0-p153-v3809
-[should-do](kuryyāditi) [cruel-acts](krūrakarmasu) [abhicāra-etc](abhicārādiṣu)
+[should-do-thus](kuryyāt+iti) [in-cruel-acts](krūra+karmasu) [in-malevolent-rites-etc](abhicāra+ādiṣu)
 
 ## mukta-m0-p153-v3810
-[in-those](teṣu) [that+homa+doing](taddhomakaraṇaṃ) [completed](samāpte) [always+thus](nityaśastathā)
+[in-those](teṣu) [that-homa-performance](tat+homa+karaṇaṃ) [when-completed](samāpte) [daily-also](nityaśaḥ+tathā)
 
 ## mukta-m0-p153-v3811
-[eternal-rite](nityakramaṃ) [then](tato) [eternal](nityaṃ) [that+that+day+vidyā](tattaddivasavidyayā)
+[daily-rite](nitya+kramaṃ) [then](tato) [daily](nityaṃ) [with-that-day-mantra](tat+tat+divasa+vidyayā)
 
 ## mukta-m0-p153-v3812
-[auspicious](maṅgale) [before-spoken](pūrvamudite) [protect-me](pāhi māmityudīrayet)
+[in-auspicious](maṅgale) [previously-uttered](pūrvam+udite) [protect](pāhi) [me-thus](mām+iti) [should-utter](udīrayet)
 
 ## mukta-m0-p153-v3813
-[homa](homaṃ) [that](taṃ) [threefold](trividhaṃ) [declared](proktaṃ) [gross+subtle+supreme-ness](sthūlasūkṣmaparatvataḥ)
+[homa](homaṃ) [that](taṃ) [threefold](tri+vidhaṃ) [declared](proktaṃ) [by-gross-subtle-supreme](sthūla+sūkṣma+para+tvataḥ)
 
 ## mukta-m0-p153-v3814
-[other+of](itarasya) [rite](vidhāne) [tu](tu) [which](yāni) [to-be-known](jñeyāni) [those](tāni) [tu](tu)
+[of-other](itarasya) [in-prescription](vidhāne) [but](tu) [which](yāni) [to-be-known](jñeyāni) [those](tāni) [but](tu)
 
 ## mukta-m0-p153-v3815
-[should-destroy](vināśayet) [enemies](arātīṃśca) [from-homa](homeḥ) [sins](pāpāni) [and+of-self](cātmanaḥ)
+[should-destroy](vināśayet) [enemies-and](arātīn+ca) [by-homas](homeḥ) [sins](pāpāni) [and-of-self](ca+ātmanaḥ)
 
 ## mukta-m0-p153-v3816
-[therefore+by-homa](tasmāddhomena) [all](sakalaṃ) [should-accomplish](sādhayet) [all+desired](sarvavāñchitam)
+[therefore-by-homa](tasmāt+homena) [all](sakalaṃ) [should-accomplish](sādhayet) [all-desired](sarva+vāñchitam)
 
 ## mukta-m0-p153-v3817
-[of-this](asyā) [realization](niphālanāccitte) [that+that-ness](tattattvaṃ) [self+made](svātmasāt kṛtam)
+[of-this](asyā) [from-fruition-in-mind](niphālanāt+citte) [that-truth](tat+tattvaṃ) [made-one's-own](sva+ātma+sāt) [made](kṛtam)
 
 ## mukta-m0-p153-v3818
-[chapter](paṭalam) [29](29) [oṃ](oṃ)
+[chapter](paṭalam) [29](29) [om](oṃ)
 
 ## mukta-m0-p153-v3819
-[not-unattainable](nānavāpyamityetadabhimataviṣayaḥ)
+[nothing-unattainable-thus](na+anavāpyam+iti) [this-intended-subject](etat+abhimata+viṣayaḥ)
 
 ## mukta-m0-p153-v3820
-[reviewed](parāmṛṣṭam) [29](29) [oṃ tatsat](oṃ tatsat)
+[considered](parāmṛṣṭam) [29](29) [om-tat-sat](oṃ+tatsat)
 
 ## mukta-m0-p153-v3821
-[of-them](tāsāṃ) [circle](cakraṃ) [there](tatra) [worship-rite](pūjākramaṃ) [properly](samyagvadāmi) [to-you](te)
+[of-them](tāsāṃ) [circle](cakraṃ) [there](tatra) [worship-sequence](pūjā+kramaṃ) [properly-I-tell](samyak+vadāmi) [to-you](te)
 
 ## mukta-m0-p153-v3822
-[subtle-homa-rites](sūkṣmahomavidhānāni) [their+fruits](tatphalāni) [supreme](paraṃ) [thus](tathā)
+[subtle-homa-procedures](sūkṣma+homa+vidhānāni) [their-fruits](tat+phalāni) [supreme](paraṃ) [also](tathā)
 
 ## mukta-m0-p153-v3823
-[by-which+without](yairvinā) [in-world](bhuvane) [mantras](mantrāḥ) [all](sarve) [would-be+fruitless](syurniṣphalā) [certainly](dhruvam)
+[without-which](yaiḥ+vinā) [in-world](bhuvane) [mantras](mantrāḥ) [all](sarve) [would-be-fruitless](syuḥ+niṣphalāḥ) [certainly](dhruvam)
 
 ## mukta-m0-p153-v3824
-[before](purā) [of-him](tasya) [for-destruction](vadhāyaiva) [all](sarve) [gods](devāḥ) [exertion](smudyamam)
+[formerly](purā) [for-his-slaying-indeed](tasya+vadhāya+eva) [all](sarve) [gods](devāḥ) [made-effort](sa+udyamam)
 
 ## mukta-m0-p153-v3825
-[of-us+that+removal](āvayostannirāsāya) [to-me](māmetyākathayattadā)
+[of-us-two](āvayoḥ) [for-his-removal](tat+nirāsāya) [to-me-thus](mām+iti) [spoke](ākathayat) [then](tadā)

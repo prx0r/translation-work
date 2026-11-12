@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p155-v3851
-[with-praṇava-etc](praṇavādibhiḥ) [ending-in-namas](namo'ntaiḥ) [should-worship](pūjayet) [thus](iti)
+[with-praṇava+etc.](praṇavādibhir) [ending-with-namas](namo'ntaiḥ) [one-should-worship](pūjayet) [thus](iti)
 
 ## mukta-m0-p155-v3852
-[beginning-with-east](prāgādiṣu) [thus](tathā) [on-right](dakṣe) [eternal-syllable-rising-syllable](nityārṇāṇudayārṇakam)
+[in-east+etc.](prāgādiṣu) [likewise](tathā) [in-south](dakṣe) [eternal-syllable+arising-syllable](nityārṇāṇudayārṇakam)
 
 ## mukta-m0-p155-v3853
-[on-north](uttare) [i-worship](pūjayāmi) [thus](iti) [having-written](vilikhya) [here](atra) [should-sacrifice](yajet) [those](tān)
+[in-north](uttare) [I-worship](pūjayāmi) [thus](iti) [having-written](vilikhya) [here](atra) [and](ca) [one-should-worship](yajet) [them](tān)
 
 ## mukta-m0-p155-v3854
-[with-rice-mung-beans-barley](brīhimudgayavaiḥ) [with-honey-ghee-milk](kṣaudraghṛtadugdhāplutaiḥ) [in-order](kramāt)
+[with-rice](brīhi) [with-mudga-beans](mudga) [with-barley](yavaiḥ) [with-honey](kṣaudra) [ghee](ghṛta) [milk](dugdha) [soaked](āplutaiḥ) [in-order](kramāt)
 
 ## mukta-m0-p155-v3855
-[separately](pratyekaṃ) [with-those](taiḥ) [should-offer](hunet) [substances](dravyaiḥ) [with-mantras](mantraiḥ) [and-so](tadvat) [with-milk-rice](pāyasaiḥ)
+[each](pratyekaṃ) [with-those](taiḥ) [one-should-offer](hunet) [with-substances](dravyaiḥ) [with-mantras](mmantraiḥ) [likewise](tadvacca) [with-milk-rice](pāyasaiḥ)
 
 ## mukta-m0-p155-v3856
-[with-sugar](sasitaiḥ) [milk-banana-fruit-cake-etc](dugdhakadalīphalāpūpādisaṃyutam)
+[with-sugar](sasitaiḥ) [with-milk](dugdha) [plantain](kadalī) [fruit](phala) [cake+etc.](āpūpādisaṃyutam)
 
 ## mukta-m0-p155-v3857
-[those](tān) [declared](proktān) [brahma-etc](brahmādīn)
+[them](tān) [mentioned](proktān) [Brahmā+etc.](brahmādīn)
 
 ## mukta-m0-p155-v3858
-[ghee-offerings](ājyāhutīḥ) [should-offer](juhuyāt) [thus](iti)
+[ghee+oblations](ājyāhutīḥ) [one-should-offer](juhuyāt) [thus](iti)
 
 ## mukta-m0-p155-v3859
-[in-own-house](svagehe) [vāstu-worship](vāstupūjāyām) [in-maṇḍala](maṇḍale) [all-around](sarvataḥ) [in-order](kramāt)
+[in-one's-own-house](svagehe) [in-vāstu-worship](vāstupūjāyāṃ) [in-maṇḍala](maṇḍale) [on-all-sides](sarvataḥ) [in-order](kramāt)
 
 ## mukta-m0-p155-v3860
-[three-or-more](trayādahīnān) [with-various](vividhaiḥ) [sweet-etc](madhurādyaiḥ) [should-feed](bhojayet)
+[three+or-more](trayādahīnān) [with-various](vividhaiḥ) [with-sweet+etc.](madhurādyaistu) [one-should-feed](bhojayet)
 
 ## mukta-m0-p155-v3861
-[thus](evaṃ) [doing](vidadhataḥ) [in-house](gehe) [never](kadācana) [inauspicious](nākalyāṇaṃ)
+[thus](evaṃ) [for-one-performing](vidadhato) [in-house](gehe) [not](na) [inauspiciousness](akalyāṇaṃ) [ever](kadācana)
 
 ## mukta-m0-p155-v3862
-[no](na) [snake-affliction](sarpapīḍā) [no](na) [mutual-quarrels](anyonyakalahāni) [inauspicious](aśubhāni) [and](ca)
+[not](na) [snake+affliction](sarpapīḍā) [not](na) [mutual+quarrels](anyonyakalahāni) [inauspicious-things](aśubhāni) [and](ca)
 
 ## mukta-m0-p155-v3863
-[healthy](arogī) [victorious](vijayī) [renowned](khyātaḥ) [long](ciraṃ) [lives](jīvati) [that-house](tadgṛhe)
+[free-from-disease](arogī) [victorious](vijayī) [renowned](khyātaḥ) [long](ciraṃ) [lives](jīvati) [in-that-house](tadgṛhe)
 
 ## mukta-m0-p155-v3864
-[śrīvidyā-reciter](śrīvidyājāpī) [having-entered-house](gṛhametya) [having-placed-body](nyastagātraḥ) [becomes-deity-souled](devatātmā) [bhavet](bhavet) [thus](iti)
+[Śrīvidyā+reciter](śrīvidyājāpī) [house](gṛham) [having-approached](etya) [placed-body](nyastagātro) [deity+self](devatātmā) [should-become](bhavet) [thus](iti)
 
 ## mukta-m0-p155-v3865
-[in-minister-commander-army-chief-houses](sacivāmātyasenānībhavaneṣu) [in-city](pure) [thus](tathā)
+[in-minister](saciva) [counselor](āmātya) [commander](senānī) [houses](bhavaneṣu) [in-city](pure) [likewise](tathā)
 
 ## mukta-m0-p155-v3866
-[if-not](na) [ced](ced) [declared](uktāni) [otherwise-formed](anyathārūpa) [fruits](phalaiḥ) [distress](kleśaḥ) [constant](aniśaṃ) [becomes](bhavet)
+[not](na) [if](cet) [stated](uktāni) [otherwise+form](anyathārūpa) [with-results](phalaiḥ) [distress](kleśaḥ) [unceasingly](aniśaṃ) [would-be](bhavet)
 
 ## mukta-m0-p155-v3867
-[those-various-deity-names](tattaddaivatanāmāni) [in-māyā-womb](māyāgarbhe) [should-write](samālikhet)
+[of-each-deity](tattaddaivata) [names](nāmāni) [in-māyā+womb](māyāgarbhe) [one-should-write](samālikhet)
 
 ## mukta-m0-p155-v3868
-[should-place](sthāpayet) [in-houses](veśmasu) [somewhere](kkāpi) [always](nityaśaḥ) [and](ca) [api](api) [there](tatra) [vai](vai)
+[one-should-place](sthāpayet) [in-houses](veśmasu) [anywhere](kkāpi) [daily](nityaśaḥ) [and](ca) [also](api) [there](tatra) [indeed](vai)
 
 ## mukta-m0-p155-v3869
-[that-house-auspiciousness](tadveśmamaṅgalaṃ) [in-village-city-marketplace-etc](grāmapurakharvaṭakādiṣu)
+[that-house](tadveśma) [auspicious](maṅgalaṃ) [in-village](grāma) [city](pura) [hamlet+etc.](kharvaṭakādiṣu)
 
 ## mukta-m0-p155-v3870
-[consecration-etc](pratiṣṭhādikam) [iti](iti) [remainder](śeṣaḥ)
+[consecration+etc.](pratiṣṭhādikam) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p155-v3871
-[p.586](p.) [then](tataḥ) [with-subtle](sūkṣmaiḥ) [called-supreme](parākhyaiḥ) [ca](ca) [with-offerings](homaiḥ) [accomplishment](siddhiṃ) [hear](śṛṇu) [dear](priye)
+[p.-586](p.) [586)](586)) [then](tataḥ) [with-subtle](sūkṣmaiḥ) [with-supreme](parākhyaiḥ) [and](ca) [with-oblations](homaiḥ) [accomplishment](siddhiṃ) [hear](śṛṇu) [beloved](priye)
 
 ## mukta-m0-p155-v3872
-[expressed-and-expressing-form](vācyavācakarūpaṃ) [ca](ca) [manifold](prapañcaṃ) [should-offer](juhuyāt) [thus](tathā)
+[expressed](vācya) [expressor](vācaka) [form](rūpam) [and](ca) [manifestation](prapañcaṃ) [one-should-offer](juhuyāt) [likewise](tathā)
 
 ## mukta-m0-p155-v3873
-[that-rite](tadvidhānaṃ) [speak](vada) [wise](prājña) [śambhu](śambho) [properly](samyaṅ) [my](mama) [now](adhunā)
+[that-procedure](tadvidhānaṃ) [tell](vada) [wise-one](prājña) [Śambhu](śambho) [properly](samyaṅ) [to-me](mama) [now](adhunā)
 
 ## mukta-m0-p155-v3874
-[that-form](tadrūpaṃ) [that-action](tatkriyāṃ) [all](sarvaṃ) [speak](vada) [to-me](me) [clearly](viśadaṃ) [lord](prabho)
+[its-form](tadrūpaṃ) [its-action](tatkriyāṃ) [all](sarvaṃ) [tell](vada) [to-me](me) [clearly](viśadaṃ) [lord](prabho)
 
 ## mukta-m0-p155-v3875
-[prāṇāgnihotra-vidyā](prāṇāgnihotravidyā) [iti](iti) [which](yat) [in-threefold](trayyām) [is-heard](śrūyate) [supreme](param)
+[prāṇāgnihotra+knowledge](prāṇāgnihotravidyā) [thus](iti) [which](yat) [in-triad-of-Vedas](trayyāṃ) [is-heard](śrūyate) [supreme](param)
