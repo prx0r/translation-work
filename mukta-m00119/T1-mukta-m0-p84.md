@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p84-v2076
-young-beautiful-hero-facing-tasting (taruṇaṃ) (sundaraṃ) (śūraṃ) (saṃmukhe) (rasavartinam)
+[young](taruṇaṃ) [beautiful](sundaraṃ) [heroic](śūraṃ) [facing+juice-flowing](saṃmukhe+rasavartinam)
 
 ## mukta-m0-p84-v2077
-staff-struck-spear-struck-snake-bitten-milk-nectar (yaṣṭividdhaṃ) (śūlaviddhaṃ) (sarpadaṣṭaṃ) (payomṛtam)
+[stick-struck](yaṣṭi+viddhaṃ) [spear-struck](śūla+viddhaṃ) [snake-bitten](sarpa+daṣṭaṃ) [water-dead](payaḥ+mṛtam)
 
 ## mukta-m0-p84-v2078
-quick-success-giving-goddess-above-said-eight-corpses-abandon (śīghrasiddhipradaṃ) (devi) (pūrvoktāṣṭaśavaṃ) (tyajet)
+[quick-success-giving](śīghra+siddhi+pradaṃ) [O-goddess](devi) [previously-mentioned-eight-corpses](pūrva+ukta+aṣṭa+śavaṃ) [one-should-abandon](tyajet)
 
 ## mukta-m0-p84-v2079
-as-before-tilaka-making-offering-materials-also-bring (pūrvavat) (tilakaṃ) (kṛtvā) (balidravyāṇi) (cāharet)
+[as-before](pūrvavat) [forehead-mark](tilakaṃ) [having-made](kṛtvā) [offering-substances](bali+dravyāṇi) [and](ca) [one-should-bring](āharet)
 
 ## mukta-m0-p84-v2080
-vow-such-making-offering-materials-collect (pratijñāmīdṛśīṃ) (kṛtvā) (balidravyāni) (saṃgrahet)
+[vow](pratijñām) [such](īdṛśīṃ) [having-made](kṛtvā) [offering-substances](bali+dravyāṇi) [one-should-collect](saṃgrahet)
 
 ## mukta-m0-p84-v2081
-jaggery-pudding-mixture-sweets-cakes-laddus (guḍapāyasasaṃpāto) (modakān) (pūpalaḍḍukān)
+[molasses-milk-rice-mixture](guḍa+pāyasa+saṃpātaḥ) [sweet-cakes](modakān) [cakes-and-balls](pūpa+laḍḍukān)
 
 ## mukta-m0-p84-v2082
-fruits-also-bring-goddess-betel-etc-with (phalāni) (cāhareddevi) (tāmbūlādyaiḥ) (samanvitaḥ)
+[fruits](phalāni) [and](ca) [one-should-bring](āharet) [O-goddess](devi) [with-betel-etc.](tāmbūla+ādyaiḥ) [accompanied](samanvitaḥ)
 
 ## mukta-m0-p84-v2083
-musk-saffron-etc-edible-materials-which (kastūrīkuṅkumādīni) (bhakṣyadravyāṇi) (yāni) (ca)
+[musk-saffron-etc.](kastūrī+kuṅkuma+ādīni) [edible-substances](bhakṣya+dravyāṇi) [which](yāni) [and](ca)
 
 ## mukta-m0-p84-v2084
-bilva-root-wilderness-or-empty-house-river-bank (bilvamūle) (prāntare) (vā) (śūnyāgāre) (nadītaṭe)
+[at-bilva-root](bilva+mūle) [in-wilderness](prāntare) [or](vā) [in-empty-house](śūnya+āgāre) [on-river-bank](nadī+taṭe)
 
 ## mukta-m0-p84-v2085
-ganges-womb-pond-and-love-circle-also (gaṅgāgarbhe) (taḍāge) (ca) (kāminīmaṇḍale'pi) (ca)
+[in-Ganges-womb](gaṅgā+garbhe) [in-pond](taḍāge) [and](ca) [in-women's-circle](kāminī+maṇḍale) [even](api) [and](ca)
 
 ## mukta-m0-p84-v2086
-hero-form-attaining-hero-rite-perform (vīraveṣaṃ) (samāsādya) (vīrasādhanamācaret)
+[hero-attire](vīra+veṣaṃ) [having-assumed](samāsādya) [hero-practice](vīra+sādhanam) [one-should-perform](ācaret)
 
 ## mukta-m0-p84-v2087
-one-and-half-yama-after-goddess-hero-rite-perform (sārdhayāmottaraṃ) (devi) (vīrasādhanamācaret)
+[after-one-and-a-half-watch](sārdha+yāma+uttaraṃ) [O-goddess](devi) [hero-practice](vīra+sādhanam) [one-should-perform](ācaret)
 
 ## mukta-m0-p84-v2088
-ten-directions-throw-goddess-direction-guardians-offering-bring (daśadikṣu) (kṣipeddevi) (dikpālebhyo) (baliṃ) (haret)
+[in-ten-directions](daśa+dikṣu) [one-should-throw](kṣipet) [O-goddess](devi) [to-direction-guardians](dik+pālebhyaḥ) [offering](baliṃ) [one-should-take](haret)
 
 ## mukta-m0-p84-v2089
-vidya-circle-path-great-vidya-etc-path (vidyāmaṇḍalamārgeṇa) (mahāvidyādimārgataḥ)
+[by-mantra-circle-path](vidyā+maṇḍala+mārgeṇa) [by-great-mantra-path](mahā+vidyā+ādi+mārgataḥ)
 
 ## mukta-m0-p84-v2090
-king-of-kings-lord-then-offering-carefully-give (rājarājeśvarāyā'tha) (baliṃ) (yatnena) (dāpayet)
+[to-Rajarajeshvari](rājarājeśvarāyai) [then](atha) [offering](baliṃ) [with-effort](yatnena) [one-should-give](dāpayet)
 
 ## mukta-m0-p84-v2091
-batuka-yogini-boundary-guard-ganapa-form (baṭukayoginīkṣetrapālagāṇapamūrtaye)
+[to-Batuka-Yogini-Kshetrapala-Ganapa-form](baṭuka+yoginī+kṣetrapāla+gāṇapa+mūrtaye)
 
 ## mukta-m0-p84-v2092
-offering-giving-properly-worship-hero-rite-perform (balidāne) (samabhyarcya) (vīrasādhanamācaret)
+[in-offering-giving](bali+dāne) [having-worshipped](samabhyarcya) [hero-practice](vīra+sādhanam) [one-should-perform](ācaret)
 
 ## mukta-m0-p84-v2093
-collyrium-eye-salve-oil-musk-saffron-endowed (kajjalamañjanaṃ) (tailaṃ) (kastūrīkuṅkumanvitam)
+[lampblack-ointment](kajjala+añjanaṃ) [oil](tailaṃ) [with-musk-saffron](kastūrī+kuṅkuma+anvitam)
 
 ## mukta-m0-p84-v2094
-hero-wash-carefully-with-effort-goddess (vīraṃ) (saṃkṣālya) (yatnena) (kāreṇena) (sureśvari)
+[hero](vīraṃ) [having-washed](saṃkṣālya) [with-effort](yatnena) [with-water](kāreṇena) [O-lady-of-gods](sureśvari)
 
 ## mukta-m0-p84-v2095
-giving-carefully-goddess-clove-cardamom-etc-endowed (dattvā) (yatnena) (deveśi) (lavaṅgailādisaṃyutaḥ)
+[having-given](dattvā) [with-effort](yatnena) [O-lady-of-gods](deveśi) [with-clove-cardamom-etc.](lavaṅga+ela+ādi+saṃyutaḥ)
 
 ## mukta-m0-p84-v2096
-sixteen-angled-ten-angled-or-eighteen-endowed (ṣoḍaśāṅgaṃ) (daśāṅgaṃ) (vā) (aṣṭādaśasamanvitam)
+[sixteen-part](ṣoḍaśa+aṅgaṃ) [ten-part](daśa+aṅgaṃ) [or](vā) [with-eighteen](aṣṭādaśa+samanvitam)
 
 ## mukta-m0-p84-v2097
-guggulu-iron-arrow-and-resin-and-devadaru (guggulaṃ) (lohabāṇaśca) (rālaśca) (devadārukaḥ)
+[guggul](guggulaṃ) [iron-arrow](loha+bāṇaḥ) [and](ca) [resin](rālaḥ) [and](ca) [devadaru](devadārukaḥ)
 
 ## mukta-m0-p84-v2098
-spikenard-nail-or-goddess-camphor-one-only-or (māṃsīnakhaṃ) (vā) (devi) (karpūramekameva) (vā)
+[spikenard-nakha](māṃsī+nakhaṃ) [or](vā) [O-goddess](devi) [camphor](karpūram) [one-only](ekam+eva) [or](vā)
 
 ## mukta-m0-p84-v2099
-sandal-heart-also-vidya-pair-distinction (malayodbhavasārañca) (vidyāyā) (yugmabhedataḥ)
+[Malaya-born-essence](malaya+udbhava+sāram) [and](ca) [of-mantra](vidyāyāḥ) [by-pair-division](yugma+bhedataḥ)
 
 ## mukta-m0-p84-v2100
-devadaru-incense-all-beings-destroying (devadārumayo) (dhūpaḥ) (sarvabhūtavināśakaḥ)
+[made-of-devadaru](devadāru+mayaḥ) [incense](dhūpaḥ) [all-beings-destroying](sarva+bhūta+vināśakaḥ)
