@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member indicating number of spokes"
   },
   {
    "lemma": "āraṃ",
-   "morph": "compound=āra+second",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "describes the lotus as having eight spokes"
   },
   {
    "lemma": "paṅkajaṃ",
@@ -20,22 +20,22 @@
   {
    "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "adjective qualifying lotus"
+   "grounds": "qualifies the lotus"
   },
   {
    "lemma": "prathama",
-   "morph": "compound=prathama+first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "qualifies the octad"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭaka+second",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "group adorning the lotus"
   },
   {
    "lemma": "bhūṣitam",
    "morph": "n.acc.sg",
-   "grounds": "past participle qualifying lotus"
+   "grounds": "describes the lotus as decorated"
   }
  ]
 }

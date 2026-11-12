@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭaka+second",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "second member indicating octads"
   },
   {
    "lemma": "vibhāgam",
    "morph": "m.acc.sg",
-   "grounds": "object of knowing"
+   "grounds": "object to be fully known"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "parijñātum",
-   "morph": "infinitive/parijñā",
-   "grounds": "infinitive of purpose"
+   "morph": "infinitive-root-jñā",
+   "grounds": "expresses purpose of knowing"
   },
   {
    "lemma": "anantathā",
    "morph": "(indecl.)",
-   "grounds": "manner adverb"
+   "grounds": "indicates thorough or limitless manner"
   }
  ]
 }
