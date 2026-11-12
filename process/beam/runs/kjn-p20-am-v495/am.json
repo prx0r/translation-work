@@ -1,13 +1,15 @@
 {
  "song": "kjn-p20",
  "verse": 495,
- "question": "What action was performed on the fish after it was drawn out?",
+ "question": "What actions were performed on the fish after it was drawn out?",
  "premises": [
   "The fish was drawn out",
-  "An action followed upon the fish",
-  "Its belly was split open"
+  "The belly was split open",
+  "The beloved goddess is addressed"
  ],
- "inference": "After being drawn out, the fish's belly was split open",
- "uncertainties": [],
+ "inference": "After drawing out the fish, its belly was split open.",
+ "uncertainties": [
+  "The form maccha is nonstandard for matsya"
+ ],
  "plain_english": "O beloved, having drawn out the fish, its belly was split open."
 }

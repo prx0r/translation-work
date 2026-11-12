@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-[moonstone](candra) [+gem](kāntiḥ)
+moonstone(candrakāntiḥ)
 
 ## mukta-m0-p67-v1652
-[moonstone](candrakāntiḥ) [here](iha) [sealed-own-speech](mudrita+ātma+vāk)
+moonstone(candrakāntiḥ) + here(iha) sealed+own+speech(mudrita+ātma+vāk)
 
 ## mukta-m0-p67-v1653
-[sunstone](sūrya) [+gem](kāntiḥ)
+sunstone(sūryakāntiḥ)
 
 ## mukta-m0-p67-v1654
-[sunstone](sūryakāntiḥ) [on-all-sides](abhitaḥ) [blazes](jvalati) [this](asau)
+sunstone(sūryakāntiḥ) + on-all-sides(abhitaḥ) blazes(jvalati) + this(asau)
 
 ## mukta-m0-p67-v1655
-[night-wanderer](niśā) [+female](carī)
+night-wanderer(niśācarī)
 
 ## mukta-m0-p67-v1656
-[always](sadā) [indeed](eva) [you](vaḥ) [may-she-awaken](bodhayatu) [by-own-light](sva+bhāsā)
+always(sadā) + indeed(eva) you(vas) may-awaken(bodhayatu) by-own-radiance(sva+bhāsā)
 
 ## mukta-m0-p67-v1657
-[ḍākinī](ḍākinī)
+ḍākinī(ḍākinī)
 
 ## mukta-m0-p67-v1658
-[hard-to-perceive](dur+lakṣyam) [this](eṣā) [indeed](kila) [ḍākinī](ḍākinī) [thus](iti)
+hard-to-perceive(durlakṣyam) + this(eṣā) indeed(kila) ḍākinī(ḍākinī) + thus(iti)
 
 ## mukta-m0-p67-v1659
-[śākinī](śākinī)
+śākinī(śākinī)
 
 ## mukta-m0-p67-v1660
-[she](sā) [śākinī](śākinī) [heaven-wandering-giver](nāka+vihāra+dā) [may-be](astu)
+she(sā) śākinī(śākinī) heaven+roaming+giver(nāka+vihāra+dā) + may-be(astu)
 
 ## mukta-m0-p67-v1661
-[disciple](śiṣyā)
+disciple(śiṣyā)
 
 ## mukta-m0-p67-v1662
-[of-whom](kasya) [she](sā) [also](api) [for-what-purpose](kim+artham) [indeed](nu) [disciple](śiṣyā) [become](bhūtā) [great-goddess](mahā+īśvarī)
+of-whom(kasya) she(sā) + also(api) for-what-purpose(kimartham) indeed(nu) disciple(śiṣyā) become(bhūtā) great-goddess(maheśvarī)
 
 ## mukta-m0-p67-v1663
-[hākinī](hākinī)
+hākinī(hākinī)
 
 ## mukta-m0-p67-v1664
-[as-long-as](yāvat) [compassion](dayām) [spreads](vitanute) [not](na) [indeed](hi) [hākinī](hākinī) [she](sā)
+as-long-as(yāvat) + compassion(dayām) spreads(vitanute) not(nahi) hākinī(hākinī) she(sā)
 
 ## mukta-m0-p67-v1665
-[cakravāka-female](cakra) [+vākinī](vākinī)
+cakravāka-female(cakravākinī)
 
 ## mukta-m0-p67-v1666
-[on-banks](taṭeṣu) [always](sarvadā) [therefore](tasmāt) [shines](śobhate) [cakravāka-female](cakravākinī)
+on-banks(taṭeṣu) always(sarvadā) therefore(tasmāt) + shines(śobhate) cakravāka-female(cakravākinī)
 
 ## mukta-m0-p67-v1667
-[white-and-dark-beloved](sita+asita+priyā)
+white+dark+beloved(sita+asita+priyā)
 
 ## mukta-m0-p67-v1668
-[of-blue-throated](nīla+kaṇṭhasya) [queen-of-gods](deva+īśī) [may-make](kuryāt) [acceptance](aṅgīkṛtim) [how](katham)
+of-blue-throated(nīlakaṇṭhasya) goddess-of-gods(deva+īśī) may-make(kuryāt) + acceptance(aṅgīkṛtim) how(katham)
 
 ## mukta-m0-p67-v1669
-[own-limbed](sva) [+bodied](aṅgā)
+own-bodied(svaṅgā)
 
 ## mukta-m0-p67-v1670
-[oh](aho) [great-form](mahā+mūrtiḥ) [seen](avekṣitā) [indeed](eva) [own-limbed](sva+aṅgā) [may-be](astu) [all-limbs-nourishing](sarva+aṅga+supoṣaṇīyam)
+oh(aho) great+form(mahā+mūrtiḥ) + seen(avekṣitā) + indeed(eva) own-bodied(svaṅgā) + may-be(astu) all+limbs+nourishing(sarva+aṅga+supoṣaṇīyam)
 
 ## mukta-m0-p67-v1671
-[complete](sa) [+all](kalā)
+complete(sakalā)
 
 ## mukta-m0-p67-v1672
-[complete-one](sakalā) [by-art](kalayā) [may-protect](pāyāt) [from-misfortune](apāyāt) [born-of-fear-of-time](kāla+bhīti+jāt)
+complete(sakalā) with-a-digit(kalayā) may-protect(pāyāt) + from-misfortune(apāyāt) time+fear+born(kāla+bhīti+jāt)
 
 ## mukta-m0-p67-v1673
-[forest](vana) [+goddess](devatā)
+forest-goddess(vana+devatā)
 
 ## mukta-m0-p67-v1674
-[by-forest-people](vanyaiḥ+janaiḥ) [destroyer-of-evil-kali-sins](duṣ+kali+kalmaṣa+ghnī) [proclaimed](saṃkīrtitā) [she](sā) [forest-goddess](vana+devatā) [thus](iti)
+by-forest(vaṇyaiḥ) + people(janaiḥ) + evil+kali+sin+destroying(duṣkali+kalmaṣa+ghnī) proclaimed(saṃkīrtitā) she(sā) forest-goddess(vana+devatā) + thus(iti)
 
 ## mukta-m0-p67-v1675
-[teacher](guru) [+form](rūpa) [+bearing](dharā)
+teacher+form+bearing(guru+rūpa+dharā)

@@ -3,11 +3,13 @@
  "verse": 473,
  "question": "What sacred seat is remembered by one united with sattvic yoga?",
  "premises": [
-  "The practitioner is united with yoga",
-  "The state is sattvic",
-  "The seat called Kāmākhyā is remembered"
+  "The practitioner is united with yoga and sattvic",
+  "The seat is called Kāmākhyā",
+  "That seat is remembered"
  ],
- "inference": "One united with sattvic yoga remembers the seat known as Kāmākhyā.",
- "uncertainties": [],
- "plain_english": "United with sattvic yoga, one remembers the seat known as Kāmākhyā."
+ "inference": "One united with sattvic yoga remembers the seat called Kāmākhyā.",
+ "uncertainties": [
+  "The form āsmṛtam is unusual and may reflect textual variation"
+ ],
+ "plain_english": "United with sattvic yoga, one remembers the seat called Kāmākhyā."
 }

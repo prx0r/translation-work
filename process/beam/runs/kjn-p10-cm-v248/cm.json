@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+qual",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "qualifies practice as continuous"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=abhyāsa+action",
-   "grounds": "second member of compound"
+   "morph": "compound-member",
+   "grounds": "repeated discipline"
   },
   {
    "lemma": "yogena",
    "morph": "m.inst.sg",
-   "grounds": "instrumental means"
+   "grounds": "means by which result is achieved"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+num",
-   "grounds": "first member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "first numeral in age expression"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+num",
-   "grounds": "second member of numerical compound"
+   "morph": "compound-member",
+   "grounds": "second numeral in age expression"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+measure",
-   "grounds": "third member of compound"
+   "morph": "compound-member",
+   "grounds": "unit of age"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "resulting appearance"
+   "grounds": "bodily appearance attained"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.act-opt/√bhū",
-   "grounds": "resulting state"
+   "morph": "3.sg.optative-active √bhū",
+   "grounds": "optative expressing resulting state"
   }
  ]
 }

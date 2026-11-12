@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "tvat+prasādena",
-   "morph": "compound = member+membership",
-   "grounds": "compound = tvat+prasāda; instrumental as given"
+   "morph": "compound+m.inst.sg",
+   "grounds": "instrumental compound expressing cause; internal sandhi at +"
   },
   {
    "lemma": "kauleśa",
-   "morph": "m.voc.sg",
-   "grounds": "vocative of kauleśa"
+   "morph": "compound+m.voc.sg",
+   "grounds": "vocative address; compound kaula+īśa"
   },
   {
    "lemma": "jñāto",
@@ -19,13 +19,13 @@
   },
   {
    "lemma": "ahaṃ",
-   "morph": "m.nom.sg",
+   "morph": "pron.nom.sg",
    "grounds": "first person pronoun"
   },
   {
    "lemma": "kaula+nirṇayaḥ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = kaula+nirṇaya; nominative as given"
+   "morph": "compound+m.nom.sg",
+   "grounds": "compound naming the doctrine understood; internal sandhi at +"
   }
  ]
 }

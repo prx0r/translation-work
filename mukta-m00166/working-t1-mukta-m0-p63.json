@@ -7,20 +7,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p.",
+"quick_gloss": "page"
+},
+{
+"surface": "197",
+"quick_gloss": "197"
+},
+{
 "surface": "garbha",
 "quick_gloss": "womb"
 },
 {
-"surface": "ā",
-"quick_gloss": "+"
-},
-{
-"surface": "dhāra",
+"surface": "ādhāra",
 "quick_gloss": "support"
-},
-{
-"surface": "+",
-"quick_gloss": "+"
 },
 {
 "surface": "dharā",
@@ -52,12 +52,20 @@
 "quick_gloss": "if"
 },
 {
-"surface": "kuryāt",
-"quick_gloss": "should-make"
+"surface": "kuryād",
+"quick_gloss": "should-do"
 },
 {
-"surface": "garbhādhāra+dharā",
-"quick_gloss": "womb+support+holder"
+"surface": "garbha",
+"quick_gloss": "womb"
+},
+{
+"surface": "ādhāra",
+"quick_gloss": "support"
+},
+{
+"surface": "dharā",
+"quick_gloss": "holder"
 },
 {
 "surface": "dayām",
@@ -75,18 +83,6 @@
 {
 "surface": "śūnyā",
 "quick_gloss": "empty"
-},
-{
-"surface": "śūnyā",
-"quick_gloss": "void"
-},
-{
-"surface": "śūnyā",
-"quick_gloss": "barren"
-},
-{
-"surface": "śūnyā",
-"quick_gloss": "vacant"
 }
 ]
 },
@@ -118,12 +114,16 @@
 "quick_gloss": "sung"
 },
 {
-"surface": "sadā+pūrṇā",
-"quick_gloss": "always+full"
+"surface": "sadā",
+"quick_gloss": "always"
 },
 {
-"surface": "mahā+īśvarī",
-"quick_gloss": "great+goddess"
+"surface": "pūrṇā",
+"quick_gloss": "full"
+},
+{
+"surface": "maheśvarī",
+"quick_gloss": "great-goddess"
 }
 ]
 },
@@ -139,20 +139,12 @@
 "quick_gloss": "womb"
 },
 {
-"surface": "ā",
-"quick_gloss": "+"
-},
-{
-"surface": "śaya",
+"surface": "āśayana",
 "quick_gloss": "abode"
 },
 {
-"surface": "+",
-"quick_gloss": "+"
-},
-{
 "surface": "nivāsinī",
-"quick_gloss": "dweller"
+"quick_gloss": "dwelling"
 }
 ]
 },
@@ -165,19 +157,31 @@
 "tokens": [
 {
 "surface": "garbhasya",
-"quick_gloss": "of-womb"
+"quick_gloss": "womb's"
 },
 {
-"surface": "daśa+māsu",
-"quick_gloss": "in-ten+months"
+"surface": "daśama",
+"quick_gloss": "ten"
+},
+{
+"surface": "āsu",
+"quick_gloss": "months"
 },
 {
 "surface": "eṣā",
-"quick_gloss": "this-one"
+"quick_gloss": "this"
 },
 {
-"surface": "garbhāśaya+nivāsinī",
-"quick_gloss": "womb+abode+dweller"
+"surface": "garbha",
+"quick_gloss": "womb"
+},
+{
+"surface": "āśayana",
+"quick_gloss": "abode"
+},
+{
+"surface": "nivāsinī",
+"quick_gloss": "dwelling"
 }
 ]
 },
@@ -189,20 +193,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sura+ari+ghātinī",
-"quick_gloss": "god+enemy+slayer"
+"surface": "sura",
+"quick_gloss": "god"
+},
+{
+"surface": "ari",
+"quick_gloss": "enemy"
+},
+{
+"surface": "ghātinī",
+"quick_gloss": "slaying"
 },
 {
 "surface": "kṛtyā",
-"quick_gloss": "magical-power"
-},
-{
-"surface": "kṛtyā",
-"quick_gloss": "divine"
-},
-{
-"surface": "kṛtyā",
-"quick_gloss": "act"
+"quick_gloss": "magical-act"
 }
 ]
 },
@@ -214,12 +218,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sura+ari+ghātinī",
-"quick_gloss": "god+enemy+slayer"
+"surface": "sura",
+"quick_gloss": "god"
+},
+{
+"surface": "ari",
+"quick_gloss": "enemy"
+},
+{
+"surface": "ghātinī",
+"quick_gloss": "slaying"
 },
 {
 "surface": "kṛtyā",
-"quick_gloss": "magical-power"
+"quick_gloss": "magical-act"
 },
 {
 "surface": "kṛpayā",
@@ -245,18 +257,6 @@
 {
 "surface": "pūtanā",
 "quick_gloss": "Pūtanā"
-},
-{
-"surface": "pūtanā",
-"quick_gloss": "demoness"
-},
-{
-"surface": "pūtanā",
-"quick_gloss": "purifier"
-},
-{
-"surface": "pūtanā",
-"quick_gloss": "she"
 }
 ]
 },
@@ -311,18 +311,6 @@
 {
 "surface": "tilottamā",
 "quick_gloss": "Tilottamā"
-},
-{
-"surface": "tilottamā",
-"quick_gloss": "celestial-nymph"
-},
-{
-"surface": "tilottamā",
-"quick_gloss": "best-of-sesame"
-},
-{
-"surface": "tilottamā",
-"quick_gloss": "she"
 }
 ]
 },
@@ -339,7 +327,7 @@
 },
 {
 "surface": "śivāyāḥ",
-"quick_gloss": "of-Śivā"
+"quick_gloss": "auspicious-goddess"
 },
 {
 "surface": "tu",
@@ -367,20 +355,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p.",
+"quick_gloss": "page"
+},
+{
+"surface": "198",
+"quick_gloss": "198"
+},
+{
 "surface": "lajjā",
 "quick_gloss": "modesty"
-},
-{
-"surface": "lajjā",
-"quick_gloss": "shame"
-},
-{
-"surface": "lajjā",
-"quick_gloss": "bashfulness"
-},
-{
-"surface": "lajjā",
-"quick_gloss": "humility"
 }
 ]
 },
@@ -404,8 +388,8 @@
 "quick_gloss": "I-know"
 },
 {
-"surface": "parama+īśvarī",
-"quick_gloss": "supreme+goddess"
+"surface": "parameśvarī",
+"quick_gloss": "supreme-goddess"
 },
 {
 "surface": "tvam",
@@ -423,18 +407,6 @@
 {
 "surface": "rasavatī",
 "quick_gloss": "full-of-essence"
-},
-{
-"surface": "rasavatī",
-"quick_gloss": "juicy"
-},
-{
-"surface": "rasavatī",
-"quick_gloss": "flavorful"
-},
-{
-"surface": "rasavatī",
-"quick_gloss": "charming"
 }
 ]
 },
@@ -446,8 +418,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rasa+mātra+avaśeṣaḥ",
-"quick_gloss": "essence+mere+remainder"
+"surface": "rasa",
+"quick_gloss": "essence"
+},
+{
+"surface": "mātra",
+"quick_gloss": "mere"
+},
+{
+"surface": "avaśeṣaḥ",
+"quick_gloss": "remainder"
 },
 {
 "surface": "syāt",
@@ -480,19 +460,7 @@
 "tokens": [
 {
 "surface": "nandā",
-"quick_gloss": "Nandā"
-},
-{
-"surface": "nandā",
 "quick_gloss": "joy"
-},
-{
-"surface": "nandā",
-"quick_gloss": "bliss"
-},
-{
-"surface": "nandā",
-"quick_gloss": "delight"
 }
 ]
 },
@@ -533,7 +501,7 @@
 },
 {
 "surface": "samarcitā",
-"quick_gloss": "well-worshipped"
+"quick_gloss": "worshipped"
 }
 ]
 },
@@ -547,18 +515,6 @@
 {
 "surface": "bhavānī",
 "quick_gloss": "Bhavānī"
-},
-{
-"surface": "bhavānī",
-"quick_gloss": "consort-of-Bhava"
-},
-{
-"surface": "bhavānī",
-"quick_gloss": "goddess"
-},
-{
-"surface": "bhavānī",
-"quick_gloss": "she"
 }
 ]
 },
@@ -570,20 +526,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhava",
-"quick_gloss": "become"
+"surface": "bhavat",
+"quick_gloss": "may-be"
 },
 {
 "surface": "tvaṃ",
 "quick_gloss": "you"
 },
 {
-"surface": "nava+ānanda+rāśiṃ",
-"quick_gloss": "new+bliss+heap"
+"surface": "nava",
+"quick_gloss": "new"
+},
+{
+"surface": "ānanda",
+"quick_gloss": "bliss"
+},
+{
+"surface": "rāśiṃ",
+"quick_gloss": "heap"
 },
 {
 "surface": "sucitram",
-"quick_gloss": "very-wonderful"
+"quick_gloss": "wondrous"
 }
 ]
 },
@@ -595,20 +559,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāpa+nāśinī",
-"quick_gloss": "sin+destroyer"
+"surface": "pāpa",
+"quick_gloss": "sin"
 },
 {
-"surface": "pāpa+nāśinī",
-"quick_gloss": "evil+remover"
-},
-{
-"surface": "pāpa+nāśinī",
-"quick_gloss": "purifier"
-},
-{
-"surface": "pāpa+nāśinī",
-"quick_gloss": "she"
+"surface": "nāśinī",
+"quick_gloss": "destroying"
 }
 ]
 },
@@ -625,19 +581,27 @@
 },
 {
 "surface": "śivā",
-"quick_gloss": "auspicious"
+"quick_gloss": "auspicious-goddess"
 },
 {
-"surface": "sā+iyaṃ",
-"quick_gloss": "she+this"
+"surface": "sā",
+"quick_gloss": "she"
+},
+{
+"surface": "iyaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "kīrtitā",
 "quick_gloss": "proclaimed"
 },
 {
-"surface": "pāpa+nāśinī",
-"quick_gloss": "sin+destroyer"
+"surface": "pāpa",
+"quick_gloss": "sin"
+},
+{
+"surface": "nāśinī",
+"quick_gloss": "destroying"
 }
 ]
 },
@@ -649,20 +613,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paṭṭa+ambara+dharā",
-"quick_gloss": "silk+garment+wearer"
+"surface": "p.",
+"quick_gloss": "page"
 },
 {
-"surface": "paṭṭa+ambara+dharā",
-"quick_gloss": "fine-cloth+wearer"
+"surface": "199",
+"quick_gloss": "199"
 },
 {
-"surface": "paṭṭa+ambara+dharā",
-"quick_gloss": "robed"
+"surface": "paṭṭa",
+"quick_gloss": "silk"
 },
 {
-"surface": "paṭṭa+ambara+dharā",
-"quick_gloss": "she"
+"surface": "āmbara",
+"quick_gloss": "garment"
+},
+{
+"surface": "dharā",
+"quick_gloss": "wearing"
 }
 ]
 },
@@ -674,16 +642,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nīla+utpalinī",
-"quick_gloss": "blue+lotus-plant"
+"surface": "nīla",
+"quick_gloss": "blue"
+},
+{
+"surface": "utpalinī",
+"quick_gloss": "lotus-plant"
 },
 {
 "surface": "upāsaktā",
 "quick_gloss": "devoted-to"
 },
 {
-"surface": "padminī+iva",
-"quick_gloss": "lotus-plant+like"
+"surface": "padminī",
+"quick_gloss": "lotus-plant"
+},
+{
+"surface": "iva",
+"quick_gloss": "like"
 },
 {
 "surface": "virājate",
@@ -700,19 +676,7 @@
 "tokens": [
 {
 "surface": "gītiḥ",
-"quick_gloss": "verse"
-},
-{
-"surface": "gītiḥ",
 "quick_gloss": "song"
-},
-{
-"surface": "gītiḥ",
-"quick_gloss": "meter"
-},
-{
-"surface": "gītiḥ",
-"quick_gloss": "stanza"
 }
 ]
 }

@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protective effect must follow from the preceding practice for poison not to enter the body even when bitten by great serpents?",
+ "question": "What immunity to venom is claimed for the practitioner even when bitten by great serpents?",
  "premises": [
-  "Poison does not enter the body.",
-  "This holds even if one has been bitten.",
-  "The biting is by great serpents."
+  "The practitioner may be bitten by great serpents.",
+  "Poison would normally enter the body.",
+  "Poison is said not to enter the body."
  ],
- "inference": "As a result of the practice, poison has no effect even when great serpents have bitten.",
- "uncertainties": [
-  "Causal link to specific verse not stated here"
- ],
- "plain_english": "Poison does not enter the body, even if bitten by great serpents."
+ "inference": "Through this practice, poison does not enter the body even if one is bitten by great serpents.",
+ "uncertainties": [],
+ "plain_english": "Even if bitten by great serpents, poison does not enter the body."
 }

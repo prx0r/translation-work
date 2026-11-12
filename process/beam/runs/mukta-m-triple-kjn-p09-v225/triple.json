@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral forming compound quantity with following noun",
-     "morph": "numeral.compound"
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.sg"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural indicating the vast number",
-     "morph": "n.loc.pl"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-mechanisms",
-     "grounds": "compound of yoni and yantra in locative plural",
-     "morph": "n.loc.pl (compound: yoni+yantra)"
+     "gloss": "womb-diagrams",
+     "grounds": "compound locus indicating womb-diagrams",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing those subjected to suffering",
-     "morph": "m.nom.pl.ppp (√pīḍ)"
+     "grounds": "past participle describing affected beings",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "What vast multitude of womb-mechanisms inflicts torment on beings?",
+   "question": "Under what numerical condition are beings tormented within womb-diagrams across thousands of such forms?",
    "premises": [
-    "The quantity specified is eighty-four thousand.",
-    "These thousands are womb-mechanisms.",
-    "Beings within them are tormented."
+    "Eighty-four appears as a fixed numerical count here.",
+    "Thousands mark a large set of womb-diagrams.",
+    "Beings are described as tormented within those womb-diagrams."
    ],
-   "inference": "Beings suffer torment across an immense array of eighty-four thousand womb-mechanisms.",
+   "inference": "Beings are tormented in eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The specific referent of the tormented beings is implied from context rather than stated explicitly."
+    "Exact scope of yoniyantra remains context-dependent."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
+   "plain_english": "Eighty-four thousand womb-diagrams are places in which beings are tormented."
   }
  ]
 }
