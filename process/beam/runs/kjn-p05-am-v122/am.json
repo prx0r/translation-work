@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 122,
- "question": "What yogic technique involving breath at the palate helps overcome mortality?",
+ "question": "What action is enjoined, where, and in what manner?",
  "premises": [
-  "A specific bodily location is prescribed",
-  "The breath is to be controlled",
-  "The action must be done slowly"
+  "The air is to be placed at the root of the tongue and palate.",
+  "Having made that placement, one should drink the air.",
+  "That drinking is to be done slowly."
  ],
- "inference": "One should slowly draw in the breath at the root of the tongue and palate.",
- "uncertainties": [],
- "plain_english": "Placing the breath at the root of the tongue and palate, one should drink it in slowly."
+ "inference": "Having placed the air at the root of the tongue and palate, one should drink it slowly.",
+ "uncertainties": [
+  "The purpose of drinking the air is not stated in this verse."
+ ],
+ "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it slowly."
 }

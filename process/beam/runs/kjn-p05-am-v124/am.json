@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to venom results from mastery of this yogic practice?",
+ "question": "What claim is being made about poison entering the body even under the condition of being bitten by great serpents?",
  "premises": [
-  "A bite by great serpents is considered",
-  "Poison normally enters the body",
-  "In this case poison does not enter"
+  "Poison is the subject.",
+  "It does not enter the body.",
+  "This holds even if one has been bitten by great serpents."
  ],
- "inference": "Through this practice, poison does not enter the body even when bitten by great serpents.",
- "uncertainties": [],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "inference": "Poison is claimed not to enter the body, even if one has been bitten by great serpents.",
+ "uncertainties": [
+  "The reason for this immunity is not stated in this verse."
+ ],
+ "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }

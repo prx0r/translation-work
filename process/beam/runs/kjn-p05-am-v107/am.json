@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 107,
- "question": "What supreme qualities define the true nature of that soul?",
+ "question": "What positive attributes are being claimed for that which is designated here as the referent?",
  "premises": [
-  "The soul is identified as supreme",
-  "The soul is partless and eternal",
-  "The soul is free from disease and stain"
+  "A single referent is designated.",
+  "That referent is supreme and partless.",
+  "That referent is eternal, free from ill, and free from stain."
  ],
- "inference": "The soul's true nature is supreme, partless, eternal, and untainted.",
- "uncertainties": [],
- "plain_english": "He is supreme, partless, eternal, free from disease, and stainless."
+ "inference": "The referent is claimed to be supreme, partless, eternal, free from ill, and free from stain.",
+ "uncertainties": [
+  "The grammatical relation of these attributes to a predicate is not fully explicit here."
+ ],
+ "plain_english": "He is the supreme, partless, eternal one, free from ill and free from stain."
 }

@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "dhyāyeccandramidaṃ",
-   "morph": "3.sg.opt.act (dhyai) + m.acc.sg + n.acc.sg",
-   "grounds": "optative verb with object candra and demonstrative fused"
+   "morph": "3.sg.opt.act (dhyai) + noun.acc.sg.m + pron.acc.sg.n",
+   "grounds": "optative verb with object indicating this moon"
   },
   {
    "lemma": "devi",
-   "morph": "f.voc.sg",
+   "morph": "noun.voc.sg.f",
    "grounds": "vocative address"
   },
   {
    "lemma": "nābhimūrdhni",
-   "morph": "n.loc.dual, compound",
-   "grounds": "locative dual compound indicating two locations"
+   "morph": "noun.loc.sg.f + noun.loc.sg.n",
+   "grounds": "locative compound indicating bodily locations"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction adding another location"
+   "grounds": "conjunction connecting locations"
   },
   {
    "lemma": "hṛdgatam",
-   "morph": "m.acc.sg, compound",
-   "grounds": "compound: hṛd+gata describing location in the heart"
+   "morph": "ppp.acc.sg.m + compound",
+   "grounds": "compound describing presence in the heart"
   }
  ]
 }
