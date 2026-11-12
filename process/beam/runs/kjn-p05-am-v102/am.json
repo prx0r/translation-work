@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "Under what conditions may this teaching be given to a previously accomplished person?",
+ "question": "What qualification must a previously accomplished person meet before a certain thing may be given to them for a full year of testing?",
  "premises": [
-  "The teaching is to be given.",
-  "The recipient must be previously accomplished.",
-  "The recipient must be tested for one year."
+  "Something is marked as to be given.",
+  "The recipient is one who was previously accomplished.",
+  "That recipient must have been tested for one year."
  ],
- "inference": "This teaching may be transmitted only to a previously accomplished person who has been tested for one year.",
- "uncertainties": [],
- "plain_english": "It should be given to one who is already accomplished and has been tested for one year."
+ "inference": "Only a previously accomplished person tested for one year is fit to receive what is designated for giving.",
+ "uncertainties": [
+  "The identity of the thing to be given is not specified."
+ ],
+ "plain_english": "What is to be given should go to one previously accomplished and tested for one year."
 }

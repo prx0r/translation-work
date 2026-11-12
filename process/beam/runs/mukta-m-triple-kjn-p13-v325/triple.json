@@ -13,38 +13,36 @@
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive expressing prior cognition leading to the result",
-     "morph": "gerund of jñā"
+     "grounds": "absolutive expressing prior act of cognition",
+     "morph": "(indecl., absolutive, √jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound object denoting a concealed essential reality",
-     "morph": "compound m.acc.sg"
+     "grounds": "compound object of knowing; gūḍha qualifies sadbhāva",
+     "morph": "m.acc.sg, compound: gūḍha+modifier, sadbhāva+head"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun denoting the state of omniscience",
+     "grounds": "state that arises as the result",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb indicating the emergence or manifestation of a state",
-     "morph": "3.sg.pres.pass of pra-jan"
+     "grounds": "main verb denoting the emergence of omniscience",
+     "morph": "3.sg.present.middle, √jan with pra-"
     }
    ],
-   "question": "What state arises from knowing that hidden true nature?",
+   "question": "What state arises from knowing the hidden true nature?",
    "premises": [
-    "There is a hidden true nature to be known",
-    "Knowing that hidden true nature is possible",
-    "A specific state arises as a result of such knowing"
+    "A hidden true nature can be known.",
+    "Knowing that hidden true nature is a transformative act.",
+    "All-knowingness arises as a result of such knowing."
    ],
-   "inference": "Knowing that hidden true nature gives rise to all-knowingness",
-   "uncertainties": [
-    "The exact referent of taṃ depends on the preceding context"
-   ],
+   "inference": "Knowing the hidden true nature gives rise to all-knowingness.",
+   "uncertainties": [],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
  ]

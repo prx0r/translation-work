@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 341,
- "question": "Which hostile and disobedient persons must be excluded from receiving the teaching?",
+ "question": "Which hostile behaviors make a person unworthy to receive the teaching?",
  "premises": [
-  "Hostility toward the yoginis is a disqualifying trait",
+  "Hostility toward the yoginis is disqualifying",
   "Transgression of the guru's command is disqualifying",
   "Such a person is identified as unfit"
  ],
- "inference": "One hostile to the yoginis and transgressing the guru's command must be excluded.",
- "uncertainties": [],
- "plain_english": "And to one hostile to the yoginis, who transgresses the guru's command."
+ "inference": "One hostile to the yoginis and who transgresses the guru's command must not receive it",
+ "uncertainties": [
+  "The negative injunction is implied from context rather than stated explicitly"
+ ],
+ "plain_english": "To one hostile to the yoginis and who transgresses the guru's command."
 }

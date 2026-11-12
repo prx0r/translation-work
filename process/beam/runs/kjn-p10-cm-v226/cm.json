@@ -4,17 +4,17 @@
  "rows": [
   {
    "lemma": "bhukti",
-   "morph": "compound=bhukti+co-member",
+   "morph": "compound",
    "grounds": "first member of compound with mukti"
   },
   {
    "lemma": "mukti",
-   "morph": "compound=mukti+co-member",
+   "morph": "compound",
    "grounds": "second member of compound with mahā-siddhiḥ"
   },
   {
    "lemma": "mahā",
-   "morph": "compound=mahā+qualifier",
+   "morph": "compound",
    "grounds": "first member of compound qualifying siddhiḥ"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "optative expressing possible result"
+   "morph": "3.sg.optative-act √bhū",
+   "grounds": "optative expressing potential result"
   }
  ]
 }

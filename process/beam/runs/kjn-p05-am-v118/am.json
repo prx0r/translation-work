@@ -1,13 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 118,
- "question": "What transformation of the body is claimed after the veil of ignorance has been struck down?",
+ "question": "What condition of the speaker's body is lamented as being struck by a veil of ignorance at the present time?",
  "premises": [
-  "The speaker refers to the present moment.",
-  "The body is described as pure.",
-  "Previously it was struck by the veil of ignorance."
+  "The time indicated is today.",
+  "The speaker refers to their own body.",
+  "That body is described as pure.",
+  "That pure body is said to be struck by a veil of ignorance."
  ],
- "inference": "The speaker claims that the body is now pure, having been freed from the veil of ignorance.",
- "uncertainties": [],
- "plain_english": "Today my body is pure, having been struck free from the veil of ignorance."
+ "inference": "Today, the speaker's pure body is struck by a veil of ignorance.",
+ "uncertainties": [
+  "The tone of lament is inferable but not grammatically marked."
+ ],
+ "plain_english": "Today my pure body is struck by a veil of ignorance."
 }
