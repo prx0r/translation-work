@@ -1,13 +1,15 @@
 {
  "song": "kjn-p04",
  "verse": 94,
- "question": "What specific petal counts are named among the chakras in this system?",
+ "question": "What additional petal counts are attributed to the cakras in this enumeration?",
  "premises": [
-  "A sixteen-petaled chakra is named",
-  "A hundred-petaled chakra is named",
-  "A crore-petaled chakra is named"
+  "A sixteen-petalled form is named",
+  "A hundred-petalled form is named",
+  "A crore-petalled form is named"
  ],
- "inference": "The chakra system includes forms with sixteen, hundred, and countless petals",
- "uncertainties": [],
- "plain_english": "There are also the sixteen-petalled, the hundred-petalled, and the crore-petalled."
+ "inference": "The cakras are also described as sixteen-petalled, hundred-petalled, and crore-petalled",
+ "uncertainties": [
+  "The syntactic role of yathaiva is somewhat compressed in this enumeration"
+ ],
+ "plain_english": "They are also sixteen-petalled, hundred-petalled, and likewise crore-petalled."
 }

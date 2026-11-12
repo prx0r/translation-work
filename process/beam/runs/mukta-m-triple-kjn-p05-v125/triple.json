@@ -7,7 +7,7 @@
     {
      "surface": "chedyamāno",
      "gloss": "being-cut",
-     "grounds": "present passive participle form as given",
+     "grounds": "passive present participle form as given",
      "morph": "m.nom.sg"
     },
     {
@@ -25,14 +25,14 @@
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "fused form tad+gata as given; internal fusion noted",
-     "morph": "compound = tad+gata"
+     "grounds": "fused compound form as given; internal fusion noted, not split",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-on-that",
-     "grounds": "fused form tan+manas as given; internal fusion noted",
-     "morph": "compound = tan+manas"
+     "grounds": "fused compound form as given; internal fusion noted, not split",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "yathā",
@@ -41,17 +41,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How can a mind fixed on that object remain uncut even when the body is being severed?",
+   "question": "What claim about the fate of one whose mind is fixed on that must hold for cutting to fail to sever it?",
    "premises": [
-    "The body may be in the process of being cut apart.",
-    "A mind fixed on that object is oriented away from bodily injury.",
-    "That orientation prevents the cutting from affecting the mind itself."
+    "One whose mind is fixed on that remains directed toward it.",
+    "A blow directed at the body does not reach what lies beyond that fixation.",
+    "The effect of cutting fails to take hold when attention is fully absorbed elsewhere."
    ],
-   "inference": "A mind gone to that object is not severed even as the body undergoes cutting.",
+   "inference": "Cutting cannot sever one whose mind is gone to that, just as a blow misses its mark under such absorption.",
    "uncertainties": [
-    "Extent of separation between mind and body remains unspecified."
+    "Extent of absorption required for the effect to fail is not specified."
    ],
-   "plain_english": "Just as one whose mind is fixed on that object is not cut, even when the body is being cut."
+   "plain_english": "Even if one is being cut, one whose mind is fixed on that is not cut, just so."
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 403,
- "question": "What preparatory act of establishing an abode is added?",
+ "question": "What preparatory act of establishing an abode is enjoined?",
  "premises": [
-  "An action of making is completed first",
+  "An action of making is performed",
   "The object made is an abode",
-  "The act is added by conjunction"
+  "The act is added to prior instructions"
  ],
- "inference": "Making an abode is included as a preparatory step",
- "uncertainties": [],
+ "inference": "One must also make an abode as a preparatory act.",
+ "uncertainties": [
+  "The specific kind of abode is not specified in this unit."
+ ],
  "plain_english": "And having made an abode."
 }
