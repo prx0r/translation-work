@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral form as given",
-     "morph": "indecl."
+     "grounds": "numeral element forming a compound with the following noun",
+     "morph": "compound:numeral"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative plural of numeral compound as given",
-     "morph": "m.loc.pl"
+     "grounds": "locative plural indicating the vast number",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "locative plural of fused compound as given",
-     "morph": "n.loc.pl"
+     "gloss": "in-womb-mechanisms",
+     "grounds": "compound of yoni (womb/source) and yantra (mechanism/device) in locative plural",
+     "morph": "compound:yoni+yantra:n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle form as given",
-     "morph": "m.nom.pl"
+     "grounds": "past passive participle describing those subjected to affliction",
+     "morph": "m.nom.pl.ppp:pīḍ"
     }
    ],
-   "question": "By what numerical scope is the claim made that certain beings endure torment within womb-diagrams?",
+   "question": "Within what vast multitude of womb-mechanisms are beings subjected to torment?",
    "premises": [
-    "A count of eighty-four is specified for the relevant units.",
-    "Those units are located among thousands of womb-diagrams.",
-    "Beings within those units are described as tormented."
+    "The number involved is eighty-four thousand.",
+    "These are womb-mechanisms or sources of birth.",
+    "Beings within them are tormented."
    ],
-   "inference": "Torment is assigned to beings situated within eighty-four thousand womb-diagrams.",
+   "inference": "Beings suffer affliction across an immense array of eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The identity of the beings remains unspecified by this verse alone."
+    "The exact referent of the tormented beings is implied from context rather than stated in this verse."
    ],
-   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }

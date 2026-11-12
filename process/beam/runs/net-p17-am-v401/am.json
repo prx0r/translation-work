@@ -1,13 +1,15 @@
 {
  "song": "net-p17",
  "verse": 401,
- "question": "What prior determination has already been established regarding the matter at hand?",
+ "question": "On what prior basis is the stated conclusion already established?",
  "premises": [
-  "The matter has been decided.",
-  "This decision was made earlier.",
-  "No new determination is required now."
+  "A conclusion is declared settled",
+  "The matter is identified as this",
+  "Its determination occurred earlier"
  ],
- "inference": "The point under discussion stands as already settled beforehand.",
- "uncertainties": [],
+ "inference": "The point under discussion rests on a previously established determination.",
+ "uncertainties": [
+  "The specific earlier passage or argument is not named"
+ ],
  "plain_english": "And this has already been decided before."
 }

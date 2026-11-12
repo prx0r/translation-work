@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "koṭiliṅgaṃ",
-"quick_gloss": "million-liṅga"
+"quick_gloss": "million+liṅga"
 },
 {
 "surface": "tato",
@@ -16,11 +16,11 @@
 },
 {
 "surface": "vīkṣet",
-"quick_gloss": "should-behold"
+"quick_gloss": "one-should-behold"
 },
 {
-"surface": "prāpayet",
-"quick_gloss": "should-obtain"
+"surface": "prāpayed",
+"quick_gloss": "one-would-obtain"
 },
 {
 "surface": "āmarīṃ",
@@ -40,28 +40,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "koṭiliṅgaṃ",
-"quick_gloss": "million-liṅga"
-},
-{
-"surface": "tu",
-"quick_gloss": "indeed"
+"surface": "koṭiliṅgantu",
+"quick_gloss": "million+liṅga"
 },
 {
 "surface": "yaḥ",
 "quick_gloss": "who"
 },
 {
-"surface": "paśyet",
-"quick_gloss": "should-see"
+"surface": "paśyed",
+"quick_gloss": "would-see"
 },
 {
-"surface": "vājapeya+phalaṃ",
-"quick_gloss": "vājapeya-sacrifice+fruit"
+"surface": "vājapeyaphalaṃ",
+"quick_gloss": "vājapeya+sacrifice+fruit"
 },
 {
 "surface": "labhet",
-"quick_gloss": "should-obtain"
+"quick_gloss": "would-obtain"
 }
 ]
 },
@@ -78,11 +74,11 @@
 },
 {
 "surface": "sahasraśīrṣāya",
-"quick_gloss": "thousand-headed-one"
+"quick_gloss": "thousand+headed-one"
 },
 {
 "surface": "koṭiliṅga",
-"quick_gloss": "million-liṅga"
+"quick_gloss": "million+liṅga"
 },
 {
 "surface": "namaḥ",
@@ -110,12 +106,12 @@
 "quick_gloss": "obeisance"
 },
 {
-"surface": "yajña+adhipataye",
+"surface": "yajñādhipataye",
 "quick_gloss": "sacrifice+lord"
 },
 {
 "surface": "koṭiliṅga",
-"quick_gloss": "million-liṅga"
+"quick_gloss": "million+liṅga"
 },
 {
 "surface": "namaḥ",
@@ -139,12 +135,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāyasaṃ",
+"surface": "pāyasañca",
 "quick_gloss": "milk-rice"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "baliṃ",
@@ -160,11 +152,11 @@
 },
 {
 "surface": "japtvā",
-"quick_gloss": "having-chanted"
+"quick_gloss": "having-muttered"
 },
 {
 "surface": "visarjayet",
-"quick_gloss": "should-dismiss"
+"quick_gloss": "one-should-dismiss"
 }
 ]
 },
@@ -185,19 +177,15 @@
 },
 {
 "surface": "mahādevaṃ",
-"quick_gloss": "great-god"
+"quick_gloss": "great+god"
 },
 {
 "surface": "vāme",
 "quick_gloss": "on-left"
 },
 {
-"surface": "viṣṇu",
-"quick_gloss": "viṣṇu"
-},
-{
-"surface": "dvikarṇakam",
-"quick_gloss": "two-eared"
+"surface": "viṣṇudvikarṇakam",
+"quick_gloss": "viṣṇu+two-eared"
 }
 ]
 },
@@ -209,7 +197,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dharma+kāma+artha+mokṣāya",
+"surface": "dharmakāmārthamokṣāya",
 "quick_gloss": "dharma+kāma+artha+mokṣa"
 },
 {
@@ -247,11 +235,11 @@
 },
 {
 "surface": "viśveśa",
-"quick_gloss": "lord-of-universe"
+"quick_gloss": "lord+of-universe"
 },
 {
-"surface": "brahma+rūpa",
-"quick_gloss": "brahmā-form"
+"surface": "brahmarūpa",
+"quick_gloss": "brahmā+form"
 },
 {
 "surface": "namaḥ",
@@ -275,20 +263,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma+yoniṃ",
+"surface": "brahmayoniṃ",
 "quick_gloss": "brahmā+womb"
-},
-{
-"surface": "viśet",
-"quick_gloss": "should-enter"
 },
 {
 "surface": "yaḥ",
 "quick_gloss": "who"
 },
 {
+"surface": "viśed",
+"quick_gloss": "would-enter"
+},
+{
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "then"
 },
 {
 "surface": "na",
@@ -304,7 +292,7 @@
 },
 {
 "surface": "āviśet",
-"quick_gloss": "should-enter"
+"quick_gloss": "would-enter"
 }
 ]
 },
@@ -316,7 +304,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiva+vallabha+deśe",
+"surface": "śivavallabhadeśe",
 "quick_gloss": "śiva+beloved+place"
 },
 {
@@ -324,7 +312,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mokṣa+mārga+nirodhake",
+"surface": "mokṣamārganirodhake",
 "quick_gloss": "liberation+path+obstructing"
 }
 ]
@@ -337,15 +325,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niḥsṛtaḥ",
+"surface": "niḥsṛto",
 "quick_gloss": "gone-forth"
 },
 {
-"surface": "brahma+yoneḥ",
+"surface": "brahmayoneḥ",
 "quick_gloss": "from-brahmā+womb"
 },
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "he"
 },
 {
@@ -370,7 +358,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "namaḥ",
+"surface": "namo",
 "quick_gloss": "obeisance"
 },
 {
@@ -386,7 +374,7 @@
 "quick_gloss": "of-gods"
 },
 {
-"surface": "iṣṭa+dāyaka",
+"surface": "iṣṭadāyaka",
 "quick_gloss": "desired+giver"
 }
 ]
@@ -403,20 +391,28 @@
 "quick_gloss": "then"
 },
 {
-"surface": "gacchet",
-"quick_gloss": "should-go"
+"surface": "gacchen",
+"quick_gloss": "one-should-go"
 },
 {
-"surface": "mukti+mārgaṃ",
+"surface": "muktimārgaṃ",
 "quick_gloss": "liberation+path"
 },
 {
-"surface": "śakrasya",
+"surface": "śakrasyā",
 "quick_gloss": "of-indra"
 },
 {
 "surface": "abhimukhe",
 "quick_gloss": "facing"
+},
+{
+"surface": "mukho",
+"quick_gloss": "facing"
+},
+{
+"surface": "yathā",
+"quick_gloss": "as"
 },
 {
 "surface": "yadi",
@@ -436,12 +432,8 @@
 "quick_gloss": "above"
 },
 {
-"surface": "kṛtayugaṃ",
-"quick_gloss": "kṛta-age"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "kṛtayugañca",
+"quick_gloss": "kṛta+yuga"
 },
 {
 "surface": "eva",
@@ -449,7 +441,7 @@
 },
 {
 "surface": "pārśve",
-"quick_gloss": "at-side"
+"quick_gloss": "on-side"
 },
 {
 "surface": "tretā",
@@ -474,14 +466,14 @@
 "tokens": [
 {
 "surface": "taṃ",
-"quick_gloss": "him"
+"quick_gloss": "that"
 },
 {
 "surface": "praṇamya",
 "quick_gloss": "having-bowed"
 },
 {
-"surface": "naraḥ",
+"surface": "naro",
 "quick_gloss": "man"
 },
 {
@@ -489,8 +481,8 @@
 "quick_gloss": "with-devotion"
 },
 {
-"surface": "prāpnuyāt",
-"quick_gloss": "should-obtain"
+"surface": "prāpnuyād",
+"quick_gloss": "would-obtain"
 },
 {
 "surface": "aiśvaraṃ",
@@ -526,8 +518,8 @@
 "quick_gloss": "in-womb"
 },
 {
-"surface": "yuga+doṣaiḥ",
-"quick_gloss": "by-age+faults"
+"surface": "yugadoṣair",
+"quick_gloss": "by-yuga+faults"
 },
 {
 "surface": "na",
@@ -535,7 +527,7 @@
 },
 {
 "surface": "lipyate",
-"quick_gloss": "is-tainted"
+"quick_gloss": "is-stained"
 }
 ]
 },
@@ -548,7 +540,7 @@
 "tokens": [
 {
 "surface": "tadyuge",
-"quick_gloss": "in-that-age"
+"quick_gloss": "in-that+yuga"
 },
 {
 "surface": "yat",
@@ -571,8 +563,12 @@
 "quick_gloss": "you"
 },
 {
+"surface": "māṃ",
+"quick_gloss": "me"
+},
+{
 "surface": "parameśvara",
-"quick_gloss": "supreme-lord"
+"quick_gloss": "supreme+lord"
 }
 ]
 },
@@ -585,7 +581,11 @@
 "tokens": [
 {
 "surface": "yadyuge",
-"quick_gloss": "in-which-age"
+"quick_gloss": "in-which+yuga"
+},
+{
+"surface": "tad-",
+"quick_gloss": "that"
 },
 {
 "surface": "yat",
@@ -600,7 +600,7 @@
 "quick_gloss": "sin"
 },
 {
-"surface": "tat",
+"surface": "tad",
 "quick_gloss": "that"
 },
 {
@@ -621,15 +621,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hetu+bhūtaḥ",
+"surface": "hetubhūta",
+"quick_gloss": "cause+become"
+},
+{
+"surface": "-taḥ",
 "quick_gloss": "cause+become"
 },
 {
 "surface": "kṛtādīnāṃ",
-"quick_gloss": "of-kṛta-etc."
+"quick_gloss": "of-kṛta+and-others"
 },
 {
-"surface": "satya+dharma",
+"surface": "satyadharma",
 "quick_gloss": "true+dharma"
 },
 {
@@ -695,7 +699,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rājasūya+aśvamedhasya",
+"surface": "rājasūyāśvamedhasya",
 "quick_gloss": "of-rājasūya+aśvamedha"
 },
 {
@@ -707,8 +711,8 @@
 "quick_gloss": "fruit"
 },
 {
-"surface": "prāpnuyāt",
-"quick_gloss": "should-obtain"
+"surface": "prāpnuyān",
+"quick_gloss": "would-obtain"
 },
 {
 "surface": "naraḥ",
@@ -733,11 +737,11 @@
 },
 {
 "surface": "brāhmaṇān",
-"quick_gloss": "brāhmaṇas"
+"quick_gloss": "brāhmaṇs"
 },
 {
 "surface": "bhojayet",
-"quick_gloss": "should-feed"
+"quick_gloss": "one-should-feed"
 },
 {
 "surface": "tataḥ",
@@ -753,7 +757,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhenu+rūpeṇa",
+"surface": "dhenurūpeṇa",
 "quick_gloss": "in-cow+form"
 },
 {
@@ -786,7 +790,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tulā+puruṣa+dānena",
+"surface": "tulāpuruṣadānena",
 "quick_gloss": "by-balance+man+gift"
 },
 {
@@ -820,7 +824,7 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "should-give"
+"quick_gloss": "one-should-give"
 },
 {
 "surface": "savitre",
@@ -832,7 +836,7 @@
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "should-offer"
+"quick_gloss": "one-should-offer"
 }
 ]
 }

@@ -1,15 +1,15 @@
 {
  "song": "net-p17",
  "verse": 419,
- "question": "How did the contributions of others lead to the author illuminating this present work?",
+ "question": "How did the actions of others lead to the author illuminating this work?",
  "premises": [
-  "Others did something for the author.",
-  "This occurred prior to the present illumination.",
-  "The author illumined this work."
+  "Others did something for the speaker",
+  "This was subsequently illumined",
+  "The speaker is the agent of illumination"
  ],
- "inference": "Prompted by what others did for him, the author illumined this work.",
+ "inference": "Prompted by what others did for him, the speaker illumined this work.",
  "uncertainties": [
-  "The exact nature of what others did is unspecified."
+  "The specific contribution made by others is unspecified"
  ],
  "plain_english": "They did something for me; then this was illumined by me."
 }
