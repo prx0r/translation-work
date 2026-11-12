@@ -8,15 +8,11 @@
 "tokens": [
 {
 "surface": "sapiṇḍīkaraṇaṃ",
-"quick_gloss": "sapiṇḍīkaraṇa"
+"quick_gloss": "sapiṇḍīkaraṇaṃ"
 },
 {
-"surface": "na",
+"surface": "nāsti",
 "quick_gloss": "not"
-},
-{
-"surface": "asti",
-"quick_gloss": "exists"
 },
 {
 "surface": "na",
@@ -27,7 +23,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "pārvaṇaṃ",
+"surface": "pārvaṇam",
 "quick_gloss": "pārvaṇa-rite"
 },
 {
@@ -52,8 +48,12 @@
 "quick_gloss": "place"
 },
 {
-"surface": "viviktaṃ+ca",
-"quick_gloss": "and+secluded"
+"surface": "viviktañ",
+"quick_gloss": "and-secluded"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "gomayena",
@@ -73,8 +73,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śamanīya+grahe",
-"quick_gloss": "in-pacifying+planet"
+"surface": "śamanīya",
+"quick_gloss": "in-pacifying"
+},
+{
+"surface": "grahe",
+"quick_gloss": "planet"
 },
 {
 "surface": "devi",
@@ -103,11 +107,11 @@
 },
 {
 "surface": "śrāddheṣu",
-"quick_gloss": "in-śrāddha-rites"
+"quick_gloss": "at-śrāddhas"
 },
 {
-"surface": "kāma+bhṛt",
-"quick_gloss": "desire+granting"
+"surface": "kāmabhṛd",
+"quick_gloss": "wish-granting"
 },
 {
 "surface": "api",
@@ -152,7 +156,7 @@
 },
 {
 "surface": "hetu+vistaram",
-"quick_gloss": "reason+expansion"
+"quick_gloss": "reason+detail"
 }
 ]
 },
@@ -210,14 +214,14 @@
 },
 {
 "surface": "ca+ārambhe",
-"quick_gloss": "and+at-beginning"
+"quick_gloss": "and-at-beginning"
 },
 {
 "surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "śrāddhaṃ",
+"surface": "śrāddhañ",
 "quick_gloss": "śrāddha"
 },
 {
@@ -246,7 +250,7 @@
 "quick_gloss": "exists"
 },
 {
-"surface": "śyāmapakṣe",
+"surface": "śyāma+pakṣe",
 "quick_gloss": "in-dark-fortnight"
 },
 {
@@ -272,7 +276,7 @@
 "tokens": [
 {
 "surface": "cakra+tīrthe",
-"quick_gloss": "at-cakra+tīrtha"
+"quick_gloss": "at-Cakra-tīrtha"
 },
 {
 "surface": "naraḥ",
@@ -283,12 +287,12 @@
 "quick_gloss": "having-bathed"
 },
 {
-"surface": "sarva+pāpāt",
-"quick_gloss": "from-all+sins"
+"surface": "sarva+pāpād",
+"quick_gloss": "from-all-sins"
 },
 {
 "surface": "vimucyate",
-"quick_gloss": "is-released"
+"quick_gloss": "is-liberated"
 }
 ]
 },
@@ -326,7 +330,7 @@
 "tokens": [
 {
 "surface": "brahma+kuṇḍam",
-"quick_gloss": "brahma+kuṇḍa"
+"quick_gloss": "Brahma-kuṇḍa"
 },
 {
 "surface": "iti",
@@ -351,7 +355,7 @@
 "tokens": [
 {
 "surface": "brahma+kuṇḍe",
-"quick_gloss": "in-brahma+kuṇḍa"
+"quick_gloss": "in-Brahma-kuṇḍa"
 },
 {
 "surface": "naraḥ",
@@ -371,7 +375,7 @@
 },
 {
 "surface": "tat+kṣaṇāt",
-"quick_gloss": "at-that+moment"
+"quick_gloss": "at-that-moment"
 }
 ]
 },
@@ -396,7 +400,7 @@
 },
 {
 "surface": "deva+dānavāḥ",
-"quick_gloss": "gods+and+demons"
+"quick_gloss": "gods+and-demons"
 }
 ]
 },
@@ -421,7 +425,7 @@
 },
 {
 "surface": "brahma+kuṇḍasya",
-"quick_gloss": "of-brahma+kuṇḍa"
+"quick_gloss": "of-Brahma-kuṇḍa"
 },
 {
 "surface": "sundari",
@@ -491,8 +495,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tīrtha+rāja+saraḥ",
-"quick_gloss": "tīrtha+king+lake"
+"surface": "tīrtharāja+saraḥ",
+"quick_gloss": "Tīrtharāja+lake"
 },
 {
 "surface": "puṇyaṃ",
@@ -520,16 +524,8 @@
 "quick_gloss": "all+tīrthas"
 },
 {
-"surface": "tāni",
-"quick_gloss": "those"
-},
-{
-"surface": "sarvāṇi",
-"quick_gloss": "all"
-},
-{
-"surface": "tīrtha+rāje",
-"quick_gloss": "in-tīrtha+king"
+"surface": "tīrtharāje",
+"quick_gloss": "in-Tīrtharāja"
 },
 {
 "surface": "suniścitam",
@@ -547,10 +543,6 @@
 {
 "surface": "tasmāt",
 "quick_gloss": "therefore"
-},
-{
-"surface": "tathā",
-"quick_gloss": "thus"
 },
 {
 "surface": "samasta+tīrtheṣu",
@@ -582,15 +574,15 @@
 "quick_gloss": "by-bathing"
 },
 {
-"surface": "tīrtha+rājasya",
-"quick_gloss": "of-tīrtha+king"
+"surface": "tīrtharājasya",
+"quick_gloss": "of-Tīrtharāja"
 },
 {
 "surface": "tathā",
 "quick_gloss": "likewise"
 },
 {
-"surface": "sarva+agha+saṃkṣayaḥ",
+"surface": "sarva+āgha+saṃkṣayaḥ",
 "quick_gloss": "all+sin+destruction"
 }
 ]
@@ -636,7 +628,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tisraḥ",
+"surface": "tisro",
 "quick_gloss": "three"
 },
 {
@@ -661,7 +653,7 @@
 },
 {
 "surface": "santi",
-"quick_gloss": "exist"
+"quick_gloss": "are"
 },
 {
 "surface": "vai",
@@ -715,7 +707,7 @@
 "tokens": [
 {
 "surface": "tri+janmanaḥ",
-"quick_gloss": "of-three+births"
+"quick_gloss": "of-three-births"
 },
 {
 "surface": "ca",
@@ -752,7 +744,7 @@
 "tokens": [
 {
 "surface": "pūjayet",
-"quick_gloss": "should-worship"
+"quick_gloss": "one-should-worship"
 },
 {
 "surface": "parayā",
@@ -768,7 +760,7 @@
 },
 {
 "surface": "anena",
-"quick_gloss": "by-this"
+"quick_gloss": "with-this"
 },
 {
 "surface": "bhāvini",

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[bathing+time](snānakāle) [to-be-used](prayojyāni) [goddess+pleasure+causing](devīprītikarāṇi) [and](ca)
+[at-bathing-time](snānakāle) [to-be-used](prayojyāni) [goddess-pleasure-causing](devī+prītikarāṇi) [and](ca)
 
 ## mukta-m0-p90-v2227
-[to-the-goddess](bhagavatyai) [man](naro) [with-devotion](bhaktyā) [in-viṣṇu's-world](viṣṇuloke) [is-honored](mahīyate)
+[to-the-goddess](bhagavatyai) [man](naraḥ) [with-devotion](bhaktyā) [in-viṣṇu's-world](viṣṇuloke) [is-honored](mahīyate)
 
 ## mukta-m0-p90-v2228
-[he](sa) [goes](gacchati) [supreme](paraṃ) [place](sthānaṃ) [where](yatra) [kāmeśvarī](kāmeśvarī) [is-situated](sthitā)
+[he](saḥ) [goes](gacchati) [to-supreme](paraṃ) [abode](sthānaṃ) [where](yatra) [kāmeśvarī](kāmeśvarī) [is-situated](sthitā)
 
 ## mukta-m0-p90-v2229
-[one-should-bathe](snapayed) [according-to-rule](vidhivad) [with-devotion](bhaktyā) [its](tasya) [merit+fruit](puṇyaphalaṃ) [hear](śṛṇu)
+[one-should-bathe](snapayet) [according-to-rule](vidhivat) [with-devotion](bhaktyā) [of-that](tasya) [merit-fruit](puṇya+phalaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p90-v2230
-[of-pañcāmṛta](pañcāmṛtasya) [each](pratyekaṃ) [of-fruits](phalānāñ) [and](ca) [hundred](śataṃ) [hundred](śatam)
+[of-pañcāmṛta](pañcāmṛtasya) [each](pratyekaṃ) [and-of-fruits](phalānāñ+ca) [hundred](śataṃ) [hundred](śatam)
 
 ## mukta-m0-p90-v2231
-[of-waters](apāṃ) [with-hundred+pots](kumbhaśatena) [indeed](eva) [of-oil](tailasya) [also](api) [with-three](tribhiḥ) [palas](palaiḥ)
+[with-water](apāṃ) [by-hundred-pots](kumbha+śatena) [indeed](eva) [and-of-oil](tailasya+api) [with-three](tribhiḥ) [palas](palaiḥ)
 
 ## mukta-m0-p90-v2232
-[middle](madhyam) [but](antu) [by-its-half](tadardhena) [bathing](snānaṃ) [where](yatra) [is-prescribed](vidhīyate)
+[middle](madhyamam) [but](tu) [by-half-of-that](tat+ardhena) [bathing](snānaṃ) [where](yatra) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p90-v2233
-[thus](evaṃ) [who](yaḥ) [causes-to-perform](kārayet) [bathing](snānaṃ) [man](naraḥ) [someone](kaścit) [ever](kadācana)
+[thus](evaṃ) [who](yaḥ) [causes-to-perform](kārayet) [bathing](snānaṃ) [man](naraḥ) [anyone](kaścit) [ever](kadācana)
 
 ## mukta-m0-p90-v2234
-[life](āyur) [strength](balaṃ) [fame](yaśo) [splendor](varcaḥ) [good-fortune](saubhāgyaṃ) [nourishment](puṣṭir) [indeed](eva) [and](ca)
+[life](āyuḥ) [strength](balaṃ) [fame](yaśaḥ) [splendor](varcaḥ) [good-fortune](saubhāgyaṃ) [nourishment](puṣṭiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p90-v2235
-[thus](evaṃ) [who](yas) [but](tu) [great+bathing](mahāsnānaṃ) [performs](karoti) [devoted](bhaktimān) [man](naraḥ)
+[thus](evaṃ) [who](yaḥ) [but](tu) [great-bathing](mahā+snānaṃ) [performs](karoti) [devout](bhaktimān) [man](naraḥ)
 
 ## mukta-m0-p90-v2236
-[with-ten+tolika+measure](daśatolikamānena) [of-substances](dravyāṇāñ) [and](ca) [separately](pṛthak) [separately](pṛthak)
+[by-ten-tolikā-measure](daśa+tolika+mānena) [and-of-substances](dravyāṇāñ+ca) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p90-v2237
-[eight+finger](aṣṭāṅgulaṃ) [mouth](mukhaṃ) [its](tasya) [twenty-one+finger+belly](ekaviṃśāṅgulodaram)
+[eight-fingers](aṣṭa+aṅgulaṃ) [mouth](mukhaṃ) [of-that](tasya) [twenty-one-fingers-belly](ekaviṃśa+aṅgula+udaram)
 
 ## mukta-m0-p90-v2238
-[sun+ray](sūryaraśmis) [but](tu) [writing-reed](lekhikā)
+[sun-ray](sūrya+raśmiḥ) [but](tu) [measuring-line](lekhikā)
 
 ## mukta-m0-p90-v2239
 [of-mustard-seeds](sarpaṣāṇāṃ) [by-four](catuṣkeṇa) [raktikā](raktikā) [thus](iti) [is-called](abhidhīyate)
 
 ## mukta-m0-p90-v2240
-[tolikā](tolikā) [and](ca) [by-four+pādas](catuṣpādaiś) [by-four+tolas](catustolaiḥ) [prasṛti](prasṛtitaḥ)
+[tolikā](tolikā) [and](ca) [by-four-pādas](catuḥ+pādaiḥ) [by-four-tolās](catuḥ+tolaiḥ) [prasṛti](prasṛtitaḥ)
 
 ## mukta-m0-p90-v2241
-[by-half+pala](palārdhena) [should-be](bhavet) [mukti](muktir) [two+muktis](dvimuktī) [guḍaka](guḍakaṃ) [is-considered](matam)
+[by-half-pala](pala+ardhena) [becomes](bhavet) [mukti](muktiḥ) [two-muktis](dvi+muktī) [guḍaka](guḍakaṃ) [is-considered](matam)
 
 ## mukta-m0-p90-v2242
-[with-sandalwood](candanena) [fragrant](sugandhena) [should-make](kārayaṃs) [tilaka](tilakaṃ) [wise-one](sudhīḥ)
+[with-sandalwood](candanena) [fragrant](sugandhena) [should-make](kārayet) [tilaka-mark](tilakaṃ) [wise-one](sudhīḥ)
 
 ## mukta-m0-p90-v2243
-[peacock+feather+resembling](mayūrapicchasaṅkāśāṃ) [smooth+beautiful+good-haired](snigdhacārusukeśikām)
+[peacock-feather-resembling](mayūra+piccha+saṅkāśāṃ) [smooth-beautiful-haired](snigdha+cāru+su+keśikām)
 
 ## mukta-m0-p90-v2244
-[which](yac) [and](ca) [indeed](vai) [red](lohitaṃ) [and](ca) [its](asya) [face](āsyaṃ) [very-red+collyrium+splendor](suraktakajjalaprabham)
+[and-which](yat+ca) [indeed](vai) [red](lohitaṃ) [and-face](ca+āsyaṃ) [very-red-collyrium-luster](su+rakta+kajjala+prabham)
 
 ## mukta-m0-p90-v2245
-[terrible](karālaṃ) [which](yat) [but](tu) [indeed](vai) [face](vaktraṃ) [black](kṛṣṇaṃ) [south+direction](dakṣiṇagocaram)
+[terrible](karālaṃ) [which](yat) [but](tu) [indeed](vai) [face](vaktraṃ) [black](kṛṣṇaṃ) [in-southern-direction](dakṣiṇa+gocaram)
 
 ## mukta-m0-p90-v2246
-[all+siddhi+giving](sarvasiddhipradañ) [and](ca) [indeed](eva) [of-all+purpose](sarvārthasya) [and](ca) [accomplishing](sādhakam)
+[all-siddhi-giving](sarva+siddhi+pradam) [and](ca) [indeed](eva) [of-all-purposes](sarva+arthasya) [and](ca) [accomplishing](sādhakam)
 
 ## mukta-m0-p90-v2247
-[kubera+abode](kauverīnilayaṃ) [which](yac) [and](ca) [face](vadanaṃ) [dark](śyāmalaṃ) [auspicious](śivam)
+[kubera-abode](kauverī+nilayaṃ) [which](yat) [and](ca) [face](vadanaṃ) [dark](śyāmalaṃ) [auspicious](śivam)
 
 ## mukta-m0-p90-v2248
-[unmanifest](avyaktaṃ) [lovely](ruciraṃ) [divine](divyaṃ) [kuñjikā+face+best](kuñjikāvadanottamam)
+[unmanifest](avyaktaṃ) [beautiful](ruciraṃ) [divine](divyaṃ) [kuñjikā-face-best](kuñjikā+vadana+uttamam)
 
 ## mukta-m0-p90-v2249
-[pure+crystal+resembling](śuddhasphaṭikasaṅkāśaṃ) [all+jewel+endowed](sarvaratnasamanvitam)
+[pure-crystal-resembling](śuddha+sphaṭika+saṅkāśaṃ) [all-jewels-endowed](sarva+ratna+samanvitam)
 
 ## mukta-m0-p90-v2250
-[with-constant+color](sadāraṅgena) [by-bee](bhṛṅgena) [drunk](nipītaṃ) [honey+collection](madhusañcayam)
+[with-ever-delighting](sadā+raṅgena) [with-bee](bhṛṅgena) [drunk](nipītaṃ) [honey-collection](madhu+sañcayam)

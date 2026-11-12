@@ -1,13 +1,15 @@
 {
  "song": "kjn-p06",
  "verse": 132,
- "question": "Which chapter concludes in the context of the emergence from the moon island?",
+ "question": "Which chapter concludes as having issued forth from the moon island?",
  "premises": [
-  "The context is the emergence from the moon island",
-  "A chapter is being identified",
-  "It is designated as the sixth"
+  "The text refers to a chapter",
+  "It is identified as the sixth chapter",
+  "It is said to have issued forth from the moon island"
  ],
- "inference": "The sixth chapter concludes with the emergence from the moon island",
- "uncertainties": [],
- "plain_english": "Thus ends the sixth chapter, in the emergence from the moon island."
+ "inference": "The sixth chapter, issued forth from the moon island, concludes here.",
+ "uncertainties": [
+  "candra-dvīpa may be a proper name or symbolic location"
+ ],
+ "plain_english": "The sixth chapter, issued forth from the Moon Island, is concluded."
 }

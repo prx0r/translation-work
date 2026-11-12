@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound=balī+palita",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "palita",
-   "morph": "compound=balī+palita",
+   "morph": "compound-member",
    "grounds": "second member of compound"
   },
   {
    "lemma": "nirmuktaḥ",
    "morph": "m.nom.sg",
-   "grounds": "state of liberation"
+   "grounds": "describes resulting state"
   },
   {
    "lemma": "sarva",
-   "morph": "compound=sarva+vyādhi",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "qualifies diseases"
   },
   {
    "lemma": "vyādhi",
-   "morph": "compound=sarva+vyādhi",
+   "morph": "compound-member",
    "grounds": "second member of compound"
   },
   {
    "lemma": "vivarjitaḥ",
    "morph": "m.nom.sg",
-   "grounds": "state of being free"
+   "grounds": "describes resulting state"
   }
  ]
 }

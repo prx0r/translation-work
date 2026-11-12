@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protection is stated for one bitten by great serpents, with respect to poison entering the body?",
+ "question": "Under what concession is poison said not to enter the body?",
  "premises": [
-  "A person may be bitten by great serpents.",
-  "Even in that condition, poison does not enter the body.",
-  "The negation applies to the action of poison entering."
+  "Poison is the subject of negation.",
+  "The negation is that it does not enter the body.",
+  "This holds even if one has been bitten by great serpents."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "inference": "Even if bitten by great serpents, poison does not enter the body of the person in question.",
  "uncertainties": [
-  "Basis of this protection not specified in this verse"
+  "The verse implies a prior condition on that person, but that condition is not stated here."
  ],
  "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
 }
