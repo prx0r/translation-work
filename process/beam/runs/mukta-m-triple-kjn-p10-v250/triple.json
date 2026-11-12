@@ -7,57 +7,57 @@
     {
      "surface": "ṣaṣṭhaṃ",
      "gloss": "sixth",
-     "grounds": "ordinal referring to the sixth wheel",
+     "grounds": "ordinal numeral qualifying cakraṃ",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "connective particle",
+     "grounds": "particle marking continuation or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "object of the described configuration",
+     "grounds": "primary object being described",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rājānam",
      "gloss": "king",
-     "grounds": "designation of the presiding deity",
+     "grounds": "appositive epithet qualifying cakraṃ",
      "morph": "m.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral modifying petals",
-     "morph": "(indecl.)"
+     "grounds": "numeral specifying petal count in compound",
+     "morph": "compound-member"
     },
     {
      "surface": "patra",
-     "gloss": "petaled",
-     "grounds": "qualifier of the wheel",
-     "morph": "n.nom.sg"
+     "gloss": "petal",
+     "grounds": "second member of compound describing cakraṃ",
+     "morph": "compound-member"
     },
     {
      "surface": "sakarṇikam",
      "gloss": "with-pericarp",
-     "grounds": "qualifier describing the petaled wheel",
+     "grounds": "adjective qualifying cakraṃ as possessing a pericarp",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What specific configuration of the sixth wheel is said to pertain to the king in this description?",
+   "question": "What specific form and attributes characterize the sixth cakra?",
    "premises": [
-    "The sixth wheel is designated in relation to a king.",
-    "That wheel is described as having eight petals.",
-    "That wheel is further described as having a pericarp."
+    "The sixth cakra is identified as royal.",
+    "The sixth cakra has eight petals.",
+    "The sixth cakra possesses a pericarp."
    ],
-   "inference": "The sixth wheel associated with the king is an eight-petaled wheel with a pericarp.",
+   "inference": "The sixth cakra is a royal eight-petaled wheel with a pericarp.",
    "uncertainties": [
-    "The precise functional role of the pericarp remains unspecified by this verse alone."
+    "The exact sense of rājānam as an epithet for the cakra is contextually implied."
    ],
-   "plain_english": "The sixth wheel is the king's wheel, with eight petals and a pericarp."
+   "plain_english": "And the sixth cakra is the royal one, having eight petals and a pericarp."
   }
  ]
 }
