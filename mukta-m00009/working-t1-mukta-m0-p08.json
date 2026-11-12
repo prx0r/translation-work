@@ -11,8 +11,8 @@
 "quick_gloss": "various"
 },
 {
-"surface": "pariṇāmaiḥ",
-"quick_gloss": "by-transformations"
+"surface": "pariṇāmaiḥ+",
+"quick_gloss": "transformations"
 },
 {
 "surface": "taiḥ",
@@ -23,8 +23,12 @@
 "quick_gloss": "creates"
 },
 {
-"surface": "śiva+īritaḥ",
+"surface": "śiva+",
 "quick_gloss": "impelled-by-Śiva"
+},
+{
+"surface": "īritaḥ",
+"quick_gloss": "impelled"
 }
 ]
 },
@@ -57,7 +61,7 @@
 },
 {
 "surface": "svayam",
-"quick_gloss": "itself"
+"quick_gloss": "by-itself"
 }
 ]
 },
@@ -70,7 +74,7 @@
 "tokens": [
 {
 "surface": "bindunā",
-"quick_gloss": "by-bindu"
+"quick_gloss": "by-the-bindu"
 },
 {
 "surface": "vyāpyate",
@@ -82,7 +86,7 @@
 },
 {
 "surface": "asau",
-"quick_gloss": "this"
+"quick_gloss": "that"
 },
 {
 "surface": "ṣaḍvidhaḥ",
@@ -93,8 +97,12 @@
 "quick_gloss": "path"
 },
 {
-"surface": "kalā+ādikaḥ",
+"surface": "kalā+",
 "quick_gloss": "beginning-with-kalā"
+},
+{
+"surface": "ādikaḥ",
+"quick_gloss": "beginning-with"
 }
 ]
 },
@@ -107,11 +115,11 @@
 "tokens": [
 {
 "surface": "binduṃ",
-"quick_gloss": "bindu"
+"quick_gloss": "to-the-bindu"
 },
 {
 "surface": "gamayati",
-"quick_gloss": "causes-to-go"
+"quick_gloss": "leads"
 },
 {
 "surface": "iti",
@@ -140,7 +148,7 @@
 },
 {
 "surface": "binduḥ",
-"quick_gloss": "bindu"
+"quick_gloss": "the-bindu"
 },
 {
 "surface": "samavaiti",
@@ -165,7 +173,7 @@
 "tokens": [
 {
 "surface": "vyatiriktā",
-"quick_gloss": "as-different"
+"quick_gloss": "as-separate"
 },
 {
 "surface": "iti",
@@ -201,8 +209,16 @@
 "quick_gloss": "in-Śiva"
 },
 {
-"surface": "jñāna+kriyā+ātmike",
-"quick_gloss": "consisting-of-knowledge-and-action"
+"surface": "jñāna+",
+"quick_gloss": "of-knowledge-and-action-nature"
+},
+{
+"surface": "kriyā+",
+"quick_gloss": "action"
+},
+{
+"surface": "ātmike",
+"quick_gloss": "nature"
 }
 ]
 },
@@ -214,8 +230,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāna+śaktyā",
+"surface": "jñāna+",
 "quick_gloss": "by-knowledge-power"
+},
+{
+"surface": "śaktyā",
+"quick_gloss": "by-power"
 },
 {
 "surface": "vijānāti",
@@ -231,7 +251,7 @@
 },
 {
 "surface": "jagat",
-"quick_gloss": "world"
+"quick_gloss": "the-world"
 }
 ]
 },
@@ -301,7 +321,7 @@
 },
 {
 "surface": "vinā",
-"quick_gloss": "vinā"
+"quick_gloss": "without"
 }
 ]
 },
@@ -313,16 +333,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "īśā+'dhika",
-"quick_gloss": "of-Īśā-and-more"
+"surface": "īśā+",
+"quick_gloss": "of-Īśa-and-more"
 },
 {
-"surface": "kriyā+śaktyoḥ",
+"surface": "adhika+",
+"quick_gloss": "more"
+},
+{
+"surface": "kriyā+",
 "quick_gloss": "of-action-powers"
 },
 {
-"surface": "vidyā+jñāna",
-"quick_gloss": "of-vidyā-and-knowledge"
+"surface": "śaktyoḥ",
+"quick_gloss": "of-powers"
+},
+{
+"surface": "vidyā+",
+"quick_gloss": "of-vidyā-knowledge"
+},
+{
+"surface": "jñāna+",
+"quick_gloss": "knowledge"
 },
 {
 "surface": "atiriktayoḥ",
@@ -338,8 +370,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jñāna+śaktyā",
+"surface": "jñāna+",
 "quick_gloss": "of-knowledge-power"
+},
+{
+"surface": "śaktyā",
+"quick_gloss": "of-power"
 },
 {
 "surface": "ādhikye",
@@ -350,8 +386,16 @@
 "quick_gloss": "even"
 },
 {
-"surface": "vidyā+tattva+ātmā",
-"quick_gloss": "consisting-of-vidyā-tattva"
+"surface": "vidyā+",
+"quick_gloss": "of-vidyā-tattva-nature"
+},
+{
+"surface": "tattva+",
+"quick_gloss": "tattva"
+},
+{
+"surface": "ātmā",
+"quick_gloss": "nature"
 }
 ]
 },
@@ -371,8 +415,12 @@
 "quick_gloss": "various"
 },
 {
-"surface": "svabhāva",
+"surface": "sva+",
 "quick_gloss": "by-own-nature"
+},
+{
+"surface": "bhāva+",
+"quick_gloss": "nature"
 },
 {
 "surface": "lalitāḥ",
@@ -401,15 +449,19 @@
 },
 {
 "surface": "śakteḥ",
-"quick_gloss": "of-power"
+"quick_gloss": "of-the-power"
 },
 {
 "surface": "ananyāyāḥ",
 "quick_gloss": "not-different"
 },
 {
-"surface": "kriyā+ātmanaḥ",
-"quick_gloss": "consisting-of-action"
+"surface": "kriyā+",
+"quick_gloss": "of-action-nature"
+},
+{
+"surface": "ātmanaḥ",
+"quick_gloss": "nature"
 }
 ]
 },
@@ -449,8 +501,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "kriyā+ātmikā",
-"quick_gloss": "consisting-of-action"
+"surface": "kriyā+",
+"quick_gloss": "of-action-nature"
+},
+{
+"surface": "ātmikā",
+"quick_gloss": "nature"
 }
 ]
 },
@@ -474,12 +530,24 @@
 "quick_gloss": "in-himself"
 },
 {
-"surface": "tattva+augham",
-"quick_gloss": "multitude-of-tattvas"
+"surface": "tattva+",
+"quick_gloss": "the-group-of-tattvas"
 },
 {
-"surface": "aneka+bhuvana+āvalim",
+"surface": "augham",
+"quick_gloss": "group"
+},
+{
+"surface": "aneka+",
 "quick_gloss": "series-of-many-worlds"
+},
+{
+"surface": "bhuvana+",
+"quick_gloss": "many"
+},
+{
+"surface": "āvalim",
+"quick_gloss": "series"
 }
 ]
 },
@@ -496,7 +564,7 @@
 },
 {
 "surface": "ākhyāyate",
-"quick_gloss": "ākhyāyate"
+"quick_gloss": "is-called"
 },
 {
 "surface": "yuktyā",
@@ -507,8 +575,12 @@
 "quick_gloss": "transforming"
 },
 {
-"surface": "pradhāna+vat",
+"surface": "pradhāna+",
 "quick_gloss": "like-pradhāna"
+},
+{
+"surface": "vat",
+"quick_gloss": "like"
 }
 ]
 },
@@ -521,7 +593,7 @@
 "tokens": [
 {
 "surface": "yathā",
-"quick_gloss": "as"
+"quick_gloss": "just-as"
 },
 {
 "surface": "kṣīraṃ",
@@ -586,8 +658,24 @@
 "quick_gloss": "of-Śiva"
 },
 {
-"surface": "anupama+akhaṇḍa+cidghana+eka+svarūpiṇaḥ",
-"quick_gloss": "of-incomparable-undivided-mass-of-consciousness"
+"surface": "anupama+",
+"quick_gloss": "of-incomparable-undivided-consciousness-mass-sole-nature"
+},
+{
+"surface": "akhaṇḍa+",
+"quick_gloss": "unbroken"
+},
+{
+"surface": "cidghana+",
+"quick_gloss": "consciousness-mass"
+},
+{
+"surface": "eka+",
+"quick_gloss": "sole"
+},
+{
+"surface": "svarūpiṇaḥ",
+"quick_gloss": "of-nature"
 }
 ]
 },
@@ -599,8 +687,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tvacetanatva+ādi+doṣa+prasaṅgāt",
-"quick_gloss": "because-of-the-consequence-of-faults"
+"surface": "tva+",
+"quick_gloss": "because-of-the-consequence-of-insentience-and-other-faults"
+},
+{
+"surface": "acetanatva+",
+"quick_gloss": "insentience"
+},
+{
+"surface": "ādi+",
+"quick_gloss": "and-other"
+},
+{
+"surface": "doṣa+",
+"quick_gloss": "fault"
+},
+{
+"surface": "prasaṅgāt",
+"quick_gloss": "because-of-the-consequence"
 }
 ]
 },
@@ -645,7 +749,7 @@
 },
 {
 "surface": "asti",
-"quick_gloss": "exists"
+"quick_gloss": "is"
 },
 {
 "surface": "ca",
@@ -665,8 +769,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhoga+mokṣa+kartṛtayā",
+"surface": "bhoga+",
 "quick_gloss": "because-of-being-agent-of-enjoyment-and-liberation"
+},
+{
+"surface": "mokṣa+",
+"quick_gloss": "liberation"
+},
+{
+"surface": "kartṛtayā",
+"quick_gloss": "agent"
 },
 {
 "surface": "devatā",
@@ -695,15 +807,23 @@
 "tokens": [
 {
 "surface": "kriyayā",
-"quick_gloss": "by-action"
+"quick_gloss": "because-of-being-cause-by-action"
 },
 {
-"surface": "hetu+bhūtatvāt",
-"quick_gloss": "because-of-being-cause"
+"surface": "hetu+",
+"quick_gloss": "cause"
 },
 {
-"surface": "kriyā+śaktiḥ",
+"surface": "bhūtatvāt",
+"quick_gloss": "because-of-being"
+},
+{
+"surface": "kriyā+",
 "quick_gloss": "action-power"
+},
+{
+"surface": "śaktiḥ",
+"quick_gloss": "power"
 },
 {
 "surface": "cit",
@@ -715,7 +835,7 @@
 },
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "because"
 }
 ]
 },
@@ -727,20 +847,36 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kriyā+hetu+bhūtatvāt",
+"surface": "kriyā+",
 "quick_gloss": "because-of-being-cause-of-action"
 },
 {
-"surface": "jñāna+śaktiḥ",
+"surface": "hetu+",
+"quick_gloss": "cause"
+},
+{
+"surface": "bhūtatvāt",
+"quick_gloss": "because-of-being"
+},
+{
+"surface": "jñāna+",
 "quick_gloss": "knowledge-power"
+},
+{
+"surface": "śaktiḥ",
+"quick_gloss": "power"
 },
 {
 "surface": "eva",
 "quick_gloss": "indeed"
 },
 {
-"surface": "kriyā+śaktiḥ",
+"surface": "kriyā+",
 "quick_gloss": "action-power"
+},
+{
+"surface": "śaktiḥ",
+"quick_gloss": "power"
 },
 {
 "surface": "ucyate",

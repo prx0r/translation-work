@@ -8,23 +8,19 @@
 "tokens": [
 {
 "surface": "vidyeśvara",
-"quick_gloss": "lords-of-knowledge"
+"quick_gloss": "knowledge-lords"
 },
 {
 "surface": "ādīnāṃ",
-"quick_gloss": "and-others"
+"quick_gloss": "and-others-of"
 },
 {
 "surface": "śāstra",
 "quick_gloss": "scripture"
 },
 {
-"surface": "avabodha",
-"quick_gloss": "comprehension"
-},
-{
-"surface": "katvāt",
-"quick_gloss": "because-of-being-cause"
+"surface": "avabodhakatvāt",
+"quick_gloss": "comprehension-due-to"
 }
 ]
 },
@@ -86,7 +82,7 @@
 },
 {
 "surface": "svarūpasya",
-"quick_gloss": "nature"
+"quick_gloss": "nature-of"
 },
 {
 "surface": "parīkṣaṇam",
@@ -98,19 +94,19 @@
 },
 {
 "surface": "siddhānta",
-"quick_gloss": "by-siddhānta"
+"quick_gloss": "doctrine"
 },
 {
 "surface": "uktaiḥ",
-"quick_gloss": "stated"
+"quick_gloss": "stated-by"
 },
 {
 "surface": "eva",
-"quick_gloss": "alone"
+"quick_gloss": "indeed"
 },
 {
 "surface": "hetubhiḥ",
-"quick_gloss": "by-reasons"
+"quick_gloss": "reasons-by"
 },
 {
 "surface": "kāryam",
@@ -150,8 +146,8 @@
 "quick_gloss": "knows"
 },
 {
-"surface": "siddhānte",
-"quick_gloss": "in-siddhānta"
+"surface": "siddhānta",
+"quick_gloss": "doctrine"
 },
 {
 "surface": "vinā",
@@ -225,7 +221,7 @@
 },
 {
 "surface": "sthān",
-"quick_gloss": "abiding"
+"quick_gloss": "situated"
 },
 {
 "surface": "āptaḥ",
@@ -233,7 +229,7 @@
 },
 {
 "surface": "cintāmaṇiḥ",
-"quick_gloss": "wish-jewel"
+"quick_gloss": "wish-fulfilling-gem"
 },
 {
 "surface": "yathā",
@@ -295,11 +291,11 @@
 },
 {
 "surface": "ādau",
-"quick_gloss": "in-beginning"
+"quick_gloss": "in-the-beginning"
 },
 {
 "surface": "nirūpyate",
-"quick_gloss": "is-explained"
+"quick_gloss": "is-examined"
 }
 ]
 },
@@ -319,16 +315,16 @@
 "quick_gloss": "bindu"
 },
 {
-"surface": "paranāda",
-"quick_gloss": "supreme-sound"
+"surface": "para",
+"quick_gloss": "supreme"
 },
 {
-"surface": "ākhyaḥ",
-"quick_gloss": "named"
+"surface": "nādākhyaḥ",
+"quick_gloss": "nāda-called"
 },
 {
 "surface": "nāda",
-"quick_gloss": "sound"
+"quick_gloss": "nāda"
 },
 {
 "surface": "bindu",
@@ -356,16 +352,24 @@
 "quick_gloss": "not-attained"
 },
 {
-"surface": "śivadhāmānaḥ",
-"quick_gloss": "śiva-abode"
+"surface": "śiva",
+"quick_gloss": "Śiva"
+},
+{
+"surface": "dhāmānaḥ",
+"quick_gloss": "abode-those-whose"
 },
 {
 "surface": "tridhā",
 "quick_gloss": "threefold"
 },
 {
-"surface": "vijñānakevalāḥ",
-"quick_gloss": "knowledge-only"
+"surface": "vijñāna",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "kevalāḥ",
+"quick_gloss": "isolated-ones"
 }
 ]
 },
@@ -377,7 +381,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sāmyāt",
+"surface": "sāḥ",
+"quick_gloss": "those"
+},
+{
+"surface": "amyāḥ",
 "quick_gloss": "equally"
 },
 {
@@ -389,8 +397,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "vijñānakevalinaḥ",
-"quick_gloss": "knowledge-only-ones"
+"surface": "vijñāna",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "kevalinaḥ",
+"quick_gloss": "isolated-ones"
 },
 {
 "surface": "bhavanti",
@@ -410,12 +422,16 @@
 "quick_gloss": "there"
 },
 {
-"surface": "vidyābhujaḥ",
-"quick_gloss": "knowledge-enjoyers"
+"surface": "vidyā",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "bhujaḥ",
+"quick_gloss": "enjoyers"
 },
 {
 "surface": "pūrve",
-"quick_gloss": "first"
+"quick_gloss": "former"
 },
 {
 "surface": "mantrāḥ",
@@ -448,11 +464,15 @@
 },
 {
 "surface": "prathame",
-"quick_gloss": "in-first"
+"quick_gloss": "in-the-first"
 },
 {
-"surface": "vidyātattva",
-"quick_gloss": "knowledge-principle"
+"surface": "vidyā",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "tattva",
+"quick_gloss": "tattva"
 },
 {
 "surface": "nivāsinaḥ",
@@ -471,8 +491,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "vidyābhujaḥ",
-"quick_gloss": "knowledge-enjoyers"
+"surface": "vidyā",
+"quick_gloss": "knowledge"
+},
+{
+"surface": "bhujaḥ",
+"quick_gloss": "enjoyers"
 },
 {
 "surface": "iti",
@@ -501,15 +525,19 @@
 },
 {
 "surface": "vāmā",
-"quick_gloss": "vāmā"
+"quick_gloss": "Vāmā"
 },
 {
 "surface": "ādīni",
 "quick_gloss": "and-others"
 },
 {
-"surface": "yathottaram",
-"quick_gloss": "in-due-order"
+"surface": "yathā",
+"quick_gloss": "as"
+},
+{
+"surface": "uttaram",
+"quick_gloss": "in-order"
 }
 ]
 },
@@ -529,8 +557,8 @@
 "quick_gloss": "activity"
 },
 {
-"surface": "adhikāritvāt",
-"quick_gloss": "because-of-authority"
+"surface": "ādhikāritvāt",
+"quick_gloss": "authority-due-to"
 }
 ]
 },
@@ -546,16 +574,24 @@
 "quick_gloss": "middle"
 },
 {
-"surface": "praśāntakaluṣāḥ",
-"quick_gloss": "pacified-impurity"
+"surface": "praśānta",
+"quick_gloss": "pacified"
+},
+{
+"surface": "kaluṣāḥ",
+"quick_gloss": "impurities"
 },
 {
 "surface": "vidyeśāḥ",
 "quick_gloss": "lords-of-knowledge"
 },
 {
-"surface": "śivatejasaḥ",
-"quick_gloss": "śiva-splendor"
+"surface": "śiva",
+"quick_gloss": "Śiva"
+},
+{
+"surface": "tejasaḥ",
+"quick_gloss": "splendor"
 }
 ]
 },
@@ -567,15 +603,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śivārka",
-"quick_gloss": "śiva-sun"
+"surface": "śiva",
+"quick_gloss": "Śiva"
+},
+{
+"surface": "arka",
+"quick_gloss": "sun"
 },
 {
 "surface": "kara",
 "quick_gloss": "ray"
 },
 {
-"surface": "saṃparka",
+"surface": "samparka",
 "quick_gloss": "contact"
 },
 {
@@ -583,8 +623,12 @@
 "quick_gloss": "blossoming"
 },
 {
-"surface": "ātmīyaśaktayaḥ",
-"quick_gloss": "own-powers"
+"surface": "ātmīya",
+"quick_gloss": "own"
+},
+{
+"surface": "śaktayaḥ",
+"quick_gloss": "powers"
 }
 ]
 },
@@ -638,7 +682,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "alone"
+"quick_gloss": "indeed"
 },
 {
 "surface": "parameśvaraḥ",
@@ -658,15 +702,23 @@
 "quick_gloss": "higher"
 },
 {
-"surface": "sadāśivasamāḥ",
-"quick_gloss": "Sadāśiva-equals"
+"surface": "sadāśiva",
+"quick_gloss": "Sadāśiva"
 },
 {
-"surface": "patikṛtya",
-"quick_gloss": "lord-activity"
+"surface": "samāḥ",
+"quick_gloss": "equal"
 },
 {
-"surface": "adhikāriṇaḥ",
+"surface": "pati",
+"quick_gloss": "lord"
+},
+{
+"surface": "kṛtya",
+"quick_gloss": "function"
+},
+{
+"surface": "ādhikāriṇaḥ",
 "quick_gloss": "authorized"
 }
 ]
@@ -680,7 +732,7 @@
 "tokens": [
 {
 "surface": "tattvam",
-"quick_gloss": "principle"
+"quick_gloss": "tattva"
 },
 {
 "surface": "eṣām",
@@ -725,15 +777,19 @@
 },
 {
 "surface": "uktaṃ",
-"quick_gloss": "said"
+"quick_gloss": "stated"
 },
 {
-"surface": "śrīmatpauṣkare",
-"quick_gloss": "in-revered-Pauṣkara"
+"surface": "śrīmat",
+"quick_gloss": "in-revered"
+},
+{
+"surface": "pauṣkare",
+"quick_gloss": "Pauṣkara"
 },
 {
 "surface": "sādhakasya",
-"quick_gloss": "of-practitioner"
+"quick_gloss": "of-the-practitioner"
 },
 {
 "surface": "tu",
@@ -741,7 +797,7 @@
 },
 {
 "surface": "lakṣyārthaṃ",
-"quick_gloss": "for-sake-of-object"
+"quick_gloss": "for-the-sake-of-aim"
 },
 {
 "surface": "tasya",
@@ -777,12 +833,8 @@
 "quick_gloss": "with-eighteen"
 },
 {
-"surface": "adhvā",
+"surface": "adhvāyam",
 "quick_gloss": "path"
-},
-{
-"surface": "ayam",
-"quick_gloss": "this"
 },
 {
 "surface": "bhuvanaiḥ",
@@ -806,20 +858,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktiśivatattvayoḥ",
-"quick_gloss": "of-śakti-tattva"
+"surface": "śakti",
+"quick_gloss": "Śakti"
+},
+{
+"surface": "śiva",
+"quick_gloss": "Śiva"
+},
+{
+"surface": "tattvayoḥ",
+"quick_gloss": "tattvas-of"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "sadāśivatattve",
-"quick_gloss": "in-sadāśiva-tattva"
+"surface": "sadāśiva",
+"quick_gloss": "Sadāśiva"
+},
+{
+"surface": "tattva",
+"quick_gloss": "tattva"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "in"
 },
 {
 "surface": "antarbhāvaḥ",
@@ -839,20 +903,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadāśivādi",
-"quick_gloss": "Sadāśiva-and-other"
+"surface": "sadāśiva",
+"quick_gloss": "Sadāśiva"
 },
 {
-"surface": "tattvaughaḥ",
-"quick_gloss": "tattva-group"
+"surface": "ādi",
+"quick_gloss": "and-other"
+},
+{
+"surface": "tattva",
+"quick_gloss": "tattva"
+},
+{
+"surface": "aughaḥ",
+"quick_gloss": "multitude"
 },
 {
 "surface": "nitya",
 "quick_gloss": "eternal"
 },
 {
-"surface": "upādānakāraṇaḥ",
-"quick_gloss": "material-cause"
+"surface": "upādāna",
+"quick_gloss": "material"
+},
+{
+"surface": "kāraṇaḥ",
+"quick_gloss": "cause"
 }
 ]
 }
