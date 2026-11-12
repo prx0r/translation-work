@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[ring-finger](anāmike) [down](adhovyatyaste) [crossed](adhovyatyaste) [index-finger](tarjanyā) [hook](avaṅkuśākṛtī) [shaped](avaṅkuśākṛtī)
+[ring-fingers](anāmike) [downward](adhaḥ) [inverted](vyatyaste) [index-fingers](tarjanyau) [hook](aṅkuśa) [shaped](ākṛtī)
 
 ## mukta-m0-p19-v452
-[little-finger](kaniṣṭhā) [thumb](aṅguṣṭha) [joined](saṃśleṣā) [great-yoni](mahāyoni) [three-part](trikhaṇḍikā)
+[little-finger](kaniṣṭhā) [thumb](aṅguṣṭha) [joining](saṃśleṣā) [great-yoni](mahāyoniḥ) [three](tri) [parted](khaṇḍikā)
 
 ## mukta-m0-p19-v453
-[bent](valitā) [upward](ūrddha) [by-union](yogena) [straight](ṛju) [index-fingers](tarjanikau) [hands](karau)
+[bent](valitau) [upward](ūrddha) [joining](yogena) [straight](ṛju) [index-fingers](tarjanikau) [hands](karau)
 
 ## mukta-m0-p19-v454
-[icon-making](mūrtīkaraṇaṃ) [of-deity](devatāyā) [as-icon](mūrtitvena) [of-own-body](svadehasya) [conception](kalpanam) [thus](ityarthaḥ) [meaning](ityarthaḥ)
+[embodiment](mūrtīkaraṇam) [of-deity](devatāyāḥ) [with-form](mūrtitvena) [of-own-body](svadehasya) [imagining](kalpanam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p19-v455
-[anger](kopapratipādikā) [indicating](kopapratipādikā) [fist](muṣṭiḥ) [indeed](eveti) [thus](eveti)
+[anger](kopa) [indicating](pratipādikā) [fist](muṣṭiḥ) [indeed](eva) [thus](iti)
 
 ## mukta-m0-p19-v456
-[icon-making](mūrttīkaraṇam) [of-this](etasyā) [by-arrangement](racanena) [declared](samīritam)
+[embodiment](mūrttīkaraṇam) [of-this](etasyāḥ) [by-formation](racanena) [declared](samīritam)
 
 ## mukta-m0-p19-v457
-[gross](sthūla) [subtle](sūkṣma) [supreme](parā) [called](ākhyātā) [that](stattraividhyaṃ) [threefold](stattraividhyaṃ) [hear](śṛṇu) [dear](priye)
+[gross](sthūla) [subtle](sūkṣma) [supreme](para) [called](ākhyātāḥ) [their](tat) [threefoldness](traividhyam) [hear](śṛṇu) [beloved](priye)
 
 ## mukta-m0-p19-v458
-[principle](tattvarūpāṇi) [forms](tattvarūpāṇi) [fingers](aṅgulayaḥ) [elements](bhūtāni) [from-thumb](aṅguṣṭhataḥ) [in-order](kramāt)
+[principle](tattva) [forms](rūpāṇi) [fingers](aṅgulayaḥ) [elements](bhūtāni) [from-thumb](aṅguṣṭhataḥ) [in-order](kramāt)
 
 ## mukta-m0-p19-v459
-[your](tava) [maya](māyā) [externalized](bahirbhūtaḥ) [your](tvatprasādādahantviti) [by-grace](tvatprasādādahantviti) [I](tvatprasādādahantviti) [indeed](tvatprasādādahantviti) [thus](tvatprasādādahantviti)
+[your](tava) [māyā](māyā) [outside](bahiḥ) [arisen](bhūtaḥ) [by-your-grace](tvatprasādāt) [I](aham) [indeed](tu) [thus](iti)
 
 ## mukta-m0-p19-v460
-[slight](svalpabhedāt) [from-difference](svalpabhedāt) [anger](kopaharṣau) [and-joy](kopaharṣau) [of-beings](prāṇināṃ) [produces](janayatyataḥ) [therefore](janayatyataḥ)
+[by-slight-difference](svalpabhedāt) [anger](kopa) [and-joy](harṣau) [of-beings](prāṇinām) [produces](janayati) [therefore](ataḥ)
 
 ## mukta-m0-p19-v461
-[worship](pūjākāle) [at-time](pūjākāle) [visible](darśanīyā) [mudras](mudrāstāḥ) [those](mudrāstāḥ) [always](sarvadā) [O-Shiva](śive)
+[at-worship-time](pūjākāle) [to-be-shown](darśanīyāḥ) [mudrās](mudrāḥ) [those](tāḥ) [always](sarvadā) [O-Śiva](śive)
 
 ## mukta-m0-p19-v462
-[knowledge](vidyā) [selfhood](ātmatā) [attainment](āpādanam)
+[knowledge](vidyā) [selfhood](ātmatā) [establishment](āpādanam)
 
 ## mukta-m0-p19-v463
-[six-limbed](ṣaḍaṅganityātārtīyairekaikaṃ) [eternal](ṣaḍaṅganityātārtīyairekaikaṃ) [thirds](ṣaḍaṅganityātārtīyairekaikaṃ) [one-by-one](ṣaḍaṅganityātārtīyairekaikaṃ) [ten](daśavārataḥ) [times](daśavārataḥ)
+[six-limb](ṣaḍaṅga) [eternal](nitya) [third](tārtīyaiḥ) [each-one](ekaikam) [ten-times](daśavārataḥ)
 
 ## mukta-m0-p19-v464
-[own-self](svātmapūjopakaraṇānyaśeṣaṃ) [worship](svātmapūjopakaraṇānyaśeṣaṃ) [implements](svātmapūjopakaraṇānyaśeṣaṃ) [all](svātmapūjopakaraṇānyaśeṣaṃ) [by-knowledge](vidyayā) [O-Shiva](śive)
+[own-self](svātma) [worship](pūjā) [implements](upakaraṇāni) [all](aśeṣam) [with-mantra](vidyayā) [O-Śiva](śive)
 
 ## mukta-m0-p19-v465
-[holding](dadhānaṃ) [Kamaraja](kāmarājāṃke) [in-lap](kāmarājāṃke) [restrained](yantritāṃ) [joyful](muditāṃ) [remember](smaret)
+[holding](dadhānam) [in-Kāmarāja's-lap](kāmarāja+aṅke) [restrained](yantritām) [delighted](muditām) [one-should-meditate](smaret)
 
 ## mukta-m0-p19-v466
-[daily](nityārcaneṣu) [in-worships](nityārcaneṣu) [everywhere](sarvatra) [stated](proktaṃ) [occasional](naimittikārcane) [in-worship](naimittikārcane)
+[in-daily-worships](nityārcaneṣu) [everywhere](sarvatra) [declared](proktam) [in-occasional-worship](naimittikārcane)
 
 ## mukta-m0-p19-v467
-[nine](navāvaraṇaśaktīnāṃ) [enclosure](navāvaraṇaśaktīnāṃ) [of-powers](navāvaraṇaśaktīnāṃ) [meditation](dhyānaṃ) [with-goddess](devyā) [equal](samaṃ) [should-be](bhavet)
+[of-nine-enclosure](navāvaraṇa) [śaktis](śaktīnām) [meditation](dhyānam) [of-goddess](devyāḥ) [equal](samam) [should-be](bhavet)
 
 ## mukta-m0-p19-v468
-[that](tatsamaṃ) [same](tatsamaṃ) [O-Parameshani](parameśāni) [circle](cakrasthānāmaśeṣataḥ) [of-places](cakrasthānāmaśeṣataḥ) [entirely](cakrasthānāmaśeṣataḥ)
+[equal-to-that](tatsamam) [O-Supreme-Lady](parameśāni) [of-those-in-cakra](cakrasthānām) [entirely](aśeṣataḥ)
 
 ## mukta-m0-p19-v469
-[daily](nityanaimittikārcanayordhyātavyetyarthaḥ) [occasional](nityanaimittikārcanayordhyātavyetyarthaḥ) [of-worships](nityanaimittikārcanayordhyātavyetyarthaḥ) [to-be-meditated](nityanaimittikārcanayordhyātavyetyarthaḥ) [thus](nityanaimittikārcanayordhyātavyetyarthaḥ) [meaning](nityanaimittikārcanayordhyātavyetyarthaḥ)
+[in-daily](nitya) [and-occasional-worships](naimittikārcanayoḥ) [to-be-meditated](dhyātavyā) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p19-v470
-[that](tatheśitvaṃ) [lordship](tatheśitvaṃ) [control](vaśittvaṃ) [and](ca) [desire](prākāmyā) [enjoyment](bhuktisaṃyutā) [joined](bhuktisaṃyutā)
+[and](tathā) [lordship](īśitvam) [subjugation](vaśittvam) [and](ca) [irresistible-will](prākāmyā) [with-enjoyment](bhukti+saṃyutā)
 
 ## mukta-m0-p19-v471
-[seed](bījadvayādyāḥ) [two](bījadvayādyāḥ) [beginning](bījadvayādyāḥ) [accomplished](siddhyantāḥ) [seven-syllabled](saptākṣaryā) [and](ca) [joined](saṃyutāḥ)
+[two-seeds](bīja+dvaya) [beginning-with](ādyāḥ) [ending-with-siddhi](siddhi+antāḥ) [seven-syllabled](saptākṣaryā) [and](ca) [joined](saṃyutāḥ)
 
 ## mukta-m0-p19-v472
-[Varahi](vārāhī) [and](ca) [then](tathendrāṇī) [Indrani](tathendrāṇī) [Camunda](cāmuṇḍā) [that](tadanantaram) [after](tadanantaram)
+[Vārāhī](vārāhī) [and](ca) [and](tathā) [Indrāṇī](indrāṇī) [Cāmuṇḍā](cāmuṇḍā) [after-that](tadanantaram)
 
 ## mukta-m0-p19-v473
-[these](etāścāṣṭau) [and](etāścāṣṭau) [eight](etāścāṣṭau) [that](taddvayādyāḥ) [two](taddvayādyāḥ) [beginning](taddvayādyāḥ) [seven-syllabled-end](saptākṣaryantagāḥ) [going](saptākṣaryantagāḥ) [in-order](kramāt)
+[these](etāḥ) [and](ca) [eight](aṣṭau) [with-those-two](taddvaya) [beginning-with](ādyāḥ) [ending-with-seven-syllables](saptākṣari+antagāḥ) [in-order](kramāt)
 
 ## mukta-m0-p19-v474
-[clockwise](prādakṣiṇyena) [those](tāḥ) [all](sarvāḥ) [should-worship](pūjayetprathamāvṛtau) [first](pūjayetprathamāvṛtau) [circuit](pūjayetprathamāvṛtau)
+[clockwise](prādakṣiṇyena) [them](tāḥ) [all](sarvāḥ) [one-should-worship](pūjayet) [in-first-enclosure](prathama+āvṛtau)
 
 ## mukta-m0-p19-v475
-[form](rūpaṃ) [taste](rasaṃ) [and](tathā) [smell](gandhaṃ) [mind](cittaṃ) [steadiness](dhairyaṃ) [memory](smṛtiṃ) [and](tathā)
+[form](rūpam) [taste](rasam) [and](tathā) [smell](gandham) [mind](cittam) [firmness](dhairyam) [memory](smṛtim) [and](tathā)

@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound-member",
-   "grounds": "first member of compound indicating eight spokes"
+   "morph": "compound=aṣṭa+first-member",
+   "grounds": "first member of compound with āraṃ"
   },
   {
    "lemma": "āraṃ",
-   "morph": "compound-member",
-   "grounds": "second member of compound qualifying paṅkajaṃ"
+   "morph": "compound=āra+second-member",
+   "grounds": "second member of compound describing paṅkajaṃ"
   },
   {
    "lemma": "paṅkajaṃ",
    "morph": "n.acc.sg",
-   "grounds": "object of contemplation described by adjectives"
+   "grounds": "object of contemplation"
   },
   {
    "lemma": "divyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "adjective qualifying paṅkajaṃ"
+   "grounds": "qualifier of paṅkajaṃ"
   },
   {
    "lemma": "prathama",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying aṣṭaka"
+   "morph": "compound=prathama+first-member",
+   "grounds": "first member of compound with aṣṭaka"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound-member",
-   "grounds": "second member of compound indicating adornment"
+   "morph": "compound=aṣṭaka+second-member",
+   "grounds": "second member of compound with bhūṣitam"
   },
   {
    "lemma": "bhūṣitam",
-   "morph": "n.acc.sg.perf-part/√bhūṣ",
-   "grounds": "past participle describing paṅkajaṃ"
+   "morph": "n.acc.sg",
+   "grounds": "participle describing paṅkajaṃ"
   }
  ]
 }

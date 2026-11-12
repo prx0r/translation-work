@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying sthānaṃ"
+   "morph": "compound=guhya+first-member",
+   "grounds": "first member of compound with sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "subject described as cakraṃ"
+   "grounds": "subject described as the wheel"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable introducing manner"
+   "grounds": "particle introducing comparison or manner"
   },
   {
    "lemma": "cakraṃ",
@@ -25,12 +25,12 @@
   {
    "lemma": "kṣipraṃ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb modifying sidhyati"
+   "grounds": "adverb modifying sidhyati"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.act-pres/√sidh",
-   "grounds": "main verb expressing attainment"
+   "morph": "3.sg.act-present √sidh",
+   "grounds": "main verb stating the result"
   },
   {
    "lemma": "bhairava",

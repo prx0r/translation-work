@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound-member",
-   "grounds": "first member of compound paired with palita"
+   "morph": "compound=balī+first-member",
+   "grounds": "first member of compound with palita"
   },
   {
    "lemma": "palita",
-   "morph": "compound-member",
-   "grounds": "second member of compound qualifying nāśam"
+   "morph": "compound=palita+second-member",
+   "grounds": "second member of compound with nāśam"
   },
   {
    "lemma": "nāśam",
@@ -20,12 +20,12 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle connecting items"
+   "grounds": "particle connecting attainments"
   },
   {
    "lemma": "sudūrāt",
    "morph": "(indecl.)",
-   "grounds": "ablative adverbial indicating distance"
+   "grounds": "ablative indicating distance of perception"
   },
   {
    "lemma": "darśanam",
@@ -35,7 +35,7 @@
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating addition"
+   "grounds": "connective linking attainments"
   }
  ]
 }
