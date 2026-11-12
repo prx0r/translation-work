@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.mid-pres/√kṛ",
-   "grounds": "present verb stating ability"
+   "morph": "3.sg.present-middle √kṛ",
+   "grounds": "main verb"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "adverb modifying rūpaṃ"
+   "grounds": "manner adverb"
   },
   {
    "lemma": "rūpaṃ",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing mind state"
+   "morph": "compound=dhyāna+eka+gata+cetasaḥ",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "eka",
-   "morph": "compound-member",
-   "grounds": "second member of compound describing mind state"
+   "morph": "compound=dhyāna+eka+gata+cetasaḥ",
+   "grounds": "member of compound"
   },
   {
    "lemma": "gata",
-   "morph": "compound-member",
-   "grounds": "third member of compound describing mind state"
+   "morph": "compound=dhyāna+eka+gata+cetasaḥ",
+   "grounds": "member of compound"
   },
   {
    "lemma": "cetasaḥ",
-   "morph": "n.gen.sg",
-   "grounds": "possessive relation to the practitioner"
+   "morph": "compound=dhyāna+eka+gata+cetasaḥ",
+   "grounds": "possessor in compound"
   }
  ]
 }

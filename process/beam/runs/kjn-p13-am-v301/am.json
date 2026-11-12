@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 301,
- "question": "What enduring quality makes this reality beloved of the yoginīs?",
+ "question": "What qualities characterize the practice or reality dear to the yoginīs?",
  "premises": [
   "It possesses splendor equal to the rising sun",
   "It exists eternally",
   "It is dear to the yoginīs"
  ],
- "inference": "The eternally radiant reality is cherished by the yoginīs",
- "uncertainties": [],
- "plain_english": "Eternally radiant like the rising sun, it is indeed dear to the yoginīs."
+ "inference": "The reality dear to the yoginīs is eternally radiant like the rising sun",
+ "uncertainties": [
+  "The syntactic role of the accusatives depends on a verb or noun in surrounding context"
+ ],
+ "plain_english": "It is eternally radiant like the rising sun and indeed dear to the yoginīs."
 }

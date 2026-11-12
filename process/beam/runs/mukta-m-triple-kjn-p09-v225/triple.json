@@ -7,39 +7,40 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral compound indicating the number eighty-four",
-     "morph": "compound numeral (catur+aśīti)"
+     "grounds": "numeral referring to count",
+     "morph": "indecl."
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural expressing location within thousands",
-     "morph": "n.loc.pl"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound of yoni (womb/source) and yantra (diagram/device) in locative plural",
-     "morph": "compound n.loc.pl (yoni+yantra)"
+     "gloss": "womb-diagrams",
+     "grounds": "locative plural of compound referring to womb-mechanisms",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing those subjected to affliction",
-     "morph": "m.nom.pl past-passive-participle (√pīḍ)"
+     "grounds": "past passive participle describing afflicted beings",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "In what condition are beings situated within the eighty-four thousand womb-diagrams?",
+   "question": "By what count and in what setting are certain beings held to suffer torment according to this claim?",
    "premises": [
-    "There exist eighty-four thousand womb-diagrams.",
-    "Beings are located within these womb-diagrams.",
-    "These beings are described as tormented."
+    "A count of eighty-four is specified here.",
+    "That count applies to thousands of womb-diagrams.",
+    "Beings within those womb-diagrams are said to be tormented."
    ],
-   "inference": "Beings within the eighty-four thousand womb-diagrams are in a state of torment.",
+   "inference": "Torment is ascribed to beings located in eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The specific subjects who are tormented are not explicitly named in this verse and rely on prior context."
+    "The identity of the tormented beings remains unspecified.",
+    "The nature of the torment is not indicated here."
    ],
-   "plain_english": "They are tormented within the eighty-four thousand womb-diagrams."
+   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
   }
  ]
 }

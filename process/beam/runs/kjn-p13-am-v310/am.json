@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 310,
- "question": "What discernment between clan and non-clan is required of the fair one?",
+ "question": "What distinction must be known regarding clan and non-clan in relation to the goddess?",
  "premises": [
-  "Both non-clan and clan must be known",
-  "The clan of the goddess is emphasized",
-  "This knowledge is addressed to the fair one"
+  "Non-clan and clan must be known",
+  "The clan of the goddess is mentioned",
+  "The fair one is addressed"
  ],
- "inference": "One must discern non-clan and clan, recognizing the goddess's clan",
- "uncertainties": [],
- "plain_english": "O fair one, having known both non-clan and clan, know the clan of the Goddess."
+ "inference": "One must know both non-clan and clan, including the clan of the goddess",
+ "uncertainties": [
+  "The syntactic role of the second occurrence of kulaṃ is ambiguous without further context"
+ ],
+ "plain_english": "O fair one, having known non-clan and clan, and the clan of the goddess."
 }
