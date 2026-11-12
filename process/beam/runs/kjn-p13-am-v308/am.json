@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 308,
- "question": "What fifth and sixth forms are identified in the address to the goddess?",
+ "question": "Which fifth and sixth forms are named in this enumeration to the goddess?",
  "premises": [
-  "The fifth is identified as independence",
-  "The sixth is identified as the lord of heroes",
-  "The goddess is addressed directly"
+  "The goddess is addressed",
+  "A fifth form is named as independence",
+  "A sixth form is named as hero-lord"
  ],
- "inference": "The sequence continues with independence as fifth and the hero-lord as sixth",
- "uncertainties": [],
- "plain_english": "O Goddess, the fifth is independence, and the sixth is the lord of heroes."
+ "inference": "The fifth is independence and the sixth is the hero-lord",
+ "uncertainties": [
+  "The third and fourth items of the sequence are not present in this verse"
+ ],
+ "plain_english": "O goddess, the fifth is independence, and the sixth is the lord of heroes."
 }
