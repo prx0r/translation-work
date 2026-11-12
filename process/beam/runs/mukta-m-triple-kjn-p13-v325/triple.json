@@ -7,43 +7,45 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun referring to the hidden true nature",
+     "grounds": "demonstrative pronoun referring to the previously mentioned reality",
      "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
      "grounds": "absolutive expressing prior act of knowing",
-     "morph": "(indecl., absolutive, √jñā)"
+     "morph": "gerund (jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound denoting concealed essential being",
-     "morph": "compound (gūḍha+sadbhāva), m.acc.sg"
+     "grounds": "compound object of knowing; gūḍha (hidden) + sadbhāva (true nature)",
+     "morph": "compound m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun denoting omniscience",
+     "grounds": "state that arises as result",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb expressing the arising of omniscience",
-     "morph": "3.sg.present.middle, √jan"
+     "grounds": "main verb indicating manifestation or coming into being",
+     "morph": "3.sg.present.middle (pra-jan)"
     }
    ],
-   "question": "What state arises from knowing the hidden true nature?",
+   "question": "How does knowing the hidden true nature give rise to omniscience?",
    "premises": [
-    "A hidden true nature exists.",
-    "That hidden true nature can be known.",
-    "Knowing it leads to a resulting state."
+    "There exists a hidden true nature to be known.",
+    "Knowing that hidden true nature is a decisive realization.",
+    "Omniscience arises as a result of that realization."
    ],
-   "inference": "Knowing the hidden true nature gives rise to all-knowingness.",
-   "uncertainties": [],
-   "plain_english": "Having known that hidden true nature, all-knowingness arises."
+   "inference": "Therefore, realization of the hidden true nature produces omniscience.",
+   "uncertainties": [
+    "The precise referent of taṃ depends on the immediately preceding verses."
+   ],
+   "plain_english": "Having known that hidden true nature, omniscience arises."
   }
  ]
 }

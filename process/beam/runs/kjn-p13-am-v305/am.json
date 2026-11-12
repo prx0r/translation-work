@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 305,
- "question": "What further question about the origin of eatables is posed to Bhairava?",
+ "question": "What further inquiry about eatables is addressed to Bhairava?",
  "premises": [
-  "The speaker addresses Bhairava directly",
-  "The speaker asks again",
-  "The inquiry concerns what has arisen regarding eatables"
+  "The topic concerns eatables.",
+  "The speaker asks again.",
+  "Bhairava is addressed directly."
  ],
- "inference": "A renewed question is posed to Bhairava about the origin or nature of eatables",
- "uncertainties": [],
- "plain_english": "O Bhairava, I ask again about what has arisen concerning eatables."
+ "inference": "The speaker renews a question to Bhairava concerning what has arisen regarding eatables.",
+ "uncertainties": [
+  "The precise referent of 'samutpannaṃ' in relation to eatables is context-dependent."
+ ],
+ "plain_english": "But regarding eatables, O Bhairava, I ask again about what has arisen."
 }
