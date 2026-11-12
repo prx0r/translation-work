@@ -7,51 +7,51 @@
     {
      "surface": "chedyamāno",
      "gloss": "being-cut",
-     "grounds": "passive present participle form as given",
+     "grounds": "present passive participle form",
      "morph": "m.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle as given",
+     "grounds": "negation particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "chidyeta",
      "gloss": "be-cut",
-     "grounds": "optative passive form as given",
-     "morph": "3.sg.pass-opt"
+     "grounds": "optative passive form",
+     "morph": "3.sg.pass.opt"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "fused form tad+gata as given; internal fusion noted",
+     "grounds": "fused compound as given",
      "morph": "compound = tad+gato"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-on-that",
-     "grounds": "fused form tan+manas as given; internal fusion noted",
+     "grounds": "fused compound as given",
      "morph": "compound = tan+mano"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "comparative particle as given",
+     "grounds": "comparative particle",
      "morph": "(indecl.)"
     }
    ],
    "question": "Under what condition can one whose mind is fixed on that remain uncut even when being cut?",
    "premises": [
-    "Cutting is being applied to one who is being cut.",
-    "A mind fixed on that remains directed to that object.",
-    "Absence of severance holds only when the mind is so directed."
+    "Cutting is being applied to the person in question.",
+    "The mind remains fixed upon that object or state.",
+    "Such fixation alters the effect of the cutting action."
    ],
-   "inference": "One whose mind is fixed on that is not severed by the act of cutting, just as stated.",
+   "inference": "When the mind is fixed on that, the act of cutting does not sever in the expected way.",
    "uncertainties": [
-    "Extent of the scope of 'that' remains context-dependent."
+    "The precise referent of tad and tan remains unclear from this verse alone."
    ],
-   "plain_english": "Just as one whose mind is fixed on that is not cut when being cut, so too no severance occurs in that state."
+   "plain_english": "Even when being cut, one whose mind is fixed on that is not cut, just so."
   }
  ]
 }

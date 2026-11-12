@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[brahma+offering](brahmārpaṇam) [let-be](astu) [statement](vākyaṃ) [drinking+eating+actions](pānabhojanakarmaṇoḥ)
+[brahma+arpaṇam](brahmārpaṇam) [be](astu) [utterance](vākyaṃ) [drinking+eating+actions-of](pānabhojanakarmaṇoḥ)
 
 ## mukta-m0-p15-v352
-[that](tat) [indeed](eva) [to-be-done](kāryaṃ) [by-brahman-knowers](brahmajñaiḥ) [this](idaṃ) [dharma](dharmaṃ) [eternal](sanātanam)
+[that](tat) [indeed](eva) [to-be-done](kāryaṃ) [by-brahman-knowers](brahmajñaiḥ) [this](idam) [duty](dharmaṃ) [eternal](sanātanam)
 
 ## mukta-m0-p15-v353
-[thus](eva) [rule](vidhiḥ) [of-this](asya) [brahman-established-one](brahmaniṣṭhasya)
+[thus](eva) [rule](vidhiḥ) [of-this](asya) [brahman+steadfast-one](brahmaniṣṭhasya)
 
 ## mukta-m0-p15-v354
-[of-mother+and-father](mātāpitroḥ)
+[of-mother+father](mātāpitroḥ)
 
 ## mukta-m0-p15-v355
 [which](yāṃ) [having-done](kṛtvā) [brahman+attainment](brahmasampattiṃ) [obtain](labhante) [on-earth](bhuvi) [humans](mānavāḥ)
@@ -29,19 +29,19 @@
 [supreme-lord](parameśvaraṃ) [ṅe+ending](ṅe'ntam) [having-said](uktvā) [we-know](vidmahe) [after-that](tadanantaram)
 
 ## mukta-m0-p15-v360
-[this](iyaṃ) [śrī+brahma+gāyatrī](śrībrahmagāyatrī) [four+goals+bestowing](caturvargapradāyinī)
+[this](iyaṃ) [śrī+brahma+gāyatrī](śrībrahmagāyatrī) [four+aims+bestowing](caturvargapradāyinī)
 
 ## mukta-m0-p15-v361
-[whatever+action](yadyatkarma) [one-may-perform](prakurvīta) [with-brahma+mantra](brahmamantreṇa) [one-should-accomplish](sādhayet)
+[whatever](yadyat) [action](karma) [one-may-perform](prakurvīta) [with-brahman+mantra](brahmamantreṇa) [one-should-accomplish](sādhayet)
 
 ## mukta-m0-p15-v362
-[as-before](pūrvavat) [should-bow](praṇamed) [to-brahman](brahma) [morning+duty](prātaḥkṛtyam) [this](idaṃ) [remembered](smṛtam)
+[as-before](pūrvavat) [should-bow](praṇamed) [to-brahman](brahma) [morning+duty](prātaḥkṛtyam) [this](idam) [remembered](smṛtam)
 
 ## mukta-m0-p15-v363
-[of-that+tenth-part](taddaśāṃśena) [oblation](havanaṃ) [libation](tarpaṇaṃ) [of-that+tenth-part](taddaśāṃśataḥ)
+[by-its+tenth-part](taddaśāṃśena) [oblation](havanaṃ) [libation](tarpaṇaṃ) [by-its+tenth-part](taddaśāṃśataḥ)
 
 ## mukta-m0-p15-v364
-[brahmins](brāhmaṇān) [should-feed](bhojayet) [mantra-practitioner](mantrī) [in-preliminary-rite+action](puraścaraṇakarmaṇi)
+[brāhmaṇs](brāhmaṇān) [should-feed](bhojayet) [mantra-practitioner](mantrī) [in-preliminary-rite+action](puraścaraṇakarmaṇi)
 
 ## mukta-m0-p15-v365
 [not](na) [time+purity+rule](kālaśuddhiniyamo) [not](na) [or](vā) [place+determination](sthānanirūpaṇam)
@@ -50,22 +50,22 @@
 [brahma+etc.+mantra](brahmetyādimantram)
 
 ## mukta-m0-p15-v367
-[one-should-practice](sādhayet) [supreme](paramaṃ) [mantra](mantraṃ) [by-own-will+conduct](svecchācāreṇa) [practitioner](sādhakaḥ)
+[one-should-accomplish](sādhayet) [supreme](paramaṃ) [mantra](mantraṃ) [by-own-will+conduct](svecchācāreṇa) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p15-v368
-[without](vinā) [nyāsa](nyāsaṃ) [without](vinā) [mudrā](mudrāṃ) [without](vinā) [setu](setuṃ) [o-beautiful-faced-one](varānane)
+[without](vinā) [nyāsa](nyāsaṃ) [without](vinā) [mudrā](mudrāṃ) [without](vinā) [bridge](setuṃ) [o-fair-faced-one](varānane)
 
 ## mukta-m0-p15-v369
 [suddenly](akasmāt) [supreme+brahman+realization](paramabrahmasākṣātkāro) [may-be](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p15-v370
-[in-practice](sādhane) [of-brahma+mantra](brahmamantrasya) [disposition+purity](bhāvaśuddhiḥ) [is-prescribed](vidhīyate)
+[in-practice](sādhane) [of-brahman+mantra](brahmamantrasya) [feeling+purity](bhāvaśuddhiḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p15-v371
 [of-great-mantra](mahāmanoḥ) [in-practice](sādhane) [but](tu) [deficiency](vyaṅgaṃ) [with-limbs](sāṅgāyate) [certainly](dhruvam)
 
 ## mukta-m0-p15-v372
-[deliverance+seed](nistārabījam) [this-much](etāvat) [of-brahma+mantra](brahmamantrasya) [practice](sādhanam)
+[liberation+seed](nistārabījam) [this-much](etāvat) [of-brahman+mantra](brahmamantrasya) [practice](sādhanam)
 
 ## mukta-m0-p15-v373
 [in-kali-age](kalau) [of-weak+beings](durbalajīvānām) [unaccomplishable](asādhyāni) [o-great-goddess](maheśvari)
