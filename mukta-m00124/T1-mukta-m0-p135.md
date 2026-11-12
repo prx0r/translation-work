@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p135-v3351
-kumbha-vistāra (pot-expansion) uddiṣṭa (declared) ca (and) adhyardha (one-and-half) ca (and) asya (its) mīrtita (measured)
+[kumbha-width](kumbha+vistāraḥ) [prescribed](uddiṣṭaḥ) [and](ca) [one-and-a-half](ādhyardhaṃ) [and](ca) [its](asya) [mouth](āsyam) [declared](īrtitam)
 
 ## mukta-m0-p135-v3352
-dṛk (eye) kaṇṭha (throat) ca (and) vidhātavyau (to-be-fixed) pāda-vistāra (foot-expansion) mānataḥ (by-measure)
+[eye-and-neck](dṛk+kaṇṭhau) [and](ca) [to-be-made](vidhātavyau) [by-pillar-width-measure](pāda+vistāra+mānataḥ)
 
 ## mukta-m0-p135-v3353
-kiñcit (somewhat) agra (front) vihīna (deficient) syāt (may-be) kamala (lotus) tat (that) adhaḥ (below) bhavet (becomes)
+[slightly](kiñcit) [top](agraṃ) [diminished](vihīnaṃ) [should-be](syāt) [lotus](kamalaṃ) [below-that](tat+adhaḥ) [should-be](bhavet)
 
 ## mukta-m0-p135-v3354
-mūla-sthāna (root-place) adhaḥ (below) tat (that) syāt (may-be) daṇḍa-māna (staff-measure) atha (then) ucyate (is-said)
+[root-place](mūla+sthānam) [below-that](adhaḥ+tat) [should-be](syāt) [rod-measure](daṇḍa+mānam) [now](atha) [is-stated](ucyate)
 
 ## mukta-m0-p135-v3355
-maṇḍitā (adorned) pañcadhā (fivefold) kṛtvā (having-made) sārdhena (with-half) phalaka-āsana (plank-seat)
+[maṇḍitā](maṇḍitā) [fivefold](pañcadhā) [having-made](kṛtvā) [with-half](sa+ardhena) [plank-seat](phalaka+āsanam)
 
 ## mukta-m0-p135-v3356
-daṇḍa-ākrāra (staff-curve) tu (but) vetra-anta (cane-end) pāda-ākāra (foot-form) sama (equal) bhavet (becomes)
+[rod-form](daṇḍa+ākāraḥ) [but](tu) [up-to-vetra](vetra+antaṃ) [equal-to-pillar-form](pāda+ākāra+samaḥ) [should-be](bhavet)
 
 ## mukta-m0-p135-v3357
-tridhā (threefold) maṇḍī (circle) samākhyāta (declared) pāda-ūrdhve (above-foot) potikā (bracket) bhavet (becomes)
+[threefold](tridhā) [maṇḍī](maṇḍī) [declared](samākhyātā) [above-pillar](pāda+ūrdhve) [bracket](potikā) [should-be](bhavet)
 
 ## mukta-m0-p135-v3358
-stambha-triguṇa (pillar-triple) mānā (measure) sā (that) daṇḍa-udaya (staff-rise) samāyutā (joined)
+[pillar-triple-measure](stambha+tri+guṇa+mānā) [that](sā) [endowed-with-rod-height](daṇḍa+udaya+samāyutā)
 
 ## mukta-m0-p135-v3359
-catur-daṇḍa (four-staff) samāyāmā (extent) tri-pāda (three-foot) udaya (rise) saṃyutā (joined)
+[four-rod-length](catur+daṇḍa+samāyāmā) [endowed-with-three-quarter-height](tri+pāda+udaya+saṃyutā)
 
 ## mukta-m0-p135-v3360
-pañca-daṇḍa (five-staff) samāyāmā (extent) daṇḍa-māna (staff-measure) sama (equal) udayā (rise)
+[five-rod-length](pañca+daṇḍa+samāyāmā) [having-height-equal-to-rod-measure](daṇḍa+māna+sama+udayā)
 
 ## mukta-m0-p135-v3361
-yatheṣṭaiḥ (as-desired) pārśvayoḥ (sides) ca (and) eva (indeed) samudra-ūrmi (ocean-wave) iti (thus) smṛtā (called)
+[as-desired](yathā+iṣṭaiḥ) [on-the-sides](pārśvayoḥ) [and](ca) [indeed](eva) [ocean-wave](samudra+ūrmiḥ) [thus](iti) [remembered](smṛtā)
 
 ## mukta-m0-p135-v3362
-tat (that) ucca (height) tri-bhāgena (by-third) tasyāḥ (its) tu (but) agre (front) paṭṭikā (band)
+[its-height](tat+uccaḥ) [by-three-parts](tri+tri+bhāgena) [of-that](tasyāḥ) [but](tu) [at-top](agre) [but](tu) [band](paṭṭikā)
 
 ## mukta-m0-p135-v3363
-chāyā-yāma (shadow-length) tat (that) ucca-ardha (height-half) tri-dvyaṃśa (third-two-part) vā (or) atha (then) kalpayet (should-fix)
+[shadow-length](chāyā+āyāmaṃ) [half-its-height](tat+ucca+ardhaṃ) [or-two-thirds](tri+dvi+aṃśaṃ) [or](vā) [now](atha) [one-should-design](kalpayet)
 
 ## mukta-m0-p135-v3364
-sa-nālika (with-stalk) sama-tala (level-surface) siṃha-vyāla (lion-serpent) ādi (etc) maṇḍitam (adorned)
+[with-stalk](sa+nālikaṃ) [level-surface](sama+talaṃ) [adorned-with-lions-vyālas-etc](siṃha+vyāla+ādi+maṇḍitam)
 
 ## mukta-m0-p135-v3365
-pūrva (east) aśra (corner) caturaśrāṇāṃ (of-squares) nāga-vṛttā (serpent-round) prakīrtitā (declared)
+[of-eastern-cornered-square-ones](pūrva+aśra+caturaśrāṇāṃ) [nāga-circular](nāga+vṛttā) [declared](prakīrtitā)
 
 ## mukta-m0-p135-v3366
-samudra-ūrmi (ocean-wave) tathā (so) anyeṣāṃ (of-others) pādānāṃ (feet) phalakā (plank) matā (considered)
+[ocean-wave](samudra+ūrmiḥ) [likewise](tathā) [of-others](anyeṣāṃ) [of-pillars](pādānāṃ) [plank](phalakā) [considered](matā)
 
 ## mukta-m0-p135-v3367
-hastādi (from-cubit) pañca-hastānta (up-to-five-cubits) ṣaṭ-ṣaḍ-aṅgula (six-six-finger) vardhanāt (by-increase)
+[from-one-hasta-etc](hasta+ādi) [up-to-five-hastas](pañca+hasta+antaṃ) [by-increase-of-six-aṅgulas-each](ṣaṭ+ṣaṭ+aṅgula+vardhanāt)
 
 ## mukta-m0-p135-v3368
-samāḥ (equal) stambha-antarāḥ (pillar-intervals) sarve (all) prāsāde (in-temple) sārva-deśike (universal)
+[equal](samāḥ) [pillar-intervals](stambha+antarāḥ) [all](sarve) [in-temple](prāsāde) [universal](sārva+deśike)
 
 ## mukta-m0-p135-v3369
-sāyaṃ (evening) ca (and) api (also) ca (and) tat (that) sarvaṃ (all) tat-prakāreṇa (in-that-manner) kārayet (should-do)
+[evening](sāyaṃ) [and](ca) [also](api) [and](ca) [all-that](tat+sarvaṃ) [according-to-that-method](tat+prakāreṇa) [one-should-make](kārayet)
 
 ## mukta-m0-p135-v3370
-iṣṭakābhiḥ (by-bricks) drumaiḥ (by-wood) sarve (all) stambhāḥ (pillars) kāryā (to-be-made) vicakṣaṇaiḥ (by-experts)
+[with-bricks](iṣṭakābhiḥ) [with-timber](drumaiḥ) [all](sarve) [pillars](stambhāḥ) [to-be-made](kāryāḥ) [by-the-skilled](vicakṣaṇaiḥ)
 
 ## mukta-m0-p135-v3371
-uttara (upper) vājana (crossbeam) ca (and) eva (indeed) muṣṭi-bandha (fist-binding) mṛṇālika (lotus-stalk)
+[architrave](uttaraṃ) [vājana](vājanaṃ) [and](ca) [indeed](eva) [muṣṭibandha](muṣṭibandhaṃ) [mṛṇālika](mṛṇālikam)
 
 ## mukta-m0-p135-v3372
-āliṅga-antaritā (embraced-interval) ca (and) eva (indeed) pratyaṅga (limb) vājana (crossbeam) kramāt (in-order)
+[āliṅga](āliṅga) [antarita](antaritā) [and](ca) [indeed](eva) [pratyaṅga](pratyaṅgaṃ) [vājana](vājanaṃ) [in-order](kramāt)
 
 ## mukta-m0-p135-v3373
-tri-bhāgena (by-third) eka-bhāgena (by-one-part) upari-upari (above-above) yojayet (should-join)
+[by-three-parts](tri+bhāgena) [by-one-part](eka+bhāgena) [one-above-another](upari+upari) [one-should-join](yojayet)
 
 ## mukta-m0-p135-v3374
-khaṇḍa-uttara (section-upper) patra-bandha (leaf-binding) rūpa-uttara (form-upper) iha (here) dvijāḥ (brahmins)
+[khaṇḍottara](khaṇḍa+uttaraṃ) [patrabandha](patra+bandhaṃ) [rūpottara](rūpa+uttaram) [here](iha) [O-twice-born](dvijāḥ)
 
 ## mukta-m0-p135-v3375
-khaṇḍa-uttara (section-upper) iti (thus) jñeyaṃ (to-be-known) pāda-utsedha (foot-height) saṃyutam (joined)
+[khaṇḍottara](khaṇḍa+uttaram) [thus](iti) [to-be-known](jñeyaṃ) [endowed-with-height-of-a-pillar](pādena+utsedha+saṃyutam)

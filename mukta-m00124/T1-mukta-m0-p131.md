@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p131-v3251
-[half-part-upward-tremor](bhāgārdhamūrdhvakampaḥ) [be](syāt) [three](triḥ) [seven-part](saptāṃśe) [in-that-elevated](tadunnate)
+[part+half+upper+fillet](bhāgārdha+mūrdhva+kampaḥ) [should-be](syāt) [thrice](triḥ) [in-seven+parts](sapta+aṃśe) [that+elevated](tat+unnate)
 
 ## mukta-m0-p131-v3252
-[outer-vājana](bāhyavājanamekena) [by-one](ekena) [tremor](kampamaṣṭāṃśakairgalam) [eight-part](aṣṭāṃśakair) [neck](galam)
+[outer+fillet](bāhya+vājanam) [by-one](ekena) [fillet](kampam) [by-eight+parts](aṣṭa+aṃśakaiḥ) [neck](galam)
 
 ## mukta-m0-p131-v3253
-[lion-elephant-crocodile](siṃhebhamakarairvyālairbhūtaiḥ) [serpents](vyālaiḥ) [beings](bhūtaiḥ) [leaves](patraiḥ) [adorned](alaṅkṛtam)
+[with-lions+elephants+makaras](siṃha+ibha+makaraiḥ) [with-vyālas](vyālaiḥ) [with-bhūtas](bhūtaiḥ) [with-leaves](patraiḥ) [adorned](alaṅkṛtam)
 
 ## mukta-m0-p131-v3254
-[placed](arpite) [not-placed](nārpite) [fishes](matsyaiḥ) [everywhere](sarvatra) [consider](parikalpayet)
+[applied](arpite) [not+applied](na+arpite) [with-fishes](matsyaiḥ) [everywhere](sarvatra) [one-should-design](parikalpayet)
 
 ## mukta-m0-p131-v3255
-[four-five-six-part](catuḥpañcaṣaḍaṃśaṃ) [or](vā) [seven-eight-part](saptāṣṭāṃśamathāpi) [or](vā)
+[four+five+six+parts](catuḥ+pañca+ṣaṭ+aṃśaṃ) [or](vā) [seven+eight+parts](sapta+aṣṭa+aṃśam) [now+also](atha+api) [or](vā)
 
 ## mukta-m0-p131-v3256
-[subtracting](parilopya) [to-be-made](vidhātavyam) [first-limb](ādyaṅgaṃ) [with-pedestal](tvopapīṭhakam)
+[having-divided](parilopya) [should-be-made](vidhātavyam) [first+member](ādya+aṅgam) [but](tu) [sub-base](upapīṭhakam)
 
 ## mukta-m0-p131-v3257
-[two-fold](dvividhaṃ) [that](tadiha) [declared](proktaṃ) [secondary-limb](pratyaṅgaṃ) [band-limb](paṭṭikāṅgakam)
+[two+fold](dvi+vidham) [that+here](tat+iha) [declared](proktam) [secondary-member](prati+aṅgam) [fillet+member](paṭṭikā+aṅgakam)
 
 ## mukta-m0-p131-v3258
-[jagatī-eight-part](jagatyaṣṭāṃśakenoktā) [kumuda](kumudaṃ) [same](tatsamānakam)
+[by-jagatī+eight+part](jagatī+aṣṭa+aṃśakena) [stated](uktā) [kumuda](kumudam) [that+equal](tat+samānakam)
 
 ## mukta-m0-p131-v3259
-[ear](karṇastvaṃśena) [tremor](kampaṃ) [be](syāt) [three-part](tryaṃśaṃ) [vājana](vājanamiṣyate)
+[karṇa](karṇaḥ) [but](tu) [by-one-part](aṃśena) [fillet](kampam) [should-be](syāt) [three+parts](tri+aṃśam) [fillet](vājanam) [is-desired](iṣyate)
 
 ## mukta-m0-p131-v3260
-[lotus-part](padmamaṃśena) [to-be-made](kartavyaṃ) [remainder](śeṣaṃ) [as-before](pūrvavadācaret)
+[lotus](padmam) [by-one-part](aṃśena) [should-be-made](kartavyam) [remainder](śeṣam) [as+before](pūrva+vat) [one-should-do](ācaret)
 
 ## mukta-m0-p131-v3261
-[lotus-part](padmamaṃśena) [to-be-made](kartavyaṃ) [tremor](kampamekāṃśato) [be](bhavet)
+[lotus](padmam) [by-one-part](aṃśena) [should-be-made](kartavyam) [fillet](kampam) [by-one+part](eka+aṃśataḥ) [should-be](bhavet)
 
 ## mukta-m0-p131-v3262
-[lotus-one-part](padmamekāṃśato) [known](jñeyaṃ) [vājana](vājanaṃ) [two-part](dvyaṃśamiṣyate)
+[lotus](padmam) [by-one+part](eka+aṃśataḥ) [should-be-known](jñeyam) [fillet](vājanam) [two+parts](dvi+aṃśam) [is-desired](iṣyate)
 
 ## mukta-m0-p131-v3263
-[five-part](pañcāṃśā) [jagatī](jagatī) [declared](proktā) [lotus-one-part](padmamekāṃśato) [be](bhavet)
+[five+parts](pañca+aṃśā) [jagatī](jagatī) [declared](proktā) [lotus](padmam) [by-one+part](eka+aṃśataḥ) [should-be](bhavet)
 
 ## mukta-m0-p131-v3264
-[remainder](śeṣaṃ) [as-before](prāgvatsamuddiṣṭaṃ) [tremor-pillar-rise](kampastambhodayāśritam)
+[remainder](śeṣam) [as+before](prāk+vat) [stated](samuddiṣṭam) [fillet+pillar+height+dependent](kampa+stambha+udaya+āśritam)
 
 ## mukta-m0-p131-v3265
-[tremor-one-part](kampamekāṃśato) [known](jñeyaṃ) [six-part](ṣaḍaṃśaṃ) [jagatī](jagatirbhavet)
+[fillet](kampam) [by-one+part](eka+aṃśataḥ) [should-be-known](jñeyam) [six+parts](ṣaṭ+aṃśam) [jagatī](jagatī) [should-be](bhavet)
 
 ## mukta-m0-p131-v3266
-[three-part](tribhāgaṃ) [kumuda](kumudaṃ) [lotus-one-part](padmamekāṃśaṃ) [declared](parikīrtitam)
+[three+parts](tri+bhāgam) [kumuda](kumudam) [lotus](padmam) [one+part](eka+aṃśam) [declared](parikīrtitam)
 
 ## mukta-m0-p131-v3267
-[petal-part](dalamaṃśena) [to-be-made](kartavyaṃ) [vājana](vājanaṃ) [two-part](dvyaṃśamīritam)
+[petal](dalam) [by-one-part](aṃśena) [should-be-made](kartavyam) [fillet](vājanam) [two+parts](dvi+aṃśam) [stated](īritam)
 
 ## mukta-m0-p131-v3268
-[one-part](ekabhāgena) [birth](janma) [be](syāt) [five-part](pañcāṃśā) [jagatī](jagatirbhavet)
+[by-one+part](eka+bhāgena) [base](janma) [should-be](syāt) [five+parts](pañca+aṃśā) [jagatī](jagatī) [should-be](bhavet)
 
 ## mukta-m0-p131-v3269
-[ārta-base-height](ārtādhiṣṭhānatuṅgena) [double-fall-height](dviguṇāpātatuṅgatā)
+[by-base+height](ādhāra+adhiṣṭhāna+tuṅgena) [twofold+projection+height](dviguṇa+āpāta+tuṅgatā)
 
 ## mukta-m0-p131-v3270
-[one-part](ekāṃśaṃ) [water-born](jalajaṃ) [declared](proktaṃ) [neck-half-part](galamardhāṃśato) [be](bhavet)
+[one+part](eka+aṃśam) [lotus](jalajam) [declared](proktam) [neck](galam) [by-half+part](ardha+aṃśataḥ) [should-be](bhavet)
 
 ## mukta-m0-p131-v3271
-[half](ardhena) [lotus](padmam) [half](ardhena) [tremor](kampaṃ) [two-half-part](dvyardhāṃśakair) [neck](galam)
+[by-half](ardhena) [lotus](padmam) [by-half](ardhena) [fillet](kampam) [by-two+half+parts](dvi+ardha+aṃśakaiḥ) [neck](galam)
 
 ## mukta-m0-p131-v3272
-[six-part](ṣaḍaṃśā) [jagatī](jagatī) [veda-part](vedabhāgaṃ) [kumuda](ca kumudaṃ) [be](bhavet)
+[six+parts](ṣaṭ+aṃśā) [jagatī](jagatī) [four+parts](veda+bhāgam) [and](ca) [kumuda](kumudam) [should-be](bhavet)
 
 ## mukta-m0-p131-v3273
-[tremor-one](kampamekena) [to-be-made](kartavyaṃ) [vājana](vājanaṃ) [two-part](dvyaṃśamiṣyate)
+[fillet](kampam) [by-one](ekena) [should-be-made](kartavyam) [fillet](vājanam) [two+parts](dvi+aṃśam) [is-desired](iṣyate)
 
 ## mukta-m0-p131-v3274
-[twenty-six-part](ṣaḍviṃśatyaṃśakaṃ) [declared](proktaṃ) [in-all](sarvasmin) [abode](dhāmni) [apply](yojayet)
+[twenty-six+parts](ṣaḍviṃśati+aṃśakam) [declared](proktam) [in-all](sarvasmin) [in-temple](dhāmni) [one-should-apply](yojayet)
 
 ## mukta-m0-p131-v3275
-[by-one](ekena) [tremor](kampakaṃ) [five-part](pañcabhāgena) [jagatī](jagatī) [be](bhavet)
+[by-one](ekena) [fillet](kampakam) [by-five+parts](pañca+bhāgena) [jagatī](jagatī) [should-be](bhavet)

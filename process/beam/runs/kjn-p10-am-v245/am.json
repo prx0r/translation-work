@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 245,
- "question": "What disciplined practice in solitude enables the creation of multiple forms?",
+ "question": "What disciplined practice in solitude enables the creation of many forms?",
  "premises": [
-  "The practice is to be done in solitude.",
-  "One should create many forms.",
-  "One should be intent on meditation."
+  "The practice is done in solitude",
+  "Many forms are to be made",
+  "The practitioner must be intent on meditation"
  ],
- "inference": "In solitude, intent on meditation, one should practice creating many forms.",
- "uncertainties": [],
+ "inference": "In solitude, intent on meditation, one should create many forms.",
+ "uncertainties": [
+  "dhyānañ shows sandhi form before ca"
+ ],
  "plain_english": "In solitude, intent on meditation, create many forms."
 }

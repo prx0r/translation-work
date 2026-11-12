@@ -1,15 +1,13 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter concludes upon emergence in the moon island?",
+ "question": "Which chapter concludes after the teaching on the moon island?",
  "premises": [
-  "A context of emergence in the moon island is indicated.",
-  "A chapter is identified by ordinal number.",
-  "The ninth chapter is named in this context."
+  "The discourse has emerged in the moon island context",
+  "A chapter is being enumerated",
+  "The chapter is identified as ninth"
  ],
- "inference": "The ninth chapter concludes in the context of emergence in the moon island.",
- "uncertainties": [
-  "The exact sense of vinirgate as a textual marker is contextual."
- ],
- "plain_english": "Thus ends the ninth chapter, in the section that has emerged in the moon island."
+ "inference": "The ninth chapter concludes in the context of the moon island.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the ninth chapter, which emerged in the moon island."
 }

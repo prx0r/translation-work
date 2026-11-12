@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p139-v3451
-[not-abandon](na) [if](yadi) [that-owner](tatsvāmī) [death-for](maraṇāya) [will-be](bhaviṣyati)
+[not](na) [should-abandon](tyajet) [if](yadi) [its+owner](tat+svāmī) [for-death](maraṇāya) [will-be](bhaviṣyati)
 
 ## mukta-m0-p139-v3452
-[stambha-vyāsa-sama](stambhavyāsasamo) [or-also](vāpi) [half-that](tadardhaṃ) [thick](bahulaṃ) [considered](matam)
+[pillar+width+equal](stambha+vyāsa+samo) [or+also](vāpi) [its+half](tad+ardhaṃ) [thickness](bahulaṃ) [considered](matam)
 
 ## mukta-m0-p139-v3453
-[dvāra-udayāya](dvārodayāya) [remainder](śeṣaṃ) [but](tu) [threefold](tridhā) [or](vā) [fivefold](pañcadhā) [made](kṛte)
+[for-door+height](dvāra+udayāya) [remainder](śeṣaṃ) [but](tu) [in-three](tridhā) [or](vā) [in-five](pañcadhā) [being-divided](kṛte)
 
 ## mukta-m0-p139-v3454
-[with-remainder](śeṣeṇa) [ornamentation](bhūṣaṇaṃ) [should-make](kuryāt) [pure-door](śuddhadvāraṃ) [but](tu) [middle](madhyamam)
+[by-remainder](śeṣeṇa) [ornament](bhūṣaṇaṃ) [should-make](kuryāt) [pure+door](śuddha+dvāraṃ) [but](tu) [middle](madhyamam)
 
 ## mukta-m0-p139-v3455
-[three-four-five-six-part-by](tricatuḥpañcaṣaḍbhāgabhāgena) [pillar-thickness](stambhavaipule)
+[by-three+four+five+six+part+division](tri+catuḥ+pañca+ṣaḍ+bhāga+bhāgena) [in-pillar+thickness](stambha+vaipule)
 
 ## mukta-m0-p139-v3456
-[odd-planks](ayugmaphalakā) [taken](grāhyā) [middle-joint-avoided](madhyasandhivivarjitā)
+[odd+panels](ayugma+phalakā) [should-be-taken](grāhyā) [middle+joint+devoid](madhya+sandhi+vivarjitā)
 
 ## mukta-m0-p139-v3457
-[middle](madhyaṃ) [abandoned](tyaktvā) [to-be-used](prayoktavyā) [according-strength-endowed](yathābalasamanvitā)
+[middle](madhyaṃ) [having-abandoned](tyaktvā) [should-be-used](prayoktavyā) [according-to+strength+endowed](yathā+bala+samanvitā)
 
 ## mukta-m0-p139-v3458
-[beams](daṇḍāḥ) [three-five-seven](tripañcasapta) [nine-eleven](navaikādaśa) [in-number](saṃkhyayā)
+[bars](daṇḍās) [three+five+seven+indeed](tri+paṃca+sapta+eva) [by-nine+eleven+number](nava+ekādaśa+saṃkhyayā)
 
 ## mukta-m0-p139-v3459
-[pair](yugme) [large](mahati) [couch](talpe) [and](ca) [right-placed](dakṣiṇasthe) [door-leaf](kavāṭake)
+[in-pair](yugme) [in-large](mahati) [panel](talpe) [and](ca) [in-right+situated](dakṣiṇa+sthe) [door-leaf](kavāṭake)
 
 ## mukta-m0-p139-v3460
-[above](upariṣṭāt) [one-third](trayāṃśaṃ) [but](tu) [abandoned](tyaktvā) [below-part](adhoṃ'śaṃ) [two-sides](dvipārśvayoḥ)
+[above](upariṣṭāt) [three+part](traya+āṃśaṃ) [but](tu) [having-left](tyaktvā) [below+part](adhaḥ+aṃśaṃ) [on-two+sides](dvi+pārśvayoḥ)
 
 ## mukta-m0-p139-v3461
-[according-strength](yathābalaṃ) [according-beauty](yathāśobham) [iron-strips](ayaḥpaṭṭaiḥ) [strengthened](dṛḍhīkṛte)
+[according-to+strength](yathā+balaṃ) [according-to+beauty](yathā+śobham) [with-iron+straps](ayaḥ+paṭṭair) [strengthened](dṛḍhīkṛte)
 
 ## mukta-m0-p139-v3462
-[crescents](ardhacandraiḥ) [and](tathā) [horns](śṛṅgaiḥ) [flowers](puṣpaiḥ) [various-also](nānāvidhairapi)
+[with-half+moons](ardha+candrais) [so](tathā) [with-horns](śṛṅgaiḥ) [with-flowers](puṣpair) [with-various+kinds](nānā+vidhair) [also](api)
 
 ## mukta-m0-p139-v3463
-[above-below](ūrdhvādhaḥ) [peak-joined](śikharāśliṣṭa) [root-band-top-band](mūlabandhāgrabandhanam)
+[above+below](ūrdhva+adhaḥ) [top+joined+base+bond+end+fastening](śikhara+āśliṣṭa+mūla+bandha+agra+bandhanam)
 
 ## mukta-m0-p139-v3464
-[should-bind](badhnīyāt) [all-places](sarvadeśe) [or](vā) [according-beauty](yathāśobhaṃ) [according-strength](yathābalam)
+[should-bind](badhnīyāt) [in-all+places](sarva+deśe) [or](vā) [according-to+beauty](yathā+śobhaṃ) [according-to+strength](yathā+balam)
 
 ## mukta-m0-p139-v3465
-[padma-patra-vicitra-aṅgā](padmapatravicitrāṅgā) [paṭṭa-aṅgā](paṭṭāṅgā) [skandha-paṭṭikā](skandhapaṭṭikā)
+[lotus+leaf+variegated+body](padma+patra+vicitra+aṅgā) [strap+bodied](paṭṭa+aṅgā) [shoulder+strap](skandha+paṭṭikā)
 
 ## mukta-m0-p139-v3466
-[bolt](argalaṃ) [right](dakṣiṇe) [side](bhāge) [left-side](vāmabhāge) [but](tu) [couch](talpakam)
+[bolt](argalaṃ) [on-right](dakṣiṇe) [in-part](bhāge) [on-left+part](vāma+bhāge) [but](tu) [socket](talpakam)
 
 ## mukta-m0-p139-v3467
-[gap](antaraṃ) [and](ca) [specified](vinirdiṣṭaṃ) [knowing](jñātvā) [work](karma) [should-perform](samācaret)
+[interval](antaraṃ) [and](ca) [having-ascertained](vinirdiṣṭaṃ) [having-known](jñātvā) [work](karma) [should-perform](samācaret)
 
 ## mukta-m0-p139-v3468
-[of-two](anyayoḥ) [one](ekam) [specified](uddiṣṭaṃ) [great-door](mahādvāre) [four-pair](caturyugam)
+[of-other-two](anyayor) [one](ekam) [prescribed](uddiṣṭaṃ) [in-great+door](mahā+dvāre) [four+pairs](catur+yugam)
 
 ## mukta-m0-p139-v3469
-[door-pair](kavāṭayugmaṃ) [to-be-made](kartavyaṃ) [cuckoo-bolt-joined](kokilārgalasaṃyutam)
+[door+pair](kavāṭa+yugmaṃ) [should-be-made](kartavyaṃ) [kokila+bolt+joined](kokila+argala+saṃyutam)
 
 ## mukta-m0-p139-v3470
-[thus](tathā) [door-leaf](kavāṭaḥ) [or](vā) [to-be-made](kāryaḥ) [mechanisms](yantraiḥ) [various-also](bahuvidhairapi)
+[so](tathā) [door](kavāṭo) [or](vā) [should-be-made](kāryo) [with-mechanisms](yantrair) [with-many+kinds](bahu+vidhair) [also](api)
 
 ## mukta-m0-p139-v3471
-[by-door](dvāreṇa) [accomplished](siddhaṃ) [door](dvāraṃ) [but](tu) [street-form-etc-declared](rathyārūpādivoditam)
+[by-door](dvāreṇa) [accomplished](siddhaṃ) [door](dvāraṃ) [but](tu) [chariot+form+etc+or+stated](rathyā+rūpa+ādi+vā+uditam)
 
 ## mukta-m0-p139-v3472
-[wall](bhittiṃ) [making](kṛtvā) [but](tu) [fifty-inside](pañcāśadantaḥ) [thirty-outside](triṃśadbahiḥ) [two](dvayam)
+[wall](bhittiṃ) [having-made](kṛtvā) [but](tu) [fifty+inside](paṃcāśad+antas) [thirty+outside+two](triṃśad+bahis+dvayam)
 
 ## mukta-m0-p139-v3473
-[or](athavā) [yoga-extension](yogavistāraḥ) [three-fingers-also](triaṅgulaiḥ) [or](vā)
+[or](athavā) [joining+width](yoga+vistāras) [but](tu) [with-fingers](aṅgulais) [with-three](tribhir) [indeed](eva) [or](vā)
 
 ## mukta-m0-p139-v3474
-[thick](bahulaṃ) [previously-said](prāgvaduddiṣṭaṃ) [foot](pādaṃ) [or](vā) [that-declared](tadudīritam)
+[thickness](bahulaṃ) [as-before](prāk+vad) [prescribed](uddiṣṭaṃ) [foot](pādaṃ) [or](vā) [that+stated](tad+udīritam)
 
 ## mukta-m0-p139-v3475
-[one-part-less](ekāṃśahīnaṃ) [that-measure](tanmānaṃ) [door](dvāraṃ) [pure](śuddham) [here-declared](ihoditam)
+[one+part+less](eka+aṃśa+hīnaṃ) [that+measure](tan+mānaṃ) [door](dvāraṃ) [pure](śuddham) [here](iha) [stated](uditam)
