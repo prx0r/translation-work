@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-direction(dik) incense-lamp(dhūpadīpako) and(yaśca) thread-line(dhāgarāyāstathaścavau)
+direction(dik) incense+lamp(dhūpa+dīpakaḥ) who(yaḥ) and(ca) dhāga-rāyāḥ(dhāgarāyāḥ) thus(tathā) and(ca) cau(cau)
 
 ## mukta-m0-p09-v202
-gives(dete) treasury(bhandaratāścaiva) seat(pīṭhaśca) earth(kṣmaśca) and(eva) and(ca)
+dete(dete) treasury-bearers(bhaṇḍa+ratāḥ) and(ca) indeed(eva) seat(pīṭhaḥ) and(ca) earth(kṣmaḥ) and(ca) indeed(eva) and(ca)
 
 ## mukta-m0-p09-v203
-vowel(svarādyaḥ) with-visarga(savisargopa) śiva(śivau) mucava(mucavasau) and(tathā)
+vowel-initial(svara+ādyaḥ) with-visarga(sa+visargaḥ) upa(upa) two-śivas(śivau) mucavasau(mucavasau) likewise(tathā)
 
 ## mukta-m0-p09-v204
-see(dṛśca) vowel(svarādyo) ma(maścaiva) lamp(dīpako) śādṛmū(śādṛmū) and(tathā)
+dṛ(dṛ) and(ca) vowel-initial(svara+ādyaḥ) ma(ma) and(ca) indeed(eva) lamp(dīpakaḥ) śādṛmū(śādṛmū) likewise(tathā)
 
 ## mukta-m0-p09-v205
-chew(carvāstathā) not(nākṣipaṃśca) twenty(viṃśca) you(vaḥ) with-visarga(savisargakaḥ)
+carvāḥ(carvāḥ) likewise(tathā) nākṣipam(nākṣipam) and(ca) vim(vim) and(ca) vaḥ(vaḥ) with-visarga(sa+visargakaḥ)
 
 ## mukta-m0-p09-v206
-region(deśaśca) six-portion(śadbhāmuraścaiva) action(kāraḥ) arcis-sāga(sārcisāgaśāḥ)
+place(deśaḥ) and(ca) śadbhāmuraḥ(śadbhāmuraḥ) and(ca) indeed(eva) syllable(kāraḥ) sārcisāgaśāḥ(sārcisāgaśāḥ)
 
 ## mukta-m0-p09-v207
-wheel(cakraṃ) then(tu) scent-flower-etc(gandhapuṣpādyaiḥ) worship(samabhyarcya) show(ca) show(darśayet)
+wheel(cakram) but(tu) with-fragrance+flower+etc(gandha+puṣpa+ādyaiḥ) having-worshipped(samabhyarcya) and(ca) should-display(darśayet)
 
 ## mukta-m0-p09-v208
-guru-command(gurvājñāpūrvakaṃ) and(caivaṃ) receive(gṛhṇīyān) mantra(mantram) best(uttamam)
+teacher+command+preceded-by(guru+ājñā+pūrvakam) and(ca) indeed(eva) thus(evam) should-receive(gṛhṇīyāt) mantra(mantram) supreme(uttamam)
 
 ## mukta-m0-p09-v209
-from-śiva-to-earth(śivādyavaniparyantaṃ) beings(bhūtabhāvādikaṃ) in-order(kramāt)
+beginning-with-śiva(śiva+ādi) ending-with-earth(avani+paryantam) element+state+etc(bhūta+bhāva+ādikam) in-order(kramāt)
 
 ## mukta-m0-p09-v210
-from-caitryā(caitryādi) day(dinamārabhya) until-phālgunyanta(phālgunyantadināntakam)
+beginning-with-caitra(caitra+ādi) day(dinam) beginning(ārabhya) ending-with-phālguna(phālgunī+anta) day+end(dina+antakam)
 
 ## mukta-m0-p09-v211
-navel-lotus-petals(nābhipadmadaleṣvaṣṭau) letters(varṇā) lamp-first(dīpakapūrvakāḥ)
+navel+lotus+petals(nābhi+padma+daleṣu) eight(aṣṭau) syllables(varṇāḥ) lamp+preceded-by(dīpaka+pūrvakāḥ)
 
 ## mukta-m0-p09-v212
-by-one(ekena) or(vā) worship(yajed) day(ahnā) in-this-wheel(cakresmin) left-placed(savyavasthitam)
+by-one(ekena) or(vā) should-worship(yajet) by-day(ahnā) in-this-wheel(cakre+asmin) well-situated(sa+vyavasthitam)
 
 ## mukta-m0-p09-v213
-sky-principle(vyomatatvapadānāṃ) tu(tu) maiden-limb-group(kanyakāṅgagaṇo) davaḥ(davaḥ)
+space+principle+words(vyoma+tattva+padānām) but(tu) virgin+limb+group(kanyakā+aṅga+gaṇaḥ) davaḥ(davaḥ)
 
 ## mukta-m0-p09-v214
-lamp(dīpakovyo) when(yadāpyā) ca(ca) initiation(dīkṣarvā) ca(ca) and(tathā) ca(ca) nā(nā)
+dīpakovyaḥ(dīpakovyaḥ) when(yadā) āpyā(āpyā) and(ca) dīkṣarvā(dīkṣarvā) and(ca) likewise(tathā) and(ca) nā(nā)
 
 ## mukta-m0-p09-v215
-good-pair(sadvayañcāyatañcaiva) vowel-first(svarādyovyānayeṣṭade)
+two-sat(sad+dvayam) and(ca) āyatam(āyatam) and(ca) indeed(eva) vowel-initial(svara+ādyaḥ) vyānayeṣṭade(vyānayeṣṭade)
 
 ## mukta-m0-p09-v216
-dyākāla(dyākālatadhanāsyāṃśca) and(saṃllikhedādyapaṃktike)
+dyākālatadhanāsyām(dyākālatadhanāsyām) and(ca) should-write(saṃllikhet) in-first+line(ādya+paṅktike)
 
 ## mukta-m0-p09-v217
-tvamānālaṃ(tvamānālaṃ) ca(ca) bhāśiśca(bhāśiśca) earth(bhuvaṃ) dadhacito(dadhacito) and(tathā)
+tvamānālam(tvamānālam) and(ca) bhāśiḥ(bhāśiḥ) and(ca) earth(bhuvam) dadhacitaḥ(dadhacitaḥ) likewise(tathā)
 
 ## mukta-m0-p09-v218
-praśca(praśca) saśca(saśca) second-end(dvitīyānte) netavā(netavā) all-lamp(viśvadīpakaḥ)
+pra(pra) and(ca) sa(sa) and(ca) at-second+end(dvitīya+ante) netavā(netavā) world+lamp(viśva+dīpakaḥ)
 
 ## mukta-m0-p09-v219
-dagusāśca(dagusāśca) and(tathā) ṇeru(ṇeru) vivilāma(vivilāma) and(tathaiva) and(ca)
+dagusāḥ(dagusāḥ) and(ca) likewise(tathā) ṇeru(ṇeru) vivilāma(vivilāma) likewise(tathā) indeed(eva) and(ca)
 
 ## mukta-m0-p09-v220
-trepapūstrastuścaiva(trepapūstrastuścaiva) always(nityaṃ) not(nātre) third(tṛtīyake)
+trepapūstrastuḥ(trepapūstrastuḥ) and(ca) indeed(eva) always(nityam) nātre(nātre) in-third(tṛtīyake)
 
 ## mukta-m0-p09-v221
-repha-first(rephapūrvopetāyau) yavayāpyamastathaiva(yavayāpyamastathaiva) and(ca)
+repha+preceded(repha+pūrva) upetāyau(upetāyau) yavayāpyamaḥ(yavayāpyamaḥ) likewise(tathā) indeed(eva) and(ca)
 
 ## mukta-m0-p09-v222
-nantaśca(nantaśca) water-pervading(adbhyavyāpī) ca(ca) write(vilikhedvedapaṅktike)
+nantaḥ(nantaḥ) and(ca) water-pervading(adbhi+vyāpī) and(ca) should-write(vilikhet) in-veda+line(veda+paṅktike)
 
 ## mukta-m0-p09-v223
-ṣṭālitrayagakāraśca(ṣṭālitrayagakāraśca) ādadaśceyayau(ādadaśceyayau) and(tathā)
+ṣṭāli+triad+ga-syllable(ṣṭāli+traya+ga+kāraḥ) and(ca) ādadaḥ(ādadaḥ) and(ca) eyayau(eyayau) likewise(tathā)
 
 ## mukta-m0-p09-v224
-punadrahe(punadrahe) tapaścaiva(tapaścaiva) vyokāraśca(vyokāraśca) anevajāḥ(anevajāḥ)
+punadrahe(punadrahe) tapaḥ(tapaḥ) and(ca) indeed(eva) vya-syllable(vya+kāraḥ) and(ca) anevajāḥ(anevajāḥ)
 
 ## mukta-m0-p09-v225
-yāśiyāne(yāśiyāne) vidhābhiśca(vidhābhiśca) yāgāyā(yāgāyā) yūśca(yūśca) vī(vī) and(tathā)
+yāśiyāne(yāśiyāne) by-rules(vidhābhiḥ) and(ca) yāgāya(yāgāya) yū(yū) and(ca) vī(vī) likewise(tathā)

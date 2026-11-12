@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 209,
- "question": "What knowledge is required for success in these ritual operations?",
+ "question": "What claim is made about the condition necessary for success with respect to the eight-times-eight method?",
  "premises": [
-  "The eight-times-eight method must be known",
-  "Success follows from knowing it",
-  "Success does not occur otherwise"
+  "The eight-times-eight method is the object in view.",
+  "Success follows from knowing that method.",
+  "Success does not follow otherwise."
  ],
- "inference": "Knowledge of the eight-times-eight method is necessary for success.",
- "uncertainties": [],
- "plain_english": "Having known the method of eight times eight, one succeeds; not otherwise."
+ "inference": "One succeeds only by knowing the eight-times-eight method, and not otherwise.",
+ "uncertainties": [
+  "The nature of 'success' intended here is not specified by this verse alone."
+ ],
+ "plain_english": "Indeed, having known the eight-times-eight method, one succeeds; not otherwise."
 }

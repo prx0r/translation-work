@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 203,
- "question": "How and where are these languages heard by the practitioner?",
+ "question": "What claim is made about the locus and agent of hearing when it occurs in relation to the self?",
  "premises": [
-  "Hearing occurs spontaneously",
-  "The self hears for the self",
-  "The hearing occurs within the self"
+  "Hearing occurs by the self and to the self.",
+  "Hearing occurs in the self and by the self.",
+  "The self is both the locus and the means of this hearing."
  ],
- "inference": "The languages are heard inwardly and spontaneously by the practitioner within oneself.",
- "uncertainties": [],
- "plain_english": "They are heard spontaneously by oneself, for oneself, and within oneself."
+ "inference": "Hearing takes place reflexively within the self, by the self alone.",
+ "uncertainties": [
+  "The precise mode of reflexive hearing is not specified by these tokens alone."
+ ],
+ "plain_english": "By the self alone, it is heard by the self, to the self, and in the self by the self."
 }

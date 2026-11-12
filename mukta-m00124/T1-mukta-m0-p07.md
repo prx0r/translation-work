@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-as-opponent-position (pūrvapakṣatayā) those (tāni) stated (kathitāni) here (iha) by-Śambhu (śambhunā)
+[purva-paksa-taya](pūrvapakṣatayā) [kathitani](kathitāni) [iha](iha) [sambhuna](śambhunā)
 
 ## mukta-m0-p07-v152
-all-that (tatsarvam) having-refuted (adharīkṛtya) Śaiva-siddhānta (śaivasiddhāntaḥ) declared (īritaḥ)
+[tat-sarvam](tatsarvam) [adharikrtya](adharīkṛtya) [saiva-siddhantah](śaivasiddhāntaḥ) [iritah](īritaḥ)
 
 ## mukta-m0-p07-v153
-by-other-scriptures (śāstrāntaraiḥ) tu (tu) establishing (saṃsthāpya) liṅga (liṅgam) that-both-meaning (tadubhayārthakam)
+[sastra-antarais-tu](śāstrāntaraistu) [samsthapya](saṃsthāpya) [lingam](liṅgaṃ) [tad-ubhaya-arthakam](tadubhayārthakam)
 
 ## mukta-m0-p07-v154
-Śaiva (śaivaḥ) all-authority (sarvādhikārī) is (syāt) in-own (svakīye) and (ca) in-other (paratra) and (ca)
+[saivah](śaivaḥ) [sarva-adhikari](sarvādhikārī) [syat](syāt) [sva-kiye](svakīye) [ca](ca) [para-tra](paratra) [ca](ca)
 
 ## mukta-m0-p07-v155
-in-Yāmala (yāmale) in-Mātṛtantra (mātṛtantre) and (ca) in-Kāpāla (kāpāle) in-Pāñcarātra (pāñcarātrake)
+[yamale](yāmale) [matr-tantre](mātṛtantre) [ca](ca) [kapale](kāpāle) [pancaratrake](pāñcarātrake)
 
 ## mukta-m0-p07-v156
-in-other (anyeṣu) also (api) and (ca) paths (mārgeṣu) by-those-scriptures (tattacchāstraiḥ) from-own-scripture (svaśāstrataḥ)
+[anyeṣu-api](anyeṣvapi) [ca](ca) [margesu](mārgeṣu) [tat-tac-chastraih](tattacchāstraiḥ) [sva-sastratah](svaśāstrataḥ)
 
 ## mukta-m0-p07-v157
-primacy (mukhyatvāt) here (iha) of-Śaiva (śaivasya) by-face-glory (mukhamāhātmyataḥ) also (api) and (ca)
+[mukhyatva-adiha](mukhyatvādiha) [saivasya](śaivasya) [mukha-mahatmyatah-api](mukhamāhātmyato'pi) [ca](ca)
 
 ## mukta-m0-p07-v158
-therefore (tasmāt) for-others (parārtham) for-self (ātmārtham) installation (sthāpanam) worship (yajanam) and (tathā)
+[tasmat](tasmāt) [para-artham](parārtham) [atma-artham](ātmārthaṃ) [sthapanaṃ](sthāpanaṃ) [yajanam](yajanaṃ) [tatha](tathā)
 
 ## mukta-m0-p07-v159
-for-others (parārtham) also (api) should-do (kuryāt) if (cel) by-theft (lopena) of-king (nṛpateḥ) and (tathā)
+[para-artham-api](parārthamapi) [kuryat](kuryāt) [ca](cet) [upena](lopena) [nrpates-tatha](nṛpatestathā)
 
 ## mukta-m0-p07-v160
-mantra (mantram) without (vinā) action (kriyā) not-is (nāsti) from-plowing (karṣaṇāt) etc (ādi) to-worship (arcanāntakam)
+[mantram](mantraṃ) [vina](vinā) [kriya](kriyā) [na-asti](nāsti) [karsana-adi](karṣaṇādy) [arcana-antakam](arcanāntakam)
 
 ## mukta-m0-p07-v161
-by-meditation-protection-nature (mananatrāṇadharmitvāt) mantra (mantraḥ) thus (iti) called (abhidhīyate)
+[manana-trana-dharmitvat](mananatrāṇadharmitvān) [mantrah](mantraḥ) [iti](iti) [abhidhiyate](abhidhīyate)
 
 ## mukta-m0-p07-v162
-speech-form (vāgrūpaḥ) denoter (vācakaḥ) said (proktaḥ) denoted (vācyaḥ) meaning-nature (arthātmakaḥ) remembered (smṛtaḥ)
+[vak-rupah](vāgrūpaḥ) [vacakah](vācakaḥ) [proktah](proktaḥ) [vacyah-tu](vācyastu) [artha-atmakah](arthātmakaḥ) [smrtah](smṛtaḥ)
 
 ## mukta-m0-p07-v163
-nāda (nādaḥ) mantra (mantraḥ) thus (iti) said (proktaḥ) that (saḥ) nāda (nādaḥ) arises (jāyate) from-supreme (parāt)
+[nadah](nādaḥ) [mantrah](mantraḥ) [iti](iti) [proktah](proktaḥ) [sah](saḥ) [nadah](nādaḥ) [jayate](jāyate) [parat](parāt)
 
 ## mukta-m0-p07-v164
-therefore (tasmāt) two-vowels (svaradvayam) two (dvau) two (dvau) their (teṣām) distinctions (bhedāḥ) thirteen (trayodaśa)
+[tasmat](tasmāt) [svara-dvayam](svaradvayaṃ) [dvau](dvau) [dvau](dvau) [tesam](teṣāṃ) [bhedah](bhedāḥ) [trayo-dasa](trayodaśa)
 
 ## mukta-m0-p07-v165
-by-number (saṃkhyayā) they (te) thirty-four (catustriṃśat) indeed (eva) consonants (vyañjanāni) tu (tu)
+[samkhyaya](saṃkhyayā) [te](te) [catuh-trimsat](catustriṃśat) [ta](te) [eva](eva) [vyanjanani](vyañjanāni) [tu](tu)
 
 ## mukta-m0-p07-v166
-by-them (taiḥ) indeed (eva) composed (racitam) scripture (śāstram) supreme-inferior-divided (parāparavibheditam)
+[taih-eva](taireva) [racitam](racitaṃ) [sastram](śāstraṃ) [para-apara-vibheditam](parāparavibheditam)
 
 ## mukta-m0-p07-v167
-by-modification (vikāra) element (bhūta) element-named (bhūtākhya) Veda (veda) Veda (veda) moon (indu) number (saṃkhyayā)
+[vikara-bhuta-bhuta-akhya](vikārabhūtabhūtākhya) [veda-veda-indu-samkhyaya](vedavedendusaṃkhyayā)
 
 ## mukta-m0-p07-v168
-that (saḥ) nāda (nādaḥ) called (kathyate) brāhmaṇas (viprāḥ) by-synonyms (paryāyaiḥ) Śiva-names (śivanāmabhiḥ)
+[sah](saḥ) [nadah](nādaḥ) [kathyate](kathyate) [viprah](viprāḥ) [paryayaih](paryāyaiḥ) [siva-namabhih](śivanāmabhiḥ)
 
 ## mukta-m0-p07-v169
-sound-knowledge-experienced-self (śabdabodhānubhūtātmā) all-beings-heart (sarvaprāṇihṛdi) abode (sthitiḥ)
+[sabda-bodha-anubhuta-atma](śabdabodhānubhūtātmā) [sarva-prani-hrdi](sarvaprāṇihṛdi) [sthitih](sthitiḥ)
 
 ## mukta-m0-p07-v170
-established (saṃsthitā) mātṛkā (mātṛkā) known (jñeyāḥ) by-practitioners (sādhakaiḥ) truth-seers (tattvadarśibhiḥ)
+[samsthita](saṃsthitā) [matrka](mātṛkā) [jneyah](jñeyāḥ) [sadhakais](sādhakaiḥ) [tattva-darsibhih](tattvadarśibhiḥ)
 
 ## mukta-m0-p07-v171
-O-Bhagavan (bhagavan) beings (prāṇinaḥ) in-world (loke) diminished-vitality (kṣīṇasatvāḥ) short-lived (cirāyuṣaḥ)
+[bhagavan](bhagavan) [praninah](prāṇinaḥ) [loke](loke) [ksina-satva](kṣīṇasatvā) [acira-ayusah](cirāyuṣaḥ)
 
 ## mukta-m0-p07-v172
-in-many-ways (bahudhā) mantra-existence (mantrasadbhāvaḥ) to-be-spoken (vaktavyaḥ) ocean-of-compassion (karuṇānidhe)
+[bahudha](bahudhā) [mantra-sad-bhavah](mantrasadbhāvo) [vaktavyah](vaktavyaḥ) [karuna-nidhe](karuṇānidhe)
 
 ## mukta-m0-p07-v173
-by-that (tena) by-that (tena) manner (prakāreṇa) I-speak (kathayāmi) briefly (samāsataḥ)
+[tena](tena) [tena](tena) [prakarena](prakāreṇa) [kathayami](kathayāmi) [samasatah](samāsataḥ)
 
 ## mukta-m0-p07-v174
-life-beginning (jīvādyam) fifth (pañcamam) air-first (vāyupūrvam) cause-effect-joined (kāraṇakāryayuk)
+[jiva-adyam](jīvādyaṃ) [pancamam](pañcamaṃ) [vayu-purvam](vāyupūrvaṃ) [karana-karya-yuk](kāraṇakāryayuk)
 
 ## mukta-m0-p07-v175
-cintāmaṇi (cintāmaṇiḥ) thus (iti) famed (khyātaḥ) mantra (mantraḥ) this (ayam) Śiva-denoting (śivavācakaḥ)
+[cintamanih-iti](cintāmaṇiriti) [khyatah](khyāto) [mantrah-ayam](mantro'yaṃ) [siva-vacakah](śivavācakaḥ)
