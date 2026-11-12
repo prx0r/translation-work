@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "balī",
-   "morph": "compound=balī+first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound balī-palita"
   },
   {
    "lemma": "palita",
-   "morph": "compound=balī+palita, n.nom.sg",
-   "grounds": "wrinkles and grey hair; compound with balī"
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "nāśam",
    "morph": "m.acc.sg",
-   "grounds": "removal or cessation"
+   "grounds": "first attainment listed"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "particle connecting items"
   },
   {
    "lemma": "sudūrāt",
    "morph": "(indecl.)",
-   "grounds": "from a great distance"
+   "grounds": "adverb modifying darśanam"
   },
   {
    "lemma": "darśanam",
    "morph": "n.acc.sg",
-   "grounds": "vision or perception"
+   "grounds": "second attainment listed"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "also"
+   "grounds": "connective adverb"
   }
  ]
 }

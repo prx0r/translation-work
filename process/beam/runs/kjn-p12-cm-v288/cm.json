@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound",
+   "morph": "compound:brahma+brahman",
    "grounds": "first member of compound"
   },
   {
    "lemma": "hatyā",
-   "morph": "compound",
-   "grounds": "act of slaying"
+   "morph": "compound:hatyā+killing",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "inclusive suffix"
+   "morph": "compound:ādika+and-other:n.nom.sg",
+   "grounds": "third member of compound, sin category"
   },
   {
    "lemma": "pāpam",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "aśva",
-   "morph": "compound",
+   "morph": "compound:aśva+horse",
    "grounds": "first member of compound"
   },
   {
    "lemma": "medha",
-   "morph": "compound",
-   "grounds": "ritual offering"
+   "morph": "compound:medha+sacrifice",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "inclusive suffix"
+   "morph": "compound:ādika+and-other:n.nom.sg",
+   "grounds": "third member of compound, merit category"
   },
   {
    "lemma": "phalam",

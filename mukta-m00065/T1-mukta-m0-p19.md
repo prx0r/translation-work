@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[rakta](raktā) [pīta](pītā) [ca](ca) [bhūpasya](bhūpasya) [viśaḥ](viśaḥ) [śyāma-kulattha-bhāḥ](śyāmakulatthabhāḥ)
+[red](raktā) [yellow](pītā) [and](ca) [of-king](bhūpasya) [of-vaiśya](viśaḥ) [black+kulattha+colored](śyāma+kulattha+bhāḥ)
 
 ## mukta-m0-p19-v452
-[indra-cāpa-upamā-rekhāḥ](indrācāpopamārekhāḥ) [sarva-āśrī-vasu-bhūti-dāḥ](sarvāśrīvasubhūtidāḥ)
+[rainbow+resembling+lines](indra+cāpa+upama+rekhāḥ) [all+prosperity+wealth+fortune+giving](sarva+śrī+vasu+bhūti+dāḥ)
 
 ## mukta-m0-p19-v453
-[lakṣaṇa-āḍhyā-alpa-doṣā](lakṣaṇāḍhyālpadoṣā) [yā](yā) [grāhyā](grāhyā) [sā](sā) [homa-śodhitā](homaśodhitā)
+[marks+endowed+little+flaw](lakṣaṇa+āḍhya+alpa+doṣā) [which](yā) [to-be-taken](grāhyā) [she](sā) [oblation+purified](homa+śodhitā)
 
 ## mukta-m0-p19-v454
-[indra-īśāna-indu-kāṣṭhāsu](indreśānendukāṣṭhāsu) [tasyāḥ](tasyā) [mastaka-miṣyate](mastakamiṣyate)
+[in-east+northeast+north+quarters](indra+īśāna+indu+kāṣṭhāsu) [of-that](tasyā) [head](mastakam) [is-desired](iṣyate)
 
 ## mukta-m0-p19-v455
-[tri-vidheṣu-api](trividheṣvapi) [liṅgeṣu](liṅgeṣu) [śilāyāṃ](śilāyāṃ) [na-aparo](nāparo) [vidhiḥ](vidhiḥ)
+[in-threefold+also](trividheṣu+api) [in-liṅgas](liṅgeṣu) [in-stone](śilāyām) [not+other](na+aparaḥ) [rule](vidhiḥ)
 
 ## mukta-m0-p19-v456
-[doṣān](doṣān) [vṛddha-ādikān](vṛddhādikān) [brūmaḥ](brūmaś) [ca-aṣṭāśīti-prabhedataḥ](cāṣṭāśītiprabhedataḥ)
+[flaws](doṣān) [old+etc.](vṛddha+ādikān) [we-tell](brūmaḥ) [by-eighty-four+kinds](ca+aṣṭāśīti+prabhedataḥ)
 
 ## mukta-m0-p19-v457
-[śūṣiraṃ](śūṣiraṃ) [sphoṭakaṃ](sphoṭakaṃ) [vyomaṃ](vyomaṃ) [gārā](gārā) [paṭala-jālakam](paṭalajālakam)
+[hollow](śūṣiraṃ) [blister](sphoṭakaṃ) [cavity](vyomaṃ) [stain](gārā) [layer+net](paṭala+jālakam)
 
 ## mukta-m0-p19-v458
-[lakṣaṇaṃ](lakṣaṇaṃ) [kathayāmi-eṣāṃ](kathayāmyeṣāṃ) [saṃkṣepeṇa](saṃkṣepeṇa) [prabhedataḥ](prabhedataḥ)
+[characteristic](lakṣaṇaṃ) [we-tell](kathayāmi) [of-these](eṣāṃ) [in-brief](saṃkṣepeṇa) [by-kinds](prabhedataḥ)
 
 ## mukta-m0-p19-v459
-[niṣṭhurā](niṣṭhurā) [ca-atirūkṣā](cātirūkṣā) [ca](ca) [vṛddhā](vṛddhā) [kārya-vināśinī](kāryavināśinī)
+[harsh](niṣṭhurā) [and+very-rough](ca+ati+rūkṣā) [and](ca) [old](vṛddhā) [work+destroying](kārya+vināśinī)
 
 ## mukta-m0-p19-v460
-[ṭaṅka-ghāta-asahiṣṇuñca](ṭaṅkaghātāsahiṣṇuñca) [na](na) [tāṃ](tāṃ) [devāya](devāya) [yojayet](yojayet)
+[chisel+blow+not-enduring](ṭaṅka+ghāta+asahiṣṇuñ) [and](ca) [not](na) [that](tāṃ) [for-deity](devāya) [one-should-employ](yojayet)
 
 ## mukta-m0-p19-v461
-[tasmāt-bimba-ātmakaṃ](tasmādbimbātmakaṃ) [ca-aśma](cāśma) [saṃchindyāt-dāru](saṃchindyāddāru) [vai](vai) [tathā](tathā)
+[therefore](tasmāt) [image+consisting+stone](bimba+ātmakaṃ) [and](ca) [aśma](aśma) [one-should-cut](saṃchindyāt) [wood](dāru) [indeed](vai) [likewise](tathā)
 
 ## mukta-m0-p19-v462
-[sapta-anyāni](saptānyāni) [ca](ca) [citrāṇi](citrāṇi) [caturdhā](caturdhā) [lepanaṃ](lepanaṃ) [tathā](tathā)
+[seven](sapta) [others](anyāni) [and](ca) [variegated](citrāṇi) [fourfold](caturdhā) [coating](lepanaṃ) [likewise](tathā)
 
 ## mukta-m0-p19-v463
-[kāpilaṃ](kāpilaṃ) [haritāla-ābhaṃ](haritālābhaṃ) [kāpotaṃ-alivarṇakam](kāpotamalivarṇakam)
+[tawny](kāpilaṃ) [orpiment+resembling](haritāla+ābhaṃ) [pigeon+dung+colored](kāpota+mala+varṇakam)
 
 ## mukta-m0-p19-v464
-[kiṃśuka-ābhaṃ](kiṃśukābhaṃ) [kusumbha-ābham-atasī-puṣpa-sannibham](kusumbhābhamatasīpuṣpasannibham)
+[kiṃśuka-flower+resembling](kiṃśuka+ābhaṃ) [safflower+resembling](kusumbha+ābham) [flax+flower+similar](atasī+puṣpa+sannibham)
 
 ## mukta-m0-p19-v465
-[campaka-ābhaṃ](campakābhaṃ) [ca](ca) [nīla-ābhaṃ](nīlābhaṃ) [miśra-lohita-pītakam](miśralohitapītakam)
+[campaka-flower+resembling](campaka+ābhaṃ) [and](ca) [blue+resembling](nīla+ābhaṃ) [mixed+red+yellow](miśra+lohita+pītakam)
 
 ## mukta-m0-p19-v466
-[raktaṃ](raktaṃ) [ca](ca) [pāṇḍaraṃ](pāṇḍaraṃ) [ca-eva](caiva) [garbha-doṣān](garbhadoṣān) [vadāmi-ataḥ](vadāmyata)
+[red](raktaṃ) [and](ca) [pale](pāṇḍaraṃ) [and](ca) [indeed](eva) [womb+flaws](garbha+doṣān) [I-declare](vadāmi) [now](ata)
 
 ## mukta-m0-p19-v467
-[guḍa-varṇe](guḍavarṇe) [śilā-nyā](śilānyā) [syāt-tena-avṛṣṭiḥ-bhavet-ciram](tenāvṛṣṭirbhavecciram)
+[in-jaggery+color](guḍa+varṇe) [stone+other](śilā+anyā) [may-be](syāt) [by-that](tena) [drought](avṛṣṭiḥ) [may-be](bhavet) [long](ciram)
 
 ## mukta-m0-p19-v468
-[mañjiṣṭhā-abhe](mañjiṣṭhābhe) [bhavet-bhekaḥ](bhavedbhekaḥ) [śasya-nāśaḥ](śasyanāśo) [jalāt-bhayam](jalādbhayam)
+[in-madder+resembling](mañjiṣṭhā+ābhe) [may-be](bhavet) [frog](bhekaḥ) [crop+destruction](śasya+nāśaḥ) [from-water+danger](jalāt+bhayam)
 
 ## mukta-m0-p19-v469
-[pīte](pīte) [godhā](godhā) [nṛpaṃ](nṛpaṃ) [hanyāt-ṭavāṃ](hanyāṅṭavāṃ) [pīḍā-karī](pīḍākarī) [ca](ca) [sā](sā)
+[in-yellow](pīte) [lizard](godhā) [king](nṛpaṃ) [may-kill](hanyāt) [fever](ṅṭavāṃ) [pain+causing](pīḍā+karī) [and](ca) [she](sā)
 
 ## mukta-m0-p19-v470
-[tāla-abhe](tālābhe) [karkaṭaḥ-pitta-roga-darbhi-kṣa-kṛt-ca](karkaṭaḥpittarogadarbhikṣakṛcca) [saḥ](saḥ)
+[in-palm-fruit+resembling](tāla+ābhe) [crab](karkaṭaḥ) [bile+disease+famine+causing](pitta+roga+darbhikṣa+kṛt) [and](ca) [he](saḥ)
 
 ## mukta-m0-p19-v471
-[jyeṣṭhā](jyeṣṭhā) [kapota-kaṇṭha-abhe](kapotakaṇṭhābhe) [vyādhi-dāridrya-bhīti-dā](vyādhidāridryabhītidā)
+[elder-sister](jyeṣṭhā) [in-pigeon+throat+resembling](kapota+kaṇṭha+ābhe) [disease+poverty+fear+giving](vyādhi+dāridrya+bhīti+dā)
 
 ## mukta-m0-p19-v472
-[nīlake](nīlake) [makṣikā](makṣikā) [sā](sā) [ca](ca) [hanyāt-bhāryāṃ](hanyādbhāryāṃ) [sa-putrakām](saputrakām)
+[in-blue](nīlake) [fly](makṣikā) [she](sā) [and](ca) [may-kill](hanyāt) [wife](bhāryāṃ) [with-son](sa+putrakām)
 
 ## mukta-m0-p19-v473
-[nṛpa-kṣī](nṛpakṣī) [ca-aṣa-varṇe](cāṣavarṇe) [syāt-tena](syāttena) [kartuḥ-prajā-kṣayaḥ](kartuḥprajākṣayaḥ)
+[king+bird](nṛpa+kṣī) [in-blue-jay+color](cāṣa+varṇe) [may-be](syāt) [by-that](tena) [of-maker](kartuḥ) [offspring+destruction](prajā+kṣayaḥ)
 
 ## mukta-m0-p19-v474
-[kiṃśuke](kiṃśuke) [śakragopaḥ](śakragopaḥ) [syāt-tena](syāttena) [rājñaḥ](rājño) [dhana-kṣayaḥ](dhanakṣayaḥ)
+[in-kiṃśuka-color](kiṃśuke) [red-velvet-mite](śakra+gopaḥ) [may-be](syāt) [by-that](tena) [of-king](rājñaḥ) [wealth+destruction](dhana+kṣayaḥ)
 
 ## mukta-m0-p19-v475
-[atasī-puṣpa-saṃkāśe](atasīpuṣpasaṃkāśe) [garbhe](garbhe) [vidyāt](vidyāt) [pipīlikā](pipīlikā)
+[flax+flower+resembling](atasī+puṣpa+saṃkāśe) [in-womb](garbhe) [one-should-know](vidyāt) [ant](pipīlikā)

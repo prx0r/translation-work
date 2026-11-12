@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound",
+   "morph": "compound:padma+lotus",
    "grounds": "first member of compound"
   },
   {
    "lemma": "patre",
-   "morph": "n.loc.sg",
-   "grounds": "surface in simile"
+   "morph": "compound:patra+leaf:n.loc.sg",
+   "grounds": "second member of compound, locus of analogy"
   },
   {
    "lemma": "yathā",
@@ -20,7 +20,7 @@
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "water in simile"
+   "grounds": "water in the analogy"
   },
   {
    "lemma": "tathā",
@@ -45,7 +45,7 @@
   {
    "lemma": "lipyate",
    "morph": "3.sg.present-passive √lip",
-   "grounds": "affected or stained"
+   "grounds": "state of being unaffected"
   }
  ]
 }

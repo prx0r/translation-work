@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "vuka",
-   "morph": "compound",
-   "grounds": "first member of compound; plant name"
+   "morph": "compound:vuka+vuka",
+   "grounds": "first member of compound, plant name"
   },
   {
    "lemma": "puṣpaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "ritual offering"
+   "morph": "compound:puṣpa+flower:n.nom.sg",
+   "grounds": "second member of compound, offering item"
   },
   {
    "lemma": "śiva",
-   "morph": "compound",
+   "morph": "compound:śiva+auspicious",
    "grounds": "first member of compound"
   },
   {
    "lemma": "ambuñ",
-   "morph": "n.acc.sg",
-   "grounds": "sacred water; sandhi form"
+   "morph": "compound:ambu+water:n.nom.sg",
+   "grounds": "second member of compound, sandhi form of ambu"
   },
   {
    "lemma": "ca",
@@ -29,18 +29,18 @@
   },
   {
    "lemma": "rakta",
-   "morph": "compound",
+   "morph": "compound:rakta+blood",
    "grounds": "first member of compound"
   },
   {
    "lemma": "śukraṃ",
-   "morph": "n.acc.sg",
-   "grounds": "vital fluid"
+   "morph": "compound:śukra+semen:n.nom.sg",
+   "grounds": "second member of compound, offering substance"
   },
   {
    "lemma": "surām",
    "morph": "f.acc.sg",
-   "grounds": "ritual drink"
+   "grounds": "offering substance"
   },
   {
    "lemma": "tathā",

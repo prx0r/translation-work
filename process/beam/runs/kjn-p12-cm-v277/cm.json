@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "vijñānam",
-   "morph": "n.acc.sg",
-   "grounds": "cognitive attainment"
+   "morph": "n.nom.sg",
+   "grounds": "quality or faculty possessed"
   },
   {
    "lemma": "bala",
-   "morph": "compound",
+   "morph": "compound:bala+strength",
    "grounds": "first member of compound"
   },
   {
    "lemma": "sāmarthyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "power or ability"
+   "morph": "compound:sāmarthya+capability:n.nom.sg",
+   "grounds": "second member of compound, power or ability"
   },
   {
    "lemma": "sapta",
-   "morph": "compound",
-   "grounds": "numeral"
+   "morph": "(indecl.)",
+   "grounds": "numeral modifying births"
   },
   {
    "lemma": "janma",
-   "morph": "compound",
-   "grounds": "member of compound"
+   "morph": "compound:janma+birth",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "antikaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "limit or end"
+   "morph": "compound:antika+ending:n.nom.sg",
+   "grounds": "second member of compound, reaching the end of"
   },
   {
    "lemma": "paśu",
    "morph": "m.nom.sg",
-   "grounds": "sacrificial victim"
+   "grounds": "subject or referent possessing these traits"
   }
  ]
 }

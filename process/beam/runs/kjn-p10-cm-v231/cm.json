@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound=guhya+first",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "qualifier in compound with sthānaṃ"
   },
   {
    "lemma": "sthānaṃ",
-   "morph": "compound=guhya+sthānaṃ, n.acc.sg",
-   "grounds": "hidden location; compound with guhya"
+   "morph": "n.acc.sg",
+   "grounds": "subject described by yathā clause"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "in which manner"
+   "grounds": "relative particle introducing manner"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subtle center or diagram"
+   "grounds": "subject that is accomplished"
   },
   {
    "lemma": "kṣipraṃ",
    "morph": "(indecl.)",
-   "grounds": "swiftly"
+   "grounds": "adverb modifying sidhyati"
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.act-pres/√sidh",
-   "grounds": "attains success or perfection"
+   "morph": "3.sg.present-active √sidh",
+   "grounds": "main verb"
   },
   {
    "lemma": "bhairava",
    "morph": "m.voc.sg",
-   "grounds": "vocative address to Bhairava"
+   "grounds": "vocative address"
   }
  ]
 }

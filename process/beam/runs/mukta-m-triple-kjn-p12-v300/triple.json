@@ -7,57 +7,57 @@
     {
      "surface": "aśītiṃ",
      "gloss": "eighty",
-     "grounds": "numeral referring to count",
+     "grounds": "numeral indicating a quantity of eighty",
      "morph": "f.acc.sg"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "causative action toward object",
-     "morph": "3.sg.act.opt"
+     "grounds": "expresses removal or elimination",
+     "morph": "3.sg.opt-act; √naś (causative)"
     },
     {
      "surface": "vātān",
      "gloss": "winds",
-     "grounds": "object of destructive action",
+     "grounds": "bodily winds or wind-related disorders",
      "morph": "m.acc.pl"
     },
     {
      "surface": "kuṣṭha",
      "gloss": "leprosy",
-     "grounds": "named affliction",
-     "morph": "n.nom.sg"
+     "grounds": "first member of a compound naming a disease",
+     "morph": "compound-member"
     },
     {
      "surface": "vyādhim",
      "gloss": "disease",
-     "grounds": "object of destructive action",
-     "morph": "m.acc.sg"
+     "grounds": "head of the compound denoting illness",
+     "morph": "m.acc.sg; compound-head"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "contrastive emphasis",
+     "grounds": "particle adding emphasis or contrast",
      "morph": "(indecl.)"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "causative action toward object",
-     "morph": "3.sg.act.opt"
+     "grounds": "repeated verb emphasizing elimination",
+     "morph": "3.sg.opt-act; √naś (causative)"
     }
    ],
-   "question": "By what means does the prescribed action counter both wind disorders and specific afflictions in this claim?",
+   "question": "Which specific bodily afflictions are eliminated by the described practice?",
    "premises": [
-    "Eighty wind disorders are subject to destruction.",
-    "Leprosy stands as a distinct affliction to be addressed.",
-    "A single action is said to destroy disease as well."
+    "The practice destroys eighty winds.",
+    "The practice also destroys leprosy disease.",
+    "The repetition of the verb emphasizes complete elimination."
    ],
-   "inference": "The stated action destroys eighty winds and also destroys leprosy and disease.",
+   "inference": "The described practice removes both the eighty winds and the disease of leprosy.",
    "uncertainties": [
-    "Scope of 'eighty winds' remains unspecified by this verse alone."
+    "The exact nature of the eighty winds in this context is not specified."
    ],
-   "plain_english": "It destroys eighty winds; indeed it destroys leprosy and disease."
+   "plain_english": "It destroys the eighty winds, and indeed it destroys the disease of leprosy."
   }
  ]
 }
