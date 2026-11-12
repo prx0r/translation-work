@@ -2,46 +2,46 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p120-v2976
-[wealth+share+relation](dhanabhāgitvasambandhāt) [three-night](trirātraṃ) [prescribed](vihitaṃ) [thus](tathā)
+[wealth+share-ness+connection-from](dhanabhāgitvasambandhāt) [three-nights](trirātraṃ) [prescribed](vihitaṃ) [likewise](tathā)
 
 ## mukta-m0-p120-v2977
-[again+undivided+injunction](punaravibhaktavidhānena) [heirs](dāyādā) [should-share](bhajeran)
+[again+undivided+rule-by](punaravibhaktavidhānena) [heirs](dāyādā) [should-divide](bhajeran)
 
 ## mukta-m0-p120-v2978
-[dead](mṛte) [also](api) [death](maraṇe) [also](api) [they](te) [heirs](dāyādāḥ) [such+wealth+sharers](tādṛgvibhavabhāginaḥ) [should-become](bhaveyuḥ)
+[dead-even](mṛte'pi) [death-even](maraṇe'pi) [they](te) [heirs](dāyādāḥ) [such+wealth+sharers](tādṛgvibhavabhāginaḥ) [should-be](bhaveyuḥ)
 
 ## mukta-m0-p120-v2979
-[and+indication](copalakṣaṇam)
+[and](ca) [indicative-mark](upalakṣaṇam) [this](etat) [is](asti)
 
 ## mukta-m0-p120-v2980
-[by-hearing](śravaṇāt) [remaining+days](śeṣadivasaiḥ) [should-be-purified](viśuddhyeyuḥ) [twice-born+and-others](dvijādayaḥ)
+[hearing-from](śravaṇāt) [remaining+days-by](śeṣadivasaiḥ) [should-be-purified](viśuddhyeyuḥ) [twice-born+and-others](dvijādayaḥ)
 
 ## mukta-m0-p120-v2981
-[completed](pūrṇe) [three-night](trirātraṃ) [prescribed](vihitaṃ) [not](na) [if](cet) [year](saṃvatsarāt) [beyond](param)
+[complete](pūrṇe) [three-nights](trirātraṃ) [prescribed](vihitaṃ) [not](na) [if](cet) [year-from](saṃvatsarāt) [beyond](param)
 
 ## mukta-m0-p120-v2982
-[three-night](trirātram) [impure](aśuciḥ) [son](putraḥ) [likewise](tathā) [of-husband](bhartuḥ) [devoted-wife](pativratā)
+[three-nights](trirātram) [impure](aśuciḥ) [son](putraḥ) [likewise](tathā) [husband-of](bhartuḥ) [devoted-wife](pativratā)
 
 ## mukta-m0-p120-v2983
 [prescribed](vihitam) [world](lokaḥ) [should-be](syāt) [in-world](bhuvane) [in-people](jane) [thus](iti) [Amara](amaraḥ)
 
 ## mukta-m0-p120-v2984
-[therefore](tasmāt) [instrument+and-location](karaṇādhikaraṇayoḥ) [and](ca) [thus](iti) [in-location](adhikaraṇe) [lyuṭ-suffix](lyuṭ)
+[therefore](tasmāt) [instrument+and+location-of](karaṇādhikaraṇayoḥ) [and](ca) [thus](iti) [in-location](adhikaraṇe) [lyuṭ-suffix](lyuṭ)
 
 ## mukta-m0-p120-v2985
-[death+pertaining](maraṇaviṣayakam) [this](idaṃ) [statement](vacanam)
+[death+subject-having](maraṇaviṣayakam) [this](idam) [statement](vacanam)
 
 ## mukta-m0-p120-v2986
-[by-heavy+impurity](gurvaśaucena) [of-mortals](martyānāṃ) [purification](śuddhiḥ) [there](tatra) [is-prescribed](vidhīyate)
+[heavy+impurity-by](gurvaśaucena) [of-mortals](martyānāṃ) [purification](śuddhiḥ) [there](tatra) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p120-v2987
-[of-pervaded+and-pervader](vyāpyavyāpakayoḥ) [in-middle](madhye) [heavier](garīyo) [pervading](vyāpakaṃ) [is-remembered](smṛtam)
+[pervaded+and+pervader-of](vyāpyavyāpakayoḥ) [in-middle](madhye) [heavier](garīyaḥ) [pervading](vyāpakaṃ) [is-remembered](smṛtam)
 
 ## mukta-m0-p120-v2988
-[by-previous+impurity](pūrvāśaucena) [purification](śuddhiḥ) [should-be](syāt) [by-impurity+increase](aghavṛddhyā) [day+two](dinadvayam)
+[previous+impurity-by](pūrvāśaucena) [purification](śuddhiḥ) [should-be](syāt) [impurity+increase-by](aghavṛddhyā) [day+two](dinadvayam)
 
 ## mukta-m0-p120-v2989
-[woman](strī) [three-night](trirātram) [impure](aśuciḥ) [should-be](syāt)
+[woman](strī) [three-nights](trirātram) [impure](aśuciḥ) [should-be](syāt)
 
 ## mukta-m0-p120-v2990
 [of-mortals](martyānāṃ) [purification](śuddhiḥ) [is-prescribed](vidhīyate)
@@ -50,28 +50,28 @@
 [more-heavy](gurutaraṃ) [is-remembered](smṛtam)
 
 ## mukta-m0-p120-v2992
-[there](tatra) [also](api) [thus](evam) [indeed](eva) [to-be-understood](avagantavyam)
+[there+also](tatrāpi) [thus+indeed](evam+eva) [to-be-understood](avagantavyam)
 
 ## mukta-m0-p120-v2993
-[born](jāte) [marriage](pariṇaye) [of-parents](pitroḥ) [in-death](mṛtau) [three-days](tryaham) [is-stated](udāhṛtam)
+[birth+after](jāte) [marriage](pariṇaye) [of-parents](pitroḥ) [in-death](mṛtau) [three-days](tryaham) [is-stated](udāhṛtam)
 
 ## mukta-m0-p120-v2994
-[likewise](tathā) [by-adopter+gotra](gṛhītṛgotreṇa) [of-adopted+son](dattaputrasya) [gotra-status](gotritā)
+[likewise](tathā) [taker+gotra-by](gṛhītṛgotreṇa) [of-adopted-son](dattaputrasya) [gotra-ness](gotritā)
 
 ## mukta-m0-p120-v2995
-[own+gotra+names](svagotranāmāni) [having-written](ullikhya) [should-perform-rites](saṃskuryāt) [with-own-people](svajanaiḥ) [together](saha)
+[own+gotra+names](svagotranāmāni) [having-written](ullikhya) [should-perform-rites](saṃskuryāt) [own-people-with](svajanaiḥ) [together](saha)
 
 ## mukta-m0-p120-v2996
 [three-days](tryahaṃ) [three-days](tridinam) [impurity](aśaucam) [is-stated](udāhṛtam)
 
 ## mukta-m0-p120-v2997
-[gotra-status](gotritā) [having-gotra](gotravattā) [should-be](syāt)
+[gotra-ness](gotritā) [gotra+possessing-ness](gotravattā) [should-be](syāt)
 
 ## mukta-m0-p120-v2998
 [rite](saṃskāraṃ) [should-perform](kuryāt)
 
 ## mukta-m0-p120-v2999
-[of-adopters](ādātroḥ) [in-adopted-son](dattake) [likewise](tadvat) [because](yataḥ) [his](asya) [parents](pitarau) [indeed](hi) [they](tau)
+[of-takers](ādātroḥ) [in-adopted-son](dattake) [likewise](tadvat) [because](yataḥ) [his](asya) [two-fathers](pitarau) [indeed](hi) [they](tau)
 
 ## mukta-m0-p120-v3000
-[five+years+older](pañcavarṣādhiko) [boy](bālo) [adopted-son](dattako) [not](na) [is-approved](praśasyate)
+[five+years+older](pañcavarṣādhikaḥ) [boy](bālaḥ) [adopted-son](dattakaḥ) [not](na) [is-approved](praśasyate)

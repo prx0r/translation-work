@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "utpādakaḥ",
-"quick_gloss": "progenitor"
+"quick_gloss": "begetter"
 },
 {
 "surface": "pitṛvyaḥ",
@@ -19,12 +19,12 @@
 "quick_gloss": "should-be"
 },
 {
-"surface": "sarva+karmasu",
+"surface": "sarvakarmasu",
 "quick_gloss": "in-all+rites"
 },
 {
 "surface": "kālike",
-"quick_gloss": "of-kālī"
+"quick_gloss": "of-Kālī"
 }
 ]
 },
@@ -40,11 +40,15 @@
 "quick_gloss": "he-should-protect"
 },
 {
-"surface": "niyamān+tasya",
-"quick_gloss": "his+vows"
+"surface": "niyamān",
+"quick_gloss": "observances"
 },
 {
-"surface": "tat+bandhūn",
+"surface": "tasya",
+"quick_gloss": "his"
+},
+{
+"surface": "tadbandhūn",
 "quick_gloss": "his+kinsmen"
 },
 {
@@ -69,12 +73,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "tat+dhana+piṇḍayoḥ",
-"quick_gloss": "of-his+wealth+and+piṇḍa"
+"surface": "taddhana",
+"quick_gloss": "his+wealth"
+},
+{
+"surface": "piṇḍayoḥ",
+"quick_gloss": "and-offerings"
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "adhikāritā",
@@ -95,7 +103,7 @@
 "tokens": [
 {
 "surface": "bāloḥ",
-"quick_gloss": "of-boy"
+"quick_gloss": "of-a-child"
 },
 {
 "surface": "asau",
@@ -139,12 +147,8 @@
 "quick_gloss": "of-them"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "na+eva",
+"quick_gloss": "not+indeed"
 },
 {
 "surface": "dāya+adhikāritā",
@@ -160,16 +164,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+pātakinām",
-"quick_gloss": "of-great+sinners"
+"surface": "mahāpātakinām",
+"quick_gloss": "of-great-sinners"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "ca+api",
+"quick_gloss": "and+also"
 },
 {
 "surface": "mṛtau",
@@ -248,7 +248,7 @@
 "tokens": [
 {
 "surface": "kuryāt",
-"quick_gloss": "one-should-do"
+"quick_gloss": "he-should-do"
 }
 ]
 },
@@ -261,7 +261,7 @@
 "tokens": [
 {
 "surface": "rakṣayet",
-"quick_gloss": "one-should-protect"
+"quick_gloss": "he-should-protect"
 }
 ]
 },
@@ -273,16 +273,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tri+rātra+ante",
-"quick_gloss": "at-end-of-three+nights"
+"surface": "trirātra+ante",
+"quick_gloss": "at-end-of-three-nights"
 },
 {
 "surface": "tat+suta+ādyaiḥ",
-"quick_gloss": "by-his+sons+and-others"
+"quick_gloss": "by-his-sons-and-others"
 },
 {
 "surface": "pretatvaṃ",
-"quick_gloss": "preta-state"
+"quick_gloss": "state-of-preta"
 },
 {
 "surface": "parimocayet",
@@ -331,12 +331,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasya",
-"quick_gloss": "of-him"
-},
-{
-"surface": "eva",
-"quick_gloss": "alone"
+"surface": "tasya+eva",
+"quick_gloss": "of-him+alone"
 },
 {
 "surface": "nṛpatiḥ",
@@ -356,7 +352,7 @@
 },
 {
 "surface": "prajā+prabhuḥ",
-"quick_gloss": "of-subjects+lord"
+"quick_gloss": "lord-of-subjects"
 }
 ]
 },
@@ -368,12 +364,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasya",
-"quick_gloss": "of-him"
-},
-{
-"surface": "eva",
-"quick_gloss": "alone"
+"surface": "tasya+eva",
+"quick_gloss": "of-him+alone"
 },
 {
 "surface": "dārāḥ",
@@ -381,7 +373,7 @@
 },
 {
 "surface": "putrāḥ",
-"quick_gloss": "sons"
+"quick_gloss": "and-sons"
 },
 {
 "surface": "ca",
@@ -392,20 +384,12 @@
 "quick_gloss": "wealth"
 },
 {
-"surface": "tasya",
-"quick_gloss": "of-him"
+"surface": "tasya+eva",
+"quick_gloss": "of-him+alone"
 },
 {
-"surface": "eva",
-"quick_gloss": "alone"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "anyathā",
-"quick_gloss": "otherwise"
+"surface": "na+anyathā",
+"quick_gloss": "not+otherwise"
 }
 ]
 },
@@ -422,19 +406,15 @@
 },
 {
 "surface": "pretatvam",
-"quick_gloss": "preta-state"
+"quick_gloss": "state-of-preta"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "taiḥ",
-"quick_gloss": "by-them"
-},
-{
-"surface": "eva",
-"quick_gloss": "alone"
+"surface": "taiḥ+eva",
+"quick_gloss": "by-them+alone"
 },
 {
 "surface": "parimocayet",
@@ -472,15 +452,15 @@
 },
 {
 "surface": "nisvaḥ",
-"quick_gloss": "without-wealth"
+"quick_gloss": "without-property"
 },
 {
-"surface": "duḥ+vidhaḥ",
-"quick_gloss": "of-two+kinds"
+"surface": "durvidhaḥ",
+"quick_gloss": "of-two-kinds"
 },
 {
 "surface": "dīnaḥ",
-"quick_gloss": "miserable"
+"quick_gloss": "wretched"
 },
 {
 "surface": "daridraḥ",
@@ -499,12 +479,8 @@
 "quick_gloss": "he"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "amaraḥ",
-"quick_gloss": "Amara"
+"surface": "iti+amaraḥ",
+"quick_gloss": "thus+Amara"
 }
 ]
 },
@@ -517,7 +493,7 @@
 "tokens": [
 {
 "surface": "svajanāya",
-"quick_gloss": "to-own-person"
+"quick_gloss": "to-own-people"
 },
 {
 "surface": "atha+vā",
@@ -546,11 +522,11 @@
 "tokens": [
 {
 "surface": "asthāvaraṃ",
-"quick_gloss": "immovable"
+"quick_gloss": "immovable-property"
 },
 {
 "surface": "paitṛkaṃ",
-"quick_gloss": "paternal"
+"quick_gloss": "ancestral"
 },
 {
 "surface": "ca",
@@ -558,7 +534,7 @@
 },
 {
 "surface": "sva+icchayā",
-"quick_gloss": "by-own+will"
+"quick_gloss": "by-own-will"
 },
 {
 "surface": "dātum",
@@ -599,7 +575,7 @@
 },
 {
 "surface": "evaṃ",
-"quick_gloss": "thus"
+"quick_gloss": "likewise"
 },
 {
 "surface": "svasari",
@@ -620,11 +596,11 @@
 "tokens": [
 {
 "surface": "asthāvaraṃ",
-"quick_gloss": "immovable"
+"quick_gloss": "immovable-property"
 },
 {
 "surface": "paitṛkam",
-"quick_gloss": "paternal"
+"quick_gloss": "ancestral"
 },
 {
 "surface": "ca",
@@ -644,7 +620,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "he-would-be"
+"quick_gloss": "he-should-be"
 }
 ]
 },
@@ -686,11 +662,11 @@
 "tokens": [
 {
 "surface": "pādasya",
-"quick_gloss": "of-pāda"
+"quick_gloss": "of-a-quarter"
 },
 {
 "surface": "pūraṇe",
-"quick_gloss": "in-filling"
+"quick_gloss": "in-completion"
 },
 {
 "surface": "api",
@@ -702,7 +678,7 @@
 },
 {
 "surface": "nava+sva+artheṣu",
-"quick_gloss": "in-nine+meanings"
+"quick_gloss": "in-nine-meanings"
 },
 {
 "surface": "ca",
@@ -740,7 +716,7 @@
 "tokens": [
 {
 "surface": "puṃsā",
-"quick_gloss": "by-man"
+"quick_gloss": "by-a-man"
 },
 {
 "surface": "tat",
@@ -756,15 +732,11 @@
 },
 {
 "surface": "putra+ādyaiḥ",
-"quick_gloss": "by-sons+and-others"
+"quick_gloss": "by-sons-and-others"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "na+eva",
+"quick_gloss": "not+indeed"
 },
 {
 "surface": "śakyate",
