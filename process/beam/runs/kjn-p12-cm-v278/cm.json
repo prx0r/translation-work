@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "pūjayed",
-   "morph": "3.sg.optative-active √pūj",
-   "grounds": "ritual injunction"
+   "morph": "3.sg.opt.act √pūj",
+   "grounds": "optative verb"
   },
   {
    "lemma": "yoginī",
-   "morph": "compound-member",
-   "grounds": "female practitioner or deity"
+   "morph": "compound:yoginī+vṛndam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "vṛndaṃ",
    "morph": "n.acc.sg",
-   "grounds": "group"
+   "grounds": "second member of compound, accusative singular"
   },
   {
    "lemma": "bhakṣya",
-   "morph": "compound-member",
-   "grounds": "eatables"
+   "morph": "compound:bhakṣya+bhojya",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "bhojya",
-   "morph": "compound-member",
-   "grounds": "eatables"
+   "morph": "compound:bhakṣya+bhojya+ādibhiḥ",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ādibhiḥ",
-   "morph": "n.ins.pl",
-   "grounds": "inclusive series"
+   "morph": "m.inst.pl",
+   "grounds": "final member of compound, instrumental plural"
   },
   {
    "lemma": "priye",

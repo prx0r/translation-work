@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "aṇimā",
-   "morph": "compound-member",
-   "grounds": "supernatural power"
+   "morph": "compound:aṇimā+ādi",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "ādi",
-   "morph": "compound-member",
-   "grounds": "inclusive series"
+   "morph": "compound:aṇimā+ādi+guṇa",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "guṇa",
-   "morph": "compound-member",
-   "grounds": "attributes"
+   "morph": "compound:aṇimā+ādi+guṇa+aiśvarya",
+   "grounds": "third member of compound"
   },
   {
    "lemma": "aiśvarya",
-   "morph": "compound-member",
-   "grounds": "sovereign power"
+   "morph": "compound:aṇimā+ādi+guṇa+aiśvarya+siddhiḥ",
+   "grounds": "fourth member of compound"
   },
   {
    "lemma": "siddhiḥ",
    "morph": "f.nom.sg",
-   "grounds": "attainment"
+   "grounds": "subject, nominative singular"
   },
   {
    "lemma": "ca",
@@ -35,12 +35,12 @@
   {
    "lemma": "mānasī",
    "morph": "f.nom.sg",
-   "grounds": "pertaining to mind"
+   "grounds": "adjective qualifying accomplishment"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative-active √bhū",
-   "grounds": "potential result"
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "optative verb"
   }
  ]
 }

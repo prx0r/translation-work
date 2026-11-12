@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "niṣparigraha",
-   "morph": "compound-member",
-   "grounds": "renunciation of possessions"
+   "morph": "compound:niṣparigraha+santoṣam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "santoṣaṃ",
    "morph": "m.acc.sg",
-   "grounds": "satisfaction"
+   "grounds": "second member of compound, accusative singular"
   },
   {
    "lemma": "dvandva",
-   "morph": "compound-member",
-   "grounds": "pairs of opposites"
+   "morph": "compound:dvandva+yogam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "yogaṃ",
    "morph": "m.acc.sg",
-   "grounds": "conjunction"
+   "grounds": "second member of compound, accusative singular"
   },
   {
    "lemma": "na",
@@ -29,8 +29,8 @@
   },
   {
    "lemma": "kārayet",
-   "morph": "3.sg.optative-causative-active √kṛ",
-   "grounds": "injunction"
+   "morph": "3.sg.opt.caus.act √kṛ",
+   "grounds": "optative causative verb"
   }
  ]
 }

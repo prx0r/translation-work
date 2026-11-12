@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "laulya",
-   "morph": "compound-member",
-   "grounds": "craving"
+   "morph": "compound:laulya+arthī",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "arthī",
    "morph": "m.nom.sg",
-   "grounds": "one desiring"
+   "grounds": "second member of compound, nominative singular"
   },
   {
    "lemma": "capalā",
    "morph": "f.nom.sg",
-   "grounds": "restless"
+   "grounds": "adjective, nominative singular"
   },
   {
    "lemma": "nityaṃ",
    "morph": "(indecl.)",
-   "grounds": "constantly"
+   "grounds": "adverb"
   },
   {
    "lemma": "kula",
-   "morph": "compound-member",
-   "grounds": "tradition"
+   "morph": "compound:kula+śāstra",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "śāstra",
-   "morph": "compound-member",
-   "grounds": "teaching"
+   "morph": "compound:kula+śāstra+viḍambakam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "viḍambakam",
    "morph": "n.nom.sg",
-   "grounds": "travesty"
+   "grounds": "final member of compound, nominative singular"
   }
  ]
 }

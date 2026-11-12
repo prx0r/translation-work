@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "brahma",
-   "morph": "compound-member",
-   "grounds": "priestly class"
+   "morph": "compound:brahma+hatyā",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "hatyā",
-   "morph": "compound-member",
-   "grounds": "slaying"
+   "morph": "compound:brahma+hatyā+ādikam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "inclusive series"
+   "morph": "n.acc.sg",
+   "grounds": "final member of compound, accusative singular"
   },
   {
    "lemma": "pāpam",
-   "morph": "n.nom.sg",
-   "grounds": "demerit"
+   "morph": "n.acc.sg",
+   "grounds": "object, accusative singular"
   },
   {
    "lemma": "aśva",
-   "morph": "compound-member",
-   "grounds": "sacrificial animal"
+   "morph": "compound:aśva+medha",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "medha",
-   "morph": "compound-member",
-   "grounds": "ritual offering"
+   "morph": "compound:aśva+medha+ādikam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ādikaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "inclusive series"
+   "morph": "n.acc.sg",
+   "grounds": "final member of compound, accusative singular"
   },
   {
    "lemma": "phalam",
-   "morph": "n.nom.sg",
-   "grounds": "merit or result"
+   "morph": "n.acc.sg",
+   "grounds": "object, accusative singular"
   }
  ]
 }

@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "ajñāna",
-   "morph": "compound-member",
-   "grounds": "lack of knowledge"
+   "morph": "compound:ajñāna+bandhana",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "bandhana",
-   "morph": "compound-member",
-   "grounds": "binding"
+   "morph": "compound:ajñāna+bandhana+ājñeyam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "ājñeyaṃ",
-   "morph": "n.nom.sg.future-passive-participle √jñā",
-   "grounds": "to be understood"
+   "morph": "n.nom.sg.ger √jñā",
+   "grounds": "gerundive, nominative singular"
   },
   {
    "lemma": "jñānaṃ",
    "morph": "n.nom.sg",
-   "grounds": "true knowing"
+   "grounds": "subject, nominative singular"
   },
   {
    "lemma": "jñeyaṃ",
-   "morph": "n.nom.sg.future-passive-participle √jñā",
-   "grounds": "to be understood"
+   "morph": "n.nom.sg.ger √jñā",
+   "grounds": "gerundive, nominative singular"
   },
   {
    "lemma": "vimocanam",
    "morph": "n.nom.sg",
-   "grounds": "release"
+   "grounds": "predicate, nominative singular"
   }
  ]
 }

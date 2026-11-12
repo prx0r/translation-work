@@ -5,12 +5,12 @@
   {
    "lemma": "gandhaṃ",
    "morph": "m.acc.sg",
-   "grounds": "scent"
+   "grounds": "object, accusative singular"
   },
   {
    "lemma": "dhūpañ",
    "morph": "m.acc.sg",
-   "grounds": "aromatic smoke"
+   "grounds": "object, accusative singular"
   },
   {
    "lemma": "ca",
@@ -20,7 +20,7 @@
   {
    "lemma": "geyañ",
    "morph": "n.acc.sg",
-   "grounds": "singing"
+   "grounds": "object, accusative singular"
   },
   {
    "lemma": "ca",
@@ -30,17 +30,17 @@
   {
    "lemma": "tāmbūlaṃ",
    "morph": "n.acc.sg",
-   "grounds": "chewing offering"
+   "grounds": "object, accusative singular"
   },
   {
    "lemma": "rakta",
-   "morph": "compound-member",
-   "grounds": "color"
+   "morph": "compound:rakta+vāsasam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "vāsasam",
    "morph": "n.acc.sg",
-   "grounds": "cloth"
+   "grounds": "second member of compound, accusative singular"
   }
  ]
 }

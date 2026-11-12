@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound-member",
-   "grounds": "awareness"
+   "morph": "compound:vijñāna+unmīlanam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "unmīlanam",
    "morph": "n.nom.sg",
-   "grounds": "opening"
+   "grounds": "second member of compound, nominative singular"
   },
   {
    "lemma": "bhadre",
@@ -19,13 +19,13 @@
   },
   {
    "lemma": "bhavati",
-   "morph": "3.sg.present-active √bhū",
-   "grounds": "arises"
+   "morph": "3.sg.pres.act √bhū",
+   "grounds": "present verb"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "in this way"
+   "grounds": "adverb"
   },
   {
    "lemma": "na",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "anya",
-   "morph": "compound-member",
-   "grounds": "different"
+   "morph": "compound:anya+sevanāt",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "sevanāt",
    "morph": "n.abl.sg",
-   "grounds": "by practice"
+   "grounds": "second member of compound, ablative singular"
   }
  ]
 }

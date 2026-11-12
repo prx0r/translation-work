@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "padma",
-   "morph": "compound-member",
-   "grounds": "flower"
+   "morph": "compound:padma+patre",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "patre",
    "morph": "n.loc.sg",
-   "grounds": "surface"
+   "grounds": "second member of compound, locative singular"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "comparison"
+   "grounds": "comparative adverb"
   },
   {
    "lemma": "toye",
    "morph": "n.loc.sg",
-   "grounds": "water"
+   "grounds": "location, locative singular"
   },
   {
    "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "correlative comparison"
+   "grounds": "correlative adverb"
   },
   {
    "lemma": "ca",
@@ -35,7 +35,7 @@
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "in this way"
+   "grounds": "adverb"
   },
   {
    "lemma": "na",
@@ -44,8 +44,8 @@
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.present-passive √lip",
-   "grounds": "is affected"
+   "morph": "3.sg.pres.pass √lip",
+   "grounds": "present passive verb"
   }
  ]
 }

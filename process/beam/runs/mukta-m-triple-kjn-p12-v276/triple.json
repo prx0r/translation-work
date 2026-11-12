@@ -7,8 +7,8 @@
     {
      "surface": "śerakañ",
      "gloss": "jackal",
-     "grounds": "animal name",
-     "morph": "m.acc.sg"
+     "grounds": "animal name, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
@@ -19,45 +19,45 @@
     {
      "surface": "mṛgaṃ",
      "gloss": "deer",
-     "grounds": "animal name",
+     "grounds": "animal name, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "vāpi",
      "gloss": "or-also",
-     "grounds": "alternative particle",
+     "grounds": "disjunctive particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahiṣaṃ",
      "gloss": "buffalo",
-     "grounds": "animal name",
+     "grounds": "animal name, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "gaṇḍakaṃ",
      "gloss": "rhinoceros",
-     "grounds": "animal name",
+     "grounds": "animal name, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "comparative particle",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which animals may be included among the offerings or subjects mentioned in this ritual context?",
+   "question": "Which animals may serve as the sacrificial offering in this rite?",
    "premises": [
-    "A jackal and a deer are named.",
-    "A buffalo and a rhinoceros are named.",
-    "Particles indicate inclusion and alternatives."
+    "A jackal and a deer are listed as possible offerings.",
+    "A buffalo and a rhinoceros are likewise included.",
+    "The list presents alternative animals for the rite."
    ],
-   "inference": "The list includes jackal, deer, buffalo, and rhinoceros as possible animals.",
+   "inference": "The rite permits a jackal, deer, buffalo, or rhinoceros as the offering.",
    "uncertainties": [
-    "The exact ritual role of these animals is not specified in this verse alone."
+    "The exact identity of 'śerakañ' is uncertain; it is taken as jackal."
    ],
-   "plain_english": "A jackal and a deer, or also a buffalo and likewise a rhinoceros."
+   "plain_english": "A jackal, a deer, or also a buffalo, and likewise a rhinoceros."
   },
   {
    "verse": 277,
@@ -65,57 +65,57 @@
     {
      "surface": "vijñānam",
      "gloss": "knowledge",
-     "grounds": "cognitive power",
-     "morph": "n.nom.sg"
+     "grounds": "object of attainment, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "bala",
      "gloss": "strength",
-     "grounds": "power",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:bala+sāmarthyam"
     },
     {
      "surface": "sāmarthyaṃ",
      "gloss": "capability",
-     "grounds": "ability",
-     "morph": "n.nom.sg"
+     "grounds": "second member of compound, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "sapta",
      "gloss": "seven",
-     "grounds": "numeral",
-     "morph": "compound-member"
+     "grounds": "numeral, first member of compound",
+     "morph": "compound:sapta+janma"
     },
     {
      "surface": "janma",
      "gloss": "birth",
-     "grounds": "lifetime",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:janma+antikam"
     },
     {
      "surface": "antikaṃ",
      "gloss": "ending",
-     "grounds": "limit or conclusion",
-     "morph": "n.nom.sg"
+     "grounds": "final member of compound, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "paśu",
      "gloss": "animal",
-     "grounds": "beast or bound being",
+     "grounds": "subject or object in context, nominative or accusative singular",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What qualities and lifespan limit are attributed to the animal in this teaching?",
+   "question": "What qualities and duration of effect does the animal offering possess?",
    "premises": [
-    "Knowledge, strength, and capability are mentioned.",
-    "A limit of seven births is indicated.",
-    "The subject is an animal."
+    "The offering involves knowledge, strength, and capability.",
+    "Its effect extends to the end of seven births.",
+    "The animal is the locus of these attributes."
    ],
-   "inference": "The animal possesses knowledge, strength, and capability lasting until the end of seven births.",
+   "inference": "The animal offering embodies knowledge, strength, and capability lasting until the end of seven births.",
    "uncertainties": [
-    "The compound bala-sāmarthyaṃ may be read as a single compound or closely linked terms."
+    "The syntactic role of 'paśu' as subject or object is ambiguous without the verb."
    ],
-   "plain_english": "The animal has knowledge, strength, and capability up to the end of seven births."
+   "plain_english": "Knowledge, strength, and capability, lasting until the end of seven births, belong to the animal."
   },
   {
    "verse": 278,
@@ -123,38 +123,38 @@
     {
      "surface": "pūjayed",
      "gloss": "one-should-worship",
-     "grounds": "ritual injunction",
-     "morph": "3.sg.optative-active √pūj"
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √pūj"
     },
     {
      "surface": "yoginī",
-     "gloss": "yogini",
-     "grounds": "female practitioner or deity",
-     "morph": "compound-member"
+     "gloss": "yoginī",
+     "grounds": "first member of compound",
+     "morph": "compound:yoginī+vṛndam"
     },
     {
      "surface": "vṛndaṃ",
      "gloss": "multitude",
-     "grounds": "group",
+     "grounds": "second member of compound, accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "bhakṣya",
      "gloss": "food",
-     "grounds": "eatables",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:bhakṣya+bhojya"
     },
     {
      "surface": "bhojya",
-     "gloss": "delicacies",
-     "grounds": "eatables",
-     "morph": "compound-member"
+     "gloss": "eatables",
+     "grounds": "second member of compound",
+     "morph": "compound:bhakṣya+bhojya+ādibhiḥ"
     },
     {
      "surface": "ādibhiḥ",
      "gloss": "and-others",
-     "grounds": "inclusive series",
-     "morph": "n.ins.pl"
+     "grounds": "final member of compound, instrumental plural",
+     "morph": "m.inst.pl"
     },
     {
      "surface": "priye",
@@ -163,15 +163,15 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "How should the multitude of yoginis be honored according to this instruction?",
+   "question": "How should the multitude of yoginīs be worshipped in this practice?",
    "premises": [
-    "Worship of the yogini multitude is enjoined.",
-    "Food and delicacies are specified as offerings.",
-    "The instruction is addressed to a beloved."
+    "The multitude of yoginīs is the object of worship.",
+    "Worship should be performed with food, eatables, and other offerings.",
+    "The instruction is addressed to the beloved."
    ],
-   "inference": "One should worship the multitude of yoginis with food, delicacies, and other offerings.",
+   "inference": "One should worship the multitude of yoginīs with food, eatables, and similar offerings.",
    "uncertainties": [],
-   "plain_english": "O beloved, one should worship the multitude of yoginis with food, delicacies, and other offerings."
+   "plain_english": "O beloved, one should worship the multitude of yoginīs with food, eatables, and other offerings."
   },
   {
    "verse": 279,
@@ -179,57 +179,57 @@
     {
      "surface": "piśitaṃ",
      "gloss": "meat",
-     "grounds": "flesh offering",
+     "grounds": "object, accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "trividhaṃ",
      "gloss": "threefold",
-     "grounds": "three kinds",
+     "grounds": "adjective qualifying meat",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kuryāt",
      "gloss": "one-should-make",
-     "grounds": "ritual injunction",
-     "morph": "3.sg.optative-active √kṛ"
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √kṛ"
     },
     {
      "surface": "pakṣa",
      "gloss": "alkaline",
-     "grounds": "taste or preparation type",
-     "morph": "compound-member"
+     "grounds": "first type in compound-like list",
+     "morph": "compound:pakṣa+āmla"
     },
     {
      "surface": "āmla",
      "gloss": "sour",
-     "grounds": "taste",
-     "morph": "compound-member"
+     "grounds": "second type",
+     "morph": "compound:pakṣa+āmla+madhuram"
     },
     {
      "surface": "madhuram",
      "gloss": "sweet",
-     "grounds": "taste",
+     "grounds": "third type, accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "continuation",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "In what three forms should the meat offering be prepared for the ritual?",
+   "question": "In what three flavors should the meat offering be prepared?",
    "premises": [
-    "Meat is to be made threefold.",
-    "Alkaline, sour, and sweet types are named.",
-    "The verse gives a prescriptive instruction."
+    "The meat should be made threefold.",
+    "The three types are alkaline, sour, and sweet.",
+    "The instruction prescribes preparation in these forms."
    ],
    "inference": "The meat offering should be prepared in three forms: alkaline, sour, and sweet.",
    "uncertainties": [
-    "The exact meaning of pakṣa in this culinary context is uncertain."
+    "The meaning of 'pakṣa' as a flavor is uncertain; it may refer to alkaline or another taste category."
    ],
-   "plain_english": "One should prepare the meat in three forms: alkaline, sour, and likewise sweet."
+   "plain_english": "One should prepare the meat in three ways: alkaline, sour, and likewise sweet."
   },
   {
    "verse": 280,
@@ -237,26 +237,26 @@
     {
      "surface": "vṛkṣa",
      "gloss": "tree",
-     "grounds": "plant source",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:vṛkṣa+jā"
     },
     {
      "surface": "jā",
      "gloss": "born",
-     "grounds": "originating from",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:vṛkṣa+jā"
     },
     {
      "surface": "mūla",
      "gloss": "root",
-     "grounds": "plant part",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:mūla+jā"
     },
     {
      "surface": "jā",
      "gloss": "born",
-     "grounds": "originating from",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:mūla+jā"
     },
     {
      "surface": "ca",
@@ -267,57 +267,55 @@
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "puṣpa",
      "gloss": "flower",
-     "grounds": "plant part",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:puṣpa+jā"
     },
     {
      "surface": "jā",
      "gloss": "born",
-     "grounds": "originating from",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:puṣpa+jā"
     },
     {
      "surface": "phala",
      "gloss": "fruit",
-     "grounds": "plant part",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:phala+jā"
     },
     {
      "surface": "jā",
      "gloss": "born",
-     "grounds": "originating from",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:phala+jā"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "inclusion",
+     "grounds": "inclusive particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "alternative",
+     "grounds": "disjunctive particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What plant-derived sources are permitted as alternatives in this context?",
+   "question": "What plant-derived substances are permitted as offerings in this context?",
    "premises": [
-    "Tree-born and root-born items are mentioned.",
-    "Flower-born and fruit-born items are mentioned.",
-    "Particles indicate inclusion and alternatives."
+    "Substances born from trees are included.",
+    "Substances born from roots are included.",
+    "Substances born from flowers and fruits are also included."
    ],
-   "inference": "Items born from trees, roots, flowers, or fruits are permitted alternatives.",
-   "uncertainties": [
-    "The grammatical case of the compounds is not explicit in the verse."
-   ],
-   "plain_english": "Whether born from trees or from roots, and indeed born from flowers or also from fruits."
+   "inference": "Offerings may include substances derived from trees, roots, flowers, or fruits.",
+   "uncertainties": [],
+   "plain_english": "Things born from trees, born from roots, and indeed born from flowers or also born from fruits."
   },
   {
    "verse": 281,
@@ -325,32 +323,32 @@
     {
      "surface": "advaitam",
      "gloss": "non-duality",
-     "grounds": "doctrinal principle",
-     "morph": "n.nom.sg"
+     "grounds": "subject or object, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "manner",
+     "grounds": "relative adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "ākhyātaṃ",
      "gloss": "declared",
-     "grounds": "taught",
-     "morph": "n.nom.sg.past-passive-participle √khyā"
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.ppp √khyā"
     },
     {
      "surface": "kartavyaṃ",
      "gloss": "to-be-done",
-     "grounds": "obligation",
-     "morph": "n.nom.sg.future-passive-participle √kṛ"
+     "grounds": "gerundive",
+     "morph": "n.nom.sg.ger √kṛ"
     },
     {
      "surface": "na",
@@ -361,7 +359,7 @@
     {
      "surface": "anyathā",
      "gloss": "otherwise",
-     "grounds": "different manner",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
@@ -373,19 +371,19 @@
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "assertion",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How must the practice of non-duality be carried out according to the declared teaching?",
+   "question": "How must the principle of non-duality be enacted in this ritual?",
    "premises": [
     "Non-duality has been declared in a specific way.",
-    "Action must follow that declaration.",
-    "Acting otherwise is explicitly negated."
+    "It must be performed as declared.",
+    "It must not be performed otherwise."
    ],
-   "inference": "Non-duality must be practiced exactly as declared and not in any other way.",
+   "inference": "Non-duality must be practiced exactly as declared and never otherwise.",
    "uncertainties": [],
-   "plain_english": "Non-duality must be practiced just as it has been declared, and not otherwise, indeed not."
+   "plain_english": "Non-duality must indeed be practiced as it has been declared, and not otherwise."
   },
   {
    "verse": 282,
@@ -393,109 +391,105 @@
     {
      "surface": "patanti",
      "gloss": "they-fall",
-     "grounds": "consequence",
-     "morph": "3.pl.present-active √pat"
+     "grounds": "present verb",
+     "morph": "3.pl.pres.act √pat"
     },
     {
      "surface": "narake",
      "gloss": "in-hell",
-     "grounds": "place of punishment",
+     "grounds": "location, locative singular",
      "morph": "m.loc.sg"
     },
     {
      "surface": "ghore",
      "gloss": "terrible",
-     "grounds": "fearsome quality",
+     "grounds": "adjective qualifying hell",
      "morph": "m.loc.sg"
     },
     {
      "surface": "avīci",
-     "gloss": "in-avici",
-     "grounds": "name of hell",
+     "gloss": "in-avīci",
+     "grounds": "name of hell, locative singular",
      "morph": "m.loc.sg"
     },
     {
      "surface": "raurave",
      "gloss": "in-raurava",
-     "grounds": "name of hell",
+     "grounds": "name of hell, locative singular",
      "morph": "m.loc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "addition",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     }
    ],
    "question": "What consequence befalls those who violate the prescribed non-dual practice?",
    "premises": [
-    "Falling into hell is stated as a consequence.",
-    "Terrible hells including Avici and Raurava are named.",
-    "The consequence is presented as certain."
+    "Violators fall into hell.",
+    "The hells named are terrible, Avīci, and Raurava.",
+    "The consequence is stated as certain."
    ],
-   "inference": "Violators fall into terrible hells such as Avici and Raurava.",
-   "uncertainties": [
-    "The subject 'they' is implied from the previous verse."
-   ],
-   "plain_english": "They fall into terrible hell, into Avici and likewise into Raurava."
+   "inference": "Those who act otherwise fall into terrible hells such as Avīci and Raurava.",
+   "uncertainties": [],
+   "plain_english": "They fall into terrible hell, into Avīci and likewise into Raurava."
   },
   {
    "verse": 283,
    "rows": [
     {
      "surface": "yoginī",
-     "gloss": "yogini",
-     "grounds": "female practitioner or deity",
-     "morph": "compound-member"
+     "gloss": "yoginī",
+     "grounds": "first member of compound",
+     "morph": "compound:yoginī+gaṇa"
     },
     {
      "surface": "gaṇa",
      "gloss": "group",
-     "grounds": "assembly",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:yoginī+gaṇa+madhyastham"
     },
     {
      "surface": "madhyasthaṃ",
      "gloss": "situated-in-middle",
-     "grounds": "central position",
+     "grounds": "adjective, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "that one",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paśuḥ",
-     "gloss": "bound-being",
-     "grounds": "uninitiated person",
+     "gloss": "animal",
+     "grounds": "subject, nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kīrtitaṃ",
      "gloss": "called",
-     "grounds": "designated",
-     "morph": "n.nom.sg.past-passive-participle √kīrt"
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.ppp √kīrt"
     },
     {
      "surface": "kule",
      "gloss": "in-kula",
-     "grounds": "in the tradition",
+     "grounds": "location, locative singular",
      "morph": "n.loc.sg"
     }
    ],
-   "question": "How is a bound being situated in the midst of the yogini group designated in the Kula tradition?",
+   "question": "How is the sacrificial animal defined within the circle of yoginīs?",
    "premises": [
-    "A being is located in the middle of the yogini group.",
-    "That being is identified as a paśu.",
-    "This designation is stated within the Kula."
+    "The animal is situated in the middle of the group of yoginīs.",
+    "It is called a paśu in the Kula tradition.",
+    "This designation is a doctrinal definition."
    ],
-   "inference": "In the Kula tradition, one situated in the midst of the yogini group is called a paśu.",
-   "uncertainties": [
-    "The doctrinal nuance of paśu in this specific context may vary."
-   ],
-   "plain_english": "In the Kula, he who is situated in the midst of the group of yoginis is called a paśu."
+   "inference": "In the Kula, the animal placed in the midst of the yoginīs is called the paśu.",
+   "uncertainties": [],
+   "plain_english": "In the Kula, that animal situated in the middle of the group of yoginīs is called the paśu."
   },
   {
    "verse": 284,
@@ -503,57 +497,57 @@
     {
      "surface": "jananī",
      "gloss": "mother",
-     "grounds": "female parent",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:jananī+jāra"
     },
     {
      "surface": "jāra",
      "gloss": "lover",
-     "grounds": "paramour",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:jananī+jāra+garbham"
     },
     {
      "surface": "garbham",
      "gloss": "womb-born",
-     "grounds": "born from",
+     "grounds": "final member of compound, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "svaputraṃ",
      "gloss": "own-son",
-     "grounds": "one's child",
+     "grounds": "object, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "gopayet",
      "gloss": "one-should-protect",
-     "grounds": "injunction",
-     "morph": "3.sg.optative-active √gup"
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √gup"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "comparison",
+     "grounds": "comparative adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What analogy illustrates how one should protect the one born in such a context?",
+   "question": "With what attitude should one protect the designated sacrificial being?",
    "premises": [
-    "A child born from a mother's lover is mentioned.",
-    "Protection of that child as one's own son is enjoined.",
-    "The verse uses a comparative analogy."
+    "A mother protects her own son.",
+    "The son may be born from a lover.",
+    "This protection serves as the model for conduct."
    ],
-   "inference": "One should protect him just as a mother protects a son born from her lover as her own son.",
+   "inference": "One should protect the designated being just as a mother protects her own son even if born from a lover.",
    "uncertainties": [
-    "The referent of the one to be protected is implied from context."
+    "The application of the simile to the ritual context is implicit."
    ],
-   "plain_english": "Just as a mother protects as her own son the child born from her lover, so one should protect him."
+   "plain_english": "One should protect him just as a mother protects her own son born from her lover."
   },
   {
    "verse": 285,
@@ -561,31 +555,31 @@
     {
      "surface": "aṇimā",
      "gloss": "minuteness",
-     "grounds": "supernatural power",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:aṇimā+ādi"
     },
     {
      "surface": "ādi",
      "gloss": "and-other",
-     "grounds": "inclusive series",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:aṇimā+ādi+guṇa"
     },
     {
      "surface": "guṇa",
      "gloss": "qualities",
-     "grounds": "attributes",
-     "morph": "compound-member"
+     "grounds": "third member of compound",
+     "morph": "compound:aṇimā+ādi+guṇa+aiśvarya"
     },
     {
      "surface": "aiśvarya",
      "gloss": "lordship",
-     "grounds": "sovereign power",
-     "morph": "compound-member"
+     "grounds": "fourth member of compound",
+     "morph": "compound:aṇimā+ādi+guṇa+aiśvarya+siddhiḥ"
     },
     {
      "surface": "siddhiḥ",
      "gloss": "accomplishment",
-     "grounds": "attainment",
+     "grounds": "subject, nominative singular",
      "morph": "f.nom.sg"
     },
     {
@@ -597,25 +591,25 @@
     {
      "surface": "mānasī",
      "gloss": "mental",
-     "grounds": "pertaining to mind",
+     "grounds": "adjective qualifying accomplishment",
      "morph": "f.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "may-be",
-     "grounds": "potential result",
-     "morph": "3.sg.optative-active √bhū"
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √bhū"
     }
    ],
-   "question": "What kind of accomplishment, including powers like minuteness, may arise for the practitioner?",
+   "question": "What supernatural accomplishments may arise from this yogic practice?",
    "premises": [
-    "Powers beginning with minuteness are mentioned.",
-    "Lordship and accomplishment are indicated.",
-    "The accomplishment is described as mental."
+    "The powers include minuteness and other qualities.",
+    "These constitute lordship and accomplishment.",
+    "The accomplishment may be mental."
    ],
-   "inference": "Mental accomplishment of lordship, including powers such as minuteness, may arise.",
+   "inference": "Mental accomplishment and lordship, including minuteness and other powers, may arise.",
    "uncertainties": [],
-   "plain_english": "Mental accomplishment of lordship, with qualities such as minuteness and others, may arise."
+   "plain_english": "Mental accomplishment and lordship, consisting of minuteness and other qualities, may arise."
   },
   {
    "verse": 286,
@@ -623,49 +617,51 @@
     {
      "surface": "ajñāna",
      "gloss": "ignorance",
-     "grounds": "lack of knowledge",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:ajñāna+bandhana"
     },
     {
      "surface": "bandhana",
      "gloss": "bondage",
-     "grounds": "binding",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:ajñāna+bandhana+ājñeyam"
     },
     {
      "surface": "ājñeyaṃ",
      "gloss": "to-be-known",
-     "grounds": "to be understood",
-     "morph": "n.nom.sg.future-passive-participle √jñā"
+     "grounds": "gerundive, nominative singular",
+     "morph": "n.nom.sg.ger √jñā"
     },
     {
      "surface": "jñānaṃ",
      "gloss": "knowledge",
-     "grounds": "true knowing",
+     "grounds": "subject, nominative singular",
      "morph": "n.nom.sg"
     },
     {
      "surface": "jñeyaṃ",
      "gloss": "to-be-known",
-     "grounds": "to be understood",
-     "morph": "n.nom.sg.future-passive-participle √jñā"
+     "grounds": "gerundive, nominative singular",
+     "morph": "n.nom.sg.ger √jñā"
     },
     {
      "surface": "vimocanam",
      "gloss": "liberation",
-     "grounds": "release",
+     "grounds": "predicate, nominative singular",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What must be understood as bondage and what must be understood as liberation?",
+   "question": "What are the respective roles of ignorance and knowledge in bondage and liberation?",
    "premises": [
-    "Ignorance is linked with bondage.",
-    "Knowledge is linked with liberation.",
-    "Both are presented as things to be known."
+    "Bondage through ignorance is to be known.",
+    "Knowledge is to be known as liberation.",
+    "The two are presented as opposed principles."
    ],
-   "inference": "Ignorance is to be known as bondage, and knowledge is to be known as liberation.",
-   "uncertainties": [],
-   "plain_english": "Ignorance is to be known as bondage; knowledge is to be known as liberation."
+   "inference": "Ignorance constitutes bondage, while knowledge constitutes liberation.",
+   "uncertainties": [
+    "The exact parsing of 'ājñeyaṃ' is uncertain; it may mean 'to be known' or relate to command."
+   ],
+   "plain_english": "Bondage through ignorance is to be understood, and knowledge is to be understood as liberation."
   },
   {
    "verse": 287,
@@ -673,31 +669,31 @@
     {
      "surface": "padma",
      "gloss": "lotus",
-     "grounds": "flower",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:padma+patre"
     },
     {
      "surface": "patre",
      "gloss": "leaf",
-     "grounds": "surface",
+     "grounds": "second member of compound, locative singular",
      "morph": "n.loc.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "comparison",
+     "grounds": "comparative adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "toye",
      "gloss": "in-water",
-     "grounds": "water",
+     "grounds": "location, locative singular",
      "morph": "n.loc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "correlative comparison",
+     "grounds": "correlative adverb",
      "morph": "(indecl.)"
     },
     {
@@ -709,7 +705,7 @@
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "in this way",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
@@ -721,85 +717,83 @@
     {
      "surface": "lipyate",
      "gloss": "is-tainted",
-     "grounds": "is affected",
-     "morph": "3.sg.present-passive √lip"
+     "grounds": "present passive verb",
+     "morph": "3.sg.pres.pass √lip"
     }
    ],
-   "question": "How is the yogin's freedom from taint illustrated through the lotus-leaf analogy?",
+   "question": "How does the realized yogin remain unaffected by worldly contact?",
    "premises": [
-    "Water on a lotus leaf is used as an analogy.",
-    "The analogy implies non-attachment.",
-    "The subject is said not to be tainted."
+    "Water does not cling to a lotus leaf.",
+    "The yogin's condition is compared to this.",
+    "Non-taint is the key property."
    ],
    "inference": "Just as water does not cling to a lotus leaf, so the yogin is not tainted.",
-   "uncertainties": [
-    "The subject of lipyate is implied from the surrounding context."
-   ],
-   "plain_english": "Just as water on a lotus leaf, so too one is not tainted."
+   "uncertainties": [],
+   "plain_english": "Just as water does not cling to a lotus leaf, so too one is not tainted."
   },
   {
    "verse": 288,
    "rows": [
     {
      "surface": "brahma",
-     "gloss": "brahmin",
-     "grounds": "priestly class",
-     "morph": "compound-member"
+     "gloss": "brahman",
+     "grounds": "first member of compound",
+     "morph": "compound:brahma+hatyā"
     },
     {
      "surface": "hatyā",
      "gloss": "killing",
-     "grounds": "slaying",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:brahma+hatyā+ādikam"
     },
     {
      "surface": "ādikaṃ",
      "gloss": "and-other",
-     "grounds": "inclusive series",
-     "morph": "n.nom.sg"
+     "grounds": "final member of compound, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "pāpam",
      "gloss": "sin",
-     "grounds": "demerit",
-     "morph": "n.nom.sg"
+     "grounds": "object, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "aśva",
      "gloss": "horse",
-     "grounds": "sacrificial animal",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:aśva+medha"
     },
     {
      "surface": "medha",
      "gloss": "sacrifice",
-     "grounds": "ritual offering",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:aśva+medha+ādikam"
     },
     {
      "surface": "ādikaṃ",
      "gloss": "and-other",
-     "grounds": "inclusive series",
-     "morph": "n.nom.sg"
+     "grounds": "final member of compound, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "phalam",
      "gloss": "fruit",
-     "grounds": "merit or result",
-     "morph": "n.nom.sg"
+     "grounds": "object, accusative singular",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What extremes of sin and merit are cited as irrelevant to the realized yogin?",
+   "question": "What extremes of sin and merit are rendered irrelevant for the yogin?",
    "premises": [
-    "Sins beginning with killing a brahmin are mentioned.",
-    "Merits beginning with the horse sacrifice are mentioned.",
-    "Both are presented as comparable categories of results."
+    "Sins such as killing a brahman are mentioned.",
+    "Merits such as the horse sacrifice are mentioned.",
+    "Both extremes are presented together."
    ],
-   "inference": "Both grave sins like brahmin-killing and great merits like the horse sacrifice are cited.",
+   "inference": "Both grave sins like brahman-killing and great merits like the horse sacrifice are encompassed in this context.",
    "uncertainties": [
-    "The syntactic connection to the next verse is implied."
+    "The syntactic connection to the next verse is implied but not explicit here."
    ],
-   "plain_english": "Sin such as the killing of a brahmin and other acts, and merit such as the horse sacrifice and other acts."
+   "plain_english": "Sin such as the killing of a brahman, and merit such as the fruit of the horse sacrifice and others."
   },
   {
    "verse": 289,
@@ -807,8 +801,8 @@
     {
      "surface": "etaiḥ",
      "gloss": "by-these",
-     "grounds": "by those acts",
-     "morph": "n.ins.pl"
+     "grounds": "instrumental plural demonstrative",
+     "morph": "n.inst.pl"
     },
     {
      "surface": "na",
@@ -819,41 +813,41 @@
     {
      "surface": "gṛhyate",
      "gloss": "is-seized",
-     "grounds": "is affected or bound",
-     "morph": "3.sg.present-passive √grah"
+     "grounds": "present passive verb",
+     "morph": "3.sg.pres.pass √grah"
     },
     {
      "surface": "yogī",
      "gloss": "yogin",
-     "grounds": "practitioner",
+     "grounds": "subject, nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kriyamāṇaiḥ",
      "gloss": "even-being-performed",
-     "grounds": "even when done",
-     "morph": "n.ins.pl.present-passive-participle √kṛ"
+     "grounds": "present passive participle, instrumental plural",
+     "morph": "n.inst.pl.pres.pass.part √kṛ"
     },
     {
      "surface": "api",
      "gloss": "even",
-     "grounds": "emphasis",
+     "grounds": "inclusive particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sphuṭam",
      "gloss": "clearly",
-     "grounds": "evidently",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Why do acts of great sin or merit fail to bind the realized yogin?",
+   "question": "Why do acts of sin and merit fail to bind the realized yogin?",
    "premises": [
-    "The yogin is the subject.",
-    "These acts may even be performed.",
-    "The yogin is clearly not seized by them."
+    "Sins and merits may be performed.",
+    "The yogin is not seized by these acts.",
+    "This non-seizure is stated clearly."
    ],
-   "inference": "The yogin is not bound by these acts, even when they are performed.",
+   "inference": "Even when such acts are performed, the yogin is clearly not bound by them.",
    "uncertainties": [],
    "plain_english": "The yogin is clearly not seized by these, even when they are being performed."
   },
@@ -863,25 +857,25 @@
     {
      "surface": "niṣparigraha",
      "gloss": "non-possession",
-     "grounds": "renunciation of possessions",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:niṣparigraha+santoṣam"
     },
     {
      "surface": "santoṣaṃ",
      "gloss": "contentment",
-     "grounds": "satisfaction",
+     "grounds": "second member of compound, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "dvandva",
      "gloss": "duality",
-     "grounds": "pairs of opposites",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:dvandva+yogam"
     },
     {
      "surface": "yogaṃ",
      "gloss": "union",
-     "grounds": "conjunction",
+     "grounds": "second member of compound, accusative singular",
      "morph": "m.acc.sg"
     },
     {
@@ -893,21 +887,21 @@
     {
      "surface": "kārayet",
      "gloss": "one-should-make",
-     "grounds": "injunction",
-     "morph": "3.sg.optative-causative-active √kṛ"
+     "grounds": "optative causative verb",
+     "morph": "3.sg.opt.caus.act √kṛ"
     }
    ],
-   "question": "What conventional disciplines should not be imposed within this non-dual practice?",
+   "question": "What conventional ascetic attitudes should not be imposed in this path?",
    "premises": [
-    "Non-possession and contentment are named.",
-    "Engagement with dualities is named.",
-    "The verse prohibits causing or enforcing them."
+    "Non-possession and contentment are conventional virtues.",
+    "Union with duality is also mentioned as a practice.",
+    "These should not be enforced."
    ],
-   "inference": "One should not enforce non-possession, contentment, or engagement with dualities as external disciplines.",
+   "inference": "One should not impose non-possession, contentment, or engagement with duality as required practices.",
    "uncertainties": [
-    "The exact sense of dvandva-yogaṃ in this context is interpretive."
+    "The exact sense of 'dvandva yogaṃ' is ambiguous; it may mean pairing of opposites or union with duality."
    ],
-   "plain_english": "One should not impose non-possession, contentment, or the practice of dualities."
+   "plain_english": "One should not enforce non-possession and contentment, nor the practice of duality."
   },
   {
    "verse": 291,
@@ -921,14 +915,14 @@
     {
      "surface": "carum",
      "gloss": "sacred-offering",
-     "grounds": "ritual oblation",
+     "grounds": "object, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "nindayet",
      "gloss": "one-should-revile",
-     "grounds": "prohibition",
-     "morph": "3.sg.optative-active √nind"
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √nind"
     },
     {
      "surface": "bhadre",
@@ -939,19 +933,19 @@
     {
      "surface": "samaya",
      "gloss": "vow",
-     "grounds": "observance",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:samaya+advaitam"
     },
     {
      "surface": "advaitam",
      "gloss": "non-duality",
-     "grounds": "doctrinal principle",
-     "morph": "n.nom.sg"
+     "grounds": "second member of compound, accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphasis",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
@@ -961,29 +955,29 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "What attitude toward the sacred offering and the vow of non-duality is required?",
+   "question": "What attitude must be maintained toward the sacred offering and the vow of non-duality?",
    "premises": [
-    "Reviling the caru is prohibited.",
-    "The vow is identified with non-duality.",
-    "The instruction is addressed to a fair one."
+    "The sacred offering must not be reviled.",
+    "The vow of non-duality must be upheld.",
+    "Both are affirmed as essential."
    ],
-   "inference": "One must not revile the caru, for the vow is indeed non-duality.",
+   "inference": "One must not revile the sacred offering and must indeed uphold the vow of non-duality.",
    "uncertainties": [],
-   "plain_english": "O fair one, one should not revile the caru; the vow is indeed non-duality."
+   "plain_english": "O fair one, one should not revile the sacred offering, and indeed one must uphold the vow of non-duality."
   },
   {
    "verse": 292,
    "rows": [
     {
      "surface": "siddhānāṃ",
-     "gloss": "of-accomplished-ones",
-     "grounds": "perfected beings",
+     "gloss": "of-siddhas",
+     "grounds": "possessive, genitive plural",
      "morph": "m.gen.pl"
     },
     {
      "surface": "yoginīnāñ",
-     "gloss": "of-yoginis",
-     "grounds": "female practitioners or deities",
+     "gloss": "of-yoginīs",
+     "grounds": "possessive, genitive plural",
      "morph": "f.gen.pl"
     },
     {
@@ -995,39 +989,37 @@
     {
      "surface": "imam",
      "gloss": "this",
-     "grounds": "demonstrative",
+     "grounds": "demonstrative adjective",
      "morph": "m.acc.sg"
     },
     {
      "surface": "carum",
      "gloss": "sacred-offering",
-     "grounds": "ritual oblation",
+     "grounds": "object, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "priyaṃ",
      "gloss": "dear",
-     "grounds": "beloved",
+     "grounds": "predicate adjective",
      "morph": "m.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "at all times",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "For whom is this sacred offering declared to be always dear?",
+   "question": "Why is the sacred offering held in special esteem by accomplished beings?",
    "premises": [
-    "Accomplished ones and yoginis are mentioned.",
-    "This caru is identified as dear.",
-    "The preference is said to be constant."
+    "The offering is associated with siddhas and yoginīs.",
+    "It is described as dear to them.",
+    "This esteem is constant."
    ],
-   "inference": "This caru is always dear to the siddhas and the yoginis.",
-   "uncertainties": [
-    "The main verb is implied from context."
-   ],
-   "plain_english": "This caru is always dear to the siddhas and to the yoginis."
+   "inference": "This sacred offering is always dear to the siddhas and yoginīs.",
+   "uncertainties": [],
+   "plain_english": "This sacred offering is always dear to the siddhas and to the yoginīs."
   },
   {
    "verse": 293,
@@ -1035,25 +1027,25 @@
     {
      "surface": "vuka",
      "gloss": "vuka",
-     "grounds": "ritual substance name",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:vuka+puṣpam"
     },
     {
      "surface": "puṣpaṃ",
      "gloss": "flower",
-     "grounds": "blossom",
+     "grounds": "second member of compound, accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śiva",
-     "gloss": "auspicious",
-     "grounds": "sacred",
-     "morph": "compound-member"
+     "gloss": "śiva",
+     "grounds": "first member of compound",
+     "morph": "compound:śiva+ambuñ"
     },
     {
      "surface": "ambuñ",
      "gloss": "water",
-     "grounds": "liquid",
+     "grounds": "second member of compound, accusative singular",
      "morph": "n.acc.sg"
     },
     {
@@ -1065,39 +1057,39 @@
     {
      "surface": "rakta",
      "gloss": "blood",
-     "grounds": "red fluid",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:rakta+śukram"
     },
     {
      "surface": "śukraṃ",
      "gloss": "semen",
-     "grounds": "reproductive fluid",
+     "grounds": "second member of compound, accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "surām",
      "gloss": "liquor",
-     "grounds": "intoxicating drink",
+     "grounds": "object, accusative singular",
      "morph": "f.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "addition",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which ritual substances are enumerated as part of the prescribed offering?",
+   "question": "What ritual substances are enumerated for use in this offering?",
    "premises": [
-    "Vuka flower and sacred water are listed.",
+    "The vuka flower and śiva-water are listed.",
     "Blood, semen, and liquor are listed.",
-    "The items are presented as a series."
+    "These substances form a set of offerings."
    ],
-   "inference": "The offering includes vuka flower, sacred water, blood, semen, and liquor.",
+   "inference": "The offering includes vuka flower, śiva-water, blood, semen, and liquor.",
    "uncertainties": [
-    "The exact identity of vuka is uncertain."
+    "The meanings of 'vuka' and 'śiva ambuñ' are uncertain in this ritual context."
    ],
-   "plain_english": "The vuka flower, sacred water, blood, semen, and likewise liquor."
+   "plain_english": "The vuka flower, śiva-water, blood and semen, and likewise liquor."
   },
   {
    "verse": 294,
@@ -1105,13 +1097,13 @@
     {
      "surface": "gandhaṃ",
      "gloss": "fragrance",
-     "grounds": "scent",
+     "grounds": "object, accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "dhūpañ",
      "gloss": "incense",
-     "grounds": "aromatic smoke",
+     "grounds": "object, accusative singular",
      "morph": "m.acc.sg"
     },
     {
@@ -1123,7 +1115,7 @@
     {
      "surface": "geyañ",
      "gloss": "song",
-     "grounds": "singing",
+     "grounds": "object, accusative singular",
      "morph": "n.acc.sg"
     },
     {
@@ -1135,29 +1127,29 @@
     {
      "surface": "tāmbūlaṃ",
      "gloss": "betel",
-     "grounds": "chewing offering",
+     "grounds": "object, accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rakta",
      "gloss": "red",
-     "grounds": "color",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:rakta+vāsasam"
     },
     {
      "surface": "vāsasam",
      "gloss": "garment",
-     "grounds": "cloth",
+     "grounds": "second member of compound, accusative singular",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What additional offerings accompany the ritual substances previously listed?",
+   "question": "What additional sensory and material offerings accompany the ritual substances?",
    "premises": [
-    "Fragrance, incense, and song are listed.",
-    "Betel and a red garment are listed.",
-    "These items continue the offering series."
+    "Fragrance, incense, and song are included.",
+    "Betel and a red garment are included.",
+    "These complement the previously listed substances."
    ],
-   "inference": "Fragrance, incense, song, betel, and a red garment are additional offerings.",
+   "inference": "The ritual also includes fragrance, incense, song, betel, and a red garment.",
    "uncertainties": [],
    "plain_english": "Fragrance and incense, song, betel, and a red garment."
   },
@@ -1167,13 +1159,13 @@
     {
      "surface": "vijñāna",
      "gloss": "knowledge",
-     "grounds": "awareness",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:vijñāna+unmīlanam"
     },
     {
      "surface": "unmīlanam",
      "gloss": "unfolding",
-     "grounds": "opening",
+     "grounds": "second member of compound, nominative singular",
      "morph": "n.nom.sg"
     },
     {
@@ -1185,13 +1177,13 @@
     {
      "surface": "bhavati",
      "gloss": "becomes",
-     "grounds": "arises",
-     "morph": "3.sg.present-active √bhū"
+     "grounds": "present verb",
+     "morph": "3.sg.pres.act √bhū"
     },
     {
      "surface": "evaṃ",
      "gloss": "thus",
-     "grounds": "in this way",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
@@ -1203,27 +1195,25 @@
     {
      "surface": "anya",
      "gloss": "other",
-     "grounds": "different",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:anya+sevanāt"
     },
     {
      "surface": "sevanāt",
      "gloss": "by-service",
-     "grounds": "by practice",
+     "grounds": "second member of compound, ablative singular",
      "morph": "n.abl.sg"
     }
    ],
-   "question": "By what means does the unfolding of true knowledge arise according to this teaching?",
+   "question": "What unique result arises from this practice rather than from other forms of service?",
    "premises": [
-    "The unfolding of knowledge is said to occur.",
-    "It occurs in this way.",
-    "Other forms of service are excluded as the cause."
+    "The unfolding of knowledge occurs.",
+    "It occurs through this practice.",
+    "It does not occur through other service."
    ],
-   "inference": "The unfolding of knowledge arises in this way and not by any other service.",
-   "uncertainties": [
-    "The referent of 'thus' points to the preceding ritual context."
-   ],
-   "plain_english": "O fair one, the unfolding of knowledge arises in this way, and not by any other service."
+   "inference": "The unfolding of knowledge arises in this way and not through other forms of service.",
+   "uncertainties": [],
+   "plain_english": "O fair one, the unfolding of knowledge arises in this way, and not through any other service."
   },
   {
    "verse": 296,
@@ -1231,55 +1221,55 @@
     {
      "surface": "laulya",
      "gloss": "greed",
-     "grounds": "craving",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:laulya+arthī"
     },
     {
      "surface": "arthī",
      "gloss": "seeker",
-     "grounds": "one desiring",
+     "grounds": "second member of compound, nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "capalā",
      "gloss": "fickle",
-     "grounds": "restless",
+     "grounds": "adjective, nominative singular",
      "morph": "f.nom.sg"
     },
     {
      "surface": "nityaṃ",
      "gloss": "always",
-     "grounds": "constantly",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "kula",
      "gloss": "kula",
-     "grounds": "tradition",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:kula+śāstra"
     },
     {
      "surface": "śāstra",
      "gloss": "scripture",
-     "grounds": "teaching",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:kula+śāstra+viḍambakam"
     },
     {
      "surface": "viḍambakam",
      "gloss": "mockery",
-     "grounds": "travesty",
+     "grounds": "final member of compound, nominative singular",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Who is criticized as making a mockery of the Kula scripture?",
+   "question": "What characterizes a person who merely mocks the Kula scripture?",
    "premises": [
-    "A seeker driven by greed is described.",
-    "Such a person is characterized as fickle.",
-    "This behavior is called a mockery of Kula scripture."
+    "Such a person seeks out of greed.",
+    "Such a person is always fickle.",
+    "This behavior amounts to mockery of the Kula scripture."
    ],
-   "inference": "One who seeks out of greed and is always fickle makes a mockery of the Kula scripture.",
+   "inference": "A greedy and fickle seeker is a mockery of the Kula scripture.",
    "uncertainties": [
-    "The grammatical agreement of capalā with the subject is interpretive."
+    "The gender agreement of 'capalā' with the subject is unclear in isolation."
    ],
    "plain_english": "One who seeks out of greed and is always fickle is a mockery of the Kula scripture."
   },
@@ -1289,57 +1279,57 @@
     {
      "surface": "kula",
      "gloss": "kula",
-     "grounds": "tradition",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:kula+vijñāna"
     },
     {
      "surface": "vijñāna",
      "gloss": "knowledge",
-     "grounds": "understanding",
-     "morph": "compound-member"
+     "grounds": "second member of compound",
+     "morph": "compound:kula+vijñāna+saṃbhogāt"
     },
     {
      "surface": "saṃbhogāt",
      "gloss": "from-enjoyment",
-     "grounds": "from participation",
+     "grounds": "final member of compound, ablative singular",
      "morph": "m.abl.sg"
     },
     {
      "surface": "ṣaṇ",
      "gloss": "six",
-     "grounds": "numeral",
-     "morph": "compound-member"
+     "grounds": "numeral, first member of compound",
+     "morph": "compound:ṣaṇ+māsāt"
     },
     {
      "surface": "māsāt",
      "gloss": "from-months",
-     "grounds": "after months",
+     "grounds": "second member of compound, ablative singular",
      "morph": "m.abl.sg"
     },
     {
      "surface": "siddhi",
      "gloss": "accomplishment",
-     "grounds": "attainment",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:siddhi+bhājanaḥ"
     },
     {
      "surface": "bhājanaḥ",
      "gloss": "recipient",
-     "grounds": "worthy vessel",
+     "grounds": "second member of compound, nominative singular",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What result follows from proper participation in Kula knowledge over six months?",
+   "question": "What attainment results from sustained engagement with Kula knowledge?",
    "premises": [
-    "Participation in Kula knowledge is mentioned.",
-    "A period of six months is specified.",
-    "One becomes a recipient of accomplishment."
+    "One engages in the enjoyment of Kula knowledge.",
+    "This engagement lasts six months.",
+    "Such a person becomes a recipient of accomplishment."
    ],
-   "inference": "Through participation in Kula knowledge for six months, one becomes a recipient of accomplishment.",
+   "inference": "Through six months of enjoying Kula knowledge, one becomes a recipient of accomplishment.",
    "uncertainties": [
-    "The exact sense of saṃbhogāt may include ritual enjoyment or union."
+    "The sense of 'saṃbhogāt' may be experiential enjoyment or ritual union."
    ],
-   "plain_english": "From participation in Kula knowledge for six months, one becomes a recipient of accomplishment."
+   "plain_english": "Through the enjoyment of Kula knowledge for six months, one becomes a recipient of accomplishment."
   },
   {
    "verse": 298,
@@ -1347,57 +1337,57 @@
     {
      "surface": "prāśayet",
      "gloss": "one-should-drink",
-     "grounds": "ritual consumption",
-     "morph": "3.sg.optative-causative-active √prāś"
+     "grounds": "optative causative verb",
+     "morph": "3.sg.opt.caus.act √prāś"
     },
     {
      "surface": "tat",
      "gloss": "that",
-     "grounds": "that substance",
+     "grounds": "demonstrative pronoun, accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "at all times",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "kālaṃ",
      "gloss": "time",
-     "grounds": "occasion",
+     "grounds": "accusative of time",
      "morph": "m.acc.sg"
     },
     {
      "surface": "yoginī",
-     "gloss": "yogini",
-     "grounds": "female practitioner or deity",
-     "morph": "compound-member"
+     "gloss": "yoginī",
+     "grounds": "first member of compound",
+     "morph": "compound:yoginī+melakaḥ"
     },
     {
      "surface": "melakaḥ",
      "gloss": "assembly",
-     "grounds": "gathering",
+     "grounds": "second member of compound, nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "may-be",
-     "grounds": "should occur",
-     "morph": "3.sg.optative-active √bhū"
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √bhū"
     }
    ],
-   "question": "What ongoing practice and gathering are enjoined in relation to that ritual substance?",
+   "question": "What ongoing practice sustains participation in the yoginī assembly?",
    "premises": [
-    "Drinking that substance is enjoined.",
-    "The practice is to be done at all times.",
-    "An assembly of yoginis is to take place."
+    "One should drink that substance.",
+    "This should be done at all times.",
+    "The yoginī assembly may then occur."
    ],
-   "inference": "One should always drink that, and there should be an assembly of yoginis.",
+   "inference": "By always drinking that substance, one may participate in the yoginī assembly.",
    "uncertainties": [
-    "The syntactic relation between drinking and the assembly is compressed."
+    "The referent of 'tat' depends on the preceding context."
    ],
-   "plain_english": "One should always drink that at the proper time, and there should be an assembly of yoginis."
+   "plain_english": "One should always drink that; then there may be an assembly of yoginīs."
   },
   {
    "verse": 299,
@@ -1405,38 +1395,38 @@
     {
      "surface": "mukha",
      "gloss": "mouth",
-     "grounds": "face",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:mukha+prakṣālanam"
     },
     {
      "surface": "prakṣālanaṃ",
      "gloss": "washing",
-     "grounds": "cleansing",
+     "grounds": "second member of compound, nominative singular",
      "morph": "n.nom.sg"
     },
     {
      "surface": "nityaṃ",
      "gloss": "always",
-     "grounds": "constantly",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "brahmaṇaḥ",
      "gloss": "of-brahman",
-     "grounds": "of ultimate reality",
-     "morph": "n.gen.sg"
+     "grounds": "possessive, genitive singular",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "ūrddha",
      "gloss": "upward",
-     "grounds": "higher",
-     "morph": "compound-member"
+     "grounds": "first member of compound",
+     "morph": "compound:ūrddha+gatam"
     },
     {
      "surface": "gatam",
      "gloss": "gone",
-     "grounds": "directed toward",
-     "morph": "n.nom.sg.past-passive-participle √gam"
+     "grounds": "second member of compound, nominative singular",
+     "morph": "n.nom.sg.ppp √gam"
     },
     {
      "surface": "priye",
@@ -1445,17 +1435,17 @@
      "morph": "f.voc.sg"
     }
    ],
-   "question": "How is the constant washing of the mouth reinterpreted in relation to Brahman?",
+   "question": "What is the significance of the constant washing of the mouth in this rite?",
    "premises": [
-    "Constant washing of the mouth is mentioned.",
-    "It is directed upward toward Brahman.",
-    "The instruction is addressed to a beloved."
+    "The washing of the mouth is performed always.",
+    "It is associated with Brahman.",
+    "It is described as having gone upward."
    ],
-   "inference": "The constant washing of the mouth is understood as being directed upward toward Brahman.",
+   "inference": "The constant washing of the mouth is an upward movement associated with Brahman.",
    "uncertainties": [
-    "The phrase may be symbolic rather than literal."
+    "The ritual or symbolic meaning of 'ūrddha gatam' is ambiguous."
    ],
-   "plain_english": "O beloved, the constant washing of the mouth is directed upward toward Brahman."
+   "plain_english": "O beloved, the constant washing of the mouth is the upward movement of Brahman."
   }
  ]
 }

@@ -8,11 +8,11 @@
 "tokens": [
 {
 "surface": "svamahimnā",
-"quick_gloss": "by-own-greatness"
+"quick_gloss": "by-own-majesty"
 },
 {
 "surface": "anādyudayaḥ",
-"quick_gloss": "without-beginning-arising"
+"quick_gloss": "beginningless-arising"
 },
 {
 "surface": "anāyattaḥ",
@@ -23,7 +23,7 @@
 "quick_gloss": "obeisance"
 },
 {
-"surface": "namas",
+"surface": "namaḥ",
 "quick_gloss": "obeisance"
 },
 {
@@ -49,15 +49,15 @@
 },
 {
 "surface": "gurutaḥ",
-"quick_gloss": "from-the-teacher"
+"quick_gloss": "from-teacher"
 },
 {
 "surface": "hitakṛtaye",
-"quick_gloss": "for-the-benefit"
+"quick_gloss": "for-benefit"
 },
 {
 "surface": "mandabuddhīnām",
-"quick_gloss": "of-the-dull-minded"
+"quick_gloss": "of-dull-witted"
 }
 ]
 },
@@ -70,19 +70,19 @@
 "tokens": [
 {
 "surface": "supte",
-"quick_gloss": "even-when-asleep"
+"quick_gloss": "in-sleep"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "vikṛtijāte",
-"quick_gloss": "when-modification-has-arisen"
+"quick_gloss": "when-modification-arisen"
 },
 {
 "surface": "tritayaṃ",
-"quick_gloss": "the-triad"
+"quick_gloss": "triad"
 },
 {
 "surface": "jāgarti",
@@ -90,7 +90,7 @@
 },
 {
 "surface": "tattvānām",
-"quick_gloss": "of-the-principles"
+"quick_gloss": "of-principles"
 }
 ]
 },
@@ -103,19 +103,19 @@
 "tokens": [
 {
 "surface": "saṃgṛhīte",
-"quick_gloss": "even-when-withdrawn"
+"quick_gloss": "when-withdrawn"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "jāgarti",
-"quick_gloss": "it-wakes"
+"quick_gloss": "wakes"
 },
 {
 "surface": "prakāśate",
-"quick_gloss": "it-shines-forth"
+"quick_gloss": "shines-forth"
 },
 {
 "surface": "eva",
@@ -135,16 +135,12 @@
 "quick_gloss": "one"
 },
 {
-"surface": "prasavitva",
-"quick_gloss": "endowed-with-productivity"
-},
-{
-"surface": "yutaṃ",
-"quick_gloss": "endowed-with"
+"surface": "prasavitvayutaṃ",
+"quick_gloss": "endowed-with-power-to-produce"
 },
 {
 "surface": "māyātattvaṃ",
-"quick_gloss": "the-māyā-principle"
+"quick_gloss": "māyā-principle"
 },
 {
 "surface": "citā",
@@ -168,16 +164,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāryaprasava",
+"surface": "kāryaprasavayuktaṃ",
 "quick_gloss": "endowed-with-production-of-effects"
 },
 {
-"surface": "yuktaṃ",
-"quick_gloss": "endowed-with"
-},
-{
 "surface": "mṛdādivat",
-"quick_gloss": "like-clay-etc"
+"quick_gloss": "like-clay-etc."
 },
 {
 "surface": "acetanaṃ",
@@ -197,8 +189,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mukteśvaravaimalyaṃ",
-"quick_gloss": "purity-of-the-liberated-lord"
+"surface": "mukteśvara",
+"quick_gloss": "of-liberated-lord"
+},
+{
+"surface": "vaimalyaṃ",
+"quick_gloss": "purity"
 },
 {
 "surface": "sarvārthe",
@@ -230,12 +226,8 @@
 "quick_gloss": "because-of-not-being-impelled-by-that"
 },
 {
-"surface": "tena",
-"quick_gloss": "by-that"
-},
-{
-"surface": "eva",
-"quick_gloss": "alone"
+"surface": "tena+eva",
+"quick_gloss": "by-that-alone"
 },
 {
 "surface": "parānugrahanirvāhāt",
@@ -264,7 +256,7 @@
 "tokens": [
 {
 "surface": "sakalākalaprabhedaḥ",
-"quick_gloss": "the-division-of-sakala-and-akala"
+"quick_gloss": "division-of-sakala-and-akala"
 },
 {
 "surface": "gītaḥ",
@@ -304,24 +296,20 @@
 "quick_gloss": "he"
 },
 {
-"surface": "tridhā",
-"quick_gloss": "threefold-in-state"
-},
-{
-"surface": "avasthaḥ",
-"quick_gloss": "state"
+"surface": "tridhāvasthaḥ",
+"quick_gloss": "in-three-states"
 },
 {
 "surface": "kevalaḥ",
-"quick_gloss": "kevala"
+"quick_gloss": "bound"
 },
 {
 "surface": "sakalaḥ",
-"quick_gloss": "sakala"
+"quick_gloss": "empowered"
 },
 {
 "surface": "amalaḥ",
-"quick_gloss": "amala"
+"quick_gloss": "pure"
 },
 {
 "surface": "iti",
@@ -354,11 +342,11 @@
 },
 {
 "surface": "tad",
-"quick_gloss": "by-that"
+"quick_gloss": "that"
 },
 {
 "surface": "anādisaṃruddham",
-"quick_gloss": "beginninglessly-restrained"
+"quick_gloss": "beginninglessly-obstructed"
 }
 ]
 },
@@ -375,31 +363,27 @@
 },
 {
 "surface": "saṃbhavati",
-"quick_gloss": "it-is-possible"
+"quick_gloss": "is-possible"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
-},
-{
-"surface": "uktaṃ",
-"quick_gloss": "said"
+"surface": "tad+uktaṃ",
+"quick_gloss": "that-said"
 },
 {
 "surface": "śrīmatsvāyambhuve",
-"quick_gloss": "in-the-revered-svāyambhuva"
+"quick_gloss": "in-revered-svāyambhuva"
 },
 {
-"surface": "atha",
-"quick_gloss": "now"
-},
-{
-"surface": "anādimalaḥ",
-"quick_gloss": "beginningless-impurity"
+"surface": "atha+anādimalaḥ",
+"quick_gloss": "now-beginningless-impurity"
 },
 {
 "surface": "puṃsām",
 "quick_gloss": "of-souls"
+},
+{
+"surface": "33|1",
+"quick_gloss": "(33|1)"
 },
 {
 "surface": "iti",
@@ -460,12 +444,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dīkṣā",
-"quick_gloss": "by-initiation"
-},
-{
-"surface": "ākhyena",
-"quick_gloss": "called"
+"surface": "dīkṣākhyena",
+"quick_gloss": "by-what-is-called-initiation"
 },
 {
 "surface": "eva",
@@ -476,20 +456,16 @@
 "quick_gloss": "thus"
 },
 {
+"surface": "etat",
+"quick_gloss": "and-this"
+},
+{
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "etat",
-"quick_gloss": "this"
-},
-{
-"surface": "vistareṇa",
-"quick_gloss": "in-detail"
-},
-{
-"surface": "uktam",
-"quick_gloss": "stated"
+"surface": "vistareṇa+uktam",
+"quick_gloss": "stated-at-length"
 },
 {
 "surface": "asmābhiḥ",
@@ -497,7 +473,7 @@
 },
 {
 "surface": "tattvasaṃgrahalaghuṭīkāyām",
-"quick_gloss": "in-the-tattvasaṃgrahalaghuṭīkā"
+"quick_gloss": "in-tattvasaṃgraha-laghuṭīkā"
 }
 ]
 },
@@ -510,15 +486,11 @@
 "tokens": [
 {
 "surface": "patyuḥ",
-"quick_gloss": "of-the-lord"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "of-lord"
 },
 {
 "surface": "ete",
-"quick_gloss": "these"
+"quick_gloss": "but-these"
 },
 {
 "surface": "rodhyāḥ",
@@ -529,12 +501,8 @@
 "quick_gloss": "to-be-bound"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "śodhyāḥ",
-"quick_gloss": "to-be-purified"
+"quick_gloss": "and-to-be-purified"
 },
 {
 "surface": "ca",
@@ -542,7 +510,7 @@
 },
 {
 "surface": "bodhyāḥ",
-"quick_gloss": "to-be-enlightened"
+"quick_gloss": "and-to-be-enlightened"
 },
 {
 "surface": "ca",
@@ -559,7 +527,7 @@
 "tokens": [
 {
 "surface": "prabodhyāḥ",
-"quick_gloss": "to-be-awakened"
+"quick_gloss": "and-to-be-awakened"
 },
 {
 "surface": "ca",
@@ -632,16 +600,12 @@
 "quick_gloss": "because-of-unconsciousness"
 },
 {
-"surface": "anityatvāt",
-"quick_gloss": "and-because-of-non-eternality"
-},
-{
-"surface": "ādi",
-"quick_gloss": "etc"
+"surface": "anityatvādi",
+"quick_gloss": "because-of-impermanence-etc."
 },
 {
 "surface": "doṣa",
-"quick_gloss": "fault"
+"quick_gloss": "of-faults"
 },
 {
 "surface": "prasaṅgaḥ",
@@ -657,7 +621,7 @@
 },
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "the-meaning"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -670,7 +634,7 @@
 "tokens": [
 {
 "surface": "malaśaktayaḥ",
-"quick_gloss": "the-powers-of-impurity"
+"quick_gloss": "powers-of-impurity"
 },
 {
 "surface": "vibhinnāḥ",
@@ -686,7 +650,7 @@
 },
 {
 "surface": "tadguṇāvarikāḥ",
-"quick_gloss": "obscurers-of-its-qualities"
+"quick_gloss": "obscuring-their-qualities"
 }
 ]
 },
@@ -699,7 +663,7 @@
 "tokens": [
 {
 "surface": "bhāvaḥ",
-"quick_gloss": "the-meaning"
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -712,7 +676,7 @@
 "tokens": [
 {
 "surface": "pariṇativiśeṣayogāt",
-"quick_gloss": "through-connection-with-a-particular-maturation"
+"quick_gloss": "by-connection-with-particular-maturation"
 },
 {
 "surface": "saḥ",
@@ -724,7 +688,7 @@
 },
 {
 "surface": "kasyacit",
-"quick_gloss": "for-someone"
+"quick_gloss": "of-someone"
 },
 {
 "surface": "kathañcit",
@@ -749,11 +713,11 @@
 },
 {
 "surface": "iva",
-"quick_gloss": "as"
+"quick_gloss": "as-if"
 },
 {
 "surface": "aniyatakālaḥ",
-"quick_gloss": "at-an-indeterminate-time"
+"quick_gloss": "at-indeterminate-time"
 },
 {
 "surface": "iti",
@@ -785,12 +749,8 @@
 "quick_gloss": "from-time"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "guṇataḥ",
-"quick_gloss": "from-quality"
+"quick_gloss": "and-from-quality"
 },
 {
 "surface": "ca",
@@ -802,7 +762,7 @@
 },
 {
 "surface": "ghaṭate",
-"quick_gloss": "it-occurs"
+"quick_gloss": "occurs"
 },
 {
 "surface": "asau",
@@ -818,7 +778,7 @@
 },
 {
 "surface": "īśataḥ",
-"quick_gloss": "by-the-lord"
+"quick_gloss": "by-lord"
 },
 {
 "surface": "jātu",
@@ -835,11 +795,11 @@
 "tokens": [
 {
 "surface": "bhavati",
-"quick_gloss": "it-occurs"
+"quick_gloss": "occurs"
 },
 {
 "surface": "pakṣapātādidoṣaprasaṅgāt",
-"quick_gloss": "because-of-the-occurrence-of-faults-like-partiality"
+"quick_gloss": "because-of-occurrence-of-faults-like-partiality"
 },
 {
 "surface": "na",
@@ -851,11 +811,11 @@
 },
 {
 "surface": "asya",
-"quick_gloss": "of-him"
+"quick_gloss": "of-this"
 },
 {
 "surface": "sarvānugrāhakasya",
-"quick_gloss": "who-is-gracious-to-all"
+"quick_gloss": "gracious-to-all"
 },
 {
 "surface": "pakṣapātaḥ",
@@ -871,7 +831,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadyuktimad",
+"surface": "sadyuktimat",
 "quick_gloss": "endowed-with-proper-reasoning"
 },
 {

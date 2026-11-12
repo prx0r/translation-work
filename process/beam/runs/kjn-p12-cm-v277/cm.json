@@ -4,38 +4,38 @@
  "rows": [
   {
    "lemma": "vijñānam",
-   "morph": "n.nom.sg",
-   "grounds": "cognitive power"
+   "morph": "n.acc.sg",
+   "grounds": "object of attainment, accusative singular"
   },
   {
    "lemma": "bala",
-   "morph": "compound-member",
-   "grounds": "power"
+   "morph": "compound:bala+sāmarthyam",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "sāmarthyaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "ability"
+   "morph": "n.acc.sg",
+   "grounds": "second member of compound, accusative singular"
   },
   {
    "lemma": "sapta",
-   "morph": "compound-member",
-   "grounds": "numeral"
+   "morph": "compound:sapta+janma",
+   "grounds": "numeral, first member of compound"
   },
   {
    "lemma": "janma",
-   "morph": "compound-member",
-   "grounds": "lifetime"
+   "morph": "compound:janma+antikam",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "antikaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "limit or conclusion"
+   "morph": "n.acc.sg",
+   "grounds": "final member of compound, accusative singular"
   },
   {
    "lemma": "paśu",
    "morph": "m.nom.sg",
-   "grounds": "beast or bound being"
+   "grounds": "subject or object in context, nominative or accusative singular"
   }
  ]
 }
