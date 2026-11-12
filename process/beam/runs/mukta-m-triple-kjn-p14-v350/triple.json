@@ -7,39 +7,39 @@
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "numeral indicating the eight siddhis",
-     "morph": "m.nom.pl"
+     "grounds": "numeral indicating a set of eight",
+     "morph": "num.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking to prior attainments",
+     "grounds": "conjunction adding to the preceding list",
      "morph": "(indecl.)"
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "siddhi-attainment-root-kaula",
-     "grounds": "fused form: siddhi-saṃprāptiḥ (attainment of powers) + mūlakaulam (root Kaula); internal sandhi noted, kept as one token",
-     "morph": "compound=f.nom.sg+m.nom.sg"
+     "gloss": "attainment-of-powers-root-kaula",
+     "grounds": "compound with internal sandhi: siddhisaṃprāptiḥ (attainment of powers) + mūlakaulaṃ (root Kaula)",
+     "morph": "compound: siddhi-saṃprāptiḥ(f.nom.sg)+mūlakaulam(n.nom.sg)"
     },
     {
      "surface": "varānane",
-     "gloss": "o-fair-faced-one",
+     "gloss": "O-fair-faced-one",
      "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Is the attainment of the eight siddhis identified as the root Kaula teaching?",
+   "question": "What additional attainment is identified as the root Kaula, O fair-faced one?",
    "premises": [
-    "The eight siddhis are named as attainments.",
-    "Attainment of these siddhis is equated with the root Kaula.",
-    "The goddess is addressed as fair-faced."
+    "The eight powers are enumerated.",
+    "The attainment of powers is named.",
+    "This attainment is identified as the root Kaula."
    ],
-   "inference": "Therefore, obtaining the eight siddhis constitutes the essential realization of the root Kaula.",
+   "inference": "Alongside the eight powers, the attainment of powers constitutes the root Kaula.",
    "uncertainties": [
-    "The exact list of the eight siddhis is not specified in this verse."
+    "The exact syntactic relation between the eight and the attainment of powers is compressed in this fused token."
    ],
-   "plain_english": "And, O fair-faced one, the attainment of the eight siddhis is the root Kaula."
+   "plain_english": "And the eight, O fair-faced one, along with the attainment of the siddhis, constitute the root Kaula."
   }
  ]
 }

@@ -1,15 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What claim is made about old age and death when the practice has been carried out for one year?",
+ "question": "Under what temporal condition of practice are old age and death said to be destroyed?",
  "premises": [
-  "A practice is carried out for one year.",
-  "That practice is the condition stated.",
-  "Under that condition, old age and death are destroyed."
+  "Practice is said to have been done for one year.",
+  "The condition is when it has been practiced.",
+  "Old age and death are the subjects.",
+  "Old age and death are destroyed."
  ],
- "inference": "When the practice has been carried out for one year, old age and death are destroyed.",
+ "inference": "When this practice has been carried out for one year, old age and death are destroyed.",
  "uncertainties": [
-  "The specific practice is not named in this verse alone"
+  "The practice referred to is not named in this verse."
  ],
- "plain_english": "When practiced for one year, old age and death are destroyed."
+ "plain_english": "When it has been practiced for one year, old age and death are destroyed."
 }
