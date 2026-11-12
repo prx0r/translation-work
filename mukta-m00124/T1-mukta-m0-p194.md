@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p194-v4826
-[aṅgula-dvayam](two-fingers) [ārabhya](beginning) [ca](and) [ekaika-aṅgula-vardhanāt](from-one-by-one-finger-increase)
+[two-finger](aṅguladvayam)[beginning-from](ārabhya) [and](ca)[by-increase-of-one-finger-each](eka+eka+aṅgula+vardhanāt)
 
 ## mukta-m0-p194-v4827
-[ṣaṭ-pañca-veda-rudrākṣa-dvyaṅgulaiḥ](with-six-five-veda-rudraksha-two-fingers) [parikalpayet](should-measure)
+[with-six-five-four-eleven-two-fingers](ṣaṭ+pañca+veda+rudra+akṣa+dvi+aṅgulaiḥ) [one-should-design](parikalpayet)
 
 ## mukta-m0-p194-v4828
-[sārva-deśika-harmye](in-universal-country-palace) [tu](but) [na](not) [ca](and) [ayam](this) [vidhiḥ](rule) [iṣyate](is-desired)
+[in-universal-temple](sārvadeśika+harmye) [but](tu) [not](na) [and](ca)[this](ayam) [rule](vidhiḥ)[is-desired](iṣyate)
 
 ## mukta-m0-p194-v4829
-[bāhya-nimnam](external-depression) [tu](but) [vā](or) [kāryam](should-be-made) [sālānām](of-halls) [aṅkaṇam](courtyard) [budhaiḥ](by-wise-ones)
+[outer-lower](bāhya+nimnam) [but](tu) [or](vā) [should-be-made](kāryam) [of-halls](sālānām)[courtyard](aṅkaṇam) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p194-v4830
-[sabhā-kṛtiḥ](assembly-hall-form) [vā](or) [kartavyā](should-be-made) [ca](and) [eka-dvi-trika-bhittibhiḥ](with-one-two-three-walls)
+[having-form-of-assembly-hall](sabhā+kṛtiḥ)[or](vā) [should-be-made](kartavyā) [with-one-two-three-walls](ca+eka+dvi+trika+bhittibhiḥ)
 
 ## mukta-m0-p194-v4831
-[upānāt](from-base) [tu](but) [samārabhya](beginning) [mūla-prāsāda-tuṅgakam](root-temple-height)
+[from-base](upānāt)[but](tu) [beginning](samārabhya) [height-of-main-temple](mūla+prāsāda+tuṅgakam)
 
 ## mukta-m0-p194-v4832
-[dvi-pādam](two-feet) [pāda-dairghyam](foot-length) [tu](but) [śeṣeṇa](by-remainder) [parikalpayet](should-measure)
+[two-parts](dvipādam) [pillar-length](pāda+dairghyam) [but](tu) [with-remainder](śeṣeṇa) [one-should-design](parikalpayet)
 
 ## mukta-m0-p194-v4833
-[adhiṣṭhāna-dvi-bhāgena](by-two-parts-of-base) [pādam](foot) [śeṣeṇa](by-remainder) [kalpayet](should-assign)
+[by-two-divisions-of-base](adhiṣṭhāna+dvi+bhāgena) [pillar](pādam) [with-remainder](śeṣeṇa) [one-should-design](kalpayet)
 
 ## mukta-m0-p194-v4834
-[sapta-hastānta](up-to-seven-hands) [utsedhaḥ](height) [stambhānām](of-pillars) [parikīrtitaḥ](is-declared)
+[up-to-seven-cubits](sapta+hasta+antaḥ) [height](utsedhaḥ) [of-pillars](stambhānām) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p194-v4835
-[pakṣa-aṅgulam](wing-finger) [samārabhya](beginning) [ca](and) [ardha-aṅgula-vivardhanāt](from-half-finger-increase)
+[beginning-from-two-fingers](pakṣa+aṅgulam) [starting](samārabhya) [and](ca)[by-increase-of-half-finger](ardha+aṅgula+vivardhanāt)
 
 ## mukta-m0-p194-v4836
-[pāda-ucca-ardha-adhiṣṭhāna-saptama-aṣṭa-nava-aṃśakam](foot-height-half-base-seventh-eighth-ninth-part)
+[half-of-pillar-height](pāda+ucca+ardham)[base](adhiṣṭhāna)[seventh-eighth-ninth-part](saptama+aṣṭa+nava+aṃśakam)
 
 ## mukta-m0-p194-v4837
-[pāda-ucce](in-foot-height) [tri-catur-bhāgena](by-three-fourth-part) [athavā](or) [api](also) [masūrakam](masuraka)
+[in-pillar-height](pāda+ucce) [by-third-or-fourth-part](tri+catur+bhāgena)[or-else](athavā+api) [base](masūrakam)
 
 ## mukta-m0-p194-v4838
-[prastara-ādi-pramāṇam](lintel-etc-measure) [ca](and) [prāsāda-uktavat](as-temple-said) [ācaret](should-do)
+[measurement-of-entablature-etc](prastara+ādi+pramāṇam) [and](ca) [as-stated-for-temple](prāsāda+ukta+vat)[one-should-perform](ācaret)
 
 ## mukta-m0-p194-v4839
-[catuṣ-koṇe](in-four-corner) [api](also) [vā](or) [kuryāt](should-make) [garbham](sanctum) [ca](and) [prathama-iṣṭakām](first-brick)
+[in-square](catuṣkoṇe)[also](api) [or](vā) [one-should-make](kuryāt)[womb-chamber](garbham) [and](ca) [first-brick](prathama+iṣṭakām)
 
 ## mukta-m0-p194-v4840
-[svasya](of-own) [dakṣiṇa-keṃśe](in-south-part) [tu](but) [dvāra-koṇa-antare](between-door-corner) [api](also) [vā](or)
+[in-one's-own-southern-part](svasya) (dakṣiṇake)[part](aṃśe) [but](tu) [or](vā)[also](api) [between-door-corners](dvāra+koṇa+antare)
 
 ## mukta-m0-p194-v4841
-[sthānam](place) [garbhasya](of-sanctum) [nirdiṣṭam](specified) [tatra-sthā](there-standing) [prathama-iṣṭakā](first-brick)
+[place](sthānam) [of-womb-chamber](garbhasya) [is-prescribed](nirdiṣṭam) [there-situated](tatra+sthā) [first-brick](prathama+iṣṭakā)
 
 ## mukta-m0-p194-v4842
-[bhitti-ūrdhva-stha-catuṣ-koṇeṣu](in-wall-above-four-corners) [ekasmin](in-one) [niṣṭakām](brick) [nyaset](should-place)
+[in-one-of-the-corners-above-wall](bhitti+ūrdhva+stha+catuṣkoṇeṣu)[in-one](ekasmin)[brick](niṣṭakām) [one-should-place](nyaset)
 
 ## mukta-m0-p194-v4843
-[tṛtīyā](third) [madhya-hārā](middle-course) [syāt](should-be) [maryādā-ākhyā](boundary-named) [caturthakā](fourth)
+[third](tṛtīyā) [middle-row](madhya+hārā) [should-be](syāt)[fourth](maryādā+ākhyā) [called-boundary](caturthakā)
 
 ## mukta-m0-p194-v4844
-[parivāra-amarān](attendant-immortals) [sarvān](all) [tatra](there) [saṃsthāpayet](should-establish) [guruḥ](teacher)
+[all-attendant-deities](parivāra+amarān) (sarvān)[there](tatra) [should-install](saṃsthāpayet)[teacher](guruḥ)
 
 ## mukta-m0-p194-v4845
-[parivāra-vimānānām](of-attendant-shrines) [mānam](measure) [garbha-ardham](half-sanctum) [eva](indeed) [vā](or)
+[of-attendant-shrines](parivāra+vimānānām) [measure](mānam) [half-of-womb-chamber](garbha+ardham)[only](eva) [or](vā)
 
 ## mukta-m0-p194-v4846
-[eka-hastam](one-hand) [samārabhya](beginning) [rudra-hastāntam](up-to-rudra-hands) [eva](indeed) [hi](certainly)
+[beginning-from-one-cubit](eka+hastam) [starting](samārabhya) [up-to-eleven-cubits](rudra+hasta+antam)[indeed](eva) [certainly](hi)
 
 ## mukta-m0-p194-v4847
-[aṅga-liṅga-ālaya-ākārāḥ](limb-linga-shrine-forms) [parivāra-ālayāḥ](attendant-shrines) [matāḥ](are-considered)
+[having-form-of-limb-linga-shrines](aṅga+liṅga+ālaya+ākārāḥ) [attendant-shrines](parivāra+ālayāḥ) [are-considered](matāḥ)
 
 ## mukta-m0-p194-v4848
-[santyakta-pāda-rūpa-aṃśa-mūla-deśa-mukha-anvitāḥ](with-abandoned-foot-form-part-root-place-face)
+[endowed-with-faces-toward-root-place-having-abandoned-pillar-form-part](santyakta+pāda+rūpa+aṃśa+mūla+deśa+mukha+anvitāḥ)
 
 ## mukta-m0-p194-v4849
-[dakṣa-sthāḥ](right-standing) [saumya-vaktrāḥ](gentle-faced) [syuḥ](should-be) [dakṣa-āsyāḥ](right-faced) [saumya-dig-gatāḥ](gentle-direction-going)
+[those-in-south](dakṣa+sthāḥ) [should-be-north-facing](saumya+vaktrāḥ) [should-be](syuḥ)[those-south-facing](dakṣa+āsyāḥ) [situated-in-north](saumya+dik+gatāḥ)
 
 ## mukta-m0-p194-v4850
-[nāgara-āḍīśa-deśe](in-nagara-adisha-country) [syāt](should-be) [agastyaḥ](agastya) [ca](and) [tathā](so) [eva](indeed) [ca](and)
+[in-northeast-region](nāgara+āḍīśa+deśe) [should-be](syāt)[Agastya](agastyaḥ) [and](ca) [likewise](tathaiva) [also](ca)

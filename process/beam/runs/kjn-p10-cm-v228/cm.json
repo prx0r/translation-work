@@ -4,33 +4,33 @@
  "rows": [
   {
    "lemma": "vahni",
-   "morph": "compound=member+membership",
-   "grounds": "first member of compound with nāveṣṭita"
+   "morph": "compound-member",
+   "grounds": "first member of compound describing enclosure"
   },
   {
    "lemma": "nāveṣṭita",
-   "morph": "compound=member+membership",
-   "grounds": "describes ātmānam as encircled by fire"
+   "morph": "compound-member",
+   "grounds": "second member of compound qualifying ātmānam"
   },
   {
    "lemma": "ātmānam",
    "morph": "m.acc.sg",
-   "grounds": "object described as standing"
+   "grounds": "object described as surrounded and standing"
   },
   {
    "lemma": "eka",
-   "morph": "compound=member+membership",
-   "grounds": "first member of compound with pādena"
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying pādena"
   },
   {
    "lemma": "pādena",
    "morph": "m.ins.sg",
-   "grounds": "indicates the manner of standing"
+   "grounds": "instrument indicating posture"
   },
   {
    "lemma": "saṃsthitam",
-   "morph": "m.acc.sg",
-   "grounds": "describes the posture of the self"
+   "morph": "m.acc.sg.past-participle",
+   "grounds": "participle describing ātmānam"
   }
  ]
 }

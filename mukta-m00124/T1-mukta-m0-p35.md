@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-there(tatra) īśāna-sthita-uttāna(tatraiśānaḥsthitottāno) head-standing(mūrdhasthaḥ) very-fearful(atibhīṣaṇaḥ)
+there(tatra) īśāna-face(aiśānaḥ) + situated-upright(sthita) + facing-upward(uttānaḥ) on-the-head(mūrdha) + situated(sthaḥ) + but(tu) very-terrible(atibhīṣaṇaḥ)
 
 ## mukta-m0-p35-v852
-thus(evaṃ) faces(vaktrāṇi) having-conceived(saṃbhāvya) form(rūpaṃ) sadāśiva(sādāśivaṃ) worship(yajet)
+thus(evam) faces(vaktrāṇi) having-visualized(saṃbhāvya) form(rūpam) Sadāśiva(sādāśivam) one-should-worship(yajet)
 
 ## mukta-m0-p35-v853
-thus(evaṃ) śākta(śāktaṃ) body(vapuḥ) having-imagined(kalpya) therein(tasmin) supreme-cause(paramakāraṇam)
+thus(evam) śakti-formed(śāktam) body(vapuḥ) having-fashioned(kalpya) in-that(tasmin) supreme-cause(paramakāraṇam)
 
 ## mukta-m0-p35-v854
-pervading(vyāpakaṃ) all-principles(sarvatattvānām) immeasurable(aprameyam) incomparable(anūpamam)
+all-pervading(vyāpakam) of-all-principles(sarva) + (tattvānām) immeasurable(aprameyam) incomparable(anūpamam)
 
 ## mukta-m0-p35-v855
-manifest(vyaktaṃ) should-make(kuryāt) especially(viśeṣeṇa) partless(niṣkalaṃ) in-embodied-self(sakalātmani)
+one-should-manifest(vyaktam) (kuryāt) especially(viśeṣeṇa) the-partless(niṣkalam) in-the-embodied-self(sakala) + (ātmani)
 
 ## mukta-m0-p35-v856
-as(yathā) wood(kāṣṭha) ?(ma?to) fire(vahnir) ?(vya?jyate) by-churning(mathanādibhiḥ)
+just-as(yathā) from-wood(kāṣṭha) + (ma?taḥ) fire(vahniḥ) is-manifested(vya?jyate) by-churning(mathana) + and-so-forth(ādibhiḥ)
 
 ## mukta-m0-p35-v857
-having-gone-forth(niṣkrāntaṃ) gradually(kramataḥ) by-own-power-rays(svaśaktikiraṇaiḥ) thus(syāt) thus(evam) invocation(āvāhanam)
+emerged(niṣkrāntam) gradually(kramataḥ) by-its-own-power(sva) + (śakti) + rays(kiraṇaiḥ) thus(evam) should-be(syāt) invocation(āvāhanam)
 
 ## mukta-m0-p35-v858
-if(yadi) invocation(āvāhanam) desired(iṣṭaṃ) be(syāt) all-pervasiveness(sarvagatvaṃ) hindered(vihanyate)
+if(yadi) invocation(āvāhanam) desired(iṣṭam) should-be(syāt) omnipresence(sarvagatvam) is-violated(vihanyate)
 
 ## mukta-m0-p35-v859
-similarly(tadvat) in-one-place(ekatra) consciousness-manifestation(cidvyaktiḥ) of-pervading-one(vyāpakasya) not-hindered(na bādhyate)
+likewise(tadvat) in-one-place(ekatra) consciousness-manifestation(cit) + (vyaktiḥ) of-the-all-pervading(vyāpakasya) not(na) is-contradicted(bādhyate)
 
 ## mukta-m0-p35-v860
-similarly(tadvat) by-mantra-body-gate(mantratanudvārā) of-śiva(śivasya) worship(iṣṭau) going-coming(gamāgamau)
+likewise(tadvat) by-means-of-mantra-body(mantra) + (tanu) + (dvārā) of-Śiva(śivasya) in-worship(iṣṭau) coming-and-going(gama) + (āgamau)
 
 ## mukta-m0-p35-v861
-with-body(satanuḥ) bodyless(tanuhīnaḥ) or(vā) all-doer(sarvakṛt) all-pervading(sarvagaḥ) śiva(śivaḥ)
+with-body(satanuḥ) or(vā) bodyless(tanu) + (hīnaḥ) all-doing(sarva) + (kṛt) all-pervading(sarvagaḥ) Śiva(śivaḥ)
 
 ## mukta-m0-p35-v862
-that(tat) ca(ca) by-prāṇa-path(prāṇapathā) should-be-done(kāryaṃ) by-nāḍī(nāḍyā) light-form(jyotiḥ svarūpayā)
+and-that(tat) + (ca) by-the-path-of-breath(prāṇa) + (pathā) to-be-done(kāryam) by-the-channel(nāḍyā) of-light-nature(jyotiḥ) + (svarūpayā)
 
 ## mukta-m0-p35-v863
-by-which(yena) by-capacity(sāmarthyataḥ) of-śambhu(śambhoḥ) own( svasya) own-lordship(svasvāmitā) becomes(bhavet)
+by-which(yena) through-capability(sāmarthyataḥ) of-Śambhu(śambhoḥ) of-oneself(svasya) self-lordship(sva) + (svāmitā) may-be(bhavet)
 
 ## mukta-m0-p35-v864
-of-presence(sannidheḥ) non-abandonment(aparityāge) which(yo) worship-time-end(arcākālāvasānakaḥ)
+in-non-abandonment(aparityāge) of-presence(sannidheḥ) which(yaḥ) ending-at-the-time-of-worship(arcā) + (kāla) + (avasānakaḥ)
 
 ## mukta-m0-p35-v865
-in-world(loke) pleasant-natured(sukhātmakaṃ) thing(vastu) to-be-hidden(gopanīyaṃ) as(yathā) so(tathā)
+in-the-world(loke) pleasure-giving(sukha) + (ātmakam) thing(vastu) to-be-concealed(gopanīyam) just-as(yathā) so(tathā)
 
 ## mukta-m0-p35-v866
-as(yathā) fire-crystal-etc.(analataraṇyādyāḥ) capable(samarthāḥ) by-own-radiance(svasvadīptibhiḥ)
+just-as(yathā) fire-and-araṇi(anala) + (taraṇi) + and-so-forth(ādyāḥ) capable(samarthāḥ) by-their-own-lights(sva) + (sva) + (dīptibhiḥ)
 
 ## mukta-m0-p35-v867
-existence(astitvaṃ) heart(hṛdayaṃ) its(tasya) head(śiraḥ) upward(cordhvaṃ) crest-position(śikhāsthitiḥ)
+existence(astitvam) heart(hṛdayam) of-that(tasya) head(śiraḥ) + and(ca) upward(ūrdhvam) tuft-position(śikhā) + (sthitiḥ)
 
 ## mukta-m0-p35-v868
-by-which(yayā) by-power(śaktyā) existence(bhavam) weapon(astraṃ) that(tad) its(asya) indeed(hi)
+by-which(yayā) power(śaktyā) it-dispels(nirasyati) worldly-existence(bhavam) weapon(astram) that(tat) of-it(asya) indeed(hi)
 
 ## mukta-m0-p35-v869
-thus(evaṃ) sixfold-qualities(ṣāṅguṇyam) here(atra) said(uktam) of-world-maker(jagatkartuḥ) of-śiva(śivasya) tu(tu)
+thus(evam) sixfold-quality(ṣāṭ) + (guṇyam) here(atra) declared(uktam) of-the-world-maker(jagat) + (kartuḥ) of-Śiva(śivasya) but(tu)
 
 ## mukta-m0-p35-v870
-heart-head-crest-limbs-eyes-hands(hṛcchiraścūlikāgātranetrahasteṣu) place(vinyaset)
+in-heart(hṛt) + head(śiraḥ) + tuft(cūlikā) + body(gātra) + eyes(netra) + hands(hasteṣu) one-should-place(vinyaset)
 
 ## mukta-m0-p35-v871
-nectar-making(amṛtīkaraṇaṃ) said(proktaṃ) of-lord(prabhor) nectar-seal(amṛtamudrayā)
+making-immortal(amṛtīkaraṇam) declared(proktam) of-the-lord(prabhoḥ) by-the-nectar-mudrā(amṛta) + (mudrayā)
 
 ## mukta-m0-p35-v872
-that(tan) great-seal(mahāmudrayā) should-do(kuryāt) for-delight-melting(modanadrāvaṇārthayā)
+that(tat) by-the-great-mudrā(mahā) + (mudrayā) one-should-do(kuryāt) for-the-purpose-of-delight-and-flowing(modana) + (drāvaṇa) + (arthayā)
 
 ## mukta-m0-p35-v873
-supreme-bliss-abundance-whitened-directions(paramānandasandohadhavalīkṛtadiṅmukham)
+by-the-mass-of-supreme-bliss(parama) + (ānanda) + (sandoha) whitened(dhavalī) + (kṛta) directions-and-faces(diṅ) + (mukham)
 
 ## mukta-m0-p35-v874
-arghya(arghyaṃ) on-heads(mūrdhasu) should-give(dātavyaṃ) dūrvā-flower-akṣata(dūrvāpuṣpākṣataṃ) also(tathā)
+arghya-offering(arghyam) on-the-head(mūrdhasu) to-be-given(dātavyam) dūrvā-grass(dūrvā) + flowers(puṣpa) + unbroken-rice(akṣatam) likewise(tathā)
 
 ## mukta-m0-p35-v875
-svāhā-ended(svāhāntena) by-heart(hṛdā) and(ca) arghya(arghyaṃ) dūrvā-etc.(dūrvādyaṃ) vauṣaḍ-ended(vauṣaḍantataḥ)
+with-svāhā-ending(svāhā) + (antena) with-the-heart-mantra(hṛdā) and(ca) arghya(arghyam) dūrvā-etc.(dūrvā) + (ādyam) with-vauṣaṭ-ending(vauṣaṭ) + (antataḥ)

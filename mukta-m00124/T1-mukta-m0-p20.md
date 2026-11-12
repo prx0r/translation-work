@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[tasmāt](tasmāt) [toyāt](toyāt) [ca](ca) [nirdagdham](nirdagdhaṃ) [pāpam](pāpaṃ) [dehe](dehe) [asita-prabham](asitaprabham)
+[therefore](tasmāt) [from-water](toyāt) [and](ca) [burnt-out](nirdagdhaṃ) [sin](pāpaṃ) [in-body](dehe) [black-lustrous](asita+prabham)
 
 ## mukta-m0-p20-v477
-[tad-dehe](taddehe) [akṣa-hasta-stha-jala-kṣepāt](akṣahastasthajalakṣepāt) [śiva-astrataḥ](śivāstrataḥ)
+[that](tat) [from-body](dehāt) [from-right-hand-situated-water-throwing](dakṣa+hasta+stha+jala+kṣepāt) [by-śiva-weapon](śiva+astrataḥ)
 
 ## mukta-m0-p20-v478
-[deva-ādīnām](devādīnāṃ) [yathā-yojya-dravyaiḥ](yathāyojyadravyair) [vāri-visarjanam](vārivisarjanam)
+[of-gods-and-others](deva+ādīnāṃ) [with-suitable-substances](yathā+yogya+dravyaiḥ) [or](vā) [water-offering](ari+visarjanam)
 
 ## mukta-m0-p20-v479
-[mantrāḥ](mantrāśca) [ca](ca) [devatā](devatā) [vāṇī](vāṇī) [diśaḥ](diśastatpatayastathā) [tat-patayaḥ](tatpatayastathā) [tathā](tathā)
+[mantras](mantrāḥ) [and](ca) [deities](devatā) [speech](vāṇī) [directions](diśaḥ) [their-lords](tat+patayaḥ) [likewise](tathā)
 
 ## mukta-m0-p20-v480
-[bhūtāni](bhūtāni) [pitaras](pitaraścānye) [ca](ca) [anye](anye) [jñātayaḥ](jñātayo) [guravaḥ](guravastathā) [tathā](tathā)
+[beings](bhūtāni) [ancestors](pitaraḥ) [and](ca) [others](anye) [relatives](jñātayaḥ) [teachers](guravaḥ) [likewise](tathā)
 
 ## mukta-m0-p20-v481
-[svāhayā](svāhayā) [mantra-devānām](mantradevānāṃ) [sarasvatyāḥ](sarasvatyāstathaiva) [tathā](tathā) [eva](eva) [ca](ca)
+[with-svāhā](svāhayā) [of-mantra-deities](mantra+devānāṃ) [of-sarasvatī](sarasvatyāḥ) [likewise](tathā) [and](eva) [also](ca)
 
 ## mukta-m0-p20-v482
-[siddhānām](siddhānāṃ) [graha-saṃghānām](grahasaṃghānāṃ) [namas-antam](namontaṃ) [parikalpayet](parikalpayet)
+[of-siddhas](siddhānāṃ) [of-planet-hosts](graha+saṃghānāṃ) [ending-with-namas](namaḥ+antaṃ) [one-should-assign](parikalpayet)
 
 ## mukta-m0-p20-v483
-[sarvam](sarvaṃ) [hṛdaya-pūrvam](hṛdayapūrvaṃ) [syāt](syāt) [kusumam](kusumaṃ) [deva-tarpaṇam](devatarpaṇam)
+[all](sarvaṃ) [preceded-by-hṛdaya](hṛdaya+pūrvaṃ) [should-be](syāt) [flower](kusumaṃ) [deity-satisfaction](devata+tarpaṇam)
 
 ## mukta-m0-p20-v484
-[śeṣāṇām](śeṣāṇām) [akṣataiḥ](akṣataiḥ) [kuryāt](kuryāt) [yathā-yogya-upavīta-dhṛk](yathāyogyopavītadhṛk)
+[of-the-rest](śeṣāṇām) [with-unbroken-rice](akṣataiḥ) [one-should-perform](kuryāt) [wearing-sacred-thread-as-appropriate](yathā+yogya+upavīta+dhṛk)
 
 ## mukta-m0-p20-v485
-[mantrāḥ](mantrāstu) [tu](tu) [mūla-brahma-aṅga-hetayaḥ](mūlabrahmāṅgahetayo) [muni-sattamāḥ](munisattamāḥ)
+[mantras](mantrāḥ) [but](tu) [root-brahman-limb-weapons](mūla+brahma+aṅga+hetayaḥ) [O-best-of-sages](muni+sattamāḥ)
 
 ## mukta-m0-p20-v486
-[vāg-vādinī](vāgvādinī) [bhavet](bhaved) [vāṇī](vāṇī) [diśaḥ](diśaścendrādayaḥ) [ca](ca) [indra-ādayaḥ](indrādayaḥ) [smṛtāḥ](smṛtāḥ)
+[vāgvādinī](vāg+vādinī) [should-be](bhavet) [speech](vāṇī) [directions](diśaḥ) [and](ca) [indra-and-others](indra+ādayaḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p20-v487
-[atriḥ](atriśca) [ca](ca) [viśvāmitraḥ](viśvāmitraśca) [ca](ca) [pulastyaḥ](pulastyaḥ) [pulahaḥ](pulahaḥ) [kratuḥ](kratuḥ)
+[atri](atriḥ) [and](ca) [viśvāmitra](viśvāmitraḥ) [and](ca) [pulastya](pulastyaḥ) [pulaha](pulahaḥ) [kratu](kratuḥ)
 
 ## mukta-m0-p20-v488
-[tataḥ](tato) [manuṣyāḥ](manuṣyāḥ) [sanakaḥ](sanakaḥ) [sanandana](sanandanasanātanau) [sanātanau](sanātanau)
+[then](tataḥ) [humans](manuṣyāḥ) [sanaka](sanakaḥ) [sanandana](sanandanaḥ) [sanātana](sanātanau)
 
 ## mukta-m0-p20-v489
-[śivaḥ](śivo) [rudraḥ](rudro) [bhavānī](bhavānī) [ca](ca) [brahma-viṣṇu-agni-vāyavaḥ](brahmaviṣṇvagnivāyavaḥ)
+[śiva](śivaḥ) [rudra](rudraḥ) [bhavānī](bhavānī) [and](ca) [brahmā-viṣṇu-agni-vāyu](brahma+viṣṇu+agni+vāyavaḥ)
 
 ## mukta-m0-p20-v490
-[āditya-somau](ādityasomāvaṅgārabudhau) [aṅgāra-budhau](aṅgārabudhau) [ca](ca) [eva](eva) [bṛhaspatiḥ](bṛhaspatiḥ)
+[sun-and-moon](āditya+somau) [mars](aṅgāraḥ) [mercury](budhau) [and](ca) [indeed](eva) [jupiter](bṛhaspatiḥ)
 
 ## mukta-m0-p20-v491
-[bhūtāni](bhūtānyasaṃkhyasaṃkhyāni) [asaṃkhya-saṃkhyāni](asaṃkhyasaṃkhyāni) [bhūtebhyaḥ](bhūtebhya) [iti](iti) [yojayet](yojayet)
+[beings](bhūtāni) [countless-in-number](asaṃkhya+saṃkhyāni) [to-the-beings](bhūtebhyaḥ) [thus](iti) [one-should-apply](yojayet)
 
 ## mukta-m0-p20-v492
-[agniḥ](agniśca) [ca](ca) [kavya-vāha-ādyāḥ](kavyavāhādyāḥ) [pitaraḥ](pitaraḥ) [parikīrtitāḥ](parikīrtitāḥ)
+[agni](agniḥ) [and](ca) [kavyavāha-and-others](kavyavāha+ādyāḥ) [ancestors](pitaraḥ) [declared](parikīrtitāḥ)
 
 ## mukta-m0-p20-v493
-[ācamya](ācamya) [dadyāt](dadyāt) [sūrya-arghyam](sūryārdhyaṃ) [try-akṣareṇa](tryakṣareṇa) [tu](tu) [mantrataḥ](mantrataḥ)
+[having-sipped-water](ācamya) [one-should-give](dadyāt) [offering-to-sun](sūrya+ardhyaṃ) [with-three-syllabled](tri+akṣareṇa) [indeed](tu) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p20-v494
-[dhyātvā](dhyātvā) [sūryam](sūryaṃ) [yathā-nyāyam](yathānyāyam) [upasthānam](upasthānaṃ) [ṣaḍ-aṅgataḥ](ṣaḍaṅgataḥ)
+[having-meditated](dhyātvā) [on-sun](sūryaṃ) [as-prescribed](yathā+nyāyam) [worship](upasthānaṃ) [with-six-limbs](ṣaḍ+aṅgataḥ)
 
 ## mukta-m0-p20-v495
-[prātaḥ](prātaḥ) [sthitvā](sthitvā) [tu](tu) [sāyāhne](sāyāhne) [samāsīnaḥ](samāsīno) [muni-īśvarāḥ](munīśvarāḥ)
+[in-morning](prātaḥ) [standing](sthitvā) [but](tu) [in-evening](sāyāhne) [seated](samāsīnaḥ) [O-lords-of-sages](munīśvarāḥ)
 
 ## mukta-m0-p20-v496
-[upasthānam](upasthānaṃ) [tataḥ](tato) [japtvā](japtvā) [vyoma-vyāpinam](vyomavyāpinameva) [eva](eva) [ca](ca)
+[worship](upasthānaṃ) [then](tataḥ) [having-chanted](japtvā) [the-vyomavyāpin](vyomavyāpinam) [indeed](eva) [also](ca)
 
 ## mukta-m0-p20-v497
-[pradakṣiṇam](pradakṣiṇaṃ) [tataḥ](tataḥ) [kṛtvā](kṛtvā) [kuryāt](kuryāt) [daṇḍa-namaskṛtim](daṇḍanamaskṛtim)
+[circumambulation](pradakṣiṇaṃ) [then](tataḥ) [having-done](kṛtvā) [one-should-perform](kuryāt) [prostrate-obeisance](daṇḍa+namaskṛtim)
 
 ## mukta-m0-p20-v498
-[arogī](arogī) [roga-yuktaḥ](rogayuktaścet) [cet](cet) [sadyojātam](sadyojātaṃ) [śatam](śataṃ) [japet](japet)
+[healthy](arogī) [if](cet) [afflicted-by-disease](roga+yuktaḥ) [sadyojāta](sadyojātaṃ) [hundred](śataṃ) [one-should-chant](japet)
 
 ## mukta-m0-p20-v499
-[gaṇeśa-rudra-vāgīśān](gaṇeśarudravāgīśān) [pūjayet](pūjayet) [hṛdayena](hṛdayena) [tu](tu)
+[gaṇeśa-rudra-vāgīśa](gaṇeśa+rudra+vāgīśān) [one-should-worship](pūjayet) [with-hṛdaya-mantra](hṛdayena) [indeed](tu)
 
 ## mukta-m0-p20-v500
-[vrajet](vrajeddevakulaṃ) [deva-kulam](devakulaṃ) [vā](vā) [api](api) [gṛham](gṛham) [ātmīyam](ātmīyam) [uttamam](uttamam)
+[one-should-go](vrajet) [to-temple](deva+kulaṃ) [or](vā) [also](api) [to-house](gṛham) [one's-own](ātmīyam) [excellent](uttamam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p202-v5026
-thus(evam) characteristic(lakṣaṇam) described(ākhyātaṃ) installation(sthāpanaṃ) listen(śrūyatāṃ) brāhmaṇas(dvijāḥ)
+[thus](evaṃ) [characteristic](lakṣaṇam) [declared](ākhyātaṃ) [installation](sthāpanaṃ) [let-be-heard](śrūyatāṃ) [o-twice-born](dvijāḥ)
 
 ## mukta-m0-p202-v5027
-pavilion(maṇṭapaṃ) by-prescribed-path(parivāra+ukta+mārgeṇa+eva) perform(samācaret)
+[pavilion](maṇṭapaṃ) [retinue+mentioned](parivāra+uktam) [by-method](mārgeṇa) [indeed](eva) [one-should-perform](samācaret)
 
 ## mukta-m0-p202-v5028
-gem-deposit(ratna+nyāsaṃ) make(prakartavyaṃ) stone-born(śaila+je) metal-born(loha+je) also(atha)
+[jewel+deposit](ratna+nyāsaṃ) [to-be-done](prakartavyaṃ) [in-stone-born](śailaje) [in-metal-born](lohaje) [also](api) [then](atha)
 
 ## mukta-m0-p202-v5029
-then(tataḥ) eye-opening(akṣi+mocanaṃ) purification(śuddhiḥ) villages-etc(grāma+ādīnāṃ) circumambulation(pradakṣiṇam)
+[then](tataḥ) [eye+opening](akṣi+mocanaṃ) [purification](śuddhiḥ) [of-village+and-so-on](grāma+ādīnāṃ) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p202-v5030
-brāhmaṇa-feast(dvija+saṃbhojanaṃ) merit-water-libation(puṇya+toya+secanaṃ) or(eva) vā(vā)
+[twice-born+feeding](dvija+saṃbhojanaṃ) [sacred+water+sprinkling](puṇya+toya+secanam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p202-v5031
-bull's(vṛṣasya) right(dakṣiṇe) horn(śṛṅge) thread(kautukaṃ) bind(bandhayed) guru(guruḥ)
+[of-bull](vṛṣasya) [on-right](dakṣiṇe) [on-horn](śṛṅge) [protective-thread](kautukaṃ) [should-bind](bandhayet) [teacher](guruḥ)
 
 ## mukta-m0-p202-v5032
-seven-classes(sapta+vargāt) fourth-end(caturtha+antaṃ) seven-notes(sapta+svara+vibhūṣitam)
+[from-seventh+class](sapta+vargāt) [up-to-fourth](caturtha+antaṃ) [with-seven+vowels](sapta+svara) [adorned](vibhūṣitam)
 
 ## mukta-m0-p202-v5033
-to-bull(vṛṣabhāya) namaḥ(namaḥ) at-end(ante) therein(tasmin) brahma-limb-arrangement(brahma+aṅga+kalpanā)
+[to-bull](vṛṣabhāya) [obeisance](namaḥ) [at-end](ca+ante) [in-that](tasmin) [Brahman+limb+arrangement](brahma+aṅga+kalpanā)
 
 ## mukta-m0-p202-v5034
-then(atha) vidyeśvaras(vidyeśvarān) or(vā) api(api) around-bull(vṛṣasya+paritaḥ) place(nyaset)
+[then](atha) [Vidyēśvaras](vidyeśvarān) [or](vā) [also](api) [of-bull](vṛṣasya) [around](paritaḥ) [one-should-place](nyaset)
 
 ## mukta-m0-p202-v5035
-sharp-horned(tīkṣṇa+śṛṅgaḥ) thus(tathā) nandī(nandī) horned(viṣāṇī) cattle-bearer(paśu+bhṛt) thus(tathā)
+[sharp+horned](tīkṣṇa+śṛṅgaḥ) [likewise](tathā) [Nandī](nandī) [horned-one](viṣāṇī) [creature+bearer](paśu+bhṛt) [likewise](tathā)
 
 ## mukta-m0-p202-v5036
-worshipping(saṃpūjya) sandal-flowers-etc(gandha+puṣpa+ādyaiḥ) mudga-rice(mudga+annaṃ) offer(nivedayet)
+[having-worshipped](saṃpūjya) [with-fragrance+flower+and-so-on](gandha+puṣpa+ādyaiḥ) [mung-bean+food](mudga+annaṃ) [indeed](tu) [one-should-offer](nivedayet)
 
 ## mukta-m0-p202-v5037
-fire-rite(agni+kāryaṃ) then(tataḥ) do(kuryāt) previously-said(prāg+ukta+vidhinā) with(saha)
+[fire+rite](agni+kāryaṃ) [then](tataḥ) [one-should-perform](kuryāt) [with-previously+stated+method](prāk+ukta+vidhinā) [together](saha)
 
 ## mukta-m0-p202-v5038
-morning(prabhāte) teacher(deśikaḥ) pure(śuddhaḥ) worship-homa(pūjā+homaṃ) cause(kārayet)
+[at-dawn](prabhāte) [teacher](deśikaḥ) [pure](śuddhaḥ) [worship+oblation](pūjā+homaṃ) [and](ca) [should-cause-to-perform](kārayet)
 
 ## mukta-m0-p202-v5039
-auspicious-moment(sumuhūrte) good-ascendant(sulagne) tu(tu) mantra-nyāsa(mantra+nyāsaṃ) perform(samācaret)
+[at-good+moment](su+mūhūrte) [at-good+ascendant](su+lagne) [indeed](tu) [mantra+placement](mantra+nyāsaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p202-v5040
-root-mantra(mūla+mantreṇa) establish(saṃsthāpya) sandal-flowers-etc(gandha+puṣpa+ādibhiḥ) worship(yajet)
+[with-root+mantra](mūla+mantreṇa) [having-installed](saṃsthāpya) [with-fragrance+flower+and-so-on](gandha+puṣpa+ādibhiḥ) [one-should-worship](yajet)
 
 ## mukta-m0-p202-v5041
-from-pot(kumbhāt) seed(bījaṃ) taking(samādāya) bull's(vṛṣasya) heart(hṛdaye) place(nyaset)
+[from-pot](kumbhāt) [seed](bījaṃ) [having-taken](samādāya) [of-bull](vṛṣasya) [in-heart](hṛdaye) [one-should-place](nyaset)
 
 ## mukta-m0-p202-v5042
-then(tataḥ) pot-water(kumbha+udakena+eva) bathe(snāpayet) bull(vṛṣam) respectfully(ādarāt)
+[then](tataḥ) [with-pot+water](kumbha+udakena) [indeed](eva) [one-should-bathe](snāpayet) [bull](vṛṣam) [with-respect](ādarāt)
 
 ## mukta-m0-p202-v5043
-pot-abhiṣeka(kumbha+abhiṣekaḥ) do(kartavyaḥ) there(tatra) sprinkling(prokṣaṇam) indeed(eva) ca(ca)
+[pot+consecration](kumbha+abhiṣekaḥ) [to-be-done](kartavyaḥ) [there](tatra) [sprinkling](prokṣaṇam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p202-v5044
-root-shrine(root+prāsāda+vistāre) seven-eight-nine-parts(sapta+aṣṭa+nava+bhāgike)
+[in-main+temple+width](mūla+prāsāda+vistāre) [in-seven+eight+nine+parts](sapta+aṣṭa+nava+bhāgike)
 
 ## mukta-m0-p202-v5045
-door-ornament-etc(dvāra+śobhā+ādi+mānaṃ) be(syāt) tower-end(gopura+antaṃ) spacious(viśālataḥ)
+[gate+ornament+and-so-on+measure](dvāra+śobhā+ādi+mānaṃ) [should-be](syāt) [up-to-tower](gopura+antaṃ) [in-breadth](viśālataḥ)
 
 ## mukta-m0-p202-v5046
-in-shrine(dhāmni) tāra(catuṣ+pañca+ṣaḍ+bhāgena) divided(vibhājite)
+[in-shrine](dhāmni) [in-width](tāre) [by-four+five+six+parts](catur+pañca+ṣaḍ+bhāgena) [when-divided](vibhājite)
 
 ## mukta-m0-p202-v5047
-door-ornament-etc-width(dvāra+śobhā+ādi+vistāraḥ) fivefold(pañcadhā) declared(parikīrtitaḥ)
+[gate+ornament+and-so-on+width](dvāra+śobhā+ādi+vistāraḥ) [in-five-ways](pañcadhā) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p202-v5048
-fourth-part(catur+bhāge) third-part(tri+bhāgaṃ) ca(ca) fifth-part(pañca+aṃśe) fourth-part(caturaṃśakam)
+[in-four+parts](catur+bhāge) [three+parts](tri+bhāgaṃ) [and](ca) [in-five+parts](pañca+aṃśe) [four+parts](catur+aṃśakam)
 
 ## mukta-m0-p202-v5049
-two-hasts-etc(dvi+hasta+ādi+dviraṣṭāntaṃ) sky-jewel-increase(vyomā+ratni+vivṛddhitaḥ)
+[from-two+cubits+and-so-on](dvi+hasta+ādi) [up-to-twice+eight](dvi+raṣṭa+antaṃ) [by-sky+cubit+increase](vyoma+aratni+vivṛddhitaḥ)
 
 ## mukta-m0-p202-v5050
-twenty-one-hasts(ekaviṃśat+kara+antaṃ) tu(tu) three-hasts-from-double-increase(tri+hasta+āt+dvi+ka+vardhanāt)
+[up-to-twenty-one+cubits](ekaviṃśati+kara+antaṃ) [indeed](tu) [from-three+cubits](tri+hastāt) [by-two+cubit+increase](dvi+ka+vardhanāt)
