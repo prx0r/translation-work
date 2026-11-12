@@ -1,15 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 308,
- "question": "Which fifth and sixth types are enumerated in the address to the goddess?",
+ "question": "Which fifth and sixth types are named in this enumeration?",
  "premises": [
-  "The fifth is identified as independence.",
-  "The sixth is identified as the hero-lord.",
-  "The goddess is addressed directly."
+  "The fifth type is independence",
+  "The sixth type is the hero-lord",
+  "The goddess is addressed in this enumeration"
  ],
- "inference": "The fifth and sixth in the sequence are independence and the hero-lord.",
+ "inference": "The fifth is independence and the sixth is the hero-lord",
  "uncertainties": [
-  "The third and fourth items of the sequence are missing from this verse."
+  "The third and fourth types are not mentioned in this verse"
  ],
- "plain_english": "O goddess, the fifth is independence, and the sixth is the lord of heroes."
+ "plain_english": "O Goddess, the fifth is independence, and the sixth is the lord of heroes."
 }
