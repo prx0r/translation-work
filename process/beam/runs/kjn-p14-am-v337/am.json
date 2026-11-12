@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 337,
- "question": "What consequence follows if a teacher gives the teaching to unworthy disciples?",
+ "question": "What consequence follows when a teacher gives this teaching to unworthy disciples?",
  "premises": [
-  "A teacher may give the teaching to such disciples.",
-  "Accomplishment is said to be lost."
+  "A teacher may give the teaching to such disciples",
+  "These disciples are unworthy recipients",
+  "Accomplishment is lost as a result"
  ],
- "inference": "Giving the teaching to unworthy disciples causes the teacher’s accomplishment to diminish.",
+ "inference": "If a teacher gives this teaching to unworthy disciples, accomplishment diminishes.",
  "uncertainties": [
-  "The fused forms dadyāstu and siddhirhīyate are interpretively segmented in meaning only."
+  "dadyāstu and siddhirhīyate are fused forms with compressed syntax"
  ],
- "plain_english": "If a teacher should give this to such disciples, his accomplishment is lost."
+ "plain_english": "If the teacher should give this to such disciples, accomplishment is lost."
 }
