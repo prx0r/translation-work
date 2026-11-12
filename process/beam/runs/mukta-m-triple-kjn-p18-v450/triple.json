@@ -6,53 +6,53 @@
    "rows": [
     {
      "surface": "kṣīrādā",
-     "gloss": "milk-derived",
-     "grounds": "compound or fused form related to kṣīra (milk); legacy hint suggests milk-from",
+     "gloss": "milk-and-such",
+     "grounds": "Refers to milk and similar substances; exact form is fused as given.",
      "morph": "compound"
     },
     {
      "surface": "....",
-     "gloss": "gap",
-     "grounds": "ellipsis indicating missing or unreadable text in the source",
-     "morph": "unreadable"
+     "gloss": "ellipsis",
+     "grounds": "Ellipsis marker indicating omitted or unreadable material in the source.",
+     "morph": "(indecl.)"
     },
     {
      "surface": "viplakāraiḥ",
-     "gloss": "with-various-fillings",
-     "grounds": "substance or material used for filling",
-     "morph": "m.inst.pl"
+     "gloss": "with-fillings",
+     "grounds": "Substances used for filling.",
+     "morph": "m.ins.pl"
     },
     {
      "surface": "pūrayet",
-     "gloss": "one-should-fill",
-     "grounds": "act of filling or completing",
-     "morph": "3.sg.act-optative √pṝ"
+     "gloss": "should-fill",
+     "grounds": "Prescribes the act of filling.",
+     "morph": "3.sg.optative-active √pṝ"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "tad (that) + tanu (body)",
-     "morph": "compound.f.acc.sg"
+     "grounds": "Refers to the aforementioned body; tat + tanum fused.",
+     "morph": "compound"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "indicates continual practice",
+     "grounds": "Indicates continual performance.",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What substances must continually fill that body in this ritual practice?",
+   "question": "What substances must be used to continually fill that body in this practice?",
    "premises": [
-    "That body is the object to be filled.",
-    "Milk-derived and various filling substances are to be used.",
+    "A specific body is designated as the object to be filled.",
+    "Milk and similar filling substances are indicated for this act.",
     "The act of filling is prescribed as continual."
    ],
-   "inference": "One should always fill that body with milk-derived and various substances.",
+   "inference": "One should always fill that body with milk and similar filling substances.",
    "uncertainties": [
-    "The token '....' marks missing or unreadable text.",
-    "The exact formation and full sense of 'kṣīrādā' remain uncertain."
+    "The token '....' is an ellipsis, leaving part of the sequence unspecified.",
+    "The exact analysis of 'kṣīrādā' is uncertain due to its fused form."
    ],
-   "plain_english": "One should always fill that body with milk-derived and various filling substances."
+   "plain_english": "One should always fill that body with milk and other such filling substances."
   }
  ]
 }
