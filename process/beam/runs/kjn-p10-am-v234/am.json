@@ -1,12 +1,13 @@
 {
  "song": "kjn-p10",
  "verse": 234,
- "question": "Which syllables are assigned to the throat region and the heart?",
+ "question": "Which syllables are placed in the throat region and the heart?",
  "premises": [
-  "The syllable ṣa is located in the throat region",
-  "The syllable śa is located in the heart"
+  "The syllable ṣa is placed in the throat region.",
+  "The syllable śa is placed in the heart.",
+  "These placements are given in sequence."
  ],
- "inference": "The syllables ṣa and śa are mapped to the throat region and the heart respectively",
+ "inference": "The syllable ṣa belongs to the throat region and the syllable śa to the heart.",
  "uncertainties": [],
- "plain_english": "The syllable ṣa is in the throat region, and the syllable śa is then in the heart."
+ "plain_english": "Then the syllable ṣa is in the throat region, and the syllable śa is in the heart."
 }

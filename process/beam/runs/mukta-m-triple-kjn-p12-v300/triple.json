@@ -7,31 +7,31 @@
     {
      "surface": "aśītiṃ",
      "gloss": "eighty",
-     "grounds": "numeral object indicating quantity",
+     "grounds": "numeral indicating quantity",
      "morph": "f.acc.sg"
     },
     {
      "surface": "nāśayet",
      "gloss": "destroys",
      "grounds": "verb expressing removal or elimination",
-     "morph": "3.sg.act.optative √naś"
+     "morph": "3.sg.optative-act + √naś (causative)"
     },
     {
      "surface": "vātān",
      "gloss": "winds",
-     "grounds": "object denoting bodily winds or disorders",
+     "grounds": "bodily winds or wind-disorders",
      "morph": "m.acc.pl"
     },
     {
      "surface": "kuṣṭha",
      "gloss": "leprosy",
-     "grounds": "specifier of the disease named in the next token",
+     "grounds": "first member of compound denoting a disease type",
      "morph": "compound-member"
     },
     {
      "surface": "vyādhim",
      "gloss": "disease",
-     "grounds": "object denoting the ailment to be eliminated",
+     "grounds": "ailment qualified by preceding member",
      "morph": "m.acc.sg"
     },
     {
@@ -43,21 +43,21 @@
     {
      "surface": "nāśayet",
      "gloss": "destroys",
-     "grounds": "repeated verb reinforcing elimination",
-     "morph": "3.sg.act.optative √naś"
+     "grounds": "verb expressing removal or elimination",
+     "morph": "3.sg.optative-act + √naś (causative)"
     }
    ],
-   "question": "Which eighty winds and what specific disease does the described practice eliminate?",
+   "question": "Which specific wind-disorders and diseases does the described practice claim to eliminate?",
    "premises": [
     "The described practice destroys eighty winds.",
-    "The described practice destroys the disease of leprosy.",
-    "The repetition emphasizes the eliminative effect of the practice."
+    "The described practice destroys leprosy-disease.",
+    "The verb of destruction is repeated for emphasis."
    ],
-   "inference": "Therefore, the described practice removes both the eighty winds and leprosy disease.",
+   "inference": "The described practice is claimed to eliminate both the eighty winds and leprosy-disease.",
    "uncertainties": [
-    "The exact referent of the eighty winds in this context is not specified."
+    "Whether 'aśītiṃ vātān' refers to eighty distinct wind-disorders or a traditional category is not explicit."
    ],
-   "plain_english": "It destroys the eighty winds, and indeed destroys the disease of leprosy."
+   "plain_english": "It destroys the eighty winds, and indeed it destroys the disease of leprosy."
   }
  ]
 }

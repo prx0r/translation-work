@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "liṅga",
-"quick_gloss": "phallus"
+"quick_gloss": "limb"
 },
 {
 "surface": "kṣālita",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "prakṣiped",
-"quick_gloss": "should-pour"
+"quick_gloss": "should-throw"
 },
 {
 "surface": "vindu",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "bindubhiḥ",
-"quick_gloss": "with-drops"
+"quick_gloss": "by-drops"
 }
 ]
 },
@@ -53,15 +53,15 @@
 },
 {
 "surface": "prakṣipet",
-"quick_gloss": "should-pour"
+"quick_gloss": "should-throw"
 },
 {
 "surface": "tattva",
-"quick_gloss": "principle"
+"quick_gloss": "tattva"
 },
 {
 "surface": "mudrayā",
-"quick_gloss": "with-seal"
+"quick_gloss": "by-mudrā"
 }
 ]
 },
@@ -74,31 +74,31 @@
 "tokens": [
 {
 "surface": "guroḥ",
-"quick_gloss": "of-guru"
-},
-{
-"surface": "pātrād",
-"quick_gloss": "from-vessel"
-},
-{
-"surface": "deva",
-"quick_gloss": "god"
-},
-{
-"surface": "pātrād",
-"quick_gloss": "from-vessel"
-},
-{
-"surface": "ātma",
-"quick_gloss": "self"
+"quick_gloss": "from-guru"
 },
 {
 "surface": "pātrāt",
 "quick_gloss": "from-vessel"
 },
 {
+"surface": "deva",
+"quick_gloss": "from-deva"
+},
+{
+"surface": "pātrāt",
+"quick_gloss": "from-vessel"
+},
+{
+"surface": "ātma",
+"quick_gloss": "from-ātman"
+},
+{
+"surface": "pātrān",
+"quick_gloss": "from-vessel"
+},
+{
 "surface": "maheśvari",
-"quick_gloss": "O-great-goddess"
+"quick_gloss": "great-goddess"
 }
 ]
 },
@@ -115,7 +115,7 @@
 },
 {
 "surface": "kardamaṃ",
-"quick_gloss": "paste"
+"quick_gloss": "mud"
 },
 {
 "surface": "kṛtvā",
@@ -127,7 +127,7 @@
 },
 {
 "surface": "tilakaṃ",
-"quick_gloss": "mark"
+"quick_gloss": "tilaka"
 },
 {
 "surface": "nyaset",
@@ -143,8 +143,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śakti-pātrāt",
-"quick_gloss": "from-power-vessel"
+"surface": "śakti",
+"quick_gloss": "from-śakti"
+},
+{
+"surface": "pātrāt",
+"quick_gloss": "from-vessel"
 },
 {
 "surface": "pātramātrāt",
@@ -177,27 +181,23 @@
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "should-pour"
+"quick_gloss": "should-throw"
 },
 {
 "surface": "svamūrddhādi",
-"quick_gloss": "own-head-etc"
+"quick_gloss": "on-own-head"
 },
 {
-"surface": "binduṃ",
+"surface": "binduñca",
 "quick_gloss": "drop"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "tattva",
-"quick_gloss": "principle"
+"quick_gloss": "tattva"
 },
 {
 "surface": "mudrayā",
-"quick_gloss": "with-seal"
+"quick_gloss": "by-mudrā"
 }
 ]
 },
@@ -218,7 +218,7 @@
 },
 {
 "surface": "dāsatāṃ",
-"quick_gloss": "servitude"
+"quick_gloss": "to-servitude"
 },
 {
 "surface": "yāti",
@@ -230,7 +230,7 @@
 },
 {
 "surface": "śakra",
-"quick_gloss": "Indra"
+"quick_gloss": "indra"
 },
 {
 "surface": "samaḥ",
@@ -254,16 +254,20 @@
 "quick_gloss": "remaining"
 },
 {
-"surface": "jalairdevi",
+"surface": "jalaiḥ",
 "quick_gloss": "with-waters"
 },
 {
+"surface": "devi",
+"quick_gloss": "goddess"
+},
+{
 "surface": "kardame",
-"quick_gloss": "in-paste"
+"quick_gloss": "mud"
 },
 {
 "surface": "tilakaṃ",
-"quick_gloss": "mark"
+"quick_gloss": "tilaka"
 },
 {
 "surface": "nyaset",
@@ -280,15 +284,15 @@
 "tokens": [
 {
 "surface": "cakrānte",
-"quick_gloss": "at-end-of-circle"
+"quick_gloss": "at-circle-end"
 },
 {
 "surface": "parameśāni",
-"quick_gloss": "supreme-goddess"
+"quick_gloss": "great-lord"
 },
 {
 "surface": "śānti",
-"quick_gloss": "peace"
+"quick_gloss": "śānti"
 },
 {
 "surface": "stotraṃ",
@@ -300,7 +304,7 @@
 },
 {
 "surface": "mudā",
-"quick_gloss": "with-joy"
+"quick_gloss": "joyfully"
 }
 ]
 },
@@ -312,20 +316,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sānanda",
+"surface": "sānandam",
 "quick_gloss": "with-bliss"
 },
 {
-"surface": "mānandamayīṃ",
-"quick_gloss": "bliss-filled"
+"surface": "ānandamayīṃ",
+"quick_gloss": "blissful"
 },
 {
 "surface": "smarāmi",
 "quick_gloss": "I-remember"
-},
-{
-"surface": "bhajāmi",
-"quick_gloss": "variant-I-worship"
 }
 ]
 },
@@ -338,7 +338,7 @@
 "tokens": [
 {
 "surface": "māheśvarāṇāṃ",
-"quick_gloss": "of-great-lords"
+"quick_gloss": "of-maheśvaras"
 },
 {
 "surface": "divasāḥ",
@@ -358,20 +358,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dine-dine",
-"quick_gloss": "day-by-day"
+"surface": "dine",
+"quick_gloss": "day"
+},
+{
+"surface": "dine",
+"quick_gloss": "by-day"
 },
 {
 "surface": "sādhaka",
-"quick_gloss": "practitioner"
+"quick_gloss": "of-sādhaka"
 },
 {
-"surface": "saṅgamaḥ",
-"quick_gloss": "meeting"
-},
-{
-"surface": "astu",
-"quick_gloss": "let-be"
+"surface": "saṅgamastu",
+"quick_gloss": "assembly"
 }
 ]
 },
@@ -383,20 +383,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhuktiṃ",
+"surface": "bhuktiñca",
 "quick_gloss": "enjoyment"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "muktiṃ",
+"surface": "muktiñca",
 "quick_gloss": "liberation"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "parāṃ",
@@ -404,7 +396,7 @@
 },
 {
 "surface": "vrajāmaḥ",
-"quick_gloss": "we-go"
+"quick_gloss": "we-shall-attain"
 }
 ]
 },
@@ -416,24 +408,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "stat",
+"surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "tad-dinaṃ",
+"surface": "taddinaṃ",
 "quick_gloss": "that-day"
 },
 {
-"surface": "durdinaṃ",
+"surface": "durdinameva",
 "quick_gloss": "bad-day"
 },
 {
-"surface": "eva",
-"quick_gloss": "indeed"
-},
-{
 "surface": "manye",
-"quick_gloss": "I-think"
+"quick_gloss": "I-consider"
 }
 ]
 },
@@ -445,7 +433,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad-kṣaṇena",
+"surface": "tatkṣaṇena",
 "quick_gloss": "in-that-moment"
 }
 ]
@@ -471,7 +459,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "stathā",
+"surface": "tathā",
 "quick_gloss": "thus"
 },
 {
@@ -480,7 +468,7 @@
 },
 {
 "surface": "upaiti",
-"quick_gloss": "approaches"
+"quick_gloss": "reach"
 },
 {
 "surface": "śīghram",
@@ -496,24 +484,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaṃ",
-"quick_gloss": "seed"
-},
-{
-"surface": "bhramyate",
-"quick_gloss": "is-whirled"
+"surface": "vaṃbhramyate",
+"quick_gloss": "wanders"
 },
 {
 "surface": "kaulika",
-"quick_gloss": "Kaula"
+"quick_gloss": "kaulika"
 },
 {
-"surface": "sādhaka",
-"quick_gloss": "variant-practitioner"
-},
-{
-"surface": "cakravartī",
-"quick_gloss": "emperor"
+"surface": "cakravartti",
+"quick_gloss": "sovereign-of-circle"
 }
 ]
 },
@@ -526,14 +506,14 @@
 "tokens": [
 {
 "surface": "yad",
-"quick_gloss": "when"
+"quick_gloss": "by-whom"
 },
 {
 "surface": "bhairavaḥ",
-"quick_gloss": "Bhairava"
+"quick_gloss": "bhairava"
 },
 {
-"surface": "ahaṃ",
+"surface": "aham",
 "quick_gloss": "I"
 },
 {
@@ -542,11 +522,7 @@
 },
 {
 "surface": "smarāmi",
-"quick_gloss": "remember"
-},
-{
-"surface": "samohe",
-"quick_gloss": "variant-samohe"
+"quick_gloss": "I-remember"
 }
 ]
 },
@@ -558,20 +534,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhramanti",
-"quick_gloss": "wander"
+"surface": "bhramanty",
+"quick_gloss": "they-wander"
 },
 {
 "surface": "anāsvādita",
-"quick_gloss": "untasted"
-},
-{
-"surface": "anāsādita",
-"quick_gloss": "variant-unattained"
+"quick_gloss": "not-tasted"
 },
 {
 "surface": "kaula",
-"quick_gloss": "Kaula"
+"quick_gloss": "kaula"
 },
 {
 "surface": "mārgāḥ",
@@ -588,15 +560,11 @@
 "tokens": [
 {
 "surface": "maireya",
-"quick_gloss": "intoxicant"
-},
-{
-"surface": "naivedya",
-"quick_gloss": "variant-offering"
+"quick_gloss": "maireya"
 },
 {
 "surface": "pānaṃ",
-"quick_gloss": "drinking"
+"quick_gloss": "drink"
 },
 {
 "surface": "vayam",
@@ -616,20 +584,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrī-sundarī",
-"quick_gloss": "beautiful-goddess"
+"surface": "śrīsundarī",
+"quick_gloss": "śrīsundarī"
 },
 {
-"surface": "cintanam",
-"quick_gloss": "meditation"
-},
-{
-"surface": "eva",
-"quick_gloss": "only"
+"surface": "cintanameva",
+"quick_gloss": "contemplation"
 },
 {
 "surface": "yasya",
-"quick_gloss": "whose"
+"quick_gloss": "of-whom"
 }
 ]
 },
@@ -650,7 +614,7 @@
 },
 {
 "surface": "kaulamārgaḥ",
-"quick_gloss": "Kaula-path"
+"quick_gloss": "kaula-path"
 }
 ]
 },
@@ -662,12 +626,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrī-sundarīṃ",
-"quick_gloss": "beautiful-goddess"
+"surface": "śrīsundarīṃ",
+"quick_gloss": "śrīsundarī"
 },
 {
 "surface": "cetasi",
-"quick_gloss": "in-mind"
+"quick_gloss": "in-heart"
 },
 {
 "surface": "vismarāmi",
