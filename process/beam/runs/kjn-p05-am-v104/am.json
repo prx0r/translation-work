@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 104,
- "question": "By whose grace has the determination of the Kaula teaching been known?",
+ "question": "By whose grace does the speaker come to know the determination of the Kaula doctrine?",
  "premises": [
-  "The speaker addresses the lord of Kaulas",
-  "Knowledge arose by that lord's grace",
-  "The Kaula determination is now known"
+  "The speaker addresses the Lord of the Kaulas.",
+  "By that lord's grace the speaker has come to know.",
+  "The object known is the determination of the Kaula doctrine."
  ],
- "inference": "Therefore the speaker has come to know the Kaula determination through the lord's grace.",
- "uncertainties": [],
- "plain_english": "O Lord of the Kaulas, by your grace I have come to know the determination of the Kaula teaching."
+ "inference": "Knowledge of the Kaula determination is granted by the grace of the Lord of the Kaulas.",
+ "uncertainties": [
+  "The prior state of ignorance is implied but not stated explicitly."
+ ],
+ "plain_english": "By your grace, O Lord of the Kaulas, I have come to know the determination of the Kaula doctrine."
 }

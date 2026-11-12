@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "chedyamāno",
-   "morph": "m.nom.sg.pres.pass.part root=chid",
-   "grounds": "present passive participle describing one undergoing cutting"
+   "morph": "m.nom.sg.pres.pass.part root:chid",
+   "grounds": "present passive participle indicating the act of being cut"
   },
   {
    "lemma": "na",
@@ -14,23 +14,23 @@
   },
   {
    "lemma": "chidyeta",
-   "morph": "3.sg.pass.opt root=chid",
-   "grounds": "optative expressing potential or hypothetical non-injury"
+   "morph": "3.sg.pass.opt root:chid",
+   "grounds": "optative expressing potential or counterfactual result"
   },
   {
    "lemma": "tad+gato",
-   "morph": "compound=tad+gata m.nom.sg",
-   "grounds": "compound indicating one who has reached that state"
+   "morph": "compound:tat+gata m.nom.sg",
+   "grounds": "compound describing one who has reached that state"
   },
   {
    "lemma": "tan+mano",
-   "morph": "compound=tad+manas m.nom.sg",
-   "grounds": "compound indicating one whose mind is absorbed in that"
+   "morph": "compound:tat+manas m.nom.sg",
+   "grounds": "possessive compound describing one whose mind is absorbed in that"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "comparative particle introducing the manner of immunity"
+   "grounds": "particle introducing comparison or manner"
   }
  ]
 }
