@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "Which chapter concludes in the section emerged from Candradvīpa?",
+ "question": "Which chapter concludes in the text emerged from Candradvīpa?",
  "premises": [
+  "The text emerged from Candradvīpa",
   "A chapter is being identified",
-  "The section emerged from Candradvīpa",
-  "The chapter is the fifth"
+  "It is the fifth chapter"
  ],
- "inference": "The fifth chapter concludes in the section emerged from Candradvīpa.",
- "uncertainties": [
-  "candradvīpa+vinirgate may refer to a textual section or place; taken as a section title."
- ],
- "plain_english": "Thus ends the fifth chapter in the section that emerged from Candradvīpa."
+ "inference": "The fifth chapter of the text emerged from Candradvīpa concludes here.",
+ "uncertainties": [],
+ "plain_english": "Thus ends the fifth chapter in the work that emerged from Candradvīpa."
 }
