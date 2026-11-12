@@ -8,7 +8,7 @@
      "surface": "caturaśīti",
      "gloss": "eighty-four",
      "grounds": "numeral referring to count",
-     "morph": "indecl."
+     "morph": "m.nom.pl"
     },
     {
      "surface": "sahasreṣu",
@@ -19,27 +19,27 @@
     {
      "surface": "yoniyantreṣu",
      "gloss": "womb-diagrams",
-     "grounds": "locative plural of compound context",
+     "grounds": "locative compound referring to womb-mechanisms",
      "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle agreement",
-     "morph": "m.nom.pl"
+     "grounds": "past passive participle describing state",
+     "morph": "3.pl.perf.pass"
     }
    ],
    "question": "Under what condition are beings tormented within eighty-four thousand womb-diagrams?",
    "premises": [
-    "A fixed count of eighty-four thousand womb-diagrams is specified.",
-    "Beings are located within those womb-diagrams.",
-    "Those beings are described as tormented in that setting."
+    "Eighty-four thousand womb-diagrams form a specified set of locations.",
+    "Beings come to be situated within those womb-diagrams.",
+    "Such beings are found in a tormented state within them."
    ],
-   "inference": "Beings undergo torment while situated in the eighty-four thousand womb-diagrams.",
+   "inference": "Beings are tormented in the eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The agent or cause of torment is not stated in this verse."
+    "The precise nature of the torment is not specified here."
    ],
-   "plain_english": "In the eighty-four thousand womb-diagrams, beings are tormented."
+   "plain_english": "Eighty-four thousand womb-diagrams hold tormented beings."
   }
  ]
 }
