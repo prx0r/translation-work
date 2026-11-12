@@ -1,0 +1,69 @@
+{
+ "song": "kjn-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "ulukī",
+     "gloss": "owl-woman",
+     "grounds": "feminine noun from uluka, owl",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pecakī",
+     "gloss": "peacock-woman",
+     "grounds": "feminine noun from pecaka, peacock",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sararī",
+     "gloss": "sarari-woman",
+     "grounds": "feminine noun from sarara, sarari",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gūlī",
+     "gloss": "gūlī-woman",
+     "grounds": "feminine noun from gūla, gūlī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bird-women are named as known on earth by devotees?",
+   "premises": [
+    "Devotees know these forms on earth.",
+    "The list names owl peacock sarari and gūlī women.",
+    "Likewise connects them to prior bird-women."
+   ],
+   "inference": "The verse extends the catalog of bird-women known to devotees.",
+   "uncertainties": [
+    "Exact identity of sararī and gūlī remains unclear."
+   ],
+   "plain_english": "Owl-woman, peacock-woman, or indeed sarari-woman, or gūlī-woman, likewise."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "kjn-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "ordinal sixth",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "cakra noun",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "rājānam",
+     "gloss": "king",
+     "grounds": "rājan accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral eight",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patra",
+     "gloss": "petaled",
+     "grounds": "petal descriptor",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sakarṇikam",
+     "gloss": "with-pericarp",
+     "grounds": "sa-karṇika adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which cakra is described as the sixth wheel, king, eight-petaled, with pericarp?",
+   "premises": [
+    "The sixth cakra is called rājānam.",
+    "It has eight petals.",
+    "It possesses a pericarp."
+   ],
+   "inference": "Thus the sixth cakra is an eight-petaled wheel with pericarp.",
+   "uncertainties": [
+    "Exact doctrinal role of rājānam is not specified."
+   ],
+   "plain_english": "The sixth wheel, the king, is eight-petaled and has a pericarp."
+  }
+ ]
+}

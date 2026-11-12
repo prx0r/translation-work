@@ -1,0 +1,63 @@
+{
+ "song": "kjn-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle of kath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "melakaṃ",
+     "gloss": "union-place",
+     "grounds": "adjective modifying sthānaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "abode",
+     "grounds": "object of kathitaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrutaṃ",
+     "gloss": "heard",
+     "grounds": "passive participle heard by you",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "by-you",
+     "grounds": "genitive of agent with śrutaṃ",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "ceṣṭitaṃ",
+     "gloss": "desired",
+     "grounds": "past participle modifying śubham",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective modifying sthānaṃ",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Is the melaka sthana established as auspicious once it has been told, heard, and desired?",
+   "premises": [
+    "melaka sthana is told",
+    "it is heard by you",
+    "it is desired auspicious"
+   ],
+   "inference": "the melaka sthana becomes established as auspicious through telling hearing and desire",
+   "uncertainties": [
+    "exact syntactic scope of ceṣṭitaṃ śubham remains unclear"
+   ],
+   "plain_english": "The melaka place has been told; it is heard by you and desired as auspicious."
+  }
+ ]
+}

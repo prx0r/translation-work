@@ -1,0 +1,248 @@
+{
+ "song": "kjn-p28",
+ "items": [
+  {
+   "verse": 676,
+   "rows": [
+    {
+     "surface": "i",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "...........",
+     "gloss": "ellipsis",
+     "grounds": "token given as ellipsis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍādhyāyed",
+     "gloss": "one-should-meditate",
+     "grounds": "optative form",
+     "morph": "3.sg.act.opt + root dhyai"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "in-not-long-time",
+     "grounds": "ablative of acira",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tatsamo",
+     "gloss": "equal-to-that",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt + root bhū"
+    }
+   ],
+   "question": "How quickly does one become equal to that through meditation?",
+   "premises": [
+    "meditation is prescribed",
+    "equality follows in short time"
+   ],
+   "inference": "meditation leads to becoming equal to that",
+   "uncertainties": [
+    "ellipsis token meaning unknown"
+   ],
+   "plain_english": "Thus ... one should meditate; in not long time one becomes equal to that."
+  },
+  {
+   "verse": 677,
+   "rows": [
+    {
+     "surface": "candradvīpa",
+     "gloss": "in-candradvīpa",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vinirgate",
+     "gloss": "emerged",
+     "grounds": "past participle in locative",
+     "morph": "ppp.loc.sg.m + root nir-gam"
+    },
+    {
+     "surface": "caturviṃśatitamaḥ",
+     "gloss": "twenty-fourth",
+     "grounds": "ordinal adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which chapter emerges after Candradvīpa?",
+   "premises": [
+    "Candradvīpa has emerged",
+    "ordinal is twenty-fourth"
+   ],
+   "inference": "the twenty-fourth chapter emerges after Candradvīpa",
+   "uncertainties": [
+    "exact narrative context unknown"
+   ],
+   "plain_english": "After Candradvīpa emerged, the twenty-fourth chapter."
+  },
+  {
+   "verse": 678,
+   "rows": [
+    {
+     "surface": "siddhānāṃ",
+     "gloss": "of-siddhas",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "yoginīnāṃ",
+     "gloss": "of-yoginīs",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom/acc.sg.n"
+    },
+    {
+     "surface": "para",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "difficult-to-obtain",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What is the supreme heart of siddhas and yoginīs that is difficult to obtain?",
+   "premises": [
+    "heart belongs to siddhas and yoginīs",
+    "it is supreme and difficult to obtain"
+   ],
+   "inference": "the supreme heart is difficult to obtain",
+   "uncertainties": [
+    "grammatical role of hṛdayaṃ ambiguous"
+   ],
+   "plain_english": "The supreme heart of siddhas and yoginīs is difficult to obtain."
+  },
+  {
+   "verse": 679,
+   "rows": [
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental singular",
+     "morph": "pron.instr.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-lady",
+     "grounds": "vocative singular",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "aprakāśyaṃ",
+     "gloss": "not-to-be-revealed",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "past participle",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "Why is this properly revealed by me to the lady though not to be revealed?",
+   "premises": [
+    "it is not to be revealed",
+    "it is revealed properly by me"
+   ],
+   "inference": "a restricted teaching is nevertheless disclosed to the lady",
+   "uncertainties": [
+    "exact doctrinal reason not stated"
+   ],
+   "plain_english": "This, though not to be revealed, has been properly revealed by me, O lady."
+  },
+  {
+   "verse": 680,
+   "rows": [
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "nirṇaye",
+     "gloss": "in-determination",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "sāraṃ",
+     "gloss": "essence",
+     "grounds": "nominative or accusative singular",
+     "morph": "n.nom/acc.sg.n"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental singular",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "sāhasrikaṃ",
+     "gloss": "sāhasrika",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past participle",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "What is considered the essence in the determination of knowledge by name sāhasrika?",
+   "premises": [
+    "essence is in determination of knowledge",
+    "it is called sāhasrika"
+   ],
+   "inference": "the essence in knowledge-determination is considered sāhasrika",
+   "uncertainties": [
+    "exact referent of sāhasrika unclear"
+   ],
+   "plain_english": "In the determination of knowledge, the essence called sāhasrika is considered."
+  }
+ ]
+}

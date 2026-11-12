@@ -1,0 +1,69 @@
+{
+ "song": "kjn-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "kaṇṭha",
+     "gloss": "throat",
+     "grounds": "noun denoting throat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kūpa",
+     "gloss": "cavity",
+     "grounds": "noun denoting cavity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthita",
+     "gloss": "situated",
+     "grounds": "participle adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udyotaṃ",
+     "gloss": "radiance",
+     "grounds": "noun denoting radiance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahma",
+     "grounds": "noun denoting brahma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "randhra",
+     "gloss": "aperture",
+     "grounds": "noun denoting aperture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "absorption",
+     "grounds": "noun denoting absorption",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "participle adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What becomes of the radiance situated in the throat cavity?",
+   "premises": [
+    "radiance is situated in the throat cavity",
+    "it goes to absorption in the brahma aperture",
+    "previous verses describe freedom from aging and disease"
+   ],
+   "inference": "the throat-cavity radiance is absorbed into the brahma aperture",
+   "uncertainties": [
+    "exact syntactic relation of brahma randhra is inferred from context"
+   ],
+   "plain_english": "The radiance situated in the throat cavity goes to absorption in the brahma aperture."
+  }
+ ]
+}

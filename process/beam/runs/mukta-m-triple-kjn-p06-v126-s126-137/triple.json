@@ -1,0 +1,677 @@
+{
+ "song": "kjn-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "amṛta as nectar",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "optative of vijñā",
+     "morph": "3.sg.act-opt.√jñā"
+    },
+    {
+     "surface": "balī",
+     "gloss": "strength",
+     "grounds": "balin as strength",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palita",
+     "gloss": "gray-hair",
+     "grounds": "palita as gray hair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "nāśana as destruction",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What should be known as nectar that destroys gray hair and gives strength?",
+   "premises": [
+    "The verse names nectar",
+    "It links nectar to strength",
+    "It links nectar to gray-hair destruction"
+   ],
+   "inference": "The nectar is to be recognized as a strength-giving, gray-hair-destroying substance.",
+   "uncertainties": [
+    "Exact referent of amṛta is not specified"
+   ],
+   "plain_english": "Know that nectar as strength-giving and gray-hair-destroying."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "balī",
+     "gloss": "strength",
+     "grounds": "balin as strength",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palita",
+     "gloss": "gray-hair",
+     "grounds": "palita as gray hair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirmuktaḥ",
+     "gloss": "freed-from",
+     "grounds": "nir + muc participle",
+     "morph": "m.nom.sg.past-part."
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "sarva as all",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "vyādhi as disease",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vivarjitaḥ",
+     "gloss": "devoid-of",
+     "grounds": "vi + varj participle",
+     "morph": "m.nom.sg.past-part."
+    }
+   ],
+   "question": "What qualities characterize one freed from gray hair and all disease?",
+   "premises": [
+    "The subject is freed from gray hair",
+    "The subject is devoid of all disease",
+    "Strength is named first"
+   ],
+   "inference": "The practitioner becomes strong, gray-hair-free, and disease-free.",
+   "uncertainties": [
+    "Subject is implied rather than named"
+   ],
+   "plain_english": "Freed from gray hair and devoid of all disease, one is strong."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "rasanā",
+     "gloss": "tongue",
+     "grounds": "rasanā as tongue",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tālu",
+     "gloss": "palate",
+     "grounds": "tālu as palate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "root",
+     "grounds": "mūla locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "vyādhi as disease",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāśāya",
+     "gloss": "destruction",
+     "grounds": "nāśa dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "causative optative of yuj",
+     "morph": "3.sg.act-opt.√yuj"
+    }
+   ],
+   "question": "Where should the tongue be applied for disease destruction?",
+   "premises": [
+    "The tongue is named",
+    "The palate root is named",
+    "Application is for disease destruction"
+   ],
+   "inference": "The tongue should be applied at the palate root to destroy disease.",
+   "uncertainties": [
+    "Exact technique is not detailed"
+   ],
+   "plain_english": "Apply the tongue at the root of the palate to destroy disease."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "rasanaṃ",
+     "gloss": "tongue",
+     "grounds": "rasana as tongue",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuñcayet",
+     "gloss": "one-should-contract",
+     "grounds": "causative optative of kuñc",
+     "morph": "3.sg.act-opt.√kuñc"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "nityam as always",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "sva as own",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaktreṇa",
+     "gloss": "mouth",
+     "grounds": "vaktra instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "united-with",
+     "grounds": "sam + yuta participle",
+     "morph": "n.acc.sg.past-part."
+    }
+   ],
+   "question": "How should the tongue be contracted in this practice?",
+   "premises": [
+    "The tongue should be contracted",
+    "It is always done",
+    "It is united with one's own mouth"
+   ],
+   "inference": "One should always contract the tongue united with one's own mouth.",
+   "uncertainties": [
+    "Physical movement is not fully specified"
+   ],
+   "plain_english": "Always contract the tongue, united with one's own mouth."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "heart",
+     "grounds": "hṛd locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthaṃ",
+     "gloss": "situated",
+     "grounds": "stha as situated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "manas as mind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "kṛtvā gerund",
+     "morph": "ger.√kṛ"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "yāvat as until",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unmanatāṃ",
+     "gloss": "unmana-state",
+     "grounds": "unmanatā as unmana state",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "gata participle",
+     "morph": "m.nom.sg.past-part."
+    }
+   ],
+   "question": "What mental state is reached by placing the mind in the heart?",
+   "premises": [
+    "The mind is placed in the heart",
+    "This continues until a state",
+    "That state is unmana"
+   ],
+   "inference": "Placing the mind in the heart leads to the unmana state.",
+   "uncertainties": [
+    "Exact meaning of unmana is not explained"
+   ],
+   "plain_english": "Having placed the mind in the heart, one reaches the unmana state."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "kālasya",
+     "gloss": "time",
+     "grounds": "kāla genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vañcanaṃ",
+     "gloss": "deception",
+     "grounds": "vañcana as deception",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "devī vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sugopyaṃ",
+     "gloss": "well-guarded",
+     "grounds": "su + gopya as well guarded",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakaṭīkṛtam",
+     "gloss": "made-manifest",
+     "grounds": "prakaṭī + kṛ participle",
+     "morph": "n.nom.sg.past-part."
+    }
+   ],
+   "question": "What is the well-guarded deception of time that has been made manifest?",
+   "premises": [
+    "Time has a deception",
+    "It is well guarded",
+    "It has been made manifest"
+   ],
+   "inference": "The deception of time is a secret that has now been revealed.",
+   "uncertainties": [
+    "Specific deception is not named"
+   ],
+   "plain_english": "O goddess, the well-guarded deception of time has been made manifest."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "candra",
+     "gloss": "candra",
+     "grounds": "candra as moon",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvīpa",
+     "gloss": "dvīpa",
+     "grounds": "dvīpa as island",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinirgate",
+     "gloss": "gone-forth-from",
+     "grounds": "vi + nir + gata participle",
+     "morph": "m.loc.sg.past-part."
+    },
+    {
+     "surface": "ṣaṣṭhaḥ",
+     "gloss": "sixth",
+     "grounds": "ṣaṣṭha as sixth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "paṭala as chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter begins after departure from the moon island?",
+   "premises": [
+    "Departure from candra dvīpa is named",
+    "The sixth chapter is named",
+    "The chapter follows that departure"
+   ],
+   "inference": "The sixth chapter begins after leaving the moon island.",
+   "uncertainties": [
+    "Exact narrative context is not given"
+   ],
+   "plain_english": "After departure from the moon island, the sixth chapter."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "tritattvaṃ",
+     "gloss": "three-tattva",
+     "grounds": "tri + tattva compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "katha",
+     "gloss": "tell",
+     "grounds": "kath as tell",
+     "morph": "2.sg.act-imp.√kath"
+    },
+    {
+     "surface": "me",
+     "gloss": "me",
+     "grounds": "first person pronoun",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "lord",
+     "grounds": "nātha as lord",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "second person pronoun",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "eva as alone",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaraṇaṃ",
+     "gloss": "refuge",
+     "grounds": "śaraṇa as refuge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "gata participle",
+     "morph": "f.nom.sg.past-part."
+    }
+   ],
+   "question": "Who alone is refuge for one who has gone to the lord?",
+   "premises": [
+    "The speaker asks about three tattvas",
+    "The lord is addressed",
+    "The speaker has gone to refuge"
+   ],
+   "inference": "The lord alone is the refuge for the seeker of the three tattvas.",
+   "uncertainties": [
+    "The three tattvas are not identified"
+   ],
+   "plain_english": "Tell me the three tattvas, O lord; I have gone to you alone as refuge."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "devyāḥ",
+     "gloss": "goddess",
+     "grounds": "devī genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "cakra",
+     "gloss": "cakra",
+     "grounds": "cakra as cakra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "gone",
+     "grounds": "gata participle",
+     "morph": "n.acc.sg.past-part."
+    },
+    {
+     "surface": "cintya",
+     "gloss": "to-be-contemplated",
+     "grounds": "cintya gerundive",
+     "morph": "n.acc.sg.gerundive"
+    },
+    {
+     "surface": "pratipadāyāṃ",
+     "gloss": "pratipadā",
+     "grounds": "pratipadā locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śaśī",
+     "gloss": "moon",
+     "grounds": "śaśin as moon",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "like",
+     "grounds": "yathā as like",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the goddess's cakra to be contemplated on pratipadā?",
+   "premises": [
+    "The goddess's cakra is named",
+    "It is to be contemplated",
+    "The moon is the comparison"
+   ],
+   "inference": "The goddess's cakra is contemplated like the moon on pratipadā.",
+   "uncertainties": [
+    "Exact contemplation method is not given"
+   ],
+   "plain_english": "The goddess's cakra, gone and to be contemplated, is like the moon on pratipadā."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra as there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "śikhā as crest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "līnā",
+     "gloss": "absorbed",
+     "grounds": "līna participle",
+     "morph": "f.nom.sg.past-part."
+    },
+    {
+     "surface": "asthi",
+     "gloss": "bone",
+     "grounds": "asthi as bone",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "cakra",
+     "grounds": "cakra locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "beautiful-faced",
+     "grounds": "vara + ānana compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where is the crest absorbed in the bone cakra?",
+   "premises": [
+    "The crest is absorbed",
+    "The bone cakra is named",
+    "The beautiful-faced one is addressed"
+   ],
+   "inference": "The crest is absorbed in the bone cakra.",
+   "uncertainties": [
+    "The crest's identity is not specified"
+   ],
+   "plain_english": "There, O beautiful-faced one, the crest is absorbed in the bone cakra."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "sādravaṃ",
+     "gloss": "with-fluid",
+     "grounds": "sa + drava compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "kṛṣṇa as black",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "rūpa as form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balī",
+     "gloss": "strength",
+     "grounds": "balin as strength",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palita",
+     "gloss": "gray-hair",
+     "grounds": "palita as gray hair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "nāśana as destruction",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What black fluid form destroys gray hair and gives strength?",
+   "premises": [
+    "A black form with fluid is named",
+    "It gives strength",
+    "It destroys gray hair"
+   ],
+   "inference": "The black fluid form is strength-giving and gray-hair-destroying.",
+   "uncertainties": [
+    "The fluid's identity is not specified"
+   ],
+   "plain_english": "The black form with fluid gives strength and destroys gray hair."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "ādhāra",
+     "gloss": "ādhāra",
+     "grounds": "ādhāra as support",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "skandha",
+     "gloss": "shoulder",
+     "grounds": "skandha as shoulder",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃsthāne",
+     "gloss": "abode",
+     "grounds": "saṃsthāna locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "yoga",
+     "grounds": "yoga as yoga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yuñjīta",
+     "gloss": "one-should-apply",
+     "grounds": "causative optative of yuj",
+     "morph": "3.sg.act-opt.√yuj"
+    },
+    {
+     "surface": "śītalam",
+     "gloss": "cool",
+     "grounds": "śītala as cool",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should cool yoga be applied in this practice?",
+   "premises": [
+    "The shoulder abode is named",
+    "Yoga should be applied",
+    "The yoga is cool"
+   ],
+   "inference": "Cool yoga should be applied at the shoulder abode.",
+   "uncertainties": [
+    "Exact bodily location is not fully specified"
+   ],
+   "plain_english": "Apply cool yoga at the shoulder abode."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "kjn-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral eight",
+     "morph": "numeral (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhisaṃprāptirmūlakaulaṃ",
+     "gloss": "siddhi-attainment-root-kaula",
+     "grounds": "compound of siddhi, attainment, root, and Kaula",
+     "morph": "compound (siddhi+saṃprāpti+mūla+kaula)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "O-fair-faced-one",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is identified as the root Kaula alongside eight?",
+   "premises": [
+    "Eight is enumerated.",
+    "Siddhi attainment is root Kaula.",
+    "Varanane is addressed."
+   ],
+   "inference": "The verse names eight and siddhi attainment as root Kaula.",
+   "uncertainties": [
+    "Compound internal sandhi is not split."
+   ],
+   "plain_english": "Eight, and the attainment of siddhi, is the root Kaula, O fair-faced one."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "kjn-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "caturaṅgabalaṃ",
+     "gloss": "four-limbed-army",
+     "grounds": "compound catur-aṅga-bala in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "gerund of root ji",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uṣṭānāṃ",
+     "gloss": "of-camels",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "stambhakārakam",
+     "gloss": "paralyzing-causing",
+     "grounds": "compound stambha-kāraka in accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which four-limbed army is conquered by the vaṭuka who paralyzes camels?",
+   "premises": [
+    "vaṭuka conquers four-limbed army",
+    "vaṭuka paralyzes camels",
+    "verse names ritual power"
+   ],
+   "inference": "The vaṭuka's power overcomes both army and camels.",
+   "uncertainties": [
+    "exact syntactic relation of stambhakārakam",
+    "whether uṣṭānāṃ modifies stambhakārakam"
+   ],
+   "plain_english": "Having conquered the four-limbed army, he is the paralyzer of camels."
+  }
+ ]
+}

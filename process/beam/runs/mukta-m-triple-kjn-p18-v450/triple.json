@@ -1,0 +1,58 @@
+{
+ "song": "kjn-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "kṣīrādā",
+     "gloss": "milk-from",
+     "grounds": "milk plus from",
+     "morph": "indecl."
+    },
+    {
+     "surface": "....",
+     "gloss": "ellipsis",
+     "grounds": "missing or illegible token",
+     "morph": "unknown"
+    },
+    {
+     "surface": "viplakāraiḥ",
+     "gloss": "with-fillings",
+     "grounds": "instrumental plural masculine",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "should-fill",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt.√pūr"
+    },
+    {
+     "surface": "tattanuṃ",
+     "gloss": "that-body",
+     "grounds": "accusative singular masculine",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What practice continually fills that body with milk-derived fillings?",
+   "premises": [
+    "milk source is named",
+    "fillings are instrumental",
+    "body is accusative object"
+   ],
+   "inference": "The verse prescribes continually filling that body with fillings derived from milk.",
+   "uncertainties": [
+    "the second token is illegible or omitted",
+    "exact sandhi of kṣīrādā is unclear"
+   ],
+   "plain_english": "From milk ... with fillings, one should always fill that body."
+  }
+ ]
+}

@@ -101,6 +101,17 @@ def _log_use(session: str, model: str) -> None:
 def _key() -> str:
     k = os.environ.get('OPENCODE_GO_KEY', '')
     if not k:
+        # fall back to .env (primary key persisted alongside BAK)
+        try:
+            for ln in open(os.path.join(
+                    os.path.dirname(os.path.dirname(
+                        os.path.abspath(__file__))), '.env')):
+                if ln.startswith('OPENCODE_GO_KEY='):
+                    k = ln.split('=', 1)[1].strip()
+                    break
+        except OSError:
+            pass
+    if not k:
         raise RuntimeError('OPENCODE_GO_KEY not set (pull from oracle vault)')
     return k
 

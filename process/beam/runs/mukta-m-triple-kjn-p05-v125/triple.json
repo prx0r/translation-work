@@ -1,0 +1,57 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "chedyamāno",
+     "gloss": "being-cut",
+     "grounds": "present passive participle of chid",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chidyeta",
+     "gloss": "is-cut",
+     "grounds": "passive optative third singular of chid",
+     "morph": "3.sg.pass.opt"
+    },
+    {
+     "surface": "tad+gato",
+     "gloss": "gone-to-that",
+     "grounds": "compound tat-gata",
+     "morph": "compound"
+    },
+    {
+     "surface": "tan+mano",
+     "gloss": "mind-on-that",
+     "grounds": "compound tat-manas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can something being cut not be cut when the mind is fixed on that?",
+   "premises": [
+    "being cut does not cut",
+    "mind fixed on that protects",
+    "as comparison holds"
+   ],
+   "inference": "Fixing the mind on that prevents being cut.",
+   "uncertainties": [
+    "exact referent of that is unspecified"
+   ],
+   "plain_english": "Even while being cut, one is not cut when the mind is fixed on that, just as."
+  }
+ ]
+}

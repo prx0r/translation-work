@@ -1,0 +1,45 @@
+{
+ "song": "kjn-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
+     "gloss": "forehead-syllable-mass-situated",
+     "grounds": "compound of lalāṭa, varṇa, rāśi, and stha; accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "numeral noun in accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtya",
+     "gloss": "having-done",
+     "grounds": "absolutive from root kṛ",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "sura+arcite",
+     "gloss": "god-worshipped",
+     "grounds": "compound of sura and arcite; vocative singular masculine",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What ritual count is prescribed for the situated forehead syllable mass before addressing the worshipped god?",
+   "premises": [
+    "The forehead syllable mass is situated.",
+    "A hundred thousand is to be done.",
+    "The god is worshipped."
+   ],
+   "inference": "The practitioner completes a hundred thousand repetitions of the situated forehead syllable mass before invoking the worshipped god.",
+   "uncertainties": [
+    "The exact ritual object of kṛtya is not specified in this verse."
+   ],
+   "plain_english": "Having situated the forehead-syllable-mass, do a hundred thousand, O worshipped god."
+  }
+ ]
+}

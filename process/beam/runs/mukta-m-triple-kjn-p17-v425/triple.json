@@ -1,0 +1,45 @@
+{
+ "song": "kjn-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "amṛta with accusative ending -m",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kaulasadbhāvaṃ",
+     "gloss": "kaula-true-nature",
+     "grounds": "kaula plus sadbhāva with accusative ending -m",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative form of root śru",
+     "morph": "2.sg.act.impv + root śru"
+    },
+    {
+     "surface": "kāmakalātmakam",
+     "gloss": "desire-art-consisting",
+     "grounds": "kāma plus kalā plus ātmaka with accusative ending -m",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is the nectar-like true nature of Kaula that one is commanded to hear?",
+   "premises": [
+    "The verse commands hearing.",
+    "Kaula true nature is nectar.",
+    "It consists of desire-art."
+   ],
+   "inference": "The listener should hear Kaula's true nature as nectar composed of kāmakalā.",
+   "uncertainties": [
+    "The exact syntactic relation of kāmakalātmakam to kaulasadbhāvaṃ is inferred."
+   ],
+   "plain_english": "Hear the nectar, the true nature of Kaula, which consists of kāmakalā."
+  }
+ ]
+}

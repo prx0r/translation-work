@@ -1,0 +1,64 @@
+{
+ "song": "kjn-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "labhati",
+     "gloss": "obtains",
+     "grounds": "verbal root labh, third person singular active present",
+     "morph": "3.sg.act-pres root-labh"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "neuter accusative singular adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "neuter accusative singular relative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samīhitam",
+     "gloss": "desired",
+     "grounds": "passive past participle of sam-īh, neuter accusative singular",
+     "morph": "n.acc.sg.pass.past.part"
+    }
+   ],
+   "question": "Can one who employs these great cakras obtain without doubt whatever diverse thing is desired?",
+   "premises": [
+    "the practitioner obtains the desired object",
+    "there is no doubt about this result",
+    "the desired object may be various"
+   ],
+   "inference": "employment of these great cakras yields any desired object without doubt",
+   "uncertainties": [
+    "the exact scope of vividhaṃ remains context-dependent",
+    "the subject of labhati is not explicit in this verse"
+   ],
+   "plain_english": "One obtains indeed, without doubt, whatever diverse thing is desired."
+  }
+ ]
+}

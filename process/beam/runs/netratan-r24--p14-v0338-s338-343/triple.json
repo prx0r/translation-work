@@ -1,0 +1,269 @@
+{
+ "song": "net-p14",
+ "items": [
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "arthe",
+     "gloss": "for-meaning",
+     "grounds": "dative sense of artha",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śivatvābhivyakteḥ",
+     "gloss": "of-śiva-ness-manifestation",
+     "grounds": "genitive singular feminine compound",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "kṣapaṇaṃ",
+     "gloss": "removal",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāśānām",
+     "gloss": "of-bonds",
+     "grounds": "genitive plural masculine",
+     "morph": "n.gen.pl.m"
+    }
+   ],
+   "question": "What two operations constitute meaning and manifestation of Śiva-ness?",
+   "premises": [
+    "gift is for meaning",
+    "removal of bonds manifests Śiva-ness"
+   ],
+   "inference": "meaning and manifestation are paired operations",
+   "uncertainties": [
+    "tu may mark contrast"
+   ],
+   "plain_english": "For meaning there is gift; for manifestation of Śiva-ness there is removal of bonds."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "vyāpakasya",
+     "gloss": "of-pervading",
+     "grounds": "genitive singular masculine",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "aṇoḥ",
+     "gloss": "of-atom",
+     "grounds": "genitive singular masculine",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "svarūpaprakāśanāt",
+     "gloss": "own-form-manifestation",
+     "grounds": "ablative singular neuter",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "How does the pervading atom reveal its own form?",
+   "premises": [
+    "atom is pervading",
+    "own form manifests"
+   ],
+   "inference": "pervasion and self-manifestation are linked",
+   "uncertainties": [
+    "ablative may indicate cause"
+   ],
+   "plain_english": "By manifestation of the own form of the pervading atom."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "kriyāśaktirūpā",
+     "gloss": "power-of-action-form",
+     "grounds": "nominative singular feminine compound",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "great-lady",
+     "grounds": "nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prabhaviṣṇuḥ",
+     "gloss": "prevails",
+     "grounds": "nominative singular masculine participle",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "said",
+     "grounds": "nominative singular feminine participle",
+     "morph": "v.3.sg.pass-perf"
+    }
+   ],
+   "question": "What is said to prevail as protection?",
+   "premises": [
+    "great lady is power of action",
+    "protection is said"
+   ],
+   "inference": "protection prevails in the form of action-power",
+   "uncertainties": [
+    "prabhaviṣṇuḥ may modify protection"
+   ],
+   "plain_english": "Thus protection is said to prevail as the great lady in the form of power of action."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lakṣaṇamuktam",
+     "gloss": "characteristic-stated",
+     "grounds": "nominative singular neuter compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "durādharṣā",
+     "gloss": "hard-to-overcome",
+     "grounds": "nominative plural feminine",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "balinaḥ",
+     "gloss": "strong",
+     "grounds": "nominative plural masculine",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "duḥsahāḥ",
+     "gloss": "unbearable",
+     "grounds": "nominative plural masculine",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What qualities accompany the stated characteristic?",
+   "premises": [
+    "characteristic is stated",
+    "qualities are hard-to-overcome strong unbearable"
+   ],
+   "inference": "the stated characteristic is joined with formidable qualities",
+   "uncertainties": [
+    "gender agreement is mixed"
+   ],
+   "plain_english": "Thus the characteristic is stated: hard to overcome, strong, and unbearable."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "śivaśaktiprabhāvaḥ",
+     "gloss": "śiva-śakti-power",
+     "grounds": "nominative singular masculine compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ājñāvaśavartitā",
+     "gloss": "under-command",
+     "grounds": "nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What follows from the power of Śiva-śakti?",
+   "premises": [
+    "Śiva-śakti power acts",
+    "then under command"
+   ],
+   "inference": "power of Śiva-śakti brings subjection to command",
+   "uncertainties": [
+    "tadā may be temporal"
+   ],
+   "plain_english": "Then, by the power of Śiva-śakti, there is being under command."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "nominative singular feminine",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "third singular passive present",
+     "morph": "v.3.sg.pass-pres"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "nominative singular feminine pronoun",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "sukṛtā",
+     "gloss": "well-done",
+     "grounds": "nominative singular feminine",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular optative",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "When would protection be well done?",
+   "premises": [
+    "protection is done",
+    "that would be well done"
+   ],
+   "inference": "performed protection is reckoned as well done",
+   "uncertainties": [
+    "syāt expresses possibility"
+   ],
+   "plain_english": "Protection is done; that would be well done."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## kjn-p03-v51
-[channel](nāḍī) [channel-mouths](nāḍīmukhaiḥ)+[or](vā)+[also](api) [downward](adhaḥ)+[upward](ūrdhvaṃ) [repha-kindled](rephadīpitam)
+[channel](nāḍī) [channel](nāḍī)+[mouths](mukhair)+[or](vāpi) [down](adhor)+[up](ddhaṃ) [repha](repha)+[illuminated](dīpitam)
 
 ## kjn-p03-v52
-[birth-circle](janma)+[sphere](maṇḍala)+[absorbed](saṃlīnaṃ) [darkness](dhvānta)+[light](tejaḥ)+[equal](sama)+[radiance](prabham)
+[birth](janma)+[circle](maṇḍala)+[merged](saṃlīnaṃ) [darkness](dhvānta)+[light](teja(ḥ))+[equal](sama)+[splendor](prabham)
 
 ## kjn-p03-v53
-[hand](kara)+[praise](stobha)+[and-so-forth](ādikaṃ) [O-lady](bhadre) [does](karoti)+[indeed](evaṃ) [with-moving-and-unmoving](carācaraiḥ)
+[hand](kara)+[praise](stobha)+[and-so-forth](ādikaṃ) [O-lady](bhadre) [does](karoty)+[thus](evaṃ) [moving](cara)+[and-unmoving](acaraiḥ)
 
 ## kjn-p03-v54
-[birth](janma)+[sphere](manḍala)+[absorbed](saṃlīnaṃ) [darkness](dhvānta)+[light](tejaḥ)+[equal](sama)+[radiance](prabham)
+[birth](janma)+[circle](manḍala)+[merged](saṃlīnaṃ) [darkness](dhvānta)+[light](teja(ḥ))+[equal](sama)+[splendor](prabham)
 
 ## kjn-p03-v55
-[having-meditated](dhyātvā) [lightning](vidyut)+[creeper](latā)+[form](ākāraṃ) [power](śaktiḥ)+[indeed](vai) [in-sky-pentad](vyomapañcake)
+[having-meditated](dhyātvā) [lightning](vidyul)+[creeper](latā)+[form](kāraṃ) [power](śaktir)+[indeed](vai) [sky](vyoma)+[fivefold](pañcake)
 
 ## kjn-p03-v56
-[power](śakti)+[knowledge](vijñāna)+[piercing](vedhena) [called-mind](manākhyena) [O-great-minded-one](mahānmane)
+[power](śakti)+[knowledge](vijñāna)+[piercing](vedhena) [mind](manā)+[called](khyena) [O-great-minded-one](mahānmane)
 
 ## kjn-p03-v57
-[another's-body](paradehe) [supreme-power](parāśaktiḥ)+[by-sound](nādena)+[having-pervaded](ākramya) [should-pierce](vedhayet)
+[another](para)+[body](dehe) [supreme](parā)+[power](śaktir) [by-sound](nādenā)+[having-pervaded](kramya) [should-pierce](vedhayet)
 
 ## kjn-p03-v58
-[past](atīta)+[and-future](anāgataṃ)+[indeed](ca)+[also](eva) [asked](pṛṣṭā)+[she](asau) [will-tell](kathayiṣyati)
+[past](atītān)+[and-future](āgatañ)+[and](caiva) [asked](pṛṣṭāsau) [will-tell](kathayiṣyati)
 
 ## kjn-p03-v59
-[conch](śaṅkha)+[consecration](abhiṣeka)+[knowledge](vijñānaṃ) [tooth-stick](dantakāṣṭha)+[and-so-forth](ādikam)+[O-beloved](priye)
+[conch](śaṅkhā)+[consecration](bhiṣeka)+[knowledge](vijñānaṃ) [tooth](danta)+[stick](kāṣṭhā)+[and-so-forth](dikam)+[O-beloved](priye)
 
 ## kjn-p03-v60
-[killing](māraṇa)+[uprooting](uccāṭanaṃ)+[and](ca)+[indeed](eva) [paralyzing](stambha)+[deluding](moha)+[and-so-forth](ādikaṃ) [O-beloved](priye)
+[killing](māraṇo)+[uprooting](ccāṭanañ)+[and](caiva) [paralyzing](stambha)+[deluding](mohā)+[and-so-forth](dikaṃ) [O-beloved](priye)
 
 ## kjn-p03-v61
-[fifty](pañcāśat)+[letters](varṇa)+[combination](saṃyogaṃ) [having-known](jñātvā) [all](sarvaṃ) [do](kuru) [O-beloved](priye)
+[fifty](pañcāśa)+[letter](varṇa)+[combination](saṃyogaṃ) [having-known](jñātvā) [all](sarvaṃ) [do](kuru) [O-beloved](priye)
 
 ## kjn-p03-v62
-[performs](kurute) [various](vibhidaṃ) [action](karma) [which](yat)+[O-goddess](devi) [by-mind](manasā)+[desired](īpsitam)
+[performs](kurute) [various](vibhidaṃ) [action](karma) [which](yad)+[O-goddess](devi) [by-mind](manasā)+[desired](īpsitam)
 
 ## kjn-p03-v63
-[one-should-apply](yojayet)+[that](tāṃ) [to-kula-support](kulādhāraṃ)+[indeed](tu) [all](sarvaṃ) [having-known](jñātvā) [firm](dṛḍha)+[aim](lakṣa)+[knowing](vit)
+[one-should-join](yojayet)+[that](tāṃ) [kula](kulā)+[support](dhā(raṃ))+[indeed](tu) [all](sarvaṃ) [having-known](jñātvā) [firm](dṛḍha)+[mark](lakṣa)+[knowing](vit)
 
 ## kjn-p03-v64
-[self-dependent](svātantraḥ) [liberation](muktim)+[attains](āyāti) [in-abode](bhavane) [of-all-hearts](sarvahṛd)+[indeed](tu) [he](saḥ)
+[self-dependent](svātantro) [liberation](muktim)+[attains](āyāti) [all](sarva)+[heart](hṛd)+[abode](bhavane) [indeed](tu) [he](saḥ)
 
 ## kjn-p03-v65
-[which](yat) [by-you](tvayā)+[was-asked](apṛcchitam)+[O-lady](bhadre) [well-hidden](sugopya) [accomplishment](siddhi)+[cause](kāraṇam)
+[which](yat) [by-you](tvayā)+[asked](pṛcchitam)+[O-lady](bhadre) [well-guarded](sugopya) [accomplishment](siddhi)+[cause](kāraṇam)
 
 ## kjn-p03-v66
-[not](na) [to-be-given](deyaṃ) [to-one-devoid-of-devotion](bhaktihīnasya) [of-those-desiring](icchatām) [kaula](kaulikīṃ) [accomplishment](siddhim)
+[not](na) [to-be-given](deyaṃ) [devotion](bhakti)+[devoid](hīnasya) [kaula](kaulikīṃ) [accomplishment](siddhim)+[desiring](icchatām)
 
 ## kjn-p03-v67
-[in-the-one-emerged](vinirgate) [from-Candra-dvīpa](candradvīpa) [fourth](caturthaḥ) [chapter](paṭalaḥ)
+[moon](candra)+[island](dvīpa)+[emerged](vinirgate) [fourth](caturthaḥ) [chapter](paṭalaḥ)
 
 ## kjn-p03-v68
-[tell](kathayasva) [O-great-god](mahādeva) [supreme](param) [destruction-of-delusion](bhrāntinirnāśanaṃ)
+[tell](kathayasva) [O-great-god](mahādeva) [delusion](bhrānti)+[destruction](nirnāśanaṃ) [supreme](param)
 
 ## kjn-p03-v69
-[freed-from-all-dualities](sarvadvandvavinirmukta) [he](saḥ) [intent-on-that-practice](gatābhyāsatatparaḥ)
+[all](sarva)+[duality](dvandva)+[freed](vinirmukta) [he](sa) [gone](gatā)+[practice](bhyāsa)+[intent](tatparaḥ)
 
 ## kjn-p03-v70
-[arise](uttiṣṭha) [sword](khaḍga)+[netherworld](pātālaṃ) [yellow-pigment](rocanā)+[collyrium](añjana)+[sandals](pādukam)
+[arise](uttiṣṭha) [sword](khaḍga)+[netherworld](pātālaṃ) [yellow-pigment](rocanā)+[collyrium](ñjana)+[sandal](pādukam)
 
 ## kjn-p03-v71
-[invisibility](antarddhānam)+[would-be](bhavet)+[O-goddess](devi) [and](tathā)+[another](anyaṃ)+[also](ca) [elixir](rasāyanam)
+[invisibility](antarddhānam)+[may-be](bhaved)+[O-goddess](devi) [likewise](tathā)+[another](anyañ)+[and](ca) [elixir](rasāyanam)
 
 ## kjn-p03-v72
-[hear](śṛṇu) [you](tvaṃ) [with-one-pointed-mind](ekacittam)+[indeed](tu) [being-told](kathyamānaṃ) [by-me](mayā) [O-beloved](priye)
+[hear](śṛṇu) [you](tvaṃ) [one](eka)+[mind](cittan)+[indeed](tu) [being-told](kathyamānaṃ) [by-me](mayā) [O-beloved](priye)
 
 ## kjn-p03-v73
-[moon](candra)+[delight](āhlāda)+[causing](karaṃ) [divine](divyaṃ) [coming](āgacchantaṃ) [from-middle-of-sky](khamadhyataḥ)
+[moon](candrā)+[delight](hlāda)+[making](karaṃ) [divine](divyaṃ) [coming](āgacchantaṃ) [sky](kha)+[middle](madhyataḥ)
 
 ## kjn-p03-v74
-[not](na) [old-age](jarā)+[death](maraṇam)+[of-him](tasya) [disease](vyādhi)+[illness](rogaḥ) [not](na) [exists](vidyate)
+[not](na) [old-age](jarā)+[death](maraṇan)+[of-him](tasya) [disease](vyādhi)+[illness](rogo) [not](na) [exists](vidyate)
 
 ## kjn-p03-v75
-[in-the-middle](madhyasthaṃ) [of-milk-ocean](kṣīrodārṇava) [white](śvetaṃ) [lotus](kamala)+[expanse](vistaram)
+[milk](kṣīro)+[ocean](dārṇava)+[middle](madhya)+[situated](sthaṃ) [white](śvetaṃ) [lotus](kamala)+[expanse](vistaram)

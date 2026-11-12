@@ -1,0 +1,154 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "sāmprataṃ",
+     "gloss": "now",
+     "grounds": "adverb of present time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive of śru",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "I-wish",
+     "grounds": "first person singular present of iṣ",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "kālasya",
+     "gloss": "of-time",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vañcanaṃ",
+     "gloss": "deception",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the auspicious deception of time to be heard and understood?",
+   "premises": [
+    "speaker now wishes to hear",
+    "object is time's auspicious deception"
+   ],
+   "inference": "The verse frames a request to learn time's deceptive power.",
+   "uncertainties": [
+    "exact referent of time's deception remains implicit"
+   ],
+   "plain_english": "Now I wish to hear the auspicious deception of time."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-tell",
+     "grounds": "first person singular present of kath",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandeho",
+     "gloss": "doubt",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "relative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyur",
+     "gloss": "death",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "third person singular present of naś",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "How is death destroyed without any remaining doubt?",
+   "premises": [
+    "speaker promises to tell",
+    "no doubt remains",
+    "death is destroyed"
+   ],
+   "inference": "The verse asserts a certain teaching about death's destruction.",
+   "uncertainties": [
+    "method of destruction is not stated here"
+   ],
+   "plain_english": "I tell, without doubt, how death is destroyed."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "amṛta+agraṃ",
+     "gloss": "at-tip-of-nectar",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rasa+agreṇa",
+     "gloss": "with-essence-of-juice",
+     "grounds": "compound instrumental singular neuter",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dahyamāna",
+     "gloss": "burning",
+     "grounds": "present passive participle",
+     "morph": "pres.part.pass"
+    },
+    {
+     "surface": "sudhīr",
+     "gloss": "even-wise",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the nectar-tip practice destroy death even for the wise?",
+   "premises": [
+    "nectar tip is involved",
+    "essence of juice is involved",
+    "even the wise burn"
+   ],
+   "inference": "The verse links nectar-tip practice to transformative burning that overcomes death.",
+   "uncertainties": [
+    "precise physiological or ritual process is unspecified"
+   ],
+   "plain_english": "Even the wise, burning with the essence of juice at the tip of nectar."
+  }
+ ]
+}

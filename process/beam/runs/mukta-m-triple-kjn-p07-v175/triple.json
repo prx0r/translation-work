@@ -1,0 +1,51 @@
+{
+ "song": "kjn-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "antyajā",
+     "gloss": "outcaste-woman",
+     "grounds": "feminine nominative singular of antyajā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃpravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "first person singular active future indicative of saṃpra-vac",
+     "morph": "1.sg.act.fut-indic + root vac"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "second person singular active imperative of śru",
+     "morph": "2.sg.act.imper + root śru"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative singular of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yathāsthitam",
+     "gloss": "as-it-is",
+     "grounds": "indeclinable adverb meaning as it is",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the speaker promise to declare to the goddess about outcaste women?",
+   "premises": [
+    "Speaker addresses goddess directly.",
+    "He will declare outcaste women.",
+    "Declaration is as it is."
+   ],
+   "inference": "The verse introduces a forthcoming teaching on outcaste women.",
+   "uncertainties": [
+    "Exact doctrinal content not stated in this verse."
+   ],
+   "plain_english": "I shall declare, O goddess, about outcaste women, as it is."
+  }
+ ]
+}

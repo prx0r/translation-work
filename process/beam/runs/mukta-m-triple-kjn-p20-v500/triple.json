@@ -1,0 +1,57 @@
+{
+ "song": "kjn-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "brahmatvaṃ",
+     "gloss": "brahma-state",
+     "grounds": "neuter noun brahmatva in accusative or nominative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktaṃ",
+     "gloss": "abandoned",
+     "grounds": "past passive participle of tyaj, neuter accusative or nominative singular",
+     "morph": "ppp.acc.sg.n"
+    },
+    {
+     "surface": "citta",
+     "gloss": "mind",
+     "grounds": "neuter noun citta in nominative singular",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dhīvarātmakam",
+     "gloss": "fisherman-nature",
+     "grounds": "compound adjective dhīvara plus ātmaka, neuter accusative singular",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What happens to the Brahma-state when the mind becomes fisherman-nature?",
+   "premises": [
+    "Brahma-state is abandoned then.",
+    "Mind takes fisherman-nature.",
+    "Anger creates a power-net."
+   ],
+   "inference": "The Brahma-state is abandoned as the mind becomes fisherman-nature.",
+   "uncertainties": [
+    "Exact syntactic relation between citta and dhīvarātmakam remains uncertain."
+   ],
+   "plain_english": "Then the Brahma-state was abandoned; the mind became fisherman-nature."
+  }
+ ]
+}

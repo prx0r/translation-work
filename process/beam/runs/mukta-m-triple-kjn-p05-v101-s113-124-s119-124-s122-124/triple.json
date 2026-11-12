@@ -1,0 +1,152 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "rasanā+tālu+mūle",
+     "gloss": "at-root-of-tongue-and-palate",
+     "grounds": "compound of rasanā, tālu, mūla in locative sense",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "absolutive.root-kṛ"
+    },
+    {
+     "surface": "vāyuṃ",
+     "gloss": "air",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pibec",
+     "gloss": "should-drink",
+     "grounds": "optative of pā",
+     "morph": "3.sg.opt.root-pā"
+    },
+    {
+     "surface": "chanaiḥ",
+     "gloss": "slowly",
+     "grounds": "instrumental plural adverbial",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "How should the practitioner place and draw air at the root of tongue and palate?",
+   "premises": [
+    "air is drawn slowly",
+    "placement is at tongue-palate root",
+    "action is prescribed as drinking"
+   ],
+   "inference": "The verse instructs slow inhalation or drawing of air after placing it at the tongue-palate root.",
+   "uncertainties": [
+    "whether pibec means drink or draw in",
+    "exact physiological technique"
+   ],
+   "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it slowly."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "abdam+ekaṃ",
+     "gloss": "for-one-year",
+     "grounds": "compound accusative duration",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yadā+abhyastañ",
+     "gloss": "when-practiced",
+     "grounds": "compound with yadā and abhyasta",
+     "morph": "compound.nom.sg.n"
+    },
+    {
+     "surface": "jarā+mṛtyur",
+     "gloss": "old-age-and-death",
+     "grounds": "compound nominative subject",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "present indicative of vinaś",
+     "morph": "3.sg.act.pres.root-vinaś"
+    }
+   ],
+   "question": "What happens to old age and death after one year of this practice?",
+   "premises": [
+    "practice lasts one year",
+    "old age and death are subject",
+    "they are destroyed"
+   ],
+   "inference": "A year of this practice destroys old age and death.",
+   "uncertainties": [
+    "whether abhyasta means practiced or mastered",
+    "scope of destruction"
+   ],
+   "plain_english": "When practiced for one year, old age and death are destroyed."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "nominative subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramate",
+     "gloss": "enters",
+     "grounds": "present indicative of kram",
+     "morph": "3.sg.act.pres.root-kram"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "daṃśito",
+     "gloss": "even-bitten",
+     "grounds": "past participle passive",
+     "morph": "nom.sg.m.participle"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā+uragaiḥ",
+     "gloss": "by-great-serpents",
+     "grounds": "compound instrumental agent",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "Does poison enter the body even when one is bitten by great serpents?",
+   "premises": [
+    "poison does not enter body",
+    "even if bitten",
+    "by great serpents"
+   ],
+   "inference": "The verse claims poison does not enter the body even when bitten by great serpents.",
+   "uncertainties": [
+    "whether this is literal or yogic claim",
+    "relation to prior practice"
+   ],
+   "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+  }
+ ]
+}

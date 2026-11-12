@@ -1,0 +1,1229 @@
+{
+ "song": "kjn-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "vyāghrī",
+     "gloss": "tigress",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hastī",
+     "gloss": "elephant-female",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mayūrī",
+     "gloss": "peahen",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kukuṭī",
+     "gloss": "hen",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "...............",
+     "gloss": "lacuna",
+     "grounds": "illegible in source",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which animal forms do yoginīs assume while playing on earth?",
+   "premises": [
+    "yoginīs take animal forms",
+    "they play on earth"
+   ],
+   "inference": "The verse lists tigress, elephant, peahen, and hen among assumed forms.",
+   "uncertainties": [
+    "final token illegible"
+   ],
+   "plain_english": "Tigress, elephant, peahen, and hen are among the forms taken."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "demonstrative",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "rūpāṇi",
+     "gloss": "forms",
+     "grounds": "plural accusative",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "saṃgṛhya",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "plural nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "krīḍante",
+     "gloss": "play",
+     "grounds": "present middle",
+     "morph": "3.pl.mid-pres"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What do yoginīs do after taking those forms?",
+   "premises": [
+    "they take those forms",
+    "they play on earth"
+   ],
+   "inference": "Yoginīs assume forms and play on earth.",
+   "uncertainties": [],
+   "plain_english": "Having taken those forms, the yoginīs play on earth."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathyante",
+     "gloss": "is-described",
+     "grounds": "passive present",
+     "morph": "3.pl.pass-pres"
+    },
+    {
+     "surface": ".................",
+     "gloss": "lacuna",
+     "grounds": "illegible in source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yukta",
+     "gloss": "with-attention",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avadhārayet",
+     "gloss": "one-should-ascertain",
+     "grounds": "optative",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should the described form be ascertained?",
+   "premises": [
+    "the form is described",
+    "one should ascertain it with attention"
+   ],
+   "inference": "The form must be carefully ascertained.",
+   "uncertainties": [
+    "lacuna obscures description"
+   ],
+   "plain_english": "That form is described; one should ascertain it with attention."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "vṛścika",
+     "gloss": "scorpion",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udhyantaraḥ",
+     "gloss": "snake",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūṣako",
+     "gloss": "mouse",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darduraḥ",
+     "gloss": "frog",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which creatures are named in this list?",
+   "premises": [
+    "scorpion and snake are named",
+    "mouse and frog are named"
+   ],
+   "inference": "The verse names scorpion, snake, mouse, and frog.",
+   "uncertainties": [],
+   "plain_english": "Scorpion, snake, mouse, and frog, O beloved."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "......................",
+     "gloss": "lacuna",
+     "grounds": "illegible in source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājānañ",
+     "gloss": "king",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taskarāḥ",
+     "gloss": "thieves",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What kinds of threats are enumerated here?",
+   "premises": [
+    "disease is named",
+    "king and thieves are named"
+   ],
+   "inference": "The verse enumerates disease, king, and thieves among threats.",
+   "uncertainties": [
+    "lacuna obscures one item"
+   ],
+   "plain_english": "Veda, disease, king, and thieves are named."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "aneka",
+     "gloss": "by-many",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākāra",
+     "gloss": "form",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūpeṇa",
+     "gloss": "forms",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānāvidhaṃ",
+     "gloss": "of-various-kinds",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "legacy hint",
+     "morph": "3.pl.act-pres"
+    }
+   ],
+   "question": "How do these beings know fear?",
+   "premises": [
+    "they know fear",
+    "fear is of various kinds"
+   ],
+   "inference": "Fear is known in many forms.",
+   "uncertainties": [],
+   "plain_english": "They know fear of various kinds by many forms."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāsṛtya",
+     "gloss": "having-assumed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kṣipraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇanti",
+     "gloss": "they-seize",
+     "grounds": "present active",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paśum",
+     "gloss": "victim",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What happens after assuming such a form?",
+   "premises": [
+    "they assume the form",
+    "they quickly seize the victim"
+   ],
+   "inference": "Assuming the form, they quickly seize the victim.",
+   "uncertainties": [],
+   "plain_english": "Thus having assumed the form, they quickly seize that victim."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "kumārikā",
+     "gloss": "young-girl",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "striyo",
+     "gloss": "women",
+     "grounds": "legacy hint",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāṣamāṇe",
+     "gloss": "speaking",
+     "grounds": "participle",
+     "morph": "pres.part"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "at-any-time",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should young girls or women be worshipped?",
+   "premises": [
+    "young girls or women are named",
+    "speaking at any time is mentioned"
+   ],
+   "inference": "The verse concerns young girls or women speaking at any time.",
+   "uncertainties": [
+    "worship context implied by next verse"
+   ],
+   "plain_english": "A young girl or women, speaking at any time."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "pūjanīyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "legacy hint",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kumāryaḥ",
+     "gloss": "young-girls",
+     "grounds": "legacy hint",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulāśritaiḥ",
+     "gloss": "by-those-resorting-to-kula",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Who should worship young girls with effort?",
+   "premises": [
+    "young girls are to be worshipped",
+    "those resorting to kula do so with effort"
+   ],
+   "inference": "Those resorting to kula should worship young girls with effort.",
+   "uncertainties": [],
+   "plain_english": "Young girls are to be worshipped with effort by those resorting to kula."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "pārijāta",
+     "gloss": "from-pārijāta",
+     "grounds": "legacy hint",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "udbhavet",
+     "gloss": "arisen",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "divyaiḥ",
+     "gloss": "with-divine",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dāḍimaiḥ",
+     "gloss": "with-pomegranates",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kusuma",
+     "gloss": "with-flower",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ujjvalaiḥ",
+     "gloss": "bright",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What offerings arise from pārijāta?",
+   "premises": [
+    "pārijāta is named",
+    "divine pomegranates and bright flowers are named"
+   ],
+   "inference": "The verse names divine pomegranates and bright flowers from pārijāta.",
+   "uncertainties": [],
+   "plain_english": "From pārijāta arise divine pomegranates and bright flowers."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "jāti",
+     "gloss": "with-jasmine",
+     "grounds": "legacy hint",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "utpala",
+     "gloss": "with-blue-lotus",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kadambaiḥ",
+     "gloss": "with-kadamba",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇikāraiḥ",
+     "gloss": "with-karṇikāra",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "siṃhakeśaraiḥ",
+     "gloss": "with-siṃhakeśara",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which flowers are listed for worship?",
+   "premises": [
+    "jasmine and blue lotus are named",
+    "kadamba, karṇikāra, and siṃhakeśara are named"
+   ],
+   "inference": "The verse lists jasmine, blue lotus, kadamba, karṇikāra, and siṃhakeśara.",
+   "uncertainties": [],
+   "plain_english": "With jasmine, blue lotus, kadamba, karṇikāra, and siṃhakeśara."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ambara",
+     "gloss": "garment",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dharāṃ",
+     "gloss": "wearing",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "with-red",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "unguent",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anulepitām",
+     "gloss": "anointed",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the red-garmented figure be meditated upon?",
+   "premises": [
+    "one should meditate on her wearing red garment",
+    "she is anointed with red unguent"
+   ],
+   "inference": "Meditation focuses on red garment and red unguent.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on her wearing a red garment, anointed with red unguent."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fair-one",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "and-liberation",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasādhakam",
+     "gloss": "accomplishing",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does declared worship accomplish?",
+   "premises": [
+    "worship is declared",
+    "it accomplishes enjoyment and liberation"
+   ],
+   "inference": "Declared worship accomplishes enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "Worship is declared, O fair one, accomplishing enjoyment and liberation."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "candradvīpa",
+     "gloss": "from-candradvīpa",
+     "grounds": "legacy hint",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vinirgate",
+     "gloss": "emerged",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trayoviṃśatitamaḥ",
+     "gloss": "twenty-third",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter emerges from candradvīpa?",
+   "premises": [
+    "it emerged from candradvīpa",
+    "it is the twenty-third chapter"
+   ],
+   "inference": "The twenty-third chapter emerges from candradvīpa.",
+   "uncertainties": [],
+   "plain_english": "The twenty-third chapter emerged from candradvīpa."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "asurāṇāṃ",
+     "gloss": "of-demons",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "surāṇāñ",
+     "gloss": "of-gods",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhutvam",
+     "gloss": "sovereignty",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "of-me",
+     "grounds": "pronoun",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Whose sovereignty over demons and gods is addressed?",
+   "premises": [
+    "sovereignty of demons and gods is named",
+    "the speaker asks the lord today"
+   ],
+   "inference": "The verse asks the lord about sovereignty over demons and gods.",
+   "uncertainties": [],
+   "plain_english": "Sovereignty of demons and gods today, O lord, of me."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "bhrānti",
+     "gloss": "delusion",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃsāra",
+     "gloss": "saṃsāra",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gahanam",
+     "gloss": "thicket",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ajñāna",
+     "gloss": "ignorance",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṭala",
+     "gloss": "veil",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tamaḥ",
+     "gloss": "darkness",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What conditions are named as obstacles?",
+   "premises": [
+    "delusion and saṃsāra thicket are named",
+    "ignorance veil and darkness are named"
+   ],
+   "inference": "The verse names delusion, saṃsāra thicket, ignorance veil, and darkness.",
+   "uncertainties": [],
+   "plain_english": "Delusion, saṃsāra thicket, ignorance veil, darkness."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaya",
+     "gloss": "tell",
+     "grounds": "imperative",
+     "morph": "2.sg.imp"
+    },
+    {
+     "surface": "kauleśa",
+     "gloss": "o-lord-of-kaula",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "deha",
+     "gloss": "in-body",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthaṃ",
+     "gloss": "situated",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddha",
+     "gloss": "siddha",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What worship is requested to be told again?",
+   "premises": [
+    "the lord of kaula is addressed",
+    "worship situated in body is requested"
+   ],
+   "inference": "The verse requests telling worship situated in the body.",
+   "uncertainties": [],
+   "plain_english": "Tell again, O lord of kaula, the worship situated in the body."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "kula",
+     "gloss": "kula",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhāḥ",
+     "gloss": "siddhas",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginyo",
+     "gloss": "yoginīs",
+     "grounds": "legacy hint",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rudrāḥ",
+     "gloss": "rudras",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulādhipe",
+     "gloss": "o-lord-of-kula",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Who are named alongside the lord of kula?",
+   "premises": [
+    "kula siddhas are named",
+    "yoginīs and rudras are named"
+   ],
+   "inference": "The verse names kula siddhas, yoginīs, and rudras.",
+   "uncertainties": [],
+   "plain_english": "Kula siddhas, yoginīs, and rudras, O lord of kula."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "bahisthaṃ",
+     "gloss": "external",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjaye",
+     "gloss": "one-should-worship",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "..............",
+     "gloss": "lacuna",
+     "grounds": "illegible in source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "method",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What worship method is mentioned?",
+   "premises": [
+    "external worship is named",
+    "worship method is named"
+   ],
+   "inference": "The verse mentions external worship and worship method.",
+   "uncertainties": [
+    "lacuna obscures object"
+   ],
+   "plain_english": "One should worship externally; worship method, O beloved."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "campakaiḥ",
+     "gloss": "with-campaka",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kiṅkarātaiḥ",
+     "gloss": "with-kiṅkarāta",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlotpala",
+     "gloss": "with-blue-lotus",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sugandhibhiḥ",
+     "gloss": "fragrant",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which fragrant flowers are listed?",
+   "premises": [
+    "campaka and kiṅkarāta are named",
+    "blue lotus and fragrant ones are named"
+   ],
+   "inference": "The verse lists campaka, kiṅkarāta, blue lotus, and fragrant flowers.",
+   "uncertainties": [],
+   "plain_english": "With campaka, kiṅkarāta, and blue lotus, fragrant."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "taru",
+     "gloss": "tree",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāta",
+     "gloss": "born",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ntaśva",
+     "gloss": "unclear",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rādeyā",
+     "gloss": "unclear",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "?",
+     "gloss": "unclear",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyā",
+     "gloss": "substance",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "with-honey",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "miśritām",
+     "gloss": "mixed",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What substance is mixed with honey?",
+   "premises": [
+    "a substance is named",
+    "it is mixed with honey"
+   ],
+   "inference": "The verse mentions a substance mixed with honey.",
+   "uncertainties": [
+    "several tokens unclear"
+   ],
+   "plain_english": "Tree-born substance, mixed with honey."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "dhūpa",
+     "gloss": "incense",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandal",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saurabhyaṃ",
+     "gloss": "fragrance",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aguruṃ",
+     "gloss": "aguru",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mṛganābhikam",
+     "gloss": "musk",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which incense materials are named?",
+   "premises": [
+    "incense and sandal are named",
+    "aguru and musk are named"
+   ],
+   "inference": "The verse names incense, sandal, aguru, and musk.",
+   "uncertainties": [],
+   "plain_english": "Incense, sandal fragrance, aguru, musk."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "ugrāṇi",
+     "gloss": "fierce",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "legacy hint",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "gandhahīnaṃ",
+     "gloss": "without-fragrance",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "one-should-offer",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Which flowers should not be offered?",
+   "premises": [
+    "fierce flowers are named",
+    "fragranceless ones should not be offered"
+   ],
+   "inference": "Fierce and fragranceless flowers should not be offered.",
+   "uncertainties": [],
+   "plain_english": "Fierce flowers, and fragranceless ones, should not be offered."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ambara",
+     "gloss": "garment",
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dharāḥ",
+     "gloss": "wearing",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rakta",
+     "gloss": "with-red",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "unguent",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anulepanāḥ",
+     "gloss": "anointed",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are all these figures described?",
+   "premises": [
+    "all are wearing red garments",
+    "all are anointed with red unguent"
+   ],
+   "inference": "All are described as wearing red garments and red unguent.",
+   "uncertainties": [],
+   "plain_english": "All wearing red garments, anointed with red unguent."
+  }
+ ]
+}

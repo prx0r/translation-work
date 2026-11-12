@@ -1,0 +1,289 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsād",
+     "gloss": "from-six-months",
+     "grounds": "ṣaṇmāsa + āt ablative",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "abhyased",
+     "gloss": "should-practice",
+     "grounds": "root abhyas + et optative",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṣāyaṃ",
+     "gloss": "ochre-robe",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bandha+varjitam",
+     "gloss": "free-from-bondage",
+     "grounds": "bandha + varjita compound",
+     "morph": "acc.sg.n (compound)"
+    }
+   ],
+   "question": "Who becomes freed from all diseases and fit for union with yogis after six months of practice?",
+   "premises": [
+    "six months of practice is prescribed",
+    "the practitioner wears ochre free from bondage",
+    "freedom from disease follows"
+   ],
+   "inference": "sustained practice in the ochre robe leads to liberation from disease and yogic fellowship",
+   "uncertainties": [
+    "exact voice and mood of abhyased",
+    "gender of kāṣāyaṃ"
+   ],
+   "plain_english": "Whoever practices for six months in the ochre robe, free from bondage, becomes freed from all diseases and joins in union with yogis."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "sarva+vyādhi+vinirmukto",
+     "gloss": "freed-from-all-diseases",
+     "grounds": "sarva + vyādhi + vinirmukta compound",
+     "morph": "nom.sg.m (compound)"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "with-yogis",
+     "grounds": "yogi + bhiḥ instrumental plural",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "saha+melakam",
+     "gloss": "together-union",
+     "grounds": "saha + melaka compound",
+     "morph": "acc.sg.n (compound)"
+    }
+   ],
+   "question": "What companionship results for one freed from all diseases through this practice?",
+   "premises": [
+    "freedom from all diseases is attained",
+    "union occurs with yogis",
+    "the union is shared together"
+   ],
+   "inference": "the accomplished practitioner enters communal fellowship with yogis",
+   "uncertainties": [
+    "whether melakam is accusative object or adverbial"
+   ],
+   "plain_english": "Freed from all diseases, he has union together with yogis."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun dative",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "jīva+abhyāsaṃ",
+     "gloss": "practice-of-the-soul",
+     "grounds": "jīva + abhyāsa compound",
+     "morph": "acc.sg.m (compound)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle of kath",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun dative",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavi",
+     "gloss": "o-bhairavī",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What teaching about the soul's practice has now been given to the devotee?",
+   "premises": [
+    "this practice of the soul is declared",
+    "it is told to you",
+    "the address is to Bhairavī"
+   ],
+   "inference": "the preceding instruction on soul-practice is now completed for the recipient",
+   "uncertainties": [
+    "whether kathitaṃ agrees with etat or jīvābhyāsaṃ"
+   ],
+   "plain_english": "This practice of the soul has been told to you, O Bhairavī."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "sarva+bhāva+upapannasya",
+     "gloss": "to-one-endowed-with-all-states",
+     "grounds": "sarva + bhāva + upapanna compound genitive",
+     "morph": "gen.sg.m (compound)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive of dā",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "kṛta+niścaye",
+     "gloss": "to-one-of-resolved-mind",
+     "grounds": "kṛta + niścaya compound locative",
+     "morph": "loc.sg.m (compound)"
+    }
+   ],
+   "question": "To whom should the kaula essence be given according to this rule?",
+   "premises": [
+    "it is to be given",
+    "the recipient is endowed with all states",
+    "the recipient has a resolved mind"
+   ],
+   "inference": "the teaching is restricted to a fully qualified and resolute recipient",
+   "uncertainties": [
+    "whether dātavyaṃ is nominative or accusative"
+   ],
+   "plain_english": "It is to be given to one endowed with all states and of resolved mind."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive of dā",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "kaulikaṃ",
+     "gloss": "kaula",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sāraṃ",
+     "gloss": "essence",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yoginīnām",
+     "gloss": "of-yoginīs",
+     "grounds": "yoginī + nām genitive plural",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambhavam",
+     "gloss": "origin",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What kaula teaching must not be given even to yoginīs?",
+   "premises": [
+    "the kaula essence is not to be given",
+    "it concerns the origin of yoginīs",
+    "the prohibition is emphatic"
+   ],
+   "inference": "the core kaula essence remains withheld despite yoginī origin",
+   "uncertainties": [
+    "whether sambhavam modifies sāraṃ or yoginīnām"
+   ],
+   "plain_english": "The kaula essence, the origin of yoginīs, is not to be given."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "pronoun genitive or dative",
+     "morph": "gen/dat.sg"
+    },
+    {
+     "surface": "nirmalaṃ",
+     "gloss": "pure",
+     "grounds": "adjective accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "deham",
+     "gloss": "body",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ajñāna+paṭala+āhatam",
+     "gloss": "struck-by-veil-of-ignorance",
+     "grounds": "ajñāna + paṭala + āhata compound",
+     "morph": "acc.sg.m (compound)"
+    }
+   ],
+   "question": "What condition of the body is lamented as struck by ignorance's veil?",
+   "premises": [
+    "today my body is pure",
+    "yet it is struck by ignorance's veil",
+    "the veil obscures purity"
+   ],
+   "inference": "bodily purity coexists with obscuration by ignorance",
+   "uncertainties": [
+    "whether nirmalaṃ agrees with deham or stands independently",
+    "gender of deham"
+   ],
+   "plain_english": "Today my pure body is struck by the veil of ignorance."
+  }
+ ]
+}

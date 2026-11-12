@@ -1,0 +1,299 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "sāmprataṃ",
+     "gloss": "now",
+     "grounds": "legacy hint now",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "legacy hint to-hear",
+     "morph": "inf."
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "I-wish",
+     "grounds": "legacy hint I-wish",
+     "morph": "1sg.act.pres.root-iṣ"
+    },
+    {
+     "surface": "kālasya",
+     "gloss": "of-time",
+     "grounds": "legacy hint of-time",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vañcanaṃ",
+     "gloss": "deception",
+     "grounds": "legacy hint deception",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "legacy hint auspicious",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is the auspicious deception of time to be heard now?",
+   "premises": [
+    "The speaker wishes to hear now.",
+    "The topic is time's deception.",
+    "The deception is called auspicious."
+   ],
+   "inference": "The verse opens a request to learn time's auspicious deception.",
+   "uncertainties": [
+    "Exact syntactic relation of śubham to vañcanaṃ is not fully explicit."
+   ],
+   "plain_english": "Now I wish to hear the auspicious deception of time."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-tell",
+     "grounds": "legacy hint I-tell",
+     "morph": "1sg.act.pres.root-kath"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "legacy hint no",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sandeho",
+     "gloss": "doubt",
+     "grounds": "legacy hint doubt",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "legacy hint as",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mṛtyur",
+     "gloss": "death",
+     "grounds": "legacy hint death",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "legacy hint is-destroyed",
+     "morph": "3sg.act.pres.root-naś"
+    }
+   ],
+   "question": "How is death destroyed without doubt according to this teaching?",
+   "premises": [
+    "The speaker says I tell.",
+    "There is no doubt.",
+    "Death is destroyed."
+   ],
+   "inference": "The verse assures that death's destruction is taught without doubt.",
+   "uncertainties": [
+    "The exact causal mechanism is supplied in following verses."
+   ],
+   "plain_english": "I tell without doubt: thus death is destroyed."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "amṛta+agraṃ",
+     "gloss": "at-tip-of-nectar",
+     "grounds": "legacy hint at-tip-of-nectar",
+     "morph": "acc.sg.n.compound"
+    },
+    {
+     "surface": "rasa+agreṇa",
+     "gloss": "with-essence-of-juice",
+     "grounds": "legacy hint with-essence-of-juice",
+     "morph": "instr.sg.n.compound"
+    },
+    {
+     "surface": "dahyamāna",
+     "gloss": "burning",
+     "grounds": "legacy hint burning",
+     "morph": "pres.part.pass."
+    },
+    {
+     "surface": "sudhīr",
+     "gloss": "even-wise",
+     "grounds": "legacy hint even-wise",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Why does even a wise person burn at the tip of nectar?",
+   "premises": [
+    "The location is the tip of nectar.",
+    "The means is essence of juice.",
+    "Even a wise person burns."
+   ],
+   "inference": "The verse warns that nectar's tip can burn even the wise.",
+   "uncertainties": [
+    "Whether dahyamāna modifies the wise person or another implied subject."
+   ],
+   "plain_english": "Even a wise person burns at the tip of nectar with the essence of juice."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "rasanā+tālu+mūle",
+     "gloss": "at-root-of-tongue-and-palate",
+     "grounds": "legacy hint at-root-of-tongue-and-palate",
+     "morph": "loc.sg.n.compound"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "legacy hint having-made",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vāyuṃ",
+     "gloss": "air",
+     "grounds": "legacy hint air",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pibec",
+     "gloss": "should-drink",
+     "grounds": "legacy hint should-drink",
+     "morph": "3sg.opt.act.root-pā"
+    },
+    {
+     "surface": "chanaiḥ",
+     "gloss": "slowly",
+     "grounds": "legacy hint slowly",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should air be drunk slowly at the root of tongue and palate?",
+   "premises": [
+    "The place is root of tongue and palate.",
+    "Air is made and drunk.",
+    "The drinking is slow."
+   ],
+   "inference": "The verse prescribes slow drinking of air at that root.",
+   "uncertainties": [
+    "The exact physiological technique is not fully described."
+   ],
+   "plain_english": "Having made air at the root of tongue and palate, one should drink it slowly."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "abdam+ekaṃ",
+     "gloss": "for-one-year",
+     "grounds": "legacy hint for-one-year",
+     "morph": "acc.sg.m.compound"
+    },
+    {
+     "surface": "yadā+abhyastañ",
+     "gloss": "when-practiced",
+     "grounds": "legacy hint when-practiced",
+     "morph": "indecl./participle"
+    },
+    {
+     "surface": "jarā+mṛtyur",
+     "gloss": "old-age-and-death",
+     "grounds": "legacy hint old-age-and-death",
+     "morph": "nom.sg.compound"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "legacy hint is-destroyed",
+     "morph": "3sg.act.pres.root-naś"
+    }
+   ],
+   "question": "What happens to old age and death after one year of practice?",
+   "premises": [
+    "The practice lasts one year.",
+    "Old age and death are named.",
+    "They are destroyed."
+   ],
+   "inference": "The verse states that one year of practice destroys old age and death.",
+   "uncertainties": [
+    "The exact practice referred to is the air-drinking of the previous verse."
+   ],
+   "plain_english": "When practiced for one year, old age and death are destroyed."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "legacy hint poison",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kramate",
+     "gloss": "enters",
+     "grounds": "legacy hint enters",
+     "morph": "3sg.mid.pres.root-kram"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "legacy hint body",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "daṃśito",
+     "gloss": "even-bitten",
+     "grounds": "legacy hint even-bitten",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint also",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahā+uragaiḥ",
+     "gloss": "by-great-serpents",
+     "grounds": "legacy hint by-great-serpents",
+     "morph": "instr.pl.m.compound"
+    }
+   ],
+   "question": "Why does poison not enter the body even when bitten by great serpents?",
+   "premises": [
+    "Poison does not enter the body.",
+    "Even a bitten person is protected.",
+    "Great serpents are the agents."
+   ],
+   "inference": "The verse claims immunity to serpent poison in the body.",
+   "uncertainties": [
+    "Whether this immunity follows from the prior practice or is a separate claim."
+   ],
+   "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+  }
+ ]
+}

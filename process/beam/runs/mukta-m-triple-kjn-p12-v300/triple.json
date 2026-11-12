@@ -1,0 +1,64 @@
+{
+ "song": "kjn-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "aśītiṃ",
+     "gloss": "eighty",
+     "grounds": "number eighty in accusative",
+     "morph": "num.acc.sg"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "causative of naś, third singular active present",
+     "morph": "verb.3sg.act-caus-pres"
+    },
+    {
+     "surface": "vātān",
+     "gloss": "winds",
+     "grounds": "wind, accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kuṣṭha",
+     "gloss": "leprosy",
+     "grounds": "first member of compound kuṣṭha-vyādhim",
+     "morph": "compound.member"
+    },
+    {
+     "surface": "vyādhim",
+     "gloss": "disease",
+     "grounds": "disease, accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "causative of naś, third singular active present",
+     "morph": "verb.3sg.act-caus-pres"
+    }
+   ],
+   "question": "What bodily afflictions does this practice destroy, and in what number?",
+   "premises": [
+    "eighty winds are destroyed",
+    "leprosy disease is destroyed",
+    "practice has purifying effect"
+   ],
+   "inference": "The rite destroys eighty winds and leprosy disease.",
+   "uncertainties": [
+    "kuṣṭha may modify vyādhim as compound",
+    "exact ritual context is not stated"
+   ],
+   "plain_english": "It destroys eighty winds and indeed destroys leprosy disease."
+  }
+ ]
+}

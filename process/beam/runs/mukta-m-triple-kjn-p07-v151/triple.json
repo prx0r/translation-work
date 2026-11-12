@@ -1,0 +1,1073 @@
+{
+ "song": "kjn-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "anaṅgasya",
+     "gloss": "of-bodiless-one",
+     "grounds": "genitive of anaṅga",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saubhāgyaṃ",
+     "gloss": "good-fortune",
+     "grounds": "accusative of saubhāgya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nigūḍhaṃ",
+     "gloss": "hidden",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sandhibandhanam",
+     "gloss": "junction-bond",
+     "grounds": "compound sandhi+bandhana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What hidden good fortune belongs to the bodiless one through junction-bond?",
+   "premises": [
+    "anaṅga has hidden good fortune",
+    "junction-bond reveals it"
+   ],
+   "inference": "The bodiless one's fortune is concealed in junction-bond.",
+   "uncertainties": [
+    "anaṅga referent unspecified"
+   ],
+   "plain_english": "The bodiless one's hidden good fortune is the junction-bond."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "prathame",
+     "gloss": "in-first",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "janavācchalyaṃ",
+     "gloss": "people-speech-deceit",
+     "grounds": "compound janavāc+śalya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvitīye",
+     "gloss": "in-second",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rujanāśanam",
+     "gloss": "pain-destruction",
+     "grounds": "compound ruja+nāśana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What results arise in the first and second stages?",
+   "premises": [
+    "first stage has people-speech-deceit",
+    "second stage destroys pain"
+   ],
+   "inference": "Stages one and two bring deceit then pain-destruction.",
+   "uncertainties": [
+    "stage referent unspecified"
+   ],
+   "plain_english": "In the first stage there is deceitful speech; in the second, pain is destroyed."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "caturthe",
+     "gloss": "in-fourth",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vācakāmitvaṃ",
+     "gloss": "speech-desirability",
+     "grounds": "compound vācaka+āmitva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dūrāśravaṇaṃ",
+     "gloss": "distant-hearing",
+     "grounds": "compound dūra+āśravaṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcame",
+     "gloss": "in-fifth",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What qualities appear in the fourth and fifth stages?",
+   "premises": [
+    "fourth stage has speech-desirability",
+    "fifth stage has distant-hearing"
+   ],
+   "inference": "The fourth and fifth stages grant speech-desirability and distant-hearing.",
+   "uncertainties": [
+    "stage referent unspecified"
+   ],
+   "plain_english": "In the fourth stage speech becomes desirable; in the fifth, distant hearing arises."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "yoginīmelakatvañca",
+     "gloss": "yoginī-meeting-state",
+     "grounds": "compound yoginī+melaka+tva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saptame",
+     "gloss": "in-seventh",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb root jan",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certainly arises in the seventh stage?",
+   "premises": [
+    "seventh stage has yoginī-meeting",
+    "it arises certainly"
+   ],
+   "inference": "Yoginī-meeting certainly arises in the seventh stage.",
+   "uncertainties": [
+    "stage referent unspecified"
+   ],
+   "plain_english": "In the seventh stage, meeting with yoginīs certainly arises."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "navame",
+     "gloss": "in-ninth",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caṇḍavegatvaṃ",
+     "gloss": "fierce-speed-state",
+     "grounds": "compound caṇḍa+vega+tva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśame",
+     "gloss": "in-tenth",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aneka+rūpadhṛk",
+     "gloss": "many-form-holder",
+     "grounds": "compound aneka+rūpa+dhṛk",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities belong to the ninth and tenth stages?",
+   "premises": [
+    "ninth stage has fierce-speed",
+    "tenth stage holds many forms"
+   ],
+   "inference": "The ninth and tenth stages bring fierce speed and many forms.",
+   "uncertainties": [
+    "stage referent unspecified"
+   ],
+   "plain_english": "In the ninth stage there is fierce speed; in the tenth, one holds many forms."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "ekādaśa+guṇopetaṃ",
+     "gloss": "eleven-quality-endowed",
+     "grounds": "compound ekādaśa+guṇa+upeta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjyate",
+     "gloss": "is-worshipped",
+     "grounds": "verb root pūj",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this-one",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "Śiva",
+     "grounds": "accusative of Śiva",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the eleven-quality-endowed one worshipped?",
+   "premises": [
+    "it is endowed with eleven qualities",
+    "it is worshipped as Śiva"
+   ],
+   "inference": "The endowed one is worshipped like Śiva.",
+   "uncertainties": [
+    "identity of asau unspecified"
+   ],
+   "plain_english": "This one, endowed with eleven qualities, is worshipped as Śiva."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "yatas",
+     "gloss": "therefore",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra+eva",
+     "gloss": "there-indeed",
+     "grounds": "compound tatra+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gantavyaṃ",
+     "gloss": "should-be-gone",
+     "grounds": "gerundive of gam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rocate",
+     "gloss": "delights",
+     "grounds": "verb root ruc",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "nominative of manas",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where should one go according to the mind's delight?",
+   "premises": [
+    "one should go there indeed",
+    "where the mind delights"
+   ],
+   "inference": "One should go where the mind delights.",
+   "uncertainties": [
+    "destination unspecified"
+   ],
+   "plain_english": "Therefore one should go where the mind delights."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "prapañca+rahitaṃ",
+     "gloss": "manifestation-devoid",
+     "grounds": "compound prapañca+rahita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "accusative of śāstra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prapañca+rahito",
+     "gloss": "manifestation-devoid",
+     "grounds": "compound prapañca+rahita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative of guru",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of scripture and guru are praised?",
+   "premises": [
+    "scripture is manifestation-devoid",
+    "guru is manifestation-devoid"
+   ],
+   "inference": "Both scripture and guru are free from manifestation.",
+   "uncertainties": [
+    "prapañca sense unspecified"
+   ],
+   "plain_english": "The scripture and guru are both devoid of manifestation."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulāgamaṃ",
+     "gloss": "Kaula-tradition",
+     "grounds": "compound kaula+āgama",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "O-lord",
+     "grounds": "vocative of nātha",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "aprapañcaiḥ",
+     "gloss": "by-non-manifestation-ones",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "beast",
+     "grounds": "nominative of paśu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative of priyā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who calls the Kaula tradition a beast?",
+   "premises": [
+    "this is Kaula tradition",
+    "non-manifestation ones call it beast"
+   ],
+   "inference": "Those without manifestation regard the Kaula tradition as beastly.",
+   "uncertainties": [
+    "speaker context unspecified"
+   ],
+   "plain_english": "O lord, O beloved, this Kaula tradition is called a beast by those without manifestation."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "kecid",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ajñānato",
+     "gloss": "from-ignorance",
+     "grounds": "ablative of ajñāna",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "naṣṭāḥ",
+     "gloss": "perished",
+     "grounds": "participle of naś",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecin",
+     "gloss": "some",
+     "grounds": "indefinite pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naṣṭāḥ",
+     "gloss": "perished",
+     "grounds": "participle of naś",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pramādataḥ",
+     "gloss": "from-negligence",
+     "grounds": "ablative of pramāda",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why do some perish in this teaching?",
+   "premises": [
+    "some perish from ignorance",
+    "some perish from negligence"
+   ],
+   "inference": "Perishing comes from ignorance or negligence.",
+   "uncertainties": [
+    "who perishes unspecified"
+   ],
+   "plain_english": "Some perish from ignorance, and some perish from negligence."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "kampaḥ",
+     "gloss": "trembling",
+     "grounds": "nominative of kampa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stobhe",
+     "gloss": "agitation",
+     "grounds": "locative of stobha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "roṣā",
+     "gloss": "anger",
+     "grounds": "nominative of roṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "gesture",
+     "grounds": "nominative of mudrā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "utpatanan",
+     "gloss": "leaping-up",
+     "grounds": "participle of utpat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bodily signs accompany this practice?",
+   "premises": [
+    "trembling and agitation occur",
+    "anger gesture and leaping occur"
+   ],
+   "inference": "The practice shows trembling, agitation, anger, gesture, and leaping.",
+   "uncertainties": [
+    "practice referent unspecified"
+   ],
+   "plain_english": "Trembling, agitation, anger, gesture, and leaping up occur."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "yāṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "spṛśati",
+     "gloss": "touches",
+     "grounds": "verb root spṛś",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "hastena",
+     "gloss": "with-hand",
+     "grounds": "instrumental of hasta",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verb root paś",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "cakṣuṣā",
+     "gloss": "with-eye",
+     "grounds": "instrumental of cakṣus",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "Whom does one touch and see in this rite?",
+   "premises": [
+    "one touches whom with hand",
+    "one sees whom with eye"
+   ],
+   "inference": "The rite involves touching and seeing a female figure.",
+   "uncertainties": [
+    "referent of yāṃ unspecified"
+   ],
+   "plain_english": "Whom one touches with the hand, whom one sees with the eye."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "palita+stambha+vijñānaṃ",
+     "gloss": "grey-hair-arrest-knowledge",
+     "grounds": "compound palita+stambha+vijñāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "participle of kath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoginīpriye",
+     "gloss": "O-yoginī-beloved",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What knowledge is declared to the yoginī-beloved?",
+   "premises": [
+    "grey-hair arrest knowledge is declared",
+    "it is addressed to yoginī-beloved"
+   ],
+   "inference": "The knowledge of arresting grey hair is declared.",
+   "uncertainties": [
+    "practical meaning unspecified"
+   ],
+   "plain_english": "The knowledge of arresting grey hair is declared, O beloved of yoginīs."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "participle of kath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "unmana+jñāna+nirṇitiḥ",
+     "gloss": "transcendent-mind-knowledge-determination",
+     "grounds": "compound unmana+jñāna+nirṇiti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What secret determination has been declared?",
+   "premises": [
+    "this is declared to you",
+    "it is secret transcendent-mind knowledge"
+   ],
+   "inference": "The secret determination of transcendent-mind knowledge is declared.",
+   "uncertainties": [
+    "unmana sense unspecified"
+   ],
+   "plain_english": "This secret determination of transcendent-mind knowledge is declared to you."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "candradvīpa+vinirgate",
+     "gloss": "from-Candradvīpa-emerged",
+     "grounds": "compound candradvīpa+vinirgata",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saptamaḥ",
+     "gloss": "seventh",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭamaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative of paṭa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter emerges from Candradvīpa?",
+   "premises": [
+    "it emerges from Candradvīpa",
+    "it is the seventh chapter"
+   ],
+   "inference": "The seventh chapter emerges from Candradvīpa.",
+   "uncertainties": [
+    "Candradvīpa referent unspecified"
+   ],
+   "plain_english": "The seventh chapter emerges from Candradvīpa."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "akule",
+     "gloss": "in-Akula",
+     "grounds": "locative of akula",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "Kula",
+     "grounds": "nominative of kula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative of deva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātaṃ",
+     "gloss": "born",
+     "grounds": "participle of jan",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "O-Bhairava",
+     "grounds": "vocative of Bhairava",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How is Kula born as god in Akula?",
+   "premises": [
+    "in Akula Kula is god",
+    "question asks how it is born"
+   ],
+   "inference": "The verse questions the birth of Kula as god within Akula.",
+   "uncertainties": [
+    "Akula/Kula technical sense unspecified"
+   ],
+   "plain_english": "O Bhairava, how indeed is Kula born as god in Akula?"
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "sahajā",
+     "gloss": "innate-born",
+     "grounds": "compound sahaja",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulajā",
+     "gloss": "Kula-born",
+     "grounds": "compound kula+ja",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā+api",
+     "gloss": "or",
+     "grounds": "compound vā+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭāṣṭaka+mataṃ",
+     "gloss": "eight-times-eight-doctrine",
+     "grounds": "compound aṣṭāṣṭaka+mata",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of birth and doctrine are mentioned?",
+   "premises": [
+    "innate-born and Kula-born are named",
+    "eight-times-eight doctrine is named"
+   ],
+   "inference": "The verse lists innate-born, Kula-born, and eight-times-eight doctrine.",
+   "uncertainties": [
+    "relation among terms unspecified"
+   ],
+   "plain_english": "Innate-born or Kula-born, and the eight-times-eight doctrine."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "guru+pūjā+vidhānaṃ",
+     "gloss": "guru-worship-procedure",
+     "grounds": "compound guru+pūjā+vidhāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "nominative of sarva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃkṣepato",
+     "gloss": "in-brief",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative of vad",
+     "morph": "2.sg.act-imp"
+    }
+   ],
+   "question": "What should be told in brief about guru worship?",
+   "premises": [
+    "all guru-worship-procedure is named",
+    "tell it in brief"
+   ],
+   "inference": "The entire guru-worship procedure should be told briefly.",
+   "uncertainties": [
+    "procedure details unspecified"
+   ],
+   "plain_english": "Tell in brief all the procedure of guru worship."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "ekānte",
+     "gloss": "in-solitary",
+     "grounds": "locative of ekānta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vijane",
+     "gloss": "in-secluded",
+     "grounds": "locative of vijana",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "locative of sthāna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣpa+dāma+upaśobhite",
+     "gloss": "flower-garland-adorned",
+     "grounds": "compound puṣpa+dāma+upaśobhita",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What kind of place is prescribed?",
+   "premises": [
+    "place is solitary and secluded",
+    "place is adorned with flower garlands"
+   ],
+   "inference": "The prescribed place is solitary, secluded, and flower-garland adorned.",
+   "uncertainties": [
+    "ritual context unspecified"
+   ],
+   "plain_english": "In a solitary, secluded place adorned with flower garlands."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "bhakṣya+bhojya+samāyukto",
+     "gloss": "food-eatables-endowed-with",
+     "grounds": "compound bhakṣya+bhojya+samāyukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madirā+ānanda+saṃyutam",
+     "gloss": "liquor-bliss-united",
+     "grounds": "compound madirā+ānanda+saṃyuta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What provisions accompany this rite?",
+   "premises": [
+    "one is endowed with food and eatables",
+    "liquor-bliss is united"
+   ],
+   "inference": "The rite includes food, eatables, and liquor-bliss.",
+   "uncertainties": [
+    "exact ritual unspecified"
+   ],
+   "plain_english": "Endowed with food and eatables, united with liquor-bliss."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "antyajā",
+     "gloss": "outcaste-woman",
+     "grounds": "nominative of antyajā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative of mahādevī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pṛthag+bhedaṃ",
+     "gloss": "separate-distinction",
+     "grounds": "compound pṛthak+bheda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadāmyaham",
+     "gloss": "I-shall-tell",
+     "grounds": "verb root vad",
+     "morph": "1.sg.act-fut"
+    }
+   ],
+   "question": "What distinction will be told about outcaste women?",
+   "premises": [
+    "outcaste woman or great goddess is addressed",
+    "separate distinction will be told"
+   ],
+   "inference": "A separate distinction concerning outcaste women will be told.",
+   "uncertainties": [
+    "distinction content unspecified"
+   ],
+   "plain_english": "O great goddess, I shall tell the separate distinction of outcaste women."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "kulajā",
+     "gloss": "Kula-born",
+     "grounds": "compound kula+ja",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "veśyam",
+     "gloss": "courtesan",
+     "grounds": "accusative of veśyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āhuḥ",
+     "gloss": "they-say",
+     "grounds": "verb root ah",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "antyajā",
+     "gloss": "outcaste-woman",
+     "grounds": "nominative of antyajā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "caste",
+     "grounds": "nominative of varṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antyajā",
+     "gloss": "outcaste-woman",
+     "grounds": "nominative of antyajā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How do people classify Kula-born and outcaste women?",
+   "premises": [
+    "Kula-born is called courtesan",
+    "outcaste woman is called caste-outcaste"
+   ],
+   "inference": "The verse reports classifications of Kula-born and outcaste women.",
+   "uncertainties": [
+    "social meaning unspecified"
+   ],
+   "plain_english": "They say Kula-born is a courtesan; outcaste woman is caste-outcaste."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "gamyā+agamya+prayogeṇa",
+     "gloss": "accessible-inaccessible-practice",
+     "grounds": "compound gamya+agamya+prayoga",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "madana+ānanda+lakṣaṇam",
+     "gloss": "love-bliss-characterized",
+     "grounds": "compound madana+ānanda+lakṣaṇa",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is characterized by love-bliss practice?",
+   "premises": [
+    "accessible and inaccessible practice is used",
+    "love-bliss is the characteristic"
+   ],
+   "inference": "The practice of accessible and inaccessible is characterized by love-bliss.",
+   "uncertainties": [
+    "practice details unspecified"
+   ],
+   "plain_english": "By the practice of accessible and inaccessible, it is characterized by love-bliss."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "kulajā",
+     "gloss": "Kula-born",
+     "grounds": "compound kula+ja",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "how",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñātā",
+     "gloss": "known",
+     "grounds": "participle of vijñā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varṇa+rāśi+kula+ātmikām",
+     "gloss": "caste-multitude-Kula-natured",
+     "grounds": "compound varṇa+rāśi+kula+ātmikā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Why is Kula-born not known as caste-multitude?",
+   "premises": [
+    "Kula-born is asked about",
+    "caste-multitude Kula-natured is not known"
+   ],
+   "inference": "The verse questions why Kula-born is not recognized as caste-multitude Kula-natured.",
+   "uncertainties": [
+    "technical terms unspecified"
+   ],
+   "plain_english": "How is Kula-born not known as caste-multitude Kula-natured?"
+  }
+ ]
+}

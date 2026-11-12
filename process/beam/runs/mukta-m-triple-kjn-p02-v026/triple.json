@@ -1,0 +1,1163 @@
+{
+ "song": "kjn-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "jñānagamyaṃ",
+     "gloss": "knowledge-accessible",
+     "grounds": "compound jñāna+gamya",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pāramparyakramāgatam",
+     "gloss": "tradition-sequence-come",
+     "grounds": "compound pāramparya+krama+āgata",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What kind of liṅga is accessible through knowledge and comes by traditional sequence?",
+   "premises": [
+    "The liṅga is knowledge-accessible.",
+    "It is always present.",
+    "It comes by traditional sequence."
+   ],
+   "inference": "The supreme liṅga is known through knowledge and lineage.",
+   "uncertainties": [
+    "Exact compound parsing may vary."
+   ],
+   "plain_english": "The liṅga accessible to knowledge, always present, comes through traditional sequence."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṣṭhaṃ",
+     "gloss": "wood",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛṇmayaṃ",
+     "gloss": "clay-made",
+     "grounds": "compound mṛd+maya",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śailaratnasambhavam",
+     "gloss": "stone-gem-born",
+     "grounds": "compound śaila+ratna+sambhava",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "Which material liṅgas are rejected as the true liṅga?",
+   "premises": [
+    "Wooden liṅga is not it.",
+    "Clay-made liṅga is not it.",
+    "Stone or gem-born liṅga is not it."
+   ],
+   "inference": "The true liṅga is not made of ordinary materials.",
+   "uncertainties": [
+    "Material list may be illustrative."
+   ],
+   "plain_english": "The true liṅga is not wood, clay, stone, or gem."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "sphaṭikaṃ",
+     "gloss": "crystal",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maulikaṃ",
+     "gloss": "pearl",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trapuṃ",
+     "gloss": "tin",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sīsakatāmrajam",
+     "gloss": "lead-copper-born",
+     "grounds": "compound sīsaka+tāmra+ja",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which additional materials are excluded from the true liṅga?",
+   "premises": [
+    "Crystal is excluded.",
+    "Pearl is excluded.",
+    "Tin, lead, and copper-born forms are excluded."
+   ],
+   "inference": "The true liṅga is not any material object.",
+   "uncertainties": [
+    "Grammatical case may vary by reading."
+   ],
+   "plain_english": "Crystal, pearl, tin, lead, and copper-born forms are not the true liṅga."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "aṣṭādaśa",
+     "gloss": "eighteen",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "lokaśāstrāṇi",
+     "gloss": "world-scriptures",
+     "grounds": "compound loka+śāstra",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "krurāḥ",
+     "gloss": "cruel",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhyātmikāḥ",
+     "gloss": "spiritual",
+     "grounds": "adjective",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of scriptures and beings are described as cruel?",
+   "premises": [
+    "Eighteen world scriptures are mentioned.",
+    "They are cruel.",
+    "Spiritual ones are likewise mentioned."
+   ],
+   "inference": "The verse contrasts worldly and spiritual scriptural categories.",
+   "uncertainties": [
+    "Exact referent of krurāḥ is unclear."
+   ],
+   "plain_english": "Eighteen world scriptures and spiritual ones are mentioned as cruel."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "reason",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "paśavo",
+     "gloss": "bound-souls",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jñānavarjitāḥ",
+     "gloss": "knowledge-devoid",
+     "grounds": "compound jñāna+varjita",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "Why are bound souls devoid of knowledge?",
+   "premises": [
+    "The question asks for a reason.",
+    "Bound souls are addressed.",
+    "They are devoid of knowledge."
+   ],
+   "inference": "The verse poses the problem of ignorance among bound souls.",
+   "uncertainties": [
+    "No explicit answer in this verse."
+   ],
+   "plain_english": "O great goddess, why are bound souls devoid of knowledge?"
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-them",
+     "grounds": "pronoun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "with",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgabhoktavyaṃ",
+     "gloss": "association-to-be-enjoyed",
+     "grounds": "compound saṅga+bhoktavya",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "dravyasaṃgraham",
+     "gloss": "wealth-accumulation",
+     "grounds": "compound dravya+saṃgraha",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What conduct is forbidden with bound souls?",
+   "premises": [
+    "Association with them is not to be enjoyed.",
+    "One should not do it.",
+    "Wealth accumulation is also forbidden."
+   ],
+   "inference": "The verse forbids association and wealth accumulation with bound souls.",
+   "uncertainties": [
+    "tu may be emphatic rather than instrumental."
+   ],
+   "plain_english": "Do not associate with them for enjoyment, and do not accumulate wealth."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "yakṣa",
+     "gloss": "yakṣas",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gāndharva",
+     "gloss": "gandharvas",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "siddhāḥ",
+     "gloss": "siddhas",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛṇagulma",
+     "gloss": "grass-shrub",
+     "grounds": "compound tṛṇa+gulma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pipīlikāḥ",
+     "gloss": "ants",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which beings and natural forms are listed together?",
+   "premises": [
+    "Yakṣas are listed.",
+    "Gandharvas and siddhas are listed.",
+    "Grass, shrubs, and ants are listed."
+   ],
+   "inference": "The verse enumerates diverse beings and natural forms.",
+   "uncertainties": [
+    "Syntactic relation to surrounding verse is unclear."
+   ],
+   "plain_english": "Yakṣas, gandharvas, siddhas, grass, shrubs, and ants are listed."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "niṣkrāntā",
+     "gloss": "gone-forth",
+     "grounds": "participle",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "bindumadhye",
+     "gloss": "bindu-middle",
+     "grounds": "compound bindu+madhya",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laulībhūta",
+     "gloss": "dissolved-become",
+     "grounds": "compound laulī+bhūta",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "ntu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "that-equal",
+     "grounds": "compound tat+sama",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What happens to what has gone forth in the bindu middle?",
+   "premises": [
+    "What has gone forth is in the bindu middle.",
+    "It becomes dissolved.",
+    "It becomes equal to that."
+   ],
+   "inference": "The verse describes dissolution and equality in the bindu.",
+   "uncertainties": [
+    "ntu may be a variant particle."
+   ],
+   "plain_english": "What has gone forth in the bindu middle becomes dissolved and equal to that."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "sphurantan",
+     "gloss": "vibrating",
+     "grounds": "participle",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "nirmalan",
+     "gloss": "stainless",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "eternal",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "aprameyaṃ",
+     "gloss": "immeasurable",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "sadoditam",
+     "gloss": "always-proclaimed",
+     "grounds": "compound sadā+udita",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What are the qualities of the supreme liṅga?",
+   "premises": [
+    "It is vibrating.",
+    "It is stainless and eternal.",
+    "It is immeasurable and always proclaimed."
+   ],
+   "inference": "The supreme liṅga has luminous eternal qualities.",
+   "uncertainties": [
+    "Subject is implied from context."
+   ],
+   "plain_english": "It vibrates, is stainless, eternal, immeasurable, and always proclaimed."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgavaraṃ",
+     "gloss": "liṅga-supreme",
+     "grounds": "compound liṅga+vara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "abs + root jñā"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "abs + root dṛś"
+    },
+    {
+     "surface": "mokṣasya",
+     "gloss": "liberation-of",
+     "grounds": "noun genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhājanaḥ",
+     "gloss": "partaker",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What results from knowing and seeing the supreme liṅga?",
+   "premises": [
+    "This supreme liṅga is known.",
+    "It is seen.",
+    "One becomes a partaker of liberation."
+   ],
+   "inference": "Knowledge and vision of the supreme liṅga lead to liberation.",
+   "uncertainties": [
+    "bhājanaḥ may mean vessel or recipient."
+   ],
+   "plain_english": "Knowing and seeing this supreme liṅga makes one a partaker of liberation."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyet",
+     "gloss": "is-destroyed",
+     "grounds": "verb optative",
+     "morph": "3.sg.mid-opt + root naś"
+    },
+    {
+     "surface": "agninā",
+     "gloss": "by-fire",
+     "grounds": "noun instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pated",
+     "gloss": "falls",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt + root pad"
+    },
+    {
+     "surface": "vajratāḍitam",
+     "gloss": "by-thunderbolt-struck",
+     "grounds": "compound vajra+tāḍita",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "Is the true liṅga destroyed by fire or thunderbolt?",
+   "premises": [
+    "It is not destroyed by fire.",
+    "It does not fall when struck by thunderbolt.",
+    "The liṅga remains intact."
+   ],
+   "inference": "The true liṅga is indestructible by fire and thunderbolt.",
+   "uncertainties": [
+    "Optative forms may be prohibitive."
+   ],
+   "plain_english": "The liṅga is not destroyed by fire and does not fall when struck by thunderbolt."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt + root arc"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental",
+     "grounds": "adjective instrumental",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "flowers",
+     "grounds": "noun instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sugandhaiḥ",
+     "gloss": "with-fragrant",
+     "grounds": "adjective instrumental",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "dhūpadīpitaiḥ",
+     "gloss": "with-incense-lamps",
+     "grounds": "compound dhūpa+dīpita",
+     "morph": "adj.inst.pl.m"
+    }
+   ],
+   "question": "How should the liṅga be worshipped mentally?",
+   "premises": [
+    "One should worship.",
+    "With mental flowers.",
+    "With fragrant incense and lamps."
+   ],
+   "inference": "Mental worship uses inner flowers, fragrance, incense, and lamps.",
+   "uncertainties": [
+    "mānasaiḥ may modify all offerings."
+   ],
+   "plain_english": "Worship with mental flowers, fragrant offerings, incense, and lamps."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "tṛtīyan",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dayāpuṣpam",
+     "gloss": "compassion-flower",
+     "grounds": "compound dayā+puṣpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāvapuṣpañ",
+     "gloss": "devotion-flower",
+     "grounds": "compound bhāva+puṣpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthakam",
+     "gloss": "fourth",
+     "grounds": "ordinal",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which flowers are counted as third and fourth?",
+   "premises": [
+    "The third is compassion-flower.",
+    "Devotion-flower is also mentioned.",
+    "The fourth is indicated."
+   ],
+   "inference": "Compassion and devotion are counted among worship flowers.",
+   "uncertainties": [
+    "Exact numbering sequence is incomplete."
+   ],
+   "plain_english": "The third is compassion-flower, devotion-flower is mentioned, and the fourth is indicated."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "ordinal",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dhyānapuṣpan",
+     "gloss": "meditation-flower",
+     "grounds": "compound dhyāna+puṣpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānapuṣpan",
+     "gloss": "knowledge-flower",
+     "grounds": "compound jñāna+puṣpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamam",
+     "gloss": "eighth",
+     "grounds": "ordinal",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which flowers are counted as seventh and eighth?",
+   "premises": [
+    "The seventh is meditation-flower.",
+    "Knowledge-flower is mentioned.",
+    "The eighth is indicated."
+   ],
+   "inference": "Meditation and knowledge are counted among worship flowers.",
+   "uncertainties": [
+    "Exact numbering sequence is incomplete."
+   ],
+   "plain_english": "The seventh is meditation-flower, knowledge-flower is mentioned, and the eighth is indicated."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "bhuktimuktim",
+     "gloss": "enjoyment-liberation",
+     "grounds": "compound bhukti+mukti",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb present",
+     "morph": "3.sg.act-pres + root āp"
+    },
+    {
+     "surface": "dehaliṅgārcanena",
+     "gloss": "body-liṅga-worship",
+     "grounds": "compound deha+liṅga+arcana",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is obtained by worshipping the body-liṅga?",
+   "premises": [
+    "Enjoyment and liberation are obtained.",
+    "This is by body-liṅga worship.",
+    "The result is stated directly."
+   ],
+   "inference": "Worship of the body-liṅga yields enjoyment and liberation.",
+   "uncertainties": [
+    "bhuktimuktim may be dual accusative."
+   ],
+   "plain_english": "By worshipping the body-liṅga one obtains enjoyment and liberation."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "manoliṅgaṃ",
+     "gloss": "mind-liṅga",
+     "grounds": "compound mano+liṅga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "verb optative",
+     "morph": "3.sg.act-opt + root dhyā"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "phalasamīkṛte",
+     "gloss": "fruit-equated",
+     "grounds": "compound phala+samīkṛta",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "How should the mind-liṅga be meditated upon?",
+   "premises": [
+    "The mind-liṅga is always meditated upon.",
+    "It is related to fruit.",
+    "It is equated with fruit."
+   ],
+   "inference": "Meditation on the mind-liṅga is tied to fruit.",
+   "uncertainties": [
+    "Repeated yāṃ may be textual or emphatic."
+   ],
+   "plain_english": "Always meditate on the mind-liṅga, which is equated with fruit."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kaulikandevi",
+     "gloss": "o-kaulikā",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dehaliṅgasya",
+     "gloss": "body-liṅga-of",
+     "grounds": "compound deha+liṅga",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What characteristic of the body-liṅga is being taught?",
+   "premises": [
+    "This is told to you.",
+    "O kaulikā is addressed.",
+    "It is the characteristic of the body-liṅga."
+   ],
+   "inference": "The verse presents the defining mark of the body-liṅga.",
+   "uncertainties": [
+    "kaulikandevi may be a fused vocative."
+   ],
+   "plain_english": "This, O kaulikā, is the characteristic of the body-liṅga."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "laukikam",
+     "gloss": "worldly",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "mārgasampannā",
+     "gloss": "path-endowed",
+     "grounds": "compound mārga+sampanna",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "siddhimuktivivarjitā",
+     "gloss": "attainment-liberation-devoid",
+     "grounds": "compound siddhi+mukti+vivarjita",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is the limitation of the worldly path?",
+   "premises": [
+    "The worldly path is endowed.",
+    "It is devoid of attainment.",
+    "It is devoid of liberation."
+   ],
+   "inference": "The worldly path lacks true attainment and liberation.",
+   "uncertainties": [
+    "Subject is implied."
+   ],
+   "plain_english": "The worldly path, though endowed, is devoid of attainment and liberation."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "bahisthā",
+     "gloss": "external",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vāsanā",
+     "gloss": "latent-impression",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "bound-soul",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṅgarañjitaḥ",
+     "gloss": "limb-colored",
+     "grounds": "compound aṅga+rañjita",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Who is called a bound soul?",
+   "premises": [
+    "External latent impression belongs to him.",
+    "He is a bound soul.",
+    "He is limb-colored."
+   ],
+   "inference": "One with external latent impressions is a bound soul.",
+   "uncertainties": [
+    "aṅgarañjitaḥ may mean adorned limbs."
+   ],
+   "plain_english": "He whose latent impression is external is a bound soul, limb-colored."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaktisaṃyukte",
+     "gloss": "devotion-endowed",
+     "grounds": "compound bhakti+saṃyukta",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaktivarjite",
+     "gloss": "devotion-devoid",
+     "grounds": "compound bhakti+varjita",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "To whom should gifts be given?",
+   "premises": [
+    "Gifts are to be given.",
+    "They are given to one endowed with devotion.",
+    "They are not given to one devoid of devotion."
+   ],
+   "inference": "Gifts should go to the devoted, not the devotionless.",
+   "uncertainties": [
+    "dātavyaṃ and deyaṃ may be synonymous."
+   ],
+   "plain_english": "Give to one endowed with devotion, not to one devoid of devotion."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "candradvīpavinirgate",
+     "gloss": "candra-island-emerged",
+     "grounds": "compound candra+dvīpa+vinirgata",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter emerges in the candra island?",
+   "premises": [
+    "It emerges in candra island.",
+    "It is the third.",
+    "It is a chapter."
+   ],
+   "inference": "The third chapter emerges in the candra island.",
+   "uncertainties": [
+    "candradvīpa may be a place name."
+   ],
+   "plain_english": "The third chapter emerges in the candra island."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nirmalan",
+     "gloss": "stainless",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tvatprasādena",
+     "gloss": "your-grace-by",
+     "grounds": "compound tvat+prasāda",
+     "morph": "inst.sg"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "o-bhairava",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What does the speaker request from Bhairava?",
+   "premises": [
+    "Today is the time.",
+    "A stainless body is requested.",
+    "It is by your grace."
+   ],
+   "inference": "The speaker asks Bhairava for a stainless body by grace.",
+   "uncertainties": [
+    "nirmalan may modify dehaṃ."
+   ],
+   "plain_english": "Today, O Bhairava, grant me a stainless body by your grace."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "nigrahānugrahañ",
+     "gloss": "restraint-grace",
+     "grounds": "compound nigraha+anugraha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krāmaṇaṃ",
+     "gloss": "movement",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "haraṇaṃ",
+     "gloss": "removal",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What powers or processes are listed together?",
+   "premises": [
+    "Restraint and grace are listed.",
+    "Movement is listed.",
+    "Removal is likewise listed."
+   ],
+   "inference": "The verse enumerates restraint, grace, movement, and removal.",
+   "uncertainties": [
+    "Exact doctrinal referents are unclear."
+   ],
+   "plain_english": "Restraint, grace, movement, and removal are listed together."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "pronoun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sarvasaṃkṣepāt",
+     "gloss": "all-briefly",
+     "grounds": "compound sarva+saṃkṣepa",
+     "morph": "abl.sg"
+    },
+    {
+     "surface": "tvameva",
+     "gloss": "you-alone",
+     "grounds": "compound tvam+eva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaraṇaṅgatā",
+     "gloss": "refuge-gone",
+     "grounds": "compound śaraṇa+gata",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How has the speaker taken refuge in the divine?",
+   "premises": [
+    "The question asks how.",
+    "All is summarized briefly.",
+    "You alone are refuge-gone."
+   ],
+   "inference": "The speaker has taken refuge in the divine alone, summarized briefly.",
+   "uncertainties": [
+    "śaraṇaṅgatā may be a participle."
+   ],
+   "plain_english": "How have I, in brief summary, taken refuge in you alone?"
+  }
+ ]
+}
