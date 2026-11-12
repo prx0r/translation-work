@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What result follows from practicing this breath discipline for one full year?",
+ "question": "For what duration must the practice be done so that old age and death are destroyed?",
  "premises": [
-  "The practice is continued for one year.",
-  "The condition is that it has been practiced.",
-  "The stated result is the destruction of old age and death."
+  "The practice is done for one year.",
+  "When it has been practiced for one year, a condition is met.",
+  "Under that condition, old age and death are destroyed."
  ],
- "inference": "When practiced for one year, this discipline destroys old age and death.",
- "uncertainties": [],
- "plain_english": "When this has been practiced for one year, old age and death are destroyed."
+ "inference": "When practiced for one year, old age and death are destroyed.",
+ "uncertainties": [
+  "The exact practice referred to is not named in this verse."
+ ],
+ "plain_english": "When practiced for one year, old age and death are destroyed."
 }

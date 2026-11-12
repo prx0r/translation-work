@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "bhū",
-   "morph": "compound: bhū+gṛhe",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "gṛhe",
    "morph": "n.loc.sg",
-   "grounds": "location"
+   "grounds": "type of place"
   },
   {
    "lemma": "nirjane",
@@ -20,22 +20,22 @@
   {
    "lemma": "sthāne",
    "morph": "n.loc.sg",
-   "grounds": "location"
+   "grounds": "general location"
   },
   {
    "lemma": "daṃśa",
-   "morph": "compound: daṃśa+maśaka+varjite",
+   "morph": "compound-member",
    "grounds": "first member of compound"
   },
   {
    "lemma": "maśaka",
-   "morph": "compound: daṃśa+maśaka+varjite",
+   "morph": "compound-member",
    "grounds": "second member of compound"
   },
   {
    "lemma": "varjite",
    "morph": "n.loc.sg",
-   "grounds": "quality of place"
+   "grounds": "absence of pests"
   }
  ]
 }

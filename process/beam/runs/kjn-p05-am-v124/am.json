@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to venom is claimed for the practitioner's body after this discipline?",
+ "question": "Under what condition does poison fail to enter the body, even if bitten by great serpents?",
  "premises": [
-  "The body may be bitten by great serpents.",
-  "Poison is the potential threat.",
-  "Poison does not enter the body."
+  "Poison does not enter the body.",
+  "This holds even if one has been bitten.",
+  "The biting is by great serpents."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the practitioner's body.",
- "uncertainties": [],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "uncertainties": [
+  "The reason for this immunity is not stated in this verse."
+ ],
+ "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }

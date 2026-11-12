@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 110,
- "question": "What status is attributed to the soul immediately upon leaving the body?",
+ "question": "Under what minimal condition is the referent called the supreme Śiva?",
  "premises": [
-  "The condition is merely leaving the body.",
-  "The subject is then designated by a new status.",
-  "That status is supreme Śiva."
+  "The referent is 'he'.",
+  "The condition given is merely the leaving of the body.",
+  "Upon that condition, he is called the supreme Śiva."
  ],
- "inference": "Upon merely leaving the body, the soul is called the supreme Śiva.",
- "uncertainties": [],
- "plain_english": "As soon as it leaves the body, it is called the supreme Śiva."
+ "inference": "Upon merely leaving the body, the referent is called the supreme Śiva.",
+ "uncertainties": [
+  "It is not stated whether this is a designation for all or for the qualified."
+ ],
+ "plain_english": "He, upon merely leaving the body, is called the supreme Śiva."
 }

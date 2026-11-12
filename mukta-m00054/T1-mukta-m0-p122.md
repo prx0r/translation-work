@@ -29,13 +29,13 @@
 [nisa-carin](niśācāriṇe) [namas](namaḥ) [pinaka-dhrs](pinākadhṛṣe) [namas](namaḥ) [nimitta-stha](nimittasthāya) [namas](namaḥ)
 
 ## mukta-m0-p122-v3035
-[nimitta](nimittāya) [namas](namaḥ) [nanday](nandaye) [namas](namaḥ) [nandikara](nandikarāya) [namas](namaḥ)
+[nimitta](nimittāya) [namas](namaḥ) [nanday](nandaye) [namas](namaḥ) [nandikara](nandika rāya) [namas](namaḥ)
 
 ## mukta-m0-p122-v3036
 [hara](haraye) [namas](namaḥ) [nandi-isvara](nandīśvarāya) [namas](namaḥ) [nandin](nandine) [namas](namaḥ)
 
 ## mukta-m0-p122-v3037
-[nihantr](nihantr̥e) [namas](namaḥ) [kala](kālāya) [namas](namaḥ) [brahman](brahmaṇe) [namas](namaḥ)
+[nihantr](nihantr) [namas](namaḥ) [kala](kālāya) [namas](namaḥ) [brahman](brahmaṇe) [namas](namaḥ)
 
 ## mukta-m0-p122-v3038
 [pita-maha](pitāmahāya) [namas](namaḥ) [catur-mukha](caturmmukhāya) [namas](namaḥ)
@@ -50,7 +50,7 @@
 [yoga-adhyaksa](yogādhyakṣāya) [namas](namaḥ) [yuga-avaha](yugāvahāya) [namas](namaḥ)
 
 ## mukta-m0-p122-v3042
-[ bija-adhyaksa](bījādhyakṣāya) [namas](namaḥ) [bija-kartr](bījakarttr̥e) [namas](namaḥ)
+[ bija-adhyaksa](bījādhyakṣāya) [namas](namaḥ) [bija-kartr](bījakarttre) [namas](namaḥ)
 
 ## mukta-m0-p122-v3043
 [adhyatma-anugata](adhyātmānugatāya) [namas](namaḥ) [bala](balāya) [namas](namaḥ) [itihasa](itihāsāya) [namas](namaḥ)
@@ -59,7 +59,7 @@
 [vasya](vaśyāya) [namas](namaḥ) [vasa-kara](vaśakarāya) [namas](namaḥ) [kala](kalaye) [namas](namaḥ)
 
 ## mukta-m0-p122-v3045
-[loka-kartr](lokakarttr̥e) [namas](namaḥ) [pasu-pati](paśupataye) [namas](namaḥ) [maha-kartr](mahākarttr̥e) [namas](namaḥ)
+[loka-kartr](lokakarttre) [namas](namaḥ) [pasu-pati](paśupataye) [namas](namaḥ) [maha-kartr](mahākarttre) [namas](namaḥ)
 
 ## mukta-m0-p122-v3046
 [anausadha](anauṣadhāya) [namas](namaḥ) [aksara](akṣarāya) [namas](namaḥ) [parama-brahman](paramabrahmaṇe) [namas](namaḥ)
