@@ -327,7 +327,7 @@ def recycle(dry_run: bool = False) -> dict:
 @mcp.tool()
 def watchdog() -> dict:
     """Alias of progress(): hourly health line with flags (for scheduled tasks)."""
-    return _run(["--", "watchdog_progress.py"])
+    return _run(["tools/watchdog_progress.py"])
 
 
 @mcp.tool()
@@ -335,7 +335,7 @@ def progress() -> dict:
     """One-shot system health + progress watchdog (queue counts, workers,
     failure classes, assembled songs, host load/mem/disk, flags). Safe to
     call hourly from a ChatGPT scheduled task."""
-    return _run(["--", "watchdog_progress.py"])
+    return _run(["tools/watchdog_progress.py"])
 
 
 @mcp.tool()

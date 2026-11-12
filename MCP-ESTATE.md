@@ -10,7 +10,8 @@ of these as a custom connector.*
 
 | Endpoint | Kind | Backend (systemd) | Local port | Tools / routes |
 |---|---|---|---|---|
-| **https://mcp.svatantrya.net/mcp** | MCP (Streamable HTTP) | `tw-mcp.service` | 8930 | **25** — translation/shastra + full bibliography |
+| **https://shastra.svatantrya.net/mcp** | MCP (Streamable HTTP) | `tw-mcp.service` | 8930 | **29** — operator (swarm/ops) + bibliography |
+| https://mcp.svatantrya.net/mcp | MCP (site federation) | (federation gateway) | — | 40 — openpatala/scholar/formal/translate read sheaf |
 | **https://book.svatantrya.net/mcp** | MCP (Streamable HTTP) | `bookfactory-mcp.service` | 8950 | **22** — book factory |
 | **https://video.svatantrya.net/mcp** | MCP (Streamable HTTP) | `videofactory-mcp.service` | 8951 | **18** — video factory |
 | **https://patala.svatantrya.net** | REST (read-only) | `openpatala-api.service` | 8802 | **46** `/v1/*` + `/health` + `/openapi.json` |
@@ -29,7 +30,8 @@ ChatGPT / agents ──HTTPS──▶ *.svatantrya.net   (Cloudflare, proxied)
                                   ▼
               svatantrya-tunnel.service  (cloudflared, named tunnel 2131eb3e)
                                   │  ingress (REMOTE-managed config):
-                                  │    mcp.svatantrya.net   → 127.0.0.1:8930
+                                  │    shastra.svatantrya.net → 127.0.0.1:8930
+                                  │    mcp.svatantrya.net    → site federation
                                   │    book.svatantrya.net  → 127.0.0.1:8950
                                   │    video.svatantrya.net → 127.0.0.1:8951
                                   │    patala.svatantrya.net→ 127.0.0.1:8802
@@ -66,7 +68,7 @@ journalctl -u svatantrya-tunnel -n 30   # tunnel connection + loaded config
 
 ## 4. Tool catalogs
 
-### 4.1 `mcp.svatantrya.net` — shastra / translation (25)
+### 4.1 `shastra.svatantrya.net` — operator / translation (29)
 Bibliography base layer: `bibliography`, `priority`, `schema`, `stats`, `works`,
 `editions`, `links`, `availability`.
 Translation loop: `status`, `recon`, `lore`, `concepts`, `skill`,

@@ -1,73 +1,148 @@
-# CHATGPT OPERATOR — take over the translation machine
+# CHATGPT-OPERATOR.md — run the translation machine from ChatGPT (MCP)
 
-*You (ChatGPT) are the assessor/driver. The beams (3 free workers) do the
-drafting; systemd keeps them alive. You control via the MCP tools below.*
+*You are the operator/assessor. You monitor the free beam workers hourly, keep the
+queue healthy, review drafts, assemble/promote machine-proposed results, and
+troubleshoot — all through MCP tool calls. You do NOT sign off, mint PASS, or
+publish; the human holds those. Machine-proposed means needs-human-review.*
 
-## 0. Connect
+---
 
-MCP URL (streamable HTTP): `https://mcp.svatantrya.net/mcp`
-Tools appear as `shastra__*`. Permanent: `https://mcp.svatantrya.net/mcp` (named tunnel, survives reboots).
+## 0. Connect (once)
 
-## 1. Your control surface (MCP tools)
+ChatGPT → **Settings → Connectors → Add custom connector**.
 
-| Tool | Use |
-|---|---|
-| `shastra.progress` / `shastra.watchdog` | health line: queue, workers, failure classes, host, **flags** |
-| `shastra.swarm_workers` `{action:"start"/"stop"/"status", target:"3"}` | start/stop beams |
-| `shastra.swarm_status` | queue by kind/status + worker liveness |
-| `shastra.swarm_seed` `{work,song}` | seed triples (24-verse windows default) |
-| `shastra.recycle` | halve + requeue retryable failures |
-| `shastra.queue_guard` `{fix:true}` | duplicate/overlap/undersized check |
-| `shastra.assemble` `{work,song}` | assemble a completed song → validate → proof |
-| `shastra.validate` | deterministic gates for one song |
-| `shastra.gates` | global gate (manifest/proof/coverage) |
-| `shastra.review_sweep` | mechanical review of DONE tasks |
-| `shastra.status` `{work}` | one work's truth |
-| `shastra.supervise` | supervisor/worker state |
+| Purpose | MCP URL | Tools |
+|---|---|---|
+| **Operator (this doc)** | `https://shastra.svatantrya.net/mcp` | 29 — swarm/ops + bibliography |
+| Site federation (openpatala/scholar/formal) | `https://mcp.svatantrya.net/mcp` | 40 — read sheaf |
+| Book factory | `https://book.svatantrya.net/mcp` | 22 |
+| Video factory | `https://video.svatantrya.net/mcp` | 18 |
+| OpenPatala REST (not MCP) | `https://patala.svatantrya.net` | 46 `/v1/*` |
 
-## 2. Hourly scheduled task (paste this)
+On `shastra.svatantrya.net` tool names are bare (`progress`, `swarm_status`, …).
+ChatGPT may display them as `shastra__progress`.
 
-1. `shastra.progress` → if `flags` non-empty: act on them:
-   - `NO_WORKERS_WITH_PENDING_QUEUE` → `swarm_workers start target=3`
-   - `NO_BEAM_CALLS_RECORDED` → check `swarm_status`; if pending>0 and
-     workers>0, wait one cycle; else `swarm_workers start`
-   - `LOW_DISK` / `LOW_MEM` → report to owner, do not start new work
-2. If `queue.pending < 40` → `recycle` then `swarm_status`; if still <40,
-   ask owner which works to onboard next (never onboard without a
-   researched brief — see §4).
-3. Report one line: done Δ, pending, workers, assembled songs, top failure.
+If a scripted client gets `403`, it sent `User-Agent: Python-urllib/…` (edge
+filter). Use any real UA.
 
-## 3. Weekly task
+---
 
-`gates` → if RED, `review_sweep` then `validate` the failing song; report
-only (never promote prose unattended). `swarm_status` → if one failure
-class >20% of last 50, flag a prompt fix (do not lower the review bar).
+## 1. What you can and cannot do
 
-## 4. Hard rules you must not break
+**CAN:** monitor health/queue/workers; start/stop beam workers; seed draft tasks;
+recycle dead tasks; run queue hygiene; mechanical review sweep; bounce bad drafts
+with notes; assemble completed songs; validate; run the global gate; promote
+**after owner review**; look up bibliography/priority/availability.
 
-1. **Never seed a work with no researched brief** in
-   `process/beam/lore/<work>.md` containing `## A.` FACTS + `## D. TRAPS`
-   + a Ledger. Scaffolds are forbidden (owner 2026-11-11).
-2. **24-verse windows default**, ≤60 max, halve only on bounce.
-3. **Never mark PASS / never push** — promotion is owner-only; commits are
-   the owner's.
-4. **Duplicate prevention**: `queue_guard` before any bulk seeding;
-   `work_aliases.json` wins over titles (vbt IS Vijñānabhairava).
-5. Beam is **free-tier only**; never add paid models.
+**CANNOT / MUST NOT:** mint PASS, sign off, publish, push to git, or call
+`promote` without the owner's go-ahead. The beams (free tier) do the drafting;
+you direct and check.
 
-## 5. If something is broken
+---
 
-Read `BUGS.md` (root causes + fixes) then `MUKTABODHA-RUNBOOK.md` (the
-canonical procedure). Code map: `tools/beam_swarm.py` (prompt + worker),
-`tools/auto_burn.py` (T1→seed), `tools/assemble_all.py` (gold),
-`tools/recycle_failed.py`, `tools/queue_guard.py`, `tools/work_state.py`.
+## 2. The hourly loop (copy this as a scheduled task)
 
-## 6. Current backlog you inherit
+**Every hour, run exactly this and report one line:**
 
-- Queue: ~177 pending triples (Kularnava/Svacchanda/Netra/KJN/VTN)
-- Assembled gold: kularnava p01–p04
-- Briefs researched: Kularnava, Netra, Svacchanda, Kaulajñāna, Vātūlanātha,
-  Mahānayaprakāśa, Cidgaganacandrikā, Mahārthamañjarī, Yoginīhṛdaya,
-  Vāmakeśvarīmata, Tantrarāja, Mṛgendra, Kiraṇa, Kālottara, Somaśambhu
-- Briefs still to research: Kubjikā, Siddhilakṣmī, Bṛhattantrasāra, Tārā,
-  Kalpavṛkṣa, Janmamaraṇavicāra, Kiñcitatantra
+1. **`progress`** — read `queue`, `workers_alive`, `last_beam_call`, `flags`,
+   `host`. Act on flags:
+   - `NO_WORKERS_WITH_PENDING_QUEUE` → `swarm_workers {action:"start", target:"1"}`
+     (add `w2`,`w3` only if `progress` shows beam healthy and pending > 80).
+   - `NO_BEAM_CALLS_RECORDED` → check `swarm_status`; if pending>0 and workers>0,
+     wait one cycle; else `swarm_workers {action:"start", target:"1"}`.
+   - `LOW_MEM`/`LOW_DISK` → report to owner, do not start work.
+2. **`swarm_status`** — if `pending < 40`:
+   - `recycle {dry_run:false}` (halve + requeue retryable failures), then re-read.
+   - still `< 40` → **ask the owner which works to onboard** (never onboard without
+     a researched brief — `onboard_wave` enforces `brief_gate`).
+3. **`gates`** — if RED (non-empty failures), run `review_sweep`, then report the
+   failing song; do not auto-approve prose.
+4. **Failure triage** — if `failure_classes_top5` shows one class >20% of recent
+   failures, run `beam_review {max_new:2}`; if it is mechanical (session
+   hypothesis), report "prompt fix: <class>" to the owner.
+5. **Queue hygiene** — weekly (or when overlaps suspected): `queue_guard {fix:true}`.
+6. **Report one line:** `doneΔ / pending / workers / assembled / top-failure / flags`.
+
+Scheduled-task prompt (paste into ChatGPT tasks):
+```
+Every hour: call progress, swarm_status, gates on shastra.svatantrya.net.
+Act on flags per CHATGPT-OPERATOR.md §2 (start ≤1 worker first; recycle if
+pending<40; review_sweep if gates red). Never promote/publish. Reply with one
+status line: done / pending / workers / assembled / top-failure / flags.
+```
+
+---
+
+## 3. Driving a translation (when the owner picks a work)
+
+```
+priority {limit:10}                     → pick next (untranslated, shortest first)
+bibliography {catalog:"M00xxx"}         → what translations already exist
+recon {work:"mukta-m00xxx"}             → source spans, songs, what's missing
+swarm_seed {work, song, group:24}       → queue draft tasks (needs a lore brief)
+swarm_status                            → watch progress
+swarm_review {task_id}                  → read a DONE draft + checklist
+swarm_decide {task_id, verdict:"approve"|"bounce", note:"…"}  → queue verdict
+assemble {work, song}                   → working T1/L0 + data (machine-proposed)
+validate {work, song}                   → deterministic gates
+promote {work, song}                    → ONLY after owner review
+gates                                   → global gate green?
+```
+
+`swarm_seed` requires a transmission brief; if `recon`/`lore` shows none, tell the
+owner a brief is owed (you may draft it from web scholarship, owner approves).
+
+---
+
+## 4. Troubleshooting playbook
+
+| Symptom (`progress`/`swarm_status`) | Cause | Action |
+|---|---|---|
+| `workers_alive:0`, `pending>0` | workers exited/crashed | `swarm_workers {action:"start", target:"1"}` |
+| `last_beam_call` old, workers alive | beam throttled (429) | wait one cycle; if still stale, `swarm_workers {action:"status"}`, start one |
+| one task re-claimed forever, same verse error | poison (schema/premise) | `recycle {dry_run:false}`; if persists, owner/escalate |
+| `failed` climbing, one class dominant | prompt/packet issue | `beam_review`, report "prompt fix" |
+| `pending` overlaps/dupes | seeder bug | `queue_guard {fix:true}` |
+| gates RED (manifest/proof) | drift or unshipped | `review_sweep`; report failing song; do NOT approve prose |
+| `LOW_MEM`/`LOW_DISK` | box pressure | stop starting work; report |
+
+Failure classes seen: `question rejected`, `premise too short`, `schema fail`,
+`surface drift`, `l2 too short`. All are RETRYABLE at a smaller window →
+`recycle` halves them.
+
+---
+
+## 5. Tool reference (operator surface, 29)
+
+Health/ops: `progress`, `watchdog` (alias), `supervise`, `swarm_status`,
+`swarm_workers {action:status|start|stop, target:"1|2|3|w4,w5"}`, `recycle
+{dry_run}`, `queue_guard {fix}`, `gates`.
+Drafting: `swarm_seed`, `swarm_review`, `swarm_decide`, `review_sweep`,
+`beam_review`, `assemble`, `validate`, `promote`.
+Per-work: `status`, `recon`, `lore`, `skill {name:"crystal-ipvv"|"largetext"}`,
+`concepts {term}`.
+Bibliography/priority: `bibliography`, `priority`, `schema`, `stats`, `works`,
+`editions`, `links`, `availability`.
+
+Skill law lives in `skills/crystal-ipvv/SKILL.md` (single-work quality) and
+`skills/largetext/SKILL.md` (swarm). Fetch with `skill` before judging a draft.
+
+---
+
+## 6. Safety / boundaries
+
+- Machine-proposed only. `promote` needs owner confirmation.
+- No git push, no PASS mint, no publish, no schedule-the-owner's-money.
+- The queue/queue files are shared; never edit them by hand — use the tools.
+- If the free tier is throttled, pause (progress flags) — do not hammer.
+
+---
+
+## 7. Self-check (run after connecting)
+
+```
+progress   → JSON with queue/workers/flags
+gates      → "VALIDATE_ALL: N failures"
+priority   → ranked rows (burn_rank, T_why)
+```
+If all three answer, you are the operator. Start the hourly loop.
