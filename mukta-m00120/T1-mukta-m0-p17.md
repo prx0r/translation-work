@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[according-to-alternative](anukalpaṃ) [in-kali](kalau) [O-auspicious-one](bhadre) [if-substance-absence](dravyābhāve) [abandon](parityajet)
+[secondary-rule](anukalpaṃ) [in-kali-age](kalau) [o-auspicious-one](bhadre) [substance+absence](dravya+abhāve) [one-should-abandon](parityajet)
 
 ## mukta-m0-p17-v402
-[offering-of-bali](balidānaṃ) [without](vinā) [O-goddess](devi) [violence](hiṃsā) [everywhere](sarvatra) [blameworthy](garhitā)
+[offering+giving](bali+dānaṃ) [without](vinā) [o-goddess](devi) [violence](hiṃsā) [everywhere](sarvatra) [is-censured](garhitā)
 
 ## mukta-m0-p17-v403
-[by-rite](vidhināpi) [brahmin](dvijaṃ) [cow](gāmbā) [having-killed](hatvā) [by-sins](pāpairna) [is-touched](lipyate)
+[by-rule+even](vidhinā+api) [twice-born](dvijaṃ) [cow+or](gām+bā) [having-killed](hatvā) [by-sins+not](pāpaiḥ+na) [is-tainted](lipyate)
 
 ## mukta-m0-p17-v404
-[offering-only](balimātraṃ) [twofold](dvidhā) [to-be-known](jñeyaṃ) [of-those-two](tayorbhedaṃ) [hear](śṛṇuṣva) [me](me)
+[offering+only](bali+mātraṃ) [twofold](dvidhā) [to-be-known](jñeyaṃ) [of-those-two+difference](tayoḥ+bhedaṃ) [hear](śṛṇuṣva) [of-me](me)
 
 ## mukta-m0-p17-v405
-[without-offering](balihīnā) [and](ca) [which](yā) [worship](pūjā) [that](sā) [worship](pūjā) [not](na) [fruit-giving](phalapradā)
+[offering+without](bali+hīnā) [and](ca) [which](yā) [worship](pūjā) [that](sā) [worship](pūjā) [not+fruit+giving](na+phala+pradā)
 
 ## mukta-m0-p17-v406
-[flesh-blood-etc-joined](māṃsaraktādisaṃyuktaṃ) [black-colored](kṛṣṇavarṇaṃ) [especially](viśeṣataḥ)
+[flesh+blood+etc.+endowed-with](māṃsa+rakta+ādi+saṃyuktaṃ) [black+color](kṛṣṇa+varṇaṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p17-v407
 [thus](evaṃ) [having-given](datvā) [offering](baliṃ) [complete](pūrṇaṃ) [fruit](phalam) [obtains](āpnoti) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p17-v408
-[woman](kāminīṃ) [by-horn-breaking](śṛṅgabhaṅgena) [one-eyed](kāṇena) [brother](bhrātaraṃ) [thus](tathā)
+[woman](kāminīṃ) [horn+breaking](śṛṅga+bhaṅgena) [one-eyed](kāṇena) [brother](bhrātaraṃ) [likewise](tathā)
 
 ## mukta-m0-p17-v409
-[killed](hataṃ) [friend](mitraṃ) [copper-backed](tāmrapṛṣṭhe) [fallen-glory](bhraṣṭaśrīḥ) [tail-less](pucchahīnataḥ)
+[killed](hataṃ) [friend](mitraṃ) [copper+backed](tāmra+pṛṣṭhe) [fallen+fortune](bhraṣṭa+śrīḥ) [tail+devoid](puccha+hīnataḥ)
 
 ## mukta-m0-p17-v410
-[of-him](tasyāpi) [killing](ghātane) [O-auspicious-one](bhadre) [own-son](svātmaputtraṃ) [perishes](vinaśyati)
+[of-that+also](tasya+api) [in-killing](ghātane) [o-auspicious-one](bhadre) [own+self+son](sva+ātma+puttraṃ) [is-destroyed](vinaśyati)
 
 ## mukta-m0-p17-v411
-[semen-deficient](śukralīne) [even](api) [old](vṛddhaṃ) [from-killing](hi) [ghātanād] [guru-killing](gurughātanam)
+[semen+depleted](śukra+līne) [or+devoid](gh: hīne) [also](api) [old](vṛddhaṃ) [indeed](hi) [from-killing](ghātanād) [guru+killing](guru+ghātanam)
 
 ## mukta-m0-p17-v412
-[offering](balidānaṃ) [vain](vṛthā) [of-him](tasya) [only](kevalaṃ) [creature](prāṇi) [killing](ghātanam)
+[offering+giving](bali+dānaṃ) [in-vain](vṛthā) [of-him](tasya) [merely](kevalaṃ) [living-being+killing](prāṇi+ghātanam) [or+animal](gh: paśu-)
 
 ## mukta-m0-p17-v413
-[worship-less](pūjāhīnasya) [fallen-state](bhraṣṭatvāt) [name-only](nāmamātrastu) [practitioner](sādhakaḥ)
+[worship+devoid](pūjā+hīnasya) [due-to-fallen-state](bhraṣṭatvāt) [name+only](nāma+mātraḥ) [indeed](tu) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p17-v414
-[rite](vidhānaṃ) [not](naiva) [to-be-done](kartavyaṃ) [offering](balidānaṃ) [only](hi) [measure](mātrakam)
+[procedure](vidhānaṃ) [not+indeed](na+eva) [to-be-done](kartavyaṃ) [offering+giving](bali+dānaṃ) [indeed](hi) [maternal](mātrakam)
 
 ## mukta-m0-p17-v415
-[fourteenth-chapter](caturdaśollāsaḥ)
+[fourteenth+chapter](caturdaśa+ullāsaḥ)
 
 ## mukta-m0-p17-v416
 [then](tadā) [meditation](dhyānaṃ) [always](sadā) [to-be-done](kāryaṃ) [vaiṣṇavī](vaiṣṇavīṃ) [supreme](paramāṃ) [auspicious](śivām)
 
 ## mukta-m0-p17-v417
-[śaiva-practice](śaivācāramidaṃ) [declared](proktaṃ) [by-paśu-practice](paśvācāreṇa) [worship](pūjayet)
+[śaiva+conduct](śaiva+ācāram) [this](idaṃ) [declared](proktaṃ) [paśu+conduct](paśu+ācāreṇa) [one-should-worship](pūjayet)
 
 ## mukta-m0-p17-v418
-[by-vīra-practice](vīrācāreṇa) [well-worship](saṃpūjyaṃ) [five-elements](pañcatattvena) [O-śaṅkarī](śaṅkari)
+[vīra+conduct](vīra+ācāreṇa) [to-be-worshipped](saṃpūjyaṃ) [five+elements](pañca+tattvena) [o-śaṅkarī](śaṅkari)
 
 ## mukta-m0-p17-v419
 [they-declare](pracakṣate)
 
 ## mukta-m0-p17-v420
-[eight-limbs-of-yoga](yogāṅgāṣṭāni) [O-pārvatī](pārvati)
+[yoga+limbs+eight](yoga+aṅga+aṣṭāni) [o-pārvatī](pārvati)
 
 ## mukta-m0-p17-v421
-[tenfold](daśadhā) [characteristic](lakṣaṇaṃ) [declared](proktaṃ) [of-yoga-limb](yogāṅgasya) [of-restraint](yamasya) [and](ca)
+[tenfold](daśadhā) [characteristic](lakṣaṇaṃ) [declared](proktaṃ) [yoga+limb](yoga+aṅgasya) [of-restraint](yamasya) [and](ca)
 
 ## mukta-m0-p17-v422
-[tenfold](daśadhā) [observance](niyamaṃ) [declared](proktaṃ) [of-yoga-limb](yogāṅgasya) [and](ca) [O-pārvatī](pārvati)
+[tenfold](daśadhā) [observance](niyamaṃ) [declared](proktaṃ) [yoga+limb](yoga+aṅgasya) [and](ca) [o-pārvatī](pārvati)
 
 ## mukta-m0-p17-v423
-[vīrāsana](vīrāsanamiti) [declared](proktaṃ) [gradually](kramād) [five-postures](āsanapañcakam)
+[hero+seat](vīra+āsanam) [thus](iti) [declared](proktaṃ) [in-order](kramād) [seat+fivefold](āsana+pañcakam)
 
 ## mukta-m0-p17-v424
-[padmāsana](padmāsanamiti) [declared](proktaṃ) [in-japa-worship-etc](japapūjādiṣu) [dear-one](priye)
+[lotus+seat](padma+āsanam) [thus](iti) [declared](proktaṃ) [recitation+worship+etc.](japa+pūjā+ādiṣu) [o-beloved](priye)
 
 ## mukta-m0-p17-v425
-[straight-bodied](ṛjukāyo) [enter](viśen) [mantra-reciter](mantrī) [svastika](svastikaṃ) [that](tat) [they-declare](pracakṣate)
+[straight+bodied](ṛju+kāyo) [should-enter](viśet) [practitioner](mantrī) [auspicious-seat](svastikaṃ) [that](tat) [they-declare](pracakṣate)

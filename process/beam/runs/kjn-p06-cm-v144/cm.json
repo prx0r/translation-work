@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "bhavati",
-   "morph": "3.sg.pres.act √bhū",
-   "grounds": "asserts the result occurs"
+   "morph": "3.sg.act.pres √bhū",
+   "grounds": "assertion of result"
   },
   {
    "lemma": "eva",
@@ -15,27 +15,27 @@
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negates doubt"
+   "grounds": "negation"
   },
   {
    "lemma": "sandehaḥ",
    "morph": "m.nom.sg",
-   "grounds": "what is denied"
+   "grounds": "absence of uncertainty"
   },
   {
    "lemma": "ṣaṇ",
-   "morph": "compound-member",
-   "grounds": "numeral indicating duration"
+   "morph": "compound: ṣaṇ+māsa+abhyantareṇa",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "māsa",
-   "morph": "compound-member",
-   "grounds": "unit of time"
+   "morph": "compound: ṣaṇ+māsa+abhyantareṇa",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "abhyantareṇa",
    "morph": "n.ins.sg",
-   "grounds": "indicates completion inside that period"
+   "grounds": "time limit"
   },
   {
    "lemma": "tu",

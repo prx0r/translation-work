@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 216,
- "question": "What instruction does the speaker now wish to hear from the gurus?",
+ "question": "What claim about the speaker's present desire is made by stating a wish to hear about the worship of the siddhas from the gurus?",
  "premises": [
-  "The speaker expresses a wish now",
-  "The wish is to hear from the gurus",
-  "The topic is the worship of the siddhas"
+  "The speaker wishes to hear now.",
+  "The object of hearing is the worship of the siddhas.",
+  "The source of hearing is the gurus."
  ],
- "inference": "The speaker now wishes to hear about the worship of the siddhas from the gurus.",
- "uncertainties": [],
+ "inference": "The speaker now desires to learn from the gurus about the worship of the siddhas.",
+ "uncertainties": [
+  "The verse does not state whether such instruction has been received before."
+ ],
  "plain_english": "Now I wish to hear from the gurus about the worship of the siddhas."
 }

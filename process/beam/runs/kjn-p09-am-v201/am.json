@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 201,
- "question": "How long must meditation be applied after worshipping this circle?",
+ "question": "Under what condition must meditation be applied after worship of the circle for the prescribed practice to hold?",
  "premises": [
-  "The circle is worshipped first",
-  "Meditation is then applied",
-  "The practice continues for a duration"
+  "Worship of the circle is performed first in sequence.",
+  "Meditation is applied for as long as a stated limit holds.",
+  "The act of applying meditation follows the prior act of worship."
  ],
- "inference": "Meditation on the circle is to be sustained continuously after its worship.",
- "uncertainties": [],
- "plain_english": "Having worshipped this circle, one applies meditation for as long as one continues the practice."
+ "inference": "The practice requires sustained application of meditation after having worshipped the circle.",
+ "uncertainties": [
+  "The precise temporal limit of yāvat remains unspecified by this verse alone."
+ ],
+ "plain_english": "Having worshipped this circle, one applies meditation for as long as is required."
 }

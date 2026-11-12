@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 210,
- "question": "How should the teaching declared without doubt be firmly ascertained?",
+ "question": "What claim about the status of the ascertainment is made by stating that it is declared doubt-free by the speaker with devotion and reasoning?",
  "premises": [
-  "The teaching is declared without doubt",
-  "The speaker has declared it",
-  "Devotion and reasoning are the means"
+  "The ascertainment is declared by the speaker.",
+  "It is declared doubt-free.",
+  "It is declared with devotion and reasoning."
  ],
- "inference": "The doubtless teaching must be ascertained through both devotion and reasoning.",
- "uncertainties": [],
- "plain_english": "Indeed, this has been declared by me without doubt; ascertain it with devotion and reasoning."
+ "inference": "The speaker presents this ascertainment as doubt-free, given with devotion and reasoning.",
+ "uncertainties": [
+  "The verse does not state what specific ascertainment is being referred to."
+ ],
+ "plain_english": "This ascertainment has been declared doubt-free by me, indeed, with devotion and reasoning."
 }

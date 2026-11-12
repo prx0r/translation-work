@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[hands](karau) [restraining](nirudhya) [called](dākhyātaṃ) [vajrasana](vajrāsanam) [declared](udīritam)
+[doing](karau) [having-restrained](nirudhya) [called](ākhyātaṃ) [thunderbolt-seat](vajra+āsanam) [is-declared](udīritam)
+
 ## mukta-m0-p18-v427
-[straight-bodied](ṛjukāyo) [enter](viśet) [mantrin](mantrī) [virasana](vīrāsanam) [declared](udīritam)
+[straight-bodied](ṛju+kāyo) [should-enter](viśet) [mantrin](mantrī) [hero-seat](vīra+āsanam) [is-declared](udīritam)
+
 ## mukta-m0-p18-v428
-[pranayama](prāṇāyāmaṃ) [and](ca) [asana](āsanaṃ) [and](ca) [of-all-conduct](sarvācārasya) [approved](sammatam)
+[breath-control](prāṇa+āyāmañ) [and](ca) [seat](āsanañ) [and](ca) [of-all-conduct](sarva+ācārasya) [approved](sammatam)
+
 ## mukta-m0-p18-v429
-[then](tadā) [action](kāryaṃ) [not](na) [to-be-done](kartavyaṃ) [in-mere-rite](kriyāmātre) [indeed](hi) [beautiful-one](sundari)
+[then](tadā) [to-be-done](kāryaṃ) [not](na) [to-be-done](kartavyaṃ) [in-mere-action](kriyā+mātre) [indeed](hi) [O-beautiful-one](sundari)
+
 ## mukta-m0-p18-v430
-[sleep](nidrāṃ) [abandoning](tyaktvā) [desired-form](sveṣṭarūpaṃ) [hold](dhārayet) [supreme-lady](parameśvari)
+[sleep](nidrāṃ) [having-abandoned](tyaktvā) [own-desired-form](sva+iṣṭa+rūpaṃ) [one-should-assume](dhārayet) [O-supreme-goddess](parama+īśvari)
+
 ## mukta-m0-p18-v431
-[pranayama](prāṇāyāmaṃ) [indeed](hi) [narration](kathanaṃ) [of-deity](devatāyāḥ) [own-form](svarūpakam)
+[breath-control](prāṇa+āyāmaṃ) [indeed](hi) [statement](kathanaṃ) [of-the-deity](devatāyāḥ) [own-form](sva+rūpakam)
+
 ## mukta-m0-p18-v432
-[from-seeing-own-form](svarūpadarśanāt) [quickly](śīghraṃ) [own-form](svarūpaṃ) [and](ca) [oneself](svayaṃ) [become](bhavet)
+[from-seeing-own-form](sva+rūpa+darśanāt) [quickly](śīghraṃ) [own-form](sva+rūpañ) [and](ca) [oneself](svayaṃ) [one-becomes](bhavet)
+
 ## mukta-m0-p18-v433
-[from-guru-meditation](gurudhyānāt) [thus](tathā) [always](nityaṃ) [embodied-one](dehī) [brahma-filled](brahmamayo) [become](bhavet)
+[from-meditation-on-guru](guru+dhyānāt) [likewise](tathā) [always](nityaṃ) [embodied-one](dehī) [consisting-of-brahman](brahma+mayaḥ) [becomes](bhavet)
+
 ## mukta-m0-p18-v434
-[pranayama](prāṇāyāmaḥ) [shankara](śaṅkaraḥ) [also](api) [creation-preservation-dissolution-natured](sṛṣṭisthitilayātmakaḥ)
+[breath-control](prāṇa+āyāmaḥ) [Śaṅkara](śaṅkaraḥ) [also](api) [of-creation-maintenance-dissolution-nature](sṛṣṭi+sthiti+laya+ātmakaḥ)
+
 ## mukta-m0-p18-v435
-[exhalation](recakaḥ) [also](api) [himself](svayaṃ) [rudra](rudraḥ) [pranayama](prāṇāyāmaṃ) [three-gunas](guṇatrayam)
+[exhalation](recakaḥ) [also](api) [himself](svayaṃ) [Rudra](rudraḥ) [breath-control](prāṇa+āyāmaṃ) [three-qualities](guṇa+trayam)
+
 ## mukta-m0-p18-v436
-[pranayama](prāṇāyāmaḥ) [that](sa) [to-be-known](vijñeyaḥ) [index-middle](tarjanīmadhyame) [without](vinā)
+[breath-control](prāṇa+āyāmaḥ) [that](sa) [to-be-known](vijñeyaḥ) [index-finger](tarjanī) [middle-finger](madhyame) [without](vinā)
+
 ## mukta-m0-p18-v437
-[exhalation](recanaṃ) [right-nadi](dakṣanāḍyā) [also](api) [half-count-chant](tadarddhajapasaṃkhyayā)
+[exhalation](recanaṃ) [by-right-channel](dakṣa+nāḍyā) [also](api) [by-half-of-that-recitation-number](tat+arddha+japa+saṃkhyayā)
+
 ## mukta-m0-p18-v438
-[in-ida](iḍāyāṃ) [fill-air](pūrayedvāyuṃ) [hold](dhārayet) [right-nostril](dakṣanāsikām)
+[in-iḍā](iḍāyāṃ) [one-should-fill](pūrayet) [breath](vāyuṃ) [one-should-hold](dhārayet) [right-nostril](dakṣa+nāsikām)
+
 ## mukta-m0-p18-v439
-[in-pingala](piṅgalāyāṃ) [exhale](recayet) [and](ca) [from-holding](dhāraṇāt) [left-nostril](vāmanāsikām)
+[in-piṅgalā](piṅgalāyāṃ) [one-should-exhale](recayet) [and](ca) [from-retention](dhāraṇāt) [left-nostril](vāma+nāsikām)
+
 ## mukta-m0-p18-v440
-[by-pratyahara-twofold](pratyahāradviṣṭkena) [know](jānīyāt) [holding](dhāraṇaṃ) [auspicious](śubham)
+[by-withdrawal](pratyāhāra) [by-twofold](dviṣṭkena) [one-should-know](jānīyāt) [retention](dharaṇaṃ) [auspicious](śubham)
+
 ## mukta-m0-p18-v441
-[samadhi](samādhim) [then](atha) [actions](karmāṇi) [does](karoti) [not](na) [does](karoti) [or](vā)
+[in-absorption](samādhim) [then](atha) [actions](karmāṇi) [one-does](karoti) [not](na) [does](karoti) [or](vā)
+
 ## mukta-m0-p18-v442
-[sky-walking](khecaratvaṃ) [samadhi-state](samādhitvaṃ) [in-time](kāle) [death](mṛtyuḥ) [perishes](vinaśyati)
+[moving-in-sky](khe+caratvaṃ) [state-of-absorption](samādhi+tvaṃ) [in-time](kāle) [death](mṛtyuḥ) [is-destroyed](vinaśyati)
+
 ## mukta-m0-p18-v443
-[now](adhunā) [to-hear](śrotum) [I-desire](icchāmi) [of-one-in-samadhi](samādhisthasya) [characteristic](lakṣaṇam)
+[now](adhunā) [to-hear](śrotum) [I-desire](icchāmi) [of-one-abiding-in-absorption](samādhi+sthasya) [characteristic](lakṣaṇam)
+
 ## mukta-m0-p18-v444
-[then](tadā) [meditation](dhyānaṃ) [always](sadā) [to-be-done](kāryaṃ) [shiva](śivaṃ) [peaceful](śāntaṃ) [world-filled](jaganmayam)
+[then](tadā) [meditation](dhyānaṃ) [always](sadā) [to-be-done](kāryaṃ) [Śiva](śivaṃ) [peaceful](śāntaṃ) [consisting-of-the-world](jagat+mayam)
+
 ## mukta-m0-p18-v445
-[fifteenth-chapter](pañcadaśollāsaḥ)
+[fifteenth](pañcadaśa) [chapter](ullāsaḥ)
+
 ## mukta-m0-p18-v446
-[pasvachara](paśvācāram) [this](idaṃ) [declared](proktaṃ) [of-vibhava](vibhāvasya) [opinion](mataṃ) [shive](śive)
+[paśu-conduct](paśu+ācāram) [this](idaṃ) [declared](proktaṃ) [of-Vibhāva](vibhāvasya) [opinion](mataṃ) [O-Śivā](śive)
+
 ## mukta-m0-p18-v447
-[jaggery](guḍaṃ) [its](tasya) [like-wine](madyatulyaṃ) [betel](tāmbūlaṃ) [powder-mixed](cūrṇasaṃyutam)
+[jaggery](guḍaṃ) [its](tasya) [equal-to-liquor](madya+tulyaṃ) [betel](tāmbūlaṃ) [mixed-with-lime](cūrṇa+saṃyutam)
+
 ## mukta-m0-p18-v448
 [salt](lavaṇaṃ) [rock-salt](saindhavaṃ) [without](vinā)
+
 ## mukta-m0-p18-v449
-[burnt](dagdhaṃ) [if](cet) [supreme-lady](parameśāni) [of-pashu](paśoḥ) [fish](matsyaṃ) [indeed](hi) [conception](kalpanam)
+[burnt](dagdhañ) [if](cet) [O-supreme-goddess](parama+īśāni) [of-the-paśu](paśoḥ) [fish](matsyaṃ) [indeed](hi) [substitute](kalpanam)
+
 ## mukta-m0-p18-v450
-[mudra-analog](mudrānukalpaṃ) [supreme](parame) [of-vibhava](vibhāvasya) [opinion](mataṃ) [of-pashu](paśoḥ)
+[substitute-for-mudrā](mudrā+anukalpaṃ) [O-supreme-one](parame) [of-Vibhāva](vibhāvasya) [opinion](mataṃ) [of-the-paśu](paśoḥ)

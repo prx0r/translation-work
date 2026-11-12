@@ -7,8 +7,8 @@
     {
      "surface": "chedyamāno",
      "gloss": "being-cut",
-     "grounds": "present passive participle of root chid, describing one undergoing cutting",
-     "morph": "part.pass.pres.m.nom.sg+chid"
+     "grounds": "present passive participle describing one subjected to cutting",
+     "morph": "m.nom.sg.passive-participle-present root chid"
     },
     {
      "surface": "na",
@@ -19,40 +19,39 @@
     {
      "surface": "chidyeta",
      "gloss": "would-be-cut",
-     "grounds": "optative passive form of root chid expressing potential or counterfactual result",
-     "morph": "3.sg.pass.opt+chid"
+     "grounds": "optative expressing non-occurrence of cutting despite the action",
+     "morph": "3.sg.passive-optative root chid"
     },
     {
      "surface": "tad+gato",
      "gloss": "gone-to-that",
-     "grounds": "compound of tad and gata, indicating one who has reached that state",
-     "morph": "compound.tad+gata.m.nom.sg"
+     "grounds": "compound indicating absorption or attainment of that state",
+     "morph": "compound tat+gata m.nom.sg"
     },
     {
      "surface": "tan+mano",
      "gloss": "mind-fixed-on-that",
-     "grounds": "possessive compound of tad and manas, indicating one whose mind is absorbed in that",
-     "morph": "compound.tad+manas.m.nom.sg"
+     "grounds": "compound indicating the mind being directed toward that",
+     "morph": "compound tat+manas m.nom.sg"
     },
     {
      "surface": "yathā",
-     "gloss": "just-as",
-     "grounds": "comparative particle introducing a simile",
+     "gloss": "as",
+     "grounds": "particle indicating manner or comparison",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Does physical cutting affect one whose mind is fully absorbed in that state?",
+   "question": "Can physical cutting harm one whose mind is fully absorbed in that state?",
    "premises": [
-    "A person may be physically subjected to cutting.",
-    "A person can be gone to that state with mind fixed on that.",
-    "Absorption of mind in that state alters the experience of bodily harm."
+    "A person may be subjected to the act of cutting.",
+    "That person has gone to and abides in that state.",
+    "That person's mind remains fixed on that state."
    ],
-   "inference": "One who has reached that state and whose mind is fixed on it is not truly cut even while being cut.",
+   "inference": "Despite being subjected to cutting, such a person is not truly cut.",
    "uncertainties": [
-    "The referent of 'that' (tad) depends on the preceding context.",
-    "It is unclear whether the immunity described is literal or experiential."
+    "The exact referent of 'that' depends on the preceding context."
    ],
-   "plain_english": "Just as one who has reached that state and whose mind is fixed on it, though being cut, is not cut."
+   "plain_english": "Even while being cut, one who has gone to that and whose mind is fixed on that is not cut."
   }
  ]
 }

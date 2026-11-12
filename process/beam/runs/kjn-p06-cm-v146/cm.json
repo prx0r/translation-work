@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "ṣaṇ",
-   "morph": "compound-member",
-   "grounds": "numeral indicating duration"
+   "morph": "compound: ṣaṇ+māsa+asevanā",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "māsa",
-   "morph": "compound-member",
-   "grounds": "unit of time"
+   "morph": "compound: ṣaṇ+māsa+asevanā",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "asevanā",
    "morph": "f.ins.sg",
-   "grounds": "means of attaining the result"
+   "grounds": "means of attainment"
   },
   {
    "lemma": "abhyastāt",
    "morph": "n.abl.sg",
-   "grounds": "emphasizes sustained repetition"
+   "grounds": "cause of transformation"
   },
   {
    "lemma": "vṛddhaḥ",
    "morph": "m.nom.sg",
-   "grounds": "describes the practitioner’s prior condition"
+   "grounds": "initial state of practitioner"
   },
   {
    "lemma": "api",
@@ -34,13 +34,13 @@
   },
   {
    "lemma": "taruṇā",
-   "morph": "f.nom.sg",
-   "grounds": "resulting condition"
+   "morph": "f.nom.sg (or m.nom.sg)",
+   "grounds": "resulting state"
   },
   {
    "lemma": "āyate",
-   "morph": "3.sg.pres.mid √i+ā",
-   "grounds": "indicates transformation"
+   "morph": "3.sg.mid.pres √i (with ā)",
+   "grounds": "transformation"
   }
  ]
 }
