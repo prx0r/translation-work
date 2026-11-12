@@ -14,38 +14,38 @@
      "surface": "jñātvā",
      "gloss": "having-known",
      "grounds": "absolutive expressing prior act of knowing",
-     "morph": "absolutive (√jñā)"
+     "morph": "(indecl., absolutive, √jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound object of knowing: concealed essential being",
-     "morph": "compound (gūḍha+sadbhāva), m.acc.sg"
+     "grounds": "compound describing the concealed essential being",
+     "morph": "m.acc.sg, compound: gūḍha+sadbhāva"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "state that comes into being as a result",
+     "grounds": "state of omniscience that comes into being",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "present verb indicating the emergence of omniscience",
-     "morph": "3.sg.present.middle (pra-√jan)"
+     "grounds": "verb indicating the emergence of a state",
+     "morph": "3.sg.present.middle, √jan+pra"
     }
    ],
-   "question": "What state of knowing arises from realizing the hidden true nature?",
+   "question": "What state arises from knowing that hidden true nature?",
    "premises": [
-    "There is a hidden true nature to be known.",
-    "Knowing that hidden true nature is possible.",
+    "There is a hidden true nature that can be known.",
+    "Knowing that hidden true nature is a possible act.",
     "All-knowingness is a state that can arise."
    ],
-   "inference": "Therefore, having known that hidden true nature, all-knowingness arises.",
+   "inference": "Having known that hidden true nature, all-knowingness arises.",
    "uncertainties": [
-    "The precise referent of taṃ depends on the preceding verses."
+    "The exact referent of 'taṃ' depends on the preceding verses."
    ],
-   "plain_english": "Having known that hidden true nature, omniscience arises."
+   "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
  ]
 }
