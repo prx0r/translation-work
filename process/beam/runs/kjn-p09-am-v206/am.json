@@ -1,13 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 206,
- "question": "What supreme power is attributed to the seventh circle addressed to the goddess?",
+ "question": "What claim about the seventh circle is at stake in calling it supreme and capable of paralyzing an army?",
  "premises": [
-  "The seventh circle is introduced",
-  "It is addressed to the goddess",
-  "It is described as causing paralysis of armies"
+  "The seventh circle is addressed to the goddess.",
+  "It is described as supreme.",
+  "It is described as making the army paralyzed."
  ],
- "inference": "The seventh circle possesses the supreme power to paralyze armies.",
- "uncertainties": [],
- "plain_english": "O Goddess, the seventh circle is supreme and causes the paralysis of armies."
+ "inference": "The seventh circle is assigned a supreme status with the specific function of paralyzing an army.",
+ "uncertainties": [
+  "The scope of its effect on an army is not specified here."
+ ],
+ "plain_english": "The seventh circle, O Goddess, is supreme and makes the army paralyzed."
 }
