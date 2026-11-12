@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[bija](bijadvaya) [svara](svarādyāḥ) [ca](ca) [ākarṣiṇī](ākarṣiṇyantakāḥ) [kramāt](kramāt)
+[two-seed+vowel-beginning-and](bijadvayasvarādyāśca) [ending-with-ākarṣiṇī](ākarṣiṇyantakāḥ) [in-order](kramāt)
 
 ## mukta-m0-p20-v477
-[prathama](prathamā) [āvṛtau](āvṛtau) [caturasre](caturasre)
+[in-first-enclosure](prathamāvṛtau) [in-quadrangle](caturasre) || [66](66) || [67](67) || [68](68) || [69](69) || [70](70)
 
 ## mukta-m0-p20-v478
-[kalāpādukām](kalāpādukāṃ) [pūjayāmi](pūjayāmi) [evam](evam) [anye](anyepi) [pañcadaśa](pañcadaśa) [mantrāḥ](mantrāḥ) [ūhanīyāḥ](ūhanīyāḥ)
+[Kalā-sandals](kalāpādukāṃ) [I-worship](pūjayāmi) | [thus](evam) [others-also](anyepi) [fifteen-mantras](pañcadaśamantrā) [to-be-inferred](ūhanīyāḥ)
 
 ## mukta-m0-p20-v479
-[paścāt](paścāddalaṃ) [dala](dalaṃ) [samārabhya](samārabhya) [vāmāvartena](vāmāvartena) [sundari](sundari)
+[then](paścāt) [petal](dalaṃ) [beginning](samārabhya) [by-counter-clockwise](vāmāvartena) [O-beautiful-one](sundari) [?](?)
 
 ## mukta-m0-p20-v480
-[rekhā](rekhā) [ca](ca) [veginī](veginī) [paścāt](paścādaṅkuśā) [aṅkuśā](aṅkuśā) [mālinī](mālinī) [iti](iti) [ca](ca)
+[Rekhā](rekhā) [and](ca) [Veginī](veginī) [then](paścāt) [Aṅkuśā](aṅkuśā) [Mālinī](mālinī) [thus](iti) [and](ca)
 
 ## mukta-m0-p20-v481
-[prācyādi](prācyādidikṣu) [dikṣu](dikṣu) [svāgrya](svāgryādikoṇeṣu) [ādi](ādi) [koṇeṣu](koṇeṣu) [arcyāḥ](arcyāḥ) [pradakṣiṇam](pradakṣiṇam)
+[in-east-etc.-directions](prācyādidikṣu) [in-their-own-front-corners](svāgryādikoṇeṣu) [to-be-worshipped](arcyāḥ) [clockwise](pradakṣiṇam)
 
 ## mukta-m0-p20-v482
-[antaḥ](antaścaturddaśārādau) [caturdaśa](caturdaśa) [āra](āra) [ādau](ādau) [paścimāt](paścimādapradakṣiṇam) [apradakṣiṇam](apradakṣiṇam)
+[inside](antaḥ) [fourteen-spoke-beginning](caturddaśārādau) [from-west](paścimāt) [counter-clockwise](apradakṣiṇam)
 
 ## mukta-m0-p20-v483
-[ākarṣiṇī](ākarṣiṇyā) [āhlādanikā](āhlādanikā) [tataḥ](tataḥ) [sammohinī](sammohinī) [iti](iti) [ca](ca)
+[Ākarṣiṇī](ākarṣiṇī) [Āhlādanikā](āhlādanikā) [then](tataḥ) [Sammohinī](sammohinī) [thus](iti) [and](ca)
 
 ## mukta-m0-p20-v484
-[unmādinī](unmādinī) [tataḥ](tataḥ) [jñeyā](jñeyā) [tataḥ](tataḥ) [syāt](syāt) [arthasādhanī](arthasādhanī)
+[Unmādinī](unmādinī) [then](tato) [to-be-known](jñeyā) [then](tataḥ) [should-be](syāt) [Arthasādhanī](arthasādhanī)
 
 ## mukta-m0-p20-v485
-[anaṅgakusumāpādukām](anaṅgakusumāpādukāṃ) [pūjayāmi](pūjayāmi) [ityādi](ityādi)
+[Anaṅgakusumā-sandals](anaṅgakusumāpādukāṃ) [I-worship](pūjayāmi) [thus-etc.](ityādi) || [75](75)
 
 ## mukta-m0-p20-v486
-[trayodaśa](trayodaśa) [mantrān](mantrān) [yojayet](yojayet)
+[thirteen-mantras](trayodaśamantrān) [one-should-apply](yojayet) || [77](77) || [78](78)
 
 ## mukta-m0-p20-v487
-[dvaya](dvayasarvādikāḥ) [sarva](sarva) [ādi](ādi) [kāḥ](kāḥ) [sarvā](sarvā) [śakti](śaktisaptākṣarīyutāḥ) [saptākṣarī](saptākṣarī) [yutāḥ](yutāḥ)
+[beginning-with-dvaya-and-sarva](dvayasarvādikāḥ) [all](sarvā) [with-śakti-seven-syllable](śaktisaptākṣarīyutāḥ)
 
 ## mukta-m0-p20-v488
-[antaḥ](antardaśārayugme) [daśāra](daśāra) [yugme](yugme) [tu](tu) [devī](devī) [saptākṣarā](saptākṣarā) [ātmikā](ātmikā)
+[in-inner-ten-spoke-pair](antardaśārayugme) [indeed](tu) [goddess](devī) [of-seven-syllable-nature](saptākṣarātmikā)
 
 ## mukta-m0-p20-v489
-[caturthī](caturthī) [śaktiḥ](śaktirākhyātā) [ākhyātā](ākhyātā) [tathā](tathā) [maṅgalakāriṇī](maṅgalakāriṇī)
+[fourth](caturthī) [śakti](śaktiḥ) [declared](ākhyātā) [and](tathā) [Maṅgalakāriṇī](maṅgalakāriṇī)
 
 ## mukta-m0-p20-v490
-[mṛtyu](mṛtyupraśamanī) [praśamanī](praśamanī) [paścāt](paścāttathā) [tathā](tathā) [vighna](vighnanivāriṇī) [nivāriṇī](nivāriṇī)
+[Mṛtyupraśamanī](mṛtyupraśamanī) [then](paścāt) [and](tathā) [Vighnanivāriṇī](vighnanivāriṇī)
 
 ## mukta-m0-p20-v491
-[daśa](daśaitāḥ) [etāḥ](etāḥ) [śaktayaḥ](śaktayaḥ) [pūjyā](pūjyā) [dvaya](dvayasarvādikāḥ) [sarva](sarva) [ādi](ādi) [kāḥ](kāḥ) [kramāt](kramāt)
+[ten](daśa) [these](etāḥ) [śaktis](śaktayaḥ) [to-be-worshipped](pūjyā) [beginning-with-dvaya-and-sarva](dvayasarvādikāḥ) [in-order](kramāt)
 
 ## mukta-m0-p20-v492
-[proktā](proktā) [sā](sā) [pañcamī](pañcamī) [śaktiḥ](śaktistathā) [tathā](tathā) [vyādhi](vyādhivināśinī) [vināśinī](vināśinī)
+[declared](proktā) [she](sā) [fifth](pañcamī) [śakti](śaktiḥ) [and](tathā) [Vyādhivināśinī](vyādhivināśinī)
 
 ## mukta-m0-p20-v493
-[uktā](uktaivamānandamayī) [evam](evam) [ānandamayī](ānandamayī) [tathā](tathā) [rakṣā](rakṣāsvarūpiṇī) [svarūpiṇī](svarūpiṇī)
+[thus-stated](ukta) [thus](evam) [Ānandamayī](ānandamayī) [and](tathā) [of-protection-nature](rakṣāsvarūpiṇī)
 
 ## mukta-m0-p20-v494
-[yojanīyāḥ](yojanīyāḥ)
+[to-be-applied](yojanīyāḥ)
 
 ## mukta-m0-p20-v495
-[dvaya](dvayasarvādikāścaitāḥ) [sarva](sarva) [ādi](ādi) [kāḥ](kāḥ) [ca](ca) [etāḥ](etāḥ) [ṣaṣṭha](ṣaṣṭhāvaraṇagā) [āvaraṇa](āvaraṇa) [gā](gā) [yajet](yajet)
+[beginning-with-dvaya-and-sarva](dvayasarvādikāḥ) [and-these](ca+etāḥ) [in-sixth-enclosure](ṣaṣṭhā'varaṇagā) [one-should-worship](yajet)
 
 ## mukta-m0-p20-v496
-[vaśinyādi](vaśinyādīn) [yajet](yajet) [prāgvat](prāgvat) [saptākṣaryā](saptākṣaryā) [namaḥ](namaḥ) [pade](pade)
+[Vaśinī-etc.](vaśinyādīn) [one-should-worship](yajet) [as-before](prāgvat) [with-seven-syllable](saptākṣaryā) [in-namaḥ-word](namaḥ) [in-position](pade)
 
 ## mukta-m0-p20-v497
-[pāśa](pāśamaṅkuśamityetaccatuṣkaṃ) [maṅkuśa](maṅkuśa) [iti](iti) [etat](etat) [catuṣkaṃ](catuṣkaṃ) [tad](tad) [bhujāntike](bhujāntike)
+[noose](pāśa) [goad](aṅkuśa) [thus](iti) [this](etat) [quartet](catuṣkaṃ) [near-her-arms](tadbhujāntike)
 
 ## mukta-m0-p20-v498
-[nāthāḥ](nāthāḥ) [ca](ca) [pṛṣṭhataḥ](pṛṣṭhato) [devyāḥ](devyā) [jayinī](jayinī) [vimalā](vimalā) [antare](antare)
+[Nāthas](nāthāḥ) [and](ca) [behind](pṛṣṭhato) [of-goddess](devyā) [between-Jayinī-and-Vimalā](jayinīvimalāntare)
 
 ## mukta-m0-p20-v499
-[pūjayāmi](pūjayāmi) [evam](evam) [anyān](anyān) [api](api) [nava](nava) [mantrān](mantrān) [yojayet](yojayet)
+[I-worship](pūjayāmi) | [thus](evam) [others-also](anyān+api) [nine-mantras](navamantrān) [one-should-apply](yojayet) || [84](84) || [85](85)
 
 ## mukta-m0-p20-v500
-[anyatra](anyatrānuvidhānāt) [anuvidhānāt](anuvidhānāt) [sarvatra](sarvatra)
+[elsewhere](anyatra) [by-prescription](anuvidhānāt) [everywhere](sarvatra)

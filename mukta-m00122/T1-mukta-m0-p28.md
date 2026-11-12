@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-cotton-born red ninefold multiplied auspicious
+[cotton+produced](kārpāsa-sambhavai) [with-red](raktaiḥ) [nine-times](navadhā) [multiplied](guṇitaiḥ) [with-auspicious](śubhaiḥ)
+
 ## mukta-m0-p28-v677
-nine-angula or that-number thread-knot-etc joined
+[nine-fingers](navāṅgulaiḥ) [or](vā) [of-that+number](tat-saṅkkhyai) [with-all+knots+etc.](sarva-granthy-ādi-saṃyutam)
+
 ## mukta-m0-p28-v678
-having-made with-preliminary-consecration but should-worship with-them in-order
+[having-made](kṛtvā) [consecration+preceded](adhivāsa-pūrvam) [indeed](tu) [one-should-worship](pūjayet) [with-them](taiḥ) [in-due-order](yathākramam)
+
 ## mukta-m0-p28-v679
-108 threads should-make according-to-ability and star
+[with-hundred+and-eight](aṣṭottara-śataiḥ) [with-threads](sūtraiḥ) [one-should-make](kuryāt) [with-power](śaktyā) [*](*) [and](ca) [the-tāraka](tārakam)
+
 ## mukta-m0-p28-v680
-Varahi Kurukulla etc of-powers like-root-power
+[of-Vārāhī+Kurukullā+etc.](vārāhī-kurukullā-ādi) [of-śaktis](śaktīnām) [like-root+śakti](mūla-śakti-vat)
+
 ## mukta-m0-p28-v681
-ten or in-other-view red saffron-sandal-etc reddened
+[10](10) [||](||) [or](vā) [in-another-alternative](pakṣāntare) [|](|) [with-red](raktaiḥ) [reddened+by-saffron+sandal+etc.](kuṅkuma-candana-ādi-aruṇitaiḥ)
+
 ## mukta-m0-p28-v682
-tradition knowing of-disciples like-self declared
+[of-disciples+knowing-tradition+and-lineage](krama-āgama-jña-śiṣyāṇām) [like-oneself](ātma-vat) [declared](samudīritam)
+
 ## mukta-m0-p28-v683
-circumference by-measure of-pavilion from-one-thread
+[by-circumference+measure](paridhāna-pramāṇena) [of-the-maṇḍapa](maṇḍapasya) [with-one+thread](eka-sūtrataḥ)
+
 ## mukta-m0-p28-v684
-having-made three-purifiers those to-goddess should-offer
+[having-made](kṛtvā) [sacred-thread+triad](pavitra-tritayam) [them](tāni) [to-the-goddess](devyai) [one-should-offer](samarpayet)
+
 ## mukta-m0-p28-v685
-not should-do mental-confusion if does perishes
+[not](na) [one-should-make](kuryāt) [mental+confusion](mānasa-āṅkaryam) [if](yadi) [one-should-make](kuryāt) [one-perishes](vinaśyati)
+
 ## mukta-m0-p28-v686
-with-flowers should-worship goddess aforementioned by-rite joined
+[with-flowers](prasūnaiḥ) [one-should-worship](arcayet) [the-goddess](devīm) [with-previously-stated+method](pūrva-ukta-vidhinā) [endowed](yutam)
+
 ## mukta-m0-p28-v687
-beginning should-worship goddess scent flower with-offerings
+[having-begun](ārabhya) [one-should-worship](pūjayet) [the-goddess](devīm) [with-fragrance+flower+offerings](gandha-puṣpa-upahārakaiḥ)
+
 ## mukta-m0-p28-v688
-thousand should-offer daily recitation and indeed should-perform
+[thousand](sahasram) [one-should-offer-oblation](juhuyāt) [daily](nityam) [recitation](japam) [and](ca) [indeed](eva) [one-should-perform](samācaret)
+
 ## mukta-m0-p28-v689
-circumference by-measure power yogini of by-measure
+[||](||) [by-circumference+measure](paridhāna-pramāṇena) [of-the-śaktis+and-yoginīs](śakti-yoginīnām) [by-measure](mānena)
+
 ## mukta-m0-p28-v690
-there aforementioned by-rite joined with-preliminary-consecration
+[there](tatra) [with-previously-stated+method](pūrva-ukta-vidhinā) [endowed](yutam) [consecration+preceded](adhivāsa-pūrvam)
+
 ## mukta-m0-p28-v691
-new-moon after first-day offering food-offering
+[new-moon+following+first-lunar-day](amāvāsyā-anantara-pratipat-tithim) [|](|) [offering](upahāraḥ) [food-offering](nivedyam)
+
 ## mukta-m0-p28-v692
-having-given ornament cloth etc fee and should-lift
+[having-given](datvā) [ornament+garment+etc.](bhūṣaṇa-vastra-ādi) [fee](dakṣiṇām) [and](ca) [one-should-present](samuddharet)
+
 ## mukta-m0-p28-v693
-by-that learned becomes accomplished king makes worshipper
+[by-that](tena) [the-knower](vidvān) [accomplished](siddhaḥ) [becomes](bhavet) [the-king](nṛpatim) [worshipper](arcakam) [makes](kurute)
+
 ## mukta-m0-p28-v694
-at-night with-lamps with-offerings should-do ghee enriched
+[at-night](rātrau) [with-lamps](pradīpakaiḥ) [with-oblations](homaiḥ) [one-should-perform](kuryāt) [with-ghee+kindled](ghṛta-samedhitaiḥ)
+
 ## mukta-m0-p28-v695
-of-powers one-by-one but should-place that-that in-front
+[of-the-śaktis](śaktīnām) [one+by+one](ekam-ekam) [indeed](tu) [one-should-place](sthāpayet) [in-front+of-each](tat-tat-agrataḥ)
+
 ## mukta-m0-p28-v696
-having-made should-offer by-root-mantra with-flowers
+[having-made](kṛtvā) [one-should-offer](nivedayet) [with-root+mantra](mūla-vidyayā) [together-with-flowers](sa-prasūnakam)
+
 ## mukta-m0-p28-v697
-food-offering should-worship black-gram flour with-cakes according-to-rite
+[having-offered](nivedya) [one-should-worship](abhyarcayet) [with-black-gram+flour+cakes](māṣa-piṣṭa-apūpaiḥ) [according-to-rule](yathāvidhi)
+
 ## mukta-m0-p28-v698
-should-perform thus-meaning having-worshipped daily-prescribed in-order
+[one-should-perform](samācaret) [thus+the-meaning](iti-arthaḥ) [|](|) [having-worshipped](sampūjya) [by-daily+stated+procedure](nitya-ukta-krameṇa)
+
 ## mukta-m0-p28-v699
-maiden worship should-do thus
+[virgin+worship](kanyakā-pūjanam) [one-should-do](kuryāt) [thus](iti)
+
 ## mukta-m0-p28-v700
-other-view this secondary view
+[alternative+option](pakṣa-antaram) [this](eṣa) [secondary](gauṇaḥ) [option](pakṣaḥ)

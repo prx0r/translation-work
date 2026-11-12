@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 110,
- "question": "What identity is ascribed to the soul upon merely leaving the body?",
+ "question": "What soteriological claim is made about the status of that referent upon the mere leaving of the body?",
  "premises": [
-  "The soul leaves the body",
-  "A new identity is ascribed at that moment",
-  "That identity is supreme Śiva"
+  "A referent is designated by 'he'.",
+  "The condition given is the mere leaving of the body.",
+  "Under that condition, that referent is called supreme Śiva."
  ],
- "inference": "Upon merely leaving the body, the soul is called supreme Śiva.",
- "uncertainties": [],
- "plain_english": "As soon as it leaves the body, it is called the supreme Śiva."
+ "inference": "Upon merely leaving the body, the referent is designated as supreme Śiva.",
+ "uncertainties": [
+  "The antecedent of 'he' is not specified in this verse alone."
+ ],
+ "plain_english": "He, upon merely leaving the body, is called supreme Śiva."
 }

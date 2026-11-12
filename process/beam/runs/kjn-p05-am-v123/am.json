@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What result follows when this practice is performed for one year?",
+ "question": "What result is claimed when the practice in question has been carried out for one year?",
  "premises": [
-  "The practice is performed for one year",
-  "The practice becomes established",
-  "Old age and death are destroyed"
+  "A duration of one year is specified.",
+  "A condition is given of that practice having been performed.",
+  "Under that condition, old age and death are destroyed."
  ],
- "inference": "When practiced for one year, old age and death are destroyed.",
- "uncertainties": [],
- "plain_english": "When this is practiced for one year, old age and death are destroyed."
+ "inference": "When practiced for one year, the practice destroys old age and death.",
+ "uncertainties": [
+  "The specific practice referred to is not named in this verse alone."
+ ],
+ "plain_english": "When practiced for one year, old age and death are destroyed."
 }
