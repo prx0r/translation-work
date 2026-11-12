@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 107,
- "question": "What supreme and transcendent qualities define the true nature of the soul?",
+ "question": "What set of attributes defines the supreme reality that is said to be the referent in this description?",
  "premises": [
-  "The soul is identified as supreme",
-  "The soul is partless and eternal",
-  "The soul is free from disease and stain"
+  "A single referent is indicated by 'he'.",
+  "That referent is supreme, partless, and eternal.",
+  "That referent is also free from disease and stainless."
  ],
- "inference": "The soul's true nature is supreme, partless, eternal, and untainted.",
- "uncertainties": [],
- "plain_english": "It is supreme, partless, eternal, free from affliction, and stainless."
+ "inference": "The referent is the supreme, partless, eternal reality that is free from disease and stainless.",
+ "uncertainties": [
+  "The identity of the referent beyond these attributes is not specified here."
+ ],
+ "plain_english": "He is the supreme, partless, eternal one, free from disease and stainless."
 }

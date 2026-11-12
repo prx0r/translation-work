@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 342,
- "question": "Which revilers are explicitly forbidden from receiving this Kaula teaching?",
+ "question": "To whom must this teaching never be given according to the warning?",
  "premises": [
-  "The teaching must not be given to a reviler of Shiva.",
-  "It must not be given to a slanderer of Kula Bhairava.",
-  "The prohibition is addressed to the goddess."
+  "A reviler of Shiva is excluded",
+  "A slanderer of Kula Bhairava is excluded",
+  "The goddess is addressed in this prohibition"
  ],
- "inference": "Revilers of Shiva and slanderers of Kula Bhairava are excluded from receiving the teaching.",
- "uncertainties": [],
- "plain_english": "O Goddess, not to one who reviles Shiva, nor to one who slanders Kula Bhairava."
+ "inference": "The teaching must not be given to one who reviles Shiva or slanders Kula Bhairava.",
+ "uncertainties": [
+  "The exact syntactic relation of kulabhairave to nindake is slightly compressed."
+ ],
+ "plain_english": "Not to a reviler of Shiva, O goddess, nor to a slanderer of Kula Bhairava."
 }
