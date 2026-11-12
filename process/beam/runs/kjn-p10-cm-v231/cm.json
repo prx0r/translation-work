@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "guhya",
-   "morph": "compound=guhya+first",
-   "grounds": "first member of compound guhya-sthānaṃ"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "sthānaṃ",
    "morph": "n.acc.sg",
-   "grounds": "location described as secret"
+   "grounds": "subject described"
   },
   {
    "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "introduces manner or comparison"
+   "grounds": "introduces manner"
   },
   {
    "lemma": "cakraṃ",
    "morph": "n.nom.sg",
-   "grounds": "subject that is accomplished"
+   "grounds": "object of accomplishment"
   },
   {
    "lemma": "kṣipraṃ",
@@ -29,8 +29,8 @@
   },
   {
    "lemma": "sidhyati",
-   "morph": "3.sg.act-pres/√sidh",
-   "grounds": "states the result in that place"
+   "morph": "3.sg.act.pres-√sidh",
+   "grounds": "main predicate"
   },
   {
    "lemma": "bhairava",

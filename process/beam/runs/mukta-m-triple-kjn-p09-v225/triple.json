@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral form as given",
-     "morph": "indecl."
+     "grounds": "indeclinable numeral qualifying sahasreṣu",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "thousands",
-     "grounds": "locative plural of numeral as given",
-     "morph": "loc.pl.m"
+     "gloss": "in-thousands",
+     "grounds": "locative plural of sahasra, expressing quantity",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "womb-diagrams",
-     "grounds": "compound form as given, no split",
-     "morph": "loc.pl.n"
+     "gloss": "in-womb-mechanisms",
+     "grounds": "locative plural compound denoting loci of birth or embodiment",
+     "morph": "n.loc.pl; compound yoni+yantra"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle form as given",
-     "morph": "nom.pl.m"
+     "grounds": "past passive participle describing beings subjected to suffering",
+     "morph": "m.nom.pl.ppp; √pīḍ"
     }
    ],
-   "question": "What kind of suffering befalls beings confined within eighty-four thousand womb-diagrams?",
+   "question": "In what vast number and kind of loci are beings subjected to torment?",
    "premises": [
-    "Beings exist within eighty-four thousand womb-diagrams.",
-    "Those womb-diagrams form a fixed set of locations.",
-    "Beings located there are subject to torment."
+    "Beings are described as tormented (pīḍitāḥ).",
+    "The torment occurs within womb-mechanisms (yoniyantreṣu).",
+    "These womb-mechanisms number eighty-four thousand (caturaśīti sahasreṣu)."
    ],
-   "inference": "Beings in the eighty-four thousand womb-diagrams endure torment.",
+   "inference": "Beings undergo torment throughout the full expanse of eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The specific nature of the torment remains unspecified."
+    "The compound yoniyantra may be rendered as womb-mechanisms, matrices of birth, or sources of embodiment."
    ],
-   "plain_english": "In the eighty-four thousand womb-diagrams, beings are tormented."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }
