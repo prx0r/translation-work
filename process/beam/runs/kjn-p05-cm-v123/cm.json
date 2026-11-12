@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "abdam+ekaṃ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = abda+eka analyzed as given; accusative of duration"
+   "morph": "compound:abda+year+eka+one; m.acc.sg",
+   "grounds": "accusative singular of compound abda-eka"
   },
   {
    "lemma": "yadā+abhyastañ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = yadā+abhyasta analyzed as given; nominative/absolute context"
+   "morph": "compound:yadā+when+abhyasta+practiced; n.nom.sg",
+   "grounds": "compound of yadā and past passive participle abhyasta, neuter nominative singular"
   },
   {
    "lemma": "jarā+mṛtyur",
-   "morph": "compound = member+membership",
-   "grounds": "compound = jarā+mṛtyu analyzed as given; nominative"
+   "morph": "compound:jarā+old-age+mṛtyu+death; m.nom.sg",
+   "grounds": "nominative singular of compound jarā-mṛtyu"
   },
   {
    "lemma": "vinaśyati",
-   "morph": "3.sg.act.pres",
-   "grounds": "present active of vi-naś, third person"
+   "morph": "3.sg.pres.act (√naś)",
+   "grounds": "present active third person singular of vi-naś"
   }
  ]
 }
