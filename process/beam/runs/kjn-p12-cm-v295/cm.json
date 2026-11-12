@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "vijñāna",
-   "morph": "compound",
-   "grounds": "first member of compound"
+   "morph": "compound-member",
+   "grounds": "first member of compound naming unfolding"
   },
   {
    "lemma": "unmīlanam",
    "morph": "n.nom.sg",
-   "grounds": "awakening"
+   "grounds": "subject that arises"
   },
   {
    "lemma": "bhadre",
@@ -20,27 +20,27 @@
   {
    "lemma": "bhavati",
    "morph": "3.sg.present-active √bhū",
-   "grounds": "result"
+   "grounds": "present verb stating result"
   },
   {
    "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "manner marker"
+   "grounds": "adverb indicating manner"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negation particle"
   },
   {
    "lemma": "anya",
-   "morph": "compound",
-   "grounds": "alternative means"
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating alternative service"
   },
   {
    "lemma": "sevanāt",
    "morph": "n.abl.sg",
-   "grounds": "means"
+   "grounds": "ablative indicating excluded means"
   }
  ]
 }

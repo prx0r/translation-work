@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p96-v2376
-[sahasram](sahasraṃ) [proktakālena](proktakālena) [stambhayed](stambhayed) [akhilam](akhilaṃ) [dṛḍham](dṛḍham)
+[thousand](sahasraṃ) [by-stated-time](proktakālena) [one-should-paralyze](stambhayet) [all](akhilaṃ) [firmly](dṛḍham)
 
 ## mukta-m0-p96-v2377
-[vyavahāram](vyavahāraṃ) [raṇodyogam](raṇodyogaṃ) [vāde](vāde) [vācam](vācaṃ) [matim](matiṃ) [ruṣām](ruṣām)
+[business](vyavahāraṃ) [battle+effort](raṇodyogaṃ) [in-debate](vāde) [speech](vācaṃ) [intellect](matiṃ) [of-angers](ruṣām)
 
 ## mukta-m0-p96-v2378
-[sandhyāsu](sandhyāsu) [pūjayet](pūjayennityaṃ) [nityam](nityaṃ) [sahasram](sahasraṃ) [prajapet](prajapettathā) [tathā](tathā)
+[at-twilights](sandhyāsu) [one-should-worship](pūjayet) [daily](nityaṃ) [thousand](sahasraṃ) [one-should-mutter](prajapet) [likewise](tathā)
 
 ## mukta-m0-p96-v2379
-[atha](athānyadvajrarūpaṃ) [anyat](anyat) [vajrarūpam](vajrarūpaṃ) [tu](tu) [yantram](yaṃtraṃ) [vakṣye](vakṣyetivaibhavam) [ivaibhavam](ivaibhavam)
+[now](atha) [another](anyat) [thunderbolt+form](vajrarūpaṃ) [indeed](tu) [diagram](yaṃtraṃ) [I-shall-declare](vakṣye) [thus+power](itivaibhavam)
 
 ## mukta-m0-p96-v2380
-[koṣṭhāni](koṣṭhāni) [navaṣaṣṭyā](navaṣaṣṭyā) [ca](ca) [yutamśatam](yutaṃśatam) [iti](iti) [sphuṭam](sphuṭam)
+[cells](koṣṭhāni) [by-nine+sixty](navaṣaṣṭyā) [and](ca) [joined+hundred](yutaṃśatam) [thus+clear](itisphuṭam)
 
 ## mukta-m0-p96-v2381
-[madhye](madhye) [ca](ca) [sambhavati](sambhavatyevāśītikoṣṭhairyathāvidhi) [eva](eva) [aśītikoṣṭhaiḥ](aśītikoṣṭhaiḥ) [yathāvidhi](yathāvidhi)
+[in-middle](madhye) [and](ca) [arises](sambhavati) [indeed](eva) [by-eighty+cells](aśītikoṣṭhaiḥ) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p96-v2382
-[sarvamadhyasthakoṣṭhe](sarvamadhyasthakoṣṭhe) [ca](ca) [caturdikṣu](caturdikṣu) [agratas](agratas) [tathā](tathā)
+[in-all+middle+cell](sarvamadhyasthakoṣṭhe) [and](ca) [in-four+directions](caturdikṣu) [at-front](agrataḥ) [likewise](tathā)
 
 ## mukta-m0-p96-v2383
-[etad](etadagracatuṣkasya) [agracatuṣkasya](agracatuṣkasya) [sparśāt](sparśāt) [tricaturasrakam](tricaturasrakam)
+[of-this+front+quartet](etadagracatuṣkasya) [by-contact](sparśāt) [three+four+sided-figure](tricaturasrakam)
 
 ## mukta-m0-p96-v2384
-[ekena](ekena) [vajrayantreṇa](vajrayantreṇa) [vijayā](vijayā) [vijayapradāḥ](vijayapradāḥ)
+[by-one](ekena) [thunderbolt+diagram](vajrayantreṇa) [victories](vijayā) [victory+giving](vijayapradāḥ)
 
 ## mukta-m0-p96-v2385
-[vijayam](vijayaṃ) [samavāpnoti](samavāpnoti) [prokteṣu](prokteṣvapi) [api](api) [ca](ca) [saptasu](saptasu)
+[victory](vijayaṃ) [one-obtains](samavāpnoti) [in-declared](prokteṣu) [also](api) [and](ca) [in-seven](saptasu)
 
 ## mukta-m0-p96-v2386
-[japārādhanasaṃsiddham](japārādhanasaṃsiddhaṃ) [sthāpayet](sthāpayecchūnyaveśmasu) [śūnyaveśmasu](śūnyaveśmasu)
+[by-muttering+worship+accomplished](japārādhanasaṃsiddhaṃ) [one-should-place](sthāpayet) [in-empty+houses](śūnyaveśmasu)
 
 ## mukta-m0-p96-v2387
-[piśācāḥ](piśācā) [rākṣasāḥ](rākṣasāḥ) [kṛtyāḥ](kṛtyā) [vetālāḥ](vetālāḥ) [syuḥ](syurna) [na](na) [tatra](tatra) [vai](vai)
+[goblins](piśācā) [demons](rākṣasāḥ) [witchcrafts](kṛtyā) [vampires](vetālāḥ) [are](syuḥ) [not](na) [there](tatra) [indeed](vai)
 
 ## mukta-m0-p96-v2388
-[sthāpayet](sthāpayedyatrakutrāpi) [yatrakutrāpi](yatrakutrāpi) [tat](tatkṣetraṃ) [kṣetram](kṣetraṃ) [brāhmaṇāspadam](brāhmaṇāspadam)
+[one-should-place](sthāpayet) [wherever](yatrakutrāpi) [that+field](tatkṣetraṃ) [brahmin+abode](brāhmaṇāspadam)
 
 ## mukta-m0-p96-v2389
-[vaṭe](vaṭe) [vilikhya](vilikhya) [khananāt](khananāt) [pattanam](pattanaṃ) [bhavati](bhavati) [dhruvam](dhruvam)
+[on-banyan](vaṭe) [having-inscribed](vilikhya) [by-burying](khananāt) [town](pattanaṃ) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p96-v2390
-[āhitānāśrayam](āhitānāśrayaṃ) [sthānam](sthānaṃ) [bhavati](bhavatyeva) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[of-āhitāgni+abode](āhitānāśrayaṃ) [place](sthānaṃ) [becomes](bhavati) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p96-v2391
-[dāhavyāpte](dāhavyāpte) [svasaṃyukte](svasaṃyukte) [likhet](likhet) [tacchṛṅgamadhyayoḥ](tacchṛṅgamadhyayoḥ)
+[in-burning+pervaded](dāhavyāpte) [with-own+joined](svasaṃyukte) [one-should-write](likhet) [that](tat) [in-two-horn+middles](śṛṅgamadhyayoḥ)
 
 ## mukta-m0-p96-v2392
-[bhālasthena](bhālasthenābhijaptena) [abhijaptena](abhijaptena) [tam](tamāviśya) [āviśya](āviśya) [gado](gado) [vadet](vadet)
+[by-forehead+placed](bhālasthena) [by-consecrated](abhijaptena) [him](tam) [having-entered](āviśya) [afflicted-one](gado) [should-speak](vadet)
 
 ## mukta-m0-p96-v2393
-[triṃśattamena](triṃśattamena) [ślokena](ślokena) [prokta](proktadvandvayuddhādiṣu) [dvandvayuddhādiṣu](dvandvayuddhādiṣu) [saptasu](saptasvityarthaḥ) [ityarthaḥ](ityarthaḥ)
+[by-thirtieth](triṃśattamena) [by-verse](ślokena) [in-declared+duel+battle+etc.](proktadvandvayuddhādiṣu) [in-seven](saptasu) [thus+meaning](ityarthaḥ)
 
 ## mukta-m0-p96-v2394
-[grahabhūtapiśācādyāḥ](grahabhūtapiśācādyāḥ) [asya](asyāviśyāpayānti) [āviśyāpayānti](āviśyāpayānti) [vai](vai)
+[planet+spirit+goblin+etc.](grahabhūtapiśācādyāḥ) [him](asya) [having-entered](āviśya) [depart](apayānti) [indeed](vai)
 
 ## mukta-m0-p96-v2395
-[yantram](yantrametadvilikhyāśmanyabhyarcya) [etad](etad) [vilikhya](vilikhya) [aśmani](aśmani) [abhyarcya](abhyarcya) [sthāpayet](sthāpayet) [kvacit](kvacit)
+[diagram](yantram) [this](etat) [having-inscribed](vilikhya) [on-stone](aśmani) [having-worshipped](abhyarcya) [one-should-place](sthāpayet) [somewhere](kvacit)
 
 ## mukta-m0-p96-v2396
-[sthāne](sthāne) [gajānām](gajānāṃ) [vāhānām](vāhānāṃ) [nava](nava) [kṛtvā](kṛtvā) [navasu](navasvapi) [api](api)
+[in-place](sthāne) [of-elephants](gajānāṃ) [of-vehicles](vāhānāṃ) [nine](nava) [having-made](kṛtvā) [in-nine](navasvapi)
 
 ## mukta-m0-p96-v2397
-[dikṣu](dikṣu) [madhye](madhye) [ca](ca) [tatraiva](tatraiva) [rogāḥ](rogāḥ) [kṛtyāḥ](kṛtyāḥ) [pareritāḥ](pareritāḥ)
+[in-directions](dikṣu) [in-middle](madhye) [and](ca) [there](tatra) [indeed](eva) [diseases](rogāḥ) [witchcrafts](kṛtyāḥ) [dispatched](pareritāḥ)
 
 ## mukta-m0-p96-v2398
-[candracandanakāśmīraiḥ](candracandanakāśmīrairālikhyābhinave) [ālikhya](ālikhya) [abhinave](abhinave) [paṭe](paṭe)
+[with-camphor+sandal+kashmir-saffron](candracandanakāśmīraiḥ) [having-drawn](ālikhya) [on-new](abhinave) [on-cloth](paṭe)
 
 ## mukta-m0-p96-v2399
-[dāhajvarārtam](dāhajvarārtamacirānmucyate) [acirāt](acirāt) [mucyate](mucyate) [tajjvareṇa](tajjvareṇa) [saḥ](saḥ)
+[from-burning+fever+afflicted](dāhajvarārtam) [quickly](acirāt) [is-released](mucyate) [by-that+fever](tajjvareṇa) [he](saḥ)
 
 ## mukta-m0-p96-v2400
-[samareṣu](samareṣu) [mahīpānām](mahīpānāṃ) [yantram](yantrametadudīritam) [etad](etad) [udīritam](udīritam)
+[in-battles](samareṣu) [of-kings](mahīpānāṃ) [diagram](yantram) [this](etat) [declared](udīritam)

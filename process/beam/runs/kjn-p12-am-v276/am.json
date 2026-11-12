@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 276,
- "question": "Which animals may serve as the sacrificial victim in this ritual context?",
+ "question": "Which animals may serve as the sacrificial offering in this ritual context?",
  "premises": [
-  "A jackal and a deer are listed as possible victims.",
-  "A buffalo and a rhinoceros are also included.",
-  "The list is extended by an inclusive marker."
+  "A jackal is included among possible offerings.",
+  "A deer or buffalo may be offered.",
+  "A rhinoceros is likewise included."
  ],
- "inference": "Multiple kinds of animals are permitted as sacrificial victims.",
- "uncertainties": [],
- "plain_english": "A jackal, a deer, or also a buffalo and a rhinoceros may likewise be used."
+ "inference": "Various animals, including jackal, deer, buffalo, and rhinoceros, are permitted as offerings.",
+ "uncertainties": [
+  "The exact ritual role of these animals depends on the surrounding context."
+ ],
+ "plain_english": "A jackal, a deer, or even a buffalo, and likewise a rhinoceros may be used."
 }

@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "m.loc.sg",
-   "grounds": "interrogative pronoun asking for the locus of dissolution"
+   "morph": "pron.loc.sg.m/n",
+   "grounds": "interrogative pronoun masculine or neuter locative singular"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction linking questions"
+   "grounds": "conjunctive particle"
   },
   {
    "lemma": "eva",
@@ -20,27 +20,27 @@
   {
    "lemma": "layaṃ",
    "morph": "m.acc.sg",
-   "grounds": "noun denoting the state of merging or dissolution"
+   "grounds": "accusative singular of laya"
   },
   {
    "lemma": "yāti",
    "morph": "3.sg.pres.act √yā",
-   "grounds": "verb expressing movement into dissolution"
+   "grounds": "present active third person singular of yā"
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "compound:tad+sarva; n.acc.sg",
-   "grounds": "compound referring to all these matters"
+   "morph": "compound:tad+sarva(n.acc.sg)",
+   "grounds": "accusative singular compound tad-sarva"
   },
   {
    "lemma": "kathayasva",
    "morph": "2.sg.imp.mid √kath",
-   "grounds": "imperative requesting explanation"
+   "grounds": "imperative middle second person singular of kath"
   },
   {
    "lemma": "me",
-   "morph": "pron.dat.sg",
-   "grounds": "dative pronoun indicating the recipient of the explanation"
+   "morph": "pron.dat/gen.sg.1",
+   "grounds": "first person pronoun dative or genitive singular"
   }
  ]
 }

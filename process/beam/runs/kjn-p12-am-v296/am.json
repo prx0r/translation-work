@@ -1,13 +1,15 @@
 {
  "song": "kjn-p12",
  "verse": 296,
- "question": "What characterizes a person who seeks the Kula teaching out of greed and fickleness?",
+ "question": "What characterizes a person who makes a mockery of the Kula scripture?",
  "premises": [
-  "The person is driven by greed.",
-  "The person is always fickle.",
-  "Such a person is called a mockery of the Kula scripture."
+  "The person seeks out of greed.",
+  "The person is fickle and constant in that behavior.",
+  "Such a person is a mockery of Kula scripture."
  ],
- "inference": "A greedy and fickle seeker is a constant mockery of the Kula scripture.",
- "uncertainties": [],
+ "inference": "A greedy and fickle seeker is always a mockery of the Kula scripture.",
+ "uncertainties": [
+  "The gender shift in capalā may be contextual or textual."
+ ],
  "plain_english": "One who seeks out of greed and is always fickle is a mockery of the Kula scripture."
 }

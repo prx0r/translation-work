@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-immediate(sadyaḥ) left(vāma) great(mahā) terrible(ghora) purusha(puruṣa) ishana(īśāna) forms(mūrtayaḥ)
+[sadyo](sadyo) [vāma](vāma) [mahā](mahā) [ghora](ghora) [puruṣa](puruṣa) [īśāna](īśāna) [mūrtayaḥ](mūrtayaḥ)
 
 ## mukta-m0-p03-v52
-five-twenty(pañcaviṃśati) division(bhedena) stream-division(srotobhedaḥ) proclaimed(prakīrtitaḥ)
+[pañcaviṃśati](pañcaviṃśati) [bhedena](bhedena) [srotas](sroto) [bhedaḥ](bhedaḥ) [prakīrtitaḥ](prakīrtitaḥ)
 
 ## mukta-m0-p03-v53
-among-them(teṣu+eva) mantra-tantra(mantra+tantra) named(ākhyaṃ) sada-shiva(sadāśiva) mouth-born(mukha+udgatam)
+[teṣu](teṣu) [eva](eva) [mantra](mantra) [tantra](tantra) [ākhyaṃ](ākhyaṃ) [sadāśiva](sadāśiva) [mukha](mukha) [udgatam](udgatam)
 
 ## mukta-m0-p03-v54
-upward(ūrdhva) east(pūrva) kubera(kubera) face(āsya) south(yāmya) mouth(vaktra) etc(ādi) in-order(yathā+kramam)
+[ūrdhva](ūrdhva) [pūrva](pūrva) [kubera](kubera) [āsya](āsya) [yāmya](yāmya) [vaktrāt](vaktrāt) [yathā](yathā) [kramam](kramam)
 
 ## mukta-m0-p03-v55
-ten-eighteen(daśa+aṣṭādaśa) division(bhedena) shiva-rudra(śiva+rudra) avatar(avatārakaiḥ)
+[daśa](daśa) [aṣṭādaśa](aṣṭādaśa) [bhedena](bhedena) [śiva](śiva) [rudra](rudra) [avatārakaiḥ](avatārakaiḥ)
 
 ## mukta-m0-p03-v56
-that(tad) indeed(eva) age-division(yuga+bhedena) sadyojata-etc(sadyojāta+ādi) forms(mūrtibhiḥ)
+[tat](tad) [eva](eva) [yuga](yuga) [bhedena](bhedena) [sadyojāta](sadyojāta) [ādi](ādi) [mūrtibhiḥ](mūrtibhiḥ)
 
 ## mukta-m0-p03-v57
-by-number(saṃkhyayā) garuda(gāruḍaṃ) likewise(tadvat) east-face(pūrva+vaktra) from-emerged(ad+vinirgatam)
+[saṃkhyayā](saṃkhyayā) [gāruḍaṃ](gāruḍaṃ) [tadvat](tadvat) [pūrva](pūrva) [vaktrāt](vaktrāt) [vinirgatam](vinirgatam)
 
 ## mukta-m0-p03-v58
-nya-sutra(naya+sūtra) etc(ādi) division(bhedena) left(vāmaṃ) from-left(vāma+ad+vinirgatam)
+[naya](naya) [sūtra](sūtra) [ādi](ādi) [bhedena](bhedena) [vāmaṃ](vāmaṃ) [vāmāt](vāmāt) [vinirgatam](vinirgatam)
 
 ## mukta-m0-p03-v59
-kaula-etc(kaula+ādi) twenty(viṃśat) numbered(saṃkhyātaṃ) bhuta-tantra(bhūta+tantraṃ) indeed(tu) immediately(sadyataḥ)
+[kaula](kaula) [ādi](ādi) [viṃśat](viṃśat) [saṃkhyātaṃ](saṃkhyātaṃ) [bhūta](bhūta) [tantraṃ](tantraṃ) [tu](tu) [sadyataḥ](sadyataḥ)
 
 ## mukta-m0-p03-v60
-asita-anga(asita+aṅga) etc(ādibhiḥ) on-earth(bhūmau) told(kathitaṃ) that(tad) many-ways(anekadhā)
+[asitāṅga](asitāṅga) [ādibhiḥ](ādibhiḥ) [bhūmau](bhūmau) [kathitaṃ](kathitaṃ) [tat](tad) [anekadhā](anekadhā)
 
 ## mukta-m0-p03-v61
-now(atha) siddhanta-tantras(siddhānta+tantrāṇām) avatar(avatāraḥ) described(nigadyate)
+[atha](atha) [siddhānta](siddhānta) [tantrāṇām](tantrāṇām) [avatāraḥ](avatāro) [nigadyate](nigadyate)
 
 ## mukta-m0-p03-v62
-protection(trāṇaṃ) and(ca) does(kurute) because(yasmāt) tantra(tantram) thus(iti) called(abhidhīyate)
+[trāṇaṃ](trāṇaṃ) [ca](ca) [kurute](kurute) [yasmāt](yasmāt) [tantram](tantram) [iti](iti) [abhidhīyate](abhidhīyate)
 
 ## mukta-m0-p03-v63
-from-om(praṇavāt) three-time(trikalaḥ) obtained(prāptaḥ) from-three-time(trikalāt+ca) then(tataḥ) hara(haraḥ)
+[praṇavāt](praṇavāt) [trikalaḥ](trikalaḥ) [prāptaḥ](prāptaḥ) [trikalāt](trikalāc) [ca](ca) [tataḥ](tato) [haraḥ](haraḥ)
 
 ## mukta-m0-p03-v64
-narasimha(nārasiṃhaṃ) and(ca) brahmin-lords(viprendrāḥ) said(kathyate) kamika-triad(kāmika+trayam)
+[nārasiṃhaṃ](nārasiṃhaṃ) [ca](ca) [vipra](vipra) [indrāḥ](indrāḥ) [kathyate](kathyate) [kāmika](kāmika) [trayam](trayam)
 
 ## mukta-m0-p03-v65
-nectar-named(sudhā+ākhya) ash(bhasma) obtained(saṃprāptaḥ) then(tataḥ) obtained(prāptaḥ) lord(vibhuḥ) in-order(kramāt)
+[sudhā](sudhā) [ākhyāt](ākhyād) [bhasma](bhasma) [saṃprāptaḥ](saṃprāptas) [tataḥ](tataḥ) [prāptaḥ](prāpto) [vibhuḥ](vibhuḥ) [kramāt](kramāt)
 
 ## mukta-m0-p03-v66
-self-yoga(ātma+yogaṃ) and(ca) five(pañca) these(ete) yoga-tantra(yoga+tantrasya) dividers(bhedakāḥ)
+[ātma](ātma) [yogaṃ](yogaṃ) [ca](ca) [pañca](pañca) [ete](ete) [yoga](yoga) [tantrasya](tantrasya) [bhedakāḥ](bhedakāḥ)
 
 ## mukta-m0-p03-v67
-from-dipta(dīptāt+ca) gopati(gopatiḥ) obtained(prāptaḥ) then(tataḥ) obtained(prāptā) and(tu) ambika(cāmbikā)
+[dīptāt](dīptāc) [ca](ca) [gopatiḥ](gopatiḥ) [prāptaḥ](prāptas) [tataḥ](tataḥ) [prāptā](prāptā) [tu](tu) [ca](cā) [ambikā](ambikā)
 
 ## mukta-m0-p03-v68
-nectar(amṛtaṃ) cintya-tantra(cintyantantrasya) sixfold(ṣaḍvidhaṃ) indeed(tu) proclaimed(prakīrtitam)
+[amṛtaṃ](amṛtaṃ) [cintya](cintya) [tantrasya](tantrasya) [ṣaḍvidhaṃ](ṣaḍvidhaṃ) [tu](tu) [prakīrtitam](prakīrtitam)
 
 ## mukta-m0-p03-v69
-from-cause(kāraṇāt) sharva-rudra(śarva+rudraḥ) indeed(tu) from-sharva(śarvāt) obtained(prāptaḥ) prajapati(prajāpatiḥ)
+[kāraṇāt](kāraṇāc) [śarva](śarva) [rudraḥ](rudras) [tu](tu) [śarvāt](śarvāt) [prāptaḥ](prāptaḥ) [prajāpatiḥ](prajāpatiḥ)
 
 ## mukta-m0-p03-v70
-then(tataḥ) indeed(tu) killing(māraṇaṃ) hatred(dveṣṭaṃ) sevenfold(saptadhā) cause(kāraṇaṃ) likewise(tathā)
+[tataḥ](tatas) [tu](tu) [māraṇaṃ](māraṇaṃ) [dveṣṭaṃ](dveṣṭaṃ) [saptadhā](saptadhā) [kāraṇaṃ](kāraṇaṃ) [tathā](tathā)
 
 ## mukta-m0-p03-v71
-su-shiva-named(suśiva+ākhya) shiva(śivaḥ) obtained(prāptaḥ) from-that-shiva(tat+śivāt) achyuta(acyutaḥ) then(tataḥ)
+[suśiva](suśiva) [ākhyāt](ākhyāc) [śivaḥ](śivaḥ) [prāptaḥ](prāptas) [tat](tac) [śivāt](śivād) [acyutaḥ](acyutas) [tataḥ](tataḥ)
 
 ## mukta-m0-p03-v72
-four-division(catur+bhedam) this(idaṃ) tantra(tantraṃ) and(ca) in-this(asmin) tantra(tantre) proclaimed(prakīrtitam)
+[catur](catur) [bhedam](bhedam) [idaṃ](idaṃ) [tantraṃ](tantraṃ) [ca](cā) [asmin](asmin) [tantre](tantre) [prakīrtitam](prakīrtitam)
 
 ## mukta-m0-p03-v73
-ishana-form(īśāna+mūrtiḥ) obtained(saṃprāptaḥ) then(tataḥ) obtained(prāptaḥ) fire(hutāśanaḥ)
+[īśāna](īśāna) [mūrtiḥ](mūrtiḥ) [saṃprāptaḥ](saṃprāptas) [tataḥ](tataḥ) [prāptaḥ](prāpto) [hutāśanaḥ](hutāśanaḥ)
 
 ## mukta-m0-p03-v74
-ananda(ānandaṃ) madhya-born(mādhya+udbhūtam) wonderful(adbhūtaṃ) unbroken(akṣataṃ) likewise(tathā)
+[ānandaṃ](ānandaṃ) [mādhaya](mādhaya) [udbhūtam](udbhūtam) [adbhūtaṃ](adbhūtaṃ) [ca](cā) [akṣataṃ](akṣataṃ) [tathā](tathā)
 
 ## mukta-m0-p03-v75
-subtle(sūkṣmaṃ) of-subtle(sūkṣmasya) declared(saṃproktaṃ) that(tad) great-text(ūgranthaṃ) lotus-number(padma+saṃkhyayā)
+[sūkṣmaṃ](sūkṣmaṃ) [sūkṣmasya](sūkṣmasya) [saṃproktaṃ](saṃproktaṃ) [tat](tad) [ugranthaṃ](ūgranthaṃ) [padma](padma) [saṃkhyayā](saṃkhyayā)
