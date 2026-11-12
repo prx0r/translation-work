@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p168-v4176
-śiva+kumbha+astra+yajanaḥ(śivakumbhāstrayajano) lokapāla+arcana+anvitaḥ(lokapālārcanānvitaḥ)
+[śiva+kumbha+astra+worship](śivakumbhāstrayajano) [world+guardian+worship+endowed-with](lokapālārcanānvitaḥ)
 
 ## mukta-m0-p168-v4177
-kṛta+kumbha+astra+saṃpūjaḥ(kṛtakumbhāstrasaṃpūjaḥ) tad+adhyeṣaṇa+saṃyutaḥ(tadadhyeṣaṇasaṃyutaḥ)
+[having-performed+kumbha+weapon+worship](kṛtakumbhāstrasaṃpūjaḥ) [that+request+accompanied-by](tadadhyeṣaṇasaṃyutaḥ)
 
 ## mukta-m0-p168-v4178
-jalādhi+vāsana+sthānāt(jalādhivāsanasthānād) ānīya(ānīya) parameśvaram(parameśvaram)
+[water+immersion+place+from+having-brought](jalādhivāsanasthānādānīya) [supreme+lord](parameśvaram)
 
 ## mukta-m0-p168-v4179
-mṛdbhiḥ(mṛdbhiḥ) kaṣāya+vargeṇa(kaṣāyavargeṇa) pañca+gavya+phala+udakaiḥ(pañcagavyaphalodakaiḥ)
+[with-clods-of-earth](mṛdbhiḥ) [astringent+group+with](kaṣāyavargeṇa) [five+cow-products+fruit+waters+with](pañcagavyaphalodakaiḥ)
 
 ## mukta-m0-p168-v4180
-pañca+amṛtaiḥ(pañcāmṛtaiḥ) kuśa+udaiḥ(kuśodairvā) snāpayet(snāpayed) vṛṣabha+dhvajam(vṛṣabhadhvajam)
+[with-five+nectars](pañcāmṛtaiḥ) [with-kuśa+waters+or](kuśodairvā) [one-should-bathe+bull+bannered-one](snāpayedvṛṣabhadhvajam)
 
 ## mukta-m0-p168-v4181
-ācchādya(ācchādya) vastra+yugmena(vastrayugmena) gandha+ādyaiḥ(gandhādyair) arcayet(arcayet) kramāt(kramāt)
+[having-covered](ācchādya) [with-garment+pair](vastrayugmena) [with-fragrance+and-others+one-should-worship+in-order](gandhādyairarcayetkramāt)
 
 ## mukta-m0-p168-v4182
-śayyāṃ(śayyāṃ) ca(ca) kalpayet(kalpayed) vidvān(vidvān) śāli+taṇḍula+kādibhiḥ(śālitaṇḍulakādibhiḥ)
+[bed](śayyāṃ) [and](ca) [should-prepare+wise-one](kalpayedvidvān) [with-rice+grain+and-others](śālitaṇḍulakādibhiḥ)
 
 ## mukta-m0-p168-v4183
-tilaiḥ(tilaiḥ) tad+ardhaiḥ(tadardhair) lājaiḥ(lājaiśca) darbhaiḥ(darbhaiḥ) puṣpaiḥ(puṣpaiḥ) paristaret(paristaret)
+[with-sesame-seeds](tilaiḥ) [their+half+with-parched-grains+and](tadardhairlājaiśca) [with-darbha-grass](darbhaiḥ) [with-flowers+should-strew](puṣpaiḥ paristaret)
 
 ## mukta-m0-p168-v4184
-kārpāsa+jaṃ(kārpāsajaṃ) krameṇa+eva(krameṇaiva) kalpayet(kalpayed) upadhānakam(upadhānakam)
+[made-of-cotton](kārpāsajaṃ) [in-order+indeed](krameṇaiva) [should-prepare+pillow](kalpayedupadhānakam)
 
 ## mukta-m0-p168-v4185
-sampūjya(sampūjyāsanamantraiśca) āsana+mantraiḥ(sampūjyāsanamantraiśca) śaktiṃ(śaktiṃ) śayyā+adhipāṃ(śayyādhipāṃ) nyaset(nyaset)
+[having-worshipped+with-seat+mantras+and](sampūjyāsanamantraiśca) [power](śaktiṃ) [bed+presiding-goddess](śayyādhipāṃ) [should-place](nyaset)
 
 ## mukta-m0-p168-v4186
-dvāra+deśe(dvāradeśe) tu(tu) saṃprāpte(saṃprāpte) dadyāt(dadyād) arghyaṃ(arghyaṃ) krameṇa(krameṇa) tu(tu)
+[door+place](dvāradeśe) [but](tu) [having-arrived](saṃprāpte) [should-give+arghya-offering](dadyādarghyaṃ) [in-order](krameṇa) [indeed](tu)
 
 ## mukta-m0-p168-v4187
-liṅgasya(liṅgasyottarato) uttarataḥ(liṅgasyottarato) devīṃ(devīṃ) kriyā+ākhyāṃ(kriyākhyāṃ) pīṭha+vigrahām(pīṭhavigrahām)
+[of-liṅga+to-the-north](liṅgasyottarato) [goddess](devīṃ) [action+named](kriyākhyāṃ) [pedestal+embodied](pīṭhavigrahām)
 
 ## mukta-m0-p168-v4188
-mūrti+mūrti+īśvara+nyāsaṃ(mūrtimūrtīśvaranyāsaṃ) tatva+tatva+īśvara+anvitam(tatvatatveśvarānvitam)
+[form+form-lord+placement](mūrtimūrtīśvaranyāsaṃ) [principle+principle-lord+endowed-with](tatvatatveśvarānvitam)
 
 ## mukta-m0-p168-v4189
-ātma+vidyā+śiva+ākhyaṃ(ātmavidyāśivākhyaṃ) tu(tu) tatva+trayam(tatvatrayam) iti(itīritam) īritam(itīritam)
+[self+knowledge+śiva+named](ātmavidyāśivākhyaṃ) [but](tu) [principle+triad+thus+declared](tatvatrayamitīritam)
 
 ## mukta-m0-p168-v4190
-vyoma+antā(vyomāntā) mūrtayaḥ(mūrtayaścāṣṭau) ca(ca) aṣṭau(aṣṭau) nyastavyāḥ(nyastavyāḥ) pratikhaṇḍakam(pratikhaṇḍakam)
+[ether+ending](vyomāntā) [forms+and+eight](mūrtayaścāṣṭau) [to-be-placed](nyastavyāḥ) [in-each+section](pratikhaṇḍakam)
 
 ## mukta-m0-p168-v4191
-īśānaḥ(īśānaśca) ca(ca) mahādevaḥ(mahādevo) bhīmaḥ(bhīmaścetyaṣṭamūrtipāḥ) ca(ca) iti(iti) aṣṭa+mūrti+pāḥ(aṣṭamūrtipāḥ)
+[īśāna+and](īśānaśca) [great+god](mahādevo) [bhīma+and+thus+eight+form+guardians](bhīmaścetyaṣṭamūrtipāḥ)
 
 ## mukta-m0-p168-v4192
-khañca(khañceti) iti(iti) mūrtayaḥ(mūrtayo) liṅge(liṅge) brahma+ādyāḥ(brahmādyā) mūrti+pāḥ(mūrtipā) matāḥ(matāḥ)
+[kha+and+thus](khañceti) [forms](mūrtayo) [in-liṅga](liṅge) [brahmā+and-others](brahmādyā) [form+guardians](mūrtipā) [considered](matāḥ)
 
 ## mukta-m0-p168-v4193
-śiva+śakti+manīṣā+antaṃ(śivaśaktimanīṣāntaṃ) tri+khaṇḍa+kalpanaṃ(trikhaṇḍakalpanaṃ) punaḥ(punaḥ)
+[śiva+śakti+manīṣā+ending](śivaśaktimanīṣāntaṃ) [three+section+arrangement](trikhaṇḍakalpanaṃ) [again](punaḥ)
 
 ## mukta-m0-p168-v4194
-śabda+citta+manīṣā+antaṃ(śabdacittamanīṣāntaṃ) liṅge(liṅge) pīṭhe(pīṭhe) aśmani(aśmani) kramāt(kramāt)
+[sound+mind+manīṣā+ending](śabdacittamanīṣāntaṃ) [in-liṅga](liṅge) [in-pedestal](pīṭhe) [in-stone+in-order]('śmani kramāt)
 
 ## mukta-m0-p168-v4195
-dhārikā(dhārikā) dīpti(dīptim) uti+ugrā(utyugrā) jyotsnā(jyotsnā) cetā(cetā) bala+utkaṭā(balotkaṭā)
+[dhārikā](dhārikā) [dīpti+utu+ugrā](dīptimutyugrā) [jyotsnā](jyotsnā) [cetā](cetā) [bala+utkaṭā](balotkaṭā)
 
 ## mukta-m0-p168-v4196
-pañca+mūrti+ātmake(pañcamūrtyātmake) nyāse(nyāse) vāma+ādyāḥ(vāmādyā) mūrti+pāḥ(mūrtipā) matāḥ(matāḥ)
+[five+form+consisting-of](pañcamūrtyātmake) [in-placement](nyāse) [vāmā+and-others](vāmādyā) [form+guardians](mūrtipā) [considered](matāḥ)
 
 ## mukta-m0-p168-v4197
-sampūjya(sampūjya) gandha+puṣpa+ādyaiḥ(gandhapuṣpādyair) devān(devān) adhva+patīn(adhvapatīn) kramāt(kramāt)
+[having-worshipped](saṃpūjya) [with-fragrance+flower+and-others+gods+path+lords](gandhapuṣpādyairdevānadhvapatīn) [in-order](kramāt)
 
 ## mukta-m0-p168-v4198
-śiva+aṅgāni(śivāṅgāni) ca(ca) sampūjya(sampūjya) gandha+puṣpa+ādibhiḥ(gandhapuṣpādibhiḥ) kramāt(kramāt)
+[śiva+limbs](śivāṅgāni) [and](ca) [having-worshipped](sampūjya) [with-fragrance+flower+and-others](gandhapuṣpādibhiḥ) [in-order](kramāt)
 
 ## mukta-m0-p168-v4199
-vedi+ūrdhve(vedyūrdhve) paritaḥ(paritaḥ) kumbhān(kumbhān) nyaset(nyased) viśveśvara+ātmakān(viśveśvarātmakān)
+[altar+above](vedyūrdhve) [all-around](paritaḥ) [pots+should-place+viśveśvara+natured](kumbhānnyasedviśveśvarātmakān)
 
 ## mukta-m0-p168-v4200
-kumbhān(kumbhān) vastraiḥ(vastraiḥ) samāveṣṭya(samāveṣṭya) hema+padma+samanvitān(hemapadmasamanvitān)
+[pots](kumbhān) [with-garments](vastraiḥ) [having-wrapped](samāveṣṭya) [gold+lotus+endowed-with](hemapadmasamanvitān)

@@ -1,12 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 207,
- "question": "What perceptual effect arises for one devoted to worship and meditation in that circle?",
+ "question": "What claim is made about the vision of that circle for one devoted to worship and meditation?",
  "premises": [
-  "The practitioner is devoted to worship and meditation in that circle",
-  "Vision occurs from afar"
+  "Vision occurs in relation to that circle.",
+  "The agent is devoted to worship and meditation.",
+  "Vision arises from afar."
  ],
- "inference": "Devotion to worship and meditation in that circle grants distant vision.",
- "uncertainties": [],
- "plain_english": "And for one devoted to worship and meditation in that circle, there is vision from afar."
+ "inference": "For one devoted to worship and meditation, vision of that circle occurs from afar.",
+ "uncertainties": [
+  "The nature of that vision is not specified in this verse."
+ ],
+ "plain_english": "And indeed, vision of that circle comes from afar to one devoted to worship and meditation."
 }

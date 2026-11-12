@@ -1,12 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 208,
- "question": "What additional ritual powers are associated with this circle?",
+ "question": "What claim is made about the powers associated with this practice by listing killing, uprooting, paralyzing, deluding and the like?",
  "premises": [
-  "Killing and uprooting are mentioned",
-  "Paralyzing, deluding, and similar powers are included"
+  "Killing and uprooting are among the powers named.",
+  "Paralyzing, deluding and the like are among the powers named.",
+  "These powers are addressed to the fortunate and beloved one."
  ],
- "inference": "The circle confers powers such as killing, uprooting, paralyzing, and deluding.",
- "uncertainties": [],
- "plain_english": "O fortunate one, O beloved, it brings killing, uprooting, paralyzing, deluding, and the like."
+ "inference": "The practice is associated with a range of powers including killing, uprooting, paralyzing and deluding.",
+ "uncertainties": [
+  "The conditions for exercising these powers are not given in this verse."
+ ],
+ "plain_english": "O fortunate one, O beloved one, killing, uprooting, paralyzing, deluding and the like occur."
 }

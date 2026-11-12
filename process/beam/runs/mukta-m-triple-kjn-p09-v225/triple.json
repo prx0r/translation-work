@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral element forming the count eighty-four thousand",
-     "morph": "numeral.compound"
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural indicating the total number",
-     "morph": "n.loc.pl"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
+     "morph": "neut.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound of yoni (womb/source) and yantra (diagram/device)",
-     "morph": "yoni+womb+compound-member, yantra+diagram+compound-member, n.loc.pl"
+     "gloss": "womb-diagrams",
+     "grounds": "compound locative referring to womb-mechanisms",
+     "morph": "neut.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing those afflicted",
-     "morph": "m.nom.pl.past-passive-participle, √pīḍ"
+     "grounds": "past passive participle describing afflicted beings",
+     "morph": "3.pl.pass-perf"
     }
    ],
-   "question": "What affliction befalls beings within the eighty-four thousand womb-diagrams?",
+   "question": "By what count and in what locations are certain beings said to endure torment in this claim?",
    "premises": [
-    "The scope is eighty-four thousand in number.",
-    "The locations are womb-diagrams.",
-    "Those within them are tormented."
+    "A count of eighty-four is specified for the group in question.",
+    "That count is placed among thousands of womb-diagrams.",
+    "Beings located there are described as tormented."
    ],
-   "inference": "Beings situated in the eighty-four thousand womb-diagrams suffer torment.",
+   "inference": "Beings are tormented in eighty-four thousands of womb-diagrams.",
    "uncertainties": [
-    "The subject of pīḍitāḥ is implied from context rather than explicitly stated in this verse."
+    "The identity of the tormented beings is not specified by these tokens alone."
    ],
-   "plain_english": "They are tormented within the eighty-four thousand womb-diagrams."
+   "plain_english": "Eighty-four thousand womb-diagrams contain tormented beings."
   }
  ]
 }

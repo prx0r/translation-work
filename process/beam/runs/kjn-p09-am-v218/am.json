@@ -1,12 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 218,
- "question": "What claim is made about the uniqueness of this knowledge?",
+ "question": "What claim about the uniqueness of this knowledge is made by denying that any equal knowledge will exist again?",
  "premises": [
-  "No knowledge equal to this exists",
-  "No such knowledge will arise again"
+  "Knowledge equal to this exists by this means.",
+  "No equal knowledge will exist again.",
+  "No equal knowledge will exist at all in that sense."
  ],
- "inference": "This knowledge is declared uniquely unsurpassed in past and future.",
- "uncertainties": [],
- "plain_english": "There is no knowledge equal to this, nor will there ever be again."
+ "inference": "There is no knowledge equal to this, and none like it will arise again.",
+ "uncertainties": [
+  "The scope of 'again' is not specified here."
+ ],
+ "plain_english": "There is no knowledge equal to this, and there will be none again."
 }

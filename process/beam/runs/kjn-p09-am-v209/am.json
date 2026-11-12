@@ -1,12 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 209,
- "question": "What condition is necessary for success in this practice?",
+ "question": "What claim about success is made by tying attainment to knowing the method of eight times eight?",
  "premises": [
-  "Success follows knowing the eight-times-eight method",
-  "Success does not occur otherwise"
+  "The method of eight times eight must be known.",
+  "One succeeds by knowing that method.",
+  "Success does not occur otherwise."
  ],
- "inference": "Knowledge of the eight-times-eight method is required for success.",
- "uncertainties": [],
- "plain_english": "Having known the method of the eight groups of eight, one succeeds; not otherwise."
+ "inference": "Attainment depends strictly on knowing the method of eight times eight, with no success by other means.",
+ "uncertainties": [
+  "The content of the eight-times-eight method is not detailed here."
+ ],
+ "plain_english": "Indeed, having known the method of eight times eight, one succeeds; not otherwise."
 }

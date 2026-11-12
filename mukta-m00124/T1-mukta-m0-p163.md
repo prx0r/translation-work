@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p163-v4051
-middle nine-pada make isana nairrta without
+[in-middle](madhye) [nine+part](navapadaṃ) [having-made](kṛtvā) [īśāna](īśānaṃ) [nairṛta](nairṛtaṃ) [without](vinā)
 
 ## mukta-m0-p163-v4052
-south three left water-clock six-placed
+[in-south](dakṣiṇe) [in-triad](tritaye) [in-left](vāme) [pots](ghaṭikāḥ) [six](ṣaḍ) [arranged](vyavasthitāḥ)
 
 ## mukta-m0-p163-v4053
-likewise nairrta region lid well-placed
+[likewise](tathaiva) [in-nairṛta](nairṛte) [place](deśe) [dishes](śarāvaḥ) [well-arranged](suvyavasthitaḥ)
 
 ## mukta-m0-p163-v4054
-bowl water-clock and lid in-order
+[germinating-dish](pālikā) [pot](ghaṭikā) [and](ca) [indeed](eva) [dish](śarāvaḥ) [and](ca) [in-due-order](yathākramāt)
 
 ## mukta-m0-p163-v4055
-by-this very order fire-etc gods place
+[by-this](anena) [indeed](eva) [by-order](krameṇa) [indeed](eva) [in-fire-etc.](vahnyādviṣu) [directions](ca) [one-should-place](vinyaset)
 
 ## mukta-m0-p163-v4056
-as-before bowl-etc but sarva beginning place
+[as-before](pūrvavat) [germinating-dish+etc.](pālikādyaṃ) [but](tu) [beginning-with-śarva](śarvamārabhya) [one-should-place](vinyaset)
 
 ## mukta-m0-p163-v4057
-as-before nine-pada make door east west
+[as-before](prāgvat) [nine+part](navapadaṃ) [having-made](kṛtvā) [at-door](dvāre) [in-east](pūrvatra) [in-west](paścime)
 
 ## mukta-m0-p163-v4058
-this small-middle be then small-small
+[this](etat) [lesser+middle](kanyasamadhyaṃ) [should-be](syāt) [then](tataḥ) [lesser+of-lesser](kanyasakanyasam)
 
 ## mukta-m0-p163-v4059
-middle pot and east-etc bowl-etc place
+[in-middle](madhye) [pot](kumbhaṃ) [and](ca) [beginning-with-east+germinating-dish+etc.](pūrvādipālikādīṃś) [and](ca) [one-should-place](vinyaset)
 
 ## mukta-m0-p163-v4060
-altar make learned eight-drona rice
+[altar](sthaṇḍilaṃ) [should-make](kārayet) [wise-one](vidvān) [with-eight+droṇas](aṣṭadroṇena) [of-rice](śālikā)
 
 ## mukta-m0-p163-v4061
-shiva-pot as-said pot prastha or per-bowl
+[as-stated-for-śiva+pot](śivakumbhoktavat) [in-pot](kumbhe) [prastha](prasthaṃ) [or](vā) [for-each+germinating-dish](pratipālikam)
 
 ## mukta-m0-p163-v4062
-half that rice-included sesame-parched-rice with
+[its+half](tadardhaṃ) [endowed-with-rice](taṇḍulopetaṃ) [accompanied-by-sesame+parched-grain](tilalājasamanvitam)
 
 ## mukta-m0-p163-v4063
-drona half or full pot-number with
+[with-droṇa](droṇena) [with-half](ardhena) [or](vā) [filled](pūrṇaṃ) [equal-to-number+of-pots](kumbhasaṃkhyāsamanvitam)
 
 ## mukta-m0-p163-v4064
-golden moon-image be good-cloth face with
+[golden](sauvarṇaṃ) [moon+disc](candrabimbaṃ) [should-be](syāt) [endowed-with-good+cloth+face](sadvastravadanānvitam)
 
 ## mukta-m0-p163-v4065
-rice-pudding give learned betel give then
+[milk-rice](pāyasaṃ) [should-offer](dāpayet) [wise-one](vidvān) [betel](tāmbūlaṃ) [should-offer](dāpayet) [then](tataḥ)
 
 ## mukta-m0-p163-v4066
-darbha kusha palasha or holeless hollow lead
+[with-darbha-grass](darbhaiḥ) [with-kuśa-grass](kuśaiḥ) [with-palāśa-leaves](palāśaiḥ) [or](vā) [without-hole](niśchidraṃ) [opening](suṣiraṃ) [should-lead](nayet)
 
 ## mukta-m0-p163-v4067
-substances sow after milk moistened indeed
+[substances](dravyāṇi) [one-should-sow](vāpayet) [afterwards](paścāt) [with-milk](payasā) [soaked](bhāvitāni) [indeed](vai)
 
 ## mukta-m0-p163-v4068
-horsegram seven-seeds sow best but
+[kuluttha](kulutthaṃ) [seven+seeds](saptabījāni) [one-should-sow](vāpayet) [of-the-best](uttamasya) [indeed](tu)
 
 ## mukta-m0-p163-v4069
-thus middle said small sesame-mustard
+[thus](evaṃ) [indeed](tu) [middle](madhyamaṃ) [declared](proktaṃ) [lesser](kanyasaṃ) [sesame+mustard](tilasarṣapam)
 
 ## mukta-m0-p163-v4070
-sesame mustard mung and blackgram pod horsegram
+[sesame+mustard+mudga](tilasarṣapamudgāṃś) [and](ca) [māṣa+śimba+kuluttha](māṣaśimbakulutthakān)
 
 ## mukta-m0-p163-v4071
-or other manner substance-character said
+[now](atha) [or](vā) [by-another+method](anyaprakāreṇa) [substance+characteristic](dravyalakṣaṇam) [is-stated](ucyate)
 
 ## mukta-m0-p163-v4072
-pea rice apamarga pod rice adhaka remembered
+[niṣpāva+śāli+apāmārga+śimba+vrīhi+āḍhaka](niṣpāvaśālyapāmārgaśimbāvrīhyāḍhakāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p163-v4073
-milk moistened there offer heart with
+[with-milk](payasā) [soaked](bhāvitāni) [here](atra) [one-should-scatter](nirvapet) [with-heart-mantra](hṛdayena) [indeed](tu)
 
 ## mukta-m0-p163-v4074
-sow seed-chief east-facing or north-facing
+[one-should-sow](vāpayet) [with-seed+mantra](bījamukhyena) [facing-east](prāṅmukho) [or](vā) [or](api) [facing-north](udaṅmukhaḥ)
 
 ## mukta-m0-p163-v4075
-pot-water drying before fragrant-water fill
+[before-drying+of-pot+water](kumbhāmbhaḥśoṣaṇāt) [before](pūrvaṃ) [with-fragrant+water](gandhatoyena) [one-should-fill](pūrayet)

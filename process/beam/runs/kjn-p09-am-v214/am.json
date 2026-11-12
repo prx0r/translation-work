@@ -1,12 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 214,
- "question": "What categories of yoginis are included in this enumeration?",
+ "question": "What claim about the totality of these figures is made by classifying them as innate, family-born, and all door guardians?",
  "premises": [
-  "All innate yoginis are included",
-  "All family-born yoginis and all door guardians are included"
+  "All are innate.",
+  "All are family-born.",
+  "All are door guardians."
  ],
- "inference": "The enumeration includes innate, family-born, and door-guardian yoginis.",
- "uncertainties": [],
- "plain_english": "All innate ones, all family-born ones, and all door guardians."
+ "inference": "These figures are comprehensively classified as innate, family-born, and guardians of all doors.",
+ "uncertainties": [
+  "The relation between these three classes is not specified here."
+ ],
+ "plain_english": "All are innate, all are family-born, all are guardians of all doors."
 }

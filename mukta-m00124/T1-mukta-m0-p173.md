@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p173-v4301
-[jātyaṃśa+yojite](jātyaṃśayojite) [vaibhiḥ+yuktaṃ](vaibhiryuktaṃ) [cet](cet) [tat+pragṛhyatām](tatpragṛhyatām)
+[birth](jātya) [part](aṃśa) [joined](yojite) [with-those](vaibhiḥ) [endowed](yuktaṃ) [if](cet) [that](tat) [should-be-taken](pragṛhyatām)
 
 ## mukta-m0-p173-v4302
-[gṛhīta+pratima+uttuṅga+māna+mātreṇa](gṛhītapratimottuṅgamānamātreṇa) [vā](vā) [bhavet](bhavet)
+[taken](gṛhīta) [image](pratimā) [height](uttuṅga) [measure](māna) [only](mātreṇa) [or](vā) [should-be](bhavet)
 
 ## mukta-m0-p173-v4303
-[dhātu+jaṃ](dhātujaṃ) [danta+jaṃ](dantajaṃ) [beraṃ](beraṃ) [evaṃ](evaṃ) [sapta+vidhaṃ](saptavidhaṃ) [bhavet](bhavet)
+[mineral](dhātu) [born](jaṃ) [ivory](danta) [born](jaṃ) [image](beram) [thus](evaṃ) [seven](sapta) [fold](vidhaṃ) [should-be](bhavet)
 
 ## mukta-m0-p173-v4304
-[pratimāṃ](pratimāṃ) [kārayet](kārayed) [vidvān](vidvāñ) [śilpinā](śilpinā) [hṛdayaṃ](hṛdayaṃ) [japet](japet)
+[image](pratimāṃ) [should-make](kārayet) [wise-one](vidvān) [with-artisan](śilpinā) [heart](hṛdayaṃ) [should-recite](japet)
 
 ## mukta-m0-p173-v4305
-[ācāryaṃ](ācāryaṃ) [pūjayet](pūjayet) [paścāt](paścād) [vastra+hema+aṅgulīyakaiḥ](vastrahemāṅgulīyakaiḥ)
+[teacher](ācāryaṃ) [should-worship](pūjayet) [afterwards](paścāt) [with-garments](vastra) [gold](hema) [and-rings](aṅgulīyakaiḥ)
 
 ## mukta-m0-p173-v4306
-[sadāśiva+ādyaṃ](sadāśivādyaṃ) [beraṃ](beraṃ) [tu](tu) [daśa+tāla+uttamena](daśatālottamena) [tu](tu)
+[Sadāśiva](sadāśiva) [beginning-with](ādyaṃ) [image](beraṃ) [indeed](tu) [with-ten](daśa) [tāla](tāla) [best](uttamena) [indeed](tu)
 
 ## mukta-m0-p173-v4307
-[umā+mā+skanda+sahitaḥ](umomāskandasahitaḥ) [sthitaḥ](sthitaḥ) [syāt](syād) [indu+śekharaḥ](induśekharaḥ)
+[with-Umā](umā) [Umā](umā) [and-Skanda](skanda) [accompanied](sahitaḥ) [standing](sthitaḥ) [should-be](syāt) [moon](indu) [crested](śekharaḥ)
 
 ## mukta-m0-p173-v4308
-[tataḥ](tataḥ) [syāt](syādd) [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtir) [geya+mūrtiḥ](geyamūrtir) [ataḥ](ataḥ) [param](param)
+[then](tataḥ) [should-be](syāt) [Dakṣiṇāmūrti](dakṣiṇāmūrtiḥ) [singing](geya) [form](mūrtiḥ) [after](ataḥ) [then](param)
 
 ## mukta-m0-p173-v4309
-[sukhāsanaḥ](sukhāsanaḥ) [tataḥ](tataḥ) [proktaḥ](proktaḥ) [tataḥ](tataḥ) [kalyāṇa+sundaraḥ](kalyāṇasundaraḥ)
+[seated-at-ease](sukhāsanaḥ) [then](tataḥ) [declared](proktaḥ) [then](tataḥ) [Kalyāṇasundara](kalyāṇasundaraḥ)
 
 ## mukta-m0-p173-v4310
-[vṛṣa+ārūḍhaḥ](vṛṣārūḍhaḥ) [tataḥ](tataḥ) [proktaḥ](proktaḥ) [gaṃgā+yuga+paraḥ](gaṃgāyugaparastathā) [tathā](tathā)
+[bull](vṛṣa) [mounted](ārūḍhaḥ) [then](tataḥ) [declared](proktaḥ) [Gaṅgā](gaṃgā) [pair](yuga) [beyond-that](paraḥ) [likewise](tathā)
 
 ## mukta-m0-p173-v4311
-[nandīśvara+prasādaḥ](nandīśvaraprasādaśca) [ca](ca) [ūrdhva+pāda+samanvitaḥ](ūrdhvapādasamanvitaḥ)
+[Nandīśvara](nandīśvara) [grace](prasādaḥ) [and](ca) [raised](ūrdhva) [foot](pāda) [endowed-with](samanvitaḥ)
 
 ## mukta-m0-p173-v4312
-[manonmanīṃ](manonmanīṃ) [ca](ca) [gaurī](gaurī) [ca](ca) [vighneśa+skanda+nandinaḥ](vighneśaskandanandinaḥ)
+[Manonmanī](manonmanīṃ) [and](ca) [Gaurī](gaurī) [and](ca) [Vighneśa](vighneśa) [Skanda](skanda) [Nandin](nandinaḥ)
 
 ## mukta-m0-p173-v4313
-[brahmāṇaṃ](brahmāṇaṃ) [ca](ca) [hariṃ](hariṃ) [lakṣmīṃ](lakṣmīṃ) [moṭīṃ](moṭīṃ) [vāgīśvarīm](vāgīśvarīm) [api](api)
+[Brahmā](brahmāṇaṃ) [and](ca) [Hari](hariṃ) [Lakṣmī](lakṣmīṃ) [Moṭī](moṭīṃ) [Vāgīśvarī](vāgīśvarīm) [also](api)
 
 ## mukta-m0-p173-v4314
-[jyeṣṭhā+savitṛ+ṛkṣa+indra+aśvinīṃ](jyeṣṭhāsavitṛ-ṛkṣendrānaśvinīṃ) [ca](ca) [mahīṃ](mahīṃ) [ṛṣīn](ṛṣīn)
+[Jyeṣṭhā](jyeṣṭhā) [Savitṛ](savitṛ) [Ṛkṣa](ṛkṣa) [Indra](indrān) [Aśvinī](aśvinīṃ) [and](ca) [Earth](mahīṃ) [sages](ṛṣīn)
 
 ## mukta-m0-p173-v4315
-[lokapālān](lokapālān) [vasūn](vasūnaṣṭau) [aṣṭau](aṣṭau) [mūrtīḥ](mūrtīrmadhyena) [madhyena](madhyena) [kārayet](kārayet)
+[world](loka) [guardians](pālān) [Vasus](vasūn) [eight](aṣṭau) [forms](mūrtīḥ) [with-middle](madhyena) [should-make](kārayet)
 
 ## mukta-m0-p173-v4316
-[vidyādharān](vidyādharān) [kaniṣṭhena](kaniṣṭhena) [nava+tālena](navatālena) [kārayet](kārayet)
+[Vidyādharas](vidyādharān) [with-smallest](kaniṣṭhena) [nine](nava) [tāla](tālena) [should-make](kārayet)
 
 ## mukta-m0-p173-v4317
-[asurān](asurāṃśca) [ca](ca) [pitṝn](pitṝṃścaiva) [ca](ca) [eva](eva) [tathā](tathaiva) [eva](eva) [hi](hi) [samācaret](samācaret)
+[demons](asurān) [and](ca) [ancestors](pitṝn) [and](ca) [also](eva) [likewise](tathaiva) [indeed](hi) [should-do](samācaret)
 
 ## mukta-m0-p173-v4318
-[kubjakān](kubjakān) [rasa+tālena](rasatālena) [śara+tāla+uttamena](śaratālottamena) [tu](tu)
+[dwarfs](kubjakān) [with-six](rasa) [tāla](tālena) [with-five](śara) [tāla](tāla) [best](uttamena) [indeed](tu)
 
 ## mukta-m0-p173-v4319
-[bhūta+antarāṇi](bhūtāntarāṇi) [kāryāṇi](kāryāṇi) [catuḥ](catuḥ) [tālena](tālena) [sālakān](sālakān)
+[other](antarāṇi) [beings](bhūtā) [to-be-made](kāryāṇi) [with-four](catuḥ) [tāla](tālena) [Sālakas](sālakān)
 
 ## mukta-m0-p173-v4320
-[kabandhān](kabandhānekatālena) [eka+tālena](ekatālena) [dvi+bhāgena](dvibhāgena) [evaṃ](evamācaret) [ācaret](ācaret)
+[trunkless-bodies](kabandhān) [with-one](eka) [tāla](tālena) [with-two](dvi) [parts](bhāgena) [thus](evam) [should-do](ācaret)
 
 ## mukta-m0-p173-v4321
-[mānaṃ](mānaṃ) [prokta+upacāra+ādyaṃ](proktopacārādyaṃ) [lamba+ādyaṃ](lambādyaṃ) [kevalaṃ](kevalaṃ) [tu](tu) [tat](tat)
+[measure](mānaṃ) [declared](prokta) [height](upacāra) [beginning-with](ādyaṃ) [length](lamba) [beginning-with](ādyaṃ) [only](kevalaṃ) [indeed](tu) [that](tat)
 
 ## mukta-m0-p173-v4322
-[bhinnāni](bhinnāni) [tāni](tāni) [mānāni](mānāni) [teṣāṃ](teṣāṃ) [lakṣaṇam](lakṣaṇamucyate) [ucyate](ucyate)
+[different](bhinnāni) [those](tāni) [measures](mānāni) [of-them](teṣāṃ) [characteristic](lakṣaṇam) [is-stated](ucyate)
 
 ## mukta-m0-p173-v4323
-[kalā+kola+ka+bhāga+ākhyaṃ](kalākolakabhāgākhyaṃ) [syāt](syāddvitricaturaṅgulam) [dvi+tri+catur+aṅgulam](dvi+tri+catur+aṅgulam)
+[kalā](kalā) [kolaka](kolaka) [part](bhāga) [named](ākhyaṃ) [should-be](syāt) [two](dvi) [three](tri) [four](catur) [aṅgula](aṅgulam)
 
 ## mukta-m0-p173-v4324
-[nāha+hīne](nāhahīne) [vināśaḥ](vināśaḥ) [syāt](syādadhike) [adhike](adhike) [ca](ca) [kṣayāya](kṣayāya) [ca](ca)
+[girth](nāha) [in-deficiency](hīne) [destruction](vināśaḥ) [should-be](syāt) [in-excess](adhike) [and](ca) [for-decay](kṣayāya) [and](ca)
 
 ## mukta-m0-p173-v4325
-[lamba+māna+vi+hīne](lambamānavihīne) [tu](tu) [rāja+rāṣṭrasya](rājarāṣṭrasya) [nāśa+kṛt](nāśakṛt)
+[length](lamba) [measure](māna) [in-absence](vihīne) [indeed](tu) [of-king](rāja) [and-realm](rāṣṭrasya) [destruction](nāśa) [causing](kṛt)

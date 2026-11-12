@@ -1,12 +1,15 @@
 {
  "song": "kjn-p09",
  "verse": 203,
- "question": "How are these languages experienced within the practitioner?",
+ "question": "What claim about the locus of hearing is made by stating that it occurs to and in the self by the self alone?",
  "premises": [
-  "Hearing occurs by oneself alone",
-  "The experience is directed to oneself and within oneself"
+  "Hearing occurs by the self alone.",
+  "Hearing occurs to the self.",
+  "Hearing occurs in the self."
  ],
- "inference": "The languages are heard inwardly, by the self, for the self, and within the self.",
- "uncertainties": [],
- "plain_english": "By oneself alone, they are heard by oneself, to oneself, and within oneself."
+ "inference": "The self is both the agent and the locus of this hearing.",
+ "uncertainties": [
+  "The precise mode of self-hearing is not specified by these tokens alone."
+ ],
+ "plain_english": "By the self alone, indeed, it is heard by the self, to the self, and in the self by the self."
 }
