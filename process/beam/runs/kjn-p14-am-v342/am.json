@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 342,
- "question": "What forms of disrespect toward sacred figures prohibit transmission of the teaching?",
+ "question": "To whom must the sacred teaching never be given according to this prohibition?",
  "premises": [
-  "Reviling Shiva is prohibited",
-  "Slandering Kula Bhairava is prohibited",
-  "The prohibition is addressed to the goddess"
+  "Reviling Shiva is grounds for exclusion",
+  "Slandering the Kula Bhairava is grounds for exclusion",
+  "The goddess is addressed in the prohibition"
  ],
- "inference": "The teaching must not be given to those who revile Shiva or slander Kula Bhairava.",
- "uncertainties": [],
- "plain_english": "O goddess, not to one who reviles Shiva, nor to a slanderer of Kula Bhairava."
+ "inference": "The teaching must not be given to a reviler of Shiva or slanderer of Kula Bhairava.",
+ "uncertainties": [
+  "kulabhairave may refer to the deity or the tradition"
+ ],
+ "plain_english": "O goddess, it must not be given to one who reviles Shiva or slanders the Kula Bhairava."
 }

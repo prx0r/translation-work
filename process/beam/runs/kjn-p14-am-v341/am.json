@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 341,
- "question": "Which hostile behaviors make a person unfit to receive the teaching?",
+ "question": "Which acts of hostility and disobedience mark a person as unfit to receive the teaching?",
  "premises": [
-  "Hostility toward the yoginis is disqualifying",
-  "Transgression of the guru's command is disqualifying",
+  "Hostility toward the yoginis is condemned",
+  "Transgression of the guru's command is condemned",
   "Such a person is identified as unfit"
  ],
- "inference": "One who is hostile to the yoginis and violates the guru's command must not receive the teaching.",
- "uncertainties": [],
- "plain_english": "Not to one hostile to the yoginis, nor to one who transgresses the guru's command."
+ "inference": "One hostile to the yoginis and transgressing the guru's command must not receive it.",
+ "uncertainties": [
+  "The predicate is implied from the prohibitive context"
+ ],
+ "plain_english": "To one hostile to the yoginis and who transgresses the guru's command."
 }

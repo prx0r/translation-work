@@ -1,13 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 337,
- "question": "What consequence follows if a teacher gives the teaching to unworthy disciples?",
+ "question": "What consequence follows if a teacher gives this teaching to unqualified disciples?",
  "premises": [
-  "The teacher may give the teaching to such disciples",
-  "These disciples are the unworthy ones described",
-  "The teacher's accomplishment is diminished"
+  "A teacher may give the teaching to such disciples",
+  "The disciples are identified as unfit by context",
+  "Accomplishment is said to be lost"
  ],
- "inference": "A teacher who imparts the teaching to unworthy disciples loses accomplishment.",
- "uncertainties": [],
+ "inference": "If a teacher gives it to such disciples, his accomplishment diminishes.",
+ "uncertainties": [
+  "The exact syntactic relation of ye and ime is compressed"
+ ],
  "plain_english": "If the teacher should give this to such disciples, his accomplishment is lost."
 }

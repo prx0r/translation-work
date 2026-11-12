@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral compound",
-     "morph": "compound"
+     "grounds": "numeral compound denoting eighty-four",
+     "morph": "numeral-compound"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural of sahasra",
+     "gloss": "thousands",
+     "grounds": "thousands",
      "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-mechanisms",
-     "grounds": "yoni+yantra compound, locative plural",
-     "morph": "n.loc.pl (compound)"
+     "gloss": "womb-diagrams",
+     "grounds": "yoni+yantra compound, in womb-diagrams",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle of pīḍ",
-     "morph": "m.nom.pl.ppp (√pīḍ)"
+     "grounds": "those subjected to torment",
+     "morph": "m.nom.pl.ppp + √pīḍ"
     }
    ],
-   "question": "What vast number of womb-mechanisms subjects beings to torment?",
+   "question": "Across how many womb-diagrams are beings subjected to torment?",
    "premises": [
-    "The number specified is eighty-four thousand.",
-    "These are womb-mechanisms (yoniyantras).",
-    "Beings are tormented within these mechanisms."
+    "Womb-diagrams exist in vast multiplicity.",
+    "Their number amounts to eighty-four thousand.",
+    "Beings within them are subjected to torment."
    ],
-   "inference": "Beings undergo torment within eighty-four thousand womb-mechanisms.",
+   "inference": "Beings are tormented throughout eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The specific beings experiencing torment are implied from the preceding context."
+    "The specific beings who are tormented are implied from the preceding context."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
+   "plain_english": "They are tormented in the eighty-four thousand womb-diagrams."
   }
  ]
 }
