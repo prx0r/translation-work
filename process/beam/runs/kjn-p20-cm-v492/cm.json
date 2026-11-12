@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "ahaṃ",
-   "morph": "1.nom.sg",
-   "grounds": "first person pronoun"
+   "morph": "pron.nom.sg",
+   "grounds": "first-person pronoun"
   },
   {
    "lemma": "tvaṃ",
-   "morph": "2.nom.sg",
-   "grounds": "second person pronoun"
+   "morph": "pron.nom.sg",
+   "grounds": "second-person pronoun"
   },
   {
    "lemma": "ca",
@@ -19,18 +19,18 @@
   },
   {
    "lemma": "viśālākṣi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative, compound viśāla+akṣi"
+   "morph": "f.voc.sg, compound",
+   "grounds": "vocative compound: viśāla+akṣi"
   },
   {
    "lemma": "sarvaśāstra",
-   "morph": "n.stem",
-   "grounds": "compound sarva+śāstra"
+   "morph": "compound-stem",
+   "grounds": "compound: sarva+śāstra"
   },
   {
    "lemma": "avatārakaḥ",
    "morph": "m.nom.sg",
-   "grounds": "agent noun from ava-tṝ, sandhi form of avatārakaḥ"
+   "grounds": "agent noun from root tṛ with prefix ava"
   }
  ]
 }

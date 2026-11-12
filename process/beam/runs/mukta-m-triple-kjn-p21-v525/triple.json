@@ -7,38 +7,40 @@
     {
      "surface": "caturaṅgabalaṃ",
      "gloss": "four-limbed-army",
-     "grounds": "direct object of the action of conquering",
-     "morph": "n.acc.sg (compound: catur+aṅga+bala)"
+     "grounds": "fused form as given; catur-aṅga-bala compound",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "jitvā",
      "gloss": "having-conquered",
-     "grounds": "absolutive expressing prior action",
-     "morph": "gerund (√ji)"
+     "grounds": "absolute form of ji",
+     "morph": "verb.3.sg.act-past/abs+ji"
     },
     {
      "surface": "uṣṭānāṃ",
      "gloss": "of-camels",
-     "grounds": "genitive specifying the target of paralysis",
+     "grounds": "genitive plural of uṣṭra",
      "morph": "m.gen.pl"
     },
     {
      "surface": "stambhakārakam",
-     "gloss": "paralysis-causing",
-     "grounds": "attribute describing the Vaṭuka's power",
-     "morph": "m.acc.sg (compound: stambha+kāraka)"
+     "gloss": "paralyzing-causer",
+     "grounds": "agentive compound as given",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What dominion over armies and camels is attributed to the Vaṭuka?",
+   "question": "What action toward camels produces a paralyzing effect after conquering a four-limbed army?",
    "premises": [
-    "The Vaṭuka conquers a four-limbed army.",
-    "The Vaṭuka causes the paralysis of camels."
+    "A four-limbed army has been conquered.",
+    "Camels are the objects in question.",
+    "A paralyzing agent is brought into play."
    ],
-   "inference": "The Vaṭuka possesses power to subdue military forces and immobilize animals.",
+   "inference": "Conquest of a four-limbed army enables the production of a paralyzing effect upon camels.",
    "uncertainties": [
-    "The referent of stambhakārakam is supplied from the preceding verse's vaṭukaṃ."
+    "Agency of the action remains unspecified",
+    "Contextual scope of application is unclear"
    ],
-   "plain_english": "Having conquered a four-limbed army, he causes the paralysis of camels."
+   "plain_english": "Having conquered a four-limbed army, one brings about paralysis of camels."
   }
  ]
 }

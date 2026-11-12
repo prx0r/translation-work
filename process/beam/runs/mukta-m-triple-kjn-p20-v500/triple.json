@@ -6,8 +6,8 @@
    "rows": [
     {
      "surface": "brahmatvaṃ",
-     "gloss": "Brahma-state",
-     "grounds": "abstract state of being Brahma",
+     "gloss": "brahma-state",
+     "grounds": "the state or condition of being Brahma",
      "morph": "n.acc.sg"
     },
     {
@@ -19,39 +19,39 @@
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "temporal adverb",
+     "grounds": "at that time",
      "morph": "(indecl.)"
     },
     {
      "surface": "tyaktaṃ",
      "gloss": "abandoned",
-     "grounds": "past passive participle indicating relinquishment",
-     "morph": "n.nom.sg.ppp (√tyaj)"
+     "grounds": "relinquished or given up",
+     "morph": "n.nom.sg.ppp; √tyaj"
     },
     {
      "surface": "citta",
      "gloss": "mind",
-     "grounds": "addressed faculty or seat of thought",
+     "grounds": "the mind or consciousness",
      "morph": "n.voc.sg"
     },
     {
      "surface": "dhīvarātmakam",
      "gloss": "fisherman-natured",
-     "grounds": "having the nature or character of a fisherman",
-     "morph": "n.nom.sg (bahuvrīhi)"
+     "grounds": "having the nature or character of a fisherman; compound of dhīvara and ātmaka",
+     "morph": "n.voc.sg; compound"
     }
    ],
-   "question": "What higher state was relinquished by the fisherman-natured mind at that moment?",
+   "question": "What condition was relinquished when the mind assumed a fisherman's nature?",
    "premises": [
-    "The Brahma-state is the state in question.",
-    "That state was abandoned at that time.",
-    "The abandonment is associated with a fisherman-natured mind."
+    "The Brahma-state was the condition in question.",
+    "That Brahma-state was abandoned at that time.",
+    "The mind addressed had taken on a fisherman's nature."
    ],
-   "inference": "At that moment, the fisherman-natured mind relinquished the Brahma-state.",
+   "inference": "The assumption of a fisherman's nature entailed the abandonment of the Brahma-state.",
    "uncertainties": [
-    "Whether citta functions as a vocative address or as part of a compound with dhīvarātmakam is contextually ambiguous."
+    "Whether citta is best taken as a vocative address or as part of a nominative construction is context-dependent."
    ],
-   "plain_english": "Indeed, O mind, the Brahma-state, being of a fisherman-nature, was then abandoned."
+   "plain_english": "Indeed, then the Brahma-state was abandoned, O mind of fisherman-nature."
   }
  ]
 }

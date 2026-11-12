@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-[of-wind](mārutasya) [independence](svataṃtratvaṃ) [what-else](kimanyat) [shall-i-tell](kathayāmi) [to-you](te)
+[of-wind](mārutasya) [independence](svataṃtratvaṃ) [what](kim) [other](anyat) [I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p63-v1552
-[of-deities](devatānāṃ) [and](ca) [of-mantras](mantrāṇāṃ) [true-form](svarūpaṃ) [is-distinguished](pravivicyate)
+[of-deities](devatānāṃ) [and](ca) [of-mantras](mantrāṇāṃ) [true-nature](svarūpaṃ) [is-being-examined](pravivicyate)
 
 ## mukta-m0-p63-v1553
-[some](kecid) [desire](icchaṃti) [deities](devataḥ) [mantra-practice](maṃtrābhyāsa) [dependent](vyapekṣiṇaḥ)
+[deities](devataḥ) [some](kecid) [desire](icchaṃti) [mantra+practice](maṃtrābhyāsa) [dependent-on](vyapekṣiṇaḥ)
 
 ## mukta-m0-p63-v1554
-[cakrapāṇi](cakrapāṇiś) [and](ca) [tārkṣya](tārkṣyāṃ) [durgā](kodurgā) [buffalo-slayer](mahiṣamardinī)
+[discus+holder](cakrapāṇiś) [and](ca) [on-Garuḍa](tārkṣyāṃ) [who](ko) [Durgā](durgā) [buffalo+slayer](mahiṣamardinī)
 
 ## mukta-m0-p63-v1555
-[with-rosary](sākṣasūtrā) [and](ca) [speech-goddess](vāgdevī) [thus](tyetādṛg) [speech-authority](vāk+pramāṇataḥ)
+[with+rosary](sākṣasūtrā) [and](ca) [speech+goddess](vāgdevī) [thus](iti) [such](etādṛg) [statement](vāk) [by-authority](pramāṇataḥ)
 
 ## mukta-m0-p63-v1556
-[inquiry](vicāraḥ) [there](tatra) [to-be-done](karttavyaḥ) [listen](śrūyatāṃ) [best-colored-one](varavarṇini)
+[consideration](vicāras) [there](tatra) [should-be-done](karttavyaḥ) [let-it-be-heard](śrūyatāṃ) [O-fair+complexioned-one](varavarṇini)
 
 ## mukta-m0-p63-v1557
-[of-transactions](vyavahārāṇām) [of-grain-etc](dhānādi) [of-this](asya) [is-carried](adhānupavarttitaḥ)
+[grain+etc](dhānādi) [of-transactions](vyavahārāṇām) [of-this](asya) [otherwise+following](adhānupavarttitaḥ)
 
 ## mukta-m0-p63-v1558
-[of-knowledge-and-meditation](vidyābhāvanayoḥ) [unity](aikye) [so-much](tāvat) [agency](kartṛtvaṃ) [is-desired](iṣyatām)
+[of-knowledge+and-contemplation](vidyābhāvanayor) [in-unity](aikye) [then](tāvat) [agency](kartṛtvam) [let-be-accepted](iṣyatām)
 
 ## mukta-m0-p63-v1559
-[some](kiṃca) [contradiction](yukti+vroddhā) [indeed](hi) [deity](deva) [embodiment](dehitva) [in-conception](kalpane)
+[moreover](kiṃca) [reasoning+contradiction](yukti+virodhā) [indeed](hi) [deity+embodiment](deva+dehitva) [in-assumption](kalpane)
 
 ## mukta-m0-p63-v1560
-[if](yadi) [thus](evam) [in-this-world](ahīloke) [that](tat) [would-be](syāt) [path-practice](mārgānuṣa) [dharma-nature](dharmatā)
+[if](yadi) [as](yathā) [indeed](eva) [on-earth+world](mahīloke) [that](tat) [would-be](syāt) [path+conformity+nature](mārgānuṣa+dharma+tā)
 
 ## mukta-m0-p63-v1561
-[not](na) [indeed](hi) [meru-slope-edge](merutaṭopānta) [heaven-eternal-residents](svarganityanivāsinaḥ)
+[not](na) [indeed](hi) [Meru+slope+edge](merutaṭopānta) [heaven+eternal+dwellers](svarganityanivāsinaḥ)
 
 ## mukta-m0-p63-v1562
-[in-extremely-distant](atyantaviprakṛṣṭeṣu) [regions](deśeṣu) [dwelling](āvāsam) [having-gone](īyuṣī)
+[in-extremely+distant](atyantaviprakṛṣṭeṣu) [in-places](deśeṣv) [residence](āvāsam) [having-gone-to](īyuṣī)
 
 ## mukta-m0-p63-v1563
-[not](naitat) [is](asti) [because](yato) [divine](daivaṃ) [body-like](śarīravad) [impermanent](avidṛvaṃ)
+[not](na) [this](etat) [is](asti) [because](yato) [divine](daivaṃ) [body+like](śarīravad) [not-firm](avidṛvaṃ)
 
 ## mukta-m0-p63-v1564
-[having-known](viditvā) [and](ca) [having-approached](samāgamyā) [in-sacrifices](yāgeṣu) [oblation-eats](haviraśnute)
+[having-known](viditvā) [and](ca) [having-come](samāgamyā) [in-sacrifices](yāgeṣu) [oblation](havir) [enjoys](aśnute)
 
 ## mukta-m0-p63-v1565
-[thus](evaṃ) [if](ced) [another-doubt](aparāśaṃkā) [not](naiṣā) [goddess](devi) [proper](samaṃjasā)
+[thus](evaṃ) [if](ced) [another](aparā) [doubt](śaṃkā) [not](na) [this](eṣā) [O-goddess](devi) [proper](samaṃjasā)
 
 ## mukta-m0-p63-v1566
-[simultaneously](yugavat) [mantra-recitation](maṃtrajāpe) [and](ca) [simultaneously](yugapaś) [oblation](cahutāvapi)
+[simultaneously](yugavan) [in-mantra+recitation](maṃtrajāpe) [and](ca) [simultaneously](yugapaś) [and](ca) [in-offering](āhutāv) [also](api)
 
 ## mukta-m0-p63-v1567
-[if](yadi) [one](eka) [presence](sannidhānaṃ) [would-be](syāt) [in-savana](savane) [proceeds](saṃpravarttate)
+[if](yadi) [one](eka) [presence](sannidhānaṃ) [would-be](syāt) [in-ritual-pressing](savane) [takes-place](saṃpravarttate)
 
 ## mukta-m0-p63-v1568
-[not](natve) [this](tad) [is](asti) [yoginis](yoginyaḥ) [indeed](khalu) [everywhere](sarvatra) [deities](devatāḥ)
+[not](na) [but](tu) [this](etad) [is](asti) [yoginis](yoginyaḥ) [indeed](khalu) [everywhere](sarvatra) [deities](devatāḥ)
 
 ## mukta-m0-p63-v1569
-[one](ekaiva) [deity](devatā) [with-different](bhinnair) [forms](ākāraistatra) [there](tatra) [and](ca)
+[one](ekā) [indeed](eva) [deity](devatā) [with-different](bhinnair) [with-forms](ākārais) [there](tatra) [there](tatra) [and](ca)
 
 ## mukta-m0-p63-v1570
-[this](idam) [also](api) [without-inquiry](avicāreṇa) [beautiful-eyed-one](cārucāru+vilocane)
+[this](idam) [also](api) [without-consideration](avicāreṇa) [O-very+beautiful](cārucāru) [O-eyed-one](vilocane)
 
 ## mukta-m0-p63-v1571
-[result](phalaṃ) [what](kiṃnu) [would-be](bhavet) [of-them](tāsāṃ) [by-sacrifice-eating-begging](yajñebhakṣaṇabhikṣayā)
+[result](phalaṃ) [what](kim) [indeed](nu) [would-be](bhavet) [of-them](tāsāṃ) [in-sacrifice](yajñe) [by-eating+begging](bhakṣaṇabhikṣayā)
 
 ## mukta-m0-p63-v1572
-[deity](devatā) [perfection-mortal](siddhimartyo) [indeed](hi) [of-them](tāsāṃ) [by-whom](kena) [hunger-arising](kṣudhodayaḥ)
+[deity](devatā) [attainment](siddhim) [mortal](artyo) [indeed](hi) [of-them](tāsāṃ) [by-what](kena) [hunger+arising](kṣudhodayaḥ)
 
 ## mukta-m0-p63-v1573
-[deity](devatā) [is-present](sannidadhate) [in-sacrifice](yajñe) [in-sacrifice](yajñe) [various](pṛthagvidhe)
+[deities](devatā) [are-present](sannidadhate) [in-sacrifice](yajñe) [in-sacrifice](yajñe) [of-different+kinds](pṛthagvidhe)
 
 ## mukta-m0-p63-v1574
-[hunger](kṣudhaṃ) [or](vā) [by-whom](kena) [or](vā) [goddess](devi) [not](na) [to-cause](utpādayitum) [are-able](īśate)
+[hunger](kṣudhaṃ) [or](vā) [by-what](kena) [or](vā) [O-goddess](devi) [not](na) [to-produce](utpādayitum) [is-able](īśate)
 
 ## mukta-m0-p63-v1575
-[but](kintu) [devotion](bhakta) [protection-other](paratrāṇa) [only](mātra) [this](eṣa) [effort](samudyamaḥ)
+[but](kintu) [devotee+protection](bhakta+paratrāṇa) [only](mātra) [this](eṣa) [effort](samudyamaḥ)

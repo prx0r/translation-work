@@ -7,58 +7,58 @@
     {
      "surface": "kathitaṃ",
      "gloss": "declared",
-     "grounds": "past passive participle indicating what has been told",
+     "grounds": "past passive participle indicating something that has been told",
      "morph": "n.nom.sg.ppp (√kath)"
     },
     {
      "surface": "melakaṃ",
      "gloss": "meeting-place",
-     "grounds": "noun denoting the place of union or assembly",
+     "grounds": "noun denoting a place of union or assembly",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sthānaṃ",
      "gloss": "abode",
-     "grounds": "noun denoting a location or seat",
+     "grounds": "noun denoting a place or station",
      "morph": "n.nom.sg"
     },
     {
      "surface": "śrutaṃ",
      "gloss": "heard",
-     "grounds": "past passive participle indicating what has been received by hearing",
+     "grounds": "past passive participle indicating something that has been heard",
      "morph": "n.nom.sg.ppp (√śru)"
     },
     {
      "surface": "te",
      "gloss": "by-you",
      "grounds": "second-person pronoun indicating the recipient or agent of hearing",
-     "morph": "pron.2.gen.sg"
+     "morph": "pron.gen.sg"
     },
     {
      "surface": "ceṣṭitaṃ",
      "gloss": "sought",
-     "grounds": "past passive participle indicating what is desired or undertaken",
+     "grounds": "past passive participle indicating what was desired or pursued",
      "morph": "n.nom.sg.ppp (√ceṣṭ)"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "adjective qualifying the desired outcome as beneficial",
+     "grounds": "adjective qualifying the declared and heard matters as beneficial",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What auspicious matters concerning the meeting place have been declared and heard?",
+   "question": "What auspicious meeting place and abode have been declared and heard?",
    "premises": [
-    "The meeting place and abode have been declared.",
-    "These matters have been heard by the listener.",
-    "The sought outcome is described as auspicious."
+    "A meeting place has been declared.",
+    "An abode has been heard by the listener.",
+    "The sought matters described are auspicious."
    ],
-   "inference": "The teaching has successfully communicated the auspicious nature of the declared meeting place and abode to the listener.",
+   "inference": "The auspicious meeting place and abode sought by the listener have now been both declared and heard.",
    "uncertainties": [
-    "The precise doctrinal referent of melakaṃ and sthānaṃ depends on the broader context.",
-    "ceṣṭitaṃ could be read as 'activity' or 'endeavor' rather than 'sought'."
+    "The precise syntactic relation between melakaṃ and sthānaṃ is ambiguous; they may be appositive or distinct referents.",
+    "The exact sense of ceṣṭitaṃ as desired, sought, or enacted depends on broader context."
    ],
-   "plain_english": "The meeting place and abode have been declared; you have heard of the auspicious goal that is sought."
+   "plain_english": "The auspicious meeting place and abode that you sought have been declared and heard by you."
   }
  ]
 }

@@ -1,13 +1,16 @@
 {
  "song": "kjn-p19",
  "verse": 451,
- "question": "What beautiful wheel and lotus structures are being described in this visualization?",
+ "question": "What beautiful diagrammatic forms are being enumerated in this teaching?",
  "premises": [
-  "A five-spoked structure is named",
-  "An eight-petaled structure is named",
-  "A sixteen-spoked structure is described as very beautiful"
+  "A five-spoked form is named",
+  "An eight-petaled form is named",
+  "A sixteen-spoked form is named",
+  "All are described as very beautiful"
  ],
- "inference": "The verse presents a composite image of five-spoked, eight-petaled, and sixteen-spoked forms as a beautiful whole",
- "uncertainties": [],
- "plain_english": "It is five-spoked, eight-petaled, and sixteen-spoked, very beautiful."
+ "inference": "The verse enumerates three beautiful sacred forms: five-spoked, eight-petaled, and sixteen-spoked.",
+ "uncertainties": [
+  "The exact referent (wheel, lotus, or yantra) is implicit from context"
+ ],
+ "plain_english": "It is five-spoked, eight-petaled, and sixteen-spoked, and very beautiful."
 }

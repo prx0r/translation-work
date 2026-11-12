@@ -1,14 +1,16 @@
 {
  "song": "kjn-p21",
  "verse": 525,
- "question": "What dominion over armies and camels is attributed to the Vaṭuka?",
+ "question": "What action toward camels produces a paralyzing effect after conquering a four-limbed army?",
  "premises": [
-  "The Vaṭuka conquers a four-limbed army.",
-  "The Vaṭuka causes the paralysis of camels."
+  "A four-limbed army has been conquered.",
+  "Camels are the objects in question.",
+  "A paralyzing agent is brought into play."
  ],
- "inference": "The Vaṭuka possesses power to subdue military forces and immobilize animals.",
+ "inference": "Conquest of a four-limbed army enables the production of a paralyzing effect upon camels.",
  "uncertainties": [
-  "The referent of stambhakārakam is supplied from the preceding verse's vaṭukaṃ."
+  "Agency of the action remains unspecified",
+  "Contextual scope of application is unclear"
  ],
- "plain_english": "Having conquered a four-limbed army, he causes the paralysis of camels."
+ "plain_english": "Having conquered a four-limbed army, one brings about paralysis of camels."
 }
