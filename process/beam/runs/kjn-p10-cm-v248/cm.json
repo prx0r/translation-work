@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "satata",
-   "morph": "compound=satata+abhyāsa:first-member",
-   "grounds": "first member of compound indicating uninterrupted practice"
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
    "lemma": "abhyāsa",
-   "morph": "compound=satata+abhyāsa:head-member",
-   "grounds": "second member of compound indicating disciplined repetition"
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
    "lemma": "yogena",
    "morph": "m.inst.sg",
-   "grounds": "instrument indicating the method of practice"
+   "grounds": "means of transformation"
   },
   {
    "lemma": "dvi",
-   "morph": "compound=dvi+aṣṭa:first-member",
-   "grounds": "first member of compound indicating sixteen"
+   "morph": "compound-member",
+   "grounds": "first member of numerical compound"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=dvi+aṣṭa:head-member",
-   "grounds": "second member of compound indicating sixteen"
+   "morph": "compound-member",
+   "grounds": "second member of numerical compound"
   },
   {
    "lemma": "varṣa",
-   "morph": "compound=varṣa+ākṛtiḥ:first-member",
-   "grounds": "first member of compound indicating age in years"
+   "morph": "compound-member",
+   "grounds": "third member of compound"
   },
   {
    "lemma": "ākṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "describes the bodily appearance attained"
+   "grounds": "resulting appearance"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.active-optative/√bhū",
-   "grounds": "states the resulting bodily form"
+   "morph": "3.sg.act-optative √bhū",
+   "grounds": "resulting state"
   }
  ]
 }

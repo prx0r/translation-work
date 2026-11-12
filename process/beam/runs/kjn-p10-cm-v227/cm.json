@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "candra",
-   "morph": "compound=candra+dvīpa:first-member",
-   "grounds": "first member of compound naming the island"
+   "morph": "compound-member",
+   "grounds": "first member of place name"
   },
   {
    "lemma": "dvīpa",
-   "morph": "compound=candra+dvīpa:head-member",
-   "grounds": "head of compound indicating location"
+   "morph": "compound-member",
+   "grounds": "second member of place name"
   },
   {
    "lemma": "vinirgate",
-   "morph": "m.loc.sg",
-   "grounds": "describes the chapter as having come forth from that context"
+   "morph": "n.loc.sg",
+   "grounds": "locative descriptor of context"
   },
   {
    "lemma": "navamaḥ",
    "morph": "m.nom.sg",
-   "grounds": "ordinal number identifying the chapter"
+   "grounds": "ordinal qualifier of paṭalaḥ"
   },
   {
    "lemma": "paṭalaḥ",
    "morph": "m.nom.sg",
-   "grounds": "names the textual section"
+   "grounds": "subject completing the colophon"
   }
  ]
 }
