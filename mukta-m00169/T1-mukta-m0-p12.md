@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-at-night(rātrau) worship(pūjām) auspicious(śubhām) having-done(kṛtvā) should-recite-mantra(japet+mantram) sage-vowed(muni+vrataḥ)
+[at-night](rātrau) [worship](pūjāṃ) [auspicious](śubhāṃ) [having-done](kṛtvā) [should-mutter+mantra](japenmantraṃ) [sage+vowed](munivrataḥ)
 
 ## mukta-m0-p12-v277
-gives(dadāti) to-the-practitioner(mantriṇe) mantra(mantram) divine-yoga(divya+yogam) and(ca) accomplishment-giving(siddhi+dam)
+[gives](dadāti) [to-the-practitioner](mantriṇe) [mantra](mantraṃ) [divine+yoga](divyayogaṃ) [and](ca) [accomplishment+giving](siddhidam)
 
 ## mukta-m0-p12-v278
-for-one-month(māsam+ekam) should-recite-mantra(japet+mantram) then(tadā) worship(pūjām) one-should-begin(samārabhet)
+[month](māsam) [one](ekaṃ) [should-mutter+mantra](japenmantraṃ) [then](tadā) [worship](pūjāṃ) [should-begin](samārabhet)
 
 ## mukta-m0-p12-v279
-at-night(rātrau) goddess(devīm) having-worshipped(samabhyarcya) should-recite-mantra(japet+mantram) with-pleased-mind(prasanna+dhīḥ)
+[at-night](rātrau) [goddess](devīṃ) [having-worshipped](samabhyarcya) [should-mutter+mantra](japenmantraṃ) [pleased+mind](prasannadhīḥ)
 
 ## mukta-m0-p12-v280
-mercury(rasam) elixir(rasāyanam) divine(divyam) garments-and-ornaments(vastra+alaṅkaraṇāni) and(ca)
+[mercury](rasaṃ) [elixir](rasāyanaṃ) [divine](divyaṃ) [garment+ornaments](vastrālaṅkaraṇāni) [and](ca)
 
 ## mukta-m0-p12-v281
-having-offered(vidhāya) one-should-worship(pūjayet) goddess(devīm) then(tataḥ) ten-thousand-mantra(mantra+ayutam) should-recite(japet)
+[having-arranged](vidhāya) [should-worship](pūjayet) [goddess](devīṃ) [then](tato) [mantra+ten-thousand](mantrāyutaṃ) [should-mutter](japet)
 
 ## mukta-m0-p12-v282
-at-midnight(ardha+rātre) having-passed(gate) goddess(devī) of-dinars(dīnārāṇām) a-thousand(sahasrakam)
+[midnight](ardharātre) [having-passed](gate) [goddess](devī) [of-dinars](dīnārāṇāṃ) [thousand](sahasrakam)
 
 ## mukta-m0-p12-v283
-due-to-absence-of-its-expenditure(tat+vyaya+abhāvataḥ) again(bhūyaḥ) not(na) gives(dadāti) becomes-angry(prakupyati)
+[of-that+expenditure+absence](tadvyayābhāvato) [again](bhūyo) [not](na) [gives](dadāti) [becomes-angry](prakupyati)
 
 ## mukta-m0-p12-v284
-for-one-month(māsam+ekam) then(tataḥ) goddess(devī) treasure(nidhim) shows(darśayati) certainly(dhruvam)
+[month](māsam) [one](ekaṃ) [then](tato) [goddess](devī) [treasure](nidhiṃ) [shows](darśayati) [certainly](dhruvam)
 
 ## mukta-m0-p12-v285
-beginning-from-first-lunar-day(pratipat+tithim+ārabhya) with-incense-lamp-etc.(dhūpa+dīpa+ādibhiḥ) excellent-goddess(varām)
+[first-day+lunar-day](pratipattithim) [beginning-from](ārabhya) [with-incense+lamp+etc.](dhūpadīpādibhir) [excellent-one](varām)
 
 ## mukta-m0-p12-v286
-for-one-month(māsam+ekam) then(tataḥ) worship(pūjām) at-night(rātrau) having-done(kṛtvā) again(punar) should-recite(japet)
+[month](māsam) [one](ekaṃ) [then](tataḥ) [worship](pūjāṃ) [at-night](rātrau) [having-done](kṛtvā) [again+should-mutter](punarjapet)
 
 ## mukta-m0-p12-v287
-of-dinars(dīnārāṇām) one-thousand(sahasra+ekam) every-day(prati+aham) being-pleased(paritoṣitā)
+[of-dinars](dīnārāṇāṃ) [thousand](sahasraikaṃ) [every-day](pratyahaṃ) [satisfied](paritoṣitā)
 
 ## mukta-m0-p12-v288
-having-gone(gatvā) to-bird-house(pakṣi+gṛham) practitioner(mantrī) with-nails-and-hair(nakha+keśaiḥ) should-worship(prapūjayet)
+[having-gone](gatvā) [bird+house](pakṣigṛhaṃ) [practitioner](mantrī) [with-nail+hair](nakhakeśaiḥ) [should-worship](prapūjayet)
 
 ## mukta-m0-p12-v289
-should-repeat(āvartayet) with-one-pointed-mind(eka+cittaḥ) practitioner(mantrī) mantra(mantram) well-restrained(su+saṃyataḥ)
+[should-repeat](āvartayet) [one+pointed-mind](ekacitto) [practitioner](mantrī) [mantra](mantraṃ) [well+restrained](susaṃyataḥ)
 
 ## mukta-m0-p12-v290
-for-three-days(dina+trayam) without-food(an+āhārī) at-lunar-or-solar-eclipse(soma+sūrya+grahe) being(sati)
+[day+three](dinatrayam) [without+food](anāhārī) [moon+sun+eclipse](somasūryagrahe) [being](sati)
 
 ## mukta-m0-p12-v291
-then(tataḥ) being-pleased(prasannā) that(sā) goddess(devī) gives(yacchati) supreme-collyrium(añjanam+uttamam)
+[then](tataḥ) [pleased](prasannā) [she](sā) [goddess](devī) [gives](yacchati) [collyrium](añjanam) [supreme](uttamam)
 
 ## mukta-m0-p12-v292
-at-foot-of-banyan-tree(vaṭa+vṛkṣa+tale) having-made(kṛtvā) with-sandalwood(candanena) beautiful-circle(su+maṇḍalam)
+[banyan+tree+base](vaṭavṛkṣatale) [having-made](kṛtvā) [with-sandalwood](candanena) [beautiful+circle](sumaṇḍalam)
 
 ## mukta-m0-p12-v293
-hare-meat(śaśa+māṃsam) ghee(ghṛtam) milk(kṣīram) mantra(mantram) should-repeat(āvartayet) then(tataḥ)
+[hare+meat](śaśamāṃsaṃ) [ghee](ghṛtaṃ) [milk](kṣīraṃ) [mantra](mantram) [should-repeat](āvartayet) [then](tataḥ)
 
 ## mukta-m0-p12-v294
-then(atha) having-come(āgatya) always(sadā) to-him(tasmai) mantra(mantra) supreme-collyrium(añjanam+uttamam)
+[then](atha) [having-come](āgatya) [always](sadā) [to-him](tasmai) [mantra](mantram) [collyrium](añjanam) [supreme](uttamam)
 
 ## mukta-m0-p12-v295
-on-cloth-smeared-with-lac(śaṅkha+lipta+paṭe) from-which(yasmāt) goddess(devīm) Gauri(gaurīm) holding-lotus(dhṛta+utpalām)
+[on-lac+smeared+cloth](śaṅkhaliptapaṭe) [because](yasmād) [goddess](devīṃ) [Gaurī](gaurīṃ) [holding+lotus](dhṛtotpalām)
 
 ## mukta-m0-p12-v296
-with-jasmine-flowers(jātī+puṣpaiḥ) having-worshipped(prapūjya) then(atha) a-thousand(sahasram) should-repeat(parivartayet)
+[with-jasmine+flowers](jātīpuṣpaiḥ) [having-worshipped](prapūjya) [then](atha) [thousand](sahasraṃ) [should-repeat](parivartayet)
 
 ## mukta-m0-p12-v297
-at-midnight(ardha+rātre) having-passed(gate) goddess(devī) having-come(samāgatya) gives(prayacchati)
+[midnight](ardharātre) [having-passed](gate) [goddess](devī) [having-come](samāgatya) [gives](prayacchati)
 
 ## mukta-m0-p12-v298
-desired(wāñchitam) of-mind(manasas) to-him(tasmai) to-mantra-knower(mantra+jñāya) no(na) doubt(saṃśayaḥ)
+[desired](vāñchitaṃ) [of-mind](manasas) [to-him](tasmai) [mantra+knower](mantrajñāya) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p12-v299
-in-Uddamareshvara-Tantra(uḍḍāmareśvara+tantre) Yakshini-chapter(yakṣiṇī+paṭalaḥ) ninth(navamaḥ)
+[in-Uḍḍāmareśvara+tantra](uḍḍāmareśvaratantre) [yakṣiṇī+chapter](yakṣiṇīpaṭalaḥ) [ninth](navamaḥ)
 
 ## mukta-m0-p12-v300
-when-recited(japtaḥ) certainly(avaśyam) subjugating(vaśya+karaḥ) mantra(mantraḥ) this(ayam) here(atra) no(na) doubt(saṃśayaḥ)
+[muttered](japto) [certainly](avaśyaṃ) [subjugating](vaśyakaro) [mantra](mantro) [this](ayaṃ) [not](na) [here](atra) [doubt](saṃśayaḥ)

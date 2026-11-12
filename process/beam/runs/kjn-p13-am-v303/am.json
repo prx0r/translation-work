@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 303,
- "question": "What has been declared as the decisive knowledge of beautiful nondual conduct?",
+ "question": "What has been declared regarding beautiful nondual conduct and knowledge?",
  "premises": [
-  "Beautiful nondual conduct has been described",
-  "This description is presented as declared teaching",
-  "It constitutes a determination of knowledge"
+  "Beautiful nondual conduct is the subject under discussion.",
+  "This conduct has been declared.",
+  "The determination of knowledge has been declared."
  ],
- "inference": "The teaching on beautiful nondual conduct is declared as a definitive determination of knowledge",
- "uncertainties": [],
- "plain_english": "The beautiful nondual conduct has been declared as the determination of knowledge."
+ "inference": "Both beautiful nondual conduct and the determination of knowledge have been taught.",
+ "uncertainties": [
+  "The syntactic relation between the two accusatives is compressed."
+ ],
+ "plain_english": "The beautiful nondual conduct and the determination of knowledge have been declared."
 }

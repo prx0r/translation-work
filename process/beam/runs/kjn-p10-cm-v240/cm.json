@@ -5,17 +5,17 @@
   {
    "lemma": "dvitīyam",
    "morph": "n.nom.sg",
-   "grounds": "identifies the next lotus or wheel"
+   "grounds": "qualifies the lotus or wheel"
   },
   {
    "lemma": "aṣṭa",
-   "morph": "compound=member+aṣṭa-patra",
-   "grounds": "first member of compound aṣṭa-patra"
+   "morph": "compound=aṣṭa+first",
+   "grounds": "first member of compound aṣṭa-patram"
   },
   {
    "lemma": "patram",
-   "morph": "n.nom.sg",
-   "grounds": "describes the lotus as having eight petals"
+   "morph": "compound=patram+second",
+   "grounds": "describes the lotus"
   },
   {
    "lemma": "tu",
@@ -24,18 +24,18 @@
   },
   {
    "lemma": "teja",
-   "morph": "compound=member+teja-dhyāna",
+   "morph": "compound=teja+first",
    "grounds": "first member of compound teja-dhyāna"
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=member+teja-dhyāna",
-   "grounds": "second member of compound teja-dhyāna"
+   "morph": "compound=dhyāna+second",
+   "grounds": "second member indicating fiery meditation"
   },
   {
    "lemma": "sudīpitam",
    "morph": "n.nom.sg",
-   "grounds": "describes the lotus as brightly lit by fiery meditation"
+   "grounds": "describes the lotus"
   }
  ]
 }

@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral qualifying the following thousands",
-     "morph": "(indecl.)"
+     "grounds": "numeral component qualifying the following thousands",
+     "morph": "numeral"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
-     "grounds": "locative indicating the vast number",
+     "grounds": "locative plural indicating the quantity within which torment occurs",
      "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound denoting mechanisms or realms of birth",
-     "morph": "n.loc.pl, compound: yoni+yantra"
+     "gloss": "in-womb-mechanisms",
+     "grounds": "compound of yoni (womb/source) and yantra (mechanism/diagram) in locative plural",
+     "morph": "yoni+yantra (compound), n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "describes beings subjected to suffering",
-     "morph": "m.nom.pl, past-participle, root: pīḍ"
+     "grounds": "past passive participle describing those subjected to suffering",
+     "morph": "ppp, m.nom.pl, √pīḍ"
     }
    ],
-   "question": "What vast multitude of womb-mechanisms inflicts torment upon beings?",
+   "question": "What is the extent of torment experienced within the womb-mechanisms?",
    "premises": [
-    "The number specified is eighty-four thousand.",
-    "These thousands are womb-diagrams or mechanisms of birth.",
-    "Beings within them are tormented."
+    "The womb-mechanisms number eighty-four thousand.",
+    "Beings are described as tormented.",
+    "This torment occurs within those womb-mechanisms."
    ],
-   "inference": "Beings suffer torment across an immense array of eighty-four thousand womb-mechanisms.",
+   "inference": "Beings suffer torment throughout the vast array of eighty-four thousand womb-mechanisms.",
    "uncertainties": [
-    "The subject experiencing torment is implied from context rather than explicitly stated in this verse."
+    "The subject of pīḍitāḥ is implied from context rather than explicitly stated in this verse."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-diagrams."
+   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
   }
  ]
 }
