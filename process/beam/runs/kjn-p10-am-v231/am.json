@@ -1,13 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 231,
- "question": "How are the secret place and the wheel quickly accomplished according to Bhairava?",
+ "question": "How is the secret place related to the swift accomplishment of the wheel?",
  "premises": [
-  "A secret place is mentioned",
-  "A wheel is mentioned",
-  "The question concerns their quick accomplishment"
+  "A secret place is mentioned.",
+  "The wheel is accomplished quickly."
  ],
- "inference": "The inquiry seeks the method by which the secret place and wheel are quickly accomplished",
- "uncertainties": [],
- "plain_english": "O Bhairava, tell me how the secret place and the wheel are quickly accomplished."
+ "inference": "Knowledge of the secret place enables the wheel to be accomplished quickly.",
+ "uncertainties": [
+  "The exact syntactic role of 'yathā' is slightly ambiguous."
+ ],
+ "plain_english": "O Bhairava, tell how the wheel is quickly accomplished in the secret place."
 }
