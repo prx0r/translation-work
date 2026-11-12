@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p62-v1526
-[then](tato) [beautiful-limbed](vikalacārvaṅgīṃ) [struck-by-cupid-arrow](mārabāṇaprapīḍitām)
+[then](tato) [agitated+beautiful-limbed](vikala+cārvaṅgīṃ) [cupid-arrow+tormented](mārabāṇa+prapīḍitām)
 
 ## mukta-m0-p62-v1527
-[thus](evam) [draw](ākarṣayet) [woman](nārīṃ) [from-hundreds-of-yojanas](yojanānāṃ+śatādapi)
+[thus](evam) [should-attract](ākarṣayet) [woman](nārīṃ) [yojanas](yojanānāṃ) [hundred+even-from](śatāt+api)
 
 ## mukta-m0-p62-v1528
-[he-is-invincible](so'vadhyaḥ) [of-all-beings](sarvajantūnāṃ) [especially](viśeṣataḥ) [of-tigers-etc](vyāghrādīnāṃ)
+[he](saḥ) [invulnerable](avadhyaḥ) [all+creatures](sarva+jantūnāṃ) [tigers+etc](vyāghra+ādīnāṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p62-v1529
-[with-camphor-saffron-etc](karpūrakuṅkumādyaiśca) [royal-favor](rājavallabhatāṃ) [he-obtains](vrajet)
+[camphor+saffron+etc-with](karpūra+kuṅkuma+ādyaiḥ) [and](ca) [king+belovedness](rāja+vallabhatāṃ) [may-attain](vrajet)
 
 ## mukta-m0-p62-v1530
-[let-him-draw-circle](vilikheccakra) [by-king](rājena) [of-accomplishment-name](sādhyanāma) [mantra-knower](ca+mantravit)
+[should-draw](vilikhet) [diagram](cakra) [with-pigment](rājena) [target+name](sādhya+nāma) [and](ca) [mantra-knower](mantra+vit)
 
 ## mukta-m0-p62-v1531
-[stationary](sthāvaraṃ) [moving](jaṅgamaṃ) [or](vāpi) [entire](sakalaṃ) [human-circle](janamaṇḍalam)
+[stationary](sthāvaraṃ) [moving](jaṅgamaṃ) [or](vā) [also](api) [entire](sakalaṃ) [people+multitude](jana+maṇḍalam)
 
 ## mukta-m0-p62-v1532
-[of-great-tripurasundari](mahātripurasundaryāḥ) [kamakoti-kala](kāmakoṭikalā) [remembered](smṛtāḥ)
+[great-tripurasundari's](mahātripurasundaryāḥ) [kāmakoṭi+parts](kāmakoṭi+kalāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p62-v1533
-[wealth](dhanam) [also](api) [for-request](arthane) [with-arrows](bāṇair) [of-matrika](mātṛkāyāḥ) [enter](praveṣṭaye)
+[wealth](dhanam) [also](api) [in-request](arthane) [with-arrows](bāṇaiḥ) [mātṛkā's](mātṛkāyāḥ) [for-entry](praveṣṭaye)
 
 ## mukta-m0-p62-v1534
-[all-kings](rājendravṛndasakalaṃ) [servants](dāsabhūtāṃ) [makes](karoti) [and](ca)
+[king-lord+multitude+entire](rājendra+vṛnda+sakalaṃ) [slave-become](dāsa+bhūtāṃ) [makes](karoti) [and](ca)
 
 ## mukta-m0-p62-v1535
-[tigers](vyāghrāḥ) [lions](keśariṇo) [intoxicated](mattā) [subdued](vaśyāḥ) [his](tasya) [indeed](bhavanti+hi)
+[tigers](vyāghrāḥ) [lions](keśariṇaḥ) [rutting](mattāḥ) [submissive](vaśyāḥ) [his](tasya) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p62-v1536
-[in-middle](madhye) [of-crossroads](catuṣpathe) [or](vāpi) [in-four-directions](caturdikṣu) [place](nidhāpayet)
+[in-middle](madhye) [at-crossroads](catuṣpathe) [or](vā) [also](api) [in-four-directions](catur+dikṣu) [should-place](nidhāpayet)
 
 ## mukta-m0-p62-v1537
-[thus](tathaiva) [of-all-beings](sarvajantūnāṃ) [front-place](purasthānañca) [arises](jāyate)
+[likewise](tathā) [indeed](eva) [all+creatures](sarva+jantūnāṃ) [standing-before](purasthānam) [and](ca) [occurs](jāyate)
 
 ## mukta-m0-p62-v1538
-[blazing](jvalantīṃ) [all-kings-adorned](sarvarājendramaṇḍitāṃ) [ocean-garmented](sāgarāmbarām)
+[blazing](jvalantīṃ) [all+king-lords+adorned](sarva+rājendra+maṇḍitāṃ) [ocean+garmented](sāgara+ambarām)
 
 ## mukta-m0-p62-v1539
-[by-sight](dṛṣṭyā) [draws](ākarṣayate) [mantrin](mantrī) [three-worlds](trailokyaṃ) [with-moving-immoving](sacarācaram)
+[by-sight](dṛṣṭyā) [attracts](ākarṣayate) [mantrin](mantrī) [three-worlds](trailokyaṃ) [with-moving+non-moving](sa+cara+acaram)
 
 ## mukta-m0-p62-v1540
-[spirits-ghosts-demons](bhūtapretapiśācāṃśca) [fevers](jvarāṃś) [quartan-etc](cāturthikādikān)
+[ghosts+spirits+demons](bhūta+preta+piśācān) [and](ca) [fevers](jvarān) [and](ca) [quartan+etc](cāturthika+ādikān)
 
 ## mukta-m0-p62-v1541
-[this](etat) [vermilion-auspicious](sindūrasubhagaṃ) [at-night](rātrau) [if-worship](saṃpūjayed+yadi)
+[this](etat) [vermilion+auspicious](sindūra+subhagaṃ) [at-night](rātrau) [should-worship](saṃpūjayet) [if](yadi)
 
 ## mukta-m0-p62-v1542
-[when](yadā) [in-directions](dikṣu) [in-intermediate-directions](vidikṣvevaṃ) [properly](samyag) [goddess](devīṃ) [worship](prapūjayet)
+[when](yadā) [in-directions](dikṣu) [in-intermediate-directions](vidikṣu) [thus](evam) [properly](samyak) [goddess](devīṃ) [should-worship](prapūjayet)
 
 ## mukta-m0-p62-v1543
-[subdues](vaśamānayate) [quickly](śīghraṃ) [with-sons-cattle-kin](saputrapaśubāndhavān)
+[under-control](vaśam) [brings](ānayate) [quickly](śīghraṃ) [with-sons+cattle+relatives](sa+putra+paśu+bāndhavān)
 
 ## mukta-m0-p62-v1544
-[therein](tanmadhye) [city](nagaraṃ) [country](deśaṃ) [mandala](maṇḍalaṃ) [region](khaṇḍameva) [or](vā)
+[in-its-middle](tat+madhye) [city](nagaraṃ) [country](deśaṃ) [region](maṇḍalaṃ) [district](khaṇḍam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p62-v1545
-[earth-middle-placed](bhūmimadhyagataṃ) [making](kṛtvā) [three-worlds](trailokyaṃ) [subdue](vaśamānayet)
+[earth+middle+gone](bhūmi+madhya+gataṃ) [having-made](kṛtvā) [three-worlds](trailokyaṃ) [under-control+brings](vaśam+ānayet)
 
 ## mukta-m0-p62-v1546
-[wherever](yatra+kutra) [situated](sthito) [mantrin](mantrī) [shakes](kṣobhayet) [great-city](nagaraṃ+mahat)
+[where](yatra) [anywhere](kutra) [situated](sthitaḥ) [mantrin](mantrī) [may-agitate](kṣobhayet) [city](nagaraṃ) [great](mahat)
 
 ## mukta-m0-p62-v1547
-[rochana](rocanā) [saffron](kuṅkumañcaiva) [lac](lākṣā) [musk](kastūrī) [red](raktakam)
+[rocanā](rocanā) [saffron](kuṅkumam) [and](ca) [indeed](eva) [lac+musk+red-pigment](lākṣā+kastūrī+raktakam)
 
 ## mukta-m0-p62-v1548
-[his](tasya) [tiger-fear-disease-enemy-attack-elephant-etc](vyāghrabhayavyādhiripusargagajādikam)
+[his](tasya) [tiger+fear+disease+enemy-attack+elephant+etc](vyāghra+bhaya+vyādhi+ripu+sarga+gaja+ādikam)
 
 ## mukta-m0-p62-v1549
-[fear](bhayaṃ) [not](na) [exists](vidyate) [certainly](nūnaṃ) [counter-mantra-sorcery](paramantrābhicārakam)
+[fear](bhayaṃ) [not](na) [exists](vidyate) [surely](nūnaṃ) [enemy-mantra+sorcery](para+mantra+abhicārakam)
 
 ## mukta-m0-p62-v1550
-[triangle-middle](trikoṇamadhyagāṃ) [goddess](devīṃ) [triangle-in-middle](trikoṇomayamadhyagām)
+[triangle+middle-gone](trikoṇa+madhya+gāṃ) [goddess](devīṃ) [triangle+consisting-of+middle-gone](trikoṇa+maya+madhya+gām)

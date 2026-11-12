@@ -8,15 +8,15 @@
 "tokens": [
 {
 "surface": "mahāmantrā",
-"quick_gloss": "great+mantra"
+"quick_gloss": "great-mantra"
 },
 {
 "surface": "mantramayī",
-"quick_gloss": "mantra+filled"
+"quick_gloss": "mantra-made"
 },
 {
-"surface": "maṇipūrakavāsinī",
-"quick_gloss": "manipura+dwelling"
+"surface": "maṇipūra+kavāsinī",
+"quick_gloss": "maṇipūra-dwelling"
 }
 ]
 },
@@ -29,15 +29,19 @@
 "tokens": [
 {
 "surface": "gaṇanītā",
-"quick_gloss": "counted+leader"
+"quick_gloss": "counted"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "gāyattrī",
 "quick_gloss": "gāyatrī"
 },
 {
-"surface": "gaṇagandharvasevitā",
-"quick_gloss": "host+gandharva+attended"
+"surface": "gaṇa+gandharva+sevitā",
+"quick_gloss": "gaṇa-gandharva-served"
 }
 ]
 },
@@ -50,19 +54,19 @@
 "tokens": [
 {
 "surface": "caṇḍeśvarī",
-"quick_gloss": "caṇḍeśvarī"
+"quick_gloss": "lady-of-caṇḍa"
 },
 {
-"surface": "caṇḍarūpā",
-"quick_gloss": "fierce+form"
+"surface": "caṇḍa+rūpā",
+"quick_gloss": "fierce-form"
 },
 {
 "surface": "pracaṇḍā",
-"quick_gloss": "fierce"
+"quick_gloss": "very-fierce"
 },
 {
-"surface": "caṇḍamālinī",
-"quick_gloss": "fierce+garlanded"
+"surface": "caṇḍa+mālinī",
+"quick_gloss": "fierce-garlanded"
 }
 ]
 },
@@ -75,15 +79,15 @@
 "tokens": [
 {
 "surface": "yajñeśvarī",
-"quick_gloss": "sacrifice+lady"
+"quick_gloss": "lady-of-sacrifice"
 },
 {
-"surface": "yajñarūpā",
-"quick_gloss": "sacrifice+form"
+"surface": "yajña+rūpā",
+"quick_gloss": "sacrifice-form"
 },
 {
-"surface": "japayajñaparāyaṇā",
-"quick_gloss": "japa+sacrifice+devoted"
+"surface": "japa+yajña+parāyaṇā",
+"quick_gloss": "japa-sacrifice-devoted"
 }
 ]
 },
@@ -99,16 +103,20 @@
 "quick_gloss": "accomplished"
 },
 {
-"surface": "yajñapriyā",
-"quick_gloss": "sacrifice+beloved"
+"surface": "yajña+priyā",
+"quick_gloss": "sacrifice-beloved"
 },
 {
-"surface": "siddhiryajñāṅgī",
+"surface": "siddhiḥ",
 "quick_gloss": "accomplishment"
 },
 {
-"surface": "yajñabandhikā",
-"quick_gloss": "sacrifice+bound"
+"surface": "yajña+aṅgī",
+"quick_gloss": "sacrifice-limb"
+},
+{
+"surface": "yajña+bandhikā",
+"quick_gloss": "sacrifice-binder"
 }
 ]
 },
@@ -121,19 +129,19 @@
 "tokens": [
 {
 "surface": "jālandharā",
-"quick_gloss": "jālandhara"
+"quick_gloss": "jālandharā"
 },
 {
-"surface": "jaganmātā",
-"quick_gloss": "world+mother"
+"surface": "jagat+mātā",
+"quick_gloss": "world-mother"
 },
 {
-"surface": "jātavedā",
-"quick_gloss": "fire+knower"
+"surface": "jāta+vedā",
+"quick_gloss": "knower-of-beings"
 },
 {
-"surface": "jagatpriyā",
-"quick_gloss": "world+beloved"
+"surface": "jagat+priyā",
+"quick_gloss": "world-beloved"
 }
 ]
 },
@@ -161,8 +169,12 @@
 "quick_gloss": "gomatī"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "śatadrukā",
-"quick_gloss": "śatadru"
+"quick_gloss": "śatadrukā"
 }
 ]
 },
@@ -174,20 +186,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sindhurmandākinī",
+"surface": "sindhuḥ",
 "quick_gloss": "sindhu"
 },
 {
-"surface": "sindhurmandākinī",
+"surface": "mandākinī",
 "quick_gloss": "mandākinī"
 },
 {
 "surface": "viprā",
-"quick_gloss": "brāhmaṇī"
+"quick_gloss": "viprā"
 },
 {
 "surface": "yamunā",
 "quick_gloss": "yamunā"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "sarasvatī",
@@ -207,16 +223,20 @@
 "quick_gloss": "narmadā"
 },
 {
-"surface": "kadrukāverī",
+"surface": "kadru",
 "quick_gloss": "kadru"
 },
 {
-"surface": "kadrukāverī",
+"surface": "kāverī",
 "quick_gloss": "kāverī"
 },
 {
 "surface": "vetravatī",
 "quick_gloss": "vetravatī"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kauṣikī",
@@ -266,15 +286,19 @@
 "tokens": [
 {
 "surface": "padminī",
-"quick_gloss": "lotus+possessing"
+"quick_gloss": "lotus-like"
 },
 {
-"surface": "padmahastā",
-"quick_gloss": "lotus+handed"
+"surface": "padma+hastā",
+"quick_gloss": "lotus-handed"
 },
 {
-"surface": "padmakiñjalkavāsinī",
-"quick_gloss": "lotus+filament+dwelling"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "padma+kiñjalka+vāsinī",
+"quick_gloss": "lotus-filament-dwelling"
 }
 ]
 },
@@ -286,24 +310,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "drī/kārī",
-"quick_gloss": "dark+maker"
+"surface": "hrīṃ+kārī",
+"quick_gloss": "hrīṃ-maker"
 },
 {
 "surface": "kuṇḍalī",
-"quick_gloss": "earringed"
+"quick_gloss": "coiled-one"
 },
 {
-"surface": "rātrirhṛtpadmasthā",
+"surface": "rātriḥ",
 "quick_gloss": "night"
 },
 {
-"surface": "rātrirhṛtpadmasthā",
-"quick_gloss": "heart+lotus+seated"
+"surface": "hṛt+padma+sthā",
+"quick_gloss": "heart-lotus-abiding"
 },
 {
-"surface": "sulocanā",
-"quick_gloss": "beautiful+eyed"
+"surface": "su+locanā",
+"quick_gloss": "beautiful-eyed"
 }
 ]
 },
@@ -315,16 +339,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "haripriyā",
-"quick_gloss": "viṣṇu+beloved"
+"surface": "hari+priyā",
+"quick_gloss": "hari-beloved"
 },
 {
-"surface": "harermātā",
-"quick_gloss": "viṣṇu+mother"
+"surface": "hareḥ+mātā",
+"quick_gloss": "hari's-mother"
 },
 {
-"surface": "harinetrakṛtāśrayā",
-"quick_gloss": "viṣṇu+eye+refuge"
+"surface": "hari+netra+kṛta+āśrayā",
+"quick_gloss": "hari-eye-made-refuge"
 }
 ]
 },
@@ -340,12 +364,16 @@
 "quick_gloss": "vaiṣṇavī"
 },
 {
-"surface": "viṣṇurūpā",
-"quick_gloss": "viṣṇu+form"
+"surface": "viṣṇu+rūpā",
+"quick_gloss": "viṣṇu-form"
 },
 {
-"surface": "viṣṇumāyāsvarūpiṇī",
-"quick_gloss": "viṣṇu+māyā+essence"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "viṣṇu+māyā+sva+rūpiṇī",
+"quick_gloss": "viṣṇu-māyā-own-form"
 }
 ]
 },
@@ -357,20 +385,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśveśvarī",
-"quick_gloss": "universe+lady"
+"surface": "viśva+īśvarī",
+"quick_gloss": "lady-of-the-universe"
 },
 {
-"surface": "viśvātmā",
-"quick_gloss": "universe+self"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "viśveśī",
-"quick_gloss": "universe+lady"
+"surface": "viśva+ātmā",
+"quick_gloss": "universe-soul"
 },
 {
-"surface": "viśvarūpiṇī",
-"quick_gloss": "universe+form"
+"surface": "viśva+īśī",
+"quick_gloss": "lady-of-the-universe"
+},
+{
+"surface": "viśva+rūpiṇī",
+"quick_gloss": "universe-form"
 }
 ]
 },
@@ -382,20 +414,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśvāsakāriṇī",
-"quick_gloss": "universe+trusting"
+"surface": "viśvāsa+kāriṇī",
+"quick_gloss": "faith-causing"
 },
 {
 "surface": "viśvā",
 "quick_gloss": "universe"
 },
 {
-"surface": "vidhiśaktirvicakṣaṇā",
-"quick_gloss": "vidhi+power"
+"surface": "vidhi+śaktiḥ",
+"quick_gloss": "brahmā's-power"
 },
 {
-"surface": "vidhiśaktirvicakṣaṇā",
-"quick_gloss": "discerning"
+"surface": "vicakṣaṇā",
+"quick_gloss": "skilled"
 }
 ]
 },
@@ -407,20 +439,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śivamātā",
-"quick_gloss": "śiva+mother"
+"surface": "śiva+mātā",
+"quick_gloss": "śiva's-mother"
 },
 {
-"surface": "śivākhyā",
-"quick_gloss": "śiva+named"
+"surface": "śiva+ākhyā",
+"quick_gloss": "called-śivā"
 },
 {
-"surface": "śivadā",
-"quick_gloss": "śiva+giving"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "śivarūpiṇī",
-"quick_gloss": "śiva+form"
+"surface": "śiva+dā",
+"quick_gloss": "śiva-giver"
+},
+{
+"surface": "śiva+rūpiṇī",
+"quick_gloss": "śiva-form"
 }
 ]
 },
@@ -432,16 +468,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhavamātā",
-"quick_gloss": "bhava+mother"
+"surface": "bhava+mātā",
+"quick_gloss": "bhava's-mother"
 },
 {
-"surface": "bhāvagamyā",
-"quick_gloss": "bhāva+accessible"
+"surface": "bhāva+gamyā",
+"quick_gloss": "attainable-by-contemplation"
 },
 {
-"surface": "bhavakaṇṭakanāśinī",
-"quick_gloss": "bhava+thorn+destroyer"
+"surface": "bhava+kaṇṭaka+nāśinī",
+"quick_gloss": "bhava-thorn-destroyer"
 }
 ]
 },
@@ -453,12 +489,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gatirvareṇyā",
-"quick_gloss": "goal"
+"surface": "gatiḥ",
+"quick_gloss": "refuge"
 },
 {
-"surface": "gatirvareṇyā",
-"quick_gloss": "excellent"
+"surface": "vareṇyā",
+"quick_gloss": "most-excellent"
 },
 {
 "surface": "sāvitrī",
@@ -469,8 +505,8 @@
 "quick_gloss": "brahmāṇī"
 },
 {
-"surface": "brahmarūpiṇī",
-"quick_gloss": "brahma+form"
+"surface": "brahma+rūpiṇī",
+"quick_gloss": "brahman-form"
 }
 ]
 },
@@ -482,20 +518,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "durgasthā",
-"quick_gloss": "durga+seated"
+"surface": "durga+sthā",
+"quick_gloss": "fortress-abiding"
 },
 {
-"surface": "durgarūpā",
-"quick_gloss": "durga+form"
+"surface": "durga+rūpā",
+"quick_gloss": "fortress-form"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "durgā",
 "quick_gloss": "durgā"
 },
 {
-"surface": "durgārttināśinī",
-"quick_gloss": "durga+distress+destroyer"
+"surface": "durga+ārtti+nāśinī",
+"quick_gloss": "difficulty-distress-destroyer"
 }
 ]
 },
@@ -507,16 +547,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "duritaghnī",
-"quick_gloss": "evil+slayer"
+"surface": "durita+ghnī",
+"quick_gloss": "sin-destroyer"
 },
 {
-"surface": "duradhyakṣā",
-"quick_gloss": "evil+overseer"
+"surface": "dur+adhyakṣā",
+"quick_gloss": "overseer-of-difficulties"
 },
 {
-"surface": "dūraduṣkṛtanāśinī",
-"quick_gloss": "far+evil+destroyer"
+"surface": "dūra+duṣkṛta+nāśinī",
+"quick_gloss": "far-evil-deed-destroyer"
 }
 ]
 },
@@ -528,20 +568,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sattvasthā",
-"quick_gloss": "sattva+seated"
+"surface": "sattva+sthā",
+"quick_gloss": "sattva-abiding"
 },
 {
-"surface": "sattvarūpā",
-"quick_gloss": "sattva+form"
+"surface": "sattva+rūpā",
+"quick_gloss": "sattva-form"
 },
 {
-"surface": "kalpasthā",
-"quick_gloss": "kalpa+seated"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "kalparūpiṇī",
-"quick_gloss": "kalpa+form"
+"surface": "kalpa+sthā",
+"quick_gloss": "kalpa-abiding"
+},
+{
+"surface": "kalpa+rūpiṇī",
+"quick_gloss": "kalpa-form"
 }
 ]
 },
@@ -553,16 +597,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśvāmbikā",
-"quick_gloss": "universe+mother"
+"surface": "viśva+ambikā",
+"quick_gloss": "universe-mother"
 },
 {
-"surface": "viśvamātā",
-"quick_gloss": "universe+mother"
+"surface": "viśva+mātā",
+"quick_gloss": "universe-mother"
 },
 {
-"surface": "viśvapāśavidāriṇī",
-"quick_gloss": "universe+bond+splitter"
+"surface": "viśva+pāśa+vidāriṇī",
+"quick_gloss": "universe-bond-tearer"
 }
 ]
 },
@@ -574,12 +618,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "javākusumasaṅkāśā",
-"quick_gloss": "javā+flower+resembling"
+"surface": "javā+kusuma+saṅkāśā",
+"quick_gloss": "hibiscus-flower-resembling"
 },
 {
-"surface": "dāḍimīkusumāruṇā",
-"quick_gloss": "pomegranate+flower+reddish"
+"surface": "dāḍimī+kusuma+aruṇā",
+"quick_gloss": "pomegranate-flower-red"
 }
 ]
 },
@@ -591,24 +635,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarveśī",
-"quick_gloss": "all+lady"
+"surface": "sarva+īśī",
+"quick_gloss": "lady-of-all"
 },
 {
-"surface": "sarvadā",
-"quick_gloss": "always"
+"surface": "sarva+dā",
+"quick_gloss": "always-giving"
 },
 {
 "surface": "sarvā",
 "quick_gloss": "all"
 },
 {
-"surface": "sarvajñā",
-"quick_gloss": "all+knowing"
+"surface": "sarva+jñā",
+"quick_gloss": "all-knowing"
 },
 {
-"surface": "sarvadāyinī",
-"quick_gloss": "all+giving"
+"surface": "sarva+dāyinī",
+"quick_gloss": "giver-of-all"
 }
 ]
 }

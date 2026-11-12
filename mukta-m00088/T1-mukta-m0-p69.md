@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[great+mantra](mahāmantrā) [mantra+filled](mantramayī) [manipura+dwelling](maṇipūrakavāsinī)
+[great-mantra](mahāmantrā) [mantra-made](mantramayī) [maṇipūra-dwelling](maṇipūra+kavāsinī)
 
 ## mukta-m0-p69-v1702
-[counted+leader](gaṇanītā) [gāyatrī](gāyattrī) [host+gandharva+attended](gaṇagandharvasevitā)
+[counted](gaṇanītā) [and](ca) [gāyatrī](gāyattrī) [gaṇa-gandharva-served](gaṇa+gandharva+sevitā)
 
 ## mukta-m0-p69-v1703
-[caṇḍeśvarī](caṇḍeśvarī) [fierce+form](caṇḍarūpā) [fierce](pracaṇḍā) [fierce+garlanded](caṇḍamālinī)
+[lady-of-caṇḍa](caṇḍeśvarī) [fierce-form](caṇḍa+rūpā) [very-fierce](pracaṇḍā) [fierce-garlanded](caṇḍa+mālinī)
 
 ## mukta-m0-p69-v1704
-[sacrifice+lady](yajñeśvarī) [sacrifice+form](yajñarūpā) [japa+sacrifice+devoted](japayajñaparāyaṇā)
+[lady-of-sacrifice](yajñeśvarī) [sacrifice-form](yajña+rūpā) [japa-sacrifice-devoted](japa+yajña+parāyaṇā)
 
 ## mukta-m0-p69-v1705
-[accomplished](siddhā) [sacrifice+beloved](yajñapriyā) [accomplishment](siddhiryajñāṅgī) [sacrifice+bound](yajñabandhikā)
+[accomplished](siddhā) [sacrifice-beloved](yajña+priyā) [accomplishment](siddhiḥ) [sacrifice-limb](yajña+aṅgī) [sacrifice-binder](yajña+bandhikā)
 
 ## mukta-m0-p69-v1706
-[jālandhara](jālandharā) [world+mother](jaganmātā) [fire+knower](jātavedā) [world+beloved](jagatpriyā)
+[jālandharā](jālandharā) [world-mother](jagat+mātā) [knower-of-beings](jāta+vedā) [world-beloved](jagat+priyā)
 
 ## mukta-m0-p69-v1707
-[gaṅgā](gaṅgā) [godāvarī](godāvarī) [gaurī](gaurī) [gomatī](gomatī) [śatadru](śatadrukā)
+[gaṅgā](gaṅgā) [godāvarī](godāvarī) [gaurī](gaurī) [gomatī](gomatī) [and](ca) [śatadrukā](śatadrukā)
 
 ## mukta-m0-p69-v1708
-[sindhu](sindhurmandākinī) [mandākinī](sindhurmandākinī) [brāhmaṇī](viprā) [yamunā](yamunā) [sarasvatī](sarasvatī)
+[sindhu](sindhuḥ) [mandākinī](mandākinī) [viprā](viprā) [yamunā](yamunā) [and](ca) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p69-v1709
-[narmadā](narmadā) [kadru](kadrukāverī) [kāverī](kadrukāverī) [vetravatī](vetravatī) [kauṣikī](kauṣikī)
+[narmadā](narmadā) [kadru](kadru) [kāverī](kāverī) [vetravatī](vetravatī) [and](ca) [kauṣikī](kauṣikī)
 
 ## mukta-m0-p69-v1710
 [ayodhyā](ayodhyā) [mathurā](mathurā) [māyā](māyā) [kāśī](kāśī) [kāñcī](kāñcī) [avantikā](avantikā)
 
 ## mukta-m0-p69-v1711
-[lotus+possessing](padminī) [lotus+handed](padmahastā) [lotus+filament+dwelling](padmakiñjalkavāsinī)
+[lotus-like](padminī) [lotus-handed](padma+hastā) [and](ca) [lotus-filament-dwelling](padma+kiñjalka+vāsinī)
 
 ## mukta-m0-p69-v1712
-[dark+maker](drī/kārī) [earringed](kuṇḍalī) [night](rātrirhṛtpadmasthā) [heart+lotus+seated](rātrirhṛtpadmasthā) [beautiful+eyed](sulocanā)
+[hrīṃ-maker](hrīṃ+kārī) [coiled-one](kuṇḍalī) [night](rātriḥ) [heart-lotus-abiding](hṛt+padma+sthā) [beautiful-eyed](su+locanā)
 
 ## mukta-m0-p69-v1713
-[viṣṇu+beloved](haripriyā) [viṣṇu+mother](harermātā) [viṣṇu+eye+refuge](harinetrakṛtāśrayā)
+[hari-beloved](hari+priyā) [hari's-mother](hareḥ+mātā) [hari-eye-made-refuge](hari+netra+kṛta+āśrayā)
 
 ## mukta-m0-p69-v1714
-[vaiṣṇavī](vaiṣṇavī) [viṣṇu+form](viṣṇurūpā) [viṣṇu+māyā+essence](viṣṇumāyāsvarūpiṇī)
+[vaiṣṇavī](vaiṣṇavī) [viṣṇu-form](viṣṇu+rūpā) [and](ca) [viṣṇu-māyā-own-form](viṣṇu+māyā+sva+rūpiṇī)
 
 ## mukta-m0-p69-v1715
-[universe+lady](viśveśvarī) [universe+self](viśvātmā) [universe+lady](viśveśī) [universe+form](viśvarūpiṇī)
+[lady-of-the-universe](viśva+īśvarī) [and](ca) [universe-soul](viśva+ātmā) [lady-of-the-universe](viśva+īśī) [universe-form](viśva+rūpiṇī)
 
 ## mukta-m0-p69-v1716
-[universe+trusting](viśvāsakāriṇī) [universe](viśvā) [vidhi+power](vidhiśaktirvicakṣaṇā) [discerning](vidhiśaktirvicakṣaṇā)
+[faith-causing](viśvāsa+kāriṇī) [universe](viśvā) [brahmā's-power](vidhi+śaktiḥ) [skilled](vicakṣaṇā)
 
 ## mukta-m0-p69-v1717
-[śiva+mother](śivamātā) [śiva+named](śivākhyā) [śiva+giving](śivadā) [śiva+form](śivarūpiṇī)
+[śiva's-mother](śiva+mātā) [called-śivā](śiva+ākhyā) [and](ca) [śiva-giver](śiva+dā) [śiva-form](śiva+rūpiṇī)
 
 ## mukta-m0-p69-v1718
-[bhava+mother](bhavamātā) [bhāva+accessible](bhāvagamyā) [bhava+thorn+destroyer](bhavakaṇṭakanāśinī)
+[bhava's-mother](bhava+mātā) [attainable-by-contemplation](bhāva+gamyā) [bhava-thorn-destroyer](bhava+kaṇṭaka+nāśinī)
 
 ## mukta-m0-p69-v1719
-[goal](gatirvareṇyā) [excellent](gatirvareṇyā) [sāvitrī](sāvitrī) [brahmāṇī](brahmāṇī) [brahma+form](brahmarūpiṇī)
+[refuge](gatiḥ) [most-excellent](vareṇyā) [sāvitrī](sāvitrī) [brahmāṇī](brahmāṇī) [brahman-form](brahma+rūpiṇī)
 
 ## mukta-m0-p69-v1720
-[durga+seated](durgasthā) [durga+form](durgarūpā) [durgā](durgā) [durga+distress+destroyer](durgārttināśinī)
+[fortress-abiding](durga+sthā) [fortress-form](durga+rūpā) [and](ca) [durgā](durgā) [difficulty-distress-destroyer](durga+ārtti+nāśinī)
 
 ## mukta-m0-p69-v1721
-[evil+slayer](duritaghnī) [evil+overseer](duradhyakṣā) [far+evil+destroyer](dūraduṣkṛtanāśinī)
+[sin-destroyer](durita+ghnī) [overseer-of-difficulties](dur+adhyakṣā) [far-evil-deed-destroyer](dūra+duṣkṛta+nāśinī)
 
 ## mukta-m0-p69-v1722
-[sattva+seated](sattvasthā) [sattva+form](sattvarūpā) [kalpa+seated](kalpasthā) [kalpa+form](kalparūpiṇī)
+[sattva-abiding](sattva+sthā) [sattva-form](sattva+rūpā) [and](ca) [kalpa-abiding](kalpa+sthā) [kalpa-form](kalpa+rūpiṇī)
 
 ## mukta-m0-p69-v1723
-[universe+mother](viśvāmbikā) [universe+mother](viśvamātā) [universe+bond+splitter](viśvapāśavidāriṇī)
+[universe-mother](viśva+ambikā) [universe-mother](viśva+mātā) [universe-bond-tearer](viśva+pāśa+vidāriṇī)
 
 ## mukta-m0-p69-v1724
-[javā+flower+resembling](javākusumasaṅkāśā) [pomegranate+flower+reddish](dāḍimīkusumāruṇā)
+[hibiscus-flower-resembling](javā+kusuma+saṅkāśā) [pomegranate-flower-red](dāḍimī+kusuma+aruṇā)
 
 ## mukta-m0-p69-v1725
-[all+lady](sarveśī) [always](sarvadā) [all](sarvā) [all+knowing](sarvajñā) [all+giving](sarvadāyinī)
+[lady-of-all](sarva+īśī) [always-giving](sarva+dā) [all](sarvā) [all-knowing](sarva+jñā) [giver-of-all](sarva+dāyinī)

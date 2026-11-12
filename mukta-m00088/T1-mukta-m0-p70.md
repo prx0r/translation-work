@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[lotus](nalinī) [delightful](nandinī) [joy](nandā) [bliss-bliss-dwelling](ānandānandavarttinī)
+[lotus-like](nalinī) [joy-giving](nandinī) [joyful](nandā) [joy-of-joy-moving](ānandānandavarttinī)
 
 ## mukta-m0-p70-v1727
-[noble](kulīnā) [clan-middle-standing](kulamadhyasthā) [clan-duty-teaching](kuladharmopadeśinī)
+[noble](kulīnā) [middle-of-family-standing](kulamadhyasthā) [family-dharma-instructing](kuladharmopadeśinī)
 
 ## mukta-m0-p70-v1728
-[sun](sūryā) [thousand-sun-radiance](sūryasahasrābhā) [moon-million-face](candrakoṭinibhānanā)
+[sun](sūryā) [thousand-sun-like](sūryasahasrābhā) [crore-moon-faced](candrakoṭinibhānanā)
 
 ## mukta-m0-p70-v1729
-[forest-fire-million-blazing](dāvāgnikoṭijvalinī) [kadru-million-form](kadrukoṭisvarūpiṇī)
+[crore-forest-fire-blazing](dāvāgnikoṭijvalinī) [crore-serpent-form](kadrukoṭisvarūpiṇī)
 
 ## mukta-m0-p70-v1730
-[sky-million-expanse](ākāśakoṭivistārā) [yama-million-terrifying](yamakoṭibhayaṅkarā)
+[crore-sky-extensive](ākāśakoṭivistārā) [crore-yama-frightening](yamakoṭibhayaṅkarā)
 
 ## mukta-m0-p70-v1731
-[spotless](niṣkalaṅkā) [supportless](nirādhārā) [qualityless](nirguṇā) [quality-devoid](guṇavarjitā)
+[stainless](niṣkalaṅkā) [supportless](nirādhārā) [without-quality](nirguṇā) [quality-devoid](guṇavarjitā)
 
 ## mukta-m0-p70-v1732
-[wondrous](citrā) [variegated](vicitrā) [wondrous-limbed](citrāṅgī) [cause-womb](hetugarbhā) [battle-lady](raṇeśvarī)
+[wondrous](citrā) [variegated](vicitrā) [variegated-limbed](citrāṅgī) [cause-wombed](hetugarbhā) [battle-lord](raṇeśvarī)
 
 ## mukta-m0-p70-v1733
-[scripture](śrutiḥ) [scripture-filled](śrutimayī) [truth](satyā) [scripture-form](śrutirūpā) [scripture-dear](śrutipriyā)
+[veda](śrutiḥ) [veda-full](śrutimayī) [truth](satyā) [veda-form](śrutirūpā) [veda-beloved](śrutipriyā)
 
 ## mukta-m0-p70-v1734
-[parvati](pārvatī) [himavat-daughter](himavatputrī) [far-shore-standing](pārasthā) [far-shore-form](pārarūpiṇī)
+[pārvatī](pārvatī) [himalaya-daughter](himavatputrī) [beyond-standing](pārasthā) [beyond-form](pārarūpiṇī)
 
 ## mukta-m0-p70-v1735
-[being-sustainer](bhūtadhātrī) [being-lady](bhūteśī) [being-standing](bhūtasthā) [being-future](bhūtabhāvinī)
+[beings-supporter](bhūtadhātrī) [beings-lord](bhūteśī) [beings-standing](bhūtasthā) [beings-becoming](bhūtabhāvinī)
 
 ## mukta-m0-p70-v1736
-[swan-named](haṃsākhyā) [swan-form](haṃsarūpā) [swan-standing](haṃsasthā) [swan-form](haṃsarūpiṇī)
+[haṃsa-named](haṃsākhyā) [haṃsa-form](haṃsarūpā) [haṃsa-standing](haṃsasthā) [haṃsa-formed](haṃsarūpiṇī)
 
 ## mukta-m0-p70-v1737
-[twelve-petal-lotus-standing](dvādaśārasarojasthā) [sun-orb-dwelling](sūryamaṇḍalavāsinī)
+[twelve-spoke-lotus-standing](dvādaśārasarojasthā) [sun-orb-dwelling](sūryamaṇḍalavāsinī)
 
 ## mukta-m0-p70-v1738
-[dakini](ḍākinī) [rakini](rākiṇī) [lakini](lākinī) [kakini](kākinī)
+[ḍākinī](ḍākinī) [rākiṇī](rākiṇī) [lākinī](lākinī) [kākinī](kākinī) [thus](tathā)
 
 ## mukta-m0-p70-v1739
-[creation-preservation-destruction](sṛṣṭisthitivināśā) [creation-preservation-end-doing](sṛṣṭisthityantakāriṇī)
+[creation-maintenance-destruction](sṛṣṭisthitivināśā) [creation-maintenance-end-doer](sṛṣṭisthityantakāriṇī)
 
 ## mukta-m0-p70-v1740
-[sixty-four-arts-support](catuḥṣaṣṭikalādhārā) [body-staff-art-refuge](dehadaṇḍakalāśrayā)
+[sixty-four-arts-support](catuḥṣaṣṭikalādhārā) [body-staff-arts-abode](dehadaṇḍakalāśrayā)
 
 ## mukta-m0-p70-v1741
-[hingula](hiṅgulā) [auspicious](maṅgalā) [sita](sītā) [sushumna-middle-going](suṣumṇāmadhyagāminī)
+[hiṅgulā](hiṅgulā) [auspicious](maṅgalā) [sītā](sītā) [suṣumṇā-middle-going](suṣumṇāmadhyagāminī)
 
 ## mukta-m0-p70-v1742
-[heart-lotus-abiding](hṛtpadmanilayā) [terrible](bhīmā) [bhairava-crying](bhairavanādinī)
+[heart-lotus-abode](hṛtpadmanilayā) [terrific](bhīmā) [bhairava-sounding](bhairavanādinī)
 
 ## mukta-m0-p70-v1743
-[end-peak-seed-standing](antakūṭabījasthā) [three-peak-forest-dwelling](trikūṭavanavāsinī)
+[end-peak-seed-standing](antakūṭabījasthā) [trikūṭa-forest-dwelling](trikūṭavanavāsinī)
 
 ## mukta-m0-p70-v1744
-[vidyadhari](vidyādharī) [world-sustainer](lokadhātrī) [immortal](amarā) [apsara-dear](apsaraḥpriyā)
+[vidyādharī](vidyādharī) [world-supporter](lokadhātrī) [immortal](amarā) [apsaras-beloved](apsaraḥpriyā)
 
 ## mukta-m0-p70-v1745
-[ishani](īśānī) [world-lady](bhuvaneśānī) [world](bhuvanā) [world-lady](bhuvaneśvarī)
+[īśānī](īśānī) [world-īśānī](bhuvaneśānī) [world](bhuvanā) [world-lord](bhuvaneśvarī)
 
 ## mukta-m0-p70-v1746
-[unthinkable-power-mind-self](acintyaśakticittātmā) [thought-mind-form](cintā) [thought-mind-form](cittasvarūpiṇī)
+[inconceivable-power-mind-self](acintyaśakticittātmā) [thought](cintā) [thought-form](cittasvarūpiṇī)
 
 ## mukta-m0-p70-v1747
-[black](asitā) [terrible-form](ghorarūpā) [nectar-stream](sudhādhārā) [nectar-bearing](sudhāvahā)
+[dark](asitā) [terrific-form](ghorarūpā) [nectar-stream](sudhādhārā) [nectar-bearing](sudhāvahā)
 
 ## mukta-m0-p70-v1748
-[unmoved](anudyamā) [patience-bliss](kṣamānandā) [rare](durlabhā) [house-self](bhavanātmikā)
+[unexerted](anudyamā) [forgiveness-bliss](kṣamānandā) [hard-to-attain](durlabhā) [becoming-self](bhavanātmikā)
 
 ## mukta-m0-p70-v1749
-[conduct-standing](śīlasthā) [conduct-form](śīlarūpā) [conduct](śīlā) [conduct-giving](śīlapradāyinī)
+[conduct-standing](śīlasthā) [conduct-form](śīlarūpā) [conduct](śīlā) [conduct-giver](śīlapradāyinī)
 
 ## mukta-m0-p70-v1750
-[shining](vidyotinī) [wondrous-self](vicitrātmā) [lightning-patala-like](vidyutpāṭalasannibhā)
+[illuminating](vidyotinī) [variegated-self](vicitrātmā) [lightning-red-like](vidyutpāṭalasannibhā)

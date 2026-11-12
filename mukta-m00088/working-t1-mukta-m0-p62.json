@@ -11,12 +11,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "vikalacārvaṅgīṃ",
-"quick_gloss": "beautiful-limbed"
+"surface": "vikala+cārvaṅgīṃ",
+"quick_gloss": "agitated+beautiful-limbed"
 },
 {
-"surface": "mārabāṇaprapīḍitām",
-"quick_gloss": "struck-by-cupid-arrow"
+"surface": "mārabāṇa+prapīḍitām",
+"quick_gloss": "cupid-arrow+tormented"
 }
 ]
 },
@@ -33,15 +33,19 @@
 },
 {
 "surface": "ākarṣayet",
-"quick_gloss": "draw"
+"quick_gloss": "should-attract"
 },
 {
 "surface": "nārīṃ",
 "quick_gloss": "woman"
 },
 {
-"surface": "yojanānāṃ+śatādapi",
-"quick_gloss": "from-hundreds-of-yojanas"
+"surface": "yojanānāṃ",
+"quick_gloss": "yojanas"
+},
+{
+"surface": "śatāt+api",
+"quick_gloss": "hundred+even-from"
 }
 ]
 },
@@ -53,20 +57,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "so'vadhyaḥ",
-"quick_gloss": "he-is-invincible"
+"surface": "saḥ",
+"quick_gloss": "he"
 },
 {
-"surface": "sarvajantūnāṃ",
-"quick_gloss": "of-all-beings"
+"surface": "avadhyaḥ",
+"quick_gloss": "invulnerable"
+},
+{
+"surface": "sarva+jantūnāṃ",
+"quick_gloss": "all+creatures"
+},
+{
+"surface": "vyāghra+ādīnāṃ",
+"quick_gloss": "tigers+etc"
 },
 {
 "surface": "viśeṣataḥ",
 "quick_gloss": "especially"
-},
-{
-"surface": "vyāghrādīnāṃ",
-"quick_gloss": "of-tigers-etc"
 }
 ]
 },
@@ -78,16 +86,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karpūrakuṅkumādyaiśca",
-"quick_gloss": "with-camphor-saffron-etc"
+"surface": "karpūra+kuṅkuma+ādyaiḥ",
+"quick_gloss": "camphor+saffron+etc-with"
 },
 {
-"surface": "rājavallabhatāṃ",
-"quick_gloss": "royal-favor"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "rāja+vallabhatāṃ",
+"quick_gloss": "king+belovedness"
 },
 {
 "surface": "vrajet",
-"quick_gloss": "he-obtains"
+"quick_gloss": "may-attain"
 }
 ]
 },
@@ -99,19 +111,27 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vilikheccakra",
-"quick_gloss": "let-him-draw-circle"
+"surface": "vilikhet",
+"quick_gloss": "should-draw"
+},
+{
+"surface": "cakra",
+"quick_gloss": "diagram"
 },
 {
 "surface": "rājena",
-"quick_gloss": "by-king"
+"quick_gloss": "with-pigment"
 },
 {
-"surface": "sādhyanāma",
-"quick_gloss": "of-accomplishment-name"
+"surface": "sādhya+nāma",
+"quick_gloss": "target+name"
 },
 {
-"surface": "ca+mantravit",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "mantra+vit",
 "quick_gloss": "mantra-knower"
 }
 ]
@@ -132,16 +152,20 @@
 "quick_gloss": "moving"
 },
 {
-"surface": "vāpi",
+"surface": "vā",
 "quick_gloss": "or"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "sakalaṃ",
 "quick_gloss": "entire"
 },
 {
-"surface": "janamaṇḍalam",
-"quick_gloss": "human-circle"
+"surface": "jana+maṇḍalam",
+"quick_gloss": "people+multitude"
 }
 ]
 },
@@ -154,11 +178,11 @@
 "tokens": [
 {
 "surface": "mahātripurasundaryāḥ",
-"quick_gloss": "of-great-tripurasundari"
+"quick_gloss": "great-tripurasundari's"
 },
 {
-"surface": "kāmakoṭikalā",
-"quick_gloss": "kamakoti-kala"
+"surface": "kāmakoṭi+kalāḥ",
+"quick_gloss": "kāmakoṭi+parts"
 },
 {
 "surface": "smṛtāḥ",
@@ -183,19 +207,19 @@
 },
 {
 "surface": "arthane",
-"quick_gloss": "for-request"
+"quick_gloss": "in-request"
 },
 {
-"surface": "bāṇair",
+"surface": "bāṇaiḥ",
 "quick_gloss": "with-arrows"
 },
 {
 "surface": "mātṛkāyāḥ",
-"quick_gloss": "of-matrika"
+"quick_gloss": "mātṛkā's"
 },
 {
 "surface": "praveṣṭaye",
-"quick_gloss": "enter"
+"quick_gloss": "for-entry"
 }
 ]
 },
@@ -207,12 +231,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rājendravṛndasakalaṃ",
-"quick_gloss": "all-kings"
+"surface": "rājendra+vṛnda+sakalaṃ",
+"quick_gloss": "king-lord+multitude+entire"
 },
 {
-"surface": "dāsabhūtāṃ",
-"quick_gloss": "servants"
+"surface": "dāsa+bhūtāṃ",
+"quick_gloss": "slave-become"
 },
 {
 "surface": "karoti",
@@ -236,23 +260,27 @@
 "quick_gloss": "tigers"
 },
 {
-"surface": "keśariṇo",
+"surface": "keśariṇaḥ",
 "quick_gloss": "lions"
 },
 {
-"surface": "mattā",
-"quick_gloss": "intoxicated"
+"surface": "mattāḥ",
+"quick_gloss": "rutting"
 },
 {
 "surface": "vaśyāḥ",
-"quick_gloss": "subdued"
+"quick_gloss": "submissive"
 },
 {
 "surface": "tasya",
 "quick_gloss": "his"
 },
 {
-"surface": "bhavanti+hi",
+"surface": "bhavanti",
+"quick_gloss": "become"
+},
+{
+"surface": "hi",
 "quick_gloss": "indeed"
 }
 ]
@@ -270,19 +298,23 @@
 },
 {
 "surface": "catuṣpathe",
-"quick_gloss": "of-crossroads"
+"quick_gloss": "at-crossroads"
 },
 {
-"surface": "vāpi",
+"surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "caturdikṣu",
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "catur+dikṣu",
 "quick_gloss": "in-four-directions"
 },
 {
 "surface": "nidhāpayet",
-"quick_gloss": "place"
+"quick_gloss": "should-place"
 }
 ]
 },
@@ -294,20 +326,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tathaiva",
-"quick_gloss": "thus"
+"surface": "tathā",
+"quick_gloss": "likewise"
 },
 {
-"surface": "sarvajantūnāṃ",
-"quick_gloss": "of-all-beings"
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
-"surface": "purasthānañca",
-"quick_gloss": "front-place"
+"surface": "sarva+jantūnāṃ",
+"quick_gloss": "all+creatures"
+},
+{
+"surface": "purasthānam",
+"quick_gloss": "standing-before"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "arises"
+"quick_gloss": "occurs"
 }
 ]
 },
@@ -323,12 +363,12 @@
 "quick_gloss": "blazing"
 },
 {
-"surface": "sarvarājendramaṇḍitāṃ",
-"quick_gloss": "all-kings-adorned"
+"surface": "sarva+rājendra+maṇḍitāṃ",
+"quick_gloss": "all+king-lords+adorned"
 },
 {
-"surface": "sāgarāmbarām",
-"quick_gloss": "ocean-garmented"
+"surface": "sāgara+ambarām",
+"quick_gloss": "ocean+garmented"
 }
 ]
 },
@@ -345,7 +385,7 @@
 },
 {
 "surface": "ākarṣayate",
-"quick_gloss": "draws"
+"quick_gloss": "attracts"
 },
 {
 "surface": "mantrī",
@@ -356,8 +396,8 @@
 "quick_gloss": "three-worlds"
 },
 {
-"surface": "sacarācaram",
-"quick_gloss": "with-moving-immoving"
+"surface": "sa+cara+acaram",
+"quick_gloss": "with-moving+non-moving"
 }
 ]
 },
@@ -369,16 +409,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūtapretapiśācāṃśca",
-"quick_gloss": "spirits-ghosts-demons"
+"surface": "bhūta+preta+piśācān",
+"quick_gloss": "ghosts+spirits+demons"
 },
 {
-"surface": "jvarāṃś",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "jvarān",
 "quick_gloss": "fevers"
 },
 {
-"surface": "cāturthikādikān",
-"quick_gloss": "quartan-etc"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "cāturthika+ādikān",
+"quick_gloss": "quartan+etc"
 }
 ]
 },
@@ -394,16 +442,20 @@
 "quick_gloss": "this"
 },
 {
-"surface": "sindūrasubhagaṃ",
-"quick_gloss": "vermilion-auspicious"
+"surface": "sindūra+subhagaṃ",
+"quick_gloss": "vermilion+auspicious"
 },
 {
 "surface": "rātrau",
 "quick_gloss": "at-night"
 },
 {
-"surface": "saṃpūjayed+yadi",
-"quick_gloss": "if-worship"
+"surface": "saṃpūjayet",
+"quick_gloss": "should-worship"
+},
+{
+"surface": "yadi",
+"quick_gloss": "if"
 }
 ]
 },
@@ -423,11 +475,15 @@
 "quick_gloss": "in-directions"
 },
 {
-"surface": "vidikṣvevaṃ",
+"surface": "vidikṣu",
 "quick_gloss": "in-intermediate-directions"
 },
 {
-"surface": "samyag",
+"surface": "evam",
+"quick_gloss": "thus"
+},
+{
+"surface": "samyak",
 "quick_gloss": "properly"
 },
 {
@@ -436,7 +492,7 @@
 },
 {
 "surface": "prapūjayet",
-"quick_gloss": "worship"
+"quick_gloss": "should-worship"
 }
 ]
 },
@@ -448,16 +504,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vaśamānayate",
-"quick_gloss": "subdues"
+"surface": "vaśam",
+"quick_gloss": "under-control"
+},
+{
+"surface": "ānayate",
+"quick_gloss": "brings"
 },
 {
 "surface": "śīghraṃ",
 "quick_gloss": "quickly"
 },
 {
-"surface": "saputrapaśubāndhavān",
-"quick_gloss": "with-sons-cattle-kin"
+"surface": "sa+putra+paśu+bāndhavān",
+"quick_gloss": "with-sons+cattle+relatives"
 }
 ]
 },
@@ -469,8 +529,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tanmadhye",
-"quick_gloss": "therein"
+"surface": "tat+madhye",
+"quick_gloss": "in-its-middle"
 },
 {
 "surface": "nagaraṃ",
@@ -482,11 +542,15 @@
 },
 {
 "surface": "maṇḍalaṃ",
-"quick_gloss": "mandala"
+"quick_gloss": "region"
 },
 {
-"surface": "khaṇḍameva",
-"quick_gloss": "region"
+"surface": "khaṇḍam",
+"quick_gloss": "district"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "vā",
@@ -502,20 +566,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūmimadhyagataṃ",
-"quick_gloss": "earth-middle-placed"
+"surface": "bhūmi+madhya+gataṃ",
+"quick_gloss": "earth+middle+gone"
 },
 {
 "surface": "kṛtvā",
-"quick_gloss": "making"
+"quick_gloss": "having-made"
 },
 {
 "surface": "trailokyaṃ",
 "quick_gloss": "three-worlds"
 },
 {
-"surface": "vaśamānayet",
-"quick_gloss": "subdue"
+"surface": "vaśam+ānayet",
+"quick_gloss": "under-control+brings"
 }
 ]
 },
@@ -527,11 +591,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yatra+kutra",
-"quick_gloss": "wherever"
+"surface": "yatra",
+"quick_gloss": "where"
 },
 {
-"surface": "sthito",
+"surface": "kutra",
+"quick_gloss": "anywhere"
+},
+{
+"surface": "sthitaḥ",
 "quick_gloss": "situated"
 },
 {
@@ -540,11 +608,15 @@
 },
 {
 "surface": "kṣobhayet",
-"quick_gloss": "shakes"
+"quick_gloss": "may-agitate"
 },
 {
-"surface": "nagaraṃ+mahat",
-"quick_gloss": "great-city"
+"surface": "nagaraṃ",
+"quick_gloss": "city"
+},
+{
+"surface": "mahat",
+"quick_gloss": "great"
 }
 ]
 },
@@ -557,23 +629,23 @@
 "tokens": [
 {
 "surface": "rocanā",
-"quick_gloss": "rochana"
+"quick_gloss": "rocanā"
 },
 {
-"surface": "kuṅkumañcaiva",
+"surface": "kuṅkumam",
 "quick_gloss": "saffron"
 },
 {
-"surface": "lākṣā",
-"quick_gloss": "lac"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "kastūrī",
-"quick_gloss": "musk"
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
-"surface": "raktakam",
-"quick_gloss": "red"
+"surface": "lākṣā+kastūrī+raktakam",
+"quick_gloss": "lac+musk+red-pigment"
 }
 ]
 },
@@ -589,8 +661,8 @@
 "quick_gloss": "his"
 },
 {
-"surface": "vyāghrabhayavyādhiripusargagajādikam",
-"quick_gloss": "tiger-fear-disease-enemy-attack-elephant-etc"
+"surface": "vyāghra+bhaya+vyādhi+ripu+sarga+gaja+ādikam",
+"quick_gloss": "tiger+fear+disease+enemy-attack+elephant+etc"
 }
 ]
 },
@@ -615,11 +687,11 @@
 },
 {
 "surface": "nūnaṃ",
-"quick_gloss": "certainly"
+"quick_gloss": "surely"
 },
 {
-"surface": "paramantrābhicārakam",
-"quick_gloss": "counter-mantra-sorcery"
+"surface": "para+mantra+abhicārakam",
+"quick_gloss": "enemy-mantra+sorcery"
 }
 ]
 },
@@ -631,16 +703,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "trikoṇamadhyagāṃ",
-"quick_gloss": "triangle-middle"
+"surface": "trikoṇa+madhya+gāṃ",
+"quick_gloss": "triangle+middle-gone"
 },
 {
 "surface": "devīṃ",
 "quick_gloss": "goddess"
 },
 {
-"surface": "trikoṇomayamadhyagām",
-"quick_gloss": "triangle-in-middle"
+"surface": "trikoṇa+maya+madhya+gām",
+"quick_gloss": "triangle+consisting-of+middle-gone"
 }
 ]
 }
