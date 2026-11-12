@@ -1,15 +1,15 @@
 {
  "song": "kjn-p17",
  "verse": 412,
- "question": "What incomparable state does the yogin attain after pervading all?",
+ "question": "What incomparable state does the yogin attain by pervading all?",
  "premises": [
-  "The yogin has pervaded all.",
-  "The yogin abides in that state.",
-  "The yogin is described as incomparable."
+  "Pervasion has occurred",
+  "The yogin abides",
+  "The yogin is described as incomparable"
  ],
- "inference": "Having pervaded everything, the yogin abides in an incomparable state.",
+ "inference": "Having pervaded all, the yogin abides in an incomparable state.",
  "uncertainties": [
-  "The verse ends with a question mark, suggesting an interrogative or incomplete sense."
+  "Final question mark token is unusual in the verse text"
  ],
- "plain_english": "O god, having pervaded all and abiding thus, is the yogin incomparable?"
+ "plain_english": "O god, having pervaded all and abiding thus, the yogin is incomparable?"
 }
