@@ -7,39 +7,39 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral indicating eighty-four, forming a numerical expression with the following word",
-     "morph": "numeral"
+     "grounds": "numeral referring to count",
+     "morph": "fem.nom.pl"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural expressing location within a large number",
-     "morph": "n.loc.pl"
+     "gloss": "thousands",
+     "grounds": "locative plural of numeral group",
+     "morph": "m.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-mechanisms",
-     "grounds": "compound denoting the mechanisms or devices of birth or wombs",
-     "morph": "compound: yoni+womb + yantreṣu+mechanism; n.loc.pl"
+     "gloss": "womb-diagrams",
+     "grounds": "locative compound context",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle describing beings subjected to suffering",
-     "morph": "m.nom.pl; ppp; root pīḍ"
+     "grounds": "past passive participle agreement",
+     "morph": "3.pl.perf.pass"
     }
    ],
-   "question": "What is the extent of torment endured within the mechanisms of birth?",
+   "question": "By what count and in what setting are certain beings said to endure torment in this claim?",
    "premises": [
-    "The number specified is eighty-four thousand.",
-    "These thousands are womb-mechanisms.",
-    "Beings within them are tormented."
+    "A count of eighty-four is specified here.",
+    "That count falls within thousands of womb-diagrams.",
+    "Beings are stated to be tormented in those settings."
    ],
-   "inference": "Beings suffer torment across eighty-four thousand different womb-mechanisms.",
+   "inference": "Torment is assigned to beings located in eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The subject experiencing torment is implied from context rather than explicitly stated in this verse."
+    "The identity of the tormented beings remains unspecified."
    ],
-   "plain_english": "They are tormented in the eighty-four thousand womb-mechanisms."
+   "plain_english": "In eighty-four thousand womb-diagrams, beings are tormented."
   }
  ]
 }
