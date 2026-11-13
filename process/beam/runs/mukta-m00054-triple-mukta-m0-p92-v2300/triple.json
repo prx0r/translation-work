@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "prasīda",
+     "gloss": "be-gracious",
+     "grounds": "imperative request for favor",
+     "morph": "2.sg.act.imp-pra√sad"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "speaker as recipient of grace",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "bhaktasya",
+     "gloss": "of-devotee",
+     "grounds": "qualifies the speaker by devotion",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "cchindhi",
+     "gloss": "cut",
+     "grounds": "imperative request to sever or remove",
+     "morph": "2.sg.act.imp-√chid"
+    },
+    {
+     "surface": "sandeha+ja+ntamaḥ",
+     "gloss": "doubt-born-darkness",
+     "grounds": "compound denoting darkness arising from doubt; object of removal",
+     "morph": "acc.sg.n; compound: sandeha-ja-tamas"
+    }
+   ],
+   "question": "What divine grace can remove the darkness born from a devotee's doubt?",
+   "premises": [
+    "The speaker presents himself as a devotee seeking favor.",
+    "Doubt gives rise to a darkness that obscures understanding.",
+    "Divine grace is capable of severing this darkness."
+   ],
+   "inference": "Therefore the devotee petitions the deity to be gracious and cut away doubt-born darkness.",
+   "uncertainties": [],
+   "plain_english": "Be gracious to me, your devotee; cut away the darkness born of doubt."
+  }
+ ]
+}

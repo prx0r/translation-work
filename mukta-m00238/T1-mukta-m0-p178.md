@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p178-v4426
-earth-lord-lineage-praised moon-crescent-diadem
+[earth-lord+lineage+praised](bhūnātha+saṃtati+nutāṃ) [moon+piece+crest-jewel](soma+khaṃḍa+avataṃsinīm)
 
 ## mukta-m0-p178-v4427
-well-adorned-beautiful and place vehicle-ornament-hood-jewel
+[borne+beautiful+mother](samūḍha+suma+maṃ) [and](ca) [abiding](sthāṃ) [vehicle+ornament+serpent+jewel](vāha+ābhūṣā+phaṇā+maṇim)
 
 ## mukta-m0-p178-v4428
-sari-lifted-garland-lion-garb-chariot-seated
+[garment+swinging+star+necklace](śāṭī+luṭhat+tāra+hārāṃ) [lion+form+chariot+standing](siṃha+veṣa+ratha+sthitām)
 
 ## mukta-m0-p178-v4429
-child-garb-wearing goddess I-bow Vindhya-dwelling
+[child+form+bearing](bāla+veṣa+dharāṃ) [goddess](devīṃ) [praise+I](vaṃde+ahaṃ) [Vindhya+dwelling](viṃdhya+vāsinīm)
 
 ## mukta-m0-p178-v4430
-fame-fortune-good-progeny knowledge obtains best
+[fame](kīrtiṃ) [fortune](bhāgyaṃ) [good+offspring](su+saṃtānaṃ) [knowledge](vijñānaṃ) [obtains](labhate) [excellent-one](varaḥ)
 
 ## mukta-m0-p178-v4431
-valor-Ashvina-bright first-day-sun-auspicious
+[Vikrama+Āśvina+bright-fortnight](vikrama+āśvina+śuklasya) [on-first-day](prathamāyāṃ) [on-Sunday](ravau) [auspicious](śubhe)
 
 ## mukta-m0-p178-v4432
-indicated-letter-like-verse-composed-wise-pleasure
+[specified+syllable+manner+verses](uddiṣṭa+akṣara+vat+ślokāḥ) [composed](racitā) [wise+pleasure+for](budha+tuṣṭaye) [8](|| 8||)
 
 ## mukta-m0-p178-v4433
-one-etc-place-ten-long-teaching
+[one+beginning+with+vowels+place](eka+ādikam+acāṃ+sthāne) [ten](daśakaṃ) [long+knowing+in](dīrgha+bodhane)
 
 ## mukta-m0-p178-v4434
-number-Ka-to-nine foot-difference-Ta-etc
+[of-number](saṃkhyāyāḥ) [ka+beginning+nine](ka+ādi+navakaṃ) [foot+division+of](pāda+bhedasya) [ṭa+beginning](ṭa+ādikam)
 
 ## mukta-m0-p178-v4435
-Nishka-etc-balance-Isha-etc bindu-no-rest-?
+[niṣka+beginning+weighing+in](niṣka+ādi+tulane) [śa+beginning](śa+ādi) [of-bindu](biṃdoḥ) [no](no) [of-pause](viśramasya) [ñaḥ](ñaḥ)
 
 ## mukta-m0-p178-v4436
-which-praise scholars Brihaspati equal also
+[whom](yaṃ) [praise](prastuvaṃti) [wise-men](vidvāṃso) [Bṛhaspati](bṛhaspati) [equal](samā) [even](api)
 
 ## mukta-m0-p178-v4437
-Shaka-Shalivahana three-four-seven-earth-measure
+[of-Śaka+Śālivāhana](śake+śālīvāhanasya) [three+four+seven+earth+measured](tri+catus+sapta+bhū+mite)
 
 ## mukta-m0-p178-v4438
-number-script-lipi-by numbers teacher great
+[number+letters+by-number+letters](saṅkhyā+lipīnā+ali+pibhiḥ) [of-numbers](saṃkhyānāṃ) [indicator](bodhako) [great](mahān)
 
 ## mukta-m0-p178-v4439
-skin-ash-earth-bones silver nail-cow-dung
+[skin+ash+clay+bones](carma+bhasma+mṛd+asthīni) [silver](rajataṃ) [nail+cow-dung](nakha+gomaye)
 
 ## mukta-m0-p178-v4440
-food-work-saka flower skin and coral
+[food](annaṃ) [kāryāsaka](kāryāsakaṃ) [flower](puṣpaṃ) [skin](carma) [and](ca) [indeed](eva) [coral](pravālakaḥ)
 
 ## mukta-m0-p178-v4441
-grain and cow-dung and iron-ash-etc remembered
+[grain](dhānyaṃ) [and](ca) [cow-dung](gomayaṃ) [and](ca) [indeed](eva) [metal+ash+etc.](loha+bhasma+ādayaḥ) [remembered](smṛtāḥ) [3](|| 3 ||)
 
 ## mukta-m0-p178-v4442
-hair-jewel and silver Karpasa-mud-potsherd
+[hair](keśaḥ) [gem](maṇiḥ) [and](ca) [silver](rajataṃ) [cotton](kārpāsaḥ) [clay](mṛt) [and](ca) [leaf](patrakam)
 
 ## mukta-m0-p178-v4443
-salt and indeed said substances-sixteen-here
+[salt](lavaṇaṃ) [and](ca) [thus](iti) [indeed](vai) [declared](proktāḥ) [substances](padārthāḥ) [sixteen](ṣoḍaśa) [here](atra) [indeed](hi) [5](|| 5 ||)
 
 ## mukta-m0-p178-v4444
-iron-copper ash-bone Sanjiva hair indeed and
+[metal](lohaḥ) [copper](tāmraṃ) [ash](bhasma) [and](ca) [bone](asthi) [living-thing](sañjīvaḥ) [hair](keśa) [indeed](eva) [and](ca)
 
 ## mukta-m0-p178-v4445
-silver and indeed camphor coral gem indeed and
+[silver](rajataṃ) [and](ca) [indeed](eva) [camphor](karpūraṃ) [coral](pravālaḥ) [gem](ratnam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p178-v4446
-bone-stone-hair-salt-flower-bhuti thus remembered
+[bone](asthi) [stone](aśmā) [hair](keśa) [salt](lavaṇau) [flower](puṣpa) [ash](bhūtī) [thus](iti) [remembered](smṛtāḥ) [8](|| 8 ||)
 
 ## mukta-m0-p178-v4447
-living-root-dry and juice etc gone
+[living-thing](sajīvaḥ) [root](mūla) [dry-things](śuṣke) [and](ca) [mercury](rasa) [thus+beginning-with](iti+ādayaḥ) [gone](gatāḥ)
 
 ## mukta-m0-p178-v4448
-dry earths-known indeed thus knowers-know
+[dry-thing](śuṣkaṃ) [clay](mṛd) [arrow](iṣu) [to-be-known](vijñeyam) [thus](iti) [indeed](vai) [that+knowers](tad+vidaḥ) [know](viduḥ)
 
 ## mukta-m0-p178-v4449
-stone-juice and salt etc knowers-know
+[stone](śilā) [mercury](rasaḥ) [and](ca) [salt](lavaṇam) [thus+beginning-with](iti+ādīn) [that+knowers](tad+vidaḥ) [know](viduḥ)
 
 ## mukta-m0-p178-v4450
-root-juice-living and thus known discerning
+[root](mūlaṃ) [mercury](rasaḥ) [living-thing](sajīvaḥ) [and](ca) [thus](iti) [thus](evaṃ) [to-be-known](jñeyaṃ) [by-wise-ones](vicakṣaṇaiḥ)

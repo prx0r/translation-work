@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p180-v4476
-[knowledge](jñānam) [obtained](prāpya) [vain](vṛthā) [becomes](bhūyāt) [if](yadi) [red](rakta) [sin](pāpa) [becomes](bhavet)
+[knowledge](jñānam) [having-obtained](prāpya) [in-vain](vṛthā) [would-be](bhūyāt) [if](yadi) [of-cow](go) [in-blood](rakte) [pleasure](paḥ) [would-be](bhavet)
 
 ## mukta-m0-p180-v4477
-[by-astrology](jyotiṣe) [falsehood](anṛtam) [will-speak](vakṣyan) [pallikā](pallikā) [is-born](sobhijāyate)
+[in-astrology](jyotiṣe) [untruth](anṛtam) [speaking](vakṣyan) [lizard](pallikā) [he](saḥ) [is-born](abhijāyate)
 
 ## mukta-m0-p180-v4478
-[by-grain-theft](dhānyacoryeṇa) [lives](jīvet) [who](yaḥ) [rat](ākhuḥ) [becomes](bhavitā) [man](naraḥ) [unjustly](anyāyataḥ) [something](kimapi) [abandoning](atyajet) [if](yadi) [lizard](godhikā)
+[grain](dhānya) [by-theft](coryeṇa) [lives](jīvet) [who](yaḥ) [he](saḥ) [mouse](ākhuḥ) [will-be](bhavitā) [man](naraḥ) [unjustly](anyāyataḥ) [anything](kim+api) [having-taken](utkvā) [not](na) [would-abandon](tyajet) [if](yadi) [lizard](godhikā)
 
 ## mukta-m0-p180-v4479
-[by-poison-giving-to-husband](patyurgarapradānena) [lizard](saraṭaḥ) [that](saḥ) [man](janam) [ani](ani)
+[of-husband](patyuḥ) [poison](gara) [by-giving](pradānena) [chameleon](saraṭaḥ) [he](saḥ) [in-another](anya) [birth](janmani)
 
 ## mukta-m0-p180-v4480
-[having-earned](arjayitvā) [wealth](dhanaṃ) [good](sat) [not-give](nadadyāt) [bee](madhumakṣikā)
+[having-earned](arjayitvā) [wealth](dhanam) [to-the-good](satsu) [not](na) [would-give](dadyāt) [honey-bee](madhumakṣikā)
 
 ## mukta-m0-p180-v4481
-[proper-rise](samīcīnodaya) [empty](śūnyaḥ) [stone](śilā) [becomes](jāyate) [man](naraḥ)
+[proper](samīcīna) [by-rising](udaya) [devoid](aśūnyaḥ) [he](saḥ) [stone](śilā) [is-born](jāyate) [man](naraḥ)
 
 ## mukta-m0-p180-v4482
-[poison-mixed](viṣayukta) [mind](āśayaḥ) [who](yaḥ) [tu](tu) [snake](sarpaḥ) [in-every-way](sarvathā) [becomes](bhavet)
+[poison](viṣa) [endowed](yukta) [mind](āśayaḥ) [who](yaḥ) [but](tu) [he](saḥ) [snake](sarpaḥ) [in-every-way](sarvathā) [would-be](bhavet)
 
 ## mukta-m0-p180-v4483
-[who](yaḥ) [by-petty-trade](kṣudravārtayā) [lives](jīvet) [fish](matsyaḥ) [becomes](jāyate) [man](naraḥ)
+[who](yaḥ) [by-low](kṣudra) [talk](vārtayā) [lives](jīvet) [he](saḥ) [fish](matsyaḥ) [is-born](jāyate) [man](naraḥ)
 
 ## mukta-m0-p180-v4484
-[excessive-deception](atyantavaṃcanā) [joined](yuktaḥ) [jackal](jambukaḥ) [so](saḥ) [becomes](bhavet) [man](naraḥ)
+[exceedingly](atyanta) [with-deceit](vaṃcanā) [endowed](yuktaḥ) [jackal](jambukaḥ) [he](saḥ) [would-be](bhavet) [man](naraḥ)
 
 ## mukta-m0-p180-v4485
-[seeing](dṛṣṭvā) [who](yaḥ) [knower](jñāninaḥ) [elders](vṛddhān) [not](na) [seeing](dṛṣṭvā) [eva](eva) [goes](vrajet) [tree](taruḥ)
+[having-seen](dṛṣṭvā) [who](yaḥ) [wise-men](jñāninaḥ) [in-vain](vṛthā) [not](na) [having-seen](dṛṣṭvā) [as-if](iva) [would-go](vrajet) [tree](taruḥ)
 
 ## mukta-m0-p180-v4486
-[by-food-theft](annacauryeṇa) [who](yaḥ) [lives](jīvet) [wolf](vṛkaḥ) [here](atra) [no-doubt](saṃśayaḥ)
+[food](anna) [by-theft](cauryeṇa) [who](yaḥ) [lives](jīvet) [he](saḥ) [wolf](vṛkaḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p180-v4487
-[troubles](bādhate) [who](yaḥ) [yoke](yojanāt) [in-water](nīre) [crocodile](nakraḥ) [birth](janma) [obtains](samaśnute)
+[harasses](bādhate) [who](yaḥ) [people](janān) [in-water](nīre) [crocodile](nakra) [birth](janma) [obtains](samaśnute)
 
 ## mukta-m0-p180-v4488
-[good-deeds](satkarmā) [performance](caraṇe) [slow](mandaḥ) [python](ajagaraḥ) [hi](hi) [he](saḥ)
+[good-deeds](sat+karma) [in-performance](ācaraṇe) [sluggish](mandaḥ) [would-be](bhavet) [python](ajagaraḥ) [indeed](hi) [he](saḥ)
 
 ## mukta-m0-p180-v4489
-[always-desirous](sadākāmī) [becomes](bhavati) [yaḥ](yaḥ) [sparrow](kalaviṃkaḥ) [sa](sa) [jāte](jāte)
+[always](sadā) [lustful](kāmī) [becomes](bhavati) [who](yaḥ) [sparrow](kalaviṃkaḥ) [he](saḥ) [is-born](jāyate)
 
 ## mukta-m0-p180-v4490
-[hypocrite](dāṃbhika) [meditation](dhyānam) [extending](ātanvan) [heron](bakaḥ) [in-other-birth](anyasminbhave) [becomes](bhavet)
+[hypocritical](dāṃbhika) [meditation](dhyānam) [practicing](ātanvan) [crane](bakaḥ) [in-another](anyasmin) [birth](bhave) [would-be](bhavet)
 
 ## mukta-m0-p180-v4491
-[time-knowledge](kālajñāne) [falsehood](nṛtam) [speaking](vakṣyan) [cock](kukkuṭaḥ) [so](saḥ) [is-born](sobhijāyate)
+[in-time](kāla) [in-knowledge](jñāne) [untruth](nṛtam) [speaking](vakṣyan) [rooster](kukkuṭaḥ) [he](saḥ) [is-born](abhijāyate)
 
 ## mukta-m0-p180-v4492
-[woman](striyam) [child](bāla) [etc](ādi) [enjoys](ramate) [cow+gāṃgūla](gogāṃgūlaḥ) [in-other-birth](anyajanmani)
+[woman](striyam) [by-force](balāt) [who](yaḥ) [enjoys](ramate) [lizard](gogāṃgūlaḥ) [in-another](anya) [birth](janmani)
 
 ## mukta-m0-p180-v4493
-[low-conduct](hīnācāra) [delighted](rataḥ) [always](nityam) [monkey](vānaraḥ) [so](saḥ) [in-other-birth](onyajanmani)
+[low](hīna) [in-conduct](ācāra) [delighting](rataḥ) [always](nityam) [monkey](vānaraḥ) [he](saḥ) [in-another](anya) [birth](janmani)
 
 ## mukta-m0-p180-v4494
-[born](abhijātaḥ) [actor](nāṭya) [lives](jīvī) [if](yadi) [peacock](barhiḥ) [will-be](bhaviṣyati)
+[noble-born](abhijātaḥ) [by-acting](nāṭya) [living](jīvī) [if](yadi) [peacock](barhi) [will-be](bhaviṣyati)
 
 ## mukta-m0-p180-v4495
-[troubles](bādhate) [weak](durbalān) [yaḥ](yaḥ) [tu](tu) [hawk](śyenaḥ) [in-other-birth](anyasminbhave) [becomes](bhavet)
+[harasses](bādhate) [the-weak](durbalān) [who](yaḥ) [but](tu) [hawk](śyenaḥ) [in-another](anyasmin) [birth](bhave) [would-be](bhavet)
 
 ## mukta-m0-p180-v4496
-[breaking](bhaṅtvā) [others-house](paragṛham) [own](svasya) [house](gṛham) [builds](badhnāti) [kīcaka](kīcakaḥ)
+[having-broken](bhaṅtvā) [another's](para) [house](gṛham) [one's-own](svasya) [house](gṛham) [builds](badhnāti) [bamboo](kīcakaḥ)
 
 ## mukta-m0-p180-v4497
-[amorous](śṛṃgāra) [acts](ceṣṭāsu) [always](sadā) [who](yaḥ) [conducts](varteta) [sa](sa) [cuckoo](kokilaḥ)
+[in-amorous](śṛṃgāra) [gestures](ceṣṭāsu) [always](sadā) [who](yaḥ) [engages](varteta) [he](saḥ) [cuckoo](kokilaḥ)
 
 ## mukta-m0-p180-v4498
-[by-pride](garveṇa) [elders](vṛddhān) [insults](avajānate) [buffalo](mahiṣaḥ) [so](saḥ) [in-other-birth](onyajanmani)
+[with-pride](garveṇa) [elders](vṛddhān) [who](yaḥ) [reviles](niṃdet) [buffalo](mahiṣaḥ) [he](saḥ) [in-another](anya) [birth](janmani)
 
 ## mukta-m0-p180-v4499
-[śiva-mantra](śaivamantra) [worship](upāsanāyām) [fallen](bhraṣṭaḥ) [cet](cet) [śarabha](śarabhaḥ) [becomes](bhavet)
+[Śaiva](śaiva) [mantra](maṃtra) [in-worship](upāsanāyām) [fallen](bhraṣṭaḥ) [if](cet) [śarabha](śarabhaḥ) [would-be](bhavet)
 
 ## mukta-m0-p180-v4500
-[viṣṇu-mantra](viṣṇumantropāsanāyām) [fallen](bhraṣṭaḥ) [bheruṇḍa](bheruṇḍaḥ) [eva](eva) [saḥ](saḥ)
+[Viṣṇu](viṣṇu) [mantra](maṃtra) [in-worship](upāsanāyām) [fallen](bhraṣṭaḥ) [bheruṇḍa](bheruṇḍaḥ) [indeed](eva) [he](saḥ)

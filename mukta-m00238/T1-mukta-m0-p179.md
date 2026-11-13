@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p179-v4451
-[vikrama-aśvina-śukla-gen](vikramāśvinaśuklasya) [trayodaśī-loc](trayodaśyāṃ) [bhṛgu-gen](bhṛgor) [dina-loc](dine)
+[in-vikrama-era](vikramā) [aśvina-month](aśvina) [of-bright-fortnight](śuklasya) [on-thirteenth-day](trayodaśyāṃ) [on-friday](bhṛgordine)
 
 ## mukta-m0-p179-v4452
-[muṣṭi-praśna-uttara-vidhi-nom](muṣṭipraśnottaravidhiḥ) [evaṃ](evaṃ) [rūpa-inst](rūpeṇa) [varṇita-nom](varṇitaḥ)
+[fist](muṣṭi) [question](praśna) [answer](uttara) [method](vidhiḥ) [thus](evaṃ) [in-form](rūpeṇa) [described](varṇitaḥ)
 
 ## mukta-m0-p179-v4453
-[kaṃda-jīva-nom+ca](kaṃdaṃjīvaśca) [śuṣka-nom](śuṣkaṃ) [ca](ca) [tṛṇa-nom](tṛṇaṃ) [gomaya-nom](gomayam) [eva](eva) [ca](ca)
+[bulb](kaṃdaṃ) [living-thing](jīvaḥ) [and](ca) [dry-thing](śuṣkaṃ) [and](ca) [grass](tṛṇaṃ) [cow-dung](gomayam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p179-v4454
-[śilā-dhānya-nom](śilādhānyaṃ) [pravāla-nom](pravālaśca) [maṇi-nom](maṇim) [matsya-nom](matsyau) [tathā+eva+ca](tathaiva ca)
+[stone](śilā) [grain](dhānyaṃ) [coral](pravālaḥ) [and](ca) [gem](maṇi) [fish](matsyau) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p179-v4455
-[bhasma-roma-asthi-karpūra-tvac-bheda-ādi-gaṇita-krama-nom](bhasmaromāsthikarpūra tvagbhedādgaṇita kramaḥ)
+[ash](bhasma) [hair](roma) [bone](asthi) [camphor](karpūra) [skin](tvag) [by-difference](bhedāt) [counted](gaṇita) [order](kramaḥ)
 
 ## mukta-m0-p179-v4456
-[tṛtīyaṃsyā-tu](tṛtīyaṃsyā tu) [kārpāsa-nom](kārpāsaṃ) [caturthe](caturthe) [karma-kathyate](karmakathyate)
+[third](tṛtīyaṃ) [indeed](syāt) [but](tu) [cotton](kārpāsaṃ) [in-fourth](caturthe) [action](karma) [is-stated](kathyate)
 
 ## mukta-m0-p179-v4457
-[saptamaṃ-parṇa-matrasyāt](saptamaṃparṇamatrasyāt) [aṣṭamaṃ](aṣṭamaṃ) [gomaya-nom](gomayaṃ) [tathā](tathā)
+[seventh](saptamaṃ) [leaf](parṇam) [here](atra) [should-be](syāt) [eighth](aṣṭamaṃ) [cow-dung](gomayaṃ) [likewise](tathā)
 
 ## mukta-m0-p179-v4458
-[ekādaśaṃ-śaṣkam-atra](ekādaśaṃ śaṣkamatra) [dvādaśaṃ](dvādaśaṃ) [lavaṇa-nom](lavaṇaṃ) [bhavet](bhavet)
+[eleventh](ekādaśaṃ) [hare](śaṣkam) [here](atra) [twelfth](dvādaśaṃ) [salt](lavaṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p179-v4459
-[rasaḥ](rasaḥ) [paṃcadaśaḥ](paṃcadaśo) [jñeyaḥ](jñeyaḥ) [śrūyatām](śrūyatām) [ambike](ambike) [śive](śive)
+[essence](rasaḥ) [fifteenth](paṃcadaśaḥ) [to-be-known](jñeyaḥ) [listen](śrūyatām) [O-Ambikā](aṃbike) [O-Śiva](śive)
 
 ## mukta-m0-p179-v4460
-[ṭīku](ṭīku) [padyadalli](padyadalli) [baṃda](baṃda) [lekkhavannu](lekkhavannu) [noḍikkoṃḍu](noḍikkoṃḍu) [iṃthā](iṃthā) [padārthaveṃdu](padārthaveṃdu) [gaṇitavannu](gaṇitavannu) [suṇisikkoṃḍu](suṇisikkoṃḍu) [heluva](heluva) [ślokagala](ślokagala) [yaraḍuprakāragalannu](yaraḍuprakāragalannu) [īgaṇitakke](īgaṇitakke) [yaraḍu](yaraḍu) [prakāra](prakāra) [sūtragalannu](sūtragalannu) [saha](saha) [baradu](baradu) [ive](ive)
+[commentary](ṭīku) [in-verse](padyadalli) [come](baṃda) [number](lekkhavannu) [seeing](noḍikkoṃḍu) [such](iṃthā) [substance](padārthaveṃdu) [calculation](gaṇitavannu) [hearing](suṇisikkoṃḍu) [telling](heluva) [verses](ślokagala) [two-types](yaraḍuprakāragalannu) [now](ī) [calculation](gaṇitakke) [two-types](yaraḍu) [formulas](prakāra) [sūtras](sūtragalannu) [also](saha) [written](baradu) [are](ive)
 
 ## mukta-m0-p179-v4461
-[yale](yale) [hatti](hatti) [dhānya](dhānya) [loha](loha) [yalegal](yalegal) [jīvanu](jīvanu) [beru](beru) [śuṣka](śuṣka) [rasa](rasa) [modalāgi](modalāgi)
+[commentary](ṭīku) [earth](yale) [cotton](hatti) [grain](dhānya) [metal](loha) [leaves](yalegal) [living-thing](jīvanu) [root](beru) [dry](śuṣka) [essence](rasa) [beginning-with](modalāgi) [fruit](phala) [cotton](hatti) [stone](śileya) [in-essence](rasadol) [leaf](yaleyaṃ) [dry](śuṣka) [earths](maṇṇugalivarol)
 
 ## mukta-m0-p179-v4462
-[vedāḥ](vedāḥ) [santi](santi) [bahavaḥ](bahavaḥ) [tatopi](tatopi) [bahavaḥ](bahavaḥ) [śāstrādayaḥ](śāstrādayaḥ) [bhārataṃ](bhārataṃ) [kāvyaṃ](kāvyaṃ) [cādyam](cādyam) [api](api) [īkṣituṃ](īkṣituṃ) [sapadi](sapadi) [na](na) [eva](eva) [asti](asti) [buddhiḥ](buddhiḥ) [kalau](kalau)
+[vedas](vedāḥ) [they](te) [many](bahavaḥ) [than-that](tataḥ) [also](api) [many](bahavaḥ) [scriptures](śāstrādayaḥ) [Mahābhārata](bhārataṃ) [poem](kāvyaṃ) [and](ca) [first](ādyam) [even](api) [to-see](īkṣītuṃ) [at-once](sapadi) [not](na) [indeed](eva) [is](asti) [intellect](buddhiḥ) [in-Kali-age](kalau)
 
 ## mukta-m0-p179-v4463
-[itthaṃ](itthaṃ) [bodhitaḥ](bodhitaḥ) [eṣaḥ](eṣaḥ) [kṛṣṇadharaṇī](kṛṣṇadharaṇī) [pālaḥ](pālaḥ) [jaganmātṛkā](jaganmātṛkā) [devī](devī) [sarvasurādhike](sarvasurādhike) [tyupaviśati](tyupaviśati) [uddāma-vāg-vaibhavaḥ](uddāmavāgvaibhavaḥ)
+[thus](itthaṃ) [instructed](bodhitaḥ) [this](eṣaḥ) [Kṛṣṇa](kṛṣṇa) [earth](dharaṇī) [protector](pālaḥ) [world](jagat) [mother](mātṛkā) [goddess](devī) [all](sarva) [gods](sura) [supreme](adhike) [thus](iti) [sits-near](upaviśati) [abundant](uddāma) [speech](vāg) [majesty](vaibhavaḥ)
 
 ## mukta-m0-p179-v4464
-[saṃkrīḍanaṃ](saṃkrīḍanaṃ) [saṃracitaṃ](saṃracitaṃ) [suramyaṃ](suramyaṃ) [jīyāt](jīyāt) [bhacandrāvadhi](bhacandrāvadhi) [bhūtale](bhūtale) [asmin](asmin)
+[sport](saṃkrīḍanaṃ) [composed](saṃracitaṃ) [very-delightful](suramyaṃ) [may-it-be-victorious](jīyāt) [moon](bha) [moon](candra) [limit](avadhi) [on-earth](bhūtalesmin)
 
 ## mukta-m0-p179-v4465
-[eteṣāṃ](eteṣāṃ) [kāraṇībhūta](kāraṇībhūta) [sadanāni](sadanāni) [tathā](tathā) [eva](eva) [hi](hi)
+[of-these](eteṣāṃ) [cause](kāraṇī) [become](bhūta) [abodes](sadanāni) [likewise](tathaiva) [indeed](hi)
 
 ## mukta-m0-p179-v4466
-[etan](etan) [militvā](militvā) [aṣaṭtriṃśat](aṣaṭtriṃśat) [uttara](uttara) [dviśataṃ](dviśataṃ) [padam](padam)
+[this](etat) [having-combined](militvā) [thirty-six](ṣaṭtriṃśat) [plus](uttara) [two-hundred](dviśataṃ) [places](padam)
 
 ## mukta-m0-p179-v4467
-[śūlanārakam](śūlanārakam) [ārabhya](ārabhya) [sakāraṇa](sakāraṇa) [gṛhāṇi](gṛhāṇi) [vai](vai)
+[Śūla-hell](śūlanārakam) [beginning-with](ārabhya) [with-cause](sakāraṇa) [abodes](gṛhāṇi) [indeed](vai)
 
 ## mukta-m0-p179-v4468
-[anṛtaṃ](anṛtaṃ) [yaḥ](yaḥ) [tu](tu) [vadati](vadati) [narakakrimi](narakakrimi) [revasaḥ](revasaḥ)
+[untruth](anṛtaṃ) [who](yaḥ) [indeed](tu) [speaks](vadati) [hell-worm](narakakrimi) [dwells](revasaḥ)
 
 ## mukta-m0-p179-v4469
-[svāmidrohī](svāmidrohī) [bhavati](bhavati) [yaḥ](yaḥ) [mahāraurava](mahāraurava) [maśnute](maśnute)
+[master](svāmi) [betrayer](drohī) [indeed](hi) [becomes](bhavati) [who](yaḥ) [Mahāraurava-hell](mahāraurava) [experiences](maśnute)
 
 ## mukta-m0-p179-v4470
-[mitradrohī](mitradrohī) [bhavati](bhavati) [yaḥ](yaḥ) [tapanaṃ](tapanaṃ) [narakaṃ](narakaṃ) [vrajet](vrajet)
+[friend](mitra) [betrayer](drohī) [becomes](bhavati) [who](yaḥ) [Tapana-hell](tapanaṃ) [hell](narakaṃ) [goes-to](vrajet)
 
 ## mukta-m0-p179-v4471
-[atyapekṣī](atyapekṣī) [bhavati](bhavati) [yaḥ](yaḥ) [saḥ](saḥ) [piśāco](piśāco) [bhavet](bhavet) [naraḥ](naraḥ)
+[excessively-greedy](atyapekṣī) [becomes](bhavati) [who](yaḥ) [he](saḥ) [demon](piśācaḥ) [becomes](bhavet) [man](naraḥ)
 
 ## mukta-m0-p179-v4472
-[rājahelanam](rājahelanam) [ātanvan](ātanvan) [kumbhīpākaṃ](kumbhīpākaṃ) [vrajet](vrajet) [pumān](pumān)
+[king](rāja) [disrespect](helanam) [committing](ātanvan) [Kumbhīpāka-hell](kumbhīpākaṃ) [goes-to](vrajet) [man](pumān)
 
 ## mukta-m0-p179-v4473
-[asīpatrā](asīpatrā) [khyana](khyana) [narake](narake) [jāyate](jāyate) [rājadūṣakaḥ](rājadūṣakaḥ)
+[Asipatra-named](asīpatrākhya) [in-hell](narake) [is-born](jāyate) [king](rāja) [reviler](dūṣakaḥ)
 
 ## mukta-m0-p179-v4474
-[rājadārān](rājadārān) [kāmayānaḥ](kāmayānaḥ) [andhatemā](andhatemā) [narakaṃ](narakaṃ) [vrajet](vrajet)
+[king](rāja) [wives](dārān) [desiring](kāmayānaḥ) [Andhatamas-hell](andhatemā) [hell](narakaṃ) [goes-to](vrajet)
 
 ## mukta-m0-p179-v4475
-[dayāvihīnaḥ](dayāvihīnaḥ) [bhūteṣu](bhūteṣu) [gaṇḍaśailo](gaṇḍaśailo) [bhavet](bhavet) [dhruvam](dhruvam)
+[compassion](dayā) [devoid](vihinaḥ) [toward-beings](bhūteṣu) [Gaṇḍaśaila-hell](gaṇḍaśailo) [becomes](bhavet) [certainly](dhruvam)
