@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p209-v5201
-dvau(two) śāṇau(śāṇa) ghaṭakaḥ(ghaṭaka) kolo(kola) badaraṃ(badara) drakṣaṇaḥ(drakṣaṇa) ca(and) saḥ(that)
+[two](dvau) [śāṇa-measures](śāṇau) [ghaṭaka](ghaṭakaḥ) [kola-jujube](kolaḥ) [badara-jujube](badaraṃ) [drakṣaṇa](drakṣaṇaḥ) [and](ca) [that](saḥ)
 
 ## mukta-m0-p209-v5202
-picu-biṃḍāla-padakaṃ(picu+biṃḍāla+padaka) tindukaḥ(tinduka) akṣaḥ(akṣa) ca(and) tat-dvayam(tat+dvaya)
+[picu+biṇḍāla+padaka](picubiṃḍālapadakaṃ) [tinduka](tindukaḥ) [akṣa](akṣaḥ) [and](ca) [that+pair](taddvayam)
 
 ## mukta-m0-p209-v5203
-kandānām(kanda) aṣṭamam(aṣṭama) bhāgam(bhāga) latānām(latā) aṃgula-dvayam(aṃgula+dvaya)
+[of-bulbous-plants](kandānām) [eighth](aṣṭamaṃ) [part](bhāgaṃ) [of-creepers](latānām) [two-fingers](aṃgula+dvayam)
 
 ## mukta-m0-p209-v5204
-viśīrṇā(viśīrṇa) dvidalā(dvidala) hrasvā(hrasva) vakrāḥ(vakra) sthūlāḥ(sthūla) kṛśā(kṛśa) dvidhā(dvidhā)
+[split](viśīrṇā) [two-leaved](dvi+dalā) [short](hrasvā) [crooked](vakrāḥ) [thick](sthūlāḥ) [thin](kṛśā) [twofold](dvidhā)
 
 ## mukta-m0-p209-v5205
-viśīrṇā(viśīrṇa) āyuḥ-kṣayam(āyus+kṣaya) kuryāt(kṛ) dvidalā(dvidala) vyādhi-sambhavam(vyādhi+sambhava)
+[split](viśīrṇā) [life+destruction](āyuḥ+kṣayaṃ) [would-cause](kuryāt) [two-leaved](dvi+dalā) [disease+arising](vyādhi+sambhavam)
 
 ## mukta-m0-p209-v5206
-sthūlā(sthūla) abhi-harate(abhi+hṛ) lakṣmīm(lakṣmī) kṛśāyām(kṛśa) jāyate(jan) kṣayaḥ(kṣaya)
+[thick](sthūlā) [takes-away](abhiharate) [prosperity](lakṣmīṃ) [in-thin](kṛśāyāṃ) [arises](jāyate) [decline](kṣayaḥ)
 
 ## mukta-m0-p209-v5207
-dveṣam(dveṣa) prakurute(pra+kṛ) dīrghā(dīrgha) prāṇa-ghnyaḥ(prāṇa+ghna) niḥ-tvacāḥ(niḥ+tvac) smṛtāḥ(smṛ)
+[hatred](dveṣaṃ) [produces](prakurute) [long](dīrghā) [life-destroying](prāṇa+ghnyaḥ) [barkless](nistvacaḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p209-v5208
-ārdra-tvacā(ārdra+tvac) sama-cchedā(sama+cheda) tarjanī-aṃguli-vartulā(tarjanī+aṃguli+vartula)
+[with-moist+bark](ārdratvacā) [evenly-cut](samacchedā) [forefinger+finger+round](tarjany+aṃguli+vartulā)
 
 ## mukta-m0-p209-v5209
-śrote(śrota) smārte(smārta) ca(ca) tantra-ukte(tantra+ukta) samidhaḥ(samidh) parikīrtitāḥ(parikīrtita)
+[in-śrauta](śrote) [in-smārta](smārte) [and](ca) [in-tantra+declared](tantrokte) [fuel-sticks](samidhaḥ) [are-prescribed](parikīrtitāḥ)
 
 ## mukta-m0-p209-v5210
-avakrāḥ(avakra) ca(ca) api(api) aśuṣkāḥ(aśuṣka) ca(ca) sa-tvacāḥ(sa+tvac) nir-vraṇāḥ(nir+vraṇa) samāḥ(sama)
+[not-crooked](avakrāḥ) [and](ca) [not-dry](apyaśuṣkāḥ) [and](ca) [with-bark](satvacaḥ) [without-wounds](nirvraṇāḥ) [even](samāḥ)
 
 ## mukta-m0-p209-v5211
-prādeśa-mātrāḥ(prādeśa+mātra) vāla-abhe(vāla+ābha) hotavyāḥ(hu) sakalāḥ(sakala) api(api)
+[span-measure](prādeśa+mātrā) [in-absence](alābhe) [to-be-offered](hotavyāḥ) [all](sakalāḥ) [also](api)
 
 ## mukta-m0-p209-v5212
-bāhya-madhya-gatam(bāhya+madhya+gata) vā(vā) api(api) madhyam(madhya) vā(vā) cakram(cakra) arcayet(arc)
+[outer+inner+situated](bāhya+madhya+gataṃ) [or](vāpi) [middle](madhyaṃ) [or](vā) [circle](cakram) [one-should-worship](arcayet)
 
 ## mukta-m0-p209-v5213
-tad-agre(tad+agra) saṃsthitaḥ(saṃsthita) mantrī(mantrin) tataḥ(tatas) ananta-phalam(ananta+phala) labhet(labh)
+[at-its+tip](tat+agre) [situated](saṃsthitaḥ) [practitioner](mantrī) [then](tataḥ) [endless+fruit](ananta+phalaṃ) [obtains](labhet)
 
 ## mukta-m0-p209-v5214
-japa-ārambham(japa+ārambha) sudhīḥ(sudhī) kuryāt(kṛ) mahā-pātaka-hā(mahā+pātaka+hā) bhavet(bhū)
+[recitation+beginning](japa+ārambhaṃ) [wise-one](sudhīḥ) [should-make](kuryāt) [great-sin+destroying](mahāpātaka+hā) [would-become](bhavet)
 
 ## mukta-m0-p209-v5215
-nigadaḥ(nigada) parameśāni(parameśānī) spaṣṭam-vācā(spaṣṭa+vāc) nigadyate(nigad)
+[recitation](nigadaḥ) [O-supreme-goddess](parameśāni) [clearly](spaṣṭaṃ) [with-speech](vācā) [is-recited](nigadyate)
 
 ## mukta-m0-p209-v5216
-mānasaḥ(mānasa) tu(tu) varārohe(varāroha) cintanā-antara-rūpavān(cintana+antara+rūpavat)
+[mental](mānasaḥ) [but](tu) [O-fair-one](varārohe) [thought+internal+form-possessing](cintana+antara+rūpavān)
 
 ## mukta-m0-p209-v5217
-upāṃśu-cāritena(upāṃśu+cārita) ekena(eka) tulam(tulā) bhavati(bhū) śailaje(śailaja)
+[whispered+uttered+by-one](upāṃśu+ucārita+ekena) [equal](tulaṃ) [becomes](bhavati) [O-mountain-born](śailaje)
 
 ## mukta-m0-p209-v5218
-mānasa-uccāraṇāt(mānasa+uccāraṇa) tulyam(tulya) ekena(eka) parameśvari(parameśvarī)
+[mental+utterance](mānasa+uccāraṇāt) [equal](tulyam) [by-one](ekena) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p209-v5219
-lakṣa-mātram(lakṣa+mātra) japet(jap) yaḥ(yad) tu(tu) sarva-pāpaiḥ(sarva+pāpa) pramucyate(pra+muc)
+[hundred-thousand+measure](lakṣa+mātraṃ) [should-recite](japet) [who](yaḥ) [but](tu) [from-all+sins](sarva+pāpaiḥ) [is-liberated](pramucyate)
 
 ## mukta-m0-p209-v5220
-mahā-pātaka-mukhyāni(mahā+pātaka+mukhya) nāśayet(naś) na(na) atra(atra) saṃśayaḥ(saṃśaya)
+[great-sins+chief](mahāpātaka+mukhyāni) [destroys](nāśayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p209-v5221
-mahā-pātaka-koṭīḥ(mahā+pātaka+koṭi) tu(tu) nāśayet(naś) na(na) atra(atra) saṃśayaḥ(saṃśaya)
+[great-sins+crores](mahāpātaka+koṭīḥ) [but](tu) [destroys](nāśayet) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p209-v5222
-kuberaḥ(kubera) iva(iva) deveśi(deveśī) pañca-lakṣān(paṇca+lakṣa) na(na) saṃśayaḥ(saṃśaya)
+[Kubera](kuberaḥ) [like](iva) [O-goddess-lord](deveśi) [five+hundred-thousands](pañca+lakṣāt) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p209-v5223
-sapta-lakṣa-japāt(sapta+lakṣa+japa) mantrī(mantrin) khecarī-melakaḥ(khecarī+melaka) bhavet(bhū)
+[seven+hundred-thousand+recitation](sapta+lakṣa+japāt) [practitioner](mantrī) [sky-walker+union](khecarī+melakaḥ) [becomes](bhavet)
 
 ## mukta-m0-p209-v5224
-aṇimā-ādi-aṣṭa-siddhinām(aṇimā+ādi+aṣṭa+siddhi) nāyakaḥ(nāyaka) bhavati(bhū) priye(priya)
+[aṇimā+etc.+eight+siddhis](aṇimā+ādi+aṣṭa+siddhināṃ) [lord](nāyakaḥ) [becomes](bhavati) [O-beloved](priye)
 
 ## mukta-m0-p209-v5225
-nava-lakṣa-pramāṇam(nava+lakṣa+pramāṇa) hi(hi) japet(jap) tripura-sundarīm(tripura+sundarī)
+[nine+hundred-thousand+measure](nava+lakṣa+pramāṇaṃ) [indeed](hi) [should-recite](japet) [Tripurasundarī](tripurasundarīm)

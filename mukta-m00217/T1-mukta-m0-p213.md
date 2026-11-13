@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p213-v5301
-[vidarbhita](vidarbhitaṃ) [sva-nāmnā](svanāmnā) [tu](tu) [yasmin](yasmin) [kasminnapi](kasminnapi) [sthitam](sthitam)
+[inscribed](vidarbhitaṃ) [own+name+by](sva+nāmnā) [indeed](tu) [in-which](yasmin) [in-any](kasminnapi) [situated](sthitam)
 
 ## mukta-m0-p213-v5302
-[vaśīkuryāt](vaśīkuryān) [maheśāni](maheśāni) [pāda-ākrāntam](pādākrāntaṃ) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[one-should-subjugate](vaśīkuryāt) [O-great-goddess](maheśāni) [foot+trodden](pāda+ākrāntaṃ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p213-v5303
-[ekam](ekamevamavaṣṭabhya) [eva](eva) [avaṣṭabhya](avaṣṭabhya) [sādhya-nāma-akṣarāṇi](sādhyanāmākṣarāṇi) [hi](hi)
+[one](ekam) [thus](evam) [having-fixed](avaṣṭabhya) [target+name+syllables](sādhya+nāma+akṣarāṇi) [indeed](hi)
 
 ## mukta-m0-p213-v5304
-[hema-madhya-gatam](hemamadhyagataṃ) [kuryāt](kuryāc) [śikhāyām](śikhāyāṃ) [vāmake](vāmake) [bhuje](bhuje)
+[in-gold+middle+gone](hema+madhya+gataṃ) [one-should-make](kuryāt) [on-tuft](śikhāyāṃ) [or-on-left](vā) [on-arm](amake) [on-arm](bhuje)
 
 ## mukta-m0-p213-v5305
-[rājendram](rājendramapi) [api](api) [deveśi](deveśi) [dāsa-bhūtam](dāsabhūtaṃ) [karoti](karoti) [hi](hi)
+[king+lord](rāja+indram) [even](api) [O-goddess-lord](deveśi) [slave+become](dāsa+bhūtaṃ) [makes](karoti) [indeed](hi)
 
 ## mukta-m0-p213-v5306
-[vyāghrāḥ](vyāghrāḥ) [kesariṇī](kesariṇī) [matā](matā) [vaśyāḥ](vaśyāstasya) [tasya](tasya) [bhavanti](bhavanti) [hi](hi)
+[tigers](vyāghrāḥ) [lioness](kesariṇī) [considered](matā) [submissive](vaśyāḥ) [of-him](tasya) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p213-v5307
-[madhye](madhye) [catuṣpathe](catuṣpathe) [vā](vā) [api](api) [catur-dikṣu](caturdikṣu) [nidhāpayet](nidhāpayet)
+[in-middle](madhye) [or-at-crossroads](catuṣpathe) [or](vāpi) [in-four+directions](catur+dikṣu) [one-should-place](nidhāpayet)
 
 ## mukta-m0-p213-v5308
-[tathā](tathaiva) [eva](eva) [sarva-duṣṭānām](sarvaduṣṭānāṃ) [purasthānām](purasthānāṃ) [ca](ca) [jāyate](jāyate)
+[likewise](tathaiva) [of-all+wicked-ones](sarva+duṣṭānāṃ) [and-of-those-standing-before](purasthānāṃ) [and](ca) [occurs](jāyate)
 
 ## mukta-m0-p213-v5309
-[jvalantīm](jvalantīṃ) [sarva-rājendra-maṇḍitām](sarvarājendramaṇḍitāṃ) [sāgara-ambarām](sāgarāmbarām)
+[blazing](jvalantīṃ) [all+king+lords](sarva+rāja+indra) [adorned](maṇḍitāṃ) [ocean+garmented](sāgara+ambarām)
 
 ## mukta-m0-p213-v5310
-[kaṭākṣa-kṣepa-mātreṇa](kaṭākṣakṣepamātreṇa) [nāyaḥ](nāyastasya) [tasya](tasya) [vaśāḥ](vaśāḥ) [priye](priye)
+[sidelong-glance+throwing](kaṭākṣa+kṣepa) [by-mere](mātreṇa) [leaders](nāyaḥ) [of-him](tasya) [submissive](vaśāḥ) [O-beloved](priye)
 
 ## mukta-m0-p213-v5311
-[dṛṣṭyā](dṛṣṭyā) [ākarṣayate](ākarṣayate) [devi](devi) [trailokyam](trailokyaṃ) [sa-cara-acaram](sacarācaram)
+[by-glance](dṛṣṭyā) [attracts](ākarṣayate) [O-goddess](devi) [triple-world](trailokyaṃ) [with-moving+and-unmoving](sa+cara+acaram)
 
 ## mukta-m0-p213-v5312
-[bhūta-preta-piśācāṃśca](bhūtapretapiśācāṃśca) [jvarāṃśca](jvarāṃścāturthikādikān) [āturthika-ādikān](āturthikādikān)
+[ghosts](bhūta) [spirits](preta) [demons](piśācān) [and](ca) [fevers](jvarān) [and-quartan+etc](cāturthika+ādikān)
 
 ## mukta-m0-p213-v5313
-[etat](etat) [sindūra-subhagam](sindūrasubhagaṃ) [rātrau](rātrau) [sampūjitam](sampūjitaṃ) [priye](priye)
+[this](etat) [vermilion+auspicious-charm](sindūra+subhagaṃ) [at-night](rātrau) [worshipped](sampūjitaṃ) [O-beloved](priye)
 
 ## mukta-m0-p213-v5314
-[yadā](yadā) [dikṣu](dikṣu) [vidikṣu](vidikṣvevaṃ) [evaṃ](evaṃ) [samyak](samyag) [devi](devi) [prapūjyate](prapūjyate)
+[when](yadā) [in-directions](dikṣu) [and-in-intermediate-directions](vidikṣu) [thus](evaṃ) [properly](samyag) [O-goddess](devi) [is-worshipped](prapūjyate)
 
 ## mukta-m0-p213-v5315
-[vaśam](vaśamānayate) [ānayate](ānayate) [śīghram](śīghraṃ) [sa-putra-paśu-bāndhavān](saputrapaśubāndhavān)
+[into-subjugation](vaśam) [brings](ānayate) [quickly](śīghraṃ) [with-sons+cattle+relatives](sa+putra+paśu+bāndhavān)
 
 ## mukta-m0-p213-v5316
-[tan-madhye](tanmadhye) [nagaram](nagaraṃ) [deśam](deśaṃ) [maṇḍalam](maṇḍalaṃ) [khaṇḍam](khaṇḍameva) [eva](eva) [ca](ca)
+[in-its-middle](tan+madhye) [city](nagaraṃ) [country](deśaṃ) [province](maṇḍalaṃ) [district](khaṇḍam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p213-v5317
-[bhūmi-madhya-gatam](bhūmimadhyagataṃ) [kṛtvā](kṛtvā) [trailokyam](trailokyaṃ) [vaśam](vaśamānayet) [ānayet](ānayet)
+[in-earth+middle+gone](bhūmi+madhya+gataṃ) [having-made](kṛtvā) [triple-world](trailokyaṃ) [into-subjugation](vaśam) [brings](ānayet)
 
 ## mukta-m0-p213-v5318
-[yatra](yatra) [kutra](kutra) [sthitam](sthitam) [bhadre](bhadre) [kṣobhayet](kṣobhayennagaraṃ) [nagaram](nagaram) [mahat](mahat)
+[where](yatra) [wherever](kutra) [situated](sthitaṃ) [O-fair-one](bhadre) [one-may-agitate](kṣobhayet) [city](nagaraṃ) [great](mahat)
 
 ## mukta-m0-p213-v5319
-[rocanā-kuṃkumaiśca](rocanākuṃkumaiścaiva) [eva](eva) [lākṣā-laktaka-saṃyutam](lākṣālaktakasaṃyutam)
+[with-yellow-pigment](rocanā) [and-with-saffron](kuṃkumaiḥ) [and](ca) [indeed](eva) [with-lac](lākṣā) [with-red-dye](alaktaka) [joined](saṃyutam)
 
 ## mukta-m0-p213-v5320
-[cakram](cakrametatsamālikhya) [etat](etat) [samālikhya](samālikhya) [yasya](yasya) [namnā](namnā) [maheśvari](maheśvari)
+[diagram](cakram) [this](etat) [having-drawn](samālikhya) [of-whom](yasya) [with-name](namnā) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p213-v5321
-[caura-graha-jala-ariṣṭam](cauragrahajalāriṣṭaṃ) [śākinī-ḍākinī-bhavam](śākinīḍākinībhavam)
+[thief](caura) [planet](graha) [water](jala) [calamity](ariṣṭaṃ) [śākinī](śākinī) [ḍākinī](ḍākinī) [arising](bhavam)
 
 ## mukta-m0-p213-v5322
-[nityam](nityaṃ) [samarcayed](samarcayed) [devi](devi) [kāla-mṛtyum](kālamṛtyuṃ) [vināśayet](vināśayet)
+[always](nityaṃ) [one-should-worship](samarcayet) [O-goddess](devi) [untimely-death](kāla+mṛtyuṃ) [one-destroys](vināśayet)
 
 ## mukta-m0-p213-v5323
-[adhastāt](adhastānnāmasaṃyuktāṃ) [nāma-saṃyuktām](nāmasaṃyuktāṃ) [rocanā-kuṃkuma-anvitam](rocanākuṃkumānvitam)
+[below](adhastāt) [name+joined](nāma+saṃyuktāṃ) [with-yellow-pigment](rocanā) [with-saffron](kuṃkuma) [endowed](anvitam)
 
 ## mukta-m0-p213-v5324
-[pīta-dravyaiḥ](pītadravyaiḥ) [samālikhya](samālikhya) [pīta-puṣpaiḥ](pītapuṣpaiḥ) [samarcayet](samarcayet)
+[with-yellow+substances](pīta+dravyaiḥ) [having-drawn](samālikhya) [with-yellow+flowers](pīta+puṣpaiḥ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p213-v5325
-[sahasra-vadano](sahasravadano) [devi](devi) [mūkaḥ](mūko) [bhavati](bhavati) [tatkṣaṇāt](tatkṣaṇāt)
+[thousand+mouthed](sahasra+vadanaḥ) [O-goddess](devi) [mute](mūkaḥ) [becomes](bhavati) [at-that-moment](tat+kṣaṇāt)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p219-v5451
-na[not] viśeṣaḥ[distinction] divā[by-day] rātrau[at-night] na[not] sandhyāyām[at-twilight] divāniśam[day-and-night]
+[not](na) [difference](viśeṣo) [by-day](divā) [at-night](rātrau) [not](na) [at-twilight](sandhyāyāṃ) [day-and-night](divāniśam)
 
 ## mukta-m0-p219-v5452
-mahāniśi[at-great-night] śucau[pure] deśe[place] baliṃ[offering] mantreṇa[with-mantra] dāpayet[cause-give]
+[on-great-night](mahāniśi) [in-pure](śucau) [in-place](deśe) [offering](baliṃ) [with-mantra](mantreṇa) [should-cause-to-give](dāpayet)
 
 ## mukta-m0-p219-v5453
-taddine[that-day] sarvathā[in-every-way] kāryā[to-be-done] śāsanāt[by-command] mama[mine] suvrate[O-good-vowed]
+[on-that-day](taddine) [in-every-way](sarvathā) [to-be-done](kāryā) [by-command](śāsanāt) [my](mama) [o-fair-vowed-one](suvrate)
 
 ## mukta-m0-p219-v5454
-sā[that] mahārātriḥ[great-night] uddiṣṭā[declared] tadgatam[that-gone] ca[and] akṣayam[imperishable] bhavet[becomes]
+[that](sā) [great-night](mahārātriḥ) [declared](uddiṣṭā) [in-that-gone](tadgataṃ) [and](ca) [imperishable](akṣayaṃ) [should-be](bhavet)
 
 ## mukta-m0-p219-v5455
-tadā[then] vādī[disputant] svasiddhānta[own-doctrine] hataḥ[struck] kṣititalam[earth-surface] vrajet[goes]
+[then](tadā) [opponent](vādī) [own-siddhānta](sva+siddhānta) [struck](hataḥ) [earth-surface](kṣiti+talaṃ) [should-go](vrajet)
 
 ## mukta-m0-p219-v5456
-kavitām[poetry] labhate[obtains] saḥ[he] api[too] amṛtatvam[immortality] ca[and] gacchati[goes]
+[poetic-skill](kavitāṃ) [obtains](labhate) [he](saḥ) [also](api) [immortality](amṛtatvaṃ) [and](ca) [goes-to](gacchati)
 
 ## mukta-m0-p219-v5457
-cāmaram[chowrie] ravibimbam[sun-disk] ca[and] tilapuṣpam[sesame-flower] saroruham[lotus]
+[yak-tail-fan](cāmaraṃ) [sun-disk](ravi+bimbaṃ) [and](ca) [sesame-flower](tila+puṣpaṃ) [lotus](saroruham)
 
 ## mukta-m0-p219-v5458
-mukhaprasādam[face-favor] sumukham[beautiful-face] sulocanam[good-eye] suhāsyakam[smiling]
+[face-brightness](mukha+prasādaṃ) [beautiful-face](sumukhaṃ) [beautiful-eyed](sulocanaṃ) [beautiful-smile](suhāsyakam)
 
 ## mukta-m0-p219-v5459
-labhate[obtains] ca[and] yathāsaṃkhyam[according-to-number] śṛṇu[hear] pārvati[Parvati] sādaram[respectfully]
+[obtains](labhate) [and](ca) [according-to-number](yathāsaṃkhyaṃ) [hear](śṛṇu) [o-pārvatī](pārvati) [with-respect](sādaram)
 
 ## mukta-m0-p219-v5460
-śūnyāgāre[empty-house] nadītīre[river-bank] niḥśaṅkaḥ[fearless] viharet[may-dwell] sadā[always]
+[in-empty-house](śūnyāgāre) [on-river-bank](nadī+tīre) [fearless](niḥśaṅko) [should-wander](viharet) [always](sadā)
 
 ## mukta-m0-p219-v5461
-taddrūmodbhavapuṣpeṇa[that-flower-born-flower] pūjayet[should-worship] bhaktibhāvataḥ[with-devotion]
+[with-that-form-born-flower](tad+rūpa+udbhava+puṣpeṇa) [should-worship](pūjayet) [with-devotion-attitude](bhakti+bhāvataḥ)
 
 ## mukta-m0-p219-v5462
-brahmataroḥ[Brahma-tree] mahāpadme[great-lotus] devīm[goddess] dhyātvā[meditating] yathāvidhiḥ[according-to-rite]
+[at-brahma-tree](brahma+taroḥ) [at-great-lotus](mahā+padme) [goddess](devīṃ) [having-meditated](dhyātvā) [according-to-rule](yathāvidhiḥ)
 
 ## mukta-m0-p219-v5463
-mahācīnadrumalatāveṣṭitaḥ[great-China-tree-vine-encircled] sādhakottamaḥ[best-practitioner]
+[by-great-cīn-tree-creeper](mahā+cīna+druma+latā) [enveloped](veṣṭitaḥ) [best-practitioner](sādhaka+uttamaḥ)
 
 ## mukta-m0-p219-v5464
-tithikrameṇa[by-tithi-order] saṃkhyābhiḥ[with-numbers] latābhiḥ[with-vines] veṣṭitaḥ[encircled] yadi[if]
+[by-lunar-day-sequence](tithi+krameṇa) [by-numbers](saṃkhyābhiḥ) [by-creepers](latābhiḥ) [enveloped](veṣṭito) [if](yadi)
 
 ## mukta-m0-p219-v5465
-aṣṭamyām[on-eighth] ca[and] caturdaśyām[on-fourteenth] dviguṇam[double] yadi[if] dṛśyate[seen]
+[on-eighth](aṣṭamyāṃ) [and](ca) [on-fourteenth](caturdaśyāṃ) [twofold](dviguṇaṃ) [if](yadi) [is-seen](dṛśyate)
 
 ## mukta-m0-p219-v5466
-yena[by-whom] hīnāḥ[lacking] na[not] sidhyanti[succeed] janmakoṭisahasraśaḥ[births-millions-thousands]
+[by-which](yena) [without](hīnā) [not](na) [succeed](sidhyanti) [for-birth-crore-thousands](janma+koṭi+sahasraśaḥ)
 
 ## mukta-m0-p219-v5467
-tadā[then] caret[should-act] tu[indeed] sarvatra[everywhere] vaiṣṇavācāratatparaḥ[Vaishnava-conduct-devoted]
+[then](tadā) [should-practice](caret) [indeed](tu) [everywhere](sarvatra) [in-vaiṣṇava-conduct-devoted](vaiṣṇava+ācāra+tatparaḥ)
 
 ## mukta-m0-p219-v5468
-parvate[mountain] vipine[forest] vā[or] api[indeed] nirjane[deserted] śūnyamaṇḍape[empty-pavilion]
+[on-mountain](parvate) [in-forest](vipine) [or](vāpi) [in-solitary](nirjane) [in-empty-pavilion](śūnya+maṇḍape)
 
 ## mukta-m0-p219-v5469
-kṣaṇam[moment] dhyātvā[meditating] manum[mantra] japtvā[reciting] natvā[bowing] gacchet[go] yathāsukham[as-comfort]
+[for-a-moment](kṣaṇaṃ) [having-meditated](dhyātvā) [mantra](manuṃ) [having-chanted](japtvā) [having-bowed](natvā) [should-go](gacchet) [as-one-wishes](yathāsukham)
 
 ## mukta-m0-p219-v5470
-kṣemaṅkarīm[welfare-maker] tathā[thus] vīkṣya[seeing] jambukīm[jackal-woman] yamadūtikām[Yama-messenger]
+[kṣemaṅkarī](kṣemaṅkarīṃ) [and](tathā) [having-seen](vīkṣya) [jambukī](jambukīṃ) [yamadūtikā](yamadūtikām)
 
 ## mukta-m0-p219-v5471
-kṛśodari[thin-waisted] mahācaṇḍe[great-fierce] muktakeśi[loose-haired] balipriye[offering-loving]
+[o-kṛśodarī](kṛśodari) [o-mahācaṇḍā](mahācaṇḍe) [o-loose-haired-one](muktakeśi) [o-offering-loving-one](bali+priye)
 
 ## mukta-m0-p219-v5472
-śmaśānam[cremation-ground] ca[and] śivam[Shiva] dṛṣṭvā[seeing] pradakṣiṇam[circumambulation] anuvrajan[following]
+[cremation-ground](śmaśānaṃ) [and](ca) [śiva](śivaṃ) [having-seen](dṛṣṭvā) [circumambulation](pradakṣiṇam) [following](anuvrajan)
 
 ## mukta-m0-p219-v5473
-ghoradaṃṣṭre[terrible-fang] karālāsye[gaping-mouth] phiṭiśabdapraṇādini[phiṭi-sound-resounding]
+[o-fierce-fanged-one](ghora+daṃṣṭre) [o-terrible-faced-one](karālāsye) [o-phiṭ-sound-resounding-one](phiṭi+śabda+praṇādini)
 
 ## mukta-m0-p219-v5474
-bhāgyodayasamutpanne[fortune-rise-born] namaste[salutation-to-you] varavarṇini[best-colored]
+[fortune-rise-arisen](bhāgyodaya+samutpanne) [salutation](namas) [to-you](te) [o-fair-colored-one](vara+varṇini)
 
 ## mukta-m0-p219-v5475
-hastyaśvarathaśastrāṇi[elephants-horses-chariots-weapons] phalakān[shields] vīrapūruṣān[heroic-men]
+[elephants](hasti) [horses](aśva) [chariots](ratha) [weapons](śastrāṇi) [shields](phalakān) [hero-men](vīra+pūruṣān)
