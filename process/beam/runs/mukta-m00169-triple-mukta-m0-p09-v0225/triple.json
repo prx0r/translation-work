@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "tena+añjita+locanaḥ+tu",
+     "gloss": "by-that+anointed+eye+indeed",
+     "grounds": "fused form as given; internal sandhi unresolved by editor; compound structure marked by + with no split into separate rows",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "adṛśyo",
+     "gloss": "unseen",
+     "grounds": "adjectival form in predicate position; analyzed as fused form given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present predication linking subject to adṛśya state",
+     "morph": "3.sg.act.pres/root-bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "modal adverbial emphasizing inevitability of the predicated state",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what necessity does one whose eyes have been anointed in this rite become certainly and invisibly removed from sight?",
+   "premises": [
+    "Anointing the eyes is the effect produced by the prior rite.",
+    "That anointed state is the condition for becoming invisible.",
+    "Invisibility in this context is asserted as a certain outcome."
+   ],
+   "inference": "One whose eyes are anointed by that rite becomes certainly invisible.",
+   "uncertainties": [
+    "Scope of 'invisible' remains unclear: perceptual to others or ontological concealment.",
+    "Agent of anointing is not specified within this verse alone."
+   ],
+   "plain_english": "Indeed, one whose eyes have been anointed by that becomes invisible, certainly."
+  }
+ ]
+}

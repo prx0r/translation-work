@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-its-pericarp-in(tatkarṇikāyām) triangle(trikoṇam) which(yad) arrow-liṅga-and(bāṇaliṅgam+ca) joined(saṅgatam)
+[its](tat) [pericarp+in](karṇikāyāṃ) [triangle](trikoṇaṃ) [which](yad) [arrow+liṅga+and](bāṇaliṅgañca) [united](saṅgatam)
 
 ## mukta-m0-p05-v102
-intellect-nature-ego-characterized(buddhi+prakṛti+ahaṅkāra+lakṣitam) by-splendor(tejasā) supreme(param)
+[buddhi](buddhi) [primordial-nature](prakṛti) [ego](ahaṅkāra) [characterized-by](lakṣitaṃ) [by-splendor](tejasā) [supreme](param)
 
 ## mukta-m0-p05-v103
-in-thousand-petalled(sahasrāre) in-great-lotus(mahāpadme) mind-and(manaḥ+ca) also(api) one-should-fix(niyojayet)
+[thousand-spoked+in](sahasrāre) [great+lotus+in](mahāpadme) [mind+and](manaścāpi) [one-should-fix](niyojayet)
 
 ## mukta-m0-p05-v104
-by-a-to-kṣa-ending(akāra+ādi+kṣakāra+antaiḥ) by-shining-letters(sphurat+varṇaiḥ) illumined(virājitam)
+[a-syllable+beginning-with](akārādi) [kṣa-syllable+ending-with](kṣakārāntaiḥ) [shining](sphurad) [letters+by](varṇair) [illuminated](virājitam)
 
 ## mukta-m0-p05-v105
-of-sun(sūryasya) orb(maṇḍalam) and-also(ca+eva) moon-orb(candra+maṇḍalam) also(eva) and(ca)
+[sun+of](sūryasya) [disk+and](maṇḍalañcaiva) [moon](candra) [disk+indeed](maṇḍalameva) [also](ca)
 
 ## mukta-m0-p05-v106
-in-that(tasmin) aperture(randhre) emission(visargam) and(ca) eternal-bliss(nitya+ānandam) stainless(nirañjatam)
+[in-that](tasmin) [cavity+in](randhre) [emission+and](visargañca) [eternal+bliss](nityānandaṃ) [stainless](nirañjatam)
 
 ## mukta-m0-p05-v107
-of-that(tasya) below-situated(adhaḥ+sthā) and(ca) O-goddess(deveśi) in-four-orbs-middle(catur+maṇḍala+madhyagam)
+[of-that](tasya) [below-situated+and](adhaḥsthā) [O-goddess](ca) [O-lady-of-gods](deveśi) [four+circle](caturmaṇḍala) [middle-situated](madhyagam)
 
 ## mukta-m0-p05-v108
-in-this(iha) place(sthāne) O-great-goddess(mahādevi) steady-mind(sthira+cittam) having-made(vidhāya) and(ca)
+[here](iha) [place+in](sthāne) [O-great-goddess](mahādevi) [steady+mind](sthiracittaṃ) [having-placed](vidhāya) [and](ca)
 
 ## mukta-m0-p05-v109
-here(atra) eternally-risen(nitya+uditā) growth-decay-devoid(vṛddhi+kṣaya+hīnā) digitless(amākalā)
+[here](atra) [eternally+risen](nityoditā) [growth](vṛddhi) [decay+devoid](kṣayahīnā) [digitless](amākalā)
 
 ## mukta-m0-p05-v110
-liberation-named-within(nirvāṇa+ākhya+antargatā) fire-formed(vahni+rūpā) restraining(nirodhikā)
+[liberation+named](nirvāṇākhyā) [within-situated](antargatā) [fire+form](vahnirūpā) [restraining](nirodhikā)
 
 ## mukta-m0-p05-v111
-liberation-power(nirvāṇa+śaktiḥ) supreme(paramā) of-all(sarveṣām) womb-formed(yoni+rūpiṇī)
+[liberation+power](nirvāṇaśaktiḥ) [supreme](paramā) [of-all](sarveṣāṃ) [womb+form](yonirūpiṇī)
 
 ## mukta-m0-p05-v112
-here-indeed(atra+eva) kuṇḍalī-power(kuṇḍalī+śaktiḥ) seal-shaped(mudrā+ākārā) O-goddess-of-gods(sureśvari)
+[here+indeed](atraiva) [Kuṇḍalī+power](kuṇḍalīśaktiḥ) [seal+form](mudrākārā) [O-lady-of-gods](sureśvari)
 
 ## mukta-m0-p05-v113
-declared(kathitā) yoni-seal(yoni+mudrā) this(iyam) by-me(mayā) to-you(te) O-supreme-goddess(parameśvari)
+[declared](kathitā) [womb+seal](yonimudrā) [this](iyaṃ) [by-me](mayā) [to-you](te) [O-supreme-goddess](parameśvari)
 
 ## mukta-m0-p05-v114
-by-that(tad) by-divine-nectar-streams(divya+amṛta+dhārābhiḥ) by-lac-colored(lākṣā+ābhābhiḥ) O-great-goddess(maheśvari)
+[that](tad) [divine+nectar](divyāmṛta) [streams+by](dhārābhir) [lac+resembling+by](lākṣābhābhir) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p05-v115
-kuṇḍalī-power-accomplishment(kuṇḍalī+śakti+siddhiḥ) would-be(syāt) by-hundreds-of-millions-of-letters(varṇa+koṭi+śataiḥ) even(api)
+[Kuṇḍalī+power](kuṇḍalīśakti) [accomplishment](siddhiḥ) [would-be](syād) [syllable](varṇa) [crore](koṭi) [hundreds+even-by](śatairapi)
 
 ## mukta-m0-p05-v116
-mantra-formed(mantra+rūpām) kuṇḍalinī(kuṇḍalinīm) having-meditated(dhyātvā) in-six-chakra-circle(ṣaṭ+cakra+maṇḍale)
+[mantra+form](mantrarūpāṃ) [Kuṇḍalinī](kuṇḍalinīṃ) [having-meditated](dhyātvā) [six+chakra](ṣaṭcakra) [circle+in](maṇḍale)
 
 ## mukta-m0-p05-v117
-going(gacchantīm) through-brahma-aperture(brahma+randhreṇa) entering(praviśantīm) own-abode(sva+ketanam)
+[going](gacchantīṃ) [Brahma+aperture+through](brahmarandhreṇa) [entering](praviśantīṃ) [own+abode](svaketanam)
 
 ## mukta-m0-p05-v118
-on-citriṇī-strung(citriṇī+grathitā) rosary(mālā) recitation(jāpam) O-beauty-of-universe(brahmāṇḍa+sundari)
+[citriṇī](citriṇī) [strung](grathitā) [rosary](mālā) [muttering](jāpaṃ) [O-beauty-of-the-universe](brahmāṇḍasundari)
 
 ## mukta-m0-p05-v119
-of-seal-and-consciousness(mudrā+caitanyayoḥ) knowledge(jñānam) of-letters(varṇānām) knowledge(jñānam) indeed(eva) and(ca)
+[seal](mudrā) [consciousness+of](caitanyayor) [knowledge](jñānaṃ) [syllables+of](varṇānāṃ) [knowledge+indeed](jñānameva) [and](ca)
 
 ## mukta-m0-p05-v120
-thus(iti) to-you(te) declared(kathitam) O-goddess(devi) yoni-play(yoni+krīḍā) this(idam) supreme(uttamam)
+[thus](iti) [to-you](te) [declared](kathitaṃ) [O-goddess](devi) [womb+play](yonikrīḍā) [this](idam) [supreme](uttamam)
 
 ## mukta-m0-p05-v121
-now(idānīm) to-hear(śrotum) I-desire(icchāmi) of-yoni(yoneḥ) armor(kavacam) supreme(uttamam)
+[now](idānīṃ) [to-hear](śrotum) [I-desire](icchāmi) [of-womb](yoneḥ) [armor](kavacam) [supreme](uttamam)
 
 ## mukta-m0-p05-v122
-of-this(etasya) of-armor(kavacasya) also(api) seer(ṛṣiḥ) and(ca) Śrī-Sadāśiva(śrī+sadāśivaḥ)
+[of-this](etasya) [armor+of](kavacasya) [also](api) [seer+and](ṛṣiśca) [Śrī+Sadāśiva](śrīsadāśivaḥ)
 
 ## mukta-m0-p05-v123
-in-four-aims(catur+vargeṣu) O-goddess(deveśi) application(viniyogaḥ) is-declared(prakīrtitaḥ)
+[four+aims+in](caturvargeṣu) [O-lady-of-gods](deveśi) [application](viniyogaḥ) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p05-v124
-without-knowing(ajñātvā) who(yaḥ) may-recite(japet) mantra(mantram) all(sarvam) fruitlessness(niṣphalatām) goes-to(vrajet)
+[without-knowing](ajñātvā) [who](yo) [should-recite](japen) [mantra](mantraṃ) [all](sarvaṃ) [fruitlessness](niṣphalatāṃ) [goes-to](vrajet)
 
 ## mukta-m0-p05-v125
-in-root-support(mūlādhāre) O-great-goddess(maheśāni) one-should-recite(japet) yantra(yantram) O-fair-faced(varānane)
+[root+support+in](mūlādhāre) [O-great-goddess](maheśāni) [one-should-recite](japed) [diagram](yantraṃ) [O-fair-faced-one](varānane)

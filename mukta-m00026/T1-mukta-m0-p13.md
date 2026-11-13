@@ -14,13 +14,13 @@
 [of+Indra+etc.](indrādi-lokapālānām) [in+worlds](lokeṣu) [and](ca) [according+to+order](yathākramam)
 
 ## mukta-m0-p13-v305
-[of+Brahman](brahmaṇaḥ) [the+state](padam) [having+reached](āsādya) [there](tatra) [for+kalpa+ten+thousand](kalpāyutam) [would+dwell](vaset)
+[of+Brahman](brahmaṇaḥ) [the+state](padam) [having+reached](āsādya) [there](tatra) [for+kalpa+ten+thousands](kalpāyutam) [would+dwell](vaset)
 
 ## mukta-m0-p13-v306
 [to+Śiva+loka](śivalokam) [then](tataḥ) [having+attained](prāpya) [rejoices](ramate) [time+without+end](kālam-akṣayam)
 
 ## mukta-m0-p13-v307
-[in+Śaiva](śaive) [in+Vaiṣṇava](viṣṇau) [and](ca) [in+Saura](saure) [and](ca) [in+Gāṇapatya](gāṇapatyeṣu) [O+Pārvatī](pārvati)
+[in+Śaiva](śaive) [in+Vaiṣṇava](viṣṇau) [and](ca) [in+Saurya](saure) [and](ca) [in+Gāṇapatya](gāṇapatyeṣu) [O+Pārvatī](pārvati)
 
 ## mukta-m0-p13-v308
 [ashes](bhasma) [in+them](teṣu) [O+great+Īśānī](maheśāni) [most+excellent](viśiṣṭam) [is+declared](parikīrtitam)
@@ -32,25 +32,25 @@
 [common](sāmānyam) [this](etat) [O+beautiful+hipped](suśroṇi) [a+special+rule](viśeṣam) [hear](śṛṇu) [from+me](matpriye)
 
 ## mukta-m0-p13-v311
-[than+Homa+ashes](haumabhasmāt) [by+a+koṭi+fold](koṭiguṇam) [Viṣṇu+homa](viṣṇuhomam) [O+great+Īśvarī](maheśvari)
+[than+Homa+ashes](haumabhasmāt) [a+koṭi+fold](koṭiguṇam) [Viṣṇu+homa](viṣṇuhomam) [O+great+Īśvarī](maheśvari)
 
 ## mukta-m0-p13-v312
-[of+one's+own+beloved+deity](svīyeṣṭadevatā-homam) [infinite](anantam) [O+sweet+speaker](priyavādini)
+[of+one's+own+beloved+deity](svīyeṣṭadevatā-homam) [infinite](anantam) [O+sweet+spoken](priyavādini)
 
 ## mukta-m0-p13-v313
-[not](na) [capable](samartho) [the+yoga+path](yogamārgaḥ) [what](kim) [else](anyat) [shall+I+tell](kathayāmi) [to+you](te)
+[not](na) [capable](samartho) [the+yoga+path](yogamārgaḥ) [what](kim) [else](anyat) [I+shall+tell](kathayāmi) [to+you](te)
 
 ## mukta-m0-p13-v314
-[in+Bhārata+named](bhāratākhye) [O+great+Kālī](mahākāli) [a+tenth+part](daśāṃśam) [in+order](kramataḥ) [O+auspicious](śive)
+[in+Bhārata+named](bhāratākhye) [O+great+Kālī](mahākāli) [a+tenth+part](daśāṃśam) [in+order](kramataḥ) [O+Śive](śive)
 
 ## mukta-m0-p13-v315
-[a+lakh](lakṣam) [or](vā) [ten+thousand](ayutam) [or](vā) [a+thousand](sahasram) [or](vā) [O+beautiful+faced](varānane)
+[a+lakh](lakṣam) [or](vā) [ten+thousands](ayutam) [or](vā) [a+thousand](sahasram) [or](vā) [O+beautiful+faced](varānane)
 
 ## mukta-m0-p13-v316
-[constant+offering](nityahomam) [and](ca) [should+be+made](kartavyam) [according+to+ability](śaktyā) [and](ca) [O+supreme+Īśvarī](parameśvari)
+[constant+homa](nityahomam) [and](ca) [should+be+performed](kartavyam) [according+to+ability](śaktyā) [and](ca) [O+supreme+Īśvarī](parameśvari)
 
 ## mukta-m0-p13-v317
-[eight+plus+hundred](aṣṭottaraśatam) [or](vā) [fifty+eight](aṣṭapañcāśatam) [should+perform](caret)
+[one+hundred+eight](aṣṭottaraśatam) [or](vā) [fifty+eight](aṣṭapañcāśatam) [should+perform](caret)
 
 ## mukta-m0-p13-v318
 [eighteen](aṣṭādaśam) [twelve](dvādaśam) [and](ca) [ten](daśa) [eight](aṣṭau) [and](ca) [according+to+rule](vidhānataḥ)
@@ -65,10 +65,10 @@
 [a+rudrākṣa+garland](rudrākṣamālyam) [should+be+worn](saṃdhāryam) [then](tataḥ) [hear](śṛṇu) [from+me](mama) [O+beloved](priye)
 
 ## mukta-m0-p13-v322
-[O+beautiful](subhage) [hear](śṛṇu) [O+beautiful+hipped](suśroṇi) [rudrākṣa](rudrākṣam) [the+supreme+state](paramam) [padam]
+[O+fortunate](subhage) [hear](śṛṇu) [O+beautiful+hipped](suśroṇi) [rudrākṣa](rudrākṣam) [the+supreme+state](paramam) [padam]
 
 ## mukta-m0-p13-v323
-[without+having+eaten](abhuktaḥ) [or](vā) [having+eaten](api) [bhuktaḥ] [or](vā) [of+low+food](nīcānnāt) [lower+than+low](nīcataro) [or](vā)
+[without+having+eaten](abhuktaḥ) [or](vā) [having+eaten](api) [bhuktaḥ] [or](vā) [of+low+food](nīcānnaiḥ) [lower+than+low](nīcataro) [or](vā) [api](vā)
 
 ## mukta-m0-p13-v324
 [the+wearing+of+rudrākṣa](rudrākṣadhāraṇam) [meritorious](puṇyam) [to+kaivalya](kaivalya) [equal](sadṛśam) [would+become](bhavet)
