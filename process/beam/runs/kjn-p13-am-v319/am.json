@@ -1,15 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 319,
- "question": "What alternative is permitted when the prescribed ritual vessel is unavailable?",
+ "question": "What alternative is permitted when the prescribed vessel cannot be obtained?",
  "premises": [
-  "The prescribed vessel may not be obtained",
-  "Another vessel is available",
-  "Drinking the ritual liquor is still permitted"
+  "Non-obtainment of the prescribed vessel is considered.",
+  "Another vessel is available as an alternative.",
+  "Drinking liquor is the action in question."
  ],
- "inference": "If the prescribed vessel is unavailable, one may drink the liquor from another vessel.",
- "uncertainties": [
-  "The compound pātramalābhena is read as non-obtainment but could be interpreted differently"
- ],
+ "inference": "If the prescribed vessel is not obtained, one may drink liquor from another vessel.",
+ "uncertainties": [],
  "plain_english": "If this vessel is not obtained, one may drink the liquor from another vessel."
 }
