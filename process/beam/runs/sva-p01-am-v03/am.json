@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 3,
- "question": "What grounds the claim that a given item is not indicated separately rather than being treated as a distinct object of instruction?",
+ "question": "Why is a particular matter not stated separately in the exposition?",
  "premises": [
-  "The item falls under inclusion within something already accounted for.",
-  "Separate indication is the alternative being considered.",
-  "Inclusion is offered as the cause for withholding separate indication."
+  "Something is not stated separately.",
+  "The reason given is its being included within something else.",
+  "Inclusion removes the need for separate mention."
  ],
- "inference": "By reason of inclusion, the item is not indicated separately.",
- "uncertainties": [
-  "The larger whole within which inclusion occurs is not named by these tokens."
- ],
- "plain_english": "By reason of being included, it is not indicated separately."
+ "inference": "The matter is not stated separately because it is already included.",
+ "uncertainties": [],
+ "plain_english": "It is not stated separately because it is already included."
 }

@@ -1,15 +1,13 @@
 {
  "song": "kjn-p16",
  "verse": 389,
- "question": "How rare and unsurpassed is this particular yogic circle claimed to be?",
+ "question": "What is claimed about the attainability of this circle relative to other yoga?",
  "premises": [
   "This circle is difficult to obtain.",
-  "No yoga higher than this exists.",
-  "The statement asserts its supreme status."
+  "There is no yoga higher than this.",
+  "Attainability is restricted by its rarity."
  ],
- "inference": "This circle is both rare and unsurpassed by any higher yoga.",
- "uncertainties": [
-  "Case forms in the comparison are slightly compressed."
- ],
- "plain_english": "This circle is indeed difficult to obtain; there is no yoga higher than this."
+ "inference": "This circle is difficult to obtain, for there is no yoga higher than it.",
+ "uncertainties": [],
+ "plain_english": "This circle is difficult to obtain; there is no yoga higher than this."
 }

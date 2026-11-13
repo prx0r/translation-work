@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 4,
- "question": "What concession is being made about orientation in the initial statement, even if its focus lies elsewhere?",
+ "question": "How can the opening statement remain focused on the main purpose while allowing another function?",
  "premises": [
-  "The initial statement is the locus in question.",
-  "An orientation focused on explaining the main purpose is present.",
-  "A concessive force applies to that orientation."
+  "The opening statement is focused on explaining the main purpose.",
+  "The concessive particle indicates another function is not excluded.",
+  "A primary focus can coexist with a secondary implication."
  ],
- "inference": "Even though focused on explaining the main purpose, this holds in the initial statement.",
- "uncertainties": [
-  "The exact scope of the concession cannot be determined from these two tokens alone."
- ],
- "plain_english": "Even though focused on explaining the main purpose, it is so in the initial statement."
+ "inference": "Even while primarily explaining the main purpose, the opening statement can also serve another function.",
+ "uncertainties": [],
+ "plain_english": "Even though it is focused on explaining the main purpose, this applies in the opening statement."
 }

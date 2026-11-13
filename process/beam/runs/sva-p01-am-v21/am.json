@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 21,
- "question": "What is being identified as the remainder in this clause, given its use by the guru at the time of initiation for disciples?",
+ "question": "Who applies the described procedure and in what ritual context?",
  "premises": [
-  "A time of initiation for disciples is specified.",
-  "An agent, the guru, is specified as using something.",
-  "That which is being used is closed off by iti and identified as the remainder."
+  "The procedure concerns disciples.",
+  "The occasion is the time of initiation.",
+  "The teacher is the agent applying it."
  ],
- "inference": "What is being used by the guru at the time of initiation for disciples is the remainder.",
- "uncertainties": [
-  "The exact item used is not named by these tokens and must come from prior context."
- ],
- "plain_english": "At the time of initiation for disciples, what is being used by the guru is the remainder, thus."
+ "inference": "Therefore the teacher applies the procedure for disciples at the time of initiation, and the rest follows accordingly.",
+ "uncertainties": [],
+ "plain_english": "This is applied by the teacher for the disciples at the time of initiation; thus is the remainder."
 }

@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 9,
- "question": "What claim is being grounded solely by discipleship, such that no other cause is stated in this token?",
+ "question": "What reason is given for the condition or status under discussion in this unit?",
  "premises": [
-  "Discipleship is posited as a state.",
-  "That state is offered as a cause.",
-  "No other cause is expressed here."
+  "A reason is expressed in the ablative abstract.",
+  "The reason is the state of being a disciple.",
+  "That state is presented as explanatory."
  ],
- "inference": "The relevant consequence is grounded by reason of discipleship.",
- "uncertainties": [
-  "Both the consequence and its scope are left implicit by this single token."
- ],
- "plain_english": "By reason of discipleship."
+ "inference": "The condition under discussion is explained by the fact of discipleship.",
+ "uncertainties": [],
+ "plain_english": "Because of being a disciple."
 }

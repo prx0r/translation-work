@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 6,
- "question": "What justifies treating the matter at hand as only nearly equivalent to a prior statement rather than identical to it?",
+ "question": "What status does the preceding point have in relation to what was already stated?",
  "premises": [
-  "A prior statement is taken as the point of reference.",
-  "The present matter approximates that statement.",
-  "Approximation, not identity, is marked by the form used."
+  "The expression marks something as already said in effect.",
+  "A point can be conveyed implicitly without full restatement.",
+  "Implicit conveyance counts as having been stated."
  ],
- "inference": "The matter is to be taken as as-if-said, not as a full restatement.",
- "uncertainties": [
-  "The prior statement being approximated is not present in this token alone."
- ],
- "plain_english": "It is as if what was said before."
+ "inference": "The point is treated as having been virtually stated already.",
+ "uncertainties": [],
+ "plain_english": "Thus, it has, as it were, already been said."
 }

@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 10,
- "question": "On what basis is a prior set of written items judged laughable, and to what extent is that judgment restricted?",
+ "question": "What judgment is passed on those writings characterized as mostly idle talk?",
  "premises": [
-  "A set of items was written.",
-  "That set is mostly of a foolish kind.",
-  "The judgment of laughable applies to those items indeed."
+  "Certain writings are described as mostly idle talk.",
+  "Those writings are identified as the ones written.",
+  "They are judged to be laughable indeed."
  ],
- "inference": "Those written items, being mostly foolish, are indeed laughable.",
- "uncertainties": [
-  "The prior set referred to by 'those' is not present in these tokens."
- ],
- "plain_english": "Those written ones, mostly foolish, are indeed laughable."
+ "inference": "The writings that are mostly idle talk are to be regarded as laughable.",
+ "uncertainties": [],
+ "plain_english": "Those writings, being mostly idle talk, are indeed laughable."
 }

@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 11,
- "question": "What grounds the claim that a given statement is authoritative rather than derivative of another injunctive statement?",
+ "question": "Why is a given statement taken to have authoritative injunctive force here?",
  "premises": [
-  "An authoritative character is attributed to the statement in question.",
-  "There is an absence of another injunctive statement.",
-  "That absence is offered as the cause for its authoritative character."
+  "A statement is treated as having injunctive force.",
+  "No other injunctive statement is available.",
+  "Absence of an alternative can make the present statement authoritative."
  ],
- "inference": "By reason of the absence of another injunctive statement, the statement is authoritative.",
- "uncertainties": [
-  "The specific statement referred to is not named by these tokens."
- ],
- "plain_english": "It is authoritative by reason of the absence of another injunctive statement."
+ "inference": "The statement is taken as authoritative because there is no other injunctive statement.",
+ "uncertainties": [],
+ "plain_english": "It is authoritative because there is no other injunctive statement."
 }
