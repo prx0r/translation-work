@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p156-v3876
-[paṃjaraṃ](paṃjaraṃ) [kūṭa+koṣṭhaṃ](kūṭakoṣṭhaṃ) [vā](vā) [mahā+nāsya+alpam+eva](mahānāsyalpameva) [vā](vā)
+[cage](paṃjaraṃ) [niche](kūṭakoṣṭhaṃ) [or](vā) [great+opening](mahānāsi) [small](alpam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p156-v3877
-[yat+aṃgaṃ](yadaṃgaṃ) [teṣu](teṣu) [vicchinnaṃ](vicchinnaṃ) [tat+aṃgaṃ](tadaṃgaṃ) [prāk+vat](prāgvad) [ācaret](ācaret)
+[which](yat) [limb](aṃgaṃ) [in-those](teṣu) [broken](vicchinnaṃ) [that](tat) [limb](aṃgaṃ) [as-before](prāgvat) [one-should-do](ācaret)
 
 ## mukta-m0-p156-v3878
-[tān+tyaktvā](tāṃstyaktvā) [ādya+iṣṭakā+ādīni](ādyeṣṭakādīni) [prathama+āraṃbha+vat](prathamāraṃbhavat) [kuru](kuru)
+[them](tān) [having-abandoned](tyaktvā) [in-the-beginning](ādye) [brick+etc.](iṣṭakādīni) [as-in-first+commencement](prathamāraṃbhavat) [do](kuru)
 
 ## mukta-m0-p156-v3879
-[mohāt](mohāddhīne) [hīne](hīne) [tu](tu) [vā](vā) [adhikye](adhikye) [kartuḥ](karturvittāyuṣakṣayam) [vitta+āyuṣa+kṣayam](vittāyuṣakṣayam)
+[through-delusion](mohāt) [in-deficiency](hīne) [indeed](tu) [or](vā) [in-excess](adhikye) [of-the-doer](kartuḥ) [wealth+life+destruction](vittāyuṣakṣayam)
 
 ## mukta-m0-p156-v3880
-[tasmāt](tasmātsarvaprayatena) [sarva+prayatena](sarvaprayatena) [sadanaṃ](sadanaṃ) [prāk+vat](prāgvad) [ācaret](ācaret)
+[therefore](tasmāt) [with-all+effort](sarvaprayatena) [the-abode](sadanaṃ) [as-before](prāgvat) [one-should-do](ācaret)
 
 ## mukta-m0-p156-v3881
-[punaḥ](punaśśāstroktamārgeṇādhika) [śāstra+ukta+mārgeṇa](śāstroktamārgeṇa) [adhika](adhika) [māna+ādibhiḥ](mānādibhir) [yutam](yutam)
+[again](punaḥ) [by-scripture+prescribed+method](śāstroktamārgeṇa) [with-excess](adhika) [measure+etc.](mānādibhiḥ) [endowed](yutam)
 
 ## mukta-m0-p156-v3882
-[pūrva+māna+ādiṣu](pūrvamānādiṣu) [kṣīṇaṃ](kṣīṇaṃ) [punaḥ](punaḥ) [karma](karma) [na](na) [kārayet](kārayet)
+[in-former+measure+etc.](pūrvamānādiṣu) [diminished](kṣīṇaṃ) [again](punaḥ) [work](karma) [not](na) [one-should-cause](kārayet)
 
 ## mukta-m0-p156-v3883
-[parivāra+ālayaṃ](parivārālayaṃ) [pīṭhaṃ](pīṭhaṃ) [prākāraṃ](prākāraṃ) [gopuraṃ](gopuraṃ) [tathā](tathā)
+[attendant-deity+shrine](parivārālayaṃ) [pedestal](pīṭhaṃ) [enclosure-wall](prākāraṃ) [gateway-tower](gopuraṃ) [likewise](tathā)
 
 ## mukta-m0-p156-v3884
-[purā](purā) [su+māna+nīyā+api](sumānanīyāpi) [punaḥ](punaḥ) [karma+adhikaṃ](karmādhikaṃ) [śubham](śubham)
+[formerly](purā) [well-measured](sumānanīya) [even-if](api) [again](punaḥ) [work](karma) [greater](adhikaṃ) [auspicious](śubham)
 
 ## mukta-m0-p156-v3885
-[prāk+vat+ca](prāgvacca) [su+dṛḍhaṃ](sudṛḍhaṃ) [kṛtvā](kṛtvā) [saṃprokṣaṇam](saṃprokṣaṇam) [atha](athācaret) [ācaret](ācaret)
+[as-before](prāgvat) [and](ca) [very-firm](sudṛḍhaṃ) [having-made](kṛtvā) [consecration](saṃprokṣaṇam) [then](atha) [one-should-perform](ācaret)
 
 ## mukta-m0-p156-v3886
-[tat+aṃgaṃ](tadaṃgaṃ) [pūrva+vat](pūrvavat) [kṛtvā](kṛtvā) [sthāpanaṃ](sthāpanaṃ) [samyak](samyagācaret) [ācaret](ācaret)
+[that](tat) [limb](aṃgaṃ) [as-before](pūrvavat) [having-made](kṛtvā) [installation](sthāpanaṃ) [properly](samyak) [one-should-perform](ācaret)
 
 ## mukta-m0-p156-v3887
-[nalaka+ādiṣu](nalakādiṣu) [vicchinne](vicchinne) [pādayoḥ](pādayorhastayo'stu) [hastayoḥ](hastayo'stu) [astu](astu) [vā](vā)
+[in-reed+etc.](nalakādiṣu) [when-broken](vicchinne) [of-the-feet](pādayoḥ) [of-the-hands](hastayoḥ) [or](astu) [or](vā)
 
 ## mukta-m0-p156-v3888
-[abda+trayaṃ](abdatrayaṃ) [tu](tu) [tat+lohaṃ](tallohaṃ) [khātvā](khātvā) [bhūmau](bhūmau) [viśeṣataḥ](viśeṣataḥ)
+[year+three](abdatrayaṃ) [indeed](tu) [that](tat) [metal](lohaṃ) [having-buried](khātvā) [in-the-ground](bhūmau) [especially](viśeṣataḥ)
 
 ## mukta-m0-p156-v3889
-[mṛṇmaye](mṛṇmaye) [varṇa+hīne](varṇahīne) [tu](tu) [punaḥ](punaḥ) [kṛtvā](kṛtvā) [tu](tu) [pūrva+vat](pūrvavat)
+[in-clay-made](mṛṇmaye) [color+devoid](varṇahīne) [indeed](tu) [again](punaḥ) [having-made](kṛtvā) [indeed](tu) [as-before](pūrvavat)
 
 ## mukta-m0-p156-v3890
-[tat+tat+aṃgaṃ](tattadaṃgaṃ) [punaḥ](punaḥ) [kāryaṃ](kāryaṃ) [śūlaṃ](śūlaṃ) [ca](ca) [eva](eva) [tathā](tathaiva) [eva](eva) [hi](hi)
+[that+respective](tattat) [limb](aṃgaṃ) [again](punaḥ) [to-be-done](kāryaṃ) [the-core](śūlaṃ) [and](ca) [indeed](eva) [likewise](tathaiva) [indeed](hi)
 
 ## mukta-m0-p156-v3891
-[tat+eva](tadeva) [saṃgṛhet](saṃgṛheddhīmān) [dhīmān](dhīmān) [doṣa+āḍhyaṃ](doṣāḍhyaṃ) [parivarjayet](parivarjayet)
+[that-very](tadeva) [one-should-take](saṃgṛhet) [the-wise-one](dhīmān) [fault+endowed](doṣāḍhyaṃ) [one-should-reject](parivarjayet)
 
 ## mukta-m0-p156-v3892
-[vyapohya](vyapohya) [liṃga+pīṭhaṃ](liṃgapīṭhaṃ) [ca](ca) [sthāpayet](sthāpayet) [pūrva+vat](pūrvavad) [budhaḥ](budhaḥ)
+[having-removed](vyapohya) [liṅga+pedestal](liṃgapīṭhaṃ) [and](ca) [one-should-install](sthāpayet) [as-before](pūrvavat) [the-wise-one](budhaḥ)
 
 ## mukta-m0-p156-v3893
-[ārṣe](ārṣe) [ca](ca) [pauruṣe](pauruṣe) [vā](vā) [api](api) [pūrvam+eva](pūrvamevā) [kṛta+ālaye](kṛtālaye)
+[in-ṛṣi-made](ārṣe) [and](ca) [in-man-made](pauruṣe) [or](vā) [or](api) [formerly](pūrvam) [indeed](eva) [made+shrine](kṛtālaye)
 
 ## mukta-m0-p156-v3894
-[kalpayet](kalpayetpaṃcasālānāṃ) [paṃca+sālānāṃ](paṃcasālānāṃ) [bāhye](bāhye) [bāhya+antare+api](bāhyantare'pi) [vā](vā)
+[one-should-arrange](kalpayet) [of-five+halls](paṃcasālānāṃ) [outside](bāhye) [in-the-outer+interior](bāhyantare) [or](api) [or](vā)
 
 ## mukta-m0-p156-v3895
-[mahā+maryādi](mahāmaryādi) [sālasya](sālasyā) [bhyantare](bhyantare) [tu](tu) [na](na) [kārayet](kārayet)
+[of-great+boundary](mahāmaryādi) [of-the-hall](sālasya) [inside](abhyantare) [indeed](tu) [not](na) [one-should-do](kārayet)
 
 ## mukta-m0-p156-v3896
-[mahā+maryādi](mahāmaryādi) [bāhye](bāhye) [tu](tu) [gatvā](gatvālayaṃ) [ālayaṃ](ālayaṃ) [prakalpayet](prakalpayet)
+[of-great+boundary](mahāmaryādi) [outside](bāhye) [indeed](tu) [having-gone](gatvā) [shrine](ālayaṃ) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p156-v3897
-[maryādeḥ](maryādermahāśāyāṃ) [mahā+śāyāṃ](mahāśāyāṃ) [bāhye](bāhye) [vā](vā) [prāk+vat](prāgvad) [antaram](antaram)
+[of-the-boundary](maryādeḥ) [of-the-great+enclosure](mahāśāyāṃ) [outside](bāhye) [or](vā) [as-before](prāgvat) [interior](antaram)
 
 ## mukta-m0-p156-v3898
-[kalahaṃsasya](kalahaṃsasya) [nāśaṃ](nāśaṃ) [ca](ca) [sidhyate](sidhyate) [na](nātra) [atra](atra) [saṃśayaḥ](saṃśayaḥ)
+[of-quarrel](kalahaṃsasya) [destruction](nāśaṃ) [and](ca) [is-accomplished](sidhyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p156-v3899
-[kartavyaṃ](kartavyaṃ) [vijaya+āyuṣyaṃ](vijayāyuṣyaṃ) [putra+pautra+ādi+vardhanam](putrapautrādivardhanam)
+[to-be-done](kartavyaṃ) [victory+life-giving](vijayāyuṣyaṃ) [son+grandson+etc.+increasing](putrapautrādivardhanam)
 
 ## mukta-m0-p156-v3900
-[mūla+vastu](mūlavastu) [samīkṣya](samīkṣya) [evaṃ](evaṃ) [kalpayet](kalpayetkalpavittamaḥ) [kalpa+vittamaḥ](kalpavittamaḥ)
+[root+object](mūlavastu) [having-examined](samīkṣya) [thus](evaṃ) [one-should-arrange](kalpayet) [ritual+knower+best](kalpavittamaḥ)

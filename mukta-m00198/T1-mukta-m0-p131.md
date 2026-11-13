@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p131-v3251
-[fierce](raudraṃ) [Pāśupata](pāśupataṃ) [indeed-this](hyetat) [in-image](bimbe) [in-linga](liṃge) [indeed](tu) [worshipped](pūjitam)
+[fierce](raudraṃ) [pāśupata](pāśupataṃ) [indeed+this](hi+etat) [in-image](bimbe) [in-liṅga](liṃge) [and](tu) [worshipped](pūjitam)
 
 ## mukta-m0-p131-v3252
-[this-form](etāṃ) [form](mūrtiṃ) [once](sakṛd) [should-meditate](dhyāyet) [all-enemies-destruction](sarvaśatruvināśanam)
+[this](etāṃ) [form](mūrtiṃ) [once](sakṛd) [one-should-meditate](dhyāyet) [all+enemy+destruction](sarva+śatru+vināśanam)
 
 ## mukta-m0-p131-v3253
-[thus](ityaṃśumānkāśyape) [Pāśupata-form-characteristics-chapter](pāśupatamūrtilakṣaṇapaṭalaḥ) [seventy-fourth](catussaptatitamaḥ)
+[thus](iti) [in-aṃśumān-kāśyapa](aṃśumān+kāśyape) [pāśupata+form+characteristics+chapter](pāśupata+mūrti+lakṣaṇa+paṭalaḥ) [seventy-fourth](catussaptatitamaḥ)
 
 ## mukta-m0-p131-v3254
-[feet](pādau) [indeed](tu) [with-sandals](pādukopetau) [left-foot](vāmapādaṃ) [indeed](tu) [well-placed](susthitam)
+[two-feet](pādau) [and](tu) [provided-with-footwear](pādukā+upetau) [left+foot](vāma+pādaṃ) [and](tu) [well-placed](susthitam)
 
 ## mukta-m0-p131-v3255
-[pure](śuddha) [white-like](śvetānibhaṃ) [color](varṇaṃ) [ca](ca) [with-all-ornaments-adorned](sarvābharaṇabhūṣitam)
+[pure](śuddha) [white+resembling](śveta+ānibhaṃ) [color](varṇaṃ) [and](ca) [all+ornaments+adorned](sarva+ābharaṇa+bhūṣitam)
 
 ## mukta-m0-p131-v3256
-[garland](dhūrdhūrapuṣpaṃ) [serpent](nāgaṃ) [ca](ca) [on-left](vāme) [with-crescent-on-head](savyenduśekharam)
+[dhūrdhūra+flower](dhūrdhūra+puṣpaṃ) [serpent](nāgaṃ) [and](ca) [on-left](vāme) [on-right+moon+crest](savya+indu+śekharam)
 
 ## mukta-m0-p131-v3257
-[somewhat](kiṃcitprakāśitāntastha) [vision](darśanaṃ) [well-adorned](suvilāsitam)
+[slightly](kiṃcit) [revealed+inner](prakāśita+antastha) [appearance](darśanaṃ) [very-graceful](suvilāsitam)
 
 ## mukta-m0-p131-v3258
-[ears](karṇau) [with-earrings](kuṇḍalasaṃyuktau) [on-left](vāme) [branch-leaf](śākhādalaṃ) [tu](tu) [vā](vā)
+[two-ears](karṇau) [earring+joined](kuṇḍala+saṃyuktau) [on-left](vāme) [branch+leaf](śākhā+dalaṃ) [and](tu) [or](vā)
 
 ## mukta-m0-p131-v3259
-[right](dakṣiṇaṃ) [doe](hariṇī) [in-face](vaktre) [placed](vyāhitaṃ) [like-lion-ear](siṃhakarṇavat)
+[right](dakṣiṇaṃ) [doe](hariṇī) [in-face](vaktre) [placed](vyāhitaṃ) [like-lion+ear](siṃha+karṇavat)
 
 ## mukta-m0-p131-v3260
-[then](tatasthyā) [form](kṛti) [creation](nirmāṇadvipādadvikarānvitam)
+[standing-there](tatasthyā) [form](kṛti) [construction](nirmāṇa) [two-feet+two-hands+endowed](dvi+pāda+dvi+kara+anvitam)
 
 ## mukta-m0-p131-v3261
-[staff](daṇḍaṃ) [skull-footed](kaṃkālapādau) [two](dvau) [with-rope](rajjunā) [should-bind](bandhayedbudhaḥ)
+[staff](daṇḍaṃ) [skeleton+feet](kaṃkāla+pādau) [two](dvau) [with-rope](rajjunā) [should-bind](bandhayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p131-v3262
-[this-skull](etatkaṃkāla) [by-name](nāmnā) [tu](tu) [on-left-shoulder](vāmaskandhopari) [should-place](nyaset)
+[this](etat) [skeleton](kaṃkāla) [by-name](nāmnā) [and](tu) [left+shoulder+upon](vāma+skandha+upari) [should-place](nyaset)
 
 ## mukta-m0-p131-v3263
-[offering-vessel-bearing](balipātradharaṃ) [spirit](bhūtaṃ) [on-left-front](vāmāgre) [with-movement](gamanānvitam)
+[offering+vessel+holding](bali+pātra+dharaṃ) [spirit](bhūtaṃ) [on-left+front](vāma+agre) [going+endowed](gamana+anvitam)
 
 ## mukta-m0-p131-v3264
-[somewhat](kiṃcitprakāśitaṃ) [yoni](yoni) [joined](saṃyuktā) [naked-garmented](nagnavāsasaḥ)
+[slightly](kiṃcit) [revealed](prakāśitaṃ) [vulva](yoni) [joined](saṃyuktā) [naked+clothed](nagna+vāsasaḥ)
 
 ## mukta-m0-p131-v3265
-[on-forehead-left-side](lalāṭavāmapārśve) [tu](tu) [at-eye-end](netrānte) [that-pit-end](tatpuṭāntake)
+[forehead+left+side](lalāṭa+vāma+pārśve) [and](tu) [at-eye-corner](netra+ante) [at-that+fold+end](tat+puṭa+antake)
 
 ## mukta-m0-p131-v3266
-[at-navel-right](nābhessavye) [pair-finger](yugāṃgulye) [of-left-foot](vāmapādasya) [ankle](gulphake)
+[of-navel](nābheḥ) [on-right](savye) [two-fingers](yuga+aṃgulye) [of-left+foot](vāma+pādasya) [at-ankle](gulphake)
 
 ## mukta-m0-p131-v3267
-[by-bending-path](ābhaṃgasyokta) [mārgeṇa](mārgeṇa) [bent-posture](natamānaṃ) [should-arrange](prakalpayet)
+[of-bend](ābhaṃgasya) [stated](ukta) [by-method](mārgeṇa) [bent-state](natamānaṃ) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p131-v3268
-[on-right](dakṣiṇe) [hip-side](kaṭipārśve) [tu](tu) [knives](kṣurikāścaiva) [bandhayet](bandhayet)
+[on-right](dakṣiṇe) [hip+side](kaṭi+pārśve) [and](tu) [knife](kṣurikāḥ) [and+indeed](ca+eva) [should-bind](bandhayet)
 
 ## mukta-m0-p131-v3269
-[on-both](ubhayoḥ) [sides](pārśvayorhaste) [with-various-serpent-ornaments](nānānāgavibhūṣitam)
+[of-both](ubhayoḥ) [on-sides](pārśvayoḥ) [in-hands](haste) [various+serpent+adorned](nānā+nāga+vibhūṣitam)
 
 ## mukta-m0-p131-v3270
-[heart-anjali](hṛdayāṃjali) [joined](saṃyukte) [with-agitated-mind](saṃbhrāntamanasānvitaiḥ)
+[at-heart+añjali](hṛdaya+añjali) [joined](saṃyukte) [with-agitated+mind+endowed](saṃbhrānta+manasā+anvitaiḥ)
 
 ## mukta-m0-p131-v3271
-[path](vīthiṃ) [should-sweep](saṃmārjayedvāyuḥ) [rain](parjanyo) [water-sprinkling](jalasecanam)
+[road](vīthiṃ) [should-sweep](saṃmārjayet) [wind](vāyuḥ) [rain-cloud](parjanyaḥ) [water+sprinkling](jala+secanam)
 
 ## mukta-m0-p131-v3272
-[seers](ṛṣayaḥ) [hymn-reciters](stotra) [pāṭhakāḥ](pāṭhakāḥ)
+[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [sages](ṛṣayaḥ) [hymn](stotra) [reciters](pāṭhakāḥ)
 
 ## mukta-m0-p131-v3273
-[leather-binding](carmabandhaṃ) [ca](ca) [bronze](kaṃsaṃ) [ca](ca) [kadamba](kadambaṃ) [hollow-indeed](suṣirameva) [vā](vā)
+[skin+drum](carma+bandhaṃ) [and](ca) [bell-metal-instrument](kaṃsaṃ) [and](ca) [kadamba-drum](kadambaṃ) [wind-instrument](suṣiram) [indeed](eva) [or](vā)
 
 ## mukta-m0-p131-v3274
-[tumburu](tumburu) [nārada](nāradāḥ) [all](sarvaiśca) [singing-work](geyakarma) [with-characteristics](salakṣaṇam)
+[tumburu](tumburu) [nārada](nāradāḥ) [all](sarvaiḥ) [and](ca) [singing+action](geya+karma) [with-characteristics](salakṣaṇam)
 
 ## mukta-m0-p131-v3275
-[for-welfare-of-all-worlds](sarvalokopakārārthaṃ) [of-Indra](indrasya) [in-palace-etc](bhavanādiṣu)
+[all+world+benefit+for-the-sake-of](sarva+loka+upakāra+arthaṃ) [of-indra](indrasya) [in-abode+etc.](bhavana+ādiṣu)
