@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p97",
  "verse": 2417,
- "question": "What completeness, nourishment, and captivating flow are ascribed to the goddess?",
+ "question": "Where is Kāmasaras located and how is its size indicated?",
  "premises": [
-  "The goddess is a complete circle.",
-  "She is identified as Pūṣā, the nourisher.",
-  "She is flowing and captivating to the mind."
+  "A location north of that mountain is specified",
+  "The lake is named Kāmasaras",
+  "Its measure is given in bhānu-hastas"
  ],
- "inference": "The goddess embodies complete, nourishing, and captivating flowing presence.",
- "uncertainties": [],
- "plain_english": "She is the complete circle, Pūṣā the nourisher, flowing, and captivating to the mind."
+ "inference": "To the north of that mountain lies Kāmasaras, measured in bhānu-hastas.",
+ "uncertainties": [
+  "The exact value of 'bhānu+hasta' as a unit of measure is not specified"
+ ],
+ "plain_english": "To the north of that is Kāmasaras, of the measure of bhānu-hastas."
 }

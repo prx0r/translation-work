@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p97",
  "verse": 2414,
- "question": "What fiery, smoky, and wealth-giving aspects are attributed to the goddess?",
+ "question": "Why is bathing the goddess by day declared free from fault?",
  "premises": [
-  "The goddess is called Mārīci, blazing, and smoky.",
-  "She bears oblations.",
-  "She gives gold."
+  "Someone bathes the goddess",
+  "The bathing occurs by day",
+  "The act is declared not faulty"
  ],
- "inference": "The goddess manifests fiery sacrificial power and bestows wealth.",
- "uncertainties": [],
- "plain_english": "She is Mārīci, blazing, smoky, the bearer of oblations, and the giver of gold."
+ "inference": "Bathing the goddess by day is not considered faulty.",
+ "uncertainties": [
+  "The subject of 'dūṣyati' could be the act or the agent; taken as the act being not faulty"
+ ],
+ "plain_english": "And whoever bathes the goddess by day is not at fault."
 }
