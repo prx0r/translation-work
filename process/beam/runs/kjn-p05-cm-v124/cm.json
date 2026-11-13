@@ -4,8 +4,8 @@
  "rows": [
   {
    "lemma": "viṣaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "noun"
+   "morph": "n.nom.sg.n",
+   "grounds": "nominative noun"
   },
   {
    "lemma": "na",
@@ -14,17 +14,17 @@
   },
   {
    "lemma": "kramate",
-   "morph": "3.sg.act-pres",
+   "morph": "3.sg.act-pres + root kram",
    "grounds": "verb"
   },
   {
    "lemma": "dehe",
-   "morph": "m.loc.sg",
-   "grounds": "locative"
+   "morph": "n.loc.sg.m",
+   "grounds": "locative noun"
   },
   {
    "lemma": "daṃśito",
-   "morph": "m.nom.sg",
+   "morph": "participle",
    "grounds": "participle"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "mahā+uragaiḥ",
-   "morph": "m.instr.pl",
-   "grounds": "compound"
+   "morph": "n.instr.pl.m",
+   "grounds": "instrumental compound"
   }
  ]
 }

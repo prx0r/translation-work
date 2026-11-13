@@ -8,102 +8,98 @@
      "surface": "bhukti",
      "gloss": "enjoyment",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "f.nom.sg"
     },
     {
      "surface": "mukti",
      "gloss": "liberation",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "f.nom.sg"
     },
     {
      "surface": "mahā",
      "gloss": "great",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "siddhiḥ",
      "gloss": "accomplishment",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "f.nom.sg"
     },
     {
      "surface": "yoginīnāṃ",
-     "gloss": "of-yoginīs",
+     "gloss": "of-yoginis",
      "grounds": "token as given",
-     "morph": "n.gen.pl"
+     "morph": "f.gen.pl"
     },
     {
      "surface": "priyo",
      "gloss": "dear",
      "grounds": "token as given",
-     "morph": "adj.nom.sg.m"
+     "morph": "m.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "he-may-become",
      "grounds": "token as given",
-     "morph": "v.3.sg.opt"
+     "morph": "3.sg.act.opt + root bhū"
     }
    ],
-   "question": "What becomes dear to yoginīs through great accomplishment of enjoyment and liberation?",
+   "question": "What becomes dear to the yoginis through enjoyment, liberation, and great accomplishment?",
    "premises": [
-    "bhukti and mukti are paired",
-    "mahā siddhiḥ is the great accomplishment",
-    "yoginīnāṃ priyo bhavet states dearness"
+    "bhukti mukti mahā siddhiḥ yoginīnāṃ priyo bhavet"
    ],
-   "inference": "The verse claims the great accomplishment of enjoyment and liberation makes one dear to yoginīs.",
+   "inference": "The great accomplishment of enjoyment and liberation is dear to the yoginis.",
    "uncertainties": [
-    "exact syntactic scope of mahā siddhiḥ"
+    "exact syntactic relation of mahā to siddhiḥ"
    ],
-   "plain_english": "Enjoyment, liberation, and great accomplishment make one dear to the yoginīs."
+   "plain_english": "Enjoyment, liberation, and great accomplishment become dear to the yoginis."
   },
   {
    "verse": 227,
    "rows": [
     {
      "surface": "candra",
-     "gloss": "in-candra-dvīpa",
+     "gloss": "in-candra-dvipa",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "dvīpa",
      "gloss": "island",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "m.nom.sg"
     },
     {
      "surface": "vinirgate",
      "gloss": "emerged",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "loc.sg.masc.part"
     },
     {
      "surface": "navamaḥ",
      "gloss": "ninth",
      "grounds": "token as given",
-     "morph": "adj.nom.sg.m"
+     "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter emerges after candra-dvīpa?",
+   "question": "Which chapter emerges in candra-dvipa?",
    "premises": [
-    "candra dvīpa is the island",
-    "vinirgate means emerged",
-    "navamaḥ paṭalaḥ is the ninth chapter"
+    "candra dvīpa vinirgate navamaḥ paṭalaḥ"
    ],
-   "inference": "The ninth chapter emerges from candra-dvīpa.",
+   "inference": "The ninth chapter emerges in candra-dvipa.",
    "uncertainties": [
-    "whether candra dvīpa is a place or stage"
+    "compound boundary of candra dvīpa"
    ],
-   "plain_english": "The ninth chapter emerges from candra-dvīpa."
+   "plain_english": "The ninth chapter emerges in candra-dvipa."
   },
   {
    "verse": 228,
@@ -112,48 +108,46 @@
      "surface": "vahni",
      "gloss": "by-fire",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "nāveṣṭita",
      "gloss": "surrounded",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "m.nom.sg.part"
     },
     {
      "surface": "ātmānam",
      "gloss": "self",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "eka",
      "gloss": "on-one",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "pādena",
      "gloss": "foot",
      "grounds": "token as given",
-     "morph": "n.inst.sg"
+     "morph": "m.ins.sg"
     },
     {
      "surface": "saṃsthitam",
      "gloss": "standing",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "m.acc.sg.part"
     }
    ],
    "question": "How is the self described as standing surrounded by fire?",
    "premises": [
-    "vahni nāveṣṭita means surrounded by fire",
-    "ātmānam is the self",
-    "eka pādena saṃsthitam means standing on one foot"
+    "vahni nāveṣṭita ātmānam eka pādena saṃsthitam"
    ],
-   "inference": "The self stands on one foot while surrounded by fire.",
+   "inference": "The self stands on one foot, surrounded by fire.",
    "uncertainties": [
-    "whether nāveṣṭita is passive or adjectival"
+    "exact sense of nāveṣṭita"
    ],
    "plain_english": "The self stands on one foot, surrounded by fire."
   },
@@ -170,43 +164,42 @@
      "surface": "nirṇayam",
      "gloss": "determination",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "deva",
      "gloss": "o-god",
      "grounds": "token as given",
-     "morph": "n.voc.sg"
+     "morph": "m.voc.sg"
     },
     {
      "surface": "adya",
      "gloss": "today",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "me",
      "gloss": "to-me",
      "grounds": "token as given",
-     "morph": "pron.dat.sg"
+     "morph": "1.dat.sg"
     },
     {
      "surface": "prakaṭīkṛtam",
      "gloss": "made-manifest",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "m.acc.sg.part"
     }
    ],
    "question": "What determination of knowledge is made manifest today?",
    "premises": [
-    "jñānasya nirṇayam is determination of knowledge",
-    "deva adya me prakaṭīkṛtam states manifestation to me today"
+    "jñānasya nirṇayam deva adya me prakaṭīkṛtam"
    ],
-   "inference": "The determination of knowledge is made manifest to the speaker today.",
+   "inference": "The determination of knowledge is made manifest to me today.",
    "uncertainties": [
-    "identity of deva addressed"
+    "exact addressee"
    ],
-   "plain_english": "Today the determination of knowledge is made manifest to me, O god."
+   "plain_english": "The determination of knowledge is made manifest to me today, O god."
   },
   {
    "verse": 230,
@@ -215,50 +208,48 @@
      "surface": "aṣṭa",
      "gloss": "eight",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "aṣṭaka",
      "gloss": "eight",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "vibhāgam",
      "gloss": "division",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "parijñātum",
      "gloss": "to-know-fully",
      "grounds": "token as given",
-     "morph": "inf."
+     "morph": "inf"
     },
     {
      "surface": "anantathā",
      "gloss": "endlessly",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     }
    ],
    "question": "How is the eightfold division to be fully known?",
    "premises": [
-    "aṣṭa aṣṭaka vibhāgam is eightfold division",
-    "parijñātum means to know fully",
-    "anantathā means endlessly"
+    "aṣṭa aṣṭaka vibhāgam tu parijñātum anantathā"
    ],
-   "inference": "The eightfold division is to be known fully in an endless manner.",
+   "inference": "The eightfold division is to be fully known endlessly.",
    "uncertainties": [
-    "whether anantathā modifies knowing or division"
+    "exact relation of aṣṭa and aṣṭaka"
    ],
-   "plain_english": "The eightfold division is to be known fully, endlessly."
+   "plain_english": "The eightfold division is to be fully known endlessly."
   },
   {
    "verse": 231,
@@ -267,7 +258,7 @@
      "surface": "guhya",
      "gloss": "secret",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "sthānaṃ",
@@ -279,7 +270,7 @@
      "surface": "yathā",
      "gloss": "as",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
@@ -291,32 +282,30 @@
      "surface": "kṣipraṃ",
      "gloss": "quickly",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "sidhyati",
      "gloss": "is-accomplished",
      "grounds": "token as given",
-     "morph": "v.3.sg.pres"
+     "morph": "3.sg.act.pres + root sidh"
     },
     {
      "surface": "bhairava",
      "gloss": "o-bhairava",
      "grounds": "token as given",
-     "morph": "n.voc.sg"
+     "morph": "m.voc.sg"
     }
    ],
-   "question": "How does the secret place or wheel become accomplished quickly?",
+   "question": "How does the secret place or wheel become quickly accomplished?",
    "premises": [
-    "guhya sthānaṃ is secret place",
-    "yathā cakraṃ kṣipraṃ sidhyati states quick accomplishment",
-    "bhairava is addressed"
+    "guhya sthānaṃ yathā cakraṃ kṣipraṃ sidhyati bhairava"
    ],
-   "inference": "The secret place or wheel is accomplished quickly, O Bhairava.",
+   "inference": "The secret place or wheel is quickly accomplished, O Bhairava.",
    "uncertainties": [
-    "whether guhya sthānaṃ and cakraṃ are same or distinct"
+    "whether guhya modifies sthānaṃ or cakraṃ"
    ],
-   "plain_english": "As the secret place or wheel is quickly accomplished, O Bhairava."
+   "plain_english": "The secret place or wheel is quickly accomplished, O Bhairava."
   },
   {
    "verse": 232,
@@ -325,55 +314,54 @@
      "surface": "sādhu",
      "gloss": "well",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "sādhu",
      "gloss": "well",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahādevi",
      "gloss": "o-great-goddess",
      "grounds": "token as given",
-     "morph": "n.voc.sg"
+     "morph": "f.voc.sg"
     },
     {
      "surface": "pṛṣṭaḥ",
      "gloss": "asked",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "m.nom.sg.part"
     },
     {
      "surface": "aham",
      "gloss": "i",
      "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "morph": "1.nom.sg"
     },
     {
      "surface": "sura",
      "gloss": "by-gods",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "durlabham",
      "gloss": "hard-to-obtain",
      "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What is hard to obtain even when asked by gods?",
+   "question": "What is hard to obtain that the speaker was asked about?",
    "premises": [
-    "sādhu sādhu mahādevi is praise",
-    "pṛṣṭaḥ aham sura durlabham states asked by gods hard to obtain"
+    "sādhu sādhu mahādevi pṛṣṭaḥ aham sura durlabham"
    ],
-   "inference": "The speaker, asked by gods, declares something hard to obtain.",
+   "inference": "The speaker was asked by gods about something hard to obtain.",
    "uncertainties": [
-    "what exactly is hard to obtain"
+    "exact object of pṛṣṭaḥ"
    ],
-   "plain_english": "Well, well, O great goddess; I, asked by gods, speak of what is hard to obtain."
+   "plain_english": "Well, well, O great goddess, I was asked by gods about something hard to obtain."
   },
   {
    "verse": 233,
@@ -400,26 +388,24 @@
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "lalāṭayoḥ",
      "gloss": "in-the-forehead",
      "grounds": "token as given",
-     "morph": "n.loc.du"
+     "morph": "m.loc.du"
     }
    ],
-   "question": "Where are syllables kṣa and laṃ located in relation to brahmarandhra?",
+   "question": "Where are the syllables kṣa and laṃ placed in relation to brahmarandhra?",
    "premises": [
-    "kṣakāraṃ is syllable kṣa",
-    "brahmarandhratvaṃ is brahmarandhra state",
-    "laṃkāram tu lalāṭayoḥ places laṃ in forehead"
+    "kṣakāraṃ brahmarandhratvaṃ laṃkāram tu lalāṭayoḥ"
    ],
-   "inference": "Syllable kṣa relates to brahmarandhra state, while syllable laṃ is in the forehead.",
+   "inference": "Kṣa is linked to brahmarandhra-state and laṃ to the forehead.",
    "uncertainties": [
-    "exact relation between kṣa and brahmarandhra"
+    "exact syntactic pairing"
    ],
-   "plain_english": "Syllable kṣa is brahmarandhra state, and syllable laṃ is in the forehead."
+   "plain_english": "The syllable kṣa is brahmarandhra-state, and the syllable laṃ is in the forehead."
   },
   {
    "verse": 234,
@@ -434,19 +420,19 @@
      "surface": "kaṇṭha",
      "gloss": "in-throat-region",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "deśe",
      "gloss": "region",
      "grounds": "token as given",
-     "morph": "n.loc.sg"
+     "morph": "m.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "śakāraṃ",
@@ -464,20 +450,18 @@
      "surface": "tadā",
      "gloss": "then",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     }
    ],
-   "question": "Where are syllables ṣa and śa located?",
+   "question": "Where are the syllables ṣa and śa placed?",
    "premises": [
-    "ṣakāraṃ kaṇṭha deśe tu places ṣa in throat region",
-    "śakāraṃ hṛdaye places śa in heart",
-    "tadā means then"
+    "ṣakāraṃ kaṇṭha deśe tu śakāraṃ hṛdaye tadā"
    ],
-   "inference": "Syllable ṣa is in the throat region and syllable śa is in the heart.",
+   "inference": "Ṣa is in the throat region and śa is in the heart.",
    "uncertainties": [
-    "whether tadā indicates sequence"
+    "exact temporal force of tadā"
    ],
-   "plain_english": "Syllable ṣa is in the throat region, and syllable śa is in the heart."
+   "plain_english": "The syllable ṣa is in the throat region, and the syllable śa is in the heart."
   },
   {
    "verse": 235,
@@ -486,7 +470,7 @@
      "surface": "sthāna",
      "gloss": "place",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "n.nom.sg"
     },
     {
      "surface": "cakrāḥ",
@@ -498,19 +482,19 @@
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "saṃproktāḥ",
      "gloss": "declared",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "m.nom.pl.part"
     },
     {
      "surface": "teṣāṃ",
      "gloss": "of-them",
      "grounds": "token as given",
-     "morph": "pron.gen.pl"
+     "morph": "m.gen.pl"
     },
     {
      "surface": "dhyānaṃ",
@@ -522,24 +506,22 @@
      "surface": "śṛṇu",
      "gloss": "hear",
      "grounds": "token as given",
-     "morph": "v.2.sg.imp"
+     "morph": "2.sg.act.imp + root śru"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
      "grounds": "token as given",
-     "morph": "n.voc.sg"
+     "morph": "f.voc.sg"
     }
    ],
    "question": "What is declared about the places and wheels, and what should be heard?",
    "premises": [
-    "sthāna cakrāḥ tu saṃproktāḥ declares places and wheels",
-    "teṣāṃ dhyānaṃ is their meditation",
-    "śṛṇu priye asks beloved to hear"
+    "sthāna cakrāḥ tu saṃproktāḥ teṣāṃ dhyānaṃ śṛṇu priye"
    ],
-   "inference": "The places and wheels are declared, and their meditation is to be heard.",
+   "inference": "The places and wheels are declared, and their meditation should be heard.",
    "uncertainties": [
-    "whether sthāna and cakra are separate lists"
+    "exact relation of sthāna and cakrāḥ"
    ],
    "plain_english": "The places and wheels are declared; hear their meditation, O beloved."
   },
@@ -550,13 +532,13 @@
      "surface": "aṣṭa",
      "gloss": "eight",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "āraṃ",
      "gloss": "spoked",
      "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "paṅkajaṃ",
@@ -568,35 +550,34 @@
      "surface": "divyaṃ",
      "gloss": "divine",
      "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "prathama",
      "gloss": "by-first",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "aṣṭaka",
      "gloss": "octad",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "bhūṣitam",
      "gloss": "adorned",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "n.acc.sg.part"
     }
    ],
    "question": "How is the divine eight-spoked lotus adorned?",
    "premises": [
-    "aṣṭa āraṃ paṅkajaṃ divyaṃ is divine eight-spoked lotus",
-    "prathama aṣṭaka bhūṣitam means adorned by first octad"
+    "aṣṭa āraṃ paṅkajaṃ divyaṃ prathama aṣṭaka bhūṣitam"
    ],
    "inference": "The divine eight-spoked lotus is adorned by the first octad.",
    "uncertainties": [
-    "whether prathama modifies octad or adornment"
+    "exact sense of prathama aṣṭaka"
    ],
    "plain_english": "The divine eight-spoked lotus is adorned by the first octad."
   },
@@ -607,61 +588,60 @@
      "surface": "abhyāsāt",
      "gloss": "through-practice",
      "grounds": "token as given",
-     "morph": "n.abl.sg"
+     "morph": "m.abl.sg"
     },
     {
      "surface": "sama",
      "gloss": "with-equal",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "cittaḥ",
      "gloss": "mind",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "grāma",
      "gloss": "village",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "m.acc.sg"
     },
     {
      "surface": "dharmañ",
      "gloss": "dharma",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "varjayet",
      "gloss": "should-abandon",
      "grounds": "token as given",
-     "morph": "v.3.sg.opt"
+     "morph": "3.sg.act.opt + root vṛj"
     }
    ],
-   "question": "What should an equal-minded practitioner abandon?",
+   "question": "What should one abandon through practice with an equal mind?",
    "premises": [
-    "abhyāsāt sama cittaḥ tu is through practice equal mind",
-    "grāma dharmañ ca varjayet means abandon village dharma"
+    "abhyāsāt sama cittaḥ tu grāma dharmañ ca varjayet"
    ],
-   "inference": "Through practice, with equal mind, one should abandon village dharma.",
+   "inference": "Through practice with an equal mind, one should abandon village dharma.",
    "uncertainties": [
-    "whether grāma dharma means social duty"
+    "exact scope of grāma dharma"
    ],
-   "plain_english": "Through practice, with equal mind, one should abandon village dharma."
+   "plain_english": "Through practice with an equal mind, one should abandon village dharma."
   },
   {
    "verse": 238,
@@ -670,13 +650,13 @@
      "surface": "dūra",
      "gloss": "distant",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "āśravaṇa",
      "gloss": "hearing",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "vijñānaṃ",
@@ -688,38 +668,36 @@
      "surface": "pāśa",
      "gloss": "bond",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "m.nom.sg"
     },
     {
      "surface": "stobham",
      "gloss": "paralysis",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
      "grounds": "token as given",
-     "morph": "n.voc.sg"
+     "morph": "f.voc.sg"
     }
    ],
-   "question": "What knowledge and bond paralysis are mentioned for the beloved?",
+   "question": "What knowledge and bond-paralysis are described as distant hearing?",
    "premises": [
-    "dūra āśravaṇa vijñānaṃ is distant hearing knowledge",
-    "pāśa stobham is bond paralysis",
-    "tathā priye addresses beloved"
+    "dūra āśravaṇa vijñānaṃ pāśa stobham tathā priye"
    ],
-   "inference": "Distant hearing knowledge and bond paralysis are mentioned, likewise, O beloved.",
+   "inference": "Distant hearing, knowledge, bond, and paralysis are mentioned, O beloved.",
    "uncertainties": [
-    "exact relation between knowledge and paralysis"
+    "exact syntactic grouping"
    ],
-   "plain_english": "Distant hearing knowledge and bond paralysis are likewise mentioned, O beloved."
+   "plain_english": "Distant hearing, knowledge, bond, and paralysis are mentioned, O beloved."
   },
   {
    "verse": 239,
@@ -734,19 +712,19 @@
      "surface": "tathā",
      "gloss": "likewise",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "devi",
      "gloss": "o-goddess",
      "grounds": "token as given",
-     "morph": "n.voc.sg"
+     "morph": "f.voc.sg"
     },
     {
      "surface": "samāsāt",
      "gloss": "in-brief",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "parivartanam",
@@ -755,16 +733,15 @@
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What transformation and immortality are stated in brief?",
+   "question": "What is briefly said about immortality and transformation?",
    "premises": [
-    "amaratvam is immortality",
-    "tathā devi samāsāt parivartanam states transformation in brief"
+    "amaratvam tathā devi samāsāt parivartanam"
    ],
-   "inference": "Immortality and transformation are stated in brief, O goddess.",
+   "inference": "Immortality and transformation are briefly stated, O goddess.",
    "uncertainties": [
-    "whether parivartanam modifies amaratvam"
+    "exact relation between the two nouns"
    ],
-   "plain_english": "Immortality and transformation are stated in brief, O goddess."
+   "plain_english": "Immortality and transformation are briefly stated, O goddess."
   },
   {
    "verse": 240,
@@ -773,13 +750,13 @@
      "surface": "dvitīyam",
      "gloss": "second",
      "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "patram",
@@ -791,37 +768,36 @@
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "teja",
      "gloss": "by-fire",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "dhyāna",
      "gloss": "meditation",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "n.nom.sg"
     },
     {
      "surface": "sudīpitam",
      "gloss": "well-illuminated",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "n.nom.sg.part"
     }
    ],
-   "question": "How is the second eight-petaled wheel well illuminated?",
+   "question": "How is the second eight-petaled form described?",
    "premises": [
-    "dvitīyam aṣṭa patram tu is second eight-petaled",
-    "teja dhyāna sudīpitam means well illuminated by fire meditation"
+    "dvitīyam aṣṭa patram tu teja dhyāna sudīpitam"
    ],
-   "inference": "The second eight-petaled wheel is well illuminated by fire meditation.",
+   "inference": "The second eight-petaled form is well illuminated by fire meditation.",
    "uncertainties": [
-    "whether teja modifies dhyāna or illumination"
+    "exact compound grouping"
    ],
-   "plain_english": "The second eight-petaled wheel is well illuminated by fire meditation."
+   "plain_english": "The second eight-petaled form is well illuminated by fire meditation."
   },
   {
    "verse": 241,
@@ -830,13 +806,13 @@
      "surface": "kurute",
      "gloss": "he-makes",
      "grounds": "token as given",
-     "morph": "v.3.sg.pres"
+     "morph": "3.sg.act.pres + root kṛ"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "rūpaṃ",
@@ -848,19 +824,19 @@
      "surface": "dhyāna",
      "gloss": "in-meditation",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "eka",
      "gloss": "one-pointed",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "gata",
      "gloss": "gone",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "n.nom.sg.part"
     },
     {
      "surface": "cetasaḥ",
@@ -869,16 +845,15 @@
      "morph": "n.gen.sg"
     }
    ],
-   "question": "What does one-pointed meditation make in many forms?",
+   "question": "What does one make in many ways when the mind is one-pointed in meditation?",
    "premises": [
-    "kurute bahudhā rūpaṃ means makes form in many ways",
-    "dhyāna eka gata cetasaḥ means mind gone to one-pointed meditation"
+    "kurute bahudhā rūpaṃ dhyāna eka gata cetasaḥ"
    ],
-   "inference": "One whose mind has gone to one-pointed meditation makes form in many ways.",
+   "inference": "One makes form in many ways when the mind has gone to one-pointed meditation.",
    "uncertainties": [
-    "whether kurute is reflexive or general"
+    "exact sense of gata"
    ],
-   "plain_english": "One whose mind is absorbed in one-pointed meditation makes form in many ways."
+   "plain_english": "One makes form in many ways when the mind is one-pointed in meditation."
   },
   {
    "verse": 242,
@@ -887,25 +862,25 @@
      "surface": "kruddhaḥ",
      "gloss": "when-angry",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "m.nom.sg.part"
     },
     {
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "saṃharet",
      "gloss": "he-destroys",
      "grounds": "token as given",
-     "morph": "v.3.sg.opt"
+     "morph": "3.sg.act.opt + root hṛ"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
      "grounds": "token as given",
-     "morph": "pron.acc.sg"
+     "morph": "n.acc.sg"
     },
     {
      "surface": "trailokyaṃ",
@@ -917,32 +892,30 @@
      "surface": "sa",
      "gloss": "with-moving",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "cara",
      "gloss": "and-unmoving",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "acaram",
      "gloss": "unmoving",
      "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What does an angry being destroy in the triple world?",
+   "question": "What does an angry one destroy?",
    "premises": [
-    "kruddhaḥ tu saṃharet means when angry he destroys",
-    "sarvaṃ trailokyaṃ is all triple world",
-    "sa cara acaram includes moving and unmoving"
+    "kruddhaḥ tu saṃharet sarvaṃ trailokyaṃ sa cara acaram"
    ],
-   "inference": "When angry, he destroys all the triple world, moving and unmoving.",
+   "inference": "When angry, one destroys all the triple world, moving and unmoving.",
    "uncertainties": [
-    "whether sa cara acaram is adverbial"
+    "exact force of sa cara acaram"
    ],
-   "plain_english": "When angry, he destroys all the triple world, moving and unmoving."
+   "plain_english": "When angry, one destroys all the triple world, moving and unmoving."
   },
   {
    "verse": 243,
@@ -951,53 +924,52 @@
      "surface": "tṛtīyam",
      "gloss": "third",
      "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahā",
      "gloss": "great",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "n.nom.sg"
     },
     {
      "surface": "nava",
      "gloss": "nine",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "tattva",
      "gloss": "tattva",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "n.nom.sg"
     },
     {
      "surface": "pramocakaḥ",
      "gloss": "liberator",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "m.nom.sg"
     }
    ],
    "question": "What is the third great wheel said to liberate?",
    "premises": [
-    "tṛtīyam tu mahā cakraṃ is third great wheel",
-    "nava tattva pramocakaḥ means liberator of nine tattvas"
+    "tṛtīyam tu mahā cakraṃ nava tattva pramocakaḥ"
    ],
-   "inference": "The third great wheel is the liberator of nine tattvas.",
+   "inference": "The third great wheel liberates the nine tattvas.",
    "uncertainties": [
-    "whether pramocakaḥ modifies wheel or agent"
+    "exact relation of nava tattva"
    ],
    "plain_english": "The third great wheel liberates the nine tattvas."
   },
@@ -1008,31 +980,31 @@
      "surface": "balī",
      "gloss": "wrinkle",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "m.nom.sg"
     },
     {
      "surface": "palita",
      "gloss": "grey-hair",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "n.nom.sg"
     },
     {
      "surface": "nāśam",
      "gloss": "destruction",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "sudūrāt",
      "gloss": "from-very-far",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "darśanam",
@@ -1044,19 +1016,18 @@
      "surface": "tathā",
      "gloss": "likewise",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     }
    ],
-   "question": "What destruction of wrinkles and grey hair is mentioned?",
+   "question": "What destruction and seeing are mentioned from very far?",
    "premises": [
-    "balī palita nāśam tu is destruction of wrinkles and grey hair",
-    "sudūrāt darśanam tathā means seeing from very far likewise"
+    "balī palita nāśam tu sudūrāt darśanam tathā"
    ],
-   "inference": "Destruction of wrinkles and grey hair, and seeing from very far, are mentioned.",
+   "inference": "Wrinkle and grey-hair destruction, and seeing from very far, are mentioned.",
    "uncertainties": [
-    "whether darśanam is result or separate power"
+    "exact syntactic grouping"
    ],
-   "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, are likewise mentioned."
+   "plain_english": "Wrinkle and grey-hair destruction, and seeing from very far, are mentioned."
   },
   {
    "verse": 245,
@@ -1065,13 +1036,13 @@
      "surface": "ekānte",
      "gloss": "in-solitude",
      "grounds": "token as given",
-     "morph": "n.loc.sg"
+     "morph": "(indecl.)"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "rūpaṃ",
@@ -1083,7 +1054,7 @@
      "surface": "kuru",
      "gloss": "make",
      "grounds": "token as given",
-     "morph": "v.2.sg.imp"
+     "morph": "2.sg.act.imp + root kṛ"
     },
     {
      "surface": "dhyānañ",
@@ -1095,25 +1066,24 @@
      "surface": "ca",
      "gloss": "and",
      "grounds": "token as given",
-     "morph": "conj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent-on-that",
      "grounds": "token as given",
-     "morph": "adj.nom.sg"
+     "morph": "m.nom.sg"
     }
    ],
    "question": "What should one make in solitude while intent on meditation?",
    "premises": [
-    "ekānte bahudhā rūpaṃ kuru means make form in many ways in solitude",
-    "dhyānañ ca tatparaḥ means and meditation intent on that"
+    "ekānte bahudhā rūpaṃ kuru dhyānañ ca tatparaḥ"
    ],
-   "inference": "In solitude, one should make form in many ways, being intent on meditation.",
+   "inference": "In solitude, make form in many ways and meditation, being intent on that.",
    "uncertainties": [
-    "whether tatparaḥ modifies kuru or dhyāna"
+    "exact object of tatparaḥ"
    ],
-   "plain_english": "In solitude, make form in many ways, being intent on meditation."
+   "plain_english": "In solitude, make form in many ways and meditation, being intent on that."
   },
   {
    "verse": 246,
@@ -1122,7 +1092,7 @@
      "surface": "kurute",
      "gloss": "he-makes",
      "grounds": "token as given",
-     "morph": "v.3.sg.pres"
+     "morph": "3.sg.act.pres + root kṛ"
     },
     {
      "surface": "amaratvaṃ",
@@ -1134,37 +1104,36 @@
      "surface": "hi",
      "gloss": "indeed",
      "grounds": "token as given",
-     "morph": "part.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "satata",
      "gloss": "in-constant",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "m.nom.sg"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent",
      "grounds": "token as given",
-     "morph": "adj.nom.sg"
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "What does constant practice make for one intent on it?",
+   "question": "What does one make through constant practice while intent?",
    "premises": [
-    "kurute amaratvaṃ hi means indeed makes immortality",
-    "satata abhyāsa tatparaḥ means constant practice intent"
+    "kurute amaratvaṃ hi satata abhyāsa tatparaḥ"
    ],
-   "inference": "Constant practice indeed makes immortality for one intent on it.",
+   "inference": "One makes immortality through constant practice while intent.",
    "uncertainties": [
-    "whether tatparaḥ is nominative subject"
+    "exact object of tatparaḥ"
    ],
-   "plain_english": "Indeed, constant practice makes immortality for one intent on it."
+   "plain_english": "One makes immortality through constant practice while intent."
   },
   {
    "verse": 247,
@@ -1173,19 +1142,19 @@
      "surface": "divasāt",
      "gloss": "by-day",
      "grounds": "token as given",
-     "morph": "n.abl.sg"
+     "morph": "m.abl.sg"
     },
     {
      "surface": "nāśanena",
      "gloss": "non-eating",
      "grounds": "token as given",
-     "morph": "n.inst.sg"
+     "morph": "n.ins.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
      "grounds": "token as given",
-     "morph": "part.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "vayo",
@@ -1197,25 +1166,24 @@
      "surface": "mṛtyuṃ",
      "gloss": "death",
      "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "gamiṣyate",
      "gloss": "will-go",
      "grounds": "token as given",
-     "morph": "v.3.sg.fut"
+     "morph": "3.sg.mid.fut + root gam"
     }
    ],
-   "question": "What happens to age and death by day through non-eating?",
+   "question": "What will go through non-eating by day?",
    "premises": [
-    "divasāt nāśanena eva means by day through non-eating indeed",
-    "vayo mṛtyuṃ gamiṣyate means age and death will go"
+    "divasāt nāśanena eva vayo mṛtyuṃ gamiṣyate"
    ],
-   "inference": "By day, through non-eating, age and death will go away.",
+   "inference": "Age and death will go through non-eating by day.",
    "uncertainties": [
-    "whether divasāt modifies non-eating or result"
+    "exact relation of vayo and mṛtyuṃ"
    ],
-   "plain_english": "By day, through non-eating, age and death will pass away."
+   "plain_english": "Age and death will go through non-eating by day."
   },
   {
    "verse": 248,
@@ -1224,62 +1192,60 @@
      "surface": "satata",
      "gloss": "by-constant",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "m.nom.sg"
     },
     {
      "surface": "yogena",
      "gloss": "yoga",
      "grounds": "token as given",
-     "morph": "n.inst.sg"
+     "morph": "m.ins.sg"
     },
     {
      "surface": "dvi",
      "gloss": "two",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "aṣṭa",
      "gloss": "times-eight",
      "grounds": "token as given",
-     "morph": "num.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "varṣa",
      "gloss": "year",
      "grounds": "token as given",
-     "morph": "n.indecl."
+     "morph": "n.nom.sg"
     },
     {
      "surface": "ākṛtiḥ",
      "gloss": "form",
      "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "morph": "f.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "he-becomes",
      "grounds": "token as given",
-     "morph": "v.3.sg.opt"
+     "morph": "3.sg.act.opt + root bhū"
     }
    ],
-   "question": "What form results from constant yoga practice over sixteen years?",
+   "question": "What form becomes through constant practice of yoga for sixteen years?",
    "premises": [
-    "satata abhyāsa yogena means by constant practice of yoga",
-    "dvi aṣṭa varṣa is sixteen years",
-    "ākṛtiḥ bhavet means form becomes"
+    "satata abhyāsa yogena dvi aṣṭa varṣa ākṛtiḥ bhavet"
    ],
-   "inference": "By constant yoga practice, one's form becomes transformed over sixteen years.",
+   "inference": "Through constant practice of yoga for sixteen years, one becomes a form.",
    "uncertainties": [
-    "whether dvi aṣṭa means sixteen or two eights"
+    "exact value of dvi aṣṭa"
    ],
-   "plain_english": "By constant yoga practice, one's form becomes transformed over sixteen years."
+   "plain_english": "Through constant practice of yoga for sixteen years, one becomes a form."
   },
   {
    "verse": 249,
@@ -1288,7 +1254,7 @@
      "surface": "dhūmra",
      "gloss": "smoke",
      "grounds": "token as given",
-     "morph": "adj.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "varṇaṃ",
@@ -1300,13 +1266,13 @@
      "surface": "sadā",
      "gloss": "always",
      "grounds": "token as given",
-     "morph": "adv.indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "cintya",
      "gloss": "contemplate",
      "grounds": "token as given",
-     "morph": "part.past"
+     "morph": "n.nom.sg.ger"
     },
     {
      "surface": "trailokyaṃ",
@@ -1318,24 +1284,22 @@
      "surface": "cālayet",
      "gloss": "he-shakes",
      "grounds": "token as given",
-     "morph": "v.3.sg.opt"
+     "morph": "3.sg.act.opt + root cal"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
      "grounds": "token as given",
-     "morph": "n.voc.sg"
+     "morph": "f.voc.sg"
     }
    ],
    "question": "What happens when one always contemplates smoke-colored form?",
    "premises": [
-    "dhūmra varṇaṃ sadā cintya means always contemplate smoke-colored",
-    "trailokyaṃ cālayet means shakes triple world",
-    "priye addresses beloved"
+    "dhūmra varṇaṃ sadā cintya trailokyaṃ cālayet priye"
    ],
    "inference": "Always contemplating smoke-colored form shakes the triple world, O beloved.",
    "uncertainties": [
-    "whether dhūmra varṇaṃ is object of cintya"
+    "exact object of cintya"
    ],
    "plain_english": "Always contemplating smoke-colored form shakes the triple world, O beloved."
   }

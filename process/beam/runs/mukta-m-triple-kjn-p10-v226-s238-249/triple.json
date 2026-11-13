@@ -7,57 +7,56 @@
     {
      "surface": "dūra",
      "gloss": "distant",
-     "grounds": "adjective modifying hearing-knowledge",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint distant",
+     "morph": "indecl."
     },
     {
      "surface": "āśravaṇa",
      "gloss": "hearing",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint hearing",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "vijñānaṃ",
      "gloss": "knowledge",
-     "grounds": "neuter nominative",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint knowledge",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "pāśa",
      "gloss": "bond",
-     "grounds": "masculine nominative",
+     "grounds": "legacy hint bond",
      "morph": "m.nom.sg"
     },
     {
      "surface": "stobham",
      "gloss": "paralysis",
-     "grounds": "accusative object",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint paralysis",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint likewise",
+     "morph": "indecl."
     },
     {
      "surface": "priye",
-     "gloss": "o-beloved",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "gloss": "beloved",
+     "grounds": "legacy hint o-beloved",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "Which effects does distant hearing knowledge produce regarding bonds and paralysis?",
+   "question": "Which effects follow from distant hearing knowledge in this practice?",
    "premises": [
-    "distant hearing knowledge is named",
-    "bond and paralysis are named",
-    "beloved is addressed"
+    "distant hearing knowledge binds",
+    "paralysis follows likewise"
    ],
-   "inference": "The verse links distant hearing knowledge with bond and paralysis.",
+   "inference": "Distant hearing knowledge produces bond and paralysis.",
    "uncertainties": [
-    "exact syntactic relation is not explicit"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "Distant hearing knowledge, bond, paralysis, likewise, O beloved."
+   "plain_english": "Distant hearing knowledge brings bond and paralysis, likewise, beloved."
   },
   {
    "verse": 239,
@@ -65,45 +64,44 @@
     {
      "surface": "amaratvam",
      "gloss": "immortality",
-     "grounds": "neuter nominative",
+     "grounds": "legacy hint immortality",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint likewise",
+     "morph": "indecl."
     },
     {
      "surface": "devi",
-     "gloss": "o-goddess",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "gloss": "goddess",
+     "grounds": "legacy hint o-goddess",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "samāsāt",
      "gloss": "in-brief",
-     "grounds": "ablative adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint in-brief",
+     "morph": "indecl."
     },
     {
      "surface": "parivartanam",
      "gloss": "transformation",
-     "grounds": "neuter nominative",
+     "grounds": "legacy hint transformation",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What brief transformation and immortality are declared to the goddess?",
+   "question": "What brief transformation is connected with immortality?",
    "premises": [
-    "immortality is named",
-    "transformation is named",
-    "goddess is addressed"
+    "immortality is stated",
+    "transformation is brief"
    ],
-   "inference": "The verse states immortality and transformation in brief.",
+   "inference": "Immortality is linked to brief transformation.",
    "uncertainties": [
-    "agent of transformation is unspecified"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "Immortality, likewise, O goddess, in brief, transformation."
+   "plain_english": "Immortality, likewise, goddess, in brief, transformation."
   },
   {
    "verse": 240,
@@ -111,57 +109,56 @@
     {
      "surface": "dvitīyam",
      "gloss": "second",
-     "grounds": "ordinal adjective",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint second",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "numeral",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint eight",
+     "morph": "num.indecl."
     },
     {
      "surface": "patram",
      "gloss": "petaled",
-     "grounds": "adjective",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint petaled",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint and",
+     "morph": "indecl."
     },
     {
      "surface": "teja",
      "gloss": "by-fire",
-     "grounds": "instrumental",
-     "morph": "n.ins.sg"
+     "grounds": "legacy hint by-fire",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "dhyāna",
      "gloss": "meditation",
-     "grounds": "compound member",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint meditation",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "sudīpitam",
      "gloss": "well-illuminated",
-     "grounds": "past participle",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint well-illuminated",
+     "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "How is the second eight-petaled wheel illuminated by fire meditation?",
+   "question": "How is the second eight-petaled wheel illuminated?",
    "premises": [
-    "second wheel is named",
-    "eight petals are named",
+    "second wheel has eight petals",
     "fire meditation illuminates it"
    ],
-   "inference": "The second wheel is eight-petaled and well illuminated by fire meditation.",
+   "inference": "The second wheel is well illuminated by fire meditation.",
    "uncertainties": [
-    "exact ritual context is not explicit"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "The second, eight-petaled, and by fire meditation well-illuminated."
+   "plain_english": "The second eight-petaled wheel is well illuminated by fire meditation."
   },
   {
    "verse": 241,
@@ -169,57 +166,56 @@
     {
      "surface": "kurute",
      "gloss": "he-makes",
-     "grounds": "third person singular",
-     "morph": "3.sg.act-pres + root kṛ"
+     "grounds": "legacy hint he-makes",
+     "morph": "3.sg.act.pres+root kṛ"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint in-many-ways",
+     "morph": "indecl."
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "neuter accusative",
+     "grounds": "legacy hint form",
      "morph": "n.acc.sg"
     },
     {
      "surface": "dhyāna",
      "gloss": "in-meditation",
-     "grounds": "locative",
+     "grounds": "legacy hint in-meditation",
      "morph": "n.loc.sg"
     },
     {
      "surface": "eka",
      "gloss": "one-pointed",
-     "grounds": "adjective",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint one-pointed",
+     "morph": "adj.nom.sg.m"
     },
     {
      "surface": "gata",
      "gloss": "gone",
-     "grounds": "past participle",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint gone",
+     "morph": "adj.nom.sg.m"
     },
     {
      "surface": "cetasaḥ",
      "gloss": "mind",
-     "grounds": "genitive",
-     "morph": "m.gen.sg"
+     "grounds": "legacy hint mind",
+     "morph": "n.gen.sg"
     }
    ],
-   "question": "What form does the one-pointed mind in meditation make in many ways?",
+   "question": "What happens when a one-pointed mind meditates?",
    "premises": [
-    "he makes form",
-    "in many ways",
-    "mind is one-pointed in meditation"
+    "meditation makes form",
+    "mind becomes one-pointed"
    ],
-   "inference": "A one-pointed meditative mind produces varied forms.",
+   "inference": "Meditation produces many forms for a one-pointed mind.",
    "uncertainties": [
-    "subject identity is implicit"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "He makes form in many ways, the mind gone one-pointed in meditation."
+   "plain_english": "He makes form in many ways in meditation, mind gone one-pointed."
   },
   {
    "verse": 242,
@@ -227,61 +223,60 @@
     {
      "surface": "kruddhaḥ",
      "gloss": "when-angry",
-     "grounds": "nominative participle",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint when-angry",
+     "morph": "adj.nom.sg.m"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint and",
+     "morph": "indecl."
     },
     {
      "surface": "saṃharet",
      "gloss": "he-destroys",
-     "grounds": "third person singular optative",
-     "morph": "3.sg.act-opt + root saṃhṛ"
+     "grounds": "legacy hint he-destroys",
+     "morph": "3.sg.act.opt+root saṃhṛ"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "neuter accusative",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint all",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "neuter accusative",
+     "grounds": "legacy hint triple-world",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sa",
      "gloss": "with-moving",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint with-moving",
+     "morph": "adj.nom.sg.m"
     },
     {
      "surface": "cara",
      "gloss": "and-unmoving",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint and-unmoving",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "acaram",
      "gloss": "unmoving",
-     "grounds": "neuter accusative",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint unmoving",
+     "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "What does an angry being destroy across the triple world?",
+   "question": "What does an angry practitioner destroy?",
    "premises": [
-    "anger is stated",
-    "destruction is stated",
-    "triple world is stated"
+    "anger destroys all",
+    "triple world includes moving and unmoving"
    ],
-   "inference": "Anger destroys all of the triple world, moving and unmoving.",
+   "inference": "Anger destroys the entire triple world, moving and unmoving.",
    "uncertainties": [
-    "exact scope of moving and unmoving is implicit"
+    "legacy glosses are approximate"
    ],
    "plain_english": "When angry, he destroys all the triple world, moving and unmoving."
   },
@@ -291,57 +286,56 @@
     {
      "surface": "tṛtīyam",
      "gloss": "third",
-     "grounds": "ordinal adjective",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint third",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint and",
+     "morph": "indecl."
     },
     {
      "surface": "mahā",
      "gloss": "great",
-     "grounds": "compound member",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint great",
+     "morph": "adj.indecl."
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "neuter nominative",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint wheel",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "nava",
      "gloss": "nine",
-     "grounds": "numeral",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint nine",
+     "morph": "num.indecl."
     },
     {
      "surface": "tattva",
      "gloss": "tattva",
-     "grounds": "compound member",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint tattva",
+     "morph": "n.indecl."
     },
     {
      "surface": "pramocakaḥ",
      "gloss": "liberator",
-     "grounds": "nominative agent",
+     "grounds": "legacy hint liberator",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What is the third great wheel that liberates through nine tattvas?",
+   "question": "What is the third great wheel said to liberate?",
    "premises": [
-    "third wheel is named",
-    "great wheel is named",
+    "third wheel is great",
     "nine tattvas liberate"
    ],
    "inference": "The third great wheel liberates through nine tattvas.",
    "uncertainties": [
-    "exact tattva list is not given"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "The third, and great wheel, liberator through nine tattvas."
+   "plain_english": "The third great wheel liberates the nine tattvas."
   },
   {
    "verse": 244,
@@ -349,57 +343,56 @@
     {
      "surface": "balī",
      "gloss": "wrinkle",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint wrinkle",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "palita",
      "gloss": "grey-hair",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint grey-hair",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "nāśam",
      "gloss": "destruction",
-     "grounds": "accusative object",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint destruction",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "particle",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint and",
+     "morph": "indecl."
     },
     {
      "surface": "sudūrāt",
      "gloss": "from-very-far",
-     "grounds": "ablative adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint from-very-far",
+     "morph": "indecl."
     },
     {
      "surface": "darśanam",
      "gloss": "seeing",
-     "grounds": "neuter nominative",
+     "grounds": "legacy hint seeing",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "indeclinable",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint likewise",
+     "morph": "indecl."
     }
    ],
-   "question": "What destruction of wrinkles and grey hair comes from seeing very far?",
+   "question": "What bodily signs are destroyed from very far?",
    "premises": [
-    "wrinkles are named",
-    "grey hair is named",
-    "seeing from very far is named"
+    "wrinkles and grey hair destroyed",
+    "seeing occurs from very far"
    ],
-   "inference": "Seeing from very far destroys wrinkles and grey hair.",
+   "inference": "Wrinkles and grey hair are destroyed, with seeing from afar.",
    "uncertainties": [
-    "causal mechanism is not explicit"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, likewise."
+   "plain_english": "Wrinkles and grey hair are destroyed, seeing from very far likewise."
   },
   {
    "verse": 245,
@@ -407,57 +400,56 @@
     {
      "surface": "ekānte",
      "gloss": "in-solitude",
-     "grounds": "locative adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint in-solitude",
+     "morph": "indecl."
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint in-many-ways",
+     "morph": "indecl."
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "neuter accusative",
+     "grounds": "legacy hint form",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kuru",
      "gloss": "make",
-     "grounds": "second person singular imperative",
-     "morph": "2.sg.act-imp + root kṛ"
+     "grounds": "legacy hint make",
+     "morph": "2.sg.act.imp+root kṛ"
     },
     {
      "surface": "dhyānañ",
      "gloss": "meditation",
-     "grounds": "neuter accusative",
+     "grounds": "legacy hint meditation",
      "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "particle",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint and",
+     "morph": "indecl."
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent-on-that",
-     "grounds": "nominative adjective",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint intent-on-that",
+     "morph": "adj.nom.sg.m"
     }
    ],
-   "question": "What should one make in solitude while intent on meditation?",
+   "question": "How should one make forms in meditation?",
    "premises": [
-    "solitude is named",
-    "form in many ways is named",
-    "meditation is named"
+    "make form in solitude",
+    "meditation and intent follow"
    ],
-   "inference": "One should make varied forms in solitude while intent on meditation.",
+   "inference": "One makes many forms in solitude through meditation and intent.",
    "uncertainties": [
-    "exact meditative object is implicit"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "In solitude make form in many ways, and meditation, intent on that."
+   "plain_english": "In solitude make form in many ways, meditation, and be intent on that."
   },
   {
    "verse": 246,
@@ -465,51 +457,50 @@
     {
      "surface": "kurute",
      "gloss": "he-makes",
-     "grounds": "third person singular",
-     "morph": "3.sg.act-pres + root kṛ"
+     "grounds": "legacy hint he-makes",
+     "morph": "3.sg.act.pres+root kṛ"
     },
     {
      "surface": "amaratvaṃ",
      "gloss": "immortality",
-     "grounds": "neuter accusative",
+     "grounds": "legacy hint immortality",
      "morph": "n.acc.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "particle",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
     },
     {
      "surface": "satata",
      "gloss": "in-constant",
-     "grounds": "adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint in-constant",
+     "morph": "indecl."
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint practice",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent",
-     "grounds": "nominative adjective",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint intent",
+     "morph": "adj.nom.sg.m"
     }
    ],
-   "question": "What does constant practice make for one intent on it?",
+   "question": "What constant practice produces immortality?",
    "premises": [
     "he makes immortality",
-    "constant practice is named",
-    "intentness is named"
+    "constant practice with intent"
    ],
-   "inference": "Constant practice makes immortality for one intent on it.",
+   "inference": "Constant practice with intent produces immortality.",
    "uncertainties": [
-    "practice type is not specified"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "He makes immortality indeed, constant practice, intent."
+   "plain_english": "He makes immortality indeed through constant practice, intent."
   },
   {
    "verse": 247,
@@ -517,51 +508,50 @@
     {
      "surface": "divasāt",
      "gloss": "by-day",
-     "grounds": "ablative adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint by-day",
+     "morph": "indecl."
     },
     {
      "surface": "nāśanena",
      "gloss": "non-eating",
-     "grounds": "instrumental",
-     "morph": "n.ins.sg"
+     "grounds": "legacy hint non-eating",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "particle",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
     },
     {
      "surface": "vayo",
      "gloss": "age",
-     "grounds": "neuter nominative",
+     "grounds": "legacy hint age",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mṛtyuṃ",
      "gloss": "death",
-     "grounds": "accusative object",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint death",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "gamiṣyate",
      "gloss": "will-go",
-     "grounds": "third person singular future",
-     "morph": "3.sg.act-fut + root gam"
+     "grounds": "legacy hint will-go",
+     "morph": "3.sg.mid.fut+root gam"
     }
    ],
    "question": "What happens to age and death through non-eating by day?",
    "premises": [
-    "non-eating by day is named",
-    "age is named",
-    "death is named"
+    "non-eating by day",
+    "age and death will go"
    ],
    "inference": "Non-eating by day removes age and death.",
    "uncertainties": [
-    "exact temporal regimen is not explicit"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "By day, by non-eating indeed, age and death will go."
+   "plain_english": "By day through non-eating indeed age and death will go."
   },
   {
    "verse": 248,
@@ -569,63 +559,62 @@
     {
      "surface": "satata",
      "gloss": "by-constant",
-     "grounds": "adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint by-constant",
+     "morph": "indecl."
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint practice",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "yogena",
      "gloss": "yoga",
-     "grounds": "instrumental",
-     "morph": "m.ins.sg"
+     "grounds": "legacy hint yoga",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "dvi",
      "gloss": "two",
-     "grounds": "numeral",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint two",
+     "morph": "num.indecl."
     },
     {
      "surface": "aṣṭa",
      "gloss": "times-eight",
-     "grounds": "numeral",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint times-eight",
+     "morph": "num.indecl."
     },
     {
      "surface": "varṣa",
      "gloss": "year",
-     "grounds": "compound member",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint year",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "ākṛtiḥ",
      "gloss": "form",
-     "grounds": "nominative",
-     "morph": "f.nom.sg"
+     "grounds": "legacy hint form",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "he-becomes",
-     "grounds": "third person singular optative",
-     "morph": "3.sg.act-opt + root bhū"
+     "grounds": "legacy hint he-becomes",
+     "morph": "3.sg.act.opt+root bhū"
     }
    ],
    "question": "What form results from constant yoga practice for sixteen years?",
    "premises": [
-    "constant practice is named",
-    "yoga is named",
-    "sixteen years are named"
+    "constant practice by yoga",
+    "sixteen years form result"
    ],
-   "inference": "Constant yoga practice for sixteen years produces a transformed form.",
+   "inference": "Constant yoga practice for sixteen years transforms the form.",
    "uncertainties": [
-    "exact form is not described"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "By constant practice of yoga, for sixteen years, form becomes."
+   "plain_english": "By constant practice of yoga for sixteen years, the form becomes."
   },
   {
    "verse": 249,
@@ -633,57 +622,56 @@
     {
      "surface": "dhūmra",
      "gloss": "smoke",
-     "grounds": "compound member",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint smoke",
+     "morph": "adj.indecl."
     },
     {
      "surface": "varṇaṃ",
      "gloss": "colored",
-     "grounds": "neuter accusative",
+     "grounds": "legacy hint colored",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "adverb",
-     "morph": "(indecl.)"
+     "grounds": "legacy hint always",
+     "morph": "indecl."
     },
     {
      "surface": "cintya",
      "gloss": "contemplate",
-     "grounds": "gerundive",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint contemplate",
+     "morph": "adj.nom.sg.m"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "neuter accusative",
+     "grounds": "legacy hint triple-world",
      "morph": "n.acc.sg"
     },
     {
      "surface": "cālayet",
      "gloss": "he-shakes",
-     "grounds": "third person singular optative",
-     "morph": "3.sg.act-opt + root cāl"
+     "grounds": "legacy hint he-shakes",
+     "morph": "3.sg.act.opt+root cāl"
     },
     {
      "surface": "priye",
-     "gloss": "o-beloved",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "gloss": "beloved",
+     "grounds": "legacy hint o-beloved",
+     "morph": "voc.sg.f"
     }
    ],
    "question": "What happens when one always contemplates smoke-colored form?",
    "premises": [
-    "smoke-colored form is named",
-    "constant contemplation is named",
+    "smoke colored form contemplated",
     "triple world is shaken"
    ],
-   "inference": "Constant contemplation of smoke-colored form shakes the triple world.",
+   "inference": "Contemplating smoke-colored form always shakes the triple world.",
    "uncertainties": [
-    "exact contemplative technique is not explicit"
+    "legacy glosses are approximate"
    ],
-   "plain_english": "Smoke-colored, always contemplate; he shakes the triple world, O beloved."
+   "plain_english": "Smoke-colored, always contemplate; the triple world he shakes, beloved."
   }
  ]
 }

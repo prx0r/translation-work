@@ -4,7 +4,7 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "m.loc.sg",
+   "morph": "pron.loc.sg",
    "grounds": "interrogative locative"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
    "lemma": "layaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "noun"
+   "morph": "n.acc.sg.m",
+   "grounds": "accusative noun"
   },
   {
    "lemma": "yāti",
@@ -29,18 +29,18 @@
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound"
+   "morph": "pron.acc.sg.n",
+   "grounds": "compound pronoun"
   },
   {
    "lemma": "kathayasva",
    "morph": "2.sg.act-imp + root kath",
-   "grounds": "imperative"
+   "grounds": "imperative verb"
   },
   {
    "lemma": "me",
-   "morph": "m.dat.sg",
-   "grounds": "pronoun"
+   "morph": "pron.dat.sg",
+   "grounds": "dative pronoun"
   }
  ]
 }
