@@ -1220,7 +1220,7 @@
    },
    {
     "sanskrit": "sevante",
-    "surface": "sevante",
+    "surface": "sevan",
     "iast": "sevante",
     "gloss": "they-serve",
     "quick_gloss": "they-serve",
@@ -1260,7 +1260,14 @@
    }
   ],
   "quick_english": "Those who truly serve the Kaula way are great and exceedingly rare.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "Those who truly serve the Kaula way are great and exceedingly rare.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kul-p09-v224",

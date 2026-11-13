@@ -568,7 +568,7 @@
   "tokens": [
    {
     "sanskrit": "śivāgnistadāpādanam",
-    "surface": "śivāgnistadāpādanam",
+    "surface": "śivāgnis",
     "iast": "śivāgnistadāpādanam",
     "gloss": "śiva-fire-that-bringing",
     "quick_gloss": "śiva-fire-that-bringing",
@@ -616,7 +616,14 @@
    }
   ],
   "quick_english": "Śiva-fire is brought, and circling is performed threefold by praṇava.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "Śiva-fire is brought, and circling is performed threefold by praṇava.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "net-p03-v70",

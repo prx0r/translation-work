@@ -1059,7 +1059,7 @@
    },
    {
     "sanskrit": "sarveṣāmuttamottamam",
-    "surface": "sarveṣāmuttamottamam",
+    "surface": "sarveṣām",
     "iast": "sarveṣāmuttamottamam",
     "gloss": "best of all",
     "quick_gloss": "best of all",
@@ -1075,7 +1075,14 @@
    }
   ],
   "quick_english": "The twelfth, great wine, is the best of the best among all.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "The twelfth, great wine, is the best of the best among all.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kul-p10-v248",

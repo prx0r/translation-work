@@ -340,8 +340,10 @@ def main():
         else:
             stage_seed(a.work, a.song)
     stage_assemble(a.work, a.song)
+    _disp = ROOT / 'tools' / 'proof-disp.json'
     for cmd in (['tools/validate_song.py', '--song', a.song, '--work', a.work],
-                ['tools/proof_record.py', '--song', a.song, '--work', a.work, '--shastra']):
+                ['tools/proof_record.py', '--song', a.song, '--work', a.work, '--shastra']
+                + (['--disp', str(_disp.relative_to(ROOT))] if _disp.exists() else [])):
         r = subprocess.run([sys.executable] + cmd, cwd=ROOT, capture_output=True, text=True)
         tail = (r.stdout + r.stderr).strip()
         print(tail[-400:])

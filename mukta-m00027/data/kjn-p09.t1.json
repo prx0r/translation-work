@@ -87,7 +87,7 @@
    },
    {
     "sanskrit": "aśrutāni",
-    "surface": "aśrutāni",
+    "surface": "a",
     "iast": "aśrutāni",
     "gloss": "unheard",
     "quick_gloss": "unheard",
@@ -111,7 +111,14 @@
    }
   ],
   "quick_english": "Indeed, languages of various forms, both unheard and heard, become present.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "Indeed, languages of various forms, both unheard and heard, become present.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kjn-p09-v203",

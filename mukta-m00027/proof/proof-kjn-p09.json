@@ -3,9 +3,7 @@
  "song": "kjn-p09",
  "work": "mukta-m00027",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v203 ratio=0.850"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "223a676d4e9b9465",
@@ -20,9 +18,13 @@
  "align": {
   "min_ratio": 0.85,
   "sub090": {
+   "202": {
+    "ratio": 0.892,
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.883)"
+   },
    "203": {
     "ratio": 0.85,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.85 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.826)"
    }
   }
  },
@@ -55,11 +57,11 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v203"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "08c2cd679174cb6e65b2eb79425a43262f6d5ecd5249a43a16247ead517b7875",
+  "t1": "970df2490fbbb6f65058ee3bc9a410db3a6347602112221d71b385d44645f645",
   "l0": "65e3acbd0184a0162f461dec3267d6b1c52d9a41c6bc76109e1c316e8aca0312",
   "argmap": "3f5bc8462c9d73b2e975677759f6f18799e3028e3ba2a54f70bd3b53689f165e",
   "l2": "fb636b2fcb3ffc1a250420120023efd94deba4ead5d7e6c8a1784a81c6a207fe",

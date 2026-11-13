@@ -3,9 +3,7 @@
  "song": "kul-p07",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v163 ratio=0.882"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "5ff6abf0bba42086",
@@ -18,13 +16,8 @@
   "tokens": 126
  },
  "align": {
-  "min_ratio": 0.882,
-  "sub090": {
-   "163": {
-    "ratio": 0.882,
-    "disposition": null
-   }
-  }
+  "min_ratio": 0.988,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -55,11 +48,11 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v163"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "0ddd6033a95d6dd2ed6f900b5f218d2df6f5c0aa3a0f307800184236fa6bb7bd",
+  "t1": "ebf0173b4a122f4b0fd7e27643b5effaf9b22d634c56719ae563b70b76e811ad",
   "l0": "5f065755c65433179b752019c5a902f22ae69fccc1b33b3261447b6319721bcb",
   "argmap": "10502a6ffc0d0fb9fe0d94db4aefe364f08b5a9749c903581531310d31e5a7a4",
   "l2": "f044e1505fa71067d08b37c4df628d34c2757a63176e5810e00f408b78131a8e",

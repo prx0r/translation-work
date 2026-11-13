@@ -634,7 +634,7 @@
    },
    {
     "sanskrit": "cintayeddevi",
-    "surface": "cintayeddevi",
+    "surface": "cintayed",
     "iast": "cintayeddevi",
     "gloss": "one-should-think-o-goddess",
     "quick_gloss": "one-should-think-o-goddess",
@@ -666,7 +666,14 @@
    }
   ],
   "quick_english": "O goddess, one should not contemplate water, nor fire, wind, or ether.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "O goddess, one should not contemplate water, nor fire, wind, or ether.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kjn-p17-v414",

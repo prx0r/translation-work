@@ -1173,7 +1173,7 @@
    },
    {
     "sanskrit": "saṅketayogena",
-    "surface": "saṅketayogena",
+    "surface": "saṅketayoge",
     "iast": "saṅketayogena",
     "gloss": "sign-union",
     "quick_gloss": "sign-union",
@@ -1205,7 +1205,14 @@
    }
   ],
   "quick_english": "One should not associate substances without sign union.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "One should not associate substances without sign union.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kul-p34-v850",

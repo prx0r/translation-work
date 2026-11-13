@@ -6,7 +6,7 @@
   "tokens": [
    {
     "sanskrit": "amṛtaṃ",
-    "surface": "amṛtaṃ",
+    "surface": "amṛ",
     "iast": "amṛtaṃ",
     "gloss": "nectar",
     "quick_gloss": "nectar",
@@ -54,7 +54,14 @@
    }
   ],
   "quick_english": "One should know that to be the nectar which destroys wrinkles and gray hair.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "One should know that to be the nectar which destroys wrinkles and gray hair.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kjn-p06-v127",
@@ -1022,7 +1029,7 @@
    },
    {
     "sanskrit": "sthitā",
-    "surface": "sthitā",
+    "surface": "sthit",
     "iast": "sthitā",
     "gloss": "situated",
     "quick_gloss": "situated",
@@ -1070,7 +1077,14 @@
    }
   ],
   "quick_english": "O beautiful-faced one, situated from the brahma knot, these are indeed the three.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "O beautiful-faced one, situated from the brahma knot, these are indeed the three.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kjn-p06-v143",

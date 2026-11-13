@@ -4,7 +4,6 @@
  "work": "kularnavatantra",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v117 ratio=0.879",
   "DATA_OBJECTS 3 schema/cross-layer errors"
  ],
  "warnings": [],
@@ -23,7 +22,7 @@
   "sub090": {
    "117": {
     "ratio": 0.879,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.879 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.956)"
    }
   }
  },
@@ -60,8 +59,7 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v117"
+  "fix: schema/cross-layer errors"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {

@@ -1,11 +1,28 @@
 {
  "work": "svacchandatantra",
- "updated": "2026-11-11",
- "next": "T1 batches then triple seeds | staged 8 data songs (batch assemble 2026-11-12)",
+ "updated": "2026-11-13",
+ "next": "minimal gold 0/11 built songs; 11 need assessor (see blocked_songs); machine-proposed, human review pending",
  "counts": {
   "passages": 56,
   "verses": 1385,
-  "proof": "QUEUED",
-  "staged_songs": 8
- }
+  "proof": "PASS 0/11 built songs (minimal, L3/L4 waived)",
+  "staged_songs": 8,
+  "built_songs": 11,
+  "gold_songs": 0,
+  "blocked_songs": 11
+ },
+ "gold_songs": [],
+ "blocked_songs": [
+  "sva-p07",
+  "sva-p08",
+  "sva-p11",
+  "sva-p13",
+  "sva-p14",
+  "sva-p18",
+  "sva-p37",
+  "sva-p42",
+  "sva-p44",
+  "sva-p46",
+  "sva-p49"
+ ]
 }
