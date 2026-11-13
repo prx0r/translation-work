@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[citra+vīryābhiḥ](citravīryābhiḥ) [abhitaḥ](abhitaḥ) [saṃvṛtā](saṃvṛtā) [mantriṇī](mantriṇī) [sthitā](sthitā)
+surrounded-by(citravīryābhiḥ) [citravīryābhiḥ] surrounded(abhitaḥ) [abhitaḥ] encircled-by-ministers(saṃvṛta+amantriṇī) [saṃvṛtāmantriṇī] stood(sthitā) [sthitā]
 
 ## mukta-m0-p38-v927
-[śaktibhiḥ](śaktibhiḥ) [baṭuka+ādyāḥ](baṭukādyaśca) [ca](ca) [saṃyutā](saṃyutā) [ati+ruṣā+anvitā](atiruṣānvitā)
+with-powers(śaktibhiḥ) [śaktibhiḥ] and-beginning-with-baṭuka(baṭuka+ādyaḥ) [baṭukādyaśca] united(saṃyutā) [saṃyutā] filled-with-great-anger(ati+ruṣā+anvitā) [atiruṣānvitā]
 
 ## mukta-m0-p38-v928
-[yatra](yatra) [te](te) [vadha+vṛttānta+saṅgatiḥ](vadhavṛttāntasaṅgatirna) [na](na) [hi](hi) [saṃstutā](saṃstutā)
+where(yatra) [yatra] your(te) [te] connection-with-account-of-slaying(vadha+vṛttānta+saṅgatiḥ) [vadhavṛttāntasaṅgatiḥ] not(na) [na] indeed(hi) [hi] praised(saṃstutā) [saṃstutā]
 
 ## mukta-m0-p38-v929
-[nāśayet](nāśayediti) [iti](iti) [me](me) [buddhiḥ](buddhirvyavasāyaṃ) [vyavasāyaṃ](vyavasāyaṃ) [samāsthitā](samāsthitā)
+she-will-destroy(nāśayet) [nāśayet] thus(iti) [iti] my(me) [me] intellect(buddhiḥ) [buddhiḥ] resolved-in-determination(vyavasāyaṃ) [vyavasāyaṃ] has-settled(samāsthitā) [samāsthitā]
 
 ## mukta-m0-p38-v930
-[senā](senaivaṃ) [evaṃ](evaṃ) [śakti+nicitā](śaktinicitā) [daitya+rāja](daityarāja) [vadāmi](vadāmi) [te](te)
+army(senā) [sena] thus(evam) [evaṃ] filled-with-powers(śakti+nicitā) [śaktinicitā] O-demon-king(daitya+rāja) [daityarāja] I-tell(vadāmi) [vadāmi] to-you(te) [te]
 
 ## mukta-m0-p38-v931
-[sarvān](sarvān) [daitya+gaṇān](daityagaṇānasmānatitiṣṭhati) [asmān](asmān) [atitiṣṭhati](atitiṣṭhati) [sarvathā](sarvathā)
+all(sarvān) [sarvān] demon-hosts(daitya+gaṇān) [daityagaṇān] us(asmān) [asmān] surpasses(atitiṣṭhati) [atitiṣṭhati] in-every-way(sarvathā) [sarvathā]
 
 ## mukta-m0-p38-v932
-[vidyunmālī](vidyunmālī) [samabhavat](samabhavattūṣṇī) [tūṣṇī](tūṣṇī) [daitya+sabhā+gataḥ](daityasabhāgataḥ)
+Vidyunmālī(vidyunmālī) [vidyunmālī] became(samabhavat) [samabhavat] silent(tūṣṇīm) [tūṣṇī] gone-to-demon-assembly(daitya+sabhā+gataḥ) [daityasabhāgataḥ]
 
 ## mukta-m0-p38-v933
-[bhaṇḍāsura+aṅghryoḥ](bhaṇḍāsurā'ṅghyrorapatad) [apatat](apatad) [bhaya+vihvalita+antaram](bhayavihvalitāntaram)
+at-Bhaṇḍāsura's-feet(bhaṇḍāsura+aṅghryoḥ) [bhaṇḍāsurā'ṅghyror] fell-down(apatat) [apatad] with-heart-agitated-by-fear(bhaya+vihvalita+antaram) [bhayavihvalitāntaram]
 
 ## mukta-m0-p38-v934
-[mahārāja](mahārāja) [tvat+ājñaptaḥ](tvadājñapto) [gataḥ](gataḥ) [śakti+mahā+camūm](śaktimahācamūm)
+O-great-king(mahārāja) [mahārāja] commanded-by-you(tvat+ājñaptaḥ) [tvadājñapto] gone(gataḥ) [gataḥ] to-the-great-army-of-powers(śakti+mahā+camūm) [śaktimahācamūm]
 
 ## mukta-m0-p38-v935
-[na](na) [me](me) [vīryaṃ](vīryaṃ) [balaṃ](balaṃ) [vā](vā) [api](api) [babhau](babhau) [śakti+agrataḥ](śaktyagrataḥ) [kvacit](kvacit)
+not(na) [na] my(me) [me] heroism(vīryaṃ) [vīryaṃ] strength(balaṃ) [balaṃ] or(vā) [vā] also(api) [api] shone(babhau) [babhau] before-the-powers(śakti+agrataḥ) [śaktyagrataḥ] anywhere(kvacit) [kvacit]
 
 ## mukta-m0-p38-v936
-[kṣaṇena](kṣanena) [tāsāṃ](tāsāṃ) [grahaṇāt](grahaṇādvisaṃjño'bhavamañjasā) [visaṃjñaḥ](visaṃjñaḥ) [abhavam](abhavam) [añjasā](añjasā)
+in-a-moment(kṣaṇena) [kṣaṇena] by-their-seizure(tāsāṃ) [tāsāṃ] (grahaṇāt) [grahaṇād] unconscious(visaṃjñaḥ) [visaṃjño] I-became(abhavam) [abhavamañjasā] quickly(añjasā) [abhavamañjasā]
 
 ## mukta-m0-p38-v937
-[sā](sā) [kula+adriḥ+iva+unnamrā](kulādririvonnamrā) [kroḍāsyā](kroḍāsyā) [kāñcana+prabhā](kāñcanaprabhā)
+she(sā) [sā] lofty-like-a-great-mountain(kula+adriḥ+iva+unnamrā) [kulādririvonnamrā] boar-faced(kroḍa+āsyā) [kroḍāsyā] golden-hued(kāñcana+prabhā) [kāñcanaprabhā]
 
 ## mukta-m0-p38-v938
-[tādṛgvidhaṃ](tādṛgvidhaṃ) [śakti+gaṇaṃ](śaktigaṇaṃ) [tasyāḥ](tasyāḥ) [krodha+pradīpitam](krodhapradīpitam)
+of-such-kind(tādṛg+vidhaṃ) [tādṛgvidhaṃ] host-of-powers(śakti+gaṇaṃ) [śaktigaṇaṃ] of-her(tasyāḥ) [tasyāḥ] inflamed-by-anger(krodha+pradīpitam) [krodhapradīpitam]
 
 ## mukta-m0-p38-v939
-[tasyāḥ](tasyā) [niyogāt](niyogānnito'haṃ) [nitaḥ](nitaḥ) [ahaṃ](ahaṃ) [śaktibhiḥ](śaktibhirmantriṇīpuraḥ) [mantriṇī+puraḥ](mantriṇīpuraḥ)
+by-her-command(tasyāḥ) [tasyāḥ] (niyogāt) [niyogān] led(nitaḥ) [nito] I(aham) [ahaṃ] by-the-powers(śaktibhiḥ) [śaktibhir] before-the-ministeress(mantriṇī+puraḥ) [mantriṇīpuraḥ]
 
 ## mukta-m0-p38-v940
-[saundarya+kula+sāraṅgī](saundaryakulasāraṅgī) [pūrṇa+tāruṇya+garvitā](pūrṇatāruṇyagarvitā)
+doe-of-the-lineage-of-beauty(saundarya+kula+sāraṅgī) [saundaryakulasāraṅgī] proud-of-full-youth(pūrṇa+tāruṇya+garvitā) [pūrṇatāruṇyagarvitā]
 
 ## mukta-m0-p38-v941
-[gīta+hāsya+parā](gītahāsyaparā) [nityaṃ](nityaṃ) [viṇā+vādana+niṣṭhitā](viṇāvādananiṣṭhitā)
+devoted-to-song-and-laughter(gīta+hāsya+parā) [gītahāsyaparā] always(nityaṃ) [nityaṃ] intent-on-playing-the-lute(viṇā+vādana+niṣṭhitā) [viṇāvādananiṣṭhitā]
 
 ## mukta-m0-p38-v942
-[anvavekṣam](anvavekṣamahaṃ) [ahaṃ](ahaṃ) [sarva+saubhāgya+eka+samāśrayām](sarvasaubhāgyaikasamāśrayām)
+I-beheld(anvavekṣam) [anvavekṣam] I(aham) [ahaṃ] the-sole-abode-of-all-fortune(sarva+saubhāgya+eka+samāśrayām) [sarvasaubhāgyaikasamāśrayām]
 
 ## mukta-m0-p38-v943
-[tayā](tayā) [nītaḥ](nīto) [mahārājñyāḥ](mahārājñyāḥ) [samakṣam](samakṣam) [ahaṃ](ahamāśvatha) [āśvatha](āśvatha)
+by-her(tayā) [tayā] led(nītaḥ) [nīto] into-the-presence-of-the-great-queen(mahā+rājñyāḥ) [mahārājñyāḥ] (samakṣam) [samakṣam] I(aham) [aham] quickly(āśu) [āśvatha] then(atha) [āśvatha]
 
 ## mukta-m0-p38-v944
-[sandeśaṃ](sandeśaṃ) [vācayan](vācayanmahyaṃ) [mahyaṃ](mahyaṃ) [yat](yat) [tat](tat) [te](te) [mantriṇī+mukhāt](mantriṇīmukhāt)
+reciting-the-message(sandeśaṃ) [sandeśaṃ] (vācayan) [vācayan] to-me(mahyam) [mahyaṃ] which(yat) [yat] that(tat) [tatte] to-you(te) [tatte] from-the-ministeress's-mouth(mantriṇī+mukhāt) [mantriṇīmukhāt]
 
 ## mukta-m0-p38-v945
-[brūyāḥ](brūyāstaṃ) [taṃ](taṃ) [bhaṇḍa+daitya+īśaṃ](bhaṇḍadaityeśaṃ) [jīvane](jīvane) [yadi](yadi) [te](te) [matiḥ](matiḥ)
+you-should-say(brūyāḥ) [brūyāstaṃ] to-him(tam) [brūyāstaṃ] to-the-lord-of-Bhaṇḍa-demons(bhaṇḍa+daitya+īśaṃ) [bhaṇḍadaityeśaṃ] in-life(jīvane) [jīvane] if(yadi) [yadi] your(te) [te] intention(matiḥ) [matiḥ]
 
 ## mukta-m0-p38-v946
-[nivasa](nivasa) [tvaṃ](tvaṃ) [parīvāra+yutaḥ](parīvārayutaḥ) [pātāla+sadmani](pātālasadmani)
+dwell(nivasa) [nivasa] you(tvam) [tvaṃ] accompanied-by-your-retinue(parīvāra+yutaḥ) [parīvārayutaḥ] in-the-netherworld-abode(pātāla+sadmani) [pātālasadmani]
 
 ## mukta-m0-p38-v947
-[akṛtvā](akṛtvaivaṃ) [evaṃ](evaṃ) [na](na) [te](te) [mokṣaḥ](mokṣo) [loka+antaragatasya](lokā'ntaragatasya) [ca](ca)
+not-doing-thus(a+kṛtvā) [akṛtvaivaṃ] thus(evam) [akṛtvaivaṃ] not(na) [na] your(te) [te] release(mokṣaḥ) [mokṣo] even-if-gone-to-another-world(loka+antara+gatasya) [lokā'ntaragatasya] and(ca) [ca]
 
 ## mukta-m0-p38-v948
-[iti](iti) [tvayā](tvayā) [tatra](tatra) [gatvā](gatvā) [vaktvyaḥ](vaktvyo) [bhaṇḍa+dānavaḥ](bhaṇdadānavaḥ)
+thus(iti) [iti] by-you(tvayā) [tvayā] having-gone-there(tatra) [tatra] (gatvā) [gatvā] to-be-told(vaktvyaḥ) [vaktvyo] Bhaṇḍa-demon(bhaṇḍa+dānavaḥ) [bhaṇḍadānavaḥ]
 
 ## mukta-m0-p38-v949
-[karāla+karavāla+udyat+karā](karālakaravālodyatkarā) [tatra](tatra) [samāyayau](samāyayau)
+with-hand-raised-holding-a-terrible-sword(karāla+karavāla+udyat+karā) [karālakaravālodyatkarā] there(tatra) [tatra] came(samāyayau) [samāyayau]
 
 ## mukta-m0-p38-v950
-[mantra+nātāñca](mantranātāñca) [vṛtāntaṃ](vṛtāntaṃ) [babhāṣe](babhāṣe) [sā](sā) [anuyojitā](anuyojitā)
+and-to-the-ministeress(mantra+nātā) [mantranātāñca] and(ca) [mantranātāñca] the-account(vṛtāntaṃ) [vṛtāntaṃ] spoke(babhāṣe) [babhāṣe] she(sā) [sā] being-questioned(anuyojitā) [anuyojitā]

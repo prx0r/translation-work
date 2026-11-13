@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[lightning-garlanded](vidyunmālin) [great-wise](mahāprājña) [maya-clan-leader](māyāvikulanāyaka)
+[o-vidyunmālin](vidyunmālin) [o-greatly-wise](mahāprājña) [o-leader](nāyaka) [of-māyāvi-lineage](māyāvi+kula)
 
 ## mukta-m0-p36-v877
-[strength](balañca) [and](ca) [effort](vyavasāyañca) [and](ca) [breaches](bhedacchidrāṇi) [by-strategy](yuktitaḥ)
+[strength](balam) [and](ca) [effort](vyavasāyam) [and](ca) [weak-points](bheda+chidrāṇi) [by-strategy](yuktitaḥ)
 
 ## mukta-m0-p36-v878
-[commanded](ājñaptāvitarau) [two-demons](daityau) [went](yayatuḥ) [power-bearing-army](śaktivāhinīm)
+[commanded](ājñaptau) [the-two-other](itarau) [demons](daityau) [went](yayatuḥ) [to-śakti-army](śakti+vāhinīm)
 
 ## mukta-m0-p36-v879
-[enemy-slayer](amitraghno) [great-army](mahāsenāṃ) [entered](viveśā'bdhiṃ) [like](yathā) [boat](plavaḥ)
+[enemy-slayer](amitraghnaḥ) [great-army](mahāsenāṃ) [entered](viveśa) [ocean](abdhim) [as](yathā) [boat](plavaḥ)
 
 ## mukta-m0-p36-v880
-[as-soon-as-entered](praviṣṭamātraṃ) [by-power](śaktyā) [he](sa) [seized](gṛhīto) [stronger](balavattaraḥ)
+[just-entered](praviṣṭa+mātram) [by-śakti](śaktyā) [he](saḥ) [seized](gṛhītaḥ) [very-strong](balavattaraḥ)
 
 ## mukta-m0-p36-v881
-[with-slap](capeṭayā) [striking](nihatyā'śu) [quickly](āśu) [seizing](gṛhītvā) [him](taṃ) [by-throat](gale'suram) [demon](asuram)
+[with-slap](capeṭayā) [having-struck](nihatya) [quickly](āśu) [having-seized](gṛhītvā) [him](tam) [by-throat](gale) [demon](asuram)
 
 ## mukta-m0-p36-v882
-[who](kastvaṃ) [you](tvam) [army](senāmimāṃ) [this](imām) [goddess's](devyā) [staff-queen](daṇḍarājñīsurakṣitām) [well-protected](surakṣitām)
+[who](kaḥ) [you](tvam) [this](imām) [army](senām) [of-goddess](devyāḥ) [protected-by-daṇḍa-queen](daṇḍa+rājñī+surakṣitām)
 
 ## mukta-m0-p36-v883
-[permission](ājñāṃ) [without](vinā) [staff-queen's](daṇḍarājñyāḥ) [entered](praviṣṭo) [army](vāhinīmimām) [this](imām)
+[without-command](ājñām) [without](vinā) [of-daṇḍa-queen](daṇḍarājñyāḥ) [entered](praviṣṭaḥ) [this](imām) [army](vāhinīm)
 
 ## mukta-m0-p36-v884
-[meanwhile](tadantare) [but](tu) [arrived](samprāptāḥ) [army-guards](sainyarakṣāniyojitāḥ) [appointed](niyojitāḥ)
+[in-the-meantime](tadantare) [then](tu) [arrived](samprāptāḥ) [appointed-for-army-protection](sainya+rakṣā+niyojitāḥ)
 
 ## mukta-m0-p36-v885
-[by-powerful-ones](prabalābhiḥ) [dragged](samākṛṣṭo) [struck](nihato) [unconscious](mūrcchito'bhavat) [became](abhavat)
+[by-mighty-ones](prabalābhiḥ) [dragged](samākṛṣṭaḥ) [struck](nihataḥ) [fainted](mūrcchitaḥ) [became](abhavat)
 
 ## mukta-m0-p36-v886
-[before-eyes](samakṣaṃ) [indeed](hyānayāmāsa) [brought](ānayāmāsa) [by-own-attendant-powers](svaparīcāraśaktibhiḥ)
+[in-presence](samakṣam) [indeed](hi) [brought](ānayāmāsa) [with-own-attendant-śaktis](sva+parīcāra+śaktibhiḥ)
 
 ## mukta-m0-p36-v887
-[informing](vijñāpya) [minister](mantriṇī) [goddess's](devyāḥ) [presence](samīpamānayattataḥ) [brought](ānayat) [then](tataḥ)
+[having-reported](vijñāpya) [to-ministeress](mantriṇī) [of-goddess](devyāḥ) [near](samīpam) [brought](ānayat) [then](tataḥ)
 
 ## mukta-m0-p36-v888
-[having-taken](nītvā) [asked](papraccha) [messenger](dūtaṃ) [him](taṃ) [purpose](kṛtyaṃ) [there](tatrā'gamasya) [of-coming](āgamasya) [indeed](hi)
+[having-led](nītvā) [asked](papraccha) [messenger](dūtam) [that](tam) [purpose](kṛtyam) [there](tatra) [of-coming](āgamasya) [indeed](hi)
 
 ## mukta-m0-p36-v889
-[messenger](dūto'haṃ) [I](aham) [of-that](tasya) [demon's](daityasya) [that](taduktaṃ) [spoken](uktam) [I-declare](saṃbravīmyaham) [I](aham)
+[messenger](dūtaḥ) [I](aham) [of-that](tasya) [demon](daityasya) [his-statement](tat+uktam) [I-declare](sambravīmi) [I](aham)
 
 ## mukta-m0-p36-v890
-[fighting](yuddhvāvā'pyayuddhvāvā) [or](vā) [not-fighting](ayuddhvā) [or](vā) [goddess](devi) [be](bhūyāstvaṃ) [you](tvam) [my-refuge](matsamāśrayā)
+[having-fought](yuddhvā) [or](vā) [not-having-fought](ayuddhvā) [or](vā) [o-goddess](devi) [be](bhūyāḥ) [you](tvam) [taking-refuge-in-me](mat+samāśrayā)
 
 ## mukta-m0-p36-v891
-[that](taddevān) [gods](devān) [abandoning](samparityajya) [become](bhava) [you](tvaṃ) [my-refuge](matsamāśrayā)
+[therefore](tat) [gods](devān) [having-abandoned](samparityajya) [be](bhava) [you](tvam) [taking-refuge-in-me](mat+samāśrayā)
 
 ## mukta-m0-p36-v892
-[thus](ityahaṃ) [I](aham) [sent](preṣitastena) [by-him](tena) [messenger-bound](dūtabadhyā) [dhaḥ](dhaḥ) [insulted](vininditā) [naḥ](naḥ)
+[thus](iti) [I](aham) [sent](preṣitaḥ) [by-him](tena) [messenger](dūta) [not-to-be-killed](badhyaḥ) [censured](vininditaḥ)
 
 ## mukta-m0-p36-v893
-[thus](iti) [thinking](matvā) [entered](praviṣṭo'haṃ) [I](aham) [lakhs](lakṣaitaḥ) [by-these](etaiḥ) [all-powers](sarvaśaktibhiḥ)
+[thus](iti) [thinking](matvā) [entered](praviṣṭaḥ) [I](aham) [seized](lakṣaitaḥ) [by-all-śaktis](sarva+śaktibhiḥ)
 
 ## mukta-m0-p36-v894
-[brought](ānītaste) [your](te) [before](samakṣañcetyetat) [and](ca) [this](etat) [all](sarvaṃ) [explained](nirupitam)
+[brought](ānītaḥ) [to-you](te) [in-presence](samakṣam) [and](ca) [thus](iti) [this](etat) [all](sarvam) [reported](nirupitam)
 
 ## mukta-m0-p36-v895
-[hearing](niśamya) [messenger's-words](dūtavacanaṃ) [Lalita's](lalitāyā) [opinion](mataṃ) [then](tataḥ)
+[having-heard](niśamya) [messenger's-speech](dūta+vacanam) [of-lalitā](lalitāyāḥ) [opinion](matam) [then](tataḥ)
 
 ## mukta-m0-p36-v896
-[not](mābhairdaitya) [fear](bhair) [demon](daitya) [go](vraja) [happily](sukhaṃ) [be-killed](hanyase) [not](na) [ever](kadācana)
+[do-not-fear](mā) [fear](bhaiḥ) [o-demon](daitya) [go](vraja) [happily](sukham) [you-are-killed](hanyase) [not](na) [ever](kadācana)
 
 ## mukta-m0-p36-v897
-[if](yadi) [your](te) [in-life](jīvane) [faith](śraddhā) [quickly](drutamāgatya) [coming](āgatya) [fearless](nirbhayaḥ)
+[if](yadi) [to-you](te) [in-life](jīvane) [regard](śraddhā) [quickly](drutam) [having-come](āgatya) [fearlessly](nirbhayaḥ)
 
 ## mukta-m0-p36-v898
-[lord-of-three-worlds](trilokeśo) [may-become](bhavedindra) [Indra](indra) [you](tvaṃ) [in-netherworld](pātāle) [will-dwell](nivatsyasi)
+[lord-of-three-worlds](tri+loka+īśaḥ) [may-become](bhavet) [indra](indraḥ) [you](tvam) [in-netherworld](pātāle) [will-dwell](nivatsyasi)
 
 ## mukta-m0-p36-v899
-[otherwise](anyathā) [not](na) [release](vimokṣaste) [your](te) [life](jīvan) [anywhere](kvā'pi) [will-be](bhaviṣyati)
+[otherwise](anyathā) [not](na) [release](vimokṣaḥ) [to-you](te) [living](jīvan) [anywhere](kva+api) [will-be](bhaviṣyati)
 
 ## mukta-m0-p36-v900
-[showing](darśayitvā) [then](tataḥ) [outside-army](senabahirenaṃ) [him](enam) [dismiss](visarjaya)
+[having-shown](darśayitvā) [then](tataḥ) [army](sena) [outside](bahiḥ) [him](enam) [release](visarjaya)
