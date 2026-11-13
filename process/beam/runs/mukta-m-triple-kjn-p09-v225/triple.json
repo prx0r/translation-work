@@ -7,39 +7,40 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral eighty-four",
+     "grounds": "cardinal numeral modifying sahasreṣu",
      "morph": "(indecl.)"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "thousands",
+     "gloss": "in-thousands",
      "grounds": "locative plural of sahasra",
      "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "womb-diagrams",
-     "grounds": "locative plural of compound yoni-yantra",
-     "morph": "n.loc.pl"
+     "gloss": "in-womb-diagrams",
+     "grounds": "locative plural of compound yoni+yantra",
+     "morph": "n.loc.pl (compound: yoni+yantra)"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle of pīḍ",
-     "morph": "m.nom.pl.part"
+     "grounds": "past participle used adjectivally in nominative plural",
+     "morph": "adj.nom.pl.m"
     }
    ],
-   "question": "In how many womb-diagrams are beings said to be tormented?",
+   "question": "In which eighty-four thousand womb-diagrams are beings said to be tormented?",
    "premises": [
     "Eighty-four thousand womb-diagrams exist.",
     "Beings are tormented within them.",
-    "Torment occurs across all diagrams."
+    "The verse names this torment."
    ],
-   "inference": "The verse states universal torment across eighty-four thousand womb-diagrams.",
+   "inference": "The verse identifies eighty-four thousand womb-diagrams as sites of torment.",
    "uncertainties": [
-    "Exact referent of pīḍitāḥ is unspecified."
+    "The exact referent of yoniyantreṣu is not specified.",
+    "The grammatical gender of pīḍitāḥ is ambiguous."
    ],
-   "plain_english": "They are tormented in eighty-four thousand womb-diagrams."
+   "plain_english": "In eighty-four thousand womb-diagrams, they are tormented."
   }
  ]
 }
