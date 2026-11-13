@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p468-v11676
-[therefore](ataḥ) [conch-treasure](śaṅkha+nidhi) [lotus-treasure](padma+nidhī) [rakta](raktaḥ) [and](atha) [raktabhāk](rakta+bhāk)
+[therefore](ataḥ) [conch+treasure](śaṅkha+nidhī) [lotus+treasure](padma+nidhī) [red+then](raktaḥ+atha) [red+sharing](rakta+bhāk)
 
 ## mukta-m0-p468-v11677
-[in-the-fire-etc.-petals](āgneya+ādi+daleṣu) [these](ete) [to-be-worshipped](pūjyāḥ) [and](ca) [in-front](agre) [lords-of-directions](dik+īśvarāḥ)
+[in-southeast+etc.+petals](āgneya+ādi+daleṣu) [these](ete) [to-be-worshipped](pūjyāḥ) [and](ca) [in-front](agre) [direction+lords](dik+īśvarāḥ)
 
 ## mukta-m0-p468-v11678
-[of-nārāyaṇa](nārāyaṇasya) [gāyatrī](gāyatrīṃ) [I-speak](bravīmi) [with-one-pointed-mind](eka+manāḥ) [listen](śruṇu)
+[of-nārāyaṇa](nārāyaṇasya) [gāyatrī](gāyatrīm) [I-speak](bravīmi) [one+minded](eka+manāḥ) [listen](śruṇu)
 
 ## mukta-m0-p468-v11679
-[therefore](tat) [us](naḥ) [viṣṇu](viṣṇuḥ) [may-impel](pracodayāt)
+[that](tat) [us](naḥ) [viṣṇu](viṣṇuḥ) [may-impel](pracodayāt)
 
 ## mukta-m0-p468-v11680
-[fit](yogyaḥ) [should-be](syāt) [for-viṣṇu-initiation](viṣṇu+dīkṣāyāṃ) [like-a-twice-born](dvija+vat) [free-from-sin](pāpa+varjitaḥ)
+[fit](yogyaḥ) [should-be](syāt) [for-viṣṇu-initiation](viṣṇu+dīkṣāyām) [like-twice-born](dvija+vat) [sin+devoid](pāpa+varjitaḥ)
 
 ## mukta-m0-p468-v11681
-[one-should-offer-oblations](juhuyāt) [one-should-offer-libations](tarppayet) [to-kṛṣṇa](kṛṣṇa) [and](ca) [moon](candraṃ) [with-filament-waters](keśara+ambubhiḥ)
+[should-offer-oblation](juhuyāt) [should-offer-libation](tarppayet) [kṛṣṇa+moon](kṛṣṇa+candraṃ) [and](ca) [with-filament+waters](keśara+ambubhiḥ)
 
 ## mukta-m0-p468-v11682
-[thus](evaṃ) [with-accomplished-mantra](siddha+manuḥ) [mantrin](mantrī) [practice](prayogam) [then](tu) [should-perform](samācaret)
+[thus](evaṃ) [accomplished+mantra](siddha+manuḥ) [mantrin](mantrī) [application](prayogam) [then](tu) [should-perform](samācaret)
 
 ## mukta-m0-p468-v11683
-[in-causing-to-appear](sammukhī+karaṇe) [one-should-meditate](dhyāyet) [on-viṣṇu](viṣṇuṃ) [riding-on-garuḍa](garuḍa+gāminam)
+[in-causing-to-appear](sammukhī+karaṇe) [should-meditate](dhyāyet) [viṣṇu](viṣṇuṃ) [garuḍa+riding](garuḍa+gāminam)
 
 ## mukta-m0-p468-v11684
-[mixed-with-guḍūcī-juice](guḍūcī+ra+yutaṃ) [having-offered](hutvā) [death](mṛtyum) [indeed](eva) [one-may-overcome](atitarjjayet)
+[guḍūcī+juice](guḍūcī+rayutaṃ) [having-offered](hutvā) [death](mṛtyum) [indeed](eva) [may-overcome](atitarjjayet)
 
 ## mukta-m0-p468-v11685
-[one-should-recite](japet) [one-hundred-and-eight-times](aṣṭa+uttara+śataṃ) [he](saḥ) [would-be](bhavet) [conqueror-of-untimely-death](apamṛtyu+jit)
+[should-recite](japet) [eight+over+hundred](aṣṭa+uttara+śataṃ) [he](saḥ) [should-be](bhavet) [untimely-death+conqueror](apamṛtyu+jit)
 
 ## mukta-m0-p468-v11686
-[with-sins-destroyed](nirasta+pātakaḥ) [having-become](bhūtvā) [free-from-disease](nī+rogaḥ) [possessed-of-knowledge](jñāna+vān) [would-be](bhavet)
+[destroyed+sins](nirasta+pātakaḥ) [having-become](bhūtvā) [disease-free](nīrogaḥ) [knowledge+possessing](jñāna+vān) [should-be](bhavet)
 
 ## mukta-m0-p468-v11687
-[having-recited](japitvā) [who](yaḥ) [then](tu) [while-eating](bhuñjānaḥ) [wise-one](dhīmān) [possessed-of-health](ārogya+vān) [would-be](bhavet)
+[having-recited](japitvā) [who](yaḥ) [indeed](tu) [eating](bhuñjānaḥ) [wise](dhīmān) [health+possessing](ārogya+vān) [should-be](bhavet)
 
 ## mukta-m0-p468-v11688
-[who](yaḥ) [drinks](pibet) [obtains](labhate) [intelligence](medhāṃ) [and](ca) [awakening-of-poetic-skill](kavitā+bodhanaṃ) [he](saḥ)
+[who](yaḥ) [drinks](pibet) [obtains](labhate) [intelligence](medhāṃ) [poetry+awakening](kavitā+bodhanaṃ) [and](ca) [he](saḥ)
 
 ## mukta-m0-p468-v11689
-[one-should-wear](dhārayet) [on-the-right-hand](dakṣiṇe) [hand](haste) [on-all-sides](sarvataḥ) [would-be](syāt) [well-protected](su+rakṣitaḥ)
+[should-wear](dhārayet) [on-right](dakṣiṇe) [hand](haste) [from-all-sides](sarvataḥ) [should-be](syāt) [well-protected](su+rakṣitaḥ)
 
 ## mukta-m0-p468-v11690
-[these](ete) [indeed](hi) [eight](aṣṭau) [excellent-mantra-syllables](mantra+varṇāḥ) [group-of-eight-mantras](mantra+aṣṭakam) [is-declared](udīryyate)
+[these](ete) [indeed](hi) [eight](aṣṭau) [mantra+syllables](mantra+varṇāḥ) [mantra+octad](mantra+aṣṭakam) [is-declared](udīryyate)
 
 ## mukta-m0-p468-v11691
-[jamadagni](jamadagniḥ) [and](ca) [vaśiṣṭha](vaśiṣṭhaḥ) [kaśyapa](kaśyapaḥ) [atri](atriḥ) [pot-born](ghaṭa+udbhavaḥ)
+[jamadagni](jamadagniḥ) [vasiṣṭha](vaśiṣṭhaḥ) [and](ca) [kaśyapa](kaśyapaḥ) [atri](atriḥ) [pot-born](ghaṭa+udbhavaḥ)
 
 ## mukta-m0-p468-v11692
 [triṣṭup](triṣṭup) [and](ca) [jagatī](jagatī) [and](ca) [indeed](eva) [virāṭ](virāṭ) [metres](chandāṃsi) [in-order](anukramāt)
 
 ## mukta-m0-p468-v11693
-[pratyūṣa](pratyūṣaḥ) [and](ca) [prabhāsa](prabhāsaḥ) [to-be-known](vijñeyāḥ) [deities](devatāḥ) [in-order](kramāt)
+[pratyūṣa](pratyūṣaḥ) [and](ca) [prabhāsa](prabhāsaḥ) [and](ca) [to-be-known](vijñeyāḥ) [deities](devatāḥ) [in-order](kramāt)
 
 ## mukta-m0-p468-v11694
-[principles](tattvāni) [seven-worlds](sapta+lokāḥ) [then](tu) [fields](kṣetrāṇi) [consisting-of-sky-goers](kha+cara+ātmakāḥ)
+[elements](tattvāni) [seven+worlds](sapta+lokāḥ) [indeed](tu) [fields](kṣetrāṇi) [sky+mover+natured](kha+cara+ātmakāḥ)
 
 ## mukta-m0-p468-v11695
-[blue-like-lotus-filament](padma+kiñjalka+nīla+ābhaṃ) [group-of-eight-red-coloured](rakta+varṇa+aṣṭakaḥ) [is-considered](mataḥ)
+[lotus+filament+blue-hued](padma+kiñjalka+nīla+ābhaṃ) [red+coloured+octad](rakta+varṇa+aṣṭakaḥ) [is-considered](mataḥ)
 
 ## mukta-m0-p468-v11696
-[accumulation](pracayaḥ) [with-three-or-four-syllables](tri+catur+varṇaiḥ) [struck](nihataṃ) [fifth-syllable](pañcama+akṣaram)
+[accumulation](pracayaḥ) [with-three+four+syllables](tri+catur+varṇaiḥ) [removed](nihataṃ) [fifth+syllable](pañcama+akṣaram)
 
 ## mukta-m0-p468-v11697
-[with-intervals](sa+antarāḥ) [should-be](syuḥ) [holding-conch-discus-mace-lotus](śaṅkha+cakra+gadā+padma+karāḥ) [in-order](kramāt)
+[with-intervals](sa+antarāḥ) [should-be](syuḥ) [conch+discus+mace+lotus+handed](śaṃkha+cakra+gadā+padma+karāḥ) [in-order](kramāt)
 
 ## mukta-m0-p468-v11698
-[limbs](aṅgāni) [on-the-final-petal](antima+patre) [then](tu) [the-one-in-the-middle](madhya+sthaṃ) [again](punaḥ) [one-should-worship](arcayet)
+[limbs](aṅgāni) [in-last+petal](antima+patre) [indeed](tu) [situated-in-middle](madhya+sthaṃ) [again](punaḥ) [should-worship](arcayet)
 
 ## mukta-m0-p468-v11699
-[second-enclosure](dvitīya+āvaraṇaṃ) [declared](proktam) [with-the-eight-forms-of-mantra-syllables](mantra+varṇa+aṣṭa+mūrttibhiḥ)
+[second+enclosure](dvitīya+āvaraṇaṃ) [declared](proktam) [mantra+syllable+eight+forms](mantra+varṇa+aṣṭa+mūrttibhiḥ)
 
 ## mukta-m0-p468-v11700
-[in-the-third-eight-petalled](tṛtīye+aṣṭa+dale) [declared](proktāḥ) [rati](ratiḥ) [and](ca) [also](api) [dhṛti](dhṛtiḥ) [likewise](tathā)
+[in-third+eight+petal](tṛtīye+aṣṭa+dale) [declared](proktāḥ) [rati](ratiḥ) [and](ca) [also](api) [dhṛti](dhṛtiḥ) [likewise](tathā)
