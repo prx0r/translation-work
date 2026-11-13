@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "anaphoric pronoun referring to previously mentioned beings",
+     "morph": "pron.m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal quantifier qualifying the subject",
+     "morph": "adj.m.nom.pl"
+    },
+    {
+     "surface": "mokṣam",
+     "gloss": "liberation",
+     "grounds": "object of desire for the general group",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "icchanti",
+     "gloss": "desire",
+     "grounds": "expresses the wish of the subject group",
+     "morph": "3.pl.pres.act √iṣ"
+    },
+    {
+     "surface": "akulavīran",
+     "gloss": "akula-heroes",
+     "grounds": "compound denoting heroes of akula; contrasted subject",
+     "morph": "compound: akula+vīra, m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast between the two groups",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣadam",
+     "gloss": "liberation-giver",
+     "grounds": "compound denoting the giver of liberation as the desired object",
+     "morph": "compound: mokṣa+da, m.acc.sg"
+    }
+   ],
+   "question": "What distinct goal do akula-heroes pursue in contrast to all others who desire liberation?",
+   "premises": [
+    "All those beings desire liberation.",
+    "Akula-heroes are set in contrast to them.",
+    "Akula-heroes desire the giver of liberation."
+   ],
+   "inference": "The akula-heroes seek the source of liberation rather than liberation itself.",
+   "uncertainties": [
+    "The exact referent of mokṣadam (a deity, guru, or principle) is not specified in this verse."
+   ],
+   "plain_english": "All of them desire liberation, but the akula-heroes desire the giver of liberation."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p102-v2526
-[you](tvam) [this](etat) [day](dinam) [beginning+from](ārabhyā) [mukta+ānanda+nātha+ākhyah](mukānandanāthākhyaḥ) [are](asi) [iti](iti)
+[you](tvam) [from-this-day](etat+dinam) [beginning](ārabhya) [named-so-and-so-ānandanātha](amuka+ānanda+nātha+ākhyaḥ) [you-are](asi) [thus](iti)
 
 ## mukta-m0-p102-v2527
-[of+the+guru](śrīguroḥ) [the+two+feet](caraṇau) [having+touched](spṛṣṭvā) [with+devotion](bhaktyā) [having+bowed](natvā) [this](idam) [should+request](arthayet)
+[of-the-venerable-guru](śrī+guroḥ) [the-two-feet](caraṇau) [having-touched](spṛṣṭvā) [with-devotion](bhaktyā) [having-bowed](natvā) [this](idam) [should-request](arthayet)
 
 ## mukta-m0-p102-v2528
-[by+the+bestowal+of+the+supreme+nectar](parāmṛtapradānena) [fill](pūraya) [our](asmat) [desire](manoratham)
+[by-the-giving-of-supreme-nectar](para+amṛta+pradānena) [fulfill](pūraya) [our](asmat) [desire](manoratham)
 
 ## mukta-m0-p102-v2529
-[to+a+true+disciple](sacchiṣyāya) [to+a+humble+one](vinītāya) [I+give](dadāmi) [the+supreme+nectar](paramāmṛtam)
+[to-the-good-disciple](sat+śiṣyāya) [to-the-humble](vinītāya) [I-give](dadāmi) [supreme-nectar](para+amṛtam)
 
 ## mukta-m0-p102-v2530
-[fulfilled+of+purpose](kṛtārtham) [make](kuru) [the+true+disciple](sacchiṣyam) [give](dehi) [to+him](amuṣmai) [the+clan+nectar](kulāmṛtam)
+[fulfilled](kṛta+artham) [make](kuru) [the-good-disciple](sat+śiṣyam) [give](dehi) [to-him](amuṣmai) [the-family-nectar](kula+amṛtam)
 
 ## mukta-m0-p102-v2531
-[with+purification](saśuddhikam) [the+drinking+vessel](pānapātram) [into+the+disciple's+hand](śiṣyahaste) [should+place](samarpayet)
+[with-purification](sa+śuddhikam) [the-drinking-vessel](pāna+pātram) [in-the-disciple's-hand](śiṣya+haste) [one-should-place](samarpayet)
 
 ## mukta-m0-p102-v2532
-[of+his+own](svasya) [of+the+disciple](śiṣyasya) [of+the+Kaulas](kaulānām) [on+the+kūrka](kūrce) [and](ca) [the+tilaka](tilakam) [should+place](nyaset)
+[of-one's-own](svasya) [of-the-disciple](śiṣyasya) [of-the-kaulas](kaulānām) [on-the-tuft](kūrce) [and](ca) [the-mark](tilakam) [one-should-place](nyaset)
 
 ## mukta-m0-p102-v2533
-[by+the+method+of+the+circle+rite](cakrānuṣṭhānavidhinā) [should+perform](vidadhyāt) [drinking+and+eating](pānabhojanam)
+[according-to-the-rite-of-circle-worship](cakra+anuṣṭhāna+vidhinā) [one-should-perform](vidadhyāt) [drinking-and-eating](pāna+bhojanam)
 
 ## mukta-m0-p102-v2534
-[the+sole+producer+of+Brahma+knowledge](brahmajñānaikajananam) [the+means+of+attaining+the+fruit+of+Śivatva](śivatvaphalasādhanam)
+[producing-the-sole-knowledge-of-brahman](brahma+jñāna+eka+jananam) [accomplishing-the-fruit-of-śiva-hood](śivatva+phala+sādhanam)
 
 ## mukta-m0-p102-v2535
-[or](atha) [also](vā) [for+one+night](ekarātram) [ca](ca) [should+perform](kuryāt) [the+full+ablution](pūrṇābhiṣecanam)
+[now](atha) [or](vāpi) [for-one-night](eka+rātram) [and](ca) [one-should-perform](kuryāt) [the-full-consecration](pūrṇa+abhiṣecanam)
 
 ## mukta-m0-p102-v2536
-[to+the+guru](gurave) [having+given](dattvā) [those+of+Śiva+nature](śivātmakān) [of+Śiva+form](śivasvarūpān) [the+Kaulas](kaulān) [should+worship](yajet)
+[to-the-guru](gurave) [having-given](dattvā) [those-whose-nature-is-śiva](śiva+ātmakān) [those-whose-form-is-śiva](śiva+svarūpān) [the-kaulas](kaulān) [one-should-worship](yajet)
 
 ## mukta-m0-p102-v2537
-[should+request](arthayet) [should+beg](yācet)
+[one-should-request](arthayet) [one-should-beg](yācet)
 
 ## mukta-m0-p102-v2538
-[in+the+nine+nights](navarātre) [is+to+be+performed](vidhātavyam) [the+all+auspicious+mandala](sarvatobhadramaṇḍalam)
+[during-nine-nights](nava+rātre) [should-be-made](vidhātavyam) [the-sarvatobhadra-maṇḍala](sarvatobhadra+maṇḍalam)
 
 ## mukta-m0-p102-v2539
-[in+three+nights](trirātre) [and](ca) [in+one+night](ekarātre) [and](ca) [the+lotus+of+eight+petals](padmam) [of+eight+petals](aṣṭadalam) [beloved](priye)
+[during-three-nights](tri+rātre) [and](ca) [during-one-night](eka+rātre) [and](ca) [an-eight-petaled-lotus](padmam+aṣṭa+dalam) [O-beloved](priye)
 
 ## mukta-m0-p102-v2540
-[are+to+be+established](sthāpanīyāḥ) [nine](nava) [jars](ghaṭāḥ) [on+the+five+lotuses](pañcābje) [of+five+number](pañcasaṅkhyakāḥ)
+[should-be-established](sthāpanīyāḥ) [nine](nava) [pots](ghaṭāḥ) [in-the-five-petaled-lotus](pañca+abje) [five-in-number](pañca+saṅkhyakāḥ)
 
 ## mukta-m0-p102-v2541
-[the+gods+of+the+limbs+and+the+armor](aṅgāvaraṇadevā́n) [and](ca) [in+the+filaments+etc.](kesarādiṣu) [should+worship](pūjayet)
+[the-limb-and-enclosure-deities](aṅga+āvaraṇa+devān) [and](ca) [in-the-filaments-and-so-on](kesara+ādiṣu) [one-should-worship](pūjayet)
 
 ## mukta-m0-p102-v2542
-[by+seeing](darśanāt) [by+touching](sparśanāt) [by+smelling](ghrāṇāt) [by+objects](dravya) [purification](śuddhiḥ) [is+made](vidhīyate)
+[by-seeing](darśanāt) [by-touching](sparśanāt) [by-smelling](ghrāṇāt) [purification-of-substances](dravya+śuddhiḥ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p102-v2543
-[one+who+has+resorted+to+the+Kaula+dharma](kauladharmāśritaḥ) [a+good+one](sādhuḥ) [is+to+be+worshipped](pūjanīyaḥ) [with+great+care](atiyatnataḥ)
+[resorting-to-the-kaula-dharma](kaula+dharma+āśritaḥ) [the-good-person](sādhuḥ) [should-be-honored](pūjanīyaḥ) [with-great-effort](ati+yatnataḥ)
 
 ## mukta-m0-p102-v2544
-[in+a+Vaiṣṇava](vaiṣṇave) [the+Vaiṣṇava](vaiṣṇavaḥ) [in+a+Saura](saure) [the+Saura](sauraḥ) [the+guru](guruḥ) [is+declared](udāhṛtaḥ)
+[among-vaiṣṇavas](vaiṣṇave) [a-vaiṣṇava](vaiṣṇavaḥ) [among-sauras](saure) [a-saura](sauraḥ) [as-guru](guruḥ) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p102-v2545
-[therefore](ataḥ) [by+all+means](sarvātmanā) [the+wise+one](dhīmān) [from+a+Kaula](kaulāt) [initiation](dīkṣām) [should+undertake](samācaret)
+[therefore](ataḥ) [with-whole-heart](sarva+ātmanā) [the-wise-one](dhīmān) [from-a-kaula](kaulāt) [initiation](dīkṣām) [should-undertake](samācaret)
 
 ## mukta-m0-p102-v2546
-[having+uplifted](uddhṛtya) [persons](puruṣān) [all](sarvān) [they](te) [go](yānti) [to+the+supreme+goal](paramām) [goal](gatim)
+[having-uplifted](uddhṛtya) [all](sarvān) [the-ancestors](puruṣān) [they](te) [go](yānti) [to-the-supreme](paramām) [state](gatim)
 
 ## mukta-m0-p102-v2547
-[the+heroes](vīrān) [having+obtained](labdham) [the+mantra](anuḥ) [the+hero](vīraḥ) [from+a+Kaula](kaulāt) [becomes](bhavati) [a+knower+of+Brahman](brahmavit)
+[from-a-hero](vīrāt) [having-received-the-mantra](labdha+manuḥ) [a-hero](vīraḥ) [from-a-kaula](kaulāt) [becomes](bhavati) [a-knower-of-brahman](brahma+vit)
 
 ## mukta-m0-p102-v2548
-[in+the+worship+of+one's+own+chosen+deity](sveṣṭapūjāvidhāu) [alone](eva) [not](na) [but](tu) [the+lord+of+the+circle](cakreśvaraḥ) [becomes](bhavet)
+[in-the-rite-of-worship-of-one's-chosen-deity](sva+iṣṭa+pūjā+vidhau) [only](eva) [but](na) [not](tu) [lord-of-the-circle](cakra+īśvaraḥ) [one-should-become](bhavet)
 
 ## mukta-m0-p102-v2549
-[a+thief](steyī) [a+great+sinner](mahāpātakinaḥ) [and+his+associate](tatsaṃsargī) [and](ca) [the+fifth](pañcamaḥ)
+[a-thief](steyī) [a-great-sinner](mahā+pātakinaḥ) [and-one-who-associates-with-them](tat+saṃsargī) [and](ca) [the-fifth](pañcamaḥ)
 
 ## mukta-m0-p102-v2550
-[those+who](ye) [revile](nindanti) [the+evil-minded+ones](durātmānaḥ) [they](te) [go](gacchanti) [to+a+lowest+state](adhamām) [state](gatim)
+[those-who](ye) [revile](nindanti) [evil-souled-ones](dur+ātmānaḥ) [they](te) [go](gacchanti) [to-the-lowest](adhamām) [state](gatim)

@@ -1,165 +1,199 @@
 [
-{
-"verse_id": "mukta-m00257-p01-v1",
-"song": "mukta-m00257-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "vara",
-"quick_gloss": "boon"
-},
-{
-"surface": "anavara",
-"quick_gloss": "and-fearlessness"
-},
-{
-"surface": "da",
-"quick_gloss": "giving"
-},
-{
-"surface": "dakṣa",
-"quick_gloss": "right"
-},
-{
-"surface": "hastaiḥ",
-"quick_gloss": "with-hands"
-},
-{
-"surface": "vahantīm",
-"quick_gloss": "bearing"
-}
-]
-},
-{
-"verse_id": "mukta-m00257-p01-v2",
-"song": "mukta-m00257-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "kāmaṃ",
-"quick_gloss": "desire"
-},
-{
-"surface": "vāmaiḥ",
-"quick_gloss": "with-left"
-},
-{
-"surface": "śubha",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "kara",
-"quick_gloss": "making"
-},
-{
-"surface": "talaiḥ",
-"quick_gloss": "with-palms"
-},
-{
-"surface": "bibhratīṃ",
-"quick_gloss": "holding"
-},
-{
-"surface": "viśva",
-"quick_gloss": "by-universe"
-},
-{
-"surface": "vandyāṃ",
-"quick_gloss": "worshipped"
-},
-{
-"surface": "padma",
-"quick_gloss": "on-lotus"
-},
-{
-"surface": "preta",
-"quick_gloss": "on-corpse"
-},
-{
-"surface": "uparikṛta",
-"quick_gloss": "placed"
-},
-{
-"surface": "padāṃ",
-"quick_gloss": "feet"
-},
-{
-"surface": "siddhalakṣmīṃ",
-"quick_gloss": "Siddhalakshmi"
-},
-{
-"surface": "namāmi",
-"quick_gloss": "I-bow"
-}
-]
-},
-{
-"verse_id": "mukta-m00257-p01-v3",
-"song": "mukta-m00257-p01",
-"verse": 3,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "śrī",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "sat",
-"quick_gloss": "true"
-},
-{
-"surface": "paddhati",
-"quick_gloss": "tradition"
-},
-{
-"surface": "ānanda",
-"quick_gloss": "bliss"
-},
-{
-"surface": "kaulena",
-"quick_gloss": "by-Kaula"
-},
-{
-"surface": "mukti",
-"quick_gloss": "liberation"
-},
-{
-"surface": "dāyinī",
-"quick_gloss": "giving"
-},
-{
-"surface": "śrī",
-"quick_gloss": "of-auspicious"
-},
-{
-"surface": "sadguroḥ",
-"quick_gloss": "true-guru"
-},
-{
-"surface": "karuṇayā",
-"quick_gloss": "by-compassion"
-},
-{
-"surface": "bhūyāt",
-"quick_gloss": "may-be"
-},
-{
-"surface": "śrī",
-"quick_gloss": "for-auspicious"
-},
-{
-"surface": "śambhu",
-"quick_gloss": "Shambhu"
-},
-{
-"surface": "prītaye",
-"quick_gloss": "pleasure"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00257-p01-v1",
+  "song": "mukta-m00257-p01",
+  "verse": 1,
+  "quick_english": "Bearing boon and fearlessness with her right hands.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "vara",
+    "quick_gloss": "boon",
+    "grounds": "First member of compound describing hands; legacy hint 'boon'."
+   },
+   {
+    "surface": "anavara",
+    "quick_gloss": "fearlessness",
+    "grounds": "Second member in compound sequence; legacy hint 'and-fearlessness'; form uncertain (possibly variant of abhaya), UNC."
+   },
+   {
+    "surface": "da",
+    "quick_gloss": "giving",
+    "grounds": "Agentive compound member from √dā 'to give'."
+   },
+   {
+    "surface": "dakṣa",
+    "quick_gloss": "right",
+    "grounds": "Qualifies hands as right-side; compound member."
+   },
+   {
+    "surface": "hastaiḥ",
+    "quick_gloss": "with-hands",
+    "grounds": "Instrumental plural denoting means by which she bears."
+   },
+   {
+    "surface": "vahantīm",
+    "quick_gloss": "bearing",
+    "grounds": "Present participle agreeing with Siddhalakshmi (accusative) in verse 2."
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00257-p01-v2",
+  "song": "mukta-m00257-p01",
+  "verse": 2,
+  "quick_english": "Holding desire with her auspicious left palms, worshipped by the universe, with feet placed upon lotus and corpse, I bow to Siddhalakshmi.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "kāmaṃ",
+    "quick_gloss": "desire",
+    "grounds": "Object held or granted by the left hands."
+   },
+   {
+    "surface": "vāmaiḥ",
+    "quick_gloss": "with-left",
+    "grounds": "Qualifies the palms/hands on the left side."
+   },
+   {
+    "surface": "śubha",
+    "quick_gloss": "auspicious",
+    "grounds": "First member of compound describing palms."
+   },
+   {
+    "surface": "kara",
+    "quick_gloss": "making",
+    "grounds": "Agentive compound member indicating action of the palms."
+   },
+   {
+    "surface": "talaiḥ",
+    "quick_gloss": "with-palms",
+    "grounds": "Instrumental plural denoting means by which she holds."
+   },
+   {
+    "surface": "bibhratīṃ",
+    "quick_gloss": "holding",
+    "grounds": "Present participle agreeing with Siddhalakshmi."
+   },
+   {
+    "surface": "viśva",
+    "quick_gloss": "by-universe",
+    "grounds": "First member of compound indicating universal scope."
+   },
+   {
+    "surface": "vandyāṃ",
+    "quick_gloss": "worshipped",
+    "grounds": "Gerundive describing Siddhalakshmi as worthy of worship."
+   },
+   {
+    "surface": "padma",
+    "quick_gloss": "lotus",
+    "grounds": "First member of locative compound describing her stance."
+   },
+   {
+    "surface": "preta",
+    "quick_gloss": "corpse",
+    "grounds": "Second member of locative compound describing her stance."
+   },
+   {
+    "surface": "uparikṛta",
+    "quick_gloss": "placed-upon",
+    "grounds": "Compound member indicating feet placed above lotus and corpse."
+   },
+   {
+    "surface": "padāṃ",
+    "quick_gloss": "feet",
+    "grounds": "Accusative singular describing Siddhalakshmi's feet."
+   },
+   {
+    "surface": "siddhalakṣmīṃ",
+    "quick_gloss": "Siddhalakshmi",
+    "grounds": "Name of the deity, object of homage."
+   },
+   {
+    "surface": "namāmi",
+    "quick_gloss": "I-bow",
+    "grounds": "Main verb expressing the speaker's act of reverence."
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00257-p01-v3",
+  "song": "mukta-m00257-p01",
+  "verse": 3,
+  "quick_english": "By the compassion of the auspicious true guru, may the liberating blissful Kaula of the auspicious true tradition be for the pleasure of auspicious Shambhu.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "śrī",
+    "quick_gloss": "auspicious",
+    "grounds": "Honorific prefix to Shambhu."
+   },
+   {
+    "surface": "sat",
+    "quick_gloss": "true",
+    "grounds": "Compound member qualifying the tradition."
+   },
+   {
+    "surface": "paddhati",
+    "quick_gloss": "tradition",
+    "grounds": "Compound member denoting the ritual or doctrinal path."
+   },
+   {
+    "surface": "ānanda",
+    "quick_gloss": "bliss",
+    "grounds": "Compound member associated with the Kaula."
+   },
+   {
+    "surface": "kaulena",
+    "quick_gloss": "by-Kaula",
+    "grounds": "Instrumental singular indicating the agent or means."
+   },
+   {
+    "surface": "mukti",
+    "quick_gloss": "liberation",
+    "grounds": "First member of compound describing what is given."
+   },
+   {
+    "surface": "dāyinī",
+    "quick_gloss": "giving",
+    "grounds": "Feminine agentive noun, subject of the optative."
+   },
+   {
+    "surface": "śrī",
+    "quick_gloss": "auspicious",
+    "grounds": "Honorific prefix to Shambhu."
+   },
+   {
+    "surface": "sadguroḥ",
+    "quick_gloss": "of-true-guru",
+    "grounds": "Genitive singular indicating source of compassion."
+   },
+   {
+    "surface": "karuṇayā",
+    "quick_gloss": "by-compassion",
+    "grounds": "Instrumental singular indicating the means."
+   },
+   {
+    "surface": "bhūyāt",
+    "quick_gloss": "may-be",
+    "grounds": "Optative expressing a benediction or wish."
+   },
+   {
+    "surface": "śrī",
+    "quick_gloss": "auspicious",
+    "grounds": "Honorific prefix to Shambhu."
+   },
+   {
+    "surface": "śambhu",
+    "quick_gloss": "Shambhu",
+    "grounds": "Name in compound forming purpose of pleasure."
+   },
+   {
+    "surface": "prītaye",
+    "quick_gloss": "for-pleasure",
+    "grounds": "Dative singular expressing purpose."
+   }
+  ]
+ }
 ]

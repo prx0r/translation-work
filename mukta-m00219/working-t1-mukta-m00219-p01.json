@@ -1,27 +1,31 @@
 [
-{
-"verse_id": "mukta-m00219-p01-v1",
-"song": "mukta-m00219-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "liṅgāṅga",
-"quick_gloss": "mark+limb"
-},
-{
-"surface": "kalpanaṃ",
-"quick_gloss": "+fashioning"
-},
-{
-"surface": "samyaggeha",
-"quick_gloss": "proper+house"
-},
-{
-"surface": "bandhanalakṣaṇam",
-"quick_gloss": "+binding+characteristic"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00219-p01-v1",
+  "song": "mukta-m00219-p01",
+  "verse": 1,
+  "quick_english": "The fashioning of mark and limb is characterized as bondage within the proper house.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "liṅgāṅga",
+    "quick_gloss": "mark-limb",
+    "grounds": "compound; liṅga (mark/sign) + aṅga (limb/part)"
+   },
+   {
+    "surface": "kalpanaṃ",
+    "quick_gloss": "fashioning",
+    "grounds": "action noun from kḷp (to fashion, arrange, imagine)"
+   },
+   {
+    "surface": "samyaggeha",
+    "quick_gloss": "proper-house",
+    "grounds": "compound with internal sandhi; samyak (proper/correct) + geha (house)"
+   },
+   {
+    "surface": "bandhanalakṣaṇam",
+    "quick_gloss": "bondage-characteristic",
+    "grounds": "compound; bandhana (bondage/binding) + lakṣaṇa (characteristic/mark)"
+   }
+  ]
+ }
 ]
