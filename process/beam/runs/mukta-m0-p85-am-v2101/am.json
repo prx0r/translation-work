@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p85",
  "verse": 2101,
- "question": "On what basis of devotion and place does a mantra succeed for a practitioner?",
+ "question": "What assurance guarantees that an auspicious abode never abandons its recipients?",
  "premises": [
-  "A practitioner may be devoted in a particular place.",
-  "That same practitioner is the referent of the mantra’s success.",
-  "The mantra succeeds for that devoted practitioner."
+  "An auspicious abode is the subject.",
+  "Abandonment is explicitly negated.",
+  "The recipients are specified as those people."
  ],
- "inference": "A mantra succeeds for the practitioner who is devoted to it in the appropriate place.",
- "uncertainties": [],
- "plain_english": "Wherever and for whomever one is devoted, that mantra succeeds for him."
+ "inference": "The auspicious abode remains with them and does not abandon them.",
+ "uncertainties": [
+  "The exact referent of 'teṣāṃ' depends on the preceding context."
+ ],
+ "plain_english": "The auspicious abode does not abandon them."
 }

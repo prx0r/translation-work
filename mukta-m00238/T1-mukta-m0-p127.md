@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[vijñāna-citra](vijñānacitram) [anagha](anaghaṃ) [likhati](likhatī) [vacitte](vacitte) [vyākhyāna-keli-rasika](vyākhyānakelirasikenakarāṃbujena) [karāṃbuja](karāṃbujena)
+[knowledge](vijñāna) [wonderful](citraṃ) [stainless](anaghaṃ) [writes](likhatīva) [in-mind](citte) [exposition](vyākhyāna) [sport](keli) [delighting-in](rasikena) [hand](kara) [lotus](aṃbujena)
 
 ## mukta-m0-p127-v3152
-[paśye](paśyema) [lakṣmaṇa-muni](lakṣmaṇamuneḥ) [pratipanna-hasta](pratipannahastām) [unnidra-padma-subhagā](unnidrapadmasubhagām) [upadeśa-mudrā](upadeśamudrām)
+[may-we-behold](paśyema) [of-Lakṣmaṇa-sage](lakṣmaṇamuneḥ) [assumed](pratipanna) [hand](hastām) [blooming](unnidra) [lotus](padma) [beautiful](subhagām) [instruction](upadeśa) [gesture](mudrām)
 
 ## mukta-m0-p127-v3153
-[pathyāni](pathyāni) [ghora-bhava-saṃjvara-pīḍitānām](ghorabhavasaṃjvarapīḍitānāṃ) [hṛdyāni](hṛdyāni) [bhānti](bhāṃti) [yatirāja-muni](yatirājamuneḥ) [vacāṃsi](vacāṃsi)
+[wholesome](pathyāni) [terrible](ghora) [worldly-existence](bhava) [fever](saṃjvara) [afflicted](pīḍitānāṃ) [pleasing-to-heart](hṛdyāni) [shine](bhāṃti) [of-king-of-ascetics-sage](yatirājamuneḥ) [words](vacāṃsi)
 
 ## mukta-m0-p127-v3154
-[tāpa-anubaṃdha-śamana](tāpānubaṃdhaśamanaḥ) [tapana](tapanaḥ) [prajānām](prajānāṃ) [rāmānuja](rāmānujo) [jayati](jayati) [saṃvalita-tridhāmā](saṃvalitatridhāmā)
+[heat](tāpa) [continuity](anubaṃdha) [destroyer](śamanaḥ) [sun](tapanaḥ) [of-beings](prajānāṃ) [Rāmānuja](rāmānujo) [triumphs](jayati) [endowed-with](saṃvalita) [three-abodes](tridhāmā)
 
 ## mukta-m0-p127-v3155
-[nikhila-kumati-māyā-śarvarī](nikhilakumatimāyāśarvarī) [bāla-sūrya](bālasūryo) [nigama-jaladhi-velā-pūrṇa-candra](nigamajaladhivelāpūrṇacaṃdro) [yatīṃdra](yatīṃdraḥ)
+[all](nikhila) [false-doctrines](kumati) [illusion](māyā) [night](śarvarī) [young-sun](bālasūryo) [Veda](nigama) [ocean](jaladhi) [shore](velā) [full-moon](pūrṇacaṃdro) [king-of-ascetics](yatīṃdraḥ)
 
 ## mukta-m0-p127-v3156
-[śamita-durita-khedā](śamitaduritakhedā) [saṃyamīṃdra](saṃyamīṃdrasya) [sūkti](sūktiḥ) [paricita-gahanā](paricitagahanānaḥ) [prasnuvīta](prasnuvītaprasādam) [prasādam](prasādam)
+[removed](śamita) [sin](durita) [sorrow](khedā) [of-lord-of-ascetics](saṃyamīṃdrasya) [good-speech](sūktiḥ) [familiar-with](paricita) [depths](gahanān) [may-flow](prasnuvīta) [grace](prasādam)
 
 ## mukta-m0-p127-v3157
-[śruti-nayana-sanābhi](śrutinayanasanābhiḥ) [śobhate](śobhate) [lakṣmaṇa-ukti](lakṣmaṇoktir) [naraka-mathana-sevā](narakamathanasevā) [svādana-āḍiṃ](svādanāḍiṃ) [dhamānām](dhamānām)
+[with-Veda](śruti) [eye](nayana) [akin](sanābhiḥ) [shines](śobhate) [Lakṣmaṇa's-speech](lakṣmaṇoktiḥ) [demon](nara) [slayer](kamathana) [service](sevā) [relish](svāda) [channel](nāḍiṃ) [blowing](dhamānām)
 
 ## mukta-m0-p127-v3158
-[śamita-durita-gaṃdhā](śamitaduritagaṃdhāḥ) [saṃyamīṃdra-prabaṃdhā](saṃyamīṃdraprabaṃdhāḥ) [kutuki-jana-manīṣā](kutukijanamanīṣā) [kalpanā-kalpa-vṛkṣā](kalpanākalpavṛkṣāḥ)
+[removed](śamita) [sin](durita) [fragrance](gaṃdhāḥ) [of-lord-of-ascetics](saṃyamīṃdra) [compositions](prabaṃdhāḥ) [of-curious-people](kutukijana) [intellect](manīṣā) [imagination](kalpanā) [wish-fulfilling-trees](kalpavṛkṣāḥ)
 
 ## mukta-m0-p127-v3159
-[viśvaṃ-trātuṃ](viśvaṃtrātuṃ) [viṣaya-niyataṃ](viṣayaniyataṃ) [vyaṃjita-anugraha](vyaṃjitānugrahassan) [viṣvaksena](viṣvakseno) [yatipati](yatipatirasau) [vetra-sāra-tridaṃḍa](vetrasārastridaṃḍaḥ)
+[world](viśvaṃ) [to-protect](trātuṃ) [in-objects](viṣaya) [restrained](niyataṃ) [manifested](vyaṃjita) [grace](anugrahaḥ) [with](san) [Viṣvaksena](viṣvakseno) [lord-of-ascetics](yatipatiḥ) [with-white-umbrella](sauvetra) [essence](sāraḥ) [with-triple-staff](tridaṃḍaḥ)
 
 ## mukta-m0-p127-v3160
-[madhukara-mauli-daghna](madhukaramaulidaghnam) [mada-daṃtura-daṃti-ghaṭā](madadaṃturadaṃtighaṭāḥ) [karaṭa-kaṭāha-vāhi-ghana-śīkara-śīpharitām](karaṭakaṭāhavāhighanaśīkaraśīpharitām)
+[bee](madhukara) [head](mauli) [striking](daghnaṃ) [gave](adadaṃ) [horse](tura) [elephant](daṃti) [herds](ghaṭāḥ) [temple](karaṭa) [basin](kaṭāha) [stream](vāhi) [thick](ghana) [spray](śīkara) [sprinkled](śīpharitām)
 
 ## mukta-m0-p127-v3161
-[guṇa-pariṇaddha-sūkti](guṇapariṇaddhasūkti) [dṛḍha-koṭi-vighaṭṭanayā](dṛḍhakoṭivighaṭṭanayā) [raṭati](raṭatidiśāṃmukheṣu) [yatirāja-yaśaḥ](yatirājayaśaḥ) [paṭaha](paṭahaḥ)
+[virtue](guṇa) [bound](pariṇaddha) [good-speech](sūkti) [firm](dṛḍha) [tip](koṭi) [by-striking](vighaṭṭanayā) [resounds](raṭati) [in-directions](diśāṃ) [faces](mukheṣu) [of-king-of-ascetics](yatirāja) [fame](yaśaḥ) [drum](paṭahaḥ)
 
 ## mukta-m0-p127-v3162
-[kṣaraṃty](kṣaraṃty) [amṛtam](amṛtam) [akṣaraṃ](akṣaraṃ) [yatipuraṃdara](yatipuraṃdarasya) [uktayaḥ](uktayaḥ) [ciraṃtana-sarasvatī-cikura-baṃdha-sairaṃdhrikāḥ](ciraṃtanasarasvatīcikurabaṃdhasairaṃdhrikāḥ)
+[flow](kṣaraṃti) [nectar](amṛtaṃ) [imperishable](akṣaraṃ) [of-lord-of-ascetics](yatipuraṃdarasya) [utterances](uktayaḥ) [ancient](ciraṃtana) [Sarasvatī](sarasvatī) [hair](cikura) [braid](baṃdha) [maidservant](sairaṃdhrikāḥ)
 
 ## mukta-m0-p127-v3163
-[muni](munir) [manasi](manasilakṣmaṇo) [lakṣmaṇo](lakṣmaṇo) [mudam](mudamudaṃ) [ca](ca) [yatyaṃjasā](yatyaṃjasā) [mukuṃda-guṇa-mauktika-prakara-yukti](mukuṃdaguṇamauktikaprakarayuktibhiḥ) [sūktibhiḥ](sūktibhiḥ)
+[sage](muniḥ) [in-mind](manasi) [Lakṣmaṇa](lakṣmaṇo) [joy](mudaṃ) [joy](mudaṃ) [and](ca) [ascetic](yati) [effortlessly](aṃjasā) [Mukunda](mukuṃda) [qualities](guṇa) [pearl](mauktika) [multitude](prakara) [endowed-with-reasonings](yuktibhiḥ) [with-good-sayings](sūktibhiḥ)
 
 ## mukta-m0-p127-v3164
-[kudṛṣṭi-kuhanā-mukhe](kudṛṣṭikuhanāmukhe) [nipatataḥ](nipatataḥ) [parabrahmaṇaḥ](parabrahmaṇaḥ) [kara-graha-vicakṣaṇo](karagrahavicakṣaṇo) [jayati](jayati) [lakṣmaṇa](lakṣmaṇoyaṃ) [muni](muniḥ)
+[false-view](kudṛṣṭi) [deceit](kuhanā) [mouth](mukhena) [falling](nipatataḥ) [of-Supreme-Brahman](parabrahmaṇaḥ) [hand](kara) [seizing](graha) [skilled](vicakṣaṇo) [triumphs](jayati) [Lakṣmaṇa](lakṣmaṇo) [this](ayaṃ) [sage](muniḥ)
 
 ## mukta-m0-p127-v3165
-[tathāgata-kathā-śataiḥ](tathāgatakathāśataistadanusārijalpairapi) [tadanusāri-jalpaiḥ](tadanusārijalpairapi) [api](api) [prasāritaṃ](prasāritamidaṃ) [idaṃ](idaṃ) [jagat](jagat) [praguṇitaṃ](praguṇitaṃ) [yatīṃdra-ukti](yatīṃdroktibhiḥ)
+[of-Tathāgata](tathāgata) [doctrines](kathā) [hundreds](śataiḥ) [their](tad) [followers](anusāri) [prattlings](jalpaiḥ) [also](api) [spread](prasāritaṃ) [this](idaṃ) [world](jagat) [set-right](praguṇitaṃ) [by-lord-of-ascetics](yatīṃdra) [utterances](uktibhiḥ)
 
 ## mukta-m0-p127-v3166
-[jayaṃti](jayaṃtisudhiyo) [sudhiyo](sudhiyo) [yatikṣitibhṛd-aṃtika-upāsana](yatikṣitibhṛdaṃtikopāsanaprabhāvaparipaktrimā) [prabhāva-paripaktrimā](prabhāvaparipaktrimā) [apramita-bhāratī-saṃpadaḥ](apramitabhāratīsaṃpadaḥ)
+[triumph](jayanti) [wise-men](sudhiyo) [ascetic](yati) [king](kṣitibhṛt) [elephant](aṃti) [worship](upāsana) [power](prabhāva) [ripened](paripaktrimā) [immeasurable](apramita) [speech](bhāratī) [wealth](saṃpadaḥ)
 
 ## mukta-m0-p127-v3167
-[tadanya-mata-durmata-jvalita-cetasāṃ](tadanyamatadurmatajvalitacetasāṃ) [vādināṃ](vādināṃ) [śiras](śirassunihitaṃ) [su-nihitaṃ](sunihitaṃ) [mayā](mayā) [padam](padam) [adakṣiṇaṃ](adakṣiṇaṃ) [dakṣiṇam](dakṣiṇam)
+[other-than-that](tadanya) [false-doctrine](matadurmata) [burning](jvalita) [minds](cetasāṃ) [of-debaters](vādināṃ) [on-heads](śirassu) [placed](nihitaṃ) [by-me](mayā) [foot](padaṃ) [not-gentle](adakṣiṇaṃ) [skillful](dakṣiṇam)
 
 ## mukta-m0-p127-v3168
-[labhasva](labhasvahṛdayasvayaṃ) [hṛdaya](hṛdaya) [svayaṃ](svayaṃ) [ratha-pada-āyudha-anugraha](rathapadāyudhānugrahadrutaprahatinistruṭaddurita) [druta-prahati](drutaprahati) [nistruṭat](nistruṭat) [durita-duṣkṛti](duritaduṣkṛtiṃ) [niṣkṛtiṃ](niṣkṛtim)
+[obtain](labhasva) [in-heart](hṛdaya) [yourself](svayaṃ) [chariot](ratha) [wheel](pada) [weapon](āyudha) [grace](anugraha) [swift](druta) [struck](prahati) [shattered](nistruṭat) [sin](durita) [evil-deed](duṣkṛtiṃ) [expiation](niṣkṛtim)
 
 ## mukta-m0-p127-v3169
-[tatra](tatra) [ekatra](ekatra) [jhaḍiti](jhaḍityupaitivilayaṃ) [upaiti](upaiti) [vilayaṃ](vilayaṃ) [tattan-mata-sthāpanā](tattanmatasthāpanā) [heva](heva) [kā](kā) [prathamānaha](prathamānahaitukakathākallola) [aituka-kathā-kallola-kolāhala](aitukakathākallolakolāhalaḥ)
+[there](tatra) [in-one-place](ekatra) [suddenly](jhaḍiti) [goes](upaiti) [to-dissolution](vilayaṃ) [that](tat) [that-doctrine](tanmata) [establishment](sthāpanā) [challenge](āhava) [foremost](prathamāna) [logicians](haituka) [discourse](kathā) [wave](kallola) [tumult](kolāhalaḥ)
 
 ## mukta-m0-p127-v3170
-[vikaṭa-murabhid-vakṣaḥ-pīṭhī-pariṣkaraṇa-ucita](vikaṭamurabhidvakṣaḥpīṭhīpariṣkaraṇocitaḥ) [kula-giri-tulā-rohe](kulagiritulārohe) [bhāvī](bhāvī) [kiyān](kiyānivakaustubhaḥ) [iva](iva) [kaustubha](kaustubhaḥ)
+[broad](vikaṭa) [Mura-slayer](murabhid) [chest](vakṣaḥ) [seat](pīṭhī) [ornament](pariṣkaraṇa) [fit](ucitaḥ) [principal-mountain](kulagiri) [balance](tulā) [mounting](āroha) [to-be](bhāvī) [how-great](kiyān) [indeed](iva) [Kaustubha](kaustubhaḥ)
 
 ## mukta-m0-p127-v3171
-[rasa-parimala-ślāghā-ghoṣa-sphuṭat-puṭa-bhedanaṃ](rasaparimalaślāghāghoṣasphuṭatpuṭabhedanaṃ) [lavaṇa-vaṇijaḥ](lavaṇavaṇijaḥ) [karpūra-arhaṃ](karpūrārghaṃ) [kim](kim) [itya](itya) [abhimanvate](abhimanvate)
+[essence](rasa) [fragrance](parimala) [praise](ślāghā) [cry](ghoṣa) [bursting](sphuṭat) [bundle](puṭa) [breaking](bhedanaṃ) [salt](lavaṇa) [merchants](vaṇijaḥ) [camphor](karpūra) [price](arghaṃ) [why](kim) [thus](iti) [do-they-claim](abhimanvate)
 
 ## mukta-m0-p127-v3172
-[tadapi](tadapi) [paramaṃ](paramaṃ) [tattvaṃ](tattvaṃ) [gopī-janasya](gopījanasya) [vaśaṃvadaṃ](vaśaṃvadaṃ) [madana-kadanaiḥ](madanakadanair) [na](na) [kliśyaṃte](kliśyaṃte) [yatīśvara-saṃśrayāḥ](yatīśvarasaṃśrayāḥ)
+[nevertheless](tadapi) [supreme](paramaṃ) [truth](tattvaṃ) [of-cowherd-women](gopījanasya) [submissive](vaśaṃvadaṃ) [pride](mada) [itch](naka) [scratching](dānaiḥ) [do-not-suffer](nakliśyaṃte) [of-lord-of-ascetics](yatīśvara) [refuge-takers](saṃśrayāḥ)
 
 ## mukta-m0-p127-v3173
-[tribhuvana-tamaḥ-pratyūṣa](tribhuvanatamaḥpratyūṣoyaṃ) [yaṃ](yaṃ) [trividya-śikhāmaṇi](trividyaśikhāmaṇiḥ) [yatiparivṛḍha](yatiparivṛḍho) [rakṣā-yaṃtraṃ](rakṣāyaṃtraṃ) [ramāpati-saṃpadām](ramāpatisaṃpadām)
+[three-worlds](tribhuvana) [darkness](tamaḥ) [dawn](pratyūṣo) [this](ayaṃ) [three-Vedas](trividyā) [crest-jewel](śikhāmaṇiḥ) [of-lord-of-ascetics](yatiparivṛḍhoḥ) [protective-charm](rakṣāyaṃtraṃ) [of-Lakṣmī's-lord](ramāpati) [wealth](saṃpadām)
 
 ## mukta-m0-p127-v3174
-[śruti-surabhayaḥ](śrutisurabhayaḥ) [siddhānaṃdābhivarṣuka-vāridā](siddhānaṃdābhivarṣukavāridā) [yamagatikathā-vicchedinyaḥ](yamagatikathāvicchedinyo) [yatīśvara-sūktayaḥ](yatīśvarasūktayaḥ)
+[Veda](śruti) [fragrant](surabhayaḥ) [perfected](siddha) [bliss](ānanda) [rain-showering](abhivarṣuka) [clouds](vāridā) [of-destitute](yamagati) [tale](kathā) [cutting-off](vicchedinyo) [of-lord-of-ascetics](yatīśvara) [good-sayings](sūktayaḥ)
 
 ## mukta-m0-p127-v3175
-[akaluṣa-parijñāna-utsukya-kṣudhātura-durdaśā](akaluṣaparijñānautsukyakṣudhāturadurdaśā) [pariṇata-phala-pratyāsīdat](pariṇataphalapratyāsīdat) [phale-grahi](phalegrahi) [sugrahāḥ](sugrahāḥ)
+[stainless](akaluṣa) [knowledge](parijñāna) [eagerness](autsukya) [hunger](kṣudhā) [afflicted](ātura) [wretched-state](durdaśā) [ripened](pariṇata) [fruit](phala) [approaching](pratyāsīdat) [fruit](phale) [seizing](grahi) [easily-grasped](sugrahāḥ)

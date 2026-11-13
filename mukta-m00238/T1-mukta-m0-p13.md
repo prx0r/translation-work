@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-dhūrjaṭi+mālinī+ghorā+kapālī+viṣa+bhojinī
+[matted-hair](dhūrjaṭī)+[garlanded](mālinī)+[terrible](ghorā)+[skull-holder](kapālī)+[poison](viṣa)+[eater](bhojinī)
 
 ## mukta-m0-p13-v302
-catuṣṣaṣṭiḥ+samākhyātāḥ yoginyaḥ+vara+siddhi+dāḥ
+[sixty](catuṣ)+[four](ṣaṣṭiḥ)+[declared](samākhyātāḥ) [yoginīs](yoginyaḥ)+[excellent](vara)+[siddhi](siddhi)+[givers](dāḥ)
 
 ## mukta-m0-p13-v303
-nāsā+ante phāla+madhye ḍapha+kaṭha+sahite kaṃṭha+madhye svarāṇāṃ haṃ+kṣaṃ tattva+artha+yuktaṃ sakala+dala+gataṃ varṇa+rūpaṃ+namāmi
+[nose](nāsa)+[at-tip](ante) [forehead](phāla)+[in-middle](madhye) [ḍa](ḍa)+[pha](pha)+[ka](ka)+[ṭha](ṭha)+[accompanied](sahite) [throat](kaṃṭha)+[in-middle](madhye) [of-vowels](svarāṇāṃ) [haṃ](haṃ)+[kṣaṃ](kṣaṃ) [tattva](tattva)+[meaning](artha)+[endowed](yuktam) [all](sakala)+[petal](dala)+[gone](gatam) [letter](varṇa)+[form](rūpaṃ)+[I-bow](namāmi)
 
 ## mukta-m0-p13-v304
-śara+āsanaṃ varaṃ+dakṣe+dhātte vāme+śara+abhayau || 1 || raktavarṇaḥ
+[bow](śarāsanaṃ) [excellent](varaṃ)+[in-right](dakṣe)+[holds](dhatte) [in-left](vāme)+[arrows](śara)+[fearlessness](abhayau) [1](|| 1 ||) [red](rakta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v305
-dhātte khaṭvāṃ ca kheṭaṃ ca krameṇa+eva+vara+abhayau || 1 || śyāvarṇaḥ
+[holds](dhatte) [bedstead](khaṭvāṃ) [and](ca) [shield](kheṭaṃ) [and](ca) [in-order](krameṇa)+[indeed](eva)+[boon](vara)+[fearlessness](abhayau) [1](|| 1 ||) [dark](śyāva)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v306
-caṃdra+hāsa+varau dakṣe vāme+dhātte+gadā+abhayau || 1 || śveta+varṇaḥ
+[scimitar](caṃdrahāsa)+[boons](varau) [in-right](dakṣe) [in-left](vāme)+[holds](dhatte)+[mace](gadā)+[fearlessness](abhayau) [1](|| 1 ||) [white](śveta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v307
-śārikāṃ ca varaṃ+dakṣe vāme+dhātte+ṃkuśa+abhayau || 1 || svarṇa+varṇaḥ
+[myna-bird](śārikāṃ) [and](ca) [boon](varaṃ)+[in-right](dakṣe) [in-left](vāme)+[holds](dhatte)+[goad](aṃkuśa)+[fearlessness](abhayau) [1](|| 1 ||) [gold](svarṇa)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v308
-dakṣe+śūla+ṃkuśa+varān vāme pāśa+gadā+abhayān || 1 || śubhra+varṇaḥ
+[in-right](dakṣe)+[trident](śūla)+[goad](aṃkuśa)+[boons](varān)+[in-left](vāme) [noose](pāśa)+[mace](gadā)+[fearlessness](abhayān) [1](|| 1 ||) [bright](śubhra)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v309
-raktā+catur+bhujā dhātte+khaḍga+kheṭa+vara+abhayān || 1 || raktavarṇaḥ
+[red](raktā)+[four](catur)+[armed](bhujā) [holds](dhatte)+[sword](khaḍga)+[shield](kheṭa)+[boon](vara)+[fearlessness](abhayān) [1](|| 1 ||) [red](rakta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v310
-dakṣe+pāśa+vara+udhātte tathā vāme+ṃkuśa+abhayau || 1 || raktavarṇaḥ
+[in-right](dakṣe)+[noose](pāśa)+[boon](varau)+[holds](dhatte) [likewise](tathā) [in-left](vāme)+[goad](aṃkuśa)+[fearlessness](abhayau) [1](|| 1 ||) [red](rakta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v311
-śūlaṃ+pāśaṃ+varaṃ dakṣe+vāme khaḍga+gadā+abhayān
+[trident](śūlaṃ)+[noose](pāśaṃ)+[boon](varaṃ) [in-right](dakṣe)+[in-left](vāme) [sword](khaḍga)+[mace](gadā)+[fearlessness](abhayān)
 
 ## mukta-m0-p13-v312
-dadhānā+rakta+siṃha+sthā+krūra+āloka+bhayaṃkarī || śveta+varṇaḥ
+[bearing](dadhānā)+[red](rakta)+[lion](siṃha)+[seated](sthā)+[fierce](krūra)+[world](loka)+[fear](bhayaṃ)+[causing](karī) [white](śveta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v313
-catur+mukha+aṣṭa+hasteyaṃ dhātte+strāṇi+karaiḥ+paraiḥ
+[four](catur)+[faced](mukhā)+[eight](aṣṭa)+[handed](hasta)+[this-one](iyam) [holds](dhatte)+[weapons](strāṇi)+[with-hands](karaiḥ)+[other](paraiḥ)
 
 ## mukta-m0-p13-v314
-khaḍgaṃ kapāla+musalā+abhayān+pītāṃbarā+śubhā || 2 || śyāma+varṇaḥ
+[sword](khaḍgaṃ) [skull](kapāla)+[club](musala)+[fearlessness](abhayān)+[yellow](pīta)+[garment](aṃbarā)+[auspicious](śubhā) [2](|| 2 ||) [dark](śyāma)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v315
-raktā+daśa+bhujā+ardhena dakṣa+ādi+kramaśaḥ+karaiḥ
+[red](raktā)+[ten](daśa)+[armed](bhujā)+[half](ardhena) [from-right](dakṣa)+[etc.](ādi)+[in-order](kramaśaḥ)+[with-hands](karaiḥ)
 
 ## mukta-m0-p13-v316
-vāmaiḥ+karaiḥ+khaḍga+kheṭa+gadā+śakti+abhayāṃstathā || 2 || raktavarṇaḥ
+[with-left](vāmaiḥ)+[hands](karaiḥ)+[sword](khaḍga)+[shield](kheṭa)+[mace](gadā)+[spear](śakti)+[fearlessness](abhayān)+[likewise](tathā) [2](|| 2 ||) [red](rakta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v317
-raktā+viṃśat+bhujā siṃha+vāhanā+phāla+locanā
+[red](raktā)+[twenty](viṃśad)+[armed](bhujā) [lion](siṃha)+[vehicle](vāhanā)+[forehead](phāla)+[eyed](locanā)
 
 ## mukta-m0-p13-v318
-akṣa+sūtraṃ ca cin+mudrāṃ+bhuśuḍīṃ+mudgaraṃ varam
+[rosary](akṣasūtraṃ) [and](ca) [cin-mudrā](cinmudrāṃ)+[hammer](bhuśuḍīṃ)+[mallet](mudgaraṃ) [boon](varam)
 
 ## mukta-m0-p13-v319
-kapālaṃ+dahanaṃ+śoṣaṃ+daṃḍaṃ ca+eva gadā+abhayau || 3 || raktavarṇaḥ
+[skull](kapālaṃ)+[fire](dahanaṃ)+[drying](śoṣaṃ)+[staff](daṃḍaṃ) [and](ca)+[indeed](eva) [mace](gadā)+[fearlessness](abhayau) [3](|| 3 ||) [red](rakta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v320
-mayūra+gā+aṣaḍ+bhujeyaṃ raktakeśaiḥ+ca saṃvṛtā
+[peacock](mayūra)+[mounted](gā)+[six](ṣaḍ)+[armed](bhujā)+[this-one](iyam) [red](rakta)+[hair](keśaiḥ)+[and](ca) [covered](saṃvṛtā)
 
 ## mukta-m0-p13-v321
-vāmaiḥ+śaṃkhaṃ+gadāṃ+gurvīṃ+karair+dhātte+abhayaṃ tathā || 2 || śubhra+varṇaḥ
+[with-left](vāmaiḥ)+[conch](śaṃkhaṃ)+[mace](gadāṃ)+[heavy-club](gurvīṃ)+[with-hands](karaiḥ)+[holds](dhatte)+[fearlessness](abhayaṃ) [likewise](tathā) [2](|| 2 ||) [bright](śubhra)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v322
-mayūra+gārka+bāhu+ssyād+dhātte+dakṣe+ṃkuśaṃ+śaram
+[peacock](mayūra)+[mounted](gā)+[twelve](arka)+[armed](bāhuḥ)+[should-be](syāt)+[holds](dhatte)+[in-right](dakṣe)+[goad](aṃkuśaṃ)+[arrow](śaram)
 
 ## mukta-m0-p13-v323
-vāme+śūlaṃ kārmukaṃ ca kheṭaṃ+musalameva ca
+[in-left](vāme)+[trident](śūlaṃ) [bow](kārmukaṃ) [and](ca) [shield](kheṭaṃ)+[club](musalam)+[indeed](eva) [and](ca)
 
 ## mukta-m0-p13-v324
-pustakaṃ+ca+abhayaṃ ca+eva sarva+śatru+bhayaṃkarī || raktavarṇaḥ
+[book](pustakaṃ)+[and](ca)+[fearlessness](abhayaṃ) [and](ca)+[indeed](eva) [all](sarva)+[enemy](śatru)+[fear](bhayaṃ)+[causing](karī) [red](rakta)+[colored](varṇaḥ)
 
 ## mukta-m0-p13-v325
-eka+vaktrā+vakra+netrā+bhrukuṭī+kuṭilekṣaṇā
+[one](eka)+[faced](vaktrā)+[curved](vakra)+[eyed](netrā)+[frown](bhrukuṭī)+[curved](kuṭila)+[eyed](īkṣaṇā)
