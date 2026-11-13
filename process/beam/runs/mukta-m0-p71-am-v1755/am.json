@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p71",
  "verse": 1755,
- "question": "Where must the disciple's totality be ritually offered after summoning?",
+ "question": "Does the manner of bodily disposal affect inclusion in the ritual remembrance?",
  "premises": [
-  "The disciple is summoned.",
-  "The totality is to be offered.",
-  "The fire is specified as the place of offering."
+  "Some deceased were burnt by fire.",
+  "Others were not burnt by fire.",
+  "Both groups are included in the enumeration."
  ],
- "inference": "After summoning the disciple, one must offer his totality in the fire.",
- "uncertainties": [
-  "The referent of tena is ambiguous between the officiant and a ritual means."
- ],
- "plain_english": "Having summoned the disciple, by that means one should offer the totality in the fire."
+ "inference": "Both cremated and uncremated dead are included regardless of bodily disposal.",
+ "uncertainties": [],
+ "plain_english": "Some who were burnt by fire, and likewise others who were not burnt by fire, are included."
 }
