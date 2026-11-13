@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p113",
  "verse": 2821,
- "question": "What claim is made about the completeness of the praise already declared?",
+ "question": "Which items must be excluded from the offering?",
  "premises": [
-  "The essence of the praise has been declared.",
-  "The listener is asked what more they wish to hear."
+  "Untimely jackfruit is mentioned",
+  "Other similar items are also included in the prohibition",
+  "One should avoid these items"
  ],
- "inference": "The essential praise is presented as complete, leaving the question of what more could be desired.",
- "uncertainties": [],
- "plain_english": "The essence of the praise has been declared; what more do you wish to hear?"
+ "inference": "Untimely jackfruit and other such items should be avoided in offerings.",
+ "uncertainties": [
+  "scope of anyad api is unspecified"
+ ],
+ "plain_english": "One should avoid untimely jackfruit and likewise any other such thing."
 }

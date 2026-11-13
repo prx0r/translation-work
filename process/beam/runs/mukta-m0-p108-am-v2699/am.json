@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p108",
  "verse": 2699,
- "question": "What sovereign status does the goddess hold over sky-clad groups?",
+ "question": "Which desirable offerings are indicated for use in the ritual?",
  "premises": [
-  "The goddess is adored by the group of sky-clad goddesses.",
-  "The goddess is the sovereign of the group of the sky-clad.",
-  "Adoration and sovereignty establish her supreme position."
+  "Sandalwood, aloewood, and lotuses are mentioned.",
+  "These items are described as desirable.",
+  "Any such desirable items may be included."
  ],
- "inference": "The goddess is both adored by and sovereign over the sky-clad groups.",
- "uncertainties": [],
- "plain_english": "She is adored by the group of sky-clad goddesses and is the sovereign of the sky-clad group."
+ "inference": "Whatever desirable sandalwood, aloewood, and lotuses are available may be used as offerings.",
+ "uncertainties": [
+  "The verb governing these items is likely in the following verse."
+ ],
+ "plain_english": "Whatever desirable sandalwood, aloewood, and lotuses there may be."
 }

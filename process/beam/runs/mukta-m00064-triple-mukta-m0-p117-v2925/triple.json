@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p117",
+ "items": [
+  {
+   "verse": 2925,
+   "rows": [
+    {
+     "surface": "tapaḥ",
+     "gloss": "austerity",
+     "grounds": "object of the gerund taptvā; cognate accusative",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "taptvā",
+     "gloss": "having-performed-austerity",
+     "grounds": "absolutive expressing completed action prior to implied result",
+     "morph": "gerund(tap)"
+    },
+    {
+     "surface": "anya+tīrtheṣu",
+     "gloss": "at-other-holy-places",
+     "grounds": "locative compound indicating locations other than Viṣṇupuṣkara",
+     "morph": "anya+comp.loc.pl.nt"
+    },
+    {
+     "surface": "varṣāṇām+ayutam",
+     "gloss": "for-ten-thousand-years",
+     "grounds": "duration expressed by genitive plural with numeral noun ayutam",
+     "morph": "n.gen.pl.nt+n.acc.sg.nt"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "a-person",
+     "grounds": "agent performing the austerity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can ten thousand years of austerity at other holy places equal the merit of dwelling at Viṣṇupuṣkara?",
+   "premises": [
+    "A person may perform austerity at other holy places.",
+    "Such austerity may continue for ten thousand years.",
+    "This prolonged effort is presented as a measure of comparative merit."
+   ],
+   "inference": "Even extreme and prolonged austerity elsewhere is set as a benchmark against the merit of residing at Viṣṇupuṣkara.",
+   "uncertainties": [
+    "The verse is syntactically incomplete without the following comparative result stated in adjacent verses."
+   ],
+   "plain_english": "A person, having performed austerity at other holy places for ten thousand years..."
+  }
+ ]
+}
