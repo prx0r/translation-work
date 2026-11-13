@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[from-king](rājataḥ) [from-rich-man](dhanitaḥ) [from-another](anyasmāt) [by-which](yena) [that](asau) [would-be](syāt) [happy](sukhī) [for-long](ciram)
+[from-king](rājato) [from-wealthy-person](dhanito) [from-other](anyasmād) [by-which](yena) [he](asau) [may-be](syāt) [happy](sukhī) [for-long](ciram)
 
 ## mukta-m0-p127-v3152
-[he-obtains](prāpnoti) [invaluable-gems](anargha+ratnāni) [many](bahūni) [by-the-majesty-of-meditation](dhyāna+vaibhavāt)
+[obtains](prāpnoti) [priceless+jewels](anargha+ratnāni) [many](bahūni) [meditation+power](dhyāna+vaibhavāt)
 
 ## mukta-m0-p127-v3153
-[remembering](smaran) [gold](kanakam) [he-obtains](āpnoti) [of-excellent-color](varṇa+utkṛṣṭam) [countless](asaṃkhyakam)
+[remembering](smaran) [gold](kanakam) [obtains](āpnoti) [color+excellent](varṇa+utkṛṣṭam) [innumerable](asaṃkhyakam)
 
 ## mukta-m0-p127-v3154
-[as-long-as-life](yāvat+āyuṣam) [as-long-as-life-span](yāvat+jīvam)
+[as-long-as-life](yāvat+āyuṣaṃ) [as-long-as-living](yāvat+jīvam)
 
 ## mukta-m0-p127-v3155
-[by-the-manner](prakāreṇa) [previously-stated](anantara+pūrva+uktaprakāreṇa)
+[by-immediately+previously+stated+method](anantara+pūrva+ukta+prakāreṇa)
 
 ## mukta-m0-p127-v3156
-[there-would-be](syāt) [so-much-wealth](tāvat+dhanam) [this-is-the-meaning](iti+arthaḥ)
+[may-be](syāt) [so-much+wealth](tāvat+dhanam) [thus+meaning](iti+arthaḥ)
 
 ## mukta-m0-p127-v3157
-[by-the-previously-stated-manner-of-meditation](pūrva+ukta+dhyāna+prakāreṇa)
+[by-previously+stated+meditation+method](pūrva+ukta+dhyāna+prakāreṇa)
 
 ## mukta-m0-p127-v3158
-[thus](tathā) [as-before](prāgvat) [by-the-manner-of-meditation](dhyāna+prakāreṇa)
+[likewise](tathā) [as-before](prākvat) [by-meditation+method](dhyāna+prakāreṇa)
 
 ## mukta-m0-p127-v3159
-[abounding-in-beauty-youth-virtue](rūpa+yauvana+śīla+āḍhyāḥ) [love-subduing](premanighnāḥ) [but-not-attached-to-another](tu+ananyagāḥ)
+[beauty+youth+virtue+endowed](rūpa+yauvana+śīla+āḍhyāḥ) [love+overwhelmed](prema+nighnāḥ) [and](tu) [not+going-to-another](ananya+gāḥ)
 
 ## mukta-m0-p127-v3160
-[the-king](nṛpatim) [he-makes](kurute) [subject](vaśyam) [by-mind-speech-body-actions](manas+vāk+kāya+karmabhiḥ)
+[king](nṛpatiṃ) [makes](kurute) [submissive](vaśyaṃ) [by-mind+speech+body+actions](manaḥ+vāk+kāya+karmmabhiḥ)
 
 ## mukta-m0-p127-v3161
-[he-subdues](vaśīkaroti) [in-the-world](bhuvane) [living-beings](prāṇinaḥ) [and](ca) [especially](viśeṣataḥ)
+[subdues](vaśīkaroti) [in-world](bhuvane) [beings](prāṇinaḥ) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p127-v3162
-[the-desired-object](vāñchitam) [he-attains-completely](samavāpnoti) [freed](muktaḥ) [he-would-be](syāt) [from-shackles-etc](nigaḍa+āditaḥ)
+[desired](vāñchitaṃ) [obtains](samavāpnoti) [freed](muktaḥ) [may-be](syāt) [from-fetters+etc](nigaḍa+āditaḥ)
 
 ## mukta-m0-p127-v3163
-[the-desired-objects](vāñchitāni) [having-written](likhitvā) [them](tāḥ) [on-plates](paṭeṣu) [new](navasu) [clearly](sphuṭam)
+[desired-things](vāñchitāni) [having-written](likhitvā) [them](tāḥ) [on-cloths](paṭeṣu) [in-nine](navasu) [clearly](sphuṭam)
 
 ## mukta-m0-p127-v3164
-[chariots-elephants-horses](ratha+danti+hayān) [and](tu) [with-umbrellas](tiraskaraṇikā+yutān)
+[chariots+elephants+horses](ratha+danti+hayānām) [and](tu) [with-curtains+endowed](tiraskaraṇikā+yutān)
 
 ## mukta-m0-p127-v3165
-[inscribed-with-vajra](vajra+ālikhita) [swords](niśāna) [drums](bherī) [small-drums](paṇava) [large-drums](marddalān)
+[diamond+scratched+sharp+kettledrums+drums+tabors](vajra+ālikhita+niśāna+bherī+paṇava+marddalān)
 
 ## mukta-m0-p127-v3166
-[remainder](śeṣaḥ) [love-subduing](premanighnāḥ) [overcome-by-love](prema+paravaśāḥ)
+[remainder](śeṣaḥ) [love+overwhelmed](premanighnāḥ) [love+subdued](prema+paravaśāḥ)
 
 ## mukta-m0-p127-v3167
-[with-bondage-made-special-etc](kṛta+bandhana+viśeṣa+ādi) [object](viṣayaḥ)
+[made+bondage+special+etc+subject](kṛta+vandhana+viśeṣa+ādi+viṣayaḥ)
 
 ## mukta-m0-p127-v3168
-[the-enemy](vairī) [towards-the-vajra](vajrāt+abhimukham) [runs](dhāvati) [swiftly](āśu) [defeated](parājitaḥ)
+[from-diamond](vajrāt) [facing](abhimukhaṃ) [enemy](vairī) [runs](dhāvati) [quickly](āśu) [defeated](parājitaḥ)
 
 ## mukta-m0-p127-v3169
-[thus](iti) [meditations](dhyānāni) [without-remaining](aśeṣeṇa) [have-been-told](kathitāni) [to-thee](tava) [O-sinless-one](anaghe)
+[thus](iti) [meditations](dhyānāni) [without-remainder](aśeṣeṇa) [told](kathitāni) [to-you](tava) [o-sinless-one](anaghe)
 
 ## mukta-m0-p127-v3170
-[therefore](atas) [those](tat) [I-shall-tell](vakṣyāmi) [hear](śṛṇu) [which-bring-about-all-desires](sarva+abhīṣṭa+abhikārakāḥ)
+[therefore](atas) [that](tat) [listen](śṛṇu) [I-shall-tell](vakṣyāmi) [all+desires+fulfilling](sarva+abhīṣṭa+abhikārakāḥ)
 
 ## mukta-m0-p127-v3171
-[in-the-midst-of-them](tan+madhye) [the-form-of-the-object-of-sadhana](sādhya+rūpam) [and](ca) [according-to-one's-own-desire](nija+vāñchā+anurūpakam)
+[in-that-midst](tat+madhye) [object+form](sādhya+rūpam) [and](ca) [one's-own+wish+according-to](nija+vāñchā+anurūpakam)
 
 ## mukta-m0-p127-v3172
-[and](tathā) [in-the-susumna](suṣumnā+antaḥ) [that](tat) [one-should-contemplate](cintayet) [or](vā) [going-and-coming](gama+āgamam)
+[likewise](tathā) [within-suṣumnā](suṣumnā+antaḥ) [that](tat) [and](ca) [one-should-contemplate](cintayet) [or](vā) [going+coming](gama+āgamam)
 
 ## mukta-m0-p127-v3173
-[the-sadhaka](sādhakaḥ) [and](ca) [thus](tathā) [the-siddha](siddhaḥ) [of-these-two](tayōḥ+eva) [swiftly-bringing-about-siddhi](āśu+siddhi+kṛt)
+[practitioner](sādhakaḥ) [and](ca) [likewise](tathā) [accomplished-one](siddhaḥ) [of-those-two](tayoḥ) [indeed](eva) [quick+accomplishment+causing](āśu+siddhi+kṛt)
 
 ## mukta-m0-p127-v3174
-[thus](iti) [right-knowledge](sambuddhiḥ)
+[thus](iti) [address](sambuddhiḥ)
 
 ## mukta-m0-p127-v3175
-[in-practices-of-meditation-on-subtle-form](sūkṣma+rūpa+dhyāna+prayogeṣu) [lack-of-qualification](anadhikāratvam) [is-declared](ucyate)
+[in-subtle+form+meditation+applications](sūkṣma+rūpa+dhyāna+prayogeṣu) [non-qualification](anadhikāratvam) [is-stated](ucyate)

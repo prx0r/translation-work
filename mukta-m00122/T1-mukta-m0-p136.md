@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-[by-which](yayā) [deprived](vihīnā) [certainly](niyatam) [here](iha) [and](ca) [hereafter](amutra) [and](ca) [suffering](duḥkhinaḥ)
+[by-which](yayā) [deprived](vihīnāḥ) [certainly](niyatam) [here](iha) [and-in-the-other-world](amutra) [and](ca) [miserable](duḥkhinaḥ)
 
 ## mukta-m0-p136-v3377
-[mental-affliction](ādhi) + [bodily-disease](vyādhi) + [great](mahā) + [forest-fire](dāva) + [rain-cloud](prāvṛṣañ) [and](ca) [nectar-sovereign](amṛteśvarīm)
+[mental-affliction](ādhi) [bodily-disease](vyādhi) [great-forest-fire](mahā+dāva) [rain](prāvṛṣañcam) [nectar-sovereign](amṛta+īśvarīm)
 
 ## mukta-m0-p136-v3378
-[sixfold](ṣaḍvidhāṃ) [by-recitation](japa) + [oblation](homa) + [worship](arccā) + [libation](tarpaṇa) + [meditation](dhyāna) + [diagrams](yantrakaiḥ)
+[sixfold](ṣaḍvidhāṃ) [with-recitation](japa) [oblation](homa) [worship](arccā) [libation](tarpaṇa) [meditation](dhyāna) [and-diagrams](yantrakaiḥ)
 
 ## mukta-m0-p136-v3379
-[bowstring](jyākaṃ) [burning](dāha) + [forest](vana) + [own](svaiḥ) [should-be](syāt) [third](tṛtīyā) [she](sā) [nectar-sovereign](amṛteśvarī)
+[bowstring](jyākaṃ) [burning-forest](dāha+vanasvaiḥ) [should-be](syāt) [third](tṛtīyā) [with-nectar-sovereign](sā+amṛta+īśvarī)
 
 ## mukta-m0-p136-v3380
 [remainder](śeṣaḥ)
 
 ## mukta-m0-p136-v3381
-[by-recitation](japa) + [oblation](homa) + [worship](arcca) + [libation](tarpaṇa) + [meditation](dhyāna) + [diagrams](yantra) + [suns](arkaiḥ) [with](saha) [thus](iti) [remainder](śeṣaḥ)
+[with-recitation](japa) [oblation](homa) [worship](arcca) [libation](tarpaṇa) [meditation](dhyāna) [and-diagrams](yantra+arkaiḥ) [with](saha) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p136-v3382
-[limbs](aṅgāni) [of-them](tāsām) [of-the-first](ādyāyā) [by-application](niyojanāt) [of-long](dīrgha) + [vowels](svara)
+[limbs](aṅgāni) [of-them](tāsām) [of-the-first](ādyāyāḥ) [by-application-of-long-vowels](dīrgha+svara+niyojanāt)
 
 ## mukta-m0-p136-v3383
-[having-joined](saṃyojya) [nectar](amṛta) + [abodes](saṃsthānān) [one-should-place](nyaset) [other](anyat) [but](tu) [situated-in-that](tadgatam)
+[having-joined](saṃyojya) [nectar-abodes](amṛta+saṃsthānān) [one-should-place](nyaset) [but-other](anyat) [indeed](tu) [situated-in-that](tad+gatam)
 
 ## mukta-m0-p136-v3384
-[previously](pūrva) + [presented](prastuta) + [nectar-sovereign](amṛteśvarī) [knowledge](vidyā) [thus](ittham) [stated](uktā) [thus](iti) [meaning](arthaḥ)
+[previously-presented](pūrva+prastutā) [nectar-sovereign](amṛta+īśvarī) [vidyā](vidyā) [thus](ittham) [stated](uktā) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p136-v3385
-[palate](galana) + [nose](nāsā) + [eye](akṣi) + [ear](karṇa) + [eyebrow](bhrū) + [temple](śaṅkha) + [head](mūrddhasu) [indeed](vai) [in-order](kramāt)
+[in-throat](gala) [nose](nāsā) [eye](akṣi) [ear](karṇa) [eyebrow](bhrū) [temple](śaṅkha) [and-head](mūrddhasu) [indeed](vai) [in-order](kramāt)
 
 ## mukta-m0-p136-v3386
-[in-the-bright-fortnight](śukle) [ending-with-full-moon](pūrṇāntam) [in-the-other](itare) [from-head](mūrddhādi) + [in-reverse-order](pratilomataḥ)
+[in-the-bright-fortnight](śukle) [ending-with-full-moon](pūrṇa+antam) [in-the-other](itare) [from-head-etc.](mūrddha+ādi) [in-reverse-order](pratilomataḥ)
 
 ## mukta-m0-p136-v3387
-[daily](nityaśaḥ) [from-dead](mṛta) + [gone](ga) + [place](sthāna) + [beginning](samārambha) + [ending](avasānakam)
+[daily](nityaśaḥ) [beginning-and-ending](samārambha+avasānakam) [with-the-place-of-the-dead](mṛtaga+sthāna)
 
 ## mukta-m0-p136-v3388
-[by-placement](nyāsena) [nectar](amṛta) + [formed](rūpī) [becomes](syāt) [practitioner](sādhakaḥ) [diminished](kṣīṇa) + [sins](kalmaṣaḥ)
+[by-placement](nyāsena) [of-nectar-form](amṛta+rūpī) [should-be](syāt) [practitioner](sādhakaḥ) [with-destroyed-sins](kṣīṇa+kalmaṣaḥ)
 
 ## mukta-m0-p136-v3389
-[of-whom](yāsāṃ) [by-mere](mātreṇa) [remembrance](smaraṇam) [afflictions](kleśāḥ) [perish](naśyanti) [completely](aśeṣataḥ)
+[of-whom](yāsāṃ) [by-mere-remembrance](smaraṇa+mātreṇa) [afflictions](kleśāḥ) [perish](naśyanti) [completely](aśeṣataḥ)
 
 ## mukta-m0-p136-v3390
-[with-clouds](abhṛtaiḥ) [moist](ārdra) + [bodied](dehāḥ) [they](tāḥ) [but](tu) [spotless](amala) + [ornament](ābharaṇa) + [endowed](anvitāḥ)
+[with-unwithered](abhṛtaiḥ) [moist-bodied](ārdra+dehāḥ) [they](tāḥ) [indeed](tu) [adorned-with-pure-ornaments](amala+ābharaṇa+anvitāḥ)
 
 ## mukta-m0-p136-v3391
-[bearing](dadhānāḥ) [smiling](smera) + [faced](vadanāḥ) [pearl](muktā) + [ornament](ābharaṇa) + [adorned](bhūṣitāḥ)
+[bearing](dadhānāḥ) [smiling-faced](smera+vadanāḥ) [adorned-with-pearl-ornaments](muktā+ābharaṇa+bhūṣitāḥ)
 
 ## mukta-m0-p136-v3392
-[becomes](bhavati) [thus](iti)
+[it-becomes](bhavati) [thus](iti)
 
 ## mukta-m0-p136-v3393
-[by-them](tābhiḥ) [sixty](ṣaṣṭi) + [hundred](śata) + [syllable](arṇa) + [nature](ātma) + [powers](śaktibhiḥ) [surrounded](parivāritāḥ)
+[by-them](tābhiḥ) [surrounded-by-powers](parivāritāḥ) [consisting-of-sixty-hundred-syllables](ṣaṣṭi+śata+arṇa+ātma+śaktibhiḥ)
 
 ## mukta-m0-p136-v3394
-[śakti](śakti) [thus](iti) [two](dvi) + [syllable](akṣaraṃ) [declared](prokta) + [seven](sapta) + [syllabled](akṣaryyā) [and](ca) [joined](saṃyutam)
+[the-word-śakti](śakti+iti) [two-syllabled](dvi+akṣaraṃ) [declared](proktam) [and](ca) [joined-with-the-seven-syllabled](sapta+akṣaryyā) [joined](saṃyutam)
 
 ## mukta-m0-p136-v3395
-[from-outside](vāhyāt) [by-motion](gatyā) [of-entering](praveśa) [indeed](eva) [by-circumambulation](prādakṣiṇyāt) [with-fragrant-substances](sugandhibhiḥ)
+[from-outside](vāhyāt) [by-the-motion-of-entering](praveśa+gatyā) [indeed](eva) [by-circumambulation](prādakṣiṇyāt) [with-fragrant-substances](sugandhibhiḥ)
 
 ## mukta-m0-p136-v3396
-[one-should-worship](pūjayet) [outside](bahiḥ) [of-them](āsām) [but](tu) [one-should-offer](vidadhyāt) [offering](bali) + [pair](yugmakam)
+[one-should-worship](pūjayet) [but-outside](bahis) [of-them](āsām) [indeed](tu) [one-should-offer](vidadhyāt) [a-pair-of-oblations](vali+yugmakam)
 
 ## mukta-m0-p136-v3397
-[oblation](homam) [and](ca) [with-those](taiḥ) [libation](tarpaṇam) [but](tu) [with-waters](jalaiḥ) [camphor](karpūra) + [scented](vāsitaiḥ)
+[and-oblation](homam) [and](ca) [with-them](taiḥ) [and-libation](tarpaṇam) [indeed](tu) [with-waters](jalaiḥ) [scented-with-camphor](karpūra+vāsitaiḥ)
 
 ## mukta-m0-p136-v3398
 [common](sādhāraṇam)
 
 ## mukta-m0-p136-v3399
-[with-Kurukullā](kurukullā) + [seven](sapta) + [syllabled-mantra](akṣaryyā) [and](ca) [with-those](taiḥ) [milk-rice](pāyasa) + [and-others](ādibhiḥ) [with-four](caturbhiḥ)
+[with-the-seven-syllabled-of-Kurukullā](kurukullā+sapta+akṣaryyā) [and](ca) [with-them](taiḥ) [with-milk-rice-etc.](pāyasa+ādibhiḥ) [with-the-four](caturbhiḥ)
 
 ## mukta-m0-p136-v3400
-[thus](evaṃ) [by-recitation](japa) + [and-other](ādi) + [accomplished](saṃsiddha) + [knowledge](vidyaḥ) [mantrin](mantrī) [when](yadā) [water](jalam)
+[thus](evaṃ) [the-mantrin](mantrī) [whose-vidyā-is-accomplished-by-recitation-etc.](japa+ādi+saṃsiddha+vidyaḥ) [when](yadā) [water](jalam)
