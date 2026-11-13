@@ -7,45 +7,41 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "accusative object of the absolutive jñātvā",
+     "grounds": "accusative object of having-known",
      "morph": "pron.acc.sg.m"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of root jñā",
-     "morph": "(indecl.)"
+     "grounds": "absolute participle from root jñā",
+     "morph": "abs"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "accusative singular masculine object complement",
-     "morph": "noun.acc.sg.m"
+     "grounds": "compound of hidden and true-nature in accusative",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "nominative singular neuter subject of prajāyate",
-     "morph": "noun.nom.sg.n"
+     "grounds": "neuter abstract noun in nominative subject",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "third person singular middle present of root jan",
-     "morph": "verb.3.sg.mid-pres"
+     "grounds": "present middle third singular with prefix pra",
+     "morph": "3.sg.mid.pres"
     }
    ],
-   "question": "Does knowing that hidden true nature cause all-knowingness to arise?",
+   "question": "What arises when one knows that hidden true nature?",
    "premises": [
-    "knowing hidden true nature precedes arising",
-    "all-knowingness is the result named",
-    "the verse states a causal sequence"
+    "Knowing hidden true nature yields all-knowingness.",
+    "All-knowingness arises after that knowledge."
    ],
-   "inference": "Knowledge of the hidden true nature gives rise to all-knowingness.",
-   "uncertainties": [
-    "the exact referent of taṃ is supplied by context",
-    "gūḍhasadbhāvaṃ may be adjectival or nominal"
-   ],
+   "inference": "Knowledge of the hidden true nature produces all-knowingness.",
+   "uncertainties": [],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
  ]
