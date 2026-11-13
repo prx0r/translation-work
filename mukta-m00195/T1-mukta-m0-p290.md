@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p290-v7226
-mare-fire-mouth(vaḍavā+mukhe) in-fire(vahnau) very-fierce(mahotkaṭe)
+[in-mare-mouth](vaḍavāmukhe) [in-fire](vahnau) [greatly-fierce](mahotkaṭe) [in](—)
 
 ## mukta-m0-p290-v7227
-in-three-days(tridinena) he(asau) enemy(śatrum) should-eradicate(uccāṭayet) certainly(dhruvam)
+[in-three-days](tridinenā) [this-one](asau) [enemy](śatrum) [should-uproot](uccāṭayet) [certainly](dhruvam)
 
 ## mukta-m0-p290-v7228
-practitioner(mantrī) sin-mass(pāpa+aughaṃ) should-destroy(nāśayet) certainly(dhruvam)
+[mantrin](mantrī) [sin-mass](pāpaughaṃ) [should-destroy](nāśayet) [certainly](dhruvam)
 
 ## mukta-m0-p290-v7229
-one-should-meditate(dhyāyet) fault-planet-born(doṣa+aṅgraha+bhavān) should-remove(haret)
+[one-should-meditate](dhyāyet) [fault+planet-born](doṣāngrahabhavān) [should-remove](haret) [certainly](—)
 
 ## mukta-m0-p290-v7230
-one-should-offer(juhuyāt) with-grains(dhānyaiḥ) food-desiring(anna+ārthī) with-food(annaiḥ) should-offer(hunet) certainly(dhruvam)
+[one-should-offer](juhuyāt) [with-grains](dhānyaiḥ) [food-desirer](annārthī) [with-food](annaiḥ) [should-offer](hunet) [certainly](dhruvam)
 
 ## mukta-m0-p290-v7231
-with-sesame-cakes(palalaiḥ) with-jaggery-smeared(guḍa+abhyaktaiḥ) should-offer(hunet) wise-one(sudhīḥ)
+[with-ground-sesame](palalaiḥ) [with-jaggery-smeared](guḍābhyaktaiḥ) [should-offer](hunet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p290-v7232
-niṣka-half-half-measure(niṣka+ardha+ardha+pramāṇena) having-ground(sampiṣya) these(etāni) daily(nityaśaḥ)
+[niṣka-half+half-measure](niṣkārdhārdhapramāṇena) [having-ground](sampiṣya) [these](etāni) [daily](nityaśaḥ)
 
 ## mukta-m0-p290-v7233
-after-a-year(vatsarāt) a-son(sutam)
+[after-a-year](vatsarāt) [son](sutam) [obtains](—) [certainly](—)
 
 ## mukta-m0-p290-v7234
-powder(cūrṇaṃ) of-sweet-flag(vacāyāḥ) and(ca) half-pala(pala+ardhakam)
+[powder](cūrṇaṃ) [of-vacā](vacāyāḥ) [and](ca) [half-pala](palārdhakam)
 
 ## mukta-m0-p290-v7235
-great(mahatīṃ) poetry(kavitāṃ) obtains(labhate) certainly(dhruvam)
+[great](mahatīṃ) [poetry](kavitāṃ) [obtains](labhate) [certainly](dhruvam)
 
 ## mukta-m0-p290-v7236
-one-should-place(sthāpayet) pot(kumbhaṃ) worshipped(pūjitaṃ) with-sandalwood-etc(candana+ādibhiḥ)
+[one-should-place](sthāpayet) [pot](kumbhaṃ) [worshipped](pūjitaṃ) [with-sandalwood-etc](candanādibhiḥ)
 
 ## mukta-m0-p290-v7237
-one-should-chant(japet) that-mantra-best(tat+mantra+pravaram) eight-more-than-thousand(aṣṭa+uttara+sahasrakam)
+[one-should-chant](japet) [that-mantra-best](tanmantrapravaram) [eight-more-hundred-thousand](aṣṭottarasahasrakam)
 
 ## mukta-m0-p290-v7238
-by-grace(prasādāt) not(na) here(atra) doubt(saṃśayaḥ)
+[by-grace](prasādāt) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p290-v7239
-sage(muniḥ) of-this-mantra(asya+aṇoḥ) anuṣṭup-meter(anuṣṭup+chandaḥ) declared(īritam)
+[sage](muniḥ) [of-this-mantra](asyāṇoḥ) [anuṣṭup-metre](anuṣṭupcchanda) [declared](īritam)
 
 ## mukta-m0-p290-v7240
-all(sarvaṃ) practitioner(mantrī) as-before(pūrva+vat) should-perform(ācaret)
+[all](sarvaṃ) [mantrin](mantrī) [as-before](pūrvavat) [should-perform](ācaret)
 
 ## mukta-m0-p290-v7241
-of-wealth-increase(rāyas+poṣasya) beloved(dayitā) treasure-giver(nidhi+daḥ) jewel-giver(ratna+daḥ) considered(mataḥ)
+[of-wealth+abundance](rāyaspoṣasya) [beloved](dayitā) [treasure-giver](nidhidaḥ) [jewel-giver](ratnadaḥ) [considered](mataḥ)
 
 ## mukta-m0-p290-v7242
-one-should-offer(juhuyāt) its-tenth-part(tat+daśāṃśataḥ)
+[one-should-offer](juhuyāt) [its-tenth-part](taddaśāṃśataḥ) [there](—) [thus](—)
 
 ## mukta-m0-p290-v7243
-practitioner(mantrī) should-accomplish(sādhayet) desired-object(iṣṭam) of-himself(ātmanaḥ)
+[mantrin](mantrī) [should-accomplish](sādhayet) [desired](iṣṭam) [of-self](ātmanaḥ)
 
 ## mukta-m0-p290-v7244
-I-shall-tell(vakṣyāmi) mantra(mantram) another(anyam) of-such-kind(tathā+vidham)
+[I-shall-tell](vakṣyāmi) [mantra](mantram) [another](anyaṃ) [of-such-kind](tathāvidham)
 
 ## mukta-m0-p290-v7245
-demon-slaying-strength-pervading(rakṣohaṇa+balagahana) to-curved-trunk(vakratuṇḍāya) hūm(hūm) thus(iti)
+[mantra](rakṣohaṇobalagahanovakratuṇḍāya) [mantra](hūmiti)
 
 ## mukta-m0-p290-v7246
-curved-trunk-gāyatrī(vakratuṇḍa+gāyatrīṃ) dear-to-gaṇa(gaṇa+priyām)
+[curved-trunk-gāyatrī](vakratuṇḍagāyatrīṃ) [gaṇeśa-dear](gaṇapriyām) [thus](—) [called](—)
 
 ## mukta-m0-p290-v7247
-may-inspire(pracodayāt)
+[may-he-inspire](pracodayāt) [us](—) [thus](—) [end](—)
 
 ## mukta-m0-p290-v7248
-always(nityaṃ) preliminary-rite-doing(puraścaraṇa+kṛt) man(naraḥ)
+[always](nityaṃ) [preliminary-rite-doing](puraścaraṇakṛt) [man](naraḥ) [becomes](—)
 
 ## mukta-m0-p290-v7249
-at-beginning-and-end-of-japa(japa+ādi+ante) also(atha) eight-in-number(aṣṭa+saṃkhyān) should-chant(anya+jāpī) for-perfect-accomplishment(su+siddhaye)
+[at-beginning-and-end-of-japa](japādyante) [eight-in-number](athāṣṭasaṃkhyān) [other-japa-doer](anyajāpī) [for-success](susiddhaye)
 
 ## mukta-m0-p290-v7250
-eastern-transmission-gaṇapati-mantra-exposition(pūrvāmnāya+gaṇapati+mantra+prakāśaḥ) eighteenth(aṣṭādaśaḥ)
+[eastern-transmission+gaṇapati-mantra-exposition](pūrvāmnāyagaṇapatimantraprakāśaḥ) [eighteenth](aṣṭādaśaḥ) [chapter](—) [end](—)

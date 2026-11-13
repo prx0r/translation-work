@@ -20,7 +20,7 @@
 },
 {
 "surface": "vinyaset",
-"quick_gloss": "should-place"
+"quick_gloss": "one-should-place"
 }
 ]
 },
@@ -40,7 +40,7 @@
 "quick_gloss": "with-incense"
 },
 {
-"surface": "dīpaiḥ",
+"surface": "dīpaiś",
 "quick_gloss": "and-lamps"
 },
 {
@@ -62,15 +62,15 @@
 "tokens": [
 {
 "surface": "vijaya",
-"quick_gloss": "victory"
+"quick_gloss": "with-victory"
 },
 {
 "surface": "śrī",
-"quick_gloss": "prosperity"
+"quick_gloss": "and-fortune"
 },
 {
 "surface": "samāyukto",
-"quick_gloss": "endowed-with"
+"quick_gloss": "endowed"
 },
 {
 "surface": "rājā",
@@ -81,8 +81,12 @@
 "quick_gloss": "becomes"
 },
 {
-"surface": "nānyathā",
-"quick_gloss": "not-otherwise"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "anyathā",
+"quick_gloss": "otherwise"
 }
 ]
 },
@@ -103,7 +107,7 @@
 },
 {
 "surface": "prāpnuyāt",
-"quick_gloss": "may-obtain"
+"quick_gloss": "one-may-obtain"
 },
 {
 "surface": "śubham",
@@ -149,7 +153,7 @@
 },
 {
 "surface": "ucyate",
-"quick_gloss": "is-declared"
+"quick_gloss": "is-taught"
 }
 ]
 },
@@ -174,7 +178,7 @@
 },
 {
 "surface": "unnata",
-"quick_gloss": "uplifted"
+"quick_gloss": "and-uplifted"
 },
 {
 "surface": "payodharām",
@@ -203,7 +207,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "should-perform"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -232,7 +236,7 @@
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
+"quick_gloss": "also"
 },
 {
 "surface": "sudhīḥ",
@@ -249,7 +253,7 @@
 "tokens": [
 {
 "surface": "hunet",
-"quick_gloss": "should-offer"
+"quick_gloss": "one-should-offer"
 },
 {
 "surface": "prāgvad",
@@ -265,7 +269,7 @@
 },
 {
 "surface": "yajet",
-"quick_gloss": "should-worship"
+"quick_gloss": "one-should-worship"
 }
 ]
 },
@@ -278,7 +282,7 @@
 "tokens": [
 {
 "surface": "mantriṇe",
-"quick_gloss": "to-the-practitioner"
+"quick_gloss": "to-the-mantrin"
 },
 {
 "surface": "śīghraṃ",
@@ -286,7 +290,7 @@
 },
 {
 "surface": "sphaṭikākhyaṃ",
-"quick_gloss": "crystal-named"
+"quick_gloss": "crystal-called"
 },
 {
 "surface": "manoharam",
@@ -365,7 +369,7 @@
 },
 {
 "surface": "udito",
-"quick_gloss": "uttered"
+"quick_gloss": "declared"
 },
 {
 "surface": "manuḥ",
@@ -393,12 +397,20 @@
 "quick_gloss": "oblation"
 },
 {
-"surface": "tattatkāmyaṃ",
-"quick_gloss": "that-respective-desire"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "kāmyaṃ",
+"quick_gloss": "desire"
 },
 {
 "surface": "samācaret",
-"quick_gloss": "should-perform"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -411,7 +423,7 @@
 "tokens": [
 {
 "surface": "japet",
-"quick_gloss": "should-recite"
+"quick_gloss": "one-should-recite"
 },
 {
 "surface": "mantraṃ",
@@ -427,7 +439,7 @@
 },
 {
 "surface": "antataḥ",
-"quick_gloss": "at-end"
+"quick_gloss": "at-the-end"
 }
 ]
 },
@@ -443,7 +455,7 @@
 "quick_gloss": "with-garments"
 },
 {
-"surface": "ājamandira",
+"surface": "rājamandira",
 "quick_gloss": "royal-palace"
 },
 {
@@ -473,11 +485,19 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-become"
+"quick_gloss": "may-be"
 },
 {
-"surface": "dadhidugdhadā",
-"quick_gloss": "curd-milk-giver"
+"surface": "dadhi",
+"quick_gloss": "curd"
+},
+{
+"surface": "dugdha",
+"quick_gloss": "and-milk"
+},
+{
+"surface": "dā",
+"quick_gloss": "giver"
 }
 ]
 },
@@ -572,7 +592,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "should-perform"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -618,7 +638,7 @@
 },
 {
 "surface": "pūjayet",
-"quick_gloss": "should-worship"
+"quick_gloss": "one-should-worship"
 },
 {
 "surface": "tataḥ",
@@ -635,15 +655,19 @@
 "tokens": [
 {
 "surface": "baddhāsanaḥ",
-"quick_gloss": "bound-posture"
+"quick_gloss": "with-bound-posture"
 },
 {
 "surface": "yogī",
 "quick_gloss": "yogin"
 },
 {
-"surface": "śītavādhām",
-"quick_gloss": "cold-affliction"
+"surface": "śīta",
+"quick_gloss": "cold"
+},
+{
+"surface": "vādhām",
+"quick_gloss": "affliction"
 },
 {
 "surface": "upekṣya",
@@ -672,7 +696,7 @@
 },
 {
 "surface": "paśyet",
-"quick_gloss": "should-behold"
+"quick_gloss": "one-should-see"
 },
 {
 "surface": "aṣṭabhujāṃ",
@@ -680,7 +704,7 @@
 },
 {
 "surface": "śivām",
-"quick_gloss": "auspicious-one"
+"quick_gloss": "auspicious-goddess"
 }
 ]
 }
