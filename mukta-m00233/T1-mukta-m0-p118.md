@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[obstacle](vighnaṃ) [thus](tathā) [mothers](mātṝḥ) [teacher](śāstāraṃ) [caṇḍikā](caṇḍikām) [also](api)
+[obstacle](vighnaṃ) [likewise](tathā) [mothers](mātṝḥ) [teacher](śāstāraṃ) [caṇḍikā](caṇḍikām) [also](api)
 
 ## mukta-m0-p118-v2927
-[and](ca) [having-established](saṃsthāpya) [should-worship](pūjayet) [on-first-day](prathame'hani)
+[and](ca) [having-installed](saṃsthāpya) [one-should-worship](pūjayet) [on-first](prathame) [day](ahani)
 
 ## mukta-m0-p118-v2928
-[with-vyāhṛtis](vyāhṛtībhiśca) [and](ca) [with-gāyatrī](gāyatryā) [and](ca) [with-jaya-etc](jayādibhiḥ)
+[with-vyāhṛtis](vyāhṛtībhiḥ) [and](ca) [with-gāyatrī](gāyatryā) [and](ca) [with-jaya-etc.](jayādibhiḥ)
 
 ## mukta-m0-p118-v2929
-[having-bathed](saṃsnāpya) [but](tu) [should-sacrifice](yajen) [mind](matiṃ) [wearing-garland](nirmālyadhāriṇīm)
+[having-bathed](saṃsnāpya) [indeed](tu) [one-should-worship](yajet) [intellect](matiṃ) [garland+remnant+bearing](nirmālya+dhāriṇīm)
 
 ## mukta-m0-p118-v2930
-[at-twelfth-end](dvādaśānte) [or](vā) [should-bathe](snapayecca) [with-hundreds](śatādhikaiḥ)
+[at-twelve+end](dvādaśa+ante) [or](vā) [one-should-bathe](snapayet) [and](ca) [with-hundred+exceeding](śata+adhikaiḥ)
 
 ## mukta-m0-p118-v2931
-[having-given-bhūta-bali](bhūtabaliṃ) [dattvā](dattvā) [daily-worship](nityapūjāṃ) [and](ca) [should-arrange](kalpayet)
+[element+offering](bhūta+balim) [having-given](dattvā) [daily+worship](nitya+pūjāṃ) [and](ca) [one-should-arrange](kalpayet)
 
 ## mukta-m0-p118-v2932
-[at-daily-festival](nityotsave) [of-sarasvatī](sarasvatyā) [medhā-etc](medhādyā) [doorkeepers](dvārapālikāḥ)
+[in-daily+festival](nitya+utsave) [of-sarasvatī](sarasvatyāḥ) [medhā-etc.](medhā+ādyāḥ) [door+guardians](dvāra+pālikāḥ)
 
 ## mukta-m0-p118-v2933
-[for-sarasvatī-vehicle](sarasvatīvāhanāya) [for-swan](haṃsāya) [thus](iti) [in-front-pavilion](agramaṇḍape)
+[to-sarasvatī+vehicle](sarasvatī+vāhanāya) [to-swan](haṃsāya) [thus](iti) [in-front+pavilion](agra+maṇḍape)
 
 ## mukta-m0-p118-v2934
-[to-caṇḍikā-moon-field](caṇḍikendukṣetrapebhyo) [to-mati](matyai) [and](ca) [should-offer](prakṣiped) [bali](balim)
+[to-caṇḍikā+indu+field-lords](caṇḍikā+indu+kṣetra+pebhyaḥ) [to-intellect](matyai) [and](ca) [one-should-cast](prakṣipet) [offering](balim)
 
 ## mukta-m0-p118-v2935
-[at-bali-seat-front](balipīṭhāgraṃ) [to-gaṇas](gaṇānām) [should-address](antrayet) [then](tataḥ)
+[offering+platform+front](bali+pīṭha+agraṃ) [of-gaṇas](gaṇānām) [one-should-invite](antrayet) [then](tataḥ)
 
 ## mukta-m0-p118-v2936
-[sarasvatī-attendants](sarasvatīpāriṣadā) [may-receive](gṛhṇantu) [offered](upahṛtaṃ) [bali](balim)
+[by-sarasvatī+retinue](sarasvatī+pāriṣadāḥ) [let-them-receive](gṛhṇantu) [offered](upahṛtaṃ) [offering](balim)
 
 ## mukta-m0-p118-v2937
-[bali](baliṃ) [to-them](tebhyaḥ) [with-own-names](svākhyābhiḥ) [should-offer](prakṣiped) [also](api)
+[offering](baliṃ) [to-them](tebhyaḥ) [with-own-names](sva+ākhyābhiḥ) [one-should-cast](prakṣipet) [also](api)
 
 ## mukta-m0-p118-v2938
-[universal](sārvabhaumaḥ) [good-tusk](supratīkaḥ) [thus](tathā) [eighth](aṣṭamaḥ)
+[sārvabhauma](sārvabhaumaḥ) [supratīka](supratīkaḥ) [likewise](tathā) [eighth](aṣṭamaḥ)
 
 ## mukta-m0-p118-v2939
-[sacrifice](kratuḥ) [tenth](daśaḥ) [well-staying](suvastavyaḥ) [kā](kā) [mo](mo) [sound](dhvaniḥ) [thus](tathā)
+[kratu](kratuḥ) [tenth](daśaḥ) [suvastavya](suvastavyaḥ) [kā](kā) [*](*) [*](*) [ma](maḥ) [dhvani](dhvaniḥ) [likewise](tathā)
 
 ## mukta-m0-p118-v2940
-[with-kumudakas](kumudakaiḥ) [standing](sthitāḥ) [their](teṣāṃ) [bali](baliṃ) [should-throw](kṣipet)
+[with-kumuda-etc.](kumuda+kaiḥ) [situated](sthitāḥ) [of-them](teṣāṃ) [offering](baliṃ) [one-should-cast](kṣipet)
 
 ## mukta-m0-p118-v2941
-[beings](bhūtāḥ) [front-seated](puraḥsadaḥ)
+[beings](bhūtāḥ) [in-front+sitting](puraḥ+sadaḥ)
 
 ## mukta-m0-p118-v2942
-[in-third-garland](tṛtīyahārāyāṃ) [gaṇas](gaṇāḥ) [in-eight-directions](aṣṭadiśaṃ) [standing](sthitāḥ)
+[in-third+enclosure](tṛtīya+hārāyāṃ) [gaṇas](gaṇāḥ) [indeed](tu) [in-eight+directions](aṣṭa+diśaṃ) [situated](sthitāḥ)
 
 ## mukta-m0-p118-v2943
-[seven-ṛṣi-first](saptarṣipūrvāḥ) [and](ca) [of-beings](prajānāṃ) [lords](patayaḥ) [then](tataḥ)
+[seven-sages+preceded](sapta+ṛṣi+pūrvāḥ) [and](ca) [of-beings](prajānāṃ) [lords](patayaḥ) [then](tataḥ)
 
 ## mukta-m0-p118-v2944
-[prabhāsa](prabhāsaḥ) [and](ca) [vasus](vasavaḥ) [eight](aṣṭau) [but](tu) [east-going](pūrvagāḥ)
+[prabhāsa](prabhāsaḥ) [and](ca) [vasus](vasavaḥ) [eight](aṣṭau) [indeed](tu) [east+going](pūrva+gāḥ)
 
 ## mukta-m0-p118-v2945
-[aja-ekapād](ajaikapādaḥ) [ahi-budhni](ahibudhniḥ) [virūpākṣa](virūpākṣaḥ) [then](atha) [raivata](raivataḥ)
+[ajaikapād](aja+eka+pād) [ahibudhni](ahi+budhniḥ) [virūpākṣa](virūpākṣaḥ) [then](atha) [raivata](raivataḥ)
 
 ## mukta-m0-p118-v2946
-[bhava](bhavaḥ) [and-thus](ceti) [rudras](rudrāḥ) [but](tu) [eleven](ekādaśa) [in-order](kramāt)
+[bhava](bhavaḥ) [and](ca) [thus](iti) [rudras](rudrāḥ) [indeed](tu) [eleven](ekādaśa) [in-order](kramāt)
 
 ## mukta-m0-p118-v2947
-[aṅgiras](aṅgiras) [and](vāṃ?) [thus](tathā) [ca](ca) [fire](agniḥ) [seventh](saptamaḥ) [kavya-carrier](kavyavāhanaḥ)
+[aṅgirasvat](aṅgirasvān) [likewise](tathā) [and](ca) [agni](agniḥ) [seventh](saptamaḥ) [oblation+bearer](kavya+vāhanaḥ)
 
 ## mukta-m0-p118-v2948
-[known](khyātāḥ) [standing](sthitāḥ) [nirṛti-region](nir-ṛtigocare)
+[known](khyātāḥ) [situated](sthitāḥ) [nirṛti+region](nir-ṛti+gocare)
 
 ## mukta-m0-p118-v2949
-[pūṣan](pūṣā) [and](ca) [parjanya](parjanyo) [tenth](daśamaḥ) [remembered](smṛtaḥ)
+[pūṣan](pūṣā) [and](ca) [parjanya](parjanyaḥ) [tenth](daśamaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p118-v2950
-[tārkṣya](tārkṣyaḥ) [and](ca) [ariṣṭanemi](ariṣṭanemiḥ) [and](ca) [garuḍa](garuḍaḥ) [and](ca) [aruṇa](aruṇaḥ) [thus](tathā)
+[tārkṣya](tārkṣyaḥ) [and](ca) [ariṣṭanemi](ariṣṭanemiḥ) [and](ca) [garuḍa](garuḍaḥ) [and](ca) [aruṇa](aruṇaḥ) [likewise](tathā)

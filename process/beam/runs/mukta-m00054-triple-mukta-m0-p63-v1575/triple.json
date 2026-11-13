@@ -1,0 +1,31 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "aghoramantrasamprītā",
+     "gloss": "delighted-by-aghora-mantra",
+     "grounds": "compound adjective describing the goddess; aghora-mantra as the source of delight, samprītā as pleased",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aghoramantrapūjitā",
+     "gloss": "worshipped-with-aghora-mantra",
+     "grounds": "compound adjective describing the goddess; aghora-mantra as the means of worship, pūjitā as honored",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What relationship does the goddess have with the Aghora mantra?",
+   "premises": [
+    "The goddess is delighted by the Aghora mantra.",
+    "The goddess is worshipped through the Aghora mantra.",
+    "Both epithets characterize the same divine figure."
+   ],
+   "inference": "The goddess is intimately connected to the Aghora mantra through both delight and ritual worship.",
+   "uncertainties": [],
+   "plain_english": "She is delighted by the Aghora mantra and worshipped with the Aghora mantra."
+  }
+ ]
+}

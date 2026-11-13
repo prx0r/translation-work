@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p125-v3101
-[brahma-jajna-mantra-from](brahmajajñānamantrataḥ)
+[with-ṣānyana](ṣānyanena) [with-brahma+jajñāna+mantra](brahmajajñānamantrataḥ)
 
 ## mukta-m0-p125-v3102
-[this-vishnu-etc](idaṃviṣṇvādinā) [svasti-indra-etc](svastina-indrādyāt) [thus-ishatah](tatheśataḥ)
+[with-idam+viṣṇu+etc](idaṃviṣṇvādinā) [with-svasti+na-indra+etc](svastina-indrādyāt) [likewise](tathā) [with-īśa](īśataḥ)
 
 ## mukta-m0-p125-v3103
-[thus-one-image](bhavedevamekabere) [then](tu) [as-before](pūrvavat)
+[should-be](bhavet) [thus](evam) [in-one+image](ekabere) [but](tu) [as-before](pūrvavat)
 
 ## mukta-m0-p125-v3104
-[and](caiva) [sharvani-ugram](śarvāṇīmugrāṃ) [pashupata-also](pāśupatāmapi)
+[and](ca) [indeed](eva) [śarvāṇī](śarvāṇīm) [ugrā](ugrāṃ) [pāśupatā](pāśupatām) [also](api)
 
 ## mukta-m0-p125-v3105
-[middle](madhye) [kunda](kuṇḍe) [then](tu) [camunda-invoking](cāmuṇḍāmāvāhya) [they-offer-thus](juhuyustathā)
+[in-middle](madhye) [in-fire-pit](kuṇḍe) [but](tu) [cāmuṇḍā](cāmuṇḍām) [having-invoked](āvāhya) [they-should-offer](juhuyuḥ) [likewise](tathā)
 
 ## mukta-m0-p125-v3106
-[corners](koṇeṣu) [offer](juhuyāt) [in-order](kramāt)
+[in-corners](koṇeṣu) [one-should-offer](juhuyāt) [in-order](kramāt)
 
 ## mukta-m0-p125-v3107
-[sneezing-spitting-etc](kṣutaniṣṭhīvanādau) [and](ca) [silence-breaking-etc](maunabhaṅgādike) [thus](tathā)
+[in-sneezing+spitting+etc](kṣutaniṣṭhīvanādau) [and](ca) [in-breaking-silence+etc](maunabhaṅgādike) [likewise](tathā)
 
 ## mukta-m0-p125-v3108
-[svishthakrita](sviṣṭakṛtaṃ) [to-beings](bhūtebhyo) [scatter](vikired) [offering](balim)
+[sviṣṭakṛt-offering](sviṣṭakṛtaṃ) [to-beings](bhūtebhyo) [one-should-scatter](vikired) [offering](balim)
 
 ## mukta-m0-p125-v3109
-[according-to-form](pratirūpeṇa) [mixed](miśritena) [throw](kṣiped) [offering](balim)
+[with-representation](pratirūpeṇa) [with-mixed](miśritena) [one-should-cast](kṣiped) [offering](balim)
 
 ## mukta-m0-p125-v3110
-[nagas-and-asuras](nāgāścaivāsurā) [yakshas](yakṣā) [gandharvas-and](gandharvāśca) [stationed](vyavasthitāḥ)
+[nāgas](nāgāḥ) [and](ca) [indeed](eva) [asuras](asurā) [yakṣas](yakṣā) [gandharvas](gandharvāḥ) [and](ca) [situated](vyavasthitāḥ)
 
 ## mukta-m0-p125-v3111
-[own-name-endings](svanāmadheyaistu) [namah-endings](namontairvikired) [offering](balim)
+[with-their-own+names](svanāmadheyaiḥ) [but](tu) [ending-with-namas](namontaiḥ) [one-should-scatter](vikired) [offering](balim)
 
 ## mukta-m0-p125-v3112
-[payasa-ghee-etc](pāyasājyādyairviprānanyāṃśca) [lingins](liṅginaḥ)
+[with-milk-rice+ghee+etc](pāyasājyādyaiḥ) [brahmins](viprān) [and-others](anyān) [and](ca) [emblem-bearers](liṅginaḥ)
 
 ## mukta-m0-p125-v3113
-[dance-song-etc](nṛttagītādyaiḥ) [having-done](kṛtvā) [vigil](jāgaraṇaṃ) [at-night](niśi)
+[with-dance+song+etc](nṛttagītādyaiḥ) [having-done](kṛtvā) [vigil](jāgaraṇaṃ) [in-night](niśi)
 
 ## mukta-m0-p125-v3114
-[having-worshipped](saṃpūjya) [images](berāṇi) [image-or](beraṃ) [vā](vā) [something-worship](kiñcidarcayet)
+[having-worshipped](saṃpūjya) [images](berāṇi) [image](beraṃ) [or](vā) [something](kiñcit) [one-should-worship](arcayet)
 
 ## mukta-m0-p125-v3115
-[seat-or](pīṭhaṃ) [vā](vā) [place](nyaset) [on-tortoise-stone](kūrmaśilopari)
+[pedestal](pīṭhaṃ) [or](vā) [one-should-place](nyaset) [upon-tortoise+stone](kūrmaśilopari)
 
 ## mukta-m0-p125-v3116
-[those-pits](tattadgarteṣu) [seeds](bījaistaistairvinikṣipet)
+[in-their-respective+pits](tattadgarteṣu) [with-seeds](bījaiḥ) [with-those](taiḥ) [with-those](taiḥ) [one-should-deposit](vinikṣipet)
 
 ## mukta-m0-p125-v3117
-[auspicious-sprouts-lamps-etc](maṅgalāṅkuradīpādivādyagītasamanvitam)
+[with-auspicious+sprouts+lamps+etc+music+song](maṅgalāṅkuradīpādivādyagītasamanvitam)
 
 ## mukta-m0-p125-v3118
-[ghee-durva-akshata-dadhi-flowers](ghṛtadūrvākṣatadadhipuṣpamāropya) [on-head](mastake)
+[ghee+dūrvā-grass+unbroken-rice+curd+flower](ghṛtadūrvākṣatadadhipuṣpam) [having-placed](āropya) [on-head](mastake)
 
 ## mukta-m0-p125-v3119
-[own-seed-mantras](svabījamantraistu) [establish](sthāpayet) [images](pratimāḥ) [in-order](kramāt)
+[with-their-own+seed+mantras](svabījamantraiḥ) [but](tu) [one-should-install](sthāpayet) [images](pratimāḥ) [in-order](kramāt)
 
 ## mukta-m0-p125-v3120
-[having-established-north-facing](pratiṣṭhāpyottarāsyāstā) [mutually](anyonyaṃ) [two-angula-apart](dvyaṅgulāntaram)
+[to-be-installed](pratiṣṭhāpya) [facing-north](uttarāsyāḥ) [they](tā) [mutually](anyonyaṃ) [two-finger+interval](dvyaṅgulāntaram)
 
 ## mukta-m0-p125-v3121
-[east-west-virabhadra](prākpratīcyorvīrabhadraḥ) [to-be-placed](sthāpyo) [obstacle-lord-thus](vighnādhipastathā)
+[in-east+west](prākpratīcyoḥ) [vīrabhadra](vīrabhadraḥ) [to-be-installed](sthāpyaḥ) [lord-of-obstacles](vighnādhipaḥ) [likewise](tathā)
 
 ## mukta-m0-p125-v3122
-[middle](madhye) [be](syāt) [east-facing-or](prāṅmukhī) [vā](vā) [north-facing](vāpyudaṅmukhī)
+[in-middle](madhye) [should-be](syāt) [facing-east](prāṅmukhī) [or](vā) [or](api) [facing-north](udaṅmukhī)
 
 ## mukta-m0-p125-v3123
-[having-placed](vinyasya) [bathe](snapayet) [from-own-pots](svasvakumbhataḥ)
+[having-placed](vinyasya) [one-should-bathe](snapayet) [from-their-own+pots](svasvakumbhataḥ)
 
 ## mukta-m0-p125-v3124
-[those-padas](tattatpadaiḥ) [pada-path](padādhvānaṃ) [rest](śeṣān) [as-before-path](pūrvavadadhvanaḥ)
+[with-their-respective+words](tattatpadaiḥ) [word+path](padādhvānaṃ) [the-rest](śeṣān) [as-before](pūrvavat) [paths](adhvanaḥ)
 
 ## mukta-m0-p125-v3125
-[subtle-form](sūkṣmarūpāṃ) [lightning-streak-like](vidyullekhānukāriṇīm)
+[subtle+form](sūkṣmarūpāṃ) [resembling-lightning+streak](vidyullekhānukāriṇīm)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[root-tips](mūlāgrayoḥ) [thinness](kṛśatvaṃ) [and](ca) [in-middle](madhye) [thickness](sthaulyaṃ) [and](ca) [eunuch-hood](ṣaṇḍatā)
+root-tip-of](mūlāgrayoḥ) [thinness](kṛśatvaṃ) [and](ca) [in-middle](madhye) [thickness](sthaulyaṃ) [and](ca) [barrenness](ṣaṇḍatā)
 
 ## mukta-m0-p12-v277
-[all](sarveṣu) [three-genders](triliṅgair) [also](api) [praised](śasyate)
+[in-all](sarveṣu) [by-three-genders](triliṅgaiḥ) [also](api) [is-approved](śasyate)
 
 ## mukta-m0-p12-v278
-[white-garment-anointing](sitāmbarālepaḥ) [done-auspicious-rite](kṛtakautukamaṅgalaḥ)
+[white-garment-unguent](sitāmbarālepaḥ) [performed-festive-auspicious-rite](kṛtakautukamaṅgalaḥ)
 
 ## mukta-m0-p12-v279
-[go](vrajed) [designated-place](deśamuddiṣṭaiḥ) [with-trees](tarubhiryutam)
+[should-go](vrajet) [to-place](deśam) [indicated](uddiṣṭaiḥ) [with-trees](tarubhiḥ) [endowed](yutam)
 
 ## mukta-m0-p12-v280
-[in-shade-of-designated-tree](uddiṣṭavṛkṣacchāyāyām) [having-smeared](upalipya) [but](tu) [circle](maṇḍalam)
+[in-indicated-tree-shade](uddiṣṭavṛkṣacchāyāyām) [having-smeared](upalipya) [indeed](tu) [circle](maṇḍalam)
 
 ## mukta-m0-p12-v281
 [field-lord](kṣetreśam) [herb-lord](oṣadhīśaṃ) [and](ca) [likewise](tathaiva) [forest-deities](vanadevatāḥ)
 
 ## mukta-m0-p12-v282
-[offer](dadyād) [spirits](bhūtān) [with-kṛsara-rice](nakṛsaraudanaiḥ)
+[should-offer](dadyād) [spirit-food](bhūtānna) [with-rice-gruel-rice](kṛsaraudanaiḥ)
 
 ## mukta-m0-p12-v283
-[spirits](bhūtāni) [deities](devatāḥ) [and](ca) [with-guhyakas](saguh yakāḥ)
+[spirits](bhūtāni) [deities](devatāḥ) [and](ca) [with-guhyakas](saguhyakāḥ)
 
 ## mukta-m0-p12-v284
-[earth-sons](mahīputrāḥ) [to-you](yuṣmabhyaṃ) [and](ca) [also](api) [to-us](naḥ) [always](sadā)
+[earth-sons](mahīputrā) [to-you](yuṣmabhyaṃ) [and](ca) [also](api) [to-us](naḥ) [always](sadā)
 
 ## mukta-m0-p12-v285
-[having-saluted](namaskṛtya) [to-trees](pādapebhyaḥ) [clear-minded](prasannadhīḥ)
+[having-bowed](namaskṛtya) [to-trees](pādapebhyaḥ) [with-pleased-mind](prasannadhīḥ)
 
 ## mukta-m0-p12-v286
-[master](sthapatiḥ) [having-slept](suptvā) [good-dreams](susvapnaiḥ) [morning-risen](prātarutthitaḥ)
+[architect](sthapatiḥ) [having-slept](suptvā) [with-good-dreams](susvapnaiḥ) [in-morning](prātar) [risen](utthitaḥ)
 
 ## mukta-m0-p12-v287
-[axe-mouth](paraśorāsyam) [with-five-cow-products](pañcagavyena) [silent](vāgyataḥ)
+[of-axe](paraśoḥ) [edge](āsyaṃ) [with-five-products-of-cow](pañcagavyena) [observing-silence](vāgyataḥ)
 
 ## mukta-m0-p12-v288
-[cubit-measure](kiṣkumātram) [tree-root](tarormūlam) [abandoning](tyaktvā) [cut](chindyāt) [above-that](tadūrdhvataḥ)
+[forearm-measure](kiṣkumātraṃ) [of-tree](taroḥ) [root](mūlaṃ) [having-left](tyaktvā) [should-cut](chindyāt) [above-that](tadūrdhvataḥ)
 
 ## mukta-m0-p12-v289
-[for-destruction](vināśāya) [kurtu](kurtuḥ) [cut-not](chindyānna) [that](taṃ) [tree](tarum)
+[for-destruction](vināśāya) [of-doer](kurtuḥ) [should-cut](chindyāt) [not](na) [that](taṃ) [tree](tarum)
 
 ## mukta-m0-p12-v290
-[laughs-cries-weeps-sounds](hasitākrośaruditakūjitāni) [inauspicious](aśubhāni) [from-that](ataḥ)
+[laughter-crying-weeping-chirping](hasitākrośaruditakūjitāni) [inauspicious](aśubhāni) [from-this](ataḥ)
 
 ## mukta-m0-p12-v291
-[Indra-east-south-west-north-fall](indreśārthadadikpātaḥ) [that-mouth-tip](tanmukhāgraṃ) [and](ca) [praised](śasyate)
+[east-īśāna-south-fall](indreśārthadadikpātāḥ) [that-facing-tip](tanmukhāgraṃ) [and](ca) [is-approved](śasyate)
 
 ## mukta-m0-p12-v292
-[association](saṅgaḥ) [also](api) [obstacle-sorrow-causing](vighnakleśakaraḥ) [inauspicious](aśubhaḥ)
+[sticking](saṅgaḥ) [also](api) [obstacle-trouble-causing](vighnakleśakaraḥ) [inauspicious](aśubhaḥ)
 
 ## mukta-m0-p12-v293
-[desired-measure](iṣṭapramāṇataḥ) [having-cut](chittvā) [square](caturaśraṃ) [but](tu) [carve](takṣayet)
+[to-desired-measure](iṣṭapramāṇataḥ) [having-cut](chittvā) [four-cornered](caturaśraṃ) [indeed](tu) [should-fashion](takṣayet)
 
 ## mukta-m0-p12-v294
-[having-placed](samāropya) [according-to-designation](yathoddeśam) [bring](upāharet)
+[having-mounted](samāropya) [as-indicated](yathoddeśam) [should-bring](upāharet)
 
 ## mukta-m0-p12-v295
-[wood-carrying](dārvāhāraṇam) [desired](iṣṭaṃ) [be](syāt) [others](anyeṣāṃ) [by-men](nṛbhir) [bring](āharet)
+[timber-fetching](dārvāhāraṇam) [desirable](iṣṭaṃ) [should-be](syāt) [of-others](anyeṣāṃ) [by-men](nṛbhiḥ) [should-bring](āharet)
 
 ## mukta-m0-p12-v296
-[wood](dāru) [lay](śāyayet) [first](pūrvam) [head](astakam)
+[timber](dāru) [should-lay](śāyayet) [east-headed](pūrvamastakam)
 
 ## mukta-m0-p12-v297
-[wood](dāroḥ) [by-rite](vidhānena) [collect](saṅgrahet) [for-house-rite](dhāmakarmaṇi)
+[of-timber](dāroḥ) [by-rule](vidhānena) [should-collect](saṅgrahet) [in-temple-work](dhāmakarmaṇi)
 
 ## mukta-m0-p12-v298
-[now](atha) [bricks](iṣṭakānām) [making](karaṇam) [mortar](sudhā) [and-indeed](caiva) [described](nigadyate)
+[now](atha) [of-bricks](iṣṭakānāṃ) [making](karaṇaṃ) [plaster](sudhā) [and](ca) [indeed](eva) [is-declared](nigadyate)
 
 ## mukta-m0-p12-v299
-[copper-flowered](tāmraphullā) [but](tu) [work-suitable](karmayogyā) [will-be-clay](mṛdiṣyate)
+[copper-colored](tāmraphullā) [indeed](tu) [work-suitable](karmayogyā) [clay](mṛt) [is-desired](iṣyate)
 
 ## mukta-m0-p12-v300
-[fine-sand](sūkṣmasikatā) [copper-flowered-brick-suitable](tāmraphulleṣṭakocitā)
+[fine-sand](sūkṣmasikatā) [for-copper-colored-brick](tāmraphulleṣṭakocitā)
