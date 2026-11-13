@@ -3,19 +3,39 @@
  "verse": 357,
  "rows": [
   {
-   "lemma": "vidyā",
-   "morph": "f.nom.sg",
-   "grounds": "nominative singular"
+   "lemma": "nityam",
+   "morph": "(indecl.)",
+   "grounds": "constant practice"
   },
   {
-   "lemma": "kuṇḍalinīrūpā",
-   "morph": "compound=f.nom.sg",
-   "grounds": "compound: kuṇḍalinī-rūpa"
+   "lemma": "satva",
+   "morph": "satva+guṇena compound",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "maṇḍalatrayabhedinī",
-   "morph": "compound=f.nom.sg",
-   "grounds": "compound: maṇḍala-traya-bhedinī"
+   "lemma": "guṇena",
+   "morph": "satva+guṇena compound, m.inst.sg",
+   "grounds": "means of worship"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
+  },
+  {
+   "lemma": "pūjayet",
+   "morph": "3.sg.optative-active √pūj",
+   "grounds": "injunction"
+  },
+  {
+   "lemma": "sura",
+   "morph": "sura+sundarīm compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "sundarīm",
+   "morph": "sura+sundarīm compound, f.acc.sg",
+   "grounds": "object of worship"
   }
  ]
 }

@@ -3,29 +3,39 @@
  "verse": 355,
  "rows": [
   {
-   "lemma": "dakṣiṇāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "accusative singular object"
+   "lemma": "strīṇām",
+   "morph": "f.gen.pl",
+   "grounds": "possessor of feet"
   },
   {
-   "lemma": "datvā",
-   "morph": "(gerund)",
-   "grounds": "absolutive of dā"
+   "lemma": "pada",
+   "morph": "pada+talam compound",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "mahāntam",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular adjective"
+   "lemma": "talam",
+   "morph": "pada+talam compound, n.acc.sg",
+   "grounds": "object seen"
   },
   {
-   "lemma": "utsavaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular object"
+   "lemma": "dṛṣṭvā",
+   "morph": "(gerund) √dṛś",
+   "grounds": "prior action"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act.opt√kṛ",
-   "grounds": "optative of kṛ"
+   "lemma": "guru+vat",
+   "morph": "guru+vat compound, (indecl.)",
+   "grounds": "mode of regard"
+  },
+  {
+   "lemma": "bhāvayet",
+   "morph": "3.sg.optative-causative-active √bhū",
+   "grounds": "injunction"
+  },
+  {
+   "lemma": "sadā",
+   "morph": "(indecl.)",
+   "grounds": "constant attitude"
   }
  ]
 }

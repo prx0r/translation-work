@@ -3,29 +3,44 @@
  "verse": 369,
  "rows": [
   {
-   "lemma": "mantrasnānaṃ",
-   "morph": "compound=n.acc.sg",
-   "grounds": "compound: mantra-snāna"
+   "lemma": "uttamaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "rank"
   },
   {
-   "lemma": "tataḥ",
+   "lemma": "divya",
+   "morph": "divya+bhāvaḥ compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "bhāvaḥ",
+   "morph": "divya+bhāvaḥ compound, m.nom.sg",
+   "grounds": "spiritual state"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb of sequence"
+   "grounds": "connective"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act.opt√kṛ",
-   "grounds": "optative of kṛ"
+   "lemma": "vīra",
+   "morph": "vīra+bhāvaḥ compound",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "karmaṇā",
-   "morph": "n.ins.sg",
-   "grounds": "instrumental singular"
+   "lemma": "bhāvaḥ",
+   "morph": "vīra+bhāvaḥ compound, m.nom.sg",
+   "grounds": "spiritual state"
   },
   {
-   "lemma": "siddhihetave",
-   "morph": "compound=m.dat.sg",
-   "grounds": "compound: siddhi-hetu in dative"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective"
+  },
+  {
+   "lemma": "madhyamaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "rank"
   }
  ]
 }

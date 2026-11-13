@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[caturthīm](caturthīm) [agnaye](agnaye) [sviṣṭakṛte](sviṣṭa+kṛte) [svāhā](svāhā) ['hutiñ](āhutiṃ) [caret](caret)
+[fourth](caturthīm) [to-agni](agnaye) [to-sviṣṭakṛt](sviṣṭakṛte) [svāhā](svāhā) [oblation](āhutiñ) [should-offer](caret)
 
 ## mukta-m0-p54-v1327
-[ayaṃ](ayaṃ) [vibhāgaḥ](vibhāgaḥ) [śukle](śukle) [syāt](syāt) [kṛṣṇe](kṛṣṇe) [sūrya](sūrya) [āhutiṃ](āhutiṃ) [caret](caret)
+[this](ayaṃ) [division](vibhāgaḥ) [in-bright-fortnight](śukle) [should-be](syāt) [in-dark-fortnight](kṛṣṇe) [oblation-to-sūrya](sūrya+āhutiṃ) [should-offer](caret)
 
 ## mukta-m0-p54-v1328
-[svaiḥ](svaiḥ) [svaiḥ](svaiḥ) [mantraiḥ](mantraiḥ) [samopetaṃ](sama+upetaṃ) [sadyaṃ](sadyaṃ) [vāmena](vāmena) [yojayet](yojayet)
+[with-own](svaiḥ) [with-own](svair) [with-mantras](mantraiḥ) [endowed](samopetaṃ) [sadya](sadyaṃ) [with-vāma](vāmena) [should-join](yojayet)
 
 ## mukta-m0-p54-v1329
-[taṃ](taṃ) [ca](ca) [īśāne](īśāne) [tu](tu) [saṃyojyaṃ](saṃ+yojyaṃ) [taṃ](taṃ) [śivena](śivena) [eva](eva) [yojayet](yojayet)
+[that](taṃ) [and](ca) [in-īśāna](īśāne) [indeed](tu) [to-be-joined](saṃyojyaṃ) [that](taṃ) [with-śiva](śivena) [alone](eva) [should-join](yojayet)
 
 ## mukta-m0-p54-v1330
-[sva](sva) [sva](sva) [mantra](mantra) [samopetaṃ](sama+upetaṃ) [sadyojāta](sadyojāta) [āditaḥ](āditaḥ) [nayet](nayet)
+[with-own](sva) [own-mantra](sva+mantra) [endowed](samopetaṃ) [from-sadyojāta](sadyojāta+ādito) [should-lead](nayet)
 
 ## mukta-m0-p54-v1331
-[anna](anna) [prāśana](prāśana) [cūḍā](cūḍā) [ādi](ādi) [saṃskārāṇāṃ](saṃskārāṇāṃ) [prasiddhaye](prasiddhaye)
+[of-rice-feeding](anna+prāśana) [tonsure](cūḍa) [and-other](ādi) [sacraments](saṃskārāṇāṃ) [for-accomplishment](prasiddhaye)
 
 ## mukta-m0-p54-v1332
-[vauṣaṭ](vauṣaṭ) [antena](antena) [mūlena](mūlena) [sruk](sruk) [sruvābhyāṃ](sruvābhyāṃ) [viśeṣataḥ](viśeṣataḥ)
+[ending-with-vauṣaṭ](vauṣaḍ+antena) [with-root-mantra](mūlena) [with-sruk-and-sruva](sruk+sruvābhyāṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p54-v1333
-[grāhayet](grāhayet) [tu](tu) [pṛthak](pṛthak) [bhāgaṃ](bhāgaṃ) [vahnim](vahnim) [uddhṛtya](uddhṛtya) [yatnataḥ](yatnataḥ)
+[should-cause-to-take](grāhayet) [but](tu) [separate-portion](pṛthak+bhāgaṃ) [fire](vahnim) [having-drawn-out](uddhṛtya) [with-effort](yatnataḥ)
 
 ## mukta-m0-p54-v1334
-[anāhute](anāhute) [śive](śive) [vahnau](vahnau) [homaḥ](homaḥ) [tu](tu) [āvāhite](āvāhite) [śive](śive)
+[not-invoked](anāhute) [in-śiva](śive) [in-fire](vahnau) [oblation](homas) [but](tu) [when-invoked](āvāhite) [in-śiva](śive)
 
 ## mukta-m0-p54-v1335
-[tasmāt](tasmāt) [tvadīya](tvadīya) [hṛt](hṛt) [padme](padme) [sthāpya](sthāpya) [santarpayāmi](santarpayāmi) [aham](aham)
+[therefore](tasmāt) [in-your](tvadīya) [heart-lotus](hṛt+padme) [having-placed](sthāpya) [I-satisfy](santarpayāmi) [I](aham)
 
 ## mukta-m0-p54-v1336
-[vinyasya](vinyasya) [kalpayet](kalpayet) [mūrtiṃ](mūrtiṃ) [bhāsvarāṃ](bhāsvarāṃ) [suvarāṃ](suvarāṃ) [parām](parām)
+[having-placed](vinyasya) [should-form](kalpayet) [form](mūrtiṃ) [radiant](bhāsvarāṃ) [beautiful](suvarāṃ) [supreme](parām)
 
 ## mukta-m0-p54-v1337
-[pūjayitvā](pūjayitvā) [bahis](bahiḥ) [tasyāḥ](tasyāḥ) [bhoga](bhoga) [aṅgāni](aṅgāni) [prakalpayet](prakalpayet)
+[having-worshipped](pūjayitvā) [outside](bahis) [of-that](tasyā) [enjoyment-limbs](bhoga+aṅgāni) [should-arrange](prakalpayet)
 
 ## mukta-m0-p54-v1338
-[prarocya](prarocya) [param](param) [īkṛtya](īkṛtya) [śiva](śiva) [vaktra](vaktra) [agni](agni) [vaktrayoḥ](vaktrayoḥ)
+[having-pleased](prarocya) [having-made-supreme](paramīkṛtya) [of-śiva's-mouth](śiva+vaktra) [and-fire's-mouth](agni+vaktrayoḥ)
 
 ## mukta-m0-p54-v1339
-[yāga](yāga) [sthāne](sthāne) [śivena](śivena) [ekībhūtaṃ](ekī+bhūtaṃ) [samyak](samyak) [vicintayet](vicintayet)
+[in-place-of-worship](yāga+sthāne) [with-śiva](śivena) [become-one](ekībhūtaṃ) [properly](samyag) [should-contemplate](vicintayet)
 
 ## mukta-m0-p54-v1340
-[śivāt](śivāt) [daśa](daśa) [aṃśataḥ](aṃśataḥ) [aṅgāni](aṅgāni) [tarpayet](tarpayet) [tu](tu) [dvija](dvija) [uttamāḥ](uttamāḥ)
+[from-śiva](śivād) [by-tenth-part](daśāṃśato) [limbs](aṅgāni) [should-satisfy](tarpayet) [but](tu) [o-best-of-twice-born](dvija+uttamāḥ)
 
 ## mukta-m0-p54-v1341
-[ātma](ātma) [arthe](arthe) [vā](vā) [para](para) [arthe](arthe) [vā](vā) [pratyaham](pratyaham) [homaṃ](homaṃ) [ācaret](ācaret)
+[for-oneself](ātma+arthe) [or](vā) [for-others](para+arthe) [or](vā) [daily](pratyahaṃ) [oblation](homam) [should-perform](ācaret)
 
 ## mukta-m0-p54-v1342
-[ājya](ājya) [abhāvāt](abhāvāt) [tilaiḥ](tilaiḥ) [homaḥ](homaḥ) [kartavyaḥ](kartavyaḥ) [kṛṣṇa](kṛṣṇa) [varcasaiḥ](varcasaiḥ)
+[due-to-absence-of-ghee](ājya+abhāvāt) [with-sesame](tilair) [oblation](homaḥ) [to-be-done](kartavyaḥ) [with-black-color](kṛṣṇa+varcasaiḥ)
 
 ## mukta-m0-p54-v1343
-[triphala](triphala) [bilva](bilva) [patrair](patrair) [vā](vā) [puṣpair](puṣpair) [vā](vā) [yājñikaiḥ](yājñikaiḥ) [śubhaiḥ](śubhaiḥ)
+[with-triphala](triphalair) [with-bilva-leaves](bilva+patrair) [or](vā) [with-flowers](puṣpair) [or](vā) [sacrificial](yājñikaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p54-v1344
-[mṛgīṃ](mṛgīṃ) [vārāha](vārāha) [mudrāṃ](mudrāṃ) [vā](vā) [śaṅkhinīṃ](śaṅkhinīṃ) [vā](vā) [vidhāya](vidhāya) [ca](ca)
+[mṛgī](mṛgīṃ) [or](vā) [vārāha-mudrā](vārāha+mudrāṃ) [or](vā) [śaṅkhinī](śaṅkhinīṃ) [or](vā) [having-performed](vidhāya) [and](ca)
 
 ## mukta-m0-p54-v1345
-[su](su) [sneha](sneha) [madhu](madhu) [dugdhānām](dugdhānām) [āhutiḥ](āhutiḥ) [syāt](syāt) [srava](srava) [ātmikā](ātmikā)
+[of-well-oiled](su+sneha) [honey](madhu) [milk](dugdhānām) [oblation](āhutiḥ) [should-be](syāt) [of-streaming-nature](srava+ātmikā)
 
 ## mukta-m0-p54-v1346
-[paryāyāt](paryāyāt) [sarva](sarva) [bhakṣyāṇi](bhakṣyāṇi) [pañca](pañca) [agra](agra) [aṅgulibhiḥ](aṅgulibhiḥ) [tilān](tilān)
+[in-turn](paryāyāt) [all-eatables](sarva+bhakṣyāṇi) [with-five-fingertips](pañca+agra+aṅgulibhis) [sesame](tilān)
 
 ## mukta-m0-p54-v1347
-[hasta](hasta) [piṇḍa](piṇḍa) [mitaṃ](mitaṃ) [śākaṃ](śākaṃ) [sva](sva) [aṣṭa](aṣṭa) [aṃśaṃ](aṃśaṃ) [kanda](kanda) [jātayaḥ](jātayaḥ)
+[measured-by-handful](hasta+piṇḍa+mitaṃ) [vegetable](śākaṃ) [one-eighth](sva+aṣṭāṃśaṃ) [bulbous-roots](kanda+jātayaḥ)
 
 ## mukta-m0-p54-v1348
-[tri](tri) [khaṇḍāni](khaṇḍāni) [tu](tu) [mūlāni](mūlāni) [dvi](dvi) [aṅgulā](aṅgulā) [valli](valli) [jātayaḥ](jātayaḥ)
+[in-three-pieces](tri+khaṇḍāni) [but](tu) [roots](mūlāni) [two-fingers-long](dvi+aṅgulā) [creepers](valli+jātayaḥ)
 
 ## mukta-m0-p54-v1349
-[haviṣya](haviṣya) [annaṃ](annaṃ) [tataḥ](tataḥ) [ca](ca) [ante](ante) [tāmbūlaṃ](tāmbūlaṃ) [vinivedayet](vinivedayet)
+[sacrificial-food](haviṣya+annaṃ) [then](tatas) [and](ca) [at-end](ante) [betel](tāmbūlaṃ) [should-offer](vinivedayet)
 
 ## mukta-m0-p54-v1350
-[pūjayitvā](pūjayitvā) [arpayitvā](arpayitvā) [ca](ca) [prarocya](prarocya) [ca](ca) [visarjayet](visarjayet)
+[having-worshipped](pūjayitvā) [having-offered](arpayitvā) [and](ca) [having-pleased](prarocya) [and](ca) [should-dismiss](visarjayet)

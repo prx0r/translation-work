@@ -3,39 +3,44 @@
  "verse": 366,
  "rows": [
   {
-   "lemma": "tāvat",
+   "lemma": "mantre",
+   "morph": "m.loc.sg",
+   "grounds": "locus of wrong view"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverbial correlative"
+   "grounds": "connective"
   },
   {
-   "lemma": "na",
+   "lemma": "akṣara",
+   "morph": "akṣara+buddhim compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "buddhim",
+   "morph": "akṣara+buddhim compound, f.acc.sg",
+   "grounds": "wrong understanding"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negation particle"
+   "grounds": "connective"
   },
   {
-   "lemma": "pūjayed",
-   "morph": "3.sg.act.opt√pūj",
-   "grounds": "optative of pūj"
+   "lemma": "aviśvāsaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "wrong attitude"
   },
   {
-   "lemma": "viṣṇuṃ",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular deity name"
+   "lemma": "gurau",
+   "morph": "m.loc.sg",
+   "grounds": "object of disbelief"
   },
   {
-   "lemma": "śaṅkaraṃ",
-   "morph": "m.acc.sg",
-   "grounds": "accusative singular deity name"
-  },
-  {
-   "lemma": "vā",
+   "lemma": "sadā",
    "morph": "(indecl.)",
-   "grounds": "disjunctive particle"
-  },
-  {
-   "lemma": "maheśvarīm",
-   "morph": "f.acc.sg",
-   "grounds": "accusative singular deity name"
+   "grounds": "constant prohibition"
   }
  ]
 }

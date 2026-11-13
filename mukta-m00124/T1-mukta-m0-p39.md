@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-īśānaṃ(īśānam) karṇikāyām(karṇikāyām) tu(tu) pūjayet(pūjayet) kusuma+ādibhiḥ(kusumādibhiḥ)
+[īśānaṃ](īśānaṃ) [pericarp-in](karṇikāyāṃ) [indeed](tu) [one-should-worship](pūjayet) [with-flowers+etc.](kusumādibhiḥ)
 
 ## mukta-m0-p39-v952
-vāmam(vāmam) uttara+patre(uttarapatre) tu(tu) sadyam(sadyam) paścima+patrataḥ(paścimapatrataḥ)
+[vāma](vāmam) [northern-petal-on](uttarapatre) [indeed](tu) [sadya](sadyaṃ) [western-petal-from](paścimapatrataḥ)
 
 ## mukta-m0-p39-v953
-bāhubhiḥ(bāhubhiḥ) daśabhiḥ(daśabhiḥ) ca(ca) eva(eva) śaśāṅka+makuṭaiḥ(śaśāṅkamakuṭaiḥ) saha(saha)
+[with-arms](bāhubhiḥ) [ten](daśabhiḥ) [and+indeed](ca+eva) [moon+crested](śaśāṅka+makuṭaiḥ) [with](saha)
 
 ## mukta-m0-p39-v954
-agni+īśa+rakṣas+vāyavya+catur+dikṣu(agnīśarakṣovāyavyacaturdikṣu) gatam(gatam) yajet(yajet)
+[fire+lord+demons+wind](agni+īśa+rakṣo+vāyavya) [four-directions-in](caturdikṣu) [gone](gataṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p39-v955
-hṛdayam(hṛdayam) candra+varṇa+ābham(candravarṇābham) śiraḥ(śiraḥ) gorocana+prabham(gorocanaprabham)
+[heart](hṛdayaṃ) [moon+color+resembling](candra+varṇa+ābhaṃ) [head](śiro) [gorocanā+splendor](gorocana+prabham)
 
 ## mukta-m0-p39-v956
-ā+dhūmram(ādhūmram) kavacam(kavacam) nyasyet(nyasyet) astram(astram) kapila+varṇakam(kapilavarṇakam)
+[slightly-smoky](ādhūmraṃ) [armor](kavacaṃ) [one-should-place](nyasyet) [weapon](astraṃ) [tawny+colored](kapila+varṇakam)
 
 ## mukta-m0-p39-v957
-pañca+vaktra+yutāḥ(pañcavaktrayutāḥ) sarve(sarve) daśa+bāhu+indu+bhūṣitāḥ(daśabāhvindubhūṣitāḥ)
+[five+face+endowed](pañca+vaktra+yutāḥ) [all](sarve) [ten+arm+crescent+adorned](daśa+bāhu+indu+bhūṣitāḥ)
 
 ## mukta-m0-p39-v958
-dvi+raṣṭa+vatsara+ākārāḥ(dviraṣṭavatsarākārāḥ) su+rūpāḥ(surūpāḥ) sthira+yauvanāḥ(sthirayauvanāḥ)
+[two+eight+year+form](dvi+aṣṭa+vatsara+ākārāḥ) [beautiful-formed](surūpāḥ) [firm+youth](sthira+yauvanāḥ)
 
 ## mukta-m0-p39-v959
-mūrdha+ādibhyaḥ(mūrdhādibhyaḥ) hṛd+ādibhyaḥ(hṛdādibhyas) tu(tu) ānetavyāḥ(ānetavyāḥ) prabhoḥ(prabhoḥ) ime(ime)
+[from-head+etc.](mūrdha+ādibhyaḥ) [from-heart+etc.](hṛda+ādibhyaḥ) [to-be-invoked](tu+ānetavyāḥ) [of-lord](prabhoḥ) [these](ime)
 
 ## mukta-m0-p39-v960
-garbha+āvaraṇam(garbhāvaraṇam) evam(evam) tu(tu) pūjayet(pūjayet) abhitaḥ(abhito) haram(haram)
+[womb+enclosure](garbha+āvaraṇam) [thus](evaṃ) [indeed](tu) [one-should-worship](pūjayet) [on-all-sides](abhitaḥ) [hara](haram)
 
 ## mukta-m0-p39-v961
-aṅka+ārūḍhā(aṅkārūḍhā) prabhoḥ(prabhoḥ) pūjyā(pūjyā) ādi+śaktiḥ(ādiśaktiḥ) manonmanī(manonmanī)
+[lap+mounted](aṅka+ārūḍhā) [of-lord](prabhoḥ) [to-be-worshipped](pūjyā) [primordial+power](ādi+śaktiḥ) [manonmanī](manonmanī)
 
 ## mukta-m0-p39-v962
-na(na) avakuṇṭhanam(avakuṇṭhanam) eteṣām(eteṣām) amṛtī+karaṇam(amṛtīkaraṇam) vinā(vinā)
+[not+concealment](na+avakuṇṭhanam) [of-these](eteṣām) [immortalization](amṛtīkaraṇaṃ) [without](vinā)
 
 ## mukta-m0-p39-v963
-snapanam(snapanam) dīpa+kḷptiḥ(dīpakḷptiḥ) ca(ca) na(na) pṛthak(pṛthak) ca(ca) aṅga+bhāvataḥ(aṅgabhāvataḥ)
+[bathing](snapanaṃ) [lamp+arrangement](dīpa+kḷptiḥ) [and](ca) [not](na) [separately](pṛthak) [because-of-limb-nature](ca+aṅga+bhāvataḥ)
 
 ## mukta-m0-p39-v964
-ananteśaḥ(ananteśaḥ) ca(ca) sūkṣmaḥ(sūkṣmaḥ) ca(ca) śivottama+eka+netrakau(śivottamaikanetrakau)
+[ananteśa](ananteśaḥ) [and](ca) [sūkṣma](sūkṣmaḥ) [and](ca) [śivottama+ekanetra](śivottama+ekanetrakau)
 
 ## mukta-m0-p39-v965
-ete(ete) devāḥ(devāḥ) catur+vaktrāḥ(caturvaktrā) hara+vat(haravat) daśa+bāhavaḥ(daśabāhavaḥ)
+[these](ete) [gods](devāḥ) [four+faced](catur+vaktrāḥ) [like-hara](hara+vat) [ten+armed](daśa+bāhavaḥ)
 
 ## mukta-m0-p39-v966
-khaḍga+kheṭa+dhanus+bāṇa+kamaṇḍalu+akṣa+sūtriṇaḥ(khaḍgakheṭadhanurbāṇakamaṇḍalvakṣasūtriṇaḥ)
+[sword+shield+bow+arrow+water-pot+rosary+holders](khaḍga+kheṭa+dhanur+bāṇa+kamaṇḍalu+akṣa+sūtriṇaḥ)
 
 ## mukta-m0-p39-v967
-yugānta+āditya+saṃkāśāḥ(yugāntādityasaṃkāśāḥ) saṃsṛṣṭau(saṃsṛṣṭau) śiva+coditāḥ(śivacoditāḥ)
+[age-end+sun+resembling](yuga+anta+āditya+saṃkāśāḥ) [in-creation](saṃsṛṣṭau) [by-śiva+commanded](śiva+coditāḥ)
 
 ## mukta-m0-p39-v968
-śivottamam(śivottamam) tu(tu) vāruṇyām(vāruṇyām) eka+netram(ekanetram) tathā(tathā) uttare(uttare)
+[śivottama](śivottamaṃ) [indeed](tu) [in-west](vāruṇyām) [ekanetra](ekanetraṃ) [likewise](tathā) [in-north](uttare)
 
 ## mukta-m0-p39-v969
-śrīkaṇṭhām(śrīkaṇṭhām) ca(ca) eva(eva) nairṛtyām(nairṛtyām) vāyavyām(vāyavyām) tu(tu) śikhaṇḍinam(śikhaṇḍinam)
+[śrīkaṇṭha](śrīkaṇṭhāṃ) [and+indeed](ca+eva) [in-southwest](nairṛtyāṃ) [in-northwest](vāyavyāṃ) [indeed](tu) [śikhaṇḍin](śikhaṇḍinam)
 
 ## mukta-m0-p39-v970
-siṃha+ārūḍhā(siṃhārūḍhā) ambikā(ambikā) tri+akṣā(tryakṣā) pīta+ābhā(pītābhā) darpaṇa+udvahā(darpaṇodvahā)
+[lion+mounted](siṃha+ārūḍhā) [ambikā](ambikā) [three+eyed](tri+akṣā) [yellow+colored](pīta+ābhā) [mirror+bearing](darpaṇa+udvahā)
 
 ## mukta-m0-p39-v971
-vaiyāghra+vasanaḥ(vaiyāghravasanas) tri+akṣaḥ(tryakṣaḥ) śūla+daṇḍa+kuṭhāra+bhṛt(śūladaṇḍakuṭhārabhṛt)
+[tiger+skin+garment](vaiyāghra+vasanaḥ) [three+eyed](tri+akṣaḥ) [trident+staff+axe+bearer](śūla+daṇḍa+kuṭhāra+bhṛt)
 
 ## mukta-m0-p39-v972
-nandinam(nandinam) pūrva+dik+bhāge(pūrvadigbhāge) padmarāga+sama+prabham(padmarāgasamaprabham)
+[nandin](nandinaṃ) [eastern+direction+part-in](pūrva+dig+bhāge) [ruby+equal+splendor](padmarāga+sama+prabham)
 
 ## mukta-m0-p39-v973
-harita+ābham(haritābham) mahākālam(mahākālam) śūla+hastam(śūlahastam) tri+locanam(trilocanam)
+[green+colored](harita+ābhaṃ) [mahākāla](mahākālaṃ) [trident+hand](śūla+hastaṃ) [three+eyed](tri+locanam)
 
 ## mukta-m0-p39-v974
-gaṇeśaḥ(gaṇeśo) vāmana+ākāraḥ(vāmanākāro) gaja+vaktraḥ(gajavaktraḥ) sva+danta+bhṛt(svadantabhṛt)
+[gaṇeśa](gaṇeśaḥ) [dwarf+form](vāmana+ākāraḥ) [elephant+faced](gaja+vaktraḥ) [own+tusk+bearer](sva+danta+bhṛt)
 
 ## mukta-m0-p39-v975
-sa+laṅḍuka+kuṭhāra+akṣa+mālā+hastaḥ(salaṅḍukakuṭhārākṣamālāhastas) tri+locanaḥ(trilocanaḥ)
+[with-laddu+axe+rosary+hand](sa+laṅḍuka+kuṭhāra+akṣa+mālā+hastaḥ) [three+eyed](tri+locanaḥ)

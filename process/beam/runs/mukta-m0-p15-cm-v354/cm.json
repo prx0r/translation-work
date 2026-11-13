@@ -3,14 +3,39 @@
  "verse": 354,
  "rows": [
   {
-   "lemma": "proktaṃ",
-   "morph": "n.nom.sg.ppp",
-   "grounds": "past participle of pra-vac"
+   "lemma": "eka",
+   "morph": "eka+grāme compound",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "sarvasamṛddhidam",
-   "morph": "compound=n.nom.sg",
-   "grounds": "compound: sarva-samṛddhi-da"
+   "lemma": "grāme",
+   "morph": "eka+grāme compound, m.loc.sg",
+   "grounds": "location"
+  },
+  {
+   "lemma": "sthitam",
+   "morph": "m.acc.sg",
+   "grounds": "guru's presence"
+  },
+  {
+   "lemma": "nityam",
+   "morph": "(indecl.)",
+   "grounds": "constant practice"
+  },
+  {
+   "lemma": "tri+sandhyam",
+   "morph": "tri+sandhyam compound, (indecl.)",
+   "grounds": "three daily junctions"
+  },
+  {
+   "lemma": "praṇamet",
+   "morph": "3.sg.optative-active √praṇam",
+   "grounds": "injunction"
+  },
+  {
+   "lemma": "gurum",
+   "morph": "m.acc.sg",
+   "grounds": "object of reverence"
   }
  ]
 }

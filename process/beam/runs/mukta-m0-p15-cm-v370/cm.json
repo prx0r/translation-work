@@ -3,9 +3,39 @@
  "verse": 370,
  "rows": [
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act.opt√kṛ",
-   "grounds": "optative of kṛ"
+   "lemma": "paśu",
+   "morph": "paśu+bhāve compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "bhāve",
+   "morph": "paśu+bhāve compound, m.loc.sg",
+   "grounds": "spiritual state"
+  },
+  {
+   "lemma": "sthitāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "condition of mantras"
+  },
+  {
+   "lemma": "mantrāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "subject"
+  },
+  {
+   "lemma": "kevalāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "limitation"
+  },
+  {
+   "lemma": "varṇa",
+   "morph": "varṇa+rūpiṇaḥ compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "rūpiṇaḥ",
+   "morph": "varṇa+rūpiṇaḥ compound, m.nom.pl",
+   "grounds": "reduced nature"
   }
  ]
 }

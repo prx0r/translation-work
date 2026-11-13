@@ -3,14 +3,34 @@
  "verse": 372,
  "rows": [
   {
-   "lemma": "karma",
-   "morph": "n.acc.sg",
-   "grounds": "accusative singular object"
+   "lemma": "kūla",
+   "morph": "kūla+striyam compound",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act.opt√kṛ",
-   "grounds": "optative of kṛ"
+   "lemma": "striyam",
+   "morph": "kūla+striyam compound, f.acc.sg",
+   "grounds": "person to be honored"
+  },
+  {
+   "lemma": "mahādevi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "tantra",
+   "morph": "tantra+mantra compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "mantra",
+   "morph": "tantra+mantra compound",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "viśāradām",
+   "morph": "f.acc.sg",
+   "grounds": "qualification"
   }
  ]
 }

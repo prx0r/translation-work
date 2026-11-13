@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 374,
- "question": "In what order should the guru lineage and the chosen deity receive libations?",
+ "question": "What age range is specified for the female subject in this injunction?",
  "premises": [
-  "The guru lineage is to be satisfied first",
-  "Libation is then offered",
-  "The chosen deity is the subsequent recipient"
+  "A starting age of five years is given",
+  "An upper limit of twelve years is given",
+  "The range defines the applicable subject"
  ],
- "inference": "One should first satisfy the guru lineage and then offer libation to the chosen deity.",
- "uncertainties": [],
- "plain_english": "Having first satisfied the guru lineage, one should then offer libation to the chosen deity."
+ "inference": "The specified age range is from five years up to twelve years old.",
+ "uncertainties": [
+  "Connection to preceding verse's injunction is syntactic across verses; this verse gives the age range"
+ ],
+ "plain_english": "Beginning from five years of age up to twelve years old."
 }

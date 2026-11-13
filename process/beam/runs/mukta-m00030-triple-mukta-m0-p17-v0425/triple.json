@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "prakṣipet",
+     "gloss": "should-cast",
+     "grounds": "optative verb expressing ritual instruction to throw or deposit",
+     "morph": "3.sg.opt.act pra-√kṣip"
+    },
+    {
+     "surface": "vairigehe",
+     "gloss": "in-enemy-house",
+     "grounds": "locative compound indicating the place of deposition; vairi+geha",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking action to its result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the enemy targeted by the rite",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "uccāṭanam",
+     "gloss": "eradication",
+     "grounds": "ritual effect of uprooting or driving away the target",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "qualifies the eradication as highest or most effective",
+     "morph": "acc.sg.nt"
+    }
+   ],
+   "question": "What ritual result follows from casting the prepared material into an enemy's house?",
+   "premises": [
+    "The prepared material should be cast as a ritual act.",
+    "The designated place for casting is the enemy's house.",
+    "The intended outcome for that enemy is eradication.",
+    "This eradication is characterized as supreme."
+   ],
+   "inference": "Casting the prepared material into an enemy's house produces that enemy's supreme eradication.",
+   "uncertainties": [
+    "The exact substance to be cast is implied from the preceding verses rather than named in this verse."
+   ],
+   "plain_english": "One should cast it into the enemy's house, and this brings about his supreme eradication."
+  }
+ ]
+}

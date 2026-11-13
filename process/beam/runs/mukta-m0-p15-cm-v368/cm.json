@@ -3,34 +3,44 @@
  "verse": 368,
  "rows": [
   {
-   "lemma": "nadyādau",
-   "morph": "compound=m.loc.sg",
-   "grounds": "compound: nadī-ādi in locative"
+   "lemma": "sarveṣām",
+   "morph": "m.gen.pl",
+   "grounds": "objects of criticism"
   },
   {
-   "lemma": "datvā",
-   "morph": "(gerund)",
-   "grounds": "absolutive of dā"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective"
   },
   {
-   "lemma": "vaidikasnānaṃ",
-   "morph": "compound=n.acc.sg",
-   "grounds": "compound: vaidika-snāna"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphasis"
   },
   {
-   "lemma": "kṛtvā",
-   "morph": "(gerund)",
-   "grounds": "absolutive of kṛ"
+   "lemma": "nindām",
+   "morph": "f.acc.sg",
+   "grounds": "faulty act"
   },
   {
-   "lemma": "tāntrikasnānam",
-   "morph": "compound=n.acc.sg",
-   "grounds": "compound: tāntrika-snāna"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective"
   },
   {
-   "lemma": "ācaret",
-   "morph": "3.sg.act.opt√ā-car",
-   "grounds": "optative of ā-car"
+   "lemma": "mantra",
+   "morph": "mantra+kūryāt compound",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "kūryāt",
+   "morph": "mantra+kūryāt compound, 3.sg.optative-active √kṛ",
+   "grounds": "faulty action"
+  },
+  {
+   "lemma": "maheśvari",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   }
  ]
 }
