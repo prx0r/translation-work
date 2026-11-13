@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 324,
- "question": "What supreme attainment follows for the lord upon hearing that teaching?",
+ "question": "What does the lord go to after hearing that?",
  "premises": [
-  "The lord has heard that teaching.",
-  "The lord goes to a divine state.",
-  "The attainment is auspicious supreme liberation."
+  "After hearing that, the lord goes.",
+  "He goes to divine supreme liberation.",
+  "That liberation is auspicious."
  ],
- "inference": "Having heard that, the lord attains the divine and auspicious supreme liberation.",
- "uncertainties": [],
- "plain_english": "Having heard that, the lord attains the divine, auspicious, supreme liberation."
+ "inference": "After hearing that, the lord goes to auspicious divine supreme liberation.",
+ "uncertainties": [
+  "The referent of 'that' is not explicit."
+ ],
+ "plain_english": "Having heard that, the lord goes to auspicious divine supreme liberation."
 }

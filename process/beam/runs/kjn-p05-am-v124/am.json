@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What protection is said to hold for the body even in the case of a bite from great serpents?",
+ "question": "Does poison enter the body even when bitten by great serpents?",
  "premises": [
-  "A person may be bitten by great serpents.",
-  "Even in that case, poison does not enter the body.",
-  "The negation applies to the entry of poison into the body."
+  "Poison does not enter the body.",
+  "Even if bitten.",
+  "The biters are great serpents."
  ],
- "inference": "Even if bitten by great serpents, poison does not enter the body.",
+ "inference": "The verse claims immunity to poison even from great serpents.",
  "uncertainties": [
-  "The source of this protection is not specified by this verse alone."
+  "Whether this is literal or yogic immunity is unclear."
  ],
- "plain_english": "Poison does not enter the body, even if one has been bitten by great serpents."
+ "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }
