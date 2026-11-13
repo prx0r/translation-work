@@ -11,67 +11,67 @@
 [immediately](sadyaḥ) [horripilated+form](pulakita+ākāro) [state](bhāvaḥ) [some](ko'pi) [manifests](vijṛṃbhate)
 
 ## mukta-m0-p19-v454
-[dances+as-if+with-longing](nṛtyati+iva+samutkaṃṭhā) [dances](nṛtyatī) [or](va) [vein+mouth](śirā+mukham)
+[dances+as-if](nṛtyati+iva) [with-longing](samutkaṃṭhā) [dances](nṛtyati) [as-if](iva) [vein+mouth](śirā+mukham)
 
 ## mukta-m0-p19-v455
-[messenger-goddess](dūtikā) [in-love+abode+dwelling](smara+geha+sthāṃ) [Bhagamālā](bhagamālāṃ) [one-should-worship](samarcayet)
+[messenger-goddess](dūtikā) [love+house+dwelling](smara+geha+sthāṃ) [Bhagamālā](bhagamālāṃ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p19-v456
-[and-of-her+worship+difference](tasyāḥ+ca+arcana+bhedaḥ+tu) [to-be-told](vaktavyaḥ) [O-Supreme-Lord](parameśvara)
+[of-her+and+worship](tasyāḥ+ca+arcana) [distinction](bhedastu) [to-be-told](vaktavyaḥ) [O-supreme-lord](parameśvara)
 
 ## mukta-m0-p19-v457
-[Bhagamālā+thus](bhagamālā+iti) [entire](niḥśeṣa) [Bhaga+circle+presiding-deity](bhaga+cakra+abhimāninī)
+[Bhagamālā+thus](bhagamālā+iti) [entire](niḥśeṣa) [Bhaga+circle+presiding](bhaga+cakra+abhimāninī)
 
 ## mukta-m0-p19-v458
-[universe+enchanting+form](viśva+saṃohana+ākārā) [universe+birth+great-abode](viśva+janma+mahā+sthali)
+[universe+enchanting+form](viśva+saṃohana+ākārā) [universe+birth+great+ground](viśva+janma+mahā+sthali)
 
 ## mukta-m0-p19-v459
-[time+form+time+maker](kāla+rūpā+kāla+karī) [time+devouring+eager](kāla+grasana+lālasā)
+[time+form](kāla+rūpā) [time+making](akāla+karī) [time+devouring+eager](kāla+grasana+lālasā)
 
 ## mukta-m0-p19-v460
-[in-all](samasteṣu) [bodies](śarīreṣu) [of-men+of-women+and+also+or](puṃsāṃ+strīṇām+atha+api+vā)
+[in-all](samasteṣu) [bodies](śarīreṣu) [of-men](puṃsāṃ) [of-women](strīṇām) [and+also](atha+api+vā)
 
 ## mukta-m0-p19-v461
-[compendium](saṃhita) [in-hundred-thousand](śata+sāhasre) [for-which-purpose](yad+arthe) [is-declared](kīrtyate) [by-me](mayā)
+[collection](saṃhita) [hundred+thousand](śata+sāhasre) [for-which-purpose](yadarthe) [is-proclaimed](kīrtyate) [by-me](mayā)
 
 ## mukta-m0-p19-v462
-[eternal+limb+love+intoxicated](nitya+anaṃga+mada+unmattā) [by-youth+exceedingly+proud](yauvanena+ati+garvitā)
+[eternal+limb+love+intoxicated](nityā+anaṃga+mada+unmattā) [by-youth](yauvanena) [very+proud](ati+garvitā)
 
 ## mukta-m0-p19-v463
-[noose+goad](pāśa+aṃkuśau) [in-hand](karaṃ) [bow](dhanva) [then](tadā) [or](vā) [honey+vessel](madhu+bhājanam)
+[noose+and+goad](pāśa+aṃkuśau) [in-hand](karaṃ) [bow](dhanva) [then](tadā) [or](vā) [honey+vessel](madhu+bhājanam)
 
 ## mukta-m0-p19-v464
 [serene+face+lotus](prasanna+vadana+aṃbhojā) [intoxication+red+eyes](mada+rakta+vilocanā)
 
 ## mukta-m0-p19-v465
-[own+red+luster+garments+indeed+covered+hip+region](sva+rakta+kāṃti+śaṭībhiḥ+eva+āvṛta+nitaṃba+bhūḥ)
+[own+blood+splendor+garments](sva+rakta+kāṃti+śaṭībhiḥ) [indeed+covered+hip+region](eva+āvṛta+nitaṃba+bhūḥ)
 
 ## mukta-m0-p19-v466
-[sky-clad+by-other](dig+aṃbarābhiḥ+anyābhiḥ) [by-powers](śaktibhiḥ) [surrounded](parivāritā)
+[sky-clad](digaṃbarābhiḥ) [by-other](anyābhiḥ) [powers](śaktibhiḥ) [surrounded](parivāritā)
 
 ## mukta-m0-p19-v467
-[55k)](55k)) [thus](evaṃ) [to-be-meditated](dhyeyā) [O-Great-Goddess](maheśāni) [deity](devatā) [Bhagamālinī](bhagamālinī)
+[thus](evaṃ) [to-be-meditated](dhyeyā) [O-great-goddess](maheśāni) [deity](devatā) [Bhagamālinī](bhagamālinī)
 
 ## mukta-m0-p19-v468
-[Tripurā+offering+water+with](tripurā+arghya+aṃbunā) [having-sprinkled](prokṣya) [of-messenger-goddess](dūtyāḥ) [love+abode](smara+niketanam)
+[Tripurā+offering+water](tripurā+arghya+aṃbunā) [having-sprinkled](prokṣya) [of-messenger-goddess](dūtyāḥ) [love+abode](smara+niketanam)
 
 ## mukta-m0-p19-v469
-[triangle](trikoṇaṃ) [pentagon](paṃcakoṇaṃ) [and](ca) [with-eight+spokes+four+petals](sa+aṣṭa+ara+ka+catur+ddalam)
+[triangle](trikoṇaṃ) [pentagon](paṃcakoṇaṃ) [and](ca) [with-eight+spokes+four+petals](sa+aṣṭa+ara+catur+dalam)
 
 ## mukta-m0-p19-v470
-[in-middle](madhye) [one-should-worship+great-goddess](jayet+mahādevīṃ) [intoxicated](mādyaṃtīṃ) [Bhagamālinī](bhagamālinīm)
+[in-middle](madhye) [one-should-worship](jayen) [great-goddess](mahādevīṃ) [intoxicated](mādyaṃtīṃ) [Bhagamālinīm](bhagamālinīm)
 
 ## mukta-m0-p19-v471
-[Bhagaguhyā](bhagaguhyaṃ) [Bhagayoni](bhagayoniṃ) [likewise](tathā) [Bhaganipātinī](bhaganipātinīm)
+[Bhagaguhyā](bhagaguhyaṃ) [Bhagayoni](bhagayoniṃ) [and](tathā) [Bhaganipātinī](bhaganipātinīm)
 
 ## mukta-m0-p19-v472
-[Bhagarūpā](bhagarūpāṃ) [then](tadā) [goddess](devīṃ) [Nityaklinnā+mother+also](nityaklinnā+ambikām+api)
+[Bhagarūpā](bhagarūpāṃ) [then](tadā) [goddess](devīṃ) [Nityaklinnā+mother](nityaklinnā+ambikām) [also](api)
 
 ## mukta-m0-p19-v473
-[Bhagaklinnā+eighth](bhagaklinnām+aṣṭamīṃ) [and](ca) [practitioner+by-rule+conduct](sādhakaḥ+vidhi+varttanā)
+[Bhagaklinnā](bhagaklinnām) [eighth](aṣṭamīṃ) [and](ca) [practitioner](sādhakaḥ) [by-rule+conduct](vidhi+varttanā)
 
 ## mukta-m0-p19-v474
-[unfailing+Bhaga+knowledge](amogha+bhaga+vidyā) [and](ca) [fourth](caturthi) [but](tu) [Bhageśvarī](bhageśvarī)
+[Amoghabhagavidyā](amoghabhagavidyā) [and](ca) [fourth](caturthi) [indeed](tu) [Bhageśvarī](bhageśvarī)
 
 ## mukta-m0-p19-v475
-[Tripurā+offering](tripurā+arghya) [with-established+indeed](sthitaiḥ+eva) [with-drops](biṃdubhiḥ) [that](tat) [one-should-worship](prapūjayet)
+[Tripurā+offering](tripurā+arghya) [situated](sthitaiḥ) [indeed](eva) [with-drops](biṃdubhiḥ) [that](tat) [one-should-worship](prapūjayet)
