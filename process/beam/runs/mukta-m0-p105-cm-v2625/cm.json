@@ -3,14 +3,34 @@
  "verse": 2625,
  "rows": [
   {
-   "lemma": "draviṇotsargasantuṣṭā",
-   "morph": "compound.f.nom.sg",
-   "grounds": "compound epithet: draviṇa (wealth) + utsarga (relinquishment/giving) + santuṣṭā (satisfied); describes the goddess as pleased by the offering of wealth"
+   "lemma": "madane",
+   "morph": "m.loc.sg",
+   "grounds": "locative of the proper name Madana, specifying the mountain"
   },
   {
-   "lemma": "draviṇatyāgatoṣikā",
-   "morph": "compound.f.nom.sg",
-   "grounds": "compound epithet: draviṇa (wealth) + tyāga (renunciation) + toṣikā (delighting/pleasing); describes the goddess as delighting in the renunciation of wealth"
+   "lemma": "parvate",
+   "morph": "m.loc.sg",
+   "grounds": "locative noun in apposition to madane"
+  },
+  {
+   "lemma": "ramye",
+   "morph": "m.loc.sg",
+   "grounds": "adjective agreeing with parvate in the locative"
+  },
+  {
+   "lemma": "gatvā",
+   "morph": "(gerund, √gam)",
+   "grounds": "absolutive expressing prior action"
+  },
+  {
+   "lemma": "paśyet+ca",
+   "morph": "opt.3.sg.act (√dṛś)+indecl.",
+   "grounds": "optative verb fused with enclitic ca; sandhi/junction marked in the given token"
+  },
+  {
+   "lemma": "śaṅkaram",
+   "morph": "m.acc.sg",
+   "grounds": "accusative object of paśyet, denoting the deity to be beheld"
   }
  ]
 }

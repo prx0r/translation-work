@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p106",
  "verse": 2649,
- "question": "What marital bond and devotional preference connect the goddess to the god of gods?",
+ "question": "What ritual action involving Kāmadhenu follows drinking the water of Kedāra?",
  "premises": [
-  "The goddess is the wife of the god of gods.",
-  "The goddess is fond of the worship of the god of gods."
+  "The water of Kedāra is drunk.",
+  "Kāmadhenu is present as an object of touch.",
+  "The action is expressed conditionally."
  ],
- "inference": "Her spousal relationship is accompanied by delight in his worship.",
- "uncertainties": [
-  "The internal sandhi in devā+rccana is preserved as given; segmentation follows the provided token."
- ],
- "plain_english": "She is the wife of the god of gods and is fond of the worship of the god of gods."
+ "inference": "If one drinks Kedāra’s water, one should then touch Kāmadhenu.",
+ "uncertainties": [],
+ "plain_english": "If one drinks the water of Kedāra, one should touch Kāmadhenu."
 }
