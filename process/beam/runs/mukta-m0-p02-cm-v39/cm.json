@@ -3,39 +3,44 @@
  "verse": 39,
  "rows": [
   {
-   "lemma": "liṅgāṅkī",
-   "morph": "f.nom.sg (compound)",
-   "grounds": "adjective describing one mark of offspring"
+   "lemma": "tat",
+   "morph": "m.gen.sg",
+   "grounds": "demonstrative determiner"
   },
   {
-   "lemma": "ca",
+   "lemma": "sutaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of praṇamet"
+  },
+  {
+   "lemma": "tat",
+   "morph": "m.gen.sg",
+   "grounds": "demonstrative determiner"
+  },
+  {
+   "lemma": "tanayāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "object of praṇamet"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "bhagāṅkī",
-   "morph": "f.nom.sg (compound)",
-   "grounds": "adjective describing the other mark of offspring"
+   "lemma": "praṇamet",
+   "morph": "3.sg.act-opt √praṇam",
+   "grounds": "optative verb"
   },
   {
-   "lemma": "ca",
+   "lemma": "vidhi",
+   "morph": "compound: vidhi+pūrvaka",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "pūrvakam",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "tena",
-   "morph": "n.inst.sg",
-   "grounds": "instrumental or causal pronoun indicating reason"
-  },
-  {
-   "lemma": "māheśvarī",
-   "morph": "f.nom.sg",
-   "grounds": "adjective qualifying the offspring"
-  },
-  {
-   "lemma": "prajāḥ",
-   "morph": "f.nom.pl",
-   "grounds": "subject described by the two marks"
+   "grounds": "second member of compound, adverbial"
   }
  ]
 }

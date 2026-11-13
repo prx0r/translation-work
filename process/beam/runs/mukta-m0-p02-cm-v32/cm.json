@@ -3,34 +3,54 @@
  "verse": 32,
  "rows": [
   {
-   "lemma": "māyā",
-   "morph": "compound-member",
-   "grounds": "first member of compound indicating separation from māyā"
+   "lemma": "alpa",
+   "morph": "compound: alpa+jña",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "virahitaḥ",
-   "morph": "m.nom.sg (compound)",
-   "grounds": "adjective describing separation from māyā"
+   "lemma": "jño",
+   "morph": "m.nom.sg",
+   "grounds": "second member of compound, sandhi form"
   },
   {
-   "lemma": "yāvat",
+   "lemma": "an",
+   "morph": "compound: an+alpa",
+   "grounds": "negative prefix"
+  },
+  {
+   "lemma": "alpa",
+   "morph": "compound: an+alpa+vijña",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "vijño",
+   "morph": "m.nom.sg",
+   "grounds": "final member of compound, sandhi form"
+  },
+  {
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "temporal or conditional particle"
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "niśākāle",
-   "morph": "m.loc.sg (compound)",
-   "grounds": "locative indicating a dark or obscure state"
+   "lemma": "guruḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject"
   },
   {
-   "lemma": "tu",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "particle marking contrast or emphasis"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "gīyate",
-   "morph": "3.sg.pass.pres √gai",
-   "grounds": "passive verb indicating traditional description"
+   "lemma": "sadā",
+   "morph": "(indecl.)",
+   "grounds": "temporal adverb"
+  },
+  {
+   "lemma": "gatiḥ",
+   "morph": "f.nom.sg",
+   "grounds": "predicate noun"
   }
  ]
 }

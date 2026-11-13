@@ -3,34 +3,44 @@
  "verse": 26,
  "rows": [
   {
-   "lemma": "dhāraṇāt",
-   "morph": "n.abl.sg",
-   "grounds": "ablative of cause/reason from dhāraṇa (supporting)"
+   "lemma": "guruḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject of sentence"
   },
   {
-   "lemma": "dhātrīm",
-   "morph": "f.acc.sg",
-   "grounds": "accusative object, feminine agent noun from √dhṛ"
+   "lemma": "yasya",
+   "morph": "m.gen.sg",
+   "grounds": "relative pronoun, refers to guru"
   },
   {
-   "lemma": "iti",
+   "lemma": "vaśī",
+   "morph": "m.nom.sg",
+   "grounds": "predicate adjective in compound-like state"
+  },
+  {
+   "lemma": "bhūto",
+   "morph": "m.nom.sg",
+   "grounds": "past participle with vaśī"
+  },
+  {
+   "lemma": "devāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "subject of praṇamanti"
+  },
+  {
+   "lemma": "taṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object, refers to guru"
+  },
+  {
+   "lemma": "praṇamanti",
+   "morph": "3.pl.act-pres √praṇam",
+   "grounds": "main verb"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "quotation marker"
-  },
-  {
-   "lemma": "āhaḥ",
-   "morph": "3.pl.act.perf √ah/brū",
-   "grounds": "verb of speaking introducing the designation"
-  },
-  {
-   "lemma": "pālanāt",
-   "morph": "n.abl.sg",
-   "grounds": "ablative of cause/reason from pālana (protecting)"
-  },
-  {
-   "lemma": "parameśvarī",
-   "morph": "f.nom.sg",
-   "grounds": "subject designated by the stated functions"
+   "grounds": "connective particle"
   }
  ]
 }

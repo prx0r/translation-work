@@ -3,9 +3,14 @@
  "verse": 204,
  "rows": [
   {
-   "lemma": "ata",
+   "lemma": "durgā",
+   "morph": "f.nom.sg",
+   "grounds": "names the goddess invoked"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conclusive particle drawing inference from prior statements"
+   "grounds": "connects the two goddesses"
   },
   {
    "lemma": "eva",
@@ -13,14 +18,19 @@
    "grounds": "emphatic particle"
   },
   {
-   "lemma": "mahādevi",
-   "morph": "compound: mahā+modifier,devī+head; f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "bhadra+kālī",
+   "morph": "compound/name: bhadra+kālī (f.nom.sg)",
+   "grounds": "names the second goddess invoked"
   },
   {
-   "lemma": "sākṣādbrahmasvarūpiṇī",
-   "morph": "compound: sākṣāt+modifier,brahma+modifier,svarūpin+head; f.nom.sg",
-   "grounds": "predicate describing the goddess as having the very nature of Brahman"
+   "lemma": "karma+ādau",
+   "morph": "compound: karman+ādi (m.loc.sg)",
+   "grounds": "compound indicating the start of the rite"
+  },
+  {
+   "lemma": "karma+siddhaye",
+   "morph": "compound: karman+siddhi (f.dat.sg)",
+   "grounds": "compound stating the purpose of invocation"
   }
  ]
 }

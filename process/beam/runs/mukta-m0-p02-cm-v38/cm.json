@@ -3,34 +3,39 @@
  "verse": 38,
  "rows": [
   {
-   "lemma": "śivaśakti",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing the universe's nature"
+   "lemma": "asau",
+   "morph": "m.nom.sg",
+   "grounds": "demonstrative subject"
   },
   {
-   "lemma": "ātmakam",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "adjective indicating essential nature"
+   "lemma": "viharati",
+   "morph": "3.sg.act-pres √vihṛ",
+   "grounds": "main verb"
   },
   {
-   "lemma": "viśvam",
-   "morph": "n.acc.sg",
-   "grounds": "object to be seen"
+   "lemma": "vīro",
+   "morph": "m.nom.sg",
+   "grounds": "appositive to subject, sandhi form"
   },
   {
-   "lemma": "paśya",
-   "morph": "2.sg.act.imp √dṛś",
-   "grounds": "imperative instruction to perceive"
+   "lemma": "yāvat",
+   "morph": "(indecl.)",
+   "grounds": "temporal conjunction"
   },
   {
-   "lemma": "divyena",
-   "morph": "n.inst.sg",
-   "grounds": "instrumental adjective qualifying the eye"
+   "lemma": "candra",
+   "morph": "compound: candra+arka+tāraka",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "cakṣuṣā",
-   "morph": "n.inst.sg",
-   "grounds": "instrument of higher vision"
+   "lemma": "ārka",
+   "morph": "compound: candra+arka+tāraka",
+   "grounds": "member of compound"
+  },
+  {
+   "lemma": "tārakam",
+   "morph": "n.nom.sg",
+   "grounds": "final member of compound"
   }
  ]
 }

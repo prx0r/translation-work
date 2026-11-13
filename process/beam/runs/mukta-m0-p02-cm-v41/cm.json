@@ -3,29 +3,44 @@
  "verse": 41,
  "rows": [
   {
-   "lemma": "caturviṃśati",
-   "morph": "compound-member",
-   "grounds": "first member of compound specifying number of principles"
+   "lemma": "praṇamet",
+   "morph": "3.sg.act-opt √praṇam",
+   "grounds": "optative verb"
   },
   {
-   "lemma": "tatvena",
-   "morph": "n.inst.sg (compound)",
-   "grounds": "instrumental indicating the means of animation"
+   "lemma": "bhakti",
+   "morph": "compound: bhakti+saṃyukta",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "brahmāṇḍam",
-   "morph": "n.acc.sg",
-   "grounds": "object that is animated"
+   "lemma": "saṃyuktaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "cetayanti",
-   "morph": "3.pl.act.pres-causative √cit",
-   "grounds": "verb expressing enlivening or making conscious"
+   "lemma": "sa",
+   "morph": "m.nom.sg",
+   "grounds": "subject pronoun"
   },
   {
-   "lemma": "ca",
+   "lemma": "siddho",
+   "morph": "m.nom.sg",
+   "grounds": "predicate adjective, sandhi form"
+  },
+  {
+   "lemma": "nā",
    "morph": "(indecl.)",
-   "grounds": "conjunction linking to prior context"
+   "grounds": "negation, sandhi form of na"
+  },
+  {
+   "lemma": "tra",
+   "morph": "(indecl.)",
+   "grounds": "locative adverb, sandhi fragment of atra"
+  },
+  {
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "negated noun"
   }
  ]
 }

@@ -3,24 +3,39 @@
  "verse": 203,
  "rows": [
   {
-   "lemma": "tadanyācārayogena",
-   "morph": "compound: tad+modifier,anya+modifier,ācāra+coord,yoga+head; m.inst.sg",
-   "grounds": "instrumental of compound referring to the other mode's conduct and practice"
+   "lemma": "kathayāmi",
+   "morph": "1.sg.present-active (√kath)",
+   "grounds": "speaker announces instruction"
   },
   {
-   "lemma": "āśu",
+   "lemma": "tava",
+   "morph": "pron.gen.sg",
+   "grounds": "addressee of the teaching"
+  },
+  {
+   "lemma": "snehāt",
+   "morph": "m.abl.sg",
+   "grounds": "states the motive for revealing"
+  },
+  {
+   "lemma": "ataḥ",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating speed"
+   "grounds": "connects motive to result"
   },
   {
-   "lemma": "siddhiphalaṃ",
-   "morph": "compound: siddhi+modifier,phala+head; n.acc.sg",
-   "grounds": "object obtained; fruit of spiritual accomplishment"
+   "lemma": "siddhi+karaṃ",
+   "morph": "compound: siddhi+kara (n.acc.sg)",
+   "grounds": "compound describing the effect of the teaching"
   },
   {
-   "lemma": "labhet",
-   "morph": "3.sg.act.opt √labh",
-   "grounds": "optative expressing attainable result"
+   "lemma": "druta+siddhi+karaṃ",
+   "morph": "compound: druta+siddhi+kara (n.acc.sg)",
+   "grounds": "compound emphasizing rapid accomplishment"
+  },
+  {
+   "lemma": "param",
+   "morph": "n.acc.sg",
+   "grounds": "qualifies the teaching as highest"
   }
  ]
 }

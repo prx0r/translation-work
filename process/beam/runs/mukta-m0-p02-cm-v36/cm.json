@@ -3,34 +3,39 @@
  "verse": 36,
  "rows": [
   {
-   "lemma": "tvam",
-   "morph": "pron.nom.sg",
-   "grounds": "subject addressed as the goddess"
+   "lemma": "guru",
+   "morph": "compound: guru+antika",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "tu",
+   "lemma": "antike",
+   "morph": "n.loc.sg",
+   "grounds": "second member of compound, locative sense"
+  },
+  {
+   "lemma": "yadi",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "conditional particle"
   },
   {
-   "lemma": "devī",
-   "morph": "f.voc.sg",
-   "grounds": "vocative or nominative epithet"
+   "lemma": "vaset",
+   "morph": "3.sg.act-opt √vas",
+   "grounds": "optative verb"
   },
   {
-   "lemma": "viṣṇumāyā",
-   "morph": "f.nom.sg (compound)",
-   "grounds": "predicate identifying the goddess"
+   "lemma": "pañcāśad",
+   "morph": "compound: pañcāśad+varṣa",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "nārāyaṇa",
-   "morph": "m.voc.sg",
-   "grounds": "vocative address to Nārāyaṇa"
+   "lemma": "varṣam",
+   "morph": "n.acc.sg",
+   "grounds": "second member of compound, duration"
   },
   {
-   "lemma": "jaganmaye",
-   "morph": "m.voc.sg (compound)",
-   "grounds": "vocative epithet describing Nārāyaṇa as comprising the world"
+   "lemma": "uttame",
+   "morph": "n.loc.sg",
+   "grounds": "adjective qualifying place or state"
   }
  ]
 }

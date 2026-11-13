@@ -3,34 +3,49 @@
  "verse": 42,
  "rows": [
   {
-   "lemma": "dhṛtvā",
-   "morph": "absolutive √dhṛ",
-   "grounds": "absolutive expressing prior sustaining action"
+   "lemma": "vṛkṣa",
+   "morph": "compound: vṛkṣa+ālī",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "saṃsṛjyate",
-   "morph": "3.sg.pass.pres √sṛj",
-   "grounds": "passive verb expressing emission or creation"
+   "lemma": "ālī",
+   "morph": "f.nom.sg",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "viśvam",
-   "morph": "n.acc.sg",
-   "grounds": "object created in each cycle"
+   "lemma": "kalpa",
+   "morph": "compound: kalpa+vṛkṣa",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kalpe",
-   "morph": "m.loc.sg",
-   "grounds": "locative indicating cyclical occasion"
+   "lemma": "vṛkṣa",
+   "morph": "compound: kalpa+vṛkṣa+ālī",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "kalpe",
-   "morph": "m.loc.sg",
-   "grounds": "repeated locative emphasizing recurrence"
+   "lemma": "ālī",
+   "morph": "f.nom.sg",
+   "grounds": "final member of compound"
   },
   {
-   "lemma": "yathecchayā",
-   "morph": "f.inst.sg (compound)",
-   "grounds": "instrumental expressing voluntary manner"
+   "lemma": "latā",
+   "morph": "f.nom.sg",
+   "grounds": "subject noun"
+  },
+  {
+   "lemma": "kalpa",
+   "morph": "compound: kalpa+latā",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "latā",
+   "morph": "f.nom.sg",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "smṛtā",
+   "morph": "f.nom.sg",
+   "grounds": "past participle predicate"
   }
  ]
 }

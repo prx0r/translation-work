@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 211,
- "question": "What qualities and gifts are associated with this knowledge?",
+ "question": "What spatial extents are allowed for arranging the ritual area?",
  "premises": [
-  "She is endowed with a share of good fortune",
-  "She gives skill in the arts",
-  "Both qualities characterize the same knowledge"
+  "An extent of one hand is mentioned.",
+  "Extents of two or four hands are mentioned.",
+  "The extent applies on all sides."
  ],
- "inference": "This knowledge is endowed with good fortune and grants skill in the arts",
- "uncertainties": [],
- "plain_english": "She is endowed with good fortune and grants skill in the arts."
+ "inference": "The ritual area may extend one, two, or four hands on all sides.",
+ "uncertainties": [
+  "The exact object being measured is implied by ritual context."
+ ],
+ "plain_english": "One hand, or two hands, or four hands on all sides."
 }

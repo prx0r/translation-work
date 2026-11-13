@@ -3,34 +3,39 @@
  "verse": 30,
  "rows": [
   {
-   "lemma": "dāruṣu",
-   "morph": "n.loc.pl",
-   "grounds": "locative indicating latent presence of fire"
+   "lemma": "advaitaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "subject or predicate noun"
   },
   {
-   "lemma": "eva",
+   "lemma": "devatā",
+   "morph": "compound: devatā+aiśvarya",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "aiśvaryaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "nā",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "negation, sandhi form of na"
   },
   {
-   "lemma": "yathā",
+   "lemma": "dvaitaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "negated term"
+  },
+  {
+   "lemma": "guruṇā",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental companion"
+  },
+  {
+   "lemma": "saha",
    "morph": "(indecl.)",
-   "grounds": "comparative particle introducing simile"
-  },
-  {
-   "lemma": "vahniḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject of the simile"
-  },
-  {
-   "lemma": "mathanāt",
-   "morph": "n.abl.sg",
-   "grounds": "ablative indicating the occasion of manifestation"
-  },
-  {
-   "lemma": "saṃprakāśate",
-   "morph": "3.sg.mid.pres √kāś",
-   "grounds": "verb of manifestation"
+   "grounds": "postposition governing instrumental"
   }
  ]
 }

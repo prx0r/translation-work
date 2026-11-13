@@ -3,34 +3,54 @@
  "verse": 37,
  "rows": [
   {
-   "lemma": "evam",
+   "lemma": "iha",
    "morph": "(indecl.)",
-   "grounds": "manner adverb summarizing the preceding account"
+   "grounds": "locative adverb"
   },
   {
-   "lemma": "pravartaye",
-   "morph": "2.sg.mid.pres-causative √vṛt",
-   "grounds": "verb attributing agency to the goddess"
+   "lemma": "bhuktvā",
+   "morph": "(indecl.) √bhuj",
+   "grounds": "absolutive participle"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "varān",
+   "morph": "m.acc.pl",
+   "grounds": "adjective qualifying enjoyments"
   },
   {
-   "lemma": "devau",
-   "morph": "m.acc.du",
-   "grounds": "object pair set in motion"
+   "lemma": "bhogān",
+   "morph": "m.acc.pl",
+   "grounds": "object of bhuktvā"
   },
   {
-   "lemma": "hariharau",
-   "morph": "m.acc.du (compound)",
-   "grounds": "dual compound naming the two gods"
+   "lemma": "ante",
+   "morph": "m.loc.sg",
+   "grounds": "locative of time"
   },
   {
-   "lemma": "ubhau",
-   "morph": "m.acc.du",
-   "grounds": "adjective emphasizing the pair together"
+   "lemma": "devī",
+   "morph": "compound: devī+gaṇa",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "gaṇo",
+   "morph": "m.nom.sg",
+   "grounds": "second member of compound, sandhi form"
+  },
+  {
+   "lemma": "deva",
+   "morph": "compound: deva+gaṇa",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "gaṇo",
+   "morph": "m.nom.sg",
+   "grounds": "second member of compound, sandhi form"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.act-opt √bhū",
+   "grounds": "optative verb"
   }
  ]
 }

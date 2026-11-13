@@ -3,29 +3,39 @@
  "verse": 33,
  "rows": [
   {
-   "lemma": "māyayā",
-   "morph": "f.inst.sg",
-   "grounds": "instrumental indicating the means of swallowing or encompassing"
+   "lemma": "guru",
+   "morph": "compound: guru+patnī",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kavalīkṛtvā",
-   "morph": "absolutive (compound)",
-   "grounds": "absolutive expressing prior encompassing action"
+   "lemma": "patnī",
+   "morph": "f.nom.sg",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "śivaḥ",
+   "lemma": "maheśāni",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "guruḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject receiving the designation"
+   "grounds": "predicate subject"
   },
   {
-   "lemma": "iti",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "quotation marker"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "abhidhīyate",
-   "morph": "3.sg.pass.pres √dhā",
-   "grounds": "passive verb of designation"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "negated noun"
   }
  ]
 }

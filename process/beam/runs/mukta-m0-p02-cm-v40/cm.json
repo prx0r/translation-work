@@ -3,39 +3,49 @@
  "verse": 40,
  "rows": [
   {
-   "lemma": "saṃhartā",
-   "morph": "m.nom.sg",
-   "grounds": "agent noun describing Rudra's function"
+   "lemma": "yatrā",
+   "morph": "(indecl.)",
+   "grounds": "relative locative, sandhi form of yatra"
   },
   {
-   "lemma": "harate",
-   "morph": "3.sg.mid.pres √hṛ",
-   "grounds": "verb expressing withdrawal or removal"
+   "lemma": "āśāyāṃ",
+   "morph": "f.loc.sg",
+   "grounds": "locative noun"
   },
   {
-   "lemma": "rudraḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject performing withdrawal"
+   "lemma": "guroḥ",
+   "morph": "m.gen.sg",
+   "grounds": "genitive dependent"
   },
   {
-   "lemma": "sarve",
-   "morph": "m.nom.pl",
-   "grounds": "adjective qualifying the followers"
+   "lemma": "sthānaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "subject of implied location"
+  },
+  {
+   "lemma": "nityaṃ",
+   "morph": "(indecl.)",
+   "grounds": "temporal adverb"
+  },
+  {
+   "lemma": "prātaḥ",
+   "morph": "(indecl.)",
+   "grounds": "temporal adverb"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
    "lemma": "tat",
-   "morph": "pron.nom/acc.sg.n (used as genitive sense)",
-   "grounds": "pronoun indicating association with Rudra"
+   "morph": "compound: tat+mukha",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "anugāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "subject group associated with Rudra"
-  },
-  {
-   "lemma": "surāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "appositive identifying the followers"
+   "lemma": "mukhaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "second member of compound"
   }
  ]
 }

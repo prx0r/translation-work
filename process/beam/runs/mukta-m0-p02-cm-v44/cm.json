@@ -3,34 +3,34 @@
  "verse": 44,
  "rows": [
   {
-   "lemma": "nirjīvaḥ",
-   "morph": "m.nom.sg (compound)",
-   "grounds": "adjective describing the initial lifeless state"
+   "lemma": "pradakṣiṇī",
+   "morph": "compound: pradakṣiṇī+kṛta",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "jīva",
-   "morph": "compound-member",
-   "grounds": "first member of compound describing assumed form"
+   "lemma": "kṛtā",
+   "morph": "f.nom.sg",
+   "grounds": "second member of compound, predicate"
   },
   {
-   "lemma": "rūpeṇa",
-   "morph": "n.inst.sg (compound)",
-   "grounds": "instrumental expressing the mode assumed"
+   "lemma": "tena",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental agent"
   },
   {
-   "lemma": "pañcabhūta",
-   "morph": "compound-member",
-   "grounds": "first member of compound indicating elemental state"
+   "lemma": "sapta",
+   "morph": "compound: sapta+dvīpa",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "tvam",
-   "morph": "n.acc.sg (compound)",
-   "grounds": "second member of compound pañcabhūtatvam (state of five elements)"
+   "lemma": "dvīpā",
+   "morph": "compound: sapta+dvīpa+vasundharā",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "āgataḥ",
-   "morph": "m.nom.sg.past-active-participle √gam",
-   "grounds": "past participle indicating arrival at a state"
+   "lemma": "vasundharā",
+   "morph": "f.nom.sg",
+   "grounds": "final member of compound, object"
   }
  ]
 }

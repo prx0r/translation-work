@@ -2,101 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[kuṅkuma](kuṅkuma) [śyāmakaṃ](śyāmakam) [ca](ca) [eva](eva)  
-[priyaṅgu](priyaṅgu) [tṛṇa](tṛṇa) [dhānyakam](dhānyakam)
+[saffron](kuṅkuma) [śyāmaka-grain](śyāmakaṃ) [and](ca) [indeed](eva) [priyaṅgu](priyaṅgu) [grass-grain](stṛṇa+dhānyakam)
 
 ## mukta-m0-p122-v3027
-[pūrva](pūrva) [vat](vat) [vinyaset](vinyaset) [vatsa](vatsa)  
-[bīja](bīja) [mukhena](mukhena) [mantrataḥ](mantrataḥ)
+[as-before](pūrvavat) [one-should-place](vinyaset) [O-child](vatsa) [with-seed-initial](bīja+mukhyena) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p122-v3028
-[lakṣmīḥ](lakṣmīḥ) [ca](ca) [saha](saha) [devīḥ](devīḥ) [ca](ca)  
-[viṣṇu](viṣṇu) [krāntiḥ](krāntiḥ) [nṛpaḥ](nṛpaḥ) [tathā](tathā)
+[lakṣmī](lakṣmīḥ) [and](ca) [sahadevī](sahadevīḥ) [and](ca) [viṣṇukrāntī](viṣṇukrāntiḥ) [nṛpa](nṛpaḥ) [likewise](tathā)
 
 ## mukta-m0-p122-v3029
-[giri](giri) [karṇī](karṇī) [sitā](sitā) [ca](ca) [eva](eva)  
-[niśā](niśā) [gokṣīram](gokṣīram) [eva](eva) [ca](ca)
+[girikarṇī](girikarṇī) [white](sitā) [and](ca) [indeed](eva) [niśā](niśā) [cow-milk](go+kṣīram) [indeed](eva) [and](ca)
 
 ## mukta-m0-p122-v3030
-[sūrya](sūrya) [vartā](vartā) [megha](megha) [nādā](nādā)  
-[amṛta](amṛta) [ākṛṣṇā](ākṛṣṇā) [mallikā](mallikā)
+[sūryavartā](sūryavartā) [meghanādā](meghanādā) [amṛtā](amṛtā) [black-jasmine](kṛṣṇa+mallikā)
 
 ## mukta-m0-p122-v3031
-[vedaṃ](vedam) [ca](ca) [iti](iti) [pañca](pañca) [viṃśatiḥ](viṃśatiḥ)  
-[pūrva](pūrva) [vat](vat) [vinyaset](vinyaset) [budhaḥ](budhaḥ)
+[veda](vedaṃ) [and](ca) [thus](iti) [twenty-five](pañcaviṃśat) [as-before](pūrvavat) [one-should-place](vinyaset) [the-wise-one](budhaḥ)
 
 ## mukta-m0-p122-v3032
-[kāśmīraṃ](kāśmīram) [harakaṃ](harakam) [ca](ca) [eva](eva)  
-[mṛṇālaṃ](mṛṇālam) [vyādhiṃ](vyādhim) [eva](eva) [ca](ca)
+[kāśmīra](kāśmīraṃ) [haraka](harakaṃ) [and](ca) [indeed](eva) [lotus-stalk](mṛṇālaṃ) [vyādhi](vyādhim) [indeed](eva) [and](ca)
 
 ## mukta-m0-p122-v3033
-[sthūṇī](sthūṇī) [mṛdaṅgam](mṛdaṅgam) [mahiṣaṃ](mahiṣam) [varāhaṃ](varāham)  
-[gajaṃ](gajam) [eva](eva) [ca](ca)
+[sthūṇī](sthūṇīm) [mṛdaṅga](mṛdaṅga) [buffalo](mahiṣaṃ) [boar](varāhaṃ) [elephant](gajam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p122-v3034
-[paṅkaja](paṅkaja) [utpala](utpala) [kumudaṃ](kumudam) [nīla](nīla) [utpalam](utpalam)  
-[atha](atha) [api](api) [vā](vā)
+[lotus](paṅkaja) [blue-lotus](utpala) [white-lotus](kumudaṃ) [blue-lotus](nīla+utpalam) [or](atha) [also](api) [or](vā)
 
 ## mukta-m0-p122-v3035
-[mallikā](mallikā) [jāti](jāti) [vakulaṃ](vakulam) [aśokaṃ](aśokam)  
-[jāti](jāti) [ketakī](ketakī)
+[jasmine](mallikā) [jāti](jāti) [bakula](vakulaṃ) [aśoka](aśokaṃ) [nutmeg](jāti) [ketakī](ketakī)
 
 ## mukta-m0-p122-v3036
-[punnāgaṃ](punnāgam) [kuravaṃ](kuravam) [dīpaṃ](dīpam) [mūlakaṃ](mūlakam)  
-[karavīrakam](karavīrakam)
+[punnāga](punnāgaṃ) [kurava](kuravaṃ) [dīpa](dīpaṃ) [radish](mūlakaṃ) [oleander](karavīrakam)
 
 ## mukta-m0-p122-v3037
-[eteṣāṃ](eteṣām) [mūlaṃ](mūlam) [puṣpaṃ](puṣpam) [ca](ca)  
-[vinyaset](vinyaset) [pūrva](pūrva) [vat](vat) [guha](guha)
+[of-these](eteṣāṃ) [root](mūlaṃ) [flower](puṣpaṃ) [and](ca) [one-should-place](vinyaset) [as-before](pūrvavat) [O-Guha](guha)
 
 ## mukta-m0-p122-v3038
-[pṛthivī](pṛthivī) [kūrmaḥ](kūrmaḥ) [candraḥ](candraḥ) [ca](ca)  
-[madhya](madhya) [koṣṭhe](koṣṭhe) [tu](tu) [vinyaset](vinyaset)
+[earth](pṛthivī) [tortoise](kūrmaḥ) [and](ca) [moon](candraḥ) [and](ca) [in-middle-cell](madhya+koṣṭhe) [indeed](tu) [one-should-place](vinyaset)
 
 ## mukta-m0-p122-v3039
-[adhi](adhi) [devaṃ](devam) [pravakṣyāmi](pravakṣyāmi) [ratna](ratna) [garbheṣu](garbheṣu)  
-[vai](vai) [guha](guha)
+[presiding-deity](adhi+devaṃ) [I-shall-declare](pravakṣyāmi) [in-jewel-wombs](ratna+garbheṣu) [indeed](vai) [O-Guha](guha)
 
 ## mukta-m0-p122-v3040
-[indram](indram) [agniṃ](agnim) [yamaṃ](yamam) [nir-ṛtiṃ](nir-ṛtim)  
-[varuṇaṃ](varuṇam) [vāyum](vāyum) [eva](eva) [ca](ca)
+[Indra](indram) [Agni](agniṃ) [Yama](yamaṃ) [Nirṛti](nir-ṛtiṃ) [Varuṇa](varuṇaṃ) [Vāyu](vāyum) [indeed](eva) [and](ca)
 
 ## mukta-m0-p122-v3041
-[aṣṭau](aṣṭau) [ca](ca) [vasavaḥ](vasavaḥ) [ca](ca) [eva](eva)  
-[dvādaśa](dvādaśa) [ādityāḥ](ādityāḥ) [eva](eva) [ca](ca)
+[eight](aṣṭau) [and](ca) [Vasus](vasavaḥ) [and](ca) [indeed](eva) [twelve](dvādaśa) [Ādityas](ādityaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p122-v3042
-[sva](sva) [svena](svena) [eva](eva) [tu](tu) [mantreṇa](mantreṇa)  
-[bīja](bīja) [mukhena](mukhena) [vai](vai) [guha](guha)
+[with-each-own](svasvena) [indeed](eva) [indeed](tu) [with-mantra](mantreṇa) [with-seed-initial](bīja+mukhyena) [indeed](vai) [O-Guha](guha)
 
 ## mukta-m0-p122-v3043
-[rudra](rudra) [sūktaṃ](sūktam) [sūrya](sūrya) [sūktaṃ](sūktam)  
-[aṣṭa](aṣṭa) [vasu](vasu) [sūktakam](sūktakam)
+[Rudra-hymn](rudra+sūktaṃ) [Sūrya-hymn](sūrya+sūktaṃ) [eight-Vasu-hymn](aṣṭa+vasu+sūktakam)
 
 ## mukta-m0-p122-v3044
-[uttamaṃ](uttamam) [pūrva](pūrva) [vat](vat) [dhomaṃ](dhomam)  
-[puṇya](puṇya) [aha](aha) [adhyayanaṃ](adhyayanam) [tathā](tathā)
+[best](uttamaṃ) [as-before](pūrvavat) [oblation](homaṃ) [auspicious-day-recitation](puṇyāha+adhyayanaṃ) [likewise](tathā)
 
 ## mukta-m0-p122-v3045
-[yāvat](yāvat) [phela](phela) [madhyasthaṃ](madhyastham) [tāvat](tāvat)  
-[garbhaṃ](garbham) [ṣaṭ](ṣaṭ) [ānana](ānana)
+[as-far-as](yāvat) [situated-in-slab-middle](phelaka+madhya+sthaṃ) [so-far](tāvat) [deposit](garbhaṃ) [O-six-faced-one](ṣaḍ+ānana)
 
 ## mukta-m0-p122-v3046
-[mantra](mantra) [balāt](balāt) [tantra](tantra) [gaccheti](gaccheti)  
-[muhūrta](muhūrta) [balā](balā) [phelakā](phelakā)
+[by-mantra-power](mantra+balāt) [proceeding-by-ritual](tantra+gaccheti) [by-auspicious-time-power](muhūrta+balāḥ) [slabs](phelakāḥ)
 
 ## mukta-m0-p122-v3047
-[ācāryaṃ](ācāryam) [pūjanaṃ](pūjanam) [kṛtvā](kṛtvā)  
-[brāhmaṇānāṃ](brāhmaṇānām) [tu](tu) [bhojanam](bhojanam)
+[teacher](ācāryaṃ) [worship](pūjanaṃ) [having-done](kṛtvā) [of-brāhmaṇas](brāhmaṇānāṃ) [indeed](tu) [feeding](bhojanam)
 
 ## mukta-m0-p122-v3048
-[āyuḥ](āyuḥ) [ārogya](ārogya) [daṃ](dam) [ca](ca) [eva](eva)  
-[sarva](sarva) [vyādhi](vyādhi) [vivarjitam](vivarjitam)
+[life-giving](āyuḥ) [health-giving](ārogya+daṃ) [and](ca) [indeed](eva) [free-from-all-diseases](sarva+vyādhi+vivarjitam)
 
 ## mukta-m0-p122-v3049
-[na](na) [tatra](tatra) [deśe](deśe) [durbhikṣaṃ](durbhikṣam)  
-[na](na) [ca](ca) [mārī](mārī) [ca](ca) [vardhanam](vardhanam)
+[not](na) [there](tatra) [in-country](deśe) [famine](durbhikṣaṃ) [not](na) [and](ca) [pestilence](mārī) [and](ca) [increase](vardhanam)
 
 ## mukta-m0-p122-v3050
-[iṣṭakāḥ](iṣṭakāḥ) [vā](vā) [atha](atha) [vā](vā) [kuryāt](kuryāt)  
-[sudhāṃ](sudhām) [samyak](samyak) [pralepayet](pralepayet)
+[brick](iṣṭakā) [or](vā) [or](atha) [or](vā) [one-should-make](kuryāt) [plaster](sudhāṃ) [properly](samyak) [one-should-smear](pralepayet)

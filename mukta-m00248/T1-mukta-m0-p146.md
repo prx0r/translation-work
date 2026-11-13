@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p146-v3626
-[at-śiva-peak](śivakūṭe) [and+eight+principles](ca+aṣṭatattvaṃ) [indeed](hi) [your](tava) [by-affection+revealed](snehāt+prakāśitam)
+[in-śivakūṭa](śivakūṭe) [and](ca) [eight](aṣṭa) [+principles](tattvaṃ) [indeed](hi) [your](tava) [by-affection](snehāt) [+revealed](prakāśitam)
 
 ## mukta-m0-p146-v3627
-[ha-sa-group](hasalakṣaṃ) [should-place+in-first](nyaset+prathame) [hā-sā-group](hāsālākṣaṃ) [should-place+then](nyaset+tataḥ)
+[ha-sa-group](hasalakṣaṃ) [one-should-place](nyaset) [+first](prathame) [hā-sā-group](hāsālākṣaṃ) [one-should-place](nyaset) [+then](tataḥ)
 
 ## mukta-m0-p146-v3628
-[hu su lu kṣu](hu su lu kṣu) [should-place+in-turn](nyaset+pakṣāt) [hū-sū-lū-kṣū](hūsūlūkṣū) [should-place+then](nyaset+tataḥ)
+[hu](hu) [su](su) [lu](lu) [kṣu](kṣu) [one-should-place](nyaset) [+in-turn](pakṣāt) [hū-sū-lū-kṣū](hūsūlūkṣū) [one-should-place](nyaset) [+then](tataḥ)
 
 ## mukta-m0-p146-v3629
-[hḷ sḷ lḷ kṣḷ](hḷ sḷ lḷ kṣḷ) [again+should-place](punaḥ+nyaset) [hḹ sḹ lḹ kṣḹ](hḹ sḹ lḹ kṣḹ) [then](tataḥ) [should-place](nyaset)
+[hḷ](hḷ) [sḷ](sḷ) [lḷ](lḷ) [kṣḷ](kṣḷ) [again](punar) [+one-should-place](nyaset) [hḹ-sḹ-lḹ-kṣḹ](hḹ) [sḹ](sḹ) [lḹ](lḹ) [kṣḹ](kṣḹ) [then](tato) [one-should-place](nyaset)
 
 ## mukta-m0-p146-v3630
-[ho so lo kṣo](ho so lo kṣo) [should-place](nyaset) [after-that](tad+anu) [hau sau lau kṣau](hau sau lau kṣau) [again+should-place](punaḥ+nyaset)
+[ho](ho) [so](so) [lo](lo) [kṣo](kṣo) [one-should-place](nyaset) [thereupon](tadanu) [hau](hau) [sau](sau) [lau](lau) [kṣau](kṣau) [again](puna) [+one-should-place](nyaset)
 
 ## mukta-m0-p146-v3631
-[thus](evaṃ) [indeed](vai) [of-all+seed-syllables](sarva+bījānāṃ) [in-thirty-two+petals](dvātriṃśat+dalake) [should-place](nyaset)
+[thus](evaṃ) [indeed](vai) [of-all](sarva) [+seeds](bījānāṃ) [in-thirty-two](dvātriṃśat) [+petals](dalake) [one-should-place](nyaset)
 
 ## mukta-m0-p146-v3632
-[by-identity+state+yoga](samarasī+bhāva+yogena) [death+having-conquered](mṛtyuṃ+jitvā) [no](na) [doubt](saṃśayaḥ)
+[by-union](samarasī) [+state](bhāva) [+yoga](yogena) [death](mṛtyuṃ) [+having-conquered](jitvā) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p146-v3633
-[where](yatra) [there](tatra) [situated](sthitaḥ) [O-child](vatsa) [should-practice+śiva+with-reverence](abhyaset+śivam+ādarāt)
+[where](yatra) [there](tatra) [situated](sthito) [child](vatsa) [one-should-practice](abhyasec) [+śiva](chivam) [+with-reverence](ādarāt)
 
 ## mukta-m0-p146-v3634
-[pure](śuddhaḥ) [or+even](vā+api) [impure](aśuddhaḥ) [or](vā) [bathed](snātaḥ) [or+unbathed](vā+asnātaḥ) [indeed](eva) [or](vā)
+[pure](śuddho) [or](vā) [+even](api) [impure](aśuddho) [or](vā) [bathed](snāto) [or](vā) [+unbathed](asnāta) [indeed](eva) [or](vā)
 
 ## mukta-m0-p146-v3635
-[sitting](āsīne) [walking](gamane) [or+even](vā+api) [not-having-eaten](abhukte) [or+even](vā+api) [having-eaten](bhuktake)
+[sitting](āsīne) [walking](gamane) [or](vā) [+even](api) [unfed](abhukte) [or](vā) [+even](api) [fed](bhuktake)
 
 ## mukta-m0-p146-v3636
-[drying](śoṣyan) [dancing](nṛtyan) [playing](krīḍan) [indeed](hi) [sleeping+with+closed-eyes+open-eyes](svapan+sa+nimiṣa+unmiṣan)
+[drying](śoṣyan) [dancing](nṛtyan) [playing](krīḍan) [indeed](hi) [sleeping](svapan) [+with](sa) [+blinking](nimiṣa) [+unblinking](onmiṣan)
 
 ## mukta-m0-p146-v3637
-[in-eternal](śāśvate) [śiva+peak](śiva+kūṭaṃ) [indeed](hi) [should-contemplate+identity-wise+wise-one](cintayet+samarasī+budhaḥ)
+[in-eternal](śāśvate) [śiva](śiva) [+peak](kūṭaṃ) [indeed](hi) [one-should-contemplate](cintayet) [+unified](samarasī) [+wise-one](budhaḥ)
 
 ## mukta-m0-p146-v3638
-[restraint](yamaṃ) [observance](niyamaṃ) [and+posture](ca+āsanaṃ) [breath-control+ending](prāṇāyāma+anta) [*](*) [*](*) [*](*)
+[restraint](yamaṃ) [observance](niyamaṃ) [and](ca) [+posture](āsanaṃ) [breath-control](prāṇāyāmanta) [*](*) [*](*) [*](*)
 
 ## mukta-m0-p146-v3639
-[by-guru+grace](guru+prasādena) [obtains](labhate) [divine](divyaṃ) [yoga](yogaṃ) [O-six-faced-one](ṣaḍ+ānana)
+[by-guru](guru) [+grace](prasādena) [one-obtains](labhate) [divine](divyaṃ) [yoga](yogaṃ) [six](ṣaḍ) [+faced](ānana)
 
 ## mukta-m0-p146-v3640
-[from-guru+grace+obtains](guru+prasādāt+labhate) [sovereignty](rājyaṃ) [and+indeed](ca+eva) [O-six-faced-one](ṣaḍ+ānana)
+[from-guru](guru) [+grace](prasādāt) [+one-obtains](labhate) [kingdom](rājyaṃ) [and](ca) [+indeed](eva) [six](ṣaḍ) [+faced](ānana)
 
 ## mukta-m0-p146-v3641
-[mind+speed+state](manaḥ+javatvaṃ) [indeed](tu) [knowledge](jñānaṃ) [by-guru+grace](guru+prasādena) [is-obtained](labhyate)
+[mind](mano) [+speed](java) [+ness](tvaṃ) [and](tu) [knowledge](jñānaṃ) [by-guru](guru) [+grace](prasādena) [is-obtained](labhyate)
 
 ## mukta-m0-p146-v3642
-[attainment](prāptiḥ) [will](kā) [irresistible-will+lordship](prākāmyam+īśatvaṃ) [mastery](vaśitvaṃ) [and+eight+powers](ca+aṣṭa+siddhayaḥ)
+[attainment](prāptiḥ) [kā](kā) [will-power](prākāmyam) [+lordship](īśatvaṃ) [control](vaśitvaṃ) [and](ca) [+eight](aṣṭa) [+siddhis](siddhayaḥ)
 
 ## mukta-m0-p146-v3643
-[dharma+wealth](dharmam+arthaṃ) [and](ca) [desire](kāmaṃ) [and](ca) [liberation](mokṣaṃ) [and+indeed](ca+eva) [O-six-faced-one](ṣaḍ+ānana)
+[dharma](dharmam) [+wealth](artham) [and](ca) [desire](kāmaṃ) [and](ca) [liberation](mokṣaṃ) [and](ca) [+indeed](eva) [six](ṣaḍ) [+faced](ānana)
 
 ## mukta-m0-p146-v3644
-[godhood](devatvaṃ) [brahma+viṣṇu-hood](brahma+viṣṇutvaṃ) [rudra-hood](rudratvaṃ) [and](ca) [O-six-faced-one](ṣaḍ+ānana)
+[godhood](devatvaṃ) [brahma](brahma) [+viṣṇu-hood](viṣṇutvaṃ) [rudra-hood](rudratvaṃ) [and](ca) [six](ṣaḍ) [+faced](ānana)
 
 ## mukta-m0-p146-v3645
-[guru+mother](guruḥ+mātā) [father](pitā) [wife](bhāryā) [guru](guruḥ) [son](putraḥ) [father](pitā) [friend](sakhā)
+[guru](guruḥ) [+mother](mātā) [father](pitā) [wife](bhāryā) [guru](guruḥ) [son](putraḥ) [father](pitā) [friend](sakhā)
 
 ## mukta-m0-p146-v3646
-[*](*) [*](*) [*](*) [jādhanabhūmi](jādhanabhūmi) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [or-even](mathāpi) [or](vā)
+[*](*) [*](*) [*](*) [jā](jā) [+wealth-land](dhanabhūmi) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [*](*) [or-even](mathāpi) [or](vā)
 
 ## mukta-m0-p146-v3647
-[through-negligence+śiva+transgression](pramādāt+śiva+lopam) [may-be](syāt+guru+lopam) [not](na) [should-cause](kārayet)
+[through-negligence](pramādāt) [+śiva](chiva) [+transgression](lopaṃ) [may-be](syāt) [+guru](guru) [+transgression](lopaṃ) [not](na) [one-should-cause](kārayet)
 
 ## mukta-m0-p146-v3648
-[in-śiva+transgression](śiva+lope) [expiation](niṣkṛtiḥ) [may-be+by-guru+transgression](syāt+guru+lopena) [expiation](niṣkṛtiḥ)
+[in-śiva](śiva) [+transgression](lope) [atonement](niṣkṛtiḥ) [may-be](syāt) [+by-guru](guru) [+transgression](lopena) [atonement](niṣkṛtiḥ)
 
 ## mukta-m0-p146-v3649
-[father+killer](pitṛ+hā) [mother+killer](mātṛ+hā) [and+indeed](ca+eva) [embryo+killer](brūṇa+hā) [mother+killer+even](mātṛ+hā+api) [and](ca)
+[father](pitṛ) [+slayer](hā) [mother](mātṛ) [+slayer](hā) [and](ca) [+indeed](eva) [embryo](brūṇa) [+slayer](hā) [mother](mātṛ) [+slayer](hā) [+even](api) [and](ca)
 
 ## mukta-m0-p146-v3650
-[guru+transgressor](guru+lopī) [ingrate+and](kṛta+ghnaḥ+ca) [expiation+not](prāyaścittam+na) [exists](vidyate)
+[guru](guru) [+transgressor](lopī) [ingrate](kṛta) [+ghna](ghnaḥ) [+and](ca) [expiation](prāyaścittan) [+not](na) [exists](vidyate)
