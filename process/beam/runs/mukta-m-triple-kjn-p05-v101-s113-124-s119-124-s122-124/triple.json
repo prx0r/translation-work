@@ -6,46 +6,46 @@
    "rows": [
     {
      "surface": "rasanā+tālu+mūle",
-     "gloss": "root-of-tongue-and-palate",
-     "grounds": "compound of rasanā tongue, tālu palate, mūla root in locative",
-     "morph": "compound.loc.sg"
+     "gloss": "at-root-of-tongue-and-palate",
+     "grounds": "compound locative phrase",
+     "morph": "compound"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
      "grounds": "absolutive of kṛ",
-     "morph": "(indecl.)"
+     "morph": "absolutive"
     },
     {
      "surface": "vāyuṃ",
      "gloss": "air",
-     "grounds": "accusative of vāyu",
+     "grounds": "accusative object",
      "morph": "m.acc.sg"
     },
     {
      "surface": "pibec",
      "gloss": "should-drink",
      "grounds": "optative of pā",
-     "morph": "3.sg.opt.act"
+     "morph": "3.sg.opt"
     },
     {
      "surface": "chanaiḥ",
      "gloss": "slowly",
-     "grounds": "instrumental plural of chana",
+     "grounds": "instrumental adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How should breath be drawn at the root of tongue and palate to destroy death?",
+   "question": "How should the practitioner place and draw in air at the root of tongue and palate?",
    "premises": [
-    "breath is drawn slowly",
-    "breath is drawn at tongue-palate root",
-    "practice destroys old age and death"
+    "air is drawn slowly",
+    "placement is at tongue-palate root",
+    "action is prescribed as drinking"
    ],
-   "inference": "slow breath intake at the tongue-palate root is the prescribed technique for overcoming death",
+   "inference": "The verse prescribes a slow inward drawing of air after placing it at the tongue-palate root.",
    "uncertainties": [
-    "exact physiological location remains interpretive"
+    "exact physiological mapping is not specified"
    ],
-   "plain_english": "Having placed the breath at the root of the tongue and palate, one should drink it in slowly."
+   "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it in slowly."
   },
   {
    "verse": 123,
@@ -53,37 +53,37 @@
     {
      "surface": "abdam+ekaṃ",
      "gloss": "for-one-year",
-     "grounds": "compound of abda year and eka one in accusative",
-     "morph": "m.acc.sg"
+     "grounds": "accusative duration",
+     "morph": "compound"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "yadā when plus abhyasta practiced",
-     "morph": "(indecl.)"
+     "grounds": "temporal clause",
+     "morph": "compound"
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "compound of jarā old age and mṛtyu death in nominative",
-     "morph": "m.nom.sg"
+     "grounds": "compound subject",
+     "morph": "compound"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present of naś",
-     "morph": "3.sg.act.pres"
+     "grounds": "present of vināś",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "What happens to old age and death after one year of this breath practice?",
+   "question": "What happens to old age and death when this practice is sustained for one year?",
    "premises": [
     "practice continues for one year",
-    "old age and death are named together",
-    "they are destroyed by practice"
+    "old age and death are named",
+    "destruction is stated"
    ],
-   "inference": "sustained practice for one year destroys old age and death",
+   "inference": "Sustained practice for one year destroys old age and death.",
    "uncertainties": [
-    "whether one year is literal or symbolic"
+    "scope of destruction is not elaborated"
    ],
    "plain_english": "When practiced for one year, old age and death are destroyed."
   },
@@ -93,7 +93,7 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "nominative of viṣa",
+     "grounds": "nominative subject",
      "morph": "n.nom.sg"
     },
     {
@@ -106,42 +106,42 @@
      "surface": "kramate",
      "gloss": "enters",
      "grounds": "present of kram",
-     "morph": "3.sg.mid.pres"
+     "morph": "3.sg.act-pres"
     },
     {
      "surface": "dehe",
      "gloss": "body",
-     "grounds": "locative of deha",
+     "grounds": "locative",
      "morph": "m.loc.sg"
     },
     {
      "surface": "daṃśito",
      "gloss": "even-bitten",
-     "grounds": "past participle of daṃś",
-     "morph": "m.nom.sg"
+     "grounds": "participle",
+     "morph": "participle"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "indeclinable particle",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "compound of mahā great and uraga serpent in instrumental plural",
-     "morph": "m.instr.pl"
+     "grounds": "instrumental agent",
+     "morph": "compound"
     }
    ],
-   "question": "Does poison enter the body of one bitten by great serpents?",
+   "question": "Does poison enter the body even when one is bitten by great serpents?",
    "premises": [
-    "poison does not enter the body",
-    "even one bitten by great serpents",
-    "the claim concerns bodily entry of poison"
+    "poison does not enter body",
+    "biting by great serpents is included",
+    "negation is explicit"
    ],
-   "inference": "poison does not enter the body even when one is bitten by great serpents",
+   "inference": "The verse claims poison does not enter the body, even if bitten by great serpents.",
    "uncertainties": [
-    "whether this is literal immunity or yogic protection"
+    "whether this is literal or yogic protection is not specified"
    ],
    "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
   }
