@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun referring to the person described in the preceding verses",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "sarvārthasiddhiḥ",
+     "gloss": "all-aim-accomplishment",
+     "grounds": "compound denoting fulfillment of every purpose or desire",
+     "morph": "f.nom.sg, compound sarva+artha+siddhi"
+    },
+    {
+     "surface": "syādyadyanmanasi",
+     "gloss": "may-be-if-whatever-in-mind",
+     "grounds": "fused form containing syāt (optative of as), yadi (if), yat (whatever), and manasi (in-mind); internal sandhi preserved in one token",
+     "morph": "3.sg.act-opt√as+yadi+pron.n.nom.sg+n.loc.sg"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "exists",
+     "grounds": "verb indicating what abides or arises in the mind",
+     "morph": "3.sg.mid-pres√vṛt"
+    }
+   ],
+   "question": "What extent of desired accomplishment is assured for that qualified person?",
+   "premises": [
+    "That person is the subject of the preceding auspicious results.",
+    "Whatever desire exists in that person's mind is taken as the condition.",
+    "Accomplishment of all aims is stated as possible for that person."
+   ],
+   "inference": "Therefore, that person may attain fulfillment of every aim present in the mind.",
+   "uncertainties": [
+    "The fused token syādyadyanmanasi is analyzed as syāt+yadi+yat+manasi, but the exact sandhi resolution of yat/manasi is compacted in the transmitted form."
+   ],
+   "plain_english": "For him there may be accomplishment of all aims, whatever exists in his mind."
+  }
+ ]
+}
