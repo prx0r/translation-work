@@ -1,14 +1,16 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "Which successive vessel-types are named first as boy-form and second as madman-form?",
+ "question": "What forms are listed as first and second in this conduct classification?",
  "premises": [
-  "first vessel is boy-form",
-  "second vessel is madman-form"
+  "First is stated",
+  "Boy form is named",
+  "Second is stated",
+  "Madman form is named"
  ],
- "inference": "the enumeration begins with boy-form then madman-form",
+ "inference": "The verse lists boy form first and madman form second.",
  "uncertainties": [
-  "exact grammatical gender of unmattakākṛtim"
+  "Exact classification is unclear"
  ],
- "plain_english": "First is in boy-form; second is in madman-form."
+ "plain_english": "First is boy form, second is madman form."
 }

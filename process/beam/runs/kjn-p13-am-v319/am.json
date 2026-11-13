@@ -3,13 +3,15 @@
  "verse": 319,
  "question": "What may be done if the proper vessel is not obtained?",
  "premises": [
-  "this vessel is not obtained",
-  "one may drink liquor",
-  "in another vessel"
+  "This is stated",
+  "Vessel non-obtainment is named",
+  "Another vessel is named",
+  "Drinking is permitted",
+  "Liquor is named"
  ],
- "inference": "If the proper vessel is unavailable, liquor may be drunk from another vessel.",
+ "inference": "The verse permits drinking liquor from another vessel if the proper one is unavailable.",
  "uncertainties": [
-  "ritual permission is context-dependent"
+  "Exact permission scope is unclear"
  ],
  "plain_english": "If this vessel is not obtained, one may drink liquor from another vessel."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 306,
- "question": "What specific characteristic of vessels does the speaker now wish to hear?",
+ "question": "What characteristic of vessels' conduct does the speaker now wish to hear?",
  "premises": [
-  "The speaker now wishes to hear.",
-  "The topic concerns vessels.",
-  "The desired knowledge is their characteristic related to conduct."
+  "Now is stated",
+  "Hearing is desired",
+  "Vessels conduct characteristic is named"
  ],
- "inference": "The speaker requests instruction on the conduct-related characteristics of vessels.",
- "uncertainties": [],
- "plain_english": "Now I wish to hear the characteristic of conduct pertaining to the vessels."
+ "inference": "The verse requests the characteristic of vessels' conduct.",
+ "uncertainties": [
+  "Compound segmentation is interpretive"
+ ],
+ "plain_english": "Now I wish to hear the characteristic of vessels' conduct."
 }

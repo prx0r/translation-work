@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 305,
- "question": "What further inquiry about eatables is addressed to Bhairava?",
+ "question": "What does the speaker ask Bhairava about things that have arisen among eatables?",
  "premises": [
-  "The speaker addresses Bhairava.",
-  "The speaker asks again.",
-  "The question concerns what has arisen regarding eatables."
+  "Eatables are mentioned",
+  "Something has arisen",
+  "The speaker asks Bhairava"
  ],
- "inference": "A renewed question is posed to Bhairava about matters arising concerning eatables.",
- "uncertainties": [],
- "plain_english": "O Bhairava, I ask again about what has arisen concerning eatables."
+ "inference": "The verse poses a question about arisen eatables.",
+ "uncertainties": [
+  "Exact referent is unclear"
+ ],
+ "plain_english": "Again I ask Bhairava about what has arisen among eatables."
 }

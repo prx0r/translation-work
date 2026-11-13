@@ -1,13 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 304,
- "question": "Which chapter concludes the section that emerged from Candradvīpa?",
+ "question": "Which chapter emerges in the context of the moon island?",
  "premises": [
-  "The section is identified as emerged from Candradvīpa.",
-  "The chapter number is the eleventh.",
-  "The unit is called a paṭala."
+  "Moon island context is named",
+  "Eleventh is stated",
+  "Chapter is named"
  ],
- "inference": "This marks the end of the eleventh chapter in the material emerged from Candradvīpa.",
- "uncertainties": [],
- "plain_english": "In that which emerged from Candradvīpa, this is the eleventh chapter."
+ "inference": "The verse identifies the eleventh chapter in that context.",
+ "uncertainties": [
+  "Case sense is interpretive"
+ ],
+ "plain_english": "The eleventh chapter emerges in the moon-island context."
 }

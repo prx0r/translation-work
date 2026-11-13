@@ -7,39 +7,39 @@
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "cardinal numeral in fused surface form",
-     "morph": "numeral.indecl."
+     "grounds": "numeral aṣṭan in plural form",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable conjunction",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "siddhi-attainment-root-kaula",
-     "grounds": "fused compound accusative form; internal sandhi before mūla",
-     "morph": "compound.acc.sg.m"
+     "gloss": "siddhi-attainment-root-Kaula",
+     "grounds": "compound naming siddhi attainment rooted in Kaula",
+     "morph": "acc.sg.n compound"
     },
     {
      "surface": "varānane",
-     "gloss": "fair-faced-one",
-     "grounds": "vocative address to the goddess",
+     "gloss": "O-fair-faced-one",
+     "grounds": "vocative address to fair-faced goddess",
      "morph": "voc.sg.f"
     }
    ],
-   "question": "What is declared to be the root Kaula connected with eight siddhi attainments?",
+   "question": "Which eightfold siddhi attainment rooted in Kaula is addressed to the fair-faced goddess?",
    "premises": [
-    "Eight siddhi attainments are named.",
-    "Root Kaula is linked to them.",
-    "The goddess is directly addressed."
+    "Eight siddhis are named.",
+    "Kaula root underlies attainment.",
+    "Address is to fair-faced goddess."
    ],
-   "inference": "The verse identifies root Kaula with eight siddhi attainments.",
+   "inference": "The verse names eight siddhis as Kaula-rooted attainment.",
    "uncertainties": [
-    "The exact syntactic relation of ca remains unclear."
+    "Compound token has unresolved internal syntactic role."
    ],
-   "plain_english": "Eight, and the root Kaula of siddhi-attainment, O fair-faced one."
+   "plain_english": "Eight, and the siddhi-attainment rooted in Kaula, O fair-faced one."
   }
  ]
 }

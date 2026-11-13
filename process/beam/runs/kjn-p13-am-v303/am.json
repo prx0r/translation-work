@@ -1,12 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 303,
- "question": "How is the teaching on beautiful nondual conduct characterized in its conclusion?",
+ "question": "What has been declared as the determination of knowledge regarding nondual conduct?",
  "premises": [
-  "The beautiful nondual conduct has been declared.",
-  "This declaration is characterized as a determination of knowledge."
+  "Nondual conduct is named",
+  "It is declared",
+  "Knowledge determination is named"
  ],
- "inference": "The exposition of beautiful nondual conduct constitutes a definitive teaching of knowledge.",
- "uncertainties": [],
- "plain_english": "The beautiful nondual conduct has been declared as the determination of knowledge."
+ "inference": "The verse declares nondual conduct as knowledge determination.",
+ "uncertainties": [
+  "Compound segmentation is interpretive"
+ ],
+ "plain_english": "The nondual conduct has been declared as the determination of knowledge."
 }

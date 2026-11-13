@@ -1,14 +1,16 @@
 {
  "song": "kjn-p13",
  "verse": 308,
- "question": "Which fifth and sixth vessel-types are named as independence and hero-lord?",
+ "question": "Which numbered forms are associated with independence and hero-lord?",
  "premises": [
-  "fifth is independence",
-  "sixth is hero-lord"
+  "Independence is named",
+  "Fifth is stated",
+  "Goddess is addressed",
+  "Sixth and hero-lord are named"
  ],
- "inference": "the list continues with independence then hero-lord",
+ "inference": "The verse associates fifth with independence and sixth with hero-lord.",
  "uncertainties": [
-  "case of pañcamaṃ and ṣaṣṭhañca"
+  "Exact mapping is interpretive"
  ],
- "plain_english": "Fifth is independence; sixth is hero-lord, O goddess."
+ "plain_english": "Independence is fifth, O goddess, and sixth is hero-lord."
 }
