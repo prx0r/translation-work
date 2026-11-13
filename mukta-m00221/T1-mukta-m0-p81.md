@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[so-long](tāvaj) [having-known](jñātvā) [chariot-dwellers](rathasthānāḥ) [powers](śaktyo) [near-enemy](ripumantike)
+[then](tāvaj) [having-known](jñātvā) [chariot+standing](ratha+sthānāḥ) [śakti-goddesses](śaktyo) [enemy+near](ripu+mantike)
 
 ## mukta-m0-p81-v2002
-[so-long](tāvanmatvā) [power-troop](śaktigaṇaṃ) [hard-to-bear](dusahaṃ) [demon-chief](daityaśekharaḥ)
+[then](tāvan) [having-considered](matvā) [śakti+host](śakti+gaṇaṃ) [difficult+to-bear](du+sahaṃ) [demon+chief](daitya+śekharaḥ)
 
 ## mukta-m0-p81-v2003
-[there](tatra) [having-seen](dṛṣṭvā) [dead](mrṭān) [sons](putrān) [grief-stricken-mind](śokasaṃvignamānasaḥ)
+[there](tatra) [having-seen](dṛṣṭvā) [dead](mrṭān) [sons](putrān) [grief+agitated+mind](śoka+saṃvigna+mānasaḥ)
 
 ## mukta-m0-p81-v2004
-[blazing](prajvalan) [power-army](śaktisenāṃ) [that](tāṃ) [destroyed](vidhamaccharavarṣaṇaiḥ) [arrow-showers](śaravarṣaṇaiḥ)
+[blazing](prajvalan) [śakti+army](śakti+senāṃ) [that](tāṃ) [destroying](vidhamat) [arrow+showers](śara+varṣaṇaiḥ)
 
 ## mukta-m0-p81-v2005
-[minister](mantriṇī) [arrow-storms](sāyakā'sārairdhanurjīmūtani'sṛtaiḥ) [bow-clouds](dhanurjīmūtani'sṛtaiḥ)
+[minister-goddess](mantriṇī) [arrow+streams](sāyakā'sāraiḥ) [bow+cloud+issued](dhanur+jīmūtani'sṛtaiḥ)
 
 ## mukta-m0-p81-v2006
-[sharp-arrow-streams](tīkṣṇasāyakadhārābhirviśukro'tyantavikṣataḥ) [very-wounded](atyantavikṣataḥ)
+[sharp+arrow+streams](tīkṣṇa+sāyakadhārābhiḥ) [Viśukra](viśukro) [extremely+wounded](atyanta+vikṣataḥ)
 
 ## mukta-m0-p81-v2007
-[mountain](nīlādrirvṛṣṭidhārābhirgairikārasavatkṣṇam) [rain-streams](vṛṣṭidhārābhir) [like-red-ochre](gairikārasavatkṣṇam)
+[blue+mountain](nīlādriḥ) [rain+streams](vṛṣṭidhārābhiḥ) [red-chalk+juice+like](gairikā+rasa+vat) [for-a-moment](kṣṇam)
 
 ## mukta-m0-p81-v2008
-[various-weapons](vicitraśastraśalabhairācchādayata) [butterflies](śalabhairācchādayata) [minister](mantriṇīm)
+[variegated+weapon+moths](vicitra+śastra+śalabhaiḥ) [covered](ācchādayata) [minister-goddess](mantriṇīm)
 
 ## mukta-m0-p81-v2009
-[tamala-blossom](tamālamañjarīvā'timakarandasubṛṃhitā) [very-honey](atimakarandasubṛṃhitā)
+[her](tam) [mango+blossom+like](āla+mañjarī+vā) [excessive+nectar+swollen](ati+makaranda+subṛṃhitā)
 
 ## mukta-m0-p81-v2010
-[ear-full-arrow](ākārṇapūrṇabhallena) [bowstring](dhanurjyāmācchinaddrutam) [quickly](drutam)
+[ear+filled+arrow](ākārṇapūrṇa+bhallena) [bow+string](dhanur+jyām) [cut-off](ācchinat) [quickly](drutam)
 
 ## mukta-m0-p81-v2011
-[then](tāvattikṣṇapṛṣatkena) [sharp-drop](tikṣṇapṛṣatkena) [fist-place](muṣṭideśe) [struck](jaghāna) [him](tam)
+[then](tāvat) [sharp+barbed-arrow](tīkṣṇa+pṛṣatkena) [fist+place](muṣṭi+deśe) [struck](jaghāna) [him](tam)
 
 ## mukta-m0-p81-v2012
-[fallen](patitaṃ) [bow](dhanurādātuṃ) [to-take](ādātuṃ) [as](yāvat) [bowed](namro) [great-demon](mahāsuraḥ)
+[fallen](patitaṃ) [bow](dhanur) [to-take](ādātuṃ) [while](yāvat) [bent-down](namro) [great+demon](mahā+suraḥ)
 
 ## mukta-m0-p81-v2013
-[he](sa) [then](tāvadiṣuṇā) [arrow](iṣuṇā) [split-head](bhinnamūrdhā) [deep-faint](gāḍhasumūrcchayā)
+[he](sa) [then](tāvat) [by-arrow](iṣuṇā) [split+head](bhinna+mūrdhā) [deep+fainting](gāḍha+sumūrcchayā)
 
 ## mukta-m0-p81-v2014
-[then](atha) [moment](kṣaṇena) [by-minister](mantriṇyā) [destroyed](nāśitaṃ) [demon-vehicle](daityavāhanam)
+[then](atha) [in-a-moment](kṣaṇena) [by-minister-goddess](mantriṇyā) [destroyed](nāśitaṃ) [demon+vehicle](daitya+vāhanam)
 
 ## mukta-m0-p81-v2015
-[then](tāvanmūrcchāvinirmukto) [faint-free](mūrcchāvinirmukto) [saw](dadarśā'havasādhanam) [battle-means](havasādhanam)
+[then](tāvat) [fainting+released](mūrcchā+vinirmukto) [saw](dadarśa) [battle+equipment](ā'hava+sādhanam)
 
 ## mukta-m0-p81-v2016
-[broken](śīrṇa) [chariot-wheel](rathāṅgamādāya) [taking](ādāya) [to-kill](nihantumupasaṃyayau) [approached](upasaṃyayau)
+[broken](śīrṇa) [chariot+part](ratha+āṅgam) [having-taken](ādāya) [to-kill](nihantum) [approached](upasaṃyayau)
 
 ## mukta-m0-p81-v2017
-[by-arrow](śareṇā'bhihatāddhastādrathaṅgaṃ) [struck](abhihatād) [hand](hastād) [chariot-wheel](rathaṅgaṃ) [fell](prāpatat) [earth](kṣitau)
+[by-arrow](śareṇa) [struck+from-hand](abhihata+addhastāt) [chariot+wheel](ratha+ṅgaṃ) [fell](prāpatat) [on-ground](kṣitau)
 
 ## mukta-m0-p81-v2018
-[minister-hand](mantriṇīhastagaṃ) [cāpraṃ](cāpraṃ) [to-break](bhaṅktuṃ) [as](yāvat) [cut](samācchinat)
+[minister-goddess+hand+held](mantriṇī+hasta+gaṃ) [bow](cāpraṃ) [to-break](bhaṅktuṃ) [while](yāvat) [seized](samācchinat)
 
 ## mukta-m0-p81-v2019
-[having-seen](dṛṣṭvā) [viśukra](viśukraṃ) [slain](nihataṃ) [fled](vidrutā) [demon-army](daityavāhinī)
+[having-seen](dṛṣṭvā) [Viśukra](viśukraṃ) [slain](nihataṃ) [fled](vidrutā) [demon+army](daitya+vāhinī)
 
 ## mukta-m0-p81-v2020
-[victory-cry](jayaśabdaṃ) [power-troops](śaktigaṇāścakrurdevamukhā) [gods-mouths](devamukhā) [also](api)
+[victory+cry](jaya+śabdaṃ) [śakti+hosts](śakti+gaṇāḥ) [made](cakruḥ) [god+faced](deva+mukhā) [also](api)
 
 ## mukta-m0-p81-v2021
-[viśukra-slaying-description](viśukravadhavarṇanaṃ) [named](nāma) [seventy-fourth](catuḥsaptatitamo'dhyāyaḥ) [chapter](adhyāyaḥ)
+[Viśukra+slaying+description](viśukra+vadha+varṇanaṃ) [name](nāma) [seventy-fourth](catuḥ+saptatitamaḥ) [chapter](adhyāyaḥ)
 
 ## mukta-m0-p81-v2022
-[then](tadā) [demon-power-camp](daityaśakticamborabhavadbhairavo) [became](abhavad) [fierce](bhairavo) [battle](raṇaḥ)
+[then](tadā) [demon+śakti+armies](daitya+śakti+cambor) [arose](abhavat) [terrible](bhairavo) [battle](raṇaḥ)
 
 ## mukta-m0-p81-v2023
-[baṭukas](baṭukānāṃ) [trident-etc](triśulādyardetyā) [again](bhūyo'bhivikṣatāḥ) [wounded](abhivikṣatāḥ)
+[of-Baṭukas](baṭukānāṃ) [trident+etc.](triśula+ādya) [by-demons](ardetyā) [again](bhūyaḥ) [greatly+wounded](abhi+vikṣatāḥ)
 
 ## mukta-m0-p81-v2024
-[having-seen](dṛṣṭvā) [demon-army](daityacamūṃ) [by-power-troops](śaktigaṇaiḥ) [mostly](prāyo) [destroyed](vināśitām)
+[having-seen](dṛṣtvā) [demon+army](daitya+camūṃ) [by-śakti+hosts](śakti+gaṇaiḥ) [mostly](prāyo) [destroyed](vināśitām)
 
 ## mukta-m0-p81-v2025
-[viśaṅga-sons](viṣaṅgaputrāḥ) [upraised](proddaṇḍavikramā) [valor](vīryavattarā) [more-valiant](vīryavattarā)
+[Viṣaṅga+sons](viṣaṅga+putrāḥ) [fierce+valor](proddaṇḍa+vikramā) [very+heroic](vīrya+vattarā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[bhaṇḍa+putrān](bhaṇḍaputrān) [hatān](hatān) [dṛṣṭvā](dṛṣṭvā) [hā](hā) [hā](hā) [iti](iti) [uccaiḥ+vicukruśuḥ](uccairvicukruśuḥ)
+[bhaṇḍa-putrān](bhaṇḍaputrān) [slain](hatān) [having-seen](dṛṣṭvā) [alas-alas](hā) [thus](iti) [loudly](uccair) [they-cried-out](vicukruśuḥ)
 
 ## mukta-m0-p78-v1927
-[putra+nāśam](putranāśaṃ) [niśamya](niśamyā) [atha](tha) [bhaṇḍa+daityaḥ](bhaṇḍadaityo) [ati+duḥkhitaḥ](atiduḥkhitaḥ)
+[son-destruction](putranāśaṃ) [having-heard](niśamya) [then](atha) [bhaṇḍa-daitya](bhaṇḍadaityaḥ) [very-grieved](atiduḥkhitaḥ)
 
 ## mukta-m0-p78-v1928
-[aho](aho) [me](me) [vipulaḥ](vipulo) [mohaḥ](mohaḥ) [smṛti+bhraṃśaḥ](smṛtibhraṃśaḥ) [samudgataḥ](samudgataḥ)
+[alas](aho) [my](me) [great](vipulaḥ) [delusion](mohaḥ) [memory-loss](smṛtibhraṃśaḥ) [has-arisen](samudgataḥ)
 
 ## mukta-m0-p78-v1929
-[yathā](yathā) [prārthitam](prārthitaṃ) [me](me) [tat](tattathaiva) [tathā](tathā) [eva](eva) [kṛtam](kṛtaṃ) [tathā](tathā)
+[as](yathā) [prayed](prārthitaṃ) [by-me](me) [that](tat) [just-so](tathaiva) [done](kṛtaṃ) [thus](tathā)
 
 ## mukta-m0-p78-v1930
-[yāntu](yāntu) [pañcatvam](pañcatvam) [atha](atha) [vai](vai) [tayā](tayā) [devyā](devyā) [raṇe](raṇe) [hatāḥ](hatāḥ)
+[let-them-go](yāntu) [to-death](pañcatvam) [now](atha) [indeed](vai) [by-that](tayā) [goddess](devyā) [in-battle](raṇe) [slain](hatāḥ)
 
 ## mukta-m0-p78-v1931
-[iti](iti) [me](me) [prāk+vyavasitam](prāgvyavasitaṃ) [prārthitā](prārthitā) [ca](ca) [parā+ambikā](parāmbikā)
+[thus](iti) [by-me](me) [previously-resolved](prāgvyavasitaṃ) [and-prayed](prārthitā) [and](ca) [supreme-mother](parāmbikā)
 
 ## mukta-m0-p78-v1932
-[cakre](cakre) [tatra](tatra) [mahā+mohaḥ](mahāmoho) [vṛthā](vṛthā) [kim](kiṃ) [mām](mām) [upāgataḥ](upāgataḥ)
+[did](cakre) [there](tatra) [great-delusion](mahāmohaḥ) [in-vain](vṛthā) [why](kiṃ) [me](mām) [has-come-upon](upāgataḥ)
 
 ## mukta-m0-p78-v1933
-[tat](tanme) [me](me) [avaśeṣitam](avaśeṣitaṃ) [kāmam](kāmaṃ) [pūrya](pūryā) [āśu](āśu) [maheśvari](maheśvari)
+[therefore](tat) [my](me) [remaining](avaśeṣitaṃ) [desire](kāmaṃ) [fulfill](pūryā) [quickly](āśu) [great-goddess](maheśvari)
 
 ## mukta-m0-p78-v1934
-[mām](māṃ) [sa+yoṣit+gaṇam](sayoṣidgaṇaṃ) [śīghram](śīghraṃ) [yuddhe](yuddhe) [śastra+agni+pāvitam](śastrāgnipāvitam)
+[me](māṃ) [with-women-group](sayoṣidgaṇaṃ) [quickly](śīghraṃ) [in-battle](yuddhe) [by-weapon-fire-purified](śastrāgnipāvitam)
 
 ## mukta-m0-p78-v1935
-[kadā](kadā) [aham](haṃ) [candra+cūḍālam](candracūḍālaṃ) [netra+traya+su+śobhanam](netratrayasuśobhanam)
+[when](kadā) [I](ahaṃ) [moon-crested-one](candracūḍālaṃ) [with-three-eyes-well-adorned](netratrayasuśobhanam)
 
 ## mukta-m0-p78-v1936
-[paśyan](paśyan) [śrī+mātṛ+vadanam](śrīmātṛvadanaṃ) [dagdhaḥ](dagdhastatsāyakā) [tat+sāyaka+agninā](tatsāyakāgninā)
+[seeing](paśyan) [glorious-mother-face](śrīmātṛvadanaṃ) [burned](dagdhaḥ) [by-her-arrow-fire](tatsāyakā'gninā)
 
 ## mukta-m0-p78-v1937
-[prārthayan](prārthayanniti) [iti](iti) [tat+rūpam](tadrūpaṃ) [koṭi+kandarpa+sundaram](koṭikandarpasundaram)
+[praying-for](prārthayan) [thus](iti) [that-form](tadrūpaṃ) [like-ten-million-cupids-beautiful](koṭikandarpasundaram)
 
 ## mukta-m0-p78-v1938
-[tāvat](tāvattatrā) [tatra](tatra) [ājagmatuḥ](ājagmatustau) [tau](tau) [daitya+rājasya](daityarājasya) [bhrātarau](brātarau)
+[then](tāvat) [there](tatra) [came](ājagmatuḥ) [those-two](tau) [of-daitya-king](daityarājasya) [brothers](brātarau)
 
 ## mukta-m0-p78-v1939
-[amaṃsatuḥ](amaṃsatuḥ) [putra+śoka+bhara+ākrāntam](putraśokabharākrāntaṃ) [su+mūrcchitam](sumūrcchitam)
+[they-considered](amaṃsatuḥ) [by-son-grief-burden-overwhelmed](putraśokabharākrāntaṃ) [deeply-fainted](sumūrcchitam)
 
 ## mukta-m0-p78-v1940
-[tayoḥ](tayoḥ) [śama+paraiḥ](śamaparaiḥ) [śabdaiḥ](śabdairdhyeyānnirgatamānasaḥ) [dhyeyāt](dhyeyāt) [nirgata+mānasaḥ](nirgatamānasaḥ)
+[by-their](tayoḥ) [with-peaceful-words](śamaparaiḥ) [with-sounds](śabdaiḥ) [from-meditation](dhyeyāt) [mind-departed](nirgatamānasaḥ)
 
 ## mukta-m0-p78-v1941
-[sva+rūpa+gopana+artham](svarūpagopanārthaṃ) [saḥ](sa) [bhrātroḥ](brātroḥ) [sammukhataḥ](sammukhataḥ) [sthitaḥ](sthitaḥ)
+[for-own-nature-concealment](svarūpagopanārthaṃ) [he](sa) [of-brothers](brātroḥ) [in-front](sammukhataḥ) [stood](sthitaḥ)
 
 ## mukta-m0-p78-v1942
-[hā](hā) [putrāḥ](putrā) [mām](māṃ) [parityajya](parityajya) [pitaram](pitaraṃ) [duḥkha+sāgare](duḥkhasāgare)
+[alas](hā) [sons](putrā) [me](māṃ) [having-abandoned](parityajya) [father](pitaraṃ) [in-sorrow-ocean](duḥkhasāgare)
 
 ## mukta-m0-p78-v1943
-[mātaraḥ](mātaro) [vaḥ](vo) [ati+vātsalya+kātarāḥ](ativātsalyakātarā) [īdṛśīm](īdṛśīṃ) [daśām](daśām)
+[mothers](mātaraḥ) [your](vaḥ) [with-excessive-affection-distressed](ativātsalyakātarāḥ) [such](īdṛśīṃ) [condition](daśām)
 
 ## mukta-m0-p78-v1944
-[ityādi](ityādi) [vilapantam](vilapantaṃ) [tam](taṃ) [dṛṣṭvā](dṛṣṭvā) [tau](tau) [bhrātarau](bhrātarau) [tadā](tadā)
+[thus-etc.](ityādi) [lamenting](vilapantaṃ) [him](taṃ) [having-seen](dṛṣṭvā) [those-two](tau) [brothers](bhrātarau) [then](tadā)
 
 ## mukta-m0-p78-v1945
-[alam](alaṃ) [daitya+īśa](daityeśa) [śokena](śokena) [dhairya+vīrya+apahāriṇā](dhairyavīryāpahāriṇā)
+[enough](alaṃ) [o-daitya-lord](daityeśa) [with-grief](śokena) [courage-and-valor-destroying](dhairyavīryā'pahāriṇā)
 
 ## mukta-m0-p78-v1946
-[jvaraḥ](jvaro) [nau](nau) [deham](dehaṃ) [karīṣam](karīṣam) [iva](iva) [pāvakaḥ](pāvakaḥ)
+[fever](jvaraḥ) [our](nau) [body](dehaṃ) [like-dung](karīṣam) [as](iva) [fire](pāvakaḥ)
 
 ## mukta-m0-p78-v1947
-[gatvā](gatvā) [avāma+ekapātena](avāmekapātena) [tām](tāṃ) [hatvā](hatvā) [niśitaiḥ](niśitaiḥ) [śaraiḥ](śariḥ)
+[having-gone](gatvā) [in-one-moment](ekapātena) [her](tāṃ) [having-slain](hatvā) [with-sharp](niśitaiḥ) [arrows](śariḥ)
 
 ## mukta-m0-p78-v1948
-[jīvantīm](jīvantīṃ) [vā](vā) [mṛtām](mṛtāṃ) [vā](vā) [api](pi) [vaddhvā](vaddhvā) [neṣyāvaḥ](neṣyāva) [āśu](āśu) [vai](vai)
+[living](jīvantīṃ) [or](vā) [dead](mṛtāṃ) [or](vā) [even](api) [having-bound](vaddhvā) [we-shall-bring](neṣyāvaḥ) [quickly](āśu) [indeed](vai)
 
 ## mukta-m0-p78-v1949
-[yuddha+artham](yuddhārtham) [abhyāyayatuḥ](abhyāyayaturativīryaparākramau) [ati+vīrya+parākramau](ativīryaparākramau)
+[for-battle](yuddhārtham) [they-approached](abhyāyayatuḥ) [of-exceeding-valor-and-prowess](ativīryaparākramau)
 
 ## mukta-m0-p78-v1950
-[pṛthak](pṛthak) [śakti+mahā+senā+pārśva+bhāge](śaktimahāsenāpārśvabhāge) [prapetatuḥ](prapetatuḥ)
+[separately](pṛthak) [at-śakti-and-mahāsena-commander-side-parts](śaktimahāsenāpārśvabhāge) [they-fell-upon](prapetatuḥ)

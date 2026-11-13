@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[obstacle-instrument](vighnayantreṇa) [thwarted](vihatāḥ) [powers](śaktyaḥ) [everywhere](sarvataḥ) [situated](sthitāḥ)
+[by-obstacle-device](vighnayantreṇa) [struck](vihatāḥ) [powers](śaktyaḥ) [everywhere](sarvataḥ) [standing](sthitāḥ)
 
 ## mukta-m0-p70-v1727
-[command-of-rod-queen-not](daṇḍarājñīsamādeśaṃna) [at-all](kiñcinmānayanti) [they](tāḥ)
+[of-daṇḍa+queen](daṇḍarājñī) [command](samādeśaṃ) [not](na) [anything](kiñcit) [respect](mānayanti) [they](tāḥ)
 
 ## mukta-m0-p70-v1728
-[not](na) [offended](uparāddhaṃ) [by-demons](daiteyaiḥ) [how](kathaṃ) [conflict](vigraho) [thought](mataḥ)
+[not](na) [and-not](na) [offended](uparāddhaṃ) [by-daityas](daiteyaiḥ) [how](kathaṃ) [with-them](taiḥ) [conflict](vigrahaḥ) [considered](mataḥ)
 
 ## mukta-m0-p70-v1729
-[for-demon-desired-success](daityeṣṭasiddhaye) [why](kasmānna) [bound](badhyā) [divine-hosts](devatāgaṇāḥ)
+[for-daitya+desired+accomplishment](daityeṣṭasiddhaye) [why](kasmāt) [not](na) [to-be-killed](badhyā) [deity+hosts](devatāgaṇāḥ)
 
 ## mukta-m0-p70-v1730
-[by-drinking-excess](pānaprakarṣato) [intoxicated](mattā) [deliberation](vicāraḥ) [would-be](syāttayoḥ) [whence](kutaḥ)
+[by-drink+excess](pānaprakarṣato) [intoxicated](mattā) [discrimination](vicāraḥ) [would-be](syāt) [of-those-two](tayoḥ) [whence](kutaḥ)
 
 ## mukta-m0-p70-v1731
-[fit-unfit-deliberation](yuktā'yuktavicāreṇa) [by-itself](svato) [deficient](hīnā) [always](tu) [sarvadā]
+[by-proper+improper+discrimination](yuktā'yuktavicāreṇa) [by-nature](svato) [devoid](hīnā) [indeed](tu) [always](sarvadā)
 
 ## mukta-m0-p70-v1732
-[of-girl](bālāyāḥ) [what](ko) [deliberation](vicāraḥ) [would-be](syāt) [play-attached](krīḍāsaktā) [indeed](hi) [she](sā) [always](sadā)
+[of-a-child](bālāyāḥ) [what](ko) [discrimination](vicāraḥ) [would-be](syāt) [in-play+engaged](krīḍāsaktā) [indeed](hi) [she](sā) [always](sadā)
 
 ## mukta-m0-p70-v1733
-[vain-violence-offense](vyarthahiṃsā'parādhena) [we-shall-obtain](prāpsyāmo) [destruction](nāśamañjsā)
+[by-useless+violence+offense](vyarthahiṃsā'parādhena) [we-shall-obtain](prāpsyāmo) [destruction](nāśam) [surely](añjsā)
 
 ## mukta-m0-p70-v1734
-[of-demon-harming-fault](daityahiṃsanadoṣasya) [we-make](kurmo) [atonement](niṣkṛtimādarāt)
+[of-daitya+killing+fault](daityahiṃsanadoṣasya) [let-us-make](kurmo) [expiation](niṣkṛtim) [with-respect](ādarāt)
 
 ## mukta-m0-p70-v1735
-[going](gatvā) [in-baths](snāneṣu) [by-austerity](tapasā) [we-accomplish](sādhayāmaḥ) [desired](samīhitam)
+[having-gone](gatvā) [in-holy-baths](snāneṣu) [by-austerity](tapasā) [let-us-accomplish](sādhayāmaḥ) [desired-object](samīhitam)
 
 ## mukta-m0-p70-v1736
-[suitable](anurūpaṃ) [husband](patiṃ) [having-obtained](prāpya) [we-play](krīḍāmo'virataṃ) [happily](sukham)
+[suitable](anurūpaṃ) [husband](patiṃ) [having-obtained](prāpya) [let-us-sport](krīḍāmo) [unceasingly](avirataṃ) [happily](sukham)
 
 ## mukta-m0-p70-v1737
-[not](na) [we-fight](yudhyāmo) [vainly](vayaṃ) [vyarthaṃ] [your](tavā'jñāyāṃ) [command](na) [nor](ca) [stand](sthitāḥ)
+[not](na) [we-fight](yudhyāmo) [we](vayaṃ) [uselessly](vyarthaṃ) [in-your+command](tavā'jñāyāṃ) [not](na) [and](ca) [standing](sthitāḥ)
 
 ## mukta-m0-p70-v1738
-[vain](vṛthā'bhimānaṃ) [pride](mākārṣīrmantriṇyā) [with-minister](mattayā) [intoxicated](saha)
+[vain+pride](vṛthā'bhimānaṃ) [do-not-make](mākārṣīḥ) [with-ministeress](mantriṇyā) [with-intoxicated](mattayā) [together](saha)
 
 ## mukta-m0-p70-v1739
-[there](tatrocuranyāḥ) [said-others](saṃkruddhāḥ) [boar-faced](śūkarāsye) [always](sadā) [indeed](hi) [us](naḥ)
+[then](tatra) [spoke](ūcuḥ) [others](anyāḥ) [enraged](saṃkruddhāḥ) [O-boar-faced-one](śūkarāsye) [always](sadā) [indeed](hi) [of-us](naḥ)
 
 ## mukta-m0-p70-v1740
-[go](vraja) [quickly](śīghramito) [if-not](no) [eyes](cedakṣīṇi) [we-will-cast-down](vinipātaye)
+[go](vraja) [quickly](śīghram) [from-here](ito) [not](no) [if](cet) [eyes](akṣīṇi) [I-shall-strike-down](vinipātaye)
 
 ## mukta-m0-p70-v1741
-[another](anyā'bravīt) [said](khaḍgakarā) [sword-handed](niṣatyā'bhimukhe) [then](tataḥ)
+[another](anyā) [said](abravīt) [sword+in-hand](khaḍgakarā) [having-rushed](niṣatyā) [in-front](abhimukhe) [then](tataḥ)
 
 ## mukta-m0-p70-v1742
-[pride](darpo'sti) [if](cenmayā) [in-battle](yuddhe) [from-valor](vīryādbuddhiṃ) [mind](samīkuru)
+[pride](darpaḥ) [is](asti) [if](cet) [with-me](mayā) [in-battle](yuddhe) [by-valor](vīryāt) [mind](buddhiṃ) [make-equal](samīkuru)
 
 ## mukta-m0-p70-v1743
-[thus](iti) [seeing](dṛṣṭvā) [power-host](śaktigaṇaṃ) [commander](daṇḍinyatyantavismitā)
+[thus](iti) [having-seen](dṛṣṭvā) [power+host](śaktigaṇaṃ) [daṇḍinī](daṇḍinī) [extremely+astonished](atyantavismitā)
 
 ## mukta-m0-p70-v1744
-[thus](iti) [thinking](matvā) [quickly](drutaṃ) [having-gone](gatvā) [to-minister](mantriṇyai) [that](tannivedayat)
+[thus](iti) [having-thought](matvā) [quickly](drutaṃ) [having-gone](gatvā) [to-ministeress](mantriṇyai) [that](tat) [reported](nivedayat)
 
 ## mukta-m0-p70-v1745
-[astonished](vismitā) [great-queen](śrīmahārājñīmāsādya) [having-approached](praṇatabravīt)
+[astonished](vismitā) [śrī+great+queen](śrīmahārājñīm) [having-approached](āsādya) [bowed](praṇatā) [spoke](abravīt)
 
 ## mukta-m0-p70-v1746
-[surely](nūnaṃ) [would-be](bhavettu) [of-wicked](duṣṭānāṃ) [of-demons](daityānāmeva) [indeed](ceṣṭitam)
+[certainly](nūnaṃ) [may-be](bhavet) [indeed](tu) [of-wicked](duṣṭānāṃ) [of-daityas](daityānām) [alone](eva) [deed](ceṣṭitam)
 
 ## mukta-m0-p70-v1747
-[demons](daityāḥ) [sal-tree-front](sālamukhaprānte) [armed](sannaddhāḥ) [present](samupasthitāḥ)
+[daityas](daityāḥ) [at-sāla+tree+entrance](sālamukhaprānte) [arrayed](sannaddhāḥ) [arrived](samupasthitāḥ)
 
 ## mukta-m0-p70-v1748
-[different-nature](bhinnasvabhāvāḥ) [born](sambhūtāḥ) [powers](śaktyo) [anger-speech](roṣabhāṣaṇāḥ)
+[of-different+nature](bhinnasvabhāvāḥ) [arisen](sambhūtāḥ) [powers](śaktyo) [with-angry+speech](roṣabhāṣaṇāḥ)
 
 ## mukta-m0-p70-v1749
-[although](yadyapyakhiladaityāśca) [all-demons](tava) [your](bhrubhaṅgamātrataḥ) [eyebrow-bend-only](asmāsu) [us](dayayā) [by-mercy](mātardrutaṃ) [mother](pratividhatsva) [quickly](tat)
+[although](yadyapi) [all+daityas](akhiladaityāḥ) [and](ca) [by-your+eyebrow+knitting+mere](tava bhrubhaṅgamātrataḥ)
 
 ## mukta-m0-p70-v1750
-[on-us](asmāsu) [mercy](dayayā) [mother](mātardrutaṃ) [quickly](pratividhatsva) [provide](tat)
+[toward-us](asmāsu) [out-of-compassion](dayayā) [O-mother](mātaḥ) [quickly](drutaṃ) [counteract](pratividhatsva) [that](tat)

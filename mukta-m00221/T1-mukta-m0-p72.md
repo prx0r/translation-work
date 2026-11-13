@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[from-gadā-blow-split-elephant-head](gadāprahārasambhinnakumbhadeśād) [of-Gaṇeśa](gaṇeśituḥ)
+[mace](gadā) [blow](prahāra) [shattered](sambhinna) [temple-region](kumbhadeśāt) [of-Gaṇeśa](gaṇeśituḥ)
 
 ## mukta-m0-p72-v1777
-[struck](jaghāna) [with-trident](śūlena) [in-heart](hṛdi) [of-Viśukra](viśukrasyā'tivegataḥ)
+[struck](jaghāna) [with-spear](śūlena) [in-heart](hṛdi) [of-Viśukra](viśukrasya) [with-great-speed](ativegataḥ)
 
 ## mukta-m0-p72-v1778
-[thus](evaṃ) [Viśukra](viśukraṃ) [having-defeated](nirjitya) [went](yayau) [toward-Bhaṇḍa-chariot](bhaṇḍarathaṃ) [toward](prati)
+[thus](evaṃ) [Viśukra](viśukraṃ) [having-defeated](nirjitya) [went](yayau) [towards-Bhaṇḍa's-chariot](bhaṇḍarathaṃ) [towards](prati)
 
 ## mukta-m0-p72-v1779
-[considering](vicārayat) [inner-circle](svāntaraṅge) [him-invincible](tamajeyaṃ) [realizing](vibhāvayan)
+[thinking](vicārayat) [in-his-inner-mind](svāntaraṅge) [him](tam) [unconquerable](ajeyaṃ) [considering](vibhāvayan)
 
 ## mukta-m0-p72-v1780
-[invincible](ajeyo'yaṃ) [great-hero](mahāvīryaḥ) [by-all-gods-demons](sarvairdevāsurairapi)
+[unconquerable](ajeyaḥ) [this-one](ayaṃ) [of-great-valor](mahāvīryaḥ) [by-all](sarvaiḥ) [gods](deva) [and-demons](asuraiḥ) [even](api)
 
 ## mukta-m0-p72-v1781
-[by-weapons-struck](śarstrahata) [this](imaṃ) [body](dehaṃ) [abandoning](tyaktvā) [that-world](tallokamāpnuyām)
+[by-weapon](śarstra) [struck](hata) [this](imaṃ) [body](dehaṃ) [having-abandoned](tyaktvā) [that-world](tallokam) [may-I-obtain](āpnuyām)
 
 ## mukta-m0-p72-v1782
-[surely](nūnameṣa) [formerly](purā) [war](yuddhaṃ) [did](cakre) [by-great-power](yena) [mahaujasā](mahaujasā)
+[certainly](nūnam) [he](eṣa) [formerly](purā) [battle](yuddhaṃ) [did](cakre) [by-whom](yena) [of-great-might](mahaujasā)
 
 ## mukta-m0-p72-v1783
-[then](tato'haṃ) [that](tāṃ) [I-will-approach](samāyāsye) [to-fight](yoddhaṃ) [Śrī-Lalitāmbikā](śrīlalitāmbikām)
+[then](tataḥ) [I](ahaṃ) [her](tāṃ) [shall-approach](samāyāsye) [to-fight](yoddhaṃ) [Śrī-Lalitāmbikā](śrīlalitāmbikām)
 
 ## mukta-m0-p72-v1784
-[mountain-like](parvatā'bhaṃ) [great-terrible](mahābhīmaṃ) [mace-raised-good-lotus](parighodyatsupuṣkaram)
+[mountain](parvata) [resembling](ābhaṃ) [very-terrible](mahābhīmaṃ) [with-iron-club](parigha) [raised](udyat) [trunk](supuṣkaram)
 
 ## mukta-m0-p72-v1785
-[having-approached](āsādya) [elephant-demon](gajadaityaṃ) [him](taṃ) [fought](yuyodha) [troop-leader](gaṇanāyakaḥ)
+[having-approached](āsādya) [elephant-demon](gajadaityaṃ) [that](taṃ) [fought](yuyodha) [leader-of-gaṇas](gaṇanāyakaḥ)
 
 ## mukta-m0-p72-v1786
-[powers](śaktyaḥ) [nature](prakṛtiṃ) [having-obtained](prāpya) [went-forth](niryuryuddhagetave)
+[the-Śaktis](śaktyaḥ) [readiness](prakṛtiṃ) [having-attained](prāpya) [went-forth](niryuḥ) [for-battle](yuddhagetave)
 
 ## mukta-m0-p72-v1787
-[of-all-demon-armies](aśeṣadaityasenānāṃ) [minister](mantriṇī) [with-commander](daṇḍinīyutā)
+[of-entire](aśeṣa) [demon](daitya) [armies](senānāṃ) [the-ministeress](mantriṇī) [with-Daṇḍinī](daṇḍinī) [accompanied](yutā)
 
 ## mukta-m0-p72-v1788
-[with-all-power-armies](aśeṣaśaktisenābhirdaśitābhiḥ) [surrounded](parivṛtā)
+[by-entire](aśeṣa) [Śakti](śakti) [armies](senābhiḥ) [arrayed](daśitābhiḥ) [surrounded](parivṛtā)
 
 ## mukta-m0-p72-v1789
-[having-mounted](samāruhyebhasenābhirnirjagāmā'tisambhramāt) [elephant-armies](ebhasenābhiḥ) [went-out](nirjagāma) [great-haste](atisambhramāt)
+[having-mounted](samāruhya) [elephant](ibha) [armies](senābhiḥ) [went-forth](nirjagāma) [with-great-haste](atisambhramāt)
 
 ## mukta-m0-p72-v1790
-[horse-mounted](aśvāruḍhā'śvasenābhirāvṛtā) [horse-armies](aśvasenābhiḥ) [surrounded](āvṛtā) [battle-haste](yuddhasambhramāt)
+[horse-mounted](aśvāruḍhā) [by-horse](aśva) [armies](senābhiḥ) [surrounded](āvṛtā) [with-battle-eagerness](yuddhasambhramāt)
 
 ## mukta-m0-p72-v1791
-[Bālā](bālā) [having-bowed](praṇamya) [to-Lalitā](lalitāṃ) [spoke](prāha) [sweet](mañjulayā) [voice](girā)
+[Bālā](bālā) [having-bowed](praṇamya) [to-Lalitā](lalitāṃ) [spoke](prāha) [with-sweet](mañjulayā) [speech](girā)
 
 ## mukta-m0-p72-v1792
-[always](sadā) [for-war-arrangement](yuddhavidhānāya) [eager-minded](samutsukitamānasām)
+[always](sadā) [for-making-war](yuddhavidhānāya) [with-eager](samutsukita) [mind](mānasām)
 
 ## mukta-m0-p72-v1793
-[feet](pādau) [with-head](mūrdhnā) [I-touch](spṛśāmyeṣā) [give](dehyajñāṃ) [for-battle](samarāya) [me](me)
+[feet](pādau) [with-head](mūrdhnā) [I-touch](spṛśāmi) [this-one](eṣā) [give](dehi) [command](ajñāṃ) [for-battle](samarāya) [to-me](me)
 
 ## mukta-m0-p72-v1794
-[first](ādye) [day](dine'pi) [my](me) [war](yuddhaṃ) [not](nā'sīnmānasapūraṇam)
+[on-first](ādye) [day](dine) [even](api) [for-me](me) [battle](yuddhaṃ) [not](na) [was](āsīt) [mind-fulfilling](mānasapūraṇam)
 
 ## mukta-m0-p72-v1795
-[today](adya) [my](me) [fulfill](pūrayasvā'śāṃ) [longing](āśāṃ) [for-war](cirādyuddhāya) [gathered](sambhṛtām)
+[today](adya) [for-me](me) [fulfill](pūrayasva) [hope](āśāṃ) [long](cirāt) [for-battle](yuddhāya) [cherished](sambhṛtām)
 
 ## mukta-m0-p72-v1796
-[smiling](prahasantī) [mantra-lady-face](mantranāthāmukhaṃ) [looked](samavalokayat)
+[smiling](prahasantī) [at-Ministeress's](mantranāthā) [face](mukhaṃ) [looked](samavalokayat)
 
 ## mukta-m0-p72-v1797
-[maiden](kumāri) [hear](śṛṇu) [my](me) [word](vākyaṃ) [if](yadi) [you](tvaṃ) [to-fight](yoddhumicchasi)
+[O-princess](kumāri) [hear](śṛṇu) [my](me) [word](vākyaṃ) [if](yadi) [you](tvaṃ) [to-fight](yoddhum) [wish](icchasi)
 
 ## mukta-m0-p72-v1798
-[with-one](ekena) [fight](saha) [yudhyasva](yudhyasva) [with-Daṇḍinī](daṇḍinyā) [and](ca) [with-me](mayā) [saha](saha)
+[with-one](ekena) [with](saha) [fight](yudhyasva) [with-Daṇḍinī](daṇḍinyā) [and](ca) [with-me](mayā) [with](saha)
 
 ## mukta-m0-p72-v1799
-[to-enter](praveṣṭavyaṃ) [somewhere](kvacidvā'pi) [your](tavā'vāṃ) [side-support](pakṣasaṃśraye)
+[must-be-entered](praveṣṭavyaṃ) [anywhere](kvacit) [or](vā) [even](api) [by-you](tava) [of-us-two](āvāṃ) [in-side](pakṣasaṃśraye)
 
 ## mukta-m0-p72-v1800
-[having-heard](śrutvaivaṃ) [minister-word](mantriṇīvākyaṃ) [spoke](prāha) [Bālā-Ambikā](bālā'mbikā) [again](punaḥ)
+[having-heard](śrutvā) [thus](evaṃ) [Ministeress's](mantriṇī) [speech](vākyaṃ) [spoke](prāha) [Bālā](bālā) [mother](ambikā) [again](punaḥ)

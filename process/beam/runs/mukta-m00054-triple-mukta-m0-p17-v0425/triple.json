@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle marking end of enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+sarvasāmrājya+medhā+nāma",
+     "gloss": "śrī-sarvasāmrājya-medhā-named",
+     "grounds": "compound naming the collection; internal members joined by sandhi/compounding",
+     "morph": "compound"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "denotes the group or collection of a thousand",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Under what title is the preceding thousandfold enumeration concluded?",
+   "premises": [
+    "The particle iti marks a conclusion.",
+    "The compound śrī+sarvasāmrājya+medhā+nāma provides a specific designation.",
+    "The term sahasrakam denotes a collection of a thousand."
+   ],
+   "inference": "The preceding enumeration is concluded as the thousand named śrī-sarvasāmrājya-medhā.",
+   "uncertainties": [
+    "The precise referent of medhā within the compound title is context-dependent."
+   ],
+   "plain_english": "Thus concludes the thousand named Śrī Sarvasāmrājya Medhā."
+  }
+ ]
+}
