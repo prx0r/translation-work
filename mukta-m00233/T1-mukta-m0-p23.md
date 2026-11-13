@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[to-be-crowned](stūpyantam) [upward-from-north](uttarādūrdhvaṃ) [sixfold](ṣoḍhā) [divided](bhaktaṃ) [la](la) [gateway](gopuram)
+[up-to-finial](stūpyantam) [above+upper-beam](uttarād+ūrdhvaṃ) [sixfold](ṣoḍhā) [divided](bhaktaṃ) [indeed](la) [gate-tower](gopuram)
 
 ## mukta-m0-p23-v552
-[neck-height](kandharotsedhaḥ) [with-three-quarters](satripādāṃśakaṃ) [head](śiraḥ)
+[neck+height](kandhara+utsedhaḥ) [with-three-quarter+part](sa+tripāda+aṃśakaṃ) [dome](śiraḥ)
 
 ## mukta-m0-p23-v553
-[of-two-stories-etc](dvitalādīnāṃ) [by-excess-division](talādhikyavibhāgataḥ)
+[of-two-storeys+etc.](dvitala+ādīnāṃ) [by-storey+increase+division](tala+ādhikya+vibhāgataḥ)
 
 ## mukta-m0-p23-v554
-[gateway-width-fifth](gopuravyāsapañcāṃśe) [sanctum](garbhāgāra) [third-part](tribhāgataḥ)
+[in-gate-tower+width+fifth-part](gopura+vyāsa+pañcāṃśe) [sanctum](garbhāgāra) [by-three-parts](tribhāgataḥ)
 
 ## mukta-m0-p23-v555
-[in-gateway-width](gopuravyāse) [sanctum](garbhaṃ) [by-four-parts](caturaṃśakaiḥ)
+[in-gate-tower+width](gopura+vyāse) [sanctum](garbhaṃ) [indeed](tu) [by-four-parts](caturaṃśakaiḥ)
 
 ## mukta-m0-p23-v556
-[roof-projection](kūṭavistāraṃ) [by-three-parts](tribhiraṃśaistu) [cell](koṣṭhakam)
+[kūṭa+width](kūṭa+vistāraṃ) [by-three+parts](tribhiḥ+aṃśaiḥ) [indeed](tu) [koṣṭha](koṣṭhakam)
 
 ## mukta-m0-p23-v557
-[as-beauty](yathāśobhaṃ) [two-storied](dvitalaṃ) [gateway](gopuraṃ) [may-be](bhavet)
+[according-to-beauty](yathā+śobhaṃ) [two-storeyed](dvitalaṃ) [gate-tower](gopuraṃ) [should-be](bhavet)
 
 ## mukta-m0-p23-v558
-[śarabhauma](śarabhaumaṃ) [may-be](syāt) [solar-part](sūryāṃśe) [six-storied](ṣaṭtale) [so](tathā)
+[five-storeyed](śarabhaumaṃ) [should-be](syāt) [in-twelve-parts](sūryāṃśe) [six-storeyed](ṣaṭtale) [likewise](tathā)
 
 ## mukta-m0-p23-v559
-[from-main-door-width](mūladvārasya+vistārād) [veda-sona](vedaśonaṃ) [by-arrow-parts](śarāṃśataḥ)
+[of-main+door](mūla+dvārasya) [from-width](vistārād) [less-by-four](veda+śonaṃ) [in-five-parts](śara+aṃśataḥ)
 
 ## mukta-m0-p23-v560
-[staircase](sopānam) [above-above](uparyupari) [one-should-place](vinyaset)
+[stairway](sopānam) [above+above](upari+upari) [one-should-place](vinyaset)
 
 ## mukta-m0-p23-v561
-[as-beauty](yathāśobhaṃ) [so](tathā) [to-be-joined](yojyaṃ) [by-experts](vicakṣaṇaiḥ)
+[according-to-beauty](yathā+śobhaṃ) [so](tathā) [to-be-arranged](yojyaṃ) [by-the-wise](vicakṣaṇaiḥ)
 
 ## mukta-m0-p23-v562
-[should-make](kuryād) [form-beauty-etc](ākṛtiśobhādyaṃ) [in-temples-buildings-etc](vimānabhavanādiṣu)
+[one-should-make](kuryāt) [form+beauty+etc.](ākṛti+śobhā+ādyaṃ) [in-vimāna+building+etc.](vimāna+bhavana+ādiṣu)
 
 ## mukta-m0-p23-v563
-[pleasant](ramyaṃ) [great-gateway](mahādvāraṃ) [circumambulatory](pradakṣiṇam)
+[delightful](ramyaṃ) [g:]( [g:) [mya](mya) [](]) [great+door](mahā+dvāraṃ) [circumambulatory](pradakṣiṇam)
 
 ## mukta-m0-p23-v564
-[with-obstacle-counter-obstacle-beauty](ūhapratyūhaśobhāḍhyaṃ) [fourteen?](dvisaptamu(pa?+kha)paṭṭikam)
+[endowed-with-ūha+pratyūha+beauty](ūha+pratyūha+śobhā+āḍhyaṃ) [with-fourteen](dvi+sapta) [mu(pa?](mu(pa?) [kha)paṭṭikam](kha)paṭṭikam)
 
 ## mukta-m0-p23-v565
-[on-side](pārśve) [leaving](tyaktvā) [first-story](pūrvatalaṃ) [again](punaḥ)
+[on-sides](pārśve) [having-left](tyaktvā) [previous+storey](pūrva+talaṃ) [again](punaḥ)
 
 ## mukta-m0-p23-v566
-[single-deity-hall-head](ekadevasabhāśīirṣaṃ) [with-six-great-noses](ṣaṇmahānāsikānvitam)
+[with-one+deva+hall+crest](eka+deva+sabhā+śīirṣaṃ) [endowed-with-six+great+nāsikās](ṣaṇ+mahā+nāsikā+anvitam)
 
 ## mukta-m0-p23-v567
-[around](parito) [by-part-increase](bhāgavṛddhyā) [with-gaṇḍi](sagaṇḍimam)
+[all-around](parito) [by-part+increase](bhāga+vṛddhyā) [with-gaṇḍi](sa+gaṇḍimam)
 
 ## mukta-m0-p23-v568
-[with-devotion](bhaktyā) [joined](yuktaṃ) [bhavya-named](bhavyābhidhānakam)
+[with-devotion](bhaktyā) [endowed](yuktaṃ) [having-beautiful+name](bhavya+abhidhānakam)
 
 ## mukta-m0-p23-v569
-[at-ears](karṇeṣu) [pauṣṭika-named](pauṣṭikaṃ+nāma) [gateway](gopuram)
+[at-corners](karṇeṣu) [pauṣṭika](pauṣṭikaṃ) [by-name](nāma) [gate-tower](gopuram)
 
 ## mukta-m0-p23-v570
-[with-broken-palace-banner-rich](khaṇḍaharmyapatākāḍhyaṃ) [sumaṇḍa-named](sumaṇḍākhyaṃ) [gateway](tu+gopuram)
+[endowed-with-broken+palace+flags](khaṇḍa+harmya+patākā+āḍhyaṃ) [named-sumaṇḍa](sumaṇḍa+ākhyaṃ) [indeed](tu) [gate-tower](gopuram)
 
 ## mukta-m0-p23-v571
-[with-pillar-roof-hall](sastambhakūṭaśālaṃ) [with-arch](satoraṇam)
+[with-pillars+kūṭa+śālā](sa+stambha+kūṭa+śālaṃ) [with-toraṇa](sa+toraṇam)
 
 ## mukta-m0-p23-v572
-[god-best-king-worthy](devaśreṣṭhanarendrārhaṃ) [subhadra-named](subhadraṃ+nāma) [gateway](gopuram)
+[suitable-for-god+best+king+best](deva+śreṣṭha+narendra+arhaṃ) [subhadra](subhadraṃ) [by-name](nāma) [gate-tower](gopuram)
 
 ## mukta-m0-p23-v573
-[with-four-noses-limbs-beautiful](caturnāsīsāṅgāvayavasundaram)
+[beautiful-with-four+nāsī+limb+parts](catur+nāsī+sāṅga+avayava+sundaram)
 
 ## mukta-m0-p23-v574
-[eight-cornered-roof-hall-rich](aṣṭāśrakūṭaśālāḍhyaṃ) [bhadrasundara-named](bhadrasundarasaṃjñitam)
+[endowed-with-octagonal+kūṭa+śālās](aṣṭāśra+kūṭa+śālā+āḍhyaṃ) [named-bhadrasundara](bhadrasundara+saṃjñitam)
 
 ## mukta-m0-p23-v575
-[with-seven-stories](tu+talaiḥ+saptabhiranvitam)
+[indeed](tu) [with-storeys](talaiḥ) [with-seven](saptabhiḥ) [endowed](anvitam)

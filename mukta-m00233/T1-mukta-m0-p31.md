@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[tithi-nakṣatra-karaṇa-muhūrta-ādau](tithinakṣatrakaraṇamuhūrtādau) [guṇa-anvite](guṇānvite)
+[lunar-day+constellation+karaṇa+muhūrta+etc.](tithinakṣatrakaraṇamuhūrtādau) [quality+endowed](guṇānvite)
 
 ## mukta-m0-p31-v752
-[savitānam](savitānaṃ) [catur-dvāram](caturdvāraṃ) [pradīpa-ādyaiḥ](pradīpādyair) [alaṅkṛtam](alaṅkṛtam)
+[with-canopy](savitānaṃ) [four+doored](caturdvāraṃ) [lamp+etc.+by](pradīpādyair) [decorated](alaṅkṛtam)
 
 ## mukta-m0-p31-v753
-[sita-vastra-yuga-āstīrṇe](sitavastrayugāstīrṇe) [tasmin](tasmilliṅgaṃ) [liṅgam](liṅgaṃ) [tu](tu) [śāyayet](śāyayet)
+[white+cloth+pair+spread](sitavastrayugāstīrṇe) [in-that](tasmin) [liṅgaṃ](liṅgaṃ) [indeed](tu) [one-should-lay-down](śāyayet)
 
 ## mukta-m0-p31-v754
-[tu](tu) [tat-liṅgam](talliṅgaṃ) [namaskṛtya](namaskṛtya) [abhipūjya](abhipūjya) [ca](ca)
+[indeed](tu) [that+liṅgaṃ](talliṅgaṃ) [having-saluted](namaskṛtya) [having-worshipped](abhipūjya) [and](ca)
 
 ## mukta-m0-p31-v755
-[mayā](mayā) [jñānāt](jñānāt) [tvayi](tvayi) [yat](yad) [dur-anuṣṭhitam](duranuṣṭhitam)
+[by-me](mayā) [knowingly](jñānāt) [to-you](tvayi) [what](yad) [badly+performed](duranuṣṭhitam)
 
 ## mukta-m0-p31-v756
-[deveśam](deveśaṃ) [liṅge](liṅge) [lakṣaṇam](lakṣaṇam) [uddharet](uddharet)
+[lord-of-gods](deveśaṃ) [in-liṅga](liṅge) [characteristic-mark](lakṣaṇam) [one-should-draw-out](uddharet)
 
 ## mukta-m0-p31-v757
-[brahma-sūtram](brahmasūtraṃ) [pārśva-sūtre](pārśvasūtre) [śiva-astrataḥ](śivāstrataḥ)
+[brahma+thread](brahmasūtraṃ) [side+threads](pārśvasūtre) [śiva+weapon+by](śivāstrataḥ)
 
 ## mukta-m0-p31-v758
-[samam](samaṃ) [sūtrāṇi](sūtrāṇy) [ālambayet](ālambayet) [sphuṭam](sphuṭam)
+[evenly](samaṃ) [threads](sūtrāṇi) [one-should-draw](ālambayet) [clearly](sphuṭam)
 
 ## mukta-m0-p31-v759
-[sa-vatsām](savatsāṃ) [gām](gāṃ) [dvijam](dvijaṃ) [svarṇam](svarṇaṃ) [ca](ca) [kanyakām](kanyakām)
+[with-calf](savatsāṃ) [cow](gāṃ) [brahmin](dvijaṃ) [gold](svarṇaṃ) [and](ca) [maiden](kanyakām)
 
 ## mukta-m0-p31-v760
-[pāda-ūna-bhāgam](pādonabhāgam) [ardham](ardhaṃ) [vā](vā) [brahma-sūtra-viśālatā](brahmasūtraviśālatā)
+[quarter+navel+part](pādonabhāgam) [half](ardhaṃ) [or](vā) [brahma+thread+width](brahmasūtraviśālatā)
 
 ## mukta-m0-p31-v761
-[pārśva-sūtrasya](pārśvasūtrasya) [rekhā](rekhā) [madhya-yavā](madhyayavā) [bhavet](bhavet)
+[side+thread+of](pārśvasūtrasya) [line](rekhā) [middle+or](madhyayavā) [should-be](bhavet)
 
 ## mukta-m0-p31-v762
-[nanda-dig-rudra-bhāga-uccam](nandadigrudrabhāgoccaṃ) [hīna-ādi-uccam](hīnādyuccam) [iha](ihoditam) [uditam](uditam)
+[nine+ten+eleven+parts+height](nandadigrudrabhāgoccaṃ) [lower+etc.+height](hīnādyuccam) [here](iha) [stated](uditam)
 
 ## mukta-m0-p31-v763
-[yuga-agni-dvitaye](yugāgnidvitaye) [madhye](madhye) [bāṇa-yunā-agniṣu](bāṇayunāgniṣu)
+[four+three+two](yugāgnidvitaye) [in-middle](madhye) [five+four+three](bāṇayunāgniṣu)
 
 ## mukta-m0-p31-v764
-[drāviḍe](drāviḍe) [sūtra-vyāsaḥ](sūtravyāsaḥ) [sva-aṃśa-ardhataḥ](svāṃśārdhataḥ) [samaḥ](samaḥ)
+[in-drāviḍa](drāviḍe) [thread+width](sūtravyāsaḥ) [own+part+half+from](svāṃśārdhataḥ) [equal](samaḥ)
 
 ## mukta-m0-p31-v765
-[ṣoḍaśa-aṃśe](ṣoḍaśāṃśe) [śiva-āyāme](śivāyāme) [sūtra-āyāmaḥ](sūtrāyāmo) [daśa-aṃśataḥ](daśāṃśataḥ)
+[in-sixteenth+part](ṣoḍaśāṃśe) [śiva+height](śivāyāme) [thread+length](sūtrāyāmo) [from-ten+parts](daśāṃśataḥ)
 
 ## mukta-m0-p31-v766
-[mukula-ākāram](mukulākāram) [ārabhya](ārabhya) [pārśva-sūtra-dvayam](pārśvasūtradvayaṃ) [kramāt](kramāt)
+[bud+form](mukulākāram) [beginning](ārabhya) [side+thread+pair](pārśvasūtradvayaṃ) [in-order](kramāt)
 
 ## mukta-m0-p31-v767
-[ṣoḍaśa-aṃśe](ṣoḍaśāṃśe'dho) [adhaḥ](adhaḥ) [bhāgam](bhāgaṃ) [veda-aṃśam](vedāṃśam) [ūrdhvataḥ](ūrdhvataḥ)
+[in-sixteenth+part](ṣoḍaśāṃśe) [below](adho) [part](bhāgaṃ) [four+parts](vedāṃśam) [above](ūrdhvataḥ)
 
 ## mukta-m0-p31-v768
-[ittham](itthaṃ) [drāviḍa-liṅgasya](drāviḍaliṅgasya) [lakṣaṇa-uddhāraṇam](lakṣaṇoddhāraṇaṃ) [smṛtam](smṛtam)
+[thus](itthaṃ) [drāviḍa+liṅga+of](drāviḍaliṅgasya) [characteristic+drawing-out](lakṣaṇoddhāraṇaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p31-v769
-[daśa-aṃśaḥ](daśāṃśaḥ) [syāt](syād) [vasu-aṃśa](vasvaṃśaprabhṛti) [prabhṛti](prabhṛti) [kramāt](kramāt)
+[tenth+part](daśāṃśaḥ) [should-be](syād) [eight+part+beginning-with](vasvaṃśaprabhṛti) [in-order](kramāt)
 
 ## mukta-m0-p31-v770
-[tayoḥ](tayoryutirbhavecchreṣṭhe) [yutiḥ](yutiḥ) [bhavet](bhavet) [śreṣṭhe](śreṣṭhe) [viṣkambhaḥ](viṣkambhaḥ) [ṣoḍaśa-aṃśataḥ](ṣoḍaśāṃśataḥ)
+[of-those-two](tayor) [union](yutiḥ) [should-be](bhavet) [in-best](śreṣṭhe) [diameter](viṣkambhaḥ) [from-sixteenth+part](ṣoḍaśāṃśataḥ)
 
 ## mukta-m0-p31-v771
-[trayo-aṃśāḥ](trayoṃ'śāścādhoṃśā) [ca](ca) [adhaḥ-aṃśāḥ](adhaḥ-aṃśāḥ) [guṇa-bhāgāt](guṇabhāgāt) [prabhṛti](prabhṛtyadhaḥ) [adhaḥ](adhaḥ)
+[three+parts](trayoṃ'śāḥ) [and](ca) [lower+parts](adhoṃśā) [three+part+from](guṇabhāgāt) [beginning-below](prabhṛtyadhaḥ)
 
 ## mukta-m0-p31-v772
-[tridhā](tridhā) [bhakte](bhakte) [vyāsaḥ](vyāso) [bhāga-dvayena](bhāgadvayena) [tu](tu)
+[in-three+ways](tridhā) [divided](bhakte) [diameter](vyāso) [by-two+parts](bhāgadvayena) [indeed](tu)
 
 ## mukta-m0-p31-v773
-[kaniṣṭha-vesarasya](kaniṣṭhavesarasyātha) [atha](atha) [dvādaśa-aṃśe](dvādaśāṃśe) [śiva-ucchraye](śivocchraye)
+[of-smallest+vesara](kaniṣṭhavesarasya) [now](atha) [in-twelfth+part](dvādaśāṃśe) [śiva+height](śivocchraye)
 
 ## mukta-m0-p31-v774
-[pūrvavat](pūrvavajjñeyo) [jñeyaḥ](jñeyo) [vyāse](vyāse) [vai](vai) [ṣoḍaśa-aṃśake](ṣoḍaśāṃśake)
+[as-before](pūrvavat) [to-be-known](jñeyo) [in-diameter](vyāse) [indeed](vai) [in-sixteenth+part](ṣoḍaśāṃśake)
 
 ## mukta-m0-p31-v775
-[kaniṣṭha-vesarasya](kaniṣṭhavesarasyaivaṃ) [evam](evam) [lakṣaṇa-uddharaṇam](lakṣaṇoddharaṇaṃ) [smṛtam](smṛtam)
+[of-smallest+vesara](kaniṣṭhavesarasya) [thus](evaṃ) [characteristic+drawing-out](lakṣaṇoddharaṇaṃ) [remembered](smṛtam)

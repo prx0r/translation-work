@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[self-origin](svayoniḥ) [pedestal-indeed](piṇḍikaiva) [be](syāt) [of-mountains-etc-non-defilement](śailādīnāmadūṣaṇā)
+[own-source](svayoniḥ) [pedestal](piṇḍikā) [indeed](eva) [should-be](syāt) [of-stone+and-others](śailādīnām) [unblemished](adūṣaṇā)
 
 ## mukta-m0-p25-v602
-[copper-born](tāmrajā) [or](vā) [be](syāt) [best-middle-worst-order](śreṣṭhamadhyādhamakramāt)
+[copper-born](tāmrajā) [or](vā) [should-be](syāt) [in-best+middle+inferior+order](śreṣṭha+madhya+adhama+kramāt)
 
 ## mukta-m0-p25-v603
-[northern-course-situated](uttarāyaṇasaṃsthe) [sun](arke) [bright-fortnight](śuklapakṣe) [qualities-endowed](guṇānvite)
+[in-northern-course+situated](uttarāyaṇa+saṃsthe) [sun](arke) [in-bright-fortnight](śuklapakṣe) [endowed-with-qualities](guṇānvite)
 
 ## mukta-m0-p25-v604
-[twice-born](dvijān) [in-front](agre) [having-caused-recite](vācayitvā) [blessings](āśiṣaḥ) [then](tataḥ)
+[brahmins](dvijān) [in-front](agre) [having-caused-to-recite](vācayitvā) [blessings](āśiṣaḥ) [then](tataḥ)
 
 ## mukta-m0-p25-v605
-[eastern](prācīm) [northern](udīcīṃ) [or](vā) [omens](nimittāni) [observing](upalakṣayan)
+[eastward](prācīm) [northward](udīcīm) [or](vā) [omens](nimittāni) [observing](upalakṣayan)
 
 ## mukta-m0-p25-v606
-[flowers](puṣpa) [food](anna) [full-pots](pūrṇakumbha) [ghee](ājya) [conch](śaṅkha) [milk](kṣīra) [curds](dadhi) [and](ca)
+[flower+food+filled-pot+ghee+conch+milk+curds](puṣpa+anna+pūrṇa+kumbha+ājya+śaṅkha+kṣīra+dadhīni) [and](ca)
 
 ## mukta-m0-p25-v607
-[auspicious-women](maṅgalyayoṣitaḥ) [king](rājā) [banners](dhvaja) [full-bows](pūrṇadhanūṃṣi) [and](ca)
+[auspicious-women](maṅgalya+yoṣitaḥ) [king](rājā) [banner+full-bows](dhvaja+pūrṇa+dhanūṃṣi) [and](ca)
 
 ## mukta-m0-p25-v608
-[traveler](yātuḥ) [desired-goal-accomplishment](iṣṭārthasiddhyai) [be](syāt) [especially](sutarāṃ) [that](tat) [circumambulation](pradakṣiṇam)
+[for-traveler's+desired+object+accomplishment](yātuḥ+iṣṭa+artha+siddhyai) [should-be](syāt) [especially](sutarāṃ) [that](tat) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p25-v609
-[auspicious](śastaṃ) [sneeze](kṣutaṃ) [indeed](hi) [at-first](ādau) [inauspicious](aśobhanam)
+[auspicious](śastaṃ) [sneezing](kṣutaṃ) [indeed](hi) [at-beginning](ādau) [inauspicious](aśobhanam)
 
 ## mukta-m0-p25-v610
-[of-bharaṭa-etc](bharaṭādīnāṃ) [on-left](vāme) [auspicious](śastaṃ) [but](tu) [on-right](dakṣiṇe)
+[of-bharaṭa-and-others](bharaṭādīnāṃ) [on-left](vāme) [auspicious](śastaṃ) [but](tu) [on-right](dakṣiṇe)
 
 ## mukta-m0-p25-v611
-[jackal](sṛgāla) [crow](vāyasa) [tiger](vyāghra) [cakora](cakora) [heron](baka) [pigeon](kapota) [and](kāḥ)
+[jackal+crow+tiger+cakora+crane+pigeon](sṛgāla+vāyasa+vyāghra+cakora+baka+potakāḥ)
 
 ## mukta-m0-p25-v612
-[hare](śaśa) [owl](kauśika) [vulture](gṛdhra) [and](ca) [hawk](śyena) [and](ca) [deer](mṛga) [snake](ḍuṇḍubha)
+[hare+owl+vulture](śaśa+kauśika+gṛdhrāḥ) [and](ca) [hawks](śyenāḥ) [and](ca) [deer+lizard](mṛga+ḍuṇḍubhāḥ)
 
 ## mukta-m0-p25-v613
-[of-elephant](bāleya) [lizard](godhā) [sound](nir) [on-left](vāme) [movement](gatiḥ) [on-right](dakṣiṇataḥ) [auspicious](śubhā)
+[of-young-serpent+sound](bāleya+godha+vaniḥ) [on-left](vāme) [movement](gatiḥ) [on-right](dakṣiṇataḥ) [auspicious](śubhā)
 
 ## mukta-m0-p25-v614
-[storm](vātyā) [quarrel](kalahaḥ) [and](ca) [iti](iti) [blamed](ninditāḥ)
+[whirlwind](vātyā) [quarrel](kalahaḥ) [and](ca) [thus](iti) [condemned](ninditāḥ)
 
 ## mukta-m0-p25-v615
-[of-color](varṇa) [vehicle](vāhana) [dress](veṣa) [of-mind](manaḥ) [weapon](śastra) [directions](diśām) [also](api)
+[of-color+vehicle+dress](varṇa+vāhana+veṣāṇāṃ) [of-mind+weapon+direction](manaḥ+śastra+diśām) [also](api)
 
 ## mukta-m0-p25-v616
-[opposite-sun](pratisūrya) [eclipse](uparāga) [meteor](ulkā) [earthquake](bhūkampa) [rainbow](indradhanuḥ) [and](ca)
+[mock-sun+eclipse+meteor+earthquake+rainbow](pratisūrya+uparāga+ulkā+bhūkampa+indradhanūṃṣi) [and](ca)
 
 ## mukta-m0-p25-v617
-[wheel-mark](cakri) [coin](kṣapaṇa) [naked](nagna) [and](ca) [shaven](muṇḍita) [inauspicious-woman](amaṅgalāṅganā)
+[oil-presser+alcohol-seller+naked-man](cakri+kṣapaṇa+nagnaḥ) [and](ca) [shaven+inauspicious-woman](muṇḍita+amaṅgala+aṅganā)
 
 ## mukta-m0-p25-v618
-[butcher](sūnāḥ) [heretic](pāṣaṇḍa) [staff-bearers](daṇḍapāṇayaḥ)
+[slaughterhouses](sūnāḥ) [heretics](pāṣaṇḍāḥ) [staff-bearers](daṇḍapāṇayaḥ)
 
 ## mukta-m0-p25-v619
-[wet-clothes](ārdravastra) [and](ca) [blamed](nindyāḥ) [be](syuḥ) [seen](dṛṣṭāḥ) [facing](pratimukha) [approached](āgatāḥ)
+[wet-garments](ārdra+vastrāḥ) [and](ca) [blameworthy](nindyāḥ) [should-be](syuḥ) [seen](dṛṣṭāḥ) [coming-face-to-face](pratimukhāgatāḥ)
 
 ## mukta-m0-p25-v620
-[what-indicated](yaduddiṣṭaṃ) [mountain](giri) [field](kṣetra) [forest](vana) [etc](ādikam)
+[which](yat) [indicated](uddiṣṭaṃ) [mountain+field+forest+and-so-on](giri+kṣetra+vana+ādikam)
 
 ## mukta-m0-p25-v621
-[great-indra](mahendra) [sahya](sahya) [malaya](malaya) [kalasha](kalaśa) [veda-mountain](vedaparvataḥ)
+[Mahendra+Sahya+Malaya](mahendra+sahya+malayāḥ) [Kalaśa](kalaśaḥ) [Veda-mountain](veda+parvataḥ)
 
 ## mukta-m0-p25-v622
-[ganga-etc](gaṅgādikāḥ) [fields](kṣetrāṇi) [of-gods-etc](amareśādikāni) [also](api)
+[Gaṅgā-and-others](gaṅgā+ādikāḥ) [sacred-fields](kṣetrāṇi) [Amareśa-and-others](amareśa+ādikāni) [also](api)
 
 ## mukta-m0-p25-v623
-[be](syuḥ) [as-available](yathālābhaṃ) [stone-taking](śilāgrahaṇam) [begin](ārabhet)
+[should-be](syuḥ) [according-to-availability](yathālābhaṃ) [stone+collection](śilā+grahaṇam) [one-should-begin](ārabhet)
 
 ## mukta-m0-p25-v624
-[stone](śilā) [known](jñeyāḥ) [by-respective-names](tattannāma) [marked](upalakṣitāḥ)
+[stone](śilā) [should-be-known](jñeyā) [by-their+respective+name+marked](tat+tat+nāma+upalakṣitāḥ)
 
 ## mukta-m0-p25-v625
-[fitted](yuktā) [earth](bhūḥ) [varuṇī](vāruṇī) [remembered](smṛtā)
+[suitable](yuktā) [earth](bhūḥ) [of-Varuṇa](vāruṇī) [remembered](smṛtā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[should-be-done](kāryaḥ) [manner](prakāraḥ) [other](anyaḥ) [and](ca) [is-told](kathyate)
+[to-be-made](kāryaḥ) [method](prakāraḥ)+[another](anyaḥ)+[and](ca) [is-told](kathyate)
 
 ## mukta-m0-p28-v677
-[nine-parts](navabhāge) [would-be](syāt) [liṅga](liṅgaṃ) [five-parts](pañcāṃśam) [extended](āyatam)
+[nine](nava)+[in-part](bhāge) [should-be](syāt)+[liṅga](liṅgaṃ) [five](pañca)+[part](aṃśa)+[long](māyatam)
 
 ## mukta-m0-p28-v678
-[there](tatra) [one-hand](ekahasta) [liṅga](liṅgasya) [four-hands](caturhastaṃ) [but](tu) [spread](vistṛtam)
+[there](tatra)+[one](eka)+[cubit](hasta)+[of-liṅga](liṅgasya) [four](catur)+[cubit](hastaṃ) [indeed](tu) [width](vistṛtam)
 
 ## mukta-m0-p28-v679
-[twofold-high](dviguṇoccaṃ) [but](tu) [nāgara](nāgaraṃ) [threefold](triguṇaṃ) [if](yadi)
+[twice](dvi)+[height](guṇa)+[high](uccaṃ) [indeed](tu) [nāgara](nāgaraṃ) [thrice](tri)+[height](guṇaṃ) [if](yadi)
 
 ## mukta-m0-p28-v680
-[valabhi](valabhiḥ) [named](nāma) [vimāna](vimānaṃ) [becomes](bhavati) [clear](sphuṭam)
+[valabhi](valabhiḥ)+[named](nāma) [vimāna](vimānaṃ) [becomes](bhavati) [clearly](sphuṭam)
 
 ## mukta-m0-p28-v681
-[pausṭika](pauṣṭikaṃ) [all-desires](sārvakāmikaṃ) [in-nāgara](nāgare) [remembered](smṛtam)
+[nourishing](pauṣṭikaṃ) [all](sārva)+[desire-fulfilling](kāmikaṃ) [in-nāgara](nāgare) [is-remembered](smṛtam)
 
 ## mukta-m0-p28-v682
-[thirteen-parts](trayodaśāṃśakaṃ) [principal](mukhyaṃ) [in-garbha](garbhe) [eighth-part](aṣṭāṃśe) [as-before](pūrvavat)
+[thirteen](trayodaśa)+[part](aṃśakaṃ) [principal](mukhyaṃ) [in-garbha](garbhe)+[eight](aṣṭa)+[part](aṃśe) [indeed](tu) [as-before](pūrvavat)
 
 ## mukta-m0-p28-v683
-[pausṭika](pauṣṭikaṃ) [all-desires](sārvakāmikaṃ) [in-drāviḍa](drāviḍe) [becomes](bhavet)
+[nourishing](pauṣṭikaṃ) [all](sārva)+[desire-fulfilling](kāmikaṃ) [in-drāviḍa](drāviḍe) [should-be](bhavet)
 
 ## mukta-m0-p28-v684
-[thirteen-parts](trayodaśāṃśam) [lowest](adhamaṃ) [between-them](tayormadhye) [eighth-part](aṣṭabhāgataḥ)
+[thirteen](trayodaśa)+[part](aṃśam)+[lowest](adhamaṃ) [of-those-two](tayoḥ)+[in-middle](madhye)+[eight](aṣṭa)+[by-part](bhāgataḥ)
 
 ## mukta-m0-p28-v685
-[in-length](dairghye) [eight-seven-six-parts](vasusaptaṣaḍaṃśakaiḥ)
+[in-length](dairghye) [eight](vasa)+[seven](sapta)+[six](ṣaḍ)+[by-parts](aṃśakaiḥ)
 
 ## mukta-m0-p28-v686
-[of-liṅgas](liṅgānāṃ) [brahma-viṣṇu-īśa-deity](brahmaviṣṇavīśadaivatam)
+[of-liṅgas](liṅgānāṃ) [Brahmā](brahma)+[Viṣṇu](viṣṇav)+[Īśa](īśa)+[deity](daivatam)
 
 ## mukta-m0-p28-v687
-[three-parts](tribhāgamevaṃ) [thus](evaṃ) [to-be-known](vijñeyaṃ) [their](teṣāṃ) [difference](bhedaḥ) [is-written](likhyate)
+[three](tri)+[part](bhāgam)+[thus](evaṃ) [should-be-known](vijñeyaṃ) [of-them](teṣāṃ) [distinction](bhedaḥ)+[and](ca) [is-written](likhyate)
 
 ## mukta-m0-p28-v688
-[fourfold](caturdhā) [would-be](syāt) [that-mark](tallakṣma) [separately](pṛthagucyate)
+[fourfold](caturdhā) [should-be](syāt) [its-characteristic](tal)+[lakṣma](lakṣma) [separately](pṛthak)+[is-stated](ucyate)
 
 ## mukta-m0-p28-v689
-[for-śūdras](śūdrāṇāṃ) [svastika](svastikaṃ) [beneficial](hitam) [desired](iṣṭaṃ) [enter](viśāmi)
+[for-vaiśyas](viśām)+[desired](iṣṭaṃ) [for-śūdras](śūdrāṇāṃ) [svastika](svastikaṃ) [beneficial](hitam)
 
 ## mukta-m0-p28-v690
-[other-varṇa-declared](anyavarṇoditaṃ) [liṅga](liṅgam) [here-there-purpose-destroying](ihāmutrārthanāśanam)
+[other](anya)+[class](varṇa)+[prescribed](uditaṃ) [liṅga](liṅgam)+[here](iha)+[and-hereafter](amutra)+[purpose](artha)+[destruction](nāśanam)
 
 ## mukta-m0-p28-v691
-[liṅga-spread](liṅgavistāraḥ) [circumference](pariṇāhaḥ) [but](tu) [its](tasya) [which](yaḥ)
+[liṅga](liṅga)+[width](vistāraḥ) [circumference](pariṇāhaḥ)+[indeed](tu) [of-that](tasya) [which](yaḥ)
 
 ## mukta-m0-p28-v692
-[brahma-viṣṇu-īśa-parts](brahmaviṣṇvīśabhāgāḥ) [all-equal](sarvasame) [considered](matāḥ)
+[Brahmā](brahma)+[Viṣṇu](viṣṇv)+[Īśa](īśa)+[parts](bhāgāḥ) [in-all-equal](sarva)+[same](same) [are-considered](matāḥ)
 
 ## mukta-m0-p28-v693
-[veda-śrī-piṇḍikā](vedāśrapiṇḍikāyāḥ) [but](tu) [liṅga](liṅge) [all-equal](sarvasame) [this](tvidam)
+[square](veda)+[cornered](aśra)+[of-pedestal](piṇḍikāyāḥ)+[indeed](tu) [in-liṅga](liṅge) [in-all-equal](sarva)+[same](same) [indeed](tu)+[this](idam)
 
 ## mukta-m0-p28-v694
-[would-be-shadow-defect](syācchāyādoṣaḥ) [otherwise](anyathā) [becomes](bhavet)
+[should-be](syāt)+[shadow](chāyā)+[defect](doṣaḥ)+[otherwise](anyathā) [would-be](bhavet)
 
 ## mukta-m0-p28-v695
-[veda-śrī-piṇḍikā-field](vedāśrapiṇḍikākṣetrāpekṣayā) [round-etc](vartulādiṣu)
+[square](veda)+[cornered](aśra)+[pedestal](piṇḍikā)+[area](kṣetra)+[in-accordance-with](apekṣayā) [in-circular-etc.](vartula)+[ādiṣu](ādiṣu)
 
 ## mukta-m0-p28-v696
-[thin](kṛśeṣu) [liṅgas](liṅgeṣu) [piṇḍikā-more-spread](piṇḍikādhikavistṛtam)
+[in-slender](kṛśeṣu) [in-liṅgas](liṅgeṣu) [pedestal](piṇḍikā)+[greater](adhika)+[width](vistṛtam)
 
 ## mukta-m0-p28-v697
-[in-śiva-part](śivāṃśe) [but](tu) [in-brahma-part](brahmāṃśe) [let-drop](hāpayet) [that](tat)
+[in-Śiva](śiva)+[part](aṃśe) [indeed](tu) [in-Brahmā](brahma)+[part](aṃśe) [one-should-reduce](hāpayet) [indeed](tu) [that](tat)
 
 ## mukta-m0-p28-v698
-[worship-part](pūjābhāgaṃ) [but](tu) [make](kuryāt) [short](hrasvaṃ) [from-that-part](tadaṃśataḥ)
+[worship](pūjā)+[part](bhāgaṃ) [indeed](tu) [one-should-make](kuryāt)+[short](hrasvaṃ) [by-that](tad)+[part](aṃśataḥ)
 
 ## mukta-m0-p28-v699
-[shadow-defect-examination](chāyādoṣavicāraḥ) [this](ayaṃ) [liṅga](liṅge) [all-equal](sarvasame) [remembered](smṛtaḥ)
+[shadow](chāyā)+[defect](doṣa)+[consideration](vicāraḥ)+[this](ayaṃ) [in-liṅga](liṅge) [in-all-equal](sarva)+[same](same) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p28-v700
-[manifest-unmanifest](vyaktāvyakte) [and](ca) [gem-born](ratnaje)
+[in-manifest](vyakta)+[unmanifest](avyakte) [and](ca) [in-jewel-born](ratna)+[je](je)
