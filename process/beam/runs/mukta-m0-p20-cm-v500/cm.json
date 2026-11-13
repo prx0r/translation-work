@@ -3,14 +3,39 @@
  "verse": 500,
  "rows": [
   {
-   "lemma": "sahasranāmapāṭhaśca",
-   "morph": "compound (sahasra+nāma+pāṭha, m.nom.sg) + (indecl.)",
-   "grounds": "Compound of sahasra (thousand), nāma (name), and pāṭha (recitation), with enclitic ca (and) indicating conjunction with the following item."
+   "lemma": "vyāpya",
+   "morph": "(gerund,√vyāp)",
+   "grounds": "absolutive gerund expressing prior or concurrent pervasion"
   },
   {
-   "lemma": "kālīnāmaprakīrtanam",
-   "morph": "compound (kālī+nāma+prakīrtana, n.nom.sg)",
-   "grounds": "Compound of kālī (Kālī), nāma (name), and prakīrtana (proclamation/recitation), denoting the act of proclaiming Kālī's names."
+   "lemma": "tiṣṭhati",
+   "morph": "3.sg.act-pres,√sthā",
+   "grounds": "finite verb indicating abiding presence"
+  },
+  {
+   "lemma": "sarvatra",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable adverb of place"
+  },
+  {
+   "lemma": "tasmāt",
+   "morph": "n.abl.sg",
+   "grounds": "demonstrative used to draw consequence from prior analogy"
+  },
+  {
+   "lemma": "brahma",
+   "morph": "n.nom.sg",
+   "grounds": "subject denoting ultimate reality"
+  },
+  {
+   "lemma": "padaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "noun qualified by brahma and mahat"
+  },
+  {
+   "lemma": "mahat",
+   "morph": "n.nom.sg",
+   "grounds": "adjective qualifying padaṃ"
   }
  ]
 }

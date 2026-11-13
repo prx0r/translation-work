@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p22-v526
-of-old-woman (vṛddhāyāḥ) or (vā) of-girl (kanyakāyā) or (vā) of-weak-woman (hyabalāyāḥ) breasts (payodharau)
+[of-old-woman](vṛddhāyāḥ) [of-maiden](kanyakāyā) [or](vā) [indeed](hi) [of-weak-woman](abalāyāḥ) [two-breasts](payodharau)
 
 ## mukta-m0-p22-v527
-having-ground (piṣṭvā) on-breast-pair (stanayuge) to-be-given (deyaṃ) becomes (bhavet) full-breasted (pīna-payodharā)
+[having-ground](piṣṭvā) [on-breast-pair](stana+yuge) [to-be-applied](deyam) [becomes](bhavet) [having-full-breasts](pīna+payodharā)
 
 ## mukta-m0-p22-v528
-elephant-pepper-joined (gajapippalikā-yuktaṃ) with-freshly-split-water (sadyo-bhinna-jalena) and (ca)
+[with-gaja-pippalī](gaja+pippalikā+yuktam) [with-freshly-sprung-water](sadyaḥ+bhinna+jalena) [and](ca)
 
 ## mukta-m0-p22-v529
-leads (nayatte) but (tu) sometimes (kadācid) indeed (vai) copper-palm-fruit (tāmra-tāla-phalaṃ) likewise (tathā)
+[brings](nayatte) [but](tu) [ever](kadācit) [indeed](vai) [copper-tāla-fruit](tāmra+tāla+phalam) [likewise](tathā)
 
 ## mukta-m0-p22-v530
-equal (samānaṃ) water-portion (jala-bhāgaṃ) and (ca) having-given (dattvā) cooking (pākaṃ) should-perform (samācaret)
+[equal](samānam) [water-portion](jala+bhāgam) [and](ca) [having-given](dattvā) [cooking](pākam) [one-should-perform](samācaret)
 
 ## mukta-m0-p22-v531
-by-day-anointing (divā-pralepanāt) indeed (eva) iron-nature (lohatvaṃ) arises (jāyate) soon (acirāt)
+[by-daytime-anointing](divā+pralepanāt) [alone](eva) [iron-hardness](loha+tvam) [arises](jāyate) [quickly](acirāt)
 
 ## mukta-m0-p22-v532
-by-incense (dhūpena) vulva (yoniṃ) at-night (niśi) having-fumigated (dhūpayitvā) woman (nārī) pleasure (pramodaṃ) gives (vidadhāti) to-husband (bhartuḥ)
+[with-incense](dhūpena) [vagina](yonim) [at-night](niśi) [having-fumigated](dhūpayitvā) [woman](nārī) [delight](pramodam) [produces](vidadhāti) [of-husband](bhartuḥ)
 
 ## mukta-m0-p22-v533
-and-abandon (tyajet-ca) of-love (ratyāḥ) long-time-existing (cirakāla-bhūtaṃ) odor (gandhaṃ) of-genital (varāṅgasya) no (na) doubt (saṃśayaḥ) here (atra)
+[abandons](tyajet) [and](ca) [from-intercourse](ratyāḥ) [long-time-existing](cira+kāla+bhūtam) [smell](gandham) [of-private-part](vara+aṅgasya) [not](na) [doubt](saṃśayaḥ) [here](atra)
 
 ## mukta-m0-p22-v534
-love-house (kandarpa-gehaṃ) of-deer-eyed-women (mṛga-locanānāṃ) hairs (romāṇi) grow (rohanti) ever (kadāpi) not-indeed (na-eva)
+[in-love-abode](kandarpa+geham) [of-deer-eyed-women](mṛga+locanānām) [hairs](romāṇi) [grow](rohanti) [ever](kadāpi) [not](na) [indeed](eva)
 
 ## mukta-m0-p22-v535
-with-ash (sa-vastara-? ) five (pañca) said (proktāḥ) and (ca) parts (bhāgāḥ) banana-water-wet (kadalī-jala-ārdrāḥ)
+[of-sava-tree](sava+taror) [of-ashes](bhasmanaḥ) [indeed](eva) [five](pañca) [declared](proktāḥ) [and](ca) [parts](bhāgāḥ) [moistened-with-plantain-juice](kadalī+jala+ārdrāḥ)
 
 ## mukta-m0-p22-v536
-hairs (romāṇi) all (sarvāṇi) of-women (vilāsinīnāṃ) again (punar) not (na) grow (rohaṃti) ever (kadācid-eva)
+[hairs](romāṇi) [all](sarvāṇi) [of-charming-women](vilāsinīnām) [again](punar) [not](na) [grow](rohanti) [ever](kadācit) [indeed](eva)
 
 ## mukta-m0-p22-v537
-with-reed (nalena) joined (yuktāni) anointing (vilepanena) hairs (romāṇi) uproots (nirmūlayati) in-moment (kṣaṇena)
+[with-reed](nalena) [joined](yuktāni) [by-anointing](vilepanena) [hairs](romāṇi) [uproots](nirmūlayati) [in-an-instant](kṣaṇena)
 
 ## mukta-m0-p22-v538
-equal-part-anointing (samabhāga-pralepena) hair-breaking (roma-khaṇḍanam) excellent (uttamam)
+[by-equal-part-anointing](sama+bhāga+pralepena) [hair-removal](roma+khaṇḍanam) [excellent](uttamam)
 
 ## mukta-m0-p22-v539
-with-that (tena) having-smeared (liptvā) hairs (kacāḥ) in-heat (gharme) standing (sthite) go (gacchanti) at-that-moment (tatkṣaṇāt)
+[by-that](tena) [having-anointed](liptvā) [hair](kacāḥ) [in-heat](gharme) [remaining](sthite) [go-away](gacchanti) [at-that-moment](tat+kṣaṇāt)
 
 ## mukta-m0-p22-v540
-with-that (tena) having-smeared (liptvā) standing (sthite) in-heat (gharme) hair-breaking (roma-khaṇḍanam) excellent (uttamam)
+[by-that](tena) [having-anointed](liptvā) [in-heat](gharme) [remaining](sthite) [hair-removal](roma+khaṇḍanam) [excellent](uttamam)
 
 ## mukta-m0-p22-v541
-not (na) come-out (niryānti) again (punar) anointing (lepāt) three-seven-weeks (tri-saptāhe) having-done (kṛte) being (sati)
+[not](na) [come-out](niryānti) [again](punar) [when-anointing](lepāt) [for-three-weeks](tri+saptāhe) [being-done](kṛte) [sati](sati)
 
 ## mukta-m0-p22-v542
-safflower-oil-heated (kusumbha-taila-taptānāṃ) seven-times (saptavāraṃ) likewise (tathā) quality (guṇam)
+[of-those-heated-in-safflower-oil](kusumbha+taila+taptānām) [seven-times](sapta+vāram) [likewise](tathā) [quality](guṇam)
 
 ## mukta-m0-p22-v543
-morning (prātas) hot-water (taptodakaiḥ) shoots (śaṣpāḥ) fall (patanti) from-root-risen (āmūlato-utthitāḥ)
+[in-morning](prātaḥ) [with-hot-water](tapta+udakaiḥ) [hairs](śaṣpāḥ) [fall](patanti) [uprooted-from-base](ā+mūlataḥ+utthitāḥ)
 
 ## mukta-m0-p22-v544
-shade-dried (chāyā-śuṣkaṃ) and (ca) that-powder (tac-cūrṇaṃ) five-days (pañcāhaṃ) should-anoint (lepayet) always (sadā)
+[dried-in-shade](chāyā+śuṣkam) [and](ca) [that-powder](tat+cūrṇam) [for-five-days](pañca+aham) [one-should-anoint](lepayet) [always](sadā)
 
 ## mukta-m0-p22-v545
-as-before (pūrvavat) broken-hairs (khaṇḍa-keśānāṃ) not (na) again (punaḥ) growth (rohaṇaṃ) becomes (bhavet)
+[as-before](pūrva+vat) [of-cut-hair](khaṇḍa+keśānām) [not](na) [again](punaḥ) [regrowth](rohaṇam) [should-be](bhavet)
 
 ## mukta-m0-p22-v546
-by-anointing (lepānāt) destroys (hanti) hairs (keśāṃś) and (ca) pungent-oils (kaṭu-tailaiḥ) realgar (manaḥśilā)
+[by-anointing](lepānāt) [destroys](dhanti) [hairs](keśān) [and](ca) [with-pungent-oils](kaṭu+tailaiḥ) [realgar](manaḥ+śilā)
 
 ## mukta-m0-p22-v547
-thus (iti) in-śrī-nityanātha-composed (śrī-nityanātha-viracite) kāmaratna (kāmaratne) hardening-etc-hair-removal (gāḍhīkaraṇādi-lomapātanaṃ) named (nāma) seventh-instruction (saptama-upadeśaḥ)
+[thus](iti) [in-the-Kāmaratna](kāma+ratne) [composed-by-Śrī-Nityanātha](śrī+nityanātha+viracite) [firming-etc-hair-removal](gāḍhīkaraṇa+ādi+loma+pātanam) [named](nāma) [seventh-chapter](saptama+upadeśaḥ)
 
 ## mukta-m0-p22-v548
-buried (nikhanyāt) becomes (jāyate) eunuch (ṣaṇḍhaḥ) removed (uddhṛte) but (tu) again (punaḥ) happy (sukhī)
+[when-buried](nikhanyāt) [becomes](jāyate) [impotent](ṣaṇḍhaḥ) [when-removed](uddhṛte) [but](tu) [again](punaḥ) [happy](sukhī)
 
 ## mukta-m0-p22-v549
-by-eating-drinking-practice (khāna-pāna-prayogeṇa) eunuchhood (ṣaṇḍhatvaṃ) arises (jāyate) of-men (nṛṇām)
+[by-application-in-food-and-drink](khāna+pāna+prayogeṇa) [impotence](ṣaṇḍhatvam) [arises](jāyate) [of-men](nṛṇām)
 
 ## mukta-m0-p22-v550
-cool (śītalaṃ) with-honey (madhunā) joined (yuktaṃ) should-drink (pibet) for-eunuchhood-appeasement (ṣaṇḍhatva-śāntaye)
+[cool-substance](śītalam) [with-honey](madhunā) [mixed](yuktam) [one-should-drink](pibet) [for-impotence-appeasement](ṣaṇḍhatva+śāntaye)

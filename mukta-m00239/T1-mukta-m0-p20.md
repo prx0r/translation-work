@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[linga-gen](liṃgasya) [anointing-instr](lepanāt) [by-him](tena) [women-gen](strīṇāṃ) [melting-nom](drāvaṇam) [best-nom](uttamam)
+[penis](liṃgasya) [by-anointing](lepanāt) [by-that](tena) [of-women](strīṇāṃ) [arousing](drāvaṇam) [best](uttamam)
 
 ## mukta-m0-p20-v477
-[that-instant-abl](tatkṣaṇāt) [melts](dravate) [woman-nom](nārī) [lotus-leaf-loc](padmapatre) [like](yathā) [milk-nom](payaḥ)
+[at-that-moment](tatkṣaṇāt) [melts](dravate) [woman](nārī) [on-lotus+leaf](padma+patre) [as](yathā) [milk](payaḥ)
 
 ## mukta-m0-p20-v478
-[these-instr](etair) [linga-anointing-instr](liṅgapralepena) [melts](dravet) [woman-nom](nārī) [no](na) [doubt-nom](saṃśayaḥ)
+[by-these](etaiḥ) [penis+anointing](liṅga+pralepena) [would-melt](dravet) [woman](nārī) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p20-v479
-[anointing](liptvā) [banner-acc](dhvajaṃ) [who](yo) [enjoys](ramate) [women-gen](aṅganānāṃ) [he](sa) [semen-acc](śukram) [draws](ākarṣati) [quickly](śīghrameva)
+[having-anointed](liptvā) [penis](dhvajaṃ) [who](yaḥ) [enjoys](ramate) [of-women](aṅganānāṃ) [he](saḥ) [semen](śukram) [draws-forth](ākarṣati) [quickly](śīghram) [indeed](eva)
 
 ## mukta-m0-p20-v480
-[anointing-instr](lepena) [linga-gen](liṃgasya) [makes](karoti) [semen-gen](retaś) [flow-acc](cyutiṃ) [enemy-side](vipakṣa) [woman-gen](pramadājanasya)
+[by-anointing](lepena) [of-penis](liṃgasya) [causes](karoti) [semen+emission](retaḥ+cyutiṃ) [of-rival+woman+people](vipakṣa+pramadā+janasya)
 
 ## mukta-m0-p20-v481
-[prevails](prabhavati) [women-gen](vanitānāṃ) [love-wave](kāmakallola) [mind-nom](mānaḥ)
+[prevails](prabhavati) [of-women](vanitānāṃ) [desire+wave](kāma+kallola) [excitement](mānaḥ)
 
 ## mukta-m0-p20-v482
-[linga-anointing-instr](liṃgalepena) [women-gen](rāmāṇāṃ) [melting-nom](drāvo) [becomes](bhavati) [union-loc](saṃgame)
+[by-penis+anointing](liṅga+lepena) [of-women](rāmāṇāṃ) [arousal](drāvaḥ) [becomes](bhavati) [in-union](saṃgame)
 
 ## mukta-m0-p20-v483
-[honey](madhu) [rocanā-instr](rocanayā) [with](sārddhaṃ) [linga-anointing-loc](liṅgalepe) [melt](dravanti) [they](tāḥ)
+[honey](madhu) [with-gorocanā](rocanayā) [together](sārddhaṃ) [in-penis+anointing](liṅga+lepe) [melt](dravanti) [they](tāḥ)
 
 ## mukta-m0-p20-v484
-[offering-animal](upahārapaśo) [blood-acc](raktaṃ) [take](gṛhṇīyāt) [from-sky](antarikṣataḥ)
+[of-sacrificial+animal](upahāra+paśoḥ) [blood](raktaṃ) [one-should-take](gṛhṇīyāt) [from-the-air](antarikṣataḥ)
 
 ## mukta-m0-p20-v485
-[turning](ārvartya) [facing](sammukhaṃ) [women-gen](strīṇāṃ) [seen-matre](dṛṣṭamātre) [melt](dravanti) [they](tāḥ)
+[having-turned-toward](ārvartya) [facing](sammukhaṃ) [of-women](strīṇāṃ) [at-mere-sight](dṛṣṭa+mātre) [they-melt](dravanti) [they](tāḥ)
 
 ## mukta-m0-p20-v486
-[throwing](kṣiptvā) [binding](baddhvā) [to-woman](striyai) [give](dadyāt) [smell-matre](ghrāṇamātre) [melt](dravanti) [they](tāḥ)
+[having-thrown](kṣiptvā) [having-bound](baddhvā) [to-woman](striyai) [one-should-give](dadyāt) [at-mere-smelling](ghrāṇa+mātre) [they-melt](dravanti) [they](tāḥ)
 
 ## mukta-m0-p20-v487
-[bring](āharet) [left-shin-acc](vāmajaṅghāṃ) [tu](tu) [lapwing-gen](ṭiṭṭibhasya) [right](dakṣiṇaḥ)
+[one-should-take](āharet) [left+leg](vāma+jaṅghāṃ) [indeed](tu) [of-lapwing](ṭiṭṭibhasya) [and](tu) [right](dakṣiṇaḥ)
 
 ## mukta-m0-p20-v488
-[ear-above](karṇopari) [standing](sthitaṃ) [by-that](tena) [seeing](dṛṣṭvā) [woman-nom](strī) [melts](dravati) [certainly](dhruvam)
+[on-ear](karṇa+upari) [placed](sthitaṃ) [by-that](tena) [having-seen](dṛṣṭvā) [woman](strī) [melts](dravati) [certainly](dhruvam)
 
 ## mukta-m0-p20-v489
-[hand-instr](hastena) [woman-hand-touch](strīkarasparśe) [melts](dravati) [fire-loc](agnau) [ghee-nom](ghṛtaṃ) [like](yathā)
+[by-hand](hastena) [woman+body+touch](strī+kara+sparśe) [melts](dravati) [in-fire](agnau) [ghee](ghṛtaṃ) [as](yathā)
 
 ## mukta-m0-p20-v490
-[proper-love-raga-acc](samucitaratirāgāṃ) [should-arrange](saṃvidadhyāt) [necessarily](avaśyam)
+[appropriate+love+passion](samucita+rati+rāgāṃ) [one-should-effect](saṃvidadhyāt) [certainly](avaśyam)
 
 ## mukta-m0-p20-v491
-[chant](japed) [one-hundred-eight](aṣṭottaraśataṃ) [there](tatra) [yoga-gen](yogasya) [perfection-dat](siddhaye)
+[one-should-recite](japet) [eight+over+hundred](aṣṭa+uttara+śataṃ) [there](tatra) [of-practice](yogasya) [for-success](siddhaye)
 
 ## mukta-m0-p20-v492
-[mantra](drāvaya drāvaya strīṇāṃ madaṃ pātaya pātaya svāhā ṭhaḥ ṭhaḥ || iti)
+[drāvaya drāvaya strīṇāṃ madaṃ pātaya pātaya svāhā ṭhaḥ ṭhaḥ](drāvaya drāvaya strīṇāṃ madaṃ pātaya pātaya svāhā ṭhaḥ ṭhaḥ) [thus](iti)
 
 ## mukta-m0-p20-v493
-[horse-enemy](turaṅgaśatroḥ) [butter-yoga-instr](navanītayogāt) [anointing-instr](lepena) [linga-acc](liṅgaṃ) [pestle-hood](musalatvam) [attains](eti)
+[of-horse+enemy](turaṅga+śatroḥ) [with-fresh-butter+application](navanīta+yogāt) [by-anointing](lepena) [penis](liṅgaṃ) [club-state](musala+tvam) [attains](eti)
 
 ## mukta-m0-p20-v494
-[then](tadā) [thick-nom](sthūlaṃ) [becomes](bhavet) [linga-nom](liṅgaṃ) [certain](niścitaṃ) [no](nātra) [doubt-nom](saṃśayaḥ)
+[then](tadā) [thick](sthūlaṃ) [becomes](bhavet) [penis](liṅgaṃ) [certain](niścitaṃ) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p20-v495
-[oil-instr](tailena) [growth-acc](vṛddhiṃ) [indeed](khalu) [goes](yāti) [linga-nom](liṅgaṃ) [best-woman-sight-mind-charming](varāṅganālokamanoharaṃ) [that](tat)
+[by-oil](tailena) [growth](vṛddhiṃ) [indeed](khalu) [goes-to](yāti) [penis](liṅgaṃ) [beautiful+woman+sight+mind-captivating](varāṅganā+loka+manaḥ+haraṃ) [that](tat)
 
 ## mukta-m0-p20-v496
-[thick-nom](sthūlaṃ) [greater](mahattara) [horse-like](turaṅgamatulyam) [quickly](āśu) [penis-acc](śephaḥ) [makes](karoti) [desired](abhimataṃ) [no](na) [doubt](saṃśayo'sti)
+[thick](sthūlaṃ) [very-great+horse+equal](mahattara+turaṅga+matulyam) [quickly](āśu) [penis](śephaḥ) [makes](karoti) [desired](abhimataṃ) [not](na) [indeed](hi) [doubt](saṃśayaḥ) [is](asti)
 
 ## mukta-m0-p20-v497
-[ashvagandha](aśvagandhā) [sesame](tilaṃ) [honey](kṣaudraṃ) [rock-salt](saindhavaṃ) [white-mustard](śvetasarṣapāḥ)
+[aśvagandhā](aśvagandhā) [sesame](tilaṃ) [honey](kṣaudraṃ) [rock-salt](saindhavaṃ) [white+mustard-seeds](śveta+sarṣapāḥ)
 
 ## mukta-m0-p20-v498
-[month-for](māsamātraṃ) [always](sadā) [anointing](liptvā) [rub](mardayecca) [day-night](divāniśam)
+[month+measure](māsa+mātraṃ) [always](sadā) [having-anointed](liptvā) [one-should-rub](mardayet) [and](ca) [day+night](divā+niśam)
 
 ## mukta-m0-p20-v499
-[thick-nom](sthūlaṃ) [firm-nom](dṛḍhaṃ) [ca](ca) [long-nom](dīrghaṃ) [ca](ca) [month-abl](māsāt) [linga-nom](liṅgaṃ) [is-born](prajāyate)
+[thick](sthūlaṃ) [firm](dṛḍhaṃ) [and](ca) [long](dīrghaṃ) [and](ca) [in-a-month](māsāt) [penis](liṅgaṃ) [is-produced](prajāyate)
 
 ## mukta-m0-p20-v500
-[sesame](tilaṃ) [oil-instr](tailena) [cooked](saṃpakvaṃ) [that-anointing-nom](tallepaḥ) [thick-linga-maker](sthūlaliṅgakṛt)
+[sesame](tilaṃ) [with-oil](tailena) [well-cooked](saṃpakvaṃ) [its+anointing](tat+lepaḥ) [thick+penis+making](sthūla+liṅga+kṛt)

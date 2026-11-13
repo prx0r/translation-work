@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p19",
  "verse": 472,
- "question": "On which auspicious times may the rite be performed?",
+ "question": "What natural origins are attributed to nourishing ritual or dietary substances here?",
  "premises": [
-  "Tuesday is named",
-  "Midnight is named",
-  "An auspicious new-moon day is an alternative"
+  "Nourishing grain is described as born from a tree.",
+  "A substance is described as produced and made from buttermilk."
  ],
- "inference": "The rite may be performed on Tuesday at midnight or on an auspicious new-moon day",
- "uncertainties": [],
- "plain_english": "On Tuesday, at midnight, or on an auspicious new-moon day."
+ "inference": "The verse emphasizes the natural, non-violent origins of certain substances.",
+ "uncertainties": [
+  "The exact referent of the buttermilk-derived substance is not specified."
+ ],
+ "plain_english": "Nourishing grain is born from a tree, and something produced is made from buttermilk."
 }

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "na+uddhāraṃ",
+     "gloss": "not-extraction",
+     "grounds": "negated compound/object indicating absence of extraction; mantra-extraction context",
+     "morph": "compound"
+    },
+    {
+     "surface": "lekhayet",
+     "gloss": "one-should-write",
+     "grounds": "optative injunction regarding writing or inscribing",
+     "morph": "3.sg.act.opt √likh"
+    },
+    {
+     "surface": "devī",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "indeclinable indicating manifest or immediate presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇa+īśvarī",
+     "gloss": "letter-sovereign",
+     "grounds": "compound denoting the sovereign mistress of letters",
+     "morph": "compound"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "qualifies the sovereign of letters as the highest",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "In what manner must the supreme sovereign of letters not be inscribed?",
+   "premises": [
+    "The injunction prohibits writing an extraction.",
+    "The addressee is the goddess.",
+    "The supreme sovereign of letters is directly manifest."
+   ],
+   "inference": "Therefore, the supreme sovereign of letters should not be inscribed in an extracted form but recognized as directly present.",
+   "uncertainties": [
+    "The precise technical sense of uddhāra in this ritual context is not fully specified."
+   ],
+   "plain_english": "O goddess, one should not write the supreme sovereign of letters in extracted form, for she is directly manifest."
+  }
+ ]
+}

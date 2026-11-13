@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[finger](aṅgulī) [oil](taila) [anointed](liptāni) [those](tāni) [those](tāny) [arise](udbhavanti) [and](ca)
+[finger-oil-smeared](aṅgulītailaliptāni) [those](tāni) [those](tāny) [arise](udbhavanti) [and](ca)
 
 ## mukta-m0-p37-v902
-[finger](aṅgulī) [oil](taila) [anointed](liptaṃ) [indeed](tu) [equal](tulya) [form](rūpaṃ) [becomes](bhaved) [surely](dhruvam)
+[finger-oil-smeared](aṅgulītailaliptaṃ) [but](tu) [similar-form](tulyarūpaṃ) [should-be](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p37-v903
-[without](vinā) [affliction](kleśaṃ) [man](naraḥ) [goes](gacchet) [a-krośa](krośam) [one](ekaṃ) [not](na) [doubt](saṃśayaḥ)
+[without](vinā) [trouble](kleśaṃ) [man](naro) [should-go](gacchet) [one-krośa](krośam+ekaṃ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p37-v904
-[dry](śuṣkam) [interior](antaram) [with-waters](jalaiḥ) [together-with](sārddham) [seated](upaviṣṭaṃ) [not](na) [sinks](majjati)
+[dry](śuṣkam) [with-inner-waters](antar+jalaiḥ) [together](sārddham) [placed](upaviṣṭaṃ) [not](na) [sinks](majjati)
 
 ## mukta-m0-p37-v905
-[seven](sapta) [times](vāraṃ) [then](tataḥ) [wood](kāṣṭhaṃ) [anointed](liptam) [finger](aṅgulī) [arisen](sambhavam)
+[seven-times](sapta+vāraṃ) [then](tataḥ) [wood](kāṣṭhaṃ) [smeared](liptam) [finger-produced](aṅguli+sambhavam)
 
 ## mukta-m0-p37-v906
-[oil](tailam) [having-taken](ādāya) [that-anointed](talliptam) [as-before](pūrvavat) [footwear](pādukā) [motion](gatiḥ)
+[oil](tailam) [having-taken](ādāya) [smeared-with-that](tal+liptam) [as-before](pūrva+vat) [sandal-movement](pādukā+gatiḥ)
 
 ## mukta-m0-p37-v907
-[kindled](jvālitā) [lamp](dīpa) [wick](vartiḥ) [tu](tu) [burns](jvalati) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[kindled](jvālitā) [lamp-wick](dīpa+vartiḥ) [but](tu) [burns](jvalaty) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p37-v908
-[dirt](malaṃ) [and](ca) [peacock](śikhi) [root](mūlaṃ) [and](ca) [pounded](peṣitaṃ) [ass](gardabha) [bones](asthinām)
+[impurity](malaṃ) [and](ca) [peacock-root](śikhi+mūlaṃ) [and](ca) [ground](peṣitaṃ) [of-donkey-bones](gardabha+asthinām)
 
 ## mukta-m0-p37-v909
-[ten](daśa) [faces](āsyaḥ) [here](na) [atra](atra) [doubt](sandeho) [just-as](yathā) [Laṅkā](laṅkā) [lord](īśvaraḥ) [king](nṛpaḥ)
+[ten-faced](daśa+āsyo) [not](na) [here](atra) [doubt](sandeho) [as](yathā) [lord-of-laṅkā](laṅkā+īśvaro) [king](nṛpaḥ)
 
 ## mukta-m0-p37-v910
-[boar](varāhasya) [fat](vasā) [endowed-with](yuktam) [peacock](śikhi) [root](mūlam) [equal](samam) [equal](samam)
+[of-boar](varāhasya) [mixed-with-fat](vasā+yuktaṃ) [peacock-root](śikhi+mūlaṃ) [equal](samaṃ) [equal](samam)
 
 ## mukta-m0-p37-v911
-[seen](dṛśyate) [five](pañca) [faces](vakraḥ) [this](asau) [just-as](yathā) [directly](sākṣāt) [great](mahā) [lord](īśvaraḥ)
+[is-seen](dṛśyate) [five-faced](pañca+vakro) [he]('sau) [as](yathā) [directly](sākṣān) [great-lord](mahā+īśvaraḥ)
 
 ## mukta-m0-p37-v912
-[bhṛṅgī](bhṛṅgī) [seed](bījam) [intoxicant](madaḥ) [black](kṛṣṇām) [black](kṛṣṇa) [ground](bhūmau) [one-should-sow](nivāpayet)
+[bhṛṅgī-seed-intoxication](bhṛṅgī+bīja+madaḥ) [black](kṛṣṇāṃ) [on-black-ground](kṛṣṇa+bhūmau) [should-sow](nivāpayet)
 
 ## mukta-m0-p37-v913
-[that](tat) [rope](rajju) [bound](baddhaḥ) [man](puruṣo) [peacock](mayūraḥ) [seen](dṛśyate) [by-people](janaiḥ)
+[bound-by-its-rope](tad+rajju+baddhaḥ) [man](puruṣo) [peacock](mayūro) [is-seen](dṛśyate) [by-people](janaiḥ)
 
 ## mukta-m0-p37-v914
-[that](tam) [they-see](prapaśyanti) [cat](mārjāram) [men](manuṣyāḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[him](taṃ) [see](prapaśyanti) [cat](mārjāraṃ) [people](manuṣyā) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p37-v915
-[peacock](mayūra) [mouth](āsye) [just-as](yathā) [bhārṅgī](bhārṅgī) [goes](yāti) [perfection](siddhiḥ) [ca](ca) [such](tādṛśī)
+[in-peacock-mouth](mayūra+āsye) [as](yathā) [bhṛṅgī](bhārṅgī) [goes](yāti) [success](siddhiś) [and](ca) [such](tādṛśī)
 
 ## mukta-m0-p37-v916
-[born](jātaṃ) [fruit](phalaṃ) [one-should-throw](kṣipet) [in-mouth](vakre) [woman](strī) [form](rūpo) [seen](dṛśyate) [man](pumān)
+[born](jātaṃ) [fruit](phalaṃ) [should-throw](kṣiped) [in-mouth](vakre) [woman-form](strī+rūpo) [is-seen](dṛśyate) [man](pumān)
 
 ## mukta-m0-p37-v917
-[that](tat) [ca](ca) [black](kṛṣṇa) [fourteenth](caturdaśyāṃ) [all](sarva) [seeds](bījaiḥ) [endowed-with](anvitaṃ) [one-should-sow](vapet)
+[that](tac) [and](ca) [on-dark-fourteenth](kṛṣṇa+caturdaśyāṃ) [endowed-with-all-seeds](sarva+bīja+anvitaṃ) [should-sow](vapet)
 
 ## mukta-m0-p37-v918
-[one-should-bury](nikhanet) [black](kṛṣṇa) [ground](bhūmyāṃ) [tu](tu) [offering](bali) [worship](pūjā) [together-with](samanvitam)
+[should-bury](nikhanet) [in-black-ground](kṛṣṇa+bhūmyāṃ) [but](tu) [accompanied-by-offering-worship](bali+pūjā+samanvitam)
 
 ## mukta-m0-p37-v919
-[that](tat) [that](tat) [seed](bīje) [made](kṛte) [in-mouth](vakre) [that](tat) [that](tat) [form](rūpaṃ) [becomes](bhaved) [surely](dhruvam)
+[in-that-respective-seed](tat+tat+bīje) [done](kṛte) [in-mouth](vakre) [that-respective-form](tat+tat+rūpaṃ) [should-be](bhaved) [certainly](dhruvam)
 
 ## mukta-m0-p37-v920
-[released](mukta) [seed](bījaḥ) [becomes](bhavet) [healthy](svastho) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
+[released-from-seed](mukta+bījo) [should-be](bhavet) [healthy](svastho) [not](na) [here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p37-v921
-[that-anointed](tallipta) [cloth](vastraṃ) [on-head](śirasi) [situated](sthitaṃ) [sees](paśyati) [like-fire](vahnivat)
+[that-smeared-cloth](tal+lipta+vastraṃ) [on-head](śirasi) [placed](sthitaṃ) [sees](paśyati) [like-fire](vahni+vat)
 
 ## mukta-m0-p37-v922
-[thus](tathaiva) [vāṅkola](vāṅkola) [oil](tailena) [sparkles](sphurati) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[likewise](tathaiva) [with-vāṅkola-oil](vāṅkola+tailena) [shines](sphuraty) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p37-v923
-[that-anointed](tallipta) [cloth](vastra) [bearing](dhṛk) [ca](ca) [that](asau) [at-night](rātrau) [seen](saṃdṛśyate) [like-fire](agnivat)
+[holder-of-that-smeared-cloth](tal+lipta+vastra+dhṛk) [and](ca) [he](asau) [at-night](rātrau) [is-seen](saṃdṛśyate) [like-fire](agni+vat)
 
 ## mukta-m0-p37-v924
-[at-night](rātrau) [seen](saṃdṛśyate) [light](jyotiḥ) [in-that](tasmin) [place](sthāne) [tu](tu) [curiosity](kautukam)
+[at-night](rātrau) [is-seen](saṃdṛśyate) [light](jyotis) [in-that](tasmin) [place](sthāne) [but](tu) [wonder](kautukam)
 
 ## mukta-m0-p37-v925
-[anointed](añjita) [eyes](akṣo) [man](naraḥ) [may-see](paśyet) [at-midday](madhyāhne) [starry](tārakāmayam]
+[anointed-eyed](añjita+ākṣo) [man](naraḥ) [should-see](paśyen) [at-midday](madhyāhne) [consisting-of-stars](tārakā+mayam)

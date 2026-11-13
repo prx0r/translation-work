@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "brahmavidyā",
+     "gloss": "brahman-knowledge",
+     "grounds": "tatpuruṣa compound identifying Kālī's essential nature",
+     "morph": "compound(brahman+vidyā).f.nom.sg"
+    },
+    {
+     "surface": "svarūpā",
+     "gloss": "own-nature",
+     "grounds": "bahuvrīhi compound meaning 'whose very nature is'; predicate of sā",
+     "morph": "compound(sva+rūpa).f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "anaphoric pronoun referring to Kālī named in the previous verse",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "bhuktimukti",
+     "gloss": "enjoyment-liberation",
+     "grounds": "dvandva compound denoting the two goals; first member of phalapradā",
+     "morph": "compound(bhukti+mukti)"
+    },
+    {
+     "surface": "phalapradā",
+     "gloss": "fruit-bestowing",
+     "grounds": "compound with agentive final member pradā; predicate describing Kālī",
+     "morph": "compound(phala+pradā).f.nom.sg"
+    }
+   ],
+   "question": "In what essential nature and with what fruits is Kālī identified?",
+   "premises": [
+    "Kālī is identified as brahmavidyā in essence.",
+    "Her own nature is characterized as that supreme knowledge.",
+    "She bestows the fruits of both enjoyment and liberation."
+   ],
+   "inference": "Kālī embodies the knowledge of Brahman and grants both worldly enjoyment and final liberation.",
+   "uncertainties": [
+    "The precise compound analysis of svarūpā as bahuvrīhi or karmadhāraya is context-dependent but yields a similar sense."
+   ],
+   "plain_english": "She is of the nature of the knowledge of Brahman, and she bestows the fruits of both enjoyment and liberation."
+  }
+ ]
+}

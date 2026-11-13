@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[place](sthāpayet) [ghee-vessel](ghṛta+bhāṇḍe) [but](tu) [auspicious-madana-modaka](śrīman+madana+modakam)
+[should-place](sthāpayed) [ghee+vessel](ghṛta+bhāṇḍe) [indeed](tu) [glorious+madana-delight](śrī+madanamodakam)
 
 ## mukta-m0-p17-v402
-[increases](pravṛddham) [fire](agnim) [makes](kurute) [weak-fire](mandam+agnim) [kindles](pradīpayet)
+[increased+fire](pravṛddham+agniṃ) [makes](kurute) [weak+fire](mandam+agniṃ) [kindles](pradīpayet)
 
 ## mukta-m0-p17-v403
-[of-thin](kṛśānām) [of-very-dry](atirūkṣāṇām) [oleation](snehanaṃ) [fatness-cause](sthaulya+kāraṇam)
+[of-emaciated](kṛśānām) [of-very-dry](atirūkṣāṇāṃ) [oleation](snehanaṃ) [stoutness+cause](sthaulya+kāraṇam)
 
 ## mukta-m0-p17-v404
-[all-disease-removing](sarva+roga+haram) [indeed](hi) [this](etat) [grahaṇī-removing](saṃgraha+grahaṇī+haram)
+[all+disease+removing](sarva+roga+haraṃ) [indeed+this](hi+etat) [constipation+dysentery+removing](saṃgraha+grahaṇī+haram)
 
 ## mukta-m0-p17-v405
-[by-constant-practice](satata+abhyāsāt) [old](vṛddhaḥ) [also](api) [becomes-youthful](taruṇāyate)
+[of-this](etasya) [constant+practice](satata+abhyāsād) [old](vṛddhaḥ) [even](api) [becomes-youthful](taruṇāyate)
 
 ## mukta-m0-p17-v406
-[by-whom](yena) [lakhs](lakṣaiḥ) [best-women](vara+strīṇām) [enjoyed](araṃsta) [yadunandana](yadunandanaḥ)
+[by-which](yena) [with-hundreds-of-thousands](lakṣaiḥ) [of-excellent-women](vara+strīṇām) [enjoyed](araṃsta) [Yadu+delighter](yadu+nandanaḥ)
 
 ## mukta-m0-p17-v407
-[musali](muśalī) [banana-rhizome-juices](kadalī+kanda+dravaiḥ) [ca](ca) [rub](mardayet) [day](dinam)
+[with-muśalī](muśalī) [with-banana+tuber+juices](kadalī+kanda+dravaiḥ) [and](ca) [should-grind](mardayet) [for-a-day](dinam)
 
 ## mukta-m0-p17-v408
-[puṭa](puṭaṃ) [give](deyaṃ) [again](punar) [rub](mardyam) [thus](evam) [eight-puṭas](aṣṭa+puṭaiḥ) [cook](pacet)
+[heating](puṭaṃ) [should-be-given](deyaṃ) [again+should-be-ground](punar+mardyam) [thus](evam) [with-eight+heatings](aṣṭa+puṭaiḥ) [should-cook](pacet)
 
 ## mukta-m0-p17-v409
-[cow-milk](godugdhaṃ) [monkey-seeds](markaṭī+bījaiḥ) [half-pala](palārddhaṃ) [cook](pācayet) [then](anu)
+[cow+milk](go+dugdhaṃ) [with-markaṭī+seeds](markaṭī+bījaiḥ) [half+pala](pala+ārddhaṃ) [should-cook](pācayet) [afterwards](anu)
 
 ## mukta-m0-p17-v410
-[whole-body-anointing](sarva+aṅga+udvarttanaṃ) [do](kuryāt) [own-juices](svarasaiḥ) [śālmalī-juices](śālmalī+rasaiḥ)
+[all+limb+unction](sarva+aṅga+udvarttanaṃ) [should-do](kuryāt) [with-juices](svarasaiḥ) [with-śālmalī+juices](śālmalī+rasaiḥ)
 
 ## mukta-m0-p17-v411
-[rubbed](marditaṃ) [sand-apparatus](vālukā+yantra) [yāma](yāmaṃ) [sealed](saṃpuṭagaṃ) [cook](pacet)
+[ground](marditaṃ) [in-sand+apparatus](vālukā+yantre) [for-a-watch](yāmaṃ) [in-closed-crucible+placed](saṃpuṭa+gaṃ) [should-cook](pacet)
 
 ## mukta-m0-p17-v412
-[as-desired](yatheṣṭaṃ) [eat](bhakṣayet) [ca](ca) [food](annaṃ) [desire](kāmayet) [hundred-women](kāminī+śatam)
+[as-desired](yatheṣṭaṃ) [should-eat](bhakṣayet) [and](ca) [food](annaṃ) [should-enjoy](kāmayet) [of-women+hundred](kāminī+śatam)
 
 ## mukta-m0-p17-v413
-[dead-gold](mṛta+hemnaḥ) [tu](tu) [one-karṣa](karṣa+ekam) [one-pala](pala+ekam) [ca](ca) [dead-mica](mṛta+abhrakam)
+[of-calcined+gold](mṛta+hemnaḥ) [indeed](tu) [karṣa+one](karṣa+ekaṃ) [pala+one](pala+ekaṃ) [and](ca) [calcined+mica](mṛta+abhrakam)
 
 ## mukta-m0-p17-v414
-[rudra-gajapuṭas](rudraiḥ+gaja+puṭaiḥ) [cook](pacyāt) [one-day-end](dina+ekānte) [take-out](samuddharet)
+[with-rudra](rudraiḥ) [with-gaja+heatings](gaja+puṭaiḥ) [should-cook](pacyāt) [day+one+end](dina+eka+ante) [should-take-out](samuddharet)
 
 ## mukta-m0-p17-v415
-[anaṅgasundarī](anaṅga+sundarīṃ) [eat](khādet) [enjoy](ramet) [vā](vā) [three-hundred-women](aśata+trayam)
+[Anaṅgasundarī](anaṅgasundarīṃ) [should-eat](khādet) [should-enjoy](ramet) [women+hundred+three](vāmā+śata+trayam)
 
 ## mukta-m0-p17-v416
-[one-pala](pala+ekam) [with-sugar](sitayā) [ca](ca) [food](annaṃ) [eat](bhakṣayet) [desire-hundred](kāmayet+śatam)
+[pala+one](pala+ekaṃ) [with-sugar](sitayā) [and](ca) [food](annaṃ) [should-eat](bhakṣayet) [should-enjoy+hundred](kāmayet+śatam)
 
 ## mukta-m0-p17-v417
-[placing](nikṣipya) [banana-rhizome](kadalī+kande) [again](punar) [smear](lepyaṃ) [ca](ca) [cow-dung](gomayaiḥ)
+[having-placed](nikṣipya) [in-banana+tuber](kadalī+kande) [again+to-be-smeared](punar+lepyaṃ) [and](ca) [with-cow-dung](gomayaiḥ)
 
 ## mukta-m0-p17-v418
-[thus](evaṃ) [seven-puṭas](sapta+puṭaiḥ) [cook](pacyāt) [rhizome](kandaiḥ) [rhizome](kandaṃ) [separate-separate](pṛthak+pṛthak)
+[thus](evaṃ) [with-seven+heatings](sapta+puṭaiḥ) [should-cook](pacyāt) [with-tubers](kandaiḥ) [tuber](kandaṃ) [separately+separately](pṛthak+pṛthak)
 
 ## mukta-m0-p17-v419
-[dolā-apparatus](dolā+yantra) [ca](ca) [joined](saṃyuktaṃ) [goat-milk](chāgī+dugdhe) [again](punaḥ) [cook](pacet)
+[in-dolā+apparatus](dolā+yantre) [and](ca) [combined](saṃyuktaṃ) [in-goat+milk](chāgī+dugdhe) [again](punaḥ) [should-cook](pacet)
 
 ## mukta-m0-p17-v420
-[gajapippali](gajapippalikā) [parched-rice](lājā) [banana](kadalyā) [kokilākṣa](kokilākṣakaiḥ)
+[gaja-pippalī](gajapippalikā) [parched-grain](lājā) [banana](kadalyā) [with-kokilākṣa](kokilākṣakaiḥ)
 
 ## mukta-m0-p17-v421
-[taking-out](uddhṛtya) [powder](cūrṇayet) [pure](svacchaṃ) [eat](bhakṣayet) [guñjā-four](guñjā+catuṣṭayam)
+[having-taken-out](uddhṛtya) [should-pulverize](cūrṇayet) [pure](svacchaṃ) [should-eat](bhakṣayet) [guñjā+four](guñjā+catuṣṭayam)
 
 ## mukta-m0-p17-v422
-[of-women](kāminīnām) [thousand-one](sahasra+ekam) [agitate](kṣobhayet) [in-blink](nimiṣa+antare)
+[of-women](kāminīnāṃ) [thousand+one](sahasra+ekaṃ) [should-agitate](kṣobhayet) [in-twinkling+end](nimiṣa+antare)
 
 ## mukta-m0-p17-v423
-[kokilākṣa-seeds](kokilākṣasya+bījāni) [fruit](phalaṃ) [guṇa-śatāvarī](guṇa+śatāvarī)
+[of-kokilākṣa](kokilākṣasya) [seeds](bījāni) [fruit](phalaṃ) [guṇa+śatāvarī](guṇa+śatāvarī)
 
 ## mukta-m0-p17-v424
-[half-pala](palārddham) [vehicle](anupānaṃ) [syāt](syāt) [somewhat](kiṃcit) [drinkable](peyaṃ) [cow-milk](gavāṃ+payaḥ)
+[half+pala](pala+ārddham) [vehicle](anupānaṃ) [should-be](syāt) [a-little](kiṃcit) [to-be-drunk](peyaṃ) [of-cows](gavāṃ) [milk](payaḥ)
 
 ## mukta-m0-p17-v425
-[yāma-one](yāma+ekam) [again](punar) [fragrance](gandhaṃ) [previous-half](pūrva+arddhaṃ) [place](vinikṣipet)
+[watch+one](yāmam+ekaṃ) [again](punar) [sulphur](gandhaṃ) [of-former+half](pūrva+ādarddhaṃ) [should-put-in](vinikṣipet)

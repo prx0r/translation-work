@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[hatred](vidveṣaḥ) [arises](jāyate) [there](tatra) [great-wonder](mahākautukam) [amazing](adbhutam)
+[hatred](vidveṣo) [is-born](jāyate) [there](tatra) [great+wonder](mahā+kautukam) [marvelous](adbhutam)
 
 ## mukta-m0-p34-v827
-[mantra](oṃ namo mahābhairavāya ca śmaśānavāsinyai amukāmukayorvidveṣaṃ kuru kuru krūṃ phaṭ)
+[oṃ](oṃ) [obeisance](namo) [to-great-bhairava](mahābhairavāya) [and](ca) [to-cremation-ground-dweller](śmaśānavāsinyai) [of-so-and-so-and-so-and-so+hatred](amukāmukayor+vidveṣaṃ) [do](kuru) [do](kuru) [krūṃ](krūṃ) [phaṭ](phaṭ)
 
 ## mukta-m0-p34-v828
-[red](rakta) [horse](aśva) [māra-flower](mārapuṣpa) [one](ekaṃ) [mantra-joined](mantrayuktaṃ) [water-palmful](jalāñjalim)
+[red+nerium+flower+one](rakta+aśvamāra+puṣpa+ekaṃ) [mantra+endowed](mantra+yuktam) [water+offering](jala+añjalim)
 
 ## mukta-m0-p34-v829
-[mutual](parasparam) [hatred](dveṣaḥ) [becomes](bhavet) [siddhi-yoga](siddhayogaḥ) [declared](udāhṛtaḥ)
+[mutually](parasparaṃ) [may-be](bhaved) [hatred](dveṣaḥ) [accomplished+method](siddha+yogaḥ) [declared](udāhṛtaḥ)
 
 ## mukta-m0-p34-v830
-[mantra](oṃ amukaṃ hana hana svāhā) [with-this-mantra](anena mantreṇa) [pungent-oil-smeared](kaṭutailāktaṃ) [three-pungents](trikaṭuṃ) [offer](juhuyāt) [then](tadā) [enemy](śatruḥ) [deaf](badhiraḥ) [becomes](bhavati)
+[oṃ](oṃ) [so-and-so](amukaṃ) [kill](hana) [kill](hana) [svāhā](svāhā) [by-this](anena) [mantra](mantreṇa) [pungent-oil+smeared](kaṭu+taila+āktaṃ) [three-pungents](trikaṭuṃ) [one-should-offer](juhuyāt) [then](tadā) [enemy](śatrur) [deaf](badhiro) [becomes](bhavati)
 
 ## mukta-m0-p34-v831
-[throw-on-body](kṣipedgātre) [becomes-leprosy](bhavetkuṣṭhaṃ) [white-milk](sitākṣīraṃ) [drink](pibet) [happy](sukhī)
+[if-thrown](kṣiped) [on-body](gātre) [becomes](bhavet) [leprosy](kuṣṭhaṃ) [white+milk](sita+ākṣīraṃ) [if-drinks](pibet) [happy](sukhī)
 
 ## mukta-m0-p34-v832
-[tagara](tagaraṃ) [grind-with-water](peṣayettoyaiḥ) [anoint](lepāt) [spider-etc-destruction](lūtādināśanam)
+[tagara](tagaraṃ) [one-should-grind](peṣayet) [with-waters](toyair) [by-anointing](lepāl) [spider+etc.+destruction](lūtā+ādi+nāśanam)
 
 ## mukta-m0-p34-v833
-[mantra](oṃ cāmuṇḍe hana hana daha daha paca paca matha matha calha calha amukaṃ gṛhṇa gṛhṇa svāhā) [with-this](anena) [pungent-oil-smeared](kaṭutailenākta) [neem-leaves](nimbatrāṇi) [whose](yasya) [name](nāmnā) [offered](hūyante) [his](tasya) [quickly](śīghraṃ) [fever](jvaraḥ) [becomes](bhavati) [thousand-citraka-flowers](citrakapuṣpasahasraṃ) [offer](hunet) [quartan-fever](cāturthikajvaraḥ) [becomes](bhavati) [salt-eight-thousand-plus](lavaṇamaṣṭādhikasahasraṃ) [offer](hunet) [burning-fever](dāhajvaraḥ) [becomes](bhavati)
+[oṃ](oṃ) [cāmuṇḍe](cāmuṇḍe) [kill](hana) [kill](hana) [burn](daha) [burn](daha) [cook](paca) [cook](paca) [churn](matha) [churn](matha) [move](calha) [move](calha) [so-and-so](amukaṃ) [seize](gṛhṇa) [seize](gṛhṇa) [svāhā](svāhā) [by-this](anena) [pungent-oil](kaṭu+tailena) [smeared](ākta) [neem+leaves](nimba+patrāṇi) [of-whom](yasya) [by-name](nāmnā) [are-offered](hūyante) [of-him](tasya) [quickly](śīghraṃ) [fever](jvaro) [becomes](bhavati) [citraka+flower+thousand](citraka+puṣpa+sahasraṃ) [one-should-offer](hunet) [quartan+fever](cāturthika+jvaro) [becomes](bhavati) [salt](lavaṇam) [eight+more+thousand](aṣṭa+adhika+sahasraṃ) [one-should-offer](hunet) [burning+fever](dāha+jvaro) [becomes](bhavati)
 
 ## mukta-m0-p34-v834
-[mantra](oṃ cāmuṇḍe hana hana daha daha paca paca amukaṃ gṛhṇa gṛhṇa svāhā) [with-this-mantra](anena mantreṇa) [neem-leaf-pungent-oil](nimbapatrakaṭutailaṃ) [target-name](sādhyanāma) [taking](gṛhītvā) [offer](juhuyāt) [he](saḥ) [by-fever](jvareṇa) [seized](gṛhyate) [with-this](anena) [salt-offerings-eight-thousand](lavaṇāhutīraṣṭasahasraṃ) [offer](juhuyāt) [he](saḥ) [by-spear](śūlena) [seized](gṛhyate)
+[oṃ](oṃ) [cāmuṇḍe](cāmuṇḍe) [kill](hana) [kill](hana) [burn](daha) [burn](daha) [cook](paca) [cook](paca) [so-and-so](amukaṃ) [seize](gṛhṇa) [seize](gṛhṇa) [svāhā](svāhā) [by-this](anena) [mantra](mantreṇa) [neem+leaf+pungent-oil](nimba+patraka+kaṭu+tailaṃ) [target+name](sādhya+nāma) [having-taken](gṛhītvā) [one-should-offer](juhuyāt) [he](sa) [by-fever](jvareṇa) [is-seized](gṛhyate) [by-this](anena) [salt+oblations](lavaṇa+āhutīr) [eight+thousand](aṣṭa+sahasraṃ) [one-should-offer](juhuyāt) [he](sa) [by-colic](śūlena) [is-seized](gṛhyate)
 
 ## mukta-m0-p34-v835
-[mantra](oṃ namaḥ śrīnṛsiṃhāya devāya danujāraye namaḥ kṛṣṇāya)
+[oṃ](oṃ) [obeisance](namaḥ) [to-glorious-nṛsiṃha](śrī+nṛsiṃhāya) [to-god](devāya) [to-demon+enemy](danuja+āraye) [obeisance](namaḥ) [to-kṛṣṇa](kṛṣṇāya)
 
 ## mukta-m0-p34-v836
-[mantra](oṃ namo bhagavate rudrāya uḍḍāmareśvarāya amukaṃ rogeṇa gṛhṇa gṛhṇa paca paca tāḍaya tāḍaya kledaya kledaya hūṃ phaṭ svāhā ṭhaḥ ṭhaḥ) [of-spoken-yogas](uktayogānām) [this](ayaṃ) [mantra](mantraḥ)
+[oṃ](oṃ) [obeisance](namo) [to-lord](bhagavate) [to-rudra](rudrāya) [to-uḍḍāmareśvara](uḍḍāmareśvarāya) [so-and-so](amukaṃ) [by-disease](rogeṇa) [seize](gṛhṇa) [seize](gṛhṇa) [cook](paca) [cook](paca) [strike](tāḍaya) [strike](tāḍaya) [moisten](kledaya) [kledaya](kledaya) [hūṃ](hūṃ) [phaṭ](phaṭ) [svāhā](svāhā) [ṭhaḥ](ṭhaḥ) [ṭhaḥ](ṭhaḥ) [of-stated+methods](ukta+yogānām) [this](ayaṃ) [mantra](mantraḥ)
 
 ## mukta-m0-p34-v837
-[five-fingers](pañcāṅgulaṃ) [enemy-house](riporgehe) [fire-diminution](vahnimāndyaṃ) [arises](prajāyate)
+[five+finger-plant](pañcāṅgulaṃ) [of-enemy](ripoḥ) [in-house](gehe) [fire+weakness](vahni+māndyaṃ) [is-produced](prajāyate)
 
 ## mukta-m0-p34-v838
-[prostitute](bandhakyāḥ) [belly](udaraṃ) [placed](nyastaṃ) [all](sarvam) [inside-pot](antaḥpuṭe) [cook](pacet)
+[of-prostitute](bandhakyā) [belly](udaraṃ) [placed](nyastaṃ) [all](sarva) [inside](maṃtaḥ) [in-vessel](puṭe) [one-should-cook](pacet)
 
 ## mukta-m0-p34-v839
-[food-drink](khāne pāne) [give-to-whom](arapyedyasya) [his](tasya) [eye](cakṣuḥ) [perishes](praṇaśyati)
+[in-food](khāne) [in-drink](pāne) [one-should-give](arpayed) [to-whom](yasya) [of-him](tasya) [eye](cakṣuḥ) [is-destroyed](praṇaśyati)
 
 ## mukta-m0-p34-v840
-[sight](dṛṣṭiṃ) [to-still](stambhayituṃ) [his](tasya) [pepper-akṣa-fruit](maricākṣaphalaṃ) [vacā](vacā)
+[sight](dṛṣṭiṃ) [to-paralyze](stambhayituṃ) [of-him](tasya) [pepper+terminalia-bellerica+fruit](marica+akṣa+phalaṃ) [vacā](vacā)
 
 ## mukta-m0-p34-v841
-[eye-disease](akṣirogaḥ) [becomes](bhavati)
+[eye+disease](akṣi+rogo) [becomes](bhavati)
 
 ## mukta-m0-p34-v842
-[clay-pot](mṛtpātra) [seven-cloths](saptavastra) [akṣa-wood](akṣakāṣṭha) [stir](cālayet)
+[clay+vessel+placed](mṛt+pātra+sthaṃ) [seven+cloth](sapta+vastram) [with-rosary+wood](akṣa+kāṣṭhena) [one-should-stir](cālayet)
 
 ## mukta-m0-p34-v843
-[place](sthāpayet) [long-journey](dirghayātrā) [becomes](syāt) [his](tasya) [also](api) [no](na) [doubt](saṃśayaḥ)
+[one-should-place](sthāpayed) [long+journey](dīrgha+yātrā) [would-be](syāt) [of-him](tasyāpi) [not](na) [indeed](hi) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p34-v844
-[enemy-house](riporgehe) [soma-star](somaṛkṣe) [long-journey](dīrghayātrā) [and](ca) [his](tasya) [indeed](vai)
+[of-enemy](ripoḥ) [in-house](gehe) [in-monday+lunar-mansion](soma+ṛkṣe) [long+journey](dīrgha+yātrā) [and](ca) [of-him](tasya) [indeed](vai)
 
 ## mukta-m0-p34-v845
-[given](dattvā) [mad](unmattaḥ) [becomes-enemy](bhavecchatruḥ) [white-milk](sitākṣīraiḥ) [again](punaḥ) [happy](sukhī)
+[given](dattva) [mad](unmatto) [becomes](bhavec) [enemy](chatruḥ) [with-white+milk](sita+ākṣīraiḥ) [again](punaḥ) [happy](sukhī)
 
 ## mukta-m0-p34-v846
-[liquor-meat-white-milk](surāmāṃsasitākṣīraṃ) [by-eating](bhakṣaṇāt) [ca](ca) [happiness-bringing](sukhāvaham)
+[wine+meat+white+milk](surā+māṃsa+sita+ākṣīraṃ) [by-eating](bhakṣaṇāc) [and](ca) [happiness+producing](sukha+āvaham)
 
 ## mukta-m0-p34-v847
-[given](dattaṃ) [whose](yasya) [collyrium](añjanaṃ) [eye](netre) [mad](unmattaḥ) [he](asau) [becomes](prajāyate)
+[given](dattaṃ) [of-whom](yasya) [collyrium](añjanaṃ) [in-eye](netre) [mad](unmatto) [he](asau) [becomes](prajāyate)
 
 ## mukta-m0-p34-v848
-[goat-milk](ajākṣīreṇa) [joined](saṃyojyaṃ) [drink](pānena) [madness-destruction](unmattanāśanam)
+[with-goat+milk](aja+ākṣīreṇa) [to-be-mixed](saṃyojyaṃ) [by-drinking](pānena) [madness+destruction](unmatta+nāśanam)
 
 ## mukta-m0-p34-v849
-[on-his-head](tanmūrdhni) [given](dattaṃ) [makes](kurute) [like-piśāca](piśācavat) [returns](nivarttate) [shaved-head](muṇḍitamastakena)
+[on-his+head](tan+mūrdhni) [given](dattaṃ) [makes](kurute) [like-demon](piśāca+vat) [turns-back](nivarttate) [with-shaved+head](muṇḍita+mastakena)
 
 ## mukta-m0-p34-v850
-[fruit-end](phalasyānte) [to-be-given](pradātavyam) [mad](unmattaḥ) [by-eating](bhakṣaṇāt) [becomes](bhavet)
+[of-fruit](phalasya) [at-end](ante) [to-be-given](pradātavyam) [mad](unmatto) [by-eating](bhakṣaṇād) [becomes](bhavet)
