@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[produced](janitaiḥ) [by-pains](duḥkhaiḥ) [thus](iti) [meaning](arthaḥ)
+[produced](janitaiḥ) [by-sorrows](duḥkhaiḥ) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v802
-[that-absorbed](tanmayaḥ) [one-should-become](bhavet) [in-that-ego](tat+ahaṅkāre) [own-ego](sva+ahaṅkāraṃ) [one-should-dissolve](vilāpayet) [thus](iti) [meaning](arthaḥ)
+[absorbed-in-that](tanmayaḥ) [should-become](bhavet) [that](tat) [in-egoism](ahaṅkāre) [one's-own-egoism](sva+ahaṅkāraṃ) [should-dissolve](vilāpayet) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v803
-[contemplating](bhāvayan) [with-objects](viṣayaiḥ) [with-flowers](puṣpaiḥ) [worshipping](pūjayan) [that-absorbed](tanmayaḥ) [one-should-become](bhavet)
+[contemplating](bhāvayan) [with-objects](viṣayaiḥ) [with-flowers](puṣpaiḥ) [worshipping](pūjayan) [absorbed-in-that](tanmayaḥ) [should-become](bhavet)
 
 ## mukta-m0-p33-v804
-[of-this](asyāḥ) [from-manifestation](niṣphālanāt) [in-mind](citte) [that-truth](tat+tattvaṃ) [made-one-with-own-self](sva+ātma+sāt+kṛtam)
+[of-this](asyāḥ) [by-fructification](niṣphālanāt) [in-mind](citte) [that](tat) [truth](tatvaṃ) [made-one's-own-self](sva+ātma+sātkṛtam)
 
 ## mukta-m0-p33-v805
-[completely](pari) [full](pūrṇaṃ) [thoroughly](parā) [grasped](mṛṣṭam)
+[fully-complete](paripūrṇaṃ) [thoroughly-grasped](parāmṛṣṭam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v806
-[kāmeśvarī](kāmeśvarī) [thus](iti) [they](tāḥ) [givers-of-all-desires](sarva+kāma+dāḥ) [hear](śṛṇu) [in-truth](tattvataḥ)
+[kāmeśvarī](kāmeśvarī) [thus](iti) [they](tāḥ) [all-desire-giving](sarva+kāma+dāḥ) [hear](śṛṇu) [in-truth](tattvataḥ)
 
 ## mukta-m0-p33-v807
-[their-yoga-divisions](tat+yoga+bedān) [their-diagrams](tat+yantrāṇi) [and](ca) [givers-of-desired-objects](abhīṣṭa+artha+pradāni)
+[their](tat) [yoga-divisions](yoga+bedān) [and-their](tat) [yantras](yantrāṇi) [desired-object-granting](abhīṣṭa+artha+pradāni) [and](ca)
 
 ## mukta-m0-p33-v808
-[with-root-vidyā-syllables](mūla+vidyā+akṣaraiḥ) [thus](evaṃ) [one-should-make](kuryāt) [limbs](aṅgāni) [in-order-of-six](ṣaṭ+kramāt)
+[with-root-vidyā-syllables](mūla+vidyā+akṣaraiḥ) [thus](evaṃ) [should-make](kuryāt) [limbs](aṅgāni) [six](ṣaṭ) [in-order](kramāt)
 
 ## mukta-m0-p33-v809
 [with-four](caturbhiḥ) [eye](nayanaṃ) [likewise](tadvat) [and](ca) [weapon](astram) [with-one](ekena) [declared](coditam)
 
 ## mukta-m0-p33-v810
-[and](ca) [ending-with](iti+antena) [with-pair-of-verses](śloka+dvayena) [meaning-of-section](paṭala+arthān) [teaches](upadiśati) [there](tatra) [in-truth](tatvataḥ) [as-it-is](yathāvat)
+[and](ca) [with-thus-ending](iti+antena) [with-two-verses](śloka+dvayena) [chapter-meanings](paṭala+arthān) [teaches](upadiśati) [there](tatra) [in-truth](tatvataḥ) [as-it-is](yathāvat)
 
 ## mukta-m0-p33-v811
-[her-powers](tat+śaktīḥ) [consisting-of-her-retinue](tat+āvaraṇa+bhūtāḥ) [powers](śaktīḥ) [thus](iti) [meaning](arthaḥ)
+[her](tat) [powers](śaktīḥ) [her-enclosing-powers](tat+āvaraṇa+bhūtāḥ) [powers](śaktīḥ) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v812
 [by-pervasiveness](vyāpakatvena) [in-whole-body](sarva+aṅge) [from-head](mūrdhva+ādi) [up-to-feet](prapada+avadhi)
 
 ## mukta-m0-p33-v813
-[with-whole](samastena) [pervasion](vyāpakan) [indeed](tu) [one-should-make](kuryāt) [by-stated-method](ukta+krameṇa) [indeed](vai)
+[with-whole](samastena) [pervasion](vyāpakan) [but](tu) [should-make](kuryāt) [by-stated-method](ukta+krameṇa) [indeed](vai)
 
 ## mukta-m0-p33-v814
 [by-which](yena) [goddess](devī) [well-pleased](suprasannā) [gives](dadāti) [desired-object](iṣṭam) [without-effort](ayatnataḥ)
 
 ## mukta-m0-p33-v815
-[with-garlands](hāra) [necklaces](grevaiya) [girdles](kāñcībhiḥ) [with-rings](ūrmikā) [anklets](nūpura) [and-others](ādibhiḥ)
+[with-garlands](hāra) [with-necklaces](grevaiya) [with-girdles](kāñcībhiḥ) [with-rings](ūrmikā) [with-anklets-etc.](nūpura+ādibhiḥ)
 
 ## mukta-m0-p33-v816
-[six-armed](ṣaḍ+bhujāṃ) [three-eyed](trī+kṣaṇām) [with-crescent-moon-adorned-crest](indu+kalā+kalita+maulikām)
+[six-armed](ṣaḍ+bhujāṃ) [three-eyed](tri+īkṣaṇām) [moon-digit-adorned-crest](indu+kalā+kalita+maulikām)
 
 ## mukta-m0-p33-v817
-[with-face-shining-with-gentle-smile](manda+smita+ullasat+vaktrāṃ) [with-glance-slowed-by-compassion](dayā+manthara+vīkṣaṇām)
+[gentle-smile-beaming-face](manda+smita+ullasat+vaktrāṃ) [compassion-slowed-gaze](dayā+manthara+vīkṣaṇām) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v818
-[thus](iti) [and-others](ādibhiḥ) [and-so-forth](iti) [etcetera](ādibhiḥ)
+[thus](iti) [beginning-with](ādibhiḥ) [and-so-on](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v819
-[again](punar+api) [one-should-make](kuryāt) [thus](iti) [meaning](arthaḥ)
+[again](punar) [also](api) [should-make](kuryāt) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p33-v820
-[of-the-fifteen](pañcadaśānāṃ) [nityās](nityānāṃ) [common](sādhāraṇaṃ) [name](nāma)
+[of-fifteen](pañcadaśānāṃ) [of-nityās](nityānāṃ) [common](sādhāraṇaṃ) [name](nāma)
 
 ## mukta-m0-p33-v821
-[holding](bibhratīṃ) [with-hands](karaiḥ) [jewel-vessel](rata+pātraṃ) [filled-with-nectar](sudhā+pūrṇaṃ) [boon-giving](varadaṃ)
+[jewel-vessel](rata+pātraṃ) [nectar-filled](sudhā+pūrṇaṃ) [boon-giving](vara+daṃ) [holding](bibhratīṃ) [with-hands](karaiḥ)
 
 ## mukta-m0-p33-v822
-[in-applications](prayoga+ādiṣu) [everywhere](sarvatra) [I-shall-tell](vakṣye) [meditations](dhyānāni) [there](tatra) [indeed](vai)
+[in-applications-etc.](prayoga+ādiṣu) [everywhere](sarvatra) [I-shall-tell](vakṣye) [meditations](dhyānāni) [there](tatra) [indeed](vai)
 
 ## mukta-m0-p33-v823
-[and-drying](śoṣaṇaḥ) [and](ca) [thus](iti) [declared](kathitāḥ) [arrows](bāṇāḥ) [five](pañca) [previously-stated](puraḥ+uditāḥ)
+[and-drying](śoṣaṇaḥ) [and](ca) [thus](iti) [declared](kathitāḥ) [arrows](bāṇāḥ) [five](pañca) [previously-stated](puroditāḥ)
 
 ## mukta-m0-p33-v824
-[preceded-by-anaṅga-word](anaṅga+pada+pūrvāḥ) [they](tāḥ) [fifth](pañcamī) [madaveginī](madaveginī)
+[anaṅga-word-preceded](anaṅga+pada+pūrvāḥ) [they](tāḥ) [fifth](pañcamī) [madaveginī](madaveginī)
 
 ## mukta-m0-p33-v825
-[line](rekhā) [preceded-by-gagana](gagana+pūrvā) [another](anyā) [to-be-worshipped](pūjyā) [in-petals](patreṣu) [and](ca) [in-eight](aṣṭasu)
+[line](rekhā) [gagana-preceded](gagana+pūrvā) [another](anyā) [to-be-worshipped](pūjyā) [in-petals](patreṣu) [and](ca) [eight](aṣṭasu)

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle marking the end of the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressed to the listener",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "declared or narrated",
+     "morph": "ppp.n.nom.sg (√kath)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "the entirety of what has been taught",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "kālikāyāḥ",
+     "gloss": "of-kālikā",
+     "grounds": "pertaining to the goddess Kālikā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "su+durlabham",
+     "gloss": "very-hard-to-obtain",
+     "grounds": "compound expressing extreme rarity",
+     "morph": "compound: su+adj (n.nom.sg)"
+    }
+   ],
+   "question": "What is the status of the complete teaching about Kālikā that has been declared?",
+   "premises": [
+    "The speaker concludes the discourse with 'thus'.",
+    "Everything concerning Kālikā has been told to the listener.",
+    "This complete teaching is declared to be very hard to obtain."
+   ],
+   "inference": "The entire doctrine of Kālikā imparted here is supremely rare and difficult to access.",
+   "uncertainties": [],
+   "plain_english": "Thus, all of this concerning Kālikā, which is very hard to obtain, has been told to you."
+  }
+ ]
+}
