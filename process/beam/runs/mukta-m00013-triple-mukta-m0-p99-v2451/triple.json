@@ -1,0 +1,925 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2451,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, subject of recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "recites",
+     "grounds": "action of reciting the text",
+     "morph": "3.sg.act-optative √paṭh"
+    },
+    {
+     "surface": "prātarutthāya",
+     "gloss": "having-risen-in-morning",
+     "grounds": "compound indicating time and prior action",
+     "morph": "prātar+indecl+utthāya+absolutive"
+    },
+    {
+     "surface": "sarvatīrthaphalaṃ",
+     "gloss": "all-holy-places-fruit",
+     "grounds": "compound denoting merit of all pilgrimage sites",
+     "morph": "sarva+adj+tīrtha+noun+phala+noun n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "result of recitation",
+     "morph": "3.sg.act-optative √labh"
+    }
+   ],
+   "question": "What reward accrues to one who recites at dawn after rising?",
+   "premises": [
+    "A person rises in the morning",
+    "That person recites the text",
+    "Recitation yields the fruit of all holy places"
+   ],
+   "inference": "One who recites after rising at dawn obtains the merit of all holy places.",
+   "uncertainties": [],
+   "plain_english": "Whoever rises in the morning and recites this obtains the fruit of all holy places."
+  },
+  {
+   "verse": 2452,
+   "rows": [
+    {
+     "surface": "bhūtapretapiśācebhyo",
+     "gloss": "from-ghosts-spirits-demons",
+     "grounds": "compound listing harmful beings",
+     "morph": "bhūta+noun+preta+noun+piśāca+noun m.abl.pl"
+    },
+    {
+     "surface": "bhayantasya",
+     "gloss": "of-the-fearful",
+     "grounds": "one experiencing fear",
+     "morph": "m.gen.sg present-participle √bhī"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of existence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "asserts absence of fear",
+     "morph": "3.sg.pass-present √vid"
+    }
+   ],
+   "question": "Can fear from ghosts, spirits, and demons afflict the fearful reciter?",
+   "premises": [
+    "Ghosts, spirits, and demons are sources of fear",
+    "A fearful person may be threatened by them",
+    "The text denies such fear exists for the reciter"
+   ],
+   "inference": "For the fearful one, there is no fear from ghosts, spirits, and demons.",
+   "uncertainties": [],
+   "plain_english": "For one who is afraid, there is no fear from ghosts, spirits, or demons."
+  },
+  {
+   "verse": 2453,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal scope of honor",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāmāpnoti",
+     "gloss": "worship-obtains",
+     "grounds": "compound verb phrase expressing receipt of honor",
+     "morph": "pūjā+noun+āpnoti+3.sg.act-present √āp"
+    },
+    {
+     "surface": "devīputra",
+     "gloss": "goddess-son",
+     "grounds": "comparison to a child of the goddess",
+     "morph": "devī+noun+putra+noun m.nom.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "particle of comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣitau",
+     "gloss": "on-earth",
+     "grounds": "location of receiving worship",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What honor does the reciter receive everywhere upon the earth?",
+   "premises": [
+    "The reciter is compared to a son of the goddess",
+    "A son of the goddess receives worship",
+    "This honor is received everywhere on earth"
+   ],
+   "inference": "The reciter obtains worship everywhere on earth like a son of the goddess.",
+   "uncertainties": [],
+   "plain_english": "He obtains worship everywhere on earth, like a son of the goddess."
+  },
+  {
+   "verse": 2454,
+   "rows": [
+    {
+     "surface": "prāptānantarasārṇave",
+     "gloss": "in-attained-endless-essence-ocean",
+     "grounds": "compound describing the ocean of attained essence",
+     "morph": "prāpta+adj+anantara+adj+sāra+noun+arṇava+noun m.loc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of the mind-swan",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "manohaṃsaḥ",
+     "gloss": "mind-swan",
+     "grounds": "metaphor for the mind",
+     "morph": "manas+noun+haṃsa+noun m.nom.sg"
+    },
+    {
+     "surface": "ciraṃ",
+     "gloss": "for-long",
+     "grounds": "duration of rejoicing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nandatu",
+     "gloss": "may-rejoice",
+     "grounds": "benediction for the mind",
+     "morph": "3.sg.act-imperative √nand"
+    }
+   ],
+   "question": "Where should the speaker's mind-swan rejoice for a long time?",
+   "premises": [
+    "The speaker possesses a mind likened to a swan",
+    "An endless ocean of essence has been attained",
+    "The mind-swan is invited to rejoice there"
+   ],
+   "inference": "May the speaker's mind-swan rejoice long in the attained endless ocean of essence.",
+   "uncertainties": [
+    "sāra in prāptānantarasārṇave may mean essence or core; interpreted as essence-ocean"
+   ],
+   "plain_english": "May my mind-swan rejoice for a long time in the attained endless ocean of essence."
+  },
+  {
+   "verse": 2455,
+   "rows": [
+    {
+     "surface": "karivairiṇa",
+     "gloss": "o-elephant-enemy",
+     "grounds": "vocative epithet, often for lion or deity",
+     "morph": "kari+noun+vairin+noun m.voc.sg"
+    },
+    {
+     "surface": "kimaribhiḥ",
+     "gloss": "what-from-enemies",
+     "grounds": "rhetorical question about enemies",
+     "morph": "kim+indecl+ari+noun m.ins.pl"
+    },
+    {
+     "surface": "bhītiḥ",
+     "gloss": "fear",
+     "grounds": "the emotion being denied",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavatsevinām",
+     "gloss": "of-your-devotees",
+     "grounds": "compound denoting those who serve the addressed",
+     "morph": "bhavat+pronoun+sevin+noun m.gen.pl"
+    }
+   ],
+   "question": "Why should devotees of the elephant-enemy have any fear from enemies?",
+   "premises": [
+    "The addressed is called the enemy of elephants",
+    "Devotees serve this addressed being",
+    "Enemies pose no cause for fear to such devotees"
+   ],
+   "inference": "There is no fear from enemies for the devotees of the elephant-enemy.",
+   "uncertainties": [
+    "karivairiṇa is a conventional epithet; specific deity identity not explicit"
+   ],
+   "plain_english": "O enemy of elephants, what fear from enemies is there for those who serve you?"
+  },
+  {
+   "verse": 2456,
+   "rows": [
+    {
+     "surface": "yojacumbanaparaṃ",
+     "gloss": "which-kiss-devoted",
+     "grounds": "compound describing devotion to kissing",
+     "morph": "yoja+noun+cumbana+noun+para+adj m.acc.sg"
+    },
+    {
+     "surface": "māmadya",
+     "gloss": "me-today",
+     "grounds": "object and time of honoring",
+     "morph": "mām+pronoun+adya+indecl"
+    },
+    {
+     "surface": "sambhāvaya",
+     "gloss": "honor",
+     "grounds": "imperative request for favor",
+     "morph": "2.sg.act-imperative √sambhū-causative"
+    }
+   ],
+   "question": "What favor is requested today for one devoted to kissing?",
+   "premises": [
+    "The speaker is devoted to kissing",
+    "The speaker asks to be honored today",
+    "Honor is sought from the addressed"
+   ],
+   "inference": "The speaker asks to be honored today as one devoted to kissing.",
+   "uncertainties": [
+    "yoja in yojacumbanaparaṃ is obscure; may refer to union or a specific act"
+   ],
+   "plain_english": "Honor me today, who am devoted to that kiss."
+  },
+  {
+   "verse": 2457,
+   "rows": [
+    {
+     "surface": "śrīmatpādapayojacintanavidhau",
+     "gloss": "in-venerable-feet-lotus-contemplation-practice",
+     "grounds": "compound describing contemplative practice on lotus feet",
+     "morph": "śrīmat+adj+pāda+noun+payoja+noun+cintana+noun+vidhi+noun m.loc.sg"
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "subject to be fixed in contemplation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadaivāstu",
+     "gloss": "always-indeed-may-be",
+     "grounds": "benediction for constant focus",
+     "morph": "sadā+indecl+eva+indecl+astu+3.sg.act-imperative √as"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "of-us",
+     "grounds": "possessors of the mind",
+     "morph": "gen.pl"
+    }
+   ],
+   "question": "Where should the minds of the devotees always remain fixed?",
+   "premises": [
+    "There is a practice of contemplating the venerable lotus feet",
+    "The devotees possess minds",
+    "A wish is expressed for constant mental focus"
+   ],
+   "inference": "May our minds always remain in the practice of contemplating the venerable lotus feet.",
+   "uncertainties": [],
+   "plain_english": "May our minds always be engaged in the contemplation of the venerable lotus feet."
+  },
+  {
+   "verse": 2458,
+   "rows": [
+    {
+     "surface": "maccitte'kṣatasampadaṃ",
+     "gloss": "in-my-mind-unbroken-prosperity",
+     "grounds": "compound expressing undiminished prosperity in the mind",
+     "morph": "mat+pronoun+citta+noun+akṣata+adj+sampad+noun f.acc.sg"
+    },
+    {
+     "surface": "prasaratu",
+     "gloss": "may-spread",
+     "grounds": "wish for expansion of prosperity",
+     "morph": "3.sg.act-imperative √sṛ"
+    },
+    {
+     "surface": "kṣemaṅkari",
+     "gloss": "o-bestower-of-welfare",
+     "grounds": "vocative epithet of the goddess",
+     "morph": "kṣema+noun+ṅkarī+adj f.voc.sg"
+    },
+    {
+     "surface": "kṣamyatām",
+     "gloss": "may-it-be-forgiven",
+     "grounds": "request for forgiveness",
+     "morph": "3.sg.pass-imperative √kṣam"
+    }
+   ],
+   "question": "What blessings and forgiveness are sought from the bestower of welfare?",
+   "premises": [
+    "The speaker seeks unbroken prosperity in the mind",
+    "The goddess is addressed as bestower of welfare",
+    "The speaker also asks for forgiveness"
+   ],
+   "inference": "May unbroken prosperity spread in my mind, O bestower of welfare, and may I be forgiven.",
+   "uncertainties": [],
+   "plain_english": "O bestower of welfare, may unbroken prosperity spread in my mind, and may I be forgiven."
+  },
+  {
+   "verse": 2459,
+   "rows": [
+    {
+     "surface": "nāsvāditaḥ",
+     "gloss": "not-tasted",
+     "grounds": "negated past participle indicating lack of experience",
+     "morph": "na+indecl+āsvādita+past-participle m.nom.sg"
+    }
+   ],
+   "question": "What essential devotional experience remains untasted by the speaker?",
+   "premises": [
+    "Something has not been tasted",
+    "The negation implies a lack of experience",
+    "Context suggests a devotional essence"
+   ],
+   "inference": "The speaker states that a certain experience has not been tasted.",
+   "uncertainties": [
+    "Object of tasting is not explicit in this verse alone; likely continued in next verse"
+   ],
+   "plain_english": "It has not been tasted."
+  },
+  {
+   "verse": 2460,
+   "rows": [
+    {
+     "surface": "śrīmadbhaktirasātidurddinaparīvāhaḥ",
+     "gloss": "venerable-devotion-essence-excessive-rainy-day-flood",
+     "grounds": "compound metaphor for overwhelming flood of devotion",
+     "morph": "śrīmat+adj+bhakti+noun+rasa+noun+atidurdina+noun+parīvāha+noun m.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarpatu",
+     "gloss": "may-flow",
+     "grounds": "wish for the flood to spread",
+     "morph": "3.sg.act-imperative √sṛp"
+    }
+   ],
+   "question": "What flood of devotional essence should always flow for the devotee?",
+   "premises": [
+    "Devotion has a venerable essence",
+    "This essence is likened to a flood on an excessively rainy day",
+    "A wish is expressed for its constant flow"
+   ],
+   "inference": "May the overwhelming flood of the essence of venerable devotion always flow.",
+   "uncertainties": [],
+   "plain_english": "May the flood of the essence of venerable devotion, like an excessively rainy day, always flow."
+  },
+  {
+   "verse": 2461,
+   "rows": [
+    {
+     "surface": "prodbhinnāñjananīlanīradamahaḥ",
+     "gloss": "blossomed-collyrium-blue-cloud-splendor",
+     "grounds": "compound describing dark blue splendor like collyrium and clouds",
+     "morph": "prodbhinna+adj+añjana+noun+nīla+adj+nīrada+noun+mahas+noun n.nom.sg"
+    },
+    {
+     "surface": "citte",
+     "gloss": "in-mind",
+     "grounds": "location for the splendor",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sadaivāstu",
+     "gloss": "always-indeed-may-be",
+     "grounds": "benediction for constant presence",
+     "morph": "sadā+indecl+eva+indecl+astu+3.sg.act-imperative √as"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "of-us",
+     "grounds": "possessors of the mind",
+     "morph": "gen.pl"
+    }
+   ],
+   "question": "What divine splendor should always abide within the devotees' minds?",
+   "premises": [
+    "A splendor is described as like blossomed collyrium and blue clouds",
+    "The mind is the desired location of this splendor",
+    "A wish is made for its constant presence"
+   ],
+   "inference": "May the splendor like blossomed collyrium and blue clouds always be in our minds.",
+   "uncertainties": [
+    "The splendor likely refers to a deity's form but is not explicitly named"
+   ],
+   "plain_english": "May that splendor, like blossomed collyrium and a blue cloud, always be in our minds."
+  },
+  {
+   "verse": 2462,
+   "rows": [
+    {
+     "surface": "dṛṣyaddaivatavairidāraṇapaṭuḥ",
+     "gloss": "visible-deity-enemy-tearing-skilled",
+     "grounds": "compound describing skill in tearing enemies of visible deities",
+     "morph": "dṛśya+adj+daivata+noun+vairi+noun+dāraṇa+noun+paṭu+adj f.nom.sg"
+    },
+    {
+     "surface": "jīyāt",
+     "gloss": "may-be-victorious",
+     "grounds": "benediction of victory",
+     "morph": "3.sg.act-optative √ji"
+    },
+    {
+     "surface": "jayāhlādinī",
+     "gloss": "victory-delighting",
+     "grounds": "epithet of a goddess who delights in victory",
+     "morph": "jaya+noun+āhlādinī+adj f.nom.sg"
+    }
+   ],
+   "question": "Which victory-delighting power should triumph over enemies of the deities?",
+   "premises": [
+    "A power is skilled in tearing enemies of visible deities",
+    "This power delights in victory",
+    "A wish is expressed for her triumph"
+   ],
+   "inference": "May the victory-delighting one, skilled in tearing the enemies of the deities, be victorious.",
+   "uncertainties": [],
+   "plain_english": "May she who delights in victory and is skilled in tearing apart the enemies of the visible deities be victorious."
+  },
+  {
+   "verse": 2463,
+   "rows": [
+    {
+     "surface": "khaṇḍavikhaṇḍatākhilaśakuntakṣutpipāsojjvale",
+     "gloss": "in-broken-shattered-all-birds-hunger-thirst-blazing",
+     "grounds": "compound describing a blazing scene of broken birds afflicted by hunger and thirst",
+     "morph": "khaṇḍa+noun+vikhaṇḍatā+noun+akhila+adj+śakunta+noun+kṣut+noun+pipāsā+noun+ujjvala+adj n.loc.sg"
+    }
+   ],
+   "question": "What blazing and shattered scene of afflicted birds is being evoked?",
+   "premises": [
+    "All birds are broken and shattered",
+    "The birds suffer from hunger and thirst",
+    "The scene is described as blazing"
+   ],
+   "inference": "The verse evokes a blazing scene where all birds are broken, shattered, and afflicted by hunger and thirst.",
+   "uncertainties": [
+    "The symbolic or ritual context of this imagery is unclear from this verse alone"
+   ],
+   "plain_english": "In that blazing place where all birds are broken and shattered, tormented by hunger and thirst."
+  },
+  {
+   "verse": 2464,
+   "rows": [
+    {
+     "surface": "cāruṇāṅgane",
+     "gloss": "in-beautiful-courtyard",
+     "grounds": "location of the visualization",
+     "morph": "cāru+adj+aṅgana+noun n.loc.sg"
+    },
+    {
+     "surface": "raṇamudā",
+     "gloss": "with-battle-joy",
+     "grounds": "compound expressing joy in battle",
+     "morph": "raṇa+noun+mud+noun f.ins.sg"
+    },
+    {
+     "surface": "ghūrṇāyamānāṃ",
+     "gloss": "whirling",
+     "grounds": "describes the goddess's movement",
+     "morph": "f.acc.sg present-participle-causative √ghūrṇ"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "injunction to meditate",
+     "morph": "3.sg.act-optative √smṛ"
+    }
+   ],
+   "question": "How should the goddess be visualized whirling in the beautiful courtyard?",
+   "premises": [
+    "The setting is a beautiful courtyard",
+    "The goddess whirls with joy in battle",
+    "The practitioner is instructed to remember her thus"
+   ],
+   "inference": "One should remember her whirling with battle-joy in the beautiful courtyard.",
+   "uncertainties": [],
+   "plain_english": "One should remember her whirling with the joy of battle in the beautiful courtyard."
+  },
+  {
+   "verse": 2465,
+   "rows": [
+    {
+     "surface": "skhaladvīrāsphālalasatkarālavadanāṃ",
+     "gloss": "stumbling-heroes-striking-shining-terrible-face",
+     "grounds": "compound describing a terrible face striking stumbling heroes",
+     "morph": "skhalat+participle+vīra+noun+āsphāla+noun+lasat+participle+karāla+adj+vadana+noun f.acc.sg"
+    },
+    {
+     "surface": "ghorāṭṭahāsodbhaṭām",
+     "gloss": "fierce-loud-laughter-vehement",
+     "grounds": "compound describing vehemence with fierce loud laughter",
+     "morph": "ghora+adj+aṭṭahāsa+noun+udbhaṭa+adj f.acc.sg"
+    }
+   ],
+   "question": "What terrifying appearance characterizes the goddess during her fierce manifestation?",
+   "premises": [
+    "Her face is terrible and strikes stumbling heroes",
+    "She is vehement with fierce loud laughter",
+    "These traits describe her fearsome form"
+   ],
+   "inference": "She is visualized with a terrible face striking stumbling heroes and vehement with fierce loud laughter.",
+   "uncertainties": [],
+   "plain_english": "Remember her with a terrible, shining face striking down stumbling heroes, vehement with fierce, loud laughter."
+  },
+  {
+   "verse": 2466,
+   "rows": [
+    {
+     "surface": "svayaṃ",
+     "gloss": "by-itself",
+     "grounds": "indicates spontaneous arising",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "spontaneous manifestation",
+     "morph": "3.sg.mid-present √jan"
+    }
+   ],
+   "question": "How does the described state or manifestation come into being?",
+   "premises": [
+    "Something arises without external cause",
+    "The verb indicates birth or arising",
+    "Spontaneity is emphasized"
+   ],
+   "inference": "It is born by itself.",
+   "uncertainties": [
+    "The subject of spontaneous arising is not explicit in this verse alone"
+   ],
+   "plain_english": "It arises by itself."
+  },
+  {
+   "verse": 2467,
+   "rows": [
+    {
+     "surface": "hastagatā",
+     "gloss": "hand-gone",
+     "grounds": "compound meaning come into one's hand or control",
+     "morph": "hasta+noun+gata+past-participle f.nom.sg"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "resulting state",
+     "morph": "3.pl.act-present √bhū"
+    },
+    {
+     "surface": "jagatāṃ",
+     "gloss": "of-the-worlds",
+     "grounds": "possessor of what comes under control",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "mātarnamaste",
+     "gloss": "o-mother-salutation-to-you",
+     "grounds": "vocative and salutation to the mother goddess",
+     "morph": "mātar+voc.sg+namas+indecl+te+pronoun"
+    },
+    {
+     "surface": "jayaḥ",
+     "gloss": "victory",
+     "grounds": "acclamation of victory",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mastery over the worlds is achieved through salutation to the Mother?",
+   "premises": [
+    "The worlds come into one's hand",
+    "The Mother is saluted",
+    "Victory is proclaimed"
+   ],
+   "inference": "Through salutation to the Mother, the worlds come into one's hand and victory is hers.",
+   "uncertainties": [],
+   "plain_english": "The worlds come into one's hand; O Mother, salutation to you, victory!"
+  },
+  {
+   "verse": 2468,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun referring to the goddess",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prasādamāsādya",
+     "gloss": "grace-having-obtained",
+     "grounds": "compound expressing attainment of grace",
+     "morph": "prasāda+noun+āsādya+absolutive"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "potential transformation",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "sākṣātsadāśivaḥ",
+     "gloss": "directly-sadashiva",
+     "grounds": "identification with Sadāśiva",
+     "morph": "sākṣāt+indecl+sadāśiva+noun m.nom.sg"
+    }
+   ],
+   "question": "What supreme transformation results from obtaining the goddess's grace?",
+   "premises": [
+    "One may obtain the grace of the goddess",
+    "Grace leads to transformation",
+    "The transformation is becoming Sadāśiva directly"
+   ],
+   "inference": "Having obtained whose grace, one may become Sadāśiva directly.",
+   "uncertainties": [],
+   "plain_english": "Having obtained whose grace, one may become Sadāśiva himself."
+  },
+  {
+   "verse": 2469,
+   "rows": [
+    {
+     "surface": "prapaṭhetkavacaṃ",
+     "gloss": "should-recite-armor",
+     "grounds": "injunction to recite the protective armor",
+     "morph": "prapaṭhet+3.sg.act-optative √paṭh+kavaca+noun n.acc.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "regularity of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantravarṇasya",
+     "gloss": "of-mantra-syllables",
+     "grounds": "compound referring to syllables of the mantra",
+     "morph": "mantra+noun+varṇa+noun m.gen.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "purpose of recitation",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why should the protective armor be recited daily by the practitioner?",
+   "premises": [
+    "The protective armor can be recited",
+    "Daily recitation is prescribed",
+    "The goal is accomplishment of the mantra syllables"
+   ],
+   "inference": "One should recite the armor daily for the accomplishment of the mantra syllables.",
+   "uncertainties": [],
+   "plain_english": "One should recite this armor daily for the accomplishment of the mantra syllables."
+  },
+  {
+   "verse": 2470,
+   "rows": [
+    {
+     "surface": "ādyāśaktirdevatā",
+     "gloss": "primordial-power-deity",
+     "grounds": "identifies the deity of the practice",
+     "morph": "ādyā+adj+śakti+noun+devatā+noun f.nom.sg"
+    },
+    {
+     "surface": "caturvargaphalaprāptaye",
+     "gloss": "for-four-goals-fruit-attainment",
+     "grounds": "compound stating purpose as attainment of four aims",
+     "morph": "caturvarga+noun+phala+noun+prāpti+noun f.dat.sg"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual application statement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What deity and purpose are declared in the ritual application of this armor?",
+   "premises": [
+    "The primordial power is the deity",
+    "The four goals of life are the desired fruits",
+    "This is the ritual application"
+   ],
+   "inference": "The primordial power is the deity, and the application is for attaining the fruits of the four goals.",
+   "uncertainties": [],
+   "plain_english": "The primordial power is the deity; the application is for the attainment of the fruits of the four goals of life."
+  },
+  {
+   "verse": 2471,
+   "rows": [
+    {
+     "surface": "makāraḥ",
+     "gloss": "syllable-ma",
+     "grounds": "bīja syllable of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "protective function",
+     "morph": "3.sg.act-imperative √pā"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine presence associated with syllable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cakṣuryugme",
+     "gloss": "in-eye-pair",
+     "grounds": "body part to be protected",
+     "morph": "cakṣus+noun+yugma+noun n.loc.sg"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "great-goddess",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which syllable and goddess protect the pair of eyes in this armor?",
+   "premises": [
+    "The syllable ma is invoked",
+    "The great goddess Devī is associated with it",
+    "Protection is sought for the pair of eyes"
+   ],
+   "inference": "May the syllable ma and the goddess Maheśvarī protect me in the pair of eyes.",
+   "uncertainties": [],
+   "plain_english": "May the syllable ma and the goddess Maheśvarī protect me in the pair of eyes."
+  },
+  {
+   "verse": 2472,
+   "rows": [
+    {
+     "surface": "ṣakāraḥ",
+     "gloss": "syllable-sha",
+     "grounds": "bīja syllable of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "protective function",
+     "morph": "3.sg.act-imperative √pā"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "śvetā",
+     "gloss": "white-one",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jihvāyāñcā",
+     "gloss": "on-tongue-and",
+     "grounds": "body part to be protected with conjunction",
+     "morph": "jihvā+noun f.loc.sg+ca+indecl"
+    },
+    {
+     "surface": "parājitā",
+     "gloss": "invincible-one",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which syllable and goddess protect the tongue in this armor?",
+   "premises": [
+    "The syllable ṣa is invoked",
+    "The white and invincible goddess is associated with it",
+    "Protection is sought for the tongue"
+   ],
+   "inference": "May the syllable ṣa and the white, invincible goddess protect me on the tongue.",
+   "uncertainties": [
+    "jihvāyāñcā contains sandhi/fusion of jihvāyām and ca; analyzed as fused form"
+   ],
+   "plain_english": "May the syllable ṣa and the white, invincible goddess protect me on the tongue."
+  },
+  {
+   "verse": 2473,
+   "rows": [
+    {
+     "surface": "rddikāraḥ",
+     "gloss": "syllable-rri",
+     "grounds": "bīja syllable of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "protective function",
+     "morph": "3.sg.act-imperative √pā"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine presence associated with syllable",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāvitrī",
+     "gloss": "savitrī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālanāśinī",
+     "gloss": "time-destroyer",
+     "grounds": "epithet of the goddess",
+     "morph": "kāla+noun+nāśinī+adj f.nom.sg"
+    }
+   ],
+   "question": "Which syllable and goddess act as destroyer of time to protect the practitioner?",
+   "premises": [
+    "The syllable ṛ is invoked",
+    "The goddess Sāvitrī is associated with it",
+    "She is described as the destroyer of time"
+   ],
+   "inference": "May the syllable ṛ and the goddess Sāvitrī, destroyer of time, protect me.",
+   "uncertainties": [
+    "rddikāraḥ is an unusual form for the syllable ṛ; transcribed as given"
+   ],
+   "plain_english": "May the syllable ṛ and the goddess Sāvitrī, the destroyer of time, protect me."
+  },
+  {
+   "verse": 2474,
+   "rows": [
+    {
+     "surface": "śikhāyāṃ",
+     "gloss": "on-crown",
+     "grounds": "body part to be protected",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kavace",
+     "gloss": "in-armor",
+     "grounds": "body part or protective covering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāde",
+     "gloss": "on-foot",
+     "grounds": "body part to be protected",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "body part to be protected",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jaṅghāyuge",
+     "gloss": "on-calf-pair",
+     "grounds": "compound denoting pair of calves",
+     "morph": "jaṅghā+noun+yuga+noun n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional body parts are included for protection in this sequence?",
+   "premises": [
+    "Protection is being assigned to body parts",
+    "The crown, armor, foot, face, and calves are listed",
+    "The word likewise indicates continuation"
+   ],
+   "inference": "Protection is likewise invoked for the crown, armor, foot, face, and pair of calves.",
+   "uncertainties": [
+    "kavace in a list of body parts may refer to the chest/torso area or the armor itself"
+   ],
+   "plain_english": "Likewise on the crown, in the armor, on the foot, on the face, and on the pair of calves."
+  }
+ ]
+}

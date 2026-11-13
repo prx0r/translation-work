@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-[goddess](devī) [in+śrī+circle+situated](śrīcakrasaṃsthā) [be](astu) [by+goddess](devyā) [by+order](ākārā) [by+that+order](tadājñayā)
+[goddess](devī) [in-śrī-cakra+situated](śrīcakrasaṃsthās) [but](tu) [goddess-formed](devyākārās) [by-her-command](tadājñayā)
 
 ## mukta-m0-p06-v127
-[in+own+circles](svamaṇḍaleṣu) [up-to+lords](nāthāntāḥ) [up-to+śaktis](śaktyantā) [o+goddess](devi!) [in+circle](maṇḍale)
+[in-own-circles](svamaṇḍaleṣu) [ending-with-nāthas](nāthāntāḥ) [ending-with-śaktis](śaktyantāḥ) [o-goddess](devi) [in-circle](maṇḍale)
 
 ## mukta-m0-p06-v128
-[of+nine](navānāṃ) [of+all+śaktis](sarvaśaktīnāṃ) [of+goddesses](devatānāṃ) [and](ca) [in+worship](pūjane)
+[of-nine](navānāṃ) [of-all-śaktis](sarvaśaktīnāṃ) [of-deities](devatānāṃ) [and](ca) [in-worship](pūjane)
 
 ## mukta-m0-p06-v129
-[by+seven-syllabled](saptākṣaryā) [by+that](tayā) [o+goddess](devi!) [one+should+worship](pūjayet) [with+name+preceding](nāmapūrvakam)
+[with-seven-syllabled](saptākṣaryā) [with-that](tayā) [o-goddess](devi) [one-should-worship](pūjayen) [preceded-by-name](nāmapūrvakam)
 
 ## mukta-m0-p06-v130
-[hear](śṛṇu) [o+goddess](devi!) [great+siddhi+giving](mahāsiddhikarī) [all+dear+making](sarvapriyaṃkarī)
+[listen](śṛṇu) [o-goddess](devi) [great-accomplishment-causing](mahāsiddhikarī) [all-dear-making](sarvapriyaṃkarī)
 
 ## mukta-m0-p06-v131
-[life-breath](prāṇaḥ) [also](api) [with+wind](marutā) [united](yuktaḥ) [that](saḥ) [sky](nabhaḥ) [be](syāt) [third](tṛtīyakam)
+[breath](prāṇo') [also](pi) [with-wind](marutā) [joined](yuktaḥ) [that](sa) [ether](nabhaḥ) [should-be](syāt) [third](tṛtīyakam)
 
 ## mukta-m0-p06-v132
-[pervaded](vyāptaṃ) [with+wind+companion](marutsakhaṃ) [sixth](ṣaṣṭhaṃ) [sky+fire](nabho'gniḥ) [seventh+syllable](saptamākṣaram)
+[pervaded](vyāptaṃ) [wind-friend](marutsakhaṃ) [sixth](ṣaṣṭhaṃ) [ether](nabho') [fire](gniḥ) [seventh-syllable](saptamākṣaram)
 
 ## mukta-m0-p06-v133
-[of+all](sarvāsām) [also](api) [of+śaktis](śaktīnāṃ) [of+goddesses](devatānāṃ) [and](ca) [by+names](nāmabhiḥ)
+[of-all](sarvāsām) [also](api) [of-śaktis](śaktīnāṃ) [of-deities](devatānāṃ) [and](ca) [with-names](nāmabhiḥ)
 
 ## mukta-m0-p06-v134
-[from+śakti+tantra](śaktitantrāt) [outside+being](bahirbhūta) [in+tantras](tantreṣu) [with+namas](namasā) [position](sthitiḥ)
+[from-śakti-tantra](śaktitantrād) [outside-become-tantras](bahirbhūtatantreṣu) [with-namas](namasā) [placement](sthitiḥ)
 
 ## mukta-m0-p06-v135
-[those](tāni) [by+seven-syllable+yoga](saptākṣarīyogāt) [separately](pratyekaṃ) [sixteen-syllabled](ṣoḍaśākṣaram)
+[those](tāni) [by-seven-syllabled+union](saptākṣarīyogāt) [each](pratyekaṃ) [sixteen-syllabled](ṣoḍaśākṣaram)
 
 ## mukta-m0-p06-v136
-[of+them](teṣāṃ) [of+nine](navānāṃ) [names](nāmāni) [circle-making](maṇḍalīkaraṇaṃ) [o+beloved](priye!)
+[of-those](teṣāṃ) [of-nine](navānāṃ) [names](nāmāni) [circle-making](maṇḍalīkaraṇaṃ) [o-beloved](priye)
 
 ## mukta-m0-p06-v137
-[by+that](tena) [by+pure](śuddhena) [purity](śuddhiḥ) [be](syāt) [in+vidyā](vidyāyām) [otherwise](anyathā) [otherwise](anyathā)
+[by-that](tena) [pure](śuddhena) [purity](śuddhiḥ) [should-be](syād) [in-mantra](vidyāyām) [otherwise](anyathā') [otherwise](nyathā)
 
 ## mukta-m0-p06-v138
-[of+goddesses](devatānām) [thus+statement](iti+uktiḥ) [to+male+object](puṃviṣayā) [||12||](||12||) [||13||](||13||) [||14||](||14||) [||15||](||15||)
+[of-deities](devatānām) [thus-statement](ityuktiḥ) [masculine-referring](puṃviṣayā) [verse-marker](||) [12](12) [verse-marker](||) [13](13) [verse-marker](||) [14](14) [verse-marker](||) [15](15)
 
 ## mukta-m0-p06-v139
-[names](nāmāni) [he+teaches](upadiśati) [there](tatra) [sixteen-syllabled](ṣoḍaśākṣaram) [name](nāma) [iti](iti) [remainder](śeṣaḥ) [||17||](||17||)
+[names](nāmāny) [teaches](upadiśati) [there](tatra) [sixteen-syllabled](ṣoḍaśākṣaram) [name](nāma) [thus](iti) [remainder](śeṣaḥ) [verse-marker](||) [17](17)
 
 ## mukta-m0-p06-v140
-[by+relation](saṃbandhataḥ) [attainment](āptiḥ) [authoritativeness](prāmāṇyam) [consecution](anvayaḥ) [continuity](santatiḥ)
+[by-connection](saṃbandhataḥ) [attainment](āptiḥ) [authoritativeness](prāmāṇyam) [lineage](anvayaḥ) [continuity](santatiḥ)
 
 ## mukta-m0-p06-v141
-[day+syllables](dinākṣarāṇi) [also](api) [thus](tathā) [without+maya](amāyaḥ) [endlessness](anantyam) [also](eva) [and](ca)
+[day-syllables](dinākṣarāṇy) [also](api) [likewise](tathā) [amāya](amāyo') [endless](nantyam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p06-v142
-[well-known](prasiddhaṃ) [from+outside](bāhyataḥ) [that](yacc) [three](trīṇi) [names](nāmāni) [o+sadhaka](sādhake!)
+[well-known](prasiddhaṃ) [externally](bāhyato) [which](yac) [and](ca) [three](trīṇi) [names](nāmāni) [o-practitioner](sādhake)
 
 ## mukta-m0-p06-v143
-[worship+verse](pūjāśloka) [hymns](stutīḥ) [one+should+do](kuryāt) [by+tradition](pāramparya) [for+establishment](prasiddhaye)
+[worship-verse-praises](pūjāślokastutīḥ) [one-should-make](kuryāt) [for-tradition-fame](pāramparyaprasiddhaye)
 
 ## mukta-m0-p06-v144
-[in+full](pūrṇāyāṃ) [sixteen-syllabled](ṣoḍaśārṇāni) [names](nāmāni) [having+written](ālikhya) [one+should+worship](pūjayet)
+[in-full](pūrṇāyāṃ) [sixteen-syllabled](ṣoḍaśārṇāni) [names](nāmāny) [having-written](ālikhya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p06-v145
-[one+should+worship](pūjayet) [there](tatra) [there](tatra) [also](api) [saying](vadan) [seven-syllabled](saptākṣarīṃ) [o+auspicious](śive!)
+[one-should-worship](pūjayet) [there](tatra) [there](tatra) [also](api) [uttering](vadan) [seven-syllabled](saptākṣarīṃ) [o-śive](śive)
 
 ## mukta-m0-p06-v146
-[offerings](upacārāḥ) [then](tataḥ) [those](tān) [by+those](taiḥ) [one+should+worship](pūjayet) [hear](śṛṇu) [those](tāni) [also](api)
+[offerings](upacārās) [then](tatas) [them](tāṃs) [with-those](taiḥ) [one-should-worship](pūjayet) [listen](śṛṇu) [them](tāny) [also](api)
 
 ## mukta-m0-p06-v147
-[one+should+do](kuryāt) [||20||](||20||) [||21||](||21||)
+[one-should-do](kuryāt) [verse-marker](||) [20](20) [verse-marker](||) [21](21)
 
 ## mukta-m0-p06-v148
-[betel](tāmbūlaṃ) [bowing](namanaṃ) [hymn](stotraṃ) [by+self](svātmanā) [iti](iti) [said](samīritāḥ)
+[betel](tāmbūlaṃ) [obeisance](namanaṃ) [hymn](stotraṃ) [with-own-self](svātmanā) [thus](iti) [declared](samīritāḥ)
 
 ## mukta-m0-p06-v149
-[on+board](phalakāyāṃ) [on+ground](sthale) [or](vā) [also](api) [well-purified](suśuddhe) [very+level](susame) [firm](sthire)
+[on-board](phalakāyāṃ) [on-ground](sthale) [or](vā) [also](api) [very-pure](suśuddhe) [very-even](susame) [firm](sthire)
 
 ## mukta-m0-p06-v150
-[five-finger](pañcāṅgula) [intervals](antarālāni) [then](tataḥ) [o+goddess+of+gods](deveśi!) [arises](jāyate)
+[five-finger-intervals](pañcāṅgulāntarālāni) [then](tato) [o-lord-of-goddesses](deveśi) [arises](jāyate)
