@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3120,
- "question": "Who praises the best practitioner upon seeing him?",
+ "question": "Which solar identities and the name Uṣaṅgu are attributed to the deity here?",
  "premises": [
-  "The best practitioner is seen",
-  "All people are the observers",
-  "They always praise him"
+  "The deity is addressed as Savitṛ.",
+  "The deity is addressed as the sun.",
+  "The deity is addressed as Uṣaṅgu with obeisance."
  ],
- "inference": "All people always praise the best practitioner upon seeing him.",
- "uncertainties": [],
- "plain_english": "All always praise that best of practitioners upon seeing him."
+ "inference": "The deity encompasses solar identities including Savitṛ, Ravi, and Uṣaṅgu.",
+ "uncertainties": [
+  "The final token fuses the epithet and salutation."
+ ],
+ "plain_english": "Obeisance to Savitṛ, obeisance to the sun, obeisance to Uṣaṅgu."
 }

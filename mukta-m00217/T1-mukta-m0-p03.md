@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[cakra](cakra)+[āsana](āsana)+[gatā](gatā)+[viddhi](viddhi) [devi](devi) [tripura](tripura)+[vāsinī](vāsinī)
+[wheel+seat+gone](cakrāsanagatā) [know](viddhi) [goddess](devi) [tripura+dwelling](tripuravāsinī)
 
 ## mukta-m0-p03-v52
-[śiva](śiva)+[candra](candra)+[samāyuktā](samāyuktā) [tārtīye](tārtīye) [śiva](śiva)+[rūpiṇī](rūpiṇī)
+[śiva+moon+united](śivacandrasamāyuktā) [in-third](tārtīye) [śiva+form](śivarūpiṇī)
 
 ## mukta-m0-p03-v53
-[ātma](ātma)+[āsana](āsana)+[gatāyāḥ](gatāyāstu) [tu](tu) [hitvā](hitvā) [tārtīyam](tārtīyam) [adrije](adrije)
+[self+seat+gone](ātmāsanagatāyāstu) [having-abandoned](hitvā) [third](tārtīyam) [mountain-born](adrije)
 
 ## mukta-m0-p03-v54
-[sādhya](sādhya)+[siddha](siddha)+[āsana](āsana)+[gatā](gatā) [viddhi](viddhi) [tripura](tripura)+[mālinī](mālinī)
+[sādhya+siddha+seat+gone](sādhyasiddhāsanagatā) [know](viddhi) [tripura+garlanded](tripuramālinī)
 
 ## mukta-m0-p03-v55
-[bindum](binduṃ) [hitvā](hitvā) [tatra](tatra) [sargam](sargaṃ) [nikṣipet](nikṣipet) [surasundari](surasundari)
+[dot](binduṃ) [having-abandoned](hitvā) [there](tatra) [emission](sargaṃ) [should-place](nikṣipet) [gods+beautiful](surasundari)
 
 ## mukta-m0-p03-v56
-[sarva](sarva)+[darśana](darśana)+[vandyām](vandyāṃ) [ca](ca) [cit](cit)+[kalām](kalām)+[avyayām](avyayāṃ) [śive](śive)
+[all+views+venerable](sarvadarśanavandyāṃ) [and](ca) [consciousness+digit](citkalām) [imperishable](avyayāṃ) [auspicious-one](śive)
 
 ## mukta-m0-p03-v57
-[ardhacandraḥ](ardhacandraśca) [ca](ca) [binduḥ](binduśca) [ca](ca) [navārṇaḥ](navārṇo) [meruḥ](merurucyate) [ucyate](ucyate)
+[half-moon](ardhacandraśca) [and+dot](binduśca) [nine+syllabled](navārṇo) [meru](merur) [is-called](ucyate)
 
 ## mukta-m0-p03-v58
-[lakārāt](lakārāt) [pṛthivī](pṛthivī) [devī](devī) [sa](sa)+[śaila](śaila)+[vana](vana)+[kānana](kānana)
+[from-la-syllable](lakārāt) [earth](pṛthivī) [goddess](devī) [with-mountains+forests+groves](saśailaṃvanakānanā)
 
 ## mukta-m0-p03-v59
-[sakārāt](sakārācandratārādigraharāśisvarūpiṇī) [candra](candra)+[tārā](tārā)+[ādi](ādi)+[graha](graha)+[rāśi](rāśi)+[svarūpiṇī](svarūpiṇī)
+[from-sa-syllable](sakārāt) [moon+stars+etc.](candratārādi) [planet+zodiac+form](graharāśisvarūpiṇī)
 
 ## mukta-m0-p03-v60
-[īkārāt](īkārādviśvamūrtiryā) [viśva](viśva)+[mūrtiḥ](mūrtiḥ) [yā](yā) [mahā](mahā)+[turya](turya)+[ātmikā](ātmikā) [priye](priye)
+[from-ī-syllable](īkārāt) [universe+form](viśvamūrtir) [who](yā) [great+fourth+nature](mahāturyātmikā) [beloved](priye)
 
 ## mukta-m0-p03-v61
-[rakārāt](rakārāt) [tejasā](tejasā) [yuktā](yuktā) [para](para)+[jyotiḥ](jyotiḥ)+[svarūpiṇī](svarūpiṇī)
+[from-ra-syllable](rakārāt) [with-radiance](tejasā) [endowed](yuktā) [supreme+light+form](parajyotiḥsvarūpiṇī)
 
 ## mukta-m0-p03-v62
-[ardhacandreṇa](ardhacandreṇa) [deveśi](deveśi) [viśva](viśva)+[yoniḥ](yoniḥ) [iti](iti) [īritā](īritā)
+[by-half-moon](ardhamātreṇa) [lord-of-gods](deveśi) [universe+womb](viśvayonir) [thus+declared](itīritā)
 
 ## mukta-m0-p03-v63
-[anayā](anayā) [saha](saha) [sarvatra](sarvatra) [vyāptiḥ](vyāptirniścalatātmanā) [niścala](niścala)+[tā](tā)+[ātmanā](ātmanā)
+[with-this](anayā) [together](saha) [everywhere](sarvatra) [pervasion](vyāptir) [by-immovable+nature](niścalatātmanā)
 
 ## mukta-m0-p03-v64
-[evaṃ](evaṃ) [ca](ca) [navabhiḥ](navabhirvarṇairjāyate) [varṇaiḥ](varṇaiḥ) [jāyate](jāyate) [tripurā](tripurā)+[manuḥ](manuḥ)
+[thus](evaṃ) [and](ca) [by-nine](navabhir) [syllables](varṇair) [is-born](jāyate) [tripurā+mantra](tripurāmanuḥ)
 
 ## mukta-m0-p03-v65
-[śrī](śrī)+[cakram](cakram) [api](api) [deveśi](deveśi) [meru](meru)+[rūpaṃ](rūpaṃ) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[śrī+diagram](śrīcakram) [also](api) [lord-of-gods](deveśi) [meru+form](merurūpaṃ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p03-v66
-[sakāraḥ](sakāraścandramā) [candramā](candramā) [bhadre](bhadre) [kalā](kalā)+[ṣoḍaśaka](ṣoḍaśaka)+[ātmakam](ātmakam)
+[sa-syllable](sakāraś) [moon](candramā) [auspicious-one](bhadre) [sixteen+digits+nature](kalāṣoḍaśakātmakam)
 
 ## mukta-m0-p03-v67
-[aṣṭa](aṣṭa)+[mūrtiḥ](mūrtiḥ) [sadā](sadā) [bhadre](bhadre) [tasmāt](tasmādvasudalaṃ) [vasu](vasu)+[dalaṃ](dalaṃ) [bhavet](bhavet)
+[eight+forms](aṣṭamūrtiḥ) [always](sadā) [auspicious-one](bhadre) [therefore](tasmād) [earth+realm](vasudalaṃ) [may-be](bhavet)
 
 ## mukta-m0-p03-v68
-[pālayantī](pālayantī) [parā](parā) [tasmāt](tasmācchakrakoṇaṃ) [śakra](śakra)+[koṇaṃ](koṇaṃ) [bhavet](bhavet) [priye](priye)
+[protecting](pālayantī) [supreme](parā) [therefore](tasmāc) [śakra+corner](chakrakoṇaṃ) [may-be](bhavet) [beloved](priye)
 
 ## mukta-m0-p03-v69
-[viśva](viśva)+[yoniḥ](yoniḥ) [iti](iti) [khyātā](khyātā) [sā](sā) [viṣṇoḥ](viṣṇordaśarūpakā) [daśa](daśa)+[rūpakā](rūpakā)
+[universe+womb](viśvayonir) [thus](iti) [known](khyātā) [she](sā) [of-viṣṇu](viṣṇor) [ten+form](daśarūpakā)
 
 ## mukta-m0-p03-v70
-[daśa](daśa)+[koṇa](koṇa)+[parā](parā) [tasmāt](tasmādrakārājjyotiravyayaḥ) [rakārāt](rakārāt) [jyotiḥ](jyotiḥ) [avyayaḥ](avyayaḥ)
+[ten+corner+supreme](daśakoṇaparā) [therefore](tasmād) [from-ra-syllable](rakārāj) [light](jyotir) [imperishable](avyayaḥ)
 
 ## mukta-m0-p03-v71
-[kakārāt](kakārānmādanaṃ) [mādanaṃ](mādanaṃ) [devi](devi) [śivaṃ](śivaṃ) [ca](ca) [aṣṭa](aṣṭa)+[svarūpakam](svarūpakam)
+[from-ka-syllable](kakārān) [mādana](mādanaṃ) [goddess](devi) [śiva](śivaṃ) [and](ca) [eight+form](aṣṭasvarūpakam)
 
 ## mukta-m0-p03-v72
-[ardha](ardha)+[mātrā](mātrā) [guṇān](guṇān) [sūte](sūte) [bheda](bheda)+[rūpā](rūpā) [yataḥ](yataḥ) [tataḥ](tataḥ)
+[half+measure](ardhamātrā) [qualities](guṇān) [produces](sūte) [division+form](bhedarūpā) [because](yatas) [therefore](tataḥ)
 
 ## mukta-m0-p03-v73
-[kāmeśvarasya](kāmeśvarasya) [rūpaṃ](rūpaṃ) [tat](tat) [viśva](viśva)+[ādhāra](ādhāra)+[svarūpakam](svarūpakam)
+[of-kāmeśvara](kāmeśvarasya) [form](rūpaṃ) [that](tad) [universe+support+nature](viśvādhārasvarūpakam)
 
 ## mukta-m0-p03-v74
-[agastya](agastya)+[nandi](nandi)+[sūryāḥ](sūryāśca) [ca](ca) [viṣṇu](viṣṇu)+[skanda](skanda)+[śivāḥ](śivāstathā) [tathā](tathā)
+[agastya+nandi+sūrya](agastyanandisūryāś) [and](ca) [viṣṇu+skanda+śiva](viṣṇuskandaśivās) [likewise](tathā)
 
 ## mukta-m0-p03-v75
-[smṛtāḥ](smṛtāḥ) [śakraḥ](śakraśca) [ca](ca) [utmanī](utmanī) [ca](ca) [eva](eva) [tathā](tathā) [ca](ca) [varuṇaḥ](varuṇastathā) [tathā](tathā)
+[remembered](smṛtāḥ) [śakra](śakraś) [and](ca) [and+utmanī](cotmanī) [and](ca) [indeed](eva) [likewise](tathā) [and](ca) [varuṇa](varuṇas) [likewise](tathā)

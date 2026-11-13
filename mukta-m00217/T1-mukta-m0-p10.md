@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[śaktyante](śaktyante) [tu](tu) [maheśāni](maheśāni) [haṃsaṃ](haṃsaṃ) [māyāṃ](māyāṃ) [ramāṃ](ramāṃ) [tathā](tathā)
+[at-end-of-śakti](śaktyante) [but](tu) [o-great-goddess](maheśāni) [haṃsa](haṃsaṃ) [māyā](māyāṃ) [ramā](ramāṃ) [and](tathā)
 
 ## mukta-m0-p10-v227
-[māyā+bindu+īśvara+yutaṃ](māyābindvīśvarayutaṃ) [sūrya+koṭi+sama+prabham](sūryakoṭisamaprabham)
+[māyā](māyā) [bindu](bindu) [īśvara](īśvara) [joined-with](yutaṃ) [crore-of-suns](sūrya+koṭi) [equal-splendor](sama+prabham)
 
 ## mukta-m0-p10-v228
-[vāntaṃ](vāntaṃ) [vahni+samāyuktaṃ](vahnisamāyuktaṃ) [vāma+netreṇa](vāmanetreṇa) [bhūṣitam](bhūṣitam)
+[emitted](vāntaṃ) [fire](vahni) [joined-with](samāyuktaṃ) [by-left-eye](vāma+netreṇa) [adorned](bhūṣitam)
 
 ## mukta-m0-p10-v229
-[dvitīyaṃ](dvitīyaṃ) [kāmarājaṃ](kāmarājaṃ) [tu](tu) [japeduktvā](japeduktvā) [tu](tu) [sundarīm](sundarīm)
+[second](dvitīyaṃ) [kāmarāja](kāmarājaṃ) [but](tu) [one-should-mutter](japet) [having-uttered](uktvā) [but](tu) [beautiful-one](sundarīm)
 
 ## mukta-m0-p10-v230
-[nāda+bindu+samāyuktaṃ](nādabindusamāyuktaṃ) [māyā+bījaṃ](māyābījaṃ) [prakīrtitam](prakīrtitam)
+[nāda](nāda) [bindu](bindu) [joined-with](samāyuktaṃ) [māyā-seed](māyā+bījaṃ) [is-declared](prakīrtitam)
 
 ## mukta-m0-p10-v231
-[kulākula+maye](kulākulamaye) [madhye](madhye) [dhyeyaṃ](dhyeyaṃ) [sākṣāt](sākṣān) [maheśvari](maheśvari)
+[in-kula-akula](kula+ākula) [consisting-of](maye) [in-middle](madhye) [to-be-meditated](dhyeyaṃ) [visibly](sākṣāt) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p10-v232
-[etajjaptvā](etajjaptvā) [tataḥ](tataḥ) [paścāt](paścāt) [vāgbhava+ākhyaṃ](vāgbhavākhyaṃ) [samuddharet](samuddharet)
+[this](etat) [having-muttered](japtvā) [then](tataḥ) [afterwards](paścāt) [vāgbhava-named](vāgbhava+ākhyaṃ) [one-should-extract](samuddharet)
 
 ## mukta-m0-p10-v233
-[kāmarājaṃ](kāmarājaṃ) [tato](tato) [japtvā](japtvā) [trailokya+kṣobha+kārakam](trailokyakṣobhakārakam)
+[kāmarāja](kāmarājaṃ) [then](tato) [having-muttered](japtvā) [three-worlds](trailokya) [agitating](kṣobha+kārakam)
 
 ## mukta-m0-p10-v234
-[svapnāvatīṃ](svapnāvatīṃ) [mahādevi](mahādevi) [prajapet](prajapecca) [ca](ca) [samāhitaḥ](samāhitaḥ)
+[svapnāvatī](svapnāvatīṃ) [o-great-goddess](mahādevi) [one-should-mutter](prajapet) [and](ca) [composed](samāhitaḥ)
 
 ## mukta-m0-p10-v235
-[madhumatīṃ](madhumatīṃ) [tato](tato) [japtvā](japtvā) [māyāṃ](māyāṃ) [śrī+kūrca+bījakam](śrīkūrcabījakam)
+[madhumatī](madhumatīṃ) [then](tato) [having-muttered](japtvā) [māyā](māyāṃ) [śrī](śrī) [kūrca-seed](kūrca+bījakam)
 
 ## mukta-m0-p10-v236
-[etad+bījaṃ](etadbījaṃ) [samuccārya](samuccārya) [śakti+kūṭaṃ](śaktikūṭaṃ) [tato](tato) [japet](japet)
+[this-seed](etat+bījaṃ) [having-pronounced](samuccārya) [śakti-group](śakti+kūṭaṃ) [then](tato) [one-should-mutter](japet)
 
 ## mukta-m0-p10-v237
-[kāmarāja+ādi+vidyānāṃ](kāmarājādividyānāṃ) [dīpinīṃ](dīpinīṃ) [ca](ca) [eva](eva) [kārayet](kārayet)
+[of-kāmarāja-etc.](kāmarāja+ādi) [of-vidyās](vidyānāṃ) [illuminator](dīpinīṃ) [and](ca) [indeed](eva) [one-should-make](kārayet)
 
 ## mukta-m0-p10-v238
-[saptatriṃśat+prabhedena](saptatriṃśatprabhedena) [ṣaṭtriṃśat+tattva+rūpiṇī](ṣaṭtriṃśattatvarūpiṇī)
+[by-thirty-seven](sapta+triṃśat) [divisions](prabhedena) [thirty-six](ṣaṭ+triṃśat) [principle-formed](tattva+rūpiṇī)
 
 ## mukta-m0-p10-v239
-[śrīkaṇṭha+daśakaṃ](śrīkaṇṭhadaśakaṃ) [tadvat](tadvad) [avyaktasya](avyaktasya) [hi](hi) [vācakam](vācakam)
+[śrīkaṇṭha](śrīkaṇṭha) [decade](daśakaṃ) [likewise](tadvat) [of-the-unmanifest](avyaktasya) [indeed](hi) [denoting](vācakam)
 
 ## mukta-m0-p10-v240
-[śiva+kāma+hara+indrān](śivakāmaharendrāṃśca) [ca](ca) [bhuvaneśīṃ](bhuvaneśīm) [ataḥ](ataḥ) [param](param)
+[śiva](śiva) [kāma](kāma) [harendra](harendrān) [and](ca) [bhuvaneśī](bhuvaneśīm) [thereafter](ataḥ) [beyond](param)
 
 ## mukta-m0-p10-v241
-[unmanyāḥ](unmanyāḥ) [kāmarājaṃ](kāmarājaṃ) [tu](tu) [candra+haṃsau](candrahaṃsau) [tu](tu) [mādanam](mādanam)
+[of-unmanā](unmanyāḥ) [kāmarāja](kāmarājaṃ) [but](tu) [candra](candra) [haṃsa](haṃsau) [but](tu) [mādana](mādanam)
 
 ## mukta-m0-p10-v242
-[śivayoḥ](śivayormādanaṃ) [mādanam](mādanam) [māyā](māyā) [tārtīyaṃ](tārtīyaṃ) [varuṇasya](varuṇasya) [ca](ca)
+[of-śiva-pair](śivayoḥ) [mādana](mādanaṃ) [māyā](māyā) [third](tārtīyaṃ) [of-varuṇa](varuṇasya) [and](ca)
 
 ## mukta-m0-p10-v243
-[śiva+candra+indra+madanā](śivacandrendramadanā) [bhūmiḥ](bhūmiśca) [ca](ca) [bhuvaneśvarī](bhuvaneśvarī)
+[śiva](śiva) [candra](candra) [indra](indra) [madana](madanā) [earth](bhūmiḥ) [and](ca) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p10-v244
-[vahninā](vahnīnopāsitā) [upāsitā](upāsitā) [vidyā](vidyā) [bhoga+mokṣa+phala+pradā](bhogamokṣaphalapradā)
+[by-agni](vahninā) [worshipped](upāsitā) [vidyā](vidyā) [enjoyment](bhoga) [liberation](mokṣa) [fruit-giving](phala+pradā)
 
 ## mukta-m0-p10-v245
-[sakalā](sakalā) [vahni+bhūmiḥ](vahnibhūmiśca) [ca](ca) [bhuvaneśīṃ](bhuvaneśīṃ) [samuddharet](samuddharet)
+[sakalā](sakalā) [fire](vahni) [earth](bhūmiḥ) [and](ca) [bhuvaneśī](bhuvaneśīṃ) [one-should-extract](samuddharet)
 
 ## mukta-m0-p10-v246
-[śiva+mādana+bhūmiḥ](śivamādanabhūmiśca) [ca](ca) [rahalā](rahalā) [bhuvaneśvarī](bhuvaneśvarī)
+[śiva](śiva) [mādana](mādana) [earth](bhūmiḥ) [and](ca) [rahalā](rahalā) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p10-v247
-[vāyunā](vāyūpāsitavidyeyaṃ) [upāsitā](upāsitā) [vidyā](vidyā) [iyaṃ](iyaṃ) [catur+varga+phala+pradā](caturvargaphalapradā)
+[by-vāyu](vāyu) [worshipped](upāsitā) [vidyā](vidyā) [this](iyam) [four-goals](catur+varga) [fruit-giving](phala+pradā)
 
 ## mukta-m0-p10-v248
-[śiva+mādana+sūrya+indra+vahnayaḥ](śivamādanasūryendravahnayo) [bhuvaneśvarī](bhuvaneśvarī)
+[śiva](śiva) [mādana](mādana) [sun](sūrya) [indra](indra) [fires](vahnayaḥ) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p10-v249
-[budhena](budhopāsitavidyeyaṃ) [upāsitā](upāsitā) [vidyā](vidyā) [iyaṃ](iyaṃ) [bhoga+mokṣa+phala+pradā](bhogamokṣaphalapradā)
+[by-budha](budha) [worshipped](upāsitā) [vidyā](vidyā) [this](iyam) [enjoyment](bhoga) [liberation](mokṣa) [fruit-giving](phala+pradā)
 
 ## mukta-m0-p10-v250
-[śiva+mādana+bhūmiḥ](śivamādanabhūmiśca) [ca](ca) [śiva+indra+indra+analāḥ](śivendrendrānalāstathā) [tathā](tathā)
+[śiva](śiva) [mādana](mādana) [earth](bhūmiḥ) [and](ca) [śiva](śiva) [indra](indra) [indra](indra) [fires](analāḥ) [likewise](tathā)
