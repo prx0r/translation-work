@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p113",
  "verse": 2810,
- "question": "What specific benefits should the requested mantra accomplish especially for kings?",
+ "question": "What does the term jyotiḥ refer to in the usages cited by Rudra?",
  "premises": [
-  "Kings are singled out especially.",
-  "Peace is named as a benefit.",
-  "Prosperity is named as a benefit."
+  "The term jyotiḥ is under discussion",
+  "Sun and fire are excluded as referents",
+  "In usages it is neuter and refers to the firefly"
  ],
- "inference": "The mantra should especially accomplish peace and prosperity for kings.",
- "uncertainties": [],
- "plain_english": "Especially for kings, indeed, it should accomplish peace and prosperity."
+ "inference": "According to Rudra, jyotiḥ in these usages is neuter and refers to the firefly, not the sun or fire.",
+ "uncertainties": [
+  "The form bhadyota appears where khadyota might be expected; taken as given."
+ ],
+ "plain_english": "Rudra states that jyotiḥ, neuter in usage, refers to the firefly, not to the sun or fire."
 }

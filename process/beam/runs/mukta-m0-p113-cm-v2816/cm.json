@@ -3,29 +3,34 @@
  "verse": 2816,
  "rows": [
   {
-   "lemma": "vaṭukāya+iti",
-   "morph": "m.dat.sg + (indecl.)",
-   "grounds": "mantra syllables/phrase with quotation marker"
+   "lemma": "kṛtāyāṃ",
+   "morph": "f.loc.sg.past-part.pass √kṛ",
+   "grounds": "locative absolute participle indicating condition"
   },
   {
-   "lemma": "vai",
+   "lemma": "satyāṃ",
+   "morph": "f.loc.sg.pres-part √as",
+   "grounds": "locative participle reinforcing condition"
+  },
+  {
+   "lemma": "naraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject not tainted by sin"
+  },
+  {
+   "lemma": "pāpaiḥ",
+   "morph": "n.inst.pl",
+   "grounds": "instrumental indicating tainting agents"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "negation of taint"
   },
   {
-   "lemma": "paścāt",
-   "morph": "(indecl.)",
-   "grounds": "sequence in mantra"
-  },
-  {
-   "lemma": "āpad+uddharaṇāya",
-   "morph": "n.dat.sg",
-   "grounds": "purpose compound"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "lemma": "lipyate",
+   "morph": "3.sg.pres.pass √lip",
+   "grounds": "present passive indicating absence of taint"
   }
  ]
 }
