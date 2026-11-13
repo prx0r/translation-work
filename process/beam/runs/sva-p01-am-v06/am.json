@@ -1,13 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 6,
- "question": "What status does the preceding point have in relation to what was already stated?",
+ "question": "How explicitly should the preceding point be regarded as having been stated?",
  "premises": [
-  "The expression marks something as already said in effect.",
-  "A point can be conveyed implicitly without full restatement.",
-  "Implicit conveyance counts as having been stated."
+  "The expression marks a prior statement.",
+  "It qualifies that statement as nearly or virtually made.",
+  "Such qualification implies effective prior expression."
  ],
- "inference": "The point is treated as having been virtually stated already.",
+ "inference": "The preceding point should be regarded as having been virtually already said.",
  "uncertainties": [],
- "plain_english": "Thus, it has, as it were, already been said."
+ "plain_english": "This has, as it were, already been said."
 }

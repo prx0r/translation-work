@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "bhavate",
-   "morph": "3.sg.act.pres.ind./bhū",
-   "grounds": "present of bhū"
+   "morph": "3.sg.pres.ātmanepada √bhū",
+   "grounds": "predicate"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation particle"
+   "grounds": "negation"
   },
   {
    "lemma": "atra",
@@ -20,12 +20,12 @@
   {
    "lemma": "saṃdehaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject"
+   "grounds": "what is negated"
   },
   {
    "lemma": "satata+abhyāsa+tatparāḥ",
-   "morph": "compound = member+membership",
-   "grounds": "compound = constant+practice+devoted"
+   "morph": "compound: satata+abhyāsa+tatpara; m.voc.pl",
+   "grounds": "addressed to devoted practitioners"
   }
  ]
 }
