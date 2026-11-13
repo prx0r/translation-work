@@ -3,39 +3,34 @@
  "verse": 1320,
  "rows": [
   {
-   "lemma": "mantra",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
+   "lemma": "savye",
+   "morph": "m.loc.sg",
+   "grounds": "location on the left side"
   },
   {
-   "lemma": "siddhiḥ",
-   "morph": "compound-member",
-   "grounds": "second member indicating attainment"
+   "lemma": "bhuje",
+   "morph": "m.loc.sg",
+   "grounds": "body part"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "badhnīyāt",
+   "morph": "3.sg.opt.act.(√bandh)",
+   "grounds": "optative of bandh (to bind)"
+  },
+  {
+   "lemma": "sarva+saukhya+vatī",
+   "morph": "f.nom.sg",
+   "grounds": "compound: sarva+all, saukhya+happiness, vatī+possessing-feminine"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.opt.act √bhū",
-   "grounds": "resulting state"
-  },
-  {
-   "lemma": "āśu",
-   "morph": "(indecl.)",
-   "grounds": "speed of attainment"
-  },
-  {
-   "lemma": "kiṅkarāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "resulting status of minor powers"
-  },
-  {
-   "lemma": "kṣudra",
-   "morph": "compound-member",
-   "grounds": "first member of compound"
-  },
-  {
-   "lemma": "siddhayaḥ",
-   "morph": "f.nom.pl",
-   "grounds": "powers that become servants"
+   "morph": "3.sg.opt.act.(√bhū)",
+   "grounds": "optative of bhū (to become)"
   }
  ]
 }

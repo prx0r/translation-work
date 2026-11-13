@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[dhenu-mudra-amrta-krtya](dhenumudrāmṛtīkṛtya) [dravya-suddhi](dravyaśuddhiṃ) [sam-a-carat](samācaret)
+[cow-seal](dhenumudrām) + [having-made-nectar](amṛtīkṛtya) [substance](dravya) + [purification](śuddhiṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p24-v577
-[dravya-snana](dravyasnānaṃ) [tatah](tataḥ) [kuryat](kuryāddakṣe) [krtva](kṛtvā) [ca](ca) [cullaka](cullakam)
+[substance](dravya) + [bathing](snānaṃ) [then](tataḥ) [one-should-do](kuryāt) [in-the-right-hand](dakṣe) [having-made](kṛtvā) [and](ca) [hollow-of-hand](cullakam)
 
 ## mukta-m0-p24-v578
-[vamana-nasa-angustha-yoga](vāmanāsāṅguṣṭhayogāt) [puja-dravyesu](pūjādravyeṣu) [niksipet](nikṣipet)
+[left](vāma) + [nostril](nāsa) + [thumb](aṅguṣṭha) + [by-union](yogāt) [in-worship](pūjā) + [substances](dravyeṣu) [one-should-place](nikṣipet)
 
 ## mukta-m0-p24-v579
-[hastabhyam](hastābhyāṃ) [marjayet](mārjayeddehaṃ) [deham](dehaṃ) [mula-mantram](mūlamantraṃ) [sam-uccaran](samuccaran)
+[with-both-hands](hastābhyāṃ) [one-should-wipe](mārjayet) + [body](dehaṃ) [root](mūla) + [mantra](mantraṃ) [uttering](samuccaran)
 
 ## mukta-m0-p24-v580
-[ata-eva](ata-eva) [nama](nāma) [tasya](tasya) [surah](sureti) [bhuvana-traye](bhuvanatraye)
+[therefore](ata-eva) [name](nāma) [of-that](tasya) [sura](surā) + [thus](iti) [in-the-three](bhuvana) + [worlds](traye)
 
 ## mukta-m0-p24-v581
-[tad-gandha-aghrana-matrena](tadgandhāghrāṇamātreṇa) [sata-kratu-phalam](śatakratuphalaṃ) [labhet](labhet)
+[of-that](tat) + [fragrance](gandha) + [by-mere-smelling](āghrāṇamātreṇa) [hundred](śata) + [Indra-sacrifice](kratuphalaṃ) [one-obtains](labhet)
 
 ## mukta-m0-p24-v582
-[tatha](tathā) [tat-panatah](tatpānataḥ) [saksat](sākṣāllabhet) [muktim](muktiṃ) [catur-vidham](caturvidhām)
+[likewise](tathā) [by-drinking](tatpānataḥ) [that](tat) [directly](sākṣāt) + [one-obtains](labhet) [liberation](muktiṃ) [fourfold](caturvidhām)
 
 ## mukta-m0-p24-v583
-[tat-svade](tatsvāde) [ca](ca) [kriya-saktih](kriyāśaktiḥ) [cetah](cetaḥ) [sodhana-sadhana](śodhanasādhanā)
+[of-that](tat) + [in-taste](svāde) [and](ca) [action](kriyā) + [power](śaktiḥ) [mind](cetaḥ) + [purification](śodhana) + [means](sādhanā)
 
 ## mukta-m0-p24-v584
-[iti](iti) [sri-mat-jnana-ananda-paramahamsa-viracite](śrīmajjñānānandaparamahaṃsaviracite) [kaulavali-nirnaye](kaulāvalīnirṇaye) [caturtha-ullasah](caturthollāsaḥ)
+[thus](iti) [in-the-venerable](śrīmat) + [Jñānānanda](jñānānanda) + [Paramahaṃsa](paramahaṃsa) + [composed](viracite) [in-the-Kaulāvalīnirṇaya](kaulāvalīnirṇaye) [fourth](caturtha) + [chapter](ullāsaḥ)
 
 ## mukta-m0-p24-v585
-[mamsam](māṃsañca) [ca](ca) [tri-vidham](trividhaṃ) [proktam](proktaṃ) [jala-bhu-cara-khecaram](jalabhūcarakhecaram)
+[meat](māṃsaṃ) + [and](ca) [threefold](trividhaṃ) [declared](proktaṃ) [water](jala) + [land](bhū) + [moving](cara) + [sky-moving](khecaram)
 
 ## mukta-m0-p24-v586
-[maha-mamsa-astakam](mahāmāṃsāṣṭakaṃ) [proktam](proktaṃ) [devata-pri-ti-karakam](devatāprītikārakam)
+[great](mahā) + [meats](māṃsa) + [eight](aṣṭakaṃ) [declared](proktaṃ) [deity](devatā) + [pleasure](prīti) + [causing](kārakam)
 
 ## mukta-m0-p24-v587
-[etan-mamsa-astakam](etanmāṃsāṣṭakaṃ) [proktam](proktaṃ) [ca](ca) [candika-pri-ti-karakam](caṇḍikāprītikārakam)
+[this](etat) + [meat](māṃsa) + [eight](aṣṭakaṃ) [declared](proktaṃ) [Caṇḍikā](caṇḍikā) + [pleasure](prīti) + [causing](kārakam)
 
 ## mukta-m0-p24-v588
-[varaha](varāhavyāghrabhallūkaśaśakāḥ) [vyaghra](varāhavyāghrabhallūkaśaśakāḥ) [bhalluka](varāhavyāghrabhallūkaśaśakāḥ) [sasaka](varāhavyāghrabhallūkaśaśakāḥ) [kurma](kūrmakukkuṭau) [kukkuta](kūrmakukkuṭau)
+[boar](varāha) + [tiger](vyāghra) + [bear](bhallūka) + [hare](śaśakāḥ) [tortoise](kūrma) + [fowl](kukkuṭau)
 
 ## mukta-m0-p24-v589
-[manusyah](manuṣyo) [gavayah](gavayaścaiva) [ca](ca) [eva](eva) [sallaki](śallakī) [ca](ca) [visesatah](viśeṣataḥ)
+[human](manuṣyo) [wild-ox](gavayaḥ) + [and](ca) + [indeed](eva) [porcupine](śallakī) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p24-v590
-[vihita](vihitā) [balayah](balayaḥ) [proktah](proktāścaṇḍikāprītikārakāḥ) [candika-pri-ti-karakah](caṇḍikāprītikārakāḥ)
+[prescribed](vihitā) [offerings](balayaḥ) [declared](proktāḥ) + [Caṇḍikā](caṇḍikā) + [pleasure](prīti) + [causing](kārakāḥ)
 
 ## mukta-m0-p24-v591
-[esam](eṣāmekatamaṃ) [ekatamam](ekatamaṃ) [labdhva](labdhvā) [tarpana-artham](tarpaṇārthaṃ) [prakalpayet](prakalpayet)
+[of-these](eṣām) + [one](ekatamaṃ) [having-obtained](labdhvā) [for-oblation](tarpaṇārthaṃ) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p24-v592
-[pitr-daivata-yajnesu](pitṛdaivatayajñeṣu) [vede](vede) [himsa](hiṃsā) [vidhiyate](vidhīyate)
+[ancestor](pitṛ) + [deity](daivata) + [in-sacrifices](yajñeṣu) [in-the-Veda](vede) [killing](hiṃsā) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p24-v593
-[animittam](animittaṃ) [trnam](tṛṇaṃ) [va](vāpi) [api](api) [chedayet](chedayenna) [na](na) [kadacana](kadācana)
+[without-cause](animittaṃ) [grass-blade](tṛṇaṃ) [or-even](vāpi) [one-should-cut](chedayet) + [not](na) [ever](kadācana)
 
 ## mukta-m0-p24-v594
-[mamsam](māṃsaṃ) [vina](vināpi) [api](api) [pujayam](pūjāyāṃ) [papam](pāpaṃ) [syat](syācca) [ca](ca) [pade](pade) [pade](pade)
+[meat](māṃsaṃ) [without](vinā) + [even](api) [in-worship](pūjāyāṃ) [sin](pāpaṃ) [would-be](syāt) + [and](ca) [at-step](pade) [at-step](pade)
 
 ## mukta-m0-p24-v595
-[hanyat](hanyānmantreṇa) [mantrena](mantreṇa) [ca](ca) [anena](anena) [tvabhimantrya](tvabhimantrya) [pasum](paśuṃ) [tatah](tataḥ)
+[one-should-kill](hanyāt) + [with-mantra](mantreṇa) [and](ca) + [with-this](anena) [having-consecrated](tu) + [having-consecrated](abhimantrya) [animal](paśuṃ) [then](tataḥ)
 
 ## mukta-m0-p24-v596
-[tad-buddhasva](tadbuddhasva) [pasoh](paśo) [tvam](tvaṃ) [hi](hi) [ma-sivah](māśivastvaṃ) [tvam](tvaṃ) [sivah](śivo'si) [asi](asi) [hi](hi)
+[that](tad) + [awakened](buddha) + [be](sva) [O-animal](paśo) [you](tvaṃ) [indeed](hi) [not](mā) + [Śiva](śivaḥ) + [you](tvaṃ) [Śiva](śivaḥ) + [are](asi) [indeed](hi)
 
 ## mukta-m0-p24-v597
-[paramatma](paramātmā) [tad-anande](tadānande) [tasmāt](tasmāt) [sevyam](sevyamidaṃ) [idam](idaṃ) [priye](priye)
+[supreme](parama) + [self](ātmā) [then](tadā) + [in-bliss](ānande) [therefore](tasmāt) [to-be-served](sevyam) + [this](idaṃ) [O-beloved](priye)
 
 ## mukta-m0-p24-v598
-[pujasu](pūjāsu) [amamamsani](āmamāṃsāni) [dadyat](dadyādvai) [vai](vai) [sadakah](sādhakaḥ) [kvacit](kvacit)
+[in-worships](pūjāsu) [raw](āma) + [meats](māṃsāni) [one-should-give](dadyāt) + [indeed](vai) [practitioner](sādhakaḥ) [sometimes](kvacit)
 
 ## mukta-m0-p24-v599
-[samsodhayet](saṃśodhayettu) [tu](tu) [mamsani](māṃsāni) [yatha-sastra-pramanatah](yathāśāstrapramāṇataḥ)
+[one-should-purify](saṃśodhayet) + [but](tu) [meats](māṃsāni) [as](yathā) + [scripture](śāstra) + [authority](pramāṇataḥ)
 
 ## mukta-m0-p24-v600
-[astra-antam](astrāntamūlamantreṇa) [mula-mantrrena](mūlamantreṇa) [proksayitva](prokṣayitvā) [ca](ca) [sadakah](sādhakaḥ)
+[weapon](astra) + [ending](antam) + [root](mūla) + [with-mantra](mantreṇa) [having-sprinkled](prokṣayitvā) [and](ca) [practitioner](sādhakaḥ)

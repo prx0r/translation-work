@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-with-ornaments (sālaṅkārāṃ) cause-endowed (hetuyuktām) childless (anapatyāṃ) charming (manoramām)
+[with-ornaments](sālaṅkārāṃ) [with-reason+endowed](hetuyuktām) [without-offspring](anapatyāṃ) [delightful-to-mind](manoramām)
+
 ## mukta-m0-p27-v652
-aspirant-desiring-heart (sādhakākāṅkṣahṛdayāṃ) arts-scripture-inquiring (kalāśāstravicāriṇīm)
+[practitioner+desire](sādhakākāṅkṣa)+[heart](hṛdayāṃ) [arts](kalā)+[śāstras](śāstra)+[versed-in](vicāriṇīm)
+
 ## mukta-m0-p27-v653
-by-previously-stated-order-union (pūrvoktakramayogena) truth-generate (tattvamutpādayet) wise-one (sudhīḥ)
+[previously+mentioned](pūrvokta)+[sequence](krama)+[method](yogena) [principle](tattvam) [should-produce](utpādayet) [wise-one](sudhīḥ)
+
 ## mukta-m0-p27-v654
-this (idaṃ) sphere-born (golodbhavaṃ) substance (dravyaṃ) deity-satisfaction-causing (devatātṛptikārakam)
+[this](idam) [from-cow+born](golodbhavaṃ) [substance](dravyaṃ) [deity+satisfaction](devatātṛpti)+[causing](kārakam)
+
 ## mukta-m0-p27-v655
-various-fragrance-endowed (nānāgandhasamāyuktaṃ) three-pungents-included (kaṭutrayasamanvitam)
+[various](nānā)+[fragrances](gandha)+[endowed-with](samāyuktaṃ) [pungent](kaṭu)+[triad](traya)+[accompanied-by](samanvitam)
+
 ## mukta-m0-p27-v656
-purify (śodhayet) vessels-spheres-etc (kuṇḍagolādīn) conduct-rite-concentrated (nayatvarcāsamāhitaḥ)
+[should-purify](śodhayet) [kuṇḍa](kuṇḍa)+[gola](gola)+[and-others](ādīn) [humility](nayatva)+[worship](arcā)+[composed](samāhitaḥ)
+
 ## mukta-m0-p27-v657
-sprinkle (āsiñcatu) prajāpati (prajāpatiḥ) creator (dhātā) embryo (garbhaṃ) place (dadhātu) your (te)
+[may-sprinkle](āsiñcatu) [Prajāpati](prajāpatiḥ) [Dhātā](dhātā) [womb](garbhaṃ) [may-place](dadhātu) [for-you](te)
+
 ## mukta-m0-p27-v658
-embryo (garbhaṃ) your (te) ashvins (aśvinau) gods (devau) place (dhādhattāṃ) puṣkara-garlanded (puṣkarasrajau)
+[womb](garbhaṃ) [for-you](te) [Aśvins](aśvinau) [gods](devā) [may-place](dhādhattāṃ) [lotus](puṣkara)+[garlanded](srajau)
+
 ## mukta-m0-p27-v659
-immortal (amṛte) immortal-born (amṛtodbhave) immortal-raining (amṛtavarṣiṇī) thus (iti) and (ca)
+[o-immortal-one](amṛte) [o-immortality+born](amṛtodbhave) [o-immortality+showering](amṛtavarṣiṇi) [thus](iti) [and](ca)
+
 ## mukta-m0-p27-v660
-remainder (śeṣaṃ) as-before (pūrvavad) ācārya (ācarya) or (athavā) another (anyatamam) perform (ācaret)
+[remainder](śeṣaṃ) [as-before](pūrvavat) [one-should-perform](ācarya) [or](atha) [or-another](vā) [any-one](anyatamañ) [should-practice](caret)
+
 ## mukta-m0-p27-v661
-fire-wife (vahnijāyā) tāra-māyā (tāramāyā) śrī-seed (śrībījaṃ) beloved-of-love (suratipriye)
+[fire+consort](vahnijāyā) [tāra](tāra)+[māyā](māyā) [Śrī+bīja](śrībījaṃ) [o-love+beloved](suratipriye)
+
 ## mukta-m0-p27-v662
-then (tato) amṛtodbhavāya (amṛtodbhavāya) thus (iti) immortal-raining (amṛtavarṣiṇī) supreme (param)
+[then](tataḥ) [to-immortality+born](amṛtodbhavāya) [thus](iti) [immortality+showering](amṛtavarṣiṇī) [supreme](param)
+
 ## mukta-m0-p27-v663
-fire-wife-ending-mantra (vahnijāyāntamantreṇa) substance-purification (dravyaśuddhiṃ) perform (samācaret)
+[fire+consort](vahnijāyā)+[ending](anta)+[with-mantra](mantreṇa) [substance+purification](dravyaśuddhiṃ) [one-should-perform](samācaret)
+
 ## mukta-m0-p27-v664
-by-that-immortal (tenāmṛtena) goddess (deveśīṃ) satisfy (tarpayet) best-practitioner (sādhakottamaḥ)
+[by-that](tena) [immortal-nectar](amṛtena) [goddess](deveśīṃ) [should-satisfy](tarpayet) [practitioner+best](sādhakottamaḥ)
+
 ## mukta-m0-p27-v665
-soon (acirāt) death (mṛtyum) obtains (āpnoti) duality (dvandvaṃ) having-done (kṛtvā) lowest-man (narādhamaḥ)
+[quickly](acirāt) [death](mṛtyum) [obtains](āpnoti) [union](dvandvaṃ) [having-done](kṛtvā) [man+lowest](narādhamaḥ)
+
 ## mukta-m0-p27-v666
-by-doubt (śaṅkayā) arises (jāyate) languor (glāniḥ) by-doubt (śaṅkayā) suffering-vessel (duḥkhabhājanam)
+[by-doubt](śaṅkayā) [arises](jāyate) [weariness](glāniḥ) [by-doubt](śaṅkayā) [suffering+recipient](duḥkhabhājanam)
+
 ## mukta-m0-p27-v667
-by-doubt (śaṅkayā) accomplishment-loss (siddhihāniḥ) would-be (syāt) therefore (tasmāt) doubt (śaṅkāṃ) abandon (parityajet)
+[by-doubt](śaṅkayā) [success+loss](siddhihāniḥ) [would-be](syāt) [therefore](tasmāt) [doubt](śaṅkāṃ) [one-should-abandon](parityajet)
+
 ## mukta-m0-p27-v668
-small-limbed (svalpāṅgīṃ) long-haired (dīrghakeśīṃ) and (ca) practitioner (sādhakaḥ) pure-mind (śuddhabhāvataḥ)
+[slender+limbed](svalpāṅgīṃ) [long+haired](dīrghakeśīṃ) [and](ca) [practitioner](sādhakaḥ) [pure+disposition](śuddhabhāvataḥ)
+
 ## mukta-m0-p27-v669
-her (tasyāḥ) flowers (puṣpaiḥ) effort (prayatnena) all-desires (sarvakāmam) obtain (upālabhet)
+[her](tasyāḥ) [with-flowers](puṣpaiḥ) [with-effort](prayatnena) [all+desires](sarvakāmam) [one-may-obtain](upālabhet)
+
 ## mukta-m0-p27-v670
-fragrant (sugandhā) she (sā) love-etc (suratādyaiḥ) bilva-leaves (bilvapatraiḥ) perfumed (sugandhitā)
+[fragrant](sugandhā) [she](sā) [with-love-making+and-others](suratādyaiḥ) [with-bilva+leaves](bilvapatraiḥ) [well-perfumed](sugandhitā)
+
 ## mukta-m0-p27-v671
-fair-limbed (gaurāṅgī) nourished-thighs (puṣṭajaṅghā) who (yā) nourished-hands (puṣṭahastā) intoxicated (madāturā)
+[fair+limbed](gaurāṅgī) [full+calved](puṣṭajaṅghā) [who](yā) [full+handed](puṣṭahastā) [passion+afflicted](madāturā)
+
 ## mukta-m0-p27-v672
-flower-fragrant (puṣpagandhā) world-mother (jagaddhātrī) she (sā) always (sadā) krishna-formed (kṛṣṇarūpiṇī)
+[flower+fragrance](puṣpagandhā) [world+mother](jagaddhātrī) [she](sā) [always](sadā) [dark+form](kṛṣṇarūpiṇī)
+
 ## mukta-m0-p27-v673
-emaciated-limbed (kṣīṇāṅgī) and (ca) when (yadā) black (kṛṣṇā) long-haired (dīrghakeśī) intoxicated (madākulā)
+[slender+limbed](kṣīṇāṅgī) [and](ca) [when](yadā) [dark](kṛṣṇā) [long+haired](dīrghakeśī) [passion+agitated](madākulā)
+
 ## mukta-m0-p27-v674
-nourished (puṣṭā) dwarf (kharvā) black-limbed (asitāṅgī) who (yā) she (sā) becomes (bhaven) love-refuge (madanāśrayā)
+[full](puṣṭā) [short](kharvā) [dark+limbed](asitāṅgī) [who](yā) [she](sā) [should-be](bhavet) [passion+abode](madanāśrayā)
+
 ## mukta-m0-p27-v675
-thin-limbed (kṛśāṅgī) fair-long (gauradīrghā) who (yā) she (sā) supreme (parā) child-garlanded (śiśumālinā)
+[slender+limbed](kṛśāṅgī) [fair+long](gauradīrghā) [who](yā) [she](sā) [supreme](parā) [with-child+garlanded](śiśumālinā)

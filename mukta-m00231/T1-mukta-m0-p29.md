@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-in-absence-of-meat(māṃsābhāve) but(tu) garlic-ginger(lasunamārdrakaṃ) dry-ginger(nāgaram) and(tu) or(vā)
+[meat+absence](māṃsābhāve) [but](tu) [garlic](lasunam) [ginger](ārdrakaṃ) [dry-ginger](nāgaram) [but](tu) [or](vā)
 
 ## mukta-m0-p29-v702
-meat-substitute(māṃsānukalpaṃ) declared(kathitaṃ) fish(mīnasya) then(atha) rite(vidhiṃ) hear(śṛṇu)
+[meat+substitute](māṃsānukalpaṃ) [declared](kathitaṃ) [of-fish](mīnasya) [now](atha) [rule](vidhiṃ) [hear](śṛṇu)
 
 ## mukta-m0-p29-v703
-fruit-root(falamūlaṃ) and(ca) whatever(yatkiñcit) burnt(dagdhaṃ) if(cet) meat(āmiṣaṃ) becomes(bhavet)
+[fruit+root](phalamūlam) [and](ca) [whatever](yatkiñcit) [roasted](dagdham) [if](cet) [meat](āmiṣaṃ) [may-be](bhavet)
 
 ## mukta-m0-p29-v704
-other(aparā) flower-pistil(puṣpagarbhe) then(tu) family-place(kulasthānaṃ) charming(mano-ramaṃ)
+[aparājitā+flower+womb](aparāpuṣpagarbhe) [but](tu) [kulattha+place](kulasthānaṃ) [delightful](manoramam)
 
 ## mukta-m0-p29-v705
-in-horse-flower(hayārikusume) always(nityaṃ) self(svayam) is(asti) sadāśivaḥ(sadāśivaḥ)
+[hayāri+flower](hayārikusume) [always](nityaṃ) [himself](svayam) [is](asti) [Sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p29-v706
-red-saffron-color(raktakuṅkumarāgaṃ) or(vā) divided(bhinnaṃ) principle(tattvaṃ) śiva-nature(śivātmakam)
+[red+kumkuma+color](raktakuṅkumarāgaṃ) [or](vā) [split](bhinnaṃ) [principle](tattvaṃ) [Śiva+natured](śivātmakam)
 
 ## mukta-m0-p29-v707
-moment(kṣaṇaṃ) considering(vicintya) there(tatra) indeed(eva) worshipping(saṃpūjya) supreme-goddess(parameśvarīm)
+[moment](kṣaṇaṃ) [having-contemplated](vicintya) [there+indeed](tatraiva) [having-worshipped](saṃpūjya) [supreme+goddess](parameśvarīm)
 
 ## mukta-m0-p29-v708
-from-within(antarāt) more(adhikaṃ) known(jñeyaṃ) this(etat) substance(dravyaṃ) very-rare(sudurlabham)
+[within](antarāt) [more](adhikaṃ) [to-be-known](jñeyaṃ) [this+substance](etaddravyaṃ) [very+difficult-to-obtain](sudurlabham)
 
 ## mukta-m0-p29-v709
-taking(ādāya) worship(pūjayet) goddess(devīm) otherwise(anyathā) fruitless(niṣphalaṃ) becomes(bhavet)
+[having-taken](ādāya) [one-should-worship](pūjayet) [goddess](devīm) [otherwise](anyathā) [fruitless](niṣphalaṃ) [may-be](bhavet)
 
 ## mukta-m0-p29-v710
-by-own-hand(svahastena) beast(paśuṃ) killing(hatvā) raurava-hell(rauravaṃ narakaṃ) goes(vrajet)
+[own+hand](svahastena) [animal](paśuṃ) [having-killed](hatvā) [Raurava](rauravaṃ) [hell](narakaṃ) [goes](vrajet)
 
 ## mukta-m0-p29-v711
-thus(iti) śrī-jñānānanda-paramahaṃsa-composed(śrīmajjñānānandaparamahaṃsaviracite) kaulāvalī-nirṇaya(kaulāvalīnirṇaye) fifth-ullāsa(pañcamollāsaḥ)
+[thus](iti) [śrīmat+jñānānanda+paramahaṃsa+composed](śrīmajjñānānandaparamahaṃsaviracite) [in-Kaulāvalīnirṇaya](kaulāvalīnirṇaye) [fifth+chapter](pañcamollāsaḥ)
 
 ## mukta-m0-p29-v712
-receiving-command(gṛhītvājñāṃ) great-goddess(mahādevyā) special-arghya(viśeṣārghyaṃ) perform(samācaret)
+[having-received](gṛhītvā) [command](ājñāṃ) [of-great-goddess](mahādevyā) [special+arghya](viśeṣārghyaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p29-v713
-triangle(trikoṇaṃ) and(ca) eva(eva) hexagon(ṣaṭkoṇaṃ) circle(vṛttaṃ) earth-house(bhūgṛha) with(saṃyutam)
+[triangle](trikoṇam) [and+indeed](caiva) [hexagon](ṣaṭkoṇaṃ) [circle](vṛttaṃ) [with-earth-house](bhūgṛhasaṃyutam)
 
 ## mukta-m0-p29-v714
-weapon-root-mantra(astrāntamūlamantreṇa) common-arghya-water(sāmānyārghyajalena) and(ca)
+[with-astra+ending+root+mantra](astrāntamūlamantreṇa) [with-common+arghya+water](sāmānyārghyajalena) [and](ca)
 
 ## mukta-m0-p29-v715
-square(caturasre) full-mountain(pūrṇaśailam) uḍḍīyāna(uḍḍīyānaṃ) jalandhara(jalandharam)
+[in-square](caturasre) [Pūrṇaśaila](pūrṇaśailam) [Uḍḍīyāna](uḍḍīyānaṃ) [Jalandhara](jalandharam)
 
 ## mukta-m0-p29-v716
-six-limbs(aṅgaṣaṭkaṃ) worship(yajet) there(tatra) in-hexagons(ṣaṭkoṇeṣu) and(ca) mantra-knower(mantravit)
+[limb+six](aṅgaṣaṭkaṃ) [one-should-worship](yajet) [there](tatra) [in-hexagons](ṣaṭkoṇeṣu) [and](ca) [mantra+knower](mantravit)
 
 ## mukta-m0-p29-v717
-support-power(ādhāraśaktiṃ) in-middle(madhye) and(ca) worshipping(saṃpūjya) thereafter(tadanantaram)
+[support+power](ādhāraśaktiṃ) [in-middle](madhye) [and](ca) [having-worshipped](saṃpūjya) [after+that](tadanantaram)
 
 ## mukta-m0-p29-v718
-without-support(ādhāreṇa vinā) fall(bhraṃśaḥ) not(na) and(ca) satisfied(tṛpyanti) mothers(mātaraḥ)
+[support](ādhāreṇa) [without](vinā) [fall](bhraṃśo) [not](na) [and](ca) [are-satisfied](tṛpyanti) [mothers](mātaraḥ)
 
 ## mukta-m0-p29-v719
-support(ādhāraṃ) three-footed(tripadaṃ) declared(proktaṃ) six-footed(ṣaṭpadaṃ) or(vā) four-footed(catuṣpadam)
+[support](ādhāraṃ) [three+part](tripadaṃ) [declared](proktaṃ) [six+part](ṣaṭpadaṃ) [or](vā) [four+part](catuṣpadam)
 
 ## mukta-m0-p29-v720
-of-these(eṣām) one(anyatamaṃ) establishing(sthāpya) worship(pūjayet) kula-path(kulavartmanā)
+[of-these](eṣām) [any+one](anyatamaṃ) [having-established](sthāpya) [one-should-worship](pūjayet) [by-Kula+path](kulavartmanā)
 
 ## mukta-m0-p29-v721
-first(ādau) with-moon(senduṃ) great-time(mahākālaṃ) fire-maṇḍala(vahnimaṇḍalaṃ) with-ṅa(ṅeyutam)
+[at-beginning](ādau) [with-moon](senduṃ) [Mahākāla](mahākālaṃ) [fire+circle](vahnimaṇḍalaṃ) [with-ṅe](ṅeyutam)
 
 ## mukta-m0-p29-v722
-there(tatra) worship(sampūjayed) of-fire(vahneḥ) ten-kalās(kalādaśakaṃ) by-name(saṃjñayā)
+[there](tatra) [one-should-worship](sampūjayet) [of-fire](vahneḥ) [digit+ten](kalādaśakaṃ) [by-name](saṃjñayā)
 
 ## mukta-m0-p29-v723
-suśrīḥ(suśrīḥ) beautiful(surūpā) tawny(kapilā) offering-to-gods-and-ancestors(havyakavyavahe) and(api) ca(ca)
+[Suśrīḥ](suśrīḥ) [Surūpā](surūpā) [Kapilā](kapilā) [Havyakavyavahā](havyakavyavahe) [also](api) [and](ca)
 
 ## mukta-m0-p29-v724
-with-ṅa(ṅeyutā) indeed(vai) ending-in-namo(namo'ntāḥ) and(ca) kalās(kalāḥ) of-fire(vahner) thus(itīritāḥ)
+[with-ṅe](ṅeyutā) [indeed](vai) [with-namaḥ+ending](namo'ntāḥ) [and](ca) [digits](kalā) [of-fire](vahneḥ) [thus+declared](itīritāḥ)
 
 ## mukta-m0-p29-v725
-gold-silver-stone-tortoise-skull-gourd-clay(svarṇaraupyaśilākūrmakapālālābumṛṇmayam)
+[gold+silver+stone+tortoise+skull+gourd+earthen](svarṇaraupyaśilākūrmakapālālābumṛṇmayam)
