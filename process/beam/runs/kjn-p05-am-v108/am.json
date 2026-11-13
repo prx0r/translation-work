@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 108,
- "question": "Who is the supreme soul called Haṃsa and power-individual?",
+ "question": "Who is the supreme soul called haṃsa and power-individual?",
  "premises": [
   "soul is supreme",
-  "soul is haṃsa",
+  "soul is called haṃsa",
   "soul is power-individual"
  ],
- "inference": "The supreme soul is Haṃsa, the power-individual.",
- "uncertainties": [],
- "plain_english": "He is the soul, supreme indeed; he is Haṃsa, the power-individual."
+ "inference": "The supreme soul is identified as haṃsa and power-individual.",
+ "uncertainties": [
+  "exact metaphysical sense of power-individual"
+ ],
+ "plain_english": "He is the soul, supreme indeed; he is haṃsa, power-individual."
 }

@@ -1,15 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 316,
- "question": "What additional vessel types are named beyond the material list?",
+ "question": "Is a kaulika vessel likewise another glass-born vessel?",
  "premises": [
-  "kaulika is named",
-  "another vessel is named",
-  "glass origin is named"
+  "Kaulika is named",
+  "The addressee is fair-hipped",
+  "Another glass-born vessel is named"
  ],
- "inference": "kaulika and glass-born vessels are also included",
+ "inference": "The verse pairs kaulika with another glass-born vessel.",
  "uncertainties": [
-  "kaulika may be a class or material"
+  "Legacy hints only; no full parsing provided"
  ],
- "plain_english": "Kaulika indeed, O fair-hipped one, likewise another glass-born."
+ "plain_english": "Kaulika indeed, O fair-hipped one, likewise another glass-born vessel."
 }

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 111,
- "question": "How is this tradition-transmitted teaching heard?",
+ "question": "What is heard abiding in the ear and come through tradition?",
  "premises": [
-  "teaching abides in ear",
+  "something abides in the ear",
   "it is heard",
   "it comes through tradition"
  ],
- "inference": "This teaching, transmitted through tradition, is heard as abiding in the ear.",
- "uncertainties": [],
- "plain_english": "O goddess, this, come down through tradition, is heard abiding in the ear."
+ "inference": "The teaching is heard in the ear and transmitted through tradition.",
+ "uncertainties": [
+  "exact content heard"
+ ],
+ "plain_english": "O goddess, it is heard abiding in the ear, come down through tradition."
 }

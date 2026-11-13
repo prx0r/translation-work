@@ -1,17 +1,16 @@
 {
  "song": "kjn-p13",
  "verse": 318,
- "question": "What is the status of fallen and non-fallen lords in the cakra hierarchy?",
+ "question": "May that lord and fallen one be the supreme cakra?",
  "premises": [
-  "lord is named",
-  "fallen one is named",
-  "that may be",
-  "cakra supreme is named"
+  "Lord and fallen are named",
+  "That may be",
+  "Supreme cakra is named"
  ],
- "inference": "the verse poses a question about lordship and fallen status",
+ "inference": "The verse asks whether that lord and fallen one may be the supreme cakra.",
  "uncertainties": [
-  "text is corrupt or elliptical",
-  "final token is punctuation"
+  "Legacy hints only; no full parsing provided",
+  "Final token is uncertain"
  ],
- "plain_english": "Lord and fallen one, that may be, cakra supreme?"
+ "plain_english": "Lord and fallen, that may be the supreme cakra?"
 }
