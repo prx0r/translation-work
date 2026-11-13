@@ -5,73 +5,73 @@
 and(ca) at-tip(agre) in-triangle(trikoṇe) in-middle(madhyame) should-place(nyaset)
 
 ## mukta-m0-p267-v6652
-with-vowels(svara)+written(alekhyā) in-pairs(dvandva)+on-sharp(śogra)+petals(daleṣu) and(ca)
+with-vowels(svara) + to-be-written(ālekhyā) in-pairs(dvandvaśa) + on-sharp(ugra) + petals(daleṣu) and(ca)
 
 ## mukta-m0-p267-v6653
-in-order(kramāt) of-petals(dalānāṃ) knots(granthīn) and(ca) with-two-praṇavas(praṇavābhyāṃ) then(tataḥ) should-proceed(caret)
+in-order(kramāt) of-petals(dalānāṃ) and-knots(granthīn) + and(ca) with-two-praṇavas(praṇavābhyāṃ) then(tataḥ) + should-proceed(caret)
 
 ## mukta-m0-p267-v6654
-should-write(likhet) syllables(varṇān) in-order(kramāt) from-three(tribhyaḥ) and(ca) from-east(pūrvataḥ)
+should-write(likhet) + syllables(varṇān) + in-order(kramāt) from-three(tribhyaḥ) + and(ca) from-east(pūrvataḥ)
 
 ## mukta-m0-p267-v6655
-tha-da-dhān(thadadhān) and-na-pha-vān(naphavān) and(ca) also(api) bha-sa-rān(bhasarān) and-laṁ-va-ṣān(laṁvaṣān) likewise(tathā)
+tha-da-dha(tha-dha-dhān) + na-pha-vāḥ(na-pha-vāḥ) + and-also(ca) + and(api) bha-sa-rā(bha-sa-rāt) + laṁ-va-ṣān(laṁ-va-ṣān) + likewise(tathā)
 
 ## mukta-m0-p267-v6656
-square(caturasra)+triad(trayaṃ) should-make(kuryāt) outside-that(tat)+outside(bāhye) deity(devatā)+worship(arcanam)
+square(caturasra) + triad(trayaṃ) should-make(kuryāt) + outside-that(tat-bāhye) deity(devatā) + worship(arcanam)
 
 ## mukta-m0-p267-v6657
-twelve(dvādaśa) these(etāḥ) and(ca) in-first-row(ādya)+in-row(vīthyām) in-one(ekasyāṃ) direction(diśi) but(tu) three(trayam)
+twelve(dvādaśa) + these(etāḥ) + and(ca) + in-first-row(ādya-vīthyām) + in-one(ekasyāṃ) direction(diśi) but(tu) three(trayam)
 
 ## mukta-m0-p267-v6658
-jñāna(jñāna) utkriyā(utkriyā) kubjikā(kubjikā) and(ca) bimbā(bimbā) devī(devī) viṣaghnikā(viṣaghnikā)
+jñāna-utkriyā-kubjikā(jñāna-utkriyā-kubjikā) and(ca) bimbā(bimbā) goddess(devī) viṣaghnikā(viṣaghnikā)
 
 ## mukta-m0-p267-v6659
-you(yūyaṃ) that(tat) hear(śṛṇudhvaṃ) with-concentrated-minds(samāhitāḥ)
+you(yūyaṃ) that(tat) + hear(śṛṇudhvaṃ) with-concentrated-minds(samāhitāḥ)
 
 ## mukta-m0-p267-v6660
-gaṅgā(gaṅgā)+wave(taraṅga)+white(dhavalaṃ) chowrie(cāmara)+pair(dvayam) o-mountain-daughter(adrije) [o-pārvatī(pārvati)]
+gaṅgā-river(gaṅgā) + wave(taraṅga) + white(dhavalaṃ) yak-tail-fan(cāmara) + pair(dvayam) + O-mountain-daughter(adrije) [O-Pārvatī(pārvati)]
 
 ## mukta-m0-p267-v6661
-with-jasmine(mallikā)+mālatī(mālatī)+jātī(jātī)+lotus(śatapatra)+rich(āḍhya)+garlands(dāmabhiḥ)
+with-jasmine(mallikā) + mālatī(mālatī) + jātī(jātī) + lotus(śatapatra) + rich(āḍhya) + garlands(dāmabhiḥ)
 
 ## mukta-m0-p267-v6662
-cloth(paṭīm) and(ca) fan(vyajana)+pair(dvandvaṃ) with-nine(nava)+gems(ratna)+adorned(vicitritam)
+and-cloth(paṭīm) + and(ca) fan(vyajana) + pair(dvandvaṃ) with-nine(nava) + gems(ratna) + variegated(vicitritam)
 
 ## mukta-m0-p267-v6663
-with-camphor(karpūra)+musk(mṛganābhi)+filled(āḍhyaṃ) with-camphor(karpūra)+powder(kṣoda)+mixed(saṃyutam)
+with-camphor(karpūra) + musk(mṛganābhi) + filled(āḍhyaṃ) with-camphor(karpūra) + powder(kṣoda) + mixed(saṃyutam)
 
 ## mukta-m0-p267-v6664
-applicator-stick(śalākāṃ) and(ca) casket(karaṇḍaṃ) with-sandalwood(candra)+filled(pūritam)
+and-applicator-stick(śalākāṃ) and(ca) box(karaṇḍaṃ) with-sandalwood(candra) + filled(pūritam)
 
 ## mukta-m0-p267-v6665
-in-order-from-east(pūrvādi)+in-order(kramataḥ) all(sarvāḥ) with-all(sarva)+ornaments(ābharaṇa)+adorned(bhūṣitāḥ)
+in-order-from-east(pūrvādi-kramataḥ) all(sarvāḥ) with-all(sarva) + ornaments(ābharaṇa) + adorned(bhūṣitāḥ)
 
 ## mukta-m0-p267-v6666
-directly(sākṣāt) liberation(mokṣa)+giving(dāyi) not(na) doubt(saṃśayaḥ)
+directly(sākṣāt) + liberation(mokṣa) + giving(dāyi) not(na) doubt(saṃśayaḥ)
 
 ## mukta-m0-p267-v6667
-sixteen(ṣoḍaśa)+syllabled(arṇaḥ) this(ayaṃ) mantra(mantraḥ) should-be(syāt) pedestal(pīṭha)+worship(pūjanam)
+sixteen(ṣoḍaśa) + syllabled(arṇaḥ) + this(ayam) mantra(mantraḥ) should-be(syāt) + seat(pīṭha) + worship(pūjanam)
 
 ## mukta-m0-p267-v6668
-one-should-meditate(dhyāyet) on-tripura-bhairavī(tripurabhairavīm)
+one-should-meditate(dhyāyet) + on-Tripurabhairavī(tripura-bhairavīm)
 
 ## mukta-m0-p267-v6669
-hibiscus(japā)+flower(kusuma)+resembling(saṃkāśa)+red(aruṇāṃ) with-gold(svarṇa)+ornaments(vibhūṣaṇām)
+hibiscus(japā) + flower(kusuma) + resembling(saṃkāśa) + red(aruṇāṃ) with-gold(svarṇa) + ornaments(vibhūṣaṇām)
 
 ## mukta-m0-p267-v6670
-of-all(sarva)+own(sva)+births(janma)+ocean(sāgara)+form(rūpiṇīm)
+of-all(sarva) + own(sva) + births(janma) + ocean(sāgara) + embodying(rūpiṇīm)
 
 ## mukta-m0-p267-v6671
-adorned(maṇḍita)+limbed(aṅgīṃ) great-devi(mahādevīṃ) pearl(muktā)+rosary(japa)+stick(vaṭī)+holding(dharām)
+adorned(maṇḍita) + limbed(aṅgīṃ) great(mahā) + goddess(devīṃ) pearl(muktā) + rosary(japa) + mālā(vaṭī) + holding(dharām)
 
 ## mukta-m0-p267-v6672
-goddess(devīṃ) with-intoxication(mada)+rolling(āghūrṇita)+eyes(locanām)
+goddess(devīṃ) with-intoxication(mada) + rolling(āghūrṇita) + eyes(locanām)
 
 ## mukta-m0-p267-v6673
-mudrā(mudrā)+twenty(viṃśati)+numbered(saṃkhyākāḥ) then(tataḥ) to-goddess(devyai) should-display(pradarśayet)
+mudrā(mudrā) + twenty(viṃśati) + in-number(saṃkhyākāḥ) + then(tataḥ) to-goddess(devyai) should-display(pradarśayet)
 
 ## mukta-m0-p267-v6674
-left(vāma)+hand(hasta)+palm(talaṃ) should-make(kuryāt) like-skull(kapālavat)
+left(vāma) + hand(hasta) + palm(talaṃ) should-make(kuryāt) + like-skull(kapālavat)
 
 ## mukta-m0-p267-v6675
-yoni-mudrā(yoni)+mudrā(mudrāḥ) of-them(tāsāṃ) characteristic(lakṣaṇam) is-stated(ucyate)
+yoni-mudrā(yoni-mudrāḥ) + of-them(tāsāṃ) characteristic(lakṣaṇam) + is-stated(ucyate)

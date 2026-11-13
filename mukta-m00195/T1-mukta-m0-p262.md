@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p262-v6526
-jasmine+flower+oblation+also(mālatīpuṣpahomopi) all+subjugation+giving(sarvavaśyaprado) may-be(bhavet)
+[jasmine+flower+oblation](mālatīpuṣpa+homāpi) [also](api) [all+subjugation+giving](sarva+vaśya+pradaḥ) [may-be](bhavet)
 
 ## mukta-m0-p262-v6527
-rice+produced(śālisamudbhūtān) grains(taṇḍulān) well(sādhu) should-powder(cūrṇayet)
+[rice+born](śāli+samudbhūtān) [grains](taṇḍulān) [well](sādhu) [should-grind](cūrṇayet)
 
 ## mukta-m0-p262-v6528
-should-do(kuryāt) properly+having-worshipped(samyaksaṃpūjya) that(tāṃ) should-touch(spṛśet)
+[should-make](kuryāt) [properly](samyak) [having-worshipped](saṃpūjya) [that](tām) [should-touch](spṛśet)
 
 ## mukta-m0-p262-v6529
-should-offer(juhuyāt) priest(mantrī) that(tāṃ) installation+sequence+according-to(nyāsakramato) at-night(niśi)
+[should-offer](juhuyāt) [mantrin](mantrī) [that](tām) [installation+sequence](nyāsa+kramataḥ) [at-night](niśi)
 
 ## mukta-m0-p262-v6530
-he+also(saḥ+api) thus(evam) not(nātra) to-be-done(kāryā) consideration(vicāraṇā)
+[he](saḥ) [also](api) [thus](evam) [not](na) [here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p262-v6531
-then(tatas) in-that(tasmin) banyan+fire(vaṭāgnau) should-offer(juhuyāt) ghee(ghṛtam)
+[then](tataḥ) [in-that](tasmin) [banyan+fire](vaṭa+agnau) [should-offer](juhuyāt) [ghee](ghṛtam)
 
 ## mukta-m0-p262-v6532
-complete+herb+cooked-with(pūrṇauṣadhivipakvena) five-products-of-cow(pañcagavyena) filled(pūrite)
+[complete+herb+cooked](pūrṇa+auṣadhi+vipakvena) [five+products-of-cow](pañca+gavyena) [filled](pūrite)
 
 ## mukta-m0-p262-v6533
-that+number(tāvatsaṃkhyaṃ) and(ca) having-chanted(sañjapya) should-take(gṛhṇīyāt) all+accomplishment+giving(sarvasiddhidam)
+[that+number](tāvat+saṃkhyaṃ) [and](ca) [having-chanted](sañjapya) [should-take](gṛhṇīyāt) [all+accomplishment+giving](sarva+siddhi+dam)
 
 ## mukta-m0-p262-v6534
-from-wearing(dhāraṇāt) immediately(sadyaḥ) all(sarve) perish(naśyanti) calamities(upadravāḥ)
+[from-wearing](dhāraṇāt) [immediately](sadyaḥ) [all](sarve) [are-destroyed](naśyanti) [calamities](upadravāḥ)
 
 ## mukta-m0-p262-v6535
-fortune+prosperity+victory+giving(śrīsaubhāgyajayapradam)
+[fortune+prosperity+victory+giving](śrī+saubhāgya+jaya+pradam)
 
 ## mukta-m0-p262-v6536
-or(vāpi) should-give(dadyāt) of-gold(hemnaḥ) of-boon(varasya) and(ca)
+[or](vā) [also](api) [should-give](dadyāt) [of-gold](hemnaḥ) [of-chosen-one](varasya) [and](ca)
 
 ## mukta-m0-p262-v6537
-accomplishment(siddhiṃ) by-expanse+named+mantra(prapañcākhyamantreṇa) of-Gaṇapati(gaṇapasya) indeed(hi)
+[accomplishment](siddhim) [by-manifestation+named+mantra](prapañca+ākhya+mantreṇa) [of-Gaṇapati](gaṇapasya) [indeed](hi)
 
 ## mukta-m0-p262-v6538
-of-all+scriptures(sarvaśāstrāṇāṃ) speaker(vaktā) became(abhūt) of-world(jagataḥ) teacher(guruḥ)
+[of-all+scriptures](sarva+śāstrāṇām) [speaker](vaktā) [became](abhūt) [of-world](jagataḥ) [teacher](guruḥ)
 
 ## mukta-m0-p262-v6539
-by-m+letter+pentad(makārapañcakena) alone(eva) arisen(jātaṃ) everywhere(sarvatra) worship(pūjanam)
+[by-m+syllable+fivefold](makāra+pañcakena) [alone](eva) [arisen](jātam) [everywhere](sarvatra) [worship](pūjanam)
 
 ## mukta-m0-p262-v6540
-m+five+mantra+greatness(mapancamantramāhātmyāt) king(rājā) even(api) deluded+mind(bhrāntamānasaḥ)
+[by-m+five+mantra+greatness](ma+pañca+mantra+māhātmyāt) [king](rājā) [even](api) [deluded+mind](bhrānta+mānasaḥ)
 
 ## mukta-m0-p262-v6541
-from-service(sevātaḥ) dharma(dharmaṃ) they-see(paśyanti) they(te) not(na) indeed(hi)
+[from-service](sevātaḥ) [dharma](dharmam) [they-see](paśyanti) [they](te) [not](na) [indeed](hi)
 
 ## mukta-m0-p262-v6542
-all+knowledge+skilled(sarvavidyāviśāradaḥ)
+[all+knowledge+skilled](sarva+vidyā+viśāradaḥ)
 
 ## mukta-m0-p262-v6543
-path(panthā) enjoyment+liberation+giving(bhuktimuktipradāyakaḥ)
+[path](panthā) [enjoyment+liberation+giving](bhukti+mukti+pradāyakaḥ)
 
 ## mukta-m0-p262-v6544
-properly+hospitality(samyagātithyaṃ) having-done(kṛtvā) praised(tuṣṭāva) and(ca) scripture(āgamam)
+[properly](samyak) [hospitality](ātithyam) [having-done](kṛtvā) [praised](tuṣṭāva) [and](ca) [scripture](āgamam)
 
 ## mukta-m0-p262-v6545
-teacher+taught(guruproktaḥ) sacrifice(yajñaḥ) worship(yāgaḥ) m+pentad(mapañcakaḥ)
+[guru+taught](guru+proktaḥ) [sacrifice](yajñaḥ) [worship](yāgaḥ) [m+fivefold](ma+pañcakaḥ)
 
 ## mukta-m0-p262-v6546
-to-be-done(kartavyaṃ) Vedic(vaidikaṃ) not(na) ever(kadācana)
+[to-be-done](kartavyam) [vedic](vaidikam) [not](na) [ever](kadācana)
 
 ## mukta-m0-p262-v6547
-they-perform(kurvanti) internal(ābhyantaraṃ) action(karma) principle(tattvam) this(etat) should-be-considered(vicāryatām)
+[they-perform](kurvanti) [inner](ābhyantaram) [action](karma) [principle](tattvam) [this](etat) [should-be-considered](vicāryatām)
 
 ## mukta-m0-p262-v6548
-having-given(dattvā) how(kathaṃ) happiness(saukhyaṃ) is-obtained(pralabhyate)
+[having-given](dattvā) [how](katham) [happiness](saukhyam) [is-obtained](pralabhyate)
 
 ## mukta-m0-p262-v6549
-O-brahmins(viprāḥ) should-be-abandoned(tyajyatāṃ) Veda+ritual(vedakarma) that(tat)
+[o-brahmins](viprāḥ) [should-be-abandoned](tyajyatām) [veda+ritual](veda+karma) [that](tat)
 
 ## mukta-m0-p262-v6550
-there(tatra) accomplishment(siddhiḥ) directly(pratyakṣaṃ) is-seen(dṛśyatām) this(idam)
+[there](tatra) [accomplishment](siddhiḥ) [perceptible](pratyakṣam) [should-be-seen](dṛśyatām) [this](idam)

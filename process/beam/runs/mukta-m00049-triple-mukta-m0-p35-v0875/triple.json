@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "tāmraṃ",
+     "gloss": "copper",
+     "grounds": "substance named as having a specific ritual effect",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "prīti+karaṃ",
+     "gloss": "delight-causing",
+     "grounds": "compound qualifying copper; prīti (delight) + kara (making)",
+     "morph": "compound:prīti+kara.n.nom.sg.nt"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "prescribes the recognized quality of the material",
+     "morph": "gerundive.n.nom.sg.nt √jñā"
+    },
+    {
+     "surface": "kāṃsya+jaṃ",
+     "gloss": "bell-metal-born",
+     "grounds": "compound indicating material made from bell-metal; kāṃsya (bell-metal) + ja (born)",
+     "morph": "compound:kāṃsya+ja.n.nom.sg.nt"
+    },
+    {
+     "surface": "puṣṭi+barddhanam",
+     "gloss": "nourishment-increasing",
+     "grounds": "compound qualifying bell-metal material; puṣṭi (nourishment) + barddhana (increasing)",
+     "morph": "compound:puṣṭi+barddhana.n.nom.sg.nt"
+    }
+   ],
+   "question": "What distinct ritual benefits are attributed to copper and bell-metal materials?",
+   "premises": [
+    "Copper is to be known as causing delight.",
+    "Material born of bell-metal is to be known as increasing nourishment.",
+    "Different materials are assigned specific beneficial effects."
+   ],
+   "inference": "Copper and bell-metal are valued for producing delight and nourishment respectively.",
+   "uncertainties": [
+    "The exact ritual context of use is carried over from the preceding verses."
+   ],
+   "plain_english": "Copper should be known as causing delight, and what is made of bell-metal as increasing nourishment."
+  }
+ ]
+}

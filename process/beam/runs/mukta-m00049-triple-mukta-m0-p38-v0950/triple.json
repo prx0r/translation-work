@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "māṃsa+ādīnāṃ",
+     "gloss": "of-meat-and-others",
+     "grounds": "genitive plural of compound māṃsa-ādi, indicating meat and similar substances",
+     "morph": "māṃsa+ādi.gen.pl.n"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purification",
+     "grounds": "nominative subject, the term or designation being defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle marking the designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjñā",
+     "gloss": "designation",
+     "grounds": "nominative, the name or technical term applied",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "declared",
+     "grounds": "past participle of īr, agreeing with saṃjñā",
+     "morph": "f.nom.sg.ppp(īr)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "stated",
+     "grounds": "past participle of kath, reinforcing that the designation is taught",
+     "morph": "f.nom.sg.ppp(kath)"
+    }
+   ],
+   "question": "By what designation is the purification of meat and similar substances declared?",
+   "premises": [
+    "The expression concerns meat and similar substances.",
+    "Purification is named as their designation.",
+    "This designation is declared and stated in the teaching."
+   ],
+   "inference": "The term purification is the declared designation for meat and similar substances.",
+   "uncertainties": [
+    "The precise ritual or doctrinal sense of śuddhi in this context is not fully specified within this verse alone."
+   ],
+   "plain_english": "The purification of meat and similar substances is declared and stated to be the designation called 'purification'."
+  }
+ ]
+}
