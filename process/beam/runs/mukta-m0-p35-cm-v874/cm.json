@@ -3,19 +3,24 @@
  "verse": 874,
  "rows": [
   {
-   "lemma": "tribhāvasthā",
-   "morph": "f.nom.sg",
-   "grounds": "compound: tri+three, bhāva+states, sthā+abiding"
+   "lemma": "go+grāsam",
+   "morph": "compound=go+grāsa; m.acc.sg",
+   "grounds": "object; compound go+grāsa"
   },
   {
-   "lemma": "tribhāveśī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: tri+three, bhāva+states, īśī+goddess"
+   "lemma": "pāvanam",
+   "morph": "n.acc.sg",
+   "grounds": "qualifies go+grāsam"
   },
   {
-   "lemma": "tribhāvaparipūritā",
-   "morph": "f.nom.sg",
-   "grounds": "compound: tri+three, bhāva+states, paripūritā+filled"
+   "lemma": "loke",
+   "morph": "m.loc.sg",
+   "grounds": "location"
+  },
+  {
+   "lemma": "sarva+pāpa+nikṛntanam",
+   "morph": "compound=sarva+pāpa+nikṛntana; n.acc.sg",
+   "grounds": "qualifies go+grāsam; compound sarva+pāpa+nikṛntana"
   }
  ]
 }

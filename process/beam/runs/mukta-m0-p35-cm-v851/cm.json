@@ -3,19 +3,34 @@
  "verse": 851,
  "rows": [
   {
-   "lemma": "tāpadātrī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: tāpa+pain, dātrī+giver; feminine agent noun"
+   "lemma": "vinirjitya",
+   "morph": "gerund (vi-nir-√ji)",
+   "grounds": "absolutive of vi-nir-ji 'to conquer completely'"
   },
   {
-   "lemma": "tāpakartrī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: tāpa+pain, kartrī+maker; feminine agent noun"
+   "lemma": "nṛpān",
+   "morph": "m.acc.pl",
+   "grounds": "object of vinirjitya"
   },
   {
-   "lemma": "tāpavidhvaṃsakāriṇī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: tāpa+pain, vidhvaṃsaka+destroying, kāriṇī+doer"
+   "lemma": "sarvān",
+   "morph": "m.acc.pl",
+   "grounds": "qualifies nṛpān"
+  },
+  {
+   "lemma": "ekaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject qualifier"
+  },
+  {
+   "lemma": "śrīmān",
+   "morph": "m.nom.sg",
+   "grounds": "subject qualifier"
+  },
+  {
+   "lemma": "mahāmatiḥ",
+   "morph": "compound=mahā+mati; m.nom.sg",
+   "grounds": "subject; compound mahā+mati"
   }
  ]
 }

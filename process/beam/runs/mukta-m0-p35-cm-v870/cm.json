@@ -3,19 +3,34 @@
  "verse": 870,
  "rows": [
   {
-   "lemma": "trijaṭā",
-   "morph": "f.nom.sg",
-   "grounds": "compound: tri+three, jaṭā+braided-hair"
+   "lemma": "pūjitā+ekā",
+   "morph": "compound=pūjitā+eka; f.nom.sg",
+   "grounds": "condition; compound pūjitā+eka with internal sandhi"
   },
   {
-   "lemma": "trijaṭeśānī",
+   "lemma": "kumārī",
    "morph": "f.nom.sg",
-   "grounds": "compound: trijaṭā+Trijata, īśānī+goddess"
+   "grounds": "subject"
   },
   {
-   "lemma": "trijaṭāvaradāyinī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: trijaṭā+Trijata, vara+boon, dāyinī+giver"
+   "lemma": "cet",
+   "morph": "(indecl.)",
+   "grounds": "conditional particle"
+  },
+  {
+   "lemma": "dvitīyam",
+   "morph": "n.nom.sg",
+   "grounds": "qualifies pūjanam"
+  },
+  {
+   "lemma": "pūjanam",
+   "morph": "n.nom.sg",
+   "grounds": "subject of result clause"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.optative.active (√bhū)",
+   "grounds": "optative verb"
   }
  ]
 }
