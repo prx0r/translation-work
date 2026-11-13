@@ -3,13 +3,12 @@
  "verse": 315,
  "question": "Which vessel materials are named for the goddess?",
  "premises": [
-  "Clay vessels are named.",
-  "Tortoise-born vessels are named.",
-  "Bell-metal and copper-metal vessels are named."
+  "clay is named",
+  "tortoise-born is named",
+  "bell-metal is named",
+  "copper-metal is named"
  ],
- "inference": "The verse lists several vessel materials.",
- "uncertainties": [
-  "The exact relation among the listed materials is unclear."
- ],
- "plain_english": "Clay, tortoise-born, bell-metal, and copper-metal vessels, O goddess."
+ "inference": "Several vessel materials are enumerated.",
+ "uncertainties": [],
+ "plain_english": "Clay-made, tortoise-born, O goddess, bell-metal-made, copper-metal-born."
 }

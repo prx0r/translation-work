@@ -1,0 +1,671 @@
+{
+ "song": "kjn-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "token as given",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "token as given",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "token as given",
+     "morph": "adj.indecl"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "token as given",
+     "morph": "n.f.nom.sg"
+    },
+    {
+     "surface": "yoginīnāṃ",
+     "gloss": "of-yoginis",
+     "grounds": "token as given",
+     "morph": "n.f.gen.pl"
+    },
+    {
+     "surface": "priyo",
+     "gloss": "dear",
+     "grounds": "token as given",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "token as given",
+     "morph": "v.3.sg.opt-act"
+    }
+   ],
+   "question": "What becomes dear to the yoginis through enjoyment, liberation, and great accomplishment?",
+   "premises": [
+    "Enjoyment and liberation are paired",
+    "Great accomplishment is named",
+    "Yoginis are the recipients"
+   ],
+   "inference": "The verse states that great accomplishment becomes dear to yoginis.",
+   "uncertainties": [
+    "Exact syntactic relation of bhukti and mukti remains open"
+   ],
+   "plain_english": "Enjoyment, liberation, and great accomplishment become dear to the yoginis."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "candra",
+     "gloss": "in-candra-dvipa",
+     "grounds": "token as given",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "dvīpa",
+     "gloss": "island",
+     "grounds": "token as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "vinirgate",
+     "gloss": "emerged",
+     "grounds": "token as given",
+     "morph": "part.past"
+    },
+    {
+     "surface": "navamaḥ",
+     "gloss": "ninth",
+     "grounds": "token as given",
+     "morph": "adj.m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "token as given",
+     "morph": "n.m.nom.sg"
+    }
+   ],
+   "question": "Which chapter emerges after the candra-dvipa section?",
+   "premises": [
+    "Candra-dvipa is named",
+    "Emergence is stated",
+    "Ninth chapter is identified"
+   ],
+   "inference": "The ninth chapter emerges from candra-dvipa.",
+   "uncertainties": [
+    "Whether vinirgate modifies chapter or section"
+   ],
+   "plain_english": "The ninth chapter emerges from candra-dvipa."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "vahni",
+     "gloss": "by-fire",
+     "grounds": "token as given",
+     "morph": "n.m.instr.sg"
+    },
+    {
+     "surface": "nāveṣṭita",
+     "gloss": "surrounded",
+     "grounds": "token as given",
+     "morph": "part.past"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "on-one",
+     "grounds": "token as given",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "pādena",
+     "gloss": "foot",
+     "grounds": "token as given",
+     "morph": "n.m.instr.sg"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "standing",
+     "grounds": "token as given",
+     "morph": "part.past"
+    }
+   ],
+   "question": "How is the self described as standing surrounded by fire?",
+   "premises": [
+    "Fire surrounds the self",
+    "One foot is named",
+    "Standing posture is stated"
+   ],
+   "inference": "The self stands surrounded by fire on one foot.",
+   "uncertainties": [
+    "Whether eka modifies foot or self"
+   ],
+   "plain_english": "The self stands surrounded by fire on one foot."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "token as given",
+     "morph": "n.n.gen.sg"
+    },
+    {
+     "surface": "nirṇayam",
+     "gloss": "determination",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "token as given",
+     "morph": "n.m.voc.sg"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "token as given",
+     "morph": "adv.indecl"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "token as given",
+     "morph": "pron.1.dat.sg"
+    },
+    {
+     "surface": "prakaṭīkṛtam",
+     "gloss": "made-manifest",
+     "grounds": "token as given",
+     "morph": "part.past"
+    }
+   ],
+   "question": "What determination of knowledge is made manifest today?",
+   "premises": [
+    "Knowledge is the topic",
+    "Determination is named",
+    "Manifestation is stated"
+   ],
+   "inference": "The determination of knowledge is made manifest today.",
+   "uncertainties": [
+    "Whether deva is vocative addressee"
+   ],
+   "plain_english": "The determination of knowledge is made manifest to me today."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "token as given",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "aṣṭaka",
+     "gloss": "eight",
+     "grounds": "token as given",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "vibhāgam",
+     "gloss": "division",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "part.indecl"
+    },
+    {
+     "surface": "parijñātum",
+     "gloss": "to-know-fully",
+     "grounds": "token as given",
+     "morph": "inf"
+    },
+    {
+     "surface": "anantathā",
+     "gloss": "endlessly",
+     "grounds": "token as given",
+     "morph": "adv.indecl"
+    }
+   ],
+   "question": "How is the eightfold division to be known fully?",
+   "premises": [
+    "Eightfold division is named",
+    "Full knowledge is the aim",
+    "Endlessness is stated"
+   ],
+   "inference": "The eightfold division is to be known fully and endlessly.",
+   "uncertainties": [
+    "Whether aṣṭa and aṣṭaka are distinct or emphatic"
+   ],
+   "plain_english": "The eightfold division is to be known fully and endlessly."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "guhya",
+     "gloss": "secret",
+     "grounds": "token as given",
+     "morph": "adj.indecl"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "token as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "token as given",
+     "morph": "adv.indecl"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "token as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "kṣipraṃ",
+     "gloss": "quickly",
+     "grounds": "token as given",
+     "morph": "adv.indecl"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "is-accomplished",
+     "grounds": "token as given",
+     "morph": "v.3.sg.pres-act"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "o-bhairava",
+     "grounds": "token as given",
+     "morph": "n.m.voc.sg"
+    }
+   ],
+   "question": "How is the secret place accomplished quickly like a wheel?",
+   "premises": [
+    "Secret place is named",
+    "Wheel comparison is stated",
+    "Quick accomplishment is claimed"
+   ],
+   "inference": "The secret place is accomplished quickly as a wheel.",
+   "uncertainties": [
+    "Whether guhya modifies sthānaṃ or cakraṃ"
+   ],
+   "plain_english": "The secret place is accomplished quickly, like a wheel."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "sādhu",
+     "gloss": "well",
+     "grounds": "token as given",
+     "morph": "adv.indecl"
+    },
+    {
+     "surface": "sādhu",
+     "gloss": "well",
+     "grounds": "token as given",
+     "morph": "adv.indecl"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "token as given",
+     "morph": "n.f.voc.sg"
+    },
+    {
+     "surface": "pṛṣṭaḥ",
+     "gloss": "asked",
+     "grounds": "token as given",
+     "morph": "part.past"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "token as given",
+     "morph": "pron.1.nom.sg"
+    },
+    {
+     "surface": "sura",
+     "gloss": "by-gods",
+     "grounds": "token as given",
+     "morph": "n.m.instr.pl"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "hard-to-obtain",
+     "grounds": "token as given",
+     "morph": "adj.n.acc.sg"
+    }
+   ],
+   "question": "What is hard to obtain even when asked by gods?",
+   "premises": [
+    "Repeated praise is stated",
+    "Great goddess is addressed",
+    "The speaker was asked"
+   ],
+   "inference": "What is asked is hard to obtain even for gods.",
+   "uncertainties": [
+    "Exact object of durlabham is not explicit"
+   ],
+   "plain_english": "Well, well, great goddess, I was asked by gods for what is hard to obtain."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "kṣakāraṃ",
+     "gloss": "syllable-ksha",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "brahmarandhratvaṃ",
+     "gloss": "brahmarandhra-state",
+     "grounds": "token as given",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "laṃkāram",
+     "gloss": "syllable-lam",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "part.indecl"
+    },
+    {
+     "surface": "lalāṭayoḥ",
+     "gloss": "in-the-forehead",
+     "grounds": "token as given",
+     "morph": "n.n.loc.du"
+    }
+   ],
+   "question": "Where are the syllables ksha and lam placed in the body?",
+   "premises": [
+    "Syllable ksha is named",
+    "Brahmarandhra state is named",
+    "Syllable lam is named"
+   ],
+   "inference": "The syllables ksha and lam are associated with brahmarandhra and forehead.",
+   "uncertainties": [
+    "Exact placement of ksha relative to brahmarandhra"
+   ],
+   "plain_english": "The syllable ksha is brahmarandhra-state, and the syllable lam is in the forehead."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "ṣakāraṃ",
+     "gloss": "syllable-sha",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "kaṇṭha",
+     "gloss": "in-throat-region",
+     "grounds": "token as given",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "region",
+     "grounds": "token as given",
+     "morph": "n.m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "part.indecl"
+    },
+    {
+     "surface": "śakāraṃ",
+     "gloss": "syllable-sha",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-the-heart",
+     "grounds": "token as given",
+     "morph": "n.n.loc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "token as given",
+     "morph": "adv.indecl"
+    }
+   ],
+   "question": "Where are the syllables sha and sha placed in the body?",
+   "premises": [
+    "One sha is in throat region",
+    "Another sha is in heart",
+    "Then is stated"
+   ],
+   "inference": "The syllables are placed in throat and heart.",
+   "uncertainties": [
+    "Whether kaṇṭha and deśe are separate or compound"
+   ],
+   "plain_english": "The syllable sha is in the throat region, and the syllable sha is in the heart."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "sthāna",
+     "gloss": "place",
+     "grounds": "token as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "cakrāḥ",
+     "gloss": "wheels",
+     "grounds": "token as given",
+     "morph": "n.n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "part.indecl"
+    },
+    {
+     "surface": "saṃproktāḥ",
+     "gloss": "declared",
+     "grounds": "token as given",
+     "morph": "part.past"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "token as given",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "token as given",
+     "morph": "n.n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "token as given",
+     "morph": "v.2.sg.imp-act"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "token as given",
+     "morph": "adj.f.voc.sg"
+    }
+   ],
+   "question": "What should the beloved hear about the declared wheels?",
+   "premises": [
+    "Places and wheels are declared",
+    "Their meditation is named",
+    "Hearing is commanded"
+   ],
+   "inference": "The beloved should hear the meditation of the declared wheels.",
+   "uncertainties": [
+    "Whether sthāna and cakrāḥ are appositive"
+   ],
+   "plain_english": "The places and wheels are declared; hear their meditation, beloved."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "token as given",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "āraṃ",
+     "gloss": "spoked",
+     "grounds": "token as given",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "paṅkajaṃ",
+     "gloss": "lotus",
+     "grounds": "token as given",
+     "morph": "n.n.nom.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "token as given",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "prathama",
+     "gloss": "by-first",
+     "grounds": "token as given",
+     "morph": "adj.indecl"
+    },
+    {
+     "surface": "aṣṭaka",
+     "gloss": "octad",
+     "grounds": "token as given",
+     "morph": "num.indecl"
+    },
+    {
+     "surface": "bhūṣitam",
+     "gloss": "adorned",
+     "grounds": "token as given",
+     "morph": "part.past"
+    }
+   ],
+   "question": "How is the divine eight-spoked lotus adorned?",
+   "premises": [
+    "Eight-spoked lotus is named",
+    "Divine quality is stated",
+    "First octad adorns it"
+   ],
+   "inference": "The divine eight-spoked lotus is adorned by the first octad.",
+   "uncertainties": [
+    "Whether prathama modifies aṣṭaka or bhūṣitam"
+   ],
+   "plain_english": "The divine eight-spoked lotus is adorned by the first octad."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "abhyāsāt",
+     "gloss": "through-practice",
+     "grounds": "token as given",
+     "morph": "n.m.abl.sg"
+    },
+    {
+     "surface": "sama",
+     "gloss": "with-equal",
+     "grounds": "token as given",
+     "morph": "adj.indecl"
+    },
+    {
+     "surface": "cittaḥ",
+     "gloss": "mind",
+     "grounds": "token as given",
+     "morph": "n.m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "part.indecl"
+    },
+    {
+     "surface": "grāma",
+     "gloss": "village",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "dharmañ",
+     "gloss": "dharma",
+     "grounds": "token as given",
+     "morph": "n.m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "part.indecl"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-abandon",
+     "grounds": "token as given",
+     "morph": "v.3.sg.opt-act"
+    }
+   ],
+   "question": "What should one abandon through practice with equal mind?",
+   "premises": [
+    "Practice is the means",
+    "Equal mind is stated",
+    "Village dharma is named"
+   ],
+   "inference": "Through practice with equal mind one should abandon village dharma.",
+   "uncertainties": [
+    "Whether sama modifies cittaḥ or varjayet"
+   ],
+   "plain_english": "Through practice with equal mind, one should abandon village dharma."
+  }
+ ]
+}

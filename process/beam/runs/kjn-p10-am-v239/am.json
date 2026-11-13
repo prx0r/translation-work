@@ -1,15 +1,16 @@
 {
  "song": "kjn-p10",
  "verse": 239,
- "question": "What immortality and transformation are stated in brief for the goddess?",
+ "question": "What is said in brief about immortality and transformation?",
  "premises": [
-  "amaratvam means immortality",
+  "amaratvam is immortality",
+  "tathā devi is likewise goddess",
   "samāsāt means in brief",
-  "parivartanam means transformation"
+  "parivartanam is transformation"
  ],
- "inference": "The verse states immortality and transformation in brief for the goddess.",
+ "inference": "In brief, immortality and transformation are stated for the goddess.",
  "uncertainties": [
-  "tathā relation is loose"
+  "exact transformation process unspecified"
  ],
- "plain_english": "Immortality and transformation, in brief, O goddess."
+ "plain_english": "Likewise, O goddess, in brief, immortality and transformation."
 }
