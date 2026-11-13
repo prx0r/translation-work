@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p206-v5126
-[tat-patra-ambu-plutaiḥ](tatpatrāmbuplutaiḥ) [māsa-ādāt](māsādarātir?) [arātiḥ](arātir) [bhrāntim](bhrāntim) [āpnuyāt](āpnuyāt)
+[by-that+leaf+water+flooded](tatpatrāmbuplutaiḥ) [in-a-month](māsāt) [enemy](arātiḥ) [delusion](bhrāntim) [would-obtain](āpnuyāt)
 
 ## mukta-m0-p206-v5127
-[vitasti-mātraiḥ](vitastimātrais) [svailāktais](vailāktaiḥ) [eva](eva) [na](na) [advairiṇaḥ](advairiṇo) [mṛtiḥ](mṛtiḥ)
+[span-measure](vitastimātraiḥ) [with-oil+anointed](tailāktaiḥ) [by-oblation](haivanāt) [of-enemy](vairiṇaḥ) [death](mṛtiḥ)
 
 ## mukta-m0-p206-v5128
-[homāt](homāt) [arāteḥ](arātestīvreṇa?) [tīvreṇa](tīvreṇa) [jvareṇa](jvareṇa) [syāt](syāt) [mṛtiḥ](mṛtiḥ) [dhruvam](dhruvam)
+[by-oblation](homāt) [of-enemy](arāteḥ) [by-intense](tīvreṇa) [by-fever](jvareṇa) [would-be](syāt) [death](mṛtiḥ) [certainly](dhruvam)
 
 ## mukta-m0-p206-v5129
-[arātīnām](arātīnām) [atha](atha) [anyonya](anyonya) [kalahāt](kalahāt) [nidhanam](nidhanaṃ) [bhavet](bhavet)
+[of-enemies](arātīnām) [then](atha) [mutual+quarrel](anyonyakalahāt) [death](nidhanam) [would-be](bhavet)
 
 ## mukta-m0-p206-v5130
-[vairi-janmarkṣa-vṛkṣa-agnau](vairijanmarkṣavṛkṣāgnau) [maṇḍalāt](maṇḍalāt) [tat-mṛtiḥ](tanmṛtir) [jvarāt](jvarāt)
+[enemy+birth+constellation+tree+fire](vairijanmarkṣavṛkṣāgnau) [within-a-fortnight](maṇḍalāt) [his-death](tanmṛtiḥ) [from-fever](jvarāt)
 
 ## mukta-m0-p206-v5131
-[sarṣapa-arus-kara-ghṛta-saṃsiktaiḥ](sarṣapāruskaraghṛtasaṃsiktaiḥ) [juhuyāt](juhuyāt) [niśi](niśi)
+[mustard+aruskara+ghee+smeared](sarṣapāruskaraghṛtasaṃsiktaiḥ) [one-should-offer](juhuyāt) [at-night](niśi)
 
 ## mukta-m0-p206-v5132
-[rakta-srag-gandha-puṣpa-aktaiḥ](raktasraggandhapuṣpāktaiḥ) [homāt](homāt) [śatrūn](śatrūn) [vināśayet](vināśayet)
+[red+garland+fragrance+flower+anointed](raktasraggandhapuṣpāktaiḥ) [by-oblation](homāt) [enemies](śatrūn) [one-should-destroy](vināśayet)
 
 ## mukta-m0-p206-v5133
-[havanāt](havanāt) [vairiṇaḥ](vairiṇo) [dāha-jvara-prāptiḥ](dāhajvaraprāptiḥ) [tribhiḥ](tribhiḥ) [dinaiḥ](dinaiḥ)
+[by-oblation](havanāt) [of-enemy](vairiṇaḥ) [burning+fever+attainment](dāhajvaraprāptiḥ) [in-three+days](tribhiḥ+dinaiḥ)
 
 ## mukta-m0-p206-v5134
-[havanāt](havanāt) [tat-tarūdbhūta-samidhā](tattarūdbhūtasamidhā) [havanāt](havanādapi) [api](api)
+[by-oblation](havanāt) [from-that+tree+born](tattarūdbhūta) [with-fuel-stick](samidhā) [by-oblation](havanāt) [also](api)
 
 ## mukta-m0-p206-v5135
-[druma-kuḍya-nipātena](drumakuḍyanipātena) [nirghātena](nirghātenāpi) [api](api) [khaḍgataḥ](khaḍgataḥ)
+[tree+wall+falling](drumakuḍyanipātena) [by-thunderbolt](nirghātena) [also](api) [by-sword](khaḍgataḥ)
 
 ## mukta-m0-p206-v5136
-[yakṣa-rākṣasa-gandharva-piśācaiḥ](yakṣarākṣasagandharvapiśācair) [brahmarākṣasaiḥ](brahmarākṣasaiḥ)
+[by-yakṣas+rākṣasas+gandharvas+piśācas](yakṣarākṣasagandharva+piśācaiḥ) [by-brahmarākṣasas](brahmarākṣasaiḥ)
 
 ## mukta-m0-p206-v5137
-[nimba-patraiḥ](nimbapatraiśca) [ca](ca) [kārpāsa-bījaiḥ](kārpāsabījaiḥ) [tat-kāṣṭha-kāṇḍa-jaiḥ](tatkāṣṭhakāṇḍajaiḥ)
+[with-neem+leaves](nimbapatraiḥ) [and](ca) [with-cotton+seeds](kārpāsabījaiḥ) [from-that+wood+stalk+born](tatkāṣṭhakāṇḍajaiḥ)
 
 ## mukta-m0-p206-v5138
-[nīca-yoge](nīcayoge) [hunet](huned) [vahnau](vahnau) [ripu-vṛkṣa-samedhite](ripuvṛkṣasamedhite)
+[in-inauspicious+conjunction](nīcayoge) [one-should-offer](hunet) [in-fire](vahnau) [with-enemy+tree+kindled](ripuvṛkṣasamedhite)
 
 ## mukta-m0-p206-v5139
-[uccāṭitaḥ](uccāṭitaḥ) [prayāti](prayātyeva) [eva](eva) [mantra-śaktyā](mantraśaktyā) [abhitāḍitaḥ](abhitāḍitaḥ)
+[uprooted](uccāṭitaḥ) [goes-away](prayāti) [indeed](eva) [by-mantra+power+struck](mantraśaktyābhitāḍitaḥ)
 
 ## mukta-m0-p206-v5140
-[arāteḥ](arāter) [dantino](dantino) [vāhāḥ](vāhā) [rogaiḥ](rogair) [naśyanti](naśyanti) [niścitam](niścitam)
+[of-enemy](arāteḥ) [elephants](dantinaḥ) [and-vehicles](vāhāḥ) [by-diseases](rogaiḥ) [perish](naśyanti) [certainly](niścitam)
 
 ## mukta-m0-p206-v5141
-[prāg-ukta-kaṇṭakādyaiḥ](prāguktakaṇṭakādyaistu) [tu](tu) [yat](yadaṅgaṃ) [aṅgam](aṅgaṃ) [vidhayet](vidhayecchanaiḥ) [śanaiḥ](śanaiḥ)
+[previously+mentioned+thorn+etc.](prāguktakaṇṭakādyaiḥ) [but](tu) [which](yat) [limb](aṅgam) [one-should-make](vidhayet) [slowly](śanaiḥ)
 
 ## mukta-m0-p206-v5142
-[ardha-praharake](ardhapraharake) [śīrṣe](śīrṣe) [prahare](prahare) [vā](vā) [śanaiḥ](śanaiḥ) [śanaiḥ](śanaiḥ)
+[at-half+prahara](ardhapraharake) [on-head](śīrṣe) [or-at-prahara](prahare) [or](vā) [slowly+slowly](śanaiḥ+śanaiḥ)
 
 ## mukta-m0-p206-v5143
-[granthibhiḥ](granthibhirvā) [vā](vā) [kaṇṭakādi-kṣata-vṛddhi-vidāraṇaiḥ](kaṇṭakādikṣatavṛddhividāraṇaiḥ)
+[with-knots](granthibhiḥ) [or](vā) [by-thorn+etc.+wound+increase+tearing](kaṇṭakādikṣatavṛddhividāraṇaiḥ)
 
 ## mukta-m0-p206-v5144
-[gardabhī-meha-salile](gardabhīmehasalile) [saṃsthāpya](saṃsthāpya) [kvāthayet](kvāthayecchanaiḥ) [śanaiḥ](śanaiḥ)
+[in-donkey+urine+water](gardabhīmehasalile) [having-placed](saṃsthāpya) [one-should-boil](kvāthayet) [slowly](śanaiḥ)
 
 ## mukta-m0-p206-v5145
-[madhūcchiṣṭena](madhūcchiṣṭena) [tām](tāṃ) [kṛtvā](kṛtvā) [tāpayet](tāpayenniśi) [niśi](niśi) [tām](tāṃ) [śanaiḥ](śanaiḥ)
+[with-beeswax](madhūcchiṣṭena) [that](tām) [having-made](kṛtvā) [one-should-heat](tāpayet) [at-night](niśi) [that](tām) [slowly](śanaiḥ)
 
 ## mukta-m0-p206-v5146
-[tām](tāṃ) [tat-kaṇṭaka-viddha-aṅgīm](tatkaṇṭakaviddhāṅgīṃ) [khanet](khanet) [pitṛ-gṛhe](pitṛgṛhe) [niśi](niśi)
+[that](tām) [by-that+thorn+pierced+limbed](tatkaṇṭakaviddhāṅgīm) [one-should-bury](khanet) [in-ancestors+house](pitṛgṛhe) [at-night](niśi)
 
 ## mukta-m0-p206-v5147
-[prāg-uktaiḥ](prāguktaireva) [eva](eva) [tat-dravyaiḥ](taddravyairaśeṣaiḥ) [aśeṣaiḥ](aśeṣaiḥ) [puttalīm](puttalīṃ) [tathā](tathā)
+[with-previously+mentioned](prāguktaiḥ) [indeed](eva) [with-those+substances](taddravyaiḥ) [with-all](aśeṣaiḥ) [doll](puttalīm) [likewise](tathā)
 
 ## mukta-m0-p206-v5148
-[samiddhe](samiddhe'gnau) [agnau](agnau) [tat-samidbhiḥ](tatsamidbhistailāktair) [taila-aktaiḥ](tailāktaiḥ) [juhuyāt](juhuyānniśi) [niśi](niśi)
+[in-kindled+fire](samiddhe+agnau) [with-its+fuel-sticks](tatsamidbhiḥ) [with-oil+anointed](tailāktaiḥ) [one-should-offer](juhuyāt) [at-night](niśi)
 
 ## mukta-m0-p206-v5149
-[pralapan](pralapan) [śanakaiḥ](śanakairdaihaṃ) [daiham](daihaṃ) [tyajan](tyajan) [yāti](yāti) [yama-ālayam](yamālayam)
+[raving](pralapan) [slowly](śanakaiḥ) [body](daiham) [abandoning](tyajan) [goes](yāti) [to-Yama+abode](yamālayam)
 
 ## mukta-m0-p206-v5150
-[navamyaṅgāra-divase](navamyaṅgāradivase) [mātṛ-gṛhe](mātṛgehe'grapīṭhake) [agra-pīṭhake](agrapīṭhake)
+[on-ninth](navami) [on-Tuesday](aṅgāradivase) [in-mother+house](mātṛgehe) [on-front+seat](agrapīṭhake)

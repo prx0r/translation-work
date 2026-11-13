@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p202-v5026
-[if](yadi) [be](syāt) [his](tasya) [disease-etc-pain](rogādi-pīḍā) [occurs](bhavati) [certain](niścitam)
+[if](yadi) [may-be](syāt) [his](tasya) [disease+etc+affliction](roga+ādi+pīḍā) [becomes](bhavati) [certainly](niścitam)
 
 ## mukta-m0-p202-v5027
-[recite](japet) [mantra](vidyām) [thousand](sahasram) [or](vā) [hundred](śatam) [or](vā) [worship](pūjayet) [Śivā](śivām)
+[mantra](vidyāṃ) [should-chant](japet) [thousand](sahasraṃ) [or](vā) [hundred](śataṃ) [or](vā) [should-worship](pūjayet) [Śivā](śivām)
 
 ## mukta-m0-p202-v5028
-[therefore](tasmāt) [in-stated](uktēṣu) [times](kāleṣu) [thus](tathā) [doing](kurvan) [happy](sukhī) [becomes](bhavet)
+[therefore](tasmāt) [in-stated](ukteṣu) [times](kāleṣu) [thus](tathā) [doing](kurvan) [happy](sukhī) [may-become](bhavet)
 
 ## mukta-m0-p202-v5029
-[mantra-hood](māntrikatvam) [becomes](bhavet) [in-world](loke) [grief-laughter-abode](śoka-hāsa-āspadam) [becomes](bhavet)
+[mantra-practitioner-hood](māntrikatvaṃ) [may-be](bhavet) [in-world](loke) [sorrow+laughter+object](śoka+hāsa+āspadaṃ) [may-become](bhavet)
 
 ## mukta-m0-p202-v5030
-[by-oblation](havanāt) [year-measure](abda-mātreṇa) [eloquent](vāgmī) [becomes](syāt) [stammering-speech-even](kuṇṭha-vāg-api)
+[from-oblation](havanāt) [year+measure](abda+mātreṇa) [eloquent](vāgmī) [may-be](syāt) [stammering+speech](kuṇṭha+vāk) [even](api)
 
 ## mukta-m0-p202-v5031
-[from-maṇḍala](maṇḍalāt) [his](tasya) [leaves](patraiḥ) [and](ca) [kindling](samidbhiḥ) [also](api) [from-root](mūlataḥ)
+[in-a-month](maṇḍalāt) [with-its](tasya) [leaves](patraiḥ) [and](ca) [with-fuel-sticks](samidbhiḥ) [also](api) [from-root](mūlataḥ)
 
 ## mukta-m0-p202-v5032
-[roots](mūlaiḥ) [and](ca) [for-Lakṣmī-perfection](lakṣmī-saṃsiddhyai) [not](mā) [that-descendant-going](tad-anvaya-gā) [becomes](bhavet)
+[with-roots](mūlaiḥ) [and](ca) [for-Lakṣmī+accomplishment](lakṣmī+saṃsiddhyai) [not](mā) [in-his+lineage](tat+anvayagā) [may-be](bhavet)
 
 ## mukta-m0-p202-v5033
-[Indirā](indirām) [obtains](labhate) [charming](ramyām) [all-world-wonder-causing](sarva-loka-camatkṛtām)
+[Indirā](indirāṃ) [obtains](labhate) [delightful](ramyāṃ) [by-all+world+wondered-at](sarva+loka+camatkṛtām)
 
 ## mukta-m0-p202-v5034
-[wealthy](āḍhyaḥ) [becomes](syāt) [childless](aprajāḥ) [sons](putrān) [obtains](avāpnoti) [virtue-endowed](guṇa-anvitān)
+[wealthy](āḍhyaḥ) [may-be](syāt) [childless](aprajāḥ) [sons](putrān) [obtains](avāpnoti) [endowed-with-virtues](guṇa+anvitān)
 
 ## mukta-m0-p202-v5035
-[obtains](labheta) [all-crops-rich](sarva-sasya-āḍhyām) [earth](bhuvam) [enjoyer](bhoktā) [and](ca) [becomes](jāyate)
+[may-obtain](labheta) [with-all+crops+abundant](sarva+sasya+āḍhyāṃ) [earth](bhuvaṃ) [enjoyer](bhoktā) [and](ca) [becomes](jāyate)
 
 ## mukta-m0-p202-v5036
-[hundred-cow](śata-guḥ) [adept](sādhakaḥ) [thus](tadvat) [three-honey-anointed](tri-madhu-aktaiḥ) [obtains](labhet) [three](trayam)
+[hundred+cows](śataguḥ) [practitioner](sādhakaḥ) [like-that](tadvat) [with-three+honey+smeared](tri+madhu+aktaiḥ) [may-obtain](labhet) [three](trayam)
 
 ## mukta-m0-p202-v5037
-[tagara-born](tagara-utthaiḥ) [also](api) [thus](tathā) [parched-rice](lājaiḥ) [and](ca) [kuṭaja](kuṭajaiḥ) [also](api)
+[with-tagara+produced](tagara+utthaiḥ) [also](api) [likewise](tathā) [with-parched-grains](lājaiḥ) [and](ca) [with-kuṭaja](kuṭajaiḥ) [also](api)
 
 ## mukta-m0-p202-v5038
-[garments](ambarāṇi) [variegated](vicitrāṇi) [precious](mahārhāṇi) [and](ca) [those-days](tad-dinaiḥ)
+[garments](ambarāṇi) [variegated](vicitrāṇi) [very+valuable](mahā+arhāṇi) [and](ca) [in-that+days](tat+dinaiḥ)
 
 ## mukta-m0-p202-v5039
-[saffron](kesaraiḥ) [and](ca) [kadamba](kadambaiḥ) [and](ca) [jasmine](kundaiḥ) [vicakila](vicakilaiḥ) [also](api)
+[with-kesara](kesaraiḥ) [and](ca) [with-kadamba](kadambaiḥ) [and](ca) [with-kunda](kundaiḥ) [with-vicakila](vicakilaiḥ) [also](api)
 
 ## mukta-m0-p202-v5040
-[offer](juhuyāt) [first-beginning](prathama-ārambhe) [to-fifth-end](pañcamī-antam) [honey-soaked](madhu-plutaiḥ)
+[should-offer](juhuyāt) [at-first+beginning](prathama+ārambhe) [until-fifth](pañcamī+antaṃ) [with-honey+smeared](madhu+plutaiḥ)
 
 ## mukta-m0-p202-v5041
-[by-those](taiḥ) [indeed](eva) [milk-mixed](kṣīra-militaiḥ) [from-oblation](homāt) [gold](svarṇam) [obtains](avāpnuyāt)
+[with-those](taiḥ) [indeed](eva) [with-milk+mixed](kṣīra+militaiḥ) [from-oblation](homāt) [gold](svarṇam) [obtains](avāpnuyāt)
 
 ## mukta-m0-p202-v5042
-[flowers](prasūnaiḥ) [karṇikāra-born](karṇikāra-utthaiḥ) [honey-anointed](kṣaudra-aktaiḥ) [from-oblation](havanāt) [days](dinaiḥ)
+[with-flowers](prasūnaiḥ) [from-karṇikā+arisen](karṇikā+utthaiḥ) [with-honey+smeared](kṣaudra+aktaiḥ) [from-oblation](havanāt) [in-days](dinaiḥ)
 
 ## mukta-m0-p202-v5043
-[kahlāra](kahlāraiḥ) [red-lotus](rakta-kumudaiḥ) [utpala](utpalaiḥ) [two-lotuses](kamala-dvayaiḥ)
+[with-kahlāra](kahlārai) [with-red+kumuda](rakta+kumudaiḥ) [with-utpala](utpalaiḥ) [with-lotus+pair](kamala+dvayaiḥ)
 
 ## mukta-m0-p202-v5044
-[from-oblation](havanāt) [obtains](labhate) [Lakṣmī](lakṣmīm) [with-land-ornament-vehicle](sa-bhū-bhūṣaṇa-vāhanām)
+[from-oblation](havanāt) [obtains](labhate) [Lakṣmī](lakṣmīṃ) [with-earth+ornament+vehicle](sa+bhū+bhūṣaṇa+vāhanām)
 
 ## mukta-m0-p202-v5045
-[ketakī-flowers](ketakī-kusumaiḥ) [honey-soaked](kṣaudra-plutaiḥ) [from-oblation](homāt) [and](ca) [those-days](tad-dinaiḥ)
+[with-ketakī+flowers](ketakī+kusumaiḥ) [with-honey+smeared](kṣaudra+plutaiḥ) [from-oblation](homāt) [and](ca) [in-that+days](tat+dinaiḥ)
 
 ## mukta-m0-p202-v5046
-[white](sitaiḥ) [flowers](prasūnaiḥ) [milk-anointed](kṣīra-aktaiḥ) [from-oblation](homāt) [obtains](āpnoti) [those-days](tad-dinaiḥ)
+[with-white](sitaiḥ) [with-flowers](prasūnaiḥ) [with-milk+smeared](kṣīra+aktaiḥ) [from-oblation](homāt) [obtains](āpnoti) [in-that+days](tat+dinaiḥ)
 
 ## mukta-m0-p202-v5047
-[offer](hunet) [maruvaka](maruvakaiḥ) [honey-soaked](kṣaudra-plutaiḥ) [for-desired-accomplishment](vāñchita-siddhaye)
+[one-should-offer](hunet) [with-maruvaka](maruvakaiḥ) [with-honey+smeared](kṣaudra+plutaiḥ) [for-desired+accomplishment](vāñchita+siddhaye)
 
 ## mukta-m0-p202-v5048
-[whatever-colored](yad-varṇāni) [flowers](prasūnāni) [offer](juhuyāt) [by-mantra](vidyayā) [dear](priye)
+[of-which+color](yat+varṇāni) [flowers](prasūnāni) [one-may-offer](juhuyāt) [with-mantra](vidyayā) [O-beloved](priye)
 
 ## mukta-m0-p202-v5049
-[pepper](maricaiḥ) [mustard](sarṣapaiḥ) [oil-soaked](taila-plutaiḥ) [from-oblation](homāt) [night](niśā) [indeed](vai)
+[with-peppers](maricaiḥ) [with-mustard-seeds](sarṣapaiḥ) [with-oil+smeared](taila+plutaiḥ) [from-oblation](homāt) [at-night](niśātu) [indeed](vai)
 
 ## mukta-m0-p202-v5050
-[pāṭalī](pāṭalī) [jasmine](kunda) [mandāra](mandāra) [śephāli-flower-born](śephāli-kusuma-udbhavaiḥ)
+[from-pāṭalī+kunda+mandāra+śephālī+flower+arisen](pāṭalī+kunda+mandāra+śephāli+kusuma+udbhavaiḥ)

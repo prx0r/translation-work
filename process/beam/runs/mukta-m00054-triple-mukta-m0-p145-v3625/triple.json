@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "īśānamūrddhā",
+     "gloss": "having-īśāna-as-head",
+     "grounds": "bahuvrīhi compound: īśāna (a directional deity/form) + mūrddhan (head)",
+     "morph": "compound.bahuvrīhi.m.nom.sg"
+    },
+    {
+     "surface": "devendraśikhaḥ",
+     "gloss": "having-king-of-gods-as-crest",
+     "grounds": "bahuvrīhi compound: devendra (Indra, king of gods) + śikhā (crest)",
+     "morph": "compound.bahuvrīhi.m.nom.sg"
+    },
+    {
+     "surface": "pavananandanaḥ",
+     "gloss": "son-of-wind",
+     "grounds": "tatpuruṣa compound: pavana (wind) + nandana (son)",
+     "morph": "compound.tatpuruṣa.m.nom.sg"
+    }
+   ],
+   "question": "What divine attributes characterize the lord of the great lotus treasure?",
+   "premises": [
+    "The lord of the great lotus treasure has Īśāna as his head.",
+    "The lord of the great lotus treasure has the king of gods as his crest.",
+    "The lord of the great lotus treasure is the son of the wind."
+   ],
+   "inference": "The lord of the great lotus treasure is defined by these specific divine associations and lineage.",
+   "uncertainties": [
+    "The precise identification of īśāna as a deity, direction, or aspect in this context is not fully specified."
+   ],
+   "plain_english": "He has Īśāna as his head, the king of the gods as his crest, and is the son of the wind."
+  }
+ ]
+}
