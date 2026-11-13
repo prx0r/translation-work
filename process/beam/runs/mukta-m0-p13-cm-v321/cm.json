@@ -3,29 +3,39 @@
  "verse": 321,
  "rows": [
   {
-   "lemma": "saṃkalpya",
+   "lemma": "tadeva",
+   "morph": "compound(tad+eva).nom.sg.n",
+   "grounds": "that very thing"
+  },
+  {
+   "lemma": "tatkalpitaṃ",
+   "morph": "compound(tad+kalpita).nom.sg.n",
+   "grounds": "constructed by imagination as that"
+  },
+  {
+   "lemma": "kiṃ",
+   "morph": "nom.sg.n",
+   "grounds": "interrogative particle"
+  },
+  {
+   "lemma": "satye",
+   "morph": "loc.sg.n",
+   "grounds": "in what is real"
+  },
+  {
+   "lemma": "nāma",
    "morph": "(indecl.)",
-   "grounds": "gerund"
+   "grounds": "particle of emphasis or concession"
   },
   {
-   "lemma": "aṣṭottarayutam",
-   "morph": "n.acc.sg",
-   "grounds": "compound: aṣṭottara+yuta"
+   "lemma": "astu",
+   "morph": "3.sg.active-imperative.√as",
+   "grounds": "concessive imperative"
   },
   {
-   "lemma": "japtvā",
-   "morph": "(indecl.)",
-   "grounds": "gerund"
-  },
-  {
-   "lemma": "cchidram",
-   "morph": "n.acc.sg",
-   "grounds": "object to be held or closed"
-  },
-  {
-   "lemma": "avadhārayet",
-   "morph": "3.sg.act.opt-root-dhṛ",
-   "grounds": "optative mood"
+   "lemma": "kalpanā",
+   "morph": "nom.sg.f",
+   "grounds": "conceptual construction"
   }
  ]
 }
