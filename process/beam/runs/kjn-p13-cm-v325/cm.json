@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "taṃ",
-   "morph": "m.acc.sg",
+   "morph": "pron.acc.sg.m",
    "grounds": "accusative object of jñātvā"
   },
   {
    "lemma": "jñātvā",
-   "morph": "absolutive (root jñā)",
-   "grounds": "absolutive of jñā"
+   "morph": "absolutive",
+   "grounds": "absolutive of root jñā"
   },
   {
    "lemma": "gūḍhasadbhāvaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound gūḍha+sadbhāva in accusative"
+   "morph": "adj.acc.sg.m",
+   "grounds": "compound gūḍha plus sadbhāva in accusative agreeing with taṃ"
   },
   {
    "lemma": "sarvajñatvam",
-   "morph": "n.nom.sg",
-   "grounds": "abstract noun sarvajña+tvam"
+   "morph": "noun.nom.sg.n",
+   "grounds": "abstract noun from sarvajña as subject of prajāyate"
   },
   {
    "lemma": "prajāyate",
-   "morph": "3.sg.mid-pres (root jan)",
-   "grounds": "pra+jāyate"
+   "morph": "verb.3.sg.mid-pres",
+   "grounds": "present middle of pra-jan"
   }
  ]
 }

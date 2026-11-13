@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "Which chapter emerges from Candradīpa as the fifth?",
+ "question": "What chapter emerges from Candradīpa in this sequence?",
  "premises": [
-  "chapter emerges from Candradīpa",
-  "it is called fifth"
+  "emergence from candradīpa is stated",
+  "fifth ordinal is given",
+  "chapter is named"
  ],
- "inference": "The verse identifies the fifth chapter as emerging from Candradīpa.",
+ "inference": "The fifth chapter is the one that has emerged from Candradīpa.",
  "uncertainties": [
-  "none"
+  "mythical geography of candradīpa"
  ],
- "plain_english": "The fifth chapter emerged from Candradīpa."
+ "plain_english": "The fifth chapter, emerged from Candradīpa."
 }
