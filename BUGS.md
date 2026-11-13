@@ -153,3 +153,12 @@ worker edits.
 **Fix:** all three now mutate through `beam_swarm.queue_update` (file-locked,
 fresh read, immediate write). `auto_burn.seed_locked()` re-reads at seed time.
 **Rule:** *one writer discipline for queue.json — always queue_update.*
+
+## 17. Duplicate worker per slot (2026-11-13)
+**Symptom:** w2 and w3 each ran two processes (`ps` showed 5+ workers), causing
+double claims and wasted quota.
+**Root:** three supervisors (harness/continue/watchdog) each start workers with
+a `pgrep`-then-start race; two could win the same slot.
+**Fix:** `beam_swarm.worker_loop` takes an exclusive non-blocking
+`flock` on `process/beam/worker-<name>.lock` for its lifetime; a duplicate
+starter exits immediately. Exactly one process per slot now.

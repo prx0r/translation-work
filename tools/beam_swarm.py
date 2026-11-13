@@ -877,6 +877,18 @@ def run_tal_brief(t: dict) -> tuple[bool, str]:
 
 def worker_loop(name: str) -> int:
     os.environ['BEAM_WORKER'] = name
+    # SLOT LOCK (2026-11-13): only ONE worker process per w-slot. Multiple
+    # supervisors (harness + continue + watchdog) can race to start the same
+    # slot; a duplicate double-claims tasks. Hold an exclusive non-blocking
+    # lock for the process lifetime; exit quietly if the slot is taken.
+    import fcntl as _fcntl
+    STATE.mkdir(parents=True, exist_ok=True)
+    _lf = open(STATE / f'worker-{name}.lock', 'w')
+    try:
+        _fcntl.flock(_lf, _fcntl.LOCK_EX | _fcntl.LOCK_NB)
+    except OSError:
+        print(f'[{name}] slot already locked — duplicate worker exiting')
+        return 0
     from beam_client import chat  # noqa: F401  (fail fast if key missing)
     import beam_client as _b
     import threading as _th

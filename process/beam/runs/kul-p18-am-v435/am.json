@@ -1,13 +1,15 @@
 {
  "song": "kul-p18",
  "verse": 435,
- "question": "Which further divine forms are named?",
+ "question": "Which additional divine names continue the enumerated series?",
  "premises": [
-  "vāsudeva is named",
-  "saṅkarṣaṇa is named",
-  "pradyumna and aniruddha are named"
+  "Vāsudeva and Saṅkarṣaṇa are named.",
+  "Pradyumna and Aniruddha are named together.",
+  "The list continues the prior enumeration."
  ],
- "inference": "the further divine forms are vāsudeva, saṅkarṣaṇa, pradyumna, and aniruddha",
- "uncertainties": [],
+ "inference": "The series continues with Vāsudeva, Saṅkarṣaṇa, Pradyumna, and Aniruddha.",
+ "uncertainties": [
+  "The diminutive-like form aniruddhakaḥ may be metrical or stylistic."
+ ],
  "plain_english": "Vāsudeva, Saṅkarṣaṇa, Pradyumna, and Aniruddha."
 }
