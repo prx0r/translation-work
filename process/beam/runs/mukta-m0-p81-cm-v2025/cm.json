@@ -3,29 +3,34 @@
  "verse": 2025,
  "rows": [
   {
-   "lemma": "kartavyā",
-   "morph": "gerundive.f.nom.sg (√kṛ)",
-   "grounds": "gerundive expressing obligation or necessity"
+   "lemma": "lakṣmīṃ",
+   "morph": "f.acc.sg",
+   "grounds": "object of invocation/recitation; goddess Lakṣmī"
   },
   {
-   "lemma": "sarvadevānāṃ",
-   "morph": "m.gen.pl (sarva+deva)",
-   "grounds": "compound indicating the totality of deities"
-  },
-  {
-   "lemma": "bhaktiyogaḥ",
-   "morph": "m.nom.sg (bhakti+yoga)",
-   "grounds": "compound denoting disciplined devotion as a practice"
-  },
-  {
-   "lemma": "atra",
+   "lemma": "hrī/",
    "morph": "(indecl.)",
-   "grounds": "locative adverb referring to the present context"
+   "grounds": "bīja syllable; first element of the mantra, transliterated as given"
   },
   {
-   "lemma": "kāraṇam",
-   "morph": "n.nom.sg",
-   "grounds": "states the ground or justification for the prescribed practice"
+   "lemma": "śrī+iti",
+   "morph": "indecl.+(indecl.)",
+   "grounds": "bīja syllable śrī followed by quotative particle iti marking the mantra formula"
+  },
+  {
+   "lemma": "mantraṃ",
+   "morph": "m.acc.sg",
+   "grounds": "the sacred formula to be recited"
+  },
+  {
+   "lemma": "śata+vāraṃ",
+   "morph": "compound: śata+vāram (indecl.)",
+   "grounds": "specifies the number of repetitions"
+  },
+  {
+   "lemma": "japet",
+   "morph": "3.sg.opt.act (√jap)",
+   "grounds": "prescriptive injunction for ritual recitation"
   }
  ]
 }

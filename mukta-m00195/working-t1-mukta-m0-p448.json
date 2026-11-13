@@ -20,7 +20,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "should-chant"
+"quick_gloss": "should-mutter"
 },
 {
 "surface": "mantram",
@@ -57,7 +57,7 @@
 },
 {
 "surface": "samālabhya",
-"quick_gloss": "having-chosen"
+"quick_gloss": "having-adopted"
 },
 {
 "surface": "ekam",
@@ -156,7 +156,7 @@
 "tokens": [
 {
 "surface": "mṛdvī",
-"quick_gloss": "grapes"
+"quick_gloss": "grape"
 },
 {
 "surface": "modaka",
@@ -164,7 +164,7 @@
 },
 {
 "surface": "pūryaś",
-"quick_gloss": "and-pastry"
+"quick_gloss": "and-stuffed-cake"
 },
 {
 "surface": "ca",
@@ -205,7 +205,7 @@
 },
 {
 "surface": "tarppayet",
-"quick_gloss": "should-satisfy"
+"quick_gloss": "should-satiate"
 },
 {
 "surface": "yaḥ",
@@ -213,7 +213,7 @@
 },
 {
 "surface": "sāyaṃ",
-"quick_gloss": "in-evening"
+"quick_gloss": "evening"
 },
 {
 "surface": "vā",
@@ -266,8 +266,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhāra+uṣṇaṃ",
-"quick_gloss": "stream-hot"
+"surface": "dhāra",
+"quick_gloss": "stream"
+},
+{
+"surface": "uṣṇaṃ",
+"quick_gloss": "hot"
 },
 {
 "surface": "kvathitaṃ",
@@ -282,8 +286,12 @@
 "quick_gloss": "curd"
 },
 {
-"surface": "dadhi+udakaṃ",
-"quick_gloss": "curd-water"
+"surface": "dadhi",
+"quick_gloss": "curd"
+},
+{
+"surface": "udakaṃ",
+"quick_gloss": "water"
 },
 {
 "surface": "punaḥ",
@@ -299,16 +307,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañca+amṛtaṃ",
+"surface": "pañcāmṛtaṃ",
 "quick_gloss": "five-nectars"
 },
 {
-"surface": "nava",
-"quick_gloss": "nine"
-},
-{
-"surface": "etāni",
-"quick_gloss": "these"
+"surface": "nava+etāni",
+"quick_gloss": "these-nine"
 },
 {
 "surface": "pratyekaṃ",
@@ -336,12 +340,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "khaṇḍa+miśrita",
-"quick_gloss": "sugar-mixed"
+"surface": "khaṇḍa",
+"quick_gloss": "sugar"
 },
 {
-"surface": "dhāra+uṣṇa",
-"quick_gloss": "stream-hot"
+"surface": "miśrita",
+"quick_gloss": "mixed"
+},
+{
+"surface": "dhāra",
+"quick_gloss": "stream"
+},
+{
+"surface": "uṣṇa",
+"quick_gloss": "hot"
 },
 {
 "surface": "dugdha",
@@ -349,7 +361,7 @@
 },
 {
 "surface": "buddhyā",
-"quick_gloss": "with-intention"
+"quick_gloss": "with-notion"
 },
 {
 "surface": "jalaiḥ",
@@ -378,15 +390,15 @@
 },
 {
 "surface": "nānā",
-"quick_gloss": "with-various"
+"quick_gloss": "various"
 },
 {
 "surface": "rasa",
-"quick_gloss": "flavors"
+"quick_gloss": "flavor"
 },
 {
 "surface": "upetaṃ",
-"quick_gloss": "endowed"
+"quick_gloss": "endowed-with"
 },
 {
 "surface": "bhakṣyaṃ",
@@ -419,7 +431,7 @@
 },
 {
 "surface": "santarpaṇāt",
-"quick_gloss": "by-satisfaction"
+"quick_gloss": "from-satiation"
 },
 {
 "surface": "eva",
@@ -447,11 +459,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhatvā",
+"surface": "bhūtvā",
 "quick_gloss": "becoming"
 },
 {
-"surface": "nānā+vidhair",
+"surface": "nānāvidhair",
 "quick_gloss": "with-various"
 },
 {
@@ -460,7 +472,7 @@
 },
 {
 "surface": "abhirāmair",
-"quick_gloss": "with-delights"
+"quick_gloss": "with-delightful"
 },
 {
 "surface": "muhur+muhuḥ",
@@ -476,7 +488,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "balāt",
+"surface": "balād",
 "quick_gloss": "forcibly"
 },
 {
@@ -484,7 +496,7 @@
 "quick_gloss": "taking"
 },
 {
-"surface": "dadan",
+"surface": "dadat",
 "quick_gloss": "giving"
 },
 {
@@ -501,7 +513,7 @@
 },
 {
 "surface": "tulām",
-"quick_gloss": "equality"
+"quick_gloss": "balance"
 }
 ]
 },
@@ -526,11 +538,15 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "should-chant"
+"quick_gloss": "should-mutter"
 },
 {
-"surface": "aṣṭādaśa+akṣaram",
-"quick_gloss": "eighteen-syllabled"
+"surface": "aṣṭādaśa",
+"quick_gloss": "eighteen"
+},
+{
+"surface": "akṣaram",
+"quick_gloss": "syllabled"
 }
 ]
 },
@@ -551,7 +567,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "should-chant"
+"quick_gloss": "should-mutter"
 },
 {
 "surface": "tāvat",
@@ -583,12 +599,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhu+pluta",
-"quick_gloss": "honey-smeared"
+"surface": "madhu",
+"quick_gloss": "honey"
+},
+{
+"surface": "pluta",
+"quick_gloss": "soaked"
 },
 {
 "surface": "kuśair",
-"quick_gloss": "with-kuśa-grass"
+"quick_gloss": "with-kuśa-grasses"
 },
 {
 "surface": "vā",
@@ -612,7 +632,7 @@
 },
 {
 "surface": "taṇḍulaiḥ",
-"quick_gloss": "and-rice"
+"quick_gloss": "and-rice-grains"
 }
 ]
 },
@@ -628,8 +648,12 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "aṣṭādaśa+arṇasya",
-"quick_gloss": "of-eighteen-syllabled"
+"surface": "aṣṭādaśa",
+"quick_gloss": "of-eighteen"
+},
+{
+"surface": "arṇasya",
+"quick_gloss": "syllabled"
 },
 {
 "surface": "prayogaḥ",
@@ -678,16 +702,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍ+dīrgha+anvita",
-"quick_gloss": "with-six-long-vowels-endowed"
+"surface": "ṣaḍ",
+"quick_gloss": "with-six"
+},
+{
+"surface": "dīrgha",
+"quick_gloss": "long-vowels"
+},
+{
+"surface": "anvita",
+"quick_gloss": "endowed"
 },
 {
 "surface": "bījena",
-"quick_gloss": "seed-syllable"
+"quick_gloss": "with-seed"
 },
 {
-"surface": "ṣaḍ+aṅgāni",
-"quick_gloss": "six-limbs"
+"surface": "ṣaḍ",
+"quick_gloss": "six"
+},
+{
+"surface": "aṅgāni",
+"quick_gloss": "limbs"
 },
 {
 "surface": "ca",
@@ -707,24 +743,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sampat+prado",
-"quick_gloss": "prosperity-giving"
+"surface": "sampat",
+"quick_gloss": "prosperity"
+},
+{
+"surface": "prado",
+"quick_gloss": "giving"
 },
 {
 "surface": "viśeṣeṇa",
 "quick_gloss": "especially"
 },
 {
-"surface": "mantraḥ",
+"surface": "mantro",
 "quick_gloss": "mantra"
 },
 {
-"surface": "ayam",
+"surface": "ayaṃ",
 "quick_gloss": "this"
 },
 {
 "surface": "parikīrttitaḥ",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -748,8 +788,12 @@
 "quick_gloss": "complete"
 },
 {
-"surface": "sūkṣma+rūpī",
-"quick_gloss": "subtle-form"
+"surface": "sūkṣma",
+"quick_gloss": "subtle"
+},
+{
+"surface": "rūpī",
+"quick_gloss": "formed"
 },
 {
 "surface": "janārdanaḥ",
@@ -774,7 +818,7 @@
 },
 {
 "surface": "kali",
-"quick_gloss": "of-Kali-age"
+"quick_gloss": "of-Kali"
 },
 {
 "surface": "dharmāṇā",
