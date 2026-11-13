@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-burning-as-if(nirdahantīva) worlds(lokān) three(trīn) trembled(prākampanta) gods-and-demons(sura+asurāḥ)
+[burning-as-if](nirdahantīva) [worlds](lokān) [three](trīn) [trembled](prākampanta) [gods](sura) [and-demons](asurāḥ)
 
 ## mukta-m0-p03-v52
-fallen(pātitaḥ) Śukra(śukraḥ) son(putraḥ) this(ayam) to-you(te) may-be-united(miyojyatām)
+[felled](pātitaḥ) [Śukra](śukraḥ) [son](putraḥ) [this](ayam) [of-you](te) [may-be-employed](niyojyatām)
 
 ## mukta-m0-p03-v53
-release(vimocaya) again(punaḥ) that(tad) color-and-luster(varṇa+kāntikā)
+[release](vimocaya) [again](punaḥ) [that](tat) [color](varṇa) [and-luster](kāntikā)
 
 ## mukta-m0-p03-v54
-sixteen-syllabled(ṣoḍaśa+arṇaḥ) to-you(tava) declared(ākhyātaḥ) recited(mantrita) eight-more-than-hundred(aṣṭa+uttaraṃ) hundred(śatam)
+[sixteen](ṣoḍaśa) [syllabled](arṇaḥ) [to-you](tava) [declared](ākhyātaḥ) [recited](mantrita) [eight](aṣṭa) [more-than-hundred](uttaraṃ+śatam)
 
 ## mukta-m0-p03-v55
-initiation-sequence(dīkṣā+kramaḥ) of-whom(yeṣāṃ) in-lineage(vaṃśe) O-goddess(devi) has-come(samāgataḥ)
+[initiation](dīkṣā) [sequence](kramaḥ) [of-whom](yeṣāṃ) [in-lineage](vaṃśe) [O-goddess](devi) [has-come](samāgataḥ)
 
 ## mukta-m0-p03-v56
-principal(pradhānaḥ) this(ayam) he(saḥ) but(tu) left-path(vāma+pathaḥ) remembered(smṛtaḥ)
+[principal](pradhānaḥ) [this](ayam) [that](saḥ) [indeed](tu) [left](vāma) [path](pathaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p03-v57
-by-one-entered-kula-path(kula+mārga+praviṣṭena) always(sadā) to-be-served(sevyaṃ) by-the-very-joyful(su+harṣiṇā)
+[in-kula](kula) [path](mārga) [entered-by](praviṣṭena) [always](sadā) [to-be-served](sevyaṃ) [with-great-joy](suharṣiṇā)
 
 ## mukta-m0-p03-v58
-middle(madhyamaḥ) may-be(syāt) follower-of-siddhānta(siddhāntī) who(yaḥ) lower(avaraḥ) may-be(bhavet)
+[of-middle](madhyamaḥ) [may-be](syāt) [siddhāntin](siddhāntī) [who](yaḥ) [lower](avaraḥ) [may-be](bhavet)
 
 ## mukta-m0-p03-v59
-drunk(pītam) nectar(amṛtam) they(te) they(te) soma-drinkers(soma+pāḥ) with-strength(bala) proud(darpitāḥ)
+[drunk](pītam) [immortal-nectar](amṛtaṃ) [they](te) [they](te) [soma](soma) [drinkers](pāḥ) [with-strength](bala) [proud](darpitāḥ)
 
 ## mukta-m0-p03-v60
-of-them(teṣām) worship(upāsanā) declared(proktā) by-dakṣa-path(dakṣa+mārgeṇa) she(sā) by-twice-born(dvijaiḥ)
+[of-them](teṣām) [worship](upāsanā) [declared](proktā) [by-right](dakṣa) [path](mārgeṇa) [that](sā) [by-twice-born](dvijaiḥ)
 
 ## mukta-m0-p03-v61
-puranic(paurāṇī) middle(madhyamā) called(khyātā) tantric(tāntrikī) but(tu) lower(avarā) remembered(smṛtā)
+[purāṇic](paurāṇī) [middle](madhyamā) [called](khyātā) [tantric](tāntrikī) [indeed](tu) [lower](avarā) [remembered](smṛtā)
 
 ## mukta-m0-p03-v62
-when(yadā) dakṣa(dakṣaṃ) one-enters(praviśet) then(tat) that(su) with-juices(rassaiḥ) but(tu)
+[when](yadā) [right-path](dakṣaṃ) [one-enters](praviśet) [then](tat) [that](su) [with-juices](rassai) [indeed](tu)
 
 ## mukta-m0-p03-v63
-left(vāmaṃ) one-enters(praviśet) then(tat) gods(surāḥ) then(tadā)
+[left-path](vāmaṃ) [one-enters](praviśet) [then](tat) [liquors](surāḥ) [then](tadā)
 
 ## mukta-m0-p03-v64
-therefore(tasmāt) own-kula-path(sva+kula+mārgaṃ) indeed(tu) having-known(jñātvā) one-should-perform(kuryāt) worship(upāsanām)
+[therefore](tasmāt) [own](sva) [kula](kula) [path](mārgaṃ) [indeed](tu) [having-known](jñātvā) [one-should-perform](kuryāt) [worship](upāsanām)
 
 ## mukta-m0-p03-v65
-path(mārgaḥ) at-that-time(tat+kālaṃ) enjoyment-and-liberation(bhukti+mukti) giver(pradāyakaḥ)
+[path](mārgaḥ) [at-that-time](tatkālaṃ) [enjoyment](bhukti) [and-liberation](mukti) [giver](pradāyakaḥ)
 
 ## mukta-m0-p03-v66
-and(ca) of-both(ubhayoḥ) accomplishment(siddhiḥ) of-gods(devatānāṃ) mockery(viḍaṃbanam)
+[and](ca) [of-both](ubhayoḥ) [success](siddhiḥ) [of-gods](devatānāṃ) [mockery](viḍaṃbanam)
 
 ## mukta-m0-p03-v67
-not(nāsti) here(iha) may-be(syāt) and(ca) in-initiation-etc(upanayana+ādiṣu)
+[not](na) [is](asti) [here](iha) [may-be](syāt) [and](ca) [in-initiation-etc](upanayana+ādiṣu)
 
 ## mukta-m0-p03-v68
-not(na) qualification(adhikāraḥ) exists(asti) therefore(ataḥ) one-should-make(kuryāt) oneself(ātmānaṃ) consecrated-by-mantra(mantra+saṃskṛtam)
+[not](na) [eligibility](adhikāraḥ) [is](asti) [therefore](ataḥ) [one-should-make](kuryāt) [oneself](ātmānaṃ) [mantra](mantra) [consecrated](saṃskṛtam)
 
 ## mukta-m0-p03-v69
-thus(iti) declared(proktā) obtained(prāptā) if(cet) from-mouth-of-good-guru(su+guroḥ+mukhāt)
+[thus](iti) [declared](proktā) [obtained](prāptā) [if](cet) [from-good-guru](suguroḥ) [from-mouth](mukhāt)
 
 ## mukta-m0-p03-v70
-with-twenty-times-world-qualities(viṃśat+viśva+upaka+guṇaiḥ) endowed(yuktaḥ) who(yaḥ) he(saḥ) guru(guruḥ) may-be(bhavet)
+[twenty](viṃśat) [twenty](viśva) [secondary](upaka) [qualities](guṇaiḥ) [endowed](yuktaḥ) [who](yaḥ) [he](saḥ) [guru](guruḥ) [should-be](bhavet)
 
 ## mukta-m0-p03-v71
-knower-of-all-limbs-paths-and-principles(sarva+aṅga+mārga+tattva+jñaḥ) knower-of-all-mantra-procedures(sarva+mantra+vidhāna+vit)
+[all](sarva) [limbs](aṅga) [path](mārga) [truth](tattva) [knower](jñaḥ) [all](sarva) [mantra](mantra) [procedure](vidhāna) [knower](vit)
 
 ## mukta-m0-p03-v72
-inward-facing(antar+mukhaḥ) outward-seeing(bahiḥ+dṛṣṭiḥ) all-knowing(sarva+jñaḥ) knower-of-place-and-time(deśa+kāla+vit)
+[inward](antar) [faced](mukhaḥ) [outward](bahir) [seeing](dṛṣṭiḥ) [all](sarva) [knowing](jñaḥ) [place](deśa) [and-time](kāla) [knower](vit)
 
 ## mukta-m0-p03-v73
-in-desired(kāmye) delighting(rataḥ) in-action(karmaṇi) unblamed(anindite)
+[in-desire](kāmye) [delighting](rataḥ) [in-action](karmaṇi) [unblamed](anindite)
 
 ## mukta-m0-p03-v74
-causing-pain-of-death-and-agony(maraṇa+āyāsa+duḥkha+kṛt)
+[death](maraṇa) [suffering](āyāsa) [pain](duḥkha) [causing](kṛt)
 
 ## mukta-m0-p03-v75
-of-kṣatriya-vaiśya-śūdra-birth(kṣatra+viṭ+śūdra+jātīyaḥ) in-reverse-order(pratilomaṃ) not(na) should-initiate(dīkṣayet)
+[kṣatriya](kṣatra) [vaiśya](viṭ) [śūdra](śūdra) [born](jātīyaḥ) [in-reverse-order](pratilomaṃ) [not](na) [should-initiate](dīkṣayet)

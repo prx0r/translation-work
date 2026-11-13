@@ -14,7 +14,7 @@
 [various+state](nānābhāvaṃ) [mind](mano) [of-whom](yasya) [of-him](tasya) [liberation+not](muktirna) [is-born](jāyate)
 
 ## mukta-m0-p04-v80
-[mind+form+situated](manorūpaḥ) [situated](sthito) [Rudra](rudrastrayo) [gods+three](devāstrayo) [qualities](guṇāḥ)
+[mind+form](manorūpaḥ) [situated](sthito) [Rudra](rudrastrayo) [gods+three](devāstrayo) [qualities](guṇāḥ)
 
 ## mukta-m0-p04-v81
 [fire+state+situated](agnibhāvasthito) [Rudra](rudrastrayo) [gods+three](devāstrayo) [qualities](guṇāḥ)
@@ -23,19 +23,19 @@
 [various+state](nānābhāvaṃ) [mind](mano) [of-whom](yasya) [of-him](tasya) [liberation+not](muktirna) [is-born](jāyate)
 
 ## mukta-m0-p04-v83
-[I](ahaṃ) [Rudra+also+I](rudro'pyahaṃ) [void](śūnyamahaṃ) [pervading](vyāpī) [stainless](nirañjanam)
+[I](ahaṃ) [Rudra+also+I](rudro'pyahaṃ) [void+I](śūnyamahaṃ) [pervading](vyāpī) [stainless](nirañjanam)
 
 ## mukta-m0-p04-v84
 [own-nature+pure](svabhāvanirmalaṃ) [inner-self](svāntaṃ) [he](sa) [indeed+I](evāhaṃ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p04-v85
-[truth+speaking](satyavādī) [should-be](bhaved) [devotee](bhakto) [giver](dātā) [steadfast](dhīro) [welfare+delighting](hiterataḥ)
+[truth+speaker](satyavādī) [should-be](bhaved) [devotee](bhakto) [giver](dātā) [steadfast](dhīro) [welfare+delighting](hiterataḥ)
 
 ## mukta-m0-p04-v86
-[therefore](tasmāt) [with-all+effort](sarvaprayatnena) [compassion+virtue](dayādharmaṃ) [one-should-resort-to](samāśrayet)
+[therefore](tasmāt) [with-all+effort](sarvaprayatnena) [compassion+dharma](dayādharmaṃ) [should-resort-to](samāśrayet)
 
 ## mukta-m0-p04-v87
-[Veda+twilight-rites](vedasandhyā) [austerity](tapo) [meditation](dhyānaṃ) [oblation+action](homakarma) [family](kulaṃ) [how](katham)
+[Veda+twilight-rites](vedasandhyā) [austerity](tapo) [meditation](dhyānaṃ) [oblation+ritual](homakarma) [family](kulaṃ) [how](katham)
 
 ## mukta-m0-p04-v88
 [Brahman+knowledge+equal](brahmajñānasamaṃ) [merit](puṇyaṃ) [a-part](kalāṃ) [not+deserves](nārhati) [sixteenth](ṣoḍaśīm)
@@ -50,10 +50,10 @@
 [to-guru+equal](gurostulyaṃ) [not](na) [indeed](vai) [anyone](ko'pi) [which+seen](yaddṛṣṭaṃ) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p04-v92
-[on-earth](pṛthivyāṃ) [not](nāsti) [that+substance](taddravyaṃ) [which+having-given](yaddattvā) [and+debt-free](cānṛṇī) [one-may-be](bhavet)
+[on-earth](pṛthivyāṃ) [not+exists](nāsti) [that+substance](taddravyaṃ) [which+having-given](yaddattvā) [and+debt-free](cānṛṇī) [one-may-be](bhavet)
 
 ## mukta-m0-p04-v93
-[of-whom](yasya) [of-anyone+also](kasyāpi) [of-devotee](bhaktasya) [true+guru](sadgurustasya) [is-given](dīyate)
+[of-whom](yasya) [of-anyone](kasyāpi) [of-devotee](bhaktasya) [true+guru](sadgurustasya) [is-given](dīyate)
 
 ## mukta-m0-p04-v94
 [renunciation](saṃnyāsaṃ) [all+actions](sarvakarmāṇi) [worldly](laukikāni) [should-abandon](tyajed) [wise-one](budhaḥ)
@@ -62,7 +62,7 @@
 [therefore](tasmāt) [with-all+effort](sarvaprayatnena) [ascetic](yatiḥ) [attachment](saṅgaṃ) [should-abandon](parityajet)
 
 ## mukta-m0-p04-v96
-[makāra](makārastāmasaḥ) [tamasic](tāmasaḥ) [declared](proktaḥ) [by-three](tribhiḥ) [primordial-nature](prakṛtirucyate) [is-called](ucyate)
+[makāra](makārastāmasaḥ) [tamas+quality](tāmasaḥ) [declared](proktaḥ) [by-three](tribhiḥ) [primordial-nature](prakṛtirucyate) [is-called](ucyate)
 
 ## mukta-m0-p04-v97
 [from-Īśvara](īśvarānnirgatā) [emerged](nirgatā) [she](sā) [indeed](hi) [primordial-nature](prakṛtirguṇabandhanā) [quality+bondage](guṇabandhanā)
@@ -71,7 +71,7 @@
 [ignorance](avidyā) [deluding](mohinī) [which](yā) [she](sā) [sound+form](śabdarūpā) [glorious](yaśasvinī)
 
 ## mukta-m0-p04-v99
-[makāra](makāraḥ) [Sāma+Veda+indeed](sāmavedastu) [in-three](triṣu) [joined+also](yukto'pyatharvaṇaḥ) [of-Atharva](atharvaṇaḥ)
+[makāra](makāraḥ) [Sāma+Veda+indeed](sāmavedastu) [in-three](triṣu) [joined+also](yukto'pyatharvaṇaḥ) [Atharvaṇa](atharvaṇaḥ)
 
 ## mukta-m0-p04-v100
-[akāra+indeed+then](akārastvatha) [Bhūr+loka](bhūrloka) [ukāra](ukāro) [Bhuvaḥ](bhuva) [is-called](ucyate)
+[akāra+indeed](akārastvatha) [Bhūr+loka](bhūrloka) [ukāra](ukāro) [Bhuvaḥ](bhuva) [is-called](ucyate)
