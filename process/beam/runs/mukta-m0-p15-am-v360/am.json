@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 360,
- "question": "Which implements and weapons are attributed to the goddess in this enumeration?",
+ "question": "What conduct concerning the two types will be explained next?",
  "premises": [
-  "The goddess bears a noose and goad.",
-  "She bears a thunderbolt and spear.",
-  "She bears a skull-staff and a hammer."
+  "The speaker announces a forthcoming explanation.",
+  "The explanation will be brief.",
+  "The subject is the supreme conduct of those two."
  ],
- "inference": "The goddess is equipped with a set of implements including noose, goad, thunderbolt, spear, skull-staff, and hammer.",
- "uncertainties": [],
- "plain_english": "She holds a noose and goad, a thunderbolt and spear, a skull-staff, and likewise a hammer."
+ "inference": "Therefore the supreme conduct of those two will now be briefly described.",
+ "uncertainties": [
+  "The identity of 'those two' depends on the immediate context."
+ ],
+ "plain_english": "I shall briefly tell the supreme conduct of those two."
 }
