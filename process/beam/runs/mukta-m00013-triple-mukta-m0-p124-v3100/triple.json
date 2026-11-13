@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating the central direction or position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "first-person pronoun, object of protection",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative or imperative sense of guarding",
+     "morph": "3.sg.imp.act-√pā"
+    },
+    {
+     "surface": "deveśī",
+     "gloss": "goddess-lord",
+     "grounds": "vocative epithet addressing the sovereign goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hūṃ",
+     "gloss": "hūṃ",
+     "grounds": "bīja syllable, transliterated as mantra element",
+     "morph": "(bīja)"
+    },
+    {
+     "surface": "svarūpā",
+     "gloss": "own-natured",
+     "grounds": "describes the goddess as having hūṃ as her essential form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nagātmajā",
+     "gloss": "mountain-daughter",
+     "grounds": "epithet identifying the goddess as born of the mountain",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which form of Deveśī grants protection in the central position?",
+   "premises": [
+    "Deveśī is invoked to protect in the middle.",
+    "Her essential nature is expressed by the bīja hūṃ.",
+    "She is identified as the mountain-daughter."
+   ],
+   "inference": "Therefore the hūṃ-natured mountain-daughter Deveśī protects in the middle.",
+   "uncertainties": [],
+   "plain_english": "May Deveśī, the mountain-daughter whose essential nature is hūṃ, protect me in the middle."
+  }
+ ]
+}
