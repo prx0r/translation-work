@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "prayojanaṃ",
+     "gloss": "purpose",
+     "grounds": "object of inquiry; the aim or justification sought",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request for explanation",
+     "morph": "2.sg.act.imp-root vad"
+    },
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "refers to the previously mentioned acts",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "introduces the alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalāḥ",
+     "gloss": "fruitless",
+     "grounds": "describes the acts as lacking result without purpose",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "kriyāḥ",
+     "gloss": "actions",
+     "grounds": "the acts in question",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What purpose justifies these acts so they do not become fruitless?",
+   "premises": [
+    "These acts require a stated purpose.",
+    "Without a stated purpose these acts lack fruit.",
+    "The purpose of these acts must be declared."
+   ],
+   "inference": "Therefore the purpose of these acts must be explained.",
+   "uncertainties": [
+    "The specific acts referred to by eteṣām depend on the preceding verses."
+   ],
+   "plain_english": "Tell the purpose of these acts; otherwise, the actions are fruitless."
+  }
+ ]
+}
