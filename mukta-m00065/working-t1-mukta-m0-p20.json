@@ -20,7 +20,7 @@
 },
 {
 "surface": "kathitāni",
-"quick_gloss": "described"
+"quick_gloss": "told"
 },
 {
 "surface": "atra",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "saṃkhyayā",
-"quick_gloss": "in-number"
+"quick_gloss": "by-number"
 }
 ]
 },
@@ -102,7 +102,7 @@
 },
 {
 "surface": "kramāt",
-"quick_gloss": "in-sequence"
+"quick_gloss": "in-order"
 }
 ]
 },
@@ -123,7 +123,7 @@
 },
 {
 "surface": "śṛṅgī",
-"quick_gloss": "horned"
+"quick_gloss": "horned-figure"
 },
 {
 "surface": "syāt",
@@ -134,7 +134,7 @@
 "quick_gloss": "by-that"
 },
 {
-"surface": "śoka+bhayaṃ",
+"surface": "śoka+bhayam",
 "quick_gloss": "sorrow+fear"
 },
 {
@@ -164,7 +164,7 @@
 },
 {
 "surface": "saḥ",
-"quick_gloss": "it"
+"quick_gloss": "that"
 },
 {
 "surface": "aneka+vyādhi+kārakaḥ",
@@ -201,7 +201,7 @@
 },
 {
 "surface": "bāhya+lakṣaṇaiḥ",
-"quick_gloss": "by-external+characteristics"
+"quick_gloss": "by-external+signs"
 }
 ]
 },
@@ -226,7 +226,7 @@
 },
 {
 "surface": "pralepataḥ",
-"quick_gloss": "by-plastering"
+"quick_gloss": "from-coating"
 }
 ]
 },
@@ -243,7 +243,7 @@
 },
 {
 "surface": "tāla+saṃyuktaṃ",
-"quick_gloss": "with-tāla+joined"
+"quick_gloss": "with-orpiment+joined"
 },
 {
 "surface": "sauvīreṇa",
@@ -280,11 +280,11 @@
 },
 {
 "surface": "jñātvā",
-"quick_gloss": "having-known"
+"quick_gloss": "knowing"
 },
 {
 "surface": "tāḥ",
-"quick_gloss": "them"
+"quick_gloss": "those"
 },
 {
 "surface": "doṣa+dāḥ",
@@ -305,7 +305,7 @@
 "tokens": [
 {
 "surface": "piṣṭvā",
-"quick_gloss": "having-ground"
+"quick_gloss": "ground"
 },
 {
 "surface": "evaṃ",
@@ -390,7 +390,7 @@
 "quick_gloss": "to-be-abandoned"
 },
 {
-"surface": "ūrmā+anvitaṃ",
+"surface": "ūrma+anvitaṃ",
 "quick_gloss": "with-wave+possessed"
 },
 {
@@ -420,7 +420,7 @@
 },
 {
 "surface": "avi+kṣīraiḥ",
-"quick_gloss": "with-ewe+milk"
+"quick_gloss": "with-sheep+milk"
 },
 {
 "surface": "prapeṣya",
@@ -453,15 +453,11 @@
 },
 {
 "surface": "jñātvā",
-"quick_gloss": "having-known"
+"quick_gloss": "knowing"
 },
 {
-"surface": "prāk",
-"quick_gloss": "previously"
-},
-{
-"surface": "doṣa+dāṃ",
-"quick_gloss": "fault+giving"
+"surface": "prāk+doṣa+dāṃ",
+"quick_gloss": "previously+fault+giving"
 },
 {
 "surface": "tyajet",
@@ -481,12 +477,16 @@
 "quick_gloss": "of-maker"
 },
 {
-"surface": "tat+kula+hṛt",
-"quick_gloss": "his+family+heart"
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "kula+hṛt",
+"quick_gloss": "family+heart"
 },
 {
 "surface": "nūnaṃ",
-"quick_gloss": "certainly"
+"quick_gloss": "surely"
 },
 {
 "surface": "guroḥ",
@@ -514,12 +514,12 @@
 "quick_gloss": "from-chisel+blow"
 },
 {
-"surface": "bhidā+kārī",
-"quick_gloss": "split+shaped"
+"surface": "bhidā+ākārī",
+"quick_gloss": "splitting+form"
 },
 {
 "surface": "sandhiḥ",
-"quick_gloss": "joint"
+"quick_gloss": "junction"
 },
 {
 "surface": "kartṛ+vināśakaḥ",
@@ -540,15 +540,15 @@
 },
 {
 "surface": "sphuṭitakaṃ",
-"quick_gloss": "burst"
+"quick_gloss": "burst-open"
 },
 {
 "surface": "vidyāt",
 "quick_gloss": "one-should-know"
 },
 {
-"surface": "śastra+ghāta+anta+dāyakam",
-"quick_gloss": "weapon+blow+end+giving"
+"surface": "śastra+ghāta+antadāyakam",
+"quick_gloss": "weapon+blow+giving"
 }
 ]
 },
@@ -569,11 +569,11 @@
 },
 {
 "surface": "vyoma",
-"quick_gloss": "void"
+"quick_gloss": "cavity"
 },
 {
 "surface": "saḥ",
-"quick_gloss": "it"
+"quick_gloss": "that"
 },
 {
 "surface": "acirāt",
@@ -598,11 +598,11 @@
 },
 {
 "surface": "kartṛ+prajā+nāśaḥ",
-"quick_gloss": "maker+people+destruction"
+"quick_gloss": "maker+offspring+destruction"
 },
 {
 "surface": "śīghram",
-"quick_gloss": "very-quickly"
+"quick_gloss": "quickly"
 },
 {
 "surface": "eva",
@@ -610,7 +610,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "no"
+"quick_gloss": "not"
 },
 {
 "surface": "saṃśayaḥ",
@@ -655,7 +655,7 @@
 },
 {
 "surface": "vinaśyataḥ",
-"quick_gloss": "are-destroyed"
+"quick_gloss": "perish"
 }
 ]
 },
@@ -737,8 +737,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmā+upendra+vibhāga+sthān",
-"quick_gloss": "in-brahmā+upendra+division+situated"
+"surface": "brahma+upendra+vibhāga+sthān",
+"quick_gloss": "in-Brahmā+Upendra+division+situated"
 },
 {
 "surface": "tridhā",
@@ -767,7 +767,7 @@
 },
 {
 "surface": "granthi+tuṣāraiḥ",
-"quick_gloss": "with-knots+hoarfrost"
+"quick_gloss": "with-knots+husks"
 },
 {
 "surface": "ca",
@@ -775,11 +775,15 @@
 },
 {
 "surface": "vimalaṃ",
-"quick_gloss": "spotless"
+"quick_gloss": "stainless"
 },
 {
-"surface": "dadu+bindubhiḥ",
-"quick_gloss": "with-dadu+spots"
+"surface": "dadu",
+"quick_gloss": "with-spots"
+},
+{
+"surface": "bindubhiḥ",
+"quick_gloss": "with-drops"
 }
 ]
 },
