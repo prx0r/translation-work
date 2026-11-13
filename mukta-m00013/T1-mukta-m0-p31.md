@@ -26,7 +26,7 @@
 [ten+thousand](daśa+ayutam)
 
 ## mukta-m0-p31-v759
-[with+purified+ghee+well+sprinkled](sa+sita+ghṛta+su+siktaiḥ) [should+begin](ārabhet) [offering+action](homa+karma)
+[with+white+rice+and+clarified+butter+well+sprinkled](sa+sita+ghṛta+su+siktaiḥ) [should+begin](ārabhet) [offering+ritual](homa+karma)
 
 ## mukta-m0-p31-v760
 [thus](iti) [of+Sanatkumāra+statement](sanatkumāra+vacanāt)
@@ -35,7 +35,7 @@
 [having+performed](vidhāya) [should+meditate](dhyāyet)
 
 ## mukta-m0-p31-v762
-[flute](veṇuṃ) [playing](dhamana) [anointed+with+ghee](ghṛtaḥ) [with+two+arms](dorbhyāṃ) [to+be+meditated+on](dhyeyaḥ) [Kṛṣṇa](kṛṣṇaḥ) [in+the+sun](divākare)
+[flute](veṇuṃ) [playing](dhamana) [with+clarified+butter](ghṛtaḥ) [with+two+arms](dorbhyāṃ) [to+be+meditated+on](dhyeyaḥ) [Kṛṣṇa](kṛṣṇaḥ) [in+the+sun](divākare)
 
 ## mukta-m0-p31-v763
 [thus](evaṃ) [having+meditated](dhyātvā) [with+mental](mānasaiḥ) [having+worshipped](sampūjya) [placing+of+conch](śaṅkha+sthāpanaṃ) [should+do](kuryāt)
@@ -44,34 +44,34 @@
 [should+complete](samāpayet)
 
 ## mukta-m0-p31-v765
-[should+offer](juhuyāt) [in+consecrated](saṃskṛte) [fire](vahnau) [the+mantrin](mantrī) [for+all+object+attainment](sarva+artha+siddhaye)
+[should+offer](juhuyāt) [in+consecrated](saṃskṛte) [fire](vahnau) [the+mantrin](mantrī) [for+attainment+of+all+objects](sarva+artha+siddhaye)
 
 ## mukta-m0-p31-v766
-[the+seed+of+Kāma+etc.](kāma+bīja+ādi) [proclaimed](ākhyātaḥ) [mantra](manuḥ) [eighteen+syllabled](aṣṭādaśa+akṣaraḥ)
+[the+seed+of+desire+etc.](kāma+bīja+ādiḥ) [proclaimed](ākhyātaḥ) [mantra](manuḥ) [eighteen+syllabled](aṣṭādaśa+akṣaraḥ)
 
 ## mukta-m0-p31-v767
-[of+this](asya) [purāścaraṇa](puraścaraṇaṃ) [as+stated+in+the+Daśākṣara+chapter](daśa+akṣara+paṭala+uktam)
+[of+this](asya) [puraścaraṇa](puraścaraṇaṃ) [as+stated+in+the+Daśākṣara+chapter](daśa+akṣara+paṭala+uktam)
 
 ## mukta-m0-p31-v768
-[with+Śakti+and+Śrī+first](śakti+śrī+pūrvakaḥ) [and+eighteen+syllabled](ca+aṣṭādaśa+arṇaḥ) [twenty+syllabled](viṃśat+akṣaraḥ)
+[with+Śakti+and+Śrī+first](śakti+śrī+pūrvakaḥ) [and+the+eighteen+syllabled](ca+aṣṭādaśa+arṇaḥ) [twenty+syllabled](viṃśat+akṣaraḥ)
 
 ## mukta-m0-p31-v769
-[thus](evaṃ) [in+heart+etc.](hṛdaya+ādiṣu)
+[thus](evaṃ) [in+the+heart+etc.](hṛdaya+ādiṣu)
 
 ## mukta-m0-p31-v770
-[then](tataḥ) [the+ten+tattvas](daśa+tattvāni) [having+placed](vinyasya) [again](punar) [with+the+mūla](mūlena) [pervasion](vyāpakaṃ) [should+do](kuryāt)
+[then](tataḥ) [the+ten+tattvas](daśa+tattvāni) [having+placed](vinyasya) [again](punar) [with+the+mūla+mantra](mūlena) [vyāpaka](vyāpakaṃ) [should+do](kuryāt)
 
 ## mukta-m0-p31-v771
 [with+the+syllables+of+guṇa+agni+veda+karaṇa+karaṇa+akṣa](guṇa+agni+veda+karaṇa+karaṇa+akṣa+akṣaraiḥ) [of+the+mantra](manoḥ)
 
 ## mukta-m0-p31-v772
-[pervasion](vyāpakaṃ) [having+performed](vidhāya) [according+to+strength](yathā+śakti) [the+mudrā](mudrāṃ) [having+bound](badhvā) [should+meditate](dhyāyet)
+[vyāpaka](vyāpakaṃ) [having+performed](vidhāya) [according+to+strength](yathā+śakti) [the+mudrā](mudrāṃ) [having+bound](badhvā) [should+meditate](dhyāyet)
 
 ## mukta-m0-p31-v773
 [thus](evaṃ) [having+meditated](dhyātvā) [with+mental](mānasaiḥ) [having+worshipped](sampūjya) [placing+of+conch](śaṅkha+sthāpanaṃ) [should+do](kuryāt)
 
 ## mukta-m0-p31-v774
-[Daśākṣara](daśa+akṣara) [Caturdaśākṣara](caturdaśa+akṣara) [Ekādaśākṣarāṇi](ekādaśa+akṣarāṇi) [thus](iti)
+[daśākṣara](daśa+akṣara) [caturdaśākṣara](caturdaśa+akṣara) [ekādaśākṣarāṇi](ekādaśa+akṣarāṇi) [thus](iti)
 
 ## mukta-m0-p31-v775
-[the+common+yantra](sāmānya+yantram) [is+indicated](uddiṣṭam) [in+the+Aṣṭādaśākṣara](aṣṭādaśa+akṣare) [hear](śṛṇu)
+[the+common+yantra](sāmānya+yantram) [is+indicated](uddiṣṭam) [in+the+aṣṭādaśākṣara](aṣṭādaśa+akṣare) [hear](śṛṇu)

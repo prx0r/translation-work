@@ -1,0 +1,63 @@
+{
+ "song": "kjn-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "kṣīro",
+     "gloss": "milk",
+     "grounds": "first member of compound denoting the milk-ocean",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dārṇava",
+     "gloss": "ocean",
+     "grounds": "second member of compound denoting the milk-ocean",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "third member indicating central location within the milk-ocean",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthaṃ",
+     "gloss": "situated",
+     "grounds": "describes location of the lotus expanse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śvetaṃ",
+     "gloss": "white",
+     "grounds": "qualifies the lotus expanse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kamala",
+     "gloss": "lotus",
+     "grounds": "first member of compound naming the lotus expanse",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vistaram",
+     "gloss": "expanse",
+     "grounds": "object described as situated in the milk-ocean's middle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What pure locus is established at the center of the milk-ocean?",
+   "premises": [
+    "A locus is situated in the middle of the milk-ocean.",
+    "This locus is characterized as a white lotus expanse.",
+    "The milk-ocean center serves as the setting for this pure form."
+   ],
+   "inference": "A white lotus expanse abides as a pure locus within the center of the milk-ocean.",
+   "uncertainties": [
+    "The syntactic role of vistaram as object of an implied perception or presence is unstated in this verse alone."
+   ],
+   "plain_english": "A white lotus expanse situated in the middle of the milk-ocean."
+  }
+ ]
+}

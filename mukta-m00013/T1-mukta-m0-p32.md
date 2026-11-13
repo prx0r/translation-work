@@ -2,58 +2,58 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[otherwise](anyathā) [Tāpinī+etc.+contradiction](tāpinyādivirodhaḥ) [would-be](syāt)
+[otherwise](anyathā) [tāpinī+etc.+contradiction](tāpinyādivirodhaḥ) [would-be](syāt)
 
 ## mukta-m0-p32-v777
-[then](tato) [incense+etc.+dismissal+up-to](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
+[then](tato) [incense+etc.+dismissal+until](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p32-v778
-[four+hundred-thousand](caturlakṣaṃ) [one-should-offer+with-clarified-butter](hunedājyaiścatvāriṃśatsahasrakam)
+[four+hundred-thousand](caturlakṣaṃ) [one-should-offer+with-clarified-butter](hunedājyaiś) [forty+thousand](catvāriṃśatsahasrakam)
 
 ## mukta-m0-p32-v779
-[twenty+two+syllabled](dvāviṃśatyakṣaro) [mantra](mantro) [speech+lordship+bestowing](vāgīśatvapradāyakaḥ)
+[twenty-two+syllabled](dvāviṃśatyakṣaro) [mantra](mantro) [mastery-of-speech+bestowing](vāgīśatvapradāyakaḥ)
 
 ## mukta-m0-p32-v780
-[creation+preservation](sṛṣṭisthiti) [its+worship](tatpūjanaṃ) [not](nāsti) [exists](asti) [its+syllable+absence](tadvarṇābhāvāt)
+[creation+preservation](sṛṣṭisthiti) [its+worship](tatpūjanaṃ) [not](nāsti) [is](asti) [that+syllable+absence](tadvarṇābhāvāt)
 
 ## mukta-m0-p32-v781
-[one-should-offer+by-this+rite](juhuyātkarmaṇānena) [mantra+accomplishment](mantrasiddhirbhaveddhruvam) [becomes+certainly](bhaveddhruvam)
+[one-should-offer+by-rite+by-this](juhuyātkarmaṇānena) [mantra+accomplishment](mantrasiddhir) [will-be+certainly](bhaveddhruvam)
 
 ## mukta-m0-p32-v782
-[ten+syllabled](daśārṇo) [mantra+best](manuvaryaśca) [and](ca) [should-be](bhavecchakrākṣaro'paraḥ) [Indra+syllabled+another](śakrākṣaro'paraḥ)
+[ten+syllabled](daśārṇo) [mantra+excellent](manuvaryaś) [and](ca) [should-be+śakra+syllabled+another](bhavecchakrākṣaro'paraḥ)
 
 ## mukta-m0-p32-v783
-[to-Śrī-Kṛṣṇa](śrīkṛṣṇāya) [to-the-deity](devatāyai) [obeisance](namaḥ)
+[to-śrī-kṛṣṇa](śrīkṛṣṇāya) [to-the-deity](devatāyai) [obeisance](namaḥ)
 
 ## mukta-m0-p32-v784
-[other](anya) [installation+worship+recitation+oblation+etc.](nyāsapūjājapahomādi) [all](sarvaṃ) [ten+syllabled+like](daśākṣaravatkāryam) [to-be-done](kāryam)
+[other](anya) [installation+worship+recitation+oblation+etc.](nyāsapūjājapahomādi) [all](sarvaṃ) [ten+syllabled+like+to-be-done](daśākṣaravatkāryam)
 
 ## mukta-m0-p32-v785
-[three-worlds+enchanting](trailokyamohano) [Viṣṇu](viṣṇuḥ) [declared](kathitastava) [to-you](tava) [with-effort](yatnataḥ)
+[three-worlds+enchanting](trailokyamohano) [viṣṇu](viṣṇuḥ) [declared+to-you](kathitastava) [with-effort](yatnataḥ)
 
 ## mukta-m0-p32-v786
-[three-worlds+enchanting](trailokyamohano) [Viṣṇu](viṣṇurdevatā) [deity](devatā) [declared](samudīritā)
+[three-worlds+enchanting](trailokyamohano) [viṣṇu](viṣṇur) [deity](devatā) [declared](samudīritā)
 
 ## mukta-m0-p32-v787
-[long+sixfold+joined+with-this](dīrghaṣaṭkayujānena) [with-Kāma-seed](kāmabījena) [one-should-form](kalpayet)
+[long+six+joined+with-this](dīrghaṣaṭkayujānena) [with-kāma+seed](kāmabījena) [one-should-form](kalpayet)
 
 ## mukta-m0-p32-v788
-[then](tato) [incense+etc.+dismissal+up-to](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
+[then](tato) [incense+etc.+dismissal+until](dhūpādivisarjanāntaṃ) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p32-v789
 [one-should-offer+that-much](hunettāvacca) [and](ca) [one-should-offer-libations](tarpayet)
 
 ## mukta-m0-p32-v790
-[of-this](asya) [installation+worship+etc.](nyāsapūjādikaṃ) [all](sarvaṃ) [as-before](pūrvavat)
+[of-this](asya) [installation+worship+etc.](nyāsapūjādikaṃ) [all](sarvaṃ) [previous+like](pūrvavat)
 
 ## mukta-m0-p32-v791
-[svāhā+thus](svāheti) [mantra+king](mantrarājo'yaṃ) [this](ayaṃ) [for-worshippers](bhajatāṃ) [wish-fulfilling-tree](surapādapaḥ)
+[svāhā+thus](svāheti) [mantra+king+this](mantrarājo'yaṃ) [of-worshippers](bhajatāṃ) [god+wishing-tree](surapādapaḥ)
 
 ## mukta-m0-p32-v792
-[in-the-heart](hṛdi) [to-Śrī-Kṛṣṇa](śrīkṛṣṇāya) [to-the-deity](devatāyai) [obeisance](namaḥ)
+[in-the-heart](hṛdi) [to-śrī-kṛṣṇa](śrīkṛṣṇāya) [to-the-deity](devatāyai) [obeisance](namaḥ)
 
 ## mukta-m0-p32-v793
-[and-so-forth](ityādi)
+[thus+etc.](ityādi)
 
 ## mukta-m0-p32-v794
 [thus](evaṃ) [having-meditated](dhyātvā) [with-mental-offerings](mānasaiḥ) [having-worshipped](sampūjya) [conch+installation](śaṅkhasthāpanaṃ) [one-should-do](kuryāt)
@@ -62,16 +62,16 @@
 [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p32-v796
-[one-tenth+portion](daśāṃśaṃ) [should-offer+the-practitioner](juhuyānmantrī) [with-flowers](kusumairbrahmavṛkṣajaiḥ) [Brahma-tree+born](brahmavṛkṣajaiḥ)
+[tenth+part](daśāṃśaṃ) [one-should-offer+practitioner](juhuyānmantrī) [with-flowers+brahma+tree+born](kusumairbrahmavṛkṣajaiḥ)
 
 ## mukta-m0-p32-v797
-[to-Śrī+Śakti+Smara+Kṛṣṇa](śrīśaktismarakṛṣṇāya) [to-Govinda](govindāya) [head](śiro) [mantra](manuḥ)
+[śrī+śakti+smara+kṛṣṇa](śrīśaktismarakṛṣṇāya) [to-govinda](govindāya) [head](śiro) [mantra](manuḥ)
 
 ## mukta-m0-p32-v798
-[jewel+consecration+like](ratnābhiṣekavadṛṣyādinyāsaṃ) [visible+etc.+installation](dṛśyādinyāsaṃ) [one-should-do](kuryāt)
+[jewel+consecration+like+visible+etc.+installation](ratnābhiṣekavadṛṣyādinyāsaṃ) [one-should-do](kuryāt)
 
 ## mukta-m0-p32-v799
-[thus](evaṃ) [in-heart+etc.](hṛdayādiṣu) [śrīṃ](śrīṃ) [to-the-heart](hṛdayāya) [obeisance](namaḥ) [and-so-forth](ityādi)
+[thus](evaṃ) [in-heart+etc.](hṛdayādiṣu) [śrīṃ](śrīṃ) [to-the-heart](hṛdayāya) [obeisance](namaḥ) [thus+etc.](ityādi)
 
 ## mukta-m0-p32-v800
-[each+that+syllable+absence](tattadvarṇābhāvāt) [of-this](asya) [preliminary-rite](puraścaraṇaṃ) [recitation+oblation](japahomaśca) [and](ca) [likewise](tathā)
+[that+that+syllable+absence](tattadvarṇābhāvāt) [of-this](asya) [preliminary-rite](puraścaraṇaṃ) [recitation+oblation+and](japahomaśca) [likewise](tathā)

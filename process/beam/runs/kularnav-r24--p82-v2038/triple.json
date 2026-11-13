@@ -1,0 +1,515 @@
+{
+ "song": "kul-p82",
+ "items": [
+  {
+   "verse": 2038,
+   "rows": [
+    {
+     "surface": "khyāto",
+     "gloss": "renowned",
+     "grounds": "predicate attribution",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "subject term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīpa",
+     "gloss": "lamp",
+     "grounds": "metaphoric identifier",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣamārgaikasādhanaḥ",
+     "gloss": "liberation-path-sole-means",
+     "grounds": "compound predicate as given; fused form unanalyzed into parts",
+     "morph": "compound = member+membership"
+    }
+   ],
+   "question": "On what ground is liberation declared to be a lamp and the sole means of the path to liberation?",
+   "premises": [
+    "Liberation is declared renowned as a lamp.",
+    "The lamp is named by quotative designation.",
+    "Liberation is held to be the sole means of the path to liberation."
+   ],
+   "inference": "Liberation is designated as the lamp that is the sole means of the path to liberation.",
+   "uncertainties": [
+    "Extent of lamp metaphor not specified by this verse alone"
+   ],
+   "plain_english": "Liberation is renowned as the lamp; thus it is said to be the sole means of the path to liberation."
+  },
+  {
+   "verse": 2039,
+   "rows": [
+    {
+     "surface": "nivedanāt",
+     "gloss": "by-offering",
+     "grounds": "instrumental cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.opt.act./bhū"
+    },
+    {
+     "surface": "tṛptiḥ",
+     "gloss": "satisfaction",
+     "grounds": "resultant state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "offering substance named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samudāhṛtam",
+     "gloss": "declared",
+     "grounds": "passive attribution",
+     "morph": "n.nom.sg.past.pass./sam-ud-√hṛ"
+    }
+   ],
+   "question": "By what cause is satisfaction said to arise, and what offering is declared in that connection?",
+   "premises": [
+    "An offering is the stated instrumental cause.",
+    "Satisfaction may arise from that offering.",
+    "The food-offering is declared as the item in question."
+   ],
+   "inference": "From offering the food-offering, satisfaction may arise, as declared.",
+   "uncertainties": [
+    "Scope of 'offering' not delimited beyond the instrumental form"
+   ],
+   "plain_english": "By offering the food-offering, satisfaction arises; the food-offering is so declared."
+  },
+  {
+   "verse": 2040,
+   "rows": [
+    {
+     "surface": "liptapāpapraśamanāt",
+     "gloss": "by-stuck-sin-pacifying",
+     "grounds": "compound causal form as given; internal relation not split",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "subject of designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-called",
+     "grounds": "passive quotative designation",
+     "morph": "3.sg.pres.pass./abhidhā"
+    }
+   ],
+   "question": "On what causal ground is the bali offering declared to be so named?",
+   "premises": [
+    "A cause is given in the fused compound form.",
+    "Bali is the item under designation.",
+    "Designation occurs by quotative attribution."
+   ],
+   "inference": "By reason of pacifying clinging sin, the offering called bali is so designated.",
+   "uncertainties": [
+    "Precise internal scope of the fused compound remains only as given"
+   ],
+   "plain_english": "By pacifying clinging sin, the offering is called bali."
+  },
+  {
+   "verse": 2041,
+   "rows": [
+    {
+     "surface": "tattvaprakāśahetutvāt",
+     "gloss": "by-reality-illumination-cause",
+     "grounds": "compound causal form as given; internal relation not split",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "tattvatrayam",
+     "gloss": "three-reality",
+     "grounds": "object named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "itīritam",
+     "gloss": "thus-said",
+     "grounds": "passive quotative attribution",
+     "morph": "n.nom.sg.past.pass./īr"
+    }
+   ],
+   "question": "On what causal ground are the three realities declared to be so named?",
+   "premises": [
+    "A causal ground is stated in fused form.",
+    "The three realities are the items named.",
+    "They are declared by quotative attribution."
+   ],
+   "inference": "On the ground of being a cause of illuminating reality, the three realities are so declared.",
+   "uncertainties": [
+    "Which three realities are intended is not specified by this verse alone"
+   ],
+   "plain_english": "Because it causes the illumination of reality, the three realities are so declared."
+  },
+  {
+   "verse": 2042,
+   "rows": [
+    {
+     "surface": "kalyāṇadharmamūlatvāt",
+     "gloss": "by-auspicious-duty-root",
+     "grounds": "compound causal form as given; internal relation not split",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "calukaṃ",
+     "gloss": "caluka",
+     "grounds": "item named; term retained as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "said",
+     "grounds": "passive attribution",
+     "morph": "n.nom.sg.past.pass./kath"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "m./f.voc.sg"
+    }
+   ],
+   "question": "On what ground is caluka declared, and to whom is that declaration addressed?",
+   "premises": [
+    "A root-cause is stated in fused form.",
+    "Caluka is the item said.",
+    "The declaration is addressed to the beloved."
+   ],
+   "inference": "On the ground of having auspicious duty as root, caluka is declared, addressed to the beloved.",
+   "uncertainties": [
+    "The referent of caluka is not determinable from this verse alone"
+   ],
+   "plain_english": "On the ground that it has auspicious duty as its root, caluka is declared, O beloved."
+  },
+  {
+   "verse": 2043,
+   "rows": [
+    {
+     "surface": "darśanāt",
+     "gloss": "by-seeing",
+     "grounds": "instrumental cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "paratattvasya",
+     "gloss": "of-supreme-reality",
+     "grounds": "genitive relation to seeing",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prasāda",
+     "gloss": "grace",
+     "grounds": "result named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "declared",
+     "grounds": "passive attribution",
+     "morph": "3.sg.pres.pass./kath"
+    }
+   ],
+   "question": "On what causal ground is grace declared to arise in relation to the supreme reality?",
+   "premises": [
+    "Seeing of the supreme reality is the stated cause.",
+    "Grace is the result named.",
+    "Grace is declared by quotative attribution."
+   ],
+   "inference": "By seeing the supreme reality, grace arises and is thus declared.",
+   "uncertainties": [
+    "Mode of 'seeing' not specified by this verse alone"
+   ],
+   "plain_english": "By seeing the supreme reality, grace arises; thus it is declared."
+  },
+  {
+   "verse": 2044,
+   "rows": [
+    {
+     "surface": "pābanāt",
+     "gloss": "by-purifying",
+     "grounds": "instrumental cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pānam",
+     "gloss": "drink",
+     "grounds": "item named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-called",
+     "grounds": "passive quotative designation",
+     "morph": "3.sg.pres.pass./abhidhā"
+    }
+   ],
+   "question": "On what ground is a drink declared by name, and to whom is this addressed?",
+   "premises": [
+    "Purification is the stated cause.",
+    "The declaration is addressed to the supreme goddess.",
+    "The drink is designated by quotative attribution."
+   ],
+   "inference": "By reason of purification, the drink is thus called, O supreme goddess.",
+   "uncertainties": [
+    "Nature of the drink not specified by this verse alone"
+   ],
+   "plain_english": "By purification, O supreme goddess, the drink is so called."
+  },
+  {
+   "verse": 2045,
+   "rows": [
+    {
+     "surface": "samīpasevā",
+     "gloss": "near-service",
+     "grounds": "item named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "by-rite",
+     "grounds": "manner qualifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upāstiḥ",
+     "gloss": "worship",
+     "grounds": "item named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "declared",
+     "grounds": "passive attribution",
+     "morph": "3.sg.pres.pass./kath"
+    }
+   ],
+   "question": "What two acts are declared as equivalent when performed by rite, and by what marker is that equivalence given?",
+   "premises": [
+    "Near-service performed by rite is named.",
+    "Worship is named as a separate item.",
+    "Both are declared thus by quotative attribution."
+   ],
+   "inference": "Near-service performed by rite is declared to be worship.",
+   "uncertainties": [
+    "Degree of equivalence not specified beyond declarative attribution"
+   ],
+   "plain_english": "Near-service performed by rite is worship; thus it is declared."
+  },
+  {
+   "verse": 2046,
+   "rows": [
+    {
+     "surface": "puraścarati",
+     "gloss": "precedes-by-act",
+     "grounds": "verbal action of devotee",
+     "morph": "3.sg.pres.act./puras-√car"
+    },
+    {
+     "surface": "bhaktasya",
+     "gloss": "of-devotee",
+     "grounds": "agent relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "anaphoric reference",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puraścaraṇaṃ",
+     "gloss": "preliminary-rite",
+     "grounds": "item named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "m./f.voc.sg"
+    }
+   ],
+   "question": "What act is attributed to the devotee, and what is that act named as?",
+   "premises": [
+    "An act is attributed to the devotee.",
+    "That act is anaphorically referred to.",
+    "It is named the preliminary rite, addressed to the beloved."
+   ],
+   "inference": "For the devotee, that preliminary rite is what is performed in advance.",
+   "uncertainties": [
+    "Content of the preliminary rite not specified by this verse alone"
+   ],
+   "plain_english": "The devotee performs that preliminary rite in advance, O beloved."
+  },
+  {
+   "verse": 2047,
+   "rows": [
+    {
+     "surface": "vidhinācaraṇaṃ",
+     "gloss": "by-rite-performance",
+     "grounds": "compound instrumental form as given; internal relation not split",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "passive attribution",
+     "morph": "n.nom.sg.past.pass./prac"
+    },
+    {
+     "surface": "upahāram",
+     "gloss": "offering",
+     "grounds": "item named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what manner is an offering declared, and what is it called?",
+   "premises": [
+    "Performance by rite is the stated manner.",
+    "An offering is the item named.",
+    "It is declared thus by attribution."
+   ],
+   "inference": "Performance by rite is declared to be the offering.",
+   "uncertainties": [
+    "Type of offering not specified by this verse alone"
+   ],
+   "plain_english": "Performance by rite is declared to be the offering; thus it is said."
+  },
+  {
+   "verse": 2048,
+   "rows": [
+    {
+     "surface": "svasthānapreṣaṇaṃ",
+     "gloss": "own-place-sending",
+     "grounds": "compound item as given; internal relation not split",
+     "morph": "compound = member+membership"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "passive attribution",
+     "morph": "n.nom.sg.past.pass./prac"
+    },
+    {
+     "surface": "mṛdvāsanam",
+     "gloss": "soft-seat",
+     "grounds": "item named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "m./f.voc.sg"
+    }
+   ],
+   "question": "What act is declared, and what item is named in that declaration addressed to the beloved?",
+   "premises": [
+    "An act in fused form is named.",
+    "A soft seat is named as the item.",
+    "The declaration is addressed to the beloved."
+   ],
+   "inference": "Sending to its own place is declared to be the soft seat, O beloved.",
+   "uncertainties": [
+    "Ritual function of sending to its own place not specified by this verse alone"
+   ],
+   "plain_english": "Sending to its own place is declared to be the soft seat, O beloved."
+  },
+  {
+   "verse": 2049,
+   "rows": [
+    {
+     "surface": "āsane",
+     "gloss": "on-seat",
+     "grounds": "locative setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sanniveśaḥ",
+     "gloss": "placement",
+     "grounds": "action named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential modality",
+     "morph": "3.sg.opt.act./as"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "installation",
+     "grounds": "item named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "clan-leader-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In what setting may placement occur, what is it named, and to whom is this stated?",
+   "premises": [
+    "The setting is on a seat.",
+    "Placement may occur there.",
+    "That placement is named installation, addressed to the clan-leader goddess."
+   ],
+   "inference": "On the seat, placement may occur; it is installation, O clan-leader goddess.",
+   "uncertainties": [
+    "Object being placed not specified by this verse alone"
+   ],
+   "plain_english": "On the seat, placement may occur; it is installation, O clan-leader goddess."
+  }
+ ]
+}
