@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "object of avoidance",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "śṛṅgāṭakaṃ",
+     "gloss": "śṛṅgāṭaka",
+     "grounds": "name or qualifier of the field",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "marks designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kardinaṃ",
+     "gloss": "kardina",
+     "grounds": "further designation of the field",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "ha",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.opt.act (√vṛj)"
+    }
+   ],
+   "question": "Which specific field is enjoined to be avoided by this ritual instruction?",
+   "premises": [
+    "The verse identifies a field by name.",
+    "The field is designated as Śṛṅgāṭaka and Kardina.",
+    "The verb prescribes avoidance of that field."
+   ],
+   "inference": "The field named Śṛṅgāṭaka Kardina must be avoided.",
+   "uncertainties": [
+    "The precise identification or location of the field named Śṛṅgāṭaka Kardina is unclear."
+   ],
+   "plain_english": "One should indeed avoid the field named Śṛṅgāṭaka Kardina."
+  }
+ ]
+}

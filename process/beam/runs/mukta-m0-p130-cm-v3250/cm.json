@@ -3,19 +3,29 @@
  "verse": 3250,
  "rows": [
   {
-   "lemma": "śṛṅgiṇenamaḥ",
-   "morph": "śṛṅgin.m.dat.sg+namaḥ(indecl.)",
-   "grounds": "fused sandhi: śṛṅgiṇe (dative of śṛṅgin, horned) + namaḥ (salutation); analyzed as given"
+   "lemma": "kṣetrasya+ārohaṇāt",
+   "morph": "compound.abl.sg.n",
+   "grounds": "ablative compound expressing cause or means; kṣetra (field/sacred site) + ārohaṇa (ascending)"
   },
   {
-   "lemma": "śṛṅgapriyāyanamaḥ",
-   "morph": "śṛṅga-priya.m.dat.sg+namaḥ(indecl.)",
-   "grounds": "fused sandhi: śṛṅga-priyāya (dative of compound śṛṅga-priya, fond of horns) + namaḥ; analyzed as given"
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address to the goddess"
   },
   {
-   "lemma": "babhravenamaḥ",
-   "morph": "babhru.m.dat.sg+namaḥ(indecl.)",
-   "grounds": "fused sandhi: babhrave (dative of babhru, brown) + namaḥ; analyzed as given"
+   "lemma": "labhate",
+   "morph": "3.sg.middle-present/labh",
+   "grounds": "present indicative stating the result of the action"
+  },
+  {
+   "lemma": "vipulāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "qualifies śriyam"
+  },
+  {
+   "lemma": "śriyam",
+   "morph": "f.acc.sg",
+   "grounds": "direct object of labhate"
   }
  ]
 }

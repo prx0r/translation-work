@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 305,
- "question": "What divine principle is asked to protect the entire body at all times?",
+ "question": "How does Keshava's affection for Lakshmi compare to this devotion?",
  "premises": [
-  "Protection is sought for all limbs.",
-  "Protection is sought at all times.",
-  "The protector invoked is the supreme eternal brahman."
+  "A certain degree of affection is being compared.",
+  "Such affection does not arise in Lakshmi.",
+  "The affection in question belongs to Keshava."
  ],
- "inference": "Therefore, the supreme eternal brahman is invoked to protect the whole body always.",
- "uncertainties": [],
- "plain_english": "May the supreme, eternal Brahman always protect all the limbs."
+ "inference": "Even Keshava does not feel such affection for Lakshmi.",
+ "uncertainties": [
+  "The exact comparison target is implied by context."
+ ],
+ "plain_english": "Such affection does not arise even in Keshava for Lakshmi."
 }

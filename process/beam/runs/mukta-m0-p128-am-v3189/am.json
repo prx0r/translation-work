@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p128",
  "verse": 3189,
- "question": "What bodily characteristic further specifies the described form in this meditation?",
+ "question": "What sacred sites are identified at the cow shed and the place named Lobha?",
  "premises": [
-  "The form is described as hairy.",
-  "It is further specified as endowed with abundant hair.",
-  "Both terms qualify the same form."
+  "Kapila is at the cow shed",
+  "Soma pilgrimage site is at the place named Lobha",
+  "Both are mentioned together"
  ],
- "inference": "The meditated form is characterized by abundant hairiness.",
- "uncertainties": [],
- "plain_english": "Hairy, endowed with abundant hair."
+ "inference": "Kapila is in the cow shed and the Soma pilgrimage site is in the place named Lobha.",
+ "uncertainties": [
+  "Whether kapilā refers to a cow, a place, or a goddess is context-dependent"
+ ],
+ "plain_english": "Kapila is in the cow shed, and the Soma pilgrimage site is in the place named Lobha."
 }
