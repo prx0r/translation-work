@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sa",
-   "morph": "nom.sg.m",
-   "grounds": "pronoun"
+   "morph": "pron.nom.sg.m",
+   "grounds": "pronoun sa"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "instr.sg.n",
-   "grounds": "compound instrumental"
+   "morph": "n.ins.sg.n",
+   "grounds": "instrumental of dehatyaktamātra"
   },
   {
    "lemma": "paraṃ",
-   "morph": "acc.sg.n",
-   "grounds": "adjective"
+   "morph": "adj.nom.sg.m",
+   "grounds": "adjective param"
   },
   {
    "lemma": "śivo",
-   "morph": "nom.sg.m",
-   "grounds": "noun"
+   "morph": "n.nom.sg.m",
+   "grounds": "noun śiva"
   },
   {
    "lemma": "nigadyate",
-   "morph": "3.sg.pass-pres root gad",
-   "grounds": "passive verb"
+   "morph": "v.3.sg.pass-pres + root nigad",
+   "grounds": "passive of nigad"
   }
  ]
 }

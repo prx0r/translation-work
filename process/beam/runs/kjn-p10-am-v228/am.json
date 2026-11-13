@@ -1,15 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 228,
- "question": "How is the self described as standing?",
+ "question": "How does fire-surrounded self stand on one foot?",
  "premises": [
-  "vahni nāveṣṭita means surrounded by fire",
-  "ātmānam is the self",
-  "eka pādena saṃsthitam means standing on one foot"
+  "self is surrounded by fire",
+  "self stands on one foot"
  ],
- "inference": "The self, surrounded by fire, stands on one foot.",
+ "inference": "vahni nāveṣṭita ātmānam eka pādena saṃsthitam",
  "uncertainties": [
-  "exact case relation of vahni"
+  "legacy hints only"
  ],
- "plain_english": "The self, surrounded by fire, stands on one foot."
+ "plain_english": "The fire-surrounded self stands on one foot."
 }

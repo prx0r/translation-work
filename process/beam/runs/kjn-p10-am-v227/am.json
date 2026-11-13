@@ -1,15 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter emerges in candra-dvīpa?",
+ "question": "What chapter emerges in candra-dvīpa?",
  "premises": [
-  "candra dvīpa names the island",
-  "vinirgate means emerged",
-  "navamaḥ paṭalaḥ is the ninth chapter"
+  "candra-dvīpa is the setting",
+  "ninth chapter emerges there"
  ],
- "inference": "The ninth chapter emerges in candra-dvīpa.",
+ "inference": "navamaḥ paṭalaḥ",
  "uncertainties": [
-  "compound boundary of candra dvīpa"
+  "legacy hints only"
  ],
- "plain_english": "The ninth chapter emerges in the candra island."
+ "plain_english": "The ninth chapter emerges in candra-dvīpa."
 }

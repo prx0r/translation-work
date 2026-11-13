@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "situated-in-forehead-letter-mass",
-     "grounds": "compound: lalāṭa (forehead) + varṇa (letter/syllable) + rāśi (mass) + stha (situated); qualifies lakṣaṃ",
-     "morph": "compound, acc.sg.n"
+     "gloss": "forehead-syllable-mass-situated",
+     "grounds": "compound adjective from stha, neuter accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "object of the action expressed by kṛtya",
+     "grounds": "numeral in accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
-     "gloss": "having-performed",
-     "grounds": "gerund expressing completion of the repetition",
-     "morph": "gerund (kṛ)"
+     "gloss": "having-done",
+     "grounds": "absolutive from root kṛ",
+     "morph": "absolutive (kṛ)"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "o-god-worshipped",
-     "grounds": "compound vocative: sura (god) + arcita (worshipped); address to the deity",
-     "morph": "compound, m.voc.sg"
+     "gloss": "god-worshipped",
+     "grounds": "vocative compound addressing the worshipped god",
+     "morph": "m.voc.sg"
     }
    ],
-   "question": "What specific mantra repetition is enjoined for the deity worshipped by gods?",
+   "question": "What action follows after the forehead syllable mass is situated in worship?",
    "premises": [
-    "A repetition numbering one hundred thousand is prescribed.",
-    "This repetition is situated in the mass of letters on the forehead.",
-    "The injunction is addressed to the deity worshipped by gods."
+    "Forehead syllable mass is situated.",
+    "Hundred thousand is done.",
+    "God is worshipped."
    ],
-   "inference": "One must perform a hundred-thousand repetition situated in the forehead letter mass for the god-worshipped deity.",
+   "inference": "The rite requires situating, counting, and worshipping.",
    "uncertainties": [
-    "The exact referent of varṇa-rāśi (syllables, letters, or a specific mantra cluster) is context-dependent."
+    "Exact ritual referent unclear."
    ],
-   "plain_english": "O deity worshipped by the gods, having performed a hundred-thousand repetitions situated in the mass of letters on the forehead."
+   "plain_english": "Having situated the forehead syllable mass, one does a hundred thousand, O worshipped god."
   }
  ]
 }
