@@ -1,0 +1,266 @@
+{
+ "song": "kjn-p13",
+ "items": [
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "ordinal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bālarūpeṇa",
+     "gloss": "in-boy-form",
+     "grounds": "instrumental of compound bāla+rūpa",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "dvitīyam",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "unmattakākṛtim",
+     "gloss": "madman-form",
+     "grounds": "compound unmatta+kākṛti",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Which successive vessel-types are named first as boy-form and second as madman-form?",
+   "premises": [
+    "first vessel is boy-form",
+    "second vessel is madman-form"
+   ],
+   "inference": "the enumeration begins with boy-form then madman-form",
+   "uncertainties": [
+    "exact grammatical gender of unmattakākṛtim"
+   ],
+   "plain_english": "First is in boy-form; second is in madman-form."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "svātantraṃ",
+     "gloss": "independence",
+     "grounds": "abstract noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "ṣaṣṭhañca",
+     "gloss": "sixth-and",
+     "grounds": "sandhi ṣaṣṭham+ca",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vīranāyakam",
+     "gloss": "hero-lord",
+     "grounds": "compound vīra+nāyaka",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Which fifth and sixth vessel-types are named as independence and hero-lord?",
+   "premises": [
+    "fifth is independence",
+    "sixth is hero-lord"
+   ],
+   "inference": "the list continues with independence then hero-lord",
+   "uncertainties": [
+    "case of pañcamaṃ and ṣaṣṭhañca"
+   ],
+   "plain_english": "Fifth is independence; sixth is hero-lord, O goddess."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "tridaṇḍañcaiva",
+     "gloss": "triple-staff-and-indeed",
+     "grounds": "sandhi tridaṇḍam+ca+eva",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "deveśas",
+     "gloss": "O-lord-of-gods",
+     "grounds": "vocative address",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaṃ",
+     "gloss": "another",
+     "grounds": "pronoun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vedavikrayam",
+     "gloss": "veda-seller",
+     "grounds": "compound veda+vikraya",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Which additional vessel-types are named as triple-staff and veda-seller?",
+   "premises": [
+    "triple-staff is named",
+    "veda-seller is another named type"
+   ],
+   "inference": "the enumeration includes triple-staff and veda-seller",
+   "uncertainties": [
+    "exact syntactic relation of deveśas"
+   ],
+   "plain_english": "Triple-staff indeed, O lord of gods, and likewise another, a veda-seller."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "akulañca",
+     "gloss": "non-clan-and",
+     "grounds": "sandhi akulam+ca",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "clan",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "clan",
+     "grounds": "noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-goddess",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "subhāmini",
+     "gloss": "O-fair-one",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How should clan and non-clan be known in relation to the goddess?",
+   "premises": [
+    "non-clan and clan are named",
+    "knowing clan follows",
+    "goddess is referenced"
+   ],
+   "inference": "clan status is to be known with reference to the goddess",
+   "uncertainties": [
+    "precise relation of devyā"
+   ],
+   "plain_english": "Non-clan and clan, having known clan, O fair one of the goddess."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "svaguruṃ",
+     "gloss": "own-guru",
+     "grounds": "compound sva+guru",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pujayen",
+     "gloss": "one-should-worship",
+     "grounds": "optative of pūj",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṣkālaṃ",
+     "gloss": "three-times",
+     "grounds": "compound tri+skāla",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhāvitātmanaḥ",
+     "gloss": "contemplative-souled",
+     "grounds": "compound bhāvita+ātman",
+     "morph": "gen.sg.m"
+    }
+   ],
+   "question": "How often should one worship one's own guru?",
+   "premises": [
+    "own guru should be worshipped",
+    "worship is always",
+    "worship is three-times"
+   ],
+   "inference": "one should always worship one's own guru three times",
+   "uncertainties": [
+    "exact force of bhāvitātmanaḥ"
+   ],
+   "plain_english": "One should always worship one's own guru three times, for the contemplative-souled."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "causative optative of nivid",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "bhuktimuktijigīṣayā",
+     "gloss": "enjoyment-liberation-desiring-to-conquer",
+     "grounds": "compound bhukti+mukti+jigīṣā",
+     "morph": "instr.sg.f"
+    }
+   ],
+   "question": "Why should one offer with effort?",
+   "premises": [
+    "one should offer",
+    "offering is with effort",
+    "aim is enjoyment and liberation"
+   ],
+   "inference": "one should carefully offer desiring enjoyment and liberation",
+   "uncertainties": [
+    "exact syntactic scope of bhuktimuktijigīṣayā"
+   ],
+   "plain_english": "One should offer with effort, desiring enjoyment and liberation."
+  }
+ ]
+}

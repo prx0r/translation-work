@@ -1,13 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 309,
- "question": "What additional types are included in the enumeration addressed to the lord of gods?",
+ "question": "Which additional vessel-types are named as triple-staff and veda-seller?",
  "premises": [
-  "The triple-staff bearer is included.",
-  "Another type is likewise included.",
-  "That other type is the seller of the Veda."
+  "triple-staff is named",
+  "veda-seller is another named type"
  ],
- "inference": "The list further includes the triple-staff bearer and the seller of the Veda.",
- "uncertainties": [],
- "plain_english": "O Lord of gods, there is also the triple-staff bearer, and likewise another, the seller of the Veda."
+ "inference": "the enumeration includes triple-staff and veda-seller",
+ "uncertainties": [
+  "exact syntactic relation of deveśas"
+ ],
+ "plain_english": "Triple-staff indeed, O lord of gods, and likewise another, a veda-seller."
 }
