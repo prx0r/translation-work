@@ -1,14 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 309,
- "question": "What additional pātra types are mentioned after the earlier list?",
+ "question": "What triple staff and veda seller are named?",
  "premises": [
-  "triple-staff is included",
-  "another is veda-seller"
+  "Triple staff is named",
+  "Veda seller is another",
+  "Lord of gods is addressed"
  ],
- "inference": "The verse adds triple-staff and veda-seller to the pātra enumeration.",
+ "inference": "The verse names triple staff and another veda seller",
  "uncertainties": [
-  "relation to previous numbered list is not explicit"
+  "compound segmentation not resolved"
  ],
- "plain_english": "Triple-staff and likewise another, veda-seller, O lord of gods."
+ "plain_english": "Triple staff, O lord of gods, and likewise another veda seller."
 }

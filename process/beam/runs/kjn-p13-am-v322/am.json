@@ -1,14 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 322,
- "question": "Which chapter is the twelfth, concerning conduct and vessel characteristics?",
+ "question": "Which chapter concerns conduct vessel characteristic?",
  "premises": [
-  "The chapter is twelfth.",
-  "It concerns conduct and vessel characteristics."
+  "Conduct vessel characteristic is named",
+  "Twelfth chapter is named"
  ],
- "inference": "The verse identifies the twelfth chapter by its topic.",
+ "inference": "The twelfth chapter concerns conduct vessel characteristic",
  "uncertainties": [
-  "No doctrinal claim beyond identification is stated."
+  "compound segmentation not resolved"
  ],
- "plain_english": "The twelfth chapter, on the characteristics of conduct and vessels."
+ "plain_english": "The twelfth chapter concerns conduct vessel characteristic."
 }

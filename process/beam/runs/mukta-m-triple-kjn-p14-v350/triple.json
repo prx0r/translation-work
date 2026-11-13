@@ -7,39 +7,40 @@
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "numeral",
-     "morph": "(indecl.)"
+     "grounds": "numeral eight",
+     "morph": "num.indecl."
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "conjunction",
-     "morph": "(indecl.)"
+     "morph": "indecl."
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "siddhi-attainment-root-Kaula",
-     "grounds": "fused compound left unsplit",
+     "gloss": "siddhi-attainment-root-kaula",
+     "grounds": "fused sandhi compound siddhi+saṃprāpti+mūla+kaula",
      "morph": "compound"
     },
     {
      "surface": "varānane",
-     "gloss": "O-fair-faced-one",
-     "grounds": "vocative address",
+     "gloss": "fair-faced-one",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What are the eight attainments that constitute root Kaula?",
+   "question": "What constitutes the root Kaula among the eight siddhis?",
    "premises": [
-    "eight attainments define root Kaula",
-    "varānane addresses fair-faced goddess",
-    "ca joins the enumeration"
+    "Eight siddhis are enumerated",
+    "Attainment is called root Kaula",
+    "Goddess is addressed fair-faced"
    ],
-   "inference": "root Kaula is marked by eight siddhis",
+   "inference": "Root Kaula is siddhi attainment among eight",
    "uncertainties": [
-    "token siddhisaṃprāptirmūlakaulaṃ is fused and unsplit"
+    "Exact doctrinal enumeration is not supplied",
+    "Compound internal relation is inferred"
    ],
-   "plain_english": "Eight, and the root Kaula of siddhi-attainment, O fair-faced one."
+   "plain_english": "Eight, and siddhi-attainment is the root Kaula, O fair-faced one."
   }
  ]
 }

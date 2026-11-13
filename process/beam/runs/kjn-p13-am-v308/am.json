@@ -1,14 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 308,
- "question": "Which pātra types are named as fifth and sixth?",
+ "question": "What independence and hero lord are named fifth and sixth?",
  "premises": [
-  "fifth is independence",
-  "sixth is hero-lord"
+  "Independence is fifth",
+  "Hero lord is sixth",
+  "Goddess is addressed"
  ],
- "inference": "The verse names independence as fifth and hero-lord as sixth.",
+ "inference": "The fifth and sixth items are independence and hero lord",
  "uncertainties": [
-  "whether these are separate pātra classes or qualities is unclear"
+  "compound segmentation not resolved"
  ],
- "plain_english": "Fifth is independence, sixth is hero-lord, O goddess."
+ "plain_english": "Independence is fifth, O goddess, and hero lord is sixth."
 }

@@ -1,15 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 348,
- "question": "Who indeed stammers and utters all mantra and mudra groups?",
+ "question": "How does one utter all mantra and mudra groups?",
  "premises": [
-  "all mantra and mudra groups are named",
-  "stammering utterance is named",
-  "he is identified"
+  "mantra-mudra-group is accusative",
+  "all modifies it",
+  "stammering-uttering describes he"
  ],
- "inference": "The verse describes one who stammers through all mantra and mudra groups.",
+ "inference": "The practitioner utters the whole group in a stammering manner.",
  "uncertainties": [
-  "exact subject"
+  "durdurapluta parsing is uncertain"
  ],
- "plain_english": "He indeed stammers and utters all mantra and mudra groups."
+ "plain_english": "He indeed utters all mantra and mudra groups stammeringly."
 }

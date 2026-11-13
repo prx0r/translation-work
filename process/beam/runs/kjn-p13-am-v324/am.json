@@ -1,15 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 324,
- "question": "Where does the lord go after hearing that, to supreme auspicious liberation?",
+ "question": "Where does the lord go after hearing that?",
  "premises": [
-  "The lord hears that.",
-  "He goes to divine supreme liberation.",
-  "That liberation is auspicious."
+  "Having heard that",
+  "The lord goes",
+  "Divine supreme liberation auspicious is named"
  ],
- "inference": "Hearing leads the lord to divine, supreme, auspicious liberation.",
+ "inference": "After hearing that, the lord goes to divine supreme auspicious liberation",
  "uncertainties": [
-  "The antecedent of 'that' is not explicit."
+  "compound segmentation not resolved"
  ],
- "plain_english": "Having heard that, the lord goes to divine, supreme, auspicious liberation."
+ "plain_english": "Having heard that, the lord goes to divine supreme auspicious liberation."
 }
