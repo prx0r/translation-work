@@ -3,39 +3,39 @@
  "verse": 118,
  "rows": [
   {
-   "lemma": "tathā",
+   "lemma": "bhūtaṃ",
+   "morph": "n.nom.sg past-passive-participle/√bhū",
+   "grounds": "what has been"
+  },
+  {
+   "lemma": "bhavat",
+   "morph": "n.nom.sg present-participle/√bhū",
+   "grounds": "what is"
+  },
+  {
+   "lemma": "bhaviṣyañ",
+   "morph": "n.nom.sg future-participle/√bhū",
+   "grounds": "what will be"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "manner adverb"
+   "grounds": "connects times"
   },
   {
-   "lemma": "sarvaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "subject pronoun"
+   "lemma": "dharma+yuktaṃ",
+   "morph": "compound: dharma+yukta; n.nom.sg",
+   "grounds": "aligned with dharma"
   },
   {
-   "lemma": "samīcīnam",
-   "morph": "n.nom.sg",
-   "grounds": "predicate adjective"
+   "lemma": "tvayā",
+   "morph": "pron.ins.sg",
+   "grounds": "speaker of the statement"
   },
   {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "quotative particle"
-  },
-  {
-   "lemma": "cet",
-   "morph": "(indecl.)",
-   "grounds": "conditional particle"
-  },
-  {
-   "lemma": "tarhi",
-   "morph": "(indecl.)",
-   "grounds": "consequential particle"
-  },
-  {
-   "lemma": "cetya",
-   "morph": "gerundive cit-",
-   "grounds": "gerundive or imperative sense in context"
+   "lemma": "priye",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   }
  ]
 }

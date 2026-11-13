@@ -3,29 +3,49 @@
  "verse": 125,
  "rows": [
   {
-   "lemma": "kāryasya",
-   "morph": "n.gen.sg",
-   "grounds": "genitive dependent of pravartanam; denotes the effect whose operation is described"
-  },
-  {
-   "lemma": "tādṛśasyaiva",
-   "morph": "n.gen.sg+indecl.",
-   "grounds": "tādṛśasya (such-kind) fused with emphatic eva; qualifies kāryasya"
-  },
-  {
-   "lemma": "eva",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle reinforcing the restriction expressed in the preceding fused form"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "prabandhena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental indicating the means by which pravartanam occurs"
+   "lemma": "tasya",
+   "morph": "m.gen.sg",
+   "grounds": "refers to one who does not follow the āgama path"
   },
   {
-   "lemma": "pravartanam",
+   "lemma": "gatiḥ",
+   "morph": "f.nom.sg",
+   "grounds": "spiritual attainment or destination"
+  },
+  {
+   "lemma": "asti",
+   "morph": "3.sg.pres.act √as",
+   "grounds": "asserts existence"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "marks the preceding statement as quoted or concluded"
+  },
+  {
+   "lemma": "satyaṃ",
    "morph": "n.nom.sg",
-   "grounds": "action noun from pra-vṛt; subject of the stated process"
+   "grounds": "affirms the truth of the statement"
+  },
+  {
+   "lemma": "satyaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "repetition for emphasis"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "absence of uncertainty"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[compassion-acc](kṛpāṃ) [Pārvatī-nom](pārvatī) [this-nom](eṣā) [may-give](diśatu) [good-sight+attainment+fruitful-acc](sudaśā+avāpti+saphalām)
+[compassion](kṛpāṃ) [of-pārvatī](pārvatī) [this](eṣā) [may-grant](diśatu) [good-sight+attainment+fruitful](sudaśā+avāpti+saphalām)
 
 ## mukta-m0-p27-v652
-[page](p.) [109](109)) [all+auspicious-nom](sarva+maṅgalā)
+[page](p.) [109](109)) [all+auspicious](sarva+maṅgalā)
 
 ## mukta-m0-p27-v653
-[may-be](bhavet) [everywhere](sarvatra) [she-nom](sā) [may-be-victorious](jīyāt) [Bhavānī-nom](bhavānī) [all+auspicious-nom](sarva+maṅgalā)
+[may-be](bhavet) [everywhere](sarvatra) [she](sā) [may-be-victorious](jīyād) [bhavānī](bhavānī) [all+auspicious](sarva+maṅgalā)
 
 ## mukta-m0-p27-v654
-[Hiṅgulā-nom](hiṅgulā)
+[hiṅgulā](hiṅgulā)
 
 ## mukta-m0-p27-v655
-[Hiṅgulā-nom](ṅgulā) [young-girl-nom](bālā) [time-end+doer+most-benevolent-nom](kālāntaka+hita+tamā) [me-acc](mām) [may-protect](avatu) [she-nom](sā)
+[hiṅgulā](ṅgulā) [young-girl](bālā) [time's-end+doer+most-benevolent](kālāntaka+hita+tamā) [me](mām) [may-protect](avatu) [she](sā)
 
 ## mukta-m0-p27-v656
-[Caṇḍikā-nom](caṇḍikā) [*](*)
+[caṇḍikā](caṇḍikā) [*](*)
 
 ## mukta-m0-p27-v657
-[Caṇḍikā-nom](ṇḍikā) [fierce-nom](caṇḍā) [may-destroy](vadhyāt) [non-place+calamity-acc](apada+vipadaṃ) [difficult-state+abiding-gen-pl](durgada+padām)
+[caṇḍikā](ṇḍikā) [fierce](caṇḍā) [may-destroy](vadhyāt) [non-place+calamity](apada+vipadaṃ) [of-those-in-difficult-state](durgada+padām)
 
 ## mukta-m0-p27-v658
-[Dāntā-nom](dāntā)
+[dāntā](dāntā)
 
 ## mukta-m0-p27-v659
-[complete-rest-acc](suviśrāntiṃ) [Dāntā-nom](dāntā) [done+done+joy+covering+destruction-nom](kṛta+kṛtaka+harṣa+āvṛti+hatiḥ)
+[complete-rest](suviśrāntiṃ) [self-restrained](dāntā) [done+what-is-to-be-done+joy+covering+destruction](kṛta+kṛtaka+harṣa+āvṛti+hatiḥ)
 
 ## mukta-m0-p27-v660
-[Padmā-nom](padmā)
+[padmā](padmā)
 
 ## mukta-m0-p27-v661
-[state-acc](padaṃ) [Padmā-nom](padmā) [lotus-born+face+praised-nom](padma+udbhava+mukha+nutā) [she-nom](sā) [may-effect](racayatām)
+[state](padaṃ) [lotus-goddess](padmā) [lotus-born+face+praised](padma+udbhava+mukha+nutā) [she](sā) [may-effect](racayatām)
 
 ## mukta-m0-p27-v662
-[Lakṣmī-nom](lakṣmīḥ)
+[lakṣmī](lakṣmīḥ)
 
 ## mukta-m0-p27-v663
-[supreme-nom](parā) [Lakṣmī-nom](lakṣmīḥ) [garland+adorned+breast+weight+slow+gait-nom](hāra+ākalita+kuca+bhāra+alasa+gatiḥ)
+[supreme](parā) [lakṣmī](lakṣmīḥ) [garland+adorned+breast+weight+slow+gait](hāra+ākalita+kuca+bhāra+alasa+gatiḥ)
 
 ## mukta-m0-p27-v664
-[Hari+beloved-nom](hari+priyā)
+[beloved-of-hari](haripriyā)
 
 ## mukta-m0-p27-v665
-[Hari+beloved+compassion+full+sidelong-glance+beheld-nom-pl](hari+priyā+dayā+pūrṇa+kaṭākṣa+anīkṣitāḥ) [indeed](kila)
+[beloved-of-hari](hari+priyā) [compassion+full+sidelong-glance](dayā+pūrṇa+kaṭākṣa) [beheld](anīkṣitāḥ) [indeed](kila)
 
 ## mukta-m0-p27-v666
-[Tripurā-nom](tripurā)
+[tripurā](tripurā)
 
 ## mukta-m0-p27-v667
-[Tripurā+sovereignty-acc](tripura+īśvaratāṃ) [I-know](jāne) [than-that-abl](tat) [than-me-abl](mattaḥ) [not](na) [exceeds](atiricyate)
+[lordship-of-tripura](tripura+īśvaratāṃ) [I-know](jāne) [than-that](tanmatto) [not](na) [surpasses](atiricyate)
 
 ## mukta-m0-p27-v668
-[Nandinī-nom](nandinī)
+[nandinī](nandinī)
 
 ## mukta-m0-p27-v669
-[not-one+distress+made+abode-acc](na+eka+kaṣṭa+kṛta+mandiraṃ) [in-heaven](divi) [Nandinī-iti](nandinī+iti) [spoken+unity+increasing-nom](gadita+aikya+vardhinī)
+[many+trouble+made+abode](naika+kaṣṭa+kṛta+mandiraṃ) [in-heaven](divi) [nandinī](nandinī) [thus](iti) [spoken](gadita) [unity+increasing](aikya+vardhinī)
 
 ## mukta-m0-p27-v670
-[page](p.) [111](111)) [Nandā-nom](nandā)
+[page](p.) [111](111)) [nandā](nandā)
 
 ## mukta-m0-p27-v671
-[Nandā+devotion+nectar+sprinkled+mind-nom](nandā+bhakti+sudhā+sikta+cittaḥ) [cut+rebirth-nom](kṛtta+punarbhavaḥ)
+[nandā+devotion+nectar+sprinkled+mind](nandā+bhakti+sudhā+sikta+cittaḥ) [cut+rebirth](kṛtta+punarbhavaḥ)
 
 ## mukta-m0-p27-v672
-[Sunandā-nom](sunandā)
+[sunandā](sunandā)
 
 ## mukta-m0-p27-v673
-[Sunandā-iti](sunandā+iti) [having-saluted](abhinandya) [you-acc](tvāṃ) [become-nom](bhūtaḥ) [am](asmi) [departed+fever-nom](vigata+jvaraḥ)
+[sunandā](sunandā) [thus](iti) [having-praised](abhinandya) [you](tvāṃ) [become](bhūtaḥ) [am-I](asmi) [departed+fever](vigata+jvaraḥ)
 
 ## mukta-m0-p27-v674
-[god+praised-nom](sura+vanditā)
+[praised-by-gods](suravanditā)
 
 ## mukta-m0-p27-v675
-[gods-acc](surān) [who-nom](yā) [delighted](nandayāmāsa) [she-alone-nom](sā+eva) [you-nom](tvaṃ) [god+praised-nom](sura+vanditā)
+[gods](surān) [who](yā) [delighted](nandayāmāsa) [she-alone](sa+eva) [you](tvaṃ) [praised-by-gods](sura+vanditā)

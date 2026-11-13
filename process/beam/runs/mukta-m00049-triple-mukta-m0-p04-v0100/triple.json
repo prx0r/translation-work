@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "śaktihīnā",
+     "gloss": "devoid-of-power",
+     "grounds": "bahuvrihi compound śakti+hīnā; describes those intoxicated in context",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "buddhihīnā",
+     "gloss": "devoid-of-intellect",
+     "grounds": "bahuvrihi compound buddhi+hīnā; parallel to śaktihīnā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive expressing prior or resultant state",
+     "morph": "abs. (√bhū)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalendriyāḥ",
+     "gloss": "with-impaired-senses",
+     "grounds": "bahuvrihi compound vikala+indriyāḥ; qualifies the subjects",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What incapacitated condition characterizes the intoxicated who avoid wandering into evil wombs?",
+   "premises": [
+    "The subjects become devoid of power.",
+    "The subjects become devoid of intellect.",
+    "The subjects become impaired in their senses."
+   ],
+   "inference": "Those intoxicated are rendered incapable in power, intellect, and senses, and thus do not engage in actions leading to evil wombs.",
+   "uncertainties": [
+    "Whether the incapacitation is presented as a literal consequence or a figurative state depends on the broader ritual context."
+   ],
+   "plain_english": "Having become devoid of power, devoid of intellect, and with impaired senses."
+  }
+ ]
+}
