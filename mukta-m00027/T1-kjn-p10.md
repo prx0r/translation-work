@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## kjn-p10-v226
-[enjoyment](bhukti)+[liberation](mukti)+[great](mahā)+[accomplishment](siddhiḥ) [of-yoginīs](yoginīnāṃ) [dear](priyo) [he-may-become](bhavet)
+[enjoyment+liberation+great+accomplishment](bhuktimuktimahāsiddhiḥ) [of-yoginīs](yoginīnāṃ) [dear](priyo) [he-may-become](bhavet)
 
 ## kjn-p10-v227
-[in-candra-dvīpa](candra)+[island](dvīpa)+[emerged](vinirgate) [ninth](navamaḥ) [chapter](paṭalaḥ)
+[from-candra-dvīpa+emerged](candradvīpavinirgate) [ninth](navamaḥ) [chapter](paṭalaḥ)
 
 ## kjn-p10-v228
-[by-fire](vahni)+[surrounded](nāveṣṭita)+[self](ātmānam) [on-one](eka)+[foot](pādena) [standing](saṃsthitam)
+[by-fire+surrounded+self](vahnināveṣṭitātmānam) [on-one+foot](ekapādena) [standing](saṃsthitam)
 
 ## kjn-p10-v229
-[of-knowledge](jñānasya) [determination](nirṇayam) [o-god](deva) [today](adya) [to-me](me) [made-manifest](prakaṭīkṛtam)
+[of-knowledge](jñānasya) [determination](nirṇayandeva) [today](adya) [to-me](me) [made-manifest](prakaṭīkṛtam)
 
 ## kjn-p10-v230
-[eight](aṣṭa)+[eight](aṣṭaka)+[division](vibhāgam) [and](tu) [to-know-fully](parijñātum) [endlessly](anantathā)
+[eight+eight+division](aṣṭāṣṭakavibhāgantu) [to-be-known](parijñātumanantathā)
 
 ## kjn-p10-v231
-[secret](guhya)+[place](sthānaṃ) [as](yathā)+[wheel](cakraṃ) [quickly](kṣipraṃ) [is-accomplished](sidhyati) [o-bhairava](bhairava)
+[secret+place](guhyasthānaṃ) [as+circle](yathācakraṃ) [quickly](kṣipraṃ) [is-accomplished](sidhyati) [O-Bhairava](bhairava)
 
 ## kjn-p10-v232
-[well](sādhu) [well](sādhu) [o-great-goddess](mahādevi) [asked](pṛṣṭaḥ)+[i](aham) [by-gods](sura)+[hard-to-obtain](durlabham)
+[well](sādhu) [well](sādhu) [O-great+goddess](mahādevi) [asked](pṛṣṭo'haṃ) [by-gods+difficult-to-obtain](suradurlabham)
 
 ## kjn-p10-v233
-[syllable-kṣa](kṣakāraṃ) [brahmarandhra-state](brahmarandhratvaṃ) [syllable-laṃ](laṃkāram) [and](tu) [in-the-forehead](lalāṭayoḥ)
+[syllable+kṣa](kṣakāraṃ) [brahma+aperture+nature](brahmarandhratvaṃ) [syllable+la](laṃkārantu) [in-forehead](lalāṭayoḥ)
 
 ## kjn-p10-v234
-[syllable-ṣa](ṣakāraṃ) [in-throat-region](kaṇṭha)+[region](deśe) [and](tu) [syllable-śa](śakāraṃ) [in-the-heart](hṛdaye) [then](tadā)
+[syllable+ṣa](ṣakāraṃ) [in-throat+region](kaṇṭhadeśe) [then](tu) [syllable+śa](śakāraṃ) [in-heart](hṛdaye) [then](tadā)
 
 ## kjn-p10-v235
-[place](sthāna)+[wheels](cakrāḥ) [and](tu) [declared](saṃproktāḥ) [of-them](teṣāṃ) [meditation](dhyānaṃ) [hear](śṛṇu) [o-beloved](priye)
+[place+circles](sthānacakrāstu) [declared](saṃproktāsteṣāṃ) [meditation](dhyānaṃ) [hear](śṛṇu) [O-beloved](priye)
 
 ## kjn-p10-v236
-[eight](aṣṭa)+[spoked](āraṃ) [lotus](paṅkajaṃ) [divine](divyaṃ) [by-first](prathama)+[octad](aṣṭaka)+[adorned](bhūṣitam)
+[eight+spoked](aṣṭāraṃ) [lotus](paṅkajaṃ) [divine](divyaṃ) [with-first+group-of-eight+adorned](prathamāṣṭakabhūṣitam)
 
 ## kjn-p10-v237
-[through-practice](abhyāsāt) [with-equal](sama)+[mind](cittaḥ) [and](tu) [village](grāma)+[dharma](dharmañ) [and](ca) [should-abandon](varjayet)
+[through-practice](abhyāsāt) [of-equal+mind](samacittastu) [village+duty](grāmadharmañca) [and](ca) [one-should-abandon](varjayet)
 
 ## kjn-p10-v238
-[distant](dūra)+[hearing](āśravaṇa)+[knowledge](vijñānaṃ) [bond](pāśa)+[paralysis](stobham) [likewise](tathā) [o-beloved](priye)
+[distant+hearing+knowledge](dūrāśravaṇavijñānaṃ) [bond+paralysis](pāśastobhantathā) [likewise](tathā) [O-beloved](priye)
 
 ## kjn-p10-v239
-[immortality](amaratvam) [likewise](tathā) [o-goddess](devi) [in-brief](samāsāt) [transformation](parivartanam)
+[immortality](amaratvantathā) [likewise](tathā) [O-goddess](devi) [in-brief](samāsāt) [transformation](parivartanam)
 
 ## kjn-p10-v240
-[second](dvitīyam) [eight](aṣṭa)+[petaled](patram) [and](tu) [by-fire](teja)+[meditation](dhyāna)+[well-illuminated](sudīpitam)
+[second](dvitīyamaṣṭapatrantu) [eight+petaled](aṣṭapatrantu) [then](tu) [by-fire+meditation+well+illuminated](tejadhyānasudīpitam)
 
 ## kjn-p10-v241
-[he-makes](kurute) [in-many-ways](bahudhā) [form](rūpaṃ) [in-meditation](dhyāna)+[one-pointed](eka)+[gone](gata)+[mind](cetasaḥ)
+[he-makes](kurute) [in-many-ways](bahudhā) [form](rūpaṃ) [of-one+whose-mind+is-fixed+on-meditation](dhyānaikagatacetasaḥ)
 
 ## kjn-p10-v242
-[when-angry](kruddhaḥ) [and](tu) [he-destroys](saṃharet) [all](sarvaṃ) [triple-world](trailokyaṃ) [with-moving](sa)+[and-unmoving](cara)+[unmoving](acaram)
+[when-angry](kruddhastu) [he-may-destroy](saṃharet) [all](sarvaṃ) [three+worlds](trailokyaṃ) [with-moving+and-unmoving](sacarācaram)
 
 ## kjn-p10-v243
-[third](tṛtīyam) [and](tu) [great](mahā)+[wheel](cakraṃ) [nine](nava)+[tattva](tattva)+[liberator](pramocakaḥ)
+[third](tṛtīyantu) [then](tu) [great+circle](mahācakraṃ) [nine+principles+liberating](navatattvapramocakaḥ)
 
 ## kjn-p10-v244
-[wrinkle](balī)+[grey-hair](palita)+[destruction](nāśam) [and](tu) [from-very-far](sudūrāt)+[seeing](darśanam) [likewise](tathā)
+[wrinkle+gray-hair+destruction](balīpalitanāśantu) [then](tu) [from-very+far+seeing](sudūrāddarśanantathā) [likewise](tathā)
 
 ## kjn-p10-v245
-[in-solitude](ekānte) [in-many-ways](bahudhā) [form](rūpaṃ) [make](kuru) [meditation](dhyānañ) [and](ca) [intent-on-that](tatparaḥ)
+[in-solitude](ekānte) [in-many-ways](bahudhā) [form](rūpaṃ) [make](kuru) [meditation](dhyānañca) [and](ca) [intent-on-that](tatparaḥ)
 
 ## kjn-p10-v246
-[he-makes](kurute) [immortality](amaratvaṃ) [indeed](hi) [in-constant](satata)+[practice](abhyāsa)+[intent](tatparaḥ)
+[he-makes](kurute) [immortality](amaratvaṃ) [indeed](hi) [intent-on-constant+practice](satatābhyāsatatparaḥ)
 
 ## kjn-p10-v247
-[by-day](divasāt)+[non-eating](nāśanena) [indeed](eva) [age](vayo) [death](mṛtyuṃ) [will-go](gamiṣyate)
+[by-day+destruction](divasānnāśanenaiva) [indeed](eva) [age](vayo) [death](mṛtyuṃ) [will-go](gamiṣyate)
 
 ## kjn-p10-v248
-[by-constant](satata)+[practice](abhyāsa)+[yoga](yogena) [two](dvi)+[times-eight](aṣṭa)+[year](varṣa)+[form](ākṛtiḥ) [he-becomes](bhavet)
+[by-constant+practice+yoga](satatābhyāsayogena) [two+eight+year+form](dviraṣṭavarṣākṛtirbhavet) [he-may-become](bhavet)
 
 ## kjn-p10-v249
-[smoke](dhūmra)+[colored](varṇaṃ) [always](sadā) [contemplate](cintya) [triple-world](trailokyaṃ) [he-shakes](cālayet) [o-beloved](priye)
+[smoke+colored](dhūmravarṇaṃ) [always](sadā) [having-meditated](cintya) [three+worlds](trailokyaṃ) [he-may-shake](cālayet) [O-beloved](priye)
 
 ## kjn-p10-v250
-[sixth](ṣaṣṭhaṃ) [and](tu) [wheel](cakraṃ) [king](rājānam) [eight](aṣṭa)+[petaled](patra)+[with-pericarp](sakarṇikam)
+[sixth](ṣaṣṭhaṃ) [then](tu) [circle](cakraṃ) [royal](rājānamaṣṭapatrasakarṇikam) [eight+petaled+with+pericarp](aṣṭapatrasakarṇikam)

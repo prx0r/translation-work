@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "ordinal enumerating the third item in sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dveṣaṇaṃ",
+     "gloss": "causing-hatred",
+     "grounds": "action noun naming the third power or effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "turyam",
+     "gloss": "fourth",
+     "grounds": "ordinal enumerating the fourth item in sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "driving-away",
+     "grounds": "action noun naming the fourth power or effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which third and fourth powers are identified in this enumerated sequence?",
+   "premises": [
+    "The third item in the sequence is named as dveṣaṇa.",
+    "The fourth item in the sequence is named as uccāṭana.",
+    "The particles caiva and tathā link these items within the enumeration."
+   ],
+   "inference": "The enumeration identifies causing-hatred as the third power and driving-away as the fourth.",
+   "uncertainties": [
+    "The grammatical gender and case allow nominative or accusative readings; nominative is taken in apposition within the list."
+   ],
+   "plain_english": "And the third is causing hatred, and likewise the fourth is driving away."
+  }
+ ]
+}

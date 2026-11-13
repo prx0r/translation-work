@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[goddess](devīṃ) [I-bow](namāmi) [unfailing](apaṭa) [+axe](+ṭaṅka) [+made-of](+maya) [+foundation](+pratiṣṭhām)
+[goddess](devīṃ) [I-bow](namāmi) [unobstructed+clarity+made+established](apaṭa+ṭaṅka+maya+pratiṣṭhām)
 
 ## mukta-m0-p01-v2
-[as](yathā) [+endowed](+anvitaḥ) [own](sva) [+experience](+anubhava) [+unimpaired](+aviluptaḥ)
+[as](yathā) [endowed](anvitaḥ) [own+experience+unimpaired](sva+anubhava+aviluptaḥ)
 
 ## mukta-m0-p01-v3
-[false](mithyā) [+conception](+vikalpa) [+produced](+janitau) [indeed](kila) [bondage](bandha) [+liberation](+mokṣau)
+[false+conception+produced](mithyā+vikalpa+janitau) [indeed](kila) [bondage+and-liberation](bandha+mokṣau)
 
 ## mukta-m0-p01-v4
-[all](sarva) [+supreme](+uttama) [+supreme](+uttama) [+most](+tamaḥ) [indeed](hi) [therefore](tataḥ) [great](mahā) [+meaning](+arthaḥ)
+[best+of-the-best+supreme](sarva+uttama+uttama+tamaḥ) [indeed](hi) [therefore](tataḥ) [great+meaning](mahā+arthaḥ)
 
 ## mukta-m0-p01-v5
-[eternal](nitya) [+unimpaired](+avilupta) [+wealth](+vibhavaḥ) [teacher](guru) [+tradition](+sampradāyaḥ)
+[eternal+unimpaired+glory](nitya+avilupta+vibhavaḥ) [teacher+tradition](guru+sampradāyaḥ)
 
 ## mukta-m0-p01-v6
-[in-heart](hṛdi) [having-reflected](parimṛśya) [is-deposited](nidhīyate) [by-great](mahat) [+ones](+bhiḥ)
+[in-the-heart](hṛdi) [having-reflected](parimṛśya) [is-deposited](nidhīyate) [by-the-great](mahadbhiḥ)
 
 ## mukta-m0-p01-v7
-[own](sva) [+bliss](+ānanda) [+nectar](+amṛta) [+form](+rūpaṃ) [living](jīvat) [+liberation](+mukteḥ) [is-conceived](prakalpate) [universe](viśvam)
+[own+bliss+nectar+form](sva+ānanda+amṛta+rūpaṃ) [of-the-living-liberated](jīvan+mukteḥ) [is-conceived](prakalpate) [universe](viśvam)
 
 ## mukta-m0-p01-v8
-[subtle](sūkṣma) [+inspection](+īkṣikā) [+method](+prakāraḥ) [shines](vilasati) [of-that](tasya) [+intense](+ati) [+grace](+śakti) [+descent](+pātasya)
+[subtle+vision+method](sūkṣma+īkṣikā+prakāraḥ) [shines](vilasati) [of-that](tasya) [intense+grace-descent](ati+śakti+pātasya)
 
 ## mukta-m0-p01-v9
-[without-means](anupāya) [+yoga](+yoga) [+method](+yuktyā) [teacher](guru) [+mouth](+mukha) [+seen](+dṛṣṭena) [tradition](sampradāyena)
+[without-means+yoga+method](anupāya+yoga+yuktyā) [from-guru's-mouth+seen](guru+mukha+dṛṣṭena) [by-tradition](sampradāyena)
 
 ## mukta-m0-p01-v10
-[of-that](tasya) [own](sva) [+nature](+bhāva) [+shining](+vilasat) [+universe](+viśva) [+consisting-of](+mayasya) [own](sva) [+form](+rūpa) [+ray](+kiraṇasya)
+[of-that](tasya) [own-nature+shining+universe+consisting](sva+bhāva+vilasat+viśva+mayasya) [own-form+ray](sva+rūpa+kiraṇasya)
 
 ## mukta-m0-p01-v11
-[of-great](mahā) [+meaning](+arthasya) [supreme](parā) [culmination](niṣṭhā) [dissolved](galita) [+own](+sva) [+other](+para) [+state](+sthiteḥ)
+[of-the-great-meaning](mahā+arthasya) [supreme](parā) [culmination](niṣṭhā) [dissolved+self+other+state](galita+sva+para+sthiteḥ)
 
 ## mukta-m0-p01-v12
-[sung](gītaṃ) [ancient](purāṇa) [+foundation](+adhiṣṭhānaṃ) [may-speak](bhāṣayātu) [that](tat) [+supreme](+uttamam)
+[sung](gītaṃ) [ancient+foundation](purāṇa+adhiṣṭhānaṃ) [may-speak](bhāṣayātu) [that](tat) [supreme](uttamam)
 
 ## mukta-m0-p01-v13
-[without-means](anupāya) [+course](+kramaḥ) [that](saḥ) [+this](+ayam) [of-whom](yasya) [established](rūḍhaḥ) [he](saḥ) [yogi](yogi) [+king](+rāṭ)
+[without-means+course](anupāya+kramaḥ) [that](saḥ) [this](ayam) [of-whom](yasya) [established](rūḍhaḥ) [he](sa) [yogi+king](yogi+rāṭ)
 
 ## mukta-m0-p01-v14
-[for-abiding](sthitaye) [own](sva) [+own](+sva) [+nature](+rūpasya) [not](na) [+other](+anyat) [anything](kiñcit) [+expects](+apekṣate)
+[for-abiding](sthitaye) [of-own+nature](sva+sva+rūpasya) [not](na) [other](anyat) [anything](kiñcit) [expects](apekṣate)
 
 ## mukta-m0-p01-v15
-[which](yā) [consciousness](cit) [+consisting-of-that](+tanmaya) [+contact](+sparśāt) [supreme](parā) [+bliss](+ānanda) [+wonder](+camatkṛtiḥ)
+[which](yā) [consciousness](citiḥ) [by-contact-with-that](tan+maya+sparśāt) [supreme+bliss+wonder](para+ānanda+camatkṛtiḥ)
 
 ## mukta-m0-p01-v16
-[seat](pīṭha) [+sequence](+kramādau) [everywhere](sarvatra) [purity](viśuddhiḥ) [+of-that](+tasya) [arises](jāyate)
+[in-seat+sequence+etc.](pīṭha+krama+ādau) [everywhere](sarvatra) [purity](viśuddhiḥ) [of-that](tasya) [arises](jāyate)
 
 ## mukta-m0-p01-v17
-[abiding](sthiti) [+destruction](+nāśau) [own](sva) [+nature](+bhāvasya) [own](sva) [+form](+rūpe) [and](ca) [smearing](vilepanam)
+[continuance+destruction](sthiti+nāśau) [of-own-nature](sva+bhāvasya) [in-own-form](sva+rūpe) [and](ca) [dissolution](vilepanam)
 
 ## mukta-m0-p01-v18
-[supreme](parā) [+bliss](+ānanda) [+wonder](+camatkāra) [+moonlight](+candrikā) [+calmed](+cchānta) [+mind](+cetasaḥ)
+[of-supreme+bliss+wonder+moonlight+calmed+mind](para+ānanda+camatkāra+candrikā+cchānta+cetasaḥ)
 
 ## mukta-m0-p01-v19
-[teacher](guru) [+grace](+prasādāt) [which](yat) [+knowledge](+jñānaṃ) * * * * [indeed](kila) [+is-said](+ucyate)
+[from-guru's+grace](guru+prasādāt) [which](yat) [knowledge](jñānaṃ) [indeed](kila) [is-called](ucyate)
 
 ## mukta-m0-p01-v20
-[exposition](kathanā) [+etc.](+ādi) [+course](+krama) [+transcending](+atītā) [purity](viśuddhiḥ) [+there](+tatra) [shines](kāśate)
+[beyond+discourse+etc.+course](kathanā+ādi+krama+atītā) [purity](viśuddhiḥ) [there](tatra) [shines](kāśate)
 
 ## mukta-m0-p01-v21
-[seen](dṛṣṭa) [+unseen](+adṛṣṭa) [+etc.](+ādi) [+convention](+saṅketa) [+discourse](+kathā) [+merely](+mātrā) [shines-forth](prakāśate)
+[by-seen+unseen+etc.+convention+mere+talk](dṛṣṭa+adṛṣṭa+ādi+saṅketa+kathā+mātrā) [shines-forth](prakāśate)
 
 ## mukta-m0-p01-v22
-[each](pratyeka) [+object](+viṣaya) [+turning](+āvṛttyā) [outward](bahiḥ) [+inward](+antaḥ) [+facing](+mukha) [+risings](+udayāḥ)
+[by-each+object+turning](pratyeka+viṣaya+āvṛttyā) [outward+inward+facing+arisings](bahis+antar+mukha+udayāḥ)
 
 ## mukta-m0-p01-v23
-[of-them](tāsāṃ) [worship](pūjana) [+cessation](+vicchittyā) [own](sva) [+form](+rūpaṃ) [shines-forth](samprakāśate)
+[by-their](tāsāṃ) [worship+cessation](pūjana+vicchittyā) [own-form](sva+rūpaṃ) [fully-shines](samprakāśate)
 
 ## mukta-m0-p01-v24
-[manifests](prathate) [of-someone](kasyacit) [+knowledge](+jñānam) [+not-requiring](+anapekṣita) [+means](+sādhanam)
+[manifests](prathate) [of-someone](kasyacit) [knowledge](jñānam) [unrequired+means](anapekṣita+sādhanam)
 
 ## mukta-m0-p01-v25
-[manifests](prathate) [of-someone](kasyacit) [+knowledge](+jñānaṃ) [convention](saṅketa) [+etc.](+ādi) [+discourse](+kathā) [+resorting-to](+āśrayāt)
+[manifests](prathate) [of-someone](kasyacit) [knowledge](jñānaṃ) [convention+etc.+discourse+resorting-to](saṅketa+ādi+kathā+āśrayāt)
