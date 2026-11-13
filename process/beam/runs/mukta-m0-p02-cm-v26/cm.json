@@ -3,39 +3,44 @@
  "verse": 26,
  "rows": [
   {
-   "lemma": "svayaṃ",
+   "lemma": "ahaṃ",
+   "morph": "pron.nom.sg",
+   "grounds": "first-person pronoun"
+  },
+  {
+   "lemma": "mama",
+   "morph": "pron.gen.sg",
+   "grounds": "possessive pronoun"
+  },
+  {
+   "lemma": "idam",
+   "morph": "pron.nom.sg.n",
+   "grounds": "demonstrative pronoun"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "reflexive identity of the subject"
+   "grounds": "quotative particle"
   },
   {
-   "lemma": "dhyānaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "act of contemplative absorption"
+   "lemma": "etat",
+   "morph": "pron.nom.sg.n",
+   "grounds": "demonstrative pronoun"
   },
   {
-   "lemma": "svayaṃ",
-   "morph": "(indecl.)",
-   "grounds": "reflexive identity of the subject"
+   "lemma": "buddhi",
+   "morph": "f.stem",
+   "grounds": "faculty of cognition"
   },
   {
-   "lemma": "dhyātā",
+   "lemma": "hetuḥ",
    "morph": "m.nom.sg",
-   "grounds": "agent who performs meditation"
+   "grounds": "source or reason"
   },
   {
-   "lemma": "svayaṃ",
-   "morph": "(indecl.)",
-   "grounds": "reflexive identity of the subject"
-  },
-  {
-   "lemma": "sarvatra",
-   "morph": "(indecl.)",
-   "grounds": "pervasive presence in all places"
-  },
-  {
-   "lemma": "devatā",
+   "lemma": "ahaṅkṛtiḥ",
    "morph": "f.nom.sg",
-   "grounds": "divine presence or object of worship"
+   "grounds": "act of making I-sense"
   }
  ]
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p03",
  "verse": 57,
- "question": "What poisonous ingredients are specified for the next destructive preparation?",
+ "question": "How are accomplishment, truth, meditation, and concentration identified in this teaching?",
  "premises": [
-  "A scorpion's tail is required",
-  "Hālāhala poison is also required"
+  "Something is designated as to be accomplished",
+  "Something is designated as truth",
+  "Meditation and concentration are also designated"
  ],
- "inference": "The preparation requires a scorpion's tail and hālāhala poison",
- "uncertainties": [],
- "plain_english": "Take the tail of a scorpion and also hālāhala poison."
+ "inference": "The teaching identifies the same referent as goal, truth, meditation, and concentration.",
+ "uncertainties": [
+  "Whether all demonstratives point to one referent or several is ambiguous"
+ ],
+ "plain_english": "This is to be accomplished, this is the truth, and this is meditation and concentration."
 }

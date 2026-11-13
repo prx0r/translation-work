@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p06",
  "verse": 150,
- "question": "What distinct goal do akula-heroes pursue in contrast to all others who desire liberation?",
+ "question": "Is an instrument necessary for an agent's action upon an object?",
  "premises": [
-  "All those beings desire liberation.",
-  "Akula-heroes are set in contrast to them.",
-  "Akula-heroes desire the giver of liberation."
+  "An agent performs action directed toward an object.",
+  "Action upon an object is not observed without an instrument.",
+  "Observation supports the dependence of action on an instrument."
  ],
- "inference": "The akula-heroes seek the source of liberation rather than liberation itself.",
- "uncertainties": [
-  "The exact referent of mokṣadam (a deity, guru, or principle) is not specified in this verse."
- ],
- "plain_english": "All of them desire liberation, but the akula-heroes desire the giver of liberation."
+ "inference": "Therefore an instrument is necessary for an agent's action upon an object.",
+ "uncertainties": [],
+ "plain_english": "Without an instrument, an agent's action upon an object is not observed."
 }
