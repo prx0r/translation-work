@@ -6,27 +6,27 @@
    "rows": [
     {
      "surface": "karmānuṣṭhānādarśanācca",
-     "gloss": "from-non-seeing-of-action-performance",
-     "grounds": "compound with sandhi: karmānuṣṭhāna + adarśanāt + ca",
-     "morph": "compound: karma+action, anuṣṭhāna+performance, adarśana+non-seeing, ca+conjunction; abl.sg.nt"
+     "gloss": "and-from-non-seeing-action-performance",
+     "grounds": "compound with ca; absence of observed performance of action",
+     "morph": "compound: karman+anuṣṭhāna+adarśana (abl.sg.n.) + ca (indecl.)"
     },
     {
      "surface": "malayuktasyaiva",
-     "gloss": "of-one-endowed-with-impurity-alone",
-     "grounds": "compound with sandhi: mala + yuktasya + eva",
-     "morph": "compound: mala+impurity, yukta+endowed, eva+emphatic; gen.sg.m"
+     "gloss": "only-of-impurity-endowed",
+     "grounds": "compound with eva; refers to the soul bound by impurity",
+     "morph": "compound: mala+yukta (gen.sg.m.) + eva (indecl.)"
     },
     {
      "surface": "karmārjanaṃ",
      "gloss": "acquisition-of-action",
-     "grounds": "compound: karma + arjanam",
-     "morph": "compound: karma+action, arjana+acquisition; nom.sg.nt"
+     "grounds": "accumulation of karma",
+     "morph": "compound: karman+arjana (nom.sg.n.)"
     },
     {
      "surface": "tadbhogo",
      "gloss": "its-experience",
-     "grounds": "compound with sandhi: tat + bhogaḥ",
-     "morph": "compound: tat+its, bhoga+experience; nom.sg.m"
+     "grounds": "experience of that karma",
+     "morph": "compound: tad+bhoga (nom.sg.m.)"
     },
     {
      "surface": "vā",
@@ -37,19 +37,19 @@
     {
      "surface": "upayujyate",
      "gloss": "is-applicable",
-     "grounds": "passive verb",
-     "morph": "3.sg.pass-pres; upa-√yuj"
+     "grounds": "is fitting or serves a purpose",
+     "morph": "3.sg.pass.pres. √yuj (with upa)"
     }
    ],
-   "question": "Why is the acquisition or experience of action applicable only to a self endowed with impurity?",
+   "question": "Why do karma acquisition and its experience apply only to the impurity-endowed soul?",
    "premises": [
-    "Performance of action is not observed in a self free from impurity.",
-    "Acquisition of action belongs to a self endowed with impurity.",
-    "Experience of action belongs to a self endowed with impurity."
+    "Performance of action is not observed in all cases",
+    "Karma acquisition presupposes an agent subject to impurity",
+    "Experience of karma follows from such acquisition"
    ],
-   "inference": "Therefore, action and its experience are relevant only for the impure self.",
+   "inference": "Therefore karma acquisition and its experience are applicable only to the soul endowed with impurity.",
    "uncertainties": [],
-   "plain_english": "Because the performance of action is not seen otherwise, the acquisition of karma or its experience applies only to a being endowed with impurity."
+   "plain_english": "Because the performance of action is not seen otherwise, the acquisition of karma and its experience apply only to the soul that is endowed with impurity."
   },
   {
    "verse": 202,
@@ -57,8 +57,8 @@
     {
      "surface": "viṣayitvaṃ",
      "gloss": "object-directedness",
-     "grounds": "abstract noun",
-     "morph": "nom.sg.nt"
+     "grounds": "state of being directed toward objects",
+     "morph": "nom.sg.n."
     },
     {
      "surface": "hi",
@@ -69,49 +69,49 @@
     {
      "surface": "tasya",
      "gloss": "of-that",
-     "grounds": "demonstrative pronoun",
-     "morph": "gen.sg.m"
+     "grounds": "refers to the soul or subject in question",
+     "morph": "gen.sg.m."
     },
     {
      "surface": "ekam",
      "gloss": "one",
-     "grounds": "numeral adjective",
-     "morph": "nom.sg.nt"
+     "grounds": "single or uniform",
+     "morph": "nom.sg.n."
     },
     {
      "surface": "astu",
      "gloss": "let-be",
-     "grounds": "imperative verb",
-     "morph": "3.sg.act-imperative; √as"
+     "grounds": "concessive imperative",
+     "morph": "3.sg.impv.act. √as"
     },
     {
      "surface": "kiṃ",
      "gloss": "what",
-     "grounds": "interrogative pronoun",
-     "morph": "nom.sg.nt"
+     "grounds": "interrogative implying no need",
+     "morph": "nom.sg.n."
     },
     {
      "surface": "tena",
      "gloss": "by-that",
-     "grounds": "demonstrative pronoun",
-     "morph": "inst.sg.nt"
+     "grounds": "instrumental referring to karma",
+     "morph": "inst.sg.n."
     },
     {
      "surface": "karmaṇā",
      "gloss": "by-action",
-     "grounds": "noun",
-     "morph": "inst.sg.nt"
+     "grounds": "karma as instrument",
+     "morph": "inst.sg.n."
     }
    ],
-   "question": "What role does karma play if object-directedness alone characterizes that self?",
+   "question": "What role does karma play if the soul’s object-directedness is already singular?",
    "premises": [
-    "Object-directedness may be admitted as a single characteristic of that self.",
-    "Karma is proposed as an additional factor.",
-    "A single sufficient characteristic makes an additional factor unnecessary."
+    "Object-directedness may be admitted as single for that soul",
+    "A single object-directedness does not require karma for its existence",
+    "Karma would be superfluous in that case"
    ],
-   "inference": "Therefore, karma is not needed to account for that object-directedness.",
+   "inference": "Therefore karma is not needed merely to account for that object-directedness.",
    "uncertainties": [],
-   "plain_english": "Indeed, let that self have object-directedness alone; what use is there for that karma?"
+   "plain_english": "Indeed, let that soul’s object-directedness be one; what use is there for that karma?"
   },
   {
    "verse": 203,
@@ -119,37 +119,37 @@
     {
      "surface": "santi",
      "gloss": "there-are",
-     "grounds": "present verb",
-     "morph": "3.pl.act-pres; √as"
+     "grounds": "asserts existence",
+     "morph": "3.pl.pres.act. √as"
     },
     {
      "surface": "kevalino",
-     "gloss": "isolated-ones",
-     "grounds": "noun denoting liberated-in-isolation selves",
-     "morph": "nom.pl.m"
+     "gloss": "isolated-souls",
+     "grounds": "souls in the kevala state",
+     "morph": "nom.pl.m."
     },
     {
      "surface": "jñānagrastāḥ",
-     "gloss": "consumed-by-knowledge",
-     "grounds": "compound: jñāna + grastāḥ",
-     "morph": "compound: jñāna+knowledge, grasta+consumed; nom.pl.m"
+     "gloss": "knowledge-consumed",
+     "grounds": "whose cognition is obscured or absorbed",
+     "morph": "compound: jñāna+grasta (nom.pl.m.)"
     },
     {
      "surface": "karmavinākṛtāḥ",
      "gloss": "deprived-of-action",
-     "grounds": "compound: karma + vinākṛtāḥ",
-     "morph": "compound: karma+action, vinākṛta+deprived; nom.pl.m"
+     "grounds": "without karma",
+     "morph": "compound: karman+vinākṛta (nom.pl.m.)"
     }
    ],
-   "question": "Can isolated selves exist without karma while being absorbed in knowledge?",
+   "question": "Do isolated souls exist without karma while their knowledge remains obscured?",
    "premises": [
-    "Isolated selves are recognized in the doctrine.",
-    "These selves are described as consumed by knowledge.",
-    "These selves are described as deprived of karma."
+    "Some souls are described as kevalins",
+    "These souls are deprived of karma",
+    "Their knowledge is consumed or obstructed"
    ],
-   "inference": "Therefore, existence without karma is possible for such isolated selves.",
+   "inference": "Therefore isolated souls can exist without karma in a state of obscured knowledge.",
    "uncertainties": [],
-   "plain_english": "There are isolated beings, absorbed in knowledge and devoid of karma."
+   "plain_english": "There are isolated souls, deprived of karma, whose knowledge is consumed."
   },
   {
    "verse": 204,
@@ -157,37 +157,37 @@
     {
      "surface": "māyāyoge",
      "gloss": "in-connection-with-māyā",
-     "grounds": "compound: māyā + yoge",
-     "morph": "compound: māyā+māyā, yoga+connection; loc.sg.m"
+     "grounds": "association with māyā",
+     "morph": "compound: māyā+yoga (loc.sg.m.)"
     },
     {
      "surface": "hetur",
      "gloss": "cause",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "grounds": "causal factor",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "ity",
      "gloss": "thus",
-     "grounds": "quotative particle with sandhi",
+     "grounds": "quotation or conclusion marker",
      "morph": "(indecl.)"
     },
     {
      "surface": "arthaḥ",
      "gloss": "meaning",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "grounds": "intended sense",
+     "morph": "nom.sg.m."
     }
    ],
-   "question": "What is identified as the cause in the connection with māyā?",
+   "question": "What is identified as the cause in the soul’s connection with māyā?",
    "premises": [
-    "A connection with māyā is under discussion.",
-    "A cause for that connection is sought.",
-    "The text states the intended meaning explicitly."
+    "The context concerns the soul’s association with māyā",
+    "A causal factor is being specified",
+    "The statement summarizes that causal claim"
    ],
-   "inference": "Therefore, the stated factor is the cause in the connection with māyā.",
+   "inference": "Thus the meaning is that connection with māyā is the cause.",
    "uncertainties": [],
-   "plain_english": "The meaning is that this is the cause in the connection with māyā."
+   "plain_english": "The meaning is: the cause lies in connection with māyā."
   },
   {
    "verse": 205,
@@ -195,43 +195,43 @@
     {
      "surface": "prāksṛṣṭer",
      "gloss": "before-creation",
-     "grounds": "compound with sandhi: prāk + sṛṣṭeḥ",
-     "morph": "compound: prāk+before, sṛṣṭi+creation; abl.sg.f"
+     "grounds": "prior to cosmic creation",
+     "morph": "compound: prāk+sṛṣṭi (abl.sg.f.)"
     },
     {
      "surface": "niṣkalo",
      "gloss": "without-parts",
-     "grounds": "compound: nis + kalaḥ",
-     "morph": "compound: nis+without, kalā+part; nom.sg.m"
+     "grounds": "without kalā and other limiting adjuncts",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "jantur",
-     "gloss": "individual-self",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "gloss": "soul",
+     "grounds": "individual embodied being or soul",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "dṛkkṛyāguṇavān",
      "gloss": "possessing-cognition-action-qualities",
-     "grounds": "compound: dṛk + kriyā + guṇavān",
-     "morph": "compound: dṛk+cognition, kriyā+action, guṇavat+possessing; nom.sg.m"
+     "grounds": "endowed with powers of knowing and doing",
+     "morph": "compound: dṛk+kriyā+guṇa+vat (nom.sg.m.)"
     },
     {
      "surface": "yataḥ",
      "gloss": "because",
-     "grounds": "causal particle",
+     "grounds": "introduces reason",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Why must the individual self before creation be considered endowed with cognition and action?",
+   "question": "Why is the soul before creation described as partless yet possessing cognition and action?",
    "premises": [
-    "The individual self exists before creation.",
-    "Before creation the self is without limiting parts.",
-    "The self is nonetheless described as possessing cognition and action."
+    "Before creation the soul is without kalā and similar adjuncts",
+    "The soul is still held to possess cognition and action",
+    "This condition requires explanation"
    ],
-   "inference": "Therefore, cognition and action belong to the self even prior to creation.",
+   "inference": "Because the soul inherently possesses cognition and action even before creation, it is described as partless yet endowed with those qualities.",
    "uncertainties": [],
-   "plain_english": "Because before creation the individual self, though without parts, possesses the qualities of cognition and action."
+   "plain_english": "Because before creation the soul is without parts yet possesses the qualities of cognition and action."
   },
   {
    "verse": 206,
@@ -239,49 +239,49 @@
     {
      "surface": "kalāsambandhā'nyathā'nupapattyā",
      "gloss": "by-impossibility-otherwise-of-kalā-connection",
-     "grounds": "compound with internal sandhi: kalā-sambandha + anyathā + anupapattyā",
-     "morph": "compound: kalā+kalā, sambandha+connection, anyathā+otherwise, anupapatti+impossibility; inst.sg.f"
+     "grounds": "compound with internal sandhi; connection with kalā would be inexplicable otherwise",
+     "morph": "compound: kalā+sambandha+anyathā+anupapatti (inst.sg.f.)"
     },
     {
      "surface": "tasya",
      "gloss": "of-that",
-     "grounds": "demonstrative pronoun",
-     "morph": "gen.sg.m"
+     "grounds": "of that soul",
+     "morph": "gen.sg.m."
     },
     {
      "surface": "malo",
      "gloss": "impurity",
-     "grounds": "noun with sandhi: malaḥ",
-     "morph": "nom.sg.m"
+     "grounds": "mala as obscuring principle",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "’bhyupagantavya",
      "gloss": "to-be-admitted",
-     "grounds": "gerundive with sandhi: abhyupagantavyaḥ",
-     "morph": "nom.sg.m; gerundive of abhi-upa-√gam"
+     "grounds": "must be accepted",
+     "morph": "gerundive.nom.sg.m. (abhi+upa+√gam)"
     },
     {
      "surface": "ity",
      "gloss": "thus",
-     "grounds": "quotative particle with sandhi",
+     "grounds": "conclusion marker",
      "morph": "(indecl.)"
     },
     {
      "surface": "arthaḥ",
      "gloss": "meaning",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "grounds": "intended conclusion",
+     "morph": "nom.sg.m."
     }
    ],
-   "question": "Why must impurity be admitted for that self in relation to its connection with kalā?",
+   "question": "Why must impurity be admitted to explain the soul’s connection with kalā?",
    "premises": [
-    "The self’s connection with kalā requires explanation.",
-    "Without impurity that connection would be impossible.",
-    "An explanatory principle must be admitted to avoid impossibility."
+    "The soul comes into connection with kalā",
+    "This connection cannot be explained otherwise",
+    "An obscuring cause must account for that limitation"
    ],
-   "inference": "Therefore, impurity must be admitted for that self.",
+   "inference": "Therefore impurity must be admitted for that soul.",
    "uncertainties": [],
-   "plain_english": "The meaning is that, because connection with kalā would otherwise be impossible, impurity must be admitted for that self."
+   "plain_english": "The meaning is that, because connection with kalā would otherwise be inexplicable, impurity must be admitted for that soul."
   },
   {
    "verse": 207,
@@ -289,125 +289,125 @@
     {
      "surface": "dṛkkriye",
      "gloss": "cognition-and-action",
-     "grounds": "dual compound: dṛk + kriye",
-     "morph": "compound: dṛk+cognition, kriyā+action; nom.du.f"
+     "grounds": "the two powers of knowing and doing",
+     "morph": "compound: dṛk+kriyā (nom.du.f.)"
     },
     {
      "surface": "sarvaviṣaye",
-     "gloss": "having-all-objects",
-     "grounds": "compound: sarva + viṣaye",
-     "morph": "compound: sarva+all, viṣaya+object; nom.du.f"
+     "gloss": "all-object-directed",
+     "grounds": "having all things as their scope",
+     "morph": "compound: sarva+viṣaya (nom.du.f.)"
     },
     {
      "surface": "sarvagatvād",
      "gloss": "because-of-omnipresence",
-     "grounds": "compound with ablative ending: sarvagatvāt",
-     "morph": "compound: sarva+all, gatva+pervasion; abl.sg.nt"
+     "grounds": "due to the soul’s all-pervasiveness",
+     "morph": "compound: sarva+gata (abl.sg.n.)"
     },
     {
      "surface": "aṇor",
      "gloss": "of-the-individual-self",
-     "grounds": "noun with sandhi: aṇoḥ",
-     "morph": "gen.sg.m"
+     "grounds": "of the aṇu, the individual soul",
+     "morph": "gen.sg.m."
     },
     {
      "surface": "mate",
      "gloss": "are-held",
-     "grounds": "past participle used predicatively",
-     "morph": "nom.du.f; past-participle of √man"
+     "grounds": "are regarded in doctrine",
+     "morph": "nom.du.f. (past participle, √man)"
     }
    ],
-   "question": "Why are the individual self’s cognition and action held to extend to all objects?",
+   "question": "Why are the individual self’s cognition and action held to be all-encompassing in scope?",
    "premises": [
-    "The individual self is held to be omnipresent in this view.",
-    "Cognition and action belong to the individual self.",
-    "Omnipresence entails applicability to all objects."
+    "The individual self is regarded as omnipresent",
+    "Cognition and action belong to that self",
+    "Omnipresence implies unrestricted scope"
    ],
-   "inference": "Therefore, the self’s cognition and action are held to have all objects as their scope.",
+   "inference": "Therefore the self’s cognition and action are held to extend to all objects.",
    "uncertainties": [],
-   "plain_english": "Because of the individual self’s omnipresence, its cognition and action are held to extend to all objects."
+   "plain_english": "Because the individual self is omnipresent, its cognition and action are held to have all objects as their scope."
   },
   {
    "verse": 208,
    "rows": [
     {
      "surface": "kalādivyañjakābhāvān",
-     "gloss": "from-absence-of-manifestors-like-kalā",
-     "grounds": "compound: kalā-ādi-vyañjaka-abhāvāt",
-     "morph": "compound: kalā+kalā, ādi+etc, vyañjaka+manifestor, abhāva+absence; abl.sg.m"
+     "gloss": "from-absence-of-kalā-etc-manifestors",
+     "grounds": "lack of kalā and other manifesting adjuncts",
+     "morph": "compound: kalā+ādi+vyañjaka+abhāva (abl.sg.m.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "vyakte",
      "gloss": "manifest",
-     "grounds": "past participle",
-     "morph": "nom.du.f"
+     "grounds": "made evident or expressed",
+     "morph": "nom.du.f. (past participle, vi+√añj)"
     },
     {
      "surface": "tasya",
      "gloss": "of-that",
-     "grounds": "demonstrative pronoun",
-     "morph": "gen.sg.m"
+     "grounds": "of that individual self",
+     "morph": "gen.sg.m."
     },
     {
      "surface": "dṛkkriye",
      "gloss": "cognition-and-action",
-     "grounds": "dual compound: dṛk + kriye",
-     "morph": "compound: dṛk+cognition, kriyā+action; nom.du.f"
+     "grounds": "powers of knowing and doing",
+     "morph": "compound: dṛk+kriyā (nom.du.f.)"
     }
    ],
-   "question": "Why are the self’s cognition and action not manifest despite their universal scope?",
+   "question": "Why are the individual self’s cognition and action not manifest despite their universal scope?",
    "premises": [
-    "The self’s cognition and action are universal in scope.",
-    "Manifestation requires manifesting factors such as kalā.",
-    "Such manifesting factors are absent."
+    "The self’s cognition and action are in principle all-encompassing",
+    "Manifestation requires manifesting adjuncts such as kalā",
+    "Such manifestors are absent in that condition"
    ],
-   "inference": "Therefore, the self’s cognition and action are not manifest.",
+   "inference": "Therefore the self’s cognition and action are not manifest.",
    "uncertainties": [],
-   "plain_english": "Because manifestors such as kalā are absent, that self’s cognition and action are not manifest."
+   "plain_english": "Because there are no manifestors such as kalā and the rest, that soul’s cognition and action are not manifest."
   },
   {
    "verse": 209,
    "rows": [
     {
      "surface": "anādyanādisambandho",
-     "gloss": "beginningless-connection-with-beginningless",
-     "grounds": "compound with sandhi: anādi + anādi + sambandhaḥ",
-     "morph": "compound: anādi+beginningless, anādi+beginningless, sambandha+connection; nom.sg.m"
+     "gloss": "beginningless-with-beginningless-connection",
+     "grounds": "mutual connection of two beginningless entities",
+     "morph": "compound: anādi+anādi+sambandha (nom.sg.m.)"
     },
     {
      "surface": "malaḥ",
      "gloss": "impurity",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "grounds": "mala as obscuring principle",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "sādhāraṇo",
      "gloss": "common",
-     "grounds": "adjective with sandhi: sādhāraṇaḥ",
-     "morph": "nom.sg.m"
+     "grounds": "shared by all souls",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "’kṣayaḥ",
      "gloss": "imperishable",
-     "grounds": "adjective with sandhi: akṣayaḥ",
-     "morph": "nom.sg.m"
+     "grounds": "not subject to destruction",
+     "morph": "nom.sg.m."
     }
    ],
-   "question": "What essential characteristics define the impurity connected to the self?",
+   "question": "What characteristics define the impurity’s connection with the beginningless soul?",
    "premises": [
-    "Impurity is connected to the self without beginning.",
-    "Impurity is common to selves.",
-    "Impurity is imperishable."
+    "The connection is between two beginningless realities",
+    "Impurity is common to souls",
+    "Impurity is imperishable"
    ],
-   "inference": "Therefore, impurity is a beginningless, common, and imperishable bond.",
+   "inference": "Therefore impurity stands in a beginningless, common, and imperishable connection.",
    "uncertainties": [],
-   "plain_english": "Impurity is a beginningless connection with what is beginningless, common to all, and imperishable."
+   "plain_english": "Impurity is in a beginningless connection with the beginningless, is common, and is imperishable."
   },
   {
    "verse": 210,
@@ -415,7 +415,7 @@
     {
      "surface": "ata",
      "gloss": "therefore",
-     "grounds": "conclusive particle",
+     "grounds": "draws consequence from prior reasoning",
      "morph": "(indecl.)"
     },
     {
@@ -427,37 +427,37 @@
     {
      "surface": "nityaś",
      "gloss": "eternal",
-     "grounds": "adjective with sandhi: nityaḥ",
-     "morph": "nom.sg.m"
+     "grounds": "without beginning or end in this context",
+     "morph": "nom.sg.m. (sandhi: nityaḥ + ca)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "malo",
      "gloss": "impurity",
-     "grounds": "noun with sandhi: malaḥ",
-     "morph": "nom.sg.m"
+     "grounds": "mala",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "’bhyupagantavyaḥ",
      "gloss": "to-be-admitted",
-     "grounds": "gerundive with sandhi: abhyupagantavyaḥ",
-     "morph": "nom.sg.m; gerundive of abhi-upa-√gam"
+     "grounds": "must be accepted",
+     "morph": "gerundive.nom.sg.m. (abhi+upa+√gam)"
     }
    ],
-   "question": "Why must impurity be admitted as eternal given its established characteristics?",
+   "question": "Why must impurity be admitted as eternal on the basis of its beginningless connection?",
    "premises": [
-    "Impurity has been shown to be beginningless and imperishable.",
-    "What is beginningless and imperishable is eternal.",
-    "Doctrinal consistency requires admitting this status."
+    "Impurity’s connection with the soul is beginningless",
+    "What is beginningless in this relation is not temporally produced",
+    "Such a principle must be admitted in doctrine"
    ],
-   "inference": "Therefore, impurity must be admitted as eternal.",
+   "inference": "Therefore impurity must indeed be admitted as eternal.",
    "uncertainties": [],
-   "plain_english": "For that very reason, impurity must indeed be admitted to be eternal."
+   "plain_english": "For that very reason, impurity must indeed be admitted as eternal."
   },
   {
    "verse": 211,
@@ -465,45 +465,45 @@
     {
      "surface": "mahāmohodbhavāt",
      "gloss": "from-arising-of-great-delusion",
-     "grounds": "compound: mahā-moha-udbhavāt",
-     "morph": "compound: mahā+great, moha+delusion, udbhava+arising; abl.sg.m"
+     "grounds": "source or occasion of great delusion",
+     "morph": "compound: mahā+moha+udbhava (abl.sg.m.)"
     },
     {
      "surface": "pūrvam",
      "gloss": "before",
-     "grounds": "adverb",
+     "grounds": "prior in time or order",
      "morph": "(indecl.)"
     },
     {
      "surface": "aṇur",
      "gloss": "individual-self",
-     "grounds": "noun with sandhi: aṇuḥ",
-     "morph": "nom.sg.m"
+     "grounds": "the aṇu, the individual soul",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "eṣa",
      "gloss": "this",
-     "grounds": "demonstrative pronoun",
-     "morph": "nom.sg.m"
+     "grounds": "demonstrative referring to the soul",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "nirañjanaḥ",
      "gloss": "stainless",
-     "grounds": "compound: nis + añjanaḥ",
-     "morph": "compound: nis+without, añjana+stain; nom.sg.m"
+     "grounds": "without taint or impurity",
+     "morph": "nom.sg.m."
     }
    ],
    "question": "Was the individual self stainless prior to the arising of great delusion?",
    "premises": [
-    "Great delusion arises at some point in the account.",
-    "The self is described as stainless before that arising.",
-    "This description is presented as a prior condition."
+    "Great delusion is said to arise at some point",
+    "A prior condition of the soul is being considered",
+    "Stainlessness would mean absence of impurity"
    ],
-   "inference": "Therefore, the self is said to be stainless before the arising of great delusion.",
+   "inference": "The verse presents the view that this individual self was stainless before the arising of great delusion.",
    "uncertainties": [
-    "The exact doctrinal status of this prior stainlessness is debated in context."
+    "Whether this states an accepted position or a view to be refuted depends on context."
    ],
-   "plain_english": "Before the arising of great delusion, this individual self is said to be stainless."
+   "plain_english": "Before the arising of great delusion, this individual self was stainless."
   },
   {
    "verse": 212,
@@ -511,40 +511,40 @@
     {
      "surface": "malenātmano",
      "gloss": "of-self-with-impurity",
-     "grounds": "compound with sandhi: malena + ātmanaḥ",
-     "morph": "compound: mala+impurity, ātman+self; gen.sg.m"
+     "grounds": "compound with internal sandhi: malena + ātmanaḥ; connection of impurity with the self",
+     "morph": "compound: mala (inst.sg.m.) + ātman (gen.sg.m.)"
     },
     {
      "surface": "’nādisaṃbandho",
      "gloss": "beginningless-connection",
-     "grounds": "compound with sandhi: anādi + sambandhaḥ",
-     "morph": "compound: anādi+beginningless, sambandha+connection; nom.sg.m"
+     "grounds": "connection without beginning",
+     "morph": "compound: anādi+sambandha (nom.sg.m.)"
     },
     {
      "surface": "’bhyupagantavyaḥ",
      "gloss": "to-be-admitted",
-     "grounds": "gerundive with sandhi: abhyupagantavyaḥ",
-     "morph": "nom.sg.m; gerundive of abhi-upa-√gam"
+     "grounds": "must be accepted",
+     "morph": "gerundive.nom.sg.m. (abhi+upa+√gam)"
     }
    ],
-   "question": "What kind of connection between the self and impurity must be admitted?",
+   "question": "Why must the connection between impurity and the self be admitted as beginningless?",
    "premises": [
-    "The self is found in connection with impurity.",
-    "A beginning for this connection is not established.",
-    "The connection must be accounted for doctrinally."
+    "A prior stainless state of the self is problematic for explaining bondage",
+    "The relation of impurity to the self requires a stable account",
+    "A beginningless connection avoids that difficulty"
    ],
-   "inference": "Therefore, a beginningless connection between self and impurity must be admitted.",
+   "inference": "Therefore the connection of impurity with the self must be admitted as beginningless.",
    "uncertainties": [],
-   "plain_english": "A beginningless connection of the self with impurity must be admitted."
+   "plain_english": "The connection of impurity with the self must be admitted to be beginningless."
   },
   {
    "verse": 213,
    "rows": [
     {
      "surface": "ādimān",
-     "gloss": "having-a-beginning",
-     "grounds": "adjective",
-     "morph": "nom.sg.m"
+     "gloss": "having-beginning",
+     "grounds": "originated in time",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "yadi",
@@ -555,37 +555,37 @@
     {
      "surface": "sambandha",
      "gloss": "connection",
-     "grounds": "noun with sandhi: sambandhaḥ",
-     "morph": "nom.sg.m"
+     "grounds": "relation between soul and impurity",
+     "morph": "nom.sg.m. (vocative-like address context in verse)"
     },
     {
      "surface": "iṣṭaḥ",
      "gloss": "is-accepted",
-     "grounds": "past participle",
-     "morph": "nom.sg.m"
+     "grounds": "held or desired as a view",
+     "morph": "nom.sg.m. (past participle, √iṣ)"
     },
     {
      "surface": "puṃmalayor",
-     "gloss": "of-self-and-impurity",
-     "grounds": "compound: puṃs + malayoḥ",
-     "morph": "compound: puṃs+self, mala+impurity; gen.du.m"
+     "gloss": "of-soul-and-impurity",
+     "grounds": "dual relation between individual self and mala",
+     "morph": "compound: puṃs+mala (gen.du.m.)"
     },
     {
      "surface": "budhāḥ",
      "gloss": "o-wise-ones",
-     "grounds": "vocative noun",
-     "morph": "voc.pl.m"
+     "grounds": "address to the learned",
+     "morph": "voc.pl.m."
     }
    ],
-   "question": "What consequence follows if the connection between self and impurity is accepted as having a beginning?",
+   "question": "What consequence follows if the connection between soul and impurity is accepted as having a beginning?",
    "premises": [
-    "One might accept the connection of self and impurity as having a beginning.",
-    "A beginning implies a prior state or cause.",
-    "This hypothesis is addressed to the wise."
+    "One may propose that the soul-impurity connection has a beginning",
+    "A beginning implies a cause or initiating condition",
+    "The verse raises this as a challenge to that proposal"
    ],
-   "inference": "Therefore, accepting a beginning raises the problem of explaining that beginning.",
+   "inference": "If the connection of soul and impurity is taken to have a beginning, its cause must be accounted for.",
    "uncertainties": [],
-   "plain_english": "O wise ones, if the connection between the self and impurity is accepted as having a beginning,"
+   "plain_english": "O wise ones, if the connection between the soul and impurity is accepted as having a beginning—"
   },
   {
    "verse": 214,
@@ -593,58 +593,58 @@
     {
      "surface": "atha",
      "gloss": "then",
-     "grounds": "particle introducing consequence",
+     "grounds": "introduces consequence or alternative",
      "morph": "(indecl.)"
     },
     {
      "surface": "nirhetuko",
      "gloss": "without-cause",
-     "grounds": "compound with sandhi: nirhetukaḥ",
-     "morph": "compound: nis+without, hetu+cause; nom.sg.m"
+     "grounds": "lacking a causal explanation",
+     "morph": "nom.sg.m. (sandhi: nirhetukaḥ)"
     },
     {
      "surface": "yogaḥ",
      "gloss": "connection",
-     "grounds": "noun",
-     "morph": "nom.sg.m"
+     "grounds": "the relation in question",
+     "morph": "nom.sg.m."
     },
     {
      "surface": "kalāyogo",
      "gloss": "connection-with-kalā",
-     "grounds": "compound with sandhi: kalā-yogaḥ",
-     "morph": "compound: kalā+kalā, yoga+connection; nom.sg.m"
+     "grounds": "association with kalā",
+     "morph": "compound: kalā+yoga (nom.sg.m.)"
     },
     {
      "surface": "’py",
      "gloss": "also",
-     "grounds": "particle with sandhi: api",
-     "morph": "(indecl.)"
+     "grounds": "inclusive particle with sandhi",
+     "morph": "(indecl., sandhi: api)"
     },
     {
      "surface": "ahetukaḥ",
      "gloss": "without-cause",
-     "grounds": "compound: a + hetukaḥ",
-     "morph": "compound: a+without, hetu+cause; nom.sg.m"
+     "grounds": "would likewise lack cause",
+     "morph": "nom.sg.m."
     }
    ],
-   "question": "What undesirable consequence arises if the self-impurity connection is taken as beginningless without cause?",
+   "question": "Why would accepting a beginningless connection as causeless make the connection with kalā causeless as well?",
    "premises": [
-    "If the connection has a beginning, one may posit no cause.",
-    "A causeless connection would be arbitrary.",
-    "The connection with kalā would likewise become causeless."
+    "If the soul-impurity connection is said to arise without cause, causality is abandoned",
+    "The connection with kalā is another such relation requiring explanation",
+    "The same reasoning would apply to it"
    ],
-   "inference": "Therefore, the hypothesis leads to the unacceptable result that even the connection with kalā is causeless.",
+   "inference": "Then the connection with kalā would also have to be accepted as without cause.",
    "uncertainties": [],
-   "plain_english": "Then that connection would be without cause, and the connection with kalā would also be without cause."
+   "plain_english": "Then, if that connection is without cause, the connection with kalā would also be without cause."
   },
   {
    "verse": 215,
    "rows": [
     {
      "surface": "anādyanādisambandho",
-     "gloss": "beginningless-connection-with-beginningless",
-     "grounds": "compound with sandhi: anādi + anādi + sambandhaḥ",
-     "morph": "compound: anādi+beginningless, anādi+beginningless, sambandha+connection; nom.sg.m"
+     "gloss": "beginningless-with-beginningless-connection",
+     "grounds": "mutual beginningless relation",
+     "morph": "compound: anādi+anādi+sambandha (nom.sg.m.)"
     },
     {
      "surface": "yadi",
@@ -654,102 +654,102 @@
     },
     {
      "surface": "ceṣṭo",
-     "gloss": "and-accepted",
+     "gloss": "and-if-accepted",
      "grounds": "compound with sandhi: ca + iṣṭaḥ",
-     "morph": "compound: ca+and, iṣṭa+accepted; nom.sg.m"
+     "morph": "ca (indecl.) + nom.sg.m. (past participle, √iṣ)"
     },
     {
      "surface": "vinaśvaraḥ",
      "gloss": "perishable",
-     "grounds": "adjective",
-     "morph": "nom.sg.m"
+     "grounds": "subject to destruction",
+     "morph": "nom.sg.m."
     }
    ],
    "question": "Can a beginningless connection between beginningless entities be coherently regarded as perishable?",
    "premises": [
-    "The connection may be described as beginningless with beginningless relata.",
-    "One might still wish to regard it as perishable.",
-    "Beginninglessness and perishability must be assessed together."
+    "The connection is proposed as beginningless on both sides",
+    "Perishability implies an end and thus temporal limitation",
+    "The verse tests the coherence of combining these claims"
    ],
-   "inference": "Therefore, treating such a beginningless connection as perishable is problematic.",
+   "inference": "If the connection is beginningless, it cannot coherently be accepted as perishable.",
    "uncertainties": [],
-   "plain_english": "And if that beginningless connection with what is beginningless is accepted as perishable,"
+   "plain_english": "And if a beginningless connection between beginningless entities is accepted, can it be perishable?"
   },
   {
    "verse": 216,
    "rows": [
     {
      "surface": "pratipuṃniyatāś",
-     "gloss": "fixed-for-each-self",
-     "grounds": "compound with sandhi: prati-puṃ-niyatāḥ",
-     "morph": "compound: prati+each, puṃs+self, niyata+fixed; nom.pl.f"
+     "gloss": "fixed-for-each-soul",
+     "grounds": "determined individually for each soul",
+     "morph": "compound: prati+puṃs+niyata (nom.pl.f., sandhi: niyatāḥ)"
     },
     {
      "surface": "cāsya",
      "gloss": "and-of-it",
-     "grounds": "compound with sandhi: ca + asya",
-     "morph": "compound: ca+and, asya+of-it; gen.sg.m"
+     "grounds": "sandhi: ca + asya; of that impurity",
+     "morph": "ca (indecl.) + gen.sg.n./m."
     },
     {
      "surface": "śaktayo",
      "gloss": "powers",
-     "grounds": "noun with sandhi: śaktayaḥ",
-     "morph": "nom.pl.f"
+     "grounds": "operative capacities",
+     "morph": "nom.pl.f."
     },
     {
      "surface": "guṇarodhikāḥ",
      "gloss": "obstructing-qualities",
-     "grounds": "compound: guṇa + rodhikāḥ",
-     "morph": "compound: guṇa+quality, rodhikā+obstructing; nom.pl.f"
+     "grounds": "obstructing the soul’s qualities",
+     "morph": "compound: guṇa+rodhikā (nom.pl.f.)"
     }
    ],
-   "question": "How are the powers of impurity characterized in relation to each individual self?",
+   "question": "How are the powers of impurity distributed and what function do they perform for each soul?",
    "premises": [
-    "Impurity operates through powers.",
-    "These powers are fixed for each individual self.",
-    "These powers obstruct the self’s qualities."
+    "Impurity operates through distinct powers",
+    "These powers are fixed for each individual soul",
+    "Their function is to obstruct the soul’s qualities"
    ],
-   "inference": "Therefore, impurity’s powers are individually fixed and obstructive.",
+   "inference": "Therefore impurity has individually fixed powers that obstruct the qualities of each soul.",
    "uncertainties": [],
-   "plain_english": "And its powers, fixed for each individual self, obstruct the qualities."
+   "plain_english": "And its powers, fixed for each soul, obstruct the soul’s qualities."
   },
   {
    "verse": 217,
    "rows": [
     {
      "surface": "ātmaguṇasya",
-     "gloss": "of-the-self-quality",
-     "grounds": "compound: ātma + guṇasya",
-     "morph": "compound: ātman+self, guṇa+quality; gen.sg.m"
+     "gloss": "of-soul-quality",
+     "grounds": "quality belonging to the self",
+     "morph": "compound: ātman+guṇa (gen.sg.m.)"
     },
     {
      "surface": "jñānakriyātmano",
      "gloss": "of-knowledge-action-nature",
-     "grounds": "compound with sandhi: jñāna-kriyā-ātmanaḥ",
-     "morph": "compound: jñāna+knowledge, kriyā+action, ātman+nature; gen.sg.m"
+     "grounds": "whose nature is cognition and action",
+     "morph": "compound: jñāna+kriyā+ātman (gen.sg.m.)"
     },
     {
      "surface": "rodhikāḥ",
      "gloss": "obstructing",
-     "grounds": "adjective",
-     "morph": "nom.pl.f"
+     "grounds": "blocking or restraining",
+     "morph": "nom.pl.f."
     },
     {
      "surface": "etac",
      "gloss": "and-this",
-     "grounds": "demonstrative with sandhi: etat",
-     "morph": "nom.sg.nt"
+     "grounds": "sandhi: etat + ca; refers to the stated point",
+     "morph": "nom.sg.n. (sandhi before ca)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "prāg",
      "gloss": "previously",
-     "grounds": "adverb with sandhi: prāk",
+     "grounds": "earlier in the text or argument",
      "morph": "(indecl.)"
     },
     {
@@ -761,19 +761,19 @@
     {
      "surface": "darśitam",
      "gloss": "shown",
-     "grounds": "past participle",
-     "morph": "nom.sg.nt; past-participle of √dṛś"
+     "grounds": "already demonstrated",
+     "morph": "nom.sg.n. (past participle, caus. √dṛś)"
     }
    ],
-   "question": "What aspect of the self is obstructed by impurity’s powers according to prior demonstration?",
+   "question": "What specific soul qualities are obstructed by impurity’s powers according to prior demonstration?",
    "premises": [
-    "The self has qualities of knowledge and action.",
-    "Impurity’s powers are obstructive.",
-    "This obstruction has already been shown earlier."
+    "The soul’s essential qualities are cognition and action",
+    "Impurity’s powers obstruct these qualities",
+    "This point has already been shown earlier"
    ],
-   "inference": "Therefore, impurity obstructs the self’s knowledge-and-action qualities, as previously demonstrated.",
+   "inference": "Therefore the obstruction of the soul’s cognition-and-action qualities by impurity has been previously established.",
    "uncertainties": [],
-   "plain_english": "They obstruct the self’s quality, whose nature is knowledge and action; and this has indeed been shown previously."
+   "plain_english": "They obstruct the soul’s quality whose nature is knowledge and action; and this has indeed been shown previously."
   },
   {
    "verse": 218,
@@ -781,43 +781,43 @@
     {
      "surface": "anyathā",
      "gloss": "otherwise",
-     "grounds": "adverb",
+     "grounds": "if it were not so",
      "morph": "(indecl.)"
     },
     {
      "surface": "yugapanmuktiḥ",
      "gloss": "simultaneous-liberation",
-     "grounds": "compound: yugapat + muktiḥ",
-     "morph": "compound: yugapat+simultaneously, mukti+liberation; nom.sg.f"
+     "grounds": "liberation of all at once",
+     "morph": "compound: yugapat+mukti (nom.sg.f.)"
     },
     {
      "surface": "sarveṣāṃ",
      "gloss": "of-all",
-     "grounds": "pronoun adjective",
-     "morph": "gen.pl.m"
+     "grounds": "of every soul",
+     "morph": "gen.pl.m."
     },
     {
      "surface": "cidvatāṃ",
      "gloss": "of-conscious-beings",
-     "grounds": "compound: cit + vatām",
-     "morph": "compound: cit+consciousness, vat+possessing; gen.pl.m"
+     "grounds": "of those possessing consciousness",
+     "morph": "gen.pl.m."
     },
     {
      "surface": "bhavet",
      "gloss": "would-be",
-     "grounds": "optative verb",
-     "morph": "3.sg.act-optative; √bhū"
+     "grounds": "counterfactual result",
+     "morph": "3.sg.opt.act. √bhū"
     }
    ],
-   "question": "What unacceptable consequence would follow if impurity were not individually fixed?",
+   "question": "What undesirable consequence would follow if impurity were not individually fixed for each soul?",
    "premises": [
-    "Impurity’s obstruction is taken to be individually fixed.",
-    "If it were not so fixed, removal would affect all alike.",
-    "All conscious beings would then be liberated together."
+    "Impurity’s obstructing powers are held to be fixed per soul",
+    "If not fixed individually, removal would affect all alike",
+    "Liberation would then occur for all conscious beings simultaneously"
    ],
-   "inference": "Therefore, denying individual fixation would entail simultaneous liberation of all conscious beings.",
+   "inference": "Therefore impurity must be individually fixed to avoid simultaneous liberation of all.",
    "uncertainties": [],
-   "plain_english": "Otherwise, there would be simultaneous liberation for all conscious beings."
+   "plain_english": "Otherwise, all conscious beings would be liberated simultaneously."
   },
   {
    "verse": 219,
@@ -825,26 +825,26 @@
     {
      "surface": "ity",
      "gloss": "thus",
-     "grounds": "quotative particle with sandhi",
+     "grounds": "marks citation or conclusion",
      "morph": "(indecl.)"
     },
     {
      "surface": "ādi",
-     "gloss": "etcetera",
-     "grounds": "indeclinable noun",
-     "morph": "(indecl.)"
+     "gloss": "and-so-forth",
+     "grounds": "indicates continuation of citation",
+     "morph": "nom.sg.n."
     },
     {
      "surface": "śrīmatsvāyambhuvādiśruter",
-     "gloss": "from-revered-svāyambhuva-and-other-scripture",
-     "grounds": "compound: śrīmat-svāyambhuva-ādi-śruteḥ",
-     "morph": "compound: śrīmat+revered, svāyambhuva+svāyambhuva, ādi+etc, śruti+scripture; abl.sg.f"
+     "gloss": "from-revered-svāyambhuva-etc-scripture",
+     "grounds": "scriptural authority beginning with Svāyambhuva",
+     "morph": "compound: śrīmat+svāyambhuva+ādi+śruti (abl.sg.f.)"
     },
     {
      "surface": "āgantukā",
      "gloss": "adventitious",
-     "grounds": "adjective with sandhi: āgantukāḥ",
-     "morph": "nom.pl.f"
+     "grounds": "arising later, not intrinsic",
+     "morph": "nom.pl.f."
     },
     {
      "surface": "eva",
@@ -855,19 +855,19 @@
     {
      "surface": "jñeyāḥ",
      "gloss": "to-be-known",
-     "grounds": "gerundive",
-     "morph": "nom.pl.f; gerundive of √jñā"
+     "grounds": "must be understood as such",
+     "morph": "gerundive.nom.pl.f. √jñā"
     }
    ],
-   "question": "How should the modifications be understood according to the revered Svāyambhuva and other scriptures?",
+   "question": "How should the modifications mentioned in Svāyambhuva and related scripture be understood?",
    "premises": [
-    "The revered Svāyambhuva and other scriptures are cited as authority.",
-    "The modifications in question are under consideration.",
-    "Scriptural authority determines their status."
+    "Scriptural passages such as the Svāyambhuva are cited",
+    "These passages refer to certain modifications",
+    "The doctrinal conclusion qualifies their status"
    ],
-   "inference": "Therefore, these modifications are to be known as adventitious.",
+   "inference": "Therefore those modifications are to be known as adventitious.",
    "uncertainties": [],
-   "plain_english": "Thus, according to the revered Svāyambhuva and other scriptures, they are indeed to be known as adventitious."
+   "plain_english": "Thus, according to the revered Svāyambhuva and other scriptures, they are to be known as indeed adventitious."
   },
   {
    "verse": 220,
@@ -875,49 +875,49 @@
     {
      "surface": "vṛttayo",
      "gloss": "modifications",
-     "grounds": "noun with sandhi: vṛttayaḥ",
-     "morph": "nom.pl.f"
+     "grounds": "modes or fluctuations",
+     "morph": "nom.pl.f."
     },
     {
      "surface": "viṣayitvasya",
      "gloss": "of-object-directedness",
-     "grounds": "abstract noun",
-     "morph": "gen.sg.nt"
+     "grounds": "of the state of being directed to objects",
+     "morph": "gen.sg.n."
     },
     {
      "surface": "madādyāḥ",
      "gloss": "pride-and-others",
-     "grounds": "compound: mada + ādyāḥ",
-     "morph": "compound: mada+pride, ādi+etc; nom.pl.f"
+     "grounds": "mada and similar modifications",
+     "morph": "compound: mada+ādi (nom.pl.f.)"
     },
     {
      "surface": "pañca",
      "gloss": "five",
-     "grounds": "numeral",
-     "morph": "nom.pl.f"
+     "grounds": "a set of five",
+     "morph": "nom.pl.f."
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "ucitāḥ",
      "gloss": "proper",
-     "grounds": "adjective",
-     "morph": "nom.pl.f"
+     "grounds": "fitting or appropriate",
+     "morph": "nom.pl.f."
     }
    ],
-   "question": "Are the five modifications such as pride proper to object-directedness itself?",
+   "question": "Are the five modifications such as pride proper to the soul’s object-directedness?",
    "premises": [
-    "Object-directedness has associated modifications.",
-    "Pride and others are counted as five modifications.",
-    "Their propriety to object-directedness is questioned."
+    "Object-directedness is attributed to the soul",
+    "Five modifications beginning with pride are considered",
+    "Their intrinsic appropriateness to that state is questioned"
    ],
-   "inference": "Therefore, these five modifications are not proper to object-directedness itself.",
+   "inference": "Therefore the five modifications such as pride are not proper to object-directedness.",
    "uncertainties": [],
-   "plain_english": "The five modifications of object-directedness, such as pride and the rest, are not proper."
+   "plain_english": "The five modifications of object-directedness, beginning with pride, are not proper."
   },
   {
    "verse": 221,
@@ -931,25 +931,25 @@
     {
      "surface": "malopādānatayety",
      "gloss": "thus-by-being-material-cause-as-impurity",
-     "grounds": "compound with sandhi: mala-upādānatayā + iti",
-     "morph": "compound: mala+impurity, upādānatā+material-causeness, iti+thus; inst.sg.f"
+     "grounds": "compound with iti and sandhi; because impurity is the material cause",
+     "morph": "compound: mala+upādānatā (inst.sg.f.) + iti (indecl.)"
     },
     {
      "surface": "avirodhaḥ",
      "gloss": "non-contradiction",
-     "grounds": "compound: a + virodhaḥ",
-     "morph": "compound: a+non, virodha+contradiction; nom.sg.m"
+     "grounds": "absence of conflict",
+     "morph": "nom.sg.m."
     }
    ],
-   "question": "How can the presence of these modifications be reconciled without contradiction?",
+   "question": "How can the presence of those modifications be reconciled without contradiction?",
    "premises": [
-    "The modifications are not proper to object-directedness itself.",
-    "Impurity can be taken as their material cause.",
-    "A material-cause explanation removes contradiction."
+    "The modifications are not proper to the soul’s object-directedness itself",
+    "Impurity may serve as their material cause",
+    "A material-cause explanation can remove contradiction"
    ],
-   "inference": "Therefore, there is no contradiction if impurity is their material cause.",
+   "inference": "Therefore there is no contradiction if they are explained as having impurity as their material cause.",
    "uncertainties": [],
-   "plain_english": "But there is no contradiction, since impurity is their material cause."
+   "plain_english": "But there is no contradiction, since they have impurity as their material cause."
   },
   {
    "verse": 222,
@@ -957,41 +957,41 @@
     {
      "surface": "bhogasādhanasambandhād",
      "gloss": "from-connection-with-means-of-experience",
-     "grounds": "compound: bhoga-sādhana-sambandhāt",
-     "morph": "compound: bhoga+experience, sādhana+means, sambandha+connection; abl.sg.m"
+     "grounds": "due to association with instruments of experience",
+     "morph": "compound: bhoga+sādhana+sambandha (abl.sg.m.)"
     },
     {
      "surface": "vyajyanta",
      "gloss": "are-manifested",
-     "grounds": "passive verb",
-     "morph": "3.pl.pass-pres; vi-√añj"
+     "grounds": "become expressed or revealed",
+     "morph": "3.pl.impf.pass. vi+√añj"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotative particle",
+     "grounds": "marks the proposed explanation",
      "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "ucitam",
      "gloss": "proper",
-     "grounds": "adjective",
-     "morph": "nom.sg.nt"
+     "grounds": "fitting or correct",
+     "morph": "nom.sg.n."
     }
    ],
-   "question": "Is it proper to explain these modifications merely as manifested by connection with means of experience?",
+   "question": "Is it proper to explain these modifications merely as manifestations from connection with means of experience?",
    "premises": [
-    "One might claim the modifications are manifested by connection with means of experience.",
-    "Manifestation alone does not establish their proper source.",
-    "The explanation must be doctrinally adequate."
+    "One might claim the modifications are manifested through means of experience",
+    "This explanation treats them as externally revealed only",
+    "The verse evaluates that explanation as inadequate"
    ],
-   "inference": "Therefore, it is not proper to explain them merely by that connection.",
+   "inference": "Therefore it is not proper to explain them merely by connection with the means of experience.",
    "uncertainties": [],
    "plain_english": "It is not proper to say that they are manifested merely through connection with the means of experience."
   },
@@ -1001,26 +1001,26 @@
     {
      "surface": "bhavatā",
      "gloss": "by-you",
-     "grounds": "pronoun",
-     "morph": "inst.sg.m"
+     "grounds": "addressed to an opponent or interlocutor",
+     "morph": "inst.sg.m."
     },
     {
      "surface": "ntu",
      "gloss": "but",
-     "grounds": "contrastive particle with sandhi: tu",
+     "grounds": "contrastive particle (textual form as given)",
      "morph": "(indecl.)"
     },
     {
      "surface": "guṇavṛttibhyo",
-     "gloss": "from-modifications-of-qualities",
-     "grounds": "compound with sandhi: guṇa-vṛttibhyaḥ",
-     "morph": "compound: guṇa+quality, vṛtti+modification; abl.pl.f"
+     "gloss": "from-quality-modifications",
+     "grounds": "from modifications of the guṇas",
+     "morph": "compound: guṇa+vṛtti (abl.pl.f.)"
     },
     {
      "surface": "bhedena",
      "gloss": "by-difference",
-     "grounds": "noun",
-     "morph": "inst.sg.m"
+     "grounds": "as distinct",
+     "morph": "inst.sg.m."
     },
     {
      "surface": "eva",
@@ -1031,19 +1031,21 @@
     {
      "surface": "madādayaḥ",
      "gloss": "pride-and-others",
-     "grounds": "compound: mada + ādayaḥ",
-     "morph": "compound: mada+pride, ādi+etc; nom.pl.m"
+     "grounds": "mada and similar states",
+     "morph": "compound: mada+ādi (nom.pl.m.)"
     }
    ],
-   "question": "How must pride and the other modifications be distinguished from the modifications of the qualities?",
+   "question": "How does the opponent distinguish pride and similar states from the modifications of the guṇas?",
    "premises": [
-    "Pride and other modifications are under discussion.",
-    "Modifications of the qualities are a different category.",
-    "The opponent must distinguish these categories."
+    "Pride and similar states are under discussion",
+    "Modifications of the guṇas are another explanatory category",
+    "The opponent asserts a distinction between them"
    ],
-   "inference": "Therefore, pride and the others must be distinguished from the modifications of the qualities.",
-   "uncertainties": [],
-   "plain_english": "But by you, pride and the rest must indeed be distinguished from the modifications of the qualities."
+   "inference": "According to you, pride and the rest are indeed distinct from the modifications of the guṇas.",
+   "uncertainties": [
+    "The token 'ntu' is taken as a contrastive particle in this context."
+   ],
+   "plain_english": "But according to you, pride and the rest are indeed distinct from the modifications of the guṇas."
   },
   {
    "verse": 224,
@@ -1051,19 +1053,19 @@
     {
      "surface": "tāmasau",
      "gloss": "two-tāmasa",
-     "grounds": "adjective",
-     "morph": "nom.du.m"
+     "grounds": "two belonging to tamas",
+     "morph": "nom.du.m."
     },
     {
      "surface": "sāttvikaś",
      "gloss": "one-sāttvika",
-     "grounds": "adjective with sandhi: sāttvikaḥ",
-     "morph": "nom.sg.m"
+     "grounds": "one belonging to sattva",
+     "morph": "nom.sg.m. (sandhi: sāttvikaḥ)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
@@ -1075,31 +1077,31 @@
     {
      "surface": "rājasau",
      "gloss": "two-rājasa",
-     "grounds": "adjective",
-     "morph": "nom.du.m"
+     "grounds": "two belonging to rajas",
+     "morph": "nom.du.m."
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "connective particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "yathākramam",
      "gloss": "in-due-order",
-     "grounds": "compound: yathā + kramam",
-     "morph": "compound: yathā+as, krama+order; (indecl.)"
+     "grounds": "according to sequence",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "In what order are the five modifications classified according to the three qualities?",
+   "question": "How are the five modifications classified according to the three guṇas in sequence?",
    "premises": [
-    "The modifications are five in number.",
-    "They are classified by the qualities tāmasa, sāttvika, and rājasa.",
-    "The classification follows a specific order."
+    "Five modifications are under discussion",
+    "They are distributed among tamas, sattva, and rajas",
+    "The distribution follows a specific order"
    ],
-   "inference": "Therefore, the five modifications are ordered as two tāmasa, one sāttvika, and two rājasa.",
+   "inference": "Therefore the five modifications are classified in order as two tāmasa, one sāttvika, and two rājasa.",
    "uncertainties": [],
-   "plain_english": "In due order, they are two tāmasa, one sāttvika, and two rājasa."
+   "plain_english": "In due order, two are tāmasa, one is sāttvika, and two are rājasa."
   }
  ]
 }

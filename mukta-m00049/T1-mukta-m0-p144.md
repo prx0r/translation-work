@@ -5,73 +5,73 @@
 [root](mūlam) [only](atra) [mantra](manum) [I-shall-speak](vakṣye) [of-Maheśa](maheśasya) [of-the-great-souled-one](mahātmanaḥ)
 
 ## mukta-m0-p144-v3577
-[adorned-with](ardhendubindubhūṣāḍhyam) [the-auspicious-seed-of-Śiva](śivabījam) [is-proclaimed](prakīrtitam)
+[adorned-with](ardhendubindubhūṣāḍhyam) [Śiva-bīja](śivabījam) [is-proclaimed](prakīrtitam)
 
 ## mukta-m0-p144-v3578
 [having-placed](niveśya) [on-the-divine-bed](divyaśayyāyām) [the-goddess](devīm) [thus](evam) [should-purify](viśodhayet)
 
 ## mukta-m0-p144-v3579
-[by-means-of-Māyā](māyayā) [here](atra) [hand-nyāsa](karanyāsaḥ) [should-perform](samācaret) [prāṇāyāma](prāṇāyāmam)
+[by-māyā](māyayā) [here](atra) [hand-nyāsa](karanyāsaḥ) [should-perform](samācaret) [prāṇāyāma](prāṇāyāmam)
 
 ## mukta-m0-p144-v3580
-[by-means-of-Māyā](māyayā) [by-Hrī](hrī) [by-the-seed](bījena)
+[by-māyā](māyayā) [hrī](hrī) [by-the-bīja](bījena)
 
 ## mukta-m0-p144-v3581
-[full-breasted-and-high-bosomed](pīnottuṅgapayodharām) [fear-removing](bhayaharām) [yellow-robed](pītāmbarām) [should-meditate-upon](cintaye)
+[full-breasted-and-high-bosomed](pīnottuṅgapayodharām) [fear-removing](bhayaharām) [yellow-robed](pītāmbarām) [should-contemplate](cintaye)
 
 ## mukta-m0-p144-v3582
-[thereafter](tataḥ) [the-ten-guardians-of-the-quarters](daśa+dikpālān) [and-the-bull](vṛṣabhañca) [should-worship](samarcayet)
+[then](tataḥ) [the-ten](daśa) [guardians-of-the-quarters](dikpālān) [and-the-bull](vṛṣabhañca) [should-worship](samarcayet)
 
 ## mukta-m0-p144-v3583
-[of-the-Goddess](bhagavatyāḥ) [the-mantra](manum) [I-shall-speak](vakṣye) [by-which](yena) [the-all-pervading-one](jaganmayī) [is-to-be-worshipped](arādhyā)
+[of-the-goddess](bhagavatyāḥ) [the-mantra](manum) [I-shall-speak](vakṣye) [by-which](yena) [the-all-pervading-one](jaganmayī) [is-to-be-worshipped](arādhyā)
 
 ## mukta-m0-p144-v3584
-[joined-with-a-bindu](binduyuktam) [at-its-end](tadante) [ca](ca) [one-should-join](yojayet) [the-beloved-of-Fire](vahnivallabhām)
+[joined-with-a-bindhu](binduyuktam) [at-its-end](tadante) [ca](ca) [should-join](yojayet) [the-beloved-of-fire](vahnivallabhām)
 
 ## mukta-m0-p144-v3585
 [mixed-with-curds](dadhiyuktam) [rice-and-beans](āṣabhaktam) [together-with-sugar](śarkarādisamanvitam)
 
 ## mukta-m0-p144-v3586
-[having-worshipped](saṃpūjya) [with-fragrance-and-flowers](gandhapuṣpābhyām) [with-this-mantra](mantreṇa+anena) [should-offer](carpayet)
+[having-worshipped](saṃpūjya) [with-fragrance-and-flowers](gandhapuṣpābhyām) [with-this](anena) [mantra](mantreṇa) [should-offer](carpayet)
 
 ## mukta-m0-p144-v3587
-[the-piśācas](piśācāḥ) [the-mothers](mātaraḥ) [the-yakṣas](yakṣāḥ) [the-bhūtas](bhūtāśca) [and-the-pitṛs](pitarastathā)
+[piśācas](piśācāḥ) [mothers](mātaraḥ) [yakṣas](yakṣāḥ) [bhūtas](bhūtāśca) [and-pitṛs](pitarastathā)
 
 ## mukta-m0-p144-v3588
-[having-surrounded](parivārya) [the-great-god](mahādevam) [may-they-stand](tiṣṭhantu) [and-Girijā-also](girijāmapi)
+[having-surrounded](parivārya) [Mahādeva](mahādevam) [may-stand](tiṣṭhantu) [and-Girijā](girijāmapi)
 
 ## mukta-m0-p144-v3589
-[with-song-music-etc.](gītavādyādibhiḥ) [with-auspicious](sadbhiḥ) [should-perform](vidadhyāt) [an-auspicious-rite](maṅgalakriyām)
+[with-song-music-etc](gītavādyādibhiḥ) [with-auspicious](sadbhiḥ) [should-perform](vidadhyāt) [auspicious-rites](maṅgalakriyām)
 
 ## mukta-m0-p144-v3590
-[a-resolve](saṃkalpam) [according-to-rule](vidhivat) [having-made](kṛtvā) [the-five-gods](pañca+devān) [should-worship](prapūjayet)
+[a-resolve](saṃkalpam) [according-to-rule](vidhivat) [having-made](kṛtvā) [the-five](pañca) [gods](devān) [should-worship](prapūjayet)
 
 ## mukta-m0-p144-v3591
-[svāhā](svāhā) [thus](iti) [the-mantra-is-formed](mantro+jātaḥ) [thānta](thāntam) [here](iti+atra) [sānta](sāntam) [thus](iti) [in-some-texts](vākvacit)
+[svāhā](svāhā) [iti](iti) [the-mantra](mantro) [is-born](jātaḥ) [thānta](thāntam) [iti](iti) [atra](atra) [sānta](sāntam) [iti](iti) [in-some-text](vākvacit)
 
 ## mukta-m0-p144-v3592
 [rice-and-beans](māṣabhaktam) [the-oblation-to-all-gods](sarvadevabalim) [should-remove](hareḥ) [should-offer](dadyāt)
 
 ## mukta-m0-p144-v3593
-[thus-etc.](ityādikam) [fifty](50)
+[thus-etc](ityādikam) [50](50)
 
 ## mukta-m0-p144-v3594
-[this](enam) [hrī](hrī) [śrī](śrī) [dū](dū) [svāhā](svāhā) [this](imam)
+[this](enam) [hrī](hrī) [śrī](śrī) [dū](dū) [svāhā](svāhā) [iti](iti) [imam](imam)
 
 ## mukta-m0-p144-v3595
-[the-door-keepers-of-Maheśa](maheśadvārapālān) [ca](ca) [should-worship](yajet) [with-devotion](bhaktyā) [self-collected](samāhitaḥ)
+[the-door-guardians-of-Maheśa](maheśadvārapālān) [ca](ca) [should-worship](yajet) [with-devotion](bhaktyā) [collected-in-mind](samāhitaḥ)
 
 ## mukta-m0-p144-v3596
-[the-door-keepers](dvārapālāḥ) [of-Śiva](śivasya) [these](ete) [all](sarve) [with-weapons-and-missiles-in-hand](śastrāstrapāṇayaḥ)
+[the-door-guardians](dvārapālāḥ) [of-Śiva](śivasya) [these](ete) [all](sarve) [with-weapons-and-missiles-in-hand](śastrāstrapāṇayaḥ)
 
 ## mukta-m0-p144-v3597
-[in-the-maṇḍala](maṇḍale) [sarvatobhadra](sarvatobhadre) [should-install](sthāpayedvā) [on-an-auspicious-seat](śubhāsane)
+[in-the-maṇḍala](maṇḍale) [Sarvatobhadra](sarvatobhadre) [should-install](sthāpayed) [or](vā) [on-an-auspicious-seat](śubhāsane)
 
 ## mukta-m0-p144-v3598
-[having-bathed](snāpayitvā) [should-worship](arcayet) [with-devotion](bhaktyā) [with-sixteen-upacāras](ṣoḍaśaiḥ+upacārakaiḥ)
+[having-bathed](snāpayitvā) [should-worship](arcayet) [with-devotion](bhaktyā) [with-sixteen](ṣoḍaśaiḥ) [upacāras](upacārakaiḥ)
 
 ## mukta-m0-p144-v3599
-[with-folded-hands](kṛtāñjalipuṭaḥ) [the-pious-one](sādhuḥ) [should-pray](prārthayet) [to-Śaṅkara](śaṅkaram) [Śiva](śivam)
+[with-folded-hands](kṛtāñjalipuṭaḥ) [the-devout-one](sādhuḥ) [should-pray](prārthayet) [to-Śaṅkara](śaṅkaram) [Śiva](śivam)
 
 ## mukta-m0-p144-v3600
-[O-holder-of-Pināka](pinākapāṇe) [O-lord-of-all](sarveśa) [O-great-god](mahādeva) [obeisance](namaḥ) [to-thee](astu+te)
+[O-holder-of-Pināka](pinākapāṇe) [O-Lord-of-all](sarveśa) [O-Mahādeva](mahādeva) [obeisance](namaḥ) [be](astu) [to-thee](te)

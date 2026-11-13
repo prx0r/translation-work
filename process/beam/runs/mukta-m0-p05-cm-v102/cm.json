@@ -3,29 +3,49 @@
  "verse": 102,
  "rows": [
   {
-   "lemma": "prasthitānāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "refers to persons setting out"
+   "lemma": "satyāṃ",
+   "morph": "f.loc.sg",
+   "grounds": "locative absolute with sthitau"
+  },
+  {
+   "lemma": "sthitau",
+   "morph": "f.loc.sg",
+   "grounds": "state of persistence"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "saṃhāraṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object negated in state of maintenance"
+  },
+  {
+   "lemma": "saṃhāre",
+   "morph": "m.loc.sg",
+   "grounds": "locative absolute with implied satya"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunction"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "connective"
   },
   {
-   "lemma": "karaṇe",
-   "morph": "n.loc.sg",
-   "grounds": "locative indicating the act or procedure"
-  },
-  {
-   "lemma": "mantreṇā+anena",
-   "morph": "m.inst.sg+pron.inst.sg",
-   "grounds": "fused instrumental forms with sandhi"
-  },
-  {
-   "lemma": "mantravit",
-   "morph": "m.nom.sg",
-   "grounds": "ritual expert who knows the mantra"
+   "lemma": "sthitim",
+   "morph": "f.acc.sg",
+   "grounds": "object negated in state of dissolution"
   }
  ]
 }

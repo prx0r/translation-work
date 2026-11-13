@@ -12,7 +12,7 @@
 },
 {
 "surface": "setu",
-"quick_gloss": "dam"
+"quick_gloss": "bridge"
 },
 {
 "surface": "saṃkrāma",
@@ -107,7 +107,7 @@
 },
 {
 "surface": "apratiṣṭhite",
-"quick_gloss": "in-uninstalled"
+"quick_gloss": "in-unestablished"
 },
 {
 "surface": "deve",
@@ -140,7 +140,7 @@
 },
 {
 "surface": "pratiṣṭhitā",
-"quick_gloss": "installed"
+"quick_gloss": "established"
 },
 {
 "surface": "devī",
@@ -218,7 +218,7 @@
 },
 {
 "surface": "sannidhiṃ",
-"quick_gloss": "proximity"
+"quick_gloss": "vicinity"
 },
 {
 "surface": "vrajet",
@@ -250,7 +250,7 @@
 "quick_gloss": "should-bathe"
 },
 {
-"surface": "sādhaka+uttamaḥ",
+"surface": "sādhakottamaḥ",
 "quick_gloss": "best-practitioner"
 }
 ]
@@ -264,7 +264,7 @@
 "tokens": [
 {
 "surface": "veśyā",
-"quick_gloss": "with-courtesan"
+"quick_gloss": "with-prostitute"
 },
 {
 "surface": "dvāra",
@@ -305,7 +305,7 @@
 "tokens": [
 {
 "surface": "kārayitvā",
-"quick_gloss": "having-caused"
+"quick_gloss": "having-caused-to-make"
 },
 {
 "surface": "gandha",
@@ -345,12 +345,16 @@
 "quick_gloss": "beginning-with"
 },
 {
-"surface": "tat+dine",
+"surface": "taddine",
 "quick_gloss": "on-that-day"
 },
 {
-"surface": "śrīmat+ādyā",
-"quick_gloss": "of-the-venerable-Ādyā"
+"surface": "śrīmat",
+"quick_gloss": "glorious"
+},
+{
+"surface": "ādyā",
+"quick_gloss": "Ādyā"
 },
 {
 "surface": "pratiṣṭhā",
@@ -370,7 +374,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "herambaḥ",
+"surface": "herambo",
 "quick_gloss": "Heramba"
 },
 {
@@ -412,7 +416,7 @@
 "quick_gloss": "beginning-with"
 },
 {
-"surface": "272",
+"surface": "|| 272",
 "quick_gloss": "272"
 }
 ]
@@ -446,7 +450,7 @@
 },
 {
 "surface": "bhūruhāḥ",
-"quick_gloss": "tree-born"
+"quick_gloss": "trees"
 }
 ]
 },
@@ -483,7 +487,7 @@
 },
 {
 "surface": "prakīrtitam",
-"quick_gloss": "is-declared"
+"quick_gloss": "proclaimed"
 }
 ]
 },
@@ -507,16 +511,16 @@
 "quick_gloss": "bilva"
 },
 {
-"surface": "tri",
-"quick_gloss": "three"
+"surface": "patra",
+"quick_gloss": "leaf"
 },
 {
-"surface": "patram",
-"quick_gloss": "leaves"
+"surface": "trayam",
+"quick_gloss": "triad"
 },
 {
 "surface": "udāhṛtam",
-"quick_gloss": "is-stated"
+"quick_gloss": "declared"
 }
 ]
 },
@@ -532,7 +536,7 @@
 "quick_gloss": "in-pañcāmṛta"
 },
 {
-"surface": "gandha+taile",
+"surface": "gandhataile",
 "quick_gloss": "in-fragrant-oil"
 },
 {
@@ -557,7 +561,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "etat+dravyasya",
+"surface": "etaddravyasya",
 "quick_gloss": "of-this-substance"
 },
 {
@@ -569,7 +573,7 @@
 "quick_gloss": "I-bathe"
 },
 {
-"surface": "namaḥ",
+"surface": "namo",
 "quick_gloss": "obeisance"
 },
 {
@@ -586,7 +590,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kava+uṣṇa",
+"surface": "kavoṣṇa",
 "quick_gloss": "with-lukewarm"
 },
 {
@@ -623,7 +627,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śāli+tāṇḍula",
+"surface": "śālītaṇḍula",
 "quick_gloss": "with-śāli-rice"
 },
 {
@@ -648,8 +652,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "iti+apekṣāyām",
-"quick_gloss": "in-expectation-of-this"
+"surface": "ityapekṣāyām",
+"quick_gloss": "in-this-expectation"
 },
 {
 "surface": "āha",
@@ -677,16 +681,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sammārjita+aṅgīṃ",
-"quick_gloss": "with-wiped-limbs"
+"surface": "sammārjita",
+"quick_gloss": "wiped"
+},
+{
+"surface": "aṅgīṃ",
+"quick_gloss": "limbed"
 },
 {
 "surface": "pratimāṃ",
 "quick_gloss": "image"
 },
 {
-"surface": "pūjā+sthānaṃ",
-"quick_gloss": "to-worship-place"
+"surface": "pūjā",
+"quick_gloss": "worship"
+},
+{
+"surface": "sthānaṃ",
+"quick_gloss": "place"
 },
 {
 "surface": "samānayet",
@@ -718,7 +730,7 @@
 "quick_gloss": "with-devotion"
 },
 {
-"surface": "sādhaka+sattamaḥ",
+"surface": "sādhakasattamaḥ",
 "quick_gloss": "best-practitioner"
 }
 ]
@@ -751,7 +763,7 @@
 "quick_gloss": "one-should-pray"
 },
 {
-"surface": "vihita+añjaliḥ",
+"surface": "vihitāñjaliḥ",
 "quick_gloss": "with-folded-hands"
 }
 ]

@@ -45,7 +45,7 @@
 },
 {
 "surface": "śivabījam",
-"quick_gloss": "the-auspicious-seed-of-Śiva"
+"quick_gloss": "Śiva-bīja"
 },
 {
 "surface": "prakīrtitam",
@@ -91,7 +91,7 @@
 "tokens": [
 {
 "surface": "māyayā",
-"quick_gloss": "by-means-of-Māyā"
+"quick_gloss": "by-māyā"
 },
 {
 "surface": "atra",
@@ -120,15 +120,15 @@
 "tokens": [
 {
 "surface": "māyayā",
-"quick_gloss": "by-means-of-Māyā"
+"quick_gloss": "by-māyā"
 },
 {
 "surface": "hrī",
-"quick_gloss": "by-Hrī"
+"quick_gloss": "hrī"
 },
 {
 "surface": "bījena",
-"quick_gloss": "by-the-seed"
+"quick_gloss": "by-the-bīja"
 }
 ]
 },
@@ -153,7 +153,7 @@
 },
 {
 "surface": "cintaye",
-"quick_gloss": "should-meditate-upon"
+"quick_gloss": "should-contemplate"
 }
 ]
 },
@@ -166,11 +166,15 @@
 "tokens": [
 {
 "surface": "tataḥ",
-"quick_gloss": "thereafter"
+"quick_gloss": "then"
 },
 {
-"surface": "daśa+dikpālān",
-"quick_gloss": "the-ten-guardians-of-the-quarters"
+"surface": "daśa",
+"quick_gloss": "the-ten"
+},
+{
+"surface": "dikpālān",
+"quick_gloss": "guardians-of-the-quarters"
 },
 {
 "surface": "vṛṣabhañca",
@@ -191,7 +195,7 @@
 "tokens": [
 {
 "surface": "bhagavatyāḥ",
-"quick_gloss": "of-the-Goddess"
+"quick_gloss": "of-the-goddess"
 },
 {
 "surface": "manum",
@@ -224,7 +228,7 @@
 "tokens": [
 {
 "surface": "binduyuktam",
-"quick_gloss": "joined-with-a-bindu"
+"quick_gloss": "joined-with-a-bindhu"
 },
 {
 "surface": "tadante",
@@ -236,11 +240,11 @@
 },
 {
 "surface": "yojayet",
-"quick_gloss": "one-should-join"
+"quick_gloss": "should-join"
 },
 {
 "surface": "vahnivallabhām",
-"quick_gloss": "the-beloved-of-Fire"
+"quick_gloss": "the-beloved-of-fire"
 }
 ]
 },
@@ -281,8 +285,12 @@
 "quick_gloss": "with-fragrance-and-flowers"
 },
 {
-"surface": "mantreṇa+anena",
-"quick_gloss": "with-this-mantra"
+"surface": "anena",
+"quick_gloss": "with-this"
+},
+{
+"surface": "mantreṇa",
+"quick_gloss": "mantra"
 },
 {
 "surface": "carpayet",
@@ -299,23 +307,23 @@
 "tokens": [
 {
 "surface": "piśācāḥ",
-"quick_gloss": "the-piśācas"
+"quick_gloss": "piśācas"
 },
 {
 "surface": "mātaraḥ",
-"quick_gloss": "the-mothers"
+"quick_gloss": "mothers"
 },
 {
 "surface": "yakṣāḥ",
-"quick_gloss": "the-yakṣas"
+"quick_gloss": "yakṣas"
 },
 {
 "surface": "bhūtāśca",
-"quick_gloss": "the-bhūtas"
+"quick_gloss": "bhūtas"
 },
 {
 "surface": "pitarastathā",
-"quick_gloss": "and-the-pitṛs"
+"quick_gloss": "and-pitṛs"
 }
 ]
 },
@@ -332,15 +340,15 @@
 },
 {
 "surface": "mahādevam",
-"quick_gloss": "the-great-god"
+"quick_gloss": "Mahādeva"
 },
 {
 "surface": "tiṣṭhantu",
-"quick_gloss": "may-they-stand"
+"quick_gloss": "may-stand"
 },
 {
 "surface": "girijāmapi",
-"quick_gloss": "and-Girijā-also"
+"quick_gloss": "and-Girijā"
 }
 ]
 },
@@ -353,7 +361,7 @@
 "tokens": [
 {
 "surface": "gītavādyādibhiḥ",
-"quick_gloss": "with-song-music-etc."
+"quick_gloss": "with-song-music-etc"
 },
 {
 "surface": "sadbhiḥ",
@@ -365,7 +373,7 @@
 },
 {
 "surface": "maṅgalakriyām",
-"quick_gloss": "an-auspicious-rite"
+"quick_gloss": "auspicious-rites"
 }
 ]
 },
@@ -389,8 +397,12 @@
 "quick_gloss": "having-made"
 },
 {
-"surface": "pañca+devān",
-"quick_gloss": "the-five-gods"
+"surface": "pañca",
+"quick_gloss": "the-five"
+},
+{
+"surface": "devān",
+"quick_gloss": "gods"
 },
 {
 "surface": "prapūjayet",
@@ -411,19 +423,27 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
-"surface": "mantro+jātaḥ",
-"quick_gloss": "the-mantra-is-formed"
+"surface": "mantro",
+"quick_gloss": "the-mantra"
+},
+{
+"surface": "jātaḥ",
+"quick_gloss": "is-born"
 },
 {
 "surface": "thāntam",
 "quick_gloss": "thānta"
 },
 {
-"surface": "iti+atra",
-"quick_gloss": "here"
+"surface": "iti",
+"quick_gloss": "iti"
+},
+{
+"surface": "atra",
+"quick_gloss": "atra"
 },
 {
 "surface": "sāntam",
@@ -431,11 +451,11 @@
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "iti"
 },
 {
 "surface": "vākvacit",
-"quick_gloss": "in-some-texts"
+"quick_gloss": "in-some-text"
 }
 ]
 },
@@ -473,11 +493,11 @@
 "tokens": [
 {
 "surface": "ityādikam",
-"quick_gloss": "thus-etc."
+"quick_gloss": "thus-etc"
 },
 {
 "surface": "50",
-"quick_gloss": "fifty"
+"quick_gloss": "50"
 }
 ]
 },
@@ -509,8 +529,12 @@
 "quick_gloss": "svāhā"
 },
 {
+"surface": "iti",
+"quick_gloss": "iti"
+},
+{
 "surface": "imam",
-"quick_gloss": "this"
+"quick_gloss": "imam"
 }
 ]
 },
@@ -523,7 +547,7 @@
 "tokens": [
 {
 "surface": "maheśadvārapālān",
-"quick_gloss": "the-door-keepers-of-Maheśa"
+"quick_gloss": "the-door-guardians-of-Maheśa"
 },
 {
 "surface": "ca",
@@ -539,7 +563,7 @@
 },
 {
 "surface": "samāhitaḥ",
-"quick_gloss": "self-collected"
+"quick_gloss": "collected-in-mind"
 }
 ]
 },
@@ -552,7 +576,7 @@
 "tokens": [
 {
 "surface": "dvārapālāḥ",
-"quick_gloss": "the-door-keepers"
+"quick_gloss": "the-door-guardians"
 },
 {
 "surface": "śivasya",
@@ -585,11 +609,15 @@
 },
 {
 "surface": "sarvatobhadre",
-"quick_gloss": "sarvatobhadra"
+"quick_gloss": "Sarvatobhadra"
 },
 {
-"surface": "sthāpayedvā",
+"surface": "sthāpayed",
 "quick_gloss": "should-install"
+},
+{
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "śubhāsane",
@@ -617,8 +645,12 @@
 "quick_gloss": "with-devotion"
 },
 {
-"surface": "ṣoḍaśaiḥ+upacārakaiḥ",
-"quick_gloss": "with-sixteen-upacāras"
+"surface": "ṣoḍaśaiḥ",
+"quick_gloss": "with-sixteen"
+},
+{
+"surface": "upacārakaiḥ",
+"quick_gloss": "upacāras"
 }
 ]
 },
@@ -635,7 +667,7 @@
 },
 {
 "surface": "sādhuḥ",
-"quick_gloss": "the-pious-one"
+"quick_gloss": "the-devout-one"
 },
 {
 "surface": "prārthayet",
@@ -664,18 +696,22 @@
 },
 {
 "surface": "sarveśa",
-"quick_gloss": "O-lord-of-all"
+"quick_gloss": "O-Lord-of-all"
 },
 {
 "surface": "mahādeva",
-"quick_gloss": "O-great-god"
+"quick_gloss": "O-Mahādeva"
 },
 {
 "surface": "namaḥ",
 "quick_gloss": "obeisance"
 },
 {
-"surface": "astu+te",
+"surface": "astu",
+"quick_gloss": "be"
+},
+{
+"surface": "te",
 "quick_gloss": "to-thee"
 }
 ]

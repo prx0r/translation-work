@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "yatas",
+     "gloss": "because",
+     "grounds": "causal indeclinable introducing reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-those",
+     "grounds": "demonstrative pronoun referring to previously mentioned entities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kālādīnāṃ",
+     "gloss": "of-time-and-others",
+     "grounds": "bahuvrihi or tatpuruṣa compound with ādi indicating a series beginning with kāla",
+     "morph": "kāla+ādi, m.gen.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "instrumental expressing manner or order",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "uparyavasthitāḥ",
+     "gloss": "situated-above",
+     "grounds": "compound of upari and avasthita indicating higher position",
+     "morph": "upari+avasthita, m.nom.pl"
+    }
+   ],
+   "question": "Why do the powers beginning with time remain beyond the control of those below?",
+   "premises": [
+    "The entities beginning with time occupy positions in a hierarchical sequence.",
+    "These entities are situated above the level of those seeking control.",
+    "What is situated above in sequence cannot be subordinated by what is below."
+   ],
+   "inference": "Therefore, the powers beginning with time remain beyond control.",
+   "uncertainties": [
+    "The exact referent of teṣāṃ depends on the preceding verses' context."
+   ],
+   "plain_english": "Because those powers, beginning with time, are situated above in due sequence."
+  }
+ ]
+}

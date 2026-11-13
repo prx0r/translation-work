@@ -1,0 +1,94 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p01",
+ "work": "mukta-m00006",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v12 ratio=0.895",
+  "ALIGN_NODISP v14 ratio=0.880",
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 4 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "caa9e91f4dc31281",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 189
+ },
+ "align": {
+  "min_ratio": 0.88,
+  "sub090": {
+   "12": {
+    "ratio": 0.895,
+    "disposition": null
+   },
+   "14": {
+    "ratio": 0.88,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 58,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "siddhasādhyatā tatra dṛṣṭe sati nādṛṣṭakalpanā yukteti",
+   "saṃbandhamātrasya bhāvāt kalādikāryakaraṇotpāde satyanirmokṣaprasaṅgaḥ"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "t1[mukta-m0-p01-v13]: history[] entries need {gloss, reason, date}",
+   "t1[mukta-m0-p01-v14]: history[] entries need {gloss, reason, date}",
+   "l2[mukta-m0-p01-v9]: cite part not byte-exact in source: siddhasādhyatā tatra dṛṣṭe sati nādṛṣṭakalpanā yukteti",
+   "l2[mukta-m0-p01-v12]: cite part not byte-exact in source: saṃbandhamātrasya bhāvāt kalādikāryakaraṇotpāde satyanirmokṣ"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 189,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v12",
+  "fix: word-order/gloss vs source for v14"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "e3d807e89ef07b5e27262524a5bd7687fa7e1727f052e8defb140a6101d5506e",
+  "l0": "e194861842d80cc2bf9a40e92689707e3212ee324ca6b09afb605ae6a9a0dbd1",
+  "argmap": "06128b14752934849e7e24b9654dd4e60f8875f29416a44c833d29abedcc475a",
+  "l2": "a164738046a198c69cdaf89585c5c2a40adaca613f454842c5235294dd9466e5",
+  "c1": "1e685546e52ced050395e408330274e878443a69f0b43c9a1a93c5e1e46a1ff5"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "caa9e91f4dc31281",
+  "t1": "mukta-m0-p01/data/mukta-m0-p01.t1.json",
+  "l0": "mukta-m0-p01/data/mukta-m0-p01.l0.json",
+  "l2": "mukta-m0-p01/data/mukta-m0-p01.l2.json",
+  "c1": "mukta-m0-p01/data/mukta-m0-p01.c1.json"
+ }
+}

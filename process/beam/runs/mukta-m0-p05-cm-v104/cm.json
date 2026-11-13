@@ -3,29 +3,34 @@
  "verse": 104,
  "rows": [
   {
-   "lemma": "gṛhacaṭakasya",
+   "lemma": "cetanācetanāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "compound: cetana+acetana; all entities"
+  },
+  {
+   "lemma": "sarve",
+   "morph": "m.nom.pl",
+   "grounds": "universal quantifier"
+  },
+  {
+   "lemma": "vaśyās",
+   "morph": "m.nom.pl",
+   "grounds": "subject to control"
+  },
+  {
+   "lemma": "tasya",
    "morph": "m.gen.sg",
-   "grounds": "source of one ingredient"
+   "grounds": "refers to Śiva as controller"
   },
   {
-   "lemma": "viṣṭhā",
-   "morph": "f.nom.sg",
-   "grounds": "ritual ingredient"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "quotation or conclusion marker"
   },
   {
-   "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "adds another ingredient in the same manner"
-  },
-  {
-   "lemma": "karañjabījakam",
+   "lemma": "niścitam",
    "morph": "n.nom.sg",
-   "grounds": "second ritual ingredient"
+   "grounds": "established conclusion"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 109,
- "question": "Against whom may the salt consecrated a hundred times be used?",
+ "question": "Why is this level placed below the power of Rudra in the hierarchy?",
  "premises": [
-  "The salt is consecrated a hundred times.",
-  "The target may be an enemy.",
-  "The target may be anyone at all."
+  "Rudra's power occupies a higher position.",
+  "This level is produced and impelled.",
+  "Produced and impelled entities are subordinate."
  ],
- "inference": "The hundred-times consecrated salt may be used against an enemy or anyone whatsoever.",
- "uncertainties": [],
- "plain_english": "Consecrated a hundred times, it may be used against an enemy or anyone at all."
+ "inference": "Because it is produced and impelled, this level is situated below Rudra's power.",
+ "uncertainties": [
+  "Exact referent of 'this' depends on preceding context."
+ ],
+ "plain_english": "But because it is produced and also impelled, this is below the power of Rudra."
 }
