@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p47",
  "verse": 1165,
- "question": "How is Kahola characterized when he receives the instruction to practice?",
+ "question": "How does the figure captivate the attention of the cowherd women?",
  "premises": [
-  "Kahola was thus commanded.",
-  "He is described as a sage skilled in the Veda."
+  "The figure uses eyes with smiling hints",
+  "The gaze drinks in attention",
+  "The cowherd women are the focus"
  ],
- "inference": "The Veda-skilled sage Kahola received the command to practice.",
- "uncertainties": [],
- "plain_english": "Thus commanded was Kahola, that sage skilled in the Veda."
+ "inference": "With eyes full of smiling hints, the figure captivates the attention of the cowherd women.",
+ "uncertainties": [
+  "gopāṃ and compound segmentation are uncertain"
+ ],
+ "plain_english": "With eyes full of smiling hints, drawing the attention of the group of cowherd women."
 }

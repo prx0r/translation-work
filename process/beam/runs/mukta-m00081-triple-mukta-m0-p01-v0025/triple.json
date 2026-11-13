@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "tasyecchā",
+     "gloss": "of-that-will",
+     "grounds": "sandhi fusion of tasya and icchā; refers to the will of that agent",
+     "morph": "tad.m.gen.sg + icchā.f.nom.sg"
+    },
+    {
+     "surface": "kāryatāṃ",
+     "gloss": "state-of-being-effected",
+     "grounds": "abstract condition of becoming an effect or object of action",
+     "morph": "kāryatā.f.acc.sg"
+    },
+    {
+     "surface": "yātā",
+     "gloss": "having-attained",
+     "grounds": "past participle indicating attainment of a state",
+     "morph": "yā.past-part.f.nom.sg"
+    },
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun referring to the will as instrumental cause",
+     "morph": "yad.f.inst.sg"
+    },
+    {
+     "surface": "secchaḥ",
+     "gloss": "that-will",
+     "grounds": "sandhi fusion of saḥ and icchaḥ; identifies the arisen will",
+     "morph": "tad.m.nom.sg + icchā.f.nom.sg"
+    },
+    {
+     "surface": "sa jāyate",
+     "gloss": "that-arises",
+     "grounds": "fused token expressing the arising or birth of that will",
+     "morph": "tad.m.nom.sg + jan.3.sg.pres.middle"
+    }
+   ],
+   "question": "How does will attain effectuation and thereby bring itself into arising?",
+   "premises": [
+    "A prior will belongs to the agent in the sequence of action.",
+    "That will attains the state of being effectuated.",
+    "By that same will, the will arises as an operative impulse."
+   ],
+   "inference": "Will functions both as what becomes effectuated and as the means by which operative will comes into being.",
+   "uncertainties": [
+    "The exact referent of tasya may be the agent or a preceding mental state."
+   ],
+   "plain_english": "When that will reaches the state of being carried out, it is by that will that the operative will comes into being."
+  }
+ ]
+}

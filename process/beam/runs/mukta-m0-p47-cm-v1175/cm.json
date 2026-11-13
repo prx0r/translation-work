@@ -3,49 +3,44 @@
  "verse": 1175,
  "rows": [
   {
-   "lemma": "kāṃ",
-   "morph": "pron.interr.acc.sg.f",
-   "grounds": "interrogative pronoun qualifying vidyāṃ"
+   "lemma": "jāti",
+   "morph": "compound-member",
+   "grounds": "first member of compound with sāmyena"
   },
   {
-   "lemma": "vidyāṃ",
-   "morph": "n.acc.sg.f",
-   "grounds": "object of prāpya"
+   "lemma": "sāmyena",
+   "morph": "n.ins.sg",
+   "grounds": "instrumental expressing basis of commonality"
   },
   {
-   "lemma": "prāpya",
-   "morph": "gerund(prāp)",
-   "grounds": "absolutive expressing prior attainment"
+   "lemma": "ye",
+   "morph": "m.nom.pl",
+   "grounds": "relative pronoun introducing clause"
   },
   {
-   "lemma": "sā",
-   "morph": "pron.dem.nom.sg.f",
-   "grounds": "subject; referent depends on preceding context"
+   "lemma": "dharmāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "subject of relative clause"
   },
   {
-   "lemma": "jātā",
-   "morph": "ppp.nom.sg.f(jan)",
-   "grounds": "resultant state following attainment of knowledge"
+   "lemma": "te",
+   "morph": "m.nom.pl",
+   "grounds": "correlative demonstrative pronoun"
   },
   {
-   "lemma": "tāṃ",
-   "morph": "pron.dem.acc.sg.f",
-   "grounds": "anaphoric to kāṃ vidyāṃ, object of vadasva"
+   "lemma": "dharmā",
+   "morph": "m.nom.pl",
+   "grounds": "predicate nominative in main clause"
   },
   {
-   "lemma": "vadasva",
-   "morph": "impv.2.sg.mid(vad)",
-   "grounds": "request addressed to the lord"
+   "lemma": "nara",
+   "morph": "compound-member",
+   "grounds": "first member of compound with jātiṣu"
   },
   {
-   "lemma": "mayi",
-   "morph": "pron.1.loc.sg",
-   "grounds": "recipient of the requested explanation"
-  },
-  {
-   "lemma": "prabho",
-   "morph": "n.voc.sg.m",
-   "grounds": "vocative address to the respondent"
+   "lemma": "jātiṣu",
+   "morph": "f.loc.pl",
+   "grounds": "locative indicating domain of application"
   }
  ]
 }
