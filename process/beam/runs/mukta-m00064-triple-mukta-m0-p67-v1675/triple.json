@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "aśva+tīrtha+indra+madhye",
+     "gloss": "in-horse-ford-indra-middle",
+     "grounds": "locative compound indicating the place between Aśvatīrtha and Indra",
+     "morph": "aśva+tīrtha+indra+madhya (compound, loc.sg.nt)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+avadhiḥ",
+     "gloss": "brahman-limit",
+     "grounds": "compound denoting Brahman as the boundary or extent",
+     "morph": "brahma+avadhi (compound, nom.sg.m)"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle stating what is taught",
+     "morph": "nom.sg.m (ppp, ud-ā-√hṛ)"
+    }
+   ],
+   "question": "What spiritual limit is declared for the region between Aśvatīrtha and Indra?",
+   "premises": [
+    "The location specified is the middle of Aśvatīrtha and Indra.",
+    "A specific limit is declared for this location.",
+    "That declared limit is Brahman."
+   ],
+   "inference": "Therefore the region between Aśvatīrtha and Indra is said to reach up to Brahman.",
+   "uncertainties": [
+    "The precise identification of Aśvatīrtha and Indra as place-names is context-dependent."
+   ],
+   "plain_english": "But in the middle of Aśvatīrtha and Indra, the limit is declared to be Brahman."
+  }
+ ]
+}

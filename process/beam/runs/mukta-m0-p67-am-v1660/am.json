@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p67",
  "verse": 1660,
- "question": "How is the quality of forceful intensity attributed to the goddess?",
+ "question": "What measures are assigned to the earth platform and the tree root?",
  "premises": [
-  "The goddess is forceful",
-  "The goddess delights in force",
-  "The goddess speaks of force",
-  "The goddess is engaged in forceful effort"
+  "On the earth platform the measure is seven hundred thousand.",
+  "At the tree root the measure is one hundred thousand.",
+  "Different locations have different measures."
  ],
- "inference": "Forceful intensity pervades her nature, delight, speech, and action",
- "uncertainties": [],
- "plain_english": "She is forceful, delights in force, speaks of force, and is engaged in forceful effort."
+ "inference": "The earth platform has seven lakh and the tree root has one lakh.",
+ "uncertainties": [
+  "The units being measured are not explicitly named."
+ ],
+ "plain_english": "On the earth platform it is seven hundred thousand, but at the tree root one hundred thousand."
 }

@@ -3,24 +3,34 @@
  "verse": 1650,
  "rows": [
   {
-   "lemma": "śarvarī+jāgritā",
-   "morph": "compound: śarvarī+jāgritā; f.nom.sg",
-   "grounds": "compound epithet describing wakefulness during the night"
+   "lemma": "mantraḥ+ayam",
+   "morph": "pron.nom.sg.m + noun.nom.sg.m",
+   "grounds": "fused form of mantraḥ (mantra) and ayam (this); internal sandhi marked by +"
   },
   {
-   "lemma": "yogyā",
-   "morph": "f.nom.sg",
-   "grounds": "epithet indicating fitness or suitability"
+   "lemma": "deva+devasya",
+   "morph": "compound noun.gen.sg.m",
+   "grounds": "genitive dependent of mantraḥ+ayam; compound deva-deva (god-of-gods)"
   },
   {
-   "lemma": "yoginī",
-   "morph": "f.nom.sg",
-   "grounds": "epithet identifying the goddess as a yoginī"
+   "lemma": "ṛṣi+gargaiḥ",
+   "morph": "compound noun.ins.pl.m",
+   "grounds": "agent of udāhṛtaḥ; fused form with internal sandhi marked by +; honorific or plural instrumental form of ṛṣi-garga"
   },
   {
-   "lemma": "yogi+vanditā",
-   "morph": "compound: yogi+vanditā; f.nom.sg",
-   "grounds": "compound epithet indicating veneration by yogis"
+   "lemma": "udāhṛtaḥ",
+   "morph": "ppp.nom.sg.m (ud-ā-√hṛ)",
+   "grounds": "past passive participle describing mantraḥ+ayam"
+  },
+  {
+   "lemma": "ṛṣi",
+   "morph": "noun.nom.sg.m",
+   "grounds": "appositive or title identifying gargaṃ-"
+  },
+  {
+   "lemma": "gargaṃ-",
+   "morph": "noun.acc.sg.m",
+   "grounds": "name of the sage; trailing dash preserved as given in the token"
   }
  ]
 }
