@@ -7,13 +7,13 @@
     {
      "surface": "ulukī",
      "gloss": "owl-woman",
-     "grounds": "feminine noun denoting a female figure associated with an owl",
+     "grounds": "feminine form denoting a woman associated with an owl",
      "morph": "f.nom.sg"
     },
     {
      "surface": "pecakī",
      "gloss": "peacock-woman",
-     "grounds": "feminine noun denoting a female figure associated with a peacock",
+     "grounds": "feminine form denoting a woman associated with a peacock",
      "morph": "f.nom.sg"
     },
     {
@@ -31,7 +31,7 @@
     {
      "surface": "sararī",
      "gloss": "sarari-woman",
-     "grounds": "feminine noun denoting a female figure associated with a sarari bird",
+     "grounds": "feminine form denoting a woman of uncertain designation",
      "morph": "f.nom.sg"
     },
     {
@@ -43,27 +43,29 @@
     {
      "surface": "gūlī",
      "gloss": "guli-woman",
-     "grounds": "feminine noun denoting a female figure associated with a guli",
+     "grounds": "feminine form denoting a woman of uncertain designation",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "particle indicating continuation of the preceding enumeration",
+     "grounds": "adverb indicating inclusion in the same manner as previous items",
      "morph": "(indecl.)"
     }
    ],
    "question": "Which additional female figures are included among those who know through devotion on earth?",
    "premises": [
-    "The preceding verses ask which beings know through devotion on earth.",
-    "The preceding verse lists female figures such as the dove-woman, vulture-woman, swan-woman, and nail-woman.",
+    "The preceding verses ask about those who know through devotion on earth.",
+    "The preceding verse lists female figures such as the dove-woman and vulture-woman.",
     "This verse continues the enumeration with further female figures."
    ],
    "inference": "The owl-woman, peacock-woman, sarari-woman, and guli-woman are likewise included among those who know through devotion on earth.",
    "uncertainties": [
-    "The precise identity or species implied by sararī and gūlī is not fully certain from the verse alone."
+    "The precise identity or nature of 'pecakī' is uncertain.",
+    "The precise identity or nature of 'sararī' is uncertain.",
+    "The precise identity or nature of 'gūlī' is uncertain."
    ],
-   "plain_english": "The owl-woman, the peacock-woman, or indeed the sarari-woman, or the guli-woman likewise."
+   "plain_english": "Likewise the owl-woman, the peacock-woman, or indeed the sarari-woman, or the guli-woman."
   }
  ]
 }

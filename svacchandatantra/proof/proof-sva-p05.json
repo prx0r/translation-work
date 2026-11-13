@@ -1,0 +1,162 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p05",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v101 ratio=0.836",
+  "ALIGN_NODISP v102 ratio=0.842",
+  "ALIGN_NODISP v103 ratio=0.783",
+  "ALIGN_NODISP v104 ratio=0.892",
+  "ALIGN_NODISP v106 ratio=0.800",
+  "ALIGN_NODISP v110 ratio=0.500",
+  "ALIGN_NODISP v112 ratio=0.835",
+  "ALIGN_NODISP v113 ratio=0.789",
+  "ALIGN_NODISP v114 ratio=0.588",
+  "ALIGN_NODISP v116 ratio=0.812",
+  "ALIGN_NODISP v120 ratio=0.872",
+  "ALIGN_NODISP v123 ratio=0.886",
+  "ALIGN_NODISP v124 ratio=0.667",
+  "ALIGN_NODISP v125 ratio=0.886",
+  "L2_CITE_FAIL 1",
+  "DATA_OBJECTS 1 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "711de3a31ca9e3f4",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 138
+ },
+ "align": {
+  "min_ratio": 0.5,
+  "sub090": {
+   "101": {
+    "ratio": 0.836,
+    "disposition": null
+   },
+   "102": {
+    "ratio": 0.842,
+    "disposition": null
+   },
+   "103": {
+    "ratio": 0.783,
+    "disposition": null
+   },
+   "104": {
+    "ratio": 0.892,
+    "disposition": null
+   },
+   "106": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "110": {
+    "ratio": 0.5,
+    "disposition": null
+   },
+   "112": {
+    "ratio": 0.835,
+    "disposition": null
+   },
+   "113": {
+    "ratio": 0.789,
+    "disposition": null
+   },
+   "114": {
+    "ratio": 0.588,
+    "disposition": null
+   },
+   "116": {
+    "ratio": 0.812,
+    "disposition": null
+   },
+   "120": {
+    "ratio": 0.872,
+    "disposition": null
+   },
+   "123": {
+    "ratio": 0.886,
+    "disposition": null
+   },
+   "124": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "125": {
+    "ratio": 0.886,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 51,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "ijyata iti yāga mantragaṇaḥ anenaiva cātra pūjanamapi sūcitam"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p05-v108]: cite part not byte-exact in source: ijyata iti yāga mantragaṇaḥ anenaiva cātra pūjanamapi sūcita"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 138,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v101",
+  "fix: word-order/gloss vs source for v102",
+  "fix: word-order/gloss vs source for v103",
+  "fix: word-order/gloss vs source for v104",
+  "fix: word-order/gloss vs source for v106",
+  "fix: word-order/gloss vs source for v110",
+  "fix: word-order/gloss vs source for v112",
+  "fix: word-order/gloss vs source for v113",
+  "fix: word-order/gloss vs source for v114",
+  "fix: word-order/gloss vs source for v116",
+  "fix: word-order/gloss vs source for v120",
+  "fix: word-order/gloss vs source for v123",
+  "fix: word-order/gloss vs source for v124",
+  "fix: word-order/gloss vs source for v125"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "2f516c96fde1690a0d8f8480d6a8337a046cbe5252f8282be89be8b553fd97f3",
+  "l0": "0c64b99bcc67ad55b17bd327171315e4202e1821bc5af111824372a9b040d43b",
+  "argmap": "299b4dbd213b33ee9c5323bba57a4cff47cd68d0d62c37ba512cfcb491cf464e",
+  "l2": "3af96e7bafafe184ebd04312a0b7c1f2cd1f159c01755c95ee086908a3348c3d",
+  "c1": "07d94d6926fbcaf2787cebc5bfa73c21260ce55963da5d603a254bc3d02bb66b"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "711de3a31ca9e3f4",
+  "t1": "sva-p05/data/sva-p05.t1.json",
+  "l0": "sva-p05/data/sva-p05.l0.json",
+  "l2": "sva-p05/data/sva-p05.l2.json",
+  "c1": "sva-p05/data/sva-p05.c1.json"
+ }
+}

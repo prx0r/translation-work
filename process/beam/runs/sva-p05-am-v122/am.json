@@ -1,13 +1,15 @@
 {
  "song": "sva-p05",
  "verse": 122,
- "question": "What is the essential nature of the worship that should be performed for this deity?",
+ "question": "What is the intended purpose of performing worship in this ritual context?",
  "premises": [
-  "The worship is characterized as bestowing supreme nectar",
-  "This form of worship is prescribed for this one",
-  "The statement gives the intended meaning"
+  "Worship of this is to be performed.",
+  "Its form is that of bestowing supreme nectar.",
+  "The verse states this as the meaning."
  ],
- "inference": "One should perform worship of this one in the form of bestowing supreme nectar",
- "uncertainties": [],
- "plain_english": "The meaning is that one should perform his worship in the form of bestowing supreme nectar."
+ "inference": "Therefore, the purpose of the worship is to realize or enact its supreme-nectar-bestowing nature.",
+ "uncertainties": [
+  "The referent of 'asya' depends on the immediately preceding ritual context."
+ ],
+ "plain_english": "The meaning is that one should perform its worship in the form that bestows supreme nectar."
 }
