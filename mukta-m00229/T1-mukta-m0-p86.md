@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p86-v2126
-[after](paścāt) [blazing](dīpta) [fanged](daṃṣṭrā) [extended](āyata) [supreme](param)
+[afterwards](paścāt) [blazing+fang+extended+supreme](dīpta+daṃṣṭrā+āyata+param)
 
 ## mukta-m0-p86-v2127
-[all-beings](sarva+bhūta) [destruction-end](vināśa+ante) [not](na) [seeded](kāra) [with-bindu](bindu+mān) [wind](marut)
+[all+being+destruction+at-end](sarva+bhūta+vināśa+ante) [la(na)+syllable](la(na)+kāro) [with-bindu](bindumān) [wind](marut)
 
 ## mukta-m0-p86-v2128
-[seventy-six](sapta+ṣaṣṭi) [syllables](akṣara) [declared](prokta) [flame-garlanded](jvālā+mālī) [great-mantra](mahā+manu)
+[with-sixty-seven+syllables](saptaṣaṣṭi+akṣaraiḥ) [declared](proktaḥ) [flame+garlanded](jvālā+mālī) [great+mantra](mahā+manuḥ)
 
 ## mukta-m0-p86-v2129
-[of-narahari](naraha+reḥ) [spoken](kathita) [all-desires-giving](sarva+kāma+da)
+[of-man-lion](narahareḥ) [told](kathitaḥ) [all+desire+granting](sarva+kāma+daḥ)
 
 ## mukta-m0-p86-v2130
-[narasimha](narasiṃha) [of-this-mantra](asya+mantrasya) [declared](samudīrita)
+[narasimha](narasiṃhaḥ) [of-this](asya) [of-mantra](mantrasya) [declared](samudīritaḥ)
 
 ## mukta-m0-p86-v2131
-[armor-weapon-ending](kavaca+astra+anta) [mantra](mantra) [seven-syllabled](sapta+akṣara) [remembered](smṛta)
+[armor+weapon+ending](kavaca+astra+antaḥ) [mantra](mantraḥ) [seven+syllabled](sapta+akṣaraḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p86-v2132
-[by-sages](munibhiḥ) [declared](prokta) [wheel-formed](cakra+rūpī) [hari](hari) [himself](svayam)
+[by-sages](munibhiḥ) [declared](proktaḥ) [discus+formed](cakra+rūpī) [hari](hariḥ) [himself](svayam)
 
 ## mukta-m0-p86-v2133
-[gopi-town-end](gopī+jana+pada+asya+ante) [to-beloved](vallabhāya) [two-and-half](dvi+ṭhā+vadhi)
+[gopī+people+word+at-end](gopī+jana+padasya+ante) [to-beloved](vallabhāya) [dviṭha+ending](dviṭha+avadhiḥ)
 
 ## mukta-m0-p86-v2134
-[all-desires-fruit-giving](sarva+kāma+phala+prada)
+[all+desire+fruit+granting](sarva+kāma+phala+pradaḥ)
 
 ## mukta-m0-p86-v2135
-[kamsa-slayer](kaṃsa+niṣūdana)
+[kaṃsa+slayer](kaṃsa+niṣūdanaḥ)
 
 ## mukta-m0-p86-v2136
-[of-mind-born](manobhuvaḥ) [declared](prokta) [three-worlds-deluding](jagat+tritaya+mohana)
+[of-mind-born](manobhuvaḥ) [declared](proktaṃ) [three+world+enchanting](jagat+tritaya+mohanam)
 
 ## mukta-m0-p86-v2137
-[direct-deity](sākṣāt+devatā) [makaradhvaja](makaradhvaja)
+[directly](sākṣāt) [deity](devatā) [makara-bannered](makara+dhvajaḥ)
 
 ## mukta-m0-p86-v2138
-[mukunda](mukunda) [with-rishi-first](ṛṣi+pūrvaka)
+[mukunda](mukundaḥ) [with-seer+preceding](ca+ṛṣi+pūrvakaḥ)
 
 ## mukta-m0-p86-v2139
-[nama](nama) [thus-other-mantra](itya+aparo+manu)
+[namaḥ](namaḥ) [thus](iti) [another+mantra](aparaḥ+manuḥ)
 
 ## mukta-m0-p86-v2140
-[accomplishments](siddhayaḥ) [all](sarvāḥ) [would-be](syuḥ) [by-japa-etc](japa+ādyaiḥ) [here-by-this](iha+amunā)
+[siddhis](siddhayaḥ) [all](sarvāḥ) [may-be](syuḥ) [by-recitation+etc](japa+ādyaiḥ) [here](iha) [by-this](amunā)
 
 ## mukta-m0-p86-v2141
-[krishna-form](kṛṣṇa+rūpa) [nama-pair](nama+dvandva) [food-lord](anna+adhipataye) [salutation](namaḥ)
+[kṛṣṇa+rūpa+namaḥ+pair](kṛṣṇa+rūpa+namaḥ+dvandvam) [to-food+lord](anna+adhipataye) [namaḥ](namaḥ)
 
 ## mukta-m0-p86-v2142
-[narada](nārada) [anushtubh](anuṣṭubh) [food-lords](anna+adhipatayaḥ) [of-this-rishi-first](asya+ṛṣi+pūrvakāḥ)
+[nārada](nāradaḥ) [anuṣṭubh](anuṣṭubh) [food+lords](anna+adhipatayaḥ) [of-this](asya) [seer+preceding](ṛṣi+pūrvakāḥ)
 
 ## mukta-m0-p86-v2143
-[rishi-etc](ṛṣi+ādyāḥ) [brahma-gayatri](brahma+gāyatrī) [planet-destroying](graha+ghna) [haris](harayaḥ) [in-order](kramāt)
+[seer+etc](ṛṣi+ādyāḥ) [brahmā+gāyatrī+planet+slaying+hari](brahma+gāyatrī+graha+ghna+harayaḥ) [in-order](kramāt)
 
 ## mukta-m0-p86-v2144
-[to-vishnu](viṣṇave) [supreme-vishnu](prabhaviṣṇave)
+[to-viṣṇu](viṣṇave) [to-mighty-viṣṇu](prabhaviṣṇave)
 
 ## mukta-m0-p86-v2145
-[meter-anushtubh](chandaḥ+anuṣṭubh) [deity-of-this](devatā+asya) [shri-krishna](śrī+kṛṣṇa) [declared](parikīrttita)
+[meter](chandaḥ) [anuṣṭubh](anuṣṭubh) [deity](devatā) [of-this](asya) [śrī-kṛṣṇa](śrī+kṛṣṇaḥ) [proclaimed](parikīrttitaḥ)
 
 ## mukta-m0-p86-v2146
-[armor-weapon-heads](varma+astra+śirāṃsi) [eighteen-syllabled](aṣṭādaśa+akṣara)
+[armor+weapon+heads](varma+astra+śirāṃsi) [eighteen+syllabled](aṣṭādaśa+akṣaraḥ)
 
 ## mukta-m0-p86-v2147
-[devaki-son](devakī+putra) [thus-saying](itya+uktvā) [dance-sound](nṛtya+śabda+taḥ)
+[devakī+son](devakī+putram) [having-said](iti+uktvā) [dance+word+from](nṛtya+śabda+taḥ)
 
 ## mukta-m0-p86-v2148
-[kaliya-crusher](kāliya+mardana)
+[kāliya+subduer](kāliya+mardanaḥ)
 
 ## mukta-m0-p86-v2149
-[gayatri](gāyatrī) [meter](chandaḥ) [krishna](kṛṣṇa) [indeed](tu) [deity](devatā)
+[gāyatrī](gāyatrī) [meter](chandaḥ) [kṛṣṇa](kṛṣṇaḥ) [indeed](tu) [deity](devatā)
 
 ## mukta-m0-p86-v2150
-[rama](ramā) [gopi-beloved](gopī+jana+vallabha) [nga-head](ṅe+śiraḥ)
+[ramā](ramā) [gopī+people+beloved](gopī+jana+vallabha) [ṅe+head](ṅe+śiraḥ)

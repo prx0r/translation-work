@@ -3,34 +3,39 @@
  "verse": 926,
  "rows": [
   {
-   "lemma": "tameva",
-   "morph": "m.acc.sg (indecl. eva)",
-   "grounds": "emphatic demonstrative referring to the mantra"
+   "lemma": "ekaika",
+   "morph": "compound=eka+eka",
+   "grounds": "repeated distributive"
   },
   {
-   "lemma": "mantram",
-   "morph": "m.acc.sg",
-   "grounds": "sacred formula"
+   "lemma": "kara",
+   "morph": "compound=kara+vīra",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "āha",
-   "morph": "3.sg.perf.act √ah/brū",
-   "grounds": "introduces the quoted mantra"
+   "lemma": "vīra",
+   "morph": "compound=kara-vīra+ādi",
+   "grounds": "agent or heroic figure"
   },
   {
-   "lemma": "tryambakaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "epithet of Śiva in the mantra"
+   "lemma": "ādyaiḥ",
+   "morph": "m.ins.pl",
+   "grounds": "indicates a series"
   },
   {
-   "lemma": "yajāmaha",
-   "morph": "1.pl.pres.act √yaj",
-   "grounds": "first words of the Tryambaka mantra"
+   "lemma": "mandaiḥ",
+   "morph": "m.ins.pl",
+   "grounds": "qualifies lotuses or actions"
   },
   {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "marks quotation"
+   "lemma": "nīla",
+   "morph": "compound=nīla+vārija",
+   "grounds": "color of lotuses"
+  },
+  {
+   "lemma": "vārijaiḥ",
+   "morph": "n.ins.pl",
+   "grounds": "ritual offerings or means"
   }
  ]
 }

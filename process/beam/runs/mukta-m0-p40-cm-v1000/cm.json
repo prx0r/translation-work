@@ -3,29 +3,39 @@
  "verse": 1000,
  "rows": [
   {
-   "lemma": "lakṣya",
-   "morph": "compound-member",
-   "grounds": "first member of compound qualifying saṃkhyākaṃ; indicates a determined or aimed measure"
+   "lemma": "asya",
+   "morph": "pron.m/n.gen.sg",
+   "grounds": "demonstrative pronoun referring to the hymn"
   },
   {
-   "lemma": "saṃkhyākaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "second member of compound with lakṣya; describes the mantra repetition as counted to a set amount"
-  },
-  {
-   "lemma": "japen",
-   "morph": "3.sg.opt.act √jap",
-   "grounds": "prescriptive verbal form directing ritual recitation"
-  },
-  {
-   "lemma": "mantram",
-   "morph": "m.acc.sg",
-   "grounds": "object of japen; the sacred formula to be recited"
-  },
-  {
-   "lemma": "ityādi",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "indicates continuation of similar ritual instructions beyond what is explicitly stated"
+   "grounds": "restrictive particle emphasizing sufficiency"
+  },
+  {
+   "lemma": "pāṭha",
+   "morph": "pāṭha+first-member(compound)",
+   "grounds": "first member of instrumental compound with mātreṇa"
+  },
+  {
+   "lemma": "mātreṇa",
+   "morph": "mātra+n.inst.sg(compound-final)",
+   "grounds": "final member indicating mere extent or sufficiency"
+  },
+  {
+   "lemma": "teṣāṃ",
+   "morph": "pron.m.gen.pl",
+   "grounds": "refers to future people mentioned in prior verse"
+  },
+  {
+   "lemma": "śreyo",
+   "morph": "śreyas+n.nom.sg",
+   "grounds": "supreme good or spiritual benefit"
+  },
+  {
+   "lemma": "bhaviṣyati",
+   "morph": "bhū+3.sg.fut.act",
+   "grounds": "future result of recitation"
   }
  ]
 }

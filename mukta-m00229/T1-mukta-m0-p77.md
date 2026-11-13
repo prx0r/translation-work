@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p77-v1901
-[becoming-mantra](bhavenmantraḥ) [sprout](pallavo) [in-killing](māraṇe) [considered](mataḥ)
+should-be(mantraḥ) [sprout](pallavaḥ) [in-killing](māraṇe) [considered](mataḥ)
 
 ## mukta-m0-p77-v1902
-[mantra-declared](mantrasamproktā) [deities](devatāḥ) [in-six](ṣaṭṣu) [acts](karmasu)
+[mantra+declared](mantra+samproktāḥ) [deities](devatāḥ) [in-six](ṣaṭsu) [rites](karmasu)
 
 ## mukta-m0-p77-v1903
-[mercury-jupiter-sun-joined](budhejyaravisaṃyuktā) [in-peace-rite](śāntikarmaṇi) [worshipped](pūjitā)
+[Mercury+Jupiter+Sun+conjoined](budha+ijya+ravi+saṃyuktā) [in-pacification+rite](śānti+karmaṇi) [worshipped](pūjitā)
 
 ## mukta-m0-p77-v1904
-[in-nourishment](pauṣṭike) [auspicious](śastā) [eighth](aṣṭamī) [ninth](navamī) [and](tathā)
+[in-nourishment](pauṣṭike) [commended](śastā) [eighth](aṣṭamī) [ninth](navamī) [likewise](tathā)
 
 ## mukta-m0-p77-v1905
-[in-attracting](ākarṣaṇe) [new-moon](amāvāsyā) [ninth](navamī) [first-tithi](pratipat) [and](tathā)
+[in-attraction](ākarṣaṇe) [indeed](tu) [new-moon](amāvāsyā) [ninth](navamī) [first-lunar-day](pratipat) [likewise](tathā)
 
 ## mukta-m0-p77-v1906
-[fourteenth](caturdaśī) [likewise](tadvat) [eighth](aṣṭamī) [weak-star](mandatārakā)
+[fourteenth](caturdaśī) [likewise](tadvat) [eighth](aṣṭamī) [Saturn+star](manda+tārakā)
 
 ## mukta-m0-p77-v1907
-[fourteenth-eighth](caturdaśyaṣṭamī) [dark](kṛṣṇā) [new-moon](amāvāsyā) [likewise](tathaiva) [and](ca)
+[fourteenth](caturdaśī) [eighth](aṣṭamī) [dark-fortnight](kṛṣṇā) [new-moon](amāvāsyā) [likewise](tathā) [and](eva) [also](ca)
 
 ## mukta-m0-p77-v1908
-[to-be-known](vijñeyā) [tithi](tithiḥ) [in-immobilization-rite](stambhanakarmaṇi)
+[to-be-known](vijñeyā) [lunar-day](tithiḥ) [in-paralyzing+rite](stambhana+karmaṇi)
 
 ## mukta-m0-p77-v1909
-[empty-sun](riktārke) [death-yoga](mṛtyuyoge) [and](ca) [killing](māraṇam)
+[on-empty+Sun-day](rikta+arke) [in-death+yoga](mṛtyu+yoge) [and](ca) [killing](māraṇam)
 
 ## mukta-m0-p77-v1910
-[house-smoke](gṛhadhūma) [pyre-charcoal](citāṅgāro) [in-killing](māraṇe) [eight-poisons](aṣṭaviṣāṇi) [and](ca)
+[house+smoke](gṛha+dhūmaḥ) [funeral-pyre+charcoal](citā+aṅgāraḥ) [in-killing](māraṇe) [eight+poisons](aṣṭa+viṣāṇi) [and](ca)
 
 ## mukta-m0-p77-v1911
-[house-smoke](gṛhadhūmās) [three-pungents](trikaṭukaṃ) [eight-poisons](viṣāṣṭakam) [declared](udāhṛtam)
+[house+smoke](gṛha+dhūma) [three+pungents](tri+kaṭukam) [eight+poisons](viṣa+aṣṭakam) [declared](udāhṛtam)
 
 ## mukta-m0-p77-v1912
-[six-acts](ṣaṭkarmāṇi) [should-use](prayuñjīta) [for-stated-result-accomplishment](yathoktaphalasiddhaye)
+[six+rites](ṣaṭ+karmāṇi) [one-should-employ](prayuñjīta) [for-as-stated+fruit+accomplishment](yathā+ukta+phala+siddhaye)
 
 ## mukta-m0-p77-v1913
-[procedures](vidhānāni) [thus-said](ityūcire) [traditionalists](sāmpradāyikāḥ)
+[procedures](vidhānāni) [thus](iti) [spoke](ūcire) [tradition-followers](sāmpradāyikāḥ)
 
 ## mukta-m0-p77-v1914
-[twice-or-thrice](dvistrirvā) [again-perform](punarācaret)
+[twice](dvis) [thrice](tris) [or](vā) [again](punar) [one-should-perform](ācaret)
 
 ## mukta-m0-p77-v1915
-[some-mockery](kiñcidupahāsam) [obtain](avāpnuyāt)
+[some](kiñcit) [ridicule](upahāsam) [one-may-obtain](avāpnuyāt)
 
 ## mukta-m0-p77-v1916
-[famous-and-unfamous](prasiddhānaprasiddhāṃśca) [blue-sarasvatī-etc](nīlasārasvatādikān)
+[well-known](prasiddhān) [not-well-known](aprasiddhān) [and](ca) [Blue-Sarasvata+etc.](nīla+sārasvata+ādikān)
 
 ## mukta-m0-p77-v1917
-[those-various-famous-diverse-composition-chapters-situated](tattatprasiddhavividhaprabandhapaṭalasthitān)
+[each+respective+well-known+various+treatise+section+situated](tat+tat+prasiddha+vividha+prabandha+paṭala+sthitān)
 
 ## mukta-m0-p77-v1918
-[of-tripura-bhairavi](tripurabhairavyā) [speech-origin](vāgbhavaṃ) [seed](bījam) [extract](uddharet)
+[of-Tripurabhairavī](tripurabhairavyāḥ) [speech-seed](vāg+bhavam) [seed-syllable](bījam) [one-should-extract](uddharet)
 
 ## mukta-m0-p77-v1919
-[to-sarasvatī](sarasvatyai) [namah](namaḥ) [at-end](ante) [rudra-number-letters](rudrasaṃkhyākṣaro) [mantra](manuḥ)
+[to-Sarasvatī+obeisance](sarasvatyai+namaḥ) [and](ca) [at-end](ante) [Rudra+number+syllabled](rudra+saṃkhyā+akṣaraḥ) [mantra](manuḥ)
 
 ## mukta-m0-p77-v1920
-[pārijāteśvarī](pārijāteśvarī) [speech](vāṇī) [deity](devatā) [declared](samudīritā)
+[Pārijāteśvarī](pārijāteśvarī) [Vāṇī](vāṇī) [deity](devatā) [declared](samudīritā)
 
 ## mukta-m0-p77-v1921
-[meter](chando) [deity](devatā) [speech](vāk) [declared](samīritā)
+[meter](chandaḥ) [deity](devatā) [speech](vāk) [declared](samīritā)
 
 ## mukta-m0-p77-v1922
-[sixteen-letters-rich](ṣoḍaśavarṇāḍhyaṃ) [speech-sovereignty-result-giving](vāgaiśvaryaphalapradam)
+[sixteen+syllables+endowed](ṣoḍaśa+varṇa+āḍhyam) [speech+sovereignty+fruit+giving](vāk+aiśvarya+phala+pradam)
 
 ## mukta-m0-p77-v1923
-[mantra](mantraḥ) [declared](prokta) [eleven-syllables](ekādaśākṣaraḥ)
+[mantra](mantraḥ) [declared](proktaḥ) [eleven+syllabled](ekādaśa+akṣaraḥ)
 
 ## mukta-m0-p77-v1924
-[by-sages](munibhiḥ) [declared](prokto) [rudra-number-letters](rudrasaṃkhyākṣaro) [mantra](manuḥ)
+[by-sages](munibhiḥ) [declared](proktaḥ) [Rudra+number+syllabled](rudra+saṃkhyā+akṣaraḥ) [mantra](manuḥ)
 
 ## mukta-m0-p77-v1925
-[for-sarasvatī](sārasva) [seekers](arthinām) [for-sarasvatī](sārasva) [seekers](arthinām)
+[for-those-desiring+Sarasvatī](sārasvata+arthinām)

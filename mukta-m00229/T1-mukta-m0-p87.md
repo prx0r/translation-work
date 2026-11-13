@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p87-v2151
-[eighteen-syllable](aṣṭādaśārṇa) [all-limbs-etc](sarvamaṅgarṣyādika) [should-be-considered](mūhayet)
+[eighteen+syllabled](aṣṭādaśa+arṇavat) [all](sarvam) [limb+sage+etc.](aṅga+ṛṣy+ādikam) [one-should-conceive](ūhayet)
 
 ## mukta-m0-p87-v2152
-[sun-syllable](ravyarṇa) [brahma-gayatri](brahmagāyatrī) [krishna-rishi-etc](kṛṣṇarṣyādi) [in-order](ranukramāt)
+[sun+syllabled](ravi+arṇaḥ) [brahmā+gāyatrī](brahma+gāyatrī) [kṛṣṇa+sage+etc.](kṛṣṇa+ṛṣy+ādiḥ) [in-order](anukramāt)
 
 ## mukta-m0-p87-v2153
-[thus-first](evādau) [may-be](syāt) [if-desired](cecchakti) [with-manu](ramānvitaḥ)
+[thus](evam) [in-beginning](ādau) [should-be](syāt) [if](cet) [with-śakti](śakti+ramā+anvitaḥ)
 
 ## mukta-m0-p87-v2154
-[manu-syllables](manuvarṇānām) [limb-rishi-etc](aṅgarṣyādi) [ten-syllable-like](daśārṇavat)
+[of-mantra+syllables](manu+varṇānām) [limb+sage+etc.](aṅga+ṛṣy+ādi) [ten+syllabled+like](daśa+arṇavat)
 
 ## mukta-m0-p87-v2155
-[rishi-etc-eighteen-syllable](ṛṣyādyaṣṭādaśārṇa) [of-manu](manorasya) [as-order](yathākramāt)
+[sage+etc.](ṛṣy+ādi) [eighteen+syllabled+stated](aṣṭādaśa+arṇa+uktam) [of-this-mantra](manoḥ+asya) [in-due-order](yathā+kramāt)
 
 ## mukta-m0-p87-v2156
-[nanda-end](nandānte) [body](vapuṣe) [is](asty) [fire-maya-end](agnimāyānto) [ten-syllable](daśavarṇakaḥ)
+[at-nanda+end](nanda+ante) [to-vapus](vapuṣe) [is](asti) [fire+māyā+ended](agni+māyā+antaḥ) [ten+syllabled](daśa+varṇakaḥ)
 
 ## mukta-m0-p87-v2157
-[nanda-son-word](nandaputrapadaṃ) [nga-end](ṅentaṃ) [shyamala-limb-word](śyāmalāṅgapadaṃ) [thus](tathā)
+[nanda+son+word](nanda+putra+padam) [ṅ-ending](ṅ+antam) [dark-limbed+word](śyāmala+aṅga+padam) [likewise](tathā)
 
 ## mukta-m0-p87-v2158
-[rishi](ṛṣiḥ) [meter](chandaḥ) [ca](ca) [ushnig-anushtubh](uṣṇiganuṣṭubhau)
+[sage](ṛṣiḥ) [and-meter](chandaḥ+ca) [uṣṇig+anuṣṭubh](uṣṇig+anuṣṭubhau)
 
 ## mukta-m0-p87-v2159
-[sixteen-syllable-this](ṣoḍaśārṇo'yaṃ) [rukmini-beloved-named](rukmiṇīvallabhāhvayaḥ)
+[sixteen+syllabled](ṣoḍaśa+arṇaḥ) [this](ayam) [rukmiṇī+beloved+named](rukmiṇī+vallabha+āhvayaḥ)
 
 ## mukta-m0-p87-v2160
-[meter](chando) [anushtubh](nuṣṭubh) [deity](devatā) [ca](ca) [rukmini-beloved-hari](rukmiṇīvallabho hariḥ)
+[meter](chandaḥ) [anuṣṭubh](anuṣṭub) [deity](devatā) [and](ca) [rukmiṇī+beloved](rukmiṇī+vallabhaḥ) [hari](hariḥ)
 
 ## mukta-m0-p87-v2161
-[staff-end](daṇḍānte) [child-form](bālarūpa) [iti](iti) [cloud-shyama-word](meghaśyāmapadaṃ) [then](tataḥ)
+[at-daṇḍa+end](daṇḍa+ante) [child+form](bāla+rūpa) [thus](iti) [cloud+dark+word](megha+śyāma+padam) [then](tataḥ)
 
 ## mukta-m0-p87-v2162
-[ca](ca) [ni-li-staff-hari](nī (lī) lādaṇḍaharirmataḥ)
+[and](ca) [sport](nīlā) [staff+holder](daṇḍa+hariḥ) [considered](mataḥ)
 
 ## mukta-m0-p87-v2163
-[flesh-pair-end](māṃsayugantāya) [head](śiraḥ) [seven-syllable](saptākṣaro) [manu](manuḥ)
+[to-māṃsa+yuga+end](māṃsa+yuga+antāya) [head](śiraḥ) [seven+syllabled](sapta+akṣaraḥ) [mantra](manuḥ)
 
 ## mukta-m0-p87-v2164
-[ushnig-deity](uṣṇigdevatā) [ca](ca) [govallabha](govallabha) [declared](udīritaḥ)
+[uṣṇig](uṣṇig) [deity](devatā) [and](ca) [cowherd+beloved](go+vallabhaḥ) [declared](udīritaḥ)
 
 ## mukta-m0-p87-v2165
-[pair](dvandvaṃ) [twelve-syllable-this](dvādaśārṇo'yam) [declared](īritaḥ)
+[pair](dvandvam) [twelve+syllabled](dvādaśa+arṇaḥ) [this](ayam) [declared](īritaḥ)
 
 ## mukta-m0-p87-v2166
-[sharnga](śārṅgī) [chakri](cakrī) [right-ear-joined](dakṣiṇakarṇayuk)
+[śārṅga+bow-holder](śārṅgī) [discus+holder](cakrī) [right+ear+joined](dakṣiṇa+karṇa+yuk)
 
 ## mukta-m0-p87-v2167
-[rishi-brahma](ṛṣirbrahmā) [asya](sya) [gayatri](gāyatrī) [meter](chandaḥ) [krishna-deity](kṛṣṇastu devatā)
+[sage](ṛṣiḥ) [brahmā](brahmā) [its](asya) [gāyatrī](gāyatrī) [meter](chandaḥ) [kṛṣṇa](kṛṣṇaḥ) [indeed](tu) [deity](devatā)
 
 ## mukta-m0-p87-v2168
-[shrim](śrīṃ) [siddha](siddha) [gopala](gopālako) [manu](manuḥ)
+[śrīṃ](śrīṃ) [siddha](siddha) [gopālaka](gopālakaḥ) [mantra](manuḥ)
 
 ## mukta-m0-p87-v2169
-[two-syllable](dvayakṣaraḥ) [kama-first](kāmapūrva) [three-syllable](stryarṇaḥ) [sa](sa) [eva](eva) [cet](cet)
+[two+syllabled](dvaya+akṣaraḥ) [kāma+preceded](kāma+pūrva) [three+syllabled](stri+arṇaḥ) [that](saḥ) [indeed](eva) [if](cet)
 
 ## mukta-m0-p87-v2170
-[will-be-said](vakṣyate) [five-syllable](pañcavarṇaḥ) [syat](syāt) [krishnaya-nama](kṛṣṇāya nama) [iti-api](ityapi)
+[will-be-stated](vakṣyate) [five+syllabled](pañca+varṇaḥ) [should-be](syāt) [to-kṛṣṇa](kṛṣṇāya) [obeisance](namaḥ) [thus](iti) [also](api)
 
 ## mukta-m0-p87-v2171
-[gopala-agni-born-end](gopālāyāgnijāyāntaḥ) [six-syllable](ṣaḍakṣara) [udahrita](udāhṛtaḥ)
+[to-gopāla](gopālāya) [fire+consort+ended](agni+jāyā+antaḥ) [six+syllabled](ṣaḍ+akṣaraḥ) [declared](udāhṛtaḥ)
 
 ## mukta-m0-p87-v2172
-[nama-end-other](namo'nto'nyaḥ) [krishna-govinda](kṛṣṇagovindakaḥ) [again](punaḥ)
+[obeisance+ended](namaḥ+antaḥ) [another](anyaḥ) [kṛṣṇa+govindaka](kṛṣṇa+govindakaḥ) [again](punaḥ)
 
 ## mukta-m0-p87-v2173
-[shri-shakti-mara](śrīśaktimārāḥ) [krishnaya](kṛṣṇāya) [mara](māraḥ) [seven-syllable-other](saptākṣaro'paraḥ)
+[śrī+śakti+māras](śrī+śakti+mārāḥ) [to-kṛṣṇa](kṛṣṇāya) [māra](māraḥ) [seven+syllabled](sapta+akṣaraḥ) [another](aparaḥ)
 
 ## mukta-m0-p87-v2174
-[curd-eating](dadhibhakṣaṇa) [nga-eva-agni-born-other-eight](ṅevahnijāyamiraparoṣṭakaḥ)
+[curd+eating](dadhi+bhakṣaṇa) [ṅe+fire+consort](ṅe+vahni+jāyām) [another](aparaḥ) [eight-syllabled](aṣṭakaḥ)
 
 ## mukta-m0-p87-v2175
-[root-mantra](mūlamantraśca) [nine-syllable](navārṇaḥ) [smara-sampuṭa](smarasaṃpuṭaḥ)
+[root+mantra](mūla+mantraḥ) [and](ca) [nine+syllabled](nava+arṇaḥ) [love-god+enclosed](smara+saṃpuṭaḥ)

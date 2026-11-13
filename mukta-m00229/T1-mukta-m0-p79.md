@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[man](puruṣa)+[goal](artha)+[fruit](phala)+[bestower](pradā)
+[puruṣa+artha](puruṣārtha) [phala](phala) [pradā](pradā) [iti](puruṣārthaphalapradā)
 
 ## mukta-m0-p79-v1952
-[known](samākhyātā)+[knowledge](vidyā)+[three-varṇa](varṇatraya)+[essence](ātmikā)
+[kaṇṭakī](ṇṭa)kī) [samākhyātā](samākhyātā) [vidyā](vidyā) [varṇa+traya+ātmikā](varṇatrayātmikā)
 
 ## mukta-m0-p79-v1953
-[woman](strī)+[three-varṇa](trivarṇa)+[this](iyaṃ)+[knowledge](vidyā)+[subduing](vaśya)+[three-thorned](trikaṇṭakī)
+[kṣeḥ+uddhā](kṣeruddhā) [strī](strī) [tri+varṇā](trivarṇeyaṃ) [iyam](trivarṇeyaṃ) [vidyā](vidyā) [vaśya+tri+kaṇṭakī](vaśyatrikaṇṭakī)
 
 ## mukta-m0-p79-v1954
-[mantra](mantraḥ)+[fifteen](pañcadaśa)+[syllable](akṣaraḥ)
+[mantraḥ](mantraḥ) [pañcadaśa+akṣaraḥ](pañcadaśākṣaraḥ)
 
 ## mukta-m0-p79-v1955
-[meter](chando)+[absence](na)+[turning-back](nivṛt)+[etc](nityā)+[deity](devatā)
+[naḥ+chandaḥ](naśchando) [nivṛt+nityā](nivṛnnityā) [ca](ca) [devatā](devatā)
 
 ## mukta-m0-p79-v1956
-[sun-number](ravisaṃkhyā)+[syllable](arṇa)+[mantra](mantraḥ)+[subduing-bestower](vaśyapradāyakaḥ)
+[ravi+saṃkhya+arṇaḥ](ravisaṃkhyārṇo) [mantraḥ](mantro) [vaśya+pradāyakaḥ](vaśyapradāyakaḥ)
 
 ## mukta-m0-p79-v1957
-[spreading](prastāriṇī)+[declared](proktā)+[deity-desired](devatābhīṣṭa)+[giver](dāyinī)
+[prastāriṇī](prastāriṇī) [proktā](proktā) [devatā](devatā) [abhīṣṭa+dāyinī](abhīṣṭa) (dāyinī)
 
 ## mukta-m0-p79-v1958
-[knowledge](vidyā)+[this](iyaṃ)+[two-ended](dvicānta)+[rudra-varṇa](rudravarṇa)+[portion](bhāg)
+[vidyā](vidyeyaṃ) [iyam](vidyeyaṃ) [dvi+cānta+udra+varṇa+bhāg](dvicāntorudravarṇabhāg)
 
 ## mukta-m0-p79-v1959
-[bewildering](sammohana)+[meter](chando)+[gāyatrī](gāyatraṃ)+[tripuṭeśvarī](tripuṭeśvarī)
+[sammohanaḥ+chandaḥ](sammohanaśchando) [gāyatram](gāyatraṃ) [tri+puṭa+īśvarī](tripuṭeśvarī)
 
 ## mukta-m0-p79-v1960
-[declared](proktaḥ)+[thirteen](trayodaśa)+[syllables](akṣaraiḥ)
+[proktaḥ](proktaḥ) [trayodaśabhiḥ](trayodaśabhir) [akṣaraiḥ](akṣaraiḥ)
 
 ## mukta-m0-p79-v1961
-[ṭha-pair](ṭhayugalaṃ)+[mantra](manuḥ)+[seventeen](saptadaśa)+[syllable](akṣaraḥ)
+[ṭha+yugalam](ṭhayugalaṃ) [manuḥ](manuḥ) [saptadaśa+akṣaraḥ](saptadaśākṣaraḥ)
 
 ## mukta-m0-p79-v1962
-[then](tataḥ)+[annapūrṇā](annapūrṇe)+[svāhā](svāhā)+[dhruva-etc](dhruvādivān)
+[tataḥ](tataḥ) [ca](ca) [annapūrṇe](annapūrṇe) [svāhā](svāhā) [dhruvādi+vān](dhruvādivān)
 
 ## mukta-m0-p79-v1963
-[annapūrṇeśvarī](annapūrṇeśvarī)+[accomplished](siddhā)+[deity](devatā)+[declared](samudrīritā)
+[annapūrṇa+īśvarī](annapūrṇeśvarī) [siddhā](siddhā) [devatā](devatā) [samudīritā](samudrīritā)
 
 ## mukta-m0-p79-v1964
-[mantra](manuḥ)+[called](ākhyātaḥ)+[all-subduing-bestower](sarvavaśyapradāyakaḥ)
+[manuḥ](manuḥ) [ākhyātaḥ](ākhyātaḥ) [sarva+vaśya+pradāyakaḥ](sarvavaśyapradāyakaḥ)
 
 ## mukta-m0-p79-v1965
-[pippalāda](pippalādo)+[sage](muniḥ)+[meter](chando)+[nivṛt-dhūmāvatī](nivṛddhūmāvatī)+[mantra](manuḥ)
+[pippalādaḥ](pippalādo) [muniḥ](muniḥ) [chandaḥ](chando) [nivṛt](nivṛd) [dhūmāvatī+manuḥ](dhūmāvatīmanuḥ)
 
 ## mukta-m0-p79-v1966
-[ear-bindu-rich](karṇabindvāḍhyo)+[again](bhūyo)+[that](asau)+[with-creation](sargavān)+[becomes](bhavet)
+[karṇa+bindu+āḍhyaḥ](karṇabindvāḍhyo) [bhūyaḥ](bhūyo) [asau](asau) [sarga+vān](sargavān) [bhavet](bhavet)
 
 ## mukta-m0-p79-v1967
-[heart-ending](hṛdayānto)+[this](ayaṃ)+[mantra](mantraḥ)+[eight-syllable](aṣṭākṣara)+[essence](ātmakaḥ)
+[hṛdaya+antaḥ](hṛdayānto) [ayam](ayaṃ) [mantraḥ](mantro) [vasu+akṣara+ātmakaḥ](vasvakṣarātmakaḥ)
 
 ## mukta-m0-p79-v1968
-[durgā-declared](durgāsamīritā)+[true-ones](sadbhiḥ)+[suffering-remover](duritāpannivāriṇī)
+[durgā](durgā) [samīritā](samīritā) [sadbhiḥ](asadbhir) [durita+āpanna+nivāriṇī](duritāpannivāriṇī)
 
 ## mukta-m0-p79-v1969
-[eight-syllable](aṣṭākṣarī)+[called](samākhyātā)+[knowledge](vidyā)+[mahiṣamardinī](mahiṣamardinī)
+[aṣṭa+akṣarī](aṣṭākṣarī) [samākhyātā](samākhyātā) [vidyā](vidyā) [mahiṣa+mardinī](mahiṣamardinī)
 
 ## mukta-m0-p79-v1970
-[durgā](durgeyaṃ)+[knowledge](vidyā)+[knowable](vedyā)+[ten-syllable](daśākṣarī)
+[durgā](durgeyaṃ) [iyam](durgeyaṃ) [vidyā](vidyā) [vedyā](vedyā) [daśa+akṣarī](daśākṣarī)
 
 ## mukta-m0-p79-v1971
-[fire-wife-ending](vahnijāyānto)+[mantra](manuḥ)+[this](eṣa)+[ten-syllable](daśākṣaraḥ)
+[vahni+jāyā+antaḥ](vahnijāyānto) [manuḥ](manuḥ) [eṣaḥ](eṣa) [daśa+akṣaraḥ](daśākṣaraḥ)
 
 ## mukta-m0-p79-v1972
-[ma-ending](mastrānte)+[fire-wife-limit](vahnijāyāvadhiḥ)+[mantra](manuḥ)
+[maḥ+tra+ante](mastrānte) [vahni+jāyā+avadhiḥ](vahnijāyāvadhir) [manuḥ](manuḥ)
 
 ## mukta-m0-p79-v1973
-[deity](devatā)+[declared](proktā)+[all-gods-honored](samastasuravanditā)
+[devatā](devatā) [proktā](proktā) [samasta+sura+vanditā](samastasuravanditā)
 
 ## mukta-m0-p79-v1974
-[with-moon](sanetrenduḥ)+[will-sleep](svapiṣisyāt)+[fear](bhayaṃ)+[and](ca)+[me](me)
+[sa+netra+induḥ](sanetrenduḥ) [sva+piṣi+syāt](svapiṣisyād) [bhayam](bhayaṃ) [ca](ca) [me](me)
 
 ## mukta-m0-p79-v1975
-[will-say](vaded)+[bhagavatī](bhagavatiṃ)+[then](tataḥ)
+[vadet](vaded) [bhagavatīm](bhagavatiṃ) [tataḥ](tataḥ)

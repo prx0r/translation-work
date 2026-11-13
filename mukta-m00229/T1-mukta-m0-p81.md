@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[kuruta-ārttīyam](kurutārttīyaṃ) [vidyā](vidyā) [veda-akṣarī](vedākṣarī) [bhavet](bhavet)
+[do](kuruta) [ārtīyaṃ](ārttīyaṃ) [knowledge](vidyā) [veda+syllabled](veda+akṣarī) [should-be](bhavet)
 
 ## mukta-m0-p81-v2002
-[sarva](sarvasaubhāgyadā) [saubhāgya](sarvasaubhāgyadā) [dā](sarvasaubhāgyadā) [bhavet](bhavet)
+[all+auspiciousness+giving](sarva+saubhāgya+dā) [should-be](bhavet)
 
 ## mukta-m0-p81-v2003
-[devatā](devatā) [jagat](jagadīśvarī) [īśvarī](jagadīśvarī) [devī](devatā)
+[deity](devatā) [world+sovereign](jagad+īśvarī)
 
 ## mukta-m0-p81-v2004
-[vāgbhava](vāgbhave) [devī](devi) [nitya-kledinī](nityakledini) [ca-ālikhet](cālikhet)
+[in-vāgbhava](vāgbhave) [o-goddess](devi) [nityakledinī](nityakledini) [and](ca) [one-should-write](ālikhet)
 
 ## mukta-m0-p81-v2005
-[vāma-akṣi-bindu-nāda-anta](vāmākṣibindunādāntān) [tāra-bījaṃ](tārabījaṃ) [tatas](tato) [likhet](likhet)
+[left+eye+dot+nāda+ending](vāma+akṣi+bindu+nāda+antān) [tāra+seed](tāra+bījaṃ) [then](tato) [one-should-write](likhet)
 
 ## mukta-m0-p81-v2006
-[ākhyātaṃ](ākhyātaṃ) [devatā](devatā) [jīvanī](jīvanī) [bhavet](bhavet)
+[declared](ākhyātaṃ) [deity](devatā) [life-giving](jīvanī) [should-be](bhavet)
 
 ## mukta-m0-p81-v2007
-[ṛṣi-ādi](ṛṣyādi) [devī](devī) [kāmeśvarī](kāmeśvarī) [matā](matā)
+[seer+etc](ṛṣi+ādi) [goddess](devī) [kāmeśvarī](kāmeśvarī) [regarded](matā)
 
 ## mukta-m0-p81-v2008
-[ca-varga-mantya-hīnaṃ](cavargamantyahīnaṃ) [tu](tu) [vilikhet](vilikhedvahnisaṃsthitam) [vahni-saṃsthitam](vilikhedvahnisaṃsthitam)
+[ca-group+final+devoid](ca+varga+antya+hīnaṃ) [indeed](tu) [one-should-write](vilikhet) [fire+situated](vahni+saṃsthitam)
 
 ## mukta-m0-p81-v2009
-[syāt](syād) [bhareṇḍā](bhareṇḍā) [devatā](devatā) [bhavet](bhavet)
+[should-be](syād) [bhareṇḍā](bhareṇḍā) [deity](devatā) [should-be](bhavet)
 
 ## mukta-m0-p81-v2010
-[parāṃ](parāṃ) [vilikhya](vilikhya) [vahni-ante](vahnyante) [vāsinyai-namaḥ-iti-api](vāsinyai nama ityapi)
+[parā](parāṃ) [having-written](vilikhya) [fire+at-end](vahni+ante) [to-vāsinī](vāsinyai) [salutation](nama) [thus](iti) [also](api)
 
 ## mukta-m0-p81-v2011
-[vasiṣṭhaḥ](vasiṣṭhaḥ) [syāt](syādgāyatraṃ) [gāyatraṃ](gāyatraṃ) [chandaḥ-ucyate](chanda ucyate)
+[vasiṣṭha](vasiṣṭhaḥ) [should-be](syāt) [gāyatra](gāyatraṃ) [meter](chanda) [is-stated](ucyate)
 
 ## mukta-m0-p81-v2012
-[kathaṃ](kathaṃ) [pharaiṃ](pharaiṃ) [māyā](māyā) [candra-bījaṃ-visarga-vat](candrabījaṃ visargavat)
+[how](kathaṃ) [(pharaiṃ)]((pharaiṃ)) [māyā](māyā) [moon+seed](candra+bījaṃ) [with-visarga](visarga+vat)
 
 ## mukta-m0-p81-v2013
-[gāyatram-iti-uktaṃ](gāyatramityuktaṃ) [devī](devī) [vajreśvarī](vajreśvarī) [bhavet](bhavet)
+[gāyatra+thus+stated](gāyatram+iti+uktaṃ) [goddess+vajreśvarī](devī+vajreśvarī) [should-be](bhavet)
 
 ## mukta-m0-p81-v2014
-[chandaḥ-asyāṃ](chando'syāṃ) [devatā-īritā](devateritā)
+[meter](chandaḥ) [in-this](asyāṃ) [deity+declared](devatā+īritā)
 
 ## mukta-m0-p81-v2015
-[gāyatrī](gāyatrī) [chandaḥ](chandaḥ) [ucyate](ucyate) [devī](devī)
+[gāyatrī](gāyatrī) [meter](chanda) [is-stated](ucyate)
 
 ## mukta-m0-p81-v2016
-[kāmadaḥ](kāmado) [maṇiḥ](maṇiḥ) [kāma](kāmado) [daḥ](daḥ)
+[desire+granting](kāma+daḥ) [jewel](maṇiḥ)
 
 ## mukta-m0-p81-v2017
-[manum](manum) [ālikhet](ālikhet) [manu](manum) [likhet](ālikhet)
+[mantra](manuṃ) [one-should-write](ālikhet)
 
 ## mukta-m0-p81-v2018
-[proktā](proktā) [bhajatāṃ](bhajatāṃ) [kāmadaḥ](kāmado) [maṇiḥ](maṇiḥ)
+[proclaimed](proktā) [for-worshippers](bhajatāṃ) [desire+granting](kāma+daḥ) [jewel](maṇiḥ)
 
 ## mukta-m0-p81-v2019
-[bhedāḥ](bhedā) [na-uktāḥ](noktā) [vistara-kāraṇāt](vistarakāraṇāt) [bhedā](bhedā)
+[divisions](bhedāḥ) [not+stated](na+uktāḥ) [elaboration+reason](vistara+kāraṇāt)
 
 ## mukta-m0-p81-v2020
-[bhuvaneśānī-bījaṃ](bhuvaneśānībījaṃ) [tat](tad) [vāgbhavaṃ](vāgbhavaṃ) [bhavet](bhavet)
+[bhuvaneśānī+seed](bhuvaneśānī+bījaṃ) [that](tad) [vāgbhava](vāgbhavaṃ) [should-be](bhavet)
 
 ## mukta-m0-p81-v2021
-[rahitaṃ](rahitamādyādho) [ādya-adhaḥ](rahitamādyādho) [madana-akṣaram](madanākṣaram) [madana](madanākṣaram)
+[devoid+of-first+and-lower](rahitam+ādya+adhaḥ) [madana+syllable](madana+akṣaram)
 
 ## mukta-m0-p81-v2022
-[kāma-bījaṃ](kāmabījaṃ) [mahodayam](mahodayam) [kāma](kāmabījaṃ) [bījaṃ](bījaṃ)
+[kāma+seed](kāma+bījaṃ) [greatly+prosperous](mahā+udayam)
 
 ## mukta-m0-p81-v2023
-[kevalaṃ](kevalaṃ) [tu](tu) [viniyojya](viniyojya) [varānane](varānane)
+[only](kevalaṃ) [indeed](tu) [having-employed](viniyojya) [o-fair-faced-one](vara+ānane)
 
 ## mukta-m0-p81-v2024
-[pura-sundarī](purasundarī) [pura](purasundarī) [sundarī](sundarī) [devī](devī)
+[purasundarī](purasundarī)
 
 ## mukta-m0-p81-v2025
-[prathamāyāḥ-tu](prathamāyāstu) [vidyāyāḥ](vidyāyāḥ) [śaktiṃ](śaktiṃ) [turyaṃ-ca](turyañca) [sundari](sundari)
+[of-first](prathamāyāḥ) [indeed](tu) [of-vidyā](vidyāyāḥ) [śakti](śaktiṃ) [fourth](turyaṃ) [and](ca) [o-beautiful-one](sundari)

@@ -3,34 +3,44 @@
  "verse": 945,
  "rows": [
   {
-   "lemma": "niṣphalaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "without desired result"
+   "lemma": "vaktra",
+   "morph": "compound=vaktra+koṭi",
+   "grounds": "organ of speech"
   },
   {
-   "lemma": "jāyate",
-   "morph": "3.sg.pres.mid √jan",
-   "grounds": "resulting state"
+   "lemma": "koṭi",
+   "morph": "compound=vaktra-koṭi+sahasra",
+   "grounds": "large number"
   },
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "sahasraiḥ",
+   "morph": "n.ins.pl",
+   "grounds": "multiplied quantity"
   },
   {
-   "lemma": "devatā",
-   "morph": "f.nom.sg",
-   "grounds": "divine recipient"
-  },
-  {
-   "lemma": "na",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "negates satisfaction"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "prasīdati",
-   "morph": "3.sg.pres.act √pra-sad",
-   "grounds": "divine favor not obtained"
+   "lemma": "jihvā",
+   "morph": "compound=jihvā+koṭi",
+   "grounds": "organ of speech"
+  },
+  {
+   "lemma": "koṭi",
+   "morph": "compound=jihvā-koṭi+śata",
+   "grounds": "large number"
+  },
+  {
+   "lemma": "śataiḥ",
+   "morph": "n.ins.pl",
+   "grounds": "multiplied quantity"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "emphatic inclusion"
   }
  ]
 }
