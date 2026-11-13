@@ -3,34 +3,44 @@
  "verse": 558,
  "rows": [
   {
-   "lemma": "punaḥ",
+   "lemma": "saṃdṛṣṭañ",
+   "morph": "n.nom.sg",
+   "grounds": "past participle indicating what was seen"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating repetition"
+   "grounds": "conjunction linking seen and heard"
   },
   {
-   "lemma": "pañcaśataṃ",
-   "morph": "n.acc.sg",
-   "grounds": "numeral indicating count of recitations"
+   "lemma": "śrutaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "past participle indicating what was heard"
   },
   {
-   "lemma": "japtvā",
-   "morph": "abs.√jap",
-   "grounds": "absolutive of recitation"
+   "lemma": "yadyat",
+   "morph": "n.nom.sg",
+   "grounds": "indefinite relative compound indicating anything at all"
   },
   {
-   "lemma": "siddhārthaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "ritual substance"
+   "lemma": "kathituṃ",
+   "morph": "(infinitive) √kath",
+   "grounds": "infinitive expressing the act of telling"
   },
   {
-   "lemma": "cākṣataṃ",
-   "morph": "(indecl.)+n.acc.sg",
-   "grounds": "conjunction fused with object: ca + akṣatam"
-  },
-  {
-   "lemma": "tathā",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating inclusion"
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "śakyate",
+   "morph": "3.sg.present-passive √śak",
+   "grounds": "passive verb expressing possibility"
   }
  ]
 }

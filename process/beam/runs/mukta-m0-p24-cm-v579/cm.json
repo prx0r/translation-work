@@ -3,44 +3,24 @@
  "verse": 579,
  "rows": [
   {
-   "lemma": "śīva",
-   "morph": "compound-member",
-   "grounds": "name element in plant designation"
+   "lemma": "sarva+śāstra+mayaṃ",
+   "morph": "compound: sarva+stem + śāstra+stem + maya+adj.nom/acc.sg.n",
+   "grounds": "compound: sarva+all + śāstra+scripture + mayaṃ+consisting-of; nominative or accusative singular neuter"
   },
   {
-   "lemma": "+",
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative singular feminine; address to the goddess"
+  },
+  {
+   "lemma": "sarva+yoga+mayaṃ",
+   "morph": "compound: sarva+stem + yoga+stem + maya+adj.nom/acc.sg.n",
+   "grounds": "compound: sarva+all + yoga+yoga + mayaṃ+consisting-of; nominative or accusative singular neuter"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "compound connector"
-  },
-  {
-   "lemma": "śrapuṃkhikā",
-   "morph": "compound-member",
-   "grounds": "plant name element"
-  },
-  {
-   "lemma": "+",
-   "morph": "(indecl.)",
-   "grounds": "compound connector"
-  },
-  {
-   "lemma": "mūlaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "part of the plant used"
-  },
-  {
-   "lemma": "śatāṣṭa",
-   "morph": "compound-member",
-   "grounds": "number of repetitions"
-  },
-  {
-   "lemma": "+",
-   "morph": "(indecl.)",
-   "grounds": "compound connector"
-  },
-  {
-   "lemma": "parijapitam",
-   "morph": "n.nom.sg (past-participle) pari-√jap",
-   "grounds": "mantric consecration of the root"
+   "grounds": "indeclinable adverb indicating similarity or addition"
   }
  ]
 }

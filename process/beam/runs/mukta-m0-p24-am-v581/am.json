@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p24",
  "verse": 581,
- "question": "Why does the speaker set aside elaboration to state the essential teaching?",
+ "question": "What state of uncertainty remains regarding the vision or knowledge described?",
  "premises": [
-  "Much speaking is deemed unnecessary for a special point.",
-  "The speaker declares an intention to state the essence."
+  "The term saṃśayaḥ denotes doubt.",
+  "It is stated as a concluding assertion in context.",
+  "The context implies negation of doubt."
  ],
- "inference": "Instead of elaborating further, the speaker chooses to declare the essential teaching directly.",
- "uncertainties": [],
- "plain_english": "What is the use of much speaking? I declare this essence."
+ "inference": "There is no doubt concerning the matter described.",
+ "uncertainties": [
+  "The negation 'no' is implied from surrounding verses rather than explicit in this token."
+ ],
+ "plain_english": "There is no doubt."
 }
