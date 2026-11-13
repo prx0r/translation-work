@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusive indeclinable drawing the injunction from the preceding context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of a compound qualifying the effort as total",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental expressing the means; compound sarva-prayatnena 'with all effort'",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "first member of a compound indicating the source of release",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "muktaṃ",
+     "gloss": "released",
+     "grounds": "past participle of muc; compound vahni-muktaṃ 'released from fire', object to be obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāharet",
+     "gloss": "one-should-bring",
+     "grounds": "optative prescribing the act of collecting or bringing",
+     "morph": "3.sg.opt.act sam-ā-√hṛ"
+    }
+   ],
+   "question": "What degree of effort is required when obtaining material released from fire?",
+   "premises": [
+    "The preceding context establishes the sourcing of ritual material.",
+    "Material released from fire is to be obtained.",
+    "The prescribed means is effort that is total."
+   ],
+   "inference": "Therefore, one should obtain fire-released material with all possible effort.",
+   "uncertainties": [
+    "The precise nature of vahni-muktaṃ (fire-released material) depends on the ritual context of the preceding verses."
+   ],
+   "plain_english": "Therefore, one should bring what has been released from the fire with every effort."
+  }
+ ]
+}

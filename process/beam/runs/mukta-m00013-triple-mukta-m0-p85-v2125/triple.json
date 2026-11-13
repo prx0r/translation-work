@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "modifies bhāgaṃ as a single unit of measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "portion of the previously established measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bahis",
+     "gloss": "outside",
+     "grounds": "indicates placement beyond the prior boundary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund ni-√as"
+    },
+    {
+     "surface": "bhrāmayet",
+     "gloss": "one-should-rotate",
+     "grounds": "prescribes the action of revolving to trace a form",
+     "morph": "3.sg.opt.act caus. √bhram"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrument referring to the placed part or measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "varttulam",
+     "gloss": "circular",
+     "grounds": "describes the resulting shape of the fire-pit",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What procedure produces a circular fire-pit from the previously measured portion?",
+   "premises": [
+    "One part is to be placed outside the existing layout.",
+    "The placed part serves as the instrument for rotation.",
+    "Rotation by that measure yields a circular form."
+   ],
+   "inference": "Therefore, placing one part outside and rotating by it produces a circular fire-pit.",
+   "uncertainties": [
+    "The exact referent of tena, whether the part itself or the radius defined by it, is contextually implied."
+   ],
+   "plain_english": "Having placed one part outside, one should rotate by that measure to make the fire-pit circular."
+  }
+ ]
+}
