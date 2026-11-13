@@ -52,7 +52,7 @@
 "quick_gloss": "established"
 },
 {
-"surface": "catvāri",
+"surface": "catvāry",
 "quick_gloss": "four"
 },
 {
@@ -135,8 +135,8 @@
 "quick_gloss": "branch+thickness"
 },
 {
-"surface": "aṅguli+ūnaṃ",
-"quick_gloss": "by-finger+less"
+"surface": "aṅgula+ūnaṃ",
+"quick_gloss": "by-aṅgula+less"
 },
 {
 "surface": "dalaṃ",
@@ -161,7 +161,7 @@
 "tokens": [
 {
 "surface": "mahā+arcā+dhāmni",
-"quick_gloss": "in-great+image+shrine"
+"quick_gloss": "in-great+image+abode"
 },
 {
 "surface": "keṣāñcid",
@@ -169,7 +169,7 @@
 },
 {
 "surface": "rudra+śākhā+anvitaṃ",
-"quick_gloss": "with-Rudra+branch"
+"quick_gloss": "with-rudra+branch"
 },
 {
 "surface": "matam",
@@ -190,11 +190,11 @@
 },
 {
 "surface": "rasa+aṃśena",
-"quick_gloss": "by-sixth+part"
+"quick_gloss": "by-six+part"
 },
 {
 "surface": "tam+ākhyā",
-"quick_gloss": "that+called"
+"quick_gloss": "that-called"
 },
 {
 "surface": "āśrama+bhāgikā",
@@ -223,11 +223,11 @@
 },
 {
 "surface": "mūla+ākhyā",
-"quick_gloss": "root+called"
+"quick_gloss": "root-called"
 },
 {
-"surface": "viṣapeṇa",
-"quick_gloss": "by-fifth-part"
+"surface": "viṣa+peṇa",
+"quick_gloss": "by-five+part"
 },
 {
 "surface": "tu",
@@ -281,10 +281,10 @@
 },
 {
 "surface": "bhūtā",
-"quick_gloss": "by-five"
+"quick_gloss": "five"
 },
 {
-"surface": "syāt",
+"surface": "syād",
 "quick_gloss": "should-be"
 },
 {
@@ -302,7 +302,7 @@
 "tokens": [
 {
 "surface": "sa+ardha+ambu+vistareṇa",
-"quick_gloss": "with-one-and-half+water+width"
+"quick_gloss": "with-half+water+width"
 },
 {
 "surface": "tu",
@@ -348,7 +348,7 @@
 "tokens": [
 {
 "surface": "viṣaṣeṇa",
-"quick_gloss": "by-fifth-part"
+"quick_gloss": "by-five+part"
 },
 {
 "surface": "tu",
@@ -382,15 +382,15 @@
 "tokens": [
 {
 "surface": "śobhā+anurūpataḥ",
-"quick_gloss": "according-to-beauty+fitness"
+"quick_gloss": "according-to-beauty"
 },
 {
 "surface": "kāryāḥ",
 "quick_gloss": "to-be-made"
 },
 {
-"surface": "paṭṭikā+ādyāḥ",
-"quick_gloss": "strips+etc"
+"surface": "paṭṭikā+ādyās",
+"quick_gloss": "strip+etc"
 },
 {
 "surface": "tu",
@@ -410,12 +410,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daṇḍa+andha+kārikānām",
-"quick_gloss": "of-staff+blind+makers"
+"surface": "daṇḍa+andha+kārikā+nāma",
+"quick_gloss": "of-staff+blind+maker"
 },
 {
 "surface": "śānta+ākhyā",
-"quick_gloss": "peace+called"
+"quick_gloss": "peace-called"
 },
 {
 "surface": "rūpa+śākhikā",
@@ -440,15 +440,11 @@
 },
 {
 "surface": "rūpa+ākhyā",
-"quick_gloss": "form+called"
+"quick_gloss": "form-called"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "andhakārī",
-"quick_gloss": "blind-maker"
+"surface": "ca+andhakārī",
+"quick_gloss": "and-blind-maker"
 },
 {
 "surface": "marīcikā",
@@ -464,8 +460,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+ardha+bhūta+aṃśa+sa+ardha+eka+yuga+eka+sa+ardha+vāribhiḥ",
-"quick_gloss": "with-half+five+parts+half+one+pair+one+half+water"
+"surface": "sa+ardha+bhūta+aṃśa",
+"quick_gloss": "with-half+five+part"
+},
+{
+"surface": "sa+ardha+eka",
+"quick_gloss": "with-half+one"
+},
+{
+"surface": "yuga",
+"quick_gloss": "with-pair"
+},
+{
+"surface": "eka",
+"quick_gloss": "with-one"
+},
+{
+"surface": "sa+ardha+vāri+bhiḥ",
+"quick_gloss": "with-half+water"
 }
 ]
 },
@@ -478,7 +490,7 @@
 "tokens": [
 {
 "surface": "bāṇa+aṃśāt",
-"quick_gloss": "from-five+parts"
+"quick_gloss": "from-five+part"
 },
 {
 "surface": "mūla+śākhā",
@@ -524,7 +536,7 @@
 "tokens": [
 {
 "surface": "dhvānta+ākhyā",
-"quick_gloss": "darkness+called"
+"quick_gloss": "darkness-called"
 },
 {
 "surface": "patra+śākhā",
@@ -568,8 +580,12 @@
 "quick_gloss": "to-be-made"
 },
 {
-"surface": "sa+ardha+iṣu+sa+ardha+candravat",
-"quick_gloss": "with-half+five+half+moon"
+"surface": "sa+ardha+iṣu",
+"quick_gloss": "with-half+five"
+},
+{
+"surface": "sa+ardha+candra+vat",
+"quick_gloss": "like-half+moon"
 }
 ]
 },
@@ -581,8 +597,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tanu+turya+śaśāṅka+ākhya+bāṇa+eka+jala+saṅkhyayā",
-"quick_gloss": "by-body+four+moon+called+five+one+water+number"
+"surface": "tanu",
+"quick_gloss": "by-body"
+},
+{
+"surface": "turya",
+"quick_gloss": "four"
+},
+{
+"surface": "śaśāṅka+ākhya",
+"quick_gloss": "moon-called"
+},
+{
+"surface": "bāṇa",
+"quick_gloss": "five"
+},
+{
+"surface": "eka",
+"quick_gloss": "one"
+},
+{
+"surface": "jala+saṅkhyayā",
+"quick_gloss": "water+number"
 }
 ]
 },
@@ -594,12 +630,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sapta+iṣu+muni+randhrāṇi",
-"quick_gloss": "seven+five+nine+cavities"
+"surface": "sapta",
+"quick_gloss": "seven"
+},
+{
+"surface": "iṣu",
+"quick_gloss": "five"
+},
+{
+"surface": "muni",
+"quick_gloss": "seven"
+},
+{
+"surface": "randhrāṇi",
+"quick_gloss": "nine"
 },
 {
 "surface": "rudrakaiḥ",
-"quick_gloss": "by-Rudras"
+"quick_gloss": "by-elevens"
 }
 ]
 },
@@ -611,8 +659,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daṇḍa+andha+kārikā+anāgata",
-"quick_gloss": "of-staff+blind+maker+gone"
+"surface": "daṇḍa+andha+kārikā+nā",
+"quick_gloss": "of-staff+blind-maker"
+},
+{
+"surface": "āgata",
+"quick_gloss": "arrived"
 },
 {
 "surface": "stambha+andhakārikā",
