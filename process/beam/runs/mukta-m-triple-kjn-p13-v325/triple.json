@@ -7,44 +7,44 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "accusative singular masculine of tad",
+     "grounds": "accusative singular masculine pronoun referring to the hidden true nature",
      "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of jñā",
-     "morph": "indecl."
+     "grounds": "absolutive of root jñā, expressing completed knowledge",
+     "morph": "absolutive, root jñā"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound gūḍha plus sadbhāva, accusative singular masculine",
-     "morph": "m.acc.sg compound"
+     "grounds": "compound in accusative singular masculine, object of knowing",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "neuter nominative singular of sarvajñatva",
+     "grounds": "abstract noun naming the quality that arises",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "present middle third singular of pra-jan",
-     "morph": "3.sg.mid-pres"
+     "grounds": "middle-voice present form with prefix pra, root jan",
+     "morph": "3.sg.ātmanepada-present, root jan"
     }
    ],
-   "question": "Does knowing that hidden true nature cause all-knowingness to arise in the knower?",
+   "question": "What arises when one knows the hidden true nature?",
    "premises": [
-    "knowing hidden true nature precedes arising",
-    "all-knowingness arises as result",
-    "verse links knowledge to omniscience"
+    "Knowing hidden true nature yields all-knowingness.",
+    "The verse states arising of sarvajñatvam.",
+    "Taṃ refers to hidden true nature."
    ],
-   "inference": "Hidden true nature known, all-knowingness arises.",
+   "inference": "Knowledge of the concealed true nature produces omniscience.",
    "uncertainties": [
-    "exact referent of taṃ unclear",
-    "scope of gūḍhasadbhāvaṃ unspecified"
+    "Exact referent of taṃ depends on prior context.",
+    "Middle-voice nuance of prajāyate is not fully specified."
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }

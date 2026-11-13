@@ -1,0 +1,342 @@
+{
+ "song": "kjn-p10",
+ "items": [
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "balī",
+     "gloss": "wrinkle",
+     "grounds": "aging sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palita",
+     "gloss": "grey-hair",
+     "grounds": "aging sign",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "removal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudūrāt",
+     "gloss": "from-very-far",
+     "grounds": "distance",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "darśanam",
+     "gloss": "seeing",
+     "grounds": "perception",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does one remove wrinkles and grey hair from afar?",
+   "premises": [
+    "wrinkles and grey hair vanish from afar",
+    "seeing from distance removes aging signs"
+   ],
+   "inference": "distant seeing removes aging signs",
+   "uncertainties": [
+    "balī gloss uncertain"
+   ],
+   "plain_english": "Wrinkles and grey hair are destroyed from very far by seeing, likewise."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "ekānte",
+     "gloss": "in-solitude",
+     "grounds": "place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp+root kṛ"
+    },
+    {
+     "surface": "dhyānañ",
+     "gloss": "meditation",
+     "grounds": "practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatparaḥ",
+     "gloss": "intent-on-that",
+     "grounds": "focus",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should one meditate in solitude with many forms?",
+   "premises": [
+    "meditate in solitude",
+    "make forms in many ways",
+    "remain intent on that"
+   ],
+   "inference": "solitary meditation with varied forms requires intent focus",
+   "uncertainties": [
+    "dhyānañ sandhi spelling retained"
+   ],
+   "plain_english": "In solitude make form in many ways, meditate, and remain intent on that."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "kurute",
+     "gloss": "he-makes",
+     "grounds": "action",
+     "morph": "3.sg.mid-pres+root kṛ"
+    },
+    {
+     "surface": "amaratvaṃ",
+     "gloss": "immortality",
+     "grounds": "result",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satata",
+     "gloss": "in-constant",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyāsa",
+     "gloss": "practice",
+     "grounds": "discipline",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatparaḥ",
+     "gloss": "intent",
+     "grounds": "focus",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does constant practice make one immortal?",
+   "premises": [
+    "constant practice makes immortality",
+    "intent focus sustains practice"
+   ],
+   "inference": "immortality arises through constant intent practice",
+   "uncertainties": [
+    "tatparaḥ gloss shortened"
+   ],
+   "plain_english": "He indeed makes immortality through constant practice, being intent."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "divasāt",
+     "gloss": "by-day",
+     "grounds": "time",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nāśanena",
+     "gloss": "non-eating",
+     "grounds": "fasting",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vayo",
+     "gloss": "age",
+     "grounds": "aging",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuṃ",
+     "gloss": "death",
+     "grounds": "mortality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gamiṣyate",
+     "gloss": "will-go",
+     "grounds": "future",
+     "morph": "3.sg.mid-fut+root gam"
+    }
+   ],
+   "question": "How does daytime fasting remove age and death?",
+   "premises": [
+    "daytime fasting removes age",
+    "daytime fasting removes death"
+   ],
+   "inference": "daytime fasting eliminates age and death",
+   "uncertainties": [
+    "nāśanena gloss approximate"
+   ],
+   "plain_english": "By daytime fasting indeed age and death will go."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "satata",
+     "gloss": "by-constant",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyāsa",
+     "gloss": "practice",
+     "grounds": "discipline",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogena",
+     "gloss": "yoga",
+     "grounds": "method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dvi",
+     "gloss": "two",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "times-eight",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣa",
+     "gloss": "year",
+     "grounds": "time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ākṛtiḥ",
+     "gloss": "form",
+     "grounds": "result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "he-becomes",
+     "grounds": "result",
+     "morph": "3.sg.act-opt+root bhū"
+    }
+   ],
+   "question": "What form results from constant yoga practice for sixteen years?",
+   "premises": [
+    "constant yoga practice for sixteen years",
+    "form becomes transformed"
+   ],
+   "inference": "sixteen years of constant yoga changes one's form",
+   "uncertainties": [
+    "dvi aṣṭa interpreted as sixteen"
+   ],
+   "plain_english": "By constant yoga practice for sixteen years, one's form becomes."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "dhūmra",
+     "gloss": "smoke",
+     "grounds": "color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "colored",
+     "grounds": "appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintya",
+     "gloss": "contemplate",
+     "grounds": "meditation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "triple-world",
+     "grounds": "cosmos",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cālayet",
+     "gloss": "he-shakes",
+     "grounds": "action",
+     "morph": "3.sg.act-opt+root cal"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How does contemplating smoke color shake the triple world?",
+   "premises": [
+    "always contemplate smoke color",
+    "triple world is shaken"
+   ],
+   "inference": "contemplating smoke color shakes the triple world",
+   "uncertainties": [
+    "dhūmra varṇaṃ gloss approximate"
+   ],
+   "plain_english": "O beloved, always contemplate smoke color; he shakes the triple world."
+  }
+ ]
+}
