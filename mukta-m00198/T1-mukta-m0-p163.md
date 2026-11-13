@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p163-v4051
-[peepal-tree](aśvatthaṃ) [acacia](khādiraṃ) [and](ca) [indeed](eva) [banyan+essence](nyagrordhasāra) [tamarind](tiṃtriṇī)
+[aśvattha-tree](aśvatthaṃ) [khadira-tree](khādiraṃ) [and](ca) [indeed](eva) [nyagrodha-heartwood](nyagrodha+sāra) [tamarind](tiṃtriṇī)
 
 ## mukta-m0-p163-v4052
-[madhuka-tree+essence](madhūkasāravṛkṣaṃ) [and](ca) [flag-staff](dhvajadaṇḍam) [here](iha) [is-said](ucyate)
+[madhūka-heartwood-tree](madhūka+sāra+vṛkṣaṃ) [and](ca) [flag-staff](dhvaja+daṇḍam) [here](iha) [is-called](ucyate)
 
 ## mukta-m0-p163-v4053
-[staff-measure](daṇḍamānam) [thus](iti) [is-declared](proktaṃ) [flag-staff](dhvajadaṇḍam) [here](iha) [is-said](ucyate)
+[staff-measure](daṇḍa+mānam) [thus](iti) [declared](proktaṃ) [flag-staff](dhvaja+daṇḍam) [here](iha) [is-called](ucyate)
 
 ## mukta-m0-p163-v4054
-[between-house-and-gate](gehagopurayormadhye) [offering-platform](balipīṭhaṃ) [indeed](tu) [should-place](vinyaset)
+[house-and-gateway](geha+gopurayoḥ) [in-the-middle](madhye) [offering-pedestal](bali+pīṭhaṃ) [indeed](tu) [one-should-place](vinyaset)
 
 ## mukta-m0-p163-v4055
-[great-small](mahatyalpaṃ) [and](ca) [two-fold](dvividhaṃ) [flag](dhvajam) [high](uttuṃgam) [will-go](iṣyate)
+[large](mahat) [and-small](alpaṃ) [and](ca) [twofold](dvividhaṃ) [flag](dhvajam) [lofty](uttuṃgam) [is-desired](iṣyate)
 
 ## mukta-m0-p163-v4056
-[stupa-ended](stūpyantaṃ) [peak-ended](śikharāntaṃ) [nose-ended](nāsikāntaṃ) [throat-ended](galāntakam)
+[up-to-finial](stūpi+antaṃ) [up-to-śikhara](śikhara+antaṃ) [and](ca) [up-to-nāsikā](nāsikā+antaṃ) [up-to-neck](gala+antakam)
 
 ## mukta-m0-p163-v4057
-[half-hand-foot-less](hastārdhapādahīnaṃ) [indeed](tu) [one-hand-ended](ekahastāvasānakam)
+[cubit-half-quarter-less](hasta+ardha+pāda+hīnaṃ) [indeed](tu) [ending-at-one-cubit](eka+hasta+avasānakam)
 
 ## mukta-m0-p163-v4058
-[root-shrine-width](mūlaprāsādavistāraṃ) [that-equal](tatsamaṃ) [or](vā) [three-footed](tripādakam)
+[root-temple-width](mūla+prāsāda+vistāraṃ) [equal-to-that](tat+samam) [or](vā) [three-quarters](tri+pādakam)
 
 ## mukta-m0-p163-v4059
-[from-gate-eastern](gopurātpūrvā) [western-end](parāntaṃ) [indeed](tu) [shrine-equal](prāsādasamameva) [or](vā)
+[from-gateway](gopurāt) [from-east](pūrvā) [to-far-end](para+antaṃ) [indeed](tu) [equal-to-temple](prāsāda+samam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p163-v4060
-[hand](hasta) [three-five-seven](tripaṃcasaptābhi) [nine-hands-end](navahastāntameva) [or](vā)
+[cubit](hasta) [by-three-five-seven](tri+paṃca+saptābhi) [up-to-nine-cubits](nava+hasta+antam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p163-v4061
-[one-part](ekāṃśaṃ) [lotus-high](padmatuṃgaṃ) [indeed](tu) [trembling-part](kampamaṃśāṃśam) [lotus](ambujam)
+[one-part](eka+aṃśaṃ) [lotus-height](padma+tuṃgaṃ) [indeed](tu) [fillet-one-part](kampa+aṃśa) [lotus-part](aṃśam) [lotus](ambujam)
 
 ## mukta-m0-p163-v4062
-[madhuka-trembling-lotus-part](madhokaṃpapadmāṃśaṃ) [declared](proktaṃ) [veda-part](vedāṃśaṃ) [throat](kaṇṭham) [is-said](ucyate)
+[below-fillet-lotus-part](madha+kampa+padma+aṃśaṃ) [declared](proktaṃ) [four-parts](veda+aṃśaṃ) [neck](kaṇṭham) [is-called](ucyate)
 
 ## mukta-m0-p163-v4063
-[single-leaf-lotus](ekapatrapadmamadhā) [trembling-part](kampamaṃśaṃ) [pericarp](mathakarṇikā)
+[one-petal-lotus-below](eka+patra+padmam+adhā) [fillet-one-part](kampa+aṃśaṃ) [then-pericarp](atha+karṇikā)
 
 ## mukta-m0-p163-v4064
-[wheel](cakraṃ) [or](vāpi) [trident](triśūlaṃ) [or](vā) [shrine](prāsāda) [half](syārdhameva) [or](vā)
+[wheel](cakraṃ) [or](vā) [indeed](api) [trident](triśūlaṃ) [or](vā) [of-temple](prāsāda) [half](asya+ardham) [indeed](eva) [or](vā)
 
 ## mukta-m0-p163-v4065
-[one-to-nine-hands](ekādi navahastāntaṃ) [measure-determination](mānanirṇayam) [is-intended](iṣyate)
+[from-one](eka+ādi) [up-to-nine-cubits](nava+hasta+antaṃ) [measure-determination](māna+nirṇayam) [is-desired](iṣyate)
 
 ## mukta-m0-p163-v4066
-[nārāyaṇī](nārāyaṇyamekabhūmaṃ) [principal](pradhānam)
+[Nārāyaṇī](nārāyaṇyam) [one-storey](eka+bhūmaṃ) [principal](pradhānam)
 
 ## mukta-m0-p163-v4067
-[ārṣa](ārṣakaṃ) [standing](sthānakaṃ) [and](ca) [eva](eva) [svāyambhuva](svāyaṃbhuvam) [then](atha) [seat](āsanam)
+[Ārṣaka](ārṣakaṃ) [standing](sthānakaṃ) [and](ca) [indeed](eva) [Svāyaṃbhuva](svāyaṃbhuvam) [then-seated](atha+āsanam)
 
 ## mukta-m0-p163-v4068
-[divine](devikaṃ) [vehicle](yānakaṃ) [declared](proktaṃ) [thus](evaṃ) [characteristic](lakṣaṇam) [is-said](ucyate)
+[Daivika](devikaṃ) [riding](yānakaṃ) [declared](proktaṃ) [thus](evaṃ) [characteristic](lakṣaṇam) [is-called](ucyate)
 
 ## mukta-m0-p163-v4069
-[vehicle](yānakaṃ) [indeed](tu) [hermitage](aśramevoktaṃ) [eight-cornered](aṣṭāśraṃ) [bed](śayanaṃ) [becomes](bhavet)
+[riding](yānakaṃ) [indeed](tu) [octagonal](aśram) [indeed](eva) [stated](uktam) [octagonal](aṣṭa+aśraṃ) [reclining](śayanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p163-v4070
-[round-seat-seated](vṛttapīṭhasthitā) [gaurī](gaurī) [auspicious-seat](bhadrapīṭhaṃ) [indeed](tu) [seat](cāsanam)
+[on-circular-pedestal-standing](vṛtta+pīṭha+sthitā) [Gaurī](gaurī) [on-square-pedestal](bhadra+pīṭhaṃ) [indeed](tu) [seated](ca+āsanam)
 
 ## mukta-m0-p163-v4071
-[āmoda](āmodaśca) [and](ca) [pramoda](pramodaśca) [prominent](pramukho) [averted](vimukhastathā)
+[Āmoda](āmodaḥ) [and](ca) [Pramoda](pramodaḥ) [and](ca) [Pramukha](pramukhaḥ) [Vimukha](vimukhaḥ) [likewise](tathā)
 
 ## mukta-m0-p163-v4072
-[width-from-pillar-outside](vistārastambhato bāhye) [birth-from](janmāt) [stupa-ended](stūpyantam) [raised](unnatam)
+[width-from-pillar](vistāra+stambhataḥ) [outside](bāhye) [from-base](janmāt) [up-to-finial](stūpi+antam) [height](unnatam)
 
 ## mukta-m0-p163-v4073
-[divine](daivikaṃ) [indeed](tu) [of-bhava-etc](bhavādīnāṃ) [of-indra-etc](indrādīnāṃ) [indeed](tu) [human](mānuṣam)
+[divine](daivikaṃ) [indeed](tu) [of-Bhava-and-others](bhava+ādīnāṃ) [of-Indra-and-others](indra+ādīnāṃ) [indeed](tu) [human](mānuṣam)
 
 ## mukta-m0-p163-v4074
-[of-vasus](vasūnāṃ) [bāṇa-linga](bāṇaliṃge) [indeed](tu) [of-vidyeśas](vidyeśānāṃ) [indeed](tu) [divine](daivikam)
+[of-the-Vasus](vasūnāṃ) [in-Bāṇa-liṅga](bāṇa+liṃge) [indeed](tu) [of-the-Vidyeśas](vidyeśānāṃ) [indeed](tu) [divine](daivikam)
 
 ## mukta-m0-p163-v4075
-[bhava](bhavaśśarvastatheśānaḥ) [śarva](bhavaśśarvastatheśānaḥ) [thus](tathā) [īśāna](bhavaśśarvastatheśānaḥ) [paśupati](paśupatirnīlalohitaḥ) [blue-red](paśupatirnīlalohitaḥ)
+[Bhava](bhavaḥ) [Śarva](śarvaḥ) [and-likewise](tathā) [Īśāna](īśānaḥ) [Paśupati](paśupatiḥ) [Nīlalohita](nīla+lohitaḥ)

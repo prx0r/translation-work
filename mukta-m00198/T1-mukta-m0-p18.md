@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[upper](ūrdhve) [ground](bhūmyaṃghri) [high](tuṃgaṃ) [that](tu) [seven-part](saptabhāgaṃ) [divided](vibhājite)
+[above](ūrdhve) [on-ground+foot](bhūmyaṃghri) [height](tuṃgaṃ) [indeed](tu) [seven+parts](saptabhāgaṃ) [when-divided](vibhājite)
 
 ## mukta-m0-p18-v427
-[three-four-five-part](tricatuḥpaṃcabhāgaṃ) [that](tu) [neck-height](galotsedhaṃ) [divided](vibhājite)
+[three+four+five+parts](tricatuḥpaṃcabhāgaṃ) [indeed](tu) [neck+height](galotsedhaṃ) [when-divided](vibhājite)
 
 ## mukta-m0-p18-v428
-[removed-height-measure](āpetotsedhāṃśamānaṃ) [or](vā) [neck-base](galamūle) [platform](tu) [vedikā](vedikā)
+[up-to+height+part+measure](āpetotsedhāṃśamānaṃ) [or](vā) [at-neck+base](galamūle) [indeed](tu) [platform](vedikā)
 
 ## mukta-m0-p18-v429
-[neck-above](galordhve) [one-part-shaking](kaṃpamekāṃśaṃ) [one](ekena) [lotus](abjaṃ) [should-arrange](prakalpayet)
+[above+neck](galordhve) [fillet+one+part](kaṃpamekāṃśaṃ) [by-one](ekena) [lotus](abjaṃ) [one-should-make](prakalpayet)
 
 ## mukta-m0-p18-v430
-[seven-eight-part](saptāṃṣṭāṃśe) [platform-height](tu) [veda-born](vedabhūtaṃ) [gradually](kramād) [neck](galam)
+[in-seven+eight+parts](saptāṃṣṭāṃśe) [indeed](tu) [of-platform+height](vedyucce) [four+five](vedabhūtaṃ) [in-order](kramād) [neck](galam)
 
 ## mukta-m0-p18-v431
-[ear-measure](karṇamānena) [that-base](tanmūle) [shaking-one](kaṃpamekena) [should-arrange](kalpayet)
+[by-corner+measure](karṇamānena) [at-its+base](tanmūle) [fillet](kaṃpam) [by-one](ekena) [one-should-make](kalpayet)
 
 ## mukta-m0-p18-v432
-[one-and-half-part](adhyardhāṃśaṃ) [or](tu) [vā](vā) [lotus](padmaṃ) [high](tuṃgaṃ) [two-part](dvyaṃśam) [then-or](athāpi) [or](vā)
+[one-and-half+part](adhyardhāṃśaṃ) [indeed](tu) [or](vā) [lotus](padmaṃ) [height](tuṃgaṃ) [two+parts](dvyaṃśam) [or+also](athāpi) [or](vā)
 
 ## mukta-m0-p18-v433
-[all](sarvāsāṃ) [platforms](vedikānāṃ) [tu](tu) [neck-foot-ornament](galamaṃghrivibhūṣitam)
+[of-all](sarvāsāṃ) [platforms](vedikānāṃ) [indeed](tu) [neck](galam) [with-foot+ornamented](aṃghrivibhūṣitam)
 
 ## mukta-m0-p18-v434
-[stone-slab-above-platforms](prastaroparivedīnāṃ) [enclosure](veśanaṃ) [hear](śṛṇu) [good-vowed](suvrata)
+[of-platforms+above+entablature](prastaroparivedīnāṃ) [perforation](veśanaṃ) [hear](śṛṇu) [O-good-vowed-one](suvrata) [!](!)
 
 ## mukta-m0-p18-v435
-[four-part-one-enclosure](caturbhāgaikaveśaṃ) [vā](vā)
+[one+perforation+of-one+fourth+part](caturbhāgaikaveśaṃ) [or](vā) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](*)
 
 ## mukta-m0-p18-v436
-[thus](evaṃ) [vā](vā) [other-manner](anyaprakāreṇa) [platform](vedikā) [spread](vistṛtaṃ) [hear](śṛṇu)
+[thus](evaṃ) [or](vā) [by-another+method](anyaprakāreṇa) [of-platform](vedikā) [width](vistṛtaṃ) [hear](śṛṇu)
 
 ## mukta-m0-p18-v437
-[six-seven-eight-nine-part](ṣaṭsaptāṣṭanavāṃśaṃ) [or](vā) [ten-part](daśabhāgaṃ) [tu](tu) [vā](vā) [divide](bhajet)
+[six+seven+eight+nine+parts](ṣaṭsaptāṣṭanavāṃśaṃ) [or](vā) [ten+parts](daśabhāgaṃ) [indeed](tu) [or](vā) [one-should-divide](bhajet)
 
 ## mukta-m0-p18-v438
-[pair-corner-platform-form](yugāśravedikākārā) [in-city](nāgare) [stone-slab-above](prastaropari)
+[of-square+platform+form](yugāśravedikākārā) [in-nāgara](nāgare) [above+entablature](prastaropari)
 
 ## mukta-m0-p18-v439
-[or](athavā) [vesara](vesare) [palace](harmye) [platform](vedikā) [round](vṛttameva) [or](vā)
+[or+else](athavā) [in-vesara](vesare) [temple](harmye) [platform](vedikā) [circular](vṛttam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p18-v440
-[platform-mark](vedikālakṣaṇaṃ) [spoken](proktaṃ) [hear](śṛṇu) [lattice-mark](jālākalakṣaṇam)
+[platform+characteristic](vedikālakṣaṇaṃ) [declared](proktaṃ) [hear](śṛṇu) [window+characteristic](jālākalakṣaṇam)
 
 ## mukta-m0-p18-v441
-[thus-ray-measure](ityaṃśumānkāśyape) [platform-mark-chapter](vedikālakṣaṇapaṭalaḥ) [eleven](ekādaśa)
+[thus](iti) [in-aṃśumān+kāśyapa](aṃśumānkāśyape) [chapter+on-platform+characteristic](vedikālakṣaṇapaṭalaḥ) [eleventh](ekādaśa)
 
 ## mukta-m0-p18-v442
-[foot-group](pādavarge) [neck](gale) [ca](ca) [eva](eva) [lattice-place](jālakasthānam) [is-said](ucyate)
+[in-pillar+section](pādavarge) [in-neck](gale) [and+also](caiva) [window+location](jālakasthānam) [is-stated](ucyate)
 
 ## mukta-m0-p18-v443
-[window](vātāyanaṃ) [should-make](prakartavyaṃ) [by-this](anena) [rule](vidhinā) [wise](budhaḥ)
+[window](vātāyanaṃ) [should-be-made](prakartavyaṃ) [by-this](anena) [method](vidhinā) [by-wise-one](budhaḥ)
 
 ## mukta-m0-p18-v444
-[platform-lattice-half](vedikājālakārdhaṃ) [tu](tu) [cut](chedyaṃ) [all-destruction](sarvavināśanam)
+[half+of-platform+window](vedikājālakārdhaṃ) [indeed](tu) [cutting](chedyaṃ) [all+destruction](sarvavināśanam)
 
 ## mukta-m0-p18-v445
-[two-staff](dvidaṇḍaṃ) [small](kanyasaṃ) [diameter](vyāsaṃ) [three-staff](tridaṇḍaṃ) [middle](madhyamaṃ) [becomes](bhavet)
+[two+daṇḍas](dvidaṇḍaṃ) [smallest](kanyasaṃ) [width](vyāsaṃ) [three+daṇḍas](tridaṇḍaṃ) [middle](madhyamaṃ) [should-be](bhavet)
 
 ## mukta-m0-p18-v446
-[width-like-height](vistārasadṛśotsedhād) [one-staff](ekadaṇḍa) [increase](vivardhanāt)
+[from-height+equal+to-width](vistārasadṛśotsedhād) [by-increase+of-one+daṇḍa](ekadaṇḍa) [increase](vivardhanāt)
 
 ## mukta-m0-p18-v447
-[in-these](eṣu) [high-wide](tuṃgaviśāleṣu) [if-desired](yadiṣṭaṃ) [that-accept](tatparigrahet)
+[among-these](eṣu) [heights+and-widths](tuṃgaviśāleṣu) [what+is-desired](yadiṣṭaṃ) [that](tat) [one-should-choose](parigrahet)
 
 ## mukta-m0-p18-v448
-[width-half](vistārārdha) [solid](ghanaṃ) [diameter](vyāsaṃ) [three-fourth-part](tricaturthāṃśameva) [or](vā)
+[thickness+equal+to-half+width](vistārārdha) [thickness](ghanaṃ) [width](vyāsaṃ) [three+fourths+part](tricaturthāṃśam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p18-v449
-[pair-foot-joined](yugmapādasamāyuktaṃ) [pair](yugmakaṃ) [pen](penam) [is-called](ucyate)
+[endowed+with-even+pillars](yugmapādasamāyuktaṃ) [even](yugmakaṃ) [window](penam) [is-called](ucyate)
 
 ## mukta-m0-p18-v450
-[flower-bell](puṣpaghaṇḍaṃ) [rasa-throat](rasakaṇṭhaṃ) [ca](ca) [lattice](jālakaṃ) [six-fold](ṣaḍvidhaṃ) [becomes](bhavet)
+[puṣpaghaṇḍa](puṣpaghaṇḍaṃ) [rasakaṇṭha](rasakaṇṭhaṃ) [and](ca) [window](jālakaṃ) [sixfold](ṣaḍvidhaṃ) [should-be](bhavet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[prior-auspicious-inauspicious](prāgvacchubhāśubhaṃ) [having-seen](vīkṣya) [auspicious-measure](śubhamānaṃ) [but](tu) [should-take](saṃgṛhet)
+[as-before](prākvat) [auspicious+inauspicious](śubhāśubhaṃ) [having-examined](vīkṣya) [auspicious+measure](śubhamānaṃ) [indeed](tu) [one-should-take](saṃgṛhet)
 
 ## mukta-m0-p29-v702
-[with-desired-accomplishment-giving](sadeṣṭasiddhidā) [asterisms](ṛkṣāḥ) [declared](proktāḥ) [remaining](śeṣāḥ) [but](tu) [rejected](varjitāḥ)
+[always+desired+success+giving](sadeṣṭasiddhidā) [constellations](ṛkṣāḥ) [declared](proktāḥ) [remaining+but](śeṣāstu) [rejected](varjitāḥ)
 
 ## mukta-m0-p29-v703
-[should-count](gaṇayen) [wise](matimān) [brahmin](vipra) [auspicious-measure](śubhamānaṃ) [but](tu) [to-be-taken](gṛhyatām)
+[should-calculate](gaṇayet) [wise-one](matimān) [O-brahmin](vipra) [!](!) [auspicious+measure](śubhamānaṃ) [indeed](tu) [let-be-taken](gṛhyatām)
 
 ## mukta-m0-p29-v704
-[lacuna](*) [lacuna](*) [spear-etc-evil-rich](śūlādiduṣṭāḍhya) [evil-yoga](duṣṭayogam) [declared](udāhṛtam)
+[*](* ) [*](* ) [trident+etc+evil+endowed](śūlādiduṣṭāḍhya) [evil+conjunction](duṣṭayogam) [declared](udāhṛtam)
 
 ## mukta-m0-p29-v705
-[thus-ray-possessing](ityaṃśumān) [kāśyapa](kāśyape) [āya-etc-characteristics-chapter](āyādilakṣaṇapaṭalaḥ) [twenty-third](trayoviṃśāḥ)
+[thus](iti) [in-Aṃśumān+Kāśyapa](aṃśumānkāśyape) [income+etc+characteristics+chapter](āyādilakṣaṇapaṭalaḥ) [twenty-third](trayoviṃśāḥ)
 
 ## mukta-m0-p29-v706
-[himālaya-daughter-between](himādrikanyayoranta) [lacuna](*) [to-country](to) [declared](deśamudāhṛtam)
+[Himādri+Kanyā+between](himādrikanyayoranta) [*](* ) [to](to) [region](deśam) [declared](udāhṛtam)
 
 ## mukta-m0-p29-v707
-[page-76](p.) [just-as](yathaiva) [of-bodied](dehināṃ) [god](devaṃ) [wind-bile-phlegm-natured](haṃ+vātapittakaphātmakam)
+[p.+76](p.) [76)](76)) [just-as](yathaiva) [of-embodied-beings](dehināṃ) [god](devaṃ) [indeed](haṃ) [wind+bile+phlegm+consisting](vātapittakaphātmakam)
 
 ## mukta-m0-p29-v708
-[sattvic](sātvikaṃ) [tamasic](tāmasaṃ) [and](caiva) [rajasic](rājasaṃ) [and](ca) [threefold](tridhā) [remembered](smṛtāḥ)
+[sāttvika](sātvikaṃ) [tāmasa](tāmasaṃ) [and](caiva) [rājasa](rājasaṃ) [and](ca) [threefold](tridhā) [remembered](smṛtāḥ)
 
 ## mukta-m0-p29-v709
-[accomplished-etc](siddhādi) [to-black-colored-end](kṛṣṇavarṇāntaṃ) [tamasic-named](tāmasākhyaṃ) [earth-surface](mahītalam)
+[siddha+etc+black+color+ending](siddhādi) [black+color+ending](kṛṣṇavarṇāntaṃ) [tāmasa+called](tāmasākhyaṃ) [earth+ground](mahītalam)
 
 ## mukta-m0-p29-v710
-[city](nāgaraṃ) [sattvic](sātvikaṃ) [country](deśaṃ) [tamasic](tāmasaṃ) [vesara](vesaraṃ) [thus](tathā)
+[nāgara](nāgaraṃ) [sāttvika](sātvikaṃ) [region](deśaṃ) [tāmasa](tāmasaṃ) [vesara](vesaraṃ) [likewise](tathā)
 
 ## mukta-m0-p29-v711
-[sattvic](sātvikaṃ) [city](nāgaraṃ) [mansion](harmyaṃ) [tamasic](tāmasaṃ) [vesara-dwelling](vesarālayam)
+[sāttvika](sātvikaṃ) [nāgara](nāgaraṃ) [temple](harmyaṃ) [tāmasa](tāmasaṃ) [vesara+abode](vesarālayam)
 
 ## mukta-m0-p29-v712
-[viṣṇu](viṣṇurmaheśvaro) [maheśvara](viṣṇurmaheśvaro) [creator](dhātā) [in-order](kramāddharmyādhidevatāḥ) [mansion-presiding-deities](kramāddharmyādhidevatāḥ)
+[Viṣṇu](viṣṇuḥ) [Maheśvara](maheśvaro) [Dhātṛ](dhātā) [in-order](kramāt) [temple+etc+presiding-deities](dharmyādhidevatāḥ)
 
 ## mukta-m0-p29-v713
-[drāviḍa](drāviḍaṃ) [but](tu) [king](nṛpo) [to-be-known](jñeyo) [form](ākṛtiṃ) [hear](śṛṇu) [good-vowed](suvrata)
+[drāviḍa](drāviḍaṃ) [indeed](tu) [king](nṛpo) [to-be-known](jñeyo) [form](ākṛtiṃ) [hear](śṛṇu) [O-virtuous-one](suvrata) [!](!)
 
 ## mukta-m0-p29-v714
-[raised-lowered-endowed](unnatāvanatopetau) [turret-storey](kūṭakoṣṭhau) [as](yathā) [in-order](kramam)
+[elevated+depressed+endowed](unnatāvanatopetau) [kūṭa+koṣṭha](kūṭakoṣṭhau) [as](yathā) [in-order](kramam)
 
 ## mukta-m0-p29-v715
-[small-storey-endowed](kṣudrakoṣṭhasamāyuktaṃ) [great-mouthed-other](mahānāsyapare) [twice-born](dvija)
+[small+koṣṭha+joined](kṣudrakoṣṭhasamāyuktaṃ) [great+frontage+having](mahānāsyapare) [O-twice-born](dvija) [!](!)
 
 ## mukta-m0-p29-v716
-[one-many-roofed](ekānekatalaṃ) [or](vāpi) [with-projection](sālindaṃ) [or](vā) [lacking](vihīnakam)
+[one+or+many+storeyed](ekānekatalaṃ) [or](vāpi) [with-corridor](sālindaṃ) [or](vā) [devoid](vihīnakam)
 
 ## mukta-m0-p29-v717
-[city](nāgaraṃ) [mansion](bhavanaṃ) [called](khyātaṃ) [that-country](taddeśaṃ) [but](tu) [arranged](prakalpitam)
+[nāgara](nāgaraṃ) [building](bhavanaṃ) [known](khyātaṃ) [that+region](taddeśaṃ) [indeed](tu) [to-be-designed](prakalpitam)
 
 ## mukta-m0-p29-v718
-[mind-thread-outside](mānasūtrādbahiḥ) [turret](kūṭaṃ) [low](nīvraṃ) [turret](kūṭaṃ) [but](tu) [storey](koṣṭhakam)
+[measure+line+outside](mānasūtrādbahiḥ) [kūṭa](kūṭaṃ) [low](nīvraṃ) [kūṭa](kūṭaṃ) [indeed](tu) [koṣṭha](koṣṭhakam)
 
 ## mukta-m0-p29-v719
-[cage](paṃjaraṃ) [mind-thread](mānasūtre) [or](vā) [turret-exited](kūṭaniṣkrānta) [similar](sādṛśam)
+[pañjara](paṃjaraṃ) [measure+line+on](mānasūtre) [or](vā) [kūṭa+projection+similar](kūṭaniṣkrānta) [similar](sādṛśam)
 
 ## mukta-m0-p29-v720
-[raised](unnataṃ) [with-interval](sāntaraṃ) [platform](maṃca) [then](tata) [slab-lacking](prastarahīnakam)
+[elevated](unnataṃ) [with-interval](sāntaraṃ) [maṇḍapa](maṃca) [then](tata) [entablature+devoid](prastarahīnakam)
 
 ## mukta-m0-p29-v721
-[various-pillars](nānāmasūrakastaṃbhe) [altar-net-gate](vedikājālaka+toraṇaiḥ)
+[various+masūraka+pillars](nānāmasūrakastaṃbhe) [vedikā+window+arches](vedikājālaka) [arches](toraṇaiḥ)
 
 ## mukta-m0-p29-v722
-[garland-intervals](hārāntareṣu) [platform-above](maṃcordhve) [small-storey-endowed](kṣudrakoṣṭhayutaṃ) [or](tu) [or](vā)
+[between-hāras](hārāntareṣu) [above-maṇḍapa](maṃcordhve) [small+koṣṭha+endowed](kṣudrakoṣṭhayutaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p29-v723
-[supported](sādhāraṃ) [or](vā) [unsupported](nirādhāraṃ) [one-many-roofed](ekānekatalaṃ) [or](tu) [or](vā)
+[with-support](sādhāraṃ) [or](vā) [without-support](nirādhāraṃ) [one+or+many+storeyed](ekānekatalaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p29-v724
-[yoked](yugāśraṃ) [or](vā) [head-ornament](śiraśchandaṃ) [shrine](vimānaṃ) [drāviḍa](drāviḍaṃ) [becomes](bhavet)
+[square](yugāśraṃ) [or](vā) [head+shape](śiraśchandaṃ) [vimāna](vimānaṃ) [drāviḍa](drāviḍaṃ) [should-be](bhavet)
 
 ## mukta-m0-p29-v725
-[garland-intervals](hārāntare) [especially](viśeṣeṇa) [to-be-imagined](kalpyā) [round-distinct-etc](vṛttasphuṭādayaḥ)
+[between-hāras](hārāntare) [especially](viśeṣeṇa) [to-be-designed](kalpyā) [circular+sphuṭa+etc](vṛttasphuṭādayaḥ)

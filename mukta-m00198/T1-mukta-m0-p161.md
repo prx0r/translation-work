@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p161-v4001
-[corner](karṇaṃ) [make-by-three-parts](kuryāttribhāgaiḥ) [by-one-upward](ekenai vordhva) [band](paṭṭikā)
+[edge](karṇaṃ) [one-should-make](kuryāt) [with-three-parts](tribhāgaiḥ) [with-one](ekena) [indeed](eva) [upper+band](ūrdhva+paṭṭikā)
 
 ## mukta-m0-p161-v4002
-[finial](karṇikā) [and-by-one-part](caikabhāgena) [declared](proktam) [height-excellent](utsedhamuttamam)
+[pericarp](karṇikā) [and](ca) [with-one+part](eka+bhāgena) [declared](proktam) [height](utsedham) [best](uttamam)
 
 ## mukta-m0-p161-v4003
-[all-parts](samastāṃśam) [up-to](upānantu) [manu-part](manvaṃśaṃ) [earth-thus](jagatī tathā)
+[entire+part](samastāṃśam) [base](upānam) [indeed](tu) [fourteen+parts](manvaṃśaṃ) [platform](jagatī) [likewise](tathā)
 
 ## mukta-m0-p161-v4004
-[eighth-part](aṣṭāṃśaṃ) [neck-width](kaṇṭhavistāraṃ) [tenth-part](daśāṃśaṃ) [upward-band](cordhvapaṭṭikā)
+[eight+parts](aṣṭāṃśaṃ) [neck+width](kaṇṭha+vistāraṃ) [ten+parts](daśāṃśaṃ) [and](ca) [upper+band](ūrdhva+paṭṭikā)
 
 ## mukta-m0-p161-v4005
-[three-parts](trayaṃśena) [thus](tu) [finial](karṇikā)
+[lacuna](* ) [lacuna](* ) [lacuna](* ) [lacuna](* ) [lacuna](* ) [lacuna](* ) [lacuna](* ) [lacuna](* ) [with-three+parts](trayaṃśena) [indeed](tu) [pericarp](karṇikā)
 
 ## mukta-m0-p161-v4006
-[after-installation](sthāpanānte) [then-these](tvathaitāni) [worship](pūjayet) [specially](viśeṣataḥ)
+[installation+end](sthāpanānte) [then](tu) [now](atha) [these](etāni) [one-should-worship](pūjayet) [indeed](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p161-v4007
-[three-footed](tripādaṃ) [middle](madhyamaṃ) [declared](proktaṃ) [door-height-half-small](dvāratuṃgārdhakanyasam)
+[three+quarters](tripādaṃ) [middle](madhyamaṃ) [declared](proktaṃ) [door+height+half](dvāratuṃgārdha) [smallest](kanyasam)
 
 ## mukta-m0-p161-v4008
-[twofold](dviguṇaṃ) [middle](madhyamaṃ) [declared](proktaṃ) [threefold-best](triguṇaṃ śreṣṭhamucyate)
+[twofold](dviguṇaṃ) [middle](madhyamaṃ) [declared](proktaṃ) [threefold](triguṇaṃ) [best](śreṣṭham) [is-called](ucyate)
 
 ## mukta-m0-p161-v4009
-[two-hands](dvihastaṃ) [middle](madhyamaṃ) [declared](proktaṃ) [three-hands-best](trihastaṃ śreṣṭhamucyate)
+[two+cubits](dvihastaṃ) [middle](madhyamaṃ) [declared](proktaṃ) [three+cubits](trihastaṃ) [best](śreṣṭham) [is-called](ucyate)
 
 ## mukta-m0-p161-v4010
-[threshold-high](upānoccaṃ) [two-parts](dvibhāgaṃ) [may-be](syāt) [sixth-part](ṣaḍaṃśaṃ) [earth](jagatī) [becomes](bhavet)
+[base+height](upānoccaṃ) [two+parts](dvibhāgaṃ) [should-be](syāt) [six+parts](ṣaḍaṃśaṃ) [platform](jagatī) [should-be](bhavet)
 
 ## mukta-m0-p161-v4011
-[veda-parts](vedāṃśaṃ) [ear-measure](karṇamānaṃ) [thus](tu) [upward-shaking](ūrdhvakaṃpaṃ) [shiva-part](śivāṃśakam)
+[four+parts](vedāṃśaṃ) [edge+measure](karṇamānaṃ) [indeed](tu) [upper+fillet](ūrdhvakaṃpaṃ) [four+parts](śivāṃśakam)
 
 ## mukta-m0-p161-v4012
-[veda-parts](vedāṃśaṃ) [lotus-height](padmatuṃgaṃ) [thus](tu) [two-parts](dvibhāgaṃ) [finial-rise](karṇikodayam)
+[four+parts](vedāṃśaṃ) [lotus+height](padmatuṃgaṃ) [indeed](tu) [two+parts](dvibhāgaṃ) [pericarp+height](karṇikodayam)
 
 ## mukta-m0-p161-v4013
-[lotus-height](padmoccaṃ) [five-parts](paṃcabhāgaṃ) [thus](tu) [great-band](mahāpaṭṭī) [two-parts](dvibhāgataḥ)
+[lotus+height](padmoccaṃ) [five+parts](paṃcabhāgaṃ) [indeed](tu) [great+band](mahāpaṭṭī) [of-two+parts](dvibhāgataḥ)
 
 ## mukta-m0-p161-v4014
-[inner-circle-middle](antarmaṇḍalamadhye) [thus](tu) [wall-support](bhityāśrayam) [or](athāpi) [or](vā)
+[inner+enclosure+middle](antarmaṇḍalamadhye) [indeed](tu) [wall+supported](bhityāśrayam) [or+also](athāpi) [or](vā)
 
 ## mukta-m0-p161-v4015
-[lowest](adhamaṃ) [twofold](dviguṇaṃ) [middle](madhyaṃ) [threefold](triguṇaṃ) [highest-elevated](cottamonnatam)
+[lowest](adhamaṃ) [twofold](dviguṇaṃ) [middle](madhyaṃ) [threefold](triguṇaṃ) [and](ca) [best+height](uttamonnatam)
 
 ## mukta-m0-p161-v4016
-[width-equal-height](vistārasamatuṃgaṃ) [may-be](syāt) [three-footed](tripādaṃ) [or-half](cārdhameva) [or](vā)
+[width+equal+height](vistārasamatuṃgaṃ) [should-be](syāt) [three+quarters](tripādaṃ) [and](ca) [half](ardham) [indeed](eva) [or](vā)
 
 ## mukta-m0-p161-v4017
-[one-girdle](ekamekhalayā) [joined](yuktaṃ) [upward](ūrdhve) [lotus-endowed](padmasamanvitam)
+[one+girdle](ekamekhalayā) [endowed](yuktaṃ) [above](ūrdhve) [lotus+provided-with](padmasamanvitam)
 
 ## mukta-m0-p161-v4018
-[mothers](mātṝṇāṃ) [nine-seat](navapīṭhaṃ) [may-be](syāt) [eldest](jyeṣṭhāyāṃ) [three-seats](pīṭhakatrayam)
+[of-mothers](mātṝṇāṃ) [nine+pedestal](navapīṭhaṃ) [should-be](syāt) [for-jyeṣṭhā](jyeṣṭhāyāṃ) [pedestal+triad](pīṭhakatrayam)
 
 ## mukta-m0-p161-v4019
-[inner-circle-place](antarmaṇḍaladeśe) [thus](tu) [indra-etc-offering-seat](indrādi balipīṭhakam)
+[inner+enclosure+place](antarmaṇḍaladeśe) [indeed](tu) [beginning-with-indra](indrādi) [offering+pedestal](balipīṭhakam)
 
 ## mukta-m0-p161-v4020
-[inner-circle-star](antarmaṇḍalatārasya) [similar](sadṛśaṃ) [twofold](dviguṇaṃ) [or](tu) [or](vā)
+[inner+enclosure+width](antarmaṇḍalatārasya) [equal](sadṛśaṃ) [twofold](dviguṇaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p161-v4021
-[its](tasyāstu) [middle](madhyame) [part](bhāge) [eight-attendants](parivārāṣṭa) [place](vinyaset)
+[of-that](tasyāstu) [in-middle](madhyame) [part](bhāge) [attendant+eight](parivārāṣṭa) [one-should-place](vinyaset)
 
 ## mukta-m0-p161-v4022
-[whose](yasya) [width-five](vistārapacata) [length](āyāmaṃ) [thus](ca) [prescribed](vidhīyate)
+[whose](yasya) [width+extent](vistārapacata) [length](āyāmaṃ) [and](ca) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p161-v4023
-[three-parts-more](tribhāgenādhikaṃ) [and](caiva) [twofold](dviddhaṃ) [five-half-more](paṃcārdhamādhikam)
+[by-three+parts](tribhāgena) [greater](adhikaṃ) [and+indeed](caiva) [twofold](dviddhaṃ) [five+half+measure+greater](paṃcārdhamādhikam)
 
 ## mukta-m0-p161-v4024
-[twofold-half](dviguṇārdhaṃ) [thus](tu) [length](āyāmaṃ) [in-gateways](gopureṣu) [prescribed](vidhīyate)
+[twofold+half](dviguṇārdhaṃ) [indeed](tu) [length](āyāmaṃ) [in-gopuras](gopureṣu) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p161-v4025
-[root-palace](mūlaharmyaṃ) [beginning](samārabhya) [six-eight-pole-measure](ṣaḍaṣṭadaṇḍamānataḥ)
+[root+temple](mūlaharmyaṃ) [beginning-from](samārabhya) [six+eight+rod+measure](ṣaḍaṣṭadaṇḍamānataḥ)
