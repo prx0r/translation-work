@@ -3,29 +3,34 @@
  "verse": 119,
  "rows": [
   {
-   "lemma": "saukhyam",
+   "lemma": "labhate",
+   "morph": "3.sg.mid-pres+√labh",
+   "grounds": "present middle of labh"
+  },
+  {
+   "lemma": "śṛṇu",
+   "morph": "2.sg.act-imp+√śru",
+   "grounds": "imperative of śru"
+  },
+  {
+   "lemma": "kalyāṇi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address to the goddess"
+  },
+  {
+   "lemma": "smaraṇenaiva",
+   "morph": "n.ins.sg+(indecl.)",
+   "grounds": "instrumental of smaraṇa with emphatic eva"
+  },
+  {
+   "lemma": "yat",
    "morph": "n.nom.sg",
-   "grounds": "favorable outcome"
+   "grounds": "relative pronoun"
   },
   {
-   "lemma": "ca+uttara+bhādre",
-   "morph": "compound: ca+first, uttara+second, bhādre+third; f.loc.sg",
-   "grounds": "compound specifying lunar mansion with conjunction"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction linking mansions"
-  },
-  {
-   "lemma": "revatyāṃ",
-   "morph": "f.loc.sg",
-   "grounds": "locative specifying lunar mansion"
-  },
-  {
-   "lemma": "kīrti+varddhanam",
-   "morph": "compound: kīrti+first, varddhanam+second; n.nom.sg",
-   "grounds": "compound indicating growth of fame"
+   "lemma": "phalam",
+   "morph": "n.nom.sg",
+   "grounds": "result or reward"
   }
  ]
 }

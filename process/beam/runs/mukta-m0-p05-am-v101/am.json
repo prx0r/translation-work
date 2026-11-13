@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 101,
- "question": "What auspicious configuration is traditionally prescribed for Kālikā and Tārā?",
+ "question": "Which mantra-weapon is proclaimed as belonging to Brahma, Viṣṇu, Maheśa, and others?",
  "premises": [
-  "A star-circle is remembered in tradition",
-  "It is associated with Kālikā and Tārā",
-  "This configuration brings auspicious results"
+  "A mantra-weapon is associated with Brahma, Viṣṇu, Maheśa, and others.",
+  "This mantra-weapon is explicitly proclaimed."
  ],
- "inference": "The star-circle of Kālikā and Tārā is prescribed as auspicious",
- "uncertainties": [],
- "plain_english": "For Kālikā and Tārā, the star-circle is remembered as bringing auspicious results."
+ "inference": "The text identifies a specific mantra-weapon as belonging to Brahma, Viṣṇu, Maheśa, and others.",
+ "uncertainties": [
+  "The exact referent of 'ma' as mantra or syllable is context-dependent."
+ ],
+ "plain_english": "This is proclaimed as the mantra-weapon of Brahma, Viṣṇu, Maheśa, and others."
 }

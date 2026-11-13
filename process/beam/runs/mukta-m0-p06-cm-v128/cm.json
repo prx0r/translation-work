@@ -3,24 +3,34 @@
  "verse": 128,
  "rows": [
   {
-   "lemma": "tasyā",
-   "morph": "pron.f.gen.sg",
-   "grounds": "refers to madhyamā speech"
+   "lemma": "mantra",
+   "morph": "compound-member",
+   "grounds": "first member of compound referring to mantra"
   },
   {
-   "lemma": "api",
+   "lemma": "artham",
+   "morph": "m.acc.sg",
+   "grounds": "object to be known"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "samutpādanahetuḥ",
-   "morph": "m.nom.sg",
-   "grounds": "that which brings something into being"
+   "lemma": "vijānīyāt",
+   "morph": "3.sg.optative.act √jñā",
+   "grounds": "optative expressing injunction to understand"
   },
   {
-   "lemma": "paśyantī",
+   "lemma": "śatabhedā",
    "morph": "f.nom.sg",
-   "grounds": "seeing level of speech preceding madhyamā"
+   "grounds": "describes manifold divisions"
+  },
+  {
+   "lemma": "jaganmayī",
+   "morph": "f.nom.sg",
+   "grounds": "describes as pervading or consisting of the world"
   }
  ]
 }

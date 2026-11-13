@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[hawk-faced](śyenāsyaḥ) [heron-faced](kaṅkavadanaḥ) [crow-faced](kākāsyaḥ) [horse-faced](hayavaktrakaḥ)
+hawk-faced(śyena+āsyaḥ) heron-faced(kaṅka+vadanaḥ) crow-faced(kāka+āsyaḥ) horse-faced(haya+vaktrakaḥ)
 
 ## mukta-m0-p90-v2227
-[of-the-tradition](sampradāya) [meaning](arthaḥ)
+tradition-meaning(sampradāya+arthaḥ)
 
 ## mukta-m0-p90-v2228
-[your](tava) [thus](iti) [meaning](arthaḥ) [and](ca) [they](te) [servants](ceṭakāḥ)
+of-you-thus-meaning(tava+iti+arthaḥ) and(te) those(ca) attendants(iṭakāḥ)
 
 ## mukta-m0-p90-v2229
-[by-appearance](vibhrama) [etc.](ityādinā) [by-verse](ślokena) [eleven](ekādaśa) [names](nāmāni) [teaches](upadiśati)
+with-vibhrama-etc(vibhrama+iti+ādinā) by-verse(ślokena) eleven(ekādaśa) names(nāmāni) teaches(upadiśati)
 
 ## mukta-m0-p90-v2230
-[elephant](mātaṅga) [etc.](ityādinā) [by-verse](ślokena) [eight](aṣṭa) [names](nāmāni) [teaches](upadiśati)
+with-mātaṅga-etc(mātaṅga+iti+ādinā) by-verse(ślokena) eight(aṣṭa) names(nāmāni) teaches(upadiśati)
 
 ## mukta-m0-p90-v2231
-[restless](capalaḥ) [cock-faced](kukkuṭāsyaśca) [deluder](māyāvī) [lust-weary](madanālasaḥ)
+capala(capalaḥ) and-rooster-faced(kukkuṭa+āsyaḥ+ca) māyāvī(māyāvī) madanālasa(madana+ālasaḥ)
 
 ## mukta-m0-p90-v2232
-[good-faced](sumukhaḥ) [afflicted](pīḍitaḥ) [angry](kruddho) [boar-faced](varāhāsyaḥ) [mane-faced](saṭāmukhaḥ)
+sumukha(su+mukhaḥ) pīḍita(pīḍitaḥ) kruddha(kruddhaḥ) boar-faced(varāha+āsyaḥ) saṭāmukha(saṭā+mukhaḥ)
 
 ## mukta-m0-p90-v2233
-[devourer](bhakṣakaḥ) [both-giving](ubhayadaḥ) [siddha](siddhaḥ) [all-going](sarvagaśca) [thus](iti) [proclaimed](kīrtitāḥ)
+bhakṣaka(bhakṣakaḥ) fear-giver(ubhaya+daḥ) siddha(siddhaḥ) and-all-going(sarva+gaḥ+ca) thus(iti) declared(kīrtitāḥ)
 
 ## mukta-m0-p90-v2234
-[by-names](nāmabhiḥ) [by-those](taiḥ) [second-ending](dvitīyāntaiḥ) [body](dehī) [thus](iti) [word](pada) [joined](saṃyutaiḥ)
+with-those-names(nāmabhiḥ+taiḥ) ending-in-accusative(dvitīya+antaiḥ) joined-with-dehi-word(dehi+iti+pada+saṃyutaiḥ)
 
 ## mukta-m0-p90-v2235
-[of-them](teṣām) [number](saṅkhyām) [also](api) [thus](tathā) [hear](śṛṇu) [I-shall-speak](vakṣye) [according-to-rule](yathāvidhi)
+of-them(teṣām) number(saṅkhyām) also(api) likewise(tathā) hear(śṛṇu) I-shall-tell(vakṣye) according-to-rule(yathā+vidhi)
 
 ## mukta-m0-p90-v2236
-[thus](tathā) [fifteen-syllabled](pañcadaśārṇāḥ) [they-become](syuḥ) [twenty-six](ṣaḍviṃśatiḥ) [thus](iti) [declared](īritāḥ)
+likewise(tathā) fifteen-syllabled(pañcadaśa+arṇāḥ) should-be(syuḥ) twenty-six(ṣaḍviṃśatiḥ) thus-stated(iti+īritāḥ)
 
 ## mukta-m0-p90-v2237
-[great-bellied](mahodara) [etc.](ityādinā) [by-verse](ślokena) [eight](aṣṭa) [names](nāmāni) [teaches](upadiśati)
+with-mahodara-etc(mahodara+iti+ādinā) by-verse(ślokena) eight(aṣṭa) names(nāmāni) teaches(upadiśati)
 
 ## mukta-m0-p90-v2238
-[beautiful-bellied](manohara) [etc.](ityādinā) [by-verse](ślokena) [nine](nava) [names](nāmāni) [teaches](upadiśati)
+with-manohara-etc(manohara+iti+ādinā) by-verse(ślokena) nine(nava) names(nāmāni) teaches(upadiśati)
 
 ## mukta-m0-p90-v2239
-[word-division](padacchedaḥ) [rest](anyat) [easy](sugamam)
+word-division(pada+chedaḥ) other(anya) easy-to-understand(su+gamam)
 
 ## mukta-m0-p90-v2240
-[thus](tathā) [seventeen-syllabled](saptadaśārṇāśca) [four](catvāraḥ) [disordered-sequence](vyākulakramāt)
+likewise(tathā) and-seventeen-syllabled(saptadaśa+arṇāḥ+ca) four(catvāraḥ) without-confusion-in-order(avyākula+kramāt)
 
 ## mukta-m0-p90-v2241
-[with-sounds](sasvaraiḥ) [by-them](taiḥ) [becomes](bhavet) [number](saṅkhyā) [twenty-four](caturviṃśat) [two-hundred](śatadvayam)
+with-those-with-vowels(sa+svaraiḥ+taiḥ) should-be(bhavet) number(saṅkhyā) two-hundred-twenty-four(caturviṃśat+śata+dvayam)
 
 ## mukta-m0-p90-v2242
-[goddesses](devatāḥ) [on-seven-days](saptavāreṣu) [sun-etc.](bhāskarādiṣu) [with-devotion](bhaktitaḥ)
+deities(devatāḥ) in-seven-weekdays(sapta+vāreṣu) beginning-with-sun(bhāskara+ādiṣu) with-devotion(bhaktitaḥ)
 
 ## mukta-m0-p90-v2243
-[form-difference](svarūpa) [distinguished](bheda) [joined](sambhinnāḥ) [properly](samīcīnam) [shown](darśitāḥ)
+distinguished-by-difference-of-own-forms(sva+rūpa+bheda+sambhinnāḥ) properly(samīcīnam) shown(darśitāḥ)
 
 ## mukta-m0-p90-v2244
-[of-yantra](yantrasya) [in-middle](madhye) [in-māyā](māyāstham) [there](tatra) [siddhis](siddhīśca) [should-worship](pūjayet)
+of-yantra(yantrasya) in-middle(madhye) situated-in-māyā(māyā+stham) there(tatra) and-siddhis(siddhīḥ+ca) one-should-worship(pūjayet)
 
 ## mukta-m0-p90-v2245
-[outside](bahiḥ) [kalā-lotus](kalābja) [bhū-lotus](bhūpadma) [pair](yugam) [should-make](kuryāt) [according-to-rule](yathāvidhi)
+outside(bahiḥ) pair-of-kalā-lotus-and-earth-lotus(kalā+abja+bhū+padma+yugam) one-should-make(kuryāt) according-to-rule(yathā+vidhi)
 
 ## mukta-m0-p90-v2246
-[in-petals](daleṣu) [in-angles](koṇeṣu) [thus](tathā) [circle](vṛtta) [middle-triple](madhyatraye) [again](punaḥ)
+in-petals(daleṣu) in-corners(koṇeṣu) likewise(tathā) in-three-middle-circles(vṛtta+madhya+traye) again(punaḥ)
 
 ## mukta-m0-p90-v2247
-[of-that](tasya) [intermediate-angles](koṇāntarāleṣu) [hal-and-kṣa-syllables](halakṣārṇān) [in-order](kramāt) [should-write](likhet)
+of-that(tasya) in-corner-intervals(koṇa+antarāleṣu) halakṣa-syllables(halakṣa+arṇān) in-order(kramāt) one-should-write(likhet)
 
 ## mukta-m0-p90-v2248
-[of-siddhis](siddhīnām) [of-yakṣiṇīs](yakṣiṇīnāṃ) [and](ca) [of-servants](ceṭakānām) [thus](tathā) [one-by-one](ekaśaḥ)
+of-siddhis(siddhīnām) of-yakṣiṇīs(yakṣiṇīnām) and(ca) of-attendants(ceṭakānām) likewise(tathā) one-by-one(ekaśaḥ)
 
 ## mukta-m0-p90-v2249
-[of-them](teṣām) [by-stated-order](uktakrameṇa) [indeed](eva) [sādhanas](sādhanāni) [fruits](phalāni) [verily](vai)
+of-them(teṣām) by-that-stated-order(ukta+krameṇa+eva) sādhanas(sādhanāni) and-fruits(phalāni) indeed(vai)
 
 ## mukta-m0-p90-v2250
-[in-intermediate-angles](koṇāntarāleṣu) [in-four](caturṣu) [stated](uktam) [syllable-triple](akṣaratrayam) [should-write](vilikhet) [thus](iti) [meaning](arthaḥ)
+in-four-corner-intervals(koṇa+antarāleṣu) in-four(caturṣu) stated(uktam) group-of-three-syllables(akṣara+trayam) one-should-write(vilikhet) thus-meaning(iti+arthaḥ)
