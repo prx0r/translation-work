@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p58",
  "verse": 1433,
- "question": "How does the goddess distribute accomplishment among different beings?",
+ "question": "How many pavilions may be constructed up to the stated limit?",
  "premises": [
-  "The goddess gives accomplishment.",
-  "She is accomplished for some.",
-  "She is unaccomplished toward wicked beings."
+  "Pavilion construction follows numerical limits",
+  "A maximum count is specified"
  ],
- "inference": "The goddess grants accomplishment generally but withholds it from wicked beings.",
- "uncertainties": [],
- "plain_english": "She is the giver of accomplishment and accomplished, yet unaccomplished toward wicked beings."
+ "inference": "One should construct nine pavilions, up to twenty-eight.",
+ "uncertainties": [
+  "relationship between nine and up-to-twenty-eight is context-dependent"
+ ],
+ "plain_english": "One should construct nine pavilions, up to twenty-eight."
 }

@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "mātrābhirbheditaḥ",
+     "gloss": "by-measures-divided",
+     "grounds": "instrumental plural of mātrā with past passive participle of √bhid; expresses division by measures",
+     "morph": "m.nom.sg (past-passive-participle, √bhid)"
+    },
+    {
+     "surface": "mū:",
+     "gloss": "or",
+     "grounds": "textual variant marker indicating an alternative reading",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ścheditaḥ",
+     "gloss": "cut",
+     "grounds": "alternative past passive participle from √chid, parallel to bheditaḥ",
+     "morph": "m.nom.sg (past-passive-participle, √chid)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eko",
+     "gloss": "one",
+     "grounds": "qualifies varṇaḥ as a single unit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇo",
+     "gloss": "syllable",
+     "grounds": "subject of the statement; phonetic or ritual syllable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśadhā",
+     "gloss": "twelvefold",
+     "grounds": "adverbial numeral indicating twelve modes or divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "established",
+     "grounds": "past passive participle of √sthā, stating the resulting condition",
+     "morph": "m.nom.sg (past-passive-participle, √sthā)"
+    }
+   ],
+   "question": "How is a single syllable established as twelvefold through division by measures?",
+   "premises": [
+    "A single syllable is the subject under consideration.",
+    "That syllable is described as divided or cut by measures.",
+    "The resulting state of that syllable is described as twelvefold."
+   ],
+   "inference": "One syllable becomes established in twelve forms when differentiated by measures.",
+   "uncertainties": [
+    "The precise technical sense of mātrā in this ritual-phonetic context is not fully specified in the verse alone."
+   ],
+   "plain_english": "Or indeed, a single syllable, divided—or cut—by measures, is established as twelvefold."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p118",
  "verse": 2948,
- "question": "What kinds of traditional knowledge are possessed by those people of that country?",
+ "question": "What materials are specified for the subsequent surface preparation?",
  "premises": [
-  "They know history",
-  "They know the meaning of ancient lore",
-  "These are attributes of those people"
+  "Powders are specified as materials.",
+  "Materials derived from beans are likewise specified.",
+  "The instrumental case indicates their use in preparation."
  ],
- "inference": "They are knowers of history and knowers of the meaning of the purāṇas.",
- "uncertainties": [],
- "plain_english": "They are indeed knowers of history and knowers of the meaning of the purāṇas."
+ "inference": "The preparation should use powders, including those derived from beans.",
+ "uncertainties": [
+  "The exact preparation process is completed in the following verse."
+ ],
+ "plain_english": "With powders, and likewise with those derived from beans,"
 }
