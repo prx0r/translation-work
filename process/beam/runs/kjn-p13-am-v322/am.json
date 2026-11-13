@@ -1,14 +1,16 @@
 {
  "song": "kjn-p13",
  "verse": 322,
- "question": "Which chapter is identified by conduct and vessel characteristics?",
+ "question": "Which chapter is characterized by conduct and vessel?",
  "premises": [
-  "The chapter is twelfth.",
-  "It concerns conduct and vessel characteristics."
+  "conduct-vessel characteristic is named",
+  "twelfth ordinal is given",
+  "chapter is the subject"
  ],
- "inference": "The twelfth chapter concerns conduct and vessel characteristics.",
+ "inference": "the twelfth chapter is the one characterized by conduct and vessel",
  "uncertainties": [
-  "No doctrinal claim beyond chapter identification."
+  "exact meaning of conduct-vessel",
+  "chapter numbering context"
  ],
- "plain_english": "The twelfth chapter on conduct and vessel characteristics."
+ "plain_english": "The twelfth chapter is characterized by conduct and vessel."
 }

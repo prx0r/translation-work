@@ -7,46 +7,46 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "accusative singular masculine pronoun",
-     "morph": "acc.sg.m"
+     "grounds": "demonstrative pronoun in accusative",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of root jñā",
-     "morph": "absolutive (jñā)"
+     "grounds": "absolutive from root jñā",
+     "morph": "(indecl.)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "accusative singular masculine compound",
-     "morph": "acc.sg.m (compound)"
+     "grounds": "compound accusative singular masculine",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "nominative singular neuter noun",
-     "morph": "nom.sg.n"
+     "grounds": "abstract noun as subject",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "third singular middle present of pra-jan",
-     "morph": "3.sg.mid.pres (pra-jan)"
+     "grounds": "middle voice present third singular",
+     "morph": "3.sg.mid-pres"
     }
    ],
-   "question": "What arises when one knows the hidden true nature of that?",
+   "question": "What arises for one who knows the hidden true nature of that?",
    "premises": [
-    "knowing hidden true nature causes all-knowingness",
-    "that refers to the divine lord",
-    "all-knowingness arises from that knowledge"
+    "Knowing that hidden true nature is the condition.",
+    "All-knowingness is the stated result.",
+    "The arising is expressed in middle voice."
    ],
-   "inference": "all-knowingness arises upon knowing the hidden true nature",
+   "inference": "Knowledge of the hidden true nature gives rise to all-knowingness.",
    "uncertainties": [
-    "exact referent of taṃ depends on prior context",
-    "compound gūḍhasadbhāvaṃ may imply deeper hidden reality"
+    "The exact referent of 'that' depends on prior context.",
+    "The compound's internal members are not separately glossed."
    ],
-   "plain_english": "Knowing that hidden true nature, all-knowingness arises."
+   "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
  ]
 }

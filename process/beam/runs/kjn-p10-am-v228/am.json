@@ -1,15 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 228,
- "question": "How is the self described as standing surrounded by fire?",
+ "question": "How does the fire-surrounded self stand?",
  "premises": [
-  "self is named",
-  "fire surrounds it",
-  "one foot is named"
+  "The self is surrounded by fire.",
+  "It stands on one foot."
  ],
- "inference": "The verse describes the self standing on one foot while surrounded by fire.",
+ "inference": "The self stands on one foot while surrounded by fire.",
  "uncertainties": [
-  "symbolic reading"
+  "legacy hints only"
  ],
- "plain_english": "The self stands on one foot, surrounded by fire."
+ "plain_english": "The self, surrounded by fire, stands on one foot."
 }

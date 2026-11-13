@@ -1,14 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 308,
- "question": "What are named as fifth and sixth?",
+ "question": "Which pātra forms are named fifth and sixth here?",
  "premises": [
-  "The verse names independence as fifth.",
-  "It names hero-lord as sixth."
+  "fifth is independence",
+  "sixth is hero-lord"
  ],
- "inference": "Independence is fifth and hero-lord is sixth.",
+ "inference": "The verse names fifth and sixth pātra forms.",
  "uncertainties": [
-  "Compound segmentation is approximate."
+  "exact list order unclear"
  ],
- "plain_english": "Independence is fifth, and hero-lord is sixth."
+ "plain_english": "Fifth independence, sixth hero-lord, O goddess."
 }

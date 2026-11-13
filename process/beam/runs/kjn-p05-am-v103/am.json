@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "Which chapter emerges from Candradīpa?",
+ "question": "Which chapter emerges from Candradīpa in this sequence?",
  "premises": [
-  "The chapter is fifth.",
-  "It emerges from Candradīpa.",
-  "It is named as a chapter."
+  "Candradīpa is the origin",
+  "The chapter is fifth",
+  "The sequence is numbered"
  ],
- "inference": "The fifth chapter is the one emerging from Candradīpa.",
+ "inference": "The fifth chapter emerges from Candradīpa.",
  "uncertainties": [
-  "No doctrinal content beyond chapter identification."
+  "Identity of Candradīpa"
  ],
- "plain_english": "The fifth chapter emerges from Candradīpa."
+ "plain_english": "The fifth chapter emerged from Candradīpa."
 }

@@ -1,15 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 244,
- "question": "What bodily signs are destroyed from very far by seeing?",
+ "question": "What is destroyed from very far?",
  "premises": [
-  "wrinkles are destroyed",
-  "grey hair is destroyed",
-  "seeing from very far is named"
+  "Wrinkles and grey hair are destroyed.",
+  "Seeing occurs from very far."
  ],
- "inference": "Seeing from very far destroys wrinkles and grey hair.",
+ "inference": "Wrinkles and grey hair are destroyed, and seeing occurs from afar.",
  "uncertainties": [
-  "mechanism of distant seeing is unclear"
+  "legacy hints only"
  ],
- "plain_english": "Wrinkles and grey hair are destroyed, and seeing from very far likewise."
+ "plain_english": "Wrinkles and grey hair are destroyed, and seeing occurs from very far."
 }

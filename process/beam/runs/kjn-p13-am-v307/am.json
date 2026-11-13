@@ -1,14 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "What forms are named as first and second?",
+ "question": "Which two pātra forms are named first and second here?",
  "premises": [
-  "The verse names first in boy form.",
-  "It names second as madman form."
+  "first form is boy-form",
+  "second form is madman-form"
  ],
- "inference": "The first is boy form and the second is madman form.",
+ "inference": "The verse names two pātra forms in sequence.",
  "uncertainties": [
-  "Compound segmentation is approximate."
+  "contextual list incomplete"
  ],
- "plain_english": "First is boy form, second is madman form."
+ "plain_english": "First in boy form, second in madman form."
 }
