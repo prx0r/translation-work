@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3113,
- "question": "Which ancient, ascetic, and mythic identities are attributed to the deity here?",
+ "question": "What qualifies a person to properly perform the pilgrimage rite at these sacred sites?",
  "premises": [
-  "The deity is addressed as unborn one-footed.",
-  "The deity is addressed as skull-bearer.",
-  "The deity is addressed as Triśaṅku."
+  "The rite is performed at those sacred sites",
+  "It must be done according to rule",
+  "The performer must have restrained senses"
  ],
- "inference": "The deity embodies ancient, ascetic, and mythic identities.",
- "uncertainties": [
-  "Identification with Triśaṅku may be literal or symbolic."
- ],
- "plain_english": "Obeisance to the unborn one-footed one, obeisance to the skull-bearer, obeisance to Triśaṅku."
+ "inference": "A person with restrained senses who performs the pilgrimage rite according to rule at those sites acts properly.",
+ "uncertainties": [],
+ "plain_english": "Whoever, with restrained senses, performs the pilgrimage rite among them according to rule..."
 }

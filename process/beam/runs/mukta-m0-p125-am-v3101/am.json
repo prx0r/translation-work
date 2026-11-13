@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3101,
- "question": "Which imitative, kinship, and musical aspects are attributed to the deity here?",
+ "question": "What result follows from bathing in the middle pool regardless of prior wealth?",
  "premises": [
-  "The deity is addressed as imitator.",
-  "The deity is addressed as good kinsman.",
-  "The deity is addressed as gourd lute."
+  "Bathing occurs in the middle pool",
+  "A poor person becomes wealthy",
+  "No alternative outcome exists"
  ],
- "inference": "The deity embodies imitation, benevolent kinship, and musical form.",
- "uncertainties": [],
- "plain_english": "Obeisance to the imitator, obeisance to the good kinsman, obeisance to the gourd lute."
+ "inference": "Bathing in the middle pool certainly transforms a poor person into a wealthy one.",
+ "uncertainties": [
+  "The specific pool is implied by the preceding context not included here"
+ ],
+ "plain_english": "In the middle pool, even a poor person becomes rich, and not otherwise."
 }

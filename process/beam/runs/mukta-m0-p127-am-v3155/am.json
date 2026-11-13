@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p127",
  "verse": 3155,
- "question": "What artistic expressions of song and dance define the deity?",
+ "question": "At what celestial occasion is ritual bathing in that stream specifically prescribed?",
  "premises": [
-  "The deity is identified with great song",
-  "The deity is identified with great dance"
+  "Bathing in that stream is performed according to rule.",
+  "The occasion is specified as an eclipse.",
+  "The eclipse involves the moon and the sun."
  ],
- "inference": "The deity manifests as supreme musical and performative expression.",
- "uncertainties": [],
- "plain_english": "Obeisance to the great song; obeisance to the great dance."
+ "inference": "One should bathe there according to rule at an eclipse of the moon or sun.",
+ "uncertainties": [
+  "The verse states the occasion but omits an explicit main verb; the result is likely carried from adjacent verses."
+ ],
+ "plain_english": "And having bathed there according to rule at an eclipse of the moon and sun."
 }

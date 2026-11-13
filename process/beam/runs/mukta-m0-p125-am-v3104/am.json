@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3104,
- "question": "What musical identity and moral perfection are affirmed of the deity here?",
+ "question": "Where is the next sacred location situated relative to the previously mentioned place?",
  "premises": [
-  "The deity is addressed as bamboo.",
-  "The deity is addressed as bamboo sound.",
-  "The deity is addressed as blameless."
+  "A reference place has been established",
+  "The location is to its north",
+  "It lies in the middle part near the inner house"
  ],
- "inference": "The deity is identified with bamboo music and is blameless.",
- "uncertainties": [],
- "plain_english": "Obeisance to the bamboo, obeisance to the sound of bamboo, obeisance to the blameless one."
+ "inference": "The next sacred location is in the northern middle part near the inner house.",
+ "uncertainties": [
+  "The referent of 'that' depends on prior context"
+ ],
+ "plain_english": "To the north of that, in the middle part, near the inner house..."
 }

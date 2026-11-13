@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p125",
  "verse": 3114,
- "question": "What invincibility and auspiciousness are affirmed of the deity in this salutation?",
+ "question": "What sacred mountain must be seen to the east of Nāṭaka?",
  "premises": [
-  "The deity is addressed as unconquered.",
-  "The deity is addressed as auspicious."
+  "The location is east of Nāṭaka",
+  "The mountain Nīlācala is seen",
+  "Seeing it is part of the ritual sequence"
  ],
- "inference": "The deity is both invincible and auspicious.",
- "uncertainties": [],
- "plain_english": "Obeisance to the unconquered one, obeisance to the auspicious one."
+ "inference": "One must see the mountain Nīlācala to the east of Nāṭaka.",
+ "uncertainties": [
+  "The identity of Nāṭaka is not specified in this verse"
+ ],
+ "plain_english": "Indeed, to the east of Nāṭaka, having seen the mountain Nīlācala..."
 }
