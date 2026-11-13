@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-width(vistāraṃ) double(dviguṇaṃ) having-made(kṛtvā) by-eights(vasubhiḥ) + when-divided(bhājite) being(sati)
+[width](vistāraṃ) [twofold](dviguṇaṃ) [having-made](kṛtvā) [by-eights](vasubhiḥ) [when-divided](bhājite) [being](sati)
 
 ## mukta-m0-p127-v3152
-in-rise(udaye) by-eights(vasubhiḥ) by-twenty-seven(saptaviṃśadbhiḥ) + star(bha) + here(mihā) + stated(uditam)
+[in-rising](udaye) [by-eights](vasubhiḥ) [by-twenty-seven](saptaviṃśadbhiḥ) [by-star](bhā) [here](iha) [is-stated](uditam)
 
 ## mukta-m0-p127-v3153
-whole(sakalaṃ) triple(triguṇaṃ) having-made(kṛtvā) by-thirty(triṃśadbhiḥ) + divided(bhājitā) lunar-day(tithiḥ)
+[whole](sakalaṃ) [threefold](triguṇaṃ) [having-made](kṛtvā) [by-thirty](triṃśadbhiḥ) [divided](bhājitā) [lunar-day](tithiḥ)
 
 ## mukta-m0-p127-v3154
-again(punar) + also(api) + rise(udayaṃ) by-nine(nanda) + by-eights(vasubhiḥ) + expenditure(vyayaḥ) is-called(ucyate)
+[again](punar) [also](api) [rising](udayaṃ) [by-nine+eights](nanda+vasubhiḥ) [expenditure](vyayaḥ) [is-called](ucyate)
 
 ## mukta-m0-p127-v3155
-having-examined(parikṣya) + income-etc.(āya) + six-group(ādi) + ṣaṭkaṃ(ṣaṭkaṃ) but(tu) temple(prāsādaṃ) one-should-design(parikalpayet)
+[having-examined](parikṣya) [income+etc.+sixfold](āya+ādi+ṣaṭkaṃ) [but](tu) [temple](prāsādaṃ) [one-should-design](parikalpayet)
 
 ## mukta-m0-p127-v3156
-as-before(pūrvavat) + multiplied(guṇitaṃ) having-made(kṛtvā) division(bhāgaṃ) star(tāraṃ) and(ca) equal-to-that(tat) + samam(samam)
+[as-before](pūrvavat) [multiplied](guṇitaṃ) [having-made](kṛtvā) [division](bhāgaṃ) [star](tāraṃ) [and](ca) [equal-to-that](tat+samam)
 
 ## mukta-m0-p127-v3157
-by-even(yugma) + cubits(hastaiḥ) by-tone(svara) + produced(udbhūtaiḥ) by-threes(śikhibhiḥ) + source(yoniḥ) + is-called(ucyate)
+[by-even+cubits](yugma+hastaiḥ) [by-vowel+born](svara+udbhūtaiḥ) [by-threes](śikhibhiḥ) [source](yoniḥ) [is-called](ucyate)
 
 ## mukta-m0-p127-v3158
-by-thirty(triṃśat) + divided(bhaktaṃ) lunar-day(tithiḥ) should-be(syāt) + house(gṛha) + day(dina) + lunar-day(tithi) + conjunction(yoga) + etc.(ādayaḥ) source(yoni) + varieties(bhedāḥ)
+[by-thirty+divided](triṃśat+bhaktaṃ) [lunar-day](tithiḥ) [should-be](syāt) [house+day+lunar-day+conjunctions+etc.](gṛha+dina+tithi+yogā+ādayaḥ) [source+varieties](yoni+bhedāḥ)
 
 ## mukta-m0-p127-v3159
-income(āyam) + any-other(anyatara) + source(yoni) + constellation(ṛkṣakaṃ) weekday(vāram) + part(aṃśaka) + multiplier(guṇa) + diminution(kṣaya) + in-order(kramāt)
+[income](āyam) [another+source+constellation](anyatara+yoni+ṛkṣakaṃ) [weekday](vāram) [part+multiplication+diminution+sequence](aṃśaka+guṇa+kṣaya+kramāt)
 
 ## mukta-m0-p127-v3160
-this(idam) in-liṅga(liṅge) and(ca) in-movable-image(sakale) in-door(dvāre) in-pillar(stambha) + etc.(ādike) accepted(matam)
+[this](idam) [in-liṅga](liṅge) [and](ca) [in-image](sakale) [in-door](dvāre) [in-pillar+etc.](stambha+ādike) [is-considered](matam)
 
 ## mukta-m0-p127-v3161
-in-subsidiary-shrine(parivāra) + ālaye(ālaye) in-tall(tuṅga) + mansion(harmye) + in-another(anyasmin) one-should-apply(prakalpayet)
+[in-attendant+shrine](parivāra+ālaye) [in-tall+mansion](tuṅga+harmye) [in-another](anyasmin) [one-should-apply](prakalpayet)
 
 ## mukta-m0-p127-v3162
-three(tri) + aśa(aśa) + one-part(eka) + aṃśaḥ(aṃśaḥ) should-be(bhavet) + sanctum(garbhaḥ) from-five-parts(pañcāṃśāt) three-parts(tri) + aṃśam(aṃśam) + indeed(eva) or(vā)
+[three+one+part](tri+aśa+eka+aṃśaḥ) [should-be](bhavet) [sanctum](garbhaḥ) [from-five-parts](pañcāṃśāt) [three-parts](tri+aṃśam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p127-v3163
-in-eleven-parts(rudra) + bhāge(bhāge) six-part(ṣaḍ) + aṃśaḥ(aṃśaḥ) should-be(syāt) + in-thirteen-parts(viśva) + aṃśe(aṃśe) seven-part(sapta) + bhāgakaḥ(bhāgakaḥ)
+[in-eleven-parts](rudra+bhāge) [sixth-part](ṣaḍ+aṃśaḥ) [should-be](syāt) [in-thirteen-parts](viśva+aṃśe) [seventh-part](sapta+bhāgakaḥ)
 
 ## mukta-m0-p127-v3164
-width(vistāra) + half(ardha) + measure(pramāṇaṃ) but(tu) sanctum(garbha) + width(vistāraḥ) is-desired(iṣyate)
+[width+half+measure](vistāra+ardha+pramāṇaṃ) [but](tu) [sanctum+width](garbha+vistāraḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p127-v3165
-of-temple(prāsādasya) nine(nava) + or-eight(aṣṭa) + part(aṃśaḥ) ten-part(daśa) + aṃśaḥ(aṃśaḥ) kūṭa(kūṭa) + width(vistaraḥ)
+[of-temple](prāsādasya) [ninth+or-eighth-part](nava+aṣṭa+aṃśaḥ) [tenth-part](daśa+aṃśaḥ) [pavilion+width](kūṭa+vistaraḥ)
 
 ## mukta-m0-p127-v3166
-pañjara(pañjaraḥ) + and(ca) + half(ardha) + part(bhāgaḥ) or(vā) three-quarters(tri) + pādaḥ(pādaḥ) or(vā) + or(atha) one-part(bhāgikaḥ)
+[cage-turret](pañjaraḥ) [and](ca) [half-part](ardha+bhāgaḥ) [or](vā) [three-quarters](tri+pādaḥ) [or](vā) [else](atha) [one-part](bhāgikaḥ)
 
 ## mukta-m0-p127-v3167
-half-part(bhāga) + ardha(ardha) + two(dvi) + or-three(tri) + part(bhāgaṃ) or(vā) thirty-five(pañca) + triṃśam(triṃśam) + or-now(atha) + also(api) or(vā)
+[half-part+two+or-three-parts](bhāga+ardha+dvi+tri+bhāgaṃ) [or](vā) [thirty-fifth](pañcatriṃśam) [or](atha) [also](api) [or](vā)
 
 ## mukta-m0-p127-v3168
-of-great(mahatāṃ) and(ca) of-vimānas(vimānānāṃ) arrangement(racanā) + here(atra) is-prescribed(vidhīyate)
+[of-great](mahatāṃ) [and](ca) [of-vimānas](vimānānāṃ) [arrangement](racanā) [here](atra) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p127-v3169
-outer(bahiḥ) + āndhārikā(āndhārikā) + andhāra(andhāra) + hāra(hāra) + by-part(bhāgena) extended(vistṛtāḥ)
+[by-outer+corridor+inner-corridor+enclosure+part](bahis+āndhārikā+andhāra+hāra+bhāgena) [extended](vistṛtāḥ)
 
 ## mukta-m0-p127-v3170
-wall(bhitti) + inside(anta) + situated(sthaṃ) measure(pramāṇaṃ) should-be(syāt) + wall(bhitti) + outside(bāhye) but(tu) + not-outside(abāhyataḥ)
+[wall+inside+situated](bhitti+anta+sthaṃ) [measure](pramāṇaṃ) [should-be](syāt) [wall+outside](bhitti+bāhye) [but](tu) [from-outside](abāhyataḥ)
 
 ## mukta-m0-p127-v3171
-thus(evam) + inner(anta) + stha(stha) + arrangement(vinyāsaḥ) outer(bāhya) + arrangement(vinyāsaḥ) is-called(ucyate)
+[thus](evam) [inner+arrangement](antaḥstha+vinyāsaḥ) [outer+arrangement](bāhya+vinyāsaḥ) [is-called](ucyate)
 
 ## mukta-m0-p127-v3172
-each-one(eka) + eka(eka) + part(bhāga) + entry(veśāt) + but(tu) kūṭa(kūṭa) + śā(śā) + etc.(ādikaṃ) one-should-lead(nayet)
+[by-each+single+part+entry](eka+eka+bhāga+veśāt) [but](tu) [pavilion+etc.](kūṭa+śa+ādikaṃ) [one-should-lead](nayet)
 
 ## mukta-m0-p127-v3173
-storey(talam) + one(ekaṃ) should-be(bhavet) + grāsa(grāsaṃ) khaṇḍa-harmya(khaṇḍa) + harmyaṃ(harmyaṃ) in-three-storeyed(tribhūmike)
+[storey](talam) [one](ekaṃ) [should-be](bhavet) [projection](grāsaṃ) [sectional+mansion](khaṇḍa+harmyaṃ) [in-three-storeyed](tri+bhūmike)
 
 ## mukta-m0-p127-v3174
-in-twenty-seven(saptaviṃśati) + parts(bhāge) but(tu) of-temple(prāsādasya) + income(āyaḥ) is-called(ucyate)
+[in-twenty-seven+parts](saptaviṃśati+bhāge) [but](tu) [of-temple](prāsādasya) [income](āyaḥ) [is-called](ucyate)
 
 ## mukta-m0-p127-v3175
-five(pañca) + veranda(ālindaṃ) with-six(sa) + ṣaṭ(ṣaṭ) + walls(kuḍyaṃ) outer(bahiḥ) + āndhārikā(āndhārikā) + surrounded(āvṛtam)
+[five+corridors](pañca+ālindaṃ) [with-six+walls](sa+ṣaṭ+kuḍyaṃ) [by-outer+corridor](bahis+āndhārikā) [surrounded](āvṛtam)
