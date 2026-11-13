@@ -5,73 +5,73 @@
 [should-be-done](kartavyāḥ) [ritual-applications](prayogāḥ) [by-practitioners](sādhakaiḥ) [here](iha)
 
 ## mukta-m0-p284-v7077
-[gaṃ](gaṃ) [hrīṃ](hrīṃ) [and](ca) [bring-under-control](vaśamānaya) [svāhā](svāhā) [bhavāṇa+arkaḥ](bhavāṇarkaḥ)
+[gaṃ](gaṃ) [hrīṃ](hrīṃ) [and](ca) [bring-under-control](vaśamānaya) [svāhā](svāhā) [bhavāṇarkaḥ](bhavāṇarkaḥ)
 
 ## mukta-m0-p284-v7078
-[with-excellent](vara) [sugarcanes](ikṣūn) [by-hand+lotuses](hasta+paṃkajaiḥ)
+[with-excellent](vara) [sugarcanes](ikṣūn) [with-lotus](paṃkajaiḥ) [hands](hasta)
 
 ## mukta-m0-p284-v7079
-[by-dark-limbed-one](śyāmalāṅgyā) [by-liṅga+lotus+handed-one](liṅga+padma+hastayā) [one-should-visualize](bhāvayet) [in-heart](dhṛdi)
+[by-dark-limbed-one](śyāmalāṅgyā) [by-her-holding](hastayā) [liṅga](liṅga) [and-lotus](padma) [one-should-visualize](bhāvayet) [in-heart](hṛdi)
 
 ## mukta-m0-p284-v7080
-[one-should-offer-oblations](juhuyāt) [libation+etc.](tarpaṇa+ādi) [then](tataḥ) [one-should-perform](caret)
+[one-should-offer-oblations](juhuyāt) [libation](tarpaṇa) [and-so-forth](ādi) [then](tataḥ) [one-should-perform](caret)
 
 ## mukta-m0-p284-v7081
-[desire+ritual-applications](kāmya+prayogāḥ) [but](tu) [by-that+ritual-prescribed](tat+kalpa+uktān) [one-should-accomplish](prasādhayet)
+[desire-oriented](kāmya) [applications](prayogāḥ) [but](tu) [stated-in-that](tat) [ritual-procedure](kalpa) [mentioned](uktān) [one-should-accomplish](prasādhayet)
 
 ## mukta-m0-p284-v7082
-[gaṇeśa](gaṇeśaḥ) [not](na) [śakti](śaktiḥ) [and+also](ca+api) [not](na) [him](taṃ) [without](vinā)
+[gaṇeśa](gaṇeśo) [not](na) [śakti](śaktiḥ) [and](ca) [also](api) [not](na) [him](taṃ) [without](vinā)
 
 ## mukta-m0-p284-v7083
-[I-shall-declare](pravakṣyāmi) [śakti](śaktiṃ) [śrī+bhuvaneśvarī](śrī+bhuvaneśvarīm)
+[I-shall-declare](pravakṣyāmi) [śakti](śaktiṃ) [śrī-bhuvaneśvarī](śrībhuvaneśvarīm)
 
 ## mukta-m0-p284-v7084
-[śakti](śaktiḥ) [vasiṣṭha](vaśiṣṭhaḥ) [and](ca) [sūta](sūtaḥ) [meter](chandaḥ) [of-it](asya) [is-stated](kathyate)
+[śakti](śaktiḥ) [vasiṣṭha](vaśiṣṭhaḥ) [and](ca) [sūta](sūtaḥ) [of-this](asya) [meter](chandaḥ) [is-declared](kathyate)
 
 ## mukta-m0-p284-v7085
-[should-be](bhavet) [seed-syllable](bījam) [ī-kāra](ī+kāraḥ) [śakti](śaktiḥ) [is-called](ucyate)
+[should-be](bhavet) [seed-syllable](bījam) [īkāra](īkāraḥ) [śakti](śaktiḥ) [is-called](ucyate)
 
 ## mukta-m0-p284-v7086
-[with-six+long+joined+seed-syllable](ṣaḍ+dīrgha+yukta+bījena) [six+limbs](ṣaḍ+aṃgāni) [one-should-perform](samācaret)
+[with-seed-syllable](bījena) [joined-with](yukta) [six](ṣaḍ) [long-vowels](dīrgha) [six](ṣaḍ) [limbs](aṃgāni) [one-should-perform](samācaret)
 
 ## mukta-m0-p284-v7087
-[for-goddess+one-pointedness+bringing-about](devī+ekatā+pādanāya) [mantra+placement](mantra+nyāsaḥ) [now](atha) [will-be-told](vakṣyate)
+[for-establishing](pādanāya) [oneness](ekatā) [with-goddess](devī) [mantra](mantra) [placement](nyāsaḥ) [now](atha) [will-be-told](vakṣyate)
 
 ## mukta-m0-p284-v7088
 [in-heart](hṛdaye) [to-be-placed](sthāpyā) [in-anus](gude) [hrīṃ](hrīṃ) [and](ca) [karālikā](karālikā)
 
 ## mukta-m0-p284-v7089
-[in-upward+north+south+east+directions](ūrdhva+udak+yāmya+pūrva+āśā) [in-each+located](pratyeka+stheṣu) [and](ca) [in-order](kramāt)
+[in-places](stheṣu) [of-upper](ūrdhva) [northern](udak) [southern](yāmya) [and-eastern](pūrva) [directions](āśā) [each](pratyeka) [and](ca) [in-order](kramāt)
 
 ## mukta-m0-p284-v7090
-[on-right+breast](dakṣa+kuce) [brahmāṇī](brahmāṇīṃ) [on-left+shoulder](vāma+aṃsake)
+[on-right-breast](dakṣakuce) [brahmāṇī](brahmāṇīṃ) [on-left-shoulder](vāmageṃsake)
 
 ## mukta-m0-p284-v7091
-[one-should-place](vinyaset) [on-forehead](bhāle) [with-gāyatrī](gāyatryā) [together](sahitaṃ) [wise-one](sudhīḥ)
+[one-should-place](vinyaset) [on-forehead](bhāle) [with-gāyatrī](gāyatryā) [together](sahitaṃ) [the-wise-one](sudhīḥ)
 
 ## mukta-m0-p284-v7092
-[on-left+cheek](vāma+gaṇḍe) [and](ca) [with-vāgīśvarī](vāgīśvaryā) [joined](yutaṃ) [one-should-place](nyaset)
+[on-left-cheek](vāmagaṇḍe) [and](ca) [with-vāgīśvarī](vāgīśvaryā) [joined](yutaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p284-v7093
-[on-left](vāme) [dhanapati](dhanapatiṃ) [joined](yuktaṃ) [with-śrī](śriyā) [on-ear+tip](śrotra+agrake) [one-should-place](nyaset)
+[on-left](vāme) [dhanapati](dhanapatiṃ) [joined](yuktaṃ) [with-śrī](śriyā) [on-tip-of-ear](śrotrāgrake) [one-should-place](nyaset)
 
 ## mukta-m0-p284-v7094
-[on-right+ear+tip](dakṣa+śrotra+agrake) [practitioner](mantrī) [two-treasures](nidhī) [with-śakti+joined](śakti+yutau) [one-should-place](nyaset)
+[on-tip-of-right-ear](dakṣaśrotrāgrake) [the-practitioner](mantrī) [the-two-nidhis](nidhī) [joined-with-śakti](śaktiyutau) [one-should-place](nyaset)
 
 ## mukta-m0-p284-v7095
-[on-left+shoulder](vāma+aṃse) [in-heart](hṛdi) [on-right](dakṣiṇe) [side](pārśve)
+[on-left-shoulder](vāmāṃse) [on-right-side-of-heart](hṛdidakṣiṇe)
 
 ## mukta-m0-p284-v7096
-[one-should-place](nyasyet) [eight+mothers](mātṛ+aṣṭa) [on-forehead](bhāle) [and+on-shoulder](ca+aṃse) [on-side](pārśve) [and+also+on-belly](tathā+udare)
+[one-should-place](nyasyet) [the-eight-mothers](mātṛraṣṭa) [on-forehead](bhāle) [and](ca) [on-shoulder](aṃse) [on-side](pārśve) [and](tathā) [on-belly](udare)
 
 ## mukta-m0-p284-v7097
-[one-should-pervade](vyāpayet) [with-root+mantra](mūla+mantreṇa) [body](tanuṃ) [goddess](devīṃ) [then](tataḥ) [one-should-remember](smaret)
+[one-should-pervade](vyāpayet) [with-root-mantra](mūlamantreṇa) [the-body](tanuṃ) [the-goddess](devīṃ) [then](tataḥ) [one-should-meditate](smaret)
 
 ## mukta-m0-p284-v7098
-[with-gentle](manda) [smile](smita) [shining](lasat) [face](mukhīm)
+[with-face](mukhīm) [shining](lasat) [with-gentle](manda) [smile](smita)
 
 ## mukta-m0-p284-v7099
-[six+cornered](ṣaṭ+koṇaṃ) [outside+of-that](tat+bāhye) [eight+petal+lotus](aṣṭa+dala+ambujam)
+[six-cornered-figure](ṣaṭkoṇaṃ) [outside-that](tadbāhye) [eight-petaled](aṣṭadala) [lotus](ambujam)
 
 ## mukta-m0-p284-v7100
-[with-four+doors+endowed](catur+dvāra+samopetaṃ) [diagram](maṇḍalaṃ) [declared](proktam) [supreme](uttamam)
+[endowed-with](samopetaṃ) [four](catur) [doors](dvāra) [maṇḍala](maṇḍalaṃ) [declared](proktam) [supreme](uttamam)

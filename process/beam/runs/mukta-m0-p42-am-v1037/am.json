@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p42",
  "verse": 1037,
- "question": "How many times and in what order should the recitation be performed?",
+ "question": "To which deity must the offering be given by means of this procedure?",
  "premises": [
-  "Recitation is prescribed at the beginning.",
-  "Recitation is prescribed afterwards.",
-  "It should be done seven times in order."
+  "The offering is specified as the object to be given.",
+  "The recipient named is Śivā.",
+  "The giving is enjoined through this means."
  ],
- "inference": "One should recite at the beginning and afterwards seven times in order.",
- "uncertainties": [],
- "plain_english": "One should recite at the beginning and recite afterwards seven times in order."
+ "inference": "By this means one should give the offering to Śivā.",
+ "uncertainties": [
+  "The precise referent of jātaḥ is context-dependent."
+ ],
+ "plain_english": "By this alone, one should give the offering to Śivā."
 }

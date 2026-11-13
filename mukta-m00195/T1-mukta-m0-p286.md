@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p286-v7126
-[in-mind] (citte) [with-four] (caturbhir) [also] (api) [and] (ca) [supreme] (uttamā)
+[in-mind](citte) [with-four](caturbhir) [also](api) [and](ca) [supreme](uttamā)
 
 ## mukta-m0-p286-v7127
-[with-middle] (madhyā) [weapons] (stra) [enclosures] (āvaraṇaiḥ) [with-worship] (pūjā) [limbs] (aṅga) [world-guardians] (lokeśa) [and-their] (tad) [weapons] (astrakaiḥ)
+[with-middle-weapons](madhya) [+](astra) [+](āvaraṇaiḥ) [with-worship-limbs](pūjā) [+](aṅga) [with-world-guardians](lokeśa) [+](tad) [+](astrakaiḥ)
 
 ## mukta-m0-p286-v7128
-[with-no-other] (ananya) [resort] (gatikā) [worship] (pūjā) [indeed] (hi) [with-one] (ekena) [limb] (aṅgena) [is-declared] (kīrtitā)
+[without-other-refuge](ananya) [+](gatikā) [worship](pūjā) [indeed](hi) [with-limb](aṃgena) [by-one](ekena) [is-declared](kīrtitā)
 
 ## mukta-m0-p286-v7129
-[sin] (pāpaṃ) [in-worship] (pūjā) [omission] (lope) [likewise] (tathā) [would-be] (bhavet)
+[sin](pāpaṃ) [in-omission-of-worship](pūjā) [+](lope) [likewise](tathā) [would-be](bhavet)
 
 ## mukta-m0-p286-v7130
-[left-hand-practitioner] (vāmī) [on-sunday] (ravau) [worship] (pūjāṃ) [not] (na) [should-omit] (lopayet)
+[left-handed-practitioner](vāmī) [on-sunday](ravau) [worship](pūjāṃ) [not](na) [should-omit](lopayet)
 
 ## mukta-m0-p286-v7131
-[with-thirty-two] (dvātriṃśal) [hundred-thousand] (lakṣa) [measure] (mānena) [should-recite] (japen) [mantra] (mantraṃ) [concentrated] (samāhitaḥ)
+[by-measure-of-thirty-two-lakhs](dvātriṃśat) [+](lakṣa) [+](mānena) [should-recite](japet) [mantra](mantraṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p286-v7132
-[then] (tataḥ) [should-perform] (kuryān) [the-mantrin] (mantrī) [according-to-scripture] (śāstra) [prescribed] (ukta) [path] (vartmanā)
+[then](tataḥ) [should-perform](kuryāt) [mantrin](mantrī) [by-scripture-prescribed](śāstra) [+](ukta) [+](vartmanā)
 
 ## mukta-m0-p286-v7133
-[the-south] (dakṣiṇā) [facing-form] (mūrtim) [having-resorted-to] (āśritaḥ) [the-mantrin] (mantrī)
+[Dakshinamurti](dakṣiṇāmūrtim) [having-resorted-to](āśritaḥ)
 
 ## mukta-m0-p286-v7134
-[the-dark] (kṛṣṇā) [eighth-day] (aṣṭamīṃ) [beginning-from] (samārabhya) [until] (yāvat) [the-dark] (kṛṣṇā) [fourteenth-day] (caturdaśī)
+[dark-eighth-day](kṛṣṇa) [+](aṣṭamīṃ) [beginning-from](samārabhya) [until](yāvat) [dark](kṛṣṇā) [fourteenth-day](caturdaśī)
 
 ## mukta-m0-p286-v7135
-[with-curd] (dadhi) [honey] (kṣaudra) [and-ghee] (ghṛta) [smeared] (abhyaktā) [vyāghāta] (vyāghāta) [firewood-sticks] (samidho) [one-should-offer] (hunet)
+[smeared-with-curd-honey-ghee](dadhi) [+](kṣaudra) [+](ghṛta) [+](abhyaktā) [vyaghata-fuel-sticks](vyāghāta) [+](samidho) [should-offer](hunet)
 
 ## mukta-m0-p286-v7136
-[would-become] (bhaven) [the-mantra] (mantro) [not] (na) [here] (atra) [to-be-done] (kāryā) [consideration] (vicāraṇā)
+[would-be](bhavet) [mantra](mantro) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p286-v7137
-[sesame] (tila) [mustard] (sarṣapa) [milk] (dugdha) [and-ghee] (ājya) [substances] (dravyāṇi) [eight] (aṣṭa) [in-number] (mitāni) [and] (ca)
+[sesame-mustard-milk-ghee](tila) [+](sarṣapa) [+](dugdha) [+](ājya) [substances](dravyāṇi) [eight-in-number](aṣṭa) [+](mitāni) [and](ca)
 
 ## mukta-m0-p286-v7138
-[with-accomplished] (siddha) [mantra] (manur) [the-mantrin] (mantrī) [all] (sarvān) [desires] (kāmān) [should-accomplish] (prasādhayet)
+[with-accomplished-mantra](siddha) [+](manuḥ) [mantrin](mantrī) [all](sarvān) [desires](kāmān) [should-accomplish](prasādhayet)
 
 ## mukta-m0-p286-v7139
-[one-would-become] (bhaved) [eloquent] (vāgmī) [by-drinking] (pānataḥ) [water] (ambu) [chanted-over] (japta) [that-much] (tāvaj)
+[would-become](bhavet) [eloquent](vāgmī) [by-drinking](pānataḥ) [water-recited-over-that-many-times](tāvat) [+](japta) [+](ambu)
 
 ## mukta-m0-p286-v7140
-[that] (taj) [chanted] (japta) [collyrium] (mañjanaṃ) [subjugating] (vaśyaṃ) [mixed-with] (miśritam) [camphor] (karpūra) [and-agaru] (aguru)
+[that-recited](tat) [+](japta) [collyrium](añjanaṃ) [subduing](vaśyaṃ) [mixed-with-camphor-and-aguru](karpūra) [+](aguru) [+](miśritam)
 
 ## mukta-m0-p286-v7141
-[on-that] (tad) [night] (rātryā) [the-desired] (iṣṭām) [one-should-attract] (ākarṣayet) [woman] (striyam)
+[in-that-night](tat) [+](rātryām) [desired](iṣṭām) [should-attract](ākarṣayet) [woman](striyam)
 
 ## mukta-m0-p286-v7142
-[vaśyakaramityarthaḥ ||] (vaśyakaramityarthaḥ ||)
+[meaning-causing-subjugation](vaśya) [+](karam) [thus](iti) [meaning](arthaḥ)
 
 ## mukta-m0-p286-v7143
-[equal-to] (samaḥ) [bṛhaspati] (bṛhaspati) [the-mantrin] (mantrī) [lord-of] (adhipo) [all] (sarva) [knowledge] (vidyā) [would-become] (bhavet)
+[equal-to-Brihaspati](bṛhaspati) [+](samaḥ) [mantrin](mantrī) [lord-of-all-knowledge](sarva) [+](vidyā) [+](adhipo) [would-become](bhavet)
 
 ## mukta-m0-p286-v7144
-[one-should-subjugate] (vaśayet) [by-lotus] (padma) [oblation] (homena) [kings] (rājñas) [and-their] (tan) [ministers] (mantriṇas) [likewise] (tathā)
+[should-subdue](vaśayet) [by-lotus-oblation](padma) [+](homena) [of-kings](rājñaḥ) [of-their-ministers](tat) [+](mantriṇaḥ) [likewise](tathā)
 
 ## mukta-m0-p286-v7145
-[made-of] (kṛtāṃ) [flour] (piṣṭa) [image] (pratimāṃ) [endowed-with] (saṃyutām) [sweetness] (svādu)
+[made-of-flour](piṣṭa) [+](kṛtāṃ) [image](pratimāṃ) [endowed-with-sweetness](svādu) [+](saṃyutām)
 
 ## mukta-m0-p286-v7146
-[a-woman] (pramadāṃ) [or] (vā) [also] (api) [whomever] (yaṃ yaṃ) [one-desires] (vāñchati) [the-unsurpassed] (anuttamam)
+[beloved-woman](pramadāṃ) [or](vā) [also](api) [whomever](yaṃ) [whomever](yaṃ) [or](vā) [desires](āñchati) [unsurpassed](anuttamam)
 
 ## mukta-m0-p286-v7147
-[one-should-show] (darśayed) [quickly] (āśu) [she] (sā) [bringing] (prasavā) [happiness] (sukha) [would-become] (bhavet)
+[should-show](darśayet) [quickly](āśu) [she](sā) [bringing-happiness](sukha) [+](prasavā) [would-become](bhavet)
 
 ## mukta-m0-p286-v7148
-[a-maṇḍala] (maṇḍalaṃ) [one-should-make] (kuryād) [endowed-with] (anvitaṃ) [goddess] (devī) [seat] (pīṭha) [auspicious] (śubham)
+[diagram](maṇḍalaṃ) [should-make](kuryāt) [endowed-with-goddess-seat](devī) [+](pīṭha) [+](anvitaṃ) [auspicious](śubham)
 
 ## mukta-m0-p286-v7149
-[at-the-tip] (agre) [of-the-petal] (dala) [indeed] (tu) [gold] (svarṇa) [silver] (raupya) [and-good] (su) [copper] (tāmrān)
+[on-petal-tip](dala) [+](agre) [but](tu) [gold-silver-copper](svarṇa) [+](raupya) [+](su) [+](tāmrajān)
 
 ## mukta-m0-p286-v7150
-[for-one's-own] (nija) [chosen-deity] (iṣṭāyai) [and] (ca) [the-mantra-knower] (mantravit)
+[for-one's-own-chosen-deity](nija) [+](iṣṭāyai) [and](ca) [knower-of-mantras](mantra) [+](vit)
