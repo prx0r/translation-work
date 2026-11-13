@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p129-v3201
-[yūpa-bound](yūpabaddham) [adorn](alaṅkṛtya) [then](tataḥ) [cut](chindyāt) [great-animal](mahāpaśum)
+[post-bound](yūpabaddham) [having-decorated](alaṅkṛtya) [then](tataḥ) [one-should-cut](chindyāt) [great-animal](mahāpaśum)
 
 ## mukta-m0-p129-v3202
-[tad-blood-flesh-mixed](tadraktapalalonmiśraiḥ) [foods](annaiḥ) [in-directions](dikṣu) [offering](baliṃ) [throw](kṣipet)
+[its-blood](tadrakta) [flesh](pala) [salt-mixed](lonmiśraiḥ) [with-food](annaiḥ) [in-directions](dikṣu) [offering](baliṃ) [one-should-cast](kṣipet)
 
 ## mukta-m0-p129-v3203
-[śaiva-festival-rite](śaivotsavavidhānena) [pilgrimage](tīrthayātrām) [complete](samāpayet)
+[śaiva-festival](śaivotsava) [by-procedure](vidhānena) [pilgrimage](tīrthayātrāṃ) [one-should-complete](samāpayet)
 
 ## mukta-m0-p129-v3204
-[eighty-one-pots](ekāśītighaṭaiḥ) [as-before](prāgvat) [bathe](snapayet) [worship](pūjayet) [also](api)
+[with-eighty-one-pots](ekāśītighaṭaiḥ) [as-before](prāgvat) [one-should-bathe](snapayet) [one-should-worship](pūjayet) [also](api)
 
 ## mukta-m0-p129-v3205
-[likewise](tathā) [on-charcoal-days](aṅgāravāreṣu) [evening](sāyaṃ) [aforementioned-path](pūrvoktamārgataḥ)
+[likewise](tathā) [on-Tuesday](aṅgāravāreṣu) [in-evening](sāyaṃ) [by-previously-stated](pūrvokta) [by-method](mārgataḥ)
 
 ## mukta-m0-p129-v3206
-[on-fourteenth-days](caturdaśyorārārkadivaseṣu) [and](ca)
+[on-fourteenth-days](caturdaśyoḥ) [on-Sunday](ārārkadivaseṣu) [and](ca)
 
 ## mukta-m0-p129-v3207
-[according-to-stated-śaiva](proktaśaivānusāreṇa) [rite-here-too](karmātrāpi) [gather](samūhayet)
+[stated](prokta) [śaiva-tradition](śaivānusāreṇa) [rite](karma) [here](atra) [also](api) [one-should-perform](samūhayet)
 
 ## mukta-m0-p129-v3208
-[become](syāt) [kṣetrapāla-status](kṣetrapālapadaṃ) [then](tataḥ)
+[should-be](syāt) [kṣetrapāla-word](kṣetrapālapadaṃ) [then](tataḥ)
 
 ## mukta-m0-p129-v3209
-[become](syāt) [agnijāyā-ending](agnijāyānto) [seed](bījaṃ) [with-long-vowels](dīrghaiḥ) [svaras](svarairyutam)
+[should-be](syāt) [ending-with-agnijāyā](agnijāyāntaḥ) [seed](bījaṃ) [with-long](dīrghaiḥ) [with-vowels](svaraiḥ) [joined](yutam)
 
 ## mukta-m0-p129-v3210
-[of-that](tasyaiva) [tāra](tāraḥ) [śakti](śaktiśca) [eighth](yāṣṭamaḥ)
+[of-that](tasya) [indeed](eva) [praṇava](tāraḥ) [śakti](śaktiḥ) [and](ca) [eighth](yāṣṭamaḥ)
 
 ## mukta-m0-p129-v3211
-[with-eleventh-vowel](ekādaśasvareṇāntyaṃ) [from-fifth-fire-joined](pañcamādihutāśayuk)
+[with-eleventh-vowel](ekādaśasvareṇa) [final](antyaṃ) [with-fifth-initial](pañcamādi) [with-fire](hutāśayuk)
 
 ## mukta-m0-p129-v3212
-[jvālāmukha-status](jvālāmukhapadaṃ) [become](bhavet)
+[jvālāmukha-word](jvālāmukhapadaṃ) [should-be](bhavet)
 
 ## mukta-m0-p129-v3213
-[become](syāt) [by-form](rūpeṇeti) [pada](padaṃ) [then](tataḥ)
+[should-be](syāt) [rūpeṇa-thus](rūpeṇeti) [word](padaṃ) [then](tataḥ)
 
 ## mukta-m0-p129-v3214
-[at-end-of-aṭṭahāsa](aṭṭahāsapadasyānte) [ḍāmarādhipa](ḍāmarādhipa) [also](ityapi)
+[of-aṭṭahāsa-word](aṭṭahāsapadasya) [at-end](ante) [ḍāmarādhipa-thus](ḍāmarādhipa) [also](iti) [and](api)
 
 ## mukta-m0-p129-v3215
-[perform](kurvīta) [japa-etc](japādiḥ) [giver-of-siddhi](siddhido) [become](bhavet)
+[one-should-perform](kurvīta) [recitation-etc](japādiḥ) [success-giving](siddhidaḥ) [should-be](bhavet)
 
 ## mukta-m0-p129-v3216
-[turuvajra-hanā-three](turuvajrahanāstrayaḥ)
+[turu](turu) [vajra](vajra) [hana](hana) [three-weapons](astrayaḥ)
 
 ## mukta-m0-p129-v3217
-[take-take-saying](gṛhṇa-gṛhṇetyuktvāgnijāyayā)
+[gṛhṇa-gṛhṇa-thus](gṛhṇa+gṛhṇa+iti) [having-said](uktvā) [with-agnijāyā](agnijāyayā)
 
 ## mukta-m0-p129-v3218
-[deliverance-from-calamity](āpaduddhāraṇaṃ) [as-before](prāgvat) [do](kuruyugmaṃ) [then-also](tato'pi) [ca](ca)
+[deliverance-from-calamity](āpaduddhāraṇaṃ) [as-before](prāgvat) [kuru-pair](kuruyugmaṃ) [then](tataḥ) [also](api) [and](ca)
 
 ## mukta-m0-p129-v3219
-[twenty-two-syllable](dvāviṃśatyakṣaro) [mantra](mantraḥ) [by-japa-etc](japādyairiṣṭasiddhidaḥ)
+[twenty-two-syllabled](dvāviṃśatyakṣaraḥ) [mantra](mantraḥ) [by-recitation-etc](japādyaiḥ) [desired-success-giving](iṣṭasiddhidaḥ)
 
 ## mukta-m0-p129-v3220
-[turned-eye](vivṛttākṣaṃ) [blazing-upright-hair](jvalitordhvasiroruham)
+[with-wide-open-eyes](vivṛttākṣaṃ) [with-flaming-upward-hair](jvalitordhvasiroruham)
 
 ## mukta-m0-p129-v3221
-[clear-fangs-fierce-mouth](spaṣṭadaṃṣṭrotkaṭamukhaṃ) [shining-various-ornaments](sphurannānāvibhuṣaṇam)
+[with-clear-fangs](spaṣṭadaṃṣṭra) [fierce-face](utkaṭamukhaṃ) [with-glittering-various-ornaments](sphurannānāvibhuṣaṇam)
 
 ## mukta-m0-p129-v3222
-[jingling-golden-anklet](śiñjatkanakamañjīra) [adorned-foot-lotus](bhūṣitāṅghrisaroruham)
+[with-tinkling-golden-anklets](śiñjatkanakamañjīra) [adorned-feet-lotuses](bhūṣitāṅghrisaroruham)
 
 ## mukta-m0-p129-v3223
-[eight-armed-or-two-armed](vāṣṭahastaṃ) [dvibhujaṃ) [vāpi](vāpi) [make](kārayet)
+[or-eight-handed](vāṣṭahastaṃ) [or-two-armed](dvibhujaṃ) [or](vāpi) [one-should-make](kārayet)
 
 ## mukta-m0-p129-v3224
-[below-and-above](adhaścordhvaṃ) [ca](ca) [bearing](bibhrāṇaṃ) [make-thus](kuryādevaṃ) [four-armed](caturbhujam)
+[below](adhaḥ) [and-above](ca+ūrdhvaṃ) [and](ca) [bearing](bibhrāṇaṃ) [one-should-make](kuryāt) [thus](evaṃ) [four-armed](caturbhujam)
 
 ## mukta-m0-p129-v3225
-[on-right](dakṣiṇe'tha) [skull](kapālaṃ) [ca](ca) [bell](ghaṇṭāṃ) [ca](ca) [with-arrow](saśaraṃ) [bow](dhanuḥ)
+[on-right](dakṣiṇe) [then](atha) [skull](kapālaṃ) [and](ca) [bell](ghaṇṭāṃ) [and](ca) [with-arrow](saśaraṃ) [bow](dhanuḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p134-v3326
-[song+dance+etc.+trumpet+sound+preceded](gītanṛttāditūryaghoṣapurassaram)
+[song](gīta) [dance](nṛtta) [etcetera](ādi) [musical-instrument](tūrya) [sound](ghoṣa) [preceded-by](purassaram)
 
 ## mukta-m0-p134-v3327
-[great+pot+but+three-two-one+śiva-worshipped](mahāśarāvaṃ tu tridvyekaṃ śivapūjitam)
+[great](mahā) [dish](śarāvaṃ) [indeed](tu) [three-two-one](tridvyekaṃ) [Śiva](śiva) [worshipped](pūjitam)
 
 ## mukta-m0-p134-v3328
-[oil+in-that+lamp-wick+place](tailena tasmin varti ca nikṣipet)
+[with-oil](tailena) [in-that](tasmin) [wick](varti) [and](ca) [one-should-place](nikṣipet)
 
 ## mukta-m0-p134-v3329
-[corner-pavilion+altar+fire+dividing+then](koṇamaṇḍapakuṇḍeṣu sthaṇḍilāgniṃ vibhajya tu)
+[corner](koṇa) [pavilion](maṇḍapa) [fire-pits](kuṇḍeṣu) [ground-altar](sthaṇḍila) [fire](agniṃ) [having-divided](vibhajya) [indeed](tu)
 
 ## mukta-m0-p134-v3330
-[palāśa-vaṭa-arka+twigs+and+ghee+oblation](pālāśavaṭaśamyarkasamidhaśca ghṛtaṃ carum)
+[pālāśa](pālāśa) [vaṭa](vaṭa) [śamī](śamy) [arka](arka) [firewood](samidhaḥ) [and](ca) [ghee](ghṛtaṃ) [cooked-rice](carum)
 
 ## mukta-m0-p134-v3331
-[cloth+etc.+lamp-tree+from-root](vastrādyairdīpavṛkṣasya mūlataḥ)
+[with-garments](vastrā) [etcetera](ādyaiḥ) [lamp](dīpa) [tree](vṛkṣasya) [at-the-root](mūlataḥ)
 
 ## mukta-m0-p134-v3332
-[to-śiva+then+permission-obtained+then+guru](śivāyātha labdhānujñastato guruḥ)
+[to-Śiva](śivāya) [then](atha) [obtained](labdha) [permission](anujñaḥ) [then](tataḥ) [teacher](guruḥ)
 
 ## mukta-m0-p134-v3333
-[mind-arousing+pot-state+bringing+lamp-tree+below](manonmanīśarāvasthān nītvā dīpataroradhaḥ)
+[Manonmanī](manonmanī) [dish](śarāva) [situated](sthān) [having-brought](nītvā) [lamp](dīpa) [tree](taror) [below](adhaḥ)
 
 ## mukta-m0-p134-v3334
-[śakti-lamp+taking+upward+climb+lamp-tree](śaktidīpaṃ gṛhītvordhvamārohed dīpapādapam)
+[power](śakti) [lamp](dīpaṃ) [having-taken](gṛhītvā) [upward](ūrdhvam) [should-ascend](ārohet) [lamp](dīpa) [tree](pādapam)
 
 ## mukta-m0-p134-v3335
-[then+beginning+all+those+lamp-garlands+around](tataḥ prārabhya sarvāstā dīpamālāḥ samantataḥ)
+[then](tataḥ) [having-begun](prārabhya) [all](sarvāḥ) [those](tāḥ) [lamp](dīpa) [garlands](mālāḥ) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p134-v3336
-[temple-parts+all+subsidiary-shrines+and](prāsādāṅgeṣu sarveṣu parivārālayeṣu ca)
+[temple](prāsāda) [limbs](aṅgeṣu) [all](sarveṣu) [attendant-deity](parivāra) [shrines](ālayeṣu) [and](ca)
 
 ## mukta-m0-p134-v3337
-[having-worshipped+song+music+etc.+auspicious](saṃpūjya gītavādyādimaṅgalaiḥ)
+[having-worshipped](saṃpūjya) [song](gīta) [music](vādya) [etcetera](ādi) [auspicious-rites](maṅgalaiḥ)
 
 ## mukta-m0-p134-v3338
-[circumambulation+all-lamps+from-shrine+outside](pradakṣiṇaṃ sarvadīpānāmālayād bahiḥ)
+[circumambulation](pradakṣiṇaṃ) [of-all](sarva) [lamps](dīpānām) [from-temple](ālayād) [outside](bahiḥ)
 
 ## mukta-m0-p134-v3339
-[to-deity+then+bhūta-offering+throw](deveśaṃ tato bhūtabaliṃ kṣipet)
+[to-the-lord-of-gods](deveśaṃ) [then](tataḥ) [being](bhūta) [offering](baliṃ) [one-should-cast](kṣipet)
 
 ## mukta-m0-p134-v3340
-[seven-nights-end+low+youngest+etc.+highest-festival](saptarātrāntakaṃ nīcakaniṣṭhādyuttamotsave)
+[seven](sapta) [night](rātra) [ending](antakaṃ) [in-low](nīca) [inferior](kaniṣṭha) [etcetera](ādi) [supreme](uttama) [festival](utsave)
 
 ## mukta-m0-p134-v3341
-[as-before+village+etc.+circumambulation](yathāpūrvaṃ grāmādestu pradakṣiṇam)
+[as](yathā) [before](pūrvaṃ) [of-village](grāmādeḥ) [indeed](tu) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p134-v3342
-[dakṣiṇā+give+food+etc.+unrestricted](dakṣiṇāṃ dadyādannādyaṃ cāpyavāritam)
+[fee](dakṣiṇāṃ) [one-should-give](dadyāt) [food](anna) [etcetera](ādyaṃ) [and](ca) [also](api) [unrestricted](avāritam)
 
 ## mukta-m0-p134-v3343
-[enjoyments+obtaining+heaven+go](bhogān saṃprāpya svargaṃ yānti (virepa? nirena)saḥ)
+[enjoyments](bhogān) [having-obtained](saṃprāpya) [to-heaven](svargaṃ) [they-go](yānti) [without-sin](nirena) [he](saḥ)
 
 ## mukta-m0-p134-v3344
-[brahma+equal+eloquence+and+bṛhaspati](brahmaṇastulyaṃ vaktṛtvaṃ ca bṛhaspateḥ)
+[of-Brahmā](brahmaṇaḥ) [equality](tulyaṃ) [eloquence](vaktṛtvaṃ) [and](ca) [of-Bṛhaspati](bṛhaspateḥ)
 
 ## mukta-m0-p134-v3345
-[of-lamps+fruit+to-speak+how+capable](dīpānāṃ phalaṃ vaktuṃ kutaḥ kṣamam)
+[of-lamps](dīpānāṃ) [fruit](phalaṃ) [to-tell](vaktuṃ) [whence](kutaḥ) [capable](kṣamam)
 
 ## mukta-m0-p134-v3346
-[but+all+final-rite+is-spoken+now](tu sarveṣāmantyeṣṭiḥ kathyate'dhunā)
+[indeed](tu) [of-all](sarveṣām) [funeral-rites](antyeṣṭiḥ) [is-told](kathyate) [now](adhunā)
 
 ## mukta-m0-p134-v3347
-[prāṇa-etc.+with-root+strung+in-order](prāṇamityādīn mūlena grathitān kramāt)
+[prāṇa](prāṇam) [etcetera](ityādīn) [with-root-mantra](mūlena) [strung-together](grathitān) [in-order](kramāt)
 
 ## mukta-m0-p134-v3348
-[bathe+disciple+or+wife+or+son](snapayecchiṣyaḥ patnyathavā sutaḥ)
+[one-should-bathe](snapayet) [disciple](śiṣyaḥ) [wife](patnī) [or](athavā) [son](sutaḥ)
 
 ## mukta-m0-p134-v3349
-[darbha+thumb+binding+ghee+curd+rice+sesame](darbheṇāṅguṣṭhayorbaddhvā ghṛtadadhyakṣatāṃstilān)
+[with-kuśa-grass](darbheṇa) [on-both-thumbs](aṅguṣṭhayoḥ) [having-tied](baddhvā) [ghee](ghṛta) [curd](dadhi) [unbroken-rice](akṣatān) [sesame-seeds](tilān)
 
 ## mukta-m0-p134-v3350
-[bamboo-wood+etc.+made+firm+palanquin+new](vaṃśadārvādiracitāṃ sudṛḍhāṃ śibikāṃ navām)
+[bamboo](vaṃśa) [wood](dāru) [etcetera](ādi) [made](racitāṃ) [very-firm](sudṛḍhāṃ) [palanquin](śibikāṃ) [new](navām)
