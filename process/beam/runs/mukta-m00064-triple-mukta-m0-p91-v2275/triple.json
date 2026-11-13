@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "object of worship; accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior completed action",
+     "morph": "(abs.) pūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uparyupari",
+     "gloss": "successively-above",
+     "grounds": "reduplicated adverb indicating repeated upward progression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvataḥ",
+     "gloss": "through-contemplation",
+     "grounds": "ablative used adverbially to indicate mode of mental visualization",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what manner must the seat be worshipped through successive contemplation?",
+   "premises": [
+    "The seat is established as the object of worship.",
+    "The act of worship is expressed as a completed prior action.",
+    "The worship is to be performed repeatedly in an ascending manner.",
+    "Contemplation provides the mode for this repeated worship."
+   ],
+   "inference": "Therefore the seat must be worshipped again and again in successive stages through contemplative visualization.",
+   "uncertainties": [
+    "The exact nuance of bhāvataḥ as contemplative mode versus arising from meditation is context-dependent."
+   ],
+   "plain_english": "And having worshipped the seat, one should worship it again and again, successively above, through contemplation."
+  }
+ ]
+}
