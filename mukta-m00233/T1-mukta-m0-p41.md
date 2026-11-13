@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[bhānu-aṃśaiḥ](bhānvaṃśaiḥ) [ūru-madhyasya](ūrumadhyasya) [jaṅghā-mūle](jaṅghāmūle) [aṣṭa-mātrakaiḥ](aṣṭamātrakaiḥ)
+[twelve-parts](bhānvaṃśaiḥ) [thigh-middle](ūru+madhyasya) [at-calf-root](jaṅghā+mūle) [eight-measures](aṣṭa+mātrakaiḥ)
 
 ## mukta-m0-p41-v1002
-[vistṛtā](vistṛtā) [atha](atha) [akṣi-gulpha-antam](akṣigulphāntaṃ) [sa](sa) [yaveṣu](yaveṣu) [aṃśa-vistṛtam](aṃśavistṛtam)
+[extended](vistṛtā) [then](atha) [up-to-eye-and-ankle](akṣi+gulpha+antaṃ) [that](sa) [in-barleycorns](yaveṣu) [part-extended](aṃśa+vistṛtam)
 
 ## mukta-m0-p41-v1003
-[ṣaḍ-aṃśaḥ](ṣaḍaṃśaḥ) [prapada-vyāsaḥ](prapadavyāsaḥ) [tala-agrasya](talāgrasya) [sa-ṣaḍ-yavaḥ](saṣaḍyavaḥ)
+[sixth-part](ṣaḍaṃśaḥ) [forefoot-width](prapada+vyāsaḥ) [of-sole-tip](tala+agrasya) [with-six-barleycorns](sa+ṣaḍ+yavaḥ)
 
 ## mukta-m0-p41-v1004
-[tad-ardhena](tadardhena) [tad-ardhāt](tadardhāt) [nakha-vistṛtiḥ](nakhavistṛtiḥ)
+[by-half-of-that](tat+ardhena) [from-half-of-that](tat+ardhāt) [nail-width](nakha+vistṛtiḥ)
 
 ## mukta-m0-p41-v1005
-[veda-rāma-agni-dṛṅ-mātraiḥ](vedarāmāgnidṛṅmātraiḥ) [sa-tri-ṣaṭ-ka-catur-yavaiḥ](satriṣaṭkacaturyavaiḥ)
+[by-four-three-fire-eye-measures](veda+rāma+agni+dṛṅ+mātraiḥ) [with-three-six-four-barleycorns](sa+tri+ṣaṭka+catur+yavaiḥ)
 
 ## mukta-m0-p41-v1006
-[kramāt](kramāt) [jñeyaḥ](jñeyaḥ) [nava-bhiḥ](navabhiḥ) [sārdha-saptakaiḥ](sārdhasaptakaiḥ)
+[in-order](kramāt) [to-be-known](jñeyaḥ) [by-nine](navabhiḥ) [with-half-sevens](sa+ardha+saptakaiḥ)
 
 ## mukta-m0-p41-v1007
-[sa-pāda-aṣṭāṃśa-saptāṃśaiḥ](sapādāṣṭāṃśasaptāṃśaiḥ) [dor-madhye](dormadhye) [korpare](korpare) [tatiḥ](tatiḥ)
+[with-quarter-eighth-part-seven-parts](sa+pāda+aṣṭāṃśa+saptāṃśaiḥ) [in-arm-middle](dor+madhye) [at-elbow](korpare) [extent](tatiḥ)
 
 ## mukta-m0-p41-v1008
-[sapta-aṅgula-āyāmam](saptāṅgulāyāmaṃ) [madhyā](madhyā) [sārdha-ṣaḍ-aṅgulā](sārdhaṣaḍaṅgulā)
+[seven-fingers-length](sapta+aṅgula+āyāmaṃ) [middle-finger](madhyā) [with-half-six-fingers](sa+ardha+ṣaḍ+aṅgulā)
 
 ## mukta-m0-p41-v1009
-[sa-pādeṣu](sapādeṣu) [aṅgulānām](aṅgulānām) [ā](ā) [kaniṣṭha-abdhyaṃśa-pāda-yuk](kaniṣṭhābdhyaṃśapādayuk)
+[with-quarter-finger-measure](sa+pāda+iṣu+aṅgula+ānāmā) [little-finger](kaniṣṭhā) [with-fourth-part-quarter](abdhi+aṃśa+pāda+yuk)
 
 ## mukta-m0-p41-v1010
-[aṅguṣṭha-ādi-kaniṣṭha-antam](aṅguṣṭhādikaniṣṭhāntam) [aṅgulīnām](aṅgulīnām) [tatiḥ](tatiḥ) [bhavet](bhavet)
+[from-thumb-beginning-to-little-finger-end](aṅguṣṭha+ādi+kaniṣṭhā+antam) [of-fingers](aṅgulīnāṃ) [extent](tatiḥ) [should-be](bhavet)
 
 ## mukta-m0-p41-v1011
-[aṅguli-agra-tate](aṅgulyagratate) [agni-aṃśe](agnyaṃśe) [dvyaṃśa-vyāsāḥ](dvyaṃśavyāsā) [nakhāḥ](nakhāḥ) [pṛthak](pṛthak)
+[at-finger-tip-extent](aṅguli+agra+tate) [in-third-part](agni+aṃśe) [two-parts-width](dvi+aṃśa+vyāsāḥ) [nails](nakhāḥ) [separately](pṛthak)
 
 ## mukta-m0-p41-v1012
-[sva-nakhā-āyāmāt](svanakhāyāmāt) [agra-parva](agraparva) [pṛthak](pṛthak) [pṛthak](pṛthak)
+[by-own-nail-length](sva+nakha+āyāmāt) [tip-joint](agra+parva) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p41-v1013
-[madhyāyāḥ](madhyāyāḥ) [sa-tri-pāda-akṣi](satripādākṣi) [sa-pañca-yava-mātrataḥ](sapāñcayavamātrataḥ)
+[of-middle-finger](madhyāyāḥ) [with-three-quarters-two](sa+tri+pāda+akṣi) [with-five-barleycorns-measure](sa+pañca+yava+mātrataḥ)
 
 ## mukta-m0-p41-v1014
-[yat](yac) [śiṣṭam](śiṣṭaṃ) [madhye-mūla-agra-parvaṇoḥ](madhyemūlāgraparvaṇoḥ)
+[what](yat) [remains](śiṣṭaṃ) [of-middle](madhye) [of-root-and-tip-joints](mūla+agra+parvaṇoḥ)
 
 ## mukta-m0-p41-v1015
-[sārdha-ṛtu-rasa-sārdheṣu-mātra-vyāsaḥ](sārdharturasasārdheṣumātravyāsaḥ) [talasya](talasya) [tu](tu)
+[with-half-six-tastes-half-five-measure](sa+ardha+ṛtu+rasa+sa+ardha+iṣu+mātra+vyāsaḥ) [of-palm](talasya) [indeed](tu)
 
 ## mukta-m0-p41-v1016
-[tarjā-mūlataḥ](tarjāmūlataḥ) [agni-aṃśaiḥ](agnyaṃśaiḥ) [tathā](tathā) [aṅguṣṭhasya](aṅguṣṭhasya) [mūlataḥ](mūlataḥ)
+[from-forefinger-root](tarjā+mūlataḥ) [by-third-parts](agni+aṃśaiḥ) [likewise](tathā) [from-thumb-root](aṅguṣṭhasya) [from-root](mūlataḥ)
 
 ## mukta-m0-p41-v1017
-[sārdha-yugma-aṃśam](sārdhayugmāṃśaṃ) [śā](śā) [kara-parṣṇyāḥ](karaparṣṇyāḥ) [ghanaṃ](ghanaṃ) [kalā](kalā)
+[with-half-four-parts](sa+ardha+yugma+aṃśaṃ) [of-hand-heel](kara+parṣṇyāḥ) [thickness](ghanaṃ) [digit](kalā)
 
 ## mukta-m0-p41-v1018
-[cakra-śaṅkha-abja-makara-svastika-ādi-aṅgavat](cakraśaṅkhābjamakarasvastikādyaṅgavat) [talam](talam)
+[having-disc-conch-lotus-makara-svastika-etc-marks](cakra+śaṅkha+abja+makara+svastika+ādi+aṅgavat) [palm](talam)
 
 ## mukta-m0-p41-v1019
-[karṇayoḥ](karṇayoḥ) [madhya-nāhaḥ](madhyanāhaḥ) [prāk](prāk) [dvāviṃśat-aṅgulaiḥ](dvāviṃśatyaṅgulaiḥ) [smṛtaḥ](smṛtaḥ)
+[of-two-ears](karṇayoḥ) [middle-circumference](madhya+nāhaḥ) [as-before](prāk) [by-twenty-two-fingers](dvāviṃśati+aṅgulaiḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p41-v1020
-[mūrdhnaḥ](mūrdhno) [madhyāt](madhyāt) [tu](tu) [keśa-antam](keśāntam) [ānam](ānam) [uktam](uktam) [nava-aṅgulam](navāṅgulam)
+[from-head](mūrdhnaḥ) [from-middle](madhyāt) [indeed](tu) [up-to-hairline](keśa+antam) [measure](ānam) [stated](uktam) [nine-fingers](nava+aṅgulam)
 
 ## mukta-m0-p41-v1021
-[bhrū-yugam](bhrūyugaṃ) [kuryāt](kuryāt) [sa-jya-cāpa-ānatam](sajyacāpānataṃ) [śubham](śubham)
+[pair-of-eyebrows](bhrū+yugaṃ) [one-should-make](kuryāt) [like-strung-bow-curved](sa+jya+cāpa+ānataṃ) [auspicious](śubham)
 
 ## mukta-m0-p41-v1022
-[bhrūvoḥ](bhrūvoḥ) [antaram](antaram) [ardha-aṃśāt](ardhāṃśāt) [śara-aṃśaiḥ](śarāṃśaiḥ) [āyataṃ](āyataṃ) [bhrūvoḥ](bhrūvoḥ)
+[of-eyebrows](bhrūvoḥ) [interval](antaram) [by-half-part](ardha+aṃśāt) [by-five-parts](śara+aṃśaiḥ) [length](āyataṃ) [of-eyebrows](bhrūvoḥ)
 
 ## mukta-m0-p41-v1023
-[kalā-āyāma-vyāsā](kalāyāmavyāsā) [syāt](syāt) [atha](atha) [ṣaḍ-yavaḥ](ṣaḍyavaḥ)
+[one-digit-length](kalā+āyāma) [width](vyāsā) [should-be](syāt) [then](atha) [six-barleycorns](ṣaḍ+yavaḥ)
 
 ## mukta-m0-p41-v1024
-[ṣaḍ-yavaḥ](ṣaḍyavaḥ) [netra-vistāraḥ](netravistāraḥ) [netra-antaḥ](netrāntaḥ) [ardha-yavaḥ](ardhayavaḥ) [aruṇaḥ](aruṇaḥ)
+[six-barleycorns](ṣaḍ+yavaḥ) [eye-width](netra+vistāraḥ) [eye-corner](netra+antaḥ) [half-barleycorn](ardha+yavaḥ) [red](aruṇaḥ)
 
 ## mukta-m0-p41-v1025
-[ūrdhva-adhva-varma-vistāraḥ](ūrdhvādhovarmavistāraḥ) [yavaṃ](yavaṃ) [ca](ca) [ardha-yavaṃ](ardhayavaṃ) [bhavet](bhavet)
+[upper-and-lower-eyelid-width](ūrdhva+adhaḥ+varma+vistāraḥ) [one-barleycorn](yavaṃ) [and](ca) [half-barleycorn](ardha+yavaṃ) [should-be](bhavet)

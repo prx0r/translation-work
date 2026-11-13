@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[puruṣa-ādi-mukha](puruṣādimukhānāṃ) [tu](tu) [lakṣaṇa](lakṣaṇaṃ) [tv-atha](tvatha) [kathyate](kathyate)
+[puruṣa+ādi+mukhānām](puruṣādimukhānāṃ) [but](tu) [characteristic](lakṣaṇaṃ) [now](tvatha) [is-told](kathyate)
+
 ## mukta-m0-p37-v902
-[candrāṅkita-jaṭā-jūṭa](candrāṅkitajaṭājūṭaṃ) [prāci](prāci) [tat-puruṣa-ānana](tatpuruṣānanam)
+[moon+marked+matted-hair+crest](candrāṅkitajaṭājūṭaṃ) [in-the-east](prāci) [tatpuruṣa+face](tatpuruṣānanam)
+
 ## mukta-m0-p37-v903
-[daṃṣṭrā-karāla](daṃṣṭrākarālaṃ) [daṣṭa-oṣṭha](daṣṭoṣṭhaṃ) [saṃlihat-rasana-ujjvala](saṃlihadrasanojjvalam)
+[tusk+terrible](daṃṣṭrākarālaṃ) [bitten+lip](daṣṭoṣṭhaṃ) [licking+tongue+brilliant](saṃlihadrasanojjvalam)
+
 ## mukta-m0-p37-v904
-[sendu-khaṇḍa-marāla-bhrū](sendukhaṇḍamarālabhrūḥ) [syād-aghora](syādaghoraṃ) [tu](tu) [dakṣiṇe](dakṣiṇe)
+[with+moon+piece+honey-bee+eyebrow](sendukhaṇḍamarālabhrūḥ) [should-be+aghora](syādaghoraṃ) [but](tu) [in-the-south](dakṣiṇe)
+
 ## mukta-m0-p37-v905
-[lalita-bhrū-yuga-cāru-tilaka](lalitabhrūyugaṃcārutilakaṃ) [maṇi-kuṇḍala](maṇikuṇḍalam)
+[graceful+eyebrow+pair+beautiful+forehead-mark](lalitabhrūyugaṃcārutilakaṃ) [jewel+earring](maṇikuṇḍalam)
+
 ## mukta-m0-p37-v906
-[vāmadeva-ākhya](vāmadevākhyaṃ) [mukha](mukhaṃ) [kuryān-manorama](kuryānmanoramam)
+[vāmadeva+named](vāmadevākhyaṃ) [face](mukhaṃ) [one-should-make](kuryān) [charming](manoramam)
+
 ## mukta-m0-p37-v907
-[candrāṅkita-jaṭā-jūṭa](candrāṅkitajaṭājūṭaṃ) [sadyojāta](sadyojātaṃ) [tu](tu) [paścime](paścime)
+[moon+marked+matted-hair+crest](candrāṅkitajaṭājūṭaṃ) [sadyojāta](sadyojātaṃ) [but](tu) [in-the-west](paścime)
+
 ## mukta-m0-p37-v908
-[dvāra-abhimukha-eva-āsya](dvārābhimukhamevāsyaṃ) [trimukha](trimukhaṃ) [cet](cet) [tu](tu) [pārśvayoḥ](pārśvayoḥ)
+[door+facing](dvārābhimukham) [indeed](eva) [this-face](āsyaṃ) [three-faced](trimukhaṃ) [if](cet) [but](tu) [on-the-sides](pārśvayoḥ)
+
 ## mukta-m0-p37-v909
-[bhavane](bhavane) [kuryāt-liṅga](kuryālliṅgaṃ) [catur-mukha](caturmukham)
+[in-a-building](bhavane) [one-should-make](kuryāt) [liṅga](liṅgaṃ) [four-faced](caturmukham)
+
 ## mukta-m0-p37-v910
-[sthāpayet-śatru-nāśāya](sthāpayecchatrunāśāya) [vijayāya](vijayāya) [ca](ca) [bhūpati](bhūpatiḥ)
+[one-should-install](sthāpayet) [for-enemy+destruction](chatrunāśāya) [for-victory](vijayāya) [and](ca) [king](bhūpatiḥ)
+
 ## mukta-m0-p37-v911
-[mṛd-vṛkṣa-aśma-maya](mṛdvṛkṣāśmamayaṃ) [liṅga](liṅgaṃ) [sarva-siddhi-prada](sarvasiddhipradaṃ) [sadā](sadā)
+[soft+wood+stone+made](mṛdvṛkṣāśmamayaṃ) [liṅga](liṅgaṃ) [all+accomplishment+giving](sarvasiddhipradaṃ) [always](sadā)
+
 ## mukta-m0-p37-v912
-[mukha-liṅga-nām](mukhaliṅgānāṃ) [nirgama](nirgamaḥ) [syāt](syāt) [pṛthak](pṛthak) [pṛthak](pṛthak)
+[face+liṅgas](mukhaliṅgānāṃ) [projection](nirgamaḥ) [should-be](syāt) [separately](pṛthak) [separately](pṛthak)
+
 ## mukta-m0-p37-v913
-[hasta-ādi-pañca-hasta-anta](hastādipañcahastāntaṃ) [mukha-liṅga](mukhaliṅgaṃ) [prakalpayet](prakalpayet)
+[hand+up-to+five+hands](hastādipañcahastāntaṃ) [face+liṅga](mukhaliṅgaṃ) [one-should-design](prakalpayet)
+
 ## mukta-m0-p37-v914
-[eka-aṅgula](ekāṅgulaṃ) [samārabhya](samārabhya) [krama-aṅgula-vivardhana](kramāṅgulavivardhanāt)
+[one+finger](ekāṅgulaṃ) [beginning](samārabhya) [by-successive+finger+increase](kramāṅgulavivardhanāt)
+
 ## mukta-m0-p37-v915
-[sapta-aṅgula-ādika](saptāṅgulādikaṃ) [liṅga](liṅgaṃ) [madhyamā](madhyamā) [dvādaśa-aṅgula](dvādaśāṅgulāt)
+[seven+fingers+beginning](saptāṅgulādikaṃ) [liṅga](liṅgaṃ) [middle](madhyamā) [from-twelve+fingers](dvādaśāṅgulāt)
+
 ## mukta-m0-p37-v916
-[bhavanti-eṣu](bhavantyeṣu) [māna](mānaṃ) [mātrā-aṅgula](mātrāṅgulena) [hi](hi)
+[are](bhavanti) [in-these](eṣu) [measure](mānaṃ) [by-standard+finger](mātrāṅgulena) [indeed](hi)
+
 ## mukta-m0-p37-v917
-[maṇḍana](maṇḍanaṃ) [niṣkala-ukta](niṣkaloktaṃ) [hi](hi) [pīṭheṣu](pīṭheṣu) [sphāṭika-eṣu-api](sphāṭikeṣvapi)
+[ornamentation](maṇḍanaṃ) [in-niṣkala+stated](niṣkaloktaṃ) [indeed](hi) [on-pedestals](pīṭheṣu) [on-crystal-ones](sphāṭikeṣu) [also](api)
+
 ## mukta-m0-p37-v918
-[sphaṭika-anya-śilā-pīṭha](sphaṭikānyaśilāpīṭhaṃ) [liṅga](liṅgaṃ) [madhya](madhyaṃ) [svayonika](svayonikam)
+[crystal+other+stone+pedestal](sphaṭikānyaśilāpīṭhaṃ) [liṅga](liṅgaṃ) [middle](madhyaṃ) [with-its-own+base](svayonikam)
+
 ## mukta-m0-p37-v919
-[kaniṣṭha](kaniṣṭhaṃ) [tatra-api](tatrāpi) [haima-ādya](haimādyaṃ) [tu-uttama-ādika](tūttamādikam)
+[inferior](kaniṣṭhaṃ) [there](tatra) [also](api) [golden+and-so-on](haimādyaṃ) [but](tu) [superior+and-so-on](uttamādikam)
+
 ## mukta-m0-p37-v920
-[sarva-nāśa-kara](sarvanāśakaraṃ) [yasmāt](yasmāt) [sa-doṣa](sadoṣaṃ) [taṃ](taṃ) [na](na) [pūjayet](pūjayet)
+[all+destruction+causing](sarvanāśakaraṃ) [because](yasmāt) [with-fault](sadoṣaṃ) [that](taṃ) [not](na) [one-should-worship](pūjayet)
+
 ## mukta-m0-p37-v921
-[binduḥ](binduḥ) [kalaṅka-ca](kalaṅkaśca) [trāsaḥ](trāsaḥ) [kāka](kāka) [padaṃ](padaṃ) [kṣatam](kṣatam)
+[spot](binduḥ) [blemish](kalaṅkaśca) [crack](trāsaḥ) [crow](kāka) [mark](padaṃ) [flaw](kṣatam)
+
 ## mukta-m0-p37-v922
-[ceti](ceti) [ratna-doṣāḥ](ratnadoṣāstuvarjitāḥ) [tu-varjitāḥ](tuvarjitāḥ)
+[thus](ceti) [gem+faults](ratnadoṣāḥ) [but](tu) [to-be-avoided](varjitāḥ)
+
 ## mukta-m0-p37-v923
-[padmarāga-ādi-liṅga-nām](padmarāgādiliṅgānāṃ) [pīṭha](pīṭhaṃ) [śreṣṭha](śreṣṭhaṃ) [svayonika](svayonikam)
+[ruby+and-so-on+liṅgas](padmarāgādiliṅgānāṃ) [pedestal](pīṭhaṃ) [best](śreṣṭhaṃ) [with-its-own+base](svayonikam)
+
 ## mukta-m0-p37-v924
-[eka-aṅgula-ādi-dviyava-vardhanena](ekāṅgulādidviyavavardhanenā) [ṣaḍ-aṅgula](ṣaḍaṅgulāt)
+[one+finger+beginning+two+barleycorns+increase](ekāṅgulādidviyavavardhanena) [from-six+fingers](ṣaḍaṅgulāt)
+
 ## mukta-m0-p37-v925
-[sapta-aṅgula-ādi-dviyava-vardhanena](saptāṅgulādidviyavavardhanenā) [nava-aṅgula](navāṅgulāt)
+[seven+fingers+beginning+two+barleycorns+increase](saptāṅgulādidviyavavardhanena) [from-nine+fingers](navāṅgulāt)

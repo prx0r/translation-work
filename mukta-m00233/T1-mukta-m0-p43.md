@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[half+veda+part-from](sārdhavedāṃśataś) [thigh+root+from](corumūlāt) [buttock+mass+exit](spikpiṇḍanirgatiḥ)
+[with-half](sārdha) [veda+parts](vedāṃśataḥ) [thigh+root](coru+mūlāt) [buttock+ball+emergence](spik+piṇḍa+nirgatiḥ)
 
 ## mukta-m0-p43-v1052
-[neck](grīvā) [then](atha) [that+neck+in](tannāhe) [pair+line+with](yugmarekhā) [joined](samanvitā)
+[neck](grīvā) [then](atha) [its+circumference](tat+nāhe) [pair+line](yugma+rekhā) [endowed-with](samanvitā)
 
 ## mukta-m0-p43-v1053
-[half+thirteen+parts](sārdhatrayodaśāṃśaiḥ) [should-be](syuḥ) [armpit+from](kakṣāt) [armpit+supporter+series](kakṣadharā) [tatiḥ](tatiḥ)
+[with-half+thirteen+parts](sārdha+trayodaśa+aṃśaiḥ) [should-be](syuḥ) [from-armpit](kakṣāt) [armpit+supporting](kakṣa+dharā) [extension](tatiḥ)
 
 ## mukta-m0-p43-v1054
-[breast+pedestal+height](stanapīṭhonnatiḥ) [two+parts+from](dvyaṃśāt) [with+barley](sayavaṃ) [breast+round](kucavartulam)
+[breast+base+elevation](stana+pīṭha+unnatiḥ) [by-two-parts](dvi+aṃśāt) [with-barley-grain](sa+yavaṃ) [breast+roundness](kuca+vartulam)
 
 ## mukta-m0-p43-v1055
-[should-be](syāt) [knee+pair](jānuyugmaṃ) [two-measure](dvimātrakam)
+[should-be](syāt) [knee+pair](jānu+yugmaṃ) [two-measures](dvi+mātrakam)
 
 ## mukta-m0-p43-v1056
-[with+barley+arrow+parts](sayavabāṇāṃśāḥ) [hips](śroṇī) [side](pārśve) [rasa+parts](rasāṃśakā)
+[with-barley-grain+five+parts](sa+yava+bāṇa+aṃśā) [hip](śroṇī) [sides](pārśve) [six+parts](rasa+aṃśakā)
 
 ## mukta-m0-p43-v1057
-[with+barley+two+arrow+parts+long](sayavadvayabāṇāṃśadīrghaṃ) [with+barley+round+from](sayavavṛttataḥ)
+[with-barley-grain+two+five+parts](sa+yava+dvaya+bāṇa+aṃśa) [long](dīrghaṃ) [with-barley-grain+round](sa+yava+vṛttataḥ)
 
 ## mukta-m0-p43-v1058
-[should-be](syāt) [genital+from+upward+thigh+binding](meḍhrādūrdhvorubandhanam)
+[should-be](syāt) [from-penis+above](meḍhrāt+ūrdhva) [thigh+binding](uru+bandhanam)
 
 ## mukta-m0-p43-v1059
-[half+kalā+by](sārdhakalayā) [side+binding+but](pārśvabandhastu) [by+part](bhāgataḥ)
+[with-half+digit](sārdha+kalayā) [side+binding](pārśva+bandhaḥ) [but](tu) [by-part](bhāgataḥ)
 
 ## mukta-m0-p43-v1060
-[low+high+first+other+to-be-inferred+from+this+beyond](tūccanimnādyamanyadūhyamataḥ) [param](param)
+[but](tu) [high+low+etc](ucca+nimna+ādyam) [other](anyat) [to-be-inferred](ūhyam) [from-this](ataḥ) [further](param)
 
 ## mukta-m0-p43-v1061
-[ten+tāla+by](daśatālena) [image](beraṃ) [should-make](kurvīta) [beautiful](sundaram)
+[by-ten+tāla](daśa+tālena) [image](beraṃ) [one-should-make](kurvīta) [beautiful](sundaram)
 
 ## mukta-m0-p43-v1062
-[image+fitting+male+name+all+here](berocitapummānamaśeṣādiha)
+[image+suitable](bera+ucita) [male+measure](pum+mānam) [entire+etc](aśeṣa+ādi) [here](iha)
 
 ## mukta-m0-p43-v1063
-[turban+from+that+part+with+six+barley](uṣṇīṣāt) [tasmād](tasmād) [bhāgaḥ](bhāgaḥ) [saṣaḍyavaḥ](saṣaḍyavaḥ)
+[from-crown](uṣṇīṣāt) [from-that](tasmāt) [part](bhāgaḥ) [with-six+barley-grains](sa+ṣaḍ+yavaḥ)
 
 ## mukta-m0-p43-v1064
-[should-be+then](syādatha) [chin+to](hanvantaṃ) [Rama+parts+with+six+barley](rāmāṃśaistu) [saṣaḍyavaiḥ](saṣaḍyavaiḥ)
+[should-be](syāt) [then](atha) [up-to-chin](hanu+antaṃ) [by-three+parts](rāma+aṃśaiḥ) [but](tu) [with-six+barley-grains](sa+ṣaḍ+yavaiḥ)
 
 ## mukta-m0-p43-v1065
-[thirteen+parts](trayodaśāṃśaiḥ) [should-be+thighs](syurūrū) [six+twenty+finger](ṣaḍviṃśadaṅgulaiḥ)
+[by-thirteen+parts](trayodaśa+aṃśaiḥ) [should-be](syuḥ) [thighs](ūrū) [by-twenty-six+digits](ṣaḍviṃśat+aṅgulaiḥ)
 
 ## mukta-m0-p43-v1066
-[feet+and](pādau) [ca](ca) [soles](talau) [part+length](bhāgāyāmau) [should-appoint](prakalpayet)
+[feet](pādau) [and](ca) [soles](talau) [part+in-length](bhāga+āyāmau) [one-should-make](prakalpayet)
 
 ## mukta-m0-p43-v1067
-[gradually+argha+finger](kramādarghāṅgulānāḥ) [should-be](syuḥ) [remaining+but+finger](śeṣāstvaṅgulayaḥ) [separate](pṛthak)
+[in-order](kramāt) [of-half+digits](ardha+aṅgulānāḥ) [should-be](syuḥ) [remaining](śeṣāḥ) [but](tu) [toes](aṅgulayaḥ) [separately](pṛthak)
 
 ## mukta-m0-p43-v1068
-[half+seven+barley](sārdhasaptayavā) [middle+of](madhyānāmā) [seven+barley+then](saptayavaistataḥ)
+[with-half+seven+barley-grains](sārdha+sapta+yavā) [middle+nameless](madhyā+anāmā) [with-seven+barley-grains](sapta+yavaiḥ) [then](tataḥ)
 
 ## mukta-m0-p43-v1069
-[raised+tips](udañcitāgrāḥ) [somewhat](kiñcit) [they](te) [heel+diameter+but](pārṣṇivyāsastu) [by+part](bhāgataḥ)
+[raised+tips](udañcita+agrāḥ) [somewhat](kiñcit) [they](te) [heel+width](pārṣṇi+vyāsaḥ) [but](tu) [by-part](bhāgataḥ)
 
 ## mukta-m0-p43-v1070
-[rasa+finger](rasāṅgulaiḥ) [sole+tip](talāgraṃ) [should-be](syāt) [eye+ankle](akṣagulphau) [arrow+finger](śarāṅgulaiḥ)
+[by-six+digits](rasa+aṅgulaiḥ) [sole+tip](tala+agraṃ) [should-be](syāt) [ankle-bone+ankle](akṣa+gulphau) [by-five+digits](śara+aṅgulaiḥ)
 
 ## mukta-m0-p43-v1071
-[seven+measure+by](saptamātrairūrvorvyāsastu) [thigh+diameter+but](ūrvorvyāsastu) [from+tāla](tālataḥ)
+[by-seven+measures](sapta+mātraiḥ) [of-thigh+width](ūrvoḥ+vyāsaḥ) [but](tu) [by-tāla](tālataḥ)
 
 ## mukta-m0-p43-v1072
-[four+measure+by](caturmātrairaghovyāsastaccāśvatthadalākṛti) [lower+diameter+that+peepal-leaf+shape](aghovyāsastaccāśvatthadalākṛti)
+[by-four+measures](catur+mātraiḥ) [lower-leg+width](agho+vyāsaḥ) [and-that](tat+ca) [sacred-fig+leaf+shape](aśvattha+dala+ākṛti)
 
 ## mukta-m0-p43-v1073
-[six+barley+diameter+depression](ṣaḍyavavyāsanimnā) [should-be](syāt) [navel+in+middle+finally+thin](nābhirmadhye'ntatastanuḥ)
+[six+barley-grain+width+deep](ṣaḍ+yava+vyāsa+nimnā) [should-be](syāt) [navel](nābhiḥ) [in-middle](madhye) [at-end](antataḥ) [but](tu) [slender](tanuḥ)
 
 ## mukta-m0-p43-v1074
-[from+breast+below+very+wide+part](stanādho'tijagatyaṃśairnandāṃśaiḥ) [should-be](syāt) [opposite+breast](pratistanam)
+[below-breast](stana+adhaḥ) [by-atijagatī+parts](atijagatī+aṃśaiḥ) [by-nine+parts](nanda+aṃśaiḥ) [should-be](syāt) [opposite-breast](pratistanam)
 
 ## mukta-m0-p43-v1075
-[breast+eye+half+measure](stanākṣamardhamātraṃ) [should-be](syāt) [two+barley](dviyavaḥ) [should-be](syāt) [that+height](tadunnatiḥ)
+[breast+eye](stana+akṣam) [half+measure](ardha+mātraṃ) [should-be](syāt) [two+barley-grains](dvi+yavaḥ) [should-be](syāt) [its+elevation](tat+unnatiḥ)

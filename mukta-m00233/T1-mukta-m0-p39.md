@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[thus](tadvad) [head](śiraḥ) [expansion](vistāra) [except](varjite) [from-beginning-of-ārṣa](ārṣādau)
+[likewise](tadvat) [in-ṛṣi-measure-etc.](ārṣa+ādau) [head+width+excluded](śiraḥ+vistāra+varjite)
 
 ## mukta-m0-p39-v952
-[measuring](pratimāmāne) [in-order](kramāt) [seven-angulas](saptāṅgula) [from](aditaḥ)
+[in-image+measure](pratimā+māne) [in-order](kramāt) [from-seven+aṅgulas](sapta+aṅgula+āditaḥ)
 
 ## mukta-m0-p39-v953
-[with-twenty-four-hundred](sacaturviṃśatiśataṃ) [until](yāvat) [by-stated](prokta) [angulas](aṅgulaiḥ) [here](iha)
+[with-four+twenty+hundred](sa+catur+viṃśati+śataṃ) [until](yāvat) [declared+by-aṅgulas](prokta+aṅgulaiḥ) [here](iha)
 
 ## mukta-m0-p39-v954
-[by-angulas](aṅgulaiḥ) [of-sacrificer](yajamānasya) [there-too](tatrāpi) [rule](vidhi) [declared](īritaḥ)
+[by-aṅgulas](aṅgulaiḥ) [of-sacrificer](yajamānasya) [there+also](tatra+api) [rule+declared](vidhiḥ+īritaḥ)
 
 ## mukta-m0-p39-v955
-[in-those](teṣu) [yoni-etc](yonyādyaṃ) [should-lead](nayet) [by-own](svaiḥ) [by-own](svaiḥ) [here](iha) [angulas](aṅgulaiḥ)
+[in-those](teṣu) [yoni-etc.](yoni+ādyam) [one-should-lead](nayet) [by-own+own](svaiḥ) [by-own](svaiḥ) [here+by-aṅgulas](iha+aṅgulaiḥ)
 
 ## mukta-m0-p39-v956
-[in-eighty-fourth](caturaśīti) [part](amśe) [in-sixty-second](dviṣaṣṭi) [part](amśe) [in-elevation](samucchraye)
+[in-eighty-four+parts](caturaśīti+aṃśe) [in-sixty-two+parts](dviṣaṣṭi+aṃśe) [in-height](samucchraye)
 
 ## mukta-m0-p39-v957
-[from-one-part-addition](ekāṃśāropaṇāt) [said](uktam) [caste-part-addition](jātyaṃśāropaṇam) [indeed](hi) [that](tat)
+[from-adding-one+part](eka+aṃśa+āropaṇāt) [declared](uktam) [adding-birth+part](jāti+aṃśa+āropaṇam) [indeed](hi) [that](tat)
 
 ## mukta-m0-p39-v958
-[should-know](vidyāt) [as](yathā) [order](kramam)
+[one-should-know](vidyāt) [according-to-order](yathā+kramam)
 
 ## mukta-m0-p39-v959
-[nine-eight-six-four-paired-stars](navāṣṭaṣaṭcaturyugmatārāḥ) [auspicious](śastāḥ) [but](tu) [not-others](netare)
+[nine+eight+six+four+two+stars](nava+aṣṭa+ṣaṭ+catur+yugma+tārāḥ) [auspicious](śastāḥ) [but](tu) [not+others](na+itare)
 
 ## mukta-m0-p39-v960
-[in-order](kramāt) [that](tad) [yoni](yoni) [nakshatra](ṛkṣa) [day](vāra) [division](vibhava) [color](varṇana) [ninth-parts](navāṃśakāḥ) [are](syuḥ)
+[in-order](kramāt) [that](tat) [yoni+star+day+lord+class+navāṃśa](yoni+ṛkṣa+vāra+vibha+varṇa+navāṃśakāḥ) [should-be](syuḥ)
 
 ## mukta-m0-p39-v961
-[likewise](tathaiva) [inauspicious](aśobhanāḥ) [to-be-avoided](varjyāḥ) [smoke](dhūma) [horse](aśva) [donkey](khara) [crow](vāyasāḥ)
+[likewise](tathā+eva) [inauspicious](aśobhanāḥ) [to-be-avoided](varjyāḥ) [smoke+dog+donkey+crows](dhūma+śva+khara+vāyasāḥ)
 
 ## mukta-m0-p39-v962
-[well-being](kṣemaḥ) [each](prati) [ara](araṃ) [accomplisher](sādhakaḥ) [killing](vadhaḥ)
+[safety](kṣemaḥ) [hostility](pratyaram) [accomplishing](sādhakaḥ) [death](vadhaḥ)
 
 ## mukta-m0-p39-v963
-[prosperity](sampat) [accomplisher](sādhaka) [friendships](maitrāṇi) [well-being](kṣemaṃ) [supreme](parama) [friendship](maitrakam)
+[prosperity+accomplishing+friendships](sampat+sādhaka+maitrāṇi) [safety](kṣemaṃ) [supreme+friendship](parama+maitrakam)
 
 ## mukta-m0-p39-v964
-[of-moon](candra) [mercury](jña) [jupiter](guru) [venus](śukrāṇām) [days](vārāḥ) [auspicious](śastāḥ) [but](tu) [not-others](netare)
+[of-moon+mercury+jupiter+venus](candra+jña+guru+śukrāṇāṃ) [days](vārāḥ) [auspicious](śastāḥ) [but](tu) [not+others](na+itare)
 
 ## mukta-m0-p39-v965
-[debt-excess](ṛṇādhikam) [if](ced) [to-be-avoided](varjyaṃ) [would-be](syāt) [calamity](vipat) [thief](taskara) [eunuch](ṣaṇḍakāḥ)
+[debt+exceeding](ṛṇa+adhikam) [if](cet) [to-be-avoided](varjyam) [should-be](syāt) [calamity+thief+eunuch](vipat+taskara+ṣaṇḍakāḥ)
 
 ## mukta-m0-p39-v966
-[thief](taskaraḥ) [enjoyment](bhukti) [power](śaktī) [and](ca) [dharma](dhamaṃ) [king](rājā) [eunuch](napuṃsakam)
+[thief](taskaro) [enjoyment+power](bhukti+śaktī) [and](ca) [dharma](dhamaṃ) [king](rājā) [neuter](napuṃsakam)
 
 ## mukta-m0-p39-v967
-[of-village](grāma) [site](vāstu) [king-etc](nṛpādīnām) [of-sacrificer](yajamānasya) [and-also](cāpi) [uta](uta)
+[of-village+site+king-etc.](grāma+vāstu+nṛpa+ādīnām) [of-sacrificer](yajamānasya) [and](ca) [also](api) [indeed](uta)
 
 ## mukta-m0-p39-v968
-[from-thirty](triṃśat) [parts](aṃśāditaḥ) [in-order](kramāt)
+[from-thirty+parts](triṃśat+aṃśa+āditaḥ) [in-order](kramāt)
 
 ## mukta-m0-p39-v969
-[yoni-star-etc](yonitārādi) [combination](ghaṭanām) [should-join](yojayet) [auspicious](śobhanam) [as](yathā)
+[yoni+star-etc.+combination](yoni+tārā+ādi+ghaṭanām) [one-should-join](yojayet) [auspicious](śobhanam) [as](yathā)
 
 ## mukta-m0-p39-v970
-[measure](pramāṇam) [height](unmānam) [circumference](parimāṇam) [thus](tathā) [again](punaḥ)
+[measure](pramāṇam) [unmāna](unmānam) [parimāṇa](parimāṇam) [likewise](tathā) [again](punaḥ)
 
 ## mukta-m0-p39-v971
-[would-be](syāt) [measure](pramāṇam) [horizontally](tiryak) [placed](arpitam)
+[should-be](syāt) [pramāṇa](pramāṇam) [across+measured](tiryak+arpitam)
 
 ## mukta-m0-p39-v972
-[standard-measure](tūpamānam) [hanging-measure](lambamānam) [suspended](pralambitam)
+[upamāna](tūpamānam) [hanging+measure](lambamānam) [extended](pralambitam)
 
 ## mukta-m0-p39-v973
-[of-Gauri](gaurī) [Lakshmi](lakṣmī) [speech](girām) [opinion](matam)
+[of-gaurī+lakṣmī+girā](gaurī+lakṣmī+girām) [opinion](matam)
 
 ## mukta-m0-p39-v974
-[by-ten-tāla](daśatālena) [trimurti-or](trimūrtīrvā) [should-arrange](prakalpayet)
+[by-ten+tāla](daśa+tālena) [trimūrti-images](trimūrtīḥ) [or](vā) [one-should-fashion](prakalpayet)
 
 ## mukta-m0-p39-v975
-[of-sun](sūrya) [indra](indra) [skanda](skanda) [moon](candrāṇām) [of-Chanda](caṇḍa) [Kshetresha](kṣetreśa) [Nandi](nandinām)
+[of-sūrya+indra+skanda+candra](sūrya+indra+skanda+candrāṇām) [of-caṇḍa+kṣetreśa+nandin](caṇḍa+kṣetreśa+nandinām)
