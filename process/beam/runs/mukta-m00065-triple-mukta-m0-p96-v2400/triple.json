@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence after preceding rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradhāna",
+     "gloss": "chief",
+     "grounds": "qualifies the artisan as principal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kārūkaḥ",
+     "gloss": "artisan",
+     "grounds": "craftsman performing the material action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāḍayet",
+     "gloss": "should-strike",
+     "grounds": "prescriptive action to be performed by the artisan",
+     "morph": "3.sg.opt.act √taḍ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two prescribed actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśet",
+     "gloss": "should-enter",
+     "grounds": "prescriptive action following the striking",
+     "morph": "3.sg.opt.act √viś"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as-prescribed",
+     "grounds": "indicates conformity to the established manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions must the chief artisan perform after the preceding rites are completed?",
+   "premises": [
+    "The preceding rites and observations have been completed.",
+    "The chief artisan is the designated performer of this step.",
+    "The prescribed actions include striking and entering in the proper manner."
+   ],
+   "inference": "Therefore, after the preceding rites, the chief artisan must strike and enter as prescribed.",
+   "uncertainties": [
+    "The specific object or location to be struck and entered is not stated in this verse."
+   ],
+   "plain_english": "Then the chief artisan should strike and enter as prescribed."
+  }
+ ]
+}
