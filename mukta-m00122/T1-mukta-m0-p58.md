@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[in-eleventh](ekādaśe) [should-write](likhed) [on-birch-bark](bhūrje) [with-sandal+camphor+liquids](pāṭīrendudravais) [but](tu) [that](tat)
+[on-the-eleventh](ekādaśe) [one-should-write](likhed) [on-birch-bark](bhūrje) [with-sandalwood+moon-liquids](pāṭīra+indu+dravaiḥ) [indeed](tu) [that](tat)
 
 ## mukta-m0-p58-v1427
-[in-white+wax+made](sitasikthamaye) [in-liṅga](liṅge) [having-placed](saṃsthāpyābhyarcya) [that](tat) [again](punaḥ)
+[in-white+wax-made](sita+siktha+maye) [in-liṅga](liṅge) [having-placed](saṃsthāpya) [having-worshipped](abhyarcya) [that](tat) [again](punaḥ)
 
 ## mukta-m0-p58-v1428
-[at-twilights](sandhyāsu) [with-very-white](susitaiḥ) [with-flowers](puṣpaiḥ) [with-fragrance+etc](saurabhādyair) [according-to-rule](vidhānataḥ)
+[at-twilights](sandhyāsu) [with-very-white](susitaiḥ) [with-flowers](puṣpaiḥ) [with-fragrance+and-so-forth](saurabha+ādyaiḥ) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p58-v1429
-[in-sour+kanji+middle+placed](amlasauvīramadhyasthe) [causes-enmity](vidveṣayati) [two-enemies](vairiṇau)
+[in-sour+fermented-gruel-middle-situated](amla+sauvīra+madhya+sthe) [one-causes-enmity](vidveṣayati) [two-enemies](vairiṇau)
 
 ## mukta-m0-p58-v1430
-[dry-ginger+black-pepper+long-pepper](śuṇṭhīmarīcapippalyaḥ) [very-fine](susūkṣmāḥ) [well-powdered](paricūrṇitāḥ)
+[dry-ginger+black-pepper+long-pepper](śuṇṭhī+marīca+pippalyaḥ) [very-fine](susūkṣmāḥ) [thoroughly-powdered](paricūrṇitāḥ)
 
 ## mukta-m0-p58-v1431
-[twelfth](dvādaśaṃ) [on-shard](kharpare) [with-night+juice](rātrirasenālikhya) [that](tat) [again](punaḥ)
+[the-twelfth](dvādaśaṃ) [on-a-shard](kharpare) [with-night-juice](rātri+rasena) [having-written](ālikhya) [that](tat) [again](punaḥ)
 
 ## mukta-m0-p58-v1432
-[should-place](sthāpayeccaṇḍikāgehe) [in-teacher+abode](śāsturāyatane) [also](api) [or](vā)
+[one-should-place](sthāpayet) [in-caṇḍikā-house](caṇḍikā+gehe) [of-the-teacher](śāstuḥ) [in-shrine](āyatane) [also](api) [or](vā)
 
 ## mukta-m0-p58-v1433
-[should-paralyze](stambhayed) [of-enemies+anger](vairiṇoroṣam) [effort](udyogaṃ) [or](vā) [then](atha) [thought](cintanam)
+[one-should-paralyze](stambhayet) [of-the-enemies](vairiṇoḥ) [anger](roṣam) [effort](udyogaṃ) [or](vā) [then](atha) [thought](cintanam)
 
 ## mukta-m0-p58-v1434
-[by-thirteenth](trayodaśena) [on-birch-bark+placed](bhūrjasthenāśu) [quickly](dhāraṇato) [woman](ṅganā)
+[with-the-thirteenth](trayodaśena) [on-birch-bark-situated](bhūrja+sthena) [quickly](āśu) [by-wearing](dhāraṇataḥ) [a-woman](aṅganā)
 
 ## mukta-m0-p58-v1435
-[in-fourteenth+gone](caturdaśagataṃ) [name](nāma) [having-made](kṛtvā) [on-birch-bark](bhūrje) [at-crossroads](catuṣpathe)
+[the-fourteenth-gone](caturdaśa+gataṃ) [name](nāma) [having-made](kṛtvā) [on-birch-bark](bhūrje) [at-a-crossroads](catuṣ+pathe)
 
 ## mukta-m0-p58-v1436
-[after-seven-days](saptāhād) [under-control+come](vaśamāyānti) [women](striyo) [or](vā) [men](puruṣā) [kings](nṛpāḥ)
+[after-seven-days](saptāhāt) [under-control](vaśam) [they-come](āyānti) [women](striyaḥ) [or](vā) [men](puruṣāḥ) [kings](nṛpāḥ)
 
 ## mukta-m0-p58-v1437
-[with-another](pareṇa) [with-name](nāmnā) [joined](yuktena) [on-plank+written](phalakālikhitena) [indeed](vai)
+[with-the-next](pareṇa) [with-name](nāmnā) [joined](yuktena) [on-a-board-written](phalaka+ālikhitena) [indeed](vai)
 
 ## mukta-m0-p58-v1438
-[in-sour-kanji](amlasauvīre) [||](||) [89](89) [||](||) [90](90) [||](||) [with-night-juice](rātrirasena) [with-turmeric-juice](haridrārasena) [||](||) [91](91) [||](||) [92](92) [||](||) [93](93) [||](||) [94](94) [||](||) [95](95)
+[in-sour+fermented-gruel](amla+sauvīre) [||89||90||](||) [with-night-juice](rātri+rasena) [with-turmeric-juice](haridrā+rasena) [||91||92||93||94||95](||)
 
 ## mukta-m0-p58-v1439
-[in-sixteenth](ṣoḍaśe) [name](nāma) [having-written](saṃlikhya) [by-wearing](dhāraṇāt) [of-beings](prāṇināṃ) [likewise](tathā)
+[in-the-sixteenth](ṣoḍaśe) [name](nāma) [having-written](saṃlikhya) [by-wearing](dhāraṇāt) [of-living-beings](prāṇināṃ) [likewise](tathā)
 
 ## mukta-m0-p58-v1440
-[that+indeed](tadeva) [on-gold+plate+placed](svarṇapaṭṭasthaṃ) [having-made](vidhāya) [with-rule](vidhinā) [endowed](yutam)
+[that](tat) [indeed](eva) [on-gold-plate-situated](svarṇa+paṭṭa+sthaṃ) [having-made](vidhāya) [with-rite](vidhinā) [endowed](yutam)
 
 ## mukta-m0-p58-v1441
-[from-mental+physical-afflictions+freed](ādhivyādhivinirmukto) [without-rivals](niḥsapatno) [with-senses+conquered](jitendriyaḥ)
+[from-mental-affliction+bodily-disease-freed](ādhi+vyādhi+vinirmuktaḥ) [without-rivals](niḥsapatnaḥ) [with-senses-conquered](jita+indriyaḥ)
 
 ## mukta-m0-p58-v1442
-[of-womb+tattva+consisting](yonitattvamayī) [pervasion](vyāptir) [thus](iti) [properly](samyak) [declared](samīritā)
+[of-womb-tattva-consisting](yoni+tattva+mayī) [pervasion](vyāptiḥ) [thus](iti) [properly](samyak) [declared](samīritā)
 
 ## mukta-m0-p58-v1443
-[eleventh+chapter](ekādaśapaṭalaṃ) [completed](paripūrṇam)
+[eleventh-chapter](ekādaśa+paṭalaṃ) [completed](paripūrṇam)
 
 ## mukta-m0-p58-v1444
-[affliction](pīḍā) [|](|) [here](atra) [twelfth](dvādaśatamaḥ) [verse](ślokaḥ) [six+footed+song](ṣaṭcaraṇāgāthā)
+[affliction](pīḍā) [here](atra) [twelfth](dvādaśa+tamaḥ) [verse](ślokaḥ) [six-footed-metre](ṣaṭ+caraṇa+āgāthā)
 
 ## mukta-m0-p58-v1445
-[eleventh+chapter](ekādaśapaṭalaṃ) [completed](paripūrṇaṃ) [revised](parāmṛṣṭam)
+[eleventh-chapter](ekādaśa+paṭalaṃ) [completed](paripūrṇaṃ) [revised](parāmṛṣṭam)
 
 ## mukta-m0-p58-v1446
-[sixty-four](catuḥṣaṣṭir) [thus](iti) [having-considered](prekṣya) [declared](proktam) [in-eleventh](ekādaśe) [all](akhilam)
+[sixty-four](catuḥ+ṣaṣṭiḥ) [thus](iti) [having-considered](prekṣya) [declared](proktam) [in-the-eleventh](ekādaśe) [entire](akhilam)
 
 ## mukta-m0-p58-v1447
-[of-that](tasyā) [procedure](vidhānaṃ) [I-shall-tell](vakṣyāmi) [listen](śṛṇu) [all+purpose+accomplishing](sarvārthasādhakam)
+[of-that](tasyāḥ) [procedure](vidhānaṃ) [I-shall-tell](vakṣyāmi) [listen](śṛṇu) [all-aims-accomplishing](sarva+artha+sādhakam)
 
 ## mukta-m0-p58-v1448
-[its+limbs](tadaṅgāni) [letter+placement](lipinyāsaṃ) [meditation](dhyānaṃ) [with-powers](śaktibhir) [worship](arcanam)
+[its-limbs](tat+aṅgāni) [letter-installation](lipi+nyāsaṃ) [meditation](dhyānaṃ) [with-powers](śaktibhiḥ) [worship](arcanam)
 
 ## mukta-m0-p58-v1449
-[by-declared+method](proktakrameṇa) [all](sakalaṃ) [I-tell](kathayāmi) [according-to-rule](yathāvidhi)
+[by-declared-method](prokta+krameṇa) [all](sakalaṃ) [I-shall-tell](kathayāmi) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p58-v1450
-[with-māyā](māyayā) [enclosed](puṭitaṃ) [having-made](kṛtvā) [one-should-make](kuryād) [limbs](aṅgāni) [in-sixfold+order](ṣaṭkramāt)
+[with-māyā](māyayā) [enclosed](puṭitaṃ) [having-made](kṛtvā) [one-should-perform](kuryāt) [limbs](aṅgāni) [in-sixfold-order](ṣaṭ+kramāt)

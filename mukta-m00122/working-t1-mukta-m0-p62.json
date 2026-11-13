@@ -15,12 +15,12 @@
 "quick_gloss": "vowel+distinguished"
 },
 {
-"surface": "prāgukta+vidhinā",
-"quick_gloss": "by-previously-stated+method"
+"surface": "prāg+ukta+vidhinā",
+"quick_gloss": "by-previously+stated+method"
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -58,7 +58,7 @@
 "tokens": [
 {
 "surface": "aṣṭama+rāśi+ādi",
-"quick_gloss": "eighth+sign+beginning-with"
+"quick_gloss": "eighth+zodiac-sign+beginning-with"
 }
 ]
 },
@@ -82,8 +82,8 @@
 "quick_gloss": "one-should-write"
 },
 {
-"surface": "prāgukta+yogataḥ",
-"quick_gloss": "by-previously-stated+application"
+"surface": "prāg+ukta+yogataḥ",
+"quick_gloss": "by-previously+stated+application"
 }
 ]
 },
@@ -108,7 +108,7 @@
 },
 {
 "surface": "puṭayoḥ+dvayoḥ",
-"quick_gloss": "in-the-two+envelopes"
+"quick_gloss": "in-the-two+enclosures"
 }
 ]
 },
@@ -121,7 +121,7 @@
 "tokens": [
 {
 "surface": "dvi+tri+krameṇa",
-"quick_gloss": "by-two-and-three+order"
+"quick_gloss": "in-two-and-three+order"
 },
 {
 "surface": "prāk+pratyak+koṇayoḥ",
@@ -161,11 +161,15 @@
 "quick_gloss": "three-thousand"
 },
 {
-"surface": "tataḥ",
+"surface": "tatas",
 "quick_gloss": "then"
 },
 {
-"surface": "tat",
+"surface": "tu",
+"quick_gloss": "that"
+},
+{
+"surface": "tam",
 "quick_gloss": "that"
 }
 ]
@@ -195,7 +199,7 @@
 },
 {
 "surface": "kārya+anurūpataḥ",
-"quick_gloss": "according-to-purpose"
+"quick_gloss": "according-to+purpose"
 }
 ]
 },
@@ -208,7 +212,7 @@
 "tokens": [
 {
 "surface": "vijaya+stambha+vidveṣa+vaśya+uccāṭana+karmasu",
-"quick_gloss": "in-victory+paralyzing+hatred+subjugation+eradication+rites"
+"quick_gloss": "in-victory+paralysis+hatred+subjugation+eradication+rites"
 }
 ]
 },
@@ -221,7 +225,7 @@
 "tokens": [
 {
 "surface": "deśa+rāṣṭra+pura+grāma+niveśa+ādeḥ",
-"quick_gloss": "of-country+kingdom+city+village+settlement+etc."
+"quick_gloss": "of-country+kingdom+city+village+settlement+and-so-on"
 },
 {
 "surface": "viśeṣataḥ",
@@ -242,7 +246,7 @@
 },
 {
 "surface": "devīṃ",
-"quick_gloss": "goddess"
+"quick_gloss": "the-goddess"
 },
 {
 "surface": "samāvāhya",
@@ -258,7 +262,7 @@
 },
 {
 "surface": "śivām",
-"quick_gloss": "auspicious-one"
+"quick_gloss": "the-auspicious-one"
 }
 ]
 },
@@ -279,15 +283,15 @@
 },
 {
 "surface": "dviguṇaṃ",
-"quick_gloss": "double"
+"quick_gloss": "twofold"
 },
 {
 "surface": "triguṇaṃ",
-"quick_gloss": "triple"
+"quick_gloss": "threefold"
 },
 {
 "surface": "kāmya+rūpataḥ",
-"quick_gloss": "according-to-desire"
+"quick_gloss": "according-to-desired+form"
 }
 ]
 },
@@ -300,7 +304,7 @@
 "tokens": [
 {
 "surface": "vibhave",
-"quick_gloss": "if-resources-allow"
+"quick_gloss": "if-resources-permit"
 },
 {
 "surface": "maṇḍape",
@@ -308,7 +312,7 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-it"
+"quick_gloss": "of-that"
 },
 {
 "surface": "prokta+vajraṃ",
@@ -333,7 +337,7 @@
 "tokens": [
 {
 "surface": "nṛtya+gīta+ādibhiḥ",
-"quick_gloss": "with-dance+song+etc."
+"quick_gloss": "with-dance+song+and-so-on"
 },
 {
 "surface": "sārddhaṃ",
@@ -341,7 +345,7 @@
 },
 {
 "surface": "sandhyāsu",
-"quick_gloss": "at-twilights"
+"quick_gloss": "at-the-twilights"
 },
 {
 "surface": "ca",
@@ -362,7 +366,7 @@
 "tokens": [
 {
 "surface": "vairi+nāśena",
-"quick_gloss": "by-destruction+of-enemy"
+"quick_gloss": "by-enemy+destruction"
 },
 {
 "surface": "vā",
@@ -374,15 +378,11 @@
 },
 {
 "surface": "bhaṅgāt",
-"quick_gloss": "by-defeat"
+"quick_gloss": "breaking"
 },
 {
-"surface": "vyasanataḥ",
-"quick_gloss": "or-by-calamity"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"surface": "vyasanataḥ+api",
+"quick_gloss": "or-from-calamity"
 },
 {
 "surface": "vā",
@@ -398,8 +398,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parīyāt",
-"quick_gloss": "one-should-honor"
+"surface": "pratīyāt",
+"quick_gloss": "one-should-approach"
 },
 {
 "surface": "deśikaṃ",
@@ -418,12 +418,8 @@
 "quick_gloss": "on-elephant"
 },
 {
-"surface": "jīvet",
-"quick_gloss": "one-may-live"
-},
-{
-"surface": "ciraṃ",
-"quick_gloss": "long"
+"surface": "jīvet+ciraṃ",
+"quick_gloss": "one-should-live+long"
 },
 {
 "surface": "sukhī",
@@ -476,7 +472,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "māsa+ādibhiḥ",
+"surface": "māsā+ādibhiḥ",
 "quick_gloss": "beginning-with-months"
 },
 {
@@ -485,7 +481,7 @@
 },
 {
 "surface": "sthāpayitvā",
-"quick_gloss": "having-established"
+"quick_gloss": "having-placed"
 },
 {
 "surface": "iti",
@@ -493,7 +489,7 @@
 },
 {
 "surface": "śeṣaḥ",
-"quick_gloss": "ellipsis"
+"quick_gloss": "the-remainder"
 },
 {
 "surface": "80",
@@ -530,7 +526,7 @@
 },
 {
 "surface": "sva+hasta+gāḥ",
-"quick_gloss": "in-one's-own-hand"
+"quick_gloss": "in-one's-own-hand+gone"
 }
 ]
 },
@@ -617,7 +613,7 @@
 },
 {
 "surface": "śaktiḥ",
-"quick_gloss": "śakti"
+"quick_gloss": "the-power"
 },
 {
 "surface": "jaṭhare",
@@ -625,7 +621,7 @@
 },
 {
 "surface": "sādhyam",
-"quick_gloss": "target"
+"quick_gloss": "the-target"
 },
 {
 "surface": "ālikhet",
@@ -683,15 +679,15 @@
 "tokens": [
 {
 "surface": "daśake",
-"quick_gloss": "in-the-ten"
+"quick_gloss": "in-the-necklace"
 },
 {
 "surface": "hṛdaye",
-"quick_gloss": "on-heart"
+"quick_gloss": "on-the-heart"
 },
 {
 "surface": "śīrṣe",
-"quick_gloss": "on-head"
+"quick_gloss": "on-the-head"
 },
 {
 "surface": "saṃsthāpya",
@@ -716,11 +712,11 @@
 "tokens": [
 {
 "surface": "akṣata+aroga+sarva+aṅgaḥ",
-"quick_gloss": "with-uninjured+disease-free+whole-body"
+"quick_gloss": "unwounded+disease-free+whole-bodied"
 },
 {
 "surface": "yaśas+lakṣmī+dhana+anvitaḥ",
-"quick_gloss": "endowed-with-fame+prosperity+wealth"
+"quick_gloss": "with-fame+prosperity+wealth+endowed"
 }
 ]
 }
