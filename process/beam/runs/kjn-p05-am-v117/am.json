@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 117,
- "question": "What kaula essence should not be given?",
+ "question": "What kaula essence should not be given even if it originates from yoginis?",
  "premises": [
-  "kaula essence exists",
-  "it originates from yoginīs"
+  "The kaula essence is mentioned.",
+  "It originates from yoginis.",
+  "It is declared not to be given."
  ],
- "inference": "the essence is restricted",
+ "inference": "The verse prohibits giving this essence despite its yogini origin.",
  "uncertainties": [
-  "reason for restriction"
+  "Whether sambhavam modifies sāraṃ or kaulikaṃ."
  ],
- "plain_english": "The kaula essence, indeed origin of yoginīs, should not be given."
+ "plain_english": "The kaula essence originating from yoginis should not be given."
 }

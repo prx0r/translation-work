@@ -7,57 +7,58 @@
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "past participle of kath, neuter singular",
-     "morph": "n.nom.sg"
+     "grounds": "kathita past participle of kath 'tell'",
+     "morph": "participle.nom.sg.n"
     },
     {
      "surface": "melakaṃ",
      "gloss": "union-place",
-     "grounds": "neuter singular noun",
-     "morph": "n.acc.sg"
+     "grounds": "melaka 'union/meeting'",
+     "morph": "noun.acc.sg.n"
     },
     {
      "surface": "sthānaṃ",
      "gloss": "abode",
-     "grounds": "neuter singular noun",
-     "morph": "n.nom.sg"
+     "grounds": "sthāna 'place/abode'",
+     "morph": "noun.acc.sg.n"
     },
     {
      "surface": "śrutaṃ",
      "gloss": "heard",
-     "grounds": "past participle of śru, neuter singular",
-     "morph": "n.nom.sg"
+     "grounds": "śruta past participle of śru 'hear'",
+     "morph": "participle.acc.sg.n"
     },
     {
      "surface": "te",
      "gloss": "by-you",
-     "grounds": "genitive or dative of tvam",
-     "morph": "m.gen.sg"
+     "grounds": "te genitive of tvam 'you'",
+     "morph": "pron.gen.sg.m"
     },
     {
      "surface": "ceṣṭitaṃ",
      "gloss": "desired",
-     "grounds": "past participle of ceṣṭ, neuter singular",
-     "morph": "n.nom.sg"
+     "grounds": "ceṣṭita past participle of ceṣṭ 'desire/strive'",
+     "morph": "participle.acc.sg.n"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "neuter singular adjective",
-     "morph": "n.nom.sg"
+     "grounds": "śubha 'auspicious'",
+     "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "What auspicious union-place abode has been told and heard as desired by you?",
+   "question": "What auspicious desired union-place abode has been told to you and heard?",
    "premises": [
-    "union-place abode is told",
-    "it is heard by you",
-    "it is desired auspicious"
+    "kathitaṃ means told to you",
+    "melakaṃ sthānaṃ names union abode",
+    "śrutaṃ te means heard by you",
+    "ceṣṭitaṃ śubham means desired auspicious"
    ],
-   "inference": "The auspicious union-place abode has been communicated, heard, and desired.",
+   "inference": "The verse states an auspicious desired union-place abode was told and heard by you.",
    "uncertainties": [
-    "exact referent of melakaṃ remains context-dependent"
+    "exact syntactic relation of melakaṃ and sthānaṃ uncertain"
    ],
-   "plain_english": "The auspicious union-place abode has been told, heard by you, and desired."
+   "plain_english": "The auspicious desired union-place abode has been told and heard by you."
   }
  ]
 }

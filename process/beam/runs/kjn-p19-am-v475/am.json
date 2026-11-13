@@ -1,15 +1,16 @@
 {
  "song": "kjn-p19",
  "verse": 475,
- "question": "What auspicious union-place abode has been told and heard as desired by you?",
+ "question": "What auspicious desired union-place abode has been told to you and heard?",
  "premises": [
-  "union-place abode is told",
-  "it is heard by you",
-  "it is desired auspicious"
+  "kathitaṃ means told to you",
+  "melakaṃ sthānaṃ names union abode",
+  "śrutaṃ te means heard by you",
+  "ceṣṭitaṃ śubham means desired auspicious"
  ],
- "inference": "The auspicious union-place abode has been communicated, heard, and desired.",
+ "inference": "The verse states an auspicious desired union-place abode was told and heard by you.",
  "uncertainties": [
-  "exact referent of melakaṃ remains context-dependent"
+  "exact syntactic relation of melakaṃ and sthānaṃ uncertain"
  ],
- "plain_english": "The auspicious union-place abode has been told, heard by you, and desired."
+ "plain_english": "The auspicious desired union-place abode has been told and heard by you."
 }

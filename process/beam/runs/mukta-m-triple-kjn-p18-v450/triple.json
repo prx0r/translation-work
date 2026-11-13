@@ -7,52 +7,51 @@
     {
      "surface": "kṣīrādā",
      "gloss": "milk-from",
-     "grounds": "milk plus from in ablative sense",
-     "morph": "indecl."
+     "grounds": "kṣīra + ādā fused",
+     "morph": "compound"
     },
     {
      "surface": "....",
      "gloss": "ellipsis",
-     "grounds": "editorial ellipsis marker",
-     "morph": "indecl."
+     "grounds": "source ellipsis",
+     "morph": "(indecl.)"
     },
     {
      "surface": "viplakāraiḥ",
      "gloss": "with-fillings",
-     "grounds": "instrumental plural masculine",
-     "morph": "instr.pl.m"
+     "grounds": "viplaka + āraiḥ",
+     "morph": "m.instr.pl"
     },
     {
      "surface": "pūrayet",
      "gloss": "should-fill",
-     "grounds": "optative third singular active",
-     "morph": "verb.3.sg.act.opt"
+     "grounds": "root pūr optative",
+     "morph": "3.sg.act.opt"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "accusative singular feminine",
-     "morph": "acc.sg.f"
+     "grounds": "tat + tanu",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "indeclinable adverb",
-     "morph": "indecl."
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How should the practitioner always fill that body with milk-derived fillings in vajrayoga?",
+   "question": "How should one always fill that body with milk and fillings?",
    "premises": [
-    "milk-derived fillings are used",
-    "the body is filled always",
-    "vajrayoga context applies"
+    "Milk is taken from its source.",
+    "Fillings accompany the rite.",
+    "That body should be filled."
    ],
-   "inference": "The verse prescribes continual filling of the body with milk-derived fillings.",
+   "inference": "The practitioner should always fill that body with milk and fillings.",
    "uncertainties": [
-    "ellipsis obscures exact ingredient list",
-    "exact grammatical role of kṣīrādā remains unclear"
+    "The ellipsis token is unresolved in the source."
    ],
-   "plain_english": "Always fill that body with milk-derived fillings."
+   "plain_english": "From milk ... with fillings one should always fill that body."
   }
  ]
 }

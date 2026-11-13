@@ -7,39 +7,39 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "amṛta neuter noun in nominative or accusative singular",
-     "morph": "n.nom/acc.sg.n"
+     "grounds": "amṛta in accusative singular neuter",
+     "morph": "n.acc.sg.n"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-nature",
-     "grounds": "compound of kaula and sadbhāva in accusative singular",
-     "morph": "acc.sg.m"
+     "grounds": "compound kaula + sadbhāva in accusative singular masculine",
+     "morph": "n.acc.sg.m"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative second person singular active of root śru",
-     "morph": "2.sg.act.imp.√śru"
+     "grounds": "imperative of root śru, second person singular active",
+     "morph": "2.sg.act.impv"
     },
     {
      "surface": "kāmakalātmakam",
      "gloss": "desire-art-consisting",
-     "grounds": "compound of kāma, kalā, and ātmaka in accusative singular neuter",
-     "morph": "acc.sg.n"
+     "grounds": "compound kāma + kalā + ātmaka in accusative singular neuter",
+     "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "What is the kaula true nature that consists of desire-art and is to be heard as nectar?",
+   "question": "What is the nectar-like true nature of Kaula that consists of kāmakalā?",
    "premises": [
-    "nectar is the kaula true nature",
-    "desire-art constitutes that nature",
-    "the hearer is commanded to listen"
+    "Nectar is the true nature of Kaula.",
+    "It consists of kāmakalā.",
+    "The hearer is commanded to listen."
    ],
-   "inference": "The verse commands hearing the nectar-like kaula true nature whose essence is desire-art.",
+   "inference": "The verse identifies Kaula's true nature as nectar consisting of kāmakalā and commands hearing it.",
    "uncertainties": [
-    "the exact syntactic role of amṛtaṃ remains ambiguous between nominative and accusative"
+    "The exact syntactic relation of kāmakalātmakam to amṛtaṃ is inferred."
    ],
-   "plain_english": "Hear the nectar, the kaula true nature consisting of desire-art."
+   "plain_english": "Hear the nectar: the true nature of Kaula, consisting of kāmakalā."
   }
  ]
 }

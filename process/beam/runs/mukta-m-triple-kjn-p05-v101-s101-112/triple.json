@@ -7,37 +7,37 @@
     {
      "surface": "gopitavyaṃ",
      "gloss": "to-be-concealed",
-     "grounds": "gerundive of gup, neuter nominative singular",
-     "morph": "n.nom.sg"
+     "grounds": "passive participle of gup",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
-     "grounds": "instrumental singular of prayatna",
-     "morph": "m.instr.sg"
+     "grounds": "instrumental of prayatna",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "martyaloke",
      "gloss": "in-mortal-world",
-     "grounds": "locative singular of martyaloka",
+     "grounds": "locative of martyaloka",
      "morph": "m.loc.sg"
     },
     {
      "surface": "narādhame",
      "gloss": "among-lowest-of-men",
-     "grounds": "locative singular of narādhama",
+     "grounds": "locative of narādhama",
      "morph": "m.loc.sg"
     }
    ],
-   "question": "What must be concealed with effort in the mortal world among the lowest of men?",
+   "question": "Why must this teaching be carefully concealed in the mortal world among the lowest of men?",
    "premises": [
-    "concealment requires effort",
-    "mortal world contains unworthy men",
-    "the teaching must be protected"
+    "concealment protects sacred teaching",
+    "mortal world contains unworthy recipients",
+    "effort is required for protection"
    ],
-   "inference": "The verse commands guarded transmission of the teaching among unworthy people.",
+   "inference": "The verse commands concealment because the teaching is not for the lowest men in the mortal world.",
    "uncertainties": [
-    "exact referent of what is concealed"
+    "exact referent of teaching not stated"
    ],
    "plain_english": "This must be carefully concealed in the mortal world among the lowest of men."
   },
@@ -47,31 +47,31 @@
     {
      "surface": "dātavyaṃ",
      "gloss": "to-be-given",
-     "grounds": "gerundive of dā, neuter nominative singular",
-     "morph": "n.nom.sg"
+     "grounds": "passive participle of dā",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "pūrvasiddhasya",
      "gloss": "of-the-previously-accomplished",
-     "grounds": "genitive singular of pūrvasiddha",
+     "grounds": "genitive of pūrvasiddha",
      "morph": "m.gen.sg"
     },
     {
      "surface": "abdameka+parīkṣitam",
      "gloss": "tested-for-one-year",
-     "grounds": "compound meaning tested for one year, accusative neuter singular",
-     "morph": "n.acc.sg"
+     "grounds": "compound abda+eka+parīkṣita",
+     "morph": "compound"
     }
    ],
-   "question": "To whom and after what testing may this teaching be given?",
+   "question": "To whom should this be given after one year of testing?",
    "premises": [
-    "giving requires prior accomplishment",
-    "the recipient is tested for one year",
-    "transmission is restricted"
+    "gift requires prior accomplishment",
+    "recipient must be tested one year",
+    "testing precedes transmission"
    ],
-   "inference": "The teaching is given only to one previously accomplished and tested for a year.",
+   "inference": "The teaching should be given only to one previously accomplished and tested for a year.",
    "uncertainties": [
-    "exact duration and test details"
+    "exact content of testing not stated"
    ],
    "plain_english": "It should be given to one previously accomplished, tested for one year."
   },
@@ -81,33 +81,33 @@
     {
      "surface": "candradvīpa+vinirgate",
      "gloss": "emerged-from-candradīpa",
-     "grounds": "locative singular of candradvīpa+vinirgata",
-     "morph": "m.loc.sg"
+     "grounds": "compound candradvīpa+vinirgata",
+     "morph": "compound"
     },
     {
      "surface": "pañcamaḥ",
      "gloss": "fifth",
-     "grounds": "nominative singular masculine of pañcama",
+     "grounds": "ordinal adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "nominative singular masculine of paṭala",
+     "grounds": "noun paṭala",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter emerges from Candradīpa in this sequence?",
+   "question": "Which chapter emerges from Candradvīpa in this sequence?",
    "premises": [
-    "the chapter is fifth",
-    "it emerges from Candradīpa",
-    "the sequence is numbered"
+    "chapter is fifth",
+    "it emerges from candradīpa",
+    "sequence is being enumerated"
    ],
-   "inference": "The fifth chapter is the one emerging from Candradīpa.",
+   "inference": "The fifth chapter is the one that emerges from Candradvīpa.",
    "uncertainties": [
-    "role of Candradīpa"
+    "role of candradīpa not explained"
    ],
-   "plain_english": "The fifth chapter emerged from Candradīpa."
+   "plain_english": "The fifth chapter emerged from Candradvīpa."
   },
   {
    "verse": 104,
@@ -115,43 +115,43 @@
     {
      "surface": "tvat+prasādena",
      "gloss": "by-your-grace",
-     "grounds": "instrumental singular of tvat+prasāda",
-     "morph": "m.instr.sg"
+     "grounds": "compound tvat+prasāda",
+     "morph": "compound"
     },
     {
      "surface": "kauleśa",
      "gloss": "o-lord-of-kaulas",
-     "grounds": "vocative singular of kauleśa",
+     "grounds": "vocative of kauleśa",
      "morph": "m.voc.sg"
     },
     {
      "surface": "jñāto",
      "gloss": "known",
-     "grounds": "past participle of jñā, masculine nominative singular",
+     "grounds": "past participle of jñā",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first person nominative singular pronoun",
-     "morph": "1.nom.sg"
+     "grounds": "first person pronoun",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "kaula+nirṇayaḥ",
      "gloss": "determination-of-kaula",
-     "grounds": "nominative singular masculine compound",
-     "morph": "m.nom.sg"
+     "grounds": "compound kaula+nirṇaya",
+     "morph": "compound"
     }
    ],
-   "question": "By whose grace is the determination of Kaula known?",
+   "question": "By whose grace has the determination of Kaula become known?",
    "premises": [
-    "grace enables knowledge",
-    "the speaker addresses the lord of Kaulas",
-    "the determination of Kaula is known"
+    "speaker knows kaula determination",
+    "knowledge comes by grace",
+    "addressee is lord of kaulas"
    ],
-   "inference": "The speaker knows the determination of Kaula by the lord's grace.",
+   "inference": "The speaker knows the determination of Kaula by the grace of the lord of Kaulas.",
    "uncertainties": [
-    "scope of kaula+nirṇaya"
+    "specific content of determination not stated"
    ],
    "plain_english": "By your grace, O lord of Kaulas, I have known the determination of Kaula."
   },
@@ -161,31 +161,31 @@
     {
      "surface": "ko",
      "gloss": "who",
-     "grounds": "interrogative nominative singular masculine",
+     "grounds": "interrogative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "asau",
      "gloss": "that",
-     "grounds": "demonstrative nominative singular masculine",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "jīvaḥ",
      "gloss": "soul",
-     "grounds": "nominative singular masculine of jīva",
+     "grounds": "noun jīva",
      "morph": "m.nom.sg"
     },
     {
      "surface": "samuddiṣṭaḥ",
      "gloss": "declared",
-     "grounds": "past participle of samuddiś, masculine nominative singular",
+     "grounds": "past participle of samuddiś",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kiṃ",
      "gloss": "what",
-     "grounds": "interrogative nominative singular neuter",
+     "grounds": "interrogative pronoun",
      "morph": "n.nom.sg"
     },
     {
@@ -197,21 +197,21 @@
     {
      "surface": "jīva+svarūpakam",
      "gloss": "nature-of-the-soul",
-     "grounds": "accusative singular neuter compound",
-     "morph": "n.acc.sg"
+     "grounds": "compound jīva+svarūpaka",
+     "morph": "compound"
     }
    ],
-   "question": "Who is the declared soul and what is its nature?",
+   "question": "Who is the soul that was declared, and what is its nature?",
    "premises": [
-    "the soul is declared",
-    "its nature is questioned",
-    "identity and essence are both asked"
+    "soul has been declared",
+    "its identity is questioned",
+    "its nature is questioned"
    ],
-   "inference": "The verse asks both the identity of the declared soul and its essential nature.",
+   "inference": "The verse asks both the identity and the nature of the declared soul.",
    "uncertainties": [
-    "whether jīva means individual soul or supreme self"
+    "answer not given in this verse"
    ],
-   "plain_english": "Who is that declared soul, and what is the nature of the soul?"
+   "plain_english": "Who is that soul that was declared, and what is the nature of the soul?"
   },
   {
    "verse": 106,
@@ -219,61 +219,61 @@
     {
      "surface": "kasmiṃś",
      "gloss": "in-what",
-     "grounds": "interrogative locative singular masculine",
+     "grounds": "interrogative locative",
      "morph": "m.loc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable conjunction",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "indeclinable emphatic particle",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "layaṃ",
      "gloss": "dissolution",
-     "grounds": "accusative singular masculine of laya",
+     "grounds": "noun laya",
      "morph": "m.acc.sg"
     },
     {
      "surface": "yāti",
      "gloss": "goes",
-     "grounds": "third person singular present active of yā",
+     "grounds": "verb yā",
      "morph": "3.sg.act-pres"
     },
     {
      "surface": "tat+sarvaṃ",
      "gloss": "that-all",
-     "grounds": "accusative singular neuter compound",
-     "morph": "n.acc.sg"
+     "grounds": "compound tat+sarva",
+     "morph": "compound"
     },
     {
      "surface": "kathayasva",
      "gloss": "tell",
-     "grounds": "second person singular imperative active of kathay",
-     "morph": "2.sg.imp.act"
+     "grounds": "imperative of kathay",
+     "morph": "2.sg.act-imp"
     },
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "first person dative singular pronoun",
-     "morph": "1.dat.sg"
+     "grounds": "first person pronoun",
+     "morph": "m.dat.sg"
     }
    ],
-   "question": "In what does dissolution occur and what must be told?",
+   "question": "In what does dissolution occur, and what should be told to me?",
    "premises": [
     "dissolution has a locus",
-    "the speaker asks for full disclosure",
-    "the request is personal"
+    "all of it should be told",
+    "speaker requests instruction"
    ],
-   "inference": "The verse asks where dissolution occurs and requests complete teaching.",
+   "inference": "The verse asks where dissolution occurs and requests full instruction.",
    "uncertainties": [
-    "exact referent of tat+sarvaṃ"
+    "answer not given in this verse"
    ],
    "plain_english": "In what does dissolution occur? Tell me all of that."
   },
@@ -283,43 +283,43 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "nominative singular masculine pronoun",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "indeclinable adjective or accusative singular neuter",
-     "morph": "(indecl.)"
+     "grounds": "adjective param",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "niṣkalaṃ",
      "gloss": "partless",
-     "grounds": "accusative singular neuter of niṣkala",
+     "grounds": "adjective niṣkala",
      "morph": "n.acc.sg"
     },
     {
      "surface": "nityaṃ",
      "gloss": "eternal",
-     "grounds": "accusative singular neuter of nitya",
+     "grounds": "adjective nitya",
      "morph": "n.acc.sg"
     },
     {
      "surface": "nirāmaya+nirañjanam",
      "gloss": "free-from-disease+stainless",
-     "grounds": "accusative singular masculine compound adjective",
-     "morph": "m.acc.sg"
+     "grounds": "compound nirāmaya+nirañjana",
+     "morph": "compound"
     }
    ],
-   "question": "What qualities define the supreme partless eternal being?",
+   "question": "What are the qualities of the supreme partless eternal reality?",
    "premises": [
-    "the being is supreme",
-    "it is partless and eternal",
-    "it is free from disease and stainless"
+    "reality is supreme",
+    "reality is partless",
+    "reality is eternal and stainless"
    ],
-   "inference": "The supreme being is described as partless, eternal, disease-free, and stainless.",
+   "inference": "The supreme reality is partless, eternal, free from disease, and stainless.",
    "uncertainties": [
-    "syntactic role of paraṃ"
+    "exact referent of saḥ not stated"
    ],
    "plain_english": "He is supreme, partless, eternal, free from disease, and stainless."
   },
@@ -329,25 +329,25 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "nominative singular masculine pronoun",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "jīvaḥ",
      "gloss": "soul",
-     "grounds": "nominative singular masculine of jīva",
+     "grounds": "noun jīva",
      "morph": "m.nom.sg"
     },
     {
      "surface": "parataro",
      "gloss": "supreme",
-     "grounds": "comparative nominative singular masculine of paratara",
+     "grounds": "comparative adjective",
      "morph": "m.nom.sg"
     },
     {
      "surface": "yas",
      "gloss": "who",
-     "grounds": "relative nominative singular masculine",
+     "grounds": "relative pronoun",
      "morph": "m.nom.sg"
     },
     {
@@ -359,33 +359,33 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "nominative singular masculine pronoun",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "haṃsaḥ",
      "gloss": "haṃsa",
-     "grounds": "nominative singular masculine of haṃsa",
+     "grounds": "noun haṃsa",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śakti+pudgalaḥ",
      "gloss": "power+individual",
-     "grounds": "nominative singular masculine compound",
-     "morph": "m.nom.sg"
+     "grounds": "compound śakti+pudgala",
+     "morph": "compound"
     }
    ],
    "question": "Who is the supreme soul identified with haṃsa and power-individual?",
    "premises": [
-    "the soul is supreme",
-    "it is identified with haṃsa",
-    "it is power-individual"
+    "soul is supreme",
+    "soul is haṃsa",
+    "soul is power-individual"
    ],
-   "inference": "The supreme soul is the haṃsa, the power-individual.",
+   "inference": "The supreme soul is identified as haṃsa, the power-individual.",
    "uncertainties": [
-    "exact meaning of śakti+pudgalaḥ"
+    "meaning of pudgala in this context not explained"
    ],
-   "plain_english": "He is the soul, supreme indeed; he is Haṃsa, power-individual."
+   "plain_english": "He is the soul, supreme; indeed he is haṃsa, the power-individual."
   },
   {
    "verse": 109,
@@ -393,37 +393,37 @@
     {
      "surface": "samīra+pūrako",
      "gloss": "wind-filled",
-     "grounds": "nominative singular masculine compound adjective",
-     "morph": "m.nom.sg"
+     "grounds": "compound samīra+pūraka",
+     "morph": "compound"
     },
     {
      "surface": "vāyuḥ",
      "gloss": "air",
-     "grounds": "nominative singular masculine of vāyu",
+     "grounds": "noun vāyu",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sarva+jīveṣu",
      "gloss": "in-all-beings",
-     "grounds": "locative plural masculine compound",
-     "morph": "m.loc.pl"
+     "grounds": "compound sarva+jīva",
+     "morph": "compound"
     },
     {
      "surface": "saṃsthitam",
      "gloss": "situated",
-     "grounds": "nominative singular neuter past participle of saṃsthā",
-     "morph": "n.nom.sg"
+     "grounds": "past participle of saṃsthā",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "Where is the wind-filled air situated among beings?",
+   "question": "Where is the wind-filled air situated among all beings?",
    "premises": [
     "air is wind-filled",
-    "it is situated in all beings",
-    "the statement is universal"
+    "air is situated",
+    "it is in all beings"
    ],
    "inference": "The wind-filled air is situated in all beings.",
    "uncertainties": [
-    "whether saṃsthitam modifies vāyuḥ or a neuter noun"
+    "relation to haṃsa not stated"
    ],
    "plain_english": "The wind-filled air is situated in all beings."
   },
@@ -433,43 +433,43 @@
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "nominative singular masculine pronoun",
+     "grounds": "demonstrative pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "deha+tyakta+mātreṇa",
      "gloss": "upon-merely-leaving-the-body",
-     "grounds": "instrumental singular neuter compound",
-     "morph": "n.instr.sg"
+     "grounds": "compound deha+tyakta+mātra",
+     "morph": "compound"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "indeclinable adjective",
-     "morph": "(indecl.)"
+     "grounds": "adjective param",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "śivo",
      "gloss": "śiva",
-     "grounds": "nominative singular masculine of śiva",
+     "grounds": "noun śiva",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nigadyate",
      "gloss": "is-called",
-     "grounds": "third person singular present passive of nigad",
-     "morph": "3.sg.pass.pres"
+     "grounds": "passive of nigad",
+     "morph": "3.sg.pass-pres"
     }
    ],
    "question": "What is he called upon merely leaving the body?",
    "premises": [
-    "leaving the body is the condition",
-    "the result is supreme",
-    "he is called Śiva"
+    "leaving body is sufficient",
+    "he becomes supreme",
+    "he is called śiva"
    ],
    "inference": "Upon merely leaving the body, he is called supreme Śiva.",
    "uncertainties": [
-    "whether paraṃ modifies śivo or the state"
+    "whether body departure alone suffices doctrinally not explained"
    ],
    "plain_english": "Upon merely leaving the body, he is called supreme Śiva."
   },
@@ -479,39 +479,39 @@
     {
      "surface": "karṇa+sthaṃ",
      "gloss": "abiding-in-the-ear",
-     "grounds": "accusative singular neuter compound",
-     "morph": "n.acc.sg"
+     "grounds": "compound karṇa+stha",
+     "morph": "compound"
     },
     {
      "surface": "śrūyate",
      "gloss": "is-heard",
-     "grounds": "third person singular present passive of śru",
-     "morph": "3.sg.pass.pres"
+     "grounds": "passive of śru",
+     "morph": "3.sg.pass-pres"
     },
     {
      "surface": "devi",
      "gloss": "o-goddess",
-     "grounds": "vocative singular feminine of devī",
+     "grounds": "vocative of devī",
      "morph": "f.voc.sg"
     },
     {
      "surface": "pāramparya+krama+āgatam",
      "gloss": "come-down-through-tradition",
-     "grounds": "accusative singular neuter compound",
-     "morph": "n.acc.sg"
+     "grounds": "compound pāramparya+krama+āgata",
+     "morph": "compound"
     }
    ],
-   "question": "What is heard abiding in the ear and come down through tradition?",
+   "question": "How is this teaching heard and transmitted through tradition?",
    "premises": [
-    "the teaching is heard in the ear",
-    "it comes through tradition",
-    "the goddess is addressed"
+    "teaching abides in ear",
+    "it is heard",
+    "it comes through tradition"
    ],
-   "inference": "The traditional teaching is heard abiding in the ear.",
+   "inference": "The teaching is heard as abiding in the ear and transmitted through traditional succession.",
    "uncertainties": [
-    "exact referent of the heard teaching"
+    "exact content of teaching not stated"
    ],
-   "plain_english": "O goddess, it is heard abiding in the ear, come down through tradition."
+   "plain_english": "It is heard abiding in the ear, O goddess, having come down through tradition."
   },
   {
    "verse": 112,
@@ -519,45 +519,45 @@
     {
      "surface": "anena",
      "gloss": "by-this",
-     "grounds": "instrumental singular masculine pronoun",
-     "morph": "m.instr.sg"
+     "grounds": "demonstrative pronoun",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "jñāna+mātreṇa",
      "gloss": "mere-knowledge",
-     "grounds": "instrumental singular neuter compound",
-     "morph": "n.instr.sg"
+     "grounds": "compound jñāna+mātra",
+     "morph": "compound"
     },
     {
      "surface": "śrutena",
      "gloss": "heard",
-     "grounds": "instrumental singular masculine past participle of śru",
-     "morph": "m.instr.sg"
+     "grounds": "past participle of śru",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable conjunction",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "varānane",
      "gloss": "o-fair-faced-one",
-     "grounds": "vocative singular feminine of varānanā",
+     "grounds": "vocative of varānanā",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What is accomplished by mere knowledge and hearing?",
+   "question": "What does mere knowledge heard accomplish for the fair-faced one?",
    "premises": [
     "mere knowledge is sufficient",
-    "hearing also contributes",
-    "the fair-faced one is addressed"
+    "it is heard",
+    "addressee is fair-faced one"
    ],
-   "inference": "Mere knowledge, along with hearing, accomplishes the stated result.",
+   "inference": "Mere knowledge, when heard, is sufficient for the fair-faced one.",
    "uncertainties": [
-    "exact result accomplished"
+    "exact result of knowledge not stated"
    ],
-   "plain_english": "By this mere knowledge and hearing, O fair-faced one."
+   "plain_english": "By this mere knowledge, heard, O fair-faced one."
   }
  ]
 }

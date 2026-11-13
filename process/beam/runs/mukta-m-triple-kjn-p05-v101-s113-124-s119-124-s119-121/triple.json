@@ -7,14 +7,14 @@
     {
      "surface": "sāmprataṃ",
      "gloss": "now",
-     "grounds": "temporal adverb",
+     "grounds": "adverb of time",
      "morph": "(indecl.)"
     },
     {
      "surface": "śrotum",
      "gloss": "to-hear",
      "grounds": "infinitive of śru",
-     "morph": "(indecl.)"
+     "morph": "inf."
     },
     {
      "surface": "icchāmi",
@@ -25,31 +25,31 @@
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "genitive singular of kāla",
+     "grounds": "genitive singular masculine",
      "morph": "m.gen.sg"
     },
     {
      "surface": "vañcanaṃ",
      "gloss": "deception",
-     "grounds": "accusative singular neuter of vañcana",
+     "grounds": "accusative singular neuter",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "accusative singular neuter of śubha",
+     "grounds": "accusative singular neuter",
      "morph": "n.acc.sg"
     }
    ],
    "question": "What auspicious deception of time does the speaker now wish to hear?",
    "premises": [
-    "speaker wishes to hear now",
-    "deception of time is auspicious",
-    "object is accusative neuter"
+    "The speaker wishes to hear now.",
+    "The object is deception of time.",
+    "The deception is called auspicious."
    ],
-   "inference": "The verse requests teaching on an auspicious way to deceive time.",
+   "inference": "The verse requests instruction on an auspicious way of overcoming or deceiving time.",
    "uncertainties": [
-    "exact referent of time-deception is not specified here"
+    "Whether vañcanaṃ means deception, avoidance, or transcendence of time."
    ],
    "plain_english": "Now I wish to hear the auspicious deception of time."
   },
@@ -71,37 +71,37 @@
     {
      "surface": "sandeho",
      "gloss": "doubt",
-     "grounds": "nominative singular masculine of sandeha",
+     "grounds": "nominative singular masculine",
      "morph": "m.nom.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "relative particle",
+     "grounds": "relative adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "mṛtyur",
      "gloss": "death",
-     "grounds": "nominative singular masculine of mṛtyu",
+     "grounds": "nominative singular masculine",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "third person singular present active of naś",
+     "grounds": "third person singular present active of naś with prefix vi",
      "morph": "3.sg.act-pres"
     }
    ],
-   "question": "How is death destroyed without doubt according to the teaching?",
+   "question": "How is death destroyed according to the teaching being given?",
    "premises": [
-    "speaker promises to tell",
-    "no doubt remains",
-    "death is destroyed"
+    "The speaker says there is no doubt.",
+    "Death is destroyed in the manner described.",
+    "The teaching is presented as certain."
    ],
-   "inference": "The verse assures that death is destroyed in the manner to be explained.",
+   "inference": "The verse assures that death is destroyed through the method about to be explained.",
    "uncertainties": [
-    "the exact method is given in following verses"
+    "The exact method is not stated in this verse alone."
    ],
    "plain_english": "I tell you without doubt: death is destroyed."
   },
@@ -111,25 +111,25 @@
     {
      "surface": "amṛta+agraṃ",
      "gloss": "at-tip-of-nectar",
-     "grounds": "compound accusative singular neuter",
-     "morph": "compound=amṛta+agra,acc.sg.n"
+     "grounds": "compound of amṛta and agra, accusative singular neuter",
+     "morph": "n.acc.sg compound"
     },
     {
      "surface": "rasa+agreṇa",
      "gloss": "with-essence-of-juice",
-     "grounds": "compound instrumental singular neuter",
-     "morph": "compound=rasa+agra,inst.sg.n"
+     "grounds": "compound of rasa and agra, instrumental singular neuter",
+     "morph": "n.instr.sg compound"
     },
     {
      "surface": "dahyamāna",
      "gloss": "burning",
-     "grounds": "present participle of dah",
-     "morph": "(participle)"
+     "grounds": "present participle passive of dah",
+     "morph": "pres.part."
     },
     {
      "surface": "sudhīr",
      "gloss": "even-wise",
-     "grounds": "nominative singular masculine of sudhī",
+     "grounds": "nominative singular masculine",
      "morph": "m.nom.sg"
     },
     {
@@ -139,17 +139,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Why does even a wise person burn when the nectar-tip meets juice-essence?",
+   "question": "What happens to even a wise person when nectar-tip and juice-essence burn?",
    "premises": [
-    "nectar-tip is accusative object",
-    "juice-essence is instrumental",
-    "burning affects even wise"
+    "The nectar tip and juice essence are involved.",
+    "Burning is taking place.",
+    "Even a wise person is affected."
    ],
-   "inference": "The verse states that even the wise burn through this nectar and juice process.",
+   "inference": "The verse warns that the burning process involving nectar and juice affects even the wise.",
    "uncertainties": [
-    "whether burning is literal or transformative is not explicit"
+    "Whether dahyamāna modifies the wise person or the nectar/juice."
    ],
-   "plain_english": "Even a wise person burns the nectar-tip with the essence of juice."
+   "plain_english": "Even a wise person is burning at the tip of nectar with the essence of juice."
   }
  ]
 }
