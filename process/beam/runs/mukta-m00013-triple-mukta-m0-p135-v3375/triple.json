@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "saṃhatāḥ",
+     "gloss": "closed-together",
+     "grounds": "fingers brought together; describes hand configuration",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prasūtāḥ",
+     "gloss": "extended",
+     "grounds": "fingers stretched out; describes hand configuration",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction for forming the gesture",
+     "morph": "3.sg.optative-active + √kṛ"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "gesture",
+     "grounds": "ritual hand seal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paraśu+saṃjñikā",
+     "gloss": "axe-named",
+     "grounds": "compound naming the gesture as the axe seal",
+     "morph": "compound: paraśu+saṃjñikā (f.nom.sg)"
+    }
+   ],
+   "question": "How is the ritual hand gesture known as the axe seal to be formed?",
+   "premises": [
+    "The fingers are to be closed together.",
+    "The fingers are to be extended.",
+    "One should form a ritual hand gesture.",
+    "This gesture bears the name of the axe."
+   ],
+   "inference": "The axe-named gesture is formed by making the fingers closed together and extended.",
+   "uncertainties": [
+    "The exact physical arrangement implied by combining 'closed together' and 'extended' is not fully specified in this verse alone."
+   ],
+   "plain_english": "One should form the gesture called the axe seal with the fingers closed together and extended."
+  }
+ ]
+}
