@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2850,
+   "rows": [
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "verb of recitation",
+     "morph": "3.sg.act-opt √paṭh"
+    },
+    {
+     "surface": "vāra+trayaṃ",
+     "gloss": "three-times",
+     "grounds": "compound indicating frequency",
+     "morph": "compound vāra+traya (n.acc.sg)"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāram+ekaṃ",
+     "gloss": "one-time",
+     "grounds": "compound indicating frequency",
+     "morph": "compound vāra+eka (m.acc.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates same manner as before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "specifies time of recitation",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What alternative frequencies of recitation at night are permitted for this ritual practice?",
+   "premises": [
+    "Recitation is prescribed as the ritual action.",
+    "The recitation may be performed three times as one option.",
+    "Alternatively, the recitation may be performed one time in the same manner at night."
+   ],
+   "inference": "The ritual allows recitation either three times or once, performed likewise at night.",
+   "uncertainties": [],
+   "plain_english": "One should recite three times, or alternatively one time, likewise at night."
+  }
+ ]
+}

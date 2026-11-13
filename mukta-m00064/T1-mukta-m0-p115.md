@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p115-v2851
-[sonless](aputro) [obtains](labhate) [sons](putrān) [penniless](nirdhano) [obtains](labhate) [wealth](dhanam)
+[sonless](aputro) [obtains](labhate) [sons](putrān) [wealthless](nirdhano) [obtains](labhate) [wealth](dhanam)
 
 ## mukta-m0-p115-v2852
-[life](āyuḥ) [fame](kīrti) [glory](yaśo) [intelligence](medhāṃ) [wealth](dhanaṃ) [knowledge](vidyāṃ) [steadfastness](dhṛtiṃ) [cattle](paśum)
+[life](āyuḥ) [fame](kīrti) [glory](yaśo) [intelligence](medhāṃ) [wealth](dhanaṃ) [knowledge](vidyāṃ) [firmness](dhṛtiṃ) [cattle](paśum)
 
 ## mukta-m0-p115-v2853
 [which](yān) [which](yān) [desires](samīhate) [enjoyments](bhogān) [having-seen](dṛṣṭvā) [that](taṃ) [supreme-person](puruṣottamam)
 
 ## mukta-m0-p115-v2854
-[letter-a](akāraḥ) [of-all+letters](sarva+varṇānāṃ) [gāyatrī](gāyatrī) [of-meters](chandasāṃ) [as](yathā)
+[letter-a](akāraḥ) [of-all-letters](sarvavarṇānāṃ) [Gāyatrī](gāyatrī) [of-meters](chandasāṃ) [as](yathā)
 
 ## mukta-m0-p115-v2855
-[from-all+limbs](sarva+aṅgebhyo) [as](yathā) [best](śreṣṭham) [highest+limb](uttama+aṅgaṃ) [o-great-goddess](maheśvari)
+[from-all-limbs](sarvāṅgebhyo) [as](yathā) [best](śreṣṭham) [highest-limb](uttamāṅgaṃ) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p115-v2856
-[varuṇa](varuṇo) [of-aquatic-beings](yādasāṃ) [as](yadvad) [yama](yamaḥ) [of-restrainers](saṃyamatāṃ) [as](yathā)
+[Varuṇa](varuṇo) [of-aquatic-beings](yādasāṃ) [as](yadvad) [Yama](yamaḥ) [of-restrainers](saṃyamatāṃ) [as](yathā)
 
 ## mukta-m0-p115-v2857
 [of-oceans](samudrāṇāṃ) [as](yathā) [best](śreṣṭhaḥ) [milk-ocean](kṣīrodaḥ) [of-rivers](saritāṃ) [lord](patiḥ)
 
 ## mukta-m0-p115-v2858
-[not](na) [that](taṃ) [I-see](paśyāmi) [o-goddess-of-gods](deveśi) [who](yas) [to-him](tena) [equal](sadṛśo) [on-earth](bhuvi)
+[not](na) [that](taṃ) [I-see](paśyāmi) [O-goddess-of-gods](deveśi) [who](yas) [to-him](tena) [equal](sadṛśo) [on-earth](bhuvi)
 
 ## mukta-m0-p115-v2859
 [truth](satyaṃ) [truth](satyaṃ) [again](punaḥ) [truth](satyaṃ) [sacred-place](kṣetraṃ) [that](tat) [supreme](paramaṃ) [great](mahat)
 
 ## mukta-m0-p115-v2860
-[having-enjoyed](bhuktvā) [enjoyments](bhogān) [various](vicitrāṃś) [and](ca) [with-divine+women](deva+yoṣit+samanvitān)
+[having-enjoyed](bhuktvā) [enjoyments](bhogān) [various](vicitrāṃśca) [various](vividhā) [with-divine-women](devayoṣitsamanvitān)
 
 ## mukta-m0-p115-v2861
-[is-born](jāyate) [of-yogins](yogino) [o-goddess](devi) [knowledge+knower](jñāna+jño) [is-born](jāyate) [householder](gṛhī)
+[is-born](jāyate) [of-yogins](yogino) [of-yogins](yogināṃ) [O-goddess](devi) [knowledge-knower](jñānajño) [is-born](jāyate) [householder](gṛhī)
 
 ## mukta-m0-p115-v2862
-[south+facing](dakṣiṇā+abhimukho) [having-become](bhūtvā) [one-should-see](paśyed) [southern+ocean](dakṣiṇa+sāgaram)
+[facing-south](dakṣiṇābhimukho) [having-become](bhūtvā) [one-should-see](paśyed) [southern-ocean](dakṣiṇasāgaram)
 
 ## mukta-m0-p115-v2863
-[mandāra](mandāraṃ) [having-saluted+that](tat+namaskṛtya) [in-brahma+world](brahma+loke) [is-honored](mahīyate)
+[Mandāra](mandāraṃ) [Mandāra](mandāraṃ) [and](ca) [having-bowed-to-that](tannamaskṛtya) [in-Brahma's-world](brahmaloke) [is-honored](mahīyate)
 
 ## mukta-m0-p115-v2864
-[by-sight+alone](darśanāt+eva) [o-lord-of-mountains](śailendra) [viṣṇu+form](viṣṇu+rūpa) [salutation](namas) [be](astu) [to-you](te)
+[by-sight-alone](darśanādeva) [O-lord-of-mountains](śailendra) [having-Viṣṇu's-form](viṣṇurūpa) [salutation](namo'stu) [to-you](te)
 
 ## mukta-m0-p115-v2865
-[brahman+knowledge](brahma+vidyāṃ) [he](sa) [having-known](vijñāya) [womb+dwelling](garbha+vāsaṃ) [not](na) [would-touch](saṃspṛśet)
+[Brahman-knowledge](brahmavidyāṃ) [he](sa) [having-known](vijñāya) [womb-residence](garbhavāsaṃ) [not](na) [touches](saṃspṛśet) [not](na) [sees](paśyati)
 
 ## mukta-m0-p115-v2866
-[for-a-year](saṃvatsaram) [having-fasted](upoṣitvā) [for-a-month](māsa+mātram) [or+also](atha+api) [or](vā)
+[for-a-year](saṃvatsaram) [having-fasted](upoṣitvā) [for-a-month](māsamātram) [or-else](athāpi) [or](vā)
 
 ## mukta-m0-p115-v2867
-[of-mandāra](mandārasya) [in-northern+part](uttare+bhāge) [yāmilā](yāmilā) [blood+colored](rakta+sannibhā)
+[of-Mandāra](mandārasyottare) [in-northern-part](bhāge) [Yāmilā](yāmilā) [blood-colored](raktasannibhā)
 
 ## mukta-m0-p115-v2868
-[with-armor](kavacena) [indeed](tu) [she](sā) [to-be-worshipped](pūjyā) [dharma+wealth+desire+giving](dharma+artha+kāma+dāyinī)
+[with-armor](kavacena) [indeed](tu) [she](sā) [to-be-worshipped](pūjyā) [dharma-wealth-desire-giving](dharmārthakāmadāyinī)
 
 ## mukta-m0-p115-v2869
-[jayā](jayāñ) [and](ca) [vijayā](vijayāñ) [and](ca) [indeed](eva) [bhadrakālī](bhadrakālīṃ) [kapālinī](kapālinīm)
+[Jayā](jayāñca) [and](ca) [Vijayā](vijayāñca) [and](eva) [Bhadrakālī](bhadrakālīṃ) [Kapālinī](kapālinīm)
 
 ## mukta-m0-p115-v2870
-[in-the-middle](madhye) [bhavānī](bhavānīṃ) [kālī](kālīṃ) [and](ca) [kālarātri](kālarātriṃ) [and](ca) [one-should-worship](saṃyajet)
+[in-the-middle](madhye) [Bhavānī](bhavānīṃ) [Kālī](kālīṃ) [and](ca) [Kālarātri](kālarātriṃ) [and](ca) [one-should-worship](saṃyajet)
 
 ## mukta-m0-p115-v2871
-[by-meditation](dhyānena) [meditation](dhyānaṃ) [one-should-do](kuryāt) [hear](śṛṇu) [meditation](dhyānaṃ) [my](mama) [o-beloved](priye)
+[by-meditation](dhyānena) [meditation](dhyānaṃ) [by-vyāna](vyānena) [one-should-do](kuryāt) [hear](śṛṇu) [meditation](dhyānaṃ) [my](mama) [dear](priye)
 
 ## mukta-m0-p115-v2872
-[with-terrible+loud+laughs](ghorair+aṭṭāṭṭa+hāsair) [sin+hundred+removing](durita+śata+harāṃ) [kālarātri](kālarātriṃ) [I-worship](bhajāmi)
+[with-terrible](ghorair) [loud-laughs](aṭṭāṭṭahāsair) [remover-of-hundreds-of-sins](duritaśataharāṃ) [Kālarātri](kālarātriṃ) [I-worship](bhajāmi)
 
 ## mukta-m0-p115-v2873
-[o-universe+formed](viśva+mūrte) [o-auspicious](śubhe) [o-pure](śuddhe) [o-odd-eyed](virūpākṣi) [o-three-eyed](trilocane)
+[O-universal-form](viśvamūrte) [O-auspicious](śubhe) [O-pure](śuddhe) [O-odd-eyed](virūpākṣi) [O-three-eyed](trilocane)
 
 ## mukta-m0-p115-v2874
-[o-great-night](mahārātri) [o-variegated+limbed](vicitra+aṅge) [o-secret+dance+loving](gopa+nṛtya+priye) [o-auspicious](śubhe)
+[O-great-night](mahārātri) [O-wondrous-limbed](vicitrāṅge) [O-fond-of-secret-dance](gopanṛtyapriye) [O-auspicious](śubhe)
 
 ## mukta-m0-p115-v2875
-[o-cāmuṇḍā](cāmuṇḍe) [o-skull+garland+faced](muṇḍa+mālā+āsye) [o-sharp+fanged](tīkṣṇa+daṃṣṭre) [o-great+strength](mahā+bale)
+[O-Cāmuṇḍā](cāmuṇḍe) [O-skull-garland-faced](muṇḍamālāsye) [O-sharp-fanged](tīkṣṇadaṃṣṭre) [O-great-knowledge](mahāvidye) [O-great-strength](mahābale)
