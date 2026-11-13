@@ -1,0 +1,497 @@
+{
+ "song": "sva-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "ritual or operative action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śakteḥ",
+     "gloss": "of-power",
+     "grounds": "power or energy as source",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "ritual placement or installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "ritual-action",
+     "grounds": "repeated term emphasizing operative rite",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the placement of power constituted as ritual action?",
+   "premises": [
+    "Action is named explicitly",
+    "Power is the source indicated",
+    "Placement is identified as action"
+   ],
+   "inference": "The placement of power is itself a form of ritual action.",
+   "uncertainties": [
+    "Fragmentary token list without full syntactic context",
+    "Specific ritual referent of nyāsa is unclear"
+   ],
+   "plain_english": "The placement of power is an act of ritual action."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "aṅguṣṭha",
+     "gloss": "thumb",
+     "grounds": "digit used in ritual gesture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tarjanī",
+     "gloss": "index-finger",
+     "grounds": "forefinger used in ritual gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "choṭikā",
+     "gloss": "snap",
+     "grounds": "snapping gesture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "astra",
+     "gloss": "weapon",
+     "grounds": "mantric weapon or protective implement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which hand elements constitute the weapon gesture in ritual action?",
+   "premises": [
+    "Thumb is named",
+    "Index finger is named",
+    "Snap and weapon are specified"
+   ],
+   "inference": "The thumb, index finger, and snap together form the weapon gesture.",
+   "uncertainties": [
+    "Exact gesture sequence is not specified",
+    "Fragmentary context limits procedural detail"
+   ],
+   "plain_english": "The thumb, index finger, snap, and weapon belong to the ritual weapon gesture."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "puryaṣṭaka",
+     "gloss": "eightfold-city",
+     "grounds": "subtle eightfold body or city",
+     "morph": "n.nom.sg (compound: purī+eight)"
+    },
+    {
+     "surface": "śarīra",
+     "gloss": "body",
+     "grounds": "bodily form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavi",
+     "grounds": "form or power of Bhairavi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartum",
+     "gloss": "to-make",
+     "grounds": "act of forming or constructing",
+     "morph": "infinitive (√kṛ)"
+    }
+   ],
+   "question": "What form is to be made as the Bhairavi body of the eightfold city?",
+   "premises": [
+    "The eightfold city is named",
+    "Body is specified",
+    "Bhairavi is the form to be made"
+   ],
+   "inference": "The practitioner is to make the eightfold city as the Bhairavi body.",
+   "uncertainties": [
+    "Agent of the action is not stated",
+    "Relation between eightfold city and body is compressed"
+   ],
+   "plain_english": "One is to make the eightfold city as the Bhairavi body."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "smaraṇa-mātreṇa",
+     "gloss": "by-mere-remembrance",
+     "grounds": "remembrance alone as sufficient means",
+     "morph": "n.ins.sg (compound: remembrance+mere)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-create",
+     "grounds": "mental creation or visualization",
+     "morph": "3.sg.act-optative (√kḷp)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks reported meaning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "intended sense or purport",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what means alone should the envisioned form be created?",
+   "premises": [
+    "Mere remembrance is specified as means",
+    "Creation is prescribed",
+    "This is stated as the meaning"
+   ],
+   "inference": "The form should be created by mere remembrance alone.",
+   "uncertainties": [
+    "Object of creation is implied from prior context",
+    "Scope of remembrance is unspecified"
+   ],
+   "plain_english": "The meaning is that one should create it by mere remembrance."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "bhīma",
+     "gloss": "terrible",
+     "grounds": "fearsome quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikrama",
+     "gloss": "valiant",
+     "grounds": "powerful stride or prowess",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vīra",
+     "gloss": "heroes",
+     "grounds": "heroic beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ugra",
+     "gloss": "fierce",
+     "grounds": "intense or wrathful quality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fierce heroic qualities characterize the beings invoked in this context?",
+   "premises": [
+    "Terrible quality is named",
+    "Valiant quality is named",
+    "Heroes and fierceness are named"
+   ],
+   "inference": "The invoked beings are characterized as terrible, valiant, and fierce heroes.",
+   "uncertainties": [
+    "Identity of the heroes is not specified",
+    "Grammatical agreement across tokens is unclear in isolation"
+   ],
+   "plain_english": "Terrible, valiant, fierce heroes are indicated."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "gātra",
+     "gloss": "limbs",
+     "grounds": "bodily parts",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kāṇi",
+     "gloss": "some-parts",
+     "grounds": "certain unspecified parts",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ajñāta",
+     "gloss": "unknown",
+     "grounds": "not known or not understood",
+     "morph": "m.nom.sg (compound: not+known)"
+    },
+    {
+     "surface": "artha",
+     "gloss": "meaning",
+     "grounds": "sense or purport",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the status of the meaning of certain bodily parts in this passage?",
+   "premises": [
+    "Limbs or parts are mentioned",
+    "Some parts are indicated",
+    "Meaning is described as unknown"
+   ],
+   "inference": "The meaning of certain bodily parts remains unknown.",
+   "uncertainties": [
+    "Which limbs are intended is unclear",
+    "Fragmentary phrasing obscures full claim"
+   ],
+   "plain_english": "The meaning of some limbs or parts is unknown."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "prarohati",
+     "gloss": "sprouts",
+     "grounds": "arises or grows forth",
+     "morph": "3.sg.act-present (pra-√ruh)"
+    },
+    {
+     "surface": "utpatti",
+     "gloss": "origin",
+     "grounds": "arising or birth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ucchettum",
+     "gloss": "to-cut-off",
+     "grounds": "to sever or eradicate",
+     "morph": "infinitive (ud-√chid)"
+    },
+    {
+     "surface": "idṛk",
+     "gloss": "such",
+     "grounds": "of this kind",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What arises in such a way that its origin must be cut off?",
+   "premises": [
+    "Something sprouts or arises",
+    "Origin is named",
+    "Cutting off is indicated"
+   ],
+   "inference": "What sprouts in this way has an origin that must be cut off.",
+   "uncertainties": [
+    "Subject of sprouting is not stated",
+    "Referent of such is unclear without context"
+   ],
+   "plain_english": "Such a thing sprouts, and its origin is to be cut off."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "spaṣṭa",
+     "gloss": "clear",
+     "grounds": "evident or manifest",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "the matter at hand",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "spaṣṭa",
+     "gloss": "clear",
+     "grounds": "repeated emphasis on clarity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "artha",
+     "gloss": "meaning",
+     "grounds": "sense or purport",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the meaning of this matter characterized in the text?",
+   "premises": [
+    "This is indicated",
+    "Clarity is asserted",
+    "Meaning is explicitly named"
+   ],
+   "inference": "The meaning of this matter is clear.",
+   "uncertainties": [
+    "Referent of this is not specified",
+    "Fragmentary form may be explanatory gloss"
+   ],
+   "plain_english": "This meaning is clear."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "sthāpanīya",
+     "gloss": "to-be-established",
+     "grounds": "fit to be installed or fixed",
+     "morph": "m.nom.sg (gerundive, √sthā)"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "to-be-placed",
+     "grounds": "fit to be set in place",
+     "morph": "m.nom.sg (gerundive, √sthā)"
+    },
+    {
+     "surface": "sthira",
+     "gloss": "fixed",
+     "grounds": "stable or unmoving",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhruva",
+     "gloss": "steady",
+     "grounds": "firm or enduring",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities define what must be established in a stable state?",
+   "premises": [
+    "Establishment is required",
+    "Placement is required",
+    "Fixity and steadiness are named"
+   ],
+   "inference": "What is to be established must be placed as fixed and steady.",
+   "uncertainties": [
+    "Object to be established is not stated",
+    "Tokens may be near-synonyms without full syntax"
+   ],
+   "plain_english": "It is to be established, placed, fixed, and steady."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "prakāśa",
+     "gloss": "radiance",
+     "grounds": "luminosity or manifestation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āhlāda",
+     "gloss": "bliss",
+     "grounds": "joy or delight",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayī",
+     "gloss": "filled-with",
+     "grounds": "consisting of or pervaded by",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "artha",
+     "gloss": "meaning",
+     "grounds": "sense or purport",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of a state filled with radiance and bliss?",
+   "premises": [
+    "Radiance is named",
+    "Bliss is named",
+    "A state filled with them is indicated"
+   ],
+   "inference": "The meaning points to a state filled with radiance and bliss.",
+   "uncertainties": [
+    "Subject described as filled is not explicit",
+    "Doctrinal referent may depend on prior verses"
+   ],
+   "plain_english": "The meaning is a state filled with radiance and bliss."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "consequence from prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsana",
+     "gloss": "seat",
+     "grounds": "support or base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśva",
+     "gloss": "universe",
+     "grounds": "all or totality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is the universe identified as the seat in this doctrinal context?",
+   "premises": [
+    "A consequence is indicated",
+    "Seat is named",
+    "Universe is named"
+   ],
+   "inference": "Therefore the universe itself is identified as the seat.",
+   "uncertainties": [
+    "Prior reasoning is not included in this fragment",
+    "Nature of the seat is unspecified"
+   ],
+   "plain_english": "Therefore, the universe itself is the seat."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "daśīta",
+     "gloss": "shown",
+     "grounds": "made visible or indicated",
+     "morph": "m.nom.sg (past participle-like form)"
+    },
+    {
+     "surface": "darśita",
+     "gloss": "displayed",
+     "grounds": "exhibited or demonstrated",
+     "morph": "m.nom.sg (past participle, causative √dṛś)"
+    },
+    {
+     "surface": "prakāśita",
+     "gloss": "revealed",
+     "grounds": "made manifest or illuminated",
+     "morph": "m.nom.sg (past participle, causative pra-√kāś)"
+    },
+    {
+     "surface": "artha",
+     "gloss": "meaning",
+     "grounds": "sense or purport",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In what manner has the intended meaning been made manifest?",
+   "premises": [
+    "Showing is indicated",
+    "Displaying is indicated",
+    "Revealing is indicated"
+   ],
+   "inference": "The meaning has been shown, displayed, and revealed.",
+   "uncertainties": [
+    "Form daśīta is unusual and may reflect textual variation",
+    "Agent and object are not explicitly stated"
+   ],
+   "plain_english": "The meaning has been shown, displayed, and revealed."
+  }
+ ]
+}
