@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 181,
- "question": "Who accompanies the Śatarudra lord in governing the next domain?",
+ "question": "To whom is the preceding purification instruction addressed?",
  "premises": [
-  "The Śatarudra lord is included in the hierarchy.",
-  "He is associated with accompanying groups.",
-  "Those groups are five octads."
+  "The verse contains a vocative-style epithet.",
+  "The epithet denotes a twice-born person.",
+  "The epithet marks the addressee as most excellent."
  ],
- "inference": "Therefore the Śatarudra lord governs together with five octads.",
- "uncertainties": [],
- "plain_english": "And the Śatarudra lord also governs together with five octads."
+ "inference": "The instruction is addressed to the most excellent twice-born one.",
+ "uncertainties": [
+  "Epithet is split across four tokens as transmitted."
+ ],
+ "plain_english": "O most excellent twice-born one."
 }

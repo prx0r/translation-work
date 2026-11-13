@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[bhiksu](bhikṣave) [namas](namaḥ) [bhiksu-rupa](bhikṣurūpāya) [namas](namaḥ) [vipana](vipaṇāya) [namas](namaḥ)
+[to-the-mendicant](bhikṣave) [obeisance](namaḥ) [to-the-one-in-mendicant+form](bhikṣurūpāya) [obeisance](namaḥ) [to-the-seller](vipaṇāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3027
-[vajra-hasta](vajrahastāya) [namas](namaḥ) [viskambhin](viṣkambhine) [namas](namaḥ)
+[to-the-thunderbolt+handed](vajrahastāya) [obeisance](namaḥ) [to-the-unobstructed-one](viṣkambhine) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3028
-[camu-stambhana](camūstambhanāya) [namas](namaḥ) [vrtta-avrtta-kara](vṛttāvṛttakarāya) [namas](namaḥ)
+[to-the-army+paralyzer](camūstambhanāya) [obeisance](namaḥ) [to-the-maker-of-turned+and-unturned](vṛttāvṛttakarāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3029
-[tala](tālāya) [namas](namaḥ) [madha](madhave) [namas](namaḥ) [madhu-locana](madhukalocanāya) [namas](namaḥ)
+[to-the-palm-tree](tālāya) [obeisance](namaḥ) [to-madhu](madhave) [obeisance](namaḥ) [to-the-honey+brown+eyed](madhukalocanāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3030
-[vacas-pati](vācaspatyāya) [namas](namaḥ) [vaja-sana](vājasanāya) [namas](namaḥ)
+[to-the-lord-of-speech](vācaspatyāya) [obeisance](namaḥ) [to-the-vigorous-one](vājasanāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3031
-[asrama-pujita](āśramapūjitāya) [namas](namaḥ) [brahma-carin](brahmacāriṇe) [namas](namaḥ)
+[to-the-one-honored-by-hermitages](āśramapūjitāya) [obeisance](namaḥ) [to-the-celibate-student](brahmacāriṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3032
-[loka-carin](lokacāriṇe) [namas](namaḥ) [sarva-carin](sarvacāriṇe) [namas](namaḥ) [vicara-vid](vicāravide) [namas](namaḥ)
+[to-the-world+wanderer](lokacāriṇe) [obeisance](namaḥ) [to-the-all+wanderer](sarvacāriṇe) [obeisance](namaḥ) [to-the-knower-of-inquiry](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-[isana](īśānāya) [namas](namaḥ) [isvara](īśvarāya) [namas](namaḥ) [kala](kālāya) [namas](namaḥ)
+[to-the-lord](īśānāya) [obeisance](namaḥ) [to-the-sovereign](īśvarāya) [obeisance](namaḥ) [to-time](kālāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3034
-[nisa-carin](niśācāriṇe) [namas](namaḥ) [pinaka-dhrs](pinākadhṛṣe) [namas](namaḥ) [nimitta-stha](nimittasthāya) [namas](namaḥ)
+[to-the-night+wanderer](niśācāriṇe) [obeisance](namaḥ) [to-the-bearer-of-pināka](pinākadhṛṣe) [obeisance](namaḥ) [to-the-one-abiding-in-signs](nimittasthāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3035
-[nimitta](nimittāya) [namas](namaḥ) [nanday](nandaye) [namas](namaḥ) [nandikara](nandika rāya) [namas](namaḥ)
+[to-the-cause](nimittāya) [obeisance](namaḥ) [to-nandi](nandaye) [obeisance](namaḥ) [to-the-joy+maker](nandikarāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3036
-[hara](haraye) [namas](namaḥ) [nandi-isvara](nandīśvarāya) [namas](namaḥ) [nandin](nandine) [namas](namaḥ)
+[to-the-remover](haraye) [obeisance](namaḥ) [to-the-lord-of-nandi](nandīśvarāya) [obeisance](namaḥ) [to-the-delighted-one](nandine) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3037
-[nihantr](nihantr) [namas](namaḥ) [kala](kālāya) [namas](namaḥ) [brahman](brahmaṇe) [namas](namaḥ)
+[to-the-destroyer](nihantrenamaḥ) [obeisance](namaḥ) [to-time](kālāya) [obeisance](namaḥ) [to-brahman](brahmaṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3038
-[pita-maha](pitāmahāya) [namas](namaḥ) [catur-mukha](caturmmukhāya) [namas](namaḥ)
+[to-the-grandfather](pitāmahāya) [obeisance](namaḥ) [to-the-four+faced](caturmmukhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3039
-[maha-linga](mahāliṅgāya) [namas](namaḥ) [caru-linga](cāruliṅgāya) [namas](namaḥ)
+[to-the-great+liṅga](mahāliṅgāya) [obeisance](namaḥ) [to-the-beautiful+liṅga](cāruliṅgāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3040
-[linga-adhyaksa](liṅgādhyakṣāya) [namas](namaḥ) [sura-adhyaksa](surādhyakṣāya) [namas](namaḥ)
+[to-the-overseer-of-liṅgas](liṅgādhyakṣāya) [obeisance](namaḥ) [to-the-overseer-of-gods](surādhyakṣāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3041
-[yoga-adhyaksa](yogādhyakṣāya) [namas](namaḥ) [yuga-avaha](yugāvahāya) [namas](namaḥ)
+[to-the-overseer-of-yoga](yogādhyakṣāya) [obeisance](namaḥ) [to-the-bringer-of-ages](yugāvahāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3042
-[ bija-adhyaksa](bījādhyakṣāya) [namas](namaḥ) [bija-kartr](bījakarttre) [namas](namaḥ)
+[to-the-overseer-of-seeds](bījādhyakṣāya) [obeisance](namaḥ) [to-the-maker-of-seeds](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-[adhyatma-anugata](adhyātmānugatāya) [namas](namaḥ) [bala](balāya) [namas](namaḥ) [itihasa](itihāsāya) [namas](namaḥ)
+[to-the-one-following-the-inner-self](adhyātmānugatāya) [obeisance](namaḥ) [to-strength](balāya) [obeisance](namaḥ) [to-tradition](itihāsāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3044
-[vasya](vaśyāya) [namas](namaḥ) [vasa-kara](vaśakarāya) [namas](namaḥ) [kala](kalaye) [namas](namaḥ)
+[to-the-controllable-one](vaśyāya) [obeisance](namaḥ) [to-the-subduer](vaśakarāya) [obeisance](namaḥ) [to-the-art](kalaye) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3045
-[loka-kartr](lokakarttre) [namas](namaḥ) [pasu-pati](paśupataye) [namas](namaḥ) [maha-kartr](mahākarttre) [namas](namaḥ)
+[to-the-maker-of-worlds](lokakarttrenamaḥ) [to-the-lord-of-beings](paśupatayenamaḥ) [to-the-great+maker](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-[anausadha](anauṣadhāya) [namas](namaḥ) [aksara](akṣarāya) [namas](namaḥ) [parama-brahman](paramabrahmaṇe) [namas](namaḥ)
+[to-the-one-without-herbs](anauṣadhāya) [obeisance](namaḥ) [to-the-imperishable](akṣarāya) [obeisance](namaḥ) [to-the-supreme+brahman](paramabrahmaṇe) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3047
-[balavat](balavate) [namas](namaḥ) [sakra](śakrāya) [namas](namaḥ) [nita](nītaye) [namas](namaḥ)
+[to-the-powerful-one](balavatenamaḥ) [to-śakra](śakrāya) [obeisance](namaḥ) [to-conduct](nītaye) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3048
-[anita](anītaye) [namas](namaḥ) [suddha-atman](śuddhātmane) [namas](namaḥ) [suddha](śuddhāya) [namas](namaḥ)
+[to-misconduct](anītaye) [obeisance](namaḥ) [to-the-pure+self](śuddhātmanenamaḥ) [to-the-pure-one](śuddhāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3049
-[manya](mānyāya) [namas](namaḥ) [gata-agata](gatāgatāya) [namas](namaḥ) [bahu-prasada](bahuprasādāya) [namas](namaḥ)
+[to-the-honorable-one](mānyāya) [obeisance](namaḥ) [to-the-gone+and-come](gatāgatāya) [obeisance](namaḥ) [to-the-one-of-many+favors](bahuprasādāya) [obeisance](namaḥ)
 
 ## mukta-m0-p122-v3050
-[veda-kara](vedakārāya) [namas](namaḥ) [mantra-kara](mantrakārāya) [namas](namaḥ) [vidus](viduṣe) [namas](namaḥ)
+[to-the-maker-of-vedas](vedakārāya) [obeisance](namaḥ) [to-the-maker-of-mantras](mantrakārāya) [obeisance](namaḥ) [to-the-wise-one](viduṣe) [obeisance](namaḥ)

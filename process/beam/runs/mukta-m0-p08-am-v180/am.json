@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p08",
  "verse": 180,
- "question": "Which range of worlds is governed by the Kālāhāṭaka lords?",
+ "question": "By what mantra and substance should the rosary be purified?",
  "premises": [
-  "A range of worlds is specified.",
-  "That range begins with hell.",
-  "That range ends with the world of truth."
+  "Purification requires a mantra.",
+  "The sadyojāta mantra is specified.",
+  "Water is used as the purifying substance."
  ],
- "inference": "Therefore the Kālāhāṭaka lords govern the worlds from hell up to the world of truth.",
- "uncertainties": [],
- "plain_english": "The range from hell up to the world of truth is governed by the Kālāhāṭaka lords."
+ "inference": "The rosary should be purified with water using the sadyojāta mantra.",
+ "uncertainties": [
+  "Tokenization splits sadyojāta and sajjalaiḥ across rows as given."
+ ],
+ "plain_english": "One should purify it with water using the sadyojāta mantra."
 }

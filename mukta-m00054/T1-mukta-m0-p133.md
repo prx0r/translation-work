@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p133-v3301
-[than+the+terrible](aghorāt) [other](aparaḥ) [mantra](mantraḥ) [not+is](na+asti) [than+the+principle](tattvena) [than+the+guru](guroḥ) [higher](param)
+[than-aghora](aghorāt) [not](na) [other](aparaḥ) [mantra](mantro) [not](na) [exists](asti) [than-truth](tattvaṅ) [than-guru](guroḥ) [higher](param)
 
 ## mukta-m0-p133-v3302
-[of+greatness](mahimnaḥ) [of+the+hymn+of+praise](stavapāṭhasya) [a+sixteenth+part](kalā) [not+are+worthy](na+arhanti) [sixteenth](ṣoḍaśīm)
+[of-greatness](mahimnaḥ) [of-praise](stava) [of-recitation](pāṭhasya) [a-part](kalām) [not](na) [they-deserve](arhanti) [sixteenth](ṣoḍaśīm)
 
 ## mukta-m0-p133-v3303
-[incomparable](anaupamyam) [charming](manohāri) [meritorious](puṇya) [by+Gandharvas](gandharva) [spoken](bhāṣitam)
+[incomparable](anaupamyam) [mind-captivating](manohāri) [meritorious](puṇyaṅ) [by-gandharva](gandharva) [spoken](bhāṣitam)
 
 ## mukta-m0-p133-v3304
-[from+anger](roṣāt) [this+hymn+of+praise](stavam+idam) [made](akārṣīt) [divine+divine](divya+divyam) [of+greatness](mahimnaḥ)
+[from-anger](roṣāt) [praise](stavanam) [this](idam) [made](akārṣīd) [divine](divya) [divine](divyam) [of-greatness](mahimnaḥ)
 
 ## mukta-m0-p133-v3305
-[this+hymn+of+praise](stavam+idam) [infallible](amogham) [by+Puṣpadanta](puṣpadanta) [composed](praṇītam)
+[praise](stavanam) [this](idam) [unfailing](amogham) [by-puṣpadanta](puṣpadanta) [composed](praṇītam)
 
 ## mukta-m0-p133-v3306
-[becomes](bhavati) [lord+of+beings](bhūta+patiḥ) [great+lord](mahā+īśaḥ)
+[becomes](bhavati) [lord-of-beings](bhūtapatir) [great-lord](mmaheśaḥ)
 
 ## mukta-m0-p133-v3307
-[in+the+young+moon](kiśora+candra) [crested+one](śekhare) [attachment](ratiḥ) [at+every+moment](pratikṣaṇam) [my](mama)
+[in-young](kiśora) [moon](candra) [crested](śekhare) [delight](ratiḥ) [every-moment](pratikṣaṇam) [my](mama)
 
 ## mukta-m0-p133-v3308
-[mind](manaḥ) [delight](vinodam) [wonderful](adbhutam) [may+bear](bibhartu) [in+the+lord+of+beings](bhūta+bharttari)
+[mind](mano) [delight](vinodam) [wonderful](adbhutam) [may-bear](bibharttu) [in-lord-of-beings](bhūtabharttari)
 
 ## mukta-m0-p133-v3309
-[of+great+skull](mahā+kapāla) [to+the+wealth](sampade) [with+river](sarij) [matted+hair](jaṭā) [may+be](alam) [to+us](naḥ)
+[of-great](mahā) [skull-bearer](kapāli) [for-prosperity](sampade) [river](sarij) [matted-hair](jaṭālam) [be](astu) [to-us](naḥ)
 
 ## mukta-m0-p133-v3310
-[for+prosperity](śriyai) [for+long+time](cirāya) [may+arise](jāyatām) [moon+friend](cakorabandhu) [crested+one](śekharaḥ)
+[for-prosperity](śriyai) [for-long](cirāya) [may-be](jāyatāñ) [of-cakora](cakora) [friend](bandhu) [crested](śekharaḥ)
 
 ## mukta-m0-p133-v3311
-[in+the+sole+artist](prakalpanā+eka+śilpini) [in+the+three+eyed+one](trilocane) [attachment](ratiḥ) [my](mama)
+[in-sole](prakalpana) [one](eka) [artist](śilpini) [in-three-eyed](trilocane) [delight](ratir) [my](mmama)
 
 ## mukta-m0-p133-v3312
-[moon+treasure](kalā+nidhāna) [beautiful](bandhuraḥ) [prosperity](śriyam) [world](jagat) [supporter](dhurandharaḥ)
+[with-digit](kalā) [treasure](nidhāna) [adorned](bandhuraḥ) [prosperity](śriyañ) [of-world](jagat) [bearer-of-burden](dhurandharaḥ)
 
 ## mukta-m0-p133-v3313
-[sacrifice+destroyer](makha+chidām) [darkness+destroyer](andhaka+chidām) [end+destroyer](antaka+chidām) [I+worship](ambhaje)
+[of-sacrifice](makha) [slayer](chidā) [of-andhaka](andhaka) [slayer](chid) [of-antaka](antamantaka) [slayer](chidam) [I-worship](bhaje)
 
 ## mukta-m0-p133-v3314
-[elephant+slayer](gajāntaka) [darkness+slayer](andhakāntaka) [end+slayer](antakāntaka) [I+worship](ambhaje)
+[of-elephant](gaja) [slayer](antaka) [of-andhaka](andhaka) [slayer](antak) [of-antaka](antam) [slayer](antaka) [of-antaka](antakam) [I-worship](bhaje)
 
 ## mukta-m0-p133-v3315
-[by+rhythm+order](dhvani+krama) [set+in+motion](pravarttita) [fierce](pracaṇḍa) [tāṇḍava](tāṇḍavaḥ) [Śiva](śivaḥ)
+[by-sound](dhvani) [sequence](krama) [set-forth](pravarttita) [fierce](pracaṇḍa) [dance](tāṇḍavaḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p133-v3316
-[of+equal+course](sama+pravṛttikaḥ) [when](kadā) [ever](sadā) [Sadāśiva](sadāśivam) [I+worship](bhajāmi) [I](aham)
+[with-equal](sama) [engagement](pravṛttikaḥ) [when](kadā) [ever-auspicious](sadāśivam) [I-shall-worship](bhajāmyaham)
 
 ## mukta-m0-p133-v3317
-[Śiva](śiva) [thus](iti) [mantra](mantram) [uttering](uccaran) [ever](sadā) [happy](sukhī) [become](bhavāmi) [I](aham)
+[śiva](śiveti) [mantra](mantram) [uttering](uccaran) [always](sadā) [happy](sukhī) [I-become](bhavāmyaham)
 
 ## mukta-m0-p133-v3318
-[of+supreme+prosperity](para+śriyaḥ) [supreme+state](param+padaṃ) [that](tad) [limb-born](aṅgaja) [rays](tviṣām) [multitude](cayaḥ)
+[of-supreme](para) [prosperity](śriyaḥ) [supreme](param) [state](padam) [then](tad) [body-born](aṅgaja) [splendor](tviṣāñ) [mass](cayaḥ)
 
 ## mukta-m0-p133-v3319
-[Śiva](śiva) [thus](iti) [mantra](mantra) [ornament](bhūṣaṇā) [world](jagat) [for+victory](jayāya) [may+arise](jāyatām)
+[with-śiva](śiva) [thus](iti) [mantra](mantra) [adorned](bhūṣaṇā) [for-world](jagat) [victory](jayāya) [may-be](jāyatām)
 
 ## mukta-m0-p133-v3320
-[thousand+handed](sahasra+karam) [very+fierce](ati+ugram) [I+salute](vande) [Śambhu](śambhum) [Umā+lord](umā+patim)
+[thousand](sahasra) [rayed](karam) [very-fierce](atyugra) [I-bow](vvande) [to-śambhu](śambhum) [husband-of-umā](umāpatim)
 
 ## mukta-m0-p133-v3321
-[victory+giving](jaya+pradam) [all](sarva) [calamities](vipat) [liberation](pramocana) [I+shall+speak](vakṣyāmi) [Śaiva](śaivam) [armor](kavacam) [for+benefit](hitāya) [to+thee](te)
+[victory](jaya) [giving](pradam) [of-all](sarva) [calamities](vipat) [liberation](pramocana) [I-shall-speak](vvakṣyāmi) [śaiva](śaivaṅ) [armor](kavacaṃ) [for-your-benefit](hitāya) [to-you](te)
 
 ## mukta-m0-p133-v3322
-[I+shall+declare](vakṣye) [Śiva+made](śivamayam) [armor](varmam) [all](sarva) [protection+making](rakṣā+karam) [of+men](nṛṇām)
+[I-shall-speak](vakṣye) [consisting-of-śiva](śivamaya) [armor](vvarma) [all](sarva) [protection](rakṣā) [making](karan) [for-men](nṛṇām)
 
 ## mukta-m0-p133-v3323
-[conquered+senses](jita+indriyaḥ) [conquered+breath](jita+prāṇaḥ) [may+contemplate](cintayet) [Śiva](śivam) [un-decaying](avyayam)
+[senses-conquered](jitendriyo) [breath-conquered](jitaprāṇaḥ) [one-should-meditate](cintayec) [on-śiva](chivam) [imperishable](avyayam)
 
 ## mukta-m0-p133-v3324
-[beyond+senses](atīndriyam) [subtle](sūkṣmam) [infinite](anantam) [primordial](ādyam) [may+meditate](dhyāyet) [supreme+bliss+full](parānanda+mayam) [great+lord](maheśam)
+[beyond-senses](atīndriyaṃ) [subtle](sūkṣmam) [endless](anantam) [primordial](ādyan) [one-should-meditate](dhyāyet) [supreme](para) [bliss](ānanda) [consisting-of](mayam) [great-lord](maheśam)
 
 ## mukta-m0-p133-v3325
-[six-syllabled](ṣaḍakṣara) [nyāsa](nyāsa) [well+composed+mind](samāhita+ātmā) [by+Śaiva](śaivena) [should+make](kuryāt) [armor](kavacena) [protection](rakṣām)
+[of-six](ṣaḍ) [syllable](akṣara) [placement](nyāsa) [composed](samāhita) [self](ātmā) [with-śaiva](śaivena) [one-should-make](kuryāt) [with-armor](kavacena) [protection](rakṣām)

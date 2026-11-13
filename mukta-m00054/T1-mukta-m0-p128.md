@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-[jewel+limbed](ratnāṅgāya) [obeisance](namaḥ) [great+ocean+drinking+knower](mahārṇavanipānavide) [obeisance](namaḥ)
+[jewel](ratna) [+limbed-to](aṅgāya) [+homage](namaḥ) [great](mahā) [+ocean](arṇava) [+drinking](nipāna) [+knower-to](vide) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3177
-[root](mūlāya) [obeisance](namaḥ) [vast](viśālāya) [obeisance](namaḥ) [immortal](amṛtāya) [obeisance](namaḥ)
+[root-to](mūlāya) [+homage](namaḥ) [vast-to](viśālāya) [+homage](namaḥ) [immortal-to](amṛtāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3178
-[manifest+unmanifest](vyaktāvyaktāya) [obeisance](namaḥ) [austerity+treasure](taponidhaye) [obeisance](namaḥ) [ascent](ārohaṇāya) [obeisance](namaḥ)
+[manifest](vyakta) [+unmanifest-to](avyaktāya) [+homage](namaḥ) [austerity](tapas) [+treasure-to](nidhaye) [+homage](namaḥ) [ascent-to](ārohaṇāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3179
-[obeisance](namaḥ) [mounting](adhirodhāya) [obeisance](namaḥ) [trident+bearer](śūladhāriṇe) [obeisance](namaḥ)
+[ascent-to](adhirodhāya) [+homage](namaḥ) [trident](śūla) [+bearer-to](dhāriṇe) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3180
-[great+fame](mahāyaśase) [obeisance](namaḥ) [army+fashioner](senākalpāya) [obeisance](namaḥ) [great+fashioner](mahākalpāya) [obeisance](namaḥ)
+[great](mahā) [+fame-to](yaśase) [+homage](namaḥ) [army](senā) [+arrangement-to](kalpāya) [+homage](namaḥ) [great](mahā) [+arrangement-to](kalpāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3181
-[obeisance](namaḥ) [yoga](yogāya) [obeisance](namaḥ) [age+maker](yugakarāya) [obeisance](namaḥ) [tawny](haraye) [obeisance](namaḥ)
+[yoga-to](yogāya) [+homage](namaḥ) [age](yuga) [+maker-to](karāya) [+homage](namaḥ) [tawny-one-to](haraye) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3182
-[age+form](yugarūpāya) [obeisance](namaḥ) [great+form](mahārūpāya) [obeisance](namaḥ)
+[age](yuga) [+form-to](rūpāya) [+homage](namaḥ) [great](mahā) [+form-to](rūpāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3183
-[great+serpent+slayer](mahānāgahanāya) [obeisance](namaḥ) [slaying](vadhāya) [obeisance](namaḥ)
+[great](mahā) [+serpent](nāga) [+slayer-to](hanāya) [+homage](namaḥ) [slaying-to](vadhāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3184
-[justice+bestower](nyāyanirvapaṇāya) [obeisance](namaḥ) [foot](pādāya) [obeisance](namaḥ) [learned](paṇḍitāya) [obeisance](namaḥ)
+[justice](nyāya) [+distribution-to](nirvapaṇāya) [+homage](namaḥ) [foot-to](pādāya) [+homage](namaḥ) [learned-one-to](paṇḍitāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3185
-[obeisance](namaḥ) [immovable+like](acalopamāya) [obeisance](namaḥ) [many+garlanded](bahumālāya) [obeisance](namaḥ)
+[mountain](acala) [+like-to](upamāya) [+homage](namaḥ) [many](bahu) [+garlanded-to](mālāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3186
-[great+garlanded](mahāmālāya) [obeisance](namaḥ) [hare+moon+beautiful+eyed](śaśiharasulocanāya) [obeisance](namaḥ)
+[great](mahā) [+garlanded-to](mālāya) [+homage](namaḥ) [hare](śaśi) [+hara](hara) [+beautiful](su) [+eyed-to](locanāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3187
-[vast+salt+well](vistāralavaṇakūpāya) [obeisance](namaḥ) [three+ages](triyugāya) [obeisance](namaḥ)
+[expanse](vistāra) [+salt](lavaṇa) [+well-to](kūpāya) [+homage](namaḥ) [three](tri) [+age-to](yugāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3188
-[obeisance](namaḥ) [jewel+pierced](maṇividdhāya) [obeisance](namaḥ) [matted-hair+bearer](jaṭādharāya) [obeisance](namaḥ)
+[jewel](maṇi) [+pierced-to](viddhāya) [+homage](namaḥ) [matted-hair](jaṭā) [+bearer-to](dharāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3189
-[point](bindave) [obeisance](namaḥ) [emission](visargāya) [obeisance](namaḥ) [beautiful+faced](sumukhāya) [obeisance](namaḥ)
+[dot-to](bindave) [+homage](namaḥ) [emission-to](visargāya) [+homage](namaḥ) [beautiful](su) [+faced-to](mukhāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3190
-[arrow](śarāya) [obeisance](namaḥ) [all+weapons](sarvāyudhāya) [obeisance](namaḥ) [companion](sahāya) [obeisance](namaḥ)
+[arrow-to](śarāya) [+homage](namaḥ) [all](sarva) [+weaponed-to](āyudhāya) [+homage](namaḥ) [companion-to](sahāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3191
-[offering](nivedanāya) [obeisance](namaḥ) [happily+born](sukhājātāya) [obeisance](namaḥ) [good+fragrance](sugandhārāya) [obeisance](namaḥ)
+[offering-to](nivedanāya) [+homage](namaḥ) [happiness](sukha) [+born-to](jātāya) [+homage](namaḥ) [good](su) [+fragrance-to](gandhārāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3192
-[obeisance](namaḥ) [great+bow](mahādhanuṣe) [obeisance](namaḥ) [fragrance+protector+lord](gandhapālibhagavate) [obeisance](namaḥ)
+[great](mahā) [+bow-to](dhanuṣe) [+homage](namaḥ) [fragrance](gandha) [+protector](pāli) [+lord-to](bhagavate) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3193
-[all+action+arising](sarvakarmotthānāya) [obeisance](namaḥ) [churning+abundant+wind](manthānabahulavāyave) [obeisance](namaḥ)
+[all](sarva) [+action](karma) [+arising-to](utthānāya) [+homage](namaḥ) [churning](manthāna) [+abundant](bahula) [+wind-to](vāyave) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3194
-[whole](sakalāya) [obeisance](namaḥ) [all+eyed](sarvalocanāya) [obeisance](namaḥ) [surface+clapping](talastālāya) [obeisance](namaḥ)
+[whole-to](sakalāya) [+homage](namaḥ) [all](sarva) [+eyed-to](locanāya) [+homage](namaḥ) [palm](talas) [+clapping-to](tālāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3195
-[obeisance](namaḥ) [parasol](chatrāya) [obeisance](namaḥ) [beautiful+parasol](succhatrāya) [obeisance](namaḥ)
+[umbrella-to](chatrāya) [+homage](namaḥ) [beautiful](su) [+umbrella-to](chatrāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3196
-[renowned+world](vikhyātalokāya) [obeisance](namaḥ) [all+refuge+order](sarvāśrayakramāya) [obeisance](namaḥ)
+[renowned](vikhyāta) [+world-to](lokāya) [+homage](namaḥ) [all](sarva) [+refuge](āśraya) [+order-to](kramāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3197
-[shaven](muṇḍāya) [obeisance](namaḥ) [deformed](virūpāya) [obeisance](namaḥ) [transformed](vikṛtāya) [obeisance](namaḥ)
+[shaven-headed-to](muṇḍāya) [+homage](namaḥ) [deformed-to](virūpāya) [+homage](namaḥ) [transformed-to](vikṛtāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3198
-[staff+bearer](daṇḍine) [obeisance](namaḥ) [earring+bearer](kuṇḍine) [obeisance](namaḥ) [transforming](vikurvāṇāya) [obeisance](namaḥ)
+[staff-bearer-to](daṇḍine) [+homage](namaḥ) [earring-bearer-to](kuṇḍine) [+homage](namaḥ) [transforming-to](vikurvāṇāya) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3199
-[tawny+eyed](haryakṣāya) [obeisance](namaḥ) [direction](kakubhāya) [obeisance](namaḥ) [thunderbolt+bearer](vajriṇe) [obeisance](namaḥ)
+[tawny](hary) [+eyed-to](akṣāya) [+homage](namaḥ) [direction-to](kakubhāya) [+homage](namaḥ) [thunderbolt-bearer-to](vajriṇe) [+homage](namaḥ)
 
 ## mukta-m0-p128-v3200
-[hundred+tongued](śatajihvāya) [obeisance](namaḥ) [thousand+footed+thousand+headed](sahasrapatsahasramūrddhne) [obeisance](namaḥ)
+[hundred](śata) [+tongued-to](jihvāya) [+homage](namaḥ) [thousand](sahasra) [+footed](pat) [+thousand](sahasra) [+headed-to](mūrddhne) [+homage](namaḥ)
