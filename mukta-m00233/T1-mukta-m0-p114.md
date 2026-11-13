@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p114-v2826
-[eight-substances](aṣṭadravyaiḥ) [hundred](śataṃ) [root](mūlenāṅganāṃ) [ten-percent](tu) [daśāṃśataḥ](daśāṃśataḥ)
+[with-eight-substances](aṣṭadravyaiḥ) [hundred](śataṃ) [with-root-mantra](mūlena) [to-limb-mantras](aṅganāṃ) [but](tu) [ten-hundred](daśāṃśataḥ)
 
 ## mukta-m0-p114-v2827
-[sesame-ghee](tilājyābhyāmaghorāstrācchivāstrataḥ) [fierce-weapon](aghorāstrācchivāstrataḥ) [shiva-weapon](śivāstrataḥ)
+[with-sesame+and-ghee](tilājyābhyām) [with-aghora-weapon](aghorāstrāt) [with-śiva-weapon](śivāstrataḥ)
 
 ## mukta-m0-p114-v2828
-[previously](prāgvadiṣṭvā) [wearing-remnants](nirmālyadhāriṇīm)
+[as-before](prākvat) [having-worshipped](iṣṭvā) [the-remains-bearer](nirmālyadhāriṇīm)
 
 ## mukta-m0-p114-v2829
-[to-be-given](pradeyāni) [having-given](dattvā) [spirit-offering](bhūtabaliṃ) [at-night](niśi)
+[to-be-given-things](pradeyāni) [having-given](dattvā) [offering-to-beings](bhūtabaliṃ) [at-night](niśi)
 
 ## mukta-m0-p114-v2830
-[shiva-consecration](śivapratiṣṭhoktaṃ) [doer](kartā) [all](sarvaṃ) [enjoys](samaśnute)
+[śiva-installation-stated](śivapratiṣṭhoktaṃ) [doer](kartā) [all](sarvaṃ) [enjoys-fully](samaśnute)
 
 ## mukta-m0-p114-v2831
-[melting](drāvaṇī) [and](caiva) [attracting](karṣaṇī) [causing-presence](sannidhāpanī)
+[drāvaṇī](drāvaṇī) [and](ca) [indeed](eva) [karṣaṇī](karṣaṇī) [sannidhāpanī](sannidhāpanī)
 
 ## mukta-m0-p114-v2832
-[full-flower](pūrṇapuṣpo) [who](ya) [upturned](uttāno) [twelve-end](dvādaśāntataḥ)
+[full-flower](pūrṇapuṣpo) [which](yaḥ) [upturned](uttāno) [up-to-twelve-end](dvādaśāntataḥ)
 
 ## mukta-m0-p114-v2833
-[seal](mudrā) [remembered](smṛtā) [establishing](sthāpanyādhomukhī) [downward-faced](adhomo)
+[mudrā](mudrā) [remembered](smṛtā) [sthāpanī](sthāpanī) [face-downward](adhomukhī)
 
 ## mukta-m0-p114-v2834
-[mutually-facing](anyonyasaṃmukhau) [hands](hastau) [joined](saṃśliṣṭau) [mukta-tarjaka](muktatarjakau)
+[facing-each-other](anyonyasaṃmukhau) [two-hands](hastau) [clasped](saṃśliṣṭau) [with-released-index-fingers](muktatarjakau)
 
 ## mukta-m0-p114-v2835
-[joined-thumbs-palms](śliṣṭāṅguṣṭhatalau) [hands](hastau) [spread-thumbs-tarjaka](prasṛtāṅguṣṭhatarjakau)
+[with-clasped-thumb+palms](śliṣṭāṅguṣṭhatalau) [two-hands](hastau) [with-extended-thumb+index-fingers](prasṛtāṅguṣṭhatarjakau)
 
 ## mukta-m0-p114-v2836
-[nectar-making](amṛtīkaraṇaṃ) [in-goddess](devyāmohanyā) [tu](tu) [should-arrange](prakalpayet)
+[immortalization](amṛtīkaraṇaṃ) [with-devī-deluding-mudrā](devyāmohanyā) [but](tu) [one-should-perform](prakalpayet)
 
 ## mukta-m0-p114-v2837
-[middle-thumb-union](madhyamāṅguṣṭhasaṃyogād) [melting-bliss-giving](drāvaṇyānandadāyinī)
+[from-middle-finger+thumb-union](madhyamāṅguṣṭhasaṃyogāt) [drāvaṇī](drāvaṇī) [bliss-giving](ānandadāyinī)
 
 ## mukta-m0-p114-v2838
-[goddess](devīṃ) [pleased](prasannāṃ) [should-contemplate](paribhāvayet)
+[goddess](devīṃ) [pleased](prasannāṃ) [one-should-visualize](paribhāvayet)
 
 ## mukta-m0-p114-v2839
-[presence-making](sannidhānakarī) [seal](mudrā) [presence](sānnidhyaṃ) [should-arrange](kalpayet) [by-that](tayā)
+[presence-causing](sannidhānakarī) [mudrā](mudrā) [presence](sānnidhyaṃ) [one-should-effect](kalpayet) [by-that](tayā)
 
 ## mukta-m0-p114-v2840
-[should-be](syāt) [that](sā) [to-be-used](yojyā) [in-worship-etc](vandanādiṣu)
+[should-be](syāt) [she](sā) [to-be-employed](yojyā) [in-salutation-etc](vandanādiṣu)
 
 ## mukta-m0-p114-v2841
-[upturned-palm-centers](uttānapāṇitalayormadhyame) [with-little-finger](sakaniṣṭhike) [na](na)
+[on-upturned-palm+surfaces](uttānapāṇitalayoḥ) [two-middle-fingers](madhyame) [with-little-fingers](sakaniṣṭhike)
 
 ## mukta-m0-p114-v2842
-[then-thumb-tips-pair](tadaṅguṣṭhāgrayugmena) [little-finger-roots](kaniṣṭhāmūlayoḥ) [should-touch](spṛśet)
+[with-their-thumb-tip+pair](tadaṅguṣṭhāgrayugmena) [at-little-finger-roots](kaniṣṭhāmūlayoḥ) [one-should-touch](spṛśet)
 
 ## mukta-m0-p114-v2843
-[gauri-festival](gaurīnityotsave) [goddess](devī) [should-be](syāt) [made-of-gold-etc](suvarṇādinirmitā)
+[in-gaurī-daily-festival](gaurīnityotsave) [goddess](devī) [should-be](syāt) [made-of-gold-etc](suvarṇādinirmitā)
 
 ## mukta-m0-p114-v2844
-[door-guardians](dvāḥsthābhyo) [world-lords](lokeśebhyo) [to-bull](vṛṣāya) [ca](ca)
+[to-door-guardians](dvāḥsthābhyo) [to-world-protectors](lokeśebhyo) [to-bull](vṛṣāya) [and](ca)
 
 ## mukta-m0-p114-v2845
-[hero-obstacle-mothers](vīravighneśamātṛbhyaḥ) [in-scripture](śāstre) [to-skanda](skandāya) [and-moon](cendave)
+[to-vīra+vighneśa+mātṛs](vīravighneśamātṛbhyaḥ) [to-scripture](śāstre) [to-skanda](skandāya) [and](ca) [to-moon](endave)
 
 ## mukta-m0-p114-v2846
-[to-khadgini](khaḍginyai) [having-thrown](kṣiptvā) [having-exited](niṣkramya) [from-gate](gopurāt)
+[to-khaḍginī](khaḍginyai) [having-thrown](kṣiptvā) [having-gone-out](niṣkramya) [from-tower-gate](gopurāt)
 
 ## mukta-m0-p114-v2847
-[who](ye) [all](samastaṃ) [world](jagad) [pervading](vyāpya) [wander](caranti) [desiring-offering](balikāṅkṣayā)
+[who](ye) [entire](samastaṃ) [world](jagad) [having-pervaded](vyāpya) [move](caranti) [with-desire-for-offering](balikāṅkṣayā)
 
 ## mukta-m0-p114-v2848
-[second-row](dviyīyahārāyāmaṣṭau) [syur](syurgaṇanāyikāḥ) [counting-leaders](gaṇanāyikāḥ)
+[in-second-enclosure](dviyīyahārāyām) [eight](aṣṭau) [should-be](syuḥ) [group-leaders](gaṇanāyikāḥ)
 
 ## mukta-m0-p114-v2849
-[illusion](māyā) [ca](ca) [great-lakshmi](mahālakṣmīstathāṣṭamī) [eighth](aṣṭamī)
+[māyā](māyā) [and](ca) [mahālakṣmī](mahālakṣmīḥ) [likewise](tathā) [eighth](aṣṭamī)
 
 ## mukta-m0-p114-v2850
-[memory](smṛtirdhṛtiḥ) [steadiness](dhṛtiḥ) [faith](śraddhā) [intellect](medhā) [beauty](kāntirmatiḥ) [mind](matiḥ) [hearing](śrutiḥ)
+[smṛti](smṛtiḥ) [dhṛti](dhṛtiḥ) [śraddhā](śraddhā) [medhā](medhā) [kānti](kāntiḥ) [mati](matiḥ) [śruti](śrutiḥ)

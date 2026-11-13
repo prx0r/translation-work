@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[that-spoken](taduktaṃ) [indeed](hi) [according-to-shaiva-tradition](śaivānusārāt)
+[that+said](taduktaṃ) [indeed](hi) [according-to-śaiva-tradition](śaivānusārāt)
 
 ## mukta-m0-p112-v2777
-[its-root-seed](tanmūlabījaṃ) [already-before](prāgeva) [called-shakti](śaktisaṃjñaṃ) [shown](pradarśitam)
+[its+root+seed](tanmūlabījaṃ) [previously+indeed](prāgeva) [called-śakti](śaktisaṃjñaṃ) [shown](pradarśitam)
 
 ## mukta-m0-p112-v2778
-[with-subtle](sasūkṣmo) [fire](agniḥ) [then](tataḥ) [rudra-foot](rudrapadaṃ) [and](ca) [beloved-foot](dayitepadam)
+[with-subtle+fire](sasūkṣmo'gnis) [then](tato) [rudra-position](rudrapadaṃ) [and](ca) [dayitā-position](dayitepadam)
 
 ## mukta-m0-p112-v2779
 [joined](saṃyutaḥ)
 
 ## mukta-m0-p112-v2780
-[with-eye-ashvi-arrow-veda-ashvi-eye-gold](netrāśviśaravedāśvinetrasvārṇaiḥ) [with-own-classes](svajātibhiḥ)
+[with-eyes+horses+arrows+vedas+horses+eyes+letters](netrāśviśaravedāśvinetrasvārṇaiḥ) [with-own-classes](svajātibhiḥ)
 
 ## mukta-m0-p112-v2781
 [third](tṛtīyaṃ) [but](tu) [joined-with-fifth-vowel](pañcamasvarasaṃyutam)
 
 ## mukta-m0-p112-v2782
-[kama-words](kāmaśabdau) [and](ca) [for-impurity](mālinyai) [and](ca) [thus](ceti) [we-meditate](dhīmahi)
+[kāma+words](kāmaśabdau) [and](ca) [in-mālinī](mālinyai) [and+thus](ceti) [we-meditate](dhīmahi)
 
 ## mukta-m0-p112-v2783
-[gauri-gayatri](gaurīgāyatrī) [application](viniyogo) [in-worship-etc](arcānādiṣu)
+[gaurī-gāyatrī](gaurīgāyatrī) [application+in-worship+etc](viniyogo'rcanādiṣu)
 
 ## mukta-m0-p112-v2784
-[with-noose](sapāśā) [with-fearlessness](sābhayā) [with-goad](aṅkuśā)
+[with-noose](sapāśā) [with-fearlessness+goad](sābhayā?ṅkuśā)
 
 ## mukta-m0-p112-v2785
 [adorned-with-jewel-earrings](maṇikuṇḍalamaṇḍitā)
 
 ## mukta-m0-p112-v2786
-[golden-armlet-shining-gem-bracelet-finger-wrapping](hemāṅgadollasadratnavalayāṅguliveṣṭanā)
+[shining-with-gold-armlets+gem-bracelets+finger-rings](hemāṅgadollasadratnavalayāṅguliveṣṭanā)
 
 ## mukta-m0-p112-v2787
-[nail-gem-ray-shining-foot-lotus-attached-anklet](nakharatnāṃśuvilasatpadābjāsaktanūpurā)
+[with-anklets-attached-to-lotus-feet-shining-with-rays-of-nail-jewels](nakharatnāṃśuvilasatpadābjāsaktanūpurā)
 
 ## mukta-m0-p112-v2788
-[va-form](vaṃsvarūpa) [manonmani](manonmanyā) [of-gauri](gauryāstu) [image](pratimā) [should-be](bhavet)
+[bamboo-form](vaṃsvarū]rūpā) [of-manonmanī](manonmanyā) [of-gaurī+but](gauryāstu) [image](pratimā) [should-be](bhavet)
 
 ## mukta-m0-p112-v2789
-[by-shaiva-described-path](śaivoktamārgeṇa) [should-establish](sthāpayecchivām) [shiva](śivām)
+[by-path-taught-in-śaiva](śaivoktamārgeṇa) [one-should-install+śivā](sthāpayecchivām)
 
 ## mukta-m0-p112-v2790
-[with-sixteen-pillars](ṣoḍaśastambhayuktaḥ) [should-be](syādadhivāsanamaṇḍapaḥ) [consecration-pavilion](adhivāsanamaṇḍapaḥ)
+[endowed-with-sixteen-pillars](ṣoḍaśastambhayuktaḥ) [should-be](syād) [preliminary-consecration-pavilion](adhivāsanamaṇḍapaḥ)
 
 ## mukta-m0-p112-v2791
-[bhadra](bhadraśca) [and](ca) [vijaya](vijayaścaiva) [and-also](caiva) [vijrimbha](vijṛmbho) [lohita](lohitastathā) [and](tathā)
+[bhadra](bhadraś) [and](ca) [vijaya](vijayaś) [and+indeed](caiva) [vijṛmbha](vijṛmbho) [lohita](lohitas) [likewise](tathā)
 
 ## mukta-m0-p112-v2792
-[in-east](prācyāmajitā) [ajita](ajitā) [and](cāparājitā) [aparajita](aparājitā)
+[in-east](prācyām) [ajitā](ajitā) [and](cā) [aparājitā](aparājitā)
 
 ## mukta-m0-p112-v2793
-[kumuda](kumudāṃ) [and-also](caiva) [vidyunmala](vidyunmālāṃ) [ornament](vibhūṣaṇām)
+[kumudā](kumudāṃ) [and+indeed](caiva) [vidyunmālā](vidyunmālāṃ) [vibhūṣaṇā](vibhūṣaṇām)
 
 ## mukta-m0-p112-v2794
-[of-door-and-banner](dvārdhvajayordūtyau) [messengers](dūtyau) [should-worship](yajet) [in-pot](kumbhagate) [in-order](kramāt)
+[at-two-door-posts](dvārdhvajayor) [two-messengers](dūtyau) [one-should-worship](yajet) [in-pitcher-situated](kumbhagate) [in-order](kramāt)
 
 ## mukta-m0-p112-v2795
-[in-pot](ghaṭe) [gauri](gaurīṃ) [in-lion](siṃhe) [weapon](astraṃ) [in-vardhani](vardhanīgatam)
+[in-pot](ghaṭe) [gaurī](gaurīṃ) [in-lion](siṃhe') [weapon](straṃ) [situated-in-vardhanī](vardhanīgatam)
 
 ## mukta-m0-p112-v2796
-[full-raised-breast](pīnottuṅgastanaṃ) [dark](śyāmaṃ) [adorned](bhūṣitaṃ) [with-three-eyes](satrilocanam)
+[with-full-swelling-breasts](pīnottuṅgastanaṃ) [dark](śyāmaṃ) [adorned](bhūṣitaṃ) [with-three-eyes](satrilocanam)
 
 ## mukta-m0-p112-v2797
-[tawny-upright-hair](piṅgordhvakeśaṃ) [various-serpent-ornament](nānāhibhūṣaṇaṃ) [gentle-terrifying](saumyabhīṣaṇam)
+[with-tawny-upright-hair](piṅgordhvakeśaṃ) [with-various-snake-ornaments](nānāhibhūṣaṇaṃ) [gentle-and-terrible](saumyabhīṣaṇam)
 
 ## mukta-m0-p112-v2798
-[shaiva-fire-in-middle-kunda](madhyakuṇḍasthaśaivāgniṃ) [ninefold](navadhā) [dividing](saṃvibhajya) [but](tu)
+[śaiva-fire-situated-in-central-pit](madhyakuṇḍasthaśaivāgniṃ) [into-nine-parts](navadhā) [having-divided](saṃvibhajya) [but](tu)
 
 ## mukta-m0-p112-v2799
-[with-root-limbs](mūlāṅgairjuhuyurgurumūrtipāḥ) [should-offer](juhuyuḥ) [guru-form-protectors](gurumūrtipāḥ)
+[with-root-and-limb-mantras](mūlāṅgair) [should-offer-oblation](juhuyur) [guru-and-deity-priests](gurumūrtipāḥ)
 
 ## mukta-m0-p112-v2800
-[village-circumambulation](grāmabhramaṇaṃ) [bathing](snapanaṃ) [and](tathā)
+[village-circumambulation](grāmabhramaṇaṃ) [bathing](snapanaṃ) [likewise](tathā)
