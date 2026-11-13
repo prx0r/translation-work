@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun referring to the previously described method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dvādaśa+varṣāṇi",
+     "gloss": "twelve+years",
+     "grounds": "numeral-noun compound indicating duration",
+     "morph": "compound: dvādaśa+varṣa; n.acc.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses resulting state",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight-worship",
+     "grounds": "ritual observance performed at junctures of day",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "su+vanditā",
+     "gloss": "well-honored",
+     "grounds": "su- prefix intensifies vandita, indicating proper accomplishment",
+     "morph": "compound: su+vandita; f.nom.sg"
+    }
+   ],
+   "question": "What duration of properly accomplished twilight-worship results from employing that prior method?",
+   "premises": [
+    "The previously described method is employed.",
+    "A span of twelve years is specified.",
+    "Twilight-worship attains a well-accomplished state."
+   ],
+   "inference": "Employing that prior method results in twelve years of properly accomplished twilight-worship.",
+   "uncertainties": [],
+   "plain_english": "By that method, twilight-worship becomes well accomplished for twelve years."
+  }
+ ]
+}

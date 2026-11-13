@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p59",
  "verse": 1468,
- "question": "What final action is required to conclude the ritual procedure?",
+ "question": "Which three deities are always present at that sacred location?",
  "premises": [
-  "The ritual procedure has preceding steps.",
-  "Ritual sequences require formal completion.",
-  "The verse gives a concluding instruction."
+  "Brahmā, Viṣṇu, and Rudra are named",
+  "They form a triad",
+  "They are always present"
  ],
- "inference": "One should complete the procedure.",
- "uncertainties": [
-  "The specific object to be completed is implied by context."
- ],
- "plain_english": "One should complete it."
+ "inference": "The three deities Brahmā, Viṣṇu, and Rudra are always present there.",
+ "uncertainties": [],
+ "plain_english": "Brahmā, Viṣṇu, and likewise Rudra—the three—are always present there."
 }
