@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "kaniṣṭhaṃ",
+     "gloss": "smallest",
+     "grounds": "qualifies the inferior measurement in this series",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśa+hastam",
+     "gloss": "ten-hands",
+     "grounds": "compound specifying a measure of ten hand-spans",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the stated measurements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates an alternative or parallel specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa+hastakam",
+     "gloss": "sixteen-hands",
+     "grounds": "compound specifying a measure of sixteen hand-spans",
+     "morph": "compound"
+    }
+   ],
+   "question": "What hand-span measurements are prescribed as the smallest and alternative sizes?",
+   "premises": [
+    "The term kaniṣṭhaṃ designates the smallest prescribed measurement.",
+    "The compound daśa+hastam specifies a length of ten hand-spans.",
+    "The compound ṣoḍaśa+hastakam specifies a length of sixteen hand-spans as a parallel option."
+   ],
+   "inference": "The smallest prescribed size is ten hand-spans, with sixteen hand-spans given as a corresponding alternative.",
+   "uncertainties": [
+    "Whether ṣoḍaśa+hastakam is presented as another smallest option or as a distinct alternative grade is not fully explicit in this verse alone."
+   ],
+   "plain_english": "The smallest measure is ten hand-spans, and likewise sixteen hand-spans."
+  }
+ ]
+}
