@@ -2,77 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p94-v2326
-[śiva-more](śivādhikamiti) [or](athavā) [other-kind](anyaprakārataḥ)
+[śiva+adhikam](śivādhikam) [iti](iti) [khyātam](khyātaṃ) [athavā](athavā) [anya+prakārataḥ](anyaprakārataḥ)
 
 ## mukta-m0-p94-v2327
-[six-six-sevenths-parts](ṣaṭṣaṭsaptāṃśakairvāpi) [śaiva-superiority](śaivādhikyaṃ) [fourfold](caturvidham)
+[ṣaṭ+ṣaṭ+sapta+aṃśakaiḥ](ṣaṭṣaṭsaptāṃśakair) [vā](vā) [api](api) [śaiva+ādhikyam](śaivādhikyaṃ) [catur+vidham](caturvidham)
 
 ## mukta-m0-p94-v2328
-[eight-ash](vasvaśraṃ) [tu](tu) [quality-part](guṇāṃśena) [veda-ash](vedāśraṃ) [round](vṛttamucyate)
+[vasu+aśram](vasvaśraṃ) [tu](tu) [guṇa+aṃśena](guṇāṃśena) [veda+aśram](vedāśraṃ) [vṛttam](vṛttam) [ucyate](ucyate)
 
 ## mukta-m0-p94-v2329
-[root-to-tip](mūlādagraṃ) [well-round](suvṛttaṃ) [tu](tu) [liṅga-tall](liṃgottuṃgaṃ) [three-parts](tribhāgike)
+[mūlāt](mūlād) [agram](agraṃ) [su+vṛttam](suvṛttaṃ) [tu](tu) [liṅga+uttuṅgam](liṃgottuṃgaṃ) [tri+bhāgike](tribhāgike)
 
 ## mukta-m0-p94-v2330
-[page-244](p. 244) [worship-part](pūjābhāgaṃ) [that-one-part](tadekāṃśaṃ) [everywhere-auspicious](sarvato bhadrameva) [hi](hi)
+[pūjā+bhāgam](pūjābhāgaṃ) [tat+eka+aṃśam](tadekāṃśaṃ) [sarvataḥ](sarvato) [bhadram](bhadram) [eva](eva) [hi](hi)
 
 ## mukta-m0-p94-v2331
-[element-veda-quality-part](bhūtavedaguṇāṃśaṃ) [vā](vā) [liṅga-height](liṃgocce) [tu](tu) [divided](vibhājite)
+[bhūta+veda+guṇa+aṃśam](bhūtavedaguṇāṃśaṃ) [vā](vā) [liṅga+ucce](liṃgocce) [tu](tu) [vibhājite](vibhājite)
 
 ## mukta-m0-p94-v2332
-[all-country-liṅga](sārvadeśikaliṃgaṃ) [tu](tu) [thus](evameva) [arrange](prakalpayet)
+[sārva+deśika+liṅgam](sārvadeśikaliṃgaṃ) [tu](tu) [evam](evam) [eva](eva) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p94-v2333
-[six-parts-round](ṣaḍaṃśairvartulairnāhaṃ) [seven-parts-middle-narrow](saptāṃśairmadhyanāhakam)
+[ṣaṭ+aṃśaiḥ](ṣaḍaṃśair) [vartulaiḥ](vartulair) [nāham](nāhaṃ) [sapta+aṃśaiḥ](saptāṃśair) [madhya+nāhakam](madhyanāhakam)
 
 ## mukta-m0-p94-v2334
-[all-caste-worthy](sarvajātyārhakaṃ) [ca](ca) [eva](eva) [three-rule](trairāśikamidaṃ) [supreme](param)
+[sarva+jāti+arhakam](sarvajātyārhakaṃ) [ca](ca) [eva](eva) [trai+rāśikam](trairāśikam) [idam](idaṃ) [param](param)
 
 ## mukta-m0-p94-v2335
-[equality-root-veda-ash](samatvamūlavedāśraṃ) [remainder](śeṣaṃ) [eight-ash](vasvaśrameva) [vā](vā)
+[samatva+mūla+veda+aśram](samatvamūlavedāśraṃ) [śeṣam](śeṣaṃ) [vasu+aśram](vasvaśram) [eva](eva) [vā](vā)
 
 ## mukta-m0-p94-v2336
-[worship-part](pūjābhāgaṃ) [kalā-ash](kalāśraṃ) [tu](tu) [stream-liṅga](dhārāliṃgaṃ) [threefold](tridhābhavet)
+[pūjā+bhāgam](pūjābhāgaṃ) [kalā+aśram](kalāśraṃ) [tu](tu) [dhārā+liṅgam](dhārāliṃgaṃ) [tridhā](tridhā) [bhavet](bhavet)
 
 ## mukta-m0-p94-v2337
-[equal-liṅga-stream](samaliṃgasya dhārasya) [all-beings-benefit](sarvaprāṇi hitāvaham)
+[sama+liṅgasya](samaliṅgasya) [dhārasya](dhārasya) [sarva+prāṇi](sarvaprāṇi) [hita+āvaham](hitāvaham)
 
 ## mukta-m0-p94-v2338
-[worship-part](pūjābhāgaṃ) [threefold](tridhākṛtvā) [upper-part](ūrdhvabhāge) [face](mukhaṃ) [bhavet](bhavet)
+[pūjā+bhāgam](pūjābhāgaṃ) [tridhā](tridhā) [kṛtvā](kṛtvā) [ūrdhva+bhāge](ūrdhvabhāge) [mukham](mukhaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p94-v2339
-[ears-eight](karṇāṣṭau) [twelve-eyes](dvādaśākṣaṃ) [ca](ca) [all-marks](sarvalakṣaṇasaṃyutam)
+[karṇa+aṣṭau](karṇāṣṭau) [dvādaśa+akṣam](dvādaśākṣaṃ) [ca](ca) [sarva+lakṣaṇa+saṃyutam](sarvalakṣaṇasaṃyutam)
 
 ## mukta-m0-p94-v2340
-[page-245](p. 245) [from-above-part](ata ūrdhvasya bhāgaṃ) [tu](tu) [twenty-four-hundred-parts](caturviṃśacchatāṃśakaiḥ)
+[ataḥ](ata) [ūrdhvasya](ūrdhvasya) [bhāgam](bhāgaṃ) [tu](tu) [caturviṃśat+śata+aṃśakaiḥ](caturviṃśacchatāṃśakaiḥ)
 
 ## mukta-m0-p94-v2341
-[hair-end](keśāntaṃ) [low-part](nimnabhāgaṃ) [syāt](syāt) [pearl-emblic-shape](muktādāmalakākṛtiḥ)
+[keśa+antam](keśāntaṃ) [nimna+bhāgam](nimnabhāgaṃ) [syāt](syāt) [muktā+dāma+āmalaka+ākṛtiḥ](muktādāmalakākṛtiḥ)
 
 ## mukta-m0-p94-v2342
-[eye-thread-to-pit-end](netrasūtrātpuṭāntaṃ) [ca](ca) [pit-end-to-hanuman](puṭāntād hanumānakam)
+[netra+sūtrāt](netrasūtrāt) [puṭa+antam](puṭāntaṃ) [ca](ca) [puṭa+antāt](puṭāntād) [hanu+mānakam](hanumānakam)
 
 ## mukta-m0-p94-v2343
-[jaw-etc-throat-measure](hanvādigalamānaṃ) [tu](tu) [four-yava](caturyavamudāhṛtam)
+[hanvādi+gala+mānam](hanvādigalamānaṃ) [tu](tu) [catur+yavam](caturyavam) [udāhṛtam](udāhṛtam)
 
 ## mukta-m0-p94-v2344
-[remainder](śeṣaṃ) [liṅga-shape-known](liṃgākṛtikhyātaṃ) [arrange-marks](kalpayellakṣaṇānvitam)
+[śeṣam](śeṣaṃ) [liṅga+ākṛti+khyātam](liṃgākṛtikhyātaṃ) [kalpayet](kalpayel) [lakṣaṇa+anvitam](lakṣaṇānvitam)
 
 ## mukta-m0-p94-v2345
-[breast-thread-above-image](stanasūtroparībimbaṃ) [marks](lakṣaṇena) [endowed](samanvitam)
+[stana+sūtra+upari](stanasūtropari) [bimbam](bimbaṃ) [lakṣaṇena](lakṣaṇena) [samanvitam](samanvitam)
 
 ## mukta-m0-p94-v2346
-[face-liṅga](mukhaliṃgamidaṃ) [known](khyātaṃ) [kings-growth](nṛpāṇāmabhivṛddhaye)
+[mukha+liṅgam](mukhaliṃgam) [idam](idaṃ) [khyātam](khyātaṃ) [nṛpāṇām](nṛpāṇām) [abhivṛddhaye](abhivṛddhaye)
 
 ## mukta-m0-p94-v2347
-[part-less](bhāgahīnaṃ) [tu](tu) [conceive](saṃkalpya) [thick-root](sthūlamūlamudāhṛtam)
+[bhāga+hīnam](bhāgahīnaṃ) [tu](tu) [saṃkalpya](saṃkalpya) [sthūla+mūlam](sthūlamūlam) [udāhṛtam](udāhṛtam)
 
 ## mukta-m0-p94-v2348
-[thus-ārṣaka](evamārṣakamākhyātaṃ) [by-sages](ṛṣibhiḥ) [worshipped](pūjitaṃ) [best](varam)
+[evam](evam) [ārṣakam](ārṣakam) [ākhyātam](ākhyātaṃ) [ṛṣibhiḥ](ṛṣibhiḥ) [pūjitam](pūjitaṃ) [varam](varam)
 
 ## mukta-m0-p94-v2349
-[ten-nine-ash](daśanavāśrakaṃ) [ca](ca) [eva](eva) [front](agre) [tāra-incomparable](tāramanopamam)
+[daśa+nava+aśrakam](daśanavāśrakaṃ) [ca](ca) [eva](eva) [agre](agre) [tāra+manopamam](tāramanopamam)
 
 ## mukta-m0-p94-v2350
-[page-246](p. 246) [head-anointing-less](śirasodvartanaṃ) [hīnamānonmānenanvitam)
-</rfl:parameter>
+[śirasaḥ](śiraso) [udvartanam](dvartanaṃ) [hīna+māna+unmānena](hīnamānonmānenan) [anvitam](anvitam)

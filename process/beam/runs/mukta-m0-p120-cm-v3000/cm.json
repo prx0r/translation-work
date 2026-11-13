@@ -3,39 +3,54 @@
  "verse": 3000,
  "rows": [
   {
-   "lemma": "devīm",
-   "morph": "f.acc.sg",
-   "grounds": "object of worship; accusative singular feminine of devī"
+   "lemma": "taraṅga",
+   "morph": "compound-member",
+   "grounds": "first member of compound taraṅgavide"
   },
   {
-   "lemma": "abhyarcya",
-   "morph": "(gerund), root abhi-√arc",
-   "grounds": "absolutive expressing prior ritual action"
+   "lemma": "vide",
+   "morph": "m.dat.sg",
+   "grounds": "second member of compound taraṅgavide; recipient of obeisance"
   },
   {
-   "lemma": "gandha+ādyair",
-   "morph": "compound gandha+ādi, m/n.inst.pl",
-   "grounds": "instrumental of means; compound indicating offerings beginning with fragrance"
-  },
-  {
-   "lemma": "mūlena",
-   "morph": "m/n.inst.sg",
-   "grounds": "instrumental specifying the mantra employed in recitation"
-  },
-  {
-   "lemma": "eva",
+   "lemma": "namaḥ",
    "morph": "(indecl.)",
-   "grounds": "restrictive particle emphasizing exclusivity"
+   "grounds": "formula of salutation"
   },
   {
-   "lemma": "paṭhet",
-   "morph": "3.sg.act.opt, root √paṭh",
-   "grounds": "prescriptive optative expressing ritual injunction"
+   "lemma": "tri",
+   "morph": "compound-member",
+   "grounds": "first member of compound tridaśāya, forming 'thirty'"
   },
   {
-   "lemma": "sakṛt",
+   "lemma": "daśāya",
+   "morph": "m.dat.sg",
+   "grounds": "second member of compound tridaśāya; refers to the thirty gods"
+  },
+  {
+   "lemma": "namaḥ",
    "morph": "(indecl.)",
-   "grounds": "adverb specifying the number of recitations"
+   "grounds": "formula of salutation"
+  },
+  {
+   "lemma": "tri",
+   "morph": "compound-member",
+   "grounds": "first member of compound trikāladhṛṣe"
+  },
+  {
+   "lemma": "kāla",
+   "morph": "compound-member",
+   "grounds": "second member of compound trikāladhṛṣe, referring to the three times"
+  },
+  {
+   "lemma": "dhṛṣe",
+   "morph": "m.dat.sg",
+   "grounds": "final member of compound trikāladhṛṣe; recipient of obeisance"
+  },
+  {
+   "lemma": "namaḥ",
+   "morph": "(indecl.)",
+   "grounds": "formula of salutation"
   }
  ]
 }

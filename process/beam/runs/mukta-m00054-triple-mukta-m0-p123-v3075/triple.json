@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3075,
+   "rows": [
+    {
+     "surface": "\\",
+     "gloss": "marker",
+     "grounds": "textual marker or separator as given in the source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyuvāhanāyanamaḥ",
+     "gloss": "wind-vehicled-to-homage",
+     "grounds": "compound epithet vāyu-vāhana with dative ending fused to namaḥ; salutation to one whose vehicle is wind",
+     "morph": "compound: vāyu-vāhana+āya.m.sg + namaḥ(indecl.)"
+    },
+    {
+     "surface": "gaṇḍalinenamaḥ",
+     "gloss": "trunk-possessing-to-homage",
+     "grounds": "epithet gaṇḍalin with dative ending fused to namaḥ; salutation to one possessing a trunk",
+     "morph": "gaṇḍalin-e.m.sg + namaḥ(indecl.)"
+    }
+   ],
+   "question": "What divine attributes are honored through the salutations in this formula?",
+   "premises": [
+    "vāyuvāhanāya names a deity whose vehicle is the wind",
+    "gaṇḍaline names a deity possessing a trunk",
+    "namaḥ marks reverential salutation to each named attribute"
+   ],
+   "inference": "The formula pays homage to a deity identified as wind-vehicled and trunk-possessing.",
+   "uncertainties": [
+    "The specific deity intended by these epithets is not explicitly named in this verse."
+   ],
+   "plain_english": "\\ Homage to the one whose vehicle is the wind; homage to the one who has a trunk."
+  }
+ ]
+}

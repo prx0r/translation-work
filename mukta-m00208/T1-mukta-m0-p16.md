@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[tvarayet](tvarayen) [mama](mama) [pūjāyām](pūjāyāṃ) [na-eti](naiti) [mām](māṃ) [tasya](tasya) [pūjanam](pūjanam)
+[should-hasten](tvarayet) [my](mama) [in-worship](pūjāyāṃ) [not+goes](na+eti) [to-me](māṃ) [his](tasya) [worship](pūjanam)
 
 ## mukta-m0-p16-v377
-[nivedite-api](nivedite'pi) [ca](ca) [āhūtaḥ](āhūtastadājñāṃ) [tad-ājñām](tadājñāṃ) [paripālayet](paripālayet)
+[when-offered](nivedite) [even](api) [and+summoned](ca+āhūtaḥ) [his+command](tat+ājñāṃ) [should-obey](paripālayet)
 
 ## mukta-m0-p16-v378
-[abhedabhāvanām](abhedabhāvanāṃ) [jñātvā](jñātvā) [tad-ājñām](tadājñāṃ) [paripālayet](paripālayet)
+[non-difference+contemplation](abheda+bhāvanāṃ) [having-known](jñātvā) [his+command](tat+ājñāṃ) [should-obey](paripālayet)
 
 ## mukta-m0-p16-v379
-[na-īkṣeta](nekṣeta) [pūjā-velāyām](pūjāvelāyāṃ) [naram](naraṃ) [devi](devi) [bahiṣkṛtam](bahiṣkṛtam)
+[not+should-look-at](na+īkṣeta) [at-worship+time](pūjā+velāyāṃ) [person](naraṃ) [O-goddess](devi) [excluded](bahiṣkṛtam)
 
 ## mukta-m0-p16-v380
-[kuryāt](kuryāt) [sarva-prayatnena](sarvaprayatnena) [tad-aśaktau](tadaśaktau) [tu](tu) [kārayet](kārayet)
+[should-do](kuryāt) [with-all+effort](sarva+prayatnena) [in-his+inability](tat+aśaktau) [but](tu) [should-cause-to-do](kārayet)
 
 ## mukta-m0-p16-v381
-[śiva-droheṇa](śivadroheṇa) [niryāti](niryāti) [kālabhairava-yātanām](kālabhairavayātanām)
+[by-Śiva+offense](śiva+droheṇa) [goes-forth](niryāti) [to-Kālabhairava+torment](kālabhairava+yātanām)
 
 ## mukta-m0-p16-v382
-[modate](modate) [tasya](tasya) [na-āvṛttiḥ](nāvṛttistena) [tena](tena) [sarvam](sarvaṃ) [vaśīkṛtam](vaśīkṛtam)
+[rejoices](modate) [his](tasya) [no+return](na+āvṛttiḥ) [by-him](tena) [all](sarvaṃ) [subdued](vaśīkṛtam)
 
 ## mukta-m0-p16-v383
-[phalam](phalaṃ) [tathā](tathā) [tathā](tathā) [teṣām](teṣāṃ) [dātā-aham](dātā'haṃ) [hi](hi) [sadāśivaḥ](sadāśivaḥ)
+[fruit](phalaṃ) [so](tathā) [so](tathā) [of-them](teṣāṃ) [giver+I](dātā+ahaṃ) [indeed](hi) [Sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p16-v384
-[saṃpādya](saṃpādya) [pūjayet](pūjayelliṅgaṃ) [liṅgam](liṅgaṃ) [yathā-vibhava-vistaram](yathāvibhavavistaram)
+[having-procured](saṃpādya) [should-worship+liṅga](pūjayet+liṅgaṃ) [according-to+wealth+extent](yathā+vibhava+vistaram)
 
 ## mukta-m0-p16-v385
-[rājatam](rājataṃ) [vā](vā) [daridraḥ-cet](daridraścet) [tāmra-pātram](tāmrapātraṃ) [hi](hi) [kalpayet](kalpayet)
+[silver](rājataṃ) [or](vā) [poor+if](daridraḥ+cet) [copper+vessel](tāmra+pātraṃ) [indeed](hi) [should-arrange](kalpayet)
 
 ## mukta-m0-p16-v386
-[sauvarṇa-pātra-pūjā-api](sauvarṇapātrapūjā'pi) [na](na) [tasyāḥ](tasyāḥ) [sadṛśī](sadṛśī) [bhavet](bhavet)
+[golden+vessel+worship](sauvarṇa+pātra+pūjā) [even](api) [not](na) [to-that](tasyāḥ) [equal](sadṛśī) [would-be](bhavet)
 
 ## mukta-m0-p16-v387
-[tat-pātra-sadṛśam](tatpātrasadṛśaṃ) [loke](loke) [na-asti](nāsti) [na-asti](nāsti) [mahītale](mahītale)
+[to-that+vessel+equal](tat+pātra+sadṛśaṃ) [in-world](loke) [not+is](na+asti) [not+is](na+asti) [on-earth](mahītale)
 
 ## mukta-m0-p16-v388
-[nīlotpalam](nīlotpalaṃ) [ca](ca) [puṣpeṣu](puṣpeṣu) [pūjā-artham](pūjārtham) [uttamottamam](uttamottamam)
+[blue-lotus](nīlotpalaṃ) [and](ca) [among-flowers](puṣpeṣu) [for-worship+sake](pūjā+artham) [best+of-best](uttama+uttamam)
 
 ## mukta-m0-p16-v389
-[śuddha-bhāvaḥ](śuddhabhāvaḥ) [samabhyarcya](samabhyarcya) [yathokta-phala-bhāg](yathoktaphalabhāg) [bhavet](bhavet)
+[pure+disposition](śuddha+bhāvaḥ) [having-worshipped](samabhyarcya) [as+stated+fruit+sharer](yathā+ukta+phala+bhāk) [would-be](bhavet)
 
 ## mukta-m0-p16-v390
-[śūdrānītaiḥ](śūdrānītaiḥ) [kraya-krītaiḥ](krayakrītaiḥ) [karma](karma) [kurvan](kurvan) [pataty-adhaḥ](patatyadhaḥ)
+[by-Śūdra+brought](śūdra+ānītaiḥ) [by-purchase+bought](kraya+krītaiḥ) [rite](karma) [performing](kurvan) [falls+down](patati+adhaḥ)
 
 ## mukta-m0-p16-v391
-[tila-akṣataiḥ](tilākṣatairarcayenmāṃ) [arcayet](arcayenmāṃ) [mām](māṃ) [bhakti-yuktena](bhaktiyuktena) [cetasā](cetasā)
+[with-sesame+unbroken-rice](tila+akṣataiḥ) [should-worship+me](arcayet+māṃ) [with-devotion+endowed](bhakti+yuktena) [with-mind](cetasā)
 
 ## mukta-m0-p16-v392
-[sāmānya-arghya-abhidham](sāmānyārghyābhidhaṃ) [ca-eva](caiva) [pāda-arghya-ācamanāni](pādārghyācamanāni) [ca](ca)
+[general+arghya+named](sāmānya+arghya+abhidhaṃ) [and](ca) [indeed](eva) [foot+arghya+sipping-waters](pāda+arghya+ācamanāni) [and](ca)
 
 ## mukta-m0-p16-v393
-[śiva-kumbha-samākhyam](śivakumbhasamākhyaṃ) [ca](ca) [pātrāṇi](pātrāṇyekādaśa) [ekādaśa](ekādaśa) [priye](priye)
+[Śiva+pitcher+named](śiva+kumbha+samākhyaṃ) [and](ca) [vessels+eleven](pātrāṇi+ekādaśa) [O-beloved](priye)
 
 ## mukta-m0-p16-v394
-[gandha-āder-api](gandhāderapi) [dhūpasya](dhūpasya) [dīpānām](dīpānāṃ) [ca](ca) [viśeṣataḥ](viśeṣataḥ)
+[of-fragrance+etc.](gandha+ādeḥ) [also](api) [of-incense](dhūpasya) [of-lamps](dīpānāṃ) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p16-v395
-[tālvṛntam](tālvṛntaṃ) [ca](ca) [saṃpādya](saṃpādya) [yajet](yajenmāṃ) [mām](māṃ) [liṅga-rūpiṇam](liṅgarūpiṇam)
+[palm-leaf-fan](tāla+vṛntaṃ) [and](ca) [having-procured](saṃpādya) [should-worship+me](yajet+māṃ) [liṅga+formed](liṅga+rūpiṇam)
 
 ## mukta-m0-p16-v396
-[pātram](pātraṃ) [daśa-palaiḥ](daśapalaiḥ) [kuryāt](kuryāt) [sāmānya-arghya-samākhyakam](sāmānyārghyasamākhyakam)
+[vessel](pātraṃ) [with-ten+palas](daśa+palaiḥ) [should-make](kuryāt) [general+arghya+named](sāmānya+arghya+samākhyakam)
 
 ## mukta-m0-p16-v397
-[ādhāra-abhikhyapātrāṇi](ādhārābhikhyapātrāṇi) [sārdha-dvi-pala-mānataḥ](sārdhadvipalamānataḥ)
+[base+named+vessels](ādhāra+abhikhya+pātrāṇi) [with-half+two+pala+measure](sārdha+dvi+pala+mānataḥ)
 
 ## mukta-m0-p16-v398
-[sthūla-udaram](sthūlodaraṃ) [tathā](tathā) [kuryāt](kuryānmukhagrīvāvibhūṣitam) [mukha-grīvā-vibhūṣitam](mukhagrīvāvibhūṣitam)
+[large+bellied](sthūla+udaraṃ) [thus](tathā) [should-make](kuryāt) [with-mouth+neck+adorned](mukha+grīvā+vibhūṣitam)
 
 ## mukta-m0-p16-v399
-[tyāga-jñāna-ānanda-kāni](tyāgajñānānandakāni) [vartulāni](vartulānītarāṇi) [itarāṇi](itarāṇi) [ca](ca)
+[renunciation+knowledge+bliss+consisting](tyāga+jñāna+ānanda+kāni) [round](vartulāni) [others](itarāṇi) [and](ca)
 
 ## mukta-m0-p16-v400
-[dīpa-pātrāṇi](dīpapātrāṇi) [kuryāt-ca](kuryācca) [ḍamaru-ākāra-vanti](ḍamarvākāravanti) [ca](ca)
+[lamp+vessels](dīpa+pātrāṇi) [should-make](kuryāt) [and](ca) [drum+shape+possessing](ḍamaru+ākāra+vanti) [and](ca)

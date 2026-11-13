@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[nīrājanam](nīrājanam) [asaṃkhyātam](asaṃkhyātaṃ) [dattvā](dattvā) [vastreṇa](vastreṇa) [veṣṭayet](veṣṭayet)
+[light-waving](nīrājanam) [innumerable](asaṃkhyātaṃ) [having-given](dattvā) [with-cloth](vastreṇa) [one-should-wrap](veṣṭayet)
 
 ## mukta-m0-p27-v652
-[iti](iti) [vastreṇa](vastreṇa) [saṃveṣṭya](saṃveṣṭya) [peṭikāyām](peṭikāyāṃ) [suvinyaset](suvinyaset)
+[thus](iti) [with-cloth](vastreṇa) [having-wrapped](saṃveṣṭya) [in-box](peṭikāyāṃ) [one-should-place-well](suvinyaset)
 
 ## mukta-m0-p27-v653
-[peṭikāyām](peṭikāyām) [iti](iti) [nyasyet](nyasyed) [evam](evam) [uktam](uktam) [mahārcanam](mahārcanam)
+[in-box](peṭikāyām) [thus](iti) [one-should-place](nyasyet) [thus](evam) [spoken](uktaṃ) [great-worship](mahārcanam)
 
 ## mukta-m0-p27-v654
-[suvāsinīnām](suvāsinīnāṃ) [mukhyaḥ](mukhyo) [ayam](ayaṃ) [laghu](laghra) [ārādhana](ārādhana) [vidhiḥ](vidhiḥ)
+[of-married-women](suvāsinīnāṃ) [chief](mukhyaḥ) [this](ayam) [brief-worship](laghu+ārādhanā) [method](vidhiḥ)
 
 ## mukta-m0-p27-v655
-[sarvam](sarvam) [uktam](uktam) [samāsena](samāsena) [kim](kim) [ataḥ](ataḥ) [śrotum](śrotum) [icchasi](icchasi)
+[all](sarvam) [spoken](uktaṃ) [in-brief](samāsena) [what](kim) [beyond-this](ataḥ) [to-hear](śrotum) [you-wish](icchasi)
 
 ## mukta-m0-p27-v656
-[tāntrika](tāntrika) [pūjā](pūjā) [vidhi](vidhi) [kathanam](kathanaṃ) [nāma](nāma) [aṣṭamaḥ](aṣṭamaḥ) [paṭalaḥ](paṭalaḥ)
+[tantric-worship](tāntrika+pūjā) [method](vidhi) [narration](kathanaṃ) [named](nāma) [eighth](aṣṭamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p27-v657
-[arcā](arcā) [vidhāna](vidhāna) [śravaṇāt](śravaṇāt) [kṛtārthā](kṛtārthā) [asmi](asmi) [bhavanmukhāt](bhavanmukhāt)
+[worship](arcā) [procedure](vidhāna) [by-hearing](śravaṇāt) [fulfilled-of-purpose](kṛtārthā) [I-am](asmi) [from-your-mouth](bhavat+mukhāt)
 
 ## mukta-m0-p27-v658
-[brūhi](brūhi) [tān](tān) [akhilān](akhilān) [īśa](īśa) [pāhi](pāhi) [mām](māṃ) [karuṇākara](karuṇākara)
+[tell](brūhi) [them](tān) [all](akhilān) [O-Lord](īśa) [protect](pāhi) [me](māṃ) [O-compassionate-one](karuṇākara)
 
 ## mukta-m0-p27-v659
-[mat](mat) [pūjā](pūjā) [tatpareṇa](tatpareṇā) [āśu](śu) [mat](mat) [prasāda](prasādā) [abhikāṅkṣiṇā](bhikāṅkṣiṇā)
+[my-worship](mat+pūjā) [intent-on](tatpareṇa) [quickly](āśu) [my-grace](mat+prasāda) [desiring](abhikāṅkṣiṇā)
 
 ## mukta-m0-p27-v660
-[saṃkhyā](saṃkhyā) [niyamataḥ](niyamato) [nityam](nityaṃ) [grahaṇīyā](grahaṇīyā) [na](na) [ca](cā) [anyathā](nyathā)
+[number](saṃkhyā) [according-to-rule](niyamataḥ) [daily](nityaṃ) [to-be-taken](grahaṇīyā) [not](na) [and](ca) [otherwise](anyathā)
 
 ## mukta-m0-p27-v661
-[na](na) [upayojyam](upayojyaṃ) [hi](hi) [kṛtyeṣu](kṛtyeṣu) [mat](mad) [arpaṇa](arpaṇamukhādiṣu)
+[not](na) [to-be-used](upayojyam) [indeed](hi) [in-rites](kṛtyeṣu) [my-offering](mat+arpaṇa) [beginning-with-etc](mukha+ādiṣu)
 
 ## mukta-m0-p27-v662
-[na](na) [kupyet](kupyeccintayedanyān) [cintayet](cintayedanyān) [anyān](anyān) [na](nānyaiḥ) [anyaiḥ](anyaiḥ) [saṃllāpam](saṃllāpam) [ācaret](ācaret)
+[not](na) [one-should-be-angry](kupyet) [one-should-think-of](cintayet) [others](anyān) [not](na) [with-others](anyaiḥ) [conversation](saṃllāpam) [one-should-do](ācaret)
 
 ## mukta-m0-p27-v663
-[mat](mat) [nāma](nāma) [vāci](vāci) [ca](ca) [tathā](tathā) [na](na) [kadāpi](kadāpi) [viyojayet](viyojayet)
+[my-name](mat+nāma) [in-speech](vāci) [and](ca) [likewise](tathā) [not](na) [ever](kadāpi) [one-should-separate](viyojayet)
 
 ## mukta-m0-p27-v664
-[na](na) [me](me) [asamarpya](asamarpya) [seveta](seveta) [prāṇaiḥ](prāṇaiḥ) [kaṇṭhagataiḥ](kaṇṭhagatairapi) [api](api)
+[not](na) [to-me](me) [without-offering](asamarpya) [one-should-enjoy](seveta) [with-life-breaths](prāṇaiḥ) [gone-to-throat](kaṇṭha+gataiḥ) [even](api)
 
 ## mukta-m0-p27-v665
-[samarpitam](samarpitaṃ) [ca](ca) [liṅgāya](liṅgāya) [na](na) [ca](cā) [anyasmai](nyasmai) [samarpayet](samarpayet)
+[offered](samarpitam) [and](ca) [to-the-liṅga](liṅgāya) [not](na) [and](ca) [to-another](anyasmai) [one-should-offer](samarpayet)
 
 ## mukta-m0-p27-v666
-[na](na) [bhojyam](bhojyamasamarpyeti) [asamarpya](asamarpyeti) [iti](iti) [gaditam](gaditaṃ) [bhavatā](bhavataiva) [eva](eva) [tu](tu)
+[not](na) [to-be-eaten](bhojyam) [without-offering](asamarpya) [thus](iti) [said](gaditam) [by-you](bhavatā) [indeed](eva) [but](tu)
 
 ## mukta-m0-p27-v667
-[enam](enaṃ) [me](me) [saṃśayam](saṃśayaṃ) [chindhi](chindhi) [karuṇā](karuṇā) [varuṇa](varuṇā) [ālaya](laya)
+[this](enam) [of-me](me) [doubt](saṃśayam) [cut](chindhi) [O-ocean-of-compassion](karuṇā+varuṇa+ālaya)
 
 ## mukta-m0-p27-v668
-[nivedane](nivedane) [viśeṣaḥ](viśeṣo) [asti](sti) [vakṣyāmi](vakṣyāmyavahitā) [avahitā](avahitā) [bhava](bhava)
+[in-offering](nivedane) [distinction](viśeṣaḥ) [there-is](asti) [I-shall-tell](vakṣyāmi) [attentive](avahitā) [be](bhava)
 
 ## mukta-m0-p27-v669
-[tīrthasya](tīrthasya) [ca](cā) [arpaṇam](rpaṇaṃ) [proktam](proktamanujñārūpameva) [anujñā](anujñā) [rūpam](rūpameva) [eva](eva) [hi](hi)
+[of-sacred-water](tīrthasya) [and](ca) [offering](arpaṇam) [declared](proktam) [permission](anujñā) [form](rūpam) [indeed](eva) [for](hi)
 
 ## mukta-m0-p27-v670
-[labhyante](labhyante) [hi](hyaniśaṃ) [aniśam](aniśaṃ) [bhogāḥ](bhogāsteṣu) [teṣu](teṣu) [teṣu](teṣvapi) [api](api) [mat](mad) [vratī](vratī)
+[are-obtained](labhyante) [indeed](hi) [unceasingly](aniśam) [enjoyments](bhogāḥ) [in-those](teṣu) [in-those](teṣu) [also](api) [my-vow-observer](mat+vratī)
 
 ## mukta-m0-p27-v671
-[nivedanam](nivedanaṃ) [prakurvīta](prakurvīta) [grāmya](grāmyadharmādike) [dharma](dharma) [ādike](ādike) [tathā](tathā)
+[offering](nivedanam) [one-should-make](prakurvīta) [worldly-activities](grāmya+dharma) [beginning-with-etc](ādike) [likewise](tathā)
 
 ## mukta-m0-p27-v672
-[strīṇām](strīṇāmanudinaṃ) [anudinam](anudinaṃ) [bhagnam](bhagnaṃ) [tādṛśam](tādṛśaṃ) [hi](hi) [samarpaṇam](samarpaṇam)
+[of-women](strīṇām) [daily](anudinam) [broken](bhagnam) [such](tādṛśam) [indeed](hi) [offering](samarpaṇam)
 
 ## mukta-m0-p27-v673
-[athavā](athavā) [api](pyarcanaṃ) [arcanam](arcanaṃ) [kṛtvā](kṛtvā) [katham](kathaṃ) [kuryāt](kuryānnivedanam) [nivedanam](nivedanam)
+[or](athavā) [also](api) [worship](arcanam) [having-done](kṛtvā) [how](katham) [one-should-do](kuryāt) [offering](nivedanam)
 
 ## mukta-m0-p27-v674
-[bhuñjīta](bhuñjītānyatarat) [anyatarat](anyatarat) [tatra](tatra) [sā](sā) [kim](kiṃ) [brūhi](brūhyathavobhayam) [athavā](athavā) [ubhayam](ubhayam)
+[one-should-eat](bhuñjīta) [one-of-the-two](anyatarat) [there](tatra) [she](sā) [what](kim) [tell](brūhi) [or](athavā) [both](ubhayam)
 
 ## mukta-m0-p27-v675
-[ubhayam](ubhayaṃ) [ca](caiva) [eva](eva) [bhuñjīta](bhuñjīta) [bhakti](bhaktiyuktā) [yuktā](yuktā) [mayi](mayi) [priye](priye)
+[both](ubhayam) [and](ca) [indeed](eva) [one-should-eat](bhuñjīta) [endowed-with-devotion](bhakti+yuktā) [in-me](mayi) [O-beloved](priye)

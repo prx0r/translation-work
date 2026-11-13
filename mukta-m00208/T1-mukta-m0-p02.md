@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p02-v26
-[pavilion](maṇḍapaṃ) [having-made](racayitvā) [thus](evaṃ) [with-banners-etc](dhvajādyaiḥ) [him](taṃ) [adorn](vibhūṣayet)
+[pavilion](maṇḍapaṃ) [having-constructed](racayitvā) [thus](evaṃ) [with-flags+etc.](dhvajādyais) [that](taṃ) [one-should-decorate](vibhūṣayet)
 
 ## mukta-m0-p02-v27
-[with-plantain-trees](rambhābhiḥ) [with-darbha-garlands](darbhamālābhiḥ) [with-mirrors](darpaṇaiḥ) [with-incense-sticks](dhūpavartibhiḥ)
+[with-plantain-trees](rambhābhir) [with-darbha-garlands](darbhamālābhir) [with-mirrors](darpaṇair) [with-incense+lamps](dhūpavartibhiḥ)
 
 ## mukta-m0-p02-v28
-[with-five-colored](pañcavarṇayutaiḥ) [powders](cūrṇaiḥ) [or](athavā) [with-white-colors](śubhravarṇakaiḥ)
+[with-five-colored](pañcavarṇayutaiś) [with-powders](cūrṇair) [or](athavā) [with-white-colored](śubhravarṇakaiḥ)
 
 ## mukta-m0-p02-v29
-[teacher](guruḥ) [with-māheśvaras](māheśvaraiḥ) [sārdham](sārdhaṃ) [having-reached](prāpya) [pavilion](maṇḍapam) [his](asya) [tu](tu)
+[teacher](gurur) [with-Māheśvaras](māheśvaraiḥ) [together](sārdhaṃ) [having-reached](prāpya) [pavilion](maṇḍapam) [of-this](asya) [indeed](tu)
 
 ## mukta-m0-p02-v30
-[mantra](oṃ hāṁ vidyākalābhikhyadvārāya nama ityapi)
+[oṃ](oṃ) [hāṁ](hāṁ) [to-the-door+named-knowledge-kalā](vidyākalābhikhyadvārāya) [obeisance](nama) [thus](ity) [also](api)
 
 ## mukta-m0-p02-v31
-[eastern-etc](pūrvādīni) [having-worshipped](samabhyarcya) [then](tataḥ) [in-those-two-branches](tacchākhayoḥ) [place](nyaset)
+[eastern+etc.](pūrvādīni) [having-worshipped](samabhyarcya) [then](tatas) [on-its-two-branches](tacchākhayor) [one-should-place](nyaset)
 
 ## mukta-m0-p02-v32
-[bull](vṛṣaṃ) [skanda](skandaṃ) [and](tathā) [god](devaṃ) [caṇḍa](caṇḍaṃ) [two-two](dvau dvau) [in-four](caturṣu) [api](api)
+[bull](vṛṣaṃ) [Skanda](skandaṃ) [likewise](tathā) [god](devaṃ) [Caṇḍa](caṇḍaṃ) [two](dvau) [two](dvau) [in-the-four](caturṣv) [also](api)
 
 ## mukta-m0-p02-v33
-[three-trays](ghātratrayaṃ) [and](tathā) [having-made](kṛtvā) [obstacles](vighnān) [removing](utsārya) [carefully](yatnataḥ)
+[triple-protection](ghātratrayaṃ) [likewise](tathā) [having-made](kṛtvā) [obstacles](vighnān) [having-removed](utsārya) [with-effort](yatnataḥ)
 
 ## mukta-m0-p02-v34
-[inside](antaḥ) [having-entered](praviśya) [sacrificial-utensils](yāgopakaraṇāni) [having-looked](avalokya) [ca](ca)
+[inside](antaḥ) [having-entered](praviśya) [worship-implements](yāgopakaraṇāny) [having-inspected](avalokya) [and](ca)
 
 ## mukta-m0-p02-v35
-[on-comfortable-seat](sukhāsane) [then](tu) [sit](upaviśet) [made-of-kuśa-etc](kuśādiparikalpite)
+[on-a-comfortable-seat](sukhāsane) [indeed](tu) [one-should-sit](upaviśet) [with-kuśa-grass+etc.](kuśādiparikalpite)
 
 ## mukta-m0-p02-v36
-[vessel](pātraṃ) [having-taken](gṛhītvā) [speak](prabrūyāt) [thus](evaṃ) [in-presence-of-good-guru](sadgurusannidhau)
+[vessel](pātraṃ) [having-taken](gṛhītvā) [one-should-say](prabrūyād) [thus](evaṃ) [in-the-presence-of-the-true-guru](sadgurusannidhau)
 
 ## mukta-m0-p02-v37
-[thus](iti) [having-informed](vijñāpya) [that-vessel](tatpātraṃ) [having-placed](saṃsthāpya) [before](agre) [salute](abhivādayet)
+[thus](iti) [having-informed](vijñāpya) [that-vessel](tatpātraṃ) [having-placed](saṃsthāpyā) [in-front](gre) [one-should-salute](’bhivādayet)
 
 ## mukta-m0-p02-v38
-[having-received](parigṛhya) [gaṇa-permission](gaṇānujñām) [having-sat](upaviśya) [on-seat](āsane) [again](punaḥ)
+[having-received](parigṛhya) [permission-of-the-gaṇas](gaṇānujñām) [having-sat](upaviśyā) [on-the-seat](sane) [again](punaḥ)
 
 ## mukta-m0-p02-v39
-[gaṇeśa-worship](gaṇeśapūjanaṃ) [do](kuryāt) [svasti-puṇyāha-recitation](svastipuṇyāhavācanam)
+[worship-of-Gaṇeśa](gaṇeśapūjanaṃ) [one-should-perform](kuryāt) [recitation-of-svasti+puṇyāha](svastipuṇyāhavācanam)
 
 ## mukta-m0-p02-v40
-[for-removal](nivṛttaye) [of-three-impurities](malatraya) [residing-in-three-bodies](dehatrayagatānām) [ādi](ādi)
+[of-those-situated-in-the-three-bodies](dehatrayagatān) [for-the-removal-of-the-three-original-impurities](ādimalatrayanivṛttaye)
 
 ## mukta-m0-p02-v41
-[by-six-paths-purification](ṣaḍadhvaśuddhi) [before](pūrveṇa) [by-śāmbhava](śāmbhavena) [by-vow](vratena)
+[preceded-by-purification-of-the-six-paths](ṣaḍadhvaśuddhipūrveṇa) [with-the-Śāmbhava](śāmbhavena) [vow](vratena)
 
 ## mukta-m0-p02-v42
-[thus](iti) [having-resolved](saṃkalpya) [give](dadyāt) [ca](ca) [seven](sapta) [initiations](dīkṣāḥ) [other-rites](kriyāntarāḥ)
+[thus](iti) [having-resolved](saṃkalpya) [one-should-give](dadyāc) [and](ca) [seven](sapta) [initiations](dīkṣāḥ) [other-rites](kriyāntarāḥ)
 
 ## mukta-m0-p02-v43
-[self-dependent](svāyattam) [iti](iti) [these-seven](saptaitāḥ) [rite-initiations-other](kriyādīkṣāntarā) [considered](matāḥ)
+[under-one's-own-control](svāyattam) [thus](iti) [these-seven](saptaitāḥ) [intermediate-rite-initiations](kriyādīkṣāntarā) [are-considered](matāḥ)
 
 ## mukta-m0-p02-v44
-[thus](ityājñā) [by-initiation](dīkṣayā) [having-instructed](ādiśya) [then](tataḥ) [tu](tu) [evaṃ](evaṃ) [speak](vadet) [guru](guruḥ)
+[thus](ity) [by-command-initiation](ājñādīkṣayā) [having-instructed](’diśya) [then](tatas) [indeed](tu) [thus](evaṃ) [should-say](vaded) [teacher](guruḥ)
 
 ## mukta-m0-p02-v45
-[breaths](prāṇān) [having-controlled](āyamya) [according-to-rite](vidhivat) [five-cow-products](pañcagavyāni) [prepare](sādhayet)
+[breaths](prāṇān) [having-restrained](āyamya) [according-to-rule](vidhivat) [the-five-products-of-the-cow](pañcagavyāni) [one-should-prepare](sādhayet)
 
 ## mukta-m0-p02-v46
-[of-four](caturṇāṃ) [four-ācāryas](caturācāryāḥ) [of-middle](madhyasya) [ca](ca) [oneself](svayaṃ) [become](bhavet)
+[of-the-four](caturṇāṃ) [four-teachers](caturācāryā) [of-the-middle-one](madhyasya) [and](ca) [himself](svayaṃ) [one-should-be](bhavet)
 
 ## mukta-m0-p02-v47
-[sadyojāta](sadyojātaṃ) [ca](ca) [in-east](pūrvasmin) [vāmadeva](vāmadevaṃ) [tu](tu) [in-south](dakṣiṇe)
+[Sadyojāta](sadyojātaṃ) [and](ca) [in-the-east](pūrvasmin) [Vāmadeva](vāmadevaṃ) [indeed](tu) [in-the-south](dakṣiṇe)
 
 ## mukta-m0-p02-v48
-[by-those-mantras](tattanmantraiḥ) [having-invoked](samāvāhya) [worship](pūjayet) [thereafter](tadanantaram)
+[with-their-respective-mantras](tattanmantraiḥ) [having-invoked](samāvāhya) [one-should-worship](pūjayet) [immediately-after-that](tadanantaram)
 
 ## mukta-m0-p02-v49
-[śiva-liṅga](śivaliṅgaṃ) [having-lifted](samuddhṛtya) [marked-by-five-threads](pañcasūtropalakṣitam)
+[Śiva-liṅga](śivaliṅgaṃ) [having-lifted-up](samuddhṛtya) [marked-by-five-threads](pañcasūtropalakṣitam)
 
 ## mukta-m0-p02-v50
-[for-pacification](upaśāntaye) [of-faults](doṣa) [arising](jāta) [from-rubbing-etc-rites](gharṣaṇādikriyājāta)
+[for-the-pacification-of-faults-arisen-from-rubbing+etc.-actions](gharṣaṇādikriyājātajātadoṣopaśāntaye)

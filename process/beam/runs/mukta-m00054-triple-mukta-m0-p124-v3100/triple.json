@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "paraśvadha",
+     "gloss": "axe",
+     "grounds": "first member of compound paraśvadhāyudha, denoting the weapon",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āyudhāya",
+     "gloss": "to-weapon-bearing",
+     "grounds": "dative singular of āyudha in compound with paraśvadha, qualifying the recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāya",
+     "gloss": "to-god",
+     "grounds": "dative singular noun identifying the divine recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing reverential salutation, repeated",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine figure bearing an axe as weapon receives repeated obeisance?",
+   "premises": [
+    "The compound paraśvadhāyudha denotes one whose weapon is an axe.",
+    "The dative devāya identifies a divine recipient of salutation.",
+    "The repeated namaḥ expresses reverential obeisance to that recipient."
+   ],
+   "inference": "Reverential obeisance is offered to the god who bears an axe as his weapon.",
+   "uncertainties": [
+    "The specific deity intended by paraśvadhāyudha is not explicitly named in this unit."
+   ],
+   "plain_english": "Obeisance to the god whose weapon is the axe; obeisance."
+  }
+ ]
+}

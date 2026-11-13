@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[happiness+hope](sukham+āśāya) [mind-on-me](maccittaḥ) [that-food](tad+annam) [digesting](pariṇāmayan)
+[happily](sukham) [for-digesting](āśāya) [my](mat) [mind](cittaḥ) [that](tat) [food](annaṃ) [digesting](pariṇāmayan)
 
 ## mukta-m0-p13-v302
-[with-hope](āśāya) [then](atha) [effort](yatnam) [for-nourishment-goal](poṣyārtha+siddhaye)
+[in-digestion](āśāyām) [then](atha) [one-should-make](kurvīta) [effort](yatnaṃ) [for-nourishment](poṣya) [purpose](artha) [accomplishment](siddhaye)
 
 ## mukta-m0-p13-v303
-[evening](sāyantanīm) [worship](pūjām) [vaiśvadeva](vaiśvadevam) [perform](samācaret)
+[having-performed](kṛtvā) [evening](sāyantanīṃ) [worship](pūjāṃ) [offering-to-all-gods](vaiśvadevaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p13-v304
-[evening](sāyam) [arriving](āyāntam) [guest](atithim) [worship](pūjayet) [with-great-devotion](atibhaktitaḥ)
+[in-the-evening](sāyam) [arriving](āyāntam) [guest](atithiṃ) [one-should-worship](pūjayet) [with-great](ati) [devotion](bhaktitaḥ)
 
 ## mukta-m0-p13-v305
-[evening](sāyam) [indeed](hi) [turning-away](vimukhe) [that](tasmin) [eightfold](aṣṭaguṇitam) [becomes](bhavet)
+[in-the-evening](sāyam) [indeed](hi) [when-turned-away](vimukhe) [in-that-case](tasmin) [that](tat) [eight](aṣṭa) [multiplied](guṇitam) [becomes](bhavet)
 
 ## mukta-m0-p13-v306
-[favor](prasādam) [having-enjoyed](upabhujya) [then](atha) [my-hymns](mat+stotrāṇi) [recite](paṭhet) [also](api)
+[sacred-offering](prasādam) [having-partaken](upabhujya) [then](atha) [my](mat) [hymns](stotrāṇi) [one-should-recite](paṭhet) [also](api)
 
 ## mukta-m0-p13-v307
-[remembering](smaran) [samādhi](samādhim) [resorting-to](āsthāya) [sleep](śayīta) [head-low](arvāk+śirāḥ) [happily](sukham)
+[remembering](smaran) [meditative-absorption](samādhim) [having-entered](āsthāya) [one-should-sleep](śayīta) [with-head](śirāḥ) [toward-the-east](arvāk) [happily](sukham)
 
 ## mukta-m0-p13-v308
-[of-twice-born](dvijānām) [my](mama) [devotees](bhaktānām) [my-foot-attainment](mat+pada+prāpti) [means](sādhanam)
+[of-the-twice-born](dvijānāṃ) [my](mama) [devotees](bhaktānāṃ) [my](mat) [abode](pada) [attainment](prāpti) [means](sādhanam)
 
 ## mukta-m0-p13-v309
-[daily-rite](āhnika+vidhiḥ) [named](nāma) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
+[daily](āhnika) [rite](vidhiḥ) [named](nāma) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p13-v310
-[heard](aśrauṣam) [daily-rite](āhnikam) [deity](deva) [of-devotees](bhaktānām) [desire-giving](iṣṭa+dāyakam)
+[I-have-heard](aśrauṣam) [daily-rite](āhnikaṃ) [O-God](deva) [of-devotees](bhaktānām) [desired](iṣṭa) [bestowing](dāyakam)
 
 ## mukta-m0-p13-v311
-[rangavalli-rite](raṅgavallī+vidhānam) [and](ca) [lamp-preparation](vartikā+sādhanam) [thus](tathā)
+[colored-design](raṅgavallī) [procedure](vidhānaṃ) [and](ca) [wick](vartikā) [preparation](sādhanaṃ) [likewise](tathā)
 
 ## mukta-m0-p13-v312
-[hear](śrotum) [wish](icchāmi) [lord](bhagavan) [tell](vada) [me](me) [ocean-of-mercy](karuṇā+nidhe)
+[to-hear](śrotum) [I-wish](icchāmi) [O-Lord](bhagavan) [tell](vada) [to-me](me) [O-ocean](nidhe) [of-compassion](karuṇā)
 
 ## mukta-m0-p13-v313
-[my-worship](mat+pūjā) [threefold](trividhā) [light](laghvī) [heavy](gurvī) [and](ca) [great](mahatī) [thus](tathā)
+[my](mat) [worship](pūjā) [three](tri) [fold](vidhā) [light](laghvī) [elaborate](gurvī) [and](ca) [great](mahatī) [likewise](tathā)
 
 ## mukta-m0-p13-v314
-[light](laghvīm) [unable](aśaktaḥ) [perform](kuryāt) [ca](ca) [evening](sāyam) [midday](mādhyāhnike) [thus](tathā)
+[light-worship](laghvīm) [one-unable](aśaktaḥ) [should-perform](kuryāt) [and](ca) [in-the-evening](sāyam) [at-midday](mādhyāhnike) [likewise](tathā)
 
 ## mukta-m0-p13-v315
-[three-times](trikālam) [worship](arcanām) [perform](kuryāt) [able](śaktaḥ) [six-times](ṣaṭkālam) [or](eva) [vā](vā)
+[three](tri) [times](kālam) [worship](arcanāṃ) [one-should-perform](kuryāt) [one-able](śaktaḥ) [six](ṣaṭ) [times](kālam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p13-v316
-[my-worship](mad+arcanām) [having-performed](vidhāya) [eva](eva) [sāvitrī](sāvitrīm) [recite](prajapet) [man](naraḥ)
+[my](mat) [worship](arcanāṃ) [having-performed](vidhāya) [indeed](eva) [Sāvitrī](sāvitrīṃ) [should-recite](prajapet) [a-person](naraḥ)
 
 ## mukta-m0-p13-v317
-[japa-sacrifice](japa+yajñam) [having-performed](vidhāya) [thus](evam) [worship](pūjām) [dawn-time](udaya+kālikīm)
+[recitation](japa) [sacrifice](yajñaṃ) [having-performed](vidhāya) [thus](evaṃ) [worship](pūjām) [of-sunrise](udaya) [time](kālikīm)
 
 ## mukta-m0-p13-v318
-[evening](sāyam) [sandhyā](sandhyām) [having-worshipped](upāsya) [worship](arcyām) [perform](kuryāt) [evening](sāyantanīm) [thus](tathā)
+[in-the-evening](sāyaṃ) [twilight-rite](sandhyām) [having-performed](upāsya) [worship](arcyāṃ) [one-should-perform](kuryāt) [evening](sāyantanīṃ) [likewise](tathā)
 
 ## mukta-m0-p13-v319
-[householder](gṛhī) [midnight](niśy+ardha+rātra) [worship](arcām) [with-faith-devotion](śraddhā+bhakti+samanvitaḥ)
+[a-householder](gṛhī) [at-night](niśi) [midnight](ardha+rātra) [worship](arcāṃ) [with-faith](śraddhā) [devotion](bhakti) [endowed](samanvitaḥ)
 
 ## mukta-m0-p13-v320
-[of-householders](gṛhiṇaḥ) [and](ca) [of-ascetic](yateḥ) [midnight-worship-end](dharātra+pūjā+vasāna) [going](gau)
+[of-householders](gṛhiṇaḥ) [and](ca) [of-ascetics](yateḥ) [midnight](ardha+rātra) [worship](pūjā) [at-conclusion](avasānagau)
 
 ## mukta-m0-p13-v321
-[second-watch](dvitīya+yāme) [to-be-done](kartavyā) [my](mama) [worship](pūjā) [midnight](ardharātrikī)
+[in-the-second](dvitīya) [watch](yāme) [should-be-performed](kartavyā) [my](mama) [worship](pūjā) [of-midnight](ardha+rātrikī)
 
 ## mukta-m0-p13-v322
-[night-vrata](naktavrata) [if](yadi) [again](punar) [special](viśeṣaḥ) [now](adhunā) [said](ucyate)
+[night](nakta) [vowed](vratī) [if](yadi) [again](punar) [special-rule](viśeṣaḥ) [but](tu) [now](adhunā) [is-stated](ucyate)
 
 ## mukta-m0-p13-v323
-[watch](yāmāt) [before](purastāt) [to-be-done](kartavyā) [my](mama) [worship](pūjā) [not](na) [eating](bhojanā)
+[before-the-watch](yāmāt) [earlier](purastāt) [should-be-performed](kartavyā) [my](mama) [worship](pūjā) [not](na) [meal](bhojanā)
 
 ## mukta-m0-p13-v324
-[that-before](tat+pūrvaḥ) [praised](śasyate) [time](kālaḥ) [for-constant-night-eaters](nitya+nakta+upajīvinām)
+[before-that](tat) [prior](pūrvaḥ) [is-recommended](śasyate) [time](kālaḥ) [of-those-living-by](upajīvinām) [regular](nitya) [night-meal](nakta)
 
 ## mukta-m0-p13-v325
-[because](yataḥ) [favor](prasādaḥ) [to-be-enjoyed](saṃsevyaḥ) [certainly](niyatam) [by-night-eaters](nakta+bhojinām)
+[because](yataḥ) [sacred-offering](prasādaḥ) [should-be-partaken](saṃsevyaḥ) [necessarily](niyataṃ) [by-night-eaters](nakta+bhojinām)

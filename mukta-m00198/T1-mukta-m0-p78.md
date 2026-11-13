@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-[thirty-two-attendants](dvātriṃśatparivāraṃ) [but](tu) [in-water-palace](jālajaharmye) [but](tu) [constructed](kalpitam)
+thirty-two+retinue](dvātriṃśatparivāraṃ) [indeed](tu) [in-net+shrine](jālajaharmye) [indeed](tu) [arranged](kalpitam)
 
 ## mukta-m0-p78-v1927
-[or](athavā) [in-all-palaces](sarvaharmyeṣu) [all](sarvaṃ) [or](vā) [should-arrange](parikalpayet)
+or](athavā) [in-all+shrines](sarvaharmyeṣu) [all](sarvaṃ) [or](vā) [one-should-arrange](parikalpayet)
 
 ## mukta-m0-p78-v1928
-[first](ādau) [but](tu) [of-attendants](parivārāṇāṃ) [I-will-describe-here](vakṣyehaṃ) [bull-mark](vṛṣalakṣaṇam)
+in-the-beginning](ādau) [indeed](tu) [of-retinues](parivārāṇāṃ) [I-shall-tell](vakṣyehaṃ) [bull+characteristics](vṛṣalakṣaṇam)
 
 ## mukta-m0-p78-v1929
-[thus-in-Kashyapa](ityaṃśumānkāśyape) [chapter-on-attendant-marks](parivāralakṣaṇavidhipaṭalaḥ) [forty-fifth](paṃcacatvāriṃśaḥ)
+thus](iti) [in-aṃśumān+kāśyapa](aṃśumānkāśyape) [retinue+characteristics+rule+chapter](parivāralakṣaṇavidhipaṭalaḥ) [forty-fifth](paṃcacatvāriṃśaḥ)
 
 ## mukta-m0-p78-v1930
-[forty-angulas-length](catvāriṃśāṃgulāyāmaṃ) [from-neck-to-back-end](galātpṛṣṭhāvasānakam)
+forty+aṅgula+length](catvāriṃśāṃgulāyāmaṃ) [from-neck](galāt) [to-back+end](pṛṣṭhāvasānakam)
 
 ## mukta-m0-p78-v1931
-[therefore-neck-height-eight-parts](tasmādgrīvoccamaṣṭāṃśaṃ) [chest-end-sixteen-angulas](uro'ntaṃ) [sixteen-angulas](ṣoḍaśāṃgulam)
+from-that](tasmāt) [neck+height](grīvoccam) [eight+parts](aṣṭāṃśaṃ) [to-chest+end](uro'ntaṃ) [sixteen+aṅgulas](ṣoḍaśāṃgulam)
 
 ## mukta-m0-p78-v1932
-[knee-measure-two-matras](jānumānaṃ) [should-be](syāt) [shank-measure-six-angulas](jaṃghamānaṃ) [six-angulas](ṣaḍaṃgulam)
+knee+measure](jānumānaṃ) [two+measures](dvimātraṃ) [should-be](syāt) [shank+measure](jaṃghamānaṃ) [six+aṅgulas](ṣaḍaṃgulam)
 
 ## mukta-m0-p78-v1933
-[ornament-eight-parts](śṛṃgāraṃ) [but](tu) [vasu-parts](vasvaṃśaṃ) [horn-height-four-angulas](śṛṃgoccaṃ) [four-angulas](caturaṃgulam)
+horn-root](śṛṃgāraṃ) [indeed](tu) [eight+parts](vasvaṃśaṃ) [horn+height](śṛṃgoccaṃ) [four+aṅgulas](caturaṃgulam)
 
 ## mukta-m0-p78-v1934
-[half-angula-tip](ardhāṃgulaṃ) [that-tip](tadagraṃ) [should-be](syāt) [tip-root-gradually-thin](agraṃ) [mūlātkramātkṛśam]
+half+aṅgula](ardhāṃgulaṃ) [its+tip](tadagraṃ) [should-be](syāt) [tip](agraṃ) [from-root+gradually](mūlātkramāt) [tapering](kṛśam)
 
 ## mukta-m0-p78-v1935
-[forehead-width-nine-parts](lalāṭa) [vyāsanandāṃśaṃ](vyāsanandāṃśaṃ) [face-width-arrow-roots](mukhavyāsaṃ) [śarāṃmulam](śarāṃmulam)
+forehead](lalāṭa) [width+nine+parts](vyāsanandāṃśaṃ) [face+width](mukhavyāsaṃ) [five+parts](śarāṃmulam)
 
 ## mukta-m0-p78-v1936
-[one-and-half-angulas-height](adhyardhāṃgulamutsedhaṃ) [made-like-shaphara-fish](śapharākṛtivatkṛtam)
+one-and-a-half+aṅgula](adhyardhāṃgulam) [height](utsedhaṃ) [like-fish+shape](śapharākṛtivat) [made](kṛtam)
 
 ## mukta-m0-p78-v1937
-[therefore-back-neck-end-six-matras](tasmādvai) [pṛṣṭhagrīvāntaṃ](pṛṣṭhagrīvāntaṃ) [six-matras](ṣaṇmātraṃ) [declared](parikīrtitam)
+from-that](tasmāt) [indeed](vai) [to-back+neck+end](pṛṣṭhagrīvāntaṃ) [six+measures](ṣaṇmātraṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p78-v1938
-[ear-root-wide](karṇamūlaviśālaṃ) [but](tu) [two-matras](dvimātramiti) [known](vidyate)
+ear+root+width](karṇamūlaviśālaṃ) [indeed](tu) [two+measures](dvimātram) [thus](iti) [is-known](vidyate)
 
 ## mukta-m0-p78-v1939
-[dense-half-angula](ghanamardhāṃgulaṃ) [known](khyātaṃ) [nose-one-and-half-angulas-long](ghrāṇaṃ) [sārdhāṃgulāyatam](sārdhāṃgulāyatam)
+thickness+half+aṅgula](ghanamardhāṃgulaṃ) [is-known](khyātaṃ) [nose](ghrāṇaṃ) [one-and-a-half+aṅgula+long](sārdhāṃgulāyatam)
 
 ## mukta-m0-p78-v1940
-[angula-above-nose](aṃgulaṃ) [nāsikādūrdhvaṃ](nāsikādūrdhvaṃ) [tuṃgam](tuṃgam) [called](ityabhidhīyate)
+one+aṅgula](aṃgulaṃ) [from-nostril+upward](nāsikādūrdhvaṃ) [height](tuṃgam) [thus](iti) [is-stated](abhidhīyate)
 
 ## mukta-m0-p78-v1941
-[three-matras-upper-lip](trimātraṃ) [cottaroṣṭhaṃ](cottaroṣṭhaṃ) [ca](ca) [properly-arrange-gradually](yuktitaḥ) [kalpayetkramāt](kalpayetkramāt)
+three+measures](trimātraṃ) [and+upper+lip](cottaroṣṭhaṃ) [and](ca) [properly](yuktitaḥ) [one-should-arrange](kalpayet) [gradually](kramāt)
 
 ## mukta-m0-p78-v1942
-[neck-width-ten-parts](grīvavyāsaṃ) [daśāṃśaṃsyātanmūlaṃ](daśāṃśaṃsyātanmūlaṃ) [twelve-angulas](dvādaśāṃgulam)
+neck+width](grīvavyāsaṃ) [ten+parts](daśāṃśaṃ) [should-be](syāt) [its+root](tanmūlaṃ) [twelve+aṅgulas](dvādaśāṃgulam)
 
 ## mukta-m0-p78-v1943
-[back-neck-front-spread-six-angulas](pṛṣṭhagrīvāgravistāraṃ) [six-angulas](ṣaḍaṃgulam) [declared](udāhṛtam)
+back+neck+tip+width](pṛṣṭhagrīvāgravistāraṃ) [six+aṅgulas](ṣaḍaṃgulam) [is-stated](udāhṛtam)
 
 ## mukta-m0-p78-v1944
-[neck-front-dense](grīvasyāgraghanaṃ) [cāpi](cāpi) [one-and-half-angulas](adhyardhāṃgulam) [said](ucyate)
+of-neck](grīvasyā) [tip+thickness](agraghanaṃ) [and](ca) [also](api) [one-and-a-half+aṅgula](adhyardhāṃgulam) [is-said](ucyate)
 
 ## mukta-m0-p78-v1945
-[body-middle-width](śarīramadhyame) [vyāsaṃ](vyāsaṃ) [fourteen-angulas](caturdaśāṃgulaṃ) [becomes](bhavet)
+body+middle](śarīramadhyame) [width](vyāsaṃ) [fourteen+aṅgulas](caturdaśāṃgulaṃ) [should-be](bhavet)
 
 ## mukta-m0-p78-v1946
-[front-leg-thigh-root-width](pūrvapādorumūlasya) [vyāsaṃ](vyāsaṃ) [five-angulas](paṃcāṃgulaṃ) [becomes](bhavet)
+fore+leg+thigh+root](pūrvapādorumūlasya) [width](vyāsaṃ) [five+aṅgulas](paṃcāṃgulaṃ) [should-be](bhavet)
 
 ## mukta-m0-p78-v1947
-[shank-tip-finger-measure](jaṃghāgraṃ) [guṇamātraṃ](guṇamātraṃ) [syāt](syāt) [sārdhāgnyaṃśaṃ](sārdhāgnyaṃśaṃ) [khurastatam](khurastatam)
+shank+tip](jaṃghāgraṃ) [three+measures](guṇamātraṃ) [should-be](syāt) [one-and-a-half+three+parts](sārdhāgnyaṃśaṃ) [hoof](khuraḥ) [extended](tatam)
 
 ## mukta-m0-p78-v1948
-[rest-like-front-thigh](śeṣaṃ) [pūrvoruvatkāryaṃ](pūrvoruvatkāryaṃ) [tail-shank-tip-joint](pucchaṃ) [jaṃghāgrasīmakam](jaṃghāgrasīmakam)
+rest](śeṣaṃ) [like-fore+thigh](pūrvoruvat) [should-be-made](kāryaṃ) [tail](pucchaṃ) [shank+tip+limit](jaṃghāgrasīmakam)
 
 ## mukta-m0-p78-v1949
-[tail-tip-with-hair](pucchāgraṃ) [keśasahitaṃ](keśasahitaṃ) [width-veda-angulas](vyāsaṃ) [vedāṃgulaṃ](vedāṃgulaṃ) [becomes](bhavet)
+tail+tip](pucchāgraṃ) [with-hair](keśasahitaṃ) [width](vyāsaṃ) [four+aṅgulas](vedāṃgulaṃ) [should-be](bhavet)
 
 ## mukta-m0-p78-v1950
-[seed-width-wide](bījāyāmaviśālaṃ) [but](tu) [four-fire-angulas](caturagnyaṃgulaṃ) [becomes](bhavet)
+scrotum+length+width](bījāyāmaviśālaṃ) [indeed](tu) [four+three+aṅgulas](caturagnyaṃgulaṃ) [should-be](bhavet)
