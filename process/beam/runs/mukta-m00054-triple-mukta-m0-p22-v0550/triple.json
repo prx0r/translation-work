@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "bahu",
+     "gloss": "many",
+     "grounds": "first member of compound describing the woman",
+     "morph": "compound:bahu+first"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "second member of compound describing the woman",
+     "morph": "compound:putra+middle"
+    },
+    {
+     "surface": "vatī",
+     "gloss": "possessing",
+     "grounds": "final member of compound; feminine form agreeing with nārī",
+     "morph": "compound:vatī+final.f.nom.sg"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "subject of the sentence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "subhagā",
+     "gloss": "fortunate",
+     "grounds": "predicate adjective describing the woman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "main verb expressing resulting state",
+     "morph": "3.sg.pass-pres √jan"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb asserting certainty of the outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain outcome is assured for a woman by this ritual efficacy?",
+   "premises": [
+    "The preceding context affirms the goddess grants a son to a barren woman.",
+    "This ritual efficacy produces a definite transformation in the recipient.",
+    "The resulting state includes both fortune and possession of many sons."
+   ],
+   "inference": "Therefore, a woman certainly becomes fortunate and the mother of many sons through this efficacy.",
+   "uncertainties": [
+    "Whether bahuputravatī implies literal multiple sons or abundant progeny in general is not specified."
+   ],
+   "plain_english": "A woman certainly becomes fortunate and the mother of many sons."
+  }
+ ]
+}

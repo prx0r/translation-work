@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p22",
  "verse": 530,
- "question": "Which people are identified as servants of Kali by their conduct?",
+ "question": "What utterance and action are prescribed to revive a dead person?",
  "premises": [
-  "Some people are devoted to harming others.",
-  "Alignment with Kali is shown by conduct.",
-  "Malice toward others marks such alignment."
+  "The phrase 'reviver of the dead' is uttered.",
+  "The dead person is addressed as the object.",
+  "The command to raise up is given as a pair."
  ],
- "inference": "People devoted to harming others are servants of Kali.",
- "uncertainties": [],
- "plain_english": "And those people who are devoted to harming others are servants of Kali."
+ "inference": "Saying 'reviver of the dead' and commanding 'raise up' twice revives the dead.",
+ "uncertainties": [
+  "The exact syntactic form of the paired utterance is compressed."
+ ],
+ "plain_english": "Having said 'reviver of the dead,' raise up the dead one—say it twice."
 }

@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "ḍākinyaḥ",
+     "gloss": "dakinis",
+     "grounds": "supernatural female beings; nominative plural subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kupita+antakaś",
+     "gloss": "enraged-death",
+     "grounds": "compound of angered and death; nominative singular subject",
+     "morph": "compound: kupita+antaka (m.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking subjects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manujo",
+     "gloss": "human",
+     "grounds": "born of Manu; nominative singular subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātaḥ",
+     "gloss": "o-mother",
+     "grounds": "vocative address to the Goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṣaṇam",
+     "gloss": "for-a-moment",
+     "grounds": "accusative of duration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative indicating place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What threatening forces confront beings on earth, even if only for a moment, O Mother?",
+   "premises": [
+    "Dakinis are present as threatening forces.",
+    "Enraged Death is present as a threatening force.",
+    "A human being is present among these forces on earth."
+   ],
+   "inference": "Dakinis, enraged Death, and humans together constitute immediate threats on earth.",
+   "uncertainties": [
+    "The verb governing these subjects is not explicit in this verse and must be supplied from context.",
+    "Whether manujo denotes a hostile human or humanity in general is context-dependent."
+   ],
+   "plain_english": "O Mother, dakinis, enraged Death, and a human being are present for a moment upon the earth."
+  }
+ ]
+}

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-śrīmān (śrīmān) dāridrya (dāridrya) ādi (ādi) ādhi (ādhi) duḥkha (duḥkha) dam (dam)
+[glorious](śrīmān) [poverty+etc](dāridrya+ādi) [mental-affliction](ādhi) [sorrow-giving](duḥkha+dam)
+
 ## mukta-m0-p16-v377
-kambalaṃ (kambalaṃ) vā (vā) kalpayet (kalpayet) āsanaṃ (āsanaṃ) mṛdu (mṛdu)
+[woolen-blanket](kambalaṃ) [or](vā) [one-should-arrange](kalpayet) [seat](āsanaṃ) [soft](mṛdu)
+
 ## mukta-m0-p16-v378
-viśet (viśet) yatiḥ (yatiḥ) vanasthaḥ (vanasthaḥ) ca (ca) brahmacārī (brahmacārī) ca (ca) snātakaḥ (snātakaḥ)
+[should-sit](viśet) [ascetic](yatiḥ) [forest-dweller](vana+sthaḥ) [and](ca) [celibate-student](brahma+cārī) [and](ca) [householder](snātakaḥ)
+
 ## mukta-m0-p16-v379
-dvihastaṃ (dvihastaṃ) vā (vā) caturasraṃ (caturasraṃ) samantataḥ (samantataḥ)
+[two-cubits](dvi+hastaṃ) [or](vā) [four-cornered](catur+asraṃ) [on-all-sides](samantataḥ)
+
 ## mukta-m0-p16-v380
-svāstika (svāstika) ādīni (ādīni) vakṣyāmi (vakṣyāmi) ca (ca) āsanāni (āsanāni) atha (atha) sattama (sattama)
+[svāstika+etc](svāstika+ādīni) [I-shall-describe](vakṣyāmi) [and](ca) [seats](āsanāni) [now](atha) [O-best-one](sat+tama)
+
 ## mukta-m0-p16-v381
-praśastam (praśastam) eteṣu (eteṣu) pūjite (pūjite) punar (punar) ādime (ādime)
+[excellent](praśastam) [among-these](eteṣu) [worshipped](pūjite) [again](punaḥ) [in-the-first](ādi+ime)
+
 ## mukta-m0-p16-v382
-jānu (jānu) ūrvoḥ (ūrvoḥ) antare (antare) kṛtvā (kṛtvā) samyak (samyak) pādatale (pādatale) ume (ume)
+[knee+thighs](jānu+ūrvoḥ) [between](antare) [having-placed](kṛtvā) [properly](samyak) [soles-of-feet](pāda+tale) [both](ume)
+
 ## mukta-m0-p16-v383
-vinyasya (vinyasya) dakṣiṇaṃ (dakṣiṇaṃ) caraṇaṃ (caraṇaṃ) budhaḥ (budhaḥ)
+[having-placed](vinyasya) [right](dakṣiṇaṃ) [foot](caraṇaṃ) [wise-one](budhaḥ)
+
 ## mukta-m0-p16-v384
-karābhyām (karābhyām) aṅguṣṭhe (aṅguṣṭhe) nidhāya (nidhāya) cibukaṃ (cibukaṃ) hṛdi (hṛdi)
+[with-both-hands](karābhyām) [on-thumbs](aṅguṣṭhe) [having-placed](nidhāya) [chin](cibukaṃ) [on-chest](hṛdi)
+
 ## mukta-m0-p16-v385
-na (na) evam (evam) ākhyātaṃ (ākhyātaṃ) padmāsanam (padmāsanam) idaṃ (idaṃ) budhaiḥ (budhaiḥ)
+[not+thus](na+evam) [described](ākhyātaṃ) [lotus-seat](padma+āsanam) [this](idam) [by-the-wise](budhaiḥ)
+
 ## mukta-m0-p16-v386
-pādaṃ (pādaṃ) nyaset (nyaset) vāmaṃ (vāmaṃ) tathā (tathā) anyataḥ (anyataḥ)
+[foot](pādaṃ) [one-should-place](nyaset) [left](vāmaṃ) [likewise](tathā) [on-the-other-side](anyataḥ)
+
 ## mukta-m0-p16-v387
-syāt (syāt) idam (idam) iti (iti) avagamyatām (avagamyatām)
+[it-should-be](syāt) [this](idam) [thus](iti) [let-it-be-understood](avagamyatām)
+
 ## mukta-m0-p16-v388
-ubhābhyām (ubhābhyām) ūru (ūru) mūlābhyām (mūlābhyām) agra (agra) pādau (pādau) ubhau (ubhau) api (api)
+[with-both](ubhābhyām) [thigh-roots](ūrū+mūlābhyām) [fore-parts-of-feet](agra+pādau) [both](ubhau) [also](api)
+
 ## mukta-m0-p16-v389
-vīrāsanam (vīrāsanam) udīritam (udīritam)
+[hero-seat](vīra+āsanam) [is-declared](udīritam)
+
 ## mukta-m0-p16-v390
-vinyasya (vinyasya) vajrāsanam (vajrāsanam) udīritam (udīritam)
+[having-placed](vinyasya) [thunderbolt-seat](vajra+āsanam) [is-declared](udīritam)
+
 ## mukta-m0-p16-v391
-yābhiḥ (yābhiḥ) viracitābhiḥ (viracitābhiḥ) ca (ca) modante (modante) mantra (mantra) devatāḥ (devatāḥ)
+[by-which](yābhiḥ) [performed](viracitābhiḥ) [and](ca) [rejoice](modante) [mantra-deities](mantra+devatāḥ)
+
 ## mukta-m0-p16-v392
-vidadhau (vidadhau) veṇuṃ (veṇuṃ) padma (padma) mālā (mālā) gadāḥ (gadāḥ) kramāt (kramāt)
+[held](vidadhau) [flute](veṇuṃ) [lotus](padma) [garland](mālā) [maces](gadāḥ) [in-order](kramāt)
+
 ## mukta-m0-p16-v393
-śrīvatsa (śrīvatsa) kaustubhau (kaustubhau) parśuḥ (parśuḥ) gāruḍī (gāruḍī) mohanī (mohanī) parā (parā)
+[śrīvatsa+kaustubha](śrīvatsa+kaustubhau) [axe](parśuḥ) [gāruḍī](gāruḍī) [mohanī](mohanī) [supreme](parā)
+
 ## mukta-m0-p16-v394
-ca (ca) asya (asya) viṣṇoḥ (viṣṇoḥ) etāḥ (etāḥ) prakīrtitaḥ (prakīrtitaḥ)
+[and](ca) [of-him](asya) [of-viṣṇu](viṣṇoḥ) [these](etāḥ) [are-declared](prakīrtitāḥ)
+
 ## mukta-m0-p16-v395
-kapālā (kapālā) ca (ca) ḍamaruḥ (ḍamaruḥ) śiva (śiva) mudrikāḥ (mudrikāḥ)
+[skull](kapālā) [and](ca) [drum](ḍamaruḥ) [śiva-mudrās](śiva+mudrikāḥ)
+
 ## mukta-m0-p16-v396
-parśu (parśu) laḍḍū (laḍḍū) bījapūrā (bījapūrā) gaṇeśituḥ (gaṇeśituḥ)
+[axe](parśu) [sweet-ball](laḍḍū) [citron](bīja+pūrā) [of-lord-of-gaṇas](gaṇeśituḥ)
+
 ## mukta-m0-p16-v397
-mausalī (mausalī) daurgī (daurgī) lakṣmī (lakṣmī) mudrāḥ (mudrāḥ) tat (tat) arcane (arcane)
+[mace-bearer’s](mausalī) [durgā’s](daurgī) [lakṣmī-mudrā](lakṣmī+mudrāḥ) [in-their-worship](tat+arcane)
+
 ## mukta-m0-p16-v398
-saptajihvā (saptajihvā) āhvayā (āhvayā) mudrā (mudrā) vijñeyā (vijñeyā) vahni (vahni) pūjane (pūjane)
+[seven-tongued-named](sapta+jihvā+āhvayā) [mudrā](mudrā) [should-be-known](vijñeyā) [in-fire-worship](vahni+pūjane)
+
 ## mukta-m0-p16-v399
-saṃkṣobha (saṃkṣobha) mudrā (mudrā) prathamā (prathamā) dvitīyā (dvitīyā) karṣiṇī (karṣiṇī) matā (matā)
+[agitation-mudrā](saṃkṣobha+mudrā) [first](prathamā) [second](dvitīyā) [attracting](karṣiṇī) [considered](matā)
+
 ## mukta-m0-p16-v400
-tathā (tathā) yoniḥ (yoniḥ) tathā (tathā) āveśakarī (āveśakarī) parā (parā)
+[likewise](tathā) [yoni](yoniḥ) [likewise](tathā) [possession-causing](āveśa+karī) [supreme](parā)

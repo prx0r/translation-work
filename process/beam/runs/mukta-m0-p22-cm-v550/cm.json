@@ -3,19 +3,39 @@
  "verse": 550,
  "rows": [
   {
-   "lemma": "kula+dharmasya",
-   "morph": "kula+dharma.gen.sg.n",
-   "grounds": "genitive compound denoting duties pertaining to the family or lineage"
+   "lemma": "bahu",
+   "morph": "compound:bahu+first",
+   "grounds": "first member of compound describing the woman"
   },
   {
-   "lemma": "iti",
+   "lemma": "putra",
+   "morph": "compound:putra+middle",
+   "grounds": "second member of compound describing the woman"
+  },
+  {
+   "lemma": "vatī",
+   "morph": "compound:vatī+final.f.nom.sg",
+   "grounds": "final member of compound; feminine form agreeing with nārī"
+  },
+  {
+   "lemma": "nārī",
+   "morph": "f.nom.sg",
+   "grounds": "subject of the sentence"
+  },
+  {
+   "lemma": "subhagā",
+   "morph": "f.nom.sg",
+   "grounds": "predicate adjective describing the woman"
+  },
+  {
+   "lemma": "jāyate",
+   "morph": "3.sg.pass-pres √jan",
+   "grounds": "main verb expressing resulting state"
+  },
+  {
+   "lemma": "dhruvam",
    "morph": "(indecl.)",
-   "grounds": "particle marking the cited term as an example in enumeration"
-  },
-  {
-   "lemma": "ādi",
-   "morph": "ādi.nom.sg.n",
-   "grounds": "term indicating continuation of similar items beyond those named"
+   "grounds": "adverb asserting certainty of the outcome"
   }
  ]
 }

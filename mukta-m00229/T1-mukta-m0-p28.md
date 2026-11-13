@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[nipataṃtrīṃ](nipataṃtrīṃ(ntīṃ)) [mantramayīṃ](mantramayīṃ) [lohitāmṛtaviśrutim](lohitāmṛtaviśru(sru)tim)
+[descending](nipataṃtrīṃ) [mantra-made](mantramayīṃ) [red](lohita) [nectar](amṛta) [flowing](viśrutim)
 
 ## mukta-m0-p28-v677
-[vṛtya](vṛtya) [prīṇayantī](prīṇayantī) [svasthānam](svasthānam) [adhigacchati](adhigacchati)
+[having-encompassed](vṛtya) [pleasing](prīṇayantī) [to-own](sva) [place](sthānam) [reaches](adhigacchati)
 
 ## mukta-m0-p28-v678
-[mantrajāpa](mantrajāpa) [vidhānena](vidhānena) [doṣān](doṣān) [chinnādikān](chinnādikān) [haret](haret)
+[mantra](mantra) [recitation](jāpa) [by-method](vidhānena) [defects](doṣān) [cutting](chinnādikān) [should-remove](haret)
 
 ## mukta-m0-p28-v679
-[ciraṃjīvet](ciraṃjīvet) [smarātmakaḥ](smarātmakaḥ)
+[for-long-time](ciraṃ) [lives](jīvet) [love](smara) [natured](ātmakaḥ)
 
 ## mukta-m0-p28-v680
-[padmaṃ](padmaṃ) [brahmaṇaḥ](brahmaṇo) [bhūṣitaṃ](bhūṣitaṃ) [dalaiḥ](dalaiḥ)
+[lotus](padmaṃ) [of-Brahmā](brahmaṇaḥ) [adorned](bhūṣitaṃ) [with-petals](dalaiḥ)
 
 ## mukta-m0-p28-v681
-[prāhuḥ](prāhur) [mūlādhāraṃ](mūlādhāraṃ) [tu](tu) [yoginaḥ](yoginaḥ)
+[they-call](prāhuḥ) [root](mūla) [support](ādhāraṃ) [indeed](tu) [yogins](yoginaḥ)
 
 ## mukta-m0-p28-v682
-[śivasthānaṃ](śivasthānaṃ) [svādhiṣṭhāna](svādhiṣṭhāna) [samāhvayam](samāhvayam)
+[Śiva](śiva) [abode](sthānaṃ) [svādhiṣṭhāna](svādhiṣṭhāna) [named](samāhvayam)
 
 ## mukta-m0-p28-v683
-[daśākṣaraiḥ](daśākṣarair) [dalaiḥ](dalaiḥ) [yuktaṃ](yuktaṃ) [nābhisthaṃ](nābhisthaṃ) [maṇipūrakam](maṇipūrakam)
+[with-ten](daśa) [syllabled](akṣaraiḥ) [with-petals](dalaiḥ) [endowed](yuktaṃ) [navel](nābhi) [situated](sthaṃ) [maṇipūraka](maṇipūrakam)
 
 ## mukta-m0-p28-v684
-[dalaiḥ](dalair) [ādityasaṃkhyābhiḥ](ādityasaṃkhyābhiḥ) [kādivarṇaiḥ](kādivarṇair) [vibhūṣitaiḥ](vibhūṣitaiḥ)
+[with-petals](dalaiḥ) [sun](āditya) [numbered](saṃkhyābhiḥ) [with-ka-etc.](kādi) [letters](varṇaiḥ) [adorned](vibhūṣitaiḥ)
 
 ## mukta-m0-p28-v685
-[nalinaṃ](nalinaṃ) [kaṇṭhe](kaṇṭhe) [alirucibhiḥ](alirucibhir) [yutam](yutam)
+[lotus](nalinaṃ) [in-throat](kaṇṭhe) [bee](ali) [with-lustre](rucibhiḥ) [endowed](yutam)
 
 ## mukta-m0-p28-v686
-[śaraccandramayukhābham](śaraccandramayukhābham) [ājñānāma](ājñānāma) [saroruham](saroruham)
+[autumn](śarat) [moon](candra) [ray](mayukha) [resembling](ābham) [ājñā](ājñā) [named](nāma) [lotus](saroruham)
 
 ## mukta-m0-p28-v687
-[ṣaṭcakrakam](ṣaṭcakrakam) [idaṃ](idaṃ) [proktaṃ](proktaṃ) [yogaśāstra](yogaśāstra) [viśāradaiḥ](viśāradaiḥ)
+[six](ṣaṭ) [cakra](cakra) [group](kam) [this](idaṃ) [declared](proktaṃ) [yoga](yoga) [scripture](śāstra) [by-experts](viśāradaiḥ)
 
 ## mukta-m0-p28-v688
-[cakreśāḥ](cakreśāḥ) [ṣaḍ](ṣaḍ) [atra](atra) [parikīrtitāḥ](parikīrtitāḥ)
+[cakra](cakra) [lords](īśāḥ) [six](ṣaṭ) [here](atra) [proclaimed](parikīrtitāḥ)
 
 ## mukta-m0-p28-v689
-[cakreśāḥ](cakreśāḥ) [kvacid](kvacid) [evam](evam) [udīritāḥ](udīritāḥ)
+[cakra](cakra) [lords](īśāḥ) [somewhere](kvacit) [thus](evam) [declared](udīritāḥ)
 
 ## mukta-m0-p28-v690
-[ca](ca) [iti](iti) [kramāt](kramāt) [ṣaṭcakradevatāḥ](ṣaṭcakradevatāḥ)
+[and-thus](ca+iti) [in-order](kramāt) [six](ṣaṭ) [cakra](cakra) [deities](devatāḥ)
 
 ## mukta-m0-p28-v691
-[hṛdi](hṛdi) [bālādvayaṃ](bālā(ṇā)dvayaṃ) [liṅgam](liṅgam) [itarañca](itarañcā(ccā)) [antarālake](antarālake)
+[in-heart](hṛdi) [bālā](bālā) [pair](dvayaṃ) [liṅga](liṅgam) [other](itaram) [and](ca) [in-forehead](antarālake)
 
 ## mukta-m0-p28-v692
-[sphuradraśmi](sphuradraśmi) [triśṛṅgaṃ](triśṛṅga(ṅgaṃ)) [himaraśmikam](himaraśmikam)
+[flashing](sphurat) [rays](raśmi) [three](tri) [peaked](śṛṅgaṃ) [snow](hima) [rayed](raśmikam)
 
 ## mukta-m0-p28-v693
-[dviguṇavistāra](dviguṇavistāra) [vṛttarūpeṇa](vṛttarūpeṇa) [veṣṭitam](veṣṭitam)
+[twofold](dviguṇa) [expanse](vistāra) [circular](vṛtta) [in-form](rūpeṇa) [enveloped](veṣṭitam)
 
 ## mukta-m0-p28-v694
-[śritābhāgaṃ](śritābhāgaṃ) [tanor](tanor) [vāmaṃ](vāmaṃ) [tu](tu) [dakṣiṇam](dakṣiṇam)
+[resorted-to](śrita) [part](abhāgaṃ) [of-body](tanoḥ) [left](vāmaṃ) [indeed](tu) [right](dakṣiṇam)
 
 ## mukta-m0-p28-v695
-[brahmarandhraṃ](brahmarandhraṃ) [tu](tu) [citrā](citrā) [nāḍī](nāḍī) [tadantare](tadantare)
+[brahma](brahma) [aperture](randhraṃ) [indeed](tu) [citrā](citrā) [nāḍī](nāḍī) [in-its-midst](tadantare)
 
 ## mukta-m0-p28-v696
-[janārdano](janārdano) [rudraḥ](rudraḥ) [śivasādākhyakā](śivasādākhyakā) [api](vapi)
+[Janārdana](janārdanaḥ) [Rudra](rudraḥ) [Śiva](śiva) [Sādākhya](sādākhyakau) [also](api)
 
 ## mukta-m0-p28-v697
-[trikoṇā](trikoṇā) [asti](asti) [yonir](yonir) [lohitadīdhitiḥ](lohitadīdhitiḥ)
+[triangle](trikoṇā) [exists](asti) [womb](yoniḥ) [red](lohita) [radiance](dīdhitiḥ)
 
 ## mukta-m0-p28-v698
-[cintanīyaḥ](cintanīyastaḍinnibhaḥ) [taḍinnibhaḥ](taḍinnibhaḥ)
+[to-be-contemplated](cintanīyaḥ) [lightning](taḍit) [resembling](nibhaḥ)
 
 ## mukta-m0-p28-v699
-[tanmadhye](tanmadhye) [śivaśaktisvarūpiṇī](śivaśaktisvarūpiṇī)
+[in-its-middle](tanmadhye) [Śiva](śiva) [Śakti](śakti) [natured](svarūpiṇī)
 
 ## mukta-m0-p28-v700
-[prasuptabhujagākārā](prasuptabhujagākārā) [śaṃkhāvartabhramānmukham](śaṃkhāvartabhramānmukham)
+[asleep](prasupta) [serpent](bhujaga) [shaped](ākārā) [conch](śaṃkha) [coil](āvarta) [whirling](bhramāt) [facing](mukham)

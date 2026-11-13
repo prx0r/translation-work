@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 512,
- "question": "How should one recognize the time when the force of Kali is strong?",
+ "question": "What consequence follows if one girl is worshipped in this ritual sequence?",
  "premises": [
-  "Certain signs have been described",
-  "At that time Kali is strong"
+  "One girl may be worshipped.",
+  "The condition is marked by cet.",
+  "A second becomes worshipped as a result."
  ],
- "inference": "Kali should be known as strong when such signs appear",
- "uncertainties": [],
- "plain_english": "Then indeed Kali should be known as strong."
+ "inference": "Worshipping one girl leads to the worship of a second in the prescribed sequence.",
+ "uncertainties": [
+  "Whether 'second' refers to another girl or a second act is slightly ambiguous."
+ ],
+ "plain_english": "If one girl is worshipped, a second becomes worshipped."
 }
