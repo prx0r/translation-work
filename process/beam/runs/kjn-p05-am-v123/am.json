@@ -1,15 +1,14 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What is destroyed when this is practiced for one year?",
+ "question": "What is destroyed when the practice is done for one year?",
  "premises": [
-  "one year is specified",
-  "practice is stated",
+  "practice lasts one year",
   "old age and death are destroyed"
  ],
- "inference": "Practicing for one year destroys old age and death.",
+ "inference": "One year of practice destroys old age and death.",
  "uncertainties": [
-  "exact practice from previous verse"
+  "the practice itself is not named here"
  ],
  "plain_english": "When practiced for one year, old age and death are destroyed."
 }

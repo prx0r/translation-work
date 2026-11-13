@@ -7,56 +7,57 @@
     {
      "surface": "bhukti",
      "gloss": "enjoyment",
-     "grounds": "token as given",
-     "morph": "f.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mukti",
      "gloss": "liberation",
-     "grounds": "token as given",
-     "morph": "f.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahā",
      "gloss": "great",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "siddhiḥ",
      "gloss": "accomplishment",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "yoginīnāṃ",
      "gloss": "of-yoginīs",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.gen.pl"
     },
     {
      "surface": "priyo",
      "gloss": "dear",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhavet",
-     "gloss": "he-may-become",
-     "grounds": "token as given",
-     "morph": "3.sg.act-opt root bhū"
+     "gloss": "may-become",
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt.act"
     }
    ],
-   "question": "What becomes dear through great accomplishment of enjoyment and liberation for yoginīs?",
+   "question": "What becomes dear to yoginīs through enjoyment liberation and great accomplishment?",
    "premises": [
-    "great accomplishment unites enjoyment and liberation",
-    "yoginīs attain dear status"
+    "Enjoyment and liberation are paired",
+    "Great accomplishment is named",
+    "Yoginīs are addressed"
    ],
-   "inference": "bhavet priyo",
+   "inference": "The practitioner becomes dear to the yoginīs.",
    "uncertainties": [
-    "legacy hints only"
+    "Compound boundaries remain unclear"
    ],
-   "plain_english": "Great accomplishment of enjoyment and liberation makes one dear to yoginīs."
+   "plain_english": "Enjoyment, liberation, and great accomplishment make one dear to the yoginīs."
   },
   {
    "verse": 227,
@@ -64,42 +65,43 @@
     {
      "surface": "candra",
      "gloss": "in-candra-dvīpa",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "dvīpa",
      "gloss": "island",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vinirgate",
      "gloss": "emerged",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.loc.sg"
     },
     {
      "surface": "navamaḥ",
      "gloss": "ninth",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What chapter emerges in candra-dvīpa?",
+   "question": "Which chapter emerges in candra-dvīpa?",
    "premises": [
-    "candra-dvīpa is the setting",
-    "ninth chapter emerges there"
+    "Candra-dvīpa is named",
+    "Emergence is stated",
+    "Ninth chapter is identified"
    ],
-   "inference": "navamaḥ paṭalaḥ",
+   "inference": "The ninth chapter emerges in candra-dvīpa.",
    "uncertainties": [
-    "legacy hints only"
+    "Sandhi resolution not expanded"
    ],
    "plain_english": "The ninth chapter emerges in candra-dvīpa."
   },
@@ -109,50 +111,51 @@
     {
      "surface": "vahni",
      "gloss": "by-fire",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "nāveṣṭita",
      "gloss": "surrounded",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ātmānam",
      "gloss": "self",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "eka",
      "gloss": "on-one",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "pādena",
      "gloss": "foot",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.ins.sg"
     },
     {
      "surface": "saṃsthitam",
      "gloss": "standing",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "How does fire-surrounded self stand on one foot?",
+   "question": "How is the self described as standing surrounded by fire?",
    "premises": [
-    "self is surrounded by fire",
-    "self stands on one foot"
+    "Fire surrounds the self",
+    "One foot is mentioned",
+    "Standing posture is stated"
    ],
-   "inference": "vahni nāveṣṭita ātmānam eka pādena saṃsthitam",
+   "inference": "The self stands surrounded by fire on one foot.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact ritual posture unclear"
    ],
-   "plain_english": "The fire-surrounded self stands on one foot."
+   "plain_english": "The self stands surrounded by fire, supported on one foot."
   },
   {
    "verse": 229,
@@ -160,50 +163,51 @@
     {
      "surface": "jñānasya",
      "gloss": "of-knowledge",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.gen.sg"
     },
     {
      "surface": "nirṇayam",
      "gloss": "determination",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "deva",
      "gloss": "o-god",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.voc.sg"
     },
     {
      "surface": "adya",
      "gloss": "today",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "1.sg.dat"
     },
     {
      "surface": "prakaṭīkṛtam",
      "gloss": "made-manifest",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     }
    ],
    "question": "What determination of knowledge is made manifest today?",
    "premises": [
-    "knowledge has a determination",
-    "it is made manifest today"
+    "Knowledge determination is named",
+    "God is addressed",
+    "Manifestation is stated"
    ],
-   "inference": "jñānasya nirṇayam prakaṭīkṛtam",
+   "inference": "The determination of knowledge is made manifest today.",
    "uncertainties": [
-    "legacy hints only"
+    "Speaker and addressee context unclear"
    ],
-   "plain_english": "The determination of knowledge is made manifest to me today."
+   "plain_english": "Today the determination of knowledge is made manifest to me, O god."
   },
   {
    "verse": 230,
@@ -211,50 +215,51 @@
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "aṣṭaka",
      "gloss": "eight",
-     "grounds": "token as given",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "vibhāgam",
      "gloss": "division",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "parijñātum",
      "gloss": "to-know-fully",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "inf"
     },
     {
      "surface": "anantathā",
      "gloss": "endlessly",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "How is eightfold division known endlessly?",
+   "question": "How is the eightfold division to be fully known?",
    "premises": [
-    "division is eightfold",
-    "full knowledge is endless"
+    "Eightfold division is named",
+    "Full knowing is stated",
+    "Endless manner is stated"
    ],
-   "inference": "aṣṭa aṣṭaka vibhāgam parijñātum anantathā",
+   "inference": "The eightfold division is to be fully known endlessly.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact scope of division unclear"
    ],
-   "plain_english": "The eightfold division is to be known fully and endlessly."
+   "plain_english": "The eightfold division is to be fully known in an endless manner."
   },
   {
    "verse": 231,
@@ -262,56 +267,57 @@
     {
      "surface": "guhya",
      "gloss": "secret",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sthānaṃ",
      "gloss": "place",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "kṣipraṃ",
      "gloss": "quickly",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sidhyati",
      "gloss": "is-accomplished",
-     "grounds": "token as given",
-     "morph": "3.sg.act-pres root sidh"
+     "grounds": "legacy hint",
+     "morph": "3.sg.pres.act"
     },
     {
      "surface": "bhairava",
      "gloss": "o-bhairava",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.voc.sg"
     }
    ],
-   "question": "How does secret place wheel accomplish quickly?",
+   "question": "How does the secret place and wheel become quickly accomplished?",
    "premises": [
-    "secret place is like a wheel",
-    "accomplishment is quick"
+    "Secret place is named",
+    "Wheel is named",
+    "Quick accomplishment is stated"
    ],
-   "inference": "guhya sthānaṃ yathā cakraṃ kṣipraṃ sidhyati",
+   "inference": "The secret place and wheel are quickly accomplished, O Bhairava.",
    "uncertainties": [
-    "legacy hints only"
+    "Causal relation unclear"
    ],
-   "plain_english": "The secret place, like a wheel, is accomplished quickly, O Bhairava."
+   "plain_english": "As the secret place and wheel are quickly accomplished, O Bhairava."
   },
   {
    "verse": 232,
@@ -319,56 +325,57 @@
     {
      "surface": "sādhu",
      "gloss": "well",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sādhu",
      "gloss": "well",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahādevi",
      "gloss": "o-great-goddess",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.voc.sg"
     },
     {
      "surface": "pṛṣṭaḥ",
      "gloss": "asked",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "aham",
      "gloss": "i",
-     "grounds": "token as given",
-     "morph": "1.sg.nom"
+     "grounds": "legacy hint",
+     "morph": "1.nom.sg"
     },
     {
      "surface": "sura",
      "gloss": "by-gods",
-     "grounds": "token as given",
-     "morph": "m.ins.pl"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "durlabham",
      "gloss": "hard-to-obtain",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "Why is asked knowledge hard for gods?",
+   "question": "What is asked by gods and hard to obtain?",
    "premises": [
-    "great goddess is asked",
-    "knowledge is hard for gods to obtain"
+    "Great goddess is addressed",
+    "Speaker says asked",
+    "Gods and hard-to-obtain are named"
    ],
-   "inference": "pṛṣṭaḥ aham sura durlabham",
+   "inference": "The speaker has been asked by gods about something hard to obtain.",
    "uncertainties": [
-    "legacy hints only"
+    "Object of asking unclear"
    ],
-   "plain_english": "Well done, great goddess; I am asked what is hard for gods to obtain."
+   "plain_english": "Well, well, O great goddess, I have been asked by gods about something hard to obtain."
   },
   {
    "verse": 233,
@@ -376,44 +383,46 @@
     {
      "surface": "kṣakāraṃ",
      "gloss": "syllable-kṣa",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "brahmarandhratvaṃ",
      "gloss": "brahmarandhra-state",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "laṃkāram",
      "gloss": "syllable-laṃ",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "lalāṭayoḥ",
      "gloss": "in-the-forehead",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.loc.du"
     }
    ],
-   "question": "Where are syllables kṣa and laṃ placed?",
+   "question": "Where are syllable kṣa and syllable laṃ placed?",
    "premises": [
-    "kṣa corresponds to brahmarandhra state",
-    "laṃ is in the forehead"
+    "Syllable kṣa is named",
+    "Brahmarandhra-state is named",
+    "Syllable laṃ is named",
+    "Forehead is named"
    ],
-   "inference": "kṣakāraṃ brahmarandhratvaṃ laṃkāram lalāṭayoḥ",
+   "inference": "Syllable kṣa relates to brahmarandhra-state and syllable laṃ to the forehead.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact mapping ambiguous"
    ],
-   "plain_english": "Syllable kṣa is brahmarandhra state, and syllable laṃ is in the forehead."
+   "plain_english": "Syllable kṣa is brahmarandhra-state, and syllable laṃ is in the forehead."
   },
   {
    "verse": 234,
@@ -421,54 +430,56 @@
     {
      "surface": "ṣakāraṃ",
      "gloss": "syllable-ṣa",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "kaṇṭha",
      "gloss": "in-throat-region",
-     "grounds": "token as given",
-     "morph": "m.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "deśe",
      "gloss": "region",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.loc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "śakāraṃ",
      "gloss": "syllable-śa",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "hṛdaye",
      "gloss": "in-the-heart",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.loc.sg"
     },
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "Where are syllables ṣa and śa placed?",
+   "question": "Where are syllable ṣa and syllable śa placed?",
    "premises": [
-    "ṣa is in throat region",
-    "śa is in heart"
+    "Syllable ṣa is named",
+    "Throat region is named",
+    "Syllable śa is named",
+    "Heart is named"
    ],
-   "inference": "ṣakāraṃ kaṇṭha deśe śakāraṃ hṛdaye",
+   "inference": "Syllable ṣa is in the throat region and syllable śa is in the heart.",
    "uncertainties": [
-    "legacy hints only"
+    "Temporal marker unclear"
    ],
    "plain_english": "Syllable ṣa is in the throat region, and syllable śa is in the heart."
   },
@@ -478,62 +489,64 @@
     {
      "surface": "sthāna",
      "gloss": "place",
-     "grounds": "token as given",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cakrāḥ",
      "gloss": "wheels",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.pl"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "saṃproktāḥ",
      "gloss": "declared",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.pl"
     },
     {
      "surface": "teṣāṃ",
      "gloss": "of-them",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.gen.pl"
     },
     {
      "surface": "dhyānaṃ",
      "gloss": "meditation",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "token as given",
-     "morph": "2.sg.act-imp root śru"
+     "grounds": "legacy hint",
+     "morph": "2.sg.imp.act"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What meditation on declared wheels should beloved hear?",
+   "question": "What is declared about places wheels and their meditation?",
    "premises": [
-    "places and wheels are declared",
-    "their meditation should be heard"
+    "Places and wheels are named",
+    "Declaration is stated",
+    "Meditation is named",
+    "Beloved is addressed"
    ],
-   "inference": "sthāna cakrāḥ saṃproktāḥ teṣāṃ dhyānaṃ śṛṇu",
+   "inference": "The places and wheels are declared, and their meditation is to be heard.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact list of wheels unclear"
    ],
-   "plain_english": "Places and wheels are declared; hear their meditation, O beloved."
+   "plain_english": "The places and wheels are declared; hear their meditation, O beloved."
   },
   {
    "verse": 236,
@@ -541,54 +554,56 @@
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "āraṃ",
      "gloss": "spoked",
-     "grounds": "token as given",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "paṅkajaṃ",
      "gloss": "lotus",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "divyaṃ",
      "gloss": "divine",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "prathama",
      "gloss": "by-first",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "aṣṭaka",
      "gloss": "octad",
-     "grounds": "token as given",
-     "morph": "m.ins.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "bhūṣitam",
      "gloss": "adorned",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "How is first octad adorned divine eight-spoked lotus?",
+   "question": "How is the divine lotus adorned in the first octad?",
    "premises": [
-    "lotus is divine and eight-spoked",
-    "first octad adorns it"
+    "Eight-spoked lotus is named",
+    "Divine quality is named",
+    "First octad is named",
+    "Adornment is stated"
    ],
-   "inference": "aṣṭa āraṃ paṅkajaṃ divyaṃ prathama aṣṭaka bhūṣitam",
+   "inference": "The divine eight-spoked lotus is adorned by the first octad.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact symbolic mapping unclear"
    ],
    "plain_english": "The divine eight-spoked lotus is adorned by the first octad."
   },
@@ -598,62 +613,64 @@
     {
      "surface": "abhyāsāt",
      "gloss": "through-practice",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.abl.sg"
     },
     {
      "surface": "sama",
      "gloss": "with-equal",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cittaḥ",
      "gloss": "mind",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "grāma",
      "gloss": "village",
-     "grounds": "token as given",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "dharmañ",
      "gloss": "dharma",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "varjayet",
      "gloss": "should-abandon",
-     "grounds": "token as given",
-     "morph": "3.sg.act-opt root vṛj"
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt.act"
     }
    ],
-   "question": "What should equal-minded practitioner abandon?",
+   "question": "What should one abandon through practice with equal mind?",
    "premises": [
-    "practice makes mind equal",
-    "village dharma should be abandoned"
+    "Practice is named",
+    "Equal mind is named",
+    "Village dharma is named",
+    "Abandonment is stated"
    ],
-   "inference": "abhyāsāt sama cittaḥ grāma dharmañ varjayet",
+   "inference": "Through practice with equal mind, one should abandon village dharma.",
    "uncertainties": [
-    "legacy hints only"
+    "Scope of dharma unclear"
    ],
-   "plain_english": "Through practice, with equal mind, one should abandon village dharma."
+   "plain_english": "Through practice with equal mind, one should abandon village dharma."
   },
   {
    "verse": 238,
@@ -661,56 +678,58 @@
     {
      "surface": "dūra",
      "gloss": "distant",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "āśravaṇa",
      "gloss": "hearing",
-     "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "vijñānaṃ",
      "gloss": "knowledge",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pāśa",
      "gloss": "bond",
-     "grounds": "token as given",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "stobham",
      "gloss": "paralysis",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What distant hearing knowledge paralyzes bond?",
+   "question": "What knowledge and bond paralysis are mentioned for the beloved?",
    "premises": [
-    "distant hearing knowledge exists",
-    "it paralyzes bond"
+    "Distant hearing is named",
+    "Knowledge is named",
+    "Bond paralysis is named",
+    "Beloved is addressed"
    ],
-   "inference": "dūra āśravaṇa vijñānaṃ pāśa stobham",
+   "inference": "Distant hearing, knowledge, and bond paralysis are mentioned for the beloved.",
    "uncertainties": [
-    "legacy hints only"
+    "Syntactic relation unclear"
    ],
-   "plain_english": "Distant hearing knowledge paralyzes the bond, O beloved."
+   "plain_english": "Distant hearing, knowledge, and bond paralysis are likewise mentioned, O beloved."
   },
   {
    "verse": 239,
@@ -718,44 +737,46 @@
     {
      "surface": "amaratvam",
      "gloss": "immortality",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "devi",
      "gloss": "o-goddess",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.voc.sg"
     },
     {
      "surface": "samāsāt",
      "gloss": "in-brief",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "parivartanam",
      "gloss": "transformation",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What brief transformation yields immortality?",
+   "question": "What transformation and immortality are stated in brief?",
    "premises": [
-    "immortality is linked to transformation",
-    "transformation is brief"
+    "Immortality is named",
+    "Goddess is addressed",
+    "Brief statement is named",
+    "Transformation is named"
    ],
-   "inference": "amaratvam samāsāt parivartanam",
+   "inference": "Immortality and transformation are stated in brief, O goddess.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact transformation unclear"
    ],
-   "plain_english": "Immortality, O goddess, is briefly transformation."
+   "plain_english": "Immortality and transformation are stated in brief, O goddess."
   },
   {
    "verse": 240,
@@ -763,54 +784,56 @@
     {
      "surface": "dvitīyam",
      "gloss": "second",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "patram",
      "gloss": "petaled",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "teja",
      "gloss": "by-fire",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "dhyāna",
      "gloss": "meditation",
-     "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sudīpitam",
      "gloss": "well-illuminated",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "How is second eight-petaled wheel illuminated by fire meditation?",
+   "question": "How is the second eight-petaled wheel well illuminated?",
    "premises": [
-    "second wheel has eight petals",
-    "fire meditation illuminates it"
+    "Second wheel is named",
+    "Eight petals are named",
+    "Fire meditation is named",
+    "Well-illuminated is stated"
    ],
-   "inference": "dvitīyam aṣṭa patram teja dhyāna sudīpitam",
+   "inference": "The second eight-petaled wheel is well illuminated by fire meditation.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact meditation practice unclear"
    ],
    "plain_english": "The second eight-petaled wheel is well illuminated by fire meditation."
   },
@@ -820,56 +843,58 @@
     {
      "surface": "kurute",
      "gloss": "he-makes",
-     "grounds": "token as given",
-     "morph": "3.sg.act-pres root kṛ"
+     "grounds": "legacy hint",
+     "morph": "3.sg.pres.act"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "dhyāna",
      "gloss": "in-meditation",
-     "grounds": "token as given",
-     "morph": "n.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "eka",
      "gloss": "one-pointed",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "gata",
      "gloss": "gone",
-     "grounds": "token as given",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cetasaḥ",
      "gloss": "mind",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.gen.sg"
     }
    ],
-   "question": "What form does one-pointed meditative mind make?",
+   "question": "What form does one make in many ways in meditation?",
    "premises": [
-    "mind becomes one-pointed in meditation",
-    "it makes many forms"
+    "Making is stated",
+    "Many ways are named",
+    "Form is named",
+    "One-pointed mind is named"
    ],
-   "inference": "kurute bahudhā rūpaṃ dhyāna eka gata cetasaḥ",
+   "inference": "One makes form in many ways with one-pointed mind in meditation.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact form unclear"
    ],
-   "plain_english": "The mind gone to one-pointed meditation makes form in many ways."
+   "plain_english": "One makes form in many ways with a one-pointed mind in meditation."
   },
   {
    "verse": 242,
@@ -877,62 +902,64 @@
     {
      "surface": "kruddhaḥ",
      "gloss": "when-angry",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "saṃharet",
      "gloss": "he-destroys",
-     "grounds": "token as given",
-     "morph": "3.sg.act-opt root hṛ"
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt.act"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sa",
      "gloss": "with-moving",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cara",
      "gloss": "and-unmoving",
-     "grounds": "token as given",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "acaram",
      "gloss": "unmoving",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What does angry one destroy across triple world?",
+   "question": "What does an angry one destroy in the triple world?",
    "premises": [
-    "anger destroys all",
-    "triple world includes moving and unmoving"
+    "Anger is named",
+    "Destruction is stated",
+    "Triple world is named",
+    "Moving and unmoving are named"
    ],
-   "inference": "kruddhaḥ saṃharet sarvaṃ trailokyaṃ sa cara acaram",
+   "inference": "An angry one destroys all moving and unmoving things in the triple world.",
    "uncertainties": [
-    "legacy hints only"
+    "Subject identity unclear"
    ],
-   "plain_english": "When angry, he destroys all the triple world, moving and unmoving."
+   "plain_english": "When angry, one destroys all moving and unmoving things in the triple world."
   },
   {
    "verse": 243,
@@ -940,54 +967,56 @@
     {
      "surface": "tṛtīyam",
      "gloss": "third",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahā",
      "gloss": "great",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "token as given",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "nava",
      "gloss": "nine",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tattva",
      "gloss": "tattva",
-     "grounds": "token as given",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "pramocakaḥ",
      "gloss": "liberator",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What liberates nine tattvas in third great wheel?",
+   "question": "What is the third great wheel that liberates nine tattvas?",
    "premises": [
-    "third great wheel exists",
-    "it liberates nine tattvas"
+    "Third wheel is named",
+    "Great wheel is named",
+    "Nine tattvas are named",
+    "Liberator is named"
    ],
-   "inference": "tṛtīyam mahā cakraṃ nava tattva pramocakaḥ",
+   "inference": "The third great wheel liberates the nine tattvas.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact tattva list unclear"
    ],
    "plain_english": "The third great wheel liberates the nine tattvas."
   },
@@ -997,56 +1026,58 @@
     {
      "surface": "balī",
      "gloss": "wrinkle",
-     "grounds": "token as given",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "palita",
      "gloss": "grey-hair",
-     "grounds": "token as given",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "nāśam",
      "gloss": "destruction",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "sudūrāt",
      "gloss": "from-very-far",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "darśanam",
      "gloss": "seeing",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "What distant seeing destroys wrinkles and grey hair?",
+   "question": "What destruction of wrinkles and grey hair is seen from afar?",
    "premises": [
-    "wrinkles and grey hair are destroyed",
-    "distant seeing does so"
+    "Wrinkle is named",
+    "Grey hair is named",
+    "Destruction is named",
+    "Seeing from afar is named"
    ],
-   "inference": "balī palita nāśam sudūrāt darśanam",
+   "inference": "The destruction of wrinkles and grey hair is seen from very far.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact causal process unclear"
    ],
-   "plain_english": "Distant seeing destroys wrinkles and grey hair."
+   "plain_english": "The destruction of wrinkles and grey hair is seen from very far."
   },
   {
    "verse": 245,
@@ -1054,56 +1085,58 @@
     {
      "surface": "ekānte",
      "gloss": "in-solitude",
-     "grounds": "token as given",
-     "morph": "m.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kuru",
      "gloss": "make",
-     "grounds": "token as given",
-     "morph": "2.sg.act-imp root kṛ"
+     "grounds": "legacy hint",
+     "morph": "2.sg.imp.act"
     },
     {
      "surface": "dhyānañ",
      "gloss": "meditation",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent-on-that",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     }
    ],
    "question": "What should one make in solitude while intent on meditation?",
    "premises": [
-    "solitude is the setting",
-    "form and meditation are made"
+    "Solitude is named",
+    "Many forms are named",
+    "Making is commanded",
+    "Meditation is named"
    ],
-   "inference": "ekānte bahudhā rūpaṃ kuru dhyānañ tatparaḥ",
+   "inference": "One should make many forms in solitude while intent on meditation.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact forms unclear"
    ],
-   "plain_english": "In solitude, make form in many ways and meditation, being intent on that."
+   "plain_english": "In solitude, make many forms and meditate, being intent on that."
   },
   {
    "verse": 246,
@@ -1111,50 +1144,52 @@
     {
      "surface": "kurute",
      "gloss": "he-makes",
-     "grounds": "token as given",
-     "morph": "3.sg.act-pres root kṛ"
+     "grounds": "legacy hint",
+     "morph": "3.sg.pres.act"
     },
     {
      "surface": "amaratvaṃ",
      "gloss": "immortality",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "satata",
      "gloss": "in-constant",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "token as given",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What constant practice makes immortality?",
+   "question": "What does constant practice make for one intent on it?",
    "premises": [
-    "immortality is made",
-    "constant practice with intent does so"
+    "Making is stated",
+    "Immortality is named",
+    "Constant practice is named",
+    "Intentness is named"
    ],
-   "inference": "kurute amaratvaṃ satata abhyāsa tatparaḥ",
+   "inference": "Constant practice makes immortality for one intent on it.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact practice unclear"
    ],
-   "plain_english": "He makes immortality indeed through constant practice, being intent."
+   "plain_english": "Indeed, constant practice makes immortality for one intent on it."
   },
   {
    "verse": 247,
@@ -1162,50 +1197,52 @@
     {
      "surface": "divasāt",
      "gloss": "by-day",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.abl.sg"
     },
     {
      "surface": "nāśanena",
      "gloss": "non-eating",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.ins.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "vayo",
      "gloss": "age",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mṛtyuṃ",
      "gloss": "death",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "gamiṣyate",
      "gloss": "will-go",
-     "grounds": "token as given",
-     "morph": "3.sg.act-fut root gam"
+     "grounds": "legacy hint",
+     "morph": "3.sg.fut.mid"
     }
    ],
-   "question": "How does day-fasting make age and death depart?",
+   "question": "What happens to age and death by day through non-eating?",
    "premises": [
-    "day fasting is the means",
-    "age and death will go"
+    "Day is named",
+    "Non-eating is named",
+    "Age is named",
+    "Death is named"
    ],
-   "inference": "divasāt nāśanena vayo mṛtyuṃ gamiṣyate",
+   "inference": "By day through non-eating, age and death will go.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact temporal process unclear"
    ],
-   "plain_english": "By day fasting indeed, age and death will depart."
+   "plain_english": "By day, through non-eating, age and death will pass away."
   },
   {
    "verse": 248,
@@ -1213,62 +1250,64 @@
     {
      "surface": "satata",
      "gloss": "by-constant",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "token as given",
-     "morph": "m.ins.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "yogena",
      "gloss": "yoga",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "m.ins.sg"
     },
     {
      "surface": "dvi",
      "gloss": "two",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "aṣṭa",
      "gloss": "times-eight",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "varṣa",
      "gloss": "year",
-     "grounds": "token as given",
-     "morph": "m.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ākṛtiḥ",
      "gloss": "form",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "he-becomes",
-     "grounds": "token as given",
-     "morph": "3.sg.act-opt root bhū"
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt.act"
     }
    ],
-   "question": "What form results from constant yoga practice in sixteen years?",
+   "question": "What form results from constant yoga practice for sixteen years?",
    "premises": [
-    "constant practice with yoga is the means",
-    "form becomes so in sixteen years"
+    "Constant practice is named",
+    "Yoga is named",
+    "Sixteen years are named",
+    "Form becoming is stated"
    ],
-   "inference": "satata abhyāsa yogena dvi aṣṭa varṣa ākṛtiḥ bhavet",
+   "inference": "Through constant yoga practice for sixteen years, one becomes a form.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact form unclear"
    ],
-   "plain_english": "Through constant practice with yoga, form becomes so in sixteen years."
+   "plain_english": "Through constant yoga practice for sixteen years, one becomes a form."
   },
   {
    "verse": 249,
@@ -1276,56 +1315,58 @@
     {
      "surface": "dhūmra",
      "gloss": "smoke",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "varṇaṃ",
      "gloss": "colored",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "cintya",
      "gloss": "contemplate",
-     "grounds": "token as given",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "cālayet",
      "gloss": "he-shakes",
-     "grounds": "token as given",
-     "morph": "3.sg.act-opt root cal"
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt.act"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What shaking of triple world arises from contemplating smoke-colored form?",
+   "question": "What happens when one always contemplates smoke-colored form?",
    "premises": [
-    "smoke-colored form is contemplated always",
-    "triple world is shaken"
+    "Smoke-colored is named",
+    "Always contemplate is stated",
+    "Triple world is named",
+    "Shaking is stated"
    ],
-   "inference": "dhūmra varṇaṃ sadā cintya trailokyaṃ cālayet",
+   "inference": "Always contemplating smoke-colored form shakes the triple world, O beloved.",
    "uncertainties": [
-    "legacy hints only"
+    "Exact contemplative object unclear"
    ],
-   "plain_english": "Contemplating smoke-colored form always shakes the triple world, O beloved."
+   "plain_english": "Always contemplate the smoke-colored form; it shakes the triple world, O beloved."
   }
  ]
 }
