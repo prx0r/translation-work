@@ -7,49 +7,49 @@
     {
      "surface": "sāmprataṃ",
      "gloss": "now",
-     "grounds": "adverb of present time",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "śrotum",
      "gloss": "to-hear",
-     "grounds": "infinitive of śru",
-     "morph": "verb.inf.act"
+     "grounds": "infinitive",
+     "morph": "inf."
     },
     {
      "surface": "icchāmi",
      "gloss": "I-wish",
-     "grounds": "first person singular present of iṣ",
-     "morph": "verb.1.sg.act-pres"
+     "grounds": "1sg present",
+     "morph": "1.sg.act-pres"
     },
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "genitive singular masculine of kāla",
+     "grounds": "genitive singular",
      "morph": "m.gen.sg"
     },
     {
      "surface": "vañcanaṃ",
      "gloss": "deception",
-     "grounds": "accusative singular neuter of vañcana",
+     "grounds": "accusative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "accusative singular neuter adjective",
-     "morph": "adj.acc.sg.n"
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
     }
    ],
    "question": "What auspicious deception of time does the speaker now wish to hear?",
    "premises": [
-    "speaker now wishes to hear",
-    "time's deception is called auspicious",
-    "request concerns time's deception"
+    "The speaker wishes to hear now.",
+    "The object is time's deception.",
+    "That deception is called auspicious."
    ],
-   "inference": "the verse requests teaching on time's auspicious deception",
+   "inference": "The verse frames time's deception as something auspicious to be heard.",
    "uncertainties": [
-    "exact referent of time's deception unspecified"
+    "Whether vañcanaṃ is object of śrotum or icchāmi."
    ],
    "plain_english": "Now I wish to hear the auspicious deception of time."
   },
@@ -59,51 +59,51 @@
     {
      "surface": "kathayāmi",
      "gloss": "I-tell",
-     "grounds": "first person singular present of kath",
-     "morph": "verb.1.sg.act-pres"
+     "grounds": "1sg present",
+     "morph": "1.sg.act-pres"
     },
     {
      "surface": "na",
      "gloss": "no",
-     "grounds": "negative particle",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "sandeho",
      "gloss": "doubt",
-     "grounds": "nominative singular masculine of sandeha",
+     "grounds": "nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "relative particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "mṛtyur",
      "gloss": "death",
-     "grounds": "nominative singular masculine of mṛtyu",
+     "grounds": "nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "third person singular present of vi-naś",
-     "morph": "verb.3.sg.act-pres"
+     "grounds": "3sg present",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "How does the speaker say death is destroyed without doubt?",
+   "question": "How is death destroyed without any doubt?",
    "premises": [
-    "speaker promises to tell",
-    "no doubt remains",
-    "death is destroyed"
+    "The speaker says I tell.",
+    "There is no doubt.",
+    "Death is destroyed."
    ],
-   "inference": "the teaching will explain death's destruction",
+   "inference": "The verse asserts death's destruction as something told without doubt.",
    "uncertainties": [
-    "mechanism of destruction not yet stated"
+    "Exact syntactic relation of yathā."
    ],
-   "plain_english": "I tell without doubt how death is destroyed."
+   "plain_english": "I tell, without doubt, how death is destroyed."
   },
   {
    "verse": 121,
@@ -111,45 +111,45 @@
     {
      "surface": "amṛta+agraṃ",
      "gloss": "at-tip-of-nectar",
-     "grounds": "compound accusative singular neuter",
-     "morph": "compound.acc.sg.n"
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "rasa+agreṇa",
      "gloss": "with-essence-of-juice",
-     "grounds": "compound instrumental singular neuter",
-     "morph": "compound.inst.sg.n"
+     "grounds": "compound instrumental singular",
+     "morph": "m.instr.sg"
     },
     {
      "surface": "dahyamāna",
      "gloss": "burning",
-     "grounds": "present passive participle",
-     "morph": "part.pres.pass"
+     "grounds": "present participle",
+     "morph": "pres.part."
     },
     {
      "surface": "sudhīr",
      "gloss": "even-wise",
-     "grounds": "nominative singular masculine adjective",
-     "morph": "adj.nom.sg.m"
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "emphatic particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Why is even a wise person burned at nectar's tip by juice's essence?",
+   "question": "Why does even a wise person burn at the tip of nectar with essence of juice?",
    "premises": [
-    "nectar's tip burns",
-    "juice's essence causes burning",
-    "even wise persons affected"
+    "The wise person is burning.",
+    "The burning occurs at nectar's tip.",
+    "Essence of juice accompanies it."
    ],
-   "inference": "wisdom alone does not prevent this burning",
+   "inference": "The verse presents burning even for the wise in this nectar context.",
    "uncertainties": [
-    "exact ritual or physiological process unclear"
+    "Whether amṛta+agraṃ is locative sense or accusative."
    ],
-   "plain_english": "Even a wise person is burned at the tip of nectar by the essence of juice."
+   "plain_english": "Even a wise person burns at the tip of nectar with the essence of juice."
   },
   {
    "verse": 122,
@@ -157,45 +157,45 @@
     {
      "surface": "rasanā+tālu+mūle",
      "gloss": "at-root-of-tongue-and-palate",
-     "grounds": "compound locative phrase",
-     "morph": "compound"
+     "grounds": "compound locative singular",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive of kṛ",
-     "morph": "absolutive"
+     "grounds": "absolutive",
+     "morph": "abs."
     },
     {
      "surface": "vāyuṃ",
      "gloss": "air",
-     "grounds": "accusative object",
+     "grounds": "accusative singular",
      "morph": "m.acc.sg"
     },
     {
      "surface": "pibec",
      "gloss": "should-drink",
-     "grounds": "optative of pā",
-     "morph": "3.sg.opt"
+     "grounds": "3sg optative",
+     "morph": "3.sg.act-opt"
     },
     {
      "surface": "chanaiḥ",
      "gloss": "slowly",
-     "grounds": "instrumental adverb",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How should the practitioner place and draw in air at the root of tongue and palate?",
+   "question": "How should one drink air slowly after placing it at the root of tongue and palate?",
    "premises": [
-    "air is drawn slowly",
-    "placement is at tongue-palate root",
-    "action is prescribed as drinking"
+    "Air is placed at root of tongue and palate.",
+    "One should drink it.",
+    "The drinking is slow."
    ],
-   "inference": "The verse prescribes a slow inward drawing of air after placing it at the tongue-palate root.",
+   "inference": "The verse gives a slow drinking practice after positioning air.",
    "uncertainties": [
-    "exact physiological mapping is not specified"
+    "Exact force of kṛtvā with vāyuṃ."
    ],
-   "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it in slowly."
+   "plain_english": "Having placed air at the root of tongue and palate, one should drink it slowly."
   },
   {
    "verse": 123,
@@ -203,37 +203,37 @@
     {
      "surface": "abdam+ekaṃ",
      "gloss": "for-one-year",
-     "grounds": "accusative duration",
-     "morph": "compound"
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "temporal clause",
-     "morph": "compound"
+     "grounds": "compound participle",
+     "morph": "part."
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "compound subject",
-     "morph": "compound"
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present of vināś",
+     "grounds": "3sg present",
      "morph": "3.sg.act-pres"
     }
    ],
-   "question": "What happens to old age and death when this practice is sustained for one year?",
+   "question": "What happens when this practice is done for one year?",
    "premises": [
-    "practice continues for one year",
-    "old age and death are named",
-    "destruction is stated"
+    "The practice lasts one year.",
+    "Old age and death are named.",
+    "They are destroyed."
    ],
-   "inference": "Sustained practice for one year destroys old age and death.",
+   "inference": "The verse states old age and death are destroyed after one year of practice.",
    "uncertainties": [
-    "scope of destruction is not elaborated"
+    "Whether yadā+abhyastañ is nominative or accusative."
    ],
    "plain_english": "When practiced for one year, old age and death are destroyed."
   },
@@ -243,57 +243,57 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "nominative subject",
+     "grounds": "nominative singular",
      "morph": "n.nom.sg"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negative particle",
+     "grounds": "negation",
      "morph": "(indecl.)"
     },
     {
      "surface": "kramate",
      "gloss": "enters",
-     "grounds": "present of kram",
+     "grounds": "3sg present",
      "morph": "3.sg.act-pres"
     },
     {
      "surface": "dehe",
      "gloss": "body",
-     "grounds": "locative",
+     "grounds": "locative singular",
      "morph": "m.loc.sg"
     },
     {
      "surface": "daṃśito",
      "gloss": "even-bitten",
-     "grounds": "participle",
-     "morph": "participle"
+     "grounds": "nominative singular participle",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "emphatic particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "instrumental agent",
-     "morph": "compound"
+     "grounds": "compound instrumental plural",
+     "morph": "m.instr.pl"
     }
    ],
-   "question": "Does poison enter the body even when one is bitten by great serpents?",
+   "question": "Why does poison not enter the body even when one is bitten by great serpents?",
    "premises": [
-    "poison does not enter body",
-    "biting by great serpents is included",
-    "negation is explicit"
+    "Poison does not enter the body.",
+    "Even a bitten person is included.",
+    "Great serpents are the biters."
    ],
-   "inference": "The verse claims poison does not enter the body, even if bitten by great serpents.",
+   "inference": "The verse claims poison fails to enter the body despite great serpent bites.",
    "uncertainties": [
-    "whether this is literal or yogic protection is not specified"
+    "Whether daṃśito modifies subject or person."
    ],
-   "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+   "plain_english": "Poison does not enter the body, even when one is bitten by great serpents."
   }
  ]
 }

@@ -13,30 +13,30 @@
     {
      "surface": "bālarūpeṇa",
      "gloss": "in-boy-form",
-     "grounds": "instrumental of compound",
+     "grounds": "compound bāla+rūpa+instrumental",
      "morph": "n.instr.sg"
     },
     {
      "surface": "dvitīyam",
      "gloss": "second",
      "grounds": "ordinal adjective",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "unmattakākṛtim",
      "gloss": "madman-form",
-     "grounds": "compound accusative",
-     "morph": "n.acc.sg"
+     "grounds": "compound unmatta+kākṛti+accusative",
+     "morph": "f.acc.sg"
     }
    ],
-   "question": "Which two pātra forms are named first and second here?",
+   "question": "What are the first two forms among the listed pātra types?",
    "premises": [
-    "first form is boy-form",
-    "second form is madman-form"
+    "first is in boy form",
+    "second is in madman form"
    ],
-   "inference": "The verse names two pātra forms in sequence.",
+   "inference": "The verse enumerates pātra forms beginning with boy form and madman form.",
    "uncertainties": [
-    "contextual list incomplete"
+    "exact doctrinal category of pātra is not specified here"
    ],
    "plain_english": "First in boy form, second in madman form."
   },
@@ -46,97 +46,97 @@
     {
      "surface": "svātantraṃ",
      "gloss": "independence",
-     "grounds": "neuter noun",
+     "grounds": "abstract noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "pañcamaṃ",
      "gloss": "fifth",
      "grounds": "ordinal adjective",
-     "morph": "n.acc.sg"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "devi",
      "gloss": "O-goddess",
-     "grounds": "vocative",
-     "morph": "n.voc.sg"
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
     },
     {
      "surface": "ṣaṣṭhañca",
-     "gloss": "and-sixth",
-     "grounds": "ordinal with conjunction",
-     "morph": "n.acc.sg"
+     "gloss": "sixth-and",
+     "grounds": "ordinal plus conjunction",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "vīranāyakam",
      "gloss": "hero-lord",
-     "grounds": "compound accusative",
-     "morph": "n.acc.sg"
+     "grounds": "compound vīra+nāyaka+accusative",
+     "morph": "m.acc.sg"
     }
    ],
-   "question": "Which pātra forms are named fifth and sixth here?",
+   "question": "Which pātra types are named as fifth and sixth?",
    "premises": [
     "fifth is independence",
     "sixth is hero-lord"
    ],
-   "inference": "The verse names fifth and sixth pātra forms.",
+   "inference": "The verse names independence as fifth and hero-lord as sixth.",
    "uncertainties": [
-    "exact list order unclear"
+    "whether these are separate pātra classes or qualities is unclear"
    ],
-   "plain_english": "Fifth independence, sixth hero-lord, O goddess."
+   "plain_english": "Fifth is independence, sixth is hero-lord, O goddess."
   },
   {
    "verse": 309,
    "rows": [
     {
      "surface": "tridaṇḍañcaiva",
-     "gloss": "triple-staff",
-     "grounds": "compound with conjunction",
-     "morph": "n.acc.sg"
+     "gloss": "triple-staff-and-also",
+     "grounds": "compound tridaṇḍa plus conjunction",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "deveśas",
      "gloss": "O-lord-of-gods",
      "grounds": "vocative compound",
-     "morph": "n.voc.sg"
+     "morph": "m.voc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "indeclinable",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "anyaṃ",
      "gloss": "another",
-     "grounds": "pronoun accusative",
-     "morph": "pron.acc.sg"
+     "grounds": "pronoun adjective",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "vedavikrayam",
      "gloss": "veda-seller",
-     "grounds": "compound accusative",
-     "morph": "n.acc.sg"
+     "grounds": "compound veda+vikraya+accusative",
+     "morph": "m.acc.sg"
     }
    ],
-   "question": "Which additional pātra forms are named in these lines?",
+   "question": "What additional pātra types are mentioned after the earlier list?",
    "premises": [
-    "triple-staff is named",
+    "triple-staff is included",
     "another is veda-seller"
    ],
-   "inference": "The verse adds triple-staff and veda-seller forms.",
+   "inference": "The verse adds triple-staff and veda-seller to the pātra enumeration.",
    "uncertainties": [
-    "relation to prior list unclear"
+    "relation to previous numbered list is not explicit"
    ],
-   "plain_english": "Triple-staff, O lord of gods, likewise another veda-seller."
+   "plain_english": "Triple-staff and likewise another, veda-seller, O lord of gods."
   },
   {
    "verse": 310,
    "rows": [
     {
      "surface": "akulañca",
-     "gloss": "non-clan",
-     "grounds": "compound with conjunction",
+     "gloss": "non-clan-and",
+     "grounds": "compound a+kula plus conjunction",
      "morph": "n.acc.sg"
     },
     {
@@ -148,7 +148,7 @@
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive",
+     "grounds": "absolutive from jñā",
      "morph": "abs."
     },
     {
@@ -160,26 +160,26 @@
     {
      "surface": "devyā",
      "gloss": "of-goddess",
-     "grounds": "genitive",
-     "morph": "n.gen.sg"
+     "grounds": "genitive from devī",
+     "morph": "f.gen.sg"
     },
     {
      "surface": "subhāmini",
      "gloss": "O-fair-one",
      "grounds": "vocative adjective",
-     "morph": "adj.voc.sg"
+     "morph": "f.voc.sg"
     }
    ],
-   "question": "How should clan and non-clan be known in this context?",
+   "question": "What distinction must be known between clan and non-clan?",
    "premises": [
-    "non-clan and clan are named",
-    "knowing precedes clan of goddess"
+    "non-clan and clan are distinguished",
+    "one should know clan of goddess"
    ],
-   "inference": "The verse instructs knowing clan and non-clan.",
+   "inference": "The verse instructs knowing clan and non-clan, especially clan of the goddess.",
    "uncertainties": [
-    "exact doctrinal rule unclear"
+    "exact ritual application of clan knowledge is not stated"
    ],
-   "plain_english": "Knowing non-clan and clan, clan of the goddess, O fair one."
+   "plain_english": "Non-clan and clan, having known clan of the goddess, O fair one."
   },
   {
    "verse": 311,
@@ -187,13 +187,13 @@
     {
      "surface": "svaguruṃ",
      "gloss": "own-guru",
-     "grounds": "compound accusative",
-     "morph": "n.acc.sg"
+     "grounds": "compound sva+guru+accusative",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "pujayen",
      "gloss": "one-should-worship",
-     "grounds": "optative verb",
+     "grounds": "optative from pūj",
      "morph": "3.sg.act.opt."
     },
     {
@@ -205,24 +205,25 @@
     {
      "surface": "triṣkālaṃ",
      "gloss": "three-times",
-     "grounds": "compound adverb",
-     "morph": "(indecl.)"
+     "grounds": "compound tri+skāla+accusative",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "bhāvitātmanaḥ",
      "gloss": "contemplative-souled",
-     "grounds": "genitive compound",
-     "morph": "n.gen.sg"
+     "grounds": "compound bhāvita+ātman+genitive",
+     "morph": "m.gen.sg"
     }
    ],
-   "question": "How should one worship one's own guru according to this instruction?",
+   "question": "How should one worship one's own guru?",
    "premises": [
-    "own guru should be worshipped",
-    "worship is always and three times"
+    "one should worship own guru",
+    "worship is always and three times",
+    "for contemplative-souled persons"
    ],
-   "inference": "The verse prescribes constant threefold guru worship.",
+   "inference": "The verse prescribes constant threefold worship of one's guru by the contemplative-souled.",
    "uncertainties": [
-    "exact ritual times unspecified"
+    "whether triṣkālaṃ modifies worship times or daily periods is unclear"
    ],
    "plain_english": "One should always worship one's own guru three times, for the contemplative-souled."
   },
@@ -232,30 +233,31 @@
     {
      "surface": "nivedayet",
      "gloss": "one-should-offer",
-     "grounds": "optative verb",
+     "grounds": "optative from nivid",
      "morph": "3.sg.act.opt."
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
-     "grounds": "instrumental noun",
-     "morph": "n.instr.sg"
+     "grounds": "instrumental from prayatna",
+     "morph": "m.instr.sg"
     },
     {
      "surface": "bhuktimuktijigīṣayā",
      "gloss": "enjoyment-liberation-desiring-to-conquer",
-     "grounds": "compound instrumental",
-     "morph": "n.instr.sg"
+     "grounds": "compound bhukti+mukti+jigīṣā+instrumental",
+     "morph": "f.instr.sg"
     }
    ],
-   "question": "Why should one offer with effort in this practice?",
+   "question": "Why should one offer with effort?",
    "premises": [
-    "offering is with effort",
-    "aim is enjoyment and liberation"
+    "one should offer with effort",
+    "aim is enjoyment and liberation",
+    "desiring to conquer both"
    ],
-   "inference": "The verse links effortful offering to conquering enjoyment and liberation.",
+   "inference": "The verse prescribes offering with effort for one who desires to conquer enjoyment and liberation.",
    "uncertainties": [
-    "exact offering object unspecified"
+    "exact object of offering is not named in this verse"
    ],
    "plain_english": "One should offer with effort, desiring to conquer enjoyment and liberation."
   }
