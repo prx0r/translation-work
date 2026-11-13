@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "sāmyāntararasāsvādamelāv",
+     "gloss": "equality-inner-essence-taste-union-in",
+     "grounds": "compound sāmyāntara-rasa-āsvāda-mela in locative singular; final -āv reflects sandhi before following initial ā-",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ātmānubhūyate",
+     "gloss": "self-is-experienced",
+     "grounds": "ātman compounded with verb anu-bhū in passive sense, expressing experience as the self",
+     "morph": "3.sg.pass-pres anu-bhū"
+    }
+   ],
+   "question": "In what union is the self directly experienced?",
+   "premises": [
+    "A union occurs characterized by equality and inner essence.",
+    "This union involves the tasting of that inner essence.",
+    "Within this specific union, experience takes a reflexive form."
+   ],
+   "inference": "The self is experienced in the union marked by tasting the inner essence of equality.",
+   "uncertainties": [
+    "The precise syntactic scope of sāmyāntara within the compound admits nuance."
+   ],
+   "plain_english": "In the union that tastes the inner essence of equality, it is experienced as the self."
+  }
+ ]
+}

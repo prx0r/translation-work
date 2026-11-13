@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[village-circumambulation](grāma+pradakṣiṇaṃ) [having-done](kṛtvā) [deity-invocation-endowed](devatā+āvāhana+anvitam)
+[village+circumambulation](grāma+pradakṣiṇaṃ) [having-done](kṛtvā) [deity+invocation+endowed-with](devatā+āvāhana+anvitam)
 
 ## mukta-m0-p26-v627
-[of-flag](dhvajasya) [hoisting](ārohaṇaṃ) [should-do](kuryāt) [by-previously-stated-method](prāk+ukta+vidhinā) [teacher](guruḥ)
+[flag's+hoisting](dhvajasya+ārohaṇaṃ) [should-do](kuryāt) [previously-stated+method+by](prāk+ukta+vidhinā) [teacher](guruḥ)
 
 ## mukta-m0-p26-v628
-[of-flag](dhvajasya) [circumambulation](bhramaṇaṃ) [and-day](ca+ahniṃ) [should-do](kuryāt) [or](vā) [of-consecrated](saṃskṛtasya) [and](ca)
+[flag's](dhvajasya) [rotation](bhramaṇaṃ) [and](ca) [by-day](ahni) [should-do](kuryāt) [or](vā) [consecrated's](saṃskṛtasya) [and](ca)
 
 ## mukta-m0-p26-v629
-[then](tataḥ) [sprout-offering](aṅkura+arpaṇaṃ) [at-night](rātrau) [on-festival-commencement-day](yāga+ārambha+dine) [approved](matam)
+[then](tataḥ) [sprout+offering](aṃkura+arpaṇaṃ) [at-night](rātrau) [ritual+commencement+day+on](yāga+ārambha+dine) [approved](matam)
 
 ## mukta-m0-p26-v630
-[village-circumambulation](grāma+pradakṣiṇaṃ) [sacred-water-sprout](tīrtha+aṅkurasya) [necessary](āvaśyakam) [approved](matam)
+[village+circumambulation](grāma+pradakṣiṇam) [sacred-water](tīrtha) [sprout's](aṃkurasya) [necessity](āvaśyakam) [approved](matam)
 
 ## mukta-m0-p26-v631
-[sprout-offering](aṅkura+arpaṇa) [before](pūrve) [indeed](tu) [in-evening-time](sāyāhna+samaye) [clay](mṛdam)
+[sprout+offering](aṃkura+arpaṇa) [before](pūrve) [indeed](tu) [evening+time+in](sāyāhna+samaye) [clay](mṛdam)
 
 ## mukta-m0-p26-v632
-[on-that-day](tat+dine) [and-this](ca+etat) [desired](iṣṭaṃ) [should-be](syāt) [preceded-by-drum-beating](bherī+tāḍana+pūrvakam)
+[that+day](tad+dine) [and](ca) [this](etat) [desired](iṣṭam) [should-be](syāt) [drum+beating+preceded-by](bherī+tāḍana+pūrvakam)
 
 ## mukta-m0-p26-v633
-[on-that-night](tat+rātrau) [indeed](eva) [to-be-done](kartavyaḥ) [commencement-of-rite](yāga+ārambhaḥ) [of-Śiva](śivasya) [indeed](tu)
+[that+night+in](tad+rātrau) [indeed](eva) [to-be-done](kartavyaḥ) [ritual+commencement](yāga+ārambhaḥ) [Śiva's](śivasya) [indeed](tu)
 
 ## mukta-m0-p26-v634
-[flag-sprout](ketu+aṅkuraḥ) [in-nine-day-festival](nava+ahe) [should-be](syāt) [in-seven-day-festival](sapta+ahe) [and-festival-sprout](ca+utsava+aṅkuram)
+[flag+sprout](ketu+aṃkuraḥ) [nine-day+in](nava+ahe) [should-be](syāt) [seven-day+in](sapta+ahe) [and](ca) [festival+sprout](utsava+aṃkuram)
 
 ## mukta-m0-p26-v635
-[within-rite-hall](yāga+śālā+antataḥ) [should-make](kuryāt) [in-front](agre) [or](vā) [indeed](tu) [on-front-sides](agra+pārśvayoḥ)
+[ritual+hall+inside](yāga+śālā+antaḥ) [should-make](kuryāt) [in-front](agre) [or](vā) [indeed](tu) [front+sides+on](agra+pārśvayoḥ)
 
 ## mukta-m0-p26-v636
-[in-middle-chamber](madhya+āgāre) [especially](viśeṣeṇa) [of-five-cubit-measure](pañca+hasta+pramāṇataḥ)
+[middle+chamber+in](madhya+āgāre) [especially](viśeṣeṇa) [five+cubit+measure+with](pañca+hasta+pramāṇataḥ)
 
 ## mukta-m0-p26-v637
-[endowed-with-three-rows](paṅkti+traya+samāyuktaṃ) [endowed-with-five-rows](pañca+paṅkti+samanvitam)
+[row+triad+endowed-with](paṅkti+traya+samāyuktaṃ) [five+rows+endowed-with](pañca+paṅkti+samanvitam)
 
 ## mukta-m0-p26-v638
-[up-to-nine-aṅgula-measure](nava+aṅgula+anta+mānena) [indeed-additional](tu+adhikāḥ) [five-rows](pañca+paṅktayaḥ)
+[nine+finger+end+measure+by](nava+aṅgula+anta+mānena) [indeed](tu) [additional](adhikāḥ) [five+rows](pañca+paṅktayaḥ)
 
 ## mukta-m0-p26-v639
-[endowed-with-one-door](eka+dvāra+yutāṃ) [or](vā+api) [situated-in-form-of-pavilion](maṇḍapa+ākāra+saṃsthitām)
+[one+door+endowed-with](eka+dvāra+yutāṃ) [or](vā) [also](api) [pavilion+form+situated](maṇḍapa+ākāra+saṃsthitām)
 
 ## mukta-m0-p26-v640
-[endowed-with-one-fire](eka+agni+sahitāṃ) [or](vā+api) [furnished-with-canopy-and-flags](vitāna+dhvaja+saṃyutām)
+[one+fire+endowed-with](eka+agni+sahitāṃ) [or](vā) [also](api) [canopy+flag+endowed-with](vitāna+dhvaja+saṃyutām)
 
 ## mukta-m0-p26-v641
-[endowed-with-coconut-fruits](nālikera+phala+upetāṃ) [adorned-with-all-decorations](sarva+maṇḍana+maṇḍitām)
+[coconut+fruit+endowed-with](nālikera+phala+upetāṃ) [all+decoration+adorned-with](sarva+maṇḍana+maṇḍitām)
 
 ## mukta-m0-p26-v642
-[with-increase-of-one-aṅgula](eka+aṅgula+vivṛddhayā) [up-to-twenty-eight-aṅgulas](aṣṭāviṃśati+aṅgula+ka+avadhi)
+[one+finger+increase+by](eka+aṅgula+vivṛddhyā) [twenty-eight+finger+extent+up-to](aṣṭāviṃśati+aṅgula+ka+avadhi)
 
 ## mukta-m0-p26-v643
-[or](athavā) [by-row-measure](paṅkti+mānena) [and](ca) [endowed-with-subsidiary-deities](upa+devī+samanvitam)
+[or](athavā) [row+measure+by](paṅkti+mānena) [and](ca) [subsidiary+deity](upa+devī) [endowed-with](samanvitam)
 
 ## mukta-m0-p26-v644
-[square](yug+āśraṃ) [or](vā+api) [circular](vartulaṃ) [endowed-with-three-platforms](tri+mekhala+samanvitam)
+[square](yugāśraṃ) [circular](vartulaṃ) [or](vā) [also](api) [three+rim+endowed-with](tri+mekhala+samanvitam)
 
 ## mukta-m0-p26-v645
-[thus](evaṃ) [all](sarvaṃ) [and](ca) [having-accomplished](saṃpādya) [release-of-artisan](śilpi+mocanam) [should-perform](ācaret)
+[thus](evaṃ) [all](sarvam) [and](ca) [having-accomplished](saṃpādya) [craftsman+release](śilpi+mocanam) [should-perform](ācaret)
 
 ## mukta-m0-p26-v646
-[taking-possession-of-ground](bhū+parigrahakaṃ) [or](vā+api) [endowed-with-head-of-all-rites](sarva+adhvara+śiraḥ+yutam)
+[ground+taking](bhū+parigrahakaṃ) [or](vā) [also](api) [all+ritual+head+endowed-with](sarva+adhvara+śiraḥ+yutam)
 
 ## mukta-m0-p26-v647
-[from-one-droṇa](droṇāt) [with-increase-of-one-droṇa](droṇa+vivṛddhayā) [indeed](tu) [ending-with-nine-droṇas](nava+droṇa+avasānakam)
+[droṇa+from](droṇāt) [droṇa+increase+by](droṇa+vivṛddhyā) [indeed](tu) [nine+droṇa+limit+up-to](nava+droṇa+avasānakam)
 
 ## mukta-m0-p26-v648
-[with-that-much](tat+vat) [endowed-with-equal-parched-rice](lāja+sama+upetaṃ) [endowed-with-half-of-that-sesame](tat+ardha+tila+saṃyutam)
+[that+with](tadvat) [parched-rice+equal+endowed-with](lāja+sama+upetaṃ) [that+half](tad+ardha) [sesame+endowed-with](tila+saṃyutam)
 
 ## mukta-m0-p26-v649
-[marked-with-lines-of-sesame-and-parched-rice-etc.](tila+lāja+ādi+rekhā+āḍhyaṃ) [endowed-with-wrapping-of-darbha-grass](darbha+veṣṭana+saṃyutam)
+[sesame+parched-rice+etc.+line+abounding-in](tila+lāja+ādi+rekhā+āḍhya) [darbha+wrapping+endowed-with](darbha+veṣṭana+saṃyutam)
 
 ## mukta-m0-p26-v650
-[in-its-middle](tat+madhye) [should-place](sthāpayet) [pot](kumbhaṃ) [named-Śiva](śiva+ākhyaṃ) [together-with-vardhanī](vardhanī+yutam)
+[that+middle+in](tad+madhye) [should-place](sthāpayet) [pot](kumbhaṃ) [Śiva+named](śiva+ākhyaṃ) [vardhanī+endowed-with](vardhanī+yutam)

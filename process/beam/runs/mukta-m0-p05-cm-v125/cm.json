@@ -3,24 +3,29 @@
  "verse": 125,
  "rows": [
   {
-   "lemma": "anulomavolomena",
-   "morph": "compound.indecl",
-   "grounds": "compound of anuloma and vilomena with internal sandhi; indicates bidirectional sequence"
+   "lemma": "kāryasya",
+   "morph": "n.gen.sg",
+   "grounds": "genitive dependent of pravartanam; denotes the effect whose operation is described"
   },
   {
-   "lemma": "mātṛkāyāṃ",
-   "morph": "f.loc.sg",
-   "grounds": "locative indicating the matrix within which recitation occurs"
+   "lemma": "tādṛśasyaiva",
+   "morph": "n.gen.sg+indecl.",
+   "grounds": "tādṛśasya (such-kind) fused with emphatic eva; qualifies kāryasya"
   },
   {
-   "lemma": "japet",
-   "morph": "3.sg.opt.act √jap",
-   "grounds": "optative expressing prescribed ritual action"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle reinforcing the restriction expressed in the preceding fused form"
   },
   {
-   "lemma": "sudhīḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject performing the recitation"
+   "lemma": "prabandhena",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental indicating the means by which pravartanam occurs"
+  },
+  {
+   "lemma": "pravartanam",
+   "morph": "n.nom.sg",
+   "grounds": "action noun from pra-vṛt; subject of the stated process"
   }
  ]
 }

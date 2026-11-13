@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p257-v6401
-[up-to](yāvat) [eight](aṣṭa) [savaṃ](savaṃ) [foot](pāda) [length](dairghyam) [fire](agni) [finger+etc](aṅgula+ādikam)
+[as-much-as](yāvat) [eight+hundred](aṣṭa+savaṃ) [foot+length](pāda+dairghyam) [fire+finger+etc](agni+aṅgula+ādikam)
 
 ## mukta-m0-p257-v6402
-[foot](pāda) [width](vistāra) [declared](ākhāto) [mansion](dhāma) [foot](pādā) [making](kṛtiḥ) [as](yathā)
+[foot](pāda) [width](vistāra) [declared](ākhāto) [mansion](dhāma) [foot](pāda) [making](kṛtiḥ) [as](yathā)
 
 ## mukta-m0-p257-v6403
-[many](bahu) [strong](nīvra) [joined-with](samāyuktāḥ) [in-planks](phalakāsu) [placed](niveśitāḥ)
+[much+strong](bahu+nīvra) [joined-with](samāyuktāḥ) [in-planks](phalakāsu) [placed](niveśitāḥ)
 
 ## mukta-m0-p257-v6404
-[likewise](tathā) [indeed](eva) [with-iron](āyasana) [tubes](nālaiḥ) [and](ca) [stream](dhāraḥ) [very-firm](sudṛdhaṃ) [as](yathā)
+[likewise](tathaiva) [with-iron+tubes](ayas+nālaiḥ) [and](ca) [stream](dhāraḥ) [very-firm](su+dṛdhaṃ) [as](yathā)
 
 ## mukta-m0-p257-v6405
-[spire](śikhā) [making](karaṇa) [by-method](mārgeṇa) [plaster](lupā) [ascending](ārohaṇa) [action](kriyā) [endowed-with](anvitā)
+[spire+making+method](śikhā+karaṇa+mārgeṇa) [plaster+ascending](lupā+ārohaṇa) [action+endowed](kriyā+anvitā)
 
 ## mukta-m0-p257-v6406
-[one-should-cover](chādayet) [other](anya) [place](deśaṃ) [and](ca) [strength](ojas) [finial](tūpi) [endowed-with](samanvitam)
+[should-cover](chādayet) [other](anya) [place](deśañ) [and](ca) [strength+finial](ojas+tūpi) [endowed-with](samanvitam)
 
 ## mukta-m0-p257-v6407
-[it-is-told](kathyate) [by-Sacaleśa](sacaleśena) [from-width](vistārāt) [from-length](āyāta) [or](upi) [also](vā)
+[is-told](kathyate) [by-Sacaleśa](sacaleśena) [from-width](vistārāt) [from-length](āyātā) [or](api) [or](vā)
 
 ## mukta-m0-p257-v6408
-[one-should-increase](vardhayet) [by-two-three-four](dvitrivedaiḥ) [and](ca) [multiplied](guṇite) [in-order](kramaśaḥ) [divided](hṛte)
+[should-increase](vardhayet) [by-two+three+four](dvi+tri+vedaiḥ) [and](ca) [multiplied](guṇite) [in-order](kramaśaḥ) [divided](hṛte)
 
 ## mukta-m0-p257-v6409
-[lunar-day](tithiḥ) [should-be](syāt) [three-times](triguṇaṃ) [thirty](triṃśat) [divided](hṛtaṃ) [this](etat) [opinion](matam) [established](ratam)
+[lunar-day](tithiḥ) [should-be](syāt) [three-times](triguṇaṃ) [thirty](triṃśat) [six](ṣaṭ) [this](etat) [opinion](matam)
 
 ## mukta-m0-p257-v6410
-[of-chariot](rathasya) [installation](sthāpanaṃ) [which](yat) [and](ca) [is-told](kathyate) [O-best-of-brahmins](viprapuṅgavāḥ)
+[of-chariot](rathasya) [installation](sthāpanaṃ) [which](yat) [and](ca) [is-told](kathyate) [O-best-of-brahmins](vipra+puṅgavāḥ)
 
 ## mukta-m0-p257-v6411
-[with-cow-urine](gomūtra) [cow-dung](gomaya) [waters](aṃbhobhiḥ) [with-kuśa-waters](kuśodaiḥ) [with-those-waters](tajjalaiḥ) [also](api)
+[with-cow-urine](go+mūtra) [with-cow-dung+waters](go+maya+ambhobhiḥ) [with-kuśa-waters](kuśa+udaiḥ) [with-those-waters](tat+jalaiḥ) [also](api)
 
 ## mukta-m0-p257-v6412
-[with-weapon-water](astrodena) [also](api) [sprinkle](saṃprokṣaya) [with-fragrance](gandha) [flower+etc](puṣpa+ādibhiḥ) [worship](yajet)
+[with-weapon-water](astra+udena) [also](api) [sprinkle](saṃprokṣaya) [with-fragrance+flowers+etc](gandha+puṣpa+ādibhiḥ) [worship](yajet)
 
 ## mukta-m0-p257-v6413
-[with-cloth](vastreṇa) [having-covered](ācchādya) [by-mansion-statement](dhāmoktyā) [with-tattva](tatva) [tattva-lords](tatveśvarān) [endowed-with](anvitam)
+[with-cloth](vastreṇa) [having-covered](ācchādya) [by-mansion-statement](dhāma+uktyā) [with-tattva+tattveśvaras](tatva+tatva+īśvarān) [endowed-with](anvitam)
 
 ## mukta-m0-p257-v6414
-[in-south](dakṣiṇa) [north](uttara) [situated-places](saṃstheṣu) [in-order](kramaśaḥ) [one-should-arrange](parikalpayet)
+[in-south+north](dakṣiṇa+uttara) [situated](saṃstheṣu) [in-order](kramaśaḥ) [should-arrange](parikalpayet)
 
 ## mukta-m0-p257-v6415
-[on-pedestal](upapīṭhe) [bull](vṛṣaṃ) [having-worshipped](yaṣṭvā) [in-stream](dhāre) [Ananta](anantaṃ) [one-should-worship](prapūjayet)
+[on-pedestal](upapīṭhe) [bull](vṛṣaṃ) [having-worshipped](yaṣṭvā) [on-stream](dhāre) [Ananta](anantaṃ) [should-worship](prapūjayet)
 
 ## mukta-m0-p257-v6416
-[below](adhaḥ) [and-above](ca) [upper-cover](ūrdhva) [chade](chade) [O-wise-one](vidvān) [in-order](krameṇa) [one-should-place](viniveśayet)
+[below](adhaḥ) [and](ca) [above](ūrdhva) [on-cover](chade) [wise-one](vidvān) [in-order](krameṇa) [should-place](viniveśayet)
 
 ## mukta-m0-p257-v6417
-[from-pericarp](karṇikāt) [nine](nava) [śaktis](śaktīṃḥ) [and](ca) [Śiva-seat](śivāsanaṃ) [one-should-contemplate](anusmaret)
+[in-pericarp](karṇikān) [nine+śaktis](nava+śaktīṃḥ) [and](ca) [Śiva-seat](śiva+āsanaṃ) [should-contemplate](anusmaret)
 
 ## mukta-m0-p257-v6418
-[on-spire](śikhare) [and](ca) [Sadāśiva-Īśāna](sadeśānaḥ) [of-Śiva](śivasya) [should-be](āt) [finial-lord](stūpināyakaḥ)
+[on-spire](śikhare) [and](ca) [Sadāśiva+Īśāna](sat+īśānaḥ) [of-Śiva](śivasya) [should-be](syāt) [finial-lord](stūpi+nāyakaḥ)
 
 ## mukta-m0-p257-v6419
-[on-its-top](tadagre) [platform](sthaṃḍilaṃ) [having-made](kṛtvā) [on-that](tasmin) [with-thread](sūtra) [garments](āmbarān) [endowed-with](anvitān)
+[on-its-top](tat+agre) [platform](sthaṃḍilaṃ) [having-made](kṛtvā) [on-that](tasmin) [with-thread+garments](sūtra+ambara+anvitān)
 
 ## mukta-m0-p257-v6420
-[there](tatra) [in-middle](madhye) [Śiva](śivaṃ) [in-east](pūrve) [sun](bhānuṃ) [moon](induṃ) [likewise](tathā) [in-fire](anale)
+[there](tatra) [in-middle](madhye) [Śiva](śivaṃ) [in-east](pūrve) [sun](bhānuṃ) [moon](induṃ) [likewise](tathā) [in-southeast](anale)
 
 ## mukta-m0-p257-v6421
-[in-west](vāruṇe) [bull](vṛṣabhaṃ) [in-wind](vāyau) [Ananta](anantaṃ) [one-should-place](viniveśayet)
+[in-west](vāruṇe) [bull](vṛṣabhaṃ) [in-northwest](vāyau) [Ananta](anantaṃ) [should-place](viniveśayet)
 
 ## mukta-m0-p257-v6422
-[with-fragrance+etc](gandha+ādyaiḥ) [having-worshipped](arcayitvā) [then](tu) [fire-ritual](homakarma) [one-should-perform](samācaret)
+[with-fragrance+etc](gandha+ādyaiḥ) [having-worshipped](arcayitvā) [then](tu) [fire-ritual](homa+karma) [should-perform](samācaret)
 
 ## mukta-m0-p257-v6423
-[nine](nava) [or](vā) [five](pañca) [fire-pits](kuṇḍāni) [one](ekaṃ) [or](vā) [in-east](pūrvataḥ) [situated](sthitam)
+[nine](nava) [or](vā) [five+pits](pañca+kuṇḍāni) [one](ekaṃ) [or](vā) [situated-in-east](pūrvataḥ+sthitam)
 
 ## mukta-m0-p257-v6424
-[Śiva](śivaṃ) [with-limbs](sāṅgaṃ) [in-main](pradhāne) [then](tu) [one-should-satisfy](tarpayet) [hundred](śata) [by-number](saṃkhyayā)
+[Śiva](śivaṃ) [with-limbs](sa+aṅgaṃ) [in-main](pradhāne) [then](tu) [should-satisfy](tarpayet) [hundred+number](śata+saṃkhyayā)
 
 ## mukta-m0-p257-v6425
-[in-one](eka) [procedure](kalpe) [guru](guruḥ) [in-this](asmin) [fire-pit](kuṇḍe) [all](sarvaṃ) [and](ca) [one-should-satisfy](tarpayet)
+[in-one](eka) [rite](kalpe) [guru](guruḥ) [in-this](asmin) [in-pit](kuṇḍe) [all](sarvañ) [and](ca) [should-satisfy](tarpayet)

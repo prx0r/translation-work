@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "kāryasya",
+     "gloss": "of-effect",
+     "grounds": "genitive dependent of pravartanam; denotes the effect whose operation is described",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tādṛśasyaiva",
+     "gloss": "of-such-kind-alone",
+     "grounds": "tādṛśasya (such-kind) fused with emphatic eva; qualifies kāryasya",
+     "morph": "n.gen.sg+indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the restriction expressed in the preceding fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabandhena",
+     "gloss": "by-continuity",
+     "grounds": "instrumental indicating the means by which pravartanam occurs",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pravartanam",
+     "gloss": "operation",
+     "grounds": "action noun from pra-vṛt; subject of the stated process",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what means does the operation of such an effect continue?",
+   "premises": [
+    "The preceding context states that vikalpa accomplishes only fragmentation.",
+    "The verse identifies an effect of a specific kind as what operates.",
+    "Continuity is named as the means of that operation."
+   ],
+   "inference": "Therefore, despite vikalpa's fragmenting activity, the operation of such an effect proceeds through continuity.",
+   "uncertainties": [
+    "The exact referent of tādṛśa kārya depends on the broader argument of the surrounding passage."
+   ],
+   "plain_english": "Indeed, the operation of just such an effect proceeds by continuity."
+  }
+ ]
+}
