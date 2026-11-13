@@ -3,44 +3,59 @@
  "verse": 20,
  "rows": [
   {
-   "lemma": "svatantraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "self-dependent"
+   "lemma": "guṇa",
+   "morph": "compound-member",
+   "grounds": "guṇa principle"
+  },
+  {
+   "lemma": "kāraṇatvena",
+   "morph": "n.ins.sg",
+   "grounds": "by causality of guṇas"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "siddheḥ",
+   "morph": "f.abl.sg",
+   "grounds": "since established"
   },
   {
    "lemma": "kārya",
-   "morph": "compound:kārya",
-   "grounds": "compound first member"
+   "morph": "compound-member",
+   "grounds": "product"
   },
   {
-   "lemma": "+kṛd",
-   "morph": "n.nom.sg",
-   "grounds": "producing; compound final member"
+   "lemma": "antara",
+   "morph": "compound-member",
+   "grounds": "another"
   },
   {
-   "lemma": "yasmān",
+   "lemma": "hetutve",
+   "morph": "n.loc.sg",
+   "grounds": "in being a cause of another effect"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "since"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "na",
+   "lemma": "pramāṇa",
+   "morph": "compound-member",
+   "grounds": "valid means of knowledge"
+  },
+  {
+   "lemma": "abhāvād",
+   "morph": "m.abl.sg",
+   "grounds": "because of lack"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "negation"
-  },
-  {
-   "lemma": "upādānam",
-   "morph": "n.nom.sg",
-   "grounds": "substantial cause"
-  },
-  {
-   "lemma": "acit",
-   "morph": "n.nom.sg",
-   "grounds": "non-conscious"
-  },
-  {
-   "lemma": "kvacit",
-   "morph": "(indecl.)",
-   "grounds": "in any case"
+   "grounds": "concluding particle"
   }
  ]
 }

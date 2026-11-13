@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p06",
  "verse": 149,
- "question": "How is hierarchical governance ordered among mantra-lords, Rudras, and gods?",
+ "question": "Which groups of five are enumerated as constituents in this context?",
  "premises": [
-  "Rudras are ruled by mantra-lords",
-  "Gods are ruled by Rudras",
-  "Governance is hierarchical"
+  "Five elements are named.",
+  "Five subtle elements are named.",
+  "The organs of action are added to the enumeration."
  ],
- "inference": "The Rudras are ruled by the mantra-lords, and the gods are well ruled by the Rudras.",
- "uncertainties": [],
- "plain_english": "The Rudras are ruled by the mantra-lords, and the gods are well ruled by the Rudras."
+ "inference": "The verse enumerates the five elements, the five subtle elements, and the organs of action.",
+ "uncertainties": [
+  "The number of action organs is implied but not explicitly stated as five in this verse."
+ ],
+ "plain_english": "The five elements, the five subtle elements, and the organs of action."
 }

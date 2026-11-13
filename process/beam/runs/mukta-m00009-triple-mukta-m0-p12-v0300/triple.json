@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "arthasāmarthyajaṃ",
+     "gloss": "born-from-object-capacity",
+     "grounds": "compound: artha-sāmarthya-ja (born from the capacity/power of the object); qualifies jñānaṃ",
+     "morph": "compound adj.n.nom.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "cognition",
+     "grounds": "subject of matam; cognition arising from the object's capacity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtisaṅkalpavan",
+     "gloss": "like-memory-and-conception",
+     "grounds": "compound: smṛti-saṅkalpa-vat (possessing the nature of memory and conception); indicates epistemic status",
+     "morph": "compound adj.n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past passive participle expressing the accepted view",
+     "morph": "ppp.n.nom.sg (√man)"
+    }
+   ],
+   "question": "What is the epistemic status of cognition born from an object's own capacity?",
+   "premises": [
+    "Cognition can arise from the capacity of the object itself.",
+    "Such cognition is comparable to memory and conception.",
+    "Memory and conception are not instances of direct perception."
+   ],
+   "inference": "Therefore, cognition born from an object's capacity is not established as direct perception but is regarded as akin to memory and conception.",
+   "uncertainties": [
+    "The precise distinction intended between smṛti and saṅkalpa in this context is not fully specified."
+   ],
+   "plain_english": "Cognition that arises from the capacity of the object is considered to be like memory and conceptual construction."
+  }
+ ]
+}

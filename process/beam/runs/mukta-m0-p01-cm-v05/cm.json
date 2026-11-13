@@ -3,24 +3,29 @@
  "verse": 5,
  "rows": [
   {
-   "lemma": "jñāna",
-   "morph": "compound:jñāna",
-   "grounds": "cognition; compound first member"
+   "lemma": "prāptād",
+   "morph": "m.abl.sg",
+   "grounds": "ablative of prāpta"
   },
   {
-   "lemma": "+kriye",
-   "morph": "f.acc.du",
-   "grounds": "activity; compound final member"
+   "lemma": "visarjanīyāt",
+   "morph": "m.abl.sg",
+   "grounds": "ablative of the phoneme"
   },
   {
-   "lemma": "maheśasya",
-   "morph": "m.gen.sg",
-   "grounds": "of the supreme lord"
+   "lemma": "khura",
+   "morph": "compound-member",
+   "grounds": "part of example compound"
   },
   {
-   "lemma": "parityajya",
-   "morph": "(indecl.);gerund;√tyaj",
-   "grounds": "leaving aside"
+   "lemma": "kambala",
+   "morph": "compound-member",
+   "grounds": "part of example compound"
+  },
+  {
+   "lemma": "lakṣaṇā",
+   "morph": "f.nom.sg",
+   "grounds": "marked/defined"
   },
   {
    "lemma": "na",
@@ -28,9 +33,14 @@
    "grounds": "negation"
   },
   {
-   "lemma": "kāraṇam",
-   "morph": "n.nom.sg",
-   "grounds": "causal factor"
+   "lemma": "cid",
+   "morph": "(indecl.)",
+   "grounds": "indefinite particle"
+  },
+  {
+   "lemma": "vyaktiḥ",
+   "morph": "f.nom.sg",
+   "grounds": "distinct cognition/particular"
   }
  ]
 }

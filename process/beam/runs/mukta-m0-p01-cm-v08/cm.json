@@ -3,39 +3,49 @@
  "verse": 8,
  "rows": [
   {
-   "lemma": "kṛṣyā",
-   "morph": "compound:kṛṣi",
-   "grounds": "compound first member"
+   "lemma": "vijñāna",
+   "morph": "compound-member",
+   "grounds": "knowledge/awareness"
   },
   {
-   "lemma": "+ādi",
-   "morph": "compound:ādi",
-   "grounds": "and so forth; compound member"
+   "lemma": "hetavaḥ",
+   "morph": "m.nom.pl",
+   "grounds": "causal factors"
   },
   {
-   "lemma": "+vat",
+   "lemma": "syur",
+   "morph": "3.pl.act-opt",
+   "grounds": "optative"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "comparative suffix; compound final member"
+   "grounds": "negation"
   },
   {
-   "lemma": "tu",
+   "lemma": "tato",
    "morph": "(indecl.)",
-   "grounds": "contrastive particle"
+   "grounds": "from that"
   },
   {
-   "lemma": "kartāraṃ",
-   "morph": "m.acc.sg",
-   "grounds": "doer"
+   "lemma": "arthe",
+   "morph": "m.loc.sg",
+   "grounds": "regarding the object/meaning"
   },
   {
-   "lemma": "prajñāvantam",
-   "morph": "m.acc.sg",
-   "grounds": "possessing knowledge"
+   "lemma": "dhīḥ",
+   "morph": "f.nom.sg",
+   "grounds": "understanding"
   },
   {
-   "lemma": "apekṣate",
-   "morph": "3.sg.middle-present;√īkṣ",
-   "grounds": "depends on"
+   "lemma": "prakalpyate",
+   "morph": "3.sg.pass-pres",
+   "grounds": "is assumed"
+  },
+  {
+   "lemma": "yena",
+   "morph": "n.ins.sg",
+   "grounds": "relative instrumental"
   }
  ]
 }
