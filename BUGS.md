@@ -71,3 +71,33 @@ site_url written onto parent anthology rows.
 **Fix:** renamed `mukta-unknown-saundaryalahari` w/ children retargeted;
 site_url canonical only where `work_id == slug`.
 **Rule:** *FK children move first; URL ownership = one work per slug.*
+
+## 10. MCP/tal_stage proof ignored recorded dispositions (2026-11-13)
+**Symptom:** songs with verified sandhi-only dispositions (tools/proof-disp.json)
+stayed BLOCKED, and cloud promotions could not clear them.
+**Root:** `mcp_server.validate/promote` and `tools/tal_stage.py` called
+`proof_record.py --shastra` without `--disp`.
+**Fix:** both paths now pass `--disp tools/proof-disp.json` when present
+(`_proof_cmd` in mcp_server; inline disp in tal_stage). Kularnava 42→60 gold.
+**Rule:** *one proof invocation; dispositions always honoured.*
+
+## 11. Beam T1 duplicate/overlapping surfaces (2026-11-13)
+**Symptom:** T1 token runs repeated a compound and its tail
+(`ājñāsiddhirbhavettasya` / `bhavettasya` / `tasya`), and working-t1 carried
+duplicate verse entries; align ratio dropped to 0.4–0.8 and DATA_OBJECTS failed.
+**Root:** legacy-hint draft rows + chunk overlap, faithfully merged.
+**Fix:** `tools/dedup_t1.py` (count-preserving suffix de-overlap) + working-t1
+duplicate-verse dedupe; T1-only, L0 index invariants hold. Kularnava + kjn
+contracts restored to PASS after re-proof.
+**Rule:** *de-overlap at merge; one verse entry per working-t1.*
+
+## 12. Svacchanda/Netra T1 carries non-source tokens (OPEN)
+**Symptom:** T1 surfaces include gloss words and paren variants
+(`p08 v176` appends `parikalpanā anuṣaṅga`; `sva-p37` repeats one word ×4;
+`net-p17` has `sphī(sthī` truncated). L2_CITE_FAIL + ALIGN_NODISP.
+**Root:** intake/drafting added explanatory tokens to the surface stream and
+split paren-variant words mid-token. Not dispositable — the concatenation does
+not equal source.
+**Status:** OPEN — both fronts stay BLOCKED pending a proper T1 re-intake
+(strip non-source tokens, resolve paren variants, one entry per verse).
+`tools/dedup_t1.py` cannot fix addition or identical-token repetition.

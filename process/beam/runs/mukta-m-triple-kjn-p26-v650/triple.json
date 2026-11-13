@@ -7,13 +7,13 @@
     {
      "surface": "ulukī",
      "gloss": "owl-woman",
-     "grounds": "legacy hint owl-woman; feminine nominative singular form",
+     "grounds": "feminine noun derived from uluka (owl)",
      "morph": "f.nom.sg"
     },
     {
      "surface": "pecakī",
      "gloss": "peacock-woman",
-     "grounds": "legacy hint peacock-woman; feminine nominative singular form",
+     "grounds": "feminine noun derived from pecaka (peacock)",
      "morph": "f.nom.sg"
     },
     {
@@ -31,7 +31,7 @@
     {
      "surface": "sararī",
      "gloss": "sarari-woman",
-     "grounds": "legacy hint sarari-woman; feminine nominative singular form",
+     "grounds": "feminine noun derived from sarara",
      "morph": "f.nom.sg"
     },
     {
@@ -43,27 +43,27 @@
     {
      "surface": "gūlī",
      "gloss": "gūlī-woman",
-     "grounds": "legacy hint gūlī-woman; feminine nominative singular form",
+     "grounds": "feminine noun form gūlī",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "correlative particle",
+     "grounds": "correlative adverb",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which further feminine forms are listed alongside the owl-woman and peacock-woman?",
+   "question": "Which additional female animal-forms are listed as possible manifestations in this enumeration?",
    "premises": [
-    "The verse continues an enumeration of feminine forms.",
-    "It names owl-woman and peacock-woman among the forms.",
-    "It also names sarari-woman and gūlī-woman among the forms."
+    "The verse lists owl-woman and peacock-woman.",
+    "It also lists sarari-woman and gūlī-woman.",
+    "Disjunctive particles separate the alternatives."
    ],
-   "inference": "The list continues with owl-woman, peacock-woman, sarari-woman, and gūlī-woman.",
+   "inference": "The enumeration continues with four more female forms.",
    "uncertainties": [
-    "The exact doctrinal referent of each feminine form is not specified by this verse alone."
+    "The exact doctrinal significance of each listed form is not stated."
    ],
-   "plain_english": "Owl-woman, peacock-woman, or indeed sarari-woman, or gūlī-woman, likewise."
+   "plain_english": "Owl-woman or peacock-woman, indeed sarari-woman or gūlī-woman, likewise."
   }
  ]
 }

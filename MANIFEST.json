@@ -1,6 +1,6 @@
 {
- "rev": "ea81537c83abfcacecb1c9d76a3cda71631d2b9b",
- "at": "2026-11-13T04:35:03+00:00",
+ "rev": "ad5c198a893d47328d81dd1d26c3b4be3f0b8856",
+ "at": "2026-11-13T04:38:09+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -8167,8 +8167,8 @@
    "bytes": 28910
   },
   "mukta-m00027/data/kjn-p04.argmap.json": {
-   "sha256": "3769f4c00fa548e473c71f117a372bf74f8af9789a0ca8efa4300e46e56b471f",
-   "bytes": 20973
+   "sha256": "59ddac30ddc36f84a8a2d8aeaf3ea08be53f4d4402f572228c1376fd604dc6a5",
+   "bytes": 20111
   },
   "mukta-m00027/data/kjn-p04.c1.json": {
    "sha256": "762bcdbe39bb15caa4ad0df9e72a60ccdd809a47e097bbaf982dc643ff84f858",
@@ -8179,12 +8179,12 @@
    "bytes": 40094
   },
   "mukta-m00027/data/kjn-p04.l2.json": {
-   "sha256": "836baccaab3f33060b3a530cbe6e85dcb6dc5d6b660ae2027362d12645a01216",
-   "bytes": 9773
+   "sha256": "db31a588ed0d242f22d7893f35c5e89f912e98a26d394d96721713c34d6ede06",
+   "bytes": 9403
   },
   "mukta-m00027/data/kjn-p04.t1.json": {
-   "sha256": "874bbd434798675ecfd00bb16f3f06058e07ab9722b0a152d930a2acb9af8d78",
-   "bytes": 25457
+   "sha256": "2ec50453627aac8f013b85e18896fb6e8c07df2e258ed35833dab4df9bf948d2",
+   "bytes": 24459
   },
   "mukta-m00027/data/kjn-p05.argmap.json": {
    "sha256": "cad05ec91b9b3caa86c57741da75ea86118759f4bd7bed58389f112f39a43f2b",
@@ -8291,8 +8291,8 @@
    "bytes": 20466
   },
   "mukta-m00027/data/kjn-p10.c1.json": {
-   "sha256": "9adf7f5df454274462cd8e41e98f42e51949864446e3cfcede6a1dd68ceff2d6",
-   "bytes": 501
+   "sha256": "eb0b24832ee258b5dd3b5c911c448598d7f3a40a2f645215bd0c371678772010",
+   "bytes": 500
   },
   "mukta-m00027/data/kjn-p10.l0.json": {
    "sha256": "70b5207a8600439bf39cbd053f012cfdb34e2beaadd61311eeb4321e073400a1",
@@ -8483,8 +8483,8 @@
    "bytes": 10315
   },
   "mukta-m00027/data/kjn-p22.t1.json": {
-   "sha256": "0f139cf3ea8e24e9bd3fc96970ca09f9ba359714399a3eac9725f2c1b95e522e",
-   "bytes": 29343
+   "sha256": "685a349121d39f8ffc9c51f0f80c33a77bb76a561d1db575fe77bce3b7ca7f11",
+   "bytes": 29347
   },
   "mukta-m00027/data/kjn-p24.argmap.json": {
    "sha256": "3ca30ed28601ffa7b03d9d05a5a7c77deee123996c7235f2549d49ca4df16026",
@@ -8679,7 +8679,7 @@
    "bytes": 852
   },
   "mukta-m00027/STATUS.json": {
-   "sha256": "2efa7042a13abb0e72943a753f69a7cc71208c1bc67a562753d903ee6a592b8d",
+   "sha256": "82b04fb0ef8ba3e5093f3c4bf8b8f6253ed12a9ad960688e9f904964cc3b9428",
    "bytes": 698
   },
   "mukta-m00027/passages.jsonl": {
@@ -23874,6 +23874,14 @@
    "sha256": "a0e8927a2c62b085a28633e948d3fe82cab01e435c7c87ee6c29d7f48101d1b2",
    "bytes": 2841
   },
+  "mukta-m00238/T1-mukta-m0-p98.md": {
+   "sha256": "3ad422b4ce3e3c9f2516647dd7bdf13b746f343e7ce9b5770eea9cb7bcc42755",
+   "bytes": 3421
+  },
+  "mukta-m00238/T1-mukta-m0-p99.md": {
+   "sha256": "3f48f10d6837797c0d14f6ddd756cad4ced6e6c4908cb1825c98b7eba9fa3852",
+   "bytes": 3067
+  },
   "mukta-m00238/STATUS.json": {
    "sha256": "279f8866b4635933f93d7b7714900326dac73360a27f85a94c0fdebe67195b15",
    "bytes": 168
@@ -23881,6 +23889,50 @@
   "mukta-m00238/passages.jsonl": {
    "sha256": "6c0ff73a70795405c6c00c346c29eba30fb659dd46f37f5eded3b5edf621d0ba",
    "bytes": 372770
+  },
+  "mukta-m00239/T1-mukta-m0-p01.md": {
+   "sha256": "607baa70d0a7ec3efb6fd5d528ad114a746d6f11d4ec2cc7925ccdc8dff2fffd",
+   "bytes": 3583
+  },
+  "mukta-m00239/T1-mukta-m0-p02.md": {
+   "sha256": "8ff303ca35b810d2cfbaa412a50d7875aab94f54cb7bffd597dbaa066faa0214",
+   "bytes": 4410
+  },
+  "mukta-m00239/T1-mukta-m0-p03.md": {
+   "sha256": "59a2239a8aed605b4ef639b6c3bed52fd0391d0fb477fbd38e42c92468dfa420",
+   "bytes": 3703
+  },
+  "mukta-m00239/T1-mukta-m0-p04.md": {
+   "sha256": "b2f380517173a3b8be6b77f1e05b1e0c789b15894ffda638c6f43ed81ef6cc20",
+   "bytes": 4262
+  },
+  "mukta-m00239/T1-mukta-m0-p05.md": {
+   "sha256": "a5ca8e1b97735a52c99ee85610e7ce198ac914c5a677accf51d2576109199e86",
+   "bytes": 4682
+  },
+  "mukta-m00239/T1-mukta-m0-p06.md": {
+   "sha256": "d0254ce7cd1366ec57f3c5708e3bde46f3df27605101f79bf082662e5da84201",
+   "bytes": 4187
+  },
+  "mukta-m00239/T1-mukta-m0-p07.md": {
+   "sha256": "60e2bf410de6b6d11ca3fd30892432445bfa20349d461967aff57bec6cf21333",
+   "bytes": 4113
+  },
+  "mukta-m00239/T1-mukta-m0-p08.md": {
+   "sha256": "41add6ca9f3d910f251e638721c3745bc46c343c1f5ff6f6ebb6ec0da5b5b861",
+   "bytes": 3488
+  },
+  "mukta-m00239/T1-mukta-m0-p09.md": {
+   "sha256": "d00a7810d9cc9232759d71e1c8922143607fd06478c455047684718c74c1b685",
+   "bytes": 4115
+  },
+  "mukta-m00239/T1-mukta-m0-p10.md": {
+   "sha256": "b8b84d1fe1d62e8e7583fb1fd18a94c24a20a01363402db26f05aff93391ff35",
+   "bytes": 4163
+  },
+  "mukta-m00239/T1-mukta-m0-p11.md": {
+   "sha256": "642a1e695977dcfc62ea7e9be7ff9d6eee7467d2fb0c1130b469dbf4f07878e3",
+   "bytes": 3959
   },
   "mukta-m00239/STATUS.json": {
    "sha256": "d9b17b6f79f167a07ac62395e72a076378e815321f61faede1a6f38a4ea017e4",

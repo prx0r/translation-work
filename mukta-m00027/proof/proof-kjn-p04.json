@@ -4,7 +4,7 @@
  "work": "mukta-m00027",
  "date": "2026-11-01",
  "blocking": [
-  "DATA_OBJECTS 2 schema/cross-layer errors"
+  "DATA_OBJECTS 4 schema/cross-layer errors"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -18,7 +18,7 @@
   "tokens": 100
  },
  "align": {
-  "min_ratio": 0.925,
+  "min_ratio": 0.95,
   "sub090": {}
  },
  "c1_l2_shared": [],
@@ -27,7 +27,7 @@
  "c1_words": 70,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 26,
+  "checked": 25,
   "failures": []
  },
  "ledger": {
@@ -37,13 +37,15 @@
  "data_objects": {
   "errors": [
    "t1[kjn-p04-v77].tokens[0]: surface contains parens (breaks [and]-MD parsing)",
-   "t1[kjn-p04-v77].tokens[0]: surface contains parens (breaks [and]-MD parsing)"
+   "l0[kjn-p04-v77-p001]: chosen 'by-all' != T1.quick_gloss 'with-all' (mark revised+reason)",
+   "l0[kjn-p04-v77-p002]: chosen 'being-sprinkled' != T1.quick_gloss None (mark revised+reason)",
+   "l0[kjn-p04-v77-p003]: chosen 'one-should-recollect' != T1.quick_gloss None (mark revised+reason)"
   ],
   "counts": {
-   "t1": 26,
+   "t1": 25,
    "l0": 100,
-   "argmap": 26,
-   "l2": 26,
+   "argmap": 25,
+   "l2": 25,
    "l3": 0,
    "l4": 0,
    "essence": 5,
@@ -57,10 +59,10 @@
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "209de163ce03b840393cbc168f1db5ba80d4a4f732572a1a761eeab886f2fcf5",
+  "t1": "eea44e2c6e577b3631af4c25b3839807ae2e727235177259275e0c9501ab8386",
   "l0": "7ebf2ec4b7bc676e07038bdb63c85eace1788b227015bf57ab393922453bfea4",
-  "argmap": "d7ea34cf23e5cbaf791031ccf06ad27101ffaeb5b63f57ea3e38b35ad73cef8c",
-  "l2": "62362c76e049612c8b92ad4dd3aee5d4b9ba9fea96659540a2c7c17518d87aa5",
+  "argmap": "08c21735356c65b4513a3743259bd985a9bec563957d4e6e923d22b15ccb40de",
+  "l2": "9fea3a6f8918e6e1cf1d4fe9224b11c1ce93d16c6feca6de3fd9d887310db77f",
   "c1": "8b6eba81a51296bebe57f5bd3a6a222c17901d2a30bdaabf8d41e8c2f41fc057"
  },
  "lineage": {

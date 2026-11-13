@@ -1,15 +1,15 @@
 {
  "work": "mukta-m00027",
  "updated": "2026-11-13",
- "next": "minimal gold 19/22 built songs; 3 need assessor (see blocked_songs); machine-proposed, human review pending",
+ "next": "minimal gold 21/22 built songs; 1 need assessor (see blocked_songs); machine-proposed, human review pending",
  "counts": {
   "passages": 28,
   "verses": 680,
-  "proof": "PASS 19/22 built songs (minimal, L3/L4 waived)",
+  "proof": "PASS 21/22 built songs (minimal, L3/L4 waived)",
   "staged_songs": 2,
   "built_songs": 22,
-  "gold_songs": 19,
-  "blocked_songs": 3
+  "gold_songs": 21,
+  "blocked_songs": 1
  },
  "gold_songs": [
   "kjn-p01",
@@ -19,6 +19,7 @@
   "kjn-p07",
   "kjn-p08",
   "kjn-p09",
+  "kjn-p10",
   "kjn-p12",
   "kjn-p13",
   "kjn-p14",
@@ -27,14 +28,13 @@
   "kjn-p19",
   "kjn-p20",
   "kjn-p21",
+  "kjn-p22",
   "kjn-p24",
   "kjn-p25",
   "kjn-p27",
   "kjn-p28"
  ],
  "blocked_songs": [
-  "kjn-p04",
-  "kjn-p10",
-  "kjn-p22"
+  "kjn-p04"
  ]
 }

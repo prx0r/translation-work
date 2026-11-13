@@ -3,9 +3,7 @@
  "song": "kjn-p22",
  "work": "mukta-m00027",
  "date": "2026-11-01",
- "blocking": [
-  "DATA_OBJECTS 1 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "f847ac309bdf7382",
@@ -35,9 +33,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "t1[kjn-p22-v528].tokens[2]: surface contains parens (breaks [and]-MD parsing)"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 136,
@@ -52,11 +48,11 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "4aeab3599d3aa466b7fb365d386c57ea437415ec99ee453998c0fe90edae41ce",
+  "t1": "0b5e54139a6de9172871ae37fabadf097ff3bf377b4d36245b777c3bffb03f8d",
   "l0": "2e1086438308c3d4b4c00999b1def6ed57b4975a97bd75ad81f75afd9ef1fffa",
   "argmap": "2523d9468852682d9ee19d5487c7dea380131e4fb904e8e4ee0aef0bdbc58dc8",
   "l2": "c1872240b805dabd55cbb896311012000ebc3a569aace8c9d82d0bee6555558e",
