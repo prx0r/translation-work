@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[embracing](āliṅgya) [you](te) [done](kṛtaṃ) [deed](kṛtyam) [impossible](asādhyaṃ) [in-every-way](sarvathā) [by-you](tvayā)
+[having-embraced](āliṅgya) [by-you](te) [done](kṛtaṃ) [deed](kṛtyam) [impossible](asādhyaṃ) [in-every-way](sarvathā) [by-you](tvayā)
 
 ## mukta-m0-p61-v1502
-[thus](evaṃ) [balāhaka+face](balāhakamukhe) [slain](hate) [sun](sūryo) [to-setting](astam) [went](āyayau)
+[thus](evaṃ) [Balāhakamukha](balāhakamukhe) [being-slain](hate) [sun](sūryaḥ) [to-setting](astam) [went](āyayau)
 
 ## mukta-m0-p61-v1503
-[tiraskaraṇikā+battle](tiraskaraṇikāyuddhe) [balāhaka+etc+slaying](balāhakādivadho) [named](nāmā) [sixty-eighth](aṣṭaṣaṣtitamo) [chapter](adhyāyaḥ)
+[in-the-battle](yuddhe) [of-Tiraskaraṇikā](tiraskaraṇikā) [slaying](vadhaḥ) [of-Balāhaka-and-others](balāhaka+ādi) [named](nāma) [sixty-eighth](aṣṭaṣaṣtitamaḥ) [chapter](adhyāyaḥ)
 
 ## mukta-m0-p61-v1504
-[by-tripura+illusion](tripurāmāyayā) [deluded](muḍhāḥ) [by-resolve+victory](saṅkalpajaya) [rejoicing](harṣitāḥ)
+[by-the-illusion](māyayā) [of-Tripurā](tripurā) [deluded](muḍhāḥ) [rejoicing](harṣitāḥ) [in-victory](jaya) [of-resolve](saṅkalpa)
 
 ## mukta-m0-p61-v1505
-[for-rear-guard+arrangement](pārṣṇigrahavidhānāya) [having-sent](preṣayitvā) [vidhāntaḥ](vidhāntaḥ)
+[for-the-arrangement](vidhānāya) [of-attacking-the-rear](pārṣṇigraha) [having-sent](preṣayitvā) [to-the-command-post](vidhāntaḥ)
 
 ## mukta-m0-p61-v1506
-[viśukra](viśukraḥ) [minister](mantriṇīṃ) [daṇḍa+queen](daṇḍarājñīṃ) [general](senāpatiḥ) [himself](svayam)
+[Viśukra](viśukraḥ) [the-minister](mantriṇīṃ) [Daṇḍarājñī](daṇḍarājñīṃ) [commander](senāpatiḥ) [himself](svayam)
 
 ## mukta-m0-p61-v1507
-[ulūkajit+etc](ulūkajitprabhṛtayo) [elephant+horse+carriers](gajavājivahe) [thus](tathā)
+[Ulūkajit-and-others](ulūkajit+prabhṛtayaḥ) [in-the-mount](vahe) [of-elephants](gaja) [and-horses](vāji) [likewise](tathā)
 
 ## mukta-m0-p61-v1508
-[set](astaṃ) [having-gone](yāte) [sun](savitarī) [everywhere](sarvataḥ) [by-darkness](tamasā) [covered](āvṛte)
+[to-setting](astaṃ) [having-gone](yāte) [the-sun](savitarī) [on-all-sides](sarvataḥ) [by-darkness](tamasā) [covered](āvṛte)
 
 ## mukta-m0-p61-v1509
-[for-a-moment](muhūrtamātraṃ) [twilight+radiance](sandhyāprakāśaiḥ) [became](abhavad) [battle](raṇaḥ)
+[for-a-moment](muhūrtamātraṃ) [that](tat) [by-the-lights](prakāśaiḥ) [of-twilight](sandhyā) [became](abhavat) [battle](raṇaḥ)
 
 ## mukta-m0-p61-v1510
-[became](abhavat) [terrible](dāruṇaṃ) [battle](yuddaṃ) [śakti+daitya+armies](śaktidānavasenayoḥ)
+[became](abhavat) [terrible](dāruṇaṃ) [battle](yuddhaṃ) [of-the-armies](senayoḥ) [of-Śakti](śakti) [and-Dānava](dānava)
 
 ## mukta-m0-p61-v1511
-[fought](yuyudhuḥ) [weapon+nets](śastrajālaiḥ) [they](te) [śakti+by](śaktibhiḥ) [daitya+chiefs](daityapuṅgavāḥ)
+[fought](yuyudhuḥ) [with-those](te) [nets](jālaiḥ) [of-weapons](śastra) [with-the-Śaktis](śaktibhiḥ) [the-chief-demons](daitya+puṅgavāḥ)
 
 ## mukta-m0-p61-v1512
-[covering](ācchādayan) [sky+portion](abhobhāgaṃ) [star+troop+surrounded](tārakāgaṇasaṃvṛtam)
+[covering](ācchādayan) [the-region](bhāgaṃ) [of-the-sky](nabhaḥ) [filled](saṃvṛtam) [with-multitudes](gaṇa) [of-stars](tārakā)
 
 ## mukta-m0-p61-v1513
-[fought](yuyudhuḥ) [śakti+daitya+troops](śaktidaityāṇāṃ) [groups](gaṇāḥ) [by-ordered+union](kramasaṅgatāḥ)
+[fought](yuyudhuḥ) [of-the-Śakti-and-demon](śakti+daityāṇāṃ) [troops](gaṇāḥ) [and](ca) [in-due-order](krama+yogataḥ)
 
 ## mukta-m0-p61-v1514
-[weapons](śastraṇi) [others](anyeṣu) [they-apply](yuñjanti) [those](tāni) [others](anyān) [they-slay](ghātayanti) [indeed](hi)
+[weapons](śastraṇi) [on-others](anyeṣu) [they-apply](yuñjanti) [those](tāni) [others](anyān) [they-strike](ghātayanti) [indeed](hi)
 
 ## mukta-m0-p61-v1515
-[there](tatra) [by-daityas](daityair) [slain](hatāḥ) [daityas](daityāḥ) [by-śaktis](śaktibhiḥ) [śaktis](śaktyaḥ) [thus](tathā)
+[there](tatra) [by-demons](daityaiḥ) [slain](hatāḥ) [demons](daityāḥ) [by-Śaktis](śaktibhiḥ) [Śaktis](śaktyaḥ) [likewise](tathā)
 
 ## mukta-m0-p61-v1516
-[some](kecit) [by-arrows](straibhiḥ) [slain](vinihatāḥ) [others](pare) [by-chariot+friction](rathavigharṣitāḥ)
+[some](kecit) [by-arrows](śaraiḥ) [slain](vinihatāḥ) [others](pare) [crushed](vigharṣitāḥ) [by-chariots](ratha)
 
 ## mukta-m0-p61-v1517
-[thus](evaṃ) [greater](mahattare) [there](tatra) [intense](sammrdda) [being](sati) [slaughter](vaiśase)
+[thus](evaṃ) [very-great](mahattare) [there](tatra) [having-increased](sammṛdde) [being](sati) [slaughter](vaiśase)
 
 ## mukta-m0-p61-v1518
-[end](antaṃ) [middle](madhyam) [then](athā) [beginning](ādiṃ) [vā](vā) [of-army](senāyāḥ) [some](ke) [api](api) [not](no) [knew](viduḥ)
+[end](antaṃ) [middle](madhyam) [then](atha) [beginning](ādiṃ) [or](vā) [of-the-army](senāyāḥ) [anyone](ke+api) [not](no) [knew](viduḥ)
 
 ## mukta-m0-p61-v1519
-[jvālāmukhī](jvālāmukhīṃ) [great-goddess](mahādevīṃ) [remembered](sasmāra) [tripura+born](tripurāṃśajām)
+[Jvālāmukhī](jvālāmukhīṃ) [great-goddess](mahādevīṃ) [remembered](sasmāra) [born](jām) [from-a-part](aṃśa) [of-Tripurā](tripurā)
 
 ## mukta-m0-p61-v1520
-[blazing+mountain+like](jvalatparvatasaṅkāśā) [flame+filled+directions](jvālāvyāptadigantarā)
+[resembling](saṅkāśā) [a-blazing](jvalat) [mountain](parvata) [with-flames](jvālā) [pervading](vyāpta) [the-quarters](dik) [and-intermediate-spaces](antarā)
 
 ## mukta-m0-p61-v1521
-[then](tadā) [daityas](daityāḥ) [śaktis](śaktyaḥ) [api](api) [fought](yuyudhuḥ) [in-order](kramasaṅgatāḥ)
+[then](tadā) [demons](daityāḥ) [Śaktis](śaktyaḥ) [also](api) [fought](yuyudhuḥ) [in-due-order](krama+saṅgatāḥ)
 
 ## mukta-m0-p61-v1522
-[girls](bālāḥ) [bhaṇḍa+sons](bhaṇḍasutaiḥ) [battle](yuddhaṃ) [wonderful](vicitram) [mind+born](atanodbhṛśam)
+[Bālā](bālā) [with-the-sons](sutaiḥ) [of-Bhaṇḍa](bhaṇḍa) [battle](yuddhaṃ) [wondrous](vicitram) [performed](atanot) [greatly](bhṛśam)
 
 ## mukta-m0-p61-v1523
-[thirty](triṃśat) [number](saṃkhyā) [at-once](ekakālaṃ) [fought](yuyudhuḥ) [girls](bālayā) [firmly](dṛḍham)
+[thirty](triṃśat) [in-number](saṃkhyāḥ) [at-one-time](eka+kālaṃ) [fought](yuyudhuḥ) [with-Bālā](bālāyā) [firmly](dṛḍham)
 
 ## mukta-m0-p61-v1524
-[girls](bālāṃ) [covered](samācchaduḥ) [weapons](śastraiḥ) [sun](dineśaṃ) [snow](stuhinair) [iva](iva)
+[Bālā](bālāṃ) [they-covered](samācchaduḥ) [with-weapons](śastraiḥ) [the-sun](dineśaṃ) [with-snowflakes](stuhinaiḥ) [as](iva)
 
 ## mukta-m0-p61-v1525
-[destroyed](nāśayāmāsa) [quickly](vegena) [darkness](tamaḥ) [sunrise](sūryodayo) [as](yathā)
+[destroyed](nāśayāmāsa) [with-speed](vegena) [darkness](tamaḥ) [sunrise](sūrya+udayaḥ) [as](yathā)

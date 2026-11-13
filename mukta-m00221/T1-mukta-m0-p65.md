@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-thus(evaṃ) by-them(tābhiḥ) being-struck(hanyamānāḥ) demons(daityāḥ) anger(krodham) supreme(param) went(yayuḥ)
+[thus](evaṃ) [by-them](tābhir) [being-struck](hanyamānā) [demons](daityāḥ) [anger](krodhaṃ) [supreme](paraṃ) [went-to](yayuḥ)
 
 ## mukta-m0-p65-v1602
-like-mare(vaḍaveva) from-bow-mouth(dhanurvaktrāt) emitting(udgirantaḥ) arrow-flames(śarārciṣaḥ)
+[mare-like](vaḍavā+iva) [from-bow+mouth](dhanur+vaktrād) [vomiting-forth](udgirantaḥ) [arrow+flames](śarār'ciṣaḥ)
 
 ## mukta-m0-p65-v1603
-then(atha) those(tān) tithi-goddesses(tithidevyāḥ) having-fought(yuddhvā) wonderful-prowess(adbhutaparākramān)
+[then](atha) [them](tān) [Tithi-goddesses](tithi+devyas) [those](tā) [having-fought](yuddhvā) [of-wonderful+prowess](adbhuta+parākramān)
 
 ## mukta-m0-p65-v1604
-having-broken(bhaṅktvā) bow(cāpam) sharp-arrows(tīkṣaṇabhallaiḥ) heads(śiraḥ) cut(cicchiduḥ) by-strength(ojasā)
+[having-broken](bhaṅktvā) [bow](cāpaṃ) [with-sharp+arrows](tīkṣaṇa+bhallaiḥ) [head](śiraś) [cut-off](cicchidur) [with-might](ojasā)
 
 ## mukta-m0-p65-v1605
-fled(vidrutāḥ) demon-warriors(daityasubhaṭāḥ) remaining(śiṣṭāḥ) by-fear(bhītyā) directions(diśaḥ) ten(daśa)
+[fled](vidrutā) [demon+warriors](daitya+subhaṭāḥ) [remaining](śiṣṭā) [with-fear](bhītyā) [directions](diśo) [ten](daśa)
 
 ## mukta-m0-p65-v1606
-by-many(bahubhiḥ) strong-one(balavān) one(ekaḥ) fought(yuyodha) with-great-anger(atiruṣānvitaḥ)
+[with-many](bahubhir) [strong+one](balavān+eko) [fought](yuyodha) [with-exceeding+wrath](ati+ruṣā) [endowed](anvitaḥ)
 
 ## mukta-m0-p65-v1607
-struck(jaghnuḥ) Kameshvari-faced(kāmeśvarimukhāḥ) nityas(nityāḥ) arrow-showers(sāyakavarṣanaiḥ)
+[struck](jaghnuḥ) [Kameshvari+led](kāmeśvari+mukhā) [Nityas](nityāḥ) [with-arrow+showers](sāyaka+varṣanaiḥ)
 
 ## mukta-m0-p65-v1608
-demons(daityāḥ) vile(adhamāḥ) enough(alam) in-battle(yuddhe) not(na) life-ending(prāṇāntakaraṇena) they(te)
+[O-demon+lowest](daityā'dhamā) [enough](alaṃ) [in-battle](yuddhe) [not](na) [life+end+making](prāṇa+anta+karaṇena) [of-you](te)
 
 ## mukta-m0-p65-v1609
-unequal(viṣamam) by-many(bahubhiḥ) battle(yuddham) of-one(ekasya) appears(pratibhāti) to-you(te)
+[unequal](viṣamaṃ) [by-many](bahubhir) [battle](yuddham) [of-one](ekasya) [appears](pratibhāti) [to-you](te)
 
 ## mukta-m0-p65-v1610
-why(kim) boast(katthasi) vainly(vṛthā) wicked(duṣṭe) abandoning(hitvā) shame(lajjām) far-away(sudūrataḥ)
+[why](kiṃ) [do-you-boast](katthasi) [in-vain](vṛthā) [O-wicked-one](duṣṭe) [having-abandoned](hitvā) [shame](lajjāṃ) [very-far](su+dūrataḥ)
 
 ## mukta-m0-p65-v1611
-having-killed(hatvā) you(vaḥ) Lalita(lalitām) goddess(devīm) having-bound(baddhvā) alive-capture(jīvagraheṇa) indeed(vai)
+[having-slain](hatvā) [you](vo) [Lalita](lalitāṃ) [goddess](devī) [having-bound](baddhvā) [by-living+capture](jīva+graheṇa) [indeed](vai)
 
 ## mukta-m0-p65-v1612
-towards-women(striṣu) compassion(kāruṇikatvam) my(me) always(sarvathā) by-that(tena) indeed(vai) long(ciram)
+[toward-women](striṣu) [compassionateness](kāruṇikatvaṃ) [of-me](me) [in-every-way](sarvathā) [therefore](tena) [indeed](vai) [for-long](ciram)
 
 ## mukta-m0-p65-v1613
-that-hearing(tacchrutvā) said(prāha) nitya-etc(nityādyāḥ) thus(evam) if(ced) let-be(astu) indeed(vai) battle(raṇaḥ)
+[that](tac) [having-heard](chrautvā) [spoke](prāha) [Nitya+first](nityā'dyā) [thus](evaṃ) [if](ced) [let-it-be](astu) [indeed](vai) [battle](raṇaḥ)
 
 ## mukta-m0-p65-v1614
-thus-saying(ityuktvā) demon-king(daityarājam) him(tam) said(prāha) again(bhūyaḥ) Maheshvari(maheśvarī)
+[thus](iti) [having-spoken](uktvā) [demon+king](daitya+rājaṃ) [that](taṃ) [spoke](prāha) [again](bhūyo) [great+goddess](mahā+īśvarī)
 
 ## mukta-m0-p65-v1615
-I(aham) him(enam) will-fight(yodhayāmi) you(yūyam) him(enam) not(na) indeed(hi) you(yūyam) him(enam) indeed(hi) protect(rakṣatha)
+[I](aham) [him](enaṃ) [fight](yodhayāmi) [you](yūyam) [him](enaṃ) [not](na) [indeed](hi) [you](yūyam) [him](enaṃ) [indeed](hi) [protect](rakṣatha)
 
 ## mukta-m0-p65-v1616
-thus-saying(ityuktvā) firm-arrow(dṛḍhabāṇena) having-pierced(viddhvā) demon(daityam) said(uvāca) indeed(ha)
+[thus](iti) [having-spoken](uktvā) [with-firm+arrow](dṛḍha+bāṇena) [having-pierced](viddhvā) [demon](daityam) [spoke](uvāca) [indeed](ha)
 
 ## mukta-m0-p65-v1617
-fight(yudhyasva) with-all-strength(sarvavīryeṇa) I-see(paśyāmi) your(tava) manliness(pauruṣam)
+[fight](yudhyasva) [with-all+valor](sarva+vīryeṇa) [I-see](paśyāmi) [your](tava) [manliness](pauruṣam)
 
 ## mukta-m0-p65-v1618
-I(aham) you(tvām) not(na) will-harm(hiṃsyāmi) will-make(kuryām) you(tvām) indeed(hi) fleeing(palāyatam)
+[I](ahaṃ) [you](tvāṃ) [not](na) [indeed](hi) [will-kill](hiṃsyāmi) [I-will-make](kuryāṃ) [you](tvāṃ) [indeed](hi) [fleeing](palāyatam)
 
 ## mukta-m0-p65-v1619
-thus-saying(ityuktvā) sharp(niśitān) arrows(bhallān) in-body(dehe) his(tasya) hurled(samākṣipat)
+[thus](iti) [having-spoken](uktvā) [sharp](niśitān) [arrows](bhallān) [in-body](dehe) [of-him](tasya) [discharged](samākṣipat)
 
 ## mukta-m0-p65-v1620
-then(atha) ear-tip-full(karṇāntapūrṇena) arrow(śareṇa) his(tasya) vehicle(vāhanam)
+[then](atha) [with-ear+end+drawn](karṇa+anta+pūrṇena) [with-arrow](śareṇa) [of-him](tasya) [vehicle](vāhanam)
 
 ## mukta-m0-p65-v1621
-in-two(dvidhā) split(vidalitaḥ) on-earth(bhūmau) fell(papāta) lifeless(vyasuḥ) like-mountain(adrivat)
+[in-two](dvidhā) [split](vidalito) [on-ground](bhūmau) [fell](papāta) [lifeless](vyasu) [like-mountain](adri+vat)
 
 ## mukta-m0-p65-v1622
-to-fight(yoddhum) approached(abhyāyau) from-anger(krodhāt) frowning-crooked(bhrukuṭīkuṭila) face(ānanaḥ)
+[to-fight](yoddhum) [approached](abhyāyau) [from-anger](krodhād) [with-brow+knit+crooked+face](bhrukuṭī+kuṭila+ānanaḥ)
 
 ## mukta-m0-p65-v1623
-crown(mukuṭam) and(ca) also(api) cut(ciccheda) Kameshi(kāmeśī) in-moment(kṣaṇamātrataḥ)
+[crown](mukuṭañ) [and](ca) [also](api) [cut-off](ciccheda) [Kameshi](kāmeśī) [in-moment+measure](kṣaṇa+mātrataḥ)
 
 ## mukta-m0-p65-v1624
-ran-up(upadhāvat) while(yāvat) that(asau) so-long(tāvat) sharp-arrow(tīkṣṇaiṣuṇā) again(punaḥ)
+[he-rushed-forward](upadhāvad) [as-long-as](yāvad) [he](asau) [so-long](tāvat) [with-sharp+arrow](tīkṣya+ṣuṇā) [again](punaḥ)
 
 ## mukta-m0-p65-v1625
-demon(daitya) most-heroic(śūratamaḥ) you(tvam) indeed(vai) how(katham) thus(evam) fight(niyudhyasi)
+[O-demon](daitya) [most-valiant](śūrata+mas) [you](tvaṃ) [indeed](vai) [how](katham) [thus](evaṃ) [do-you-fight](niyudhyasi)
