@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p11",
  "verse": 271,
- "question": "What structural components define the ritual diagram being described?",
+ "question": "What actions must follow placing the stake before returning home?",
  "premises": [
-  "An eight-spoked part is specified",
-  "An eight-petaled part is specified",
-  "Tenfold and twelvefold parts are specified"
+  "The stake is placed",
+  "The pit is filled with earth",
+  "One should then go home"
  ],
- "inference": "The ritual diagram consists of eight-spoked, eight-petaled, tenfold, and twelvefold elements",
- "uncertainties": [
-  "The exact geometric arrangement is not fully specified in this verse"
- ],
- "plain_english": "It has eight spokes and eight petals, and likewise ten and twelve parts."
+ "inference": "After placing the stake and filling the pit with earth, one should return home.",
+ "uncertainties": [],
+ "plain_english": "Having placed it and filled that pit with earth, one should return home."
 }

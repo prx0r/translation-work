@@ -1,0 +1,1125 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2651,
+   "rows": [
+    {
+     "surface": "brahmeśvaraḥ",
+     "gloss": "brahma-lord",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homa+madhye",
+     "gloss": "sacrifice-middle",
+     "grounds": "compound indicating location",
+     "morph": "compound=homa+madhye; n.loc.sg"
+    },
+    {
+     "surface": "pratiṣṭhitaḥ",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is the deity Brahmeśvara established at that sacred site?",
+   "premises": [
+    "Brahmeśvara is present there",
+    "Location is sacrifice middle"
+   ],
+   "inference": "Brahmeśvara is established in the middle of the sacrifice there.",
+   "uncertainties": [],
+   "plain_english": "And Brahmeśvara is indeed established there in the middle of the sacrifice."
+  },
+  {
+   "verse": 2652,
+   "rows": [
+    {
+     "surface": "bhāvabhūteśvaraṃ",
+     "gloss": "bhavabhuti-lord",
+     "grounds": "name of a deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive",
+     "morph": "absolutive; root dṛś"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "absolutive; root kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual actions should a devotee perform upon seeing Bhāvabhūteśvara?",
+   "premises": [
+    "Bhāvabhūteśvara is seen",
+    "Circumambulation is performed"
+   ],
+   "inference": "After seeing Bhāvabhūteśvara, one should perform circumambulation.",
+   "uncertainties": [],
+   "plain_english": "Having seen Bhāvabhūteśvara and having performed circumambulation,"
+  },
+  {
+   "verse": 2653,
+   "rows": [
+    {
+     "surface": "sampūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-optative; root pūj"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "shiva",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mandāre",
+     "gloss": "in-mandara",
+     "grounds": "place name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣetra+parvate",
+     "gloss": "sacred-field-mountain",
+     "grounds": "compound place name",
+     "morph": "compound=kṣetra+parvata; m.loc.sg"
+    }
+   ],
+   "question": "Who should worship Śiva at the sacred mountain of Mandāra?",
+   "premises": [
+    "A person is at Mandāra",
+    "Mandāra is a sacred-field mountain",
+    "Worship of Śiva is prescribed"
+   ],
+   "inference": "Whoever is at the sacred mountain of Mandāra should worship Śiva.",
+   "uncertainties": [],
+   "plain_english": "Whoever is at the sacred mountain of Mandāra should worship Śiva."
+  },
+  {
+   "verse": 2654,
+   "rows": [
+    {
+     "surface": "prayāge",
+     "gloss": "in-prayaga",
+     "grounds": "place name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṅgame",
+     "gloss": "at-confluence",
+     "grounds": "sacred confluence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive",
+     "morph": "absolutive; root snā"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "merit or result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present verb",
+     "morph": "3.sg.mid-present; root labh"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "human being",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What merit does a person obtain by bathing at the Prayāga confluence?",
+   "premises": [
+    "A person bathes at Prayāga confluence",
+    "Bathing yields fruit"
+   ],
+   "inference": "Bathing at the Prayāga confluence yields a specific merit to a person.",
+   "uncertainties": [
+    "The exact fruit is stated in comparison in the following context"
+   ],
+   "plain_english": "The merit that a person obtains by bathing at the confluence in Prayāga—"
+  },
+  {
+   "verse": 2655,
+   "rows": [
+    {
+     "surface": "dharmeśvarasya",
+     "gloss": "of-dharma-lord",
+     "grounds": "name of a deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kūpaḥ",
+     "gloss": "well",
+     "grounds": "water source",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "present verb",
+     "morph": "3.sg.act-present; root sthā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "spatial adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sacred feature stands in front of the god Dharmeśvara?",
+   "premises": [
+    "Dharmeśvara is the deity",
+    "A well is located in front"
+   ],
+   "inference": "A well stands in front of the god Dharmeśvara.",
+   "uncertainties": [],
+   "plain_english": "And a well stands in front of the god Dharmeśvara."
+  },
+  {
+   "verse": 2656,
+   "rows": [
+    {
+     "surface": "go+sahasra+phalaṃ",
+     "gloss": "cow-thousand-fruit",
+     "grounds": "merit equivalent to gifting a thousand cows",
+     "morph": "compound=go+sahasra+phala; n.acc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present verb",
+     "morph": "3.sg.mid-present; root labh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What specific merit does one properly obtain at this site, O fair-faced one?",
+   "premises": [
+    "A merit is obtained properly",
+    "Merit equals thousand cows"
+   ],
+   "inference": "One properly obtains the merit of a thousand cows.",
+   "uncertainties": [],
+   "plain_english": "And, O fair-faced one, one properly obtains the merit of a thousand cows."
+  },
+  {
+   "verse": 2657,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "absolutive; root pūj"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "human being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of manner",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "viṣṇu+loke",
+     "gloss": "in-vishnu-world",
+     "grounds": "compound indicating realm",
+     "morph": "compound=viṣṇu+loka; m.loc.sg"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-present; root mah"
+    }
+   ],
+   "question": "What reward does a person gain by worshipping that deity with devotion?",
+   "premises": [
+    "A person worships him with devotion",
+    "Honor is granted in Viṣṇu's world"
+   ],
+   "inference": "A person who worships him with devotion is honored in the world of Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "A person who worships him with devotion is honored in the world of Viṣṇu."
+  },
+  {
+   "verse": 2658,
+   "rows": [
+    {
+     "surface": "prapaśyanti",
+     "gloss": "they-see",
+     "grounds": "present verb",
+     "morph": "3.pl.act-present; root dṛś"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "danger or dread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃsāra+sāgare",
+     "gloss": "world-ocean",
+     "grounds": "metaphor for cyclic existence",
+     "morph": "compound=saṃsāra+sāgara; m.loc.sg"
+    }
+   ],
+   "question": "What danger do beings perceive within the ocean of worldly existence?",
+   "premises": [
+    "Beings perceive something",
+    "Context is world ocean",
+    "Object perceived is fear"
+   ],
+   "inference": "They see fear in the ocean of worldly existence.",
+   "uncertainties": [
+    "Subject is implied from context"
+   ],
+   "plain_english": "They see fear in the ocean of worldly existence."
+  },
+  {
+   "verse": 2659,
+   "rows": [
+    {
+     "surface": "dhanuḥ+ekādaśa+ante",
+     "gloss": "bow-eleven-end",
+     "grounds": "distance measure",
+     "morph": "compound=dhanuḥ+ekādaśa+anta; m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāla+bhairavaḥ",
+     "gloss": "kala-bhairava",
+     "grounds": "deity name",
+     "morph": "compound=kāla+bhairava; m.nom.sg"
+    }
+   ],
+   "question": "Which deity is located at a distance of eleven bow-lengths there?",
+   "premises": [
+    "Location is eleven bow-lengths away",
+    "Deity present is Kāla Bhairava"
+   ],
+   "inference": "Kāla Bhairava is indeed there at the distance of eleven bow-lengths.",
+   "uncertainties": [],
+   "plain_english": "And there, at a distance of eleven bow-lengths, is Kāla Bhairava."
+  },
+  {
+   "verse": 2660,
+   "rows": [
+    {
+     "surface": "piśāca+mocane",
+     "gloss": "in-demon-liberation",
+     "grounds": "sacred place name",
+     "morph": "compound=piśāca+mocana; n.loc.sg"
+    },
+    {
+     "surface": "tīrthe",
+     "gloss": "sacred-place",
+     "grounds": "holy site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjayāmāsa",
+     "gloss": "worshipped",
+     "grounds": "perfect verb",
+     "morph": "3.sg.act-perfect; root pūj"
+    },
+    {
+     "surface": "śūlinam",
+     "gloss": "trident-bearer",
+     "grounds": "epithet of Śiva",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Whom did one worship at the sacred site called Piśācamocana?",
+   "premises": [
+    "Worship occurred at Piśācamocana",
+    "Object of worship was the trident-bearer"
+   ],
+   "inference": "One worshipped the trident-bearer at the sacred site of Piśācamocana.",
+   "uncertainties": [
+    "Subject of worshipped is implied"
+   ],
+   "plain_english": "At the sacred site of Piśācamocana, one worshipped the trident-bearer."
+  },
+  {
+   "verse": 2661,
+   "rows": [
+    {
+     "surface": "pūjanīyaṃ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental of manner",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "stotavyaṃ",
+     "gloss": "to-be-praised",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vividhaiḥ",
+     "gloss": "with-various",
+     "grounds": "adjective",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "stavaiḥ",
+     "gloss": "with-hymns",
+     "grounds": "praises",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "How should the deity be honored according to this injunction?",
+   "premises": [
+    "Worship is to be done with effort",
+    "Praise is to be done with various hymns"
+   ],
+   "inference": "The deity should be worshipped with effort and praised with various hymns.",
+   "uncertainties": [],
+   "plain_english": "He should be worshipped with effort and praised with various hymns."
+  },
+  {
+   "verse": 2662,
+   "rows": [
+    {
+     "surface": "svayambhūḥ",
+     "gloss": "self-born",
+     "grounds": "self-manifested",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "sacred emblem",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devānām",
+     "gloss": "of-gods",
+     "grounds": "deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "hard-to-obtain",
+     "grounds": "rare",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the special nature of the liṅga present at that location?",
+   "premises": [
+    "A liṅga is there",
+    "It is self-born",
+    "It is hard to obtain even for gods"
+   ],
+   "inference": "The liṅga there is self-born and rare even for the gods.",
+   "uncertainties": [],
+   "plain_english": "There indeed is a self-born liṅga, hard to obtain even for the gods."
+  },
+  {
+   "verse": 2663,
+   "rows": [
+    {
+     "surface": "kṛttivāseśvaraṃ",
+     "gloss": "krittivasa-lord",
+     "grounds": "name of a deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-reached",
+     "grounds": "absolutive",
+     "morph": "absolutive; root āp"
+    },
+    {
+     "surface": "saṃsāra+vigata+jvarāḥ",
+     "gloss": "world-departed-fever",
+     "grounds": "compound describing those freed from worldly affliction",
+     "morph": "compound=saṃsāra+vigata+jvara; m.nom.pl"
+    }
+   ],
+   "question": "What state do devotees attain upon reaching Kṛttivāseśvara?",
+   "premises": [
+    "Devotees reach Kṛttivāseśvara",
+    "They become free from worldly fever"
+   ],
+   "inference": "Having reached Kṛttivāseśvara, they become freed from the fever of worldly existence.",
+   "uncertainties": [],
+   "plain_english": "Having reached Kṛttivāseśvara, they become freed from the fever of worldly existence."
+  },
+  {
+   "verse": 2664,
+   "rows": [
+    {
+     "surface": "sukhena",
+     "gloss": "easily",
+     "grounds": "instrumental of manner",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "muktim",
+     "gloss": "liberation",
+     "grounds": "release",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āyānti",
+     "gloss": "they-attain",
+     "grounds": "present verb",
+     "morph": "3.pl.act-present; root yā"
+    },
+    {
+     "surface": "yathā+arhanti",
+     "gloss": "as-deserved",
+     "grounds": "compound phrase indicating according to merit",
+     "morph": "compound=yathā+arh; 3.pl.act-present"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do devotees attain liberation after reaching Kṛttivāseśvara?",
+   "premises": [
+    "Devotees attain liberation",
+    "Attainment is easy",
+    "Attainment accords with merit"
+   ],
+   "inference": "They easily attain liberation according to their merit.",
+   "uncertainties": [],
+   "plain_english": "They easily attain liberation, each according to their merit."
+  },
+  {
+   "verse": 2665,
+   "rows": [
+    {
+     "surface": "kṛttivāseśvaraṃ",
+     "gloss": "krittivasa-lord",
+     "grounds": "name of a deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāptaṃ",
+     "gloss": "reached",
+     "grounds": "past participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "liṅga+yoni+pratiṣṭhitam",
+     "gloss": "linga-womb-established",
+     "grounds": "compound describing installation",
+     "morph": "compound=liṅga+yoni+pratiṣṭhita; m.acc.sg"
+    }
+   ],
+   "question": "How is the deity Kṛttivāseśvara established at that sacred site?",
+   "premises": [
+    "Kṛttivāseśvara is reached",
+    "He is established in liṅga and yoni"
+   ],
+   "inference": "Kṛttivāseśvara is established in the liṅga and yoni.",
+   "uncertainties": [],
+   "plain_english": "Having reached Kṛttivāseśvara, established in the liṅga and yoni,"
+  },
+  {
+   "verse": 2666,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "icchet",
+     "gloss": "one-desires",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-optative; root iṣ"
+    },
+    {
+     "surface": "tārakaṃ",
+     "gloss": "saving",
+     "grounds": "delivering across",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "gnosis",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāśvataṃ",
+     "gloss": "eternal",
+     "grounds": "everlasting",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "immortal",
+     "grounds": "deathless",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "abode or goal",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What spiritual goals might a devotee desire to attain at this site?",
+   "premises": [
+    "A devotee may desire something",
+    "Desired goals include saving knowledge",
+    "Desired goals include eternal immortal state"
+   ],
+   "inference": "If one desires saving knowledge and the eternal, immortal state,",
+   "uncertainties": [],
+   "plain_english": "If one desires saving knowledge and the eternal, immortal state,"
+  },
+  {
+   "verse": 2667,
+   "rows": [
+    {
+     "surface": "madanācalasya",
+     "gloss": "of-madanacala",
+     "grounds": "mountain name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "īśāne",
+     "gloss": "in-northeast",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "iṣu+kṣepa+traya+antare",
+     "gloss": "arrow-throw-three-interval",
+     "grounds": "compound indicating distance",
+     "morph": "compound=iṣu+kṣepa+traya+antara; n.loc.sg"
+    }
+   ],
+   "question": "Where is the next sacred location situated relative to Madanācala?",
+   "premises": [
+    "Reference point is Madanācala",
+    "Direction is northeast",
+    "Distance is three arrow-throws"
+   ],
+   "inference": "The location is to the northeast of Madanācala at a distance of three arrow-throws.",
+   "uncertainties": [],
+   "plain_english": "To the northeast of Madanācala, at a distance of three arrow-throws,"
+  },
+  {
+   "verse": 2668,
+   "rows": [
+    {
+     "surface": "vatsa+hatantu",
+     "gloss": "calf-multitude",
+     "grounds": "place or group name; reading uncertain",
+     "morph": "compound=vatsa+hata; n.nom.sg"
+    },
+    {
+     "surface": "liṅgānāṃ",
+     "gloss": "of-lingas",
+     "grounds": "sacred emblems",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "universal quantifier",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "uttama+uttamam",
+     "gloss": "best-of-best",
+     "grounds": "superlative compound",
+     "morph": "compound=uttama+uttama; n.nom.sg"
+    }
+   ],
+   "question": "What distinction is claimed for the liṅga at Vatsahatantu among all liṅgas?",
+   "premises": [
+    "There is a liṅga at Vatsahatantu",
+    "It is compared to all liṅgas",
+    "It is called best of the best"
+   ],
+   "inference": "The liṅga at Vatsahatantu is the best of all liṅgas.",
+   "uncertainties": [
+    "The form vatsa+hatantu is obscure and may be a place name"
+   ],
+   "plain_english": "At Vatsahatantu is the liṅga that is the best of all liṅgas."
+  },
+  {
+   "verse": 2669,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāyavye",
+     "gloss": "in-northwest",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nānā+varṇena",
+     "gloss": "by-various-color",
+     "grounds": "compound describing appearance",
+     "morph": "compound=nānā+varṇa; m.ins.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "rock",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What notable object is found to the northwest of that deity?",
+   "premises": [
+    "Location is northwest of that deity",
+    "Object is a stone",
+    "Stone has various colors"
+   ],
+   "inference": "To the northwest of that deity there is a stone of various colors.",
+   "uncertainties": [],
+   "plain_english": "To the northwest of that deity there is a stone of various colors."
+  },
+  {
+   "verse": 2670,
+   "rows": [
+    {
+     "surface": "darśanāt",
+     "gloss": "from-seeing",
+     "grounds": "ablative of cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "go+śatasya",
+     "gloss": "cow-hundred",
+     "grounds": "compound indicating quantity",
+     "morph": "compound=go+śata; n.gen.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "merit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-obtains",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-optative; root labh"
+    }
+   ],
+   "question": "What merit does one obtain from seeing that deity?",
+   "premises": [
+    "One sees that deity",
+    "Seeing yields merit",
+    "Merit equals hundred cows"
+   ],
+   "inference": "By seeing that deity, one obtains the merit of a hundred cows.",
+   "uncertainties": [],
+   "plain_english": "By seeing that deity, one obtains the merit of a hundred cows."
+  },
+  {
+   "verse": 2671,
+   "rows": [
+    {
+     "surface": "anujñāṃ",
+     "gloss": "permission",
+     "grounds": "consent",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imperative; root dā"
+    },
+    {
+     "surface": "pakṣīśa",
+     "gloss": "o-bird-lord",
+     "grounds": "vocative epithet",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "personal pronoun",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "darśanaṃ",
+     "gloss": "seeing",
+     "grounds": "vision",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "regarding",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What request is made to the bird-lord regarding seeing this deity?",
+   "premises": [
+    "The bird-lord is addressed",
+    "Permission is requested",
+    "Request concerns seeing this"
+   ],
+   "inference": "The bird-lord is asked to grant permission to see this deity.",
+   "uncertainties": [
+    "Identity of pakṣīśa depends on context"
+   ],
+   "plain_english": "O lord of birds, grant permission for the seeing of this one."
+  },
+  {
+   "verse": 2672,
+   "rows": [
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-vishnu",
+     "grounds": "deity name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āyatanaṃ",
+     "gloss": "abode",
+     "grounds": "temple or dwelling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-reached",
+     "grounds": "absolutive",
+     "morph": "absolutive; root āp"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiva+jalaṃ",
+     "gloss": "shiva-water",
+     "grounds": "compound naming sacred water",
+     "morph": "compound=śiva+jala; n.nom.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "holy",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred element is found upon reaching the abode of Viṣṇu?",
+   "premises": [
+    "One reaches Viṣṇu's abode",
+    "Auspicious Śiva-water is there"
+   ],
+   "inference": "Upon reaching the abode of Viṣṇu, one finds auspicious Śiva-water there.",
+   "uncertainties": [],
+   "plain_english": "Having reached the abode of Viṣṇu, there is auspicious Śiva-water."
+  },
+  {
+   "verse": 2673,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhāte",
+     "gloss": "at-dawn",
+     "grounds": "time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "maṇikūṭasya",
+     "gloss": "of-manikuta",
+     "grounds": "place name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where and when should the devotee proceed next, O goddess-lord?",
+   "premises": [
+    "Next action occurs at dawn",
+    "Location is north of Maṇikūṭa",
+    "Goddess-lord is addressed"
+   ],
+   "inference": "Then at dawn, O goddess-lord, one should go to the north of Maṇikūṭa.",
+   "uncertainties": [],
+   "plain_english": "Then at dawn, O goddess-lord, to the north of Maṇikūṭa,"
+  },
+  {
+   "verse": 2674,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive",
+     "morph": "absolutive; root snā"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "māghe",
+     "gloss": "in-magha",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phālgune",
+     "gloss": "in-phalguna",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "atha+vā",
+     "gloss": "or",
+     "grounds": "compound disjunction",
+     "morph": "compound=atha+vā; (indecl.)"
+    }
+   ],
+   "question": "On which auspicious occasions should one bathe at that northern location?",
+   "premises": [
+    "Bathing is prescribed there",
+    "Occasion is the fourteenth day",
+    "Months are Māgha or Phālguna"
+   ],
+   "inference": "One should bathe there on the fourteenth day in Māgha or in Phālguna.",
+   "uncertainties": [],
+   "plain_english": "Having bathed there on the fourteenth day, in Māgha or in Phālguna,"
+  }
+ ]
+}

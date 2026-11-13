@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p107",
  "verse": 2658,
- "question": "How does the goddess embody divine nature while being inwardly devoted to the deities?",
+ "question": "What danger do beings perceive within the ocean of worldly existence?",
  "premises": [
-  "The goddess's own nature is divine.",
-  "The goddess's mind is captivated by the deities."
+  "Beings perceive something",
+  "Context is world ocean",
+  "Object perceived is fear"
  ],
- "inference": "She unites intrinsic divinity with heartfelt orientation toward the deities.",
- "uncertainties": [],
- "plain_english": "Her own nature is divine, and her mind is captivated by the deities."
+ "inference": "They see fear in the ocean of worldly existence.",
+ "uncertainties": [
+  "Subject is implied from context"
+ ],
+ "plain_english": "They see fear in the ocean of worldly existence."
 }
