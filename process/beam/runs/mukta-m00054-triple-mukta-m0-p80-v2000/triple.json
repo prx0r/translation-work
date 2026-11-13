@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "akārādi-kṣakārāntā",
+     "gloss": "a-sound-beginning-kṣa-sound-ending",
+     "grounds": "bahuvrīhi/compound adjective qualifying durgā; spans from akāra to kṣakāra",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durgā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "durgārttināśinī",
+     "gloss": "difficulty-distress-destroyer",
+     "grounds": "compound: durga-ārtti-nāśinī, one who destroys the distress of difficulties",
+     "morph": "compound.f.nom.sg"
+    }
+   ],
+   "question": "What sonic extent and salvific function characterize the goddess Durgā?",
+   "premises": [
+    "Durgā extends from the sound a to the sound kṣa.",
+    "Durgā is the named goddess.",
+    "Durgā destroys the distress of difficulties."
+   ],
+   "inference": "Durgā embodies the complete range of sounds and removes the suffering of difficulties.",
+   "uncertainties": [
+    "The first member of durgārttināśinī may be parsed as durga or durgā; taken here as difficulty-distress."
+   ],
+   "plain_english": "Durgā, extending from the sound 'a' to 'kṣa', is the destroyer of the distress of difficulties."
+  }
+ ]
+}
