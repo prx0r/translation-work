@@ -3,39 +3,34 @@
  "verse": 1925,
  "rows": [
   {
-   "lemma": "tat",
+   "lemma": "bhūṣaṇādīn",
+   "morph": "m.acc.pl",
+   "grounds": "compound of bhūṣaṇa and ādi; accusative plural object"
+  },
+  {
+   "lemma": "gurordatvā",
+   "morph": "guru(m.gen.sg)+gerund(√dā)",
+   "grounds": "fused sandhi form guroḥ+datvā; gerund of √dā with guru as recipient"
+  },
+  {
+   "lemma": "kartā",
+   "morph": "m.nom.sg",
+   "grounds": "agent noun from √kṛ; nominative subject of the injunction"
+  },
+  {
+   "lemma": "ādyāt",
+   "morph": "3.sg.opt.act(√ad)",
+   "grounds": "optative expressing ritual injunction; governs carukaṃ"
+  },
+  {
+   "lemma": "carukaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "ritual food offering; accusative object of ādyāt"
+  },
+  {
+   "lemma": "tataḥ",
    "morph": "(indecl.)",
-   "grounds": "conclusive particle linking to prior statements"
-  },
-  {
-   "lemma": "atra",
-   "morph": "(indecl.)",
-   "grounds": "locative adverb indicating this context"
-  },
-  {
-   "lemma": "bhakṣaṇāt",
-   "morph": "n.abl.sg",
-   "grounds": "ablative of cause or source"
-  },
-  {
-   "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
-  },
-  {
-   "lemma": "pāpam",
-   "morph": "n.nom.sg",
-   "grounds": "subject of transfer"
-  },
-  {
-   "lemma": "saṃkramate",
-   "morph": "3.sg.pres.mid (sam-√kram)",
-   "grounds": "verb of transmission"
-  },
-  {
-   "lemma": "nṛṇām",
-   "morph": "m.gen.pl",
-   "grounds": "genitive indicating recipients"
+   "grounds": "indeclinable marking subsequent action in the sequence"
   }
  ]
 }
