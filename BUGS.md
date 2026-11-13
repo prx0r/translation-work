@@ -162,3 +162,16 @@ a `pgrep`-then-start race; two could win the same slot.
 **Fix:** `beam_swarm.worker_loop` takes an exclusive non-blocking
 `flock` on `process/beam/worker-<name>.lock` for its lifetime; a duplicate
 starter exits immediately. Exactly one process per slot now.
+
+## 18. Empty-token working-T1 verses (phantom tasks) (2026-11-13)
+**Symptom:** whole 25-verse passages had `tokens: []` in `working-t1-*.json`
+(3,508 verses / 145 songs) while source text existed. Workers drafted triples
+for empty verses → endless `schema fail` / `surface drift (1 vs 0)`; `question
+rejected` persisted on the same verse ids.
+**Root:** a passage's T1 draft came back short/failed but the parser still
+wrote verse records with empty token lists; tasks were seeded off passage ranges
+regardless.
+**Fix:** (a) rebuild T1 via `auto_burn` for affected songs (kularnava p11/p62/
+p64/p77 done); (b) retired pending tasks that are entirely empty-verse;
+(c) `tw-wave` re-drafts any song whose coverage gate fails (self-repair).
+**Rule:** *never seed a verse with zero tokens; coverage gate is per-verse.*

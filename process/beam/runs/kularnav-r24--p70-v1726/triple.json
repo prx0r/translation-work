@@ -1,0 +1,517 @@
+{
+ "song": "kul-p70",
+ "items": [
+  {
+   "verse": 1726,
+   "rows": [
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of efficacy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gurukṛpāprāptam",
+     "gloss": "obtained-by-guru-grace",
+     "grounds": "qualification of the mantra",
+     "morph": "compound: guru+head, kṛpā+head, prāpta+head; m.acc.sg"
+    },
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "singularity of the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential state",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "sarvasiddhidam",
+     "gloss": "giver-of-all-accomplishments",
+     "grounds": "resulting power",
+     "morph": "compound: sarva+head, siddhi+head, da+head; m.acc.sg"
+    }
+   ],
+   "question": "Can a single mantra obtained through the guru's grace grant all accomplishments?",
+   "premises": [
+    "A mantra may be received through the guru's grace.",
+    "Such a mantra can be singular.",
+    "A singular mantra can confer all accomplishments."
+   ],
+   "inference": "One mantra obtained through the guru's grace is sufficient to grant all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "A single mantra obtained through the guru's grace can grant all accomplishments."
+  },
+  {
+   "verse": 1727,
+   "rows": [
+    {
+     "surface": "patre",
+     "gloss": "on-a-leaf",
+     "grounds": "medium of transmission",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "state of the mantra",
+     "morph": "m.acc.sg ppp √sthā"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative mode",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cādhyāpya",
+     "gloss": "and-having-taught",
+     "grounds": "alternative mode of transmission",
+     "morph": "(indecl.) gerund ca+√adhyāp"
+    },
+    {
+     "surface": "tajjapaḥ",
+     "gloss": "its-recitation",
+     "grounds": "practice performed",
+     "morph": "compound: tad+head, japa+head; m.nom.sg"
+    },
+    {
+     "surface": "syādanarthakṛt",
+     "gloss": "may-be-harm-causing",
+     "grounds": "negative consequence",
+     "morph": "sandhi: syāt+anarthakṛt; 3.sg.opt.act √as + compound: anartha+head, kṛt+head; m.nom.sg"
+    }
+   ],
+   "question": "What harm results from reciting a mantra merely written on a leaf or taught without proper transmission?",
+   "premises": [
+    "A mantra may be merely written on a leaf.",
+    "A mantra may be merely taught without proper transmission.",
+    "Recitation of such a mantra can produce harm."
+   ],
+   "inference": "Reciting a mantra obtained only from a leaf or mere teaching can be harmful.",
+   "uncertainties": [],
+   "plain_english": "Recitation of a mantra that is merely written on a leaf or merely taught can bring harm."
+  },
+  {
+   "verse": 1728,
+   "rows": [
+    {
+     "surface": "brahmahatyāsamaṃ",
+     "gloss": "equal-to-killing-a-priest",
+     "grounds": "comparison of severity",
+     "morph": "compound: brahmahatyā+head, sama+head; n.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "those who commit the fault",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "moral consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyādhiduḥkhadam",
+     "gloss": "giver-of-disease-and-sorrow",
+     "grounds": "further consequence",
+     "morph": "compound: vyādhi+head, duḥkha+head, da+head; n.nom.sg"
+    }
+   ],
+   "question": "How severe is the sin incurred by those who misuse mantra transmission in this way?",
+   "premises": [
+    "Those persons incur a sin.",
+    "Their sin is equal to killing a priest.",
+    "Their sin brings disease and sorrow."
+   ],
+   "inference": "The sin of such persons is as grave as killing a priest and results in disease and sorrow.",
+   "uncertainties": [],
+   "plain_english": "Their sin is equal to the killing of a priest and brings disease and sorrow."
+  },
+  {
+   "verse": 1729,
+   "rows": [
+    {
+     "surface": "tīrthapradeśāḥ",
+     "gloss": "holy-places",
+     "grounds": "suitable locations",
+     "morph": "compound: tīrtha+head, pradeśa+head; m.nom.pl"
+    },
+    {
+     "surface": "sindhūnāṃ",
+     "gloss": "of-rivers",
+     "grounds": "related to confluence",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "saṅgamaḥ",
+     "gloss": "confluence",
+     "grounds": "suitable location",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "quality of the forest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vanam",
+     "gloss": "forest",
+     "grounds": "suitable location",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which external places are considered suitable and purifying for spiritual practice?",
+   "premises": [
+    "Holy places are suitable locations.",
+    "The confluence of rivers is a suitable location.",
+    "A purifying forest is a suitable location."
+   ],
+   "inference": "Holy places, river confluences, and purifying forests are suitable locations for practice.",
+   "uncertainties": [],
+   "plain_english": "Holy places, the confluence of rivers, and a purifying forest are suitable places."
+  },
+  {
+   "verse": 1730,
+   "rows": [
+    {
+     "surface": "devatāyatanaṃ",
+     "gloss": "deity-abode",
+     "grounds": "suitable location",
+     "morph": "compound: devatā+head, āyatana+head; n.nom.sg"
+    },
+    {
+     "surface": "kūlaṃ",
+     "gloss": "bank",
+     "grounds": "suitable location",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samudrasya",
+     "gloss": "of-the-ocean",
+     "grounds": "related to the bank",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nijaṃ",
+     "gloss": "own",
+     "grounds": "qualification of house",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "house",
+     "grounds": "suitable location",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional places, including one's own home, are suitable for spiritual practice?",
+   "premises": [
+    "A deity's abode is a suitable location.",
+    "The bank of the ocean is a suitable location.",
+    "One's own house is a suitable location."
+   ],
+   "inference": "A temple, the seashore, and one's own house are also suitable places for practice.",
+   "uncertainties": [],
+   "plain_english": "A temple, the shore of the ocean, or one's own house are suitable places."
+  },
+  {
+   "verse": 1731,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative principle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivaset",
+     "gloss": "one-may-dwell",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act √vas"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "condition of location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cittaṃ",
+     "gloss": "mind",
+     "grounds": "inner criterion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "becomes-pleased",
+     "grounds": "state of mind",
+     "morph": "3.sg.pres.act √sad with pra"
+    }
+   ],
+   "question": "What inner criterion can determine a suitable place to dwell for practice?",
+   "premises": [
+    "One may choose a place to dwell.",
+    "The mind's state varies by place.",
+    "A place where the mind becomes pleased is suitable."
+   ],
+   "inference": "One may dwell wherever the mind becomes pleased.",
+   "uncertainties": [],
+   "plain_english": "Or else, one may dwell wherever the mind becomes pleased."
+  },
+  {
+   "verse": 1732,
+   "rows": [
+    {
+     "surface": "goviprakulavṛkṣāṇāṃ",
+     "gloss": "of-cows-priests-families-trees",
+     "grounds": "auspicious presences",
+     "morph": "compound: go+head, vipra+head, kula+head, vṛkṣa+head; m.gen.pl"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-the-presence",
+     "grounds": "proximity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śasyate",
+     "gloss": "is-praised",
+     "grounds": "evaluation of practice",
+     "morph": "3.sg.pres.pass √śaṃs"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "practice performed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In whose presence is mantra recitation especially praised as auspicious?",
+   "premises": [
+    "Recitation can be performed in various places.",
+    "The presence of cows, priests, families, and trees is auspicious.",
+    "Recitation in such presence is praised."
+   ],
+   "inference": "Recitation is praised when performed in the presence of cows, priests, families, and trees.",
+   "uncertainties": [
+    "The compound member 'kula' may mean family or lineage; glossed as families based on context."
+   ],
+   "plain_english": "Recitation is praised in the presence of cows, priests, families, and trees."
+  },
+  {
+   "verse": 1733,
+   "rows": [
+    {
+     "surface": "koṭiḥ",
+     "gloss": "ten-millionfold",
+     "grounds": "measure of merit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devālaye",
+     "gloss": "in-a-deity-abode",
+     "grounds": "place of practice",
+     "morph": "compound: deva+head, ālaya+head; m.loc.sg"
+    },
+    {
+     "surface": "puṇyam",
+     "gloss": "merit",
+     "grounds": "result of practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anantaṃ",
+     "gloss": "endless",
+     "grounds": "measure of merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivasannidhau",
+     "gloss": "in-the-presence-of-shiva",
+     "grounds": "place of practice",
+     "morph": "compound: śiva+head, sannidhi+head; m.loc.sg"
+    }
+   ],
+   "question": "How does the merit of recitation differ between a temple and the presence of Shiva?",
+   "premises": [
+    "Recitation in a deity's abode yields merit.",
+    "That merit is ten-millionfold.",
+    "Recitation in Shiva's presence yields endless merit."
+   ],
+   "inference": "Recitation yields ten-millionfold merit in a temple but endless merit in Shiva's presence.",
+   "uncertainties": [],
+   "plain_english": "In a temple the merit is ten-millionfold, but in the presence of Shiva it is endless."
+  },
+  {
+   "verse": 1734,
+   "rows": [
+    {
+     "surface": "ekāntapāvane",
+     "gloss": "in-a-solitary-purifying-place",
+     "grounds": "qualified location",
+     "morph": "compound: ekānta+head, pāvana+head; m.loc.sg"
+    },
+    {
+     "surface": "nindārahite",
+     "gloss": "free-from-blame",
+     "grounds": "qualified location",
+     "morph": "compound: nindā+head, rahita+head; m.loc.sg"
+    },
+    {
+     "surface": "bhaktisaṃyute",
+     "gloss": "endowed-with-devotion",
+     "grounds": "qualified location or atmosphere",
+     "morph": "compound: bhakti+head, saṃyuta+head; m.loc.sg"
+    }
+   ],
+   "question": "What qualities should characterize a place chosen for dwelling and practice?",
+   "premises": [
+    "A place may be solitary and purifying.",
+    "A place may be free from blame.",
+    "A place may be endowed with devotion."
+   ],
+   "inference": "A suitable place for practice is solitary, purifying, blameless, and endowed with devotion.",
+   "uncertainties": [],
+   "plain_english": "One should choose a place that is solitary, purifying, free from blame, and filled with devotion."
+  },
+  {
+   "verse": 1735,
+   "rows": [
+    {
+     "surface": "rājabhaktajanasthāne",
+     "gloss": "in-a-place-of-royal-devotees",
+     "grounds": "qualified location",
+     "morph": "compound: rāja+head, bhakta+head, jana+head, sthāna+head; n.loc.sg"
+    },
+    {
+     "surface": "nivaset",
+     "gloss": "one-may-dwell",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act √vas"
+    },
+    {
+     "surface": "tāpasāśraye",
+     "gloss": "in-an-ascetic-refuge",
+     "grounds": "qualified location",
+     "morph": "compound: tāpasa+head, āśraya+head; m.loc.sg"
+    }
+   ],
+   "question": "What kinds of inhabited places are suitable for a practitioner to dwell in?",
+   "premises": [
+    "One may dwell in a place of royal devotees.",
+    "One may dwell in an ascetic refuge.",
+    "Such places are suitable for dwelling."
+   ],
+   "inference": "A practitioner may dwell in a place of royal devotees or in an ascetic refuge.",
+   "uncertainties": [],
+   "plain_english": "One may dwell in a place of royal devotees or in a refuge of ascetics."
+  },
+  {
+   "verse": 1736,
+   "rows": [
+    {
+     "surface": "caranti",
+     "gloss": "they-walk",
+     "grounds": "activity on the path",
+     "morph": "3.pl.pres.act √car"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "identifies the path",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-path",
+     "grounds": "route of travel",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "one-may-dwell",
+     "grounds": "prohibited action",
+     "morph": "3.sg.opt.act √vas"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantravit",
+     "gloss": "knower-of-mantra",
+     "grounds": "subject of prohibition",
+     "morph": "compound: mantra+head, vid+head; m.nom.sg"
+    }
+   ],
+   "question": "Why should a knower of mantra avoid dwelling on a public thoroughfare?",
+   "premises": [
+    "People walk along certain paths.",
+    "Such paths are places of traffic.",
+    "A knower of mantra should not dwell there."
+   ],
+   "inference": "A knower of mantra should not dwell on a path where people commonly walk.",
+   "uncertainties": [],
+   "plain_english": "A knower of mantra should not dwell on a path along which people walk."
+  },
+  {
+   "verse": 1737,
+   "rows": [
+    {
+     "surface": "nadītaḍāgakūpeṣu",
+     "gloss": "in-rivers-ponds-wells",
+     "grounds": "prohibited locations",
+     "morph": "compound: nadī+head, taḍāga+head, kūpa+head; m.loc.pl"
+    },
+    {
+     "surface": "bhūcchidrādiṣu",
+     "gloss": "in-earth-holes-and-such",
+     "grounds": "prohibited locations",
+     "morph": "compound: bhū+head, chidra+head, ādi+head; n.loc.pl"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "one-may-dwell",
+     "grounds": "prohibited action",
+     "morph": "3.sg.opt.act √vas"
+    }
+   ],
+   "question": "Which water-related and hollow places are unsuitable for a practitioner to dwell in?",
+   "premises": [
+    "Rivers, ponds, and wells are specific locations.",
+    "Holes in the earth and similar places are specific locations.",
+    "One should not dwell in such places."
+   ],
+   "inference": "A practitioner should not dwell in rivers, ponds, wells, holes in the earth, and similar places.",
+   "uncertainties": [],
+   "plain_english": "One should not dwell in rivers, ponds, wells, holes in the earth, and such places."
+  }
+ ]
+}

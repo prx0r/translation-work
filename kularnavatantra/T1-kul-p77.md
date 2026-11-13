@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## kul-p77-v1901
-from-this beyond meditation not-is truth not doubt
+[than-this](asmāt) [higher](parataraṃ) [meditation](dhyānaṃ) [not-is](nāsti) [truth](satyaṃ) [not](na) [doubt](saṃśayaḥ)
 
 ## kul-p77-v1902
-root-mantra write in-middle target-name-with
+[root-mantra](mūlamantraṃ) [one-should-write](likhet) [in-the-middle](madhye) [object-name](sādhyānāma) [endowed-with](samanvitam)
 
 ## kul-p77-v1903
-in-filaments vowels eight groups in-leaves O-Parvati
+[in-the-petals](keśareṣu) [syllables](svarānaṣṭau) [classes](vargān) [on-the-leaves](patreṣu) [O-Pārvatī](pārvati)
 
 ## kul-p77-v1904
-with-five-colored-powders and auspicious sight-mind-charming
+[with-five-colored](pañcavarṇa) [dusts](rajobhiśca) [auspicious](śubhaṃ) [sight-delighting](dṛṣṭimanoharam)
 
 ## kul-p77-v1905
-one-three-six-eight-four pots place O-dear
+[one](eka) [three](tri) [six](ṣaṭ) [eight](vasu) [four](catuḥ) [vessels](kalasān) [one-should-place](sthāpayet) [O-beloved](priye)
 
 ## kul-p77-v1906
-or eighteen or seven or ten or dear
+[or](athavā) [eighteen](aṣṭādaśa) [gods](īśāni) [seven](sapta) [or](vā) [ten](daśa) [or](vā) [O-beloved](priye)
 
 ## kul-p77-v1907
-unsteady-blood-vein-thread-clay-flesh blood water
+[unsteady-blood](asthirakta) [head-threads](śirātantu) [clay](mṛṇ) [flesh](māṃsaṃ) [blood](rudhiraṃ) [water](jalam)
 
 ## kul-p77-v1908
-mantra-life-endowed worship pot-goddess
+[with-mantra-breath](mantraprāṇa) [united](samāyuktāṃ) [one-should-worship](yajet) [vessel-deity](kalasadevatām)
 
 ## kul-p77-v1909
-in-directions guru-obstacle-lord-Durga-field-lords dear
+[in-the-intermediate-directions](vidikṣu) [guru](guru) [Gaṇeśa](vighneśa) [Durgā](durgā) [field-lords](kṣetrapatīn) [O-beloved](priye)
 
 ## kul-p77-v1910
-consecrate dear disciple for-all-sins-pacification
+[one-should-consecrate](abhiṣiñcet) [beloved](priyaṃ) [disciple](śiṣyaṃ) [all-sin](sarvapāpa) [for-pacification](praśāntaye)
 
 ## kul-p77-v1911
-king-consecrated obtains four-ocean-reaching earth
+[consecrated-king](rājābhiṣiktaḥ) [obtains](labhate) [four-oceans](catuḥsāgara) [going](gāṃ) [earth](mahīm)
 
 ## kul-p77-v1912
-barren-consecrated obtains son all-virtues-endowed
+[barren-woman-consecrated](vandhyābhiṣiktā) [obtains](labhate) [son](putraṃ) [all-qualities](sarvaguṇa) [endowed-with](anvitam)
 
 ## kul-p77-v1913
-in-three-metals or in-birch or having-written yantra-excellent
+[in-three-metals](trilauhe) [or-indeed](vāpi) [on-bhūrja-bark](bhūrje) [vā](vā) [having-written](likhitvā) [yantra](yantram) [supreme](uttamam)
 
 ## kul-p77-v1914
-life health sovereignty knowledge-gain fame victory
+[life](āyuḥ) [health](ārogya) [sovereignty](aiśvaryaṃ) [knowledge-acquisition](vidyālābhaṃ) [fame](yaśo) [victory](jayam)
 
 ## kul-p77-v1915
-sword-subjugation age-stopping yakshini collyrium sandals
+[sword-subjugation](khaḍgavaśyaṃ) [youth-arrest](vayaḥstambhaṃ) [yakṣiṇī](yakṣiṇī) [collyrium](añjana) [sandals](pādukām)
 
 ## kul-p77-v1916
-revival-yoga-pill-etc all-accomplishments
+[resuscitation-yoga](sañjīvayoga) [pills](guṭikā) [foremost](pramukhā) [all](akhila) [siddhis](siddhayaḥ)
 
 ## kul-p77-v1917
-six acts use not-otherwise becomes dear
+[six](ṣaṭ) [acts](karmāṇi) [one-should-perform](prayuñjīta) [not](na) [otherwise](anyathā) [becomes](bhavati) [O-beloved](priye)
 
 ## kul-p77-v1918
-offer as-before mantra-knower deity-meditation-devoted
+[one-should-offer-oblation](juhuyāt) [as-before](pūrvavat) [mantrin](mantrī) [deity-meditation](devatādhyāna) [intent-upon](tatparaḥ)
 
 ## kul-p77-v1919
-various-evil-beasts goddess paralyze no-here doubt
+[various](nānā) [wicked](duṣṭa) [beasts](mṛgān) [O-goddess](devi) [one-should-paralyze](stambhayet) [herein](na) [doubt](atra) [not](saṃśayaḥ)
 
 ## kul-p77-v1920
-from-this beyond meditation not-is truth not doubt
+[than-this](asmāt) [higher](parataraṃ) [meditation](dhyānaṃ) [not-is](nāsti) [truth](satyaṃ) [not](na) [doubt](saṃśayaḥ)
 
 ## kul-p77-v1921
-evil-killing-acts by-this-rite accomplish
+[wicked](duṣṭa) [killing-acts](māraṇakarmāṇi) [by-this](vidhinā) [anena](anena) [one-should-accomplish](sādhayet)
 
 ## kul-p77-v1922
-six acts use not-otherwise O-heroine-venerated
+[six](ṣaṭ) [acts](karmāṇi) [one-should-perform](prayuñjīta) [not](na) [otherwise](anyathā) [O-hero-worshipped](vīravandite)
 
 ## kul-p77-v1923
-with-palasha-udumbara-ashvattha-plaksha-apamarga-barks
+[palāśa](palāśa) [udumbara](udumbara) [aśvattha](aśvattha) [plakṣa](plakṣa) [apāmārga](apāmārga) [barks](satvacaiḥ)
 
 ## kul-p77-v1924
-with-white-other auspicious substances with-twigs-leaves-fruits-etc
+[white](sitaiḥ) [other](anyaiḥ) [auspicious](śubhaiḥ) [substances](dravyaiḥ) [fuel](samit) [leaves](patra) [fruits](phala) [interior](antaraḥ)
 
 ## kul-p77-v1925
-with-three-sweets-united mantra-knower O-clan-goddess
+[with-three-sweets](madhuratraya) [united](saṃyuktaiḥ) [mantra-knower](mantravit) [O-family-leader](kulanāyike)

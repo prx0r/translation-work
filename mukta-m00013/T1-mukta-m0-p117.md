@@ -2,31 +2,31 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p117-v2901
-[this](etat) [armor](kavacam) [without-knowing](ajñātvā) [who](yaḥ) [should-recite](japet) [Bhairavī](bhairavīṃ) [supreme](parām)
+[this](etat) [armor](kavacam) [without+having-known](ajñātvā) [who](yo) [should-recite](japed) [bhairavī](bhairavīṃ) [supreme](parām)
 
 ## mukta-m0-p117-v2902
-[Bālā](bālāṃ) [or](vā) [should-recite](prajapet) [mantra](vidyāṃ) [poor](daridraḥ) [death](mṛtyum) [obtains](āpnuyāt)
+[bālā](bālāṃ) [or](vā) [should-recite](prajaped) [vidyā](vidyāṃ) [poor](daridro) [death](mṛtyum) [would-obtain](āpnuyāt)
 
 ## mukta-m0-p117-v2903
-[what](kim) [in-mind](manasi) [of-devotees](bhaktimatāṃ) [of-knowers](jānānām)
+[what](kiṃ) [in-mind](manasi) [of-the-devout](bhaktimatāṃ) [of-the-knowers](jānānām)
 
 ## mukta-m0-p117-v2904
-[by-supreme](parayā) [of-immersed](āplutasya)
+[by-the-supreme](parayā) [of-the-immersed](āplutasya)
 
 ## mukta-m0-p117-v2905
-[young-women](taruṇīḥ) [in-three-worlds](bhuvana+traye) [even](api)
+[young-women](taruṇīr) [in-the-three+worlds](bhuvana+traye) [even](’pi)
 
 ## mukta-m0-p117-v2906
-[by-world-protectors](loka+pālaiḥ)
+[by-the-world+guardians](loka+pālaiḥ)
 
 ## mukta-m0-p117-v2907
-[always](śaśvat) [nectar-immersed](amṛta+āpluta) [cool](śītalasya)
+[eternally](śaśvad) [by-nectar+immersed+cool](amṛta+āpluta+śītalasya)
 
 ## mukta-m0-p117-v2908
-[earth](vasudhāṃ) [gives](dadāti)
+[the-earth](vasudhāṃ) [gives](dadāti)
 
 ## mukta-m0-p117-v2909
-[fixed-gaze](vaddha+dṛṣṭim)
+[fixed+gaze](vaddha+dṛṣṭim)
 
 ## mukta-m0-p117-v2910
 [is-born](jāyate) [or](vā)
@@ -38,40 +38,40 @@
 [not](na) [other](anyam)
 
 ## mukta-m0-p117-v2913
-[form](mūrtiḥ) [one](ekā)
+[form](mūrtir) [one](ekā)
 
 ## mukta-m0-p117-v2914
-[supreme-nectar](parama+amṛta) [anointed](aktam)
+[with-supreme+nectar+smeared](parama+amṛta+aktam)
 
 ## mukta-m0-p117-v2915
-[pure-utterance](nirmala+sūkti) [load](bhāra) [filled-with](bharitā) [awakens](jāgarti) [long](dīrghaṃ) [fame](yaśaḥ)
+[with-spotless+good-sayings+abundance+filled](nirmala+sūkti+bhāra+bharitā) [awakens](jāgarti) [long-lasting](dīrghaṃ) [fame](yaśaḥ)
 
 ## mukta-m0-p117-v2916
-[union](yogaṃ) [in-you](tvayi) [not](na) [produces](tanute) [mind](cittam) [supported](ālambitāyām)
+[union](yogaṃ) [in-you](tvayi) [not](na) [extends](tanute) [mind](cittam) [resorted-to](ālambitāyām)
 
 ## mukta-m0-p117-v2917
-[praised](stutā) [you](tvaṃ) [desired](vāñchitaṃ) [goddess](devi) [give](dadāsi) [O-compassionate-one](karuṇā+kare)
+[praised](stutā) [you](tvaṃ) [desired](vāñchitaṃ) [o-goddess](devi) [give](dadāsi) [o-compassion+mine](karuṇā+kare)
 
 ## mukta-m0-p117-v2918
-[consciousness-repose](cit+viśrānti) [great-being](mahā+sattā) [essence-alone](mātre) [to-mother](mātre) [obeisance](namaḥ) [be](astu) [to-you](te)
+[to-consciousness+rest+great+being+essence](cid+viśrānti+mahā+sattā+mātre) [to-the-mother](mātre) [obeisance](namo) [be](’stu) [to-you](te)
 
 ## mukta-m0-p117-v2919
-[three-qualities](guṇa+traya) [consisting-of](ātmikā) [are](asi) [you](tvaṃ) [of-world](jagataḥ) [creation](karaṇa) [by-desire](icchayā)
+[of-three+qualities+nature](guṇa+traya+ātmikā) [are](asi) [you](tvaṃ) [of-the-world](jagataḥ) [by-creation+desire](karaṇa+icchayā)
 
 ## mukta-m0-p117-v2920
-[of-devotee](bhaktasya) [of-me](me) [daily-worship](nitya+pūjā) [engaged](yuktasya) [O-supreme-goddess](parama+īśvari)
+[of-the-devotee](bhaktasya) [of-me](me) [in-daily+worship+engaged](nitya+pūjā+yuktasya) [o-supreme+goddess](parama+īśvari)
 
 ## mukta-m0-p117-v2921
-[three-afflictions](tāpa+traya) [withered](parimlāna) [vessel](bhājanaṃ) [protect](trāhi) [me](māṃ) [O-auspicious-one](śive)
+[of-three+afflictions+withered+vessel](tāpa+traya+parimlāna+bhājanaṃ) [protect](trāhi) [me](māṃ) [o-auspicious-one](śive)
 
 ## mukta-m0-p117-v2922
-[what](yat) [deficient](nyūnam) [excessive](atiriktaṃ) [or](vā) [that](tat) [all](sarvaṃ) [to-forgive](kṣantum) [you-should](arhasi)
+[what](yad) [deficient](nyūnam) [excessive](atiriktaṃ) [or](vā) [that+all](tat+sarvaṃ) [to-forgive](kṣantum) [you-should](arhasi)
 
 ## mukta-m0-p117-v2923
-[that](tat) [all](sarvaṃ) [by-compassion](kṛpayā) [goddess](devi) [forgive](kṣamasva) [you](tvaṃ) [O-ocean-of-mercy](dayā+ndihe)
+[that+all](tat+sarvaṃ) [with-compassion](kṛpayā) [o-goddess](devi) [forgive](kṣamasva) [you](tvaṃ) [o-ocean+of-mercy](dayā+nidhe)
 
 ## mukta-m0-p117-v2924
-[that](tat) [all](sarvam) [and](ca) [world-supporter](jagat+dhātri) [to-be-forgiven](kṣantavyam) [this](ayam) [salutation](añjaliḥ)
+[that+all](tat+sarvaṃ) [and](ca) [o-world+supporter](jagad+dhātri) [to-be-forgiven](kṣantavyam) [this](ayam) [añjali](añjaliḥ)
 
 ## mukta-m0-p117-v2925
-[indicated](sūcitaṃ) [which](yat) [of-great-goddess](mahā+devyāḥ) [armor](kavacaṃ) [tell](kathayasva) [to-me](me)
+[indicated](sūcitaṃ) [which](yad) [of-the-great+goddess](mahā+devyāḥ) [armor](kavacaṃ) [tell](kathayasva) [to-me](me)

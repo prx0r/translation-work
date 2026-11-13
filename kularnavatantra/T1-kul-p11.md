@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## kul-p11-v251
-in-mouth by-her burned then purity obtains
+[in-mouth](mukhe) [by-you](tayā) [completely-burnt](vinirdagdhe) [then](tataḥ) [purity](śuddhim) [one-may-obtain](avāpnuyāt)
+
 ## kul-p11-v252
-without-rite who kills for-self purpose living-beings dear
+[without-method](avidhānena) [who](yaḥ) [may-kill](hanyād) [for-self’s-sake](ātmārthaṃ) [living-beings](prāṇinaḥ) [O-beloved](priye)
+
 ## kul-p11-v253
-he dead-even evil-conduct animal-wombs in born
+[he](saḥ) [dead](mṛtaḥ) [even](api) [evil-doer](durācāras) [in-animal-wombs](tirryag+yoniṣu) [is-born](jāyate)
+
 ## kul-p11-v254
-preparer and offerer and eaten eight and killers
+[preparer](saṃskartā) [and](ca) [offerer](upaharttā) [and](ca) [eater](khāditā) [eight](aṣṭau) [and](ca) [killers](ghātakāḥ)
+
 ## kul-p11-v255
-killer killing binding by thus this threefold killing
+[killer](ghātakaḥ) [by-killing](vadha) [and-by-binding](bandhābhyāṃ) [thus](iti) [this](eṣaḥ) [threefold](trividhaḥ) [killing](vadhaḥ)
+
 ## kul-p11-v256
-therefore without-rite meat wine not partakes ever
+[therefore](tasmād) [without-method](avidhinā) [meat](māṃsaṃ) [wine](madyaṃ) [not](na) [one-should-use](sevate) [ever](kvacit)
+
 ## kul-p11-v257
-destroys by-non-knowledge truly indeed beautiful-faced
+[it-destroys](nāśayati) [through-non-understanding](aparijñānāt) [truth](satyam) [indeed](eva) [O-fair-faced-one](varānane)
+
 ## kul-p11-v258
-by-rite cow brahmin or-even killing sins not stained
+[by-method](vidhinā) [cow](gāṃ) [brahmin](dvijaṃ) [or](vāpi) [having-killed](hatyā) [by-sins](pāpair) [not](na) [is-tainted](lipyate)
+
 ## kul-p11-v259
-living-liberation-happiness-means in-kula-scriptures hidden
+[living-liberation-happiness-means](jīvanmukti+sukha+upāyaṃ) [in-kula-scriptures](kulaśāstreṣu) [hidden](gopitam)
+
 ## kul-p11-v260
-in-kula-knower even upward-famous knowledge that-that supreme
+[in-knower-of-kula](kulajñe) [even](api) [renowned-above](ūrdhva+vikhyāte) [knowledge](jñānaṃ) [that](tat) [that](tad) [unsurpassed](anuttamam)
+
 ## kul-p11-v261
-authorities no doubt not to-be-killed by-reasons
+[authorities](pramāṇāni) [no](na) [doubt](sandehaḥ) [not](na) [to-be-killed](hantavyāni) [by-reasons](hetubhiḥ)
+
 ## kul-p11-v262
-sweetest my-command milk with-ghee-honey-water
+[by-what-is-pleasing-to-you](svādiṣṭhayā) [by-what-is-pleasing-to-me](madiṣṭhayā) [milk](kṣīraṃ) [with-ghee](sapīr) [honey-water](madhu+udakam)
+
 ## kul-p11-v263
-initiation approach etc. authority shrutis dear
+[initiation](dīkṣām) [one-should-undertake](upeyād) [thus-etc](ityādyāḥ) [authority](pramāṇaṃ) [scriptures](śrutayaḥ) [O-beloved](priye)
+
 ## kul-p11-v264
-in-brief kula-teachings what more hear desire
+[in-brief](samāsena) [O-Kula-goddess](kulaśāni) [what](kiṃ) [more](bhūyaḥ) [to-hear](śrotum) [you-wish](icchasi)
+
 ## kul-p11-v265
-kula-glory-narration named second-ullasa
+[kula-greatness-narration](kula+māhātmya+kathanaṃ) [named](nāma) [second-chapter](dvitīya+ullāsaḥ)
+
 ## kul-p11-v266
-upward-amnaya and that-mantra glory tell me lord
+[upper-tradition](ūrdhvāmnāyañ) [and](ca) [its-mantra](tan+mantraṃ) [greatness](māhātmyaṃ) [tell](vada) [to-me](me) [O-lord](prabho)
+
 ## kul-p11-v267
-its hearing mere by deity well-pleased
+[of-that](tasya) [by-mere-hearing](śravaṇa+mātreṇa) [deity](devatā) [well-pleased](suprasīdati)
+
 ## kul-p11-v268
-I-tell your affection from upward-amnaya hear dear
+[I-tell](kathayāmi) [to-you](tava) [out-of-affection](snehād) [upper-tradition](ūrdhvāmnāyaṃ) [listen](śṛṇu) [O-beloved](priye)
+
 ## kul-p11-v269
-shaiva-shakta-agamas all secret proclaimed
+[Śaiva-Śākta-āgamas](śaiva+śākta+āgamāḥ) [all](sarve) [secret](rahasyāḥ) [declared](parikīttītāḥ)
+
 ## kul-p11-v270
-of-secret-super-secret secret this ambika
+[of-secret-of-secrets](rahasyāt+irahasyānāṃ) [secret](rahasyam) [this](idam) [O-Mother](ambike)
+
 ## kul-p11-v271
-well-hidden by-me effort etc. now revealed
+[well-concealed](sugopitaṃ) [by-me](mayā) [with-effort](yatnād) [now](idānīn) [but](tu) [is-revealed](prakāśyate)
+
 ## kul-p11-v272
-upward-amnaya and five-these liberation-paths proclaimed
+[upper-tradition](ūrdhvāmnāyaś) [and](ca) [these](pañca) [five](ete) [liberation-paths](mokṣa+mārgāḥ) [declared](prakīttītāḥ)
+
 ## kul-p11-v273
-truth this beautiful-hipped no here to-be-done deliberation
+[truth](satyam) [this](etad) [O-fair-hipped-one](varārohe) [not](na) [here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
+
 ## kul-p11-v274
-in-this-tantra declared before you kula-nayika
+[in-this-tantra](asmin+tantre) [declared](samākhyātāḥ) [previously](pūrvaṃ) [they](te) [O-lady-of-kula](kulanāyike)
+
 ## kul-p11-v275
-of-upward-amnaya truth-knower rare hero-venerated
+[of-upper-tradition](ūrdhvāmnāyasya) [truth-knowers](tattva+jñāḥ) [rare](viralāḥ) [O-one-praised-by-heroes](vīra+vandite)

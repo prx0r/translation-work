@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[tarpayāmi+pada+pañcam](tarpayāmipadañcoktvā) [uktvā](uktvā) [namaḥ+antam](namontaṃ) [tarpayet](tarpayettataḥ) [tataḥ](tarpayettataḥ)
+[satisfy](tarpayāmi) [word+five](pada+pañca) [having-uttered](uktvā) [namaḥ+ending](namaḥ+antaṃ) [should-satisfy](tarpayet) [then](tataḥ)
 
 ## mukta-m0-p16-v377
-[dvitīyā+anteṣu](dvitīyānteṣu) [ca](ca) [iti](ityevaṃ) [evam](ityevaṃ) [tarpaṇasya](tarpaṇasya) [manuḥ](manuḥ) [smṛtaḥ](smṛtaḥ)
+[in-second-case-endings](dvitīyānteṣu) [ca+iti](ca+iti) [thus](evaṃ) [of-satisfaction](tarpaṇasya) [mantra](manuḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p16-v378
-[homa+tarpaṇayoḥ](homatarpaṇayoḥ) [svāhā](svāheti) [iti](svāheti) [tat+tat+mantra+vacanāt](tattanmantravacanāt)
+[of-oblation+and-satisfaction](homa+tarpaṇayoḥ) [svāhā+iti](svāhā+iti) [of-that+that+mantra](tat+tat+mantra) [from-statement](vacanāt)
 
 ## mukta-m0-p16-v379
-[svāhā+antam](svāhāntaṃ) [tarpayantu](tarpayantvevam) [evam](tarpayantvevam) [iti+ādi](ityādi)
+[svāhā+ending](svāhā+antaṃ) [should-satisfy](tarpayantu) [thus](evam) [iti+etc.](iti+ādi)
 
 ## mukta-m0-p16-v380
-[kula+amṛta+vacanāt](kulāmṛtavacanāt)
+[Kulāmṛta+statement](kulāmṛta+vacanāt)
 
 ## mukta-m0-p16-v381
-[tatra](tatrāśaktaścenmūlamantramuccārya) [aśaktaḥ](tatrāśaktaścenmūlamantramuccārya) [cet](tatrāśaktaścenmūlamantramuccārya) [mūla+mantram](tatrāśaktaścenmūlamantramuccārya) [uccārya](tatrāśaktaścenmūlamantramuccārya) [iṣṭa+devatā+mātram](iṣṭadevatāmātraṃ) [tarpayet](tarpayet)
+[there](tatra) [incapable](aśaktaḥ) [if](cet) [root+mantra](mūla+mantram) [having-uttered](uccārya) [chosen+deity](iṣṭa+devatām) [only](mātraṃ) [should-satisfy](tarpayet)
 
 ## mukta-m0-p16-v382
-[aśaktau](aśaktau) [mūlam](mūlamuccārya) [uccārya](mūlamuccārya) [devīm](devīmātraṃ) [mātram](devīmātraṃ) [pratarpayet](pratarpayet)
+[in-incapacity](aśaktau) [root](mūlam) [having-uttered](uccārya) [goddess](devīm) [only](mātraṃ) [should-satisfy](pratarpayet)
 
 ## mukta-m0-p16-v383
-[svāhā+antam](svāhāntaṃ) [mantram](mantramuccāryaṃ) [uccāryam](mantramuccāryaṃ) [arghyam](arghyaṃ) [dattvā](datvā) [japet](japenmanum) [manum](japenmanum)
+[svāhā+ending](svāhā+antaṃ) [mantra](mantram) [to-be-uttered](uccāryaṃ) [oblation](arghyaṃ) [having-given](datvā) [should-mutter](japet) [mantra](manum)
 
 ## mukta-m0-p16-v384
-[idam](idamarghyaṃ) [arghyam](idamarghyaṃ) [dattvā](dattvā,) [tat+tat+devatā+gāyatrīm](tattaddevatā gāyatrīṃ) [śata+dhā](śatadhā) [vā](vā) [japet](japet)
+[this](idam) [oblation](arghyaṃ) [having-given](dattvā,) [of-that+that+deity](tat+tat+devatā) [gāyatrī](gāyatrīṃ) [hundred-times](śatadhā) [or](vā) [should-mutter](japet)
 
 ## mukta-m0-p16-v385
-[iti](iti) [daśa+dhā](daśadhā) [śakta+aśakta+bhedena](śaktāśaktabhedena)
+[thus](iti) [tenfold](daśadhā) [capable+incapable](śakta+aśakta) [by-distinction](bhedena)
 
 ## mukta-m0-p16-v386
-[iti](iti) [yāmala+vacanāt](yāmalavacanāt)
+[thus](iti) [Yāmala+statement](yāmala+vacanāt)
 
 ## mukta-m0-p16-v387
-[iti](iti) [garuḍa+gāyatrī](garuḍagāyatrī)
+[thus](iti) [Garuḍa+gāyatrī](garuḍa+gāyatrī)
 
 ## mukta-m0-p16-v388
-[gadā+padma+dharām](gadāpadmadharāṃ) [devīm](devīṃ) [sūrya+āsana](sūryāsana) [kṛta+āśrayām](kṛtāśrayām)
+[mace+lotus](gadā+padma) [holding](dharāṃ) [goddess](devīṃ) [sun+seat](sūrya+āsana) [made+resort](kṛta+āśrayām)
 
 ## mukta-m0-p16-v389
-[sūrya+maṇḍala+madhya+sthām](sūryamaṇlamadhyasthāṃ) [dhyāyan](dhyāyan) [devīm](devīṃ) [samabhyaset](samabhyaset)
+[sun+disk](sūrya+maṇḍala) [middle+standing](madhya+sthāṃ) [meditating](dhyāyan) [goddess](devīṃ) [should-worship](samabhyaset)
 
 ## mukta-m0-p16-v390
-[sva+icchā+gṛhīta+vapuṣīm](svecchāgṛhītavapuṣīṃ) [gurum](guru) [vidyā+akṣara+ātmikām](vidyākṣarātmikām)
+[own-will](sva+icchā) [assumed+form](gṛhīta+vapuṣīṃ) [guru+knowledge](guru+vidyā) [syllable+nature](akṣara+ātmikām)
 
 ## mukta-m0-p16-v391
-[paritaḥ](paritaḥ) [sva+ātma+mukhyābhiḥ](svātmamukhyābhiḥ) [ṣaṭ+triṃśat+tattva+śaktibhiḥ](ṣaṭtriṃśattattvaśaktibhiḥ)
+[all-around](paritaḥ) [own+self](sva+ātma) [chief+with](mukhyābhiḥ) [thirty-six](ṣaṭ+triṃśat) [principle+powers](tattva+śaktibhiḥ)
 
 ## mukta-m0-p16-v392
-[cintayitvā](cintayitvā) [bhagavatīm](bhagavatīṃ) [nityābhiḥ](nityābhiḥ) [parivāritām](parivāritām)
+[having-contemplated](cintayitvā) [goddess](bhagavatīṃ) [by-eternal-ones](nityābhiḥ) [surrounded](parivāritām)
 
 ## mukta-m0-p16-v393
-[anyatra](anyatra) [kālikā+mantre](kālikāmantre) [eka+jaṭā+pada+sthāne](ekajaṭāpadasthāne) [kālikā+pada+prayogaḥ](kālikāpadaprayogaḥ)
+[elsewhere](anyatra) [Kālikā+mantra](kālikā+mantre) [Ekajaṭā+word](ekajaṭā+pada) [in-place](sthāne) [Kālikā+word](kālikā+pada) [application](prayogaḥ)
 
 ## mukta-m0-p16-v394
-[namaskṛtya](namaskṛtya,) [yāga+sthānam](yāgasthānamāviśediti) [āviśet](yāgasthānamāviśediti) [iti](yāgasthānamāviśediti) [snāna+vidhiḥ](snānavidhiḥ)
+[having-bowed](namaskṛtya,) [sacrifice+place](yāga+sthānam) [should-enter](āviśet) [thus](iti) [bathing+rule](snāna+vidhiḥ)
 
 ## mukta-m0-p16-v395
-[kuryāt](kuryāt)
+[should-do](kuryāt)
 
 ## mukta-m0-p16-v396
-[vāyum](vāyuṃ) [recayet](recayet)
+[wind](vāyuṃ) [should-expel](recayet)
 
 ## mukta-m0-p16-v397
-[saḥ](so'hamevaṃ) [aham](so'hamevaṃ) [eva](so'hamevaṃ) [evam](so'hamevaṃ) [samābhāsya](samābhāsya) [jīvam](jīvaṃ) [hṛdi](hṛdi) [samānayet](samānayet)
+[He+I](saḥ+aham) [thus](evaṃ) [having-manifested](samābhāsya) [individual-soul](jīvaṃ) [in-heart](hṛdi) [should-bring](samānayet)
 
 ## mukta-m0-p16-v398
-[smaraṇāt](smaraṇānnarakaṃ) [narakam](smaraṇānnarakaṃ) [yāti](yāti) [dīkṣā](dīkṣā) [ca](ca) [viphalā](viphalā) [bhavet](bhavet)
+[from-remembrance](smaraṇāt) [to-hell](narakaṃ) [goes](yāti) [initiation](dīkṣā) [and](ca) [fruitless](viphalā) [becomes](bhavet)
 
 ## mukta-m0-p16-v399
-[jīvam](jīvaṃ) [tejaḥ+mayam](tejomayaṃ) [dhyātvā](dhyātvā) [namaḥ+mantreṇa](namomantreṇa) [yojayet](yojayet)
+[individual-soul](jīvaṃ) [light+consisting](tejaḥ+mayaṃ) [having-meditated](dhyātvā) [namaḥ+mantra](namaḥ+mantreṇa) [should-unite](yojayet)
 
 ## mukta-m0-p16-v400
-[avyaya+brahma+saṃyogāt](avyayabrahmasaṃyogādbhūtaśuddhiriyaṃ) [bhūta+śuddhiḥ](avyayabrahmasaṃyogādbhūtaśuddhiriyaṃ) [iyam](avyayabrahmasaṃyogādbhūtaśuddhiriyaṃ) [matā](mateti) [iti](mateti)
+[imperishable+Brahman](avyaya+brahma) [from-union](saṃyogāt) [element+purification](bhūta+śuddhiḥ) [this](iyam) [considered](matā) [iti](iti)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## kul-p64-v1576
-that fear eaten by-whom he guru devi-rare
+that(sā) [doubt](śaṅkā) [devoured](bhakṣitā) [by-whom](yena) [he](sa) [guru](guruḥ)+[by-goddess](ddevi)+[hard-to-obtain](durlabhaḥ)
 
 ## kul-p64-v1577
-thus sin dissolved true-teacher near
+[similarly](tathā) [sin](pāpaṃ) [dissolves](vilīyate) [true](sad)+[teacher](ācārya) [near](samīpataḥ)
 
 ## kul-p64-v1578
-thus guru-glance indeed disciple-sin burns moment
+[similarly](tathā) [guru](guru)+[sidelong-glance](kaṭākṣaḥ)+[indeed](tu) [disciple](śiṣya)+[sin](pāpaṃ) [burns](dahet) [in-an-instant](kṣaṇāt)
 
 ## kul-p64-v1579
-thus guru-compassion by sin-mass flees
+[in-the-same-way](tathaiva) [guru](guru)+[compassion](kāruṇyāt) [sin](pāpa)+[heap](rāśiḥ) [flees](palāyate)
 
 ## kul-p64-v1580
-true-guru sight O-goddess thus ignorance destroyed
+[true](sad)+[guru](guroḥ)+[from-sight](darśanāt)+[O-goddess](devi) [similarly](tathā)+[ignorance](ajñānaṃ) [is-destroyed](vinaśyati)
 
 ## kul-p64-v1581
-all-means-rite-knower truth-knower guru he indeed
+[all](sarva)+[means](upāya)+[method](vidhāna)+[knower](jñaḥ)+[truth](tattva)+[knower](jñānī) [guru](guruḥ) [he](sa) [indeed](hi)
 
 ## kul-p64-v1582
-mantra-agama-etc-knowledge truth-less-of fruitless
+[mantra](mantra)+[scripture](āgama)+[etc.](ādi)+[knowledge](vijñānaṃ) [truth](tattva)+[devoid](hīnasya) [fruitless](niṣphalam)
 
 ## kul-p64-v1583
-self grace not-is other grace how
+[of-self](ātmanaḥ)+[grace](anugrahaḥ) [not](na)+[is](asti) [of-another](parasya)+[grace](anugrahaḥ) [how](katham)
 
 ## kul-p64-v1584
-who not knows other how liberation gives he
+[who](yaḥ) [not](na) [knows](jānāti) [and](ca)+[of-another](anyasya) [how](kathaṃ) [liberation](mokṣaṃ) [gives](dadāti)+[he](asau)
 
 ## kul-p64-v1585
-therefore truth-knower here liberated liberator indeed also
+[therefore](tasmāt)+[truth](tattva)+[knower](vidā)+[indeed](eva)+[here](iha) [liberated](muktaḥ) [liberator](mocakaḥ) [indeed](eva) [and](ca)
 
 ## kul-p64-v1586
-truth-less from where self-knowledge truth-grasp
+[truth](tattva)+[devoid](hīnāt) [whence](kutaḥ)+[spiritual](adhyātma)+[truth](tattva)+[knowledge](jñāna)+[attainment](parigrahaḥ)
 
 ## kul-p64-v1587
-by-beasts taught who O-goddess those beasts called
+[by-bound-souls](paśubhiḥ)+[and](ca)+[instructed](upadiṣṭāḥ) [who](ye) [O-goddess](devi) [they](te) [bound-souls](paśavaḥ) [are-remembered](smṛtāḥ)
 
 ## kul-p64-v1588
-liberated indeed liberates bound not liberated liberator how
+[liberated](muktaḥ)+[indeed](tu) [may-liberate](mocayet) [bound](baddhaṃ) [not](na) [liberated](muktaḥ) [liberator](mocakaḥ) [how](katham)
 
 ## kul-p64-v1589
-stone ferry boat how stone ferries stone
+[stone](śilāṃ) [may-carry-across](santārayet)+[boat](nauhī) [how](kiṃ) [stone](śilā) [may-carry-across](tārayet)+[stone](śilām)
 
 ## kul-p64-v1590
-here-there fruit some that man not obtains dear
+[here](iha)+[and-hereafter](amutra) [fruit](phalaṃ) [any](kiñcit) [that](sa) [man](naraḥ) [not](na)+[may-obtain](āpnuyāt) [O-beloved](priye)
 
 ## kul-p64-v1591
-veda-shastras in hundreds guru one family-lineage
+[Veda](veda)+[scriptures](śāstreṣu) [by-hundreds](śataśaḥ) [guru](guruḥ)+[one](ekaḥ) [in-Kula-lineage](kula)+[anvaye](anvaye)
 
 ## kul-p64-v1592
-teacher instructor indeed six these gurus called
+[instructor](śikṣakaḥ) [enlightener](bodhakaḥ)+[and](ca)+[indeed](eva) [six](ṣaḍ)+[these](ete) [gurus](guravaḥ) [are-remembered](smṛtāḥ)
 
 ## kul-p64-v1593
-worshipful O-great-goddess many even no doubt
+[to-be-honored](pūjanīyāḥ) [O-great-goddess](maheśāni) [in-plurality](bahutve)+[even](api) [not](na) [doubt](saṃśayaḥ)
 
 ## kul-p64-v1594
-having-obtained knowledge-giving O-goddess not guru-other resort
+[having-obtained](labdhvā) [knowledge](jñāna)+[giver](pradaṃ) [O-goddess](devi) [not](na) [another](guru)+[antaram](antaram)+[should-resort-to](āśrayet)
 
 ## kul-p64-v1595
-guru-other to gone he not this fault by stained
+[another](guru)+[antaram](antaram)+[indeed](tu) [having-gone](gatvā) [he](sa) [not](na)+[by-this](etat)+[fault](doṣeṇa) [is-tainted](lipyate)
 
 ## kul-p64-v1596
-knowledge-greedy thus disciple guru-guru-other goes
+[knowledge](jñāna)+[desirous](lubdhaḥ)+[likewise](tathā) [disciple](śiṣyaḥ) [from-guru](guroḥ)+[to-another-guru](gurvantaraṃ) [may-go](vrajet)
 
 ## kul-p64-v1597
-briefly O-lady what more hear wish
+[in-brief](samāsena) [O-lord-of-Kula](kuleśāni) [what](kim)+[more](bhūyaḥ) [to-hear](śrotum)+[you-wish](icchasi)
 
 ## kul-p64-v1598
-guru-disciple-marks named thirteenth chapter
+[guru](guru)+[disciple](śiṣya)+[characteristics](lakṣaṇaṃ) [named](nāma) [thirteenth](trayodaśaḥ)+[chapter](ullāsaḥ)
 
 ## kul-p64-v1599
-instruction-order initiation-differences and tell me lord
+[instruction](upadeśa)+[sequence](kramaṃ) [initiation](dīkṣā)+[divisions](bhedān)+[and](ca) [tell](vada) [to-me](me) [O-lord](prabho)
 
 ## kul-p64-v1600
-its hearing by alone mind-purity arises
+[of-that](tasya) [hearing](śravaṇa)+[mere](mātreṇa) [mind](citta)+[purity](śuddhiḥ) [arises](prajāyate)

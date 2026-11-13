@@ -1,0 +1,99 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p66",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1628 ratio=0.812",
+  "ALIGN_NODISP v1646 ratio=0.878",
+  "DATA_OBJECTS 14 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "ca8724538e128b1c",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 137
+ },
+ "align": {
+  "min_ratio": 0.812,
+  "sub090": {
+   "1628": {
+    "ratio": 0.812,
+    "disposition": null
+   },
+   "1646": {
+    "ratio": 0.878,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 35,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "t1[kul-p66-v1629]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1630]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1631]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1633]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1634]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1635]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1636]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1640]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1642]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1644]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1645]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1647]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1648]: history[] entries need {gloss, reason, date}",
+   "t1[kul-p66-v1649]: history[] entries need {gloss, reason, date}"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 137,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v1628",
+  "fix: word-order/gloss vs source for v1646"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "0a39e6db0bc5b8450a5880b4436090b05c043cd9729cf323f360db15b091936b",
+  "l0": "2b7f35a1f7469a5bdcf1396b891670dca2bc38e85935d89e937e453fde8d87c0",
+  "argmap": "41a84f2b2c1c9a4331f3f0249521733d388036f060f2e2b98c5efdc599c15f31",
+  "l2": "880f2d719fea9fb7983f09565ae34b6b9a3cee341d004fa9ac20883f8624451d",
+  "c1": "62f2ab29d1474ec6d04ba05d8f69277b9b7d60163cb0532c2f575ee1e7245666"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ca8724538e128b1c",
+  "t1": "kul-p66/data/kul-p66.t1.json",
+  "l0": "kul-p66/data/kul-p66.l0.json",
+  "l2": "kul-p66/data/kul-p66.l2.json",
+  "c1": "kul-p66/data/kul-p66.c1.json"
+ }
+}

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## kul-p62-v1526
-cutting supreme state goddess leads-him-therefore guru
+[having-cut](chittvā) [supreme](paraṃ) [state](padaṃ) [O-goddess](devi) [leads](nayati) [him](enam) [therefore](atas) [guru](guruḥ)
+
 ## kul-p62-v1527
-taking-teacher-form by-initiation liberates bound-souls
+[teacher](ācārya) [form](rūpam) [having-assumed](āsthāya) [by-initiation](dīkṣayā) [liberates](mokṣayet) [bound-souls](paśūn)
+
 ## kul-p62-v1528
-thus god and mantra and guru one-meaning called
+[thus](tathā) [god](devaḥ) [and](ca) [mantra](mantraḥ) [and](ca) [guru](guruḥ) [and](ca) [one](eka) [meaning](arthaḥ) [is-said](ucyate)
+
 ## kul-p62-v1529
-of-god-mantra-guru and by-worship equal fruit
+[god](deva) [mantra](mantra) [gurus](gurūṇām) [and](ca) [by-worship](pūjayā) [equal](sadṛśaṃ) [fruit](phalam)
+
 ## kul-p62-v1530
-guru-form taking world-bonds cuts
+[guru](guru) [form](rūpaṃ) [having-assumed](samādāya) [for-cutting](nikṛntaye) [worldly](bhava) [bonds](pāśān)
+
 ## kul-p62-v1531
-unbroken always joyful-hearted guru called
+[unbroken](avicchinnaḥ) [always](sadā) [joyful](hṛṣṭa) [hearted](hṛdayaḥ) [guru](guruḥ) [is-called](ucyate)
+
 ## kul-p62-v1532
-light-colored-ashrami yogi he guru said dear
+[light](jyotiḥ) [beyond-caste-and-stage](varṇāśramī) [yogi](yogī) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1533
-who knows by-rite he guru said dear
+[who](yaḥ) [knows](jānāti) [according-to-rule](vidhānena) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1534
-without-effort steady breath whose is he guru dear
+[without-effort](vināyāsaṃ) [steady](sthiraḥ) [breath](vāyuḥ) [of-whom](yasya) [may-be](syāt) [he](saḥ) [guru](guruḥ) [O-beloved](priye)
+
 ## kul-p62-v1535
-that-principle known by-whom he guru kula-leader
+[that](tat) [truth](tattvaṃ) [known](viditaṃ) [by-whom](yena) [he](saḥ) [guru](guruḥ) [O-lady-of-the-kula](kulanāyike)
+
 ## kul-p62-v1536
-piercing and sixfold goddess he indeed piercing-doer guru
+[piercing](vedham) [and](ca) [sixfold](ṣaḍvidhaṃ) [O-goddess](devi) [he](saḥ) [indeed](hi) [piercer](vedhakaraḥ) [guru](guruḥ)
+
 ## kul-p62-v1537
-purifies who six-paths he guru said dear
+[who-may-purify](śodhayet) [who](yaḥ) [six](ṣaḍ) [paths](adhvānaṃ) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1538
-who or rightly-knows he guru said dear
+[who](yaḥ) [or](vā) [properly](samyak) [knows](vijānāti) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1539
-who knows five goddess he guru said dear
+[who](yaḥ) [knows](vetti) [the-pentad](pañcakaṃ) [O-goddess](devi) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1540
-who or rightly-knows he guru said dear
+[who](yaḥ) [or](vā) [properly](samyak) [knows](vijānāti) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1541
-fourfold knows he guru said dear
+[the-tetrad](catuṣṭayaṃ) [knows](vijānāti) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1542
-who knows supreme-lady he guru no-other dear
+[who](yaḥ) [knows](vetti) [O-supreme-goddess](parameśāni) [he](saḥ) [guru](guruḥ) [not](na) [another](aparaḥ) [O-beloved](priye)
+
 ## kul-p62-v1543
-threefold who knows he guru supreme considered
+[threefold](trividhaṃ) [who](yaḥ) [knows](vijānāti) [he](saḥ) [guru](guruḥ) [supreme](paramaḥ) [is-considered](mataḥ)
+
 ## kul-p62-v1544
-who knows excellent-ascent he guru said dear
+[who](yaḥ) [knows](jānāti) [O-fair-one](varārohe) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1545
-triad who knows he guru said dear
+[the-triad](tritayaṃ) [who](yaḥ) [knows](vijānāti) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1546
-in-principle who knows he guru said dear
+[in-truth](tattvataḥ) [who](yaḥ) [knows](vijānāti) [he](saḥ) [guru](guruḥ) [is-declared](kathitaḥ) [O-beloved](priye)
+
 ## kul-p62-v1547
-who to-purify able he guru supreme considered
+[who](yaḥ) [to-purify](viśodhayituṃ) [is-able](śaktaḥ) [he](saḥ) [guru](guruḥ) [supreme](paramaḥ) [is-considered](mataḥ)
+
 ## kul-p62-v1548
-who knows great-goddess he guru supreme considered
+[who](yaḥ) [knows](jānāti) [O-great-goddess](mahādevi) [he](saḥ) [guru](guruḥ) [supreme](paramaḥ) [is-considered](mataḥ)
+
 ## kul-p62-v1549
-root-bond and who knows he guru supreme considered
+[root](mūla) [lock](bandham) [and](ca) [who](yaḥ) [knows](vetti) [he](saḥ) [guru](guruḥ) [supreme](paramaḥ) [is-considered](mataḥ)
+
 ## kul-p62-v1550
-who knows by-principle he guru supreme considered
+[who](yaḥ) [knows](vijānāti) [in-essence](tattvena) [he](saḥ) [guru](guruḥ) [supreme](paramaḥ) [is-considered](mataḥ)
