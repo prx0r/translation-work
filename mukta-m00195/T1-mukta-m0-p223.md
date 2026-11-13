@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p223-v5551
-[or](vā) [his](tasya) [heart-blood](hṛdi+asṛk) [drink](piba)
+[or](vā) [his](tasya) [heart](hṛdi)+[blood](asṛk) [drink](piba)
 
 ## mukta-m0-p223-v5552
-[for-accomplishment-of-difficult-task](dussādhya+kārya+siddhy+arthaṃ) [application](viniyogaḥ) [of-this](asya) [is-declared](kīrtitaḥ)
+[difficult-to-accomplish](dussādhya)+[task](kārya)+[accomplishment](siddhi)+[for-the-sake-of](arthaṃ) [application](viniyogaḥ)+[of-this](asya) [is-declared](kīrtitaḥ)
 
 ## mukta-m0-p223-v5553
-[?](vyaneccāvyanahīnastaharasāśaniḥ)
+[vyaneccāvyanahīnastaharasāśaniḥ](vyaneccāvyanahīnastaharasāśaniḥ)
 
 ## mukta-m0-p223-v5554
-[in-destruction-of-sorcery-way-thieves-etc](kṛtyā+mārga+stha+caura+ādināśe) [but](tu) [application](viniyojanam)
+[magical-rite](kṛtyā)+[path](mārga)+[situated](stha)+[thief](caura)+[and-others](ādi)+[in-destruction](nāśe) [but](tu) [application](viniyojanam)
 
 ## mukta-m0-p223-v5555
-[by-those](taiḥ) [of-goddess-night](devi+rātryāḥ) [in-sorcery](kṛtye) [not](no) [may-we-go](gamayema) [cut-these](ān+nikṛntaya)
+[taiḥdevirātryāḥ](taiḥdevirātryāḥ) [in-the-rite](kṛtye) [not](no) [gamayemānnikṛntaya](gamayemānnikṛntaya)
 
 ## mukta-m0-p223-v5556
-[beginning-from-first-day-of-bright-fortnight](śukla+pakṣa+pradipadam+ārabhya) [every-day](pratyahaṃ) [one-should-recite](japet)
+[bright](śukla)+[fortnight](pakṣa)+[first-day](pratipadam)+[beginning-with](ārabhya) [every-day](pratyahaṃ) [one-should-recite](japet)
 
 ## mukta-m0-p223-v5557
-[one-should-eat](bhakṣayet) [brown-cow's-milk](kapilā+kṣīraṃ) [sacrificial-rice](haviṣya+odanam) [indeed](eva) [and](ca)
+[one-should-consume](bhakṣayet)+[brown-cow's](kapilā)+[milk](kṣīraṃ) [sacrificial](haviṣya)+[rice](odanam)+[indeed](eva) [and](ca)
 
 ## mukta-m0-p223-v5558
-[by-mere-sight-of-capable-one](samartha+darśanāt+eva) [would-be](bhavet) [of-ghost](bhūtasya) [what](kā) [talk](kathā)
+[capable-one's](samartha)+[sight](darśanāt)+[alone](eva) [would-be](bhavet)+[of-a-ghost](bhūtasya) [what](kā) [mention](kathā)
 
 ## mukta-m0-p223-v5559
-[skanda-seizure-brahma-rākṣasa-epilepsy-etc-diseases](skanda+graha+brahmarakṣa+upasmāra+ādi+gadān) [likewise](tathā)
+[Skanda](skanda)+[seizure](graha)+[Brahma-demon](brahmarakṣaḥ)+[epilepsy](upasmāra)+[and-other](ādi)+[diseases](gadān)+[likewise](tathā)
 
 ## mukta-m0-p223-v5560
-[all-troubles-pacification](sarva+upadrava+śāntiḥ) [may-be](syāt) [in-house](bhavane) [of-practitioner](sādhakasya) [indeed](tu)
+[all](sarva)+[calamity](upadrava)+[pacification](śāntiḥ) [may-be](syāt)+[in-the-house](bhavane) [of-the-practitioner](sādhakasya) [indeed](tu)
 
 ## mukta-m0-p223-v5561
-[destruction-of-all-diseases](sarva+vyādhi+vināśaḥ) [may-be](syāt) [auspiciousness](śivam) [indeed](eva) [day-by-day](dine+dine)
+[all](sarva)+[disease](vyādhi)+[destruction](vināśaḥ) [may-be](syāt)+[auspiciousness](śivam)+[indeed](eva) [day](dine)+[by-day](dine)
 
 ## mukta-m0-p223-v5562
-[of-all-diseases](sarva+rogāṇāṃ) [quick](tvaritaṃ) [pacifying](śāntikaṃ) [remembered](smṛtam)
+[of-all](sarva)+[diseases](rogāṇāṃ) [quick](tvaritaṃ) [pacifying](śāntikaṃ) [is-remembered](smṛtam)
 
 ## mukta-m0-p223-v5563
-[and-one-hundred-and-eight](ca+aṣṭottara+śataṃ) [for-a-month](māsaṃ) [that](tat) [remover-of-all-sorrows](sarva+duḥkha+hṛt)
+[and](ca)+[eight](aṣṭa)+[more-than](uttara)+[hundred](śataṃ) [for-a-month](māsaṃ) [that](tat)+[all](sarva)+[sorrow](duḥkha)+[removing](hṛt)
 
 ## mukta-m0-p223-v5564
-[gold-ring-etc](svarṇa+aṅgulīya+ādi) [fee](dakṣiṇā) [to-mantra-reciter](mantra+pāṭhine)
+[gold](svarṇa)+[ring](āṅgulīya)+[and-so-forth](ādi) [fee](dakṣiṇā) [to-the-mantra](mantra)+[reciter](pāṭhine)
 
 ## mukta-m0-p223-v5565
-[of-god-agni](devaḥ+agniḥ) [application](viniyogaḥ) [but](tu) [in-destruction-of-all-enemies](sarva+śatru+nikarttane)
+[god](devaḥ)+[Agni](agniḥ)+[application](viniyogaḥ)+[indeed](tu) [all](sarva)+[enemy](śatru)+[destruction](nikarttane)
 
 ## mukta-m0-p223-v5566
-[may-we-go](vrajāma) [with-us](asmābhiḥ) [to-do](kartuṃ) [to-tvaṣṭṛ-made-houses](tvaṣṭa+padī+gṛhān)
+[vrajāsmābhiḥ](vrajāsmābhiḥ) [to-do](kartuṃ) [tvaṣṭapadīgṛhān](tvaṣṭapadīgṛhān)
 
 ## mukta-m0-p223-v5567
-[application](niyogaḥ) [but](tu) [may-become](bhavatu) [old-age](jarā) [to-enemy](śatrave)
+[application](niyogaḥ)+[indeed](tu) [old-age](jarā)+[may-be](bhavatu) [to-the-enemy](śatrave)
 
 ## mukta-m0-p223-v5568
-[I-shall-tell](vakṣyāmi) [that](taṃ) [towards-us](prati+asmat) [you](tvam) [for-death](mṛtyave)
+[I-shall-tell](vakṣyāmi) [that](taṃ) [pratyasmatvamṛtyave](pratyasmatvamṛtyave)
 
 ## mukta-m0-p223-v5569
-[application](niyogaḥ) [but](tu) [in-causing-enmity-among-enemies](śatru+vidveṣaṇe) [considered](mataḥ)
+[application](niyogaḥ)+[indeed](tu) [enemy](śatru)+[in-causing-enmity](vidveṣaṇe) [is-considered](mataḥ)
 
 ## mukta-m0-p223-v5570
 [brahmācapakuddhaśayāśarvatatkandhaspatim](brahmācapakuddhaśayāśarvatatkandhaspatim)
 
 ## mukta-m0-p223-v5571
-[prescribed](uddiṣṭaṃ) [application](niyogaḥ) [for-enemy's-flight](ari+palāyane)
+[prescribed](uddiṣṭaṃ) [application](niyogaḥ)+[enemy](ari)+[in-causing-flight](palāyane)
 
 ## mukta-m0-p223-v5572
-[tvasindhayiṣṭāya dāvitsarpa tākṣiraḥ](tvasindhayiṣṭāya) (dāvitsarpa) (tākṣiraḥ)
+[tvasindhayiṣṭāya](tvasindhayiṣṭāya) [dāvitsarpa](dāvitsarpa) [tākṣiraḥ](tākṣiraḥ)
 
 ## mukta-m0-p223-v5573
-[having-gone](gatvā) [one-should-recite](japet) [one-hundred-and-eight](aṣṭottaraṃ) [hundred](śatam)
+[having-gone](gatvā) [one-should-recite](japet)+[eight](aṣṭa)+[more-than](uttaraṃ) [hundred](śatam)
 
 ## mukta-m0-p223-v5574
-[numbering-twenty-eight](aṣṭāviṃśati+saṃkhyākān) [one-should-give](dadyāt) [in-that-manner](tadvat) [again](punaḥ) [one-should-recite](japet)
+[twenty-eight](aṣṭāviṃśati)+[in-number](saṃkhyākān)+[one-should-give](dadyāt)+[in-that-manner](tadvat)+[again](punaḥ)+[one-should-recite](japet)
 
 ## mukta-m0-p223-v5575
-[having-taken-bibhīta-staff](bibhīta+daṇḍam+ādhāya) [measuring-one-span](ca+eka+prādeśa+sammitam)
+[bibhīta](bibhīta)+[staff](daṇḍam)+[having-taken](ādhāya) [and](ca)+[one](eka)+[span](prādeśa)+[measuring](sammitam)

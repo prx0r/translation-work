@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p219-v5451
-[beautiful+dwelling](ramya-bhavane) [pot](kumbhaṃ) [initiation+rite+according-to](dīkṣā-vidhānataḥ)
+[in-beautiful-house](ramya+bhavane) [pot](kumbhaṃ) [according-to-initiation-rite](dīkṣā+vidhānataḥ)
 
 ## mukta-m0-p219-v5452
-[reverse+tantra+mantra+by](vilomaṃ-tantra-mantreṇa) [there](tatra) [should-invoke+chosen-deity](āvāhya-iṣṭa-devatām)
+[with-reverse-tantra-mantra](vilomaṃ+tantra+mantreṇa) [there](tatra) [should-invoke-chosen-deity](āvāhya+iṣṭa+devatām)
 
 ## mukta-m0-p219-v5453
-[priest](mantrī) [having-well-worshipped+chosen-deity](samabhyarcya-iṣṭa-devatām)
+[the-priest](mantrī) [having-well-worshipped](samabhyarcya) [chosen-deity](iṣṭa+devatām)
 
 ## mukta-m0-p219-v5454
-[or](vāpi) [then](tataḥ) [should-satisfy+this-one](santarpayet-amum)
+[or](vāpi) [then](tataḥ) [should-satisfy](santarpayet) [this-one](amum)
 
 ## mukta-m0-p219-v5455
-[barley+food+with](yava-annaiḥ) [and+also](ca-api) [milk+food+with](dugdha-annaiḥ) [directions+intermediate-directions+below](dig-vidikṣu-adhaḥ) [above](ūrdhvataḥ)
+[with-barley-rice](yava+annaiḥ) [and-also](ca+api) [with-milk-rice](dugdha+annaiḥ) [in-directions-and-intermediate-directions](dig+vidikṣu) [below](adha) [above](ūrdhvataḥ)
 
 ## mukta-m0-p219-v5456
-[accept](gṛhāṇa) [this](imaṃ) [flower+incense+etc](puṣpa-dhūpa-ādikaṃ) [offering](balim)
+[accept](gṛhāṇa) [this](imaṃ) [consisting-of-flower-incense-etc.](puṣpa+dhūpa+ādikaṃ) [offering](balim)
 
 ## mukta-m0-p219-v5457
 [offering](balim) [this](enaṃ) [prepared](prayojitam)
 
 ## mukta-m0-p219-v5458
-[accept](gṛhāṇa) [this](imaṃ) [well-pleased](suprītaḥ) [boon-giver+be](varadaḥ-bhava)
+[accept](gṛhāṇa) [this](imaṃ) [well-pleased](suprītaḥ) [be-boon-giver](varadaḥ+bhava)
 
 ## mukta-m0-p219-v5459
-[offering+worship+etc](bali-pūjā-ādi) [by-me](mayā) [with-devotion](bhaktyā) [offered](niveditam)
+[offering-worship-etc.](bali+pūjā+ādi) [by-me](mayā) [with-devotion](bhaktyā) [presented](niveditam)
 
 ## mukta-m0-p219-v5460
 [worship](pūjāṃ) [having-accepted](gṛhītvā) [happiness](sukham) [attain](āpnuhi)
 
 ## mukta-m0-p219-v5461
-[according-to-rule](vidhi-vat) [accept](gṛhāṇa) [offering](balim) [with-respect](ādarāt)
+[according-to-rule](vidhi+vat) [accept](gṛhāṇa) [offering](balim) [with-respect](ādarāt)
 
 ## mukta-m0-p219-v5462
-[in-satisfaction](prītau) [of-you-both](bhavatāṃ) [two-boon-givers](varadau) [of-me](mama)
+[in-pleasure](prītau) [of-you-both](bhavatāṃ) [two-boon-givers](varadau) [of-me](mama)
 
 ## mukta-m0-p219-v5463
-[flower+incense+etc+with](puṣpa-dhūpa-ādyaiḥ) [pleased+be](prītaḥ-bhava) [for-prosperity](vibhūtaye)
+[with-flower-incense-etc.](puṣpa+dhūpa+ādyaiḥ) [be-pleased](prītaḥ+bhava) [for-prosperity](vibhūtaye)
 
 ## mukta-m0-p219-v5464
-[all+brahmins+foremost](sarva-vipra-agrya) [world+creator](jagat-kartre) [salutation+be](namaḥ-astu) [to-you](te)
+[O-best-of-all-brahmins](sarva+vipra+agrya) [O-creator-of-world](jagat+karte) [salutation](namaḥ) [be-to-you](astu) (te)
 
 ## mukta-m0-p219-v5465
-[with-devotion](bhaktyā) [be](bhava) [you](tvaṃ) [happiness+giver](sukha-daḥ) [of-me](mama)
+[with-devotion](bhaktyā) [be](bhava) [you](tvaṃ) [giver-of-happiness](sukha+daḥ) [to-me](mama)
 
 ## mukta-m0-p219-v5466
-[in-reverse-order](viparītena) [flower+incense+offerings+with](puṣpa-dhūpa-upacārakaiḥ)
+[in-reverse-order](viparītena) [with-flower-incense-offerings](puṣpa+dhūpa+upacārakaiḥ)
 
 ## mukta-m0-p219-v5467
-[alternative+procedure+etc+having-considered](anukalpa-ādinā-ālocya) [by-me](mayā) [unsteady+intellect+by](tarala-buddhinā)
+[considering-alternative-procedure-etc.](anukalpa+ādinā) [having-reflected](ālocya) [by-me](mayā) [of-unsteady-intellect](tarala+buddhinā)
 
 ## mukta-m0-p219-v5468
-[of-me](me) [may-be](astu) [welfare](bhūyāt-śreyaḥ) [eternal](sanātanam)
+[to-me](me) [may-be](astu) [may-become](bhūyāt) [welfare](śreyaḥ) [eternal](sanātanam)
 
 ## mukta-m0-p219-v5469
-[mantra+lord](maṃtra-īśaṃ) [mantra](maṃtraṃ) [in-yantra](yaṃtre) [in-reverse-order](vilomataḥ)
+[lord-of-mantras](maṃtra+īśaṃ) [mantra](maṃtraṃ) [in-diagram](yaṃtre) [in-reverse-order](vilomataḥ)
 
 ## mukta-m0-p219-v5470
 [with-devotion](bhaktyā) [supreme](paramayā) [endowed](yutaḥ)
 
 ## mukta-m0-p219-v5471
-[mantra+purified+with](mantra-pūtaiḥ) [again](punaḥ) [and+another](ca-anyaṃ) [pot](kumbhaṃ) [with-waters](toyaiḥ) [should-fill](prapūrayet)
+[with-mantra-purified](mantra+pūtaiḥ) [again](punaḥ) [and-another](ca+anyaṃ) [pot](kumbhaṃ) [with-waters](toyaiḥ) [one-should-fill](prapūrayet)
 
 ## mukta-m0-p219-v5472
-[in-river](nimnagāyāṃ) [and](ca) [in-pure](śuddhe) [or](vā) [in-other+water+reservoir](anya-jala-āśaye)
+[in-river](nimnagāyāṃ) [and](ca) [in-pure](śuddhe) [or](vā) [in-another-water-reservoir](anya+jala+āśaye)
 
 ## mukta-m0-p219-v5473
-[performed+rite+of](kṛta-vidhānasya) [difficult-to-obtain+of](durlabhasya) [mind+born+of](manaḥ-rujaḥ)
+[of-one-who-has-performed-rite](kṛta+vidhānasya) [of-rare](durlabhasya) [of-disease-of-mind](manaḥ+rujaḥ)
 
 ## mukta-m0-p219-v5474
-[is-born](jāyate) [very+prosperous](atīva-sampannā) [increases](vardhate) [that+family](tat-kulaṃ) [always](sadā)
+[arises](jāyate) [very-prosperous](atīva+sampannā) [increases](vardhate) [that-family](tat+kulaṃ) [always](sadā)
 
 ## mukta-m0-p219-v5475
-[of-gaze](dṛśaḥ) [from-fall](pātāt) [ghost+demon+etc+deities](bhūta-preta-ādi-devatāḥ)
+[from-fall-of-glance](dṛśaḥ) (pātāt) [ghosts-pretas-and-other-deities](bhūta+preta+ādi+devatāḥ)
