@@ -1,0 +1,1409 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2601,
+   "rows": [
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "first person singular present act of worship",
+     "morph": "1.sg.pres.act √bhaj"
+    },
+    {
+     "surface": "'haṃ",
+     "gloss": "i",
+     "grounds": "speaker pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "daily repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāmaṃ",
+     "gloss": "rama",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "associative prefix in compound sense",
+     "morph": "compound=sa+membership"
+    },
+    {
+     "surface": "sītaṃ",
+     "gloss": "sita",
+     "grounds": "companion of Rama",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmaṇam",
+     "gloss": "lakshmana",
+     "grounds": "companion of Rama",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who is the proper daily object of devotional worship for the speaker?",
+   "premises": [
+    "The speaker declares personal worship.",
+    "The worship is performed every day.",
+    "Rama is worshipped together with Sita and Lakshmana."
+   ],
+   "inference": "Daily devotion is rightly directed to Rama accompanied by Sita and Lakshmana.",
+   "uncertainties": [],
+   "plain_english": "I worship Rama every day, together with Sita and Lakshmana."
+  },
+  {
+   "verse": 2602,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "shiva",
+     "grounds": "first member indicating auspicious divine nature",
+     "morph": "compound=śiva+member"
+    },
+    {
+     "surface": "mayo",
+     "gloss": "consisting-of",
+     "grounds": "suffixal member expressing pervasion",
+     "morph": "compound=maya+membership"
+    },
+    {
+     "surface": "diśas",
+     "gloss": "directions",
+     "grounds": "all quarters of space",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "refers to the devotee or Rama",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "siddhayas",
+     "gloss": "powers",
+     "grounds": "spiritual accomplishments",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "refers to the same person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dāsikāḥ",
+     "gloss": "maidservants",
+     "grounds": "subordinate attendants",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What benefits and cosmic condition attend the one devoted to Rama?",
+   "premises": [
+    "The directions become pervaded by Shiva-nature for him.",
+    "Spiritual powers belong to him.",
+    "Those powers serve him like maidservants."
+   ],
+   "inference": "Devotion to Rama brings a Shiva-pervaded world and readily serving powers.",
+   "uncertainties": [
+    "The referent of tasya may be Rama or the devotee."
+   ],
+   "plain_english": "For him the directions are filled with Shiva, and the powers become his maidservants."
+  },
+  {
+   "verse": 2603,
+   "rows": [
+    {
+     "surface": "paṭhed",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive or optative sense of recitation",
+     "morph": "3.sg.opt.act √paṭh"
+    },
+    {
+     "surface": "anudinaṃ",
+     "gloss": "daily",
+     "grounds": "every day",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yas",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāme",
+     "gloss": "in-rama",
+     "grounds": "locus of devotion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaktimān",
+     "gloss": "devoted",
+     "grounds": "possessing devotion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What spiritual result follows from daily recitation of this teaching?",
+   "premises": [
+    "A person may recite this daily.",
+    "The recitation is presented as efficacious.",
+    "The stated outcome is devotion to Rama."
+   ],
+   "inference": "Daily recitation produces devotion to Rama.",
+   "uncertainties": [],
+   "plain_english": "Whoever recites this daily will become devoted to Rama."
+  },
+  {
+   "verse": 2604,
+   "rows": [
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taḥ",
+     "gloss": "than-this",
+     "grounds": "comparative basis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "para",
+     "gloss": "higher",
+     "grounds": "first member of comparative compound",
+     "morph": "compound=para+member"
+    },
+    {
+     "surface": "taraṃ",
+     "gloss": "more",
+     "grounds": "comparative suffixal member",
+     "morph": "compound=tara+membership"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "esoteric teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "in-three",
+     "grounds": "count of worlds",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "lokeṣu",
+     "gloss": "worlds",
+     "grounds": "cosmic domains",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-found",
+     "grounds": "exists or is known",
+     "morph": "3.sg.pres.pass √vid"
+    }
+   ],
+   "question": "How supreme is the secrecy of this Rama teaching across all worlds?",
+   "premises": [
+    "The teaching is called a secret.",
+    "It is compared across the three worlds.",
+    "No higher secret is found than this."
+   ],
+   "inference": "This teaching is the highest secret in the three worlds.",
+   "uncertainties": [],
+   "plain_english": "There is no higher secret than this in the three worlds."
+  },
+  {
+   "verse": 2605,
+   "rows": [
+    {
+     "surface": "upaviṣṭas",
+     "gloss": "seated",
+     "grounds": "having sat down",
+     "morph": "m.nom.sg.past-part √viś+upa"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence in narrative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhoktuṃ",
+     "gloss": "to-eat",
+     "grounds": "purpose of sitting",
+     "morph": "inf √bhuj"
+    },
+    {
+     "surface": "pārvatīṃ",
+     "gloss": "to-parvati",
+     "grounds": "addressee of speech",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaṅkaro",
+     "gloss": "shankara",
+     "grounds": "speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'bravīt",
+     "gloss": "said",
+     "grounds": "act of speaking",
+     "morph": "3.sg.imperf.act √brū"
+    }
+   ],
+   "question": "What narrative setting introduces Shankara's instruction to Parvati about eating?",
+   "premises": [
+    "Shankara is seated to eat.",
+    "The moment follows previous events.",
+    "Shankara addresses Parvati."
+   ],
+   "inference": "The scene is set for Shankara to speak to Parvati before eating.",
+   "uncertainties": [],
+   "plain_english": "Then, seated to eat, Shankara spoke to Parvati."
+  },
+  {
+   "verse": 2606,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhokṣyāmy",
+     "gloss": "i-shall-eat",
+     "grounds": "future action of speaker",
+     "morph": "1.sg.fut.act √bhuj"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "bhujyatāṃ",
+     "gloss": "let-be-eaten",
+     "grounds": "invitation or permission",
+     "morph": "3.sg.imper.pass √bhuj"
+    },
+    {
+     "surface": "bhavatā",
+     "gloss": "by-you",
+     "grounds": "agent addressed",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How does the dialogue express mutual deference before the meal begins?",
+   "premises": [
+    "One speaker states they will eat afterward.",
+    "The other is invited to eat first.",
+    "Both are addressed with honorific titles."
+   ],
+   "inference": "The exchange shows reverent deference between the speakers before eating.",
+   "uncertainties": [
+    "Speaker attribution within the dialogue is context-dependent."
+   ],
+   "plain_english": "Then I shall eat, O god; let it be eaten by you, O lord."
+  },
+  {
+   "verse": 2607,
+   "rows": [
+    {
+     "surface": "dhanyā",
+     "gloss": "blessed",
+     "grounds": "praise of Parvati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ni",
+     "gloss": "you-are",
+     "grounds": "first part of split verbal form",
+     "morph": "compound=ni+member"
+    },
+    {
+     "surface": "kṛta",
+     "gloss": "made",
+     "grounds": "second part indicating accomplished state",
+     "morph": "compound=kṛta+membership"
+    },
+    {
+     "surface": "puṇyā",
+     "gloss": "meritorious",
+     "grounds": "possessing merit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "si",
+     "gloss": "you-are",
+     "grounds": "copula",
+     "morph": "2.sg.pres.act √as"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "vishnu",
+     "grounds": "first member of devotion compound",
+     "morph": "compound=viṣṇu+member"
+    },
+    {
+     "surface": "bhaktā",
+     "gloss": "devotee",
+     "grounds": "one who is devoted",
+     "morph": "compound=bhakta+membership"
+    },
+    {
+     "surface": "si",
+     "gloss": "you-are",
+     "grounds": "copula",
+     "morph": "2.sg.pres.act √as"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-parvati",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why is Parvati praised as uniquely worthy in this devotional context?",
+   "premises": [
+    "Parvati is called blessed and meritorious.",
+    "She is identified as a devotee of Vishnu.",
+    "The praise is spoken directly to her."
+   ],
+   "inference": "Parvati's worth is grounded in her merit and devotion to Vishnu.",
+   "uncertainties": [],
+   "plain_english": "You are blessed, you are meritorious, and you are a devotee of Vishnu, O Parvati."
+  },
+  {
+   "verse": 2608,
+   "rows": [
+    {
+     "surface": "ra",
+     "gloss": "ra",
+     "grounds": "syllable element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārā",
+     "gloss": "syllable",
+     "grounds": "sound component",
+     "morph": "compound=kāra+membership"
+    },
+    {
+     "surface": "dīni",
+     "gloss": "beginning-with",
+     "grounds": "names starting with ra",
+     "morph": "compound=ādi+membership"
+    },
+    {
+     "surface": "nāmāmi",
+     "gloss": "names",
+     "grounds": "divine names being heard",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śṛṇvato",
+     "gloss": "of-hearing",
+     "grounds": "present participle of hearing",
+     "morph": "m.gen.sg.pres-part √śru"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's possession or experience",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-parvati",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What effect does hearing Rama's names beginning with ra have on Shankara?",
+   "premises": [
+    "Names beginning with the syllable ra are mentioned.",
+    "Shankara is hearing those names.",
+    "The statement is addressed to Parvati."
+   ],
+   "inference": "Hearing Rama's ra-initial names is presented as personally significant to Shankara.",
+   "uncertainties": [
+    "The main predicate is implied by context rather than explicit in this verse."
+   ],
+   "plain_english": "O Parvati, as I hear the names beginning with the syllable ra."
+  },
+  {
+   "verse": 2609,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāma",
+     "gloss": "rama",
+     "grounds": "first member of the word compound",
+     "morph": "compound=rāma+member"
+    },
+    {
+     "surface": "padenā",
+     "gloss": "by-word",
+     "grounds": "instrumental designation",
+     "morph": "compound=pada+membership"
+    },
+    {
+     "surface": "sau",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahman",
+     "grounds": "ultimate reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhidhīyate",
+     "gloss": "is-designated",
+     "grounds": "is named or indicated",
+     "morph": "3.sg.pres.pass √dhā+abhi"
+    }
+   ],
+   "question": "What ultimate reality is designated by the word Rama in this teaching?",
+   "premises": [
+    "The word Rama is used as a designation.",
+    "The designation refers to something supreme.",
+    "That supreme is identified as Brahman."
+   ],
+   "inference": "The word Rama designates the supreme Brahman.",
+   "uncertainties": [],
+   "plain_english": "Thus, by the word Rama, the supreme Brahman is designated."
+  },
+  {
+   "verse": 2610,
+   "rows": [
+    {
+     "surface": "rāme",
+     "gloss": "rama",
+     "grounds": "utterance of the name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ty",
+     "gloss": "thus",
+     "grounds": "sandhi form of iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "prior act of speaking",
+     "morph": "abs √vac"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "o-great",
+     "grounds": "honorific first member",
+     "morph": "compound=mahā+member"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to Parvati",
+     "morph": "compound=devī+membership"
+    },
+    {
+     "surface": "bhuṃkṣṇa",
+     "gloss": "eat",
+     "grounds": "imperative invitation",
+     "morph": "2.sg.imper.act √bhuj"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "with-me",
+     "grounds": "companion in eating",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "dhunā",
+     "gloss": "now",
+     "grounds": "present moment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What action does Shankara request after uttering the name Rama?",
+   "premises": [
+    "The name Rama has been spoken.",
+    "Parvati is addressed as great goddess.",
+    "Shankara invites her to eat with him now."
+   ],
+   "inference": "After uttering Rama's name, Shankara invites Parvati to eat together with him.",
+   "uncertainties": [
+    "The surface bhuṃkṣṇa is a nonstandard imperative form."
+   ],
+   "plain_english": "Having said 'Rama,' O great goddess, eat together with me now."
+  },
+  {
+   "verse": 2611,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "narrative sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "completed action",
+     "morph": "abs √bhuj"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "honorific first member",
+     "morph": "compound=mahā+member"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "Parvati",
+     "morph": "compound=devī+membership"
+    },
+    {
+     "surface": "patinā",
+     "gloss": "with-husband",
+     "grounds": "companion",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "remained",
+     "grounds": "stayed in place",
+     "morph": "f.nom.sg.past-part √sthā+sam"
+    }
+   ],
+   "question": "What does the great goddess do after sharing the meal with her husband?",
+   "premises": [
+    "The meal has been completed.",
+    "The great goddess is with her husband.",
+    "She remains there afterward."
+   ],
+   "inference": "After eating with her husband, the great goddess remains with him.",
+   "uncertainties": [],
+   "plain_english": "Then, having eaten, the great goddess remained together with her husband."
+  },
+  {
+   "verse": 2612,
+   "rows": [
+    {
+     "surface": "kathyatāṃ",
+     "gloss": "let-be-told",
+     "grounds": "request for instruction",
+     "morph": "3.sg.imper.pass √kath"
+    },
+    {
+     "surface": "mama",
+     "gloss": "to-me",
+     "grounds": "recipient of teaching",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "deve",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śa",
+     "gloss": "o-lord",
+     "grounds": "vocative element, likely śaṅkara",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "in-that",
+     "grounds": "in that matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "speaker's feeling",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "prītir",
+     "gloss": "delight",
+     "grounds": "joy or affection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uttamā",
+     "gloss": "supreme",
+     "grounds": "highest degree",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why does Parvati request further teaching about Rama from the lord?",
+   "premises": [
+    "Parvati asks the lord to tell her.",
+    "She expresses supreme delight in that topic.",
+    "The request is directed to the lord."
+   ],
+   "inference": "Parvati seeks further teaching because she takes supreme delight in it.",
+   "uncertainties": [
+    "The token śa appears truncated and may represent a vocative form."
+   ],
+   "plain_english": "Let it be told to me, O lord; in that I have supreme delight."
+  },
+  {
+   "verse": 2613,
+   "rows": [
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "divine names",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "rāma",
+     "gloss": "rama",
+     "grounds": "first member of epithet compound",
+     "morph": "compound=rāma+member"
+    },
+    {
+     "surface": "bhadrasya",
+     "gloss": "of-bhadra",
+     "grounds": "auspicious Rama",
+     "morph": "compound=bhadra+membership"
+    },
+    {
+     "surface": "sahasrā",
+     "gloss": "thousand",
+     "grounds": "first part of large number",
+     "morph": "compound=sahasra+member"
+    },
+    {
+     "surface": "nteṣu",
+     "gloss": "among",
+     "grounds": "within a set",
+     "morph": "compound=anta+membership"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connective with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhikam",
+     "gloss": "more",
+     "grounds": "exceeding",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How extensive is the collection of auspicious Rama's names being discussed?",
+   "premises": [
+    "The names belong to auspicious Rama.",
+    "They are counted in thousands.",
+    "The collection is said to be even more."
+   ],
+   "inference": "The names of auspicious Rama number more than a thousand.",
+   "uncertainties": [
+    "The split tokens sahasrā and nteṣu reflect the given segmentation."
+   ],
+   "plain_english": "The names of auspicious Rama are more than a thousand."
+  },
+  {
+   "verse": 2614,
+   "rows": [
+    {
+     "surface": "viṣṇor",
+     "gloss": "of-vishnu",
+     "grounds": "possessor of names",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ekaika",
+     "gloss": "each-single",
+     "grounds": "every individual name",
+     "morph": "compound=eka+eka+membership"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "divine names",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "compound=sarva+member"
+    },
+    {
+     "surface": "vedā",
+     "gloss": "vedas",
+     "grounds": "sacred scriptures",
+     "morph": "compound=veda+member"
+    },
+    {
+     "surface": "dhikaṃ",
+     "gloss": "surpassing",
+     "grounds": "exceeding in value",
+     "morph": "compound=adhika+membership"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "spiritual result",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What spiritual fruit is attributed to each individual name of Vishnu?",
+   "premises": [
+    "Each single name of Vishnu is considered.",
+    "The comparison is made with all the Vedas.",
+    "The fruit is said to surpass them."
+   ],
+   "inference": "Each name of Vishnu yields fruit surpassing all the Vedas.",
+   "uncertainties": [],
+   "plain_english": "Each single name of Vishnu bears fruit surpassing all the Vedas."
+  },
+  {
+   "verse": 2615,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "consequence of prior claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṭi",
+     "gloss": "crore",
+     "grounds": "vast multiplier",
+     "morph": "compound=koṭi+member"
+    },
+    {
+     "surface": "guṇaṃ",
+     "gloss": "fold",
+     "grounds": "multiplied measure",
+     "morph": "compound=guṇa+membership"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "spiritual reward",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rāma",
+     "gloss": "rama",
+     "grounds": "first member of name compound",
+     "morph": "compound=rāma+member"
+    },
+    {
+     "surface": "nāmnai",
+     "gloss": "by-name",
+     "grounds": "instrumental cause",
+     "morph": "compound=nāman+membership"
+    },
+    {
+     "surface": "va",
+     "gloss": "alone",
+     "grounds": "emphatic particle with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "is gained",
+     "morph": "3.sg.pres.pass √labh"
+    }
+   ],
+   "question": "How much merit is obtained through the name of Rama alone?",
+   "premises": [
+    "The prior verse establishes great fruit from divine names.",
+    "Rama's name is singled out.",
+    "The merit is multiplied by a crore."
+   ],
+   "inference": "Merit multiplied a crore-fold is obtained by Rama's name alone.",
+   "uncertainties": [],
+   "plain_english": "Therefore, merit multiplied a crore times is obtained by the name of Rama alone."
+  },
+  {
+   "verse": 2616,
+   "rows": [
+    {
+     "surface": "rājīva",
+     "gloss": "lotus",
+     "grounds": "first member of epithet",
+     "morph": "compound=rājīva+member"
+    },
+    {
+     "surface": "locanaḥ",
+     "gloss": "eyed",
+     "grounds": "having lotus eyes",
+     "morph": "compound=locana+membership"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "possessing splendor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāje",
+     "gloss": "king",
+     "grounds": "first member of royal title",
+     "morph": "compound=rāja+member"
+    },
+    {
+     "surface": "ndro",
+     "gloss": "lord",
+     "grounds": "supreme king",
+     "morph": "compound=indra+membership"
+    },
+    {
+     "surface": "raghu",
+     "gloss": "raghu",
+     "grounds": "dynastic name",
+     "morph": "compound=raghu+member"
+    },
+    {
+     "surface": "puṅgavaḥ",
+     "gloss": "chief",
+     "grounds": "best among Raghu's line",
+     "morph": "compound=puṅgava+membership"
+    }
+   ],
+   "question": "Which royal and divine qualities define Rama in this litany of names?",
+   "premises": [
+    "Rama is described as lotus-eyed.",
+    "He is called glorious and lord of kings.",
+    "He is the chief of the Raghu lineage."
+   ],
+   "inference": "Rama is praised as a glorious, lotus-eyed king and foremost of the Raghu line.",
+   "uncertainties": [],
+   "plain_english": "Lotus-eyed, glorious, lord of kings, chief of the Raghu dynasty."
+  },
+  {
+   "verse": 2617,
+   "rows": [
+    {
+     "surface": "viśvāmitra",
+     "gloss": "vishvamitra",
+     "grounds": "sage's name",
+     "morph": "compound=viśvāmitra+member"
+    },
+    {
+     "surface": "priyo",
+     "gloss": "dear",
+     "grounds": "beloved to Vishvamitra",
+     "morph": "compound=priya+membership"
+    },
+    {
+     "surface": "dāntaḥ",
+     "gloss": "self-controlled",
+     "grounds": "restrained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaraṇa",
+     "gloss": "refuge",
+     "grounds": "first member of protection compound",
+     "morph": "compound=śaraṇa+member"
+    },
+    {
+     "surface": "trāṇa",
+     "gloss": "protection",
+     "grounds": "saving those who seek refuge",
+     "morph": "compound=trāṇa+member"
+    },
+    {
+     "surface": "tatparaḥ",
+     "gloss": "devoted-to",
+     "grounds": "intent on giving protection",
+     "morph": "compound=tatpara+membership"
+    }
+   ],
+   "question": "What virtues characterize Rama's relationship to sages and those seeking refuge?",
+   "premises": [
+    "Rama is dear to Vishvamitra.",
+    "He is self-controlled.",
+    "He is devoted to protecting those who seek refuge."
+   ],
+   "inference": "Rama combines sage-favored discipline with commitment to protecting refugees.",
+   "uncertainties": [],
+   "plain_english": "Dear to Vishvamitra, self-controlled, devoted to protecting those who seek refuge."
+  },
+  {
+   "verse": 2618,
+   "rows": [
+    {
+     "surface": "satya",
+     "gloss": "truth",
+     "grounds": "first member of vow compound",
+     "morph": "compound=satya+member"
+    },
+    {
+     "surface": "vrato",
+     "gloss": "vowed",
+     "grounds": "one whose vow is truth",
+     "morph": "compound=vrata+membership"
+    },
+    {
+     "surface": "vrata",
+     "gloss": "vow",
+     "grounds": "first member of fruit compound",
+     "morph": "compound=vrata+member"
+    },
+    {
+     "surface": "phalaḥ",
+     "gloss": "fruit",
+     "grounds": "giver of vow's fruit",
+     "morph": "compound=phala+membership"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanūmad",
+     "gloss": "hanuman",
+     "grounds": "first member of shelter compound",
+     "morph": "compound=hanūmat+member"
+    },
+    {
+     "surface": "āśrayaḥ",
+     "gloss": "shelter",
+     "grounds": "refuge for Hanuman",
+     "morph": "compound=āśraya+membership"
+    }
+   ],
+   "question": "How does Rama embody truthfulness and serve as refuge for Hanuman?",
+   "premises": [
+    "Rama is vowed to truth.",
+    "He is the fruit of vows.",
+    "He is always the shelter of Hanuman."
+   ],
+   "inference": "Rama's truth-bound nature makes him the constant refuge of Hanuman.",
+   "uncertainties": [
+    "The compound vrata-phalaḥ can also mean one who fulfills vows."
+   ],
+   "plain_english": "Vowed to truth, the fruit of vows, always the shelter of Hanuman."
+  },
+  {
+   "verse": 2619,
+   "rows": [
+    {
+     "surface": "vibhīṣaṇa",
+     "gloss": "vibhishana",
+     "grounds": "name of the protected one",
+     "morph": "compound=vibhīṣaṇa+member"
+    },
+    {
+     "surface": "paritrātā",
+     "gloss": "protector",
+     "grounds": "one who saves",
+     "morph": "compound=paritrātṛ+membership"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "number of necks",
+     "morph": "compound=daśa+member"
+    },
+    {
+     "surface": "grīvā",
+     "gloss": "necked",
+     "grounds": "Ravana's attribute",
+     "morph": "compound=grīvā+member"
+    },
+    {
+     "surface": "śiro",
+     "gloss": "head",
+     "grounds": "heads of Ravana",
+     "morph": "compound=śiras+member"
+    },
+    {
+     "surface": "haraḥ",
+     "gloss": "remover",
+     "grounds": "one who takes away",
+     "morph": "compound=hara+membership"
+    }
+   ],
+   "question": "How does Rama's role as protector and destroyer appear in his deeds?",
+   "premises": [
+    "Rama protects Vibhishana.",
+    "Rama removes the heads of the ten-necked one.",
+    "These acts show both salvation and destruction."
+   ],
+   "inference": "Rama is both protector of the righteous and destroyer of the ten-necked enemy.",
+   "uncertainties": [],
+   "plain_english": "Protector of Vibhishana, remover of the heads of the ten-necked one."
+  },
+  {
+   "verse": 2620,
+   "rows": [
+    {
+     "surface": "jāmadagnya",
+     "gloss": "jamadagni-son",
+     "grounds": "Parashurama",
+     "morph": "compound=jāmadagnya+member"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "intensifier",
+     "morph": "compound=mahā+member"
+    },
+    {
+     "surface": "darpa",
+     "gloss": "pride",
+     "grounds": "arrogance",
+     "morph": "compound=darpa+member"
+    },
+    {
+     "surface": "jvalanas",
+     "gloss": "fire",
+     "grounds": "burning destroyer of pride",
+     "morph": "compound=jvalana+membership"
+    },
+    {
+     "surface": "tāḍakā",
+     "gloss": "tadaka",
+     "grounds": "demoness name",
+     "morph": "compound=tāḍakā+member"
+    },
+    {
+     "surface": "ntakaḥ",
+     "gloss": "slayer",
+     "grounds": "destroyer",
+     "morph": "compound=antaka+membership"
+    }
+   ],
+   "question": "What victories over pride and demonic threat are attributed to Rama here?",
+   "premises": [
+    "Rama is called the fire to Parashurama's great pride.",
+    "Rama is the slayer of Tadaka.",
+    "Both acts demonstrate overpowering might."
+   ],
+   "inference": "Rama subdues great pride and destroys demonic threats like Tadaka.",
+   "uncertainties": [],
+   "plain_english": "The fire to the great pride of Parashurama, the slayer of Tadaka."
+  },
+  {
+   "verse": 2621,
+   "rows": [
+    {
+     "surface": "dūṣaṇa",
+     "gloss": "dushana",
+     "grounds": "demon name",
+     "morph": "compound=dūṣaṇa+member"
+    },
+    {
+     "surface": "triśiro",
+     "gloss": "trishiras",
+     "grounds": "three-headed demon",
+     "morph": "compound=triśiras+member"
+    },
+    {
+     "surface": "hantā",
+     "gloss": "slayer",
+     "grounds": "killer of demons",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "first member indicating triple form",
+     "morph": "compound=tri+member"
+    },
+    {
+     "surface": "mūrttis",
+     "gloss": "formed",
+     "grounds": "having three forms",
+     "morph": "compound=mūrti+membership"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "first member indicating three qualities",
+     "morph": "compound=tri+member"
+    },
+    {
+     "surface": "guṇas",
+     "gloss": "qualities",
+     "grounds": "the three gunas",
+     "morph": "compound=guṇa+membership"
+    },
+    {
+     "surface": "trayī",
+     "gloss": "three-vedas",
+     "grounds": "embodiment of the Vedic triad",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does Rama unite heroic demon-slaying with cosmic and Vedic identity?",
+   "premises": [
+    "Rama slays Dushana and Trishiras.",
+    "He is described as three-formed and as the three qualities.",
+    "He is identified with the three Vedas."
+   ],
+   "inference": "Rama's heroic acts are joined to a cosmic identity encompassing form, qualities, and Veda.",
+   "uncertainties": [],
+   "plain_english": "Slayer of Dushana and Trishiras, three-formed, the three qualities, and the three Vedas."
+  },
+  {
+   "verse": 2622,
+   "rows": [
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "first member of worlds compound",
+     "morph": "compound=tri+member"
+    },
+    {
+     "surface": "lokī",
+     "gloss": "worlds",
+     "grounds": "the three worlds",
+     "morph": "compound=loka+membership"
+    },
+    {
+     "surface": "rakṣako",
+     "gloss": "protector",
+     "grounds": "guardian",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanvī",
+     "gloss": "bowman",
+     "grounds": "armed with bow",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daṇḍākā",
+     "gloss": "dandaka",
+     "grounds": "first member of forest name",
+     "morph": "compound=daṇḍaka+member"
+    },
+    {
+     "surface": "raṇya",
+     "gloss": "forest",
+     "grounds": "forest region",
+     "morph": "compound=araṇya+member"
+    },
+    {
+     "surface": "puṇya",
+     "gloss": "merit",
+     "grounds": "sacred merit",
+     "morph": "compound=puṇya+member"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "maker",
+     "grounds": "one who creates merit",
+     "morph": "compound=kṛt+membership"
+    }
+   ],
+   "question": "In what ways does Rama act as protector and sanctifier of the world?",
+   "premises": [
+    "Rama protects the three worlds.",
+    "He is a bowman.",
+    "He makes the Dandaka forest meritorious."
+   ],
+   "inference": "Rama protects the cosmos and sanctifies places through his presence and action.",
+   "uncertainties": [],
+   "plain_english": "Protector of the three worlds, bowman, maker of merit in the Dandaka forest."
+  },
+  {
+   "verse": 2623,
+   "rows": [
+    {
+     "surface": "jayanta",
+     "gloss": "jayanta",
+     "grounds": "name of one protected",
+     "morph": "compound=jayanta+member"
+    },
+    {
+     "surface": "trāṇa",
+     "gloss": "protection",
+     "grounds": "saving Jayanta",
+     "morph": "compound=trāṇa+member"
+    },
+    {
+     "surface": "varadaḥ",
+     "gloss": "boon-giver",
+     "grounds": "grantor of boons",
+     "morph": "compound=varada+membership"
+    },
+    {
+     "surface": "sumitrā",
+     "gloss": "sumitra",
+     "grounds": "mother's name",
+     "morph": "compound=sumitrā+member"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "Lakshmana",
+     "morph": "compound=putra+member"
+    },
+    {
+     "surface": "sevitaḥ",
+     "gloss": "served-by",
+     "grounds": "attended by Sumitra's son",
+     "morph": "compound=sevita+membership"
+    }
+   ],
+   "question": "How does Rama's compassion and royal companionship appear in this name?",
+   "premises": [
+    "Rama gives protection in relation to Jayanta.",
+    "He is a giver of boons.",
+    "He is served by Sumitra's son."
+   ],
+   "inference": "Rama is compassionate, boon-granting, and attended by Lakshmana.",
+   "uncertainties": [
+    "Jayanta-trāṇa may refer to protecting or punishing Jayanta depending on context."
+   ],
+   "plain_english": "Protector in the matter of Jayanta, giver of boons, served by the son of Sumitra."
+  },
+  {
+   "verse": 2624,
+   "rows": [
+    {
+     "surface": "māyā",
+     "gloss": "illusory",
+     "grounds": "deceptive nature",
+     "morph": "compound=māyā+member"
+    },
+    {
+     "surface": "mārīca",
+     "gloss": "maricha",
+     "grounds": "demon name",
+     "morph": "compound=mārīca+member"
+    },
+    {
+     "surface": "hantā",
+     "gloss": "slayer",
+     "grounds": "killer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "intensifier",
+     "morph": "compound=mahā+member"
+    },
+    {
+     "surface": "bhogo",
+     "gloss": "enjoyment",
+     "grounds": "possessing great enjoyment or lordship",
+     "morph": "compound=bhoga+membership"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "intensifier",
+     "morph": "compound=mahā+member"
+    },
+    {
+     "surface": "bhujaḥ",
+     "gloss": "armed",
+     "grounds": "mighty-armed",
+     "morph": "compound=bhuja+membership"
+    }
+   ],
+   "question": "What combination of power and victory over illusion is affirmed of Rama?",
+   "premises": [
+    "Rama slays the illusory Maricha.",
+    "He is described as possessing great enjoyment or lordship.",
+    "He is described as mighty-armed."
+   ],
+   "inference": "Rama overcomes illusion while embodying great lordly power and strength.",
+   "uncertainties": [
+    "mahā-bhogaḥ can mean great enjoyment or great lordship."
+   ],
+   "plain_english": "Slayer of the illusory Maricha, possessed of great lordship, and mighty-armed."
+  }
+ ]
+}

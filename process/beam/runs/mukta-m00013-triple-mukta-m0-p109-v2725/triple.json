@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "aṣṭādaśākṣaro",
+     "gloss": "eighteen-syllabled",
+     "grounds": "compound of aṣṭādaśa (eighteen) and akṣara (syllable), describing the mantra",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "hrīṃ-śrīṃ-pūrvako",
+     "gloss": "hrīṃ-śrīṃ-preceded-by",
+     "grounds": "compound indicating the mantra is preceded by the bīja syllables hrīṃ and śrīṃ",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "viṃśadarṇakaḥ",
+     "gloss": "twenty-syllabled",
+     "grounds": "compound of viṃśati (twenty) and arṇaka (syllable/letter), giving the resulting count",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What syllable counts and prefixed bījas define this mantra form?",
+   "premises": [
+    "The mantra is described as eighteen-syllabled.",
+    "The mantra is preceded by the bīja syllables hrīṃ and śrīṃ.",
+    "With these prefixed bījas the mantra becomes twenty-syllabled."
+   ],
+   "inference": "Adding the two bīja syllables hrīṃ and śrīṃ to the eighteen-syllabled mantra yields a twenty-syllabled form.",
+   "uncertainties": [],
+   "plain_english": "This mantra is eighteen-syllabled; when preceded by hrīṃ and śrīṃ, it becomes twenty-syllabled."
+  }
+ ]
+}

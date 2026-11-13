@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[at-royal-gate](rājadvāre) [in-great-fortress](mahā+durgge) [may-protect](pātu) [me](mām) [gaṇa-leader](gaṇanāyakaḥ)
+[at-royal-gate](rājadvāre) [in-great-fortress](mahādurgge) [may-protect](pātu) [me](mām) [leader-of-troops](gaṇanāyakaḥ)
 
 ## mukta-m0-p73-v1802
-[two-armed](dvi+bhujā) [red-garmented](rakta+vasanāḥ) [with-all-ornaments](sarva+ābharaṇa) [adorned](bhūṣitāḥ)
+[two-armed](dvibhujā) [red-garmented](raktavasanāḥ) [with-all](sarva) [ornaments](ābharaṇa) [adorned](bhūṣitāḥ)
 
 ## mukta-m0-p73-v1803
-[thus](iti) [to-you](te) [told](kathitam) [O-goddess](devi) [armor](kavacam) [supremely-wondrous](parama+adbhutam)
+[thus](iti) [to-you](te) [told](kathitam) [O-goddess](devi) [armor](kavacam) [supremely](parama) [wondrous](adbhutam)
 
 ## mukta-m0-p73-v1804
-[sonless](aputraḥ) [obtains](labhate) [son](putram) [steadfast](dhīraṃ) [heroic](śūraṃ) [hundred-year-lived](śata+āyuṣam)
+[sonless](aputro) [obtains](labhate) [son](putram) [steadfast](dhīraṃ) [heroic](śūraṃ) [hundred-year-lived](śatāyuṣam)
 
 ## mukta-m0-p73-v1805
-[having-recited](japitvā) [mantra-king](mantra+rājantu) [having-meditated](dhyātvā) [on-Śrī-Bagalāmukhī](śrī+bagalāmukhīm)
+[having-recited](japitvā) [king-of-mantras](mantrarājam) [then](tu) [having-meditated](dhyātvā) [on-Śrī-Bagalāmukhī](śrībagalāmukhīm)
 
 ## mukta-m0-p73-v1806
-[whatever](yat+yat) [desires](kāmayate) [desire](kāmaṃ) [in-achievable-and-unachievable](sādhya+asādhye) [on-earth](mahī+tale)
+[whatever](yadyat) [desires](kāmayate) [desire](kāmaṃ) [achievable-and-unachievable](sādhyāsādhye) [on-earth](mahītale)
 
 ## mukta-m0-p73-v1807
-[guru](gurum) [having-meditated](dhyātvā) [wine](surām) [having-drunk](pītvā) [at-night](rātrau) [with-śakti](śakti+samanvitaḥ)
+[guru](gurum) [having-meditated](dhyātvā) [liquor](surām) [having-drunk](pītvā) [at-night](rātrau) [with-śakti](śaktisamanvitaḥ)
 
 ## mukta-m0-p73-v1808
-[whom](yam) [having-meditated](dhyātvā) [should-recite](pra+japet) [mantra](mantra) [thousand](sahasraṅ) [armor](kavacam) [should-read](paṭhet)
+[whom](yam) [having-meditated](dhyātvā) [should-recite](prajapet) [mantra](mantra) [thousand](sahasram) [armor](kavacam) [should-read](paṭhet)
 
 ## mukta-m0-p73-v1809
-[having-drawn](likhitvā) [image](pratimāṃ) [of-enemy](śatroḥ) [with-turmeric](satālena) [with-yellow-pigment](haridrayā)
+[having-drawn](likhitvā) [image](pratimāṃ) [of-enemy](śatroḥ) [with-realgar](satālena) [with-turmeric](haridrayā)
 
 ## mukta-m0-p73-v1810
-[for-twenty-one](eka+viṃśati) [days](dina) [until](yāvat) [daily](pratyahañ) [and](ca) [thousand](sahasrakam)
+[for-twenty-one](ekaviṃśati) [days](dinān) [until](yāvat) [daily](pratyaham) [and](ca) [thousand](sahasrakam)
 
 ## mukta-m0-p73-v1811
-[paralysis](saṃstambhañ) [arises](jāyate) [of-enemy](śatroḥ) [not](na) [indeed](atra) [consideration](kāryā) [doubt](vicāraṇā)
+[paralysis](saṃstambham) [occurs](jāyate) [of-enemy](śatroḥ) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p73-v1812
 [in-cremation-ground](śmaśāne) [and](ca) [fear](bhayam) [not](na) [exists](asti) [of-armor](kavacasya) [by-power](prabhāvataḥ)
 
 ## mukta-m0-p73-v1813
-[to-barren-woman](vandhyāyāñ) [is-born](jāyate) [son](putraḥ) [with-knowledge-and-strength](vidyā+bala+samanvitaḥ)
+[of-barren-woman](vandhyāyām) [is-born](jāyate) [son](putro) [with-knowledge](vidyā) [and-strength](bala) [endowed](samanvitaḥ)
 
 ## mukta-m0-p73-v1814
-[with-foot-water](pāda+udakena) [having-touched](spṛṣṭvā) [and](ca) [should-write](likhet) [with-iron-stylus](lauha+śalākayā)
+[with-foot-water](pādodakena) [having-touched](spṛṣṭvā) [and](ca) [one-should-write](likhet) [with-iron](lauha) [stylus](śalākayā)
 
 ## mukta-m0-p73-v1815
-[hand](hastam) [on-that-heart](tat+hṛdaye) [having-placed](datvā) [armor](kavacam) [with-lunar-day-and-weekday](tithi+vārakam)
+[hand](hastam) [that](tat) [on-heart](hṛdaye) [having-placed](datvā) [armor](kavacam) [lunar-day-and-weekday](tithivārakam)
 
 ## mukta-m0-p73-v1816
-[dies](mriyate) [by-fever-burning](jvara+dāhena) [on-tenth](daśame) [day](ahni) [not](na) [doubt](saṃśayaḥ)
+[dies](mriyate) [by-fever](jvara) [burning](dāhena) [on-tenth](daśame) [day](ahni) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p73-v1817
-[should-wear](dhārayet) [on-right](dakṣiṇe) [arm](bāhau) [woman](nārī) [on-left](vāma+bhuje) [likewise](tathā)
+[one-should-wear](dhārayet) [on-right](dakṣiṇe) [arm](bāhau) [woman](nārī) [on-left](vāma) [arm](bhuje) [likewise](tathā)
 
 ## mukta-m0-p73-v1818
-[brahmāstra-and-other](brahmāstra+ādīni) [weapons](śastrāṇi) [not](na) [indeed](eva) [cut](kṛntanti) [that-person](tam+janam)
+[brahmāstra-and-other](brahmāstrādīni) [weapons](śastrāṇi) [not](na) [indeed](eva) [cut](kṛntanti) [that](tam) [person](janam)
 
 ## mukta-m0-p73-v1819
-[equal-to-Bṛhaspati](vṛhaspati+samaḥ) [or-even](vā+api) [in-wealth](vibhave) [equal-to-Kubera](dhanada+upamaḥ)
+[equal-to-Bṛhaspati](vṛhaspatisamo) [or-even](vāpi) [in-wealth](vibhave) [equal-to-Kubera](dhanadopamaḥ)
 
 ## mukta-m0-p73-v1820
-[wave-of-poetry](kavitā+laharī) [of-him](tasya) [becomes](bhavet) [like-Gaṅgā-stream](gaṅgā+pravāha+vat)
+[stream-of-poetry](kavitālaharī) [of-him](tasya) [becomes](bhavet) [like-Gaṅgā](gaṅgā) [flow](pravāhavat)
 
 ## mukta-m0-p73-v1821
-[eleven-hundred](ekādaśa+śata) [until](yāvat) [preliminary-rite](puraścaraṇam) [is-declared](ucyate)
+[eleven-hundred](ekādaśaśatam) [until](yāvat) [preliminary-rite](puraścaraṇam) [is-prescribed](ucyate)
 
 ## mukta-m0-p73-v1822
-[not](na) [to-be-given](deyam) [to-other-disciples](para+śiṣyebhyaḥ) [to-wicked](duṣṭebhyaḥ) [and](ca) [especially](viśeṣataḥ)
+[not](na) [to-be-given](deyam) [to-other-disciples](paraśiṣyebhyo) [to-wicked](duṣṭebhyaḥ) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p73-v1823
-[hundred-crore](śata+koṭi) [having-recited](japitvā) [but](tu) [of-him](tasya) [success](siddhiḥ) [not](na) [arises](jāyate)
+[hundred-crore](śatakoṭi) [having-recited](japitvā) [then](tu) [of-him](tasya) [success](siddhiḥ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p73-v1824
 [servant](dāsaḥ) [is](asti) [of-them](teṣām) [king](nṛpaḥ)
 
 ## mukta-m0-p73-v1825
-[of-radiant-form](tejaḥ+rūpa+mayīm) [goddess](devīm) [of-yellow-radiance-nature](pīta+tejas+svarūpiṇīm)
+[of-fiery-form](tejorūpamayīm) [goddess](devīm) [of-yellow-radiance](pītatejas) [own-form](svarūpiṇīm)

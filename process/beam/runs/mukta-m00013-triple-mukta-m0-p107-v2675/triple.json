@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2675,
+   "rows": [
+    {
+     "surface": "acintya+sāra",
+     "gloss": "inconceivable-essence",
+     "grounds": "vocative compound addressing one whose essence is beyond thought; acintya (inconceivable) + sāra (essence)",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "viśva+ātman",
+     "gloss": "universal-self",
+     "grounds": "vocative compound identifying the addressee as the self of all; viśva (universe) + ātman (self)",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "prasīda",
+     "gloss": "be-gracious",
+     "grounds": "imperative appeal for favor",
+     "morph": "2.sg.act.imp root pra-√sad"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "vocative epithet naming the highest lord as the addressee",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What nature of the supreme lord justifies the devotee's plea for grace?",
+   "premises": [
+    "The supreme lord possesses an inconceivable essence.",
+    "The supreme lord is the self of the entire universe.",
+    "A lord of such nature is the proper recipient of a plea for grace."
+   ],
+   "inference": "Therefore the devotee entreats the supreme lord, inconceivable in essence and universal in selfhood, to be gracious.",
+   "uncertainties": [],
+   "plain_english": "O you of inconceivable essence, universal self, supreme lord, be gracious."
+  }
+ ]
+}
