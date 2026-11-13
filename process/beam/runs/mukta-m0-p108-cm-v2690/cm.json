@@ -3,19 +3,44 @@
  "verse": 2690,
  "rows": [
   {
-   "lemma": "dharma+artha+kāma+mokṣāṇām",
-   "morph": "compound m.gen.pl",
-   "grounds": "compound listing the four human aims"
+   "lemma": "kṣetra",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating property"
   },
   {
-   "lemma": "āptaye",
-   "morph": "f.dat.sg",
-   "grounds": "dative expressing purpose"
+   "lemma": "dāra",
+   "morph": "compound-member",
+   "grounds": "second member of compound indicating spouse"
   },
   {
-   "lemma": "puruṣa+uttamam",
-   "morph": "compound m.acc.sg",
-   "grounds": "accusative compound naming the deity as supreme person"
+   "lemma": "apahārī",
+   "morph": "m.nom.sg(compound:kṣetra-dāra+apahārī)",
+   "grounds": "one who takes away field or wife"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "ṣaḍ",
+   "morph": "(indecl.)",
+   "grounds": "numeral indicating total count"
+  },
+  {
+   "lemma": "ete",
+   "morph": "m.nom.pl",
+   "grounds": "demonstrative referring to the group"
+  },
+  {
+   "lemma": "ātatāyinaḥ",
+   "morph": "m.nom.pl",
+   "grounds": "dangerous offenders"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "quotation or conclusion marker"
   }
  ]
 }

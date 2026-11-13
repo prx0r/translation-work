@@ -3,9 +3,39 @@
  "verse": 2692,
  "rows": [
   {
-   "lemma": "kadamba+kusuma+udvaddha+vana+mālā+vibhūṣitam",
-   "morph": "compound m.acc.sg",
-   "grounds": "compound describing Kṛṣṇa adorned with a forest garland tied with kadamba flowers"
+   "lemma": "dhana",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating property"
+  },
+  {
+   "lemma": "ādānāt",
+   "morph": "n.abl.sg(compound:dhana+ādānāt)",
+   "grounds": "means of taking wealth"
+  },
+  {
+   "lemma": "hasta",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating body part"
+  },
+  {
+   "lemma": "dāhāt",
+   "morph": "m.abl.sg(compound:hasta+dāhāt)",
+   "grounds": "punitive burning of the hand"
+  },
+  {
+   "lemma": "kramataḥ",
+   "morph": "(indecl.)",
+   "grounds": "graduated sequence of punishments"
+  },
+  {
+   "lemma": "taṃ",
+   "morph": "m.acc.sg",
+   "grounds": "the offender"
+  },
+  {
+   "lemma": "viśodhayet",
+   "morph": "3.sg.act.optative(√śudh+vi)",
+   "grounds": "prescriptive purification through punishment"
   }
  ]
 }

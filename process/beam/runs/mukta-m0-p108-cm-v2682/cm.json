@@ -3,24 +3,29 @@
  "verse": 2682,
  "rows": [
   {
-   "lemma": "namaḥ",
-   "morph": "(indecl.)",
-   "grounds": "salutation"
+   "lemma": "manuṣya",
+   "morph": "compound-member",
+   "grounds": "first member of compound specifying victim"
   },
   {
-   "lemma": "sambhṛta+sarva+ātman",
-   "morph": "compound voc.m.sg",
-   "grounds": "vocative compound indicating the deity holds all beings within"
+   "lemma": "vadha",
+   "morph": "compound-member",
+   "grounds": "second member of compound specifying act"
   },
   {
-   "lemma": "namaḥ",
-   "morph": "(indecl.)",
-   "grounds": "repeated salutation"
+   "lemma": "janyaṃ",
+   "morph": "n.nom.sg(compound:manuṣya-vadha+janyam)",
+   "grounds": "produced by the specified act"
   },
   {
-   "lemma": "sambhṛta+kaustubha",
-   "morph": "compound voc.m.sg",
-   "grounds": "vocative compound naming the deity as bearer of the Kaustubha jewel"
+   "lemma": "pātakaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "moral or ritual transgression"
+  },
+  {
+   "lemma": "syāt",
+   "morph": "3.sg.act.optative(√as)",
+   "grounds": "potential or prescribed result"
   }
  ]
 }

@@ -3,24 +3,29 @@
  "verse": 2683,
  "rows": [
   {
-   "lemma": "namaḥ",
+   "lemma": "vadhaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "capital punishment"
+  },
+  {
+   "lemma": "tasya",
+   "morph": "m.gen.sg",
+   "grounds": "the offender"
+  },
+  {
+   "lemma": "vidhātavyaḥ",
+   "morph": "m.nom.sg.gerundive(√dhā+vi)",
+   "grounds": "obligatory injunction"
+  },
+  {
+   "lemma": "sarvathā",
    "morph": "(indecl.)",
-   "grounds": "salutation"
+   "grounds": "emphasizes unconditional application"
   },
   {
-   "lemma": "vibhinna+veśāya",
-   "morph": "compound m.dat.sg",
-   "grounds": "dative compound indicating varied appearances"
-  },
-  {
-   "lemma": "namaḥ",
-   "morph": "(indecl.)",
-   "grounds": "repeated salutation"
-  },
-  {
-   "lemma": "śruti+patha+atiga",
-   "morph": "compound m.dat.sg",
-   "grounds": "dative compound indicating transcendence beyond the path of scripture"
+   "lemma": "dharaṇībhṛtā",
+   "morph": "m.inst.sg(compound:dharaṇī+bhṛtā)",
+   "grounds": "agent responsible for execution"
   }
  ]
 }

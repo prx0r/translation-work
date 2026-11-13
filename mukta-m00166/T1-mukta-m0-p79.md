@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[cloth](paṭā) [hope](āsā)
+[silk-cloth](paṭāsā)
 
 ## mukta-m0-p79-v1952
-[good](sat) [honor](māna) [done](sakṛt) [abode](āvāsā) [cloth](paṭāsā) [she](sā) [may+burn](dahatv) [evil](agham)
+[honor](sanmāna) + [making](sakṛt) + [dwelling](āvāsā) [silk-cloth](paṭāsā) [she](sā) [may-burn](dahatu) + [sin](agham)
 
 ## mukta-m0-p79-v1953
-[Kashmiri](kāśmīrī)
+[Kashmiri-woman](kāśmīrī)
 
 ## mukta-m0-p79-v1954
-[Kashmiri](kāśmīrī) [me](mām) [may+delight](sukhayatu) [full](supūrṇa) [one](eka) [abode](vāsa) [by+experience](anubhūtyā)
+[Kashmiri-woman](kāśmīrī) [me](māṃ) [may-delight](sukhayatu) [complete](supūrṇa) + [one](eka) + [dwelling](vāsa) + [experience](anubhūtyā)
 
 ## mukta-m0-p79-v1955
-[saffron](kuṅkuma) [beloved](priyā)
+[saffron](kuṅkuma) + [fond](priyā)
 
 ## mukta-m0-p79-v1956
-[wounded](kṣata) [blood](raktaṃ) [indeed](kimu) [saffron](kuṅkuma) [beloved](priyā) [she](sā)
+[wound](kṣata) + [blood](raktaṃ) [whether](kimu) [saffron](kuṅkuma) + [fond](priyā) [she](sā)
 
 ## mukta-m0-p79-v1957
-[patience](kṣāntiḥ)
+[forbearance](kṣāntiḥ)
 
 ## mukta-m0-p79-v1958
-[patience](kṣāntiḥ) [by+wounded](kṣata) [by+confusions](bhrāntibhiḥ) [to+be+praised](īḍanīyā)
+[forbearance](kṣāntiḥ) [wound](kṣata) + [delusion](bhrāntibhiḥ) + [to-be-praised](īḍanīyā)
 
 ## mukta-m0-p79-v1959
-[much](bahu) [gold](suvarṇā)
+[much](bahu) + [gold](suvarṇā)
 
 ## mukta-m0-p79-v1960
-[all](sarva) [auspicious](maṅgala) [of+virtue](śīlasya) [of+monk](bhikṣoḥ) [with+all](sat) [auspicious](sarvamaṅgalā)
+[all](sarva) + [auspicious](āmaṅgala) + [natured](śīlasya) [of-monk](bhikṣoḥ) [good](sat) + [all](sarva) + [auspicious](maṅgalā)
 
 ## mukta-m0-p79-v1961
-[desire](ratiḥ)
+[pleasure](ratiḥ)
 
 ## mukta-m0-p79-v1962
-[subordinate](adhīnaḥ) [he](saḥ) [also](api) [lord+of+beings](bhūteśaḥ) [of+whom](yasyāḥ) [she](sā) [indeed](hi) [to+desire](rate) [desire](ratiḥ)
+[dependent](adhīnaḥ) [he](saḥ) + [even](api) [lord-of-beings](bhūteśaḥ) [of-whom](yasyāḥ) [she](sā) [indeed](hi) [O-Rati](rate) [pleasure](ratiḥ)
 
 ## mukta-m0-p79-v1963
-[much](bahu) [gold](suvarṇa) [giver](dā)
+[much](bahu) + [gold](suvarṇa) + [giving](dā)
 
 ## mukta-m0-p79-v1964
-[leafless](aparṇā) [also](api) [then](tataḥ) [truth](satyaṃ) [become](bhūtā) [herself](svayam) [here](iha) [goddess](īśvarī)
+[leafless](aparṇā) + [even](api) [therefore](tataḥ) [truly](satyaṃ) [become](bhūtā) [herself](svayam) + [here](iha) + [supreme-goddess](īśvarī)
 
 ## mukta-m0-p79-v1965
-[elephant](mātaṅga) [possessing](inī)
+[Mātaṅginī](mātaṅginī)
 
 ## mukta-m0-p79-v1966
-[elephant](mātaṅginī) [breaking](bhaṅga) [remover](harī) [in+existence](bhave) [may+be](astu)
+[Mātaṅginī](mātaṅginī) [breaking](bhaṅga) + [removing](harī) [in-existence](bhave) + [be](astu)
 
 ## mukta-m0-p79-v1967
-[excellent](vara) [hipped](ārohā)
+[beautiful-hipped](varārohā)
 
 ## mukta-m0-p79-v1968
-[excellent](vara) [hipped](ārohā) [service](sevā) [hundred](śata) [hundred](śata) [of+arts](kalām) [not](na) [deserves](arhati) [of+a+part](kalām)
+[beautiful-hipped](varārohā) + [service](sevā) + [hundred](śata) + [hundred](śata) + [part](kalāṃ) [not](na) + [deserves](arhati) [sixteenth-part](kalām)
 
 ## mukta-m0-p79-v1969
-[intoxicated](matta) [elephant](mātaṅga) [going](gāminī)
+[intoxicated](matta) + [elephant](mātaṅga) + [gait](gāminī)
 
 ## mukta-m0-p79-v1970
-[not](na) [of+him](tasya) [mind](citta) [activity](vṛttiḥ) [may+be](syāt) [other](anya) [state](bhāva) [going+to](abhigāminī)
+[not](na) [of-him](tasya) [mind](citta) + [activity](vṛttiḥ) [may-be](syāt) + [other](anya) + [state](bhāva) + [going](abhigāminī)
 
 ## mukta-m0-p79-v1971
 [violence](hiṃsā)
 
 ## mukta-m0-p79-v1972
-[victory](jayā) [imperishable](avyaye) [she](sā) [may+be](astu) [for+benefit](hitāya) [violence](hiṃsā)
+[victory](jaya) + [defeat](avyaye) [she](sā) + [be](astu) [for-benefit](hitāya) [violence](hiṃsā)
 
 ## mukta-m0-p79-v1973
-[swan](haṃsa) [gait](gatiḥ)
+[swan](haṃsa) + [gait](gatiḥ)
 
 ## mukta-m0-p79-v1974
-[may+be](bhavet) [swan](haṃsa) [gait](gatiḥ) [rightly](samyak) [always](sadā) [more+firm](sthiratarā) [supreme](parā)
+[may-be](bhavet) + [swan](haṃsa) + [gait](gatiḥ) [properly](samyak) [always](sadā) [very-steady](sthiratarā) [supreme](parā)
 
 ## mukta-m0-p79-v1975
-[goose](haṃsī)
+[female-swan](haṃsī)

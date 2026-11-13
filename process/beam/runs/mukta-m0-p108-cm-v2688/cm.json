@@ -3,24 +3,34 @@
  "verse": 2688,
  "rows": [
   {
-   "lemma": "janana+mṛti+vimuktām",
-   "morph": "compound f.acc.sg",
-   "grounds": "compound describing liberation from the cycle of birth and death"
+   "lemma": "dravya",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating property"
   },
   {
-   "lemma": "uttamāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "qualifies liberation as highest"
+   "lemma": "haraṇataḥ",
+   "morph": "n.abl.sg(compound:dravya+haraṇataḥ)",
+   "grounds": "means of taking wealth"
   },
   {
-   "lemma": "muktim",
-   "morph": "f.acc.sg",
-   "grounds": "object attained"
+   "lemma": "tīvra",
+   "morph": "compound-member",
+   "grounds": "qualifies the beatings"
   },
   {
-   "lemma": "eti",
-   "morph": "3.sg.pres.act (i)",
-   "grounds": "states the attainment of liberation"
+   "lemma": "tāḍanaiḥ",
+   "morph": "n.inst.pl",
+   "grounds": "instrument of punishment"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "viśodhayet",
+   "morph": "3.sg.act.optative(√śudh+vi)",
+   "grounds": "prescriptive purification through punishment"
   }
  ]
 }

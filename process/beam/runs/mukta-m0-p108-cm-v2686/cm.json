@@ -3,24 +3,34 @@
  "verse": 2686,
  "rows": [
   {
-   "lemma": "bhakti+priyāya",
-   "morph": "compound m.dat.sg",
-   "grounds": "dative compound indicating love for devotion"
+   "lemma": "nihatya",
+   "morph": "absolutive(√han+ni)",
+   "grounds": "prior act of slaying"
   },
   {
-   "lemma": "bhaktānāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "refers to those devoted to the deity"
+   "lemma": "parameśāni",
+   "morph": "f.voc.sg(compound:parama+īśāni)",
+   "grounds": "vocative address"
   },
   {
-   "lemma": "namaḥ+te",
-   "morph": "indecl. + pron.dat.sg",
-   "grounds": "salutation directed to the deity"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "mukti+dāyine",
-   "morph": "compound m.dat.sg",
-   "grounds": "dative compound naming the deity as giver of liberation"
+   "lemma": "pāpārhaḥ",
+   "morph": "m.nom.sg(compound:pāpa+arhaḥ)",
+   "grounds": "liable to sin"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.act.optative(√bhū)",
+   "grounds": "potential result"
+  },
+  {
+   "lemma": "naraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "the agent"
   }
  ]
 }

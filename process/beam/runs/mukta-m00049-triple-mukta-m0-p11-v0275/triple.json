@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "prāṇāyāma+vidhiḥ",
+     "gloss": "breath-control-method",
+     "grounds": "compound denoting the prescribed procedure of breath regulation",
+     "morph": "prāṇāyāma+vidhi-nom.sg.m"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been taught",
+     "morph": "ppp.nom.sg.m (pra-√vac)"
+    },
+    {
+     "surface": "brahma+mantrasya",
+     "gloss": "of-brahma-mantra",
+     "grounds": "compound specifying the mantra associated with brahma",
+     "morph": "brahma+mantra-gen.sg.m"
+    },
+    {
+     "surface": "sādhane",
+     "gloss": "in-practice",
+     "grounds": "locative indicating the context of ritual accomplishment",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What breath-control procedure is prescribed for the practice of the brahma-mantra?",
+   "premises": [
+    "A sequence of inhalation, retention, and exhalation has been described.",
+    "This sequence is identified as a method of breath-control.",
+    "This method is declared for the practice of the brahma-mantra."
+   ],
+   "inference": "Therefore, the described breath-control sequence constitutes the prescribed procedure for practicing the brahma-mantra.",
+   "uncertainties": [
+    "The exact referent of brahma-mantra is not specified within this verse."
+   ],
+   "plain_english": "This is the declared method of breath-control for the practice of the brahma-mantra."
+  }
+ ]
+}
