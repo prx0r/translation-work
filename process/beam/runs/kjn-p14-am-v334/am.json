@@ -1,16 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 334,
- "question": "Which beings are named as ascetics in this context?",
+ "question": "Which beings are listed as gandharvas, kinnaras, yakshas, asuras, and ascetics?",
  "premises": [
-  "gandharvas are named",
-  "kinnaras are named",
-  "yakṣas and asuras are named",
-  "they are called ascetics"
+  "five groups are enumerated",
+  "they are in nominative plural",
+  "the list is descriptive"
  ],
- "inference": "The verse lists celestial and demonic beings as ascetics.",
+ "inference": "The verse enumerates celestial and ascetic beings.",
  "uncertainties": [
-  "exact doctrinal role"
+  "their role in the larger argument is not stated here"
  ],
- "plain_english": "Gandharvas, kinnaras, yakṣas, and asuras are ascetics."
+ "plain_english": "Gandharvas, kinnaras, yakshas, asuras, and ascetics."
 }

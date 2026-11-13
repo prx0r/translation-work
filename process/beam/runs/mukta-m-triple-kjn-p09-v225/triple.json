@@ -7,39 +7,40 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "numeral in compound count",
-     "morph": "(indecl.)"
+     "grounds": "numeral modifying the thousands",
+     "morph": "f.loc.pl"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
+     "gloss": "thousands",
      "grounds": "locative plural of sahasra",
-     "morph": "loc.pl.n"
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound yoni + yantreṣu, locative plural",
-     "morph": "loc.pl.n"
+     "gloss": "womb-diagrams",
+     "grounds": "compound locative plural",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "passive participle of pīḍ",
-     "morph": "nom.pl.m"
+     "grounds": "passive participle in nominative plural",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "Are beings tormented across eighty-four thousand womb-diagrams in Tantraloka?",
+   "question": "In how many womb-diagrams are beings said to be tormented?",
    "premises": [
-    "Eighty-four thousand womb-diagrams exist.",
-    "Beings are tormented within them.",
-    "Torment occurs in womb-diagrams."
+    "beings are tormented in womb-diagrams",
+    "the count is eighty-four thousand",
+    "the location is plural"
    ],
-   "inference": "The verse states beings suffer in eighty-four thousand womb-diagrams.",
+   "inference": "The verse states eighty-four thousand womb-diagrams as sites of torment.",
    "uncertainties": [
-    "Exact subject is omitted; number may be conventional."
+    "exact gender of pīḍitāḥ is not fully resolved",
+    "whether caturaśīti is declined or indeclinable is unclear"
    ],
-   "plain_english": "Tormented in eighty-four thousand womb-diagrams."
+   "plain_english": "They are tormented in eighty-four thousand womb-diagrams."
   }
  ]
 }

@@ -1,13 +1,14 @@
 {
  "song": "kjn-p16",
  "verse": 393,
- "question": "Which principal deities are included in the vision or dominion described?",
+ "question": "Are Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu included among the beings?",
  "premises": [
-  "Brahma, Vishnu, Yama, and Indra are named",
-  "Varuna is named",
-  "Vayu is named"
+  "Major deities are listed.",
+  "Varuṇa and Vāyu are added."
  ],
- "inference": "The scope includes the great deities Brahma, Vishnu, Yama, Indra, Varuna, and Vayu.",
- "uncertainties": [],
- "plain_english": "Brahma, Vishnu, Yama, and Indra, and also Varuna and Vayu."
+ "inference": "The verse enumerates cosmic deities in this context.",
+ "uncertainties": [
+  "Predicate is omitted."
+ ],
+ "plain_english": "Brahma, Viṣṇu, Yama, Indra, and Varuṇa and Vāyu indeed."
 }

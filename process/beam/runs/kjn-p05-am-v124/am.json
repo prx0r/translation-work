@@ -3,12 +3,13 @@
  "verse": 124,
  "question": "Does poison enter the body even when bitten by great serpents?",
  "premises": [
-  "poison does not enter body",
-  "even serpent bite occurs"
+  "poison is the subject",
+  "body is the locus",
+  "biting by great serpents is mentioned"
  ],
- "inference": "the practitioner is protected from poison",
+ "inference": "poison does not enter the body even if bitten by great serpents",
  "uncertainties": [
-  "scope of protection"
+  "whether daṃśito modifies subject or practitioner"
  ],
  "plain_english": "Poison does not enter the body, even when bitten by great serpents."
 }

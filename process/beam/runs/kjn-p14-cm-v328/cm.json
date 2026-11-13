@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "tasya",
-   "morph": "m.gen.sg",
-   "grounds": "pronoun"
+   "morph": "pron.m.gen.sg",
+   "grounds": "genitive singular"
   },
   {
    "lemma": "mokṣo",
-   "morph": "m.nom.sg",
-   "grounds": "noun"
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular"
   },
   {
    "lemma": "bhavedyastu",
-   "morph": "3.sg.opt + relative",
-   "grounds": "fused conditional relative"
+   "morph": "verb+pron",
+   "grounds": "fused form of bhavet and yas tu"
   },
   {
    "lemma": "pāpapuṇyairna",
-   "morph": "instr.pl + (indecl.)",
-   "grounds": "fused instrumental negation"
+   "morph": "compound+particle",
+   "grounds": "fused form with na"
   },
   {
    "lemma": "lipyate",
-   "morph": "3.sg.pass-pres + root lip",
-   "grounds": "passive verb"
+   "morph": "3.sg.pass-pres+root lip",
+   "grounds": "passive verb lip"
   }
  ]
 }
