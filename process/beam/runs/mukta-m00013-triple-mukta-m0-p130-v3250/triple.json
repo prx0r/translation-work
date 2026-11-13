@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative address commanding attention",
+     "morph": "2.sg.act.impv-√śru"
+    },
+    {
+     "surface": "ṣaṇmukha",
+     "gloss": "o-six-faced-one",
+     "grounds": "vocative epithet addressing the interlocutor",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tattvena",
+     "gloss": "in-truth",
+     "grounds": "specifies the mode of explanation as truthful",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "face",
+     "grounds": "first member of distributive repetition indicating each face in turn",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "face",
+     "grounds": "second member of distributive repetition reinforcing face-by-face treatment",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "according-to",
+     "grounds": "introduces conformity with proper sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramam",
+     "gloss": "order",
+     "grounds": "specifies sequential arrangement of the explanation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "In what manner and sequence will the requested qualities be truthfully explained to the six-faced one?",
+   "premises": [
+    "The six-faced one is directly commanded to listen.",
+    "The explanation is declared to proceed in truth.",
+    "The account is to be given face by face in proper order."
+   ],
+   "inference": "The requested qualities will be disclosed systematically, truthfully, and in sequential order.",
+   "uncertainties": [
+    "The precise referent of each face in this context is not specified within the verse."
+   ],
+   "plain_english": "Listen, O six-faced one: I shall explain it truthfully, face by face, in due order."
+  }
+ ]
+}

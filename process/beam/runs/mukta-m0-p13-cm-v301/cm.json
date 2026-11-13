@@ -3,34 +3,39 @@
  "verse": 301,
  "rows": [
   {
-   "lemma": "mṛta",
-   "morph": "compound-member",
-   "grounds": "refers to a dead person in ritual context"
+   "lemma": "guhya",
+   "morph": "n.nom.sg",
+   "grounds": "formula word naming secrecy"
   },
   {
-   "lemma": "kotthāpanaṃ",
+   "lemma": "atiguhya",
+   "morph": "n.nom.sg",
+   "grounds": "intensified formula word"
+  },
+  {
+   "lemma": "goptrītvam",
    "morph": "n.acc.sg",
-   "grounds": "act of reviving or raising"
+   "grounds": "abstract quality invoked in formula"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.opt.act √kṛ",
-   "grounds": "prescribes ritual action"
-  },
-  {
-   "lemma": "pratimāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "ritual effigy or figure"
-  },
-  {
-   "lemma": "cālayet",
-   "morph": "3.sg.opt.caus.act √cal",
-   "grounds": "causing the image to move"
-  },
-  {
-   "lemma": "tathā",
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "extends the prescribed action"
+   "grounds": "marks quoted formula"
+  },
+  {
+   "lemma": "ādinā",
+   "morph": "m.inst.sg",
+   "grounds": "indicates similar formula words"
+  },
+  {
+   "lemma": "japaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "ritual offering object"
+  },
+  {
+   "lemma": "samarpayet",
+   "morph": "3.sg.opt.act √ṛ+sam",
+   "grounds": "ritual injunction"
   }
  ]
 }

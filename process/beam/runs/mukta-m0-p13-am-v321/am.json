@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p13",
  "verse": 321,
- "question": "What dialogic action does Gaurī perform toward Śaṅkara after bowing with her head?",
+ "question": "Where should cooked food and uncooked food be placed relative to the deity?",
  "premises": [
-  "Gaurī bows with her head.",
-  "Śaṅkara is the recipient of her action.",
-  "She then asks him a question."
+  "Cooked food is specified.",
+  "Uncooked food is specified.",
+  "Cooked food is placed on the deity’s left and uncooked food on the right."
  ],
- "inference": "After bowing with her head, Gaurī asks Śaṅkara.",
- "uncertainties": [],
- "plain_english": "Having bowed with her head, Gaurī asks Śaṅkara."
+ "inference": "Cooked food should be placed on the deity’s left and uncooked food on the right.",
+ "uncertainties": [
+  "The verb of placement is implied from context."
+ ],
+ "plain_english": "Cooked food should be placed on the deity’s left, and uncooked food on the right."
 }

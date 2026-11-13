@@ -3,24 +3,34 @@
  "verse": 324,
  "rows": [
   {
-   "lemma": "kapardinam",
-   "morph": "m.acc.sg",
-   "grounds": "epithet of Śiva as Kapardin"
+   "lemma": "eṣa",
+   "morph": "m.nom.sg",
+   "grounds": "refers to the stated rule"
   },
   {
-   "lemma": "virūpākṣam",
-   "morph": "m.acc.sg",
-   "grounds": "epithet of Śiva as Virūpākṣa"
+   "lemma": "vidhiḥ",
+   "morph": "m.nom.sg",
+   "grounds": "ritual prescription"
   },
   {
-   "lemma": "sarvabhūta",
-   "morph": "compound-member",
-   "grounds": "all creatures; sarva+bhūta compound member"
+   "lemma": "dvijātīnām",
+   "morph": "m.gen.pl",
+   "grounds": "one group to whom the rule applies"
   },
   {
-   "lemma": "bhayāvaham",
-   "morph": "m.acc.sg",
-   "grounds": "bringing fear to all beings; bhaya+āvaha compound"
+   "lemma": "strīśūdrāṇām",
+   "morph": "m.gen.pl (compound: strī+śūdra)",
+   "grounds": "compound naming another group"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects groups"
+  },
+  {
+   "lemma": "vāmataḥ",
+   "morph": "(indecl.)",
+   "grounds": "specifies placement for the latter group"
   }
  ]
 }

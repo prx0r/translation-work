@@ -1,0 +1,1135 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3251,
+   "rows": [
+    {
+     "surface": "ekavaktraḥ",
+     "gloss": "one-faced",
+     "grounds": "compound: eka+vaktra, bearer of one face",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphatic adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmahatyāṃ",
+     "gloss": "brahman-murder",
+     "grounds": "grave sin of killing a brahman",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vyapohati",
+     "gloss": "removes",
+     "grounds": "dispels or destroys",
+     "morph": "3.sg.act-pres √vyapoh"
+    }
+   ],
+   "question": "What grave sin does the one-faced Śiva directly remove?",
+   "premises": [
+    "The one-faced form is Śiva.",
+    "This form acts directly.",
+    "Brahman-murder is a grave sin."
+   ],
+   "inference": "The one-faced Śiva directly removes the sin of brahman-murder.",
+   "uncertainties": [],
+   "plain_english": "The one-faced Śiva directly removes the sin of brahman-murder."
+  },
+  {
+   "verse": 3252,
+   "rows": [
+    {
+     "surface": "trivaktro",
+     "gloss": "three-faced",
+     "grounds": "compound: tri+vaktra, bearer of three faces",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dahanaḥ",
+     "gloss": "fire",
+     "grounds": "epithet meaning burner or fire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphatic adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmahatyāṃ",
+     "gloss": "brahman-murder",
+     "grounds": "grave sin of killing a brahman",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vyapohati",
+     "gloss": "removes",
+     "grounds": "dispels or destroys",
+     "morph": "3.sg.act-pres √vyapoh"
+    }
+   ],
+   "question": "What grave sin does the three-faced fire form directly remove?",
+   "premises": [
+    "The three-faced form is called fire.",
+    "This form acts directly.",
+    "Brahman-murder is a grave sin."
+   ],
+   "inference": "The three-faced fire form directly removes the sin of brahman-murder.",
+   "uncertainties": [
+    "dahanaḥ may be a name or descriptive epithet"
+   ],
+   "plain_english": "The three-faced fire form directly removes the sin of brahman-murder."
+  },
+  {
+   "verse": 3253,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "is-released",
+     "grounds": "freed from bondage or sin",
+     "morph": "3.sg.pass-pres √muc"
+    },
+    {
+     "surface": "sarva+pāpebhyaḥ",
+     "gloss": "from-all-sins",
+     "grounds": "compound: sarva+pāpa, all sins",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "pañcavaktrasya",
+     "gloss": "of-five-faced",
+     "grounds": "compound: pañca+vaktra, the five-faced form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhāraṇāt",
+     "gloss": "by-wearing",
+     "grounds": "act of bearing or wearing",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what does wearing the five-faced form bring release?",
+   "premises": [
+    "Wearing the five-faced form is an act.",
+    "Release occurs through this act.",
+    "All sins are the object of release."
+   ],
+   "inference": "By wearing the five-faced form, one is released from all sins.",
+   "uncertainties": [],
+   "plain_english": "By wearing the five-faced form, one is released from all sins."
+  },
+  {
+   "verse": 3254,
+   "rows": [
+    {
+     "surface": "brahmāhatyā+ādibhiḥ",
+     "gloss": "by-brahman-murder-etc",
+     "grounds": "compound: brahmahatyā+ādi, brahman-murder and others",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pāpair",
+     "gloss": "by-sins",
+     "grounds": "sinful acts",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-released",
+     "grounds": "freed from bondage or sin",
+     "morph": "3.sg.pass-pres √muc"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there any doubt about release from sins beginning with brahman-murder?",
+   "premises": [
+    "Sins beginning with brahman-murder are named.",
+    "Release from these sins is stated.",
+    "Doubt is explicitly denied."
+   ],
+   "inference": "There is no doubt that one is released from sins beginning with brahman-murder.",
+   "uncertainties": [],
+   "plain_english": "One is released from sins such as brahman-murder; there is no doubt about this."
+  },
+  {
+   "verse": 3255,
+   "rows": [
+    {
+     "surface": "gurutalpa+ādibhiḥ",
+     "gloss": "by-guru-bed-etc",
+     "grounds": "compound: gurutalpa+ādi, violating guru's bed and others",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pāpair",
+     "gloss": "by-sins",
+     "grounds": "sinful acts",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-released",
+     "grounds": "freed from bondage or sin",
+     "morph": "3.sg.pass-pres √muc"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there any doubt about release from sins beginning with violating the guru's bed?",
+   "premises": [
+    "Sins beginning with violating the guru's bed are named.",
+    "Release from these sins is stated.",
+    "Doubt is explicitly denied."
+   ],
+   "inference": "There is no doubt that one is released from sins beginning with violating the guru's bed.",
+   "uncertainties": [],
+   "plain_english": "One is released from sins such as violating the guru's bed; there is no doubt about this."
+  },
+  {
+   "verse": 3256,
+   "rows": [
+    {
+     "surface": "pṛṣṭha+udara+kareṇa",
+     "gloss": "with-back-belly-hand",
+     "grounds": "compound: pṛṣṭha+udara+kara, hand on back or belly",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃspṛśet",
+     "gloss": "one-may-touch",
+     "grounds": "possible act of touching",
+     "morph": "3.sg.act-opt √spṛś"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "the teacher",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "striyam",
+     "gloss": "wife",
+     "grounds": "woman or wife",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What contact with the guru's wife is contemplated as possible?",
+   "premises": [
+    "Touching the guru's wife is mentioned.",
+    "The touch may be with hand on back or belly.",
+    "The act is presented as a possible case."
+   ],
+   "inference": "Even touching the guru's wife with the back, belly, or hand is contemplated.",
+   "uncertainties": [
+    "exact bodily configuration implied by pṛṣṭha+udara+kareṇa is ambiguous"
+   ],
+   "plain_english": "One may even touch the guru's wife with the back, belly, or hand."
+  },
+  {
+   "verse": 3257,
+   "rows": [
+    {
+     "surface": "vighnāḥ",
+     "gloss": "obstacles",
+     "grounds": "hindrances",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to that person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "are-destroyed",
+     "grounds": "perish or vanish",
+     "morph": "3.pl.act-pres √naś"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "liberated",
+     "grounds": "freed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "attains or proceeds",
+     "morph": "3.sg.act-pres √yā"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "to-supreme",
+     "grounds": "highest",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "state",
+     "grounds": "goal or destination",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What two outcomes follow for that person despite such contact?",
+   "premises": [
+    "Obstacles belonging to that person are destroyed.",
+    "The person becomes liberated.",
+    "The supreme state is attained."
+   ],
+   "inference": "For that person, obstacles are destroyed and, being liberated, he attains the supreme state.",
+   "uncertainties": [
+    "connection to the previous verse's case is implied by context"
+   ],
+   "plain_english": "His obstacles are destroyed, and being liberated he goes to the supreme state."
+  },
+  {
+   "verse": 3258,
+   "rows": [
+    {
+     "surface": "navavaktro",
+     "gloss": "nine-faced",
+     "grounds": "compound: nava+vaktra, bearer of nine faces",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhairavaḥ",
+     "gloss": "bhairava",
+     "grounds": "form of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "possible identity or state",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "dhārayed",
+     "gloss": "one-should-wear",
+     "grounds": "prescribed act of wearing",
+     "morph": "3.sg.act-opt √dhṛ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "on-left",
+     "grounds": "left side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhuje",
+     "gloss": "arm",
+     "grounds": "arm as place of wearing",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How may the nine-faced Bhairava form be worn on the body?",
+   "premises": [
+    "The nine-faced form is identified as Bhairava.",
+    "Wearing it is prescribed.",
+    "The left arm is specified as a location."
+   ],
+   "inference": "The nine-faced Bhairava may be worn on the left arm.",
+   "uncertainties": [
+    "syāt may indicate identity or possibility alongside the wearing instruction"
+   ],
+   "plain_english": "The nine-faced form is Bhairava; one should wear it on the left arm."
+  },
+  {
+   "verse": 3259,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to what is to be burned",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "entirety",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dahate",
+     "gloss": "burns",
+     "grounds": "consumes or destroys",
+     "morph": "3.sg.act-pres √dah"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "without delay",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navavaktrasya",
+     "gloss": "of-nine-faced",
+     "grounds": "compound: nava+vaktra, the nine-faced form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhāraṇāt",
+     "gloss": "by-wearing",
+     "grounds": "act of bearing or wearing",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What effect does wearing the nine-faced form quickly produce?",
+   "premises": [
+    "Wearing the nine-faced form is the cause.",
+    "The effect is burning or destruction.",
+    "The effect is total and swift."
+   ],
+   "inference": "By wearing the nine-faced form, it quickly burns all that.",
+   "uncertainties": [
+    "referent of tat sarvaṃ is context-dependent"
+   ],
+   "plain_english": "By wearing the nine-faced form, it quickly burns all that."
+  },
+  {
+   "verse": 3260,
+   "rows": [
+    {
+     "surface": "pannagāḥ",
+     "gloss": "serpents",
+     "grounds": "snakes",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyanti",
+     "gloss": "are-destroyed",
+     "grounds": "perish",
+     "morph": "3.pl.act-pres √naś"
+    },
+    {
+     "surface": "daśavaktrasya",
+     "gloss": "of-ten-faced",
+     "grounds": "compound: daśa+vaktra, the ten-faced form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhāraṇāt",
+     "gloss": "by-wearing",
+     "grounds": "act of bearing or wearing",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What threat is destroyed by wearing the ten-faced form?",
+   "premises": [
+    "Wearing the ten-faced form is the cause.",
+    "Serpents are named as affected.",
+    "Destruction of serpents is the result."
+   ],
+   "inference": "By wearing the ten-faced form, serpents are destroyed.",
+   "uncertainties": [],
+   "plain_english": "By wearing the ten-faced form, serpents are destroyed."
+  },
+  {
+   "verse": 3261,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to previously mentioned result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or benefit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equally",
+     "grounds": "in the same measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "gains or attains",
+     "morph": "3.sg.act-pres √āp"
+    },
+    {
+     "surface": "vaktra+ekādaśa",
+     "gloss": "of-eleven-faced",
+     "grounds": "compound: vaktra+ekādaśa, eleven-faced form",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhāraṇāt",
+     "gloss": "by-wearing",
+     "grounds": "act of bearing or wearing",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What result is obtained by wearing the eleven-faced form?",
+   "premises": [
+    "Wearing the eleven-faced form is the cause.",
+    "A previously mentioned fruit is referenced.",
+    "The fruit is obtained equally."
+   ],
+   "inference": "By wearing the eleven-faced form, one obtains that same fruit.",
+   "uncertainties": [
+    "the specific fruit referred to by tat phalaṃ depends on prior context"
+   ],
+   "plain_english": "By wearing the eleven-faced form, one obtains that same fruit."
+  },
+  {
+   "verse": 3262,
+   "rows": [
+    {
+     "surface": "ādityas",
+     "gloss": "āditya",
+     "grounds": "the sun deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tuṣyate",
+     "gloss": "is-pleased",
+     "grounds": "becomes satisfied",
+     "morph": "3.sg.pass-pres √tuṣ"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "continually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa+arkā",
+     "gloss": "twelve-suns",
+     "grounds": "compound: dvādaśa+arka, the twelve suns",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "are-established",
+     "grounds": "are present or arranged",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What divine satisfaction and presence accompany the twelve-faced context?",
+   "premises": [
+    "Āditya is pleased.",
+    "The pleasure is continual.",
+    "The twelve suns are established."
+   ],
+   "inference": "Āditya is always pleased, and the twelve suns are established.",
+   "uncertainties": [
+    "connection to wearing a twelve-faced form is implied but not explicit in this verse"
+   ],
+   "plain_english": "Āditya is always pleased, and the twelve suns are established."
+  },
+  {
+   "verse": 3263,
+   "rows": [
+    {
+     "surface": "caturdaśa+āsyaḥ",
+     "gloss": "fourteen-faced",
+     "grounds": "compound: caturdaśa+āsya, bearer of fourteen faces",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaṃśa+uddhārakaraḥ",
+     "gloss": "lineage-uplifting",
+     "grounds": "compound: vaṃśa+uddhāra+kara, causing uplift of lineage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "highest or excellent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What supreme benefit is attributed to the fourteen-faced form?",
+   "premises": [
+    "The fourteen-faced form is named.",
+    "It uplifts the lineage.",
+    "It is described as supreme."
+   ],
+   "inference": "The fourteen-faced form is supreme and uplifts the lineage.",
+   "uncertainties": [],
+   "plain_english": "The fourteen-faced form is supreme and uplifts the lineage."
+  },
+  {
+   "verse": 3264,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bīja/mantra syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍaṃ",
+     "gloss": "ḍaṃ",
+     "grounds": "bīja/mantra syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "māṃ",
+     "grounds": "bīja/mantra syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|",
+     "gloss": "separator",
+     "grounds": "punctuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "14",
+     "gloss": "fourteen",
+     "grounds": "numerical marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|",
+     "gloss": "separator",
+     "grounds": "punctuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra syllables and marker are given for the fourteen-faced form?",
+   "premises": [
+    "Mantra syllables are presented.",
+    "A numerical marker follows.",
+    "The marker indicates fourteen."
+   ],
+   "inference": "The syllables oṃ ḍaṃ māṃ and the marker 14 are given.",
+   "uncertainties": [
+    "ritual application of the syllables is not specified here"
+   ],
+   "plain_english": "oṃ ḍaṃ māṃ | 14 |"
+  },
+  {
+   "verse": 3265,
+   "rows": [
+    {
+     "surface": "prāyaścittam",
+     "gloss": "expiation",
+     "grounds": "atonement rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tantra+uktam",
+     "gloss": "taught-in-tantra",
+     "grounds": "compound: tantra+ukta, stated in tantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "numerical quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantra+jāpataḥ",
+     "gloss": "by-mantra-recitation",
+     "grounds": "compound: mantra+jāpa, recitation of mantra",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What expiation taught in tantra is accomplished through mantra recitation?",
+   "premises": [
+    "Expiation is taught in tantra.",
+    "Mantra recitation is the means.",
+    "Ten thousand recitations are specified."
+   ],
+   "inference": "The tantra-taught expiation is ten thousand mantra recitations.",
+   "uncertainties": [],
+   "plain_english": "The expiation taught in the tantra is ten thousand recitations of the mantra."
+  },
+  {
+   "verse": 3266,
+   "rows": [
+    {
+     "surface": "upacāra+vidhau",
+     "gloss": "in-offering-procedure",
+     "grounds": "compound: upacāra+vidhi, procedure of offerings",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to following substances",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dravyam",
+     "gloss": "substance",
+     "grounds": "ritual material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āhuḥ",
+     "gloss": "they-call",
+     "grounds": "declare or state",
+     "morph": "3.pl.act-perf √ah"
+    },
+    {
+     "surface": "manīṣiṇaḥ",
+     "gloss": "the-wise",
+     "grounds": "knowledgeable authorities",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who declares the proper substances for the procedure of offerings?",
+   "premises": [
+    "A procedure of offerings is the context.",
+    "Substances are being specified.",
+    "The wise declare these substances."
+   ],
+   "inference": "In the procedure of offerings, the wise declare this substance.",
+   "uncertainties": [
+    "etat dravyam may introduce a list detailed in following verses"
+   ],
+   "plain_english": "In the procedure of offerings, the wise declare this substance."
+  },
+  {
+   "verse": 3267,
+   "rows": [
+    {
+     "surface": "daghnā",
+     "gloss": "with-curd",
+     "grounds": "curd as ingredient",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pala+ekam",
+     "gloss": "one-pala",
+     "grounds": "compound: pala+eka, one pala measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "clean or untainted",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāri",
+     "gloss": "water",
+     "grounds": "water",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "came",
+     "gloss": "in-vessel",
+     "grounds": "in a cup or vessel",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What measured mixture of curd and pure water is placed in a vessel?",
+   "premises": [
+    "Curd and pure water are specified.",
+    "One pala is the measure.",
+    "The mixture is placed in a vessel."
+   ],
+   "inference": "One pala of pure water together with curd is placed in a vessel.",
+   "uncertainties": [
+    "whether the pala measure applies to water, curd, or both is not fully explicit"
+   ],
+   "plain_english": "One pala of pure water together with curd is likewise placed in a vessel."
+  },
+  {
+   "verse": 3268,
+   "rows": [
+    {
+     "surface": "nirmalena+udakena",
+     "gloss": "with-pure-water",
+     "grounds": "compound: nirmala+udaka, clean water",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all cases or places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paripūrṇatā",
+     "gloss": "complete-filling",
+     "grounds": "state of being fully filled",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What condition is achieved everywhere using pure water?",
+   "premises": [
+    "Pure water is used.",
+    "The action applies everywhere.",
+    "Complete filling is the result."
+   ],
+   "inference": "Then, with pure water, there is complete filling everywhere.",
+   "uncertainties": [
+    "what is to be filled is supplied by ritual context"
+   ],
+   "plain_english": "Then, with pure water, there should be complete filling everywhere."
+  },
+  {
+   "verse": 3269,
+   "rows": [
+    {
+     "surface": "vitasti+mātrāt",
+     "gloss": "more-than-a-span",
+     "grounds": "compound: vitasti+mātra, measure of a span",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "greater",
+     "grounds": "exceeding",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāsaḥ+yugmam",
+     "gloss": "pair-of-garments",
+     "grounds": "compound: vāsaḥ+yugma, two garments",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nūtanam",
+     "gloss": "new",
+     "grounds": "fresh or unused",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of garment pair is specified for the offering procedure?",
+   "premises": [
+    "A pair of garments is required.",
+    "The garments must be new.",
+    "Their size exceeds a span."
+   ],
+   "inference": "A new pair of garments greater than a span in measure is specified.",
+   "uncertainties": [
+    "exact dimension implied by vitasti+mātrāt adhikaṃ is approximate"
+   ],
+   "plain_english": "And a new pair of garments, greater than a span in measure."
+  },
+  {
+   "verse": 3270,
+   "rows": [
+    {
+     "surface": "candana+aguru+karpūra",
+     "gloss": "sandal-aloes-camphor",
+     "grounds": "compound: candana+aguru+karpūra, fragrant substances",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṅka+gandhaḥ",
+     "gloss": "paste-fragrance",
+     "grounds": "compound: paṅka+gandha, fragrant paste",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pala+avadhiḥ",
+     "gloss": "up-to-a-pala",
+     "grounds": "compound: pala+avadhi, limited to one pala",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fragrant paste and quantity limit are prescribed for offerings?",
+   "premises": [
+    "Sandal, aloes, and camphor are named.",
+    "They form a fragrant paste.",
+    "The quantity is limited to one pala."
+   ],
+   "inference": "A fragrant paste of sandal, aloes, and camphor up to one pala is prescribed.",
+   "uncertainties": [],
+   "plain_english": "A fragrant paste of sandal, aloes, and camphor, up to one pala."
+  },
+  {
+   "verse": 3271,
+   "rows": [
+    {
+     "surface": "kāṃsya+ādi+nirmite",
+     "gloss": "in-bell-metal-etc-made",
+     "grounds": "compound: kāṃsya+ādi+nirmita, made of bell-metal and others",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "vessel",
+     "grounds": "container",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhūpo",
+     "gloss": "incense",
+     "grounds": "incense offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guggulu+karṣa+bhāk",
+     "gloss": "guggulu-one-karṣa",
+     "grounds": "compound: guggulu+karṣa+bhāj, consisting of one karṣa of guggulu",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What incense quantity and vessel are prescribed for the offering?",
+   "premises": [
+    "A vessel made of bell-metal or similar material is specified.",
+    "Incense is the offering.",
+    "One karṣa of guggulu is the measure."
+   ],
+   "inference": "Incense consisting of one karṣa of guggulu is placed in a vessel made of bell-metal or the like.",
+   "uncertainties": [],
+   "plain_english": "Incense consisting of one karṣa of guggulu, in a vessel made of bell-metal or the like."
+  },
+  {
+   "verse": 3272,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "offered food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "of different kinds",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vastu",
+     "gloss": "substance",
+     "grounds": "item or material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhakṣya+ādi+ka+caturvidham",
+     "gloss": "eatables-etc-fourfold",
+     "grounds": "compound: bhakṣya+ādi+ka+caturvidha, fourfold including eatables etc.",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kinds of food offering are prescribed in fourfold variety?",
+   "premises": [
+    "A food offering is required.",
+    "It consists of various substances.",
+    "It is fourfold, including eatables and others."
+   ],
+   "inference": "The food offering should be various and fourfold, including eatables and other types.",
+   "uncertainties": [
+    "the exact four categories implied by caturvidham are not enumerated here"
+   ],
+   "plain_english": "The food offering should be of various substances, fourfold, including eatables and so on."
+  },
+  {
+   "verse": 3273,
+   "rows": [
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "should be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāmra+ādi+pātre",
+     "gloss": "in-copper-etc-vessel",
+     "grounds": "compound: tāmra+ādi+pātra, vessel of copper and others",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prītaye",
+     "gloss": "for-pleasure",
+     "grounds": "for satisfaction",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vanamālinaḥ",
+     "gloss": "of-vanamālin",
+     "grounds": "epithet of Viṣṇu, wearer of forest garland",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "For whose pleasure should that offering be made in a copper vessel?",
+   "premises": [
+    "The offering is to be made.",
+    "It is placed in a vessel of copper or similar material.",
+    "It is for the pleasure of Vanamālin."
+   ],
+   "inference": "That offering should be made in a copper or similar vessel for the pleasure of Vanamālin.",
+   "uncertainties": [],
+   "plain_english": "That should be done in a vessel of copper or the like, for the pleasure of Vanamālin."
+  },
+  {
+   "verse": 3274,
+   "rows": [
+    {
+     "surface": "uttamaḥ",
+     "gloss": "highest",
+     "grounds": "best or supreme",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "refers to the described procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "ritual rule or method",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vibhave",
+     "gloss": "when-wealth-exists",
+     "grounds": "when resources are available",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "existing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "at all times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition is this highest procedure always declared applicable?",
+   "premises": [
+    "This procedure is declared highest.",
+    "Its application depends on available wealth.",
+    "It is said to apply always when wealth exists."
+   ],
+   "inference": "This highest procedure is declared to be followed always when wealth is available.",
+   "uncertainties": [],
+   "plain_english": "This highest procedure is declared to be followed always when sufficient wealth is available."
+  }
+ ]
+}
