@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[again](bhūyaḥ) [said](prāha) [serene-soul](prasannātmā) [having-bowed](praṇamya) [folded-hands](racitā'ñjaliḥ)
+[again](bhūyaḥ) [spoke](prāha) [pleased-soul](prasanna+ātmā) [having-bowed](praṇamya) [with-joined-palms](racita+añjaliḥ)
 
 ## mukta-m0-p97-v2402
-[became](abhavaṃ) [freed-from-doubt](muktasandehaḥ) [something](kiñcit) [ask](pṛcchāmi) [indeed](vai) [again](punaḥ)
+[I-became](abhavam) [freed-from-doubt](mukta+sandehaḥ) [something](kiñcit) [I-ask](pṛcchāmi) [indeed](vai) [again](punaḥ)
 
 ## mukta-m0-p97-v2403
-[doing](kurvannityakriyāṃ) [by-whom](kena) [specially](viśeṣeṇa) [indeed](hi) [by-action](karmaṇā)
+[performing](kurvan) [daily-rite](nitya+kriyām) [by-which](kena) [special](viśeṣeṇa) [indeed](hi) [action](karmaṇā)
 
 ## mukta-m0-p97-v2404
-[that-to-me](tanme) [explain](samācakṣva) [teacher](guro) [with-compassion](kṛpayā) [in-me](mayi) [servant](sevake)
+[that](tat) [to-me](me) [explain-fully](samācakṣva) [O-guru](guro) [by-compassion](kṛpayā) [toward-me](mayi) [servant](sevake)
 
 ## mukta-m0-p97-v2405
-[hear](śṛṇu) [rama](rāma) [great-secret](mahāguhyaṃ) [tripura-pleasing-causing](tripurāprītikārakam)
+[listen](śṛṇu) [O-Rāma](rāma) [great-secret](mahā+guhyam) [causing-delight-to-Tripurā](tripurā+prīti+kārakam)
 
 ## mukta-m0-p97-v2406
-[not-with-offerings](naivedaistu) [ganesha-lord](gaṇeśāno'laṅkārāddharireva) [and](ca)
+[by-food-offerings](naivedaiḥ) [indeed](tu) [Gaṇeśa](gaṇeśānaḥ) [by-ornamentation](alaṅkārāt) [Hari](hariḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p97-v2407
-[supreme-power](parāśaktirmaheśānī) [there](tatra) [best](sarvottamaṃ) [hear](śṛṇu)
+[Supreme-Śakti](parā+śaktiḥ) [Great-Goddess](mahā+īśānī) [there](tatra) [the-best-of-all](sarva+uttamam) [listen](śṛṇu)
 
 ## mukta-m0-p97-v2408
-[there](tatra) [sri-cakra-king](śrīcakrarājaṃ) [or](vā) [image](mūrtiṃ) [or-even](vā'pi) [well-marked](sulakṣaṇām)
+[there](tatra) [the-royal-Śrīcakra](śrī+cakra+rājam) [or](vā) [image](mūrtim) [or](vā) [also](api) [well-marked](su+lakṣaṇām)
 
 ## mukta-m0-p97-v2409
-[worship](pūjayet) [five-times](pañcakālaṃ) [or](vā) [four-three-two-one-times](catustrirdvyekakālakam)
+[one-should-worship](pūjayet) [five-times](pañca+kālam) [or](vā) [four-three-two-one-times](catuḥ+triḥ+dvi+eka+kālakam)
 
 ## mukta-m0-p97-v2410
-[daily](nityaṃ) [or](vā) [two-three-one-times](dvitryekakālaṃ) [five-times-and](pañcakālañca) [on-festivals](parvasu)
+[daily](nityam) [or](vā) [two-three-one-times](dvi+tri+eka+kālam) [and-five-times](pañca+kālam) [and](ca) [on-festivals](parvasu)
 
 ## mukta-m0-p97-v2411
-[by-chariot](rathena) [by-vehicles](vāhanairyānairutsavapratimāṃ) [outside](bahiḥ)
+[with-chariot](rathena) [with-vehicles](vāhanaiḥ) [with-processions](yānaiḥ) [the-festival-image](utsava+pratimām) [outside](bahiḥ)
 
 ## mukta-m0-p97-v2412
-[thus](evaṃ) [who](yaḥ) [does](kurute) [in-world](loke) [he](sa) [resides-in-sripura-interior](vasecchrīpurā'ntare)
+[thus](evam) [who](yaḥ) [does](kurute) [in-the-world](loke) [he](saḥ) [dwells](vaset) [within-Śrīpura](śrī+purā+antare)
 
 ## mukta-m0-p97-v2413
-[unable](asamartho'nyavihite) [establish](sthāpayeścakranāyakam)
+[if-unable](asamarthaḥ) [in-another-prescribed-place](anya+vihite) [one-should-establish](sthāpayet) [the-lord-of-the-cakra](cakra+nāyakam)
 
 ## mukta-m0-p97-v2414
-[not](na) [his](tasya) [return](punarāvṛttiḥ) [liberation](sāyujyaṃ) [obtains](vindate) [gradually](kramāt)
+[not](na) [of-him](tasya) [rebirth](punaḥ+āvṛttiḥ) [union](sāyujyam) [he-attains](vindate) [gradually](kramāt)
 
 ## mukta-m0-p97-v2415
-[where](yatra) [be](syāt) [fixed](sthāvaraṃ) [yantra](yantraṃ) [dwelling](nivasaṃstatsamīpataḥ)
+[where](yatra) [may-be](syāt) [immovable](sthāvaram) [yantra](yantram) [dwelling](nivasan) [near-that](tat+samīpataḥ)
 
 ## mukta-m0-p97-v2416
-[worshipper](upāsakastu) [indeed](jānīyāttatkṣetraṃ) [superior-everywhere](sarvato'dhikam)
+[the-worshipper](upāsakaḥ) [indeed](tu) [should-know](jānīyāt) [that-place](tat+kṣetram) [superior-to-all](sarvataḥ+adhikam)
 
 ## mukta-m0-p97-v2417
-[worship](pūjayet) [fixed](sthāvaraṃ) [cakra](ckraṃ) [image](mūrtiṃ) [or](vā) [devotion-first](bhaktipūrvakam)
+[one-should-worship](pūjayet) [the-immovable](sthāvaram) [cakra](cakram) [or](vā) [image](mūrtim) [with-devotion](bhakti+pūrvakam)
 
 ## mukta-m0-p97-v2418
-[fruit](phalaṃ) [brings](samāvahellakṣaguṇaṃ) [rama](rāma) [no](na) [doubt](saṃśayaḥ)
+[fruit](phalam) [one-obtains](samāvahet) [hundred-thousand-fold](lakṣa+guṇam) [O-Rāma](rāma) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p97-v2419
-[that-place](tatttsthāne) [meditating](bhāvayan) [indeed](vai) [great-fruit-completion](mahāphalasamāptaye)
+[in-that-place](tat+sthāne) [contemplating](bhāvayan) [indeed](vai) [for-attainment-of-great-fruit](mahā+phala+samāptaye)
 
 ## mukta-m0-p97-v2420
-[sun-self-born](sūryā'tmabhūtāstasyāṃ'sāḥ) [all-world-pleasing](sarvalokaprasādakāḥ)
+[consisting-of-the-sun](sūrya+ātma+bhūtāḥ) [of-her](tasya) [rays](aṃśāḥ) [delighting-all-worlds](sarva+loka+prasādakāḥ)
 
 ## mukta-m0-p97-v2421
-[tripura's](tripurāyāḥ) [supreme-power](parāśakteḥ) [retinue-named-deities](parivārākhyadevatāḥ)
+[of-Tripurā](tripurāyāḥ) [of-the-Supreme-Śakti](parā+śakteḥ) [deities-called-retinue](parivāra+ākhya+devatāḥ)
 
 ## mukta-m0-p97-v2422
-[in-her](tasyāṃ'śabhūtāḥ) [part-born](sarvā) [all](vai) [indeed](tasmāt) [therefore](pūjyā) [worshipable](yathāvidhī)
+[consisting-of-her-parts](tasya+aṃśa+bhūtāḥ) [all](sarvāḥ) [indeed](vai) [therefore](tasmāt) [to-be-worshipped](pūjyāḥ) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p97-v2423
-[thus](tathaiva'vṛtiśaktīnāmaikyātmā) [indeed](tripurā) [considered](matā)
+[likewise](tathā+eva) [of-the-enclosing-śaktis](āvṛti+śaktīnām) [of-one-essence](aikya+ātmā) [Tripurā](tripurā) [is-regarded](matā)
 
 ## mukta-m0-p97-v2424
-[somehow](yathākathañcidvā) [or](pūjyā) [worshipable](sthāvare) [fixed](parameśvarī) [supreme-goddess](parameśvarī)
+[in-whatever-way](yathā+kathañcit) [or](vā) [to-be-worshipped](pūjyā) [in-the-immovable](sthāvare) [the-Supreme-Goddess](parama+īśvarī)
 
 ## mukta-m0-p97-v2425
-[that](tamātmaghnaṃ) [self-killer](vijānīyāt) [know](sarvalokavininditam) [all-world-condemned](sarvalokavininditam)
+[him](tam) [self-destroyer](ātma+ghnam) [one-should-know](vijānīyāt) [censured-by-all-the-world](sarva+loka+vininditam)

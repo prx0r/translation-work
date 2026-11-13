@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[nityam](nityaṃ) [dhanam](dhanaṃ) [dhana](dhana) [vivṛddhi](vivṛddhi) [dam](dam)
+[always](nityaṃ) [wealth](dhanaṃ) [wealth+increase+giving](dhana+vivṛddhi+dam)
 
 ## mukta-m0-p03-v52
-[putra](putra) [vivṛddhiḥ](vivṛddhiḥ) [syāt](syād) [bandhau](bandhau) [bāndhava-vat](bāndhavavat) [priyam](priyam)
+[son](putra) [increase](vivṛddhiḥ) [should-be](syād) [in-kin](bandhau) [like-kinsman](bāndhava+vat) [dear](priyam)
 
 ## mukta-m0-p03-v53
-[tathā](tathā) [rudre](rudre) [grahe](grahe) [netre](netre) [yuge](yuge) [ravau](ravau)
+[likewise](tathā) [in-rudra](rudre) [in-planet](grahe) [in-eye](netre) [in-pair](yuge) [in-sun](ravau)
 
 ## mukta-m0-p03-v54
-[ca](ca) [śaracandre](śaracandre) [trayodaśe](trayodaśe)
+[and](ca) [in-arrow+moon](śara+candre) [in-thirteenth](trayodaśe)
 
 ## mukta-m0-p03-v55
-[matimān](matimān) [vidyāt](vidyāt) [siddhādikam](siddhādikaṃ) [tataḥ](tataḥ)
+[the-wise-one](matimān) [should-know](vidyāt) [siddha+etc](siddha+ādikaṃ) [then](tataḥ)
 
 ## mukta-m0-p03-v56
-[mantra-ādi-arṇa-catuḥ-koṣṭha-paryantam](mantrādyarṇacatuḥkoṣṭhaparyantaṃ) [gaṇayet](gaṇayed) [budhaḥ](budhaḥ)
+[mantra+first+syllable](mantra+ādi+arṇa) [four+cell](catuḥ+koṣṭha) [up-to](paryantaṃ) [should-count](gaṇayet) [the-wise](budhaḥ)
 
 ## mukta-m0-p03-v57
-[kālena](kālena) [sādhyaḥ](sādhyastu) [tu](tu) [japa-homataḥ](japahomataḥ)
+[by-time](kālena) [to-be-accomplished](sādhyaḥ) [but](tu) [by-japa+oblation](japa+homa+taḥ)
 
 ## mukta-m0-p03-v58
-[gaṇayet](gaṇayen) [mantrī](mantrī) [nāma-koṣṭha-anusārataḥ](nāmakoṣṭhānusārataḥ)
+[should-count](gaṇayet) [the-practitioner](mantrī) [name+cell](nāma+koṣṭha) [according-to](anusārataḥ)
 
 ## mukta-m0-p03-v59
-[yathoktena](yathoktena) [dviguṇāt](dviguṇāt) [siddha-sādhyakaḥ](siddhasādhyakaḥ)
+[as-stated](yathā+uktena) [by-double](dviguṇāt) [siddha+sādhya](siddha+sādhyakaḥ)
 
 ## mukta-m0-p03-v60
-[dviguṇāt](dviguṇāt) [sādhya-siddhaḥ](sādhyasiddhastu) [tu](tu) [sādhya-sādhyaḥ](sādhyasādhyo) [nirarthakaḥ](nirarthakaḥ)
+[by-double](dviguṇāt) [sādhya+siddha](sādhya+siddhaḥ) [but](tu) [sādhya+sādhya](sādhya+sādhyaḥ) [useless](nirarthakaḥ)
 
 ## mukta-m0-p03-v61
-[ratha-ātmahā](rathātmahā)
+[from-chariot](rathāt) [great](mahā)
 
 ## mukta-m0-p03-v62
-[rāśi-śuddhiḥ](rāśiśuddhiḥ) [syāt](syāda) [vārāhī-tantram](vārāhītantram) [abravīt](abravīt)
+[zodiac+purity](rāśi+śuddhiḥ) [should-be](syāt) [vārāhī+tantra](vārāhī+tantram) [spoke](abravīt)
 
 ## mukta-m0-p03-v63
-[dhīmadbhiḥ](dhīmadbhir) [vaiphalyam](vaiphalyaṃ) [yad](yad) [ataḥ](ataḥ) [anyathā](anyathā)
+[by-the-wise](dhīmadbhiḥ) [fruitlessness](vaiphalyaṃ) [because](yat) [therefore](ataḥ) [otherwise](anyathā)
 
 ## mukta-m0-p03-v64
-[pratyagāyatāḥ](pratyagāyatāś) [ca](ca) [evaṃ](evaṃ) [bhānu-rekhāḥ](bhānurekhāḥ) [prakalpayet](prakalpayet)
+[backward+going](pratyag+āyatāḥ) [and](ca) [thus](evaṃ) [sun+lines](bhānu+rekhāḥ) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p03-v65
-[ṣaṭsu](ṣaṭsve) [ekam](ekam) [ekam](ekam) [ālikhya](ālikhya) [kādi-hāntam](kādihāntaṃ) [tataḥ](tato) [akṣaram](akṣaram)
+[six](ṣaṭ) [with-one](sa+ekam) [one](ekam) [having-written](ālikhya) [ka+beginning+ha+ending](ka+ādi+ha+antaṃ) [then](tataḥ) [syllable](akṣaram)
 
 ## mukta-m0-p03-v66
-[dig-bhū-giri-śruti-gaja-rāma-ṛṣi-abdhi-ṣaṭ-trikaiḥ](digbhūgiriśrutigajarāmarṣiṣvabdhiṣaṭatrikaiḥ)
+[by-directions+earth+mountains+vedas](dig+bhū+giri+śruti) [elephants+gods+sages](gaja+rāma+ṛṣiṣu) [oceans+six+triads](abdhi+ṣaṭ+trikaiḥ)
 
 ## mukta-m0-p03-v67
-[indra-nakṣatra-nayana-ravi-pañcadaśa-turbhiḥ](indranakṣatranayanaravipañcadaśaturbhiḥ)
+[by-indra+constellations+eyes+suns](indra+nakṣatra+nayana+ravi) [fifteen+four](pañcadaśa+turbhiḥ)
 
 ## mukta-m0-p03-v68
-[nāma-arṇa-koṣṭha-aṅkam](nāmārṇakoṣṭhāṅkam) [athaḥ](atho) [ādya-anta-nihitam](ādyāntanihitaṃ) [kramāt](kramāt)
+[name+syllable+cell+number](nāma+arṇa+koṣṭha+aṅkam) [then](athaḥ) [beginning+end+placed](ādi+anta+nihitaṃ) [in-order](kramāt)
 
 ## mukta-m0-p03-v69
-[paryavasannāḥ](paryavasannāste) [te](te) [guṇa-kāṅkāḥ](guṇakāṅkāḥ) [samāsataḥ](samāsataḥ)
+[ending](paryavasannāḥ) [they-are](te) [multiplier+numbers](guṇaka+aṅkāḥ) [in-brief](samāsataḥ)
 
 ## mukta-m0-p03-v70
-[tat-tat](tattattu) [tu](tu) [naga-bhū-bhānu-nimnagāḥ](nagabhūbhānunimnagāḥ)
+[that+that](tat+tat) [mountain+earth+sun](naga+bhū+bhānu) [rivers](nimnagāḥ)
 
 ## mukta-m0-p03-v71
-[jñātvā](jñātvobhayor) [ubhayoḥ](ubhayor) [ṛṇam](ṛṇaṃ) [vidyāt](vidyāt) [adhikam](adhikaṃ) [śeṣam](śeṣam) [aṅkavit](aṅkavit)
+[having-known](jñātvā) [of-both](ubhayoḥ) [debt](ṛṇaṃ) [one-should-know](vidyāt) [greater](adhikaṃ) [remainder](śeṣam) [number+knower](aṅka+vit)
 
 ## mukta-m0-p03-v72
-[dṛśyeta](dṛśyeta) [saḥ](so) [adhama-ṛṇaḥ](adhamarṇaḥ) [prakīrtitaḥ](prakīrtitaḥ)
+[is-seen](dṛśyeta) [that](saḥ) [lesser+debt](adhama+ṛṇaḥ) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p03-v73
-[tad-bhāve](tadbhāve) [samadhanaṃ](samadhanaṃ) [dhanikam](dhanikaṃ) [na](na) [kadācana](kadācana)
+[in-its-absence](tad+bhāve) [equal+wealth](sama+dhanam) [wealthy](dhanikaṃ) [not](na) [ever](kadācana)
 
 ## mukta-m0-p03-v74
-[varṇam](varṇamādāya) [ādāya](ādāya) [paramam](paramaṃ) [tu](tu) [ye](ye)
+[syllable](varṇam) [having-taken](ādāya) [highest](paramaṃ) [but](tu) [those-who](ye)
 
 ## mukta-m0-p03-v75
-[saptabhiḥ](saptabhir) [guṇanīyāḥ](guṇanīyāstu) [tu](tu) [haraṇīyāḥ](haraṇīyāstribhistribhiḥ) [tribhiḥ](tribhiḥ) [tribhiḥ](tribhiḥ)
+[by-seven](saptabhiḥ) [to-be-multiplied](guṇanīyāḥ) [but](tu) [to-be-divided](haraṇīyāḥ) [by-three+by-three](tribhiḥ+tribhiḥ)

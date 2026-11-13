@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "sahasranāmapāṭhaśca",
+     "gloss": "thousand-name-recitation-and",
+     "grounds": "Compound of sahasra (thousand), nāma (name), and pāṭha (recitation), with enclitic ca (and) indicating conjunction with the following item.",
+     "morph": "compound (sahasra+nāma+pāṭha, m.nom.sg) + (indecl.)"
+    },
+    {
+     "surface": "kālīnāmaprakīrtanam",
+     "gloss": "kālī-name-proclamation",
+     "grounds": "Compound of kālī (Kālī), nāma (name), and prakīrtana (proclamation/recitation), denoting the act of proclaiming Kālī's names.",
+     "morph": "compound (kālī+nāma+prakīrtana, n.nom.sg)"
+    }
+   ],
+   "question": "Which verbal recitations are prescribed alongside the śivābali offering in the empty circle?",
+   "premises": [
+    "The recitation of the thousand names is prescribed.",
+    "The proclamation of Kālī's names is prescribed.",
+    "Both acts are conjoined as part of the same ritual context."
+   ],
+   "inference": "The ritual requires both the thousand-name recitation and the proclamation of Kālī's names.",
+   "uncertainties": [
+    "The specific thousand-name text intended is not identified within this verse."
+   ],
+   "plain_english": "And the recitation of the thousand names, together with the proclamation of the names of Kālī."
+  }
+ ]
+}
