@@ -1,15 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 4,
- "question": "How can a statement remain focused on explaining a main purpose while still allowing for a concessive qualification at the outset?",
+ "question": "What concession is being made about orientation in the initial statement, even if its focus lies elsewhere?",
  "premises": [
-  "The initial statement is focused on explaining the main purpose.",
-  "That focus does not preclude a concessive qualification.",
-  "The qualification holds even given that primary focus."
+  "The initial statement is the locus in question.",
+  "An orientation focused on explaining the main purpose is present.",
+  "A concessive force applies to that orientation."
  ],
- "inference": "Primary purpose and concession can coexist within the same initial statement.",
+ "inference": "Even though focused on explaining the main purpose, this holds in the initial statement.",
  "uncertainties": [
-  "The specific concession intended is not specified by this verse alone."
+  "The exact scope of the concession cannot be determined from these two tokens alone."
  ],
- "plain_english": "Even though the initial statement is focused on explaining the main purpose, a concession still holds."
+ "plain_english": "Even though focused on explaining the main purpose, it is so in the initial statement."
 }

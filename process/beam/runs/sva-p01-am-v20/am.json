@@ -1,13 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 20,
- "question": "What contemplative visualization is required after piercing the wall of consciousness-form?",
+ "question": "What sequence of acts is enjoined here such that piercing a specified wall is the condition for imagining or meditating on what has emerged?",
  "premises": [
-  "A wall of consciousness-form is to be pierced.",
-  "Piercing allows emergence.",
-  "Contemplative practice requires imagining and meditating on that emergence."
+  "One is to pierce the consciousness-form wall.",
+  "The restrictive particle limits the act to that piercing as the condition.",
+  "What has emerged is to be imagined and to be meditated on as a result."
  ],
- "inference": "Therefore, one should imagine and meditate on what has emerged after piercing the wall of consciousness-form.",
- "uncertainties": [],
- "plain_english": "Having pierced the wall of consciousness-form, one should imagine and meditate on what has indeed emerged."
+ "inference": "Having pierced the consciousness-form wall, one is to imagine and to meditate on what has emerged.",
+ "uncertainties": [
+  "The ontological status of 'what has emerged' is not determined by these tokens alone."
+ ],
+ "plain_english": "Having just pierced the consciousness-form wall, one should imagine and meditate on what has emerged."
 }

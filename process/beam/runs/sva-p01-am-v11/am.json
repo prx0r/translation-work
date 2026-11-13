@@ -1,15 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 11,
- "question": "What ground establishes a given statement as authoritative when no other injunctive statement stands to compete with it?",
+ "question": "What grounds the claim that a given statement is authoritative rather than derivative of another injunctive statement?",
  "premises": [
-  "Authoritativeness is attributed to that statement.",
+  "An authoritative character is attributed to the statement in question.",
   "There is an absence of another injunctive statement.",
-  "That absence provides the ground for its authoritativeness."
+  "That absence is offered as the cause for its authoritative character."
  ],
- "inference": "In the absence of a competing injunctive statement, the given statement stands as authoritative.",
+ "inference": "By reason of the absence of another injunctive statement, the statement is authoritative.",
  "uncertainties": [
-  "The scope of 'injunctive statement' is not delimited by this verse alone."
+  "The specific statement referred to is not named by these tokens."
  ],
- "plain_english": "It is authoritative because there is no other injunctive statement."
+ "plain_english": "It is authoritative by reason of the absence of another injunctive statement."
 }

@@ -1,15 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 3,
- "question": "What justifies withholding separate indication for a given item rather than treating it as a distinct topic?",
+ "question": "What grounds the claim that a given item is not indicated separately rather than being treated as a distinct object of instruction?",
  "premises": [
-  "The item is included within something already accounted for.",
-  "Inclusion provides a sufficient ground for treatment.",
-  "On that ground, separate indication is not given."
+  "The item falls under inclusion within something already accounted for.",
+  "Separate indication is the alternative being considered.",
+  "Inclusion is offered as the cause for withholding separate indication."
  ],
- "inference": "Inclusion, not omission by oversight, is the reason for the absence of separate indication.",
+ "inference": "By reason of inclusion, the item is not indicated separately.",
  "uncertainties": [
-  "The larger whole within which inclusion occurs is not named in this verse."
+  "The larger whole within which inclusion occurs is not named by these tokens."
  ],
- "plain_english": "Because it is included, it has not been indicated separately."
+ "plain_english": "By reason of being included, it is not indicated separately."
 }

@@ -1,12 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 391,
- "question": "What assurance is given to those devoted to constant practice regarding this result?",
+ "question": "What certainty is promised to those devoted to constant practice?",
  "premises": [
   "There is no doubt in this matter.",
-  "The assurance is directed to those devoted to constant practice."
+  "The result is assured.",
+  "This assurance applies to those devoted to constant practice."
  ],
- "inference": "For those devoted to constant practice, there is no doubt about this result.",
- "uncertainties": [],
- "plain_english": "There is no doubt about this, O you who are devoted to constant practice."
+ "inference": "For those devoted to constant practice, the promised result is beyond doubt.",
+ "uncertainties": [
+  "The subject of bhavate is implicit."
+ ],
+ "plain_english": "There is no doubt here for those devoted to constant practice."
 }

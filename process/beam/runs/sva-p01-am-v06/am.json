@@ -1,15 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 6,
- "question": "What is gained by treating a given statement as only nearly stated rather than as fully and explicitly stated?",
+ "question": "What justifies treating the matter at hand as only nearly equivalent to a prior statement rather than identical to it?",
  "premises": [
-  "The matter stands in a form like what has been said thus.",
-  "That form falls short of a full explicit statement.",
-  "The 'nearly stated' form is sufficient for the present purpose."
+  "A prior statement is taken as the point of reference.",
+  "The present matter approximates that statement.",
+  "Approximation, not identity, is marked by the form used."
  ],
- "inference": "The text opts for a condensed, near-statement rather than a full exposition at this point.",
+ "inference": "The matter is to be taken as as-if-said, not as a full restatement.",
  "uncertainties": [
-  "The referent of 'thus' is not recoverable from this single token alone."
+  "The prior statement being approximated is not present in this token alone."
  ],
- "plain_english": "This is as if it had been said thus."
+ "plain_english": "It is as if what was said before."
 }

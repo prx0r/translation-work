@@ -1,12 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 384,
- "question": "What transformation occurs in a person who experiences the taste of milk in this practice?",
+ "question": "What transformation results from experiencing the taste of milk in this practice?",
  "premises": [
-  "The practitioner experiences the taste of milk.",
-  "The person becomes wise and immortal."
+  "The experience involves the taste of milk.",
+  "A man undergoes transformation through it.",
+  "He becomes wise and immortal."
  ],
- "inference": "Through the taste of milk, a person becomes wise and immortal.",
- "uncertainties": [],
- "plain_english": "By experiencing the taste of milk, a person becomes wise and immortal."
+ "inference": "Through the taste of milk, a man becomes wise and immortal.",
+ "uncertainties": [
+  "kṣīra+svādena may refer to a literal or yogic experiential taste."
+ ],
+ "plain_english": "By the taste of milk, a man becomes wise and immortal."
 }

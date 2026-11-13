@@ -1,13 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 24,
- "question": "What ritual placement is prescribed to demonstrate the pervasion of Īśāna?",
+ "question": "For what purpose is the placement of kalās enjoined here, and how is that purpose marked as a summary of the preceding matter?",
  "premises": [
-  "The pervasion of Īśāna is to be shown.",
-  "Kalā placement is a ritual means.",
-  "The text prescribes performing that placement for this purpose."
+  "The placement of kalās is prescribed as to be done.",
+  "That prescription is made for the purpose of showing the pervasion of Īśāna.",
+  "The clause is closed by iti and identified as the summary meaning."
  ],
- "inference": "Therefore, kalā placement should be performed to show the pervasion of Īśāna; this is the summary meaning.",
- "uncertainties": [],
- "plain_english": "To show the pervasion of Īśāna, the placement of the kalās should be performed; this is the summary meaning."
+ "inference": "For the purpose of showing the pervasion of Īśāna, the placement of kalās is to be done; this is the summary meaning.",
+ "uncertainties": [
+  "The technical details of the kalā-placement are not specified by these tokens alone."
+ ],
+ "plain_english": "For the purpose of showing the pervasion of Īśāna, the placement of kalās is to be done, thus — this is the summary meaning."
 }

@@ -1,15 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 10,
- "question": "What criterion justifies evaluating a written class as laughable rather than as authoritative?",
+ "question": "On what basis is a prior set of written items judged laughable, and to what extent is that judgment restricted?",
  "premises": [
-  "There is a class that is written down.",
-  "That class is mostly of a foolish kind.",
-  "On that criterion, it is indeed laughable."
+  "A set of items was written.",
+  "That set is mostly of a foolish kind.",
+  "The judgment of laughable applies to those items indeed."
  ],
- "inference": "The evaluation turns on the character of that class, not on the fact of being written alone.",
+ "inference": "Those written items, being mostly foolish, are indeed laughable.",
  "uncertainties": [
-  "The corpus to which 'those written' refers is not identified in this verse alone."
+  "The prior set referred to by 'those' is not present in these tokens."
  ],
  "plain_english": "Those written ones, mostly foolish, are indeed laughable."
 }
