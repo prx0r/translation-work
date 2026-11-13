@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[tawny-eyed](piṅgākṣī) [and](ca) [imperishable+rosary-holder](akṣayākṣapā) [ilā](ilā) [līlā](līlā) [layā](layā) [likewise](tathā)
+[tawny-eyed](piṅgākṣī) [and](ca) [imperishable-eyed+protector](akṣaya+akṣapā) [Ilā](ilā) [Līlā](līlā) [dissolution](layā) [likewise](tathā)
 
 ## mukta-m0-p45-v1102
-[fire](hutāśā) [and](ca) [wide-eyed](viśālākṣī) [huṅkārā](huṅkārā) [mare-faced](vaḍavāmukhī)
+[fire](hutāśā) [and](ca) [wide-eyed](viśāla+akṣī) [Huṅkārā](huṅkārā) [mare-faced](vaḍavā+mukhī)
 
 ## mukta-m0-p45-v1103
-[all-knowing](sarbajñā) [trembling](taralā) [tārā](tārā) [ṛgveda](ṛgvedā) [indeed](tu) [horse-faced](hayānanā)
+[all-knowing](sarba+jñā) [trembling](taralā) [Tārā](tārā) [Ṛgveda](ṛg+vedā) [indeed](tu) [horse-faced](haya+ānanā)
 
 ## mukta-m0-p45-v1104
-[red-eyed](raktākṣī) [well-accomplished](suprasiddhā) [indeed](tu) [lightning-tongued](vidmujjihvā) [skeleton-bearing](karaṅkiṇī)
+[red-eyed](rakta+akṣī) [well-accomplished](su+prasiddhā) [indeed](tu) [lightning-tongued](vidmut+jihvā) [skeleton-bearing](karaṅkiṇī)
 
 ## mukta-m0-p45-v1105
-[moon](candrā) [moon-creeper](candravalī) [and+indeed](caiva) [manifestation](prapañcā) [dissolution-end](pralayāntikā)
+[Candrā](candrā) [moon-creeper](candra+valī) [and](ca) [indeed](eva) [manifestation](prapañcā) [dissolution-end](pralaya+antikā)
 
 ## mukta-m0-p45-v1106
-[restraining](yamanī) [burning](tapanī) [and+indeed](caiva) [dwarfing](vāmanī) [deformed-faced](vikṛtānanā)
+[restrainer](yamanī) [scorcher](tapanī) [and](ca) [indeed](eva) [dwarf-woman](vāmanī) [deformed-faced](vikṛta+ānanā)
 
 ## mukta-m0-p45-v1107
-[death-tongued](yamajihvā) [victorious](jayantī) [and](ca) [invincible](durjayā) [and](ca) [death-end](yamāntikā)
+[Yama-tongued](yama+jihvā) [victorious](jayantī) [and](ca) [invincible](durjayā) [and](ca) [death-end](yama+antikā)
 
 ## mukta-m0-p45-v1108
-[sixty-four](catuḥ+ṣaṣṭir) [this](iyaṃ) [of-the-goddess](devyā) [form+divisions](mūrti+bhedā) [is-declared](nigadyate)
+[sixty-four](catuḥ+ṣaṣṭiḥ) [this](iyam) [of-the-goddess](devyāḥ) [form-divisions](mūrti+bhedāḥ) [is-declared](nigadyate)
 
 ## mukta-m0-p45-v1109
-[golden-hued](hemābhā) [adorned-with-ornaments](bhūṣaṇāḍhyā) [should-be](syād) [akṣobhyā](akṣobhyā) [seated-on-elephant](kari+saṃsthitā)
+[golden-hued](hema+ābhā) [adorned-with-ornaments](bhūṣaṇa+āḍhyā) [should-be](syāt) [unshakable](akṣobhyā) [seated-on-elephant](kari+saṃsthitā)
 
 ## mukta-m0-p45-v1110
-[bow](dhanuḥ) [skull-bearing](kapābhṛt) [in-the-left](saumye) [seated-on-bear](ṛkṣa+sthā) [with-threatening-finger](tarjanī+yutā)
+[bow](dhanuḥ) [skull-bearing](kapāla+bhṛt) [in-left-hand](saumye) [seated-on-bear](ṛkṣa+sthā) [endowed-with-threatening-finger](tarjanī+yutā)
 
 ## mukta-m0-p45-v1111
-[seated-on-corpse](preta+sthā) [rāghasī](rāghasī) [white](gaurī) [with-half-scissors](kārdhaka+tarikā+nvitā)
+[seated-on-corpse](preta+sthā) [Rāghasī](rāghasī) [fair](gaurī) [endowed-with-half-scissors](kārdha+katarikā+anvitā)
 
 ## mukta-m0-p45-v1112
-[skull](kapālaṃ) [and](ca) [fruit](phalaṃ) [in-the-left](saumye) [holds](dhatte) [seated-on-dwarf-man](kubja+nṛ+saṃsthitā)
+[skull](kapālaṃ) [and](ca) [fruit](phalaṃ) [in-left-hand](saumye) [holds](dhatte) [seated-on-dwarf-man](kubja+nṛ+saṃsthitā)
 
 ## mukta-m0-p45-v1113
-[in-the-left](vāme) [skull+feather-bearing](kapāla+picchī) [adorned-with-all-ornaments](sarvālaṅkāra+maṇḍitā)
+[in-left-hand](vāme) [skull-and-feather-bearing](kapāla+picchī+bhṛt) [adorned-with-all-ornaments](sarva+alaṅkāra+maṇḍitā)
 
 ## mukta-m0-p45-v1114
-[silk+noose-bearing](kauśeya+pāśa+bhṛt) [in-the-right](yāmye) [in-the-left](vāme) [and](ca) [goad+shield-bearing](aṅkuśa+kheṭinī)
+[silken-noose-bearing](kauśeya+pāśa+bhṛt) [in-right-hand](yāmye) [in-left-hand](vāme) [and](ca) [bearing-goad-and-shield](aṅkuśa+kheṭinī)
 
 ## mukta-m0-p45-v1115
-[axe+thunderbolt-bearing](kuṭhāra+aśani+bhṛt) [in-the-right](yāmye) [in-the-left](saumye) [endowed-with-noose+goad](pāśāṅkuśā+nvitā)
+[axe-and-thunderbolt-bearing](kuṭhāra+aśani+bhṛt) [in-right-hand](yāmye) [in-left-hand](saumye) [endowed-with-noose-and-goad](pāśa+aṅkuśa+anvitā)
 
 ## mukta-m0-p45-v1116
-[in-the-right](yāmye) [drum+trident+arrow+intoxicated-hand+rosary-holder](ḍamaru+śūla+iṣu+matta+hasta+akṣapā) [is-considered](matā)
+[in-right-hand](yāmye) [drum-trident-arrow-skull-holding](ḍamaru+śūla+iṣu+masta+hasta) [eye-protector](akṣapā) [is-considered](matā)
 
 ## mukta-m0-p45-v1117
-[red](raktā) [standing-outside](bahis+sthitā) [indeed](tu) [īlā](īlā) [playing](krīḍantī) [with-fires](dahanaiḥ) [together](saha)
+[red](raktā) [standing-outside](bahis+sthitā) [indeed](tu) [Ilā](īlā) [playing](krīḍantī) [with-fires](dahanaiḥ) [with](saha)
 
 ## mukta-m0-p45-v1118
-[bearing](bibhrāṇā) [spear](paṭṭiśaṃ) [noose](pāśaṃ) [in-the-left](vāme) [intoxicated+half](masta+ardham) [lotus](ambujam)
+[bearing](bibhrāṇā) [spear](paṭṭiśaṃ) [noose](pāśaṃ) [in-left-hand](vāme) [skull-half](masta+ardham) [lotus](ambujam)
 
 ## mukta-m0-p45-v1119
-[scissors+half-bearing](kartarīkā+ardha+bhṛt) [in-the-left](vāme) [with-threatening-finger+drawn+lip-corner](tarjanī+ākṛṣṭa+sṛkkikā)
+[scissors-half-bearing](kartarīkā+ardha+bhṛt) [in-left-hand](vāme) [with-threatening-finger-drawn-lip-corner](tarjanī+ākṛṣṭa+sṛkki+kā)
 
 ## mukta-m0-p45-v1120
-[trident](śūlaṃ) [with-antelope](ruru+yutaṃ) [with-two-hands](dvābhyāṃ) [holds](dhatte) [lolā](lolā) [on-lotus](su+sārase)
+[trident](śūlaṃ) [joined-with-antelope](ruru+yutaṃ) [with-two-hands](dvābhyāṃ) [holds](dhatte) [Lolā](lolā) [in-lotus](su+sārase)
 
 ## mukta-m0-p45-v1121
-[on-laṅkeśa's-thigh+seated](laṅkeśa+uru+sthitā) [laṅkā](laṅkā) [chewing](carvantīṃ) [flesh](piśitaṃ) [dense](ghanam)
+[seated-on-Laṅkeśa's-thigh](laṅkeśa+uru+sthitā) [Laṅkā](laṅkā) [chewing](carvantīṃ) [flesh](piśitaṃ) [dense](ghanam)
 
 ## mukta-m0-p45-v1122
-[red](śoṇā) [laṅkeśvarī](laṅkeśvarī) [in-the-bowl](kuṇḍe) [upward-hair](ūrdhva+bālāṃ) [and](ca) [bearing](bibhratī)
+[red](śoṇā) [Laṅkeśvarī](laṅkeśvarī) [in-bowl](kuṇḍe) [raised-hair](ūrdhva+bālāṃ) [and](ca) [bearing](bibhratī)
 
 ## mukta-m0-p45-v1123
-[bearing](bibhrāṇā) [seated-on-boar](kola+gā) [red](raktā) [saliva+blood+delighting-in](lālā+sṛk+lālāsā) [is-considered](matā)
+[bearing](bibhrāṇā) [seated-on-boar](kola+gā) [red](raktā) [saliva-and-blood-delighting](lālā+asṛk+lālā+sā) [is-considered](matā)
 
 ## mukta-m0-p45-v1124
-[scissors+skull-bearing](kartarī+kumbha+bhṛt) [in-the-right](yāme) [in-the-left](saumye) [noose+skull-holder](pāśa+kapālinī)
+[scissors-and-pot-bearing](kartarī+kumbha+bhṛt) [in-right-hand](yāmye) [in-left-hand](saumye) [noose-and-skull-holder](pāśa+kapālinī)
 
 ## mukta-m0-p45-v1125
-[in-the-left](vāme) [and](ca) [fearlessness+hand](abhaya+hastā) [should-be](syād) [endowed-with-seat+kingdom+vessel](viṣṭara+ājya+ghaṭā+nvitā)
+[in-left-hand](vāme) [and](ca) [fearlessness-hand](abhaya+hastā) [should-be](syāt) [endowed-with-seat-kingdom-and-pot](viṣṭara+ājya+ghaṭa+anvitā)
