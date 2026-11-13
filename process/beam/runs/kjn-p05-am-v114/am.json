@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 114,
- "question": "What union occurs for one freed from all diseases with yogis?",
+ "question": "What union is attained by one freed from all diseases with yogis?",
  "premises": [
-  "The person is freed from all diseases.",
-  "He joins yogis in union."
+  "Freedom from all diseases is stated",
+  "Union occurs with yogis",
+  "The union is named melaka"
  ],
- "inference": "Freedom from disease leads to union with yogis.",
+ "inference": "A disease-free practitioner joins yogis in union.",
  "uncertainties": [
-  "saha+melakam may be accusative object or adverbial."
+  "Whether saha+melakam is accusative object or adverbial"
  ],
- "plain_english": "One freed from all diseases attains union together with yogis."
+ "plain_english": "Freed from all diseases, one has union with yogis."
 }

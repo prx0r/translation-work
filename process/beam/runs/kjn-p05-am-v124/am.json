@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Why does poison not enter the body even when bitten by great serpents?",
+ "question": "What does not enter the body even when bitten by great serpents?",
  "premises": [
-  "Poison does not enter the body.",
-  "This holds even when bitten by great serpents."
+  "Poison does not enter the body",
+  "Biting by great serpents is considered",
+  "The result is negated"
  ],
- "inference": "The verse claims immunity to serpent poison in the body.",
+ "inference": "Poison does not enter the body even after a great serpent bite.",
  "uncertainties": [
-  "daṃśito may modify the subject or an implied person."
+  "Whether viṣaṃ is nominative subject or accusative object"
  ],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "plain_english": "Poison does not enter the body, even when bitten by great serpents."
 }

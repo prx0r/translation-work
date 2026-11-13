@@ -3,12 +3,13 @@
  "verse": 343,
  "question": "Whose accumulation is like buying an ocean filled with jewels?",
  "premises": [
-  "an ocean filled with jewels is the image",
-  "accumulation is the topic"
+  "ocean filled with jewels is mentioned",
+  "buying is mentioned",
+  "accumulation belongs to someone"
  ],
- "inference": "great wealth is implied",
+ "inference": "The verse uses a hyperbolic image of accumulation.",
  "uncertainties": [
-  "exact doctrinal point"
+  "fused token"
  ],
  "plain_english": "Whose accumulation is like buying an ocean filled with jewels."
 }

@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 331,
- "question": "What is the thirteenth chapter concerning installation in the moon island?",
+ "question": "Which chapter concerns installation emerged in the moon island?",
  "premises": [
-  "installation is the topic",
-  "it is the thirteenth chapter"
+  "installation is in moon island",
+  "it is the thirteenth",
+  "it is a chapter"
  ],
- "inference": "the text names a chapter on installation",
+ "inference": "The thirteenth chapter treats installation in the moon island.",
  "uncertainties": [
-  "exact ritual details"
+  "compound segmentation"
  ],
  "plain_english": "The thirteenth chapter is installation emerged in the moon island."
 }
