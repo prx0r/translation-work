@@ -1,15 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 316,
- "question": "What kaulika and glass-born vessels are named?",
+ "question": "What additional vessel type is named?",
  "premises": [
-  "Kaulika is named",
-  "Another glass-born is named",
-  "Fair-hipped one is addressed"
+  "kaulika is named",
+  "another glass-born type is named",
+  "the address is to the fair-hipped one"
  ],
- "inference": "The verse names kaulika and another glass-born vessel",
- "uncertainties": [
-  "compound segmentation not resolved"
- ],
- "plain_english": "Kaulika indeed, O fair-hipped one, and likewise another glass-born."
+ "inference": "another glass-born kaulika vessel type is named",
+ "uncertainties": [],
+ "plain_english": "Kaulika indeed, O fair-hipped one, likewise another glass-born vessel."
 }

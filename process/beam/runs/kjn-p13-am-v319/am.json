@@ -1,15 +1,13 @@
 {
  "song": "kjn-p13",
  "verse": 319,
- "question": "What may one drink when the vessel is not obtained?",
+ "question": "When the vessel is unavailable, what may be done?",
  "premises": [
-  "This vessel non-obtainment is named",
-  "One may drink in another vessel",
-  "Liquor is named"
+  "this vessel is unavailable",
+  "another vessel may be used",
+  "liquor may be drunk"
  ],
- "inference": "When the vessel is not obtained, one may drink liquor in another vessel",
- "uncertainties": [
-  "compound segmentation not resolved"
- ],
- "plain_english": "By non-obtainment of this vessel, one may drink liquor in another vessel."
+ "inference": "if the vessel is unavailable, one may drink liquor from another vessel",
+ "uncertainties": [],
+ "plain_english": "Because this vessel is unavailable, one may drink liquor from another vessel."
 }

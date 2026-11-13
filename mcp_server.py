@@ -44,6 +44,15 @@ def _registry() -> dict:
     return json.loads((ROOT / "REGISTRY.json").read_text())
 
 
+def _proof_cmd(work: str, song: str) -> list[str]:
+    """Canonical proof invocation: always honour recorded dispositions."""
+    cmd = ["tools/proof_record.py", "--song", song, "--work", work, "--shastra"]
+    disp = ROOT / "tools" / "proof-disp.json"
+    if disp.exists():
+        cmd += ["--disp", str(disp.relative_to(ROOT))]
+    return cmd
+
+
 def _lore_path(work: str) -> Path | None:
     """Transmission brief for a work's front (tal-aNN.md convention)."""
     ahn = work.split("tantraloka-a")[-1] if work.startswith("tantraloka-a") else ""
@@ -106,7 +115,7 @@ def validate(work: str, song: str) -> dict:
     invariants) + proof_record --shastra. Read-only report; fixes nothing.
     Exit nonzero in the payload when errors exist."""
     v = _run(["tools/validate_song.py", "--song", song, "--work", work])
-    p = _run(["tools/proof_record.py", "--song", song, "--work", work, "--shastra"])
+    p = _run(_proof_cmd(work, song))
     return {"validate": v, "proof": p}
 
 
@@ -255,7 +264,7 @@ def promote(work: str, song: str) -> dict:
     v = _run(["tools/validate_song.py", "--song", song, "--work", work])
     if v["_rc"] != 0:
         return {"promoted": False, "reason": "validate_song has errors — fix first", "validate": v}
-    p = _run(["tools/proof_record.py", "--song", song, "--work", work, "--shastra"])
+    p = _run(_proof_cmd(work, song))
     gate = p.get("gate")
     if gate != "PASS":
         return {"promoted": False, "reason": f"proof gate={gate} — BLOCKED needs recorded disposition",

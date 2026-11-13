@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 228,
- "question": "How is the self surrounded by fire and standing?",
+ "question": "What posture is the self said to take?",
  "premises": [
-  "vahni nāveṣṭita is stated",
-  "ātmānam is named",
-  "eka pādena saṃsthitam is stated"
+  "the self is surrounded by fire",
+  "it stands on one foot",
+  "saṃsthitam describes the posture"
  ],
- "inference": "The self is surrounded by fire and stands on one foot.",
- "uncertainties": [],
+ "inference": "the self stands on one foot while surrounded by fire",
+ "uncertainties": [
+  "nāveṣṭita may modify ātmānam directly"
+ ],
  "plain_english": "The self, surrounded by fire, stands on one foot."
 }
