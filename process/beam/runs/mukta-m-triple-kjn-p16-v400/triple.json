@@ -7,39 +7,40 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "situated-in-forehead-letter-mass",
-     "grounds": "Compound adjective describing location within the collection of letters on the forehead.",
-     "morph": "compound: lalāṭa+varṇa+rāśi+stha (n.acc.sg)"
+     "grounds": "compound describing location within the collection of letters at the forehead; internal sandhi preserved in fused form",
+     "morph": "compound"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "Numerical quantity indicating the extent of the prescribed act.",
+     "grounds": "quantity of repetitions to be performed",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-performed",
-     "grounds": "Absolutive indicating completion of the prescribed act.",
-     "morph": "(indecl.) absolutive, root kṛ"
+     "grounds": "absolutive indicating completion of the prescribed repetition",
+     "morph": "gerund(kṛ)"
     },
     {
      "surface": "sura+arcite",
      "gloss": "o-god-worshipped-one",
-     "grounds": "Vocative address to the deity honored by the gods.",
-     "morph": "compound: sura+arcita (f.voc.sg)"
+     "grounds": "vocative address to the revered recipient of the instruction",
+     "morph": "m.voc.sg"
     }
    ],
-   "question": "What ritual repetition must be performed using the forehead letter-mass in this secret practice?",
+   "question": "What quantity of repetition at the forehead-letter locus fulfills the enjoined secret practice?",
    "premises": [
-    "The practice involves what is situated in the forehead letter-mass.",
-    "The prescribed act is to be performed a hundred thousand times.",
-    "The instruction is addressed to the one worshipped by the gods."
+    "The practice is located in the forehead letter-mass.",
+    "A hundred-thousand repetitions must be performed.",
+    "The instruction addresses a god-worshipped recipient."
    ],
-   "inference": "The secret practice requires performing a hundred-thousandfold act focused on the forehead letter-mass.",
+   "inference": "Performing a hundred-thousand repetitions at the forehead-letter locus accomplishes the prescribed secret practice.",
    "uncertainties": [
-    "The exact nature of the act counted as a 'lakṣaṃ' (e.g., japa or another repetition) is not explicitly specified."
+    "The exact referent of varṇa-rāśi (letter-mass) is not specified.",
+    "The specific mantra or object of repetition is implicit."
    ],
-   "plain_english": "O one worshipped by the gods, having performed a hundred thousand repetitions situated in the mass of letters on the forehead."
+   "plain_english": "O one worshipped by the gods, having performed a hundred-thousand repetitions situated in the mass of letters at the forehead."
   }
  ]
 }
