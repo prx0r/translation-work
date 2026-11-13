@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p152",
+ "items": [
+  {
+   "verse": 3800,
+   "rows": [
+    {
+     "surface": "kavir",
+     "gloss": "seer",
+     "grounds": "sandhi before viśvo; underlying kaviḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśvo",
+     "gloss": "universal",
+     "grounds": "sandhi before mahātejā; underlying viśvaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahātejā",
+     "gloss": "great-radiance",
+     "grounds": "compound mahā+tejāḥ; sandhi before raktaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktaḥ",
+     "gloss": "red",
+     "grounds": "adjectival epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhavodbhavaḥ",
+     "gloss": "all-beings-source",
+     "grounds": "compound sarva+bhava+udbhava",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine attributes identify this entity as the origin of all beings?",
+   "premises": [
+    "The entity is designated as a seer (kavir).",
+    "The entity is characterized as universal (viśvo).",
+    "The entity possesses great radiance (mahātejā).",
+    "The entity is described as red (raktaḥ).",
+    "The entity is the source of all beings (sarvabhavodbhavaḥ)."
+   ],
+   "inference": "This entity unites seership, universality, radiance, redness, and generative power as the origin of all beings.",
+   "uncertainties": [
+    "The specific referent of these epithets depends on the surrounding context."
+   ],
+   "plain_english": "He is a seer, universal, of great radiance, red, and the source of all beings."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p151",
  "verse": 3757,
- "question": "Do people remain distinct after immersion in the ocean of Kula?",
+ "question": "Does the curative power extend to diseases both mentioned and unmentioned here?",
  "premises": [
-  "People may become immersed in the ocean of Kula.",
-  "Immersion implies merging into a single whole.",
-  "Merged elements do not remain separate."
+  "Diseases mentioned are included",
+  "Diseases unmentioned are also included",
+  "Diseases arising from faults and other causes are included"
  ],
- "inference": "Therefore people immersed in the Kula ocean would not remain separate.",
- "uncertainties": [],
- "plain_english": "Thus, people immersed in the ocean of Kula would not remain separate."
+ "inference": "The practice cures all such diseases, whether explicitly listed or not",
+ "uncertainties": [
+  "rogan appears as a non-standard accusative plural form"
+ ],
+ "plain_english": "Thus it removes diseases, whether mentioned or unmentioned, arising from faults and other causes."
 }

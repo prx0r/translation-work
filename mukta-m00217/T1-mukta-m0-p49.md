@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[tad-arghyeṇa](tadarghyeṇa) [samārādhya](samārādhya) [pūjā-śeṣam](pūjāśeṣaṃ) [samāpayet](samāpayet)
+[with-that](tad)[offering](arghyeṇa) [having-worshipped](samārādhya) [worship](pūjā)[remainder](śeṣaṃ) [one-should-complete](samāpayet)
 
 ## mukta-m0-p49-v1202
-[devi](devi) [padam](padaṃ) [śukra-śāpam](śukraśāpaṃ) [pramocaya](pramocaya) [pada-dvayam](padadvayam)
+[o-goddess](devi) [word](padaṃ) [śukra](śukra)[curse](śāpaṃ) [release](pramocaya) [two-words](pada)[pair](dvayam)
 
 ## mukta-m0-p49-v1203
-[svāhā-padam](svāhāpadaṃ) [tatas](tato) [devi](devi) [śukra-śuddhiḥ](śukraśuddhir) [bhavet](bhavet) [priye](priye)
+[svāhā](svāhā)[word](padaṃ) [then](tato) [o-goddess](devi) [śukra](śukra)[purification](śuddhiḥ)[should-be](bhavet) [o-beloved](priye)
 
 ## mukta-m0-p49-v1204
-[arghya-dravyaiḥ-ca](arghyadravyaiśca) [deveśi](deveśi) [yonau](yonau) [devīm](devīṃ) [prapūjayet](prapūjayet)
+[with-offering](arghya)[substances](dravyaiḥ)[and](ca) [o-lady-of-gods](deveśi) [in-the-yoni](yonau) [the-goddess](devīṃ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p49-v1205
-[vidhāya](vidhāya) [vanditām](vanditāṃ) [tām](tāṃ) [ca](ca) [tat-ucchiṣṭam](taducchiṣṭaṃ) [svayam](svayaṃ) [caret](caret)
+[having-performed](vidhāya) [having-saluted](vanditāṃ) [her](tāṃ) [and](ca) [her-remnants](tad)[ucchiṣṭaṃ] [oneself](svayaṃ) [one-should-partake](caret)
 
 ## mukta-m0-p49-v1206
-[ghoram](ghoraṃ) [ca](ca) [narakam](narakaṃ) [yāti](yāti) [kula-mārgāt](kulamārgāt) [patet-dhruvam](pateddhruvam)
+[terrible](ghoraṃ) [and](ca) [hell](narakaṃ) [one-goes](yāti) [from-kula-path](kula)[mārgāt] [one-falls](patet)[certainly](dhruvam)
 
 ## mukta-m0-p49-v1207
-[ānandam](ānandaṃ) [kārayet-vīraḥ](kārayedvīras) [tattvam](tattvaṃ) [nirbhrāntitaḥ](nirbhrāntitaḥ) [pibet](pibet)
+[bliss](ānandaṃ) [should-cause](kārayet)[hero](vīraḥ)[that](tat)[essence](tattvaṃ) [without-delusion](nirbhrāntitaḥ) [should-drink](pibet)
 
 ## mukta-m0-p49-v1208
-[tataḥ](tataḥ) [padma-nibhām](padmanibhāṃ) [devīm](devīṃ) [bāla-arka-kiraṇa-aruṇām](bālārkakiraṇāruṇām)
+[then](tataḥ) [lotus](padma)[resembling](nibhāṃ) [goddess](devīṃ) [young-sun](bāla)[arka][ray](kiraṇa)[red](aruṇām)
 
 ## mukta-m0-p49-v1209
-[padma-rāga-pratikāśām](padmarāgapratikāśāṃ) [kuṃkuma-udara-saṃnibhām](kuṃkumodarasaṃnibhām)
+[ruby](padma)[rāga][resembling](pratikāśāṃ) [saffron](kuṃkuma)[interior](udara)[juice](rasa)[similar](saṃnibhām)
 
 ## mukta-m0-p49-v1210
-[kāla-alika-kula-saṃkāśa-kuṭila-alaka-pallavām](kālālikulasaṃkāśakuṭilālakapallavām)
+[black-bee](kāla)[ali][swarm](kula)[resembling](saṃkāśa)[curly](kuṭila)[forelock](alaka)[sprout](pallavām)
 
 ## mukta-m0-p49-v1211
-[kiñcit-ardha-indu-kuṭila-lalāṭa-mṛdu-paṭṭikām](kiñcidardhendukuṭilalalāṭamṛdupaṭṭikām)
+[slightly](kiñcid)[half](ardha)[moon](indu)[curved](kuṭila)[forehead](lalāṭa)[soft](mṛdu)[band](paṭṭikām)
 
 ## mukta-m0-p49-v1212
-[ānanda-mudita-ullola-līlā-andolita-locanām](ānandamuditollolalīlāndolitalocanām)
+[bliss](ānanda)[delighted](mudita)[trembling](ullola)[playful](līlā)[swinging](andolita)[eyes](locanām)
 
 ## mukta-m0-p49-v1213
-[su-gaṇḍa-maṇḍala-ābhoga-jita-indu-amṛta-maṇḍalām](sugaṇḍamaṇḍalābhogajitendvamṛtamaṇḍalām)
+[fragrant](sugaṇḍa)[circle](maṇḍala)[fullness](ābhoga)[conquering](jita)[moon](indu)[nectar](amṛta)[circle](maṇḍalām)
 
 ## mukta-m0-p49-v1214
-[tāmra-vidruma-vimba-ābha-rakta-oṣṭhīm-amṛta-upapām](tāmravidrumavimbābharaktoṣṭhīmamṛtopapām)
+[copper](tāmra)[coral](vidruma)[bimba-fruit](bimba)[splendor](ābha)[red](rakta)[lipped](oṣṭhīm)[nectar](amṛta)[possessing](upapām)
 
 ## mukta-m0-p49-v1215
-[ratna-dvi(dī)pa-samudbhāsi-jihvām](ratnadvi(dī)pasamudbhāsijihvāṃ) [madhura-bhāṣiṇīm](madhurabhāṣiṇīm)
+[jewel](ratna)[lamp](dīpa)[shining-forth](samudbhāsi)[tongue](jihvāṃ) [sweet](madhura)[speaking](bhāṣiṇīm)
 
 ## mukta-m0-p49-v1216
-[an-aupamya-guṇa-upeta-cibuka-uddeśa-śobhitām](anaupamyaguṇopetacibukoddeśaśobhitām)
+[incomparable](anaupamya)[quality](guṇa)[endowed](upeta)[chin](cibuka)[region](uddeśa)[adorned](śobhitām)
 
 ## mukta-m0-p49-v1217
-[maṇi-kaṅkaṇa-keyūra-bhāra-khinnaiḥ](maṇikaṅkaṇakeyurabhārakhinnaiḥ) [praśobhitām](praśobhitām)
+[jewel](maṇi)[bracelet](kaṅkaṇa)[armlet](keyura)[weight](bhāra)[weary](khinnaiḥ) [adorned](praśobhitām)
 
 ## mukta-m0-p49-v1218
-[kara-ambuja-nakha-jyotir-vitānita-nabhaḥ-stalām](karāmbujanakhajyotirvitānitanabhastalām)
+[hand](kara)[lotus](ambuja)[nail](nakha)[light](jyotiḥ)[spread](vitānita)[sky](nabhaḥ)[surface](talām)
 
 ## mukta-m0-p49-v1219
-[tri-valī-valaya-yuktam-adhya-deśa-su-śobhitām](trivalīvalayāyuktamadhyadeśasuśobhitām)
+[three-fold](trivalī)[fold](valaya)[endowed](āyukta)[middle](madhya)[region](deśa)[well-adorned](suśobhitām)
 
 ## mukta-m0-p49-v1220
-[anargha-ratna-ghaṭita-kāñcī-yukta-nitambinīm](anargharatnaghaṭitakāñcīyuktanitambinīm)
+[priceless](anargha)[jewel](ratna)[fashioned](ghaṭita)[girdle](kāñcī)[endowed](yukta)[hipped](nitambinīm)
 
 ## mukta-m0-p49-v1221
-[kadalī-lalita-stambha-sukumāra-ūru-īśvarīm](kadalīlalitastambhasukumārorumīśvarīm)
+[plantain](kadalī)[graceful](lalita)[stem](stambha)[very-delicate](sukumāra)[thighed](ūrum)[goddess](īśvarīm)
 
 ## mukta-m0-p49-v1222
-[gūḍha-gulpha-pada-dvandva-prapada-ajita-kacchapām](gūḍhagulphapadadvandvaprapadājitakacchapām)
+[hidden](gūḍha)[ankle](gulpha)[foot](pada)[pair](dvandva)[forepart](prapada)[conquering](ājita)[tortoise](kacchapām)
 
 ## mukta-m0-p49-v1223
-[brahma-viṣṇu-śiraḥ-ratna-nirghṛṣṭa-caraṇa-ambujām](brahmaviṣṇuśiroratnanirghṛṣṭacaraṇāmbujām)
+[brahmā](brahma)[viṣṇu](viṣṇu)[head](śiraḥ)[jewel](ratna)[rubbed](nirghṛṣṭa)[foot](caraṇa)[lotus](ambujām)
 
 ## mukta-m0-p49-v1224
-[śīta-aṃśu-śata-saṅkāśa-kānti-santāna-hāsinīm](śītāṃśuśatasaṅkāśakāntisantānahāsinīm)
+[cool-rayed](śītāṃśu)[hundred](śata)[resembling](saṅkāśa)[radiance](kānti)[stream](santāna)[smiling](hāsinīm)
 
 ## mukta-m0-p49-v1225
-[rakta-vastra-parīdhānām](raktavastraparīdhānāṃ) [pāśa-aṃkuśa-kara-udyatām](pāśāṃkuśakarodyatām)
+[red](rakta)[garment](vastra)[clad](parīdhānāṃ) [noose](pāśa)[goad](aṅkuśa)[hand](kara)[uplifted](udyatām)

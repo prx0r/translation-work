@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[reverse](vilomāṃ) [should-worship](pūjayet) [there](tatra) [worshipper](pūjakaḥ) [by-manu-and-munu](manunāmunā)
+[reverse-order](vilomāṃ) [should-worship](pūjayet) [there](tatra) [worshipper](pūjako) [with-mantra](manunā) [with-this](amunā)
 
 ## mukta-m0-p45-v1102
-[with-waters](toyaiḥ) [fragrant-flower-rich](sugandhipuṣpāḍhyai) [should-worship](pūjayet) [him](taṃ) [according-to-rite](yathāvidhi)
+[with-waters](toyaiḥ) [with-fragrant](sugandhi) + [rich-with-flowers](puṣpāḍhyai) [should-worship](pūjayet) [him](taṃ) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p45-v1103
-[at-sixteen-end](ṣoḍaśānte) [sound-of-kalā](kalāśabdam) [to-self](ātmane) [salutation](namaḥ) [then](iti) [atha](atha)
+[at-sixteen-end](ṣoḍaśānte) [kalā](kalā) + [word](śabdam) [to-the-self](ātmane) [obeisance](nama) [thus](iti) [then](atha)
 
 ## mukta-m0-p45-v1104
-[moonlight](candrikā) [radiance](kāntiḥ) [moonlight](jyotsnā) [beauty](śrīḥ) [delight](prītiḥ) [giver-of-limbs](aṅgadā)
+[śaśinī](śaśinī) [candrikā](candrikā) [kānti](kāntir) [jyotsnā](jyotsnā) [śrī](śrīḥ) [prīti](prītir) [aṅgadā](aṅgadā)
 
 ## mukta-m0-p45-v1105
-[in-moon-maṇḍala-middle](somamaṇḍalamadhyasthāḥ)
+[moon](soma) + [circle](maṇḍala) + [situated-in-middle](madhyasthāḥ) [---](-----------------------------------)
 
 ## mukta-m0-p45-v1106
-[joining](saṃyojya) [eye-mantra](netramantreṇa) [flower](puṣpaṃ) [placing](nyasya) [crest-tip](śikhāṇunā)
+[having-joined](saṃyojya) [eye](netra) + [with-mantra](mantreṇa) [flower](puṣpaṃ) [having-placed](nyasya) [with-śikhā](śikhā) + [mantra](ṇunā)
 
 ## mukta-m0-p45-v1107
-[making-nectar](amṛtīkṛtya) [according-to-rite](vidhivat) [nectar-seed](sudhābījena) [sādhaka](sādhakaḥ)
+[having-made-immortal](amṛtīkṛtya) [according-to-rule](vidhivat) [with-nectar](sudhā) + [with-seed](bījena) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p45-v1108
-[with-limb-nyāsa](aṅganyāsena) [and-with-weapon](cāstreṇa) [should-estimate](kalayet) [ca](ca) [ten-directions](diśo) [daśa](daśa)
+[with-limb](aṅga) + [installation](nyāsena) [and](ca) [with-weapon-mantra](āstreṇa) [should-conceive](kalayet) [and](ca) [directions](diśo) [ten](daśa)
 
 ## mukta-m0-p45-v1109
-[grasping](avaṣṭabhya) [covering](guṇṭhya) [kindling](taduddipya) [by-mudrā](mudrayā) [yoni-form](yonirūpayā)
+[having-restrained](avaṣṭabhya) [(having-enclosed)]((guṇṭhya)) [that](tad) [having-illuminated](uddipya) [with-gesture](mudrayā) [womb](yoni) + [in-form](rūpayā)
 
 ## mukta-m0-p45-v1110
-[six-limbs](ṣaḍaṅgāni) [ca](ca) [having-worshipped](sampūjya) [should-mantra](mantrayet) [root-mantra](mūlamantrataḥ)
+[six](ṣaḍ) + [limbs](aṅgāni) [and](ca) [having-worshipped](sampūjya) [should-consecrate](mantrayet) [with-root](mūla) + [mantra](mantrataḥ)
 
 ## mukta-m0-p45-v1111
-[honey-offering](madhuparkaṃ) [ca](ca) [having-placed](saṃsthāpya) [in-triangles](trikoṇeṣu) [in-order](yathākramam)
+[madhuparka](madhuparkaṃ) [and](ca) [having-placed](saṃsthāpya) [in-triangles](trikoṇeṣu) [according-to-order](yathākramam)
 
 ## mukta-m0-p45-v1112
-[then-obtained](tadāpyate) [when](yadā) [by-that](tena) [honey-offering](madhuparkaḥ) [always](sadā) [remembered](smṛtaḥ)
+[that](tad) [is-obtained](āpyate) [when](yadā) [by-that](tena) [madhuparka](madhuparkaḥ) [always](sadā) [remembered](smṛtaḥ)
 
 ## mukta-m0-p45-v1113
-[a-little-arghya-water](kiñcidarghyāmbu) [having-taken](saṃgṛhya) [prokṣaṇī-water](prokṣaṇyambhasi) [should-drop](nikṣipet)
+[a-little](kiñcid) [arghya](arghya) + [water](ambu) [having-taken](saṃgṛhya) [in-sprinkling](prokṣaṇī) + [water](ambhasi) [should-place](nikṣipet)
 
 ## mukta-m0-p45-v1114
-[dūrvā](dūrvā) [and-so-on](ceti) [in-order](kramād) [arghya-substances](arghyadravyāṣṭakam) [declared](udīritam)
+[dūrvā-grass](dūrvā) [and](ca) [thus](iti) [in-order](kramād) [arghya](arghya) + [substances](dravya) + [eightfold](aṣṭakam) [declared](udīritam)
 
 ## mukta-m0-p45-v1115
-[ghee](ājya) [siddhārtha](siddhārtha) [flowers](puṣpāṇi) [ash](bhasitaṃ) [ca](ca) [in-arghya-vessel](arghyapātrake)
+[clarified-butter](ājya) [white-mustard](siddhārtha) + [flowers](puṣpāṇi) [sacred-ash](bhasitaṃ) [and](ca) [in-arghya](arghya) + [vessel](pātrake)
 
 ## mukta-m0-p45-v1116
-[should-give](dāpayet) [in-prokṣaṇī-vessel](prokṣaṇīpātre) [ash](bhasitaṃ) [by-oṃ](praṇavena) [ca](ca)
+[should-place](dāpayet) [in-sprinkling](prokṣaṇī) + [vessel](pātre) [sacred-ash](bhasitaṃ) [with-praṇava](praṇavena) [and](ca)
 
 ## mukta-m0-p45-v1117
-[jātī](jātī) [kakkola](kakkola) [camphor](karpūra) [many-roots](bahumūla) [tamāla](tamālakam)
+[jasmine](jātī) [kakkola](kakkola) + [camphor](karpūra) [much](bahu) + [root](mūla) + [tamālaka](tamālakam)
 
 ## mukta-m0-p45-v1118
-[all](sarvaṃ) [may-remove](haratu) [my](me) [sin](pāpaṃ) [dūrvā](dūrvā) [destroyer-of-bad-dreams](duḥsvapnanāśinī)
+[all](sarvaṃ) [take-away](haratu) [my](me) [sin](pāpaṃ) [dūrvā](dūrvā) [bad-dream](duḥsvapna) + [destroyer](nāśinī)
 
 ## mukta-m0-p45-v1119
-[in-maṇḍala](maṇḍale) [should-place](sthāpayet) [kumbha](kumbhaṃ) [golden](sauvarṇaṃ) [silver](rājataṃ) [tathā](tathā)
+[in-circle](maṇḍale) [should-place](sthāpayet) [pot](kumbhaṃ) [golden](sauvarṇaṃ) [silver](rājataṃ) [likewise](tathā)
 
 ## mukta-m0-p45-v1120
-[may-come](āyāntu) [of-yajamāna](yajamānasya) [destroyers-of-sin](duritakṣayakārakāḥ)
+[may-come](āyāntu) [of-sacrificer](yajamānasya) [misfortune](durita) + [destruction](kṣaya) + [causing](kārakāḥ)
 
 ## mukta-m0-p45-v1121
-[narmadā](narmade) [sindhu](sindhukāveri) [in-this-water](jale'smin) [presence](sannidhiṃ) [make](kuru)
+[o-narmadā](narmade) [o-sindhu](sindhu) [o-kāverī](kāveri) [in-water](jale) [in-this](asmin) [presence](sannidhiṃ) [make](kuru)
 
 ## mukta-m0-p45-v1122
-[at-root](mūle) [of-that](tasya) [stands](sthito) [brahmā](brahmā) [in-middle](madhye) [mother-groups](mātṛgaṇāḥ) [stand](sthitāḥ)
+[at-root](mūle) [of-it](tasya) [situated](sthito) [brahmā](brahmā) [in-middle](madhye) [mother](mātṛ) + [groups](gaṇāḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p45-v1123
-[ṛgveda](ṛgvedo) [atha](atha) [yajurveda](yajurvedaḥ) [sāmaveda](sāmavedo) [hy](hy) [atharvaṇaḥ](atharvaṇaḥ)
+[ṛgveda](ṛgvedaḥ) [and](atha) [yajurveda](yajurvedaḥ) [sāmaveda](sāmavedaḥ) [indeed](hi) [atharvaveda](atharvaṇaḥ)
 
 ## mukta-m0-p45-v1124
-[brahmahatyā](brahmahatyāṃ) [by-that](tena) [te](te) [I-destroy](nāśayāmyaham)
+[from-ku](kaca) + [born](udbhavāṃ) [brahman-slaying](brahmahatyāṃ) [by-that](tena) [of-you](te) [I-destroy](nāśayāmyaham)
 
 ## mukta-m0-p45-v1125
-[in-amā-bīja](amābījamaye) [devi](devi) [from-śukra-curse](śukraśāpād) [may-be-released](vimucyatām)
+[o-goddess](devi) [consisting-of-amā](amā) + [seed](bījamaye) [from-śukra](śukra) + [curse](śāpād) [be-released](vimucyatām)

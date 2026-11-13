@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[foot-end](pādāntaṃ) [worship](pūjayet) [all](sarvāḥ) [arts](kalā) [indeed](vai) [of-love+of-moon](kāmasomayoḥ)
+[foot+end](pādāntaṃ) [should-worship](pūjayet) [all](sarvāḥ) [digits](kalā) [indeed](vai) [of-kāma+and-soma](kāmasomayoḥ)
 
 ## mukta-m0-p48-v1177
-[one](ekā) [indeed](tu) [carrier](vāhikā) [lunar](cāndrī) [solar](saurī) [and](ca) [another](anyā) [tu](tu) [carrier](vāhikā)
+[one](ekā) [indeed](tu) [channel](vāhikā) [lunar](cāndrī) [solar](saurī) [and](ca) [another](anyā) [indeed](tu) [channel](vāhikā)
 
 ## mukta-m0-p48-v1178
 [water](ambu) [flows](sravati) [lunar](cāndrī) [she](sā) [flower](puṣpaṃ) [flows](sravati) [solar](bhānavī)
 
 ## mukta-m0-p48-v1179
-[with-vāgbhava-etc](vāgbhavādyairnamoyuktaiḥ) [worship](pūjayet) [well-pleased-mind](suprasannadhīḥ)
+[with-vāgbhava+etc.](vāgbhavādyair) [joined-with-namas](namoyuktaiḥ) [should-worship](pūjayet) [with-very+pleased+mind](suprasannadhīḥ)
 
 ## mukta-m0-p48-v1180
-[bhaga-garland-mantra](bhagamālāmanuṃ) [having-spoken](procya) [three-syllable-after](tritārānantaraṃ) [thus](tathā)
+[bhagamālā+mantra](bhagamālāmanuṃ) [having-recited](procya) [after-three+tārās](tritārānantaraṃ) [likewise](tathā)
 
 ## mukta-m0-p48-v1181
-[all](sarvāṇīti) [bhaga](bhagānīti) [bring-under-control](vaśamānaya) [me](me) [then](tataḥ)
+[all](sarvāṇi) [thus](iti) [bhagas](bhagān) [thus](iti) [bring-under-control](vaśamānaya) [to-me](me) [then](tataḥ)
 
 ## mukta-m0-p48-v1182
-[here](ihāpyāvāhanaṃ) [no](nāsti) [jīva-nyāsa](jīvanyāso) [O-great-goddess](maheśvari)
+[here](iha) [also](api) [invocation](āvāhanaṃ) [not](na) [is](asti) [placing-of-life](jīvanyāso) [O-great+goddess](maheśvari)
 
 ## mukta-m0-p48-v1183
-[desired-goddess](iṣṭadevīṃ) [having-worshipped](prapūjyātha) [all-siddhi-lord](sarvasiddhīśvaro) [become](bhavet)
+[chosen+goddess](iṣṭadevīṃ) [having-worshipped](prapūjya) [then](atha) [lord-of-all+siddhis](sarvasiddhīśvaro) [one-becomes](bhavet)
 
 ## mukta-m0-p48-v1184
-[root-mantra](mūlamantraṃ) [then](tataḥ) [oṃ-namaḥ-śivāya](oṃ namo śivāya) [then](tataḥ) [supreme](param)
+[root+mantra](mūlamantraṃ) [then](tataḥ) [oṃ namo śivāya](oṃ namo śivāya) [then](tataḥ) [after](param)
 
 ## mukta-m0-p48-v1185
-[tāra](tāraṃ) [and](ca) [beyond-peace](śāntyatītāṃ) [ca](ca) [in-that-limb](tadaṅge) [thereafter](tadanantaram)
+[tārā](tāraṃ) [and](ca) [śāntyatītā](śāntyatītāṃ) [and](ca) [in-its+limbs](tadaṅge) [after-that](tadanantaram)
 
 ## mukta-m0-p48-v1186
-[vajreśvarī](vajreśvarīṃ) [kālikā](kālikāṃ) [ca](ca) [thus](tathā) [dikcara-dweller](dikcaravāsinīm)
+[vajreśvarī](vajreśvarīṃ) [kālikā](kālikāṃ) [and](ca) [likewise](tathā) [dwelling-in-directions](dikcaravāsinīm)
 
 ## mukta-m0-p48-v1187
-[that-permission](tadanujñāṃ) [then](tato) [having-obtained](labdhvā) [having-given](dattvā) [betel](tāmbūlameva) [ca](ca)
+[her+permission](tadanujñāṃ) [then](tato) [having-obtained](labdhvā) [having-given](dattvā) [betel](tāmbūlam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p48-v1188
-[dharma-adharma-offering-blazing](dharmādharmahavirdīpte) [self-fire](ātmāgnau) [by-mind](manasā) [with-spoon](srucā)
+[in-dharma+and-adharma+oblation+kindled](dharmādharmahavirdīpte) [in-self+fire](ātmāgnau) [with-mind](manasā) [with-ladle](srucā)
 
 ## mukta-m0-p48-v1189
-[svāhā-ending](svāhānto'yaṃ) [great-mantra](mahāmantra) [at-beginning](ārambhe) [declared](parikīrtitaḥ)
+[ending-with-svāhā](svāhānto) [this](ayaṃ) [great+mantra](mahāmantra) [at-beginning](ārambhe) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p48-v1190
-[with-prakāśa-ākāśa-hands](prakāśākāśahastābhyāmavalambyonmanīsrucā) [svāhā-ending](svāhānto'yaṃ) [great-mantra](mahāmantraḥ) [at-semen-release](śukratyāge) [declared](prakīrtitaḥ)
+[with-light+and-space+hands](prakāśākāśahastābhyām) [having-supported](avalambya) [with-unmanī+ladle](unmanīsrucā)
 
 ## mukta-m0-p48-v1191
-[svāhā-ending](svāhānto'yaṃ) [great-mantra](mahāmantraḥ) [at-semen-release](śukratyāge) [declared](prakīrtitaḥ)
+[ending-with-svāhā](svāhānto) [this](ayaṃ) [great+mantra](mahāmantraḥ) [in-semen+offering](śukratyāge) [is-declared](prakīrtitaḥ)
 
 ## mukta-m0-p48-v1192
-[sīt-sound](sītkāro) [mantra-form](mantrarūpaṃ) [ca](ca) [speech](vacanaṃ) [praise](stavanaṃ) [become](bhavet)
+[hissing-sound](sītkāro) [mantra+form](mantrarūpaṃ) [and](ca) [speech](vacanaṃ) [praise](stavanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p48-v1193
-[nail-tooth-scratch-etc](nakhadantakṣatādīni) [flowers](puṣpāṇi) [various](vividhāni) [ca](ca)
+[nail+tooth+scratches+etc.](nakhadantakṣatādīni) [flowers](puṣpāṇi) [various](vividhāni) [and](ca)
 
 ## mukta-m0-p48-v1194
-[seeing-touching](darśanasparśane) [of-yoni](yonervikāraṃ) [(so)](so) [linga-rubbing](liṅgagharṣaṇam)
+[seeing+and-touching](darśanasparśane) [of-vulva](yoner) [arousal](vikāraṃ) [rubbing-of-linga](liṅgagharṣaṇam)
 
 ## mukta-m0-p48-v1195
-[kula-nectar](kulāmṛtaṃ) [with-effort](prayatnena) [take](gṛhṇīyāddurlabhaṃ) [man](naraḥ)
+[kula+nectar](kulāmṛtaṃ) [with-effort](prayatnena) [one-should-take](gṛhṇīyād) [hard-to-obtain](durlabhaṃ) [man](naraḥ)
 
 ## mukta-m0-p48-v1196
-[whatever-desire](yatkāmaṃ) [does](kurute) [mantrin](mantrī) [that](tat) [instantly](kṣaṇādeva) [succeeds](siddhyati)
+[whatever+desire](yatkāmaṃ) [performs](kurute) [practitioner](mantrī) [that](tat) [from-that+moment](kṣaṇādeva) [succeeds](siddhyati)
 
 ## mukta-m0-p48-v1197
-[seed-nectar](bījāmṛtaṃ) [supreme-brahman](paraṃ brahma) [japa](japannikṣipya) [beautiful](sundari)
+[seed+nectar](bījāmṛtaṃ) [supreme](paraṃ) [brahman](brahma) [muttering](japann) [having-placed](ikṣipya) [O-beautiful-one](sundari)
 
 ## mukta-m0-p48-v1198
-[śrīvidyā-rite](śrīvidyākramamabhyarcya) [supreme-brahman-become](parabrahmamayo) [become](bhavet)
+[śrīvidyā+sequence](śrīvidyākramam) [having-worshipped](abhyarcya) [consisting-of-supreme+brahman](parabrahmamayo) [one-becomes](bhavet)
 
 ## mukta-m0-p48-v1199
-[with-distinction](savikalpastu) [always](satataṃ) [sin-part](pāpabhāgjāyate) [man](naraḥ)
+[with-conceptualization](savikalpas) [but](tu) [always](satataṃ) [sharer-of-sin](pāpabhāg) [becomes](jāyate) [man](naraḥ)
 
 ## mukta-m0-p48-v1200
-[therefore](ata eva) [O-excellent](varārohe) [without-distinction](nirvikalpaḥ) [always](sadā) [become](bhavet)
+[therefore](ata eva) [O-fair+hipped-one](varārohe) [without-conceptualization](nirvikalpaḥ) [always](sadā) [one-should-be](bhavet)

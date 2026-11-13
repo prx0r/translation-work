@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-silver-vessel+by giving indeed Vishnu-sacrifice+fruit obtain
+[silver+vessel+by](raupyapātreṇa) [having-given](dattvā) [indeed](vai) [viṣṇu+worship+fruit](viṣṇuyāgaphalaṃ) [one-obtains](labhet)
 
 ## mukta-m0-p44-v1077
-giving golden-vessel+by obtain much gold
+[having-given](dattvā) [golden+vessel+by](sauvarṇapātreṇa) [one-obtains](labhet) [much](bahuḥ) [gold](suvarṇakam)
 
 ## mukta-m0-p44-v1078
-five-shrine+worship+in ten vessels indeed throw
+[five+shrine+worship+in](pañcāyatanapūjāyāṃ) [ten](daśa) [vessels](pātrāṇi) [indeed](vai) [one-should-place](kṣipet)
 
 ## mukta-m0-p44-v1079
-offering-vessels five be blood+of one-vessel
+[offering+vessels](balipātrāṇi) [five](pañca) [should-be](syuḥ) [of-blood](rudhirasya) [one+vessel](ekapātrakam)
 
 ## mukta-m0-p44-v1080
-one cooked+of meat+of
+[one](ekaṃ) [of-cooked](pakvasya) [of-meat](māṃsasya)
 
 ## mukta-m0-p44-v1081
-to-be-placed carefully if desire accomplishment+of self
+[to-be-placed](sthāpanīyāni) [with-effort](yatnena) [if](yadi) [one-desires](icchet) [accomplishment](siddhim) [of-oneself](ātmanaḥ)
 
 ## mukta-m0-p44-v1082
-yoginis+of worship+in fifty couple+worship+in
+[of-yoginīs](yoginīnāṃ) [in-worship](samarcāyāṃ) [fifty](pañcāśat) [couple+worship+in](mithunārcane)
 
 ## mukta-m0-p44-v1083
-guru-circle+worship+in suns+of likewise and
+[guru+circle+worship+in](gurumaṇḍalapūjāyāṃ) [of-lords-of-day](dineśānāṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p44-v1084
-letter+herb+worship+in mantra-rosary+full-worship+in
+[imperishable+herb+worship+in](akṣarauṣadhipūjāyāṃ) [rosary+worship+in](japamālāprapūjane)
 
 ## mukta-m0-p44-v1085
-arghya+etc five-vessels to-be-prepared separately separately
+[arghya+etc.+five+vessels](arghyādipañcapātrāṇi) [to-be-prepared](sampādyāni) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p44-v1086
-rice-pudding+pot+pair and indeed offered sprinkling-water likewise
+[cooked-rice+pot+pair](carusthālīdvayaṃ) [and](ca) [indeed](eva) [praṇītā-vessel](praṇītā) [sprinkling-vessel](prokṣaṇī) [likewise](tathā)
 
 ## mukta-m0-p44-v1087
-principal these vessels
+[principal](mukhyāni) [these](etāni) [vessels](pātrāṇi)
 
 ## mukta-m0-p44-v1088
-circle+by wrapped outside square+by and indeed
+[with-circle](vṛttena) [surrounded](veṣṭitaṃ) [outside](bāhye) [with-square](caturasreṇa) [and](ca) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p44-v1089
-sandal-anointed own left+front place fish-seal+by
+[perfume+smeared+on](gandhalipte) [own+left+front+in](svavāmāgre) [one-should-place](vidadhyāt) [fish+gesture+with](matsyamudrayā)
 
 ## mukta-m0-p44-v1090
-limbs square+of corners+in front likewise
+[limbs](aṅgāni) [of-square](caturasrasya) [in-corners](koṇeṣu) [in-front](purataḥ) [likewise](tathā)
 
 ## mukta-m0-p44-v1091
-root+by washed conch-support I-establish
+[with-root-mantra](mūlena) [washed](kṣālitaṃ) [conch+support](śaṅkhādhāraṃ) [I-establish](saṃsthāpayāmi)
 
 ## mukta-m0-p44-v1092
-fire+end circle+for thus dharma-giver+for and
+[vahnyante-maṇḍalāya](vahnyante) [maṇḍalāya](maṇḍalāya) [thus](iti) [likewise](tathā) [dharmapradā](dharmapradā) [thus](iti) [and](ca)
 
 ## mukta-m0-p44-v1093
-fire+of ten phases there clockwise worship
+[of-fire](vahneḥ) [ten](daśa) [digits](kalāḥ) [there](tatra) [clockwise](prādakṣiṇyena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p44-v1094
-therefore properly support arrange clan-goddess+to
+[therefore](tasmāt) [according-to-rule](vidhivat) [support](ādhāraṃ) [one-should-arrange](kalpayet) [O-lady-of-the-kula](kulanāyike)
 
 ## mukta-m0-p44-v1095
-or round-shaped make goddess charming
+[or](athavā) [circular+shaped](vartulākāraṃ) [one-should-make](kuryāt) [O-goddess](devi) [charming](manoharam)
 
 ## mukta-m0-p44-v1096
-Su-shri own-form Kapila oblation+funeral-offering+carriers likewise
+[suśrīḥ](suśrīḥ) [svarūpā](svarūpā) [kapilā](kapilā) [havyakavyavahe](havyakavyavahe) [likewise](tathā)
 
 ## mukta-m0-p44-v1097
-conch-measure indeed span four-finger+raised
+[conch+measure](śaṅkhamānaṃ) [indeed](tu) [span](prādeśaṃ) [four+finger](caturaṃgulam) [raised](ucchritam)
 
 ## mukta-m0-p44-v1098
-I-meaning-giver+for thus say twelve+also
+[ahamarthapradāya](ahamarthapradāya) [thus](iti) [one-should-say](vadet) [twelve](dvādaśa) [thus](iti) [also](api)
 
 ## mukta-m0-p44-v1099
-by-this conch worship phases sun+of worship
+[by-this](anena) [conch](śaṅkham) [having-worshipped](abhyarcya) [digits](kalāḥ) [of-sun](sūryasya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p44-v1100
-Sushumna enjoyment-giver universal enlightening holding forbearing
+[suṣumnā](suṣumnā) [bhogadā](bhogadā) [viśvā](viśvā) [bodhinī](bodhinī) [dhāriṇī](dhāriṇī) [kṣamā](kṣamā)

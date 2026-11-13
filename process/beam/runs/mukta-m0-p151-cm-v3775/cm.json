@@ -3,39 +3,54 @@
  "verse": 3775,
  "rows": [
   {
-   "lemma": "tava",
-   "morph": "pron.gen.sg",
-   "grounds": "second-person possessive pronoun referring to the questioner"
-  },
-  {
-   "lemma": "praśnena",
-   "morph": "m.inst.sg",
-   "grounds": "instrument indicating the means prompting the revelation"
-  },
-  {
-   "lemma": "tantre",
-   "morph": "n.loc.sg",
-   "grounds": "locative indicating the textual context of revelation"
-  },
-  {
-   "lemma": "asmin",
-   "morph": "pron.loc.sg.n",
-   "grounds": "demonstrative specifying the present tantra"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
   },
   {
    "lemma": "tat",
-   "morph": "pron.nom.sg.n",
-   "grounds": "demonstrative referring back to the previously mentioned knowledge"
+   "morph": "n.nom.sg",
+   "grounds": "demonstrative pronoun referring to a fruit/result"
   },
   {
-   "lemma": "sarvaṃ",
-   "morph": "adj.nom.sg.n",
-   "grounds": "quantifier indicating completeness of what is revealed"
+   "lemma": "phala",
+   "morph": "n.nom.sg",
+   "grounds": "result or reward"
   },
   {
-   "lemma": "su+prakāśitam",
-   "morph": "compound: su+prakāśita; ppp.nom.sg.n",
-   "grounds": "compound past passive participle expressing full manifestation"
+   "lemma": "vindati",
+   "morph": "3.sg.pres.act √vid",
+   "grounds": "verb of obtaining or finding"
+  },
+  {
+   "lemma": "yad",
+   "morph": "n.nom.sg",
+   "grounds": "relative pronoun introducing the compared attainment"
+  },
+  {
+   "lemma": "gaṇeśa",
+   "morph": "compound: gaṇeśa+first",
+   "grounds": "first member of compound qualifying thousand names"
+  },
+  {
+   "lemma": "sahasra",
+   "morph": "compound: sahasra+middle",
+   "grounds": "second member of compound qualifying names"
+  },
+  {
+   "lemma": "nāmnaḥ",
+   "morph": "compound: nāman+final.n.gen.sg",
+   "grounds": "final member of compound denoting the thousand names of Gaṇeśa"
+  },
+  {
+   "lemma": "smaraṇena",
+   "morph": "n.inst.sg",
+   "grounds": "instrument denoting the act of recollection"
+  },
+  {
+   "lemma": "sadyaḥ",
+   "morph": "(indecl.)",
+   "grounds": "adverb indicating immediacy of result"
   }
  ]
 }
