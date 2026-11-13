@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "dhāryañ",
+     "gloss": "to-be-held",
+     "grounds": "gerundive of dhṛ; sandhi before cakraṃ",
+     "morph": "gerundive.n.nom.sg-dhṛ"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "discus",
+     "grounds": "object to be held",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates constancy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me'",
+     "gloss": "by-me",
+     "grounds": "first person agent; sandhi fusion with following dya (me adya)",
+     "morph": "pron.1.inst.sg"
+    },
+    {
+     "surface": "dya",
+     "gloss": "today",
+     "grounds": "adya shortened in sandhi after me'",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvānartthapraśāntaye",
+     "gloss": "for-pacification-of-all-misfortunes",
+     "grounds": "purpose; compound sarva-anartha-praśānti",
+     "morph": "f.dat.sg, compound: sarva+anartha+praśānti"
+    }
+   ],
+   "question": "What object must be held constantly today to accomplish the pacification of all misfortunes?",
+   "premises": [
+    "The discus is the object designated to be held.",
+    "The holding is to be performed by the speaker today and always.",
+    "Holding the discus serves the purpose of pacifying all misfortunes."
+   ],
+   "inference": "Therefore the discus must be held constantly today for the pacification of all misfortunes.",
+   "uncertainties": [
+    "The exact referent of cakraṃ in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "The discus is to be held by me always, today, for the pacification of all misfortunes."
+  }
+ ]
+}

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p177-v4401
-of-them left in-ears then hymn should-perform
+[of-them](tāsāṃ) [in-left](savyeṣu) [in-ears](karṇeṣu) [then+praise](tataḥ+stotraṃ) [one-should-perform](samācaret)
+
 ## mukta-m0-p177-v4402
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4403
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4404
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4405
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4406
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4407
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4408
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4409
-by-compassion remove my obstacle mantra-success grant me
+[out-of-compassion](kṛpayā) [remove](hara) [my](me) [obstacle](vighnaṃ) [mantra+success](mantra+siddhiṃ) [grant](prayaccha) [me](me)
+
 ## mukta-m0-p177-v4410
-one many-formed goddess universal-form homage be to-you
+[o-one](eke) [o-manifold](bahuvidhe) [o-goddess](devi) [o-universe+formed](viśva+rūpe) [obeisance+be](namaḥ+astu) [to-you](te)
+
 ## mukta-m0-p177-v4411
-skilled or having-seen his obstacle not arises
+[skilled-woman](vidagdhāṃ) [or](vā) [having-seen](samālokya) [of-him](tasya) [obstacle](vighnaṃ) [not](na) [arises](jāyate)
+
 ## mukta-m0-p177-v4412
-at-initiation-time at-daily-worship-time not-worship if
+[at-initiation+time](dīkṣā+kāle) [at-daily+worship+time](nitya+pūjā+samaye) [not+one-should-worship](na+arcayet) [if](yadi)
+
 ## mukta-m0-p177-v4413
-if shame-filled she then in-food from-that-house outside
+[if](yadi) [modesty+inclined](vrīḍā+parā) [she](sā) [indeed](tu) [in-eating](bhojane) [from-that+house+outside](tat+gṛhāt+vahiḥ)
+
 ## mukta-m0-p177-v4414
-having-sipped mouth-perfume etc betel also offer
+[having-sipped-water](ācamya) [mouth+fragrance+etc](mukha+vāsa+ādi) [betel](tāmbūlaṃ) [and](ca) [one-should-offer](nivedayet)
+
 ## mukta-m0-p177-v4415
-having-dismissed having-circumambulated boon having-requested happy become
+[having-dismissed](visṛjya) [having-circumambulated](pradakṣiṇīkṛtya) [boon](varaṃ) [having-prayed-for](prārthya) [happy](sukhī) [one-may-become](bhavet)
+
 ## mukta-m0-p177-v4416
-elder-sister maternal-aunt or mother with-co-wife
+[elder-sister](agrajāṃ) [maternal-uncle's-wife](mātulānīṃ) [or](vā) [mother](mātaraṃ) [her+co-wife](tat+sapatnikām)
+
 ## mukta-m0-p177-v4417
-in-absence-of-all indeed one-of-two worship-worthy diligently
+[in-absence+of-all](sarva+abhāve) [indeed+one-among-them](hi+ekatarā) [to-be-worshipped](pūjanīyā) [with-effort](prayatnataḥ)
+
 ## mukta-m0-p177-v4418
-all indeed gods worship-worthy truth brahma-shiva-etc
+[all](sarve) [indeed](eva) [gods](surāḥ) [worshipped](pūjyāḥ) [truly](satyaṃ) [Brahma+Śiva+and-others](brahma+śiva+ādayaḥ)
+
 ## mukta-m0-p177-v4419
-all indeed supreme-goddesses worshipped kulabhairava
+[all](sarvāḥ) [indeed](eva) [supreme+goddesses](parā+devyaḥ) [worshipped](pūjitāḥ) [o-Kula+Bhairava](kula+bhairava)
+
 ## mukta-m0-p177-v4420
-obtains supreme success not-here to-be-done deliberation
+[one-obtains](prāpnoti) [supreme](paramāṃ) [success](siddhiṃ) [not+here](na+atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
+
 ## mukta-m0-p177-v4421
-fearless-like pure having-become all-purpose-success-giving
+[by-fearless-one](nirbhayeṇa+eva) [by-pure-one](śucinā) [having-become](bhūtvā) [all+purpose+success+giving](sarva+artha+siddhi+dam)
+
 ## mukta-m0-p177-v4422
-by-bhairava formerly spoken all-desire-purpose-success-giving
+[by-Bhairava](bhairaveṇa) [formerly](purā) [declared](proktaṃ) [all+desire+purpose+success+giving](sarva+kāma+artha+siddhi+dam)
+
 ## mukta-m0-p177-v4423
-outside-that and again cloth root limb-anointing
+[outside-that](tat+bāhye) [and](ca) [again+garment](punar+vastraṃ) [with-root-mantra+limb+anointing](mūlena+aṅga+vilepanam)
+
 ## mukta-m0-p177-v4424
-chosen-deity guru having-bowed journey mid-watch
+[chosen+deity](iṣṭa+devaṃ) [guru](guruṃ) [having-bowed](natvā) [journey](yātrā) [within-a-watch](prahara+madhyataḥ)
+
 ## mukta-m0-p177-v4425
-unagitated having-eaten-food indeed having-eaten practice should-do
+[unagitated](akṣubdhaḥ) [eaten+food](bhukta+bhojyaḥ+tu) [having-eaten](bhuktvā) [practice](sādhanam) [one-should-perform](ācaret)

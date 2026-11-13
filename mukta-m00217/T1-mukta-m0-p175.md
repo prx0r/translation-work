@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p175-v4351
-[seat-first-give](āsanaṃ) [welcome](svāgata) [and](ca) [say](vadet) [again](punaḥ)
+[seat](āsanaṃ) [first](prathamaṃ) [should-give](dadyāt) [welcome](svāgata) [and](ca) [should-say](vadet) [again](punaḥ)
 
 ## mukta-m0-p175-v4352
-[bathe](snāpayed) [perfume-flowers-with](gandhapuṣpādbhiḥ) [hair-rite](keśasaṃskāram) [begin](ārabhet)
+[should-bathe](snāpayed) [with-fragrance+flowers+etc.](gandhapuṣpādbhiḥ) [hair+arrangement](keśasaṃskāram) [should-begin](ārabhet)
 
 ## mukta-m0-p175-v4353
-[then](tataḥ) [place-other](sthānāntare) [seat-spread](pīṭhamāstīrya) [sandals-pair](pādukāyugam)
+[then](tataḥ) [in-another+place](sthānāntare) [seat](pīṭham) [having-spread](āstīrya) [pair+of-sandals](pādukāyugam)
 
 ## mukta-m0-p175-v4354
-[adorn](bhūṣayitvā) [unguent](anulepaṃ) [and](ca) [perfume](gandhaṃ) [garland](mālyaṃ) [offer](nivedayet)
+[having-adorned](bhūṣayitvā) [unguent](anulepaṃ) [and](ca) [fragrance](gandhaṃ) [garland](mālyaṃ) [should-offer](nivedayet)
 
 ## mukta-m0-p175-v4355
-[chewable](carvyaṃ) [suckable](coṣyaṃ) [lickable-drinkable](lehyapeyaṃ) [edible](bhojyaṃ) [and](ca) [five-foods](pañcabhakṣakam)
+[chewable](carvyaṃ) [and](ca) [suckable](uṣyaṃ) [lickable+drinkable](lehyapeyaṃ) [eatable](bhojyaṃ) [and](ca) [five+foods](pañcabhakṣakam)
 
 ## mukta-m0-p175-v4356
 [milk](dugdhaṃ) [curd](dadhi) [ghee](ghṛtaṃ) [buttermilk](takraṃ) [butter](navanītaṃ) [with-sugar](saśarkaram)
 
 ## mukta-m0-p175-v4357
-[coconut](nārikelaṃ) [wood-apple](kapitthaṃ) [and](ca) [orange](nāgaraṅgaṃ) [beautiful](sudarśanam)
+[coconut](nārikelaṃ) [wood-apple](kapitthaṃ) [and](ca) [orange](nāgaraṅgaṃ) [sudarśana-fruit](sudarśanam)
 
 ## mukta-m0-p175-v4358
-[various-forest-fruit](nānāvanyaphalaṃ) [and-also](caiva) [various-perfume-unguent](nānāgandhavilepanam)
+[various+wild+fruits](nānāvanyaphalaṃ) [and](ca) [indeed](eva) [various+fragrance+unguents](nānāgandhavilepanam)
 
 ## mukta-m0-p175-v4359
-[borax](ṭaṅkaṇaṃ) [lodhra](lodhrakaṃ) [and-also](caiva) [water-born](jalajaṃ) [forest-born](vanajaṃ) [so](tathā)
+[borax](ṭaṅkaṇaṃ) [lodhra](lodhrakaṃ) [and](ca) [indeed](eva) [water-born](jalajaṃ) [forest-born](vanajaṃ) [likewise](tathā)
 
 ## mukta-m0-p175-v4360
-[beginning](ādau) [end](ante) [and](ca) [middle](madhye) [and](ca) [mantra-worship-specially](japapūjāviśeṣataḥ)
+[at-beginning](ādau) [at-end](ante) [and](ca) [in-middle](madhye) [and](ca) [with-mantra+worship+speciality](japapūjāviśeṣataḥ)
 
 ## mukta-m0-p175-v4361
-[previously-earned](pūrvārjite) [fruit](phalaṃ) [not-is](nāsti) [what](kā) [talk](kathā) [next-birth](parajanmani)
+[in-previously+earned](pūrvārjite) [fruit](phalaṃ) [not](na) [is](asti) [what](kā) [talk](kathā) [in-another+birth](parajanmani)
 
 ## mukta-m0-p175-v4362
-[mine-also](mamāpi) [anger-heat-pacification](krodhasantāpaśamanaṃ) [obstacle-destruction](vighnanāśanam)
+[of-me](mama) [also](api) [anger+torment](krodhasantāpa) [pacification](śamanaṃ) [obstacle+destruction](vighnanāśanam)
 
 ## mukta-m0-p175-v4363
-[sixteenth](ṣoḍaśaḥ) [breath](śvāsaḥ)
+[sixteenfold](ṣoḍaśaḥ) [breath](śvāsaḥ)
 
 ## mukta-m0-p175-v4364
-[mars](kuje) [or](vā) [saturday](śanivāre) [or](vā) [human-skull](naramuṇḍaṃ) [gathered](samāhṛtam)
+[on-Tuesday](kuje) [or](vā) [on-Saturday](śanivāre) [or](vā) [human+skull](naramuṇḍaṃ) [having-brought](samāhṛtam)
 
 ## mukta-m0-p175-v4365
-[placing](nikṣipya) [ground](bhūmau) [hand-half-measure](hastārdhamānataḥ) [in-forest](kānane) [forest](vane)
+[having-placed](nikṣipya) [on-ground](bhūmau) [hand+half+measure](hastārdhamānataḥ) [in-grove](kānane) [in-forest](vane)
 
 ## mukta-m0-p175-v4366
-[alone](ekākī) [recite-mantra](prajapenmantraṃ) [he](sa) [become](bhavet) [wish-tree](kalpapādapaḥ)
+[alone](ekākī) [should-mutter+mantra](prajapenmantraṃ) [he](sa) [should-become](bhavet) [wish-fulfilling+tree](kalpapādapaḥ)
 
 ## mukta-m0-p175-v4367
-[corpse-bring](śavamānīya) [that-door](taddvāri) [by-that](tenaiva) [dig](parikhanya) [and](ca)
+[corpse](śavam) [having-brought](ānīya) [at-its+door](taddvāri) [by-that+indeed](tenaiva) [having-dug-around](parikhanya) [and](ca)
 
 ## mukta-m0-p175-v4368
-[he](sa) [become](bhavet) [all-accomplishment](sarvasiddhiśo) [no-here](nātra) [work](kāryā) [deliberation](vicāraṇā)
+[he](sa) [should-become](bhavet) [all+accomplishment+lord](sarvasiddhiśaḥ) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
 
 ## mukta-m0-p175-v4369
-[eighth](aṣṭamyāṃ) [and](ca) [fourteenth](caturdaśyāṃ) [fortnights](pakṣayor) [both](ubhayor) [also](api)
+[on-eighth-day](aṣṭamyāṃ) [and](ca) [on-fourteenth-day](caturdaśyāṃ) [of-both+fortnights](pakṣayorubhayor) [also](api)
 
 ## mukta-m0-p175-v4370
-[so-long-reciting](tāvajjaptvā) [fearless](nirātaṅkaḥ) [all-accomplishment-lord](sarvasiddhīśvaro) [become](bhavet)
+[so-much](tāvat) [having-muttered](japtvā) [fearless](nirātaṅkaḥ) [all+accomplishments+lord](sarvasiddhīśvaraḥ) [should-become](bhavet)
 
 ## mukta-m0-p175-v4371
-[autumn-time](śaratkāle) [fourth-to-ninth](caturthyādinavamyantaṃ) [especially](viśeṣataḥ)
+[in-autumn+season](śaratkāle) [from-fourth-day](caturthyādi) [up-to-ninth-day](navamyantaṃ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p175-v4372
-[recite](japed) [one-even](eko'pi) [lonely](vijane) [only](kevalaṃ) [darkness-abode](timirālaye)
+[should-mutter](japet) [alone](ekaḥ) [even](api) [in-solitude](vijane) [only](kevalaṃ) [in-darkness+abode](timirālaye)
 
 ## mukta-m0-p175-v4373
-[krishna-eighth](kṛṣṇāṣṭamīṃ) [beginning](samārabhya) [until](yāvat) [krishna-eighth](kṛṣṇāṣṭamī) [become](bhavet)
+[dark+eighth-day](kṛṣṇāṣṭamīṃ) [having-begun](samārabhya) [until](yāvat) [dark+eighth-day](kṛṣṇāṣṭamī) [should-be](bhavet)
 
 ## mukta-m0-p175-v4374
-[krishna](kṛṣṇāṃ) [fourteenth](caturdaśīṃ) [obtaining](prāpya) [ninth-until](navamyantaṃ) [great-festival](mahotsave)
+[dark](kṛṣṇāṃ) [fourteenth-day](caturdaśīṃ) [having-reached](prāpya) [up-to-ninth-day](navamyantaṃ) [in-great+festival](mahotsave)
 
 ## mukta-m0-p175-v4375
-[tenth](daśamyāṃ) [breaking](pāraṇaṃ) [do](kuryāt) [fish-meat-etc-with](matsyamāṃsādibhiryutam)
+[on-tenth-day](daśamyāṃ) [breaking-fast](pāraṇaṃ) [should-do](kuryāt) [with-fish+meat+etc.](matsyamāṃsādibhiḥ) [accompanied](yutam)

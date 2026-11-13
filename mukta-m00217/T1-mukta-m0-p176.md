@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p176-v4376
-[fourteenth](caturdaśīṃ) [beginning](samārabhya) [until](yāvat) [another](anyā) [fourteenth](caturdaśī)
+[fourteenth-day](caturdaśīṃ) [beginning](samārabhya) [until](yāvat) [another](anyā) [fourteenth-day](caturdaśī)
 
 ## mukta-m0-p176-v4377
-[only](kevalaṃ) [by-japa](japamātreṇa) [mantras](mantrāḥ) [accomplished](siddhāḥ) [become](bhavanti) [indeed](hi)
+[only](kevalaṃ) [recitation+mere](japa+mātreṇa) [mantras](mantrāḥ) [accomplished](siddhāḥ) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p176-v4378
-[then](tato) [naked](nagnāṃ) [woman](striyaṃ) [naked](nagno) [goes](gacchet) [wet](kledayuto) [also](api) [and](ca)
+[then](tato) [naked](nagnāṃ) [woman](striyaṃ) [naked](nagno) [should-go-to](gacchet) [moisture+endowed](kleda+yuto') [also](api) [and](ca)
 
 ## mukta-m0-p176-v4379
-[in-yoni-pit](yonikuṇḍe) [steady](sthiraḥ) [ghee](sarpirmāṃsamatsyāyutaṃ) [and](tathā)
+[yoni+basin](yoni+kuṇḍe) [steady](sthiraḥ) [ghee](sarpiḥ) [meat+fish+endowed](māṃsa+matsya+āyutaṃ) [likewise](tathā)
 
 ## mukta-m0-p176-v4380
-[by-tenth-part](daśāṃśena) [of-offering](tarpaṇasya) [and](ca) [having-sprinkled](abhiṣicya) [world-pervading](jaganmayīm)
+[of-offering](tarpaṇasya) [tenth+part](daśa+aṃśena) [and+having-sprinkled](ca+abhiṣicya) [world+consisting](jagat+mayīm)
 
 ## mukta-m0-p176-v4381
-[first](ādyaṃ) [meat](māṃsaṃ) [and](ca) [fish](matsyaṃ) [and](ca) [chewing](carvaṇaṃ) [and](ca) [offer](nivedayet)
+[first](ādyaṃ) [meat](māṃsaṃ) [and](ca) [fish](matsyaṃ) [and](ca) [chewing](carvaṇaṃ) [and](ca) [should-offer](nivedayet)
 
 ## mukta-m0-p176-v4382
-[to-be-recited](prajaptavyaṃ) [with-effort](prayatnena) [for-all-desires-wealth-accomplishment](sarvakāmārthasiddhaye)
+[should-be-recited](prajaptavyaṃ) [with-effort](prayatnena) [all+desire+purpose+accomplishment](sarva+kāma+artha+siddhaye)
 
 ## mukta-m0-p176-v4383
-[released](mukte) [semen](śukre) [and](ca) [goddess](deveśi) [again](punar) [mantra](mantraṃ) [jap](japet) [wise-one](sudhīḥ)
+[released](mukte) [semen](śukre) [and](ca) [goddess+lord](deva+īśi) [again](punar) [mantra](mantraṃ) [should-recite](japet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p176-v4384
-[in-all-ways](sarvathā) [not](na) [indeed](eva) [to-be-done](kartavyam) [otherwise](anyathā) [accomplishment-obstructing](sidhirodhakṛt)
+[in-every-way](sarvathā) [not](na) [indeed](eva) [should-be-done](kartavyam) [otherwise](anyathā) [accomplishment+obstructing](sidhi+rodhakṛt)
 
 ## mukta-m0-p176-v4385
-[among-women](strīgaṇeṣu) [always](sadā) [to-be-regarded](bhāvyam) [in-absence](abhāve) [own-woman](svastriyām) [also](api)
+[women+groups](strī+gaṇeṣu) [always](sadā) [should-be-conceived](bhāvyam) [in-absence](abhāve) [own+wife](sva+striyām) [also](api)
 
 ## mukta-m0-p176-v4386
-[that-hand-prepared](taddhastāpacitaṃ) [food](bhojyaṃ) [to-deities](devatābhyo) [offer](nivedayet)
+[her+hand+cooked](tat+hasta+āpacitaṃ) [should-be-eaten](bhojyaṃ) [to-deities](devatābhyo) [should-offer](nivedayet)
 
 ## mukta-m0-p176-v4387
-[by-divine-ones](divyairapi) [also](ca) [to-be-done](kartavyaṃ) [by-beasts](paśubhir) [not](naca) [by-vulgar](pāmaraiḥ)
+[by-divine](divyaiḥ) [also](api) [and](ca) [should-be-done](kartavyaṃ) [by-animal-like](paśubhiḥ) [not](na) [and](ca) [by-vulgar](pāmaraiḥ)
 
 ## mukta-m0-p176-v4388
-[initiated](dīkṣitāṃ) [with-clothes-ornaments-etc](vastrabhūṣādyair) [with-foods](bhojyaiḥ) [rice-pudding-born](pāyasasaṃbhavaiḥ)
+[initiated-woman](dīkṣitāṃ) [garment+ornament+etc](vastra+bhūṣa+ādyaiḥ) [with-foods](bhojyaiḥ) [milk-rice+produced](pāyasa+saṃbhavaiḥ)
 
 ## mukta-m0-p176-v4389
-[milk](dugdhaṃ) [curd](dadhi) [ghee](ghṛtaṃ) [buttermilk](takraṃ) [butter](navanītaṃ) [with-sugar](saśarkaram)
+[milk](dugdhaṃ) [curd](dadhi) [ghee](ghṛtaṃ) [buttermilk](takraṃ) [butter](navanītaṃ) [with-sugar](sa+śarkaram)
 
 ## mukta-m0-p176-v4390
-[coconut](nārikelaṃ) [wood-apple](kapitthaṃ) [and](ca) [orange](nāgaraṅgaṃ) [beautiful](sudarśanam)
+[coconut](nārikelaṃ) [wood-apple](kapitthaṃ) [and](ca) [orange](nāgaraṅgaṃ) [beautiful-sight](sudarśanam)
 
 ## mukta-m0-p176-v4391
-[various-wild-fruits](nānāvanyaphalaṃ) [and](ca) [indeed](eva) [various-perfume-ointments](nānāgandhavilepanam)
+[various+wild+fruit](nānā+vanya+phalaṃ) [and](ca) [indeed](eva) [various+fragrance+unguent](nānā+gandha+vilepanam)
 
 ## mukta-m0-p176-v4392
-[borax](ṭaṅkaṇaṃ) [lodhra](lodhrakaṃ) [and](ca) [indeed](eva) [water-born](jalajaṃ) [forest-born](vanajaṃ) [and](tathā)
+[borax](ṭaṅkaṇaṃ) [lodhra](lodhrakaṃ) [and](ca) [indeed](eva) [water-born](jala+jaṃ) [forest-born](vana+jaṃ) [likewise](tathā)
 
 ## mukta-m0-p176-v4393
-[in-empty-house](śūnye) [house](gehe) [having-brought](samānīya) [arghya-water-purified](cārghyodakaviśodhitam)
+[empty](śūnye) [house](gehe) [having-brought](samānīya) [arghya+water+purified](ca+arghya+udaka+viśodhitam)
 
 ## mukta-m0-p176-v4394
-[brahmin-woman](brāhmaṇī) [kshatriya](kṣatriyā) [vaishya](vaiśyā) [shudra](śūdrā) [and](ca) [family-ornament](kulabhūṣaṇā)
+[brahmin-woman](brāhmaṇī) [kshatriya-woman](kṣatriyā) [vaishya-woman](vaiśyā) [shudra-woman](śūdrā) [and](ca) [family+ornament](kula+bhūṣaṇā)
 
 ## mukta-m0-p176-v4395
-[special-skill-endowed](viśeṣavaidagdhyayutāḥ) [all](sarvā) [indeed](eva) [family-women](kulāṅganāḥ)
+[special+skill+endowed](viśeṣa+vaidagdhya+yutāḥ) [all](sarvā) [indeed](eva) [family+women](kula+aṅganāḥ)
 
 ## mukta-m0-p176-v4396
 [arghya](arghyaṃ) [foot-water](pādyaṃ) [and](ca) [drinking-water](pānīyaṃ) [honey-mixture](madhuparkaṃ) [water](jalaṃ) [then](tataḥ)
 
 ## mukta-m0-p176-v4397
-[having-incensed](dhūpayitvā) [then](tataḥ) [hairs](keśān) [silk](kauśeyaṃ) [and](ca) [offer](nivedayet)
+[having-perfumed](dhūpayitvā) [then](tataḥ) [hair](keśān) [silk-garment](kauśeyaṃ) [and](ca) [should-offer](nivedayet)
 
 ## mukta-m0-p176-v4398
-[having-given](dattvā) [there](tatra) [having-brought](samānīya) [with-various-ornaments](nānālaṅkārabhūṣaṇaiḥ)
+[having-given](dattvā) [there](tatra) [having-brought](samānīya) [various+ornament+decorations](nānā+alaṅkāra+bhūṣaṇaiḥ)
 
 ## mukta-m0-p176-v4399
-[that](tāṃ) [that](tāṃ) [shakti](śakti) [having-invoked](samāvāhya) [on-head](mūrdhniṃ) [of-them](tāsāṃ) [bring](samānayet)
+[that](tāṃ) [that](tāṃ) [power](śakti) [having-invoked](samāvāhya) [on-head](mūrdhniṃ) [of-them](tāsāṃ) [should-bring](samānayet)
 
 ## mukta-m0-p176-v4400
-[chewable](carvyaṃ) [suckable](coṣyaṃ) [lickable-drinkable](lehyapeyaṃ) [eatable](bhakṣyaṃ) [food](bhojyaṃ) [offer](nivedayet)
+[chewable](carvyaṃ) [suckable](coṣyaṃ) [lickable+drinkable](lehya+peyaṃ) [eatable](bhakṣyaṃ) [food](bhojyaṃ) [should-offer](nivedayet)

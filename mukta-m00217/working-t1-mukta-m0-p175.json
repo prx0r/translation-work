@@ -8,7 +8,15 @@
 "tokens": [
 {
 "surface": "āsanaṃ",
-"quick_gloss": "seat-first-give"
+"quick_gloss": "seat"
+},
+{
+"surface": "prathamaṃ",
+"quick_gloss": "first"
+},
+{
+"surface": "dadyāt",
+"quick_gloss": "should-give"
 },
 {
 "surface": "svāgata",
@@ -20,7 +28,7 @@
 },
 {
 "surface": "vadet",
-"quick_gloss": "say"
+"quick_gloss": "should-say"
 },
 {
 "surface": "punaḥ",
@@ -37,19 +45,19 @@
 "tokens": [
 {
 "surface": "snāpayed",
-"quick_gloss": "bathe"
+"quick_gloss": "should-bathe"
 },
 {
 "surface": "gandhapuṣpādbhiḥ",
-"quick_gloss": "perfume-flowers-with"
+"quick_gloss": "with-fragrance+flowers+etc."
 },
 {
 "surface": "keśasaṃskāram",
-"quick_gloss": "hair-rite"
+"quick_gloss": "hair+arrangement"
 },
 {
 "surface": "ārabhet",
-"quick_gloss": "begin"
+"quick_gloss": "should-begin"
 }
 ]
 },
@@ -66,15 +74,19 @@
 },
 {
 "surface": "sthānāntare",
-"quick_gloss": "place-other"
+"quick_gloss": "in-another+place"
 },
 {
-"surface": "pīṭhamāstīrya",
-"quick_gloss": "seat-spread"
+"surface": "pīṭham",
+"quick_gloss": "seat"
+},
+{
+"surface": "āstīrya",
+"quick_gloss": "having-spread"
 },
 {
 "surface": "pādukāyugam",
-"quick_gloss": "sandals-pair"
+"quick_gloss": "pair+of-sandals"
 }
 ]
 },
@@ -87,7 +99,7 @@
 "tokens": [
 {
 "surface": "bhūṣayitvā",
-"quick_gloss": "adorn"
+"quick_gloss": "having-adorned"
 },
 {
 "surface": "anulepaṃ",
@@ -99,7 +111,7 @@
 },
 {
 "surface": "gandhaṃ",
-"quick_gloss": "perfume"
+"quick_gloss": "fragrance"
 },
 {
 "surface": "mālyaṃ",
@@ -107,7 +119,7 @@
 },
 {
 "surface": "nivedayet",
-"quick_gloss": "offer"
+"quick_gloss": "should-offer"
 }
 ]
 },
@@ -123,16 +135,20 @@
 "quick_gloss": "chewable"
 },
 {
-"surface": "coṣyaṃ",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "uṣyaṃ",
 "quick_gloss": "suckable"
 },
 {
 "surface": "lehyapeyaṃ",
-"quick_gloss": "lickable-drinkable"
+"quick_gloss": "lickable+drinkable"
 },
 {
 "surface": "bhojyaṃ",
-"quick_gloss": "edible"
+"quick_gloss": "eatable"
 },
 {
 "surface": "ca",
@@ -140,7 +156,7 @@
 },
 {
 "surface": "pañcabhakṣakam",
-"quick_gloss": "five-foods"
+"quick_gloss": "five+foods"
 }
 ]
 },
@@ -202,7 +218,7 @@
 },
 {
 "surface": "sudarśanam",
-"quick_gloss": "beautiful"
+"quick_gloss": "sudarśana-fruit"
 }
 ]
 },
@@ -215,15 +231,19 @@
 "tokens": [
 {
 "surface": "nānāvanyaphalaṃ",
-"quick_gloss": "various-forest-fruit"
+"quick_gloss": "various+wild+fruits"
 },
 {
-"surface": "caiva",
-"quick_gloss": "and-also"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "nānāgandhavilepanam",
-"quick_gloss": "various-perfume-unguent"
+"quick_gloss": "various+fragrance+unguents"
 }
 ]
 },
@@ -243,8 +263,12 @@
 "quick_gloss": "lodhra"
 },
 {
-"surface": "caiva",
-"quick_gloss": "and-also"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "jalajaṃ",
@@ -256,7 +280,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "so"
+"quick_gloss": "likewise"
 }
 ]
 },
@@ -269,11 +293,11 @@
 "tokens": [
 {
 "surface": "ādau",
-"quick_gloss": "beginning"
+"quick_gloss": "at-beginning"
 },
 {
 "surface": "ante",
-"quick_gloss": "end"
+"quick_gloss": "at-end"
 },
 {
 "surface": "ca",
@@ -281,7 +305,7 @@
 },
 {
 "surface": "madhye",
-"quick_gloss": "middle"
+"quick_gloss": "in-middle"
 },
 {
 "surface": "ca",
@@ -289,7 +313,7 @@
 },
 {
 "surface": "japapūjāviśeṣataḥ",
-"quick_gloss": "mantra-worship-specially"
+"quick_gloss": "with-mantra+worship+speciality"
 }
 ]
 },
@@ -302,15 +326,19 @@
 "tokens": [
 {
 "surface": "pūrvārjite",
-"quick_gloss": "previously-earned"
+"quick_gloss": "in-previously+earned"
 },
 {
 "surface": "phalaṃ",
 "quick_gloss": "fruit"
 },
 {
-"surface": "nāsti",
-"quick_gloss": "not-is"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "asti",
+"quick_gloss": "is"
 },
 {
 "surface": "kā",
@@ -322,7 +350,7 @@
 },
 {
 "surface": "parajanmani",
-"quick_gloss": "next-birth"
+"quick_gloss": "in-another+birth"
 }
 ]
 },
@@ -334,16 +362,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mamāpi",
-"quick_gloss": "mine-also"
+"surface": "mama",
+"quick_gloss": "of-me"
 },
 {
-"surface": "krodhasantāpaśamanaṃ",
-"quick_gloss": "anger-heat-pacification"
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "krodhasantāpa",
+"quick_gloss": "anger+torment"
+},
+{
+"surface": "śamanaṃ",
+"quick_gloss": "pacification"
 },
 {
 "surface": "vighnanāśanam",
-"quick_gloss": "obstacle-destruction"
+"quick_gloss": "obstacle+destruction"
 }
 ]
 },
@@ -356,7 +392,7 @@
 "tokens": [
 {
 "surface": "ṣoḍaśaḥ",
-"quick_gloss": "sixteenth"
+"quick_gloss": "sixteenfold"
 },
 {
 "surface": "śvāsaḥ",
@@ -373,7 +409,7 @@
 "tokens": [
 {
 "surface": "kuje",
-"quick_gloss": "mars"
+"quick_gloss": "on-Tuesday"
 },
 {
 "surface": "vā",
@@ -381,7 +417,7 @@
 },
 {
 "surface": "śanivāre",
-"quick_gloss": "saturday"
+"quick_gloss": "on-Saturday"
 },
 {
 "surface": "vā",
@@ -389,11 +425,11 @@
 },
 {
 "surface": "naramuṇḍaṃ",
-"quick_gloss": "human-skull"
+"quick_gloss": "human+skull"
 },
 {
 "surface": "samāhṛtam",
-"quick_gloss": "gathered"
+"quick_gloss": "having-brought"
 }
 ]
 },
@@ -406,23 +442,23 @@
 "tokens": [
 {
 "surface": "nikṣipya",
-"quick_gloss": "placing"
+"quick_gloss": "having-placed"
 },
 {
 "surface": "bhūmau",
-"quick_gloss": "ground"
+"quick_gloss": "on-ground"
 },
 {
 "surface": "hastārdhamānataḥ",
-"quick_gloss": "hand-half-measure"
+"quick_gloss": "hand+half+measure"
 },
 {
 "surface": "kānane",
-"quick_gloss": "in-forest"
+"quick_gloss": "in-grove"
 },
 {
 "surface": "vane",
-"quick_gloss": "forest"
+"quick_gloss": "in-forest"
 }
 ]
 },
@@ -439,7 +475,7 @@
 },
 {
 "surface": "prajapenmantraṃ",
-"quick_gloss": "recite-mantra"
+"quick_gloss": "should-mutter+mantra"
 },
 {
 "surface": "sa",
@@ -447,11 +483,11 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "become"
+"quick_gloss": "should-become"
 },
 {
 "surface": "kalpapādapaḥ",
-"quick_gloss": "wish-tree"
+"quick_gloss": "wish-fulfilling+tree"
 }
 ]
 },
@@ -463,20 +499,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śavamānīya",
-"quick_gloss": "corpse-bring"
+"surface": "śavam",
+"quick_gloss": "corpse"
+},
+{
+"surface": "ānīya",
+"quick_gloss": "having-brought"
 },
 {
 "surface": "taddvāri",
-"quick_gloss": "that-door"
+"quick_gloss": "at-its+door"
 },
 {
 "surface": "tenaiva",
-"quick_gloss": "by-that"
+"quick_gloss": "by-that+indeed"
 },
 {
 "surface": "parikhanya",
-"quick_gloss": "dig"
+"quick_gloss": "having-dug-around"
 },
 {
 "surface": "ca",
@@ -497,23 +537,27 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "become"
+"quick_gloss": "should-become"
 },
 {
-"surface": "sarvasiddhiśo",
-"quick_gloss": "all-accomplishment"
+"surface": "sarvasiddhiśaḥ",
+"quick_gloss": "all+accomplishment+lord"
 },
 {
-"surface": "nātra",
-"quick_gloss": "no-here"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "kāryā",
-"quick_gloss": "work"
+"quick_gloss": "to-be-done"
 },
 {
 "surface": "vicāraṇā",
-"quick_gloss": "deliberation"
+"quick_gloss": "consideration"
 }
 ]
 },
@@ -526,7 +570,7 @@
 "tokens": [
 {
 "surface": "aṣṭamyāṃ",
-"quick_gloss": "eighth"
+"quick_gloss": "on-eighth-day"
 },
 {
 "surface": "ca",
@@ -534,15 +578,11 @@
 },
 {
 "surface": "caturdaśyāṃ",
-"quick_gloss": "fourteenth"
+"quick_gloss": "on-fourteenth-day"
 },
 {
-"surface": "pakṣayor",
-"quick_gloss": "fortnights"
-},
-{
-"surface": "ubhayor",
-"quick_gloss": "both"
+"surface": "pakṣayorubhayor",
+"quick_gloss": "of-both+fortnights"
 },
 {
 "surface": "api",
@@ -558,20 +598,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tāvajjaptvā",
-"quick_gloss": "so-long-reciting"
+"surface": "tāvat",
+"quick_gloss": "so-much"
+},
+{
+"surface": "japtvā",
+"quick_gloss": "having-muttered"
 },
 {
 "surface": "nirātaṅkaḥ",
 "quick_gloss": "fearless"
 },
 {
-"surface": "sarvasiddhīśvaro",
-"quick_gloss": "all-accomplishment-lord"
+"surface": "sarvasiddhīśvaraḥ",
+"quick_gloss": "all+accomplishments+lord"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "become"
+"quick_gloss": "should-become"
 }
 ]
 },
@@ -584,11 +628,15 @@
 "tokens": [
 {
 "surface": "śaratkāle",
-"quick_gloss": "autumn-time"
+"quick_gloss": "in-autumn+season"
 },
 {
-"surface": "caturthyādinavamyantaṃ",
-"quick_gloss": "fourth-to-ninth"
+"surface": "caturthyādi",
+"quick_gloss": "from-fourth-day"
+},
+{
+"surface": "navamyantaṃ",
+"quick_gloss": "up-to-ninth-day"
 },
 {
 "surface": "viśeṣataḥ",
@@ -604,16 +652,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "japed",
-"quick_gloss": "recite"
+"surface": "japet",
+"quick_gloss": "should-mutter"
 },
 {
-"surface": "eko'pi",
-"quick_gloss": "one-even"
+"surface": "ekaḥ",
+"quick_gloss": "alone"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "vijane",
-"quick_gloss": "lonely"
+"quick_gloss": "in-solitude"
 },
 {
 "surface": "kevalaṃ",
@@ -621,7 +673,7 @@
 },
 {
 "surface": "timirālaye",
-"quick_gloss": "darkness-abode"
+"quick_gloss": "in-darkness+abode"
 }
 ]
 },
@@ -634,11 +686,11 @@
 "tokens": [
 {
 "surface": "kṛṣṇāṣṭamīṃ",
-"quick_gloss": "krishna-eighth"
+"quick_gloss": "dark+eighth-day"
 },
 {
 "surface": "samārabhya",
-"quick_gloss": "beginning"
+"quick_gloss": "having-begun"
 },
 {
 "surface": "yāvat",
@@ -646,11 +698,11 @@
 },
 {
 "surface": "kṛṣṇāṣṭamī",
-"quick_gloss": "krishna-eighth"
+"quick_gloss": "dark+eighth-day"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "become"
+"quick_gloss": "should-be"
 }
 ]
 },
@@ -663,23 +715,23 @@
 "tokens": [
 {
 "surface": "kṛṣṇāṃ",
-"quick_gloss": "krishna"
+"quick_gloss": "dark"
 },
 {
 "surface": "caturdaśīṃ",
-"quick_gloss": "fourteenth"
+"quick_gloss": "fourteenth-day"
 },
 {
 "surface": "prāpya",
-"quick_gloss": "obtaining"
+"quick_gloss": "having-reached"
 },
 {
 "surface": "navamyantaṃ",
-"quick_gloss": "ninth-until"
+"quick_gloss": "up-to-ninth-day"
 },
 {
 "surface": "mahotsave",
-"quick_gloss": "great-festival"
+"quick_gloss": "in-great+festival"
 }
 ]
 },
@@ -692,19 +744,23 @@
 "tokens": [
 {
 "surface": "daśamyāṃ",
-"quick_gloss": "tenth"
+"quick_gloss": "on-tenth-day"
 },
 {
 "surface": "pāraṇaṃ",
-"quick_gloss": "breaking"
+"quick_gloss": "breaking-fast"
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "do"
+"quick_gloss": "should-do"
 },
 {
-"surface": "matsyamāṃsādibhiryutam",
-"quick_gloss": "fish-meat-etc-with"
+"surface": "matsyamāṃsādibhiḥ",
+"quick_gloss": "with-fish+meat+etc."
+},
+{
+"surface": "yutam",
+"quick_gloss": "accompanied"
 }
 ]
 }

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "śikhaṇḍī",
+     "gloss": "peacock-crested",
+     "grounds": "epithet denoting possession of a crest or plume",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kavacī",
+     "gloss": "armored",
+     "grounds": "epithet denoting possession of armor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūlī",
+     "gloss": "trident-bearing",
+     "grounds": "epithet denoting possession of a trident",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jaṭī",
+     "gloss": "matted-haired",
+     "grounds": "epithet denoting possession of matted locks",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muṇḍī",
+     "gloss": "shaven-headed",
+     "grounds": "epithet denoting a shaven or bare head",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍalī",
+     "gloss": "earring-wearing",
+     "grounds": "epithet denoting possession of earrings",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What range of iconic attributes characterizes the figure described in this sequence?",
+   "premises": [
+    "The figure is described as peacock-crested and armored.",
+    "The figure is described as trident-bearing, matted-haired, and shaven-headed.",
+    "The figure is also described as earring-wearing."
+   ],
+   "inference": "The described figure is characterized by a diverse and seemingly contrasting set of iconic attributes.",
+   "uncertainties": [
+    "The specific referent of these epithets depends on the preceding context."
+   ],
+   "plain_english": "He is peacock-crested, armored, trident-bearing, matted-haired, shaven-headed, and wearing earrings."
+  }
+ ]
+}
