@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p21",
  "verse": 506,
- "question": "What ritual action should follow meditation and mental worship?",
+ "question": "What restriction applies to mantra accomplishment during the specified duration?",
  "premises": [
-  "One should meditate in the prescribed manner.",
-  "One should worship with mental offerings and then place the conch."
+  "Muttering is to be performed for that duration.",
+  "Mantra accomplishment is mentioned as the object.",
+  "The verb is negated by the prohibitive particle."
  ],
- "inference": "After meditation and mental worship, the practitioner should perform the placement of the conch.",
- "uncertainties": [],
- "plain_english": "Having thus meditated and worshipped with mental offerings, one should perform the placement of the conch."
+ "inference": "During that duration one should perform muttering but should not practice mantra accomplishment.",
+ "uncertainties": [
+  "The form 'prakudhvīta' and the contrast with verse 505 suggest a textual or doctrinal distinction that is unclear."
+ ],
+ "plain_english": "For so long, one should perform muttering but should not practice mantra accomplishment."
 }

@@ -41,7 +41,7 @@
 "tokens": [
 {
 "surface": "haviṣyānnaṃ",
-"quick_gloss": "oblation-food"
+"quick_gloss": "of-haviṣya-food"
 },
 {
 "surface": "sahasraṃ",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "only"
+"quick_gloss": "indeed"
 },
 {
 "surface": "vā",
@@ -78,7 +78,7 @@
 "tokens": [
 {
 "surface": "karmanirdeśa",
-"quick_gloss": "with-rite-designation"
+"quick_gloss": "with-ritual-instruction"
 },
 {
 "surface": "saṃyuktam",
@@ -94,7 +94,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "tarpayet",
@@ -152,7 +152,7 @@
 "tokens": [
 {
 "surface": "svārthaṃ",
-"quick_gloss": "for-one's-own-sake"
+"quick_gloss": "for-oneself"
 },
 {
 "surface": "ca",
@@ -160,7 +160,7 @@
 },
 {
 "surface": "yajamānārthaṃ",
-"quick_gloss": "for-sake-of-sacrificer"
+"quick_gloss": "for-sponsor's-sake"
 },
 {
 "surface": "ca",
@@ -205,7 +205,7 @@
 },
 {
 "surface": "yāvatkarma",
-"quick_gloss": "until-rite"
+"quick_gloss": "until-ritual"
 },
 {
 "surface": "samāptaye",
@@ -325,7 +325,7 @@
 },
 {
 "surface": "śāntivat",
-"quick_gloss": "as-pacification"
+"quick_gloss": "as-for-pacification"
 },
 {
 "surface": "ācaret",
@@ -350,19 +350,15 @@
 },
 {
 "surface": "mūrtihomasya",
-"quick_gloss": "of-image-oblation"
+"quick_gloss": "of-mūrti-homa"
 },
 {
 "surface": "viśeṣaḥ",
 "quick_gloss": "special-rule"
 },
 {
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "atra",
-"quick_gloss": "here"
+"surface": "tu+atra",
+"quick_gloss": "but-here"
 },
 {
 "surface": "kathyate",
@@ -383,7 +379,7 @@
 },
 {
 "surface": "mūrti+mūrtīśān",
-"quick_gloss": "image-and-image-lords"
+"quick_gloss": "mūrti-and-mūrti-lords"
 },
 {
 "surface": "aṣṭa",
@@ -408,14 +404,14 @@
 "tokens": [
 {
 "surface": "sthaṇḍileṣu",
-"quick_gloss": "on-altar-grounds"
+"quick_gloss": "on-altar-platforms"
 },
 {
 "surface": "aṣṭakuṇḍeṣu",
 "quick_gloss": "in-eight-fire-pits"
 },
 {
-"surface": "vedikāsahiteṣu",
+"surface": "vedikā+sahiteṣu",
 "quick_gloss": "with-platforms"
 },
 {
@@ -440,12 +436,8 @@
 "quick_gloss": "in-number"
 },
 {
-"surface": "vā",
+"surface": "vā+api",
 "quick_gloss": "or"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
 },
 {
 "surface": "tadarthaṃ",
@@ -482,11 +474,11 @@
 },
 {
 "surface": "śrīvṛkṣa",
-"quick_gloss": "bilva"
+"quick_gloss": "śrīvṛkṣa"
 },
 {
 "surface": "plakṣāḥ",
-"quick_gloss": "and-plakṣa"
+"quick_gloss": "plakṣa"
 },
 {
 "surface": "samidhaḥ",
@@ -494,7 +486,7 @@
 },
 {
 "surface": "īritāḥ",
-"quick_gloss": "are-declared"
+"quick_gloss": "are-prescribed"
 }
 ]
 },
@@ -507,11 +499,11 @@
 "tokens": [
 {
 "surface": "pañcapakṣe",
-"quick_gloss": "in-fivefold-option"
+"quick_gloss": "in-the-fivefold-option"
 },
 {
 "surface": "aṣtapakṣe",
-"quick_gloss": "in-eightfold-option"
+"quick_gloss": "in-the-eightfold-option"
 },
 {
 "surface": "vā",
@@ -519,7 +511,7 @@
 },
 {
 "surface": "sthaṇḍilaṃ",
-"quick_gloss": "altar-ground"
+"quick_gloss": "altar-platform"
 },
 {
 "surface": "pūrvadiggatam",
@@ -536,7 +528,7 @@
 "tokens": [
 {
 "surface": "pūrvasmin",
-"quick_gloss": "in-eastern"
+"quick_gloss": "in-the-eastern"
 },
 {
 "surface": "īśa+kuṇḍe",
@@ -551,7 +543,7 @@
 "quick_gloss": "the-teacher"
 },
 {
-"surface": "saṃhitāya",
+"surface": "saṃhitāyā",
 "quick_gloss": "with-saṃhitā"
 },
 {
@@ -598,7 +590,7 @@
 },
 {
 "surface": "mūrtihomaḥ",
-"quick_gloss": "image-oblation"
+"quick_gloss": "mūrti-homa"
 },
 {
 "surface": "ayam",
@@ -606,7 +598,7 @@
 },
 {
 "surface": "mūrtīśa+arcana+homayuk",
-"quick_gloss": "joined-with-image-lord-worship-and-oblation"
+"quick_gloss": "with-mūrti-lord-worship-and-homa"
 }
 ]
 },
@@ -663,12 +655,8 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "adya",
-"quick_gloss": "now"
+"surface": "na+adya",
+"quick_gloss": "not-now"
 },
 {
 "surface": "api",
@@ -718,7 +706,7 @@
 "tokens": [
 {
 "surface": "pādya+ādīnāṃ",
-"quick_gloss": "of-foot-water-etc."
+"quick_gloss": "of-pādya-etc."
 },
 {
 "surface": "catuṣke",
@@ -755,7 +743,7 @@
 },
 {
 "surface": "pañcagavye",
-"quick_gloss": "in-five-products-of-cow"
+"quick_gloss": "in-pañcagavya"
 },
 {
 "surface": "vā",
@@ -767,7 +755,7 @@
 },
 {
 "surface": "pañcāmṛte",
-"quick_gloss": "in-five-nectars"
+"quick_gloss": "in-pañcāmṛta"
 },
 {
 "surface": "api",

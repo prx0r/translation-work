@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "the mind as the inner faculty to be consumed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dagdhvā",
+     "gloss": "having-burned",
+     "grounds": "absolutive expressing prior act of burning up",
+     "morph": "gerund (√dah)"
+    },
+    {
+     "surface": "śivadhāma",
+     "gloss": "śiva-abode",
+     "grounds": "compound denoting the abode or state of Śiva",
+     "morph": "compound: śiva+dhāman; n.acc.sg"
+    },
+    {
+     "surface": "labdham",
+     "gloss": "obtained",
+     "grounds": "attained as the result of burning the mind",
+     "morph": "ppp.n.nom.sg (√labh)"
+    }
+   ],
+   "question": "By what inner act is the abode of Śiva attained?",
+   "premises": [
+    "The mind is subject to being burned up.",
+    "Burning the mind is a completed prior act.",
+    "The abode of Śiva is attained as a result."
+   ],
+   "inference": "Attainment of Śiva's abode follows from the burning of the mind.",
+   "uncertainties": [],
+   "plain_english": "And having burned the mind, the abode of Śiva is attained."
+  }
+ ]
+}

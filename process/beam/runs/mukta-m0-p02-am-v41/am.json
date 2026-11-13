@@ -1,12 +1,19 @@
 {
  "song": "mukta-m0-p02",
  "verse": 41,
- "question": "What boons does the smoke-formed great goddess bestow upon devotees?",
+ "question": "For whom does drinking the pure nectar of knowledge become liberation?",
  "premises": [
-  "The great goddess has a smoke form",
-  "She bestows the four goals of life"
+  "Pure nectar of knowledge is available",
+  "Liberation is linked to it",
+  "The recipient of liberation is questioned"
  ],
- "inference": "The smoke-formed great goddess grants the four aims of human life.",
- "uncertainties": [],
- "plain_english": "The great goddess in smoke form is the giver of the four goals of life."
+ "inference": "The verse asks who attains liberation through the pure nectar of knowledge.",
+ "uncertainties": [
+  "bvaha",
+  "amalāña",
+  "kasa",
+  "kyāha",
+  "mvace"
+ ],
+ "plain_english": "For whom is there liberation through the pure nectar of knowledge?"
 }

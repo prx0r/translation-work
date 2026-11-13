@@ -1,0 +1,617 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "caturthyān",
+     "gloss": "from-fourth-day",
+     "grounds": "starting point of the period",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "initiating action",
+     "morph": "gerund (sam-ā-rabh)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "extent of the period",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "ninth-day",
+     "grounds": "endpoint of the period",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.act-optative (bhū)"
+    }
+   ],
+   "question": "Which lunar days define the period for beginning the prescribed practice?",
+   "premises": [
+    "The period begins from the fourth day.",
+    "The period extends up to the ninth day.",
+    "This span is presented as a possible time frame."
+   ],
+   "inference": "The prescribed practice may be undertaken in a period beginning on the fourth day and lasting until the ninth day.",
+   "uncertainties": [],
+   "plain_english": "But beginning from the fourth day, it may extend up to the ninth day."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "saptamyāñ",
+     "gloss": "on-seventh-day",
+     "grounds": "alternative starting point",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "initiating action",
+     "morph": "gerund (sam-ā-rabh)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "extent of the period",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "ninth-day",
+     "grounds": "endpoint of the period",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.act-optative (bhū)"
+    }
+   ],
+   "question": "What alternative lunar period is permitted for beginning the prescribed practice?",
+   "premises": [
+    "The period may begin on the seventh day.",
+    "The period extends up to the ninth day.",
+    "This span is presented as a possible time frame."
+   ],
+   "inference": "The prescribed practice may alternatively be undertaken in a period beginning on the seventh day and lasting until the ninth day.",
+   "uncertainties": [],
+   "plain_english": "Or beginning on the seventh day, it may extend up to the ninth day."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "śubha+kāle",
+     "gloss": "at-auspicious-time",
+     "grounds": "favorable temporal condition",
+     "morph": "compound: śubha+modifier, kāle+head; m.loc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "initiating action",
+     "morph": "gerund (sam-ā-rabh)"
+    },
+    {
+     "surface": "mantra+sādhanam",
+     "gloss": "mantra-accomplishment",
+     "grounds": "ritual practice to be performed",
+     "morph": "compound: mantra+modifier, sādhanam+head; n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-practice",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act-optative (ā-car)"
+    }
+   ],
+   "question": "Under what temporal condition should mantra accomplishment be undertaken?",
+   "premises": [
+    "An auspicious time is specified as the condition.",
+    "The practice begins at that time.",
+    "Mantra accomplishment is the prescribed activity."
+   ],
+   "inference": "One should begin at an auspicious time and practice mantra accomplishment.",
+   "uncertainties": [],
+   "plain_english": "Having begun at an auspicious time, one should practice mantra accomplishment."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "grāsāt",
+     "gloss": "from-seizing",
+     "grounds": "starting point of the recitation period",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vimukti+paryantaṃ",
+     "gloss": "until-release",
+     "grounds": "endpoint of the recitation period",
+     "morph": "compound: vimukti+modifier, paryantaṃ+head; m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "prescribed recitation",
+     "morph": "3.sg.act-optative (jap)"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ananya+dhīḥ",
+     "gloss": "with-undivided-mind",
+     "grounds": "required mental state",
+     "morph": "compound: ananya+modifier, dhīḥ+head; m.nom.sg"
+    }
+   ],
+   "question": "What duration and mental state are required for mantra recitation?",
+   "premises": [
+    "Recitation extends from seizing until release.",
+    "The mantra is the object of recitation.",
+    "The practitioner must have an undivided mind."
+   ],
+   "inference": "One should mutter the mantra with an undivided mind from seizing until release.",
+   "uncertainties": [
+    "The precise ritual referents of 'grāsa' and 'vimukti' are context-dependent."
+   ],
+   "plain_english": "From seizing until release, one should mutter the mantra with an undivided mind."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "for-so-long",
+     "grounds": "duration matching prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "muttering",
+     "grounds": "act of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.mid-optative (pra-kṛ)"
+    },
+    {
+     "surface": "mantra+sādhanam",
+     "gloss": "mantra-accomplishment",
+     "grounds": "ritual practice to be performed",
+     "morph": "compound: mantra+modifier, sādhanam+head; n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-practice",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act-optative (ā-car)"
+    }
+   ],
+   "question": "How long should muttering and mantra accomplishment be carried out?",
+   "premises": [
+    "The duration is indicated as 'for so long'.",
+    "Muttering is to be performed.",
+    "Mantra accomplishment is to be practiced."
+   ],
+   "inference": "One should perform muttering and practice mantra accomplishment for that entire duration.",
+   "uncertainties": [],
+   "plain_english": "For so long, one should perform muttering and practice mantra accomplishment."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "for-so-long",
+     "grounds": "duration matching prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "muttering",
+     "grounds": "act of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakudhvīta",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction; non-standard form",
+     "morph": "3.sg.mid-optative (pra-kṛ), variant spelling"
+    },
+    {
+     "surface": "mantra+sādhana",
+     "gloss": "mantra-accomplishment",
+     "grounds": "ritual practice to be performed",
+     "morph": "compound: mantra+modifier, sādhana+head; n.acc.sg"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "one-should-not-practice",
+     "grounds": "prohibitive injunction",
+     "morph": "3.sg.act-optative (ā-car) with prohibitive mā"
+    }
+   ],
+   "question": "What restriction applies to mantra accomplishment during the specified duration?",
+   "premises": [
+    "Muttering is to be performed for that duration.",
+    "Mantra accomplishment is mentioned as the object.",
+    "The verb is negated by the prohibitive particle."
+   ],
+   "inference": "During that duration one should perform muttering but should not practice mantra accomplishment.",
+   "uncertainties": [
+    "The form 'prakudhvīta' and the contrast with verse 505 suggest a textual or doctrinal distinction that is unclear."
+   ],
+   "plain_english": "For so long, one should perform muttering but should not practice mantra accomplishment."
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "haviṣya+āśī",
+     "gloss": "eating-sacrificial-food",
+     "grounds": "dietary discipline of practitioner",
+     "morph": "compound: haviṣya+modifier, āśī+head; m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "prescribed recitation",
+     "morph": "3.sg.act-optative (jap)"
+    },
+    {
+     "surface": "nakṣaṃ",
+     "gloss": "by-night",
+     "grounds": "time of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divā",
+     "gloss": "by-day",
+     "grounds": "time of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound: sura+modifier, īśvari+head; f.voc.sg"
+    }
+   ],
+   "question": "What dietary discipline and timing govern mantra recitation for the practitioner?",
+   "premises": [
+    "The practitioner should eat sacrificial food.",
+    "Recitation should occur by night.",
+    "Recitation should occur by day as well."
+   ],
+   "inference": "Eating sacrificial food, one should mutter the mantra by night and indeed by day, O lady of the gods.",
+   "uncertainties": [],
+   "plain_english": "Eating sacrificial food, one should mutter by night and by day indeed, O lady of the gods."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "ritual object or energy to be taken",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "preparatory action",
+     "morph": "gerund (grah)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "compound: deva+modifier, īśi+head; f.voc.sg"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "muttering",
+     "grounds": "act of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.act-optative (kṛ)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "required mental state",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What preparatory act and mental state are required before performing muttering?",
+   "premises": [
+    "The practitioner takes śakti.",
+    "Muttering is to be performed.",
+    "The practitioner must be composed."
+   ],
+   "inference": "Having taken śakti, one should perform muttering in a composed state, O goddess.",
+   "uncertainties": [
+    "Whether 'śaktiṃ' refers to a ritual substance, consort, or divine power is context-dependent."
+   ],
+   "plain_english": "Having taken śakti, O goddess, one should perform muttering while composed."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "śodhanaṃ",
+     "gloss": "purification",
+     "grounds": "ritual act to be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śakti+mantreṇa",
+     "gloss": "with-power-mantra",
+     "grounds": "instrument of purification",
+     "morph": "compound: śakti+modifier, mantreṇa+head; m.ins.sg"
+    },
+    {
+     "surface": "śakteḥ",
+     "gloss": "of-power",
+     "grounds": "object to be purified",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "compound: mahā+modifier, īśvari+head; f.voc.sg"
+    }
+   ],
+   "question": "By what means and of what object is purification to be performed?",
+   "premises": [
+    "Purification is the prescribed act.",
+    "The śakti-mantra is the instrument.",
+    "The purification pertains to śakti."
+   ],
+   "inference": "Purification of śakti is indeed to be performed with the śakti-mantra, O great goddess.",
+   "uncertainties": [],
+   "plain_english": "Purification of śakti is indeed to be done with the śakti-mantra, O great goddess."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "colophon marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+kubjikā+tantre",
+     "gloss": "in-revered-kubjikā-tantra",
+     "grounds": "textual location",
+     "morph": "compound: śrī+modifier, kubjikā+modifier, tantre+head; n.loc.sg"
+    },
+    {
+     "surface": "pārvatī+parameśvara+saṃvāde",
+     "gloss": "in-pārvatī-parameśvara-dialogue",
+     "grounds": "dialogue frame",
+     "morph": "compound: pārvatī+modifier, parameśvara+modifier, saṃvāde+head; m.loc.sg"
+    },
+    {
+     "surface": "navamaḥ",
+     "gloss": "ninth",
+     "grounds": "ordinal number of chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes at this point in the Kubjikā Tantra dialogue?",
+   "premises": [
+    "The text is identified as the revered Kubjikā Tantra.",
+    "The context is the dialogue of Pārvatī and Parameśvara.",
+    "The chapter is numbered ninth."
+   ],
+   "inference": "This marks the conclusion of the ninth chapter in the dialogue of Pārvatī and Parameśvara in the revered Kubjikā Tantra.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the ninth chapter in the dialogue of Pārvatī and Parameśvara in the revered Kubjikā Tantra."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "section marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakta+mātrī+bādhakaḥ",
+     "gloss": "obstacle-of-red-mother",
+     "grounds": "name of an obstructing entity",
+     "morph": "compound: rakta+modifier, mātrī+modifier, bādhakaḥ+head; m.nom.sg"
+    }
+   ],
+   "question": "Which obstructing entity is identified in this concluding label?",
+   "premises": [
+    "The label marks a concluding identification.",
+    "The entity is described as an obstacle.",
+    "The obstacle is associated with the red mother."
+   ],
+   "inference": "This identifies the obstacle of the red mother.",
+   "uncertainties": [
+    "'rakta+mātrī' may refer to a specific figure whose identity is tradition-dependent."
+   ],
+   "plain_english": "Thus: the obstacle of the red mother."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "section marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhī+bādhakaḥ",
+     "gloss": "obstacle-of-sixth",
+     "grounds": "name of an obstructing entity",
+     "morph": "compound: ṣaṣṭhī+modifier, bādhakaḥ+head; m.nom.sg"
+    }
+   ],
+   "question": "Which obstructing entity is identified in this concluding label?",
+   "premises": [
+    "The label marks a concluding identification.",
+    "The entity is described as an obstacle.",
+    "The obstacle is associated with the sixth."
+   ],
+   "inference": "This identifies the obstacle of the sixth.",
+   "uncertainties": [
+    "'ṣaṣṭhī' may refer to a specific deity or principle whose identity is tradition-dependent."
+   ],
+   "plain_english": "Thus: the obstacle of the sixth."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "section marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍāṅkurasya",
+     "gloss": "of-ḍāṅkura",
+     "grounds": "entity associated with the obstacle",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bādhakaḥ",
+     "gloss": "obstacle",
+     "grounds": "obstructing entity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which obstructing entity associated with ḍāṅkura is identified here?",
+   "premises": [
+    "The label marks a concluding identification.",
+    "The entity is described as an obstacle.",
+    "The obstacle is associated with ḍāṅkura."
+   ],
+   "inference": "This identifies the obstacle of ḍāṅkura.",
+   "uncertainties": [
+    "The identity of 'ḍāṅkura' is tradition-dependent."
+   ],
+   "plain_english": "Thus: the obstacle of ḍāṅkura."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "section marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jala+kumārasya",
+     "gloss": "of-water-youth",
+     "grounds": "entity associated with the obstacle",
+     "morph": "compound: jala+modifier, kumārasya+head; m.gen.sg"
+    },
+    {
+     "surface": "bādhakaḥ",
+     "gloss": "obstacle",
+     "grounds": "obstructing entity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which obstructing entity associated with the water youth is identified here?",
+   "premises": [
+    "The label marks a concluding identification.",
+    "The entity is described as an obstacle.",
+    "The obstacle is associated with the water youth."
+   ],
+   "inference": "This identifies the obstacle of the water youth.",
+   "uncertainties": [
+    "The identity of 'jala+kumāra' is tradition-dependent."
+   ],
+   "plain_english": "Thus: the obstacle of the water youth."
+  }
+ ]
+}
