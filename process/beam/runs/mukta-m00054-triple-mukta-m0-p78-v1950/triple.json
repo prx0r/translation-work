@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "madana+sundarī",
+     "gloss": "beautiful-as-madana",
+     "grounds": "bahuvrīhi/tatpuruṣa compound naming the goddess as lovely like Madana; nominative singular feminine epithet",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "medhā",
+     "gloss": "intelligence",
+     "grounds": "noun used as a divine epithet identifying the goddess with intellect; nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhu+mattā",
+     "gloss": "intoxicated-with-sweetness",
+     "grounds": "tatpuruṣa compound describing the goddess as exhilarated by sweetness or honey; nominative singular feminine",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "madhu+priyā",
+     "gloss": "fond-of-sweetness",
+     "grounds": "bahuvrīhi compound describing the goddess as delighting in sweetness or honey; nominative singular feminine",
+     "morph": "compound.nom.sg.f"
+    }
+   ],
+   "question": "What qualities of beauty, intellect, and sweetness are attributed to this goddess?",
+   "premises": [
+    "The goddess bears the epithet beautiful-as-madana.",
+    "The goddess is identified as intelligence.",
+    "The goddess is described as intoxicated-with-sweetness and fond-of-sweetness."
+   ],
+   "inference": "This goddess embodies captivating beauty, wisdom, and a nature delighting in sweetness.",
+   "uncertainties": [
+    "madhu may refer to honey, sweetness, or wine; the precise nuance is context-dependent."
+   ],
+   "plain_english": "She is beautiful as Madana, she is intelligence, intoxicated with sweetness, and fond of sweetness."
+  }
+ ]
+}

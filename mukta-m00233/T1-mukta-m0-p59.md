@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p59-v1451
-[tattva-lord](tattveśvarair) [form](mūrtibhiḥ) [and](ca) [should-place](nyasyet) [form-lord](mūrttiśvarān) [with](saha)
+[with-tattva-lords](tattveśvaraiḥ)+[and-with-forms](mūrtibhiḥ)+[and](ca) [one-should-place](nyaset)+[form-lords](mūrttiśvarān) [together](saha)
 
 ## mukta-m0-p59-v1452
-[heart-seed](hṛdbījam) [self-principle](ātmatattvam) [salutation](namaḥ) [ender](antakam)
+[heart-seed](hṛdbījam)+[ātman-tattva](ātmatattvaṃ) [ending-with-namaḥ](namontakam)
 
 ## mukta-m0-p59-v1453
-[then](tataḥ) [tāra](tāram) [with-head](śironvitam)
+[then](tataḥ)+[praṇava](tāraṃ) [accompanied-by-śiras](śironvitam)
 
 ## mukta-m0-p59-v1454
-[by-head](śirasā) [knowledge-principle-lord](vidyātattveśvarāya) [and](ca)
+[with-śiras](śirasā) [to-lord-of-vidyā-tattva](vidyātattveśvarāya) [and](ca)
 
 ## mukta-m0-p59-v1455
-[śiva-principle](śivatattvam) [indeed](tu) [by-oṃ](praṇavena) [crest-etc](śikhādikam)
+[śiva-tattva](śivatattvaṃ) [but](tu) [with-praṇava](praṇavena) [beginning-with-śikhā](śikhādikam)
 
 ## mukta-m0-p59-v1456
-[and](ca) [to-rudra](rudrāya) [salutation](namaḥ) [thus-end](ityantam) [in-rudra-portion](rudrabhāge) [tu](tu) [should-place](vinyaset)
+[and](ca) [ending-with-rudrāya-namaḥ](rudrāya nama ityantaṃ) [in-rudra-section](rudrabhāge) [but](tu) [one-should-place](vinyaset)
 
 ## mukta-m0-p59-v1457
-[should-place](vinyaset) [eight](aṣṭau) [in-three-limbs](triṣvaṅgeṣu) [separately](pṛthak) [separately](pṛthak)
+[one-should-place](vinyaset)+[eight](aṣṭau) [in-three-limbs](triṣvaṅgeṣu) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p59-v1458
-[and](ca) [mahādeva](mahādevam) [bhīma](bhīmam) [thus-eight-forms](cetyaṣṭamūrtipān)
+[and](ca) [mahādeva](mahādevaṃ) [bhīma](bhīmaṃ) [and](ca)+[thus](iti)+[eight-form-lords](aṣṭamūrtipān)
 
 ## mukta-m0-p59-v1459
-[should-place](vinyaset) [eight-wing](aṣṭapakṣe) [tu](tu) [own-named-mantras](svākhyāmantrair) [salutation-ender](namontakam)
+[one-should-place](vinyaset)+[in-eight-petals](aṣṭapakṣe) [but](tu) [with-own-name-mantras](svākhyāmantraiḥ)+[ending-with-namaḥ](namontakam)
 
 ## mukta-m0-p59-v1460
-[for-consecration](pratiṣṭhāyām) [five-wing](pañcapakṣe) [tu](tu) [forms](mūrtayaḥ)
+[in-consecration](pratiṣṭhāyāṃ) [in-five-petals](pañcapakṣe) [but](tu) [forms](mūrtayaḥ)
 
 ## mukta-m0-p59-v1461
-[viṣṇu](viṣṇuḥ) [thus](tathā) [rudra](rudraḥ) [īśvara](īśvaraḥ) [ca](ca) [sadāśiva](sadāśivaḥ)
+[viṣṇu](viṣṇuḥ)+[likewise](tathā) [rudra](rudraḥ) [īśvara](īśvaraḥ)+[and](ca) [sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p59-v1462
-[arts](kalāḥ) [five](pañca) [forms](mūrtayaḥ) [form-lords](mūrtipāḥ) [api](api)
+[kalās](kalāḥ) [five](pañca) [forms](mūrtayaḥ) [form-lords](mūrtipāḥ) [also](api)
 
 ## mukta-m0-p59-v1463
-[liṅga-above-place](liṅgottarasthāyām) [bathed](snapitāyām) [tu](tu) [like-liṅga](liṅgavat)
+[in-upper-part-of-liṅga](liṅgottarasthāyāṃ) [when-bathed](snapitāyāṃ) [but](tu) [like-the-liṅga](liṅgavat)
 
 ## mukta-m0-p59-v1464
-[brahma-stone](brahmaśilāyām) [ca](ca) [standing](sthitāyām) [from-liṅga-root](liṅgamūlataḥ)
+[in-brahma-stone](brahmaśilāyāṃ) [and](ca) [when-situated](sthitāyāṃ) [from-base-of-liṅga](liṅgamūlataḥ)
 
 ## mukta-m0-p59-v1465
-[there-too](tatrāpi) [self-etc-principle-lord](ātmāditattveśīm) [with-action-knowledge-will](kriyājñānecchayā) [saha](saha)
+[there](tatra)+[also](api)+[lord-of-ātman-etc-tattvas](ātmāditattveśīṃ) [with-action-knowledge-will](kriyājñānecchayā) [together](saha)
 
 ## mukta-m0-p59-v1466
-[shining](dīptimat) [fierce](ugrā) [jyotsnā-named](jyotsnākhyā) [consciousness](cetanā) [thus](tathā)
+[dīptimatī](dīptimatī)+[ugrā](ugrā) [called-jyotsnā](jyotsnākhyā) [cetanā](cetanā) [likewise](tathā)
 
 ## mukta-m0-p59-v1467
-[of-practitioner](sādhakasya) [for-consecration](pratiṣṭhāyām) [of-enjoyer](bhogecchoḥ) [pure-path](śuddha(ma? va)rtmani)
+[of-the-practitioner](sādakasya) [in-consecration](pratiṣṭhāyāṃ) [of-one-desiring-enjoyment](bhogecchoḥ) [in-pure-path](śuddha(ma? va)rtmani)
 
 ## mukta-m0-p59-v1468
-[form-ladies](mūrtīśvaryastu) [of-that-same](tasyaiva) [in-seat](pīṭhe) [ananta-etc](anantādayaḥ) [in-order](kramāt)
+[form-goddesses](mūrtīśvaryaḥ)+[but](tu) [of-him-alone](tasyaiva) [on-the-pedestal](pīṭhe)+[anantā-and-others](anantādayaḥ) [in-order](kramāt)
 
 ## mukta-m0-p59-v1469
-[eldest](jyeṣṭhā) [action-knowledge](kriyājñāne) [ca](ca) [if-desires](ceccheti) [six-thus-these](ṣaṭhitāstvimāḥ)
+[jyeṣṭhā](jyeṣṭhā) [action](kriyā)+[knowledge](jñāne) [and](ca)+[will](icchā)+[thus](iti) [six](ṣaṭ)+[placed](hitāḥ)+[but](tu)+[these](imāḥ)
 
 ## mukta-m0-p59-v1470
-[some](kāścid) [deities](devatāstāsām) [for-consecration](pratiṣṭhāyām) [tu](tu) [form-lords](mūrtipāḥ)
+[some](kāścit) [deities](devatāḥ)+[of-them](tāsāṃ) [in-consecration](pratiṣṭhāyāṃ) [but](tu) [form-lords](mūrtipāḥ)
 
 ## mukta-m0-p59-v1471
-[would-be](syuḥ)
+[should-be](syuḥ)
 
 ## mukta-m0-p59-v1472
-[deities](devatāḥ) [that-consecration](tatpratiṣṭhāyām) [kapālīśa-etc-form-lords](kapālīśādimūrtipāḥ)
+[deities](devatāḥ)+[in-their-consecration](tatpratiṣṭhāyāṃ) [kapālīśa-and-other-form-lords](kapālīśādimūrtipāḥ)
 
 ## mukta-m0-p59-v1473
-[treasure-lord](nidhīśaḥ) [ca](ca) [knowledge-master](vidyādhipatiḥ) [eighth](aṣṭamaḥ)
+[nidhīśa](nidhīśaḥ)+[and](ca) [lord-of-knowledge](vidyādhipatiḥ)+[eighth](aṣṭamaḥ)
 
 ## mukta-m0-p59-v1474
-[for-consecration](pratiṣṭhāyām) [indra-etc](indrādyā) [form-lords](mūrtipāḥ) [remembered](smṛtāḥ)
+[in-consecration](pratiṣṭhāyām)+[indra-and-others](indrādyāḥ) [form-lords](mūrtipāḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p59-v1475
-[would-be-form-lords](syurmūrtipāḥ) [tu](tu) [eight](aṣṭau) [asita-aṅga-etc-bhairavas](asitāṅgādibhairavāḥ)
+[should-be](syuḥ)+[form-lords](mūrtipāḥ)+[but](tu)+[eight](aṣṭau)+[asitāṅga-and-other-bhairavas](asitāṅgādibhairavāḥ)
