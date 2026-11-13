@@ -3,44 +3,34 @@
  "verse": 2111,
  "rows": [
   {
-   "lemma": "yathā",
+   "lemma": "stutvā",
+   "morph": "(gerund) √stu",
+   "grounds": "prior ritual action"
+  },
+  {
+   "lemma": "pradakṣiṇaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "ritual act"
+  },
+  {
+   "lemma": "kṛtvā",
+   "morph": "(gerund) √kṛ",
+   "grounds": "completion of act"
+  },
+  {
+   "lemma": "tato",
    "morph": "(indecl.)",
-   "grounds": "introduces the comparison"
+   "grounds": "sequence marker"
   },
   {
-   "lemma": "tvam",
-   "morph": "pron.nom.sg",
-   "grounds": "subject of the comparison"
+   "lemma": "devīgṛhaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "destination; compound devī+gṛham"
   },
   {
-   "lemma": "acalā",
-   "morph": "f.nom.sg",
-   "grounds": "describes steadfastness in the comparison"
-  },
-  {
-   "lemma": "kṛṣṇe",
-   "morph": "m.loc.sg",
-   "grounds": "object of steadfastness in the comparison"
-  },
-  {
-   "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "completes the comparison"
-  },
-  {
-   "lemma": "bhava",
-   "morph": "2.sg.act-imper √bhū",
-   "grounds": "imperative request"
-  },
-  {
-   "lemma": "mayi",
-   "morph": "pron.loc.sg",
-   "grounds": "object of requested steadfastness"
-  },
-  {
-   "lemma": "sthirā",
-   "morph": "f.nom.sg",
-   "grounds": "describes the requested state"
+   "lemma": "vrajet",
+   "morph": "3.sg.opt.act √vraj",
+   "grounds": "optative instruction"
   }
  ]
 }

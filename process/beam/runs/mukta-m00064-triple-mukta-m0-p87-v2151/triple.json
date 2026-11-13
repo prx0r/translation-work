@@ -1,0 +1,1179 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2151,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject of naming",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrument of designation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyāyate",
+     "gloss": "is-known",
+     "grounds": "passive statement of recognition",
+     "morph": "3.sg.pass-pres khyā"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past characterization",
+     "morph": "f.nom.sg.past-pass-part kath"
+    },
+    {
+     "surface": "tattva+cintakaiḥ",
+     "gloss": "by-truth-thinkers",
+     "grounds": "compound: tattva+truth (first member), cintakaiḥ+thinkers (head)",
+     "morph": "m.ins.pl compound"
+    }
+   ],
+   "question": "By what name and by whom is this rite recognized as initiation?",
+   "premises": [
+    "The rite is called initiation by name.",
+    "It is known and declared as such.",
+    "Thinkers on truth declare it so."
+   ],
+   "inference": "Initiation is the established name recognized by those who contemplate truth.",
+   "uncertainties": [],
+   "plain_english": "Then, O lady of gods, it is known by the name initiation and declared so by thinkers on truth."
+  },
+  {
+   "verse": 2152,
+   "rows": [
+    {
+     "surface": "parama+jñāna+dā",
+     "gloss": "supreme-knowledge-giving",
+     "grounds": "compound: parama+supreme (first), jñāna+knowledge (second), dā+giving (head)",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What essential quality justifies calling this rite initiation?",
+   "premises": [
+    "The rite gives supreme knowledge.",
+    "This giving is stated as the reason.",
+    "The reason grounds its designation."
+   ],
+   "inference": "Because it bestows supreme knowledge, it is rightly called initiation.",
+   "uncertainties": [],
+   "plain_english": "Because it gives supreme knowledge."
+  },
+  {
+   "verse": 2153,
+   "rows": [
+    {
+     "surface": "vijñāna+phala+dā",
+     "gloss": "knowledge-fruit-giving",
+     "grounds": "compound: vijñāna+knowledge (first), phala+fruit (second), dā+giving (head)",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cādye",
+     "gloss": "and-in-first",
+     "grounds": "sandhi fusion: ca+and, ādye+in-first",
+     "morph": "(indecl.)+n.loc.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "second type of initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "-ye",
+     "gloss": "in-second",
+     "grounds": "locative ending linked to dvitīye context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "laya+kāriṇī",
+     "gloss": "dissolution-causing",
+     "grounds": "compound: laya+dissolution (first), kāriṇī+causing (head)",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What distinct fruits distinguish the first and second forms of initiation?",
+   "premises": [
+    "The same initiation gives the fruit of knowledge in the first case.",
+    "A second form is identified.",
+    "The second form causes dissolution."
+   ],
+   "inference": "Initiation yields knowledge in its first form and dissolution in its second.",
+   "uncertainties": [
+    "The token '-ye' is fragmentary in form but treated as indicating the second case."
+   ],
+   "plain_english": "She indeed gives the fruit of knowledge in the first, and the second causes dissolution."
+  },
+  {
+   "verse": 2154,
+   "rows": [
+    {
+     "surface": "sādhārā",
+     "gloss": "common",
+     "grounds": "type of initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirādhārā",
+     "gloss": "without-support",
+     "grounds": "type of initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīkṣā+siddhi+vidhānataḥ",
+     "gloss": "by-initiation-accomplishment-rule",
+     "grounds": "compound: dīkṣā+initiation (first), siddhi+accomplishment (second), vidhānataḥ+according-to-rule (head)",
+     "morph": "(indecl.) compound"
+    }
+   ],
+   "question": "How are initiations classified according to the rule of accomplishment?",
+   "premises": [
+    "Initiation can be common.",
+    "Initiation can be without support.",
+    "This classification follows the rule of initiation accomplishment."
+   ],
+   "inference": "According to the rule of accomplishment, initiation is classified as common or without support.",
+   "uncertainties": [],
+   "plain_english": "According to the rule for accomplishing initiation, it is common and without support."
+  },
+  {
+   "verse": 2155,
+   "rows": [
+    {
+     "surface": "nirālambā",
+     "gloss": "without-support",
+     "grounds": "characterization of initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirādhārā",
+     "gloss": "without-support",
+     "grounds": "repeated characterization",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "prescriptive characterization",
+     "morph": "f.nom.sg.future-pass-part vi-jñā"
+    },
+    {
+     "surface": "nirādhārā",
+     "gloss": "without-support",
+     "grounds": "repeated characterization",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukti+dā",
+     "gloss": "liberation-giving",
+     "grounds": "compound: mukti+liberation (first), dā+giving (head)",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What must be understood about the supportless form of initiation and its result?",
+   "premises": [
+    "The initiation is without support.",
+    "It must be known as such.",
+    "That supportless initiation gives liberation."
+   ],
+   "inference": "The supportless initiation is to be known as the form that grants liberation.",
+   "uncertainties": [],
+   "plain_english": "She is indeed to be known as without support, and that supportless initiation gives liberation."
+  },
+  {
+   "verse": 2156,
+   "rows": [
+    {
+     "surface": "manaḥ+vyāpāra+mātreṇa",
+     "gloss": "by-mind-activity-merely",
+     "grounds": "compound: manaḥ+mind (first), vyāpāra+activity (second), mātreṇa+merely (head)",
+     "morph": "n.ins.sg compound"
+    },
+    {
+     "surface": "nirvīryā",
+     "gloss": "powerless",
+     "grounds": "resulting condition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sammatā",
+     "gloss": "considered",
+     "grounds": "accepted judgment",
+     "morph": "f.nom.sg.past-pass-part sam-man"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-pres bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assertion of certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "concluding manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence follows when initiation is reduced to mere mental activity?",
+   "premises": [
+    "Initiation may be performed by mere mental activity.",
+    "Such performance is considered powerless.",
+    "This result is stated as certain."
+   ],
+   "inference": "Initiation done merely as mental activity certainly becomes powerless.",
+   "uncertainties": [],
+   "plain_english": "By mere mental activity it is considered powerless and certainly becomes so."
+  },
+  {
+   "verse": 2157,
+   "rows": [
+    {
+     "surface": "kunakhī",
+     "gloss": "bad-nailed",
+     "grounds": "bodily defect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāva+dantaḥ",
+     "gloss": "dark-toothed",
+     "grounds": "compound: śyāva+dark (first), dantaḥ+toothed (head)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhika+aṅgaḥ",
+     "gloss": "extra-limbed",
+     "grounds": "compound: adhika+extra (first), aṅgaḥ+limbed (head)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "strī+jitaḥ",
+     "gloss": "woman-conquered",
+     "grounds": "compound: strī+woman (first), jitaḥ+conquered (head)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What personal defects or conditions are listed as disqualifying characteristics here?",
+   "premises": [
+    "Having bad nails is listed.",
+    "Having dark teeth or extra limbs is listed.",
+    "Being conquered by a woman is listed likewise."
+   ],
+   "inference": "Certain bodily defects and lack of self-mastery are enumerated as disqualifying traits.",
+   "uncertainties": [],
+   "plain_english": "One with bad nails, dark teeth, extra limbs, and likewise conquered by a woman."
+  },
+  {
+   "verse": 2158,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt as"
+    },
+    {
+     "surface": "samaya+ācāra+vit",
+     "gloss": "vow-conduct-knowing",
+     "grounds": "compound: samaya+vow (first), ācāra+conduct (second), vit+knowing (head)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What required qualification contrasts with the previously listed defects?",
+   "premises": [
+    "A person should be knowing vow and conduct.",
+    "This is stated as a requirement.",
+    "It follows the prior list of defects."
+   ],
+   "inference": "One should instead be knowledgeable in vow and conduct.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one should be one who knows vow and conduct."
+  },
+  {
+   "verse": 2159,
+   "rows": [
+    {
+     "surface": "svapna+labdhaṃ",
+     "gloss": "dream-obtained",
+     "grounds": "compound: svapna+dream (first), labdhaṃ+obtained (head)",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strī+dattaṃ",
+     "gloss": "woman-given",
+     "grounds": "compound: strī+woman (first), dattaṃ+given (head)",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "saṃskāreṇa",
+     "gloss": "by-consecration",
+     "grounds": "means of purification",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śudhyati",
+     "gloss": "is-purified",
+     "grounds": "result of consecration",
+     "morph": "3.sg.act-pres śudh"
+    }
+   ],
+   "question": "How can items obtained in a dream or given by a woman become ritually pure?",
+   "premises": [
+    "Something may be obtained in a dream.",
+    "Something may be given by a woman.",
+    "Such things are purified only by consecration."
+   ],
+   "inference": "Dream-obtained or woman-given items become pure only through consecration.",
+   "uncertainties": [],
+   "plain_english": "What is obtained in a dream or given by a woman is purified only by consecration."
+  },
+  {
+   "verse": 2160,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "consequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhim",
+     "gloss": "purity",
+     "grounds": "result attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "attainment of purity",
+     "morph": "3.sg.act-pres ava-āp"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "negative result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "it-would-be",
+     "grounds": "hypothetical result",
+     "morph": "3.sg.act-opt bhū"
+    }
+   ],
+   "question": "What outcome depends on performing or omitting the required consecration?",
+   "premises": [
+    "Purity is obtained after consecration.",
+    "An alternative without consecration is considered.",
+    "Without it the result would be fruitless."
+   ],
+   "inference": "Consecration yields purity, while its absence renders the act fruitless.",
+   "uncertainties": [],
+   "plain_english": "Then it obtains purity; otherwise it would be fruitless."
+  },
+  {
+   "verse": 2161,
+   "rows": [
+    {
+     "surface": "raveḥ",
+     "gloss": "of-sun",
+     "grounds": "celestial reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃkrānti+divase",
+     "gloss": "on-transit-day",
+     "grounds": "compound: saṃkrānti+transit (first), divase+day (head)",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "yuga+ādyāyāṃ",
+     "gloss": "on-yuga-beginning",
+     "grounds": "compound: yuga+age (first), ādyāyāṃ+beginning (head)",
+     "morph": "f.loc.sg compound"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which auspicious occasions are named as suitable times for the rite?",
+   "premises": [
+    "The day of the sun's transit is named.",
+    "The beginning of a yuga is named.",
+    "These are addressed to the lady of gods."
+   ],
+   "inference": "The sun's transit day and the beginning of a yuga are auspicious occasions for the rite.",
+   "uncertainties": [],
+   "plain_english": "On the day of the sun's transit, on the beginning of a yuga, O lady of gods."
+  },
+  {
+   "verse": 2162,
+   "rows": [
+    {
+     "surface": "mahā+pūjā+dine",
+     "gloss": "on-great-worship-day",
+     "grounds": "compound: mahā+great (first), pūjā+worship (second), dine+day (head)",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣya+śuddhi+dineṣu",
+     "gloss": "on-disciple-purification-days",
+     "grounds": "compound: śiṣya+disciple (first), śuddhi+purification (second), dineṣu+days (head)",
+     "morph": "m.loc.pl compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional days are permitted as occasions for performing the rite?",
+   "premises": [
+    "A great worship day is permitted.",
+    "Days of disciple purification are permitted.",
+    "These are given as alternatives."
+   ],
+   "inference": "The rite may also be performed on great worship days or disciple purification days.",
+   "uncertainties": [],
+   "plain_english": "Or also on a great worship day, or on days of disciple purification."
+  },
+  {
+   "verse": 2163,
+   "rows": [
+    {
+     "surface": "devī+pūjā+vidhau",
+     "gloss": "in-goddess-worship-rite",
+     "grounds": "compound: devī+goddess (first), pūjā+worship (second), vidhau+rite (head)",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṣyaḥ",
+     "gloss": "person",
+     "grounds": "human agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhakti+tatparaḥ",
+     "gloss": "devotion-intent",
+     "grounds": "compound: bhakti+devotion (first), tatparaḥ+intent (head)",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What kind of person is qualified to act in the goddess worship rite?",
+   "premises": [
+    "The context is the rite of goddess worship.",
+    "A human person is the agent.",
+    "That person is intent on devotion."
+   ],
+   "inference": "A person devoted to the goddess is the qualified agent in her worship rite.",
+   "uncertainties": [],
+   "plain_english": "In the rite of goddess worship, the person who is intent on devotion."
+  },
+  {
+   "verse": 2164,
+   "rows": [
+    {
+     "surface": "caitre",
+     "gloss": "in-caitra",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "duḥkhāya",
+     "gloss": "for-suffering",
+     "grounds": "resulting condition",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject of timing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.act-opt as"
+    },
+    {
+     "surface": "vaiśākhe",
+     "gloss": "in-vaiśākha",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarva+siddhi+dā",
+     "gloss": "all-accomplishment-giving",
+     "grounds": "compound: sarva+all (first), siddhi+accomplishment (second), dā+giving (head)",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "How do the months Caitra and Vaiśākha affect the outcome of initiation?",
+   "premises": [
+    "Initiation in Caitra would lead to suffering.",
+    "Initiation in Vaiśākha gives all accomplishment.",
+    "The month determines the result."
+   ],
+   "inference": "Caitra is inauspicious for initiation, while Vaiśākha grants all accomplishment.",
+   "uncertainties": [],
+   "plain_english": "In Caitra initiation would be for suffering; in Vaiśākha it gives all accomplishment."
+  },
+  {
+   "verse": 2165,
+   "rows": [
+    {
+     "surface": "śrāvaṇe",
+     "gloss": "in-śrāvaṇa",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bahu+hāniḥ",
+     "gloss": "much-loss",
+     "grounds": "compound: bahu+much (first), hāniḥ+loss (head)",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.act-opt as"
+    },
+    {
+     "surface": "bhādre",
+     "gloss": "in-bhādra",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duḥkha+dā",
+     "gloss": "suffering-giving",
+     "grounds": "compound: duḥkha+suffering (first), dā+giving (head)",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "traditional judgment",
+     "morph": "f.nom.sg.past-pass-part man"
+    }
+   ],
+   "question": "What negative outcomes are associated with initiation in Śrāvaṇa and Bhādra?",
+   "premises": [
+    "Initiation in Śrāvaṇa would bring much loss.",
+    "Initiation in Bhādra is considered suffering-giving.",
+    "These are stated as accepted judgments."
+   ],
+   "inference": "Śrāvaṇa and Bhādra are inauspicious months for initiation due to loss and suffering.",
+   "uncertainties": [],
+   "plain_english": "In Śrāvaṇa there would be much loss, and in Bhādra it is considered to give suffering."
+  },
+  {
+   "verse": 2166,
+   "rows": [
+    {
+     "surface": "śubha+kṛt",
+     "gloss": "auspicious-making",
+     "grounds": "compound: śubha+auspicious (first), kṛt+making (head)",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "mārgaśīrṣe",
+     "gloss": "in-mārgaśīrṣa",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pauṣe",
+     "gloss": "in-pauṣa",
+     "grounds": "month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jñāna+vināśinī",
+     "gloss": "knowledge-destroying",
+     "grounds": "compound: jñāna+knowledge (first), vināśinī+destroying (head)",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What contrasting effects do Mārgaśīrṣa and Pauṣa have on initiation?",
+   "premises": [
+    "Initiation in Mārgaśīrṣa is auspicious-making.",
+    "Initiation in Pauṣa destroys knowledge.",
+    "The months produce opposite effects."
+   ],
+   "inference": "Mārgaśīrṣa favors initiation, whereas Pauṣa harms knowledge.",
+   "uncertainties": [],
+   "plain_english": "In Mārgaśīrṣa it is auspicious-making, and in Pauṣa it destroys knowledge."
+  },
+  {
+   "verse": 2167,
+   "rows": [
+    {
+     "surface": "grahaṇe",
+     "gloss": "in-eclipse",
+     "grounds": "special time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā+tīrthe",
+     "gloss": "at-great-pilgrimage-site",
+     "grounds": "compound: mahā+great (first), tīrthe+pilgrimage-site (head)",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "assertion of existence",
+     "morph": "3.sg.act-pres as"
+    },
+    {
+     "surface": "kālasya",
+     "gloss": "of-time",
+     "grounds": "time restriction",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "niścayaḥ",
+     "gloss": "determination",
+     "grounds": "fixed rule",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why do eclipses and great pilgrimage sites override ordinary timing rules for initiation?",
+   "premises": [
+    "An eclipse is a special occasion.",
+    "A great pilgrimage site is a special place.",
+    "In these cases there is no fixed determination of time."
+   ],
+   "inference": "During eclipses and at great pilgrimage sites, ordinary time restrictions do not apply.",
+   "uncertainties": [],
+   "plain_english": "In an eclipse and at a great pilgrimage site, there is no fixed determination of time."
+  },
+  {
+   "verse": 2168,
+   "rows": [
+    {
+     "surface": "koṅkaṇe",
+     "gloss": "in-koṅkaṇa",
+     "grounds": "place name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataṅge",
+     "gloss": "in-mataṅga",
+     "grounds": "place name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kanyā+āśrameṣu",
+     "gloss": "in-kanyā-hermitages",
+     "grounds": "compound: kanyā+kanyā (first), āśrameṣu+hermitages (head)",
+     "morph": "m.loc.pl compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific sacred locations are named as suitable for the initiated practice?",
+   "premises": [
+    "Koṅkaṇa is named as a location.",
+    "Mataṅga is named as a location.",
+    "Kanyā hermitages are likewise named."
+   ],
+   "inference": "Koṅkaṇa, Mataṅga, and Kanyā hermitages are designated suitable locations.",
+   "uncertainties": [],
+   "plain_english": "In Koṅkaṇa, in Mataṅga, and likewise in the Kanyā hermitages."
+  },
+  {
+   "verse": 2169,
+   "rows": [
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "obligation",
+     "morph": "n.nom.sg.future-pass-part kṛ"
+    },
+    {
+     "surface": "dīkṣitaiḥ",
+     "gloss": "by-initiated",
+     "grounds": "agents",
+     "morph": "m.ins.pl.past-pass-part dīkṣ"
+    },
+    {
+     "surface": "śiṣyaiḥ",
+     "gloss": "by-disciples",
+     "grounds": "agents specified",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-guru",
+     "grounds": "source of command",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śāsanam",
+     "gloss": "command",
+     "grounds": "object to be followed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "qualification of command",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What obligation do initiated disciples have toward the guru's instruction?",
+   "premises": [
+    "Initiated disciples are the agents.",
+    "The guru's command is the object.",
+    "That command is to be carried out as supreme."
+   ],
+   "inference": "Initiated disciples must carry out the guru's supreme command.",
+   "uncertainties": [],
+   "plain_english": "The supreme command of the guru is to be carried out by initiated disciples."
+  },
+  {
+   "verse": 2170,
+   "rows": [
+    {
+     "surface": "puraścaraṇa+cārī",
+     "gloss": "preliminary-rite-practitioner",
+     "grounds": "compound: puraścaraṇa+preliminary-rite (first), cārī+practitioner (head)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt as"
+    },
+    {
+     "surface": "viśuddha+ātmā",
+     "gloss": "pure-self",
+     "grounds": "compound: viśuddha+pure (first), ātmā+self (head)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "jita+indriyaḥ",
+     "gloss": "conquered-senses",
+     "grounds": "compound: jita+conquered (first), indriyaḥ+senses (head)",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What personal qualities must characterize a practitioner of preliminary rites?",
+   "premises": [
+    "One should be a practitioner of preliminary rites.",
+    "One should have a pure self.",
+    "One should have conquered the senses."
+   ],
+   "inference": "A preliminary-rite practitioner must be pure in self and master of the senses.",
+   "uncertainties": [],
+   "plain_english": "One should be a practitioner of preliminary rites, pure in self and with senses conquered."
+  },
+  {
+   "verse": 2171,
+   "rows": [
+    {
+     "surface": "prāptam",
+     "gloss": "attained",
+     "grounds": "state of attainment",
+     "morph": "n.nom.sg.past-pass-part pra-āp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam+mānaḥ",
+     "gloss": "thus-thinking",
+     "grounds": "compound: evam+thus (first), mānaḥ+thinking (head)",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "instructor",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "jñāpitaḥ",
+     "gloss": "instructed",
+     "grounds": "corrective guidance",
+     "morph": "m.nom.sg.past-pass-part jñā-caus"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continual instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should a disciple who thinks attainment is complete be guided by the guru?",
+   "premises": [
+    "A disciple may think attainment is complete.",
+    "The guru instructs such a disciple.",
+    "This instruction is given always."
+   ],
+   "inference": "Even a disciple who believes attainment is complete must always be instructed by the guru.",
+   "uncertainties": [],
+   "plain_english": "Even one who thinks 'it is attained' is always instructed by the guru."
+  },
+  {
+   "verse": 2172,
+   "rows": [
+    {
+     "surface": "sa+yavaṃ",
+     "gloss": "with-barley",
+     "grounds": "compound: sa+with (first), yavaṃ+barley (head)",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "cakravākaṃ",
+     "gloss": "cakravāka-bird",
+     "grounds": "bird name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krauñcaṃ",
+     "gloss": "krauñca-bird",
+     "grounds": "bird name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārāvataṃ",
+     "gloss": "dove",
+     "grounds": "bird name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific items or creatures are enumerated in this ritual list?",
+   "premises": [
+    "Barley is included in the list.",
+    "The cakravāka and krauñca birds are included.",
+    "The dove is likewise included."
+   ],
+   "inference": "The verse enumerates barley and specific birds as items in the list.",
+   "uncertainties": [
+    "The ritual function of these items is not specified in this verse."
+   ],
+   "plain_english": "With barley, and the cakravāka, the krauñca, and likewise the dove."
+  },
+  {
+   "verse": 2173,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "in-this-way",
+     "grounds": "manner marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitena",
+     "gloss": "by-initiated-one",
+     "grounds": "agent",
+     "morph": "m.ins.sg.past-pass-part dīkṣ"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "obligation",
+     "morph": "n.nom.sg.future-pass-part kṛ"
+    },
+    {
+     "surface": "divasaṃ",
+     "gloss": "day",
+     "grounds": "time period",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who alone is responsible for carrying out the prescribed observance on that day?",
+   "premises": [
+    "The action is to be done in this way.",
+    "The initiated one is the agent.",
+    "The obligation applies to that day."
+   ],
+   "inference": "Only the initiated person must carry out the prescribed observance on that day.",
+   "uncertainties": [],
+   "plain_english": "Thus, in this way, it is to be done by the initiated one alone on that day."
+  },
+  {
+   "verse": 2174,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the day or rite",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+divasaṃ",
+     "gloss": "previous-day",
+     "grounds": "compound: pūrva+previous (first), divasaṃ+day (head)",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "haviṣyaṃ",
+     "gloss": "sacrificial-food",
+     "grounds": "prescribed diet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirāmiṣam",
+     "gloss": "meatless",
+     "grounds": "alternative dietary restriction",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dietary observance is prescribed for the day preceding the rite?",
+   "premises": [
+    "The previous day is also specified.",
+    "Sacrificial food is prescribed.",
+    "Alternatively meatless food is prescribed."
+   ],
+   "inference": "On the previous day one should take sacrificial or meatless food.",
+   "uncertainties": [],
+   "plain_english": "Also on its previous day, sacrificial food or meatless food."
+  }
+ ]
+}

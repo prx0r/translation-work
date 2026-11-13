@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "optative of bhū expressing potential result",
+     "morph": "3.sg.optative-active + √bhū"
+    },
+    {
+     "surface": "yuga+sahasrāṇi",
+     "gloss": "age-thousands",
+     "grounds": "compound indicating a vast duration",
+     "morph": "compound: yuga+member, sahasra+head; acc.pl.nt"
+    },
+    {
+     "surface": "svarga+loke",
+     "gloss": "in-heaven-world",
+     "grounds": "locative compound denoting the realm of residence",
+     "morph": "compound: svarga+member, loka+head; loc.sg.m"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "would-dwell",
+     "grounds": "optative of vas indicating continued residence",
+     "morph": "3.sg.optative-active + √vas"
+    },
+    {
+     "surface": "ciram",
+     "gloss": "for-long",
+     "grounds": "adverb emphasizing extended duration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What duration and realm of residence result from the prescribed worship across ages?",
+   "premises": [
+    "Worship performed in different ages yields a specific fruit.",
+    "The resulting fruit includes residence in the heavenly world.",
+    "This residence extends for thousands of ages."
+   ],
+   "inference": "Therefore, the prescribed worship grants prolonged residence in the heavenly realm.",
+   "uncertainties": [],
+   "plain_english": "One would dwell in the heavenly world for thousands of ages."
+  }
+ ]
+}
