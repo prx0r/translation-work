@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p35-v851
-[she](sā) [śāradā](śāradā) [foot+surface](pāda+tale) [residence](nivāsam)
+[she](sā) [śāradā](śāradā) [at-foot+sole](pāda+tale) [residence](nivāsam)
 
 ## mukta-m0-p35-v852
-[swan+vehicle](haṃsa+vāhanā) [she](sā) [goddess](devī) [shines](virājate)
+[swan](haṃsa) [vehicle](vāhanā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v853
-[elephant+king+moving+etc.+gods](gaja+rāja+cara+ādi+devatānāṃ) [your+this](bhavatī+iyaṃ) [on-path](pathi) [swan+vehicle+may-protect](haṃsa+vāhanā+avyāt)
+[elephant+king+riding+etc.+gods](gaja+rāja+cara+ādi+devatānāṃ) [your](bhavatī) [this](iyaṃ) [on-path](pathi) [swan+vehicle](haṃsa+vāhanā) [may-protect](avyāt)
 
 ## mukta-m0-p35-v854
-[kingdom+fortune](rājya+lakṣmīḥ) [she](sā) [goddess](devī) [shines](virājate)
+[kingdom](rājya) [fortune](lakṣmīḥ) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v855
-[desire](lubhyanti) [helpless](vivaśāḥ) [she+may-be](sā+astu) [kingdom+fortune](rājya+lakṣmīḥ) [good-rule+giving](surājya+dā)
+[are-enamored](lubhyanti) [helpless](vivaśāḥ) [she](sā) [may-be](astu) [kingdom+fortune](rājya+lakṣmīḥ) [good-rule+giving](surājya+dā)
 
 ## mukta-m0-p35-v856
-[vaṣaṭ+utterance](vaṣaṭ+kārā) [she](sā) [goddess](devī) [shines](virājate)
+[vaṣaṭ](vaṣaṭ) [maker](kārā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v857
-[they-obtain](prāpnuvanti) [always+support](sadā+ādhāro) [vaṣaṭ+utterance](vaṣaṭ+kārā) [to-me+may-be](mama+astu) [she](sā)
+[they-obtain](prāpnuvanti) [always+support](sadā+ādhāraḥ) [vaṣaṭ+maker](vaṣaṭ+kārā) [to-me](mama) [may-be](astu) [she](sā)
 
 ## mukta-m0-p35-v858
-[nectar+form](sudhā+kārā) [she](sā) [goddess](devī) [shines](virājate)
+[nectar](sudhā) [form](ākārā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v859
-[immortality](amaratvaṃ) [in-a-moment+that](kṣaṇāt+tat) [may-be](syāt) [nectar+form+contemplation](sudhā+kāra+anucintanāt)
+[immortality](amaratvaṃ) [in-a-moment](kṣaṇāt) [that](tat) [may-be](syāt) [nectar+form+contemplation](sudhā+ākāra+anucintanāt)
 
 ## mukta-m0-p35-v860
-[nectar+natured](sudhā+ātmikā) [she](sā) [goddess](devī) [shines](virājate)
+[nectar](sudhā) [natured](ātmikā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v861
-[nectar+natured](sudhā+ātmikā) [triumphs+this](jayati+eṣā) [everywhere](viśvato) [universe+sustaining](viśva+dhārikā)
+[nectar+natured](sudhā+ātmikā) [triumphs](jayati) [this](eṣā) [everywhere](viśvataḥ) [universe+supporter](viśva+dhārikā)
 
 ## mukta-m0-p35-v862
-[royal+policy](rāja+nītiḥ) [she](sā) [goddess](devī) [shines](virājate)
+[kingdom](rājya) [policy](nītiḥ) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v863
-[then](tadā) [when](yadā) [not](na) [pleased](tuṣṭā) [you](tvaṃ) [royal+policy+may-be](rāja+nītiḥ+bhaveḥ) [O-auspicious-one](śive)
+[then](tadā) [when](yadā) [not](na) [pleased](tuṣṭā) [you](tvaṃ) [royal+policy](rājya+nītiḥ) [may-be](bhaveḥ) [O-Śivā](śive)
 
 ## mukta-m0-p35-v864
-[triple-veda](trayī) [she](sā) [goddess](devī) [shines](virājate)
+[triple](trayī) [knowledge](vidyā) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v865
-[destruction+even](nāśaḥ+api) [may-be+may-remove](syāt+haratu) [sin](duritaṃ) [speech+triple-veda+mistress](vāk+trayī+īśī) [this-triple-veda](trayī+iyam)
+[destruction](nāśaḥ) [even](api) [may-be](syāt) [may-remove](haratu) [sin](duritaṃ) [speech+triple+mistress](vāk+trayī+īśī) [this-triple](trayī) [this](iyam)
 
 ## mukta-m0-p35-v866
-[livelihood](vārtā) [she](sā) [goddess](devī) [shines](virājate)
+[livelihood](vārtā) [she](sā) [goddess](devī) [knowledge](vidyā)
 
 ## mukta-m0-p35-v867
-[which+alone-standing+even](yā+eka+sthā+api) [great-distance](su+dūratvaṃ) [livelihood](vārtā) [with-distress](sa+ārtiṃ) [may-remove+this](haratu+iyam)
+[who](yā) [alone+standing](eka+sthā) [even](api) [great-distance](su+dūratvaṃ) [livelihood](vārtā) [with-distress](sa+ārtiṃ) [may-remove](haratu) [this](iyam)
 
 ## mukta-m0-p35-v868
-[punishment+policy](daṇḍa+nītiḥ) [she](sā) [goddess](devī) [shines](virājate)
+[punishment](daṇḍa) [policy](nītiḥ) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v869
-[auspicious](śivā) [punishment+policy](daṇḍa+nītiḥ) [fear](bhayaṃ) [punishing](daṇḍayantī)
+[auspicious](śivā) [punishment+policy](daṇḍa+nītiḥ) [fear](bhayaṃ) [punishing](daṇḍayantī) [she](sā)
 
 ## mukta-m0-p35-v870
-[action+possessing](kriyā+vatī) [she](sā) [goddess](devī) [shines](virājate)
+[action](kriyā) [possessing](vatī) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v871
-[action+possessing](kriyā+vatī) [to-us](naḥ) [dear+may-extend](priyam+ātanotu)
+[action+possessing](kriyā+vatī) [for-us](naḥ) [what-is-dear](priyam) [may-bring](ātanotu) [she](sā)
 
 ## mukta-m0-p35-v872
-[true+prosperity](sat+bhūtiḥ) [she](sā) [goddess](devī) [shines](virājate)
+[true](sat) [prosperity](bhūtiḥ) [she](sā) [goddess](devī)
 
 ## mukta-m0-p35-v873
-[causing-to-be](bhāvayantī) [own-nature+purpose+making](sva+bhāva+artha+karī) [true+prosperity+may-be](sat+bhūtiḥ+astu) [to-you](vaḥ)
+[causing-to-be](bhāvayantī) [own-nature+purpose+making](sva+bhāva+artha+karī) [true+prosperity](sat+bhūtiḥ) [may-be](astu) [for-you](vaḥ)
 
 ## mukta-m0-p35-v874
-[savior](tāriṇī) [she](sā) [goddess](devī) [shines](virājate)
+[savior](tāriṇī) [she](sā) [goddess](devī) [compassionate](dayāluḥ)
 
 ## mukta-m0-p35-v875
-[wretched+then+if](dīnaḥ+tat+yadi) [not](na) [you+own+compassion](tvam+ātma+kṛpayā) [savior](saṃtāriṇī) [savior](tāriṇī)
+[wretched](dīnaḥ) [then](tad) [if](yadi) [not](na) [you](tvam) [by-own+compassion](ātma+kṛpayā) [savior](saṃtāriṇī) [savior](tāriṇī)

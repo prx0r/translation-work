@@ -9,18 +9,6 @@
 {
 "surface": "śraddhā",
 "quick_gloss": "faith"
-},
-{
-"surface": "śraddhā",
-"quick_gloss": "devotion"
-},
-{
-"surface": "śraddhā",
-"quick_gloss": "trust"
-},
-{
-"surface": "śraddhā",
-"quick_gloss": "reverence"
 }
 ]
 },
@@ -32,11 +20,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+dhāma",
-"quick_gloss": "that+abode"
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
-"surface": "saṃbodhayituṃ",
+"surface": "dhāma",
+"quick_gloss": "abode"
+},
+{
+"surface": "saṃbodhayitum",
 "quick_gloss": "to-awaken"
 },
 {
@@ -56,7 +48,7 @@
 "quick_gloss": "she"
 },
 {
-"surface": "mama+dā",
+"surface": "mamadā",
 "quick_gloss": "joy-giving"
 },
 {
@@ -77,20 +69,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "p. 129",
-"quick_gloss": "page-129"
+"surface": "p.",
+"quick_gloss": "page"
 },
 {
-"surface": "sat+gatiḥ",
-"quick_gloss": "good+path"
-},
-{
-"surface": "sad+gatiḥ",
-"quick_gloss": "good-destination"
+"surface": "129",
+"quick_gloss": "129"
 },
 {
 "surface": "sadgatiḥ",
-"quick_gloss": "salvation"
+"quick_gloss": "good-destination"
 }
 ]
 },
@@ -103,18 +91,18 @@
 "tokens": [
 {
 "surface": "santaḥ",
-"quick_gloss": "good-ones"
+"quick_gloss": "the-good"
 },
 {
 "surface": "bhajantaḥ",
 "quick_gloss": "worshipping"
 },
 {
-"surface": "bhavatīṃ",
+"surface": "bhavatīm",
 "quick_gloss": "you"
 },
 {
-"surface": "satīṃ",
+"surface": "satīm",
 "quick_gloss": "virtuous-one"
 },
 {
@@ -126,8 +114,12 @@
 "quick_gloss": "you-are-praised"
 },
 {
-"surface": "sad+gatiḥ+iti",
-"quick_gloss": "as-good-path"
+"surface": "sadgatiḥ",
+"quick_gloss": "good-destination"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "atas",
@@ -147,20 +139,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sat+parāyaṇā",
+"surface": "satparāyaṇā",
 "quick_gloss": "devoted-to-the-good"
-},
-{
-"surface": "sat+parāyaṇā",
-"quick_gloss": "supreme-refuge"
-},
-{
-"surface": "sat+parāyaṇā",
-"quick_gloss": "devoted-to-truth"
-},
-{
-"surface": "sat+parāyaṇā",
-"quick_gloss": "highest-goal"
 }
 ]
 },
@@ -189,7 +169,7 @@
 },
 {
 "surface": "tvad+ātmakā",
-"quick_gloss": "of-your-nature"
+"quick_gloss": "your-nature"
 },
 {
 "surface": "yat",
@@ -197,7 +177,7 @@
 },
 {
 "surface": "parigītā",
-"quick_gloss": "you-are-sung"
+"quick_gloss": "praised"
 },
 {
 "surface": "hi",
@@ -208,8 +188,12 @@
 "quick_gloss": "you-are"
 },
 {
-"surface": "sat+parāyaṇā+taḥ",
-"quick_gloss": "as-devoted-to-the-good"
+"surface": "satparāyaṇā",
+"quick_gloss": "devoted-to-the-good"
+},
+{
+"surface": "ataḥ",
+"quick_gloss": "therefore"
 }
 ]
 },
@@ -223,18 +207,6 @@
 {
 "surface": "sindhuḥ",
 "quick_gloss": "river"
-},
-{
-"surface": "sindhuḥ",
-"quick_gloss": "ocean"
-},
-{
-"surface": "sindhuḥ",
-"quick_gloss": "stream"
-},
-{
-"surface": "sindhuḥ",
-"quick_gloss": "flood"
 }
 ]
 },
@@ -255,15 +227,11 @@
 },
 {
 "surface": "duṣkṛta+edhassu",
-"quick_gloss": "in-evil-deed+heaps"
+"quick_gloss": "of-sin-fuel"
 },
 {
 "surface": "bhūyāt",
 "quick_gloss": "may-be"
-},
-{
-"surface": "bhūyāt",
-"quick_gloss": "abundant"
 }
 ]
 },
@@ -277,18 +245,6 @@
 {
 "surface": "mandākinī",
 "quick_gloss": "celestial-river"
-},
-{
-"surface": "mandākinī",
-"quick_gloss": "heavenly-stream"
-},
-{
-"surface": "mandākinī",
-"quick_gloss": "Ganges-of-heaven"
-},
-{
-"surface": "mandākinī",
-"quick_gloss": "Mandakini"
 }
 ]
 },
@@ -305,7 +261,7 @@
 },
 {
 "surface": "vṛndāraka+vanditā",
-"quick_gloss": "by-gods+adored"
+"quick_gloss": "by-gods-adored"
 },
 {
 "surface": "haratu",
@@ -313,11 +269,11 @@
 },
 {
 "surface": "naḥ",
-"quick_gloss": "of-us"
+"quick_gloss": "our"
 },
 {
 "surface": "mandākinī",
-"quick_gloss": "Mandakini"
+"quick_gloss": "celestial-river"
 },
 {
 "surface": "mandatām",
@@ -334,19 +290,7 @@
 "tokens": [
 {
 "surface": "gaṅgā",
-"quick_gloss": "Ganges"
-},
-{
-"surface": "gaṅgā",
-"quick_gloss": "river-Ganga"
-},
-{
-"surface": "gaṅgā",
-"quick_gloss": "sacred-stream"
-},
-{
-"surface": "gaṅgā",
-"quick_gloss": "Ganga"
+"quick_gloss": "gaṅgā"
 }
 ]
 },
@@ -363,7 +307,7 @@
 },
 {
 "surface": "gaṅgā",
-"quick_gloss": "Ganga"
+"quick_gloss": "gaṅgā"
 },
 {
 "surface": "api",
@@ -378,12 +322,12 @@
 "quick_gloss": "wonder"
 },
 {
-"surface": "amalaṃ",
+"surface": "amalam",
 "quick_gloss": "spotless"
 },
 {
-"surface": "sarva+uparisthaṃ",
-"quick_gloss": "above-all+standing"
+"surface": "sarva+uparistham",
+"quick_gloss": "highest-standing"
 },
 {
 "surface": "janam",
@@ -400,19 +344,7 @@
 "tokens": [
 {
 "surface": "yamunā",
-"quick_gloss": "Yamuna"
-},
-{
-"surface": "yamunā",
-"quick_gloss": "river-Yamuna"
-},
-{
-"surface": "yamunā",
-"quick_gloss": "sacred-river"
-},
-{
-"surface": "yamunā",
-"quick_gloss": "Yamuna"
+"quick_gloss": "yamunā"
 }
 ]
 },
@@ -425,15 +357,15 @@
 "tokens": [
 {
 "surface": "maya+damanī",
-"quick_gloss": "pride+subduing"
+"quick_gloss": "pride-subduing"
 },
 {
 "surface": "yamunā",
-"quick_gloss": "Yamuna"
+"quick_gloss": "yamunā"
 },
 {
 "surface": "yama+tva+dā",
-"quick_gloss": "restraint+giving"
+"quick_gloss": "restraint-giving"
 },
 {
 "surface": "astu",
@@ -450,19 +382,7 @@
 "tokens": [
 {
 "surface": "sarasvatī",
-"quick_gloss": "Sarasvati"
-},
-{
-"surface": "sarasvatī",
-"quick_gloss": "goddess-of-speech"
-},
-{
-"surface": "sarasvatī",
-"quick_gloss": "sacred-river"
-},
-{
-"surface": "sarasvatī",
-"quick_gloss": "Sarasvati"
+"quick_gloss": "sarasvatī"
 }
 ]
 },
@@ -487,7 +407,7 @@
 },
 {
 "surface": "bhoga+rasa+dā",
-"quick_gloss": "enjoyment+essence+giving"
+"quick_gloss": "enjoyment-essence-giving"
 },
 {
 "surface": "astu",
@@ -495,7 +415,7 @@
 },
 {
 "surface": "sarasvatī",
-"quick_gloss": "Sarasvati"
+"quick_gloss": "sarasvatī"
 }
 ]
 },
@@ -508,19 +428,7 @@
 "tokens": [
 {
 "surface": "godāvarī",
-"quick_gloss": "Godavari"
-},
-{
-"surface": "godāvarī",
-"quick_gloss": "river-Godavari"
-},
-{
-"surface": "godāvarī",
-"quick_gloss": "sacred-river"
-},
-{
-"surface": "godāvarī",
-"quick_gloss": "Godavari"
+"quick_gloss": "godāvarī"
 }
 ]
 },
@@ -533,19 +441,19 @@
 "tokens": [
 {
 "surface": "godāvarī",
-"quick_gloss": "Godavari"
+"quick_gloss": "godāvarī"
 },
 {
-"surface": "jaḍatvaṃ",
+"surface": "jaḍatvam",
 "quick_gloss": "dullness"
 },
 {
 "surface": "naḥ",
-"quick_gloss": "of-us"
+"quick_gloss": "our"
 },
 {
 "surface": "bodha+gobhiḥ",
-"quick_gloss": "by-knowledge+rays"
+"quick_gloss": "with-knowledge-rays"
 },
 {
 "surface": "vyapohatām",
@@ -562,19 +470,7 @@
 "tokens": [
 {
 "surface": "vipāśā",
-"quick_gloss": "Vipasha"
-},
-{
-"surface": "vipāśā",
-"quick_gloss": "unfettered"
-},
-{
-"surface": "vipāśā",
-"quick_gloss": "river-Vipasha"
-},
-{
-"surface": "vipāśā",
-"quick_gloss": "Vipasha"
+"quick_gloss": "vipāśā"
 }
 ]
 },
@@ -595,11 +491,11 @@
 },
 {
 "surface": "tata+udaughā",
-"quick_gloss": "flowing+stream"
+"quick_gloss": "bond-stream"
 },
 {
 "surface": "vipāśā",
-"quick_gloss": "Vipasha"
+"quick_gloss": "vipāśā"
 },
 {
 "surface": "iti",
@@ -620,19 +516,7 @@
 "tokens": [
 {
 "surface": "kāverī",
-"quick_gloss": "Kaveri"
-},
-{
-"surface": "kāverī",
-"quick_gloss": "river-Kaveri"
-},
-{
-"surface": "kāverī",
-"quick_gloss": "sacred-river"
-},
-{
-"surface": "kāverī",
-"quick_gloss": "Kaveri"
+"quick_gloss": "kāverī"
 }
 ]
 },
@@ -645,19 +529,19 @@
 "tokens": [
 {
 "surface": "kāverī",
-"quick_gloss": "Kaveri"
+"quick_gloss": "kāverī"
 },
 {
-"surface": "nimnayānā",
+"surface": "nimnayānām",
 "quick_gloss": "of-rivers"
 },
 {
 "surface": "kṣaṇa+hati+vibhavāt",
-"quick_gloss": "by-moment+destruction+power"
+"quick_gloss": "by-power-of-destroying-in-a-moment"
 },
 {
 "surface": "nimna+harṣa+upayānāt",
-"quick_gloss": "to-low+joy+attainment"
+"quick_gloss": "from-attaining-lowly-joy"
 }
 ]
 },
@@ -670,19 +554,7 @@
 "tokens": [
 {
 "surface": "śatadrukā",
-"quick_gloss": "Shatadruka"
-},
-{
-"surface": "śata+drukā",
-"quick_gloss": "hundred-channeled"
-},
-{
-"surface": "śatadrukā",
-"quick_gloss": "river-Sutlej"
-},
-{
-"surface": "śatadrukā",
-"quick_gloss": "Shatadruka"
+"quick_gloss": "śatadrukā"
 }
 ]
 },
@@ -695,10 +567,10 @@
 "tokens": [
 {
 "surface": "śata+sadbhiḥ",
-"quick_gloss": "by-hundred+good-ones"
+"quick_gloss": "by-hundreds-of-good-people"
 },
 {
-"surface": "kathaṃ",
+"surface": "katham",
 "quick_gloss": "how"
 },
 {
@@ -719,7 +591,7 @@
 },
 {
 "surface": "śatadrukā",
-"quick_gloss": "Shatadruka"
+"quick_gloss": "śatadrukā"
 }
 ]
 },
@@ -732,19 +604,7 @@
 "tokens": [
 {
 "surface": "sarayūḥ",
-"quick_gloss": "Sarayu"
-},
-{
-"surface": "sarayūḥ",
-"quick_gloss": "river-Sarayu"
-},
-{
-"surface": "sarayūḥ",
-"quick_gloss": "sacred-river"
-},
-{
-"surface": "sarayūḥ",
-"quick_gloss": "Sarayu"
+"quick_gloss": "sarayū"
 }
 ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[river](sarayūḥ) [born-of-mind](mānasa-udbhūtā) [of-mind-born](mānasa-udbhūta) [change](vikriyām)
+[sarayū](sarayūr) [mind-born](mānasa+udbhūtā) [mind-born](mānasa+udbhūta) [affliction](vikriyām)
 
 ## mukta-m0-p37-v902
-[moon-part](candrabhāgā)
+[moon](candra) [portion](bhāgā) [river](nadī) [sacred](puṇyā)
 
 ## mukta-m0-p37-v903
-[you](yuṣmān) [by-great-fortune](mahābhāgatayā) [may-unite](yunaktu)
+[you-all](yuṣmān) [by-great-fortune](mahā+bhāgatayā) [may-unite](yunaktu) [she](sā)
 
 ## mukta-m0-p37-v904
-[of-Kuśika](kauśikī)
+[Kuśika's-daughter](kauśikī) [river](nadī) [sacred](puṇyā) [goddess](devī)
 
 ## mukta-m0-p37-v905
-[may-bestow](vitaratu) [treasure-of-boons](varakośam) [of-Kuśika](kauśikī) [very-brilliant](suprakāśā)
+[may-bestow](vitaratu) [boon-treasure](vara+kośaṃ) [Kauśikī](kauśikī) [very-bright](su+prakāśā)
 
 ## mukta-m0-p37-v906
-[Gandakī](gaṇḍakī)
+[Gandakī](gaṇḍakī) [river](nadī) [sacred](puṇyā) [holy](puṇyā)
 
 ## mukta-m0-p37-v907
-[pure](śuciḥ)
+[p.](p.) [132)](132)) [pure](śuciḥ) [holy](pavitram)
 
 ## mukta-m0-p37-v908
-[beautiful](rucirā) [not-impure](aśucirāt) [may-be](astu) [pure](śuciḥ) [by-own-cause](svākāraṇa) [action-doer](arthakṛt)
+[beautiful](rucirā) [from-impure](aśucirāt) [may-be](astu) [pure](śuciḥ) [own-form](sva+ākāraṇa) [purpose-doing](artha+kṛt)
 
 ## mukta-m0-p37-v909
-[Narmadā](narmadā)
+[Narmadā](narmadā) [river](nadī) [delight-giving](narma+dā) [sacred](puṇyā)
 
 ## mukta-m0-p37-v910
-[she](sā) [Narmadā](narmadā) [in-pleasures](narmasu) [southwardness](dakṣiṇatvam)
+[she](sā) [Narmadā](narmadā) [in-delights](narmasu) [southernness](dakṣiṇatvam)
 
 ## mukta-m0-p37-v911
-[action-destroyer](karmanāśā)
+[action-destroying](karma+nāśā) [river](nadī) [sacred](puṇyā) [holy](puṇyā)
 
 ## mukta-m0-p37-v912
-[actionlessness](naiṣkarmyam) [this](eṣā) [indeed](kila) [action-destroyer](karmanāśā)
+[actionlessness](naiṣkarmyam) [this](eṣā) [indeed](kila) [action-destroying](karma+nāśā)
 
 ## mukta-m0-p37-v913
-[skin-having](carmaṇvatī)
+[Carmaṇvatī](carmaṇvatī) [river](nadī) [sacred](puṇyā) [holy](puṇyā)
 
 ## mukta-m0-p37-v914
-[skin-having](carmaṇvatī) [always](sadā) [may-be](bhūyāt) [skin-sight-remover](carmadṛṣṭiharā) [to-thee](tava)
+[Carmaṇvatī](carmaṇvatī) [always](sadā) [may-be](bhūyāt) [skin](carma) [sight](dṛṣṭi) [removing](harā) [of-you](tava)
 
 ## mukta-m0-p37-v915
-[Devikā](devikā)
+[Devikā](devikā) [river](nadī) [goddess](devī) [sacred](puṇyā)
 
 ## mukta-m0-p37-v916
-[Brahmā-etc](brahmādikā) [greater](adhikā) [goddess](devī) [Devikā](devikā) [by-gods-renowned](devaviśrutā)
+[Brahmā-and-others](brahma+ādika) [surpassing](adhikā) [goddess](devī) [Devikā](devikā) [god-renowned](deva+viśrutā)
 
 ## mukta-m0-p37-v917
-[reed-having](vetravatī)
+[p.](p.) [133)](133)) [Vetravatī](vetravatī) [river](nadī)
 
 ## mukta-m0-p37-v918
-[by-three-reed-bearers](trivetradhāribhiḥ) [sung](gītā) [may-be](bhavet) [reed-having](vetravatī) [auspicious](śivā)
+[by-triple-staff-holders](tri+vetra+dhāribhiḥ) [praised](gītā) [may-be](bhaved) [Vetravatī](vetravatī) [auspicious](śivā)
 
 ## mukta-m0-p37-v919
-[Vitastā](vitastā)
+[Vitastā](vitastā) [river](nadī) [sacred](puṇyā) [holy](puṇyā)
 
 ## mukta-m0-p37-v920
-[revivifying](saṃjīvayantī) [wonderful-life](adbhutajīvanasya) [by-meditation-even](dhyānāt+api) [this](iyam) [bliss-giving](sukhadā) [Vitastā](vitastā)
+[reviving](saṃjīvayantī) [of-wondrous-life](adbhuta+jīvanasya) [from-meditation](dhyānāt) [even](api) [this](iyaṃ) [happiness-giving](sukha+dā) [Vitastā](vitastā)
 
 ## mukta-m0-p37-v921
-[boon-giving](varadā)
+[Varadā](varadā) [river](nadī) [boon-giving](vara+dā) [sacred](puṇyā)
 
 ## mukta-m0-p37-v922
-[boon-giving](varadā) [thus](iti) [how](katham) [sung](gītā) [by-boon-intellects](varadhībhiḥ) [boon-goddess](vareśvarī)
+[boon-giver](vara+dā) [thus](iti) [how](kathaṃ) [praised](gītā) [by-boon-minded](vara+dhībhiḥ) [boon-lady](vara+īśvarī)
 
 ## mukta-m0-p37-v923
-[man-vehicle](naravāhanā)
+[Naravāhanā](naravāhanā) [river](nadī) [sacred](puṇyā) [holy](puṇyā)
 
 ## mukta-m0-p37-v924
-[by-man-vehicle](naravāhana) [praised](saṃślāghyā) [for-fortune](śriye) [may-be](astu) [man-vehicle](naravāhanā)
+[by-Naravāhana](nara+vāhana) [praiseworthy](saṃślāghyā) [for-prosperity](śriye) [may-be](astu) [Naravāhanā](naravāhanā)
 
 ## mukta-m0-p37-v925
-[chaste](satī)
+[chaste](satī) [virtuous](sādhvī) [river](nadī) [sacred](puṇyā)
