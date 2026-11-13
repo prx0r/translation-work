@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p147",
+ "items": [
+  {
+   "verse": 3675,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun, object of the request",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "indirect object of the imperative",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathaya",
+     "gloss": "tell",
+     "grounds": "imperative verb of speaking",
+     "morph": "imp.2.sg.act √kath"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snehaḥ",
+     "gloss": "affection",
+     "grounds": "subject of the conditional clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "verb of existence in the conditional clause",
+     "morph": "pres.3.sg.act √as"
+    },
+    {
+     "surface": "māṃ+prati",
+     "gloss": "toward-me",
+     "grounds": "accusative pronoun with directional particle indicating the object of affection",
+     "morph": "pron.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "Under what condition of affection should the goddess reveal the requested teaching to the speaker?",
+   "premises": [
+    "The speaker directly requests the goddess to explain that teaching.",
+    "The request is made conditional on the presence of affection.",
+    "The relevant affection is directed toward the speaker."
+   ],
+   "inference": "If affection toward the speaker exists, the goddess should reveal the requested teaching.",
+   "uncertainties": [
+    "The referent of 'tat' depends on the preceding context not included in this verse."
+   ],
+   "plain_english": "Tell me that, O Goddess, if you have affection toward me."
+  }
+ ]
+}

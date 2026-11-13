@@ -1,0 +1,1077 @@
+{
+ "song": "mukta-m0-p147",
+ "items": [
+  {
+   "verse": 3651,
+   "rows": [
+    {
+     "surface": "gadyapadyamayī",
+     "gloss": "prose-verse-consisting",
+     "grounds": "bahuvrīhi compound describing vāṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "subject of jāyate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sabhāyāṃ",
+     "gloss": "in-assembly",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive of possessor/experiencer",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "main verb",
+     "morph": "3.sg.pres.middle (jan)"
+    }
+   ],
+   "question": "What kind of speech arises for that person in an assembly?",
+   "premises": [
+    "Speech arises for him",
+    "The speech consists of prose and verse",
+    "This occurs in an assembly"
+   ],
+   "inference": "That person gains the ability to speak fluently in both prose and verse in an assembly.",
+   "uncertainties": [],
+   "plain_english": "For him, speech consisting of both prose and verse arises in an assembly."
+  },
+  {
+   "verse": 3652,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive, refers to the same person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vākya",
+     "gloss": "speech",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paricayāt",
+     "gloss": "from-familiarity",
+     "grounds": "ablative of cause; tatpuruṣa compound with vākya",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "jaḍā",
+     "gloss": "dull-ones",
+     "grounds": "subject becoming eloquent",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "main verb",
+     "morph": "3.pl.pres.active (bhū)"
+    },
+    {
+     "surface": "vāgminaḥ",
+     "gloss": "eloquent-ones",
+     "grounds": "predicate nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What effect does familiarity with that person's speech have on dull people?",
+   "premises": [
+    "There is familiarity with his speech",
+    "Dull people are affected by it",
+    "They become eloquent"
+   ],
+   "inference": "Even dull people become eloquent through familiarity with his speech.",
+   "uncertainties": [],
+   "plain_english": "From familiarity with his speech, even dull people become eloquent."
+  },
+  {
+   "verse": 3653,
+   "rows": [
+    {
+     "surface": "lakṣapīṭha",
+     "gloss": "hundred-thousand-seat",
+     "grounds": "first member of compound indicating a ritual/count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "object of labhate; tatpuruṣa compound with lakṣapīṭha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "main verb",
+     "morph": "3.sg.pres.middle (labh)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverbial sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject of implied asti",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual fruit is obtained without doubt, O goddess?",
+   "premises": [
+    "One obtains the fruit of a hundred-thousand-seat ritual",
+    "The goddess is addressed directly",
+    "There is no doubt in this matter"
+   ],
+   "inference": "The practitioner certainly obtains the fruit equivalent to performing a hundred-thousand-seat ritual.",
+   "uncertainties": [
+    "lakṣapīṭha may refer to a specific ritual installation or a large count of recitations"
+   ],
+   "plain_english": "O goddess, one obtains the fruit of a hundred-thousand-seat ritual; there is no doubt about this."
+  },
+  {
+   "verse": 3654,
+   "rows": [
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-mutter",
+     "grounds": "injunctive/optative sense prescribing practice",
+     "morph": "3.sg.opt.active (pra-jap)"
+    },
+    {
+     "surface": "pratidinam",
+     "gloss": "every-day",
+     "grounds": "adverbial compound indicating daily repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottarasahasram",
+     "gloss": "eight-over-thousand",
+     "grounds": "object indicating count of 1008",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "subject explaining the intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What daily recitation count is prescribed as the intended meaning?",
+   "premises": [
+    "A daily muttering is prescribed",
+    "The count is one thousand and eight",
+    "This is stated as the meaning"
+   ],
+   "inference": "The intended practice is to mutter the mantra one thousand and eight times every day.",
+   "uncertainties": [],
+   "plain_english": "The meaning is this: one should mutter it one thousand and eight times every day."
+  },
+  {
+   "verse": 3655,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇanā",
+     "gloss": "counting",
+     "grounds": "subject of proktā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg (pra-vac)"
+    },
+    {
+     "surface": "gajāntakasahasrakam",
+     "gloss": "elephant-end-thousand",
+     "grounds": "predicate specifying the count (1008)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific counting method is declared in that context?",
+   "premises": [
+    "Counting is declared in that very context",
+    "The count is specified as gajāntakasahasrakam",
+    "This is stated explicitly"
+   ],
+   "inference": "In that context, the prescribed counting is one thousand and eight.",
+   "uncertainties": [
+    "gajāntaka as a numerical code for eight follows traditional saṃkhyā conventions but is interpretive"
+   ],
+   "plain_english": "In that very context, the counting is declared to be one thousand and eight."
+  },
+  {
+   "verse": 3656,
+   "rows": [
+    {
+     "surface": "dhanakāmena",
+     "gloss": "by-wealth-desirer",
+     "grounds": "instrumental agent; tatpuruṣa compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "hotavyaṃ",
+     "gloss": "to-be-offered",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg (hu)"
+    },
+    {
+     "surface": "tilājyamadhusaṃyutam",
+     "gloss": "sesame-ghee-honey-joined",
+     "grounds": "describes the oblation material; bahuvrīhi/tatpuruṣa compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What oblation material must a person desiring wealth offer?",
+   "premises": [
+    "A person desires wealth",
+    "An oblation must be performed",
+    "The oblation is joined with sesame, ghee, and honey"
+   ],
+   "inference": "One who desires wealth should offer an oblation mixed with sesame, ghee, and honey.",
+   "uncertainties": [],
+   "plain_english": "One who desires wealth should make an oblation mixed with sesame, ghee, and honey."
+  },
+  {
+   "verse": 3657,
+   "rows": [
+    {
+     "surface": "sarpirlavaṇahomena",
+     "gloss": "ghee-salt-by-oblation",
+     "grounds": "instrumental of means; tatpuruṣa compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākarṣati",
+     "gloss": "attracts",
+     "grounds": "main verb",
+     "morph": "3.sg.pres.active (ā-kṛṣ)"
+    },
+    {
+     "surface": "kāminī",
+     "gloss": "beloved-woman",
+     "grounds": "object of ākarṣati",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What oblation enables a practitioner to attract a desired woman?",
+   "premises": [
+    "An oblation is made with ghee and salt",
+    "This practice has an attracting effect",
+    "The object attracted is a desired woman"
+   ],
+   "inference": "By performing an oblation with ghee and salt, one always attracts a desired woman.",
+   "uncertainties": [],
+   "plain_english": "By an oblation of ghee and salt, one always attracts a desired woman."
+  },
+  {
+   "verse": 3658,
+   "rows": [
+    {
+     "surface": "mallikājātipunnāgakadambaiḥ",
+     "gloss": "with-jasmine-jasmine-laurel-kadamba",
+     "grounds": "instrumental plural of flowers used in oblation; dvandva compound",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "puṣṭim",
+     "gloss": "nourishment",
+     "grounds": "object of āpnuyāt",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-obtains",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.active (āp)"
+    }
+   ],
+   "question": "What result is obtained by offering mallikā, jāti, punnāga, and kadamba flowers?",
+   "premises": [
+    "Oblations are made with mallikā, jāti, punnāga, and kadamba",
+    "A specific benefit is sought",
+    "The benefit obtained is nourishment or prosperity"
+   ],
+   "inference": "One obtains nourishment or prosperity by offering these flowers.",
+   "uncertainties": [
+    "mallikā and jāti are both types of jasmine; exact botanical distinction not specified"
+   ],
+   "plain_english": "With mallikā, jāti, punnāga, and kadamba flowers, one obtains nourishment."
+  },
+  {
+   "verse": 3659,
+   "rows": [
+    {
+     "surface": "kṣīrājyatagaraiḥ",
+     "gloss": "milk-ghee-tagara",
+     "grounds": "instrumental plural of oblation materials; dvandva compound",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "homāt",
+     "gloss": "from-oblation",
+     "grounds": "ablative of cause",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mahatīṃ",
+     "gloss": "great",
+     "grounds": "adjective qualifying kavitāṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kavitāṃ",
+     "gloss": "poetry",
+     "grounds": "object of labhet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-obtains",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.middle (labh)"
+    }
+   ],
+   "question": "What poetic attainment results from oblations with milk, ghee, and tagara?",
+   "premises": [
+    "An oblation is performed with milk, ghee, and tagara",
+    "The oblation produces a specific result",
+    "The result is great poetic ability"
+   ],
+   "inference": "One obtains great poetic skill through oblations of milk, ghee, and tagara.",
+   "uncertainties": [],
+   "plain_english": "From an oblation with milk, ghee, and tagara, one obtains great poetic ability."
+  },
+  {
+   "verse": 3660,
+   "rows": [
+    {
+     "surface": "nīlasarasvatīpadam",
+     "gloss": "blue-sarasvati-word",
+     "grounds": "compound referring to the term/name Nīlasarasvatī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upalakṣaṇam",
+     "gloss": "indicative",
+     "grounds": "predicate indicating illustrative function",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What function does the term Nīlasarasvatī serve in this context?",
+   "premises": [
+    "The term Nīlasarasvatī is mentioned",
+    "It is described as upalakṣaṇam",
+    "It indicates or exemplifies a broader category"
+   ],
+   "inference": "The term Nīlasarasvatī is used here as an indicative example rather than an exclusive designation.",
+   "uncertainties": [
+    "the exact scope of what Nīlasarasvatī indicates is not fully specified in this verse alone"
+   ],
+   "plain_english": "The term Nīlasarasvatī is indicative."
+  },
+  {
+   "verse": 3661,
+   "rows": [
+    {
+     "surface": "pratidinam",
+     "gloss": "every-day",
+     "grounds": "adverbial compound indicating daily practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalaparyantam",
+     "gloss": "up-to-mandala-period",
+     "grounds": "adverbial compound indicating duration limit; avyayībhāva/tatpuruṣa",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What duration is specified for the daily practice mentioned?",
+   "premises": [
+    "The practice is to be done every day",
+    "A time limit is specified",
+    "The limit extends up to the completion of a maṇḍala period"
+   ],
+   "inference": "The daily practice should be continued until the end of a maṇḍala period.",
+   "uncertainties": [
+    "maṇḍala period length (commonly 40 or 48 days) is not explicitly stated"
+   ],
+   "plain_english": "The meaning is: every day, up to the end of a maṇḍala period."
+  },
+  {
+   "verse": 3662,
+   "rows": [
+    {
+     "surface": "sarvasya",
+     "gloss": "of-all",
+     "grounds": "genitive qualifying homasya",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homasya",
+     "gloss": "of-oblation",
+     "grounds": "genitive of the thing regulated",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "niyamaḥ",
+     "gloss": "rule",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayutasaṃkhyakaḥ",
+     "gloss": "ten-thousand-numbered",
+     "grounds": "predicate specifying the count; bahuvrīhi compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What general numerical rule applies to all oblations described?",
+   "premises": [
+    "A rule applies to all oblations",
+    "The rule is emphatically stated",
+    "The prescribed number is ten thousand"
+   ],
+   "inference": "The general rule for every oblation is that it should be performed ten thousand times.",
+   "uncertainties": [],
+   "plain_english": "But the rule for every oblation is indeed that it be numbered at ten thousand."
+  },
+  {
+   "verse": 3663,
+   "rows": [
+    {
+     "surface": "mantrasiddhikaraṃ",
+     "gloss": "mantra-accomplishment-causing",
+     "grounds": "describes the practice/result; tatpuruṣa compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb emphasizing immediacy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāpātakanāśanam",
+     "gloss": "great-sin-destroying",
+     "grounds": "describes the practice/result; tatpuruṣa compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What two direct effects does this practice accomplish?",
+   "premises": [
+    "The practice causes mantra accomplishment",
+    "The practice destroys great sins",
+    "These effects are direct"
+   ],
+   "inference": "This practice directly brings about mantra accomplishment and destroys great sins.",
+   "uncertainties": [],
+   "plain_english": "It directly brings about mantra accomplishment and destroys great sins."
+  },
+  {
+   "verse": 3664,
+   "rows": [
+    {
+     "surface": "vaśīkṛtya",
+     "gloss": "having-subjugated",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund, vaśī-kṛ)"
+    },
+    {
+     "surface": "nṛpān",
+     "gloss": "kings",
+     "grounds": "object of vaśīkṛtya",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "adjective qualifying nṛpān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhogī",
+     "gloss": "enjoyer",
+     "grounds": "predicate nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "one-should-be",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.active (as)"
+    },
+    {
+     "surface": "yāvadāyuṣam",
+     "gloss": "as-long-as-life",
+     "grounds": "adverbial compound indicating duration; avyayībhāva",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lifelong status follows from subjugating all kings?",
+   "premises": [
+    "All kings are subjugated",
+    "The practitioner attains a certain status",
+    "This status lasts as long as life"
+   ],
+   "inference": "Having subjugated all kings, one becomes an enjoyer for the duration of one's life.",
+   "uncertainties": [],
+   "plain_english": "Having subjugated all kings, one should be an enjoyer for as long as life lasts."
+  },
+  {
+   "verse": 3665,
+   "rows": [
+    {
+     "surface": "agurumiśritaiḥ",
+     "gloss": "aguru-mixed",
+     "grounds": "instrumental describing the waters; tatpuruṣa compound",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "toyaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental of means",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sarvakālaḥ",
+     "gloss": "at-all-times",
+     "grounds": "adverbial compound indicating constant state; bahuvrīhi/adverbial",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "predicate nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.active (bhū)"
+    }
+   ],
+   "question": "What condition results from using waters mixed with aguru?",
+   "premises": [
+    "Waters are mixed with aguru",
+    "These waters are used in the practice",
+    "The practitioner becomes happy at all times"
+   ],
+   "inference": "Using waters mixed with aguru makes one happy at all times.",
+   "uncertainties": [],
+   "plain_english": "With waters mixed with aguru, one becomes happy at all times."
+  },
+  {
+   "verse": 3666,
+   "rows": [
+    {
+     "surface": "marīcamiśritaiḥ",
+     "gloss": "pepper-mixed",
+     "grounds": "instrumental describing the waters; tatpuruṣa compound",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "toyaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental of means",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating parallel application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatrūn",
+     "gloss": "enemies",
+     "grounds": "object of vināśayet",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "one-destroys",
+     "grounds": "optative/causative expressing result",
+     "morph": "3.sg.opt.causative (vi-naś)"
+    }
+   ],
+   "question": "What hostile effect is achieved using waters mixed with pepper?",
+   "premises": [
+    "Waters are mixed with pepper",
+    "These waters are used in a similar manner",
+    "Enemies are destroyed"
+   ],
+   "inference": "Using waters mixed with pepper likewise destroys enemies.",
+   "uncertainties": [],
+   "plain_english": "Likewise, with waters mixed with pepper, one destroys enemies."
+  },
+  {
+   "verse": 3667,
+   "rows": [
+    {
+     "surface": "jvarāviṣṭau",
+     "gloss": "fever-afflicted",
+     "grounds": "locative of circumstance; tatpuruṣa compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative in conditional context",
+     "morph": "3.sg.opt.active (bhū)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the prior means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dugdhasekāt",
+     "gloss": "milk-sprinkling",
+     "grounds": "ablative of means/cause; tatpuruṣa compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "calm",
+     "grounds": "resultative state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-brings",
+     "grounds": "optative expressing remedy",
+     "morph": "3.sg.opt.active (nī)"
+    }
+   ],
+   "question": "How can fever caused by that practice be brought to calm?",
+   "premises": [
+    "A person becomes afflicted with fever by that means",
+    "Milk sprinkling is applied as a remedy",
+    "The fever is brought to calm"
+   ],
+   "inference": "If fever arises from that practice, sprinkling with milk brings it to calm.",
+   "uncertainties": [
+    "tena may refer to the preceding hostile rite or to the afflicted person; context suggests the rite's effect"
+   ],
+   "plain_english": "If one becomes afflicted with fever by that, one should bring it to calm by sprinkling with milk."
+  },
+  {
+   "verse": 3668,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive expressing prior ritual action",
+     "morph": "(gerund, kṛ)"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "main verb in relative clause",
+     "morph": "3.sg.pres.active (dṛś)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun, object of paśyati",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "subject of paśyati and kuryāt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "correlative pronoun, object of kuryāt",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.active (kṛ)"
+    },
+    {
+     "surface": "dāsavat",
+     "gloss": "like-slave",
+     "grounds": "adverbial comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "appositive to mantrī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power does a wise mantra practitioner gain over whomever he sees after the rite?",
+   "premises": [
+    "The wise practitioner performs the rite",
+    "He sees a person afterward",
+    "He can make that person like a slave"
+   ],
+   "inference": "After performing the rite, the wise practitioner can make whomever he sees behave like a slave.",
+   "uncertainties": [],
+   "plain_english": "Having performed the rite, whomever the wise practitioner sees, he can make that person like a slave."
+  },
+  {
+   "verse": 3669,
+   "rows": [
+    {
+     "surface": "japamātreṇa",
+     "gloss": "by-mere-muttering",
+     "grounds": "instrumental indicating sufficiency of muttering alone; tatpuruṣa compound",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāvahirbhāvena",
+     "gloss": "worship-external-state",
+     "grounds": "instrumental explaining absence of external worship; tatpuruṣa compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "subject explaining the intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What minimal practice is sufficient according to the stated meaning?",
+   "premises": [
+    "Mere muttering is mentioned",
+    "External worship is absent",
+    "This is given as the meaning"
+   ],
+   "inference": "The meaning is that mere muttering suffices, without external worship.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: by mere muttering, that is, without external worship."
+  },
+  {
+   "verse": 3670,
+   "rows": [
+    {
+     "surface": "miśrīkṛtya",
+     "gloss": "having-mixed",
+     "grounds": "absolutive expressing prior preparation",
+     "morph": "(gerund, miśrī-kṛ)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "object of dadyāt",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.active (dā)"
+    },
+    {
+     "surface": "aṣṭamyām",
+     "gloss": "on-eighth-day",
+     "grounds": "locative of time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb emphasizing the occasion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which occasion should a mixed offering be given with special emphasis?",
+   "premises": [
+    "An offering is prepared by mixing",
+    "The offering should be given",
+    "The eighth day is especially prescribed"
+   ],
+   "inference": "One should give the mixed offering especially on the eighth day.",
+   "uncertainties": [],
+   "plain_english": "Having mixed it, one should give the offering, especially on the eighth day."
+  },
+  {
+   "verse": 3671,
+   "rows": [
+    {
+     "surface": "saptāhābhyantare",
+     "gloss": "week-within",
+     "grounds": "locative indicating time frame; tatpuruṣa compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive of the target",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "coccāṭanam",
+     "gloss": "eradication",
+     "grounds": "subject/result of the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative qualifying coccāṭanam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "adjective qualifying coccāṭanam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What powerful result occurs for the target within a week?",
+   "premises": [
+    "A time frame of one week is specified",
+    "The rite affects a target person",
+    "A great eradication occurs"
+   ],
+   "inference": "Within a week, this brings about the great eradication of that person.",
+   "uncertainties": [
+    "coccāṭanam (uccāṭana) is a technical ritual term for driving away or uprooting"
+   ],
+   "plain_english": "Within a week, this brings about his great eradication."
+  },
+  {
+   "verse": 3672,
+   "rows": [
+    {
+     "surface": "nikṣipyate",
+     "gloss": "is-thrown",
+     "grounds": "passive verb in relative clause",
+     "morph": "3.sg.pres.passive (ni-kṣip)"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun, genitive of possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "in-house",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "subject of implied result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "correlative genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dvimāsataḥ",
+     "gloss": "in-two-months",
+     "grounds": "ablative/adverbial indicating time limit",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fatal consequence befalls the person in whose house the substance is thrown?",
+   "premises": [
+    "A substance is thrown into someone's house",
+    "A time limit of two months is given",
+    "Death occurs for that person"
+   ],
+   "inference": "If it is thrown into someone's house, that person dies within two months.",
+   "uncertainties": [],
+   "plain_english": "In whose house it is thrown, that person meets death within two months."
+  },
+  {
+   "verse": 3673,
+   "rows": [
+    {
+     "surface": "kṣāraḥ",
+     "gloss": "alkali",
+     "grounds": "subject/term being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śyenaviṭyuktaṃ",
+     "gloss": "hawk-excrement-joined",
+     "grounds": "describes viṭalavaṇam; tatpuruṣa compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṭalavaṇam",
+     "gloss": "excrement-salt",
+     "grounds": "predicate identifying kṣāraḥ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substance is identified as the alkali in this ritual context?",
+   "premises": [
+    "The term alkali is specified",
+    "It is joined with hawk excrement",
+    "It is identified as excrement-salt"
+   ],
+   "inference": "The alkali referred to is excrement-salt combined with hawk excrement.",
+   "uncertainties": [
+    "exact preparation and identification of viṭalavaṇam is a technical ritual detail"
+   ],
+   "plain_english": "But the alkali is excrement-salt joined with hawk excrement."
+  },
+  {
+   "verse": 3674,
+   "rows": [
+    {
+     "surface": "māraya",
+     "gloss": "kill",
+     "grounds": "imperative mantra syllables/command",
+     "morph": "2.sg.imp.causative (mṛ)"
+    },
+    {
+     "surface": "māraya",
+     "gloss": "kill",
+     "grounds": "repeated imperative mantra syllables/command",
+     "morph": "2.sg.imp.causative (mṛ)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-etcetera",
+     "grounds": "indicates continuation of mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyasahitam",
+     "gloss": "target-accompanied",
+     "grounds": "describes how mantra is used; tatpuruṣa compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "subject explaining the intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the mantra formula beginning with 'māraya māraya' be applied?",
+   "premises": [
+    "The mantra begins with 'māraya māraya' and so on",
+    "It must be accompanied by the target's name",
+    "This is stated as the meaning"
+   ],
+   "inference": "The meaning is that the mantra 'māraya māraya' etc. should be used together with the name of the intended target.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: 'Kill, kill,' and so forth, accompanied by the name of the target."
+  }
+ ]
+}

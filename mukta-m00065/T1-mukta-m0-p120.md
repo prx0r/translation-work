@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p120-v2976
-[six+limbs](ṣaḍaṅgaiḥ) [surrounded](āvṛtāḥ) [all](sarve) [obstacle+destroyers](vighnaghnāḥ) [with-offering+oblations](balihomakaiḥ)
+[six-limbed](ṣaḍaṅgaiḥ) [surrounded](āvṛtāḥ) [all](sarve) [obstacle-destroyers](vighnaghnāḥ) [with-offerings+and-oblations](balihomakaiḥ)
 
 ## mukta-m0-p120-v2977
-[therefore](tasmāt) [in-beginning](ādau) [and](ca) [to-be-propitated](santarpyāḥ) [in-śrāddha](śrāddhe) [not+facing-after](nānvīmukhāḥ) [likewise](tathā)
+[therefore](tasmāt) [in-beginning](ādau) [and](ca) [to-be-propitated](santarpyāḥ) [in-śrāddha](śrāddhe) [not](na) [facing-after](anvīmukhāḥ) [likewise](tathā)
 
 ## mukta-m0-p120-v2978
-[ground+born](sthalajaṃ) [lineage+produced](gotrasambhūtaṃ) [stone+splitting+equal](śilābhedasamaṃ) [wealth](dhanam)
+[land-born](sthalajaṃ) [mountain-born](gotrasambhūtaṃ) [stone-breaking+equal](śilābhedasamaṃ) [wealth](dhanam)
 
 ## mukta-m0-p120-v2979
-[ṅ:](ṅ:) [kākānti]](kākānti]) [splitting](bhedakam)
+[ṅ-reading](ṅ:) [crow-end](kākānti]) [splitting](bhedakam)
 
 ## mukta-m0-p120-v2980
-[vast](vipulaṃ) [many+branch+limbed](bahuśākhāṅgaṃ) [[kh:]( [kh:) [lākhyaṃ]](lākhyaṃ]) [mark](lakṣaṃ) [soft+mountain+born](komalamadrijam)
+[extensive](vipulaṃ) [many-branched+limbed](bahuśākhāṅgaṃ) [kh-reading-lākhyaṃ]([kh:) [lākhyaṃ])(lākhyaṃ]) [mark](lakṣaṃ) [soft+mountain-born](komalamadrijam)
 
 ## mukta-m0-p120-v2981
-[third](tṛtīyaṃ) [lotus+half+born](padmamardhajaṃ) [[mū:]( [mū:) [vardhaja]](vardhaja]) [characteristic](lakṣma) [this](etat) [of-tilaka](tilakasya) [and](ca)
+[third](tṛtīyaṃ) [lotus](padma) [half-born](mardhajaṃ) [mū-reading-vardhaja]([mū:) [vardhaja])(vardhaja]) [mark+this](lakṣma) [etat](etat) [of-tilaka](tilakasya) [and](ca)
 
 ## mukta-m0-p120-v2982
-[expanded](sphāraṃ) [curved+joined](kuṭilasaṃ) [[ṅ:]( [ṅ:) [lajaṃ]](lajaṃ]) [creeping](sarpi) [elevated](pronnataṃ) [extended](vitataṃ) [clear](sphuṭam)
+[expanded](sphāraṃ) [curved+joined](kuṭilasaṃ) [ṅ-reading-lajaṃ]([ṅ:) [lajaṃ])(lajaṃ]) [serpent](sarpi) [elevated](pronnataṃ) [spread-out](vitataṃ) [clear](sphuṭam)
 
 ## mukta-m0-p120-v2983
-[fivefold](pañcadhā) [by-ten+lines](daśarekhābhiḥ) [sixth](ṣaṣṭhaṃ) [whole](sakala) [[kh,]( [kh,) [gh:](gh:) [sabala]](sabala]) [form](rūpakam)
+[fivefold](pañcadhā) [by-ten-lines](daśarekhābhiḥ) [sixth](ṣaṣṭhaṃ) [complete](sakala) [kh-gh-reading-sabala]([kh,) [gh:](gh:) [sabala])(sabala]) [form](rūpakam)
 
 ## mukta-m0-p120-v2984
-[kalinda](kalinda) [[gh:]( [gh:) [kāliṅga]](kāliṅga]) [boar+tusk+wet](koladaṣṭrārdraṃ) [with-thorns](kaṇṭakaiḥ) [all-around](paritaiḥ) [endowed](yutam)
+[kalinda](kalinda) [gh-reading-kāliṅga]([gh:) [kāliṅga])(kāliṅga]) [boar+tusk+wet](koladaṣṭrārdraṃ) [with-thorns](kaṇṭakaiḥ) [surrounded](paritaiḥ) [endowed](yutam)
 
 ## mukta-m0-p120-v2985
-[with-thorns](kaṇṭakaiḥ) [ram+horn+resembling](meṣaśṛṅgābhaiḥ) [leaf](patraṃ) [young+born](bālābhajaṃ) [should-be](bhavet)
+[with-thorns](kaṇṭakaiḥ) [ram-horn+resembling](meṣaśṛṅgābhaiḥ) [leaf](patraṃ) [young-shoot-born](bālābhajaṃ) [should-be](bhavet)
 
 ## mukta-m0-p120-v2986
-[thorn](kaṇṭhakaṃ) []](])
+[thorn](kaṇṭhakaṃ])
 
 ## mukta-m0-p120-v2987
-[dog+tail+like](śvapucchavat) [and](ca) [round+tipped](vṛttāgraṃ) [cat+face](mārjāramukha) [[kh:]( [kh:) [nakha]](nakha]) [fragile](bhaṅguram)
+[dog-tail+like](śvapucchavat) [and](ca) [round-tipped](vṛttāgraṃ) [cat-face](mārjāramukha) [kh-reading-nakha]([kh:) [nakha])(nakha]) [fragile](bhaṅguram)
 
 ## mukta-m0-p120-v2988
-[snake-gourd](aurvāru) [[kh,]( [kh,) [gh:](gh:) [airvāru]](airvāru]) [thread+round+tipped](tantuvṛttāgraṃ) [thorn](kaṇṭhakaṃ) [serpent+creeping](sarpasarpaṇam)
+[cucumber](aurvāru) [kh-gh-reading-airvāru]([kh,) [gh:](gh:) [airvāru])(airvāru]) [fiber+round-tipped](tantuvṛttāgraṃ) [thorn](kaṇṭhakaṃ) [serpent+crawling](sarpasarpaṇam)
 
 ## mukta-m0-p120-v2989
-[spread-out](vistṛtaṃ) [curved+tipped](kuñcitāgraṃ) [and](ca) [white](śvetaṃ) [red+faced+shining](raktāsyaśobhitam)
+[expanded](vistṛtaṃ) [curved-tipped](kuñcitāgraṃ) [and](ca) [white](śvetaṃ) [red-mouthed+shining](raktāsyaśobhitam)
 
 ## mukta-m0-p120-v2990
-[knot+leaf+sprout](granthipatrāṅkuraiḥ) [endowed](yuktaṃ) [with-inverted](viparyastaiḥ) [always+upward+going](sadordhvagam)
+[knot+leaf+sprout+endowed](granthipatrāṅkuraiḥ) [yuktaṃ](yuktaṃ) [inverted](viparyastaiḥ) [always+upward-going](sadordhvagam)
 
 ## mukta-m0-p120-v2991
-[somewhere](kvacit) [cut](chinnaṃ) [somewhere](kvacit) [split](bhinnaṃ) [somewhere](kvacit) [by-leaf+half+enveloped](patrārdhaveṣṭitam)
+[somewhere](kvacit) [cut](chinaṃ) [somewhere](kvacit) [split](bhinnaṃ) [somewhere](kvacit) [by-half-leaf+enveloped](patrārdhaveṣṭitam)
 
 ## mukta-m0-p120-v2992
-[previously+mentioned+creeper+picture+rich](pūrvoktavallicitrāḍhyaṃ) [pleasing](hṛdyaṃ) [beautiful](cāru) [well+lined](surekhitam)
+[previously-mentioned+creeper+variegation+endowed](pūrvoktavallicitrāḍhyaṃ) [pleasing](hṛdyaṃ) [and](ca) [beautiful](cāru) [well-lined](surekhitam)
 
 ## mukta-m0-p120-v2993
 [at-root+middle](mūlemadhya) [likewise](tathā) [at-tip](agre) [and](ca) [grown](vṛddhaṃ) [young+branched](taruṇaśākhikam)
 
 ## mukta-m0-p120-v2994
-[by-artisans](śilpibhiḥ) [having-examined](guṇitaṃ) [having-made](kṛtvā) [afterwards](paścāt) [leaves](patrāṇi) [one-should-draw](saṃlikhet)
+[by-artisans](śilpibhiḥ) [having-shaped](guṇitaṃ) [having-made](kṛtvā) [afterwards](paścāt) [leaves](patrāṇi) [one-should-draw](saṃlikhet)
 
 ## mukta-m0-p120-v2995
-[pu0](pu0) [not-exists]](nāsti]) [thirtieth](triṃśaḥ) [rule](vidhiḥ)
+[pu0](pu0) [not-existing](nāsti]) [thirtieth](triṃśo) [rule](vidhiḥ)
 
 ## mukta-m0-p120-v2996
-[one-should-worship](yajet) [that+vāstu](tadvāstu) [[mū,]( [mū,) [gh:](gh:) [dardhastu]](dardhastu]) [gods](devān) [and](ca) [in-veda+corner](vedāsre) [in-rudra+portion](rudrabhākike)
+[one-should-worship](yajet) [that+vāstu](tadvāstu) [mū-gh-reading-dardhastu]([mū,) [gh:](gh:) [dardhastu])(dardhastu]) [gods](devāṃś) [and](ca) [veda+corner](vedāsre) [rudra+portion](rudrabhākike)
 
 ## mukta-m0-p120-v2997
-[in-direction+squares](dikpadeṣu) [marīci+and-others](marīcyādyāḥ) [in-middle](madhye) [in-principles](tattveṣu) [of-brahmā](vedhasaḥ)
+[in-direction+places](dikpadeṣu) [marīci+and-others](marīcyādyāḥ) [in-middle](madhye) [in-principles](tattveṣu) [of-brahmā](vedhasaḥ)
 
 ## mukta-m0-p120-v2998
-[in-brahmā+place](brahmasthāne) [in-white](site) [lotus](padme) [[mū,]( [mū,) [ṅ:](ṅ:) [pakṣe]](pakṣe]) [kālāgni](kālāgniṃ) [one-should-worship](pūjayet) [then](tataḥ)
+[in-brahma-place](brahmasthāne) [in-white](site) [lotus](padme) [mū-ṅ-reading-pakṣe]([mū,) [ṅ:](ṅ:) [pakṣe])(pakṣe]) [kālāgni](kālāgniṃ) [one-should-worship](pūjayet) [then](tataḥ)
 
 ## mukta-m0-p120-v2999
-[hāṭakeśa](hāṭakeśaṃ) [baleśa](baleśaṃ) [[ṅ:]( [ṅ:) [caleśaṃ]](caleśaṃ]) [and](ca) [again](punaḥ) [and](ca) [atibala](atibalaṃ) [likewise](tathā)
+[hāṭakeśa](hāṭakeśaṃ) [baleśa](baleśaṃ) [ṅ-reading-caleśaṃ]([ṅ:) [caleśaṃ])(caleśaṃ]) [and](ca) [again](punaḥ) [and](ca) [atibala](atibalaṃ) [likewise](tathā)
 
 ## mukta-m0-p120-v3000
 [seventh](saptamaṃ) [and](ca) [virūpākṣa](virūpākṣaṃ) [bhrukuṭīśa](bhrukuṭīśaṃ) [in-petals](daleṣu) [and](ca)
