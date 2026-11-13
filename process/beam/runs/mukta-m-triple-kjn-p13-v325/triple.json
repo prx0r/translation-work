@@ -7,42 +7,44 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "accusative object of jñātvā",
-     "morph": "acc.sg.m"
+     "grounds": "accusative singular masculine pronoun referring to the hidden true nature",
+     "morph": "pron.acc.sg.m"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of jñā",
-     "morph": "(indecl.)"
+     "grounds": "absolutive in -tvā from root jñā",
+     "morph": "absolutive"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound gūḍha+sadbhāva in accusative",
+     "grounds": "compound of gūḍha and sadbhāva in accusative singular masculine",
      "morph": "acc.sg.m"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "compound sarvajña+tva as subject",
+     "grounds": "abstract noun in nominative singular neuter as subject of prajāyate",
      "morph": "nom.sg.n"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "middle present of jan",
-     "morph": "3.sg.mid-pres"
+     "grounds": "middle voice present indicative third singular from pra-jan",
+     "morph": "3.sg.mid.pres.ind"
     }
    ],
-   "question": "What arises when one knows that hidden true nature?",
+   "question": "Does all-knowingness arise by knowing the hidden true nature?",
    "premises": [
-    "Knowing hidden true nature produces all-knowingness.",
-    "All-knowingness is the stated result."
+    "knowing the hidden true nature precedes arising",
+    "all-knowingness is the result of that knowing",
+    "the hidden true nature is the object known"
    ],
-   "inference": "All-knowingness arises from knowing that hidden true nature.",
+   "inference": "All-knowingness arises through knowledge of the hidden true nature.",
    "uncertainties": [
-    "The exact referent of taṃ is not specified in this verse."
+    "the exact referent of taṃ depends on prior context",
+    "compound internal sandhi is preserved as given"
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
