@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "mattaṃ",
+     "gloss": "intoxicated-person",
+     "grounds": "object of punishment; past participle used substantively",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prajāprītikaro",
+     "gloss": "causing-delight-to-subjects",
+     "grounds": "compound adjective qualifying nṛpo; prajā-prīti-kara",
+     "morph": "compound: prajā+prīti+kara; m.nom.sg"
+    },
+    {
+     "surface": "nṛpo",
+     "gloss": "king",
+     "grounds": "agent/subject of the prescribed action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanādānena",
+     "gloss": "by-confiscation-of-wealth",
+     "grounds": "instrumental indicating means of punishment; compound dhana-ādāna",
+     "morph": "compound: dhana+ādāna; n.inst.sg"
+    },
+    {
+     "surface": "śāsyāt",
+     "gloss": "should-punish",
+     "grounds": "prescriptive optative expressing injunction",
+     "morph": "3.sg.optative.active (√śās)"
+    }
+   ],
+   "question": "What penalty should a king who pleases his subjects impose on an intoxicated offender?",
+   "premises": [
+    "An intoxicated person is liable to punishment.",
+    "The king is characterized as one who causes delight to subjects.",
+    "Confiscation of wealth is specified as the means of punishment."
+   ],
+   "inference": "A king who pleases his subjects should punish an intoxicated offender by confiscating wealth.",
+   "uncertainties": [
+    "Whether mattaṃ refers specifically to drunkenness or intoxication in a broader sense is not explicit."
+   ],
+   "plain_english": "A king who brings joy to his subjects should punish an intoxicated person by confiscating his wealth."
+  }
+ ]
+}

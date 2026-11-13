@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "pibanti",
+     "gloss": "drink",
+     "grounds": "finite verb expressing the act of drinking",
+     "morph": "3.pl.pres.act.ind;√pā"
+    },
+    {
+     "surface": "madirāṃ",
+     "gloss": "wine",
+     "grounds": "object of the act of drinking",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "martyāḥ",
+     "gloss": "mortals",
+     "grounds": "subject described by their initial human condition",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "amartyāḥ",
+     "gloss": "immortals",
+     "grounds": "predicate describing the transformed state of the subjects",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle asserting the identity or transformation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "anaphoric pronoun referring back to the mortals",
+     "morph": "m.nom.pl.pron"
+    },
+    {
+     "surface": "kṣitau",
+     "gloss": "on-earth",
+     "grounds": "locative indicating where this transformation occurs",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "How does drinking wine transform mortals into immortals while still on earth?",
+   "premises": [
+    "Mortals are the agents who drink wine.",
+    "Those same mortals become immortals through this act.",
+    "This transformed state is realized on earth."
+   ],
+   "inference": "The act of drinking wine confers an immortal status upon mortals within their earthly existence.",
+   "uncertainties": [
+    "The ritual or symbolic nature of madirā in this tantric context is not specified in the verse."
+   ],
+   "plain_english": "Mortals who drink wine become immortals indeed, even while they are on earth."
+  }
+ ]
+}

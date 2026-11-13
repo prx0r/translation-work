@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[post](koṇikā) [in-middle-of](stambha-madhye) [indeed](tu) [for-purpose-of-ornament](bhūṣaṇa-arthāḥ) [on-side](hi) [side](pārśvataḥ)
+[corner-bracket](koṇikā) [pillar+middle](stambha+madhye) [indeed](tu) [ornament+purpose](bhūṣaṇa+arthā) [indeed](hi) [on-sides](pārśvataḥ)
 
 ## mukta-m0-p07-v152
-[pillar](stambham) [branch-etc](śākha-ādikam) [in-rest](śeṣe) [like-three-branched](tri-śākha-vat) [should-divide](vibhājayet)
+[pillar](stambhaṃ) [branch+etcetera](śākhā+ādikaṃ) [in-remainder](śeṣe) [three-branched+like](triśākhā+vat) [one-should-divide](vibhājayet)
 
 ## mukta-m0-p07-v153
-[fourth](caturthī) [small-branch](alpa-śākhā) [and](ca) [lion-branch](siṃha-śākhā) [and](ca) [fifth](pañcamī)
+[fourth](caturthī) [small+branch](svalpa+śākhā) [and](ca) [lion+branch](siṃha+śākhā) [and](ca) [fifth](pañcamī)
 
 ## mukta-m0-p07-v154
-[fourth](caturthī) [pillar-branch](stambha-śākhā) [and](ca) [form-branch](rūpa-śākhā) [and](ca) [fifth](pañcamī)
+[fourth](caturthī) [pillar+branch](stambha+śākhā) [and](ca) [figure+branch](rūpa+śākhā) [and](ca) [fifth](pañcamī)
 
 ## mukta-m0-p07-v155
-[pillar-branch](stambha-śākhā) [should-be](bhavet) [in-middle](madhye) [form-branch](rūpa-śākhā) [from-tip-thread](agra-sūtrataḥ)
+[pillar+branch](stambha+śākhā) [should-be](bhavet) [in-middle](madhye) [figure+branch+tip+line](rūpa+śākhā+agra+sūtrataḥ)
 
 ## mukta-m0-p07-v156
-[fourth](caturthī) [dart-branch](śalya-śākhā) [and](ca) [gandharva](gandharvā) [and-then](tu) [fifth](atha) [fifth](pañcamī)
+[fourth](caturthī) [śalya+branch](śalya+śākhā) [and](ca) [gandharva](gandharvā) [indeed+then](tu+atha) [fifth](pañcamī)
 
 ## mukta-m0-p07-v157
-[dart-branch](śalya-śākhā) [and](ca) [named-lion](siṃha-ākhyā) [by-root-ear](mūla-karṇena) [measured](saṃmitā)
+[śalya+branch](śalya+śākhā) [and](ca) [lion+named](siṃha+ākhyā) [root+corner](mūla+karṇena) [measured](saṃmitā)
 
 ## mukta-m0-p07-v158
-[p0-16](pṛ0) [16)](16)) [on-branch](śākhāyām) [and](ca) [parivāra](parīvāraḥ) [gaṇeśa](gaṇeśaḥ) [and](ca) [on-upper-limb](uttara-aṅgake)
+[page-16](pṛ0 16)) [of-branch](śākhāyāñ) [and](ca) [surrounding-figures](parīvāro) [Gaṇeśa](gaṇeśaḥ) [and](ca) [on-upper-beam](uttarāṅgake)
 
 ## mukta-m0-p07-v159
-[thus](iti) [in-prāsāda-maṇḍana](prāsāda-maṇḍane) [in-vāstu-śāstra](vāstu-śāstre) [on-pīṭha-maṇḍapa-garbha-gṛha](pīṭha-maṇḍa-vara-garbha-gṛhe) [on-udumbara-measure](udumbara-pramāṇam) [third](tṛtīyaḥ) [chapter](adhyāyaḥ)
+[thus](iti) [in-Prāsādamaṇḍana](prāsāda+maṇḍane) [in-architecture+treatise](vāstu+śāstre) [base+platform+upper+sanctum](pīṭha+maṇḍa+uvara+garbha+gṛha) [door-frame+measurement](udumbara+pramāṇaṃ) [third+chapter](tṛtīyaḥ+adhyāyaḥ)
 
 ## mukta-m0-p07-v160
-[in-rest](śeṣe) [in-one-third](try-aṃśe) [in-two-parts](dvi-bhāga) [image](arcā) [less-by-one-third](try-aṃśa-onā) [from-door](dvārataḥ) [or](athavā)
+[in-remainder](śeṣe) [three+part](tri+aṃśe) [two+part+image](dvi+bhāga+arccā) [three+part+less](tri+aṃśa+ūnā) [from-door](dvārataḥ) [or](athavā)
 
 ## mukta-m0-p07-v161
-[upper-image](ūrdhva-arcā) [situated-on-seat](āsana-sthā) [and](ca) [by-manu-viśva-arka-part](manu-viśva-arka-bhāgataḥ)
+[upper+image](ūrdhva+arcā) [seated](āsana+sthā) [and](ca) [fourteen+twelve+part](manu+viśva+arka+bhāgataḥ)
 
 ## mukta-m0-p07-v162
-[wall](bhittiḥ) [two-part](dvi-bhāgā) [should-be-made](kartavyā) [six-part](ṣaṭ-bhāgam) [womb-sanctum](garbha-mandiram)
+[wall](bhittiḥ) [two+part](dvi+bhāgā) [to-be-made](kartavyā) [six+part](ṣaṭ+bhāgaṃ) [sanctum+chamber](garbha+mandiram)
 
 ## mukta-m0-p07-v163
-[middle](madhyamā) [less-by-own-tenth-part](sva-daśa-aṃśa-onā) [less-by-five-parts](pañca-aṃśa-onā) [smallest](kanīyasī)
+[middle](madhyamā) [own+ten+part+less](sva+daśa+aṃśa+ūnā) [five+part+less](pañca+aṃśa+ūnā) [smallest](kanīyasī)
 
 ## mukta-m0-p07-v164
-[in-seventh](saptame) [in-seventh](saptame) [sight](dṛṣṭiḥ) [on-bull](vṛṣe) [on-lion](siṃhe) [on-flag](dhvaje) [auspicious](śubhā)
+[in-seventh](saptame) [in-seventh](saptame) [sight](dṛṣṭiḥ) [in-bull](vṛṣe) [in-lion](siṃhe) [in-banner](dhvaje) [auspicious](śubhā)
 
 ## mukta-m0-p07-v165
-[for-sleeping-image](śayana-arce) [for-īśa-liṅga](īśa-liṅgāni) [half-of-door](dvāra-ardham) [not](na) [should-transgress](vyatikramet)
+[reclining+image+Īśa+liṅga](śayana+arcā+īśa+liṅgāni) [door+half](dvāra+ardhaṃ) [not](na) [should-transgress](vyatikramet)
 
 ## mukta-m0-p07-v166
-[in-front-of-that](tad-agre) [vaiṣṇava](vaiṣṇavam) [brāhma](brāhmam) [in-middle](madhye) [liṅga](liṅgam) [of-śiva](śivasya) [and](ca)
+[that+in-front](tat+agre) [Vaiṣṇava](vaiṣṇavaṃ) [Brāhma](brāhmaṃ) [in-middle](madhye) [liṅga](liṅga) [of-Śiva](śivasya) [and](ca)
 
 ## mukta-m0-p07-v167
-[on-peak-of-prāsāda](prāsāda-śṛṅga-śṛṅgeṣu) [on-lower-part](adho-bhāge) [and](tu) [covering](chādyakam)
+[temple+spire+on-spires](prāsāda+śṛṅga+śṛṅgeṣu) [below+part](adhaḥ+bhāge) [indeed](tu) [covering](chādyakam)
 
 ## mukta-m0-p07-v168
-[muṇḍalīka](muṇḍalīkam) [one-part](bhāgam-ekam) [by-one-part](bhāgena) [tilaka](tilakaḥ) [and](tathā)
+[muṇḍalīka](muṇḍalīkaṃ) [part+one](bhāgam+ekaṃ) [by-part](bhāgena) [tilaka](tilakaḥ) [likewise](tathā)
 
 ## mukta-m0-p07-v169
-[without-support](nir-ādhāre) [on-root-wall](mūla-bhittau) [with-support](sa-ādhāre) [on-bhrama-wall](bhrama-bhittiṣu)
+[without-support](nirādhāre) [root+wall](mūla+bhittau) [with-support](sādhāre) [encircling+walls](bhrama+bhittiṣu)
 
 ## mukta-m0-p07-v170
-[thirteen-up](trayodaśa-ūrdhve) [seven-and-half](sapta-ardhe) [lost](luptāni) [and](ca) [by-uru-śṛṅgaka](uru-śṛṅgakaiḥ)
+[thirteen+above](trayodaśa+ūrdhe) [seven+half](sapta+ardhe) [omitted-parts](luptāni) [with-great+spires](ca+uru+śṛṅgakaiḥ)
 
 ## mukta-m0-p07-v171
-[six-outside](ṣaṭ-bāhye) [defect-giving](doṣa-dam) [proclaimed](proktam) [in-five-middle](pañca-madhye) [not](na) [beautiful](śobhanam)
+[six+outside](ṣaṭ+bāhye) [fault+giving](doṣa+daṃ) [declared](proktaṃ) [five+middle](pañca+madhye) [not](na) [auspicious](śobhanam)
 
 ## mukta-m0-p07-v172
-[with-quarter-karṇa](sa-pāda-karṇayoḥ) [in-middle](madhye) [at-rise](udaye) [twenty-five](pañca-viṃśatiḥ)
+[with-quarter+corners](sa+pāda+karṇayoḥ) [in-middle](madhye) [in-height](udaye) [twenty-five](pañca+viṃśatiḥ)
 
 ## mukta-m0-p07-v173
-[from-five](pañca-ādi) [up-to-nine-pair](nava-yugma-antaṃ) [khaṇḍa](khaṇḍāni) [in-them](teṣu) [in-order](anukramāt)
+[five+beginning+nine+pair+end](pañca+ādi+nava+yugma+antaṃ) [divisions](khaṇḍāni) [in-them](teṣu) [in-order](anukramāt)
 
 ## mukta-m0-p07-v174
-[from-eight](aṣṭa-āda) [up-to-eight-sixty](aṣṭa-ṣaṣṭhi-antaṃ) [by-four-increase](catur-vṛddhyā) [and](tu) [sixteen](ṣoḍaśa)
+[eight+beginning+sixty-eight+end](aṣṭa+ādau+aṣṭa+ṣaṣṭhi+antaṃ) [four+increase](catur+vṛddhyā) [indeed](tu) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p07-v175
-[upward](ūrdhvāḥ) [eighteen-parts](aṣṭa-daśa-aṃśāḥ) [should-be](syuḥ) [crosswise](tiryak) [sixteen](ṣoḍaśa) [indeed](eva) [and](ca)
+[upward](ūrdhvā) [eighteen+parts](aṣṭadaśa+aṃśāḥ) [should-be](syuḥ) [crosswise](tiryak) [sixteen](ṣoḍaśa) [indeed](eva) [and](ca)
