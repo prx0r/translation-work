@@ -1,15 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 247,
- "question": "What goes away through non-eating by day?",
+ "question": "What goes away by day through non-eating?",
  "premises": [
-  "Non-eating by day is the means.",
-  "Age and death are named.",
-  "Going away is stated."
+  "Non-eating by day is the means",
+  "Age and death go away",
+  "The result is stated"
  ],
- "inference": "Age and death go away through non-eating by day.",
+ "inference": "By day through non-eating, age and death will go away.",
  "uncertainties": [
-  "The exact temporal scope is not specified."
+  "Whether vayo mṛtyuṃ is a compound or list"
  ],
- "plain_english": "Through non-eating by day, age and death will go away."
+ "plain_english": "By day through non-eating, age and death will go away."
 }
