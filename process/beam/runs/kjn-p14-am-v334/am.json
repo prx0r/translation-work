@@ -1,15 +1,14 @@
 {
  "song": "kjn-p14",
  "verse": 334,
- "question": "Which beings are described as ascetics in this context?",
+ "question": "Which beings and ascetics are listed in this context?",
  "premises": [
-  "gandharvas are named",
-  "kinnaras are named",
-  "yakṣas and asuras are named"
+  "gandharvas kinnaras yakṣas asuras",
+  "ascetics are included"
  ],
- "inference": "Gandharvas, kinnaras, yakṣas, and asuras are called ascetics.",
+ "inference": "a class of beings is enumerated",
  "uncertainties": [
-  "exact doctrinal role"
+  "their role"
  ],
- "plain_english": "Gandharvas, kinnaras, yakṣas, and asuras are ascetics."
+ "plain_english": "Gandharvas, kinnaras, yakṣas, asuras, and ascetics."
 }
