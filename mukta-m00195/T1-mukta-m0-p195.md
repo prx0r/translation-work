@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p195-v4851
-[thus](mā) [saying](iti) [having+spoken](procya) [expansion](prapañcaṃ) [by+mind](manasā) [he+should+offer](hunet)
+[me](mām) [thus](iti) [having-uttered](procya) [the-manifold-world](prapañcaṃ) [with-mind](manasā) [one-should-offer](hunet)
 
 ## mukta-m0-p195-v4852
-[I](aham) [in+the+immortal](amṛte) [the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[I](aham) [in-the-immortal](amṛte) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4853
-[the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[immortal](amṛtaṃ) [in-Brahman](brahmaṇi) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4854
-[I](aham) [in+the+immortal](amṛte) [the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[I](aham) [in-the-immortal](amṛte) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4855
-[I](aham) [in+the+immortal](amṛte) [the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[I](aham) [in-the-immortal](amṛte) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4856
-[I](aham) [in+the+immortal](amṛte) [the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[I](aham) [in-the-immortal](amṛte) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4857
-[the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[immortal](amṛtaṃ) [in-Brahman](brahmaṇi) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4858
-[I](aham) [in+the+immortal](amṛte) [the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[I](aham) [in-the-immortal](amṛte) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4859
-[the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[immortal](amṛtaṃ) [in-Brahman](brahmaṇi) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4860
-[the+immortal](amṛtaṃ) [in+Brahman](brahmaṇi)
+[immortal](amṛtaṃ) [in-Brahman](brahmaṇi) [immortal](amṛtaṃ) [in-Brahman](brahmaṇi)
 
 ## mukta-m0-p195-v4861
-[by+the+earthly+stated+manner](pārthivoktaprakāreṇa) [liṅga+worship](liṅgapūjāṃ) [then](tataḥ) [he+should+perform](caret)
+[by-the-method](prakāreṇa) [taught](ukta) [regarding-the-earthen-liṅga](pārthiva+) [worship](pūjāṃ) [of-the-liṅga](liṅga+) [then](tataḥ) [one-should-perform](caret)
 
 ## mukta-m0-p195-v4862
-[with+devotion](bhaktyā) [you](tvāṃ) [me](māṃ) [receive](gṛhāṇa) [great+lord](maheśvara)
+[with-devotion](bhaktyā) [you](tvāṃ) [me](māṃ) [accept](gṛhāṇa) [O-great-lord](maheśvara)
 
 ## mukta-m0-p195-v4863
-[quickly](śīghram) [for+my](mama) [oblation](havyāya) [sharva](śarva)
+[quickly](śīghram) [for-my](mama) [oblation](havyāya) [O-Śarva](śarva)
 
 ## mukta-m0-p195-v4864
-[he](saḥ) [skin+garbed](kṛttivāsā) [snake](ahi) [cow](gūṃ) [to+us](sannaḥ) [auspicious](śivaḥ) [indeed](iti) [hi](hi)
+[he](saḥ) [skin-clad](kṛttivāsā) [ahi](ahi) [gūṃ](gūṃ) [being-present](sannaḥ) [śiva](śiva) [thus](utī) [indeed](hi)
 
 ## mukta-m0-p195-v4865
-[and+here](ca+atra) [you](tvaṃ) [to+me](mama) [and](ca) [facing](abhimukhaḥ) [become](bhava)
+[and](ca) [here](atra) [you](tvaṃ) [to-me](mama) [and](ca) [facing](abhimukhaḥ) [be](bhava)
 
 ## mukta-m0-p195-v4866
-[with+feeling+of+love](prītibhāvena) [in+this+liṅga](liṅge+asmin) [present](sannidhaḥ) [become](bhava)
+[with-a-feeling](bhāvena) [of-affection](prīti+) [in-this](asmin) [liṅga](liṅge+) [present](sannidhaḥ) [be](bhava)
 
 ## mukta-m0-p195-v4867
-[afterwards](paścāt) [with+pure+water](śuddhodakena) [lord](atha) [then](tataḥ) [worship](pūjanam) [he+should+begin](ārabhet)
+[afterwards](paścāt) [with-pure](śuddha+) [water](udakena+) [then](atha) [then](tataḥ) [worship](pūjanam) [one-should-begin](ārabhet)
 
 ## mukta-m0-p195-v4868
-[with+rudra+and+agni+and+viṣṇu](rudrāgnāviṣṇuḥ) [thus](iti) [with+the+two+adhyāyas](adhyāyadvayena) [and](ca)
+[with-Rudra](rudra+) [Agni](agni+) [Viṣṇu](viṣṇū) [thus](iti) [with-the-two-chapters](adhyāya+dvayena) [and](ca)
 
 ## mukta-m0-p195-v4869
-[but](tu) [who](yaḥ) [he+should+do](kuryāt) [daily](pratyahaṃ) [a+man](naraḥ)
+[but](tu) [who](yaḥ) [would-do](kuryāt) [every-day](pratyahaṃ) [a-man](naraḥ)
 
 ## mukta-m0-p195-v4870
-[from+sandhyā+adoration](sandhyāvandanataḥ) [diminished](kṣīṇaṃ) [that](tat) [if](cet) [from+previous+birth](prāgjanmajaṃ) [it+would+be](bhavet)
+[from-sandhyā-worship](sandhyāvandanataḥ) [diminished](kṣīṇaṃ) [that](tat) [if](cet) [born](jam) [in-previous-birth](prāk+janma+) [it-may-be](bhavet)
 
 ## mukta-m0-p195-v4871
-[they+would+be+destroyed](nastasyuḥ) [ā](ā) [na](na) [viṣṇuḥ](viṣṇuḥ) [thus](tathā) [one](ekakam)
+[may-they-not-be](nastasyuḥ) [ā](ā) [nā](nā) [Viṣṇu](viṣṇuḥ) [and](tathā) [one](ekakam)
 
 ## mukta-m0-p195-v4872
-[who](yaḥ) [but](tu) [he+should+do](kuryāt) [liṅga+ablution](liṅgābhiṣecanam)
+[but-who](yastu) [would-perform](kuryāt) [ablution](abhiṣecanam) [of-the-liṅga](liṅga+)
 
 ## mukta-m0-p195-v4873
-[sin](pāpe) [destroyed](naṣṭe) [lakṣmīḥ](lakṣmīḥ) [increases](vivardhate)
+[when-sin](pāpe) [is-destroyed](naṣṭe) [fortune](lakṣmīḥ) [increases](vivardhate)
 
 ## mukta-m0-p195-v4874
-[and](ca) [of+him](asya) [according+to+form](yathārūpaṃ) [thus](tathā) [in+water](toye) [it+is+seen](pradṛśyate)
+[and](ca) [of-this](asya) [according-to-form](yathārūpaṃ) [so](tathā) [in-water](toye) [is-seen](pradṛśyate)
 
 ## mukta-m0-p195-v4875
-[by+whom](yaiḥ) [on+the+liṅga](liṅge) [not](na) [they+see](paśyanti) [the+sun](bhāskaram)
+[by-whom](yaiḥ) [in-the-liṅga](liṅgante) [not](na) [they-see](paśyanti) [O-sun](bhāskarim)

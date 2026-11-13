@@ -33,7 +33,7 @@
 "tokens": [
 {
 "surface": "vidhema",
-"quick_gloss": "may-we-offer"
+"quick_gloss": "may-we-perform"
 },
 {
 "surface": "haviṣā",
@@ -44,7 +44,7 @@
 "quick_gloss": "we"
 },
 {
-"surface": "vayam",
+"surface": "hi",
 "quick_gloss": "indeed"
 }
 ]
@@ -112,19 +112,19 @@
 "tokens": [
 {
 "surface": "naḥ",
-"quick_gloss": "of-us"
-},
-{
-"surface": "naḥ",
 "quick_gloss": "for-us"
 },
 {
-"surface": "naḥ",
-"quick_gloss": "our"
+"surface": "śarma",
+"quick_gloss": "protection"
 },
 {
-"surface": "naḥ",
-"quick_gloss": "to-us"
+"surface": "astu",
+"quick_gloss": "be"
+},
+{
+"surface": "sadā",
+"quick_gloss": "always"
 }
 ]
 },
@@ -136,20 +136,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prayuta",
-"quick_gloss": "by-ten-million"
+"surface": "prayuta+avadha",
+"quick_gloss": "by-ten-million+oblation"
 },
 {
-"surface": "avadheyuk",
-"quick_gloss": "to-be-performed"
+"surface": "yuk",
+"quick_gloss": "joined"
 },
 {
 "surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
-"surface": "tataḥ",
-"quick_gloss": "thereafter"
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -194,16 +194,16 @@
 "quick_gloss": "with-the-bull"
 },
 {
-"surface": "vṛṣṇā",
-"quick_gloss": "with-mighty-one"
+"surface": "śakreṇa",
+"quick_gloss": "mighty"
 },
 {
-"surface": "vṛṣṇā",
-"quick_gloss": "with-rain-giver"
+"surface": "saha",
+"quick_gloss": "together"
 },
 {
-"surface": "vṛṣṇā",
-"quick_gloss": "with-strong-one"
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -216,19 +216,19 @@
 "tokens": [
 {
 "surface": "pratihitābhiḥ",
-"quick_gloss": "by-placed"
+"quick_gloss": "placed"
 },
 {
 "surface": "astā",
-"quick_gloss": "by-cast"
+"quick_gloss": "hurled"
 },
 {
-"surface": "astā",
-"quick_gloss": "by-hurled"
+"surface": "āyudhaiḥ",
+"quick_gloss": "weapons"
 },
 {
-"surface": "astā",
-"quick_gloss": "by-thrown"
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -244,16 +244,16 @@
 "quick_gloss": "of-chariots"
 },
 {
-"surface": "rathānām",
-"quick_gloss": "of-cars"
+"surface": "aśvānām",
+"quick_gloss": "of-horses"
 },
 {
-"surface": "rathānām",
-"quick_gloss": "of-vehicles"
+"surface": "vīrāṇām",
+"quick_gloss": "of-warriors"
 },
 {
-"surface": "rathānām",
-"quick_gloss": "of-chariots"
+"surface": "ca",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -266,14 +266,18 @@
 "tokens": [
 {
 "surface": "abhi+vīraḥ",
-"quick_gloss": "heroic"
+"quick_gloss": "toward-heroes"
 },
 {
-"surface": "abhi+sattvā+saha+ojā",
-"quick_gloss": "with-overpowering+strength"
+"surface": "abhi+sattvā+sahaḥ",
+"quick_gloss": "toward-warriors+conquering"
 },
 {
-"surface": "jaitram+indra+ratham",
+"surface": "ajā",
+"quick_gloss": "unconquerable"
+},
+{
+"surface": "aitram+indra+ratham",
 "quick_gloss": "victorious+Indra+chariot"
 },
 {
@@ -282,7 +286,7 @@
 },
 {
 "surface": "go+vit",
-"quick_gloss": "cattle+winning"
+"quick_gloss": "cattle-winning"
 }
 ]
 },
@@ -299,11 +303,11 @@
 },
 {
 "surface": "abhibhañjatīnām",
-"quick_gloss": "of-breaking"
+"quick_gloss": "breaking"
 },
 {
 "surface": "jayantīnām",
-"quick_gloss": "of-conquering"
+"quick_gloss": "conquering"
 },
 {
 "surface": "marutaḥ",
@@ -311,7 +315,7 @@
 },
 {
 "surface": "yantu",
-"quick_gloss": "go"
+"quick_gloss": "may-go"
 },
 {
 "surface": "agram",
@@ -328,19 +332,19 @@
 "tokens": [
 {
 "surface": "jayatām",
-"quick_gloss": "of-the-conquering"
+"quick_gloss": "of-the-victorious"
 },
 {
-"surface": "ud+asthāt",
-"quick_gloss": "arose"
+"surface": "udastāt",
+"quick_gloss": "has-arisen"
 },
 {
-"surface": "ud+asthāt",
-"quick_gloss": "stood-up"
+"surface": "yaśaḥ",
+"quick_gloss": "glory"
 },
 {
-"surface": "ud+asthāt",
-"quick_gloss": "appeared"
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -361,14 +365,14 @@
 },
 {
 "surface": "prapadyasva",
-"quick_gloss": "resort-to"
+"quick_gloss": "attack"
 },
 {
-"surface": "mām",
+"surface": "mā",
 "quick_gloss": "me"
 },
 {
-"surface": "īṣāṃ",
+"surface": "amīṣāṃ",
 "quick_gloss": "of-them"
 },
 {
@@ -377,7 +381,7 @@
 },
 {
 "surface": "ut+chiṣaḥ",
-"quick_gloss": "do-not-leave"
+"quick_gloss": "leave-remaining"
 }
 ]
 },
@@ -402,7 +406,11 @@
 },
 {
 "surface": "asatha",
-"quick_gloss": "may-you-be"
+"quick_gloss": "you-may-be"
+},
+{
+"surface": "balinaḥ",
+"quick_gloss": "strong"
 }
 ]
 },
@@ -423,11 +431,11 @@
 },
 {
 "surface": "śarma",
-"quick_gloss": "shelter"
+"quick_gloss": "protection"
 },
 {
 "surface": "yacchatu",
-"quick_gloss": "may-give"
+"quick_gloss": "may-grant"
 },
 {
 "surface": "viśvā",
@@ -439,11 +447,11 @@
 },
 {
 "surface": "śarma",
-"quick_gloss": "shelter"
+"quick_gloss": "protection"
 },
 {
 "surface": "yacchatu",
-"quick_gloss": "may-give"
+"quick_gloss": "may-grant"
 }
 ]
 },
@@ -455,12 +463,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uroḥ",
-"quick_gloss": "than-wide"
-},
-{
-"surface": "varīyaḥ",
-"quick_gloss": "wider"
+"surface": "uroḥ+varīyaḥ",
+"quick_gloss": "wider-than-wide"
 },
 {
 "surface": "varuṇaḥ",
@@ -483,7 +487,11 @@
 "quick_gloss": "you"
 },
 {
-"surface": "anu+devāḥ",
+"surface": "anu",
+"quick_gloss": "after"
+},
+{
+"surface": "devāḥ",
 "quick_gloss": "gods"
 },
 {
@@ -512,12 +520,12 @@
 "quick_gloss": "is-born"
 },
 {
-"surface": "dhruam",
-"quick_gloss": "certainly"
+"surface": "dhruvam",
+"quick_gloss": "firmly"
 },
 {
-"surface": "dhruam",
-"quick_gloss": "firmly"
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -608,7 +616,7 @@
 },
 {
 "surface": "āpṛṇasva",
-"quick_gloss": "fill"
+"quick_gloss": "fill-yourself"
 },
 {
 "surface": "ghṛtena",
@@ -629,7 +637,7 @@
 "tokens": [
 {
 "surface": "tejasvī",
-"quick_gloss": "radiant"
+"quick_gloss": "splendid"
 },
 {
 "surface": "hunet",
@@ -640,8 +648,8 @@
 "quick_gloss": "by-ten-thousand+number"
 },
 {
-"surface": "saṅkhyayā",
-"quick_gloss": "count"
+"surface": "āhutibhiḥ",
+"quick_gloss": "oblations"
 }
 ]
 },
@@ -653,11 +661,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saptatolaka+paryantaṃ",
+"surface": "saptati+tolaka+paryantaṃ",
 "quick_gloss": "up-to-seventy+tolas"
 },
 {
-"surface": "ṣaṇ+māsa+abhyantare",
+"surface": "ṣaṭ+māsa+abhyantare",
 "quick_gloss": "within-six+months"
 },
 {
@@ -665,8 +673,8 @@
 "quick_gloss": "certainly"
 },
 {
-"surface": "dhruvam",
-"quick_gloss": "surely"
+"surface": "hi",
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -678,7 +686,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmaṇaḥ",
+"surface": "brahmaṇe",
 "quick_gloss": "for-Brahman"
 },
 {
@@ -691,11 +699,11 @@
 },
 {
 "surface": "mahi+śarma",
-"quick_gloss": "great+shelter"
+"quick_gloss": "great+protection"
 },
 {
 "surface": "yaccha",
-"quick_gloss": "give"
+"quick_gloss": "grant"
 },
 {
 "surface": "svāhā",
@@ -719,12 +727,12 @@
 "quick_gloss": "is-released"
 },
 {
-"surface": "pramucyate",
-"quick_gloss": "is-freed"
+"surface": "saḥ",
+"quick_gloss": "one"
 },
 {
-"surface": "pramucyate",
-"quick_gloss": "is-liberated"
+"surface": "dhruvam",
+"quick_gloss": "certainly"
 }
 ]
 }

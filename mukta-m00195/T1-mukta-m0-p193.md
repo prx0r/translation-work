@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p193-v4801
-[do-not-harm](rīriṣaḥ) [do-not-harm](rīriṣaḥ) [do-not-harm](rīriṣaḥ) [do-not-harm](rīriṣaḥ)
+[harming](rīriṣaḥ)
 
 ## mukta-m0-p193-v4802
-[pināka+bearing](pinākāvasaḥ) [hide+garment](kṛttivāsā) [serpent+devouring](ahigūṃsannaḥ) [be-gracious](śivotīhi)
+[o-holder-of-pināka-bow](pināka+āvasaḥ) [o-wearer-of-hide](kṛtti+vāsā) [o-slayer-of-serpents](ahi+gūṃsannaḥ) [be-gracious](śiva) [come](ūtīhi)
 
 ## mukta-m0-p193-v4803
-[of-paths](pathāṃ) [lord+on-feet](pathiraṅghryoḥ) [may-be](syād) [and-spoken](adhyavocaś) [and](ca) [armor](varmakam)
+[of-paths](pathām) [lord-of-path](pathi+raṅghryoḥ) [may-be](syāt) [and-spoke](adhi+avocaḥ) [and-armor](ca) [armor](varmakam)
 
 ## mukta-m0-p193-v4804
-[all](sarvo) [indeed](hy) [this](eṣa) [Rudra](rudras) [to-him](tasmai) [to-Rudra](rudrāya) [obeisance](namo) [be](astu)
+[all](sarvaḥ) [indeed](hi) [this](eṣaḥ) [rudra](rudraḥ) [to-him](tasmai) [to-rudra](rudrāya) [obeisance](namaḥ) [be](astu)
 
 ## mukta-m0-p193-v4805
-[of-them](teṣāgūṃ) [thousand+yojanas](sahasrayojane) [bows](vadhanvāni) [we-unstring](tanmasi)
+[of-them](teṣām) [in-thousand-yojanas](sahasra+yojane) [bows](ava+dhanvāni) [we-unstring](tanmasi)
 
 ## mukta-m0-p193-v4806
-[all](sarvāñ) [crushing](jambhayan) [all](sarvāś) [and](ca) [demonic+beings](yātu) [dhānyas](dhānyo) [moving-on-earth](dharācīḥ) [depart-life](parāsuva)
+[all-masculine](sarvān) [crushing](jambhayan) [all-feminine](sarvāḥ) [and](ca) [sorceresses](yātu+dhānyaḥ) [moving-on-earth](dhara+acīḥ) [depart-life](parā+asuva)
 
 ## mukta-m0-p193-v4807
-[one-should-place](nyasen) [in-eye](netre) [in-third](tṛtīyake)
+[should-place](nyaset) [in-eyes](netre) [in-third](tṛtīyake)
 
 ## mukta-m0-p193-v4808
-[to-beings](sattvāno) [to-killers](hantebhyo) [having-done](karan) [obeisance](namaḥ)
+[to-beings](sattvānaḥ) [to-slayers](hantebhyaḥ) [having-done-homage](akara+n) [obeisance](namaḥ)
 
 ## mukta-m0-p193-v4809
-[away](parā) [those](tā) [O-lord](bhagavo) [cast](vvapa)
+[away](parā) [those](tāḥ) [o-lord](bhagavaḥ) [cast](vapa)
 
 ## mukta-m0-p193-v4810
-[so-many](etāvanta) [thus](iti) [and](ca) [one-should-do](kuryād) [direction+binding](digbandhanan) [then](tataḥ)
+[so-many](etāvantaḥ) [thus](iti) [and](ca) [should-make](kuryāt) [direction-binding](dik+bandhanam) [then](tataḥ)
 
 ## mukta-m0-p193-v4811
-[of-them](teṣāgūṃ) [thousand+yojanas](sahasrayojane) [bows](vadhanvāni) [we-unstring](tanmasi)
+[of-them](teṣām) [in-thousand-yojanas](sahasra+yojane) [bows](ava+dhanvāni) [we-unstring](tanmasi)
 
 ## mukta-m0-p193-v4812
-[this](iman) [nyāsa+performing](nyāsamprakurvāṇaḥ) [in-fire](pāvake) [even](pi) [not](na) [is-destroyed](naśyati)
+[this](imam) [placement](nyāsam) [performing](prakurvāṇaḥ) [in-fire](pāvake) [even](api) [not](na) [perishes](naśyati)
 
 ## mukta-m0-p193-v4813
-[declared](prokto) [by-this](nena) [one-should-do](kuryān) [nyāsa+end](nyāsānte) [but](tu) [obeisance](namaskṛtim)
+[declared](proktaḥ) [by-this](anena) [should-make](kuryāt) [at-end-of-placement](nyāsa+ante) [but](tu) [obeisance](namaskṛtim)
 
 ## mukta-m0-p193-v4814
-[in-right+hand](dakṣahaste) [in-left+hand](vāmahaste) [in-navel](nābhau) [in-foot+pair](pādadvaye) [likewise](tathā)
+[in-right-hand](dakṣa+haste) [in-left-hand](vāma+haste) [in-navel](nābhau) [in-pair-of-feet](pāda+dvaye) [likewise](tathā)
 
 ## mukta-m0-p193-v4815
-[nyāsa](nyāsas) [third](tṛtīyo) [also](pi) [is-declared](procyate) [here](tra) [hear](śṛṇuṣva) [that](tam)
+[placement](nyāsaḥ) [third](tṛtīyaḥ) [also](api) [is-declared](procyate) [here](atra) [hear](śṛṇuṣva) [that](tam)
 
 ## mukta-m0-p193-v4816
-[in-third](tṛtīye) [in-this](smiñ) [śaiva](śaivaṃ) [splendor](tejaḥ) [may-enter](samāviśet)
+[in-third](tṛtīye) [in-this](asmin) [śaiva](śaivam) [splendor](tejaḥ) [enters](sam+āviśet)
 
 ## mukta-m0-p193-v4817
-[direction+guardians](dikpālāṃs) [with-that+mantra](tattanmantreṇa) [one-should-place](vinyaset)
+[guardians-of-directions](dik+pālān) [with-their-mantras](tat+tan+mantreṇa) [should-place](vinyaset)
 
 ## mukta-m0-p193-v4818
 [with-oblation](haviṣā) [we-worship](yajāmaḥ)
 
 ## mukta-m0-p193-v4819
-[another](anyam) [than-us](asmad) [seek](icchasāta) [thus](ityā) [obeisance](namo) [O-goddess](devi) [O-Nirṛti](nir-ṛte) [to-you](tubhyam) [be](astu)
+[other](anyam) [than-us](asmat) [seek](iccha) [here](sāta) [thus](iti) [obeisance](namaḥ) [o-goddess](devi) [o-nirṛti](nir-ṛte) [to-you](tubhyam) [be](astu)
 
 ## mukta-m0-p193-v4820
-[of-us](naḥ) [of-us](naḥ) [of-us](naḥ) [of-us](naḥ)
+[to-us](naḥ)
 
 ## mukta-m0-p193-v4821
-[blazing](dīpyamānam) [unable](aśaktās) [they](te) [flee](palāyante) [far-away](vidūrataḥ)
+[blazing](dīpyamānam) [unable](aśaktāḥ) [they](te) [flee](palāyante) [far-away](vidūrataḥ)
 
 ## mukta-m0-p193-v4822
 [having-placed](nyasya) [in-face](mukhe) [vital-parts](marmāṇi) [they](te) [likewise](tathā)
 
 ## mukta-m0-p193-v4823
-[like](iva) [swiftly](pravayām) [rising](ujjihānāḥ) [shining+ships](prabhānavaḥ) [may-we-reach](siṣanenākam) [come-here](accha)
+[like](iva) [advancing](pravayām) [rising](ujjihānāḥ) [shining](prabhā+navaḥ) [may-we-attain](siṣanema) [happiness](ākam) [toward](accha)
 
 ## mukta-m0-p193-v4824
-[gods](devāḥ) [gods](devāḥ) [gods](devāḥ) [gods](devāḥ)
+[gods](devāḥ)
 
 ## mukta-m0-p193-v4825
-[wider](uror) [more-spacious](varīyo) [Varuṇa](varuṇas) [for-you](te) [may-make](kṛṇotu) [conquering](jayantan) [you](tvā) [now](nu) [gods](devā) [may-rejoice](madantu)
+[broad](uroḥ) [wider](varīyaḥ) [varuṇa](varuṇaḥ) [for-you](te) [may-make](kṛṇotu) [conquering](jayantam) [you](tvā) [now](nu) [gods](devāḥ) [may-rejoice](madantu)

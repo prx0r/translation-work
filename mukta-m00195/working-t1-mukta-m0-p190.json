@@ -7,12 +7,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "baddha+añjali+karaḥ",
+"surface": "baddhāñjali+karaḥ",
 "quick_gloss": "with-folded-hands"
 },
 {
 "surface": "svasthaḥ",
-"quick_gloss": "calm"
+"quick_gloss": "composed"
 },
 {
 "surface": "yoga+sammīlita+īkṣaṇaḥ",
@@ -53,10 +53,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāṇān",
-"quick_gloss": "having-restrained-breaths"
-},
-{
 "surface": "āyamya",
 "quick_gloss": "having-restrained"
 },
@@ -65,16 +61,20 @@
 "quick_gloss": "and"
 },
 {
+"surface": "prāṇān",
+"quick_gloss": "breaths"
+},
+{
 "surface": "āsīnaḥ",
 "quick_gloss": "seated"
 },
 {
 "surface": "anudvignaḥ",
-"quick_gloss": "unagitated"
+"quick_gloss": "unperturbed"
 },
 {
 "surface": "ciṃtayet",
-"quick_gloss": "one-should-meditate"
+"quick_gloss": "should-meditate"
 },
 {
 "surface": "tataḥ",
@@ -90,12 +90,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ucchaset",
-"quick_gloss": "one-should-exhale"
-},
-{
 "surface": "ca",
 "quick_gloss": "and"
+},
+{
+"surface": "ucchaset",
+"quick_gloss": "one-should-exhale"
 },
 {
 "surface": "evam",
@@ -110,12 +110,12 @@
 "quick_gloss": "with-mind-fixed-on-that"
 },
 {
-"surface": "yogam",
-"quick_gloss": "one-should-practice-yoga"
+"surface": "unnayet",
+"quick_gloss": "should-practice"
 },
 {
-"surface": "unnayet",
-"quick_gloss": "one-should-practice"
+"surface": "yogam",
+"quick_gloss": "yoga"
 }
 ]
 },
@@ -207,7 +207,7 @@
 "tokens": [
 {
 "surface": "mahā+ātmānam",
-"quick_gloss": "the-great-self"
+"quick_gloss": "the-great-soul"
 },
 {
 "surface": "ātmānaṃ",
@@ -240,7 +240,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "one-should-become"
+"quick_gloss": "one-becomes"
 },
 {
 "surface": "śuciḥ",
@@ -268,12 +268,8 @@
 "quick_gloss": "should-go"
 },
 {
-"surface": "paramām",
+"surface": "paramām+gatim",
 "quick_gloss": "to-the-supreme-state"
-},
-{
-"surface": "gatim",
-"quick_gloss": "state"
 }
 ]
 },
@@ -327,7 +323,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "praviṃdet",
+"surface": "praviṃdeta",
 "quick_gloss": "one-should-attain"
 },
 {
@@ -336,7 +332,7 @@
 },
 {
 "surface": "prabhāvataḥ",
-"quick_gloss": "by-power"
+"quick_gloss": "by-the-power"
 }
 ]
 },
@@ -360,12 +356,8 @@
 "quick_gloss": "free-from-dualities"
 },
 {
-"surface": "paramāt",
+"surface": "paramāt+param",
 "quick_gloss": "higher-than-the-highest"
-},
-{
-"surface": "param",
-"quick_gloss": "than-the-highest"
 }
 ]
 },
@@ -378,7 +370,7 @@
 "tokens": [
 {
 "surface": "svarān",
-"quick_gloss": "with-syllables"
+"quick_gloss": "with-svaras"
 },
 {
 "surface": "snātaḥ",
@@ -411,7 +403,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "one-should-become"
+"quick_gloss": "one-becomes"
 }
 ]
 },
@@ -432,7 +424,7 @@
 },
 {
 "surface": "kurvataḥ",
-"quick_gloss": "of-the-performer"
+"quick_gloss": "performing"
 }
 ]
 },
@@ -462,19 +454,19 @@
 "tokens": [
 {
 "surface": "vākyam",
-"quick_gloss": "speech"
+"quick_gloss": "statement"
 },
 {
 "surface": "atyanta+yatnena",
 "quick_gloss": "with-extreme-effort"
 },
 {
-"surface": "brahma",
-"quick_gloss": "attains-Brahman"
-},
-{
 "surface": "abhyeti",
 "quick_gloss": "attains"
+},
+{
+"surface": "brahma",
+"quick_gloss": "the-eternal-Brahman"
 },
 {
 "surface": "sanātanam",
@@ -491,7 +483,7 @@
 "tokens": [
 {
 "surface": "veda+garbha+śarīreṇa",
-"quick_gloss": "with-a-body-containing-the-Vedas"
+"quick_gloss": "by-a-body-containing-the-Vedas"
 },
 {
 "surface": "saḥ",
@@ -503,7 +495,7 @@
 },
 {
 "surface": "nārāyaṇaḥ",
-"quick_gloss": "Nārāyaṇa"
+"quick_gloss": "as-Nārāyaṇa"
 },
 {
 "surface": "smṛtaḥ",
@@ -557,7 +549,7 @@
 },
 {
 "surface": "puruṣa+uttamaḥ",
-"quick_gloss": "the-supreme-person"
+"quick_gloss": "as-the-supreme-person"
 }
 ]
 },
@@ -594,12 +586,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakṣuḥ",
+"surface": "cakṣuḥ+divyaṃ",
 "quick_gloss": "divine-eye"
-},
-{
-"surface": "divyaṃ",
-"quick_gloss": "divine"
 },
 {
 "surface": "hotuḥ",

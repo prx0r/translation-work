@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p180-v4476
-[tārā-beginning](tārādyān) [letters](varṇān) [should-place](vinyaset) [in-places](sthāneṣu) [in-these](eṣu) [concentrated](samāhitaḥ)
+[beginning-with-tārā](tārādyān) [should-place](vinyaset) [syllables](varṇān) [in-these+places](sthāneṣu+eṣu) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p180-v4477
-[in-two-abdomens](kukṣyor) [in-navel](nābhau) [in-hip](kaṭi) [pair](dvaye)
+[in-the-two-abdomens](kukṣyoḥ) [in-the-navel](nābhau) [in-the-two-hips](kaṭi+dvaye)
 
 ## mukta-m0-p180-v4478
-[in-knee](jānu) [pair](yugme) [in-shank](jaṅghā) [pair](yugme) [in-foot](pada) [pair](dvaye)
+[in-the-pair-of-knees](jānu+yugme) [in-the-pair-of-shanks](jaṅghā+yugme) [in-the-pair-of-feet](pada+dvaye)
 
 ## mukta-m0-p180-v4479
-[purified](śuddhaḥ) [doll](puttalīṃ) [wooden](dāruṇā) [form](kṛtām)
+[purified](śuddhaḥ) [effigy](puttalīṃ) [of-wooden+form](dāruṇa+ākṛtām)
 
 ## mukta-m0-p180-v4480
-[image](pratimāṃ) [with-foot](pādena) [should-step-on](ākrāmet) [and](ca) [likewise](tathā) [of-self](ātmanaḥ)
+[image](pratimāṃ) [with-foot+should-step-on](pādena+ākrāmet) [and](ca) [likewise+oneself](tathā+ātmanaḥ)
 
 ## mukta-m0-p180-v4481
-[made](kṛtāṃ) [afterwards](paścāt) [doll](puttalīṃ) [touching](saṃspṛśañ) [should-mutter](japet)
+[made](kṛtām) [afterwards](paścāt) [effigy](puttalīṃ) [touching](saṃspṛśan) [should-mutter](japet)
 
 ## mukta-m0-p180-v4482
-[again](punar) [in-navel](nābhau) [in-belly](jaṭhare) [in-heart](hṛdaya) [lotus](ambuje)
+[again](punaḥ) [in-the-navel](nābhau) [in-the-belly](jaṭhare) [in-the-heart+lotus](hṛdaya+ambuje)
 
 ## mukta-m0-p180-v4483
-[in-two-ears](karṇayor) [in-two-eyes](akṣṇor) [in-forehead](lalāṭe) [on-head](mūrdhni) [should-place](vinyaset)
+[in-the-two-ears](karṇayoḥ) [in-the-two-eyes](akṣṇoḥ) [on-the-forehead](lalāṭe) [on-the-head](mūrdhni) [should-place](vinyaset)
 
 ## mukta-m0-p180-v4484
-[mantra](mantra) [stated](ukta) [deity](devatāṃ) [in-silver](rūpya) [vessel](pātrake)
+[mantra+stated+deity](mantro+ukta+devatāṃ) [in-silver+vessel](rūpya+pātrake)
 
 ## mukta-m0-p180-v4485
-[with-mantras](mantrair) [with-these](etaiḥ) [in-rite](prayogādāv) [at-end](ante) [restrained](saṃyata) [mind](mānasaḥ)
+[with-these+mantras](mantraiḥ+etaiḥ) [in-rite+beginning+and-end](prayoga+ādau+ante) [with-restrained+mind](saṃyata+mānasaḥ)
 
 ## mukta-m0-p180-v4486
-[at-night](niśāyāṃ) [by-mantra](mantra) [muttering](japtena) [satisfied](tṛpto) [be](bhava) [with-her](tayā) [together](saha)
+[at-night](niśāyām) [by-mantra+recitation](mantra+japtena) [satisfied](tṛptaḥ) [be](bhava) [with-her](tayā) [together](saha)
 
 ## mukta-m0-p180-v4487
-[salt](lavaṇaṃ) [burn](daha) [enemy](śatru) [slayer](han)
+[salt](lavaṇaṃ) [burn](daha) [enemy+slayer](śatru+han)
 
 ## mukta-m0-p180-v4488
-[obeisance](namas) [to-you](tubhyaṃ) [boon](vara) [giver](de) [desire](kāma) [giver](dā) [be](bhava)
+[homage+to-you](namaḥ+tubhyam) [boon+giver](vara+de) [desire+giver](kāma+dā) [be](bhava)
 
 ## mukta-m0-p180-v4489
-[under-control](vaśam) [bring](ānaya) [goddess](devi) [to-me](me)
+[under-control+bring](vaśam+ānaya) [goddess](devi) [to-me](me)
 
 ## mukta-m0-p180-v4490
-[wicked](duṣṭa) [enemy](śatru) [terrifier](bhyṅkare)
+[for-wicked+enemies+terrifying](duṣṭa+śatru+bhyam+kare)
 
 ## mukta-m0-p180-v4491
-[refuge](śaraṇaṃ) [to-me](me) [be](bhava) [o-sinless-one](anaghe)
+[refuge](śaraṇam) [to-me](me) [be+sinless-one](bhava+anaghe)
 
 ## mukta-m0-p180-v4492
-[dry-up](śoṣaya) [burn](tāpaya) [burn](tāpaya)
+[dry-up](śoṣaya) [burn+burn](tāpaya+tāpaya)
 
 ## mukta-m0-p180-v4493
-[great](mahā) [Kālī](kāli) [protect](rakṣā) [us](asmān) [imperishable](akṣara) [souled](ātmike)
+[great+kālī](mahā+kāli) [protect+us](rakṣa+asmān) [imperishable+souled-one](akṣara+ātmike)
 
 ## mukta-m0-p180-v4494
-[ṛk](ṛk) [pentad](pañcakaṃ) [having-recited](samuccārya) [one-should-offer](juhuyād) [in-kindled](edhite) [fire](nale)
+[ṛk+pentad](ṛk+pañcakaṃ) [having-recited](samuccārya) [one-should-offer+in-kindled+fire](juhuyāt+edhita+anale)
 
 ## mukta-m0-p180-v4495
-[head](śiras) [third](tṛtīyam) [declared](ākhyātaṃ) [left](vāma) [hand](hastas) [then](tataḥ) [after](param)
+[head+third](śiraḥ+tṛtīyam) [declared](ākhyātaṃ) [left+hand+then](vāma+hastaḥ+tataḥ) [after](param)
 
 ## mukta-m0-p180-v4496
-[seventh](saptamo) [left](vāma) [foot](pādaḥ) [should-be](syād) [thus](iti) [part](bhāga) [order](kramaḥ) [remembered](smṛtaḥ)
+[seventh](saptamaḥ) [left+foot](vāma+pādaḥ) [should-be+thus](syāt+iti) [part+sequence](bhāga+kramaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p180-v4497
-[having-done](kṛtvā) [thus](evam) [having-worshipped](arcayitvā) [fire](agniṃ) [should-bow](praṇamed) [like-stick](daṇḍavat) [then](tataḥ)
+[having-done+thus+having-worshipped+fire](kṛtvā+evam+arcayitvā+agnim) [should-bow+like-a-staff+then](praṇamet+daṇḍavat+tataḥ)
 
 ## mukta-m0-p180-v4498
-[mantrin](mantrī) [should-subdue](vaśayed) [demons](asurān) [gods](surān)
+[mantrin](mantrī) [should-subdue+demons+and-gods](vaśayet+asurān+surān)
 
 ## mukta-m0-p180-v4499
-[previously](pūrva) [declared](samprokta) [of-dolls](puttalīnāṃ) [quartet](catuṣṭayam)
+[previously+mentioned+effigies](pūrva+samprokta+puttalīnām) [group-of-four](catuṣṭayam)
 
 ## mukta-m0-p180-v4500
-[by-to-be-stated](vakṣyamāṇena) [by-method](vidhānena) [one-should-prepare](prakalpayet)
+[by-to-be-stated](vakṣyamāṇena) [by-method](vidhānena) [one-should-fashion](prakalpayet)
