@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2011,
- "question": "Which virtues and abode are attributed to the goddess?",
+ "question": "What ritual offering must be made with the haṃsa mantra after bathing?",
  "premises": [
-  "The goddess embodies forbearance, fortitude, memory, and intelligence.",
-  "The goddess dwells in the wish-fulfilling tree."
+  "Bathing is performed first.",
+  "The haṃsa mantra is used.",
+  "An arghya offering is to be presented."
  ],
- "inference": "The goddess is the embodiment of key virtues and dwells in the wish-fulfilling tree.",
- "uncertainties": [],
- "plain_english": "She is forbearance, fortitude, memory, and intelligence, and she dwells in the wish-fulfilling tree."
+ "inference": "After bathing, one should offer arghya using the haṃsa mantra.",
+ "uncertainties": [
+  "The referent of anena may point to the place or method previously mentioned."
+ ],
+ "plain_english": "Having bathed, one should offer arghya with this haṃsa mantra."
 }

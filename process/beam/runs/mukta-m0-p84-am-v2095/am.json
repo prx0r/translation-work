@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2095,
- "question": "Which qualities of Mātaṅgī are the focus of contemplative meditation?",
+ "question": "Which pool and lake are identified in the southeast direction?",
  "premises": [
-  "Mātaṅgī is contemplated",
-  "She brings and gives desired fruits",
-  "She is delighting"
+  "The southeast direction is specified",
+  "A pool named Kālahasta is mentioned",
+  "A lake named Yāmala is mentioned"
  ],
- "inference": "Meditation focuses on Mātaṅgī as the delighting giver of desired fruits.",
- "uncertainties": [],
- "plain_english": "I contemplate Mātaṅgī, who brings and grants desired fruits and who delights."
+ "inference": "In the southeast are the Kālahasta pool and the lake named Yāmala.",
+ "uncertainties": [
+  "syntactic relation between kuṇḍaṃ kālahastaṃ and yāmalaṃ nāma vai saraḥ is compressed"
+ ],
+ "plain_english": "In the southeast is the Kālahasta pool and indeed the lake named Yāmala."
 }
