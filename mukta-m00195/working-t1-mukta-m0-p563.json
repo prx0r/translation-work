@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "sārūpyam",
-"quick_gloss": "likeness-to-form"
+"quick_gloss": "similarity-of-form"
 },
 {
 "surface": "pāda+hīnaṃ",
@@ -78,7 +78,7 @@
 "tokens": [
 {
 "surface": "sva+dharmeṇa",
-"quick_gloss": "by-own+duty"
+"quick_gloss": "by-own-dharma"
 },
 {
 "surface": "ārjjitaṃ",
@@ -115,7 +115,7 @@
 },
 {
 "surface": "kāla+svarūpatvaṃ",
-"quick_gloss": "time+nature-ness"
+"quick_gloss": "time+form-ness"
 },
 {
 "surface": "tat",
@@ -144,7 +144,7 @@
 },
 {
 "surface": "dakṣiṇena",
-"quick_gloss": "by-southern"
+"quick_gloss": "by-right"
 },
 {
 "surface": "eka",
@@ -152,10 +152,10 @@
 },
 {
 "surface": "dīpa+ādi",
-"quick_gloss": "lamp+etc."
+"quick_gloss": "lamp+and-so-on"
 },
 {
-"surface": "krameṇa",
+"surface": "krama+taḥ",
 "quick_gloss": "by-sequence"
 },
 {
@@ -176,8 +176,12 @@
 "quick_gloss": "there"
 },
 {
-"surface": "saṃkara+śūdra+ādyāḥ",
-"quick_gloss": "mixed-caste+śūdra+etc."
+"surface": "saṃkara",
+"quick_gloss": "mixed-caste"
+},
+{
+"surface": "śūdra+ādyāḥ",
+"quick_gloss": "śūdra+and-others"
 },
 {
 "surface": "vipra+antāḥ",
@@ -235,7 +239,7 @@
 },
 {
 "surface": "sudarśana+cakrasya",
-"quick_gloss": "of-Sudarśana+discus"
+"quick_gloss": "of-Sudarśana-disc"
 },
 {
 "surface": "avatāraḥ",
@@ -259,12 +263,20 @@
 "quick_gloss": "vedhā"
 },
 {
-"surface": "dhara+indu+śānti+āḍhyaḥ",
-"quick_gloss": "earth+moon+śānti+endowed"
+"surface": "dhara+indu+śānti",
+"quick_gloss": "earth+moon+peace"
 },
 {
-"surface": "nidrā+arghīśa+agni+bindu+yuk",
-"quick_gloss": "nidrā+arghīśa+fire+bindu+joined"
+"surface": "āḍhyaḥ",
+"quick_gloss": "endowed-with"
+},
+{
+"surface": "nidrā+arghīśa+agni+bindu",
+"quick_gloss": "sleep+arghīśa+fire+dot"
+},
+{
+"surface": "yuk",
+"quick_gloss": "joined-with"
 }
 ]
 },
@@ -281,7 +293,7 @@
 },
 {
 "surface": "bindu+āsanaḥ",
-"quick_gloss": "bindu+seat"
+"quick_gloss": "dot+seat"
 },
 {
 "surface": "anantaḥ",
@@ -289,11 +301,11 @@
 },
 {
 "surface": "vahni+jau",
-"quick_gloss": "fire-born-two"
+"quick_gloss": "fire-borns"
 },
 {
 "surface": "karṇa+saṃsthitau",
-"quick_gloss": "in-ears+situated"
+"quick_gloss": "in-ears"
 }
 ]
 },
@@ -305,12 +317,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ūna+viṃśati+varṇaḥ",
-"quick_gloss": "less-by-nineteen+syllables"
+"surface": "ūna+viṃśati",
+"quick_gloss": "less-by-nineteen"
 },
 {
-"surface": "ayam",
-"quick_gloss": "this"
+"surface": "varṇaḥ",
+"quick_gloss": "syllables"
+},
+{
+"surface": "yan",
+"quick_gloss": "whose"
 },
 {
 "surface": "tārā+ādiḥ",
@@ -318,7 +334,7 @@
 },
 {
 "surface": "nakha+varṇakaḥ",
-"quick_gloss": "ending-with-nakha-syllable"
+"quick_gloss": "nail+syllable"
 }
 ]
 },
@@ -339,11 +355,15 @@
 },
 {
 "surface": "bījaṃ",
-"quick_gloss": "seed-mantra"
+"quick_gloss": "seed"
 },
 {
-"surface": "śakti+dhruvaḥ",
-"quick_gloss": "śakti+dhruva"
+"surface": "śaktiḥ",
+"quick_gloss": "power"
+},
+{
+"surface": "dhruvaḥ",
+"quick_gloss": "dhruva"
 },
 {
 "surface": "ca",
@@ -372,7 +392,7 @@
 },
 {
 "surface": "samākhyātā",
-"quick_gloss": "is-declared"
+"quick_gloss": "declared"
 },
 {
 "surface": "kroṃśrīṃ",
@@ -384,7 +404,7 @@
 },
 {
 "surface": "īritam",
-"quick_gloss": "is-spoken"
+"quick_gloss": "spoken"
 }
 ]
 },
@@ -413,7 +433,7 @@
 },
 {
 "surface": "guhya+deśake",
-"quick_gloss": "in-private+region"
+"quick_gloss": "in-private+place"
 }
 ]
 },
@@ -433,8 +453,12 @@
 "quick_gloss": "seed+ten"
 },
 {
-"surface": "praṇava+dvaya+madhyagam",
-"quick_gloss": "praṇava+pair+middle-situated"
+"surface": "praṇava+dvaya",
+"quick_gloss": "praṇava+pair"
+},
+{
+"surface": "madhyagam",
+"quick_gloss": "situated-in-middle"
 }
 ]
 },
@@ -447,11 +471,11 @@
 "tokens": [
 {
 "surface": "bhruvoḥ",
-"quick_gloss": "on-eyebrows"
+"quick_gloss": "of-eyebrows"
 },
 {
 "surface": "śrutyoḥ",
-"quick_gloss": "on-ears"
+"quick_gloss": "of-ears"
 },
 {
 "surface": "tathā",
@@ -463,19 +487,19 @@
 },
 {
 "surface": "akṣṇoḥ",
-"quick_gloss": "on-eyes"
+"quick_gloss": "of-eyes"
 },
 {
 "surface": "nasi",
-"quick_gloss": "on-nose"
+"quick_gloss": "of-nose"
 },
 {
 "surface": "vakttre",
-"quick_gloss": "on-face"
+"quick_gloss": "in-mouth"
 },
 {
 "surface": "gale",
-"quick_gloss": "on-throat"
+"quick_gloss": "in-throat"
 },
 {
 "surface": "aṃsayoḥ",
@@ -520,8 +544,12 @@
 "quick_gloss": "red+garment+turbaned"
 },
 {
-"surface": "nānā+kalpa+virājitaḥ",
-"quick_gloss": "with-various+ornaments+resplendent"
+"surface": "nānā+kalpa",
+"quick_gloss": "with-various+ornaments"
+},
+{
+"surface": "virājitaḥ",
+"quick_gloss": "shining"
 }
 ]
 },
@@ -533,8 +561,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dadhaṭṭa+kāra+śabdaiḥ",
-"quick_gloss": "by-dadhaṭṭa+sound+noises"
+"surface": "dadhaṭṭaṃkāra+śabdaiḥ",
+"quick_gloss": "by-dhaṭṭaṃkāra+sounds"
 },
 {
 "surface": "ca",
@@ -554,12 +582,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūpāla+mukuṭa+āghṛṣṭa",
-"quick_gloss": "by-king+crown+rubbed"
+"surface": "bhūpāla+mukuṭa",
+"quick_gloss": "by-king+crown"
 },
 {
-"surface": "pāda+padmaḥ",
-"quick_gloss": "lotus+feet"
+"surface": "āghṛṣṭa+pāda+padmaḥ",
+"quick_gloss": "rubbed+lotus-feet"
 },
 {
 "surface": "abja+locanaḥ",
@@ -588,7 +616,7 @@
 },
 {
 "surface": "pīṭhe",
-"quick_gloss": "on-pedestal"
+"quick_gloss": "on-platform"
 },
 {
 "surface": "padmaṃ",
@@ -612,12 +640,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "agni+īśa+asura+vāyavya+koṇeṣu",
-"quick_gloss": "in-fire+īśa+asura+vāyu+corners"
+"surface": "agni+īśa+asura+vāyavya",
+"quick_gloss": "in-fire+Īśa+Asura+Vāyu"
+},
+{
+"surface": "koṇeṣu",
+"quick_gloss": "in-corners"
 },
 {
 "surface": "hṛdaya+ādikāḥ",
-"quick_gloss": "heart+etc."
+"quick_gloss": "heart+and-so-on"
 }
 ]
 },
@@ -638,11 +670,11 @@
 },
 {
 "surface": "candra+ābhāḥ",
-"quick_gloss": "moon+bright"
+"quick_gloss": "moon+colored"
 },
 {
 "surface": "aṅga+mūrttayaḥ",
-"quick_gloss": "limb+deities"
+"quick_gloss": "limb+forms"
 }
 ]
 },
@@ -658,7 +690,7 @@
 "quick_gloss": "four+armed"
 },
 {
-"surface": "rocamanāḥ",
+"surface": "rocamānāḥ",
 "quick_gloss": "shining"
 },
 {

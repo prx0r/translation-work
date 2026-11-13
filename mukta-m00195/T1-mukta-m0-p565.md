@@ -5,13 +5,13 @@
 [fuel-sticks](samidhaḥ) [obtains](labhate) [having-offered](hutvā) [sons+life+wealth+happiness](putrān+āyuḥ+dhanam+sukham)
 
 ## mukta-m0-p565-v14102
-[with-saffron+and-cow-dung](rocanā+gomayaiḥ) [pillar](stambhaḥ) [land-attainment](bhū+prāptiḥ) [with-rice+offered](śālibhiḥ+hutaiḥ)
+[with-rocanā+and-cow-dung](rocanā+gomayaiḥ) [pillar](stambhaḥ) [land-attainment](bhū+prāptiḥ) [with-rice-offered](śālibhiḥ+hutaiḥ)
 
 ## mukta-m0-p565-v14103
-[nineteen-syllabled](ekonaviṃśati+arṇaḥ) [this](ayam) [beginning-with-tārā](tārā+ādiḥ) [having-nakha-letter](nakha+varṇakaḥ)
+[nineteen-syllabled](ekonaviṃśati+arṇaḥ+ayam) [beginning-with-tārā](tārā+ādiḥ) [nakhavarṇaka](nakhavarṇakaḥ)
 
 ## mukta-m0-p565-v14104
-[beginning-with-own-seed](sva+bīja+ādyaḥ) [ten-syllabled](daśa+arṇaḥ) [this](asau) [others](anye) [nine-śiva-syllabled](nava+śiva+akṣarāḥ)
+[p.-813](p. 813) [beginning-with-own-bīja](sva+bīja+ādyaḥ) [ten-syllabled](daśa+arṇaḥ) [this](asau) [others](anye) [nine-śiva-syllabled](nava+śiva+akṣarāḥ)
 
 ## mukta-m0-p565-v14105
 [with-own-kāmā](sva+kāmābhyām) [third](tṛtīyaḥ) [this](asau) [with-own-bhrū](sva+bhrūbhyām) [but](tu) [fourth](caturthakaḥ)
@@ -29,49 +29,49 @@
 [thus](evam) [of-twenty-mantras](viṃśati+mantrāṇām) [worship](yajanam) [as-before](pūrva+vat) [of-mantra](manoḥ)
 
 ## mukta-m0-p565-v14110
-[with-long-vowel-endowed-root-seed](dīrgha+āḍhya+mūla+bījena) [one-should-perform](kuryyāt) [of-these](eṣām) [six-limbed-ritual](ṣaḍ+aṅgakam)
+[with-long-vowel-endowed-root-bīja](dīrgha+āḍhya+mūla+bījena) [one-should-perform](kuryyāt) [of-these](eṣām) [six-limbed-ritual](ṣaḍ+aṅgakam)
 
 ## mukta-m0-p565-v14111
 [fourteen-syllabled](caturdaśa+arṇaḥ) [mantra](mantraḥ) [this](ayam) [its-worship](asya+ijyā) [as-before](pūrva+vat) [considered](matā)
 
 ## mukta-m0-p565-v14112
-[tāraḥ](tāraḥ) [hṛt](hṛt) [bhagavān](bhagavān) [ṅe-antaḥ](ṅe+antaḥ) [kārttavīrya-arjunaḥ](kārttavīryya+arjunaḥ) [then](tathā)
+[tāra](tāraḥ) [hṛd](hṛt) [bhagavān-ending-in-ṅ](bhagavān+ṅentaḥ) [kārttavīrya-arjuna](kārttavīryya+arjunaḥ) [then](tathā)
 
 ## mukta-m0-p565-v14113
 [with-three-veda-seven-pair-eye-syllables](tri+veda+sapta+yugma+akṣi+varṇaiḥ) [five-limbed-ritual](pañca+aṅgakam) [of-mantra](manoḥ)
 
 ## mukta-m0-p565-v14114
-[sarvaduṣṭāntakāya](sarva+duṣṭa+antakāya) [iti](iti) [with-austerity-strength-prowess](tapaḥ+bala+parākramaiḥ)
+[destroyer-of-all-evildoers](sarva+duṣṭa+antakāya) [thus](iti) [with-austerity-strength-prowess](tapaḥ+bala+parākramaiḥ)
 
 ## mukta-m0-p565-v14115
-[janyacūḍāmaṇiḥ](janya+cūḍāmaṇiḥ) [ṅe-antaḥ](ṅe+antaḥ) [sarvaśaktimate](sarva+śaktimate) [then](tataḥ)
+[crest-jewel-of-the-born](janya+cūḍāmaṇiḥ) [ending-in-ṅ](ṅentaḥ) [to-the-possessor-of-all-powers](sarva+śaktimate) [then](tataḥ)
 
 ## mukta-m0-p565-v14116
-[sixty-three-syllabled](tri+ṣaṣṭi+varṇavān) [declared](proktaḥ) [by-remembrance](smaraṇāt) [all-accomplishment-causing](sarva+siddhi+kṛt)
+[of-sixty-three-syllables](triṣaṣṭi+varṇavān) [declared](proktaḥ) [by-remembrance](smaraṇāt) [accomplisher-of-all-success](sarva+siddhi+kṛt)
 
 ## mukta-m0-p565-v14117
-[māhiṣmatī-lord](māhiṣmatī+patiḥ) [afterwards](paścāt) [fourth](caturthaḥ) [declared](samudīritaḥ)
+[lord-of-māhiṣmatī](māhiṣmatī+patiḥ) [afterwards](paścāt) [fourth](caturthaḥ) [declared](samudīritaḥ)
 
 ## mukta-m0-p565-v14118
-[daśāsyaḥ](daśa+āsyaḥ) [ca](ca) [iti](iti) [with-six](ṣaḍbhiḥ) [should-be](syāt) [with-these-words](padaiḥ+etaiḥ) [six-limbed-ritual](ṣaḍ+aṅgakam)
+[and-ten-faced](daśa+āsyaḥ) [thus](ca+iti) [with-six](ṣaḍbhiḥ) [should-be](syāt) [with-these-words](padaiḥ+etaiḥ) [six-limbed-ritual](ṣaḍ+aṅgakam)
 
 ## mukta-m0-p565-v14119
-[with-hands](hastaiḥ) [water-flood](jala+augham) [restraining](rundhantam) [having-meditated](dhyātvā) [intoxicated](mattam) [best-of-kings](nṛpa+uttamam)
+[with-hands](hastaiḥ) [flood-of-water](jala+augham) [restraining](rundhantam) [having-meditated](dhyātvā) [intoxicated](mattam) [best-of-kings](nṛpa+uttamam)
 
 ## mukta-m0-p565-v14120
 [as-before](pūrva+vat) [all](sarvam) [of-this](etasya) [worship](samārādhanam) [declared](īritam)
 
 ## mukta-m0-p565-v14121
-[in-māhiṣmatī](māhiṣmatyām) [among-ministers](mantri+madhye) [seated](samāsīnam) [adorned](alaṃkṛtam)
+[in-māhiṣmatī](māhiṣmatyām) [in-the-midst-of-ministers](mantri+madhye) [seated](samāsīnam) [adorned](alaṃkṛtam)
 
 ## mukta-m0-p565-v14122
-[with-arms](bāhubhiḥ) [arrows-bow-sword-mace-hammer-spears](śara+cāpa+asi+gadā+mudgara+śūlakān)
+[with-arms](bāhubhiḥ) [arrow-bow-sword-mace-club-spear](śara+cāpa+asi+gadā+mudgara+śūlakān)
 
 ## mukta-m0-p565-v14123
 [enemy-army-thief-king-fear](para+cakra+stena+rāja+bhayam) [meditation](dhyānam) [declared](udīritam)
 
 ## mukta-m0-p565-v14124
-[terrifying-the-three-worlds](trailokya+bhīṣaṇam) [one-should-meditate](dhyāyet) [standing-on-ten-thousand-horse-chariot](ayuta+aśva+ratha+sthitam)
+[p.-814](p. 814) [terrifying-to-the-three-worlds](trailokya+bhīṣaṇam) [one-should-meditate](dhyāyet) [standing-on-chariot-with-ten-thousand-horses](ayuta+aśva+ratha+sthitam)
 
 ## mukta-m0-p565-v14125
-[with-circles-of-mighty-arms](dor+daṇḍa+maṇḍalaiḥ) [arrows](bāṇān) [shooting](kṣipantam) [sharp-edged](tīvra+dhārakān)
+[with-circles-of-mighty-arms](dor+daṇḍa+maṇḍalaiḥ) [arrows](bāṇān) [hurling](kṣipantam) [of-sharp-points](tīvra+dhārakān)

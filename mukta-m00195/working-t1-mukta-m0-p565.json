@@ -33,7 +33,7 @@
 "tokens": [
 {
 "surface": "rocanā+gomayaiḥ",
-"quick_gloss": "with-saffron+and-cow-dung"
+"quick_gloss": "with-rocanā+and-cow-dung"
 },
 {
 "surface": "stambhaḥ",
@@ -45,7 +45,7 @@
 },
 {
 "surface": "śālibhiḥ+hutaiḥ",
-"quick_gloss": "with-rice+offered"
+"quick_gloss": "with-rice-offered"
 }
 ]
 },
@@ -57,20 +57,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ekonaviṃśati+arṇaḥ",
+"surface": "ekonaviṃśati+arṇaḥ+ayam",
 "quick_gloss": "nineteen-syllabled"
-},
-{
-"surface": "ayam",
-"quick_gloss": "this"
 },
 {
 "surface": "tārā+ādiḥ",
 "quick_gloss": "beginning-with-tārā"
 },
 {
-"surface": "nakha+varṇakaḥ",
-"quick_gloss": "having-nakha-letter"
+"surface": "nakhavarṇakaḥ",
+"quick_gloss": "nakhavarṇaka"
 }
 ]
 },
@@ -82,8 +78,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 813",
+"quick_gloss": "p.-813"
+},
+{
 "surface": "sva+bīja+ādyaḥ",
-"quick_gloss": "beginning-with-own-seed"
+"quick_gloss": "beginning-with-own-bīja"
 },
 {
 "surface": "daśa+arṇaḥ",
@@ -269,7 +269,7 @@
 "tokens": [
 {
 "surface": "dīrgha+āḍhya+mūla+bījena",
-"quick_gloss": "with-long-vowel-endowed-root-seed"
+"quick_gloss": "with-long-vowel-endowed-root-bīja"
 },
 {
 "surface": "kuryyāt",
@@ -327,23 +327,19 @@
 "tokens": [
 {
 "surface": "tāraḥ",
-"quick_gloss": "tāraḥ"
+"quick_gloss": "tāra"
 },
 {
 "surface": "hṛt",
-"quick_gloss": "hṛt"
+"quick_gloss": "hṛd"
 },
 {
-"surface": "bhagavān",
-"quick_gloss": "bhagavān"
-},
-{
-"surface": "ṅe+antaḥ",
-"quick_gloss": "ṅe-antaḥ"
+"surface": "bhagavān+ṅentaḥ",
+"quick_gloss": "bhagavān-ending-in-ṅ"
 },
 {
 "surface": "kārttavīryya+arjunaḥ",
-"quick_gloss": "kārttavīrya-arjunaḥ"
+"quick_gloss": "kārttavīrya-arjuna"
 },
 {
 "surface": "tathā",
@@ -381,11 +377,11 @@
 "tokens": [
 {
 "surface": "sarva+duṣṭa+antakāya",
-"quick_gloss": "sarvaduṣṭāntakāya"
+"quick_gloss": "destroyer-of-all-evildoers"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 },
 {
 "surface": "tapaḥ+bala+parākramaiḥ",
@@ -402,15 +398,15 @@
 "tokens": [
 {
 "surface": "janya+cūḍāmaṇiḥ",
-"quick_gloss": "janyacūḍāmaṇiḥ"
+"quick_gloss": "crest-jewel-of-the-born"
 },
 {
-"surface": "ṅe+antaḥ",
-"quick_gloss": "ṅe-antaḥ"
+"surface": "ṅentaḥ",
+"quick_gloss": "ending-in-ṅ"
 },
 {
 "surface": "sarva+śaktimate",
-"quick_gloss": "sarvaśaktimate"
+"quick_gloss": "to-the-possessor-of-all-powers"
 },
 {
 "surface": "tataḥ",
@@ -426,8 +422,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tri+ṣaṣṭi+varṇavān",
-"quick_gloss": "sixty-three-syllabled"
+"surface": "triṣaṣṭi+varṇavān",
+"quick_gloss": "of-sixty-three-syllables"
 },
 {
 "surface": "proktaḥ",
@@ -439,7 +435,7 @@
 },
 {
 "surface": "sarva+siddhi+kṛt",
-"quick_gloss": "all-accomplishment-causing"
+"quick_gloss": "accomplisher-of-all-success"
 }
 ]
 },
@@ -452,7 +448,7 @@
 "tokens": [
 {
 "surface": "māhiṣmatī+patiḥ",
-"quick_gloss": "māhiṣmatī-lord"
+"quick_gloss": "lord-of-māhiṣmatī"
 },
 {
 "surface": "paścāt",
@@ -477,15 +473,11 @@
 "tokens": [
 {
 "surface": "daśa+āsyaḥ",
-"quick_gloss": "daśāsyaḥ"
+"quick_gloss": "and-ten-faced"
 },
 {
-"surface": "ca",
-"quick_gloss": "ca"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"surface": "ca+iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "ṣaḍbhiḥ",
@@ -518,7 +510,7 @@
 },
 {
 "surface": "jala+augham",
-"quick_gloss": "water-flood"
+"quick_gloss": "flood-of-water"
 },
 {
 "surface": "rundhantam",
@@ -580,7 +572,7 @@
 },
 {
 "surface": "mantri+madhye",
-"quick_gloss": "among-ministers"
+"quick_gloss": "in-the-midst-of-ministers"
 },
 {
 "surface": "samāsīnam",
@@ -605,7 +597,7 @@
 },
 {
 "surface": "śara+cāpa+asi+gadā+mudgara+śūlakān",
-"quick_gloss": "arrows-bow-sword-mace-hammer-spears"
+"quick_gloss": "arrow-bow-sword-mace-club-spear"
 }
 ]
 },
@@ -638,8 +630,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 814",
+"quick_gloss": "p.-814"
+},
+{
 "surface": "trailokya+bhīṣaṇam",
-"quick_gloss": "terrifying-the-three-worlds"
+"quick_gloss": "terrifying-to-the-three-worlds"
 },
 {
 "surface": "dhyāyet",
@@ -647,7 +643,7 @@
 },
 {
 "surface": "ayuta+aśva+ratha+sthitam",
-"quick_gloss": "standing-on-ten-thousand-horse-chariot"
+"quick_gloss": "standing-on-chariot-with-ten-thousand-horses"
 }
 ]
 },
@@ -668,11 +664,11 @@
 },
 {
 "surface": "kṣipantam",
-"quick_gloss": "shooting"
+"quick_gloss": "hurling"
 },
 {
 "surface": "tīvra+dhārakān",
-"quick_gloss": "sharp-edged"
+"quick_gloss": "of-sharp-points"
 }
 ]
 }
