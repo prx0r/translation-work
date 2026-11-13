@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-all(sarve) with-thread+cloth+rich+golden-lotus+adorned(sa+sūtra+vastra+āḍhya+hema+paṃkaja+bhūṣitāḥ)
+[all](sarve) [with-thread+cloth+endowed+gold+lotus+adorned](sasūtravastrāḍhyāhemapaṃkajabhūṣitāḥ)
 
 ## mukta-m0-p27-v652
-bathing+chapter+accomplished+measure(snapanā+adhyāya+saṃsiddha+pramāṇena) endowed-with(samanvitāḥ)
+[bathing+chapter+accomplished+measure](snapanāddhyāyasaṃsiddhapramāṇena) [endowed-with](samanvitāḥ)
 
 ## mukta-m0-p27-v653
-in-world-guardians+etc(lokeśa+ādiṣu) gold-pieces(hemāni) one-should-cast(kṣipet) in-outer-pots+also(bāhya+ghaṭeṣu+api)
+[in-world-guardians+and-others](lokeśādiṣu) [gold-pieces](hemāni) [one-should-cast](kṣipet) [in-outer-pots+also](bāhyaghaṭeṣvapi)
 
 ## mukta-m0-p27-v654
-arch+door-pots(toraṇa+dvāra+kumbhān) and(ca) world-guardian-pots(lokapāla+ghaṭān) also(api)
+[archway+door-pots+and](toraṇadvārakumbhāṃśca) [world-guardian-pots+also](lokapālaghaṭānapi)
 
 ## mukta-m0-p27-v655
-auspicious-octad+endowed-with(maṅgala+aṣṭaka+saṃyuktaṃ) ten-weapons(daśa+astraṃ) one-should-place(viniveśayet)
+[auspicious-octet+endowed](maṅgalāṣṭakasaṃyuktaṃ) [ten-weapons](daśāstraṃ) [one-should-place](viniveśayet)
 
 ## mukta-m0-p27-v656
-golden(sauvarṇaṃ) silver(rājataṃ) thread(sūtraṃ) or(yad+vā) cotton+made(kārpāsa+nirmitam)
+[golden](sauvarṇaṃ) [silver](rājataṃ) [thread](sūtraṃ) [or](yadvā) [cotton+made](kārpāsanirmitam)
 
 ## mukta-m0-p27-v657
-little+more+measure+endowed(svalpa+adhika+pramāṇa+āḍhya) serpent-king+hood+possessed(nāgarāja+phaṇā+anvitam)
+[slightly+more+measure+endowed](svalpādhikapramāṇāḍhya) [serpent-king+hood+possessed](nāgarājaphaṇānvitam)
 
 ## mukta-m0-p27-v658
-Ananta(anantaḥ) indeed(tu) presiding-deity(adhi+deva) should-be(syāt) in-golden(sauvarṇe) in-silver(rājate) also(api) or(vā)
+[Ananta](anantastu) [presiding-deity](adhi) [of-god](devasyāt) [in-golden](sauvarṇe) [in-silver+also](rājate'pi) [or](vā)
 
 ## mukta-m0-p27-v659
-strung(grathitaṃ) best(śreṣṭham) thus-said(iti+uktaṃ) ring+holder+endowed(valaya+grāhaka+anvitam)
+[twisted](grathitaṃ) [best+thus+said](śreṣṭhamityuktaṃ) [ring+holder+endowed](valayagrāhakānvitam)
 
 ## mukta-m0-p27-v660
-for-peace(śānti+artham) for-victory(vijaya+artham) that(time)+consisting-of(tat+kalātmakam) thus(iti) remembered(smṛtam)
+[for-peace](śāntyarthaṃ) [for-victory](vijayārthantat) [time+consisting-of+thus+remembered](kalātmakamitismṛtam)
 
 ## mukta-m0-p27-v661
-six-limb+deity+limb+if(ṣaḍ+aṃga+mūrti+pā+āṅgam+cet) son+longevity+fruit+giving(putra+āyuṣya+phala+pradam)
+[six-limb+image+limb+if](ṣaḍaṃgamūrtipāṃgañcet) [son+longevity+fruit+giving](putrāyuṣyaphalapradam)
 
 ## mukta-m0-p27-v662
-having-purified(saṃśoddhya) with-water(vāriṇā) and(ca) thus(evam) with-sandal(candanena) having-smeared(upalipya) and(ca)
+[having-purified](saṃśoddhya) [with-water](vāriṇā) [and+indeed](caivañ) [with-sandalwood+having-smeared](candanenopalipya) [and](ca)
 
 ## mukta-m0-p27-v663
-each(pratyekaṃ) altar(sthaṇḍilaṃ) having-made(kṛtvā) upon-that(tad+ūrdhve) on-stand(yantrikā+upari)
+[separately](pratyekaṃ) [altar](sthaṇḍilaṃ) [having-made](kṛtvā) [upon-that](tadūrdhve) [upon-stand](yantrikopari)
 
 ## mukta-m0-p27-v664
-with-two-prasthas+ending(dvi+prastha+antaiḥ) not-less-than-that(na+tad+hīnaiḥ) with-droṇa+etc(droṇa+ādyaiḥ) heart(hṛdayaṃ) remembering(smaran)
+[two-prastha+ending-with+not+less-than-that](dviprasthāntairnataddhīnaiḥ) [droṇa+beginning-with](droṇādyai) [heart](rhṛdayaṃ) [remembering](smaran)
 
 ## mukta-m0-p27-v665
-unbroken+pair+very-smooth+areca-nut+essence+endowed(abhinna+yugma+suślakṣṇa+pūga+sāra+samanvitam)
+[unbroken+pair+very-smooth+areca-nut+essence+endowed](abhinnayugmasuślakṣṇapūgasārasamanvitam)
 
 ## mukta-m0-p27-v666
-betel(tāmbūlaṃ) with-thread(sūtra+sahitaṃ) on-altar(sthaṇḍila+upari) one-should-place(vinyaset)
+[betel](tāmbūlaṃ) [thread+accompanied](sūtrasahitaṃ) [upon-altar](sthaṇḍilopari) [one-should-place](vinyaset)
 
 ## mukta-m0-p27-v667
-on-altar(sthaṇḍile) one-should-worship(pūjayet) Śakti(śaktiṃ) on-stand(yantrikāyāṃ) triad-of-principles(tri+tatvakam)
+[on-altar](sthaṇḍile) [one-should-worship](pūjayecchaktiṃ) [on-stand](yaṃtrikāyāṃ) [three-principle-group](tritatvakam)
 
 ## mukta-m0-p27-v668
-on-ash-receptacle(bhasma+ādhāre) Umā(umā) should-be(ākhyā) on-ash(bhasite) Lakulīśvara(lakulīśvaram)
+[in-ash-receptacle](bhasmādhāre) [Umā+called](umākhyāsyāt) [in-ash](bhasite) [Lakulīśvara](lakulīśvaram)
 
 ## mukta-m0-p27-v669
-vessel(pātram) having-covered(ācchādya) with-cloth+etc(paṭṭa+ādyaiḥ) up-to-garland(mālā+anta) upon-that(upari) one-should-place(nyaset)
+[vessel](pātram) [having-covered](ācchādya) [with-cloth+and-others](paṭṭādyaiḥ) [garland+end+upon+one-should-place](mālāntaduparinyaset)
 
 ## mukta-m0-p27-v670
-village+circumambulation(grāma+dakṣiṇaṃ) or(vā) or(atha) of-temple(prāsādasya) circumambulation(pradakṣiṇam)
+[village+circumambulation](grāmadakṣiṇaṃ) [or+then](vātha) [of-temple](prāsādasya) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p27-v671
-with-thumb+ring-finger(aṃguṣṭha+anāmikābhyām) indeed(tu) having-grasped(grahītvā) in-left-hand(vāma+hastake)
+[with-thumb+ring-finger+indeed](aṃguṣṭhānāmikābhyantu) [having-grasped](grahītvā) [in-left-hand](vāmahastake)
 
 ## mukta-m0-p27-v672
-with-mantra(mantreṇa) with-anuṣṭubh(anuṣṭubhā) weapon(netraṃ) remembering(smaran) in-every-compartment(sarva+prakoṣṭhake)
+[with-mantra](mantreṇānuṣṭubhā) [eye](netraṃ) [remembering](smaran) [in-every-compartment](sarvaprakoṣṭhake)
 
 ## mukta-m0-p27-v673
-with-whole-being(sarva+ātmanā) then(atha) of-goddesses(devīnāṃ) on-left(vāme) or(vā) on-right(dakṣiṇe) or(atha) or(vā)
+[with-whole-being+then](sarvātmanātha) [of-goddesses](devīnāṃ) [on-left](vāme) [or](vā) [on-right+or](dakṣiṇetha) [or](vā)
 
 ## mukta-m0-p27-v674
-betel(tāmbūlam) and(ca) with-fruit+cake+coconut-fruit(phala+apūpa+nālikera+phala+anvitam)
+[betel+and](tāmbūlañca) [fruit+cake+coconut+fruit+endowed](phalāpūpanālikeraphalānvitam)
 
 ## mukta-m0-p27-v675
-Skanda(skandaḥ) Mā(mā) with-accompanied(sahite) or(vā) Skanda+without(skanda+hīne) or(vā) in-moon-crested(candra+śekhare)
+[Skanda](skando) [Mā](mā) [with-accompanied](sahite) [Skanda+without](skandahīne) [or](vā) [moon-crested](candraśekhare)

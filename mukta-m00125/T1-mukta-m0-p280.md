@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p280-v6976
-[part](bhāgaḥ) [non-part](abhāgaḥ) [thus](tathā) [to-be-known](jñeyaḥ) [hall+top](śālāgrahaḥ) [thus](iti) [remembered](smṛtā)
+[bhāga](bhāgo') [abhāga](abhāgas) [and](tathā) [to-be-known](jñeyaś) [śālāgraha](śālāgraha) [thus](iti) [remembered](smṛtā)
 
 ## mukta-m0-p280-v6977
-[mantra-reciter](mantravit) [and](ca) [Aśvajit](aśvajit) [proclaimed](proktaḥ) [and-thus](tathā) [Raji](rajiḥ) [declared](udāhṛtaḥ)
+[mantra-knower](mantrajic) [and](cā) [horse-conqueror](śvajit) [declared](proktas) [and](tathā) [raji](rajir) [stated](udāhṛdaḥ)
 
 ## mukta-m0-p280-v6978
-[Vaiśvānaraḥ](vaiśvānaraḥ) [Sulobhaḥ](sulobhaḥ) [and](ca) [Draviṇaḥ](draviṇaḥ) [and](ca) [Mahāśirāḥ](mahāśirāḥ)
+[vaiśvānara](vaiśvānaras) [sulobhā](sulobhā) [and](ca) [draviṇa](draviṇaś) [and](ca) [mahāśiras](mahāśirāḥ)
 
 ## mukta-m0-p280-v6979
-[Candratāpana](candratāpana) [named](saṃjñaḥ) [and](ca) [Sūkṣmaḥ](sūkṣmaḥ) [Niścandraḥ](niścandraḥ) [indeed](eva) [hi](hi)
+[candratāpana](candratāpana) [named](saṃjñaś) [and](ca) [sūkṣma](sūkṣmo) [niścandra](niścandra) [indeed](eva) [also](hi)
 
 ## mukta-m0-p280-v6980
-[Ābhilokaḥ](ābhilokaḥ) [Sukeśaḥ](sukeśaḥ) [and](ca) [Malayaḥ](malayaḥ) [Malakaḥ](malakaḥ) [and-thus](tathā)
+[ābhiloka](ābhilokaḥ) [sukeśa](sukeśaś) [and](ca) [malaya](malayo) [malaka](malakas) [and](tathā)
 
 ## mukta-m0-p280-v6981
-[Pramodaḥ](pramodaḥ) [Kumudaḥ](kumudaḥ) [and](ca) [Aśvagrīvaḥ](aśvagrīvaḥ) [Vaiśrava](vaiśrava) [named](saṃjñakaḥ)
+[pramoda](pramodaḥ) [kumuda](kumudaś) [and](cā) [horse-neck](śca+agrīvo) [vaiśrava](vaiśrava) [named](saṃjñakaḥ)
 
 ## mukta-m0-p280-v6982
-[Hiraṇyayuk](hiraṇyayuk) [Śatamakhaḥ](śatamakhaḥ) [Śambaraḥ](śambaraḥ) [Śarabhaḥ](śarabhaḥ) [Mayaḥ](mayaḥ)
+[hiraṇyuk](hiraṇya) [yuk](yuk) [śatamakha](śatamakhaś) [śaṃbara](śaṃbaraś) [śarabha](śarabho) [maya](mayaḥ)
 
 ## mukta-m0-p280-v6983
-[sixty-four](catuṣṣaṣṭiḥ) [and](ca) [of-names](saṃjñānām) [worships](pūjāḥ) [and](ca) [of-these](eṣām) [and](ca) [as-before](pūrvavat)
+[sixty-four](catuṣṣaṣṭiś) [and](ca) [of-names](saṃjñānāṃ) [worships](pūjāś) [and](ca) [of-these](eṣāṃ) [also](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p280-v6984
-[Subhāsvarāḥ](subhāsvarāḥ) [Amṛtāḥ](amṛtāḥ) [and](ca) [Agniṣvāttāḥ](agniṣvāttāḥ) [Upahutāḥ](upahutāḥ) [considered](matāḥ)
+[subhāsvara](subhāsvarā) [amṛta](amṛtāś) [and](cā) [agniṣvātta](agniṣvāttā) [upahuta](upahutā) [considered](matāḥ)
 
 ## mukta-m0-p280-v6985
-[Kravyādāḥ](kravyādāḥ) [Ājyapāḥ](ājyapāḥ) [and-indeed](ca-eva) [separately](pṛthak) [three](trayaḥ) [declared](udāhṛtāḥ)
+[kravyāda](kravyādā) [ājyapa](ājyapāś) [and](ca) [indeed](eva) [separately](pṛthak) [three](traya) [stated](udāhṛtāḥ)
 
 ## mukta-m0-p280-v6986
-[Agniṣvāttāḥ](agniṣvāttāḥ) [Bahirṣadaḥ](bahirṣadaḥ) [Somāḥ](somāḥ) [and](ca) [then](tataḥ) [considered](matāḥ)
+[agniṣvātta](agniṣvāttā) [barhiṣad](bahirṣadas) [soma](somāś) [and](ca) [then](tato) [considered](matāḥ)
 
 ## mukta-m0-p280-v6987
-[Agni](agniḥ) [Anagniḥ](anagniḥ) [Havyavāhaḥ](havyavāhaḥ) [Havissomyaḥ](havissaumyaḥ) [ten](daśa) [indeed](eva) [hi](hi)
+[agni](agny) [anagni](anagnir) [havyavāha](havyavāhā) [havis](havis) [saumya](saumyā) [ten](daśa) [indeed](eva) [also](hi)
 
 ## mukta-m0-p280-v6988
-[on-Nīlācala](nīlācale) [and](ca) [ṛṣis](ṛṣayaḥ) [to-be-worshipped](saṃpūjyāḥ) [Kāśyapa-ādayaḥ](kāśyapādayaḥ)
+[on-nīlācala](nīlācale) [and](ca) [sages](ṛṣayaḥ) [to-be-worshipped](saṃpūjyā) [kāśyapa-etc.](kāśyapa+ādayaḥ)
 
 ## mukta-m0-p280-v6989
-[Viśvāmitraḥ](viśvāmitraḥ) [Jamadagniḥ](jamadagniḥ) [Marīciḥ](marīciḥ) [and](ca) [then](tataḥ) [considered](mataḥ)
+[viśvāmitra](viśvāmitro) [jamadagni](jamadagni) [marīci](rmarīciś) [and](ca) [then](tato) [considered](mataḥ)
 
 ## mukta-m0-p280-v6990
-[Sanatkumāraḥ](sanatkumāraḥ) [Sanakaḥ](sanakaḥ) [Sanandaḥ](sanandaḥ) [and](ca) [Sanātanaḥ](sanātanaḥ)
+[sanatkumāra](sanatkumāras) [sanaka](sanakaḥ) [sananda](sanandaś) [and](ca) [sanātana](sanātanaḥ)
 
 ## mukta-m0-p280-v6991
-[Dvitaḥ](dvitaḥ) [Tritaḥ](tritaḥ) [and-then](atha) [Jābālī](jābālī) [Durvāsāḥ](durvāsāḥ) [Durvanītakaḥ](durvanītakaḥ)
+[dvita](dvitas) [trita](trito') [then](atha) [jābāli](jābālī) [durvāsas](durvāsā) [durvanītaka](durvanītakaḥ)
 
 ## mukta-m0-p280-v6992
-[Śunaḥśephaḥ](śunaḥśephaḥ) [Vidurathaḥ](vidurathaḥ) [Sādhvaṃsaḥ](sādhvaṃsaḥ) [Saṃvartaḥ](saṃvartaḥ) [thus-also](ityapi)
+[śunaḥśepha](śunaśśepho) [viduratha](vidurathas) [sādhvaṃsa](sādhvaṃ) [saṃvarta](ssaṃvarta) [thus](iti) [also](api)
 
 ## mukta-m0-p280-v6993
-[Yavakrītaḥ](yavakrītaḥ) [Devarātau](devarātau) [Devarājaḥ](devarājaḥ) [Ajakaḥ](ajakaḥ) [and-thus](tathā)
+[yavakrīta](yavakrīta) [devarāta](devarātau) [devarāja](devarājo') [ajaka](ajakas) [and](tathā)
 
 ## mukta-m0-p280-v6994
-[by-Rg](ṛg) [Yajus](yajus) [Sāma](sāma) [mantras](mantraiḥ) [or](vā) [to-be-worshipped](pūjyāḥ) [or](vā) [by-their-own-names](svasvanāmabhiḥ)
+[ṛg-yajus-sāman](ṛg+yajus+sāma) [with-mantras](mantrair) [or](vā) [to-be-worshipped](pūjyā) [or](vā) [with-own-names](sva+sva+nāmabhiḥ)
 
 ## mukta-m0-p280-v6995
-[Anantaḥ](anantaḥ) [Vāsukiḥ](vāsukiḥ) [and-indeed](ca-eva) [Takṣaḥ](takṣaḥ) [Kārkoṭakaḥ](kārkoṭakaḥ) [remembered](smṛtaḥ)
+[ananta](ananto) [vāsuki](vāsukiś) [and](ca) [indeed](eva) [takṣa](takṣaḥ) [kārkoṭaka](kārkoṭakaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p280-v6996
-[Gulikaḥ](gulikaḥ) [and](ca) [should-worship](yajet) [eight](aṣṭa) [mixed](vimiśraiḥ) [incense+flowers](gandha-puṣpakaiḥ)
+[gulika](gulikaś) [and](ca) [one-should-worship](yajed) [eight](aṣṭa) [with-mixed](vimiśrair) [fragrance-flowers](gandha+puṣpakaiḥ)
 
 ## mukta-m0-p280-v6997
-[gods](devāḥ) [to-be-worshipped](pūjyāḥ) [on-Mahāmeru](mahāmerau) [thirty-three](trayastriṃśat) [and](ca) [they](te) [considered](matāḥ)
+[gods](devā) [to-be-worshipped](pūjyāḥ) [on-mahāmeru](mahāmerau) [thirty-three](trastriṃśac) [and](ca) [they](te) [considered](matāḥ)
 
 ## mukta-m0-p280-v6998
-[Pratyuṣaḥ](pratyuṣaḥ) [and](ca) [Prabhāsaḥ](prabhāsaḥ) [Vasavaḥ](vasavaḥ) [eight](aṣṭau) [these](ime) [considered](matāḥ)
+[pratyuṣa](pratyuṣaś) [and](ca) [prabhāsa](prabhāsaś) [and](ca) [vasus](vasavo') [eight](ṣṭā) [these](vime) [considered](matāḥ)
 
 ## mukta-m0-p280-v6999
-[Haraḥ](haraḥ) [and](ca) [Bahurūpaḥ](bahurūpaḥ) [and](ca) [Tryambakaḥ](tryambakaḥ) [name](nāma) [Rudrakaḥ](rudrakaḥ)
+[hara](haraś) [and](ca) [bahurūpa](bahurūpaś) [and](ca) [tryambaka](tryambako) [named](nāma) [rudraka](rudrakaḥ)
 
 ## mukta-m0-p280-v7000
-[Rudrāḥ](rudrāḥ) [eleven](ekādaśa) [proclaimed](proktāḥ) [Indraḥ](indraḥ) [Dhātā](dhātā) [Bhagaḥ](bhagaḥ) [Aryamā](aryamā)
+[rudras](rudrā) [eleven](ekādaśa) [declared](proktā) [indra](indro) [dhātṛ](dhātā) [bhaga](bhago') [aryaman](ryamā)

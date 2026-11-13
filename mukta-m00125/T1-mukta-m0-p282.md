@@ -17,7 +17,7 @@
 [tataḥ](tataḥ) [paścima+vedyām](paścimavedyāṃ) [tu](tu) [ghṛtena](ghṛtenā) [pūritān](pūritān) [ghaṭān](ghaṭān)
 
 ## mukta-m0-p282-v7031
-[aṣṭāviṃśatim](aṣṭāviṃśatim) [aṣṭau](aṣṭau) [vā](vā) [aṣṭa+uttara+śatam](aṣṭottaraśataṃ) [tu](tu) [vā](vā)
+[aṣṭā+viṃśatim](aṣṭāviṃśatim) [aṣṭau](aṣṭau) [vā](vā) [aṣṭa+uttara+śatam](aṣṭottaraśataṃ) [tu](tu) [vā](vā)
 
 ## mukta-m0-p282-v7032
 [sūtra+vastra+ādi](sūtravastrādi) [saṃyuktān](saṃyuktāṃs) [teṣu](teṣu) [dravyāṇi](dravyāṇi) [vinyaset](vinyaset)
@@ -62,13 +62,13 @@
 [geya+maṅgala+śabdaiḥ](geyamaṅgala) (śabdaiś) [ca](ca) [śaiva+sthāpana+pūrvakaiḥ](śaivasthāpana) (pūrvakaiḥ)
 
 ## mukta-m0-p282-v7046
-[kambalena](kambalena) [samācchādya](samācchādyā) [abhiṣiñcet](bhiṣiñced) [uttara+mukhaḥ](uttarā) (mukhaḥ)
+[kambalena](kambalena) [samācchādya](samācchādyā) [abhiṣiñcet](abhiṣiñced) [uttara+mukhaḥ](uttarā) (mukhaḥ)
 
 ## mukta-m0-p282-v7047
-[ājayam](ājayaṃ) [surāṇām](surāṇām) [āhāra](āhāra) [ājye](ājye) [lokāḥ](lokāḥ) [pratiṣṭitāḥ](pratiṣṭitā)
+[ājayam](ājayaṃ) [surāṇām](surāṇām) [āhāra](āhāra) [ājye](ājye) [lokāḥ](lokāḥ) [pratiṣṭitā](pratiṣṭitā)
 
 ## mukta-m0-p282-v7048
-[sarvam](sarvaṃ) [tat](tat) [ājya+saṃsparśāt](ājya) (saṃsparśāt) [praṇāśam](praṇāśam) [upagaccha](upagaccha) [tu](tu)
+[sarvam](sarvaṃ) [tat](tad) [ājya+saṃsparśāt](ājya) (saṃsparśāt) [praṇāśam](praṇāśam) [upagaccha](upagaccha) [tu](tu)
 
 ## mukta-m0-p282-v7049
 [vividhaiḥ](vividhaiḥ) [phala+puṣpaiḥ](phalapuṣpaiś) [ca](ca) [khādubhiḥ](khādubhiś) [ca](ca) [sugandhakaiḥ](sugandhakaiḥ)
