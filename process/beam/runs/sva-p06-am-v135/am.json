@@ -1,16 +1,15 @@
 {
  "song": "sva-p06",
  "verse": 135,
- "question": "What name-formation follows the salutation to Śiva-fire?",
+ "question": "What ritual act is performed by the formula śivāgnirbhava namaḥ?",
  "premises": [
-  "becoming Śiva-fire is commanded",
-  "salutation is given",
-  "thus marks quotation",
-  "name-formation is named"
+  "The formula śivāgnirbhava namaḥ is given.",
+  "The term iti marks it as a quoted formula.",
+  "Nāmakalpanam denotes assignment of a name."
  ],
- "inference": "The verse joins the Śiva-fire salutation with a name-formation formula.",
+ "inference": "The formula is used to assign a name in the ritual.",
  "uncertainties": [
-  "exact ritual referent of śivāgni"
+  "The entity receiving the name is not specified in these tokens."
  ],
- "plain_english": "Become Śiva-fire; salutation; thus is the name-formation."
+ "plain_english": "The formula 'śivāgnirbhava namaḥ' constitutes the assignment of a name."
 }
