@@ -7,37 +7,39 @@
     {
      "surface": "gopitavyaṃ",
      "gloss": "to-be-concealed",
-     "grounds": "token as given",
-     "morph": "neut.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "gerundive.n.sg.n"
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
-     "grounds": "token as given",
-     "morph": "instr.sg"
+     "grounds": "legacy hint",
+     "morph": "instr.sg.m"
     },
     {
      "surface": "martyaloke",
      "gloss": "in-mortal-world",
-     "grounds": "token as given",
-     "morph": "loc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     },
     {
      "surface": "narādhame",
-     "gloss": "among-lowest-men",
-     "grounds": "token as given",
-     "morph": "loc.sg"
+     "gloss": "among-lowest-of-men",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     }
    ],
-   "question": "What must be concealed with effort in the mortal world among the lowest men?",
+   "question": "Should the concealed teaching be guarded with effort among the lowest men in the mortal world?",
    "premises": [
-    "concealment requires effort",
-    "mortal world contains lowest men",
-    "the teaching is protected"
+    "concealed teaching requires effort",
+    "mortal world contains unworthy men",
+    "guarding prevents misuse"
    ],
-   "inference": "The secret knowledge must be guarded carefully among unworthy people.",
-   "uncertainties": [],
-   "plain_english": "It must be concealed with effort in the mortal world among the lowest of men."
+   "inference": "therefore conceal it with effort",
+   "uncertainties": [
+    "scope of concealment unclear"
+   ],
+   "plain_english": "It should be concealed with effort among the lowest men."
   },
   {
    "verse": 102,
@@ -45,31 +47,33 @@
     {
      "surface": "dātavyaṃ",
      "gloss": "to-be-given",
-     "grounds": "token as given",
-     "morph": "neut.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "gerundive.n.sg.n"
     },
     {
      "surface": "pūrvasiddhasya",
-     "gloss": "of-previously-accomplished",
-     "grounds": "token as given",
-     "morph": "gen.sg"
+     "gloss": "of-the-previously-accomplished",
+     "grounds": "legacy hint",
+     "morph": "gen.sg.m"
     },
     {
      "surface": "abdameka+parīkṣitam",
      "gloss": "tested-for-one-year",
-     "grounds": "token as given",
-     "morph": "compound"
+     "grounds": "legacy hint",
+     "morph": "compound.acc.sg.n"
     }
    ],
    "question": "To whom should the teaching be given after one year of testing?",
    "premises": [
-    "giving follows prior accomplishment",
-    "testing lasts one year",
-    "the recipient must be verified"
+    "teaching is to be given",
+    "recipient must be previously accomplished",
+    "testing lasts one year"
    ],
-   "inference": "The teaching is given only to one previously accomplished and tested for a year.",
-   "uncertainties": [],
-   "plain_english": "It should be given to one previously accomplished, tested for one year."
+   "inference": "therefore give it to the tested accomplished recipient",
+   "uncertainties": [
+    "exact testing criteria unclear"
+   ],
+   "plain_english": "It should be given to one previously accomplished and tested for a year."
   },
   {
    "verse": 103,
@@ -77,31 +81,33 @@
     {
      "surface": "candradvīpa+vinirgate",
      "gloss": "emerged-from-candradīpa",
-     "grounds": "token as given",
-     "morph": "loc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     },
     {
      "surface": "pañcamaḥ",
      "gloss": "fifth",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     }
    ],
    "question": "Which chapter emerges from Candradīpa in this sequence?",
    "premises": [
-    "emergence is from candradīpa",
-    "the chapter is fifth",
-    "the chapter is named"
+    "chapter emerges from candradīpa",
+    "it is numbered fifth",
+    "sequence is being enumerated"
    ],
-   "inference": "The fifth chapter emerges from Candradīpa.",
-   "uncertainties": [],
-   "plain_english": "The fifth chapter emerged from Candradīpa."
+   "inference": "therefore this is the fifth chapter",
+   "uncertainties": [
+    "relation to prior chapters unclear"
+   ],
+   "plain_english": "The fifth chapter emerges from Candradīpa."
   },
   {
    "verse": 104,
@@ -109,43 +115,45 @@
     {
      "surface": "tvat+prasādena",
      "gloss": "by-your-grace",
-     "grounds": "token as given",
-     "morph": "instr.sg"
+     "grounds": "legacy hint",
+     "morph": "instr.sg.m"
     },
     {
      "surface": "kauleśa",
      "gloss": "o-lord-of-kaulas",
-     "grounds": "token as given",
-     "morph": "voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.m"
     },
     {
      "surface": "jñāto",
      "gloss": "known",
-     "grounds": "token as given",
-     "morph": "ppp.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.1"
     },
     {
      "surface": "kaula+nirṇayaḥ",
      "gloss": "determination-of-kaula",
-     "grounds": "token as given",
-     "morph": "compound.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     }
    ],
    "question": "By whose grace is the determination of Kaula known?",
    "premises": [
-    "grace enables knowledge",
-    "the lord of Kaulas is addressed",
-    "the determination is known"
+    "knowledge comes by grace",
+    "lord of Kaulas grants grace",
+    "determination of Kaula is known"
    ],
-   "inference": "By the grace of the lord of Kaulas the Kaula determination is known.",
-   "uncertainties": [],
-   "plain_english": "By your grace, O lord of Kaulas, I have known the determination of Kaula."
+   "inference": "therefore it is known by your grace",
+   "uncertainties": [
+    "scope of kaula determination unclear"
+   ],
+   "plain_english": "By your grace, O lord of Kaulas, I know the determination of Kaula."
   },
   {
    "verse": 105,
@@ -153,54 +161,56 @@
     {
      "surface": "ko",
      "gloss": "who",
-     "grounds": "token as given",
-     "morph": "interrogative.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "asau",
      "gloss": "that",
-     "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "jīvaḥ",
      "gloss": "soul",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "samuddiṣṭaḥ",
      "gloss": "declared",
-     "grounds": "token as given",
-     "morph": "ppp.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "kiṃ",
      "gloss": "what",
-     "grounds": "token as given",
-     "morph": "interrogative"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "jīva+svarūpakam",
      "gloss": "nature-of-the-soul",
-     "grounds": "token as given",
-     "morph": "compound.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     }
    ],
    "question": "Who is the declared soul and what is its nature?",
    "premises": [
-    "the soul is declared",
+    "a soul is declared",
     "its identity is questioned",
     "its nature is questioned"
    ],
-   "inference": "The verse asks who the declared soul is and what its nature is.",
-   "uncertainties": [],
+   "inference": "therefore the verse asks both identity and nature",
+   "uncertainties": [
+    "answer not given in this verse"
+   ],
    "plain_english": "Who is that declared soul, and what is the nature of the soul?"
   },
   {
@@ -209,61 +219,63 @@
     {
      "surface": "kasmiṃś",
      "gloss": "in-what",
-     "grounds": "token as given",
-     "morph": "loc.interrogative"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "layaṃ",
      "gloss": "dissolution",
-     "grounds": "token as given",
-     "morph": "acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "yāti",
      "gloss": "goes",
-     "grounds": "token as given",
-     "morph": "verb.3sg"
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres root yā"
     },
     {
      "surface": "tat+sarvaṃ",
      "gloss": "that-all",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "kathayasva",
      "gloss": "tell",
-     "grounds": "token as given",
-     "morph": "verb.2sg.imp"
+     "grounds": "legacy hint",
+     "morph": "2.sg.impv.act root kath"
     },
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "token as given",
-     "morph": "pron.dat.sg"
+     "grounds": "legacy hint",
+     "morph": "dat.sg.1"
     }
    ],
    "question": "In what does dissolution occur and what should be told?",
    "premises": [
-    "dissolution has a locus",
-    "all of it is requested",
-    "the speaker asks to be told"
+    "dissolution is asked about",
+    "all related matters are included",
+    "speaker requests teaching"
    ],
-   "inference": "The verse asks in what dissolution occurs and requests full explanation.",
-   "uncertainties": [],
-   "plain_english": "In what indeed does dissolution occur? Tell me all of that."
+   "inference": "therefore tell all about dissolution",
+   "uncertainties": [
+    "target of dissolution unspecified"
+   ],
+   "plain_english": "In what does dissolution occur? Tell me all of that."
   },
   {
    "verse": 107,
@@ -271,43 +283,45 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "niṣkalaṃ",
      "gloss": "partless",
-     "grounds": "token as given",
-     "morph": "adj.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "nityaṃ",
      "gloss": "eternal",
-     "grounds": "token as given",
-     "morph": "adj.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "nirāmaya+nirañjanam",
      "gloss": "free-from-disease+stainless",
-     "grounds": "token as given",
-     "morph": "compound.adj.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     }
    ],
-   "question": "What are the supreme attributes of that partless eternal being?",
+   "question": "What are the qualities of the supreme partless eternal reality?",
    "premises": [
-    "the being is supreme",
+    "reality is supreme",
     "it is partless and eternal",
     "it is free from disease and stain"
    ],
-   "inference": "The supreme being is partless, eternal, disease-free, and stainless.",
-   "uncertainties": [],
-   "plain_english": "He is supreme, partless, eternal, free from disease and stainless."
+   "inference": "therefore it is pure and unchanging",
+   "uncertainties": [
+    "relation to soul unclear"
+   ],
+   "plain_english": "He is supreme, partless, eternal, free from disease and stain."
   },
   {
    "verse": 108,
@@ -315,61 +329,63 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "jīvaḥ",
      "gloss": "soul",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "parataro",
      "gloss": "supreme",
-     "grounds": "token as given",
-     "morph": "adj.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "yas",
      "gloss": "who",
-     "grounds": "token as given",
-     "morph": "rel.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "haṃsaḥ",
      "gloss": "haṃsa",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "śakti+pudgalaḥ",
      "gloss": "power+individual",
-     "grounds": "token as given",
-     "morph": "compound.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     }
    ],
    "question": "Who is the supreme soul called Haṃsa?",
    "premises": [
-    "the soul is supreme",
+    "soul is supreme",
     "it is called haṃsa",
     "it is power plus individual"
    ],
-   "inference": "The supreme soul is Haṃsa, power combined with individual.",
-   "uncertainties": [],
-   "plain_english": "He is the supreme soul; indeed he is Haṃsa, power and individual."
+   "inference": "therefore haṃsa names the supreme soul",
+   "uncertainties": [
+    "meaning of power+individual unclear"
+   ],
+   "plain_english": "That soul is supreme; indeed he is Haṃsa, power and individual."
   },
   {
    "verse": 109,
@@ -377,26 +393,26 @@
     {
      "surface": "samīra+pūrako",
      "gloss": "wind-filled",
-     "grounds": "token as given",
-     "morph": "compound.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "vāyuḥ",
      "gloss": "air",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "sarva+jīveṣu",
      "gloss": "in-all-beings",
-     "grounds": "token as given",
-     "morph": "loc.pl"
+     "grounds": "legacy hint",
+     "morph": "loc.pl.m"
     },
     {
      "surface": "saṃsthitam",
      "gloss": "situated",
-     "grounds": "token as given",
-     "morph": "ppp.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     }
    ],
    "question": "Where is the wind-filled air situated?",
@@ -405,8 +421,10 @@
     "it is situated",
     "it is in all beings"
    ],
-   "inference": "The wind-filled air is situated in all beings.",
-   "uncertainties": [],
+   "inference": "therefore air pervades all beings",
+   "uncertainties": [
+    "physiological mapping unclear"
+   ],
    "plain_english": "The wind-filled air is situated in all beings."
   },
   {
@@ -415,42 +433,44 @@
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "deha+tyakta+mātreṇa",
      "gloss": "upon-merely-leaving-the-body",
-     "grounds": "token as given",
-     "morph": "instr.compound"
+     "grounds": "legacy hint",
+     "morph": "instr.sg.n"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "śivo",
      "gloss": "śiva",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "nigadyate",
      "gloss": "is-called",
-     "grounds": "token as given",
-     "morph": "verb.3sg.pass"
+     "grounds": "legacy hint",
+     "morph": "3.sg.pass-pres root gad"
     }
    ],
-   "question": "What is he called upon merely leaving the body?",
+   "question": "What is one called upon merely leaving the body?",
    "premises": [
-    "leaving the body is the condition",
-    "the supreme is named",
-    "he is called Śiva"
+    "leaving body occurs",
+    "supreme state follows",
+    "that state is called śiva"
    ],
-   "inference": "Upon merely leaving the body he is called supreme Śiva.",
-   "uncertainties": [],
+   "inference": "therefore one becomes śiva",
+   "uncertainties": [
+    "condition of leaving body unclear"
+   ],
    "plain_english": "Upon merely leaving the body, he is called supreme Śiva."
   },
   {
@@ -459,37 +479,39 @@
     {
      "surface": "karṇa+sthaṃ",
      "gloss": "abiding-in-the-ear",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "śrūyate",
      "gloss": "is-heard",
-     "grounds": "token as given",
-     "morph": "verb.3sg.pass"
+     "grounds": "legacy hint",
+     "morph": "3.sg.pass-pres root śru"
     },
     {
      "surface": "devi",
      "gloss": "o-goddess",
-     "grounds": "token as given",
-     "morph": "voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "pāramparya+krama+āgatam",
      "gloss": "come-down-through-tradition",
-     "grounds": "token as given",
-     "morph": "compound.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     }
    ],
-   "question": "How is the tradition-abiding teaching heard?",
+   "question": "How is the teaching that abides in the ear received?",
    "premises": [
-    "it abides in the ear",
+    "teaching abides in ear",
     "it is heard",
     "it comes through tradition"
    ],
-   "inference": "The teaching abiding in the ear is heard as coming through tradition.",
-   "uncertainties": [],
-   "plain_english": "Abiding in the ear, it is heard, O goddess, having come down through tradition."
+   "inference": "therefore it is received by traditional hearing",
+   "uncertainties": [
+    "exact transmission lineage unclear"
+   ],
+   "plain_english": "O goddess, what abides in the ear is heard, having come down through tradition."
   },
   {
    "verse": 112,
@@ -497,42 +519,44 @@
     {
      "surface": "anena",
      "gloss": "by-this",
-     "grounds": "token as given",
-     "morph": "pron.instr.sg"
+     "grounds": "legacy hint",
+     "morph": "instr.sg.m"
     },
     {
      "surface": "jñāna+mātreṇa",
      "gloss": "mere-knowledge",
-     "grounds": "token as given",
-     "morph": "instr.compound"
+     "grounds": "legacy hint",
+     "morph": "instr.sg.n"
     },
     {
      "surface": "śrutena",
      "gloss": "heard",
-     "grounds": "token as given",
-     "morph": "ppp.instr.sg"
+     "grounds": "legacy hint",
+     "morph": "instr.sg.m"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "varānane",
      "gloss": "o-fair-faced-one",
-     "grounds": "token as given",
-     "morph": "voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "By what mere knowledge and hearing is realization attained?",
+   "question": "What is accomplished by mere knowledge and hearing?",
    "premises": [
-    "mere knowledge is the means",
-    "hearing is included",
-    "the fair-faced one is addressed"
+    "mere knowledge is sufficient",
+    "hearing also contributes",
+    "fair-faced one is addressed"
    ],
-   "inference": "By mere knowledge and hearing, realization is attained.",
-   "uncertainties": [],
+   "inference": "therefore knowledge and hearing suffice",
+   "uncertainties": [
+    "specific result unspecified"
+   ],
    "plain_english": "By this mere knowledge and hearing, O fair-faced one."
   },
   {
@@ -541,49 +565,51 @@
     {
      "surface": "ṣaṇmāsād",
      "gloss": "from-six-months",
-     "grounds": "token as given",
-     "morph": "abl.sg"
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
     },
     {
      "surface": "abhyased",
      "gloss": "should-practice",
-     "grounds": "token as given",
-     "morph": "verb.3sg.opt"
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt.act root abhyas"
     },
     {
      "surface": "yas",
      "gloss": "who",
-     "grounds": "token as given",
-     "morph": "rel.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "kāṣāyaṃ",
      "gloss": "ochre-robe",
-     "grounds": "token as given",
-     "morph": "acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "bandha+varjitam",
      "gloss": "free-from-bondage",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     }
    ],
-   "question": "What practice for six months frees one from bondage?",
+   "question": "What should one practice for six months to become free from bondage?",
    "premises": [
     "practice lasts six months",
-    "the ochre robe is involved",
-    "bondage is removed"
+    "ochre robe is involved",
+    "freedom from bondage results"
    ],
-   "inference": "Practicing for six months with the ochre robe frees one from bondage.",
-   "uncertainties": [],
-   "plain_english": "Whoever practices for six months, indeed the ochre robe free from bondage."
+   "inference": "therefore practice with ochre robe for six months",
+   "uncertainties": [
+    "exact practice unspecified"
+   ],
+   "plain_english": "Who practices for six months with ochre robe becomes free from bondage."
   },
   {
    "verse": 114,
@@ -591,31 +617,33 @@
     {
      "surface": "sarva+vyādhi+vinirmukto",
      "gloss": "freed-from-all-diseases",
-     "grounds": "token as given",
-     "morph": "compound.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "yogibhiḥ",
      "gloss": "with-yogis",
-     "grounds": "token as given",
-     "morph": "instr.pl"
+     "grounds": "legacy hint",
+     "morph": "instr.pl.m"
     },
     {
      "surface": "saha+melakam",
      "gloss": "together+union",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     }
    ],
    "question": "What union occurs for one freed from all diseases?",
    "premises": [
-    "freedom from all diseases",
-    "union with yogis",
+    "freedom from all diseases occurs",
+    "union with yogis occurs",
     "togetherness is stated"
    ],
-   "inference": "One freed from all diseases has union together with yogis.",
-   "uncertainties": [],
-   "plain_english": "Freed from all diseases, union together with yogis."
+   "inference": "therefore one joins yogis in union",
+   "uncertainties": [
+    "nature of union unclear"
+   ],
+   "plain_english": "Freed from all diseases, one has union together with yogis."
   },
   {
    "verse": 115,
@@ -623,55 +651,57 @@
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "token as given",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "te",
      "gloss": "to-you",
-     "grounds": "token as given",
-     "morph": "pron.dat.sg"
+     "grounds": "legacy hint",
+     "morph": "dat.sg.2"
     },
     {
      "surface": "jīva+abhyāsaṃ",
      "gloss": "practice-of-the-soul",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "token as given",
-     "morph": "ppp.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "te",
      "gloss": "to-you",
-     "grounds": "token as given",
-     "morph": "pron.dat.sg"
+     "grounds": "legacy hint",
+     "morph": "dat.sg.2"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "bhairavi",
      "gloss": "o-bhairavī",
-     "grounds": "token as given",
-     "morph": "voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
    "question": "What practice of the soul has been told to Bhairavī?",
    "premises": [
-    "the practice concerns the soul",
-    "it has been told",
-    "Bhairavī is addressed"
+    "practice of soul is described",
+    "it is told to you",
+    "bhairavī is addressed"
    ],
-   "inference": "The practice of the soul has been told to Bhairavī.",
-   "uncertainties": [],
-   "plain_english": "This practice of the soul has been told to you, and to you, O Bhairavī."
+   "inference": "therefore the soul practice is communicated",
+   "uncertainties": [
+    "details of practice unclear"
+   ],
+   "plain_english": "This practice of the soul has been told to you, O Bhairavī."
   },
   {
    "verse": 116,
@@ -679,31 +709,33 @@
     {
      "surface": "sarva+bhāva+upapannasya",
      "gloss": "to-one-endowed-with-all-states",
-     "grounds": "token as given",
-     "morph": "compound.gen.sg"
+     "grounds": "legacy hint",
+     "morph": "gen.sg.m"
     },
     {
      "surface": "dātavyaṃ",
      "gloss": "to-be-given",
-     "grounds": "token as given",
-     "morph": "neut.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "kṛta+niścaye",
      "gloss": "to-one-of-resolved-mind",
-     "grounds": "token as given",
-     "morph": "compound.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     }
    ],
    "question": "To whom should the teaching be given?",
    "premises": [
-    "the recipient has all states",
-    "the mind is resolved",
-    "the teaching is to be given"
+    "recipient is endowed with all states",
+    "recipient has resolved mind",
+    "teaching is to be given"
    ],
-   "inference": "The teaching is given to one endowed with all states and resolved mind.",
-   "uncertainties": [],
-   "plain_english": "To one endowed with all states, to be given, to one of resolved mind."
+   "inference": "therefore give it to the resolved endowed recipient",
+   "uncertainties": [
+    "all states undefined"
+   ],
+   "plain_english": "It should be given to one endowed with all states and of resolved mind."
   },
   {
    "verse": 117,
@@ -711,55 +743,57 @@
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "deyaṃ",
      "gloss": "to-be-given",
-     "grounds": "token as given",
-     "morph": "neut.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "kaulikaṃ",
      "gloss": "kaula",
-     "grounds": "token as given",
-     "morph": "adj.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "sāraṃ",
      "gloss": "essence",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "yoginīnām",
      "gloss": "of-yoginīs",
-     "grounds": "token as given",
-     "morph": "gen.pl"
+     "grounds": "legacy hint",
+     "morph": "gen.pl.f"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "sambhavam",
      "gloss": "origin",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     }
    ],
-   "question": "What Kaula essence should not be given?",
+   "question": "Should the Kaula essence originating from Yoginīs be given?",
    "premises": [
-    "giving is prohibited",
-    "the essence is kaula",
-    "it originates from yoginīs"
+    "kaula essence is considered",
+    "it originates from yoginīs",
+    "it is not to be given"
    ],
-   "inference": "The Kaula essence originating from yoginīs should not be given.",
-   "uncertainties": [],
-   "plain_english": "The Kaula essence, indeed the origin of yoginīs, is not to be given."
+   "inference": "therefore do not give it",
+   "uncertainties": [
+    "reason for withholding unclear"
+   ],
+   "plain_english": "The Kaula essence originating from Yoginīs should not be given."
   },
   {
    "verse": 118,
@@ -767,42 +801,44 @@
     {
      "surface": "adya",
      "gloss": "today",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "me",
      "gloss": "my",
-     "grounds": "token as given",
-     "morph": "pron.gen.sg"
+     "grounds": "legacy hint",
+     "morph": "gen.sg.1"
     },
     {
      "surface": "nirmalaṃ",
      "gloss": "pure",
-     "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "deham",
      "gloss": "body",
-     "grounds": "token as given",
-     "morph": "acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "ajñāna+paṭala+āhatam",
      "gloss": "struck-by-veil-of-ignorance",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     }
    ],
    "question": "What has struck the pure body today?",
    "premises": [
-    "the body is pure",
-    "today is the time",
-    "ignorance's veil strikes it"
+    "body is pure",
+    "veil of ignorance strikes it",
+    "today is the time"
    ],
-   "inference": "Today the pure body is struck by the veil of ignorance.",
-   "uncertainties": [],
+   "inference": "therefore ignorance veils the body",
+   "uncertainties": [
+    "remedy unspecified"
+   ],
    "plain_english": "Today my pure body is struck by the veil of ignorance."
   },
   {
@@ -811,48 +847,50 @@
     {
      "surface": "sāmprataṃ",
      "gloss": "now",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "śrotum",
      "gloss": "to-hear",
-     "grounds": "token as given",
-     "morph": "inf."
+     "grounds": "legacy hint",
+     "morph": "inf"
     },
     {
      "surface": "icchāmi",
      "gloss": "I-wish",
-     "grounds": "token as given",
-     "morph": "verb.1sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres root iṣ"
     },
     {
      "surface": "kālasya",
      "gloss": "of-time",
-     "grounds": "token as given",
-     "morph": "gen.sg"
+     "grounds": "legacy hint",
+     "morph": "gen.sg.m"
     },
     {
      "surface": "vañcanaṃ",
      "gloss": "deception",
-     "grounds": "token as given",
-     "morph": "acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "token as given",
-     "morph": "adj.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
     }
    ],
-   "question": "What auspicious deception of time does the speaker wish to hear?",
+   "question": "What auspicious deception of time does one wish to hear now?",
    "premises": [
-    "the wish is to hear",
-    "time is involved",
-    "the deception is auspicious"
+    "hearing is desired now",
+    "time has deception",
+    "deception is auspicious"
    ],
-   "inference": "The speaker wishes to hear the auspicious deception of time.",
-   "uncertainties": [],
+   "inference": "therefore ask about auspicious time deception",
+   "uncertainties": [
+    "meaning of deception unclear"
+   ],
    "plain_english": "Now I wish to hear the auspicious deception of time."
   },
   {
@@ -861,49 +899,51 @@
     {
      "surface": "kathayāmi",
      "gloss": "I-tell",
-     "grounds": "token as given",
-     "morph": "verb.1sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres root kath"
     },
     {
      "surface": "na",
      "gloss": "no",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "sandeho",
      "gloss": "doubt",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "mṛtyur",
      "gloss": "death",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "token as given",
-     "morph": "verb.3sg"
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres root naś"
     }
    ],
-   "question": "How is death destroyed according to the telling?",
+   "question": "How is death destroyed according to the teaching?",
    "premises": [
-    "the speaker tells",
-    "there is no doubt",
+    "teaching is given",
+    "no doubt remains",
     "death is destroyed"
    ],
-   "inference": "Death is destroyed as told, without doubt.",
-   "uncertainties": [],
-   "plain_english": "I tell, no doubt, as death is destroyed."
+   "inference": "therefore death can be destroyed",
+   "uncertainties": [
+    "method not stated here"
+   ],
+   "plain_english": "I tell without doubt how death is destroyed."
   },
   {
    "verse": 121,
@@ -911,43 +951,45 @@
     {
      "surface": "amṛta+agraṃ",
      "gloss": "at-tip-of-nectar",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.n"
     },
     {
      "surface": "rasa+agreṇa",
      "gloss": "with-essence-of-juice",
-     "grounds": "token as given",
-     "morph": "instr.compound"
+     "grounds": "legacy hint",
+     "morph": "instr.sg.n"
     },
     {
      "surface": "dahyamāna",
      "gloss": "burning",
-     "grounds": "token as given",
-     "morph": "ppp.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "sudhīr",
      "gloss": "even-wise",
-     "grounds": "token as given",
-     "morph": "adj.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     }
    ],
-   "question": "What happens to even the wise when burning at the tip of nectar?",
+   "question": "What happens to the wise when burning at the tip of nectar?",
    "premises": [
-    "nectar tip is the place",
-    "essence of juice is used",
-    "burning affects even the wise"
+    "nectar tip is involved",
+    "essence of juice is involved",
+    "even the wise burns"
    ],
-   "inference": "Even the wise burn at the tip of nectar with the essence of juice.",
-   "uncertainties": [],
-   "plain_english": "At the tip of nectar, with the essence of juice, even the wise burn."
+   "inference": "therefore burning affects even the wise",
+   "uncertainties": [
+    "physiological process unclear"
+   ],
+   "plain_english": "Even the wise burns at the tip of nectar with the essence of juice."
   },
   {
    "verse": 122,
@@ -955,43 +997,45 @@
     {
      "surface": "rasanā+tālu+mūle",
      "gloss": "at-root-of-tongue-and-palate",
-     "grounds": "token as given",
-     "morph": "loc.compound"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.n"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "token as given",
-     "morph": "abs."
+     "grounds": "legacy hint",
+     "morph": "gerund"
     },
     {
      "surface": "vāyuṃ",
      "gloss": "air",
-     "grounds": "token as given",
-     "morph": "acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "pibec",
      "gloss": "should-drink",
-     "grounds": "token as given",
-     "morph": "verb.3sg.opt"
+     "grounds": "legacy hint",
+     "morph": "3.sg.opt.act root pā"
     },
     {
      "surface": "chanaiḥ",
      "gloss": "slowly",
-     "grounds": "token as given",
-     "morph": "indecl."
+     "grounds": "legacy hint",
+     "morph": "instr.pl.m"
     }
    ],
    "question": "How should air be drunk at the root of tongue and palate?",
    "premises": [
-    "the location is root of tongue and palate",
-    "air is made",
-    "it should be drunk slowly"
+    "air is to be drunk",
+    "it is placed at root of tongue and palate",
+    "drinking is slow"
    ],
-   "inference": "Air should be drunk slowly after making it at the root of tongue and palate.",
-   "uncertainties": [],
-   "plain_english": "Having made air at the root of tongue and palate, one should drink it slowly."
+   "inference": "therefore drink air slowly there",
+   "uncertainties": [
+    "exact technique unclear"
+   ],
+   "plain_english": "Having placed air at the root of tongue and palate, one should drink slowly."
   },
   {
    "verse": 123,
@@ -999,36 +1043,38 @@
     {
      "surface": "abdam+ekaṃ",
      "gloss": "for-one-year",
-     "grounds": "token as given",
-     "morph": "compound.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "token as given",
-     "morph": "compound.indecl."
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "token as given",
-     "morph": "compound.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "token as given",
-     "morph": "verb.3sg"
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres root naś"
     }
    ],
-   "question": "What is destroyed when practiced for one year?",
+   "question": "What is destroyed when the practice is done for one year?",
    "premises": [
     "practice lasts one year",
     "old age and death are named",
     "they are destroyed"
    ],
-   "inference": "Old age and death are destroyed when practiced for one year.",
-   "uncertainties": [],
+   "inference": "therefore one year of practice destroys old age and death",
+   "uncertainties": [
+    "practice details unclear"
+   ],
    "plain_english": "When practiced for one year, old age and death are destroyed."
   },
   {
@@ -1037,55 +1083,57 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "token as given",
-     "morph": "nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "kramate",
      "gloss": "enters",
-     "grounds": "token as given",
-     "morph": "verb.3sg"
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-pres root kram"
     },
     {
      "surface": "dehe",
      "gloss": "body",
-     "grounds": "token as given",
-     "morph": "loc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     },
     {
      "surface": "daṃśito",
      "gloss": "even-bitten",
-     "grounds": "token as given",
-     "morph": "ppp.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "token as given",
+     "grounds": "legacy hint",
      "morph": "indecl."
     },
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "token as given",
-     "morph": "instr.compound"
+     "grounds": "legacy hint",
+     "morph": "instr.pl.m"
     }
    ],
    "question": "Does poison enter the body even when bitten by great serpents?",
    "premises": [
-    "poison is the subject",
-    "it does not enter the body",
-    "even great serpent bites are included"
+    "poison is considered",
+    "body is the locus",
+    "great serpents may bite"
    ],
-   "inference": "Poison does not enter the body even when bitten by great serpents.",
-   "uncertainties": [],
-   "plain_english": "Poison does not enter the body, even when bitten by great serpents."
+   "inference": "therefore poison does not enter",
+   "uncertainties": [
+    "scope of protection unclear"
+   ],
+   "plain_english": "Poison does not enter the body, even if bitten by great serpents."
   }
  ]
 }

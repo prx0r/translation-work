@@ -3,12 +3,13 @@
  "verse": 102,
  "question": "To whom should the teaching be given after one year of testing?",
  "premises": [
+  "teaching is to be given",
   "recipient must be previously accomplished",
   "testing lasts one year"
  ],
- "inference": "transmission requires proven worthiness",
+ "inference": "therefore give it to the tested accomplished recipient",
  "uncertainties": [
-  "exact content given"
+  "exact testing criteria unclear"
  ],
- "plain_english": "It should be given to one previously accomplished, tested for one year."
+ "plain_english": "It should be given to one previously accomplished and tested for a year."
 }

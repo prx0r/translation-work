@@ -3,11 +3,13 @@
  "verse": 114,
  "question": "What union occurs for one freed from all diseases?",
  "premises": [
-  "freedom from all diseases",
-  "union with yogis",
+  "freedom from all diseases occurs",
+  "union with yogis occurs",
   "togetherness is stated"
  ],
- "inference": "One freed from all diseases has union together with yogis.",
- "uncertainties": [],
- "plain_english": "Freed from all diseases, union together with yogis."
+ "inference": "therefore one joins yogis in union",
+ "uncertainties": [
+  "nature of union unclear"
+ ],
+ "plain_english": "Freed from all diseases, one has union together with yogis."
 }

@@ -3,11 +3,13 @@
  "verse": 118,
  "question": "What has struck the pure body today?",
  "premises": [
-  "the body is pure",
-  "today is the time",
-  "ignorance's veil strikes it"
+  "body is pure",
+  "veil of ignorance strikes it",
+  "today is the time"
  ],
- "inference": "Today the pure body is struck by the veil of ignorance.",
- "uncertainties": [],
+ "inference": "therefore ignorance veils the body",
+ "uncertainties": [
+  "remedy unspecified"
+ ],
  "plain_english": "Today my pure body is struck by the veil of ignorance."
 }

@@ -3,12 +3,13 @@
  "verse": 103,
  "question": "Which chapter emerges from Candradīpa in this sequence?",
  "premises": [
-  "chapter is fifth",
-  "origin is Candradīpa"
+  "chapter emerges from candradīpa",
+  "it is numbered fifth",
+  "sequence is being enumerated"
  ],
- "inference": "the fifth chapter is named from that origin",
+ "inference": "therefore this is the fifth chapter",
  "uncertainties": [
-  "Candradīpa's precise meaning"
+  "relation to prior chapters unclear"
  ],
- "plain_english": "The fifth chapter emerged from Candradīpa."
+ "plain_english": "The fifth chapter emerges from Candradīpa."
 }

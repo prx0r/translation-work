@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 113,
- "question": "What practice for six months frees one from bondage?",
+ "question": "What should one practice for six months to become free from bondage?",
  "premises": [
   "practice lasts six months",
-  "the ochre robe is involved",
-  "bondage is removed"
+  "ochre robe is involved",
+  "freedom from bondage results"
  ],
- "inference": "Practicing for six months with the ochre robe frees one from bondage.",
- "uncertainties": [],
- "plain_english": "Whoever practices for six months, indeed the ochre robe free from bondage."
+ "inference": "therefore practice with ochre robe for six months",
+ "uncertainties": [
+  "exact practice unspecified"
+ ],
+ "plain_english": "Who practices for six months with ochre robe becomes free from bondage."
 }

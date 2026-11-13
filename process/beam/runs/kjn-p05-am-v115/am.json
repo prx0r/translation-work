@@ -3,11 +3,13 @@
  "verse": 115,
  "question": "What practice of the soul has been told to Bhairavī?",
  "premises": [
-  "the practice concerns the soul",
-  "it has been told",
-  "Bhairavī is addressed"
+  "practice of soul is described",
+  "it is told to you",
+  "bhairavī is addressed"
  ],
- "inference": "The practice of the soul has been told to Bhairavī.",
- "uncertainties": [],
- "plain_english": "This practice of the soul has been told to you, and to you, O Bhairavī."
+ "inference": "therefore the soul practice is communicated",
+ "uncertainties": [
+  "details of practice unclear"
+ ],
+ "plain_english": "This practice of the soul has been told to you, O Bhairavī."
 }

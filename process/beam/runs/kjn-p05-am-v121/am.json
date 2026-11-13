@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 121,
- "question": "What happens to even the wise when burning at the tip of nectar?",
+ "question": "What happens to the wise when burning at the tip of nectar?",
  "premises": [
-  "nectar tip is the place",
-  "essence of juice is used",
-  "burning affects even the wise"
+  "nectar tip is involved",
+  "essence of juice is involved",
+  "even the wise burns"
  ],
- "inference": "Even the wise burn at the tip of nectar with the essence of juice.",
- "uncertainties": [],
- "plain_english": "At the tip of nectar, with the essence of juice, even the wise burn."
+ "inference": "therefore burning affects even the wise",
+ "uncertainties": [
+  "physiological process unclear"
+ ],
+ "plain_english": "Even the wise burns at the tip of nectar with the essence of juice."
 }
