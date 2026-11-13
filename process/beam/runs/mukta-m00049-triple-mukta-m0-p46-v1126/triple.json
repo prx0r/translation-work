@@ -1,0 +1,1076 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "svadakṣiṇe",
+     "gloss": "on-own-right",
+     "grounds": "location for making the maṇḍala",
+     "morph": "compound: sva+dakṣiṇa; loc.sg.n"
+    },
+    {
+     "surface": "vālukābhiḥ",
+     "gloss": "with-sands",
+     "grounds": "material used to form the maṇḍala",
+     "morph": "ins.pl.f"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "ritual diagram to be made",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caturasrakam",
+     "gloss": "four-cornered",
+     "grounds": "shape of the maṇḍala",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How should the practitioner prepare the ritual maṇḍala at the outset?",
+   "premises": [
+    "The maṇḍala is made on one's own right side.",
+    "Sand is the material used for its formation.",
+    "The maṇḍala must be four-cornered."
+   ],
+   "inference": "The practitioner should form a four-cornered maṇḍala with sand on the right side.",
+   "uncertainties": [],
+   "plain_english": "On one's own right side, one should make a four-cornered maṇḍala with sand."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrument used for striking and sprinkling",
+     "morph": "ins.sg.n"
+    },
+    {
+     "surface": "tāḍayitvā",
+     "gloss": "having-struck",
+     "grounds": "preliminary purifying action",
+     "morph": "absolutive; √taḍ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena+eva",
+     "gloss": "with-that-indeed",
+     "grounds": "emphasizes use of the same weapon-mantra",
+     "morph": "compound: tena+eva; ins.sg.n + (indecl.)"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "purificatory act to be performed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √car"
+    }
+   ],
+   "question": "What purificatory actions must be performed on the maṇḍala with the weapon-mantra?",
+   "premises": [
+    "The weapon-mantra is used to strike the maṇḍala.",
+    "The same weapon-mantra is used for sprinkling.",
+    "Sprinkling is a required ritual action."
+   ],
+   "inference": "After striking with the weapon-mantra, one should perform sprinkling with that same mantra.",
+   "uncertainties": [],
+   "plain_english": "Having struck it with the weapon-mantra, one should perform the sprinkling with that very mantra."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "sthaṇḍilāya",
+     "gloss": "to-altar",
+     "grounds": "recipient of obeisance and worship",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "nama",
+     "gloss": "obeisance",
+     "grounds": "formula of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √yaj"
+    },
+    {
+     "surface": "sādhaka+sattamaḥ",
+     "gloss": "best-of-practitioners",
+     "grounds": "qualified ritual agent",
+     "morph": "compound: sādhaka+sattama; nom.sg.m"
+    }
+   ],
+   "question": "How should the best practitioner worship the prepared altar?",
+   "premises": [
+    "The altar is addressed with obeisance.",
+    "The formula 'obeisance to the altar' is specified.",
+    "The best practitioner performs the worship."
+   ],
+   "inference": "The best practitioner should worship the altar with the formula 'obeisance to the altar'.",
+   "uncertainties": [],
+   "plain_english": "The best of practitioners should worship it with the formula, 'Obeisance to the altar.'"
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the accompanying mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "ritual formula used for offering",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "kava+uṣṇam",
+     "gloss": "lukewarm",
+     "grounds": "temperature quality of the offering",
+     "morph": "compound: kava+uṣṇa; acc.sg.f"
+    },
+    {
+     "surface": "īṣat+uṣṇaṃ",
+     "gloss": "slightly-hot",
+     "grounds": "alternative temperature quality of the offering",
+     "morph": "compound: īṣat+uṣṇa; acc.sg.f"
+    },
+    {
+     "surface": "rudhira+avaliṃ",
+     "gloss": "blood-offering",
+     "grounds": "substance to be offered",
+     "morph": "compound: rudhira+avali; acc.sg.f"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.caus.act; √nived"
+    }
+   ],
+   "question": "What kind of blood offering should be presented with the specified mantra?",
+   "premises": [
+    "The offering is made with a mantra.",
+    "The offering consists of a blood offering.",
+    "The offering should be lukewarm or slightly hot."
+   ],
+   "inference": "One should offer a lukewarm or slightly hot blood offering with that mantra.",
+   "uncertainties": [],
+   "plain_english": "With that mantra, one should offer a blood offering that is lukewarm or slightly hot."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to the stated procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion of the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "introduces an alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bali+vidheḥ",
+     "gloss": "of-offering-rite",
+     "grounds": "ritual procedure whose absence is considered",
+     "morph": "compound: bali+vidhi; gen.sg.m"
+    },
+    {
+     "surface": "abhāvāt",
+     "gloss": "due-to-absence",
+     "grounds": "reason for an alternative action",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What condition requires an alternative procedure when the offering rite is unavailable?",
+   "premises": [
+    "A procedure has been stated as above.",
+    "An alternative applies otherwise.",
+    "The alternative is due to the absence of the offering rite."
+   ],
+   "inference": "If the offering rite is absent, the procedure must be handled otherwise.",
+   "uncertainties": [],
+   "plain_english": "Thus it is; otherwise, because the rite of offering is absent, a different procedure applies."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "maṇḍalasya",
+     "gloss": "of-maṇḍala",
+     "grounds": "object of the purificatory acts",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "purificatory act",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sekañ",
+     "gloss": "sprinkling",
+     "grounds": "additional or synonymous purificatory act; final nasal sandhi form",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √car"
+    }
+   ],
+   "question": "What purificatory acts should be performed on the maṇḍala in the alternative case?",
+   "premises": [
+    "The maṇḍala remains the object of ritual action.",
+    "Sprinkling is prescribed.",
+    "An additional sprinkling or aspersion is prescribed."
+   ],
+   "inference": "One should perform sprinkling and aspersion of the maṇḍala.",
+   "uncertainties": [
+    "The distinction between prokṣaṇaṃ and sekañ is not explicit in this verse."
+   ],
+   "plain_english": "One should perform the sprinkling and aspersion of the maṇḍala."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "object of worship",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the stated meaning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "clarifies the intent of the instruction",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the intended meaning of the prescribed ritual action in this context?",
+   "premises": [
+    "The altar is the object of the action.",
+    "Worship of the altar is enjoined.",
+    "The verse states this as the meaning."
+   ],
+   "inference": "The intended meaning is that one should worship the altar.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: one should worship the altar."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "tisraḥ+tisraḥ",
+     "gloss": "three-by-three",
+     "grounds": "indicates grouping or arrangement in threes",
+     "morph": "compound: tisraḥ+tisraḥ; nom.pl.f"
+    },
+    {
+     "surface": "vidhātavyāḥ",
+     "gloss": "should-be-placed",
+     "grounds": "prescribes arrangement",
+     "morph": "nom.pl.f; future-passive-participle; √dhā"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of the arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    },
+    {
+     "surface": "imān",
+     "gloss": "these",
+     "grounds": "deities or entities to be worshipped",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "How should the grouped entities be arranged and worshipped in that place?",
+   "premises": [
+    "Entities are to be placed in groups of three.",
+    "The arrangement is made there.",
+    "These entities are to be worshipped."
+   ],
+   "inference": "One should arrange them in threes there and worship these entities.",
+   "uncertainties": [
+    "The specific identity of 'these' entities is not stated in this verse."
+   ],
+   "plain_english": "They should be placed there in groups of three, and one should worship these."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "brahma+vaivasvata+indūṃś",
+     "gloss": "Brahmā-Vaivasvata-Moon",
+     "grounds": "deities to be worshipped; accusative plural with sandhi nasal",
+     "morph": "compound: brahma+vaivasvata+indu; acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements of the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarā+agrāsu",
+     "gloss": "on-north-pointing-lines",
+     "grounds": "location or orientation for worship",
+     "morph": "compound: uttara+agra; loc.pl.f"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "Which deities should be worshipped on the north-pointing lines of the diagram?",
+   "premises": [
+    "Brahmā, Vaivasvata, and the Moon are named.",
+    "The worship is located on north-pointing lines.",
+    "Worship of these deities is enjoined."
+   ],
+   "inference": "One should worship Brahmā, Vaivasvata, and the Moon on the north-pointing lines.",
+   "uncertainties": [],
+   "plain_english": "One should worship Brahmā, Vaivasvata, and the Moon on the north-pointing lines."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "bhūpuraṃ",
+     "gloss": "enclosure",
+     "grounds": "outer boundary of the diagram",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tat+bahiḥ",
+     "gloss": "outside-that",
+     "grounds": "location relative to the enclosure",
+     "morph": "compound: tat+bahiḥ; (indecl.)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "wise-one",
+     "grounds": "qualified ritual agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "should-draw",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √likh"
+    },
+    {
+     "surface": "yantram",
+     "gloss": "diagram",
+     "grounds": "ritual figure to be drawn",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "qualifies the diagram",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Where should the wise practitioner draw the supreme ritual diagram?",
+   "premises": [
+    "A supreme diagram is to be drawn.",
+    "The drawing is done outside the enclosure.",
+    "The wise practitioner performs this action."
+   ],
+   "inference": "The wise practitioner should draw the supreme diagram outside the enclosure.",
+   "uncertainties": [],
+   "plain_english": "Outside that enclosure, the wise one should draw the supreme diagram."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "māyā+ādhāra+śakti+ādīn",
+     "gloss": "Māyā-support-power-and-others",
+     "grounds": "entities to be worshipped",
+     "morph": "compound: māyā+ādhāra+śakti+ādi; acc.pl.m"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "individually",
+     "grounds": "mode of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indicates an alternative mode",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "How may Māyā, the supporting power, and related entities be worshipped?",
+   "premises": [
+    "Māyā, the supporting power, and others are named.",
+    "Worship may be performed individually.",
+    "An alternative mode is indicated."
+   ],
+   "inference": "One should worship Māyā, the supporting power, and the others individually, or as an alternative.",
+   "uncertainties": [
+    "The alternative to individual worship is not specified in this verse."
+   ],
+   "plain_english": "One should worship Māyā, the supporting power, and the others individually, or alternatively."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "aṅguṣṭhe",
+     "gloss": "on-thumb",
+     "grounds": "one endpoint of the span",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sa+kaniṣṭhe",
+     "gloss": "with-little-finger",
+     "grounds": "other endpoint of the span",
+     "morph": "compound: sa+kaniṣṭha; loc.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "defines the measure",
+     "morph": "3.sg.opt.act; √as"
+    },
+    {
+     "surface": "vitastiḥ",
+     "gloss": "span",
+     "grounds": "unit of measurement",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "dvādaśa+aṅgula",
+     "gloss": "twelve-fingers",
+     "grounds": "equivalent measure of the span",
+     "morph": "compound: dvādaśa+aṅgula; nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the definition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurement defines the span used in the ritual diagram?",
+   "premises": [
+    "The span extends from thumb to little finger.",
+    "The span is defined as a unit of measure.",
+    "The span equals twelve finger-widths."
+   ],
+   "inference": "The span, measured from thumb to little finger, is defined as twelve finger-widths.",
+   "uncertainties": [],
+   "plain_english": "The span, from the thumb together with the little finger, should be twelve finger-widths."
+  },
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "brahma+yama+candrān",
+     "gloss": "Brahmā-Yama-Moon",
+     "grounds": "deities to be worshipped",
+     "morph": "compound: brahma+yama+candra; acc.pl.m"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "Which deities are to be worshipped in this part of the ritual sequence?",
+   "premises": [
+    "Brahmā, Yama, and the Moon are named.",
+    "Worship of these deities is enjoined."
+   ],
+   "inference": "One should worship Brahmā, Yama, and the Moon.",
+   "uncertainties": [],
+   "plain_english": "One should worship Brahmā, Yama, and the Moon."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "bhūpurañ",
+     "gloss": "enclosure",
+     "grounds": "outer boundary to be drawn; final nasal sandhi form",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "wise-one",
+     "grounds": "qualified ritual agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "should-draw",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √likh"
+    }
+   ],
+   "question": "What additional structural element should the wise practitioner draw?",
+   "premises": [
+    "The wise practitioner performs the action.",
+    "Drawing is enjoined.",
+    "The enclosure is the object to be drawn."
+   ],
+   "inference": "The wise practitioner should draw the enclosure.",
+   "uncertainties": [],
+   "plain_english": "And the wise one should draw the enclosure."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "aiśvaryaṃ",
+     "gloss": "sovereignty",
+     "grounds": "principle or power to be worshipped",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "absolutive; √pūj"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+ādiṣu",
+     "gloss": "in-east-and-others",
+     "grounds": "directions for subsequent worship",
+     "morph": "compound: pūrva+ādi; loc.pl.f"
+    },
+    {
+     "surface": "diśāṃ",
+     "gloss": "of-directions",
+     "grounds": "specifies the directional set",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "prescribes sequential procedure",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "In what directional sequence should worship proceed after honoring sovereignty?",
+   "premises": [
+    "Sovereignty is worshipped first.",
+    "The directions beginning with the east are specified.",
+    "The worship must follow a sequence."
+   ],
+   "inference": "After worshipping sovereignty, one should proceed in order through the directions beginning with the east.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped sovereignty, one should then proceed in order through the directions beginning with the east."
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "anaiśvaryaṃ",
+     "gloss": "non-sovereignty",
+     "grounds": "principle to be worshipped",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √yaj"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "qualified ritual agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location for worship",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "anantañ",
+     "gloss": "Ananta",
+     "grounds": "deity or principle to be worshipped; final nasal sandhi form",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects objects of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmakam",
+     "gloss": "Padmaka",
+     "grounds": "deity or principle to be worshipped",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What entities should the mantra-practitioner worship in the middle of the diagram?",
+   "premises": [
+    "The mantra-practitioner performs the worship.",
+    "Non-sovereignty is to be worshipped.",
+    "Ananta and Padmaka are to be worshipped in the middle."
+   ],
+   "inference": "The mantra-practitioner should worship non-sovereignty, and in the middle worship Ananta and Padmaka.",
+   "uncertainties": [],
+   "plain_english": "The mantra-practitioner should worship non-sovereignty, and in the middle worship Ananta and Padmaka."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "prāk+ādi+keśareṣu",
+     "gloss": "in-petals-beginning-with-east",
+     "grounds": "locations on the petals of the diagram",
+     "morph": "compound: prāk+ādi+keśara; loc.pl.n"
+    },
+    {
+     "surface": "eṣu",
+     "gloss": "in-these",
+     "grounds": "refers to the specified locations",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds the central location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "female entities to be worshipped",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "Where should these female powers be worshipped within the diagram's petals and center?",
+   "premises": [
+    "The petals beginning with the east are specified locations.",
+    "The middle is also specified.",
+    "These female entities are to be worshipped."
+   ],
+   "inference": "One should worship these female powers in the petals beginning with the east and in the middle.",
+   "uncertainties": [
+    "The identities of 'these' are specified in the following verse."
+   ],
+   "plain_english": "One should worship these in the petals beginning with the east and also in the middle."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "sphuliṅginī",
+     "gloss": "Sphuliṅginī",
+     "grounds": "name of a power to be worshipped",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rucirā",
+     "gloss": "Rucirā",
+     "grounds": "name of a power to be worshipped",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "jvalinī",
+     "gloss": "Jvalinī",
+     "grounds": "name of a power to be worshipped",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "prescribes sequential worship",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "Which powers are to be worshipped in sequence in this stage of the rite?",
+   "premises": [
+    "Sphuliṅginī, Rucirā, and Jvalinī are named.",
+    "The enumeration is given explicitly.",
+    "The worship proceeds in order."
+   ],
+   "inference": "Sphuliṅginī, Rucirā, and Jvalinī should be worshipped in that order.",
+   "uncertainties": [],
+   "plain_english": "Sphuliṅginī, Rucirā, and Jvalinī are to be worshipped likewise, in order."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "raṃ",
+     "gloss": "raṃ",
+     "grounds": "bīja syllable of fire; transliterated, not translated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "identifies the deity associated with the seat",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "āsanāya",
+     "gloss": "for-seat",
+     "grounds": "purpose of the mantra formula",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ+antena",
+     "gloss": "ending-with-namaḥ",
+     "grounds": "specifies the closing of the mantra",
+     "morph": "compound: namaḥ+anta; ins.sg.n"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "What mantra formula should be used to worship the seat of fire?",
+   "premises": [
+    "The bīja 'raṃ' is associated with fire.",
+    "The formula is directed to the seat of fire.",
+    "The mantra ends with 'namaḥ'."
+   ],
+   "inference": "One should worship with the formula 'raṃ, to the seat of fire', ending with 'namaḥ'.",
+   "uncertainties": [],
+   "plain_english": "One should worship with the formula 'raṃ, to the seat of fire', ending with 'namaḥ'."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "pratyekam",
+     "gloss": "each-one",
+     "grounds": "indicates individual worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the mode of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "In what manner should each of the entities be worshipped?",
+   "premises": [
+    "Worship is enjoined.",
+    "The instruction emphasizes individuality.",
+    "Each entity is treated separately."
+   ],
+   "inference": "One should worship each one individually.",
+   "uncertainties": [],
+   "plain_english": "One should worship each one individually."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √yaj"
+    },
+    {
+     "surface": "yantrasya",
+     "gloss": "of-diagram",
+     "grounds": "location context for worship",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location in the diagram",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "anantaṃ",
+     "gloss": "Ananta",
+     "grounds": "deity or principle to be worshipped",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "padmakañ",
+     "gloss": "Padmaka",
+     "grounds": "deity or principle to be worshipped; final nasal sandhi form",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects objects of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "repeated injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √yaj"
+    }
+   ],
+   "question": "Which entities should be worshipped in the middle of the ritual diagram?",
+   "premises": [
+    "The middle of the diagram is specified.",
+    "Ananta is to be worshipped.",
+    "Padmaka is to be worshipped."
+   ],
+   "inference": "One should worship Ananta and Padmaka in the middle of the diagram.",
+   "uncertainties": [],
+   "plain_english": "One should worship Ananta and Padmaka in the middle of the diagram."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location for worship",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds to the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "prescribes sequential procedure",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "female entities to be worshipped",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "How should these female powers be worshipped in the middle of the diagram?",
+   "premises": [
+    "The middle is the location of worship.",
+    "These female entities are to be worshipped.",
+    "The worship must follow an order."
+   ],
+   "inference": "One should worship these female powers in the middle in due order.",
+   "uncertainties": [],
+   "plain_english": "And in the middle, one should worship these in order."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "jvalinīṃ",
+     "gloss": "Jvalinī",
+     "grounds": "power to be worshipped",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "repeated emphasis on central location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act; √pūj"
+    }
+   ],
+   "question": "Where should the power Jvalinī be worshipped within the ritual arrangement?",
+   "premises": [
+    "Jvalinī is named as the object of worship.",
+    "The middle is specified as the location.",
+    "The central placement is emphasized."
+   ],
+   "inference": "One should worship Jvalinī in the middle.",
+   "uncertainties": [],
+   "plain_english": "One should worship Jvalinī in the middle."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "vāgīśvareṇa",
+     "gloss": "with-lord-of-speech",
+     "grounds": "deity united with the worshipped power",
+     "morph": "compound: vāk+īśvara; ins.sg.m"
+    },
+    {
+     "surface": "saṃyuktāṃ",
+     "gloss": "united",
+     "grounds": "describes the state of the worshipped power",
+     "morph": "acc.sg.f; past-passive-participle; √yuj"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "mental act preceding worship",
+     "morph": "absolutive; √dhyai"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "qualified ritual agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tat+āsane",
+     "gloss": "on-that-seat",
+     "grounds": "location of the meditated presence",
+     "morph": "compound: tat+āsana; loc.sg.n"
+    }
+   ],
+   "question": "How should the mantra-practitioner visualize the power on that seat before worship?",
+   "premises": [
+    "The mantra-practitioner performs meditation.",
+    "The power is united with the lord of speech.",
+    "The meditation is directed to that seat."
+   ],
+   "inference": "The mantra-practitioner should meditate on her as united with the lord of speech on that seat.",
+   "uncertainties": [
+    "The referent of 'her' is carried over from the preceding context."
+   ],
+   "plain_english": "Having meditated on her as united with the Lord of Speech on that seat, the mantra-practitioner proceeds."
+  }
+ ]
+}

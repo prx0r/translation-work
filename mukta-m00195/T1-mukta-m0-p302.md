@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p302-v7526
-[with+vina](vīṇā) [string](tantrī) [trembling](sphurad) [hand](hastāṃ) [that](tām) [sound](nāda) [shaken](cala) [earring](kuṇḍalām)
+[vīṇā+tantrī](vīṇātantrī) [sphurat+hastām](sphuraddhastāṃ) [tat+nāda](tannāda) [cala+kuṇḍalām](calakuṇḍalām)
 
 ## mukta-m0-p302-v7527
-[if+one+offers](hunet) [siddhaḥ](siddhaḥ) [becomes](bhavet) [mantra](manuḥ)
+[hunet](hunet) [siddhaḥ](siddho) [bhavet](bhaven) [manuḥ](manuḥ)
 
 ## mukta-m0-p302-v7528
-[mantra](manum) [of+goddess](devyāḥ) [should+recite](japet) [eight+thousand](aṣṭasahasrakam)
+[manum](manuṃ) [devyāḥ](devyā) [japet](japet) [aṣṭa+sahasrakam](aṣṭasahasrakam)
 
 ## mukta-m0-p302-v7529
-[vīṇā](vīṇā) [flute](veṇu) [mṛdaṅga](mṛdaṅgānāṃ) [and](ca) [of+kinnarīs](kinnarīṇāñca) [abundantly](bhūyasaḥ)
+[vīṇā+veṇu+mṛdaṅgānām](vīṇāveṇumṛdaṅgānāṃ) [kinnarīṇām](kinnarīṇāñ) [ca](ca) [bhūyasaḥ](bhūyasaḥ)
 
 ## mukta-m0-p302-v7530
-[in+yoginī+form](yoginīrūpā) [directly+visible](pratyakṣā) [to+mantrin](mantriṇo) [becomes](bhavet)
+[yoginī+rūpā](yoginīrūpā) [pratyakṣā](pratyakṣā) [mantriṇaḥ](mantriṇo) [bhavet](bhavet)
 
 ## mukta-m0-p302-v7531
-[to+Brahman+state](brahmabhūyāya) [is+fit](kalpate)
+[brahma+bhūyāya](brahmabhūyāya) [kalpate](kalpate) [sā](sā) [eva](eva)
 
 ## mukta-m0-p302-v7532
-[red+eyed](raktākṣī) [in+song+and+music+delighted](gānavādaratā) [she](sā)
+[rakta+akṣī](raktākṣī) [gāna+vāda+ratā](gānavādaratā) [sā](sā) [devī](devī)
 
 ## mukta-m0-p302-v7533
-[collyrium](añjanaṃ) [and](ca) [two+bodies](dehiyugmaṃ) [treasure](nidhiṃ) [should+declare](vadet)
+[añjanam](añjanaṃ) [ca](ca) [dehi+yugmam](dehiyugmaṃ) [nidhim](nidhiṃ) [vadet](vadet)
 
 ## mukta-m0-p302-v7534
-[śāhā](śāhā) [thus](iti) [is+called](kathito) [mantra](manuḥ)
+[śāha+iti](shāheti) [kathitaḥ](kathito) [manuḥ](manuḥ) [ayam](ayam)
 
 ## mukta-m0-p302-v7535
-[with+ghee+anointed](ghṛtākta) [guggulu](guggulair) [offering](homaḥ) [deity](devatāṃ) [should+accomplish](sādhayet) [then](tataḥ)
+[ghṛta+ākta+guggulaiḥ](ghṛtāktaguggulair) [homaḥ](homo) [devatām](devatāṃ) [sādhayet](sādhayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p302-v7536
-[three+hundred](śatatrayam)
+[śata+trayam](śatatrayam) [japet](japet) [mantrī](mantrī) [sudhīḥ](sudhīḥ)
 
 ## mukta-m0-p302-v7537
-[with+ghee+anointed](ghṛtākta) [guggulu](guggulair) [offering](homaṃ) [then](tataḥ) [should+perform](kuryāt) [three+hundred](śatatrayam)
+[ghṛta+ākta+guggulaiḥ](ghṛtāktaguggulair) [homam](homaṃ) [tataḥ](tataḥ) [kuryāt](kuryāc) [śata+trayam](chatatrayam)
 
 ## mukta-m0-p302-v7538
-[immediately](sadyaḥ) [becomes](bhavati) [king](bhūpatiḥ)
+[sadyaḥ](sadyo) [bhavati](bhavati) [bhū+patiḥ](bhūpatiḥ) [naraḥ](naraḥ)
 
 ## mukta-m0-p302-v7539
-[lotus+eyed](paṅkajākṣī) [is+proclaimed](prakīrtitā)
+[paṅkaja+akṣī](paṅkajākṣī) [prakīrtitā](prakīrtitā) [sā](sā) [devī](devī)
 
 ## mukta-m0-p302-v7540
-[if+absence](syāt) [in+absence](abhāve) [and](ca) [with+best+fuel+sticks](samidvaraiḥ)
+[syāt](syād) [abhāve](abhāve) [ca](ca) [samid+varaiḥ](samidvaraiḥ)
 
 ## mukta-m0-p302-v7541
-[efficacious](kāryakarī) [with+various+ornaments](nānālaṃkāra) [adorned](śobhitā)
+[kārya+karī](kāryakarī) [nānā+alaṃkāra+śobhitā](nānālaṃkāraśobhitā) [sā](sā) [devī](devī)
 
 ## mukta-m0-p302-v7542
-[on+kṛṣṇāṣṭamī](kṛṣṇāṣṭamyāṃ) [in+caitra+month](caitramāse) [on+Tuesday](bhaume) [on+Friday](śukre) [or](vā) [at+night](niśi)
+[kṛṣṇa+aṣṭamyām](kṛṣṇāṣṭamyāñ) [caitra+māse](caitramāse) [bhaume](bhaume) [śukre](śukre) [atha+vā](thavā) [niśi](niśi)
 
 ## mukta-m0-p302-v7543
-[gives](dadāti) [fruit](phalam) [supreme](uttamam)
+[dadāti](dadāti) [phalam](phalam) [uttamam](uttamam) [sā](sā)
 
 ## mukta-m0-p302-v7544
-[true+guru](sadguruḥ) [entreated](prārthitaḥ) [again](punaḥ)
+[sat+guruḥ](sadguruḥ) [prārthitaḥ](prārthitaḥ) [punaḥ](punaḥ) [uvāca](uvāca)
 
 ## mukta-m0-p302-v7545
-[indeed](hi) [thirty+one+syllabled](ekatriṃśākṣaraḥ) [mantra](manuḥ)
+[hi](hy) [eka+triṃśat+akṣaraḥ](ekatriṃśākṣaro) [manuḥ](manuḥ) [ayam](ayam)
 
 ## mukta-m0-p302-v7546
-[fire+of+submarine](vāḍavam) [fire](vahnim) [and](ca) [two](dvayam) [should+pacify](śamaya)
+[vāḍavam](vāḍavaṃ) [vahnim](vahniṃ) [ca](ca) [śamaya](śamaya) [dvayam](dvayam)
 
 ## mukta-m0-p302-v7547
-[in+action](kārye) [should+offer](hunet) [with+ghee](saghṛta) [rice+pudding](pāyasam)
+[kārye](kārye) [hunet](hunet) [sa+ghṛta+pāyasam](saghṛtapāyasam) [mantrī](mantrī)
 
 ## mukta-m0-p302-v7548
-[dark+garmented](śyāmāmbaraparīdhānā) [to+me](me) [in+heart](citte) [may+she+be](astu) [cloudy+sky](payodinī)
+[śyāma+ambara+parīdhānā](śyāmāmbaraparīdhānā) [me](me) [citte](cittestu) [astu](cittestu) [payaḥ+dāyinī](payodinī)
 
 ## mukta-m0-p302-v7549
-[on+Thursday](bṛhaspatau) [or](vā) [on+Friday](śukre) [or](vā) [there](tatra) [on+that+day](vāsare)
+[bṛhaspatau](bṛhaspatau) [vā+api](vāpi) [śukre](śukre) [vā](vā) [tatra](tatra) [vāsare](vāsare)
 
 ## mukta-m0-p302-v7550
-[ten+thousand](ayutam) [should+recite](prajapet) [mantra](mantram) [with+rice+pudding](pāyasaiḥ) [offering](homam) [should+perform](ācaret)
+[ayutam](ayutampra) [pra+japet](ayutampra) [mantram](japenmantrampā) [pāyasaiḥ](japenmantrampā) [homam](homamā) [ācaret](homamā)
