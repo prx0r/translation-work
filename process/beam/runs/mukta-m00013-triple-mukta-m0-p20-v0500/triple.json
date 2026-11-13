@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "annapūrṇa",
+     "gloss": "annapūrṇā",
+     "grounds": "name of the goddess Annapūrṇā, addressed in the mantra context",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ṭhayugalaṃ",
+     "gloss": "ṭha-pair",
+     "grounds": "pair of the syllable ṭha; mantra element kept as transliterated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula being specified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptadaśākṣaraḥ",
+     "gloss": "seventeen-syllabled",
+     "grounds": "bahuvrīhi compound indicating the mantra's syllable count",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllabic composition defines the seventeen-syllabled mantra of Annapūrṇā?",
+   "premises": [
+    "The mantra is addressed to Annapūrṇā.",
+    "The mantra includes a pair of ṭha syllables.",
+    "The mantra is specified as having seventeen syllables."
+   ],
+   "inference": "Annapūrṇā's mantra is a seventeen-syllabled formula that includes a pair of ṭha syllables.",
+   "uncertainties": [
+    "The full sequence and placement of all seventeen syllables are not specified in this verse alone."
+   ],
+   "plain_english": "O Annapūrṇā, the mantra is seventeen-syllabled and includes a pair of ṭha syllables."
+  }
+ ]
+}
