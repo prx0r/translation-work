@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative verb expressing prescribed recitation",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "locative indicating place of recitation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "upadeśe",
+     "gloss": "in-instruction",
+     "grounds": "locative indicating ritual context of teaching",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "ritual method being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepa",
+     "gloss": "abbreviated",
+     "grounds": "qualifier indicating brevity of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "ritual initiation designated by the procedure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual procedure constitutes the abbreviated initiation during instruction?",
+   "premises": [
+    "Recitation should be performed in the ear.",
+    "This recitation occurs within the context of instruction.",
+    "This procedure is designated as the abbreviated initiation."
+   ],
+   "inference": "Performing recitation in the ear during instruction constitutes the abbreviated initiation.",
+   "uncertainties": [
+    "The exact number of recitations is supplied by the preceding verse and not repeated here."
+   ],
+   "plain_english": "One should recite in the ear during instruction; this procedure is thus the abbreviated initiation."
+  }
+ ]
+}

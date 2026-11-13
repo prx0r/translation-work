@@ -1,0 +1,1091 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3451,
+   "rows": [
+    {
+     "surface": "aṣṭākṣaro",
+     "gloss": "eight-syllabled",
+     "grounds": "bahuvrīhi compound describing the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the verse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg.ppp"
+    },
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive plural indicating the group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sāraḥ",
+     "gloss": "essence",
+     "grounds": "predicate noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "spoken",
+     "grounds": "past participle used predicatively",
+     "morph": "m.nom.sg.ppp"
+    }
+   ],
+   "question": "What status does the eight-syllabled mantra hold among all mantras?",
+   "premises": [
+    "The eight-syllabled mantra is declared.",
+    "It is spoken as the essence of mantras."
+   ],
+   "inference": "The eight-syllabled mantra is the essential core among all mantras.",
+   "uncertainties": [],
+   "plain_english": "The eight-syllabled mantra is declared and spoken of as the essence of all mantras."
+  },
+  {
+   "verse": 3452,
+   "rows": [
+    {
+     "surface": "bhūrje",
+     "gloss": "on-birch-bark",
+     "grounds": "locative indicating writing surface",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvādaśavarṇāni",
+     "gloss": "twelve-syllables",
+     "grounds": "compound object indicating number of syllables",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tadarddhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound referring to half of that number",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāmrapaṭṭake",
+     "gloss": "on-copper-plate",
+     "grounds": "compound locative indicating writing surface",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "On which materials should twelve syllables and their half be written?",
+   "premises": [
+    "Twelve syllables are associated with birch bark.",
+    "Half of that number is associated with a copper plate."
+   ],
+   "inference": "Twelve syllables should be written on birch bark and six on a copper plate.",
+   "uncertainties": [
+    "The verb of writing is implied rather than explicit."
+   ],
+   "plain_english": "Write twelve syllables on birch bark and half that number on a copper plate."
+  },
+  {
+   "verse": 3453,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tvām",
+     "gloss": "you",
+     "grounds": "object of consecration",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "abhiṣiñcantu",
+     "gloss": "may-consecrate",
+     "grounds": "optative or imperative sense in benediction",
+     "morph": "3.pl.act.imp"
+    },
+    {
+     "surface": "dharmakāmārthasiddhaye",
+     "gloss": "for-duty-desire-wealth-accomplishment",
+     "grounds": "compound dative indicating purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should these agents consecrate the recipient?",
+   "premises": [
+    "These agents are invoked to consecrate you.",
+    "The stated purpose is the accomplishment of dharma, desire, and wealth."
+   ],
+   "inference": "The consecration aims at achieving dharma, desire, and wealth.",
+   "uncertainties": [
+    "The identity of 'these' is not specified in this verse."
+   ],
+   "plain_english": "May these consecrate you for the accomplishment of dharma, desire, and wealth."
+  },
+  {
+   "verse": 3454,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "first element in a sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "second element in a sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "third element in a sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca+iti",
+     "gloss": "and-thus",
+     "grounds": "fused conjunction and quotative marker",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "compound locative indicating scope",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "sequence",
+     "grounds": "predicate noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual sequence is prescribed across all tantric texts?",
+   "premises": [
+    "Meditation, worship, and recitation are listed in order.",
+    "This order is stated to apply in all tantras."
+   ],
+   "inference": "The universal tantric sequence is meditation, then worship, then recitation.",
+   "uncertainties": [],
+   "plain_english": "Meditation, worship, and recitation—this is the sequence in all tantras."
+  },
+  {
+   "verse": 3455,
+   "rows": [
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "past participle describing ritual action",
+     "morph": "n.nom.sg.ppp"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative adverb indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "in-beginning",
+     "grounds": "locative adverb indicating time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipiṃ",
+     "gloss": "script",
+     "grounds": "object of placement",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Why must the script be placed at the beginning of the rite?",
+   "premises": [
+    "What is done without this is known to be fruitless.",
+    "Therefore the script should be placed at the beginning."
+   ],
+   "inference": "Placing the script first is necessary for the rite to bear fruit.",
+   "uncertainties": [
+    "The specific script or syllables are not named here."
+   ],
+   "plain_english": "One should know that what is done is fruitless; therefore one should place the script at the beginning."
+  },
+  {
+   "verse": 3456,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb indicating contrary condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anarthakāri",
+     "gloss": "harm-causing",
+     "grounds": "compound predicate adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "saṃkocārcanam",
+     "gloss": "abbreviated-worship",
+     "grounds": "compound subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What harmful consequence follows from performing abbreviated worship incorrectly?",
+   "premises": [
+    "The condition described is doing otherwise.",
+    "Abbreviated worship would become harm-causing."
+   ],
+   "inference": "If performed otherwise, abbreviated worship brings harm instead of benefit.",
+   "uncertainties": [],
+   "plain_english": "Otherwise, O Goddess, abbreviated worship would become harmful."
+  },
+  {
+   "verse": 3457,
+   "rows": [
+    {
+     "surface": "santoṣayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt-caus"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker closing the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What concluding injunction is given regarding satisfying the deity?",
+   "premises": [
+    "The verb enjoins causing satisfaction.",
+    "The quotative marks this as a concluding instruction."
+   ],
+   "inference": "The practitioner should satisfy the deity.",
+   "uncertainties": [
+    "The object to be satisfied is implied from context."
+   ],
+   "plain_english": "Thus, one should satisfy."
+  },
+  {
+   "verse": 3458,
+   "rows": [
+    {
+     "surface": "cakramadhye",
+     "gloss": "in-circle-middle",
+     "grounds": "compound locative indicating place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "saṃkṣepārcanam",
+     "gloss": "abbreviated-worship",
+     "grounds": "compound object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker closing the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should abbreviated worship be performed within the circle?",
+   "premises": [
+    "The deity is first invoked in the middle of the circle.",
+    "Abbreviated worship should then be performed."
+   ],
+   "inference": "After invocation in the circle's center, one should perform abbreviated worship.",
+   "uncertainties": [],
+   "plain_english": "Having invoked in the middle of the circle, one should perform abbreviated worship—thus."
+  },
+  {
+   "verse": 3459,
+   "rows": [
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "dative recipient",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "puṣpāñjalīṃ",
+     "gloss": "flower-offering",
+     "grounds": "compound object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative marker closing the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What actions should follow worship before reciting the mantra?",
+   "premises": [
+    "The goddess is worshipped first.",
+    "A flower offering is given to her before mantra recitation."
+   ],
+   "inference": "After worship and offering flowers to the goddess, one should recite the mantra.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped, having given a flower offering to the goddess, one should recite the mantra—thus."
+  },
+  {
+   "verse": 3460,
+   "rows": [
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "repeated adverb emphasizing repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing wish or result",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "peace",
+     "grounds": "subject of the wish",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jīvet",
+     "gloss": "may-live",
+     "grounds": "optative expressing wish",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "hundred-eight",
+     "grounds": "compound numeral modifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral object indicating lifespan",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What blessings of peace and longevity are sought through repeated practice?",
+   "premises": [
+    "Peace is wished to arise again and again.",
+    "A lifespan of a hundred and eight hundred is wished."
+   ],
+   "inference": "Repeated practice is associated with repeated peace and long life.",
+   "uncertainties": [
+    "The expression 'aṣṭottaraṃ śatam' may idiomatically mean one hundred and eight years."
+   ],
+   "plain_english": "May there be peace again and again; may one live a hundred and eight hundred years."
+  },
+  {
+   "verse": 3461,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "is-freed",
+     "grounds": "passive verb indicating liberation",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "malinaiḥ",
+     "gloss": "from-impure",
+     "grounds": "ablative plural describing afflictions",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "kṛcchraiḥ",
+     "gloss": "from-difficult",
+     "grounds": "ablative plural describing hardships",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "pāpaiḥ",
+     "gloss": "from-sins",
+     "grounds": "ablative plural describing sins",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "ghorataraiḥ+api",
+     "gloss": "most-terrible-even",
+     "grounds": "fused adjective and emphatic particle",
+     "morph": "n.abl.pl+(indecl.)"
+    }
+   ],
+   "question": "From what kinds of afflictions and sins is one freed?",
+   "premises": [
+    "Freedom is stated in the passive.",
+    "The sources include impure, difficult, and even most terrible sins."
+   ],
+   "inference": "One is freed from impure hardships and even the most terrible sins.",
+   "uncertainties": [],
+   "plain_english": "One is freed from impure difficulties and from even the most terrible sins."
+  },
+  {
+   "verse": 3462,
+   "rows": [
+    {
+     "surface": "vidrumaiḥ",
+     "gloss": "with-corals",
+     "grounds": "instrumental indicating offering material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "Krishna",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "compound object to be controlled",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaśamānayet",
+     "gloss": "one-brings-under-control",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt-caus"
+    }
+   ],
+   "question": "What power results from worshipping Krishna with corals?",
+   "premises": [
+    "Krishna is worshipped with corals.",
+    "The stated result is bringing the three worlds under control."
+   ],
+   "inference": "Worshipping Krishna with corals grants control over the three worlds.",
+   "uncertainties": [],
+   "plain_english": "One should worship Krishna with corals and bring the three worlds under control."
+  },
+  {
+   "verse": 3463,
+   "rows": [
+    {
+     "surface": "padmarāgaiḥ",
+     "gloss": "with-rubies",
+     "grounds": "instrumental indicating offering material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "Krishna",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "predicate noun indicating result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present tense stating result",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "adverbial accusative emphasizing certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain status is attained by worshipping Krishna with rubies?",
+   "premises": [
+    "Krishna is worshipped with rubies.",
+    "The worshipper certainly becomes a king."
+   ],
+   "inference": "Worshipping Krishna with rubies certainly makes one a king.",
+   "uncertainties": [],
+   "plain_english": "One should worship Krishna with rubies; one certainly becomes a king."
+  },
+  {
+   "verse": 3464,
+   "rows": [
+    {
+     "surface": "gārutmatamayaiḥ",
+     "gloss": "emerald-made",
+     "grounds": "compound adjective describing gems",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ratnaiḥ",
+     "gloss": "with-gems",
+     "grounds": "instrumental indicating offering material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pūjayan",
+     "gloss": "worshipping",
+     "grounds": "present participle indicating ongoing action",
+     "morph": "m.nom.sg.pres-part"
+    },
+    {
+     "surface": "jñānavān",
+     "gloss": "knowledge-possessing",
+     "grounds": "compound predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What quality is gained by worshipping with emerald gems?",
+   "premises": [
+    "Worship is performed with emerald-made gems.",
+    "The worshipper becomes possessed of knowledge."
+   ],
+   "inference": "Worshipping with emerald gems leads to becoming knowledgeable.",
+   "uncertainties": [],
+   "plain_english": "Worshipping with emerald gems, one becomes possessed of knowledge."
+  },
+  {
+   "verse": 3465,
+   "rows": [
+    {
+     "surface": "dehānte",
+     "gloss": "at-body-end",
+     "grounds": "compound locative indicating time of death",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haritāṃ",
+     "gloss": "green-abode",
+     "grounds": "accusative indicating destination",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-attained",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "nirvāṇa+padam",
+     "gloss": "liberation-state",
+     "grounds": "fused compound object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṛcchati",
+     "gloss": "one-obtains",
+     "grounds": "present tense stating result",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "What final attainment follows reaching the green abode at death?",
+   "premises": [
+    "At the end of the body one attains the green abode.",
+    "After that one obtains the state of liberation."
+   ],
+   "inference": "Attaining the green abode at death leads to obtaining liberation.",
+   "uncertainties": [
+    "The exact referent of 'haritāṃ' is context-dependent."
+   ],
+   "plain_english": "At the end of the body, having attained the green abode, one obtains the state of liberation."
+  },
+  {
+   "verse": 3466,
+   "rows": [
+    {
+     "surface": "maṅgale",
+     "gloss": "on-tuesday",
+     "grounds": "locative indicating day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "raktapadmaiḥ",
+     "gloss": "with-red-lotuses",
+     "grounds": "compound instrumental indicating offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking clauses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhe",
+     "gloss": "on-wednesday",
+     "grounds": "locative indicating day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tagarasambhavaiḥ",
+     "gloss": "with-tagara-produced",
+     "grounds": "compound instrumental indicating offering",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "Which offerings are prescribed for Tuesday and Wednesday worship?",
+   "premises": [
+    "Tuesday is associated with red lotuses.",
+    "Wednesday is associated with offerings produced from tagara."
+   ],
+   "inference": "One should use red lotuses on Tuesday and tagara-derived offerings on Wednesday.",
+   "uncertainties": [
+    "The main verb of worship is implied from surrounding verses."
+   ],
+   "plain_english": "On Tuesday with red lotuses, and on Wednesday with those produced from tagara."
+  },
+  {
+   "verse": 3467,
+   "rows": [
+    {
+     "surface": "śanivāre",
+     "gloss": "on-saturday",
+     "grounds": "compound locative indicating day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śamīpuṣpaiḥ",
+     "gloss": "with-shami-flowers",
+     "grounds": "compound instrumental indicating offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "with-devotion",
+     "grounds": "adverb indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatiḥ",
+     "gloss": "ascetic",
+     "grounds": "subject performing worship",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should an ascetic perform worship on Saturday?",
+   "premises": [
+    "Saturday worship is specified.",
+    "The ascetic should worship with shami flowers and devotion."
+   ],
+   "inference": "An ascetic should worship devotedly with shami flowers on Saturday.",
+   "uncertainties": [],
+   "plain_english": "On Saturday, the ascetic should worship with devotion using shami flowers."
+  },
+  {
+   "verse": 3468,
+   "rows": [
+    {
+     "surface": "būdhavāre",
+     "gloss": "on-wednesday",
+     "grounds": "compound locative indicating day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yāvakaiḥ",
+     "gloss": "with-yavaka-flowers",
+     "grounds": "instrumental indicating offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle indicating contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "on-thursday",
+     "grounds": "locative indicating day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūpasamudbhavaiḥ",
+     "gloss": "with-supa-produced",
+     "grounds": "compound instrumental indicating offering",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "Which offerings are assigned to Wednesday and Thursday in this sequence?",
+   "premises": [
+    "Wednesday is associated with yavaka offerings.",
+    "Thursday is associated with offerings produced from supa."
+   ],
+   "inference": "Yavaka offerings are used on Wednesday and supa-produced offerings on Thursday.",
+   "uncertainties": [
+    "The exact botanical identity of 'yāvaka' and 'sūpa' is uncertain."
+   ],
+   "plain_english": "On Wednesday with yavaka flowers, but on Thursday with those produced from supa."
+  },
+  {
+   "verse": 3469,
+   "rows": [
+    {
+     "surface": "vaiśākhe",
+     "gloss": "in-vaishakha",
+     "grounds": "locative indicating month",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māsi",
+     "gloss": "month",
+     "grounds": "locative noun specifying time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverb indicating proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-offer-libations",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt-caus"
+    },
+    {
+     "surface": "himavajjalaiḥ",
+     "gloss": "with-snow-cold-waters",
+     "grounds": "compound instrumental indicating offering substance",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What libation is prescribed for the month of Vaishakha?",
+   "premises": [
+    "The time specified is the month of Vaishakha.",
+    "Libations should be offered according to rule with snow-cold waters."
+   ],
+   "inference": "In Vaishakha one should duly offer libations with snow-cold waters.",
+   "uncertainties": [],
+   "plain_english": "In the month of Vaishakha, one should duly offer libations with snow-cold waters."
+  },
+  {
+   "verse": 3470,
+   "rows": [
+    {
+     "surface": "āṣāḍhe",
+     "gloss": "in-ashadha",
+     "grounds": "locative indicating month",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māsi",
+     "gloss": "month",
+     "grounds": "locative noun specifying time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverb indicating proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pavitraiḥ",
+     "gloss": "with-sacred-threads",
+     "grounds": "instrumental indicating offering material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "harim",
+     "gloss": "Hari",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should Hari be worshipped during the month of Ashadha?",
+   "premises": [
+    "The time specified is the month of Ashadha.",
+    "Hari should be worshipped according to rule with sacred threads."
+   ],
+   "inference": "In Ashadha one should duly worship Hari with sacred threads.",
+   "uncertainties": [],
+   "plain_english": "In the month of Ashadha, one should duly worship Hari with sacred threads."
+  },
+  {
+   "verse": 3471,
+   "rows": [
+    {
+     "surface": "pūjānte",
+     "gloss": "at-worship-end",
+     "grounds": "compound locative indicating time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devarājāya",
+     "gloss": "to-king-of-gods",
+     "grounds": "dative recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mahiṣībhyaḥ",
+     "gloss": "to-queens",
+     "grounds": "dative plural recipients",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt-caus"
+    }
+   ],
+   "question": "To whom should offerings be presented at the end of worship?",
+   "premises": [
+    "The time specified is the end of worship.",
+    "Offerings should be presented to the king of gods and to the queens."
+   ],
+   "inference": "At the conclusion of worship, offerings go to Indra and his queens.",
+   "uncertainties": [],
+   "plain_english": "At the end of worship, one should offer to the king of the gods and to the queens."
+  },
+  {
+   "verse": 3472,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb summarizing prior instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvatsaraṃ",
+     "gloss": "year",
+     "grounds": "accusative indicating duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "subject performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating completed action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "abhīṣṭam",
+     "gloss": "desired-object",
+     "grounds": "past participle used as object",
+     "morph": "n.acc.sg.ppp"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-obtains",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What reward comes from performing this practice for a full year?",
+   "premises": [
+    "The practitioner performs the practice thus for a year.",
+    "The result is obtaining the desired object."
+   ],
+   "inference": "A year of this practice yields the desired attainment.",
+   "uncertainties": [],
+   "plain_english": "Thus, having practiced for a year, the practitioner obtains the desired object."
+  },
+  {
+   "verse": 3473,
+   "rows": [
+    {
+     "surface": "śrāvaṇe",
+     "gloss": "in-shravana",
+     "grounds": "locative indicating month",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "māsi",
+     "gloss": "month",
+     "grounds": "locative noun specifying time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "Krishna",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ketakodbhavaiḥ",
+     "gloss": "with-ketaka-produced",
+     "grounds": "compound instrumental indicating offering",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "With what offerings should Krishna be worshipped in Shravana?",
+   "premises": [
+    "The time specified is the month of Shravana.",
+    "Krishna should be worshipped with offerings produced from ketaka."
+   ],
+   "inference": "In Shravana one should worship Krishna with ketaka-derived offerings.",
+   "uncertainties": [],
+   "plain_english": "In the month of Shravana, one should indeed worship Krishna with offerings produced from ketaka."
+  },
+  {
+   "verse": 3474,
+   "rows": [
+    {
+     "surface": "elālavaṅgakakkolaphalāni",
+     "gloss": "cardamom-clove-kakkola-fruits",
+     "grounds": "compound object listing fruits",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "adverb indicating abundance or variety",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arpayet",
+     "gloss": "one-should-offer",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt-caus"
+    }
+   ],
+   "question": "What fruits should be offered abundantly in this ritual context?",
+   "premises": [
+    "Cardamom, clove, and kakkola fruits are specified.",
+    "They should be offered in many ways or abundantly."
+   ],
+   "inference": "One should abundantly offer cardamom, clove, and kakkola fruits.",
+   "uncertainties": [
+    "The exact identity of 'kakkola' is uncertain."
+   ],
+   "plain_english": "One should offer cardamom, clove, and kakkola fruits in abundance."
+  }
+ ]
+}

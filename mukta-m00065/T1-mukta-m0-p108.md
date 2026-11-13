@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[four-part+by](caturbhāgaiḥ) [four-part+by](caturbhāgaiḥ) [remaining](śeṣāḥ) [other](anyāḥ) [and](ca) [moon-chambers](candraśālikāḥ)
+[by-four-parts](caturbhāgaiś) + [by-four-parts](caturbhāgaiḥ) [remaining](śeṣānyāś) + [moon-halls](candraśālikā)
 
 ## mukta-m0-p108-v2677
-[thus](evam) [fifteen](pañcadaśa) [declared](ākhyātāḥ) [five-storey](pañca+bhūmi) [moon-chambers](indu+śālikāḥ)
+[thus](evaṃ) [fifteen](pañcadaśa) + [declared](ākhyātāḥ) [five-storeyed](pañcabhūmī) + [moon-halls](nduśālikāḥ)
 
 ## mukta-m0-p108-v2678
-[with-half](sārdhena) [in-middle](madhyataḥ) [there](tatra) [chariot-half](rathaka) [half](ardhaṃ) [raised](samudgataḥ)
+[with-a-half](sārdhena) [in-the-middle](madhyatas) + [there](tatra) [chariot](rathakā) + [half](ardhaṃ) [risen-up](samudgatas)
 
 ## mukta-m0-p108-v2679
-[sixty-part](ṣaṣṭi+bhāga) [height](samucchāyaṃ) [should-make](kuryāt) [half-moon-chamber](ardha+indu+śālikām)
+[sixty-parts](ṣaṣṭibhāga) + [in-height](samucchāyaṃ) [one-should-make](kuryād) + [half-moon-hall](ardhenduśālikām)
 
 ## mukta-m0-p108-v2680
-[pitcher-band](kumbha+paṭṭīṃ) [likewise](tathā) [neck](kaṇṭham) [by-half](ardhena) [should-design](parikalpayet)
+[pitcher-band](kumbhapaṭṭīṃ) [likewise](tathā) [neck](kaṇṭham) + [by-half](ardhena) [one-should-design](parikalpayet)
 
 ## mukta-m0-p108-v2681
-[likewise](tathā) [to-be-made](kāryā) [part](bhāga) [by-part](bhāgena) [constructed](nirmitā)
+[likewise](tathā) [to-be-made](kāryā) [part](bhāga) + [by-part](bhāgena) [constructed](nirmitā)
 
 ## mukta-m0-p108-v2682
-[of-cavity](khaneḥ) [and](ca) [with-forehead-mark](tilaka+upetaṃ) [its-outside](tad+bāhye) [half-moon-chamber](ardha+indu+śālikā)
+[of-the-cavity](khaneś) + [and](ca) [with-forehead-ornament](tilakopetaṃ) [outside-that](tadbāhye) + [half-moon-hall]('rdhenduśālikā)
 
 ## mukta-m0-p108-v2683
-[its-middle](tan+madhye) [spire](śikharī) [two-parts](dvi+aṃśā) [raised](ucchritā) [very-charming](ati+manoramā)
+[in-its-middle](tanmadhye) [spire](śikharī) [two-parts](dvyaṃśā) [raised](ucchritā) + [very-charming](atimanoramā)
 
 ## mukta-m0-p108-v2684
-[its-side](tat+pārśva) [half-chariot](ardha+rathe) [also](api) [thus](evam) [to-be-made](kartavyā) [half-moon-chamber](ardha+inda+śālikā)
+[on-its-side](tatpārśva) + [half-chariot](ardhārathe) + [also]('py) + [thus](evaṃ) [to-be-made](kartavyā) + [half-moon-hall](rdhendaśālikā)
 
 ## mukta-m0-p108-v2685
-[above](upari) [above](upari) [and](ca) [three](trīṇi) [one](ekaṃ) [ground-line](bhū+sūtra) [equal-to](tulyataḥ)
+[one-above-another](uparyupari) [and](ca) [three](trīṇi) [one](ekaṃ) [mū, a, kh, g, ṅ: evaṃ]( [mū, a, kh, g, ṅ: evaṃ]) [equal-to-ground-line](bhūsūtra) + [level](tulyataḥ)
 
 ## mukta-m0-p108-v2686
-[of-middle-chariot](madhya+rathasya) [work](karma) [this](idam) [platform-etc.](vedikā+ādyam) [now](atha) [is-stated](ucyate)
+[of-the-middle-chariot](madhyarathasya) [work](karma) + [this](idaṃ) [platform-etc.](vedikādyam) + [now](atha) + [is-stated](ucyate)
 
 ## mukta-m0-p108-v2687
-[from-foot](pādāt) [recess-band](praveśa+paṭṭī) [should-be](syāt) [projection](nirgamā) [band](paṭṭikā) [from-foot](aṅghritaḥ)
+[from-the-base](pādāt) + [recessed-band](praveśapaṭṭī) [should-be](syān) + [projecting](nirgamā) [band](paṭṭikā) + [from-the-foot](aṅghritaḥ)
 
 ## mukta-m0-p108-v2688
-[by-part](pādena) [square](caturasrā) [should-be](syāt) [it](sā) [womb-half](garbha+ardha) [in-width](pravistarā)
+[by-one-part](pādena) [square](caturasrā) + [should-be](syāt) + [that](sā) [womb](garbha) + [half](ardha) + [in-width](pravistarā)
 
 ## mukta-m0-p108-v2689
-[up-to-haṃsa](haṃsa+ākhyā) [end](antā) [half-line](ardha+sūtrāt) [and](ca) [six-division](ṣaḍ+vibhāgaḥ) [its-height](tad+ucchrayaḥ)
+[up-to-the-haṃsa](haṃsākhya) + [end](antā) + [half-line](ardhasūtrāc) + [and](ca) [six-divisions](ṣaḍvibhāgas) + [its-height](taducchrayaḥ)
 
 ## mukta-m0-p108-v2690
-[from-capital](kapola+āt) [corner-projection](aṃśa+niṣkāśāt) [amalasāra](amalāsāra) [width](vistaraḥ)
+[from-the-projection](niṣkāśād) + [of-the-kapota-part](kapolādaṃśa) + [amalasāra](amalāsāra) + [width](vistaraḥ)
 
 ## mukta-m0-p108-v2691
-[by-half](ardhena) [neck-band](gala+paṭṭī) [and](ca) [upper-band](upapaṭṭī) [by-other-half](apara+ardhataḥ)
+[by-half](ardhena) [neck-band](galapaṭṭī) [and](ca) [upper-band](upapaṭṭy) + [by-the-other-half](aparārdhataḥ)
 
 ## mukta-m0-p108-v2692
-[by-two](dvābhyāṃ) [and](ca) [amalasāra-called](amalasāra+ākhyaṃ) [all-around](paritaḥ) [round](vṛttam) [raised](ucchritam)
+[by-two-parts](dvābhyāṃ) [and](ca) + [called-amalasāra](amalasārākhyaṃ) [all-around](parito) [round](vṛttam) + [raised](ucchritam)
 
 ## mukta-m0-p108-v2693
-[by-one](ekena) [square](caturasrā) [should-be](syāt) [by-two](dvābhyāṃ) [haṃsa-bracket](haṃsa+kapotikā)
+[by-one-part](ekena) [square](caturasrā) [should-be](syād) [by-two-parts](dvābhyāṃ) [haṃsa-cornice](haṃsakapotikā)
 
 ## mukta-m0-p108-v2694
-[with-element-parts](sa+bhūta+aṃśaiḥ) [by-three](tribhiḥ) [to-be-made](kāryaḥ) [pot](ghaṭaḥ) [its-double-height](tad+dvi+guṇa+ucchrayaḥ)
+[with-element-parts](sabhūtāṃśais) + [by-three](tribhiḥ) [to-be-made](kāryo) [pot](ghaṭas) + [twice-its-height](taddviguṇocchrayaḥ)
 
 ## mukta-m0-p108-v2695
-[from-that](tvāt) [likewise](tathaiva) [and](ca) (?)
+[tvāttathaiva]](tvāttathaiva]) [and](ca) [(?)]((?))
 
 ## mukta-m0-p108-v2696
-[sometimes](kvacit) [Bhairava](bhairava) [Nāṭyeśa](nāṭya+īśa) [Gaurī](gaurī) [Arka](arkaḥ) [from-south-etc.](dakṣiṇa+āditaḥ)
+[sometimes](kvacid) + [Bhairava-Nāṭyeśa-Gaurī-Arka](bhairavanāṭyeśagauryarko) [from-the-south-etc.](dakṣiṇāditaḥ)
 
 ## mukta-m0-p108-v2697
-[its-waist-half](tat+kaṭi+ardha) [height](samucchrāyaṃ) [having-divided](pravibhajya) [into-eight-parts](aṣṭa+bhāgataḥ)
+[its-waist](tatkaṭy) + [half-height](ardhasamucchrāyaṃ) [having-divided](pravibhajyā) + [into-eight-parts](aṣṭabhāgataḥ)
 
 ## mukta-m0-p108-v2698
-[by-three-parts](tri+aṃśakaiḥ) [moon-chamber](candra+śālām) [by-two-parts](dvayaṃśataḥ) [in-middle](madhyataḥ) [structure](puram)
+[by-three-parts](tryaṃśakaiś) + [moon-hall](candraśālāṃ) [by-two-parts](dvayaṃśato) [in-the-middle](madhyataḥ) [structure](puram)
 
 ## mukta-m0-p108-v2699
-[thus](evam) [on-its-sides](tat+pārśvataḥ) [to-be-made](kāryāḥ) [half-moon-chamber-etc.](ca+ardha+indu+śālikā+ādayaḥ)
+[thus](evaṃ) [on-its-sides](tatpārśvataḥ) [to-be-made](kāryāś) + [half-moon-halls-etc.](cārdhenduśālikādayaḥ)
 
 ## mukta-m0-p108-v2700
-[building-ornament](vāstu+bhūṣaṇam) [stone-born](aśma+uttham) [stated](uktam) [others](anyāni) [and](ca) [I-speak](bruve)
+[temple](vāstu) + [ornament](bhūṣaṇam) + [arisen-from-stone](aśmottham) + [stated](uktam) + [others](anyāni) [and](ca) [I-speak](bruve)
