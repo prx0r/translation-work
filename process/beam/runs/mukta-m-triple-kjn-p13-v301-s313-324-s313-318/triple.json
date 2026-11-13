@@ -1,0 +1,295 @@
+{
+ "song": "kjn-p13",
+ "items": [
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "īpsitaṃ",
+     "gloss": "desired",
+     "grounds": "desired vow object",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vrataṃ",
+     "gloss": "vow",
+     "grounds": "vow to perform",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-perform",
+     "grounds": "optative of kṛ",
+     "morph": "v.3sg.act-opt.√kṛ"
+    },
+    {
+     "surface": "advaitena",
+     "gloss": "with-non-duality",
+     "grounds": "instrumental of advaita",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed",
+     "grounds": "endowed with non-duality",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What vow should one perform endowed with non-duality?",
+   "premises": [
+    "The vow is desired.",
+    "It should be performed.",
+    "It is endowed with non-duality."
+   ],
+   "inference": "The prescribed vow is performed with non-dual awareness.",
+   "uncertainties": [
+    "Exact ritual context is not specified."
+   ],
+   "plain_english": "One should perform the desired vow endowed with non-duality."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repeated inquiry",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛcchāmi",
+     "gloss": "I-ask",
+     "grounds": "first person inquiry",
+     "morph": "v.1sg.act-pres.√pṛcch"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "O-lord-of-gods",
+     "grounds": "address to deity",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "pātrāṇāṃ",
+     "gloss": "of-vessels",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "auspicious mark",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "auspicious quality",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What auspicious characteristic of vessels is being asked about?",
+   "premises": [
+    "The speaker asks again.",
+    "The addressee is lord of gods.",
+    "The topic is vessels."
+   ],
+   "inference": "The inquiry concerns the auspicious marks of ritual vessels.",
+   "uncertainties": [
+    "No answer is given in this verse."
+   ],
+   "plain_english": "Again I ask, O lord of gods, the auspicious characteristic of vessels."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "mṛnmayaṃ",
+     "gloss": "made-of-clay",
+     "grounds": "clay vessel",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kūrmajaṃ",
+     "gloss": "tortoise-born",
+     "grounds": "tortoise-born vessel",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "address to goddess",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "kāṃsajaṃ",
+     "gloss": "made-of-bell-metal",
+     "grounds": "bell-metal vessel",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tāmralohajam",
+     "gloss": "copper-metal-born",
+     "grounds": "copper-metal vessel",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which vessel materials are listed for the goddess?",
+   "premises": [
+    "Clay is listed.",
+    "Tortoise-born is listed.",
+    "Bell-metal is listed.",
+    "Copper-metal is listed."
+   ],
+   "inference": "The verse enumerates several vessel materials.",
+   "uncertainties": [
+    "The exact grammatical relation to pātra is implied."
+   ],
+   "plain_english": "Clay, tortoise-born, bell-metal, and copper-metal vessels, O goddess."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "kaulikaṃ",
+     "gloss": "kaulika",
+     "grounds": "kaulika vessel",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "O-fair-hipped-one",
+     "grounds": "address to goddess",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaṃ",
+     "gloss": "another",
+     "grounds": "another vessel",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kācasambhavam",
+     "gloss": "glass-born",
+     "grounds": "glass vessel",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What additional vessel types are mentioned alongside kaulika?",
+   "premises": [
+    "Kaulika is mentioned.",
+    "Another vessel is mentioned.",
+    "Glass-born is specified."
+   ],
+   "inference": "The list includes kaulika and glass-born vessels.",
+   "uncertainties": [
+    "The exact category of kaulika is not explained."
+   ],
+   "plain_english": "Kaulika indeed, O fair-hipped one, and likewise another glass-born vessel."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "viśvāmitrakapālañca",
+     "gloss": "viśvāmitra-skull-and",
+     "grounds": "compound with ca",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "sarvapātrottamaṃ",
+     "gloss": "all-vessel-supreme",
+     "grounds": "supreme among all vessels",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "address to beloved",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Which vessel is called supreme among all vessels?",
+   "premises": [
+    "Viśvāmitra's skull is named.",
+    "It is called supreme among all vessels.",
+    "The addressee is beloved."
+   ],
+   "inference": "Viśvāmitra's skull vessel is praised as supreme.",
+   "uncertainties": [
+    "The ritual use is not detailed here."
+   ],
+   "plain_english": "Viśvāmitra's skull, supreme among all vessels, O beloved."
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "patiñca",
+     "gloss": "lord-and",
+     "grounds": "lord with ca",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "patitañca",
+     "gloss": "fallen-and",
+     "grounds": "fallen with ca",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "that thing",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "bhave",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "v.3sg.act-opt.√bhū"
+    },
+    {
+     "surface": "ccakottamaḥ",
+     "gloss": "cakra-supreme",
+     "grounds": "supreme cakra",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "?",
+     "gloss": "unknown",
+     "grounds": "unclear token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is said about lord, fallen, and supreme cakra?",
+   "premises": [
+    "Lord is mentioned.",
+    "Fallen is mentioned.",
+    "That may be.",
+    "Supreme cakra is mentioned."
+   ],
+   "inference": "The verse links lord, fallen, and supreme cakra in an unclear statement.",
+   "uncertainties": [
+    "The final token is unclear and the syntax is uncertain."
+   ],
+   "plain_english": "Lord and fallen, that may be; supreme cakra, ?"
+  }
+ ]
+}
