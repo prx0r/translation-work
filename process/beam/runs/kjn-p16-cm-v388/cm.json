@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "ūrddha+retā",
-   "morph": "m.nom.sg",
+   "morph": "compound",
    "grounds": "compound"
   },
   {
    "lemma": "bhaved",
-   "morph": "3.sg.mid-opt",
-   "grounds": "optative"
+   "morph": "3.sg.act-opt+root bhū",
+   "grounds": "verb"
   },
   {
    "lemma": "yogī",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "predicate"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negative"
+   "grounds": "negation"
   },
   {
    "lemma": "yogī",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "predicate"
   },
   {
    "lemma": "karata(?",
@@ -35,7 +35,7 @@
   {
    "lemma": "priye",
    "morph": "f.voc.sg",
-   "grounds": "vocative"
+   "grounds": "address"
   }
  ]
 }

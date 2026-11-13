@@ -7,37 +7,37 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "nectar, accusative singular neuter",
-     "morph": "n.acc.sg.n"
+     "grounds": "amṛta neuter noun in nominative or accusative singular",
+     "morph": "n.nom/acc.sg.n"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-nature",
-     "grounds": "compound kaula + sadbhāva, accusative singular masculine",
-     "morph": "n.acc.sg.m"
+     "grounds": "compound of kaula and sadbhāva in accusative singular",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative hear",
-     "morph": "2.sg.act.impv + śru"
+     "grounds": "imperative second person singular active of root śru",
+     "morph": "2.sg.act.imp.√śru"
     },
     {
      "surface": "kāmakalātmakam",
      "gloss": "desire-art-consisting",
-     "grounds": "compound kāma + kalā + ātmaka, accusative singular neuter",
-     "morph": "adj.acc.sg.n"
+     "grounds": "compound of kāma, kalā, and ātmaka in accusative singular neuter",
+     "morph": "acc.sg.n"
     }
    ],
-   "question": "What nectar-like kaula true nature consists of desire-art?",
+   "question": "What is the kaula true nature that consists of desire-art and is to be heard as nectar?",
    "premises": [
-    "nectar is kaula true nature",
-    "it consists of desire-art",
-    "hearer is commanded to hear"
+    "nectar is the kaula true nature",
+    "desire-art constitutes that nature",
+    "the hearer is commanded to listen"
    ],
-   "inference": "The verse identifies nectar with kaula true nature made of desire-art.",
+   "inference": "The verse commands hearing the nectar-like kaula true nature whose essence is desire-art.",
    "uncertainties": [
-    "exact syntactic relation of amṛtaṃ to kaulasadbhāvaṃ uncertain"
+    "the exact syntactic role of amṛtaṃ remains ambiguous between nominative and accusative"
    ],
    "plain_english": "Hear the nectar, the kaula true nature consisting of desire-art."
   }

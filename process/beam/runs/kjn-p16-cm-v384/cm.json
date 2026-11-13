@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "kṣīra+svādena",
-   "morph": "m.inst.sg",
+   "morph": "compound",
    "grounds": "instrumental"
   },
   {
    "lemma": "medhāvi",
    "morph": "m.nom.sg",
-   "grounds": "adjective"
+   "grounds": "predicate"
   },
   {
    "lemma": "amaro",
    "morph": "m.nom.sg",
-   "grounds": "adjective"
+   "grounds": "predicate"
   },
   {
    "lemma": "jāyate",
-   "morph": "3.sg.mid-pres",
-   "grounds": "root jan"
+   "morph": "3.sg.act-pres+root jan",
+   "grounds": "verb"
   },
   {
    "lemma": "naraḥ",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "subject"
   }
  ]
 }

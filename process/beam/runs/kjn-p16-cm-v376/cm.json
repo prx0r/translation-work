@@ -5,22 +5,22 @@
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negative particle"
+   "grounds": "negation"
   },
   {
    "lemma": "mṛtyur",
    "morph": "m.nom.sg",
-   "grounds": "nominative subject"
+   "grounds": "subject"
   },
   {
    "lemma": "bhavate",
-   "morph": "3.sg.mid-pres",
-   "grounds": "root bhū"
+   "morph": "3.sg.act-pres+root bhū",
+   "grounds": "verb"
   },
   {
    "lemma": "tasya",
    "morph": "m.gen.sg",
-   "grounds": "genitive possessor"
+   "grounds": "possessive"
   },
   {
    "lemma": "akṣayo",
@@ -30,12 +30,12 @@
   {
    "lemma": "hi",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "particle"
   },
   {
    "lemma": "amara+dyutiḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound adjective"
+   "morph": "compound",
+   "grounds": "compound"
   }
  ]
 }
