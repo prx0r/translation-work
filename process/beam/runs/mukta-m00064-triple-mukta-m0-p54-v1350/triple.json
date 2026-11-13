@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "siṃhe",
+     "gloss": "in-leo",
+     "grounds": "zodiac sign Leo; locative of time/condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhanuṣi",
+     "gloss": "in-sagittarius",
+     "grounds": "zodiac sign Sagittarius; locative of time/condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "meṣe",
+     "gloss": "in-aries",
+     "grounds": "zodiac sign Aries; locative of time/condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking listed signs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "injunctive/optative sense expressing prohibition with na",
+     "morph": "3.sg.act-optative √gam"
+    },
+    {
+     "surface": "pūrvapīṭhakam",
+     "gloss": "eastern-seat",
+     "grounds": "destination of travel; compound pūrva+pīṭhaka",
+     "morph": "n.acc.sg (compound: pūrva+dependent, pīṭhaka+head)"
+    }
+   ],
+   "question": "Under which zodiac signs is travel to the eastern seat prohibited?",
+   "premises": [
+    "The astrological periods of Leo, Sagittarius, and Aries are specified.",
+    "Travel to the eastern seat is the action under consideration.",
+    "The verse issues a prohibition regarding this travel during those periods."
+   ],
+   "inference": "One should not go to the eastern seat when the sun is in Leo, Sagittarius, or Aries.",
+   "uncertainties": [
+    "The exact identity or location of pūrvapīṭhaka is not specified in this verse."
+   ],
+   "plain_english": "One should not go to the eastern seat when the sun is in Leo, Sagittarius, or Aries."
+  }
+ ]
+}

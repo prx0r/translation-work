@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1374,
- "question": "How is the remembered goddess visually described in terms of her severed neck and attire?",
+ "question": "Which auspicious sights and sounds are favorable at the start of a journey?",
  "premises": [
-  "She is covered by the gushing from her severed neck.",
-  "She is clad in silk garments.",
-  "This continues the description of the remembered goddess."
+  "A journey is being undertaken.",
+  "Certain objects, sounds, and persons are encountered.",
+  "These are listed as favorable signs."
  ],
- "inference": "The goddess is depicted as bathed in the stream from her severed neck and dressed in silk.",
- "uncertainties": [],
- "plain_english": "Covered by the gushing from her severed neck, clad in silk garments."
+ "inference": "A flower, barley-gruel, conch, kettle-drum, musical instrument, and a king are auspicious signs.",
+ "uncertainties": [
+  "The verse lists items without an explicit verb; their auspiciousness is inferred from context."
+ ],
+ "plain_english": "A flower, barley-gruel, conch, kettle-drum, musical instrument, and a king are auspicious signs."
 }

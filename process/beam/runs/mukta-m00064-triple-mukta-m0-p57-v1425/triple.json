@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "lauhityamadhye",
+     "gloss": "in-lauhitya-middle",
+     "grounds": "locative compound indicating location at the middle of the Lauhitya",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dhanustriṃśat",
+     "gloss": "thirty-bow-lengths",
+     "grounds": "compound numeral expressing a measure of thirty bows",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "in-measure",
+     "grounds": "indeclinable indicating extent or measurement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific measurement defines the extent at the middle of the Lauhitya?",
+   "premises": [
+    "The location specified is the middle of the Lauhitya.",
+    "The goddess is directly addressed in this specification.",
+    "The extent is quantified as thirty bow-lengths in measure."
+   ],
+   "inference": "The area at the middle of the Lauhitya is defined as measuring thirty bow-lengths.",
+   "uncertainties": [
+    "The exact length of a bow-length unit in this context is not specified."
+   ],
+   "plain_english": "O goddess, in the middle of the Lauhitya the measure is thirty bow-lengths."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1366,
- "question": "What has been declared to the listener as the goddess's mantra-embodied armor?",
+ "question": "Which nakṣatras are associated with the thirteenth and fourteenth lunar days?",
  "premises": [
-  "The teaching has been told to the listener.",
-  "It concerns the goddess's armor.",
-  "This armor is embodied as mantra."
+  "The thirteenth and fourteenth lunar days are mentioned.",
+  "The northern triad of nakṣatras is associated with the thirteenth.",
+  "Viśākhā is associated with the fourteenth."
  ],
- "inference": "The preceding verses constitute the goddess's protective armor in the form of mantra.",
- "uncertainties": [],
- "plain_english": "Thus the goddess's armor, embodied as mantra, has been told to you."
+ "inference": "The northern triad applies on the thirteenth day and Viśākhā on the fourteenth.",
+ "uncertainties": [
+  "The governing verb (avoid/know) is implied from surrounding verses."
+ ],
+ "plain_english": "The northern triad on the thirteenth lunar day, and Viśākhā on the fourteenth."
 }

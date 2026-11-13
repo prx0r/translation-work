@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p55",
  "verse": 1358,
- "question": "Which eternal goddess abiding in all knowledge is asked to protect all the speaker's limbs?",
+ "question": "Why must a traveler not undertake a journey when facing a yoginī?",
  "premises": [
-  "The goddess abides in all knowledge.",
-  "She is eternal.",
-  "She is asked to protect all the speaker's limbs always."
+  "A traveler intends to undertake a journey.",
+  "The yoginī is facing the traveler.",
+  "This facing position is given as a reason for prohibition."
  ],
- "inference": "The eternal goddess present in all knowledge is invoked for constant protection of the entire body.",
- "uncertainties": [],
- "plain_english": "May the eternal one who abides in all knowledge always protect all my limbs."
+ "inference": "A traveler must not go on a journey because the yoginī is facing them.",
+ "uncertainties": [
+  "The specific sense of yoginī facing (directional or presence) is context-dependent."
+ ],
+ "plain_english": "A traveler should not undertake a journey, because the yoginī is facing him."
 }

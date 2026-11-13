@@ -3,34 +3,39 @@
  "verse": 1350,
  "rows": [
   {
-   "lemma": "prabale",
+   "lemma": "siṃhe",
    "morph": "m.loc.sg",
-   "grounds": "locative adjective qualifying kali+kāle"
+   "grounds": "zodiac sign Leo; locative of time/condition"
   },
   {
-   "lemma": "kali+kāle",
-   "morph": "compound:m.loc.sg",
-   "grounds": "compound kali+kāla in locative"
+   "lemma": "dhanuṣi",
+   "morph": "n.loc.sg",
+   "grounds": "zodiac sign Sagittarius; locative of time/condition"
   },
   {
-   "lemma": "tu",
+   "lemma": "meṣe",
+   "morph": "m.loc.sg",
+   "grounds": "zodiac sign Aries; locative of time/condition"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "connective particle linking listed signs"
   },
   {
-   "lemma": "rūpam",
-   "morph": "n.nom.sg",
-   "grounds": "subject of the statement"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation of the prescribed action"
   },
   {
-   "lemma": "etat",
-   "morph": "n.nom.sg",
-   "grounds": "demonstrative pronoun qualifying rūpam"
+   "lemma": "gacchet",
+   "morph": "3.sg.act-optative √gam",
+   "grounds": "injunctive/optative sense expressing prohibition with na"
   },
   {
-   "lemma": "jagat+hitam",
-   "morph": "compound:n.nom.sg",
-   "grounds": "compound jagat+hita as predicate"
+   "lemma": "pūrvapīṭhakam",
+   "morph": "n.acc.sg (compound: pūrva+dependent, pīṭhaka+head)",
+   "grounds": "destination of travel; compound pūrva+pīṭhaka"
   }
  ]
 }
