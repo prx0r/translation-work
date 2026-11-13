@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2178,
- "question": "Will the world-mother goddess accompanied by Viṣṇu grant grace to the devotee?",
+ "question": "How does the deity respond to the offender after the violation?",
  "premises": [
-  "The goddess is addressed as world-mother",
-  "She is accompanied by Viṣṇu",
-  "The devotee asks for her grace"
+  "The deity remains always angry with him.",
+  "The deity gives a curse.",
+  "The deity may depart to the city."
  ],
- "inference": "The devotee petitions the world-mother with Viṣṇu to be gracious.",
- "uncertainties": [],
- "plain_english": "O goddess, O mother of the world, accompanied by Viṣṇu, be gracious to me."
+ "inference": "The deity, always angry, curses the offender and departs to the city.",
+ "uncertainties": [
+  "The referent of 'puram' is not specified."
+ ],
+ "plain_english": "The god, always angry with him, gives a curse and goes to the city."
 }
