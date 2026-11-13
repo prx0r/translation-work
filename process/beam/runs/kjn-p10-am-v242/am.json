@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 242,
- "question": "What is destroyed when angry?",
+ "question": "What does an angry one destroy in the triple world?",
  "premises": [
-  "kruddhaḥ tu is stated",
-  "saṃharet sarvaṃ trailokyaṃ is stated",
-  "sa cara acaram is stated"
+  "angry is named",
+  "destroys is named",
+  "triple world is named"
  ],
- "inference": "When angry, one destroys all the triple world, moving and unmoving.",
- "uncertainties": [],
- "plain_english": "When angry, one destroys all the triple world, moving and unmoving."
+ "inference": "An angry one destroys all moving and unmoving in triple world.",
+ "uncertainties": [
+  "exact subject"
+ ],
+ "plain_english": "When angry, he destroys all moving and unmoving in the triple world."
 }

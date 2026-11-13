@@ -678,7 +678,7 @@
    },
    {
     "sanskrit": "pāṣaṇḍaṃ",
-    "surface": "pāṣaṇḍaṃ",
+    "surface": "pā",
     "iast": "pāṣaṇḍaṃ",
     "gloss": "heretic",
     "quick_gloss": "heretic",
@@ -702,7 +702,14 @@
    }
   ],
   "quick_english": "Another disciple, a heretic, a eunuch, and a proud scholar.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "Another disciple, a heretic, a eunuch, and a proud scholar.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kul-p59-v1468",

@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 245,
- "question": "What should one make in solitude?",
+ "question": "What should one make in solitude while intent on meditation?",
  "premises": [
-  "ekānte is stated",
-  "bahudhā rūpaṃ kuru is stated",
-  "dhyānañ ca tatparaḥ is stated"
+  "in solitude is named",
+  "many forms is named",
+  "meditation is named"
  ],
- "inference": "In solitude one should make many forms and be intent on meditation.",
- "uncertainties": [],
- "plain_english": "In solitude, make many forms and be intent on meditation."
+ "inference": "One should make many forms in solitude while intent on meditation.",
+ "uncertainties": [
+  "exact instruction"
+ ],
+ "plain_english": "In solitude make many forms and meditation, being intent on that."
 }

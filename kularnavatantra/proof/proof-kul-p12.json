@@ -16,51 +16,19 @@
   "tokens": 138
  },
  "align": {
-  "min_ratio": 0.783,
+  "min_ratio": 0.804,
   "sub090": {
    "278": {
     "ratio": 0.804,
     "disposition": "sandhi-only: proof ratio 0.804 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.796)"
    },
-   "280": {
-    "ratio": 0.837,
-    "disposition": "sandhi-only: proof ratio 0.837 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.829)"
-   },
-   "282": {
-    "ratio": 0.863,
-    "disposition": "sandhi-only: proof ratio 0.863 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.879)"
-   },
-   "283": {
-    "ratio": 0.884,
-    "disposition": "sandhi-only: proof ratio 0.884 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.868)"
-   },
-   "284": {
-    "ratio": 0.869,
-    "disposition": "sandhi-only: proof ratio 0.869 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.862)"
-   },
    "289": {
     "ratio": 0.886,
     "disposition": "sandhi-only: proof ratio 0.886 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.882)"
    },
-   "290": {
-    "ratio": 0.783,
-    "disposition": "sandhi-only: proof ratio 0.783 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.793)"
-   },
-   "292": {
-    "ratio": 0.878,
-    "disposition": "sandhi-only: proof ratio 0.878 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)"
-   },
    "294": {
     "ratio": 0.857,
     "disposition": "sandhi-only: proof ratio 0.857 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)"
-   },
-   "295": {
-    "ratio": 0.816,
-    "disposition": "sandhi-only: proof ratio 0.816 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.817)"
-   },
-   "299": {
-    "ratio": 0.796,
-    "disposition": "sandhi-only: proof ratio 0.796 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.804)"
    }
   }
  },
@@ -97,7 +65,7 @@
  ],
  "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "70de88c436aea78338b5666ead8ff2290cf876baeb65cae227669f8876e78cd8",
+  "t1": "030d2ceb3bd0667a18972c7e73b15c4dd6c45c49c7adbc56581251e17606d01c",
   "l0": "297369cecf6acb3334cde46b612e96921bd467c96354d6cc28ec1ef31ea95f72",
   "argmap": "9fffc92464918f9d46d9c05f584274b42da321c53e368e2dd6ba10d6cb17b0bd",
   "l2": "c0dc9322d5cd5e04a110ea1a5db709d0f7ec1b9dfffc62e7b03a82ff20875fbf",

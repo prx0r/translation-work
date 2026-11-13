@@ -16,29 +16,8 @@
   "tokens": 122
  },
  "align": {
-  "min_ratio": 0.781,
-  "sub090": {
-   "1178": {
-    "ratio": 0.871,
-    "disposition": "sandhi-only: proof ratio 0.871 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.87)"
-   },
-   "1182": {
-    "ratio": 0.781,
-    "disposition": "sandhi-only: proof ratio 0.781 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.79)"
-   },
-   "1183": {
-    "ratio": 0.854,
-    "disposition": "sandhi-only: proof ratio 0.854 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)"
-   },
-   "1189": {
-    "ratio": 0.867,
-    "disposition": "sandhi-only: proof ratio 0.867 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.897)"
-   },
-   "1190": {
-    "ratio": 0.792,
-    "disposition": "sandhi-only: proof ratio 0.792 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.804)"
-   }
-  }
+  "min_ratio": 0.949,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -73,7 +52,7 @@
  ],
  "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "73670062afd906e6c8a025b8e9a7fdf48383912d195b564365251e6d68ee4531",
+  "t1": "a6f2d023f04e6da26b0e8c4dd48558dee0974e12c2e441c3b1f58ed5d7119645",
   "l0": "7b451fca6d4cc60c9ceb91f65f51516d2458604f3902b2c1e8b63ddce763df0c",
   "argmap": "b807ec72e13645108bc053adc86d3fb5c50f1a151c5797819da559d31e0d25b4",
   "l2": "c7b45a13efe20499aca37740a5ac1e25817154fc9c202f6db5cf9f9bcd0dfda5",

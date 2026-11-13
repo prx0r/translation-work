@@ -19,8 +19,8 @@
     {
      "surface": "icchāmi",
      "gloss": "I-wish",
-     "grounds": "first person singular present active of iṣ",
-     "morph": "1.sg.act-pres"
+     "grounds": "first person singular present of iṣ",
+     "morph": "1.sg.act.pres"
     },
     {
      "surface": "kālasya",
@@ -37,19 +37,19 @@
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "accusative singular neuter",
+     "grounds": "accusative singular neuter adjective",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What auspicious deception of time does the speaker now wish to hear?",
+   "question": "What auspicious deception of time does the speaker now wish to hear explained?",
    "premises": [
-    "The speaker wishes to hear now.",
-    "The object is deception of time.",
+    "The speaker asks to hear now.",
+    "The topic is time's deception.",
     "The deception is called auspicious."
    ],
-   "inference": "The verse requests instruction on an auspicious way of overcoming or deceiving time.",
+   "inference": "The verse frames time's deception as a desirable teaching to be heard.",
    "uncertainties": [
-    "Whether vañcanaṃ means deception, avoidance, or transcendence of time."
+    "Whether śubham modifies vañcanaṃ or the whole request."
    ],
    "plain_english": "Now I wish to hear the auspicious deception of time."
   },
@@ -59,8 +59,8 @@
     {
      "surface": "kathayāmi",
      "gloss": "I-tell",
-     "grounds": "first person singular present active of kath",
-     "morph": "1.sg.act-pres"
+     "grounds": "first person singular present of kath",
+     "morph": "1.sg.act.pres"
     },
     {
      "surface": "na",
@@ -89,21 +89,21 @@
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "third person singular present active of naś with prefix vi",
-     "morph": "3.sg.act-pres"
+     "grounds": "third person singular present of vi-nas",
+     "morph": "3.sg.act.pres"
     }
    ],
-   "question": "How is death destroyed according to the teaching being given?",
+   "question": "How is death destroyed without doubt according to the teaching being given?",
    "premises": [
-    "The speaker says there is no doubt.",
-    "Death is destroyed in the manner described.",
-    "The teaching is presented as certain."
+    "The speaker promises to tell.",
+    "There is no doubt.",
+    "Death is destroyed in the stated manner."
    ],
-   "inference": "The verse assures that death is destroyed through the method about to be explained.",
+   "inference": "The verse assures that the method removes death with certainty.",
    "uncertainties": [
-    "The exact method is not stated in this verse alone."
+    "The exact method is supplied in following verses."
    ],
-   "plain_english": "I tell you without doubt: death is destroyed."
+   "plain_english": "I tell you without doubt: thus death is destroyed."
   },
   {
    "verse": 121,
@@ -111,20 +111,20 @@
     {
      "surface": "amṛta+agraṃ",
      "gloss": "at-tip-of-nectar",
-     "grounds": "compound of amṛta and agra, accusative singular neuter",
-     "morph": "n.acc.sg compound"
+     "grounds": "compound: amṛta + agra",
+     "morph": "compound"
     },
     {
      "surface": "rasa+agreṇa",
      "gloss": "with-essence-of-juice",
-     "grounds": "compound of rasa and agra, instrumental singular neuter",
-     "morph": "n.instr.sg compound"
+     "grounds": "compound: rasa + agra, instrumental",
+     "morph": "compound"
     },
     {
      "surface": "dahyamāna",
      "gloss": "burning",
      "grounds": "present participle passive of dah",
-     "morph": "pres.part."
+     "morph": "part."
     },
     {
      "surface": "sudhīr",
@@ -135,21 +135,21 @@
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "emphatic particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What happens to even a wise person when nectar-tip and juice-essence burn?",
+   "question": "What happens to even a wise person when nectar's tip burns with the essence of juice?",
    "premises": [
-    "The nectar tip and juice essence are involved.",
-    "Burning is taking place.",
-    "Even a wise person is affected."
+    "The nectar tip is involved.",
+    "The essence of juice acts upon it.",
+    "Burning affects even the wise."
    ],
-   "inference": "The verse warns that the burning process involving nectar and juice affects even the wise.",
+   "inference": "The verse warns that subtle nectar can burn even the wise.",
    "uncertainties": [
-    "Whether dahyamāna modifies the wise person or the nectar/juice."
+    "Whether dahyamāna describes the nectar or the person."
    ],
-   "plain_english": "Even a wise person is burning at the tip of nectar with the essence of juice."
+   "plain_english": "Even a wise person is burned at the tip of nectar by the essence of juice."
   },
   {
    "verse": 122,
@@ -157,45 +157,45 @@
     {
      "surface": "rasanā+tālu+mūle",
      "gloss": "at-root-of-tongue-and-palate",
-     "grounds": "compound of rasanā (tongue), tālu (palate), and mūla (root) in locative singular",
-     "morph": "loc.sg.n"
+     "grounds": "compound: rasanā + tālu + mūla, locative",
+     "morph": "compound"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive of root kṛ",
-     "morph": "abs"
+     "grounds": "absolutive of kṛ",
+     "morph": "abs."
     },
     {
      "surface": "vāyuṃ",
      "gloss": "air",
-     "grounds": "accusative singular masculine of vāyu",
-     "morph": "acc.sg.m"
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "pibec",
      "gloss": "should-drink",
-     "grounds": "optative third singular active of root pā",
-     "morph": "opt.3sg.act"
+     "grounds": "optative third person singular of pā",
+     "morph": "3.sg.act.opt."
     },
     {
      "surface": "chanaiḥ",
      "gloss": "slowly",
-     "grounds": "adverb meaning slowly",
+     "grounds": "instrumental plural of chana",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How does slow drinking of air at the tongue-palate root destroy old age and death after one year and prevent serpent poison?",
+   "question": "How should air be drunk after placing it at the root of tongue and palate?",
    "premises": [
-    "Air is drunk slowly at tongue-palate root.",
-    "One year of practice destroys old age and death.",
-    "Poison does not enter body even if bitten by great serpents."
+    "Air is placed at tongue-palate root.",
+    "The action is done slowly.",
+    "Drinking is prescribed."
    ],
-   "inference": "The practice grants immunity and longevity.",
+   "inference": "The verse prescribes slow internal drinking of air from that bodily point.",
    "uncertainties": [
-    "Exact physiological mechanism is unspecified."
+    "Whether chanaiḥ modifies kṛtvā or pibec."
    ],
-   "plain_english": "Having made air at the root of tongue and palate, one should drink slowly; when practiced for one year, old age and death are destroyed; poison does not enter the body even if bitten by great serpents."
+   "plain_english": "Having placed air at the root of tongue and palate, one should drink it slowly."
   },
   {
    "verse": 123,
@@ -203,39 +203,39 @@
     {
      "surface": "abdam+ekaṃ",
      "gloss": "for-one-year",
-     "grounds": "compound of abda (year) and eka (one) in accusative singular masculine",
-     "morph": "acc.sg.m"
+     "grounds": "compound: abda + eka, accusative duration",
+     "morph": "compound"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "fused form yadā (when) plus abhyasta (practiced) with sandhi",
-     "morph": "(indecl.)"
+     "grounds": "compound: yadā + abhyasta, sandhi form",
+     "morph": "compound"
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "compound of jarā (old age) and mṛtyu (death) in nominative singular masculine",
-     "morph": "nom.sg.m"
+     "grounds": "compound: jarā + mṛtyu, nominative dual",
+     "morph": "compound"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present third singular active of root naś",
-     "morph": "3sg.act.pres"
+     "grounds": "third person singular present of vi-nas",
+     "morph": "3.sg.act.pres"
     }
    ],
-   "question": "How does slow drinking of air at the tongue-palate root destroy old age and death after one year and prevent serpent poison?",
+   "question": "What happens to old age and death when this practice is done for one year?",
    "premises": [
-    "Air is drunk slowly at tongue-palate root.",
-    "One year of practice destroys old age and death.",
-    "Poison does not enter body even if bitten by great serpents."
+    "The practice lasts one year.",
+    "It is practiced regularly.",
+    "Old age and death are destroyed."
    ],
-   "inference": "The practice grants immunity and longevity.",
+   "inference": "The verse promises destruction of aging and death after one year of practice.",
    "uncertainties": [
-    "Exact physiological mechanism is unspecified."
+    "Whether abhyastañ is nominative or accusative in the fused form."
    ],
-   "plain_english": "Having made air at the root of tongue and palate, one should drink slowly; when practiced for one year, old age and death are destroyed; poison does not enter the body even if bitten by great serpents."
+   "plain_english": "When practiced for one year, old age and death are destroyed."
   },
   {
    "verse": 124,
@@ -243,8 +243,8 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "accusative singular neuter of viṣa",
-     "morph": "acc.sg.n"
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "na",
@@ -255,45 +255,45 @@
     {
      "surface": "kramate",
      "gloss": "enters",
-     "grounds": "present third singular middle of root kram",
-     "morph": "3sg.mid.pres"
+     "grounds": "third person singular present of kram",
+     "morph": "3.sg.act.pres"
     },
     {
      "surface": "dehe",
      "gloss": "body",
-     "grounds": "locative singular masculine of deha",
-     "morph": "loc.sg.m"
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "daṃśito",
      "gloss": "even-bitten",
-     "grounds": "nominative singular masculine participle of root daṃś",
-     "morph": "nom.sg.m"
+     "grounds": "nominative singular masculine participle",
+     "morph": "part."
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "particle meaning also",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "compound of mahā (great) and uraga (serpent) in instrumental plural masculine",
-     "morph": "instr.pl.m"
+     "grounds": "compound: mahā + uraga, instrumental plural",
+     "morph": "compound"
     }
    ],
-   "question": "How does slow drinking of air at the tongue-palate root destroy old age and death after one year and prevent serpent poison?",
+   "question": "Does poison enter the body even when one is bitten by great serpents?",
    "premises": [
-    "Air is drunk slowly at tongue-palate root.",
-    "One year of practice destroys old age and death.",
-    "Poison does not enter body even if bitten by great serpents."
+    "Poison does not enter the body.",
+    "The person may be bitten.",
+    "Great serpents are the biters."
    ],
-   "inference": "The practice grants immunity and longevity.",
+   "inference": "The verse claims immunity to poison even from great serpent bites.",
    "uncertainties": [
-    "Exact physiological mechanism is unspecified."
+    "Whether daṃśito is passive participle or adjective."
    ],
-   "plain_english": "Having made air at the root of tongue and palate, one should drink slowly; when practiced for one year, old age and death are destroyed; poison does not enter the body even if bitten by great serpents."
+   "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
   }
  ]
 }

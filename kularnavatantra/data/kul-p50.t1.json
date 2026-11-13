@@ -487,7 +487,7 @@
    },
    {
     "sanskrit": "ekahastena",
-    "surface": "ekahastena",
+    "surface": "ekahaste",
     "iast": "ekahastena",
     "gloss": "with-one-hand",
     "quick_gloss": "with-one-hand",
@@ -519,7 +519,14 @@
    }
   ],
   "quick_english": "One should not worship with one hand, nor drink with one hand.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "One should not worship with one hand, nor drink with one hand.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kul-p50-v1236",

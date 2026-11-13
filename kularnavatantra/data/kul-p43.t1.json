@@ -953,7 +953,7 @@
   "tokens": [
    {
     "sanskrit": "ahambhāvamapāsyaiva",
-    "surface": "ahambhāvamapāsyaiva",
+    "surface": "ahambhāvam",
     "iast": "ahambhāvamapāsyaiva",
     "gloss": "ego-sense",
     "quick_gloss": "ego-sense",
@@ -1009,7 +1009,14 @@
    }
   ],
   "quick_english": "Having removed ego sense, having removed it, one who acts is not smeared.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "Having removed ego sense, having removed it, one who acts is not smeared.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kul-p43-v1071",
@@ -1189,7 +1196,7 @@
    },
    {
     "sanskrit": "paṇḍitammanyāste",
-    "surface": "paṇḍitammanyāste",
+    "surface": "paṇḍitammanyās",
     "iast": "paṇḍitammanyāste",
     "gloss": "pandit-pretenders",
     "quick_gloss": "pandit-pretenders",
@@ -1229,7 +1236,14 @@
    }
   ],
   "quick_english": "Heretics, those who think themselves learned, go to hell, dear.",
-  "source_sha": ""
+  "source_sha": "",
+  "history": [
+   {
+    "gloss": "Heretics, those who think themselves learned, go to hell, dear.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats from compound surfaces (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
+   }
+  ]
  },
  {
   "verse_id": "kul-p43-v1075",

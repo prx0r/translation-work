@@ -16,17 +16,8 @@
   "tokens": 118
  },
  "align": {
-  "min_ratio": 0.83,
-  "sub090": {
-   "1868": {
-    "ratio": 0.854,
-    "disposition": "sandhi-only: proof ratio 0.854 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.893)"
-   },
-   "1874": {
-    "ratio": 0.83,
-    "disposition": "sandhi-only: proof ratio 0.83 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.84)"
-   }
-  }
+  "min_ratio": 0.965,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -61,7 +52,7 @@
  ],
  "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "13a4b620321100b9f30101c15ca995d9a1225c12312a25b1d49cd20319ba6c25",
+  "t1": "4c9aea9e7c7d0d92e8eba0d140c1563bb00b1d479ec908c808b409da9f75eec8",
   "l0": "21720a225bfc5e4aa9a9e1e05d91dbf18be17b2c3473fd4074cee64b6a24b0bd",
   "argmap": "163df49c7ada633c83e138b61e28a8a28081d8c0217dab776d9acbf78887cce5",
   "l2": "359966a08c1df5cfa5d9f6c6d93bd1603aef24e58e1149601a13db3170b6e06f",
