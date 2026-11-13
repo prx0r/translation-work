@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 339,
- "question": "Who remains serene-minded through devotion to gods, fire, discipline, and yoginis?",
+ "question": "How should one relate with devotion to gods, fire, discipline, and yoginis while remaining serene-minded?",
  "premises": [
-  "devotion is directed to gods, fire, discipline, and yoginis",
-  "the mind remains serene always"
+  "devotion is named",
+  "gods fire discipline and yoginis are named",
+  "serene mind is named"
  ],
- "inference": "devotion produces serenity",
+ "inference": "The verse links constant devotion to those powers with a serene mind.",
  "uncertainties": [
-  "compound parsing"
+  "compound internal members are not fully resolved"
  ],
- "plain_english": "Through devotion to gods, fire, discipline, and yoginis, one remains always serene-minded."
+ "plain_english": "With devotion to gods, fire, discipline, and yoginis, always serene-minded."
 }
