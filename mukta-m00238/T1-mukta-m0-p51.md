@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[kṛṣṇa-aṅga-raja-sādhūta](kṛṣṇāṃgarajasādhūta) [kalmaṣe](kalmaṣe) [te](te) [namo-namaḥ](namonamaḥ)
+[black](kṛṣṇāṃga) [dust](raja) [shaken-off](sādhūta) [sin](kalmaṣe) [to-you](te) [salutation](namaḥ) [salutation](namaḥ)
 
 ## mukta-m0-p51-v1252
-[kṛṣṇa-varṇā](kṛṣṇavarṇā) [kṛṣṇa-varṇā](kṛṣṇavarṇā) [kṛṣṇa-varṇā](kṛṣṇavarṇā) [kṛṣṇa-varṇā](kṛṣṇavarṇā)
+[black](kṛṣṇa) [colored](varṇā)
 
 ## mukta-m0-p51-v1253
-[kalyāṇa-jananīm](kalyāṇajananīṃ) [loke](loke) [namāmi](namāmi) [kanaka-prabhām](kanakaprabhām)
+[auspiciousness](kalyāṇa) [mother](jananīṃ) [in-the-world](loke) [I-bow](namāmi) [golden](kanaka) [radiant](prabhām)
 
 ## mukta-m0-p51-v1254
-[kanaka-varṇā](kanakavarṇā) [kanaka-varṇā](kanakavarṇā) [kanaka-varṇā](kanakavarṇā) [kanaka-varṇā](kanakavarṇā)
+[golden](kanaka) [colored](varṇā)
 
 ## mukta-m0-p51-v1255
-[aṃtaḥ-tāpa-praśamanīm](aṃtastāpapraśamanīṃ) [praṇamāmi](praṇamāmi) [mahā-nadīm](mahānadīm) [mahā-nadīm](mahānadīm)
+[inner](aṃtaḥ) [heat](tāpa) [soothing](praśamanīṃ) [I-bow](praṇamāmi) [great](mahā) [river](nadīm)
 
 ## mukta-m0-p51-v1256
-[rakta-varṇā](raktavarṇā) [rakta-varṇā](raktavarṇā) [rakta-varṇā](raktavarṇā) [rakta-varṇā](raktavarṇā)
+[red](rakta) [colored](varṇā)
 
 ## mukta-m0-p51-v1257
-[veṇīm](veṇīṃ) [pravāla-saṃkāśām](pravālasaṃkāśāmupāse) [upāse](upāse) [sukha-siddhaye](sukhasiddhaye)
+[braid](veṇīṃ) [coral](pravāla) [resembling](saṃkāśām) [I-worship](upāse) [happiness](sukha) [for-accomplishment](siddhaye)
 
 ## mukta-m0-p51-v1258
-[rakta-varṇā](raktavarṇā) [rakta-varṇā](raktavarṇā) [rakta-varṇā](raktavarṇā) [rakta-varṇā](raktavarṇā)
+[red](rakta) [colored](varṇā)
 
 ## mukta-m0-p51-v1259
-[namāmi](namāmi) [maṃgala-ānanda-saṃdhātrīm](maṃgalānaṃdasaṃdhātrīṃ) [bahudhā](bahudhāmudā) [mudā](mudā)
+[I-bow](namāmi) [auspicious](maṃgala) [bliss](ānaṃda) [bestowing](saṃdhātrīṃ) [in-many-ways](bahudhā) [joyfully](mudā)
 
 ## mukta-m0-p51-v1260
-[mauktika-varṇā](mauktikavarṇā) [mauktika-varṇā](mauktikavarṇā) [mauktika-varṇā](mauktikavarṇā) [mauktika-varṇā](mauktikavarṇā)
+[pearl](mauktika) [colored](varṇā)
 
 ## mukta-m0-p51-v1261
-[yaḥ](yo) [dhatte](dhatte) [sarva-jīvānām](sarvajīvānāṃ) [varaṃ](varaṃ) [jīvaṃ](jīvaṃ) [ca](ca) [śoṣakam](śoṣakam)
+[who](yo) [bears](dhatte) [of-all](sarva) [beings](jīvānāṃ) [boon](varaṃ) [life](jīvaṃ) [and](ca) [drying](śoṣakam)
 
 ## mukta-m0-p51-v1262
-[pāśaṃ](pāśaṃ) [cakraṃ](cakraṃ) [kisalayaṃ](kisalayaṃ) [kuṃḍikāṃ](kuṃḍikāṃ) [daśabhiḥ](daśabhiḥ) [karaiḥ](karaiḥ)
+[noose](pāśaṃ) [discus](cakraṃ) [sprout](kisalayaṃ) [water-pot](kuṃḍikāṃ) [with-ten](daśabhiḥ) [hands](karaiḥ)
 
 ## mukta-m0-p51-v1263
-[śveta-varṇā](śvetavarṇā) [śveta-varṇā](śvetavarṇā) [śveta-varṇā](śvetavarṇā) [śveta-varṇā](śvetavarṇā)
+[white](śveta) [colored](varṇā)
 
 ## mukta-m0-p51-v1264
-[phulla-rakta-utpala-akṣau](phullaraktotpalākṣau) [ca](ca) [pīta-srag-vastra-varṇakau](pītasragvastravarṇakau) [pīta-srag-vastra-varṇakau](pītasragvastravarṇakau) [pīta-srag-vastra-varṇakau](pītasragvastravarṇakau)
+[blooming](phulla) [red](rakta) [lotus](utpala) [eyed-two](akṣau) [and](ca) [yellow](pīta) [garland](srag) [garment](vastra) [colored-two](varṇakau)
 
 ## mukta-m0-p51-v1265
-[śveta-varṇau](śvetavarṇau) [śveta-varṇau](śvetavarṇau) [śveta-varṇau](śvetavarṇau) [śveta-varṇau](śvetavarṇau)
+[white](śveta) [colored-two](varṇau) [||](||) [2](2) [||](||) [-](-) [||](||)
 
 ## mukta-m0-p51-v1266
-[pādādi](pādādi) [kaṃṭha-paryaṃtam](kaṃṭhaparyaṃtamaśvarūpaṃ) [aśva-rūpaṃ](aśvarūpaṃ) [prakalpayet](prakalpayet)
+[foot](pāda) [beginning](ādi) [throat](kaṃṭha) [up-to](paryaṃtam) [horse](aśva) [form](rūpaṃ) [one-should-imagine](prakalpayet)
 
 ## mukta-m0-p51-v1267
-[śrotra-dvayau](śrotradvayau) [sthūla-kaṃṭhau](sthūlakaṃṭhau) [catur-bāhu-samanvitau](caturbāhusamanvitau) [catur-bāhu-samanvitau](caturbāhusamanvitau)
+[two-ears](śrotradvayau) [thick](sthūla) [throats](kaṃṭhau) [four](catur) [arms](bāhu) [endowed-with](samanvitau)
 
 ## mukta-m0-p51-v1268
-[karaṃḍaṃ](karaṃḍaṃ) [ca](ca) [amṛta-ghaṭaṃ](amṛtaghaṭaṃvāma) [vāma](vāma) [haste](haste) [ca](ca) [bibhrataḥ](bibhrataḥ)
+[basket](karaṃḍaṃ) [and](ca) [nectar](amṛta) [pot](ghaṭaṃ) [left](vāma) [in-hand](haste) [and](ca) [bearing](bibhrataḥ)
 
 ## mukta-m0-p51-v1269
-[devānām](devānāṃdasranāsatyau) [dasra-nāsatyau](dasranāsatyau) [nāmnā](nāmnoktau) [uktai](uktai) [śveta-rūpiṇau](śvetarūpiṇau)
+[gods](deva) [bliss](ānaṃda) [and](sra) [Nāsatyas](nāsatyau) [by-name](nāmnā) [called](uktau) [white](śveta) [formed-two](rūpiṇau)
 
 ## mukta-m0-p51-v1270
-[śveta-varṇau](śvetavarṇau) [śveta-varṇau](śvetavarṇau) [śveta-varṇau](śvetavarṇau) [śveta-varṇau](śvetavarṇau)
+[white](śveta) [colored-two](varṇau)
 
 ## mukta-m0-p51-v1271
-[ghāsa-muṣṭiṃ](ghāsamuṣṭiṃ) [tathā](tathākuṃḍīṃ) [kuṃḍīṃ](kuṃḍīṃ) [bibhrāṇā](bibhrāṇābhūtapuṣṭidā) [bhūta-puṣṭi-dā](bhūtapuṣṭidā)
+[grass](ghāsa) [handful](muṣṭiṃ) [and](tathā) [water-pot](kuṃḍīṃ) [bearing](bibhrāṇā) [beings](bhūta) [nourishment](puṣṭi) [giving](dā)
 
 ## mukta-m0-p51-v1272
-[gaura-varṇā](gauravarṇā) [gaura-varṇā](gauravarṇā) [gaura-varṇā](gauravarṇā) [gaura-varṇā](gauravarṇā)
+[fair](gaura) [colored](varṇā) [||](||) [1](1) [||](||) [-](-) [||](||)
 
 ## mukta-m0-p51-v1273
-[maṇḍūka-netrām](maṇḍūkanetrāṃ) [sannāsām](sannāsāṃ) [kāma-dhenu-praninditām](kāmadhenupraninditām) [kāma-dhenu-praninditām](kāmadhenupraninditām)
+[frog](maṇḍūka) [eyed](netrāṃ) [with-good-nose](sannāsāṃ) [Kāmadhenu](kāmadhenu) [surpassing](praninditām)
 
 ## mukta-m0-p51-v1274
-[atyāyata](atyāyata) [śiro-grīvām](śirogrīvāṃ) [vismitā](vismitā) [syā](syābhivīkṣitām) [abhivīkṣitām](abhivīkṣitām)
+[very-long](atyāyata) [head](śiraḥ) [neck](grīvāṃ) [with-wonder](vismitā) [to-be-looked-at](syāt) [to-be-beheld](abhivīkṣitām)
 
 ## mukta-m0-p51-v1275
-[gaura-varṇā](gauravarṇā) [gaura-varṇā](gauravarṇā) [gaura-varṇā](gauravarṇā) [gaura-varṇā](gauravarṇā)
+[fair](gaura) [colored](varṇā)

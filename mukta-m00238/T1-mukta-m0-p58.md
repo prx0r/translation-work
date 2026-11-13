@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[staff-holders](daṃḍinau) [boon-givers](varadau) [to-be-made](kāryau) [rosary+waterpot](sākṣasūtra+kamaṃḍalū)
+[staff-holder](daṃḍinau) [boon-giver](varadau) [to-be-made](kāryau) [with+rosary+thread+water-pot](sa+akṣa+sūtra+kamaṃḍalū)
 
 ## mukta-m0-p58-v1427
-[white](śveta) [color](varṇaḥ)
+[white+colored](śveta+varṇaḥ)
 
 ## mukta-m0-p58-v1428
-[fearless+adorned](abhayā+maṃḍitā) [to-be-made](kāryād) [two-armed](dvibhujā) [and](ca) [thus](tathā) [Śacī](śacī)
+[fearlessness+adorned+form](abhayā+āmaṃḍitā+kāryā) [two+armed](dvi+bhujā) [and](ca) [likewise](tathā) [Śacī](śacī)
 
 ## mukta-m0-p58-v1429
-[golden](kanaka) [color](varṇā)
+[gold+colored](kanaka+varṇā)
 
 ## mukta-m0-p58-v1430
-[thousand-eyed](sahasranetraṃ) [yellowish](pītābhaṃ) [Indra](iṃdraṃ) [in-heart](hṛdi) [meditate](vibhāvaye)
+[thousand+eyed](sahasra+netraṃ) [yellow+hued](pīta+ābham) [Indra](iṃdraṃ) [in-heart](hṛdi) [one-should-visualize](vibhāvayet)
 
 ## mukta-m0-p58-v1431
-[golden](kanaka) [color](varṇaḥ)
+[gold+colored](kanaka+varṇaḥ)
 
 ## mukta-m0-p58-v1432
-[arrow-bow-holder](bāṇacāpadharaḥ) [hero](vīraḥ) [to-be-made](kartavyaḥ) [son-of-Urka](urkasutaḥ) [always](sadā)
+[arrow+bow+holder](bāṇa+cāpa+dharaḥ) [heroic](vīraḥ) [to-be-made](kartavyaḥ) [sun+son](arka+sutaḥ) [always](sadā)
 
 ## mukta-m0-p58-v1433
-[black](kṛṣṇa) [color](varṇaḥ)
+[black+colored](kṛṣṇa+varṇaḥ)
 
 ## mukta-m0-p58-v1434
-[Sāvitrī](sāvitrī) [his](tasya) [to-be-made](kartavyā) [left-lap-seated](vāmotsaṃgagatā) [auspicious](śubhā)
+[Sāvitrī](sāvitrī) [his](tasya) [to-be-made](kartavyā) [left+lap+seated](vāma+utsaṃga+gatā) [auspicious](śubhā)
 
 ## mukta-m0-p58-v1435
-[sacred-thread-wearing](yajñopavītī) [swan-seated](haṃsasthaḥ) [one-faced](ekavaktraḥ) [four-armed](caturbhujaḥ)
+[sacred-thread-wearing](yajña+upavītī) [swan+seated](haṃsa+sthaḥ) [one+faced](eka+vaktraḥ) [four+armed](catur+bhujaḥ)
 
 ## mukta-m0-p58-v1436
-[lotus](padma) [color](varṇaḥ)
+[lotus+colored](padma+varṇaḥ)
 
 ## mukta-m0-p58-v1437
-[Time](kālaḥ) [terrible-faced](karālavadanaḥ) [blue-limbed](nīlāṃgaḥ) [very](ca) [fearsome](ati) [bhīṣaṇaḥ)
+[Kāla](kālaḥ) [terrible+faced](karāla+vadanaḥ) [blue+limbed](nīla+aṃgaḥ) [and](ca) [very+frightful](ati+bhīṣaṇaḥ)
 
 ## mukta-m0-p58-v1438
-[blue](nīla) [color](varṇaḥ)
+[blue+colored](nīla+varṇaḥ)
 
 ## mukta-m0-p58-v1439
-[blue-lion-throne-seated](nīlasiṃhāsanasthaḥ) [ca](ca) [Rāhu](rāhuḥ) [auspicious](śubha) [giver](pradaḥ)
+[blue+lion+seat+seated](nīla+siṃha+āsana+sthaḥ) [and](ca) [Rāhu](rāhuḥ) [to-me](me) [may-be](syāt) [auspicious+giver](śubha+pradaḥ)
 
 ## mukta-m0-p58-v1440
-[blue-cloud](nīlamegha) [color](varṇaḥ)
+[blue+cloud+colored](nīla+megha+varṇaḥ)
 
 ## mukta-m0-p58-v1441
-[one-hooded](ekabhogaḥ) [or](vā) [three-hooded](tribhogaḥ) [all](sarve) [to-be-made](kāryāḥ) [ca](ca) [fearsome](bhīṣaṇāḥ)
+[one+hooded](eka+bhogāḥ) [three+hooded](tri+bhogāḥ) [or](vā) [all](sarve) [to-be-made](kāryāḥ) [and](ca) [frightful](bhīṣaṇāḥ)
 
 ## mukta-m0-p58-v1442
-[red](rakta) [color](varṇaḥ)
+[red+colored](rakta+varṇaḥ)
 
 ## mukta-m0-p58-v1443
-[noose-staff-holder](pāśadaṃḍadharaḥ) [to-be-made](kāryaḥ) [snake-scorpion-haired](sarpavṛścikaromavān)
+[noose+staff+holder](pāśa+daṃḍa+dharaḥ) [to-be-made](kāryaḥ) [snake+scorpion+haired](sarpa+vṛścika+romavān)
 
 ## mukta-m0-p58-v1444
-[black](kṛṣṇa) [color](varṇaḥ)
+[black+colored](kṛṣṇa+varṇaḥ)
 
 ## mukta-m0-p58-v1445
-[pigeon-vehicle](kapotavāhanaḥ) [always](nityaṃ) [Ketus](ketavaḥ) [wealth-givers](sūrvarapradāḥ)
+[dove+vehicled](kapota+vāhanāḥ) [always](nityam) [Ketus](ketavaḥ) [may-be](syuḥ) [boon+givers](vara+pradāḥ)
 
 ## mukta-m0-p58-v1446
-[smoky](dhūmra) [color](varṇāḥ)
+[of-Ketus+in-multiplicity+even](ketūnāṃ+bahutve+api) [of-one+alone](ekasya+eva) [primacy](prādhānyam) [smoke+colored](dhūmra+varṇāḥ)
 
 ## mukta-m0-p58-v1447
-[rosary-pot-fear](akṣasrakkuṃḍikābhīti) [gift-hand](dānahastaṃ) [contemplate](viciṃtaye)
+[rosary+water-pot+fearlessness+gift+hand](akṣa+srak+kuṃḍikā+abhīti+dāna+hastam) [one-should-contemplate](viciṃtayet)
 
 ## mukta-m0-p58-v1448
-[lotus](padma) [color](varṇaḥ)
+[lotus+colored](padma+varṇaḥ)
 
 ## mukta-m0-p58-v1449
-[right](dakṣiṇe) [writing-stylus](lekhinīṃ) [ca](ca) [eva](eva) [hold](dadhaṃ) [left](vāme) [ca](ca) [leaf](patrakam)
+[in-right](dakṣiṇe) [stylus](lekhinīṃ) [and](ca) [indeed](eva) [holding](dadhat) [in-left](vāme) [and](ca) [manuscript-leaf](patrakam)
 
 ## mukta-m0-p58-v1450
-[golden](kanaka) [color](varṇaḥ)
+[gold+colored](kanaka+varṇaḥ)

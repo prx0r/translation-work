@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p03",
  "verse": 68,
- "question": "What divine identity may the accomplished devotee ultimately attain?",
+ "question": "Which additional groups and figures are included alongside the eight mothers?",
  "premises": [
-  "The subject is the accomplished person.",
-  "A possible identity is proposed.",
-  "That identity is Śiva, destroyer of desire."
+  "Field guardians and the lord of obstacles are included.",
+  "Vaṭuka and yoginīs are included.",
+  "A group of eight mothers is included."
  ],
- "inference": "The accomplished devotee may become Śiva himself.",
- "uncertainties": [],
- "plain_english": "He may become Śiva."
+ "inference": "The retinue includes field guardians, the lord of obstacles, Vaṭuka, yoginīs, and the eight mothers.",
+ "uncertainties": [
+  "The compound chain may be parsed as a list of distinct entities or closely linked groups."
+ ],
+ "plain_english": "There are field guardians, the lord of obstacles, Vaṭuka, yoginīs, and the group of eight mothers."
 }

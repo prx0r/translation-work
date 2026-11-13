@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[black](kṛṣṇa)+[color](varṇaḥ)
+[black-colored](kṛṣṇavarṇaḥ)
 
 ## mukta-m0-p55-v1352
-[long-lived](ciraṃjīvī) [long-life](dīrghamāyuḥ)+[grant](dadātu) [matted-haired](jaṭilaḥ) [my](mama)
+[long-living](ciraṃjīvī) [long+life](dīrgham+āyur) [may-give](dadātu) [matted-haired-one](jaṭilo) [to-me](mama)
 
 ## mukta-m0-p55-v1353
-[black](kṛṣṇa)+[color](varṇaḥ)
+[black-colored](kṛṣṇavarṇaḥ)
 
 ## mukta-m0-p55-v1354
-[reviving](saṃjīvana)+[remover](apahartā) [my](me) [long-life](dīrghamāyuḥ)+[grant](dadātu)+[here](iha)
+[reviving+remover](saṃjīvana+āpahartā) [to-me](me) [long+life](dīrgham+āyur) [may-give](dadātu) [here](iha)
 
 ## mukta-m0-p55-v1355
-[crystal](sphaṭika)+[color](varṇaḥ)
+[crystal-colored](sphaṭikavarṇaḥ)
 
 ## mukta-m0-p55-v1356
-[grant](dadātu) [long-livedness](cirajīvitvaṃ) [long-lived](ciraṃjīvī) [sense-conquered](jiteṃdriyaḥ)
+[may-give](dadātu) [long+life](cira+jīvitvaṃ) [long-living](ciraṃjīvī) [sense-conqueror](jiteṃdriyaḥ)
 
 ## mukta-m0-p55-v1357
-[black](kṛṣṇa)+[color](varṇaḥ)
+[black-colored](kṛṣṇavarṇaḥ)
 
 ## mukta-m0-p55-v1358
-[spread](vitanotu) [cheerful](prasannātmā) [as-long-as-life](yāvajjīvam) [freedom-from-disease](arogatām)
+[may-bestow](vitanotu) [serene-minded](prasannātmā) [as-long-as+life](yāvaj+jīvam) [freedom-from-disease](arogatām)
 
 ## mukta-m0-p55-v1359
-[white](śveta)+[color](varṇaḥ)
+[white-colored](śvetavarṇaḥ)
 
 ## mukta-m0-p55-v1360
-[grant](dadātu) [long-livedness](cirajīvitvaṃ) [cheerful](prasannātmā) [bhṛgu-descendant](bhṛgūdvahaḥ)
+[may-give](dadātu) [long+life](cira+jīvitvaṃ) [serene-minded](prasannātmā) [descendant-of-bhṛgu](bhṛgūdvahaḥ)
 
 ## mukta-m0-p55-v1361
-[golden](svarṇa)+[color](varṇaḥ)
+[gold-colored](svarṇavarṇaḥ)
 
 ## mukta-m0-p55-v1362
-[I-meditate](dhyāyāmi)+[I](ahaṃ) [great-gentle](mahāsaumyaṃ) [prahlāda](prahlādaṃ) [long-lived](cirajīvinam)
+[meditate](dhyāyāmi) [I](ahaṃ) [great+gentle](mahā+saumyaṃ) [prahlāda](prahlādaṃ) [long-living](cira+jīvinam)
 
 ## mukta-m0-p55-v1363
-[golden](svarṇa)+[color](varṇaḥ)
+[gold-colored](svarṇavarṇaḥ)
 
 ## mukta-m0-p55-v1364
-[veda-śāstra-meaning](vedaśāstrārtha) [truth-knower](tattvajñaṃ) [mārkaṇḍeya](mārkaṃḍeya) [I-worship](mahaṃbhaje)
+[veda+scripture+meaning+truth-knower](veda+śāstra+artha+tattvajñaṃ) [mārkaṇḍeya](mārkaṃḍeya) [greatly](mahaṃ) [I-worship](bhaje)
 
 ## mukta-m0-p55-v1365
-[pure-white](śubhra)+[color](varṇaḥ)
+[bright-colored](śubhravarṇaḥ) [||](||) [1](1)
 
 ## mukta-m0-p55-v1366
-[vyāsa](vyāsaḥ) [kṛṣṇa](kṛṣṇo) [māruta](mārutistu) [crystal-like](sphaṭikābhaḥ) [declared](prakīrtitaḥ)
+[vyāsa](vyāsaḥ) [black](kṛṣṇo) [son-of-wind](mārutiḥ) [but](tu) [crystal-hued](sphaṭikābhaḥ) [is-celebrated](prakīrtitaḥ)
 
 ## mukta-m0-p55-v1367
-[jāmadagnya](jāmadagnyassuvarṇābho) [golden-like](suvarṇābho) [mārkaṇḍeya](mārkaṃḍeyassitassmṛtaḥ) [white](sitassmṛtaḥ)
+[descendant-of-jamadagni](jāmadagnyaḥ) [golden-hued](suvarṇābho) [mārkaṇḍeya](mārkaṃḍeyaḥ) [white](sitaḥ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p55-v1368
-[prahlāda](prahlādaśca) [golden-like](suvarṇābho) [colors](varṇā) [these](eṣāṃ) [declared](prakīrtitāḥ)
+[prahlāda](prahlādaḥ) [and](ca) [golden-hued](suvarṇābho) [colors](varṇā) [of-these](eṣāṃ) [are-declared](prakīrtitāḥ)
 
 ## mukta-m0-p55-v1369
-[he](sa) [vedas](vedāśca) [vasiṣṭha](vasiṣṭhaśca) [bhṛgu](bhṛgurnārada) [nārada](nārada) [indeed](eva) [ca](ca)
+[he](sa) [veda](vedāḥ) [and](ca) [vasiṣṭha](vasiṣṭhaḥ) [and](ca) [bhṛgu](bhṛguḥ) [nārada](nārada) [indeed](eva) [and](ca)
 
 ## mukta-m0-p55-v1370
-[good-pot](sukuṃbhākṣadharāḥkāryā) [munis](munayo) [two-armed](dvibhujā) [ten](daśa)
+[holding-beautiful+water-pot+rosary](sukuṃbha+akṣa+dharāḥ) [should-be-made](kāryā) [sages](munayo) [two-armed](dvibhujā) [ten](daśa)
 
 ## mukta-m0-p55-v1371
-[with-friend](sakhyeva) [vīṇā](vīṇayāvāma) [left](vāma) [arm-root](bhujamūlopagūḍhayā)
+[as-if-friend](sakhyeva) [with-lute](vīṇayā) [by-left](vāma) [embraced-at-shoulder-base](bhuja+mūla+upagūḍhayā)
 
 ## mukta-m0-p55-v1372
-[white](śveta)+[color](varṇāḥ)
+[white-colored](śvetavarṇāḥ)
 
 ## mukta-m0-p55-v1373
-[bhṛvaṇa](bhṛvaṇo) [bhāvana](bhāvanaścaiva) [sujanya](sujanyassujanastathā) [sujana](sujanastathā)
+[bhṛvaṇa](bhṛvaṇo) [bhāvana](bhāvanaḥ) [and](ca) [indeed](eva) [sujanya](sujanyaḥ) [sujana](sujanaḥ) [likewise](tathā)
 
 ## mukta-m0-p55-v1374
-[pravāsa](pravāsaścāvyayaścaiva) [avyaya](avyayaścaiva) [dakṣa](dakṣodvādaśakastathā) [twelve](dvādaśakastathā)
+[pravāsa](pravāsaḥ) [and](ca) [avyaya](avyayaḥ) [and](ca) [indeed](eva) [dakṣa-group-of-twelve](dakṣa+udvādaśakaḥ) [likewise](tathā)
 
 ## mukta-m0-p55-v1375
-[white](śveta)+[color](varṇāḥ)
+[white-colored](śvetavarṇāḥ)

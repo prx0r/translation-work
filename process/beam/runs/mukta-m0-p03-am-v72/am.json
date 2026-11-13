@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p03",
  "verse": 72,
- "question": "What enduring devotion persists for the devotee across successive births?",
+ "question": "What transmission occurred from Marīci to Indra after worship was performed?",
  "premises": [
-  "The devotee is truly devoted.",
-  "Devotion is considered across births.",
-  "This devotion persists in every birth."
+  "Marīci performed worship.",
+  "Indra is the recipient.",
+  "Marīci gave something to Indra."
  ],
- "inference": "The devotee remains truly devoted in every birth.",
- "uncertainties": [],
- "plain_english": "Truly devoted in every birth."
+ "inference": "After worshipping, Marīci gave it to Indra.",
+ "uncertainties": [
+  "The object given is implicit from context."
+ ],
+ "plain_english": "Having worshipped, Marīci gave it to Indra."
 }

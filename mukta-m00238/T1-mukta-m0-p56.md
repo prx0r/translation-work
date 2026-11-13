@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p56-v1376
-[self](ātmā) [life](āyur) [mind-skilled](manodakṣaḥ) [foot-reaching](pādaprāpaḥ) [thus-indeed](tathaiva) [and](ca)
+[self](ātmā) [life](āyuḥ)+[mind](manaḥ)+[skill](dakṣaḥ) [foot](pāda)+[attained](prāpaḥ) [thus](tathā)+[indeed](eva) [and](ca)
 
 ## mukta-m0-p56-v1377
-[yellow-colored](pītavarṇāḥ)
+[yellow](pīta)+[colored](varṇāḥ)
 
 ## mukta-m0-p56-v1378
-[sarasvati's](sārasvataṃ) [grammar](vyākaraṇaṃ) [etymology](niruktaṃ) [varuṇa](varuṇaḥ) [lord](prabhuḥ)
+[relating-to-Sarasvatī](sārasvataṃ) [grammar](vyākaraṇaṃ) [etymology](niruktaṃ) [Varuṇa](varuṇaḥ) [lord](prabhuḥ)
 
 ## mukta-m0-p56-v1379
-[mīmāṃsā](mīmāṃsā) [blessed](bhagavān) [soma](somaḥ) [nyāya-path-wind](nyāyamārgassamīraṇaḥ)
+[exegesis](mīmāṃsā) [venerable](bhagavān)+[Soma](somo) [logic](nyāya)+[path](mārgaḥ)+[wind-god](samīraṇaḥ)
 
 ## mukta-m0-p56-v1380
-[history](itihāsaḥ) [people-lord](prajādhyakṣaḥ) [dhanurveda](dhanurvedaḥ) [indra](śśatakratuḥ)
+[epic-history](itihāsaḥ) [lord-of-creatures](prajādhyakṣo) [archery-science](dhanurvedaḥ)+[Indra](śatakratuḥ)
 
 ## mukta-m0-p56-v1381
-[phala-veda](phalavedaḥ) [great-god](mahādevaḥ) [dance-science](nṛttaśāstraṃ) [maheśvara](maheśvaraḥ)
+[fruit-science](phalavedo) [great-god](mahādevo) [dance-science](nṛttaśāstraṃ) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p56-v1382
-[pātañjala](pātaṃjalam) [ananta](anaṃtaḥ) [and](ca) [sāṃkhya](sāṃkhyaṃ) [and](ca) [kapila](kapilaḥ) [sage](muniḥ)
+[Pātañjala](pātaṃjalam)+[Ananta](anaṃtaḥ)+[and](ca) [Sāṃkhya](sāṃkhyaṃ) [and](ca) [Kapila](kapilo) [sage](muniḥ)
 
 ## mukta-m0-p56-v1383
-[arts-sciences](kalāśāstrāṇi) [all](sarvāṇi) [kāmadeva](kāmadevaḥ) [world-teacher](jagadguruḥ)
+[art](kalā)+[sciences](śāstrāṇi) [all](sarvāṇi) [Kāmadeva](kāmadevo) [world](jagat)+[teacher](guruḥ)
 
 ## mukta-m0-p56-v1384
-[he](saḥ) [indeed](eva) [deity](devatā) [his](tasya) [science](śāstraṃ) [poetry](kāvyaṃ) [and](ca) [veda-like](vedavat)
+[he](sa) [indeed](eva) [deity](devatā) [of-that](tasya) [science](śāstraṃ) [poetry](kāvyaṃ) [and](ca) [like-Veda](vedavat)
 
 ## mukta-m0-p56-v1385
-[sky-goers](khecarāḥ) [who](ye) [gods-goers](devacarāḥ) [them](tān) [I-bow](namasye) [happiness-attainment](sukhāptaye)
+[sky](khe)+[moving](carā) [who](ye) [god](deva)+[moving](carāḥ)+[to-them](tān)+[food](namasye) [happiness](sukha)+[attainment](āptaye) [||1](|| 1)
 
 ## mukta-m0-p56-v1386
-[tongs-handed](saṃdaṃśapāṇiḥ) [two-armed](dvibhujaḥ) [radiance](tejaḥ) [form-bearing](mūrtidharaḥ) [great](mahān)
+[tongs](saṃdaṃśa)+[in-hand](pāṇiḥ)+[two](dvi)+[armed](bhujaḥ)+[splendor](tejo) [form](mūrti)+[bearing](dharo) [great](mahān)
 
 ## mukta-m0-p56-v1387
-[golden-colored](kanakavarṇaḥ)
+[golden](kanaka)+[colored](varṇaḥ) [||1](|| 1)
 
 ## mukta-m0-p56-v1388
-[seven-horse-chariot-yoked](saptāśvarathasaṃyuktaḥ) [two-armed](dvibhujaḥ) [with-wife](sadāraviḥ)
+[seven](sapta)+[horse](aśva)+[chariot](ratha)+[joined](saṃyukto) [two](dvi)+[armed](bhujaḥ)+[should-be](syāt) [always](sadā)+[sun](raviḥ)
 
 ## mukta-m0-p56-v1389
-[pale-red-colored](pāṭalavarṇaḥ)
+[pale-red](pāṭala)+[colored](varṇaḥ)
 
 ## mukta-m0-p56-v1390
-[lotus-pair-abhaya-vara-holding](padmadvayābhayavarāndadhataṃ) [hand-lotuses](karābjaiḥ) [three-eyed](trinayana) [shining](vilasad) [veda-mouths](vedavaktrābhirāmaṃ) [sun](mārtāṃḍaṃ) [consort-rich](vallabhāḍhyaṃ) [gem-crown](maṇimayamakuṭaṃ) [diamond-shining](hīradīptaṃ) [we-worship](bhajāmaḥ)
+[hands](hasta)+[lotuses](āṃbhojaiḥ)+[holding](dadhānaṃ) [three](tri)+[eye](nayana)+[shining](vilasad)+[Veda](veda)+[face](vaktra)+[delightful](abhirāmaṃ) [sun](mārtāṃḍaṃ)+[consort](vallabhā)+[endowed](ḍhyaṃ) [jewel](maṇi)+[made](maya)+[crown](makuṭaṃ) [diamond](hīra)+[shining](dīptaṃ) [we-worship](bhajāmaḥ)
 
 ## mukta-m0-p56-v1391
-[coral-colored](vidrumavarṇā)
+[coral](vidruma)+[colored](varṇā) [||1](|| 1 || - ||)
 
 ## mukta-m0-p56-v1392
-[lotus-pair-abhaya-vara-holding](padmadvayābhayavarāndadhataṃ) [hand-lotuses](karābjaiḥ) [ruby-crown](māṇikyamauliṃ) [red-limbed](aruṇāṃgaruciṃ) [three-eyed](triṇetram)
+[two-lotuses](padmadvaya)+[fearlessness](abhaya)+[boons](varān)+[holding](dadhataṃ) [with-hand](kara)+[lotuses](ābjaiḥ)+[ruby](māṇikya)+[crown](mauli)+[red](aruṇa)+[limb](āṃga)+[luster](ruciṃ) [three](tri)+[eyed](netram)
 
 ## mukta-m0-p56-v1393
-[red-colored](raktavarṇaḥ)
+[red](rakta)+[colored](varṇaḥ)
 
 ## mukta-m0-p56-v1394
-[goat-mounted](chāgasthaḥ) [rosary](sākṣasūtraḥ) [and](ca) [boon-giver](varadaḥ) [śakti-holder](śaktidhārakaḥ)
+[goat](chāga)+[mounted](sthaḥ) [with-rosary](sākṣasūtraḥ)+[and](ca) [boon](vara)+[giver](daḥ) [spear](śakti)+[holder](dhārakaḥ)
 
 ## mukta-m0-p56-v1395
-[reddish-colored](aruṇavarṇaḥ)
+[reddish](aruṇa)+[colored](varṇaḥ)
 
 ## mukta-m0-p56-v1396
-[skull-trident-club-pināka-moon-crested](kapālaśūlakhaṭvāṃgapinākīṃduśirāḥ) [śiva](śivaḥ)
+[skull](kapāla)+[trident](śūla)+[club](khaṭvāṃga)+[bow](pinākī)+[moon](iṃdu)+[on-head](śirāḥ) [Śiva](śivaḥ)
 
 ## mukta-m0-p56-v1397
-[white-colored](śvetavarṇaḥ)
+[white](śveta)+[colored](varṇaḥ)
 
 ## mukta-m0-p56-v1398
-[mace-handed](gadāpāṇiḥ) [two-armed](dvibāhuḥ) [and](ca) [to-be-made](kartavyaḥ) [boon-giver](varadaḥ) [moon](śaśī)
+[mace](gadā)+[in-hand](pāṇiḥ)+[two](dvi)+[armed](bāhuḥ)+[and](ca) [to-be-made](kartavyo) [boon](vara)+[giver](daḥ)+[moon](śaśī)
 
 ## mukta-m0-p56-v1399
-[white-colored](śvetavarṇaḥ)
+[white](śveta)+[colored](varṇaḥ) [||1](|| 1 || - ||)
 
 ## mukta-m0-p56-v1400
-[own-lap-seated](svasyāṃkasthaṃ) [deer](mṛga) [rising](uditā) [quality](guṇaṃ) [soma](somaṃ) [nectar-ocean](sudhābdhiṃ) [I-worship](bhaje)
+[own](svasya)+[lap](āṃka)+[seated](stha)+[deer](mṛga)+[risen](uditā) [refuge](śraya)+[quality](guṇaṃ) [Soma](somaṃ) [nectar](sudhā)+[ocean](abdhiṃ) [I-worship](bhaje)

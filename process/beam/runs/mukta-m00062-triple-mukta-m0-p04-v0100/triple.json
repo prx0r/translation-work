@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "vāma+ācāra+ratā",
+     "gloss": "devoted-to-left-hand-practice",
+     "grounds": "compound of vāma (left), ācāra (practice), and ratā (devoted)",
+     "morph": "compound(vāma+ācāra+rata).f.nom.sg"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "worthy-of-worship",
+     "grounds": "gerundive adjective describing the subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṇimā+ādi+aṣṭa+siddhi+dā",
+     "gloss": "giver-of-eight-powers-beginning-with-aṇimā",
+     "grounds": "compound of aṇimā+ādi (beginning with aṇimā), aṣṭa (eight), siddhi (powers), and dā (giver)",
+     "morph": "compound(aṇimā+ādi+aṣṭa+siddhi+da).f.nom.sg"
+    }
+   ],
+   "question": "What status and powers belong to one devoted to left-hand practice?",
+   "premises": [
+    "She is devoted to left-hand practice.",
+    "She is indeed worthy of worship.",
+    "She grants the eight powers beginning with aṇimā."
+   ],
+   "inference": "Therefore, devotion to left-hand practice confers worship-worthiness and the capacity to bestow the eight powers.",
+   "uncertainties": [],
+   "plain_english": "Devoted to the left-hand practice, she is indeed worthy of worship and grants the eight powers beginning with aṇimā."
+  }
+ ]
+}

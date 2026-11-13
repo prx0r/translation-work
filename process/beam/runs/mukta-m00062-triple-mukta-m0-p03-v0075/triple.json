@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "aghora+bhairava",
+     "gloss": "aghora-bhairava",
+     "grounds": "compound proper name addressed to the deity",
+     "morph": "aghora+bhairava(m.voc.sg)"
+    },
+    {
+     "surface": "uddiṣṭā",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what is taught",
+     "morph": "f.nom.sg.ppp(ud-diś)"
+    },
+    {
+     "surface": "niśyeśī",
+     "gloss": "niśyeśī",
+     "grounds": "proper name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding a further characterization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niraṅgalā",
+     "gloss": "without-limbs",
+     "grounds": "compound adjective describing Niśyeśī",
+     "morph": "nis+aṅga+lā(f.nom.sg)"
+    }
+   ],
+   "question": "What additional characterization of Niśyeśī is declared to Aghora Bhairava?",
+   "premises": [
+    "Aghora Bhairava is being addressed.",
+    "Niśyeśī is the subject declared.",
+    "Niśyeśī is characterized as without limbs."
+   ],
+   "inference": "Niśyeśī is additionally declared to Aghora Bhairava as being without limbs.",
+   "uncertainties": [
+    "The precise doctrinal sense of niraṅgalā in this context is not fully specified."
+   ],
+   "plain_english": "O Aghora Bhairava, Niśyeśī is also declared to be without limbs."
+  }
+ ]
+}
