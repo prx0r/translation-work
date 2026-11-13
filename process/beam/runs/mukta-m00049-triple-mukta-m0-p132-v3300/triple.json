@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "dhārāhomāntam",
+     "gloss": "up-to-stream-oblation-end",
+     "grounds": "compound indicating the limit or conclusion of the stream oblation; accusative object of extent with ācarya",
+     "morph": "compound: dhārā+homānta.acc.sg.nt"
+    },
+    {
+     "surface": "ācarya",
+     "gloss": "having-performed",
+     "grounds": "absolutive expressing completion of the prior action before the next begins",
+     "morph": "gerund: ā-√car"
+    },
+    {
+     "surface": "vāstuhomaṃ",
+     "gloss": "vāstu-oblation",
+     "grounds": "compound naming the oblation directed to Vāstu; direct object of samārabhet",
+     "morph": "compound: vāstu+homa.acc.sg.m"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "prescriptive optative enjoining the commencement of the Vāstu oblation",
+     "morph": "verb: 3.sg.optative.ātmanepada, sam-ā-√rabh"
+    }
+   ],
+   "question": "At what ritual point should the practitioner commence the Vāstu oblation?",
+   "premises": [
+    "The stream oblation has a defined endpoint.",
+    "That endpoint must be reached through performance.",
+    "The Vāstu oblation is to be commenced thereafter."
+   ],
+   "inference": "Therefore, the practitioner should begin the Vāstu oblation only after having completed the stream oblation up to its end.",
+   "uncertainties": [
+    "The exact ritual details of dhārāhoma are not specified in this verse."
+   ],
+   "plain_english": "Having performed the stream oblation up to its conclusion, one should begin the Vāstu oblation."
+  }
+ ]
+}

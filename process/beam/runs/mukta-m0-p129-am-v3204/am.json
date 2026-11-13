@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p129",
  "verse": 3204,
- "question": "Which sequence of ten offerings is prescribed in order?",
+ "question": "Where must Mars and Mercury be placed within the directional layout of the diagram?",
  "premises": [
-  "Offerings begin with fragrance",
-  "Offerings end with food-offering",
-  "Ten offerings are counted in sequence"
+  "The ritual assigns planets to specific directions.",
+  "Mars is associated with the southeast.",
+  "Mercury is associated with the south and southwest corner context."
  ],
- "inference": "The ten offerings in order are those beginning with fragrance and ending with food-offering.",
+ "inference": "Mars is placed in the southeast and Mercury in the south at the southwest corner.",
  "uncertainties": [
-  "The exact intermediate items between fragrance and food-offering are not listed here."
+  "The syntax is compressed; the exact placement of Mercury relative to 'south' and 'southwest corner' is somewhat ambiguous."
  ],
- "plain_english": "In order, the ten offerings are those beginning with fragrance and ending with food-offering."
+ "plain_english": "Place Mars in the southeast and Mercury in the south, in the southwest corner."
 }
