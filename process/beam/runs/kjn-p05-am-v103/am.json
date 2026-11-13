@@ -1,12 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "What is the origin and number of this chapter?",
+ "question": "What chapter emerges from Candradīpa in this sequence?",
  "premises": [
-  "The chapter emerged from Candradīpa.",
-  "It is the fifth chapter."
+  "origin is candradīpa",
+  "ordinal is fifth",
+  "unit is chapter"
  ],
- "inference": "Therefore this is the fifth chapter emerging from Candradīpa.",
+ "inference": "This is the fifth chapter emerging from Candradīpa.",
  "uncertainties": [],
  "plain_english": "The fifth chapter emerged from Candradīpa."
 }

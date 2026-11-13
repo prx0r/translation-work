@@ -7,39 +7,39 @@
     {
      "surface": "aṣṭau",
      "gloss": "eight",
-     "grounds": "cardinal numeral eight",
-     "morph": "numeral.nom.pl.m"
+     "grounds": "numeral eight",
+     "morph": "num.indecl."
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "conjunction",
-     "morph": "(indecl.)"
+     "morph": "indecl."
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
      "gloss": "siddhi-attainment-root-kaula",
-     "grounds": "compound of siddhi, saṃprāpti, mūla, and kaula",
-     "morph": "compound (siddhi+saṃprāpti+mūla+kaula)"
+     "grounds": "compound of siddhi, saṃprāpti, mūla, and kaula; accusative singular neuter ending -ṃ",
+     "morph": "acc.sg.n (compound)"
     },
     {
      "surface": "varānane",
-     "gloss": "o-fair-faced-one",
-     "grounds": "vocative address to the goddess",
+     "gloss": "fair-faced-one",
+     "grounds": "vocative singular feminine address",
      "morph": "voc.sg.f"
     }
    ],
-   "question": "What is identified as the root kaula when eight siddhis are attained?",
+   "question": "Which Kaula root is linked to siddhi attainment in this teaching?",
    "premises": [
-    "Eight siddhis are attained.",
-    "That attainment is called mūlakaula.",
-    "The goddess is addressed."
+    "eight is enumerated",
+    "siddhi attainment has root Kaula",
+    "fair-faced goddess is addressed"
    ],
-   "inference": "The verse identifies mūlakaula with the attainment of eight siddhis.",
+   "inference": "the verse names eight and root Kaula",
    "uncertainties": [
-    "The exact scope of mūlakaula beyond this identification is not stated."
+    "verse fragment lacks full predicate"
    ],
-   "plain_english": "Eight, and the attainment of siddhis, is the root kaula, O fair-faced one."
+   "plain_english": "Eight, and the root Kaula of siddhi-attainment, O fair-faced one."
   }
  ]
 }

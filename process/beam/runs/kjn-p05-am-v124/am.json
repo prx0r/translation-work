@@ -1,15 +1,14 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Why does poison not enter the body even when bitten by great serpents?",
+ "question": "Does poison enter the body even when bitten by great serpents?",
  "premises": [
-  "Poison does not enter the body.",
-  "This holds even when bitten.",
-  "The biters are great serpents."
+  "poison does not enter",
+  "even great serpent bites"
  ],
- "inference": "The verse claims immunity to poison even from great serpent bites.",
+ "inference": "Poison does not enter the body even after great serpent bites.",
  "uncertainties": [
-  "Whether the immunity is literal or yogic/alchemical."
+  "exact protective method"
  ],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "plain_english": "Poison does not enter the body, even when bitten by great serpents."
 }
