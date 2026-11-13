@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 320,
- "question": "After the true nature has been declared, what else remains to be asked now?",
+ "question": "What true nature has been declared to the goddess?",
  "premises": [
-  "true nature has been declared",
-  "goddess is addressed",
-  "question concerns further inquiry"
+  "The verse says true-nature declared.",
+  "It asks what else you ask now."
  ],
- "inference": "The verse asks what further question remains after the true nature has already been declared.",
+ "inference": "The true nature has been declared, so no further question is needed now.",
  "uncertainties": [
-  "exact doctrinal context unclear"
+  "Exact referent is implicit."
  ],
- "plain_english": "O goddess, the true nature has been declared; what else do you ask now?"
+ "plain_english": "The true nature has been declared, O goddess; what else do you ask now?"
 }

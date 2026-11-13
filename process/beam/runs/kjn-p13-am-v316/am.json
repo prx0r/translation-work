@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 316,
- "question": "Which vessels are praised as supreme for ritual drinking?",
+ "question": "What kaulika and other vessel are named?",
  "premises": [
-  "kaulika vessel is praised",
-  "glass-born vessel is praised",
-  "beloved is addressed"
+  "The verse names kaulika.",
+  "It names another glass-born."
  ],
- "inference": "The verse adds kaulika and glass-born vessels to the praised list.",
+ "inference": "Kaulika and another glass-born vessel are named.",
  "uncertainties": [
-  "exact ritual context is not stated in this excerpt"
+  "Compound segmentation is approximate."
  ],
- "plain_english": "Likewise, O fair-hipped one, another kaulika vessel and a glass-born vessel are praised."
+ "plain_english": "Kaulika, and likewise another glass-born vessel."
 }

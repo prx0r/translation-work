@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 304,
- "question": "Which chapter emerges in the context of the moon island?",
+ "question": "Which chapter emerges from the moon island?",
  "premises": [
-  "Moon island context is named",
-  "Eleventh is stated",
-  "Chapter is named"
+  "The verse names moon-island-emerged.",
+  "It calls the eleventh chapter."
  ],
- "inference": "The verse identifies the eleventh chapter in that context.",
+ "inference": "The eleventh chapter is the one emerged from the moon island.",
  "uncertainties": [
-  "Case sense is interpretive"
+  "Compound segmentation is approximate."
  ],
- "plain_english": "The eleventh chapter emerges in the moon-island context."
+ "plain_english": "The eleventh chapter emerges from the moon island."
 }

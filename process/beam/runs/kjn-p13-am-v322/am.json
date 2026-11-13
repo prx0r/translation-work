@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 322,
- "question": "Which chapter is identified by the characteristic of the conduct vessel?",
+ "question": "Which chapter is the conduct-vessel-characteristic?",
  "premises": [
-  "chapter is twelfth",
-  "characteristic concerns conduct vessel",
-  "title is stated"
+  "The verse names conduct-vessel-characteristic.",
+  "It calls the twelfth chapter."
  ],
- "inference": "The verse identifies the twelfth chapter as the characteristic of the conduct vessel.",
+ "inference": "The twelfth chapter is the conduct-vessel-characteristic.",
  "uncertainties": [
-  "chapter numbering context unclear"
+  "Compound segmentation is approximate."
  ],
- "plain_english": "The twelfth chapter: characteristic of the conduct vessel."
+ "plain_english": "The twelfth chapter is the conduct-vessel-characteristic."
 }

@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 301,
- "question": "What is described as eternally equal to the rising sun's splendor and dear to the yogini?",
+ "question": "What is declared eternally dear to the yoginis?",
  "premises": [
-  "Rising sun splendor is invoked",
-  "The state is eternal",
-  "It is dear to yogini"
+  "The verse names rising-sun-equal-splendor.",
+  "It says this is eternally dear to yoginis."
  ],
- "inference": "The verse praises an eternal splendor beloved by yoginis.",
+ "inference": "The yoginis' beloved is the rising-sun-equal-splendor.",
  "uncertainties": [
-  "Compound segmentation is interpretive"
+  "Compound segmentation is approximate."
  ],
- "plain_english": "It is eternally like the rising sun's splendor and dear to the yogini."
+ "plain_english": "The rising-sun-equal-splendor is eternally dear to the yoginis."
 }

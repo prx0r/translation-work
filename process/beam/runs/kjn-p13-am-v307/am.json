@@ -1,14 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 307,
- "question": "Which vessel-types are enumerated first and second in this list?",
+ "question": "What forms are named as first and second?",
  "premises": [
-  "First vessel is boy-form.",
-  "Second vessel is madman-form."
+  "The verse names first in boy form.",
+  "It names second as madman form."
  ],
- "inference": "The verse begins the enumeration of vessel-types with boy-form and madman-form.",
+ "inference": "The first is boy form and the second is madman form.",
  "uncertainties": [
-  "Exact doctrinal status of each vessel-type is not stated here."
+  "Compound segmentation is approximate."
  ],
- "plain_english": "First is in boy-form; second is in madman-form."
+ "plain_english": "First is boy form, second is madman form."
 }

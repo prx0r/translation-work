@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 321,
- "question": "By whose grace is the determination of knowledge to be known?",
+ "question": "What is to be known by that grace?",
  "premises": [
-  "grace is the means",
-  "lord of gods is addressed",
-  "knowledge determination is to be known"
+  "The verse says by that grace.",
+  "It says knowledge-determination is to be known."
  ],
- "inference": "The verse states that the determination of knowledge is to be known by that grace.",
+ "inference": "By that grace, knowledge-determination is to be known.",
  "uncertainties": [
-  "referent of that grace unclear"
+  "Compound segmentation is approximate."
  ],
- "plain_english": "By that grace, O lord of gods, the determination of knowledge is to be known."
+ "plain_english": "By that grace, O lord of gods, knowledge-determination is to be known."
 }

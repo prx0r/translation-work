@@ -1,14 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 308,
- "question": "Which further vessel-types are named as fifth and sixth?",
+ "question": "What are named as fifth and sixth?",
  "premises": [
-  "Fifth vessel is independence.",
-  "Sixth vessel is hero-lord."
+  "The verse names independence as fifth.",
+  "It names hero-lord as sixth."
  ],
- "inference": "The enumeration continues with independence and hero-lord.",
+ "inference": "Independence is fifth and hero-lord is sixth.",
  "uncertainties": [
-  "The relation of these terms to prior vessel-types is not explained."
+  "Compound segmentation is approximate."
  ],
- "plain_english": "Fifth is independence; sixth is hero-lord."
+ "plain_english": "Independence is fifth, and hero-lord is sixth."
 }

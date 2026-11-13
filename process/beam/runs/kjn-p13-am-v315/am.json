@@ -1,16 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 315,
- "question": "Which materials are named for vessels in this list?",
+ "question": "What vessel materials are named to the goddess?",
  "premises": [
-  "clay is named",
-  "tortoise-born is named",
-  "bell-metal is named",
-  "copper-metal is named"
+  "The verse names made-of-clay.",
+  "It names tortoise-born, bell-metal, and copper-metal-born."
  ],
- "inference": "The named vessel materials include clay, tortoise-born, bell-metal, and copper-metal.",
+ "inference": "The named vessel materials include clay, tortoise-born, bell-metal, and copper-metal-born.",
  "uncertainties": [
-  "whether kūrmajaṃ denotes a tortoise-shell vessel"
+  "Compound segmentation is approximate."
  ],
- "plain_english": "Clay, tortoise-born, O goddess, bell-metal, copper-metal-born."
+ "plain_english": "Made-of-clay, tortoise-born, bell-metal, and copper-metal-born are named."
 }
