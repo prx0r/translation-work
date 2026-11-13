@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2524,
- "question": "What fruit is traditionally declared for the gift of a man weighed in a balance?",
+ "question": "Which five deities beginning with Soma are located on the arm of the Vāstunara?",
  "premises": [
-  "The gift of a man weighed in a balance is a known ritual",
-  "That ritual has a declared fruit",
-  "The verse refers to that declared fruit"
+  "A group beginning with Soma is indicated.",
+  "The group consists of five deities.",
+  "These deities are located on the arm."
  ],
- "inference": "The verse invokes the fruit that is declared for the tulāpuruṣa gift.",
- "uncertainties": [],
- "plain_english": "The fruit that is declared for the gift of a man weighed in a balance."
+ "inference": "Five deities, beginning with Soma and including Jaya, Giri, Tarda, and Dasya, are situated on the arm.",
+ "uncertainties": [
+  "The exact segmentation of giristardaśasyau into individual names is uncertain."
+ ],
+ "plain_english": "Jaya, Giri, Tarda, Dasya, and the group beginning with Soma—these five are situated on the arm."
 }

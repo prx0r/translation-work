@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2523,
- "question": "What removal of sin is requested from the goddess in cow form?",
+ "question": "Which deities are assigned to the head and to the two eyes of the Vāstunara?",
  "premises": [
-  "The goddess appears in the form of a cow",
-  "The supplicant has sin",
-  "The goddess is asked to remove that sin"
+  "The head is a specified location.",
+  "The two eyes are specified locations.",
+  "Īśa, Aditi, Āpa, and related deities are named."
  ],
- "inference": "May the goddess in cow form remove my sin.",
- "uncertainties": [],
- "plain_english": "May that goddess in the form of a cow remove my sin."
+ "inference": "Īśa and Aditi are associated with the head, while Āpa and Aditi are associated with the two eyes.",
+ "uncertainties": [
+  "The exact parsing of ceśāditī and nityamāpodityau is uncertain due to fusion."
+ ],
+ "plain_english": "On the head are Īśa and Aditi, and in the two eyes are Āpa and Aditi."
 }

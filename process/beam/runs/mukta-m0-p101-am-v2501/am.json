@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2501,
- "question": "What bodily reward follows from beholding the million-liṅga?",
+ "question": "Which offerings and directional placement are assigned to Diti and Lopima-Aditi in this ritual sequence?",
  "premises": [
-  "The million-liṅga is to be beheld",
-  "Beholding leads to obtaining a body",
-  "The obtained body is immortal"
+  "Diti and Lopima-Aditi are named as recipients.",
+  "Cake and broth are specified as offerings.",
+  "A half division and northern direction govern placement."
  ],
- "inference": "Beholding the million-liṅga grants an immortal body.",
- "uncertainties": [],
- "plain_english": "Then one should behold the million-liṅga and would obtain an immortal body."
+ "inference": "The ritual assigns specific food offerings to Diti and Lopima-Aditi with a divided placement oriented from the north.",
+ "uncertainties": [
+  "The exact referents of tokens kh and ṅ are unclear without diagrammatic context.",
+  "The precise parsing of nardhe'tha depends on ritual convention."
+ ],
+ "plain_english": "To Diti and to Lopima-Aditi one should give cake and broth, divided in half, from the northern side."
 }

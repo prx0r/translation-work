@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p103",
  "verse": 2555,
- "question": "Which form of Lakṣmī identified as the soul of all beings is worshipped?",
+ "question": "What kind of ritual materials are specified for use in the prescribed construction or rite?",
  "premises": [
-  "The speaker performs worship",
-  "Lakṣmī is called Śāmbhavī",
-  "Lakṣmī is described as the soul of all beings"
+  "A specific class of materials is named.",
+  "The term yājñika indicates ritual suitability.",
+  "The instrumental case shows they are means employed."
  ],
- "inference": "The speaker worships Śāmbhavī Lakṣmī, who is the soul of all beings.",
- "uncertainties": [],
- "plain_english": "I worship Śāmbhavī Lakṣmī, who is the soul of all beings."
+ "inference": "Materials suitable for sacrificial or ritual use are to be employed.",
+ "uncertainties": [
+  "Without adjacent tokens, the exact substance class (woods, implements, etc.) is not fully specified."
+ ],
+ "plain_english": "Use materials that are fit for ritual sacrifice."
 }

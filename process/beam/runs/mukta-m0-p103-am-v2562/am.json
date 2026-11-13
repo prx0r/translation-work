@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p103",
  "verse": 2562,
- "question": "Where can a supportless devotee go for refuge except to the mother of Lambodara?",
+ "question": "Which specific treasures are named at the beginning of the enumerated nidhi sequence?",
  "premises": [
-  "The speaker declares himself supportless",
-  "The mother of Lambodara is addressed",
-  "The speaker asks where to go for refuge"
+  "Padma is named as a treasure.",
+  "Mahāpadma, makara, and kacchapa are also named.",
+  "The list continues likewise."
  ],
- "inference": "Being without support, the speaker can seek refuge only in the mother of Lambodara.",
- "uncertainties": [],
- "plain_english": "Supportless, O mother of Lambodara, where shall I go for refuge?"
+ "inference": "The nidhi sequence begins with padma, mahāpadma, makara, and kacchapa.",
+ "uncertainties": [
+  "Only four of the eight treasures are named in this verse."
+ ],
+ "plain_english": "These include the padma, mahāpadma, makara, and kacchapa treasures, and so on."
 }

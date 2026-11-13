@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p103",
  "verse": 2557,
- "question": "Which auspicious goddess identified as Subhadrā's mother is worshipped by the speaker?",
+ "question": "Which prepared locations must be arranged for the subsequent ritual activities?",
  "premises": [
-  "The speaker performs worship",
-  "The goddess is called Subhadrā",
-  "The goddess is identified as the mother of Subhadrā"
+  "A leveled and smeared surface is specified.",
+  "A pit is included as a location.",
+  "The area before the door and the pavilion are also designated."
  ],
- "inference": "The speaker worships the goddess Subhadrā, the mother of Subhadrā.",
- "uncertainties": [],
- "plain_english": "I worship the goddess Subhadrā, the mother of Subhadrā."
+ "inference": "The ritual requires multiple prepared sites: a leveled surface, a pit, the doorway front, and the pavilion.",
+ "uncertainties": [
+  "The exact spatial relationship among these locations depends on the broader ritual layout."
+ ],
+ "plain_english": "Prepare an even plastered surface, the pit, the area in front of its door, and the pavilion."
 }

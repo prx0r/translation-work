@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2520,
- "question": "What constant devotion and plea for sin-removal are expressed to the deity?",
+ "question": "Which sequence of deities or divisions is mapped from the water quarter onward in this arrangement?",
  "premises": [
-  "The devotee bows constantly with devotion",
-  "The devotee asks for sin to be removed",
-  "Obeisance is offered to the deity"
+  "A sequence begins from the water quarter and includes Indra.",
+  "Further names such as Sugrīva and Satyaka are included.",
+  "The arrangement is presented as traditionally held."
  ],
- "inference": "The devotee constantly bows with devotion, asks for sin to be removed, and offers obeisance.",
- "uncertainties": [],
- "plain_english": "I bow constantly with devotion; remove my sin; obeisance be to you."
+ "inference": "The text maps a sequence of deities or divisions from the water quarter onward, including Indra, Sugrīva, and Satyaka.",
+ "uncertainties": [
+  "Tokens kh, g, galā, and darkaḥ are obscure without diagrammatic or textual context.",
+  "The exact segmentation of the sequence is uncertain."
+ ],
+ "plain_english": "From the water quarter onward come Indra and others in sequence, including Sugrīva and Satyaka, as traditionally understood."
 }

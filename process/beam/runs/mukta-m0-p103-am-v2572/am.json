@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p103",
  "verse": 2572,
- "question": "Which epithets present the goddess as endless, becoming, and the eternal course of existence?",
+ "question": "How must the choice of building material correspond to the type of structure being erected?",
  "premises": [
-  "The goddess is called endless",
-  "She is described through forms of becoming and existence",
-  "She is identified as the eternal course"
+  "Brick materials are prescribed for a brick structure.",
+  "Stone materials are prescribed for a stone structure.",
+  "The stones used must be auspicious."
  ],
- "inference": "The goddess is characterized as endless, involved in becoming and existence, and as the eternal course.",
- "uncertainties": [],
- "plain_english": "Endless, becoming, to be realized, existence, auspicious, and the eternal course."
+ "inference": "The material must match the structure type: bricks for brickwork and auspicious stones for stonework.",
+ "uncertainties": [
+  "The distinction between śailāḥ and śilāḥ in this compressed line is stylistic or emphatic."
+ ],
+ "plain_english": "In a brick structure use bricks, and in a stone structure use auspicious stones."
 }

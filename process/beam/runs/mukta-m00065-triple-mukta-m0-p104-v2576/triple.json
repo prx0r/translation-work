@@ -1,0 +1,915 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2576,
+   "rows": [
+    {
+     "surface": "astratoyena",
+     "gloss": "with-weapon-water",
+     "grounds": "instrumental compound referring to water consecrated by the weapon mantra",
+     "morph": "compound:astra-toya+instr.sg.n"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "indicates initial action in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛttikādyaiḥ",
+     "gloss": "with-clay-and-others",
+     "grounds": "materials beginning with clay used in purification",
+     "morph": "compound:mṛttikā-ādi+instr.pl.n"
+    },
+    {
+     "surface": "punastu",
+     "gloss": "but-again",
+     "grounds": "introduces subsequent action; sandhi punar+tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-those",
+     "grounds": "refers back to the previously mentioned materials or means",
+     "morph": "pron.instr.pl.m/n"
+    }
+   ],
+   "question": "What initial and subsequent purifying substances must be applied in the prescribed ritual sequence?",
+   "premises": [
+    "Weapon-consecrated water is used first.",
+    "Clay and similar substances are applied with it.",
+    "Those same means are used again afterward."
+   ],
+   "inference": "The ritual purification proceeds in stages using weapon-water first and clay-related substances again thereafter.",
+   "uncertainties": [
+    "The exact referent of taiḥ is context-dependent."
+   ],
+   "plain_english": "First purify with water consecrated by the weapon mantra together with clay and other materials, and then again with those."
+  },
+  {
+   "verse": 2577,
+   "rows": [
+    {
+     "surface": "vidyārūpāstu",
+     "gloss": "but-of-mantra-form",
+     "grounds": "identifies the entities as having the form of vidyā; sandhi vidyārūpāḥ+tu",
+     "morph": "compound:vidyā-rūpa+nom.pl.f"
+    },
+    {
+     "surface": "tā",
+     "gloss": "them",
+     "grounds": "refers to the feminine entities previously invoked",
+     "morph": "pron.acc.pl.f"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-visualized",
+     "grounds": "meditative act performed by the ritual actor",
+     "morph": "gerund:√dhyai"
+    },
+    {
+     "surface": "parituṣṭāḥ",
+     "gloss": "fully-satisfied",
+     "grounds": "describes the visualized state of the entities",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "smitānanāḥ",
+     "gloss": "smiling-faced",
+     "grounds": "describes their pleased appearance",
+     "morph": "compound:smita-ānana+nom.pl.f"
+    }
+   ],
+   "question": "How should the invoked feminine powers be visualized during this stage of the rite?",
+   "premises": [
+    "The entities are to be understood as having the form of vidyā.",
+    "The ritual actor must visualize them.",
+    "They are visualized as satisfied and smiling."
+   ],
+   "inference": "The rite requires meditative visualization of the vidyā-forms as pleased and smiling.",
+   "uncertainties": [],
+   "plain_english": "Visualize them as forms of vidyā, fully satisfied and with smiling faces."
+  },
+  {
+   "verse": 2578,
+   "rows": [
+    {
+     "surface": "sudṛḍhai",
+     "gloss": "with-very-firm",
+     "grounds": "qualifies the vessels as strong",
+     "morph": "adj.instr.pl.m/n"
+    },
+    {
+     "surface": "suvṛtaiḥ",
+     "gloss": "with-well-covered",
+     "grounds": "qualifies the vessels as properly enclosed",
+     "morph": "adj.instr.pl.m/n"
+    },
+    {
+     "surface": "mṛnmayaiḥkumbhairvittāḍhyairhemanirmitaiḥ",
+     "gloss": "with-clay-pots-or-wealthy-gold-made",
+     "grounds": "fused token listing alternative vessels: earthen pots or, for the wealthy, gold-made ones; internal sandhi mṛnmayaiḥ+kumbhaiḥ+vittāḍhyaiḥ+hemanirmitaiḥ",
+     "morph": "compound-chain:instr.pl.m"
+    }
+   ],
+   "question": "What kinds of vessels are permitted for use in this ritual procedure?",
+   "premises": [
+    "The vessels must be very firm.",
+    "The vessels must be well covered.",
+    "They may be made of clay or, for the wealthy, of gold."
+   ],
+   "inference": "The rite permits strong, well-covered vessels of clay or gold depending on means.",
+   "uncertainties": [
+    "The exact syntactic coordination within the fused token is compressed."
+   ],
+   "plain_english": "Use very firm, well-covered vessels, either earthen pots or, for the wealthy, ones made of gold."
+  },
+  {
+   "verse": 2579,
+   "rows": [
+    {
+     "surface": "kṛtvaitannāmamantreṇa",
+     "gloss": "having-done-with-its-name-mantra",
+     "grounds": "action performed using the mantra of that name; sandhi kṛtvā+etat+nāma+mantreṇa",
+     "morph": "gerund:√kṛ+compound:etat-nāma-mantra+instr.sg.m"
+    },
+    {
+     "surface": "śilāṃ",
+     "gloss": "stone",
+     "grounds": "the ritual object to be consecrated",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "the ritual actor skilled in mantras",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "additional mantras used in the rite",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "prasādhayet",
+     "gloss": "should-consecrate",
+     "grounds": "prescriptive action to perfect or consecrate the stone",
+     "morph": "3.sg.optative-active:√prasādh"
+    }
+   ],
+   "question": "How must the mantra-knowing ritual actor consecrate the stone using mantras?",
+   "premises": [
+    "The act is performed with the mantra of its name.",
+    "The object of consecration is the stone.",
+    "The mantra-knower should perfect it with mantras."
+   ],
+   "inference": "The mantra-knower consecrates the stone by applying its name-mantra and other mantras.",
+   "uncertainties": [],
+   "plain_english": "Having acted with its name-mantra, the mantra-knower should consecrate the stone with mantras."
+  },
+  {
+   "verse": 2580,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative address to the installed presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "direct address to the invoked power",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tiṣṭha",
+     "gloss": "stay",
+     "grounds": "command for the power to remain",
+     "morph": "2.sg.imperative-active:√sthā"
+    },
+    {
+     "surface": "saṃhṛṣṭā",
+     "gloss": "well-pleased",
+     "grounds": "desired state of the invoked power",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "yāvadācandratārakam",
+     "gloss": "as-long-as-moon-stars",
+     "grounds": "duration extending as long as moon and stars endure; sandhi yāvat+ā+candra+tārakam",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What duration and condition are requested when commanding the invoked power to remain?",
+   "premises": [
+    "The invoked power is addressed directly.",
+    "It is commanded to stay in that place.",
+    "It should remain pleased as long as moon and stars endure."
+   ],
+   "inference": "The invocation requests the pleased presence to remain there for the duration of moon and stars.",
+   "uncertainties": [],
+   "plain_english": "Stay here, well pleased, for as long as the moon and stars endure."
+  },
+  {
+   "verse": 2581,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "refers to the temple or structure",
+     "morph": "pron.loc.sg.m/n"
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "the duty to be performed",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous duration of the duty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "prescriptive obligation",
+     "morph": "gerundive.nom.sg.f"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "location where protection is required",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yatnatastvayā",
+     "gloss": "with-effort-by-you",
+     "grounds": "emphasizes diligent performance by the addressed power; sandhi yatnataḥ+tvayā",
+     "morph": "(indecl.)+pron.instr.sg"
+    }
+   ],
+   "question": "What protective duty is enjoined upon the invoked power within the temple?",
+   "premises": [
+    "Protection must be carried out in this temple.",
+    "The protection must be constant.",
+    "It must be done diligently by the addressed power."
+   ],
+   "inference": "The invoked power is obligated to provide constant, diligent protection in the temple.",
+   "uncertainties": [],
+   "plain_english": "You must always diligently provide protection in this temple."
+  },
+  {
+   "verse": 2582,
+   "rows": [
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "continuous manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jayāvahā",
+     "gloss": "bringing-victory",
+     "grounds": "quality requested of the goddess",
+     "morph": "compound:jaya-āvaha+nom.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "svāmini",
+     "gloss": "to-lord",
+     "grounds": "beneficiary of prosperity; refers to the presiding lord or patron",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śrīpradā",
+     "gloss": "granting-prosperity",
+     "grounds": "quality requested of the goddess",
+     "morph": "compound:śrī-prada+nom.sg.f"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "command requesting the stated qualities",
+     "morph": "2.sg.imperative-active:√bhū"
+    }
+   ],
+   "question": "What beneficial qualities is the goddess asked to bestow continually upon the lord?",
+   "premises": [
+    "The goddess is addressed directly.",
+    "She is asked to bring victory always.",
+    "She is asked to grant prosperity to the lord."
+   ],
+   "inference": "The goddess is petitioned to be a constant source of victory and prosperity for the lord.",
+   "uncertainties": [
+    "The referent of svāmini may be the deity or the patron depending on context."
+   ],
+   "plain_english": "O goddess, always bring victory and grant prosperity to the lord."
+  },
+  {
+   "verse": 2583,
+   "rows": [
+    {
+     "surface": "sarvadā",
+     "gloss": "at-all-times",
+     "grounds": "unrestricted duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadoṣaghne",
+     "gloss": "o-destroyer-of-all-flaws",
+     "grounds": "vocative praising the power's purifying function",
+     "morph": "compound:sarva-doṣa-ghna+voc.sg.f"
+    },
+    {
+     "surface": "tiṣṭhatvamīśarūpake",
+     "gloss": "stay-you-in-lord-form",
+     "grounds": "command to remain in a form associated with the lord; sandhi tiṣṭha+tvam+īśa+rūpake",
+     "morph": "imperative:√sthā+pron.nom.sg+compound:īśa-rūpaka+loc.sg.n"
+    }
+   ],
+   "question": "In what form and with what purifying role is the invoked power asked to remain always?",
+   "premises": [
+    "The power is addressed as destroyer of all flaws.",
+    "It is asked to remain at all times.",
+    "It is asked to stay in a form associated with the lord."
+   ],
+   "inference": "The flaw-destroying power is petitioned to remain always in the lord's form.",
+   "uncertainties": [],
+   "plain_english": "O destroyer of all flaws, always remain here in the form of the lord."
+  },
+  {
+   "verse": 2584,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "everything",
+     "grounds": "totality of what is required",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "saṃpūrṇamevātra",
+     "gloss": "fully-complete-here",
+     "grounds": "emphasizes completeness in this place; sandhi saṃpūrṇam+eva+atra",
+     "morph": "adj.acc.sg.n+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "location of the requested completeness",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "command to effect completeness",
+     "morph": "2.sg.imperative-active:√kṛ"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "at-all-times",
+     "grounds": "continuous duration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What state of completeness is the invoked power commanded to maintain in the temple?",
+   "premises": [
+    "Everything in the temple is to be made complete.",
+    "The completeness is emphasized as full.",
+    "This state must be maintained at all times."
+   ],
+   "inference": "The invoked power must ensure that everything in the temple remains fully complete at all times.",
+   "uncertainties": [],
+   "plain_english": "Make everything in this temple fully complete at all times."
+  },
+  {
+   "verse": 2585,
+   "rows": [
+    {
+     "surface": "liṅgavatsadā",
+     "gloss": "like-liṅga-always",
+     "grounds": "prescribes continuous observance in the manner of a liṅga; sandhi liṅgavat+sadā",
+     "morph": "(indecl.)+(indecl.)"
+    }
+   ],
+   "question": "In what manner must the ongoing observance be maintained in relation to the liṅga?",
+   "premises": [
+    "The observance is compared to that of a liṅga.",
+    "The observance must be continuous."
+   ],
+   "inference": "The practice must be maintained always in the same manner as for a liṅga.",
+   "uncertainties": [
+    "The specific ritual actions implied by liṅgavat are supplied by context."
+   ],
+   "plain_english": "Always maintain it in the same manner as for a liṅga."
+  },
+  {
+   "verse": 2586,
+   "rows": [
+    {
+     "surface": "kāryoṃ'smin",
+     "gloss": "to-be-done-in-this",
+     "grounds": "prescribes performance in this context; sandhi kāryaḥ+asmin",
+     "morph": "gerundive.nom.sg.m+pron.loc.sg.m/n"
+    },
+    {
+     "surface": "kumbhavinyāse",
+     "gloss": "in-pot-placement",
+     "grounds": "ritual context of arranging the pot",
+     "morph": "compound:kumbha-vinyāsa+loc.sg.m"
+    },
+    {
+     "surface": "śivavinyāsavadvidhiḥ",
+     "gloss": "procedure-like-śiva-placement",
+     "grounds": "states that the procedure follows the method of śiva-vinyāsa; sandhi śivavinyāsavat+vidhiḥ",
+     "morph": "compound:śiva-vinyāsa-vat+nom.sg.m"
+    }
+   ],
+   "question": "What procedural model must be followed during the placement of the ritual pot?",
+   "premises": [
+    "The action concerns the placement of the pot.",
+    "A specific procedure is prescribed.",
+    "The procedure is to follow the model of śiva-vinyāsa."
+   ],
+   "inference": "The pot-placement must be performed according to the procedure used for śiva-vinyāsa.",
+   "uncertainties": [],
+   "plain_english": "In this placement of the pot, the procedure should be carried out just as in the placement of Śiva."
+  },
+  {
+   "verse": 2587,
+   "rows": [
+    {
+     "surface": "vasānataḥ",
+     "gloss": "from-dwelling-end",
+     "grounds": "indicates a concluding point related to dwelling or residence; exact ritual sense uncertain",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What concluding point or limit is indicated by the term vasānataḥ in this ritual sequence?",
+   "premises": [
+    "The term marks a terminal point.",
+    "It is connected to dwelling or staying."
+   ],
+   "inference": "The instruction signals a concluding stage defined as vasānataḥ.",
+   "uncertainties": [
+    "The precise technical meaning of vasānataḥ is unclear without wider context."
+   ],
+   "plain_english": "From the point of conclusion of dwelling."
+  },
+  {
+   "verse": 2588,
+   "rows": [
+    {
+     "surface": "gurvādibhyo'śanaṃ",
+     "gloss": "to-guru-and-others-food",
+     "grounds": "food to be given to the guru and others; sandhi gurvādibhyaḥ+aśanam",
+     "morph": "compound:guru-ādi+dat.pl.m+acc.sg.n"
+    },
+    {
+     "surface": "dānaṃ",
+     "gloss": "gift",
+     "grounds": "act of giving",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior action before the next procedure",
+     "morph": "gerund:√dā"
+    },
+    {
+     "surface": "kāryopajaṅghikā",
+     "gloss": "subsidiary-procedure-to-be-done",
+     "grounds": "a supporting ritual procedure to be performed afterward; sandhi kāryā+upajaṅghikā",
+     "morph": "compound:kārya-upajaṅghikā+nom.sg.f"
+    }
+   ],
+   "question": "What subsidiary ritual action follows after giving food and gifts to the guru and others?",
+   "premises": [
+    "Food and gifts are given to the guru and others.",
+    "This giving is completed first.",
+    "A subsidiary procedure is then to be performed."
+   ],
+   "inference": "After offering food and gifts to the guru and others, the subsidiary procedure must be carried out.",
+   "uncertainties": [
+    "The exact content of the upajaṅghikā is not specified here."
+   ],
+   "plain_english": "After giving food and gifts to the guru and others, the subsidiary procedure should be performed."
+  },
+  {
+   "verse": 2589,
+   "rows": [
+    {
+     "surface": "nārdhamānataḥ",
+     "gloss": "not-from-half-measure",
+     "grounds": "negates a limit or derivation from half-measure; sandhi na+ardha+mānataḥ",
+     "morph": "(indecl.)+compound:ardha-māna+(indecl.)"
+    }
+   ],
+   "question": "What restriction concerning half-measure is being negated in this instruction?",
+   "premises": [
+    "A half-measure is mentioned.",
+    "The instruction negates dependence on it."
+   ],
+   "inference": "The rule states that the matter is not determined by half-measure.",
+   "uncertainties": [
+    "The specific quantity or dimension being discussed is context-dependent."
+   ],
+   "plain_english": "Not according to half-measure."
+  },
+  {
+   "verse": 2590,
+   "rows": [
+    {
+     "surface": "aghamā",
+     "gloss": "sin-measure",
+     "grounds": "term indicating a measure or limit related to agha; technical sense uncertain",
+     "morph": "compound:agha-mā+nom.sg.f"
+    },
+    {
+     "surface": "cetareṣāṃ",
+     "gloss": "and-of-others",
+     "grounds": "refers to others distinct from Śiva; sandhi ca+itareṣām",
+     "morph": "(indecl.)+pron.gen.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "specifies Śiva as the exception or distinct case",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathecchayā",
+     "gloss": "according-to-desire",
+     "grounds": "indicates freedom of choice in Śiva's case",
+     "morph": "compound:yathā-icchā+instr.sg.f"
+    }
+   ],
+   "question": "How does the prescribed measure differ for others compared with the case of Śiva?",
+   "premises": [
+    "A measure termed aghamā applies to others.",
+    "Śiva is treated as a distinct case.",
+    "For Śiva the measure is according to desire."
+   ],
+   "inference": "Others are bound by the stated measure, whereas for Śiva it may be determined freely.",
+   "uncertainties": [
+    "The technical meaning of aghamā is uncertain."
+   ],
+   "plain_english": "For others there is the aghamā measure, but for Śiva it is according to desire."
+  },
+  {
+   "verse": 2591,
+   "rows": [
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "material to be placed or used",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kūrmādikāryāya",
+     "gloss": "for-tortoise-and-other-work",
+     "grounds": "purpose related to the tortoise and subsequent ritual constructions",
+     "morph": "compound:kūrma-ādi-kārya+dat.sg.n"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "indicates surrounding placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃprapūrayet",
+     "gloss": "should-fill-completely",
+     "grounds": "prescriptive action to fill the area",
+     "morph": "3.sg.optative-active:√pṝ-with-saṃ-pra"
+    }
+   ],
+   "question": "How should stone be used to complete the area for the tortoise and related ritual work?",
+   "premises": [
+    "Stone is to be used for the work beginning with the tortoise.",
+    "The placement is to be all around.",
+    "The area should be completely filled."
+   ],
+   "inference": "Stone must be placed all around to completely fill the area for the tortoise and related work.",
+   "uncertainties": [],
+   "plain_english": "For the work beginning with the tortoise, one should completely fill the area all around with stone."
+  },
+  {
+   "verse": 2592,
+   "rows": [
+    {
+     "surface": "mūrtimūlāṅgabhūte",
+     "gloss": "in-image-root-limb-become",
+     "grounds": "refers to that which has become the image, root, and limbs; ritual locus of vāstu",
+     "morph": "compound:mūrti-mūla-aṅga-bhūta+loc.sg.m/n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-visualized",
+     "grounds": "meditative act preceding worship",
+     "morph": "gerund:√dhyai"
+    },
+    {
+     "surface": "vāstuṃ",
+     "gloss": "vāstu",
+     "grounds": "the site-deity or site principle to be worshipped",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yajetpunaḥ",
+     "gloss": "should-worship-again",
+     "grounds": "prescribes renewed worship; sandhi yajet+punaḥ",
+     "morph": "3.sg.optative-active:√yaj+(indecl.)"
+    }
+   ],
+   "question": "What meditative and worship acts must be performed again with respect to vāstu in the embodied ritual base?",
+   "premises": [
+    "The locus is that which has become image, root, and limbs.",
+    "Vāstu must be visualized.",
+    "Vāstu must be worshipped again."
+   ],
+   "inference": "After visualizing vāstu in the embodied ritual base, the ritual actor should worship it again.",
+   "uncertainties": [
+    "The precise referent of mūrtimūlāṅgabhūte is context-dependent."
+   ],
+   "plain_english": "And having visualized vāstu in that which has become the image, root, and limbs, one should worship it again."
+  },
+  {
+   "verse": 2593,
+   "rows": [
+    {
+     "surface": "tūryamaṅgalaśabdena",
+     "gloss": "with-music-auspicious-sound",
+     "grounds": "accompaniment of auspicious musical sounds",
+     "morph": "compound:tūrya-maṅgala-śabda+instr.sg.m"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "temple",
+     "grounds": "structure to be laid out",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrayet",
+     "gloss": "should-mark-with-cords",
+     "grounds": "prescribes laying out the temple plan with cords",
+     "morph": "3.sg.optative-active:√sūtr"
+    }
+   ],
+   "question": "How should the temple be ritually laid out with cords at that site?",
+   "premises": [
+    "The action is accompanied by auspicious musical sounds.",
+    "The temple is the object to be laid out.",
+    "The laying out is done with cords."
+   ],
+   "inference": "The temple should be marked out with cords there to the sound of auspicious music.",
+   "uncertainties": [],
+   "plain_english": "There, to the sound of auspicious music, one should lay out the temple with cords."
+  },
+  {
+   "verse": 2594,
+   "rows": [
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "marks the prescribed rule or method",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does the term vidhiḥ indicate at this point in the ritual exposition?",
+   "premises": [
+    "The term names a procedure.",
+    "It functions as a prescriptive marker."
+   ],
+   "inference": "This indicates the prescribed procedure.",
+   "uncertainties": [
+    "Whether it concludes or introduces a section depends on context."
+   ],
+   "plain_english": "This is the procedure."
+  },
+  {
+   "verse": 2595,
+   "rows": [
+    {
+     "surface": "ardhena",
+     "gloss": "by-half",
+     "grounds": "specifies proportion used for measurement",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "liṅgadairghyeṇa",
+     "gloss": "by-liṅga-length",
+     "grounds": "the length of the liṅga serves as the base measure",
+     "morph": "compound:liṅga-dairghya+instr.sg.n"
+    },
+    {
+     "surface": "bhittayo",
+     "gloss": "walls",
+     "grounds": "structural elements being measured",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "vistṛtāḥ",
+     "gloss": "extended",
+     "grounds": "describes the breadth of the walls",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential application of the rule",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional rule determines the breadth of the temple walls in relation to the liṅga?",
+   "premises": [
+    "The liṅga's length is the base measure.",
+    "Half of that length is used.",
+    "The walls are made broad accordingly in sequence."
+   ],
+   "inference": "The walls are to be made broad in order by half the length of the liṅga.",
+   "uncertainties": [],
+   "plain_english": "In due order, the walls should be made broad by half the length of the liṅga."
+  },
+  {
+   "verse": 2596,
+   "rows": [
+    {
+     "surface": "tadaṃśatulyavīthyastu",
+     "gloss": "but-passages-equal-to-its-part",
+     "grounds": "states that passages equal a part of that measure; sandhi tadaṃśatulya+vīthyaḥ+tu",
+     "morph": "compound:tad-aṃśa-tulya-vīthī+nom.pl.f"
+    },
+    {
+     "surface": "syurarkāṃśaistu",
+     "gloss": "should-be-with-sun-parts",
+     "grounds": "walls measured in parts of twelve; sandhi syuḥ+arka+aṃśaiḥ+tu",
+     "morph": "3.pl.optative-active:√as+compound:arka-aṃśa+instr.pl.m"
+    },
+    {
+     "surface": "bhittayaḥ",
+     "gloss": "walls",
+     "grounds": "structural elements measured by the stated parts",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "How are the passages and walls proportioned using parts derived from the established measure?",
+   "premises": [
+    "The passages are equal to a part of that measure.",
+    "The walls are determined by parts of twelve.",
+    "Both follow the stated proportional system."
+   ],
+   "inference": "The passages match a part of the measure, while the walls are proportioned by twelve parts.",
+   "uncertainties": [
+    "The exact numerical assignment of tadaṃśa depends on prior context."
+   ],
+   "plain_english": "The passages should be equal to a part of that measure, and the walls should be measured in twelve parts."
+  },
+  {
+   "verse": 2597,
+   "rows": [
+    {
+     "surface": "tadgarbho'ṣṭābhiraṃśaiḥ",
+     "gloss": "its-sanctum-with-eight-parts",
+     "grounds": "the inner sanctum is measured by eight parts; sandhi tadgarbhaḥ+aṣṭābhiḥ+aṃśaiḥ",
+     "morph": "compound:tad-garbha+nom.sg.m+instr.pl.m"
+    },
+    {
+     "surface": "syādvikārāṃśaistu",
+     "gloss": "should-be-with-eleven-parts",
+     "grounds": "walls measured by eleven parts; sandhi syāt+vikāra+aṃśaiḥ+tu",
+     "morph": "3.sg.optative-active:√as+compound:vikāra-aṃśa+instr.pl.m"
+    },
+    {
+     "surface": "bhittayaḥ",
+     "gloss": "walls",
+     "grounds": "structural elements measured by eleven parts",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "What proportional division assigns eight parts to the sanctum and eleven parts to the walls?",
+   "premises": [
+    "The sanctum is measured by eight parts.",
+    "The walls are measured by eleven parts.",
+    "These proportions define the structure."
+   ],
+   "inference": "The sanctum should occupy eight parts and the walls eleven parts of the division.",
+   "uncertainties": [],
+   "plain_english": "Its sanctum should be of eight parts, and the walls of eleven parts."
+  },
+  {
+   "verse": 2598,
+   "rows": [
+    {
+     "surface": "kaniṣṭhādikramādgarbhaḥ",
+     "gloss": "sanctum-by-smallest-etc-order",
+     "grounds": "sanctum size varies from smallest upward in sequence; sandhi kaniṣṭha+ādi+kramāt+garbhaḥ",
+     "morph": "compound:kaniṣṭha-ādi-krama+(indecl.)+nom.sg.m"
+    },
+    {
+     "surface": "kvacidbhittestu",
+     "gloss": "but-sometimes-of-wall",
+     "grounds": "in some cases increase relates to the wall; sandhi kvacit+bhitteḥ+tu",
+     "morph": "(indecl.)+abl.sg.f+(indecl.)"
+    },
+    {
+     "surface": "vardhanam",
+     "gloss": "increase",
+     "grounds": "augmentation in the prescribed dimensions",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "How does the sanctum size vary by grade and when may increase be taken from the wall?",
+   "premises": [
+    "The sanctum follows a sequence from smallest upward.",
+    "In some cases increase is related to the wall.",
+    "The rule allows variation in dimensions."
+   ],
+   "inference": "The sanctum varies by the smallest-to-largest sequence, and sometimes its increase is adjusted from the wall.",
+   "uncertainties": [
+    "The exact conditions for kvacit are not specified."
+   ],
+   "plain_english": "The sanctum follows the sequence from smallest upward, and in some cases there is an increase taken from the wall."
+  },
+  {
+   "verse": 2599,
+   "rows": [
+    {
+     "surface": "garbhavyomasya",
+     "gloss": "of-sanctum-space",
+     "grounds": "refers to the interior space of the sanctum",
+     "morph": "compound:garbha-vyoman+gen.sg.n"
+    },
+    {
+     "surface": "cārkeṇa",
+     "gloss": "and-by-twelve",
+     "grounds": "uses twelve as a divisor or measure; sandhi ca+arkeṇa",
+     "morph": "(indecl.)+instr.sg.m"
+    },
+    {
+     "surface": "pīṭhī",
+     "gloss": "pedestal",
+     "grounds": "the base or pedestal to be proportioned",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location within the sanctum space",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "yugāṃśataḥ",
+     "gloss": "by-four-parts",
+     "grounds": "indicates division into four parts; sandhi yuga+aṃśataḥ",
+     "morph": "compound:yuga-aṃśa+(indecl.)"
+    }
+   ],
+   "question": "How is the pedestal proportioned within the sanctum space using divisions of twelve and four?",
+   "premises": [
+    "The measure concerns the sanctum's interior space.",
+    "A division by twelve is involved.",
+    "The pedestal in the middle is set by four parts."
+   ],
+   "inference": "Within the sanctum space, the pedestal in the middle is proportioned using divisions of twelve and four parts.",
+   "uncertainties": [
+    "The precise geometric application of arkeṇa and yugāṃśataḥ is compressed."
+   ],
+   "plain_english": "In the middle of the sanctum space, the pedestal is proportioned by twelve and by four parts."
+  }
+ ]
+}

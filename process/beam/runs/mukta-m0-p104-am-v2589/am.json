@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p104",
  "verse": 2589,
- "question": "Which deity is regarded as the worshipped name among all these names?",
+ "question": "What restriction concerning half-measure is being negated in this instruction?",
  "premises": [
-  "Among all, this name is worshipped.",
-  "The deity Śrī Durgā is identified with it.",
-  "This identification is considered authoritative."
+  "A half-measure is mentioned.",
+  "The instruction negates dependence on it."
  ],
- "inference": "Śrī Durgā is held to be the worshipped deity embodied in these names.",
- "uncertainties": [],
- "plain_english": "Among all, this worshipped name is considered to be the deity Śrī Durgā."
+ "inference": "The rule states that the matter is not determined by half-measure.",
+ "uncertainties": [
+  "The specific quantity or dimension being discussed is context-dependent."
+ ],
+ "plain_english": "Not according to half-measure."
 }

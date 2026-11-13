@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p101",
  "verse": 2521,
- "question": "What great sacrificial merit is said to be obtained by a person?",
+ "question": "How are the channels distributed between the main line and the subsidiary lines in this diagram?",
  "premises": [
-  "The rājasūya and aśvamedha sacrifices yield a fruit",
-  "A person can obtain that fruit",
-  "The verse equates the attained fruit with theirs"
+  "A main line is referenced.",
+  "Channels are described as situated along lines.",
+  "Some channels are located on subsidiary lines."
  ],
- "inference": "A person would obtain the fruit of the rājasūya and aśvamedha sacrifices.",
- "uncertainties": [],
- "plain_english": "A person would obtain that fruit of the rājasūya and aśvamedha sacrifices."
+ "inference": "Certain channels run along the main line while these others are situated on the subsidiary lines.",
+ "uncertainties": [
+  "Tokens mū and a are fragmentary and their exact technical meaning is unclear.",
+  "The compound etadvaṃśa mū a ttvaṃśa is difficult to parse without context."
+ ],
+ "plain_english": "Some channels run along this main line, while these are situated on the subsidiary lines."
 }
