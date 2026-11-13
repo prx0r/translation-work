@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[sage+god+etcetera](munidevādi) [as-before](prāgvat) [body+situated](kāyasthitau) [this](ayam)
+muni(muni)-deva(deva)-ādi(ādi)-prāgvat(prāgvat)-kāya(kāya)-sthitau(sthiti)-ayam(this)
 
 ## mukta-m0-p57-v1402
-[thumb+beginning+little-finger+end](aṅguṣṭhādikaniṣṭhāntaṃ) [right+hand's](dakṣahastasya) [joint](parva) [each](parva)
+aṅguṣṭha(aṅguṣṭha)-ādi(ādi)-kaniṣṭhā(kaniṣṭhā)-antaṃ(end) dakṣa(right)-hastasya(hand) parva(joint)
 
 ## mukta-m0-p57-v1403
-[hand](karaṃ) [having-given](dattvā) [hand+purification](karaśuddhi) [making+this](karastvayam)
+karaṃ(hand) dattvā(having-given) kara(hand)-śuddhi(purification)-karaḥ(causing) tu(indeed)-ayam(this)
 
 ## mukta-m0-p57-v1404
-[with-bindu](sabindukaiḥ) [finger+beginning](aṅgulyādi) [placement](nyāso) [heart+etcetera](hṛdādikaḥ)
+sa(with)-bindukaiḥ(bindu) aṅguli(finger)-ādi(ādi)-nyāsaḥ(placement) hṛd(heart)-ādikaḥ(beginning-with)
 
 ## mukta-m0-p57-v1405
-[anger+etcetera](krodhādi) [born+sin](jātapāpa) [removal+for](nivṛttaye) [thus](iti)
+krodha(anger)-ādi(ādi)-jāta(born)-pāpa(sin)-nivṛttaye(for-removal)
 
 ## mukta-m0-p57-v1406
-[one-should-meditate](dhyāyet) [lotus+colored](padmavarṇaṃ) [white](śvetaṃ) [head+on+situated](śirasi+saṃsthitam)
+dhyāyet(should-meditate) padma(lotus)-varṇaṃ(color) śvetaṃ(white) śirasi(on-head) saṃsthitam(situated)
 
 ## mukta-m0-p57-v1407
-[ka+etcetera](kādikān) [letters](varṇān) [one-should-place](nyaset) [thus](iti)
+ka(kā)-ādikān(beginning-with)
 
 ## mukta-m0-p57-v1408
-[disease](rogo) [indeed](hy) [untimely-death](apamṛtyur) [is-destroyed](vinaśyati)
+rogaḥ(disease) hi(indeed) apamṛtyuḥ(untimely-death) vinaśyati(perishes)
 
 ## mukta-m0-p57-v1409
-[somewhere](kvacit) [fire+resembling](pāvakasaṅkāśā) [subtle+splendor](sūkṣmatejas) [own-form](svarūpiṇī)
+kvacit(somewhere) pāvaka(fire)-saṅkāśā(resembling) sūkṣma(subtle)-tejas(splendor)-svarūpiṇī(whose-nature)
 
 ## mukta-m0-p57-v1410
-[one-should-meditate](sandhyāyen) [mātṛkā+named](mātṛkākhyā) [Sarasvatī](sarasvatīm) [goddess](devīm)
+sandhyāyet(should-meditate) mātṛkā(mātṛkā)-ākhya(named)-sarasvatīm(Sarasvatī)
 
 ## mukta-m0-p57-v1411
-[to-her](tāṃ) [I-bow](namāmi) [goddess](devīm) [reverently](iti)
+tāṃ(her) namāmi(I-bow)
 
 ## mukta-m0-p57-v1412
-[two-rows](paṅktyośca) [and](ca) [on-head](mūrdhni) [on-face](vaktre) [one-should-place](nyaset) [vowels](svarān)
+paṅktyoḥ(of-two-rows) ca(and) mūrdhni(on-head) vaktre(on-face) nyaset(should-place) svarān(vowels)
 
 ## mukta-m0-p57-v1413
-[foot+raised](padodasta) [two+sides](dvatpārśvayoḥ) [back+region](pṛṣṭhadeśataḥ) [and](ca)
+pada(foot)-udaḥ(belly) dvat(two)-pārśvayoḥ(on-sides) pṛṣṭha(back)-deśataḥ(from-region)
 
 ## mukta-m0-p57-v1414
-[four+letters](caturvarṇān) [śa+etcetera+six](chādiṣaṭkaṃ) [then](tato) [one-should-place](nyaset)
+catur(four)-varṇān(letters) śa(śa)-ādi(beginning-with)-ṣaṭkaṃ(group-of-six) tataḥ(then) nyaset(should-place)
 
 ## mukta-m0-p57-v1415
-[letter+mātrā+devoid](varṇamātrāhīna) [recitation+filling](pāṭhaprapūrakaḥ) [this](ayam) [thus](iti)
+varṇa(letter)-mātrā(measure)-hīna(devoid)-pāṭha(recitation)-prapūrakaḥ(completing)
 
 ## mukta-m0-p57-v1416
-[dissolution+placement](saṃhāranyāsa) [name](nāmā) [this](asau) [bindu+placement](bindunyāsa) [thus+declared](itīritaḥ)
+saṃhāra(dissolution)-nyāsa(placement)-nāmā(named) asau(this) bindu(bindu)-nyāsaḥ(placement) iti(thus) īritaḥ(declared)
 
 ## mukta-m0-p57-v1417
-[inner+placement](antarnyāsāt) [after](paraṃ) [bindu+placement](bindunyāse) [should-be](syāt) [śukra+retention](śukradhāraṇam)
+antar(internal)-nyāsāt(from-placement) paraṃ(after) bindu(bindu)-nyāse(in-placement) syāt(should-be) śukra(śukra)-dhāraṇam(retention)
 
 ## mukta-m0-p57-v1418
-[left+right+path](vāmadakṣiṇamārgeṇa) [deity+meditation](devatādhyānam) [is-stated](ucyate) [thus](iti)
+vāma(left)-dakṣiṇa(right)-mārgeṇa(by-path) devatā(deity)-dhyānam(meditation) ucyate(is-stated)
 
 ## mukta-m0-p57-v1419
-[letter+goddess](varṇeśvarīṃ) [bow-down-to](praṇamata) [breast+weight+bent](stanabhāranamrām) [her](tām)
+varṇa(letter)-īśvarīṃ(goddess) praṇamata(bow-to) stana(breast)-bhāra(weight)-namrām(bent)
 
 ## mukta-m0-p57-v1420
-[falls](patet) [from-that](tasmād) [therefore](ato) [bindu+visarga](binduvisargakau) [two](dvau)
+patet(should-fall) tasmāt(from-that) ataḥ(therefore) bindu(bindu)-visargakau(and-visarga)
 
 ## mukta-m0-p57-v1421
-[by-śāktas](śāktais) [satisfaction](tṛptiṃ) [without](binā) [all](sarvaṃ) [by-placement+even](nyāsenāpi) [is-liberated](vimucyate)
+śāktaiḥ(by-śāktas) tṛptiṃ(satisfaction) vinā(without) sarvaṃ(all) nyāsena(by-placement) api(even) vimucyate(is-liberated)
 
 ## mukta-m0-p57-v1422
-[in-world+also](lokepy) [lineage-less](avaṃśas) [would-be](syād) [devoid](vihīno) [brahman+splendor](brahmatejasā)
+loke(in-world) api(even) avaṃśaḥ(without-lineage) syāt(would-be) vihīnaḥ(devoid) brahma(brahman)-tejasā(by-splendor)
 
 ## mukta-m0-p57-v1423
-[serpent+jewel](sarpamaṇiṃ) [that](te) [to-seize](grahītuṃ) [prepared](samudyatāḥ) [they](te)
+sarpa(serpent)-maṇiṃ(jewel) te(they) grahītuṃ(to-seize) samudyatāḥ(prepared)
 
 ## mukta-m0-p57-v1424
-[letter+utterance](varṇoccāro) [should-be](bhaved) [thus](iti) [declared](uktam)
+varṇa(letter)-uccāraḥ(utterance) bhavet(should-be) iti(thus)
 
 ## mukta-m0-p57-v1425
-[thus](eva) [mantra+etcetera](mantrādyāḥ) [six+limb](ṣaḍaṃga) [meditation](dhyānam) [is-stated](ucyate)
+evam(thus) mantra(mantra)-ādyāḥ(beginning-with) ṣaḍ(six)-aṅga(limb)-dhyānam(meditation) ucyate(is-stated)
