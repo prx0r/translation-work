@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[to-the-face-of-god](devamukhāya) [svāhā](svāhā) [one-should-offer](juhuyāt) [of-fire](vahneḥ) [form+octad](mūrti+aṣṭakaṃ) [likewise](tathā)
+[to-god+face](devamukhāya) [svāhā](svāhā) [one-should-offer](juhuyāt) [of-fire](vahneḥ) [form+eight](mūrtyaṣṭakaṃ) [likewise](tathā)
 
 ## mukta-m0-p45-v1102
-[by-the-previously-stated](pūrva+uktena) [fire+mantra](agni+mantreṇa) [vauṣaṭ+ending](vauṣaḍ+antena) [indeed](vai) [then](tataḥ)
+[with-previously+stated](pūrvoktena) [fire+mantra](agnimantreṇa) [ending-with-vauṣaṭ](vauṣaḍantena) [indeed](vai) [then](tataḥ)
 
 ## mukta-m0-p45-v1103
-[ten](daśa) [oblations](āhutīḥ) [should-be-offered](juhuyāt) [then](tataḥ)
+[ten+oblations](daśāhutīḥ)
 
 ## mukta-m0-p45-v1104
-[twenty-five](pañcaviṃśati) [in-number](saṅkhyakam) [oblations](āhutīḥ) [should-be-offered](juhuyāt)
+[twenty-five+number](pañcaviṃśatisaṅkhyakam)
 
 ## mukta-m0-p45-v1105
-[self+fire](ātma+agni) [of-deities](devatānāṃ) [and](ca) [contemplating](cintayan) [oneness](aikyam) [self-knowing](ātma+vit)
+[of-self+fire+deities](ātmāgnidevatānāṃ) [and](ca) [contemplating](cintayan) [unity](aikyam) [self+knower](ātmavit)
 
 ## mukta-m0-p45-v1106
-[channel+joining](nāḍī+sandhānam) [this](etat) [indeed](hi) [declared](proktaṃ) [by-the-best-of-teachers](deśika+sattamaiḥ)
+[channel+joining](nāḍīsandhānam) [this](etat) [indeed](hi) [declared](proktaṃ) [by-best+of-teachers](deśikasttamaiḥ)
 
 ## mukta-m0-p45-v1107
-[in-all](sarvāsu) [fire-pits](kuṇḍeṣu) [and](ca) [according-to-rule](yathā+vidhi) [should-be-done](kāryam)
+[in-all+fire-pits](sarvāsukuṇḍeṣu) [and](ca) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p45-v1108
-[all](sarve) [priests](ṛtvijaḥ) [with-sandalwood+etc.](candana+ādyaiḥ) [having-worshipped](sampūjya) [the-prescribed-deity](prokta+devatām)
+[all+priests](sarvartvijaḥ) [with-sandalwood+etc](candanādyaiḥ) [having-worshipped](sampūjya) [declared+deity](proktadevatām)
 
 ## mukta-m0-p45-v1109
-[with-clarified-butter](sarpiḥ) [joined](saṃyutena) [with-dear+oblation](priya+andhasā) [should-be-offered](hotavyam)
+[with-ghee+joined](sarpissaṃyutena) [with-dear+oblation](priyāndhasā)
 
 ## mukta-m0-p45-v1110
-[with-tīrtha](tīrtheṇa) [with-ārṣa](ārṣeṇa) [or](vā) [likewise](tathā) [should-be-offered](hotavyam)
+[should-be-offered](hotavyaṃ) [with-tīrtha](tīrtheṇa) [or-with-ṛṣi](ārṣeṇa) [or](vā) [likewise](tathā)
 
 ## mukta-m0-p45-v1111
-[with-weak-digestion](manda+agni) [with-disease](āmaya) [joined](saṃyuktaḥ) [poor](daridraḥ) [and](ca) [also](api) [becomes](jāyate)
+[with-weak+fire+disease+joined](mandāgnyāmayasaṃyukto) [poor](daridraḥ) [and+also](cāpi) [becomes](jāyate)
 
 ## mukta-m0-p45-v1112
-[of-weekdays](vārāṇāṃ) [of-zodiac-signs](rāśīnāṃ) [and](ca) [separately](pṛthak) [separately](pṛthak) [should-be-done](kāryam)
+[of-days](vārāṇāṃ) [of-zodiac-signs](rāśīnāṃ) [and](ca) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p45-v1113
-[from-weekdays](vārebhyaḥ) [and](ca) [then](atha) [from-all](sarvebhyaḥ) [from-elements](bhūtebhyaḥ) [and](ca) [obeisance](namaḥ) [one-should-say](vadet)
+[from-days](vārebhyaḥ) [and+then](cātha) [from-all](sarvebhyaḥ) [from-elements](bhūtebhyaḥ) [and](ca) [obeisance](namaḥ) [should-say](vadet)
 
 ## mukta-m0-p45-v1114
-[hidden](gūḍham) [even](api) [I-shall-tell](vakṣyāmi) [to-those-who-have-taken-refuge](śaraṇa+āgatān) [this](etat)
+[hidden](gūḍham) [even](api) [I-shall-tell](vakṣyāmi) [to-those-who-have-taken-refuge](śaraṇāgatān)
 
 ## mukta-m0-p45-v1115
-[of-fire-offering](homa) [procedure](vidhiḥ) [exposition](prakāśaḥ) [fourth](caturthaḥ) [chapter](adhyāyaḥ)
+[oblation+method](homavidhi) [exposition](prakāśaḥ) [fourth](caturthaḥ)
 
 ## mukta-m0-p45-v1116
-[in-another-country](para+deśa) [situated](sthitānāṃ) [and](ca) [in-prison+house](kārā+geha) [etc.](ādi) [dwelling](vāsinām) [for-those](teṣām)
+[of-those-staying+in-another-country](paradeśasthitānāṃ) [and](ca) [of-those-dwelling+in-prison+etc](kārāgehādivāsinām)
 
 ## mukta-m0-p45-v1117
-[of-ritual-parts](kārya+aṅga) [of-objects](vastu) [in-absence](abhāve) [or](vā) [of-the-vāmikas](vāmikānāṃ) [o-treasure-of-compassion](kṛpā+nidhe) [should-be-done](kāryā)
+[in-ritual+part+object+absence](kāryāṅgavastvabhāve) [or](vā) [of-vāmikas](vāmikānāṃ) [o-treasure+of-compassion](kṛpānidhe)
 
 ## mukta-m0-p45-v1118
-[and](ca) [also](api) [daily-routine](dina+caryāṃ) [tell](vada) [o-lord](prabho) [now](idānīm)
+[and+also](cāpi) [daily+conduct](dinacaryāṃ) [tell](vada) [o-lord](prabho)
 
 ## mukta-m0-p45-v1119
-[which](yat) [in-all-tantras](sarva+tantreṣu) [kept-secret](gopitam) [that](tat) [tell](vada)
+[which](yat) [in-all+tantras](sarvatantreṣu) [kept-secret](gopitam)
 
 ## mukta-m0-p45-v1120
-[all](sarve) [o](bho) [gods](devāḥ) [of-practitioners](sādhakānāṃ) [accomplishment-giving](prasiddhi+dam) [this](etat)
+[all](sarve) [o](bho) [gods](devāḥ) [of-practitioners](sādhakānāṃ) [accomplishment+giving](prasiddhidam)
 
 ## mukta-m0-p45-v1121
-[by-distinction-of-eligibility](adhikāri+vibhedena) [that](tat) [also](api) [threefold](tri+vidhaṃ) [should-be](bhavet) [indeed](hi)
+[by-qualification+difference](adhikārivibhedena) [that+also](tadapi) [threefold](trividhaṃ) [should-be](bhavet)
 
 ## mukta-m0-p45-v1122
-[transgression](pratyavāyaḥ) [not](na) [when-omitted](galite) [fruitful](sa+phala) [with-unguents](añjanaiḥ) [becomes](bhavati)
+[transgression](pratyavāyo) [not](na) [when-slipped](galite) [with-fruitful+unguents](saphalañjanaiḥ)
 
 ## mukta-m0-p45-v1123
-[by-an-ascetic](yatinā) [done](kṛtaṃ) [that](tat) [pure](śuddham) [is-considered](iṣyate) [indeed](hi)
+[by-ascetic](yatinā) [done](kṛtaṃ) [that](tat) [pure](śuddham) [is-desired](iṣyate)
 
 ## mukta-m0-p45-v1124
-[by-a-traveler](pathikena) [also](api) [or](vā) [to-prison](kārā+gṛha) [gone](gatena) [by-one](tena)
+[by-traveler](pathikena) [also](api) [or-gone+to-prison](kārāgṛhagatena) [or](vā)
 
 ## mukta-m0-p45-v1125
-[or](vā) [from-loss-of-wealth](vitta+saṃkṣayāt) [from-other-duty](anya+kāryataḥ) [or](vā) [when-unable](aśaktau) [should-be-done](kāryam)
+[or](vā) [from-wealth+diminution](vittasaṃkṣayāt) [from-other+business](anyakāryataḥ)

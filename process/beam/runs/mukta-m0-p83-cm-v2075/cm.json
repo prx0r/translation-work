@@ -3,39 +3,49 @@
  "verse": 2075,
  "rows": [
   {
-   "lemma": "virāme",
-   "morph": "m.loc.sg",
-   "grounds": "locative indicating the point of ending or pause"
+   "lemma": "pitṛ",
+   "morph": "compound-member",
+   "grounds": "first member indicating paternal relation, likely in relation to bhrātā"
   },
   {
-   "lemma": "aṅgasya",
-   "morph": "n.gen.sg",
-   "grounds": "denotes the part or limb in relation to which cessation occurs"
-  },
-  {
-   "lemma": "ye",
-   "morph": "pron.nom.pl.m",
-   "grounds": "relative pronoun introducing the mantra so situated; form as given"
-  },
-  {
-   "lemma": "mantro",
+   "lemma": "bhrātā",
    "morph": "m.nom.sg",
-   "grounds": "subject of the designation; final visarga elided in sandhi"
+   "grounds": "male relative; with pitṛ may denote paternal uncle"
   },
   {
-   "lemma": "hṛtavīrya",
-   "morph": "hṛta+vīrya (compound)",
-   "grounds": "compound describing the mantra as having its potency taken away"
+   "lemma": "pitā",
+   "morph": "m.nom.sg",
+   "grounds": "male parent as possible performer"
   },
   {
-   "lemma": "sa",
-   "morph": "pron.nom.sg.m",
-   "grounds": "anaphoric pronoun referring back to the mantra"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle offering alternatives"
   },
   {
-   "lemma": "ucyate",
-   "morph": "3.sg.pass-pres (√vac)",
-   "grounds": "states the designation applied to the mantra in this condition"
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive particle extending the alternatives"
+  },
+  {
+   "lemma": "kuryāt",
+   "morph": "3.sg.opt.act √kṛ",
+   "grounds": "enjoins the performance of the rite"
+  },
+  {
+   "lemma": "anna",
+   "morph": "compound-member",
+   "grounds": "first member of compound describing the rite"
+  },
+  {
+   "lemma": "aśana",
+   "morph": "compound-member",
+   "grounds": "second member of compound describing the rite"
+  },
+  {
+   "lemma": "kriyām",
+   "morph": "f.acc.sg",
+   "grounds": "object of kuryāt; the act to be performed"
   }
  ]
 }

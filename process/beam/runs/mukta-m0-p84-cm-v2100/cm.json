@@ -3,29 +3,34 @@
  "verse": 2100,
  "rows": [
   {
-   "lemma": "kṣiptvā",
-   "morph": "(gerund) kṣip",
-   "grounds": "absolutive of kṣip, indicating a prior act of placing or inserting"
+   "lemma": "prāyaścittam",
+   "morph": "n.acc.sg.nt",
+   "grounds": "object of the act to be performed"
   },
   {
-   "lemma": "ca+ādau",
-   "morph": "indecl+loc.sg.nt",
-   "grounds": "ca as connective particle; ādau as initial position in the ritual sequence"
+   "lemma": "tatas",
+   "morph": "(indecl.)",
+   "grounds": "marks sequence after the preceding acts"
   },
   {
-   "lemma": "śriyaṃ",
-   "morph": "acc.sg.f",
-   "grounds": "the goddess or principle Śrī, taken as object of placement"
+   "lemma": "kṛtvā",
+   "morph": "abs. (√kṛ)",
+   "grounds": "prior action completed before the main offering"
   },
   {
-   "lemma": "ca+eva",
-   "morph": "indecl+indecl",
-   "grounds": "emphatic connective reinforcing inclusion"
+   "lemma": "dadyāt",
+   "morph": "3.sg.act.opt (√dā)",
+   "grounds": "prescriptive injunction for the ritual act"
   },
   {
-   "lemma": "tat+dūṣaṇa+vimuktaye",
-   "morph": "pron+stem+dat.sg.f (compound)",
-   "grounds": "purpose of freeing from the previously mentioned mantra defect"
+   "lemma": "pūrṇa+āhutim",
+   "morph": "compound pūrṇa+āhuti; n.acc.sg.f",
+   "grounds": "compound denoting the complete offering into fire"
+  },
+  {
+   "lemma": "pitā",
+   "morph": "n.nom.sg.m",
+   "grounds": "agent responsible for performing the rite"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p84",
  "verse": 2094,
- "question": "What scriptural status is attributed to a mantra classified as very old?",
+ "question": "What instructions must the father give regarding the cut tuft and the barber?",
  "premises": [
-  "A mantra may be very old.",
-  "Such a mantra has a relation to scriptures.",
-  "It is devoid of all scriptures."
+  "The tuft is to be placed in a dish.",
+  "The barber is addressed.",
+  "The father is the one who should speak."
  ],
- "inference": "A very old mantra is devoid of all scriptures.",
- "uncertainties": [],
- "plain_english": "But that very old mantra is devoid of all scriptures."
+ "inference": "The father should place the tuft in a dish and give instructions to the barber.",
+ "uncertainties": [
+  "The exact words spoken to the barber are not specified."
+ ],
+ "plain_english": "He should place the tuft in a dish, and the father should speak to the barber."
 }
