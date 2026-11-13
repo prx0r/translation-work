@@ -3,29 +3,34 @@
  "verse": 237,
  "rows": [
   {
-   "lemma": "tadā",
+   "lemma": "tat+tat+mantraṃ",
+   "morph": "compound m.acc.sg",
+   "grounds": "accusative compound referring to the appropriate mantra"
+  },
+  {
+   "lemma": "mahā+īśāna",
+   "morph": "compound m.voc.sg",
+   "grounds": "vocative compound addressing the lord"
+  },
+  {
+   "lemma": "yadi",
    "morph": "(indecl.)",
-   "grounds": "temporal marker"
+   "grounds": "conditional particle"
   },
   {
-   "lemma": "kālī",
+   "lemma": "ahaṃ",
+   "morph": "pron.nom.sg",
+   "grounds": "first-person pronoun"
+  },
+  {
+   "lemma": "tava",
+   "morph": "pron.gen.sg",
+   "grounds": "genitive pronoun expressing relation"
+  },
+  {
+   "lemma": "vallabhā",
    "morph": "f.nom.sg",
-   "grounds": "subject"
-  },
-  {
-   "lemma": "prasannā+abhūt",
-   "morph": "compound: 3.sg.aorist.active (bhū)",
-   "grounds": "compound verb: became gracious"
-  },
-  {
-   "lemma": "kṣaṇa+arddhena",
-   "morph": "compound: n.inst.sg",
-   "grounds": "compound: in half a moment"
-  },
-  {
-   "lemma": "maheśvarī",
-   "morph": "f.nom.sg",
-   "grounds": "epithet of Kālī"
+   "grounds": "predicate noun expressing affection"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 243,
- "question": "Which seer and meter are declared for the thousand-name hymn?",
+ "question": "What coded elements are combined in the first step of constructing the mantra?",
  "premises": [
-  "A seer is declared for the hymn.",
-  "A meter is proclaimed for the hymn.",
-  "Mahākāla is the seer and Uṣṇik is the meter."
+  "The element śānta is named",
+  "It is joined with fire",
+  "It is adorned with the left eye"
  ],
- "inference": "Mahākāla is declared the seer and Uṣṇik the meter of the hymn.",
- "uncertainties": [],
- "plain_english": "Mahākāla is declared the sage, and Uṣṇik is proclaimed the meter."
+ "inference": "The mantra construction begins by combining śānta with fire and the left-eye element.",
+ "uncertainties": [
+  "śānta, vahni, and vāma+netra are coded mantra terms whose exact phonetic values are context-dependent"
+ ],
+ "plain_english": "Take śānta, joined with fire and adorned with the left eye."
 }

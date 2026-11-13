@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 246,
- "question": "How is the goddess's splendor and worship described in terms of countless arts?",
+ "question": "At what time and on which body parts should the ritual inscription be placed?",
  "premises": [
-  "Her radiance equals ten million arts.",
-  "She is worshipped by ten million arts.",
-  "Both descriptions exalt her magnificence."
+  "The action is performed at night",
+  "Specific body parts are listed",
+  "The parts include head, eyes, forehead, heart, and hand"
  ],
- "inference": "The goddess is described as supremely radiant and worshipped through countless arts.",
- "uncertainties": [],
- "plain_english": "She shines like ten million arts and is worshipped by ten million arts."
+ "inference": "The ritual marking is to be done at night on the head, eyes, forehead, heart, and hand.",
+ "uncertainties": [
+  "The object being marked is specified in the next verse"
+ ],
+ "plain_english": "At night, on the head, the eyes, the forehead, the heart, and the hand."
 }

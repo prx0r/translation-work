@@ -1,0 +1,1103 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "ṣaṭkarmasu",
+     "gloss": "in-six-rites",
+     "grounds": "locative plural of ṣaṭkarman, the six ritual acts",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yathāyogyaṃ",
+     "gloss": "as-appropriate",
+     "grounds": "adverbial compound indicating suitability",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request addressed to the lord",
+     "morph": "2.sg.act.imp √vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of the speaker",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "karuṇā+nidhe",
+     "gloss": "o-ocean-of-compassion",
+     "grounds": "vocative compound addressing the lord",
+     "morph": "compound m.voc.sg"
+    }
+   ],
+   "question": "What request is made regarding instruction in the six ritual acts?",
+   "premises": [
+    "The speaker addresses an ocean of compassion",
+    "The speaker asks to be told something",
+    "The topic concerns the six rites as appropriate"
+   ],
+   "inference": "The goddess requests appropriate instruction about the six ritual acts.",
+   "uncertainties": [],
+   "plain_english": "O ocean of compassion, tell me appropriately about the six rites."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "stambhane",
+     "gloss": "in-paralyzing",
+     "grounds": "locative of the rite of immobilization",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ḍākinī",
+     "gloss": "ḍākinī",
+     "grounds": "name of the female power or attendant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating what should be understood",
+     "morph": "f.nom.sg.gerundive √jñā"
+    },
+    {
+     "surface": "vidveṣe",
+     "gloss": "in-enmity",
+     "grounds": "locative of the rite of causing hatred",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pauṣṭikī",
+     "gloss": "nourishing-one",
+     "grounds": "feminine form linked to nourishing rites",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "regarded",
+     "grounds": "past participle expressing accepted view",
+     "morph": "f.nom.sg.ppp √man"
+    }
+   ],
+   "question": "Which female powers are assigned to the rites of paralyzing and enmity?",
+   "premises": [
+    "In paralyzing the ḍākinī is to be known",
+    "In enmity the nourishing one is regarded",
+    "Different rites correspond to different powers"
+   ],
+   "inference": "The ḍākinī governs paralyzing, while the nourishing power governs enmity.",
+   "uncertainties": [],
+   "plain_english": "In the rite of paralyzing, the ḍākinī is to be known; in the rite of enmity, the nourishing one is regarded."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "etāsāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural referring to previously mentioned powers",
+     "morph": "pron.f.gen.pl"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "defining marks or features",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle indicating prior explanation",
+     "morph": "n.nom.sg.ppp √kath"
+    },
+    {
+     "surface": "kula+mohane",
+     "gloss": "in-kula-delusion",
+     "grounds": "locative compound naming a prior context or text section",
+     "morph": "compound n.loc.sg"
+    }
+   ],
+   "question": "Where were the characteristics of these female powers previously explained?",
+   "premises": [
+    "The characteristics of these powers are mentioned",
+    "They were already told",
+    "The telling occurred in the context of kula-delusion"
+   ],
+   "inference": "The defining marks of these powers were previously explained in the section on kula-delusion.",
+   "uncertainties": [
+    "kula+mohane may refer to a rite or a textual section"
+   ],
+   "plain_english": "O goddess, the characteristics of these have already been told in the context of kula-delusion."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "stambhana+uccāṭane",
+     "gloss": "in-paralyzing-and-uprooting",
+     "grounds": "dual compound locative of two rites",
+     "morph": "compound n.loc.du"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "praśastā",
+     "gloss": "commended",
+     "grounds": "past participle indicating approval",
+     "morph": "f.nom.sg.ppp √śaṃs"
+    },
+    {
+     "surface": "nāga+vallabhā",
+     "gloss": "nāga-vallabhā",
+     "grounds": "name or epithet of a female power",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "Which female power is commended for the rites of paralyzing and uprooting?",
+   "premises": [
+    "The rites named are paralyzing and uprooting",
+    "A specific female power is commended",
+    "That power is nāga-vallabhā"
+   ],
+   "inference": "Nāga-vallabhā is the commended power for paralyzing and uprooting.",
+   "uncertainties": [],
+   "plain_english": "O goddess, nāga-vallabhā is commended for the rites of paralyzing and uprooting."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "gaura+aṅgī",
+     "gloss": "fair-limbed",
+     "grounds": "compound describing bodily complexion",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "dīrgha+keśī",
+     "gloss": "long-haired",
+     "grounds": "compound describing hair",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing description",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of constant manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa+amṛta+bhāṣiṇī",
+     "gloss": "nectar-speech",
+     "grounds": "compound describing sweet or immortal speech",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "What physical and verbal traits characterize the female power being described?",
+   "premises": [
+    "She is fair-limbed",
+    "She is long-haired",
+    "She always speaks nectar-like words"
+   ],
+   "inference": "The described power is fair, long-haired, and always speaks sweetly.",
+   "uncertainties": [],
+   "plain_english": "She who is fair-limbed, long-haired, and always speaks nectar-like words."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "mantra+siddhi+karī",
+     "gloss": "mantra-accomplishment-causing",
+     "grounds": "compound describing power to grant mantra success",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "hi+eṣā",
+     "gloss": "indeed-she",
+     "grounds": "emphatic particle with demonstrative pronoun",
+     "morph": "compound (indecl.+pron.f.nom.sg)"
+    },
+    {
+     "surface": "śaṅkhinī",
+     "gloss": "śaṅkhinī",
+     "grounds": "name of the described female power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā+api",
+     "gloss": "she-also",
+     "grounds": "demonstrative with inclusive particle",
+     "morph": "compound (pron.f.nom.sg+indecl.)"
+    },
+    {
+     "surface": "bhāvinī",
+     "gloss": "to-be-regarded",
+     "grounds": "gerundive indicating she should be considered",
+     "morph": "f.nom.sg.gerundive √bhū"
+    }
+   ],
+   "question": "What identity and function are attributed to the fair-limbed woman described earlier?",
+   "premises": [
+    "She causes accomplishment of mantras",
+    "She is identified as śaṅkhinī",
+    "She is also to be regarded in that way"
+   ],
+   "inference": "The previously described woman is śaṅkhinī, a power who grants mantra accomplishment.",
+   "uncertainties": [],
+   "plain_english": "Indeed she is śaṅkhinī, the one who brings mantra accomplishment, and she is to be regarded as such."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "sama+aṅgī",
+     "gloss": "even-limbed",
+     "grounds": "compound describing balanced body",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "śūdra+dehī",
+     "gloss": "śūdra-bodied",
+     "grounds": "compound indicating bodily or social association",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kharvā",
+     "gloss": "short",
+     "grounds": "adjective describing stature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na+ati+dīrghakā",
+     "gloss": "not-too-tall",
+     "grounds": "compound negating excessive height",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "What bodily proportions define the next female figure in this classification?",
+   "premises": [
+    "She is even-limbed",
+    "She is described as śūdra-bodied",
+    "She is neither short nor too tall"
+   ],
+   "inference": "The figure is of balanced stature, even-limbed, and described as śūdra-bodied.",
+   "uncertainties": [
+    "śūdra+dehī may indicate social class, appearance, or ritual category"
+   ],
+   "plain_english": "She is even-limbed, śūdra-bodied, neither short nor too tall."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "kṛṣṇa+aṅgī",
+     "gloss": "dark-limbed",
+     "grounds": "compound describing dark complexion",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛśa+aṅgī",
+     "gloss": "thin-limbed",
+     "grounds": "compound describing slender body",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "danturā",
+     "gloss": "prominent-toothed",
+     "grounds": "adjective describing teeth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mada+tāpitā",
+     "gloss": "tormented-by-pride",
+     "grounds": "compound describing agitation by intoxication or pride",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "What additional physical and temperamental marks further describe this figure?",
+   "premises": [
+    "She is dark-limbed and thin-limbed",
+    "She has prominent teeth",
+    "She is tormented by pride or intoxication"
+   ],
+   "inference": "The figure is dark, thin, prominent-toothed, and marked by pride or intoxication.",
+   "uncertainties": [
+    "mada may mean pride, passion, or intoxication"
+   ],
+   "plain_english": "She is dark-limbed and thin-limbed, prominent-toothed, and tormented by pride."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of constant state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kruddhā",
+     "gloss": "angry",
+     "grounds": "past participle describing temperament",
+     "morph": "f.nom.sg.ppp √krudh"
+    },
+    {
+     "surface": "dīrgha+dehā",
+     "gloss": "long-bodied",
+     "grounds": "compound describing tall body",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "mahā+rāva+parāyaṇā",
+     "gloss": "intent-on-great-roaring",
+     "grounds": "compound describing loud or fierce vocalization",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "What temperament and bodily traits complete the description of this fierce figure?",
+   "premises": [
+    "She is always angry",
+    "She is long-bodied",
+    "She is intent on great roaring"
+   ],
+   "inference": "The figure is perpetually angry, tall, and given to loud roaring.",
+   "uncertainties": [],
+   "plain_english": "She is always angry, long-bodied, and intent on great roaring."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun identifying the figure",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "ḍākinī",
+     "gloss": "ḍākinī",
+     "grounds": "name of the female power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle indicating authoritative statement",
+     "morph": "f.nom.sg.ppp √vac"
+    },
+    {
+     "surface": "mṛtyu+yoge",
+     "gloss": "in-death-rite",
+     "grounds": "locative compound naming a ritual application",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-commended",
+     "grounds": "passive verb expressing approval",
+     "morph": "3.sg.pass.pres √śaṃs"
+    }
+   ],
+   "question": "For which ritual application is the described ḍākinī explicitly commended?",
+   "premises": [
+    "The described figure is declared to be the ḍākinī",
+    "A specific ritual context is named as death-rite",
+    "She is commended in that context"
+   ],
+   "inference": "This ḍākinī is commended for use in the death-rite.",
+   "uncertainties": [
+    "mṛtyu+yoge may refer to a lethal rite or a rite concerning death"
+   ],
+   "plain_english": "This is declared to be the ḍākinī, and she is commended in the death-rite."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "grāhyā",
+     "gloss": "to-be-accepted",
+     "grounds": "gerundive indicating ritual acceptance",
+     "morph": "f.nom.sg.gerundive √grah"
+    },
+    {
+     "surface": "kula+rasaiḥ",
+     "gloss": "with-kula-essences",
+     "grounds": "instrumental plural compound referring to ritual substances",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive indicating worship",
+     "morph": "f.nom.sg.gerundive √pūj"
+    },
+    {
+     "surface": "bhakti+bhāvena",
+     "gloss": "with-devotional-attitude",
+     "grounds": "instrumental compound expressing devotion",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "kāminī",
+     "gloss": "desirable-woman",
+     "grounds": "female figure to be ritually engaged",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the desirable woman be ritually accepted and worshipped?",
+   "premises": [
+    "She is to be accepted with kula essences",
+    "She is to be worshipped",
+    "Worship should be performed with devotion"
+   ],
+   "inference": "The desirable woman should be accepted with kula essences and worshipped with devotion.",
+   "uncertainties": [
+    "kula+rasaiḥ may denote specific ritual fluids or substances"
+   ],
+   "plain_english": "The desirable woman should be accepted with kula essences and worshipped with an attitude of devotion."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "tat+tat+mantraṃ",
+     "gloss": "that-respective-mantra",
+     "grounds": "accusative compound referring to the appropriate mantra",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "mahā+īśāna",
+     "gloss": "o-great-lord",
+     "grounds": "vocative compound addressing the lord",
+     "morph": "compound m.voc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "first-person pronoun",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "genitive pronoun expressing relation",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "predicate noun expressing affection",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What condition frames the goddess's request for the specific mantra?",
+   "premises": [
+    "The goddess asks about the respective mantra",
+    "She addresses the great lord",
+    "She frames the request with her being beloved to him"
+   ],
+   "inference": "The goddess requests the specific mantra by appealing to her beloved status with the lord.",
+   "uncertainties": [
+    "The sentence is conditional and continues beyond this verse"
+   ],
+   "plain_english": "O great lord, if I am beloved to you, tell me that respective mantra."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "vajra+vairocanīyaḥ",
+     "gloss": "vajra-vairocanīya",
+     "grounds": "name or epithet of a mantra",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekādaśa+akṣaraḥ",
+     "gloss": "eleven-syllabled",
+     "grounds": "compound describing syllable count",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What identifying features define the mantra introduced in this passage?",
+   "premises": [
+    "A mantra is being specified",
+    "It is called vajra-vairocanīya",
+    "It consists of eleven syllables"
+   ],
+   "inference": "The mantra in question is the eleven-syllabled vajra-vairocanīya.",
+   "uncertainties": [],
+   "plain_english": "The mantra called vajra-vairocanīya, which has eleven syllables."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "bahunā",
+     "gloss": "with-much",
+     "grounds": "instrumental indicating excess speech",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb of place or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim+uktena",
+     "gloss": "what-by-saying",
+     "grounds": "rhetorical compound questioning need for more words",
+     "morph": "compound n.inst.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative command",
+     "morph": "2.sg.act.imp √śru"
+    },
+    {
+     "surface": "yat+prāṇa+vallabhe",
+     "gloss": "o-life-beloved",
+     "grounds": "vocative compound addressing the beloved",
+     "morph": "compound f.voc.sg"
+    }
+   ],
+   "question": "How does the speaker redirect attention toward the essential teaching?",
+   "premises": [
+    "Much speaking is deemed unnecessary",
+    "The listener is urged to listen",
+    "The listener is addressed as beloved of life"
+   ],
+   "inference": "The speaker dismisses lengthy explanation and urges the beloved to listen to the essential point.",
+   "uncertainties": [],
+   "plain_english": "What is the use of saying much here? Listen, O beloved of my life."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "certainly",
+     "grounds": "adverb expressing necessity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or outcome",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present tense verb of attainment",
+     "morph": "3.sg.act.pres √āp"
+    },
+    {
+     "surface": "na+anyathā",
+     "gloss": "not-otherwise",
+     "grounds": "compound negating alternative outcome",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "vīra+vandite",
+     "gloss": "o-praised-by-heroes",
+     "grounds": "vocative compound addressing the goddess",
+     "morph": "compound f.voc.sg"
+    }
+   ],
+   "question": "What certainty is asserted about obtaining the result of this practice?",
+   "premises": [
+    "The fruit is certainly obtained",
+    "No other outcome is admitted",
+    "The assurance is addressed to one praised by heroes"
+   ],
+   "inference": "The practice necessarily yields its fruit without exception.",
+   "uncertainties": [],
+   "plain_english": "One certainly obtains the fruit, and not otherwise, O you praised by heroes."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing hypothetical condition",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "mahā+īśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative compound addressing the goddess",
+     "morph": "compound f.voc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "pronoun indicating totality",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "vṛthā",
+     "gloss": "in-vain",
+     "grounds": "adverb indicating futility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing hypothetical result",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What consequence follows if the stated condition were otherwise?",
+   "premises": [
+    "A hypothetical condition is posed",
+    "The consequence is stated as all becoming vain",
+    "The address is to the great goddess"
+   ],
+   "inference": "If the condition were not met, everything would be in vain.",
+   "uncertainties": [
+    "The exact condition referred to by etat depends on preceding context"
+   ],
+   "plain_english": "O great goddess, if this were so, then everything would be in vain."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "tathā+api",
+     "gloss": "even-so",
+     "grounds": "compound concessive particle",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "na+hi",
+     "gloss": "not-indeed",
+     "grounds": "emphatic negation",
+     "morph": "compound (indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "ritual or spiritual success",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "citram",
+     "gloss": "wonder",
+     "grounds": "predicate expressing astonishment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "naga+ātmaje",
+     "gloss": "o-mountain-daughter",
+     "grounds": "vocative compound addressing the goddess",
+     "morph": "compound f.voc.sg"
+    }
+   ],
+   "question": "What surprising claim is made about accomplishment despite the stated condition?",
+   "premises": [
+    "A concessive situation is acknowledged",
+    "Accomplishment would still not arise",
+    "This is presented as a wonder"
+   ],
+   "inference": "Even so, accomplishment would not occur, which is declared astonishing.",
+   "uncertainties": [
+    "The concessive force depends on the unresolved condition in the previous verse"
+   ],
+   "plain_english": "Even so, accomplishment would not arise; this is a wonder, O daughter of the mountain."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "śāntaṃ",
+     "gloss": "śānta",
+     "grounds": "technical syllable or element in mantra construction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahni+samāyuktaṃ",
+     "gloss": "joined-with-fire",
+     "grounds": "compound indicating addition of the fire element",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "vāma+netra+vibhūṣitam",
+     "gloss": "adorned-with-left-eye",
+     "grounds": "compound indicating addition of the left-eye element",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What coded elements are combined in the first step of constructing the mantra?",
+   "premises": [
+    "The element śānta is named",
+    "It is joined with fire",
+    "It is adorned with the left eye"
+   ],
+   "inference": "The mantra construction begins by combining śānta with fire and the left-eye element.",
+   "uncertainties": [
+    "śānta, vahni, and vāma+netra are coded mantra terms whose exact phonetic values are context-dependent"
+   ],
+   "plain_english": "Take śānta, joined with fire and adorned with the left eye."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "kūrca+yugmaṃ",
+     "gloss": "kūrca-pair",
+     "grounds": "accusative compound naming two kūrca bīja syllables",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "amukaṃ",
+     "gloss": "so-and-so",
+     "grounds": "placeholder for the target's name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māraya",
+     "gloss": "kill",
+     "grounds": "imperative command in ritual formula",
+     "morph": "2.sg.act.imp.caus √mṛ"
+    },
+    {
+     "surface": "māraya",
+     "gloss": "kill",
+     "grounds": "repeated imperative for emphasis",
+     "morph": "2.sg.act.imp.caus √mṛ"
+    }
+   ],
+   "question": "What mantra components and command follow in the next stage of the formula?",
+   "premises": [
+    "A pair of kūrca syllables is added",
+    "A placeholder name is inserted",
+    "The command to kill is repeated"
+   ],
+   "inference": "After the kūrca pair, the formula inserts the target's name and twice commands killing.",
+   "uncertainties": [
+    "kūrca is a bīja syllable kept as a technical term"
+   ],
+   "plain_english": "Then, O goddess, add the pair of kūrca syllables, then 'kill, kill so-and-so.'"
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "khādira+aṅgāram",
+     "gloss": "khādira-charcoal",
+     "grounds": "accusative compound naming ritual material",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive √dā"
+    },
+    {
+     "surface": "kuja+aṣṭamyāṃ",
+     "gloss": "on-tuesday-eighth",
+     "grounds": "locative compound indicating ritual timing",
+     "morph": "compound f.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb emphasizing preference",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What material and timing are specified for beginning the ritual procedure?",
+   "premises": [
+    "Khādira charcoal is to be taken",
+    "The action is timed to the eighth day associated with Kuja",
+    "This timing is especially emphasized"
+   ],
+   "inference": "The rite begins by taking khādira charcoal, especially on the Tuesday eighth day.",
+   "uncertainties": [
+    "kuja+aṣṭamyāṃ may refer to a Tuesday on the eighth lunar day"
+   ],
+   "plain_english": "Having taken khādira charcoal, especially on the eighth day of Kuja."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "niśāyāṃ",
+     "gloss": "at-night",
+     "grounds": "locative indicating time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "locative of body part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "netre",
+     "gloss": "on-eyes",
+     "grounds": "locative dual of body part",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "locative of body part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "on-heart",
+     "grounds": "locative of body part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "on-hand",
+     "grounds": "locative of body part",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "At what time and on which body parts should the ritual inscription be placed?",
+   "premises": [
+    "The action is performed at night",
+    "Specific body parts are listed",
+    "The parts include head, eyes, forehead, heart, and hand"
+   ],
+   "inference": "The ritual marking is to be done at night on the head, eyes, forehead, heart, and hand.",
+   "uncertainties": [
+    "The object being marked is specified in the next verse"
+   ],
+   "plain_english": "At night, on the head, the eyes, the forehead, the heart, and the hand."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "mantra+varṇān",
+     "gloss": "mantra-letters",
+     "grounds": "accusative plural of syllables or letters of the mantra",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "having-inscribed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive √likh"
+    },
+    {
+     "surface": "pratiṣṭhāṃ",
+     "gloss": "installation",
+     "grounds": "ritual consecration or establishment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb referring to that place or object",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-perform",
+     "grounds": "causative optative prescribing ritual action",
+     "morph": "3.sg.act.opt.caus √kṛ"
+    }
+   ],
+   "question": "What ritual action must be performed after inscribing the mantra letters?",
+   "premises": [
+    "The mantra letters are inscribed",
+    "The inscription is done in the specified place",
+    "Installation is to be performed there"
+   ],
+   "inference": "After inscribing the mantra letters, one should perform ritual installation there.",
+   "uncertainties": [],
+   "plain_english": "Having inscribed the mantra letters, one should perform the installation there."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "dīrgha+ākārāṃ",
+     "gloss": "long-formed",
+     "grounds": "accusative compound describing elongated form",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇa+varṇāṃ",
+     "gloss": "black-colored",
+     "grounds": "accusative compound describing color",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "sadā+ūrdhva+stana+mastakām",
+     "gloss": "always-raised-breasts-head",
+     "grounds": "compound describing posture with raised breasts and head",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What visual form should be contemplated in the deity invoked for this rite?",
+   "premises": [
+    "The form is long",
+    "The form is black-colored",
+    "The breasts and head are always raised"
+   ],
+   "inference": "The contemplated form is elongated, black, and held with breasts and head raised.",
+   "uncertainties": [],
+   "plain_english": "She is long-formed, black-colored, with breasts and head always raised."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "śatru+nāśa+karīṃ",
+     "gloss": "enemy-destroying",
+     "grounds": "accusative compound describing the goddess's function",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative object of meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative prescribing visualization",
+     "morph": "3.sg.act.opt √dhyai"
+    },
+    {
+     "surface": "śatru+kṣayāya",
+     "gloss": "for-enemy-destruction",
+     "grounds": "dative compound expressing purpose",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose should the enemy-destroying goddess be meditated upon?",
+   "premises": [
+    "The goddess is described as enemy-destroying",
+    "Meditation on her is prescribed",
+    "The stated purpose is destruction of the enemy"
+   ],
+   "inference": "One should meditate on the enemy-destroying goddess for the destruction of the enemy.",
+   "uncertainties": [],
+   "plain_english": "And one should meditate on the enemy-destroying goddess for the destruction of the enemy."
+  }
+ ]
+}

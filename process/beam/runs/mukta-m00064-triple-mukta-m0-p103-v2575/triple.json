@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "kāmarūpe",
+     "gloss": "in-kāmarūpa",
+     "grounds": "name of the sacred region",
+     "morph": "kāmarūpa.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃnyāsaḥ",
+     "gloss": "renunciation",
+     "grounds": "formal renunciatory discipline",
+     "morph": "saṃnyāsa.m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends negation to next item",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīrgha+vrataṃ",
+     "gloss": "long-vow",
+     "grounds": "prolonged observance; compound analyzed as given",
+     "morph": "dīrgha+vrata.n.nom.sg (compound: dīrgha+vrata)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "priyā.f.voc.sg"
+    }
+   ],
+   "question": "Are renunciation and prolonged vows required practices in Kāmarūpa?",
+   "premises": [
+    "The sacred region named is Kāmarūpa.",
+    "Renunciation is explicitly negated in that context.",
+    "Prolonged vows are likewise negated in that context."
+   ],
+   "inference": "Therefore, neither renunciation nor prolonged vows are required in Kāmarūpa.",
+   "uncertainties": [
+    "The exact scope and type of dīrgha-vrata intended is not specified in this verse."
+   ],
+   "plain_english": "O beloved, in Kāmarūpa there is no renunciation, and likewise no long vow."
+  }
+ ]
+}
