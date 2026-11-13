@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3975,
+   "rows": [
+    {
+     "surface": "sarva+pāpāt",
+     "gloss": "from-all-sins",
+     "grounds": "compound expressing totality of sins; ablative marks separation or source of liberation",
+     "morph": "sarva+sarva-pāpa+pāpa.abl.sg.nt"
+    },
+    {
+     "surface": "vinirmuktaḥ",
+     "gloss": "completely-freed",
+     "grounds": "past passive participle indicating complete release; masculine form as given",
+     "morph": "nom.sg.m.past-passive-participle(vi-nir-√muc)"
+    },
+    {
+     "surface": "mahā+bandhyā",
+     "gloss": "greatly-barren-woman",
+     "grounds": "compound qualifying a woman afflicted with severe barrenness",
+     "morph": "mahā+mahā-bandhyā+bandhyā.nom.sg.f"
+    },
+    {
+     "surface": "prasūyate",
+     "gloss": "gives-birth",
+     "grounds": "present verb expressing the resulting capacity to bear offspring",
+     "morph": "3.sg.pres.passive(pra-√sū)"
+    }
+   ],
+   "question": "What transformative result does complete freedom from all sins bring to a greatly barren woman?",
+   "premises": [
+    "Complete freedom from all sins can be attained.",
+    "A greatly barren woman may become completely freed from all sins.",
+    "Such liberation removes the condition preventing childbirth."
+   ],
+   "inference": "Therefore, a greatly barren woman gives birth after being completely freed from all sins.",
+   "uncertainties": [
+    "The masculine form vinirmuktaḥ occurs with the feminine subject mahā+bandhyā; agreement is taken as contextual."
+   ],
+   "plain_english": "Completely freed from all sins, even a greatly barren woman gives birth."
+  }
+ ]
+}

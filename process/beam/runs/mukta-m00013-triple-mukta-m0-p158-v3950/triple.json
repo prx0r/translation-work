@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p158",
+ "items": [
+  {
+   "verse": 3950,
+   "rows": [
+    {
+     "surface": "ṣāṇmāturo",
+     "gloss": "son-of-six-mothers",
+     "grounds": "epithet of Kumāra/Skanda; nominative singular masculine with sandhi before following voiced consonant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaye",
+     "gloss": "in-danger",
+     "grounds": "locative of circumstance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ghore",
+     "gloss": "terrible",
+     "grounds": "adjective qualifying bhaye",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kumāro",
+     "gloss": "Kumāra",
+     "grounds": "deity name; nominative singular masculine with sandhi before following vowel",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avyāt",
+     "gloss": "may-protect",
+     "grounds": "optative expressing a wish or invocation for protection",
+     "morph": "3.sg.act.opt √av"
+    },
+    {
+     "surface": "śmaśānake",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which deity grants protection in terrible danger at the cremation ground?",
+   "premises": [
+    "Kumāra is identified as the son of six mothers.",
+    "Terrible danger can be encountered in the cremation ground.",
+    "A protective deity is invoked to ward off such danger."
+   ],
+   "inference": "Therefore Kumāra is invoked to grant protection in terrible danger at the cremation ground.",
+   "uncertainties": [
+    "The object of protection is implicit, but context from preceding verses suggests 'me'."
+   ],
+   "plain_english": "May Kumāra, son of the six mothers, protect in terrible danger at the cremation ground."
+  }
+ ]
+}
