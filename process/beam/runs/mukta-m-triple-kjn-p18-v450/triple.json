@@ -6,52 +6,52 @@
    "rows": [
     {
      "surface": "kṣīrādā",
-     "gloss": "milk-from",
-     "grounds": "milk plus from, fused source form",
+     "gloss": "from-milk",
+     "grounds": "milk plus from in ablative sense",
      "morph": "indecl."
     },
     {
      "surface": "....",
      "gloss": "ellipsis",
-     "grounds": "source ellipsis retained",
+     "grounds": "editorial ellipsis marker",
      "morph": "indecl."
     },
     {
      "surface": "viplakāraiḥ",
      "gloss": "with-fillings",
-     "grounds": "filling substance in instrumental plural",
-     "morph": "instr.pl.m"
+     "grounds": "instrumental plural of viplaka",
+     "morph": "m.instr.pl"
     },
     {
      "surface": "pūrayet",
      "gloss": "should-fill",
-     "grounds": "optative filling action",
-     "morph": "3.sg.opt.act"
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.opt-act"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "that plus body in accusative",
-     "morph": "acc.sg.m"
+     "grounds": "tat plus tanu in accusative singular",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "temporal adverb",
+     "grounds": "indeclinable adverb",
      "morph": "indecl."
     }
    ],
-   "question": "How should a practitioner fill that body with milk and fillings always?",
+   "question": "How does one always fill that body with fillings beginning from milk?",
    "premises": [
-    "Milk is taken from its source.",
-    "Fillings accompany the filling action.",
-    "The body is the object filled."
+    "Milk is the starting source",
+    "Fillings fill the body",
+    "The practice is constant"
    ],
-   "inference": "The body is continually filled with milk and fillings.",
+   "inference": "The verse prescribes continually filling that body with fillings from milk.",
    "uncertainties": [
-    "The ellipsis token is unresolved in the source."
+    "The ellipsis token obscures an intermediate source or step"
    ],
-   "plain_english": "From milk ... with fillings, one should always fill that body."
+   "plain_english": "From milk ... one should always fill that body with fillings."
   }
  ]
 }

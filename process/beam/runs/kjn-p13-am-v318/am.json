@@ -1,14 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 318,
- "question": "What may be the status of lord and fallen in cakra supremacy?",
+ "question": "Can a fallen lord become supreme in the cakra?",
  "premises": [
-  "lord and fallen are named",
+  "lord and fallen are both named",
+  "that may be",
   "cakra-supreme is named"
  ],
- "inference": "The verse poses an unresolved cakra supremacy question.",
+ "inference": "The verse raises a possibility about fallen and supreme status.",
  "uncertainties": [
-  "text is corrupt or abbreviated"
+  "the final token is unclear"
  ],
- "plain_english": "Lord and fallen, that may be, cakra-supreme ?"
+ "plain_english": "Lord and fallen, that may be, cakra-supreme?"
 }

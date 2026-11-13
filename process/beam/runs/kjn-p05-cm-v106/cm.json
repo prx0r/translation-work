@@ -4,18 +4,18 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "m.loc.sg",
+   "morph": "pron.loc.sg.m",
    "grounds": "interrogative locative"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "indeclinable particle"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "indeclinable particle"
   },
   {
    "lemma": "layaṃ",
@@ -24,23 +24,23 @@
   },
   {
    "lemma": "yāti",
-   "morph": "3.sg.act-pres + root yā",
-   "grounds": "verb yā"
+   "morph": "3sg.act.pres",
+   "grounds": "present of root yā"
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "compound",
-   "grounds": "compound tat+sarva"
+   "morph": "neut.acc.sg",
+   "grounds": "compound of tat and sarva"
   },
   {
    "lemma": "kathayasva",
-   "morph": "2.sg.mid-imp + root kath",
-   "grounds": "imperative of kathay"
+   "morph": "2sg.act.impv",
+   "grounds": "imperative of root kath"
   },
   {
    "lemma": "me",
-   "morph": "m.dat.sg",
-   "grounds": "dative of aham"
+   "morph": "pron.dat.sg",
+   "grounds": "dative of first person"
   }
  ]
 }

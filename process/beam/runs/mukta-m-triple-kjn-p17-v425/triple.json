@@ -7,39 +7,39 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "accusative singular neuter noun",
+     "grounds": "amṛta in accusative singular neuter",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-nature",
-     "grounds": "compound of kaula and sadbhāva in accusative singular",
-     "morph": "n.acc.sg"
+     "grounds": "compound of kaula and sadbhāva in accusative singular masculine",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative form of root śru",
-     "morph": "2.sg.act-imp+śru"
+     "grounds": "imperative singular of śru",
+     "morph": "2.sg.act.imp (śru)"
     },
     {
      "surface": "kāmakalātmakam",
      "gloss": "desire-art-consisting",
      "grounds": "compound of kāma, kalā, and ātmaka in accusative singular neuter",
-     "morph": "adj.acc.sg.n"
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What is the nectar whose true Kaula nature consists of kāmakalā?",
+   "question": "What nectar is being identified as the true nature of Kaula consisting of desire-art?",
    "premises": [
-    "Nectar is Kaula true nature.",
-    "That nature consists of kāmakalā.",
-    "Hear it now."
+    "Nectar is called kaula true nature.",
+    "That nature consists of desire-art.",
+    "Hear is an imperative address."
    ],
-   "inference": "The verse identifies nectar with the Kaula essence made of kāmakalā.",
+   "inference": "The verse identifies nectar with Kaula's true nature made of desire-art.",
    "uncertainties": [
-    "Exact syntactic relation of amṛtam to kaulasadbhāvam remains unresolved."
+    "Exact syntactic relation of amṛtam to kaulasadbhāvam remains uncertain."
    ],
-   "plain_english": "Hear the nectar: the true nature of Kaula, consisting of kāmakalā."
+   "plain_english": "Hear the nectar: the true nature of Kaula, consisting of desire-art."
   }
  ]
 }

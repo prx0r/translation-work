@@ -1,7 +1,7 @@
 {
  "song": "kjn-p13",
  "verse": 315,
- "question": "Which vessel materials are named for the goddess?",
+ "question": "Which vessel materials are named as auspicious?",
  "premises": [
   "clay is named",
   "tortoise-born is named",
@@ -9,6 +9,8 @@
   "copper-metal is named"
  ],
  "inference": "Several vessel materials are enumerated.",
- "uncertainties": [],
- "plain_english": "Clay-made, tortoise-born, O goddess, bell-metal-made, copper-metal-born."
+ "uncertainties": [
+  "auspiciousness is not explicitly assigned here"
+ ],
+ "plain_english": "Clay, tortoise-born, bell-metal, and copper-metal vessels are named."
 }

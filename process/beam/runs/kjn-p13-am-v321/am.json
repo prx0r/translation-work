@@ -1,12 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 321,
- "question": "What must be known by the grace of that?",
+ "question": "By whose grace is the determination of knowledge to be known?",
  "premises": [
   "by that grace",
+  "O lord of gods",
   "knowledge-determination is to be known"
  ],
- "inference": "Grace makes the determination of knowledge knowable.",
- "uncertainties": [],
+ "inference": "Knowledge is to be known through divine grace.",
+ "uncertainties": [
+  "antecedent of 'that' is implicit"
+ ],
  "plain_english": "By that grace, O lord of gods, the determination of knowledge is to be known."
 }

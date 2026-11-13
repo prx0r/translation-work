@@ -7,51 +7,51 @@
     {
      "surface": "brahmatvaṃ",
      "gloss": "brahma-state",
-     "grounds": "abstract state of being Brahma",
-     "morph": "n.nom.sg"
+     "grounds": "brahma plus tva suffix state",
+     "morph": "n.acc.sg.n"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "temporal adverb indicating that moment",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "tyaktaṃ",
      "gloss": "abandoned",
-     "grounds": "past passive participle describing relinquishment",
-     "morph": "n.nom.sg.ppp (√tyaj)"
+     "grounds": "root tyaj past participle",
+     "morph": "n.acc.sg.n"
     },
     {
      "surface": "citta",
      "gloss": "mind",
-     "grounds": "term of address or referent for the mind",
-     "morph": "n.voc.sg"
+     "grounds": "noun citta",
+     "morph": "n.nom.sg.n"
     },
     {
      "surface": "dhīvarātmakam",
-     "gloss": "fisherman-natured",
-     "grounds": "compound describing nature as that of a fisherman",
-     "morph": "n.nom.sg (compound: dhīvara+ātmaka)"
+     "gloss": "fisherman-nature",
+     "grounds": "dhīvara plus ātmaka compound",
+     "morph": "n.nom.sg.n"
     }
    ],
-   "question": "What condition was relinquished when the mind assumed a fisherman nature?",
+   "question": "What happens to Brahma-state when mind assumes fisherman-nature?",
    "premises": [
-    "The state of Brahma had been present.",
-    "At that moment an abandonment occurred.",
-    "The mind took on a fisherman nature."
+    "Brahma-state is abandoned then.",
+    "Mind becomes fisherman-nature.",
+    "Anger produced Shakti net."
    ],
-   "inference": "The state of Brahma was abandoned when the mind became fisherman-natured.",
+   "inference": "Brahma-state is relinquished as mind turns fisherman-like.",
    "uncertainties": [
-    "Whether citta functions as a vocative address or as part of the subject description is ambiguous."
+    "Exact syntactic relation uncertain."
    ],
-   "plain_english": "Indeed, then the state of Brahma was abandoned, O fisherman-natured mind."
+   "plain_english": "Then the state of Brahma is abandoned; the mind becomes fisherman-like."
   }
  ]
 }
