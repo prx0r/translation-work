@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 22,
- "question": "What paradoxical value does the great knowledge hold in the Kali age?",
+ "question": "What is the meaning of the statement that it deviates?",
  "premises": [
-  "The great knowledge should not be given.",
-  "The context is the Kali age.",
-  "It nevertheless gives full fruit."
+  "A deviation is stated.",
+  "The statement is summarized as a meaning.",
+  "This qualifies the prior claim."
  ],
- "inference": "Even though not to be given, the great knowledge yields full fruit in the Kali age.",
- "uncertainties": [],
- "plain_english": "Even though not to be given, this great knowledge gives full fruit in the Kali age."
+ "inference": "The meaning is that it may deviate or fail.",
+ "uncertainties": [
+  "The subject of deviation is implied from prior verses."
+ ],
+ "plain_english": "The meaning is: it deviates."
 }

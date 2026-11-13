@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[knowledge-lord](jñāneśa) [agent-etc](kartr-ādi) [story](kathā) [bereft](artivandhya) [action-lord](kriyeśa) [non-action](naiṣkarmya) [particular](viśeṣa) [remainder](śeṣa)
+[o-lord-of-knowledge](jñāneśa) [devoid+of+the+distress+of+talk+of+agent+etc.](kartr+ādi+kathā+ārti+vandhya) [o-lord-of-action](kriyeśa) [remaining+as+the+excellence+of+inaction](naiṣkarmya+viśeṣa+śeṣa)
 
 ## mukta-m0-p07-v152
-[rememberable](smartavya) [chief](mukhya) [well-made](abhinikṛta) [kindled](neddha) [memory-lords](smṛtīśvarāḥ) [I-am](ahaṃ) [remembrance](smaraṇa) [proof](pramāṇa)
+[kindled+by+the+foremost+among+those+to-be-remembered](smartavya+mukhya+abhinikṛta+neddha) [o-lord-of-memory+whose+measure+is+the+remembrance+of+"I"](smṛti+īśvara+ahaṃ+smaraṇa+pramāṇa)
 
 ## mukta-m0-p07-v153
-[supreme](parā) [atom](aṇu) [maya](māyā) [good](su) [sport](vilāsa) [speech](bhāsya) [here](atra) [aishvarya](aiśvarya) [play](khela) [uplifting](uddharaṇa) [sole](eka) [cause](heto)
+[o-sole-cause+of+the+uplifting+play+of+sovereignty+manifest+in+the+sport+within+the+supreme+atom+and+māyā](parāṇu+māyāsu+vilāsa+bhāsya+traiśvarya+khela+uddharaṇa+eka+heto)
 
 ## mukta-m0-p07-v154
-[vairaja-king](vairājarāja) [own-people](svajana) [tri-form](tribhāva) [assembly](samājana) [anointment](īrājana) [kingdom](rājya) [lord](bhartaḥ)
+[o-king+of-vairāja](vairāja+rāja) [o-bearer+of+the+kingdom+honored+by+the+assembly+of+the+state+of+being+one's+own+mother](svajanitri+bhāva+samājanī+rājana+rājya+bhartaḥ)
 
 ## mukta-m0-p07-v155
-[with-yuk](sayuk) [friend](sakhe) [own](sva) [covering](āvaraṇa) [excess](ati) [sport](līlā) [skill](cāturya) [wish-fulfilling-gem](cintāmaṇi) [ground](bhūḥ) [mighty-lord](prabhūman)
+[endowed+with](sayuk) [o-friend](sakhe) [o-you-who-are+the+wishing-jewel+of+the+skill+in+the+supreme+play+of+self-concealment](svāvaraṇa+ati+līlā+cāturya+cintāmaṇi+bhūḥ) [o-mighty-one](prabhūman)
 
 ## mukta-m0-p07-v156
-[own](sva) [ego-making](ahaṃkṛti) [pervasion](vyāpti) [contemplation](vimarśanīya) [wise-one](prājña) [this](etat) [servant](dāsa) [dissolution](pralaya) [agent](adhikartaḥ)
+[to-be-contemplated+through+the+pervasion+of+self-affirmation](svāhaṃkṛti+vyāpti+vimarśanīya) [o-wise-one+o-giver+of+this+o-lord+of+complete+dissolution](prājña+etat+dā+sampralaya+adhikartaḥ)
 
 ## mukta-m0-p07-v157
-[not-time](akāla) [pillar](kāṣṭhā) [form](ākṛti) [time](kāla) [time](kāla) [pillar](kāṣṭhā) [kind](prakāra) [nature](prakṛta) [one](eka) [not-one](anaika)
+[o-you-who-are+the+one+and+many+natures+of+the+divisions+of+time-units+of+the+time+that+is+the+maker+of+timeless+time-units](akāla+kāṣṭhā+kṛti+kāla+kāla+kāṣṭhā+prakāra+prakṛti+eka+naika)
 
 ## mukta-m0-p07-v158
-[self](svayam) [with-inscription](samullekha) [with-scratching](vilekha) [line](lekhā) [object-of-writing](lekhya) [sole](eka) [time](kāla) [writer](lekhaka) [taijasa](taijasa) [self](ātman)
+[o-sole+inscriber+of+the+inscribed+writing+the+erasure+and+the+self-delineation](svayaṃ+samullekha+vilekha+lekhā+lekhya+eka+kālekhaka) [o-taijasa-self](taijasa+ātman)
 
 ## mukta-m0-p07-v159
-[unbroken](akhaṇḍita) [aishvarya](aiśvarya) [awakening](vibodha) [fragment](khaṇḍa) [made](urīkṛta) [non-lord](anīśa) [universe-form](viśvarūpa)
+[o-you-whose+form+is+the+universe+having+made+lordlessness+subservient+by+a+fragment+of+unbroken+sovereignty+and+knowledge](akhaṇḍita+aiśvarya+vibodha+khaṇḍa+urarīkṛta+anīśana+viśva+rūpa)
 
 ## mukta-m0-p07-v160
-[supramundane](alaukika) [bliss](ānanda) [nectar](sudhā) [sole](eka) [bulb](kanda) [bliss](ānanda) [born-of-bliss](jānanda) [great](mahā) [secret](rahasya)
+[o-sole+root-bulb+of+the+nectar+of+transcendent+bliss](alaukika+ānanda+sudhā+eka+kanda) [o-bliss+born+of+non-bliss](na+ānanda+ja+ānanda) [o-great+mystery](mahā+rahasya)
 
 ## mukta-m0-p07-v161
-[sky](vyoma) [abode](āśaya) [pervasiveness](vyāpakatā) [stretch](tanava) [non-pervasion](avyāpti) [injured](kṣata) [pervasiveness](vyāpakatā) [transcendence](paratva)
+[o-you-pervaded+by+the+unattainable+pervasiveness+abiding+in+space](vyoma+āśaya+vyāpakatā+anavāpya+vyāpte) [o-transcendence+of+impaired+pervasiveness](kṣata+vyāpakatā+paratva)
 
 ## mukta-m0-p07-v162
-[your](tvat) [foot](pāda) [lotus](padma) [arisen](uttha) [dust](rajāṃsi) [creation](sṛṣṭi) [dissolution](saṃhāra) [powers](śaktīni) [supremely](param) [triumph](jayanti)
+[the+dust-particles+arisen+from+your+lotus-feet](tvat+pāda+padma+uttha+rajāṃsi) [which-are+the+powers+of+creation+and+dissolution](sṛṣṭi+saṃhāra+śaktīni) [supremely](paraṃ) [triumph](jayanti)
 
 ## mukta-m0-p07-v163
-[in-poem](kāvye) [name](nāma) [sport](vilāsanāmni) [composed](racite) [devotion](bhaktiḥ) [of-two](dvayoḥ) [fulfiller](pūraṇī)
+[in+the+poem](kāvye) [named+nāmavilāsa](nāma+vilāsa+nāmni) [composed](racite) [the+devotion](bhaktiḥ) [fulfilling+the+two](dvayoḥ) [completing](pūraṇī)
 
 ## mukta-m0-p07-v164
-[in-name-sport](nāmavilāse) [second](dvitīyā) [devotion](bhaktiḥ)
+[in+nāmavilāsa](nāma+vilāse) [the+second](dvitīyā) [devotion](bhaktiḥ)
 
 ## mukta-m0-p07-v165
-[not](na) [heart](hṛd) [speech](girām) [object-of-range](gocaraḥ) [this](eṣaḥ) [to-be-spoken](vācyāḥ) [also-to-be-spoken](vācyāḥ-api) [object-of-indication](lakṣyaḥ) [greatness](mahimā) [your](tava) [alone](eva)
+[not](na) [within+the+range+of+heart+and+speech](hṛd+girāṃ) [accessible](gocaraḥ) [this](eṣaḥ) [to-be-expressed](vācyo) [even+if+expressible](vācyo+api) [to-be-indicated](lakṣyo) [greatness](mahimā) [of-you+alone](tava+eva)
 
 ## mukta-m0-p07-v166
-[consciousness](citiḥ) [independent](svatantraḥ) [all](akhila) [perfection](siddhi) [perfection](siddhiḥ) [full](pūrṇaḥ) [also](api) [empty](śūnyaḥ) [triumph](jayasi) [self-radiant](svabhātaḥ)
+[consciousness](citiḥ) [independent+the+accomplishment+of+all+accomplishments](svatantraḥ+akhila+siddhi+siddhiḥ) [even+though+full](pūrṇaḥ+api) [empty](śūnyo) [you-triumph](jayasi) [self-luminous](svabhātaḥ)
 
 ## mukta-m0-p07-v167
-[other](anyat) [as](yathā) [in-you](tvayi) [becomes-absorbed](abhilīyate) [ca) [in-wink](nimeṣa) [principle](tattva) [opening](unmiṣite) [particular](viśeṣe)
+[other](anyat) [just+as](yathā) [in-you](tvayi) [is-dissolved](abhilīyate) [and](ca) [in+the+particular+that+has+emerged+as+the+principle+of+the+moment](nimeṣa+tattva+unmiṣite) [in+the+particular](viśeṣe)
 
 ## mukta-m0-p07-v168
-[non-different](abhinna) [state](bhāvaḥ) [objecthood](viṣayatvam) [attains](eti) [particularity-less](viśeṣaśūnyā) [self-knowledge](svavid) [your](tava) [alone](eva)
+[the+state+of+non-difference](abhinna+bhāvo) [objecthood](viṣayatvam) [attains](eti) [devoid+of+particularity](viśeṣa+śūnyā) [self-knowledge+is-yours+alone](svavid+iḥ+tava+eva)
 
 ## mukta-m0-p07-v169
-[here](atra) [experience](anubhūti) [sole](eka) [place](pade) [not](na) [worthy](mānyam) [measure](mānam) [not](na) [vehicle](vimānam) [not](na) [ca](ca) [up-to](upa) [attained](pannam)
+[here+in+the+sole+abode+of+experience](atra+anubhūti+eka+pade) [not](na) [to-be-measured](mānyaṃ) [measure](mānaṃ) [erroneous-measure](vimānaṃ) [and+not](na+ca) [or](vā) [fitting](upapannam)
 
 ## mukta-m0-p07-v170
-[you](tvam) [alone](eva) [this](etat) [with-form](vapuṣā) [causing-to-appear](avabhāsya) [shine](bhāsi) [self](svayam) [causality-etc](kāraṇatā-ādi) [causing-to-appear](bhāsya)
+[you+alone](tvam+eva) [and](ca) [this](etat) [having+manifested+with+your+own+form](vapuṣā+avabhāsya) [you-shine](bhāsi) [by-yourself](svayaṃ) [appearing+as+causality+etc.](kāraṇatā+ādi+bhāsya)
 
 ## mukta-m0-p07-v171
-[that-other](tat-anyat) [from-this](asmāt) [if](yadi) [va](vā) [appears](avabhāti) [that-that](tat-tat) [self-established](svasiddham) [what](kim) [here](iha) [other](anya) [connection](yogaḥ)
+[that+other+than+this](tat+anyat+asmāt) [if+indeed](yadi+vā) [appears](avabhāti) [that+that](tat+tat) [self-established](svasiddhaṃ) [what+here+connection+with+another](kim+iha+anya+yogaḥ)
 
 ## mukta-m0-p07-v172
-[self](sva) [own](sva) [statement](ukti) [reasoning](yukti) [known](vidita) [all](akhilasya) [not](na) [anyone](kaḥ-api) [of-that](tasya) [knowability](viditatvam) [attains](eti)
+[the+reasoning+of+one's+own+statement+by-which+all+is+known](svasva+ukti+yuktiḥ+vidita+akhilasya) [not](na) [anyone](kaḥ+api) [of-that](tasyā) [the+state+of+being+known](viditatvam) [attains](eti)
 
 ## mukta-m0-p07-v173
-[not-this](naiṣaḥ-api) [gone](yātaḥ) [from-where](kim-ataḥ) [contrary](pratīpam) [omniscience](abhijñatām) [enjoyment](bhoga) [liberation](vimokṣa) [possessor](bhāk) [would-be](syāt)
+[not+this+even](na+eṣaḥ+api) [gone](yātaḥ) [what+then](kim+ataḥ) [contrary](pratīpam) [knowledge](abhijñatāṃ) [partaker+of+enjoyment+and+liberation](bhoga+vimokṣa+bhāk) [would-be](syāt)
 
 ## mukta-m0-p07-v174
-[descent](āveśaḥ) [of-this](etasya) [supreme](paraḥ-api) [means](upāyaḥ) [for-your](tvaj) [knowledge](jñaptaye) [mother](mātari) [in-being](sat) [with-bliss](sukhena)
+[immersion](āveśaḥ) [of-this](etasya) [supreme+even](paraḥ+api) [means+for+your+knowledge](upāyaḥ+tvat+jñaptaye) [o-mother](mātari) [with+true+bliss](sat+sukhena)
 
 ## mukta-m0-p07-v175
-[new](nava) [not-new](anava) [here](iha) [expanse](vibhavam) [on-own-wall](svabhittau) [self](svātmā) [unfolds](unmīlayasi) [lord-of-lords](īśvareśaḥ)
+[ever+anew+here](nava+nava+iha) [the+glory](vibhavaṃ) [on+your+own+ground](svabhittau) [your+own+self](svātmā) [you-unfold](samunmīlayasi) [o-lord+of+lords](īśvara+īśaḥ)
