@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p362-v9026
-[poison](viṣa)+[fever](jvara)+[seizer](graha)+[constellation](ṛkṣa)+[etcetera](ādi)+[all](sarva)+[defect](doṣa)+[end](anta)+[making](kāriṇi) (kāriṇi)
+[poison](viṣa)+[fever](jvara)+[seizer](graha)+[constellation](ṛkṣa)+[and-other](ādi)+[all](sarva)+[defect](doṣa)+[end](anta)+[causing](kāriṇi)
 
 ## mukta-m0-p362-v9027
-[knowledge](vidyā)+[abode](śāle) (śāle) [palm-tree](tāla)+[garlanded](māle) (māle) [Rudra](rudra)+[form](rūpe) (rūpe) [cook](paca) (paca) [pair](dvayam) (dvayam)
+[knowledge](vidyā)+[abode](śāle) [palm-tree](tāla)+[garlanded](māle) [Rudra](rudra)+[form](rūpe) [cook](paca) [pair](dvayam)
 
 ## mukta-m0-p362-v9028
-[night](rajanī) (rajanī) [twilight](sandhye) (sandhye) [drum](dundubhi)+[sound](nāde) (nāde) [mental](mānasa) (mānasa) [thus](iti)+[also](api) (ityapi)
+[night](rajanī) [twilight](sandhye) [drum](dundubhi)+[sound](nāde) [mental](mānasa) [thus](iti) [also](api)
 
 ## mukta-m0-p362-v9029
-[lord](īśvarī)+[of-universe](viśva) (viśveśvarī) [Dravidian](drāviḍī)+[thus](iti) (drāviḍīti) [should-say](vadet) (vadet) [Dravidian](draviḍika)+[lady](īśi) (īśi) [and](ca) (ca)
+[universe](viśva)+[sovereign](īśvarī) [Dravidian](drāviḍi) [thus](iti) [should-say](vadet) [Dravidian](draviḍika)+[lady](īśi) [and](ca)
 
 ## mukta-m0-p362-v9030
-[crushing](vimarddini) (vimarddini) [word](padaṃ) (padaṃ) [afterwards](paścāt)+[should-say](vadet) (vadetsādhaka)+[practitioner](sādhaka)+[best](sattamaḥ) (sattamaḥ)
+[crushing](vimarddini) [word](padaṃ) [afterwards](paścāt) [should-say](vadet) [practitioner](sādhaka)+[best](sattamaḥ)
 
 ## mukta-m0-p362-v9031
-[Mātaṅgī](mātaṅgī) (mātaṅgī) [praṇava](praṇavaṃ) (praṇavaṃ) [hrāṃ](hrāṃ) (hrāṃ) [hrīṃ](hrīṃ) (hrīṃ) [hrūṃ](hrūṃ) (hrūṃ) [kṣauṃ](kṣauṃ) (kṣauṃ) [kuru](kuru)+[pair](yugaṃ) (yugaṃ) [then](tathā) (tathā)
+[Mātaṅgī](mātaṅgī) [praṇava](praṇavaṃ) [hrāṃ](hrāṃ) [hrīṃ](hrīṃ) [hrūṃ](hrūṃ) [kṣauṃ](kṣauṃ) [kuru](kuru)+[pair](yugaṃ) [then](tathā)
 
 ## mukta-m0-p362-v9032
-[all](sarvān)+[slay](hana)+[pair](yugaṃ) (yugaṃ) [and](ca)+[having-said](uktvā) (coktvā) [subdue](dama)+[pair](yugmaṃ) (yugmaṃ) [cook](paca)+[pair](dvayam) (dvayam)
+[all](sarvān) [slay](hana)+[pair](yugaṃ) [and](ca) [having-said](uktvā) [subdue](damaya)+[pair](yugmaṃ) [cook](paca)+[pair](dvayam)
 
 ## mukta-m0-p362-v9033
-[twice](dviḥ)+[dry](śoṣaya)+[uproot](utsādaya) (utsādaya) [twice](dvir)+[brahmā](brahmā)+[six](ṣaḍ)+[thus](iti) (iti) [and](ca) (ca) [should-utter](saṃvadet) (saṃvadet)
+[twice](dviḥ)+[dry-up](śoṣaya) [uproot](utsādaya) [twice](dvir)+[Brahmā](brahmā)+[ā](ā)+[ṣaṭ](ṣaṭ) [thus](iti) [and](ca) [should-say](saṃvadet)
 
 ## mukta-m0-p362-v9034
-[of-fire](āgneyī)+[thus](iti) (iti) [and](ca) (ca) [Cāmuṇḍe](cāmuṇḍe) (cāmuṇḍe) [of-water](vāruṇī) (vāruṇī) [of-wind](vāyavī) (vāyavī) [then](tathā) (tathā)
+[of-fire](āgneyī) [thus](iti) [and](ca) [Cāmuṇḍe](cāmuṇḍe) [of-water](vāruṇī) [of-wind](vāyavī) [likewise](tathā)
 
 ## mukta-m0-p362-v9035
-[victorious](jaye) (jaye) [and](ca) (ca) [conquering](vijaye) (vijaye) [peace](śānti) (śānti) [well-being](svasti)+[prosperity](puṣṭi) (puṣṭi) [firmness](dhṛti)+[thus](iti) (iti) [and](ca) (ca)
+[victorious](jaye) [and](ca) [conquering](vijaye) [peace](śānti) [welfare](svasti)+[nourishment](puṣṭi) [steadfastness](dhṛti) [thus](iti) [and](ca)
 
 ## mukta-m0-p362-v9036
-[all](sarva)+[desire](kāma) (kāma) [fruit](phala)+[thus](iti)+[having-said](uktvā) (ityuktvā) [give](prade) (prade) [all](sarva)+[word](padaṃ) (padaṃ) [should-say](vadet) (vadet)
+[all](sarva)+[desire](kāma) [fruit](phala) [thus](iti) [having-said](uktvā) [bestower](prade) [all](sarva)+[word](padaṃ) [should-say](vadet)
 
 ## mukta-m0-p362-v9037
-[as-before](prākvat)+[oblation](homa)+[fruit](phalaṃ) (phalaṃ) [and](ca)+[of-this](asya) (cāsya) [practitioner](sādhakaḥ) (sādhakaḥ) [of-sattva-nature](sāttviko) (sāttviko) [should-become](bhavet) (bhavet)
+[as-before](prāk)+[like](vat) [oblation](homa)+[fruit](phalaṃ) [and](ca) [of-this](asya) [practitioner](sādhakaḥ) [sāttvika](sāttvikaḥ) [should-become](bhavet)
 
 ## mukta-m0-p362-v9038
-[by-sight](darśanāt)+[alone](eva) (eva) [are-destroyed](naśyanti) (naśyanti) [ghosts](bhūta)+[etcetera](ādyā) (ādyā) [Bhairavas](bhairavā) (bhairavā) [even](api) (api)
+[by-sight](darśanāt) [indeed](eva) [perish](naśyanti) [ghost](bhūta)+[and-others](ādyāḥ) [Bhairavas](bhairavāḥ) [also](api)
 
 ## mukta-m0-p362-v9039
-[tārā](tārā)+[attracting](ākarṣiṇi)+[word](padaṃ) (padaṃ) [possessing](āveśini) (āveśini) [word](padaṃ) (padaṃ) [should-say](vadet) (vadet)
+[tāra](tāra)+[m](m)+[attracting](ākarṣiṇi)+[word](padaṃ) [possessing](āveśini) [word](padaṃ) [should-say](vadet)
 
 ## mukta-m0-p362-v9040
-[holding](dhāriṇī) (dhāriṇī) [burning](tapanī)+[thus](iti)+[having-said](uktvā) (ityuktvā) [scorching](tāpini) (tāpini) [intoxication](mada)+[maddening](unmādini) (unmādini)
+[sustaining](dhāriṇī) [burning](tapanī) [thus](iti) [having-said](uktvā) [scorching](tāpinī) [intoxication](mada)+[maddening](unmādini)
 
 ## mukta-m0-p362-v9041
-[then](tathā) (tathā) [blue](nīla)+[banner](patāka)+[thus](iti) (iti) [great](mahā)+[blue](nīle) (nīle) [great](mahā)+[beloved](priye) (priye)
+[likewise](tathā) [blue](nīla)+[bannered](patāke) [thus](iti) [great](mahā)+[blue](nīle) [great](mahā)+[beloved](priye)
 
 ## mukta-m0-p362-v9042
-[thunderbolt-wielding](vajriṇī)+[thus](iti) (iti) [then](tathā)+[Āditya](āditya)+[etcetera](ādye) (ādye) [and](ca) (ca) [Jāhnavī](jāhnavi) (jāhnavi) [should-utter](saṃvadet) (saṃvadet)
+[thunderbolt-bearing](vajriṇī) [thus](iti) [likewise](tathā) [Āditya](āditya)+[and-others](ādye) [and](ca) [Jāhnavī](jāhnavi) [should-say](saṃvadet)
 
 ## mukta-m0-p362-v9043
-[Surabhi](surabhi) (surabhi) [good](su)+[arisen](utpanne) (utpanne) [and](ca) (ca) [Sarasvatī](sarasvati) (sarasvati) [word](padaṃ) (padaṃ) [then](tataḥ) (tataḥ)
+[fragrant](surabhi) [god](sura)+[born](utpanne) [and](ca) [Sarasvatī](sarasvati) [word](padaṃ) [then](tataḥ)
 
 ## mukta-m0-p362-v9044
-[purpose](kāryyaṃ) (kāryyaṃ) [that](tat)+[my](mama) (mama) [let-succeed](siddhyatu)+[thus](iti) (siddhyatviti) [svāhā](svāhā)+[end](anta)+[this](ayaṃ) (antoyaṃ) [mantra](manur)+[considered](mataḥ) (mataḥ)
+[purpose](kāryyaṃ) [that](tat) [my](mama) [let-it-be-accomplished](siddhyatu) [thus](iti) [svāhā](svāhā)+[ending](antaḥ) [this](ayaṃ) [mantra](manuḥ) [considered](mataḥ)
 
 ## mukta-m0-p362-v9045
-[should-recite](japet)+[syllable](varṇa)+[hundred](śataṃ) (śataṃ) [oblation](homa)+[etcetera](ādikaṃ) (ādikaṃ) [as-before](pūrvavat)+[should-perform](ācaret) (ācaret)
+[should-recite](japet) [syllable](varṇa)+[hundred](śataṃ) [oblation](homa)+[and-other](ādikaṃ) [as-before](pūrva)+[like](vat) [should-perform](ācaret)
 
 ## mukta-m0-p362-v9046
-[tārā](tārā)+[beginning-with](ādyā) (ādyā) [fire](vahni)+[consort](jāyā)+[ending-with](antā) (antā) [separately](pṛthak) (pṛthak) [and](ca) (ca) [six](ṣaḍ)+[pair](yugaṃ) (yugaṃ) [should-say](vadet) (vadet)
+[tāra](tāra)+[beginning-with](ādyā) [fire](vahni)+[consort](jāyā)+[ending-with](antā) [separately](pṛthak) [and](ca) [six](ṣaḍ)+[pair](yugaṃ) [should-say](vadet)
 
 ## mukta-m0-p362-v9047
-[from-where](yataḥ) (yata) [indeed](eva)+[come](āgataṃ) (evāgataṃ) [sin](pāpaṃ) (pāpaṃ) [there](tatra)+[indeed](eva) (tatraiva) [back](prati)+[let-go](gacchatu) (gacchatu)
+[whence](yataḥ) [indeed](eva) [come](āgataṃ) [sin](pāpaṃ) [there](tatra) [indeed](eva) [let-it-go-back](pratigacchatu)
 
 ## mukta-m0-p362-v9048
-[svāhā](svāhā)+[ending](antaḥ) (antaḥ) [six](ṣaḍ)+[arrow](bāṇa)+[syllable](varṇo) (varṇo) [hundred-thousand](lakṣam)+[one](ekaṃ) (ekaṃ) [recitation](japaḥ) (japaḥ) [remembered](smṛtaḥ) (smṛtaḥ)
+[svāhā](svāhā)+[ending](antaḥ) [six](ṣaḍ)+[arrow](bāṇa)+[syllable](varṇaḥ) [hundred-thousand](lakṣam) [one](ekaṃ) [recitation](japaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p362-v9049
-[oblation](homa)+[worship](pūjā)+[etcetera](ādikaṃ) (ādikaṃ) [as-before](prākvat)+[by-which](yena) (yena) [is-accomplished](siddhyati) (siddhyati) [deity](devatā) (devatā)
+[oblation](homa)+[worship](pūjā)+[and-other](ādikaṃ) [as-before](prāk)+[like](vat) [by-which](yena) [is-accomplished](siddhyati) [deity](devatā)
 
 ## mukta-m0-p362-v9050
-[Vasudeva](vasudeva)+[thousands](sahasrāṇi) (sahasrāṇi) [and](ca)+[gifts](avadānāni) (cāvadānāni) [there](tatra) (tatra) [indeed](tu) (tu)
+[Vasudeva](vasudeva)+[thousands](sahasrāṇi) [and](ca) [glorious-deeds](avadānāni) [there](tatra) [indeed](tu)

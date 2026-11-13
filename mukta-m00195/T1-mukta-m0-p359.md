@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p359-v8951
-[one-should-satisfy](tarppayet) [with-fragrant+water](gandha+salilaiḥ) [oneself](ātmānam) [one-should-sprinkle](abhiṣecayet)
+[one-should-satisfy](tarppayed) [with-fragrant+waters](gandhasalilair) [oneself](ātmānam) [one-should-sprinkle](abhiṣecayet)
 
 ## mukta-m0-p359-v8952
-[with-coconut+fruit+endowed](nārikela+phala+upetaiḥ) [with-jaggery](guḍaiḥ) [fortune](lakṣmīm) [one-obtains](avāpnuyāt)
+[with-coconut+fruit+endowed](nārikelaphalopetair) [with-jaggery-offerings](guḍair) [prosperity](lakṣmīm) [one-may-obtain](avāpnuyāt)
 
 ## mukta-m0-p359-v8953
-[with-three+sweets+smeared](tri+madhu+aktaiḥ) [with-campaka-flowers](campakaiḥ) [and](ca) [with-blossoms](prasūnaiḥ) [bakula+born](bakula+udbhavaiḥ)
+[with-three-sweets+smeared](trimadhvaktaiś) [with-campaka-flowers](campakaiś) [and](ca) [with-blossoms](prasūnair) [bakula+born](bakulodbhavaiḥ)
 
 ## mukta-m0-p359-v8954
-[with-punnāga+born](punnāga+jaiḥ) [offered](hutaiḥ) [garments](vastrāṇi) [with-ghee](ājyaiḥ) [desired](iṣṭam) [one-obtains](avāpnuyāt)
+[with-punnāga+born](punnāgajair) [when-offered](hutair) [garments](vastrāṇy) [with-clarified-butter](ājyair) [desired-object](iṣṭam) [one-may-obtain](avāpnuyāt)
 
 ## mukta-m0-p359-v8955
-[obtains](avāpnoti) [offered](hutaiḥ) [with-ghee](ājyaiḥ) [with-sour-substances](amlaiḥ) [jewel+etc](ratna+ādi) [practitioner](sādhakaḥ)
+[obtains](avāpnoti) [when-offered](hutair) [with-clarified-butter](ājyair) [with-sour-substances](amlai) [jewels+and-so-forth](ratnādi) [the-practitioner](sādhakaḥ)
 
 ## mukta-m0-p359-v8956
-[in-heart+region](hṛd+deśe) [of-whom](nyasya) [target+name](sādhya+ākhyām) [one-should-cook](pacet) [in-oil+and-ghee](taila+ājyayoḥ) [at-night](niśi)
+[in-heart+region](hṛddeśe) [of-whom](nyasya) [with-target+name](sādhyākhyām) [one-should-cook](pacet) [in-oil+and-clarified-butter](tailājyayor) [at-night](niśi)
 
 ## mukta-m0-p359-v8957
-[like-servant](dāsa+vat) [and](ca) [comes](samāyāti) [dear-thing](priyam) [life+etc](prāṇa+ādi) [and](ca) [offers](arpayet)
+[like-a-servant](dāsavac) [and](ca) [comes](samāyāti) [affection](priyaṃ) [life-breath+and-so-forth](prāṇādi) [and](ca) [offers](ārpayet)
 
 ## mukta-m0-p359-v8958
-[in-three+seven+nights](tri+sapta+rātrān) [great](mahatīm) [obtains](avāpnoti) [prosperity](śriyam) [person](naraḥ)
+[in-three+seven+nights](trisaptarātrān) [great](mahatīm) [obtains](avāpnoti) [prosperity](śriyaṃ) [a-person](naraḥ)
 
 ## mukta-m0-p359-v8959
-[with-lotus+seeds](padma+akṣaiḥ) [one-should-offer](juhuyāt) [fortune](lakṣmīm) [obtains](avāpnoti) [in-three](tribhiḥ) [days](dinaiḥ)
+[with-lotus+seeds](padmākṣair) [one-should-offer](juhuyāl) [prosperity](lakṣmīm) [obtains](avāpnoti) [in-three+days](tribhirdinaiḥ)
 
 ## mukta-m0-p359-v8960
-[prosperity+making](śrī+karā) [śiva+form+named](śiva+rūpa+āhvā) [declared](proktā) [all+prosperity+giving](sarva+samṛddhi+dā)
+[prosperity+making](śrīkarā) [Śiva+form+named](śivarūpāhvā) [declared](proktā) [all+prosperity+giving](sarvasamṛddhidā)
 
 ## mukta-m0-p359-v8961
-[huṃ](huṃ) [kheṃ](kheṃ) [kṣaḥ](kṣaḥ) [phaṭ](phaṭ) [and](ca) [thus](iti) [mantra](mantraḥ) [sage+etc](ṛṣi+ādi) [like-tvaritā](tvaritā+samam)
+[huṃ](huṃ) [kheṃ](kheṃ) [kṣaḥ](kṣaḥ) [phaṭ](phaṭ) [and-thus](ceti) [mantra](mantra) [sage+and-so-forth](ṛṣyādi) [like-Tvaritā](tvaritāsamam)
 
 ## mukta-m0-p359-v8962
-[from-foot+beginning](pāda+ādi) [up-to-navel](nābhi+paryyantam) [red](aruṇāṃ) [from-navel](nābhitaḥ) [to-throat](galam)
+[from-foot+and-so-forth](pādādinābhi) [up-to-navel](paryyantam) [red](aruṇāṃ) [from-navel](nābhito) [to-throat](galam)
 
 ## mukta-m0-p359-v8963
-[in-hands](hasteṣu) [conch+and-disc](śaṅkha+cakre) [and](ca) [lamps](dīpau) [moon+crescent+crested](candra+ardha+śekharām)
+[in-hands](hasteṣu) [conch+and-disc](śaṅkhacakre) [and](ca) [lamps](dīpau) [moon+crescent+crested](candrārdhaśekharām)
 
 ## mukta-m0-p359-v8964
-[syllable+hundred-thousand](varṇa+lakṣam) [one-should-repeat](japet) [at-end](ante) [with-tenth+part](daśa+aṃśena) [with-ghee-offerings](ghṛtaiḥ) [one-should-offer](hunet)
+[syllable+hundred-thousand](varṇalakṣaṃ) [one-should-recite](japed) [at-end](ante) [with-tenth+part](daśāṃśena) [with-clarified-butter](ghṛtair) [one-should-offer](hunet)
 
 ## mukta-m0-p359-v8965
-[trident+gesture](śūla+mudrām) [planet+seized](graha+grastān) [having-seen](dṛṣṭvā) [this](imam) [one-should-repeat](prajapet) [mantra](manum)
+[śūla+gesture](śūlamudrāṃ) [planet+seized-persons](grahagrastān) [having-seen](dṛṣṭv) [this](emam) [one-should-recite](prajapen) [mantra](manum)
 
 ## mukta-m0-p359-v8966
-[not](na) [than-this](ataḥ) [higher](para+tarā) [knowledge](vidyā) [planet+appeasing](graha+nirvāpaṇa) [capable](kṣamā)
+[not](nātaḥ) [higher+than-this](paratarā) [knowledge](vidyā) [planet+appeasing+capable](grahanirvāpaṇakṣamā)
 
 ## mukta-m0-p359-v8967
-[kheṃ](kheṃ) [strīṃ](strīṃ) [kṣeṃ](kṣeṃ) [three+syllable](tri+arṇa) [mantra](mantraḥ) [this](ayam) [entire](nikhilam) [indeed](tu) [like-tvaritā](tvaritā+samam)
+[kheṃ](kheṃ) [strīṃ](strīṃ) [kṣeṃ](kṣeṃ) [three+syllable](tryarṇamantro) [this](yam) [entire](nikhilaṃ) [indeed](tu) [like-Tvaritā](āratāsamam)
 
 ## mukta-m0-p359-v8968
-[kauṃ](kauṃ) [to-kaumārī](kaumāryyai) [salutation](namaḥ) [thus](iti) [six+syllable](ṣaṭ+arṇaḥ) [mantra](mantraḥ) [declared](īritaḥ)
+[kauṃ](kauṃ) [to-Kaumārī](kaumāryyai) [obeisance](nama) [thus](iti) [six+syllable](ṣaḍarṇo) [mantra](mantra) [is-declared](īritaḥ)
 
 ## mukta-m0-p359-v8969
-[deity](devatā) [kaum](kaum) [this](idam) [seed](bījam) [to-kaumārī](kaumāryye) [power](śaktiḥ) [is-said](ucyate)
+[deity](devatā) [Kaumārī](kaum) [this](idaṃ) [seed-syllable](bījaṃ) [to-Kaumārī](kaumāryye) [power](śaktir) [is-called](ucyate)
 
 ## mukta-m0-p359-v8970
-[spear+rosary+boon+fearlessness+handed](śakti+akṣa+sraj+vara+abhīti+karām) [bandhūka+like](bandhūka+sannibhām)
+[śakti+rosary+boon+fearlessness+handed](śaktyakṣasragvarābhītikarāṃ) [bandhūka-flower+resembling](bandhūkasannibhām)
 
 ## mukta-m0-p359-v8971
-[green+bodiced](harit+kañcukikām) [lovely](ramyām) [various+ornament+adorned](nānā+alaṅkāra+bhūṣitām)
+[green+bodice-wearing](haritkañcukikāṃ) [lovely](ramyāṃ) [various+ornament+adorned](nānālaṅkārabhūṣitām)
 
 ## mukta-m0-p359-v8972
-[ahalyā](ahalyām) [draupadī](draupadīm) [sītā](sītām) [tārā](tārām) [mandodarī](mandodarīm) [also](api)
+[Ahalyā](ahalyān) [Draupadī](draupadīṃ) [Sītā](sītān) [Tārā](tārā) [Mandodarī](mandodarīm) [also](api)
 
 ## mukta-m0-p359-v8973
-[primary](mukhyā) [worship](pūjā) [should-be](bhavet) [of-her](asyāḥ) [of-maidens](kumāryyāḥ) [only](eva) [not](na) [otherwise](anyataḥ)
+[principal](mukhyā) [worship](pūjā) [should-be](bhaved) [of-her](asyāḥ) [of-maidens](kumāryyā) [indeed](eva) [not+otherwise](nānyataḥ)
 
 ## mukta-m0-p359-v8974
-[hundred-thousand+six](lakṣa+ṣaṭkam) [recitation](japaḥ) [declared](proktaḥ) [with-five+sweets](pañca+khādyaiḥ) [likewise](tathā) [one-should-offer](hunet)
+[hundred-thousand+six](lakṣaṣaṭkañ) [recitation](japaḥ) [is-declared](proktaḥ) [with-five+sweets](pañcakhādyais) [likewise](tathā) [one-should-offer](hunet)
 
 ## mukta-m0-p359-v8975
-[satiation](tarpaṇam) [purification](mārjanam) [having-done](kṛtvā) [maidens](kumārīḥ) [also](api) [one-should-feed](bhojayet)
+[libation](tarpaṇam) [sprinkling](mārjanaṃ) [having-done](kṛtvā) [maidens](kumārīr) [also](api) [one-should-feed](bhojayet)
