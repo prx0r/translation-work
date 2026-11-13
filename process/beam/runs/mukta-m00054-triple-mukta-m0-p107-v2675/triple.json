@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2675,
+   "rows": [
+    {
+     "surface": "dīrgghanetrā",
+     "gloss": "long-eyed",
+     "grounds": "Bahuvrīhi compound describing the goddess as having long eyes.",
+     "morph": "compound (dīrgha+netra), f.nom.sg"
+    },
+    {
+     "surface": "dīrgghacakṣurddīrgghabāhulatātmikā",
+     "gloss": "long-eyed-long-arm-vine-natured",
+     "grounds": "Fused compound with internal sandhi (cakṣus+dīrgha > cakṣurddīrgha), describing the goddess as long-eyed and having the nature of long vine-like arms.",
+     "morph": "compound (dīrgha+cakṣus+dīrgha+bāhu+latā+ātmaka), f.nom.sg"
+    }
+   ],
+   "question": "Which distinctive eye and arm features characterize the goddess's embodied form?",
+   "premises": [
+    "The goddess is described as having long eyes.",
+    "The goddess is again characterized as long-eyed in a fused compound.",
+    "Her embodied nature includes long vine-like arms."
+   ],
+   "inference": "The goddess's form is marked by elongated eyes and long, vine-like arms.",
+   "uncertainties": [
+    "The repetition of the long-eyed attribute across both tokens may be emphatic or stylistic."
+   ],
+   "plain_english": "She is long-eyed, possessing long eyes and the nature of long, vine-like arms."
+  }
+ ]
+}

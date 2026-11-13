@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p82-v2026
-[twice+first+om+leads](dvirādyoṃnayate) [then](tataḥ)
+twice(dviḥ) + first(ādyaḥ) + is-bent-down(unnayate) then(tataḥ)
 
 ## mukta-m0-p82-v2027
-[thus](ity) [then](atha) [here](atra) [ṛc-verses](ṛcaḥ) [I-will-speak](vakṣye) [lest](mā) [branch](śākhā) [inversion](viparyayaḥ)
+thus(iti) + now(atha) + here(atra) verses(ṛcaḥ) I-shall-tell(vakṣye) not(mā) + be(bhūt) recension(śākhā) + confusion(viparyayaḥ)
 
 ## mukta-m0-p82-v2028
-[southward](dakṣiṇā) [hide](vāḍ) [skin](rājini) [eastward](prāc) [oblation](haviḥ) [bearing](bharanti) [to-Agni](agnaye) [ghee-rich](ghṛtācī)
+south(dakṣiṇā) + bearing(vāṭ) + shining(rājini) + forward(prācā) + oblation(utiḥ) + bearing(havirbharaṇtī) to-Agni(agnaye) ghee-laden(ghṛtācī)
 
 ## mukta-m0-p82-v2029
-[for-man](puruṣāya) [not](na) [mine](mama) [thus](iti) [abandon](santyajet)
+to-the-Puruṣa(puruṣāya) not(na) mine(mama) thus(iti) one-should-abandon(santyajet)
 
 ## mukta-m0-p82-v2030
-[that](tad) [now](idānīm) [is-declared](nigadyate)
+that(tat) + now(idānīm) is-being-declared(nigadyate)
 
 ## mukta-m0-p82-v2031
-[everywhere](viśvataḥ) [covering](vṛtvā) [stood](atiṣṭhat) [ten-fingers](daśāṃgulam)
+on-all-sides(viśvataḥ) having-enveloped(vṛtvā) stood-beyond(atyatiṣṭhat) ten(daśa) + fingers(aṅgulam)
 
 ## mukta-m0-p82-v2032
-[and](ut) [of-immortality](amṛtatvasya) [lord](īśānaḥ) [who](yad) [by-food](annena) [surpasses](atirohati)
+and(uta) of-immortality(amṛtatvasya) lord(īśānaḥ) which(yat) by-food(annena) grows-beyond(atirohati)
 
 ## mukta-m0-p82-v2033
-[beings](bhūtāni) [three-fourths](tripādasya) [immortal](amṛtam) [in-heaven](divi)
+beings(bhūtāni) of-three-quarters(tripādasya) immortal(amṛtam) in-heaven(divi)
 
 ## mukta-m0-p82-v2034
-[everywhere](viṣvaṅ) [strode](vyakrāmat) [eater](aśanā) [non-eater](anaśane) [toward](abhi)
+in-all-directions(viṣvaṅ) strode-forth(vyakrāmat) with-eaters(sāśana) + and-non-eaters(anaśane) over(abhi)
 
 ## mukta-m0-p82-v2035
-[behind](paścāt) [smoke](dhūmim) [then](atha) [before](puraḥ)
+behind(paścāt) earth(bhūmim) and-then(atha) in-front(puraḥ)
 
 ## mukta-m0-p82-v2036
-[summer](grīṣmaḥ) [fuel](idhmaḥ) [autumn](śarad) [oblation](haviḥ)
+summer(grīṣmaḥ) fuel(idhmaḥ) autumn(śarat) oblation(haviḥ)
 
 ## mukta-m0-p82-v2037
-[if](yad) [sacrifice](yajñam) [performing](tanvānāḥ) [bound](abadhnan) [man](puruṣam) [animal](paśum)
+when(yat) sacrifice(yajñam) spreading(tanvānāḥ) bound(abadhnan) Puruṣa(puruṣam) victim(paśum)
 
 ## mukta-m0-p82-v2038
-[sacrificed](ayajanta) [sādhyas](sādhyāḥ) [seers](ṛṣayaḥ) [and](ca) [who](ye)
+worshipped(ayajanta) Sādhyas(sādhyāḥ) seers(ṛṣayaḥ) + and(ca) who(ye)
 
 ## mukta-m0-p82-v2039
-[animals](paśūn) [those](tān) [made](cakre) [wind-born](vāyavyān) [wild](āraṇyān) [domestic](grāmyān) [and](ca) [who](ye)
+animals(paśūn) + those(tān) + and(ca) made(cakre) of-air(vāyavyān) forest-born(āraṇyān) + village-born(grāmyān) + and(ca) who(ye)
 
 ## mukta-m0-p82-v2040
-[therefore](tasmāt) [yajus](yajuḥ) [therefore](tasmāt) [was-born](ajāyata)
+from-that(tasmāt) sacrificial-formula(yajuḥ) from-that(tasmāt) was-born(ajāyata)
 
 ## mukta-m0-p82-v2041
-[therefore](tasmāt) [therefore](tasmāt) [born](jātāḥ) [goats](ajāḥ) [sheep](avayaḥ)
+from-that(tasmāt) + from-that(tasmāt) were-born(jātāḥ) goats(ajāḥ) + and-sheep(avayaḥ)
 
 ## mukta-m0-p82-v2042
-[whose](kau) [arms](bāhū) [whose](kā) [thighs](ūrū) [feet](pādāḥ) [are-called](ucyete)
+what(kau) arms(bāhū) what(kā) thighs(ūrū) feet(pādā) are-called(ucyete)
 
 ## mukta-m0-p82-v2043
-[when](yad) [vaiśya](vaiśyaḥ) [from-feet](padbhyām) [śūdra](śūdraḥ) [was-born](ajāyata)
+when(yat) Vaiśya(vaiśyaḥ) from-feet(padbhyām) Śūdra(śūdraḥ) was-born(ajāyata)
 
 ## mukta-m0-p82-v2044
-[from-mouth](mukhāt) [Indra](indraḥ) [and](ca) [Agni](agniḥ) [ca](ca) [from-breath](prāṇāt) [Vāyu](vāyuḥ) [was-born](ajāyata)
+from-mouth(mukhāt) Indra(indraḥ) + and(ca) Agni(agniḥ) + and(ca) from-breath(prāṇāt) Vāyu(vāyuḥ) was-born(ajāyata)
 
 ## mukta-m0-p82-v2045
-[earth](bhūmiḥ) [directions](diśaḥ) [from-ear](śrotrāt) [thus](tathā) [worlds](lokān) [they-fashioned](akalpayan)
+earth(bhūmiḥ) directions(diśaḥ) from-ear(śrotrāt) thus(tathā) worlds(lokān) they-arranged(akalpayan)
 
 ## mukta-m0-p82-v2046
-[from-Maruts](marudbhyaḥ) [then](tu) [twelve](dvādaśa) [eleven](ekādaśe) [should-be](bhavet)
+to-the-Maruts(marudbhyaḥ) + but(tu) twelve(dvādaśa) in-eleventh(ekādaśe) should-be(bhavet)
 
 ## mukta-m0-p82-v2047
-[to-Havyavāha-Agni](havyavāhāgnaye) [and](ca) [tithi](tithi) [numbered](saṅkhyake)
+to-oblation-bearing(havyavāha) + Agni(agnaye) and(ca) in-tithi-number(tithi-saṅkhyake)
 
 ## mukta-m0-p82-v2048
-[to-Vaiśvānara-Agni](vaiśvānarāyāgnaye) [and](ca) [thus](tathā) [eighteen](aṣṭādaśe) [also](api) [ca](ca)
+to-Vaiśvānara(vaiśvānarāya) + Agni(agnaye) and(ca) likewise(tathaiva) + in-eighteenth(aṣṭādaśe) + also(api) and(ca)
 
 ## mukta-m0-p82-v2049
-[and](ca) [iti](iti) [ṛc-verses](ṛcaḥ) [those](tāḥ) [hear](śṛṇu) [now](sāmpratam)
+thus(iti) verses(ṛcaḥ) + those(tāḥ) hear(śṛṇu) now(sāmpratam)
 
 ## mukta-m0-p82-v2050
-[release](muñcatu) [thou](aṃ) [sin](aṃhasaḥ)
+release(muñca) + you(tvam) from-sin(aṁhasaḥ)

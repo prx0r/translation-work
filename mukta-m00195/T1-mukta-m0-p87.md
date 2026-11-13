@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p87-v2151
-[protect](pāhi) [sin](enaso) [whatever](yat) [untruth](anṛtam) [foolish](ūdima)
+[protect](pāhi) [from-sin](enaso) [whatever](yatkiñca) [untruth](anṛtam) [we-have-done](ūdima)
 
 ## mukta-m0-p87-v2152
-[fourth](caturthī) [now](adhunā) [that](sā) [ṛg](ṛg) [is-said](ucyate)
+[fourth](caturthī) [which](yā) [now](adhunā) [that](sā) [verse](ṛk) [is-called](ucyate)
 
 ## mukta-m0-p87-v2153
-[release](muñcantu) [sin](enaso) [whatever](yat) [untruth](anṛtam) [foolish](ūdima)
+[may-release](muñcantu) [from-sin](enaso) [whatever](yatkiñca) [untruth](anṛtam) [we-have-done](ūdima)
 
 ## mukta-m0-p87-v2154
-[before](pūrvam) [spoken](udīritā)
+[previously](pūrvam) [declared](udīritā)
 
 ## mukta-m0-p87-v2155
-[renunciation](tyāgaḥ) [thus](tathā) [eighth](aṣṭamyā) [then](atha) [is-said](ucyate)
+[offering](tyāgaḥ) [likewise](tathā) [by-eighth](aṣṭamyā) [then](atha) [that](sā) [is-stated](ucyate)
 
 ## mukta-m0-p87-v2156
 [not](na) [eye](ākṣi)
 
 ## mukta-m0-p87-v2157
-[that](etat) [that](tat) [fire](agne) [debt-free](anṛṇo) [become](bhavāmi) [living](jīvan) [eva](eva) [toward](prati) [that](tat) [te](te) [I-place](dadhāmi)
+[thus](etat) [then](tat) [O-Agni](agne) [free-from-debt](anṛṇo) [I-become](bhavāmi) [while-living](jīvan) [indeed](eva) [back](prati) [that](tat) [to-you](te) [I-place](dadhāmi)
 
 ## mukta-m0-p87-v2158
-[mother](mātaram) [before](prāk) [spoken](proktā) [tenth](daśamā) [offering](āhutiḥ)
+[to-mother](mātaraṃ) [previously](prāk) [declared](proktā) [tenth](daśamā) [oblation](āhutiḥ)
 
 ## mukta-m0-p87-v2159
-[when](yadā) [desires](āśasā) [niśasā](niśasā) [before](prāk) [spoken](proktā) [here](atra) [twelfth](dvādaśa) [offering](āhutiḥ)
+[when](yad) [by-desire](āśasā) [by-imprecation](niśasā) [previously](prāk) [declared](proktā) [here](atra) [twelfth](dvādaśā) [oblation](āhutiḥ)
 
 ## mukta-m0-p87-v2160
-[before-spoken](pūrvoktā) [sixteenth](ṣoḍaśī) [becomes](bhavet)
+[previously](pūrva) [mentioned](uktā) [sixteenth](ṣoḍaśī) [should-be](bhavet)
 
 ## mukta-m0-p87-v2161
-[varuṇa-etc](varuṇetyādi) [five-verses](pañcarcaḥ) [before](pūrvam) [spoken](īritāḥ)
+[beginning-with-varuṇa](varuṇa+iti+ādi) [five](pañca) [verses](ṛcaḥ) [previously](pūrvam) [declared](īritāḥ)
 
 ## mukta-m0-p87-v2162
-[twenty-second](dvāviṃśe) [renunciation](tyāgaḥ) [that](sā) [ṛg](ṛg) [then](atha) [is-said](ucyate)
+[in-twenty-second](dvāviṃśe) [offering](tyāgaḥ) [that](sā) [verse](ṛk) [then](atha) [is-stated](ucyate)
 
 ## mukta-m0-p87-v2163
-[by-that](tena) [debt-debtless](ṛṇānṛṇavaḥ) [equal](samāno) [yama's](yamasya) [world](loke) [adhirajju](adhirajjurāya)
+[by-that](tena) [debt](ṛṇān) [free-from-debt](ṛṇavā) [indeed](it) [being-equal](samānaḥ) [of-Yama](yamasya) [in-world](loke) [on-sovereign](adhirajju) [king](rāya)
 
 ## mukta-m0-p87-v2164
-[of-two](dvayoḥ) [here](iha) [renunciation](tyāgaḥ) [to-varuṇa](varuṇāya) [not](na) [indeed](vai) [mine](mama)
+[of-two](dvayoḥ) [here](iha) [offering](tyāgaḥ) [to-Varuṇa](varuṇāya) [not](na) [indeed](vai) [mine](mama)
 
 ## mukta-m0-p87-v2165
-[not](na) [to-us](asmabhyam) [asura-wise](asurapraceto) [king](rājan) [these](etām) [siśiśrathaḥkṛtāni](siśiśrathaḥkṛtāni)
+[not](na) [to-us](asmabhyam) [O-wise-Asura](asura+pracetaḥ) [O-king](rājan) [these](etāṁ) [hang-upon](siśiśrathaḥ) [deeds-done](kṛtāni)
 
 ## mukta-m0-p87-v2166
-[then](atha) [we](avayam) [āditya-vow](ādityavrate) [your](tava) [guiltless](anāgaso) [to-aditi](aditaye) [may-be](syāma)
+[then](atha) [we](vayam) [O-Āditya](āditya) [in-vow](vrate) [of-you](tava) [sinless](anāgasaḥ) [to-Aditi](aditaye) [may-we-be](syāma)
 
 ## mukta-m0-p87-v2167
-[far-from-far](dūrāddūram) [avīvatam](avīvatam)
+[from-far](dūrāt) [far-away](dūram) [you-have-driven](avīvatam)
 
 ## mukta-m0-p87-v2168
-[renunciation](tyāgaḥ) [thirty-fifth](pañcatriṃśattame) [opinion](mataḥ)
+[offering](tyāgaḥ) [in-thirty-fifth](pañcatriṃśattame) [is-considered](mataḥ)
 
 ## mukta-m0-p87-v2169
-[to-him](tasmai) [we-propitiate](prasuvāmasi)
+[to-him](tasmai) [we-impel](prasuvāmasi)
 
 ## mukta-m0-p87-v2170
-[by-that](tena) [atyor](atyor) [from-us](asmatsamṛcchāte) [to-him](tasmai) [well-propitiate](suprasavāmasi)
+[by-that](tena) [beyond](ati) [from-us](asmat) [may-it-come-together](samṛcchāte) [to-him](tasmai) [we-impel-well](su+prasavāmasi)
 
 ## mukta-m0-p87-v2171
-[away](parā) [yakṣma](yakṣmagūṃ) [suvāmi](suvāmi) [to-you](te)
+[away](parā) [consumption](yakṣma) [I-impel](suvāmi) [of-you](te)
 
 ## mukta-m0-p87-v2172
-[life-giver](āyurdā) [to-fire](agnaye) [renunciation](tyāgaḥ) [thirty-sixth](ṣaṭtriṃśe) [then](atha) [next](tadagrime)
+[to-life-giving](āyuḥ+dāya) [to-Agni](agnaye) [offering](tyāgaḥ) [in-thirty-sixth](ṣaṭtriṃśe) [then](atha) [in-next](tat+agrime)
 
 ## mukta-m0-p87-v2173
-[to-fire](agnaye) [to-varuṇa](varuṇāya) [to-āditya](ādityai) [to-all](viśvebhyaḥ) [to-gods](devebhyaḥ) [and](ca)
+[to-Agni](agnaye) [to-Varuṇa](varuṇāya) [to-Aditi](ādityai) [to-all](viśvebhyaḥ) [to-gods](devebhyaḥ) [and](ca)
 
 ## mukta-m0-p87-v2174
-[jaradaṣṭi](jaradaṣṭi) [yathāsat](yathāsat)
+[reaching-old-age](jarat+aṣṭi) [as](yathā) [may-be](asat)
 
 ## mukta-m0-p87-v2175
-[of-two](dvayoḥ) [jātavedase](jātavedase) [to-fire](agnaye) [renunciation](tyāgaḥ) [is-said](ucyate)
+[of-two](dvayoḥ) [to-Jātavedas](jātavedase) [to-Agni](agnaye) [offering](tyāgaḥ) [is-stated](ucyate)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p86-v2126
-[day+robber](divāsaripaḥ) [protect](pātu) [at-night](naktam)
+[day](divā) [enemy](saripaḥ) [protect](pātu) [night](naktam)
 
 ## mukta-m0-p86-v2127
-[gods](devān) [from-curse](abhiśastera) [free](amuco) [vaiśvānara](vaiśvānara) [jātavedas](jātavedo) [greatness](mahitvā)
+[gods](devān) [from-curse](abhiśasteḥ) [releaser](amuco) [o-vaiśvānara](vaiśvānara) [o-jātavedas](jātavedo) [by-greatness](mahitvā)
 
 ## mukta-m0-p86-v2128
-[your+protections](tavotibhiḥ)
+[by-your](tava) [aids](ūtibhiḥ)
 
 ## mukta-m0-p86-v2129
 [to-sūrya](sūryāya)
 
 ## mukta-m0-p86-v2130
-[pot](kalaśam) [taking](ādāya) [south-west](nair-ṛtyā) [at-crossroads](catuṣpathe)
+[pot](kalaśam) [having-taken](ādāya) [to-nairṛtī](nair-ṛtyām) [then](tu) [at-crossroads](catuṣpathe)
 
 ## mukta-m0-p86-v2131
-[with](saha) [let-him-see](vīkṣeta) [shadow](chāyāṃ) [in-that](tasmin) [auspicious-inauspicious](śubhāśubhām)
+[together](saha) [should-observe](vīkṣeta) [shadow](chāyāṃ) [in-that](tasmin) [auspicious+inauspicious](śubha+aśubhām)
 
 ## mukta-m0-p86-v2132
-[herbs](oṣadhayaḥ) [let-them-be](santu) [iti](iti) [let-him-throw](kṣipet)
+[herbs](oṣadhayaḥ) [be](santu) [thus](iti) [should-throw](kṣipet)
 
 ## mukta-m0-p86-v2133
-[we](vayaṃ) [hate](dviṣmaḥ) [let-them-be](santu) [behind](pṛṣṭhataḥ) [pot](kalaśaṃ) [let-him-throw](kṣipet)
+[we](vayaṃ) [hate](dviṣmaḥ) [be](santu) [behind](pṛṣṭhataḥ) [pot](kalaśaṃ) [should-throw](kṣipet)
 
 ## mukta-m0-p86-v2134
-[having-touched](upaspṛśya) [own-house](svagṛhaṃ) [let-him-enter](praviśet) [then](tataḥ)
+[having-sipped-water](upaspṛśya) [own-house](sva+gṛhaṃ) [should-enter](praviśet) [then](tataḥ)
 
 ## mukta-m0-p86-v2135
-[let-him-see](paśyet) [water](toyam) [in-middle](adhye) [shadow](chāyām) [then](tadā) [become](bhavet)
+[should-see](paśyet) [in-water-middle](toya+madhye) [shadow](chāyām) [clear](acchā) [then](tadā) [should-be](bhavet)
 
 ## mukta-m0-p86-v2136
-[blessing-speech](āśīrvaco) [taking](gṛhyāt) [brāhmaṇas](brāhmaṇān) [let-him-feed](bhojayet) [then](tataḥ)
+[blessing+words](āśīr+vacaḥ) [should-receive](gṛhyāt) [brahmins](brāhmaṇān) [should-feed](bhojayet) [then](tataḥ)
 
 ## mukta-m0-p86-v2137
-[let-him-eat-together](samaśnīyāt) [haviṣya](haviṣyaṃ) [brahmacarya-holder](brahmacaryabhāk)
+[should-eat-together](samaśnīyāt) [sacrificial-food](haviṣyaṃ) [celibacy+observing](brahmacarya+bhāk)
 
 ## mukta-m0-p86-v2138
-[for-destruction](nāśārthaṃ) [with-kūṣmāṇḍīs](kūṣmāṇḍībhistu) [let-him-offer](homayet)
+[of-that](tasya) [for-destruction](nāśa+arthaṃ) [with-kūṣmāṇḍī-verses](kūṣmāṇḍībhiḥ) [then](tu) [should-offer](homayet)
 
 ## mukta-m0-p86-v2139
-[on-path](mārge) [by-poverty-etc](dāridryādibhir) [afflicted](ardditaḥ)
+[on-road](mārge) [by-poverty+etc.](dāridrya+ādibhiḥ) [afflicted](ardditaḥ)
 
 ## mukta-m0-p86-v2140
-[for-two-worlds-establishment](lokadvayapratiṣṭhārthaṃ) [he](saḥ) [api](api) [secretly](guptaṃ) [let-him-practice](samācaret)
+[both-worlds+establishment+for-sake](loka+dvaya+pratiṣṭhā+arthaṃ) [he-also](saḥ+api) [secretly](guptaṃ) [should-perform](samācaret)
 
 ## mukta-m0-p86-v2141
-[year](varṣaṃ) [vow](vratam) [this](etat) [let-him-practice](samācaret)
+[year](varṣaṃ) [vow](vratam) [this](etat) [should-perform](samācaret)
 
 ## mukta-m0-p86-v2142
-[gift](dānaṃ) [taking](gṛhītvā) [ten-thousand](ayutam) [one](ekakam)
+[gift](dānaṃ) [having-taken](gṛhītvā) [ten-thousand](ayutam) [one-each](eka+kam)
 
 ## mukta-m0-p86-v2143
-[hand-grasping](karagrahe) [gods-brāhmaṇas-authority](devaviprādhikāre) [at-end](cāpadante) [lakh](lakṣam) [let-him-practice](ācaret)
+[in-hand-taking](kara+grahe) [in-god+brahmin+matter](deva+vipra+adhikāre) [and](ca) [in-calamity-end](āpad+ante) [hundred-thousand](lakṣam) [should-perform](ācaret)
 
 ## mukta-m0-p86-v2144
-[ājyabhāga-after](ājyabhāgānantaraṃ) [ca](ca) [with-kūṣmāṇḍīs](kūṣmāṇḍībhistu) [let-him-offer](homayet)
+[ghee-portions+after](ājya+bhāga+anantaraṃ) [and](ca) [with-kūṣmāṇḍī-verses](kūṣmāṇḍībhiḥ) [then](tu) [should-offer](homayet)
 
 ## mukta-m0-p86-v2145
-[with-sparse](viralaiḥ) [joined](saṃyuktā) [for-feverish](jvariṇe) [beneficial](hitā)
+[with-few](viralaiḥ) [joined](saṃyuktā) [for-fevered](jvariṇe) [beneficial](hitā)
 
 ## mukta-m0-p86-v2146
-[ghee](ghṛtaṃ) [or](vāpi) [let-him-resort](samāśrayet)
+[ghee](ghṛtaṃ) [or](vā+api) [should-resort-to](samāśrayet)
 
 ## mukta-m0-p86-v2147
-[cow-ghee](goghṛtena) [indeed](eva) [that-absence](tadabhāve) [tu](tu) [buffalo](māhiṣam)
+[with-cow-ghee](go+ghṛtena) [indeed](eva) [in-absence-of-that](tat+abhāve) [then](tu) [of-buffalo](māhiṣam)
 
 ## mukta-m0-p86-v2148
-[everywhere](sarvatra) [application](yojanā) [ṛg-broken](ṛgbhinnā) [she](sā) [ca](ca) [is-called](kathyate)
+[everywhere](sarvatra) [application](yojanā) [ṛg-different](ṛk+bhinnā) [she](sā) [and](ca) [is-stated](kathyate)
 
 ## mukta-m0-p86-v2149
-[ādityas](ādityās) [therefore](tasmāt) [me](mām) [release](uñcatu) [ṛta](ṛtena) [me](mām) [uta](utaḥ)
+[o-ādityas](ādityāḥ) [therefore](tasmāt) [me](mā) [release](amuñcata) [of-ṛta](ṛtasya) [by-ṛta](ṛtena) [me](mām) [also](utaḥ)
 
 ## mukta-m0-p86-v2150
-[all-gods](viśvedevāḥ) [with-joy](sajoṣasaḥ)
+[o-all-gods](viśve+devāḥ) [with-one-accord](sa+joṣasaḥ)
