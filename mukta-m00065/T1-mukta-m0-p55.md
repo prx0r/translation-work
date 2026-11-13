@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[by-one](ekena) [high](uccā) [broad](pravistārā) [strip](paṭṭikā) [four-cornered](caturasrikā)
+[by-one](ekena) [high](uccā) [wide](pravistārā) [strip](paṭṭikā) [four-cornered](caturasrikā)
 
 ## mukta-m0-p55-v1352
-[of-wheel](cakrasya) [seat](āsanam) [thus](evam) [indeed](tu) [spokes](raśmayaḥ) [all-around](paritas) [then](tataḥ)
+[of-the-wheel](cakrasya) [seat](āsanam) [thus](evaṃ) [but](tu) [spokes](raśmayaḥ) [all-around](paritaḥ) [then](tataḥ)
 
 ## mukta-m0-p55-v1353
-[by-rotation](bhramāt) [lotus-bud+resembling](abjakalīprakhyā) [in-wheel+middle](cakramadhye) [situated](vyavasthitā)
+[from-rotation](bhramāt) [lotus+bud-like](abja+kalī[kh: karī]prakhyā) [in-wheel+middle](cakra+madhye) [situated](vyavasthitā)
 
 ## mukta-m0-p55-v1354
-[eight](aṣṭau) [numbers](saṃkhyāḥ) [should-be-made](prakartavyāḥ) [on-side](pārśve) [and](ca) [indeed](eva) [others](apare) [likewise](tathā)
+[eight](aṣṭau) [in-number](saṃkhyāḥ) [should-be-made](prakartavyāḥ) [on-the-side](pārśve) [and](ca) [indeed](eva) [others](apare) [likewise](tathā)
 
 ## mukta-m0-p55-v1355
-[of-sword+and-noose](kṛpāṇapāśayoḥ) [within](antaḥ) [Sudarśana](sudarśanaṃ) [of-Hari](hareḥ) [one-should-draw](likhet)
+[of-sword+and-noose](kṛpāṇa+pāśayoḥ) [within](antaḥ) [the-discus](sudarśanaṃ) [of-hari](hareḥ) [one-should-draw](likhet)
 
 ## mukta-m0-p55-v1356
-[east-facing](prākśiraskau) [mace+and-staff](gadādaṇḍau) [by-own-parts](svabhāgaiḥ) [portion+accomplishment](aṃśasādhanam)
+[east-facing](prāk+śiraskau) [mū, a, g: śirasthau] [mace+and-staff](gadā+daṇḍau) [by-own+parts](sva+bhāgaiḥ) [portion+determination](aṃśa+sādhanam)
 
 ## mukta-m0-p55-v1357
-[to-be-known](jñeyaṃ) [trident+beginning+with+disc+ending](śūlādicakrāntaṃ) [that+direction+reaching+strength+natured](taddikkāntibalātmakam)
+[should-be-known](jñeyaṃ) [trident+etc.+up-to-discus](śūla+ādi+cakra+antaṃ) [of-that+direction+extending+power+nature](tat+dik+kānta+bala+ātmakam)
 
 ## mukta-m0-p55-v1358
-[mentioned](uktāni) [weapons](astrāṇi) [arrow+named](bāṇākhyā) [bell+elephant+etc.](ghaṇṭebhādi) [as](yathā) [will-be-told](vakṣyate)
+[mentioned](uktāni) [weapons](astrāṇi) [arrow+named](bāṇa+ākhyā) [(dyā)] [bell+elephant+etc.](ghaṇṭā+ibha+ādi) [now](atha) [will-be-told](vakṣyate)
 
 ## mukta-m0-p55-v1359
-[by-half+part](bhāgārdhena) [petal](dalaṃ) [one-should-make](kuryāt) [round+and-pointed](vṛttāsraṃ) [on-round+strip](bṛttapaṭṭike)
+[by-half+a-part](bhāga+ardhena) [petal](dalaṃ) [one-should-make](kuryāt) [circular+polygonal](vṛtta+āsraṃ) [on-circular+strip](bṛtta+paṭṭike) [k, kh: pakṣapaṭṭike]
 
 ## mukta-m0-p55-v1360
-[from-neck](grīvāt) [or](vā) [from-half+breadth](vistarārdhāt) [or](vā) [shoulder+half+part+projections](skandhārdhāṃśavinirgamau)
+[from-neck](grīvāt) [or](vā) [from-half+width](vistāra+ardhāt) [or](vā) [from-half+shoulder+portion+projections](skandha+ardha+aṃśa+vinirgamau) [(maḥ)] [mū: skandhāddyaṃśavinirgamaiḥ]
 
 ## mukta-m0-p55-v1361
-[four+part+broad](caturbhāgapravistārau) [with-half+part+wings](bhāgārdhapakṣayoḥ) [joined](yutaḥ)
+[four+part+wide](catur+bhāga+pravistārau) [(ro)] [with-half+part+wings](bhāga+ardha+pakṣayoḥ) [joined](yutaḥ)
 
 ## mukta-m0-p55-v1362
-[half+height](ucchrāyārdhaṃ) [indeed](tu) [breadth](vistārā) [with-three+strips](paṭṭikātritayānvitā)
+[half+of-height](ucchrāya+ardhaṃ) [but](tu) [in-width](vistārā) [with-three+strips](paṭṭikā+tritaya+anvitā)
 
 ## mukta-m0-p55-v1363
-[from-lotus+stalk](padmaskandhāt) [by-two+parts](dvibhāgena) [to-be-made](kartavyā) [with-characteristics](lakṣaṇānvitā)
+[from-lotus+stalk](padma+skandhāt) [by-two+parts](dvi+bhāgena) [should-be-made](kartavyā) [endowed-with+characteristics](lakṣaṇa+anvitā)
 
 ## mukta-m0-p55-v1364
-[sweet-sounding](susvarā) [bell-metal+born](kāṃsyajā) [best](śreṣṭhā) [own-deity+weapon+delighting](svadevāyudhamaratakā)
+[well-sounding](su+svarā) [gh: susvanā] [bell-metal+born](kāṃsya+jā) [best](śreṣṭhā) [own+deity+weapon+essence](sva+deva+āyudha+maratakā) [mū: vādyadharāntarā]
 
 ## mukta-m0-p55-v1365
-[elephant+horse+mule+camels](gajāśvo'śvataroṣṭrān) [and](ca) [their+riders](tadārohān) [indeed](tu) [by-third-part](tryaṃśataḥ)
+[elephant+horse+mule+camel](gaja+aśva+aśvatara+uṣṭrān) [and](ca) [their+riders](tat+ārohān) [but](tu) [by-three+parts](tri+aṃśataḥ)
 
 ## mukta-m0-p55-v1366
-[should-be](bhaveyuḥ) [animals](paśavaḥ) [also](api) [others](anye) [deer+donkey+rhinoceroses](mṛgagardabhagaṇḍakāḥ)
+[should-be](bhaveyuḥ) [animals](paśavaḥ) [also](api) [others](anye) [deer+donkey+rhinoceros](mṛga+gardabha+gaṇḍakāḥ)
 
 ## mukta-m0-p55-v1367
-[water-less](jalonā) [tiger+monkey+camel](vyāghrakapyuṣṭrā) [and](tathā) [lac+producing](lakṣādārjanakaḥ)
+[water+less](jala+ūnā) [tiger+monkey+camel](vyāghra+kapi+uṣṭrā) [lac+producer](lakṣā+dārjanakaḥ) [likewise](tathā) [(?)]
 
 ## mukta-m0-p55-v1368
-[by-six+less](ṣaḍūnāt) [crocodile+lizard](grāhagodhā) [should-be](syāt) [crocodile+fish+limit](nakramatsyāvadhau) [always](sadā)
+[by-six+less](ṣaḍ+ūnāt) [gh: ṣaḍūnā grāha] [crocodile+lizard](grāha+godhā) [should-be](syāt) [crocodile+fish+limit](nakra+matsya+avadhau) [mū: matsyāvarau; g: matsyāvakai] [always](sadā)
 
 ## mukta-m0-p55-v1369
-[thus](iti) [in-characteristics+compendium](lakṣaṇasamuccaye) [vehicle+weapon+description](vāhanāyudhavartanaṃ) [named](nāma) [ninth](navamo) [chapter](vidhiḥ)
+[thus](iti) [in-Lakṣaṇasamuccaya](lakṣaṇa+samuccaye) [vehicle+weapon+description](vāhana+āyudha+vartanam) [named](nāma) [ninth](navamaḥ) [chapter](vidhiḥ)
 
 ## mukta-m0-p55-v1370
-[by-two+truṭis](dvitruṭibhyāṃ) [lava](lavaḥ) [declared](proktaḥ) [niṣeṣa](niṣeṣaḥ) [of-two+lavas+nature](dvilavātmakaḥ)
+[by-two+truṭis](dvi+truṭibhyāṃ) [lava](lavaḥ) [declared](proktaḥ) [niṣeṣa](niṣeṣo) [of-two+lavas+nature](dvi+lava+ātmakaḥ)
 
 ## mukta-m0-p55-v1371
-[thirty+kāṣṭhās](triṃśatkāṣṭhāḥ) [kāla](kālaṃ) [one-should-know](vidyāt) [kṣaṇa](kṣaṇaṃ) [of-thirty+kalās](triṃśatkalāṃ) [wise-one](budhaḥ)
+[thirty+kāṣṭhās](triṃśat+kāṣṭhāḥ) [kāla](kālaṃ) [one-should-know](vidyāt) [kṣaṇa](kṣaṇam) [thirty+kalās](triṃśat+kalāṃ) [the-wise](budhaḥ)
 
 ## mukta-m0-p55-v1372
-[by-those-two](tābhyāṃ) [nāḍī](nāḍī) [then](atha) [by-nāḍīs](nāḍībhyāṃ) [diminished](kṣīṇābhyāṃ) [by-sixteen+parts](ṣoḍaśāṃśakaiḥ)
+[by-those-two](tābhyām) [nāḍī](nāḍī) [then](atha) [by-nāḍīs](nāḍībhyāṃ) [diminished](kṣīṇābhyāṃ) [kh: hīnābhyām] [by-sixteen+parts](ṣoḍaśa+aṃśakaiḥ)
 
 ## mukta-m0-p55-v1373
-[by-those](taiḥ) [by-eight](aṣṭabhiḥ) [day+and-night](ahorātraṃ) [fortnight](pakṣaḥ) [by-those](taiḥ) [by-fifteen](daśapañcabhiḥ)
+[by-those+eight](taiḥ+aṣṭabhiḥ) [day+night](ahaḥ+rātraṃ) [fortnight](pakṣaḥ) [by-those+fifteen](taiḥ+daśa+pañcabhiḥ)
 
 ## mukta-m0-p55-v1374
-[by-those-two](tābhyāṃ) [year](saṃvatsaraḥ) [declared](proktaḥ) [by-those](taiḥ) [by-hundreds](śataiḥ) [human+lifespan](puruṣāyuṣaḥ)
+[by-those-two](tābhyām) [year](saṃvatsaraḥ) [declared](proktaḥ) [by-those+hundreds](taiḥ+śataiḥ) [human+lifespan](puruṣa+āyuṣaḥ)
 
 ## mukta-m0-p55-v1375
-[of-one-desiring-liberation](mumukṣoḥ) [installation](sthāpanaṃ) [auspicious](śastaṃ) [of-ascetic](yateḥ) [for-one-desiring-pleasure+and-wealth](kāmārthinaḥ) [I-say](bruve)
+[for-one-desiring-liberation](mumukṣoḥ) [installation](sthāpanaṃ) [commended](śastam) [for-an-ascetic](yateḥ) [for-one-desiring-pleasure+and-wealth](kāma+arthinaḥ) [I-declare](bruve) [mū, a, g: dhruvam]
