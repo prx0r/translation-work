@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 246,
- "question": "What immortality does constant practice make for the intent one?",
+ "question": "What does constant practice make?",
  "premises": [
-  "Constant practice makes immortality for the intent one."
+  "he makes is named",
+  "immortality is named",
+  "constant practice is named"
  ],
- "inference": "The verse says constant practice makes immortality for the intent one.",
- "uncertainties": [],
- "plain_english": "Indeed, constant practice makes immortality for the intent one."
+ "inference": "The verse says constant practice makes immortality.",
+ "uncertainties": [
+  "exact agent is not fully resolved"
+ ],
+ "plain_english": "Indeed, constant practice makes immortality."
 }

@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 239,
- "question": "What immortality and transformation are summarized for the goddess?",
+ "question": "What is named in brief alongside immortality?",
  "premises": [
-  "Immortality and transformation are summarized in brief."
+  "immortality is named",
+  "goddess is addressed",
+  "transformation is named"
  ],
- "inference": "The verse summarizes immortality and transformation in brief for the goddess.",
- "uncertainties": [],
- "plain_english": "Immortality and transformation, in brief, O goddess."
+ "inference": "The verse names immortality and transformation in brief.",
+ "uncertainties": [
+  "exact relation between immortality and transformation is not fully resolved"
+ ],
+ "plain_english": "Immortality and transformation are named in brief, O goddess."
 }

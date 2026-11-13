@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 231,
- "question": "How does the secret place and wheel become quickly accomplished?",
+ "question": "How is the secret place and wheel accomplished?",
  "premises": [
-  "The secret place and wheel are quickly accomplished."
+  "secret place is named",
+  "wheel is named",
+  "quick accomplishment is named"
  ],
- "inference": "The verse states that the secret place and wheel are quickly accomplished.",
- "uncertainties": [],
- "plain_english": "The secret place and wheel are quickly accomplished, O Bhairava."
+ "inference": "The verse connects the secret place and wheel with quick accomplishment.",
+ "uncertainties": [
+  "exact causal relation is not fully resolved"
+ ],
+ "plain_english": "As the secret place and wheel are, so is quick accomplishment, O Bhairava."
 }

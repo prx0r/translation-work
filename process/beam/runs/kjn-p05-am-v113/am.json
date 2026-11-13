@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 113,
- "question": "What practice frees one from bondage after six months?",
+ "question": "Who becomes free from bondage after six months of practice?",
  "premises": [
-  "One should practice from six months",
-  "The practice concerns ochre robe",
-  "It is free from bondage"
+  "Six months of practice are prescribed.",
+  "The practitioner wears ochre robe.",
+  "Bondage is removed."
  ],
- "inference": "The verse prescribes practice leading to freedom from bondage.",
- "uncertainties": [],
- "plain_english": "Whoever practices from six months, indeed the ochre robe free from bondage."
+ "inference": "Sustained practice for six months liberates the practitioner.",
+ "uncertainties": [
+  "Exact grammatical mood of abhyased."
+ ],
+ "plain_english": "Whoever practices for six months, wearing the ochre robe, becomes free from bondage."
 }

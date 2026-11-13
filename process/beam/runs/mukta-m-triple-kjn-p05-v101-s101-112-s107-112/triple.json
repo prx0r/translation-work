@@ -7,46 +7,45 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "pronoun referring to the supreme subject",
+     "grounds": "masculine nominative singular pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "indeclinable adjective",
+     "grounds": "indeclinable adverbial or adjectival form",
      "morph": "(indecl.)"
     },
     {
      "surface": "niṣkalaṃ",
      "gloss": "partless",
-     "grounds": "adjective modifying the subject",
-     "morph": "m.nom.sg"
+     "grounds": "adjectival form in accusative or neuter nominative singular",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "nityaṃ",
      "gloss": "eternal",
-     "grounds": "adjective modifying the subject",
-     "morph": "m.nom.sg"
+     "grounds": "adjectival form in accusative or neuter nominative singular",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "nirāmaya+nirañjanam",
      "gloss": "free-from-disease+stainless",
-     "grounds": "compound adjective modifying the subject",
-     "morph": "m.nom.sg"
+     "grounds": "compound adjective in accusative or neuter nominative singular",
+     "morph": "compound"
     }
    ],
-   "question": "Who is described as the supreme partless eternal and free-from-disease stainless reality?",
+   "question": "What is the true nature of the jīva and what becomes of it when the body is abandoned?",
    "premises": [
-    "the subject is supreme",
-    "the subject is partless",
-    "the subject is eternal",
-    "the subject is free from disease and stain"
+    "The supreme is partless eternal and stainless.",
+    "The jīva is identified with the supreme haṃsa.",
+    "The air pervades all beings as situated wind."
    ],
-   "inference": "the verse identifies the supreme reality as partless, eternal, and stainless",
+   "inference": "The jīva is ultimately the supreme Śiva, realized through heard knowledge.",
    "uncertainties": [
-    "exact referent beyond the verse is not specified"
+    "Some adjectival endings are morphologically ambiguous between accusative and neuter nominative."
    ],
-   "plain_english": "He is supreme, partless, eternal, and free from disease and stain."
+   "plain_english": "He is the supreme, partless, eternal, free from disease and stainless."
   },
   {
    "verse": 108,
@@ -54,63 +53,63 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "pronoun referring to the subject",
+     "grounds": "masculine nominative singular pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "jīvaḥ",
      "gloss": "soul",
-     "grounds": "subject noun",
+     "grounds": "masculine nominative singular noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "parataro",
      "gloss": "supreme",
-     "grounds": "comparative adjective modifying jīva",
+     "grounds": "comparative adjective in masculine nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "yas",
      "gloss": "who",
-     "grounds": "relative pronoun",
+     "grounds": "relative pronoun in masculine nominative singular",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "pronoun referring to haṃsa",
+     "grounds": "masculine nominative singular pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "haṃsaḥ",
      "gloss": "haṃsa",
-     "grounds": "subject noun",
+     "grounds": "masculine nominative singular noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śakti+pudgalaḥ",
      "gloss": "power+individual",
-     "grounds": "compound noun modifying haṃsa",
-     "morph": "m.nom.sg"
+     "grounds": "compound noun in masculine nominative singular",
+     "morph": "compound"
     }
    ],
-   "question": "Who is the supreme jīva and what is the haṃsa said to be?",
+   "question": "What is the true nature of the jīva and what becomes of it when the body is abandoned?",
    "premises": [
-    "the jīva is supreme",
-    "the haṃsa is that subject",
-    "the haṃsa is power and individual"
+    "The supreme is partless eternal and stainless.",
+    "The jīva is identified with the supreme haṃsa.",
+    "The air pervades all beings as situated wind."
    ],
-   "inference": "the supreme jīva is identified with haṃsa as power-individual",
+   "inference": "The jīva is ultimately the supreme Śiva, realized through heard knowledge.",
    "uncertainties": [
-    "the exact relation of power and individual is not expanded"
+    "The exact syntactic relation of the comparative adjective is not fully explicit."
    ],
-   "plain_english": "He is the supreme jīva; indeed he is haṃsa, power and individual."
+   "plain_english": "He is the soul, the supreme one, who indeed is the haṃsa, the power-individual."
   },
   {
    "verse": 109,
@@ -118,37 +117,37 @@
     {
      "surface": "samīra+pūrako",
      "gloss": "wind-filled",
-     "grounds": "compound adjective modifying air",
-     "morph": "m.nom.sg"
+     "grounds": "compound adjective in masculine nominative singular",
+     "morph": "compound"
     },
     {
      "surface": "vāyuḥ",
      "gloss": "air",
-     "grounds": "subject noun",
+     "grounds": "masculine nominative singular noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "sarva+jīveṣu",
      "gloss": "in-all-beings",
-     "grounds": "compound locative phrase",
+     "grounds": "compound locative plural masculine noun",
      "morph": "m.loc.pl"
     },
     {
      "surface": "saṃsthitam",
      "gloss": "situated",
-     "grounds": "participle describing air",
+     "grounds": "past participle in neuter nominative or accusative singular",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Where is the wind-filled air situated according to the verse?",
+   "question": "What is the true nature of the jīva and what becomes of it when the body is abandoned?",
    "premises": [
-    "the air is wind-filled",
-    "the air is situated",
-    "it is situated in all beings"
+    "The supreme is partless eternal and stainless.",
+    "The jīva is identified with the supreme haṃsa.",
+    "The air pervades all beings as situated wind."
    ],
-   "inference": "the wind-filled air is situated in all beings",
+   "inference": "The jīva is ultimately the supreme Śiva, realized through heard knowledge.",
    "uncertainties": [
-    "whether situated refers to air or another implied subject"
+    "The participle's case agreement is not fully resolved in context."
    ],
    "plain_english": "The wind-filled air is situated in all beings."
   },
@@ -158,45 +157,45 @@
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "pronoun referring to the subject",
+     "grounds": "masculine nominative singular pronoun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "deha+tyakta+mātreṇa",
      "gloss": "upon-merely-leaving-the-body",
-     "grounds": "compound instrumental phrase",
+     "grounds": "compound instrumental singular neuter form",
      "morph": "n.instr.sg"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "adjective",
+     "grounds": "indeclinable adverbial or adjectival form",
      "morph": "(indecl.)"
     },
     {
      "surface": "śivo",
      "gloss": "śiva",
-     "grounds": "predicate nominative",
+     "grounds": "masculine nominative singular noun",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nigadyate",
      "gloss": "is-called",
-     "grounds": "passive verb",
-     "morph": "3.sg.pass.pres"
+     "grounds": "passive present third singular from root nigad",
+     "morph": "3.sg.pass-pres"
     }
    ],
-   "question": "What is he called upon merely leaving the body?",
+   "question": "What is the true nature of the jīva and what becomes of it when the body is abandoned?",
    "premises": [
-    "he leaves the body",
-    "he is called supreme",
-    "he is called śiva"
+    "The supreme is partless eternal and stainless.",
+    "The jīva is identified with the supreme haṃsa.",
+    "The air pervades all beings as situated wind."
    ],
-   "inference": "upon merely leaving the body he is called supreme śiva",
+   "inference": "The jīva is ultimately the supreme Śiva, realized through heard knowledge.",
    "uncertainties": [
-    "whether this is immediate or after some process"
+    "The instrumental compound may modify the moment of bodily departure."
    ],
-   "plain_english": "Upon merely leaving the body, he is called supreme śiva."
+   "plain_english": "He, upon merely leaving the body, is called the supreme Śiva."
   },
   {
    "verse": 111,
@@ -204,39 +203,39 @@
     {
      "surface": "karṇa+sthaṃ",
      "gloss": "abiding-in-the-ear",
-     "grounds": "compound adjective",
+     "grounds": "compound adjective in accusative or neuter nominative singular",
      "morph": "n.acc.sg"
     },
     {
      "surface": "śrūyate",
      "gloss": "is-heard",
-     "grounds": "passive verb",
-     "morph": "3.sg.pass.pres"
+     "grounds": "passive present third singular from root śru",
+     "morph": "3.sg.pass-pres"
     },
     {
      "surface": "devi",
      "gloss": "o-goddess",
-     "grounds": "vocative address",
+     "grounds": "vocative singular feminine noun",
      "morph": "f.voc.sg"
     },
     {
      "surface": "pāramparya+krama+āgatam",
      "gloss": "come-down-through-tradition",
-     "grounds": "compound adjective",
-     "morph": "n.acc.sg"
+     "grounds": "compound adjective in neuter nominative or accusative singular",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "What is heard abiding in the ear and coming down through tradition?",
+   "question": "What is the true nature of the jīva and what becomes of it when the body is abandoned?",
    "premises": [
-    "something is heard",
-    "it abides in the ear",
-    "it comes down through tradition"
+    "The supreme is partless eternal and stainless.",
+    "The jīva is identified with the supreme haṃsa.",
+    "The air pervades all beings as situated wind."
    ],
-   "inference": "the teaching is heard in the ear and transmitted through tradition",
+   "inference": "The jīva is ultimately the supreme Śiva, realized through heard knowledge.",
    "uncertainties": [
-    "the exact content heard is not stated"
+    "The exact referent of the heard traditional teaching is not specified."
    ],
-   "plain_english": "O goddess, what abides in the ear is heard, having come down through tradition."
+   "plain_english": "Abiding in the ear, it is heard, O goddess, having come down through tradition."
   },
   {
    "verse": 112,
@@ -244,45 +243,45 @@
     {
      "surface": "anena",
      "gloss": "by-this",
-     "grounds": "pronoun in instrumental",
+     "grounds": "masculine instrumental singular pronoun",
      "morph": "m.instr.sg"
     },
     {
      "surface": "jñāna+mātreṇa",
      "gloss": "mere-knowledge",
-     "grounds": "compound instrumental phrase",
+     "grounds": "compound instrumental singular neuter form",
      "morph": "n.instr.sg"
     },
     {
      "surface": "śrutena",
      "gloss": "heard",
-     "grounds": "participle in instrumental",
-     "morph": "n.instr.sg"
+     "grounds": "past participle in instrumental singular masculine or neuter",
+     "morph": "m.instr.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "indeclinable conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "varānane",
      "gloss": "o-fair-faced-one",
-     "grounds": "vocative address",
+     "grounds": "vocative singular feminine adjective or noun",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What is accomplished by this mere knowledge and what is heard?",
+   "question": "What is the true nature of the jīva and what becomes of it when the body is abandoned?",
    "premises": [
-    "this mere knowledge acts",
-    "what is heard acts",
-    "the addressee is fair-faced"
+    "The supreme is partless eternal and stainless.",
+    "The jīva is identified with the supreme haṃsa.",
+    "The air pervades all beings as situated wind."
    ],
-   "inference": "the verse links mere knowledge and heard teaching to the addressee",
+   "inference": "The jīva is ultimately the supreme Śiva, realized through heard knowledge.",
    "uncertainties": [
-    "the exact result is not stated in this verse"
+    "The pronoun's precise antecedent is not explicit in this excerpt."
    ],
-   "plain_english": "By this mere knowledge and what is heard, O fair-faced one."
+   "plain_english": "By this mere knowledge, heard and transmitted, O fair-faced one."
   }
  ]
 }

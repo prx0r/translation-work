@@ -3,9 +3,13 @@
  "verse": 232,
  "question": "What is hard to obtain even when asked by gods?",
  "premises": [
-  "The speaker is asked by gods for what is hard to obtain."
+  "well is repeated",
+  "great goddess is addressed",
+  "asked by gods is named"
  ],
- "inference": "The verse says the speaker is asked by gods for what is hard to obtain.",
- "uncertainties": [],
- "plain_english": "Well, well, O great goddess, I am asked by gods for what is hard to obtain."
+ "inference": "The verse says what is asked is hard to obtain even for gods.",
+ "uncertainties": [
+  "exact referent is not fully resolved"
+ ],
+ "plain_english": "Well, well, O great goddess, I am asked what is hard to obtain even for gods."
 }

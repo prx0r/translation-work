@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 244,
- "question": "What wrinkle, grey hair, destruction, and seeing from afar are mentioned?",
+ "question": "What destruction and seeing are named?",
  "premises": [
-  "Wrinkle, grey hair, destruction, and seeing from afar are mentioned."
+  "wrinkle and grey hair are named",
+  "destruction is named",
+  "seeing from far is named"
  ],
- "inference": "The verse lists wrinkle, grey hair, destruction, and seeing from afar.",
- "uncertainties": [],
- "plain_english": "Wrinkle, grey hair, destruction, and seeing from afar, likewise."
+ "inference": "The verse names destruction of wrinkles and grey hair and seeing from very far.",
+ "uncertainties": [
+  "exact relation is not fully resolved"
+ ],
+ "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, are named."
 }

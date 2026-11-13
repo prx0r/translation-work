@@ -3,11 +3,13 @@
  "verse": 105,
  "question": "Who is the declared soul and what is its nature?",
  "premises": [
-  "The soul is declared",
-  "The question asks who that soul is",
-  "The question asks what its nature is"
+  "soul is declared",
+  "identity is questioned",
+  "nature is questioned"
  ],
- "inference": "The verse poses the identity and nature of the declared soul.",
- "uncertainties": [],
+ "inference": "the verse asks both identity and nature of soul",
+ "uncertainties": [
+  "answer not given in this verse"
+ ],
  "plain_english": "Who is that declared soul, and what is the nature of the soul?"
 }

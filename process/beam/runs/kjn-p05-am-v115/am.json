@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 115,
- "question": "What practice of the soul has been told?",
+ "question": "What practice of the soul has been told to Bhairavi?",
  "premises": [
-  "This is told to you",
-  "It is the practice of the soul",
-  "It is told to you, O Bhairavī"
+  "The teaching is addressed to Bhairavi.",
+  "The soul-practice is explained.",
+  "It is given to the disciple."
  ],
- "inference": "The verse states that the practice of the soul has been taught.",
- "uncertainties": [],
- "plain_english": "This practice of the soul has been told to you, O Bhairavī."
+ "inference": "The verse completes instruction on soul-practice.",
+ "uncertainties": [
+  "Whether te repeats for emphasis."
+ ],
+ "plain_english": "This practice of the soul has been told to you, O Bhairavi."
 }

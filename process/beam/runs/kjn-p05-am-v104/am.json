@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 104,
- "question": "By whose grace is the determination of Kaula known?",
+ "question": "How does the speaker come to know the determination of Kaula?",
  "premises": [
-  "It is known by your grace",
-  "The speaker addresses the lord of Kaulas",
-  "The determination of Kaula is known"
+  "knowledge comes by grace",
+  "lord of Kaulas is addressed",
+  "speaker declares knowledge"
  ],
- "inference": "The verse attributes knowledge of Kaula determination to divine grace.",
- "uncertainties": [],
+ "inference": "grace of the lord reveals Kaula determination",
+ "uncertainties": [
+  "exact content of determination unspecified"
+ ],
  "plain_english": "By your grace, O lord of Kaulas, I have known the determination of Kaula."
 }

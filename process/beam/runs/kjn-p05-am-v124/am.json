@@ -3,11 +3,13 @@
  "verse": 124,
  "question": "Does poison enter the body even when bitten by great serpents?",
  "premises": [
-  "Poison does not enter",
-  "It does not enter the body",
-  "Even if bitten by great serpents"
+  "Poison does not enter body.",
+  "Even bitten by serpents.",
+  "Great serpents are named."
  ],
- "inference": "The verse claims poison does not enter the body even after serpent bite.",
- "uncertainties": [],
- "plain_english": "Poison does not enter the body, even if bitten by great serpents."
+ "inference": "The practice protects against serpent poison.",
+ "uncertainties": [
+  "Whether daṃśito modifies person or body."
+ ],
+ "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
 }

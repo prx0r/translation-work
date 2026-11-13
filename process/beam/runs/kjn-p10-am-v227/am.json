@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "What chapter emerges in candra-dvīpa?",
+ "question": "Which chapter emerges in candra dvipa?",
  "premises": [
-  "The ninth chapter emerges in candra-dvīpa."
+  "candra dvipa is named",
+  "emergence is named",
+  "ninth chapter is named"
  ],
- "inference": "The verse identifies the ninth chapter as emerging in candra-dvīpa.",
- "uncertainties": [],
- "plain_english": "The ninth chapter emerges in candra-dvīpa."
+ "inference": "The verse identifies the ninth chapter as emerging in candra dvipa.",
+ "uncertainties": [
+  "compound parsing is not fully resolved"
+ ],
+ "plain_english": "The ninth chapter emerges in candra dvipa."
 }

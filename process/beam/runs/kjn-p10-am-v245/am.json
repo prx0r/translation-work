@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 245,
- "question": "What form and meditation should one make in solitude while intent?",
+ "question": "What should one make in solitude?",
  "premises": [
-  "In solitude, make form in many ways and meditation, being intent."
+  "solitude is named",
+  "many forms are named",
+  "meditation is named"
  ],
- "inference": "The verse instructs making form in many ways and meditation in solitude while intent.",
- "uncertainties": [],
- "plain_english": "In solitude, make form in many ways and meditation, being intent on that."
+ "inference": "The verse instructs making many forms and meditation in solitude while intent on that.",
+ "uncertainties": [
+  "exact object of intent is not fully resolved"
+ ],
+ "plain_english": "In solitude, make many forms and meditation, being intent on that."
 }

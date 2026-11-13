@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 235,
- "question": "What meditation of the declared wheels and places should the beloved hear?",
+ "question": "What is declared about the places and wheels?",
  "premises": [
-  "The places and wheels are declared, and their meditation should be heard."
+  "places and wheels are named",
+  "declaration is named",
+  "meditation is named"
  ],
- "inference": "The verse asks the beloved to hear meditation on the declared places and wheels.",
- "uncertainties": [],
+ "inference": "The verse declares the places and wheels and asks the beloved to hear their meditation.",
+ "uncertainties": [
+  "exact relation between places and wheels is not fully resolved"
+ ],
  "plain_english": "The places and wheels are declared; hear their meditation, O beloved."
 }

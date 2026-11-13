@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 101,
- "question": "Why must this teaching be carefully concealed in the mortal world among the lowest of men?",
+ "question": "Should this teaching be carefully concealed from the lowest men in the mortal world?",
  "premises": [
-  "The teaching is to be concealed",
-  "It is concealed with effort",
-  "It is concealed among lowest men"
+  "teaching must be concealed",
+  "effort is required",
+  "lowest men are excluded"
  ],
- "inference": "The verse commands secrecy for the teaching in ordinary human society.",
- "uncertainties": [],
- "plain_english": "This must be carefully concealed in the mortal world among the lowest of men."
+ "inference": "concealment protects sacred knowledge",
+ "uncertainties": [
+  "exact referent of teaching unspecified"
+ ],
+ "plain_english": "This must be concealed with effort in the mortal world among the lowest of men."
 }

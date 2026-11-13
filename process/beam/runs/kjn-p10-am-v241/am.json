@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 241,
- "question": "What form does one-pointed meditation mind make in many ways?",
+ "question": "What does one-pointed meditation make?",
  "premises": [
-  "A one-pointed meditation mind makes form in many ways."
+  "he makes is named",
+  "many forms are named",
+  "one-pointed mind is named"
  ],
- "inference": "The verse says a one-pointed meditation mind makes form in many ways.",
- "uncertainties": [],
- "plain_english": "A one-pointed meditation mind makes form in many ways."
+ "inference": "The verse says one-pointed meditation makes many forms.",
+ "uncertainties": [
+  "exact agent is not fully resolved"
+ ],
+ "plain_english": "One-pointed meditation makes many forms."
 }

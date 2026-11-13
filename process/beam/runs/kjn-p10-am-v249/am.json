@@ -1,11 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 249,
- "question": "What smoke-colored triple world should one always contemplate and shake?",
+ "question": "What is contemplated and what is shaken?",
  "premises": [
-  "Always contemplate smoke-colored triple world and shake it."
+  "smoke-colored is named",
+  "always contemplate is named",
+  "triple world is named"
  ],
- "inference": "The verse says always contemplate smoke-colored triple world and shake it.",
- "uncertainties": [],
- "plain_english": "Always contemplate the smoke-colored triple world and shake it, O beloved."
+ "inference": "The verse says always contemplate smoke-colored and shake the triple world.",
+ "uncertainties": [
+  "exact object of contemplation is not fully resolved"
+ ],
+ "plain_english": "Always contemplate smoke-colored, and shake the triple world, O beloved."
 }

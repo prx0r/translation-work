@@ -7,38 +7,39 @@
     {
      "surface": "gopitavyaṃ",
      "gloss": "to-be-concealed",
-     "grounds": "gerundive passive form",
+     "grounds": "gerundive of gup",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
-     "grounds": "instrumental case",
+     "grounds": "instrumental of prayatna",
      "morph": "m.instr.sg"
     },
     {
      "surface": "martyaloke",
      "gloss": "in-mortal-world",
-     "grounds": "locative case",
+     "grounds": "locative of martyaloka",
      "morph": "m.loc.sg"
     },
     {
      "surface": "narādhame",
-     "gloss": "among-lowest-men",
-     "grounds": "locative case",
+     "gloss": "among-lowest-of-men",
+     "grounds": "locative sense of narādhama",
      "morph": "m.loc.sg"
     }
    ],
-   "question": "Should the teaching be concealed with effort among lowest men in mortal world?",
+   "question": "Should this teaching be carefully concealed from the lowest men in the mortal world?",
    "premises": [
-    "concealment requires effort",
-    "mortal world contains lowest men"
+    "teaching must be concealed",
+    "effort is required",
+    "lowest men are excluded"
    ],
-   "inference": "the teaching must be hidden from unworthy recipients",
+   "inference": "concealment protects sacred knowledge",
    "uncertainties": [
-    "none"
+    "exact referent of teaching unspecified"
    ],
-   "plain_english": "It should be concealed with effort in the mortal world among the lowest of men."
+   "plain_english": "This must be concealed with effort in the mortal world among the lowest of men."
   },
   {
    "verse": 102,
@@ -46,32 +47,33 @@
     {
      "surface": "dātavyaṃ",
      "gloss": "to-be-given",
-     "grounds": "gerundive passive form",
+     "grounds": "gerundive of dā",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pūrvasiddhasya",
      "gloss": "of-previously-accomplished",
-     "grounds": "genitive case",
+     "grounds": "genitive of pūrvasiddha",
      "morph": "m.gen.sg"
     },
     {
      "surface": "abdameka+parīkṣitam",
      "gloss": "tested-for-one-year",
-     "grounds": "fused compound form",
-     "morph": "n.acc.sg"
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
     }
    ],
-   "question": "To whom should the teaching be given after one year of testing?",
+   "question": "To whom should this teaching be given after one year of testing?",
    "premises": [
-    "giving follows prior accomplishment",
-    "testing lasts one year"
+    "teaching is to be given",
+    "recipient is previously accomplished",
+    "recipient is tested one year"
    ],
-   "inference": "the teaching is given only to one previously accomplished and tested",
+   "inference": "transmission requires prior accomplishment and testing",
    "uncertainties": [
-    "none"
+    "exact teaching unspecified"
    ],
-   "plain_english": "It should be given to one previously accomplished, tested for one year."
+   "plain_english": "It should be given to one previously accomplished and tested for one year."
   },
   {
    "verse": 103,
@@ -79,7 +81,7 @@
     {
      "surface": "candradvīpa+vinirgate",
      "gloss": "emerged-from-candradīpa",
-     "grounds": "fused compound form",
+     "grounds": "locative absolute sense",
      "morph": "m.loc.sg"
     },
     {
@@ -91,20 +93,21 @@
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "noun",
+     "grounds": "nominative subject",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter follows emergence from candradīpa?",
+   "question": "Which chapter emerges from Candradipa?",
    "premises": [
-    "emergence from candradīpa occurs",
-    "fifth chapter follows"
+    "chapter is fifth",
+    "origin is Candradipa",
+    "emergence is stated"
    ],
-   "inference": "the fifth chapter is named after that emergence",
+   "inference": "the fifth chapter comes from Candradipa",
    "uncertainties": [
-    "none"
+    "scope of Candradipa unspecified"
    ],
-   "plain_english": "The fifth chapter emerged from candradīpa."
+   "plain_english": "The fifth chapter emerged from Candradipa."
   },
   {
    "verse": 104,
@@ -112,7 +115,7 @@
     {
      "surface": "tvat+prasādena",
      "gloss": "by-your-grace",
-     "grounds": "fused compound form",
+     "grounds": "instrumental compound",
      "morph": "m.instr.sg"
     },
     {
@@ -124,32 +127,33 @@
     {
      "surface": "jñāto",
      "gloss": "known",
-     "grounds": "past participle",
+     "grounds": "past participle of jñā",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
      "grounds": "first person pronoun",
-     "morph": "m.nom.sg"
+     "morph": "1.sg"
     },
     {
      "surface": "kaula+nirṇayaḥ",
      "gloss": "determination-of-kaula",
-     "grounds": "fused compound form",
+     "grounds": "compound subject",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "By whose grace is the determination of kaula known?",
+   "question": "How does the speaker come to know the determination of Kaula?",
    "premises": [
-    "grace enables knowledge",
-    "kaula determination is known"
+    "knowledge comes by grace",
+    "lord of Kaulas is addressed",
+    "speaker declares knowledge"
    ],
-   "inference": "the speaker knows kaula determination by the lord's grace",
+   "inference": "grace of the lord reveals Kaula determination",
    "uncertainties": [
-    "none"
+    "exact content of determination unspecified"
    ],
-   "plain_english": "By your grace, O lord of kaulas, I know the determination of kaula."
+   "plain_english": "By your grace, O lord of Kaulas, I have known the determination of Kaula."
   },
   {
    "verse": 105,
@@ -169,7 +173,7 @@
     {
      "surface": "jīvaḥ",
      "gloss": "soul",
-     "grounds": "noun",
+     "grounds": "nominative subject",
      "morph": "m.nom.sg"
     },
     {
@@ -187,26 +191,27 @@
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "conjunction",
+     "grounds": "disjunctive particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "jīva+svarūpakam",
      "gloss": "nature-of-soul",
-     "grounds": "fused compound form",
+     "grounds": "compound noun",
      "morph": "n.nom.sg"
     }
    ],
    "question": "Who is the declared soul and what is its nature?",
    "premises": [
-    "a soul is declared",
-    "its nature is questioned"
+    "soul is declared",
+    "identity is questioned",
+    "nature is questioned"
    ],
-   "inference": "the verse asks identity and nature of the soul",
+   "inference": "the verse asks both identity and nature of soul",
    "uncertainties": [
-    "none"
+    "answer not given in this verse"
    ],
-   "plain_english": "Who is that declared soul, or what is the nature of the soul?"
+   "plain_english": "Who is that declared soul, and what is the nature of the soul?"
   },
   {
    "verse": 106,
@@ -220,7 +225,7 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "conjunctive particle",
      "morph": "(indecl.)"
     },
     {
@@ -232,44 +237,45 @@
     {
      "surface": "layaṃ",
      "gloss": "dissolution",
-     "grounds": "accusative case",
+     "grounds": "accusative object",
      "morph": "m.acc.sg"
     },
     {
      "surface": "yāti",
      "gloss": "goes",
-     "grounds": "third person singular present",
-     "morph": "3sg.act.pres"
+     "grounds": "present of yā",
+     "morph": "3.sg.act-pres"
     },
     {
      "surface": "tat+sarvaṃ",
      "gloss": "that-all",
-     "grounds": "fused compound form",
-     "morph": "n.acc.sg"
+     "grounds": "compound pronoun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "kathayasva",
      "gloss": "tell",
-     "grounds": "second person singular imperative",
-     "morph": "2sg.impv.mid"
+     "grounds": "imperative of kathay",
+     "morph": "2.sg.imp.mid"
     },
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "dative case",
-     "morph": "m.dat.sg"
+     "grounds": "dative pronoun",
+     "morph": "1.sg.dat"
     }
    ],
-   "question": "In what does all dissolve and what should be told to me?",
+   "question": "In what does all that dissolve?",
    "premises": [
-    "dissolution has a locus",
-    "all is to be explained"
+    "dissolution is asked",
+    "all things are included",
+    "speaker requests teaching"
    ],
-   "inference": "the verse asks the locus of dissolution and requests full teaching",
+   "inference": "the verse asks the locus of dissolution",
    "uncertainties": [
-    "none"
+    "locus not specified here"
    ],
-   "plain_english": "In what indeed does dissolution go, and tell me all that."
+   "plain_english": "In what indeed does all that dissolve? Tell me."
   }
  ]
 }
