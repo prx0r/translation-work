@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p407-v10151
-[śrīṃ-hrīṃ-klīṃ-oṃ](śrīṃ-hrīṃ-klīṃ-oṃ) [ca](ca) [viṃ](viṃ) [vitteśvarāya](vitteśvarāya) [namaḥ](nama) [iti](ity) [api](api)
+[śrīṃ-hrīṃ-klīṃ-oṃ](śrīṃ-hrīṃ-klīṃ-oṃ) [and](ca) [viṃ](viṃ) [to-vitteśvara](vitteśvarāya) [obeisance](nama) [thus](iti) [also](api)
 
 ## mukta-m0-p407-v10152
-[page-599](p. 599)) [pañca+akṣibhyām](pañcākṣibhyāṃ) [ṣaṭ+aṅgam](ṣaḍaṅgaṃ) [syāt](syād) [dhyāna+pūjā+ādi](dhyānapūjādi) [pūrva+vat](pūrvavat)
+[page-599](p.) [599](599)) [by-five+syllables](pañcākṣibhyāṃ) [six+limbs](ṣaḍaṅgaṃ) [should-be](syāt) [meditation+worship+etc](dhyānapūjādi) [as-before](pūrvavat)
 
 ## mukta-m0-p407-v10153
-[svāhā+antaiḥ](svāhāntaiḥ) [praṇava+ādyaiḥ](praṇavādyaiś) [ca](ca) [pañcabhiḥ](pañcabhir) [mantra+varṇakaiḥ](mantravarṇakaiḥ)
+[ending-with-svāhā](svāhāntaiḥ) [beginning-with-praṇava](praṇavādyaiḥ) [and](ca) [with-five](pañcabhir) [mantra+syllables](mantravarṇakaiḥ)
 
 ## mukta-m0-p407-v10154
-[hastābhyām](hastābhyāṃ) [bibhratam](bibhrataṃ) [kharva+kara+pādam](kharvakarapādaṃ) [ca](ca) [tundilam](tundilam)
+[with-two-hands](hastābhyāṃ) [holding](bibhrataṃ) [short+hand+foot](kharvakarapādaṃ) [and](ca) [pot-bellied](tundilam)
 
 ## mukta-m0-p407-v10155
-[sevanāt](sevanād) [asya](asya) [bhavati](bhavati) [yakṣiṇī+ādyāḥ](yakṣiṇyādyās) [tathā](tathā) [vaśe](vaśe)
+[by-worship](sevanāt) [of-him](asya) [become](bhavati) [yakṣiṇī+and-others](yakṣiṇyādyās) [likewise](tathā) [under-control](vaśe)
 
 ## mukta-m0-p407-v10156
-[praṇavam](praṇavaṃ) [haṃ](haṃ) [samuccārya](samuccārya) [ca](ca) [īśānāya](īśānāya) [vadet](vadet) [tataḥ](tataḥ)
+[praṇava](praṇavaṃ) [haṃ](haṃ) [having-uttered](samuccārya) [to-īśāna](ceśānāya) [should-say](vadet) [then](tataḥ)
 
 ## mukta-m0-p407-v10157
-[varṇaḥ](varṇoya) [śūla+hastāya](śūlahastāya) [ṅa+antaḥ](ṅentaś) [ca](ca) [vṛṣa+vāhanaḥ](vṛṣavāhanaḥ)
+[syllable](varṇoya) [to-trident+handed](śūlahastāya) [ending-in-ṅa](ṅentaśca) [bull+vehicled](vṛṣavāhanaḥ)
 
 ## mukta-m0-p407-v10158
-[oṃ](oṃ) [haṃ+ādyaiḥ](hamādyair) [namaḥ+antaiḥ](namontaiś) [ca](ca) [pañca+aṅgam](pañcāṅgaṃ) [pañca+abhaḥ](paṃcābhaḥ) [padaiḥ](padaiḥ)
+[oṃ](oṃ) [beginning-with-haṃ](hamādyair) [ending-with-namas](namontaiḥ) [and](ca) [five+limbs](pañcāṅgaṃ) [with-five+syllables](paṃcābhaḥ) [with-words](padaiḥ)
 
 ## mukta-m0-p407-v10159
-[bhavanti](bhavanti) [na](na) [eva](eva) [phala+dāḥ](phaladā) [yathā](yathā) [nārī](nārī) [naram](naraṃ) [vinā](vinā)
+[become](bhavanti) [not](na) [indeed](eva) [fruit+giving](phaladā) [as](yathā) [woman](nārī) [man](naraṃ) [without](vinā)
 
 ## mukta-m0-p407-v10160
-[ubhaya+upāsanam](ubhayopāsanaṃ) [devi](devi) [bhukti+mukti+pradāyakam](bhuktimuktipradāyakam)
+[of-both+worship](ubhayopāsanaṃ) [o-goddess](devi) [enjoyment+liberation+giving](bhuktimuktipradāyakam)
 
 ## mukta-m0-p407-v10161
-[gaṇeśena](gaṇeśena) [sarasvatyā](sarasvatyā) [yakṣiṇī+ādyābhiḥ](yakṣiṇyādyābhir) [ātmanaḥ](ātmanaḥ)
+[with-gaṇeśa](gaṇeśena) [with-sarasvatī](sarasvatyā) [with-yakṣiṇī+and-others](yakṣiṇyādyābhir) [of-oneself](ātmanaḥ)
 
 ## mukta-m0-p407-v10162
-[vāme](vāme) [tu](tu) [bhairavaiḥ](bhairavair) [mantraiḥ](maṃntraiḥ) [śeṣa+āmnāyeṣu](śeṣāmnāyeṣv) [ayam](ayaṃ) [manuḥ](manuḥ)
+[on-left](vāme) [but](tu) [with-bhairava+mantras](bhairavairmaṃntraiḥ) [in-remaining+traditions](śeṣāmnāyeṣv) [this](ayaṃ) [mantra](manuḥ)
 
 ## mukta-m0-p407-v10163
-[tāram](tāraṃ) [pāśam](pāśaṃ) [brahmaṇe](brahmaṇe) [ca](ca) [loka+ādhipataye](lokādhipataye) [vadet](vadet)
+[tāra](tāraṃ) [noose](pāśaṃ) [to-brahman](brahmaṇe) [and](ca) [to-world+lord](lokādhipataye) [should-say](vadet)
 
 ## mukta-m0-p407-v10164
-[namaḥ+antaḥ](namontobāṇarāmārṇo) [bāṇa+rāma+arṇaḥ](namontobāṇarāmārṇo) [mantraḥ](mantroyaṃ) [ayam](mantroyaṃ) [parikīrtitaḥ](parikīrtitaḥ)
+[ending-with-namas](namontaḥ) [five+three+syllabled](bāṇarāmārṇo) [mantra](mantro) [this](yaṃ) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p407-v10165
-[na](na) [asya](asya) [pūjā+vidhiḥ](pūjāvidhiḥ) [prāyaḥ](prāyo) [japaḥ](japosya) [asya](japosya) [parikīrtitaḥ](parikīrtitaḥ)
+[not](na) [its](asya) [worship+procedure](pūjāvidhiḥ) [mostly](prāyo) [recitation](japo) [its](asya) [is-declared](parikīrtitaḥ)
 
 ## mukta-m0-p407-v10166
-[na](na) [tatra](tatra) [mama](mama) [śāpaḥ](śāposti) [asti](śāposti) [śāpaḥ](śāpaḥ) [kevala+pūjane](kevalapūjane)
+[not](na) [there](tatra) [my](mama) [curse](śāpo) [exists](asti) [curse](śāpaḥ) [in-mere+worship](kevalapūjane)
 
 ## mukta-m0-p407-v10167
-[gaura+varṇāya](gauravarṇāyā) [atala+ādi](talādisapta) [sapta+loka+īśvarāya](talādisaptalokeśvarāya) [ca](ca)
+[to-white+colored](gauravarṇāyā) [atala+etc](talādis) [seven+world+lord](saptalokeśvarāya) [and](ca)
 
 ## mukta-m0-p407-v10168
-[eka+catvāriṃśat+arṇaḥ](ekacatvāriṃśadarṇo) [mantraḥ](mantronantasya) [anantasya](mantronantasya) [kīrtitaḥ](kīrtitaḥ)
+[forty+one+syllabled](ekacatvāriṃśadarṇo) [mantra](mantro) [of-ananta](nantasya) [is-declared](kīrtitaḥ)
 
 ## mukta-m0-p407-v10169
-[page-600](p. 600)) [dugdham](dugdhaṃ) [hutvā](hutvā) [atha](atha) [vipra+indrān](viprendrān) [bhojayet](bhojayecca) [ca](bhojayecca) [caturdaśa](caturdaśa)
+[page-600](p.) [600](600)) [milk](dugdhaṃ) [having-offered](hutvā) [then](atha) [best+brahmins](viprendrān) [should-feed](bhojayec) [and](ca) [fourteen](caturdaśa)
 
 ## mukta-m0-p407-v10170
-[rājya+bhraṣṭaḥ](rājyabhraṣṭa) [iyāt](iyād) [rājyam](rājyaṃ) [vidyā+kāmaḥ](vidyākāmas) [tu](tu) [paṇḍitaḥ](paṇḍitaḥ)
+[kingdom+deprived](rājyabhraṣṭa) [may-obtain](iyād) [kingdom](rājyaṃ) [knowledge+desiring](vidyākāmas) [but](tu) [learned](paṇḍitaḥ)
 
 ## mukta-m0-p407-v10171
-[evam](evam) [uktāḥ](uktā) [dik+pa+mantrāḥ](dikpamantrāḥ) [kim](kim) [anyat](anyac) [śrotum](chrotum) [icchasi](icchasi)
+[thus](evam) [declared](uktā) [direction+mantras](dikpamantrāḥ) [what](kim) [else](anyac) [to-hear](chrotum) [you-wish](icchasi)
 
 ## mukta-m0-p407-v10172
-[iti](iti) [śrī+mahāmāyā+mahākāla+anumate](śrīmahāmāyāmahākālānumate) [meru+tantre](merutantre) [śiva+praṇīte](śivapraṇīte) [daśa+dik+īśa+mantra+prakāśaḥ](daśadigīśamantraprakāśaś) [caturviṃśaḥ](caturviṃśaḥ)
+[thus](iti) [in-śrī+mahāmāyā+mahākāla+approval](śrīmahāmāyāmahākālānumate) [in-meru+tantra](merutantre) [composed-by-śiva](śivapraṇīte) [ten+direction+lords+mantra+exposition](daśadigīśamantraprakāśaḥ) [twenty-fourth](caturviṃśaḥ)
 
 ## mukta-m0-p407-v10173
-[tathā](tathā) [dīpasya](dīpasya) [me](me) [mantram](mantraṃ) [phalam](phalañ) [ca](ca) [kṛpayā](kṛpayā) [vada](vada)
+[likewise](tathā) [of-lamp](dīpasya) [to-me](me) [mantra](mantraṃ) [fruit](phalañ) [and](ca) [out-of-compassion](kṛpayā) [tell](vada)
 
 ## mukta-m0-p407-v10174
-[ādau](ādau) [gaṇeśa+dīpaḥ](gaṇeśadīpas) [tu](tu) [kārya+akārya+vinirṇaye](kāryākāryavinirṇaye)
+[first](ādau) [gaṇeśa+lamp](gaṇeśadīpas) [indeed](tu) [in-duty+non-duty+determination](kāryākāryavinirṇaye)
 
 ## mukta-m0-p407-v10175
-[moha+uccāṭau](mohoccāṭau) [dveṣaṇam](dveṣaṇañ) [ca](ca) [teṣu](teṣu) [dīpam](dīpañ) [caret](caret) [kramāt](kramāt)
+[delusion](mohoc) [eradication](cāṭau) [hatred](dveṣaṇañ) [and](ca) [in-them](teṣu) [lamp](dīpañ) [one-should-perform](caret) [in-order](kramāt)

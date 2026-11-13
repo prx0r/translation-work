@@ -8,7 +8,7 @@
 [on-Tuesday](aṅgāra+vāre) [one-should-mutter](prajapet) [field](kṣetram) [one-should-make](kuryāt) [circumambulation](pradakṣiṇam)
 
 ## mukta-m0-p415-v10353
-[one-obtains](vindate) [great](mahatīm) [prosperity](lakṣmīm) [one-appeases](śamayet) [all+thorns](sarva+kaṇṭakān)
+[one-obtains](vindate) [great](mahatīm) [prosperity](lakṣmīm) [one-should-pacify](śamayet) [all+thorns](sarva+kaṇṭakān)
 
 ## mukta-m0-p415-v10354
 [great](mahatīm) [fortune](śriyam) [one-obtains](āpnoti) [great+king](mahā+rājaḥ) [becomes](bhavati) [indeed](alam)
@@ -20,16 +20,16 @@
 [with-mango+leaves](āmra+parṇaiḥ) [by-offering](hutena) [always](nityam) [fever+pacification](jvara+śāntiḥ) [is-produced](prajāyate)
 
 ## mukta-m0-p415-v10357
-[thus](evam) [declared](proktaḥ) [of-Varāha](varāhasya) [mantra](manuḥ) [all+purpose+accomplishment+giving](sarva+artha+siddhi+daḥ)
+[thus](evam) [declared](proktaḥ) [of-Varaha](varāhasya) [mantra](manuḥ) [all+purpose+accomplishment+giving](sarva+artha+siddhi+daḥ)
 
 ## mukta-m0-p415-v10358
-[oṃ-bhūr-varāhāya-namaḥ](oṃ bhūrvarāhāya namo) [sage](muniḥ) [Brahmā](brahmā) [is-declared](samīritaḥ)
+[oṃ-bhūrvarāhāya-namaḥ](oṃ bhūrvarāhāya namo) [sage](muniḥ) [Brahma](brahmā) [is-declared](samīritaḥ)
 
 ## mukta-m0-p415-v10359
-[with-padas](padaiḥ) [with-entire+mantra](samasta+mantreṇa) [five+limbs](pañca+aṅgāni) [one-should-assign](prakalpayet)
+[with-syllables](padaiḥ) [with-entire+mantra](samasta+mantreṇa) [five+limbs](pañca+aṅgāni) [one-should-assign](prakalpayet)
 
 ## mukta-m0-p415-v10360
-[with-earth+power+endowed](pṛthvī+śakti+yutam) [one-should-meditate](dhyāyet) [conch+discus+lotus](śaṅkha+cakra+ambujam) [mace](gadām) [holding-thus-supplied](dadhānamiti śeṣaḥ)
+[with-earth+power+endowed](pṛthvī+śakti+yutam) [one-should-meditate](dhyāyet) [conch+discus+lotus](śaṅkha+cakra+ambujam) [mace](gadām)
 
 ## mukta-m0-p415-v10361
 [with-shield+sword+intoxicated](carma+asi+madbhiḥ) [and](ca) [in-Kali-age](kalau) [quick+accomplishment+giving](druta+siddhi+pradāyakam)
@@ -38,16 +38,16 @@
 [thus](evam) [mantra](manum) [who](yaḥ) [worships](prabhajet) [he](saḥ) [becomes](bhavet) [and](ca) [earth+lord](dharā+patiḥ)
 
 ## mukta-m0-p415-v10363
-[Hayagrīva](hayagrīvaḥ) [sage](muniḥ) [is-declared](proktaḥ) [meter](chandaḥ) [anuṣṭup](anuṣṭup) [and](ca) [deity](devatā)
+[Hayagriva](hayagrīvaḥ) [sage](muniḥ) [is-declared](proktaḥ) [meter](chandaḥ) [Anushtubh](anuṣṭup) [and](ca) [deity](devatā)
 
 ## mukta-m0-p415-v10364
 [as-before](prāk+vat) [one-should-meditate](dhyāyet) [red+colored](rakta+varṇam) [worship+etc.](pūjā+ādyam) [as-before](pūrva+vat) [should-be](bhavet)
 
 ## mukta-m0-p415-v10365
-[yellow+colored](pīta+varṇam) [always](sadā) [one-should-meditate](dhyāyet) [in-Dvāpara](dvāpare) [quick+accomplishment+giving](druta+siddhi+dam)
+[yellow+colored](pīta+varṇam) [always](sadā) [one-should-meditate](dhyāyet) [in-Dvapara](dvāpare) [quick+accomplishment+giving](druta+siddhi+dam)
 
 ## mukta-m0-p415-v10366
-[in-order](kramāt) [I-shall-tell](vakṣye) [indeed](hi) [those+mantras](tat+mantrān) [of-Varāha](varāhasya) [dear](priyān) [indeed](ati)
+[in-order](kramāt) [I-shall-tell](vakṣye) [indeed](hi) [those+mantras](tat+mantrān) [of-Varaha](varāhasya) [dear+very](priyān+ati)
 
 ## mukta-m0-p415-v10367
 [dhṛṣe-svāhā](dhṛṣe svāhā) [thus](iti) [mantra](mantraḥ) [this](ayam) [nineteen+syllabled](ūnaviṃśati+varṇakaḥ)
