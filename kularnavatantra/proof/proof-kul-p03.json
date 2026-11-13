@@ -3,7 +3,12 @@
  "song": "kul-p03",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v52 ratio=0.827",
+  "ALIGN_NODISP v55 ratio=0.875",
+  "ALIGN_NODISP v56 ratio=0.897",
+  "ALIGN_NODISP v57 ratio=0.867"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "2e9c0d735f5bee9a",
@@ -13,22 +18,26 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 157
+  "tokens": 156
  },
  "align": {
-  "min_ratio": 0.867,
+  "min_ratio": 0.827,
   "sub090": {
+   "52": {
+    "ratio": 0.827,
+    "disposition": null
+   },
    "55": {
     "ratio": 0.875,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
+    "disposition": null
    },
    "56": {
     "ratio": 0.897,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.964)"
+    "disposition": null
    },
    "57": {
     "ratio": 0.867,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.867 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.966)"
+    "disposition": null
    }
   }
  },
@@ -49,7 +58,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 157,
+   "l0": 156,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -61,14 +70,17 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v52",
+  "fix: word-order/gloss vs source for v55",
+  "fix: word-order/gloss vs source for v56",
+  "fix: word-order/gloss vs source for v57"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "368c737d11191a99e8b8465f50090afeee3b9b6736f993b585021c95e97f5562",
-  "l0": "7ead77df34bde68a93b4fcea40ee9b869502b3be5743c2d6c59add9661534e3a",
-  "argmap": "49b3079b70db92eadf0506da80c5acff4f767de772a612cedfa732a4e7ba6666",
-  "l2": "3d99eab799a06c4582b7929077e48b02cb284d95112d4840fc8b918298e42fc2",
+  "t1": "30212ec0b274abfa0a1adb66b77a934aab6616fd27a05f03e30b9b0fcb0d3c7d",
+  "l0": "674e95bf6a852ea76ecd49081f3a82fce5d8dc130e1a3e79e2ee8a61996cab1b",
+  "argmap": "ce3dc16f51fb7cddc0f5f197ca4a6e839f43d32dcbd28d48428e166f2344b2a5",
+  "l2": "212df827b797a73df79b2b486106bdebf9f67a2fa3cd730eb36f4de177953469",
   "c1": "425f566d7f4797e19c78b2e1f6b0754b849fd4edfc2c3c8e8cec71a1f7a73ef7"
  },
  "lineage": {

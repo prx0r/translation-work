@@ -13,48 +13,11 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 126
+  "tokens": 113
  },
  "align": {
-  "min_ratio": 0.594,
-  "sub090": {
-   "237": {
-    "ratio": 0.854,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)"
-   },
-   "238": {
-    "ratio": 0.854,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)"
-   },
-   "242": {
-    "ratio": 0.814,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.814 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.826)"
-   },
-   "243": {
-    "ratio": 0.844,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.844 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.842)"
-   },
-   "244": {
-    "ratio": 0.594,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.594 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.587)"
-   },
-   "245": {
-    "ratio": 0.841,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.841 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.837)"
-   },
-   "247": {
-    "ratio": 0.889,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.889 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.887)"
-   },
-   "248": {
-    "ratio": 0.784,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.784 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.779)"
-   },
-   "250": {
-    "ratio": 0.73,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.73 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.716)"
-   }
-  }
+  "min_ratio": 1.0,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -73,7 +36,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 126,
+   "l0": 113,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -89,10 +52,10 @@
  ],
  "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "813c0005e8504ccf09e941ad5e5ea55697e2e086b32be7bccc98ac1ddd37fc5b",
-  "l0": "e43106bb38e86aa29de9ddfc3fd1b07b2972627e177c69c1848997c9ce81d71a",
-  "argmap": "0b5da5cd5adf0e3f3e2f3bfd03542d42efcba26304ae603f683aa9ef5a5c49a4",
-  "l2": "f643bc72603b022a4bc182ebbd90b17636f23f25a82250a92f57ef7cc4a5f1e2",
+  "t1": "81bb428d2d95c9029f940852dbc425de5324c749462d3ba76235fe23e2999d07",
+  "l0": "31a2770518c648da9253130d99e53b470b3d4e8efe547fda72329f1204a3513a",
+  "argmap": "b3f625c664d3306788fced135a0e10fe90820af57637a11175bb3b470f607d6c",
+  "l2": "c23b392f10598bc9bb9855fc365165456857ef8423a6b3dcf77682e68f201883",
   "c1": "11243aa84af71a21dcfcba21ff8f90b048fd29e735f0fbf289ddf70293f95615"
  },
  "lineage": {

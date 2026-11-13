@@ -3,7 +3,12 @@
  "song": "kul-p17",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v404 ratio=0.892",
+  "ALIGN_NODISP v406 ratio=0.831",
+  "ALIGN_NODISP v407 ratio=0.878",
+  "ALIGN_NODISP v408 ratio=0.835"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "b088fb2444502ba0",
@@ -20,19 +25,19 @@
   "sub090": {
    "404": {
     "ratio": 0.892,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.974)"
+    "disposition": null
    },
    "406": {
     "ratio": 0.831,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.831 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)"
+    "disposition": null
    },
    "407": {
     "ratio": 0.878,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
+    "disposition": null
    },
    "408": {
     "ratio": 0.835,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.835 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.962)"
+    "disposition": null
    }
   }
  },
@@ -65,9 +70,12 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v404",
+  "fix: word-order/gloss vs source for v406",
+  "fix: word-order/gloss vs source for v407",
+  "fix: word-order/gloss vs source for v408"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
   "t1": "93690d1b9d98f99368f09628c2f651dce54ab4f5e42fd4da51842866cbc21836",
   "l0": "7f0672a72ca190fea351b43b90d344c240bb878a038a604450e90fa68ab40883",

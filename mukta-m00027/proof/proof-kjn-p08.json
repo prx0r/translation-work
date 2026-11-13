@@ -3,7 +3,12 @@
  "song": "kjn-p08",
  "work": "mukta-m00027",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v178 ratio=0.889",
+  "ALIGN_NODISP v179 ratio=0.884",
+  "ALIGN_NODISP v195 ratio=0.894",
+  "ALIGN_NODISP v197 ratio=0.897"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "8ba957f5b3d052cb",
@@ -13,22 +18,26 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 125
+  "tokens": 124
  },
  "align": {
   "min_ratio": 0.884,
   "sub090": {
+   "178": {
+    "ratio": 0.889,
+    "disposition": null
+   },
    "179": {
     "ratio": 0.884,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)"
+    "disposition": null
    },
    "195": {
     "ratio": 0.894,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.966)"
+    "disposition": null
    },
    "197": {
     "ratio": 0.897,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
+    "disposition": null
    }
   }
  },
@@ -49,7 +58,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 125,
+   "l0": 124,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -61,14 +70,17 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v178",
+  "fix: word-order/gloss vs source for v179",
+  "fix: word-order/gloss vs source for v195",
+  "fix: word-order/gloss vs source for v197"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "ee2eab6d5e2cb63085b6309b48e702221e6e4abf5cc8c7c1320e9d5bd9e5ac0f",
-  "l0": "b582ab007e181914167df5550dd2a9ae431108ac898f7e67525945d4571b9e28",
-  "argmap": "307ec070ccd032e1bdfb7b1e2088ce49882324c0ec017224fe0cb3e693a53020",
-  "l2": "18a40e8c1210c8eb5727fc99dca2c829f6cd4848f5e259a25daf89c60d2bbe15",
+  "t1": "3c61a402a4a933ab278bfdadd8c8b3b4299493ea262e4810a3bd7eb49c4117f9",
+  "l0": "b027abb4403b746a7ef1a0e0bab0063bce82a0b2d1edeaa519a1b95e3b6f26bd",
+  "argmap": "8d244a749d95199dfd200005d1bb80f21f2dd424a80c8300b090db081ba48943",
+  "l2": "f777a717b26489dfc3f318c423d07e50a6804af741585ab61fafe25d745a4a38",
   "c1": "3f6a53b39c10051a8019f12f60f8282940f33a6834c5d3ced77848d640508f0c"
  },
  "lineage": {

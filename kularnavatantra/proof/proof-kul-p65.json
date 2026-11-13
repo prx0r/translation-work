@@ -3,7 +3,14 @@
  "song": "kul-p65",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v1602 ratio=0.894",
+  "ALIGN_NODISP v1603 ratio=0.894",
+  "ALIGN_NODISP v1610 ratio=0.790",
+  "ALIGN_NODISP v1614 ratio=0.889",
+  "ALIGN_NODISP v1615 ratio=0.860",
+  "ALIGN_NODISP v1623 ratio=0.854"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "5f3ea6106abe6bf3",
@@ -20,27 +27,27 @@
   "sub090": {
    "1602": {
     "ratio": 0.894,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
+    "disposition": null
    },
    "1603": {
     "ratio": 0.894,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.936)"
+    "disposition": null
    },
    "1610": {
     "ratio": 0.79,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.79 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.787)"
+    "disposition": null
    },
    "1614": {
     "ratio": 0.889,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.889 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)"
+    "disposition": null
    },
    "1615": {
     "ratio": 0.86,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.86 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.87)"
+    "disposition": null
    },
    "1623": {
     "ratio": 0.854,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)"
+    "disposition": null
    }
   }
  },
@@ -73,9 +80,14 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v1602",
+  "fix: word-order/gloss vs source for v1603",
+  "fix: word-order/gloss vs source for v1610",
+  "fix: word-order/gloss vs source for v1614",
+  "fix: word-order/gloss vs source for v1615",
+  "fix: word-order/gloss vs source for v1623"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
   "t1": "d3477b229517e0a639e39c0342a266297d4621e93c34c676b1761298eea59ce6",
   "l0": "50a8a893b13fa9b41e9220dcad6198f8a3dec23f9d55bb46925a5406e112daa1",

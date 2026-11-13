@@ -3,7 +3,13 @@
  "song": "kul-p55",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v1354 ratio=0.847",
+  "ALIGN_NODISP v1358 ratio=0.882",
+  "ALIGN_NODISP v1360 ratio=0.851",
+  "ALIGN_NODISP v1362 ratio=0.897",
+  "ALIGN_NODISP v1363 ratio=0.871"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "c16f06ca4337dc11",
@@ -13,30 +19,30 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 162
+  "tokens": 161
  },
  "align": {
   "min_ratio": 0.847,
   "sub090": {
    "1354": {
     "ratio": 0.847,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.847 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
+    "disposition": null
    },
    "1358": {
     "ratio": 0.882,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.882 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)"
+    "disposition": null
    },
    "1360": {
     "ratio": 0.851,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.851 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
+    "disposition": null
    },
    "1362": {
     "ratio": 0.897,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.978)"
+    "disposition": null
    },
    "1363": {
     "ratio": 0.871,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
+    "disposition": null
    }
   }
  },
@@ -57,7 +63,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 162,
+   "l0": 161,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -69,14 +75,18 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v1354",
+  "fix: word-order/gloss vs source for v1358",
+  "fix: word-order/gloss vs source for v1360",
+  "fix: word-order/gloss vs source for v1362",
+  "fix: word-order/gloss vs source for v1363"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "667a5f25dc25e786af14c46cb5dd9a88da703edf4687f212d4543d2bc3e4f5b9",
-  "l0": "fe60d58e1adf9d266c380f826bc8b59e2738340960859fcff1baf5aa1738ea4d",
-  "argmap": "acea65261f3e06243b69e0b80fcb7d9ed6bab1b0762dec642f3db1b1d995beaf",
-  "l2": "667efd6a15802047d5fa886a70e3bde5317d545186bbb5bfe8841c5921807a96",
+  "t1": "4af077d41cdf6bf436e8f817d3b8e9d6a0b9abfcbef1135ce274b218c8788953",
+  "l0": "f9e6b85601fe3eb8bd9c9ed10adc0539f64b287852560400928f92aad388add7",
+  "argmap": "49cdb55de8499efecda1eb741889e0736e2406b533129e038a811456fffc1b6c",
+  "l2": "0a19a54f21746025137cf334c2fdcc531b7621ff3d91f4ab2c9981fa1a70bfd7",
   "c1": "96457dfdb75812370fdbbe8fcb264931d3a8f07133d88e942b4fcf8f01d4e6d8"
  },
  "lineage": {

@@ -3,7 +3,9 @@
  "song": "kul-p30",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v732 ratio=0.880"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "0415edd3df875880",
@@ -20,7 +22,7 @@
   "sub090": {
    "732": {
     "ratio": 0.88,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.872)"
+    "disposition": null
    }
   }
  },
@@ -53,9 +55,9 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v732"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
   "t1": "59d58570855f7a7163551bfa524a3ee408fac43a078caff5a9be22b7cf0427d7",
   "l0": "daa3480166f71552b92f470c45b72478fc4d7e7c1fbdfae56f9f6c31c7115ab6",

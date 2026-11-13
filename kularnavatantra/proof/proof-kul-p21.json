@@ -13,10 +13,10 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 121
+  "tokens": 120
  },
  "align": {
-  "min_ratio": 0.949,
+  "min_ratio": 0.917,
   "sub090": {}
  },
  "c1_l2_shared": [],
@@ -36,7 +36,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 121,
+   "l0": 120,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -52,10 +52,10 @@
  ],
  "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "44a6a35bd92547918f40d61cdc5aec2d10f0f7e1b7dd4e391fbfa83f27a547e4",
-  "l0": "5fe4d4a5920fe62336b304cb58ce88561a30fa7a2ca84c3c2ddafda03040d79f",
-  "argmap": "888c0cbf8a96a11e8a32e07db6d7cf992f0c4c0984e1e47f7032776c575f81b0",
-  "l2": "b7a6db2392f657ee23843b815fdf7076ccdf70047108a731e3590926702e4236",
+  "t1": "048422d3b136f4f2e88f054155d5d117ff7e1e0089aeda0989e4b3948a7c66a3",
+  "l0": "cf355db059a5efaa9cd5115383cd0d1774a922fa8af7b7399cbba8ad05b5c649",
+  "argmap": "8f684d941ce9788c1e7fee0660b90921010abe20fe653c2d76e613a45e617ad2",
+  "l2": "8da21acd8581958419023c3c4f06d1d58827172b70dd573c67b69d1a39823e15",
   "c1": "48d088de23b5291da3bc36087eacf682e904ea549a5f0b1c8bc32cae47b804d6"
  },
  "lineage": {

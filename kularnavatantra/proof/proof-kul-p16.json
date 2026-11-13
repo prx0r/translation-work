@@ -3,7 +3,9 @@
  "song": "kul-p16",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v378 ratio=0.833"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "d26af21a88fe4948",
@@ -13,11 +15,16 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 109
+  "tokens": 107
  },
  "align": {
-  "min_ratio": 0.937,
-  "sub090": {}
+  "min_ratio": 0.833,
+  "sub090": {
+   "378": {
+    "ratio": 0.833,
+    "disposition": null
+   }
+  }
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -36,7 +43,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 109,
+   "l0": 107,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -48,14 +55,14 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v378"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "38ce7ee469ddf1a4eecdad6eb8c5853e3c5096bf1ef591acf05a06e1a1d1e62a",
-  "l0": "4f423ac42218bb3f6ffd2376b5104ffc33f69cf9183608e2ac511771177b6e91",
-  "argmap": "d4630bc40a955ffe34fdb0fa4164ca5c9038c2b051c2cb9e3f75aa6f0f34e4a6",
-  "l2": "9c69ad508a0fb51c9ae8c6cda035927f26fb3aa78f2346ff79e32eb6bc27374a",
+  "t1": "b767475197b19eea209d28afde3ca6490c0c56d63749c7bc6ce9ce9888046b82",
+  "l0": "91c23e12ebabfba5ac8e8b625ff0b0112cbaad3761e56ce64ebbb3470de5bc2c",
+  "argmap": "f6db23e1658b1e3cb24ab356dbcd0d941309ec41ea92b43d533221b6b81601b5",
+  "l2": "892030e42581a5d42aa175cac0dc87d4963c19dcc4b258c79a1bcbe645b93692",
   "c1": "e78da8f3c9b6b64547f746ad02c58a05acad6d9a54004ef722fe90b64e74ca28"
  },
  "lineage": {

@@ -13,16 +13,11 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 91
+  "tokens": 90
  },
  "align": {
-  "min_ratio": 0.866,
-  "sub090": {
-   "1468": {
-    "ratio": 0.866,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.866 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.854)"
-   }
-  }
+  "min_ratio": 0.919,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -41,7 +36,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 91,
+   "l0": 90,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -57,10 +52,10 @@
  ],
  "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "587ee2e7f84de13eb1cb0dbfec83bd6caf6bcc6d6043b21d812a358d0e796e9a",
-  "l0": "7ddc00c5da2df00259e318ed8506af39654faf6da38c785d0b5eac539be4eab4",
-  "argmap": "30c48e668e4ededdcdd54b3166d2e8ef7ad21265e3977bad08b89b347711cf12",
-  "l2": "feb8ac715e52777e4706d28cfc7a6a65bc8c57022fa15a90534f44a14e678eb6",
+  "t1": "e36cb6f75188f5ff07d94aa125202019646fe423b0adaa46fe1c9677bd1beb53",
+  "l0": "d666c02bfbc9e069fd88165bc35f7abb763c3db9852f2f04e4baed0cb8564c0d",
+  "argmap": "0fb4af6f395a04eeec8054277342fd36b2353e489988277c70d7cf514b008361",
+  "l2": "8bab32bdcf4bd2a1865e9b34aa537a2828c4a35c814c3026c782b9b47e31e395",
   "c1": "9bc4e1a0d8aaaffa1bef07c8ac97954e88379f6e42d61baec400db0441787c1a"
  },
  "lineage": {

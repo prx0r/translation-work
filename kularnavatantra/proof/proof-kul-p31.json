@@ -3,7 +3,9 @@
  "song": "kul-p31",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v772 ratio=0.866"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "3587bb3aeb37d819",
@@ -13,14 +15,14 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 115
+  "tokens": 114
  },
  "align": {
   "min_ratio": 0.866,
   "sub090": {
    "772": {
     "ratio": 0.866,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.866 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.861)"
+    "disposition": null
    }
   }
  },
@@ -41,7 +43,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 115,
+   "l0": 114,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -53,14 +55,14 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v772"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "8110f0d4be1940ba91775381fd2480582d5be4f99d5db75a4b6bdad3182917ea",
-  "l0": "ffc1a7648c5185f5bd7e1680445debf2f19534917fefd34488b807ebb6d126ca",
-  "argmap": "866b0277556d0c46a49a34f70af8d603ace20639d8240dced0eec6818fd3704a",
-  "l2": "26c213b2960933ed6904337ff582b97f6e2174c6b87ac2bdc9db2f9c7140a378",
+  "t1": "1b4ad9d4c1470876da9b0e337c0e74d249de6f08998b581b731bf0769f3b196d",
+  "l0": "30f0dc4239abf7dabcc7c9e811bce9244d45a2224d1fc7cd89cc8acd0121fa9e",
+  "argmap": "d5e59e937f58abff487b6691c3e7bc6af40db09e8230cb7767bc40536104eb6b",
+  "l2": "942d721cd30aa58c020e6051f6ae75513267a5fb38ac6ac85b7a60ee1c795912",
   "c1": "15bdaada7cf9382724b377c50c11b1ece9b0765318cb0fb3fa8c185d300c7bf2"
  },
  "lineage": {

@@ -3,7 +3,10 @@
  "song": "kjn-p09",
  "work": "mukta-m00027",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v202 ratio=0.892",
+  "ALIGN_NODISP v203 ratio=0.850"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "223a676d4e9b9465",
@@ -20,11 +23,11 @@
   "sub090": {
    "202": {
     "ratio": 0.892,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.883)"
+    "disposition": null
    },
    "203": {
     "ratio": 0.85,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.85 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.826)"
+    "disposition": null
    }
   }
  },
@@ -57,9 +60,10 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v202",
+  "fix: word-order/gloss vs source for v203"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
   "t1": "970df2490fbbb6f65058ee3bc9a410db3a6347602112221d71b385d44645f645",
   "l0": "65e3acbd0184a0162f461dec3267d6b1c52d9a41c6bc76109e1c316e8aca0312",

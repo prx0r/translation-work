@@ -3,7 +3,10 @@
  "song": "kul-p12",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v289 ratio=0.886",
+  "ALIGN_NODISP v294 ratio=0.857"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "c2d3e015374337b5",
@@ -13,22 +16,18 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 138
+  "tokens": 136
  },
  "align": {
-  "min_ratio": 0.804,
+  "min_ratio": 0.857,
   "sub090": {
-   "278": {
-    "ratio": 0.804,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.804 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.796)"
-   },
    "289": {
     "ratio": 0.886,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.882)"
+    "disposition": null
    },
    "294": {
     "ratio": 0.857,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.857 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)"
+    "disposition": null
    }
   }
  },
@@ -49,7 +48,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 138,
+   "l0": 136,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -61,14 +60,15 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v289",
+  "fix: word-order/gloss vs source for v294"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "030d2ceb3bd0667a18972c7e73b15c4dd6c45c49c7adbc56581251e17606d01c",
-  "l0": "297369cecf6acb3334cde46b612e96921bd467c96354d6cc28ec1ef31ea95f72",
-  "argmap": "9fffc92464918f9d46d9c05f584274b42da321c53e368e2dd6ba10d6cb17b0bd",
-  "l2": "c0dc9322d5cd5e04a110ea1a5db709d0f7ec1b9dfffc62e7b03a82ff20875fbf",
+  "t1": "df950e1402e31c8dd2b738ae95e637baa5eda67e57df5636a62233d7382b1184",
+  "l0": "ea43b03e409aa94e28d40841055b135224e43e471e5b1b4456720d0e9239760b",
+  "argmap": "860c34d481db659e3ed6da30f67740afb414b74cd8e4e5fc1ac51735699a92f9",
+  "l2": "f23c031b98f16a017841e69f6b61a1a4180cd4597771017772c294ad3eca0c0e",
   "c1": "5036d3bd471e41c60eea180788ec12e390facb779462e579d4593c8be24c6096"
  },
  "lineage": {

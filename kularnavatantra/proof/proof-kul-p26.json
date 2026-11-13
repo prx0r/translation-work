@@ -3,7 +3,9 @@
  "song": "kul-p26",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v648 ratio=0.854"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "56ca26394a29c6b6",
@@ -20,7 +22,7 @@
   "sub090": {
    "648": {
     "ratio": 0.854,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.851)"
+    "disposition": null
    }
   }
  },
@@ -53,9 +55,9 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v648"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
   "t1": "b1fc9314c1ae4d3e4d3649e2137a34535510e3af7c858e64feabbd3db8285cce",
   "l0": "4fa230a8dbc2f9ec7a943c8bfaa359b339bfdd808a9780d21788a3db44d7fe40",

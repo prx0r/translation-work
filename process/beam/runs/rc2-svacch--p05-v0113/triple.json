@@ -1,0 +1,595 @@
+{
+ "song": "sva-p05",
+ "items": [
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "itthaṃbhūta",
+     "gloss": "thus-become",
+     "grounds": "bahuvrīhi compound describing a state or quality",
+     "morph": "compound"
+    },
+    {
+     "surface": "lakṣaṇe",
+     "gloss": "in-mark",
+     "grounds": "locative indicating the characteristic or defining mark",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caitāḥ",
+     "gloss": "and-these",
+     "grounds": "demonstrative pronoun referring to previously mentioned feminine entities",
+     "morph": "pron.nom.pl.f"
+    },
+    {
+     "surface": "tṛtīyāḥ",
+     "gloss": "third",
+     "grounds": "ordinal adjective qualifying the subject",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "tṛtīyāḥ",
+     "gloss": "third",
+     "grounds": "repeated ordinal adjective, possibly for emphasis or grammatical specification",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "tṛtīyāḥ",
+     "gloss": "third",
+     "grounds": "repeated ordinal adjective, possibly for emphasis or grammatical specification",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "What defining characteristic identifies these entities as belonging to the third category?",
+   "premises": [
+    "The entities are described as thus-become in their mark",
+    "The demonstrative refers to specific feminine entities",
+    "The ordinal third is repeatedly applied to them"
+   ],
+   "inference": "These entities are identified as the third group by their specified characteristic",
+   "uncertainties": [
+    "The reason for the triple repetition of tṛtīyāḥ is unclear"
+   ],
+   "plain_english": "These, having such a characteristic, are the third ones."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "huḍuṅkāraḥ",
+     "gloss": "huḍuṅ-sound",
+     "grounds": "onomatopoeic ritual utterance or its designation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraḥ",
+     "gloss": "making",
+     "grounds": "noun indicating the act or sound of making",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "huḍu",
+     "gloss": "huḍu",
+     "grounds": "onomatopoeic syllable forming part of the utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraḥ",
+     "gloss": "utterance",
+     "grounds": "noun indicating the act or sound of uttering",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the ritual sound huḍuṅkāra analyzed into its constituent elements?",
+   "premises": [
+    "The term huḍuṅkāraḥ names a specific sound",
+    "The element kāraḥ denotes making or utterance",
+    "The syllable huḍu is identified as a component"
+   ],
+   "inference": "The sound huḍuṅkāra is explained as the utterance composed of huḍu and kāra",
+   "uncertainties": [
+    "The exact ritual function of this sound is not specified here"
+   ],
+   "plain_english": "Huḍuṅkāra is the utterance made of 'huḍu' and 'kāra'."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "absolutive indicating a prior action",
+     "morph": "abs.(√kṣip)"
+    },
+    {
+     "surface": "vajrasaṃsthānena",
+     "gloss": "with-vajra-form",
+     "grounds": "instrumental describing the manner or shape used",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "of-fire-pit",
+     "grounds": "genitive indicating the object whose quality is affected",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dāḍharyaṃ",
+     "gloss": "firmness",
+     "grounds": "abstract noun denoting solidity or strength",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janayet",
+     "gloss": "should-produce",
+     "grounds": "optative expressing a prescribed action",
+     "morph": "3.sg.opt.act.(√jan)"
+    }
+   ],
+   "question": "What action should be performed to produce firmness in the fire pit?",
+   "premises": [
+    "An action of throwing is performed first",
+    "The action is done with a vajra-like form",
+    "Firmness of the fire pit is the intended result"
+   ],
+   "inference": "One should produce firmness in the fire pit by throwing in a vajra-shaped manner",
+   "uncertainties": [
+    "What is thrown is not explicitly stated"
+   ],
+   "plain_english": "Having thrown in a vajra-like form, one should produce firmness in the fire pit."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "nivīghnaṃ",
+     "gloss": "without-obstacles",
+     "grounds": "adjective describing the desired state of the house",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "gṛhaṃ",
+     "gloss": "house",
+     "grounds": "object to be made unobstructed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃpādayitum",
+     "gloss": "to-accomplish",
+     "grounds": "infinitive expressing purpose",
+     "morph": "inf.(√pad with sam)"
+    },
+    {
+     "surface": "saṃpādayitum",
+     "gloss": "to-accomplish",
+     "grounds": "repeated infinitive, possibly for emphasis or completion",
+     "morph": "inf.(√pad with sam)"
+    }
+   ],
+   "question": "What is the intended purpose of making the house free from obstacles?",
+   "premises": [
+    "The house is described as without obstacles",
+    "The infinitive expresses the goal of accomplishing",
+    "The accomplishment is repeated for emphasis"
+   ],
+   "inference": "The purpose is to fully accomplish making the house unobstructed",
+   "uncertainties": [
+    "The specific ritual means for accomplishing this are not stated"
+   ],
+   "plain_english": "To accomplish making the house free from obstacles."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable used in mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmāsanāya",
+     "gloss": "to-brahma-seat",
+     "grounds": "dative indicating the recipient of the offering or salutation",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "indeclinable expressing homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative prescribing the ritual act",
+     "morph": "3.sg.opt.act.(√dā)"
+    }
+   ],
+   "question": "What mantra formula should be offered to the seat of Brahma?",
+   "premises": [
+    "The sacred syllable om begins the formula",
+    "The salutation is directed to the Brahma-seat",
+    "The act of giving or offering is prescribed"
+   ],
+   "inference": "One should offer the salutation 'oṃ brahmāsanāya namaḥ'",
+   "uncertainties": [],
+   "plain_english": "One should offer: 'Om, salutation to the seat of Brahma.'"
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding to the previous instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable used in mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahman",
+     "gloss": "o-brahman",
+     "grounds": "vocative addressing the deity or principle",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "saṃnihito",
+     "gloss": "present",
+     "grounds": "adjective requesting presence",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative requesting the state of being present",
+     "morph": "2.sg.imp.act.(√bhū)"
+    },
+    {
+     "surface": "namaste",
+     "gloss": "salutation-to-you",
+     "grounds": "formula of homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "application",
+     "grounds": "noun indicating the ritual usage",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual formula is applied here to invoke the presence of Brahman?",
+   "premises": [
+    "The context is specified as here",
+    "Brahman is addressed and asked to be present",
+    "The formula is identified as a ritual application"
+   ],
+   "inference": "The application here is the formula 'oṃ brahman saṃnihito bhava namaste'",
+   "uncertainties": [],
+   "plain_english": "And here the application is: 'Om, O Brahman, be present; salutation to you.'"
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "āhvāna",
+     "gloss": "invocation",
+     "grounds": "first member of compound indicating the type of mantra",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantraṇa",
+     "gloss": "addressing",
+     "grounds": "second member of compound indicating addressing",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhaktyā",
+     "gloss": "with-case-ending",
+     "grounds": "instrumental indicating the grammatical form used",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaste",
+     "gloss": "salutation-to-you",
+     "grounds": "formula of homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb indicating general applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "application",
+     "grounds": "noun indicating ritual usage",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the salutation formula be applied in all invocation contexts?",
+   "premises": [
+    "Invocation and addressing use a specific case ending",
+    "The salutation 'namaste' comes afterwards",
+    "This application is valid everywhere"
+   ],
+   "inference": "In all invocations, after addressing with the proper case ending, one should use 'namaste'",
+   "uncertainties": [
+    "The specific case ending intended is not named explicitly"
+   ],
+   "plain_english": "In invocation and addressing, using the appropriate case ending, one should afterwards apply 'namaste' everywhere."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of remembrance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anusmaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating continuous recollection",
+     "morph": "m.nom.sg.pres.part.act.(√smṛ with anu)"
+    },
+    {
+     "surface": "tatsattā",
+     "gloss": "its-being",
+     "grounds": "compound referring to the existence or presence of that mantra",
+     "morph": "compound"
+    },
+    {
+     "surface": "samāviṣṭaḥ",
+     "gloss": "absorbed",
+     "grounds": "past participle indicating immersion",
+     "morph": "m.nom.sg.past.part.(√viś with sam-ā)"
+    },
+    {
+     "surface": "samāviṣṭaḥ",
+     "gloss": "absorbed",
+     "grounds": "repeated participle for emphasis",
+     "morph": "m.nom.sg.past.part.(√viś with sam-ā)"
+    }
+   ],
+   "question": "What inner state arises from continuously remembering the mantra?",
+   "premises": [
+    "The practitioner remembers the mantra",
+    "The being of that mantra is present",
+    "Absorption is described as the resulting state"
+   ],
+   "inference": "Remembering the mantra leads to being fully absorbed in its being",
+   "uncertainties": [],
+   "plain_english": "Remembering the mantra, one becomes fully absorbed in its being."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "agnim",
+     "gloss": "fire",
+     "grounds": "object to be connected or related",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or specification marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarasthaṃ",
+     "gloss": "situated-north",
+     "grounds": "adjective indicating location",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kākākṣivat",
+     "gloss": "like-crow-eye",
+     "grounds": "comparative adverb indicating simultaneous connection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb indicating present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbandhyam",
+     "gloss": "to-be-connected",
+     "grounds": "gerundive indicating necessity of connection",
+     "morph": "adj.acc.sg.n.gerundive.(√bandh with sam)"
+    }
+   ],
+   "question": "How should the northern fire be connected in this ritual context?",
+   "premises": [
+    "Fire is specified as situated in the north",
+    "The connection is likened to a crow's eye",
+    "The connection must also be made here"
+   ],
+   "inference": "The northern fire should be connected here in the manner of a crow's eye",
+   "uncertainties": [
+    "The precise technical meaning of kākākṣivat in this context is uncertain"
+   ],
+   "plain_english": "The fire situated in the north should also be connected here, like a crow's eye."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "parāmṛtāpādana",
+     "gloss": "supreme-nectar-bestowing",
+     "grounds": "compound describing the nature of the worship",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "noun indicating the character or nature",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "object of the prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive indicating whose worship is meant",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "optative prescribing the ritual act",
+     "morph": "3.sg.opt.act.(√kṛ)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "noun indicating the intended sense or purport",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the essential nature of the worship that should be performed for this deity?",
+   "premises": [
+    "The worship is characterized as bestowing supreme nectar",
+    "This form of worship is prescribed for this one",
+    "The statement gives the intended meaning"
+   ],
+   "inference": "One should perform worship of this one in the form of bestowing supreme nectar",
+   "uncertainties": [],
+   "plain_english": "The meaning is that one should perform his worship in the form of bestowing supreme nectar."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "rakṣārtham",
+     "gloss": "for-protection",
+     "grounds": "compound expressing purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "ūrdhvamukhaiḥ",
+     "gloss": "with-upward-facing",
+     "grounds": "instrumental describing the orientation of the grasses",
+     "morph": "adj.ins.pl.m"
+    },
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-darbha-grasses",
+     "grounds": "instrumental indicating the material used",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing the ritual act",
+     "morph": "3.sg.opt.act.(√as with ni)"
+    },
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "noun restating the purpose or result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual placement is prescribed to ensure protection in this context?",
+   "premises": [
+    "The purpose is protection",
+    "Upward-facing darbha grasses are used",
+    "The act of placing is prescribed"
+   ],
+   "inference": "One should place upward-facing darbha grasses for protection",
+   "uncertainties": [],
+   "plain_english": "For protection, one should place upward-facing darbha grasses; this is protection."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "kaṅkaṇa",
+     "gloss": "bracelet",
+     "grounds": "first member of compound naming the object",
+     "morph": "compound"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "binding",
+     "grounds": "noun indicating the act of tying",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaṅkaṇa",
+     "gloss": "bracelet",
+     "grounds": "repeated first member of compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "binding",
+     "grounds": "repeated noun indicating the act of tying",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual act is designated by the term kaṅkaṇa-bandha in this passage?",
+   "premises": [
+    "The term kaṅkaṇa refers to a bracelet or wristlet",
+    "The term bandha refers to binding or tying",
+    "The compound is repeated"
+   ],
+   "inference": "The passage designates the act of tying the protective bracelet",
+   "uncertainties": [
+    "The repetition may indicate emphasis or a specific ritual stage"
+   ],
+   "plain_english": "The binding of the bracelet; the binding of the bracelet."
+  }
+ ]
+}

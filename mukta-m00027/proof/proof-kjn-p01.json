@@ -3,7 +3,12 @@
  "song": "kjn-p01",
  "work": "mukta-m00027",
  "date": "2026-11-01",
- "blocking": [],
+ "blocking": [
+  "ALIGN_NODISP v10 ratio=0.881",
+  "ALIGN_NODISP v15 ratio=0.886",
+  "ALIGN_NODISP v19 ratio=0.894",
+  "ALIGN_NODISP v20 ratio=0.899"
+ ],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "6066a21681f0db37",
@@ -13,26 +18,26 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 133
+  "tokens": 132
  },
  "align": {
   "min_ratio": 0.881,
   "sub090": {
    "10": {
     "ratio": 0.881,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.881 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.93)"
+    "disposition": null
    },
    "15": {
     "ratio": 0.886,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.93)"
+    "disposition": null
    },
    "19": {
     "ratio": 0.894,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.897)"
+    "disposition": null
    },
    "20": {
     "ratio": 0.899,
-    "disposition": "sandhi/orthographic joints only: proof ratio 0.899 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.915)"
+    "disposition": null
    }
   }
  },
@@ -53,7 +58,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 133,
+   "l0": 132,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -65,14 +70,17 @@
   }
  },
  "needs": [
-  "human-review"
+  "fix: word-order/gloss vs source for v10",
+  "fix: word-order/gloss vs source for v15",
+  "fix: word-order/gloss vs source for v19",
+  "fix: word-order/gloss vs source for v20"
  ],
- "deterministic_gate": "PASS",
+ "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "65fbebf48d584d84288804fe0b3c277d3660332d4e14553890a4fd1c05719057",
-  "l0": "5c0028975f933fb2dc744aa0cad524990f96e4e157c79e1e036330f971d5eb2f",
-  "argmap": "5396a207ae3229a8b1b5a089410581fbbfb7f9fcd84e9985334b9040ec000c2f",
-  "l2": "3e7bd061aaf122e12d3935d923854f1b8185cf89f4df81de1a9dd449bf23fc26",
+  "t1": "10d2e2fab8190d236945d3554c43533a09c3c51777232bd93474fa0ca13255d9",
+  "l0": "06dc5436a6b38af7b46561ab61d5d230c07b3680f5f76db15410c934a6484164",
+  "argmap": "d358442621973695ebbd4496d1658af5eebe1b959585acdb7ad37b522a438ee4",
+  "l2": "7d413d24f4fc62d04e8c1864c3b946766f53ad441726b741a430d75f9423b225",
   "c1": "b7f005b2a1427855c19e61f0b4dfb4ba18b630c19be7311d11bcf7363e10a3a2"
  },
  "lineage": {
