@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[in-actions](kriyāsu) [if](yadi) [not](na) [you](tvaṃ) [would-be](syā) [guru+form+bearing](gururūpadharā) [always](sadā)
+[in-actions](kriyāsu) [if](yadi) [not](na) [you](tvaṃ) [would-be](syā) [guru+form+holding](guru+rūpa+dharā) [always](sadā)
 
 ## mukta-m0-p68-v1677
-[page](p.) [210](210)) [venerable](gurvī)
+[heavy](gurvī)
 
 ## mukta-m0-p68-v1678
 [they-would-carry](vaheyuḥ) [with-mind](cetasā) [of-her](tasyā) [indeed](eva) [would-be](syāt) [not](na) [compassion](dayā) [if](yadi)
@@ -14,64 +14,64 @@
 [death](mṛtyuḥ)
 
 ## mukta-m0-p68-v1680
-[death](mṛtyuḥ) [who](yā) [she](sā) [auspicious](śivā) [body+mind+death+giving](dehamānamṛtyupradā) [be](astu) [to-us](naḥ)
+[death](mṛtyuḥ) [who](yā) [she](sā) [auspicious](śivā) [body+measure+death+giver](deha+māna+mṛtyu+pradā) [be](astu) [to-us](naḥ)
 
 ## mukta-m0-p68-v1681
-[pestilence](mārī)
+[Mārī](mārī)
 
 ## mukta-m0-p68-v1682
-[pestilence+goddess](mārīśvarī) [supreme+satisfaction](paramatoṣam) [this](iya) [may-give](dadātu)
+[Mārī+sovereign](mārī+īśvarī) [supreme+satisfaction](parama+toṣam) [this](iya) [may-give](dadātu)
 
 ## mukta-m0-p68-v1683
 [skilled](viśāradā)
 
 ## mukta-m0-p68-v1684
-[as-long-as](dyāvat) [pleased](prasannā) [not](na) [skilled](viśāradā) [you](tvam)
+[as-long-as](yāvat) [pleased](prasannā) [not](na) [skilled](viśāradā) [you](tvam)
 
 ## mukta-m0-p68-v1685
-[great+pestilence](mahāmārī)
+[great+Mārī](mahā+mārī)
 
 ## mukta-m0-p68-v1686
-[various+ego+afflictions](nānābhimānadurbādhāṃ) [pleased](tuṣṭā) [may-destroy](mārayatu) [surely](dhruvam)
+[various+ego+affliction](nānā+abhimāna+durbādhāṃ) [satisfied](tuṣṭā) [may-destroy](mārayatu) [surely](dhruvam)
 
 ## mukta-m0-p68-v1687
 [sleepless](vinidrā)
 
 ## mukta-m0-p68-v1688
-[is-well-served](saṃsevyate) [she](sā) [be](astu) [beneficial](hitā) [sleepless](vinidrā)
+[is-served](saṃsevyate) [she](sā) [be](astu) [beneficial](hitā) [sleepless](vinidrā)
 
 ## mukta-m0-p68-v1689
 [drowsiness](tandrā)
 
 ## mukta-m0-p68-v1690
-[singing](gāyantaḥ) [your](te) [well](sādhu) [good-ones](santo) [are-victorious](jayanti)
+[singing](gāyantaḥ) [of-you](te) [well](sādhu) [good-ones](santo) [are-victorious](jayanti)
 
 ## mukta-m0-p68-v1691
-[death+destroying](mṛtyuvināśinī)
+[death+destroyer](mṛtyu+vināśinī)
 
 ## mukta-m0-p68-v1692
-[of-the-good](satāṃ) [of-the-devoted](bhaktimatāṃ) [may-be](bhūyāt) [goddess](devī) [death+destroying](mṛtyuvināśinī)
+[of-good-ones](satāṃ) [devotion+possessing](bhakti+matāṃ) [may-be](bhūyāt) [goddess](devī) [death+destroyer](mṛtyu+vināśinī)
 
 ## mukta-m0-p68-v1693
-[moon+disk+resembling](candramaṇḍalasaṃkāśā)
+[moon+disk+resembling](candra+maṇḍala+saṃkāśā)
 
 ## mukta-m0-p68-v1694
 [in-waves](taraṅgeṣu) [as](iva) [in-bodies](deheṣu) [she](sā) [auspicious](śivā) [be](astu) [for-welfare](śivāya) [to-us](naḥ)
 
 ## mukta-m0-p68-v1695
-[moon+disk+dwelling](candramaṇḍalavāsinī)
+[moon+disk+dwelling](candra+maṇḍala+vāsinī)
 
 ## mukta-m0-p68-v1696
-[spotless](niṣkalaṅkā) [supremely](paraṃ) [full](pūrṇā) [victorious-is](jayati) [this](eṣā) [indeed](eva) [some](kācana)
+[stainless](niṣkalaṅkā) [supremely](paraṃ) [full](pūrṇā) [victorious-is](jayati) [this](eṣā) [indeed](eva) [some](kācana)
 
 ## mukta-m0-p68-v1697
-[aṇimā+etc+qualities+endowed](aṇimādiguṇopetā)
+[minuteness+etc+qualities+endowed](aṇimā+ādi+guṇa+upetā)
 
 ## mukta-m0-p68-v1698
-[aṇimā+etc+qualities+endowed](aṇimādiguṇopetā) [self+accomplished](svayaṃsiddhā) [victorious-is](jayati) [she](asau)
+[minuteness+etc+qualities+endowed](aṇimā+ādi+guṇa+upetā) [self+accomplished](svayaṃ+siddhā) [victorious-is](jayati) [this](asau)
 
 ## mukta-m0-p68-v1699
-[page](p.) [212](212)) [well-desiring](suspṛhā)
+[very-desirous](suspṛhā)
 
 ## mukta-m0-p68-v1700
-[may-you-be](bhaveḥ) [you](tvaṃ) [supreme+goddess](parameśānī) [helper](sahāyā) [well-desiring](suspṛhā) [not](na) [if](cet)
+[may-you-be](bhaveḥ) [you](tvaṃ) [supreme+goddess](parama+īśānī) [helper](sahāyā) [very-desirous](suspṛhā) [not](na) [if](cet)
