@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "puro",
+     "gloss": "in-front",
+     "grounds": "indeclinable indicating position ahead",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahiḥ+sthe",
+     "gloss": "outside-situated",
+     "grounds": "compound adjective describing location outside; agrees with vṛtte",
+     "morph": "compound=bahiḥ+stha; n.nom.du"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral qualifying vṛtte",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "vṛtte",
+     "gloss": "circles",
+     "grounds": "geometric figures to be drawn in the diagram",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prādeśa+sammite",
+     "gloss": "span-measured",
+     "grounds": "compound adjective indicating size equal to a prādeśa (span); agrees with vṛtte",
+     "morph": "compound=prādeśa+sammita; n.nom.du"
+    }
+   ],
+   "question": "What two circles, and of what measure, are to be placed outside in front, O goddess?",
+   "premises": [
+    "Two circles are specified as the elements to be placed.",
+    "These circles are situated outside and in front.",
+    "The circles are measured equal to a span (prādeśa)."
+   ],
+   "inference": "The ritual diagram requires two span-sized circles drawn outside in the front position.",
+   "uncertainties": [
+    "The exact reference point for 'in front' and 'outside' depends on the preceding diagrammatic context."
+   ],
+   "plain_english": "O goddess, in front, outside, there are two circles equal in measure to a span."
+  }
+ ]
+}
