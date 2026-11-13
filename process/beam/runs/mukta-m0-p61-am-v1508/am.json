@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1508,
- "question": "Which divine figures preside at Arvuda and on the Śveta river?",
+ "question": "What rule governs increases when the base measure is one hand?",
  "premises": [
-  "Cārvude locates the first site at Arvuda.",
-  "Vaśiṣṭhaś is the presiding figure there.",
-  "Śvetanadyāṃ names the second sacred site.",
-  "Manobhavaḥ is the presiding figure there."
+  "The base case is a hand-sized measure",
+  "A rule applies to the remaining cases",
+  "Increase proceeds by two fingers and one finger"
  ],
- "inference": "Vaśiṣṭha presides at Arvuda and Manobhava presides on the Śveta river.",
- "uncertainties": [],
- "plain_english": "At Arvuda is Vaśiṣṭha, and on the Śveta river is Manobhava."
+ "inference": "For a hand-sized base, remaining cases increase by two fingers and one finger",
+ "uncertainties": [
+  "Exact parsing of dyavaṅgulāṅgulavardhanāt is uncertain"
+ ],
+ "plain_english": "When the measure is one hand, the rule for the rest is increase by two fingers and by one finger."
 }

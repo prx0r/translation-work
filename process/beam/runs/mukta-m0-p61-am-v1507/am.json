@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1507,
- "question": "Which divine figures preside on the Bhāgīrathī and at Kāmpilla?",
+ "question": "What finger-based increments apply to width in the stated sequence?",
  "premises": [
-  "Bhāgīrathyāṃ names the first sacred site.",
-  "Padmagarbhaḥ is the presiding figure there.",
-  "Kāmpille names the second sacred site.",
-  "Kanakapriyaḥ is the presiding figure there."
+  "Numerical increments are given in sequence",
+  "The increments are measured in fingers",
+  "The measurement applies from the width"
  ],
- "inference": "Padmagarbha presides on the Bhāgīrathī and Kanakapriya presides at Kāmpilla.",
- "uncertainties": [],
- "plain_english": "On the Bhāgīrathī is Padmagarbha, and at Kāmpilla is Kanakapriya."
+ "inference": "The width increases by specified finger counts in sequence",
+ "uncertainties": [
+  "Reading and segmentation of ṣaḍbāṇambutripa and kṣaistu are unclear"
+ ],
+ "plain_english": "In sequence, from the width, the increase is by the stated numbers of fingers."
 }

@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1511,
- "question": "Which divine forms preside at Madrapīṭha and at Mātaṅga?",
+ "question": "What directional characteristic determines the fire-pit’s orientation here?",
  "premises": [
-  "Madrapīṭhe names the first sacred site.",
-  "Gangādharo is the presiding form there.",
-  "Mātaṅge names the second sacred site.",
-  "Tryambakaḥ is the presiding form there."
+  "The fire-pit is qualified by a directional attribute",
+  "The attribute arises from characteristic direction",
+  "This qualifies the previously stated form"
  ],
- "inference": "The Gaṅgā-bearer presides at Madrapīṭha and the three-eyed one presides at Mātaṅga.",
- "uncertainties": [],
- "plain_english": "At Madrapīṭha is the Gaṅgā-bearer, and at Mātaṅga is the three-eyed one."
+ "inference": "The fire-pit is determined by its characteristic direction",
+ "uncertainties": [
+  "Exact syntactic role without surrounding verb is compressed"
+ ],
+ "plain_english": "It should be oriented according to its characteristic direction."
 }

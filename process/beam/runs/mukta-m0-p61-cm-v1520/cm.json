@@ -3,24 +3,29 @@
  "verse": 1520,
  "rows": [
   {
-   "lemma": "dvāviṃśati",
+   "lemma": "dvau",
+   "morph": "m.nom.du",
+   "grounds": "specifies number"
+  },
+  {
+   "lemma": "etau",
+   "morph": "m.nom.du",
+   "grounds": "refers to the two seats"
+  },
+  {
+   "lemma": "bhuktimuktyarthau",
+   "morph": "bhukti+mukti+artha (compound), m.nom.du",
+   "grounds": "states ritual purposes"
+  },
+  {
+   "lemma": "viprādigṛhataḥ",
+   "morph": "vipra+ādi+gṛha (compound), m.abl.sg",
+   "grounds": "specifies source, reading compressed"
+  },
+  {
+   "lemma": "athavā",
    "morph": "(indecl.)",
-   "grounds": "numerical measure"
-  },
-  {
-   "lemma": "dhanurmānaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "extent measured in bow-lengths"
-  },
-  {
-   "lemma": "kṣetraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "sacred field or area"
-  },
-  {
-   "lemma": "paramadurlabham",
-   "morph": "n.nom.sg",
-   "grounds": "extremely rare or hard to attain"
+   "grounds": "introduces alternative"
   }
  ]
 }

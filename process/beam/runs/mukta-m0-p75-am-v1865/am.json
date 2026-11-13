@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1865,
- "question": "What completion of the recitation of one hundred and eight names is declared to the brahmin?",
+ "question": "What ritual actions must the officiant complete before making one hundred fire offerings?",
  "premises": [
-  "The speaker addresses the brahmin directly.",
-  "The statement marks the conclusion with 'thus'.",
-  "One hundred and eight names are said to have been told."
+  "Ritual purification is required.",
+  "Nyāsa placement must be completed.",
+  "One hundred offerings are prescribed."
  ],
- "inference": "The verse declares that the set of 108 names has now been communicated to the brahmin.",
- "uncertainties": [],
- "plain_english": "Thus, O brahmin, the hundred and eight names have been told to you."
+ "inference": "After sipping water and performing nyāsa, the officiant should offer one hundred oblations in the fire.",
+ "uncertainties": [
+  "The form 'asinā' is unusual for fire and may reflect a textual or lexical issue."
+ ],
+ "plain_english": "Having sipped water and performed the placements, one should offer a hundred oblations in the fire."
 }
