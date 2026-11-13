@@ -7,43 +7,43 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "pronoun referring to the supreme being",
+     "grounds": "pronoun referring to the supreme soul",
      "morph": "m.nom.sg"
     },
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "neuter adjective used adverbially",
-     "morph": "indecl."
+     "grounds": "adjective qualifying the soul",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "niṣkalaṃ",
      "gloss": "partless",
-     "grounds": "adjective describing the supreme",
-     "morph": "m.acc.sg"
+     "grounds": "adjective qualifying the soul",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "nityaṃ",
      "gloss": "eternal",
-     "grounds": "adjective describing the supreme",
-     "morph": "m.acc.sg"
+     "grounds": "adjective qualifying the soul",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "nirāmaya+nirañjanam",
-     "gloss": "free-from-disease-stainless",
-     "grounds": "compound adjective fused by sandhi",
-     "morph": "m.acc.sg"
+     "gloss": "free-from-disease+stainless",
+     "grounds": "compound adjective qualifying the soul",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "What are the defining qualities of the supreme partless eternal being?",
+   "question": "What is the true nature of the supreme soul that is partless eternal and stainless?",
    "premises": [
-    "The supreme is partless.",
-    "The supreme is eternal.",
-    "The supreme is free from disease and stainless."
+    "The supreme soul is partless.",
+    "The supreme soul is eternal.",
+    "The supreme soul is free from disease and stainless."
    ],
-   "inference": "The supreme being is described as partless, eternal, and stainless.",
+   "inference": "The supreme soul is described as partless, eternal, and stainless.",
    "uncertainties": [
-    "Exact case usage is inferred from context."
+    "The exact syntactic relation of paraṃ to saḥ is not fully explicit."
    ],
    "plain_english": "He is supreme, partless, eternal, free from disease, and stainless."
   },
@@ -53,7 +53,7 @@
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "pronoun for the jīva",
+     "grounds": "pronoun referring to the soul",
      "morph": "m.nom.sg"
     },
     {
@@ -78,38 +78,38 @@
      "surface": "tu",
      "gloss": "indeed",
      "grounds": "particle",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "saḥ",
      "gloss": "he",
-     "grounds": "pronoun resumed",
+     "grounds": "pronoun referring to haṃsa",
      "morph": "m.nom.sg"
     },
     {
      "surface": "haṃsaḥ",
      "gloss": "haṃsa",
-     "grounds": "name of the soul",
+     "grounds": "subject identified with the soul",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śakti+pudgalaḥ",
-     "gloss": "power-individual",
-     "grounds": "compound noun fused by sandhi",
+     "gloss": "power+individual",
+     "grounds": "compound describing haṃsa",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Who is the supreme jīva and what is he called?",
+   "question": "Who is the supreme soul identified as haṃsa composed of power and individual?",
    "premises": [
-    "The jīva is supreme.",
-    "The jīva is called haṃsa.",
-    "The jīva is power-individual."
+    "The soul is supreme.",
+    "The soul is identified as haṃsa.",
+    "Haṃsa is described as power plus individual."
    ],
-   "inference": "The supreme jīva is identified as haṃsa, a power-individual.",
+   "inference": "The supreme soul is identified with haṃsa, the power-individual.",
    "uncertainties": [
-    "The exact sense of parataro is comparative."
+    "The exact force of parataro as comparative is not fully resolved."
    ],
-   "plain_english": "That soul is supreme; indeed he is haṃsa, a power-individual."
+   "plain_english": "He is the soul, supreme indeed; he is haṃsa, power and individual."
   },
   {
    "verse": 109,
@@ -117,7 +117,7 @@
     {
      "surface": "samīra+pūrako",
      "gloss": "wind-filled",
-     "grounds": "compound adjective fused by sandhi",
+     "grounds": "compound adjective",
      "morph": "m.nom.sg"
     },
     {
@@ -129,25 +129,24 @@
     {
      "surface": "sarva+jīveṣu",
      "gloss": "in-all-beings",
-     "grounds": "compound locative plural",
+     "grounds": "locative plural compound",
      "morph": "m.loc.pl"
     },
     {
      "surface": "saṃsthitam",
      "gloss": "situated",
-     "grounds": "past participle",
-     "morph": "m.acc.sg"
+     "grounds": "participle describing air",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "Where is the wind-filled air situated among beings?",
+   "question": "Where is the wind-filled air situated among all beings?",
    "premises": [
     "The air is wind-filled.",
-    "The air is situated.",
-    "It is situated in all beings."
+    "The air is situated in all beings."
    ],
    "inference": "The wind-filled air is situated in all beings.",
    "uncertainties": [
-    "The participle's agreement is inferred."
+    "The exact relation of samīra+pūrako to vāyuḥ is not fully explicit."
    ],
    "plain_english": "The wind-filled air is situated in all beings."
   },
@@ -157,7 +156,7 @@
     {
      "surface": "sa",
      "gloss": "he",
-     "grounds": "pronoun for the jīva",
+     "grounds": "pronoun referring to the soul",
      "morph": "m.nom.sg"
     },
     {
@@ -169,33 +168,32 @@
     {
      "surface": "paraṃ",
      "gloss": "supreme",
-     "grounds": "neuter adjective",
-     "morph": "indecl."
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "śivo",
      "gloss": "śiva",
-     "grounds": "nominative form before sandhi",
+     "grounds": "subject complement",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nigadyate",
      "gloss": "is-called",
      "grounds": "passive verb",
-     "morph": "3.sg.pass-pres + root gad"
+     "morph": "3.sg.pass-pres + root nigad"
     }
    ],
-   "question": "What is the jīva called upon merely leaving the body?",
+   "question": "What is the soul called upon merely leaving the body?",
    "premises": [
-    "He leaves the body.",
-    "He is then called supreme.",
-    "He is called śiva."
+    "Upon merely leaving the body, he is called supreme.",
+    "He is called Śiva."
    ],
-   "inference": "Upon merely leaving the body, the jīva is called supreme śiva.",
+   "inference": "Upon merely leaving the body, the soul is called supreme Śiva.",
    "uncertainties": [
-    "The instrumental phrase is compressed."
+    "The exact scope of mātreṇa is not fully explicit."
    ],
-   "plain_english": "Upon merely leaving the body, he is called supreme śiva."
+   "plain_english": "Upon merely leaving the body, he is called supreme Śiva."
   },
   {
    "verse": 111,
@@ -203,7 +201,7 @@
     {
      "surface": "karṇa+sthaṃ",
      "gloss": "abiding-in-the-ear",
-     "grounds": "compound adjective fused by sandhi",
+     "grounds": "compound adjective",
      "morph": "m.acc.sg"
     },
     {
@@ -221,21 +219,20 @@
     {
      "surface": "pāramparya+krama+āgatam",
      "gloss": "come-down-through-tradition",
-     "grounds": "compound participle fused by sandhi",
+     "grounds": "compound participle",
      "morph": "m.acc.sg"
     }
    ],
-   "question": "What is heard abiding in the ear through tradition?",
+   "question": "What is heard abiding in the ear and come down through tradition?",
    "premises": [
-    "It abides in the ear.",
-    "It is heard.",
+    "It is heard abiding in the ear.",
     "It has come down through tradition."
    ],
-   "inference": "The teaching heard in the ear comes down through tradition.",
+   "inference": "The teaching is heard in the ear and transmitted through tradition.",
    "uncertainties": [
-    "The exact referent is context-dependent."
+    "The exact antecedent of the heard teaching is not explicit."
    ],
-   "plain_english": "O goddess, what abides in the ear is heard, having come down through tradition."
+   "plain_english": "O goddess, it is heard abiding in the ear, come down through tradition."
   },
   {
    "verse": 112,
@@ -255,31 +252,30 @@
     {
      "surface": "śrutena",
      "gloss": "heard",
-     "grounds": "past participle instrumental",
+     "grounds": "participle in instrumental",
      "morph": "m.inst.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
      "grounds": "conjunction",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "varānane",
      "gloss": "o-fair-faced-one",
-     "grounds": "vocative adjective",
+     "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What liberates through mere knowledge that is heard?",
+   "question": "What is accomplished by this mere knowledge that has been heard?",
    "premises": [
-    "It is by this.",
-    "It is mere knowledge.",
-    "It is heard."
+    "This mere knowledge is heard.",
+    "It is addressed to the fair-faced one."
    ],
-   "inference": "Liberation comes through mere heard knowledge.",
+   "inference": "The verse emphasizes accomplishment through mere heard knowledge.",
    "uncertainties": [
-    "The implied result is not stated in this verse."
+    "The main verb is omitted or implied in the verse."
    ],
    "plain_english": "By this mere knowledge, heard, O fair-faced one."
   }
