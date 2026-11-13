@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p92-v2276
-[sky](dig)+[clad-one's](vastrasya)+[for-continuance](anuvṛttyai) [she](sā) [worn](jīrṇa)+[garment](vastrā)+[became](abhavat)+[new](navā)
+[sky-clad-one's](dig)[+garment's](vastrasya)[+continuance-for](anuvṛttyai) [she](sā) [worn](jīrṇa)[+garment](vastrā)[+became](abhavat)[+new](navā)
 
 ## mukta-m0-p92-v2277
-[new](nū) [extended](ta) [feminine-nominative](nā) [ever-new](nūtanā)
+[new](nū)[+one](tanā) [ever-new](nūtanā) [fresh](nūtanā) [renewed](nūtanā)
 
 ## mukta-m0-p92-v2278
-[she](sā) [new](nūtanā)+[indeed](eva) [of-worlds](jagatāṃ) [mother](jananī) [Bhavānī](bhavānī)
+[she](sā) [new](nūtana)[+indeed](eva) [of-worlds](jagatāṃ) [mother](jananī) [bhavānī](bhavānī)
 
 ## mukta-m0-p92-v2279
-[new](nava)+[beloved](vallabhā)
+[new](nava)[+beloved](vallabhā) [new](nava)[+consort](vallabhā) [fresh](nava)[+dear-one](vallabhā) [renewed](nava)[+beloved](vallabhā)
 
 ## mukta-m0-p92-v2280
-[death](mṛtyu)+[conqueror](ñjayo) [triumphs](jayati)+[this](eṣā) [Śaṅkara's](śāṅkarī) [new](nava)+[beloved](vallabhā)
+[death](mṛtyu)[+conqueror](ñjayo) [triumphs](jayaty)[+this](eṣā) [śaṅkara's](śāṅkarī) [new](nava)[+beloved](vallabhā)
 
 ## mukta-m0-p92-v2281
-[without](a) [passion](rajāḥ) [dustless](arajāḥ) [stainless](arajāḥ)
+[without](a)[+passion](rajāḥ) [dustless](arajāḥ) [stainless](arajāḥ) [pure](arajāḥ)
 
 ## mukta-m0-p92-v2282
-[passionless](rajo)+[jāra](jāra)+[worn-out](jarjara)+[vigor](aujā) [king](rāja)+[of-kings](rājā)+[unaging](ajarā)+[unborn](arajāḥ)
+[passionless](rajo)[+jāra](jāra)[+worn](jarjara)[+vigorous](ujā) [king](rāja)[+of-kings](rājā)[+ageless](jarā')[+passionless](rajāḥ)
 
 ## mukta-m0-p92-v2283
-[pleasure](ratiḥ) [delight](ratiḥ) [love](ratiḥ) [Rati](ratiḥ)
+[delight](ratiḥ) [pleasure](ratiḥ) [love](ratiḥ) [enjoyment](ratiḥ)
 
 ## mukta-m0-p92-v2284
-[Reka](reko) [or](vā) [with](sa)+[consort](parigraho)+[also](api) [unequalled](viṣamo) [god](devo)+[incomparable](atulaṃ) [on-mountain](bhūdhare)
+[reka](reko) [or](vā) [with](sa)[+retinue](parigraho')[+even](pi) [unequal](viṣamo) [god](devo')[+incomparable](tulaṃ) [on-earth](bhūdhare)
 
 ## mukta-m0-p92-v2285
-[love](prītiḥ) [affection](prītiḥ) [joy](prītiḥ) [satisfaction](prītiḥ)
+[affection](prītiḥ) [love](prītiḥ) [joy](prītiḥ) [satisfaction](prītiḥ)
 
 ## mukta-m0-p92-v2286
-[by-all](sarvaiḥ) [love](prītir)+[here](ihā)+[let-be](astu) [with-all](sarva)+[arts](kalayā) [everywhere](sarvatra) [for-us](naḥ) [always](sarvadā)
+[by-all](sarvaiḥ) [affection](prītir)[+here](ihāstu) [with-all](sarva)[+parts](kalayā) [everywhere](sarvatra) [for-us](naḥ) [always](sarvadā)
 
 ## mukta-m0-p92-v2287
-[pleasure](rati)+[passion](rāga)+[increasing](vivarddhinī)
+[delight](rati)[+passion](rāga)[+increasing](vivarddhinī) [love](rati)[+desire](rāga)[+augmenting](vivarddhinī) [pleasure](rati)[+attachment](rāga)[+enhancing](vivarddhinī) [joy](rati)[+affection](rāga)[+promoting](vivarddhinī)
 
 ## mukta-m0-p92-v2288
-[women](lalanās)+[that](taṃ) [not](na) [take-away](haranti) [ever](jātu) [wonder](citram)
+[women](lalanās)[+that](taṃ) [not](na) [take-away](haranti) [ever](jātu) [wonder](citram)
 
 ## mukta-m0-p92-v2289
-[five](pañca)+[wind](vāta)+[course](gatir)+[divided](bhinnā)
+[five](pañca)[+wind](vāta)[+course](gatir)[+divided](bhinnā) [five](pañca)[+breath](vāta)[+movement](gatir)[+separated](bhinnā) [five](pañca)[+air](vāta)[+path](gatir)[+distinct](bhinnā) [five](pañca)[+vāta](vāta)[+state](gatir)[+split](bhinnā)
 
 ## mukta-m0-p92-v2290
-[five](pañca)+[wind](vāta)+[course](gatir)+[divided](bhinnā)+[undivided](abhinnā) [if](cet)+[not](na) [again](punar)+[fear](bhayam)
+[five](pañca)[+wind](vāta)[+course](gatir)[+divided](bhinnā)[+undivided](bhinnā) [if](cet)[+not](na) [again](punar)[+fear](bhayam)
 
 ## mukta-m0-p92-v2291
-[five](pañca)+[phlegm](śleṣmā)+[abodes](āśayā) [earth](dharā)
+[five](pañca)[+phlegm](śleṣmā)[+abodes](śayā) [earth](dharā) [five](pañca)[+mucus](śleṣmā)[+receptacles](śayā) [supporting](dharā)
 
 ## mukta-m0-p92-v2292
-[phlegm](śleṣmā)+[born-diseases](mayān) [may-remove](haratv)+[this](eṣā) [five](pañca)+[phlegm](śleṣmā)+[abodes](āśayā) [earth](dharā)
+[phlegm](śleṣmā)[+born-diseases](mayān) [may-remove](haratv)[+this](eṣā) [five](pañca)[+phlegm](śleṣmā)[+abodes](śayā) [earth](dharā)
 
 ## mukta-m0-p92-v2293
-[five](pañca)+[bile](pitta)+[possessing](vatī) [power](śaktiḥ)
+[five](pañca)[+bile](pitta)[+possessing](vatī) [power](śaktiḥ) [five](pañca)[+pitta](pitta)[+endowed](vatī) [energy](śaktiḥ)
 
 ## mukta-m0-p92-v2294
-[five](pañca)+[bile](pitta)+[possessing](vatī) [power](śaktiḥ) [bile](pitta)+[disease](āmaya)+[removing](harā)+[let-be](astu) [for-us](naḥ)
+[five](pañca)[+bile](pitta)[+possessing](vatī) [power](śaktiḥ) [bile](pittā)[+disease](maya)[+removing](harāstu) [for-us](naḥ)
 
 ## mukta-m0-p92-v2295
-[five](pañca)+[places](sthāna)+[awakening](vibodhinī)
+[five](pañca)[+places](sthāna)[+awakening](vibodhinī) [five](pañca)[+stations](sthāna)[+illuminating](vibodhinī) [five](pañca)[+centers](sthāna)[+arousing](vibodhinī) [five](pañca)[+loci](sthāna)[+revealing](vibodhinī)
 
 ## mukta-m0-p92-v2296
-[one](ekaṃ) [heart](hṛt)+[place](sthānam)+[having-resorted-to](āśritya) [five](pañca)+[places](sthāna)+[awakening](vibodhinī)
+[one](ekaṃ) [heart](hṛt)[+station](sthānam)[+having-resorted-to](āśritya) [five](pañca)[+places](sthāna)[+awakening](vibodhinī)
 
 ## mukta-m0-p92-v2297
-[menstruating-woman](udakyā) [fertile](udakyā) [watery](udakyā) [Udakyā](udakyā)
+[menstruating-woman](udakyā) [fertile-woman](udakyā) [water-bearing](udakyā) [purified-woman](udakyā)
 
 ## mukta-m0-p92-v2298
-[by-Nanda](nandena) [satisfied](tṛptā) [may-triumph](jayatād)+[Udakyā](udakyā)
+[by-nanda](nandena) [satisfied](tṛptā) [may-triumph](jayatād)[+menstruating-woman](udakyā) [by-joy](nandena) [content](tṛptā)
 
 ## mukta-m0-p92-v2299
-[p.](p.) [273)](273)) [desiring-bull](vṛṣasyantī) [lustful](vṛṣasyantī)
+[desiring-a-bull](vṛṣasyantī) [longing-for-the-bull](vṛṣasyantī) [seeking-the-male](vṛṣasyantī) [yearning-for-vṛṣa](vṛṣasyantī)
 
 ## mukta-m0-p92-v2300
-[fire](kṛśānu)+[seeded-one's](retasaś)+[mind](cetas)+[that](tat)+[how](kathaṃ) [she](sā) [may-remove](haret) [in-an-instant](kṣaṇāt)
+[of-fire](kṛśānur)[+seed's](etasaś)[+mind](cetas)[+that](tat)[+how](kathaṃ) [she](sā) [may-remove](haret) [in-an-instant](kṣaṇāt)
