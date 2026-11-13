@@ -7,7 +7,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṅguladvayam",
+"surface": "aṅgula+dvayam",
 "quick_gloss": "two-finger"
 },
 {
@@ -20,7 +20,7 @@
 },
 {
 "surface": "eka+eka+aṅgula+vardhanāt",
-"quick_gloss": "by-increase-of-one-finger-each"
+"quick_gloss": "by-each-one-finger-increase"
 }
 ]
 },
@@ -32,8 +32,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭ+pañca+veda+rudra+akṣa+dvi+aṅgulaiḥ",
-"quick_gloss": "with-six-five-four-eleven-two-fingers"
+"surface": "ṣaṭ+pañca+veda+rudra",
+"quick_gloss": "with-six-five-four-eleven"
+},
+{
+"surface": "akṣa+dvi+aṅgulaiḥ",
+"quick_gloss": "and-two-fingers"
 },
 {
 "surface": "parikalpayet",
@@ -49,7 +53,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sārvadeśika+harmye",
+"surface": "sārva+deśika+harmye",
 "quick_gloss": "in-universal-temple"
 },
 {
@@ -86,7 +90,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bāhya+nimnam",
+"surface": "bāhya+nimnaṃ",
 "quick_gloss": "outer-lower"
 },
 {
@@ -98,15 +102,15 @@
 "quick_gloss": "or"
 },
 {
-"surface": "kāryam",
+"surface": "kāryaṃ",
 "quick_gloss": "should-be-made"
 },
 {
 "surface": "sālānām",
-"quick_gloss": "of-halls"
+"quick_gloss": "of-the-halls"
 },
 {
-"surface": "aṅkaṇam",
+"surface": "aṅkaṇaṃ",
 "quick_gloss": "courtyard"
 },
 {
@@ -124,7 +128,7 @@
 "tokens": [
 {
 "surface": "sabhā+kṛtiḥ",
-"quick_gloss": "having-form-of-assembly-hall"
+"quick_gloss": "assembly-shaped"
 },
 {
 "surface": "vā",
@@ -135,7 +139,7 @@
 "quick_gloss": "should-be-made"
 },
 {
-"surface": "ca+eka+dvi+trika+bhittibhiḥ",
+"surface": "ca+eka+dvi+tri+ka+bhittibhiḥ",
 "quick_gloss": "with-one-two-three-walls"
 }
 ]
@@ -149,7 +153,7 @@
 "tokens": [
 {
 "surface": "upānāt",
-"quick_gloss": "from-base"
+"quick_gloss": "from-the-base"
 },
 {
 "surface": "tu",
@@ -161,7 +165,7 @@
 },
 {
 "surface": "mūla+prāsāda+tuṅgakam",
-"quick_gloss": "height-of-main-temple"
+"quick_gloss": "main-temple-height"
 }
 ]
 },
@@ -173,11 +177,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvipādam",
+"surface": "dvi+pādaṃ",
 "quick_gloss": "two-parts"
 },
 {
-"surface": "pāda+dairghyam",
+"surface": "pāda+dairghyaṃ",
 "quick_gloss": "pillar-length"
 },
 {
@@ -186,7 +190,7 @@
 },
 {
 "surface": "śeṣeṇa",
-"quick_gloss": "with-remainder"
+"quick_gloss": "with-the-remainder"
 },
 {
 "surface": "parikalpayet",
@@ -203,15 +207,15 @@
 "tokens": [
 {
 "surface": "adhiṣṭhāna+dvi+bhāgena",
-"quick_gloss": "by-two-divisions-of-base"
+"quick_gloss": "by-two-divisions-of-the-base"
 },
 {
-"surface": "pādam",
+"surface": "pādaṃ",
 "quick_gloss": "pillar"
 },
 {
 "surface": "śeṣeṇa",
-"quick_gloss": "with-remainder"
+"quick_gloss": "with-the-remainder"
 },
 {
 "surface": "kalpayet",
@@ -235,8 +239,8 @@
 "quick_gloss": "height"
 },
 {
-"surface": "stambhānām",
-"quick_gloss": "of-pillars"
+"surface": "stambhānāṃ",
+"quick_gloss": "of-the-pillars"
 },
 {
 "surface": "parikīrtitaḥ",
@@ -252,20 +256,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pakṣa+aṅgulam",
-"quick_gloss": "beginning-from-two-fingers"
+"surface": "pakṣa+aṅgulaṃ",
+"quick_gloss": "two-fingers"
 },
 {
 "surface": "samārabhya",
-"quick_gloss": "starting"
+"quick_gloss": "beginning-from"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "ardha+aṅgula+vivardhanāt",
-"quick_gloss": "by-increase-of-half-finger"
+"surface": "ca+ardha+aṅgula+vivardhanāt",
+"quick_gloss": "by-half-finger-increase"
 }
 ]
 },
@@ -278,7 +278,7 @@
 "tokens": [
 {
 "surface": "pāda+ucca+ardham",
-"quick_gloss": "half-of-pillar-height"
+"quick_gloss": "half-the-pillar-height"
 },
 {
 "surface": "adhiṣṭhāna",
@@ -323,8 +323,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prastara+ādi+pramāṇam",
-"quick_gloss": "measurement-of-entablature-etc"
+"surface": "prastara+ādi+pramāṇaṃ",
+"quick_gloss": "entablature-etc-measurement"
 },
 {
 "surface": "ca",
@@ -332,7 +332,7 @@
 },
 {
 "surface": "prāsāda+ukta+vat",
-"quick_gloss": "as-stated-for-temple"
+"quick_gloss": "as-stated-for-the-temple"
 },
 {
 "surface": "ācaret",
@@ -349,7 +349,7 @@
 "tokens": [
 {
 "surface": "catuṣkoṇe",
-"quick_gloss": "in-square"
+"quick_gloss": "in-a-square"
 },
 {
 "surface": "api",
@@ -364,7 +364,7 @@
 "quick_gloss": "one-should-make"
 },
 {
-"surface": "garbham",
+"surface": "garbhaṃ",
 "quick_gloss": "womb-chamber"
 },
 {
@@ -385,12 +385,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svasya",
+"surface": "svasya+dakṣiṇake+aṃśe",
 "quick_gloss": "in-one's-own-southern-part"
-},
-{
-"surface": "aṃśe",
-"quick_gloss": "part"
 },
 {
 "surface": "tu",
@@ -401,12 +397,12 @@
 "quick_gloss": "or"
 },
 {
-"surface": "api",
-"quick_gloss": "also"
+"surface": "dvāra+koṇa+antare",
+"quick_gloss": "in-the-space-between-door-corners"
 },
 {
-"surface": "dvāra+koṇa+antare",
-"quick_gloss": "between-door-corners"
+"surface": "api",
+"quick_gloss": "also"
 }
 ]
 },
@@ -418,20 +414,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sthānam",
+"surface": "sthānaṃ",
 "quick_gloss": "place"
 },
 {
 "surface": "garbhasya",
-"quick_gloss": "of-womb-chamber"
+"quick_gloss": "of-the-womb-chamber"
 },
 {
-"surface": "nirdiṣṭam",
+"surface": "nirdiṣṭaṃ",
 "quick_gloss": "is-prescribed"
 },
 {
 "surface": "tatra+sthā",
-"quick_gloss": "there-situated"
+"quick_gloss": "situated-there"
 },
 {
 "surface": "prathama+iṣṭakā",
@@ -448,14 +444,14 @@
 "tokens": [
 {
 "surface": "bhitti+ūrdhva+stha+catuṣkoṇeṣu",
-"quick_gloss": "in-one-of-the-corners-above-wall"
+"quick_gloss": "in-the-corners-above-the-wall"
 },
 {
 "surface": "ekasmin",
 "quick_gloss": "in-one"
 },
 {
-"surface": "niṣṭakām",
+"surface": "niṣṭakāṃ",
 "quick_gloss": "brick"
 },
 {
@@ -485,11 +481,11 @@
 },
 {
 "surface": "maryādā+ākhyā",
-"quick_gloss": "fourth"
+"quick_gloss": "called-boundary"
 },
 {
 "surface": "caturthakā",
-"quick_gloss": "called-boundary"
+"quick_gloss": "fourth"
 }
 ]
 },
@@ -502,7 +498,11 @@
 "tokens": [
 {
 "surface": "parivāra+amarān",
-"quick_gloss": "all-attendant-deities"
+"quick_gloss": "attendant-deities"
+},
+{
+"surface": "sarvān",
+"quick_gloss": "all"
 },
 {
 "surface": "tatra",
@@ -514,7 +514,7 @@
 },
 {
 "surface": "guruḥ",
-"quick_gloss": "teacher"
+"quick_gloss": "the-teacher"
 }
 ]
 },
@@ -526,16 +526,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "parivāra+vimānānām",
+"surface": "parivāra+vimānānāṃ",
 "quick_gloss": "of-attendant-shrines"
 },
 {
-"surface": "mānam",
+"surface": "mānaṃ",
 "quick_gloss": "measure"
 },
 {
 "surface": "garbha+ardham",
-"quick_gloss": "half-of-womb-chamber"
+"quick_gloss": "half-the-womb-chamber"
 },
 {
 "surface": "eva",
@@ -555,12 +555,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka+hastam",
-"quick_gloss": "beginning-from-one-cubit"
+"surface": "eka+hastaṃ",
+"quick_gloss": "one-cubit"
 },
 {
 "surface": "samārabhya",
-"quick_gloss": "starting"
+"quick_gloss": "beginning-from"
 },
 {
 "surface": "rudra+hasta+antam",
@@ -568,11 +568,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "only"
 },
 {
 "surface": "hi",
-"quick_gloss": "certainly"
+"quick_gloss": "indeed"
 }
 ]
 },
@@ -585,7 +585,7 @@
 "tokens": [
 {
 "surface": "aṅga+liṅga+ālaya+ākārāḥ",
-"quick_gloss": "having-form-of-limb-linga-shrines"
+"quick_gloss": "having-the-form-of-limb-linga-shrines"
 },
 {
 "surface": "parivāra+ālayāḥ",
@@ -606,7 +606,7 @@
 "tokens": [
 {
 "surface": "santyakta+pāda+rūpa+aṃśa+mūla+deśa+mukha+anvitāḥ",
-"quick_gloss": "endowed-with-faces-toward-root-place-having-abandoned-pillar-form-part"
+"quick_gloss": "endowed-with-faces-toward-the-root-place"
 }
 ]
 },
@@ -619,11 +619,11 @@
 "tokens": [
 {
 "surface": "dakṣa+sthāḥ",
-"quick_gloss": "those-in-south"
+"quick_gloss": "those-in-the-south"
 },
 {
 "surface": "saumya+vaktrāḥ",
-"quick_gloss": "should-be-north-facing"
+"quick_gloss": "facing-north"
 },
 {
 "surface": "syuḥ",
@@ -631,11 +631,11 @@
 },
 {
 "surface": "dakṣa+āsyāḥ",
-"quick_gloss": "those-south-facing"
+"quick_gloss": "those-facing-south"
 },
 {
 "surface": "saumya+dik+gatāḥ",
-"quick_gloss": "situated-in-north"
+"quick_gloss": "located-in-the-north"
 }
 ]
 },
@@ -648,7 +648,7 @@
 "tokens": [
 {
 "surface": "nāgara+āḍīśa+deśe",
-"quick_gloss": "in-northeast-region"
+"quick_gloss": "in-the-northeast-region"
 },
 {
 "surface": "syāt",
@@ -668,7 +668,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "also"
+"quick_gloss": "and"
 }
 ]
 }
