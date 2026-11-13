@@ -1,16 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 315,
- "question": "Which vessel materials are named as auspicious?",
+ "question": "Which vessel materials are named as clay, tortoise-born, bell-metal, and copper-metal?",
  "premises": [
-  "clay is named",
-  "tortoise-born is named",
-  "bell-metal is named",
-  "copper-metal is named"
+  "Clay vessels are named.",
+  "Tortoise-born vessels are named.",
+  "Bell-metal and copper-metal vessels are named."
  ],
- "inference": "Several vessel materials are enumerated.",
+ "inference": "The verse lists several vessel materials and origins.",
  "uncertainties": [
-  "auspiciousness is not explicitly assigned here"
+  "The grammatical object is implied rather than stated."
  ],
- "plain_english": "Clay, tortoise-born, bell-metal, and copper-metal vessels are named."
+ "plain_english": "Clay, tortoise-born, bell-metal, and copper-metal vessels, O goddess."
 }
