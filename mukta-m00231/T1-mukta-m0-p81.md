@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[by-occasion](prasaṅgāt) [is-told](kathyate) [seat-worship](pīṭhapūjā) [by-tantra-rule](tantravidhānataḥ)
+by-context (prasaṅgāt) is-told (kathyate) pīṭha+worship (pīṭhapūjā) according-to-tantra+method (tantravidhānataḥ)
 
 ## mukta-m0-p81-v2002
-[yoga-sleep](yoganidrā) [kāmarūpa](kāmarūpe) [mahishasura-slayer](mahiṣāsuramardinī)
+Yoganidrā (yoganidrā) in-Kāmarūpa (kāmarūpe) Mahiṣāsura+slayer (mahiṣāsuramardinī)
 
 ## mukta-m0-p81-v2003
-[at-jalandhara](jālandhare) [full-lady](pūrṇeśī) [full](pūrṇaṃ) [on-mountain](śaile) [and](ca) [caṇḍikā](caṇḍikā)
+in-Jālandhara (jālandhare) and (ca) Pūrṇeśī (pūrṇeśī) in-Pūrṇa (pūrṇaṃ) mountain (śaile) and (ca) Caṇḍikā (caṇḍikā)
 
 ## mukta-m0-p81-v2004
-[or](athavā) [of-kāmarūpa](kāmarūpasya) [sight](darśanaṃ) [if](yadi) [by-fortune](bhāgyataḥ)
+or (athavā) of-Kāmarūpa (kāmarūpasya) sight (darśanaṃ) if (yadi) by-fortune (bhāgyataḥ)
 
 ## mukta-m0-p81-v2005
-[by-method-to-be-stated](vakṣyamāṇavidhānena) [their](tāsāṃ) [knowing](jñātvā) [own-name](svanāmakam)
+by-to-be-stated+method (vakṣyamāṇavidhānena) of-them (tāsāṃ) having-known (jñātvā) own+name (svanāmakam)
 
 ## mukta-m0-p81-v2006
-[worship](pūjāṃ) [would-complete](samāpayed) [hero](vīraḥ) [with-prior-remembrance](tadanusmṛtipūrvakam)
+worship (pūjāṃ) should-complete (samāpayed) hero (vīraḥ) with-remembrance+of-that (tadanusmṛtipūrvakam)
 
 ## mukta-m0-p81-v2007
-[to-be-worshipped](pūjanīyā) [with-effort](prayatnena) [in-two-ways](dvedhaṃ) [there](tatra) [would-avoid](vivarjayet)
+to-be-worshipped (pūjanīyā) with-effort (prayatnena) twofold (dvedhaṃ) there (tatra) should-avoid (vivarjayet)
 
 ## mukta-m0-p81-v2008
-[as](yathā) [lotus-born](kamalajanmā) [also](api) [those](ye) [or](vā) [vyāsa-mouthed](vyāsamukhā) [twice-born](dvijāḥ)
+as (yathā) lotus+born (kamalajanmā) also (api) who (ye) or (vā) Vyāsa+headed (vyāsamukhā) twice-born (dvijāḥ)
 
 ## mukta-m0-p81-v2009
-[yakṣa-rakṣa-piśāca-etc](yakṣarakṣaḥpiśācādyā) [secret-carana-vandins](guhyacāraṇavandinaḥ)
+yakṣa+rākṣasa+piśāca+and-others (yakṣarakṣaḥpiśācādyā) guhya+cāraṇa+praisers (guhyacāraṇavandinaḥ)
 
 ## mukta-m0-p81-v2010
-[so](tathā) [by-śaiva](śaivena) [should-be-protected](goptavyaḥ) [kula-practice](kulācāraḥ) [very-rare](sudurlabhaḥ)
+likewise (tathā) by-Śaiva (śaivena) to-be-guarded (goptavyaḥ) kula+practice (kulācāraḥ) very+difficult-to-obtain (sudurlabhaḥ)
 
 ## mukta-m0-p81-v2011
-[whose](yeṣāṃ) [in-japa](jape) [and](ca) [in-homa](home) [ca](ca) [number](saṃkhyā) [not-stated](noktā) [by-wise](manīṣibhiḥ)
+of-whom (yeṣāṃ) in-recitation (jape) and (ca) in-offering (home) and (ca) number (saṃkhyā) not (na) stated (uktā) by-the-wise (manīṣibhiḥ)
 
 ## mukta-m0-p81-v2012
-[in-which](yasmiṃśca) [and-in-mantra](mantre) [number](saṃkhyā) [is-prescribed](vidhīyate)
+in-which (yasmiṃś) and (ca) in-recited-formula (nigade) and (ca) indeed (eva) in-mantra (mantre) number (saṃkhyā) is-prescribed (vidhīyate)
 
 ## mukta-m0-p81-v2013
-[by-kalpa-stated](kalpokte) [what](yat) [done-without-number](kṛtāsaṃkhyā) [in-tretā](tretāyāṃ) [double](dviguṇā) [becomes](bhavet)
+in-Kalpa+stated (kalpokte) what (yat) done+number (kṛtāsaṃkhyā) in-Tretā (tretāyāṃ) twofold (dviguṇā) should-be (bhavet)
 
 ## mukta-m0-p81-v2014
-[not](na) [of-divine-hero-only](divyavīrayoreva) [age-service-labor](yugasevāpariśramaḥ)
+not (na) of-divine+and-hero (divyavīrayor) indeed (eva) age+service+toil (yugasevāpariśramaḥ)
 
 ## mukta-m0-p81-v2015
-[their](teṣāṃ) [worship](pūjā) [three-times](trikālaṃ) [indeed](hi) [at-night](rātrau) [never](naiva) [ever](kadācana)
+of-them (teṣāṃ) worship (pūjā) at-three-times (trikālaṃ) indeed (hi) at-night (rātrau) not (na) ever (eva) at-any-time (kadācana)
 
 ## mukta-m0-p81-v2016
-[fourfold](caturguṇaṃ) [but](tu) [of-tārā](tārāyā) [without](vinā) [conch-bead-mala](śaṅkhākṣamālayā)
+fourfold (caturguṇaṃ) but (tu) of-Tārā (tārāyā) without (vinā) conch+rosary (śaṅkhākṣamālayā)
 
 ## mukta-m0-p81-v2017
-[bone-mala-taking](narāsthimālāmādāya) [would-japa](japed) [or](vā) [one-lakh](lakṣamekakam)
+human+bone+garland (narāsthimālām) having-taken (ādāya) should-recite (japed) or (vā) hundred-thousand (lakṣam) each (ekakam)
 
 ## mukta-m0-p81-v2018
-[fourfold-japa](caturguṇajapaḥ) [is-stated](proktaḥ) [for-success](siddhaye) [not-otherwise](nānyathā) [becomes](bhavet)
+fourfold+recitation (caturguṇajapaḥ) declared (proktaḥ) for-success (siddhaye) not (na) otherwise (anyathā) should-be (bhavet)
 
 ## mukta-m0-p81-v2019
-[especially](viśeṣataḥ) [in-kali-age](kaliyuge) [tārā](tārā) [kālī](kālī) [and](ca) [unmukhī](tathonmukhī)
+especially (viśeṣataḥ) in-Kali-age (kaliyuge) Tārā (tārā) Kālī (kālī) likewise (tathā) Unmukhī (unmukhī)
 
 ## mukta-m0-p81-v2020
-[of-unmukhī](unmukhyāḥ) [of-kālikā](kālikāyāśca) [specialty](viśeṣaḥ) [is-told](kathyate) [now](adhunā)
+of-Unmukhī (unmukhyāḥ) of-Kālī (kālikāyāḥ) and (ca) distinction (viśeṣaḥ) is-told (kathyate) now (adhunā)
 
 ## mukta-m0-p81-v2021
-[at-night](rātrau) [with-meat-wine](māṃsāsavair) [with-fish](matsyair) [with-mudrās](mudrābhir) [with-maithuna-born](maithunodbhavaiḥ)
+at-night (rātrau) with-meat+liquor (māṃsāsavair) with-fish (matsyair) with-gestures (mudrābhir) with-intercourse+born (maithunodbhavaiḥ)
 
 ## mukta-m0-p81-v2022
-[then](tato) [naked](nagnāṃ) [woman](striyaṃ) [naked](nagno) [from-ramaṇa-distress](ramaṇakleśato) [or](api) [vā](vā)
+then (tato) naked (nagnāṃ) woman (striyaṃ) naked (nagno) from-sexual+exertion (ramaṇakleśato) also (api) or (vā)
 
 ## mukta-m0-p81-v2023
-[of-twice-born](dvijanmanāṃ) [but](tu) [of-all](sarveṣāṃ) [in-two-ways](dvidhā) [rule](vidhir) [here](iha) [is-said](ucyate)
+of-twice-born (dvijanmanāṃ) but (tu) of-all (sarveṣāṃ) twofold (dvidhā) rule (vidhir) here (iha) is-stated (ucyate)
 
 ## mukta-m0-p81-v2024
-[then](tatastu) [that-tenth-part](taddaśāṃśena) [would-offer](homayed) [with-ghee](haviṣā) [in-fire](anale)
+then (tatas) then (tu) by-its+tenth-part (taddaśāṃśena) should-offer (homayed) with-oblation (dhaviṣā) in-fire (anale)
 
 ## mukta-m0-p81-v2025
-[thus](iti) [śrī-jñānānanda-paramahaṃsa-composed](śrīmajjñānānandaparamahaṃsaviracite) [kaulāvalī-nirṇaya](kaulāvalīnirṇaye) [twelfth-ullāsa](dvādaśollāsaḥ)
+thus (iti) in-the-Kaulāvalīnirṇaya (kaulāvalīnirṇaye) composed-by-Śrīmat-Jñānānanda-Paramahaṃsa (śrīmajjñānānandaparamahaṃsaviracite) twelfth+chapter (dvādaśollāsaḥ)
