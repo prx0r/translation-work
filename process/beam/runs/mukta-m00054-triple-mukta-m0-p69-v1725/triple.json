@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "bhūtaśuddhikarī",
+     "gloss": "causing-purification-of-beings",
+     "grounds": "compound epithet: bhūta (beings/elements) + śuddhi (purification) + karī (causing/making)",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "bhūtarakṣiṇī",
+     "gloss": "protecting-beings",
+     "grounds": "compound epithet: bhūta (beings) + rakṣiṇī (protecting)",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "bhūtatoṣiṇī",
+     "gloss": "satisfying-beings",
+     "grounds": "compound epithet: bhūta (beings) + toṣiṇī (satisfying/pleasing)",
+     "morph": "compound f.nom.sg"
+    }
+   ],
+   "question": "Which purifying, protecting, and satisfying functions toward beings are attributed to the goddess?",
+   "premises": [
+    "The goddess is described as causing the purification of beings.",
+    "The goddess is described as protecting beings.",
+    "The goddess is described as satisfying beings."
+   ],
+   "inference": "The goddess simultaneously purifies, protects, and brings satisfaction to beings.",
+   "uncertainties": [
+    "Whether bhūta refers primarily to living beings or to the elemental constituents is context-dependent."
+   ],
+   "plain_english": "She purifies beings, protects beings, and satisfies beings."
+  }
+ ]
+}

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[vidyā-ādi-ādhāra-śakti-antam](vidyādyādhāraśaktyantaṃ) [pṛthak-ittham](pṛthagitthaṃ) [nirodhayet](nirodhayet)
+[knowledge+etc+support+power+up-to](vidyādyādhāraśaktyantaṃ) [separately+thus](pṛthagitthaṃ) [one-should-restrain](nirodhayet)
 
 ## mukta-m0-p19-v452
-[kḷpta-śayyāyām](kḷptaśayyāyāṃ) [hema-ādi-ekatamam](hemādyekatamaṃ) [ghaṭam](ghaṭam)
+[arranged+on-bed](kḷptaśayyāyāṃ) [gold+etc+one-of](hemādyekatamaṃ) [jar](ghaṭam)
 
 ## mukta-m0-p19-v453
-[sūkṣma-vāsa-yuga-channam](sūkṣmavāsoyugacchannam) [iṣṭvā](iṣṭvā) [gandha-ādibhiḥ](gandhādibhiḥ) [kramāt](kramāt)
+[fine+cloth+pair+covered](sūkṣmavāsoyugacchannam) [having-worshipped](iṣṭvā) [with-fragrance+etc](gandhādibhiḥ) [in-order](kramāt)
 
 ## mukta-m0-p19-v454
-[prāyaścittam](prāyaścittam) [aghoreṇa](aghoreṇa) [hutā](hutā) [atha](atha) [ācārya-dakṣiṇām](ācāryadakṣiṇām)
+[expiation](prāyaścittam) [with-aghora-mantra](aghoreṇa) [having-offered](hutā) [then+teacher+fee](athācāryadakṣiṇām)
 
 ## mukta-m0-p19-v455
-[ca](ca) [vahnim](vahniṃ) [ca](ca) [yathāpūrvam](yathāpūrvaṃ) [visarjayet](visarjayet)
+[and](ca) [fire](vahniṃ) [and](ca) [as+before](yathāpūrvaṃ) [one-should-dismiss](visarjayet)
 
 ## mukta-m0-p19-v456
-[prāsādaḥ](prāsādaḥ) [syāt](syāt) [supratiṣṭhaḥ](supratiṣṭho) [maheśaḥ](maheśaḥ)
+[temple](prāsādaḥ) [should-be](syāt) [well-established](supratiṣṭho) [great-lord](maheśaḥ)
 
 ## mukta-m0-p19-v457
-[skhalitam](skhalitaṃ) [jīrṇam](jīrṇaṃ) [prāsāda-aṅgam](prāsādāṅaṃ) [yadā](yadā) [bhavet](bhavet)
+[slipped](skhalitaṃ) [decayed](jīrṇaṃ) [temple+part](prāsādāṅaṃ) [when](yadā) [becomes](bhavet)
 
 ## mukta-m0-p19-v458
-[prāgvat](prāgvadeva) [eva](eva) [syāt](syāt) [alaṅkāra-ādikam](alaṅkārādikaṃ) [ca](ca) [yat](yat)
+[as+before](prāgvad) [indeed](eva) [should-be](syāt) [decoration+etc](alaṅkārādikaṃ) [and](ca) [which](yat)
 
 ## mukta-m0-p19-v459
-[jāti-chanda-vikalpānām](jāticchandavikalpānāṃ) [syāt](syānmānaṃ) [mānam](mānaṃ) [prāgvat](prāgvadeva) [eva](eva) [hi](hi)
+[of-class+metre+varieties](jāticchandavikalpānāṃ) [should-be](syāt) [measure](mānaṃ) [as+before](prāgvad) [indeed](eva) [certainly](hi)
 
 ## mukta-m0-p19-v460
-[patitam](patitaṃ) [tasya](tasya) [na](na) [vṛddhiḥ](vṛddhirdoṣamāvahet) [doṣam](doṣam) [āvahet](āvahet)
+[fallen](patitaṃ) [of-that](tasya) [not](na) [increase](vṛddhiḥ) [fault](doṣam) [brings](āvahet)
 
 ## mukta-m0-p19-v461
-[tat-prokta-sthāne](tatproktasthāne) [kuryāt](kuryāt) [sa-lakṣaṇam](salakṣaṇam)
+[in-that+prescribed+place](tatproktasthāne) [one-should-make](kuryāt) [with-characteristics](salakṣaṇam)
 
 ## mukta-m0-p19-v462
-[pūrva-saṃsthāna-sundaram](pūrvasaṃsthānasundaram)
+[former+form+beautiful](pūrvasaṃsthānasundaram)
 
 ## mukta-m0-p19-v463
-[cālayet](cālayelliṅgaṃ) [liṅgam](liṅgaṃ) [pūrva-sthāne](pūrvasthāne) [arhati](arhati) [sthitim](sthitim)
+[one-should-move](cālayet) [liṅga](liṅgaṃ) [in-former+place](pūrvasthāne) [deserves](arhati) [position](sthitim)
 
 ## mukta-m0-p19-v464
-[sahasra-daṇḍa-anta-kṣeme](sahasradaṇḍāntakṣeme) [saṃsthāpayet](saṃsthāpayet) [punaḥ](punaḥ)
+[thousand+punishment+end+in-safety](sahasradaṇḍāntakṣeme) [one-should-establish](saṃsthāpayet) [again](punaḥ)
 
 ## mukta-m0-p19-v465
-[prāyaścittāt](prāyaścittādanantaram) [anantaram](anantaram)
+[expiation+after](prāyaścittādanantaram)
 
 ## mukta-m0-p19-v466
-[mūla-ālayāt](mūlālayād) [rakṣa-yama-agni-marutām](rakṣoyamāgnimarutāṃ) [diśaḥ](diśaḥ)
+[from-root+shrine](mūlālayād) [demon+yama+fire+wind](rakṣoyamāgnimarutāṃ) [directions](diśaḥ)
 
 ## mukta-m0-p19-v467
-[bhartuḥ](bharturnṛpasyāpanmarudrakṣogniṣu) [nṛpasya](nṛpasya) [āpan](āpan) [marut](marudrakṣogniṣu) [rakṣa](rakṣa) [agniṣu](agniṣu) [kṣayaḥ](kṣayaḥ)
+[of-lord](bhartuḥ) [of-king](nṛpasya) [destruction+wind+demon+fire](āpanmarudrakṣogniṣu) [destruction](kṣayaḥ)
 
 ## mukta-m0-p19-v468
-[prokta-nāt](proktanād) [dhiṣṇyāt](dhiṣṇyāt) [prāgvat](prāgvodakparito'dhikam) [udak](udak) [paritaḥ](paritaḥ) [adhikam](adhikam)
+[from-prescribed+site](proktanād) [than-shrine](hiṣṇyāt) [east+north+around](prāgvodakparitaḥ) [greater](adhikam)
 
 ## mukta-m0-p19-v469
-[pūrvasmāt](pūrvasmāddhīnamānādyaṃ) [hīna-māna-ādyam](hīnamānādyam) [sthānam](sthānaṃ) [kartṛ-nṛpa-ahitam](kartṛnṛpāhitam)
+[than-former](pūrvasmāt) [less+measure+etc](hīnamānādyaṃ) [place](sthānaṃ) [for-maker+king+harmful](kartṛnṛpāhitam)
 
 ## mukta-m0-p19-v470
-[vinaṣṭa-vastunaḥ](vinaṣṭavastuno) [garbham](garbhaṃ) [tyaktvā](tyaktvā) [garbham](garbhaṃ) [nyaset](nyaset) [punaḥ](punaḥ)
+[of-destroyed+object](vinaṣṭavastuno) [embryo](garbhaṃ) [having-abandoned](tyaktvā) [embryo](garbhaṃ) [one-should-place](nyaset) [again](punaḥ)
 
 ## mukta-m0-p19-v471
-[prāktana-dravyaiḥ](prāktanadravyairniṣpādyaṃ) [niṣpādyam](niṣpādyaṃ) [ced](ced) [gṛha-ādikam](gṛhādikam)
+[with-former+materials](prāktanadravyaiḥ) [to-be-accomplished](niṣpādyaṃ) [if](ced) [house+etc](gṛhādikam)
 
 ## mukta-m0-p19-v472
-[yogaiḥ](yogairnavairnaveṣviṣṭaḥ) [navaiḥ](navaiḥ) [naveṣu](naveṣu) [iṣṭaḥ](iṣṭaḥ) [purāṇānām](purāṇānāṃ) [purātanaiḥ](purātanaiḥ)
+[with-means](yogaiḥ) [with-new](navaiḥ) [in-new-things](naveṣu) [desired](iṣṭaḥ) [of-old-things](purāṇānāṃ) [with-old](purātanaiḥ)
 
 ## mukta-m0-p19-v473
-[pura-grāma-ālaya-ādīni](puragrāmālayādīni) [pūrva-vastu-anukūlataḥ](pūrvavastvanukūlataḥ)
+[city+village+shrine+etc](puragrāmālayādīni) [according-to-former+object+suitability](pūrvavastvanukūlataḥ)
 
 ## mukta-m0-p19-v474
-[bahir](bahirmūlādalpaliṅgālayādikam) [mūlāt](mūlāt) [alpa-liṅga-ālaya-ādikam](alpaliṅgālayādikam)
+[outside+root+shrine](bahirmūlālāt) [small+liṅga+shrine+etc](alpaliṅgālayādikam)
 
 ## mukta-m0-p19-v475
-[mūla-ālaya-samam](mūlālayasamaṃ) [kṣudram](kṣudram) [adhikam](adhikaṃ) [ca](ca) [na](na) [śaśyate](śaśyate)
+[root+shrine+equal](mūlālayasamaṃ) [small](kṣudram) [greater](adhikaṃ) [and](ca) [not](na) [is-approved](śaśyate)

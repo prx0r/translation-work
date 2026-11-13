@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[firm](sthiram) [indeed](eva) [would-be](syāt) [seen-unseen-fruit-giving](dṛṣṭādṛṣṭaphalapradam)
+[firm+indeed](sthiram+eva) [should-be](syāt) [visible+invisible+fruit+giving](dṛṣṭa+adṛṣṭa+phala+pradam)
 
 ## mukta-m0-p18-v427
-[four-doors-and-so-forth-endowed](caturdvārādisaṃyuktaṃ) [as-before](prāgvat) [having-decorated](ābhūṣya) [pavilion](maṇḍapam)
+[four+door+etc.+endowed](catur+dvāra+ādi+saṃyuktaṃ) [as-before](prāk+vat) [having-decorated](ābhūṣya) [pavilion](maṇḍapam)
 
 ## mukta-m0-p18-v428
-[libation-ending](tarpaṇāntaṃ) [indeed](tu) [rite](karma) [as-initiation](dīkṣāvad) [should-perform](ācaret)
+[libation+ending](tarpaṇa+antaṃ) [indeed](tu) [rite](karma) [initiation+as](dīkṣā+vat) [one-should-perform](ācaret)
 
 ## mukta-m0-p18-v429
-[but](tu) [having-bathed](saṃsnāpya) [having-covered](ācchādya) [with-garment](vāsasā)
+[indeed](tu) [having-bathed](saṃsnāpya) [having-covered](ācchādya) [with-garment](vāsasā)
 
 ## mukta-m0-p18-v430
-[should-lay](śāyayed) [on-altar](vedyāṃ) [man](puruṣaṃ) [dissolution-time](pralayākalam)
+[one-should-lay-down](śāyayet) [on-altar](vedyāṃ) [person](puruṣaṃ) [dissolution+soul](pralaya+ākalam)
 
 ## mukta-m0-p18-v431
-[star-heart-cavity](tārahṛtsampuṭaṃ) [haṃsa](haṃsam) [having-extracted](uddhṛtya) [self-place](ātmapadaṃ) [then](tataḥ)
+[praṇava+heart+enclosed](tāra+hṛt+sampuṭaṃ) [haṃsa](haṃsam) [having-extracted](uddhṛtya) [self+word](ātma+padaṃ) [then](tataḥ)
 
 ## mukta-m0-p18-v432
-[having-uttered](uccārya) [then](atha) [añjali](añjaliṃ) [with-flowers](puṣpaiḥ) [having-filled](āpūrya) [twelve-end](dvādaśāntataḥ)
+[having-uttered](uccārya) [then](atha) [cupped-hands](añjaliṃ) [with-flowers](puṣpaiḥ) [having-filled](āpūrya) [from-twelve+end](dvādaśa+antataḥ)
 
 ## mukta-m0-p18-v433
-[heart-lotus](hṛtpadme) [nāḍī-path](nāḍīmārgeṇa) [should-join](yojayet)
+[in-heart+lotus](hṛt+padme) [by-channel+path](nāḍī+mārgeṇa) [one-should-unite](yojayet)
 
 ## mukta-m0-p18-v434
-[by-this-very](anenaiva) [manner](prakāreṇa) [vidyā-rāga-and-so-forth](vidyārāgādikāni) [also](api)
+[by-this+very](anena+eva) [method](prakāreṇa) [knowledge+passion+etc.+also](vidyā+rāga+ādikāni+api)
 
 ## mukta-m0-p18-v435
-[specially](viśeṣeṇa) [should-be-done](kāryaṃ) [different](bhinnaṃ) [is-praised](praśasyate)
+[specifically](viśeṣeṇa) [to-be-done](kāryaṃ) [separately](bhinnaṃ) [is-recommended](praśasyate)
 
 ## mukta-m0-p18-v436
-[moon](candraḥ) [directions](diśaḥ) [and](ca) [wind](vāyuḥ) [and](ca) [sun](sūryaḥ) [then](atha) [varuṇa](varuṇaḥ) [aśvins](aśvinau)
+[moon](candraḥ) [directions+and](diśaḥ+ca) [wind+and](vāyuḥ+ca) [sun+then](sūryaḥ+atha) [varuṇa](varuṇaḥ) [aśvins](aśvinau)
 
 ## mukta-m0-p18-v437
 [viṣṇu](viṣṇuḥ) [mitra](mitraḥ) [brahmā](brahmā) [and](ca) [they](te) [in-order](kramāt)
 
 ## mukta-m0-p18-v438
-[śco](śca) [spoken](uditaṃ) [rite](karma) [would-be](syāt) [intention-doubt](saṅkalpavikalpakam)
+[enjoined](śco)ditaṃ) [action](karma) [should-be](syāt) [resolution+deliberation](saṅkalpa+vikalpakam)
 
 ## mukta-m0-p18-v439
-[utterance-taking-going-emission-bliss-rites](uktyupādānagamanavisargānandakarmaṇām)
+[speech+taking+going+emission+bliss+actions](ukti+upādāna+gamana+visarga+ānanda+karmaṇām)
 
 ## mukta-m0-p18-v440
-[star-heart-seed-first](tārahṛdbījapūrvaṃ) [sound-and-so-forth-five](śabdādipañcakam)
+[praṇava+heart+seed+preceded](tāra+hṛd+bīja+pūrvaṃ) [sound+etc.+pentad](śabda+ādi+pañcakam)
 
 ## mukta-m0-p18-v441
-[five](pañca) [then](atha) [nam-ending](namontaṃ) [as-before](pūrvavad) [should-say](vadet)
+[five](pañca) [then](atha) [namas+ending](namaḥ+antaṃ) [as-before](pūrva+vat) [one-should-say](vadet)
 
 ## mukta-m0-p18-v442
-[as-before](pūrvavad) [should-be-said](vācyā) [nam-ending](namontaṃ) [with-fourth](sacaturthikam)
+[as-before](pūrva+vat) [to-be-spoken](vācyā) [namas+ending](namaḥ+antaṃ) [with-fourth-case](sa+caturthikam)
 
 ## mukta-m0-p18-v443
-[star-heart-first](tārahṛtpūrvakaṃ) [thus](tadvat) [nam-ending](namontaṃ) [with-fourth](sacaturthikam)
+[praṇava+heart+preceded](tāra+hṛt+pūrvakaṃ) [likewise](tad+vat) [namas+ending](namaḥ+antaṃ) [with-fourth-case](sa+caturthikam)
 
 ## mukta-m0-p18-v444
-[suyaśā](suyaśā) [lambuṣā](lambuṣā) [pūṣā](pūṣā) [kuhū](kuhū) [also](api) [then](atha) [śaṅkhinī](śaṅkhinīm)
+[suyaśā](suyaśā) [lambusā](lambuṣe) [pūṣā](pūṣāṃ) [kuhū+also+then](kuhūm+api+atha) [śaṅkhinī](śaṅkhinīm)
 
 ## mukta-m0-p18-v445
 [kṛkara](kṛkaraṃ) [devadatta](devadattaṃ) [dhanañjaya](dhanañjayam)
 
 ## mukta-m0-p18-v446
-[by-own-authority-first](svādhikārapūrvakatvena) [remembering](saṃsmaran)
+[own+authority+priority](sva+adhikāra+pūrvakatvena) [remembering](saṃsmaran)
 
 ## mukta-m0-p18-v447
-[thumb-sized-and-so-forth-mantras](aṅguṣṭhamātraprabhṛtimantraiḥ) [impelling-ness](prerakatāṃ) [thus](tathā)
+[thumb+measure+beginning+with-mantras](aṅguṣṭha+mātra+prabhṛti+mantraiḥ) [impelling-power](prerakatāṃ) [likewise](tathā)
 
 ## mukta-m0-p18-v448
-[should-restrain](nirodhayet) [harsh](niṣṭhurayā) [three-part-path](trikhaṇḍādhvānam) [also](api) [then](atha)
+[one-should-restrain](nirodhayet) [with-niṣṭhurā](niṣṭhurayā) [three+part+path+also+then](tri+khaṇḍa+adhvānam+api+atha)
 
 ## mukta-m0-p18-v449
-[to-kunḍa-near](kuṇḍāntikaṃ) [having-gone](gatvā) [śakti](śaktim) [support-named](ādhārasaṃjñitām)
+[to-fire-pit+vicinity](kuṇḍa+antikaṃ) [having-gone](gatvā) [power](śaktim) [support+named](ādhāra+saṃjñitām)
 
 ## mukta-m0-p18-v450
-[having-placed](vinyasya) [thus](tathā) [with-ghee-offerings](ājyāhutibhiḥ) [again](punaḥ)
+[having-placed](vinyasya) [likewise+ghee+oblations](tathā+ājya+āhutibhiḥ) [again](punaḥ)
