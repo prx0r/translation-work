@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 116,
- "question": "To whom should the teaching be given among those endowed with all states and resolved mind?",
+ "question": "To whom should the teaching be given among those endowed with all states?",
  "premises": [
-  "eligibility requires all states",
-  "resolved mind qualifies recipient"
+  "The recipient has all states.",
+  "The recipient has resolved mind.",
+  "The teaching is to be given."
  ],
- "inference": "The teaching is reserved for one fully endowed and mentally resolved.",
+ "inference": "Only a resolved, fully endowed person receives it.",
  "uncertainties": [
-  "dātavyaṃ may be neuter accusative"
+  "Exact teaching is unspecified."
  ],
- "plain_english": "To one endowed with all states, [it is] to be given, to one of resolved mind."
+ "plain_english": "It should be given to one endowed with all states and of resolved mind."
 }

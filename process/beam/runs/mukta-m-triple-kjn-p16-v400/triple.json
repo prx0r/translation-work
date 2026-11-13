@@ -7,20 +7,20 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "forehead-syllable-mass-situated",
-     "grounds": "compound of lalāṭa, varṇa, rāśi, and stha",
-     "morph": "adj.acc.sg.n"
+     "grounds": "compound of lalāṭa, varṇa, rāśi, and stha; situated in the forehead-syllable mass",
+     "morph": "adj.nom.sg.n"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numeral in accusative",
+     "grounds": "numeral lakṣa in accusative",
      "morph": "num.acc.sg.n"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "absolutive from root kṛ",
-     "morph": "absolutive"
+     "grounds": "absolutive of root kṛ",
+     "morph": "absolutive (kṛ)"
     },
     {
      "surface": "sura+arcite",
@@ -29,17 +29,17 @@
      "morph": "voc.sg.m"
     }
    ],
-   "question": "What must be done a hundred thousand times in the forehead syllable mass by the god-worshipped practitioner?",
+   "question": "What must be done one hundred thousand times in the forehead-syllable mass for the god-worshipped?",
    "premises": [
-    "lalāṭa-varṇa-rāśi-sthaṃ qualifies lakṣaṃ",
-    "kṛtya indicates completed action",
-    "sura-arcite addresses the practitioner"
+    "One hundred thousand repetitions are prescribed.",
+    "They are situated in the forehead-syllable mass.",
+    "The rite is addressed to the god-worshipped."
    ],
-   "inference": "The verse prescribes a hundred-thousandfold rite situated in the forehead syllable mass for the god-worshipped one.",
+   "inference": "The practitioner must complete one hundred thousand repetitions in the forehead-syllable mass for the worshipped god.",
    "uncertainties": [
-    "the exact ritual object of lakṣaṃ is not specified in this verse"
+    "The exact ritual referent of forehead-syllable mass is not specified."
    ],
-   "plain_english": "O god-worshipped one, having done a hundred thousand in the forehead syllable mass."
+   "plain_english": "Having done one hundred thousand [repetitions] situated in the forehead-syllable mass, O god-worshipped."
   }
  ]
 }

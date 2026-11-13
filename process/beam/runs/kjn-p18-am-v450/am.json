@@ -1,15 +1,15 @@
 {
  "song": "kjn-p18",
  "verse": 450,
- "question": "How does one always fill that body with fillings beginning from milk?",
+ "question": "How should the practitioner always fill that body with milk and fillings?",
  "premises": [
-  "Milk is the starting source",
-  "Fillings fill the body",
-  "The practice is constant"
+  "Milk is taken from source",
+  "Fillings accompany the filling",
+  "Body is filled always"
  ],
- "inference": "The verse prescribes continually filling that body with fillings from milk.",
+ "inference": "The body should be filled always with milk and fillings.",
  "uncertainties": [
-  "The ellipsis token obscures an intermediate source or step"
+  "Second token is ellipsized in the supplied list"
  ],
- "plain_english": "From milk ... one should always fill that body with fillings."
+ "plain_english": "Always fill that body with milk and fillings."
 }

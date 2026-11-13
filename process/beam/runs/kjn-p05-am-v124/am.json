@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Does poison enter the body of one bitten even by great serpents?",
+ "question": "Does poison enter the body even when bitten by great serpents?",
  "premises": [
-  "poison is the subject",
-  "body is the location",
-  "even great-serpent bites are included"
+  "Poison does not enter body.",
+  "Even serpent bite occurs.",
+  "Great serpents are named."
  ],
- "inference": "poison does not enter the body even when bitten by great serpents",
+ "inference": "The practice protects against serpent poison.",
  "uncertainties": [
-  "whether this protection follows from the air practice"
+  "Protection mechanism is not explained."
  ],
- "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+ "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }

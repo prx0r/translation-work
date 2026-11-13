@@ -7,57 +7,57 @@
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "kath root with ita suffix",
-     "morph": "part.sg.neut.nom/acc"
+     "grounds": "past participle of kath, neuter singular",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "melakaṃ",
      "gloss": "union-place",
-     "grounds": "melaka compound form",
-     "morph": "noun.neut.acc.sg"
+     "grounds": "neuter singular noun",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "sthānaṃ",
      "gloss": "abode",
-     "grounds": "sthāna stem",
-     "morph": "noun.neut.acc.sg"
+     "grounds": "neuter singular noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "śrutaṃ",
      "gloss": "heard",
-     "grounds": "śru root with ta suffix",
-     "morph": "part.sg.neut.nom/acc"
+     "grounds": "past participle of śru, neuter singular",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "te",
      "gloss": "by-you",
-     "grounds": "tvam pronoun",
-     "morph": "pron.2sg.gen/dat"
+     "grounds": "genitive or dative of tvam",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "ceṣṭitaṃ",
      "gloss": "desired",
-     "grounds": "ceṣṭ root with ita suffix",
-     "morph": "part.sg.neut.nom/acc"
+     "grounds": "past participle of ceṣṭ, neuter singular",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "śubha adjective stem",
-     "morph": "adj.neut.acc.sg"
+     "grounds": "neuter singular adjective",
+     "morph": "n.nom.sg"
     }
    ],
    "question": "What auspicious union-place abode has been told and heard as desired by you?",
    "premises": [
-    "The union-place abode is told.",
-    "It is heard by you.",
-    "It is desired as auspicious."
+    "union-place abode is told",
+    "it is heard by you",
+    "it is desired auspicious"
    ],
-   "inference": "The verse affirms a told, heard, desired auspicious abode.",
+   "inference": "The auspicious union-place abode has been communicated, heard, and desired.",
    "uncertainties": [
-    "Exact syntactic role of kathitaṃ and śrutaṃ remains ambiguous."
+    "exact referent of melakaṃ remains context-dependent"
    ],
-   "plain_english": "The auspicious union-place abode has been told; it has been heard by you and is desired."
+   "plain_english": "The auspicious union-place abode has been told, heard by you, and desired."
   }
  ]
 }

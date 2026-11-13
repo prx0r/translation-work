@@ -4,27 +4,27 @@
  "rows": [
   {
    "lemma": "etat",
-   "morph": "nom.sg.n",
+   "morph": "n.nom.sg",
    "grounds": "demonstrative"
   },
   {
    "lemma": "te",
-   "morph": "dat.sg",
+   "morph": "2.dat.sg",
    "grounds": "dative pronoun"
   },
   {
    "lemma": "jīva+abhyāsaṃ",
-   "morph": "acc.sg.m",
-   "grounds": "compound with abhyāsa"
+   "morph": "compound",
+   "grounds": "compound accusative"
   },
   {
    "lemma": "kathitaṃ",
-   "morph": "nom.sg.n",
+   "morph": "n.nom.sg.pass.past.part",
    "grounds": "past participle"
   },
   {
    "lemma": "te",
-   "morph": "dat.sg",
+   "morph": "2.dat.sg",
    "grounds": "dative pronoun"
   },
   {
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "bhairavi",
-   "morph": "voc.sg.f",
-   "grounds": "vocative address"
+   "morph": "f.voc.sg",
+   "grounds": "vocative"
   }
  ]
 }

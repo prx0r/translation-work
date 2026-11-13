@@ -1,15 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 334,
- "question": "Which beings and ascetics are listed in this context?",
+ "question": "Which beings are named as gandharvas, kinnaras, yakshas, asuras, and ascetics?",
  "premises": [
-  "gandharvas are named",
-  "kinnaras and yakshas are named",
-  "asuras and ascetics are named"
+  "five classes are listed",
+  "they are named together",
+  "they form a group of beings"
  ],
- "inference": "A broad class of beings and ascetics is enumerated.",
+ "inference": "The verse enumerates gandharvas, kinnaras, yakshas, asuras, and ascetics.",
  "uncertainties": [
-  "exact role in sentence"
+  "role in context"
  ],
- "plain_english": "Gandharvas, kinnaras, yakshas, asuras, and ascetics are listed."
+ "plain_english": "Gandharvas, kinnaras, yakshas, asuras, and ascetics are named."
 }

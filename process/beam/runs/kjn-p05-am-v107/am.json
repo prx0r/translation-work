@@ -1,15 +1,16 @@
 {
  "song": "kjn-p05",
  "verse": 107,
- "question": "What is the supreme soul declared to be in its essential nature?",
+ "question": "What are the attributes of the supreme soul?",
  "premises": [
-  "The supreme is partless.",
-  "The supreme is eternal.",
-  "The supreme is free from disease and stain."
+  "he is supreme",
+  "he is partless",
+  "he is eternal",
+  "he is free from disease and stainless"
  ],
- "inference": "The supreme soul is described as partless, eternal, and stainless.",
+ "inference": "The supreme soul is described as partless, eternal, disease-free, and stainless.",
  "uncertainties": [
-  "The exact syntactic relation of the adjectives is not explicit."
+  "identity of 'he' depends on prior context"
  ],
- "plain_english": "He is supreme, partless, eternal, free from disease and stainless."
+ "plain_english": "He is supreme, partless, eternal, free from disease, and stainless."
 }
