@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[in](sva-) [wall](bhittau) [by-own](svena) [indeed](eva) [to-be-perceived-by-reflection](prativibhava-vedyam) [creator](vidhi-vidhih)
+[own-wall](svabhittau) [by-own](svena) [indeed](eva) [in-each-manifestation+to-be-known](prativibhava+vedyaṃ) [rule+of-rule](vidhi+vidhiḥ)
 
 ## mukta-m0-p13-v302
-[oneself](svayam) [that](tat) [delusion](mohaṃ) [goes-to](vrajati) [supreme](parama) [this](eṣā) [in-me](mayi) [own](nije)
+[by-itself](svayaṃ) [that+that+delusion](tat+tat+mohaṃ) [goes](vrajati) [supreme](paramā) [this](eṣā) [in-me](mayi) [own](nije)
 
 ## mukta-m0-p13-v303
-[in-this](asmin) [skill-in-arts](kalā-kauśalye) [newly-arisen](samabhinava) [wish-fulfilling-gem](cintāmaṇiḥ) [this](iyam)
+[in-art+skill](kalā+kauśalye) [in-this](asmin) [fully-new+wish-jewel](samabhinava+cintāmaṇiḥ) [this](iyam)
 
 ## mukta-m0-p13-v304
-[creator](vidhātrī) [to-be-served](saṃsevyā) [by-own-knowledge](sva-vidi) [by-ritual](vidhinā) [that-same](saiva) [by-ritual](vidhinā)
+[creatrix](vidhātrī) [to-be-served](saṃsevyā) [in-self-knower](svavidi) [by-method](vidhinā) [she](sā) [indeed](eva) [by-method](vidhinā)
 
 ## mukta-m0-p13-v305
-[eternal-lord](sadāśambhuḥ) [in-own-self](sva-ātmani) [unborn](akalam) [favour](anugṛhṇāti) [bestowing](kalayan)
+[always+Śambhu](sadā+śambhuḥ) [in-own-self](svātmani) [incomprehensible](akalam) [favors](anugṛhṇāti) [perceiving](kalayan)
 
 ## mukta-m0-p13-v306
-[supreme](parām) [extractor-of-essence](sāroddhārām) [spotless](vimala) [charming](lalitam) [auspicious](maṅgalam) [pure](alam)
+[supreme](parāṃ) [essence+extracting](sāra+uddhārāṃ) [pure+lovely](vimala+lalitaṃ) [auspicious](maṅgalam) [pure](alam)
 
 ## mukta-m0-p13-v307
-[like-inside-peacock-egg](mayūra-aṇḍa-abhyantāraḥ) [iva](iva) [supreme](param) [moon-digits](candra-kalāḥ)
+[peacock+egg+inner+juice](mayūra+aṇḍa+abhyantara+rasa) [like](iva) [supreme](paraṃ) [moon+digits](candra+kalāḥ)
 
 ## mukta-m0-p13-v308
-[own](svakīyam) [creatorly](vaidhātram) [effort](śramam) [iva](iva) [done](kṛtam) [knows](vetti) [fruitless](viphalam)
+[own](svakīyaṃ) [of-Brahmā](vaidhātraṃ) [effort](śramam) [as-if](iva) [done](kṛtaṃ) [knows](vetti) [fruitless](viphalam)
 
 ## mukta-m0-p13-v309
-[of-formless-cognition](nirākāra-jñapteḥ) [something](kimapi) [ca](ca) [great](mahā) [form-clear](kāra-viśadam)
+[of-formless+cognition](nirākāra+jñapteḥ) [something](kimapi) [and](ca) [great+form+clear](mahā+ākāra+viśadam)
 
 ## mukta-m0-p13-v310
-[gone-forth](prayātaḥ) [completely](sākalyāt) [without-articulation](akalakalanaḥ) [time-calculator](kāla-kalanaḥ)
+[gone](prayātaḥ) [by-totality](sākalyāt) [without-part+perception](akala+kalanaḥ) [time+perception](kāla+kalanaḥ)
 
 ## mukta-m0-p13-v311
-[that](tat) [this](eṣā) [i](aham) [that](saḥ) [aham](aham) [this](tviyam) [iti](iti) [hi](hi) [lord-of-universe-best](viśveśvara-varaḥ)
+[therefore](tat) [this](eṣā) [I](aham) [he](saḥ) [I](aham) [you](tvi) [this](iyam) [thus](iti) [indeed](hi) [lord-of-universe+best](viśveśvara+varaḥ)
 
 ## mukta-m0-p13-v312
-[of-me](mama) [of-this](asyāḥ) [of-some](kasyāḥ) [api](api) [exceedingly-spotless](ativimala) [devotion-utterance-object](bhakti-ukti-viṣayam)
+[of-me](mama) [of-her](asyāḥ) [of-anyone](kasyā) [even](api) [very-pure+devotion+utterance+object](ativimala+bhakti+ukti+viṣayam)
 
 ## mukta-m0-p13-v313
-[capable](kṣamaḥ) [form](rūpam) [ca](ca) [etad](etad) [boon-giving](varadam) [api](api) [vaḥ](vaḥ) [by-foot-worship](pāda-bhajanāt)
+[capable](kṣamo) [form](rūpaṃ) [and-this](ca+etat) [boon-giving](varadam) [even](api) [to-you](vaḥ) [by-foot+worship](pāda+bhajanāt)
 
 ## mukta-m0-p13-v314
-[of-three-worlds](stri-dhāmnām) [state-of-abode](dhāmatvam) [attained](samadhigatam) [eva](eva) [by-lotus-eyes](akṣi-kamalaiḥ)
+[of-three-abodes](stridhāmnāṃ) [abode-ness](dhāmatvaṃ) [fully-attained](samadhigatam) [indeed](eva) [by-eye+lotuses](akṣi+kamalaiḥ)
 
 ## mukta-m0-p13-v315
-[again](punaḥ) [full-bliss](pūrṇa-ānandam) [sat](sat) [iti](iti) [ca](ca) [by-brilliance](rucā) [whirling](ghūrṇita) [gait](gatiḥ)
+[again](punaḥ) [full+bliss](pūrṇa+ānandaṃ) [being](sat) [thus](iti) [and](ca) [by-luster](rucā) [whirling+motion](ghūrṇita+gatiḥ)
 
 ## mukta-m0-p13-v316
-[thus](tathā) [time](kālam) [splendour](varcaḥ) [here-and-there](kacit-kacitam) [motionless-moving](niścala-calam)
+[thus](tathā) [time](kālaṃ) [splendor](varcaḥ) [somewhere+somewhere](kacit+akacitaṃ) [motionless+moving](niścala+calam)
 
 ## mukta-m0-p13-v317
-[by-four-faced](catur-vaktraiḥ) [creator](dhātā) [for-that-attainment](tat-adhigataye) [praises](stauti) [kim](kim) [alam](alam)
+[by-four+faced](ścatur+vaktraiḥ) [Brahmā](dhātā) [for-its-understanding](tat+adhigataye) [praises](stauti) [what+enough](kim+alam)
 
 ## mukta-m0-p13-v318
-[in-all](samaste) [or](vā) [in-part](vyaste) [innate-manifestation](sahaja-vibhave) [asmin](asmin) [to-discern](kalayitum)
+[in-whole](samaste) [or](vā) [in-part](vyaste) [in-innate+power](sahaja+vibhave) [in-this](asmin) [to-perceive](kalayitum)
 
 ## mukta-m0-p13-v319
-[liberation](vinirmuktim) [ca](ca) [of-this](asyāḥ) [outside](abahiḥ) [iva](iva) [in-outside](bāhye) [api](api) [in-object](viṣaye)
+[liberation](vinirmuktiṃ) [and](ca) [of-her](asyāḥ) [not-outside](abahiḥ) [as-if](iva) [in-external](bāhye) [even](api) [in-object](viṣaye)
 
 ## mukta-m0-p13-v320
-[in-consciousness-space](cit-ākāśe) [in-space](kāśe) [clear-manifestation](viśada-vibhave) [sun-ray](bhāskara-karaḥ)
+[in-consciousness+space](ścit+ākāśe) [in-Kāśī](kāśe) [in-clear+glory](viśada+vibhave) [sun+ray](bhāskara+karaḥ)
 
 ## mukta-m0-p13-v321
-[goddess-of-three-worlds-form](strī-devī-mūrtyā) [by-one-form](ekā) [threefold-creation-doer](trividha-vidhi-kṛt) [saḥ](saḥ) [aham](aham) [risen](uditaḥ)
+[three-goddess+form+one](stridevī+mūrti+aikaḥ) [threefold+action+doer](trividha+vidhi+kṛt) [he+I](saḥ+aham) [arisen](uditaḥ)
 
 ## mukta-m0-p13-v322
-[existence](sthitim) [that-that](tat-tat) [kim](kim) [syāt](syāt) [iti](iti) [to-discern](kalayitum) [na](na) [asmi](asmi) [capable](sakalaḥ)
+[state](sthitiṃ) [that+that](tat+tat) [what](kiṃ) [may-be](syāt) [thus](iti) [to-perceive](kalayitum) [not](na) [am](asmi) [capable](sakalaḥ)
 
 ## mukta-m0-p13-v323
-[kim](kim) [of-this](asyāḥ) [eager](udyuktam) [to-praise](śasitum) [fitting](ucitam) [rod](daṇḍa) [very-firm](sudṛḍham)
+[what](kim) [of-her](asyāḥ) [undertaken](udyuktaṃ) [to-praise](śasitum) [proper](ucitaṃ) [staff+firm](daṇḍa+sudṛḍham)
 
 ## mukta-m0-p13-v324
-[wave-splendour-band](taraṅga-śrī-bandhāḥ) [bear](dadhati) [khalu](khalu) [ocean](ratnākara) [state](kalām)
+[wave+beauty+arrays](taraṅga+śrī+bandhāḥ) [bear](dadhati) [indeed](khalu) [ocean+digit](ratnākara+kalām)
 
 ## mukta-m0-p13-v325
-[quivering-tongue](lalaj-jihvā) [having-seen](dṛṣṭvā) [abandoned-movement](parihṛta-gatiḥ) [vāsuki](vāsukim) [this](imam)
+[trembling+tongue](llalaj+jihvā) [having-seen](dṛṣṭvā) [abandoned+motion](parihṛta+gatiḥ) [Vāsuki](vāsukim) [this](imam)

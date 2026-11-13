@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "brāhmaṇyacihnam",
+     "gloss": "brahminhood-mark",
+     "grounds": "compound brāhmaṇya+cihnam; nominative singular neuter predicate",
+     "morph": "compound:n.nom.sg"
+    },
+    {
+     "surface": "etāvat",
+     "gloss": "this-much",
+     "grounds": "demonstrative extent, limiting scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restrictive particle emphasizing exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtradhāraṇam",
+     "gloss": "thread-wearing",
+     "grounds": "compound sūtra+dhāraṇam; nominative singular neuter subject",
+     "morph": "compound:n.nom.sg"
+    }
+   ],
+   "question": "What constitutes the sole remaining mark of brahminhood for such degraded individuals?",
+   "premises": [
+    "The described individuals lack faith and devotion.",
+    "Their conduct is characterized as degraded and impure.",
+    "No substantive brahminical qualities remain attributed to them."
+   ],
+   "inference": "Therefore, wearing the sacred thread alone is identified as their only mark of brahminhood.",
+   "uncertainties": [
+    "Whether sūtradhāraṇam is intended as a purely external ritual marker or also implies a hollow claim to status is not explicit."
+   ],
+   "plain_english": "For them, the only mark of being a brahmin is the wearing of the sacred thread."
+  }
+ ]
+}
