@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "tathā+api",
+     "gloss": "even-so",
+     "grounds": "concessive compound/indeclinable expressing 'nevertheless' or 'even so'",
+     "morph": "compound:tathā+api (indecl.)"
+    },
+    {
+     "surface": "pṛcchasi",
+     "gloss": "you-ask",
+     "grounds": "addressed to the interlocutor",
+     "morph": "2.sg.act-pres √prach"
+    },
+    {
+     "surface": "prājñe",
+     "gloss": "o-wise-one",
+     "grounds": "vocative address to the questioner",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "prītaye",
+     "gloss": "for-delight",
+     "grounds": "purpose or reason for speaking",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker's act of explaining",
+     "morph": "1.sg.act-pres √kath"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the explanation",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What motivates further explanation to an already wise questioner?",
+   "premises": [
+    "The addressee is acknowledged as wise.",
+    "The wise addressee still asks a question.",
+    "The speaker chooses to answer for the addressee's delight."
+   ],
+   "inference": "Therefore, the speaker explains further not from necessity but to please the wise questioner.",
+   "uncertainties": [
+    "Whether prītaye implies affectionate pleasure, devotional satisfaction, or simple willingness is context-dependent."
+   ],
+   "plain_english": "Even so, O wise one, you ask; for your delight, I tell you."
+  }
+ ]
+}

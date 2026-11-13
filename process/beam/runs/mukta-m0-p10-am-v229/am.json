@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 229,
- "question": "Which additional goddesses must be worshipped in this ritual sequence?",
+ "question": "What textual marker introduces the following cited passage or formula?",
  "premises": [
-  "Vārāhī is named",
-  "Nārasiṃhī is named",
-  "Both are declared to be worshipped"
+  "A citation marker is given",
+  "It begins with the word sākṣāt",
+  "Such markers introduce quoted material"
  ],
- "inference": "Vārāhī and Nārasiṃhī are likewise to be worshipped.",
- "uncertainties": [],
- "plain_english": "Vārāhī and likewise Nārasiṃhī are also to be worshipped."
+ "inference": "The phrase beginning with 'sākṣāt' serves to introduce the following citation.",
+ "uncertainties": [
+  "The full cited passage is not included in this token."
+ ],
+ "plain_english": "Beginning with the words 'sākṣāt' and so on."
 }

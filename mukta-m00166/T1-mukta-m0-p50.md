@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[own-mind](svāntam) [firm](dṛḍha) [+own](sva) [+mind](antam) [this](iyam) [may-make](karotu)
+[own-mind](svāntaṃ) [firm](dṛḍha) + [own](sva) + [mind](antam) + [this](iyaṃ) [may-make](karotu)
 
 ## mukta-m0-p50-v1227
-[in-śrī](śrī) [+name](nāma) [+sport](vilāse) [eighth](aṣṭamī) [devotion](bhaktiḥ)
+[in-śrī](śrī) + [name](nāma) + [sport](vilāse) + [eighth](aṣṭamī) [devotion](bhaktiḥ)
 
 ## mukta-m0-p50-v1228
-[kāmarūpa](kāmarūpa) [+dwelling](nivāsinī)
+[in-kāmarūpa](kāmarūpa) + [dwelling](nivāsinī)
 
 ## mukta-m0-p50-v1229
-[beautifully-smiling](suhāsinī) [of-essence](rasāya) [may-be](astu) [kāmarūpa](kāmarūpa) [+dwelling](nivāsinī)
+[beautifully-smiling](suhāsinī) [for-essence](rasāya) + [let-be](astu) [in-kāmarūpa](kāmarūpa) + [dwelling](nivāsinī)
 
 ## mukta-m0-p50-v1230
-[kāma](kāma) [+seed](bīja) [+possessing](vatī)
+[with-kāma](kāma) + [seed](bīja) + [possessing](vatī)
 
 ## mukta-m0-p50-v1231
-[possessing](vatī) [always](sadā) [by-him](tena) [not](na) [served](sevitā) [may-you-be](syāḥ)
+[possessing](vatī) [always](sadā) [by-him](tena) [not](na) [served](sevitā) [you-may-be](syāḥ)
 
 ## mukta-m0-p50-v1232
 [true](satyā)
 
 ## mukta-m0-p50-v1233
-[true](satyā) [even-though](api) [untrue](asatyam) [this](idam) [spreads](ātanute) [how](katham) [or](vā)
+[true](satyā) + [although](api) + [untrue](asatyam) + [this](idam) + [spreads-out](ātanute) [how](kathaṃ) [or](vā)
 
 ## mukta-m0-p50-v1234
-[truth](satya) [+dharma](dharma) [+devoted](parāyaṇā)
+[in-truth](satya) + [dharma](dharma) + [devoted](parāyaṇā)
 
 ## mukta-m0-p50-v1235
-[truth](satya) [+dharma](dharma) [+steadfast](sthirāḥ) [this](sā) [she](iyam) [truth](satya) [+dharma](dharma) [+devoted](parāyaṇā)
+[in-truth](satya) + [dharma](dharma) + [steadfast](sthirāḥ) [this](sā) + [she](iyaṃ) [in-truth](satya) + [dharma](dharma) + [devoted](parāyaṇā)
 
 ## mukta-m0-p50-v1236
-[gross](sthūla) [+path](mārga) [+situated](sthitā)
+[in-gross](sthūla) + [path](mārga) + [situated](sthitā)
 
 ## mukta-m0-p50-v1237
-[full](pūrṇa) [+bliss](ānandā) [wonder](citram) [this](etat) [marvelous](vicitram)
+[full](pūrṇa) + [bliss](ānandā) [wonder](citram) + [this](etad) [marvelous](vicitram)
 
 ## mukta-m0-p50-v1238
 [subtle](sūkṣmā)
 
 ## mukta-m0-p50-v1239
-[arise](bhavanti) [without-effort](ayatnataḥ) [of-whom](yasyāḥ) [she](sā) [subtle](sūkṣmā) [of-what-nature](kīdṛśī) [auspicious-one](śivā)
+[arise](bhavanti) + [without-effort](ayatnataḥ) [of-whom](yasyāḥ) [she](sā) [subtle](sūkṣmā) [of-what-kind](kīdṛśī) [auspicious](śivā)
 
 ## mukta-m0-p50-v1240
-[subtle](sūkṣma) [+intellect](buddhi) [+awakener](prabodhinī)
+[subtle](sūkṣma) + [intellect](buddhi) + [awakener](prabodhinī)
 
 ## mukta-m0-p50-v1241
-[how](katham) [to-be-known](jñeyāt) [not](na) [if](cet) [she](sā) [may-be](syāt) [subtle](sūkṣma) [+intellect](buddhi) [+awakener](prabodhinī)
+[how](kathaṃ) [to-be-known](jñeyāt) + [not](na) [if](cet) [she](sā) [may-be](syāt) [subtle](sūkṣma) + [intellect](buddhi) + [awakener](prabodhinī)
 
 ## mukta-m0-p50-v1242
-[six](ṣaṭ) [+cornered](koṇā)
+[six](ṣaṭ) + [cornered](koṇā)
 
 ## mukta-m0-p50-v1243
-[she](sā) [six](ṣaṭ) [+cornered](koṇā) [six](ṣaṭ) [+action](kriyā) [+firmness](dārḍhya) [+giver](dā) [may-be](astu)
+[she](sā) [six](ṣaṭ) + [cornered](koṇā) [six](ṣaṭ) + [action](kriyā) + [firmness](dārḍhya) + [giver](dā) + [let-be](astu)
 
 ## mukta-m0-p50-v1244
-[three](tri) [+cornered](koṇā)
+[three](tri) + [cornered](koṇā)
 
 ## mukta-m0-p50-v1245
-[this](sā) [she](iyam) [māyā](māyā) [by-what](kena) [measure](mānena) [mother](mātā)
+[this](sā) + [she](iyaṃ) [illusion](māyā) [by-what](kena) [measure](mānena) [mother](mātā)
 
 ## mukta-m0-p50-v1246
-[three](tri) [+eyed](netrā)
+[three](tri) + [eyed](netrā)
 
 ## mukta-m0-p50-v1247
-[she](sā) [to-me](me) [three](tri) [+eyed](netrā) [to-givers](dadatām) [good-eye](sunetram)
+[she](sā) [to-me](me) [three](tri) + [eyed](netrā) [to-givers](dadatāṃ) [good](su) + [eye](netram)
 
 ## mukta-m0-p50-v1248
-[Tripura](tripura) [+beautiful](sundarī)
+[tripura](tripura) + [beautiful](sundarī)
 
 ## mukta-m0-p50-v1249
-[three](tri) [+eye](netra) [+beloved](dayitā) [beneficent](hitā) [Tripura](tripura) [+beautiful](sundarī) [may-protect](pātu) [us](naḥ)
+[three](tri) + [eye](netra) + [beloved](dayitā) [beneficial](hitā) [tripura](tripura) + [beautiful](sundarī) [may-protect](pātu) [us](naḥ)
 
 ## mukta-m0-p50-v1250
-[bull](vṛṣa) [+beloved](priyā)
+[bull](vṛṣa) + [beloved](priyā)
