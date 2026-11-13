@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p33-v801
-[great+disease+pacifying](mahāvyādhipraśamanaṃ) [daily](nityam) [eight+more+than](aṣṭādhikaṃ) [hundred](śatam)
+[great-disease-pacifying](mahāvyādhi+praśamanaṃ) [daily](nityam) [eight-more-than](aṣṭa+adhikaṃ) [hundred](śatam)
 
 ## mukta-m0-p33-v802
-[with-mind](manasā) [one-should-contemplate](cintayet) [Kṛtyā](kṛtyāṃ) [elephant+riding](gajārūḍhāṃ) [unwearied](vitandritām)
+[with-mind](manasā) [one-should-contemplate](cintayet) [Kṛtyā](kṛtyāṃ) [elephant-mounted](gaja+ārūḍhāṃ) [unwearied](vitandritām)
 
 ## mukta-m0-p33-v803
-[once+hearing+merely](sakṛcchravaṇamātreṇa) [all+sin+destruction](sarvapāpavināśanam)
+[once-hearing-mere](sakṛt+śravaṇa+mātreṇa) [all-sin-destruction](sarva+pāpa+vināśanam)
 
 ## mukta-m0-p33-v804
-[intelligent](medhāvī) [and](ca) [eloquent](vāgmī) [one-becomes](bhavet) [having-chanted-that-much](tāvajjaptvā) [with-consecration](abhiṣekataḥ)
+[wise](medhāvī) [and](ca) [one-becomes](bhavet) [eloquent](vāgmī) [so-much-having-chanted](tāvat+japtvā) [by-consecration](abhiṣekataḥ)
 
 ## mukta-m0-p33-v805
-[month](māsaṃ) [fortnight](pakṣaṃ) [two+months](dvimāsaṃ) [or](vā) [six+months](ṣaṇmāsaṃ) [year](vatsaraṃ) [likewise](tathā)
+[month](māsaṃ) [fortnight](pakṣaṃ) [two-months](dvi+māsaṃ) [or](vā) [six-months](ṣaṇ+māsaṃ) [year](vatsaraṃ) [likewise](tathā)
 
 ## mukta-m0-p33-v806
-[now](atha) [I-shall-tell](vakṣye) [in-detail](viśeṣeṇa) [great+peace+rite+procedure](mahāśāntividhikramam)
+[now](atha) [I-shall-tell](vakṣye) [especially](viśeṣeṇa) [great-peace-rite-procedure](mahā+śānti+vidhi+kramam)
 
 ## mukta-m0-p33-v807
-[all+planet+etc.+faults](sarvagrahādidoṣāṇāṃ) [destruction](nāśanaṃ) [accomplishment+cause](siddhikāraṇam)
+[all-planet-etc-faults](sarva+graha+ādi+doṣāṇāṃ) [destruction](nāśanaṃ) [accomplishment-cause](siddhi+kāraṇam)
 
 ## mukta-m0-p33-v808
-[untimely+death+crushing](akālamṛtyumathanaṃ) [always](sadā) [victory+increasing](vijayavardhanam)
+[untimely-death-crushing](akāla+mṛtyu+mathanaṃ) [always](sadā) [victory-increasing](vijaya+vardhanam)
 
 ## mukta-m0-p33-v809
-[son+giving](putradaṃ) [fame+giving](kīrtidaṃ) [and](ca) [indeed](eva) [misfortune+impurity+destroying](alakṣmīmalanāśanam)
+[son-giving](putra+daṃ) [fame-giving](kīrti+daṃ) [and](ca) [indeed](eva) [misfortune-impurity-destroying](alakṣmī+mala+nāśanam)
 
 ## mukta-m0-p33-v810
 [Yoginīs](yoginī) [Bhūtas](bhūta) [Vetālas](vetālāḥ) [Pretas](preta) [Kuṣmāṇḍas](kuṣmāṇḍa) [serpents](pannagāḥ)
 
 ## mukta-m0-p33-v811
-[Kṛtyā](kṛtyām) [one-should-worship](abhyarcayed) [O-child](vatse) [according-to-rule+preceded-by](yathāvidhipuraḥsaram)
+[Kṛtyā](kṛtyām) [one-should-worship](abhyarcayet) [O-daughter](vatse) [according-to-rule-preceded-by](yathā+vidhi+puraḥsaram)
 
 ## mukta-m0-p33-v812
-[in-its-middle](tanmadhye) [eight+petaled](aṣṭadalaṃ) [having-drawn](likhya) [beginning-with-pa](pakārādīn) [one-should-place](nyaset) [in-order](kramāt)
+[in-its-middle](tat+madhye) [eight-petalled](aṣṭa+dalaṃ) [having-drawn](likhya) [beginning-with-pa](pa+kāra+ādīn) [one-should-place](nyaset) [in-order](kramāt)
 
 ## mukta-m0-p33-v813
-[moon+disk](candrabimbaṃ) [one-should-draw](likhet) [in-middle](madhye) [of-that+above](tasyordhve) [image](pratimāṃ) [one-should-draw](likhet)
+[moon-disc](candra+bimbaṃ) [one-should-draw](likhet) [in-middle](madhye) [above-it](tasya+ūrdhve) [image](pratimāṃ) [one-should-draw](likhet)
 
 ## mukta-m0-p33-v814
-[in-its-middle](tasya) [in-middle](madhye) [one-should-place](nyaset) [Kṛtyā](kṛtyāṃ) [all+characteristics+endowed-with](sarvalakṣaṇasaṃyutām)
+[in-its-middle](tasya) [in-middle](madhye) [one-should-place](nyaset) [Kṛtyā](kṛtyāṃ) [with-all-marks-endowed](sarva+lakṣaṇa+saṃyutām)
 
 ## mukta-m0-p33-v815
-[around](paritaḥ) [in-eight+pitchers](aṣṭaghaṭe) [to-be-placed](nyasyā) [Asitāṅga+etc.+Bhairavas](asitāṅgādibhairavāḥ)
+[around](paritaḥ) [in-eight-pots](aṣṭa+ghaṭe) [to-be-placed](nyasyāḥ) [Asitāṅga-etc-Bhairavas](asitāṅga+ādi+bhairavāḥ)
 
 ## mukta-m0-p33-v816
 [Kapālī](kapālī) [Bhīṣaṇa](bhīṣaṇaḥ) [and](ca) [indeed](eva) [Saṃhāra](saṃhāraḥ) [and](ca) [eighth](aṣṭamaḥ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p33-v817
-[up-to-world-guardians](lokeśāntaṃ) [one-should-worship](yajet) [goddess](devīṃ) [before-that](tadagre) [fire-offering](homam) [one-should-perform](ācaret)
+[up-to-world-guardians](loka+īśa+antaṃ) [one-should-worship](yajet) [goddess](devīṃ) [before-her](tat+agre) [oblation](homam) [one-should-perform](ācaret)
 
 ## mukta-m0-p33-v818
-[dūrvā+tips](dūrvāgra) [khadira](khadirā) [aśvattha](aśvatthaṃ) [each](pratyekaṃ) [indeed](tu) [hundred+eight](śatāṣṭakam)
+[dūrvā-tip](dūrvā+agra) [khadira](khadira) [aśvattha](aśvatthaṃ) [each](pratyekaṃ) [indeed](tu) [hundred-and-eight](śata+aṣṭakam)
 
 ## mukta-m0-p33-v819
-[of-that](tasya) [on-right+side](dakṣiṇapārśve) [indeed](tu) [Lakṣmī](lakṣmīṃ) [one-should-meditate](dhyāyet) [according-to-rule](yathāvidhi)
+[on-its-right-side](tasya) [on-right-side](dakṣiṇa+pārśve) [indeed](tu) [Lakṣmī](lakṣmīṃ) [one-should-meditate](dhyāyet) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p33-v820
-[on-left+side](vāmapārśve) [one-should-worship](yajet) [goddess](devīṃ) [Hṛllekhā](hṛllekhāṃ) [Bhuvaneśvarī](bhuvaneśvarīm)
+[on-left-side](vāma+pārśve) [one-should-worship](yajet) [goddess](devīṃ) [Hṛllekhā](hṛllekhāṃ) [Bhuvaneśvarī](bhuvaneśvarīm)
 
 ## mukta-m0-p33-v821
-[ten-thousand](ayutaṃ) [root+mantra](mūlamantraṃ) [indeed](tu) [one-should-chant](japet) [death+destroying](mṛtyuvināśanam)
+[ten-thousand](ayutaṃ) [root-mantra](mūla+mantraṃ) [indeed](tu) [one-should-chant](japet) [death-destroying](mṛtyu+vināśanam)
 
 ## mukta-m0-p33-v822
-[great+disease+pacifying](mahāvyādhipraśamanaṃ) [having-chanted-that-much](tāvajjaptvā) [with-consecration](abhiṣekataḥ)
+[great-disease-pacifying](mahā+vyādhi+praśamanaṃ) [so-much-having-chanted](tāvat+japtvā) [by-consecration](abhiṣekataḥ)
 
 ## mukta-m0-p33-v823
-[by-whom](yena) [known](jñātaṃ) [fragrance](parimalaṃ) [of-whom](yasya) [in-mouth](vaktre) [situated](sthitaṃ) [always](sadā)
+[by-whom](yena) [known](jñātaṃ) [fragrance](parimalaṃ) [whose](yasya) [in-mouth](vaktre) [abides](sthitaṃ) [always](sadā)
 
 ## mukta-m0-p33-v824
-[thus+etc.+abundant](ityādibahule) [in-tantra](tantre) [to-be-known](jñeyaḥ) [Parimala](parimalo) [mantra](manuḥ)
+[thus-etc-abundant](iti+ādi+bahule) [in-tantra](tantre) [to-be-known](jñeyaḥ) [fragrance](parimalaḥ) [mantra](manuḥ)
 
 ## mukta-m0-p33-v825
-[with-Sāvitrī](sāvitryā) [having-enclosed](saṃpuṭīkṛtya) [Durgā+seed](durgābījaṃ) [equally](samaṃ) [one-should-place](nyaset)
+[with-Sāvitrī](sāvitryā) [having-enclosed](saṃpuṭī+kṛtya) [Durgā-seed](durgā+bījaṃ) [equally](samaṃ) [one-should-place](nyaset)

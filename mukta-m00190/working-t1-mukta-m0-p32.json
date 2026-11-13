@@ -11,8 +11,20 @@
 "quick_gloss": "four-armed"
 },
 {
-"surface": "siṃhanāda+jvalat+śūla+kapālinīm",
-"quick_gloss": "lion-roar+blazing+trident+skull-holder"
+"surface": "siṃhanāda",
+"quick_gloss": "with-lion-roar"
+},
+{
+"surface": "jvalat",
+"quick_gloss": "blazing"
+},
+{
+"surface": "śūla",
+"quick_gloss": "trident"
+},
+{
+"surface": "kapālinīm",
+"quick_gloss": "and-skull-holder"
 }
 ]
 },
@@ -28,19 +40,15 @@
 "quick_gloss": "in-the-west"
 },
 {
-"surface": "vāruṇīṃ",
-"quick_gloss": "Vāruṇī"
-},
-{
-"surface": "nāma",
-"quick_gloss": "by-name"
+"surface": "vāruṇīṃ+nāma",
+"quick_gloss": "named-vāruṇī"
 },
 {
 "surface": "svarṇavarṇāṃ",
 "quick_gloss": "golden-colored"
 },
 {
-"surface": "hasan+mukhīm",
+"surface": "hasanmukhīm",
 "quick_gloss": "smiling-faced"
 }
 ]
@@ -57,16 +65,16 @@
 "quick_gloss": "in-the-north"
 },
 {
-"surface": "bhīmikāṃ",
-"quick_gloss": "Bhīmikā"
+"surface": "bhīmikāṃ+nāma",
+"quick_gloss": "named-bhīmikā"
 },
 {
-"surface": "nāma",
-"quick_gloss": "by-name"
+"surface": "caturvarga",
+"quick_gloss": "to-the-four-goals"
 },
 {
-"surface": "caturvarga+bhayaṅkarīm",
-"quick_gloss": "four-goals+terrifying"
+"surface": "bhayaṅkarīm",
+"quick_gloss": "fear-causing"
 }
 ]
 },
@@ -115,7 +123,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvādaśa+aṅgulataḥ",
+"surface": "dvādaśāṅgulataḥ",
 "quick_gloss": "twelve-fingers-long"
 },
 {
@@ -123,8 +131,12 @@
 "quick_gloss": "of-the-enemy"
 },
 {
-"surface": "nakha+loma+samanvitam",
-"quick_gloss": "nail+hair+endowed-with"
+"surface": "nakhala",
+"quick_gloss": "with-nail"
+},
+{
+"surface": "lomasamanvitam",
+"quick_gloss": "and-hair"
 }
 ]
 },
@@ -165,7 +177,7 @@
 },
 {
 "surface": "sthitaḥ",
-"quick_gloss": "situated"
+"quick_gloss": "is-situated"
 }
 ]
 },
@@ -218,23 +230,19 @@
 "quick_gloss": "one-should-bind"
 },
 {
-"surface": "kāraskara+maye",
-"quick_gloss": "in-a-kāraskara-wood-made"
+"surface": "kāraskaramaye",
+"quick_gloss": "on-a-kāraskara-wood"
 },
 {
 "surface": "toraṇe",
 "quick_gloss": "archway"
 },
 {
-"surface": "vā",
+"surface": "vāpi",
 "quick_gloss": "or"
 },
 {
-"surface": "api",
-"quick_gloss": "also"
-},
-{
-"surface": "adhaḥ+mukhī",
+"surface": "adhomukhī",
 "quick_gloss": "face-downward"
 }
 ]
@@ -272,7 +280,7 @@
 },
 {
 "surface": "tṛṇaiḥ",
-"quick_gloss": "with-grasses"
+"quick_gloss": "and-grasses"
 }
 ]
 },
@@ -296,7 +304,7 @@
 "quick_gloss": "with-parched-rice"
 },
 {
-"surface": "kāka+ulūkasya",
+"surface": "kākolūkasya",
 "quick_gloss": "of-crow-and-owl"
 },
 {
@@ -313,7 +321,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aṣṭa+uttara+śatena",
+"surface": "aṣṭottaraśatena",
 "quick_gloss": "with-one-hundred-and-eight"
 },
 {
@@ -354,11 +362,11 @@
 "quick_gloss": "my"
 },
 {
-"surface": "kaṇṭha+grahaḥ",
+"surface": "kaṇṭhagrahaḥ",
 "quick_gloss": "throat-seizure"
 },
 {
-"surface": "ati+dūra+sthaḥ",
+"surface": "atidūrasthaḥ",
 "quick_gloss": "very-far-situated"
 },
 {
@@ -399,7 +407,7 @@
 "quick_gloss": "according-to-rule"
 },
 {
-"surface": "nava+rātraṃ",
+"surface": "navarātraṃ",
 "quick_gloss": "for-nine-nights"
 },
 {
@@ -436,7 +444,7 @@
 "quick_gloss": "having-visualized"
 },
 {
-"surface": "niruddha+dṛk",
+"surface": "niruddhadṛk",
 "quick_gloss": "with-restrained-gaze"
 }
 ]
@@ -482,15 +490,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hara+siddhe",
-"quick_gloss": "in-Hara-accomplished"
+"surface": "harasiddhe",
+"quick_gloss": "in-the-hara-siddha"
 },
 {
-"surface": "citā+vahnau",
-"quick_gloss": "in-funeral-pyre-fire"
+"surface": "citāvahnau",
+"quick_gloss": "funeral-pyre-fire"
 },
 {
-"surface": "taila+siktaiḥ",
+"surface": "tailasiktaiḥ",
 "quick_gloss": "with-oil-smeared"
 },
 {
@@ -512,14 +520,14 @@
 },
 {
 "surface": "pratikṛtiṃ",
-"quick_gloss": "likeness"
+"quick_gloss": "effigy"
 },
 {
 "surface": "kṛtvā",
 "quick_gloss": "having-made"
 },
 {
-"surface": "sādhya+asthi+phalake",
+"surface": "sādhyakṣaphalake",
 "quick_gloss": "on-the-target’s-bone-slab"
 },
 {
@@ -548,8 +556,8 @@
 "quick_gloss": "having-placed"
 },
 {
-"surface": "śiva+nirmālya+kūpake",
-"quick_gloss": "in-a-Śiva-offering-pit"
+"surface": "śivanirmālyakūpake",
+"quick_gloss": "in-śiva’s-remains-pit"
 }
 ]
 },
@@ -562,7 +570,7 @@
 "tokens": [
 {
 "surface": "sadyaḥ",
-"quick_gloss": "immediately"
+"quick_gloss": "immediate"
 },
 {
 "surface": "avagāhanaṃ",
@@ -577,12 +585,8 @@
 "quick_gloss": "one-should-perform"
 },
 {
-"surface": "asya",
-"quick_gloss": "its"
-},
-{
-"surface": "anurakṣaṇam",
-"quick_gloss": "protection"
+"surface": "asya+anurakṣaṇam",
+"quick_gloss": "its-protection"
 }
 ]
 },
@@ -594,7 +598,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaṭ+māsān",
+"surface": "ṣaṇmāsān",
 "quick_gloss": "in-six-months"
 },
 {
@@ -643,7 +647,7 @@
 "quick_gloss": "the-mantrin"
 },
 {
-"surface": "kṛṣṇa+sarpasya",
+"surface": "kṛṣṇasarpasya",
 "quick_gloss": "of-a-black-snake"
 },
 {
@@ -660,11 +664,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uṣṭra+asthinā",
+"surface": "uṣṭrāsthinā",
 "quick_gloss": "with-camel-bone"
 },
 {
-"surface": "citā+aṅgāraiḥ",
+"surface": "citāṅgāraiḥ",
 "quick_gloss": "with-funeral-pyre-coals"
 },
 {
@@ -698,7 +702,7 @@
 },
 {
 "surface": "pālāśaiḥ",
-"quick_gloss": "with-palāśa-wood"
+"quick_gloss": "of-palāśa"
 },
 {
 "surface": "śāntiṃ",
@@ -722,24 +726,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vajra+puṣpaiḥ",
+"surface": "vajrapuṣpaiḥ",
 "quick_gloss": "with-vajra-flowers"
 },
 {
 "surface": "apāmārgaiḥ",
-"quick_gloss": "with-apāmārga-plants"
+"quick_gloss": "with-apāmārga"
+},
+{
+"surface": "aṅgāraiḥ",
+"quick_gloss": "and-with-coals"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "aṅgāraiḥ",
-"quick_gloss": "with-coals"
-},
-{
 "surface": "subhadrakaiḥ",
-"quick_gloss": "with-auspicious-ones"
+"quick_gloss": "with-subhadraka"
 }
 ]
 },
@@ -756,11 +760,11 @@
 },
 {
 "surface": "auśanase",
-"quick_gloss": "in-the-Auśanasa"
+"quick_gloss": "in-the-auśanasa"
 },
 {
 "surface": "tantre",
-"quick_gloss": "in-the-tantra"
+"quick_gloss": "tantra"
 },
 {
 "surface": "vāram",

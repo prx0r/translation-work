@@ -1,0 +1,1097 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2926,
+   "rows": [
+    {
+     "surface": "bhaginyāṃ",
+     "gloss": "sister",
+     "grounds": "female sibling",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "satyām",
+     "gloss": "being-present",
+     "grounds": "existing",
+     "morph": "f.loc.sg.pr.part"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaimātreyo",
+     "gloss": "step-brother",
+     "grounds": "son of different mother",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vimātṛjo",
+     "gloss": "step-brother",
+     "grounds": "born of different mother",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "property",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "should-take",
+     "grounds": "inherit",
+     "morph": "3.sg.opt.act √hṛ"
+    }
+   ],
+   "question": "Who may inherit the wealth even when a sister is present?",
+   "premises": [
+    "A sister may be present.",
+    "A son born of a different mother is a claimant.",
+    "Such a step-brother may take the wealth."
+   ],
+   "inference": "Even in the presence of a sister, a step-brother born of a different mother may inherit the wealth.",
+   "uncertainties": [],
+   "plain_english": "Even when a sister exists, a step-brother born of a different mother may take the wealth."
+  },
+  {
+   "verse": 2927,
+   "rows": [
+    {
+     "surface": "vaimātreyānvayo",
+     "gloss": "step-brother-lineage",
+     "grounds": "line of sons of different mother",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "vimātṛjasantatir",
+     "gloss": "step-brother-offspring",
+     "grounds": "progeny born of different mother",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "should-enjoy",
+     "grounds": "share or use",
+     "morph": "3.sg.opt.act √bhaj"
+    },
+    {
+     "surface": "seveta",
+     "gloss": "should-use",
+     "grounds": "enjoy or resort to",
+     "morph": "3.sg.opt.mid √sev"
+    }
+   ],
+   "question": "What rights do the lineage and offspring of step-brothers have over the wealth?",
+   "premises": [
+    "The lineage of step-brothers is considered.",
+    "The offspring of step-brothers is considered.",
+    "They may enjoy and use the wealth."
+   ],
+   "inference": "The lineage and offspring of step-brothers are entitled to enjoy and use the wealth.",
+   "uncertainties": [],
+   "plain_english": "The lineage and offspring of step-brothers should enjoy and use the wealth."
+  },
+  {
+   "verse": 2928,
+   "rows": [
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "property",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pitṛgatatvena",
+     "gloss": "as-father-derived",
+     "grounds": "by being property that came from the father",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "vibhajetāṃ",
+     "gloss": "they-two-should-divide",
+     "grounds": "partition between them",
+     "morph": "3.du.opt.mid √bhaj+vi"
+    },
+    {
+     "surface": "samāṃśinau",
+     "gloss": "equal-sharers",
+     "grounds": "having equal shares",
+     "morph": "m.nom.du compound"
+    }
+   ],
+   "question": "How should paternal wealth be divided between two equal claimants?",
+   "premises": [
+    "The wealth is derived from the father.",
+    "Two claimants are entitled to it.",
+    "They are equal sharers."
+   ],
+   "inference": "Because the wealth comes from the father, the two equal sharers should divide it equally.",
+   "uncertainties": [],
+   "plain_english": "Since the wealth comes from the father, the two should divide it as equal sharers."
+  },
+  {
+   "verse": 2929,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "in which case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "whatever",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bādhitaṃ",
+     "gloss": "obstructed",
+     "grounds": "blocked or encumbered",
+     "morph": "n.nom.sg.ppp √bādh"
+    },
+    {
+     "surface": "vittaṃ",
+     "gloss": "wealth",
+     "grounds": "property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "that wealth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛtāv",
+     "gloss": "at-death",
+     "grounds": "upon death",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "another",
+     "grounds": "to another person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "pass to",
+     "morph": "3.sg.opt.act √vraj"
+    }
+   ],
+   "question": "What happens to obstructed wealth when the holder dies?",
+   "premises": [
+    "Some wealth may be obstructed or encumbered.",
+    "The holder of that wealth dies.",
+    "The wealth must pass onward."
+   ],
+   "inference": "Whatever wealth is obstructed should pass to another upon the holder's death.",
+   "uncertainties": [],
+   "plain_english": "Where any wealth is obstructed, that wealth should go to another at death."
+  },
+  {
+   "verse": 2930,
+   "rows": [
+    {
+     "surface": "udvāhayantyo",
+     "gloss": "marrying-off",
+     "grounds": "those giving in marriage",
+     "morph": "f.nom.pl.pr.part √vah+ud"
+    },
+    {
+     "surface": "anūḍhāṃ",
+     "gloss": "unmarried-girl",
+     "grounds": "a girl not yet married",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "belonging to the father",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sādhāraṇair",
+     "gloss": "with-common",
+     "grounds": "shared",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "dhanaiḥ",
+     "gloss": "with-wealth",
+     "grounds": "resources",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "From what resources should an unmarried girl be given in marriage?",
+   "premises": [
+    "An unmarried girl is to be married off.",
+    "The father's wealth may be common or shared.",
+    "Marriage expenses may be drawn from that wealth."
+   ],
+   "inference": "Those marrying off an unmarried girl may do so using the father's common wealth.",
+   "uncertainties": [],
+   "plain_english": "But those marrying off an unmarried girl should do so with the father's common wealth."
+  },
+  {
+   "verse": 2931,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "different",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "draviṇaṃ",
+     "gloss": "property",
+     "grounds": "wealth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasmād",
+     "gloss": "from-which",
+     "grounds": "from whatever source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "āptaṃ",
+     "gloss": "obtained",
+     "grounds": "acquired",
+     "morph": "n.nom.sg.ppp √āp"
+    },
+    {
+     "surface": "tatpadam",
+     "gloss": "that-status",
+     "grounds": "that source or position",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "āśrayet",
+     "gloss": "should-follow",
+     "grounds": "should resort to",
+     "morph": "3.sg.opt.act √śri+ā"
+    }
+   ],
+   "question": "How should property obtained from another source be treated in inheritance?",
+   "premises": [
+    "Property may be obtained from a source other than the father.",
+    "Such property has its own source or status.",
+    "Its treatment should follow that source."
+   ],
+   "inference": "Other property should be treated according to the source from which it was obtained.",
+   "uncertainties": [],
+   "plain_english": "But other property should follow the status of the source from which it was obtained."
+  },
+  {
+   "verse": 2932,
+   "rows": [
+    {
+     "surface": "gṛhṇīyātām",
+     "gloss": "they-two-should-take",
+     "grounds": "both should receive",
+     "morph": "3.du.opt.mid √grah"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "this is the meaning",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What is the intended meaning of the preceding rule about taking property?",
+   "premises": [
+    "A prior rule concerns taking property.",
+    "Two parties are involved.",
+    "The rule means both should take."
+   ],
+   "inference": "The meaning of the preceding statement is that the two should take it.",
+   "uncertainties": [],
+   "plain_english": "This means that the two of them should take it."
+  },
+  {
+   "verse": 2933,
+   "rows": [
+    {
+     "surface": "tuśabdena",
+     "gloss": "by-word-but",
+     "grounds": "by the particle 'but'",
+     "morph": "m.inst.sg compound"
+    },
+    {
+     "surface": "vivāhyamānā",
+     "gloss": "being-married",
+     "grounds": "a woman being given in marriage",
+     "morph": "f.nom.sg.pr.part.pass √vah+vi"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitṛdravyaṃ",
+     "gloss": "father-wealth",
+     "grounds": "paternal property",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "should-divide",
+     "grounds": "should share in",
+     "morph": "3.sg.opt.act √bhaj+vi"
+    }
+   ],
+   "question": "Can a woman being married still share in her father's property?",
+   "premises": [
+    "The particle 'but' qualifies the rule.",
+    "A woman may be in the process of being married.",
+    "Paternal property is at issue."
+   ],
+   "inference": "Even a woman being married may share in her father's property.",
+   "uncertainties": [],
+   "plain_english": "By the word 'but', it is indicated that even a woman being married may share in her father's property."
+  },
+  {
+   "verse": 2934,
+   "rows": [
+    {
+     "surface": "puṇyan",
+     "gloss": "meritorious",
+     "grounds": "pure or rightful",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadupasvatvair",
+     "gloss": "by-dependence-on-that",
+     "grounds": "because of dependence on that property",
+     "morph": "n.inst.pl compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktā",
+     "gloss": "capable",
+     "grounds": "empowered",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dānavikraye",
+     "gloss": "in-gift-sale",
+     "grounds": "in giving or selling",
+     "morph": "n.loc.sg compound"
+    }
+   ],
+   "question": "Does a dependent woman have authority to give away or sell paternal property?",
+   "premises": [
+    "The property may be rightful paternal wealth.",
+    "The woman is dependent in relation to it.",
+    "Gift and sale require authority."
+   ],
+   "inference": "Because of her dependence, she is not empowered to give or sell that property.",
+   "uncertainties": [],
+   "plain_english": "But because of her dependence on it, she is not empowered to give or sell that property."
+  },
+  {
+   "verse": 2935,
+   "rows": [
+    {
+     "surface": "pitāmahagataṃ",
+     "gloss": "grandfather-derived",
+     "grounds": "coming from the grandfather",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "rikthaṃ",
+     "gloss": "inheritance",
+     "grounds": "heritable property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatputreṇa",
+     "gloss": "through-his-son",
+     "grounds": "by means of the grandfather's son",
+     "morph": "m.inst.sg compound"
+    },
+    {
+     "surface": "snuṣāṃ",
+     "gloss": "to-daughter-in-law",
+     "grounds": "to the son's wife",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "should pass",
+     "morph": "3.sg.opt.act √vraj"
+    }
+   ],
+   "question": "Can a grandfather's inheritance pass to a daughter-in-law through his son?",
+   "premises": [
+    "Inheritance may come from the grandfather.",
+    "The grandfather's son is an intermediary.",
+    "The daughter-in-law is the son's wife."
+   ],
+   "inference": "Inheritance from the grandfather may pass to the daughter-in-law through his son.",
+   "uncertainties": [],
+   "plain_english": "Inheritance coming from the grandfather should pass to the daughter-in-law through his son."
+  },
+  {
+   "verse": 2936,
+   "rows": [
+    {
+     "surface": "adhobhavānāṃ",
+     "gloss": "of-those-below",
+     "grounds": "of lower or later descendants",
+     "morph": "m.gen.pl compound"
+    },
+    {
+     "surface": "mukhyatvāt",
+     "gloss": "by-priority",
+     "grounds": "because of being principal",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhrātā",
+     "gloss": "brother",
+     "grounds": "male sibling",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusively",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanabhāg",
+     "gloss": "wealth-sharer",
+     "grounds": "entitled to a share of wealth",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Why does the brother take precedence as the sharer of wealth among lower descendants?",
+   "premises": [
+    "There are claimants among lower descendants.",
+    "Priority among them must be determined.",
+    "The brother is principal among them."
+   ],
+   "inference": "Because of his priority among lower descendants, the brother alone should be the sharer of wealth.",
+   "uncertainties": [],
+   "plain_english": "Because of the priority among those below, the brother alone should be the sharer of the wealth."
+  },
+  {
+   "verse": 2937,
+   "rows": [
+    {
+     "surface": "yasmāj",
+     "gloss": "from-which",
+     "grounds": "from whatever source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "janād",
+     "gloss": "from-person",
+     "grounds": "from a person or source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "āptaṃ",
+     "gloss": "obtained",
+     "grounds": "received",
+     "morph": "n.nom.sg.ppp √āp"
+    },
+    {
+     "surface": "labdhaṃ",
+     "gloss": "acquired",
+     "grounds": "gained",
+     "morph": "n.nom.sg.ppp √labh"
+    },
+    {
+     "surface": "tatpadam",
+     "gloss": "that-status",
+     "grounds": "that source or condition",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "āśrayet",
+     "gloss": "should-follow",
+     "grounds": "should resort to",
+     "morph": "3.sg.opt.act √śri+ā"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "should-enjoy",
+     "grounds": "should use",
+     "morph": "3.sg.opt.act √bhaj"
+    }
+   ],
+   "question": "How should property obtained or acquired from a particular source be enjoyed?",
+   "premises": [
+    "Property may be obtained or acquired from a source.",
+    "That source gives the property its status.",
+    "Enjoyment should follow that status."
+   ],
+   "inference": "Property obtained or acquired from a source should be enjoyed according to that source's status.",
+   "uncertainties": [],
+   "plain_english": "Whatever is obtained or acquired from a source should be enjoyed according to that source."
+  },
+  {
+   "verse": 2938,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-those",
+     "grounds": "of those properties",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dāne",
+     "gloss": "in-gift",
+     "grounds": "in giving away",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vikraye",
+     "gloss": "in-sale",
+     "grounds": "in selling",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktā",
+     "gloss": "capable",
+     "grounds": "empowered",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samarthā",
+     "gloss": "competent",
+     "grounds": "authorized",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Is a woman authorized to give or sell those particular properties?",
+   "premises": [
+    "Certain properties are under consideration.",
+    "Gift and sale require authority.",
+    "The woman lacks such authority over them."
+   ],
+   "inference": "She should not be capable or competent to give or sell those properties.",
+   "uncertainties": [],
+   "plain_english": "She should not be capable or competent to give or sell those things."
+  },
+  {
+   "verse": 2939,
+   "rows": [
+    {
+     "surface": "pitāmahasya",
+     "gloss": "of-grandfather",
+     "grounds": "belonging to the grandfather",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ātmajena",
+     "gloss": "by-son",
+     "grounds": "through the son",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "snuṣāṃ",
+     "gloss": "to-daughter-in-law",
+     "grounds": "to the son's wife",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "putrapatnīṃ",
+     "gloss": "son-wife",
+     "grounds": "wife of the son",
+     "morph": "f.acc.sg compound"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "should pass",
+     "morph": "3.sg.opt.act √vraj"
+    }
+   ],
+   "question": "Through whom may a grandfather's property pass to his son's wife?",
+   "premises": [
+    "Property belongs to the grandfather.",
+    "The grandfather's son is in the line of transmission.",
+    "The son's wife is the intended recipient."
+   ],
+   "inference": "The grandfather's property may pass to the son's wife through the son.",
+   "uncertainties": [],
+   "plain_english": "Property of the grandfather should pass to the daughter-in-law, the son's wife, through his son."
+  },
+  {
+   "verse": 2940,
+   "rows": [
+    {
+     "surface": "bhajet",
+     "gloss": "should-enjoy",
+     "grounds": "should receive or use",
+     "morph": "3.sg.opt.act √bhaj"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "this is the meaning",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What is the intended meaning of the rule about property passing to the daughter-in-law?",
+   "premises": [
+    "A prior rule states property should pass to the daughter-in-law.",
+    "The verb of enjoyment clarifies the effect.",
+    "The meaning is that she should enjoy it."
+   ],
+   "inference": "The meaning of the preceding rule is that she should enjoy that property.",
+   "uncertainties": [],
+   "plain_english": "This means that she should enjoy it."
+  },
+  {
+   "verse": 2941,
+   "rows": [
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pitṛpadaṃ",
+     "gloss": "father-state",
+     "grounds": "the father's position or estate",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "having passed to",
+     "morph": "(gerund) √gam"
+    },
+    {
+     "surface": "prayātur",
+     "gloss": "of-deceased",
+     "grounds": "of one who has departed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhrātaraṃ",
+     "gloss": "brother",
+     "grounds": "male sibling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "should-go-to",
+     "grounds": "should pass to",
+     "morph": "3.sg.opt.act √bhaj"
+    }
+   ],
+   "question": "To whom should wealth pass after it has reached the deceased father's estate?",
+   "premises": [
+    "Wealth may pass into the father's estate.",
+    "The father is deceased.",
+    "A brother remains as claimant."
+   ],
+   "inference": "Wealth that has passed into the deceased father's estate should go to the brother.",
+   "uncertainties": [],
+   "plain_english": "Wealth that has gone to the deceased father's estate should pass to the brother."
+  },
+  {
+   "verse": 2942,
+   "rows": [
+    {
+     "surface": "duhitrapatyaṃ",
+     "gloss": "daughter-offspring",
+     "grounds": "child of a daughter",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "dhanabhāg",
+     "gloss": "wealth-sharer",
+     "grounds": "entitled to wealth",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "property",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasmād",
+     "gloss": "because",
+     "grounds": "since",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhomukham",
+     "gloss": "downward-directed",
+     "grounds": "passing downward in line",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "Why is a daughter's offspring entitled to a share of wealth?",
+   "premises": [
+    "A daughter's offspring may claim wealth.",
+    "Wealth can pass downward in the line.",
+    "Downward transmission supports the claim."
+   ],
+   "inference": "Because wealth passes downward, a daughter's offspring is entitled to share in it.",
+   "uncertainties": [],
+   "plain_english": "A daughter's offspring is a sharer of wealth because the wealth passes downward."
+  },
+  {
+   "verse": 2943,
+   "rows": [
+    {
+     "surface": "puṃso",
+     "gloss": "of-male",
+     "grounds": "of a man",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mukhyataratvena",
+     "gloss": "by-greater-priority",
+     "grounds": "because of being more principal",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "dhanahārī",
+     "gloss": "wealth-taker",
+     "grounds": "one who takes the wealth",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "male parent",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why should the father be the one who takes the wealth in this case?",
+   "premises": [
+    "A male claimant has greater priority.",
+    "The father is such a claimant.",
+    "Priority determines who takes the wealth."
+   ],
+   "inference": "Because of the greater priority of the male, the father should be the taker of the wealth.",
+   "uncertainties": [],
+   "plain_english": "Because of the greater priority of the male, the father should be the one who takes the wealth."
+  },
+  {
+   "verse": 2944,
+   "rows": [
+    {
+     "surface": "pretasya",
+     "gloss": "of-deceased",
+     "grounds": "of the dead person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhanahārī",
+     "gloss": "wealth-taker",
+     "grounds": "one who takes the wealth",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "would be",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "the father",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sambandhagauravāt",
+     "gloss": "by-relationship-weight",
+     "grounds": "because of the importance of the relationship",
+     "morph": "n.abl.sg compound"
+    }
+   ],
+   "question": "Why should the father take the wealth of the deceased person?",
+   "premises": [
+    "The deceased person's wealth must be taken by someone.",
+    "The father has a weighty relationship to the deceased.",
+    "Relationship weight determines precedence."
+   ],
+   "inference": "Because of the weight of his relationship, the father should be the taker of the deceased's wealth.",
+   "uncertainties": [],
+   "plain_english": "The father should be the taker of the deceased's wealth because of the weight of his relationship."
+  },
+  {
+   "verse": 2945,
+   "rows": [
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "it would be",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "for this reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duhitrapatyam",
+     "gloss": "daughter-offspring",
+     "grounds": "child of a daughter",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusively",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanabhāg",
+     "gloss": "wealth-sharer",
+     "grounds": "entitled to wealth",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Who is concluded to be the wealth-sharer as a result of the preceding reasoning?",
+   "premises": [
+    "The preceding reasoning establishes precedence.",
+    "A daughter's offspring is under consideration.",
+    "That offspring is identified as the sharer."
+   ],
+   "inference": "Therefore, the daughter's offspring alone should be the sharer of the wealth.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the daughter's offspring alone should be the sharer of the wealth."
+  },
+  {
+   "verse": 2946,
+   "rows": [
+    {
+     "surface": "dhanahārī",
+     "gloss": "wealth-taker",
+     "grounds": "one who takes the wealth",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "would be",
+     "morph": "3.sg.opt.act √as"
+    }
+   ],
+   "question": "What role is affirmed for the claimant in taking the wealth?",
+   "premises": [
+    "A claimant's role is being stated.",
+    "The role concerns taking wealth.",
+    "The claimant should have that role."
+   ],
+   "inference": "The claimant should be the taker of the wealth.",
+   "uncertainties": [],
+   "plain_english": "He should be the taker of the wealth."
+  },
+  {
+   "verse": 2947,
+   "rows": [
+    {
+     "surface": "svārthe",
+     "gloss": "in-own-sense",
+     "grounds": "in its own meaning",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "aṇ",
+     "gloss": "suffix-aṇ",
+     "grounds": "the grammatical suffix aṇ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What grammatical explanation is given for the form used in the preceding rule?",
+   "premises": [
+    "A term in the preceding rule requires explanation.",
+    "The explanation is grammatical.",
+    "The suffix aṇ is used in its own sense."
+   ],
+   "inference": "The form is explained by the suffix aṇ used in its own sense.",
+   "uncertainties": [],
+   "plain_english": "The suffix aṇ is used in its own sense."
+  },
+  {
+   "verse": 2948,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "for this reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sannikṛṣṭo",
+     "gloss": "near",
+     "grounds": "closely related",
+     "morph": "m.nom.sg.ppp √kṛṣ+sam+ni"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātulo",
+     "gloss": "maternal-uncle",
+     "grounds": "mother's brother",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpnuyād",
+     "gloss": "should-obtain",
+     "grounds": "should receive",
+     "morph": "3.sg.opt.act √āp"
+    },
+    {
+     "surface": "dhanam",
+     "gloss": "wealth",
+     "grounds": "property",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Does a close maternal uncle have a right to obtain the wealth in this case?",
+   "premises": [
+    "A maternal uncle may be closely related.",
+    "Closeness of relation can suggest a claim.",
+    "The rule excludes him in this case."
+   ],
+   "inference": "Therefore, even a closely related maternal uncle should not obtain the wealth here.",
+   "uncertainties": [],
+   "plain_english": "Therefore, even a closely related maternal uncle should not obtain the wealth in this case."
+  },
+  {
+   "verse": 2949,
+   "rows": [
+    {
+     "surface": "pitāmahasya",
+     "gloss": "of-grandfather",
+     "grounds": "belonging to the grandfather",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "draviṇāt",
+     "gloss": "from-property",
+     "grounds": "from the wealth",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "svapitur",
+     "gloss": "of-own-father",
+     "grounds": "of one's own father",
+     "morph": "m.gen.sg compound"
+    },
+    {
+     "surface": "dāyam",
+     "gloss": "inheritance",
+     "grounds": "share or portion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arhati",
+     "gloss": "deserves",
+     "grounds": "is entitled to",
+     "morph": "3.sg.pres.act √arh"
+    }
+   ],
+   "question": "What inheritance is one entitled to receive from a grandfather's property through one's own father?",
+   "premises": [
+    "Property may belong to the grandfather.",
+    "A share may pass through one's own father.",
+    "Entitlement to that share is recognized."
+   ],
+   "inference": "One is entitled to one's father's share from the grandfather's property.",
+   "uncertainties": [],
+   "plain_english": "One is entitled to one's father's share from the grandfather's property."
+  }
+ ]
+}
