@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of means; devotion as the means of purification",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding to previously stated purifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇadevasya",
+     "gloss": "of-kṛṣṇa-deva",
+     "grounds": "genitive qualifying vacasaḥ; refers to Kṛṣṇadeva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vacasaḥ",
+     "gloss": "of-speech",
+     "grounds": "genitive object of purification; the speech or words of Kṛṣṇadeva",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purification",
+     "grounds": "subject of the clause; the act or state of purification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "predicate indicating approval or desirability of this purification",
+     "morph": "3.sg.pass-pres √iṣ"
+    }
+   ],
+   "question": "Through devotion, what purification concerning Kṛṣṇadeva's speech is approved?",
+   "premises": [
+    "Devotion functions as the means of purification.",
+    "The purification pertains to the speech of Kṛṣṇadeva.",
+    "Such purification is explicitly desired or approved."
+   ],
+   "inference": "Therefore, devotion brings about the approved purification of Kṛṣṇadeva's speech.",
+   "uncertainties": [
+    "Whether vacasaḥ refers to spoken words, teachings, or textual utterance is not specified."
+   ],
+   "plain_english": "And through devotion, the purification of Kṛṣṇadeva's speech is desired."
+  }
+ ]
+}
