@@ -1,0 +1,95 @@
+[
+ {
+  "verse_id": "mukta-m00634-p01-v1",
+  "song": "mukta-m00634-p01",
+  "verse": 1,
+  "scope": "verse",
+  "structured": true,
+  "speaker": "Abhinavagupta (teacher voice)",
+  "question": "What completion marker is indicated by the syllable la in this colophon fragment?",
+  "premises": [
+   "The syllable la is explicitly named.",
+   "The following elements express full completion.",
+   "The tokens together form a colophon statement."
+  ],
+  "inference": "The fragment marks the completion associated with the syllable la.",
+  "uncertainties": [
+   "The exact ritual or textual unit completed by 'laḥ' is not specified in the available text."
+  ],
+  "option_choices": [],
+  "traces": {
+   "t1_verse": "mukta-m00634-p01-v1",
+   "l0_ids": [
+    "mukta-m00634-p01-v1-p000",
+    "mukta-m00634-p01-v1-p001",
+    "mukta-m00634-p01-v1-p002",
+    "mukta-m00634-p01-v1-p003"
+   ],
+   "sanskrit_sha": "938aeea20793fffc"
+  },
+  "sanskrit_sha": "938aeea20793fffc"
+ },
+ {
+  "verse_id": "mukta-m00634-p01-v2",
+  "song": "mukta-m00634-p01",
+  "verse": 2,
+  "scope": "verse",
+  "structured": true,
+  "speaker": "Abhinavagupta (teacher voice)",
+  "question": "What textual completion and devotional salutation conclude the second chapter here?",
+  "premises": [
+   "The second chapter is named.",
+   "The chapter is declared fully completed.",
+   "A salutation to the Mātṛkā follows."
+  ],
+  "inference": "The second chapter concludes with a declaration of completion and homage to the Mātṛkā.",
+  "uncertainties": [],
+  "option_choices": [],
+  "traces": {
+   "t1_verse": "mukta-m00634-p01-v2",
+   "l0_ids": [
+    "mukta-m00634-p01-v2-p000",
+    "mukta-m00634-p01-v2-p001",
+    "mukta-m00634-p01-v2-p002",
+    "mukta-m00634-p01-v2-p003",
+    "mukta-m00634-p01-v2-p004",
+    "mukta-m00634-p01-v2-p005"
+   ],
+   "sanskrit_sha": "938aeea20793fffc"
+  },
+  "sanskrit_sha": "938aeea20793fffc"
+ },
+ {
+  "verse_id": "mukta-m00634-p01-v3",
+  "song": "mukta-m00634-p01",
+  "verse": 3,
+  "scope": "verse",
+  "structured": true,
+  "speaker": "Abhinavagupta (teacher voice)",
+  "question": "Which textual location and speaker frame the beginning of the fifth chapter?",
+  "premises": [
+   "The context is given as the Kābheda Tantra.",
+   "The fifth chapter is identified.",
+   "The goddess is presented as speaking."
+  ],
+  "inference": "The fifth chapter in the Kābheda Tantra opens with the goddess speaking.",
+  "uncertainties": [
+   "The precise identification of 'kābhede' is uncertain (UNC)."
+  ],
+  "option_choices": [],
+  "traces": {
+   "t1_verse": "mukta-m00634-p01-v3",
+   "l0_ids": [
+    "mukta-m00634-p01-v3-p000",
+    "mukta-m00634-p01-v3-p001",
+    "mukta-m00634-p01-v3-p002",
+    "mukta-m00634-p01-v3-p003",
+    "mukta-m00634-p01-v3-p004",
+    "mukta-m00634-p01-v3-p005",
+    "mukta-m00634-p01-v3-p006"
+   ],
+   "sanskrit_sha": "938aeea20793fffc"
+  },
+  "sanskrit_sha": "938aeea20793fffc"
+ }
+]

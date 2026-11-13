@@ -1,84 +1,85 @@
 [
-{
-"verse_id": "mukta-m00562-p01-v1",
-"song": "mukta-m00562-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "aiṁ",
-"quick_gloss": "seed-mantra"
-},
-{
-"surface": "5",
-"quick_gloss": "5"
-},
-{
-"surface": "hūṁ",
-"quick_gloss": "seed-mantra"
-},
-{
-"surface": "śrīṁ",
-"quick_gloss": "seed-mantra"
-},
-{
-"surface": "mahā+komārikā",
-"quick_gloss": "virgin-goddess"
-},
-{
-"surface": "vicce",
-"quick_gloss": "mantra-syllable"
-},
-{
-"surface": "pādukāṃ",
-"quick_gloss": "sandals"
-},
-{
-"surface": "mūlamantrana",
-"quick_gloss": "with-root-mantra"
-},
-{
-"surface": "tri+yāñjali",
-"quick_gloss": "handful-offerings"
-}
-]
-},
-{
-"verse_id": "mukta-m00562-p01-v2",
-"song": "mukta-m00562-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "śrī-+aticaṇḍikā+devī",
-"quick_gloss": "goddess"
-},
-{
-"surface": "pādukāṃ",
-"quick_gloss": "sandals"
-},
-{
-"surface": "8",
-"quick_gloss": "8"
-},
-{
-"surface": "aiṁ",
-"quick_gloss": "seed-mantra"
-},
-{
-"surface": "5",
-"quick_gloss": "5"
-},
-{
-"surface": "mahiṣa+āsanāya",
-"quick_gloss": "seated-one-to"
-},
-{
-"surface": "pādukāṃ",
-"quick_gloss": "sandals"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00562-p01-v1",
+  "song": "mukta-m00562-p01",
+  "verse": 1,
+  "quick_english": "Great virgin goddess, with aiṁ, five, hūṁ, śrīṁ, vicce, the sandals, together with the root mantra, and a triple handful offering.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "aiṁ",
+    "quick_gloss": "seed-syllable",
+    "grounds": "bija; UNC traditional mantra syllable"
+   },
+   {
+    "surface": "hūṁ",
+    "quick_gloss": "seed-syllable",
+    "grounds": "bija; UNC traditional mantra syllable"
+   },
+   {
+    "surface": "śrīṁ",
+    "quick_gloss": "seed-syllable",
+    "grounds": "bija; UNC traditional mantra syllable"
+   },
+   {
+    "surface": "mahā+komārikā",
+    "quick_gloss": "great-virgin-goddess",
+    "grounds": "compound as given mahā+komārikā; internal division noted, not split into rows"
+   },
+   {
+    "surface": "vicce",
+    "quick_gloss": "mantra-syllable",
+    "grounds": "mantra syllable; UNC function in context"
+   },
+   {
+    "surface": "pādukāṃ",
+    "quick_gloss": "sandals",
+    "grounds": "object term; accusative form as given"
+   },
+   {
+    "surface": "mūlamantrana",
+    "quick_gloss": "root-mantra-with",
+    "grounds": "compound as given; UNC exact instrumental/associative force"
+   },
+   {
+    "surface": "tri+yāñjali",
+    "quick_gloss": "three-handful-offering",
+    "grounds": "compound as given tri+yāñjali; UNC measure of offering"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00562-p01-v2",
+  "song": "mukta-m00562-p01",
+  "verse": 2,
+  "quick_english": "Auspicious great fierce goddess, the sandals, eight, aiṁ, five, to the buffalo seat, the sandals.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "śrī-+aticaṇḍikā+devī",
+    "quick_gloss": "auspicious-great-fierce-goddess",
+    "grounds": "compound as given śrī-+aticaṇḍikā+devī; internal division noted, not split into rows"
+   },
+   {
+    "surface": "pādukāṃ",
+    "quick_gloss": "sandals",
+    "grounds": "object term; accusative form as given"
+   },
+   {
+    "surface": "aiṁ",
+    "quick_gloss": "seed-syllable",
+    "grounds": "bija; UNC traditional mantra syllable"
+   },
+   {
+    "surface": "mahiṣa+āsanāya",
+    "quick_gloss": "buffalo-seat-to",
+    "grounds": "compound as given mahiṣa+āsanāya; dative-like ending as given; UNC recipient force"
+   },
+   {
+    "surface": "pādukāṃ",
+    "quick_gloss": "sandals",
+    "grounds": "object term; accusative form as given"
+   }
+  ]
+ }
 ]

@@ -1,51 +1,61 @@
 [
-{
-"verse_id": "mukta-m00643-p01-v1",
-"song": "mukta-m00643-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "so",
-"quick_gloss": "he"
-},
-{
-"surface": "naciraiā",
-"quick_gloss": "not-long-after"
-},
-{
-"surface": "kapūt+tarakalāyāṃ",
-"quick_gloss": "in-Kapūta-Tarakalā"
-},
-{
-"surface": "upadeśa",
-"quick_gloss": "instruction"
-},
-{
-"surface": "ādi",
-"quick_gloss": "etc."
-},
-{
-"surface": "śarīraja",
-"quick_gloss": "body-born"
-},
-{
-"surface": "ādi",
-"quick_gloss": "etc."
-},
-{
-"surface": "upaśamana",
-"quick_gloss": "cessation"
-},
-{
-"surface": "dvitīya",
-"quick_gloss": "second"
-},
-{
-"surface": "prakāśaḥ",
-"quick_gloss": "illumination"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00643-p01-v1",
+  "song": "mukta-m00643-p01",
+  "verse": 1,
+  "quick_english": "Not long after, in Kapūta-Tarakalā, that is the second illumination: the cessation of instruction and so forth, and of body-born things and so forth.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "so",
+    "quick_gloss": "that",
+    "grounds": "Demonstrative pronoun referring to an unspecified subject; antecedent not given in this short text. UNC."
+   },
+   {
+    "surface": "naciraiā",
+    "quick_gloss": "not-long-after",
+    "grounds": "Adverbial expression indicating shortly thereafter; form preserved as given. UNC."
+   },
+   {
+    "surface": "kapūt+tarakalāyāṃ",
+    "quick_gloss": "in-kaputa-tarakala",
+    "grounds": "Locative of a proper name or technical term; '+' retained as in source. Identification uncertain. UNC."
+   },
+   {
+    "surface": "upadeśa",
+    "quick_gloss": "instruction",
+    "grounds": "First member of a compound series describing topics or processes."
+   },
+   {
+    "surface": "ādi",
+    "quick_gloss": "and-so-forth",
+    "grounds": "Indicates an open-ended series beginning with body-born phenomena."
+   },
+   {
+    "surface": "śarīraja",
+    "quick_gloss": "body-born",
+    "grounds": "First member of a second compound series, referring to what arises from the body."
+   },
+   {
+    "surface": "ādi",
+    "quick_gloss": "and-so-forth",
+    "grounds": "Indicates an open-ended series beginning with body-born phenomena."
+   },
+   {
+    "surface": "upaśamana",
+    "quick_gloss": "cessation",
+    "grounds": "Final member of the compound series, denoting calming or cessation."
+   },
+   {
+    "surface": "dvitīya",
+    "quick_gloss": "second",
+    "grounds": "Ordinal adjective qualifying the illumination."
+   },
+   {
+    "surface": "prakāśaḥ",
+    "quick_gloss": "illumination",
+    "grounds": "Predicate noun denoting a manifestation or illumination."
+   }
+  ]
+ }
 ]

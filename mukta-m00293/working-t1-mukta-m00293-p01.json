@@ -1,171 +1,162 @@
 [
-{
-"verse_id": "mukta-m00293-p01-v1",
-"song": "mukta-m00293-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "vakṣye",
-"quick_gloss": "I-shall-tell"
-},
-{
-"surface": "tasyāḥ",
-"quick_gloss": "of-her"
-},
-{
-"surface": "saparyā",
-"quick_gloss": "worship"
-},
-{
-"surface": "vai",
-"quick_gloss": "indeed"
-},
-{
-"surface": "pradāya+anusārataḥ",
-"quick_gloss": "according-to+tradition"
-}
-]
-},
-{
-"verse_id": "mukta-m00293-p01-v2",
-"song": "mukta-m00293-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "māsa+iti",
-"quick_gloss": "māsa+thus"
-},
-{
-"surface": "ṛṣi+ādi",
-"quick_gloss": "ṛṣi+and-so-forth"
-},
-{
-"surface": "nyāsaḥ",
-"quick_gloss": "placement"
-},
-{
-"surface": "asti",
-"quick_gloss": "is"
-}
-]
-},
-{
-"verse_id": "mukta-m00293-p01-v3",
-"song": "mukta-m00293-p01",
-"verse": 3,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "kavyavahāyai",
-"quick_gloss": "to-kavyavahā"
-},
-{
-"surface": "||",
-"quick_gloss": "||"
-},
-{
-"surface": "10",
-"quick_gloss": "10"
-},
-{
-"surface": "||",
-"quick_gloss": "||"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "saṃpūjya",
-"quick_gloss": "having-worshipped"
-},
-{
-"surface": "tad+upari",
-"quick_gloss": "upon+that"
-},
-{
-"surface": "asra+kṣālitaṃ",
-"quick_gloss": "washed+with-water"
-},
-{
-"surface": "pātraṃ",
-"quick_gloss": "vessel"
-},
-{
-"surface": "nidhāya",
-"quick_gloss": "having-placed"
-},
-{
-"surface": "||",
-"quick_gloss": "||"
-}
-]
-},
-{
-"verse_id": "mukta-m00293-p01-v4",
-"song": "mukta-m00293-p01",
-"verse": 4,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "jvālāmukha",
-"quick_gloss": "O-flame-mouthed-one"
-},
-{
-"surface": "sarva+vighnān",
-"quick_gloss": "all+obstacles"
-},
-{
-"surface": "nāśayaḥ",
-"quick_gloss": "destroy"
-}
-]
-},
-{
-"verse_id": "mukta-m00293-p01-v5",
-"song": "mukta-m00293-p01",
-"verse": 5,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "māyāvānpaṃcā",
-"quick_gloss": "māyāvānpaṃcā"
-},
-{
-"surface": "śrīpādukāṃ0",
-"quick_gloss": "śrīpādukāṃ0"
-},
-{
-"surface": "||",
-"quick_gloss": "||"
-},
-{
-"surface": "10",
-"quick_gloss": "10"
-},
-{
-"surface": "||",
-"quick_gloss": "||"
-},
-{
-"surface": "ete",
-"quick_gloss": "these"
-},
-{
-"surface": "siddha+aughāḥ",
-"quick_gloss": "groups-of-siddhas"
-},
-{
-"surface": "||",
-"quick_gloss": "||"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00293-p01-v1",
+  "song": "mukta-m00293-p01",
+  "verse": 1,
+  "quick_english": "I shall indeed tell of her worship according to tradition.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "vakṣye",
+    "quick_gloss": "i-shall-tell",
+    "grounds": "√vac; future declaration by speaker"
+   },
+   {
+    "surface": "tasyāḥ",
+    "quick_gloss": "of-her",
+    "grounds": "refers to the goddess previously implied; UNC specific referent absent in this excerpt"
+   },
+   {
+    "surface": "saparyā",
+    "quick_gloss": "worship",
+    "grounds": "ritual worship or service"
+   },
+   {
+    "surface": "vai",
+    "quick_gloss": "indeed",
+    "grounds": "emphatic particle"
+   },
+   {
+    "surface": "pradāya+anusārataḥ",
+    "quick_gloss": "according-to-tradition",
+    "grounds": "compound/phrase indicating conformity to transmitted method; UNC exact internal analysis"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00293-p01-v2",
+  "song": "mukta-m00293-p01",
+  "verse": 2,
+  "quick_english": "There is a placement of the month, the sage, and so forth.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "māsa+iti",
+    "quick_gloss": "month-thus",
+    "grounds": "quotation marker indicating the term māsa"
+   },
+   {
+    "surface": "ṛṣi+ādi",
+    "quick_gloss": "sage-and-so-forth",
+    "grounds": "compound indicating ṛṣi and others in a ritual placement sequence"
+   },
+   {
+    "surface": "nyāsaḥ",
+    "quick_gloss": "placement",
+    "grounds": "ritual placement or installation"
+   },
+   {
+    "surface": "asti",
+    "quick_gloss": "is",
+    "grounds": "√as; asserts existence or presence"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00293-p01-v3",
+  "song": "mukta-m00293-p01",
+  "verse": 3,
+  "quick_english": "Having worshipped thus for Kavyavaha, one should place upon that a vessel washed with water.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "kavyavahāyai",
+    "quick_gloss": "to-kavyavaha",
+    "grounds": "dative of recipient or dedication; name of a deity or power; UNC exact identity"
+   },
+   {
+    "surface": "iti",
+    "quick_gloss": "thus",
+    "grounds": "quotation or formula-closing particle"
+   },
+   {
+    "surface": "saṃpūjya",
+    "quick_gloss": "having-worshipped",
+    "grounds": "√pūj with sam; prior ritual action"
+   },
+   {
+    "surface": "tad+upari",
+    "quick_gloss": "upon-that",
+    "grounds": "locative compound indicating position above that"
+   },
+   {
+    "surface": "asra+kṣālitaṃ",
+    "quick_gloss": "washed-with-water",
+    "grounds": "compound describing purification of the vessel; asra taken as water per context, UNC"
+   },
+   {
+    "surface": "pātraṃ",
+    "quick_gloss": "vessel",
+    "grounds": "ritual vessel"
+   },
+   {
+    "surface": "nidhāya",
+    "quick_gloss": "having-placed",
+    "grounds": "√dhā with ni; subsequent ritual action"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00293-p01-v4",
+  "song": "mukta-m00293-p01",
+  "verse": 4,
+  "quick_english": "O flame-mouthed one, destroy all obstacles.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "jvālāmukha",
+    "quick_gloss": "o-flame-mouthed-one",
+    "grounds": "vocative address to a fiery deity or power"
+   },
+   {
+    "surface": "sarva+vighnān",
+    "quick_gloss": "all-obstacles",
+    "grounds": "compound denoting every obstacle"
+   },
+   {
+    "surface": "nāśayaḥ",
+    "quick_gloss": "destroy",
+    "grounds": "√naś causative; imperative request or command; UNC exact form analysis"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00293-p01-v5",
+  "song": "mukta-m00293-p01",
+  "verse": 5,
+  "quick_english": "Māyāvānpaṃcā, revered foot-rest 0. These are the streams of siddhas.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "māyāvānpaṃcā",
+    "quick_gloss": "mayavanpanca",
+    "grounds": "technical or mantra-like term; UNC meaning and segmentation"
+   },
+   {
+    "surface": "śrīpādukāṃ0",
+    "quick_gloss": "revered-foot-rest-0",
+    "grounds": "honorific term for sacred sandals or seat with appended marker; UNC exact function of 0"
+   },
+   {
+    "surface": "ete",
+    "quick_gloss": "these",
+    "grounds": "demonstrative pronoun referring to groups named"
+   },
+   {
+    "surface": "siddha+aughāḥ",
+    "quick_gloss": "streams-of-siddhas",
+    "grounds": "compound denoting groups or lineages of siddhas"
+   }
+  ]
+ }
 ]

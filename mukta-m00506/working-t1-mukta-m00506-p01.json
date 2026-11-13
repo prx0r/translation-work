@@ -1,35 +1,41 @@
 [
-{
-"verse_id": "mukta-m00506-p01-v1",
-"song": "mukta-m00506-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "iyaṃ",
-"quick_gloss": "this"
-},
-{
-"surface": "sā",
-"quick_gloss": "that"
-},
-{
-"surface": "śāmbhavī",
-"quick_gloss": "śāmbhavī"
-},
-{
-"surface": "mudrā",
-"quick_gloss": "seal"
-},
-{
-"surface": "sarva+anteṣu",
-"quick_gloss": "all+in-ends"
-},
-{
-"surface": "gopitā",
-"quick_gloss": "hidden"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00506-p01-v1",
+  "song": "mukta-m00506-p01",
+  "verse": 1,
+  "quick_english": "This is that Śāmbhavī seal, hidden in all extremities.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "iyaṃ",
+    "quick_gloss": "this",
+    "grounds": "L0|deictic|UNC"
+   },
+   {
+    "surface": "sā",
+    "quick_gloss": "that",
+    "grounds": "L0|anaphoric|UNC"
+   },
+   {
+    "surface": "śāmbhavī",
+    "quick_gloss": "sambhu-related",
+    "grounds": "L0|adjectival|UNC"
+   },
+   {
+    "surface": "mudrā",
+    "quick_gloss": "seal",
+    "grounds": "L0|nominal|UNC"
+   },
+   {
+    "surface": "sarva+anteṣu",
+    "quick_gloss": "all-in-ends",
+    "grounds": "L0|locative-compound|UNC"
+   },
+   {
+    "surface": "gopitā",
+    "quick_gloss": "hidden",
+    "grounds": "L0|passive-participle|UNC"
+   }
+  ]
+ }
 ]

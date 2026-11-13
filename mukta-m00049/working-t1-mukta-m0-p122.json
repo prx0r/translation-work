@@ -15,28 +15,20 @@
 "quick_gloss": "lord"
 },
 {
-"surface": "punar",
-"quick_gloss": "again"
-},
-{
-"surface": "ādātum",
-"quick_gloss": "to+take"
+"surface": "punar+ādātuṃ",
+"quick_gloss": "again+to-take"
 },
 {
 "surface": "dharmaḥ",
-"quick_gloss": "duty/law"
+"quick_gloss": "dharma"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "asya",
-"quick_gloss": "of+him"
+"surface": "hi+asya",
+"quick_gloss": "indeed+of-this"
 },
 {
 "surface": "yataḥ",
-"quick_gloss": "from+which"
+"quick_gloss": "because"
 },
 {
 "surface": "prabhuḥ",
@@ -52,7 +44,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svayam",
+"surface": "svayaṃ",
 "quick_gloss": "himself"
 },
 {
@@ -60,20 +52,16 @@
 "quick_gloss": "or"
 },
 {
-"surface": "tat",
-"quick_gloss": "that+of"
+"surface": "tat+pratinidhiḥ",
+"quick_gloss": "his+representative"
 },
 {
-"surface": "pratinidhiḥ",
-"quick_gloss": "substitute"
-},
-{
-"surface": "dharmārtham",
-"quick_gloss": "for+dharma+purpose"
+"surface": "dharma+arthaṃ",
+"quick_gloss": "for-dharma+purpose"
 },
 {
 "surface": "viniyojayet",
-"quick_gloss": "may+appoint"
+"quick_gloss": "should-employ"
 }
 ]
 },
@@ -86,27 +74,23 @@
 "tokens": [
 {
 "surface": "yāvat",
-"quick_gloss": "as+long+as"
+"quick_gloss": "as-long-as"
 },
 {
 "surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "dhanam",
+"surface": "dhanaṃ",
 "quick_gloss": "wealth"
 },
 {
-"surface": "putrādyaiḥ",
-"quick_gloss": "by+sons+etc."
+"surface": "putra+ādyaiḥ",
+"quick_gloss": "by-sons+and-others"
 },
 {
-"surface": "anyathā",
-"quick_gloss": "otherwise"
-},
-{
-"surface": "kartum",
-"quick_gloss": "to+make"
+"surface": "anyathā+kartuṃ",
+"quick_gloss": "otherwise+to-make"
 },
 {
 "surface": "na",
@@ -118,7 +102,7 @@
 },
 {
 "surface": "śakyate",
-"quick_gloss": "is+possible"
+"quick_gloss": "is-possible"
 }
 ]
 },
@@ -131,19 +115,15 @@
 "tokens": [
 {
 "surface": "dhanasya",
-"quick_gloss": "of+wealth"
+"quick_gloss": "of-wealth"
 },
 {
-"surface": "hi",
-"quick_gloss": "indeed"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
+"surface": "hi+iti",
+"quick_gloss": "indeed+thus"
 },
 {
 "surface": "niścitau",
-"quick_gloss": "two+certainties"
+"quick_gloss": "in-certainty"
 },
 {
 "surface": "dharmaḥ",
@@ -155,7 +135,7 @@
 },
 {
 "surface": "svāmī",
-"quick_gloss": "owner/master"
+"quick_gloss": "owner"
 }
 ]
 },
@@ -167,16 +147,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mukhyasya",
-"quick_gloss": "of+the+principal"
+"surface": "mukhyasya+abhāve",
+"quick_gloss": "of-principal+in-absence"
 },
 {
-"surface": "abhāve",
-"quick_gloss": "in+absence"
-},
-{
-"surface": "tatsadṛśaḥ",
-"quick_gloss": "that+like"
+"surface": "tat+sadṛśaḥ",
+"quick_gloss": "similar-to-him"
 },
 {
 "surface": "yaḥ",
@@ -184,7 +160,7 @@
 },
 {
 "surface": "upādīyate",
-"quick_gloss": "is+taken+up"
+"quick_gloss": "is-appointed"
 },
 {
 "surface": "saḥ",
@@ -192,7 +168,7 @@
 },
 {
 "surface": "pratinidhiḥ",
-"quick_gloss": "substitute"
+"quick_gloss": "representative"
 }
 ]
 },
@@ -205,39 +181,31 @@
 "tokens": [
 {
 "surface": "dadyāt",
-"quick_gloss": "may+give"
+"quick_gloss": "may-give"
 },
 {
 "surface": "snehena",
-"quick_gloss": "out+of+affection"
+"quick_gloss": "with-affection"
 },
 {
 "surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "ca+anyaḥ",
+"quick_gloss": "and+another"
 },
 {
-"surface": "anyaḥ",
-"quick_gloss": "another"
-},
-{
-"surface": "anyathā",
-"quick_gloss": "otherwise"
+"surface": "na+anyathā",
+"quick_gloss": "not+otherwise"
 },
 {
 "surface": "kartum",
-"quick_gloss": "to+do"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "to-do"
 },
 {
 "surface": "arhati",
-"quick_gloss": "ought"
+"quick_gloss": "is-fit"
 }
 ]
 },
@@ -253,20 +221,16 @@
 "quick_gloss": "gives"
 },
 {
-"surface": "anyaiḥ",
-"quick_gloss": "by+others"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "anyaiḥ+ca",
+"quick_gloss": "by-others+and"
 },
 {
 "surface": "dāyādaiḥ",
-"quick_gloss": "heirs"
+"quick_gloss": "by-heirs"
 },
 {
-"surface": "pratiroddhum",
-"quick_gloss": "to+oppose"
+"surface": "pratiroddhuṃ",
+"quick_gloss": "to-obstruct"
 },
 {
 "surface": "na",
@@ -274,7 +238,7 @@
 },
 {
 "surface": "śakyate",
-"quick_gloss": "is+possible"
+"quick_gloss": "is-possible"
 }
 ]
 },
@@ -287,11 +251,11 @@
 "tokens": [
 {
 "surface": "pitrye",
-"quick_gloss": "in+paternal"
+"quick_gloss": "in-paternal-property"
 },
 {
-"surface": "samāmśāḥ",
-"quick_gloss": "equal+share"
+"surface": "sama+aṃśāḥ",
+"quick_gloss": "equal+shares"
 },
 {
 "surface": "dāyādāḥ",
@@ -302,16 +266,12 @@
 "quick_gloss": "not"
 },
 {
-"surface": "lābhārhāḥ",
-"quick_gloss": "of+gain"
+"surface": "lābha+arhāḥ",
+"quick_gloss": "gain+entitled"
 },
 {
-"surface": "vinā",
-"quick_gloss": "without"
-},
-{
-"surface": "arjakam",
-"quick_gloss": "acquirer"
+"surface": "vinā+arjakam",
+"quick_gloss": "without+acquirer"
 }
 ]
 },
@@ -323,20 +283,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dāyādānām",
-"quick_gloss": "of+heirs"
+"surface": "dāyādānāṃ",
+"quick_gloss": "of-heirs"
 },
 {
-"surface": "taddhanebhyaḥ",
-"quick_gloss": "from+those+wealths"
+"surface": "tat+dhanebhyaḥ",
+"quick_gloss": "from-that+wealths"
 },
 {
 "surface": "uddhartā",
-"quick_gloss": "having+withdrawn"
+"quick_gloss": "recoverer"
 },
 {
-"surface": "dvyaṃśam",
-"quick_gloss": "two+parts"
+"surface": "dvi+aṃśam",
+"quick_gloss": "two+shares"
 },
 {
 "surface": "arhati",
@@ -356,20 +316,16 @@
 "quick_gloss": "then"
 },
 {
-"surface": "anyaiḥ",
-"quick_gloss": "by+others"
+"surface": "anyaiḥ+dāyādaiḥ",
+"quick_gloss": "by-other+heirs"
 },
 {
-"surface": "dāyādaiḥ",
-"quick_gloss": "heirs"
+"surface": "pratiroddhuṃ",
+"quick_gloss": "to-obstruct"
 },
 {
-"surface": "pratiroddhum",
-"quick_gloss": "to+oppose"
-},
-{
-"surface": "vārayitum",
-"quick_gloss": "to+restrain"
+"surface": "vārayituṃ",
+"quick_gloss": "to-prevent"
 },
 {
 "surface": "na",
@@ -377,7 +333,7 @@
 },
 {
 "surface": "śakyate",
-"quick_gloss": "is+possible"
+"quick_gloss": "is-possible"
 }
 ]
 },
@@ -389,12 +345,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lābhārhāḥ",
-"quick_gloss": "of+gain"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"surface": "lābha+arhāḥ+tu",
+"quick_gloss": "gain+entitled+but"
 },
 {
 "surface": "na",
@@ -402,7 +354,7 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "kintu",
@@ -413,24 +365,16 @@
 "quick_gloss": "acquirer"
 },
 {
-"surface": "eva",
+"surface": "eva+ekaḥ",
 "quick_gloss": "alone"
 },
 {
-"surface": "ekaḥ",
-"quick_gloss": "one"
+"surface": "lābha+arhaḥ",
+"quick_gloss": "gain+entitled"
 },
 {
-"surface": "lābhārhaḥ",
-"quick_gloss": "of+gain"
-},
-{
-"surface": "iti",
-"quick_gloss": "iti"
-},
-{
-"surface": "arthaḥ",
-"quick_gloss": "meaning"
+"surface": "iti+arthaḥ",
+"quick_gloss": "thus+meaning"
 }
 ]
 },
@@ -442,24 +386,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śarīram",
-"quick_gloss": "body"
+"surface": "śarīram+tu",
+"quick_gloss": "body+but"
 },
 {
-"surface": "tu",
-"quick_gloss": "but"
-},
-{
-"surface": "pitṛḥ",
-"quick_gloss": "of+father"
+"surface": "pituḥ",
+"quick_gloss": "of-father"
 },
 {
 "surface": "yasmāt",
-"quick_gloss": "from+which"
+"quick_gloss": "since"
 },
 {
 "surface": "kim",
-"quick_gloss": "why"
+"quick_gloss": "how"
 },
 {
 "surface": "na",
@@ -467,15 +407,15 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 },
 {
-"surface": "paitṛkam",
+"surface": "paitṛkaṃ",
 "quick_gloss": "paternal"
 },
 {
 "surface": "vasu",
-"quick_gloss": "property"
+"quick_gloss": "wealth"
 }
 ]
 },
@@ -487,7 +427,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvam",
+"surface": "sarvaṃ",
 "quick_gloss": "all"
 },
 {
@@ -495,20 +435,16 @@
 "quick_gloss": "that"
 },
 {
-"surface": "pitṛ",
-"quick_gloss": "to+father"
-},
-{
-"surface": "saṃkrāntam",
-"quick_gloss": "transferred"
+"surface": "pitṛ+saṃkrāntaṃ",
+"quick_gloss": "to-father+transferred"
 },
 {
 "surface": "tadā",
 "quick_gloss": "then"
 },
 {
-"surface": "svopārjitam",
-"quick_gloss": "self-acquired"
+"surface": "sva+upārjitaṃ",
+"quick_gloss": "self+acquired"
 },
 {
 "surface": "kutaḥ",
@@ -524,8 +460,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svopārjitam",
-"quick_gloss": "self-acquired"
+"surface": "sva+upārjitaṃ",
+"quick_gloss": "self+acquired"
 },
 {
 "surface": "tat",
@@ -537,14 +473,14 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "saḥ",
 "quick_gloss": "he"
 },
 {
-"surface": "tatsvāmī",
+"surface": "tat+svāmī",
 "quick_gloss": "its+owner"
 },
 {
@@ -552,12 +488,8 @@
 "quick_gloss": "not"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "aparaḥ",
-"quick_gloss": "another"
+"surface": "ca+aparaḥ",
+"quick_gloss": "and+another"
 }
 ]
 },
@@ -570,15 +502,11 @@
 "tokens": [
 {
 "surface": "labhante",
-"quick_gloss": "obtain"
+"quick_gloss": "they-obtain"
 },
 {
-"surface": "iti",
-"quick_gloss": "iti"
-},
-{
-"surface": "arthaḥ",
-"quick_gloss": "meaning"
+"surface": "iti+arthaḥ",
+"quick_gloss": "thus+meaning"
 }
 ]
 },
@@ -590,16 +518,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paitṛkam",
-"quick_gloss": "paternal"
-},
-{
-"surface": "eva",
-"quick_gloss": "alone"
+"surface": "paitṛkam+eva",
+"quick_gloss": "paternal+alone"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would+become"
+"quick_gloss": "should-be"
 }
 ]
 },
@@ -612,27 +536,23 @@
 "tokens": [
 {
 "surface": "dhanasya",
-"quick_gloss": "of+wealth"
+"quick_gloss": "of-wealth"
 },
 {
 "surface": "prabhuḥ",
-"quick_gloss": "lord/owner"
+"quick_gloss": "lord"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "ca+aparaḥ",
+"quick_gloss": "and+other"
 },
 {
-"surface": "aparaḥ",
-"quick_gloss": "another"
-},
-{
-"surface": "arjakabhinnaḥ",
-"quick_gloss": "different+from+acquirer"
+"surface": "arjaka+bhinnaḥ",
+"quick_gloss": "acquirer+different"
 },
 {
 "surface": "svāmī",
@@ -648,16 +568,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātāmahaḥ",
-"quick_gloss": "maternal+grandfather"
+"surface": "mātāmahān",
+"quick_gloss": "maternal-grandfathers"
 },
 {
-"surface": "kareṇa",
-"quick_gloss": "by+hand"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
+"surface": "kareṇa+api",
+"quick_gloss": "with-hand+even"
 },
 {
 "surface": "praharan",
@@ -672,8 +588,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "dāyabhāk",
-"quick_gloss": "heir"
+"surface": "dāya+bhāk",
+"quick_gloss": "inheritance+sharer"
 }
 ]
 },
@@ -686,27 +602,19 @@
 "tokens": [
 {
 "surface": "hatānām",
-"quick_gloss": "of+the+killed"
+"quick_gloss": "of-slain"
 },
 {
-"surface": "anya",
-"quick_gloss": "other"
-},
-{
-"surface": "dāyādāḥ",
-"quick_gloss": "heirs"
+"surface": "anya+dāyādāḥ",
+"quick_gloss": "other+heirs"
 },
 {
 "surface": "bhaveyuḥ",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 },
 {
-"surface": "dhana",
-"quick_gloss": "of+wealth"
-},
-{
-"surface": "bhāginaḥ",
-"quick_gloss": "partakers"
+"surface": "dhana+bhāginaḥ",
+"quick_gloss": "wealth+sharers"
 }
 ]
 },
@@ -718,12 +626,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yāvajjīvam",
-"quick_gloss": "as+long+as+life"
+"surface": "yāvat+jīvanam",
+"quick_gloss": "as-long-as+life"
 },
 {
 "surface": "arhanti",
-"quick_gloss": "deserve"
+"quick_gloss": "they-deserve"
 },
 {
 "surface": "na",
@@ -735,11 +643,11 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 },
 {
-"surface": "dāyabhāginaḥ",
-"quick_gloss": "heirs"
+"surface": "dāya+bhāginaḥ",
+"quick_gloss": "inheritance+sharers"
 }
 ]
 },
@@ -755,24 +663,20 @@
 "quick_gloss": "king"
 },
 {
-"surface": "tat",
-"quick_gloss": "that"
+"surface": "tat+svāmine",
+"quick_gloss": "to-its+owner"
 },
 {
-"surface": "svāmine",
-"quick_gloss": "to+owner"
-},
-{
-"surface": "prāptā",
-"quick_gloss": "having+obtained"
+"surface": "prāptrā",
+"quick_gloss": "to-obtainer"
 },
 {
 "surface": "dāpayet",
-"quick_gloss": "may+cause+to+give"
+"quick_gloss": "should-cause-to-give"
 },
 {
-"surface": "suvicārayan",
-"quick_gloss": "well+considering"
+"surface": "su+vicārayan",
+"quick_gloss": "well+investigating"
 }
 ]
 },
@@ -784,8 +688,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dāyabhāgitvam",
-"quick_gloss": "heirship"
+"surface": "dāya+bhāgitvaṃ",
+"quick_gloss": "inheritance+sharership"
 },
 {
 "surface": "na",
@@ -793,15 +697,15 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "iti",
-"quick_gloss": "iti"
+"quick_gloss": "thus"
 },
 {
 "surface": "sūcitam",
-"quick_gloss": "is+indicated"
+"quick_gloss": "indicated"
 }
 ]
 },
@@ -813,28 +717,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hantuḥ",
-"quick_gloss": "of+the+killer"
-},
-{
-"surface": "bhinnāḥ",
-"quick_gloss": "different"
+"surface": "hantuḥ+bhinnāḥ",
+"quick_gloss": "from-slayer+different"
 },
 {
 "surface": "dāyādāḥ",
 "quick_gloss": "heirs"
 },
 {
-"surface": "dhana",
-"quick_gloss": "of+wealth"
-},
-{
-"surface": "bhāginaḥ",
-"quick_gloss": "partakers"
+"surface": "dhana+bhāginaḥ",
+"quick_gloss": "wealth+sharers"
 },
 {
 "surface": "bhaveyuḥ",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 }
 ]
 },
@@ -851,7 +747,7 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 }
 ]
 },
@@ -863,8 +759,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāptāḥ",
-"quick_gloss": "having+obtained"
+"surface": "prāptā",
+"quick_gloss": "obtainer"
 },
 {
 "surface": "tatra",
@@ -872,23 +768,23 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would+be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "svāmī",
 "quick_gloss": "owner"
 },
 {
-"surface": "daśamāmśam",
-"quick_gloss": "tenth+part"
+"surface": "daśama+aṃśaṃ",
+"quick_gloss": "tenth+share"
 },
 {
 "surface": "nṛpe",
-"quick_gloss": "to+king"
+"quick_gloss": "to-king"
 },
 {
 "surface": "arpayet",
-"quick_gloss": "may+offer"
+"quick_gloss": "should-offer"
 }
 ]
 }

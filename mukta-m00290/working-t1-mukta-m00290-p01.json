@@ -1,31 +1,36 @@
 [
-{
-"verse_id": "mukta-m00290-p01-v1",
-"song": "mukta-m00290-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "īśvara",
-"quick_gloss": "lord"
-},
-{
-"surface": "mahādeva",
-"quick_gloss": "great-god"
-},
-{
-"surface": "sadbhāveśvara",
-"quick_gloss": "lord-of-true-being"
-},
-{
-"surface": "mahātejāyogādhipate",
-"quick_gloss": "great-radiance-lord-of-yoga"
-},
-{
-"surface": "muṃca",
-"quick_gloss": "release"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00290-p01-v1",
+  "song": "mukta-m00290-p01",
+  "verse": 1,
+  "quick_english": "O Lord, O Great God, O Lord of true being, O Lord of yoga of great radiance, release!",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "īśvara",
+    "quick_gloss": "lord",
+    "grounds": "vocative address to a supreme lord"
+   },
+   {
+    "surface": "mahādeva",
+    "quick_gloss": "great-god",
+    "grounds": "epithet in vocative; compound mahā+deva"
+   },
+   {
+    "surface": "sadbhāveśvara",
+    "quick_gloss": "lord-of-true-being",
+    "grounds": "epithet in vocative; compound sad+bhāva+īśvara"
+   },
+   {
+    "surface": "mahātejāyogādhipate",
+    "quick_gloss": "lord-of-yoga-of-great-radiance",
+    "grounds": "epithet in vocative; compound mahā+tejas+yoga+adhipati"
+   },
+   {
+    "surface": "muṃca",
+    "quick_gloss": "release",
+    "grounds": "imperative command directed to the addressed lord"
+   }
+  ]
+ }
 ]

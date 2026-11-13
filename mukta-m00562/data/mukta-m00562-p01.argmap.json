@@ -1,0 +1,71 @@
+[
+ {
+  "verse_id": "mukta-m00562-p01-v1",
+  "song": "mukta-m00562-p01",
+  "verse": 1,
+  "scope": "verse",
+  "structured": true,
+  "speaker": "Abhinavagupta (teacher voice)",
+  "question": "What claim about assigning the sandals requires the pairing of a named goddess form with a triple offering and a root mantra in this sequence?",
+  "premises": [
+   "A named goddess form is listed before an object designated as sandals.",
+   "Numerals and bija syllables are placed in sequence with named items in the given order.",
+   "A triple offering and a root-mantra term are appended to the sandals as listed items."
+  ],
+  "inference": "The sequence links the sandals to a specified goddess form through the listed numerals, bija syllables and compound terms without stating an explicit action verb.",
+  "uncertainties": [
+   "Function of bija syllables aiṁ hūṁ śrīṁ vicce remains UNC",
+   "Exact force of mūlamantrana remains UNC",
+   "No explicit verb present to fix agent or action"
+  ],
+  "option_choices": [],
+  "traces": {
+   "t1_verse": "mukta-m00562-p01-v1",
+   "l0_ids": [
+    "mukta-m00562-p01-v1-p000",
+    "mukta-m00562-p01-v1-p001",
+    "mukta-m00562-p01-v1-p002",
+    "mukta-m00562-p01-v1-p003",
+    "mukta-m00562-p01-v1-p004",
+    "mukta-m00562-p01-v1-p005",
+    "mukta-m00562-p01-v1-p006",
+    "mukta-m00562-p01-v1-p007"
+   ],
+   "sanskrit_sha": "d6712ea44c654451"
+  },
+  "sanskrit_sha": "d6712ea44c654451"
+ },
+ {
+  "verse_id": "mukta-m00562-p01-v2",
+  "song": "mukta-m00562-p01",
+  "verse": 2,
+  "scope": "verse",
+  "structured": true,
+  "speaker": "Abhinavagupta (teacher voice)",
+  "question": "What claim about directing the sandals requires linking the auspicious fierce goddess to a buffalo-seat recipient through the listed numerals and bija syllables in this sequence?",
+  "premises": [
+   "An auspicious fierce goddess form is listed at the start of the sequence.",
+   "The sandals appear twice with numerals and the bija syllable aiṁ placed between them.",
+   "A term for a buffalo seat is listed last in a form marked toward a recipient as given."
+  ],
+  "inference": "The sequence links the sandals to the named goddess and to a buffalo-seat recipient by order alone, with no explicit verb present in the listed tokens.",
+  "uncertainties": [
+   "Force of dative-like ending on mahiṣa+āsanāya remains UNC",
+   "Relation between the two occurrences of pādukāṃ remains UNC",
+   "No explicit verb present to fix agent or action"
+  ],
+  "option_choices": [],
+  "traces": {
+   "t1_verse": "mukta-m00562-p01-v2",
+   "l0_ids": [
+    "mukta-m00562-p01-v2-p000",
+    "mukta-m00562-p01-v2-p001",
+    "mukta-m00562-p01-v2-p002",
+    "mukta-m00562-p01-v2-p003",
+    "mukta-m00562-p01-v2-p004"
+   ],
+   "sanskrit_sha": "d6712ea44c654451"
+  },
+  "sanskrit_sha": "d6712ea44c654451"
+ }
+]

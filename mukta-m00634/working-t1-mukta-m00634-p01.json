@@ -1,113 +1,114 @@
 [
-{
-"verse_id": "mukta-m00634-p01-v1",
-"song": "mukta-m00634-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "laḥ",
-"quick_gloss": "syllable-la"
-},
-{
-"surface": "pari",
-"quick_gloss": "fully"
-},
-{
-"surface": "pūr",
-"quick_gloss": "complet"
-},
-{
-"surface": "ṇaḥ",
-"quick_gloss": "ed"
-}
-]
-},
-{
-"verse_id": "mukta-m00634-p01-v2",
-"song": "mukta-m00634-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "dvitīyaḥ",
-"quick_gloss": "second"
-},
-{
-"surface": "paṭalaḥ",
-"quick_gloss": "chapter"
-},
-{
-"surface": "paripūrṇaḥ",
-"quick_gloss": "fully-completed"
-},
-{
-"surface": "||2||",
-"quick_gloss": "section-2"
-},
-{
-"surface": "oṃ",
-"quick_gloss": "om"
-},
-{
-"surface": "namo",
-"quick_gloss": "salutation"
-},
-{
-"surface": "mātṛkāyai",
-"quick_gloss": "to-the-mātṛkā"
-},
-{
-"surface": "||",
-"quick_gloss": "end"
-}
-]
-},
-{
-"verse_id": "mukta-m00634-p01-v3",
-"song": "mukta-m00634-p01",
-"verse": 3,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "kābhede",
-"quick_gloss": "in-kābheda"
-},
-{
-"surface": "tantre",
-"quick_gloss": "in-tantra"
-},
-{
-"surface": "paṃcamaḥ",
-"quick_gloss": "fifth"
-},
-{
-"surface": "paṭalaḥ",
-"quick_gloss": "chapter"
-},
-{
-"surface": "||5||",
-"quick_gloss": "section-5"
-},
-{
-"surface": "oṃ",
-"quick_gloss": "om"
-},
-{
-"surface": "devy",
-"quick_gloss": "goddess"
-},
-{
-"surface": "uvāca",
-"quick_gloss": "said"
-},
-{
-"surface": "||",
-"quick_gloss": "end"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00634-p01-v1",
+  "song": "mukta-m00634-p01",
+  "verse": 1,
+  "quick_english": "La is fully completed.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "laḥ",
+    "quick_gloss": "syllable-la",
+    "grounds": "Syllable name; fragment of colophon phrase."
+   },
+   {
+    "surface": "pari",
+    "quick_gloss": "fully",
+    "grounds": "Prefixal element of paripūrṇaḥ; token split in source."
+   },
+   {
+    "surface": "pūr",
+    "quick_gloss": "filled",
+    "grounds": "Verbal root element of paripūrṇaḥ; token split in source."
+   },
+   {
+    "surface": "ṇaḥ",
+    "quick_gloss": "completed",
+    "grounds": "Participial ending element of paripūrṇaḥ; token split in source."
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00634-p01-v2",
+  "song": "mukta-m00634-p01",
+  "verse": 2,
+  "quick_english": "The second chapter is fully completed. Om, salutation to the Mātṛkā.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "dvitīyaḥ",
+    "quick_gloss": "second",
+    "grounds": "Ordinal adjective qualifying paṭalaḥ."
+   },
+   {
+    "surface": "paṭalaḥ",
+    "quick_gloss": "chapter",
+    "grounds": "Section heading term."
+   },
+   {
+    "surface": "paripūrṇaḥ",
+    "quick_gloss": "fully-completed",
+    "grounds": "States completion of the chapter."
+   },
+   {
+    "surface": "oṃ",
+    "quick_gloss": "om",
+    "grounds": "Sacred syllable; kept transliterated."
+   },
+   {
+    "surface": "namo",
+    "quick_gloss": "salutation",
+    "grounds": "Nominal form used in salutation; sandhi form of namaḥ."
+   },
+   {
+    "surface": "mātṛkāyai",
+    "quick_gloss": "to-the-mātṛkā",
+    "grounds": "Recipient of salutation."
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00634-p01-v3",
+  "song": "mukta-m00634-p01",
+  "verse": 3,
+  "quick_english": "In the Kābheda Tantra, the fifth chapter. Om, the goddess said.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "kābhede",
+    "quick_gloss": "in-kābheda",
+    "grounds": "Locative designation; technical name kept in situ (UNC)."
+   },
+   {
+    "surface": "tantre",
+    "quick_gloss": "in-tantra",
+    "grounds": "Locative noun indicating textual context."
+   },
+   {
+    "surface": "paṃcamaḥ",
+    "quick_gloss": "fifth",
+    "grounds": "Ordinal adjective qualifying paṭalaḥ."
+   },
+   {
+    "surface": "paṭalaḥ",
+    "quick_gloss": "chapter",
+    "grounds": "Section heading term."
+   },
+   {
+    "surface": "oṃ",
+    "quick_gloss": "om",
+    "grounds": "Sacred syllable; kept transliterated."
+   },
+   {
+    "surface": "devy",
+    "quick_gloss": "goddess",
+    "grounds": "Speaker designation; sandhi form of devī."
+   },
+   {
+    "surface": "uvāca",
+    "quick_gloss": "said",
+    "grounds": "Speech-introducing verb."
+   }
+  ]
+ }
 ]

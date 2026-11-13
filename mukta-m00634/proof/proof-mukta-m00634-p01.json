@@ -1,0 +1,92 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m00634-p01",
+ "work": "mukta-m00634",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v2 ratio=0.000",
+  "ALIGN_NODISP v3 ratio=0.000",
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "938aeea20793fffc",
+ "source_verses": 3,
+ "t1_verses": 3,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 17
+ },
+ "align": {
+  "min_ratio": 0.0,
+  "sub090": {
+   "2": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "3": {
+    "ratio": 0.0,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 36,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 3,
+  "failures": [
+   "dvitīyaḥpaṭalaḥparipūrṇaḥ 2 oṃnamomātṛkāyai",
+   "kābhedetantrepaṃcamaḥpaṭalaḥ 5 oṃdevyuvāca"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[mukta-m00634-p01-v2]: cite part not byte-exact in source: dvitīyaḥpaṭalaḥparipūrṇaḥ 2 oṃnamomātṛkāyai",
+   "l2[mukta-m00634-p01-v3]: cite part not byte-exact in source: kābhedetantrepaṃcamaḥpaṭalaḥ 5 oṃdevyuvāca"
+  ],
+  "counts": {
+   "t1": 3,
+   "l0": 17,
+   "argmap": 3,
+   "l2": 3,
+   "l3": 0,
+   "l4": 0,
+   "essence": 3,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v2",
+  "fix: word-order/gloss vs source for v3"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "5eec56db09ce7c77f377b74e227f0fc7c658433ea324f3e482f91ddbbb02f7b4",
+  "l0": "e23062257c276f878df57bbf11ee2dadda709f8909761fd7e1d2049d709e7240",
+  "argmap": "ebb195a1482712171e78557119288ac449025b1132ae2c7137652743201cefd2",
+  "l2": "6cbfe964270c783e10133886589f2b19805c4716b4ccde28fde3786062aba169",
+  "c1": "0d435e5e64f0d1848ec4c4f4a0c3a5981bacc941d3ffbab2dd16e1da4e746f2e"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "938aeea20793fffc",
+  "t1": "mukta-m00634-p01/data/mukta-m00634-p01.t1.json",
+  "l0": "mukta-m00634-p01/data/mukta-m00634-p01.l0.json",
+  "l2": "mukta-m00634-p01/data/mukta-m00634-p01.l2.json",
+  "c1": "mukta-m00634-p01/data/mukta-m00634-p01.c1.json"
+ }
+}

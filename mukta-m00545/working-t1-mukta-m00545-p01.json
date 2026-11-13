@@ -1,142 +1,168 @@
 [
-{
-"verse_id": "mukta-m00545-p01-v1",
-"song": "mukta-m00545-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "tvaṃ",
-"quick_gloss": "you"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "dhāraya",
-"quick_gloss": "hold"
-},
-{
-"surface": "māṃ",
-"quick_gloss": "me"
-},
-{
-"surface": "devi",
-"quick_gloss": "o-goddess"
-},
-{
-"surface": "pavitraṃ",
-"quick_gloss": "pure"
-},
-{
-"surface": "kuru",
-"quick_gloss": "make"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "āsanam",
-"quick_gloss": "seat"
-}
-]
-},
-{
-"verse_id": "mukta-m00545-p01-v2",
-"song": "mukta-m00545-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "vibhrāṇāṃ",
-"quick_gloss": "bearing"
-},
-{
-"surface": "viśada",
-"quick_gloss": "bright"
-},
-{
-"surface": "prabhāṃ",
-"quick_gloss": "radiance"
-},
-{
-"surface": "trinayanāṃ",
-"quick_gloss": "three-eyed"
-},
-{
-"surface": "vāgdevatām",
-"quick_gloss": "speech-goddess"
-},
-{
-"surface": "āśraye",
-"quick_gloss": "I-take-refuge"
-}
-]
-},
-{
-"verse_id": "mukta-m00545-p01-v3",
-"song": "mukta-m00545-p01",
-"verse": 3,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "sahasranāmne",
-"quick_gloss": "to-thousand-named"
-},
-{
-"surface": "puruṣāya",
-"quick_gloss": "to-person"
-},
-{
-"surface": "śāsvate",
-"quick_gloss": "to-eternal"
-},
-{
-"surface": "sahasrakoṭi+yugadhāriṇe",
-"quick_gloss": "to-thousand-crore+age-bearer"
-},
-{
-"surface": "namaḥ",
-"quick_gloss": "salutation"
-}
-]
-},
-{
-"verse_id": "mukta-m00545-p01-v4",
-"song": "mukta-m00545-p01",
-"verse": 4,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "narmade",
-"quick_gloss": "o-narmada"
-},
-{
-"surface": "sindhu",
-"quick_gloss": "o-sindhu"
-},
-{
-"surface": "kāveri",
-"quick_gloss": "o-kaveri"
-},
-{
-"surface": "jale+asmin",
-"quick_gloss": "in-this+water"
-},
-{
-"surface": "sannidhiṃ",
-"quick_gloss": "presence"
-},
-{
-"surface": "kuru",
-"quick_gloss": "make"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00545-p01-v1",
+  "song": "mukta-m00545-p01",
+  "verse": 1,
+  "quick_english": "And you, O goddess, hold me, and make the seat pure.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "tvaṃ",
+    "quick_gloss": "you",
+    "grounds": "second-person pronoun, addressee"
+   },
+   {
+    "surface": "ca",
+    "quick_gloss": "and",
+    "grounds": "conjunction linking requests"
+   },
+   {
+    "surface": "dhāraya",
+    "quick_gloss": "hold",
+    "grounds": "imperative request to support or sustain"
+   },
+   {
+    "surface": "māṃ",
+    "quick_gloss": "me",
+    "grounds": "first-person pronoun, object of support"
+   },
+   {
+    "surface": "devi",
+    "quick_gloss": "o-goddess",
+    "grounds": "vocative address to the goddess"
+   },
+   {
+    "surface": "pavitraṃ",
+    "quick_gloss": "pure",
+    "grounds": "quality to be conferred on the seat"
+   },
+   {
+    "surface": "kuru",
+    "quick_gloss": "make",
+    "grounds": "imperative request to render or effect"
+   },
+   {
+    "surface": "ca",
+    "quick_gloss": "and",
+    "grounds": "conjunction linking requests"
+   },
+   {
+    "surface": "āsanam",
+    "quick_gloss": "seat",
+    "grounds": "object to be purified"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00545-p01-v2",
+  "song": "mukta-m00545-p01",
+  "verse": 2,
+  "quick_english": "I take refuge in the goddess of speech, three-eyed and bearing a bright radiance.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "vibhrāṇāṃ",
+    "quick_gloss": "bearing",
+    "grounds": "describes the goddess as displaying radiance"
+   },
+   {
+    "surface": "viśada",
+    "quick_gloss": "bright",
+    "grounds": "qualifies the radiance"
+   },
+   {
+    "surface": "prabhāṃ",
+    "quick_gloss": "radiance",
+    "grounds": "object displayed by the goddess"
+   },
+   {
+    "surface": "trinayanāṃ",
+    "quick_gloss": "three-eyed",
+    "grounds": "epithet of the goddess"
+   },
+   {
+    "surface": "vāgdevatām",
+    "quick_gloss": "speech-goddess",
+    "grounds": "identifies the deity as goddess of speech"
+   },
+   {
+    "surface": "āśraye",
+    "quick_gloss": "I-take-refuge",
+    "grounds": "declaration of taking refuge"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00545-p01-v3",
+  "song": "mukta-m00545-p01",
+  "verse": 3,
+  "quick_english": "Salutation to the eternal Person, who has a thousand names and bears a thousand crores of ages.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "sahasranāmne",
+    "quick_gloss": "to-thousand-named",
+    "grounds": "epithet indicating possession of a thousand names"
+   },
+   {
+    "surface": "puruṣāya",
+    "quick_gloss": "to-person",
+    "grounds": "recipient of salutation, cosmic person"
+   },
+   {
+    "surface": "śāsvate",
+    "quick_gloss": "to-eternal",
+    "grounds": "epithet indicating eternality"
+   },
+   {
+    "surface": "sahasrakoṭi+yugadhāriṇe",
+    "quick_gloss": "to-thousand-crore-age-bearer",
+    "grounds": "compound epithet; bearer of countless ages, analyzed as fused form"
+   },
+   {
+    "surface": "namaḥ",
+    "quick_gloss": "salutation",
+    "grounds": "formula of reverential homage"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00545-p01-v4",
+  "song": "mukta-m00545-p01",
+  "verse": 4,
+  "quick_english": "O Narmada, O Sindhu, O Kaveri, make your presence in this water.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "narmade",
+    "quick_gloss": "o-narmada",
+    "grounds": "vocative address to the river Narmada"
+   },
+   {
+    "surface": "sindhu",
+    "quick_gloss": "o-sindhu",
+    "grounds": "vocative address to the river Sindhu"
+   },
+   {
+    "surface": "kāveri",
+    "quick_gloss": "o-kaveri",
+    "grounds": "vocative address to the river Kaveri"
+   },
+   {
+    "surface": "jale+asmin",
+    "quick_gloss": "in-this-water",
+    "grounds": "locative expression referring to the present water, analyzed as fused form"
+   },
+   {
+    "surface": "sannidhiṃ",
+    "quick_gloss": "presence",
+    "grounds": "object requested to be established"
+   },
+   {
+    "surface": "kuru",
+    "quick_gloss": "make",
+    "grounds": "imperative request to establish presence"
+   }
+  ]
+ }
 ]

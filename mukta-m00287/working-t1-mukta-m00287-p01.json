@@ -1,35 +1,41 @@
 [
-{
-"verse_id": "mukta-m00287-p01-v1",
-"song": "mukta-m00287-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "mṛttikāṃ",
-"quick_gloss": "clay"
-},
-{
-"surface": "grāhayet",
-"quick_gloss": "should-collect"
-},
-{
-"surface": "prājña",
-"quick_gloss": "wise-one"
-},
-{
-"surface": "tṛṇa",
-"quick_gloss": "grass"
-},
-{
-"surface": "pāṣāṇa",
-"quick_gloss": "stone"
-},
-{
-"surface": "varjitāṃ",
-"quick_gloss": "devoid-of"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00287-p01-v1",
+  "song": "mukta-m00287-p01",
+  "verse": 1,
+  "quick_english": "A wise person should collect clay that is free from grass and stones.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "mṛttikāṃ",
+    "quick_gloss": "clay",
+    "grounds": "object to be collected; accusative singular feminine"
+   },
+   {
+    "surface": "grāhayet",
+    "quick_gloss": "should-collect",
+    "grounds": "optative injunction; causative of grah 'to take'"
+   },
+   {
+    "surface": "prājña",
+    "quick_gloss": "wise-one",
+    "grounds": "addressee or agent qualified by wisdom; vocative singular masculine"
+   },
+   {
+    "surface": "tṛṇa",
+    "quick_gloss": "grass",
+    "grounds": "first member of compound qualifying the clay"
+   },
+   {
+    "surface": "pāṣāṇa",
+    "quick_gloss": "stone",
+    "grounds": "second member of compound qualifying the clay"
+   },
+   {
+    "surface": "varjitāṃ",
+    "quick_gloss": "devoid-of",
+    "grounds": "final member of compound agreeing with mṛttikāṃ; indicates absence"
+   }
+  ]
+ }
 ]

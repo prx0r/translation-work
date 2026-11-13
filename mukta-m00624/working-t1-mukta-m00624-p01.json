@@ -1,72 +1,85 @@
 [
-{
-"verse_id": "mukta-m00624-p01-v1",
-"song": "mukta-m00624-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "ma+candra",
-"quick_gloss": "moon"
-},
-{
-"surface": "utkīrṇe",
-"quick_gloss": "engraved"
-},
-{
-"surface": "śubha",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "arcā",
-"quick_gloss": "worship"
-},
-{
-"surface": "ratne",
-"quick_gloss": "jewel"
-},
-{
-"surface": "dvitīyo",
-"quick_gloss": "second"
-},
-{
-"surface": "mayūkhaḥ",
-"quick_gloss": "ray"
-}
-]
-},
-{
-"verse_id": "mukta-m00624-p01-v2",
-"song": "mukta-m00624-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "drotkīrṇe",
-"quick_gloss": "engraved"
-},
-{
-"surface": "śubha",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "arcā",
-"quick_gloss": "worship"
-},
-{
-"surface": "ratne",
-"quick_gloss": "jewel"
-},
-{
-"surface": "tṛtīyo",
-"quick_gloss": "third"
-},
-{
-"surface": "mayūkhaḥ",
-"quick_gloss": "ray"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00624-p01-v1",
+  "song": "mukta-m00624-p01",
+  "verse": 1,
+  "quick_english": "The second ray is in the auspicious worship jewel engraved with ma and candra.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "ma+candra",
+    "quick_gloss": "ma-and-moon",
+    "grounds": "compound or paired elements; exact technical referent uncertain (UNC)"
+   },
+   {
+    "surface": "utkīrṇe",
+    "quick_gloss": "engraved",
+    "grounds": "describes the jewel as inscribed"
+   },
+   {
+    "surface": "śubha",
+    "quick_gloss": "auspicious",
+    "grounds": "qualifies the worship jewel"
+   },
+   {
+    "surface": "arcā",
+    "quick_gloss": "worship",
+    "grounds": "qualifies the jewel"
+   },
+   {
+    "surface": "ratne",
+    "quick_gloss": "jewel",
+    "grounds": "locus of the engraving and ray"
+   },
+   {
+    "surface": "dvitīyo",
+    "quick_gloss": "second",
+    "grounds": "ordinal qualifier of the ray"
+   },
+   {
+    "surface": "mayūkhaḥ",
+    "quick_gloss": "ray",
+    "grounds": "subject of the designation"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00624-p01-v2",
+  "song": "mukta-m00624-p01",
+  "verse": 2,
+  "quick_english": "The third ray is in the auspicious worship jewel engraved with dro.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "drotkīrṇe",
+    "quick_gloss": "engraved-with-dro",
+    "grounds": "describes the jewel as inscribed; internal element 'dro' uncertain (UNC)"
+   },
+   {
+    "surface": "śubha",
+    "quick_gloss": "auspicious",
+    "grounds": "qualifies the worship jewel"
+   },
+   {
+    "surface": "arcā",
+    "quick_gloss": "worship",
+    "grounds": "qualifies the jewel"
+   },
+   {
+    "surface": "ratne",
+    "quick_gloss": "jewel",
+    "grounds": "locus of the engraving and ray"
+   },
+   {
+    "surface": "tṛtīyo",
+    "quick_gloss": "third",
+    "grounds": "ordinal qualifier of the ray"
+   },
+   {
+    "surface": "mayūkhaḥ",
+    "quick_gloss": "ray",
+    "grounds": "subject of the designation"
+   }
+  ]
+ }
 ]

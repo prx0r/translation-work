@@ -1,0 +1,79 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m00407-p01",
+ "work": "mukta-m00407",
+ "date": "2026-11-01",
+ "blocking": [
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "39471a2f248ed438",
+ "source_verses": 2,
+ "t1_verses": 2,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 15
+ },
+ "align": {
+  "min_ratio": 0.952,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 32,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 2,
+  "failures": [
+   "12a) oṃ hrī kaumārya 2 3 hṛdayādipūjā candanākṣatapūspadhūpadipanaivedyādikaṃ da",
+   "tuṃvureśvarīya 2 āgnayādi īśānāntaṃ āvāhanādī 0 tatosalapūjā oṃ ānaṃtāyatyādi āv"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[mukta-m00407-p01-v1]: cite part not byte-exact in source: 12a) oṃ hrī kaumārya 2 3 hṛdayādipūjā candanākṣatapūspadhūpa",
+   "l2[mukta-m00407-p01-v2]: cite part not byte-exact in source: tuṃvureśvarīya 2 āgnayādi īśānāntaṃ āvāhanādī 0 tatosalapūjā"
+  ],
+  "counts": {
+   "t1": 2,
+   "l0": 15,
+   "argmap": 2,
+   "l2": 2,
+   "l3": 0,
+   "l4": 0,
+   "essence": 2,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "7ae4a02ab76a5902c2ec842f717bf899357a2766808bddb057726e5f93d9fc95",
+  "l0": "222c77baffff303b45364de00e5b41a7717a6e43dac49f7d9aa9d825836b3751",
+  "argmap": "e8d8ac05bdaff1046ad01edc4a057644fb4921f9890cda9fadcf98da999b57b0",
+  "l2": "09c925076570b988c2cf6d36f660b7e2d6bd0f654c09a2102add70ef8b3e47af",
+  "c1": "f03d7417019c4f8083792e7346c61661c44e44f23e850e34e187fd5ce4f29d10"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "39471a2f248ed438",
+  "t1": "mukta-m00407-p01/data/mukta-m00407-p01.t1.json",
+  "l0": "mukta-m00407-p01/data/mukta-m00407-p01.l0.json",
+  "l2": "mukta-m00407-p01/data/mukta-m00407-p01.l2.json",
+  "c1": "mukta-m00407-p01/data/mukta-m00407-p01.c1.json"
+ }
+}

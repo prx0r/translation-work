@@ -1,84 +1,90 @@
 [
-{
-"verse_id": "mukta-m00571-p01-v1",
-"song": "mukta-m00571-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "5",
-"quick_gloss": "five"
-},
-{
-"surface": "kiṇi",
-"quick_gloss": "kiṇi"
-},
-{
-"surface": "2",
-"quick_gloss": "two"
-},
-{
-"surface": "vicce",
-"quick_gloss": "vicce"
-},
-{
-"surface": "ko\"nkaṇāyai",
-"quick_gloss": "to-koṅkaṇā"
-},
-{
-"surface": "hraḥ",
-"quick_gloss": "hraḥ"
-},
-{
-"surface": "astrāya",
-"quick_gloss": "to-weapon"
-},
-{
-"surface": "phaṭ",
-"quick_gloss": "phaṭ"
-}
-]
-},
-{
-"verse_id": "mukta-m00571-p01-v2",
-"song": "mukta-m00571-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "krīṁ",
-"quick_gloss": "krīṁ"
-},
-{
-"surface": "hūṁ",
-"quick_gloss": "hūṁ"
-},
-{
-"surface": "strīṁ",
-"quick_gloss": "strīṁ"
-},
-{
-"surface": "hūṁ",
-"quick_gloss": "hūṁ"
-},
-{
-"surface": "phaṭ",
-"quick_gloss": "phaṭ"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "kullukāṃ",
-"quick_gloss": "kullukā"
-},
-{
-"surface": "śirasi",
-"quick_gloss": "on-head"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00571-p01-v1",
+  "song": "mukta-m00571-p01",
+  "verse": 1,
+  "quick_english": "Five, kiṇi, two, vicce—to Koṅkaṇā, hraḥ, to the weapon, phaṭ.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "kiṇi",
+    "quick_gloss": "kiṇi",
+    "grounds": "Mantra syllable or seed element; kept byte-exact."
+   },
+   {
+    "surface": "vicce",
+    "quick_gloss": "vicce",
+    "grounds": "Mantra syllable or seed element; kept byte-exact."
+   },
+   {
+    "surface": "ko\"nkaṇāyai",
+    "quick_gloss": "to-koṅkaṇā",
+    "grounds": "Dative form addressing Koṅkaṇā; internal quotation mark preserved as in source."
+   },
+   {
+    "surface": "hraḥ",
+    "quick_gloss": "hraḥ",
+    "grounds": "Bīja/mantra syllable; kept byte-exact."
+   },
+   {
+    "surface": "astrāya",
+    "quick_gloss": "to-weapon",
+    "grounds": "Dative form indicating the weapon as recipient or target of the mantra."
+   },
+   {
+    "surface": "phaṭ",
+    "quick_gloss": "phaṭ",
+    "grounds": "Mantra syllable commonly used in weapon formulas; kept byte-exact."
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00571-p01-v2",
+  "song": "mukta-m00571-p01",
+  "verse": 2,
+  "quick_english": "Krīṁ, hūṁ, strīṁ, hūṁ, phaṭ—thus Kullukā on the head.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "krīṁ",
+    "quick_gloss": "krīṁ",
+    "grounds": "Bīja/mantra syllable; kept byte-exact."
+   },
+   {
+    "surface": "hūṁ",
+    "quick_gloss": "hūṁ",
+    "grounds": "Bīja/mantra syllable; kept byte-exact."
+   },
+   {
+    "surface": "strīṁ",
+    "quick_gloss": "strīṁ",
+    "grounds": "Bīja/mantra syllable; kept byte-exact."
+   },
+   {
+    "surface": "hūṁ",
+    "quick_gloss": "hūṁ",
+    "grounds": "Bīja/mantra syllable; kept byte-exact."
+   },
+   {
+    "surface": "phaṭ",
+    "quick_gloss": "phaṭ",
+    "grounds": "Mantra syllable; kept byte-exact."
+   },
+   {
+    "surface": "iti",
+    "quick_gloss": "thus",
+    "grounds": "Quotation or formula-closing particle."
+   },
+   {
+    "surface": "kullukāṃ",
+    "quick_gloss": "kullukā",
+    "grounds": "Name of the mantra or deity form identified by the preceding syllables."
+   },
+   {
+    "surface": "śirasi",
+    "quick_gloss": "on-head",
+    "grounds": "Locative indicating placement on the head."
+   }
+  ]
+ }
 ]

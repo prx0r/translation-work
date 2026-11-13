@@ -1,108 +1,130 @@
 [
-{
-"verse_id": "mukta-m00644-p01-v1",
-"song": "mukta-m00644-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "varṇane",
-"quick_gloss": "in-description"
-},
-{
-"surface": "jantu+deha+mokṣaṇaṃ",
-"quick_gloss": "creature+body+release"
-},
-{
-"surface": "nāma",
-"quick_gloss": "named"
-},
-{
-"surface": "prathamaḥ",
-"quick_gloss": "first"
-},
-{
-"surface": "paṭalaḥ",
-"quick_gloss": "chapter"
-}
-]
-},
-{
-"verse_id": "mukta-m00644-p01-v2",
-"song": "mukta-m00644-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "mārge",
-"quick_gloss": "on-path"
-},
-{
-"surface": "pura+varāṇi",
-"quick_gloss": "excellent+cities"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "krameṇa",
-"quick_gloss": "in-sequence"
-},
-{
-"surface": "yāti",
-"quick_gloss": "goes"
-},
-{
-"surface": "sa",
-"quick_gloss": "that"
-},
-{
-"surface": "pretaḥ",
-"quick_gloss": "departed-spirit"
-},
-{
-"surface": "puraṃ",
-"quick_gloss": "to-city"
-},
-{
-"surface": "yāmyaṃ",
-"quick_gloss": "of-yama"
-},
-{
-"surface": "śubha+aśubhaiḥ",
-"quick_gloss": "by-good+and-bad-deeds"
-},
-{
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "śrī+bhṛṅgīśa+saṃhitāyāṃ",
-"quick_gloss": "in-venerable-bhṛṅgīśa+compendium"
-},
-{
-"surface": "mṛta+tatva+anusmaraṇe",
-"quick_gloss": "in-recollection+of-truth+of-death"
-},
-{
-"surface": "preta+arcā+ādi+vidhiḥ",
-"quick_gloss": "rite+of-worship+etc.+of-departed"
-},
-{
-"surface": "nāma",
-"quick_gloss": "named"
-},
-{
-"surface": "tṛtīyaḥ",
-"quick_gloss": "third"
-},
-{
-"surface": "paṭalaḥ",
-"quick_gloss": "chapter"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00644-p01-v1",
+  "song": "mukta-m00644-p01",
+  "verse": 1,
+  "quick_english": "In the description, the first chapter is named 'Release from the Creature's Body'.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "varṇane",
+    "quick_gloss": "in-description",
+    "grounds": "locative of topic/context"
+   },
+   {
+    "surface": "jantu+deha+mokṣaṇaṃ",
+    "quick_gloss": "creature-body-release",
+    "grounds": "compound; release from the body of a creature"
+   },
+   {
+    "surface": "nāma",
+    "quick_gloss": "named",
+    "grounds": "indeclinable used to indicate a name"
+   },
+   {
+    "surface": "prathamaḥ",
+    "quick_gloss": "first",
+    "grounds": "ordinal adjective qualifying paṭalaḥ"
+   },
+   {
+    "surface": "paṭalaḥ",
+    "quick_gloss": "chapter",
+    "grounds": "subject of the nominal clause"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00644-p01-v2",
+  "song": "mukta-m00644-p01",
+  "verse": 2,
+  "quick_english": "On the path, that departed spirit goes in sequence through excellent cities to the city of Yama by good and bad deeds. Thus, in the venerable Bhṛṅgīśa Saṃhitā, in the recollection of the truth of death, the third chapter is named 'The Rite of Worship for the Departed and So Forth'.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "mārge",
+    "quick_gloss": "on-path",
+    "grounds": "locative indicating location of movement"
+   },
+   {
+    "surface": "pura+varāṇi",
+    "quick_gloss": "excellent-cities",
+    "grounds": "compound; best or excellent cities"
+   },
+   {
+    "surface": "ca",
+    "quick_gloss": "and",
+    "grounds": "conjunction"
+   },
+   {
+    "surface": "krameṇa",
+    "quick_gloss": "in-sequence",
+    "grounds": "instrumental expressing manner"
+   },
+   {
+    "surface": "yāti",
+    "quick_gloss": "goes",
+    "grounds": "main verb of motion"
+   },
+   {
+    "surface": "sa",
+    "quick_gloss": "that",
+    "grounds": "demonstrative pronoun referring to the departed"
+   },
+   {
+    "surface": "pretaḥ",
+    "quick_gloss": "departed-spirit",
+    "grounds": "subject who travels after death"
+   },
+   {
+    "surface": "puraṃ",
+    "quick_gloss": "to-city",
+    "grounds": "destination of motion"
+   },
+   {
+    "surface": "yāmyaṃ",
+    "quick_gloss": "of-yama",
+    "grounds": "adjective qualifying puraṃ"
+   },
+   {
+    "surface": "śubha+aśubhaiḥ",
+    "quick_gloss": "by-good-and-bad-deeds",
+    "grounds": "compound; instrumental indicating cause or accompaniment"
+   },
+   {
+    "surface": "iti",
+    "quick_gloss": "thus",
+    "grounds": "quotation or conclusion marker"
+   },
+   {
+    "surface": "śrī+bhṛṅgīśa+saṃhitāyāṃ",
+    "quick_gloss": "in-venerable-bhṛṅgīśa-compendium",
+    "grounds": "compound; locative indicating textual source"
+   },
+   {
+    "surface": "mṛta+tatva+anusmaraṇe",
+    "quick_gloss": "in-recollection-of-death-truth",
+    "grounds": "compound; section or topic title in locative"
+   },
+   {
+    "surface": "preta+arcā+ādi+vidhiḥ",
+    "quick_gloss": "departed-worship-etc-rite",
+    "grounds": "compound; rite of worship for the departed and so forth"
+   },
+   {
+    "surface": "nāma",
+    "quick_gloss": "named",
+    "grounds": "indeclinable used to indicate a name"
+   },
+   {
+    "surface": "tṛtīyaḥ",
+    "quick_gloss": "third",
+    "grounds": "ordinal adjective qualifying paṭalaḥ"
+   },
+   {
+    "surface": "paṭalaḥ",
+    "quick_gloss": "chapter",
+    "grounds": "subject of the nominal clause"
+   }
+  ]
+ }
 ]
