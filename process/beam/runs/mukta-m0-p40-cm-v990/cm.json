@@ -3,19 +3,39 @@
  "verse": 990,
  "rows": [
   {
-   "lemma": "siddha",
+   "lemma": "nija",
    "morph": "compound-member",
-   "grounds": "already accomplished"
+   "grounds": "inherent or personal"
   },
   {
-   "lemma": "vidyātvāt",
-   "morph": "n.abl.sg",
-   "grounds": "because of being a mantra; sandhi form"
+   "lemma": "bīja",
+   "morph": "compound-member",
+   "grounds": "seed-mantra"
   },
   {
-   "lemma": "tvāt",
+   "lemma": "svarūpām",
+   "morph": "compound: nija+bīja+svarūpām (f.acc.sg)",
+   "grounds": "whose nature is"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "causal suffix element; appears as separate token"
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "kāma",
+   "morph": "compound-member",
+   "grounds": "name of a seed-mantra"
+  },
+  {
+   "lemma": "bīja",
+   "morph": "compound-member",
+   "grounds": "seed-mantra"
+  },
+  {
+   "lemma": "svarūpiṇīm",
+   "morph": "compound: kāma+bīja+svarūpiṇīm (f.acc.sg)",
+   "grounds": "whose nature is"
   }
  ]
 }

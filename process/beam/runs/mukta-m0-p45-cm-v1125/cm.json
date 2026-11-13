@@ -3,34 +3,39 @@
  "verse": 1125,
  "rows": [
   {
-   "lemma": "ekakālan",
-   "morph": "compound: eka+one, kāla+time (m.acc.sg)",
-   "grounds": "adverbial compound indicating a single occasion; sandhi form of ekakālam"
-  },
-  {
-   "lemma": "dvikāla/",
-   "morph": "compound: dvi+two, kāla+time (m.acc.sg)",
-   "grounds": "adverbial compound indicating two occasions; trailing slash marks metrical or editorial break"
-  },
-  {
-   "lemma": "vvā",
+   "lemma": "yadi",
    "morph": "(indecl.)",
-   "grounds": "disjunctive particle offering an alternative; doubled initial consonant reflects sandhi/orthography"
+   "grounds": "conditional particle introducing a hypothetical protasis"
   },
   {
-   "lemma": "trikāla/",
-   "morph": "compound: tri+three, kāla+time (m.acc.sg)",
-   "grounds": "adverbial compound indicating three occasions; trailing slash marks metrical or editorial break"
-  },
-  {
-   "lemma": "vvā",
-   "morph": "(indecl.)",
-   "grounds": "disjunctive particle offering an alternative; doubled initial consonant reflects sandhi/orthography"
-  },
-  {
-   "lemma": "caturtthakam",
+   "lemma": "akārya",
    "morph": "n.acc.sg",
-   "grounds": "ordinal-derived expression indicating a fourth occasion"
+   "grounds": "object of ācaret; deed not to be done"
+  },
+  {
+   "lemma": "śataṃ",
+   "morph": "n.acc.sg",
+   "grounds": "quantifies akārya"
+  },
+  {
+   "lemma": "devi",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address to the goddess"
+  },
+  {
+   "lemma": "brāhmaṇaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject of the hypothetical action"
+  },
+  {
+   "lemma": "svayam",
+   "morph": "(indecl.)",
+   "grounds": "emphasizes personal agency of the subject"
+  },
+  {
+   "lemma": "ācaret",
+   "morph": "3.sg.optative-active",
+   "grounds": "optative verb expressing hypothetical action; root ā-√car"
   }
  ]
 }
