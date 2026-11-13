@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter emerges after candra-dvīpa?",
+ "question": "Which chapter emerges after candra dvipa?",
  "premises": [
-  "candra dvīpa vinirgate navamaḥ paṭalaḥ"
+  "candra dvīpa is named",
+  "vinirgate is stated",
+  "navamaḥ paṭalaḥ is named"
  ],
- "inference": "The ninth chapter emerges after candra-dvīpa.",
+ "inference": "The ninth chapter emerges after candra dvipa.",
  "uncertainties": [
-  "legacy hints only"
+  "exact relation of vinirgate to candra dvīpa is not fully explicit"
  ],
- "plain_english": "After candra-dvīpa emerges, the ninth chapter begins."
+ "plain_english": "After candra dvipa, the ninth chapter emerges."
 }

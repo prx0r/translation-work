@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 236,
- "question": "How is the first divine lotus described?",
+ "question": "How is the first divine lotus adorned?",
  "premises": [
-  "aṣṭa āraṃ paṅkajaṃ divyaṃ prathama aṣṭaka bhūṣitam"
+  "aṣṭa āraṃ paṅkajaṃ divyaṃ is stated",
+  "prathama aṣṭaka is named",
+  "bhūṣitam is stated"
  ],
- "inference": "The first divine lotus is eight-spoked and adorned with an octad.",
+ "inference": "The first divine eight-spoked lotus is adorned by the octad.",
  "uncertainties": [
-  "legacy hints only"
+  "exact relation of prathama aṣṭaka to the lotus is not fully explicit"
  ],
- "plain_english": "The first divine lotus is eight-spoked and adorned with an octad."
+ "plain_english": "The first divine eight-spoked lotus is adorned by the octad."
 }

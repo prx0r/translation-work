@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 244,
- "question": "What destruction of wrinkles and grey hair is seen from afar?",
+ "question": "What destruction and seeing are mentioned from very far?",
  "premises": [
-  "balī palita nāśam tu sudūrāt darśanam tathā"
+  "balī palita nāśam tu is stated",
+  "sudūrāt darśanam is stated",
+  "tathā is stated"
  ],
- "inference": "The destruction of wrinkles and grey hair is seen from very far.",
+ "inference": "Destruction of wrinkles and grey hair and seeing from very far are mentioned.",
  "uncertainties": [
-  "legacy hints only"
+  "exact relation between the two phrases is not fully explicit"
  ],
- "plain_english": "The destruction of wrinkles and grey hair is seen from very far."
+ "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, are likewise mentioned."
 }
