@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p70-v1726
-[all](sarva)+[views](dṛṣṭi)+[pleasing](manoharam) [beautiful](manoharam)
+[all](sarva) [sight](dṛṣṭi) [mind](manaḥ) [delighting](haram)
 
 ## mukta-m0-p70-v1727
-[five-nines](pañcanavān) [from-middle](madhyāt) [by-that](tena) [measure](mānena) [round](vartulam)
+[five](pañca) [nine](navān) [from-middle](madhyāt) [by-that](tena) [measure](mānena) [circular](vartulam)
 
 ## mukta-m0-p70-v1728
-[then](tato) [give](dadyāt) [six-cornered](ṣaḍasraṃ) [best-pit](kuṇḍamuttamam)
+[then](tataḥ) [one-should-give](dadyāt) [six](ṣaḍ) [cornered](asraṃ) [pit](kuṇḍam) [best](uttamam)
 
 ## mukta-m0-p70-v1729
-[by-measure](pramāṇena) [crab](karkaṭena) [but](tu) [from-middle](madhyataḥ)
+[by-measure](pramāṇena) [by-compass](karkaṭena) [indeed](tu) [from-middle](madhyataḥ)
 
 ## mukta-m0-p70-v1730
-[eighth-part-twice](aṣṭamāṃśadvayena)+[indeed](eva) [from-middle](madhyato) [rotation](bhramaṇe) [done](kṛte)
+[eighth](aṣṭama) [part](aṃśa) [by-two](dvayena) [indeed](eva) [from-middle](madhyataḥ) [rotation](bhramaṇe) [being-done](kṛte)
 
 ## mukta-m0-p70-v1731
-[fourth](caturthena)+[upper-ground](ordhvabhūḥ) [field-placement](kṣetranyāsa)+[equal](tulyena) [and](ca) [in-order](kramāt)
+[by-fourth](caturthena) [upper](ūrdhva) [ground](bhūḥ) [field](kṣetra) [layout](nyāsa) [equal](tulyena) [and](ca) [in-order](kramāt)
 
 ## mukta-m0-p70-v1732
-[part-taking](bhāgamādāya) [outside-that](tadbāhye) [fifth](pañcamaṃ) [circle](maṇḍalaṃ) [wise-one](sudhīḥ)
+[part](bhāgam) [having-taken](ādāya) [outside-that](tadbāhye) [fifth](pañcamaṃ) [circle](maṇḍalaṃ) [wise-one](sudhīḥ)
 
 ## mukta-m0-p70-v1733
-[by-rite](vidhinā) [mantrin](mantrī) [then](tataḥ) [lotus](padmaṃ) [draw](samālikhet)
+[by-rule](vidhinā) [mantrin](mantrī) [then](tataḥ) [lotus](padmaṃ) [should-draw](samālikhet)
 
 ## mukta-m0-p70-v1734
-[special-purpose](viśeṣārthaṃ) [digging](khananaṃ) [is-said](procyate)+[now](adhunā)
+[for-special](viśeṣa) [purpose](arthaṃ) [digging](khananaṃ) [is-taught](procyate) [now](adhunā)
 
 ## mukta-m0-p70-v1735
-[that](tat) [of-filaments](kesarāṇāṃ) [and](ca) [circle](maṇḍalam)
+[then](tat) [of-filaments](kesarāṇāṃ) [and](ca) [circle](maṇḍalam)
 
 ## mukta-m0-p70-v1736
-[well-arise](samyagjāyante) [skillful](nipuṇaḥ)+[thus](tathā)
+[properly](samyak) [are-produced](jāyante) [skilled-one](nipuṇaḥ) [thus](tathā)
 
 ## mukta-m0-p70-v1737
-[of-divided](vibhaktasya) [one-part](bhāgaikasya) [thirteen](trayodaśa)
+[of-divided](vibhaktasya) [of-one-part](bhāga+ikasya) [thirteen](trayodaśa)
 
 ## mukta-m0-p70-v1738
-[so-much-measure](tāvanmānam)+[measured](itaṃ) [middle-thread](madhyasūtraṃ) [having-made](kṛtvā)+[then](anyadā) [draw](likhet)
+[of-that-much](tāvat) [measure](māna) [sized](mitaṃ) [middle](madhya) [line](sūtraṃ) [having-made](kṛtvā) [then](anyadā) [one-should-draw](likhet)
 
 ## mukta-m0-p70-v1739
-[eight](aṣṭau) [marks](cihnāni) [make](kārayet)
+[eight](aṣṭau) [marks](cihnāni) [one-should-make](kārayet)
 
 ## mukta-m0-p70-v1740
-[straight](saralāni)+[eight-threads](aṣṭasūtrāṇi) [intersections](sampātāni)+[each-other](itaretaram)
+[straight](saralāni) [eight](aṣṭa) [lines](sūtrāṇi) [intersections](sampātān) [mutually](ītaretaram)
 
 ## mukta-m0-p70-v1741
-[(trya)](tryā)+[and](ca) [threads](sūtrāṇi) [corner-eight-plus](koṇāṣṭādadhikāni) [and](ca)
+[three](tryāḥ) [and](ca) [lines](sūtrāṇi) [corners](koṇa) [eight](aṣṭa) [plus-ten](adhikāni) [and](ca)
 
 ## mukta-m0-p70-v1742
-[cleanse](mārjayet)+[eight-corner-named](aṣṭakoṇākhyaṃ) [pit-this](kuṇḍametad)+[declared](udīritam)
+[one-should-erase](mārjayet) [eight](aṣṭa) [cornered](koṇa) [named](ākhyaṃ) [pit](kuṇḍam) [this](etat) [is-declared](udīritam)
 
 ## mukta-m0-p70-v1743
-[and](ca) [who](yo) [twentieth-part](viṃśopyaṃśaḥ)+[by-that](tena) [joined](samanvitān)
+[and](ca) [which](yaḥ) [twentieth](viṃśaḥ) [also](api) [part](aṃśaḥ) [by-that](tena) [endowed-with](samanvitān)
 
 ## mukta-m0-p70-v1744
-[so-much-diameter-half](tāvadvyāsārdha)+[measure](mānena) [circle](maṇḍalaṃ) [make](racayet)+[wise](sudhīḥ)
+[of-that-much](tāvat) [radius](vyāsa+ardha) [by-measure](mānena) [circle](maṇḍalaṃ) [one-should-make](racayet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p70-v1745
-[chord-thread](jyāsūtraṃ) [remaining-measure](śeṣamānaṃ) [but](tu) [having-made](kṛtvā) [five](pañca) [drop](prapātayet)
+[chord](jyā) [line](sūtraṃ) [remaining](śeṣa) [measure](mānaṃ) [indeed](tu) [having-made](kṛtvā) [five](pañca) [one-should-cast](prapātayet)
 
 ## mukta-m0-p70-v1746
-[bows](dhanūṃṣi) [are](syuḥ)+[chord-sixth-part-arrows](jyāṣaṣṭhāṃśaśarāṇi) [and](ca)
+[arcs](dhanūṃṣi) [should-be](syuḥ) [chord](jyā) [sixth](ṣaṣṭha) [part](aṃśa) [arrows](śarāṇi) [and](ca)
 
 ## mukta-m0-p70-v1747
-[chord-five-remainder](jyāpañcakāvaśeṣāt)+[but](tu) [five-cornered](pañcāsraṃ) [best-pit](kuṇḍamuttamam)
+[from-remainder-of-five-chords](jyā+pañcaka+avaśeṣāt) [indeed](tu) [five](pañca) [cornered](asraṃ) [pit](kuṇḍam) [best](uttamam)
 
 ## mukta-m0-p70-v1748
-[seven](saptana) [(la)](la) [or](vā)+[in-that-thread](tasminsūtre) [increase](saṃvardhya) [so-much](tāvatā)
+[seven](sapta) [reeds](naḷa+vān) [in-this](tasmin) [line](sūtre) [having-increased](saṃvardhya) [by-that-much](tāvatā)
 
 ## mukta-m0-p70-v1749
-[parts-twenty](bhāgairviṃśatyā) [twentieth-part](viṃśāṃśo) [arrow](viśikhaḥ)+[as](yathā)
+[by-parts](bhāgaiḥ) [by-twenty](viṃśatyā) [twentieth](viṃśa+aṃśaḥ) [arrow](viśikhaḥ) [as](yathā)
 
 ## mukta-m0-p70-v1750
-[nine-by-nine](navabhirnavabhiḥ)+[your-parts](tvaṃśaiḥ)+[joined-tip](militāgraṃ) [all-around](samantataḥ)
+[by-nines](navabhiḥ) [by-nines](navabhiḥ) [indeed](tu) [by-parts](aṃśaiḥ) [joined](milita) [tip](agraṃ) [on-all-sides](samantataḥ)

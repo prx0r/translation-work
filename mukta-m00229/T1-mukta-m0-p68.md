@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[water-pot](kalaśaṃ) [filled-with-essence-water](sārāmbuparipūritam)
+[pot](kalaśaṃ) [essence](sāra) [+](+) [water](ambu) [+](+) [filled-with](paripūritam)
 
 ## mukta-m0-p68-v1677
-[form](saṃsthānaṃ) [as](yathā) [to-be-known](jñeyaṃ) [by-that-water](tadambhasā)
+[arrangement](saṃsthānaṃ) [as](yathā) [to-be-known](jñeyaṃ) [by-that](tat) [+](+) [water](ambhasā)
 
 ## mukta-m0-p68-v1678
-[refuge](śaraṇaṃ) [straight-peg](śaṅkumṛjuṃ) [to-be-established-in-middle](saṃsthāpyamadhyataḥ)
+[straight](ṛjuṃ) [peg](śaṅkum) [to-be-placed](saṃsthāpyam) [in-the-middle](adhyataḥ) [refuge](śaraṇaṃ)
 
 ## mukta-m0-p68-v1679
-[whence](yatastadvaddadyāccihnaṃ) [mark](cihnaṃ) [of-both](dvayorapi)
+[from-where](yatas) [like-that](tadvat) [should-give](dadyāt) [+](+) [mark](cihnaṃ) [of-both](dvayoḥ) [also](api)
 
 ## mukta-m0-p68-v1680
-[pavilion-etc](maṇḍapādīni) [should-construct](racayedapyatandritaḥ)
+[pavilion](maṇḍapa) [+](+) [and-so-forth](ādīni) [should-construct](racayet) [without-laziness](api) [+](+) [without-laziness](atandritaḥ)
 
 ## mukta-m0-p68-v1681
-[of-stars-weekdays-signs](nakṣatravārarāśīnāmanukūle) [auspicious](śubhe) [day](dine)
+[constellation](nakṣatra) [+](+) [weekday](vāra) [+](+) [zodiac-sign](rāśīnām) [favorable](anukūle) [auspicious](śubhe) [day](dine)
 
 ## mukta-m0-p68-v1682
-[with-sandal-paste-flowers-etc](gandhapuṣpādyairbrāhmaṇān) [brahmins](brāhmaṇān) [well-being](svasti) [cause-to-recite](vācayet)
+[with-fragrance](gandha) [+](+) [flower](puṣpa) [+](+) [and-so-forth](ādyaiḥ) [brahmins](brāhmaṇān) [hail](svasti) [should-cause-to-recite](vācayet)
 
 ## mukta-m0-p68-v1683
-[thus](tathā) [for-vaishya](vaiśye) [well-being](svasti) [for-shudra](śūdre) [employ](prayojayet)
+[likewise](tathā) [for-vaiśya](vaiśye) [hail](svasti) [for-śūdra](śūdre) [should-employ](prayojayet)
 
 ## mukta-m0-p68-v1684
-[sixteen-pillars-joined](ṣoḍaśastambhasaṃyuktaṃ) [four](catvārasteṣu) [among-them-middle](madhyagāḥ)
+[sixteen](ṣoḍaśa) [+](+) [pillar](stambha) [+](+) [joined-with](saṃyuktaṃ) [four](catvāras) [among-them](teṣu) [middle-situated](madhyagāḥ)
 
 ## mukta-m0-p68-v1685
-[five-cubits-measure](pañcahastapramāṇāste) [those](te) [perforated](vicchidrā) [straight](ṛjavaḥ) [auspicious](śubhāḥ)
+[five](pañca) [+](+) [cubit](hasta) [+](+) [measure](pramāṇās) [they](te) [unbroken](vicchidrāḥ) [straight](ṛjavaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p68-v1686
-[with-coconut-leaves-bamboo](nārikeradalairvāṃśaiśchādayettaṃ) [cover-it](chādayettaṃ) [all-around](samantataḥ)
+[with-coconut](nārike) [+](+) [banana](radalaiḥ) [with-bamboos](vāṃśaiḥ) [+](+) [should-cover](chādayet) [it](taṃ) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p68-v1687
-[by-four-eight-fingers-excess](caturaṣṭāṅgulādhikyāt) [declared](proktaṃ) [of-middle-and-worshipful](madhyamapūjyayoḥ)
+[four](catur) [+](+) [eight](aṣṭa) [+](+) [finger](aṅgula) [+](+) [by-excess](ādhikyāt) [declared](proktaṃ) [of-middle-and-inferior](madhyama) [+](+) [of-middle-and-inferior](pūjyayoḥ)
 
 ## mukta-m0-p68-v1688
-[remembered](smṛtasteṣāṃ) [by-five-six-seven-hands](pañcaṣaṭsaptabhiḥ) [hands](karaiḥ)
+[remembered](smṛtās) [of-them](teṣāṃ) [with-five](pañca) [+](+) [six](ṣaṭ) [+](+) [seven](saptabhiḥ) [cubits](karaiḥ)
 
 ## mukta-m0-p68-v1689
-[for-transverse-wood-placement](tiryakkāṣṭhaniveśārthaṃ) [crest-on-head](mūrdhnicūḍāṃ) [place](niveśayet)
+[crosswise](tiryak) [+](+) [timber](kāṣṭha) [+](+) [for-insertion](niveśārthaṃ) [on-top](mūrdhni) [+](+) [crest](cūḍāṃ) [should-insert](niveśayet)
 
 ## mukta-m0-p68-v1690
-[in-pavilion](maṇḍape) [at-door](dvāre) [pegs-thus](kīlānevaṃ) [arrange](prakalpayet)
+[in-pavilion](maṇḍape) [at-door](dvāre) [pegs](kīlān) [thus](evaṃ) [should-arrange](prakalpayet)
 
 ## mukta-m0-p68-v1691
-[by-eastward-order](prāgādikramayogena) [place](nyasetteṣāṃ) [good-wood-born](sudārujān)
+[east](prāk) [+](+) [and-so-forth](ādi) [+](+) [order](krama) [+](+) [by-connection](yogena) [should-place](nyaset) [of-them](teṣāṃ) [made-of-good-wood](su) [+](+) [made-of-good-wood](dārujān)
 
 ## mukta-m0-p68-v1692
-[length](dairghyaṃ) [by-fourth-part](turīyāṃśena) [breadth](vistṛtiḥ)
+[length](dairghyaṃ) [by-fourth-part](turīya) [+](+) [by-part](aṃśena) [width](vistṛtiḥ)
 
 ## mukta-m0-p68-v1693
-[and-thus-declared](caivaṃ) [two-fingers](dvyaṅgulaṃ) [raise-thus](ropayettathā)
+[and](ca) [thus](evaṃ) [declared](samākhyātaṃ) [two](dvi) [+](+) [finger](aṅgulaṃ) [should-fix](ropayet) [likewise](tathā)
 
 ## mukta-m0-p68-v1694
-[should-tie](nibadhnīyāllokapālasamaprabhāḥ) [world-guardian-equal-radiance](lokapālasamaprabhāḥ)
+[should-bind](nibadhnīyāt) [world-guardian](loka) [+](+) [guardian](pāla) [+](+) [equal](sama) [+](+) [splendor](prabhāḥ)
 
 ## mukta-m0-p68-v1695
-[fragrant-gem-garland-etc-joined](sugandharatnamālyādiyuktāḥ) [pots](kumbhāḥ) [declared](prakīrttitāḥ)
+[fragrant](sugandha) [+](+) [jewel](ratna) [+](+) [garland](mālya) [+](+) [and-so-forth](ādi) [+](+) [endowed-with](yuktāḥ) [pots](kumbhāḥ) [proclaimed](prakīrttitāḥ)
 
 ## mukta-m0-p68-v1696
-[of-banner](dhvajasyeto) [double](dviguṇaṃ) [measure](mānamucyate)
+[of-banner](dhvajasya) [from-this](itas) [twofold](dviguṇaṃ) [measure](mānam) [is-stated](ucyate)
 
 ## mukta-m0-p68-v1697
-[with-darbha-garland-etc](darbhamālyādyairalaṅkurvītamaṇḍapam) [adorn-pavilion](alaṅkurvītamaṇḍapam)
+[with-kuśa-grass](darbha) [+](+) [garland](mālya) [+](+) [and-so-forth](ādyaiḥ) [should-adorn](alaṅkurvīta) [+](+) [pavilion](maṇḍapam)
 
 ## mukta-m0-p68-v1698
-[square](caturasrāṃ) [then](tato) [altar](vedīṃ) [for-mandala](maṇḍalāya) [prepare](prakalpayet)
+[square](caturasrāṃ) [then](tatas) [altar](vedīṃ) [for-maṇḍala](maṇḍalāya) [should-prepare](prakalpayet)
 
 ## mukta-m0-p68-v1699
-[in-middle-part](madhyāṃśe) [eastward-etc](pūrvādi) [arrange](parikalpayet)
+[in-middle-part](madhyāṃśe) [east](pūrva) [+](+) [and-so-forth](ādi) [should-arrange](parikalpayet)
 
 ## mukta-m0-p68-v1700
-[yoni](yonimardhacandraṃ) [half-moon](ardhacandraṃ) [triangle](tryasraṃ) [well-rounded](suvartulam)
+[womb-shape](yonim) [half-moon](ardha) [+](+) [moon](candraṃ) [triangle](tryasraṃ) [well-rounded](su) [+](+) [rounded](vartulam)

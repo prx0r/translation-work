@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p64-v1576
-mantra [mantraḥ] be [syāt] then-by-this [tato'nena] offer [nivedayet]
+[mantra](mantraḥ) [should-be](syāt) [then](tataḥ) [by-this](anena) [one-should-offer](nivedayet)
 
 ## mukta-m0-p64-v1577
-(maṃ) [(maṃ)] offering [baliṃ] mother [mātar] give [dehi] me [me] accomplishment [siddhim] supreme [uttamām]
+[mantra](maṃ) [offering](baliṃ) [o-mother](mātaḥ) [give](dehi) [to-me](me) [accomplishment](siddhim) [supreme](uttamām)
 
 ## mukta-m0-p64-v1578
-breath-control [prāṇāyāma] etc [ādikaṃ] do [kuryāt] then [tato] having-meditated [dhyātvā] desired [iṣṭa] deity [devatām]
+[breath-control](prāṇāyāma) [and-so-forth](ādikaṃ) [one-should-do](kuryāt) [then](tataḥ) [having-meditated](dhyātvā) [chosen](iṣṭa) [deity](devatām)
 
 ## mukta-m0-p64-v1579
-one-syllable [ekākṣare] ten-thousand [ayutaṃ] repetition [jāpaḥ] two-syllable [dvyākṣare] eight [aṣṭa] thousand [sahasrakam]
+[in-one-syllable](eka+akṣare) [ten-thousand](ayutaṃ) [recitation](jāpaḥ) [in-two-syllables](dvi+akṣare) [eight](aṣṭa) [thousand](sahasrakam)
 
 ## mukta-m0-p64-v1580
-number [saṃkhyā] stated [uktā] at-end-of-japa [japānte] deity [devatā] if [yadi]
+[number](saṃkhyā) [prescribed](uktā) [at-recitation-end](japa+ante) [deity](devatā) [if](yadi)
 
 ## mukta-m0-p64-v1581
-goat-offering [chāgabaliṃ] having-given [dattvā] boon [varaṃ] request [samprārthayet] wise-one [budhaḥ]
+[goat](chāga) [offering](baliṃ) [having-given](dattvā) [boon](varaṃ) [should-request](samprārthayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p64-v1582
-five-years [pañcavatsarāt] above [ūrdhvam] eight [aṣṭa] above [ūrdhvam] thus [iti] someone [kaścana]
+[from-five-years](pañca+vatsarāt) [above](ūrdhvam) [eight](aṣṭa) [above](ūrdhvam) [thus](iti) [someone](kaścana)
 
 ## mukta-m0-p64-v1583
-crossroads [catuṣpathe] bank [tīre] river [nadyāḥ] or [vā] corpse [mṛtakaṃ] wise-one [budhaḥ]
+[at-crossroads](catuṣpathe) [on-bank](tīre) [of-river](nadyāḥ) [or](vā) [corpse](mṛtakaṃ) [wise-one](budhaḥ)
 
 ## mukta-m0-p64-v1584
-according-to-rite [vidhivat] own-desired [sveṣṭa] deity [devatām]
+[according-to-rule](vidhivat) [own](sva) [chosen](iṣṭa) [deity](devatām)
 
 ## mukta-m0-p64-v1585
-should-give [dadyāt] goat-offering [chāgabaliṃ] but [tu] at-end [ante] for-Bhairava [bhairave] ring-finger [anāmikā] considered [matā]
+[one-should-give](dadyāt) [goat](chāga) [offering](balim) [but](tu) [at-end](ante) [in-bhairava](bhairave) [ring-finger](anāmikā) [approved](matā)
 
 ## mukta-m0-p64-v1586
-for-Ganesha [gaṇeśe] but [tu] middle [madhyā] elsewhere [anyatra] as-desired [yatheṣṭa] ... [yā]
+[in-gaṇeśa](gaṇeśe) [but](tu) [middle-finger](madhyā) [elsewhere](anyatra) [as-desired](yathā+iṣṭa) [choice](icchayā)
 
 ## mukta-m0-p64-v1587
-by-sages [munibhiḥ] by-deities [daivataiḥ] and [ca] indeed [eva] stated [kathitaṃ] practitioner-desired [sādhakepsitam]
+[by-sages](munibhiḥ) [and](ca) [by-gods](daivataiḥ) [and](eva) [declared](kathitaṃ) [by-practitioner](sādhaka) [desired](īpsitam)
 
 ## mukta-m0-p64-v1588
-stated [kathitaḥ] this [ayam] observer [avekṣakaḥ]
+[declared](kathitaḥ) [this](ayam) [observer](avekṣakaḥ)
 
 ## mukta-m0-p64-v1589
-then [tataḥ] applications [prayogān] should-do [kurvīta] practitioner [sādhakaḥ] own-desired [nijavāñchitān]
+[then](tataḥ) [ritual-applications](prayogān) [one-should-perform](kurvīta) [practitioner](sādhakaḥ) [own](nija) [desired](vāñchitān)
 
 ## mukta-m0-p64-v1590
-in-brief [saṃkṣepāt] according-to-various-tantras [nānātantrānusārataḥ]
+[briefly](saṃkṣepāt) [according-to-various-tantras](nānā+tantra+anusārataḥ)
 
 ## mukta-m0-p64-v1591
-five-cow-products [pañcagavyāni] equal-to-that [tatsamānaṃ] by-wise-ones [manīṣibhiḥ]
+[five-products-of-cow](pañca+gavyāni) [equal-to-that](tat+samānaṃ) [by-wise-men](manīṣibhiḥ)
 
 ## mukta-m0-p64-v1592
-should-be [syāt] so [tathā] honey [madhu] thus [iti] some [kecana]
+[should-be](syāt) [likewise](tathā) [honey](madhu) [thus](iti) [some](kecana)
 
 ## mukta-m0-p64-v1593
-honey-milk-etc [madhudugdhādeḥ] should-be [bhavet] cupful-measure [culukamātratā]
+[of-honey-milk-etc](madhu+dugdha+ādeḥ) [should-be](bhavet) [handful](culuka) [measure](mātratā)
 
 ## mukta-m0-p64-v1594
-in-absence-of-sruva [sruvālābhe] daily-homa-etc-rite [nityahomādikarmaṇi]
+[in-absence-of-ladle](sruva+alābhe) [in-daily-oblation](nitya+homa) [and-other-rites](ādi+karmaṇi)
 
 ## mukta-m0-p64-v1595
-some [kecid] thus [iti] say [āhuḥ] traditionalists [sāmpradāyikāḥ]
+[some](kecit) [thus](iti) [say](āhuḥ) [traditionalists](sāmpradāyikāḥ)
 
 ## mukta-m0-p64-v1596
-flattened-rice [pṛthukāḥ] that-measure [tatpramāṇāḥ] should-be [syuḥ] roasted-grain [saktavaḥ] also [api] so-stated [tathoditāḥ]
+[flattened-rice](pṛthukāḥ) [of-that-measure](tat+pramāṇāḥ) [should-be](syuḥ) [groats](saktavaḥ) [also](api) [thus](tathā) [stated](uditāḥ)
 
 ## mukta-m0-p64-v1597
-oblation-measure [carumānaṃ] should-be [syāt] sugarcane [ikṣuḥ] festival [parva] limit [avadhiḥ] considered [mataḥ]
+[cooked-rice-measure](caru+mānaṃ) [should-be](syāt) [sugarcane](ikṣuḥ) [joint](parva) [limit](avadhiḥ) [considered](mataḥ)
 
 ## mukta-m0-p64-v1598
-banana-fruit [kadalīphala] orange-fruits [nāraṅgaphalāni] one-by-one [ekaikaśaḥ] know [viduḥ]
+[plantain](kadalī) [fruit](phala) [orange](nāraṅga) [fruits](phalāni) [one-by-one](ekaikaśaḥ) [they-know](viduḥ)
 
 ## mukta-m0-p64-v1599
-citrons [mātuluṅgāni] thus [iti] so [evaṃ] some [kecid] here [iha] said [ucire]
+[citrons](mātuluṅgāni) [thus](iti) [indeed](evam) [some](kecit) [here](iha) [said](ūcire)
 
 ## mukta-m0-p64-v1600
-fruit [phalaṃ] bel [bailvaṃ] wood-apple [kapitthaṃ] broken [khaṇḍitaṃ] in-two [dvidhā]
+[fruit](phalaṃ) [wood-apple](bailvaṃ) [elephant-apple](kapitthaṃ) [cut](khaṇḍitaṃ) [in-two](dvidhā)

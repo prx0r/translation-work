@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[ācārya-kuṇḍam](ācāryakuṇḍaṃ) [madhye](madhye) [syāt](syāda) [gaurī-pati](gaurīpati) [mahendra](mahendrayoḥ)
+[teacher's](ācārya)[+](kuṇḍaṃ) [in-the-middle](madhye) [should-be](syād) [of-Gaurī's-lord](gaurīpati)[+and-of-Indra](mahendrayoḥ)
 
 ## mukta-m0-p69-v1702
-[candra-ardham](candrārdhaṃ) [māraṇe](māraṇe) [yāmye](yāmye) [tryasram](tryasraṃ) [dveṣe](dveṣetu) [nairṛte](nair-ṛte)
+[half-moon](candrārdhaṃ) [in-killing-rite](māraṇe) [in-the-south](yāmye) [triangle](tryasraṃ) [in-hostility](dveṣe)[+indeed](tu) [in-the-southwest](nair-ṛte)
 
 ## mukta-m0-p69-v1703
-[udīcī](udīdīcyāṃ) [pauṣṭike](pauṣṭike) [padmam](padmaṃ) [raudryām](raudryāmaṣṭāśri) [aṣṭāśri](aṣṭāśri) [mukti-dam](muktidam)
+[in-the-north](udīdīcyāṃ) [in-nourishment-rite](pauṣṭike) [lotus](padmaṃ) [in-the-southeast](raudryām)[+eight-cornered](aṣṭāśri) [liberation-giving](muktidam)
 
 ## mukta-m0-p69-v1704
-[abhicāra](abhicāropaśāntyarthaṃ) [upaśānti](upaśānti) [arthaṃ](arthaṃ) [īśe](īśe) [sapta-aśri](saptāśri) [vinyaset](vinyaset)
+[for-sorcery](abhicāra)[+appeasement](upaśānti)[+purpose](arthaṃ) [in-the-northeast](īśe) [seven-cornered](saptāśri) [one-should-place](vinyaset)
 
 ## mukta-m0-p69-v1705
-[sadā](sadā) [home](home) [tathā](tathā) [aśāntau](aśāntāvekaṃ) [ekam](ekaṃ) [varuṇa-dig-gatam](varuṇadiggatam)
+[always](sadā) [in-oblation](home) [and-also](tathā)[+in-peace-rite](śāntāv)[+one](ekaṃ) [situated-in-Varuṇa's-direction](varuṇadiggatam)
 
 ## mukta-m0-p69-v1706
-[ripu-haram](ripuharaṃ) [tryastram](tryastraṃ) [māraṇa-karmaṇi](māraṇakārmaṇi)
+[enemy-destroying](ripuharaṃ) [triangle](tryastraṃ) [in-killing-rite](māraṇakārmaṇi)
 
 ## mukta-m0-p69-v1707
-[viprāṇām](viprāṇā) [rājñām](rājñāṃ) [vartulam](vartulamiṣyate) [iṣyate](iṣyate)
+[of-priests](viprāṇā) [of-kings](rājñāṃ) [circular](vartulam)[+is-desired](iṣyate)
 
 ## mukta-m0-p69-v1708
-[caturasram](caturasraṃ) [ca](ca) [sarveṣām](sarveṣāṃ) [kecit](kecidicchanti) [icchanti](icchanti) [tāntrikāḥ](tāntrikāḥ)
+[square](caturasraṃ) [and](ca) [for-all](sarveṣāṃ) [some](kecid)[+desire](icchanti) [tantrics](tāntrikāḥ)
 
 ## mukta-m0-p69-v1709
-[sūtram](sūtraṃ) [vinyaset](vinyaseddakṣiṇottaram) [dakṣiṇa-uttaram](dakṣiṇottaram)
+[thread](sūtraṃ) [one-should-place](vinyased)[+south-north](dakṣiṇottaram)
 
 ## mukta-m0-p69-v1710
-[sūtra-agram](sūtrāgramālambya) [ālambya](ālambya) [madhyataḥ](madhyato) [dik-catuṣṭaye](dikcatuṣṭaye)
+[thread's-end](sūtrāgram)[+having-taken](ālambya) [from-the-middle](madhyato) [in-the-four-directions](dikcatuṣṭaye)
 
 ## mukta-m0-p69-v1711
-[vakra-gata-agrāṇi](vakragatāgrāṇi) [tatra](tatrasūtrāṇi) [sūtrāṇi](sūtrāṇi) [pātayet](pātayet)
+[curved-going-tips](vakragatāgrāṇi) [there](tatra)[+threads](sūtrāṇi) [one-should-cast](pātayet)
 
 ## mukta-m0-p69-v1712
-[yāvat](yāvat) [pramāṇam](pramāṇaṃ) [kuṇḍam](kuṇḍamiṣyate) [iṣyate](iṣyate)
+[as-much-as](yāvat) [measure](pramāṇaṃ) [pit](kuṇḍam)[+is-desired](iṣyate)
 
 ## mukta-m0-p69-v1713
-[yoni-ādi](yonyādikuṇḍāni) [kuṇḍāni](kuṇḍāni) [tāvat](tāvatkṣetramitāni) [kṣetra-mitāni](kṣetramitāni) [ca](ca)
+[vulva-etc.](yonyādi)[+pits](kuṇḍāni) [of-that-much-area-measure](tāvatkṣetramitāni) [and](ca)
 
 ## mukta-m0-p69-v1714
-[veda-ūna-śatam](vedonaśataṃ) [bhāgān](bhāgān) [nidhāya](nidhāya) [ca](ca)
+[by-four-less-hundred](vedonaśataṃ) [parts](bhāgān) [having-divided](nidhāya) [and](ca)
 
 ## mukta-m0-p69-v1715
-[sūtram](sūtraṃ) [pratīcyām](pratīcyāṃ) [dakṣiṇa-uttaram](dakṣiṇottaram)
+[thread](sūtraṃ) [in-the-west](pratīcyāṃ) [south-north](dakṣiṇottaram)
 
 ## mukta-m0-p69-v1716
-[tayoḥ](tayoḥ) [pārśve](pārśve) [sāvadhānatayā](sāvadhānatayā) [sudhīḥ](sudhīḥ)
+[of-those-two](tayoḥ) [on-the-sides](pārśve) [with-carefulness](sāvadhānatayā) [wise-one](sudhīḥ)
 
 ## mukta-m0-p69-v1717
-[sūtra-dvaye](sūtradvaye) [paścāt](paścāttrikoṇaṃ) [trikoṇam](trikoṇaṃ) [jāyate](jāyate) [tataḥ](tataḥ)
+[in-the-two-threads](sūtradvaye) [afterwards](paścāt)[+triangle](trikoṇaṃ) [is-produced](jāyate) [then](tataḥ)
 
 ## mukta-m0-p69-v1718
-[vidyate](vidyate) [tasya](tasya) [tu](tu) [ardha-mānena](ardhamānena) [sādhakaḥ](sādhakaḥ)
+[exists](vidyate) [of-that](tasya) [indeed](tv)[+by-half-measure](ardhamānena) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p69-v1719
-[bhavet](bhavedetadanyūnānadhikaṃ) [etat](etat) [anyūna](anyūnānadhikaṃ) [anadhikam](anadhikaṃ) [śubham](śubham)
+[should-be](bhaved)[+this](etad)[+not-less-not-more](anyūnānadhikaṃ) [auspicious](śubham)
 
 ## mukta-m0-p69-v1720
-[tataḥ](tataścādhaḥ) [ca](ca) [adhaḥ](adhaḥ) [sārdha-bhāga-dvayam](sārdhabhāgadvayaṃ) [tyajet](tyajet)
+[then](tataś)[+and](ca)[+below](adhaḥ) [one-and-a-half-parts-two](sārdhabhāgadvayaṃ) [one-should-discard](tyajet)
 
 ## mukta-m0-p69-v1721
-[ṣoḍaśa-aṃśa-ūnam](ṣoḍaśāṃśonaṃ) [muktvā](muktvā) [tatra](tatrāpi) [api](api) [cihnayet](cihnayet)
+[by-sixteenth-part-less](ṣoḍaśāṃśonaṃ) [having-left](muktvā) [there](tatrā)[+also](pi) [one-should-mark](cihnayet)
 
 ## mukta-m0-p69-v1722
-[tataḥ](tataścādhaścihnamānena) [ca](ca) [adhaḥ](adhaḥ) [cihna-mānena](cihnamānena) [pūrvataḥ](pūrvataḥ)
+[then](tataś)[+and](ca)[+below](adhaś)[+by-mark-measure](cihnamānena) [to-the-east](pūrvataḥ)
 
 ## mukta-m0-p69-v1723
-[kuṇḍam](kuṇḍaṃ) [śobhanīyam](śobhanīyamidaṃ) [idam](idam) [bhavet](bhavet)
+[pit](kuṇḍaṃ) [to-be-beautified](śobhanīyam)[+this](idaṃ) [should-be](bhavet)
 
 ## mukta-m0-p69-v1724
-[pañcabhiḥ](pañcabhirvardhayedagre) [vardhayet](vardhayet) [agre](agre) [śroṇyāḥ](śroṇyāḥ) [sūtram](sūtraṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
+[by-five](pañcabhir)[+one-should-increase](vardhayed)[+at-the-tip](agre) [of-the-hip](śroṇyāḥ) [thread](sūtraṃ) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p69-v1725
-[pātayet](pātayetteṣu) [teṣu](teṣu) [cihneṣu](cihneṣu) [trikoṇam](trikoṇaṃ) [kuṇḍam](kuṇḍamuttamam) [uttamam](uttamam)
+[one-should-cast](pātayet)[+in-those](teṣu) [marks](cihneṣu) [triangular](trikoṇaṃ) [pit](kuṇḍam)[+excellent](uttamam)
