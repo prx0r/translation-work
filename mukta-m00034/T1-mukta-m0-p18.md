@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[not](a) [by-drum+sound+convention](paṭāṭaṅka+saṅketāt) [merely](kevalaṃ) [not](na) [is-distinguished](vibhāvyate)
+[not](na) [is-distinguished](vibhāvyate) [merely](kevalaṃ) [from-convention](saṅketāt) [of-the-syllable](apaṭa) [āṭaṅka](āṭaṅka)
 
 ## mukta-m0-p18-v427
-[by-imitated+imitation+same+cognition](anukārya+anukaraṇa+samāna+pratipattitaḥ)
+[because-of-equal-cognition](samāna+pratipattitaḥ) [of-imitation](anukaraṇa) [and-the-imitated](anukārya)
 
 ## mukta-m0-p18-v428
-[other](anye) [phonemes](varṇāḥ) [are-differentiated](vibhidyante) [as](yathā) [not](na) [this](ayam) [again](punaḥ) [thus](tathā)
+[other](anye) [phonemes](varṇāḥ) [are-differentiated](vibhidyante) [as](yathā) [this](ayam) [again](punaḥ) [not](na) [thus](tathā)
 
 ## mukta-m0-p18-v429
-[from-earth](ā+kṣiteḥ) [up-to-Śiva](śiva+paryantaṃ) [great+universality+characterized](mahā+sāmānya+lakṣaṇam)
+[from-earth](ā+kṣiteḥ) [up-to-Śiva](śiva+paryantaṃ) [characterized-by](lakṣaṇam) [the-great-universal](mahā+sāmānya)
 
 ## mukta-m0-p18-v430
-[by-motionless+nature](nirīha+ātmatayā) [also](api) [this](etat) [two+resting-place+characterized](dvaya+viśrānti+lakṣaṇaḥ)
+[and-this](etad) [though-being](api) [of-effortless-nature](nirīha+ātmatayā) [characterized-by-rest](lakṣaṇaḥ) [in-the-two](dvaya+viśrānti)
 
 ## mukta-m0-p18-v431
-[in-emergence](vyutthāne) [also](api) [situated](sthitaṃ) [directly](sākṣāt) [triad](trayam) [in-one-place](ekatra) [concentration](saṃyamaḥ)
+[even](api) [in-active-state](vyutthāne) [directly](sākṣāt) [abiding](sthitaṃ) [the-triad](trayam) [in-one-place](ekatra) [is-concentration](saṃyamaḥ)
 
 ## mukta-m0-p18-v432
-[from-this+form+non-recognition](etat+rūpa+aparijñānāt) [what](kāḥ) [not](na) [distraction+grounds](vikṣepa+bhūmayaḥ)
+[from-non-recognition](aparijñānāt) [of-this-form](etad+rūpa) [what](kāḥ) [not](na) [grounds-of-distraction](vikṣepa+bhūmayaḥ)
 
 ## mukta-m0-p18-v433
-[from-oral+tradition+fading+fear](mukha+āgama+mlāna+bhayāt) [having-unveiled](udghāṭya) [taught](pratipāditam)
+[from-fear](bhayāt) [of-fading](mlāna) [of-the-oral-tradition](mukha+āgama) [having-unveiled](udghāṭya) [it-was-taught](pratipāditam)
 
 ## mukta-m0-p18-v434
-[rays+circle](marīci+maṇḍalaṃ) [that](tat) [by-me](me) [let-be-forgiven](kṣamyatāṃ) [by-guru+grace](guru+anugrahāt)
+[that](tat) [circle-of-rays](marīci+maṇḍalaṃ) [by-me](me) [may-be-forgiven](kṣamyatāṃ) [by-the-grace](anugrahāt) [of-the-guru](guru)
 
 ## mukta-m0-p18-v435
-[of-this](asya) [indeed](eva) [phoneme+king](varṇa+rājasya) [letter+arrangement](lipi+saṃsthānam) [otherwise](anyathā)
+[of-this](asya) [very](eva) [king-of-phonemes](varṇa+rājasya) [the-arrangement](saṃsthānam) [of-letters](lipi) [is-otherwise](anyathā)
 
 ## mukta-m0-p18-v436
-[of-heart+consciousness+arisen+form](hṛt+saṃvid+uttha+rūpāyāḥ) [phoneme+kindling-stick+consisting+nature](varṇa+araṇi+maya+ātmanaḥ)
+[of-the-form](rūpāyāḥ) [arisen-from](uttha) [the-consciousness](saṃvid) [of-the-heart](hṛt) [whose-nature](ātmanaḥ) [is-made-of](maya) [the-kindling-sticks](araṇi) [of-phonemes](varṇa)
 
 ## mukta-m0-p18-v437
-[below](adhaḥ) [by-kuṇḍalinī+stream+great+whirlpool+hood+strike](kuṇḍalinī+srotas+mahā+āvarta+phaṇā+āhateḥ)
+[below](adhaḥ) [by-the-strike](hateḥ) [of-the-hood](phaṇā) [of-the-great-whirlpool](mahā+āvarta) [of-the-stream](srotas) [of-kuṇḍalinī](kuṇḍalinī)
 
 ## mukta-m0-p18-v438
-[by-turning-back](pratyāvṛttyā) [but](tu) [which](yat) [abode](dhāma) [of-measurable+withdrawal+nature](ameya+saṃharaṇa+ātmanaḥ)
+[but](tu) [by-turning-back](pratyāvṛttyā) [which](yat) [abode](dhāma) [whose-nature](ātmanaḥ) [is-the-withdrawal](saṃharaṇa) [of-the-measurable](meya)
 
 ## mukta-m0-p18-v439
-[in-bindu+void+nature](bindu+śūnya+ātmani) [from-state](sthānāt) [unobstructedness](nirāvaraṇatā) [therefore](tataḥ)
+[from-the-state](sthānāt) [whose-nature](ātmani) [is-bindu-and-void](bindu+śūnya) [thence](tataḥ) [unobstructedness](nirāvaraṇatā)
 
 ## mukta-m0-p18-v440
-[skull+staff+sequence](muṇḍa+daṇḍa+kramau) [by-that](tena) [considered](matau) [knowledge+action+consisting](jñāna+kriyā+ātmakau)
+[therefore](tena) [the-sequence](kramau) [of-head-and-staff](muṇḍa+daṇḍa) [are-regarded](matau) [as-consisting-of](ātmakau) [knowledge-and-action](jñāna+kriyā)
 
 ## mukta-m0-p18-v441
-[action-sense+expansion+consisting](karmendriya+sphāra+mayaḥ) [staff+nature](daṇḍa+ātmā) [but](tu) [then](tataḥ) [another](aparaḥ)
+[but](tu) [then](tataḥ) [another](aparaḥ) [whose-nature](ātmā) [is-the-staff](daṇḍa) [consisting-of](mayaḥ) [the-expansion](sphāra) [of-the-organs-of-action](karma+indriya)
 
 ## mukta-m0-p18-v442
-[other](anyaḥ) [Raudreśvarī+expansion+consisting](raudreśvarī+sphāra+mayaḥ) [universe+dissolving](viśva+vilāpakaḥ)
+[another](anyaḥ) [consisting-of](mayaḥ) [the-expansion](sphāra) [of-Raudreśvarī](raudreśvarī) [the-dissolver](vilāpakaḥ) [of-the-universe](viśva)
 
 ## mukta-m0-p18-v443
-[pervasion+essence](vyāpti+sārā) [situated](sthitā) [seal](mudrā) [five+vital-breath+activity+consisting](pañca+prāṇa+kriyā+ātmikā)
+[abiding](sthitā) [is-the-seal](mudrā) [whose-essence](sārā) [is-pervasion](vyāpti) [whose-nature](ātmikā) [is-the-activity](kriyā) [of-the-five-vital-airs](pañca+prāṇa)
 
 ## mukta-m0-p18-v444
-[by-great+power](mahā+prabhāvāt) [arise](jāyante) [of-yogins](yoginām) [non-sequential+risings](akrama+udayāḥ)
+[by-great-power](mahā+prabhāvāt) [arise](jāyante) [for-yogins](yoginām) [the-non-sequential-manifestations](akrama+udayāḥ)
 
 ## mukta-m0-p18-v445
-[of-yogins](yoginām) [primary+resting-place](mukhya+viśrāntiḥ) [for-consciousness+bliss](cit+ānandāya) [is-fit](kalpate)
+[the-chief-resting-place](mukhya+viśrāntiḥ) [of-yogins](yogināṃ) [tends-toward](kalpate) [consciousness-and-bliss](cit+ānandāya)
 
 ## mukta-m0-p18-v446
-[of-subtle+sequence+powers](sūkṣma+krama+prabhāvānām) [form](ākāraḥ) [of-yogins](yoginām) [considered](mataḥ)
+[the-form](ākāraḥ) [of-the-powers](prabhāvānām) [of-the-subtle-sequence](sūkṣma+krama) [is-regarded](mataḥ) [of-yogins](yogināṃ)
 
 ## mukta-m0-p18-v447
-[abode+phoneme+consciousness+one-pointedness](dhāma+varṇa+cit+aikāgryam) [of-this](asya) [also](api) [in-experience+established](anubhava+sthitam)
+[the-one-pointedness](aikāgryam) [of-abode-phoneme-and-consciousness](dhāma+varṇa+cit) [of-this-too](asya+api) [is-established](sthitam) [in-experience](anubhava)
 
 ## mukta-m0-p18-v448
-[then](tadā) [for-enjoyment+destruction](bhoga+vināśāya) [then](tadā) [time](kālaḥ) [also](api) [is-conceived](kalpyate)
+[then](tadā) [for-the-destruction](vināśāya) [of-enjoyment](bhoga) [then](tadā) [time](kālaḥ) [also](api) [is-conceived](kalpyate)
 
 ## mukta-m0-p18-v449
-[by-non-sequential+utterance+form](akrama+uccāra+rūpeṇa) [consciousness+light](cit+prakāśaḥ) [shines-forth](prakāśate)
+[in-the-form](rūpeṇa) [of-non-sequential-utterance](akrama+uccāra) [the-light](prakāśaḥ) [of-consciousness](cit) [shines-forth](prakāśate)
 
 ## mukta-m0-p18-v450
-[by-not-distant+separation](adūra+viprakarṣeṇa) [by-universality+nature](sāmānya+ātmatayā) [again](punaḥ)
+[again](punaḥ) [by-the-non-remoteness](adūra+viprakarṣeṇa) [in-the-form](ātmatayā) [of-the-universal](sāmānya)

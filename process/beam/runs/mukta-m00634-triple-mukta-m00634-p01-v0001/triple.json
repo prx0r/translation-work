@@ -1,0 +1,177 @@
+{
+ "song": "mukta-m00634-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "laḥ",
+     "gloss": "syllable-la",
+     "grounds": "Syllable name; fragment of colophon phrase.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pari",
+     "gloss": "fully",
+     "grounds": "Prefixal element of paripūrṇaḥ; token split in source.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūr",
+     "gloss": "filled",
+     "grounds": "Verbal root element of paripūrṇaḥ; token split in source.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ṇaḥ",
+     "gloss": "completed",
+     "grounds": "Participial ending element of paripūrṇaḥ; token split in source.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What completion marker is indicated by the syllable la in this colophon fragment?",
+   "premises": [
+    "The syllable la is explicitly named.",
+    "The following elements express full completion.",
+    "The tokens together form a colophon statement."
+   ],
+   "inference": "The fragment marks the completion associated with the syllable la.",
+   "uncertainties": [
+    "The exact ritual or textual unit completed by 'laḥ' is not specified in the available text."
+   ],
+   "plain_english": "La is fully completed."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "Ordinal adjective qualifying paṭalaḥ.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "Section heading term.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paripūrṇaḥ",
+     "gloss": "fully-completed",
+     "grounds": "States completion of the chapter.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "||2||",
+     "gloss": "section-2",
+     "grounds": "Numeric section marker.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "Sacred syllable; kept transliterated.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "Nominal form used in salutation; sandhi form of namaḥ.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛkāyai",
+     "gloss": "to-the-mātṛkā",
+     "grounds": "Recipient of salutation.",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "||",
+     "gloss": "end",
+     "grounds": "Punctuation marking end of unit.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What textual completion and devotional salutation conclude the second chapter here?",
+   "premises": [
+    "The second chapter is named.",
+    "The chapter is declared fully completed.",
+    "A salutation to the Mātṛkā follows."
+   ],
+   "inference": "The second chapter concludes with a declaration of completion and homage to the Mātṛkā.",
+   "uncertainties": [],
+   "plain_english": "The second chapter is fully completed. Om, salutation to the Mātṛkā."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "kābhede",
+     "gloss": "in-kābheda",
+     "grounds": "Locative designation; technical name kept in situ (UNC).",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "Locative noun indicating textual context.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paṃcamaḥ",
+     "gloss": "fifth",
+     "grounds": "Ordinal adjective qualifying paṭalaḥ.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "Section heading term.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "||5||",
+     "gloss": "section-5",
+     "grounds": "Numeric section marker.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "Sacred syllable; kept transliterated.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devy",
+     "gloss": "goddess",
+     "grounds": "Speaker designation; sandhi form of devī.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "Speech-introducing verb.",
+     "morph": "3.sg.active-perfect √vac"
+    },
+    {
+     "surface": "||",
+     "gloss": "end",
+     "grounds": "Punctuation marking end of unit.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which textual location and speaker frame the beginning of the fifth chapter?",
+   "premises": [
+    "The context is given as the Kābheda Tantra.",
+    "The fifth chapter is identified.",
+    "The goddess is presented as speaking."
+   ],
+   "inference": "The fifth chapter in the Kābheda Tantra opens with the goddess speaking.",
+   "uncertainties": [
+    "The precise identification of 'kābhede' is uncertain (UNC)."
+   ],
+   "plain_english": "In the Kābheda Tantra, the fifth chapter. Om, the goddess said."
+  }
+ ]
+}
