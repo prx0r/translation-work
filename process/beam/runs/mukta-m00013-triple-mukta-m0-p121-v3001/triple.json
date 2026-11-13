@@ -1,0 +1,879 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3001,
+   "rows": [
+    {
+     "surface": "bhūrje",
+     "gloss": "on-birch-bark",
+     "grounds": "locative of material/medium for writing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vilikhya+",
+     "gloss": "having-written",
+     "grounds": "absolutive participle indicating prior action",
+     "morph": "gerund (vi+likh)"
+    },
+    {
+     "surface": "+etad+",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the formula/text",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "+guṭikām",
+     "gloss": "pill",
+     "grounds": "object formed from the written material",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāñcana+sthitām",
+     "gloss": "placed-in-gold",
+     "grounds": "compound describing the pill's enclosure",
+     "morph": "compound adj.f.acc.sg"
+    }
+   ],
+   "question": "How should the sacred formula be prepared as a physical talisman?",
+   "premises": [
+    "The formula is written on birch bark",
+    "The written material is formed into a pill",
+    "The pill is placed within gold"
+   ],
+   "inference": "The ritual preparation requires inscribing the formula on birch bark, forming it into a pill, and encasing it in gold.",
+   "uncertainties": [],
+   "plain_english": "Having written this on birch bark, one should make it into a pill and place it in gold."
+  },
+  {
+   "verse": 3002,
+   "rows": [
+    {
+     "surface": "sarva+aiśvarya+yutau",
+     "gloss": "endowed-with-all-sovereignties",
+     "grounds": "compound describing the state attained",
+     "morph": "compound adj.m.loc.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive participle expressing prior attainment",
+     "morph": "gerund (bhū)"
+    },
+    {
+     "surface": "trailokyam",
+     "gloss": "the-three-worlds",
+     "grounds": "object of subjugation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaśam+ānayet",
+     "gloss": "should-bring-under-control",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.opt.act (vaśam+ā+nī)"
+    }
+   ],
+   "question": "What power over the cosmos results from possessing this talisman?",
+   "premises": [
+    "The practitioner becomes endowed with all sovereignties",
+    "The three worlds are the target of control",
+    "Bringing them under control is the prescribed outcome"
+   ],
+   "inference": "Possessing the talisman enables the practitioner to gain all sovereignties and subjugate the three worlds.",
+   "uncertainties": [],
+   "plain_english": "Having become endowed with all sovereignties, one should bring the three worlds under control."
+  },
+  {
+   "verse": 3003,
+   "rows": [
+    {
+     "surface": "brahmāstra+ādīni",
+     "gloss": "brahma-weapon-and-others",
+     "grounds": "compound listing divine weapons",
+     "morph": "compound n.nom.pl"
+    },
+    {
+     "surface": "śastrāṇi",
+     "gloss": "weapons",
+     "grounds": "subject of the action",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tad+gātre",
+     "gloss": "on-his-body",
+     "grounds": "locative indicating the target",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "present tense indicating effect",
+     "morph": "3.pl.pres.act (yā)"
+    },
+    {
+     "surface": "saumyatām",
+     "gloss": "to-gentleness",
+     "grounds": "state attained by the weapons",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How do divine weapons behave toward the bearer of this talisman?",
+   "premises": [
+    "Weapons such as the brahma-weapon are considered",
+    "These weapons reach the bearer's body",
+    "They become gentle upon contact"
+   ],
+   "inference": "Divine weapons, including the brahma-weapon, become harmless when directed at the talisman's bearer.",
+   "uncertainties": [],
+   "plain_english": "Weapons such as the brahma-weapon become gentle when they strike his body."
+  },
+  {
+   "verse": 3004,
+   "rows": [
+    {
+     "surface": "sa+api",
+     "gloss": "he-also",
+     "grounds": "subject with inclusive particle",
+     "morph": "pron.nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "śastra+prahāreṇa",
+     "gloss": "by-weapon-strike",
+     "grounds": "instrumental indicating means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mṛtyum",
+     "gloss": "death",
+     "grounds": "object inflicted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present tense indicating capability",
+     "morph": "3.sg.pres.act (āp)"
+    },
+    {
+     "surface": "satvaram",
+     "gloss": "quickly",
+     "grounds": "adverb modifying the action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lethal power does the talisman bearer wield against others?",
+   "premises": [
+    "The bearer can strike with weapons",
+    "Death is the result inflicted on others",
+    "The effect occurs quickly"
+   ],
+   "inference": "The bearer of the talisman can swiftly cause death to others by a weapon strike.",
+   "uncertainties": [
+    "The subject 'he' may refer to the bearer acting offensively rather than being harmed."
+   ],
+   "plain_english": "He also quickly brings death by striking with a weapon."
+  },
+  {
+   "verse": 3005,
+   "rows": [
+    {
+     "surface": "svacchandam",
+     "gloss": "at-will",
+     "grounds": "adverbial accusative indicating freedom",
+     "morph": "n.acc.sg (adv.)"
+    },
+    {
+     "surface": "dhvānta+dhārā+dhara+ruci+rucire",
+     "gloss": "brilliant-as-dark-cloud-stream",
+     "grounds": "compound describing radiant darkness",
+     "morph": "compound adj.m.loc.sg"
+    },
+    {
+     "surface": "sarva+siddhiṃ+gatānām",
+     "gloss": "of-those-attained-all-powers",
+     "grounds": "genitive plural describing accomplished beings",
+     "morph": "compound m.gen.pl"
+    }
+   ],
+   "question": "In what luminous darkness do those who have attained all powers move freely?",
+   "premises": [
+    "Movement occurs at will",
+    "The setting is brilliant like a stream of dark clouds",
+    "The beings described have attained all powers"
+   ],
+   "inference": "Those who have attained all powers move freely within a radiance resembling dark cloud streams.",
+   "uncertainties": [
+    "This verse fragment may connect syntactically with the following verse."
+   ],
+   "plain_english": "At will, among those who have attained all powers, in a brilliance like a stream of dark clouds..."
+  },
+  {
+   "verse": 3006,
+   "rows": [
+    {
+     "surface": "mahā+ghora+rāva+",
+     "gloss": "great-terrible-sound",
+     "grounds": "compound describing a fearsome cry",
+     "morph": "compound m."
+    },
+    {
+     "surface": "+avataṃse",
+     "gloss": "crest-ornament",
+     "grounds": "locative of adornment or setting",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What fearsome sonic ornament characterizes the described divine presence?",
+   "premises": [
+    "A great and terrible sound is evoked",
+    "This sound functions as a crest ornament",
+    "The description contributes to the deity's iconography"
+   ],
+   "inference": "The divine presence is adorned with a crest ornament marked by a great and terrible sound.",
+   "uncertainties": [
+    "This verse fragment likely continues the description begun in the previous verse."
+   ],
+   "plain_english": "...adorned with a crest of great and terrible sound..."
+  },
+  {
+   "verse": 3007,
+   "rows": [
+    {
+     "surface": "sṛk+dvandva+asra+dhārā+dvaya+dhara+vadane",
+     "gloss": "face-bearing-two-blood-streams-at-lips",
+     "grounds": "compound describing the deity's face",
+     "morph": "compound adj.n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-the-right",
+     "grounds": "locative indicating direction or aspect",
+     "morph": "adj.n.loc.sg"
+    },
+    {
+     "surface": "kālikā+iti",
+     "gloss": "called-kali",
+     "grounds": "name identification with quotative particle",
+     "morph": "f.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "Which fierce goddess is identified by blood streams flowing from both lips?",
+   "premises": [
+    "The face bears two streams of blood at the corners of the lips",
+    "This form is associated with the right side",
+    "The goddess is named Kali"
+   ],
+   "inference": "The fierce form described, with blood streaming from both lips, is identified as Kali.",
+   "uncertainties": [],
+   "plain_english": "On the right, with a face bearing two streams of blood at the corners of the lips, she is called Kali."
+  },
+  {
+   "verse": 3008,
+   "rows": [
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "genitive referring to the previously described beings",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral quantifying the powers",
+     "morph": "num.nom.pl"
+    },
+    {
+     "surface": "kara+sthāḥ",
+     "gloss": "situated-in-hands",
+     "grounds": "compound indicating location of the powers",
+     "morph": "compound adj.f.nom.pl"
+    },
+    {
+     "surface": "prakaṭita+vadane",
+     "gloss": "with-manifested-face",
+     "grounds": "compound describing the deity's appearance",
+     "morph": "compound adj.m.loc.sg"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "powers",
+     "grounds": "subject, the eight supernatural attainments",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tryambakasya",
+     "gloss": "of-the-three-eyed-one",
+     "grounds": "genitive identifying the deity",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Where are the eight supernatural powers located in relation to the three-eyed deity?",
+   "premises": [
+    "There are eight powers",
+    "These powers are situated in the hands",
+    "They belong to the three-eyed one with a manifested face"
+   ],
+   "inference": "The eight supernatural powers rest in the hands of the three-eyed deity whose face is manifested.",
+   "uncertainties": [
+    "The referent of 'teṣām' may link to practitioners or to aspects of the deity."
+   ],
+   "plain_english": "For them, the eight powers are situated in the hands of the three-eyed one, whose face is manifested."
+  },
+  {
+   "verse": 3009,
+   "rows": [
+    {
+     "surface": "lakṣmī+lāsya+līlā+kamala+dala+dṛśaḥ",
+     "gloss": "eyes-like-lotus-petals-in-lakshmi-play",
+     "grounds": "compound describing the appearance of the powers",
+     "morph": "compound adj.f.nom.pl"
+    },
+    {
+     "surface": "kāma+rūpāḥ",
+     "gloss": "having-desired-forms",
+     "grounds": "compound indicating ability to assume any form",
+     "morph": "compound adj.f.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "they-become",
+     "grounds": "present tense stating their nature",
+     "morph": "3.pl.pres.act (bhū)"
+    }
+   ],
+   "question": "What form and appearance do the supernatural powers assume for the adept?",
+   "premises": [
+    "The powers have eyes like lotus petals in Lakshmi's playful dance",
+    "They can assume any desired form",
+    "This is their manifested nature"
+   ],
+   "inference": "The supernatural powers appear with lotus-petal eyes like Lakshmi at play and can take any desired form.",
+   "uncertainties": [],
+   "plain_english": "They become able to assume any desired form, with eyes like lotus petals in the playful dance of Lakshmi."
+  },
+  {
+   "verse": 3010,
+   "rows": [
+    {
+     "surface": "divya+muṇḍa+sraj+atiśaya+lasat+kaṇṭha+pīna+stana+āḍhye",
+     "gloss": "adorned-with-divine-skull-garland-and-full-breasts",
+     "grounds": "compound describing the goddess's iconography",
+     "morph": "compound adj.f.loc.sg"
+    }
+   ],
+   "question": "What striking iconographic features adorn the goddess in this visualization?",
+   "premises": [
+    "The goddess wears a divine garland of skulls",
+    "Her neck shines exceedingly",
+    "She is endowed with full breasts"
+   ],
+   "inference": "The goddess is visualized as adorned with a shining divine skull garland and full breasts.",
+   "uncertainties": [
+    "This single-token verse is a descriptive compound likely qualifying a noun in adjacent verses."
+   ],
+   "plain_english": "Adorned with a divine garland of skulls shining exceedingly at the neck and with full breasts..."
+  },
+  {
+   "verse": 3011,
+   "rows": [
+    {
+     "surface": "dhyāyañ+",
+     "gloss": "meditating",
+     "grounds": "present participle indicating the act of meditation",
+     "morph": "pres.part.nom.sg.m (dhyai)"
+    },
+    {
+     "surface": "+janani",
+     "gloss": "o-mother",
+     "grounds": "vocative addressing the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jaḍa+cetāḥ",
+     "gloss": "dull-minded-one",
+     "grounds": "compound describing the meditator's initial state",
+     "morph": "compound adj.m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle emphasizing inclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaviḥ",
+     "gloss": "poet",
+     "grounds": "resulting state of the meditator",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformative effect does meditating on the Mother have on a dull-minded person?",
+   "premises": [
+    "The practitioner meditates on the Mother",
+    "Even a dull-minded person performs this meditation",
+    "The result is becoming a poet"
+   ],
+   "inference": "Meditation on the Mother transforms even a dull-minded person into a poet.",
+   "uncertainties": [],
+   "plain_english": "O Mother, even a dull-minded person, meditating on you, becomes a poet."
+  },
+  {
+   "verse": 3012,
+   "rows": [
+    {
+     "surface": "kvacit+",
+     "gloss": "anywhere",
+     "grounds": "indefinite adverb indicating place or circumstance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "genitive referring to the practitioners",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "paribhavaḥ",
+     "gloss": "defeat",
+     "grounds": "subject being negated",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can those devoted to the Mother ever suffer defeat or humiliation?",
+   "premises": [
+    "The statement applies to them in any circumstance",
+    "Defeat or humiliation is considered",
+    "Such defeat is negated"
+   ],
+   "inference": "Those devoted to the Mother never experience defeat anywhere.",
+   "uncertainties": [],
+   "plain_english": "Nowhere do they ever suffer defeat."
+  },
+  {
+   "verse": 3013,
+   "rows": [
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśu+roṣaḥ",
+     "gloss": "beast-anger",
+     "grounds": "compound referring to the anger of bound beings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samucitaḥ",
+     "gloss": "is-fitting",
+     "grounds": "predicate describing appropriateness",
+     "morph": "adj.m.nom.sg"
+    }
+   ],
+   "question": "For whom is ordinary anger considered an appropriate response?",
+   "premises": [
+    "Anger is being evaluated",
+    "The anger in question is that of a bound being",
+    "Such anger is deemed fitting for that state"
+   ],
+   "inference": "Anger is fitting only for the bound being, not for the accomplished practitioner.",
+   "uncertainties": [
+    "The term paśu refers to the bound practitioner grade in this tradition."
+   ],
+   "plain_english": "Indeed, the anger of a bound being is fitting for him."
+  },
+  {
+   "verse": 3014,
+   "rows": [
+    {
+     "surface": "siddhu+ghā",
+     "gloss": "nectar-drinking",
+     "grounds": "compound describing the poet's sustenance",
+     "morph": "compound adj.m.nom.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative indicating place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "cira+taram",
+     "gloss": "for-very-long-time",
+     "grounds": "comparative adverb indicating duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "present tense stating condition",
+     "morph": "3.sg.pres.act (jīv)"
+    },
+    {
+     "surface": "kaviḥ",
+     "gloss": "as-poet",
+     "grounds": "subject in the state of a poet",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How long does the poet sustained by nectar live upon the earth?",
+   "premises": [
+    "The poet drinks nectar",
+    "The poet lives on earth",
+    "The duration is very long"
+   ],
+   "inference": "The nectar-drinking poet lives on earth for a very long time.",
+   "uncertainties": [
+    "The compound siddhu+ghā may also imply drinking intoxicating liquor in some contexts."
+   ],
+   "plain_english": "Drinking nectar, the poet lives on earth for a very long time."
+  },
+  {
+   "verse": 3015,
+   "rows": [
+    {
+     "surface": "hara+vadhu+",
+     "gloss": "of-shiva-consort",
+     "grounds": "compound identifying the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "+siddhi+nivahāḥ",
+     "gloss": "multitudes-of-powers",
+     "grounds": "compound denoting collections of attainments",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Whose abundant supernatural powers are being celebrated in this context?",
+   "premises": [
+    "The powers belong to Shiva's consort",
+    "The powers exist in multitudes",
+    "They are presented as a subject of praise"
+   ],
+   "inference": "The multitudes of supernatural powers belong to the consort of Shiva.",
+   "uncertainties": [
+    "This fragment likely connects with the following verse's act of praise."
+   ],
+   "plain_english": "The multitudes of powers of Shiva's consort..."
+  },
+  {
+   "verse": 3016,
+   "rows": [
+    {
+     "surface": "sakalam+",
+     "gloss": "all",
+     "grounds": "adjective indicating totality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "+api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim",
+     "gloss": "how",
+     "grounds": "interrogative expressing rhetorical impossibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "staumi",
+     "gloss": "shall-i-praise",
+     "grounds": "present tense with deliberative sense",
+     "morph": "1.sg.pres.act (stu)"
+    },
+    {
+     "surface": "bhavatīm",
+     "gloss": "you",
+     "grounds": "accusative object of praise",
+     "morph": "pron.acc.sg.f"
+    }
+   ],
+   "question": "How can the devotee adequately praise the entirety of the Goddess's powers?",
+   "premises": [
+    "The Goddess possesses all powers",
+    "The devotee considers praising her",
+    "The totality is beyond complete praise"
+   ],
+   "inference": "The devotee rhetorically questions how it is possible to praise the Goddess in her entirety.",
+   "uncertainties": [],
+   "plain_english": "How can I praise you in your entirety?"
+  },
+  {
+   "verse": 3017,
+   "rows": [
+    {
+     "surface": "svairam",
+     "gloss": "freely",
+     "grounds": "adverb indicating spontaneous freedom",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rati+rasa+mahā+ānanda+niratām",
+     "gloss": "engaged-in-great-bliss-of-delight",
+     "grounds": "compound describing absorption in bliss",
+     "morph": "compound adj.f.acc.sg"
+    }
+   ],
+   "question": "In what state of blissful delight is the Goddess freely engaged?",
+   "premises": [
+    "The Goddess acts freely",
+    "She is engaged in delight and joy",
+    "This engagement is characterized as great bliss"
+   ],
+   "inference": "The Goddess is freely absorbed in the great bliss of delight and love.",
+   "uncertainties": [
+    "This descriptive phrase likely qualifies the Goddess addressed in the surrounding verses."
+   ],
+   "plain_english": "Freely engaged in the great bliss of the delight of love..."
+  },
+  {
+   "verse": 3018,
+   "rows": [
+    {
+     "surface": "bhavam+",
+     "gloss": "in-existence",
+     "grounds": "accusative indicating repeated worldly existence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "+anu",
+     "gloss": "again",
+     "grounds": "particle indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyāt+",
+     "gloss": "may-be",
+     "grounds": "benedictive/optative expressing a wish",
+     "morph": "3.sg.opt.act (bhū)"
+    },
+    {
+     "surface": "+mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mind",
+     "grounds": "subject of the wish",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What aspiration regarding rebirth does the devotee express for their own mind?",
+   "premises": [
+    "The devotee refers to their own mind",
+    "Repeated worldly existence is considered",
+    "The devotee wishes not to return to it"
+   ],
+   "inference": "The devotee prays that their mind may not return to worldly existence again.",
+   "uncertainties": [
+    "The form 'manuḥ' is read as mind here, though it can also mean Manu in other contexts."
+   ],
+   "plain_english": "May my mind not be in worldly existence again."
+  },
+  {
+   "verse": 3019,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present tense indicating result",
+     "morph": "3.sg.pres.act (bhū)"
+    },
+    {
+     "surface": "dharitrī+parivṛḍhaḥ",
+     "gloss": "lord-of-the-earth",
+     "grounds": "compound denoting sovereignty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What earthly sovereignty does the practitioner attain through this devotion?",
+   "premises": [
+    "A transformation or attainment occurs",
+    "The attained status is lordship over the earth",
+    "This is presented as a result"
+   ],
+   "inference": "Through this devotion, the practitioner becomes a lord of the earth.",
+   "uncertainties": [],
+   "plain_english": "He becomes a lord of the earth."
+  },
+  {
+   "verse": 3020,
+   "rows": [
+    {
+     "surface": "kṣiti+parivṛḍhaḥ",
+     "gloss": "lord-of-the-earth",
+     "grounds": "compound denoting sovereignty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sat+kavi+varaḥ",
+     "gloss": "best-among-true-poets",
+     "grounds": "compound denoting poetic excellence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What combination of worldly power and poetic excellence does the adept achieve?",
+   "premises": [
+    "The adept becomes a lord of the earth",
+    "The adept becomes the best among true poets",
+    "Both attainments are conjoined"
+   ],
+   "inference": "The adept attains both earthly lordship and supreme poetic excellence.",
+   "uncertainties": [],
+   "plain_english": "He becomes a lord of the earth and the best among true poets."
+  },
+  {
+   "verse": 3021,
+   "rows": [
+    {
+     "surface": "parama+pada+līnaḥ",
+     "gloss": "absorbed-in-supreme-state",
+     "grounds": "compound describing spiritual absorption",
+     "morph": "compound adj.m.nom.sg"
+    },
+    {
+     "surface": "prabhavati",
+     "gloss": "prevails",
+     "grounds": "present tense indicating mastery or power",
+     "morph": "3.sg.pres.act (pra+bhū)"
+    }
+   ],
+   "question": "What spiritual absorption empowers the adept to prevail supremely?",
+   "premises": [
+    "The adept is absorbed in the supreme state",
+    "Prevailing or mastery is the result",
+    "Spiritual absorption and power are linked"
+   ],
+   "inference": "Absorbed in the supreme state, the adept prevails with great power.",
+   "uncertainties": [],
+   "plain_english": "Absorbed in the supreme state, he prevails."
+  },
+  {
+   "verse": 3022,
+   "rows": [
+    {
+     "surface": "janani",
+     "gloss": "o-mother",
+     "grounds": "vocative addressing the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject pronoun referring to the adept",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing potential attainment",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "smara+haraḥ",
+     "gloss": "destroyer-of-desire",
+     "grounds": "epithet of Shiva indicating supreme mastery",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To what divine status equivalent to Shiva can the devotee of the Mother rise?",
+   "premises": [
+    "The Mother is addressed directly",
+    "The adept is the subject of transformation",
+    "The attained status is that of the destroyer of desire"
+   ],
+   "inference": "By the Mother's grace, the adept can become like Shiva, the destroyer of desire.",
+   "uncertainties": [],
+   "plain_english": "O Mother, he would become the destroyer of desire."
+  },
+  {
+   "verse": 3023,
+   "rows": [
+    {
+     "surface": "prati+padam+",
+     "gloss": "at-every-step",
+     "grounds": "adverbial compound indicating continuous occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+apūrvā",
+     "gloss": "unprecedented",
+     "grounds": "adjective describing novelty",
+     "morph": "adj.f.nom.sg"
+    },
+    {
+     "surface": "prabhavati",
+     "gloss": "arises",
+     "grounds": "present tense indicating manifestation",
+     "morph": "3.sg.pres.act (pra+bhū)"
+    }
+   ],
+   "question": "What kind of ever-fresh creative power manifests at every step for the adept?",
+   "premises": [
+    "Manifestation occurs at every step",
+    "What arises is unprecedented",
+    "This is a continuous power"
+   ],
+   "inference": "An unprecedented creative power arises for the adept at every step.",
+   "uncertainties": [
+    "The subject of 'prabhavati' is implied and may be poetic inspiration or power."
+   ],
+   "plain_english": "At every step, an unprecedented power arises."
+  },
+  {
+   "verse": 3024,
+   "rows": [
+    {
+     "surface": "samyak+",
+     "gloss": "properly",
+     "grounds": "adverb indicating completeness or correctness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+smara+hara+samānaḥ",
+     "gloss": "equal-to-destroyer-of-desire",
+     "grounds": "compound expressing equivalence to Shiva",
+     "morph": "compound adj.m.nom.sg"
+    },
+    {
+     "surface": "kṣiti+tale",
+     "gloss": "on-surface-of-earth",
+     "grounds": "locative indicating earthly realm",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What divine equivalence does the fully accomplished adept realize on earth?",
+   "premises": [
+    "The adept is properly accomplished",
+    "The adept becomes equal to the destroyer of desire",
+    "This state is realized on the surface of the earth"
+   ],
+   "inference": "The fully accomplished adept becomes truly equal to Shiva, the destroyer of desire, while living on earth.",
+   "uncertainties": [],
+   "plain_english": "Properly equal to the destroyer of desire, he dwells on the surface of the earth."
+  }
+ ]
+}

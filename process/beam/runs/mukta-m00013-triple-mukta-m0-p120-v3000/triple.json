@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "object of worship; accusative singular feminine of devī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive expressing prior ritual action",
+     "morph": "(gerund), root abhi-√arc"
+    },
+    {
+     "surface": "gandha+ādyair",
+     "gloss": "with-fragrance-and-others",
+     "grounds": "instrumental of means; compound indicating offerings beginning with fragrance",
+     "morph": "compound gandha+ādi, m/n.inst.pl"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental specifying the mantra employed in recitation",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "restrictive particle emphasizing exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive optative expressing ritual injunction",
+     "morph": "3.sg.act.opt, root √paṭh"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "adverb specifying the number of recitations",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual worship and recitation procedure must be performed with the root-mantra?",
+   "premises": [
+    "The goddess must first be worshipped with fragrance and other offerings.",
+    "The recitation must be performed using the root-mantra alone.",
+    "The prescribed recitation is to be done once."
+   ],
+   "inference": "The required ritual procedure consists of worshipping the goddess with offerings and then reciting once using only the root-mantra.",
+   "uncertainties": [
+    "The specific mantra or text to be recited is implied by context rather than named explicitly."
+   ],
+   "plain_english": "Having worshipped the goddess with fragrance and other offerings, one should recite once using only the root-mantra."
+  }
+ ]
+}
