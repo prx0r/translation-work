@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[then](atha) [girl](bālā) [in-a-moment](kṣaṇenaiva) [with-quick-hand-action](laghuhastakriyā'nvitā)
+[then](atha) [girl](bālā) [in-a-moment](kṣaṇena) [indeed](eva) [light+hand+action+endowed](laghu+hasta+kriyā+'nvitā)
 
 ## mukta-m0-p45-v1102
-[then](atha) [by-one](ekena) [ear-arrow](ākarṇaśareṇa) [bent-jointed](nataparvaṇā)
+[then](atha) [with-one](ekena) [ear-drawn+arrow](ākarṇa+śareṇa) [bent+jointed](nata+parvaṇā)
 
 ## mukta-m0-p45-v1103
-[rainbow](indrāyudhaṃ) [mountain-like](girimiva) [split](dadāra) [that](sa) [arrow](śaro) [elephant](gajam)
+[Indra's-rainbow](indrāyudhaṃ) [mountain](girim) [like](iva) [split](dadāra) [that](sa) [arrow](śaro) [elephant](gajam)
 
 ## mukta-m0-p45-v1104
-[cut](saṃchinnaḥ) [by-saw-like](krakaceneva) [great-pillar](mahāsthāṇuḥ) [appeared](babhau) [elephant](gajaḥ)
+[cut](saṃchinnaḥ) [with-saw](krakacena) [as-if](iva) [great+tree-trunk](mahā+sthāṇur) [shone](babhau) [elephant](gajaḥ)
 
 ## mukta-m0-p45-v1105
-[sword-handed](khaḍgahastaḥ) [sky](kham) [having-flown-up](utpatya) [her](tāṃ) [to-strike](prahartum) [attacked](upadrutaḥ)
+[sword+in-hand](khaḍga+hastaḥ) [to-sky](kham) [leaping-up](utpatya) [her](tāṃ) [to-strike](prahartum) [rushed](upadrutaḥ)
 
 ## mukta-m0-p45-v1106
-[by-swiftness](lāghavenaiva) [she](sā) [girl](bālā) [from-afar](dūrāt) [by-one](ekena) [winged](patriṇā)
+[with-swiftness](lāghavena) [indeed](eva) [that](sā) [girl](bālā) [from-afar](dūrāt) [with-one](ekena) [feathered-arrow](patriṇā)
 
 ## mukta-m0-p45-v1107
-[in-Viśukra's-head](viśukramūrghni) [that](tan) [sunk](magnaṃ) [a-little](kiñcit) [arrow-triad](bāṇatrayaṃ) [when](yadā)
+[on-head](viśukram+ūrghni) [in-that+plunged](tat+magnaṃ) [somewhat](kiñcit) [arrow+triad](bāṇa+trayaṃ) [when](yadā)
 
 ## mukta-m0-p45-v1108
-[deeply-wounded](gāḍhaviddhaḥ) [yet](api) [with-courage](dhairyeṇa) [Garuda-like](pakṣirāḍiva) [swift](vegavān)
+[deeply+pierced](gāḍha+viddhaḥ) [even](api) [with-firmness](dhairyeṇa) [bird+king](pakṣi+rāṭ) [like](iva) [swift](vegavān)
 
 ## mukta-m0-p45-v1109
-[hearing](niśāmya) [being-called](hviyamāṇāṃ) [her](tāṃ) [chariot-driver](rathanetri) [said](abravīt) [thus](idadm)
+[seeing](niśāmya) [being-carried-away](hviyamāṇāṃ) [her](tāṃ) [chariot+driver](ratha+netrī) [spoke](abravīt) [this](idam)
 
 ## mukta-m0-p45-v1110
-[slay](jahi) [by-valor](vīryeṇa) [demon](daiteyaṃ) [before](yāvat) [far](dūraṃ) [not](na) [goes](gacchati)
+[slay](jahi) [with-valor](vīryeṇa) [demon](daiteyaṃ) [as-long-as](yāvat) [far](dūraṃ) [not](na) [he-goes](gacchati)
 
 ## mukta-m0-p45-v1111
-[forming](nirvartya) [fist](muṣṭiṃ) [firm](sudṛḍhāṃ) [struck](pātayat) [his](tasya) [head](mūrdhni)
+[forming](nirvartya) [fist](muṣṭiṃ) [very-firm](su+dṛḍhāṃ) [striking](pātayat) [his](tasya) [on-head](mūrdhni)
 
 ## mukta-m0-p45-v1112
-[deep-faintness](gāḍhamūrchā) [entered](samāviṣṭaḥ) [fell](nipapāta) [on-earth](mahītale)
+[deep+fainting+overcome](gāḍha+mūrchā+samāviṣṭo) [fell](nipapāta) [on-earth](mahī+tale)
 
 ## mukta-m0-p45-v1113
-[beloved](priye) [quickly](śighraṃ) [drive](naya) [chariot](ratham) [this](eṣaḥ) [ahead](agre) [demon-leader](daityanāyakaḥ)
+[beloved](priye) [quickly](śighraṃ) [lead](naya) [chariot](ratham) [this](eṣaḥ) [in-front](agre) [demon+leader](daitya+nāyakaḥ)
 
 ## mukta-m0-p45-v1114
-[as](yathā) [blue-mountain](nīlagiriḥ) [with-laughing](hasaiḥ) [waterfall-surrounded](jalanirjharasaṃvṛtaḥ)
+[as](yathā) [blue+mountain](nīla+giriḥ) [with-laughter](hasaiḥ) [water+waterfall+covered](jala+nirjhara+saṃvṛtaḥ)
 
 ## mukta-m0-p45-v1115
-[this](eṣā) [behind](pṛṣṭhataḥ) [me](me) [army](camū) [surrounded](vṛtā) [staff-lady](daṇḍanāthā)
+[this](eṣā) [behind](pṛṣṭhataḥ) [me](me) [staff+commander](daṇḍa+nāthā) [army+surrounded](camū+vṛtā)
 
 ## mukta-m0-p45-v1116
-[certainly](avaśyaṃ) [my](mama) [of-battle](yuddhasya) [defeat](vihatiṃ) [she](sā) [will-do](kariṣyati)
+[certainly](avaśyaṃ) [my](mama) [of-battle](yuddhasya) [obstruction](vihatiṃ) [she](sā) [will-make](kariṣyati)
 
 ## mukta-m0-p45-v1117
-[longing](utkaṇṭhitā) [am-I](asmi) [for-that](tad) [battle](yuddhe) [in-every-way](sarvathā) [lead](naya) [me](māṃ) [quickly](drutam)
+[eager](utkaṇṭhitā) [I-am](asmi) [in-that+battle](tat+yuddhe) [by-all-means](sarvathā) [lead](naya) [me](māṃ) [quickly](drutam)
 
 ## mukta-m0-p45-v1118
-[as-long-as](yāvat) [Bhanda's](bhaṇḍasya) [before](purataḥ) [so-long](tāvat) [best-chariot](rathavarā) [refuge](āśrayaḥ)
+[as-long-as](yāvat) [of-Bhaṇḍa](bhaṇḍasya) [in-front](purataḥ) [so-long](tāvat) [chariot+best+resort](ratha+vara+āśrayaḥ)
 
 ## mukta-m0-p45-v1119
-[by-her](anayā) [fighting](yuddhyamānasya) [demon-king's](daityarājasya) [in-every-way](sarvathā)
+[with-her](anayā) [fighting](yuddhyamānasya) [demon+king](daitya+rājasya) [by-all-means](sarvathā)
 
 ## mukta-m0-p45-v1120
-[then](tadā) [long-earned](cirārjitā) [fame](kīrtiḥ) [in-vain](vyarthaṃ) [would-be-lost](hīyeta) [in-every-way](sarvathā)
+[then](tadā) [long+earned](cira+ārjitā) [fame](kīrtiḥ) [in-vain](vyarthaṃ) [would-be-lost](hīyeta) [by-all-means](sarvathā)
 
 ## mukta-m0-p45-v1121
-[therefore](tasmāt) [here](atra) [as-able](yathāśaktyā) [must-be-attempted](yatitavyaṃ) [by-me](mayā)
+[therefore](tasmāt) [here](atra) [according-to-strength](yathā+śaktyā) [effort](yatitavyaṃ) [should-be](bhavet) [by-me](mayā)
 
 ## mukta-m0-p45-v1122
-[coming](āyāntaṃ) [face-to-face](sammukhaṃ) [demon](daityaṃ) [seeing](dṛṣṭvā) [on-best-chariot](rathavarasthitam)
+[approaching](āyāntaṃ) [face-to-face](sammukhaṃ) [demon](daityaṃ) [seeing](dṛṣṭvā) [chariot+best+seated](ratha+vara+sthitam)
 
 ## mukta-m0-p45-v1123
-[beloved](priye) [with-Bhanda](bhaṇḍena) [to-fight](yoddhavye) [great](mahān) [obstacle](vighnaḥ) [indeed](hi) [has-arisen](upasthitaḥ)
+[beloved](priye) [with-Bhaṇḍa](bhaṇḍena) [must-fight](yoddhavye) [great](mahān) [obstacle](vighnaḥ) [indeed](hi) [has-arisen](upasthitaḥ)
 
 ## mukta-m0-p45-v1124
-[thus](ityuktvā) [sharp](niśitān) [arrows](bāṇān) [four](caturo) [released](visasarja) [indeed](ha)
+[thus+spoken](iti+uktvā) [sharp](niśitān) [arrows](bāṇān) [four](caturaḥ) [released](visasarja) [indeed](ha)
 
 ## mukta-m0-p45-v1125
-[then](atha) [by-one](ekena) [banner](dhvajaṃ) [cutting](chittvā) [charioteer](sūtam) [by-one](ekena) [winged](patriṇā)
+[then](atha) [with-one](ekena) [banner](dhvajaṃ) [having-cut](chittvā) [charioteer](sūtam) [with-one](ekena) [feathered-arrow](patriṇā)

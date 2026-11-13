@@ -3,29 +3,39 @@
  "verse": 4044,
  "rows": [
   {
-   "lemma": "kṣama",
-   "morph": "2.sg.imperative-active √kṣam",
-   "grounds": "request"
+   "lemma": "tava",
+   "morph": "pron.gen.sg",
+   "grounds": "addressed to the listener"
   },
   {
-   "lemma": "kula",
-   "morph": "compound-member",
-   "grounds": "lineage"
+   "lemma": "snehān",
+   "morph": "m.abl.sg",
+   "grounds": "reason for disclosure"
   },
   {
-   "lemma": "pati",
-   "morph": "compound-member",
-   "grounds": "deity address"
+   "lemma": "mamā",
+   "morph": "pron.gen.sg",
+   "grounds": "sandhi: mama; speaker's relation"
   },
   {
-   "lemma": "tāpaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "fault"
+   "lemma": "'khyātam",
+   "morph": "n.nom.sg.past.pass.part √khyā",
+   "grounds": "sandhi: ākhyātam; declared or revealed"
   },
   {
-   "lemma": "mudā",
-   "morph": "f.inst.sg",
-   "grounds": "manner"
+   "lemma": "pravaktavyan",
+   "morph": "n.nom.sg.future.pass.part √vac",
+   "grounds": "sandhi: pravaktavyam; obligation regarding disclosure"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "kasyacit",
+   "morph": "pron.dat.sg",
+   "grounds": "indefinite recipient"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[demons](daityān) [great-strong](mahābalān) [fierce](bhīmān) [in-battle](saṃyuge) [you-have-conquered](jitavatyasi)
+[demon](daityān) [great+strong](mahābalān) [terrible](bhīmān) [in-battle](saṃyuge) [having-conquered](jitavaty) [you-are](asi)
 
 ## mukta-m0-p48-v1177
-[auspicious-goddess](śrīdevī) [affectionate](vatsalā) [surely](nūnaṃ) [would-be](bhaved) [distressed-within](vyākulitāntarā)
+[śrī+goddess](śrīdevī) [affectionate](vatsalā) [indeed](nūnaṃ) [would-be](bhavet) [agitated+in-heart](vyākulitāntarā)
 
 ## mukta-m0-p48-v1178
-[thus-spoken](ityuktā) [commanded](ajñāpayat) [śakti](śaktim) [aśvasenā](aśvasenā) [commander](adhināyikām)
+[thus+spoken](ityuktā) [commanded](ajñāpayat) [power](śaktim) [horse-army+commander](aśvasenā'dhināyikām)
 
 ## mukta-m0-p48-v1179
 [to-great-queen](mahārājñyai) [having-reported](nivedya) [her](enām) [come](āgaccha) [quickly](tvaritaṃ) [again](punaḥ)
 
 ## mukta-m0-p48-v1180
-[into-chariot](rathāviśya) [of-girl](bālāyā) [turned-back](nyavartayata) [that](taṃ) [chariot](ratham)
+[of-the-girl](bālāyā) [chariot](ratham) [having-entered](āviśya) [they-turned-back](nyavartayata) [that](taṃ) [chariot](ratham)
 
 ## mukta-m0-p48-v1181
-[by-mothers](mātareṣā) [from-battlefield](yuddhabhuvo) [by-force](balātkārāt) [turned-back](nivartitā)
+[o-mother](mātaḥ) [this-one](eṣā) [from-battlefield](yuddhabhuvo) [by-force](balātkārāt) [was-made-to-return](nivartitā)
 
 ## mukta-m0-p48-v1182
-[by-your-command](tvadājñāyā) [we](vayaṃ) [until](yāvat) [her](enām) [from-battle](yuddhāt) [to-turn-back](nivartitum)
+[by-your+command](tvadājñāyā) [we](vayaṃ) [while](yāvat) [her](enām) [from-battle](yuddhāt) [to-turn-back](nivartitum)
 
 ## mukta-m0-p48-v1183
-[entered](praviṣṭā) [there](tatra) [of-demons](daityānāṃ) [crores](koṭayo) [stronger](balāttarāḥ)
+[entered](praviṣṭā) [there](tatra) [of-demons](daityānāṃ) [crores](koṭayo) [more+powerful](balāttarāḥ)
 
 ## mukta-m0-p48-v1184
-[defeated](nirjitau) [fierce-natured](bhīmacāritrau) [those](tau) [viśukra-viṣaṅgakau](viśukraviṣaṅgakau)
+[were-defeated](nirjitau) [of-terrible+conduct](bhīmacāritrau) [those-two](tau) [viśukra+and-viṣaṅga](viśukraviṣaṅgakau)
 
 ## mukta-m0-p48-v1185
-[having-fought](yuddhvā) [with-him](tena) [also](api) [long](suciraṃ) [conquered-illusion](jitamāyaṃ) [did](cakāra) [indeed](vai)
+[having-fought](yuddhvā) [with-him](tenā'pi) [for-long-time](suciraṃ) [defeated](jitam) [this-one](āyaṃ) [made](cakāra) [indeed](vai)
 
 ## mukta-m0-p48-v1186
-[thus-saying](ityuktvā) [went-out](niryayau) [she](sā) [also](api) [for-battle](yudhāya) [turaśā-refuge](turaśāśrayā)
+[thus+having-spoken](ityuktvā) [went-out](niryayau) [she](sā) [also](api) [for-battle](yudhāya) [horse+riding](turaśā'śrayā)
 
 ## mukta-m0-p48-v1187
-[embracing](pariṣvajya) [with-great-affection](ativātsalyāt) [on-forehead](mūrdhnyu) [kissed](pājighrad) [ambikā](ambikā)
+[having-embraced](pariṣvajya) [with-great+affection](ativātsalyāt) [on-head](mūrdhni) [smelled](upājighrat) [mother-goddess](ambikā)
 
 ## mukta-m0-p48-v1188
-[without-saying](anuktvaiva) [went](gatā) [to-battle](yuddhe) [not](naitad) [suitable](aupayikaṃ) [your](tava)
+[without-speaking](anuktvaiva) [gone](gatā) [to-battle](yuddhe) [not](na) [this](etat) [proper](aupayikaṃ) [for-you](tava)
 
 ## mukta-m0-p48-v1189
-[this](eṣā) [red-eyed](aruṇitanetrāntā) [sighing](niḥśvasantī) [again-and-again](punaḥ-punaḥ)
+[this-one](eṣā) [reddened+eye-corners](aruṇitanetrāntā) [sighing](niḥśvasantī) [again](punaḥ) [again](punaḥ)
 
 ## mukta-m0-p48-v1190
-[doubting](śaṅkamānā) [by-you](tvayā) [there](tatra) [obstacle](vighnaṃ) [not](naitam) [I-knew](avedayam)
+[fearing](śaṅkamānā) [by-you](tvayā) [there](tatra) [obstacle](vighnaṃ) [not](na) [this](etam) [I-reported](avedayam)
 
 ## mukta-m0-p48-v1191
-[those-words](tāvakyā) [staff-king](daṇḍarājñā) [I](ahaṃ) [in-vain](vṛthaiva) [from-battlefield](samarāṅgaṇāt)
+[your](tāvakyā) [by-staff-queen](daṇḍarājñā) [I](ahaṃ) [in-vain](vṛthaiva) [from-battlefield](samarāṅgaṇāt)
 
 ## mukta-m0-p48-v1192
-[otherwise](anyathā) [she](sā) [also](api) [my-battle](madyuddhaṃ) [without-pride](vimadā) [having-obtained](prāpya) [indeed](vai) [would-become](bhavet)
+[otherwise](anyathā) [she](sā) [also](api) [my+battle](madyuddhaṃ) [without-pride](vimadā) [having-obtained](prāpya) [indeed](vai) [would-be](bhavet)
 
 ## mukta-m0-p48-v1193
-[not-so](maivaṃ) [child](vatse) [again-speak](punabrūryā) [thus-saying](ityuktvā) [consoled](sāntvayat) [supreme](parā)
+[not+thus](maivaṃ) [o-daughter](vatse) [again+you-should-say](punarbrūryāḥ) [thus+having-said](ityuktvā) [consoled](sāntvayat) [supreme-goddess](parā)
 
 ## mukta-m0-p48-v1194
-[fought](yuyodha) [bhaṇḍa-demon](bhaṇḍadaityena) [joined](yutena) [demon-army](daityasenayā)
+[fought](yuyodha) [with-bhaṇḍa+demon](bhaṇḍadaityena) [accompanied](yutena) [by-demon+army](daityasenayā)
 
 ## mukta-m0-p48-v1195
-[with-rage](krodhāveśasamāyuktā) [entered](praviṣṭā) [mutually](parasparam)
+[with-anger+possession](krodhā'veśasamāyuktā) [entered](praviṣṭā) [became](abhūt) [mutually](parasparam)
 
 ## mukta-m0-p48-v1196
-[with-arrows](nārācaiḥ) [with-bhindipālas](bhindipālaiśa) [with-swords-spears-axes](khaḍgaśūlaparaśvadhaiḥ)
+[with-arrows](nārācaiḥ) [with-javelins](bhindipālaiḥ) [and](ca) [with-swords+spears+axes](khaḍgaśūlaparaśvadhaiḥ)
 
 ## mukta-m0-p48-v1197
-[struck](jaghnur) [in-battle](yuddhe) [great-fierce](mahābhīme) [endured](marṣitā) [stronger](balavattarāḥ)
+[they-struck](jaghnuḥ) [in-battle](yuddhe) [very+terrible](mahābhīme) [enraged](marṣitā) [very+powerful](balavattarāḥ)
 
 ## mukta-m0-p48-v1198
-[some](kecit) [in-two](dvidhā) [cut](kṛtāḥ) [by-weapons](śastraiḥ) [some](kecittu) [into-pieces](tilaśaḥ) [cut](kṛtāḥ)
+[some](kecit) [in-two](dvidhā) [cut](kṛtāḥ) [by-weapons](śastraiḥ) [some](kecit) [but](tu) [into-sesame-seeds](tilaśaḥ) [cut](kṛtāḥ)
 
 ## mukta-m0-p48-v1199
-[crying](krandantaḥ) [son](putra) [friend](mitreti) [alas-brother-father](hā-bhrātastāta-ityapi)
+[crying](krandantaḥ) [o-son](putra) [o-friend](mitra) [thus](iti) [alas](hā) [o-brother](bhrātaḥ) [o-father](tāta) [thus](iti) [also](api)
 
 ## mukta-m0-p48-v1200
-[demons](daityāḥ) [remaining](śiṣṭāḥ) [greatly-terrified](suvitrastāḥ) [intent-on-fleeing](palāyanaparāḥ) [then](tadā)
+[demons](daityāḥ) [remaining](śiṣṭāḥ) [very+terrified](suvitrastāḥ) [intent-on-flight](palāyanaparāḥ) [then](tadā)

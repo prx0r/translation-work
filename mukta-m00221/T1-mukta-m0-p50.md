@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p50-v1226
-[cut-winged](kṛttapakṣaḥ) [mountain](śaila) [like](iva) [fell](patāta) [on-earth](vasudhātale)
+[cut+wing](kṛtta+pakṣaḥ) [mountain](śaila) [like](iva) [fell](patāta) [on-earth+surface](vasudhā+tale)
 
 ## mukta-m0-p50-v1227
-[seeing](ālakṣya) [that-son](tadbhaṇḍasutaḥ) [fighting](yudhyamānaḥ) [nearby](samīpataḥ)
+[having-seen](ālakṣya) [that+Bhaṇḍa+son](tat+bhaṇḍa+sutaḥ) [fighting](yudhyamānaḥ) [nearby](samīpataḥ)
 
 ## mukta-m0-p50-v1228
-[thus](evaṃ) [defeated](parājitaḥ) [with-lord](sampannāthayā) [he](sa) [great-demon](mahāsuraḥ)
+[thus](evaṃ) [defeated](parājitaḥ) [by-Sampatnāthā](sampannāthayā) [he](sa) [great+demon](mahā+asuraḥ)
 
 ## mukta-m0-p50-v1229
-[with-various](vividhair) [weapons-and-missiles](astraśastraiśca) [fighting](yudhyantaṃ) [him](taṃ) [great-demon](mahāsuram)
+[with-various+missiles+and-weapons](vividhaiḥ+astra+śastraiḥ+ca) [fighting](yudhyantaṃ) [that](taṃ) [great+demon](mahā+asuram)
 
 ## mukta-m0-p50-v1230
-[struck](tāḍito) [by-mace](gadayā) [desiring](ceṣan) [swoon](mūrcchāṃ) [having-obtained](prāpya) [again](punaḥ) [with-speed](javāt)
+[struck](tāḍito) [by-mace](gadayā) [struggling](ceṣan) [fainting](mūrcchāṃ) [having-attained](prāpya) [again+by-speed](punaḥ+javāt)
 
 ## mukta-m0-p50-v1231
-[taking](samādāyā) [aśvasenā](aśvasenāsu) [moved](vicacārā) [death-like](antakopamaḥ)
+[having-taken-up](samādāya) [in-horse+armies](aśva+senāsu) [wandered](vicacāra) [death+like](antaka+upamaḥ)
 
 ## mukta-m0-p50-v1232
-[cut-head-limb-foot](chinnamūrdhāṅgacaraṇāḥ) [fell](prapetuḥ) [in-groups](saṅghasaṅghaśaḥ)
+[cut+head+limb+feet](chinna+mūrdhā+aṅga+caraṇāḥ) [fell](prapetuḥ) [in-multitudes+in-multitudes](saṅgha+saṅghaśaḥ)
 
 ## mukta-m0-p50-v1233
-[binding](baddhvā) [with-noose](pāśena) [with-mace](gadayā) [her-horse](sā'śvaṃ) [to-kill](hantuṃ) [ready](samudyatā)
+[having-bound](baddhvā) [with-noose](pāśena) [with-mace](gadayā) [with-horse+him](sa+aśvaṃ) [to-kill](hantuṃ) [prepared](samudyatā)
 
 ## mukta-m0-p50-v1234
-[disappearance](antardhānaṃ) [went](yayau) [with-horse](sāśvomāyayā) [by-illusion](māyayā) [of-illusionists](māyināṃ) [teacher](guruḥ)
+[to-disappearance](antardhānaṃ) [went](yayau) [with-horse](sa+aśvaḥ) [by-magic](māyayā) [of-magicians+teacher](māyināṃ+guruḥ)
 
 ## mukta-m0-p50-v1235
-[daṇḍanāthā](daṇḍanāthā) [and](ca) [by-bhaṇḍa](bhaṇḍena) [fought](yuyodha) [with-strength-gathered](balasambhṛtā)
+[Daṇḍanāthā](daṇḍanāthā) [and](ca) [with-Bhaṇḍa](bhaṇḍena) [fought](yuyodha) [with-strength+endowed](bala+sambhṛtā)
 
 ## mukta-m0-p50-v1236
-[by-valor](parākrameṇā) [attacked](kramata) [bhaṇḍa](bhaṇḍāṃ) [kolamukhī](kolamukhī) [in-battle](yudhi)
+[with-valor](parākrameṇa) [attacked](ākramata) [Bhaṇḍa](bhaṇḍāṃ) [Kolamukhī](kolamukhī) [in-battle](yudhi)
 
 ## mukta-m0-p50-v1237
-[in-fist-fight](muṣṭiyuddhe) [and](ca) [demon-lord](daityeśam) [surpassed](atyaricyata) [daṇḍinī](daṇḍinī)
+[in-fist+fight](muṣṭi+yuddhe) [and](ca) [demon+lord](daitya+īśam) [surpassed](atyaricyata) [Daṇḍinī](daṇḍinī)
 
 ## mukta-m0-p50-v1238
-[illusion](māyāṃ) [produced](prāduścakāroścairmāyināṃ) [crest](śekharo'suraḥ)
+[illusion](māyāṃ) [displayed](prāduścakāra) [aloud](uccaiḥ) [of-magicians+crest-jewel](māyināṃ+śekharaḥ) [demon](asuraḥ)
 
 ## mukta-m0-p50-v1239
-[stone-rain](śilāvarṣaṃ) [snake-rain](sarpavarṣañca) [and](ca) [fire](pāvakam)
+[stone+shower](śilā+varṣaṃ) [serpent+shower](sarpa+varṣaṃ) [and](ca) [fire](pāvakam)
 
 ## mukta-m0-p50-v1240
-[lions](siṃhāṃśca) [and](ca) [śarabhas](śarabhān) [aṇḍabheruṇḍas](aṇḍabheruṇḍānasṛjadyudhi)
+[lions](siṃhān) [and](ca) [śarabhas+āṇḍabheruṇḍas](śarabhān+āṇḍabheruṇḍān) [created](asṛjat) [in-battle](yudhi)
 
 ## mukta-m0-p50-v1241
-[by-counter-weapon-aiming](pratikriyā'strasandhānairnāśayāmāsa) [destroyed](nāśayāmāsa) [everywhere](sarvataḥ)
+[with-counter+weapon+applications](pratikriyā+astra+sandhānaiḥ) [destroyed](nāśayāmāsa) [on-all-sides](sarvataḥ)
 
 ## mukta-m0-p50-v1242
-[in-sky](nabhasyantarhito) [hidden](antarhito) [having-become](bhūtvā) [fought](yuyodha) [with-chariot](saratho'suraḥ)
+[in-sky+hidden](nabhasy+antarhitaḥ) [having-become](bhūtvā) [fought](yuyodha) [with-chariot](sa+rathaḥ) [demon](asuraḥ)
 
 ## mukta-m0-p50-v1243
-[weapon-thunderbolt-group-equipped](śastrā'śanigaṇopetaṃ) [śakti-senā-fear-causing](śaktisenābhayaṃkaram)
+[weapon+thunderbolt+multitude+endowed](śastra+aśani+gaṇa+upetaṃ) [Śakti-army+fear-causing](śakti+senā+bhayaṃkaram)
 
 ## mukta-m0-p50-v1244
-[broken-dam-water-like](bhinnasetudakamiva) [destroyed](viluptā'bhūt) [all-around](samantataḥ)
+[broken+dam+water](bhinna+setu+dakam) [like](iva) [scattered](viluptā) [became](abhūt) [on-all-sides](samantataḥ)
 
 ## mukta-m0-p50-v1245
-[sprang](utpapātā'tivegena) [with-speed](ativegena) [armed](sāyudhā) [of-sky](nabhaso'ṅgaṇam)
+[leaped-up](utpapāta) [with-great+speed](ati+vegena) [with-weapons](sa+āyudhā) [to-sky+expanse](nabhasaḥ+aṅgaṇam)
 
 ## mukta-m0-p50-v1246
-[sought](mṛgayāmāsa) [demon-lord](daityeśaṃ) [in-sky](nabhasyandhatamovṛte)
+[searched](mṛgayāmāsa) [demon+lord](daitya+īśaṃ) [in-sky+blind+darkness+covered](nabhasy+andha+tamovṛte)
 
 ## mukta-m0-p50-v1247
-[removing](apahatya) [great-illusion](mahāmāyāmāsasāda) [reached](āsasāda) [great-demon](mahāsuram)
+[having-dispelled](apahatya) [great+illusion](mahā+māyām) [reached](āsasāda) [great+demon](mahā+asuram)
 
 ## mukta-m0-p50-v1248
-[with-mace](gadayā'bhyāhananmūrghni) [struck-head](abhyāhananmūrghni) [like-vajra-struck](vajrā'hata) [mountain-king](ivā'drirāṭa)
+[with-mace](gadayā) [struck](abhyāhanat) [on-head](mūrghni) [by-thunderbolt+struck](vajra+āhataḥ) [like](iva) [mountain+king](adri+rāṭ)
 
 ## mukta-m0-p50-v1249
-[again](punaḥ) [she](sā) [with-mace](gadayā) [quickly](aśu) [chariot-horses-and-charioteer](rathamaśvāṃśca) [sārathim](sārathim)
+[again](punaḥ) [she](sā) [with-mace+indeed](gadayā+eva) [quickly](āśu) [chariot](ratham) [horses](aśvān) [and](ca) [charioteer](sārathim)
 
 ## mukta-m0-p50-v1250
-[then](tāvan) [from-swoon-freed](mūrcchāvinirmukto) [mace-in-hand](gadāhasto) [ha](hā) [demon](suraḥ)
+[then](tāvat) [from-fainting+released](mūrcchā+vinirmuktaḥ) [mace+in-hand](gadā+hastaḥ) [that+demon](ha+asuraḥ)
