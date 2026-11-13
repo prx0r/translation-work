@@ -12,11 +12,11 @@
 },
 {
 "surface": "nyasya",
-"quick_gloss": "of-it"
+"quick_gloss": "of-him"
 },
 {
 "surface": "mantra+arṇān",
-"quick_gloss": "mantra+syllables"
+"quick_gloss": "mantra-syllables"
 },
 {
 "surface": "dhyānam",
@@ -38,18 +38,6 @@
 {
 "surface": "vibhūtyai",
 "quick_gloss": "for-prosperity"
-},
-{
-"surface": "vibhūtyai",
-"quick_gloss": "for-power"
-},
-{
-"surface": "vibhūtyai",
-"quick_gloss": "for-success"
-},
-{
-"surface": "vibhūtyai",
-"quick_gloss": "for-abundance"
 }
 ]
 },
@@ -66,11 +54,11 @@
 },
 {
 "surface": "aṅga+pūjanam",
-"quick_gloss": "limb+worship"
+"quick_gloss": "limb-worship"
 },
 {
 "surface": "śeṣam",
-"quick_gloss": "the-rest"
+"quick_gloss": "the-remainder"
 },
 {
 "surface": "vāsukim",
@@ -99,7 +87,7 @@
 },
 {
 "surface": "indra+ādīnām",
-"quick_gloss": "Indra+and-others"
+"quick_gloss": "of-Indra-and-others"
 },
 {
 "surface": "āyudhāni",
@@ -108,10 +96,6 @@
 {
 "surface": "ca",
 "quick_gloss": "and"
-},
-{
-"surface": "ca",
-"quick_gloss": "also"
 }
 ]
 },
@@ -124,11 +108,11 @@
 "tokens": [
 {
 "surface": "juhuyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "one-should-offer-oblation"
 },
 {
 "surface": "tarpaṇa+ādi",
-"quick_gloss": "libation+and-so-forth"
+"quick_gloss": "libation-etc."
 },
 {
 "surface": "tataḥ",
@@ -153,7 +137,7 @@
 },
 {
 "surface": "sammatām",
-"quick_gloss": "esteemed"
+"quick_gloss": "agreeable"
 },
 {
 "surface": "akṣayām",
@@ -174,19 +158,15 @@
 "tokens": [
 {
 "surface": "daśa+śatam",
-"quick_gloss": "ten+hundred"
+"quick_gloss": "ten-hundred"
 },
 {
 "surface": "ṛṇa+muktyai",
-"quick_gloss": "for-debt+release"
+"quick_gloss": "for-release-from-debt"
 },
 {
 "surface": "mahā+śriye",
-"quick_gloss": "for-great+prosperity"
-},
-{
-"surface": "juhuyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "for-great-prosperity"
 }
 ]
 },
@@ -199,19 +179,19 @@
 "tokens": [
 {
 "surface": "juhuyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "one-should-offer-oblation"
 },
 {
 "surface": "vṛṣṭi+saṃsiddhyai",
-"quick_gloss": "for-rain+accomplishment"
+"quick_gloss": "for-accomplishment-of-rain"
 },
 {
 "surface": "mantra+vit",
-"quick_gloss": "mantra+knower"
+"quick_gloss": "mantra-knower"
 },
 {
 "surface": "vijita+indriyaḥ",
-"quick_gloss": "sense+conquered"
+"quick_gloss": "sense-conquered"
 }
 ]
 },
@@ -228,15 +208,7 @@
 },
 {
 "surface": "upadravaiḥ",
-"quick_gloss": "by-calamities"
-},
-{
-"surface": "upadravaiḥ",
-"quick_gloss": "by-troubles"
-},
-{
-"surface": "upadravaiḥ",
-"quick_gloss": "by-misfortunes"
+"quick_gloss": "calamities"
 }
 ]
 },
@@ -249,19 +221,11 @@
 "tokens": [
 {
 "surface": "sarva+upadrava+nāśāya",
-"quick_gloss": "for-all+calamity+destruction"
+"quick_gloss": "for-destruction-of-all-calamities"
 },
 {
 "surface": "sarva+abhyudaya+āptaye",
-"quick_gloss": "for-all+prosperity+attainment"
-},
-{
-"surface": "abhyudayāya",
-"quick_gloss": "for-welfare"
-},
-{
-"surface": "nāśāya",
-"quick_gloss": "for-removal"
+"quick_gloss": "for-attainment-of-all-prosperity"
 }
 ]
 },
@@ -286,7 +250,7 @@
 },
 {
 "surface": "japa+homa+ādi+tatparaḥ",
-"quick_gloss": "recitation+oblation+and-so-forth+devoted"
+"quick_gloss": "devoted-to-recitation-and-oblation-etc."
 }
 ]
 },
@@ -299,7 +263,7 @@
 "tokens": [
 {
 "surface": "japena+eva",
-"quick_gloss": "by-recitation+alone"
+"quick_gloss": "by-recitation-alone"
 },
 {
 "surface": "siddhiḥ",
@@ -311,7 +275,7 @@
 },
 {
 "surface": "vartate",
-"quick_gloss": "exists"
+"quick_gloss": "occurs"
 }
 ]
 },
@@ -324,19 +288,11 @@
 "tokens": [
 {
 "surface": "tāntrikāya",
-"quick_gloss": "to-the-tāntrika"
+"quick_gloss": "to-a-tāntrika"
 },
 {
 "surface": "kadācana",
 "quick_gloss": "at-any-time"
-},
-{
-"surface": "kadācana",
-"quick_gloss": "never"
-},
-{
-"surface": "na",
-"quick_gloss": "not"
 }
 ]
 },
@@ -349,15 +305,11 @@
 "tokens": [
 {
 "surface": "japena+eva",
-"quick_gloss": "by-recitation+alone"
+"quick_gloss": "by-recitation-alone"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "anna+hīnaḥ",
-"quick_gloss": "food+devoid"
+"surface": "na+anna+hīnaḥ",
+"quick_gloss": "not-devoid-of-food"
 },
 {
 "surface": "prajāyate",
@@ -435,7 +387,7 @@
 },
 {
 "surface": "varṣataḥ",
-"quick_gloss": "it-rains"
+"quick_gloss": "when-raining"
 }
 ]
 },
@@ -460,7 +412,7 @@
 },
 {
 "surface": "janma",
-"quick_gloss": "birth"
+"quick_gloss": "for-lifetime"
 },
 {
 "surface": "akṣayam",
@@ -489,7 +441,7 @@
 },
 {
 "surface": "upasamādhāya",
-"quick_gloss": "having-kindled"
+"quick_gloss": "having-established"
 },
 {
 "surface": "audumbaryā",
@@ -537,7 +489,7 @@
 "quick_gloss": "wonder"
 },
 {
-"surface": "suvarṣaṇe",
+"surface": "su+varṣaṇe",
 "quick_gloss": "in-good-rain"
 }
 ]
@@ -551,7 +503,7 @@
 "tokens": [
 {
 "surface": "juhuyāt",
-"quick_gloss": "one-should-offer"
+"quick_gloss": "one-should-offer-oblation"
 },
 {
 "surface": "lavaṇaiḥ",
@@ -560,10 +512,6 @@
 {
 "surface": "tathā",
 "quick_gloss": "likewise"
-},
-{
-"surface": "tathā",
-"quick_gloss": "thus"
 }
 ]
 },
@@ -589,10 +537,6 @@
 {
 "surface": "pitā",
 "quick_gloss": "father"
-},
-{
-"surface": "hi",
-"quick_gloss": "indeed"
 }
 ]
 },
@@ -614,14 +558,6 @@
 {
 "surface": "bhindati",
 "quick_gloss": "splits"
-},
-{
-"surface": "chindati",
-"quick_gloss": "destroys"
-},
-{
-"surface": "bhindati",
-"quick_gloss": "breaks"
 }
 ]
 },
@@ -647,10 +583,6 @@
 {
 "surface": "daha",
 "quick_gloss": "burn"
-},
-{
-"surface": "daha",
-"quick_gloss": "consume"
 }
 ]
 },
@@ -671,15 +603,7 @@
 },
 {
 "surface": "lavaṇa+tejasā",
-"quick_gloss": "by-salt+power"
-},
-{
-"surface": "tejasā",
-"quick_gloss": "with-energy"
-},
-{
-"surface": "daha",
-"quick_gloss": "burn"
+"quick_gloss": "by-salt-power"
 }
 ]
 },
@@ -692,19 +616,7 @@
 "tokens": [
 {
 "surface": "lavaṇa+mantra+puraskṛtāḥ",
-"quick_gloss": "salt+mantra+preceded"
-},
-{
-"surface": "puraskṛtāḥ",
-"quick_gloss": "empowered"
-},
-{
-"surface": "puraskṛtāḥ",
-"quick_gloss": "consecrated"
-},
-{
-"surface": "puraskṛtāḥ",
-"quick_gloss": "prepared"
+"quick_gloss": "preceded-by-salt-mantra"
 }
 ]
 }

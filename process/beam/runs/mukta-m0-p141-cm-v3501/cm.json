@@ -3,24 +3,29 @@
  "verse": 3501,
  "rows": [
   {
-   "lemma": "śvetotpala",
+   "lemma": "namas",
+   "morph": "n.nom.sg",
+   "grounds": "invocatory obeisance"
+  },
+  {
+   "lemma": "te",
+   "morph": "pron.dat.sg",
+   "grounds": "addressed to the deity"
+  },
+  {
+   "lemma": "devatā+āvāse",
    "morph": "compound",
-   "grounds": "compound: śveta+utpala"
+   "grounds": "compound: deity+abode"
   },
   {
-   "lemma": "samutthaiḥ+ca",
-   "morph": "m.ins.pl+indecl.",
-   "grounds": "instrumental plural of samuttha; +ca indeclinable"
+   "lemma": "bhakta+abhīṣṭa+prade",
+   "morph": "compound",
+   "grounds": "compound: devotee+desired+giver"
   },
   {
-   "lemma": "pūjayet",
-   "morph": "3.sg.act.opt-pūj",
-   "grounds": "optative of pūj"
-  },
-  {
-   "lemma": "māsamātrakam",
-   "morph": "n.acc.sg",
-   "grounds": "accusative duration; māsa+mātraka"
+   "lemma": "namaḥ",
+   "morph": "n.nom.sg",
+   "grounds": "repeated obeisance"
   }
  ]
 }
