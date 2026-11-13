@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 240,
- "question": "At what point in the recitation count may the oblation alternatively be performed?",
+ "question": "What sequence of phases characterizes the ritual or experiential cycle described?",
  "premises": [
-  "An alternative procedure is given.",
-  "The recitation count reaches one lakh.",
-  "Oblation is performed upon completion of that count."
+  "The beginning is young",
+  "The middle is mature",
+  "The end returns to young again"
  ],
- "inference": "Alternatively, oblation may be performed when the recitation reaches one lakh.",
- "uncertainties": [],
- "plain_english": "Or, when the count of one lakh is completed, one should perform the oblation."
+ "inference": "The cycle moves from young to mature and returns to young at its end.",
+ "uncertainties": [
+  "Referent of the phases is not explicitly stated"
+ ],
+ "plain_english": "The beginning is young, then mature, and at its end it becomes young again."
 }

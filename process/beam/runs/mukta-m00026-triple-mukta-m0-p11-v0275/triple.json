@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "first member of compound describing the seed-syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "dot",
+     "grounds": "second member of compound describing the seed-syllable",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mayaṃ",
+     "gloss": "consisting-of",
+     "grounds": "forms compound with candra and bindu, qualifying bījaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "subject described by the compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūma",
+     "gloss": "kūma",
+     "grounds": "mantra syllable name, transliterated without translation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "appositive identifying the named mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the quoted designation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "states the identification of the seed-syllable",
+     "morph": "n.nom.sg.ppp"
+    }
+   ],
+   "question": "What phonetic composition defines the seed-syllable known as kūma?",
+   "premises": [
+    "A seed-syllable is described as consisting of moon and dot.",
+    "This seed-syllable is designated as the kūma bīja.",
+    "The designation is explicitly declared in the teaching."
+   ],
+   "inference": "The kūma bīja is the seed-syllable composed of candra and bindu.",
+   "uncertainties": [
+    "The exact phonetic realization of kūma as a mantra syllable is not specified beyond this description."
+   ],
+   "plain_english": "The seed-syllable consisting of the moon and the dot is declared to be the kūma bīja."
+  }
+ ]
+}

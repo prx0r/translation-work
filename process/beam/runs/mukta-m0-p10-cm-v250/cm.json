@@ -3,29 +3,44 @@
  "verse": 250,
  "rows": [
   {
-   "lemma": "vipra+ārādhana+mātreṇa",
-   "morph": "compound n.ins.sg",
-   "grounds": "compound: vipra+ārādhana (dependent determinative) + mātra, expressing instrument of mere honoring of a brahmin"
-  },
-  {
-   "lemma": "vyaṅgaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "describes a rite or observance lacking required parts"
-  },
-  {
-   "lemma": "sāṅgaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "describes a rite or observance possessing all required parts"
-  },
-  {
-   "lemma": "bhavet",
-   "morph": "3.sg.opt.act √bhū",
-   "grounds": "expresses the resulting transformation"
-  },
-  {
-   "lemma": "dhruvam",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "asserts the certainty of the result"
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "aśubho",
+   "morph": "m.nom.sg",
+   "grounds": "nominal predicate; sandhi form of aśubhaḥ before vidyate"
+  },
+  {
+   "lemma": "vidyate",
+   "morph": "3.sg.pres.pass-√vid",
+   "grounds": "predicate of being found or present"
+  },
+  {
+   "lemma": "kālo",
+   "morph": "m.nom.sg",
+   "grounds": "subject; sandhi form of kālaḥ before na"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "aśubho",
+   "morph": "m.nom.sg",
+   "grounds": "nominal predicate; sandhi form of aśubhaḥ before vidyate"
+  },
+  {
+   "lemma": "vidyate",
+   "morph": "3.sg.pres.pass-√vid",
+   "grounds": "predicate of being found or present"
+  },
+  {
+   "lemma": "kvacit",
+   "morph": "(indecl.)",
+   "grounds": "indefinite locative adverb indicating any place"
   }
  ]
 }

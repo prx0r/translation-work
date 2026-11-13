@@ -3,14 +3,29 @@
  "verse": 300,
  "rows": [
   {
-   "lemma": "gandha+ādyaiḥ",
-   "morph": "compound:gandha+ādi.ins.pl.m/n",
-   "grounds": "instrumental plural of the compound gandha+ādi, indicating offerings beginning with fragrance"
+   "lemma": "saptakoṭi",
+   "morph": "sapta-koṭi (compound)",
+   "grounds": "Numerical compound indicating a quantity of seventy million; qualifies the following mantra terms."
   },
   {
-   "lemma": "pūjayet",
-   "morph": "3.sg.act.opt~pūj",
-   "grounds": "optative verb enjoining the act of worship"
+   "lemma": "mahāmantrā",
+   "morph": "mahā-mantra (compound, m.nom.pl)",
+   "grounds": "Refers to primary or supreme mantras present in that context."
+  },
+  {
+   "lemma": "upamantrās",
+   "morph": "upa-mantra (compound, m.nom.pl)",
+   "grounds": "Refers to secondary or attendant mantras; final -s reflects sandhi."
+  },
+  {
+   "lemma": "tathaiva",
+   "morph": "(indecl.)",
+   "grounds": "Affirms equivalence or inclusion in the same manner as previously stated."
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "Conjunctive particle adding the subsidiary mantras to the enumeration."
   }
  ]
 }

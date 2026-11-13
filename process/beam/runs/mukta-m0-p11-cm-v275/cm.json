@@ -3,39 +3,44 @@
  "verse": 275,
  "rows": [
   {
-   "lemma": "kṛtvā",
-   "morph": "abs.√kṛ",
-   "grounds": "absolutive of preceding ritual action"
+   "lemma": "candra",
+   "morph": "compound-member",
+   "grounds": "first member of compound describing the seed-syllable"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective particle linking actions"
+   "lemma": "bindu",
+   "morph": "compound-member",
+   "grounds": "second member of compound describing the seed-syllable"
   },
   {
-   "lemma": "abhyarcayed",
-   "morph": "3.sg.act.opt.√arc+abhi",
-   "grounds": "prescriptive ritual injunction"
+   "lemma": "mayaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "forms compound with candra and bindu, qualifying bījaṃ"
   },
   {
-   "lemma": "devīṃ",
-   "morph": "f.acc.sg",
-   "grounds": "object of worship"
+   "lemma": "bījaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "subject described by the compound"
   },
   {
-   "lemma": "dhūpaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "ritual offering substance"
+   "lemma": "kūma",
+   "morph": "indecl.",
+   "grounds": "mantra syllable name, transliterated without translation"
   },
   {
-   "lemma": "dattvā",
-   "morph": "abs.√dā",
-   "grounds": "absolutive specifying offering act"
+   "lemma": "bījaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "appositive identifying the named mantra"
   },
   {
-   "lemma": "sahasrakam",
-   "morph": "n.acc.sg",
-   "grounds": "quantity of incense offerings"
+   "lemma": "iti",
+   "morph": "indecl.",
+   "grounds": "marks the quoted designation"
+  },
+  {
+   "lemma": "īritam",
+   "morph": "n.nom.sg.ppp",
+   "grounds": "states the identification of the seed-syllable"
   }
  ]
 }

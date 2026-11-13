@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p167-v4151
-[vijaya-ādi](vijayādi) [fruit](phala) [heptad](saptakaṃ) [mūla-etc.](mūlādi) [constellation](nakṣatra) [nonad](navaka) [declared](prokta) [oblation](homa) [common](sādhāraṇam)
+[vijaya+ādi+phala+saptakam](vijayādiphalasaptakaṃ) [mūla+ādi+nakṣatra+navaka+prokta+homa+sādhāraṇam](mūlādinakṣatranavakaproktahomasādhāraṇam)
 
 ## mukta-m0-p167-v4152
-[that](tat) [substance](dravyaṃ) [mountain](parvataṃ) [complete](sampūrṇaṃ) [o-supreme-lord](parameśvara) [thus](iti) [vocative](sambuddhiḥ)
+[tat+dravyam](taddravyaṃ) [parvatam](parvataṃ) [sampūrṇam](sampūrṇaṃ) [parameśvara+iti](parameśvarīti) [sambuddhiḥ](sambuddhiḥ)
 
 ## mukta-m0-p167-v4153
-[in-those-respective](tattat) [declared](prokteṣu) [times](kāleṣu) [planetary](graha) [affliction](ārttiḥ) [may-be](syāt) [not](na) [in-that](tat) [family](kule)
+[tat+tat+prokteṣu](tattatprokteṣu) [kāleṣu](kāleṣu) [graha+ārttiḥ](grahārttiḥ) [syāt](syāt) [na](na) [tat+kule](tatkule)
 
 ## mukta-m0-p167-v4154
-[with-dūrvā](dūrvā) [amṛtā](amṛtā) [and-sesame](tilaiḥ) [daily](nityaṃ) [as-long-as-life](yāvajjīvaṃ) [happy](sukhī) [one-should-be](bhavet)
+[dūrvā+amṛtā+tilaiḥ](dūrvāmṛtātilair) [nityam](nityaṃ) [yāvat+jīvam](yāvajjīvaṃ) [sukhī](sukhī) [bhavet](bhavet)
 
 ## mukta-m0-p167-v4155
-[not](na) [of-him](tasya) [anywhere](kutracit) [anyone](kaścit) [ever](kadācit) [affliction](kleśa) [arising](sambhavaḥ)
+[na](na) [tasya](tasya) [kutracit](kutracit) [kaścit](kaścit) [kadācit](kadācit) [kleśa+sambhavaḥ](kleśasambhavaḥ)
 
 ## mukta-m0-p167-v4156
-[with-fragrance](saurabhya) [rich](āḍhyaiḥ) [with-flowers](prasūnaiḥ) [and](ca) [one-should-worship](pūjayet) [or](vā) [then](atha) [on-that](tat) [day](dine)
+[saurabhya+āḍhyaiḥ](saurabhyāḍhyaiḥ) [prasūnaiḥ](prasūnaiś) [ca](ca) [pūjayet](pūjayed) [vā](vā) [atha](atha) [tat+dine](taddine)
 
 ## mukta-m0-p167-v4157
-[if](yadi) [may-be](syāt) [of-him](tasya) [disease-etc.](rogādi) [affliction](pīḍā) [becomes](bhavati) [certainly](niścitam)
+[yadi](yadi) [syāt](syāt) [tasya](tasya) [roga+ādi+pīḍā](rogādipīḍā) [bhavati](bhavati) [niścitam](niścitam)
 
 ## mukta-m0-p167-v4158
-[in-disease-etc.](rogādi) [thus](iti) [here](atra) [ādi](ādi) [word](śabdaḥ) [spirit-etc.](bhūtādi) [pertaining-to](viṣayaḥ)
+[roga+ādi+iti](rogādīty) [atra](atra) [ādi+śabdaḥ](ādiśabdo) [bhūta+ādi+viṣayaḥ](bhūtādiviṣayaḥ)
 
 ## mukta-m0-p167-v4159
-[mantra](vidyāṃ) [one-should-recite](japet) [thousand](sahasraṃ) [or](vā) [hundred](śataṃ) [or](vā) [one-should-worship](pūjayet) [Śivā](śivām)
+[vidyām](vidyāṃ) [japet](japet) [sahasram](sahasraṃ) [vā](vā) [śatam](śataṃ) [vā](vā) [pūjayet](pūjayec) [śivām](chivām)
 
 ## mukta-m0-p167-v4160
-[therefore](tasmāt) [in-declared](ukteṣu) [times](kāleṣu) [thus](tathā) [doing](kurvvan) [happy](sukhī) [one-should-be](bhavet)
+[tasmāt](tasmād) [ukteṣu](ukteṣu) [kāleṣu](kāleṣu) [tathā](tathā) [kurvan](kurvvan) [sukhī](sukhī) [bhavet](bhavet)
 
 ## mukta-m0-p167-v4161
-[mantra-practitioner-hood](māntrikatvaṃ) [may-be](bhavet) [in-world](loke) [sorrow](śoka) [and-laughter](hāsa) [object](āspadaṃ) [may-be](bhavet)
+[māntrikatvam](māntrikatvaṃ) [bhavet](bhavel) [loke](loke) [śoka+hāsa+āspadam](śokahāsāspadaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p167-v4162
-[from-oblation](havanāt) [year](abda) [only](mātreṇa) [eloquent](vāgmī) [may-be](syāt) [stammering-speech](kuṇṭhavāk) [even](api)
+[havanāt](havanād) [abda+mātreṇa](abdamātreṇa) [vāgmī](vāgmī) [syāt](syāt) [kuṇṭha+vāk](kuṇṭhavāg) [api](api)
 
 ## mukta-m0-p167-v4163
-[from-mandala](maṇḍalāt) [with-its](tasya) [leaves](patraiḥ) [and](ca) [with-fuel-sticks](samidbhiḥ) [also](api) [from-root](mūlataḥ)
+[maṇḍalāt](maṇḍalāt) [tasya](tasya) [patraiḥ](patraiś) [ca](ca) [samidbhiḥ](samidbhir) [api](api) [mūlataḥ](mūlataḥ)
 
 ## mukta-m0-p167-v4164
-[with-roots](mūlaiḥ) [and](ca) [for-prosperity](lakṣmī) [accomplishment](saṃsiddhyai) [not](mā) [in-his](tat) [lineage](anvayagā) [may-be](bhavet)
+[mūlaiḥ](mūlaiś) [ca](ca) [lakṣmī+saṃsiddhyai](lakṣmīsaṃsiddhyai) [mā](mā) [tat+anvaya+gā](tadanvayagā) [bhavet](bhavet)
 
 ## mukta-m0-p167-v4165
-[of-own-side](svapakṣa) [and-other-side](parapakṣayoḥ)
+[sva+pakṣa+para+pakṣayoḥ](svapakṣaparapakṣayoḥ)
 
 ## mukta-m0-p167-v4166
-[stammering-speech](kuṇṭhavāk) [even](api) [mute](mūkaḥ) [also](api) [thus](iti) [meaning](arthaḥ)
+[kuṇṭha+vāk](kuṇṭhavāg) [api](api) [mūkaḥ](mūkopīty) [api](api) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p167-v4167
-[in-broken](khaṇḍa) [forms](rūpaiḥ)
+[khaṇḍa+rūpaiḥ](khaṇḍarūpaiḥ)
 
 ## mukta-m0-p167-v4168
-[of-practitioner](sādhakasya) [lineage](vaṃśa) [going](gāminī)
+[sādhakasya](sādhakasya) [vaṃśa+gāminī](vaṃśagāminī)
 
 ## mukta-m0-p167-v4169
-[prosperity](indirāṃ) [obtains](labhate) [delightful](ramyāṃ) [by-all](sarva) [world](loka) [wondered-at](camatkṛtām)
+[indirām](indirāṃ) [labhate](labhate) [ramyām](ramyām) [sarva+loka+camatkṛtām](sarvalokacamatkṛtām)
 
 ## mukta-m0-p167-v4170
-[wealthy](āḍhyaḥ) [may-be](syāt) [childless](aprajaḥ) [sons](putrān) [obtains](avāpnoti) [virtue](guṇa) [endowed](adhikān)
+[āḍhyaḥ](āḍhyaḥ) [syāt](syād) [aprajaḥ](aprajaḥ) [putrān](putrān) [avāpnoti](avāpnoti) [guṇa+adhikān](guṇādhikān)
 
 ## mukta-m0-p167-v4171
-[obtains](labhate) [with-all](sarva) [crops](śasya) [rich](āḍhyāṃ) [earth](bhuvaṃ) [enjoyer](bhoktā) [and](ca) [becomes](jāyate)
+[labhate](labhate) [sarva+śasya+āḍhyām](sarvaśasyāḍhyāṃ) [bhuvam](bhuvaṃ) [bhoktā](bhoktā) [ca](ca) [jāyate](jāyate)
 
 ## mukta-m0-p167-v4172
-[hundredfold](śataguḥ) [practitioner](sādhakaḥ) [like-that](tadvat) [with-three-sweet](trimadhvaktaiḥ) [obtains](labhet) [three](trayam)
+[śata+guḥ](śataguḥ) [sādhakaḥ](sādhakas) [tadvat](tadvattri) [tri+madhv+aktaiḥ](madhvaktair) [labhet](labhet) [trayam](trayam)
 
 ## mukta-m0-p167-v4173
-[with-tagara](tagara) [produced](utthaiḥ) [also](api) [likewise](tathā) [with-parched-grains](lājaiḥ) [and](ca) [with-kuṭaja](kuṭajaiḥ) [also](api)
+[tagara+utthaiḥ](tagarotthair) [api](api) [tathā](tathā) [lājaiḥ](lājaiś) [ca](ca) [kuṭajaiḥ](kuṭajair) [api](api)
 
 ## mukta-m0-p167-v4174
-[for-that-many](tāvat) [days](dinaiḥ) [mandala](maṇḍala) [days](dinaiḥ)
+[tāvat+dinaiḥ](tāvaddinaiḥ) [maṇḍala+dinaiḥ](maṇḍaladinaiḥ)
 
 ## mukta-m0-p167-v4175
-[mandala](maṇḍala) [day](dina) [limit](avadhi)
+[maṇḍala+dina+avadhi](maṇḍaladināvadhi)
