@@ -11,7 +11,7 @@
 [mantras](mantrāḥ) [at-that-time](tat+kālaṃ) [fruit-giving](phala+dāyakāḥ)
 
 ## mukta-m0-p158-v3929
-[gods](devāḥ) [that-accomplishment](tat+siddhiḥ) [by-preliminary-practice-alone](puraścaraṇa+mātrataḥ)
+[gods](devāḥ) [that-accomplishment](tat+siddhiḥ) [by-preliminary-rite-alone](puraścaraṇa+mātrataḥ)
 
 ## mukta-m0-p158-v3930
 [born-from-that](tat+jātaṃ) [donkey-field](gardabha+kṣetram) [wondrous](adbhutam)
@@ -41,28 +41,28 @@
 [left-eye](vāma+netraṃ) [that](te) [great-seat](mahat+pīṭhaṃ) [that](tat) [is-called](ucyate)
 
 ## mukta-m0-p158-v3939
-[gods](devā) [vision-of-deities](devatā+darśanaṃ) [may-be](bhavet)
+[gods](devā) [vision-of-the-deity](devatā+darśanaṃ) [may-be](bhavet)
 
 ## mukta-m0-p158-v3940
 [left](vāmaḥ) [therefore](tasmāt) [supreme-seat](pīṭha+uttamaṃ) [indeed](tu) [that](tat)
 
 ## mukta-m0-p158-v3941
-[one-who-sees-the-far-shore](pāra+darśī) [may-be](syāt) [knower-of-truth](tattva+jñānī) [may-become](bhavet) [likewise](tathā)
+[one-who-has-seen-the-far-shore](pāra+darśī) [may-be](syāt) [knower-of-truth](tattva+jñānī) [may-be](bhavet) [likewise](tathā)
 
 ## mukta-m0-p158-v3942
-[there](tatra) [O-lord-of-gods](deveśi) [expiation-causing](prāyaścitta+karāṇi) [and](ca)
+[there](tatra) [O-goddess](deveśi) [expiation-causing](prāyaścitta+karāṇi) [and](ca)
 
 ## mukta-m0-p158-v3943
-[I-shall-perform](kariṣyāmi) [very-secret](ati+guptāni) [in-Kali-age](kalau) [covered-by-barbarians](mleccha+āvṛtāni) [and](ca)
+[I-shall-make](kariṣyāmi) [very-secret](ati+guptāni) [in-Kali-age](kalau) [covered-by-barbarians](mleccha+āvṛtāni) [and](ca)
 
 ## mukta-m0-p158-v3944
 [right-ear](dakṣa+karṇaḥ) [indeed](tu) [fallen](patitaḥ) [very-beautiful](atīva+śobhanaḥ)
 
 ## mukta-m0-p158-v3945
-[of-drinks](pānāṃ) [indeed](hi) [for-dwelling](nivāsāya) [prepared](upakalpitam)
+[of-drinks](pānāṃ) [indeed](hi) [for-dwelling](nivāsāya) [arranged](upakalpitam)
 
 ## mukta-m0-p158-v3946
-[of-Vedic-mantras](vaidika+mantrāṇāṃ) [accomplishment](siddhiḥ) [gods](devāḥ) [at-every-step](pade) [at-every-step](pade)
+[of-Vedic-mantras](vaidika+mantrāṇāṃ) [accomplishment](siddhiḥ) [gods](devāḥ) [at-every-step](pade+pade)
 
 ## mukta-m0-p158-v3947
 [in-the-world](loke) [well-known](prasiddham) [secondary-seat](upapīṭhakam)

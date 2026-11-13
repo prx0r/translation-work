@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p161-v4001
-[upaveda+artha+niṣpattiḥ](upavedārthaniṣpatir) [bhavet](bhaved) [rāja+gṛhe](rājagṛhe) [tathā](tathā)
+[upaveda+meaning+accomplishment](upavedārthaniṣpatiḥ) [would-be](bhavet) [in-rājagṛha](rājagṛhe) [thus](tathā)
 
 ## mukta-m0-p161-v4002
-[jāti+duṣṭaiḥ](jātiduṣṭair) [dvijaiḥ](dvijais) [tatra](tatra) [sva+śarīram](svaśarīraṃ) [samarpitam](samarpitam)
+[by-caste+corrupted](jātiduṣṭaiḥ) [by-twice-born](dvijaiḥ) [there](tatra) [own+body](svaśarīraṃ) [offered](samarpitam)
 
 ## mukta-m0-p161-v4003
-[kalau](kalau) [mārgāḥ](mārgāś) [cālitāḥ](cālitā) [deha+saukhya+dāḥ](dehasaukhyadāḥ)
+[in-kali-age](kalau) [paths](mārgāḥ) [and](ca) [set-in-motion](ālitā) [body+pleasure+giving](dehasaukhyadāḥ)
 
 ## mukta-m0-p161-v4004
-[samasta+vana+devānām](samastavanadevānāṃ) [tatra](tatra) [siddhiḥ](siddhir) [adūrataḥ](adūrataḥ)
+[of-all+forest+gods](samastavanadevānāṃ) [there](tatra) [accomplishment](siddhiḥ) [not+far](adūrataḥ)
 
 ## mukta-m0-p161-v4005
-[elā+pure](elāpure) [ḍhakāraḥ](ḍhakārobhūd) [abhūt](ḍhakārobhūd) [dakṣa+ūruḥ](dakṣoruḥ) [patitaḥ](patitas) [tava](tava)
+[in-elāpura](elāpure) [ḍha+syllable](ḍhakāraḥ) [was](abhūt) [right+thigh](dakṣoruḥ) [fallen](patitaḥ) [of-you](tava)
 
 ## mukta-m0-p161-v4006
-[mṛtyuñjaya+āyuḥ+karaṇam](mṛtyuñjayāyuṣkaraṇam) [antrāḥ](antrāḥ) [siddhyanti](siddhyanti) [tatra](tatra) [tu](tu)
+[death+conquering+life+making](mṛtyuñjayāyuṣkaraṇa) [mantras](mantrāḥ) [are-accomplished](siddhyanti) [there](tatra) [indeed](tu)
 
 ## mukta-m0-p161-v4007
-[japāt](japāt) [siddhyet](siddhyerd) [dhanur+vedaḥ](dhanurvedo) [na](na) [saṃśayaḥ](saṃśayaḥ)
+[from-recitation](japāt) [would-be-accomplished](siddhyet) [archery+science](dhanurvedaḥ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p161-v4008
-[te](te) [siddhyai](siddhyai) [kavaca+mantrāṇām](kavacamantrāṇām) [avanti](avantīti) [iti](avantīti) [nigadyate](nigadyate)
+[they](te) [for-accomplishment](siddhyai) [of-armor+mantras](kavacamantrāṇām) [protect](avanti) [thus](iti) [is-said](nigadyate)
 
 ## mukta-m0-p161-v4009
-[vāmakāḥ](vāmakā) [mantrāḥ](mantrās) [tatra](tatra) [siddhyanti](siddhyanti) [na](na) [itare](itare)
+[left-hand](vāmakāḥ) [mantras](mantrāḥ) [there](tatra) [are-accomplished](siddhyanti) [not](na) [others](itare)
 
 ## mukta-m0-p161-v4010
-[vaitālikāḥ](vaitālikā) [mantrāḥ](mantrāḥ) [siddhim](siddhiṃ) [yānti](yānti) [ca](ca) [śābarāḥ](śābarāḥ)
+[vaitālika](vaitālikāḥ) [mantras](mantrāḥ) [accomplishment](siddhiṃ) [go-to](yānti) [and](ca) [śābara](śābarāḥ)
 
 ## mukta-m0-p161-v4011
-[nūpuraḥ](nūpuraś) [ca](ca) [eva](eva) [tatra](tatra) [hi](hi)
+[anklet](nūpuraḥ) [and](ca) [indeed](eva) [there](tatra) [indeed](hi)
 
 ## mukta-m0-p161-v4012
-[pīṭha+upapīṭhayoḥ](pīṭhopapīṭhayos) [tatra](tatra) [mantrāḥ](mantrāḥ) [siddhyanti](siddhyanti) [bhāskarāḥ](bhāskarāḥ)
+[in-pīṭha+and-upapīṭha](pīṭhopapīṭhayoḥ) [there](tatra) [mantras](mantrāḥ) [are-accomplished](siddhyanti) [solar](bhāskarāḥ)
 
 ## mukta-m0-p161-v4013
-[nipatitaḥ](nipatitas) [tatra](tatra) [kṛta+sādhaka+siddhi+dam](kṛtasādhakasiddhidam)
+[fallen](nipatitaḥ) [there](tatra) [made+practitioner+accomplishment+giving](kṛtasādhakasiddhidam)
 
 ## mukta-m0-p161-v4014
-[patitaḥ](patito) [yatra](yatra) [ḍāmarañ](ḍāmarañ) [ca](ca) [upapīṭhakam](upapīṭhakam)
+[fallen](patitaḥ) [where](yatra) [ḍāmara](ḍāmaraṃ) [and](ca) [upapīṭha](upapīṭhakam)
 
 ## mukta-m0-p161-v4015
-[patitaḥ](patitas) [tatra](tatra) [dṛśyate](dṛśyate) [śveta+mṛttikā](śvetamṛttikā)
+[fallen](patitaḥ) [there](tatra) [is-seen](dṛśyate) [white+clay](śvetamṛttikā)
 
 ## mukta-m0-p161-v4016
-[te](te) [asthīni](sthīni) [patitāni](patitāni) [dvija+uttamaiḥ](dvijottamaiḥ)
+[their+bones](testhīni) [fallen](patitāni) [by-best+twice-born](dvijottamaiḥ)
 
 ## mukta-m0-p161-v4017
-[prāk](prāk) [ca](ca) [bagalā+ādi+upapīṭham](bagalādyupapīṭhaṃ) [mahā+adbhutam](mahādbhutam)
+[formerly](prāk) [and](ca) [beginning-with-bagalā](bagalādy) [upapīṭha](upapīṭhaṃ) [very+wondrous](mahādbhutam)
 
 ## mukta-m0-p161-v4018
-[gaṅgā+yamunayoḥ](gaṅgāyamunayor) [madhye](madhye) [rāja+rāja+īśvarī+īśvaram](rājarājeśvarīśvaram)
+[of-gaṅgā+and-yamunā](gaṅgāyamunayoḥ) [in-middle](madhye) [of-rājarājeśvarī+lord](rājarājeśvarīśvaram)
 
 ## mukta-m0-p161-v4019
-[prayāgaḥ](prayāgotas) [tatas](prayāgotas) [tīrtha+rājaḥ](tīrtharājaḥ) [pīṭha+rājaḥ](pīṭharājaś) [ca](ca) [kathyate](kathyate)
+[from-prayāga](prayāgotaḥ) [pilgrimage+king](tīrtharājaḥ) [pīṭha+king](pīṭharājaḥ) [and](ca) [is-called](kathyate)
 
 ## mukta-m0-p161-v4020
-[dakṣiṇaḥ](dakṣiṇaḥ) [patitaḥ](patito) [devi](devi) [pādukā+siddhiḥ](pādukāsiddhir) [atra](atra) [tu](tu)
+[right](dakṣiṇaḥ) [fallen](patitaḥ) [o-goddess](devi) [sandal+accomplishment](pādukāsiddhiḥ) [here](atra) [indeed](tu)
 
 ## mukta-m0-p161-v4021
-[deva+dānava+gandharva+māyāḥ](devadānavagandharvamāyāḥ) [siddhyanti](siddhyanti) [tatra](tatra) [tu](tu)
+[god+dānava+gandharva](devadānavagandharva) [illusions](māyāḥ) [are-accomplished](siddhyanti) [there](tatra) [indeed](tu)
 
 ## mukta-m0-p161-v4022
-[rakta+ambara+ādi+baudhānām](raktāmbarādibaudhānāṃ) [mantra+siddhi+sthalam](mantrasiddhisthalantu) [tu](mantrasiddhisthalantu) [tat](tat)
+[of-red+garment+etc.+buddhists](raktāmbarādibaudhānāṃ) [mantra+accomplishment+place](mantrasiddhisthalaṃ) [indeed](tu) [that](tat)
 
 ## mukta-m0-p161-v4023
-[siddhāḥ](siddhā) [vaiṣṇavāḥ](vaiṣṇavās) [tu](tu) [viśeṣataḥ](viśeṣataḥ)
+[accomplished](siddhāḥ) [vaiṣṇavas](vaiṣṇavāḥ) [indeed](tu) [especially](viśeṣataḥ)
 
 ## mukta-m0-p161-v4024
-[siddhet](siddhet) [svarṇa+ākarṣaṇa+bhairavaḥ](svarṇākarṣaṇabhairavaḥ)
+[would-be-accomplished](siddhet) [gold+attracting+bhairava](svarṇākarṣaṇabhairavaḥ)
 
 ## mukta-m0-p161-v4025
-[patitam](patitantatra) [tatra](patitantatra) [japāt](japād) [vāk+siddhiḥ](vāksiddhyati) [yati](vāksiddhyati) [dhruvam](dhruvam)
+[fallen](patitaṃ) [there](tatra) [from-recitation](japāt) [speech+accomplishment](vāksiddhiḥ) [is-accomplished](siddhyati) [certainly](dhruvam)
