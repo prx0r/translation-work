@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p132-v3276
-that-arrangement(tadvidhānaṃ) hear(śṛṇu) wise-one(prājñe) flame-garlanded-described(jvālā+mālinī+udāhṛtā)
+[that+procedure](tadvidhānaṃ) [hear](śṛṇu) [O-wise-one](prājñe) [Jvālāmālinī+declared](jvālāmālinyudāhṛtā)
 
 ## mukta-m0-p132-v3277
-speed(rayo) fire-united(agninā+yutaḥ) bow-water(jyā+ambu) wind-united(marut+yuktā) essence(rasā) wind(marut)
+[ra](rayo) [with-fire](agninā) [joined](yuto) [jyā+water](jyāmbu) [with-wind+joined](marudyuktā) [rasa](rasā) [wind](marut)
 
 ## mukta-m0-p132-v3278
-lineage(gotrā) foot(caraṇe) together(sahitā) water(ambu) prior-syllable(pūrva+akṣaraṃ) thus(tathā)
+[gotrā](gotrā) [with-caraṇa](caraṇe) [accompanied](sahitā) [water](ambu) [first+syllable](pūrvākṣaraṃ) [likewise](tathā)
 
 ## mukta-m0-p132-v3279
-swan(haṃsaḥ) wind(marutā) burning(dāhaḥ) breath(prāṇaḥ) wind(marutā) united(yutaḥ)
+[haṃsa](haṃsaś) [and](ca) [with-wind](marutā) [dāha](dāhaḥ) [prāṇa](prāṇaś) [and](ca) [with-wind](marutā) [joined](yutaḥ)
 
 ## mukta-m0-p132-v3280
-movement(careṇa) water(ambu) lineage(gotrā) heart(hṛt) fire(sāgni) bow-water(jyā+ambu) essence(rasā) self-united(svayuk)
+[with-caraṇa+water](careṇāmbu) [and](ca) [gotrā](gotrā) [heart+fire](hṛtsāgni) [jyā+water+rasa](jyāmburasā) [self+joined](svayuk)
 
 ## mukta-m0-p132-v3281
-burning(dāhena) this(anena) twice(dviḥ) be(syāt) swan(haṃsaḥ) burning-wind(dāha+marut+svayuk)
+[by-this+dāha](dāhenānena) [of-you](te) [twice](dviḥ) [should-be](syāt) [haṃsa](haṃso) [dāha+wind+self+joined](dāhamarutsvayuk)
 
 ## mukta-m0-p132-v3282
-seven(sapta) burnings(dāhāḥ) then(tataḥ) hers(asyāḥ) be(syur) eighth(aṣṭama) etc(ādyāḥ) five(pañca) indeed(vai)
+[seven](sapta) [dāhas](dāhās) [then](tatas) [of-her](asyāḥ) [should-be](syur) [eighth+beginning](aṣṭamādyās) [but](tu) [five](pañca) [indeed](vai)
 
 ## mukta-m0-p132-v3283
-swift(tvaritā) final(antyaṃ) bheruṇḍā(bheruṇḍā) eighth(aṣṭamaṃ) ninth(navamaṃ) thus(tathā)
+[Tvaritā+final](tvaritāntyaṃ) [and](ca) [Bheruṇḍā](bheruṇḍā) [eighth](aṣṭamaṃ) [ninth](navamaṃ) [likewise](tathā)
 
 ## mukta-m0-p132-v3284
-repha(rephāḥ) seed-power(bīja+śaktī) peg(kīlakaṃ) armor(kavacaṃ) beloved(priye)
+[repha+weapon](rephāstre) [seed+power](bījaśaktī) [but](tu) [peg](kīlakaṃ) [armor](kavacaṃ) [O-beloved](priye)
 
 ## mukta-m0-p132-v3285
-make(kuryāt) limbs(aṅgāni) root-syllables(mūla+arṇaiḥ) from-beginning(āditaḥ) six(ṣaṭ) hand-limbs(kara+aṅgayoḥ)
+[one-should-make](kuryād) [limbs](aṅgāni) [with-root+syllables](mūlārṇair) [from-beginning](āditaḥ) [six](ṣaṭ) [of-hands+and-limbs](karāṅgayoḥ)
 
 ## mukta-m0-p132-v3286
-six-faced(ṣaḍvaktrāṃ) twelve-armed(dvādaśa+bhujāṃ) all-ornament-adorned(sarva+ābharaṇa+bhūṣitām)
+[six-faced](ṣaḍvaktrāṃ) [twelve-armed](dvādaśabhujāṃ) [all+ornament+adorned](sarvābharaṇabhūṣitām)
 
 ## mukta-m0-p132-v3287
-trident-fire(śūla+vahnī) boon-fearlessness(vara+abhītī) holding(dadhānāṃ) lotus-hands(kara+paṅkajaiḥ)
+[trident+fire](śūlavahnī) [boon+fearlessness](varābhītī) [holding](dadhānāṃ) [with-lotus-hands](karapaṅkajaiḥ)
 
 ## mukta-m0-p132-v3288
-beautiful-smile-shining-face(cāru+smita+lasat+vaktra+sarojāṃ) three-eyed(trīkṣaṇa+anvitām)
+[charming+smile+shining+face+lotus](cārusmitalasadvaktrasarojāṃ) [with-three-eyes+endowed](trīkṣaṇānvitām)
 
 ## mukta-m0-p132-v3289
-square-pair(caturasra+dvayaṃ) having-made(kṛtvā) four-gate-endowed(catur+dvāra+samanvitam)
+[square+pair](caturasradvayaṃ) [having-made](kṛtvā) [with-four+doors+endowed](caturdvārasamanvitam)
 
 ## mukta-m0-p132-v3290
-six-angle(ṣaṭkoṇaṃ) middle(madhyataḥ) triangle(triasraṃ) having-made(vidhāya) here(atra) auspicious(śivāṃ) worship(yajet)
+[six-cornered](ṣaṭkoṇaṃ) [in-middle+triangle](madhyatastryasraṃ) [having-formed](vidhāya) [here](atra) [Śivā](śivāṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p132-v3291
-ḍākinī-etc(ḍākinyādyāḥ) six-angle(ṣaṭkoṇe) eight-angle(tvaṣṭāsre) ghasmara-etc(ghasmarādikāḥ)
+[Ḍākinī+beginning](ḍākinyādyāś) [and](ca) [in-six-corner](ṣaṭkoṇe) [but](tu) [in-eight-corner](aṣṭāsre) [Ghasmarā+beginning](ghasmarādikāḥ)
 
 ## mukta-m0-p132-v3292
-all-devouring(sarva+bhakṣā) thousand-eyed(sahasra+akṣī) unattached(niḥsaṅgā) dissolution-loving(saṃhṛti+priyā)
+[all+eating](sarvabhakṣā) [thousand-eyed](sahasrākṣī) [unattached](niḥsaṅgā) [dissolution+fond](saṃhṛtipriyā)
 
 ## mukta-m0-p132-v3293
-unthinkable(acintyām) immeasurable(aprameyāṃ) full-form(pūrṇa+rūpāṃ) hard-to-approach(durāsadām)
+[inconceivable](acintyām) [immeasurable](aprameyāṃ) [and](ca) [complete+form](pūrṇarūpāṃ) [difficult-to-approach](durāsadām)
 
 ## mukta-m0-p132-v3294
-outer-gates(bahirdvāreṣu) corners(koṇeṣu) worship(pūjayet) previously-declared(prāg+udīritāḥ)
+[outside+in-doors](bahirdvāreṣu) [in-corners](koṇeṣu) [one-should-worship](pūjayet) [previously+declared](prāgudīritāḥ)
 
 ## mukta-m0-p132-v3295
-offering-homa-end(bali+homa+avasāna+antam) thus(iti) properly(samyak) declared(samīritam)
+[offering+oblation+ending+up-to](balihomāvasānāntam) [thus](iti) [properly](samyak) [declared](samīritam)
 
 ## mukta-m0-p132-v3296
-declared(proktā) that-rite(tat+kalpam) now(adhunā) hear(śṛṇu) all-purpose-success(sarva+artha+siddhidam)
+[declared](proktā) [her+ritual](tatkalpam) [now](adhunā) [hear](śṛṇu) [all+purpose+accomplishment+giving](sarvārthasiddhidam)
 
 ## mukta-m0-p132-v3297
-meditation(dhyānaṃ) powers(śaktīḥ) worship(pūjanaṃ) practice(sādhanaṃ) fruits(tat+phalāni) and(ca)
+[meditation](dhyānaṃ) [powers](śaktīḥ) [worship](pūjanañ) [and](ca) [practice](sādhanaṃ) [its+results](tatphalāni) [and](ca)
 
 ## mukta-m0-p132-v3298
-six-limbs(ṣaḍaṅgāni) as-before(yathāpūrvaṃ) mātṛkā(mātṛkāṃ) vidyā(vidyayā) place(nyaset)
+[six+limbs](ṣaḍaṅgāni) [as+before](yathāpūrvaṃ) [mātṛkā](mātṛkāṃ) [with-mantra](vidyayā) [one-should-place](nyaset)
 
 ## mukta-m0-p132-v3299
-nine-gem-crown(navaratna+kirīṭāṃ) variegated-garment(citra+paṭṭa+aṃśuka+ujjvalām)
+[nine+gem+crown](navaratnakirīṭāṃ) [and](ca) [variegated+silk+garment+resplendent](citrapaṭṭāṃśukojjvalām)
 
 ## mukta-m0-p132-v3300
-all-bliss-filled(sarva+ānanda+mayīṃ) eternal(nityāṃ) all-desires-giving(samasta+īpsita+dāyinīm)
+[all+bliss+consisting-of](sarvānandamayīṃ) [eternal](nityāṃ) [all+desired+things+giving](samastepsitadāyinīm)

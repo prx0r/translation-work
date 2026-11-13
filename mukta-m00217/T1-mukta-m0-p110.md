@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p110-v2726
-[instruction](upadeśaṃ) [giving-taking](dadadgṛhṇan) [they](tau) [went](prayātāṃ) [demonhood](piśācatām)
+[instruction](upadeśaṃ) [giving](dadat)+[receiving](gṛhṇan) [those-two](tau) [go-to](prayātāṃ) [state-of-piśāca](piśācatām)
 
 ## mukta-m0-p110-v2727
-[eat](bhuñjāte) [both](tāvubhau) [terrible](ghorān) [twenty-one-hells](narakānekaviṃśatim)
+[experience](bhuñjāte) [those-two](tāv)+[both](ubhau) [terrible](ghorān) [hells](narakān)+[twenty-one](ekaviṃśatim)
 
 ## mukta-m0-p110-v2728
-[places](vinyasyati) [and](ca) [that](taṃ) [mantra](mantraṃ) [in-sand](saikate) [like-rice-seed](śālibījavat)
+[places](vinyasyati) [and](ca) [that](taṃ) [mantra](mantraṃ) [on-sand](saikate) [like-rice](śāli)+[seed](bījavat)
 
 ## mukta-m0-p110-v2729
-[therefore](tasmāt) [after-examining](parīkṣya) [should-be-spoken](vaktavyam) [otherwise](anyathā) [fruitless](niṣphalaṃ) [becomes](bhavet)
+[therefore](tasmāt) [having-examined](parīkṣya) [should-be-spoken](vaktavyam) [otherwise](anyathā) [fruitless](niṣphalaṃ) [it-would-be](bhavet)
 
 ## mukta-m0-p110-v2730
-[that](tat) [brings](prāpayati) [that-truth](tattattvaṃ) [cow](gauḥ) [from-milk](kṣīrāt) [but](tu) [ghee](ghṛtaṃ) [as](yathā)
+[that](tat) [leads-to](prāpayati) [that](tat)+[truth](tattvaṃ) [cow](gauḥ) [from-milk](kṣīrāt)+[indeed](tu) [ghee](ghṛtaṃ) [as](yathā)
 
 ## mukta-m0-p110-v2731
-[deity-curse](devatāśāpam) [obtains](āpnoti) [done](kṛtaṃ) [and](ca) [distorted](vikṛtaṃ) [becomes](bhavet)
+[deity](devatā)+[curse](śāpam)+[obtains](āpnoti) [done](kṛtaṃ) [and](ca) [altered](vikṛtaṃ) [it-would-be](bhavet)
 
 ## mukta-m0-p110-v2732
-[without](vinā) [which](yena) [by-initiation](abhiṣekeṇa) [practitioner](sādhakaḥ) [full-knowledge](pūrṇabodhatām)
+[without](vinā) [which](yena)+[consecration](abhiṣekeṇa) [practitioner](sādhakaḥ) [to-full](pūrṇa)+[awakening](bodhatām)
 
 ## mukta-m0-p110-v2733
-[therefore](tasmād) [guru](guruḥ) [dear](priyaṃ) [disciple](śiṣyaṃ) [having-instructed](bodhayitvā) [initiates](abhiṣecayet)
+[therefore](tasmāt) [teacher](guruḥ) [dear](priyaṃ) [disciple](śiṣyaṃ) [having-awakened](bodhayitvā)+[should-consecrate](abhiṣecayet)
 
 ## mukta-m0-p110-v2734
-[khari-water-filled](khārītoyabhṛtaṃ) [pot](kumbhaṃ) [place](sthāpayet) [in-circle-middle](cakramadhyataḥ)
+[khārī-measure](khārī)+[water](toya)+[filled](bhṛtaṃ) [vessel](kumbhaṃ) [should-place](sthāpayet)+[in-circle](cakra)+[middle](madhyataḥ)
 
 ## mukta-m0-p110-v2735
-[in-petals](daleṣu) [duly](vidhivat) [placing](sthāpya) [there-inner-outer-desired-deity](tatrābāhyeṣṭadevatām)
+[on-petals](daleṣu) [according-to-rule](vidhivat) [having-placed](sthāpya) [there](tatra)+[outside](abāhya)+[chosen-deity](iṣṭadevatām)
 
 ## mukta-m0-p110-v2736
-[disciple's](śiṣyasya) [birth-star](janmanakṣatre) [as-before](prāgvat) [with-them](tair) [initiate](abhiṣecayet)
+[of-disciple](śiṣyasya) [birth](janma)+[constellation](nakṣatre) [as-before](prāgvat) [with-those](taiḥ)+[should-consecrate](abhiṣecayet)
 
 ## mukta-m0-p110-v2737
-[with-four](caturbhiḥ) [kuḍavas](kuḍavaiḥ) [prastha](prastham) [adhaka](āḍhakaṃ) [with-them](taiḥ) [fourfold](caturguṇaiḥ)
+[with-four](caturbhiḥ) [kuḍavas](kuḍavaiḥ) [prastha](prastham)+[āḍhaka](āḍhakaṃ) [with-those](taiḥ)+[and](ca)+[fourfold](caturguṇaiḥ)
 
 ## mukta-m0-p110-v2738
-[with-pots](kumbhaiḥ) [them](taiḥ) [eight](aṣṭabhiḥ) [khari](khārī)
+[with-vessels](kumbhaiḥ)+[with-those](taiḥ)+[eight](aṣṭabhiḥ) [khārī](khārī) [--------------------------](--------------------------)
 
 ## mukta-m0-p110-v2739
-[red-colored](sindūravarṇaṃ) [gold-ornamented](tapanīyabhūṣaṃ) [fire](vahniṃ) [matted-hair-ornamented-head](jaṭābhūṣitamaulim) [praise](īḍe)
+[vermilion](sindūra)+[colored](varṇaṃ) [molten-gold](tapanīya)+[adorned](bhūṣaṃ) [fire](vahniṃ) [matted-hair](jaṭā)+[adorned](bhūṣita)+[head](maulim)+[I-praise](īḍe)
 
 ## mukta-m0-p110-v2740
-[obstacle-free](avighnaṃ) [make](kuru) [me](me) [god](deva) [in-all-works](sarvakāryeṣu) [always](sarvadā)
+[without-obstacle](avighnaṃ) [make](kuru) [for-me](me) [god](deva) [in-all](sarva)+[tasks](kāryeṣu) [always](sarvadā)
 
 ## mukta-m0-p110-v2741
-[deva-army](devasenā) [svadha](svadhā) [svaha](svāhā) [mothers](mātaraḥ) [world-mothers](lokamātaraḥ)
+[devasenā](devasenā) [svadhā](svadhā) [svāhā](svāhā) [mothers](mātaro) [world](loka)+[mothers](mātaraḥ)
 
 ## mukta-m0-p110-v2742
-[brahmi](brāhmī) [maheshvari](māheśvarī) [and](caiva) [kaumari](kaumārī) [vaishnavi](vaiṣṇavī) [so](tathā)
+[brāhmī](brāhmī) [māheśvarī](māheśvarī) [and](ca)+[indeed](eva) [kaumārī](kaumārī) [vaiṣṇavī](vaiṣṇavī) [likewise](tathā)
 
 ## mukta-m0-p110-v2743
-[place](sthānaṃ) [abandoning](tyaktvā) [but](tu) [all-that](tatsarvaṃ) [where-staying](yatrasthaṃ) [there](tatra) [go](gacchatu)
+[place](sthānaṃ) [having-abandoned](tyaktvā) [indeed](tu) [that](tat)+[all](sarvaṃ) [where](yatra)+[situated](sthaṃ) [there](tatra) [let-it-go](gacchatu)
 
 ## mukta-m0-p110-v2744
-[of-all](sarveṣām) [without-opposition](avirodhena) [brahma-rite](brahmakarma) [begin](samārabhe)
+[of-all](sarveṣām)+[without-opposition](avirodhena) [brahma](brahma)+[ritual](karma) [I-begin](samārabhe)
 
 ## mukta-m0-p110-v2745
-[atri-gotra](atrigotrastu) [brahmin-lord](viprendra) [peace-recitation](śāntipāṭhaṃ) [in-sacrifice](makhe) [do](kuru)
+[of-atri-lineage](atri)+[gotra](gotraḥ)+[indeed](tu) [best-of-brahmins](viprendra) [peace](śānti)+[recitation](pāṭhaṃ) [in-sacrifice](makhe) [perform](kuru)
 
 ## mukta-m0-p110-v2746
-[being-fanned](saṃvījyamāno) [of-apsarasas](apsarasāṃ) [by-group](gaṇena) [protect-sacrifice](rakṣādhvaraṃ) [us](no) [lord](bhagavan) [salutation](namaste)
+[being-fanned](saṃvījyamānaḥ)+[by-apsaras](apsarasāṃ) [by-multitude](gaṇena) [protect](rakṣa)+[sacrifice](adhvaraṃ) [of-us](no) [lord](bhagavan) [salutation](namas)+[to-you](te)
 
 ## mukta-m0-p110-v2747
-[hundred-sacrifices-lord](śatayajñādhipo) [god](devaḥ) [to-him](tasmai) [always](nityaṃ) [salutation-salutation](namonamaḥ)
+[hundred](śata)+[sacrifice](yajña)+[lord](adhipo) [god](devas)+[therefore](tasmai) [always](nityaṃ) [salutation](namas)+[salutation](namaḥ)
 
 ## mukta-m0-p110-v2748
-[with-radiant](tejovatā) [world-group](lokagaṇena) [together](sārdhaṃ) [my-sacrifice](mamādhvaraṃ) [protect](pāhi) [poet](kave) [salutation](namaste)
+[with-radiant](tejovatā) [world](loka)+[multitude](gaṇena) [together-with](sārdhaṃ) [my](mama)+[sacrifice](adhvaraṃ) [protect](pāhi) [sage](kave) [salutation](namas)+[to-you](te)
 
 ## mukta-m0-p110-v2749
-[smoke-banner](dhūmraketur) [dust-overseer](ajo'dhyakṣaḥ) [to-him](tasmai) [always](nityaṃ) [salutation-salutation](namonamaḥ)
+[smoke](dhūmra)+[banner](ketur)+[unborn](ajaḥ)+[overseer](adhyakṣas)+[therefore](tasmai) [always](nityaṃ) [salutation](namas)+[salutation](namaḥ)
 
 ## mukta-m0-p110-v2750
-[kashyapa-descendant](kāśyapeyaḥ) [but](tu) [brahmin-lord](viprendra) [peace-recitation](śāntipāṭhaṃ) [in-sacrifice](makhe) [do](kuru)
+[of-kāśyapa-lineage](kāśyapeyaḥ)+[indeed](tu) [best-of-brahmins](viprendra) [peace](śānti)+[recitation](pāṭhaṃ) [in-sacrifice](makhe) [perform](kuru)

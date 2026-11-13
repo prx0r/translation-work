@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p128-v3176
-third (tṛtīyaṃ) ear-chin (śrotra-cibuke) fourth (caturthaṃ) nose-palates (ghrāṇa-tāluṣu)
+[third](tṛtīyaṃ) [ear+chin](śrotra+cibuke) [fourth](caturthaṃ) [nose+palates](ghrāṇa+tāluṣu)
 
 ## mukta-m0-p128-v3177
-root-middle-tip (mūla-madhya-agra) place (nyasyet) ninefold (navadhā) root-letters (mūla-varṇakaiḥ)
+[root+middle+tip](mūla+madhya+agrato) [should-place](nyasyet) [in-nine-ways](navadhā) [with-root-syllables](mūla+varṇakaiḥ)
 
 ## mukta-m0-p128-v3178
-red-garment-ornament-garland-anointed (lohitāṃśuka-bhūṣā-srag-lepanāṃ) six-faced-lotus (ṣaṇmukha-ambujām)
+[red-garment+ornament+garland+unguent](lohitā+aṃśuka+bhūṣā+srag+lepanāṃ) [six-faced+lotus](ṣaṇ+mukha+ambujām)
 
 ## mukta-m0-p128-v3179
-priceless-gem-set-ruby-crown-radiant (anarghya-ratna-ghaṭita-māṇikya-mukuṭa-ujjvalām)
+[with-priceless-gem-studded+ruby-crown+shining](anarghya+ratna+ghaṭita+māṇikya+mukuṭa+ujjvalām)
 
 ## mukta-m0-p128-v3180
-gem-cluster-pierced-shining-chest (ratna-stabaka-saṃbhinna-lasat-vakṣaḥ-sthalāṃ) auspicious (śubhām)
+[with-jewel-cluster-adorned+shining-breast](ratna+stabaka+saṃbhinna+lasat+vakṣaḥsthalāṃ) [auspicious](śubhām)
 
 ## mukta-m0-p128-v3181
-arms-twelve-endowed (bhujaiḥ-dvādaśabhiḥ-yuktāṃ) all-lady (sarveśīṃ) all-speech-embodied (sarva-vāṅmayīm)
+[with-arms+twelve](bhujaiḥ+dvādaśabhiḥ) [endowed](yuktāṃ) [sovereign-of-all](sarva+īśīṃ) [consisting-of-all-speech](sarva+vāṅmayīm)
 
 ## mukta-m0-p128-v3182
-gem-filled (ratna-pūrṇaṃ) cup (caṣakaṃ) citron (luṅgīṃ) explanation-seal (vyākhyāna-mudrikām)
+[jewel-filled](ratna+pūrṇaṃ) [indeed](tu) [cup](caṣakaṃ) [roll](luṅgīṃ) [exposition-gesture](vyākhyāna+mudrikām)
 
 ## mukta-m0-p128-v3183
-golden (haimīṃ) pen (lekhanīṃ) gem-garland (ratna-mālāṃ) conch (kambu) excellent (varaṃ) arms (bhujaiḥ)
+[golden](haimīṃ) [and](ca) [stylus](lekhanīṃ) [jewel-garland](ratna+mālāṃ) [conch](kambu) [excellent](varaṃ) [with-arms](bhujaiḥ)
 
 ## mukta-m0-p128-v3184
-yaksha-rakshasa-deva-rishi-siddha-vidyadhara-etc (yakṣa-rākṣasa-deva-ṛṣi-siddha-vidyādhara-ādibhiḥ)
+[by-yakṣas+rākṣasas+gods+sages+siddhas+vidyādharas+and-others](yakṣa+rākṣasa+deva+ṛṣi+siddha+vidyādhara+ādibhiḥ)
 
 ## mukta-m0-p128-v3185
-white (sitāṃ) speech-siddhi (kevala-vāk-siddhyai) Lakshmi (lakṣmyai) gold-radiance (hema-prabhām) also (api)
+[white](sitāṃ) [for-speech-power-alone](kevala+vāk+siddhyai) [for-Lakṣmī](lakṣmyai) [golden-lustered](hema+prabhām) [also](api)
 
 ## mukta-m0-p128-v3186
-blue (nīlāṃ) also (ca) muting (mūkīkaraṇe) remember (smaret) that-that (tad-tad) according (apekṣayā)
+[blue](nīlāṃ) [and](ca) [in-silencing](mūkī+karaṇe) [one-should-meditate](smaret) [according-to-those-purposes](tat+tat+apekṣayā)
 
 ## mukta-m0-p128-v3187
-many-formed (bahu-rūpā) variegated-formed (citra-rūpā) charming (ramyā) joy-delight (ānanda-kautuke)
+[many-formed](bahu+rūpā) [variegated-formed](citra+rūpā) [delightful](ramyā) [also](api) [in-bliss+play](ānanda+kautuke)
 
 ## mukta-m0-p128-v3188
-outer-eight-petaled-lotus (bahir-aṣṭa-cchada-ambhoje) Brahmi-etc (brāhmyādyāḥ) those (tāḥ) worship (samarcayet)
+[outside](bahis) [on-eight-petaled-lotus](aṣṭa+cchada+ambhoje) [Brāhmī-and-others](brāhmyā+ādyāḥ) [them](tāḥ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p128-v3189
-Indra-Agni-Yama-Rakshas-Varuna-Vayu-Soma (indrāgni-yama-rakṣa-varuṇa-anila-somakān)
+[Indra+Agni+Yama+Rākṣasa](indra+agni+yama+rakṣaḥ) [lord-of-waters+wind+moon](varuṇa+anila+soma+kān)
 
 ## mukta-m0-p128-v3190
-power-end (śaktyāntaiḥ) names (nāmabhiḥ) as-before (prāgvat) worship (pūjayet) all-siddhi (sarva-siddhaye)
+[ending-with-śakti](śaktyā+antaiḥ) [with-names](nāmabhiḥ) [as-before](prāk+vat) [one-should-worship](pūjayet) [for-all-accomplishments](sarva+siddhaye)
 
 ## mukta-m0-p128-v3191
-that-middle (tan-madhye) round-pair-placed (vṛtta-yugma-sthaṃ) make (kuryāt) eight-petaled-lotus (aṣṭa-cchada-ambujam)
+[in-its-middle](tat+madhye) [situated-in-two-circles](vṛtta+yugma+sthaṃ) [one-should-make](kuryāt) [eight-petaled-lotus](aṣṭa+cchada+ambujam)
 
 ## mukta-m0-p128-v3192
-having-made (kṛtvā) here (atra) her (tāṃ) invoke (samāvāhya) as-before (prāgvat) properly (samyak) then-worship (atha-arcayet)
+[having-made](kṛtvā) [here](atra) [her](tāṃ) [having-invoked](samāvāhya) [as-before](prāk+vat) [properly](samyak) [then](atha) [one-should-worship](arcayet)
 
 ## mukta-m0-p128-v3193
-likewise (tathaiva) world-guardian-end-powers (lokapāla-anta-śaktī) two-gates (dvāra-dvaye) worship (arcayet)
+[likewise](tathaiva) [ending-with-world-guardians](loka+pāla+anta) [śaktis](śaktīḥ) [at-the-two-doors](dvāra+dvaye) [one-should-worship](arcayet)
 
 ## mukta-m0-p128-v3194
-seven-syllabled (sapta-akṣaryā) offering (baliṃ) give (dadyāt) worship-end (pūjā-ante) Kurukulla (kurukullayā)
+[with-seven-syllabled-mantra](sapta+akṣaryā) [offering](baliṃ) [one-should-give](dadyāt) [at-end-of-worship](pūjā+ante) [with-Kurukullā](kurukullayā)
 
 ## mukta-m0-p128-v3195
-eternal-non-eternal (nitya-anityāṃ) hear (śṛṇu) wise (prājñe) that-dependent (tad-āyattam) this (idaṃ) world (jagat)
+[Nityānityā](nityā+nityāṃ) [hear](śṛṇu) [O-wise-one](prājñe) [on-her-dependent](tat+āyattam) [this](idam) [world](jagat)
 
 ## mukta-m0-p128-v3196
-she (yā-asau) all-beings (samasta-bhūtānāṃ) body-stay-arranger (deha-sthiti-vidhāyinī)
+[who](yā) [indeed](asau) [of-all-beings](samasta+bhūtānāṃ) [in-body+abiding+causing](deha+sthiti+vidhāyinī)
 
 ## mukta-m0-p128-v3197
-by-vidya (vidyayā) Kulasundari (kula-sundaryā) joined (yojitaḥ) tradition (sampradāyataḥ)
+[with-vidyā](vidyayā) [of-Kulasundarī](kula+sundaryā) [joined](yojitaḥ) [according-to-tradition](sampradāyataḥ)
 
 ## mukta-m0-p128-v3198
-brow-middle (bhrū-madhye) throat-heart-navel-secret (kaṇṭha-hṛt-nābhi-guhya) seats (ādhāreṣu) and (ca) in-order (kramāt)
+[at-brow-center+throat+heart+navel+secret-place+base](bhrū+madhye+kaṇṭha+hṛt+nābhi+guhya+ādhāreṣu) [and](ca) [in-sequence](kramāt)
 
 ## mukta-m0-p128-v3199
-pervading (vyāpakaṃ) indeed (tu) all (samastena) having-arranged (vidhāya) rule (vidhinā) joined (yutam)
+[pervading](vyāpakaṃ) [indeed](tu) [with-the-whole](samastena) [having-established](vidhāya) [with-method](vidhinā) [endowed](yutam)
 
 ## mukta-m0-p128-v3200
-rising-sun-disk-like (udyat-bhāskara-bimba-ābhāṃ) ruby-crown-radiant (māṇikya-mukuṭa-ujjvalām)
+[rising-sun-orb+resembling](udyat+bhāskara+bimba+ābhāṃ) [with-ruby-crown+shining](māṇikya+mukuṭa+ujjvalām)

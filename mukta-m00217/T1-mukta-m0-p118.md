@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[in-those](teṣveva) [of-them](teṣām) [worship](arcā) [they-do-that-grace](kuryustadanugraham)
+[in-them](teṣu) [indeed](eva) [of-them](teṣām) [by-worship](arcāt) [you](te) [should-do](kuryuḥ) [that+grace](tat+anugraham)
 
 ## mukta-m0-p118-v2927
-[own-elevation](svoccayoḥ) [positions](sthitayoḥ) [worship](pūjāṃ) [maṇḍala](maṇḍalaṃ) [hear](śṛṇu) [o-pārvatī](pārvati)
+[in-own+exaltation](sva+uccayoḥ) [in-two-positions](sthitayoḥ) [worship](pūjāṃ) [maṇḍala](maṇḍalaṃ) [hear](śṛṇu) [O-Pārvatī](pārvati)
 
 ## mukta-m0-p118-v2928
-[by-lines](rekhābhiḥ) [nine](navabhiḥ) [in-middle](madhye) [tv](tvekāśītipadaṃ) [eighty-one-square](ekāśītipadaṃ) [draw](likhet)
+[with-lines](rekhābhiḥ) [by-nine](navabhiḥ) [in-middle](madhye) [indeed](tu) [eighty-one+pada](ekāśīti+padaṃ) [one-should-draw](likhet)
 
 ## mukta-m0-p118-v2929
-[māyā-eighty](māyantāśītisaṃkhyātān) [in-middle](madhye) [fire-entered](dāvagataṃ) [and-then](ca tata)
+[ending-with-mā](mā+antān) [eighty+numbered](aśīti+saṃkhyātān) [in-middle](madhye) [gone-to-dā](dā+avagataṃ) [and](ca) [then](tata)
 
 ## mukta-m0-p118-v2930
-[by-five](pañcabhiḥ) [also-draw](cālikhet) [there](tatra) [image](bimbe) [soma](somaṃ) [worship](samarcayet)
+[with-five](pañcabhiḥ) [and](ca) [one-should-draw](ālikhet) [there](tatra) [in-disk](bimbe) [moon](somaṃ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p118-v2931
-[red-sandal-sindūra-gairika](raktacandanasindūragairikeṣu) [one-side](ekato) [of-sun](raveḥ)
+[in-red+sandal](rakta+candana) [vermilion](sindūra) [and-ochre](gairikeṣu) [in-one](ekataḥ) [of-sun](raveḥ)
 
 ## mukta-m0-p118-v2932
-[two-circles](dvivṛttāntaḥ) [horizontal-vertical](tiryagūrdhvaṃ) [having-made](kṛtvā) [lines](rekhāḥ) [equal](samāntarāḥ)
+[two+circle+ended](dvi+vṛtta+antaḥ) [horizontally+vertically](tiryak+ūrdhvaṃ) [having-made](kṛtvā) [lines](rekhāḥ) [equidistant](samāntarāḥ)
 
 ## mukta-m0-p118-v2933
-[prāṇa-etc](prāṇādikān) [to-namaḥ](namontāṃstu) [own-joined](svairupetān) [with-vowels](svarairyutān)
+[beginning-with-prāṇa](prāṇa+ādikān) [ending-with-na+ma](na+ma+antān) [indeed](tu) [with-own-vowels](svaiḥ) [endowed](upetān) [with-vowels](svaraiḥ) [joined](yutān)
 
 ## mukta-m0-p118-v2934
-[with-vowels-shining](svarairbhāntayutair) [fire-ten-syllables](vahnidaśārṇair) [bound](grathitāṃ) [script](lipim)
+[with-vowels](svaraiḥ) [joined-with-bhānta](bhānta+yutaiḥ) [with-fire+ten+syllables](vahni+daśa+arṇaiḥ) [strung](grathitāṃ) [script](lipim)
 
 ## mukta-m0-p118-v2935
-[that-middle](tanmadhye) [sun](bhānum) [having-invoked](āvāhya) [worship](pūjayet) [as-before](prāgvad) [o-īśvarī](īśvari)
+[in-its+middle](tat+madhye) [sun](bhānum) [having-invoked](āvāhya) [one-should-worship](pūjayet) [as-before](prāk+vat) [O-Īśvarī](īśvari)
 
 ## mukta-m0-p118-v2936
-[well-even](susame) [uncovered](anāvṛte) [having-made](kṛtvā) [image-joined](bimbāyuktāni) [worship](pūjayet)
+[in-very-even](su+same) [in-uncovered-place](anāvṛte) [having-made](kṛtvā) [with-disks+joined](bimbā+yuktāni) [one-should-worship](pūjayet)
 
 ## mukta-m0-p118-v2937
-[especially](viśeṣāt) [without-instruction](deśarahite) [there](tatra) [that-order](tatkramato) [worship](arcayet)
+[special+instruction+devoid](viśeṣa+ādeśa+rahite) [there](tatra) [in-that+order](tat+kramataḥ) [one-should-worship](arcayet)
 
 ## mukta-m0-p118-v2938
-[sun](ravau) [sūrya-śiva](sūryaśivau) [goddess](devi) [moon](candre) [soma-ambikā](somāmbike) [then](tataḥ)
+[in-sun](ravau) [Sūrya+and-Śiva](sūrya+śivau) [O-Devī](devi) [in-moon](candre) [Soma+and-Ambikā](soma+ambike) [then](tataḥ)
 
 ## mukta-m0-p118-v2939
-[others](pare) [guru-four-faced](gurucaturvaktrau) [venus](bhṛgau) [śukra-purandara](śukrapurandarau)
+[in-Pare](pare) [Guru+and-Caturvaktra](guru+caturvaktrau) [in-Bhṛgu](bhṛgau) [Śukra+and-Purandara](śukra+purandarau)
 
 ## mukta-m0-p118-v2940
-[indra](indraśca) [vasus](vasavo) [nāgas](nāgā) [dharma](dharmaḥ) [śiva-sun](śivadivākarau)
+[Indra](indraḥ) [and](ca) [Vasus](vasavaḥ) [Nāgas](nāgāḥ) [Dharma](dharmaḥ) [Śiva+and-Divākara](śiva+divākarau)
 
 ## mukta-m0-p118-v2941
-[new-moon](darśe) [tu](tu) [pitṛs](pitaro) [goddess](devi) [worship](pūjyāḥ) [all-services](sarvopacārakaiḥ)
+[on-new-moon](darśe) [indeed](tu) [ancestors](pitaraḥ) [O-Devī](devi) [to-be-worshipped](pūjyāḥ) [with-all+offerings](sarva+upacārakaiḥ)
 
 ## mukta-m0-p118-v2942
-[guru](guruḥ) [serpents](sarpāśca) [pitṛs](pitaro) [bhaga](bhago) [aryaman](aryama) [day-lord](dineśvarau)
+[Guru](guruḥ) [serpents](sarpāḥ) [and](ca) [ancestors](pitaraḥ) [Bhaga](bhagaḥ) [Aryaman+and-Dineśvara](aryama+dineśvarau)
 
 ## mukta-m0-p118-v2943
-[nirṛti](nir-ṛtiścaiva) [water](toyaṃ) [ca](ca) [viśvedevas](viśvedevāḥ) [prajāpati](prajāpatiḥ)
+[Nirṛti](nir-ṛtiḥ) [and](ca) [indeed](eva) [water](toyaṃ) [and](ca) [Viśvedevas](viśvedevāḥ) [Prajāpati](prajāpatiḥ)
 
 ## mukta-m0-p118-v2944
-[ahirbudhnya](ahirbudhnyaśca) [pūṣan](pūṣā) [ca](ca) [declared](proktā) [nakṣatra-deities](nakṣatradevatāḥ)
+[Ahirbudhnya](ahirbudhnyaḥ) [and](ca) [Pūṣan](pūṣā) [and](ca) [declared](proktāḥ) [nakṣatra+deities](nakṣatra+devatāḥ)
 
 ## mukta-m0-p118-v2945
-[praṇava-etc](praṇavādyaiś) [fourth-heart-end](caturthīhṛdantair) [names](nāmabhiḥ) [o-īśvarī](īśvari)
+[beginning-with-praṇava](praṇava+ādyaiḥ) [with-dative+hṛd+ending](caturthī+hṛd+antaiḥ) [with-names](nāmabhiḥ) [O-Īśvarī](īśvari)
 
 ## mukta-m0-p118-v2946
-[twice-spoken](dviruktaiḥ) [those](taiḥ) [six-limbs](ṣaḍaṅgāni) [do](kuryāt) [syllables](arṇaiḥ) [hands-limbs](karāṅgayoḥ)
+[with-twice+uttered](dviḥ+uktaiḥ) [with-those](taiḥ) [six+limbs](ṣaṭ+aṅgāni) [one-should-make](kuryāt) [with-syllables](arṇaiḥ) [on-hands+limbs](kara+aṅgayoḥ)
 
 ## mukta-m0-p118-v2947
-[red](raktā) [red-garmented](raktāmbarā) [red-ornamented](raktabhūṣaṇa) [garland-anointed](sragvilepanāḥ)
+[red](raktāḥ) [red+garmented](rakta+ambarāḥ) [red+ornament+garland+unguent](rakta+bhūṣaṇa+srag+vilepanāḥ)
 
 ## mukta-m0-p118-v2948
-[those-five-covers](tadāvṛtīnāṃ pañcānāṃ) [powers](śaktīḥ) [similar](statsadṛśīḥ) [remember](smaret)
+[of-their+enclosures](tat+āvṛtīnāṃ) [of-five](pañcānāṃ) [śaktis](śaktīḥ) [like-them](tat+sadṛśīḥ) [one-should-meditate](smaret)
 
 ## mukta-m0-p118-v2949
-[eight-petaled-lotus](aṣṭapatrāmbujaṃ) [middle](madhye) [nine-yoni](navayonau) [ca](ca) [her](tāṃ) [sacrifice](yajet)
+[eight+petal+lotus](aṣṭa+patra+ambujaṃ) [in-middle](madhye) [in-nine+triangles](nava+yonau) [and](ca) [her](tāṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p118-v2950
-[behind](pṛṣṭhato) [guru-row](gurupaṃktiṃ) [ca](ca) [corners](koṇeṣu) [eight](aṣṭasu) [ca](ca) [in-order](kramāt)
+[behind](pṛṣṭhataḥ) [guru+lineage](guru+paṃktiṃ) [and](ca) [in-corners](koṇeṣu) [in-eight](aṣṭasu) [and](ca) [in-order](kramāt)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p127-v3151
-[dvitīya-upāntya-madhya-sthaiḥ](dvitīyopāntyamadhyasthair) [mantra-arṇaiḥ](mantrārṇair) [itaraiḥ](itarair) [api](api)
+[second+penultimate+middle-situated](dvitīya+upāntya+madhyasthaiḥ) [mantra+syllables](mantra+arṇaiḥ) [by-other](itaraiḥ) [also](api)
 
 ## mukta-m0-p127-v3152
-[śyāma-varṇām](śyāmavarṇāṃ) [śubha-ākārām](śubhākārāṃ) [nava-yauvana-śobhinīm](navayauvanaśobhinīm)
+[dark+colored](śyāma+varṇāṃ) [auspicious+form](śubhā+kārāṃ) [new+youth](nava+yauvana) [shining](śobhinīm)
 
 ## mukta-m0-p127-v3153
-[tāṭaṅka-maṅgadam](tāṭaṅkamaṅgadaṃ) [tadvat](tadvad) [raśanā-anūpura-anvitaiḥ](raśanānūpurānvitaiḥ)
+[ear-ornament+bracelet](tāṭaṅka+maṅgadaṃ) [likewise](tadvat) [teeth+anklets](raśanā+nūpurān) [endowed-with](vitaiḥ)
 
 ## mukta-m0-p127-v3154
-[pallava-aṃśuka-saṃvītām](pallavāṃśukasaṃvītāṃ) [śikhi-puccha-kṛtaiḥ](śikhipucchakṛtaiḥ) [śubhaiḥ](śubhaiḥ)
+[sprout+garment](pallava+aṃśuka) [clad](saṃvītāṃ) [peacock+feather](śikhi+puccha) [made-of](kṛtaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p127-v3155
-[barhi-barha-kṛta-āpīḍām](barhibarhakṛtāpīḍāṃ) [tat-chatrām](tacchatrāṃ) [tat-patākinīm](tatpatākinīm)
+[peacock+feather](barhi+barha) [made+crest](kṛta+āpīḍāṃ) [that+parasol](tat+chatrāṃ) [that+banner](tat+patākinīm)
 
 ## mukta-m0-p127-v3156
-[tri-netrām](trinetrāṃ) [cāru-vadanām](cāruvadanāṃ) [manda-smita-mukha-ambujām](mandasmitamukhāmbujām)
+[three-eyed](tri+netrāṃ) [beautiful+faced](cāru+vadanāṃ) [gentle+smile](manda+smita) [face+lotus](mukha+ambujām)
 
 ## mukta-m0-p127-v3157
-[dhyātvā-evam](dhyātvaivaṃ) [totulām](totulāṃ) [devīm](devīṃ) [pūjayet](pūjayec) [śaktibhiḥ](śaktibhir) [vṛtām](vṛtām)
+[having-meditated](dhyātvā) [thus](evaṃ) [Totulā](totulāṃ) [goddess](devīṃ) [one-should-worship](pūjayet) [by-powers](śaktibhiḥ) [surrounded](vṛtām)
 
 ## mukta-m0-p127-v3158
-[prasāde](prasāde) [phala-dāne](phaladāne) [ca](ca) [sādhakānām](sādhakānāṃ) [tvarā-anvitām](tvarānvitām)
+[in-grace](prasāde) [in-fruit+giving](phala+dāne) [of-practitioners](sādhakānāṃ) [with-speed](tvarā) [endowed](anvitām)
 
 ## mukta-m0-p127-v3159
-[kṛṣṇa-varṇaḥ](kṛṣṇavarṇo) [gadā-pāṇiḥ](gadāpāṇir) [varvara-ūrdhva-śiroruhaḥ](varvarordhvaśiroruhaḥ)
+[black+colored](kṛṣṇa+varṇo) [mace+handed](gadā+pāṇiḥ) [curly](varvaraḥ) [upward+head+hair](ūrdhva+śiraḥ+ruhaḥ)
 
 ## mukta-m0-p127-v3160
-[tat-dvāra-pārśvayoḥ](taddvārapārśvayoḥ) [pūjye](pūjye) [jayā-vijayā-saṃjñike](jayāvijayasaṃjñike)
+[his+door+sides](tat+dvāra+pārśvayoḥ) [to-be-worshipped](pūjye) [Jayā+Vijayā](jayā+vijaya) [named](saṃjñike)
 
 ## mukta-m0-p127-v3161
-[huṃkārī](huṃkārī) [khecarī](khecarī) [caṇḍā](caṇḍā) [chedinī](chedinī) [kṣepiṇī](kṣepiṇī) [tataḥ](tataḥ)
+[Huṃkārī](huṃkārī) [Khecarī](khecarī) [Caṇḍā](caṇḍā) [Chedinī](chedinī) [Kṣepiṇī](kṣepiṇī) [then](tataḥ)
 
 ## mukta-m0-p127-v3162
-[pūjyāḥ](pūjyāḥ) [padma-aṣṭa-patreṣu](padmāṣṭapatreṣu) [sthitāḥ](sthitā) [mantra-arṇa-śaktayaḥ](mantrārṇaśaktayaḥ)
+[to-be-worshipped](pūjyāḥ) [lotus+eight+petals](padma+aṣṭa+patreṣu) [situated](sthitā) [mantra+syllable+powers](mantra+arṇa+śaktayaḥ)
 
 ## mukta-m0-p127-v3163
-[śṛṇu](śṛṇu) [pūjā-vidhim](pūjāvidhiṃ) [tasyāḥ](tasyāḥ) [tvaritāyāḥ](tvaritāyā) [maheśvari](maheśvari)
+[hear](śṛṇu) [worship+method](pūjā+vidhiṃ) [of-her](tasyāḥ) [of-Tvaritā](tvaritāyāḥ) [O-great-goddess](mahā+īśvari)
 
 ## mukta-m0-p127-v3164
-[āsane](āsane) [hema-racite](hemaracite) [vidadhyāt](vidadhyāt) [bhūpura-dvayam](bhūpuradvayam)
+[on-seat](āsane) [gold+made](hema+racite) [one-should-make](vidadhyāt) [earth+enclosure](bhū+pura) [pair](dvayam)
 
 ## mukta-m0-p127-v3165
-[tat-antara-aṣṭa-patra-abjam](tadantaraṣṭapatrābjaṃ) [vidhāya](vidhāyātra) [atra](atra) [parām](parāṃ) [śivām](śivām)
+[that+inside](tat+antara) [eight+petal+lotus](aṣṭa+patra+abjaṃ) [having-made](vidhāya) [here](atra) [supreme](parāṃ) [auspicious-goddess](śivām)
 
 ## mukta-m0-p127-v3166
-[mudrā-darśana-pūrvam](mudrādarśanapūrvaṃ) [tu](tu) [pūjayet](pūjayettāṃ) [tām](tām) [yathā-uditām](yathoditām)
+[mudrā+showing](mudrā+darśana) [preceded-by](pūrvaṃ) [indeed](tu) [one-should-worship](pūjayet) [her](tāṃ) [as-taught](yathā+uditām)
 
 ## mukta-m0-p127-v3167
-[kiṅkarasya](kiṅkarasya) [balim](baliṃ) [dadyāt](dadyād) [devy-agre](devyagre) [prāg-udīritaiḥ](prāgudīritaiḥ)
+[of-Kiṅkara](kiṅkarasya) [offering](baliṃ) [one-should-give](dadyāt) [goddess+in-front](devī+agre) [previously+declared](prāk+udīritaiḥ)
 
 ## mukta-m0-p127-v3168
-[evam](evaṃ) [pūjām](pūjāṃ) [vidhāya](vidhāyāgre) [agre](agre) [japed](japed) [vidyām](vidyāṃ) [sahasrakam](sahasrakam)
+[thus](evaṃ) [worship](pūjāṃ) [having-performed](vidhāya) [in-front](agre) [one-should-recite](japet) [mantra](vidyāṃ) [thousand](sahasrakam)
 
 ## mukta-m0-p127-v3169
-[vidyā-uktā](vidyoktā) [kula-sundaryāḥ](kulasundaryāstasyāḥ) [tasyāḥ](tasyāḥ) [pūjā-vidhim](pūjāvidhiṃ) [śṛṇu](śṛṇu)
+[mantra+declared](vidyā+uktā) [of-Kulasundarī](kula+sundaryāḥ) [of-her](tasyāḥ) [worship+method](pūjā+vidhiṃ) [hear](śṛṇu)
 
 ## mukta-m0-p127-v3170
-[prāṇaḥ](prāṇo) [dvitīyaḥ](dvitīyaḥ) [svayutaḥ](svayuto) [vana-hṛc-chaktibhiḥ](vanahṛcchaktibhiḥ) [paraḥ](paraḥ)
+[breath](prāṇo) [second](dvitīyaḥ) [self+joined](sva+yuto) [vana+hṛt+śakti](vana+hṛt+śaktibhiḥ) [supreme](paraḥ)
 
 ## mukta-m0-p127-v3171
-[chandaḥ](chandaḥ) [paṃktiḥ](paṃktistu) [tu](tu) [vijñeyam](vijñeyaṃ) [mukhe](mukhe) [vinyasya](vinyasya) [devatām](devatām)
+[metre](chandaḥ) [paṅkti](paṃktiḥ) [indeed](tu) [to-be-known](vijñeyaṃ) [in-mouth](mukhe) [having-placed](vinyasya) [deity](devatām)
 
 ## mukta-m0-p127-v3172
-[vāgbhavam](vāgbhavaṃ) [bījam](bījam) [iti](ityuktaṃ) [uktam](uktam) [śaktiḥ](śaktistārtīyamīritam) [tārtīyam](tārtīyam) [īritam](īritam)
+[vāgbhava](vāgbhavaṃ) [seed](bījam) [thus](iti) [declared](uktam) [power](śaktiḥ) [tārtīya](tārtīyam) [stated](īritam)
 
 ## mukta-m0-p127-v3173
-[ādya-madhya-avasāneṣu](ādyamadhyāvasāneṣu) [pūjā-japa-vidhau](pūjājapavidhau) [kramāt](kramāt)
+[beginning+middle+end](ādya+madhya+avasāneṣu) [worship+recitation+rite](pūjā+japa+vidhau) [in-order](kramāt)
 
 ## mukta-m0-p127-v3174
-[kuryāt](kuryāt) [kara-aṅga-vaktrāṇām](karāṅgavaktrāṇāṃ) [nyāsam](nyāsaṃ) [proktam](proktaṃ) [yathā-vidhi](yathāvidhi)
+[one-should-do](kuryāt) [hand+limb+face](kara+aṅga+vaktrāṇāṃ) [placement](nyāsaṃ) [declared](proktaṃ) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p127-v3175
-[śuci-naty-antarasthaiḥ](śucinatyantarasthaistaistadātmasu) [taiḥ](taiḥ) [tad-ātmasu](tadātmasu) [yathā-kramam](yathākramam)
+[pure+bowing](śuci+nati) [within+standing](antara+sthaiḥ) [by-those](taiḥ) [in-their-own-selves](tat+ātmasu) [in-order](yathā+kramam)

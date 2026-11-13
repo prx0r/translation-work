@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p124-v3076
-[with-anklets](rasānānūpura) [and-waves-etc](ūrmyādi) [ornaments](bhūṣaṇaiḥ) [extremely-beautiful](atisundarīm)
+[with-juice](rasān) [anklet](ānūpura) [wave](ūrmi) [etc.](ādi) [with-ornaments](bhūṣaṇaiḥ) [very-beautiful](atisundarīm)
 
 ## mukta-m0-p124-v3077
-[hands](karaiḥ) [holding](dadhānām) [seated](āsīnām) [in-worship](pūjāyām) [at-another-time](anyadā) [established](sthitām)
+[with-hands](karaiḥ) [holding](dadhānām) [seated](āsīnām) [in-worship](pūjāyām) [at-another-time](anyadā) [situated](āsthitām)
 
 ## mukta-m0-p124-v3078
-[should-worship](pūjayet) [similarly](tadvat) [around](abhitaḥ) [smiling-gentle-faced](smitasaumyamukhām) [always](sadā)
+[one-should-worship](pūjayet) [in-that-manner](tadvat) [on-all-sides](abhitaḥ) [with-smiling](smita) [gentle](saumya) [faced](mukhāṃ) [always](sadā)
 
 ## mukta-m0-p124-v3079
-[offering](balim) [in-middle-and-end](mādyantayoḥ) [should-give](dadyāt) [with-previously-described-rite](pūrvoktavidhinā) [joined](yutam)
+[offering](baliḥ) [at-beginning-and-end](mādyantayoḥ) [one-should-give](dadyāt) [with-previously-stated](pūrvokta) [method](vidhinā) [joined](yutam)
 
 ## mukta-m0-p124-v3080
-[that](sā) [vidyā](vidyā) [of-fire-dwelling](vahnivāsinyāḥ) [declared](kathitā) [nine-syllabled](navākṣarī)
+[that](sā) [mantra](vidyā) [of-Vahnivāsinī](vahnivāsinyāḥ) [declared](kathitā) [became](abhūt) [nine-syllabled](navākṣarī)
 
 ## mukta-m0-p124-v3081
-[then](tataḥ) [water](ambu) [void](śūnyaṃ) [haṃsa-fire-joined](haṃsāgniyutam) [water](ambu) [wind-shining](marudyutam)
+[then](tataḥ) [water](ambu) [void](śūnyaṃ) [swan](haṃsa) [fire](agni) [joined-with](yuta) [water](ambu) [wind](marut) [joined-with](yutam)
 
 ## mukta-m0-p124-v3082
-[void](śūnyaṃ) [salutation](namaḥ) [with-śakti](śaktiyutaṃ) [nine-syllabled](navārṇeyam) [declared](udīritā)
+[void](śūnyaṃ) [obeisance](namaḥ) [power](śakti) [joined-with](yutaṃ) [nine-syllabled](navārṇā) [this](iyam) [is-declared](udīritā)
 
 ## mukta-m0-p124-v3083
-[beginning-end](ādyantaṃ) [bīja-śaktis](bījaśaktī) [should-be](syāt) [kīlaka](kīlakaṃ) [by-middle](madhyamena) [and](ca)
+[at-beginning-and-end](ādyantaṃ) [seed-and-power](bījaśaktī) [should-be](syāt) [peg](kīlakaṃ) [with-the-middle](madhyamena) [and](ca)
 
 ## mukta-m0-p124-v3084
-[with-six](ṣaḍbhiḥ) [limbs](aṅgāni) [should-perform](ācaret) [on-own-limbs](svakarāṅgayoḥ) [māyā-ending](māyāntān) [indeed](eva)
+[ending-with-māyā](māyāntān) [with-six](ṣaḍbhiḥ) [alone](eva) [limbs](aṅgāni) [one-should-perform](ācaret) [on-own-hands-and-body](svakarāṅgayoḥ)
 
 ## mukta-m0-p124-v3085
-[pervading](vyāpakaṃ) [but](tu) [with-all](samastena) [should-do](kuryāt) [for-goddess-self-siddhi](devyātmasiddhaye)
+[pervasion](vyāpakaṃ) [but](tu) [with-the-whole](samastena) [one-should-do](kuryāt) [for-goddess-and-self-accomplishment](devyātmasiddhaye)
 
 ## mukta-m0-p124-v3086
-[by-that](tena) [that-that-become](tattanmayaḥ) [practitioner](sādhakaḥ) [by-that](tena) [siddhis](siddhayaḥ)
+[by-that](tena) [identified-with-that](tattanmayaḥ) [may-become](būyāt) [practitioner](sādhakaḥ) [by-that](tena) [accomplishments](siddhayaḥ)
 
 ## mukta-m0-p124-v3087
-[of-mātṛkā](mātṛkāyāḥ) [six-limbs](ṣaḍaṅgaṃ) [ca](ca) [mātṛkā-nyāsa](mātṛkānyāsa) [indeed](eva) [ca](ca)
+[of-the-mātṛkā](mātṛkāyāḥ) [six-limbs](ṣaḍaṅgaṃ) [and](ca) [mātṛkā-installation](mātṛkānyāsam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p124-v3088
-[of-lalitā](lalitāyāḥ) [tu](tu) [by-groups](vargaiḥ) [that](tat) [declared](proktam) [by-eight](aṣṭābhiḥ) [indeed](eva) [ca](ca)
+[of-Lalitā](lalitāyāḥ) [but](tu) [with-those-groups](vargaiḥ) [that](tat) [declared](proktam) [with-eight](aṣṭābhiḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p124-v3089
-[gold-colored](taptakāñcanasaṃkāśām) [nine-youth-beautiful](navayauvanasundarīm)
+[molten](tapta) [gold](kāñcana) [resembling](saṃkāśāṃ) [with-fresh-youth](navayauvana) [beautiful](sundarīm)
 
 ## mukta-m0-p124-v3090
-[with-eight-arms](aṣṭābhirbāhubhiryuktām) [ruby-ornament-shining](māṇikyābharaṇojjvalām)
+[with-eight](aṣṭābhiḥ) [arms](bāhubhiḥ) [endowed](yuktāṃ) [with-ruby](māṇikya) [ornaments](ābharaṇa) [shining](ujjvalām)
 
 ## mukta-m0-p124-v3091
-[yellow-silk-garment](pītakauśeyavasanām) [red-girdle](raktamañjīramekhalām)
+[yellow](pīta) [silk](kauśeya) [garmented](vasanāṃ) [red](rakta) [anklet](mañjīra) [girdle](mekhalām)
 
 ## mukta-m0-p124-v3092
-[red-lotus-conch-puṇḍra-sugarcane-bow-full-moon](raktābjakambupuṇḍrekṣucāpapūrṇendumaṇḍalām)
+[red-lotus](raktābja) [conch](kambu) [goad](puṇḍra) [sugarcane](ikṣu) [bow](cāpa) [full-moon](pūrṇendu) [disk](maṇḍalām)
 
 ## mukta-m0-p124-v3093
-[in-flowers](puṣpeṣu) [citron](mātuliṅgaṃ) [ca](ca) [holding](dadhānām) [right-hands](dakṣiṇaiḥ) [karaiḥ](karaiḥ)
+[arrows](puṣpeṣu) [citron](mātuliṅgaṃ) [and](ca) [holding](dadhānām) [with-right](dakṣiṇaiḥ) [hands](karaiḥ)
 
 ## mukta-m0-p124-v3094
-[thus](evaṃ) [having-meditated](dhyātvā) [should-worship](arcayed) [fire-dwelling](vahnivāsinīm) [universe-bodied](viśvavigrahām)
+[thus](evaṃ) [having-meditated](dhyātvā) [one-should-worship](arcayet) [Vahnivāsinī](vahnivāsinīm) [universe](viśva) [embodied](vigrahām)
 
 ## mukta-m0-p124-v3095
-[golden](kanakā) [gambler](kitavā) [universe](viśvā) [various](vividhā) [ca](ceti) [śaktis](śaktayaḥ)
+[Kanakā](kanakā) [Kitavā](kitavā) [Viśvā](viśvā) [Vividhā](vividhā) [and](ca) [thus](iti) [powers](śaktayaḥ)
 
 ## mukta-m0-p124-v3096
-[in-petals](daleṣu) [twelve](dvādaśa) [white](svetā) [zodiac-śaktis](rāśiśaktīḥ) [should-worship](samarcayet)
+[on-the-petals](daleṣu) [twelve](dvādaśa) [white](śvetāḥ) [zodiac](rāśi) [powers](śaktīḥ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p124-v3097
-[ghasmara](ghasmarā) [all-devouring](sarvabhakṣā) [ca](ca) [universe](viśvā) [ca](ca) [various-born](vividhodbhavā)
+[Ghasmarā](ghasmarā) [all-devouring](sarvabhakṣā) [and](ca) [Viśvā](viśvā) [and](ca) [variously-arisen](vividhodbhavā)
 
 ## mukta-m0-p124-v3098
-[unthinkable-glory](acintyavaibhavā) [red](raktā) [tenth](daśamī) [declared](parikīrtitā)
+[of-inconceivable-majesty](acintyavaibhavā) [red](raktā) [tenth](daśamī) [is-declared](parikīrtitā)
 
 ## mukta-m0-p124-v3099
-[where](yatra) [not-stated](noktā) [deity](devatā) [tu](tu) [in-offering-rite](balikarmaṇi) [there](tatra) [her](tām)
+[where](yatra) [not](na) [stated](uktā) [deity](devatā) [but](tu) [in-offering-rite](balikarmaṇi) [there](tatra) [her](tām)
 
 ## mukta-m0-p124-v3100
-[in-circles](vṛttayoḥ) [nine-yoni](navayoniṃ) [tu](tu) [having-made](kṛtvā) [that](tat) [outside](bahir) [lotus](ambujam)
+[of-the-two-circles](vṛttayoḥ) [nine-triangle](navayoniṃ) [but](tu) [having-made](kṛtvā) [outside-that](tadbahis) [lotus](ambujam)
