@@ -1,14 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 228,
- "question": "How is the self described as standing surrounded by fire?",
+ "question": "How is the self surrounded by fire and standing on one foot?",
  "premises": [
-  "vahni nāveṣṭita ātmānam is stated",
+  "vahni nāveṣṭita is stated",
+  "ātmānam is named",
   "eka pādena saṃsthitam is stated"
  ],
- "inference": "The self stands on one foot while surrounded by fire.",
+ "inference": "The self is surrounded by fire and stands on one foot.",
  "uncertainties": [
-  "whether nāveṣṭita means surrounded or covered"
+  "compound boundaries not resolved"
  ],
  "plain_english": "The self, surrounded by fire, stands on one foot."
 }

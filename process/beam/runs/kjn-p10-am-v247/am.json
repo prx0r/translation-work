@@ -1,14 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 247,
- "question": "What happens to age and death through non-eating by day?",
+ "question": "What age and death will go by day through non-eating?",
  "premises": [
-  "divasāt nāśanena eva is stated",
+  "divasāt is stated",
+  "nāśanena is stated",
   "vayo mṛtyuṃ gamiṣyate is stated"
  ],
- "inference": "Through non-eating by day, age and death will go away.",
+ "inference": "Age and death will go by day through non-eating.",
  "uncertainties": [
-  "whether divasāt modifies nāśanena or gamiṣyate"
+  "compound boundaries not resolved"
  ],
- "plain_english": "Indeed, through non-eating by day, age and death will go away."
+ "plain_english": "By day, through non-eating, age and death will go."
 }

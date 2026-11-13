@@ -1,14 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 244,
- "question": "What destruction of wrinkles and grey hair is mentioned?",
+ "question": "What destruction of wrinkles and grey hair is seen from very far?",
  "premises": [
-  "balī palita nāśam tu is stated",
-  "sudūrāt darśanam tathā is stated"
+  "balī palita nāśam is named",
+  "sudūrāt darśanam is stated",
+  "tathā is stated"
  ],
- "inference": "The verse mentions destruction of wrinkles and grey hair, and seeing from very far.",
+ "inference": "Destruction of wrinkles and grey hair is seen from very far.",
  "uncertainties": [
-  "whether sudūrāt modifies darśanam or nāśam"
+  "compound boundaries not resolved"
  ],
- "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, are likewise mentioned."
+ "plain_english": "Destruction of wrinkles and grey hair is seen from very far."
 }
