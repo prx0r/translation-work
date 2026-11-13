@@ -3,24 +3,44 @@
  "verse": 1712,
  "rows": [
   {
-   "lemma": "payaḥ",
-   "morph": "n.acc.sg",
-   "grounds": "Object of drinking in the following compound context."
+   "lemma": "viṣṇu",
+   "morph": "compound: viṣṇu+first",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "pānā",
-   "morph": "f.nom.sg",
-   "grounds": "Epithet: she who drinks (milk)."
+   "lemma": "pāda",
+   "morph": "compound: pāda+second",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "payodātrī",
-   "morph": "compound=f.nom.sg",
-   "grounds": "Compound epithet: she who gives water or milk."
+   "lemma": "rajaḥ",
+   "morph": "compound: rajaḥ+third",
+   "grounds": "third member of compound"
   },
   {
-   "lemma": "pānīyaparikāṅkṣiṇī",
-   "morph": "compound=f.nom.sg",
-   "grounds": "Compound epithet: she who desires water."
+   "lemma": "sambhūte",
+   "morph": "f.voc.sg",
+   "grounds": "vocative describing origin"
+  },
+  {
+   "lemma": "gaṅge",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "tri",
+   "morph": "compound: tri+first",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "patha",
+   "morph": "compound: patha+second",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "gāmini",
+   "morph": "f.voc.sg",
+   "grounds": "vocative describing movement"
   }
  ]
 }
