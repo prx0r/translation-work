@@ -1,15 +1,16 @@
 {
  "song": "kjn-p10",
  "verse": 239,
- "question": "What transformation and immortality are stated in brief?",
+ "question": "What transformation is stated in brief?",
  "premises": [
-  "Immortality is mentioned",
-  "Transformation is mentioned",
-  "It is stated in brief to the goddess"
+  "immortality is named",
+  "goddess is addressed",
+  "brief statement is named",
+  "transformation is named"
  ],
- "inference": "Immortality and transformation are stated in brief, O goddess.",
+ "inference": "The verse states immortality and transformation in brief.",
  "uncertainties": [
-  "Whether parivartanam modifies amaratvam or stands alone"
+  "whether amaratvam and parivartanam are coordinated or explanatory is not explicit"
  ],
- "plain_english": "Immortality and transformation are stated in brief, O goddess."
+ "plain_english": "Immortality, likewise, O goddess, in brief, transformation."
 }

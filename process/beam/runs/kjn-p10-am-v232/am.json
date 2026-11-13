@@ -3,13 +3,14 @@
  "verse": 232,
  "question": "What is hard to obtain even when asked by gods?",
  "premises": [
-  "The speaker is asked",
-  "Gods find it hard to obtain",
-  "The great goddess is addressed"
+  "great goddess is addressed",
+  "the speaker is asked",
+  "gods are named",
+  "hard-to-obtain is named"
  ],
- "inference": "What is asked is hard to obtain even for gods.",
+ "inference": "The verse states that what is asked is hard to obtain even for gods.",
  "uncertainties": [
-  "Whether durlabham modifies the asked thing or the asking"
+  "the exact object asked is not explicit"
  ],
- "plain_english": "Well, well, O great goddess, I am asked what is hard to obtain even for gods."
+ "plain_english": "Well, well, O great goddess, I am asked about what is hard to obtain even for gods."
 }

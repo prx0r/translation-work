@@ -1,15 +1,16 @@
 {
  "song": "kjn-p10",
  "verse": 242,
- "question": "What does an angry one destroy?",
+ "question": "What does the angry one destroy?",
  "premises": [
-  "Anger is the condition",
-  "All triple world is destroyed",
-  "Moving and unmoving things are included"
+  "anger is named",
+  "destruction is named",
+  "all triple world is named",
+  "moving and unmoving are named"
  ],
- "inference": "When angry, one destroys all the triple world, moving and unmoving.",
+ "inference": "The verse says the angry one destroys all the triple world, moving and unmoving.",
  "uncertainties": [
-  "Whether sa cara acaram is a compound or list"
+  "whether sa cara acaram is a compound or separate qualifiers is not explicit"
  ],
- "plain_english": "When angry, one destroys all the triple world, moving and unmoving."
+ "plain_english": "When angry, he destroys all the triple world, moving and unmoving."
 }

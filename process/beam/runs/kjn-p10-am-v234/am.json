@@ -1,15 +1,16 @@
 {
  "song": "kjn-p10",
  "verse": 234,
- "question": "Where are the syllables ṣa and śa placed?",
+ "question": "Where are the syllables sha and sha placed?",
  "premises": [
-  "Syllable ṣa is in the throat region",
-  "Syllable śa is in the heart",
-  "Then the placement is complete"
+  "syllable sha is named",
+  "throat region is named",
+  "syllable sha is named",
+  "heart is named"
  ],
- "inference": "Ṣa is in the throat region and śa is in the heart.",
+ "inference": "The verse places one syllable sha in the throat region and another in the heart.",
  "uncertainties": [
-  "Whether kaṇṭha deśe is one compound or two"
+  "the two sha syllables may be distinct phonetic values not explicit"
  ],
- "plain_english": "The syllable ṣa is in the throat region, and the syllable śa is in the heart."
+ "plain_english": "Syllable sha is in the throat region, and syllable sha is in the heart."
 }
