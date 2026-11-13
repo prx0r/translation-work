@@ -1,16 +1,16 @@
 {
  "song": "kjn-p13",
  "verse": 318,
- "question": "May that lord and fallen one be the supreme cakra?",
+ "question": "What becomes the supreme cakra when lord and fallen are that?",
  "premises": [
-  "Lord and fallen are named",
-  "That may be",
-  "Supreme cakra is named"
+  "lord is named",
+  "fallen is named",
+  "supreme cakra is named"
  ],
- "inference": "The verse asks whether that lord and fallen one may be the supreme cakra.",
+ "inference": "The verse connects lord and fallen with the supreme cakra, but the final token is uncertain.",
  "uncertainties": [
-  "Legacy hints only; no full parsing provided",
-  "Final token is uncertain"
+  "final token is illegible or editorially marked unknown",
+  "exact syntactic relation is unclear"
  ],
- "plain_english": "Lord and fallen, that may be the supreme cakra?"
+ "plain_english": "Lord and fallen, that may be the supreme cakra, ?"
 }

@@ -8,43 +8,43 @@
      "surface": "taṃ",
      "gloss": "that",
      "grounds": "accusative object of jñātvā",
-     "morph": "pron.acc.sg.m"
+     "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of root jñā",
-     "morph": "absolutive"
+     "grounds": "absolutive of jñā",
+     "morph": "absolutive (root jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound gūḍha plus sadbhāva in accusative agreeing with taṃ",
-     "morph": "adj.acc.sg.m"
+     "grounds": "compound gūḍha+sadbhāva in accusative modifying taṃ",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun from sarvajña as subject of prajāyate",
-     "morph": "noun.nom.sg.n"
+     "grounds": "abstract noun serving as subject of prajāyate",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "present middle of pra-jan",
-     "morph": "verb.3.sg.mid-pres"
+     "grounds": "middle voice present of jan",
+     "morph": "3.sg.mid-pres (root jan)"
     }
    ],
-   "question": "What arises when the hidden true nature of that is known?",
+   "question": "What arises when one knows that hidden true nature?",
    "premises": [
-    "hidden true nature is known",
-    "knowledge of it transforms",
-    "all-knowingness then arises"
+    "Knowing hidden true nature produces all-knowingness.",
+    "The known object is that hidden true nature.",
+    "All-knowingness arises as the result."
    ],
-   "inference": "Therefore all-knowingness arises from knowing the hidden true nature.",
+   "inference": "Knowledge of the concealed true nature gives rise to omniscience.",
    "uncertainties": [
-    "exact referent of taṃ unspecified",
-    "gender of gūḍhasadbhāvaṃ ambiguous"
+    "The exact referent of taṃ depends on prior context.",
+    "The precise scope of gūḍhasadbhāva remains interpretive."
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
