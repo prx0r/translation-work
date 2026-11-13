@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p23",
  "verse": 553,
- "question": "What is being asserted about the verses that have been clearly explained?",
+ "question": "Which funerary and ancestral rites must be performed according to scripture?",
  "premises": [
-  "Certain verses are identified as clearly explained.",
-  "The explanation of these verses is explicitly stated.",
-  "The remainder of the statement is not fully preserved in the source."
+  "Death rites are required observances",
+  "Ancestor śrāddha is a required observance",
+  "These rites must follow scriptural approval"
  ],
- "inference": "Therefore, the verse refers to clearly explained verses, but its full claim cannot be reconstructed.",
- "uncertainties": [
-  "Multiple tokens are missing or illegible, leaving the statement incomplete."
- ],
- "plain_english": "Those verses which have been clearly explained... [the rest is missing]."
+ "inference": "One should perform the death rite and ancestor śrāddha as approved by scripture.",
+ "uncertainties": [],
+ "plain_english": "One should perform the death rite and the ancestral śrāddha in the manner approved by scripture."
 }
