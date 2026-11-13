@@ -1,6 +1,6 @@
 {
- "rev": "2c81d858445435c277d94bc3656532139e6d70c0",
- "at": "2026-11-13T05:34:56+00:00",
+ "rev": "83e8e2e1adc1672641cb20834fae70da11ca8e40",
+ "at": "2026-11-13T05:38:03+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -24390,6 +24390,22 @@
    "sha256": "98bb470d1a4ec7645dcf07bd464f8cdda6f49cc7c8fd2ed1a67919930433fab5",
    "bytes": 4114
   },
+  "mukta-m00248/T1-mukta-m0-p124.md": {
+   "sha256": "043c5028f5c10a9bb859f4472a563e061a32df62bcd2e47785a40c369ab200c0",
+   "bytes": 4046
+  },
+  "mukta-m00248/T1-mukta-m0-p125.md": {
+   "sha256": "5b0bb10d95ac83d51f61a2556a809a42ce977dfa8ebc46f24b622100c1b510ec",
+   "bytes": 3831
+  },
+  "mukta-m00248/T1-mukta-m0-p126.md": {
+   "sha256": "a382c7d722f67f54ffacffb1e2439cda16ae01a738fbf11be882538baa74b1a2",
+   "bytes": 3628
+  },
+  "mukta-m00248/T1-mukta-m0-p127.md": {
+   "sha256": "b4f8fc6126db493061fb0ac4b34d09c2c36c98b6dd72826fee8970bd1272679d",
+   "bytes": 3751
+  },
   "mukta-m00248/STATUS.json": {
    "sha256": "5b1afec5b3698f569f65552fdd3094cac077e51b7425641d1d11e37eef53c73b",
    "bytes": 168
@@ -30029,6 +30045,26 @@
   "svacchandatantra/data/sva-p05.t1.json": {
    "sha256": "97656b383547b1778b3775bfdad4c9b8b36c6fc5207a66198d3d8cfdc12a27d3",
    "bytes": 29228
+  },
+  "svacchandatantra/data/sva-p06.argmap.json": {
+   "sha256": "46eab7ffe817746e0f85cecb3b93f4e4bb934b7c51ecd7972dd1ac9348e81aa1",
+   "bytes": 20060
+  },
+  "svacchandatantra/data/sva-p06.c1.json": {
+   "sha256": "eb10a4d80b14aa92bd20f6900b5fae3e8a2100325340aae0a9fbded6fbad9bb4",
+   "bytes": 568
+  },
+  "svacchandatantra/data/sva-p06.l0.json": {
+   "sha256": "c24af66ebec731ffb1c8dc31a27e8690a040bab7158a66e73b2f37a6a41d3c5c",
+   "bytes": 38936
+  },
+  "svacchandatantra/data/sva-p06.l2.json": {
+   "sha256": "17693175e78619975867aad8ee16aa294582ec5d832579f16333184df846c9a9",
+   "bytes": 8646
+  },
+  "svacchandatantra/data/sva-p06.t1.json": {
+   "sha256": "6bacf6a5bd0efaa040d97917dc07ba7eeb8936ef42670681989f91df57563370",
+   "bytes": 26307
   },
   "svacchandatantra/data/sva-p07.argmap.json": {
    "sha256": "39b1651366f298ddc6bcdc731dfe97c8826fdd77b4ceae71bf32271d2eb8699a",

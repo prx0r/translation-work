@@ -9,37 +9,37 @@
    {
     "surface": "na",
     "quick_gloss": "not",
-    "grounds": "negation"
+    "grounds": "negation particle"
    },
    {
     "surface": "mṛtyur",
     "quick_gloss": "death",
-    "grounds": "subject"
+    "grounds": "agent of cessation"
    },
    {
     "surface": "bhavate",
     "quick_gloss": "becomes",
-    "grounds": "main verb"
+    "grounds": "present occurrence"
    },
    {
     "surface": "tasya",
     "quick_gloss": "for-him",
-    "grounds": "possessor/beneficiary"
+    "grounds": "anaphoric to subject"
    },
    {
     "surface": "akṣayo",
-    "quick_gloss": "imperishable",
-    "grounds": "quality"
+    "quick_gloss": "unfailing",
+    "grounds": "negation of decay"
    },
    {
     "surface": "hi",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "emphatic particle"
    },
    {
     "surface": "amara+dyutiḥ",
-    "quick_gloss": "immortal-splendor",
-    "grounds": "compound describing state"
+    "quick_gloss": "deathless-splendor",
+    "grounds": "compound = deathless + splendor; fused form kept as given"
    }
   ]
  },
@@ -53,12 +53,12 @@
    {
     "surface": "kruddhan",
     "quick_gloss": "angered",
-    "grounds": "condition of agent"
+    "grounds": "state of agitation"
    },
    {
     "surface": "tu",
     "quick_gloss": "but",
-    "grounds": "contrast"
+    "grounds": "adversative particle"
    },
    {
     "surface": "cālayet",
@@ -67,18 +67,18 @@
    },
    {
     "surface": "devi",
-    "quick_gloss": "O-goddess",
+    "quick_gloss": "goddess",
     "grounds": "vocative address"
    },
    {
     "surface": "trailokya",
     "quick_gloss": "three-worlds",
-    "grounds": "object realm"
+    "grounds": "totality of realms"
    },
    {
     "surface": "sa+cara+acaram",
-    "quick_gloss": "with-moving-unmoving",
-    "grounds": "compound qualifying three worlds"
+    "quick_gloss": "with-move-without-move",
+    "grounds": "compound covering moving and unmoving; fused form kept as given"
    }
   ]
  },
@@ -91,33 +91,33 @@
   "tokens": [
    {
     "surface": "yādṛśo",
-    "quick_gloss": "of-what-kind",
-    "grounds": "correlative quality"
+    "quick_gloss": "such-as",
+    "grounds": "correlative of kind"
    },
    {
     "surface": "bhavate",
     "quick_gloss": "becomes",
-    "grounds": "main verb"
+    "grounds": "resultant state"
    },
    {
     "surface": "siddhis",
     "quick_gloss": "accomplishment",
-    "grounds": "subject/result"
+    "grounds": "attained capacity"
    },
    {
     "surface": "satata+abhyāsa",
-    "quick_gloss": "constant-practice",
-    "grounds": "cause/means"
+    "quick_gloss": "unceasing-practice",
+    "grounds": "compound of sustained practice; fused form kept as given"
    },
    {
     "surface": "eva",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "restrictive emphasis"
    },
    {
     "surface": "ca",
     "quick_gloss": "and",
-    "grounds": "connection"
+    "grounds": "connective particle"
    }
   ]
  },
@@ -131,27 +131,27 @@
    {
     "surface": "etat",
     "quick_gloss": "this",
-    "grounds": "demonstrative subject"
+    "grounds": "deictic to preceding teaching"
    },
    {
     "surface": "jñānaṃ",
     "quick_gloss": "knowledge",
-    "grounds": "predicate"
+    "grounds": "repeated for emphasis"
    },
    {
     "surface": "varaṃ",
     "quick_gloss": "supreme",
-    "grounds": "qualification"
+    "grounds": "term of preeminence"
    },
    {
     "surface": "jñānaṃ",
     "quick_gloss": "knowledge",
-    "grounds": "predicate"
+    "grounds": "repeated for emphasis"
    },
    {
     "surface": "svātantra+siddhi+mānasī",
     "quick_gloss": "autonomy-accomplishment-minded",
-    "grounds": "compound describing knowledge"
+    "grounds": "compound describing orientation to autonomy-accomplishment; fused form kept as given"
    }
   ]
  },
@@ -165,22 +165,22 @@
    {
     "surface": "gṛhītavyaṃ",
     "quick_gloss": "to-be-taken",
-    "grounds": "obligation"
+    "grounds": "obligatory/commended act"
    },
    {
     "surface": "prayatnena",
-    "quick_gloss": "with-effort",
-    "grounds": "manner"
+    "quick_gloss": "by-effort",
+    "grounds": "means of action"
    },
    {
     "surface": "kaulave",
     "quick_gloss": "in-kaula-path",
-    "grounds": "context/tradition"
+    "grounds": "locus of commended action; archaic form kept as given"
    },
    {
     "surface": "siddhim+icchatā",
-    "quick_gloss": "by-accomplishment-desiring",
-    "grounds": "compound describing agent"
+    "quick_gloss": "accomplishment-desiring",
+    "grounds": "compound agent = accomplishment-desiring; fused form kept as given"
    }
   ]
  },
@@ -194,16 +194,16 @@
    {
     "surface": "rasanā",
     "quick_gloss": "tongue",
-    "grounds": "object of action"
+    "grounds": "bodily locus"
    },
    {
     "surface": "ūrddhakaṃ",
     "quick_gloss": "upward",
-    "grounds": "direction"
+    "grounds": "direction of placement"
    },
    {
     "surface": "kṛtvā",
-    "quick_gloss": "having-made",
+    "quick_gloss": "having-placed",
     "grounds": "prior action"
    },
    {
@@ -214,12 +214,12 @@
    {
     "surface": "tasmin",
     "quick_gloss": "in-that",
-    "grounds": "locus"
+    "grounds": "anaphoric to locus"
    },
    {
     "surface": "niveśayet",
-    "quick_gloss": "one-should-fix",
-    "grounds": "instruction"
+    "quick_gloss": "should-fix",
+    "grounds": "injunctive action"
    }
   ]
  },
@@ -232,23 +232,23 @@
   "tokens": [
    {
     "surface": "kṣaṇena",
-    "quick_gloss": "in-a-moment",
-    "grounds": "time"
+    "quick_gloss": "in-moment",
+    "grounds": "measure of time"
    },
    {
     "surface": "mucyate",
     "quick_gloss": "is-freed",
-    "grounds": "result"
+    "grounds": "passive release"
    },
    {
     "surface": "rogair",
-    "quick_gloss": "from-diseases",
-    "grounds": "what is removed"
+    "quick_gloss": "from-ailments",
+    "grounds": "source of affliction"
    },
    {
     "surface": "vyādhi+mṛtyu+jarā+ādibhiḥ",
-    "quick_gloss": "illness-death-old-age-etc",
-    "grounds": "compound specifying diseases"
+    "quick_gloss": "ailment-death-age-etc",
+    "grounds": "compound list of afflictions; fused form kept as given"
    }
   ]
  },
@@ -261,28 +261,28 @@
   "tokens": [
    {
     "surface": "kṣaṇena",
-    "quick_gloss": "in-a-moment",
-    "grounds": "time"
+    "quick_gloss": "in-moment",
+    "grounds": "measure of time"
    },
    {
     "surface": "naśyate",
     "quick_gloss": "is-destroyed",
-    "grounds": "result"
+    "grounds": "passive cessation"
    },
    {
     "surface": "vyādhiḥ",
-    "quick_gloss": "disease",
-    "grounds": "subject affected"
+    "quick_gloss": "ailment",
+    "grounds": "subject of destruction"
    },
    {
     "surface": "kaṭuke",
-    "quick_gloss": "in-pungent-taste",
-    "grounds": "condition/experience"
+    "quick_gloss": "in-pungent",
+    "grounds": "locus/condition of taste"
    },
    {
     "surface": "kuṣṭha+nāśanam",
     "quick_gloss": "leprosy-destruction",
-    "grounds": "compound result"
+    "grounds": "compound naming a specific destruction; fused form kept as given"
    }
   ]
  },
@@ -295,27 +295,27 @@
   "tokens": [
    {
     "surface": "kṣīra+svādena",
-    "quick_gloss": "by-milk-taste",
-    "grounds": "means/experience"
+    "quick_gloss": "milk-taste",
+    "grounds": "means/condition by taste; fused form kept as given"
    },
    {
     "surface": "medhāvi",
     "quick_gloss": "wise",
-    "grounds": "quality of person"
+    "grounds": "resultant quality of person"
    },
    {
     "surface": "amaro",
-    "quick_gloss": "immortal",
-    "grounds": "resulting state"
+    "quick_gloss": "deathless",
+    "grounds": "resultant state"
    },
    {
     "surface": "jāyate",
     "quick_gloss": "becomes",
-    "grounds": "result"
+    "grounds": "resultant becoming"
    },
    {
     "surface": "naraḥ",
-    "quick_gloss": "man",
+    "quick_gloss": "person",
     "grounds": "subject"
    }
   ]
@@ -330,37 +330,37 @@
    {
     "surface": "cittaṃ",
     "quick_gloss": "mind",
-    "grounds": "object"
+    "grounds": "object of placement"
    },
    {
     "surface": "dadyāt",
-    "quick_gloss": "one-should-place",
-    "grounds": "instruction repeated"
+    "quick_gloss": "should-place",
+    "grounds": "repeated injunctive action"
    },
    {
     "surface": "tu",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "emphatic particle"
    },
    {
     "surface": "cakreṇa",
-    "quick_gloss": "in-circle",
-    "grounds": "locus/method"
+    "quick_gloss": "by-circle",
+    "grounds": "means/locus named by circle"
    },
    {
     "surface": "nāse",
     "quick_gloss": "in-nose",
-    "grounds": "locus"
+    "grounds": "bodily locus"
    },
    {
     "surface": "dadyāt",
-    "quick_gloss": "one-should-place",
-    "grounds": "instruction repeated"
+    "quick_gloss": "should-place",
+    "grounds": "repeated injunctive action"
    },
    {
     "surface": "vijṛmbhikā",
     "quick_gloss": "yawning",
-    "grounds": "associated action/state"
+    "grounds": "second locus/object context; term kept as given"
    }
   ]
  },
@@ -374,27 +374,27 @@
    {
     "surface": "deva+kanyā",
     "quick_gloss": "divine-maiden",
-    "grounds": "possible attainment/companion"
+    "grounds": "resultant form; fused form kept as given"
    },
    {
     "surface": "surāṇām",
     "quick_gloss": "of-gods",
-    "grounds": "relation"
+    "grounds": "relation of possession"
    },
    {
     "surface": "ca",
     "quick_gloss": "and",
-    "grounds": "connection"
+    "grounds": "connective"
    },
    {
     "surface": "yakṣa+vidyādharo",
-    "quick_gloss": "yakṣa-vidyādhara",
-    "grounds": "possible identity/state"
+    "quick_gloss": "yaksa-vidyadhara",
+    "grounds": "compound class; fused form kept as given"
    },
    {
     "surface": "bhavet",
     "quick_gloss": "may-become",
-    "grounds": "result"
+    "grounds": "potential becoming"
    }
   ]
  },
@@ -407,13 +407,13 @@
   "tokens": [
    {
     "surface": "divya+kanyā",
-    "quick_gloss": "divine-maidens",
-    "grounds": "objects enjoyed"
+    "quick_gloss": "divine-maiden",
+    "grounds": "agents attracted; fused form kept as given"
    },
    {
     "surface": "anekāśca",
     "quick_gloss": "and-many",
-    "grounds": "quantity"
+    "grounds": "quantity with connective"
    },
    {
     "surface": "ākṛṣya",
@@ -423,11 +423,11 @@
    {
     "surface": "bhuñjate",
     "quick_gloss": "they-enjoy",
-    "grounds": "resulting action"
+    "grounds": "resultant action"
    },
    {
     "surface": "priye",
-    "quick_gloss": "O-beloved",
+    "quick_gloss": "beloved",
     "grounds": "vocative address"
    }
   ]
@@ -441,18 +441,18 @@
   "tokens": [
    {
     "surface": "ūrddha+retā",
-    "quick_gloss": "upward-semen",
-    "grounds": "yogic state"
+    "quick_gloss": "upward-seed",
+    "grounds": "descriptive state; fused form kept as given"
    },
    {
     "surface": "bhaved",
     "quick_gloss": "becomes",
-    "grounds": "result"
+    "grounds": "resultant state"
    },
    {
     "surface": "yogī",
     "quick_gloss": "yogin",
-    "grounds": "contrasted subject"
+    "grounds": "repeated subject for contrast"
    },
    {
     "surface": "na",
@@ -462,16 +462,16 @@
    {
     "surface": "yogī",
     "quick_gloss": "yogin",
-    "grounds": "contrasted subject"
+    "grounds": "repeated subject for contrast"
    },
    {
     "surface": "karata(?",
     "quick_gloss": "by-hand",
-    "grounds": "unclear means/condition"
+    "grounds": "corrupt/uncertain token as given; not expanded"
    },
    {
     "surface": "priye",
-    "quick_gloss": "O-beloved",
+    "quick_gloss": "beloved",
     "grounds": "vocative address"
    }
   ]
@@ -485,28 +485,28 @@
   "tokens": [
    {
     "surface": "durlabhan",
-    "quick_gloss": "difficult-to-obtain",
-    "grounds": "evaluation"
+    "quick_gloss": "hard-to-gain",
+    "grounds": "valuation"
    },
    {
     "surface": "tu",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "emphatic"
    },
    {
     "surface": "imaṃ",
     "quick_gloss": "this",
-    "grounds": "demonstrative"
+    "grounds": "deictic to circle"
    },
    {
     "surface": "cakraṃ",
     "quick_gloss": "circle",
-    "grounds": "object praised"
+    "grounds": "object of valuation"
    },
    {
     "surface": "nāsti",
     "quick_gloss": "there-is-not",
-    "grounds": "negated existence"
+    "grounds": "negation of existence/comparandum"
    },
    {
     "surface": "yogaṃ",
@@ -515,8 +515,8 @@
    },
    {
     "surface": "imam+param",
-    "quick_gloss": "higher-than-this",
-    "grounds": "compound comparison"
+    "quick_gloss": "this-higher",
+    "grounds": "comparative form; fused form kept as given"
    }
   ]
  },
@@ -530,22 +530,22 @@
    {
     "surface": "abhyāse",
     "quick_gloss": "in-practice",
-    "grounds": "context"
+    "grounds": "locus of effect"
    },
    {
     "surface": "tu",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "emphatic"
    },
    {
     "surface": "pada+abhyasta",
     "quick_gloss": "step-practiced",
-    "grounds": "compound describing mastery"
+    "grounds": "descriptive of practice; fused form kept as given"
    },
    {
     "surface": "mahat+āścarya+kārakam",
     "quick_gloss": "great-wonder-causing",
-    "grounds": "compound describing effect"
+    "grounds": "resultant quality; fused form kept as given"
    }
   ]
  },
@@ -558,8 +558,8 @@
   "tokens": [
    {
     "surface": "bhavate",
-    "quick_gloss": "becomes",
-    "grounds": "assertion"
+    "quick_gloss": "there-is",
+    "grounds": "existential claim"
    },
    {
     "surface": "na",
@@ -569,17 +569,17 @@
    {
     "surface": "atra",
     "quick_gloss": "here",
-    "grounds": "scope"
+    "grounds": "deictic to this matter"
    },
    {
     "surface": "saṃdehaḥ",
     "quick_gloss": "doubt",
-    "grounds": "what is negated"
+    "grounds": "subject negated"
    },
    {
     "surface": "satata+abhyāsa+tatparāḥ",
-    "quick_gloss": "constant-practice-devoted",
-    "grounds": "compound describing practitioners"
+    "quick_gloss": "unceasing-practice-devoted",
+    "grounds": "characterization of those addressed; fused form kept as given"
    }
   ]
  },
@@ -592,18 +592,18 @@
   "tokens": [
    {
     "surface": "pratimā+jalpanan",
-    "quick_gloss": "in-image-muttering",
-    "grounds": "compound describing practice/context"
+    "quick_gloss": "image-muttering",
+    "grounds": "action/locus; fused form kept as given"
    },
    {
     "surface": "tasmi(n",
     "quick_gloss": "in-that",
-    "grounds": "locus"
+    "grounds": "anaphoric locus; token as given with parenthesis"
    },
    {
     "surface": "ghaṭa+pāṣāṇa+sphoṭanam",
     "quick_gloss": "pot-stone-breaking",
-    "grounds": "compound describing effect"
+    "grounds": "result claimed; fused form kept as given"
    }
   ]
  },
@@ -616,33 +616,33 @@
   "tokens": [
    {
     "surface": "brahma+viṣṇu+yama+indrāś",
-    "quick_gloss": "Brahma-Viṣṇu-Yama-Indra",
-    "grounds": "compound list of deities"
+    "quick_gloss": "brahma-visnu-yama-indra",
+    "grounds": "listed deities; fused form kept as given"
    },
    {
     "surface": "ca",
     "quick_gloss": "and",
-    "grounds": "connection"
+    "grounds": "connective"
    },
    {
     "surface": "varuṇo",
-    "quick_gloss": "Varuṇa",
-    "grounds": "deity"
+    "quick_gloss": "varuna",
+    "grounds": "listed deity"
    },
    {
     "surface": "vāyur",
-    "quick_gloss": "Vāyu",
-    "grounds": "deity"
+    "quick_gloss": "vayu",
+    "grounds": "listed deity"
    },
    {
     "surface": "eva",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "emphatic"
    },
    {
     "surface": "ca",
     "quick_gloss": "and",
-    "grounds": "connection"
+    "grounds": "connective"
    }
   ]
  },
@@ -655,32 +655,32 @@
   "tokens": [
    {
     "surface": "gandharvāḥ",
-    "quick_gloss": "Gandharvas",
-    "grounds": "beings"
+    "quick_gloss": "gandharvas",
+    "grounds": "listed class"
    },
    {
     "surface": "kinnarā",
-    "quick_gloss": "Kinnaras",
-    "grounds": "beings"
+    "quick_gloss": "kinnaras",
+    "grounds": "listed class"
    },
    {
     "surface": "yakṣā",
-    "quick_gloss": "Yakṣas",
-    "grounds": "beings"
+    "quick_gloss": "yakṣas",
+    "grounds": "listed class"
    },
    {
     "surface": "nāgā",
-    "quick_gloss": "Nāgas",
-    "grounds": "beings"
+    "quick_gloss": "nāgas",
+    "grounds": "listed class"
    },
    {
     "surface": "vidyādharāḥ",
-    "quick_gloss": "Vidyādharas",
-    "grounds": "beings"
+    "quick_gloss": "vidyādharas",
+    "grounds": "listed class"
    },
    {
     "surface": "priye",
-    "quick_gloss": "O-beloved",
+    "quick_gloss": "beloved",
     "grounds": "vocative address"
    }
   ]
@@ -694,13 +694,13 @@
   "tokens": [
    {
     "surface": "nakṣatra+tāraka+upetaṃ",
-    "quick_gloss": "with-constellations-stars-endowed",
-    "grounds": "compound describing cosmos"
+    "quick_gloss": "constellation-star-endowed",
+    "grounds": "descriptive of object; fused form kept as given"
    },
    {
     "surface": "brahmāṇḍa+parighaṭṭitam",
     "quick_gloss": "universe-encompassed",
-    "grounds": "compound describing cosmos"
+    "grounds": "descriptive of object; fused form kept as given"
    }
   ]
  },
@@ -713,23 +713,23 @@
   "tokens": [
    {
     "surface": "darśayet",
-    "quick_gloss": "he-may-show",
-    "grounds": "ability/result"
+    "quick_gloss": "may-show",
+    "grounds": "causative potential"
    },
    {
     "surface": "svaka+piṇḍaṃ",
     "quick_gloss": "own-body",
-    "grounds": "object shown"
+    "grounds": "object shown; fused form kept as given"
    },
    {
     "surface": "satata+dhyānāt",
-    "quick_gloss": "by-constant-meditation",
-    "grounds": "means"
+    "quick_gloss": "unceasing-meditation",
+    "grounds": "means; fused form kept as given"
    },
    {
     "surface": "aneka+dhā",
-    "quick_gloss": "in-many-ways",
-    "grounds": "manner"
+    "quick_gloss": "many-ways",
+    "grounds": "manner of showing; fused form kept as given"
    }
   ]
  },
@@ -743,27 +743,27 @@
    {
     "surface": "abhyāsād",
     "quick_gloss": "from-practice",
-    "grounds": "cause"
+    "grounds": "source of result"
    },
    {
     "surface": "dadate",
     "quick_gloss": "gives",
-    "grounds": "resulting action"
+    "grounds": "active giving"
    },
    {
     "surface": "siddhir",
     "quick_gloss": "accomplishment",
-    "grounds": "subject/result"
+    "grounds": "subject/result given"
    },
    {
     "surface": "aṣṭadhā",
     "quick_gloss": "eightfold",
-    "grounds": "manner/extent"
+    "grounds": "manner/number"
    },
    {
     "surface": "śāstra+coditā",
     "quick_gloss": "scripture-enjoined",
-    "grounds": "compound qualifying accomplishment"
+    "grounds": "qualification of accomplishment; fused form kept as given"
    }
   ]
  },
@@ -776,18 +776,18 @@
   "tokens": [
    {
     "surface": "sataḥ",
-    "quick_gloss": "to-the-worthy",
-    "grounds": "recipient"
+    "quick_gloss": "to-worthy",
+    "grounds": "recipient qualified"
    },
    {
     "surface": "kaulam+idaṃ",
-    "quick_gloss": "this-kaula-teaching",
-    "grounds": "compound object"
+    "quick_gloss": "this-kaula",
+    "grounds": "object to be given; fused form kept as given"
    },
    {
     "surface": "deyaṃ",
     "quick_gloss": "to-be-given",
-    "grounds": "injunction repeated"
+    "grounds": "repeated negation"
    },
    {
     "surface": "na",
@@ -797,17 +797,17 @@
    {
     "surface": "deyaṃ",
     "quick_gloss": "to-be-given",
-    "grounds": "injunction repeated"
+    "grounds": "repeated negation"
    },
    {
     "surface": "yasya",
     "quick_gloss": "to-whom",
-    "grounds": "indefinite relative"
+    "grounds": "relative recipient"
    },
    {
     "surface": "kasyacit",
     "quick_gloss": "to-anyone",
-    "grounds": "indefinite recipient"
+    "grounds": "indefinite negated recipient"
    }
   ]
  },
@@ -821,27 +821,27 @@
    {
     "surface": "etat+uddharaṇaṃ",
     "quick_gloss": "this-extraction",
-    "grounds": "compound object/teaching"
+    "grounds": "object to be concealed; fused form kept as given"
    },
    {
     "surface": "gopyaṃ",
     "quick_gloss": "to-be-concealed",
-    "grounds": "injunction"
+    "grounds": "injunctive concealment"
    },
    {
     "surface": "nityan",
     "quick_gloss": "always",
-    "grounds": "duration"
+    "grounds": "temporal extent"
    },
    {
     "surface": "tu",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "emphatic"
    },
    {
     "surface": "kṛta+niścayaḥ",
-    "quick_gloss": "firmly-resolved",
-    "grounds": "compound describing agent"
+    "quick_gloss": "made-resolved",
+    "grounds": "qualification of agent; fused form kept as given"
    }
   ]
  },
@@ -855,22 +855,22 @@
    {
     "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
     "quick_gloss": "situated-in-forehead-letter-mass",
-    "grounds": "compound denoting location within the mass of letters at the forehead"
+    "grounds": "compound locating the practice in the forehead's collection of letters/syllables; varṇa may denote letter or color"
    },
    {
     "surface": "lakṣaṃ",
     "quick_gloss": "hundred-thousand",
-    "grounds": "a large number, indicating the count of repetitions"
+    "grounds": "specifies the number of repetitions to be performed"
    },
    {
     "surface": "kṛtya",
     "quick_gloss": "having-performed",
-    "grounds": "absolutive expressing completion of the act prior to what follows"
+    "grounds": "absolutive indicating completion of the prescribed repetition"
    },
    {
     "surface": "sura+arcite",
     "quick_gloss": "o-god-worshipped-one",
-    "grounds": "vocative compound addressing one honored by the gods"
+    "grounds": "vocative address to the recipient or practitioner honored by the gods"
    }
   ]
  }
