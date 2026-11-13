@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "sumukho",
+     "gloss": "beautiful-faced",
+     "grounds": "epithet of the deity; compound su-mukha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durmukho",
+     "gloss": "fierce-faced",
+     "grounds": "epithet of the deity; compound dur-mukha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "buddho",
+     "gloss": "awakened-wise",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vighnarājo",
+     "gloss": "king-of-obstacles",
+     "grounds": "epithet of the deity; compound vighna-rāja",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gajānanaḥ",
+     "gloss": "elephant-faced",
+     "grounds": "epithet of the deity; compound gaja-ānana",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which additional epithets further characterize the deity in this enumerated list of names?",
+   "premises": [
+    "The deity is called beautiful-faced.",
+    "The deity is called fierce-faced.",
+    "The deity is called awakened-wise.",
+    "The deity is called king-of-obstacles.",
+    "The deity is called elephant-faced."
+   ],
+   "inference": "These epithets continue the enumeration of the deity's names by attributing contrasting aspects, wisdom, lordship over obstacles, and an elephant face.",
+   "uncertainties": [
+    "Whether durmukho is intended as a fearsome aspect or a distinct name in this context is not explicit."
+   ],
+   "plain_english": "He is beautiful-faced, fierce-faced, wise, the king of obstacles, and elephant-faced."
+  }
+ ]
+}

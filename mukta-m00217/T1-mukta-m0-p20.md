@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[rudra+tāṇḍava+sānandām](rudratāṇḍavasānandāṃ) [dvibhujām](dvibhujāṃ) [parameśvarīm](parameśvarīm)
+[delighting-in-Rudra's-fierce-dance](rudratāṇḍavasānandāṃ) [two-armed](dvibhujāṃ) [supreme-goddess](parameśvarīm)
 
 ## mukta-m0-p20-v477
-[vāgbhavam](vāgbhavaṃ) [kāmarājam](kāmarājaṃ) [ca](ca) [sargavān](sargavān) [bhṛguruttame](bhṛguruttame)
+[speech-seed](vāgbhavaṃ) [desire-king](kāmarājaṃ) [and](ca) [with-creation](sargavān) [O-best-of-Bhṛgus](bhṛguruttame)
 
 ## mukta-m0-p20-v478
-[śrībījam](śrībījaṃ) [tārakam](tārakaṃ) [ca+eva](caiva) [namo](namo) [bhagavatī+iti](bhagavatīti) [ca](ca)
+[Śrī-seed](śrībījaṃ) [savior-seed](tārakaṃ) [and](ca) [indeed](eva) [salutation](namaḥ) [to-the-blessed-one](bhagavatīti) [and](ca)
 
 ## mukta-m0-p20-v479
-[sarvarājavaśam](sarvarājavaśaṃ) [ca+ante](cānte) [kari](kari) [sarvamukhāntakam](sarvamukhāntakam)
+[all-kings-subduing](sarvarājavaśaṃ) [and](ca) [at-the-end](ante) [do](kari) [all-faces-destroying](sarvamukhāntakam)
 
 ## mukta-m0-p20-v480
-[puruṣānte](puruṣānte) [vaśam](vaśaṃ) [ca+uktvā](coktvā) [karyante](karyante) [sarvaduṣṭataḥ](sarvaduṣṭataḥ)
+[after-puruṣa](puruṣānte) [subduing](vaśaṃ) [and](ca) [having-said](uktvā) [do-at-the-end](karyante) [from-all-wickedness](sarvaduṣṭataḥ)
 
 ## mukta-m0-p20-v481
-[śailaje](śailaje) [vaśam+ālikhya](vaśamālikhya) [kari+śabdam](kariśabdaṃ) [tato](tato) [vadet](vadet)
+[O-daughter-of-the-mountain](śailaje) [subduing](vaśam) [having-written](ālikhya) [kari-word](kariśabdaṃ) [then](tataḥ) [one-should-say](vadet)
 
 ## mukta-m0-p20-v482
-[saptatiś+ca](saptatiśca) [trayo](trayo) [varṇāḥ](varṇā) [mātaṅgī+vigrahāḥ](mātaṅgīvigrahāḥ) [priye](priye)
+[seventy](saptatiḥ) [and](ca) [three](trayaḥ) [syllables](varṇāḥ) [Mātaṅgī's-form](mātaṅgīvigrahāḥ) [O-beloved](priye)
 
 ## mukta-m0-p20-v483
-[ṛṣiḥ](ṛṣirmataṅgo) [mataṅgo](mataṅgo) [bhagavān](bhagavān) [gāyatrī](gāyatrī) [chandaḥ](chanda) [ucyate](ucyate)
+[seer](ṛṣiḥ) [Mataṅga](mataṅgaḥ) [venerable](bhagavān) [Gāyatrī](gāyatrī) [meter](chandaḥ) [is-called](ucyate)
 
 ## mukta-m0-p20-v484
-[kāmabījam](kāmabījaṃ) [vāgbhavam](vāgbhavaṃ) [ca](ca) [bīja+śaktī](bījaśaktī) [ca](ca) [kīlakam](kīlakam)
+[desire-seed](kāmabījaṃ) [speech-seed](vāgbhavaṃ) [and](ca) [seed-and-power](bījaśaktī) [and](ca) [peg](kīlakam)
 
 ## mukta-m0-p20-v485
-[ādyabījatrayeṇa+eva](ādyabījatrayeṇaiva) [dvirāvṛttyā](dvirāvṛttyā) [ṣaḍaṅgakam](ṣaḍaṅgakam)
+[by-the-first-seed-triad](ādyabījatrayeṇa) [indeed](eva) [by-double-repetition](dvirāvṛttyā) [six-limb-ritual](ṣaḍaṅgakam)
 
 ## mukta-m0-p20-v486
-[kvaṇad+vīṇā+lasat+nāda+ślāghā+andolita+kuṇḍalām](kvaṇadvīṇālasannādaślāghāndolitakuṇḍalām)
+[by-resounding-lute's-sweet-sound-praise-swaying-earrings](kvaṇadvīṇālasannādaślāghāndolitakuṇḍalām)
 
 ## mukta-m0-p20-v487
-[kadamba+puṣpa+dāma+āḍhyām](kadambapuṣpadāmāḍhyāṃ) [vīṇā+vādana+tatparām](vīṇāvādanatatparām)
+[adorned-with-kadamba-flower-garland](kadambapuṣpadāmāḍhyāṃ) [intent-on-playing-the-lute](vīṇāvādanatatparām)
 
 ## mukta-m0-p20-v488
-[yasyāḥ](yasyāḥ) [smaraṇa+mātreṇa](smaraṇamātreṇa) [pavanaḥ](pavano) [ayaṃ](ayaṃ) [sthiraḥ](sthiro) [bhavet](bhavet)
+[of-whom](yasyāḥ) [by-mere-remembrance](smaraṇamātreṇa) [wind](pavanaḥ) [this](ayam) [motionless](sthiraḥ) [would-become](bhavet)
 
 ## mukta-m0-p20-v489
-[nādena](nādena) [bhūṣitam](bhūṣitaṃ) [bījam](bījaṃ) [pārthivam](pārthivaṃ) [ca](ca) [uccaret+tataḥ](coccarettataḥ)
+[adorned-with-sound](nādena) [adorned](bhūṣitaṃ) [seed](bījaṃ) [earthly](pārthivaṃ) [one-should-utter](uccaret) [then](tataḥ)
 
 ## mukta-m0-p20-v490
-[vārtāli+yugmam](vārtāliyugmaṃ) [vārāhi](vārāhi) [punar+etat+dvayam](punaretaddvayaṃ) [likhet](likhet)
+[vārtālī-pair](vārtāliyugmaṃ) [O-Vārāhī](vārāhi) [again](punaḥ) [this-pair](etaddvayaṃ) [one-should-write](likhet)
 
 ## mukta-m0-p20-v491
-[andhe](andhe) [ca+andhini](cāndhini) [saptārṇam](saptārṇaṃ) [hṛd+antena](hṛdantena) [bhavet+priye](bhavetpriye)
+[andhe](andhe) [cāndhini](cāndhini) [seven-syllabled](saptārṇaṃ) [ending-with-hṛt](hṛdantena) [it-should-be](bhavet) [O-beloved](priye)
 
 ## mukta-m0-p20-v492
-[mohe](mohe) [mohini](mohini) [hṛt+ca+api](hṛccāpi) [stambhe](stambhe) [stambhini](stambhini) [hṛt+tataḥ](hṛttataḥ)
+[mohe](mohe) [mohini](mohini) [with-hṛt](hṛt) [and](ca) [api](api) [stambhe](stambhe) [stambhini](stambhini) [then-with-hṛt](hṛt) [then](tataḥ)
 
 ## mukta-m0-p20-v493
-[sānām+antam](sānāmantaṃ) [ca](ca) [sarveṣām](sarveṣāṃ) [sarvavāg+iti](sarvavāgiti) [citta](citta) [ca](ca)
+[with-nāma-ending](sānāmantaṃ) [and](ca) [of-all](sarveṣāṃ) [all-speech](sarvavāg) [thus](iti) [citta](citta) [and](ca)
 
 ## mukta-m0-p20-v494
-[śīghram](śīghraṃ) [vaśyam](vaśyaṃ) [kurudvandvam](kurudvandvaṃ) [vāgbhavam](vāgbhavaṃ) [pārthivam](pārthivaṃ) [punaḥ](punaḥ)
+[quickly](śīghraṃ) [submissive](vaśyaṃ) [make-pair](kurudvandvaṃ) [speech-seed](vāgbhavaṃ) [earthly](pārthivaṃ) [again](punaḥ)
 
 ## mukta-m0-p20-v495
-[caturdaśa+uttara+śatam](caturdaśottaraśataṃ) [mantravarṇāḥ](mantravarṇā) [bhavanti](bhavanti) [hi](hi)
+[fourteen-more-than-a-hundred](caturdaśottaraśataṃ) [mantra-syllables](mantravarṇāḥ) [they-become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p20-v496
-[mātṛkāvat](mātṛkāvannyasedvaktre) [nyased+vaktre](nyasedvaktre) [padāni](padāni) [daśa](daśa) [mantravit](mantravit)
+[with-mātṛkā-syllables](mātṛkāvat) [one-should-place](nyaset) [on-the-face](vaktre) [ten-parts](padāni) [ten](daśa) [mantra-knower](mantravit)
 
 ## mukta-m0-p20-v497
-[padārṇāni+atha](padārṇānyatha) [vinyasya](vinyasya) [pārśvayoḥ](pārśvayorekamuttamam) [ekam](ekamuttamam) [uttamam](uttamam)
+[then](atha) [having-placed-the-pada-syllables](padārṇāni) [having-placed](vinyasya) [on-the-two-sides](pārśvayoḥ) [one](ekam) [supreme](uttamam)
 
 ## mukta-m0-p20-v498
-[tataḥ](tataḥ) [ṣaḍaṅga+vinyāsam](ṣaḍaṅgavinyāsaṃ) [kuryāt](kuryād) [deha+viśuddhaye](dehaviśuddhaye)
+[then](tataḥ) [six-limb-placement](ṣaḍaṅgavinyāsaṃ) [one-should-perform](kuryāt) [for-body-purification](dehaviśuddhaye)
 
 ## mukta-m0-p20-v499
-[vārāhi+yugalam](vārāhiyugalaṃ) [devi](devi) [śiromantraḥ](śiromantra) [udāhṛtaḥ](udāhṛtaḥ)
+[Vārāhī-pair](vārāhiyugalaṃ) [O-goddess](devi) [head-mantra](śiromantraḥ) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p20-v500
-[kavacam](kavacaṃ) [ca](ca) [tataḥ](tataḥ) [saptavarṇaiḥ](saptavarṇairnetraṃ) [netram](netraṃ) [nyaset](nyaset) [kramāt](kramāt)
+[armor](kavacaṃ) [and](ca) [then](tataḥ) [with-seven-syllables](saptavarṇaiḥ) [eye](netraṃ) [one-should-place](nyaset) [in-order](kramāt)

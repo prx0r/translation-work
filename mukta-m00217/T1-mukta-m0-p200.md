@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p200-v4976
-ten-ingredient-incense-offering by unmatched fortune obtain
+[ten-limb+incense+oblation](daśāṅga+dhūpa+homena) [good-fortune](saubhāgyam) [incomparable](atulaṃ) [one-should-obtain](labhet)
 
 ## mukta-m0-p200-v4977
-bilva-fruits unmatched lakshmi leaves or goddess-honored
+[with-bilva-fruits](śrīphalaiḥ) [incomparable](atulā) [prosperity](lakṣmīḥ) [or-with-leaves](patraiḥ+vā) [O-goddess-worshipped-by-gods](sura+vandite)
 
 ## mukta-m0-p200-v4978
-subdued become goddess coconut-water or
+[submissive](vaśyāḥ) [they-become](bhavanti) [O-lady-of-gods](deva+īśi) [or-with-coconut-water](nārikela+jalena) [or](vā)
 
 ## mukta-m0-p200-v4979
-by-which mortal even in-world renowned deity-like
+[by-which](yena) [even-mortal](martyaḥ+api) [in-world](bhuvane) [renowned](prakhyātaḥ) [god-like](devatā+samaḥ)
 
 ## mukta-m0-p200-v4980
-in-stated nine-kundas in-those-rites instructed
+[in-prescribed](prokteṣu) [nine-fire-pits](nava+kuṇḍeṣu) [in-those-rites](tat+karmasu) [when-enjoined](codite)
 
 ## mukta-m0-p200-v4981
-from-bright-first-day to-full-moon with-lotuses offer
+[beginning-from-bright-first-day](śukla+pratipad+ārambhāt) [until-full-moon](pūrṇa+antaṃ) [with-lotuses](kamalaiḥ) [one-should-offer](hunet)
 
 ## mukta-m0-p200-v4982
-with-three-sweets-moistened flowers also-red auspicious
+[with-three-sweets+sprinkled](madhura+traya+saṃsiktaiḥ) [with-flowers](puṣpaiḥ) [also](api) [with-red](aruṇaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p200-v4983
-in-those-days lotuses white from-that-offering ghee
+[on-those](teṣu) [indeed](eva) [on-days](divaseṣu) [with-lotuses](abjaiḥ) [white](sitaiḥ) [from-that-oblation](tat+dhavanāt) [with-ghee](ghṛtaiḥ)
 
 ## mukta-m0-p200-v4984
-likewise blue-lotus-offering prosperity obtain abundant
+[likewise](tathā) [indeed](eva) [by-blue-lotus+oblation](utpala+homena) [prosperity](śriyam) [one-obtains](āpnoti) [abundant](puṣkalām)
 
 ## mukta-m0-p200-v4985
-with-ketaki offering in-those days prosperity obtain
+[by-ketaka-flowers+oblation](ketakaiḥ+havanāt) [on-those](teṣu) [on-days](dineṣu) [prosperity](śriyam) [one-may-obtain](āpnuyāt)
 
 ## mukta-m0-p200-v4986
-with-those six saffron-powder-soaked that-day-offering
+[with-those](taiḥ) [six](ṣaḍbhiḥ) [in-saffron+powder+immersed](kuṃkuma+kṣoda+āplutaiḥ) [from-oblation-on-those-days](tat+dina+homataḥ)
 
 ## mukta-m0-p200-v4987
-with-those sandal-anointed offering that-days according-to-rite
+[with-those](taiḥ) [with-sandalwood+anointed](candana+āktaiḥ) [from-oblation](havanāt) [on-those-days](tat+dineṣu) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p200-v4988
-with-those moon-liquid-anointed indeed offering cupid-like
+[with-those](taiḥ) [indeed](eva) [with-camphor+anointed](indu+drava+āktaiḥ) [but](tu) [from-oblation](homāt) [like-Cupid](kandarpa+sannibhaḥ)
 
 ## mukta-m0-p200-v4989
-from-dark-first-day to-new-moon offer and with-those
+[beginning-from-dark-first-day](kṛṣṇa+pratipad+ārambhāt) [until-new-moon](darśa+antaṃ) [one-should-offer](juhuyāt) [and](ca) [with-those](taiḥ)
 
 ## mukta-m0-p200-v4990
-in-those days fire jaggery honey-soaked offer
+[on-those](teṣu) [indeed](eva) [on-days](divaseṣu) [in-fire](agnau) [with-jaggery](guḍaiḥ) [with-honey+smeared](kṣaudra+āplutaiḥ) [one-should-offer](hunet)
 
 ## mukta-m0-p200-v4991
-with-grapes milk-sprinkled that-day-offering man
+[with-grapes](drākṣābhiḥ) [with-milk+sprinkled](dugdha+siktābhiḥ) [from-oblation-on-those-days](tat+dinaiḥ+havanāt) [a-person](naraḥ)
 
 ## mukta-m0-p200-v4992
-date-fruit-offering three-honey-anointed that-days
+[by-date-fruit+oblation](kharjūrī+phala+homena) [with-three-sweets+mixed](tri+madhva+aktena) [on-those-days](tat+dinaiḥ)
 
 ## mukta-m0-p200-v4993
-banana-fruit-offering likewise those-days and
+[by-banana-fruit+oblation](kadalī+phala+homena) [likewise](tathā) [on-those-days](tat+divaseṣu) [and](ca)
 
 ## mukta-m0-p200-v4994
-coconut-fruit-powder sugar-honey-accompanied
+[with-coconut-fruit+powders](nārikela+phala+kṣodaiḥ) [with-sugar+honey+accompanied](sitā+kṣaudra+samanvitaḥ)
 
 ## mukta-m0-p200-v4995
-with-those sugarcane-water-sprinkled offering that-days indeed
+[with-those](taiḥ) [with-sugarcane+juice+sprinkled](ikṣu+vāri+saṃsiktaiḥ) [from-oblation](havanāt) [on-those-days](tat+dineṣu) [indeed](vai)
 
 ## mukta-m0-p200-v4996
-with-all and those three-honey-anointed offering prosperity obtain
+[with-all](sarvaiḥ) [and](ca) [with-those](taiḥ) [with-three-sweets+mixed](tri+madhva+aktaiḥ) [from-oblation](havanāt) [prosperity](śriyam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p200-v4997
-buffalo-milk-sprinkled offering prescribed obtain
+[with-buffalo+milk+sprinkled](mahiṣī+kṣīra+saṃsiktaiḥ) [from-oblation](homāt) [desired-thing](iṣṭam) [one-obtains](avāpnuyāt)
 
 ## mukta-m0-p200-v4998
-coconut-fruit-powder-milk-anointed also with-those offer
+[with-coconut-fruit+powder+milk+mixed](nārikela+phala+kṣoda+kṣīra+āktaiḥ) [also](api) [with-those](taiḥ) [one-should-offer](hunet)
 
 ## mukta-m0-p200-v4999
-daily offering milk-honey-ghee accompanied
+[daily](nityaśaḥ) [from-oblation](havanāt) [with-milk+honey+ghee+accompanied](dugdha+kṣaudra+sarpiḥ+samanvitaiḥ)
 
 ## mukta-m0-p200-v5000
-cows-land-gold-garments with prosperous lives on-earth
+[with-cattle+land+gold+garments](go+bhū+hiraṇya+vāsobhiḥ) [prosperous](samṛddhaḥ) [lives](jīvati) [on-earth](kṣitau)
