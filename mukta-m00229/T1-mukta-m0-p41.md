@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p41-v1001
-[dance](nṛtyamajñatvadhi) [song](gītaṃ) [speech](vāk) [fullness](paripūrṇatā)
+[dance](nṛtyam) [ignorance+due-to](ajñatva+dhi) [*](* ) [*](* ) [*](* ) [song](gītaṃ) [speech](vāk) [fullness](paripūrṇatā)
 
 ## mukta-m0-p41-v1002
-[accomplished](sampannamityāhuḥ) [traditionalists](sāmpradāyikāḥ)
+[accomplished](sampannam) [thus](iti) [say](āhuḥ) [traditionalists](sāmpradāyikāḥ)
 
 ## mukta-m0-p41-v1003
-[fragrance](gandhapuṣpākṣatayavakuśāgratilasarṣapaiḥ)
+[fragrance+flower+unbroken-rice+barley+kuśa-grass+tip+sesame+mustard-seeds](gandha+puṣpa+akṣata+yava+kuśa+agra+tila+sarṣapaiḥ)
 
 ## mukta-m0-p41-v1004
-[washing](prakṣālyavāmato) [fire-circle](vahnimaṇḍale)
+[having-washed](prakṣālya) [to-the-left](vāmataḥ) [in-fire+circle](vahni+maṇḍale)
 
 ## mukta-m0-p41-v1005
-[counter-clockwise](pratilomena) [root-end](mūlānte) [matrka](mātṛkāṃ) [chanting](japan)
+[in-reverse-order](pratilomena) [at-root+end](mūla+ante) [mātṛkā](mātṛkāṃ) [muttering](japan)
 
 ## mukta-m0-p41-v1006
-[waters](toyairāpūrayecchuddhaiḥ) [yoga-scripture](yogaśāstraviśāradaḥ)
+[with-waters](toyair) [should-fill](āpūrayet) [with-pure](śuddhaiḥ) [yoga-scripture+versed](yoga+śāstra+viśāradaḥ)
 
 ## mukta-m0-p41-v1007
-[recite](paṭhantyeva) [rite](vidhāne) [matrka-mantra](mātṛkāmanoḥ)
+[recite](paṭhanti) [indeed](eva) [in-procedure](vidhāne) [of-mātṛkā+mantra](mātṛkā+manoḥ)
 
 ## mukta-m0-p41-v1008
-[considering](cintayitvā) [parts](kalāsteṣāṃ) [there](tatra) [there](tatra) [consider](vicintayet)
+[having-contemplated](cintayitvā) [digits](kalās) [of-them](teṣāṃ) [there](tatra) [there](tatra) [should-contemplate](vicintayet)
 
 ## mukta-m0-p41-v1009
-[sun-ray-part-self](divākarakalātmānaṃ) [thus](tathā) [sun-circle](vai) [bhānumaṇḍalam)
+[sun+digit+nature](divākara+kalā+ātmānaṃ) [likewise](tathā) [indeed](vai) [sun+circle](bhānu+maṇḍalam)
 
 ## mukta-m0-p41-v1010
-[known](vijñeyamaṃ) [second](dvitīyaṃ) [declared](prakīrtitam)
+[to-be-known](vijñeyam) [this](aṃ) [second](dvitīyaṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p41-v1011
-[invite](āvāhayettatto) [mantrin](mantrī) [tirtha-ankusha-mudra](tīrthamaṅkuśamudrayā)
+[should-invoke](āvāhayet) [then](tataḥ) [priest](mantrī) [sacred-water](tīrtham) [with-hook+gesture](aṅkuśa+mudrayā)
 
 ## mukta-m0-p41-v1012
-[presence](sannidhiṃkuru)
+[presence](sannidhiṃ) [make](kuru)
 
 ## mukta-m0-p41-v1013
-[middle](madhyamāṃ) [making](kṛtvā) [index-finger](tarjanīmadhyaparvaṇi)
+[middle-finger](madhyamāṃ) [having-made](kṛtvā) [on-index-finger+middle+joint](tarjanī+madhya+parvaṇi)
 
 ## mukta-m0-p41-v1014
-[there](tatreṣṭa) [deity](devatāṃ) [mantrin](mantrī) [from-own-heart-lotus](svīyahṛtkamalādapi)
+[there](tatra) [chosen+deity](iṣṭa+devatāṃ) [priest](mantrī) [from-own+heart+lotus](svīya+hṛt+kamalāt) [also](api)
 
 ## mukta-m0-p41-v1015
-[little-finger-thumb](kaniṣṭhāṅguṣṭhakau) [joined](saktau) [hands](karayoritaretaram)
+[little-finger+thumb](kaniṣṭhā+aṅguṣṭhakau) [joined](saktau) [of-two-hands](karayoḥ) [mutually](itaretaram)
 
 ## mukta-m0-p41-v1016
-[declared](proktā) [conch](śaṅkhasyoparicālitā)
+[declared](proktā) [of-conch](śaṅkhasya) [moved-over](uparicālitā)
 
 ## mukta-m0-p41-v1017
-[fragrance-root-mantra](surabhermūlamantreṇa) [consecrate](mantrayetsalilaṃ) [then](tataḥ)
+[of-surabhi](surabheḥ) [with-root+mantra](mūla+mantreṇa) [should-consecrate](mantrayet) [water](salilaṃ) [then](tataḥ)
 
 ## mukta-m0-p41-v1018
-[covering-mudra](avaguṇḍanamudreyamabhito) [revolved](bhrāmitā) [considered](matā)
+[covering+gesture](avaguṇḍana+mudrā) [this](iyam) [all-around](abhitaḥ) [rotated](bhrāmitā) [considered](matā)
 
 ## mukta-m0-p41-v1019
-[middle](madhyā) [cow-mudra](dhenumudrā) [declared](samīritā)
+[middle](madhyā) [cow+gesture](dhenu+mudrā) [declared](samīritā)
 
 ## mukta-m0-p41-v1020
-[fragrance-etc](gandhādyairhṛdā) [there](tatreṣṭadevatām)
+[with-fragrance+etc.](gandha+ādyaiḥ) [with-heart-mantra](hṛdā) [there](tatra) [chosen+deity](iṣṭa+devatām)
 
 ## mukta-m0-p41-v1021
-[touching](saṃspṛśannaṣṭavāraṃ) [root](mūlaṃ) [chant](japettataḥ)
+[touching](saṃspṛśan) [eight+times](aṣṭa+vāraṃ) [root-mantra](mūlaṃ) [should-mutter](japet) [then](tataḥ)
 
 ## mukta-m0-p41-v1022
-[conch](śaṃkha) [purification](saṃskaraṇe) [considered](matā)
+[in-conch+consecration](śaṃkha+saṃskaraṇe) [considered](matā)
 
 ## mukta-m0-p41-v1023
-[little-argha-water](kiñcidarghāmbu) [giving](dattvātra) [hand](hastenāṅgāni) [self](cātmanaḥ)
+[a-little](kiñcit) [arghya+water](arghā+ambu) [having-given](dattvā) [here](atra) [with-hand](hastena) [limbs](aṅgāni) [and](ca) [of-self](ātmanaḥ)
 
 ## mukta-m0-p41-v1024
-[base](ādhāre) [ganapati](gaṇapaṃ) [worship](yajet)
+[on-base](ādhāre) [gaṇapa](gaṇapaṃ) [should-worship](yajet)
 
 ## mukta-m0-p41-v1025
-[heart](hṛdaye) [middle](madhye) [brow](bhruvo) [root-mantra](mūlamanoryajet)
+[in-heart](hṛdaye) [in-middle](madhye) [of-eyebrows](bhruvoḥ) [root+mantra](mūla+manoḥ) [should-worship](yajet)

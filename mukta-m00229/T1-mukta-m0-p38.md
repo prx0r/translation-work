@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p38-v926
-[bathing](snāna) [dawn](saṃdhyā) [etc](ādike) [even](api) [thus](evam) [impermanence](anityatvaṃ) [will-be](bhaviṣyati)
+[bathing](snāna) [sandhyā-etc](saṃdhyā+ādike) [also](api) [thus](evam) [non-eternality](anityatvaṃ) [will-be](bhaviṣyati)
 
 ## mukta-m0-p38-v927
-[if](ced) [said](vācyaṃ) [truth-placement](tattvanyāse) [even](api) [what](kā) [course](gatiḥ)
+[if](cet) [to-be-said](vācyam) [in-that](tat) [element-installation](tattva+nyāse) [also](api) [what](kā) [course](gatiḥ)
 
 ## mukta-m0-p38-v928
-[in-Vaishnava-tantra](vaiṣṇavītantre) [truth-placement](tattvanyāsaṃ) [know](viduḥ) [wise](budhāḥ)
+[in-vaiṣṇava-tantra](vaiṣṇavī+tantre) [element-installation](tattva+nyāsam) [know](viduḥ) [the-wise](budhāḥ)
 
 ## mukta-m0-p38-v929
-[by-best-man](manuvaryeṇa) [which](yaṃ) [mantra](mantraṃ) [to-chant](japtum) [wishes](icchati)
+[by-the-best-of-men](manu+varyeṇa) [which](yam) [mantra](mantram) [to-repeat](japtum) [desires](icchati)
 
 ## mukta-m0-p38-v930
-[by-Shudras](śūdraiḥ) [and](ca) [should-be-done](kartavyo) [worldly-breath-control](laukikenāsusaṃyamaḥ)
+[by-śūdras](śūdraiḥ) [and](ca) [to-be-done](kartavyaḥ) [with-ordinary](laukikena) [breath-control](asu+saṃyamaḥ)
 
 ## mukta-m0-p38-v931
-[previously-said](pūrvoktā) [number](saṃkhyā) [for-incapable](aśaktasya) [and](ca) [otherwise](anyathā)
+[previously-stated](pūrva+uktā) [number](saṃkhyā) [for-the-incapable](aśaktasya) [and](ca) [otherwise](anyathā)
 
 ## mukta-m0-p38-v932
-[properly](yuktaṃ) [abandon](tyajet) [this](enam) [thus](evaṃ) [perfection](siddhim) [attain](avāpnuyāt)
+[proper](yuktam) [should-abandon](tyajet) [this](enam) [thus](evam) [success](siddhim) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p38-v933
-[retention](kumbhakaḥ) [that](tat) [fourfold](caturguṇaḥ)
+[retention](kumbhakaḥ) [that](tat) [four-times](catur+guṇaḥ)
 
 ## mukta-m0-p38-v934
-[exhalation-etc](recakādikam) [some](eke) [here](atra) [in-breath-control](prāṇāyāme) [order](kramaṃ) [know](viduḥ)
+[exhalation-etc](recaka+ādikam) [some](eke) [here](atra) [in-breath-control](prāṇa+āyāme) [order](kramam) [know](viduḥ)
 
 ## mukta-m0-p38-v935
-[that](tat) [invalid-inhalation-absence](asatpūrakābhāve) [exhalation-impossibility](recakānupapattitaḥ)
+[that](tat) [wrong](asat) [in-absence-of-inhalation](pūraka+abhāve) [because-of-impossibility-of-exhalation](recaka+anupapattitaḥ)
 
 ## mukta-m0-p38-v936
-[by-left-draw](iḍayā+karṣayet) [breath](vāyuṃ) [external](bāhyaṃ) [sixteen-matra](ṣoḍaśamātrayā)
+[through-iḍā](iḍayā) [should-draw](ākarṣayet) [air](vāyum) [external](bāhyam) [with-sixteen-measures](ṣoḍaśa+mātrayā)
 
 ## mukta-m0-p38-v937
-[breath-control](prāṇāyāmam) [this](imaṃ) [say](prāhuḥ) [thus](iti) [and](ca) [order-teaching](kramabodhanāt)
+[breath-control](prāṇa+āyāmam) [this](imam) [they-call](prāhuḥ) [thus](iti) [and](ca) [because-of-teaching-the-order](krama+bodhanāt)
 
 ## mukta-m0-p38-v938
-[moreover](kiṃca) [remainder](śeṣe) [in-breath-control](pavanasaṃyame)
+[moreover](kiṃca) [in-the-remainder](śeṣe) [in-breath-restraint](pavana+saṃyame)
 
 ## mukta-m0-p38-v939
-[son-request](putrayācanam)
+[asking-for-a-son](putra+yācanam)
 
 ## mukta-m0-p38-v940
-[then](tataḥ) [matrika](mātṛkāṃ) [place](nyaset) [thus](iti) [in-tantras](tantreṣu) [some](keṣucit)
+[then](tataḥ) [and](ca) [mātṛkā](mātṛkām) [should-install](nyasyet) [thus](iti) [in-tantras](tantreṣu) [in-some](keṣucit)
 
 ## mukta-m0-p38-v941
-[on-thighs](ūrvor) [etc](ādīn) [place](pravinyaset)
+[with-those](sayoḥ) [on-the-two-thighs](ūrvoḥ) [adharma-etc](adharma+ādīn) [should-place](pravinyaset)
 
 ## mukta-m0-p38-v942
-[pedestal-mantra-end](pīṭhamantrāntaṃ) [heart](hṛdi) [place](vinyasya) [him](taṃ) [remember](smaret)
+[up-to-the-pīṭha-mantra](pīṭha+mantra+antam) [in-the-heart](hṛdi) [having-installed](vinyasya) [him](tam) [should-remember](smaret)
 
 ## mukta-m0-p38-v943
-[rishi-etc](ṛṣyādīn) [up-to-viniyoga](viniyogāvadhi) [remember](smaret)
+[ṛṣi-etc](ṛṣi+ādīn) [up-to-application](viniyoga+avadhi) [should-remember](smaret)
 
 ## mukta-m0-p38-v944
-[its](tasya) [that-proclaimed](tatproktam) [rishi-nature](ṛṣerbhāvaḥ) [that-rishi-made](tadārṣakam)
+[of-that](tasya) [that](tat) [stated](proktam) [of-the-ṛṣi](ṛṣeḥ) [state](bhāvaḥ) [that-pertaining-to-the-ṛṣi](tat+ārṣakam)
 
 ## mukta-m0-p38-v945
-[concealed](saṃchāditaḥ) [by-gods](devaiḥ) [formerly](purā) [from-death](mṛtyoḥ) [indeed](tu) [fear](bhayāt)
+[concealed](saṃchāditaḥ) [by-the-gods](devaiḥ) [formerly](purā) [of-death](mṛtyoḥ) [indeed](tu) [verily](vai) [from-fear](bhayāt)
 
 ## mukta-m0-p38-v946
-[of-mantra](mantrasya) [that-appointed](taddiṣṭā) [which](yā) [indeed](tu) [deity](devatā)
+[of-the-mantra](mantrasya) [that](tat) [indicated](diṣṭā) [which](yā) [indeed](tu) [deity](devatā)
 
 ## mukta-m0-p38-v947
-[mantras](mantrāḥ) [for-action](karmārtham) [indeed](eva) [and](ca)
+[mantras](mantrāḥ) [for-the-sake-of-ritual-action](karma+artham) [indeed](eva) [and](ca)
 
 ## mukta-m0-p38-v948
-[rishi-meter-deity](ṛṣicchandodaivatāni) [head-face-heart](śirovadanahṛtsu) [in](ca)
+[ṛṣi-meter-deities](ṛṣi+chandas+daivatāni) [on-head-face-heart](śiras+vadana+hṛtsu) [and](ca)
 
 ## mukta-m0-p38-v949
-[that-rite-proclaimed](tatkalpasaṃproktaiḥ) [limb-mantras](aṅgamantraiḥ) [two-hands](karadvaye)
+[with-those-stated-in-that-kalpa](tat+kalpa+saṃproktaiḥ) [with-limb-mantras](aṅga+mantraiḥ) [on-the-two-hands](kara+dvaye)
 
 ## mukta-m0-p38-v950
-[salutation](namaḥ) [first](pūrva) [head](śirase) [fire-consort](vahnivallabhā)
+[namaḥ](namaḥ) [first](pūrvam) [to-the-head](śirase) [vahnivallabhā](vahni+vallabhā)
