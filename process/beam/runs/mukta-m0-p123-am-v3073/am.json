@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3073,
- "question": "What worldly and ultimate attainments result from disciplined practice?",
+ "question": "What ornaments characterize the divine form being described in this passage?",
  "premises": [
-  "The practitioner obtains fame in the worlds",
-  "The practitioner reaches the end of life",
-  "The practitioner obtains liberation at the end"
+  "The figure wears bright earrings.",
+  "The figure is adorned with a snake garland.",
+  "These are descriptive attributes of the form."
  ],
- "inference": "Having obtained fame in the worlds, the practitioner ultimately obtains liberation",
- "uncertainties": [],
- "plain_english": "Having obtained fame in the worlds, one obtains liberation in the end."
+ "inference": "The described divine form wears bright earrings and is adorned with a snake garland.",
+ "uncertainties": [
+  "The subject of this description is supplied by the surrounding context."
+ ],
+ "plain_english": "He wears bright earrings and is adorned with a garland of snakes."
 }

@@ -3,39 +3,34 @@
  "verse": 3072,
  "rows": [
   {
-   "lemma": "prātaḥ",
+   "lemma": "viṣṇu+lokam",
+   "morph": "m.acc.sg (compound)",
+   "grounds": "compound: viṣṇu and loka"
+  },
+  {
+   "lemma": "avāpya",
+   "morph": "(abs.)-ava-āp",
+   "grounds": "absolutive of ava-āp"
+  },
+  {
+   "lemma": "evaṃ",
    "morph": "(indecl.)",
-   "grounds": "first time of practice"
+   "grounds": "manner adverb"
   },
   {
-   "lemma": "madhyāhna",
-   "morph": "madhyāhna+kāla (compound member)",
-   "grounds": "second time of practice"
-  },
-  {
-   "lemma": "kāle",
-   "morph": "m.loc.sg madhyāhna+kāla (compound)",
-   "grounds": "designated period"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "tato",
    "morph": "(indecl.)",
-   "grounds": "connects times"
+   "grounds": "sequential adverb"
   },
   {
-   "lemma": "sāyāhne",
-   "morph": "m.loc.sg",
-   "grounds": "third time of practice"
+   "lemma": "mokṣam",
+   "morph": "m.acc.sg",
+   "grounds": "final attainment"
   },
   {
-   "lemma": "niyataḥ",
-   "morph": "m.nom.sg",
-   "grounds": "required personal state"
-  },
-  {
-   "lemma": "śuciḥ",
-   "morph": "m.nom.sg",
-   "grounds": "required ritual purity"
+   "lemma": "avāpnuyāt",
+   "morph": "3.sg.act.opt-ava-āp",
+   "grounds": "optative of ava-āp"
   }
  ]
 }

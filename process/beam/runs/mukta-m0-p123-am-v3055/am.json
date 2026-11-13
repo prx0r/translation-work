@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p123",
  "verse": 3055,
- "question": "What attainments arise within a month from this practice?",
+ "question": "Which mountain lies to the east of the river Kṣīrodā?",
  "premises": [
-  "The practice yields results within a month",
-  "One result is becoming a great poet",
-  "Another result is lordship over all siddhis"
+  "The location is east of Kṣīrodā.",
+  "The site is on a mountain.",
+  "The mountain is named Amarakaṇṭaka and Śarakaṇṭaka."
  ],
- "inference": "Within a month the practitioner becomes a great poet and lord of all siddhis",
- "uncertainties": [],
- "plain_english": "In a month one becomes a great poet and becomes the lord of all powers."
+ "inference": "The mountain Amarakaṇṭaka, also called Śarakaṇṭaka, lies east of Kṣīrodā.",
+ "uncertainties": [
+  "Whether Śarakaṇṭaka is a second name or a distinct place is unclear from this verse alone."
+ ],
+ "plain_english": "To the east of Kṣīrodā, on the mountain Amarakaṇṭaka, also called Śarakaṇṭaka."
 }
