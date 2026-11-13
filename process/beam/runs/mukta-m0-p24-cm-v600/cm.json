@@ -3,24 +3,39 @@
  "verse": 600,
  "rows": [
   {
-   "lemma": "kāma+vāgbhava+tārā+ādyā",
-   "morph": "compound: kāma+vāgbhava+tārā+ādyā (bahuvrīhi, f.nom.sg)",
-   "grounds": "bahuvrīhi compound describing the vidyā as having kāma, vāgbhava, and tārā as its initial elements; bīja names kept as mantra elements"
+   "lemma": "yaḥ",
+   "morph": "pron.m.nom.sg",
+   "grounds": "relative pronoun introducing the subject"
   },
   {
-   "lemma": "sapta+arṇā",
-   "morph": "compound: sapta+arṇa (bahuvrīhi, f.nom.sg)",
-   "grounds": "compound indicating a form consisting of seven syllables"
+   "lemma": "jñātā",
+   "morph": "m.nom.sg",
+   "grounds": "agent noun from √jñā"
   },
   {
-   "lemma": "aṣṭa+akṣarī",
-   "morph": "compound: aṣṭa+akṣara (bahuvrīhi, f.nom.sg)",
-   "grounds": "compound indicating a form consisting of eight syllables"
+   "lemma": "bhairavo",
+   "morph": "m.nom.sg",
+   "grounds": "name of the deity; sandhi form of bhairavaḥ before deva"
   },
   {
-   "lemma": "tridhā",
-   "morph": "(indecl.)",
-   "grounds": "adverbial form expressing threefold division of the vidyā"
+   "lemma": "deva",
+   "morph": "m.nom.sg",
+   "grounds": "epithet of Bhairava; sandhi form of devaḥ before śroto"
+  },
+  {
+   "lemma": "śroto",
+   "morph": "m.nom.sg",
+   "grounds": "locative sense in the transmission stream; sandhi form of śrotaḥ/śrote contextually before rudrasamaḥ"
+  },
+  {
+   "lemma": "rudrasamaḥ",
+   "morph": "compound:rudra+samāna;m.nom.sg",
+   "grounds": "compound expressing equivalence with Rudra"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "optative expressing resulting state"
   }
  ]
 }

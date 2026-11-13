@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p23",
  "verse": 554,
- "question": "How should the previous seed syllables be recited to Kālikā?",
+ "question": "What harmful effect occurs when contraction is performed on bhūtā day?",
  "premises": [
-  "The previous seed syllables are to be used.",
-  "They should be recited as before.",
-  "They should be muttered while reciting."
+  "The rite is performed on bhūtā day",
+  "Contraction is applied in a place",
+  "A person in that place is affected"
  ],
- "inference": "The earlier seed syllables must be muttered and recited in the same manner as before.",
- "uncertainties": [],
- "plain_english": "O Kālikā, one should mutter and recite the previous seed syllables as before."
+ "inference": "Contracting on bhūtā day causes a person in that place to become sick.",
+ "uncertainties": [
+  "bhūtāyāṃ refers to a specific lunar day but its exact calendrical identity is context-dependent"
+ ],
+ "plain_english": "On the bhūtā day, wherever one should perform contraction, there a person becomes sick."
 }
