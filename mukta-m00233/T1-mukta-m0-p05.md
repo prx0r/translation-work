@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[tad-ardha-vistṛtam](tadardhavistṛtaṃ) [ca](ca) [syāt](syād) [dvāram](dvāraṃ) [devālayeṣu](devālayeṣu) [vai](vai)
+[its-half+wide](tadardhavistṛtaṃ) [and](ca) [should-be](syād) [door](dvāraṃ) [in-god+abodes](devālayeṣu) [indeed](vai)
 
 ## mukta-m0-p05-v102
-[vāṃśakaiḥ](vāṃśakaistribhiḥ) [tribhiḥ](vāṃśakaistribhiḥ)
+[by-parts](vāṃśakaiḥ) [three](tribhiḥ)
 
 ## mukta-m0-p05-v103
-[labdha-utsedhe](labdhotsedhe) [tu](tu) [diṅ-nanda-vasu-saptāṃśake](diṅnandavasusaptāṃśake) [bhavet](bhavet)
+[obtained+height](labdhotsedhe) [indeed](tu) [in-directions+nine+eight+seven+parts](diṅnandavasusaptāṃśake) [should-be](bhavet)
 
 ## mukta-m0-p05-v104
-[ardha-maṇḍanaka-stambhau](ardhamaṇḍanakastambhau) [dvārasya](dvārasya) [ubhaya-pārśvayoḥ](dvārasyobhayapārśvayoḥ)
+[half+ornament+pillars](ardhamaṇḍanakastambhau) [of-door](dvārasya) [on-both+sides](ubhayapārśvayoḥ)
 
 ## mukta-m0-p05-v105
-[dvāra-vyāsa-uccam](dvāravyāsoccam) [akhilam](akhilamaṅgulicchedavarjitam) [aṅguli-ccheda-varjitam](akhilamaṅgulicchedavarjitam)
+[door+width+height](dvāravyāsoccam) [entire](akhilam) [finger+division+devoid](aṅgulicchedavarjitam)
 
 ## mukta-m0-p05-v106
-[rāma-vṛddhāni](rāmavṛddhāni) [manu-āptāni](manvāptāni) [vyayaḥ](vyayaḥ) [smṛtaḥ](smṛtaḥ)
+[rāma+increases](rāmavṛddhāni) [by-manu+obtained](manvāptāni) [remainder](vyayaḥ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p05-v107
-[triṃśat-āpte](triṃśadāpte) [tu](tu) [tithiḥ](tithirvāraṃ) [vāram](tithirvāraṃ) [ca](ca) [saptabhiḥ](saptabhiḥ)
+[by-thirty+obtained](triṃśadāpte) [indeed](tu) [lunar-day](tithiḥ) [or-weekday](vāraṃ) [and](ca) [by-seven](saptabhiḥ)
 
 ## mukta-m0-p05-v108
-[mārga-rūpa-taru-stambha-koṇa-viddham](mārgarūpatarustambhakoṇaviddhamaśobhanam) [aśobhanam](mārgarūpatarustambhakoṇaviddhamaśobhanam)
+[by-path+form+tree+pillar+corner+pierced](mārgarūpatarustambhakoṇaviddham) [inauspicious](aśobhanam)
 
 ## mukta-m0-p05-v109
-[dvāra-ucca-śeṣe](dvāroccaśeṣe) [pañca-aṃśe](paccāṃśe) [bhavet](bhavedaṃśadvayaṃ) [aṃśa-dvayam](bhavedaṃśadvayaṃ) [tu](tvadhaḥ) [adhaḥ](tvadhaḥ)
+[door+height+remainder](dvāroccaśeṣe) [five+parts](paccāṃśe) [should-be](bhavet) [two+parts](aṃśadvayaṃ) [indeed](tu) [below](adhaḥ)
 
 ## mukta-m0-p05-v110
-[śreṣṭha-madhya-adhamam](śreṣṭhamadhyādhamaṃ) [jñeyam](jñeyaṃ) [kramāt](kramāt) [sarveṣu](sarveṣu) [dhāmasu](dhāmasu)
+[best+middle+inferior](śreṣṭhamadhyādhamaṃ) [to-be-known](jñeyaṃ) [in-order](kramāt) [in-all](sarveṣu) [abodes](dhāmasu)
 
 ## mukta-m0-p05-v111
-[talpa-daṇḍasya](talpadaṇḍasya) [vistāraḥ](vistārastadardhaṃ) [tad-ardham](vistārastadardhaṃ) [tad-dhanam](taddhanaṃ) [bhavet](bhavet)
+[of-lintel+beam](talpadaṇḍasya) [width](vistāraḥ) [its-half](tadardhaṃ) [its-thickness](taddhanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p05-v112
-[bodhi-patram](bodhipatraṃ) [vā](vāpyaśvaskandhanavākṛtiḥ) [api](vāpyaśvaskandhanavākṛtiḥ) [aśva-skandha-nava-ākṛtiḥ](vāpyaśvaskandhanavākṛtiḥ)
+[bodhi+leaf](bodhipatraṃ) [or](vā) [also](api) [horse+shoulder+form](aśvaskandhanavākṛtiḥ)
 
 ## mukta-m0-p05-v113
-[kavāṭam](kavāṭaṃ) [ca](caiva) [eva](caiva) [yogaḥ](yogaścāpyekajātitarūdbhavau) [ca](yogaścāpyekajātitarūdbhavau) [api](yogaścāpyekajātitarūdbhavau) [eka-jāti-taru-udbhavau](yogaścāpyekajātitarūdbhavau)
+[door-leaf](kavāṭaṃ) [and](ca) [indeed](eva) [frame](yogaḥ) [and](ca) [also](api) [one+kind+tree+born](ekajātitarūdbhavau)
 
 ## mukta-m0-p05-v114
-[ca](ca) [syāt](syāt) [tasmāt](tasmānmiśraṃ) [miśram](tasmānmiśraṃ) [na](na) [kārayet](kārayet)
+[and](ca) [should-be](syāt) [therefore](tasmāt) [mixed](miśraṃ) [not](na) [should-make](kārayet)
 
 ## mukta-m0-p05-v115
-[caturdhā](caturdhā) [syuḥ](syuryugmaṃ) [yugmam](syuryugmaṃ) [ca](cāyugmameva) [ayugmam](cāyugmameva) [eva](cāyugmameva) [ca](ca)
+[fourfold](caturdhā) [should-be](syuḥ) [even](yugmaṃ) [and](ca) [odd](ayugmam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p05-v116
-[kavāṭa-yugalābhyām](kavāṭayugalābhyāṃ) [tu](tu) [sthitābhyām](sthitābhyāṃ) [vāma-dakṣiṇam](vāmadakṣiṇam)
+[by-door-leaf+pair](kavāṭayugalābhyāṃ) [indeed](tu) [by-two-standing](sthitābhyāṃ) [left+right](vāmadakṣiṇam)
 
 ## mukta-m0-p05-v117
-[sthitam](sthitaṃ) [tu](tvekamayugmākhyaṃ) [ekam](tvekamayugmākhyaṃ) [ayugma-ākhyam](tvekamayugmākhyaṃ) [kapāṭakam](kapāṭakam)
+[standing](sthitaṃ) [indeed](tu) [one](ekam) [odd+called](ayugmākhyaṃ) [door-panel](kapāṭakam)
 
 ## mukta-m0-p05-v118
-[kapāṭam](kapāṭaṃ) [tat](tad) [bhitti-gūḍham](bhittigūḍhaṃ) [ca](ca) [dhāvanam](dhāvanam)
+[door-panel](kapāṭaṃ) [that](tat) [wall+hidden](bhittigūḍhaṃ) [and](ca) [sliding](dhāvanam)
 
 ## mukta-m0-p05-v119
-[ca](cānyeṣāṃ) [anyeṣām](cānyeṣāṃ) [kavāṭāni](kavāṭāni) [bhavanti](bhavanti) [hi](hi)
+[and](ca) [of-others](anyeṣāṃ) [door-leaves](kavāṭāni) [are](bhavanti) [indeed](hi)
 
 ## mukta-m0-p05-v120
-[manuṣyāṇām](manuṣyāṇāṃ) [syāt](syādayugmābhireva) [ayugmābhiḥ](syādayugmābhireva) [eva](syādayugmābhireva) [hi](hi)
+[of-humans](manuṣyāṇāṃ) [should-be](syāt) [by-odd+ones](ayugmābhiḥ) [indeed](eva) [indeed](hi)
 
 ## mukta-m0-p05-v121
-[syāt](syāt) [kathyate](kathyate) [skandha-paṭṭikā](skandhapaṭṭikā)
+[should-be](syāt) [is-told](kathyate) [pillar+strip](skandhapaṭṭikā)
 
 ## mukta-m0-p05-v122
-[nānā-rūpa-latā-citrā](nānārūpalatācitrā) [caturaśrā](caturaśrā) [tu](tu) [nirvraṇā](nirvraṇā)
+[various+form+creeper+adorned](nānārūpalatācitrā) [four+cornered](caturaśrā) [indeed](tu) [flawless](nirvraṇā)
 
 ## mukta-m0-p05-v123
-[skandha-paṭṭikā](skandhapaṭṭikā) [yugma-praveśe](yugmapraveśe) [dakṣiṇa-āśritā](dakṣiṇāśritā)
+[pillar+strip](skandhapaṭṭikā) [even+entrance](yugmapraveśe) [right+resting](dakṣiṇāśritā)
 
 ## mukta-m0-p05-v124
-[śeṣam](śeṣamūrdhvaṃ) [ūrdhvam](śeṣamūrdhvaṃ) [kavāṭa-ādeḥ](kavāṭādermañjarībhiśca) [mañjarībhiḥ](kavāṭādermañjarībhiśca) [ca](kavāṭādermañjarībhiśca) [paṅkajaiḥ](paṅkajaiḥ)
+[remaining+upper](śeṣamūrdhvaṃ) [of-door-leaf+etc](kavāṭādeḥ) [with-clusters](mañjarībhiḥ) [and](ca) [with-lotuses](paṅkajaiḥ)
 
 ## mukta-m0-p05-v125
-[siṃha-ādibhiḥ](siṃhādibhirvyālairalaṅkuryād) [vyālaiḥ](siṃhādibhirvyālairalaṅkuryād) [alaṅkuryāt](siṃhādibhirvyālairalaṅkuryād) [yathā-ruci](yathāruci)
+[with-lions+etc](siṃhādibhiḥ) [with-vyālas](vyālaiḥ) [one-should-adorn](alaṅkuryād) [as+desired](yathāruci)

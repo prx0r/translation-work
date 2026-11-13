@@ -3,39 +3,49 @@
  "verse": 1358,
  "rows": [
   {
-   "lemma": "brahma",
-   "morph": "compound:brahma+first",
-   "grounds": "first member of compound with jñāne"
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "jñāne",
-   "morph": "n.loc.sg",
-   "grounds": "locative of circumstance"
+   "lemma": "vidyā",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "samutpanne",
-   "morph": "n.loc.sg.past-part(sam-ut-pad)",
-   "grounds": "locative absolute participle"
+   "lemma": "sthitā",
+   "morph": "f.nom.sg.past.pass.part √sthā",
+   "grounds": "present in all knowledge"
   },
   {
-   "lemma": "kṛtya",
-   "morph": "n.nom.sg",
-   "grounds": "first member of pair with ākṛtyaṃ"
+   "lemma": "nityā",
+   "morph": "f.nom.sg",
+   "grounds": "timeless nature"
   },
   {
-   "lemma": "ākṛtyaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "second member of pair"
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "na",
+   "lemma": "aṅgam",
+   "morph": "n.acc.sg",
+   "grounds": "entire body to be protected"
+  },
+  {
+   "lemma": "me",
+   "morph": "pron.gen.sg",
+   "grounds": "possessor of body"
+  },
+  {
+   "lemma": "sadā",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "continuous protection"
   },
   {
-   "lemma": "vidyate",
-   "morph": "3.sg.pass-pres(vid)",
-   "grounds": "present passive indicating existence"
+   "lemma": "avatu",
+   "morph": "3.sg.act-imperative √av",
+   "grounds": "benedictive wish"
   }
  ]
 }

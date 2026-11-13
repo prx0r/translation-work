@@ -3,34 +3,44 @@
  "verse": 1351,
  "rows": [
   {
-   "lemma": "niyama",
-   "morph": "compound:niyama+first",
-   "grounds": "first member of compound with aniyamena"
+   "lemma": "sva",
+   "morph": "compound-member",
+   "grounds": "reflexive possessive"
   },
   {
-   "lemma": "aniyamena",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental expressing manner; compound with niyama"
+   "lemma": "pārśve",
+   "morph": "n.loc.sg",
+   "grounds": "locative of place"
   },
   {
-   "lemma": "api",
+   "lemma": "bālikā",
+   "morph": "f.nom.sg",
+   "grounds": "female attendant"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "japann",
-   "morph": "m.nom.sg.pres-part(jap)",
-   "grounds": "present participle describing the practitioner"
+   "lemma": "asṛg",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "ādyāṃ",
+   "lemma": "dhārām",
    "morph": "f.acc.sg",
-   "grounds": "object of worship"
+   "grounds": "object of drinking"
   },
   {
-   "lemma": "prasādayet",
-   "morph": "3.sg.act-opt(pra-sad)",
-   "grounds": "optative expressing injunction"
+   "lemma": "pāyayatī",
+   "morph": "f.nom.sg.pres.act.part √pā-caus",
+   "grounds": "causative participle from √pā"
+  },
+  {
+   "lemma": "mudā",
+   "morph": "f.inst.sg",
+   "grounds": "manner"
   }
  ]
 }
