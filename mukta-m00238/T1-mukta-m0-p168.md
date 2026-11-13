@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p168-v4176
-[vināyaka](vināyaka) [ca](ca) [śrīkaṇṭha](śrīkaṇṭha) [kālī](kālī) [lakṣmī](lakṣmī) [sarasvatī](sarasvatī)
+[vināyakaḥ](vināyakaḥ) [and](ca) [śrīkaṇṭhaḥ](śrīkaṇṭhaḥ) [kālī](kālī) [+lakṣmīḥ](lakṣmīḥ) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p168-v4177
-[vārāhī](vārāhī) [ca](ca) [tathā](tathā) [indrāṇī](indrāṇī) [vaṭapatra-śayi](vaṭapatraśayi) [hari](hari)
+[vārāhī](vārāhī) [and](ca) [likewise](tathā) [indrāṇī](iṃdrāṇī) [vaṭa-leaf](vaṭa+patra) [+reclining](śayaḥ) [hariḥ](hariḥ)
 
 ## mukta-m0-p168-v4178
-[vaikuṇṭheśa](vaikuṇṭheśa) [hari](hari) [hara](hara) [ardhanārī](ardhanārī) [śamana](śamana) [matha](matha)
+[vaikuṇṭha-lord](vaikuṇṭheśaḥ) [harihara](hariharaḥ) [half](ardha) [+woman](nārī) [+lord](īśa) [and-manmatha](manmathau)
 
 ## mukta-m0-p168-v4179
-[liṅga-udbhava](liṃgodbhava) [gaja-hara](gajahara) [rāja-gopāla](rājagopāla) [iti](iti) [amū](amū)
+[liṅga-born](liṃgodbhavaḥ) [elephant-slayer](gajaharaḥ) [rāja-gopāla](rājagopāla) [thus](iti) [these](amūḥ)
 
 ## mukta-m0-p168-v4180
-[śuka](śuka) [nava-patra](navapatra) [cāmuṇḍā](cāmuṇḍā) [arpya](arpya) [ca](ca) [agratas](agratas)
+[of-parrots](śukānāṃ) [nine-leaves](nava+patrāṇi) [and](ca) [to-cāmuṇḍā](cāmuṇḍā) [+offered](arpyāṇi) [and](ca) [in-front](agrataḥ)
 
 ## mukta-m0-p168-v4181
-[tat-tat](tattat) [cihna](cihna) [anusāra](anusāra) [khelana](khelana) [vicakṣaṇa](vicakṣaṇa)
+[according-to-their-respective-marks](tat+tat+cihna+anusāreṇa) [to-be-played](khelanīyā) [by-the-skilled](vicakṣaṇaiḥ)
 
 ## mukta-m0-p168-v4182
-[caṇḍī](caṇḍī) [mukhya](mukhya) [ādi](ādi) [rājñī](rājñī) [śeṣa](śeṣa) [prāgvat](prāgvat) [bhavet](bhaved) [dhruvam](dhruvam)
+[with-caṇḍī-as-chief](caṇḍī+mukhyāt) [but](tu) [here](atra) [queen](rājñī) [the-rest](śeṣaṃ) [as-before](prāk+vat) [should-be](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p168-v4183
-[deva](deva) [anya](anya) [tu](tu) [tat](tat) [sattva](sattva) [śuka](śuka) [patrikā](patrikā) [api](api)
+[not-to-be-given](deyaḥ) [not](na) [another](anyaḥ) [but](tu) [in-its-presence](tat+sattve) [of-parrots](śukānāṃ) [on-leaves](patrikāsu) [also](api)
 
 ## mukta-m0-p168-v4184
-[catvāra](catvāra) [vā](vā) [pañca](pañca) [vā](vā) [asyuḥ](asyuḥ) [krīḍaka](krīḍaka) [atra](atra) [khelana](khelane)
+[four](catvāraḥ) [or](vā) [five](pañca) [or](vā) [may-be](syuḥ) [players](krīḍakāḥ) [but](tu) [in-this](atra) [game](khelane)
 
 ## mukta-m0-p168-v4185
-[bhāga](bhāga) [tu](tu) [viṃśati](viṃśati) [syuḥ](syurvai) [vai](vai) [catuṣ-patra](catuṣpatra) [krama](krameṇa) [ca](ca)
+[parts](bhāgāḥ) [but](tu) [twenty](viṃśatiḥ) [should-be](syuḥ) [indeed](vai) [in-four-leaf](catuṣ+patra) [sequence](krameṇa) [and](ca)
 
 ## mukta-m0-p168-v4186
-[cakravarti](cakravarti) [chada](chada) [iti](iti) [lakṣaye](lakṣaye) [cakravartin](cakravartinām)
+[emperor-leaf](cakravarti+cchadaḥ) [thus](iti) [one-should-mark](lakṣayet) [of-emperors](cakravartinām)
 
 ## mukta-m0-p168-v4187
-[sauvarṇa](sauvarṇa) [citra-varṇa](citravarṇa) [ca](ca) [pāṭala](pāṭala) [ca](ca) [eva](eva) [campaka](caṃpaka)
+[golden](sauvarṇaḥ) [and](ca) [variegated-colored](citra+varṇaḥ) [and](ca) [pale-red](pāṭalaḥ) [and](ca) [indeed](eva) [campaka-colored](caṃpakaḥ)
 
 ## mukta-m0-p168-v4188
-[pīta](pīta) [ca](ca) [varti-varṇa](vartivarṇa) [ca](ca) [hari](hari) [śveta](śveta) [saṃyuta](saṃyuta)
+[yellow](pītaḥ) [and](ca) [wick-colored](varti+varṇaḥ) [and](ca) [with-green-white](hari+cchvetena) [+joined](saṃyutaḥ)
 
 ## mukta-m0-p168-v4189
-[kṛṣṇa](kṛṣṇa) [ca](ca) [harita](harita) [śveta](śveta) [yuta](yuta) [varṇa](varṇa) [tu](tu) [pāṭala](pāṭala)
+[black](kṛṣṇaḥ) [and](ca) [green](haritaḥ) [white](śveta) [+joined](yutaḥ) [color](varṇaḥ) [but](tu) [pale-red](pāṭalaḥ)
 
 ## mukta-m0-p168-v4190
-[anya](anya) [vai](vai) [cakravarti](cakravarti) [śuka](śuka) [svarṇa-varṇaka](svarṇavarṇaka)
+[of-others](anyeṣāṃ) [indeed](vai) [emperor](cakravarti) [of-parrots](śukānāṃ) [golden](svarṇa) [+colored](varṇakaḥ)
 
 ## mukta-m0-p168-v4191
-[krīḍaka](krīḍaka) [atra](atra) [pañca](pañca) [asyuḥ](asyuḥ) [chada](chadā) [vā](vā) [saptati](saptati) [pṛthak](pṛthak)
+[players](krīḍakāḥ) [where](yatra) [five](pañca) [may-be](syuḥ) [leaves](chadāḥ) [or](vā) [seventy](saptatiḥ) [separately](pṛthak)
 
 ## mukta-m0-p168-v4192
-[bhāga](bhāga) [aṣṭādaśa](aṣṭādaśa) [evaṃ](evaṃ) [syuḥ](syuḥ) [krīḍaka](krīḍakāṇāṃ) [krama](krameṇa) [vai](vai)
+[parts](bhāgāḥ) [eighteen](aṣṭādaśa) [thus](evaṃ) [should-be](syuḥ) [of-players](krīḍakāṇāṃ) [in-sequence](krameṇa) [indeed](vai)
 
 ## mukta-m0-p168-v4193
-[kṛṣṇa-jāti](kṛṣṇajāti) [vibhāga](vibhāga) [antima](antima) [patra](patre) [tu](tu) [mohinī](mohinī)
+[in-the-divisions-of-black-class](kṛṣṇa+jāti+vibhāgeṣu) [in-the-last-leaf](antime+patre) [but](tu) [mohinī](mohinī)
 
 ## mukta-m0-p168-v4194
-[garutmat](garutmat) [patrikā](patrikā) [yena](yena) [khelana](khelanente) [pradīyate](pradīyate)
+[by-garutmat-leaf](garutmat+patrikāyena) [at-the-end-of-play](khelanante) [is-given](pradīyate)
 
 ## mukta-m0-p168-v4195
-[śaka](śaka) [śāli-vāhana](śālivāhana) [ṅa-ghaḍa](ṅaghaḍa) [indu](indu) [mita](mite) [śubha](śubhe)
+[in-the-śaka-era](śake) [of-śālīvāhana](śālīvāhanasya) [measured-by-nine-moon](ṅaghaḍendu+miteḥ) [in-the-auspicious](śubhe)
 
 ## mukta-m0-p168-v4196
-[śrī-cāmuṇḍā](śrīcāmuṇḍā) [ādi](ādi) [bhājā](bhājā) [kṛṣṇa-rāja](kṛṣṇarāja) [kṣamā-bhuja](kṣamābhujā)
+[by-śrī-cāmuṇḍā's-grace](śrī+cāmuṇḍā+dayā+bhājā) [by-kṛṣṇarāja-earth-ruler](kṛṣṇarāja+kṣamā+bhujā)
 
 ## mukta-m0-p168-v4197
-[rāma](rāma) [rāma](rāma) [ca](ca) [rāma](rāma) [ca](ca) [kṛṣṇa](kṛṣṇa) [kalkī](kalkī) [ca](ca) [mohinī](mohinī)
+[rāma](rāmā) [rāma](rāmaḥ) [carāma](carāmaḥ) [and](ca) [kṛṣṇa](kṛṣṇaḥ) [kalkī](kalkī) [and](ca) [mohinī](mohinī)
 
 ## mukta-m0-p168-v4198
-[rājā](rājā) [rājñī](rājñī) [ratha](ratha) [vā](vā) [aśva](aśva) [padāti](padāti) [dhvaja](dhvaja) [eva](eva) [ca](ca)
+[king](rājā) [queen](rājñī) [chariot](rathaḥ) [horse](vājī) [foot-soldier](padātiḥ) [flag](dhvajaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p168-v4199
-[ataḥ-param](ataḥparaṃ) [tu](tu) [vijñeya](vijñeyā) [cakravarti](cakravarti) [pada-aṅkita](padāṃkitāḥ)
+[thereafter](ataḥ+paraṃ) [but](tu) [to-be-known](vijñeyāḥ) [marked-with-emperor-rank](cakravarti+pada+aṃkitāḥ)
 
 ## mukta-m0-p168-v4200
-[gajānana](gajānana) [ca](ca) [senānī](senānī) [sūrya](sūrya) [candra](candra) [dig-īśvara](digīśvara)
+[elephant-faced](gajānanaḥ) [and](ca) [senānī](senānīḥ) [sun](sūryaḥ) [moon](candraḥ) [and-lords-of-directions](dik+īśvarāḥ)

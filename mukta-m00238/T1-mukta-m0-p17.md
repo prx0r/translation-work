@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-seven-mothers-deity there brahmi-gold-colored fearlessness-spear-rosary-vara-hand matted-crown-wearing swan-banner-vehicle all-ornament-adorned
+[seven-mothers-deity](saptamātṛkādevatāḥ) [there](tatra) [brāhmī](brāhmī) + [golden](hema) + [colored](varṇā) [fearlessness](abhaya) + [trident](śūla) + [rosary](akṣamālā) + [boon](vara) + [handed](hastā) [matted-hair](jaṭā) + [crown](makuṭa) + [wearing](dhāriṇī) [swan](haṃsa) + [banner](dhvaja) + [vehicle](vāhanā) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v402
-maheshvari red-colored fearlessness-spear-rosary-vara-hand matted-crown-wearing bull-banner-vehicle
+[māheśvarī](māheśvarī) [red](rakta) + [luster](ābhā) [fearlessness](abhaya) + [trident](śūla) + [rosary](akṣamālā) + [boon](vara) + [handed](hastā) [matted-hair](jaṭā) + [crown](makuṭa) + [wearing](dhāriṇā) [bull](vṛṣabha) + [banner](dhvaja) + [vehicle](vāhanā)
 
 ## mukta-m0-p17-v403
-kaumari red-glowing fearlessness-spear-cock-vara-hand peacock-banner-vehicle all-ornament-adorned
+[kaumārī](kaumārī) [reddish](aruṇa) + [radiance](prabhā) [fearlessness](abhaya) + [spear](śakti) + [rooster](kukkuṭa) + [boon](vara) + [handed](hastā) [peacock](mayūra) + [banner](dhvaja) + [vehicle](vāhanā) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v404
-vaishnavi dark fearlessness-conch-disc-vara-hand garuda-banner-vehicle all-ornament-adorned
+[vaiṣṇavī](vaiṣṇavī) [dark](śyāmā) [fearlessness](abhaya) + [conch](śaṃkha) + [discus](cakra) + [boon](vara) + [handed](hastā) [garuḍa](garuḍa) + [banner](dhvaja) + [vehicle](vāhanā) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v405
-varahi dark-colored boar-faced eight-armed from-right fearlessness-pestle-sword-disc-conch-shield-plow-vara-holding lion-mounted all-ornament-adorned
+[vārāhī](vārāhī) [dark](śyāma) + [colored](varṇā) [boar](varāha) + [faced](mukhī) [eight](aṣṭa) + [armed](bhujā) [from-the-right](dakṣiṇāditaḥ) [fearlessness](abhaya) + [mace](musala) + [sword](khaḍga) + [discus](cakra) + [conch](śaṃkha) + [shield](kheṭa) + [plough](hala) + [boon](vara) + [holding](dharā) [lion](siṃha) + [mounted](ārūḍhā) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v406
-mahendri red-colored four-armed fearlessness-spear-thunderbolt-vara-hand elephant-banner-vehicle all-ornament-adorned
+[māheṃdrī](māheṃdrī) [red](rakta) + [colored](varṇā) [four](catur) + [armed](bhujā) [fearlessness](abhaya) + [spear](śakti) + [thunderbolt](vajra) + [boon](vara) + [handed](hastā) [elephant](gaja) + [banner](dhvaja) + [vehicle](vāhanā) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v407
-chamunda red-colored four-armed fearlessness-skull-spear-vara-hand tiger-skin-garment all-ornament-adorned
+[cāmuṃḍā](cāmuṃḍā) [red](rakta) + [colored](varṇā) [four](catur) + [armed](bhujā) [fearlessness](abhaya) + [skull-cup](kapāla) + [trident](śūla) + [boon](vara) + [handed](hastā) [tiger](vyāghra) + [skin](carma) + [garment](āṃbara) + [wearing](dharā) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v408
-vishnu-deity lotus-filament-colored four-armed lotus-mace-disc-conch-holder yellow-garmented all-ornament-adorned standing
+[viṣṇu](viṣṇuḥ) + [deity](devatā) [lotus](padma) + [filament](kiṃjalka) + [resembling](nibhaḥ) [four](catur) + [armed](bhujaḥ) [lotus](padma) + [mace](gadā) + [discus](cakra) + [conch](śaṃkha) + [holding](dharaḥ) [yellow](pīta) + [garment](āṃbaraḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p17-v409
-achyuta-deity yellow-colored four-armed conch-lotus-disc-mace-holder with-shri-bhu all-ornament-adorned
+[acyuta](acyutaḥ) + [deity](devatā) [yellow](pīta) + [colored](varṇaḥ) [four](catur) + [armed](bhujaḥ) [conch](śaṃkha) + [lotus](padma) + [discus](cakra) + [mace](gadā) + [holding](dharaḥ) [śrī](śrī) + [bhū](bhū) + [accompanied](sahitaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v410
-purushottama-deity disc-lotus-conch-mace-holder four-armed crystal-colored all-ornament-adorned
+[puruṣottama](puruṣottamaḥ) + [deity](devatā) [discus](cakra) + [lotus](padma) + [conch](śaṃkha) + [mace](gadā) + [holding](dharaḥ) [four](catur) + [armed](bhujaḥ) [crystal](sphaṭika) + [colored](varṇaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v411
-atri-deity red-glowing matted-haired seated right-knowledge-mudra left-book-holding all-ornament-adorned
+[atri](atriḥ) + [deity](devatā) [reddish](aruṇa) + [radiance](prabhaḥ) [matted-hair](jaṭā) + [possessing](vān) [seated](āsīnaḥ) [in-the-right](dakṣiṇe) [knowledge](jñāna) + [gesture](mudrāṃ) [in-the-left](vāme) [book](pustakaṃ) [and](ca) [holding](dadhānaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v412
-kubera-deity white-glowing two-armed lotus-khali-hand horse-mounted all-jewel-adorned
+[kubera](kuberaḥ) + [deity](devatā) [white](sita) + [radiance](prabhaḥ) [two](dvi) + [armed](bhujaḥ) [lotus](padma) + [bridle](khalīna) + [handed](hastaḥ) [horse](turaṃga) + [mounted](ārūḍhaḥ) [all](sarva) + [ornament](ābharaṇa) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v413
-lambodara-deity red-glowing four-armed broken-tusk-noose-goad-great-fruit-hand elephant-faced all-jewel-adorned
+[laṃbodara](laṃbodaraḥ) + [deity](devatā) [reddish](aruṇa) + [radiance](prabhaḥ) [four](catur) + [armed](bhujaḥ) [broken](bhagna) + [tusk](daṃta) + [noose](pāśa) + [goad](aṃkuśa) + [great](mahā) + [fruit](phala) + [handed](hastaḥ) [elephant](gaja) + [faced](vaktraḥ) [all](sarva) + [ornament](ābharaṇa) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v414
-yoga-narasimha-deity gold-colored knees-above-extended-main-two-arms other-two disc-conch-holder all-ornament-adorned
+[yoga-nṛsiṃha](yoganṛsiṃhaḥ) + [deity](devatā) [gold](hema) + [resembling](nibhaḥ) [on-knee](jānu) + [above](upari) + [extended](prasārita) + [main](mukhya) + [arm](bāhu) + [pair](dvayaḥ) [with-the-other-two](itarābhyāṃ) [discus](cakra) + [conch](śaṃkha) + [holding](dharaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v415
-bhima-narahari-deity molten-gold-colored four-arms four-discs-holding flame-haired tusk-fierce-faced all-ornament-adorned
+[bhīma-nṛhari](bhīmanṛhariḥ) + [deity](devatā) [molten](tapta) + [gold](kāṃcana) + [resembling](sannibhaḥ) [with-four](caturbhiḥ) + [arms](bāhubhiḥ) + [four](catuḥ) + [discuses](cakrāṇi) [holding](dadhānaḥ) [flame](jvālā) + [hair](keśa) + [bearing](dharaḥ) [tusk](daṃṣṭrā) + [terrible](karāla) + [faced](vadanaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v416
-balarama-deity white-glowing two-armed right-plow-holding pendant-left-hand blue-garmented all-ornament-adorned
+[balarāma](balarāmaḥ) + [deity](devatā) [white](sita) + [radiance](prabhaḥ) [two](dvi) + [armed](bhujaḥ) [in-the-right](dakṣiṇe) + [plough](hala) + [holding](dharaḥ) [hanging](pralaṃba) + [left](vāma) + [hand](hastaḥ) [blue](nīla) + [garment](āṃbara) + [wearing](dharaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v417
-aforesaid-yoga-narasimha-deity otherwise-all like-pakara
+[previously-mentioned](pūrvokta) + [yoga-nṛsiṃha](yoganṛsiṃhaḥ) + [deity](devatā) [other](anyat) + [all](sarvaṃ) [as-before](pakāravat)
 
 ## mukta-m0-p17-v418
-narayana-deity dark-colored lotus-seated four-armed conch-disc-mace-lotus-holder with-shri-bhu all-jewel-adorned
+[nārāyaṇa](nārāyaṇaḥ) + [deity](devatā) [dark](śyāma) + [colored](varṇaḥ) [lotus](padma) + [seat](āsana) + [seated](sthaḥ) [four](catur) + [armed](bhujaḥ) [conch](śaṃkha) + [discus](cakra) + [mace](gadā) + [lotus](padma) + [holding](dharaḥ) [śrī](śrī) + [bhū](bhūbhyāṃ) + [accompanied](sahitaḥ) [all](sarva) + [ornament](ābharaṇa) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v419
-vayu-deity smoke-colored two-armed noose-banner-hand deer-mounted all-jewel-adorned
+[vāyu](vāyuḥ) + [deity](devatā) [smoky](dhūmra) + [colored](varṇaḥ) [two](dvi) + [armed](bhujaḥ) [goad](aṃkuśa) + [banner](dhvaja) + [handed](hastaḥ) [deer](hariṇa) + [mounted](ārūḍhaḥ) [all](sarva) + [ornament](ābharaṇa) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v420
-dhuma-dhvaja-deity red-colored right-four-handed left-three-handed clockwise ladle-spoon-rosary-spear-javelin-fan-ghee-vessel-holding three-footed two-headed all-ornament-adorned
+[dhūmadhvaja](dhūmadhvajaḥ) + [deity](devatā) [reddish](aruṇa) + [colored](varṇaḥ) [in-the-right](dakṣiṇe) [four](catur) + [handed](hastaḥ) [in-the-left](vāme) + [three](tri) + [handed](hastaḥ) [clockwise](prādakṣiṇyena) [ladle](sruk) + [spoon](sruva) + [rosary](akṣamālā) + [spear](śakti) + [javelin](tomara) + [fan](vyajana) + [ghee](ghṛta) + [vessel](pātra) + [holding](dharaḥ) [three](tri) + [footed](pād) [two](dvi) + [headed](śīrṣaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v421
-indra-deity cloud-dark four-armed fearlessness-thunderbolt-conch-vara-hand elephant-mounted all-ornament-adorned
+[iṃdra](iṃdraḥ) + [deity](devatā) [cloud](megha) + [dark](śyāmaḥ) [four](catur) + [armed](bhujaḥ) [fearlessness](abhaya) + [thunderbolt](vajra) + [conch](śaṃkha) + [boon](vara) + [handed](hastaḥ) [elephant](gaja) + [mounted](ārūḍhaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v422
-varuna-deity dark two-armed makara-vehicle-mounted right-noose-hand left-fearlessness-giving all-ornament-adorned
+[varuṇa](varuṇaḥ) + [deity](devatā) [dark](śyāmalaḥ) [two](dvi) + [armed](bhujaḥ) [makara](makara) + [vehicle](vāhana) + [mounted](ārūḍhaḥ) [in-the-right](dakṣiṇe) [noose](pāśa) + [handed](hastaḥ) [in-the-left](vāme) + [fearlessness](abhaya) + [giving](pradaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
 
 ## mukta-m0-p17-v423
-uma-deity dark-colored two-armed right-lotus-holding pendant-left-hand moon-crescent-ornamented all-ornament-adorned
+[umā](umā) + [deity](devatā) [dark](śyāma) + [colored](varṇā) [two](dvi) + [armed](bhujā) [in-the-right](dakṣiṇe) [lotus](padma) + [holding](dharā) [hanging](pralaṃba) + [left](vāma) + [hand](hastā) [moon](caṃdra) + [digit](kalā) + [possessing](vataṃ) [she](sā) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v424
-lakshmi-deity gold-glowing lotus-seated four-armed fearlessness-two-lotuses-vara-hand elephant-pair-raised-pot-nectar-abhisheka all-jewel-adorned
+[lakṣmī](lakṣmīḥ) + [deity](devatā) [golden](kāṃcana) + [radiance](prabhā) [lotus](padma) + [seat](āsana) + [seated](āsīnā) [four](catur) + [armed](bhujā) [fearlessness](abhaya) + [lotus](padma) + [pair](dvaya) + [boon](vara) + [handed](hastā) [elephant](gaja) + [pair](dvaya) + [lifted](samuddhṛta) + [pot](kuṃbha) + [nectar](amṛta) + [sprinkled](abhiṣiktā) [all](sarva) + [ornament](ābharaṇa) + [adorned](bhūṣitā)
 
 ## mukta-m0-p17-v425
-chandra-deity crystal-like lion-throne-seated two-armed two-lotuses-holding with-dark-held-lotus rohini-accompanied all-ornament-adorned
+[candra](candraḥ) + [deity](devatā) [crystal](sphaṭika) + [resembling](sannibhaḥ) [lion-throne](siṃhāsane) + [seated](samāsīnaḥ) [two](dvi) + [armed](bhujaḥ) [lily](kumuda) + [pair](dvaya) + [holding](dhārī) [dark](śyāmayā) [holding](dhṛta) + [lily](kumudayā) [rohiṇī](rohiṇyā) [accompanied](sahitaḥ) [all](sarva) + [ornament](alaṃkāra) + [adorned](bhūṣitaḥ)
