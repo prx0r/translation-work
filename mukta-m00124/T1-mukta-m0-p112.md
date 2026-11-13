@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[exit](nirgamaḥ) [and](tu) [by-two-parts](dvibhāgena) [width](vistāraḥ) [by-two-part-measure](dvyaṃśamānataḥ)
+[projection](nirgamaḥ) [indeed](tu) [by-two-parts](dvibhāgena) [width](vistāraḥ) [by-two-parts+measure](dvyaṃśa+mānataḥ)
 
 ## mukta-m0-p112-v2777
-[width](vistāre) [exit](nirgame) [and](ca) [indeed](eva) [division](vibhāgaḥ) [of-the-mandapa](maṇḍapasya) [and](tu)
+[in-width](vistāre) [in-projection](nirgame) [and](ca) [indeed](eva) [division](vibhāgaḥ) [of-maṇḍapa](maṇḍapasya) [indeed](tu)
 
 ## mukta-m0-p112-v2778
-[at-the-back](pṛṣṭhe) [and](ca) [of-the-mandapa](maṇḍapasya) [also](api) [at-the-sides](pārśvayoḥ) [at-the-front-region](agradeśake)
+[at-back](pṛṣṭhe) [and](ca) [of-maṇḍapa](maṇḍapasya) [also](api) [on-sides](pārśvayoḥ) [at-front+place](agra+deśake)
 
 ## mukta-m0-p112-v2779
-[closely-adjoined](saṃśliṣṭa) [by-doorways](vāra) [joined](saṃyuktam) [in-six](ṣaṭsu) [and](ca) [half-sabha-front](ardhasabhāmukham)
+[with-adjoined+enclosure+joined](saṃśliṣṭa+vāra+saṃyuktaṃ) [in-six](ṣaṭsu) [and](ca) [half-hall+faced](ardha+sabhā+mukham)
 
 ## mukta-m0-p112-v2780
-[this](etat) [alone](eva) [of-sabha-form](sabhākāra) [with-crest](śikharam) [with-mantra-preceding](mantrapūrvakam)
+[this](etat) [indeed](eva) [hall-shaped+spire](sabhā+kāra+śikharaṃ) [with-mantra+preceded](mantra+pūrvakam)
 
 ## mukta-m0-p112-v2781
-[complete](saṃpūrṇam) [thus](iti) [known](vikhyātam) [other](anyat) [all](sarvam) [and](tu) [as-before](pūrvavat)
+[complete](saṃpūrṇam) [thus](iti) [celebrated](vikhyātam) [other](anyat) [all](sarvaṃ) [indeed](tu) [as-before](pūrva+vat)
 
 ## mukta-m0-p112-v2782
-[like-the-front](mukhavat) [by-back-beauty-rich](pṛṣṭhaśobhāḍhyam) [with-all-ornaments-joined](sarvālaṅkārasaṃyutam)
+[like-face+back+beauty+endowed](mukha+vat+pṛṣṭha+śobhā+āḍhyaṃ) [with-all+ornaments+joined](sarva+alaṅkāra+saṃyutam)
 
 ## mukta-m0-p112-v2783
-[this](etat) [alone](eva) [of-sabha-form](sabhākāra) [with-crest](śikharam) [welfare](kṣemam) [is-called](ucyate)
+[this](etat) [indeed](eva) [hall-shaped+spire](sabhā+kāra+śikharaṃ) [welfare](kṣemam) [is-called](ucyate)
 
 ## mukta-m0-p112-v2784
-[with-front-projections-joined](agrabhaktisamāyuktam) [on-the-back-of-the-hall](śālāpṛṣṭhe) [and](ca) [at-the-sides](pārśvayoḥ)
+[with-front+section+joined](agra+bhakti+samāyuktaṃ) [at-hall+back](śālā+pṛṣṭhe) [and](ca) [on-sides](pārśvayoḥ)
 
 ## mukta-m0-p112-v2785
-[there](tatra) [alone](eva) [on-the-back-of-the-hall](śālāpṛṣṭhe) [and](ca) [at-the-two-eyes](netrayoḥ) [of-both](ubhayorapi)
+[there](tatra) [indeed](eva) [at-hall+back](śālā+pṛṣṭhe) [and](ca) [of-two-eyes](netrayoḥ) [on-both](ubhayoḥ) [also](api)
 
 ## mukta-m0-p112-v2786
-[that-that](tattat) [in-front](agre) [is-to-be-made](prakartavyam) [at-the-doorway](vāre) [of-bhadra](bhadrasya) [to-the-west](paścime)
+[at-each+front](tat+tat+agre) [should-be-made](prakartavyam) [in-enclosure](vāre) [of-projection](bhadrasya) [at-west](paścime)
 
 ## mukta-m0-p112-v2787
-[in-front](agre) [and](ca) [of-doorway](vāḥ) [a-platform](sthalam) [should-make](kuryāt) [of-two-or-three-parts](dvitryaṃśa) [in-length-and-width](āyāmavistaram)
+[at-front](agre) [and](ca) [or](vāḥ) [platform](sthalam) [one-should-make](kuryāt) [with-two-three-parts+length+width](dvi+tri+aṃśa+āyāma+vistaram)
 
 ## mukta-m0-p112-v2788
-[two-karṇakūṭas](karṇakūṭadvayam) [should-make](kuryāt) [made-of-four-parts](caturbhāgavinirmitam)
+[corner-kūṭa+pair](karṇa+kūṭa+dvayam) [one-should-make](kuryāt) [by-four-parts+constructed](catur+bhāga+vinirmitam)
 
 ## mukta-m0-p112-v2789
-[in-the-four-middle](caturmadhye) [at-the-four-corners](catuṣkoṇe) [of-sabha-form](sabhākāram) [should-arrange](prakalpayet)
+[in-four+middle](catur+madhye) [in-four-corners](catuṣkoṇe) [hall-shape](sabhā+kāram) [one-should-design](prakalpayet)
 
 ## mukta-m0-p112-v2790
-[this](etat) [alone](eva) [and](ca) [at-the-corner](karṇe) [and](tu) [made-as-karkarī-kūṭa](karkarīkṛtakūṭakam)
+[this](etat) [indeed](eva) [and](ca) [at-corner](karṇe) [indeed](tu) [made-as-karkarī+kūṭa](karkarī+kṛta+kūṭakam)
 
 ## mukta-m0-p112-v2791
-[this](etat) [alone](eva) [of-sabha-form](sabhākāra) [with-crest](śikharam) [a-mansion](harmyam) [is-considered](iṣyate)
+[this](etat) [indeed](eva) [hall-shaped+spire](sabhā+kāra+śikharaṃ) [temple](harmyam) [is-desired](iṣyate)
 
 ## mukta-m0-p112-v2792
-[all-limbs](sarvamaṅgam) [of-sabha-form](sabhākāram) [karṇakūṭa-except](karṇakūṭavivarjitam)
+[all+limbed](sarva+aṅgam) [hall-shaped](sabhā+kāram) [by-corner-kūṭa+devoid](karṇa+kūṭa+vivarjitam)
 
 ## mukta-m0-p112-v2793
-[in-breadth](viśāle) [six](ṣaṭ) [and](tu) [parts](bhāgam) [should-be](syāt) [in-length](āyāme) [of-ten-parts](daśabhāgakam)
+[in-width](viśāle) [six](ṣaṭ) [indeed](tu) [parts](bhāgam) [should-be](syāt) [in-length](āyāme) [ten+parts](daśa+bhāgakam)
 
 ## mukta-m0-p112-v2794
-[to-that](tat) [outside](bahih) [one-part-doorway](vāramekāṃśam) [to-that](tat) [outside](bāhye) [and](tu) [a-bull-platform](vṛṣasthalam)
+[outside-that](tat+bahiḥ) [enclosure](vāram) [one-part](eka+aṃśam) [outside-that](tat+bāhye) [indeed](tu) [bull+platform](vṛṣa+sthalam)
 
 ## mukta-m0-p112-v2795
-[four](catasraḥ) [and](tu) [sabhas](sabhāḥ) [are-to-be-made](kāryāḥ) [a-group-of-four-corner-kūṭas](koṇakūṭacatuṣṭayam)
+[four](catasraḥ) [indeed](tu) [halls](sabhāḥ) [should-be-made](kāryāḥ) [corner-kūṭa+quartet](koṇa+kūṭa+catuṣṭayam)
 
 ## mukta-m0-p112-v2796
-[at-the-two-eyes](netrayoḥ) [of-both](ubhayorapi) [and](ca) [at-the-doorway-platform-part](vārsthalāṃśe) [sabhas](sabhāḥ) [are-considered](mate)
+[of-two-eyes](netrayoḥ) [on-both](ubhayoḥ) [and](ca) [indeed](eva) [in-platform+part](vārsthala+aṃśe) [two-halls](sabhe) [are-considered](mate)
 
 ## mukta-m0-p112-v2797
-[of-four-or-six-parts](catuḥṣaḍaṃśa) [in-width-and-length](vistāradairghya) [a-bhadra](bhadram) [at-mouth](mukhe) [at-mouth](mukhe)
+[four-six-parts+width+length+projection](catuḥ+ṣaḍ+aṃśa+vistāra+dairghya+bhadram) [at-face](mukhe) [at-face](mukhe)
 
 ## mukta-m0-p112-v2798
-[doorway-platform](vārsthalam) [and](ca) [by-one-part](ekabhāgena) [at-the-sides](pārśvayoḥ) [of-both](ubhayorapi)
+[platform](vārsthalam) [and](ca) [by-one-part](eka+bhāgena) [on-sides](pārśvayoḥ) [on-both](ubhayoḥ) [also](api)
 
 ## mukta-m0-p112-v2799
-[in-the-middle-of-the-hall](śālāmadhye) [and](ca) [is-to-be-made](kartavyā) [by-two-parts](dvibhāgena) [by-one-part](ekabhāgataḥ)
+[in-hall+middle](śālā+madhye) [and](ca) [should-be-made](kartavyā) [by-two-parts](dvibhāgena) [by-one-part](eka+bhāgataḥ)
 
 ## mukta-m0-p112-v2800
-[this](etat) [alone](eva) [and](ca) [at-the-back](pṛṣṭhe) [and](tu) [if](yadi) [with-bhadra-joined](bhadrayuktam) [should-be](bhavet]
+[this](etat) [indeed](eva) [and](ca) [at-back](pṛṣṭhe) [indeed](tu) [with-projection+joined](bhadra+yuktam) [should-be](bhavet) [if](yadi)

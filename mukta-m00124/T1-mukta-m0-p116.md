@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[then](tad) [in-front](agre) [pavilion](maṇṭapam) [by-one-sixth-part](vedabhāgena) [indeed](eva) [by](tu) [made](nirmitam)
+[its-front](tadagre) [pavilion](maṇṭapaṃ) [by-four+parts](vedabhāgena) [indeed](eva) [and](tu) [constructed](nirmitam)
 
 ## mukta-m0-p116-v2877
-[on-sides](pārśvayoḥ) [of-pavilion](maṇṭapasya) [indeed](eva) [by-one-sixth-part](vedabhāgena) [open-court](vārsthalam)
+[on-sides](pārśvayoḥ) [of-pavilion](maṇṭapasya) [indeed](eva) [by-four+parts](vedabhāgena) [rain+area](vārsthalam)
 
 ## mukta-m0-p116-v2878
-[then](tad) [in-front](agre) [one-part](vāram) [one-sixth](ekāṃśam) [wall](kuḍyam) [and](ca) [also](api) [should-use](prayojayet)
+[its-front](tadagre) [enclosure](vāram) [one+part](ekāṃśaṃ) [wall](kuḍyaṃ) [and](ca) [also](api) [should-employ](prayojayet)
 
 ## mukta-m0-p116-v2879
-[front-hall](mukhaśālā) [should-be-made](prakartavyā) [especially](viśeṣeṇa) [like-a-vimāna](vimānavat)
+[front+hall](mukhaśālā) [should-be-made](prakartavyā) [especially](viśeṣeṇa) [like-vimāna](vimānavat)
 
 ## mukta-m0-p116-v2880
-[this](etat) [that](tat) [vardhamāna](vardhamānam) [should-be](syāt) [of-kings](bhūpālānām) [commended](praśaṃsitam)
+[this](etat) [that](tat) [vardhamāna](vardhamānaṃ) [should-be](syāt) [of-kings](bhūpālānāṃ) [praised](praśaṃsitam)
 
 ## mukta-m0-p116-v2881
-[delightful](manoramyam) [thus](iti) [famous](khyātam) [of-twice-born](dvijātīnām) [commended](praśaṃsitam)
+[manoramya](manoramyam) [thus](iti) [known](khyātaṃ) [of-twice-born](dvijātīnāṃ) [praised](praśaṃsitam)
 
 ## mukta-m0-p116-v2882
-[courtyard](aṅkaṇam) [with-veranda](sabhāram) [should-be](syāt) [bringing-prosperity](śrīkaram) [this](ca) [said](īritam)
+[courtyard](aṅkaṇaṃ) [and](tu) [with-beam](sabhāraṃ) [should-be](syāt) [śrīkara](śrīkaraṃ) [and](ca) [this](etat) [declared](īritam)
 
 ## mukta-m0-p116-v2883
-[courtyard](aṅkaṇam) [one-sixth-part](vedabhāgam) [should-be](syāt) [hall-extension](śālāvyāsaḥ) [two-parts](dvibhāgataḥ)
+[courtyard](aṅkaṇaṃ) [four+part](vedabhāgaṃ) [should-be](syāt) [hall+width](śālāvyāsaḥ) [two+part](dvibhāgataḥ)
 
 ## mukta-m0-p116-v2884
-[courtyard](aṅkaṇam) [with-veranda](sabhāram) [should-be](syāt) [main-house](mukhyāgāram) [and](tu) [store-room](koṣṭhakam)
+[courtyard](aṅkaṇaṃ) [and](tu) [with-beam](sabhāraṃ) [should-be](syāt) [main+chamber](mukhyāgāraṃ) [and](tu) [cell](koṣṭhakam)
 
 ## mukta-m0-p116-v2885
-[with-hall-entrance](śālāvaktra+samāyuktam) [that](tat) [bhadra](bhadram) [and](ca) [by-sequence-left-out](kramojjhitam)
+[with-hall+front+joined](śālāvaktrasamāyuktaṃ) [that](tat) [bhadra](bhadraṃ) [and](ca) [without-sequence](kramojjhitam)
 
 ## mukta-m0-p116-v2886
-[in-open-court](vārsthale) [two-wing-halls](bāhuśāle) [two](dve) [of-main-house](mukhyāgārasya) [on-sides](pārśvayoḥ)
+[in-rain+area](vārsthale) [side+halls](bāhuśāle) [two](dve) [of-main+chamber](mukhyāgārasya) [on-sides](pārśvayoḥ)
 
 ## mukta-m0-p116-v2887
-[around](paritaḥ) [one-part](vāram) [one-sixth](ekāṃśam) [with-veranda](sabhāram) [should-be](syāt) [water-place](jalasthalam)
+[all-around](paritaḥ) [enclosure](vāram) [one+part](ekāṃśaṃ) [with-beam](sabhāraṃ) [should-be](syāt) [water+area](jalasthalam)
 
 ## mukta-m0-p116-v2888
-[on-sides](pārśvayoḥ) [of-both](ubhayoḥ) [and](ca) [indeed](eva) [halls](śāle) [should-be-made](kārye) [by-experts](vicakṣaṇaiḥ)
+[on-sides](pārśvayoḥ) [on-both](ubhayoḥ) [and](ca) [indeed](eva) [halls](śāle) [should-be-made](kārye) [by-skilled](vicakṣaṇaiḥ)
 
 ## mukta-m0-p116-v2889
-[cluster-of-four-karṇakūṭas](karṇakūṭa+catuṣkam) [and](tu) [there](tatra) [in-corners](koṇeṣu) [should-cause-to-be-made](kārayet)
+[corner+kūṭa+quartet](karṇakūṭacatuṣkaṃ) [and](tu) [there](tatra) [in-corners](koṇeṣu) [one-should-make](kārayet)
 
 ## mukta-m0-p116-v2890
-[of-four-parts](caturbhāga+samāyāmam) [with-passage](savāram) [on-front-side](mukha+pārśvake)
+[four+part+equal+length](caturbhāgasamāyāmaṃ) [with-enclosure](savāraṃ) [on-front+sides](mukhapārśvake)
 
 ## mukta-m0-p116-v2891
-[eight-niches](nīḍa+aṣṭakam) [should-be-made](prakartavyam) [facing-directions](diśāmukham) [this](idam) [considered](matam)
+[nest+octet](nīḍāṣṭakaṃ) [should-be-made](prakartavyaṃ) [facing-directions](diśāmukham) [this](idam) [opinion](matam)
 
 ## mukta-m0-p116-v2892
-[courtyard](aṅkaṇam) [like-a-pavilion](maṇṭapa+ākāram) [by-name](nāmnā) [vast](vipulam) [is-called](ucyate)
+[courtyard](aṅkaṇaṃ) [pavilion+form](maṇṭapākāraṃ) [by-name](nāmnā) [vipula](vipulam) [is-called](ucyate)
 
 ## mukta-m0-p116-v2893
-[pavilion](maṇṭapam) [and](ca) [front-hall](agraśālā) [situated](stha) [two](dvayam) [having-left-out](hitvā) [and](tu) [kūṭaka](kūṭakam)
+[pavilion](maṇṭapaṃ) [and](ca) [front+hall+situated+two](agraśālāsthadvayaṃ) [having-left](hitvā) [and](tu) [kūṭa](kūṭakam)
 
 ## mukta-m0-p116-v2894
-[in-breadth](vistāre) [ten-parts](daśabhāgāḥ) [should-be](syuḥ) [in-length](āyāme) [twelve-parts](dvādaśa+aṃśakam)
+[in-width](vistāre) [ten+parts](daśabhāgāḥ) [should-be](syuḥ) [in-length](āyāme) [twelve+parts](dvādaśāṃśakam)
 
 ## mukta-m0-p116-v2895
-[of-courtyard](aṅkaṇasya) [in-front](puraḥ) [behind](pṛṣṭha) [passage](vāram) [by-one-part](ekāṃśataḥ) [should-be](bhavet)
+[of-courtyard](aṅkaṇasya) [in-front](puraḥ) [back](pṛṣṭha) [enclosure](vāram) [by-one+part](ekāṃśataḥ) [should-be](bhavet)
 
 ## mukta-m0-p116-v2896
-[outside](bahih) [rain-court](varṣasthalam) [and](ca) [one-part](eka+bhāgam) [by-part](bhāgena) [passage](vārakam)
+[outside+rain+area](bahirvarṣasthalaṃ) [and](ca) [one+part](ekabhāgaṃ) [by-part](bhāgena) [enclosure](vārakam)
 
 ## mukta-m0-p116-v2897
-[from-outside-rain-court](bahir+varṣasthalāt) [two-bhadras](bhadra+dvayam) [with-bhadra](bhadra+anvitam) [should-be](bhavet)
+[from-outside+rain+area](bahirvarṣasthalāt) [bhadra+pair](bhadradvayaṃ) [with-bhadra](bhadrānvitaṃ) [should-be](bhavet)
 
 ## mukta-m0-p116-v2898
-[of-them](tayoḥ) [in-middle](madhye) [in-order](anulomena) [hall-length](śālāyāmam) [here](iha) [is-desired](iṣyate)
+[of-those-two](tayoḥ) [in-middle](madhye) [in-sequence](anulomena) [hall+length](śālāyāmam) [here](iha) [is-desired](iṣyate)
 
 ## mukta-m0-p116-v2899
-[by-one-part](eka+bhāga) [interval](antarālena) [all](sarvāḥ) [halls](śālāḥ) [arranged](niveśitāḥ)
+[by-one+part+interval](ekabhāgāntarālena) [all](sarvāḥ) [halls](śālāḥ) [placed](niveśitāḥ)
 
 ## mukta-m0-p116-v2900
-[in-middle](madhye) [passages](vārāṇi) [desired](iṣṭam) [should-be](syāt) [elevated](ucchritam) [lord's-residence](svāmi+vāsakam)
+[in-middle](madhye) [of-enclosures](vārāṇām) [desired](iṣṭaṃ) [should-be](syāt) [elevated](ucchritaṃ) [lord+dwelling](svāmivāsakam)

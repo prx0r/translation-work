@@ -1,0 +1,1073 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "brahmāṇī",
+     "gloss": "brahmāṇī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavī",
+     "gloss": "vaiṣṇavī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūdrāṇī",
+     "gloss": "rudrāṇī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "declared or named",
+     "morph": "f.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "Which three goddesses are explicitly proclaimed in this enumeration?",
+   "premises": [
+    "brahmāṇī is named as one goddess",
+    "vaiṣṇavī is named as another goddess",
+    "rudrāṇī is proclaimed as the third"
+   ],
+   "inference": "The three goddesses proclaimed are brahmāṇī, vaiṣṇavī, and rudrāṇī.",
+   "uncertainties": [],
+   "plain_english": "Brahmāṇī, Vaiṣṇavī, and indeed Rudrāṇī are proclaimed."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yoga+dā",
+     "gloss": "yoga+giving",
+     "grounds": "compound: yoga+giver",
+     "morph": "compound: yoga+giving; f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "stated or taught",
+     "morph": "f.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāna+dā",
+     "gloss": "knowledge+giving",
+     "grounds": "compound: jñāna+giver",
+     "morph": "compound: jñāna+giving; f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "traditionally held",
+     "morph": "f.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "What distinct boons are assigned to the middle and final positions?",
+   "premises": [
+    "In the middle position she is declared yoga-giving",
+    "At the end she is remembered as knowledge-giving",
+    "The two positions confer different gifts"
+   ],
+   "inference": "The middle position grants yoga, while the final position grants knowledge.",
+   "uncertainties": [
+    "The subject is implied from the preceding verse."
+   ],
+   "plain_english": "In the middle she is declared to give yoga, and at the end she is remembered as giving knowledge."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "rudrāṇī",
+     "gloss": "rudrāṇī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavī+mantraḥ",
+     "gloss": "vaiṣṇavī+mantra",
+     "grounds": "compound: vaiṣṇavī+mantra",
+     "morph": "compound: vaiṣṇavī+mantra; m.nom.sg"
+    },
+    {
+     "surface": "catur+varga+phala+pradaḥ",
+     "gloss": "four+goals+fruit+giving",
+     "grounds": "compound: catur+varga+phala+giver",
+     "morph": "compound: catur+varga+phala+giving; m.nom.sg"
+    }
+   ],
+   "question": "What fruit does the vaiṣṇavī mantra associated with rudrāṇī bestow?",
+   "premises": [
+    "rudrāṇī is named in connection with the mantra",
+    "The mantra is identified as the vaiṣṇavī mantra",
+    "It is described as giving the fruit of the four goals"
+   ],
+   "inference": "The vaiṣṇavī mantra of rudrāṇī bestows the fruit of the four goals of life.",
+   "uncertainties": [],
+   "plain_english": "Rudrāṇī's Vaiṣṇavī mantra gives the fruit of the four goals."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "pha+kāre",
+     "gloss": "in-pha-syllable",
+     "grounds": "compound: pha+syllable, locative",
+     "morph": "compound: pha+syllable; m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ra+kāre",
+     "gloss": "in-ra-syllable",
+     "grounds": "compound: ra+syllable, locative",
+     "morph": "compound: ra+syllable; m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāda+bindu+samanvitā",
+     "gloss": "nāda+bindu+endowed-with",
+     "grounds": "compound: nāda+bindu+accompanied",
+     "morph": "compound: nāda+bindu+endowed-with; f.nom.sg"
+    }
+   ],
+   "question": "Which syllables are endowed with nāda and bindu in this formulation?",
+   "premises": [
+    "The pha syllable is specified",
+    "The ra syllable is specified",
+    "Both are endowed with nāda and bindu"
+   ],
+   "inference": "The syllables pha and ra are endowed with nāda and bindu.",
+   "uncertainties": [
+    "The subject endowed is implied from context."
+   ],
+   "plain_english": "In the syllables pha and ra, it is endowed with nāda and bindu."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "preta+bīja+samāyogāt",
+     "gloss": "from-preta-bīja-union",
+     "grounds": "compound: preta+bīja+union, ablative cause",
+     "morph": "compound: preta+bīja+union; m.abl.sg"
+    },
+    {
+     "surface": "pañca+pretaḥ",
+     "gloss": "five-pretas",
+     "grounds": "compound: five+pretas",
+     "morph": "compound: pañca+preta; m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "declared or named",
+     "morph": "m.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "What entity is proclaimed to arise from union with the preta bīja?",
+   "premises": [
+    "There is a union with the preta bīja",
+    "From this union something is proclaimed",
+    "That entity is called the five pretas"
+   ],
+   "inference": "From union with the preta bīja, the five pretas are proclaimed.",
+   "uncertainties": [],
+   "plain_english": "From union with the preta bīja, the five pretas are proclaimed."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "hamaṃ",
+     "gloss": "haṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāma+svarūpaḥ",
+     "gloss": "desire-form",
+     "grounds": "compound: kāma+own-form",
+     "morph": "compound: kāma+svarūpa; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalarī+rājya+bhoga+dā",
+     "gloss": "kalarī-kingdom-enjoyment-giving",
+     "grounds": "compound: kalarī+rājya+bhoga+giver",
+     "morph": "compound: kalarī+rājya+bhoga+giving; f.nom.sg"
+    }
+   ],
+   "question": "What nature and boon are attributed to the syllable haṃ?",
+   "premises": [
+    "The syllable haṃ is identified",
+    "It is described as having the form of desire",
+    "It is said to give enjoyment of the kalarī kingdom"
+   ],
+   "inference": "The syllable haṃ has the form of desire and grants enjoyment of the kalarī kingdom.",
+   "uncertainties": [
+    "The term kalarī is retained as a technical name."
+   ],
+   "plain_english": "Haṃ is of the nature of desire and gives enjoyment of the kalarī kingdom."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "nāda",
+     "gloss": "nāda",
+     "grounds": "subtle sound principle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "śakti",
+     "grounds": "power principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "subtle phase principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bindu+rūpaḥ",
+     "gloss": "bindu-form",
+     "grounds": "compound: bindu+form",
+     "morph": "compound: bindu+rūpa; m.nom.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadāśiva",
+     "grounds": "name of a deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is sadāśiva identified in relation to nāda, śakti, kalā, and bindu?",
+   "premises": [
+    "nāda, śakti, and kalā are named",
+    "sadāśiva is described as having the form of bindu",
+    "These principles are presented together"
+   ],
+   "inference": "Sadāśiva is identified as having the form of bindu in relation to nāda, śakti, and kalā.",
+   "uncertainties": [
+    "The exact syntactic relation among nāda, śakti, and kalā is compressed."
+   ],
+   "plain_english": "Nāda, śakti, and kalā indeed, and Sadāśiva is of the form of bindu."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "aṣṭa+varga+pradaḥ+mantraḥ",
+     "gloss": "eight-groups-giving-mantra",
+     "grounds": "compound: aṣṭa+varga+giver+mantra",
+     "morph": "compound: aṣṭa+varga+prada+mantra; m.nom.sg"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "one who practices",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantra+nāyakaḥ",
+     "gloss": "mantra-lord",
+     "grounds": "compound: mantra+leader",
+     "morph": "compound: mantra+nāyaka; m.nom.sg"
+    }
+   ],
+   "question": "What status does the practitioner attain through the mantra granting eight groups?",
+   "premises": [
+    "The mantra is described as giving eight groups",
+    "The practitioner is mentioned in this context",
+    "The practitioner is called lord of the mantra"
+   ],
+   "inference": "Through the mantra that grants the eight groups, the practitioner becomes lord of the mantra.",
+   "uncertainties": [
+    "The meaning of the eight groups is not specified here."
+   ],
+   "plain_english": "The mantra gives the eight groups, and the practitioner becomes lord of the mantra."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "auṃ+kāreṇa",
+     "gloss": "with-oṃ-syllable",
+     "grounds": "compound: auṃ+syllable, instrumental",
+     "morph": "compound: auṃ+kāra; m.ins.sg"
+    },
+    {
+     "surface": "sa+kāreṇa",
+     "gloss": "with-sa-syllable",
+     "grounds": "compound: sa+syllable, instrumental",
+     "morph": "compound: sa+kāra; m.ins.sg"
+    },
+    {
+     "surface": "rasanā",
+     "gloss": "tongue",
+     "grounds": "organ of speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃyutā",
+     "gloss": "joined",
+     "grounds": "united or combined",
+     "morph": "f.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which syllables are joined with the tongue in this instruction to the beloved?",
+   "premises": [
+    "The oṃ syllable is specified",
+    "The sa syllable is specified",
+    "The tongue is joined with them"
+   ],
+   "inference": "The tongue is joined with the syllables oṃ and sa.",
+   "uncertainties": [],
+   "plain_english": "O beloved, the tongue is joined with the syllables oṃ and sa."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava",
+     "grounds": "bīja or seed principle, transliterated name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāma+vījañ",
+     "gloss": "kāma-bīja",
+     "grounds": "compound: kāma+bīja, transliterated",
+     "morph": "compound: kāma+vīja; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sau+kāraḥ",
+     "gloss": "sau-syllable",
+     "grounds": "compound: sau+syllable",
+     "morph": "compound: sau+kāra; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which mantra components are enumerated in this address to the great goddess?",
+   "premises": [
+    "vāgbhava is named",
+    "kāma bīja is named",
+    "The sau syllable is named"
+   ],
+   "inference": "The enumerated components are vāgbhava, the kāma bīja, and the sau syllable.",
+   "uncertainties": [
+    "The form kāma+vījañ is retained as given."
+   ],
+   "plain_english": "O great goddess, vāgbhava, the kāma bīja, and the sau syllable."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vālikāyāḥ",
+     "gloss": "of-vālikā",
+     "grounds": "name or epithet, possessive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp.act"
+    },
+    {
+     "surface": "nitasvini",
+     "gloss": "ever-graceful",
+     "grounds": "vocative epithet",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What specific mantra is the listener asked to hear regarding vālikā?",
+   "premises": [
+    "The listener is addressed as ever-graceful",
+    "A command to hear is given",
+    "The mantra of vālikā alone is specified"
+   ],
+   "inference": "The listener is asked to hear only the mantra of vālikā.",
+   "uncertainties": [
+    "The identity of vālikā is not explained here."
+   ],
+   "plain_english": "O ever-graceful one, hear only the mantra of Vālikā."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "ha+sa+kārān",
+     "gloss": "ha-sa-syllables",
+     "grounds": "compound: ha+sa+syllables, accusative plural",
+     "morph": "compound: ha+sa+kāra; m.acc.pl"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "māyā+vījañ",
+     "gloss": "māyā-bīja",
+     "grounds": "compound: māyā+bīja, transliterated",
+     "morph": "compound: māyā+vīja; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījakam",
+     "gloss": "seed",
+     "grounds": "bīja syllable",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which syllabic elements are specified as seeds in this address to the great goddess?",
+   "premises": [
+    "The ha and sa syllables are named",
+    "The māyā bīja is named",
+    "A seed element is explicitly mentioned"
+   ],
+   "inference": "The ha-sa syllables, the māyā bīja, and a seed are specified.",
+   "uncertainties": [
+    "The form māyā+vījañ is retained as given."
+   ],
+   "plain_english": "O great goddess, the syllables ha and sa, the māyā bīja, and the seed."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "kala+vījaṃ",
+     "gloss": "kala-bīja",
+     "grounds": "compound: kala+bīja",
+     "morph": "compound: kala+vīja; n.acc.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vargeṇaḥ",
+     "gloss": "by-group",
+     "grounds": "instrumental of classification",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "declared or named",
+     "morph": "m.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "How is the kala bīja proclaimed in relation to the group classification?",
+   "premises": [
+    "The kala bīja is named",
+    "A group classification is mentioned",
+    "The kala bīja is proclaimed in that context"
+   ],
+   "inference": "The kala bīja is proclaimed by means of the group classification.",
+   "uncertainties": [
+    "The form vargeṇaḥ is unusual and retained as given."
+   ],
+   "plain_english": "O great goddess, the kala bīja is proclaimed by the group."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "daśa+akṣarī",
+     "gloss": "ten-syllabled",
+     "grounds": "compound: ten+syllables",
+     "morph": "compound: daśa+akṣara; f.nom.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-knowledge",
+     "grounds": "compound: great+vidyā",
+     "morph": "compound: mahā+vidyā; f.nom.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal scope",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "siddhi+dā",
+     "gloss": "accomplishment-giving",
+     "grounds": "compound: siddhi+giver",
+     "morph": "compound: siddhi+giving; f.nom.sg"
+    },
+    {
+     "surface": "smṛntrā",
+     "gloss": "remembered",
+     "grounds": "traditionally held",
+     "morph": "f.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "What power is attributed to the ten-syllabled great vidyā for all beings?",
+   "premises": [
+    "A ten-syllabled great vidyā is identified",
+    "It is related to all beings",
+    "It is remembered as giving accomplishment"
+   ],
+   "inference": "The ten-syllabled great vidyā is remembered as granting accomplishment to all.",
+   "uncertainties": [
+    "The form smṛntrā is retained as given."
+   ],
+   "plain_english": "The ten-syllabled great vidyā is remembered as giving accomplishment to all."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "nava+kūṭā",
+     "gloss": "nine-parted",
+     "grounds": "compound: nine+sections",
+     "morph": "compound: nava+kūṭa; f.nom.sg"
+    },
+    {
+     "surface": "mahā+vidyā",
+     "gloss": "great-knowledge",
+     "grounds": "compound: great+vidyā",
+     "morph": "compound: mahā+vidyā; f.nom.sg"
+    },
+    {
+     "surface": "nava+siddhi+phala+pradā",
+     "gloss": "nine-accomplishments-fruit-giving",
+     "grounds": "compound: nava+siddhi+phala+giver",
+     "morph": "compound: nava+siddhi+phala+prada; f.nom.sg"
+    }
+   ],
+   "question": "What specific fruit is bestowed by the nine-parted great vidyā?",
+   "premises": [
+    "A nine-parted great vidyā is identified",
+    "It is described as giving fruit",
+    "That fruit consists of nine accomplishments"
+   ],
+   "inference": "The nine-parted great vidyā bestows the fruit of nine accomplishments.",
+   "uncertainties": [],
+   "plain_english": "The nine-parted great vidyā gives the fruit of the nine accomplishments."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "nava+akṣarī",
+     "gloss": "nine-syllabled",
+     "grounds": "compound: nine+syllables",
+     "morph": "compound: nava+akṣara; f.nom.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "name of a goddess or vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava+siddhi+pradāyinī",
+     "gloss": "nine-accomplishments-giving",
+     "grounds": "compound: nava+siddhi+giver",
+     "morph": "compound: nava+siddhi+pradāyinī; f.nom.sg"
+    }
+   ],
+   "question": "What accomplishment-granting power is attributed to the nine-syllabled bhairavī?",
+   "premises": [
+    "A nine-syllabled bhairavī is identified",
+    "She is described as giving accomplishments",
+    "The accomplishments are specified as nine"
+   ],
+   "inference": "The nine-syllabled bhairavī grants the nine accomplishments.",
+   "uncertainties": [],
+   "plain_english": "The nine-syllabled Bhairavī gives the nine accomplishments."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "ai+kāraṃ",
+     "gloss": "ai-syllable",
+     "grounds": "compound: ai+syllable, accusative",
+     "morph": "compound: ai+kāra; m.acc.sg"
+    },
+    {
+     "surface": "māyayā",
+     "gloss": "with-māyā",
+     "grounds": "instrumental, māyā bīja implied",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "puṭitaṃ",
+     "gloss": "enclosed",
+     "grounds": "encased or surrounded",
+     "morph": "m.acc.sg.past-passive-participle"
+    },
+    {
+     "surface": "śata+dhā",
+     "gloss": "hundred-times",
+     "grounds": "compound: hundred+times",
+     "morph": "compound: śata+dhā; (indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What recitation practice is prescribed for the ai syllable enclosed with māyā?",
+   "premises": [
+    "The ai syllable is specified",
+    "It is enclosed with māyā",
+    "Recitation a hundred times is prescribed"
+   ],
+   "inference": "One should recite the ai syllable enclosed with māyā a hundred times.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should recite the ai syllable enclosed with māyā a hundred times."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "kinneti",
+     "gloss": "kinneti",
+     "grounds": "mantra name or formula, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣa+dā+mantro",
+     "gloss": "liberation-giving-mantra",
+     "grounds": "compound: mokṣa+giver+mantra",
+     "morph": "compound: mokṣa+dā+mantra; m.nom.sg"
+    },
+    {
+     "surface": "mahā+mantraḥ",
+     "gloss": "great-mantra",
+     "grounds": "compound: great+mantra",
+     "morph": "compound: mahā+mantra; m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "declared or named",
+     "morph": "m.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "What status and liberating function are proclaimed for the kinneti mantra?",
+   "premises": [
+    "The kinneti mantra is named",
+    "It is described as giving liberation",
+    "It is proclaimed as a great mantra"
+   ],
+   "inference": "The kinneti mantra is proclaimed as a great mantra that gives liberation.",
+   "uncertainties": [
+    "The form kinneti is retained as a mantra designation."
+   ],
+   "plain_english": "The kinneti mantra is proclaimed as a liberation-giving great mantra."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "anna+dā",
+     "gloss": "food-giving",
+     "grounds": "compound: anna+giver",
+     "morph": "compound: anna+giving; f.nom.sg"
+    },
+    {
+     "surface": "mokṣa+dā",
+     "gloss": "liberation-giving",
+     "grounds": "compound: mokṣa+giver",
+     "morph": "compound: mokṣa+giving; f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "certainly",
+     "grounds": "affirmation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which dual boons are certainly attributed to bhairavī in this address?",
+   "premises": [
+    "Bhairavī is named as the subject",
+    "She is described as giving food",
+    "She is described as giving liberation"
+   ],
+   "inference": "Bhairavī certainly gives both food and liberation.",
+   "uncertainties": [],
+   "plain_english": "O beloved, Bhairavī certainly gives food and gives liberation."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "namo",
+     "gloss": "homage",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavatī",
+     "gloss": "to-bhagavatī",
+     "grounds": "epithet of goddess",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+kāma+phala+pradā",
+     "gloss": "all-desires-fruit-giving",
+     "grounds": "compound: sarva+kāma+phala+giver",
+     "morph": "compound: sarva+kāma+phala+prada; f.nom.sg"
+    }
+   ],
+   "question": "What universal boon is attributed to the goddess receiving homage?",
+   "premises": [
+    "Homage is offered to the goddess bhagavatī",
+    "She is described as giving fruit",
+    "That fruit encompasses all desires"
+   ],
+   "inference": "The goddess receiving homage grants the fruit of all desires.",
+   "uncertainties": [],
+   "plain_english": "Homage to the goddess Bhagavatī, who gives the fruit of all desires."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "śrī+vīja+puṭitena",
+     "gloss": "with-śrī-bīja-enclosed",
+     "grounds": "compound: śrī+vīja+enclosed, instrumental",
+     "morph": "compound: śrī+vīja+puṭita; n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śata+m+aṣṭottaraṃ",
+     "gloss": "hundred-eight-times",
+     "grounds": "compound: hundred+eight+more",
+     "morph": "compound: śata+aṣṭottara; n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What recitation count is prescribed when using the enclosure of the śrī bīja?",
+   "premises": [
+    "The recitation is enclosed with the śrī bīja",
+    "A specific count is prescribed",
+    "That count is one hundred and eight times"
+   ],
+   "inference": "One should recite it one hundred and eight times enclosed with the śrī bīja.",
+   "uncertainties": [
+    "The form śata+m+aṣṭottaraṃ is retained as given."
+   ],
+   "plain_english": "One should recite it one hundred and eight times, enclosed with the śrī bīja."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "kiñcit",
+     "gloss": "something",
+     "grounds": "indefinite amount",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "spoken or explained",
+     "morph": "n.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "prāṇa+vallabhe",
+     "gloss": "life-beloved",
+     "grounds": "compound: prāṇa+beloved, vocative",
+     "morph": "compound: prāṇa+vallabha; f.voc.sg"
+    }
+   ],
+   "question": "What extent of teaching is acknowledged as having been told to the beloved?",
+   "premises": [
+    "The beloved is addressed with honorific vocatives",
+    "Something has been told",
+    "The amount told is described as only something small"
+   ],
+   "inference": "Only something of the teaching has been told to the beloved.",
+   "uncertainties": [],
+   "plain_english": "O great lady, O beloved of my life, only something has indeed been told."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kubjikā+tantre",
+     "gloss": "in-kubjikā-tantra",
+     "grounds": "compound: kubjikā+tantra, locative",
+     "morph": "compound: kubjikā+tantra; n.loc.sg"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section of text",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Kubjikā Tantra is concluded by this colophon?",
+   "premises": [
+    "The text is identified as the Kubjikā Tantra",
+    "A chapter is being concluded",
+    "It is specified as the third chapter"
+   ],
+   "inference": "This colophon concludes the third chapter of the Kubjikā Tantra.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the third chapter in the Kubjikā Tantra."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyaṃ",
+     "gloss": "to-be-revealed",
+     "grounds": "gerundive of disclosure",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyaṃ",
+     "gloss": "to-be-revealed",
+     "grounds": "gerundive of disclosure",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What restriction on disclosure is emphatically imposed regarding this teaching?",
+   "premises": [
+    "The teaching is addressed to the great goddess",
+    "Disclosure is negated twice for emphasis",
+    "The prohibition applies at any time"
+   ],
+   "inference": "This teaching must never be revealed at any time.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, it must not be revealed; it must never be revealed."
+  }
+ ]
+}

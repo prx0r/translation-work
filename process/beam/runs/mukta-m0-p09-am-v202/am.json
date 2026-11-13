@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p09",
  "verse": 202,
- "question": "Which vowel syllables are to be placed in the heart during this installation?",
+ "question": "What distinct boons are assigned to the middle and final positions?",
  "premises": [
-  "A sequence of vowel syllables is enumerated.",
-  "The heart is specified as the locus.",
-  "The act prescribed is placement."
+  "In the middle position she is declared yoga-giving",
+  "At the end she is remembered as knowledge-giving",
+  "The two positions confer different gifts"
  ],
- "inference": "The listed vowel syllables should be placed in the heart.",
- "uncertainties": [],
- "plain_english": "One should place a, ā, i, ī, u, ū, ṛ, ṝ, ḷ, and ḹ in the heart."
+ "inference": "The middle position grants yoga, while the final position grants knowledge.",
+ "uncertainties": [
+  "The subject is implied from the preceding verse."
+ ],
+ "plain_english": "In the middle she is declared to give yoga, and at the end she is remembered as giving knowledge."
 }
