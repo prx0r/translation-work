@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2726,
+   "rows": [
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental used adverbially",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vara+aṅge",
+     "gloss": "on-private-part",
+     "grounds": "compound: vara+modifier, aṅga+head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which body parts must unguent never be applied, especially the private part?",
+   "premises": [
+    "The forehead is mentioned as a location",
+    "The private part is singled out especially",
+    "Application is prohibited at any time"
+   ],
+   "inference": "Unguent must never be applied on the forehead and especially never on the private part.",
+   "uncertainties": [],
+   "plain_english": "But especially on the forehead, and never on the private part."
+  },
+  {
+   "verse": 2727,
+   "rows": [
+    {
+     "surface": "pāde",
+     "gloss": "on-foot",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netre",
+     "gloss": "on-eye",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt √dā"
+    },
+    {
+     "surface": "anulepanam",
+     "gloss": "unguent",
+     "grounds": "object of application",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which additional body parts are forbidden for applying unguent?",
+   "premises": [
+    "The foot, back, and eye are specified",
+    "Unguent is the object of application",
+    "The optative expresses a prohibition"
+   ],
+   "inference": "One should not apply unguent on the foot, back, or eye.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one should not apply unguent on the foot, the back, or the eye."
+  },
+  {
+   "verse": 2728,
+   "rows": [
+    {
+     "surface": "daridraḥ",
+     "gloss": "poor",
+     "grounds": "resulting state of a person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kara+lagne",
+     "gloss": "stuck-on-hand",
+     "grounds": "compound: kara+locative-member, lagna+head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pada+lagne",
+     "gloss": "stuck-on-foot",
+     "grounds": "compound: pada+locative-member, lagna+head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhana+kṣayaḥ",
+     "gloss": "wealth-loss",
+     "grounds": "compound: dhana+dependent, kṣaya+head",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What adverse consequences follow if unguent sticks to the hand or foot?",
+   "premises": [
+    "Unguent sticking to the hand leads to poverty",
+    "Unguent sticking to the foot leads to loss of wealth",
+    "Both outcomes are stated as consequences"
+   ],
+   "inference": "If unguent sticks to the hand one becomes poor, and if to the foot one suffers loss of wealth.",
+   "uncertainties": [],
+   "plain_english": "If it sticks to the hand, one becomes poor; if it sticks to the foot, there is loss of wealth."
+  },
+  {
+   "verse": 2729,
+   "rows": [
+    {
+     "surface": "padma+patre",
+     "gloss": "on-lotus-leaf",
+     "grounds": "compound: padma+dependent, patra+head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bilva+patre",
+     "gloss": "on-bilva-leaf",
+     "grounds": "compound: bilva+dependent, patra+head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karavīra+dale",
+     "gloss": "on-karavira-leaf",
+     "grounds": "compound: karavīra+dependent, dala+head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On which types of leaves is the subsequent prohibition concerning collyrium applied?",
+   "premises": [
+    "Lotus leaves are specified as a location",
+    "Bilva leaves are specified as a location",
+    "Karavira leaves are likewise specified"
+   ],
+   "inference": "The context concerns lotus, bilva, and karavira leaves.",
+   "uncertainties": [
+    "The action is supplied by the following verse."
+   ],
+   "plain_english": "On a lotus leaf, on a bilva leaf, and likewise on a karavira leaf."
+  },
+  {
+   "verse": 2730,
+   "rows": [
+    {
+     "surface": "netrāṇi",
+     "gloss": "eyes",
+     "grounds": "object of anointing",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āñjayet",
+     "gloss": "should-anoint",
+     "grounds": "optative expressing prohibition",
+     "morph": "3.sg.act.opt √añj"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kajjalaiḥ",
+     "gloss": "with-collyriums",
+     "grounds": "instrumental of substance",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb of emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What prohibition does the goddess receive regarding anointing the eyes with collyrium?",
+   "premises": [
+    "The eyes are the object of anointing",
+    "Collyriums are the substances mentioned",
+    "The optative with negation forbids the act"
+   ],
+   "inference": "One should not anoint the eyes with collyriums, especially in the stated context.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should not anoint the eyes with collyriums, especially."
+  },
+  {
+   "verse": 2731,
+   "rows": [
+    {
+     "surface": "tāpayet",
+     "gloss": "should-heat",
+     "grounds": "optative expressing prohibition",
+     "morph": "3.sg.act.caus.opt √tap"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-drop",
+     "grounds": "optative expressing prohibition",
+     "morph": "3.sg.act.caus.opt √pat"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kajjalaṃ",
+     "gloss": "collyrium",
+     "grounds": "object of heating and dropping",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-declared",
+     "grounds": "past participle stating doctrine",
+     "morph": "n.nom.sg.ppp √kīrt"
+    }
+   ],
+   "question": "What specific actions involving collyrium are declared prohibited to the goddess?",
+   "premises": [
+    "Heating collyrium is mentioned",
+    "Dropping collyrium is mentioned",
+    "The teaching is explicitly declared"
+   ],
+   "inference": "One should not heat or drop collyrium; this is the declared rule.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should not heat or drop collyrium; that is declared."
+  },
+  {
+   "verse": 2732,
+   "rows": [
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "immortality",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "optative expressing possible result",
+     "morph": "3.sg.act.opt √āp+pra"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha+loke",
+     "gloss": "in-this-world",
+     "grounds": "compound: iha+modifier, loka+head",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paratra",
+     "gloss": "in-other-world",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What beneficial attainment is possible for one who follows the proper practice?",
+   "premises": [
+    "Immortality is stated as attainable",
+    "The attainment applies in this world",
+    "The attainment applies in the other world"
+   ],
+   "inference": "Such a person may obtain immortality in this world and in the next.",
+   "uncertainties": [
+    "The subject refers to the proper practitioner implied by context."
+   ],
+   "plain_english": "He may also obtain immortality in this world and in the other."
+  },
+  {
+   "verse": 2733,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūḍhaḥ",
+     "gloss": "foolish",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "rogī",
+     "gloss": "diseased",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣipraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "object of attainment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.act.opt √āp"
+    }
+   ],
+   "question": "What harmful consequences befall one who violates the prescribed rules?",
+   "premises": [
+    "Becoming foolish is stated as a consequence",
+    "Becoming diseased is stated as a consequence",
+    "Quick destruction is an alternative consequence"
+   ],
+   "inference": "The violator may become foolish and diseased, or quickly meet destruction.",
+   "uncertainties": [
+    "The subject refers to the transgressor implied by contrast with the previous verse."
+   ],
+   "plain_english": "He may also become foolish and diseased, or quickly meet destruction."
+  },
+  {
+   "verse": 2734,
+   "rows": [
+    {
+     "surface": "nīraiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental of means",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "samārjayet",
+     "gloss": "should-wipe",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt √mṛj+sam+ā"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "instrument",
+     "grounds": "object of wiping",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "object of having done",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual actions must be performed with water and circumambulation upon the instrument?",
+   "premises": [
+    "The instrument is to be wiped with waters",
+    "Circumambulation is to be performed",
+    "The actions are prescribed by optative and absolutive"
+   ],
+   "inference": "One should wipe the instrument with waters and perform circumambulation.",
+   "uncertainties": [],
+   "plain_english": "One should wipe the instrument with waters, having indeed performed circumambulation."
+  },
+  {
+   "verse": 2735,
+   "rows": [
+    {
+     "surface": "oṃ namo nārāyaṇāyeti",
+     "gloss": "om-obeisance-to-narayana",
+     "grounds": "mantra formula quoted as utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vadanti",
+     "gloss": "say",
+     "grounds": "present tense verb",
+     "morph": "3.pl.act.pres √vad"
+    },
+    {
+     "surface": "manīṣiṇaḥ",
+     "gloss": "wise-ones",
+     "grounds": "subject noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which sacred formula do the wise ones declare by uttering it thus?",
+   "premises": [
+    "The formula 'oṃ namo nārāyaṇāya' is quoted",
+    "Wise ones are the speakers",
+    "The verb indicates their utterance"
+   ],
+   "inference": "The wise ones say 'oṃ namo nārāyaṇāya'.",
+   "uncertainties": [],
+   "plain_english": "The wise ones say, 'Oṃ, obeisance to Nārāyaṇa.'"
+  },
+  {
+   "verse": 2736,
+   "rows": [
+    {
+     "surface": "oṃ namo nārāyaṇāyeti",
+     "gloss": "om-obeisance-to-narayana",
+     "grounds": "mantra formula quoted as utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+artha+sādhakaḥ",
+     "gloss": "all-purpose-accomplishing",
+     "grounds": "compound: sarva+modifier, artha+dependent, sādhaka+head",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What efficacy is attributed to the mantra 'oṃ namo nārāyaṇāya'?",
+   "premises": [
+    "The formula is identified as a mantra",
+    "The mantra is described as accomplishing all purposes",
+    "The statement asserts its efficacy"
+   ],
+   "inference": "The mantra 'oṃ namo nārāyaṇāya' accomplishes all purposes.",
+   "uncertainties": [],
+   "plain_english": "Thus, 'Oṃ, obeisance to Nārāyaṇa' is the mantra that accomplishes all purposes."
+  },
+  {
+   "verse": 2737,
+   "rows": [
+    {
+     "surface": "dvādaśa+akṣara+bījena",
+     "gloss": "with-twelve-syllable-seed",
+     "grounds": "compound: dvādaśa+modifier, akṣara+dependent, bīja+head",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kṛṣṇa+bījena",
+     "gloss": "with-krishna-seed",
+     "grounds": "compound: kṛṣṇa+dependent, bīja+head",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt √pūj"
+    }
+   ],
+   "question": "With which seed formulas should one perform worship in this ritual context?",
+   "premises": [
+    "The twelve-syllable seed is specified",
+    "The Krishna seed is specified",
+    "Worship is prescribed with these seeds"
+   ],
+   "inference": "One should worship with the twelve-syllable seed and the Krishna seed.",
+   "uncertainties": [],
+   "plain_english": "One should worship with the twelve-syllable seed and with the Krishna seed."
+  },
+  {
+   "verse": 2738,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arka+candra+vahnīnāṃ",
+     "gloss": "of-sun-moon-fires",
+     "grounds": "compound: arka+candra+vahni+coordinate, dependent of maṇḍalāni",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maṇḍalāni",
+     "gloss": "circles",
+     "grounds": "object of visualization",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-visualize",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt √cint+vi"
+    }
+   ],
+   "question": "What cosmic circles must be visualized in that ritual location?",
+   "premises": [
+    "The location is indicated as there",
+    "Circles of sun, moon, and fires are specified",
+    "Visualization is prescribed"
+   ],
+   "inference": "One should visualize the circles of the sun, moon, and fires there.",
+   "uncertainties": [],
+   "plain_english": "There one should visualize the circles of the sun, moon, and fires."
+  },
+  {
+   "verse": 2739,
+   "rows": [
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-pericarp",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samāsīnaṃ",
+     "gloss": "seated",
+     "grounds": "past participle describing the deity",
+     "morph": "m.acc.sg.ppp √ās+sam"
+    },
+    {
+     "surface": "jyotī+rūpa+svarūpiṇam",
+     "gloss": "light-form-natured",
+     "grounds": "compound: jyotis+dependent, rūpa+dependent, svarūpin+head",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the deity visualized within the pericarp of the ritual diagram?",
+   "premises": [
+    "The pericarp is the location of visualization",
+    "The deity is seated there",
+    "The deity's nature is of the form of light"
+   ],
+   "inference": "One should visualize the deity seated in the pericarp, whose nature is of the form of light.",
+   "uncertainties": [],
+   "plain_english": "In the pericarp, seated, whose essential nature is of the form of light."
+  },
+  {
+   "verse": 2740,
+   "rows": [
+    {
+     "surface": "keśava+ādi+puraṃ",
+     "gloss": "kesava-and-others-abode",
+     "grounds": "compound: keśava+ādi+coordinate, pura+head",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "dvādaśa+akṣarakam",
+     "gloss": "twelve-syllable",
+     "grounds": "compound: dvādaśa+modifier, akṣaraka+head",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.act.opt √as+ni"
+    }
+   ],
+   "question": "What placement must be performed after establishing the abode of Keśava and others?",
+   "premises": [
+    "The abode of Keśava and others is established",
+    "The twelve-syllable formula is the object",
+    "Placement is prescribed"
+   ],
+   "inference": "Having established the abode of Keśava and others, one should place the twelve-syllable formula.",
+   "uncertainties": [],
+   "plain_english": "Having made the abode of Keśava and the others, one should place the twelve-syllable formula."
+  },
+  {
+   "verse": 2741,
+   "rows": [
+    {
+     "surface": "cintayitvā",
+     "gloss": "having-visualized",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund) √cint"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaṃ",
+     "gloss": "union",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jyotī+rūpaṃ",
+     "gloss": "light-form",
+     "grounds": "compound: jyotis+dependent, rūpa+head",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sanātanam",
+     "gloss": "eternal",
+     "grounds": "adjective qualifying union",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What eternal union must be visualized after the preceding contemplative act?",
+   "premises": [
+    "Visualization is performed first",
+    "Union is the object to be contemplated",
+    "The union is of light-form and eternal"
+   ],
+   "inference": "Having visualized, one should then contemplate the eternal union of the form of light.",
+   "uncertainties": [],
+   "plain_english": "Then, having visualized, one should contemplate the eternal union of the form of light."
+  },
+  {
+   "verse": 2742,
+   "rows": [
+    {
+     "surface": "mīna+rūpaḥ",
+     "gloss": "fish-form",
+     "grounds": "compound: mīna+dependent, rūpa+head",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varāhaḥ",
+     "gloss": "boar",
+     "grounds": "name of divine form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nara+siṃhaḥ",
+     "gloss": "man-lion",
+     "grounds": "compound: nara+dependent, siṃha+head",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb of repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine forms may be contemplated as alternatives in this visualization?",
+   "premises": [
+    "The fish form is mentioned",
+    "The boar and man-lion forms are mentioned",
+    "Alternatives are indicated by disjunctive particles"
+   ],
+   "inference": "One may contemplate the fish form, the boar, or the man-lion.",
+   "uncertainties": [],
+   "plain_english": "The fish form, the boar, and the man-lion, or again others."
+  },
+  {
+   "verse": 2743,
+   "rows": [
+    {
+     "surface": "sumeroḥ",
+     "gloss": "of-sumeru",
+     "grounds": "genitive of location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāda+pīṭhe",
+     "gloss": "on-foot-stool",
+     "grounds": "compound: pāda+dependent, pīṭha+head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padma+kalpitam",
+     "gloss": "lotus-fashioned",
+     "grounds": "compound: padma+dependent, kalpita+head",
+     "morph": "n.acc.sg.ppp √kḷp"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "object of visualization or offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where and how is the ritual seat fashioned for the deity?",
+   "premises": [
+    "The footstool of Sumeru is the location",
+    "The seat is fashioned as a lotus",
+    "The seat is the object described"
+   ],
+   "inference": "A seat fashioned as a lotus is placed on the footstool of Sumeru.",
+   "uncertainties": [],
+   "plain_english": "On the footstool of Sumeru, a seat fashioned as a lotus."
+  },
+  {
+   "verse": 2744,
+   "rows": [
+    {
+     "surface": "viṣṇo",
+     "gloss": "o-vishnu",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kamala+patra+akṣa",
+     "gloss": "lotus-leaf-eyed",
+     "grounds": "compound: kamala+dependent, patra+dependent, akṣa+head",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "accept",
+     "grounds": "imperative requesting acceptance",
+     "morph": "2.sg.act.imp √grah"
+    },
+    {
+     "surface": "madhusūdana",
+     "gloss": "o-madhusudana",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What request is made to Viṣṇu, the lotus-leaf-eyed Madhusūdana?",
+   "premises": [
+    "Viṣṇu is addressed by multiple epithets",
+    "The imperative calls for acceptance",
+    "The verse is a devotional invocation"
+   ],
+   "inference": "The worshipper asks Viṣṇu, the lotus-leaf-eyed Madhusūdana, to accept the offering.",
+   "uncertainties": [
+    "The specific offering is implied by the ritual context."
+   ],
+   "plain_english": "O Viṣṇu, lotus-leaf-eyed one, O Madhusūdana, accept."
+  },
+  {
+   "verse": 2745,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental of agent",
+     "morph": "1.sg.ins"
+    },
+    {
+     "surface": "niveditaṃ",
+     "gloss": "offered",
+     "grounds": "past participle describing offering",
+     "morph": "n.acc.sg.ppp √vid+ni"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of manner",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "accept",
+     "grounds": "imperative requesting acceptance",
+     "morph": "2.sg.act.imp √grah"
+    },
+    {
+     "surface": "puruṣottama",
+     "gloss": "o-supreme-person",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How does the devotee ask the Supreme Person to receive the offering?",
+   "premises": [
+    "The offering is made by the devotee",
+    "The offering is made with devotion",
+    "The Supreme Person is asked to accept it"
+   ],
+   "inference": "The devotee asks the Supreme Person to accept what has been offered with devotion.",
+   "uncertainties": [],
+   "plain_english": "O Supreme Person, accept what has been offered by me with devotion."
+  },
+  {
+   "verse": 2746,
+   "rows": [
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "accept",
+     "grounds": "imperative requesting acceptance",
+     "morph": "2.sg.act.imp √grah"
+    },
+    {
+     "surface": "ācamanīyaṃ",
+     "gloss": "sipping-water",
+     "grounds": "object of acceptance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "subject pronoun",
+     "morph": "2.sg.nom"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental of agent",
+     "morph": "1.sg.ins"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of manner",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "niveditam",
+     "gloss": "offered",
+     "grounds": "past participle describing offering",
+     "morph": "n.acc.sg.ppp √vid+ni"
+    }
+   ],
+   "question": "What specific offering of sipping water is presented to the deity with devotion?",
+   "premises": [
+    "Sipping water is the offering",
+    "It is offered by the devotee with devotion",
+    "The deity is asked to accept it"
+   ],
+   "inference": "The deity is asked to accept the sipping water offered with devotion.",
+   "uncertainties": [],
+   "plain_english": "Accept the sipping water offered by me with devotion."
+  },
+  {
+   "verse": 2747,
+   "rows": [
+    {
+     "surface": "loka+saṃvitti+mātreṇa",
+     "gloss": "world-consciousness-mere",
+     "grounds": "compound: loka+dependent, saṃvitti+dependent, mātra+head",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "instrumental of means",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "snapayāmi",
+     "gloss": "i-bathe",
+     "grounds": "present tense verb",
+     "morph": "1.sg.act.pres.caus √snā"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "subject pronoun",
+     "morph": "1.sg.nom"
+    }
+   ],
+   "question": "With what kind of water does the worshipper claim to bathe the deity?",
+   "premises": [
+    "The worshipper performs the bathing",
+    "Water is the means of bathing",
+    "The water is characterized as mere world-consciousness"
+   ],
+   "inference": "The worshipper bathes the deity with water that is mere world-consciousness.",
+   "uncertainties": [
+    "The compound loka+saṃvitti+mātreṇa may imply a symbolic or contemplative identification."
+   ],
+   "plain_english": "I bathe you with water that is mere world-consciousness."
+  },
+  {
+   "verse": 2748,
+   "rows": [
+    {
+     "surface": "svarṇa+varṇa+prabhe",
+     "gloss": "gold-color-splendor",
+     "grounds": "compound: svarṇa+dependent, varṇa+dependent, prabhā+head",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "prabhedena",
+     "gloss": "by-distinction",
+     "grounds": "instrumental of manner",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vāsasī",
+     "gloss": "two-garments",
+     "grounds": "object offered",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive of possession",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "keśava",
+     "gloss": "o-kesava",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What garments are presented to Keśava, who shines with golden splendor?",
+   "premises": [
+    "Keśava is addressed as having golden splendor",
+    "Two garments are presented",
+    "The garments are offered to him"
+   ],
+   "inference": "Two garments are presented to Keśava, who shines with golden splendor.",
+   "uncertainties": [
+    "The phrase prabhedena is somewhat ambiguous in this context."
+   ],
+   "plain_english": "O Keśava, shining with golden splendor, these two garments are indeed for you."
+  },
+  {
+   "verse": 2749,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental of agent",
+     "morph": "1.sg.ins"
+    },
+    {
+     "surface": "niveditān",
+     "gloss": "offered",
+     "grounds": "past participle describing fragrances",
+     "morph": "m.acc.pl.ppp √vid+ni"
+    },
+    {
+     "surface": "gandhān",
+     "gloss": "fragrances",
+     "grounds": "object of acceptance and smearing",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pratigṛhya",
+     "gloss": "having-accepted",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund) √grah+prati"
+    },
+    {
+     "surface": "vilipyatām",
+     "gloss": "let-be-smeared",
+     "grounds": "passive imperative",
+     "morph": "3.sg.pass.imp √lip+vi"
+    }
+   ],
+   "question": "What should be done with the fragrances offered by the devotee?",
+   "premises": [
+    "Fragrances are offered by the devotee",
+    "They are to be accepted",
+    "They are to be smeared"
+   ],
+   "inference": "Having accepted the fragrances offered by me, let them be smeared.",
+   "uncertainties": [],
+   "plain_english": "Having accepted the fragrances offered by me, let them be smeared."
+  }
+ ]
+}
