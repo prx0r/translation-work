@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "an+ukta+mantre",
+     "gloss": "in-un-stated-mantra",
+     "grounds": "Locative compound indicating a context where no mantra has been explicitly specified.",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "Indeclinable adverb indicating universal applicability.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "The prescribed procedure or injunction.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "Demonstrative pronoun referring to the applicable rule.",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "śiva+uditaḥ",
+     "gloss": "Śiva-declared",
+     "grounds": "Compound attributing the rule's authority to Śiva.",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "Which procedural rule applies wherever a specific mantra has not been explicitly stated?",
+   "premises": [
+    "Some ritual contexts lack an explicitly stated mantra.",
+    "A general procedural rule is required for such contexts.",
+    "This rule is declared by Śiva."
+   ],
+   "inference": "Therefore, wherever no mantra is specified, this Śiva-declared rule applies.",
+   "uncertainties": [],
+   "plain_english": "Wherever a mantra is not stated, this rule declared by Śiva applies."
+  }
+ ]
+}

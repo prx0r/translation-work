@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[curse](śāpena) [devoid-of-perfection](siddhi-hīnaḥ) [not](na) [doer-of-perfection](siddhi-kṛt)
+[by-curse](śāpena) [success+devoid](siddhi+hīno) [not](na) [success+maker](siddhi+kṛt)
 
 ## mukta-m0-p13-v302
-[folly](mūrkhatvaṃ) [would-do](kuryāt) [in-birth](janmani) [in-birth](janmani)
+[foolishness](mūrkhatvaṃ) [it-may-cause](kuryāt) [birth+in-birth](janmani+janmani)
 
 ## mukta-m0-p13-v303
-[loss](hāniḥ) [of-elephant](mātaṃgyāḥ) [by-curse](śāpataḥ) [remembered](smṛtā)
+[loss](hāniḥ) [of-mātaṅgī](mātaṃgyāḥ) [from-curse](śāpataḥ) [remembered](smṛtā)
 
 ## mukta-m0-p13-v304
-[would-destroy](nāśayet) [of-sadhaka](sādhaka-) [strength](balaṃ) [of-king](rājñaḥ) [army](senāṃ) [would-destroy](vināśayet)
+[it-may-destroy](nāśayet) [practitioner+power](sādhaka+balaṃ) [of-king](rājñaḥ) [army](senāṃ) [it-may-destroy](vināśayet)
 
 ## mukta-m0-p13-v305
-[mantra](mantraṃ) [by-eye](cakṣuṣā) [not](na) [indeed](eva) [sees](paśyati)
+[mantra](mantraṃ) [by-eye](cakṣuṣā) [not](na) [indeed](eva) [one-sees](paśyati)
 
 ## mukta-m0-p13-v306
-[by-that](tat-) [japa](japāt) [increase-of-lineage](vaṃśa-vṛddhiḥ) [not](na) [otherwise](ca-anyathā) [conjugal-bliss](strī-sukhaṃ) [not](na-hi)
+[of-that+recitation](tat+japāt) [lineage+increase](vaṃśa+vṛddhiḥ) [not](na) [and+otherwise](ca+anyathā) [woman+pleasure](strī+sukhaṃ) [not](nahi)
 
 ## mukta-m0-p13-v307
-[agitated](vyākulaṃ) [mind](cittaṃ) [becomes](jāyate) [of-sadhaka](sādhakasya) [indeed](tu)
+[agitated](vyākulaṃ) [mind](cittaṃ) [arises](jāyate) [of-practitioner](sādhakasya) [indeed](tu)
 
 ## mukta-m0-p13-v308
-[by-embrace](āliṅgitena) [this](ayaṃ) [by-japa](japāt) [immediately](satvarataḥ) [death](mṛtiḥ)
+[by-embracing](āliṅgitena) [by-this](ayaṃ) [from-recitation](japāt) [quickly](satvarataḥ) [death](mṛtiḥ)
 
 ## mukta-m0-p13-v309
-[sadhaka](sādhakaṃ) [would-make](kuryāt) [by-drink-etc](pāna-ādi-) [by-vice](vyasana-) [full-of](ākulam)
+[practitioner](sādhakaṃ) [it-may-make](kuryāt) [drinking+etc.+addiction+afflicted](pānā+di+vyasana+ākulam)
 
 ## mukta-m0-p13-v310
-[of-queen-elephant](rāja-mātaṃgyāḥ) [by-curse](śāpāt) [poverty](dāridrya-) [causing](kārakaḥ)
+[of-royal+mātaṅgī](rāja+mātaṅgyāḥ) [from-curse](śāpāt) [poverty+causing](dāridrya+kārakaḥ)
 
 ## mukta-m0-p13-v311
-[by-that](tena-eva) [slowness](mandatā) [becomes](jāyate) [of-men](nṛṇām)
+[by-that](tena) [indeed](eva) [dullness](mandatā) [arises](jāyate) [of-men](nṛṇām)
 
 ## mukta-m0-p13-v312
-[by-curse](śāpāt) [limb-less](aṅga-hīnaḥ) [fulfiller-of-desires](kāmanā-pūrakaḥ) [not](na-hi)
+[from-curse](śāpāt) [limb+devoid](aṃga+hīnaḥ) [desire+fulfiller](kāmanā+pūrakaḥ) [not](nahi)
 
 ## mukta-m0-p13-v313
-[destruction-of-object-of-sadhana](sādhya-nāśaṃ) [having-done](kṛtvā) [would-perish](naśyet) [indeed](ca) [sadhaka](sādhakaḥ)
+[target+destruction](sādhya+nāśaṃ) [having-done](kṛtvā) [may-perish](naśyet) [and](ca) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p13-v314
-[exceedingly-angry](ati-kruddhaḥ) [by-that-japa](tat-japena) [by-self-done](sva-kṛte) [of-self](svasya) [destruction](saṃkṣayaḥ)
+[very+angry](ati+kruddhaḥ) [of-that+recitation](tat+japena) [in-own+deed](sva+kṛte) [of-self](svasya) [destruction](saṃkṣayaḥ)
 
 ## mukta-m0-p13-v315
-[by-curse-of-shameful-mothers](sa-vrīḍā-mātṛkā-śāpāt) [shameful](sa-vrīḍāḥ) [of-that](tasya) [sadhakas](sādhakāḥ)
+[with-modesty+mātṛkā+curse](sa+vrīḍā+mātṛkā+śāpāt) [with-modesty](sa+vrīḍāḥ) [his](tasya) [practitioners](sādhakāḥ)
 
 ## mukta-m0-p13-v316
-[where](yatra) [castes](varṇāḥ) [cursed](śāpitāḥ) [by-severed-head](chinna-mastayā)
+[where](yatra) [letters](varṇāḥ) [cursed](śāpitāḥ) [by-chinnamastā](chinnamastayā)
 
 ## mukta-m0-p13-v317
-[by-desireless](niṣkāmaiḥ) [by-tongues](yāḥ-jibhiḥ) [japtāḥ](japtāḥ) [bond-of-samsara](saṃsāra-sneha-) [destroyers](nāśanāḥ)
+[by-desireless](niṣkāmaiḥ) [by-which](yābhiḥ) [recited](japtāḥ) [worldly+attachment+destroying](saṃsāra+sneha+nāśanāḥ)
 
 ## mukta-m0-p13-v318
-[by-sacrifice-curse](yajña-śāpāt) [in-nourishing-etc](pauṣṭika-ādiṣu) [excluded](varjitāḥ)
+[from-sacrifice+curse](yajña+śāpāt) [in-nourishing+etc.](pauṣṭika+ādiṣu) [excluded](varjitāḥ)
 
 ## mukta-m0-p13-v319
-[called-daṇḍaka](daṇḍakā-ākhyāḥ) [afflicted](pīḍitāḥ) [and](ca) [by-that-japa](tat-japāt) [hardship](kaṣṭam) [would-obtain](āpnuyāt)
+[called-daṇḍaka](daṇḍaka+ākhyāḥ) [tormented](pīḍitāḥ) [and](ca) [of-that+recitation](tat+japāt) [suffering](kaṣṭam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p13-v320
-[cut-into-pieces](khaṇḍī-kṛtāḥ) [sevenfold](saptadhā) [they](te) [perfection-destroyers](siddhi-khaṇḍa-karāḥ) [remembered](smṛtāḥ)
+[broken+made](khaṇḍī+kṛtāḥ) [sevenfold](sapta+dhā) [they](te) [success+breaking+causing](siddhi+khaṇḍa+karāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p13-v321
-[born](jātā) [indeed](tu) [then](tadā) [given](dattaḥ) [curse](śāpaḥ) [very-fierce](su-dāruṇaḥ)
+[born](jātā) [indeed](tu) [then](tadā) [given](dattaḥ) [curse](śāpaḥ) [very+terrible](su+dāruṇaḥ)
 
 ## mukta-m0-p13-v322
-[would-do](kuryāt) [therefore](tasmāt) [of-that-mantra](tat-mantra-) [purification](śodhanam)
+[one-should-do](kuryāt) [therefore](tasmāt) [that+mantra+purification](tat+mantra+śodhanam)
 
 ## mukta-m0-p13-v323
-[anus](guda-) [penis](meḍhra-) [between](antaraṃ) [firmly](dṛḍham)
+[anus+penis+interval](guda+meḍhra+antaraṃ) [firmly](dṛḍham)
 
 ## mukta-m0-p13-v324
-[right](dakṣiṇaṃ) [ankle](gulpha-) [joints](granthyoḥ) [mutually](anyonyaṃ) [rubbing](mardanam)
+[right](dakṣiṇaṃ) [of-ankle+joints](gulpha+granthyoḥ) [mutual+rubbing](anyonya+mardanam)
 
 ## mukta-m0-p13-v325
-[having-squeezed](viniṣpīḍya) [steady-bodied](sthira-kāyaḥ) [would-sit](upāviśet)
+[having-pressed](viniṣpīḍya) [steady+body](sthira+kāyaḥ) [one-should-sit](upāviśet)
