@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p56",
  "verse": 1395,
- "question": "What visual attributes characterize the deity to be contemplated or worshipped?",
+ "question": "What is stated as the intended meaning of the preceding expression?",
  "premises": [
-  "The deity has a pleased face",
-  "She is gentle in nature",
-  "She is adorned with nine gems"
+  "The word 'bhavet' is cited.",
+  "It is identified as the meaning."
  ],
- "inference": "The deity is to be envisioned as pleased-faced, gentle, and adorned with nine gems.",
- "uncertainties": [],
- "plain_english": "She has a pleased face, is gentle, and is adorned with nine gems."
+ "inference": "The intended meaning is expressed by 'should be'.",
+ "uncertainties": [
+  "The exact prior expression being glossed is not contained in this verse."
+ ],
+ "plain_english": "The meaning is: 'it should be.'"
 }

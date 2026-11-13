@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusive indeclinable drawing inference from preceding counsel",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avasthām",
+     "gloss": "condition",
+     "grounds": "object of consideration; state or circumstance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samayam",
+     "gloss": "occasion",
+     "grounds": "object of consideration; time, juncture, or fitting moment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vīkṣya",
+     "gloss": "having-considered",
+     "grounds": "gerund expressing prior assessment",
+     "morph": "gerund(√īkṣ)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "object of the prescribed performance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative enjoining conduct",
+     "morph": "3.sg.opt.act(√sam-ā-car)"
+    }
+   ],
+   "question": "What factors must determine the proper performance of action?",
+   "premises": [
+    "Prior counsel establishes grounds for a concluding injunction.",
+    "Condition and occasion are relevant circumstances for conduct.",
+    "Action should follow deliberate consideration of circumstances."
+   ],
+   "inference": "Therefore, one should perform action only after considering condition and occasion.",
+   "uncertainties": [
+    "samayam may denote time, occasion, or conventional propriety; rendered as occasion."
+   ],
+   "plain_english": "Therefore, having considered the condition and the occasion, one should perform the appropriate action."
+  }
+ ]
+}

@@ -3,34 +3,44 @@
  "verse": 1398,
  "rows": [
   {
-   "lemma": "sarvatra",
+   "lemma": "kalau",
+   "morph": "m.loc.sg",
+   "grounds": "locative singular masculine noun"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "in all places"
+   "grounds": "indeclinable negation particle"
   },
   {
-   "lemma": "jayam",
-   "morph": "m.acc.sg",
-   "grounds": "success or triumph"
+   "lemma": "asti",
+   "morph": "3.sg.act-present √as",
+   "grounds": "present indicative verb from root as"
   },
   {
-   "lemma": "āpnoti",
-   "morph": "3.sg.present-active root āp",
-   "grounds": "attains or gains"
-  },
-  {
-   "lemma": "bṛhaspatiḥ",
-   "morph": "m.nom.sg",
-   "grounds": "deity of wisdom"
-  },
-  {
-   "lemma": "iva",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "comparison particle"
+   "grounds": "indeclinable emphatic particle"
   },
   {
-   "lemma": "aparaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "a second one"
+   "lemma": "tattvajñe",
+   "morph": "compound:m.loc.sg",
+   "grounds": "compound noun, locative singular masculine"
+  },
+  {
+   "lemma": "yataḥ",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable causal conjunction"
+  },
+  {
+   "lemma": "tat",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular neuter pronoun"
+  },
+  {
+   "lemma": "śrauta+saṃskṛtiḥ",
+   "morph": "compound:f.nom.sg",
+   "grounds": "compound noun, nominative singular feminine"
   }
  ]
 }

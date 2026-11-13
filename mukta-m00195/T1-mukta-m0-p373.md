@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p373-v9301
-[by-eleven-syllable](ekādaśārṇena) [+taught](uktā) [skull](kapāla) [+worship](arccā) [third](tṛtīyikā)
+[by-eleven-syllable](ekādaśa+arṇena) [spoken](uktā) [skull-worship](kapāla+arccā) [third](tṛtīyikā)
 
 ## mukta-m0-p373-v9302
-[then](tataḥ) [to-dhārā](dhārāya) [to-all](sarvāya) [likewise](tathā) [to-all](sarva) [+origin](udbhavāya) [and](ca)
+[then](tatas) [for-stream](dhārāya) [for-all](sarvāya) [and](tathā) [for-all-origin](sarva+udbhavāya) [and](ca)
 
 ## mukta-m0-p373-v9303
-[to-rāruṇa](rāruṇāya) [and](ca) [to-śubhrā](śubhrāya) [+thus](iti) [+liquor](surā) [+vessel](bhājanāya) [and](ca)
+[for-rāruṇa](rāruṇāya) [and](ca) [for-bright](śubhrāya) [thus](iti) [for-liquor-vessel](surā+bhājanāya) [and](ca)
 
 ## mukta-m0-p373-v9304
-[six](ṣaṭ) [+fifty](pañcāśat) [+syllable](ka) [+consisting](varṇaḥ) [+this](ayam) [of-skull](kapālasya) [indeed](tu) [in-worship](pūjane)
+[fifty-six](ṣaṭpañcāśat) [syllable](ka+varṇaḥ) [this](ayam) [of-skull](kapālasya) [indeed](tu) [in-worship](pūjane)
 
 ## mukta-m0-p373-v9305
-[oṃsūryyamaṇḍalāyeti](oṃsūryyamaṇḍalāyeti) [ending-with-namaḥ](namaḥ) [+this](antaḥ+ayam) [nine](nava) [+syllabled](akṣaraḥ)
+[oṃ-sun-disk](oṃsūryyamaṇḍalāya) [thus](iti) [obeisance](namaḥ) [end](antaḥ) [this](ayam) [nine-syllable](nava+akṣaraḥ)
 
 ## mukta-m0-p373-v9306
-[root-mantra](mūlamantraṃ) [[oṃ hrīṃ trīṃ huṃ phaṭ || ]]([oṃ hrīṃ trīṃ huṃ phaṭ || ]) [reciting](paṭhaṃs) [+in-that](tasmin) [+nectar](sudhā) [+with-thought](buddhyā) [liquor](surāṃ) [one-should-offer](kṣipet)
+[root-mantra](mūla+mantram) [oṃ hrīṃ trīṃ huṃ phaṭ ||](oṃ hrīṃ trīṃ huṃ phaṭ ||) [reciting](paṭhan) [in-this](tasmin) [with-nectar-thought](sudhā+buddhyā) [liquor](surām) [should-pour](kṣipet)
 
 ## mukta-m0-p373-v9307
-[mudrā](mudrāṃ) [that](sā) [indeed](tu) [two-hands](karau) [separated](vyastau) [+thumbs](aṃguṣṭhau) [one-should-make](kārayet) [equal](samau)
+[mudrā](mudrām) [that](sā) [indeed](tu) [two-hands](karau) [separated](vyastau) [thumbs](aṃguṣṭhau) [should-make](kārayet) [equal](samau)
 
 ## mukta-m0-p373-v9308
-[little-fingers](kaniṣṭhike) [in-own-place](nija+sthāne) [in-three-part](tri+khaṇḍā) [+invocation](āhvāna) [+act](karmmaṇi)
+[little-fingers](kaniṣṭhike) [in-own-place](nija+sthāne) [in-three-part-invocation-rite](trikhaṇḍa+āhvāna+karmmaṇi)
 
 ## mukta-m0-p373-v9309
-[by-eleven-syllable](ekādaśārṇena) [then](tataḥ) [conch](śaṃkha) [+water](toyaṃ) [+indeed](tu) [one-should-consecrate](mantrayet)
+[by-eleven-syllable](ekādaśa+arṇena) [then](tatas) [conch-water](śaṃkha+toyam) [indeed](tu) [should-consecrate](mantrayet)
 
 ## mukta-m0-p373-v9310
-[hsau rhumiti](hsau rhumiti) [beginning-with-speech](vāg+ādyo) [mantra](mantraḥ) [eleven](ekādaśa) [+syllabled](akṣaraḥ)
+[hsau rhum](hsau rhum) [thus](iti) [beginning-with-speech](vāk+ādyaḥ) [mantra](mantraḥ) [eleven-syllable](ekādaśa+akṣaraḥ)
 
 ## mukta-m0-p373-v9311
-[conch-mudrā](śaṃkhamudrāṃ) [[vāmāṃguṣṭhaṃ tu saṃgṛhya dakṣahastasya muṣṭinā | kṛtottānāṃ tathāmuṣṭimaṃguṣṭhaṃ tu prasārayet || vāmāguṃlyastathā śiṣṭāḥ saṃyutāḥ saprasāditāḥ || dakṣiṇāṃguṣṭhake lagnā mudrā śaṃkhasya bhūtidā || ]]([vāmāṃguṣṭhaṃ tu saṃgṛhya dakṣahastasya muṣṭinā | kṛtottānāṃ tathāmuṣṭimaṃguṣṭhaṃ tu prasārayet || vāmāguṃlyastathā śiṣṭāḥ saṃyutāḥ saprasāditāḥ || dakṣiṇāṃguṣṭhake lagnā mudrā śaṃkhasya bhūtidā || ]) [yoni-mudrā](yonimudrāṃ) [[mithaḥ kaniṣṭhike badhvā | tarjanībhyāmanāmike || anāmikordhvaṃ saṃśliṣṭadīrghāmadhyamayoradha || aṃguṣṭhāgradyaṃ prasya yonimudreyamīritā |]]([mithaḥ kaniṣṭhike badhvā | tarjanībhyāmanāmike || anāmikordhvaṃ saṃśliṣṭadīrghāmadhyamayoradha || aṃguṣṭhāgradyaṃ prasya yonimudreyamīritā |]) [to-conch-water](śaṃkha+toyāya) [one-should-show](darśayet)
+[conch-mudrā](śaṃkha+mudrām) [yoni-mudrā](yoni+mudrām) [to-conch-water](śaṃkha+toyāya) [should-show](darśayet)
 
 ## mukta-m0-p373-v9312
-[previously-mentioned](pūrva+uktāṃ) [having-worshipped](pūjayitvā) [+this](enāṃ) [with-root-mantra](mūlena) [then](atha) [one-should-satiate](pratarppayet)
+[previously-mentioned](pūrva+uktām) [having-worshipped](pūjayitvā) [this](enām) [with-root-mantra](mūlena) [then](atha) [should-offer-libation](pratarppayet)
 
 ## mukta-m0-p373-v9313
-[together-with-thumbs](sa+aṃguṣṭhābhiḥ) [+four-times](catur+vāraṃ) [in-great-conch](mahā+śaṃkha) [+situated](sthite) [in-water](jale)
+[with-thumbs](sa+aṃguṣṭhābhiḥ) [four-times](caturvāram) [in-water-situated-in-great-conch](mahā+śaṃkha+sthite) [in-water](jale)
 
 ## mukta-m0-p373-v9314
-[oṃhrauṃhsauṃ ca namontoyaṃ](oṃhrauṃhsauṃ ca namontoyaṃ) [mantra](mantro) [in-bhairava](bhairava) [+worship](pūjane)
+[oṃ hrauṃ hsauṃ](oṃhrauṃhsauṃ) [and](ca) [obeisance](namaḥ) [end](antaḥ) [this](ayam) [mantra](mantraḥ) [in-bhairava-worship](bhairava+pūjane)
 
 ## mukta-m0-p373-v9315
-[yoni-mudrā](yonimudrāṃ) [having-shown](pradarśya) [then](atha) [one-should-bow](praṇamet) [to-savior-of-existence](bhava+tāriṇīm)
+[showing-yoni-mudrā](yoni+mudrām) [having-displayed](pradarśya) [then](atha) [should-bow](praṇamet) [to-she-who-carries-across-existence](bhava+tāriṇīm)
 
 ## mukta-m0-p373-v9316
-[by-earth](dharā) [+enclosure](gṛha) [+surrounded](āvṛte) [pedestal](pīṭham) [having-taken](ādā) [+to-be-worshipped](arcyaṃ) [with-śakti](sa+śaktikam)
+[by-earth-and-house](dharā+gṛha) [enclosed](āvṛte) [pedestal](pīṭham) [beginning-with-ā](ādā) [to-be-worshipped](arcyaṃ) [with-śakti](sa+śaktikam)
 
 ## mukta-m0-p373-v9317
-[fourteen](caturdaśa) [+syllabled](akṣaraḥ) [mantra](mantraḥ) [declared](proktaḥ) [of-pedestal](pīṭhasya) [in-worship](pūjane)
+[fourteen-syllable](caturdaśa+akṣaraḥ) [mantra](mantraḥ) [declared](proktaḥ) [of-pedestal](pīṭhasya) [in-worship](pūjane)
 
 ## mukta-m0-p373-v9318
-[vidyeśvarī](vidyeśvarī) [+thus](iti) [declared](samproktā) [of-pedestal](pīṭhasya) [nine](nava) [śaktis](śaktayaḥ)
+[vidyeśvarī](vidyeśvarī) [thus](iti) [declared](samproktā) [of-pedestal](pīṭhasya) [nine](nava) [śaktis](śaktayaḥ)
 
 ## mukta-m0-p373-v9319
-[kṣetrapāla](kṣetrapālaṃ) [yoginī](yoginīṃ) [and](ca) [having-visualized](dhyātvā) [properly](samyak) [one-should-worship](prapūjayet)
+[kṣetrapāla](kṣetrapālam) [yoginī](yoginīm) [and](ca) [having-visualized](dhyātvā) [properly](samyak) [should-worship](prapūjayet)
 
 ## mukta-m0-p373-v9320
-[with-ornament](alaṃkāra) [+multitude](caya) [+endowed](upetaṃ) [gaṇeśa](gaṇeśaṃ) [in-east](prāk) [one-should-worship](prapūjayet)
+[with-mass-of-ornaments](alaṃkāra+caya) [endowed](upetam) [gaṇeśa](gaṇeśam) [in-east](prāk) [should-worship](prapūjayet)
 
 ## mukta-m0-p373-v9321
-[by-dog](śva) [+pack](yūtha) [+surrounded](veṣṭitaṃ) [delightful](ramyaṃ) [baṭuka](baṭukaṃ) [in-south](dakṣiṇe) [one-should-worship](arcayet)
+[by-pack-of-dogs](śva+yūtha) [surrounded](veṣṭitam) [delightful](ramyam) [baṭuka](baṭukam) [in-south](dakṣiṇe) [should-worship](arcayet)
 
 ## mukta-m0-p373-v9322
-[black](kṛṣṇaṃ) [sky-clad](digambaraṃ) [fierce](krūraṃ) [kṣetrapa](kṣetrapaṃ) [in-west](paścime) [one-should-worship](yajet)
+[black](kṛṣṇam) [sky-clad](dig+ambaram) [fierce](krūram) [kṣetrapa](kṣetrapam) [in-west](paścime) [should-worship](yajet)
 
 ## mukta-m0-p373-v9323
-[red](rakta) [+garlanded](mālyāṃ) [red](rakta) [+clothed](vastrāṃ) [yoginī](yoginīm) [in-north](uttare) [one-should-worship](yajet)
+[red-garlanded](rakta+mālyām) [red-clothed](rakta+vastrām) [yoginī](yoginīm) [in-north](uttare) [should-worship](yajet)
 
 ## mukta-m0-p373-v9324
-[of-muni](muniṃ) [twelve](dvādaśa) [+syllabled](varṇena) [by-mantra](manunā) [that](sa) [is-taught](nigadyate)
+[sage](munim) [by-twelve-syllable](dvādaśa+varṇena) [by-mantra](manunā) [he](saḥ) [is-declared](nigadyate)
 
 ## mukta-m0-p373-v9325
-[then](atha) [one-should-worship](sampūjayet) [in-corner](koṇa) [+six](ṣaṭka) [+goddesses](devyāḥ) [six-limbed](ṣaḍ+aṅgakam)
+[then](atha) [should-worship](sampūjayet) [in-six-corners](koṇa+ṣaṭka) [of-goddess](devyāḥ) [six-limbs](ṣaḍ+aṅgakam)

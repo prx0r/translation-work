@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[by+means+of+sight](dṛṣṭyā) [and+thus](tathā) [and+indeed](ca) [by+means+of+mind](cittena) [eight+limbed](aṣṭāṅgaḥ) [declared](īritaḥ)
+[by-sight](dṛṣṭyā) [thus](tathā) [and](ca) [indeed](eva) [by-mind](cittena) [eight-limbed](aṣṭāṅgaḥ) [declared](īritaḥ)
 
 ## mukta-m0-p37-v902
-[the+command](ācārya+ājñām) [always](sadā) [should+do](kuryāt) [from+that](tattaḥ) [the+disciple](śiṣyaḥ) [having+considered](vicārya) [and](ca)
+[teacher's-command](ācārya+ājñāṃ) [always](sadā) [should-do](kuryāt) [therefore](tattaḥ) [disciple](śiṣyaḥ) [having-considered](vicārya) [and](ca)
 
 ## mukta-m0-p37-v903
-[by+means+of+the+intention](īśvara+arpaṇa+buddhyā) [of+offering+to+Īśvara](īśvara+arpaṇa+buddhyā) [and](ca) [by+twice-born](dvija) [blessings](āśīrbhiḥ) [and](ca) [delighted](nanditaḥ)
+[with-offering-to-īśvara+thought](īśvara+arpaṇa+buddhyā) [and](ca) [by-twice-born+blessings](dvija+āśīrbhiḥ) [and](ca) [delighted](nanditaḥ)
 
 ## mukta-m0-p37-v904
-[or](vā) [should+give](pradadyāt) [and](ca) [wealth](vitta) [deceit](śāṭhya) [devoid+of](vivarjitaḥ)
+[or](vā) [should-give](pradadyāt) [and](ca) [wealth+deceit+devoid](vitta+śāṭhya+vivarjitaḥ)
 
 ## mukta-m0-p37-v905
-[should+give](dadyāt) [according+to+wealth](vitta+anusārataḥ)
+[should-give](dadyāt) [according-to-wealth](vitta+anusārataḥ)
 
 ## mukta-m0-p37-v906
-[always](nityam) [that](tat) [contemplation](cintana) [intent+upon](parāyaṇaḥ)
+[always](nityaṃ) [intent-on-contemplation-of-that](tat+cintana+parāyaṇaḥ)
 
 ## mukta-m0-p37-v907
-[by+various+kinds](nānāvidhaiḥ) [of+eatables](bhakṣyaiḥ) [by+lickables](lehyaiḥ) [by+suckables](coṣyaiḥ) [and+thus](tathā) [by+others](aparaiḥ)
+[with-various](nānāvidhaiḥ) [eatables](bhakṣyaiḥ) [lickables](lehyaiḥ) [and-suckables](coṣyaiḥ) [and](tathā) [others](aparaiḥ)
 
 ## mukta-m0-p37-v908
-[action+consisting](kriyāmayī) [initiation](dīkṣā) [accomplishment](sampat) [bestowing](dātrī) [is+declared](nirūpitā)
+[action-consisting](kriyā+mayī) [initiation](dīkṣā) [prosperity-giving](sampat+dātrī) [explained](nirūpitā)
 
 ## mukta-m0-p37-v909
-[thus](ayam) [initiation+procedure](dīkṣā+kramaḥ) [proclaimed](proktaḥ) [enjoyment](bhoga) [accompanied](yuk) [perfection](siddhim) [desiring](icchatām)
+[this](ayam) [initiation-procedure](dīkṣā+kramaḥ) [declared](proktaḥ) [of-those-desiring-siddhi](siddhim+icchatām) [endowed-with-enjoyment](bhoga+yuk)
 
 ## mukta-m0-p37-v910
-[by+which](yat) [nature](prakṛtyā) [self+tattva](ātma+tattvam) [and](ca) [of+the+classes](varṇānām) [has+been+declared](samudīritam)
+[which](yat) [nature](prakṛti) [and-self-principle](ātma+tattvam) [and](ca) [of-letters](varṇānāṃ) [declared](samudīritam)
 
 ## mukta-m0-p37-v911
-[to+the+child](śiśoḥ) [having+placed](nyasya) [these](imān) [varṇas](varṇān) [the+preceptor](deśika+sattamaḥ)
+[of-disciple](śiśoḥ) [should-place](nyasyet) [letters](arṇān) [best-of-teachers](deśika+sattamaḥ)
 
 ## mukta-m0-p37-v912
-[from+his+own+ability](sva+sāmarthyāt) [should+cause+to+bestow](dāpayed) [of+the+deity](devatā) [the+selfhood](ātmatām)
+[by-own-power](sva+sāmarthyāt) [should-bestow](dāpayet) [state-of-deity](devatā+ātmatām)
 
 ## mukta-m0-p37-v913
-[the+kala+initiation](kalā+dīkṣām) [the+gem](maṇim) [first](ādya) [eight+siddhis](aṣṭa+siddhi+dām)
+[kalā-initiation](kalā+dīkṣām) [giver-of-aṇimā-and-other-eight-siddhis](aṇimā+ādi+aṣṭa+siddhi+dām)
 
 ## mukta-m0-p37-v914
-[fifty+five](kupañcāśat) [kalās](kalāḥ) [on+the+left](vāme) [of+the+siddha+mantra+guru](siddha+mantra+guruḥ) [and](tu) [that](sā)
+[fifty-one-kalās](ku+pañcāśat+kalāḥ) [in-vāma](vāme) [of-accomplished-mantra-teacher](siddha+mantra+guroḥ) [indeed](tu) [that](sā)
 
 ## mukta-m0-p37-v915
-[nivṛtti](nivṛtti) [beginning+with](pramukhāḥ) [of+beings](bhūtānām) [five](pañca) [declared](īritāḥ)
+[beginning-with-nivṛtti](nivṛtti+pramukhāḥ) [of-beings](bhūtānāṃ) [five](pañca) [and](ca) [declared](īritāḥ)
 
 ## mukta-m0-p37-v916
-[from+the+foot](pādāt) [up+to+the+knee](jānu+paryantam) [nivṛtti](nivṛttiḥ) [situated](saṃsthitā) [the+kalā](kalā)
+[from-foot](pādāt) [up-to-knee](jānu+paryantaṃ) [nivṛtti](nivṛttiḥ) [situated](saṃsthitā) [kalā](kalā)
 
 ## mukta-m0-p37-v917
-[from+the+navel](nābhitaḥ) [up+to+the+throat](kaṇṭha+paryantam) [named+vidyā](vidyā+ākhyā) [situated](saṃsthitā) [the+kalā](kalā)
+[from-navel](nābhitaḥ) [up-to-throat](kaṇṭha+paryantaṃ) [named-vidyā](vidyā+ākhyā) [situated](saṃsthitā) [kalā](kalā)
 
 ## mukta-m0-p37-v918
-[from+the+forehead](bhālāt) [up+to+the+head](śiraḥ+avadhi) [proclaimed](proktā) [śāntyatītā](śāntyatītā) [the+kalā](kalā) [and+thus](tathā)
+[from-forehead](bhālāt) [up-to-head](śiraḥ+avadhi) [declared](proktā) [śāntyatītā](śāntyatītā) [kalā](kalā) [thus](tathā)
 
 ## mukta-m0-p37-v919
-[by+one's+own+command](svīya+ājñayā) [and+indeed](ca+eva) [initiation](dīkṣā) [by+five+kalās](pañca+kalā) [remembered](smṛtā)
+[by-own-command](svīya+ājñayā) [and](ca) [indeed](eva) [initiation](dīkṣā) [five-kalā](pañca+kalā) [remembered](smṛtā)
 
 ## mukta-m0-p37-v920
-[ka](ka) [to+ādi](ādi) [varṇas](varṇāḥ) [where](yatra) [twelve](dvādaśa) [situated](saṃsthitāḥ)
+[beginning-with-ka](ka+ādikāḥ) [letters](varṇāḥ) [where](yatra) [twelve](dvādaśa) [situated](saṃsthitāḥ)
 
 ## mukta-m0-p37-v921
-[of+the+sun](sūryasya) [sixteen+rays](ṣoḍaśa+aśu) [of+the+moon](vidhoḥ) [and+thus](tathā)
+[of-sun](sūryasya) [sixteen-rays](ṣoḍaśa+aṃśu) [of-moon](vidhoḥ) [likewise](tathā)
 
 ## mukta-m0-p37-v922
-[of+the+varṇa+kalās](varṇa+kalānām) [and](tu) [of+the+place+of+varṇas](varṇa+sthānāt) [and](ca) [contraction](saṃhṛtiḥ)
+[of-letter-kalās](varṇa+kalānām) [indeed](tu) [from-location-of-letters](varṇa+sthānāt) [and](ca) [withdrawal](saṃhṛtiḥ)
 
 ## mukta-m0-p37-v923
-[in+the+left+path](vāma+mārge) [and](ca) [veda+originated+initiation](veda+udbhavā+dīkṣā) [fruit+bestowing](phala+pradā)
+[in-vāma-path](vāma+mārge) [and](ca) [veda-initiation](veda+dīkṣā) [fruit-giving](phala+pradā)
 
 ## mukta-m0-p37-v924
-[consisting+of+the+Veda](veda+mayīm) [I+shall+declare](vakṣye) [which](yām) [having+attained](labdhvā) [sukhadāñjanaḥ](sukhadāñjanaḥ)
+[consisting-of-veda](veda+mayīm) [I-shall-speak](vakṣye) [which](yām) [having-obtained](labdhvā) [giver-of-happiness](sukha+dā) [person](janaḥ)
 
 ## mukta-m0-p37-v925
-[of+the+disciple](śiṣyasya) [should+meditate](dhyāyet) [on+the+lotus](kañjam) [four+petalled](catur+dalam)
+[of-disciple](śiṣyasya) [should-meditate](dhyāyet) [lotus](kañjaṃ) [four-petalled](catur+dalam)
