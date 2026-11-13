@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[cakora-mouth](cakorāsyaṃ) [japā-flower](japāpuṣpaṃ) [power](śaktiṃ) [bearing-crest](bibhracchikhānvitam)
+[cakora+faced](cakorāsyaṃ) [hibiscus+flower](japāpuṣpaṃ) [spear](śaktiṃ) [bearing+with-crest](bibhracchikhānvitam)
 
 ## mukta-m0-p44-v1077
-[bearing](dadhāna) [inauspicious](aśubha) [giving](dā) [mother-of-gods](devamātā) [glorious](yaśasvinī)
+[bearing](dadhānā) [auspicious+giver](śubhadā) [may-she-be](meṣyād) [god+mother](devamātā) [glorious](yaśasvinī)
 
 ## mukta-m0-p44-v1078
-[yellow-colored](pītavarṇā)
+[yellow+colored](pītavarṇā) [like-punarvasu+deity](punarvasvadhidevatāvat) [5](5) [ni0](ni0)
 
 ## mukta-m0-p44-v1079
-[rosary](akṣasūtraṃ) [japā](japāṃ) [bearing](bibhrat) [hands](hastayoḥ) [right-left](dakṣavāmayoḥ)
+[rosary](akṣasūtraṃ) [hibiscus-flower+bearing](japāṃbibhrad) [in-two-hands](dhastayor) [right+and-left](dakṣavāmayoḥ)
 
 ## mukta-m0-p44-v1080
-[golden-colored](kanakavarṇaḥ)
+[golden+colored](kanakavarṇaḥ) [like-twenty-four+form+ratha-hari](caturviṃśatimūrtirathaharivat) [2](2) [ni0](ni0)
 
 ## mukta-m0-p44-v1081
-[rosary](akṣasūtraṃ) [holding](dadhaddakṣe) [nectar-filled](sūdhāpūrṇaṃ) [pot](ghaṭaṃ) [other](pare)
+[rosary](akṣasūtraṃ) [holding](dadhad) [in-right](dakṣe) [nectar+filled](sūdhāpūrṇaṃ) [pot](ghaṭaṃ) [in-other](pare)
 
 ## mukta-m0-p44-v1082
-[white-colored](śvetavarṇam)
+[white+colored](śvetavarṇam)
 
 ## mukta-m0-p44-v1083
-[mace-handed](gadāpāṇi) [two-armed](dvibāhu) [to-be-made](kartavyo) [boon-giver](varadaḥ) [moon](śaśī)
+[mace+in-hand](gadāpāṇir) [two+armed](dvibāhuś) [and](ca) [to-be-made](kartavyo) [boon+giver](varadaḥ) [moon](śaśī)
 
 ## mukta-m0-p44-v1084
-[white-colored](śvetavarṇaḥ)
+[white+colored](śvetavarṇaḥ) [like-moon+in-nine-planets](navagrahasthacaṃdravat) [5](5) [ni0](ni0)
 
 ## mukta-m0-p44-v1085
-[lion-faced](siṃhāsyo) [right](dakṣiṇe) [thread](sūtraṃ) [banner](dhvajaṃ) [left-hand](vāmakare) [holding](dadhat)
+[lion+faced](siṃhāsyo) [in-right](dakṣiṇe) [rosary](sūtraṃ) [banner](dhvajaṃ) [in-left+hand](vāmakare) [holding](dadhat)
 
 ## mukta-m0-p44-v1086
-[blue-colored](nīlavarṇam)
+[blue+colored](nīlavarṇam)
 
 ## mukta-m0-p44-v1087
-[boon-giving-hand](varadānakaraṃ) [smoky-colored](dhūmravarṇaṃ) [wind](vāyu) [I-worship](mahaṃbhaje)
+[boon+giving+hand](varadānakaraṃ) [smoke+colored](dhūmravarṇaṃ) [wind-god](vāyu) [I](mahaṃ) [worship](bhaje)
 
 ## mukta-m0-p44-v1088
-[smoky-colored](dhūmravarṇaḥ)
+[smoke+colored](dhūmravarṇaḥ) [like-wind+in-five-elements](paṃcabhūtasthavāyuvat) [4](4) [ni0](ni0)
 
 ## mukta-m0-p44-v1089
-[pearl-rosary](muktājapākṣa) [holding](dhṛk) [right](dakṣe) [scale](tulā) [hand](hastaṃ) [left](tu+vāmataḥ)
+[pearl+hibiscus+rosary](muktājapākṣa) [holding](dhṛk) [in-right](dakṣe) [balance+hand](tulā hastaṃ) [indeed](tu) [from-left](vāmataḥ)
 
 ## mukta-m0-p44-v1090
-[white-colored](śvetavarṇam)
+[white+colored](śvetavarṇam)
 
 ## mukta-m0-p44-v1091
-[all-ornamented](sarvābharaṇavān) [white](śveto) [dharma](dharmaḥ) [to-be-made](kāryo) [by-knowing-one](vijānatā)
+[all+ornamented](sarvābharaṇavān) [white](śveto) [dharma](dharmaḥ) [to-be-made](kāryo) [by-the-knowing](vijānatā)
 
 ## mukta-m0-p44-v1092
-[white-colored](śvetavarṇaḥ)
+[white+colored](śvetavarṇaḥ)
 
 ## mukta-m0-p44-v1093
-[rosary](akṣasūtrā) [fear](bhayaṃ) [to-be-known](jñeyaṃ) [various-ornaments](nānābharaṇabhūṣitam)
+[rosary](akṣasūtrā) [fearlessness](bhayaṃ) [to-be-known](jñeyaṃ) [various+ornament+adorned](nānābharaṇabhūṣitam)
 
 ## mukta-m0-p44-v1094
-[champaka-colored](caṃpakavarṇam)
+[campaka+colored](caṃpakavarṇam)
 
 ## mukta-m0-p44-v1095
-[white-colored](śvetavarṇaḥ)
+[white+colored](śvetavarṇaḥ) [all+else](anyat sarvaṃ) [14](14) [to-be-seen+in-manuscript](manuṣudraṣṭavyam) [4](4) [ni0](ni0)
 
 ## mukta-m0-p44-v1096
-[rosary](akṣasūtraṃ) [pot](ghaṭaṃ) [holding](vibhrat) [lotus](paṃkajā) [boon-giver](varaṇānvitaḥ)
+[rosary](akṣasūtraṃ) [pot+bearing](ghaṭaṃvibhrat) [lotus+born](paṃkajā) [boon+endowed](varaṇānvitaḥ)
 
 ## mukta-m0-p44-v1097
-[durvā-dark-colored](dūrvāśyāmavarṇaḥ)
+[durva-grass+dark+colored](dūrvāśyāmavarṇaḥ)
 
 ## mukta-m0-p44-v1098
-[sāvitrī](sāvitrī) [of-him](tasya) [to-be-made](kartavyā) [left-lap-seated](vāmotsaṃgagatā) [auspicious](śubhā)
+[savitri](sāvitrī) [of-him](tasya) [to-be-made](kartavyā) [left+lap+seated](vāmotsaṃgagatā) [auspicious](śubhā)
 
 ## mukta-m0-p44-v1099
-[pink-colored](pāṭalavarṇaḥ)
+[pale-red+colored](pāṭalavarṇaḥ) [like-prajapati-brahma+in-five-brahmas](paṃcabrahmasthaprajāpatibrahmavat) [4](4) [ni0](ni0)
 
 ## mukta-m0-p44-v1100
-[rosary](akṣasūtraṃ) [trident](triśūlaṃ) [holding](bibhrāṇaṃ) [three-eyed](trilocanam)
+[rosary](akṣasūtraṃ) [trident](triśūlaṃ) [and](ca) [bearing](bibhrāṇaṃ) [and](ca) [three+eyed](trilocanam)

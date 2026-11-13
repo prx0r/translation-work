@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[varuṇaḥ](varuṇoṃbu) [patiḥ](patiḥsvarṇa) [svarṇaḥ](svarṇa) [varṇaḥ](varṇomakaravāhanaḥ) [makara-vāhanaḥ](makaravāhanaḥ)
+[varuṇa](varuṇoṃbu) [water](aṃbu) [lord](patiḥ) [gold](svarṇa) [color](varṇa) [makara](makara) [vehicle](vāhanaḥ)
 
 ## mukta-m0-p48-v1177
-[svarṇa-varṇaḥ](svarṇavarṇaḥ)
+[gold](svarṇa) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1178
-[hema-daṇḍa-dhvajaḥ](hemadaṃḍadhvajaḥ) [śyāmaḥ](śyāmo) [varṇataḥ](varṇato) [mohinī-priyaḥ](mohinīpriyaḥ)
+[gold](hema) [staff](daṃḍa) [banner](dhvajaḥ) [dark](śyāmo) [by-color](varṇato) [mohinī](mohinī) [beloved](priyaḥ)
 
 ## mukta-m0-p48-v1179
-[śyāma-varṇaḥ](śyāmavarṇaḥ)
+[dark](śyāma) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1180
-[nidhīśvaraḥ](nidhīśvaraḥ) [svarṇa-varṇaḥ](svarṇavarṇo) [dhana-dharūpa-vān-prabhuḥ](dhanadorūpavānprabhuḥ)
+[treasure](nidhi) [lord](īśvaraḥ) [gold](svarṇa) [colored](varṇo) [wealth](dhana) [giver](do) [beautiful](rūpavān) [lord](prabhuḥ)
 
 ## mukta-m0-p48-v1181
-[svarṇa-varṇaḥ](svarṇavarṇaḥ)
+[gold](svarṇa) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1182
-[varada-abhaya-śūla-akṣa](varadābhayaśūlākṣa) [sūtra-dhṛt](sūtradhṛtparameśvaraḥ) [parama-īśvaraḥ](parameśvaraḥ)
+[boon](varada) [fearlessness](abhaya) [trident](śūla) [rosary](akṣa) [thread](sūtra) [holder](dhṛt) [supreme](parama) [lord](īśvaraḥ)
 
 ## mukta-m0-p48-v1183
-[śveta-varṇaḥ](śvetavarṇaḥ)
+[white](śveta) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1184
-[dhruvaṃ](dhruvaṃdhruvāya) [dhruvāya](dhruvāya) [yaśase](yaśase) [cintayāmi](ciṃtayāmi) [sadā-mudā](sadāmudā)
+[firmly](dhruvaṃ) [to-dhruva](dhruvāya) [for-fame](yaśase) [i-meditate](ciṃtayāmi) [always](sadā) [with-joy](mudā)
 
 ## mukta-m0-p48-v1185
-[pīta-varṇaḥ](pītavarṇaḥ)
+[yellow](pīta) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1186
-[agni-śuśrūṣaṇa-rataṃ](agniśuśrūṣaṇaratamadhvaraṃ) [adhvaraṃ](adhvaraṃ) [praṇamemi](praṇamenvaham) [aham](aham)
+[fire](agni) [service](śuśrūṣaṇa) [delighting](ratam) [sacrifice](adhvaraṃ) [i-bow](praṇamen) [always](vaham)
 
 ## mukta-m0-p48-v1187
-[śyāma-varṇaḥ](śyāmavarṇaḥ)
+[dark](śyāma) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1188
-[ratna-siṃhāsana-gataṃ](ratnasiṃhāsanagataṃ) [somaṃ](somaṃ) [hṛdi-vibhāvaye](hṛdivibhāvaye)
+[jewel](ratna) [lion](siṃha) [throne](āsana) [seated](gataṃ) [soma](somaṃ) [in-heart](hṛdi) [i-contemplate](vibhāvaye)
 
 ## mukta-m0-p48-v1189
-[sita-varṇaḥ](sitavarṇaḥ)
+[white](sita) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1190
-[āpaḥ](āpaḥśubhapradāssaṃtu) [śubha-pradāḥ](śubhapradāḥ) [santu](santu) [matsya-vāhana-saṃgatāḥ](matsyavāhanasaṃgatāḥ)
+[waters](āpaḥ) [auspiciousness](śubha) [givers](pradās) [may-be](saṃtu) [fish](matsya) [vehicle](vāhana) [associated](saṃgatāḥ)
 
 ## mukta-m0-p48-v1191
-[śveta-varṇāḥ](śvetavarṇāḥ)
+[white](śveta) [colored](varṇāḥ)
 
 ## mukta-m0-p48-v1192
-[samasta-deva-nivaha-vandyamāna-pada-ambujaḥ](samastadevanivahavaṃdyamānapadāṃbujaḥ)
+[all](samasta) [god](deva) [multitude](nivaha) [worshipped](vaṃdyamāna) [foot](pada) [lotus](aṃbujaḥ)
 
 ## mukta-m0-p48-v1193
-[harid-varṇaḥ](haridvarṇaḥ)
+[green](harid) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1194
-[kirīṭa-ujjvala-mūrdhānam](kirīṭojjvalamūrdhānamanalaṃ) [analaṃ](analaṃ) [bhāvayāmi](bhāvayāmyaham) [aham](aham)
+[crown](kirīṭa) [shining](ujjvala) [head](mūrdhānam) [fire](analaṃ) [i-contemplate](bhāvayāmi) [i](aham)
 
 ## mukta-m0-p48-v1195
-[lohita-varṇaḥ](lohitavarṇaḥ)
+[red](lohita) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1196
-[pratyūṣaṃ](pratyūṣaṃ) [cintaye](ciṃtaye) [bhūyaḥ](bhūyaḥ) [pratyūha-unmūla-kāraṇam](pratyūhonmūlakāraṇam)
+[dawn](pratyūṣaṃ) [i-meditate](ciṃtaye) [again](bhūyaḥ) [obstacle](pratyūha) [uprooting](unmūla) [cause](kāraṇam)
 
 ## mukta-m0-p48-v1197
-[śveta-varṇaḥ](śvetavarṇaḥ)
+[white](śveta) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1198
-[akṣa-sūtra-ujjvala-karaṃ](akṣasūtrojjvalakaraṃ) [vyāghra-ajina-nivāsinam](vyāghrājinanivāsinam)
+[rosary](akṣa) [thread](sūtra) [shining](ujjvala) [hand](karaṃ) [tiger](vyāghra) [skin](ajina) [dwelling](nivāsinam)
 
 ## mukta-m0-p48-v1199
-[śveta-varṇaḥ](śvetavarṇaḥ)
+[white](śveta) [colored](varṇaḥ)
 
 ## mukta-m0-p48-v1200
-[āpaḥ](āpaḥsitā) [sitāḥ](sitā) [iti](iti) [proktāḥ](proktā) [hi](hi) [anala-lohitaḥ](analolohitaḥ) [smṛtaḥ](smṛtaḥ)
+[waters](āpaḥ) [white](sitā) [thus](iti) [declared](proktā) [indeed](hi) [fire](analaḥ) [red](lohitaḥ) [remembered](smṛtaḥ)

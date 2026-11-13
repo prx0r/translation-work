@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[blue+color](nīlavarṇaḥ)
+[blue](nīla) [+color](varṇaḥ)
 
 ## mukta-m0-p43-v1052
-[black+cloud](kālāṃbhodojjvalāṃgaṃ) [shining+limb](ujjvalāṃgaṃ) [waist+side](kaṭitaṭavilasaccārupītāṃbarāḍhyaṃ) [yellow+garment](pītāṃbarāḍhyaṃ) [bow](dhanvaṃ) [physician](tariṃ) [that](taṃ) [all+disease+forest+fire+play](nikhilagadavanavrātadāvāgnilīlam)
+[dark-cloud](kālāṃbhoda) [+splendid](ujjvala) [+limbed](āṃgaṃ) [hip](kaṭi) [+edge](taṭa) [+shining](vilasat) [+beautiful](cāru) [+yellow](pīta) [+garment](āmbara) [+adorned](āḍhyaṃ) [I-praise](vaṃde) [Dhanvantari](dhanvaṃtariṃ) [that](taṃ) [all](nikhila) [+disease](gada) [+forest](vana) [+multitude](vrāta) [+forest-fire](dāvāgni) [+play](līlam)
 
 ## mukta-m0-p43-v1053
-[bearing](bibhrāṇaḥ) [compassion+maker](karuṇākaraśśubhakarassarvāmayadhvaṃsakassarvaṃ) [auspicious+doer](śubhakaraḥ) [all+disease+destroyer](sarvāmayadhvaṃsakaḥ) [all](sarvaṃ) [your](te) [sin](duritaṃ) [cut](chinattu) [lord](bhagavān) [dhanvantari](dhanvaṃtarissaṃtatam) [constantly](saṃtatam)
+[bearing](bibhrāṇaḥ) [compassion](karuṇā) [+mine](karaḥ) [+auspicious](śubha) [+maker](karaḥ) [+all](sarva) [+disease](āmaya) [+destroyer](dhvaṃsakaḥ) [+all](sarvaṃ) [your](te) [sin](duritaṃ) [may-cut-off](chinattu) [lord](bhagavān) [+Dhanvantari](dhanvaṃtariḥ) [+continually](saṃtatam)
 
 ## mukta-m0-p43-v1054
-[blue+color](nīlavarṇaḥ)
+[blue](nīla) [+color](varṇaḥ)
 
 ## mukta-m0-p43-v1055
-[bow+arrow+holder](dhanurbāṇadharoraudro) [fierce](raudraḥ) [on+head](mastake) [tawny](kapilā) [matted+hair](jaṭāḥ)
+[bow](dhanur) [+arrow](bāṇa) [+holder](dharo) [+fierce](raudro) [on-head](mastake) [tawny](kapilā) [matted-hair](jaṭāḥ)
 
 ## mukta-m0-p43-v1056
-[yellow+color](pītavarṇaḥ)
+[yellow](pīta) [+color](varṇaḥ)
 
 ## mukta-m0-p43-v1057
-[thousand+eyed](sahasranetraṃ) [yellow+hued](pītābhamiṃdraṃ) [indra](iṃdraṃ) [in+heart](hṛdi) [meditate](vibhāvaye)
+[thousand](sahasra) [+eyed](netraṃ) [yellow](pīta) [+hued](ābham) [+Indra](iṃdraṃ) [in-heart](hṛdi) [I-should-meditate](vibhāvaye)
 
 ## mukta-m0-p43-v1058
-[yellow+color](pītavarṇaḥ)
+[yellow](pīta) [+color](varṇaḥ) [||](||) [(as-the-presiding-deity-of-Venus)]((śukrapratyadhi) [deity-like](devatāvat) [5](5) [ni0](ni0))
 
 ## mukta-m0-p43-v1059
-[three+eyed](tryakṣasūtrā) [rosary](sūtrā) [she](sa) [earring](kuṇḍā) [and](ca) [six+armed](ṣaḍbhujādaṃḍapaṃkajā) [staff+lotus](daṃḍapaṃkajā)
+[three](try) [+eyed](akṣa) [+with-rosary](sūtrā) [she](sa) [with-water-pot](kuṇḍā) [and](ca) [six](ṣaḍ) [+armed](bhuja) [+with-staff](daṃḍa) [+and-lotus](paṃkajā)
 
 ## mukta-m0-p43-v1060
-[white+color](śubhravarṇā)
+[white](śubhra) [+colored](varṇā)
 
 ## mukta-m0-p43-v1061
-[savitri](sāvitrī) [her](tasya) [to+be+done](kartavyā) [left+lap+seated](vāmotsaṃgagatāśubhā) [inauspicious](aśubhā)
+[Savitri](sāvitrī) [of-him](tasya) [to-be-made](kartavyā) [left](vāma) [+lap](utsaṃga) [+gone](gatā) [+auspicious](śubhā)
 
 ## mukta-m0-p43-v1062
-[pale+red+color](pāṭalavarṇaḥ)
+[pale-red](pāṭala) [+color](varṇaḥ)
 
 ## mukta-m0-p43-v1063
-[five+brahma+prajapati+brahma+like](paṃcabrahmasuprajāpatibrahmavat)
+[(as-the-five-Brahmas-Prajapati-Brahma)]((paṃcabrahma) [+Prajapati](suprajāpati) [+Brahma-like](brahmavat) [4](4) [ni0](ni0))
 
 ## mukta-m0-p43-v1064
-[axe+staff+lotus+hand](kuṭhāradaṃḍābjahasto) [girdle+earring+endowed](mekhalākuṇḍalānvitaḥ)
+[axe](kuṭhāra) [+staff](daṃḍa) [+lotus](abja) [+handed](hasto) [girdle](mekhalā) [+earrings](kuṇḍala) [+endowed-with](anvitaḥ)
 
 ## mukta-m0-p43-v1065
-[water+lily+color](kumudavarṇaḥ)
+[lily](kumuda) [+color](varṇaḥ)
 
 ## mukta-m0-p43-v1066
-[sacrificial+thread+upper+garment](yajñasūtrottarīyaṃ) [and](ca) [matted+hair+crown+joined](jaṭāmakuṭasaṃyutam)
+[sacred-thread](yajñasūtra) [+upper-garment](uttarīyaṃ) [and](ca) [matted-hair](jaṭā) [+crown](makuṭa) [+joined-with](saṃyutam)
 
 ## mukta-m0-p43-v1067
-[spoon](sruvaṃ) [right+hand](dakṣiṇahaste) [and](ca) [book](pustakaṃ) [left+hand](vāmahastake)
+[ladle](sruvaṃ) [right](dakṣiṇa) [+in-hand](haste) [and](ca) [book](pustakaṃ) [left](vāma) [+in-hand](hastake)
 
 ## mukta-m0-p43-v1068
-[pale+red+color](pāṭalavarṇaḥ)
+[pale-red](pāṭala) [+color](varṇaḥ) [||](||) [(as-Brahma-within-the-trinity)]((trimūrti) [+within](aṃtargata) [+Brahma-like](brahmavat) [4](4) [ni0](ni0))
 
 ## mukta-m0-p43-v1069
-[vina+hand+endowed](vīṇākarānvitaṃ) [divine](divyaṃ) [divine+garment+ornamented](divyavastravibhūṣitam)
+[lute](vīṇā) [+in-hand](kara) [+endowed-with](anvitaṃ) [divine](divyaṃ) [divine](divya) [+garment](vastra) [+adorned](vibhūṣitam)
 
 ## mukta-m0-p43-v1070
-[white+color](śubhravarṇam)
+[white](śubhra) [+color](varṇam)
 
 ## mukta-m0-p43-v1071
-[brightness+vessel+moon](bhāsākuṃdeṃdu) [conch+crystal+gem+like+shining](śaṃkhasphaṭikamaṇinibhābhāsamānā) [equal](samānā) [speech+goddess](vāgdevateyaṃ) [reside](nivasatu) [mouth](vadane) [always](sarvadāsu) [pleased](prasannā)
+[luster](bhāsā) [+jasmine](kuṃda) [+moon](iṃdu) [conch](śaṃkha) [+crystal](sphaṭika) [+gem](maṇi) [+resembling](nibhā) [+shining](bhāsamānā) [equal](samānā) [+same](sāma) [+indeed](eva) [+speech](āg) [+goddess](devatā) [+this](iyaṃ) [may-dwell](nivasatu) [in-mouth](vadane) [always](sarvadā) [+auspicious](su) [gracious](prasannā) [||](||) [1](1) [||](||) [white](śveta) [+colored](varṇā)
 
 ## mukta-m0-p43-v1072
-[noose+lotus+endowed](pāśapaṃkajasaṃyuktaṃ) [with+rosary](sākṣasūtraṃ) [with+book](sa) [book](pustakam)
+[noose](pāśa) [+lotus](paṃkaja) [+joined-with](saṃyuktaṃ) [with](sa) [+rosary](akṣasūtraṃ) [with](sa) [book](pustakam)
 
 ## mukta-m0-p43-v1073
-[explained+thus+determined](niruktamitinirṇītam)
+[etymology](niruktam) [+thus](iti) [+ascertained](nirṇītam) [||](||) [white](śubhra) [+color](varṇam)
 
 ## mukta-m0-p43-v1074
-[varuna+water+lord](varuṇoṃbupatissvarṇa) [golden+color](varṇo) [makara+vehicle](makaravāhanaḥ)
+[Varuna](varuṇaḥ) [+water](aṃbu) [+lord](patiḥ) [+gold](svarṇa) [color](varṇo) [crocodile](makara) [+vehicle](vāhanaḥ)
 
 ## mukta-m0-p43-v1075
-[golden+color](kanakavarṇaḥ)
+[golden](kanaka) [+color](varṇaḥ) [||](||) [(as-Varuna-among-the-guardians-of-directions)]((dikpāla) [+within](antargata) [+Varuna-like](varuṇavat) [4](4) [ni0](ni0))
