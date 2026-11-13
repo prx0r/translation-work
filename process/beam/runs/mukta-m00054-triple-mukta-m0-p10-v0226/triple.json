@@ -1,0 +1,987 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to Kālī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kālyā",
+     "gloss": "of-kālī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dayā",
+     "gloss": "compassion",
+     "grounds": "subject of arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātā",
+     "gloss": "arisen",
+     "grounds": "compassion came into being",
+     "morph": "f.nom.sg.past-participle (jan)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "refers to Śiva",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "cintā+paraḥ",
+     "gloss": "anxiety+engrossed",
+     "grounds": "compound: cintā (anxiety) + paraḥ (engrossed)",
+     "morph": "compound: m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "object of compassion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What compassionate response arose in Kālī toward Śiva absorbed in anxiety?",
+   "premises": [
+    "Kālī felt compassion.",
+    "Śiva was engrossed in anxiety.",
+    "Compassion arose in her toward him."
+   ],
+   "inference": "Kālī's compassion was awakened by Śiva's anxious state.",
+   "uncertainties": [],
+   "plain_english": "Compassion arose in Kālī for Śiva, who was absorbed in anxiety."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "yantrayā",
+     "gloss": "by-yantra",
+     "grounds": "instrumental means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "āgantadārabhya",
+     "gloss": "having-come+beginning",
+     "grounds": "compound/gerundive sense: starting from arrival",
+     "morph": "indecl.gerund (ā-gam + ārabhya)"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "prior state",
+     "morph": "indecl./adj-stem"
+    },
+    {
+     "surface": "bindutva+gocaram",
+     "gloss": "drop-state+perceivable",
+     "grounds": "compound: bindutva (state of bindu) + gocaram (within range)",
+     "morph": "compound: m.acc.sg"
+    }
+   ],
+   "question": "From what prior condition did Śiva become perceptible as the bindu through the yantra?",
+   "premises": [
+    "A yantra is involved as means.",
+    "There is a beginning from arrival.",
+    "A prior state becomes perceptible as bindu."
+   ],
+   "inference": "Through the yantra, Śiva came from a prior condition into the perceptible state of bindu.",
+   "uncertainties": [
+    "Exact syntactic role of āgantadārabhya is compressed."
+   ],
+   "plain_english": "By means of the yantra, beginning from arrival, he became perceptible in the prior state of the bindu."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "itastato",
+     "gloss": "here-and-there",
+     "grounds": "indicates wandering in all directions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmyamāṇaḥ",
+     "gloss": "wandering",
+     "grounds": "describes Śiva's movement",
+     "morph": "m.nom.sg.present-participle.passive (bhram)"
+    },
+    {
+     "surface": "trailokya+ñcakra+madhyakam",
+     "gloss": "three-world+wheel+middle",
+     "grounds": "compound: trailokya (three worlds) + cakra (wheel) + madhyakam (middle)",
+     "morph": "compound: m.acc.sg"
+    }
+   ],
+   "question": "Where was Śiva wandering while moving here and there in the cosmos?",
+   "premises": [
+    "Śiva was wandering here and there.",
+    "The wandering occurred within a specific locus.",
+    "That locus is the middle of the three-world wheel."
+   ],
+   "inference": "Śiva wandered through the center of the wheel of the three worlds.",
+   "uncertainties": [],
+   "plain_english": "Wandering here and there, he moved within the middle of the wheel of the three worlds."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "bhakta+prāṇa+priyā",
+     "gloss": "devotee+life+beloved",
+     "grounds": "compound: beloved as the life of devotees",
+     "morph": "compound: f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā+śrī+cakra+nāyikā",
+     "gloss": "great+śrī+wheel+mistress",
+     "grounds": "compound: mistress of the great Śrīcakra",
+     "morph": "compound: f.nom.sg"
+    }
+   ],
+   "question": "Which divine qualities identify the goddess who presides over the great Śrīcakra?",
+   "premises": [
+    "The goddess is beloved as devotees' life.",
+    "She is the mistress of the great Śrīcakra.",
+    "Both epithets describe the same deity."
+   ],
+   "inference": "The goddess is identified as the devotee-beloved mistress of the great Śrīcakra.",
+   "uncertainties": [],
+   "plain_english": "The goddess, beloved as the very life of devotees, is the mistress of the great Śrīcakra."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "rūpañ",
+     "gloss": "form",
+     "grounds": "manifest form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jātam",
+     "gloss": "born",
+     "grounds": "came into being",
+     "morph": "n.nom.sg.past-participle (jan)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jāgrat+tripurasundarī",
+     "gloss": "waking-state+tripurasundarī",
+     "grounds": "compound: Tripurasundarī in the waking state",
+     "morph": "compound: f.nom.sg"
+    }
+   ],
+   "question": "What form manifested as Tripurasundarī in the waking state, O great goddess?",
+   "premises": [
+    "A form came into being.",
+    "The form is identified as Tripurasundarī.",
+    "This manifestation is in the waking state."
+   ],
+   "inference": "The manifested form is Tripurasundarī in the waking state.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, a form was born as Tripurasundarī in the waking state."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kaṭākṣa+mātreṇa",
+     "gloss": "sidelong-glance+mere",
+     "grounds": "compound: by a mere sidelong glance",
+     "morph": "compound: n.inst.sg"
+    },
+    {
+     "surface": "tasyā+rūpa+dharaḥ",
+     "gloss": "of-her+form+holder",
+     "grounds": "compound: assuming her form",
+     "morph": "compound: m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "subject transformed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How did Śiva come to assume the goddess's form through her glance?",
+   "premises": [
+    "The goddess cast a sidelong glance.",
+    "A mere glance was sufficient.",
+    "Śiva became the holder of her form."
+   ],
+   "inference": "By the mere sidelong glance of the goddess, Śiva assumed her form.",
+   "uncertainties": [],
+   "plain_english": "By her mere sidelong glance, Śiva became the bearer of her form."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālyaṃ+śato",
+     "gloss": "of-kālī+portion",
+     "grounds": "compound: a portion of Kālī",
+     "morph": "compound: m.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jagat+sthāvara+jaṅgamam",
+     "gloss": "world+stationary+moving",
+     "grounds": "compound: the world of stationary and moving beings",
+     "morph": "compound: n.nom.sg"
+    }
+   ],
+   "question": "What claim is made about the world existing without a portion of Kālī?",
+   "premises": [
+    "The world includes stationary and moving beings.",
+    "A portion of Kālī is considered.",
+    "The verse negates existence without that portion."
+   ],
+   "inference": "The world of stationary and moving beings does not exist without a portion of Kālī.",
+   "uncertainties": [
+    "Surface kālyaṃ+śato is unusual; interpreted as kāly-aṃśataḥ."
+   ],
+   "plain_english": "O goddess, without a portion of Kālī there is no world of stationary and moving beings."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "sundaryā",
+     "gloss": "by-sundarī",
+     "grounds": "agent of entreaty",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "prārthitā",
+     "gloss": "entreated",
+     "grounds": "Kālī was requested",
+     "morph": "f.nom.sg.past-participle (prārth)"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "subject addressed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tuṣṭā",
+     "gloss": "pleased",
+     "grounds": "Kālī's response",
+     "morph": "f.nom.sg.past-participle (tuṣ)"
+    },
+    {
+     "surface": "provāca",
+     "gloss": "spoke",
+     "grounds": "uttered words",
+     "morph": "3.sg.perfect.active (pra-vac)"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "speaker identified again",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How did Kālī respond when entreated by Sundarī in this exchange?",
+   "premises": [
+    "Sundarī entreated Kālī.",
+    "Kālī became pleased.",
+    "Kālī spoke in response."
+   ],
+   "inference": "Being pleased by Sundarī's entreaty, Kālī spoke.",
+   "uncertainties": [],
+   "plain_english": "Entreated by Sundarī, Kālī was pleased and spoke."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "pūrva+avasthāsu",
+     "gloss": "in-previous+states",
+     "grounds": "compound: in former states or conditions",
+     "morph": "compound: f.loc.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-queen-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mama+aṃśaḥ",
+     "gloss": "my+portion",
+     "grounds": "compound: a portion of me",
+     "morph": "compound: m.nom.sg"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "remains",
+     "grounds": "continues to exist",
+     "morph": "3.sg.present.active (sthā)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What assurance does Kālī give about her portion in previous states?",
+   "premises": [
+    "Kālī addresses the beloved goddess.",
+    "She refers to previous states.",
+    "Her portion remains present there."
+   ],
+   "inference": "Kālī assures that her portion remains in the previous states.",
+   "uncertainties": [],
+   "plain_english": "O queen of gods, O beloved, my portion remains in the previous states."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "mad+bhaktānām",
+     "gloss": "of-my+devotees",
+     "grounds": "compound: of my devotees",
+     "morph": "compound: m.gen.pl"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "perpetual presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "remains",
+     "grounds": "continues to exist",
+     "morph": "3.sg.present.active (sthā)"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "emphatic certainty",
+     "morph": "n.nom.sg.past-participle (niś-ci)"
+    }
+   ],
+   "question": "What certainty is affirmed about Kālī's presence among her devotees?",
+   "premises": [
+    "Kālī speaks of her devotees.",
+    "Her presence is said to remain.",
+    "This presence is constant and certain."
+   ],
+   "inference": "Kālī certainly always remains with her devotees.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, it is certain that I always remain with my devotees."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "cintā+viṣṭā",
+     "gloss": "anxiety+filled",
+     "grounds": "compound: filled with anxiety",
+     "morph": "compound: f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālinā",
+     "gloss": "mālinī",
+     "grounds": "name or epithet; form as given",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "jātā",
+     "gloss": "became",
+     "grounds": "came to be",
+     "morph": "f.nom.sg.past-participle (jan)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative circumstance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic/contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "sundarī",
+     "grounds": "subject affected",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What emotional state overcame Sundarī in that situation involving Mālinī?",
+   "premises": [
+    "Sundarī is the subject.",
+    "Mālinī is involved in the situation.",
+    "Sundarī became filled with anxiety."
+   ],
+   "inference": "In that context, Sundarī became filled with anxiety.",
+   "uncertainties": [
+    "Role of mālinā is ambiguous in the given form."
+   ],
+   "plain_english": "But there Sundarī became filled with anxiety because of Mālinī."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasannā+abhūt",
+     "gloss": "became-pleased",
+     "grounds": "compound verb: became gracious",
+     "morph": "compound: 3.sg.aorist.active (bhū)"
+    },
+    {
+     "surface": "kṣaṇa+arddhena",
+     "gloss": "in-half+a-moment",
+     "grounds": "compound: in half a moment",
+     "morph": "compound: n.inst.sg"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "great-goddess",
+     "grounds": "epithet of Kālī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How quickly did the great goddess Kālī become pleased in response?",
+   "premises": [
+    "Kālī responded at that time.",
+    "She became pleased.",
+    "The change occurred in half a moment."
+   ],
+   "inference": "The great goddess Kālī became pleased instantly, in half a moment.",
+   "uncertainties": [],
+   "plain_english": "Then the great goddess Kālī became pleased in half a moment."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "mama",
+     "gloss": "to-me",
+     "grounds": "recipient of boon",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "siddhi+varam",
+     "gloss": "accomplishment+boon",
+     "grounds": "compound: boon of accomplishment",
+     "morph": "compound: m.acc.sg"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "requesting command",
+     "morph": "2.sg.imperative.active (dā)"
+    },
+    {
+     "surface": "varo",
+     "gloss": "boon",
+     "grounds": "boon in general",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prārthyate",
+     "gloss": "is-requested",
+     "grounds": "being asked for",
+     "morph": "3.sg.present.passive (prārth)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of request",
+     "morph": "pron.inst.sg"
+    }
+   ],
+   "question": "What specific boon is being requested from the goddess in this plea?",
+   "premises": [
+    "A boon is requested by the speaker.",
+    "The request is directed to the goddess.",
+    "The boon sought is one of accomplishment."
+   ],
+   "inference": "The speaker asks the goddess to grant the boon of accomplishment that is being requested.",
+   "uncertainties": [],
+   "plain_english": "Grant me the boon of accomplishment, the boon that is requested by me."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of names",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "nāma+sahasrañ",
+     "gloss": "name+thousand",
+     "grounds": "compound: thousand names",
+     "morph": "compound: n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent of composition",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previously",
+     "grounds": "earlier time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinirmitam",
+     "gloss": "composed",
+     "grounds": "created or fashioned",
+     "morph": "n.nom.sg.past-participle (vi-nir-mā)"
+    }
+   ],
+   "question": "What sacred composition does the speaker claim to have created previously?",
+   "premises": [
+    "The speaker refers to her own names.",
+    "A thousand names are mentioned.",
+    "The speaker composed them previously."
+   ],
+   "inference": "The speaker claims to have previously composed her own thousand names.",
+   "uncertainties": [],
+   "plain_english": "And my thousand names were previously composed by me."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "varadāna+abhidhan",
+     "gloss": "boon-giving+named",
+     "grounds": "compound: named as boon-giving",
+     "morph": "compound: n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣaṇa+arddhād",
+     "gloss": "in-half+a-moment",
+     "grounds": "compound: within half a moment",
+     "morph": "compound: n.abl.sg"
+    },
+    {
+     "surface": "varadāyakam",
+     "gloss": "boon-giving",
+     "grounds": "capable of granting boons",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What power is attributed to the composition named as boon-giving?",
+   "premises": [
+    "The composition has a name meaning boon-giving.",
+    "Its effect is described as immediate.",
+    "It grants boons within half a moment."
+   ],
+   "inference": "The boon-giving named composition grants boons in half a moment.",
+   "uncertainties": [],
+   "plain_english": "Named the boon-giving name, it grants boons in half a moment."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "from-that-time",
+     "grounds": "temporal starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "onward",
+     "grounds": "continuing from then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīvidyā",
+     "gloss": "śrīvidyā",
+     "grounds": "the goddess or tradition of Śrīvidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tat+nāma+pāṭha+tatparā",
+     "gloss": "that+name+recitation+devoted",
+     "grounds": "compound: devoted to reciting those names",
+     "morph": "compound: f.nom.sg"
+    }
+   ],
+   "question": "What devotional practice did Śrīvidyā adopt from that time onward?",
+   "premises": [
+    "A new period begins from that time.",
+    "Śrīvidyā is the subject.",
+    "She became devoted to reciting those names."
+   ],
+   "inference": "From that time onward, Śrīvidyā became devoted to reciting those names.",
+   "uncertainties": [],
+   "plain_english": "From that time onward, Śrīvidyā became devoted to the recitation of those names."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "being recounted",
+     "morph": "3.sg.present.passive (kath)"
+    },
+    {
+     "surface": "nāma+sāhasraṃ",
+     "gloss": "name+thousand",
+     "grounds": "compound: thousand names",
+     "morph": "compound: n.nom.sg"
+    },
+    {
+     "surface": "sa+avadhāna+manāḥ",
+     "gloss": "with-attentive+mind",
+     "grounds": "compound: with focused attention",
+     "morph": "compound: m.nom.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to hear",
+     "morph": "2.sg.imperative.active (śru)"
+    }
+   ],
+   "question": "What instruction is given to the listener regarding the thousand names?",
+   "premises": [
+    "The thousand names are being told.",
+    "The listener is addressed directly.",
+    "The listener must listen with attentive mind."
+   ],
+   "inference": "The listener is instructed to hear the thousand names with full attention.",
+   "uncertainties": [],
+   "plain_english": "The thousand names are being told; listen with an attentive mind."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "mahākāla",
+     "gloss": "mahākāla",
+     "grounds": "name of the seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "sage",
+     "grounds": "seer of the hymn",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokta",
+     "gloss": "declared",
+     "grounds": "stated as",
+     "morph": "m.nom.sg.past-participle (pra-vac)"
+    },
+    {
+     "surface": "uṣṇik+chandaḥ",
+     "gloss": "uṣṇik+meter",
+     "grounds": "compound: the Uṣṇik meter",
+     "morph": "compound: n.nom.sg"
+    },
+    {
+     "surface": "prakrīrtitam",
+     "gloss": "is-proclaimed",
+     "grounds": "declared as",
+     "morph": "n.nom.sg.past-participle (pra-kīrt)"
+    }
+   ],
+   "question": "Which seer and meter are declared for the thousand-name hymn?",
+   "premises": [
+    "A seer is declared for the hymn.",
+    "A meter is proclaimed for the hymn.",
+    "Mahākāla is the seer and Uṣṇik is the meter."
+   ],
+   "inference": "Mahākāla is declared the seer and Uṣṇik the meter of the hymn.",
+   "uncertainties": [],
+   "plain_english": "Mahākāla is declared the sage, and Uṣṇik is proclaimed the meter."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "hū",
+     "gloss": "hū",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "śakti of the hymn",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kālikā+bījaṅ",
+     "gloss": "kālikā+seed",
+     "grounds": "compound: the seed of Kālikā",
+     "morph": "compound: n.nom.sg"
+    },
+    {
+     "surface": "kīlakam",
+     "gloss": "peg",
+     "grounds": "kīlaka of the hymn",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "is-declared",
+     "grounds": "proclaimed as",
+     "morph": "n.nom.sg.past-participle (pari-kīrt)"
+    }
+   ],
+   "question": "What śakti, bīja, and kīlaka are declared for this Kālikā hymn?",
+   "premises": [
+    "The hymn has a declared śakti.",
+    "The hymn has a declared bīja.",
+    "The hymn has a declared kīlaka."
+   ],
+   "inference": "Hū is the śakti, the Kālikā bīja is the seed, and it is declared the kīlaka.",
+   "uncertainties": [
+    "Assignment of elements is compressed; traditional parsing may vary."
+   ],
+   "plain_english": "Hū is the śakti, the seed of Kālikā is the bīja, and it is declared the kīlaka."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "kālikā+varadāna+ādi",
+     "gloss": "kālikā+boon-giving+etc.",
+     "grounds": "compound: Kālikā, boon-giving, and so on",
+     "morph": "compound: n.nom.sg"
+    },
+    {
+     "surface": "sva+iṣṭa+arthe",
+     "gloss": "own+desired+purpose",
+     "grounds": "compound: for one's desired aim",
+     "morph": "compound: m.loc.sg"
+    },
+    {
+     "surface": "viniyogataḥ",
+     "gloss": "in-application",
+     "grounds": "by ritual application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose is the Kālikā boon-giving hymn applied in practice?",
+   "premises": [
+    "The hymn is associated with Kālikā and boon-giving.",
+    "It is used in application.",
+    "The application is for one's desired purpose."
+   ],
+   "inference": "The hymn is applied for the fulfillment of one's desired purpose.",
+   "uncertainties": [],
+   "plain_english": "The Kālikā boon-giving hymn and so forth is applied for one's desired purpose."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "kalā+koṭi+samā+bhāsā",
+     "gloss": "art+crore+equal+splendor",
+     "grounds": "compound: radiant like ten million arts",
+     "morph": "compound: f.nom.sg"
+    },
+    {
+     "surface": "kalā+koṭi+prapūjitā",
+     "gloss": "art+crore+worshipped",
+     "grounds": "compound: worshipped by ten million arts",
+     "morph": "compound: f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess's splendor and worship described in terms of countless arts?",
+   "premises": [
+    "Her radiance equals ten million arts.",
+    "She is worshipped by ten million arts.",
+    "Both descriptions exalt her magnificence."
+   ],
+   "inference": "The goddess is described as supremely radiant and worshipped through countless arts.",
+   "uncertainties": [],
+   "plain_english": "She shines like ten million arts and is worshipped by ten million arts."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "kalā+dhārā",
+     "gloss": "art+support",
+     "grounds": "compound: bearer or stream of arts",
+     "morph": "compound: f.nom.sg"
+    },
+    {
+     "surface": "kamalinī",
+     "gloss": "lotus-like",
+     "grounds": "lotus-associated epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kakārā",
+     "gloss": "ka-syllable",
+     "grounds": "epithet beginning with ka",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karuṇā",
+     "gloss": "compassion",
+     "grounds": "embodiment of compassion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaviḥ",
+     "gloss": "poet",
+     "grounds": "wise or poetic one",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which epithets beginning the name-series characterize the goddess's nature and qualities?",
+   "premises": [
+    "The verse lists divine epithets.",
+    "The epithets include support of arts and compassion.",
+    "The series begins with ka-syllable names."
+   ],
+   "inference": "The goddess is praised as bearer of arts, lotus-like, ka-formed, compassionate, and poetic.",
+   "uncertainties": [],
+   "plain_english": "She is the bearer of arts, lotus-like, of the syllable ka, compassion itself, and the poet."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "kakāra+koṭi+guṇitā",
+     "gloss": "ka-syllable+crore+multiplied",
+     "grounds": "compound: multiplied by ten million ka-syllables",
+     "morph": "compound: f.nom.sg"
+    },
+    {
+     "surface": "kakāra+koṭi+bhūṣaṇā",
+     "gloss": "ka-syllable+crore+adorned",
+     "grounds": "compound: adorned by ten million ka-syllables",
+     "morph": "compound: f.nom.sg"
+    }
+   ],
+   "question": "How are countless ka-syllables used to glorify the goddess in this name?",
+   "premises": [
+    "The goddess is associated with ka-syllables.",
+    "The syllables are counted in crores.",
+    "They multiply and adorn her."
+   ],
+   "inference": "The goddess is glorified as multiplied and adorned by countless ka-syllables.",
+   "uncertainties": [],
+   "plain_english": "She is multiplied by ten million ka-syllables and adorned by ten million ka-syllables."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "kakāra+varṇa+nilayā",
+     "gloss": "ka-syllable+letter+abode",
+     "grounds": "compound: dwelling in the letter ka",
+     "morph": "compound: f.nom.sg"
+    },
+    {
+     "surface": "kāka+śabda+parāyaṇā",
+     "gloss": "crow+sound+devoted",
+     "grounds": "compound: devoted to or associated with the sound kāka",
+     "morph": "compound: f.nom.sg"
+    }
+   ],
+   "question": "What associations with the ka-syllable and sound define the goddess in this epithet pair?",
+   "premises": [
+    "The goddess is linked to the letter ka.",
+    "She is described as its abode.",
+    "She is associated with the sound kāka."
+   ],
+   "inference": "The goddess is characterized as dwelling in the ka-letter and associated with the kāka sound.",
+   "uncertainties": [
+    "Semantic intent of kāka+śabda+parāyaṇā is obscure in isolation."
+   ],
+   "plain_english": "She is the abode of the letter ka and devoted to the sound kāka."
+  }
+ ]
+}

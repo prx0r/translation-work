@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "kakāra+varṇa+rūpā",
+     "gloss": "ka-syllable-letter-form",
+     "grounds": "bahuvrīhi-style compound epithet of the goddess; kakāra denotes the syllable ka",
+     "morph": "kakāra+varṇa+rūpa+f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaka+śabda+parāyaṇā",
+     "gloss": "kaka-sound-devoted",
+     "grounds": "compound epithet indicating devotion or intentness toward the sound kaka",
+     "morph": "kaka+śabda+parāyaṇa+f.nom.sg"
+    }
+   ],
+   "question": "What form and sonic devotion further characterize the goddess associated with the syllable ka?",
+   "premises": [
+    "The goddess is described as having the form of the syllable ka.",
+    "The goddess is described as devoted to the sound kaka.",
+    "These attributes continue the series of ka-related epithets."
+   ],
+   "inference": "The goddess is further defined by embodiment of the ka-syllable and devotion to the kaka sound.",
+   "uncertainties": [
+    "The precise nuance of parāyaṇā as devotion, intentness, or absorption is context-dependent."
+   ],
+   "plain_english": "She has the form of the syllable ka and is devoted to the sound 'kaka'."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2500,
+   "rows": [
+    {
+     "surface": "mahāsiddhīśvaro",
+     "gloss": "great-accomplishment-lord",
+     "grounds": "compound mahā-siddhi-īśvara; nominative singular masculine subject in sandhi form",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "divyo",
+     "gloss": "divine",
+     "grounds": "adjective qualifying the subject; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vīrabhāvaparāyaṇaḥ",
+     "gloss": "devoted-to-heroic-disposition",
+     "grounds": "compound vīra-bhāva-parāyaṇa; vīrabhāva refers to the heroic practitioner disposition (cf. paśu/vīra/divya grades)",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What exalted status and orientation characterize this accomplished being?",
+   "premises": [
+    "The being is a lord of great accomplishments.",
+    "The being is described as divine in nature.",
+    "The being is devoted to the heroic disposition."
+   ],
+   "inference": "The accomplished being attains divine lordship oriented toward the heroic disposition.",
+   "uncertainties": [
+    "vīrabhāva is treated as the technical heroic disposition/practitioner grade, though its precise ritual scope here is context-dependent."
+   ],
+   "plain_english": "He becomes a divine lord of great powers, devoted to the heroic disposition."
+  }
+ ]
+}

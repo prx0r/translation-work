@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p550-v13726
-[thirty-two](dvātriṃśat)+[petaled](patrake) [should-be-written](lekhyaṃ) [on-each-petal](śalām)+[one-by-one](ekaikam)+[syllable](akṣaram)
+[thirty-two](dvātriṃśat)+[petaled](patrake) [should-be-written](lekhyaṃ) [on-petal](śalām)+[one](eka)+[one](ekam)+[syllable](akṣaram)
 
 ## mukta-m0-p550-v13727
-[mantra](nṛsiṃhaṃ) [mantra](bhīṣaṇaṃ) [mantra](bhadraṃ) [mantra](mṛtyumṛtyuṃ) [mantra](namāmyaham)
+[man-lion](nṛsiṃhaṃ) [terrible](bhīṣaṇaṃ) [auspicious](bhadraṃ) [death](mṛtyu)+[of-death](mṛtyuṃ) [I-bow](namāmi)+[I](aham)
 
 ## mukta-m0-p550-v13728
-[thus](evam)+[in-front](agre) [indeed](tu) [in-eastern-part](prāgbhāge) [beginning-with-ka](kakārādīn)+[with-bindu](sabindukān)
+[thus](evam)+[in-front](agre) [and](tu) [eastern](prāk)+[part](bhāge) [ka](ka)+[syllable](kāra)+[beginning-with](ādīn)+[with](sa)+[bindu](bindukān)
 
 ## mukta-m0-p550-v13729
-[beginning-with-śa](śakārādīn)+[in-left-part](vāmabhāge) [having-placed](nyasya) [syllable-hyauṃ](hyauṃ) [and](ca) [likewise](tathā) [one-should-write](likhet)
+[śa](śa)+[syllable](kāra)+[beginning-with](ādīn)+[left](vāma)+[part](bhāge) [having-placed](nyasya) [indeed](hi)+[auṃ](auṃ) [and](ca) [likewise](tathā) [one-should-write](likhet)
 
 ## mukta-m0-p550-v13730
-[disease](roga)+[mental-affliction](ādhi)+[removing](hṛd)+[excellent](vastra)+[color](varṇa)+[four-goals](caturvarga)+[fruit](phala) [bestowing](pradam)
+[disease](roga)+[affliction](ādhi)+[removing](hṛt)+[garment](vastra)+[color](varṇa)+[four](catur)+[class](varga)+[fruit](phala) [giving](pradam)
 
 ## mukta-m0-p550-v13731
-[in-east](prāk)+[eight](aṣṭa) [petals](patraṃ) [lines](rekhāḥ)+[and](ca) [five](pañca) [should-be](syuḥ)+[on-the-left](dakṣiṇetarāḥ)
+[east](prāk)+[eight](aṣṭa) [petals](patraṃ) [lines](rekhāḥ)+[and](ca) [five](pañca) [should-be](syur)+[south](dakṣiṇa)+[other](itarāḥ)
 
 ## mukta-m0-p550-v13732
-[of-that](tasya)+[going-forward](agrimagatā) [lines](rekhāḥ) [hood-shaped](phaṇākārā) [one-should-extend](vivardhayet)
+[its](tasya)+[front](agrima)+[going](gatā) [lines](rekhāḥ) [hood](phaṇā)+[shaped](ākārā) [one-should-extend](vivardhayet)
 
 ## mukta-m0-p550-v13733
-[on-the-hoods](phaṇāsu) [should-be-written](lekhyaṃ) [bīja-krauṃ](krauṃ) [seed-syllable](bījaṃ) [in-the-cell](koṣṭhe) [verse](ślokam)+[in-anuṣṭubh-meter](anuṣṭubham)
+[on-hoods](phaṇāsu) [should-be-written](lekhyaṃ) [krauṃ](krauṃ) [seed-syllable](bījaṃ) [in-cell](koṣṭhe) [verse](śloka)+[anuṣṭubh](anuṣṭubham)
 
 ## mukta-m0-p550-v13734
-[all](samasta)+[diseases](roga)+[spirits](bhūta)+[and-so-forth](ādi)+[magical-rites](kṛtyā)+[afflictions](pīḍā)+[removing](apahārakam)
+[all](samasta)+[disease](roga)+[spirit](bhūta)+[etc](ādi)+[black-magic](kṛtyā)+[affliction](pīḍā)+[removing](apahārakam)
 
 ## mukta-m0-p550-v13735
-[eight](aṣṭa)+[petaled](patra)+[in-the-pericarp](karṇikāyāṃ) [name-of-the-target](sādhyākhyāṃ) [with-the-rite](karma)+[joined](saṃyutām)
+[eight](aṣṭa)+[petal](patra)+[pericarp](karṇikāyāṃ) [target](sādhya)+[name](ākhyāṃ) [ritual-action](karma)+[joined-with](saṃyutām)
 
 ## mukta-m0-p550-v13736
-[four](caturaḥ)+[and-four](caturo) [syllables](varṇān)+[on-each-petal](anupatraṃ) [then](tato) [one-should-write](likhet)
+[four](caturaḥ)+[four](caturo) [syllables](varṇān)+[on-each](anu)+[petal](patraṃ) [then](tato) [one-should-write](likhet)
 
 ## mukta-m0-p550-v13737
-[diagram](yantraṃ) [minor-ailments](kṣudra)+[disease](āmaya)+[destroying](haraṃ) [all](sarva)+[protection](rakṣā)+[making](karaṃ) [supreme](param)
+[diagram](yantraṃ) [minor](kṣudra)+[disease](āmaya)+[removing](haraṃ) [all](sarva)+[protection](rakṣā)+[making](karaṃ) [supreme](param)
 
 ## mukta-m0-p550-v13738
-[dwelling](veśma)+[ground-enclosure](bhūpura)+[with-pair](yugmena) [in-the-corners](koṇeṣu) [syllable-kṣauṃ](kṣauṃ) [one-should-write](samālikhet)
+[enclosure](veśma)+[earth](bhū)+[city](pura)+[pair](yugmena) [in-corners](koṇeṣu) [kṣauṃ](kṣauṃ) [one-should-write](samālikhet)
 
 ## mukta-m0-p550-v13739
-[beautiful](ramyaṃ) [nine](nava)+[squared-diagram](padaṃ) [having-made](kṛtvā) [water-pot](kalaśaṃ) [one-should-place](sthāpayet)+[here](iha)
+[beautiful](ramyaṃ) [nine](nava)+[square](padaṃ) [having-made](kṛtvā) [pitcher](kalaśaṃ) [one-should-place](sthāpayet)+[here](iha)
 
 ## mukta-m0-p550-v13740
-[cloth](vastra)+[pair](yugma)+[endowed-with](samāyuktam) [having-invoked](āvāhya) [man-lion](nṛhariṃ) [lord](vibhum)
+[cloth](vastra)+[pair](yugma)+[endowed-with](samāyuktam) [having-invoked](āvāhya) [man](nṛ)+[lion](harim) [lord](vibhum)
 
 ## mukta-m0-p550-v13741
-[eight](aṣṭa)+[more-than](ādhikaṃ) [then](tato) [mantra](mantraṃ) [thousand](sahasraṃ) [should-recite](prajapet)+[wise-one](sudhīḥ)
+[eight](aṣṭa)+[more](adhikaṃ) [then](tato) [mantra](mantraṃ) [thousand](sahasraṃ) [should-mutter](prajapet)+[wise-one](sudhīḥ)
 
 ## mukta-m0-p550-v13742
-[sprinkling](abhiṣiñcan)+[from-death's-mouth](mṛtyumukhāt)+[certainly](avaśyaṃ) [he](sa) [turns-back](nivarttate)
+[sprinkling](amiṣiñcan)+[death](mṛtyu)+[mouth](mukhāt)+[certainly](avaśyaṃ) [he](sa) [turns-back](nivarttate)
 
 ## mukta-m0-p550-v13743
-[one-should-feed](bhojayet)+[with-deity-consciousness](devatābuddhyā) [brahmins](bhūdevān)+[one-should-please](toṣayet)+[likewise](tathā)
+[one-should-feed](bhojayet)+[deity](devatā)+[with-notion](buddhyā) [earth](bhū)+[gods](devān)+[one-should-please](toṣayet)+[likewise](tathā)
 
 ## mukta-m0-p550-v13744
-[he-obtains](labhet)+[worldly-success](aihikasiddhiṃ) [he](sa) [in-the-hereafter](paratra)+[also](api) [and](ca) [rejoices](modate)
+[he-obtains](labhet)+[worldly](aihika)+[success](siddhiṃ) [he](sa) [in-other-world](paratra)+[also](api) [and](ca) [rejoices](modate)
 
 ## mukta-m0-p550-v13745
-[six](ṣaṭ)+[cornered](koṇa)+[in-the-middle-of-pericarp](karṇikāmadhye) [hṛllekhā-seed](hṛllekhāṃ) [with-target](sādhya)+[joined](saṃyutām)
+[six](ṣaṭ)+[corner](koṇa)+[pericarp](karṇikā)+[middle](madhye) [heart](hṛl)+[line](lekhāṃ) [target](sādhya)+[joined-with](saṃyutām)
 
 ## mukta-m0-p550-v13746
-[outside](bahir)+[eight](aṣṭa)+[petaled](dalaṃ) [having-made](kṛtvā) [vowel](svara)+[pairs](dvandvaṃ) [one-should-write](likhet)+[then](tataḥ)
+[outside](bahir)+[eight](aṣṭa)+[petal](dalaṃ) [having-made](kṛtvā) [vowel](svara)+[pair](dvandvaṃ) [one-should-write](likhet)+[then](tataḥ)
 
 ## mukta-m0-p550-v13747
-[man-lion](nṛsiṃha)+[anuṣṭubh](anuṣṭubh)+[of-the-mantra](manoḥ)+[outside](bahir)+[circle](vṛtta)+[pair](dvayaṃ) [one-should-write](likhet)
+[nṛsiṃha](nṛsiṃha)+[anuṣṭubh](anuṣṭ)+[mantra](manoḥ)+[outside](bahir)+[circle](vṛtta)+[pair](dvayaṃ) [one-should-write](likhet)
 
 ## mukta-m0-p550-v13748
-[mantra](nṛsiṃhaṃ) [mantra](bhīṣaṇaṃ) [mantra](bhadraṃ) [mantra](mṛtyumṛtyuṃ) [mantra](namāmyaham)
+[man-lion](nṛsiṃhaṃ) [terrible](bhīṣaṇaṃ) [auspicious](bhadraṃ) [death](mṛtyu)+[of-death](mṛtyuṃ) [I-bow](namāmi)+[I](aham)
 
 ## mukta-m0-p550-v13749
-[one-should-write](likhet)+[of-cintāmaṇi](cintāmaṇeḥ) [seed-syllable](kūṭaṃ) [in-the-corners](koṇeṣu) [previously](prāk)+[declared](udīritam)
+[one-should-write](likhet)+[cintāmaṇi](cintāmaṇeḥ) [seed-syllable](kūṭaṃ) [in-corners](koṇeṣu) [previously](prāk)+[stated](udīritam)
 
 ## mukta-m0-p550-v13750
-[poison](viṣa)+[disease](roga)+[enemy](ripu)+[affliction](kleśa)+[spirit](bhūta)+[planetary-influence](graha)+[fear](bhaya)+[and-so-forth](ādikam)
+[poison](viṣa)+[disease](roga)+[enemy](ripu)+[affliction](kleśa)+[spirit](bhūta)+[planet](graha)+[fear](bhaya)+[etc](ādikam)
