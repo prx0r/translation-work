@@ -7,28 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣiṇa",
-"quick_gloss": "southern-direction"
-},
-{
-"surface": "ārādhitā",
-"quick_gloss": "worshipped"
+"surface": "dakṣiṇā+ārādhitā",
+"quick_gloss": "southern-worshipped"
 },
 {
 "surface": "devā",
 "quick_gloss": "gods"
 },
 {
-"surface": "raṇa",
-"quick_gloss": "battle"
-},
-{
-"surface": "sāhāyya",
-"quick_gloss": "assistance"
-},
-{
-"surface": "kārakāḥ",
-"quick_gloss": "makers"
+"surface": "raṇa+sāhāyya+kārakāḥ",
+"quick_gloss": "battle+assistance+makers"
 }
 ]
 },
@@ -41,15 +29,11 @@
 "tokens": [
 {
 "surface": "kṣatriyāṇāṃ",
-"quick_gloss": "kṣatriyas"
+"quick_gloss": "of-kṣatriyas"
 },
 {
-"surface": "kṣaya",
-"quick_gloss": "destruction"
-},
-{
-"surface": "arthaṃ",
-"quick_gloss": "purpose"
+"surface": "kṣaya+arthaṃ",
+"quick_gloss": "for-destruction"
 },
 {
 "surface": "tu",
@@ -61,7 +45,7 @@
 },
 {
 "surface": "rāmāya",
-"quick_gloss": "to-Rāma"
+"quick_gloss": "to-rāma"
 },
 {
 "surface": "ca",
@@ -69,7 +53,7 @@
 },
 {
 "surface": "arpitāḥ",
-"quick_gloss": "given"
+"quick_gloss": "offered"
 }
 ]
 },
@@ -81,24 +65,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "matsya",
-"quick_gloss": "fish"
+"surface": "matsya+sthāne",
+"quick_gloss": "in-fish-place"
 },
 {
-"surface": "sthāne",
-"quick_gloss": "place"
+"surface": "khaṇḍaka+ādyaṃ",
+"quick_gloss": "khaṇḍaka-etc"
 },
 {
-"surface": "khaṇḍaka",
-"quick_gloss": "piece"
-},
-{
-"surface": "ādyaṃ",
-"quick_gloss": "etc."
-},
-{
-"surface": "dharma+patnyāṃ",
-"quick_gloss": "lawful-wife"
+"surface": "dharmma+patnyāṃ",
+"quick_gloss": "in-lawful-wife"
 },
 {
 "surface": "rataṃ",
@@ -106,7 +82,7 @@
 },
 {
 "surface": "matam",
-"quick_gloss": "opinion"
+"quick_gloss": "considered"
 }
 ]
 },
@@ -127,7 +103,7 @@
 },
 {
 "surface": "tārāṃ",
-"quick_gloss": "Tārā"
+"quick_gloss": "tārā"
 },
 {
 "surface": "na",
@@ -135,15 +111,11 @@
 },
 {
 "surface": "seveta",
-"quick_gloss": "would-serve"
+"quick_gloss": "would-worship"
 },
 {
-"surface": "loka+dvaya",
-"quick_gloss": "two-worlds"
-},
-{
-"surface": "parīpsayā",
-"quick_gloss": "desiring"
+"surface": "loka+dvaya+parīpsayā",
+"quick_gloss": "with-desire-for-two-worlds"
 }
 ]
 },
@@ -156,7 +128,7 @@
 "tokens": [
 {
 "surface": "tārāyāḥ",
-"quick_gloss": "of-Tārā"
+"quick_gloss": "of-tārā"
 },
 {
 "surface": "sat+gurau",
@@ -167,12 +139,8 @@
 "quick_gloss": "success"
 },
 {
-"surface": "strī",
-"quick_gloss": "in-woman"
-},
-{
-"surface": "rate",
-"quick_gloss": "delight"
+"surface": "strī+rate",
+"quick_gloss": "in-woman-delight"
 },
 {
 "surface": "bhrāntatā",
@@ -204,16 +172,8 @@
 "quick_gloss": "also"
 },
 {
-"surface": "varṇa",
-"quick_gloss": "class"
-},
-{
-"surface": "varṇa",
-"quick_gloss": "and-class"
-},
-{
-"surface": "adhikārataḥ",
-"quick_gloss": "according-to-eligibility"
+"surface": "varṇa+varṇa+adhikārataḥ",
+"quick_gloss": "according-to-class-and-class-eligibility"
 }
 ]
 },
@@ -226,31 +186,19 @@
 "tokens": [
 {
 "surface": "tārāyai",
-"quick_gloss": "to-Tārā"
+"quick_gloss": "to-tārā"
 },
 {
 "surface": "sakalā",
-"quick_gloss": "all"
+"quick_gloss": "sakalā"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
+"surface": "iti+uktvā",
+"quick_gloss": "thus-having-said"
 },
 {
-"surface": "uktvā",
-"quick_gloss": "having-said"
-},
-{
-"surface": "dustarāt",
-"quick_gloss": "from-difficult-to-cross"
-},
-{
-"surface": "tārayat",
-"quick_gloss": "saves"
-},
-{
-"surface": "dvayam",
-"quick_gloss": "pair"
+"surface": "dustarāt+tāraya+dvayam",
+"quick_gloss": "from-difficult-to-cross+saving-two"
 }
 ]
 },
@@ -262,20 +210,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nyāsa",
-"quick_gloss": "installation"
-},
-{
-"surface": "pujā",
-"quick_gloss": "worship"
-},
-{
-"surface": "japa",
-"quick_gloss": "recitation"
-},
-{
-"surface": "ādyaṃ",
-"quick_gloss": "etc."
+"surface": "nyāsa+pūjā+japa+ādyaṃ",
+"quick_gloss": "placement+worship+recitation-etc"
 },
 {
 "surface": "tu",
@@ -307,6 +243,10 @@
 "quick_gloss": "krīṃ"
 },
 {
+"surface": "krīṃ krīṃ krīṃ huṃ huṃ hrīṃ hrīṃ dakṣiṇe kālike krīṃ krīṃ krīṃ huṃ huṃ hrīṃ hrīṃ svāhā ||",
+"quick_gloss": "krīṃ krīṃ krīṃ huṃ huṃ hrīṃ hrīṃ dakṣiṇe kālike krīṃ krīṃ krīṃ huṃ huṃ hrīṃ hrīṃ svāhā ||"
+},
+{
 "surface": "krīṃ",
 "quick_gloss": "krīṃ"
 },
@@ -319,20 +259,12 @@
 "quick_gloss": "huṃ"
 },
 {
-"surface": "dviḥ",
-"quick_gloss": "twice"
+"surface": "dviḥ+uccāryya",
+"quick_gloss": "twice-having-uttered"
 },
 {
-"surface": "uccāryya",
-"quick_gloss": "having-uttered"
-},
-{
-"surface": "lajjā+bīja",
-"quick_gloss": "lajjā-seed"
-},
-{
-"surface": "dvayaṃ",
-"quick_gloss": "pair"
+"surface": "lajjā+bīja+dvayaṃ",
+"quick_gloss": "lajjā-seed-two"
 },
 {
 "surface": "tathā",
@@ -349,7 +281,7 @@
 "tokens": [
 {
 "surface": "krameṇa",
-"quick_gloss": "in-order"
+"quick_gloss": "in-sequence"
 },
 {
 "surface": "eva",
@@ -357,19 +289,15 @@
 },
 {
 "surface": "agni+gṛhiṇī",
-"quick_gloss": "fire-wife"
+"quick_gloss": "with-fire-wife"
 },
 {
-"surface": "mantraḥ",
+"surface": "mantro",
 "quick_gloss": "mantra"
 },
 {
-"surface": "dvāviṃśat",
-"quick_gloss": "twenty-two"
-},
-{
-"surface": "arṇakaḥ",
-"quick_gloss": "syllabled"
+"surface": "dvāviṃśat+arṇakaḥ",
+"quick_gloss": "twenty-two-syllabled"
 }
 ]
 },
@@ -386,7 +314,7 @@
 },
 {
 "surface": "kālikā",
-"quick_gloss": "Kālikā"
+"quick_gloss": "kālikā"
 },
 {
 "surface": "devī",
@@ -422,7 +350,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍ+aṅgāni",
+"surface": "ṣaṭ+aṅgāni",
 "quick_gloss": "six-limbs"
 },
 {
@@ -505,7 +433,7 @@
 },
 {
 "surface": "mantra+arṇaiḥ",
-"quick_gloss": "mantra-syllables"
+"quick_gloss": "with-mantra-syllables"
 },
 {
 "surface": "vyāpakaṃ",
@@ -530,23 +458,19 @@
 "tokens": [
 {
 "surface": "kālikāṃ",
-"quick_gloss": "Kālikā"
+"quick_gloss": "kālikā"
 },
 {
 "surface": "dakṣiṇāṃ",
-"quick_gloss": "Dakṣiṇā"
+"quick_gloss": "dakṣiṇā"
 },
 {
 "surface": "divyāṃ",
 "quick_gloss": "divine"
 },
 {
-"surface": "muṇḍa+mālā",
-"quick_gloss": "skull-garland"
-},
-{
-"surface": "vibhūṣitām",
-"quick_gloss": "adorned"
+"surface": "muṇḍa+mālā+vibhūṣitām",
+"quick_gloss": "with-skull-garland+adorned"
 }
 ]
 },
@@ -558,12 +482,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+megha",
-"quick_gloss": "great-cloud"
-},
-{
-"surface": "prabhāṃ",
-"quick_gloss": "splendor"
+"surface": "mahā+megha+prabhāṃ",
+"quick_gloss": "with-great-cloud+splendor"
 },
 {
 "surface": "śyāmāṃ",
@@ -575,7 +495,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "also"
+"quick_gloss": "and"
 },
 {
 "surface": "eva",
@@ -595,20 +515,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karṇa+avataṃsa+tā",
-"quick_gloss": "ear-ornaments"
-},
-{
-"surface": "nīta",
-"quick_gloss": "brought"
-},
-{
-"surface": "śava+yugma",
-"quick_gloss": "corpse-pair"
-},
-{
-"surface": "virājitām",
-"quick_gloss": "shining"
+"surface": "karṇa+avataṃsata+ānīta+śava+yugma+virājitām",
+"quick_gloss": "by-ear-ornaments+brought+pair-of-corpses+shining"
 }
 ]
 },
@@ -624,24 +532,16 @@
 "quick_gloss": "of-corpses"
 },
 {
-"surface": "kara",
-"quick_gloss": "hand"
+"surface": "kara+saṅgātaiḥ",
+"quick_gloss": "by-hand-assemblages"
 },
 {
-"surface": "saṅgātaiḥ",
-"quick_gloss": "collection"
-},
-{
-"surface": "kṛta",
-"quick_gloss": "made"
-},
-{
-"surface": "kāñcīṃ",
-"quick_gloss": "girdle"
+"surface": "kṛta+kāñcīṃ",
+"quick_gloss": "made-girdle"
 },
 {
 "surface": "hasat+mukhīm",
-"quick_gloss": "smiling-face"
+"quick_gloss": "smiling-faced"
 }
 ]
 },
@@ -654,19 +554,15 @@
 "tokens": [
 {
 "surface": "ghora+rūpāṃ",
-"quick_gloss": "terrible-form"
+"quick_gloss": "of-terrible-form"
 },
 {
 "surface": "mahā+raudrīṃ",
-"quick_gloss": "greatly-fierce"
+"quick_gloss": "very-fierce"
 },
 {
-"surface": "śmaśāna+ālaya",
-"quick_gloss": "cremation-ground"
-},
-{
-"surface": "vāsinīm",
-"quick_gloss": "dwelling"
+"surface": "śmaśāna+ālaya+vāsinīm",
+"quick_gloss": "cremation-ground+abode+dwelling"
 }
 ]
 },
@@ -678,24 +574,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śava+rūpa",
-"quick_gloss": "corpse-form"
-},
-{
-"surface": "mahā+deva",
-"quick_gloss": "Mahādeva"
-},
-{
-"surface": "hṛdaya",
-"quick_gloss": "heart"
-},
-{
-"surface": "upari",
-"quick_gloss": "upon"
-},
-{
-"surface": "saṃsthitām",
-"quick_gloss": "standing"
+"surface": "śava+rūpa+mahā+deva+hṛdaya+upari+saṃsthitām",
+"quick_gloss": "on-corpse-form+great-god+heart+above+standing"
 }
 ]
 },
@@ -707,20 +587,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahā+kāla",
-"quick_gloss": "Mahākāla"
+"surface": "mahā+kāla+samāyuktāṃ",
+"quick_gloss": "with-mahākāla+united"
 },
 {
-"surface": "samāyuktāṃ",
-"quick_gloss": "united"
-},
-{
-"surface": "śarva+upari",
-"quick_gloss": "on-Śarva"
-},
-{
-"surface": "rata+anvitām",
-"quick_gloss": "engaged-in-delight"
+"surface": "śarva+upari+rata+anvitām",
+"quick_gloss": "on-śarva+above+engaged-in-delight"
 }
 ]
 },
@@ -737,19 +609,15 @@
 },
 {
 "surface": "sañcintayet",
-"quick_gloss": "one-should-meditate"
+"quick_gloss": "one-should-contemplate"
 },
 {
 "surface": "kālīṃ",
-"quick_gloss": "Kālī"
+"quick_gloss": "kālī"
 },
 {
-"surface": "śmaśāna+ālaya",
-"quick_gloss": "cremation-ground"
-},
-{
-"surface": "vāsinīm",
-"quick_gloss": "dwelling"
+"surface": "śmaśāna+ālaya+vāsinīm",
+"quick_gloss": "cremation-ground+abode+dwelling"
 }
 ]
 },
@@ -765,8 +633,8 @@
 "quick_gloss": "lotus"
 },
 {
-"surface": "aṣṭa+dalaṃ",
-"quick_gloss": "eight-petaled"
+"surface": "aṣṭa+dalam",
+"quick_gloss": "eight-petalled"
 },
 {
 "surface": "bāhye",
@@ -795,7 +663,7 @@
 "tokens": [
 {
 "surface": "mahā+kālaṃ",
-"quick_gloss": "Mahākāla"
+"quick_gloss": "mahākāla"
 },
 {
 "surface": "ca",
@@ -811,10 +679,10 @@
 },
 {
 "surface": "nyaset",
-"quick_gloss": "should-place"
+"quick_gloss": "one-should-place"
 },
 {
-"surface": "eṣaḥ",
+"surface": "eṣa",
 "quick_gloss": "this"
 },
 {
@@ -836,15 +704,15 @@
 "tokens": [
 {
 "surface": "kālīṃ",
-"quick_gloss": "Kālī"
+"quick_gloss": "kālī"
 },
 {
 "surface": "kapālinīṃ",
-"quick_gloss": "Kapālinī"
+"quick_gloss": "kapālinī"
 },
 {
 "surface": "kullāṃ",
-"quick_gloss": "Kullā"
+"quick_gloss": "kullā"
 },
 {
 "surface": "prathame",

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "vaidha",
+     "gloss": "prescribed",
+     "grounds": "qualifies the festival day as enjoined by scripture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "utsava",
+     "gloss": "festival",
+     "grounds": "first member of compound with dinañca",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dinañca",
+     "gloss": "day-and",
+     "grounds": "fused form of dinam + ca; day joined with conjunction",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyakālaḥ",
+     "gloss": "auspicious-time",
+     "grounds": "predicate nominative identifying the occasion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "states what is declared about the occasion",
+     "morph": "m.nom.sg.past-participle"
+    }
+   ],
+   "question": "What kind of festival day is proclaimed to be an auspicious time?",
+   "premises": [
+    "A prescribed festival day is under consideration.",
+    "Such a day is explicitly identified in the text.",
+    "The identification declares it an auspicious time."
+   ],
+   "inference": "A prescribed festival day is proclaimed to be an auspicious time.",
+   "uncertainties": [],
+   "plain_english": "A prescribed festival day is indeed proclaimed to be an auspicious time."
+  }
+ ]
+}

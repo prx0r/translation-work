@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "arghya+dānaṃ",
+     "gloss": "water-offering-giving",
+     "grounds": "compound denoting the act of giving arghya; nominative subject/complement in context of sandhyā",
+     "morph": "compound: arghya+dāna; n.nom.sg"
+    },
+    {
+     "surface": "dineśāya",
+     "gloss": "to-day-lord",
+     "grounds": "recipient of the arghya offering, referring to the sun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "gāyatrī+japanaṃ",
+     "gloss": "gāyatrī-recitation",
+     "grounds": "compound denoting muttered recitation of the Gāyatrī mantra",
+     "morph": "compound: gāyatrī+japana; n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion alongside previously stated elements of vaidikī sandhyā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual acts are included within the performance of Vedic twilight worship?",
+   "premises": [
+    "Vedic twilight worship involves the giving of arghya.",
+    "The arghya offering is directed to the lord of the day.",
+    "Recitation of the Gāyatrī mantra is likewise performed."
+   ],
+   "inference": "Therefore, offering arghya to the sun and reciting the Gāyatrī are constituent acts of Vedic twilight worship.",
+   "uncertainties": [],
+   "plain_english": "Likewise, there is the giving of arghya to the sun and the recitation of the Gāyatrī."
+  }
+ ]
+}

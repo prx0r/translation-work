@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun indicating the means",
+     "morph": "pron.instr.sg.m"
+    },
+    {
+     "surface": "upāyena",
+     "gloss": "by-means",
+     "grounds": "instrument denoting method or expedient",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "lokānāṃ",
+     "gloss": "of-people",
+     "grounds": "refers to the subjects or populace",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "first member of compound deha-yātrā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yātrā",
+     "gloss": "sustenance",
+     "grounds": "second member of compound deha-yātrā, bodily maintenance or livelihood",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prasiddhati",
+     "gloss": "is-accomplished",
+     "grounds": "verb expressing successful attainment",
+     "morph": "3.sg.pres.act pra-√sidh"
+    }
+   ],
+   "question": "What means must a ruler employ to secure the bodily sustenance of the people?",
+   "premises": [
+    "A ruler bears responsibility for the welfare of the people.",
+    "The people require bodily sustenance for their continued existence.",
+    "Effective governance consists in adopting means that accomplish this sustenance."
+   ],
+   "inference": "Therefore, the ruler should employ whatever means successfully secure the people's bodily sustenance.",
+   "uncertainties": [
+    "The precise scope of deha-yātrā, whether mere survival or broader livelihood, is context-dependent."
+   ],
+   "plain_english": "By whatever means the bodily sustenance of the people is accomplished."
+  }
+ ]
+}

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1524,
- "question": "What material composition is specified for the ritual offering?",
+ "question": "Which lunar days are enumerated as significant observance days in this context?",
  "premises": [
-  "An offering is required",
-  "The material of the offering is specified",
-  "Barley flour is the prescribed substance"
+  "Certain lunar days are ritually significant.",
+  "Multiple days are listed together.",
+  "The list includes days from different lunar phases."
  ],
- "inference": "The offering should be made of barley flour",
+ "inference": "The fourteenth, eighth, bright eleventh, and new-moon days are enumerated.",
  "uncertainties": [
-  "The verb governing the offering is carried over from context"
+  "The verse lists days without explicitly stating the observance; the ritual action is implied by context."
  ],
- "plain_english": "And an offering made of barley flour."
+ "plain_english": "The fourteenth day, the eighth day, the bright eleventh day, and the new-moon day."
 }

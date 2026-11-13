@@ -3,34 +3,34 @@
  "verse": 1525,
  "rows": [
   {
-   "lemma": "dina+antare",
-   "morph": "compound.loc.sg.nt",
-   "grounds": "compound locative indicating a different day"
+   "lemma": "vaidha",
+   "morph": "compound-member",
+   "grounds": "qualifies the festival day as enjoined by scripture"
   },
   {
-   "lemma": "api",
+   "lemma": "utsava",
+   "morph": "compound-member",
+   "grounds": "first member of compound with dinañca"
+  },
+  {
+   "lemma": "dinañca",
+   "morph": "n.nom.sg + (indecl.)",
+   "grounds": "fused form of dinam + ca; day joined with conjunction"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "particle extending the temporal condition"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "dāsyāmi",
-   "morph": "1.sg.act-fut.√dā",
-   "grounds": "first-person promise to give the offering later"
+   "lemma": "puṇyakālaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "predicate nominative identifying the occasion"
   },
   {
-   "lemma": "svīkṛtya",
-   "morph": "(gerund).√svī-kṛ",
-   "grounds": "absolutive expressing prior acceptance"
-  },
-  {
-   "lemma": "sva+gṛham",
-   "morph": "compound.acc.sg.nt",
-   "grounds": "compound accusative indicating destination"
-  },
-  {
-   "lemma": "vrajet",
-   "morph": "3.sg.act-opt.√vraj",
-   "grounds": "optative prescribing departure after acceptance"
+   "lemma": "prakīrtitaḥ",
+   "morph": "m.nom.sg.past-participle",
+   "grounds": "states what is declared about the occasion"
   }
  ]
 }

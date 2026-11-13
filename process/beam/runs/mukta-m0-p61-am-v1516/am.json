@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p61",
  "verse": 1516,
- "question": "What floral offering must be made with this mantra after bowing?",
+ "question": "What alternative mantra forms are declared for the sāvitrī and gāyatrī recitation?",
  "premises": [
-  "Bowing precedes the offering",
-  "The offering is made with a specific mantra",
-  "Three handfuls of flowers are specified"
+  "Sāvitrī and gāyatrī are named.",
+  "Different initial forms are possible.",
+  "These forms are declared as alternatives."
  ],
- "inference": "Having bowed, one should throw three handfuls of flowers with this mantra",
- "uncertainties": [],
- "plain_english": "Having bowed, one should offer three handfuls of flowers with this mantra."
+ "inference": "The sāvitrī and gāyatrī are declared in alternative forms beginning with different bījas, including ai.",
+ "uncertainties": [
+  "The exact syntactic relation among the listed alternatives is compressed and partly ambiguous."
+ ],
+ "plain_english": "The sāvitrī and gāyatrī are declared as beginning with a seed, or beginning with vāgbhava, or beginning with the ai bīja."
 }
