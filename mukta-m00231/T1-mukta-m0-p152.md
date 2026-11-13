@@ -2,58 +2,58 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p152-v3776
-[bhikṣā](bhikṣā) [kāryā](kāryā) [na](na) [ca](ca) [svārthaṃ](svārthaṃ) [kuṇḍalyāḥ](kuṇḍalyāḥ) [prakṛteḥ](prakṛteḥ) [punaḥ](punaḥ)
+[alms](bhikṣā) [to-be-done](kāryā) [not](na) [and](ca) [for-own-sake](svārthaṃ) [of-kuṇḍalī](kuṇḍalyāḥ) [of-nature](prakṛteḥ) [again](punaḥ)
 
 ## mukta-m0-p152-v3777
-[avadhūtāśrame](avadhūta+āśrame) [sthitvā](sthitvā) [bhairavānandatatparaḥ](bhairava+ānanda+tatparaḥ)
+[in-avadhūta+stage](avadhūtāśrame) [having-stood](sthitvā) [in-bhairava+bliss+intent](bhairavānandatatparaḥ)
 
 ## mukta-m0-p152-v3778
-[tantramantrārcanaṃ](tantra+mantra+arcanaṃ) [sarvaṃ](sarvaṃ) [mayi](mayi) [jātaṃ](jātaṃ) [na](na) [cānyathā](ca+anyathā)
+[tantra+mantra+worship](tantramantrārcanaṃ) [all](sarvaṃ) [in-me](mayi) [arisen](jātaṃ) [not](na) [and+otherwise](cānyathā)
 
 ## mukta-m0-p152-v3779
-[raktamālyāmbaradharo](rakta+mālya+ambara+dharaḥ) [hetuyuktaḥ](hetu+yuktaḥ) [sadā](sadā) [bhavet](bhavet)
+[red+garland+garment+wearing](raktamālyāmbaradharo) [with-reason+endowed](hetuyuktaḥ) [always](sadā) [should-be](bhavet)
 
 ## mukta-m0-p152-v3780
-[yena](yena) [kenāpi](kena+api) [veśena](veśena) [yena](yena) [kenā'pyalakṣitaḥ](kena+api+alakṣitaḥ)
+[by-whatever](yena) [by-any](kenāpi) [guise](veśena) [by-whatever](yena) [by-any+unnoticed](kenā'pyalakṣitaḥ)
 
 ## mukta-m0-p152-v3781
-[unmattamukajaḍavat](unmatta+muka+jaḍa+vat) [virale](virale) [lokamadhyage](loka+madhya+ge)
+[mad+mute+dull+like](unmattamukajaḍavat) [in-solitude](virale) [in-people+midst](lokamadhyage)
 
 ## mukta-m0-p152-v3782
-[nānāveśadharo](nānā+veśa+dharaḥ) [yogī](yogī) [vicarettu](vicaret+tu) [mahītale](mahī+tale)
+[various+guise+wearing](nānāveśadharo) [yogin](yogī) [should-wander](vicarettu) [on-earth+surface](mahītale)
 
 ## mukta-m0-p152-v3783
-[sarvabhakṣo](sarva+bhakṣaḥ) [yathā](yathā) [vahnistathā](vahniḥ+tathā) [yogī](yogī) [sadā](sadā) [śuciḥ](śuciḥ)
+[all+eating](sarvabhakṣo) [as](yathā) [fire](vahnis) [so](tathā) [yogin](yogī) [always](sadā) [pure](śuciḥ)
 
 ## mukta-m0-p152-v3784
-[kṣīyate](kṣīyate) [na](na) [ca](ca) [pāpena](pāpena) [badhyate](badhyate) [na](na) [ca](ca) [janmanā](janmanā)
+[is-diminished](kṣīyate) [not](na) [and](ca) [by-sin](pāpena) [is-bound](badhyate) [not](na) [and](ca) [by-birth](janmanā)
 
 ## mukta-m0-p152-v3785
-[tathā](tathā) [jñānaparo](jñāna+paraḥ) [yogī](yogī) [krīḍannindriyapannagaiḥ](krīḍan+indriya+pannagaiḥ)
+[so](tathā) [knowledge+devoted](jñānaparo) [yogin](yogī) [playing+with-sense+serpents](krīḍannindriyapannagaiḥ)
 
 ## mukta-m0-p152-v3786
-[gandhaṃ](gandhaṃ) [puṣpañca](puṣpaṃ+ca) [tāmbulaṃ](tāmbulaṃ) [naivedyaṃ](naivedyaṃ) [yatra](yatra) [yadbhavet](yat+bhavet)
+[fragrance](gandhaṃ) [flower+and](puṣpañca) [betel](tāmbulaṃ) [offering](naivedyaṃ) [where](yatra) [whatever+may-be](yadbhavet)
 
 ## mukta-m0-p152-v3787
-[ātmanyeva](ātmani+eva) [samāyojya](samāyojya) [devīrūpakuleśvaraḥ](devī+rūpa+kula+īśvaraḥ)
+[in-self+alone](ātmanyeva) [having-united](samāyojya) [goddess+form+kula+lord](devīrūpakuleśvaraḥ)
 
 ## mukta-m0-p152-v3788
-[pūrṇo'haṃ](pūrṇaḥ+aham) [bhairavaścāhaṃ](bhairavaḥ+ca+aham) [nityānando'hamavyayaḥ](nitya+ānandaḥ+aham+avyayaḥ)
+[full+I](pūrṇo'haṃ) [bhairava+and+I](bhairavaścāhaṃ) [eternal+bliss+I](nityānando'ham) [imperishable](avyayaḥ)
 
 ## mukta-m0-p152-v3789
-[sarvaśāstrābhiyukto'haṃ](sarva+śāstra+abhiyuktaḥ+aham) [sarvamantrārthapāsyāḥ](sarva+mantra+artha+pāsyāḥ)
+[all+scriptures+endowed+I](sarvaśāstrābhiyukto'haṃ) [all+mantra+meaning+protector](sarvamantrārthapāsyāḥ)
 
 ## mukta-m0-p152-v3790
-[ānandarūpavān](ānanda+rūpa+vān) [bhūtvā](bhūtvā) [sarveṣāṃ](sarveṣāṃ) [priyakāraka](priya+kāraka)
+[bliss+form+possessing](ānandarūpavān) [having-become](bhūtvā) [of-all](sarveṣāṃ) [dear+doer](priyakāraka)
 
 ## mukta-m0-p152-v3791
-[cirājjātadhūto](cirāt+jāta+dhūtaḥ) [dvitīyo](dvitīyaḥ) [maheśaḥ](maheśaḥ)
+[long-since+born+shaken-off](cirājjātadhūto) [second](dvitīyo) [great+lord](maheśaḥ)
 
 ## mukta-m0-p152-v3792
-[virakto'vadhūto](viraktaḥ+avadhūtaḥ) [dvitīyo](dvitīyaḥ) [maheśaḥ](maheśaḥ)
+[dispassionate](virakto') [avadhūta](avadhūto) [second](dvitīyo) [great+lord](maheśaḥ)
 
 ## mukta-m0-p152-v3793
-[kaulo](kaulaḥ) [dharmaḥ](dharmaḥ) [paramagahano](parama+gahanaḥ) [yogināmapyagamyaḥ](yoginām+api+agamyaḥ)
+[kaula](kaulo) [dharma](dharmaḥ) [supremely+profound](paramagahano) [of-yogins+even+inaccessible](yogināmapyagamyaḥ)
 
 ## mukta-m0-p152-v3794
-[iti](iti) [śrīmajjñānānandaparamahaṃsaviracite](śrīmat+jñāna+ānanda+paramahaṃsa+viracite) [kaulāvalīnirṇaye](kaulāvalī+nirṇaye) [ekaviṃśollāsaḥ](ekaviṃśa+ullāsaḥ) [samāptaḥ](samāptaḥ)
+[thus](iti) [by-venerable+jñānānanda+paramahaṃsa+composed](śrīmajjñānānandaparamahaṃsaviracite) [in-kaulāvalīnirṇaya](kaulāvalīnirṇaye) [twenty-first+chapter](ekaviṃśollāsaḥ) [completed](samāptaḥ)

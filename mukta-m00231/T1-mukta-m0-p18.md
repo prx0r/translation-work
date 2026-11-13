@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-wind-corner(vāyukoṇaṃ) then(tadā) fire-corner(agneyam) īśāna(īśānaṃ) demon(rākṣasaṃ) becomes(bhavet)
+[wind-corner](vāyukoṇaṃ) [then](tadā) [fire-direction](āgneyam) [lord's-direction](īśānaṃ) [demon-direction](rākṣasaṃ) [should-be](bhavet)
 
 ## mukta-m0-p18-v427
-east-direction(pūrvāśā) indeed(eva) then(tadā) that(sā) direction(dik) demon-corner(rakṣaḥkoṇa) but(tu) fire(vahnikam)
+[east](pūrvā) [direction](āśa) [indeed](iva) [then](tadā) [that](sā) [direction](dik) [demon](rakṣaḥ) [corner](koṇan) [but](tu) [fire-direction](vahnikam)
 
 ## mukta-m0-p18-v428
-east(pūrvāśā) also(api) then(tadā) to-be-known(jñeyā) east(pūrvāśā) indeed(eva) not(na) doubt(saṃśayaḥ)
+[east](pūrvā) [direction](āśā) [also](pi) [then](tadā) [to-be-known](jñeyā) [east](pūrvā) [direction](āśa) [indeed](iva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p18-v429
-when(yadā) direction(āśā) facing(abhimukhaḥ) mantra-practitioner(mantrī) worships(pūjayet) caṇḍikā(caṇḍikāṃ) auspicious(śubhām)
+[when](yadā) [direction](āśā) [facing](abhimukho) [minister](mantrī) [should-worship](pūjayec) [Caṇḍikā](caṇḍikāṃ) [auspicious](śubhām)
 
 ## mukta-m0-p18-v430
-goddess(devī) behind(paścāt) west(pratīcī) is(syāt) east(prācī) but(tu) caṇḍikā(caṇḍikā) before(puraḥ)
+[goddess](devī) [behind](paścāt) [west](pratīcī) [should-be](syāt) [east](prācī) [but](tu) [Caṇḍikā](caṇḍikā) [in-front](puraḥ)
 
 ## mukta-m0-p18-v431
-worshipable(pūjya) worshiper(pūjaka) of-two(yor) between(antaḥ) east(pūrvāśā) indeed(eva) is-said(nigadyate)
+[worshipped](pūjya) [and-worshipper](pūjakayor) [between](antaḥ) [east](pūrvā) [direction](āśa) [indeed](iva) [is-declared](nigadyate)
 
 ## mukta-m0-p18-v432
-lead(sīsake) bronze(kāṃśya) vessel(pātre) or(vā) tin(raṅge) or(vā) practitioner(sādhaka) best(uttamaḥ)
+[in-lead](sīsake) [bell-metal](kāṃśya) [vessel](pātre) [or](vā) [in-tin](raṅge) [or](vā) [practitioner](sādhaka) [best](uttamaḥ)
 
 ## mukta-m0-p18-v433
-placed(sthāpitam) if(yadi) by-greed(lobhena) by-delusion(mohena) by-ignorance(ajñānataḥ) even(api) or(vā)
+[placed](sthāpitaṃ) [if](yadi) [by-greed](lobhena) [by-delusion](mohena) [by-ignorance](ajñānato') [even](pi) [or](vā)
 
 ## mukta-m0-p18-v434
-flower(puṣpam) there(tatra) having-placed(vinikṣipya) scent(gandha) sandal(candana) joined(saṃyutam)
+[flower](puṣpaṃ) [there](tatra) [having-placed](vinikṣipya) [fragrance](gandha) [and-sandalwood](candana) [endowed-with](saṃyutam)
 
 ## mukta-m0-p18-v435
-self(ātmā) by-nondifference(abhedena) having-imagined(saṃbhāvya) flower(puṣpam) should-give(dadyāt) own(sva) on-head(mūrddhani)
+[self](ātmā) [with-non-difference](abhedena) [having-conceived](saṃbhāvya) [flower](puṣpaṃ) [should-place](dadyāt) [own](sva) [on-head](mūrddhani)
 
 ## mukta-m0-p18-v436
-thus(iti) glorious(śrīmat) jñānānanda(jñānānanda) paramahaṃsa(paramahaṃsa) composed(viracite) kaulāvalī(kaulāvalī) in-determination(nirṇaye) third(tṛtīya) chapter(ullāsaḥ)
+[thus](iti) [illustrious](śrīmaj) [Jñānānanda](jñānānanda) [Paramahaṃsa](paramahaṃsa) [composed-by](viracite) [in-Kaulāvalīnirṇaya](kaulāvalīnirṇaye) [third](tṛtīya) [chapter](ullāsaḥ)
 
 ## mukta-m0-p18-v437
-bālā(bālām) or(vā) tripurā(tripurām) goddess(devīm) right(savyām) or(vā) also(api) then(atha) bhairavī(bhairavīm)
+[Bālā](bālāṃ) [or](vā) [Tripurā](tripurāṃ) [goddess](devīṃ) [Savyā](savyāṃ) [or](vā) [also](api) [or](atha) [Bhairavī](bhairavīm)
 
 ## mukta-m0-p18-v438
-by-rightness(dākṣiṇyāt) left(vāma) from-state(bhāvāt) or(vā) in-every-way(sarvathā) accomplishment(siddhim) obtains(āpnuyāt)
+[from-right-practice](dākṣiṇyād) [or-from-left-practice](vāmabhāvād) [or](vā) [in-all-ways](sarvathā) [attains-success](siddhim) [obtains](āpnuyāt)
 
 ## mukta-m0-p18-v439
-as(yathā) so(tathā) by-method(prakāreṇa) left(vāma) from-right(dakṣiṇataḥ) should-worship(yajet)
+[as](yathā) [so](tathā) [in-manner](prakāreṇa) [by-left](vāma) [and-right](dakṣiṇato) [one-should-worship](yajet)
 
 ## mukta-m0-p18-v440
-leftover(ucchiṣṭa) bhairavī(bhairavīm) and(ca) indeed(eva) tārā(tārām) tripurasundarī(tripurasundarīm)
+[Ucchiṣṭa-Bhairavī](ucchiṣṭabhairavīñ) [and](ca) [indeed](eva) [Tārā](tārāṃ) [Tripurasundarī](tripurasundarīm)
 
 ## mukta-m0-p18-v441
-these(etāḥ) but(tu) left(vāma) by-mode(bhāvena) worshipable(pūjyā) rightness(dakṣiṇatām) without(vinā)
+[these](etās) [but](tu) [with-left-practice](vāmabhāvena) [to-be-worshipped](pūjyā) [right-practice](dakṣiṇatāṃ) [without](vinā)
 
 ## mukta-m0-p18-v442
-from-left(vāmāt) all(sarva) prosperity(samṛddhiḥ) is(syāt) of-goddess(devyāḥ) more-dear(priyataraḥ) becomes(bhavet)
+[from-left](vāmāt) [all](sarva) [prosperity](samṛddhiḥ) [should-be](syād) [of-goddess](devyāḥ) [most-beloved](priyataro) [should-become](bhavet)
 
 ## mukta-m0-p18-v443
-brahmā(brahmā) also(api) and(ca) becomes(bhavet) left(vāmaḥ) viṣṇu(viṣṇuḥ) and(ca) indeed(eva) sadāśiva(sadāśivaḥ)
+[Brahmā](brahmā) [also](api) [and](ca) [became](bhaved) [left-practitioner](vāmo) [Viṣṇu](viṣṇuś) [and](ca) [indeed](eva) [Sadāśiva](sadāśivaḥ)
 
 ## mukta-m0-p18-v444
-she(sā) but(tu) right(dakṣiṇa) by-left-pair(vāmābhyām) to-be-worshiped(pūjanīyā) with-effort(prayatnataḥ)
+[she](sā) [but](tu) [by-right](dakṣiṇa) [and-left](vāmābhyāṃ) [to-be-worshipped](pūjanīyā) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p18-v445
-fish(matsya) meat(māṃsa) liquor(āsava) enjoyer(bhogī) greedy(lolupaḥ) in-women(strīṣu) always(sarvadā)
+[fish](matsya) [meat](māṃsa) [wine](āsava) [enjoyer](ābhogī) [desirous](lolupaḥ) [in-women](strīṣu) [always](sarvadā)
 
 ## mukta-m0-p18-v446
-bhairava(bhairavaḥ) also(api) becomes(bhavet) left(vāmaḥ) so(tathā) other(anye) deities(devatā) etc(ādayaḥ)
+[Bhairava](bhairavo') [also](pi) [became](bhaved) [left-practitioner](vāmas) [likewise](tathā) [other](anye) [deities](devatā) [and-so-forth](ādayaḥ)
 
 ## mukta-m0-p18-v447
-other(anyāḥ) and(ca) caṇḍikā(caṇḍikā) of-goddess(devyāḥ) child(bālikā) forms(mūrtayaḥ) remembered(smṛtāḥ)
+[other](anyāś) [and](ca) [of-Caṇḍikā](caṇḍikā) [goddess](devyā) [young-girl](bālikā) [forms](mūrtayaḥ) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p18-v448
-vāgbhavī(vāgbhavī) and(ca) of-sarasvatī(sarasvatyāḥ) child(bālikā) form(mūrtiḥ) declared(īritā)
+[Vāgbhavī](vāgbhavī) [and](ca) [of-Sarasvatī](sarasvatyā) [young-girl](bālikā) [form](mūrtir) [is-declared](īritā)
 
 ## mukta-m0-p18-v449
-worshiper(pūjakaḥ) also(api) becomes(bhavet) left(vāmaḥ) so(tathā) indeed(eva) always(satatam) guru(guruḥ)
+[worshipper](pūjako') [also](pi) [should-be](bhaved) [left-practitioner](vāmas) [likewise](tathā) [indeed](eva) [always](satataṃ) [guru](guruḥ)
 
 ## mukta-m0-p18-v450
-mahābhairava(mahābhairava) by-form(rūpeṇa) so(tathā) and(ca) sexual(rati) in-union(saṅgame)
+[in-Mahābhairava](mahābhairava) [form](rūpeṇa) [and](tathā) [and](ca) [in-sexual](rati) [union](saṅgame)
