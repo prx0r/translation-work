@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p14",
  "verse": 348,
- "question": "What attainment results from performing the prescribed skull ritual correctly?",
+ "question": "What mantra counts are associated with the Brāhmaṇa in this enumeration?",
  "premises": [
-  "The prescribed act is completed",
-  "Lordship over all siddhas is mentioned",
-  "This lordship is attained on earth"
+  "Mantras are being enumerated",
+  "Ten hundreds of mantras are mentioned",
+  "A count of two thousand is also stated"
  ],
- "inference": "By doing this, one becomes lord of all siddhas on earth.",
- "uncertainties": [],
- "plain_english": "Having done this, one becomes the lord of all siddhas on earth."
+ "inference": "The Brāhmaṇa is associated with ten hundreds and two thousand mantras in this enumeration.",
+ "uncertainties": [
+  "The syntactic relation between the two numbers is compressed in the verse"
+ ],
+ "plain_english": "Ten hundreds of mantras, and two thousand, belong to the Brāhmaṇa."
 }

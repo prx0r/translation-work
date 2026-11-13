@@ -3,24 +3,39 @@
  "verse": 349,
  "rows": [
   {
-   "lemma": "guruḥ",
-   "morph": "m.nom.sg",
-   "grounds": "title attributed to the addressed one"
+   "lemma": "eka+ūne",
+   "morph": "n.loc.du (compound)",
+   "grounds": "compound indicating subtraction from a number"
   },
   {
-   "lemma": "tvam",
-   "morph": "pron.2.nom.sg",
-   "grounds": "second-person subject addressed"
+   "lemma": "dve",
+   "morph": "n.nom.du",
+   "grounds": "numerical base"
   },
   {
-   "lemma": "sarva+mantrāṇāṃ",
-   "morph": "compound=sarva+mantra; m.gen.pl",
-   "grounds": "compound indicating domain of guruship"
+   "lemma": "sahasre",
+   "morph": "n.loc.du",
+   "grounds": "numerical unit"
   },
   {
-   "lemma": "karuṇā+maya+sāgara",
-   "morph": "compound=karuṇā+maya+sāgara; m.voc.sg",
-   "grounds": "compound epithet describing the addressed one as an ocean of compassion"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "mantrāṇāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "items being counted"
+  },
+  {
+   "lemma": "yajuṣaḥ",
+   "morph": "n.gen.sg",
+   "grounds": "Vedic corpus associated with the count"
+  },
+  {
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "indicates continuation of enumeration"
   }
  ]
 }
