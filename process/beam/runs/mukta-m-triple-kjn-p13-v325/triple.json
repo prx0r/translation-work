@@ -7,42 +7,43 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun in accusative singular, object of jñātvā",
-     "morph": "m.acc.sg"
+     "grounds": "demonstrative pronoun in accusative",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive (gerund) from root jñā with suffix -tvā",
-     "morph": "absolutive, root jñā"
+     "grounds": "absolutive from root jñā",
+     "morph": "(indecl.)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound of gūḍha and sadbhāva in accusative singular masculine",
-     "morph": "m.acc.sg"
+     "grounds": "compound accusative singular masculine",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun in nominative singular neuter, subject of prajāyate",
-     "morph": "n.nom.sg"
+     "grounds": "neuter abstract noun in nominative",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "pra + jāyate, third singular present ātmanepada from root jan",
-     "morph": "3.sg.ātm.-pres., root jan"
+     "grounds": "middle voice present third singular",
+     "morph": "3.sg.ātm.-pres. (jan)"
     }
    ],
-   "question": "What arises when the hidden true nature of that is known?",
+   "question": "What arises when the hidden true nature is known?",
    "premises": [
-    "knowing that hidden true nature precedes arising",
-    "all-knowingness is the stated result",
-    "the verse gives a causal sequence"
+    "Knowing the hidden true nature precedes arising.",
+    "All-knowingness is the stated result."
    ],
-   "inference": "Knowledge of the hidden true nature gives rise to all-knowingness.",
-   "uncertainties": [],
+   "inference": "All-knowingness arises from knowing the hidden true nature.",
+   "uncertainties": [
+    "Whether gūḍhasadbhāvaṃ directly modifies taṃ or the arising state."
+   ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
  ]

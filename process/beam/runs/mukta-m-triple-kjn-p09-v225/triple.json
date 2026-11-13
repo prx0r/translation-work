@@ -6,39 +6,37 @@
    "rows": [
     {
      "surface": "caturaśīti",
-     "gloss": "eighty-four",
+     "gloss": "in-eighty-four",
      "grounds": "numeral eighty-four",
      "morph": "(indecl.)"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
+     "gloss": "thousands",
      "grounds": "locative plural of sahasra",
      "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "in-womb-diagrams",
-     "grounds": "locative plural of yoni-yantra compound",
+     "grounds": "locative plural of yoniyantreṣu",
      "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past passive participle of pīḍ, nominative plural",
-     "morph": "m/f.nom.pl"
+     "grounds": "past participle of pīḍ in nominative plural masculine",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "Where are the tormented ones situated among eighty-four thousand womb-diagrams?",
+   "question": "Are beings tormented within eighty-four thousand womb-diagrams?",
    "premises": [
-    "Eighty-four thousand womb-diagrams are mentioned.",
-    "Tormented ones are located there.",
-    "The verse names a place of torment."
+    "eighty-four thousand womb-diagrams exist",
+    "beings are tormented there"
    ],
-   "inference": "The verse locates tormented beings in eighty-four thousand womb-diagrams.",
+   "inference": "torment occurs in womb-diagrams",
    "uncertainties": [
-    "Exact class of tormented beings is not specified.",
-    "Grammatical gender of pīḍitāḥ is ambiguous."
+    "exact referent of pīḍitāḥ unclear"
    ],
    "plain_english": "They are tormented in eighty-four thousand womb-diagrams."
   }

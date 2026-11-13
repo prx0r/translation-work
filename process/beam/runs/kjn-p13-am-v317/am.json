@@ -1,12 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 317,
- "question": "Which vessel is called supreme among all vessels?",
+ "question": "Which skull vessel is called supreme among all vessels?",
  "premises": [
-  "Viśvāmitra skull is named",
-  "it is called supreme among vessels"
+  "Viśvāmitra's skull is named.",
+  "It is called supreme among all vessels.",
+  "The addressee is beloved."
  ],
- "inference": "The Viśvāmitra skull vessel is supreme.",
- "uncertainties": [],
- "plain_english": "The skull of Viśvāmitra, supreme among all vessels, O beloved."
+ "inference": "The Viśvāmitra skull vessel is supreme among vessels.",
+ "uncertainties": [
+  "The exact ritual use is not stated."
+ ],
+ "plain_english": "And the skull of Viśvāmitra, O beloved, is supreme among all vessels."
 }

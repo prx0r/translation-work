@@ -1,15 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 236,
- "question": "What adorns the divine eight-spoked lotus in the first octad?",
+ "question": "How is the divine eight-spoked lotus adorned?",
  "premises": [
   "aṣṭa āraṃ paṅkajaṃ divyaṃ is divine eight-spoked lotus",
-  "prathama aṣṭaka is first octad",
-  "bhūṣitam means adorned"
+  "prathama aṣṭaka bhūṣitam means adorned by first octad"
  ],
- "inference": "The verse describes the divine eight-spoked lotus as adorned in the first octad.",
+ "inference": "The divine eight-spoked lotus is adorned by the first octad.",
  "uncertainties": [
-  "what exactly adorns it"
+  "whether prathama modifies octad or adornment"
  ],
- "plain_english": "The divine eight-spoked lotus is adorned in the first octad."
+ "plain_english": "The divine eight-spoked lotus is adorned by the first octad."
 }
