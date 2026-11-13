@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p148-v3676
-[truth](satyam) [non-stealing](asteyaṃ) [celibacy](brahmacaryaṃ) [compassion](dayā) [straightness](ārjavam)
+[truth](satyam) [non-stealing](asteyaṃ) [celibacy](brahmacaryaṃ) [compassion](dayā) + [straightforwardness](ārjavam)
 
 ## mukta-m0-p148-v3677
-[theism](āstikyaṃ) [giving](dānam) [worship-of-lord](īśvarapūjanam)
+[faith](āstikyaṃ) [charity](dānam) [lord](īśvara) + [worship](pūjanam)
 
 ## mukta-m0-p148-v3678
-[postures](āsanāni) [also](api) [and](ca) [spoken](uktāni) [in-many-ways](bahudhā) [in-previous-method](pūrvapaddhatau)
+[postures](āsanāni) [also](api) [and](ca) [stated](uktāni) [in-many-ways](bahudhā) [in-previous-tradition](pūrvapaddhatau)
 
 ## mukta-m0-p148-v3679
-[named-lotus](padmasaṃjñaṃ) [and](ca) [auspicious](bhadraṃ) [yoga-posture](yogāsanaṃ) [also](tathā)
+[lotus](padma) + [named](saṃjñaṃ) [and](ca) [auspicious](bhadraṃ) [yoga](yoga) + [posture](āsanaṃ) [likewise](tathā)
 
 ## mukta-m0-p148-v3680
-[established](niviṣṭam)
+[seated](niviṣṭam)
 
 ## mukta-m0-p148-v3681
-[thus-they-say](tadāhuḥ)
+[then](tadā) [they-say](āhuḥ)
 
 ## mukta-m0-p148-v3682
-[of-breath](prāṇasya) [retention](dhāraṇaṃ) [in-body](dehe) [breath-control](prāṇāyāma) [thus-called](itīritaḥ)
+[of-breath](prāṇasya) [restraint](dhāraṇaṃ) [in-body](dehe) [breath-control](prāṇāyāma) [thus](iti) + [declared](īritaḥ)
 
 ## mukta-m0-p148-v3683
-[retention](kumbhakaś) [and](ca) [indeed](eva) [exhalation](recakaś) [and](ca) [thus](iti) [those](te) [three](trayaḥ)
+[retention](kumbhakaḥ) [and](ca) + [indeed](eva) [exhalation](recakaḥ) [and](ca) + [thus](iti) [they](te) [three](trayaḥ)
 
 ## mukta-m0-p148-v3684
-[by-three-limbs](tribhir+aṅgair) [joined](yutaḥ) [three-limbed](tryaṃga) [may-be](syā) [without-inhalation](akutpūrakaṃ) [vinā](vinā)
+[with-three](tribhiḥ) + [limbs](aṅgaiḥ) + [endowed](yutaḥ) [three-limbed](tryaṃga) [should-be](syāt) [without](ut) + [inhalation](pūrakaṃ) [without](vinā)
 
 ## mukta-m0-p148-v3685
-[by-indicated-measures](nirdiṣṭodghātamātrābhir) [to-be-known](vijñeyaḥ) [that](sa) [but](tu) [inhalation](pūrakaḥ)
+[by-prescribed](nirdiṣṭa) + [beat](udghāta) + [measures](mātrābhiḥ) [to-be-known](vijñeyaḥ) [that](sa) [indeed](tu) [inhalation](pūrakaḥ)
 
 ## mukta-m0-p148-v3686
-[he-stands](tiṣṭhet) [when](yadā) [that](asau) [retention](kumbhakaḥ) [remembered](smṛtaḥ)
+[should-remain](tiṣṭhet) [when](yadā) + [that](asau) [retention](kumbhakaḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p148-v3687
-[gradually](krameṇa) [which](yo) [release](mokṣo) [exhalation](recakaḥ) [declared](paripaṭhyate)
+[gradually](krameṇa) [which](yaḥ) [release](mokṣo) [exhalation](recakaḥ) [is-taught](paripaṭhyate)
 
 ## mukta-m0-p148-v3688
-[sixty-measures](ṣaṣṭimātraḥ) [may-be](syāt) [five-exhalations](pañcoddhātaḥ) [but](tu) [well-remembered](saṃsmṛtaḥ)
+[sixty](ṣaṣṭi) + [measures](mātraḥ) [should-be](syāt) [five](pañca) + [beats](uddhātaḥ) [indeed](tu) [remembered](saṃsmṛtaḥ)
 
 ## mukta-m0-p148-v3689
-[indeed](hi) [this](ayaṃ) [slow](mandaḥ) [middle](madhyaḥ) [from-this](asmāt) [twofold](dviguṇaḥ) [may-become](bhavet)
+[indeed](hi) + [this](ayaṃ) [slow](mandaḥ) [middle](madhyaḥ) + [than-this](asmād) [double](dviguṇaḥ) [should-be](bhavet)
 
 ## mukta-m0-p148-v3690
-[with-embryo](sagarbhāḥ) [and](ca) [breath-controls](prāṇāyāmāḥ) [but](tu) [those](te) [remembered](smṛtāḥ)
+[with-seed](sagarbhāḥ) [and](ca) [breath-controls](prāṇāyāmāḥ) [indeed](tu) [they](te) [remembered](smṛtāḥ)
 
 ## mukta-m0-p148-v3691
-[without-inner-recitation](antarjapavihīnā) [who](ye) [those](te) [but](tu) [without-embryo](agarbhāḥ) [thus](iti) [remembered](smṛtāḥ)
+[internal](antar) + [recitation](japa) + [devoid](vihīnā) [which](ye) [they](te) [indeed](tu) [without-seed](agarbhāḥ) [thus](iti) [remembered](smṛtāḥ)
 
 ## mukta-m0-p148-v3692
-[having-made-pot](kumbhīkṛtya) [in-belly](udare) [air](vāyuṃ) [own-mantra](svasvamantraṃ) [with-mind](dhiyā) [recite](japet)
+[having-made-pot-like](kumbhīkṛtya) + [in-belly](udare) [air](vāyuṃ) [own](sva) + [own-mantra](svamantraṃ) [with-mind](dhiyā) [one-should-recite](japet)
 
 ## mukta-m0-p148-v3693
-[own-mantra](svamantraś) [if](cet) [of-him](tasya) [may-be](syāt) [two-hundred](dviśataṃ) [recitation](japaḥ)
+[own-mantra](svamantraḥ) + [if](cet) [of-him](tasya) [should-be](syād) [two-hundred](dviśataṃ) [recitation](japaḥ)
 
 ## mukta-m0-p148-v3694
-[having-abandoned](hāpayitvā) [controlled-breath](yataprāṇaḥ) [breath-control](prāṇāyāmaṃ) [perform](samācaret)
+[having-diminished](hāpayitvā) + [extended-breath](āyataprāṇaḥ) [breath-control](prāṇāyāmaṃ) [one-should-practice](samācaret)
 
 ## mukta-m0-p148-v3695
-[to-be-done](vidhātavyāḥ) [those](tat) [those](tad) [meditation-augmented](dhyānopabṛṃhitāḥ)
+[to-be-performed](vidhātavyāḥ) + [by-that](tat) + [by-that-meditation](taddhyāna) + [augmented](upabṛṃhitāḥ)
 
 ## mukta-m0-p148-v3696
-[from-body](śarīrāt) [greater](adhikaṃ) [breath](prāṇaḥ) [may-be](syāt) [twelve-angulas](dvādaśāṅgulam)
+[from-body](śarīrāt) + [greater](adhikaṃ) [breath](prāṇaḥ) [should-be](syād) [twelve](dvādaśa) + [finger-breadths](aṅgulam)
 
 ## mukta-m0-p148-v3697
-[that](sa) [and](ca) [triangular](tryaśraḥ) [of-gods-etc](devādīnāṃ) [of-men](nṛṇām) [also](api)
+[that](sa) [and](ca) [triangular](tryaśraḥ) [of-gods-etc.](devādīnām) [of-humans](nṛṇām) + [also](api)
 
 ## mukta-m0-p148-v3698
-[of-quadrupeds](catuṣpadānāṃ) [in-heart-middle](hṛnmadhye) [in-womb-middle](kroḍamadhye) [of-egg-born](aṇḍajanmanām)
+[of-quadrupeds](catuṣpadānāṃ) [in-heart](hṛt) + [middle](madhye) [in-throat](kroḍa) + [middle](madhye) + [of-egg-born](aṇḍajanmanām)
 
 ## mukta-m0-p148-v3699
-[navel-wheel](nābhicakraṃ) [above-that](tadūrdhvaṃ) [but](tu) [twelve-spoked](dvādaśāram) [breath-situation](asusthitiḥ)
+[navel](nābhi) + [wheel](cakraṃ) [above-that](tadūrdhvaṃ) [indeed](tu) [twelve](dvādaśa) + [spoked](aram) + [breath-abode](asusthitiḥ)
 
 ## mukta-m0-p148-v3700
-[sleeping-serpent-shaped](prasuptabhujagākārā) [four-angulas-spread](caturaṅgulavistṛtā)
+[sleeping](prasupta) + [serpent](bhujaga) + [form](ākārā) [four](catur) + [finger-breadths](aṅgula) + [extended](vistṛtā)

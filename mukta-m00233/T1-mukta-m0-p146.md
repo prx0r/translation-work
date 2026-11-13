@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p146-v3626
-[merit-doer](puṇyakṛt) [indeed](eva) [in-heaven](svarge) [god-bodied](devādidehavān)
+[merit-doer](puṇyakṛt) [indeed](eva) [may-be](syāt) [in-heaven](svarge) [god-etc-body-possessing](devādi+deha+vān)
 
 ## mukta-m0-p146-v3627
-[small](tvalpāṃ) [splendor](śriyaṃ) [shining](dīptām) [of-others](anyeṣām) [of-self](ātmano) [greater](adhikām)
+[but](tu) [small](alpāṃ) [prosperity](śriyaṃ) [shining](dīptām) [of-others](anyeṣām) [than-oneself](ātmanaḥ) [greater](adhikām)
 
 ## mukta-m0-p146-v3628
-[merit-exhausted](kṣīṇapuṇyānāṃ) [fall](patanāt) [seeing](avalokya) [but](tu)
+[of-those-whose-merit-is-exhausted](kṣīṇa+puṇyānāṃ) [falling-etc](patana+ādi) [having-seen](avalokya) [but](tu)
 
 ## mukta-m0-p146-v3629
-[kingdom-etc](rājyādiṣu) [happiness](sukhaṃ) [would-be](syāt) [if](cet) [twilight-suffering](sandhyādiduḥkhinaḥ)
+[in-kingdom-etc](rājya+ādiṣu) [happiness](sukhaṃ) [may-be](syāt) [if](cet) [with-twilight-etc-sufferings](sandhyā+ādi+duḥkhinaḥ)
 
 ## mukta-m0-p146-v3630
-[by-renunciation](tyāgena) [indeed](eva) [immortality](amṛtatvaṃ) [to-obtain](prāptuṃ) [possible](śakyaṃ) [by-wise](manīṣibhiḥ)
+[by-renunciation](tyāgena) [alone](eva) [immortality](amṛtatvaṃ) [indeed](hi) [to-obtain](prāptuṃ) [possible](śakyaṃ) [by-the-wise](manīṣibhiḥ)
 
 ## mukta-m0-p146-v3631
-[of-three-aims](trivargāṇāṃ) [difficult-attainment](dussaṃpādatayā) [also](api) [and](ca)
+[of-the-three-aims](trivargāṇāṃ) [because-of-difficulty-of-attainment](dussaṃpādatayā) [also](api) [and](ca)
 
 ## mukta-m0-p146-v3632
-[other](paro) [yoga](yogaḥ) [with-limbs](sāṅgaḥ) [achievable](sādhyaḥ) [by-wise](vipaścitā)
+[supreme](paraḥ) [yoga](yogaḥ) [with-limbs](sāṅgaḥ) [to-be-accomplished](sādhyaḥ) [by-the-wise-one](vipaścitā)
 
 ## mukta-m0-p146-v3633
-[by-shaving](muṇḍanāt) [not](na) [would-be](syāt) [staff-etc](daṇḍāder) [by-grasping](grahaṇāt) [also](api)
+[not](na) [from-shaving](muṇḍanāt) [may-be](syāt) [from-staff-etc](daṇḍa+ādeḥ) [from-taking](grahaṇāt) [also](api)
 
 ## mukta-m0-p146-v3634
-[whatever-other](yadanyad) [also](api) [thus](evam) [etc](ādyaṃ) [of-body](dehasya) [said](uktaṃ) [not](na) [of-embodied](dehinaḥ)
+[which](yat) [other](anyat) [also](api) [thus-etc](evam+ādyaṃ) [of-the-body](dehasya) [said](uktaṃ) [not](na) [of-the-embodied-soul](dehinaḥ)
 
 ## mukta-m0-p146-v3635
-[by-garb-change](veṣalaṅghanamātreṇa) [embodied](dehī) [liberation](mokṣaṃ) [how](kathaṃ) [would-go](vrajet)
+[by-mere-transgression-of-dress](veṣa+laṅghana+mātreṇa) [embodied-soul](dehī) [liberation](mokṣaṃ) [how](kathaṃ) [may-go](vrajet)
 
 ## mukta-m0-p146-v3636
-[doer](kartā) [to-be-purified](saṃskāryaḥ) [its-fruit-desiring](tatphalārthibhiḥ)
+[agent](kartā) [to-be-purified](saṃskāryaḥ) [by-those-desiring-its-fruit](tat+phala+arthibhiḥ)
 
 ## mukta-m0-p146-v3637
-[of-actions](karmaṇāṃ) [relinquishment](nyāsaṃ) [renunciation](sannyāsaṃ) [poets](kavayo) [know](viduḥ)
+[of-actions](karmaṇāṃ) [relinquishment](nyāsaṃ) [renunciation](sannyāsaṃ) [the-wise](kavayaḥ) [know](viduḥ)
 
 ## mukta-m0-p146-v3638
-[own-varna-ashrama](svavarṇāśramayuktānāṃ) [thus](tathā) [own-rule](svasamayasya) [but](tu)
+[of-those-endowed-with-own-varṇa-and-āśrama](sva+varṇa+āśrama+yuktānāṃ) [likewise](tathā) [of-own-tradition](sva+samayasya) [and](tu)
 
 ## mukta-m0-p146-v3639
-[by-lord-offering-mind](īśvarārpaṇabuddhyā) [but](tu) [doing](karaṇaṃ) [relinquishment](nyāsaḥ) [desired](iṣyate)
+[with-the-thought-of-offering-to-the-Lord](īśvara+arpaṇa+buddhyā) [but](tu) [performance](karaṇaṃ) [relinquishment](nyāsaḥ) [is-desired](iṣyate)
 
 ## mukta-m0-p146-v3640
-[constant-renouncer](nityasannyāsī) [who](yaḥ) [not](na) [hates](dveṣṭi) [not](na) [desires](kāṅkṣati)
+[constant-renouncer](nitya+sannyāsī) [who](yaḥ) [not](na) [hates](dveṣṭi) [not](na) [desires](kāṅkṣati)
 
 ## mukta-m0-p146-v3641
-[matted-haired](jaṭī) [or](vā) [two-staffed](dvidaṇḍaḥ) [or](vā) [then](atha) [shaved](muṇḍitaḥ)
+[with-matted-hair](jaṭī) [or](vā) [also](api) [with-two-staffs](dvi+daṇḍaḥ) [or](vā) [or](atha) [shaven](muṇḍitaḥ)
 
 ## mukta-m0-p146-v3642
-[having-done](kṛtvā) [yoga-with-limbs](sāṅgayogaṃ) [resorted](samāśritaḥ)
+[having-performed](kṛtvā) [yoga-with-limbs](sāṅga+yogaṃ) [resorted-to](samāśritaḥ)
 
 ## mukta-m0-p146-v3643
-[yoga](yogam) [says](āha) [patanjali](patañjaliḥ)
+[yoga](yogam) [declares](āha) [Patañjali](patañjaliḥ)
 
 ## mukta-m0-p146-v3644
-[declared](samuddiṣṭaḥ) [thus](tathā) [says](āha) [great-sage](mahāmuniḥ)
+[declared](samuddiṣṭaḥ) [likewise](tathā) [speaks](āha) [the-great-sage](mahā+muniḥ)
 
 ## mukta-m0-p146-v3645
-[mind](manaḥ) [making](kṛtvā) [self](svātmānaṃ) [in-supreme-self](paramātmani)
+[mind](manaḥ) [having-made](kṛtvā) [own-self](sva+ātmānaṃ) [in-the-supreme-self](parama+ātmani)
 
 ## mukta-m0-p146-v3646
-[shiva-nature-manifest](śivatvavyaktabhāvasya) [liberation](kaivalyaṃ) [yoga](yogaḥ) [desired](iṣyate)
+[of-the-manifestation-of-Śiva-nature](śivatva+vyakta+bhāvasya) [isolation](kaivalyaṃ) [yoga](yogaḥ) [is-regarded](iṣyate)
 
 ## mukta-m0-p146-v3647
-[attachment-etc](rāgādyāḥ) [of-yoga-limbs](yogāṅgānāṃ) [by-practice](niṣevaṇāt)
+[passion-etc](rāga+ādyāḥ) [of-the-limbs-of-yoga](yoga+aṅgānāṃ) [from-practice](niṣevaṇāt)
 
 ## mukta-m0-p146-v3648
-[restraints](yamāḥ) [and](ca) [observances](niyamāḥ) [thus](tadvat) [posture](āsanaṃ) [breath-control](prāṇasaṃyamāḥ)
+[restraints](yamāḥ) [and](ca) [observances](niyamāḥ) [likewise](tadvat) [posture](āsanaṃ) [breath-controls](prāṇa+saṃyamāḥ)
 
 ## mukta-m0-p146-v3649
-[five-kinds](pañcaprakārāḥ) [would-be](syuḥ) [observances](niyamāḥ) [also](ca) [indeed](eva) [fivefold](pañcadhā)
+[of-five-kinds](pañca+prakārāḥ) [may-be](syuḥ) [observances](niyamāḥ) [and](ca) [indeed](eva) [fivefold](pañcadhā)
 
 ## mukta-m0-p146-v3650
-[fivefold](pañcavidhā) [concentration](dhāraṇā) [manifold](bahudhā) [remembered](smṛtāḥ)
+[fivefold](pañca+vidhā) [concentration](dhāraṇā) [in-many-ways](bahudhā) [remembered](smṛtāḥ)
