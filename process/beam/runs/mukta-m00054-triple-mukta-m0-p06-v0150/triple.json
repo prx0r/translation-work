@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "ripūṇāñ",
+     "gloss": "of-enemies",
+     "grounds": "genitive plural of ripu; denotes those targeted for eradication",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccāṭan",
+     "gloss": "eradication",
+     "grounds": "act of uprooting or driving away; object of the verb",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayatyeva",
+     "gloss": "leads-indeed",
+     "grounds": "fused form of nayati and eva; expresses bringing about the result",
+     "morph": "3.sg.pres.act √nī + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominal subject of the negated existential sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is the eradication of enemies certainly brought about by this practice?",
+   "premises": [
+    "The practice leads to the eradication of enemies.",
+    "The emphatic particle reinforces the certainty of this effect.",
+    "The text explicitly denies the presence of any doubt."
+   ],
+   "inference": "Therefore, the eradication of enemies is an assured outcome.",
+   "uncertainties": [
+    "The exact grammatical analysis of uccāṭan as a nominal or participial form is context-dependent."
+   ],
+   "plain_english": "And it indeed brings about the eradication of enemies; there is no doubt."
+  }
+ ]
+}

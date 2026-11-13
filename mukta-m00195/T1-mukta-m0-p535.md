@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p535-v13351
-[with-yellow-substances](pītadravyaiḥ) [with-yellow-flowers](pītapuṣpaiḥ) [with-arka-flowers](arkapuṣpaiḥ) [one-should-worship](prapūjayet)
+[yellow+substances](pītadravyaiḥ) [yellow+flowers](pītapuṣpaiḥ) [arka+flowers](arkapuṣpaiḥ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p535-v13352
-[speech-paralysis](vākstambhaṃ) [or](vā) [motion-paralysis](gatistambhaṃ) [army-paralysis](senāstambhaṃ) [it-does](karoti) [that](tat)
+[speech+paralysis](vākstambhaṃ) [or](vā) [motion+paralysis](gatistambhaṃ) [army+paralysis](senāstambhaṃ) [does](karoti) [that](tat)
 
 ## mukta-m0-p535-v13353
-[on-human-bone](narāsthni) [endowed-with-anger](krodhasaṃyuktaḥ) [one-should-worship](pūjayet) [with-sandalwood-etc.](candanādibhiḥ)
+[human+bone](narāsthni) [anger+endowed](krodhasaṃyuktaḥ) [one-should-worship](pūjayet) [with-sandalwood+etc](candanādibhiḥ)
 
 ## mukta-m0-p535-v13354
-[of-mahāgaṇapati](mahāgaṇapateryantraṃ) [yantra](mahāgaṇapateryantraṃ) [declared](proktaṃ) [giving-success-in-six-rites](ṣaṭkarmasiddhidam)
+[great+gaṇapati](mahāgaṇapateḥ) [diagram](yantraṃ) [declared](proktaṃ) [six+action+accomplishment+giving](ṣaṭkarmasiddhidam)
 
 ## mukta-m0-p535-v13355
-[having-made](kṛtvā) [hexagon](ṣaṭkoṇam) [first](ādau) [indeed](tu) [in-its-middle](tasya+madhye) [triangle](trikoṇakam)
+[having-made](kṛtvā) [six+cornered](ṣaṭkoṇam) [first](ādau) [then](tu) [its](tasya) [in-middle](madhye) [triangle](trikoṇakam)
 
 ## mukta-m0-p535-v13356
-[above-the-triangle](trikoṇordhvaṃ) [in-the-four-directions](caturdikṣu) [śrīṃ-hrīṃ-klīṃ-glauṃ](śrīṃ-hrīṃ-klīṃ-glauṃ) [one-should-write](samālikhet)
+[triangle+above](trikoṇordhvaṃ) [in-four+directions](caturdikṣu) [śrīṃ](śrīṃ) [hrīṃ](hrīṃ) [klīṃ](klīṃ) [glauṃ](glauṃ) [one-should-write](samālikhet)
 
 ## mukta-m0-p535-v13357
-[oṃ-śrīṃ-hrīṃ-klīṃ-glauṃ](oṃ-śrīṃ-hrīṃ-klīṃ-glauṃ) [and](ca) [gaṃ](gaṃ) [and](ca) [having-written](likhitvā) [on-the-six-petals](ṣaḍdale) [in-order](kramāt)
+[oṃ](oṃ) [śrīṃ](śrīṃ) [hrīṃ](hrīṃ) [klīṃ](klīṃ) [glauṃ](glauṃ) [and](ca) [gaṃ](gaṃ) [and](ca) [having-written](likhitvā) [in-six+petals](ṣaḍdale) [in-order](kramāt)
 
 ## mukta-m0-p535-v13358
-[gaṇapataye](gaṇapataya) [thus-etc.](ityādi) [one-syllable](varṇaikaṃ) [and](ca) [on-the-eighth-petal](aṣṭame+dale)
+[gaṇapataye](gaṇapataya) [thus+beginning](ityādi) [syllable+one](varṇaikaṃ) [and](ca) [in-eighth+petal](aṣṭame) [in-petal](dale)
 
 ## mukta-m0-p535-v13359
-[at-the-edge-of-the-enclosure](vīthyagre) [indeed](tu) [beginning-with-a](hyakārādīn) [ending-with-kṣa](kṣakārāntān) [in-the-second](dvitīyake)
+[periphery+tip](vīthyagre) [indeed](tu) [a+syllable+beginning-with](hyakārādīn) [kṣa+syllable+ending-with](kṣakārāntān) [in-second](dvitīyake)
 
 ## mukta-m0-p535-v13360
-[with-aiṃ-seeds](aiṃbījaiḥ) [one-should-surround](veṣṭayet) [the-fourth](turyyaṃ) [with-hrīṃ-seed](hrīṃbījena) [then](tato) [outside](bahiḥ)
+[with-aiṃ+seed-syllables](aiṃbījaiḥ) [one-should-surround](veṣṭayet) [fourth](turyyaṃ) [with-hrīṃ+seed-syllable](hrīṃbījena) [then](tato) [outside](bahiḥ)
 
 ## mukta-m0-p535-v13361
-[accomplishing-the-puruṣārthas](puruṣārthakṛtaṃ) [yantra](yantraṃ) [with-eight-corners](tvaṣṭāsreṇa) [indeed](eva) [one-should-surround](veṣṭayet)
+[human+goals+accomplishing](puruṣārthakṛtaṃ) [diagram](yantraṃ) [with-eight+cornered](tvaṣṭāsreṇa) [indeed](eva) [one-should-surround](veṣṭayet)
 
 ## mukta-m0-p535-v13362
-[lac](alaktaṃ) [and](ca) [indeed](eva) [saffron](kāśmīra) [musk](kastūrī) [gorocanā](rocanā) [endowed-with](anvitam)
+[lac](alaktaṃ) [and](ca) [indeed](eva) [saffron](kāśmīra) [musk](kastūrī) [yellow-pigment+endowed](rocanānvitam)
 
 ## mukta-m0-p535-v13363
-[life](āyuḥ) [health](ārogya) [prosperity](sampatti) [fame](kīrtti) [causing](kṛt) [increasing-delight](prītivardhanam)
+[life](āyuḥ) [health](ārogya) [prosperity](sampatti) [fame+making](kīrttikṛt) [joy+increasing](prītivardhanam)
 
 ## mukta-m0-p535-v13364
-[one-should-draw](likhet) [eight-petaled](aṣṭadalaṃ) [lotus](padmaṃ) [in-the-pericarp](karṇikāyāṃ) [indeed](tu) [circular](vartulam)
+[one-should-draw](likhet) [eight+petaled](aṣṭadalaṃ) [lotus](padmaṃ) [in-pericarp](karṇikāyāṃ) [indeed](tu) [circular](vartulam)
 
 ## mukta-m0-p535-v13365
-[to-the-north-of-the-praṇava](praṇavasya+uttare) [glauṃ](glauṃ) [and](ca) [in-front-of-that](agre+tasya) [in-its-womb](jaṭhare) [indeed](tu) [gaṃ](gam)
+[of-praṇava](praṇavasya) [to-north](uttare) [glauṃ](glauṃ) [and](ca) [at-tip](agre) [its](tasya) [in-belly](jaṭhare) [indeed](tu) [gaṃ](gam)
 
 ## mukta-m0-p535-v13366
-[placed-in-the-womb-of-the-earth-seed](bhūbījodaragaṃ) [haṃ](haṃ) [and](ca) [in-the-east-etc.](pūrvāśādiṣu) [one-should-place](vinyaset)
+[earth+seed-syllable+inside-gone](bhūbījodaragaṃ) [haṃ](haṃ) [and](ca) [in-east+etc](pūrvāśādiṣu) [one-should-place](vinyaset)
 
 ## mukta-m0-p535-v13367
-[lotus](kamalaṃ) [or](vā) [then](tato) [to-be-drawn](lekhyaṃ) [in-the-form-of-two-squares](caturasradvayākṛti)
+[lotus](kamalaṃ) [or](vā) [then](tato) [should-be-drawn](lekhyaṃ) [four+sided+pair+form](caturasradvayākṛti)
 
 ## mukta-m0-p535-v13368
-[in-its-womb](tasya+garbhe) [the-syllable-va](vakāraṃ) [and](ca) [with-bindu](sabinduṃ) [at-the-top-of-the-corner](koṇamastake)
+[its](tasya) [in-womb](garbhe) [va+syllable](vakāraṃ) [and](ca) [with-bindu](sabinduṃ) [at-corner+top](koṇamastake)
 
 ## mukta-m0-p535-v13369
-[outside-that](tadbahiḥ) [square](caturasraṃ) [and](ca) [glauṃ](glauṃ) [in-its-corners](tatkoṇeṣu) [one-should-write](saṃlikhet)
+[that+outside](tadbahiḥ) [four+sided](caturasraṃ) [and](ca) [glauṃ](glauṃ) [in-its+corners](tatkoṇeṣu) [one-should-write](saṃlikhet)
 
 ## mukta-m0-p535-v13370
-[of-sun-mercury-venus](ādityabudhaśukrāṇāṃ) [among](madhye) [of-any-one](kasyāpi) [on-the-day](vāsare)
+[of-sun](āditya) [mercury](budha) [venus](śukrāṇāṃ) [in-middle](madhye) [of-someone](kasyāpi) [on-day](vāsare)
 
 ## mukta-m0-p535-v13371
-[illuminated-by-a-lamp](pradīpadīpite) [there](tatra) [likewise](tathaiva) [mixed-with-ginger](ārdrakasaṃyutām)
+[lamp+illuminated](pradīpadīpite) [there](tatra) [likewise](tathaiva) [with-fresh-ginger+joined](ārdrakasaṃyutām)
 
 ## mukta-m0-p535-v13372
-[in-the-eight-places](sthānāṣṭake) [of-gaṇeśa](gaṇeśasya) [the-best](variṣṭhāṃ) [measuring-a-foot](pādasammitām)
+[in-place+eight](sthānāṣṭake) [of-gaṇeśa](gaṇeśasya) [best](variṣṭhāṃ) [foot+measure](pādasammitām)
 
 ## mukta-m0-p535-v13373
-[afterwards](paścāt) [having-purified](saṃśodhayitvā) [that](tāṃ) [twenty-five-times](pañcaviṃśatisaṃkhyayā)
+[afterwards](paścāt) [having-purified](saṃśodhayitvā) [that](tāṃ) [with-twenty+five+number](pañcaviṃśatisaṃkhyayā)
 
 ## mukta-m0-p535-v13374
-[afterwards](paścāt) [that](tāṃ) [should-smear](lepayet) [the-practitioner](mantrī) [on-auspicious](śubhe) [fine](sūkṣme) [white-cloth](sitembare)
+[afterwards](paścāt) [that](tāṃ) [should-smear](lepayet) [practitioner](mantrī) [on-auspicious](śubhe) [fine](sūkṣme) [white+cloth](sitembare)
 
 ## mukta-m0-p535-v13375
-[here](atra) [vital-breaths](prāṇān) [having-installed](pratiṣṭhāpya) [worshipped](pūjitaṃ) [made-into-a-pill](guṭikīkṛtam)
+[here](atra) [vital-breaths](prāṇān) [having-established](pratiṣṭhāpya) [worshipped](pūjitaṃ) [made-into-pill](guṭikīkṛtam)
