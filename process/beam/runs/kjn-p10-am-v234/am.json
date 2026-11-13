@@ -1,12 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 234,
- "question": "Where are syllable sha and syllable sha located?",
+ "question": "Where are the syllables ṣa and śa located?",
  "premises": [
-  "one syllable sha is in throat region",
-  "the other syllable sha is in heart"
+  "Syllable ṣa is in throat region.",
+  "Syllable śa is in heart.",
+  "Then is stated."
  ],
- "inference": "The verse places one syllable sha in the throat region and another in the heart.",
- "uncertainties": [],
- "plain_english": "Syllable sha is in the throat region, and syllable sha is in the heart."
+ "inference": "The syllables ṣa and śa are located in throat and heart.",
+ "uncertainties": [
+  "The temporal force of tadā is unclear."
+ ],
+ "plain_english": "The syllable ṣa is in the throat region, and the syllable śa is in the heart."
 }

@@ -1,12 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 238,
- "question": "What knowledge and bond paralysis are mentioned?",
+ "question": "What knowledge and bond-paralysis are mentioned?",
  "premises": [
-  "distant hearing knowledge is named",
-  "bond paralysis is likewise named"
+  "Distant hearing is named.",
+  "Knowledge is named.",
+  "Bond paralysis is named."
  ],
- "inference": "The verse names distant hearing knowledge and bond paralysis.",
- "uncertainties": [],
- "plain_english": "Distant hearing knowledge, bond paralysis, likewise, O beloved."
+ "inference": "Distant hearing, knowledge, and bond paralysis are mentioned.",
+ "uncertainties": [
+  "The exact relation among them is unclear."
+ ],
+ "plain_english": "Distant hearing, knowledge, and bond paralysis are mentioned, O beloved."
 }

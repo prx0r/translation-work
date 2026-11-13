@@ -3,10 +3,13 @@
  "verse": 242,
  "question": "What does the angry one destroy?",
  "premises": [
-  "when angry he destroys all",
-  "he destroys moving and unmoving triple world"
+  "Anger is the condition.",
+  "Destruction is stated.",
+  "Triple world is the object."
  ],
- "inference": "The verse says the angry one destroys all moving and unmoving triple world.",
- "uncertainties": [],
- "plain_english": "When angry, he destroys all moving and unmoving triple world."
+ "inference": "The angry one destroys the entire triple world, moving and unmoving.",
+ "uncertainties": [
+  "The agent is implicit."
+ ],
+ "plain_english": "When angry, he destroys the entire triple world, moving and unmoving."
 }

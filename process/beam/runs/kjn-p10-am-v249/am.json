@@ -1,12 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 249,
- "question": "What happens when smoke-colored triple world is contemplated?",
+ "question": "What is contemplated and what is shaken?",
  "premises": [
-  "smoke-colored triple world is contemplated always",
-  "he shakes it"
+  "Smoke-colored is named.",
+  "Always contemplate is stated.",
+  "Triple world is shaken."
  ],
- "inference": "The verse says contemplating smoke-colored triple world always shakes it.",
- "uncertainties": [],
- "plain_english": "Contemplating smoke-colored triple world always, he shakes it, O beloved."
+ "inference": "One always contemplates smoke-colored and shakes the triple world.",
+ "uncertainties": [
+  "The exact contemplative object is implicit."
+ ],
+ "plain_english": "Always contemplate smoke-colored, and shake the triple world, O beloved."
 }

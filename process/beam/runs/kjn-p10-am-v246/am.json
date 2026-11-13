@@ -3,10 +3,13 @@
  "verse": 246,
  "question": "What does constant practice make?",
  "premises": [
-  "constant practice is named",
-  "it makes immortality"
+  "Making is stated.",
+  "Immortality is the object.",
+  "Constant practice is the means."
  ],
- "inference": "The verse says constant practice makes immortality.",
- "uncertainties": [],
+ "inference": "Constant practice makes immortality.",
+ "uncertainties": [
+  "The agent is implicit."
+ ],
  "plain_english": "Constant practice indeed makes immortality."
 }

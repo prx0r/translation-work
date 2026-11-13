@@ -1,12 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 236,
- "question": "What adorns the divine eight-spoked lotus?",
+ "question": "What adorns the first divine eight-spoked lotus?",
  "premises": [
-  "the lotus is divine and eight-spoked",
-  "it is adorned by the first octad"
+  "An eight-spoked lotus is named.",
+  "It is divine.",
+  "It is adorned by the first octad."
  ],
- "inference": "The verse says the divine eight-spoked lotus is adorned by the first octad.",
- "uncertainties": [],
+ "inference": "The first octad adorns the divine eight-spoked lotus.",
+ "uncertainties": [
+  "The octad's members are not listed."
+ ],
  "plain_english": "The divine eight-spoked lotus is adorned by the first octad."
 }

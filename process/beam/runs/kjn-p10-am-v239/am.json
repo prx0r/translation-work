@@ -1,12 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 239,
- "question": "What is briefly said about immortality and transformation?",
+ "question": "What transformation and immortality are stated in brief?",
  "premises": [
-  "immortality is named",
-  "transformation is stated in brief"
+  "Immortality is named.",
+  "Transformation is named.",
+  "The goddess is addressed."
  ],
- "inference": "The verse briefly states immortality and transformation.",
- "uncertainties": [],
- "plain_english": "Immortality, likewise, O goddess, in brief, transformation."
+ "inference": "Immortality and transformation are stated in brief.",
+ "uncertainties": [
+  "The transformation's object is implicit."
+ ],
+ "plain_english": "Immortality and transformation are stated in brief, O goddess."
 }

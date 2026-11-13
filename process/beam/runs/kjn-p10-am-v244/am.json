@@ -3,10 +3,13 @@
  "verse": 244,
  "question": "What destruction and seeing are mentioned?",
  "premises": [
-  "wrinkle and grey hair destruction is named",
-  "seeing from very far is likewise named"
+  "Wrinkle and grey hair destruction is named.",
+  "Seeing from very far is named.",
+  "Likewise is stated."
  ],
- "inference": "The verse names destruction of wrinkle and grey hair and seeing from very far.",
- "uncertainties": [],
- "plain_english": "Destruction of wrinkle and grey hair, and seeing from very far, likewise."
+ "inference": "Destruction of wrinkles and grey hair, and seeing from very far, are mentioned.",
+ "uncertainties": [
+  "The causal relation is not explicit."
+ ],
+ "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, are mentioned."
 }

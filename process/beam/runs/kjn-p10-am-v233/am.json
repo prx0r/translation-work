@@ -1,12 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 233,
- "question": "Where are syllable ksha and syllable lam located?",
+ "question": "Where are the syllables kṣa and laṃ located?",
  "premises": [
-  "syllable ksha is brahmarandhra state",
-  "syllable lam is in the forehead"
+  "Syllable kṣa is named.",
+  "Brahmarandhra-state is named.",
+  "Syllable laṃ is in the forehead."
  ],
- "inference": "The verse assigns syllable ksha to brahmarandhra and syllable lam to the forehead.",
- "uncertainties": [],
- "plain_english": "Syllable ksha is brahmarandhra state, and syllable lam is in the forehead."
+ "inference": "The syllables kṣa and laṃ are located in brahmarandhra and forehead.",
+ "uncertainties": [
+  "Exact pairing of kṣa with brahmarandhra is implied."
+ ],
+ "plain_english": "The syllable kṣa is brahmarandhra-state, and the syllable laṃ is in the forehead."
 }

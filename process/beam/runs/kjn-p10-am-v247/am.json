@@ -3,10 +3,13 @@
  "verse": 247,
  "question": "What goes away through non-eating by day?",
  "premises": [
-  "non-eating by day is named",
-  "age and death will go away"
+  "Non-eating by day is the means.",
+  "Age and death are named.",
+  "Going away is stated."
  ],
- "inference": "The verse says age and death will go away through non-eating by day.",
- "uncertainties": [],
+ "inference": "Age and death go away through non-eating by day.",
+ "uncertainties": [
+  "The exact temporal scope is not specified."
+ ],
  "plain_english": "Through non-eating by day, age and death will go away."
 }
