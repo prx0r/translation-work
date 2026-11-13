@@ -3,10 +3,7 @@
  "song": "kul-p66",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1628 ratio=0.812",
-  "ALIGN_NODISP v1646 ratio=0.878"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "ca8724538e128b1c",
@@ -16,20 +13,11 @@
   "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
-  "tokens": 137
+  "tokens": 131
  },
  "align": {
-  "min_ratio": 0.812,
-  "sub090": {
-   "1628": {
-    "ratio": 0.812,
-    "disposition": null
-   },
-   "1646": {
-    "ratio": 0.878,
-    "disposition": null
-   }
-  }
+  "min_ratio": 0.921,
+  "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
@@ -48,7 +36,7 @@
   "errors": [],
   "counts": {
    "t1": 25,
-   "l0": 137,
+   "l0": 131,
    "argmap": 25,
    "l2": 25,
    "l3": 0,
@@ -60,15 +48,14 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1628",
-  "fix: word-order/gloss vs source for v1646"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "bfbf80eb1393a461e75b71794b11ff648b28dfd805cf7a0b68a337b4e68b110f",
-  "l0": "2b7f35a1f7469a5bdcf1396b891670dca2bc38e85935d89e937e453fde8d87c0",
-  "argmap": "41a84f2b2c1c9a4331f3f0249521733d388036f060f2e2b98c5efdc599c15f31",
-  "l2": "880f2d719fea9fb7983f09565ae34b6b9a3cee341d004fa9ac20883f8624451d",
+  "t1": "9a19a53066992262c596ef0e0fd1b76855da34a107391c52d475f4261b79986f",
+  "l0": "52369f469d2e90ab96d37ee33f6b9aa6ccd9ddda818dc8c19eb8fdc962a4decf",
+  "argmap": "50522bbebc527e655d5f431598945f278b9a8d9ff0a39e8dc7b82dbae09055d1",
+  "l2": "91a2653f9e3ce980b90fcd5a56ca95a57ec517fb525e3fc8f24ff027ef786dd2",
   "c1": "62f2ab29d1474ec6d04ba05d8f69277b9b7d60163cb0532c2f575ee1e7245666"
  },
  "lineage": {
