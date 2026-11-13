@@ -7,42 +7,44 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "accusative singular masculine pronoun referring to the hidden true nature",
-     "morph": "m.acc.sg"
+     "grounds": "demonstrative pronoun in accusative singular masculine",
+     "morph": "pron.acc.sg.m"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
      "grounds": "absolutive from root jñā",
-     "morph": "absolutive root jñā"
+     "morph": "abs."
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound of gūḍha and sadbhāva in accusative singular masculine",
-     "morph": "compound: gūḍha+sadbhāva, m.acc.sg"
+     "grounds": "compound adjective-noun in accusative singular masculine",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "neuter abstract noun in nominative singular",
-     "morph": "n.nom.sg"
+     "grounds": "abstract noun in nominative singular neuter",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "middle voice present third singular from root prajan",
-     "morph": "3.sg.mid.pres. root prajan"
+     "grounds": "verb in third person singular ātmanepada present from pra-jan",
+     "morph": "3.sg.ātm.-pres."
     }
    ],
-   "question": "What arises upon knowing the hidden true nature?",
+   "question": "What arises when the hidden true nature is known?",
    "premises": [
-    "Knowing the hidden true nature produces all-knowingness.",
-    "All-knowingness arises after such knowledge."
+    "knowing the hidden true nature precedes arising",
+    "all-knowingness is the stated result",
+    "the verse links knowledge to omniscience"
    ],
-   "inference": "Knowledge of the hidden true nature gives rise to all-knowingness.",
+   "inference": "Knowing the hidden true nature gives rise to all-knowingness.",
    "uncertainties": [
-    "The exact referent of taṃ depends on the preceding context."
+    "exact referent of taṃ depends on prior context",
+    "compound parsing of gūḍhasadbhāvaṃ may vary"
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }

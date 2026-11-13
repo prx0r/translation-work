@@ -3,12 +3,13 @@
  "verse": 337,
  "question": "What happens when a teacher gives these disciples?",
  "premises": [
-  "a teacher gives these disciples",
+  "teacher is named",
+  "disciples are named",
   "accomplishment is lost"
  ],
- "inference": "improper transmission causes loss of accomplishment",
+ "inference": "When a teacher gives these disciples, accomplishment is lost.",
  "uncertainties": [
-  "fused siddhirhīyate"
+  "the exact condition of giving is implicit"
  ],
  "plain_english": "If a teacher gives these disciples, accomplishment is lost."
 }

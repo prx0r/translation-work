@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 334,
- "question": "Which beings are listed as gandharvas, kinnaras, yakshas, asuras, and ascetics?",
+ "question": "Which beings are named as ascetics in this list?",
  "premises": [
-  "multiple classes of beings are named",
-  "they include ascetics"
+  "gandharvas are named",
+  "kinnaras are named",
+  "yakshas asuras and ascetics are named"
  ],
- "inference": "a broad assembly of beings is invoked",
+ "inference": "The verse lists gandharvas, kinnaras, yakshas, asuras, and ascetics.",
  "uncertainties": [
-  "exact list function"
+  "whether all are ascetics or only tapodhanāḥ is syntactically open"
  ],
  "plain_english": "Gandharvas, kinnaras, yakshas, asuras, and ascetics."
 }
