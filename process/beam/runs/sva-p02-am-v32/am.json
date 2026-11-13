@@ -1,16 +1,15 @@
 {
  "song": "sva-p02",
  "verse": 32,
- "question": "What bīja is assigned to the fifteenth vowel in the sequence under consideration, and what claim of assignment is made here?",
+ "question": "Which sound is identified as the fifteenth vowel in the sequence?",
  "premises": [
-  "A vowel is counted as the fifteenth in a sequence.",
-  "That position is assigned a specific letter-name.",
-  "The assigned name given here is aṅkāraḥ."
+  "A fifteenth position in the vowel series is indicated",
+  "That position is identified as a vowel",
+  "The sound named is aṅ"
  ],
- "inference": "The fifteenth vowel in the sequence is assigned the bīja aṅkāraḥ.",
+ "inference": "The fifteenth vowel in the sequence is the sound aṅ",
  "uncertainties": [
-  "The full vowel sequence is not given in this verse.",
-  "It is unclear whether this is a fixed list position or a context-relative count."
+  "The exact vowel classification of aṅ depends on the system used"
  ],
- "plain_english": "The fifteenth vowel is the aṅkāra."
+ "plain_english": "The fifteenth vowel is the sound aṅ."
 }

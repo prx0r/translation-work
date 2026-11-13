@@ -6,59 +6,58 @@
    "rows": [
     {
      "surface": "saṃhāra",
-     "gloss": "destruction",
-     "grounds": "noun action of drawing back",
-     "morph": "m.nom.sg"
+     "gloss": "withdrawal",
+     "grounds": "first member of compound indicating dissolution",
+     "morph": "compound-member"
     },
     {
      "surface": "pradhāna",
-     "gloss": "predominance",
-     "grounds": "noun denoting chief factor",
-     "morph": "m.nom.sg"
+     "gloss": "predominant",
+     "grounds": "chief or primary quality",
+     "morph": "compound-member"
     },
     {
      "surface": "tvāt",
-     "gloss": "from-being",
-     "grounds": "ablative abstract from tva",
+     "gloss": "because-of-state",
+     "grounds": "abstract suffix with ablative sense indicating reason",
      "morph": "n.abl.sg"
     },
     {
      "surface": "kalāḥ",
-     "gloss": "parts",
-     "grounds": "plural of kalā denoting limited powers",
+     "gloss": "kalas",
+     "grounds": "powers or divisions named accordingly",
      "morph": "f.nom.pl"
     },
     {
      "surface": "tathā",
      "gloss": "thus",
-     "grounds": "correlative adverb of manner",
+     "grounds": "indicates manner or correspondence",
      "morph": "(indecl.)"
     },
     {
      "surface": "ucita",
-     "gloss": "appropriate",
-     "grounds": "past-participle-like adjective qualifying by fit",
-     "morph": "m.nom.pl"
+     "gloss": "fitting",
+     "grounds": "appropriate to their nature",
+     "morph": "compound-member"
     },
     {
      "surface": "nāmnyaḥ",
      "gloss": "named",
-     "grounds": "adjectival form relating to name/classification",
+     "grounds": "bearing names",
      "morph": "f.nom.pl"
     }
    ],
-   "question": "On what ground must the kalās be designated as appropriately named given that their status arises from the predominance of a drawing-back process?",
+   "question": "Why do the kalās receive names fitting their predominant role in withdrawal?",
    "premises": [
-    "Destruction carries a predominating force in this context.",
-    "That predominance provides the ground for the kalās to arise.",
-    "The kalās are thus appropriately assigned to a named class."
+    "Withdrawal is the predominant characteristic in this context",
+    "The kalās are identified by that predominance",
+    "Their names correspond to what is fitting for them"
    ],
-   "inference": "It is by reason of the predominance of saṃhāra that the kalās are appropriately termed by their names.",
+   "inference": "Because withdrawal predominates, the kalās are accordingly given fitting names",
    "uncertainties": [
-    "The exact scope of kalāḥ here remains unclear without adjacent context.",
-    "The syntactic link between ucita and nāmnyaḥ is not unambiguous."
+    "The specific kalās referred to are not enumerated in this unit"
    ],
-   "plain_english": "By reason of the predominance of destruction, the kalās are thus appropriately named."
+   "plain_english": "Because withdrawal is predominant, the kalās are accordingly given names that are fitting to that nature."
   },
   {
    "verse": 27,
@@ -66,34 +65,33 @@
     {
      "surface": "namaḥ",
      "gloss": "salutation",
-     "grounds": "formula of reverential offering",
+     "grounds": "formula of reverence",
      "morph": "(indecl.)"
     },
     {
      "surface": "guhye",
-     "gloss": "secret",
-     "grounds": "locative of that which is to be kept hidden",
-     "morph": "m.loc.sg"
+     "gloss": "to-the-secret",
+     "grounds": "addressed to the hidden or secret principle",
+     "morph": "f.dat.sg"
     },
     {
      "surface": "ityanusandheyam",
-     "gloss": "thus-to-connect",
-     "grounds": "fused gerundive form marking an injunction to connect as stated",
-     "morph": "n.nom.sg"
+     "gloss": "thus-to-be-contemplated",
+     "grounds": "gerundive indicating what must be mentally connected or applied",
+     "morph": "n.nom.sg.gerundive"
     }
    ],
-   "question": "What obligation is placed on the practitioner with regard to a salutation directed to the secret when the stated formula is to be connected in a prescribed manner?",
+   "question": "How should the salutation to the secret principle be mentally applied?",
    "premises": [
-    "A salutation is directed to what is secret.",
-    "The formula thus given is marked as something to be connected.",
-    "That connection is presented as an obligation to be observed."
+    "A salutation is expressed as namaḥ",
+    "The salutation is directed to the secret",
+    "The phrase must be contemplated in that form"
    ],
-   "inference": "The salutation to the secret is to be joined to the practice in the manner indicated by the formula.",
+   "inference": "One should mentally apply the salutation as directed to the secret principle",
    "uncertainties": [
-    "The precise object of connection for ityanusandheyam cannot be fixed from this verse alone.",
-    "It is unclear whether the injunction is oral, mental, or both."
+    "The exact referent of the secret principle is not specified here"
    ],
-   "plain_english": "One is to offer salutation to the secret and connect it thus as prescribed."
+   "plain_english": "One should contemplate the salutation as: 'Salutation to the secret one.'"
   },
   {
    "verse": 28,
@@ -101,81 +99,79 @@
     {
      "surface": "tridhāma",
      "gloss": "three-abode",
-     "grounds": "compound denoting three abodes as a unit",
-     "morph": "compound = three+abode"
+     "grounds": "having three abodes or stations",
+     "morph": "compound-member"
     },
     {
      "surface": "maya",
-     "gloss": "consisting",
-     "grounds": "agentive/possessive form indicating composition",
-     "morph": "m.nom.sg"
+     "gloss": "consisting-of",
+     "grounds": "suffix indicating composition",
+     "morph": "compound-member"
     },
     {
      "surface": "tvā",
-     "gloss": "becoming",
-     "grounds": "gerundial form marking transition into a state",
-     "morph": "(indecl.)"
+     "gloss": "state",
+     "grounds": "abstract condition or nature",
+     "morph": "compound-member"
     },
     {
      "surface": "artham",
-     "gloss": "purpose",
-     "grounds": "accusative denoting the end for which an act is done",
+     "gloss": "meaning",
+     "grounds": "sense or purpose of the expression",
      "morph": "m.acc.sg"
     },
     {
      "surface": "ityanye",
      "gloss": "thus-others",
-     "grounds": "attributive phrase citing the view of others",
+     "grounds": "introduces an alternative view held by others",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "For what purpose do others hold that one becomes composed of the three abodes, and what claim about that purpose is at stake in this citation?",
+   "question": "What alternative meaning do others assign to the expression's threefold nature?",
    "premises": [
-    "Others posit a state consisting of the three abodes.",
-    "Attaining that state is said to occur by becoming so composed.",
-    "That becoming is posited for the sake of a purpose."
+    "The expression is taken as consisting of three abodes",
+    "This threefold composition yields a particular meaning",
+    "Others hold this interpretation"
    ],
-   "inference": "According to others, becoming composed of the three abodes is undertaken for a specific purpose.",
+   "inference": "According to others, the meaning is that it consists in a three-abode nature",
    "uncertainties": [
-    "The specific purpose denoted by artham is not stated in this verse.",
-    "The identity of itye is left unexpanded here."
+    "The identity of the others is not specified"
    ],
-   "plain_english": "Others say that, having become composed of the three abodes, one does so for a purpose."
+   "plain_english": "Others say that its meaning is that it consists of three abodes."
   },
   {
    "verse": 29,
    "rows": [
     {
      "surface": "cecchā",
-     "gloss": "if-desire",
-     "grounds": "conditional compound marking a desire as the condition",
+     "gloss": "and-desire",
+     "grounds": "fused form combining conjunction and desire",
      "morph": "f.nom.sg"
     },
     {
      "surface": "ceti",
      "gloss": "and-thus",
-     "grounds": "connective plus quotative marker",
+     "grounds": "conjunction followed by quotative particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "prakramaḥ",
-     "gloss": "beginning",
-     "grounds": "noun denoting the initial step of a procedure",
+     "gloss": "procedure",
+     "grounds": "sequence or method of exposition",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Under what conditional claim is a beginning said to take place when desire is present and the matter is stated thus?",
+   "question": "What procedural sequence is indicated by the terms desire and thus?",
    "premises": [
-    "A desire forms a stated condition.",
-    "The statement is marked by a connective and quotative form.",
-    "A beginning is posited in relation to that condition."
+    "The term desire is included in the sequence",
+    "The quotative particle marks the formulation",
+    "Together they define a procedure"
    ],
-   "inference": "If desire is present, the beginning of the procedure is said to follow as stated.",
+   "inference": "The procedure proceeds by including desire and the stated formulation",
    "uncertainties": [
-    "The object of desire is not specified in this verse.",
-    "It is unclear whether prakramaḥ is the beginning of a mantra or of a rite."
+    "The full procedural context is not given in this unit"
    ],
-   "plain_english": "If there is desire, then thus the beginning is said to take place."
+   "plain_english": "And the procedure is: desire, and thus."
   },
   {
    "verse": 30,
@@ -183,93 +179,91 @@
     {
      "surface": "caturthasvara",
      "gloss": "fourth-vowel",
-     "grounds": "compound naming a specific vowel position",
-     "morph": "compound = fourth+vowel"
+     "grounds": "the fourth vowel in the series",
+     "morph": "compound-member"
     },
     {
      "surface": "īkāraḥ",
-     "gloss": "long-i",
-     "grounds": "name of the ī vowel letter",
+     "gloss": "ī-sound",
+     "grounds": "the vowel ī",
      "morph": "m.nom.sg"
     },
     {
      "surface": "hāntaṃ",
-     "gloss": "h-ending",
-     "grounds": "adjectival form marking termination with h",
-     "morph": "n.acc.sg"
+     "gloss": "ending-in-ha",
+     "grounds": "a letter or form terminating with ha",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "kṣavarṇam",
      "gloss": "kṣa-letter",
-     "grounds": "name of the letter kṣa as the item specified",
-     "morph": "n.acc.sg"
+     "grounds": "the consonant kṣa",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "What specific letter-formation is prescribed by combining the fourth vowel with an h-ending to produce the kṣa letter?",
+   "question": "Which phonetic elements are specified as the fourth vowel, the ha-ending, and the kṣa letter?",
    "premises": [
-    "The fourth vowel is specified as īkāraḥ.",
-    "That element is to be taken with an h-ending.",
-    "The result specified is the kṣa letter."
+    "The fourth vowel is identified as ī",
+    "An element ending in ha is specified",
+    "The letter kṣa is specified"
    ],
-   "inference": "The kṣa letter is formed by the fourth vowel ī with an h-ending as prescribed.",
+   "inference": "The specified phonetic elements are ī, a ha-ending form, and kṣa",
    "uncertainties": [
-    "The exact phonetic operation intended is not explicit from this verse alone.",
-    "It is unclear whether this is a bīja-formation or a classificatory note."
+    "The exact ha-ending form intended is not fully explicit"
    ],
-   "plain_english": "The fourth vowel ī, ending with h, forms the letter kṣa."
+   "plain_english": "The fourth vowel is ī, then comes the element ending in ha, and the letter kṣa."
   },
   {
    "verse": 31,
    "rows": [
     {
      "surface": "śakārasya",
-     "gloss": "sha-letter",
-     "grounds": "genitive of the letter śa",
+     "gloss": "of-śa",
+     "grounds": "the letter śa taken as base",
      "morph": "m.gen.sg"
     },
     {
      "surface": "tṛtīyaṃ",
      "gloss": "third",
-     "grounds": "ordinal specifying which element of śa is taken",
-     "morph": "n.acc.sg"
+     "grounds": "the third in a series",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sakāram",
      "gloss": "sa-letter",
-     "grounds": "accusative of the letter sa added as specified",
+     "grounds": "the consonant sa",
      "morph": "m.acc.sg"
     },
     {
      "surface": "ṣaṣṭhena",
-     "gloss": "sixth",
-     "grounds": "instrumental of ordinal marking the vowel used",
-     "morph": "m.instr.sg"
+     "gloss": "with-sixth",
+     "grounds": "accompanied by the sixth element",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "ūkāreṇa",
-     "gloss": "long-u",
-     "grounds": "instrumental of the vowel ū",
-     "morph": "m.instr.sg"
+     "gloss": "with-ū-sound",
+     "grounds": "the vowel ū",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "saṃyuktam",
      "gloss": "joined",
-     "grounds": "past participle marking combination of the specified elements",
-     "morph": "n.nom.sg"
+     "grounds": "combined or united",
+     "morph": "m.acc.sg"
     }
    ],
-   "question": "By what combination of specified letter-elements is a single formed unit produced from śa, sa, and the sixth vowel?",
+   "question": "How is the third element related to śa combined with the sixth vowel ū?",
    "premises": [
-    "The third element of śa is taken.",
-    "The letter sa is taken as specified.",
-    "These are joined by means of the sixth vowel ū to form a combined unit."
+    "The third element associated with śa is sa",
+    "The sixth vowel is ū",
+    "Sa is joined with ū"
    ],
-   "inference": "Taking the third part of śa together with sa and joining them by the sixth vowel ū produces the specified combined letter-unit.",
+   "inference": "The sa-letter, as the third related to śa, is joined with the vowel ū",
    "uncertainties": [
-    "The resultant bīja name is not written out in this verse.",
-    "The technical rule for taking a 'third' of a letter is not self-evident here."
+    "The counting system for deriving the third element is assumed from context"
    ],
-   "plain_english": "The third element of śa, together with sa, joined by the sixth vowel ū, forms a combined unit."
+   "plain_english": "Take the third element of śa, namely sa, joined with the sixth vowel ū."
   },
   {
    "verse": 32,
@@ -277,57 +271,55 @@
     {
      "surface": "pañcadaśaḥ",
      "gloss": "fifteenth",
-     "grounds": "ordinal number assigned to the vowel in a sequence",
+     "grounds": "ordinal position in the vowel series",
      "morph": "m.nom.sg"
     },
     {
      "surface": "svaraḥ",
      "gloss": "vowel",
-     "grounds": "class term for the sound-type counted",
+     "grounds": "a vocalic sound",
      "morph": "m.nom.sg"
     },
     {
      "surface": "aṅkāraḥ",
-     "gloss": "ang-letter",
-     "grounds": "name of the aṅ bīja assigned to that position",
+     "gloss": "aṅ-sound",
+     "grounds": "the sound aṅ",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What bīja is assigned to the fifteenth vowel in the sequence under consideration, and what claim of assignment is made here?",
+   "question": "Which sound is identified as the fifteenth vowel in the sequence?",
    "premises": [
-    "A vowel is counted as the fifteenth in a sequence.",
-    "That position is assigned a specific letter-name.",
-    "The assigned name given here is aṅkāraḥ."
+    "A fifteenth position in the vowel series is indicated",
+    "That position is identified as a vowel",
+    "The sound named is aṅ"
    ],
-   "inference": "The fifteenth vowel in the sequence is assigned the bīja aṅkāraḥ.",
+   "inference": "The fifteenth vowel in the sequence is the sound aṅ",
    "uncertainties": [
-    "The full vowel sequence is not given in this verse.",
-    "It is unclear whether this is a fixed list position or a context-relative count."
+    "The exact vowel classification of aṅ depends on the system used"
    ],
-   "plain_english": "The fifteenth vowel is the aṅkāra."
+   "plain_english": "The fifteenth vowel is the sound aṅ."
   },
   {
    "verse": 33,
    "rows": [
     {
      "surface": "prayogaḥ",
-     "gloss": "usage",
-     "grounds": "noun denoting prescribed application of the foregoing elements",
+     "gloss": "application",
+     "grounds": "practical use or employment",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What claim is being made about the foregoing letter-elements when they are said to have a prescribed usage rather than standing as a mere list?",
+   "question": "What stage of the mantra procedure is indicated by the term application?",
    "premises": [
-    "A set of elements has been specified in the preceding verses.",
-    "That set is not left unassigned.",
-    "It is here marked as having a prescribed usage."
+    "The term application denotes practical use",
+    "It follows the specification of elements",
+    "It signals enactment of the procedure"
    ],
-   "inference": "The elements specified above are intended for prescribed application, not for mere enumeration.",
+   "inference": "The procedure now moves to the stage of application",
    "uncertainties": [
-    "The exact application is not specified in this single-token verse.",
-    "The scope of prayogaḥ must be determined from the surrounding sequence."
+    "The specific details of the application are not stated here"
    ],
-   "plain_english": "This is the prescribed usage of the foregoing."
+   "plain_english": "Now comes the application."
   },
   {
    "verse": 34,
@@ -335,157 +327,153 @@
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "demonstrative referring to the foregoing explanation and its result",
+     "grounds": "refers to the matter at hand",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pūrvavyākhyānena",
      "gloss": "by-previous-explanation",
-     "grounds": "instrumental compound referring to an earlier explanation",
-     "morph": "n.instr.sg"
+     "grounds": "through an earlier exposition",
+     "morph": "n.ins.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle restricting to that means",
+     "grounds": "emphatic particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "gatārtham",
-     "gloss": "understood-meaning",
-     "grounds": "compound marking meaning as having been reached/understood",
+     "gloss": "meaning-understood",
+     "grounds": "sense already conveyed or clear",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "By what means alone is the meaning of what has just been set out said to be understood, and what restriction does that claim place on further explanation?",
+   "question": "Why does the present matter require no further explanation beyond the earlier account?",
    "premises": [
-    "This matter has been set out above.",
-    "An earlier explanation exists as a means of understanding it.",
-    "That means alone is said to suffice for understanding its meaning."
+    "This matter has been addressed before",
+    "The previous explanation conveys its meaning",
+    "No additional clarification is needed"
    ],
-   "inference": "By the previous explanation alone, the meaning of this is indeed understood.",
+   "inference": "The meaning of this matter is already understood from the previous explanation",
    "uncertainties": [
-    "The exact referent of etat is the whole preceding sequence, not a single token.",
-    "It is unclear whether gatārtham means 'its meaning is known' or 'its purpose is fulfilled'."
+    "The exact location of the previous explanation is not identified here"
    ],
-   "plain_english": "This is indeed understood in meaning by the previous explanation alone."
+   "plain_english": "This is already understood from the previous explanation."
   },
   {
    "verse": 35,
    "rows": [
     {
      "surface": "ityādi",
-     "gloss": "thus-etc",
-     "grounds": "quotative compound marking an open-ended list beginning thus",
+     "gloss": "thus-and-so-forth",
+     "grounds": "indicates continuation of a series",
      "morph": "(indecl.)"
     },
     {
      "surface": "vakṣyamāṇāḥ",
-     "gloss": "to-be-spoken",
-     "grounds": "future passive participle marking mantras to be stated later",
-     "morph": "m.nom.pl"
+     "gloss": "to-be-stated",
+     "grounds": "those that will be spoken",
+     "morph": "m.nom.pl.future-participle"
     },
     {
      "surface": "ṣaḍ",
      "gloss": "six",
-     "grounds": "numeral specifying the count",
-     "morph": "m.nom.pl"
+     "grounds": "numeral indicating quantity",
+     "morph": "(indecl.)"
     },
     {
      "surface": "ete",
      "gloss": "these",
-     "grounds": "demonstrative referring to the mantras about to be listed",
+     "grounds": "demonstrative referring to the group",
      "morph": "m.nom.pl"
     },
     {
      "surface": "krameṇa",
      "gloss": "in-order",
-     "grounds": "adverb marking sequential order of presentation",
-     "morph": "(indecl.)"
+     "grounds": "according to sequence",
+     "morph": "m.ins.sg"
     },
     {
      "surface": "hṛdayādīnāṃ",
-     "gloss": "heart-etc",
-     "grounds": "genitive plural of a list headed by heart, left open-ended",
-     "morph": "m.gen.pl"
+     "gloss": "of-heart-and-others",
+     "grounds": "refers to the heart and subsequent members",
+     "morph": "n.gen.pl"
     },
     {
      "surface": "mantrāḥ",
      "gloss": "mantras",
-     "grounds": "noun class being enumerated",
+     "grounds": "sacred formulas",
      "morph": "m.nom.pl"
     }
    ],
-   "question": "What structural claim is made about six mantras headed by the heart and others when they are said to be stated in order later in the sequence?",
+   "question": "How many mantras for the heart and related members are to be stated in sequence?",
    "premises": [
-    "Six mantras are indicated here by demonstration.",
-    "They belong to a set headed by the heart and others.",
-    "They are to be spoken in order at a later point."
+    "A series beginning with the heart is indicated",
+    "The mantras are to be stated in order",
+    "Their total number is six"
    ],
-   "inference": "These six mantras, headed by the heart and others, are to be presented in order in what follows.",
+   "inference": "Six mantras for the heart and the others are to be stated in sequence",
    "uncertainties": [
-    "The full list after hṛdayādīnāṃ is not given in this verse.",
-    "The exact boundary of that list remains open until the subsequent verses."
+    "The exact identities of all six mantras are not fully listed in this unit"
    ],
-   "plain_english": "Thus etc., these six mantras, headed by the heart and others, are to be spoken in order."
+   "plain_english": "These six mantras, beginning with the heart and so forth, are to be stated in order."
   },
   {
    "verse": 36,
    "rows": [
     {
      "surface": "prayogaḥ",
-     "gloss": "usage",
-     "grounds": "noun marking prescribed application of the six mantras to follow",
+     "gloss": "application",
+     "grounds": "practical use or employment",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What claim is made about the six mantras indicated in the previous verse when they are marked solely by the term for prescribed usage?",
+   "question": "What stage follows the enumeration of the six mantras in the ritual sequence?",
    "premises": [
-    "Six mantras have just been indicated as to be spoken in order.",
-    "They are not presented as objects of mere knowledge here.",
-    "They are marked with the term denoting prescribed usage."
+    "The six mantras have been indicated",
+    "A procedural stage is named",
+    "That stage is application"
    ],
-   "inference": "The six mantras indicated above are intended for prescribed application.",
+   "inference": "After enumerating the six mantras, the procedure moves to their application",
    "uncertainties": [
-    "The specific usage is not detailed in this single-token verse.",
-    "Its determination depends entirely on the forthcoming list."
+    "The specific mode of application is not detailed here"
    ],
-   "plain_english": "This is the prescribed usage of those mantras."
+   "plain_english": "Now comes the application."
   },
   {
    "verse": 37,
    "rows": [
     {
      "surface": "bindunādādi",
-     "gloss": "bindu-nada-etc",
-     "grounds": "compound list headed by bindu and nāda, left open-ended",
-     "morph": "compound = bindu+nada+etc"
+     "gloss": "bindu-nada-and-so-forth",
+     "grounds": "series beginning with bindu and nada",
+     "morph": "compound-member"
     },
     {
      "surface": "upalakṣaṇa",
-     "gloss": "indicative",
-     "grounds": "noun denoting that which indicates more than it states",
-     "morph": "n.nom.sg"
+     "gloss": "indicative-mark",
+     "grounds": "serving as a sign or indicator",
+     "morph": "compound-member"
     },
     {
      "surface": "paraḥ",
-     "gloss": "intent",
-     "grounds": "noun/adjectival term denoting the intended referent beyond the stated items",
+     "gloss": "intended",
+     "grounds": "having that as its purpose or referent",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What is claimed to be the intended referent when bindu, nāda, and what follows are said to serve only as an indication rather than as a complete list?",
+   "question": "What is the intended function of the reference to bindu, nāda, and related elements?",
    "premises": [
-    "Bindu, nāda, and further items are mentioned.",
-    "They are characterized as serving an indicative function.",
-    "That indicative function points to an intent beyond the stated items."
+    "Bindu and nāda are mentioned as the start of a series",
+    "The mention serves as an indicative mark",
+    "This indication is the intended purpose"
    ],
-   "inference": "Bindu, nāda, and the rest are given by way of indication, and the real intent lies beyond them.",
+   "inference": "The reference to bindu, nāda, and so forth is intended as an indicative marker for related elements",
    "uncertainties": [
-    "The precise intended referent is not named in this verse.",
-    "It is unclear whether paraḥ denotes a class, a state, or a specific element."
+    "The full set of elements indicated is not enumerated here"
    ],
-   "plain_english": "Bindu, nāda, and so on are given by way of indication; the intent lies beyond them."
+   "plain_english": "The mention of bindu, nāda, and so forth is intended as an indicative marker."
   }
  ]
 }

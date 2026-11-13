@@ -1,14 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 4,
- "question": "What is the focus even in the initial statement?",
+ "question": "What is the primary focus of the initial statement despite other implications?",
  "premises": [
-  "the initial statement focuses on main purpose",
-  "explanation remains primary"
+  "The initial statement is under consideration.",
+  "Its primary orientation is explaining the main purpose.",
+  "Other implications may be present but are secondary."
  ],
- "inference": "the passage emphasizes explaining the main purpose from the outset",
- "uncertainties": [
-  "scope of main purpose"
- ],
- "plain_english": "Even in the initial statement, the focus is on explaining the main purpose."
+ "inference": "Even in the initial statement, the focus is on explaining the main purpose.",
+ "uncertainties": [],
+ "plain_english": "Even though focused on explaining the main purpose, in the initial statement."
 }

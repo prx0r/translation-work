@@ -1,16 +1,15 @@
 {
  "song": "sva-p02",
  "verse": 34,
- "question": "By what means alone is the meaning of what has just been set out said to be understood, and what restriction does that claim place on further explanation?",
+ "question": "Why does the present matter require no further explanation beyond the earlier account?",
  "premises": [
-  "This matter has been set out above.",
-  "An earlier explanation exists as a means of understanding it.",
-  "That means alone is said to suffice for understanding its meaning."
+  "This matter has been addressed before",
+  "The previous explanation conveys its meaning",
+  "No additional clarification is needed"
  ],
- "inference": "By the previous explanation alone, the meaning of this is indeed understood.",
+ "inference": "The meaning of this matter is already understood from the previous explanation",
  "uncertainties": [
-  "The exact referent of etat is the whole preceding sequence, not a single token.",
-  "It is unclear whether gatārtham means 'its meaning is known' or 'its purpose is fulfilled'."
+  "The exact location of the previous explanation is not identified here"
  ],
- "plain_english": "This is indeed understood in meaning by the previous explanation alone."
+ "plain_english": "This is already understood from the previous explanation."
 }

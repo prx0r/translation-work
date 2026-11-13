@@ -1,16 +1,15 @@
 {
  "song": "sva-p02",
  "verse": 36,
- "question": "What claim is made about the six mantras indicated in the previous verse when they are marked solely by the term for prescribed usage?",
+ "question": "What stage follows the enumeration of the six mantras in the ritual sequence?",
  "premises": [
-  "Six mantras have just been indicated as to be spoken in order.",
-  "They are not presented as objects of mere knowledge here.",
-  "They are marked with the term denoting prescribed usage."
+  "The six mantras have been indicated",
+  "A procedural stage is named",
+  "That stage is application"
  ],
- "inference": "The six mantras indicated above are intended for prescribed application.",
+ "inference": "After enumerating the six mantras, the procedure moves to their application",
  "uncertainties": [
-  "The specific usage is not detailed in this single-token verse.",
-  "Its determination depends entirely on the forthcoming list."
+  "The specific mode of application is not detailed here"
  ],
- "plain_english": "This is the prescribed usage of those mantras."
+ "plain_english": "Now comes the application."
 }

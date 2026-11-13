@@ -1,14 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 392,
- "question": "What extraordinary effect is produced during muttering focused on the image?",
+ "question": "What extraordinary effect follows muttering before the image in that state?",
  "premises": [
-  "Muttering occurs in relation to the image.",
-  "Breaking of pots and stones occurs in that context."
+  "Muttering at an image is performed.",
+  "The act occurs in that context.",
+  "Breaking of pots and stones results."
  ],
- "inference": "Muttering focused on the image can produce the breaking of pots and stones.",
+ "inference": "Muttering before the image in that state can break pots and stones.",
  "uncertainties": [
-  "The exact grammatical form of 'tasmi(n' is truncated in the source token."
+  "The token 'tasmi(n' is truncated in the source."
  ],
- "plain_english": "In that muttering before the image, pots and stones are shattered."
+ "plain_english": "Muttering before the image in that state brings about the breaking of pots and stones."
 }

@@ -1,14 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 3,
- "question": "Why is something not indicated separately?",
+ "question": "Why was a certain element not indicated separately in the teaching?",
  "premises": [
-  "it is included within another topic",
-  "separate indication is unnecessary"
+  "Something is already included within another element.",
+  "Inclusion removes the need for separate mention.",
+  "Separate indication was therefore not made."
  ],
- "inference": "the item is omitted separately because it is already included",
+ "inference": "Because it is included within, it was not indicated separately.",
  "uncertainties": [
-  "exact omitted item"
+  "The specific included element is not named in this unit."
  ],
- "plain_english": "Because it is included, it is not indicated separately."
+ "plain_english": "Because it is included within, it was not indicated separately."
 }
