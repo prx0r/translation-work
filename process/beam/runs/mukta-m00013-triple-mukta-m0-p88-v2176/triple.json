@@ -1,0 +1,1287 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2176,
+   "rows": [
+    {
+     "surface": "yava",
+     "gloss": "barley-grain",
+     "grounds": "unit of measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvaya",
+     "gloss": "two",
+     "grounds": "quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāṇena",
+     "gloss": "by-measure",
+     "grounds": "instrumental of extent",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yoni",
+     "gloss": "yoni",
+     "grounds": "ritual structure part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "agram",
+     "gloss": "tip",
+     "grounds": "object extended",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varddhayet",
+     "gloss": "one-should-extend",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + vṛdh"
+    }
+   ],
+   "question": "By what measure should the tip of the yoni be extended?",
+   "premises": [
+    "The yoni tip is to be extended.",
+    "The measure specified is two barley-grains.",
+    "The extension is an additional adjustment."
+   ],
+   "inference": "The practitioner should extend the tip of the yoni by the measure of two barley-grains.",
+   "uncertainties": [],
+   "plain_english": "One should also extend the tip of the yoni by the measure of two barley-grains."
+  },
+  {
+   "verse": 2177,
+   "rows": [
+    {
+     "surface": "bāhya",
+     "gloss": "outer",
+     "grounds": "location qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stha",
+     "gloss": "situated",
+     "grounds": "location qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mekhalā",
+     "gloss": "rim",
+     "grounds": "ritual structure part",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāhya",
+     "gloss": "outer",
+     "grounds": "location qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthalāt",
+     "gloss": "from-place",
+     "grounds": "starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "action of starting",
+     "morph": "(indecl.) gerund + ā-rabh"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.caus.act + kṛ"
+    }
+   ],
+   "question": "From what point should the outer rim be constructed?",
+   "premises": [
+    "An outer rim is to be made.",
+    "The starting point is the outer place.",
+    "Construction proceeds beginning from that place."
+   ],
+   "inference": "One should make the outer rim beginning from the outer place.",
+   "uncertainties": [],
+   "plain_english": "Beginning from the outer place, one should make the outer rim."
+  },
+  {
+   "verse": 2178,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefix indicating possession",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "randhrakam",
+     "gloss": "hole",
+     "grounds": "perforated feature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhayatra",
+     "gloss": "in-both-places",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃvadhyate",
+     "gloss": "is-connected",
+     "grounds": "structural relation",
+     "morph": "3.sg.pres.pass + saṃ-bandh"
+    }
+   ],
+   "question": "How is the perforated feature connected in both locations?",
+   "premises": [
+    "A perforated feature is specified.",
+    "The connection applies in both places.",
+    "The text states this connection explicitly."
+   ],
+   "inference": "The perforated feature is connected in both places as stated.",
+   "uncertainties": [],
+   "plain_english": "Thus, it is connected with a hole in both places."
+  },
+  {
+   "verse": 2179,
+   "rows": [
+    {
+     "surface": "madhyataḥ",
+     "gloss": "from-middle",
+     "grounds": "starting boundary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "endpoint qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paryantam",
+     "gloss": "up-to-limit",
+     "grounds": "ending boundary",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "explanation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the intended meaning of the stated spatial extent?",
+   "premises": [
+    "The extent begins from the middle.",
+    "The extent reaches up to the middle limit.",
+    "This defines the intended meaning."
+   ],
+   "inference": "The meaning is that it extends from the middle up to the middle limit.",
+   "uncertainties": [],
+   "plain_english": "The meaning is: from the middle up to the middle limit."
+  },
+  {
+   "verse": 2180,
+   "rows": [
+    {
+     "surface": "randhraṃ",
+     "gloss": "hole",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + kṛ"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "the-knowing-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvitīyam",
+     "gloss": "second",
+     "grounds": "additional instance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekhalā",
+     "gloss": "rim",
+     "grounds": "location on structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "upari",
+     "gloss": "upon",
+     "grounds": "position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the knowing practitioner make a second hole?",
+   "premises": [
+    "A hole is to be made by the knowing practitioner.",
+    "A second hole is specified.",
+    "Its location is upon the rim."
+   ],
+   "inference": "The knowing practitioner should likewise make a second hole upon the rim.",
+   "uncertainties": [
+    "The form 'ekhalā' may reflect a variant spelling of 'mekhalā'."
+   ],
+   "plain_english": "Thus the knowing one should make a second hole upon the rim."
+  },
+  {
+   "verse": 2181,
+   "rows": [
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśa",
+     "gloss": "part",
+     "grounds": "division",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvayena",
+     "gloss": "by-two",
+     "grounds": "measure or division",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "number",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "patrāṇi",
+     "gloss": "petals",
+     "grounds": "design elements",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + pari-kḷp"
+    }
+   ],
+   "question": "How many petals should be arranged on the outer part and by what division?",
+   "premises": [
+    "Petals are to be arranged outside.",
+    "The arrangement involves two parts.",
+    "The number of petals is eight."
+   ],
+   "inference": "One should arrange eight petals on the outside by means of two parts.",
+   "uncertainties": [],
+   "plain_english": "On the outside, one should arrange eight petals by means of two parts."
+  },
+  {
+   "verse": 2182,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "namaḥ",
+     "grounds": "mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anta",
+     "gloss": "ending",
+     "grounds": "mantra form qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paurāṇika",
+     "gloss": "purāṇic",
+     "grounds": "source tradition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "ritual formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "param",
+     "gloss": "pertaining-to",
+     "grounds": "scope qualifier",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form of mantra is prescribed in relation to the Purāṇic tradition?",
+   "premises": [
+    "The mantra form ends with namaḥ.",
+    "The reference is to Purāṇic mantras.",
+    "This specifies the applicable mantra type."
+   ],
+   "inference": "The instruction pertains to Purāṇic mantras ending with namaḥ.",
+   "uncertainties": [],
+   "plain_english": "This pertains to Purāṇic mantras ending with 'namaḥ'."
+  },
+  {
+   "verse": 2183,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ ādityāya namaḥ,",
+     "gloss": "oṃ-ādityāya-namaḥ",
+     "grounds": "mantra formula, kept exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādyaṃ",
+     "gloss": "water-offering",
+     "grounds": "ritual offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūryāya namaḥ",
+     "gloss": "sūryāya-namaḥ",
+     "grounds": "mantra formula, kept exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "continuation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra form is excluded for the water offering and similar rites?",
+   "premises": [
+    "A specific mantra form is negated.",
+    "The context includes the water offering.",
+    "Examples such as 'sūryāya namaḥ' and so forth are given."
+   ],
+   "inference": "The mantra 'oṃ ādityāya namaḥ' is not to be used for this water offering and similar cases.",
+   "uncertainties": [],
+   "plain_english": "But not 'oṃ ādityāya namaḥ'; this is the water offering, as in 'sūryāya namaḥ' and so forth."
+  },
+  {
+   "verse": 2184,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "consequence",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anta",
+     "gloss": "ending",
+     "grounds": "mantra form qualifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantre",
+     "gloss": "in-mantra",
+     "grounds": "context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "additional",
+     "grounds": "extra insertion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktavyam",
+     "gloss": "should-be-said",
+     "grounds": "prohibition",
+     "morph": "n.nom.sg gerundive + vac"
+    }
+   ],
+   "question": "Should an additional svāhā be uttered in a mantra already ending with svāhā?",
+   "premises": [
+    "The mantra already ends with svāhā.",
+    "An additional svāhā is considered.",
+    "The text prohibits saying it again."
+   ],
+   "inference": "In a mantra ending with svāhā, one should not utter an additional svāhā.",
+   "uncertainties": [],
+   "plain_english": "Therefore, in a mantra ending with 'svāhā', an additional 'svāhā' should not be said."
+  },
+  {
+   "verse": 2185,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "number",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṃgulaṃ",
+     "gloss": "fingers",
+     "grounds": "measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "prior action",
+     "morph": "(indecl.) gerund + tyaj"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "one-should-hold",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + dhṛ"
+    },
+    {
+     "surface": "śaṅkha",
+     "gloss": "conch",
+     "grounds": "mudrā name element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mudrayā",
+     "gloss": "with-mudrā",
+     "grounds": "ritual gesture",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the śaṅkha mudrā be held in relation to the outer space?",
+   "premises": [
+    "A space of five fingers outside is to be left.",
+    "The śaṅkha mudrā is to be held.",
+    "The holding follows leaving that space."
+   ],
+   "inference": "One should leave five fingers outside and then hold the śaṅkha mudrā.",
+   "uncertainties": [],
+   "plain_english": "Leaving five fingers outside, one should hold it with the śaṅkha mudrā."
+  },
+  {
+   "verse": 2186,
+   "rows": [
+    {
+     "surface": "anukte",
+     "gloss": "when-unspecified",
+     "grounds": "condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "havir",
+     "gloss": "oblation",
+     "grounds": "ritual substance category",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dravye",
+     "gloss": "substance",
+     "grounds": "material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tila",
+     "gloss": "sesame",
+     "grounds": "specific substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "ghee",
+     "grounds": "specific substance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "havir",
+     "gloss": "oblation",
+     "grounds": "defined term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "definition",
+     "morph": "3.sg.pres.pass + vac"
+    }
+   ],
+   "question": "What substance counts as the oblation when the oblation material is unspecified?",
+   "premises": [
+    "The oblation substance may be unspecified.",
+    "Sesame and ghee are named.",
+    "These are stated to be the oblation."
+   ],
+   "inference": "When the oblation substance is unspecified, sesame and ghee are understood as the oblation.",
+   "uncertainties": [],
+   "plain_english": "But when the oblation substance is unspecified, sesame and ghee are called the oblation."
+  },
+  {
+   "verse": 2187,
+   "rows": [
+    {
+     "surface": "vibhūtiṃ",
+     "gloss": "prosperity",
+     "grounds": "result attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "ritual domain",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāryeṇa",
+     "gloss": "by-rite",
+     "grounds": "means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "result attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "one-obtains",
+     "grounds": "result",
+     "morph": "3.sg.pres.act + vid"
+    }
+   ],
+   "question": "What results does one obtain through the fire rite?",
+   "premises": [
+    "The fire rite is performed.",
+    "Prosperity is a possible result.",
+    "All success is also a possible result."
+   ],
+   "inference": "By means of the fire rite, one obtains prosperity and all success.",
+   "uncertainties": [],
+   "plain_english": "By the fire rite one obtains prosperity and all success."
+  },
+  {
+   "verse": 2188,
+   "rows": [
+    {
+     "surface": "bali",
+     "gloss": "offering",
+     "grounds": "ritual act",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaiśya",
+     "gloss": "vaiśya",
+     "grounds": "ritual category element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "inclusive series",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brāhmaṇa",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samupācaret",
+     "gloss": "should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + sam-upa-ā-car"
+    }
+   ],
+   "question": "Who should perform the offering to the vaiśya and related rites?",
+   "premises": [
+    "The offering to the vaiśya and related acts are specified.",
+    "A qualified agent is required.",
+    "The brāhmaṇa is named as that agent."
+   ],
+   "inference": "The brāhmaṇa should perform the offering to the vaiśya and related rites.",
+   "uncertainties": [
+    "The exact sense of 'bali-vaiśya-ādikaṃ' is context-dependent."
+   ],
+   "plain_english": "The brāhmaṇa should indeed perform the offering to the vaiśya and so forth."
+  },
+  {
+   "verse": 2189,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "prior ritual action",
+     "morph": "(indecl.) gerund + hu"
+    },
+    {
+     "surface": "stutvā",
+     "gloss": "having-praised",
+     "grounds": "prior ritual action",
+     "morph": "(indecl.) gerund + stu"
+    },
+    {
+     "surface": "namaskṛtya",
+     "gloss": "having-bowed",
+     "grounds": "prior ritual action",
+     "morph": "(indecl.) gerund + namas-kṛ"
+    },
+    {
+     "surface": "visṛjet",
+     "gloss": "one-should-dismiss",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + vi-sṛj"
+    },
+    {
+     "surface": "indu",
+     "gloss": "moon",
+     "grounds": "location element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What sequence of actions concludes with dismissal in the moon circle?",
+   "premises": [
+    "Offering, praising, and bowing are performed first.",
+    "Dismissal follows these acts.",
+    "The dismissal occurs in the moon circle."
+   ],
+   "inference": "After offering, praising, and bowing, one should dismiss in the moon circle.",
+   "uncertainties": [],
+   "plain_english": "Having offered, praised, and bowed, one should dismiss in the moon circle."
+  },
+  {
+   "verse": 2190,
+   "rows": [
+    {
+     "surface": "pūrva",
+     "gloss": "east",
+     "grounds": "direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "series marker",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dik",
+     "gloss": "direction",
+     "grounds": "spatial category",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequence",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + sam-ā-car"
+    }
+   ],
+   "question": "In what directional order should the oblation be performed?",
+   "premises": [
+    "The oblation is to be performed.",
+    "The directions begin with the east.",
+    "The performance follows that order."
+   ],
+   "inference": "One should then perform the oblation in order beginning with the east.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the oblation in order beginning with the east."
+  },
+  {
+   "verse": 2191,
+   "rows": [
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-pit",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-ground-altar",
+     "grounds": "ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīkṣaṇa",
+     "gloss": "gazing",
+     "grounds": "consecration act",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-so-forth",
+     "grounds": "inclusive series",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "consecrated",
+     "grounds": "prepared state",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what kind of consecrated place may the rite be performed?",
+   "premises": [
+    "The rite may occur in a pit or on a ground altar.",
+    "The place must be consecrated.",
+    "Consecration includes gazing and related acts."
+   ],
+   "inference": "The rite may be performed in a pit or on a ground altar consecrated by gazing and so forth.",
+   "uncertainties": [],
+   "plain_english": "In a pit or on a ground altar, consecrated by gazing and so forth."
+  },
+  {
+   "verse": 2192,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental reference",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varmaṇā",
+     "gloss": "by-armor-mantra",
+     "grounds": "mantra instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "abhyukṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "doctrinal view",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what means is the sprinkling declared and understood to be performed?",
+   "premises": [
+    "Sprinkling is declared in the text.",
+    "The armor mantra is specified as the means.",
+    "This sprinkling is considered established."
+   ],
+   "inference": "Sprinkling is declared and considered to be performed by means of the armor mantra.",
+   "uncertainties": [],
+   "plain_english": "By that very means sprinkling is declared; sprinkling with the armor mantra is considered proper."
+  },
+  {
+   "verse": 2193,
+   "rows": [
+    {
+     "surface": "udak",
+     "gloss": "north",
+     "grounds": "direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agreṣu",
+     "gloss": "facing",
+     "grounds": "orientation",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "Brahmā",
+     "grounds": "deity name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaivasvata",
+     "gloss": "Vaivasvata",
+     "grounds": "deity name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "indūn",
+     "gloss": "moons",
+     "grounds": "deities or forms",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + pūj"
+    }
+   ],
+   "question": "Which deities should be worshipped while facing north?",
+   "premises": [
+    "The orientation is facing north.",
+    "Brahmā, Vaivasvata, and the moons are named.",
+    "Worship is prescribed."
+   ],
+   "inference": "Facing north, one should worship Brahmā, Vaivasvata, and the moons.",
+   "uncertainties": [
+    "The identity of 'indūn' in this ritual context is not fully explicit."
+   ],
+   "plain_english": "Facing north, one should worship Brahmā, Vaivasvata, and the moons."
+  },
+  {
+   "verse": 2194,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequence",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + pūj"
+    }
+   ],
+   "question": "In what manner should the worship be carried out?",
+   "premises": [
+    "Worship is prescribed.",
+    "A specific order is implied.",
+    "The manner is summarized as thus."
+   ],
+   "inference": "One should worship in this manner and in due order.",
+   "uncertainties": [],
+   "plain_english": "Thus one should worship in order."
+  },
+  {
+   "verse": 2195,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prakūrvīta",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.mid + pra-kṛ"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "divine presence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sannidhānataḥ",
+     "gloss": "in-presence",
+     "grounds": "condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition should the oblation be performed next?",
+   "premises": [
+    "The oblation follows the previous acts.",
+    "The deity's presence is required.",
+    "Performance is prescribed in that presence."
+   ],
+   "inference": "Then one should perform the oblation in the presence of the deity.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the oblation in the presence of the deity."
+  },
+  {
+   "verse": 2196,
+   "rows": [
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "offering material",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "añjalīn",
+     "gloss": "handfuls",
+     "grounds": "measure of offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dadyāt,",
+     "gloss": "one-should-give",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + dā"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "Sundarī",
+     "grounds": "deity or ritual form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-case",
+     "grounds": "alternative condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bālayā",
+     "gloss": "with-Bālā",
+     "grounds": "alternative form or mantra",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What offering is given, and what alternative applies in the case of Sundarī?",
+   "premises": [
+    "Handfuls of flowers are to be given.",
+    "An alternative case involving Sundarī is mentioned.",
+    "In that case Bālā is specified."
+   ],
+   "inference": "One should give handfuls of flowers, but in the case of Sundarī it is done with Bālā.",
+   "uncertainties": [
+    "Whether 'bālayā' refers to a mantra, form, or ritual procedure is not explicit."
+   ],
+   "plain_english": "One should offer handfuls of flowers; but in the case of Sundarī, with Bālā."
+  },
+  {
+   "verse": 2197,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṃ vahnyāsanāya namaḥ",
+     "gloss": "raṃ-vahnyāsanāya-namaḥ",
+     "grounds": "mantra formula, kept exact",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra is to be used at this point in the sequence?",
+   "premises": [
+    "The ritual proceeds to the next step.",
+    "A specific mantra is given.",
+    "The mantra is to be applied then."
+   ],
+   "inference": "Then the mantra 'raṃ vahnyāsanāya namaḥ' is to be used.",
+   "uncertainties": [],
+   "plain_english": "Then: 'raṃ vahnyāsanāya namaḥ'."
+  },
+  {
+   "verse": 2198,
+   "rows": [
+    {
+     "surface": "sundarī",
+     "gloss": "Sundarī",
+     "grounds": "deity or ritual form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-case",
+     "grounds": "alternative condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmeśvaraṃ",
+     "gloss": "Kāmeśvara",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāmeśvarīṃ",
+     "gloss": "Kāmeśvarī",
+     "grounds": "deity name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + pūj"
+    }
+   ],
+   "question": "Whom should one worship in the alternative case of Sundarī?",
+   "premises": [
+    "An alternative case involving Sundarī is specified.",
+    "Kāmeśvara and Kāmeśvarī are named.",
+    "Worship of them is prescribed."
+   ],
+   "inference": "In the case of Sundarī, one should worship Kāmeśvara and Kāmeśvarī.",
+   "uncertainties": [],
+   "plain_english": "But in the case of Sundarī, one should worship Kāmeśvara and Kāmeśvarī."
+  },
+  {
+   "verse": 2199,
+   "rows": [
+    {
+     "surface": "śrotriyāṇāṃ",
+     "gloss": "of-vedic-scholars",
+     "grounds": "source persons",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "geha",
+     "gloss": "house",
+     "grounds": "place of origin",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jaṃ",
+     "gloss": "born",
+     "grounds": "origin",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vana",
+     "gloss": "forest",
+     "grounds": "place of origin",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthaṃ",
+     "gloss": "dwelling",
+     "grounds": "location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haret",
+     "gloss": "one-should-take",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act + hṛ"
+    }
+   ],
+   "question": "From what sources may the required material be taken?",
+   "premises": [
+    "Material may be taken from the house of Vedic scholars.",
+    "Material may be taken from what dwells in the forest.",
+    "Alternatives are explicitly allowed."
+   ],
+   "inference": "One should take it from the house of Vedic scholars, or from what is in the forest, or alternatively.",
+   "uncertainties": [
+    "The specific object to be taken is not stated in this verse."
+   ],
+   "plain_english": "One should take what is born in the house of Vedic scholars, or what dwells in the forest, or else."
+  }
+ ]
+}

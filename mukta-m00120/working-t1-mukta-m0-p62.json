@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "vyaktāyāḥ",
-"quick_gloss": "of-manifest"
+"quick_gloss": "manifest"
 },
 {
 "surface": "ca",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "guptāyā",
-"quick_gloss": "of-hidden"
+"quick_gloss": "hidden"
 },
 {
 "surface": "lakṣaṇaṃ",
@@ -45,7 +45,7 @@
 "tokens": [
 {
 "surface": "guptārccane",
-"quick_gloss": "in-hidden+worship"
+"quick_gloss": "hidden+worship"
 },
 {
 "surface": "api",
@@ -65,7 +65,7 @@
 },
 {
 "surface": "yuto",
-"quick_gloss": "endowed-with"
+"quick_gloss": "endowed"
 },
 {
 "surface": "yadi",
@@ -85,20 +85,24 @@
 "quick_gloss": "from-seeing"
 },
 {
-"surface": "lakṣa+pīṭhānāṃ",
-"quick_gloss": "of-hundred-thousand+seats"
+"surface": "lakṣa",
+"quick_gloss": "hundred-thousand"
+},
+{
+"surface": "pīṭhānāṃ",
+"quick_gloss": "seats"
 },
 {
 "surface": "phalaṃ",
 "quick_gloss": "fruit"
 },
 {
-"surface": "yad",
+"surface": "yat",
 "quick_gloss": "which"
 },
 {
 "surface": "varavarṇini",
-"quick_gloss": "O-best-complexioned-one"
+"quick_gloss": "O-best-of-women"
 }
 ]
 },
@@ -114,8 +118,12 @@
 "quick_gloss": "from-touching"
 },
 {
-"surface": "sarva+pīṭhānāṃ",
-"quick_gloss": "of-all+seats"
+"surface": "sarva",
+"quick_gloss": "all"
+},
+{
+"surface": "pīṭhānāṃ",
+"quick_gloss": "seats"
 },
 {
 "surface": "phalam",
@@ -152,7 +160,7 @@
 },
 {
 "surface": "yoni+pīṭheṣu",
-"quick_gloss": "in-womb+seats"
+"quick_gloss": "in-yoni+seats"
 },
 {
 "surface": "sundari",
@@ -172,7 +180,7 @@
 "quick_gloss": "Sarasvatī"
 },
 {
-"surface": "madhyabhāge",
+"surface": "madhya+bhāge",
 "quick_gloss": "in-middle+part"
 },
 {
@@ -255,8 +263,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tallakṣaṇānvito",
-"quick_gloss": "endowed-with-that+characteristic"
+"surface": "tat+lakṣaṇa",
+"quick_gloss": "by-that+characteristic"
+},
+{
+"surface": "anvito",
+"quick_gloss": "endowed"
 },
 {
 "surface": "jñeyaḥ",
@@ -284,8 +296,8 @@
 "quick_gloss": "of-the-knowers"
 },
 {
-"surface": "jñānarūpa",
-"quick_gloss": "of-knowledge+form"
+"surface": "jñāna+rūpa",
+"quick_gloss": "knowledge+form"
 },
 {
 "surface": "idaṃ",
@@ -317,8 +329,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śrīsarvānandanātha",
-"quick_gloss": "by-Śrī-Sarvānandanātha"
+"surface": "śrī+sarvānandanātha",
+"quick_gloss": "by-Śrī+Sarvānandanātha"
 },
 {
 "surface": "viracite",
@@ -329,7 +341,7 @@
 "quick_gloss": "in-Sarvollāsa"
 },
 {
-"surface": "pañcāśadullāsaḥ",
+"surface": "pañcāśad+ullāsaḥ",
 "quick_gloss": "fiftieth+chapter"
 }
 ]
@@ -343,11 +355,11 @@
 "tokens": [
 {
 "surface": "tava",
-"quick_gloss": "to-you"
+"quick_gloss": "your"
 },
 {
-"surface": "prītikarī",
-"quick_gloss": "pleasure+making"
+"surface": "prīti+karī",
+"quick_gloss": "pleasure+causing"
 },
 {
 "surface": "devi",
@@ -372,7 +384,7 @@
 "tokens": [
 {
 "surface": "yoni+tattvaṃ",
-"quick_gloss": "womb+essence"
+"quick_gloss": "yoni+tattva"
 },
 {
 "surface": "vinā",
@@ -387,8 +399,12 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "kula+dharma+parāyaṇaḥ",
-"quick_gloss": "devoted-to-kula+dharma"
+"surface": "kula+dharma",
+"quick_gloss": "kula+dharma"
+},
+{
+"surface": "parāyaṇaḥ",
+"quick_gloss": "devoted"
 }
 ]
 },
@@ -482,8 +498,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rajojjvalā",
-"quick_gloss": "shining-with-menses"
+"surface": "rajo+jjvalā",
+"quick_gloss": "menses+bright"
 }
 ]
 },
@@ -496,11 +512,15 @@
 "tokens": [
 {
 "surface": "śukrikā",
-"quick_gloss": "Śukrikā"
+"quick_gloss": "śukrikā"
 },
 {
-"surface": "śukra+jananī",
-"quick_gloss": "semen+producing"
+"surface": "śukra",
+"quick_gloss": "semen"
+},
+{
+"surface": "jananī",
+"quick_gloss": "producer"
 },
 {
 "surface": "tasyāṃ",
@@ -511,8 +531,8 @@
 "quick_gloss": "worship"
 },
 {
-"surface": "mahāphalā",
-"quick_gloss": "of-great+fruit"
+"surface": "mahā+phalā",
+"quick_gloss": "great+fruit"
 }
 ]
 },
@@ -611,7 +631,7 @@
 },
 {
 "surface": "anukalpaṃ",
-"quick_gloss": "substitute-rite"
+"quick_gloss": "substitute"
 },
 {
 "surface": "kuleśvari",
@@ -644,7 +664,7 @@
 },
 {
 "surface": "anukalpeṣu",
-"quick_gloss": "in-substitute-rites"
+"quick_gloss": "in-substitutes"
 },
 {
 "surface": "saṃsthitam",
@@ -660,15 +680,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svasvavarṇayutaṃ",
-"quick_gloss": "endowed-with-one's-own+class"
+"surface": "sva+sva+varṇa",
+"quick_gloss": "own+own+caste"
+},
+{
+"surface": "yutaṃ",
+"quick_gloss": "endowed"
 },
 {
 "surface": "dravyaṃ",
 "quick_gloss": "substance"
 },
 {
-"surface": "tad+dravyasya",
+"surface": "tat+dravyasya",
 "quick_gloss": "of-that+substance"
 },
 {
