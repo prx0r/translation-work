@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 104,
- "question": "What has been known by whose grace?",
+ "question": "By whose grace is the determination of Kaula known?",
  "premises": [
-  "Knowledge comes by grace",
-  "The lord of Kaulas is addressed"
+  "It is known by your grace.",
+  "The speaker addresses the lord of Kaulas.",
+  "The determination of Kaula is known."
  ],
- "inference": "The determination of Kaula is known by grace",
+ "inference": "The speaker knows the Kaula determination by the lord's grace.",
  "uncertainties": [
-  "Speaker identity is not explicit"
+  "Speaker identity is not explicit."
  ],
  "plain_english": "By your grace, O lord of Kaulas, I have known the determination of Kaula."
 }

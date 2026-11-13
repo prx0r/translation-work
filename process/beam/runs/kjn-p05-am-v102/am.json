@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom and after what testing should this be given?",
+ "question": "To whom and after what testing should this teaching be given?",
  "premises": [
-  "Giving follows prior accomplishment",
-  "Testing lasts one year"
+  "It is to be given.",
+  "Recipient is previously accomplished.",
+  "Testing lasts one year."
  ],
- "inference": "The teaching is given after one year of testing",
+ "inference": "The teaching is given only after a year of testing to one already accomplished.",
  "uncertainties": [
-  "The object given is not named"
+  "Exact nature of testing is unspecified."
  ],
- "plain_english": "It should be given to the previously accomplished after one year of testing."
+ "plain_english": "It should be given to one previously accomplished, tested for one year."
 }

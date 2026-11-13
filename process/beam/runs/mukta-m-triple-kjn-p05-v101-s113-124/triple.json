@@ -7,50 +7,51 @@
     {
      "surface": "ṣaṇmāsād",
      "gloss": "from-six-months",
-     "grounds": "ablative singular of ṣaṇmāsa",
-     "morph": "m.abl.sg"
+     "grounds": "ablative of time",
+     "morph": "abl.sg.m"
     },
     {
      "surface": "abhyased",
      "gloss": "should-practice",
-     "grounds": "optative third singular of abhyas",
-     "morph": "3sg.opt.act"
+     "grounds": "optative of abhyas",
+     "morph": "3.sg.act.opt. (abhyas)"
     },
     {
      "surface": "yas",
      "gloss": "who",
-     "grounds": "relative pronoun masculine nominative singular",
-     "morph": "m.nom.sg"
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "indeclinable particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "kāṣāyaṃ",
      "gloss": "ochre-robe",
-     "grounds": "accusative singular of kāṣāya",
-     "morph": "m.acc.sg"
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "bandha+varjitam",
      "gloss": "free-from-bondage",
-     "grounds": "compound accusative singular",
-     "morph": "m.acc.sg"
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n (compound: bandha+varjita)"
     }
    ],
-   "question": "Who should practice for six months while free from bondage?",
+   "question": "What practice, after six months, frees the ochre-robed practitioner from bondage and disease and unites him with yogis?",
    "premises": [
-    "Six months of practice is prescribed.",
-    "The practitioner is free from bondage."
+    "Six months of practice frees from bondage.",
+    "The practitioner wears an ochre robe.",
+    "Freedom from bondage precedes yogic union."
    ],
-   "inference": "A qualified practitioner is identified for the practice.",
+   "inference": "The verse prescribes six-month practice leading to liberation and union with yogis.",
    "uncertainties": [
-    "Compound internal sandhi not expanded."
+    "Exact gender of kāṣāyaṃ is inferred from context."
    ],
-   "plain_english": "One who practices for six months, free from bondage, is described."
+   "plain_english": "Whoever practices for six months, wearing an ochre robe free from bondage, becomes free from all diseases and joins the yogis in union; this practice of the soul has been told to you, O Bhairavi."
   },
   {
    "verse": 114,
@@ -58,32 +59,33 @@
     {
      "surface": "sarva+vyādhi+vinirmukto",
      "gloss": "freed-from-all-diseases",
-     "grounds": "compound nominative singular masculine",
-     "morph": "m.nom.sg"
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m (compound: sarva+vyādhi+vinirmukta)"
     },
     {
      "surface": "yogibhiḥ",
      "gloss": "with-yogis",
-     "grounds": "instrumental plural of yogin",
-     "morph": "m.inst.pl"
+     "grounds": "instrumental plural",
+     "morph": "instr.pl.m"
     },
     {
      "surface": "saha+melakam",
      "gloss": "together-union",
-     "grounds": "compound accusative singular",
-     "morph": "n.acc.sg"
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n (compound: saha+melaka)"
     }
    ],
-   "question": "What union occurs for one freed from all diseases with yogis?",
+   "question": "What practice, after six months, frees the ochre-robed practitioner from bondage and disease and unites him with yogis?",
    "premises": [
-    "Freedom from all diseases is stated.",
-    "Union with yogis follows."
+    "Freedom from all diseases is attained.",
+    "Union occurs with yogis.",
+    "The union is together with them."
    ],
-   "inference": "The purified practitioner joins the yogis.",
+   "inference": "The verse states the practitioner becomes disease-free and joins yogis in union.",
    "uncertainties": [
-    "Compound internal sandhi not expanded."
+    "The exact syntactic role of saha+melakam is inferred."
    ],
-   "plain_english": "Freed from all diseases, one has union with yogis."
+   "plain_english": "Whoever practices for six months, wearing an ochre robe free from bondage, becomes free from all diseases and joins the yogis in union; this practice of the soul has been told to you, O Bhairavi."
   },
   {
    "verse": 115,
@@ -91,56 +93,57 @@
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "neuter nominative singular demonstrative",
-     "morph": "n.nom.sg"
+     "grounds": "demonstrative pronoun",
+     "morph": "nom/acc.sg.n"
     },
     {
      "surface": "te",
      "gloss": "to-you",
-     "grounds": "dative singular of tvam",
-     "morph": "2sg.dat"
+     "grounds": "dative pronoun",
+     "morph": "dat.sg.2"
     },
     {
      "surface": "jīva+abhyāsaṃ",
      "gloss": "practice-of-the-soul",
-     "grounds": "compound accusative singular",
-     "morph": "m.acc.sg"
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n (compound: jīva+abhyāsa)"
     },
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "past participle neuter nominative singular of kath",
-     "morph": "n.nom.sg"
+     "grounds": "past participle",
+     "morph": "ppp.acc.sg.n (kath)"
     },
     {
      "surface": "te",
      "gloss": "to-you",
-     "grounds": "dative singular of tvam",
-     "morph": "2sg.dat"
+     "grounds": "dative pronoun",
+     "morph": "dat.sg.2"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "indeclinable conjunction",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhairavi",
      "gloss": "o-bhairavī",
-     "grounds": "vocative singular of bhairavī",
-     "morph": "f.voc.sg"
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "What practice of the soul has been told to you, O Bhairavi?",
+   "question": "What practice, after six months, frees the ochre-robed practitioner from bondage and disease and unites him with yogis?",
    "premises": [
-    "The teaching is addressed to Bhairavi.",
-    "The soul-practice is declared."
+    "This practice is told to you.",
+    "It is the practice of the soul.",
+    "The addressee is Bhairavi."
    ],
-   "inference": "The instruction is completed for the disciple.",
+   "inference": "The verse identifies the teaching as the practice of the soul addressed to Bhairavi.",
    "uncertainties": [
-    "Compound internal sandhi not expanded."
+    "The exact referent of etat is inferred from context."
    ],
-   "plain_english": "This practice of the soul has been told to you, O Bhairavi."
+   "plain_english": "Whoever practices for six months, wearing an ochre robe free from bondage, becomes free from all diseases and joins the yogis in union; this practice of the soul has been told to you, O Bhairavi."
   },
   {
    "verse": 116,
@@ -148,32 +151,33 @@
     {
      "surface": "sarva+bhāva+upapannasya",
      "gloss": "to-one-endowed-with-all-states",
-     "grounds": "compound genitive singular masculine",
-     "morph": "m.gen.sg"
+     "grounds": "compound of sarva, bhāva, upapanna; genitive singular masculine",
+     "morph": "gen.sg.m"
     },
     {
      "surface": "dātavyaṃ",
      "gloss": "to-be-given",
-     "grounds": "gerundive neuter nominative singular of dā",
-     "morph": "n.nom.sg"
+     "grounds": "gerundive of dā; neuter accusative singular",
+     "morph": "neut.acc.sg"
     },
     {
      "surface": "kṛta+niścaye",
      "gloss": "to-one-of-resolved-mind",
-     "grounds": "compound dative singular masculine",
-     "morph": "m.dat.sg"
+     "grounds": "compound of kṛta and niścaya; locative singular masculine",
+     "morph": "loc.sg.m"
     }
    ],
-   "question": "To whom should the teaching be given among those endowed with all states?",
+   "question": "Should the kaula essence originating from yoginīs be given to one endowed with all states and resolved mind?",
    "premises": [
-    "The recipient is endowed with all states.",
-    "The recipient has a resolved mind."
+    "Kaula essence is not to be given.",
+    "It originates from yoginīs.",
+    "Recipient must have all states and resolved mind."
    ],
-   "inference": "The teaching is to be given to the resolved recipient.",
+   "inference": "The kaula essence is withheld unless recipient is fully endowed and resolved.",
    "uncertainties": [
-    "Compound internal sandhi not expanded."
+    "Exact syntactic relation of dātavyaṃ and deyaṃ unclear."
    ],
-   "plain_english": "It is to be given to one endowed with all states and of resolved mind."
+   "plain_english": "To one endowed with all states and resolved mind, it should be given."
   },
   {
    "verse": 117,
@@ -187,50 +191,51 @@
     {
      "surface": "deyaṃ",
      "gloss": "to-be-given",
-     "grounds": "gerundive neuter nominative singular of dā",
-     "morph": "n.nom.sg"
+     "grounds": "gerundive of dā; neuter accusative singular",
+     "morph": "neut.acc.sg"
     },
     {
      "surface": "kaulikaṃ",
      "gloss": "kaula",
-     "grounds": "neuter nominative singular adjective",
-     "morph": "n.nom.sg"
+     "grounds": "adjective modifying sāraṃ; neuter accusative singular",
+     "morph": "neut.acc.sg"
     },
     {
      "surface": "sāraṃ",
      "gloss": "essence",
-     "grounds": "neuter nominative singular of sāra",
-     "morph": "n.nom.sg"
+     "grounds": "neuter accusative singular",
+     "morph": "neut.acc.sg"
     },
     {
      "surface": "yoginīnām",
      "gloss": "of-yoginīs",
-     "grounds": "genitive plural of yoginī",
-     "morph": "f.gen.pl"
+     "grounds": "genitive plural feminine",
+     "morph": "gen.pl.f"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "indeclinable particle",
+     "grounds": "particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "sambhavam",
      "gloss": "origin",
-     "grounds": "neuter nominative singular of sambhava",
-     "morph": "n.nom.sg"
+     "grounds": "neuter accusative singular",
+     "morph": "neut.acc.sg"
     }
    ],
-   "question": "Why should the Kaula essence not be given to yoginis?",
+   "question": "Should the kaula essence originating from yoginīs be given to one endowed with all states and resolved mind?",
    "premises": [
-    "The Kaula essence is not to be given.",
-    "It concerns the origin of yoginis."
+    "Kaula essence is not to be given.",
+    "It originates from yoginīs.",
+    "Recipient must have all states and resolved mind."
    ],
-   "inference": "The Kaula essence is withheld from yoginis.",
+   "inference": "The kaula essence is withheld unless recipient is fully endowed and resolved.",
    "uncertainties": [
-    "Compound internal sandhi not expanded."
+    "Exact syntactic relation of dātavyaṃ and deyaṃ unclear."
    ],
-   "plain_english": "The Kaula essence, origin of yoginis, is not to be given."
+   "plain_english": "The kaula essence originating from yoginīs is not to be given."
   },
   {
    "verse": 118,
@@ -238,42 +243,43 @@
     {
      "surface": "adya",
      "gloss": "today",
-     "grounds": "indeclinable adverb",
+     "grounds": "adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "me",
      "gloss": "my",
-     "grounds": "genitive singular of aham",
-     "morph": "1sg.gen"
+     "grounds": "genitive singular",
+     "morph": "gen.sg"
     },
     {
      "surface": "nirmalaṃ",
      "gloss": "pure",
-     "grounds": "neuter nominative singular adjective",
-     "morph": "n.nom.sg"
+     "grounds": "adjective modifying deham; neuter accusative singular",
+     "morph": "neut.acc.sg"
     },
     {
      "surface": "deham",
      "gloss": "body",
-     "grounds": "neuter accusative singular of deha",
-     "morph": "n.acc.sg"
+     "grounds": "neuter accusative singular",
+     "morph": "neut.acc.sg"
     },
     {
      "surface": "ajñāna+paṭala+āhatam",
      "gloss": "struck-by-veil-of-ignorance",
-     "grounds": "compound accusative singular",
-     "morph": "n.acc.sg"
+     "grounds": "compound of ajñāna, paṭala, āhata; neuter accusative singular",
+     "morph": "neut.acc.sg"
     }
    ],
-   "question": "What has struck the pure body today?",
+   "question": "Should the kaula essence originating from yoginīs be given to one endowed with all states and resolved mind?",
    "premises": [
-    "The body is called pure.",
-    "It is struck by the veil of ignorance."
+    "Kaula essence is not to be given.",
+    "It originates from yoginīs.",
+    "Recipient must have all states and resolved mind."
    ],
-   "inference": "Ignorance's veil affects the body.",
+   "inference": "The kaula essence is withheld unless recipient is fully endowed and resolved.",
    "uncertainties": [
-    "Compound internal sandhi not expanded."
+    "Exact syntactic relation of dātavyaṃ and deyaṃ unclear."
    ],
    "plain_english": "Today my pure body is struck by the veil of ignorance."
   },
@@ -289,13 +295,13 @@
     {
      "surface": "śrotum",
      "gloss": "to-hear",
-     "grounds": "infinitive of śru",
+     "grounds": "infinitive of √śru",
      "morph": "inf."
     },
     {
      "surface": "icchāmi",
      "gloss": "I-wish",
-     "grounds": "first person singular present active of iṣ",
+     "grounds": "first person singular present active of √iṣ",
      "morph": "1.sg.act-pres"
     },
     {
@@ -317,15 +323,15 @@
      "morph": "n.acc.sg"
     }
    ],
-   "question": "How does one hear the auspicious deception of time?",
+   "question": "What auspicious deception of time does the speaker now wish to hear?",
    "premises": [
-    "The speaker now wishes to hear.",
-    "The desired object is time's deception.",
-    "That deception is called auspicious."
+    "speaker now wishes to hear",
+    "object is time's deception",
+    "deception is called auspicious"
    ],
-   "inference": "The verse frames time's deception as an auspicious teaching to be heard.",
+   "inference": "The verse requests instruction on the auspicious deception of time.",
    "uncertainties": [
-    "Exact syntactic relation of śubham to vañcanaṃ is not fully explicit."
+    "śubham may qualify vañcanaṃ directly"
    ],
    "plain_english": "Now I wish to hear the auspicious deception of time."
   },
@@ -335,7 +341,7 @@
     {
      "surface": "kathayāmi",
      "gloss": "I-tell",
-     "grounds": "first person singular present active of kathay",
+     "grounds": "first person singular present active of √kath",
      "morph": "1.sg.act-pres"
     },
     {
@@ -353,7 +359,7 @@
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "relative adverb",
+     "grounds": "relative particle",
      "morph": "(indecl.)"
     },
     {
@@ -365,19 +371,19 @@
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "third person singular present active of naś with vi",
+     "grounds": "third person singular present active of vi-√naś",
      "morph": "3.sg.act-pres"
     }
    ],
-   "question": "How is death destroyed without doubt?",
+   "question": "How is death destroyed without any doubt?",
    "premises": [
-    "The speaker promises to tell.",
-    "There is no doubt.",
-    "Death is destroyed in the manner described."
+    "speaker declares without doubt",
+    "death is the subject",
+    "destruction is asserted"
    ],
-   "inference": "The verse assures that death's destruction can be taught with certainty.",
+   "inference": "The verse promises a certain teaching on the destruction of death.",
    "uncertainties": [
-    "The exact manner of destruction is deferred to the following verse."
+    "yathā may introduce manner or comparison"
    ],
    "plain_english": "I tell without doubt how death is destroyed."
   },
@@ -387,25 +393,25 @@
     {
      "surface": "amṛta+agraṃ",
      "gloss": "at-tip-of-nectar",
-     "grounds": "compound accusative singular neuter",
+     "grounds": "compound of amṛta and agra in accusative singular neuter",
      "morph": "n.acc.sg"
     },
     {
      "surface": "rasa+agreṇa",
      "gloss": "with-essence-of-juice",
-     "grounds": "compound instrumental singular",
-     "morph": "instr.sg"
+     "grounds": "compound of rasa and agra in instrumental singular neuter",
+     "morph": "n.instr.sg"
     },
     {
      "surface": "dahyamāna",
      "gloss": "burning",
-     "grounds": "present passive participle",
-     "morph": "pres.part.pass"
+     "grounds": "present passive participle of √dah",
+     "morph": "pres.part."
     },
     {
      "surface": "sudhīr",
      "gloss": "even-wise",
-     "grounds": "nominative singular masculine adjective",
+     "grounds": "nominative singular masculine of sudhī",
      "morph": "m.nom.sg"
     },
     {
@@ -415,102 +421,101 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Why does even a wise person burn at the nectar tip with juice?",
+   "question": "What happens to a wise person burning at the tip of nectar?",
    "premises": [
-    "The nectar tip is the locus.",
-    "Juice essence is the instrument.",
-    "Burning affects even the wise."
+    "wise person is subject",
+    "burning is described",
+    "nectar tip is location"
    ],
-   "inference": "The verse presents burning at the nectar tip as a practice involving juice essence, affecting even the wise.",
+   "inference": "The verse warns that even wisdom does not prevent burning at nectar's tip.",
    "uncertainties": [
-    "The exact ritual or physiological process is not specified."
+    "exact syntactic relation of rasa+agreṇa is unclear"
    ],
-   "plain_english": "Even a wise person burns at the tip of nectar with juice."
+   "plain_english": "Even a wise person burns at the tip of nectar with the essence of juice."
   },
   {
    "verse": 122,
    "rows": [
     {
      "surface": "rasanā+tālu+mūle",
-     "gloss": "tongue-palate-root",
-     "grounds": "locative singular neuter of compound rasanā+tālu+mūla",
-     "morph": "loc.sg.n"
+     "gloss": "at-root-of-tongue-and-palate",
+     "grounds": "compound locative singular neuter",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive of root kṛ",
-     "morph": "absolutive, root kṛ"
+     "grounds": "absolutive of √kṛ",
+     "morph": "abs."
     },
     {
      "surface": "vāyuṃ",
      "gloss": "air",
-     "grounds": "accusative singular masculine",
-     "morph": "acc.sg.m"
+     "grounds": "accusative singular masculine of vāyu",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "pibec",
      "gloss": "should-drink",
-     "grounds": "optative of root pā",
-     "morph": "3.sg.optative, root pā"
+     "grounds": "third person singular optative active of √pā",
+     "morph": "3.sg.act-opt"
     },
     {
      "surface": "chanaiḥ",
      "gloss": "slowly",
-     "grounds": "adverbial instrumental form",
+     "grounds": "instrumental plural of chana",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What happens when air is slowly drunk after being placed at the root of tongue and palate?",
+   "question": "How should air be drunk after placing it at the root of tongue and palate?",
    "premises": [
-    "air is placed at tongue-palate root",
-    "it is drunk slowly",
-    "the practice is sustained"
+    "air is object",
+    "placement is at tongue-palate root",
+    "drinking should be slow"
    ],
-   "inference": "the verse prescribes a slow air-drinking practice at the tongue-palate root",
+   "inference": "The verse prescribes slow drinking of air after proper placement.",
    "uncertainties": [
-    "exact physiological mechanism is not specified",
-    "chanaiḥ is treated adverbially"
+    "chanaiḥ may be instrumental adverb rather than plural"
    ],
-   "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it slowly."
+   "plain_english": "Having placed air at the root of tongue and palate, one should drink slowly."
   },
   {
    "verse": 123,
    "rows": [
     {
      "surface": "abdam+ekaṃ",
-     "gloss": "one-year",
-     "grounds": "accusative singular masculine of compound abda+eka",
-     "morph": "acc.sg.m"
+     "gloss": "for-one-year",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "sandhi fusion yadā+abhyastaṃ",
+     "grounds": "compound fused form with sandhi",
      "morph": "(indecl.)"
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "nominative dual masculine of dvandva compound",
-     "morph": "nom.du.m"
+     "grounds": "compound nominative singular masculine",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present indicative of root naś",
-     "morph": "3.sg.present, root naś"
+     "grounds": "third person singular present active of vi-√naś",
+     "morph": "3.sg.act-pres"
     }
    ],
-   "question": "What is destroyed after this practice has been performed for one year?",
+   "question": "What is destroyed when this practice is continued for one year?",
    "premises": [
-    "the practice is performed for one year",
-    "old age and death are named",
-    "they are said to be destroyed"
+    "practice lasts one year",
+    "old age and death are subject",
+    "destruction is result"
    ],
-   "inference": "one year of practice destroys old age and death",
+   "inference": "The verse states that one year of practice destroys old age and death.",
    "uncertainties": [
-    "whether destruction is literal or soteriological is not specified"
+    "yadā+abhyastañ is a fused compound form"
    ],
    "plain_english": "When practiced for one year, old age and death are destroyed."
   },
@@ -520,8 +525,8 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "accusative singular neuter",
-     "morph": "acc.sg.n"
+     "grounds": "nominative singular neuter of viṣa",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "na",
@@ -532,20 +537,20 @@
     {
      "surface": "kramate",
      "gloss": "enters",
-     "grounds": "present indicative of root kram",
-     "morph": "3.sg.present, root kram"
+     "grounds": "third person singular present middle of √kram",
+     "morph": "3.sg.mid-pres"
     },
     {
      "surface": "dehe",
      "gloss": "body",
-     "grounds": "locative singular masculine",
-     "morph": "loc.sg.m"
+     "grounds": "locative singular masculine of deha",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "daṃśito",
      "gloss": "even-bitten",
-     "grounds": "past participle of root daṃś",
-     "morph": "nom.sg.m"
+     "grounds": "nominative singular masculine past participle of √daṃś",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "api",
@@ -556,19 +561,19 @@
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "instrumental plural masculine of compound mahā+uraga",
-     "morph": "instr.pl.m"
+     "grounds": "compound instrumental plural masculine",
+     "morph": "m.instr.pl"
     }
    ],
    "question": "Does poison enter the body even when one is bitten by great serpents?",
    "premises": [
-    "poison does not enter the body",
-    "this holds even if bitten",
-    "the biters are great serpents"
+    "poison does not enter body",
+    "biting by great serpents is considered",
+    "negation is emphatic"
    ],
-   "inference": "the practice or state protects against serpent poison entering the body",
+   "inference": "The verse claims poison cannot enter the body even after a great serpent bite.",
    "uncertainties": [
-    "whether protection is immediate or resultant is not specified"
+    "daṃśito may be passive participle with agent mahā+uragaiḥ"
    ],
    "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
   }

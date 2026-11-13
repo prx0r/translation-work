@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Does poison enter the body even when bitten by great serpents?",
+ "question": "What does not enter the body even when bitten by great serpents?",
  "premises": [
-  "Poison does not enter the body",
-  "Even a bite by great serpents is included"
+  "Poison does not enter.",
+  "The body is the locus.",
+  "Even great serpents bite."
  ],
- "inference": "Poison does not enter the body even after such bites",
+ "inference": "Poison does not enter the body even if bitten by great serpents.",
  "uncertainties": [
-  "The protective cause is not stated"
+  "Whether this is a result of prior practice is implied."
  ],
  "plain_english": "Poison does not enter the body, even when bitten by great serpents."
 }
