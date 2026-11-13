@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[knower](jñātavān) [name](nāma) [what](kiṃ) [his](tasya) [form](saṃsthānam) [and](ca) [also](api) [what-kind](kīdṛśam)
+[known+indeed](jñātavān+nāma) [what](kiṃ) [of-him](tasya) [form+and+also](saṃsthānam+ca+api) [of-what-kind](kīdṛśam)
 
 ## mukta-m0-p08-v177
-[worshipped](ārādhitā) [she](sā) [tripurā](tripurā) [pleased](prasannā) [became](abhavat) [ambikā](ambikā)
+[worshipped](ārādhitā) [she](sā) [Tripura](tripurā) [pleased+became+Mother](prasannā+abhavat+ambikā)
 
 ## mukta-m0-p08-v178
-[what](kiṃ) [greatness](māhātmyam) [would-be](bhavet) [hymn](sūktam) [this](etam) [to-me](me) [to-speak](vaktum) [should](arhasi)
+[what](kiṃ) [greatness](māhātmyam) [may-be](bhavet) [hymn+this+to-me](sūktam+etat+me) [to-tell+you-should](vaktum+arhasi)
 
 ## mukta-m0-p08-v179
-[thus](ittham) [questioned](paryanuyuktaḥ) [he](sa) [hayagrīva](hayāsyaḥ) [best-sage](munisattamaḥ)
+[thus](itthaṃ) [questioned](paryanuyuktaḥ) [he](sa) [Hayasya](hayāsyo) [sage+best](munisattamaḥ)
 
 ## mukta-m0-p08-v180
-[listen](śṛṇu) [kumbhaja](kumbhaja) [I-will-speak](vakṣyāmi) [with-devotion-faith](bhaktiśraddhāyutaḥ) [indeed](hi) [you-are](asi)
+[listen](śṛṇu) [pot-born](kumbhaja) [I-shall-tell](vakṣyāmi) [devotion+faith+endowed](bhakti+śradhā+yuto) [indeed+you-are](hi+asi)
 
 ## mukta-m0-p08-v181
-[to-speak](vaktum) [worthy](arham) [in-every-way](sarvathā) [blessed](dhanyaḥ) [you-are](asi) [you](tvam) [on-earth](mahītale)
+[to-tell+fit](vaktum+arhaṃ) [in-every-way+indeed](sarvathā+eva) [blessed+you-are](dhanyo+asi) [you](tvaṃ) [earth+on-surface](mahī+tale)
 
 ## mukta-m0-p08-v182
-[of-this](etasya) [reason](kāraṇam) [I-know](vedmi) [not](na) [this](etat) [small-fruit](alpaphalam) [sage](mune)
+[of-this](etasya) [cause](kāraṇaṃ) [I-know](vedmi) [not+this+small+fruit](na+etat+alpa+phalaṃ) [O-sage](mune) [!]
 
 ## mukta-m0-p08-v183
-[tripurā-foot-devotion](tripurā+pāda+bhaktiḥ) [indeed](tu) [rare](durlabhā) [everywhere](sarvataḥ) [would-be](bhavet)
+[Tripura+foot+devotion+indeed](tripurā+pāda+bhaktiḥ+tu) [difficult-to-obtain](durlabhā) [from-everywhere](sarvato) [may-be](bhavet)
 
 ## mukta-m0-p08-v184
-[śiva-viṣṇu-etc-devotion](śiva+viṣṇu+ādi+bhaktiḥ) [indeed](tu) [door](dvāram) [here](atra) [declared](prakīrtitam)
+[Śiva+Viṣṇu+etc+devotion+indeed](śiva+viṣṇu+ādi+bhaktiḥ+tu) [door+here](dvāaram+atra) [is-declared](prakīrtitam)
 
 ## mukta-m0-p08-v185
-[is-liberated](mucyate) [in-every-way](sarvathā) [person](jantuḥ) [not-otherwise](nānyathā) [aeons-crores](kalpakoṭibhiḥ)
+[is-liberated](mucyate) [in-every-way](sarvathā) [creature+not+otherwise](jantuḥ+na+anyathā) [aeon+crores+by](kalpa+koṭibhiḥ)
 
 ## mukta-m0-p08-v186
-[in-world](loke) [with-imperial-power](sāmrājyayuktasya) [who-followers](ye+anugāḥ) [by-gradation](tāratamyataḥ)
+[in-world](loke) [sovereignty+endowed-of](sāmrājya+yuktasya) [who+followers+by-gradation](ye+anugāḥ+tāratamyataḥ)
 
 ## mukta-m0-p08-v187
-[unobstructed](anirodham) [above-one's-own-place-attainment](sva+upari+stha+prāptau) [path](mārgam) [show](diśanti) [and](ca)
+[without-obstruction](anirodhaṃ) [own+above-situated+attainment-in](sva+uparistha+prāptau) [path](mārgaṃ) [they-show](diśanti) [and](ca)
 
 ## mukta-m0-p08-v188
-[prāṅgaṇeśa-attainment](prāṅgaṇeśa+prāptim) [obtained](āpa) [shows](diśati) [indeed](eva) [kumbh-born](ghaṭodbhava)
+[courtyard+lord+attainment](prāṅgaṇa+īśa+prāptim) [obtained](āpa) [shows+indeed](diśati+eva) [pot+born](ghaṭa+udbhava) [!]
 
 ## mukta-m0-p08-v189
-[main-secondary-distinction](mukhya+gauṇa+prabhedaḥ) [and](ca) [as](yathā) [in-bodies](deheṣu) [indeed](vai) [head](śiraḥ)
+[primary+secondary+distinction+and](mukhya+gauṇa+prabhedaḥ+ca) [as](yathā) [in-bodies](deheṣu) [indeed](vai) [head](śiraḥ)
 
 ## mukta-m0-p08-v190
-[who](ye) [and](ca) [foot-born](pāda+bhavāḥ) [gods](devāḥ) [always](sadā) [service-devoted](sevana+tatparāḥ)
+[who](ye) [and](ca) [foot+born](pāda+bhavāḥ) [gods](devāḥ) [always](sadā) [service+devoted](sevana+tatparāḥ)
 
 ## mukta-m0-p08-v191
-[this](etat) [association](saṅgasya) [greatness](māhātmyam) [alas](aho) [fortune](bhāgyam) [alas](aho) [austerity](tapaḥ)
+[this](etat) [of-association](saṅgasya) [greatness+oh](māhātmyam+aho) [fortune+oh](bhāgyam+aho) [austerity](tapaḥ)
 
 ## mukta-m0-p08-v192
-[whose](yat) [your](te) [beloved](priyā) [satī](satī) [lopāmudrā-named](lopāmudrā+ākhyā) [king's-daughter](rājakanyakā)
+[because+to-you](yat+te) [dear](priyā) [chaste-wife](satī) [Lopāmudrā+named](lopāmudrā+ākhyā) [king+daughter](rāja+kanyakā)
 
 ## mukta-m0-p08-v193
-[that-cause](tad+hetum) [to-you](te) [I-will-explain](pravakṣyāmi) [not](na) [that](tat) [knows](jānāti) [anyone](kaścana)
+[that+cause](tat+hetuṃ) [to-you](te) [I-shall-tell](pravakṣyāmi) [not](na) [that+knows](tat+jānāti) [anyone](kaścana)
 
 ## mukta-m0-p08-v194
-[that-service-devoted](tat+sevana+paraḥ) [king](rājā) [always](sarvadā) [with-all-being](sarvabhāvataḥ)
+[that+service+devoted](tat+sevana+paraḥ) [king](rājā) [always](sarvadā) [with-all+disposition](sarva+bhāvataḥ)
 
 ## mukta-m0-p08-v195
-[of-father](pituḥ) [having-seen](dṛṣṭvā) [worship](upāsanāyāḥ) [order](kramam) [of-goddess](devyāḥ) [in-order](yathākramam)
+[of-father+having-seen+of-worship](pituḥ+dṛṣṭvā+upāsanāyāḥ) [method](kramaṃ) [of-Goddess](devyā) [in-due+order](yathā+kramam)
 
 ## mukta-m0-p08-v196
-[thus](evam) [long-worship](cirā+ārādhanena) [with-devotion](bhaktyā) [with-meditation](bhāvanayā) [also](api) [and](ca)
+[thus](evaṃ) [for-long-time+worship-by](cirāt+ārādhanena) [by-devotion](bhaktyā) [by-contemplation+also](bhāvanayā+api) [and](ca)
 
 ## mukta-m0-p08-v197
-[chose](vavre) [and](ca) [he](asau) [of-all-worlds-worshipful](sarva+jagat+pūjyāyāḥ) [foot-service](pāda+sevanam)
+[chose](vavre) [and+he](ca+asau) [all+world+venerable-of](sarva+jagat+pūjyāyāḥ) [foot+service](pāda+sevanam)
 
 ## mukta-m0-p08-v198
-[perceived](lakṣitā) [and](ca) [also](api) [that](tām) [vidyā](vidyām) [speech-ocean-immersed](vāk+samudra+pariplutām)
+[marked](lakṣitā) [and+also](ca+api) [that](tāṃ) [knowledge](vidyāṃ) [speech+ocean+immersed](vāk+samudra+pariplutām)
 
 ## mukta-m0-p08-v199
-[vidyā](vidyā) [sagehood](ṛṣitvam) [obtained](samprāptā) [by-that-name](tat+nāmnā) [she](sā) [clearly-went](sphuṭam+gatā)
+[knowledge](vidyā) [seer-hood](ṛṣitvaṃ) [attained](samprāptā) [that+name-by](tat+nāmnā) [she](sā) [clearly+gone](sphuṭam+gatā)
 
 ## mukta-m0-p08-v200
-[thus](iti) [having-heard](śrutvā) [kumbh-born](kumbhabhavaḥ) [of-wife](patnyāḥ) [glory-detail](vibhava+vistaram)
+[thus](iti) [having-heard](śrutvā) [pot+born](kumbha+bhavaḥ) [of-wife](patnyā) [glory+expanse](vibhava+vistaram)

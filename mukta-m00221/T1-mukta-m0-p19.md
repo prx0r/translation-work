@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[bīja](bījā) [yoni](yonih) [krama](kramād) [etā](etā) [dik](dikṣu) [koṇa](koṇeṣu) [adhordhva](adhordhvayoḥ)
+[seed](bījā) [womb](yonih) [in-order](kramāt) [these](etā) [in-directions](dikṣu) [in-corners](koṇeṣu) [below+above](adhaḥ+ūrdhvayoḥ)
 
 ## mukta-m0-p19-v452
-[kaumārī](kaumārī) [vaiṣṇavī](vaiṣṇavī) [vaiṣṇavī](vaiṣṇavī) [vārāhī](vārāhī) [māhendrī](māhendrī) [tataḥ](tataḥ) [param](param)
+[Kaumārī](kaumārī) [Vaiṣṇavī](vaiṣṇavī) [Vaiṣṇavī](vaiṣṇavī) [Vārāhī](vārāhī) [Māhendrī](māhendrī) [then](tataḥ) [beyond](param)
 
 ## mukta-m0-p19-v453
-[brahmādi](brhmādīnāṃ) [samāna-aṅga](samānāṅgā) [āyudha](āyudhā) [abharaṇa](abharaṇavāsasaḥ) [vāsas](vāsasaḥ)
+[of-Brahmā-and-others](brhmādīnāṃ) [equal+limbs+weapons+ornaments+garments](samāna+aṅga+āyudha+ābharaṇa+vāsasaḥ)
 
 ## mukta-m0-p19-v454
-[lohita](lohitā) [aṅkuśa-dhāriṇī](aṅkuśadhāriṇyaḥ) [padmarāga](padmarāgasubhūṣaṇāḥ) [subhūṣaṇa](subhūṣaṇāḥ)
+[red](lohitā) [goad+holding](aṅkuśa+dhāriṇyaḥ) [ruby+well-adorned](padmarāga+subhūṣaṇāḥ)
 
 ## mukta-m0-p19-v455
-[kāmākarṣiṇikā](kāmākarṣiṇikā) [ādi](ādyā) [syāt](syād) [buddhyākarṣiṇikā](buddhyākarṣiṇikā) [parā](parā)
+[Kāmākarṣiṇikā+beginning-with](kāmākarṣiṇikā+ādyā) [should-be](syād) [Buddhyākarṣiṇikā](buddhyākarṣiṇikā) [next](parā)
 
 ## mukta-m0-p19-v456
-[sparśākarṣiṇikā](sparśā'karṣiṇikā) [tadvat](tadvadrūpā'karṣiṇikā) [rūpākarṣiṇikā](rūpā'karṣiṇikā) [tataḥ](tataḥ)
+[Sparśākarṣiṇikā](sparśā'karṣiṇikā) [likewise](tadvat) [Rūpākarṣiṇikā](rūpā'karṣiṇikā) [then](tataḥ)
 
 ## mukta-m0-p19-v457
-[ākarṣiṇī](ākarṣiṇī) [dairya-pūrvā](dairyapūrvā) [karṣiṇī](karṣiṇī) [smṛti-pūrvikā](smṛtipūrvikā)
+[Ākarṣiṇī](ākarṣiṇī) [courage+preceded-by](dairya+pūrvā) [Karṣiṇī](karṣiṇī) [memory+preceded-by](smṛti+pūrvikā)
 
 ## mukta-m0-p19-v458
-[ātmākarṣiṇikā](ātmā'karṣiṇikā) [tadvat](tadvadamṛtā'karṣiṇī) [amṛtākarṣiṇī](amṛtā'karṣiṇī) [tataḥ](tataḥ)
+[Ātmākarṣiṇikā](ātmā'karṣiṇikā) [likewise](tadvat) [Amṛtākarṣiṇī](amṛtā'karṣiṇī) [then](tataḥ)
 
 ## mukta-m0-p19-v459
-[bhāvitā](bhāvitā) [gupta-yoginī](guptayoginyā) [agra-patra](agrapatrād) [vāma](vāmataḥ) [sthitāḥ](sthitāḥ)
+[contemplated](bhāvitā) [of-Guptayoginī](guptayoginyā) [from-front-petal](agra+patrāt) [to-the-left](vāmataḥ) [situated](sthitāḥ)
 
 ## mukta-m0-p19-v460
-[pāśa](pāśadānasudhākumbhā'ṅkuśā'yudhapariṣkṛtāḥ) [dāna](dāna) [sudhā](sudhā) [kumbha](kumbhā) [aṅkuśa](aṅkuśā) [āyudha](āyudhapariṣkṛtāḥ) [pariṣkṛta](pariṣkṛtāḥ)
+[noose+gift+nectar-jar+goad+weapons](pāśa+dāna+sudhā+kumbha+aṅkuśa+āyudha) [adorned-with](pariṣkṛtāḥ)
 
 ## mukta-m0-p19-v461
-[madanā](madanā) [anaṅga](anaṅgamadanā) [madanā](madanā) [turā](turā) [anaṅga](anaṅgā) [ādi](ādyarekhikā) [rekhikā](rekhikā)
+[Madanā](madanā) [Anaṅgamadanā](anaṅgamadanā) [Madanāturā](turā) [Anaṅgarekhikā+and-others](anaṅgā+ādi+rekhikā)
 
 ## mukta-m0-p19-v462
-[etā](etā) [guptatarā](guptatarā) [ākhyottha](ākhyotthā) [nāga](nāgacchadaniveśanāḥ) [chadana](chadana) [niveśana](niveśanāḥ)
+[these](etā) [Guptatarā+called+arisen](guptatarā+ākhya+utthā) [serpent+skin+dwelling](nāga+cchadana+niveśanāḥ)
 
 ## mukta-m0-p19-v463
-[pāśa](pāśaṃ) [nīlotpala](nīlotpalaṃ) [pātra](pātramaṅkuśaṃ) [aṅkuśa](aṅkuśaṃ) [pāṇi](pāṇiṣusthitam) [sthitam](sthitam)
+[noose](pāśaṃ) [blue-lotus](nīlotpalaṃ) [vessel](pātram) [goad](aṅkuśaṃ) [in-hands+placed](pāṇiṣu+sthitam)
 
 ## mukta-m0-p19-v464
-[sammohinī](sammohinī) [stambhinī](stambhinī) [ca](ca) [jṛmbhiṇī](jṛmbhiṇī) [ca](ca) [vaśaṅkarī](vaśaṅkarī)
+[Sammohinī](sammohinī) [Stambhinī](stambhinī) [and](ca) [Jṛmbhiṇī](jṛmbhiṇī) [and](ca) [Vaśaṅkarī](vaśaṅkarī)
 
 ## mukta-m0-p19-v465
-[sampatti-pūraṇī](sampattipūraṇī) [mantra-mayī](mantramayī) [dvandva-kṣayaṅkarī](dvandvakṣayaṅkarī)
+[Sampattipūraṇī](sampattipūraṇī) [Mantramayī](mantramayī) [duality+destruction+causing](dvandva+kṣayaṅkarī)
 
 ## mukta-m0-p19-v466
-[agra](agrād) [vāma-krama](vāmakrameṇaiva) [rakta-ābhā](raktābhāṃ) [aṃśuka](aṃśukabhūṣaṇāḥ) [bhūṣaṇa](bhūṣaṇāḥ)
+[from-front](agrāt) [in-leftward-order](vāma+krameṇa) [indeed](eva) [red+colored+garment+ornaments](raktā+ābhā+aṃśuka+bhūṣaṇāḥ)
 
 ## mukta-m0-p19-v467
-[siddhi-pradā](siddhīpradā) [sampat-pradā](sampatpradā) [tataḥ](tataḥ) [paścāt](paścāt) [priyaṅkarī](priyaṅkarī)
+[Siddhipradā](siddhīpradā) [Sampatpradā](sampatpradā) [then](tataḥ) [afterwards](paścāt) [Priyaṅkarī](priyaṅkarī)
 
 ## mukta-m0-p19-v468
-[duḥkhāt](duḥkhād) [vimocanī](vimocanī) [tadvat](tdvanmṛtyupraśamanī) [mṛtyu-praśamanī](mṛtyupraśamanī) [tataḥ](tataḥ)
+[from-suffering+liberating](duḥkhāt+vimocanī) [likewise](tdvat) [death+calming](mṛtyu+praśamanī) [then](tataḥ)
 
 ## mukta-m0-p19-v469
-[saubhāgya-dāyinī](saubhāgyadāyinī) [paṅkti-koṇe](paṅktikoṇe) [prāgvat](prāgvat) [samāsthitāḥ](samāsthitāḥ)
+[Saubhāgyadāyinī](saubhāgyadāyinī) [in-row+corner](paṅkti+koṇe) [as-before](prāgvat) [situated](samāsthitāḥ)
 
 ## mukta-m0-p19-v470
-[dadhānā](dadhānā) [viśada-ākārā](viśadā'kārāṃ) [aṃśuka](aṃśukabhūṣaṇabhūṣitāḥ) [bhūṣaṇa](bhūṣaṇabhūṣitāḥ) [bhūṣitāḥ](bhūṣitāḥ)
+[bearing](dadhānā) [bright+form+garment+ornaments](viśada+ākāra+aṃśuka+bhūṣaṇa) [adorned-with](bhūṣitāḥ)
 
 ## mukta-m0-p19-v471
-[jñāna-śakti](jñānaśaktiraiśvaryapradā) [aiśvarya-pradā](aiśvaryapradā) [tataḥ](tataḥ) [jñānamayī](jñānamayī) [smṛtā](smṛtā)
+[Jñānaśakti](jñānaśaktir) [sovereignty+granting](aiśvarya+pradā) [then](tato) [Jñānamayī](jñānamayī) [remembered](smṛtā)
 
 ## mukta-m0-p19-v472
-[tataḥ](tataḥ) [pāpa-harā](pāpaharā) [ānandamayī](ānandamayī) [rakṣā-svarūpī](rakṣāsvarūpī)
+[then](tataḥ) [Pāpaharā](pāpaharā) [Ānandamayī](ānandamayī) [protection+natured](rakṣā+svarūpī)
 
 ## mukta-m0-p19-v473
-[pāśa](pāśadānajñānaṭaṅkakarā) [dāna](dāna) [jñāna](jñāna) [ṭaṅka](ṭaṅkakarā) [karā](karā) [rakta-aṅga](raktāṅgabhūṣaṇāḥ) [bhūṣaṇa](bhūṣaṇāḥ)
+[noose+gift+knowledge+chisel+hand-holding](pāśa+dāna+jñāna+ṭaṅka+karā) [red+limb+ornaments](rakta+aṅga+bhūṣaṇāḥ)
 
 ## mukta-m0-p19-v474
-[vaśinī](vaśinī) [modinī](modinī) [tadvat](tadvadvimalā) [vimalā](vimalā) [ca](cā) [aruṇā](ruṇā) [tataḥ](tataḥ)
+[Vaśinī](vaśinī) [Modinī](modinī) [likewise](tadvat) [Vimalā](vimalā) [and](ca) [Aruṇā](aruṇā) [then](tataḥ)
 
 ## mukta-m0-p19-v475
-[rahasya-yoginī](rahasyayoginījātāḥ) [jātāḥ](jātāḥ) [padmarāga](padmarāgasamaprabhāḥ) [sama-prabhā](samaprabhāḥ)
+[secret+yoginī+born](rahasya+yoginī+jātāḥ) [ruby+equal+splendor](padmarāga+sama+prabhāḥ)
