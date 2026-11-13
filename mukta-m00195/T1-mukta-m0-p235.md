@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p235-v5851
-[clod](kardama) [thus](ityādi) [five-verse](pañcarcām) [half](arddham) [half](arddhaṃ) [ten](daśa) [now](tu) [then](atha)
+[kardama-iti-ādi-pañca-ṛcām](kardametyādipañcarcām) [half](arddham) [half](arddhaṃ) [ten](daśa) [indeed-then](tvatha)
 
 ## mukta-m0-p235-v5852
-[of-mantra](mantrasya) [of-two](dvayoḥ) [would-be](syāt) [half](ardham) [half-piece](ardhakam)
+[of-mantra](mantrasya) [of-two](dvayoḥ) [should-be](syād) [half](ardham) [half](ardhakam)
 
 ## mukta-m0-p235-v5853
-[by-verse](ṛcā) [and](ca) [first](ādyā) [by-mother-syllables](mātṛkārṇaiḥ) [and](ca) [that](tat) [intent](parā)
+[with-verse](ṛcā) [and](ca) [first](ādyā) [with-mātṛkā-syllables](mātṛkārṇaiś) [and](ca) [that-following](tatparā)
 
 ## mukta-m0-p235-v5854
-[fifteen-verse](pañcadaśarcaṃ) [and](ca) [wealth-desiring](śrīkāmaḥ) [constantly](satataṃ) [should-recite](japet)
+[fifteen-versed](pañcadaśarcaṃ) [and](ca) [desiring-prosperity](śrīkāmaḥ) [constantly](satataṃ) [should-recite](japet)
 
 ## mukta-m0-p235-v5855
-[in-corners-four](koṇacatuṣkeṣu) [of-Śrī](śriyaḥ) [mantra](mantraṃ) [indeed](tu) [Vedic](vaidikam)
+[in-corner-quartets](koṇacatuṣkeṣu) [of-śrī](śriyo) [mantra](mantraṃ) [indeed](tu) [vedic](vaidikam)
 
 ## mukta-m0-p235-v5856
-[Lakṣmī](lakṣmīṃ) [should-live](jīvet) [and](ca) [hundred-autumns](śaradāṃ) [hundred](śatam)
+[Lakṣmī](lakṣmīṃ) [and-may-live](jīvec) [and](ca) [of-autumns](śaradāṃ) [hundred](śatam)
 
 ## mukta-m0-p235-v5857
-[twenty-eight-numbered](aṣṭāviṃśatisaṃkhyākaṃ) [having-offered](hutvā) [with-sampāta-sprinkling](sampātasecitam)
+[twenty-eight-numbered](aṣṭāviṃśatisaṃkhyākaṃ) [having-offered](hutvā) [with-residue-sprinkled](sampātasecitam)
 
 ## mukta-m0-p235-v5858
-[with-attendants-accompanied](parivārayutāṃ) [Lakṣmī](lakṣmīṃ) [by-offering-of-bali](balidānena) [should-please](toṣayet)
+[with-retinue-endowed](parivārayutāṃ) [Lakṣmī](lakṣmīṃ) [with-offering-of-bali](balidānena) [one-should-please](toṣayet)
 
 ## mukta-m0-p235-v5859
-[happiness](saukhyam) [and](tu) [countless](asaṃkhyam) [there](tatra) [is-born](jāyate)
+[happiness](saukhyaṃ) [indeed](tu) [immeasurable](asaṃkhyam) [there](tatra) [arises](jāyate)
 
 ## mukta-m0-p235-v5860
-[in-six-corner-pericarp-middle](ṣaṭkoṇakarṇikāmadhye) [tāra](tāraṃ) [with-sādhya-united](sādhyasamanvitam)
+[in-six-corner-pericarp-middle](ṣaṭkoṇakarṇikāmadhye) [praṇava](tāraṃ) [with-target-accompanied](sādhyasamanvitam)
 
 ## mukta-m0-p235-v5861
-[from-own-beginning](svāgrāt) [with-prādakṣiṇa](prādakṣiṇyena) [should-write](likhet) [there](tatraiva) [in-junctures](sandhiṣu)
+[from-own-direction-etc.](svāgrādiprādakṣiṇyena) [one-should-write](likhet) [there](tatra) [indeed](eva) [in-junctions](sandhiṣu)
 
 ## mukta-m0-p235-v5862
-[to-sucakra](sucakrāya) [to-ghīcakra](ghīcakrāya) [fourth](caturthakaḥ)
+[to-sucakra](sucakrāya) [to-ghīcakra](ghīcakrāya) [fourth-case](caturthakaḥ)
 
 ## mukta-m0-p235-v5863
-[four-petaled](caturdalaṃ) [and](tu) [lotus](kamalam) [outside-that](tadbahiṣ) [on-petals](keśareṣu) [and](ca)
+[four-petaled](caturdalaṃ) [indeed](tu) [lotus](kamalaṃ) [outside-that](tadbahiṣ) [in-filaments](keśareṣu) [and](ca)
 
 ## mukta-m0-p235-v5864
-[of-Vāsudeva](vāsudevasya) [of-mantra](mantrasya) [three](trīṇi) [three](trīṇi) [syllables](akṣarāṇi) [and](ca)
+[of-vāsudeva](vāsudevasya) [of-mantra](mantrasya) [three-by-three](trīṇitrīṇi) [syllables](akṣarāṇi) [and](ca)
 
 ## mukta-m0-p235-v5865
-[vāsudevāya](vāsudevāya) [anu](aṇuḥ) [twelve-syllabled](dvādaśākṣaraḥ)
+[to-vāsudeva-iti](vāsudevāyeti) [mantra](aṇur) [twelve-syllabled](dvādaśākṣaraḥ)
 
 ## mukta-m0-p235-v5866
-[one-by-one](ekaikam) [syllable](akṣaram) [tāra](tāraḥ) [namaḥ](namaḥ) [nārāyaṇāya](nārāyaṇāya) [and](ca)
+[one-by-one](ekaikam) [syllable](akṣaraṃ) [praṇava](tāro) [obeisance](namo) [to-nārāyaṇa](nārāyaṇāya) [and](ca)
 
 ## mukta-m0-p235-v5867
-[jayalakṣmī](jayalakṣmī) [thus](iti) [to-beloved](priyāya) [always](nityam) [joyful](uditam)
+[jayalakṣmī-iti](jayalakṣmīti) [to-beloved](priyāya) [ever-risen](nityamuditam)
 
 ## mukta-m0-p235-v5868
-[namaḥ](namaḥ) [of-mantra](mantrasyāt) [of-Nṛsiṃha](nṛsiṃhasya) [six-syllabled](ṣaḍakṣaraḥ)
+[obeisance](namo) [mantra](mantras) [should-be](syāt) [of-nṛsiṃha](nṛsiṃhasya) [rada-syllabled](radākṣaraḥ)
 
 ## mukta-m0-p235-v5869
-[bhagavate](bhagavate) [mahāsudarśanāya](mahāsudarśanāya) [and](ca)
+[to-lord](bhagavate) [to-great-sudarśana](mahāsudarśanāya) [and](ca)
 
 ## mukta-m0-p235-v5870
-[of-Puruṣasūkta](puruṣasūktasya) [outside](bahir) [circuit-two](vṛttadvayam) [should-perform](caret)
+[of-puruṣa-sūkta](puruṣasūktasya) [outside](bahir) [circle-pair](vṛttadvayaṃ) [one-should-perform](caret)
 
 ## mukta-m0-p235-v5871
-[is-bound](saṃbadhyate)
+[is-connected](saṃbadhyate)
 
 ## mukta-m0-p235-v5872
-[merit](puṇyam) [son-life-beauty-fame-giving](putrāyuṣkāntikīrtidam)
+[merit](puṇyaṃ) [son-life-beauty-fame-giving](putrāyuṣkāntikīrtidam)
 
 ## mukta-m0-p235-v5873
-[having-recited](japtvā) [and](tu) [ritually-bathed](ṛtusnātām) [and](tu) [should-feed](bhojayet)
+[having-recited](japtvā) [indeed](tu) [one-bathed-after-menses](ṛtusnātāṃ) [indeed](tu) [one-should-feed](bhojayet)
 
 ## mukta-m0-p235-v5874
-[in-sannipātika](sannipātike)
+[in-sannipāta-fever](sannipātike)
 
 ## mukta-m0-p235-v5875
-[in-phiraṅga-cold-etc](phiraṅgaśītalādyeṣu) [by-writing](lekhanāt) [happiness](sukham) [would-attain](āpnuyāt)
+[in-syphilis-cold-etc.](phiraṅgaśītalādyeṣu) [from-writing](lekhanāt) [happiness](sukham) [one-obtains](āpnuyāt)

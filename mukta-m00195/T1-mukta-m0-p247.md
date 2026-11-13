@@ -8,13 +8,13 @@
 [declared](ākhyātaḥ) [gāyatrī](gāyatrī) [metre](chandaḥ) [stated](īritam)
 
 ## mukta-m0-p247-v6153
-[with-six+long+seed-syllables+endowed](ṣaḍ+dīrgha+bīja+yuktena) [six+limb+procedure](ṣaḍ+aṅga+vidhiḥ) [declared](īritaḥ)
+[with-six+long+seed-syllables](ṣaḍ+dīrgha+bīja+yuktena) [six-limb+procedure](ṣaḍ+aṅga+vidhiḥ) [declared](īritaḥ)
 
 ## mukta-m0-p247-v6154
-[with-elephant+like+five+endowed](gaja+vat+pañcabhiḥ) [endowed](yuktaḥ) [crowned](kirīṭī) [and](ca) [sword+in-hand](asi+hastakaḥ)
+[like-elephant](gaja+vat) [with-five](pañcabhiḥ) [endowed](yuktaḥ) [crowned](kirīṭī) [and](ca) [sword+in-hand](asi+hastakaḥ)
 
 ## mukta-m0-p247-v6155
-[own+tusk](sva+dantam) [fearlessness](abhayam) [and](ca) [also](api) [boon](varam) [sweet-cake](modakam) [indeed](eva) [and](ca)
+[own-tusk](sva+dantam) [fearlessness](abhayam) [and](ca) [also](api) [boon](varam) [sweet-cake](modakam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p247-v6156
 [crore+suns+resembling](koṭi+sūrya+pratīkāśam) [one-should-meditate](dhyāyet) [Heramba](herambam) [imperishable](avyayam)
@@ -23,7 +23,7 @@
 [four+doors+endowed-with](catur+dvāra+samāyuktam) [there](tatra) [first](ādau) [seat](āsanam) [one-should-worship](yajet)
 
 ## mukta-m0-p247-v6158
-[namaḥ](namaḥ) [and](ca) [thus](iti) [declared](proktaḥ) [seventeen+syllabled](saptadaśa+akṣaraḥ)
+[namaḥ](namaḥ) [and](ca) [thus](iti) [declared](proktaḥ) [seventeen-syllabled](saptadaśa+akṣaraḥ)
 
 ## mukta-m0-p247-v6159
 [one-should-perform](kuryāt) [deity+installation](mūrti+pravartanam)
@@ -32,7 +32,7 @@
 [its+outside](tat+bāhye) [Heramba+worship](heramba+arcanam) [declared](īritam)
 
 ## mukta-m0-p247-v6161
-[with-sweet+triad+combined](madhura+traya+saṃyuktaiḥ) [libation+etc.](tarpaṇa+ādi) [one-should-perform](samācaret)
+[with-three-sweets+combined](madhura+traya+saṃyuktaiḥ) [libation+etc.](tarpaṇa+ādi) [one-should-perform](samācaret)
 
 ## mukta-m0-p247-v6162
 [with-sweet-cakes](modakaiḥ) [for-desired+accomplishment](iṣṭa+siddhaye)
@@ -41,7 +41,7 @@
 [quick+propitiation+declared](kṣipra+prasādana+proktān) [applications](prayogān) [or](vā) [one-should-perform](samācaret)
 
 ## mukta-m0-p247-v6164
-[praṇava+ending+eight+syllabled](praṇava+anta+aṣṭa+varṇaḥ) [this](ayam) [śakti-seed+beginning](śakti+bīja+ādikaḥ) [also](api) [or](vā)
+[praṇava+ending+eight+syllables](praṇava+anta+aṣṭa+varṇaḥ) [this](ayam) [śakti-seed+beginning](śakti+bīja+ādikaḥ) [also](api) [or](vā)
 
 ## mukta-m0-p247-v6165
 [six+limbs](ṣaḍ+aṅgāni) [one-should-perform](samācaret)
@@ -65,10 +65,10 @@
 [Vighna](vighnam) [rooster](kukkuṭam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p247-v6172
-[their+weapons](tat+astrāṇi) [and](ca) [having-worshipped](sampūjya) [Subrahmaṇya+worship](subrahmaṇya+arcanam) [indeed](tu) [this](idam)
+[his+weapons](tat+astrāṇi) [and](ca) [having-worshipped](sampūjya) [Subrahmaṇya+worship](subrahmaṇya+arcanam) [indeed](tu) [this](idam)
 
 ## mukta-m0-p247-v6173
-[one-should-offer-oblations](juhuyāt) [priest](mantrī) [one-should-libate](tarpayet) [to-brahmin+chiefs](vipra+puṅgavān)
+[one-should-offer-oblations](juhuyāt) [priest](mantrī) [one-should-libate](tarpayet) [to-brahmin+best](vipra+puṅgavān)
 
 ## mukta-m0-p247-v6174
 [properly](samyak) [one-should-worship](arcayet) [celibate-student](brahmacāriṇam)

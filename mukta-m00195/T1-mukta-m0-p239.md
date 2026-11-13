@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p239-v5951
-[that+pericarp-in](tatkarṇikāyāṃ) [first](prathamaṃ) [one-should-worship+and](pūjayecca) [gaṇa+lord](gaṇādhipam)
+[in-its-pericarp](tatkarṇikāyāṃ) [first](prathamaṃ) [one-should-worship](pūjayet) [and](ca) [lord-of-gaṇas](gaṇādhipam)
 
 ## mukta-m0-p239-v5952
-[on-petals](patreṣvindrādikānarcetkarṇikāyāṃ) [indra+beginning-with+ones+one-should-worship](patreṣvindrādikānarcetkarṇikāyāṃ) [in-pericarp](patreṣvindrādikānarcetkarṇikāyāṃ) [but](tu) [lamp](dīpikām)
+[on-the-petals](patreṣu) [Indra-and-others](indrādikān) [one-should-worship](arcet) [in-the-pericarp](karṇikāyāṃ) [but](tu) [the-lamp](dīpikām)
 
 ## mukta-m0-p239-v5953
-[kuḍava+measure](kuḍavonmānaṃ) [of-sesame-seeds](tilānāṃ) [there](tatra) [stands](tiṣṭhati)
+[of-a-kuḍava-measure](kuḍavonmānaṃ) [of-sesame-seeds](tilānāṃ) [there](tatra) [it-stands](tiṣṭhati)
 
 ## mukta-m0-p239-v5954
-[lamp+etc.](dīpikādi) [in-evening](sāyaṃ) [there+one-should-place](tatropaveśayet)
+[lamp-and-so-forth](dīpikādi) [in-the-evening](sāyaṃ) [there](tatra) [one-should-place](upaveśayet)
 
 ## mukta-m0-p239-v5955
-[lamp+presiding+deity-of](dīpādhiṣṭhātṛdevasya) [for-satisfaction](tuṣṭyai) [with+retinue-of](sāvaraṇasya) [and](ca)
+[of-the-presiding-deity-of-the-lamp](dīpādhiṣṭhātṛdevasya) [for-the-satisfaction](tuṣṭyai) [with-retinue](sāvaraṇasya) [and](ca)
 
 ## mukta-m0-p239-v5956
-[should-blaze+lamp](prajvaleddīpaḥ) [one-should-watch+so-long](paśyettāvadatandritaḥ) [unwearied](paśyettāvadatandritaḥ)
+[should-blaze](prajvalet) [the-lamp](dīpaḥ) [one-should-watch](paśyet) [so-long](tāvat) [unwearied](atandritaḥ)
 
 ## mukta-m0-p239-v5957
-[task](kāryaṃ) [peace+becomes](śāntirbhavati) [certainly](niścitam)
+[the-rite](kāryaṃ) [peace](śāntiḥ) [occurs](bhavati) [certainly](niścitam)
 
 ## mukta-m0-p239-v5958
-[to-be-done](kartavyaṃ) [sick-person](rogī) [happiness+may-obtain](sukhamavāpnuyāt)
+[to-be-done](kartavyaṃ) [the-sick-person](rogī) [happiness](sukham) [may-obtain](avāpnuyāt)
 
 ## mukta-m0-p239-v5959
-[great+and+even](mahāṃścāpi) [moment+in-moment](kṣaṇekṣaṇe)
+[great](mahān) [and](ca) [even](api) [moment-by-moment](kṣaṇekṣaṇe)
 
 ## mukta-m0-p239-v5960
-[done+not-done+fault+destruction](kṛtyākṛtadoṣavināśanam)
+[of-faults-of-done-and-undone-rites](kṛtyākṛtadoṣavināśanam)
 
 ## mukta-m0-p239-v5961
-[mantra+eating+fault+now](mantrabhakṣaṇadoṣotha) [by-four+lamps](caturdīpairvinaśyatu) [may-be-destroyed](caturdīpairvinaśyatu)
+[fault-of-consuming-the-mantra](mantrabhakṣaṇadoṣaḥ) [then](atha) [by-four-lamps](caturdīpaiḥ) [may-be-destroyed](vinaśyatu)
 
 ## mukta-m0-p239-v5962
-[may-perish+this](naśyedetanmahādbhutam) [great+wonder](naśyedetanmahādbhutam)
+[may-perish](naśyet) [this](etat) [very-wonderful](mahādbhutam)
 
 ## mukta-m0-p239-v5963
-[blackness+flawless](kālimavacchidraṃ) [or+even](vāpi) [is-seen](pradṛśyate)
+[blackness](kālimā) [flaw](avacchidraṃ) [or](vā) [even](api) [is-seen](pradṛśyate)
 
 ## mukta-m0-p239-v5964
-[full+life-span](pūrṇamāyurvinirdeśyaṃ) [to-be-indicated](pūrṇamāyurvinirdeśyaṃ) [that](sa) [sick-person](rogī) [not+indeed](naiva) [lives](jīvati)
+[full](pūrṇam) [lifespan](āyuḥ) [to-be-indicated](vinirdeśyaṃ) [that](sa) [sick-person](rogī) [not](na) [indeed](eva) [lives](jīvati)
 
 ## mukta-m0-p239-v5965
-[own+dharma+abandoners-of](svadharmatyāgināṃ) [not+indeed](naiva) [ritual-diagram](yantraṃ) [to-be-done](kāryaṃ) [but](tu) [by-the-wise](paṇḍitaiḥ)
+[of-those-who-abandon-their-own-dharma](svadharmatyāgināṃ) [not](na) [indeed](eva) [the-yantra](yantraṃ) [to-be-made](kāryaṃ) [but](tu) [by-the-wise](paṇḍitaiḥ)
 
 ## mukta-m0-p239-v5966
-[ritual-diagrams](yaṃtrāṇi) [mantras+and](mantrāśca) [succeed+here](siddhyantyatra) [not](na) [doubt](saṃśayaḥ)
+[yantras](yaṃtrāṇi) [and](ca) [mantras](mantrāḥ) [succeed](siddhyanti) [here](atra) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p239-v5967
-[principle+this](nyāyosau) [dharma+means-of-accomplishment](dharmasādhanam)
+[this](asau) [principle](nyāyaḥ) [means-of-dharma](dharmasādhanam)
 
 ## mukta-m0-p239-v5968
-[again](bhūyaḥ) [ghost](preto) [or](vā) [brahma+rākṣasa](brahmarākṣasaḥ)
+[again](bhūyaḥ) [a-ghost](pretaḥ) [or](vā) [a-brahma-rākṣasa](brahmarākṣasaḥ)
 
 ## mukta-m0-p239-v5969
-[action+devoted](karmaparā) [enjoyment](bhogaṃ) [heaven](svargaṃ) [bestows](prayacchati)
+[devoted-to-action](karmaparāḥ) [enjoyment](bhogaṃ) [heaven](svargaṃ) [bestows](prayacchati)
 
 ## mukta-m0-p239-v5970
-[śaṅkha+and](śaṅkhaśca) [likhita](likhito) [vyāsa](vyāso) [vaśiṣṭha](vaśiṣṭhaḥ) [kaśyapa](kaśyapo) [sage](muniḥ)
+[Śaṅkha](śaṅkhaḥ) [and](ca) [Likhita](likhitaḥ) [Vyāsa](vyāsaḥ) [Vaśiṣṭha](vaśiṣṭhaḥ) [Kaśyapa](kaśyapaḥ) [sage](muniḥ)
 
 ## mukta-m0-p239-v5971
-[venerable+jamadagni+and](bhagavāñjamadagniśca) [gautama](gautamaḥ)
+[the-venerable](bhagavān) [Jamadagni](jamadagniḥ) [and](ca) [Gautama](gautamaḥ)
 
 ## mukta-m0-p239-v5972
-[of-them](teṣāṃ) [to-be-known](vijñeyo) [ten+division-by](daśabhedataḥ)
+[of-them](teṣāṃ) [to-be-known](vijñeyaḥ) [in-tenfold-division](daśabhedataḥ)
 
 ## mukta-m0-p239-v5973
-[place](deśaṃ) [having-known](jñātvā) [dharma](dharmaṃ) [one-should-prescribe](samādiśet)
+[the-place](deśaṃ) [having-known](jñātvā) [dharma](dharmaṃ) [one-should-prescribe](samādiśet)
 
 ## mukta-m0-p239-v5974
-[saṃhitā](saṃhitā) [horā](horā) [three+fold](trividhaṃ) [astrology](jyautiṣaṃ) [likewise](tathā)
+[saṃhitā](saṃhitā) [horā](horā) [threefold](trividhaṃ) [astrology](jyautiṣaṃ) [likewise](tathā)
 
 ## mukta-m0-p239-v5975
-[whatever+that](yadyattatproktandharmasādhanam) [declared](yadyattatproktandharmasādhanam) [dharma+means-of-accomplishment](yadyattatproktandharmasādhanam)
+[whatever](yadyat) [that](tat) [declared](proktam) [means-of-dharma](dharmasādhanam)

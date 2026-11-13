@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p33",
  "verse": 825,
- "question": "What identity and meaning are explicitly assigned to the preceding formula?",
+ "question": "By what concluding act must a one-hundred-eightfold recitation be ritually dedicated?",
  "premises": [
-  "the demonstrative ayaṃ refers to the preceding formula",
-  "the term mantra names that formula",
-  "iti marks the stated identification",
-  "arthaḥ declares the meaning of that identification"
+  "The prescribed recitation is performed in this manner.",
+  "The recitation is completed one hundred and eight times.",
+  "A completed recitation requires a ritual act of dedication."
  ],
- "inference": "the preceding formula is identified as the mantra and this is stated as its meaning",
- "uncertainties": [],
- "plain_english": "This is the mantra; such is the meaning."
+ "inference": "Therefore, after reciting thus one hundred and eight times, one should dedicate the recitation with this.",
+ "uncertainties": [
+  "The referent of anena is not explicitly specified in this verse."
+ ],
+ "plain_english": "Having thus recited one hundred and eight times, one should offer the recitation with this."
 }

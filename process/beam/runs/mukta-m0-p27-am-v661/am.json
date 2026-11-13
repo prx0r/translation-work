@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p27",
  "verse": 661,
- "question": "Up to which concluding stage should this ritual sequence be completed?",
+ "question": "What visual attributes characterize the deity in this described form?",
  "premises": [
-  "The rite continues after prior steps",
-  "It includes incense and related offerings",
-  "It concludes with dismissal"
+  "The deity wears a black antelope skin garment.",
+  "The deity is mounted on a swan.",
+  "The deity has a pure smile."
  ],
- "inference": "The practitioner should complete the rite up to incense offerings and dismissal.",
- "uncertainties": [],
- "plain_english": "Then one should complete the rite ending with incense and other offerings and dismissal."
+ "inference": "This form of the deity is characterized by black antelope skin attire, a swan mount, and a pure smile.",
+ "uncertainties": [
+  "Which time of day or quality this form corresponds to is implied by context."
+ ],
+ "plain_english": "She wears a black antelope skin garment, is mounted on a swan, and has a pure smile."
 }
