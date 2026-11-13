@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "namas",
+     "gloss": "homage",
+     "grounds": "indeclinable expression of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "second-person pronoun addressed to the deity",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vibudha+āvāsa",
+     "gloss": "abode-of-gods",
+     "grounds": "compound: vibudha (gods) + āvāsa (abode, dwelling); vocative address",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "namas",
+     "gloss": "homage",
+     "grounds": "indeclinable expression of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "second-person pronoun addressed to the deity",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vibudha+priya",
+     "gloss": "dear-to-gods",
+     "grounds": "compound: vibudha (gods) + priya (dear, beloved); vocative address",
+     "morph": "compound.voc.sg.m"
+    }
+   ],
+   "question": "Which qualities of divine dwelling and belovedness among the gods warrant reverent homage?",
+   "premises": [
+    "The deity is addressed as the abode of the gods.",
+    "The deity is addressed as dear to the gods.",
+    "Reverent homage is offered to the deity for these qualities."
+   ],
+   "inference": "The deity merits homage as both the dwelling place and the beloved of the gods.",
+   "uncertainties": [],
+   "plain_english": "Homage to you, abode of the gods; homage to you, dear to the gods."
+  }
+ ]
+}

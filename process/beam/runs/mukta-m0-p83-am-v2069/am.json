@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p83",
  "verse": 2069,
- "question": "Which goddess situated by name protects the Brahma aperture at all times?",
+ "question": "Which sacred figures or sites are enumerated in this sequence?",
  "premises": [
-  "The locus to be protected is the Brahma aperture",
-  "Protection is requested always",
-  "Mātaṅgī is the deity situated there by name"
+  "Kaula and Vishnushaila are named.",
+  "Shankara and Parameshvara are named."
  ],
- "inference": "Mātaṅgī, situated by name, always protects the Brahma aperture.",
- "uncertainties": [],
- "plain_english": "May Mātaṅgī, situated there by name, always protect the Brahma aperture."
+ "inference": "The verse enumerates Kaula, Vishnushaila, Shankara, and Parameshvara.",
+ "uncertainties": [
+  "Whether these are deities, mountains, or sites depends on surrounding context."
+ ],
+ "plain_english": "Kaula, Vishnushaila, Shankara, and Parameshvara."
 }

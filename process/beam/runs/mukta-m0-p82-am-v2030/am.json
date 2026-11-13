@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p82",
  "verse": 2030,
- "question": "What protective and benevolent identities are attributed to the goddess?",
+ "question": "What recitations should be performed at the specified location?",
  "premises": [
-  "The goddess is Durga and auspicious.",
-  "She brings peace.",
-  "She is Brahmani and dear to brahmins."
+  "The verse prescribes reciting a collection there.",
+  "The verse also prescribes chanting the song-scripture.",
+  "Both actions are enjoined at the same place."
  ],
- "inference": "The goddess is a protective, peace-giving, and revered divine presence.",
- "uncertainties": [],
- "plain_english": "She is Durga, auspicious, the maker of peace, Brahmani, and dear to brahmins."
+ "inference": "At that location one should perform both recitation of the collection and chanting of the song-scripture.",
+ "uncertainties": [
+  "The specific identity of the saṃhitā and gīta+śāstra is not stated."
+ ],
+ "plain_english": "There one should recite the collection, and one should also chant the song-scripture."
 }
