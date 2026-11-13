@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "eteṣām",
+     "gloss": "of-these",
+     "grounds": "demonstrative pronoun referring to the previously mentioned pairs",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "arcanāt",
+     "gloss": "from-worship",
+     "grounds": "act of worship or ritual honoring",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "continually or regularly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udvegam",
+     "gloss": "distress",
+     "grounds": "agitation, anxiety, or mental disturbance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "potential result of the action",
+     "morph": "3.sg.optative-active (pra-āp)"
+    },
+    {
+     "surface": "gṛhī",
+     "gloss": "householder",
+     "grounds": "person living in the householder stage of life",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What consequence befalls a householder who continually worships these prohibited pairs together?",
+   "premises": [
+    "Worshipping the two Śaktis or two Sūryas together is prohibited.",
+    "Continual worship of these pairs produces distress.",
+    "A householder performing such worship is subject to this result."
+   ],
+   "inference": "A householder who continually worships these pairs would incur distress.",
+   "uncertainties": [
+    "The exact referent of eteṣām depends on the immediately preceding prohibitions."
+   ],
+   "plain_english": "From continually worshipping these, a householder would experience distress."
+  }
+ ]
+}
