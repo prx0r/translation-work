@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[worship-support-power](ādhāraśaktiṃ) [worship](prayajet) [lotus-two-bearing](paṅkajadvayadhāriṇīm)
+[support-power](ādhāraśaktiṃ) [one-should-worship](prayajet) [lotus-pair-holder](paṅkaja+dvaya+dhāriṇīm)
 
 ## mukta-m0-p43-v1052
-[tortoise](kūrmaṃ) [blue](nīlābham) [worship](arcayet) [seated](samāsīnaṃ)
+[seated](samāsīnaṃ) [tortoise](kūrmaṃ) [blue-colored](nīla+ābham) [one-should-worship](arcayet)
 
 ## mukta-m0-p43-v1053
-[earth](vasundharām) [bearing](dhārayantaṃ) [on-head](mūrdhni)
+[on-head](mūrdhni) [bearing](dhārayantaṃ) [earth](vasundharām)
 
 ## mukta-m0-p43-v1054
-[earth-goddess](vasumatīṃ) [worship](abhyarcayed) [shining-ocean-girdle](sphuratsāgaramekhalām)
+[one-should-worship](abhyarcayet) [earth](vasumatīṃ) [shining-ocean-girdled](sphurat+sāgara+mekhalām)
 
 ## mukta-m0-p43-v1055
-[altar](vedikāṃ) [worship](pūjayet) [mandala-radiant](maṇḍalojjvalām) [their](teṣāṃ)
+[one-should-worship](pūjayet) [of-them](teṣāṃ) [platform](vedikāṃ) [circle-brilliant](maṇḍala+ujjvalām)
 
 ## mukta-m0-p43-v1056
-[bull-lion-elephant-forms](vṛṣakesaribhūtebharūpān) [dharma-officers](dharmādhikān) [worship](bhajet)
+[bull-lion-spirit-elephant-formed](vṛṣa+kesari+bhūta+ibha+rūpān) [dharma-and-others](dharma+ādhikān) [one-should-worship](bhajet)
 
 ## mukta-m0-p43-v1057
-[corners](koṇeṣu) [directions](dikṣu) [lotus](ambujaṃ) [worship](yajet) [then](cātha)
+[in-corners](koṇeṣu) [in-directions](dikṣu) [and-then](ca+atha) [lotus](ambujaṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p43-v1058
-[fifty-letters](pañcāśadvarṇa) [seed-rich](bījāḍhyāṃ) [pericarp](karṇikāṃ) [fully-worship](prapūjayet) [and](ca)
+[fifty-letter-seed-endowed](pañcāśat+varṇa+bīja+āḍhyāṃ) [pericarp](karṇikāṃ) [and](ca) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p43-v1059
-[lotus-worship](padmapūjanam) [they-said](ūcire)
+[lotus-worship](padma+pūjanam) [they-declared](ūcire)
 
 ## mukta-m0-p43-v1060
-[solar](sauraṃ) [worship](saṃpūjya) [him](taṃ) [heat-rays-etc](tāpinyādi) [its-parts](tatkalāḥ)
+[solar](sauraṃ) [having-worshipped](saṃpūjya) [that](taṃ) [tāpinī-and-others](tāpiny+ādi) [its-parts](tat+kalāḥ)
 
 ## mukta-m0-p43-v1061
-[dawn](uṣa) [mercury](rbudhaṃ) [third](tṛtīyena) [smoke-ray](dhūmrārciḥ) [etc](prabhṛtīḥ) [parts](kalāḥ)
+[uṣā-and-arbudha](uṣa+rbudhaṃ) [with-third](tṛtīyena) [dhūmrārci-and-others](dhūmrārciḥ+prabhṛtīḥ) [parts](kalāḥ)
 
 ## mukta-m0-p43-v1062
-[passion](rajas) [darkness](tamaḥ) [said](proktā) [initial-seeds](ādibījaiḥ) [worship](samarcayet)
+[rajas-and-tamas](rajas+tamaḥ) [declared](proktā) [with-primal-seeds](ādi+bījaiḥ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p43-v1063
-[according-to-rite](yathāvidhi) [worship](samarcayet)
+[according-to-rule](yathā+vidhi) [one-should-worship](samarcayet)
 
 ## mukta-m0-p43-v1064
-[thus](tathā) [middle](madhye) [powers](śaktīn) [in-order](yathākramam)
+[likewise](tathā) [in-middle](madhye) [powers](śaktīḥ) [nine](nava) [in-order](yathā+kramam)
 
 ## mukta-m0-p43-v1065
-[by-rite-or-mantras](kalpoktairathavāmantrair) [root](mūlam) [uttering](uccārya) [sadhaka](sādhakaḥ)
+[with-kalpa-taught](kalpa+uktaiḥ) [or](athavā) [with-mantras](mantraiḥ) [root](mūlam) [having-uttered](uccārya) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p43-v1066
-[rite-described-form](kalpasaṃproktarūpāṃ) [meditate](dhyāyettataḥ) [then](param)
+[kalpa-taught-form](kalpa+saṃprokta+rūpāṃ) [one-should-meditate](dhyāyet) [then](tataḥ) [after](param)
 
 ## mukta-m0-p43-v1067
-[said](proktaṃ) [with-qualities](saguṇaṃ) [without-qualities](nirguṇaṃ) [thus](tathā)
+[declared](proktaṃ) [with-qualities](sa+guṇaṃ) [without-qualities](nir+guṇaṃ) [likewise](tathā)
 
 ## mukta-m0-p43-v1068
-[without-qualities](nirguṇaṃ) [meditation](dhyānam) [brahma-knowers](brahmavido) [know](viduḥ) [iti](iti)
+[without-qualities](nir+guṇaṃ) [meditation](dhyānam) [thus](iti) [brahman-knowers](brahma+vidaḥ) [know](viduḥ)
 
 ## mukta-m0-p43-v1069
-[moon-sun-fire-orbs](somasūryāgnimaṇḍalena) [shining](virājitam)
+[moon-sun-fire-circles](soma+sūrya+agni+maṇḍalena) [illuminated](virājitam)
 
 ## mukta-m0-p43-v1070
-[that](taddhi) [with-qualities](saguṇaṃ) [meditation](dhyānam) [is-called](ucyate)
+[that](tat) [indeed](hi) [with-qualities](sa+guṇaṃ) [meditation](dhyānam) [is-called](ucyate)
 
 ## mukta-m0-p43-v1071
-[that-tejas](ttejaḥ) [sushumna-path](suṣumnāvartmanā) [to-shiva](śive)
+[that-radiance](tat+tejaḥ) [by-suṣumnā-path](suṣumnā+vartmanā) [in-śiva](śive)
 
 ## mukta-m0-p43-v1072
-[nose-passage](nāsikārandhramārgeṇa) [exited](nirgataṃ) [beautiful](sumanoharam)
+[by-nostril-path](nāsikā+randhra+mārgeṇa) [gone-out](nirgataṃ) [very-charming](su+manaḥ+haram)
 
 ## mukta-m0-p43-v1073
-[brahma-aperture](brahmarandhreṇa) [in-image](mūrtau) [there](tasyāṃ) [duly](vidhānataḥ)
+[through-brahmarandhra](brahma+randhreṇa) [in-form](mūrtau) [in-that](tasyāṃ) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p43-v1074
-[proper-establishment](samyaksaṃsthāpanākhyam) [mudra](udrayā)
+[properly](samyak) [with-establishment-named-mudrā](saṃsthāpana+ākhya+mudrayā)
 
 ## mukta-m0-p43-v1075
-[nirodhini](nirodhinyā) [facing](sammukhīkṛtya) [mudra](mudrayā)
+[with-nirodhinī](nirodhinyā) [having-faced](sammukhīkṛtya) [with-mudrā](mudrayā)

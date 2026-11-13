@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p48-v1176
-[little-finger+thumb](kaniṣṭhāṅguṣṭhakau) [joined](yuktau) [this-mudra](mudraiṣā) [named-cakra](cakrasaṃjñitā)
+[little-finger+thumb](kaniṣṭhā+aṅguṣṭhakau) [joined](yuktau) [mudrā](mudrā) [this](eṣā) [cakra+named](cakra+saṃjñitā)
 
 ## mukta-m0-p48-v1177
-[own](nijāṃ) [mantra](manuṃ) [reciting](japan) [show](pradarśayet)
+[own](nijāṃ) [mantra](manuṃ) [muttering](japan) [one-should-display](pradarśayet)
 
 ## mukta-m0-p48-v1178
-[and-addressing](cābhāṣya) [offering](nivedyaṃ) [I-prepare](kalpayāmi) [and](ca)
+[and](ca) [having-addressed](abhāṣya) [offering](nivedyaṃ) [I-arrange](kalpayāmi) [and](ca)
 
 ## mukta-m0-p48-v1179
-[piṣṭaka-born](piṣṭakasaṃjātān) [equal-moving-endowed](samavartisamanvitān)
+[flour+produced](piṣṭaka+saṃjātān) [with+equal+rounds](sama+varti+samanvitān)
 
 ## mukta-m0-p48-v1180
-[pigeon-like-form](pārāvatabhramākārān) [very-radiant-endowed](atidīptisamanvitān)
+[pigeon+whirl+shaped](pārāvata+bhrama+ākārān) [with+not+little+brightness](ati+dīpti+samanvitān)
 
 ## mukta-m0-p48-v1181
-[said](proktaṃ) [bell-sounding-preceded](ghaṇṭāvādanapūrvakam)
+[declared](proktaṃ) [bell+sounding+preceded-by](ghaṇṭā+vādana+pūrvakam)
 
 ## mukta-m0-p48-v1182
-[according-to-rite](vidhivad) [learned](vidvān) [vaiśvadeva](vaiśvadevaṃ) [perform](samācaret)
+[according-to-rule](vidhivat) [the-knower](vidvān) [vaiśvadeva-rite](vaiśvadevaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p48-v1183
-[with-tāra-syllables](tāravyāhṛtibhiḥ) [offering](hutvā) [with-root-mantra](mūlamantreṇa) [mantra-knower](mantravit)
+[with-oṃ+vyāhṛtis](tāra+vyāhṛtibhiḥ) [having-offered](hutvā) [with-root+mantra](mūla+mantreṇa) [mantra+knower](mantra+vit)
 
 ## mukta-m0-p48-v1184
-[again](punar) [with-syllables](vyāhṛtibhiḥ) [giving](dattvā) [with-sandal-etc](gandhādyaiḥ) [again](punar) [worship](arcayet)
+[again](punar) [with-vyāhṛtis](vyāhṛtibhiḥ) [having-given](dattvā) [with-fragrance+etc.](gandha+ādyaiḥ) [again](punar) [one-should-worship](arcayet)
 
 ## mukta-m0-p48-v1185
-[with-remaining](avaśiṣṭena) [oblation](haviṣā) [scatter](vikiret) [around](parito) [offering](balim)
+[with-remaining](avaśiṣṭena) [by-oblation](haviṣā) [one-should-scatter](vikiret) [around](paritaḥ) [offering](balim)
 
 ## mukta-m0-p48-v1186
-[fire-offering-count](homasaṃkhyā) [double](dviguṇaṃ) [japa](japam) [perform](ācaret)
+[than-oblation+number](homa+saṃkhyāt) [double](dviguṇaṃ) [recitation](japam) [one-should-perform](ācaret)
 
 ## mukta-m0-p48-v1187
-[according-to-statement](vākyānusāreṇa) [everywhere](sarvatra) [say](āhuḥ) [wise](manīṣiṇaḥ)
+[according-to+statement](vākya+anusāreṇa) [everywhere](sarvatra) [they-say](āhuḥ) [the-wise](manīṣiṇaḥ)
 
 ## mukta-m0-p48-v1188
-[preliminary-rite-limb-defect-procedure](puraskriyāṅgavaiguṇyapravṛttiṃ) [not](na) [indeed](eva) [goes](gacchati)
+[preliminary-rite+limb+deficiency](puraskriyā+aṅga+vaiguṇya) [occurrence](pravṛttiṃ) [not](na) [indeed](eva) [goes](gacchati)
 
 ## mukta-m0-p48-v1189
-[statement-logic-contraction](vacananyāyasaṅkocaḥ) [invalid](niṣpramāṇakaḥ)
+[statement+reasoning+restriction](vacana+nyāya+saṅkocaḥ) [without+authority](niṣ+pramāṇakaḥ)
 
 ## mukta-m0-p48-v1190
-[element-purification-etc](bhūtaśuddhyādau) [but](tu) [this-remainder](etacchiṣṭaiḥ) [not](na) [approved](sammatam)
+[in-purification-of-elements+etc.](bhūta+śuddhi+ādau) [but](tu) [this](etat) [by-the-learned](śiṣṭaiḥ) [not](na) [approved](sammatam)
 
 ## mukta-m0-p48-v1191
-[in-rite](karaṇe) [take-refuge](śaraṇībhavet)
+[in-doing](karaṇe) [refuge](śaraṇī) [one-should-become](bhavet)
 
 ## mukta-m0-p48-v1192
-[culluka-water](cullukodakam) [nectar-lid](amṛtāpidhānam) [you-are](asi) [ṭha-pair](ṭhadvayam)
+[handful+water](culluka+udakam) [nectar+covering](amṛta+āpidhānam) [you-are](asi) [ṭha+pair](ṭha+dvayam)
 
 ## mukta-m0-p48-v1193
-[offering](naivedyaṃ) [then](tataḥ) [this](ca) [take-up](etat+samuddharet)
+[offering](naivedyaṃ) [then](tataḥ) [and](ca) [this](etat) [one-should-remove](samuddharet)
 
 ## mukta-m0-p48-v1194
-[viṣvaksena](viṣvakṛsenaḥ) [remembered](smṛto) [viṣṇu's-radiance](viṣṇostejaḥ) [fierce](caṇḍaḥ) [sun's](vivaśvataḥ)
+[Viṣvaksena](viṣvakṛsenaḥ) [remembered](smṛtaḥ) [of-Viṣṇu](viṣṇoḥ) [splendor](tejaḥ) [and](ca) [Caṇḍa](caṇḍaḥ) [of-Vivasvat](vivaśvataḥ)
 
 ## mukta-m0-p48-v1195
-[of-gaṇapati](gaṇapateḥ) [ucchiṣṭa-eaters](ucchiṣṭabhojinaḥ)
+[of-Gaṇapati](gaṇapateḥ) [dear](abhī) [remnants+eaters](ucchiṣṭa+bhojinaḥ)
 
 ## mukta-m0-p48-v1196
-[tusk-garment](tuṇḍavāsakaṃ) [garland-ornament](mālyabhūṣaṇam)
+[betel-nut+fragrance](tuṇḍa+vāsakaṃ) [garland+ornament](mālya+bhūṣaṇam)
 
 ## mukta-m0-p48-v1197
-[betel](tāmbūlaṃ) [and](ca) [offer](nivedayet)
+[betel-leaf](tāmbūlaṃ) [and](ca) [one-should-offer](nivedayet)
 
 ## mukta-m0-p48-v1198
-[give](prayaccheta) [flower-handful](puṣpāñjalim) [undistracted-mind](ananyadhīḥ)
+[one-should-give](prayaccheta) [flower+handful](puṣpa+añjalim) [with-undivided+mind](ananya+dhīḥ)
 
 ## mukta-m0-p48-v1199
-[attendant-worship](pārṣadārcāyāṃ) [dispute](vivadante) [here](atra) [some](kecana)
+[in-attendant+worship](pārṣada+arcāyāṃ) [dispute](vivadante) [here](atra) [some](kecana)
 
 ## mukta-m0-p48-v1200
-[would-be](syur) [not](na) [here](iha) [much](bahu) [said](ucyate)
+[they-may-be](syuḥ) [therefore](ataḥ) [not](na) [here](iha) [much-is-said](bahu+ucyate)

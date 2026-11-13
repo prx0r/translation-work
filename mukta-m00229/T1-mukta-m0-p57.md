@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-by-mantra (mantreṇa) should-offer (juhuyāt) oblations (āhutīḥ) ten (daśa)
+[with-mantra](mantreṇa) [one-should-offer](juhuyāt) [oblations](āhutīḥ) [ten](daśa)
 
 ## mukta-m0-p57-v1402
-of-all-mantras (sarvamantrāṇām) this (etad) fire-mouth (agnimukham) considered (matam)
+[of-all-mantras](sarva+mantrāṇām) [this](etat) [fire-mouth](agni+mukhaṃ) [considered](matam)
 
 ## mukta-m0-p57-v1403
-should-worship (arcayet) fire-formed (agnirūpām) that (tām) deity (devatām) wish-giving (iṣṭadāyinīm)
+[one-should-worship](arcayet) [fire-formed](agni+rūpāṃ) [that](tāṃ) [deity](devatām) [wish-granting](iṣṭa+dāyinīm)
 
 ## mukta-m0-p57-v1404
-by-root-mantra (mūlamantra) with (ena) face-unification (vaktraikīkaraṇam) remembered (smṛtam)
+[with-root-mantra](mūla+mantreṇa) [mouth-unification](vaktra+ekīkaraṇaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p57-v1405
-should-offer (juhuyāt) with-ghee (ājyena) eleven (ekādaśa) oblations (āhutīḥ)
+[one-should-offer](juhuyāt) [with-ghee](ājyena) [eleven](ekādaśa) [oblations](āhutīḥ)
 
 ## mukta-m0-p57-v1406
-should-offer (juhuyāt) of-limb-principals (aṅgamukhyānām) oblations (āhutīnām) in-order (anukramāt)
+[one-should-offer](juhuyāt) [of-limb-principal](aṅga+mukhyānām) [of-oblations](āhutīnām) [in-sequence](anukramāt)
 
 ## mukta-m0-p57-v1407
-then (tataḥ) with-three-sweetened (trimadhuro+petaiḥ) sesame (tilaiḥ) or (vā) prescribed-by-rite (kalpadeśitaiḥ)
+[then](tatas) [with-three-sweets-mixed](tri+madhura+upetais) [with-sesame-seeds](tilais) [or](vā) [as-prescribed-in-ritual](kalpa+deśitaiḥ)
 
 ## mukta-m0-p57-v1408
-with-great-utterances (mahāvyāhṛtibhiḥ) should-do (kuryāt) then (atha) homa (homam) knower-of-rite (vidhānavit)
+[with-great-utterances](mahā+vyāhṛtibhiḥ) [one-should-perform](kuryāt) [then](atha) [oblation](homaṃ) [knower-of-procedure](vidhāna+vit)
 
 ## mukta-m0-p57-v1409
-to-earth (pṛthivyai) and (ca) to-great (mahate) and (ca) endowed (samanvitam)
+[to-earth](pṛthivyai) [and](ca) [to-the-great](mahate) [and](ca) [together-with](samanvitam)
 
 ## mukta-m0-p57-v1410
-great-utterances (mahāvyāhṛtayaḥ) indeed (tu) these (etāḥ) wholly (sarvaśaḥ) deity-filled (devatāmayāḥ)
+[great-utterances](mahā+vyāhṛtayas) [indeed](tu) [these](etāḥ) [in-all-respects](sarvaśas) [consisting-of-all-deities](devatā+mayāḥ)
 
 ## mukta-m0-p57-v1411
-by-utterances (vyāhṛtibhiḥ) declared (proktāḥ) great-utterances (mahāvyāhṛtayaḥ) as (yathā)
+[with-utterances](vyāhṛtibhiḥ) [declared](proktāḥ) [great-utterances](mahā+vyāhṛtayas) [as](yathā)
 
 ## mukta-m0-p57-v1412
-full-oblation (pūrṇāhutim) should-give (dadyāt) by-root-mantra (mūlamantreṇa) practitioner (sādhakaḥ)
+[full-oblation](pūrṇa+āhutiṃ) [should-give](dadyāt) [with-root-mantra](mūla+mantreṇa) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p57-v1413
-with-ghee (ājyena) ladle (sruvam) filling (āpūrya) with-that (tena) filling (āpūrya) spoon (srucaṃ) then (tataḥ)
+[with-ghee](ājyena) [ladle](sruvam) [having-filled](āpūrya) [with-that](tena) [having-filled](āpūrya) [spoon](srucaṃ) [then](tataḥ)
 
 ## mukta-m0-p57-v1414
-straight-bodied (ṛjukāyaḥ) of-those (tayoḥ) root (mūlam) at-navel-root (nābhimūle) placing (nidhāya) and (ca)
+[straight-bodied](ṛju+kāyas) [of-those-two](tayos) [base](mūlaṃ) [at-navel-base](nābhi+mūle) [having-placed](nidhāya) [and](ca)
 
 ## mukta-m0-p57-v1415
-with-fruit-flower-unbroken-rice (phalapuṣpākṣata+upetam) with-unbroken-ghee-stream (avichinnājyadhārayā)
+[with-fruit-flower-unbroken-rice](phala+puṣpa+akṣata+upetam) [with-unbroken-ghee-stream](avichinna+ājya+dhārayā)
 
 ## mukta-m0-p57-v1416
-by-śrī-soma-śambhu (śrīsomaśambhunā) declared (proktam) full-oblation (sampūrṇāhuti) characteristic (lakṣaṇam)
+[by-Śrī-Somaśambhu](śrī+somaśambhunā) [declared](proktaṃ) [full-oblation](sampūrṇa+āhuti) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p57-v1417
-flower (puṣpam) placing (āropya) afterwards (paścāt) with-left (vāmena) hand (pāṇinā)
+[flower](puṣpam) [having-placed](āropya) [afterwards](paścāt) [with-left](vāmena) [hand](pāṇinā)
 
 ## mukta-m0-p57-v1418
-well-joined (samaṅgataḥ) upward-body (ūrdhvakāyaḥ) and (ca) even-footed (samapādaḥ) endowed (samanvitaḥ)
+[with-limbs-together](sama+aṅgatas) [upright-bodied](ūrdhva+kāyaḥ) [and](ca) [with-feet-together](sama+pādaḥ) [composed](samanvitaḥ)
 
 ## mukta-m0-p57-v1419
-by-abandoning-Durgā-etc-cause (durgādikāraṇatyāgāt) emerging (viniḥsṛtya) through-suṣumnā (suṣumnayā)
+[from-abandonment-of-obstacle-causes](durgā+ādi+kāraṇa+tyāgāt) [having-gone-forth](viniḥsṛtya) [through-suṣumnā](suṣumnayā)
 
 ## mukta-m0-p57-v1420
-root-mantra (mūlamantram) above (matasyordhvam) vauṣaṭ-ending (vauṣaḍantam) should-raise (samuddharet)
+[root-mantra](mūla+mantram) [of-that](atas) [upward](ūrdhvaṃ) [ending-with-vauṣaṭ](vauṣaḍ+antaṃ) [one-should-utter](samuddharet)
 
 ## mukta-m0-p57-v1421
-called-brahmārpaṇa (brahmārpaṇākhya) with-mantra (manunā) again (punar) eight (aṣṭau) then (atha) oblations (āhutīḥ)
+[with-mantra-called-brahmārpaṇa](brahmārpaṇa+ākhya+manunā) [again](punar) [eight](aṣṭau) [then](atha) [oblations](āhutīḥ)
 
 ## mukta-m0-p57-v1422
-from-authority-of-prāṇa-mind-body-dharma (prāṇabuddhidehadharmādhikārataḥ)
+[from-authority-over-breath-intellect-body-duties](prāṇa+buddhi+deha+dharma+adhikārataḥ)
 
 ## mukta-m0-p57-v1423
-by-speech (vācā) by-action (karmaṇā) and (ca) should-declare (prabhāṣayet)
+[by-speech](vācā) [by-action](karmaṇā) [and](ca) [one-should-declare](prabhāṣayet)
 
 ## mukta-m0-p57-v1424
-what (yat) remembered (smṛtam) and (ca) having-said (uktvā) what (yat) said (uktam) what (yat) done (kṛtam) so (tathā)
+[what](yat) [remembered](smṛtaṃ) [and](ca) [spoken](uktvā) [what](yat) [spoken](uktaṃ) [what](yat) [done](kṛtaṃ) [likewise](tathā)
 
 ## mukta-m0-p57-v1425
-twice (dvicā) this (ayam) brahmārpaṇa (brahmārpaṇam) approved (anurmataḥ)
+[ending-with-dvicāṭha](dvicā+(ṭhā)+antaḥ) [this](ayam) [brahmārpaṇa-mantra](brahmārpaṇa+manus) [considered](mataḥ)

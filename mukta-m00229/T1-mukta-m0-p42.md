@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p42-v1026
-[tattat+kalpa+viśeṣa+ukta](tattatkalpaviśeṣokta) [prakāra+anyanta+vighraha](prakārānyantavigraham)
+[that+that+ritual+specific+stated](tattatkalpaviśeṣokta) [manner+up-to+form](prakārānyantavigraham)
 
 ## mukta-m0-p42-v1027
-[mantrī](mantrī) [tattat+kalpa+prakāśita](tattatkalpaprakāśitam)
+[priest](mantrī) [that+that+ritual+revealed](tattatkalpaprakāśitam)
 
 ## mukta-m0-p42-v1028
-[gandha+puṣpa+abhyām](gandhapuṣpābhyāṃ) [bindu+sruta+sudhā+rasaiḥ](bindusrutasudhārasaiḥ)
+[with-fragrance+and-flowers](gandhapuṣpābhyāṃ) [with-drop+flowing+nectar+juices](bindusrutasudhārasaiḥ)
 
 ## mukta-m0-p42-v1029
-[japet](japenmantraṃ) [mantraṃ](japenmantraṃ) [yathā+kṣaṇam](yathākṣaṇam)
+[should-mutter+mantra](japenmantraṃ) [as+appropriate](yathākṣaṇam)
 
 ## mukta-m0-p42-v1030
-[bījam](bījamaṣṭottaraśataṃ) [aṣṭottara+śatam](bījamaṣṭottaraśataṃ) [japet](japet) [praṇava+saṃpuṭam](praṇavasaṃpuṭam)
+[seed+eight+above+hundred](bījamaṣṭottaraśataṃ) [should-mutter](japet) [praṇava+enclosed](praṇavasaṃpuṭam)
 
 ## mukta-m0-p42-v1031
-[saṃhitāyām](saṃhitāyāṃ) [tu](tu) [proktam](proktamāvaraṇārcanam) [āvaraṇa+arcanam](proktamāvaraṇārcanam)
+[in-the-compendium](saṃhitāyāṃ) [but](tu) [declared+enclosure+worship](proktamāvaraṇārcanam)
 
 ## mukta-m0-p42-v1032
-[deveśam](deveśaṃ) [parivārān](parivārāṁśca) [ca](parivārāṁśca) [pūjayet](pūjayet)
+[lord-of-gods](deveśaṃ) [retinue+and](parivārāṁśca) [one-should-worship](pūjayet)
 
 ## mukta-m0-p42-v1033
-[tataḥ](tataḥ) [kuryāt](kuryāddai(dai)hikābhyudayāya) [daihika+abhyudayāya](kuryāddai(dai)hikābhyudayāya) [vai](vai)
+[then](tataḥ) [one-should-do+daily+prosperity+for](kuryāddai(dai)hikābhyudayāya) [indeed](vai)
 
 ## mukta-m0-p42-v1034
-[mānena](mānena) [na](nāpyanuktirnivedanāt) [api](nāpyanuktirnivedanāt) [anuktiḥ](nāpyanuktirnivedanāt) [nivedanāt](nivedanāt)
+[by-measure](mānena) [not+also+non-statement+from-offering](nāpyanuktirnivedanāt)
 
 ## mukta-m0-p42-v1035
-[prokṣaṇī+toyam](prokṣaṇītoyaṃ) [salilaiḥ](salilaiḥ) [paripūrayet](paripūrayet)
+[sprinkling+water](prokṣaṇītoyaṃ) [with-waters](salilaiḥ) [one-should-fill](paripūrayet)
 
 ## mukta-m0-p42-v1036
-[pādyam](pādyaṃ) [kāryam](kāryamācamanīyakam) [ācamanīyakam](kāryamācamanīyakam)
+[water-for-feet](pādyaṃ) [to-be-done+sipping-water](kāryamācamanīyakam)
 
 ## mukta-m0-p42-v1037
-[śaṃkham](śaṃkhaṃ) [pūrvataḥ](pūrvataḥ) [su+samāhitaḥ](susamāhitaḥ)
+[conch](śaṃkhaṃ) [in-the-east](pūrvataḥ) [well+composed](susamāhitaḥ)
 
 ## mukta-m0-p42-v1038
-[pātre](pātre) [pādya+ādīni](pādyādīni) [prakalpayet](prakalpayet)
+[in-the-vessel](pātre) [water-for-feet+and-others](pādyādīni) [one-should-arrange](prakalpayet)
 
 ## mukta-m0-p42-v1039
-[tāmram](tāmraṃ) [kāṃsyam](kāṃkṣyaṃ) [pālāśa+patrakam](pālāśapatrakam)
+[copper](tāmraṃ) [bell-metal](kāṃkṣyaṃ) [palāśa+leaf](pālāśapatrakam)
 
 ## mukta-m0-p42-v1040
-[pātram](pātramaṣṭavidhaṃ) [aṣṭavidham](pātramaṣṭavidhaṃ) [proktam](proktaṃ) [sarva+siddhi+karam](sarvasiddhikaraṃ) [param](param)
+[vessel+eight+fold](pātramaṣṭavidhaṃ) [declared](proktaṃ) [all+success+making](sarvasiddhikaraṃ) [supreme](param)
 
 ## mukta-m0-p42-v1041
-[ṣaṭtriṃśat+aṅguli+pātram](ṣaṭtriṃśadaṅgulīpātram) [uttamam](uttamaṃ) [parikīrtitam](parikīrtitam)
+[six+thirty+finger+vessel](ṣaṭtriṃśadaṅgulīpātram) [best](uttamaṃ) [is-declared](parikīrtitam)
 
 ## mukta-m0-p42-v1042
-[vasu+aṅguli+vihīnam](vasvaṅgulivihīnaṃ) [tu](tu) [na](na) [pātram](pātraṃ) [kārayet](kārayet) [kvacit](kvacit)
+[eight+finger+deficient](vasvaṅgulivihīnaṃ) [but](tu) [not](na) [vessel](pātraṃ) [one-should-make+ever](kārayetkvacit)
 
 ## mukta-m0-p42-v1043
-[gandha+akṣata+ādikam](gandhākṣatādikaṃ) [mantrī](mantrī) [sādhanam](sādhanaṃ) [sakalam](sakalaṃ) [nyaset](nyaset)
+[fragrance+unbroken-rice+and-others](gandhākṣatādikaṃ) [priest](mantrī) [implement](sādhanaṃ) [all](sakalaṃ) [should-place](nyaset)
 
 ## mukta-m0-p42-v1044
-[likhet](likhedyantrarājaṃ) [yantra+rājam](likhedyantrarājaṃ) [tattat+kalpa+ukta+rūpavat](tattatkalpoktarūpavat)
+[one-should-draw+diagram+king](likhedyantrarājaṃ) [that+that+ritual+stated+form+like](tattatkalpoktarūpavat)
 
 ## mukta-m0-p42-v1045
-[devaḥ](devaḥ) [prīṇāti](prīṇāti) [pūjitaḥ](pūjitaḥ)
+[god](devaḥ) [is-pleased](prīṇāti) [worshipped](pūjitaḥ)
 
 ## mukta-m0-p42-v1046
-[tāmre](tāmre) [pīṭhe](pīṭhe) [bhūrje](bhūrje) [paṭe](paṭe) [bhuvi](bhuvi)
+[on-copper](tāmre) [on-pedestal](pīṭhe) [on-birch-bark](bhūrje) [on-cloth](paṭe) [on-ground](bhuvi)
 
 ## mukta-m0-p42-v1047
-[kalpe](kalpe) [tadā](tadā) [bhūpura+saṃyutam](bhūpurasaṃyutam)
+[in-the-ritual](kalpe) [then](tadā) [enclosure+endowed-with](bhūpurasaṃyutam)
 
 ## mukta-m0-p42-v1048
-[vidhinā](vidhinālikhya) [likhya](vidhinālikhya) [pūjayet](pūjayediṣṭadevatām) [iṣṭa+devatām](pūjayediṣṭadevatām)
+[by-rule+having-drawn](vidhinālikhya) [one-should-worship+desired+deity](pūjayediṣṭadevatām)
 
 ## mukta-m0-p42-v1049
-[pūjā+dhāratayā](pūjādhāratayoktatvādāvaśyakamihocyate) [uktatvāt](pūjādhāratayoktatvādāvaśyakamihocyate) [āvaśyakam](pūjādhāratayoktatvādāvaśyakamihocyate) [iha](pūjādhāratayoktatvādāvaśyakamihocyate) [ucyate](pūjādhāratayoktatvādāvaśyakamihocyate)
+[worship+support+state+because-of](pūjādhāratayoktatvāt) [necessary+here+is-said](āvaśyakamihocyate)
 
 ## mukta-m0-p42-v1050
-[madhya+bhāge](madhyabhāge) [tataḥ](tataḥ) [sampūjayet](sampūjayedbudhaḥ) [budhaḥ](sampūjayedbudhaḥ)
+[in-middle+part](madhyabhāge) [then](tataḥ) [one-should-worship+wise-one](sampūjayedbudhaḥ)
