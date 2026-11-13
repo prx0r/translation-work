@@ -8,23 +8,27 @@
 "tokens": [
 {
 "surface": "sva",
-"quick_gloss": "own-body"
+"quick_gloss": "own"
 },
 {
 "surface": "deha",
-"quick_gloss": "maintenance"
+"quick_gloss": "+body"
 },
 {
-"surface": "nirvāhārtha",
-"quick_gloss": "for-sake-of"
+"surface": "nirvāha",
+"quick_gloss": "+maintenance"
+},
+{
+"surface": "artha",
+"quick_gloss": "+purpose"
 },
 {
 "surface": "vyāpāra",
-"quick_gloss": "activity"
+"quick_gloss": "+activity"
 },
 {
 "surface": "śūnyaḥ",
-"quick_gloss": "devoid-of"
+"quick_gloss": "+devoid"
 }
 ]
 },
@@ -36,16 +40,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mānā",
-"quick_gloss": "in-honor"
+"surface": "māna",
+"quick_gloss": "honor"
 },
 {
 "surface": "apamānayoḥ",
-"quick_gloss": "and-dishonor"
+"quick_gloss": "+dishonor"
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "+also"
 },
 {
 "surface": "samaḥ",
@@ -57,11 +61,11 @@
 },
 {
 "surface": "viṣāda",
-"quick_gloss": "and-sorrow"
+"quick_gloss": "+sorrow"
 },
 {
 "surface": "śūnyaḥ",
-"quick_gloss": "devoid-of"
+"quick_gloss": "+devoid"
 },
 {
 "surface": "iti",
@@ -69,7 +73,7 @@
 },
 {
 "surface": "arthaḥ",
-"quick_gloss": "meaning"
+"quick_gloss": "+meaning"
 }
 ]
 },
@@ -81,12 +85,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nistraiguṇyaḥ",
+"surface": "nistraiguṇyo",
 "quick_gloss": "beyond-three-guṇas"
 },
 {
-"surface": "nirvikalpaḥ",
-"quick_gloss": "free-from-fancies"
+"surface": "nirvikalpo",
+"quick_gloss": "free-from-fancy"
 },
 {
 "surface": "nirlobhaḥ",
@@ -98,7 +102,7 @@
 },
 {
 "surface": "asañcayī",
-"quick_gloss": "non-accumulating"
+"quick_gloss": "+non-accumulating"
 }
 ]
 },
@@ -115,14 +119,14 @@
 },
 {
 "surface": "āśritaḥ",
-"quick_gloss": "dependent"
+"quick_gloss": "+dependent"
 },
 {
 "surface": "tathā",
 "quick_gloss": "likewise"
 },
 {
-"surface": "dehaḥ",
+"surface": "deho",
 "quick_gloss": "body"
 },
 {
@@ -131,7 +135,7 @@
 },
 {
 "surface": "evaṃ",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "sukhī",
@@ -159,8 +163,8 @@
 "quick_gloss": "witness"
 },
 {
-"surface": "vinirliptaḥ",
-"quick_gloss": "completely-unattached"
+"surface": "vinirlipto",
+"quick_gloss": "unstained"
 },
 {
 "surface": "jñātvā",
@@ -168,7 +172,7 @@
 },
 {
 "surface": "evaṃ",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "mokṣa",
@@ -176,7 +180,7 @@
 },
 {
 "surface": "bhāg",
-"quick_gloss": "sharer"
+"quick_gloss": "+sharer"
 },
 {
 "surface": "bhavet",
@@ -197,23 +201,23 @@
 },
 {
 "surface": "tyāgam",
-"quick_gloss": "emission"
+"quick_gloss": "+abandonment"
 },
 {
 "surface": "asūyāñ",
-"quick_gloss": "and-envy"
+"quick_gloss": "+envy"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "+and"
 },
 {
 "surface": "saṃnyāsī",
-"quick_gloss": "renunciate"
+"quick_gloss": "renunciant"
 },
 {
 "surface": "parivarjayet",
-"quick_gloss": "should-abandon"
+"quick_gloss": "should-avoid"
 }
 ]
 },
@@ -230,11 +234,11 @@
 },
 {
 "surface": "brahma",
-"quick_gloss": "Brahman"
+"quick_gloss": "brahman"
 },
 {
 "surface": "iti",
-"quick_gloss": "thus"
+"quick_gloss": "+thus"
 },
 {
 "surface": "jānīyāt",
@@ -242,7 +246,7 @@
 },
 {
 "surface": "parivrāṭ",
-"quick_gloss": "wandering-monk"
+"quick_gloss": "wandering-ascetic"
 },
 {
 "surface": "sarva",
@@ -250,7 +254,7 @@
 },
 {
 "surface": "karmasu",
-"quick_gloss": "actions"
+"quick_gloss": "+actions"
 }
 ]
 },
@@ -275,7 +279,7 @@
 },
 {
 "surface": "pātram",
-"quick_gloss": "recipient"
+"quick_gloss": "vessel"
 },
 {
 "surface": "aśnīyāt",
@@ -283,7 +287,7 @@
 },
 {
 "surface": "avicārayan",
-"quick_gloss": "without-deliberating"
+"quick_gloss": "+without-deliberating"
 }
 ]
 },
@@ -296,27 +300,27 @@
 "tokens": [
 {
 "surface": "tat",
-"quick_gloss": "those"
+"quick_gloss": "that"
 },
 {
 "surface": "tat",
-"quick_gloss": "those"
+"quick_gloss": "+that"
 },
 {
 "surface": "vastu",
-"quick_gloss": "things"
+"quick_gloss": "+thing"
 },
 {
 "surface": "sañcaya",
-"quick_gloss": "accumulation"
+"quick_gloss": "+accumulation"
 },
 {
 "surface": "abhāva",
-"quick_gloss": "absence"
+"quick_gloss": "+absence"
 },
 {
 "surface": "vān",
-"quick_gloss": "possessing"
+"quick_gloss": "+possessing"
 }
 ]
 },
@@ -349,7 +353,7 @@
 },
 {
 "surface": "saṃnyāsī",
-"quick_gloss": "renunciate"
+"quick_gloss": "renunciant"
 },
 {
 "surface": "sukhī",
@@ -374,11 +378,11 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
 "surface": "saṃnyāsī",
-"quick_gloss": "renunciate"
+"quick_gloss": "renunciant"
 },
 {
 "surface": "mokṣa",
@@ -386,7 +390,7 @@
 },
 {
 "surface": "bhāg",
-"quick_gloss": "sharer"
+"quick_gloss": "+sharer"
 },
 {
 "surface": "bhavet",
@@ -402,7 +406,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avadhūtaḥ",
+"surface": "avadhūto",
 "quick_gloss": "avadhūta"
 },
 {
@@ -414,16 +418,16 @@
 "quick_gloss": "time"
 },
 {
-"surface": "sva",
+"surface": "svecchā",
 "quick_gloss": "own-will"
 },
 {
-"surface": "icchācāra",
-"quick_gloss": "conduct"
+"surface": "ācāra",
+"quick_gloss": "+conduct"
 },
 {
 "surface": "parāyaṇaḥ",
-"quick_gloss": "devoted-to"
+"quick_gloss": "+devoted"
 }
 ]
 },
@@ -440,15 +444,15 @@
 },
 {
 "surface": "gandha",
-"quick_gloss": "with-fragrance"
+"quick_gloss": "fragrance"
 },
 {
 "surface": "puṣpa",
-"quick_gloss": "flowers"
+"quick_gloss": "+flower"
 },
 {
 "surface": "ādyaiḥ",
-"quick_gloss": "etc."
+"quick_gloss": "+etc"
 },
 {
 "surface": "nikhanet",
@@ -456,11 +460,11 @@
 },
 {
 "surface": "vā",
-"quick_gloss": "or"
+"quick_gloss": "+or"
 },
 {
 "surface": "apsu",
-"quick_gloss": "in-water"
+"quick_gloss": "+in-waters"
 },
 {
 "surface": "majjayet",
@@ -485,11 +489,11 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "O-goddess"
+"quick_gloss": "o-goddess"
 },
 {
 "surface": "pravṛttiḥ",
-"quick_gloss": "activity"
+"quick_gloss": "inclination"
 },
 {
 "surface": "karma",
@@ -497,7 +501,7 @@
 },
 {
 "surface": "saṅkule",
-"quick_gloss": "entangled"
+"quick_gloss": "+crowded"
 }
 ]
 },
@@ -514,11 +518,11 @@
 },
 {
 "surface": "tat",
-"quick_gloss": "that"
+"quick_gloss": "+that"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
 "surface": "jānantu",
@@ -530,7 +534,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
 "surface": "dṛḍha",
@@ -538,7 +542,7 @@
 },
 {
 "surface": "niścayāḥ",
-"quick_gloss": "convictions"
+"quick_gloss": "+conviction"
 }
 ]
 },
@@ -555,7 +559,7 @@
 },
 {
 "surface": "rūpaṃ",
-"quick_gloss": "and-form"
+"quick_gloss": "+form"
 },
 {
 "surface": "bahuvidhaṃ",
@@ -592,7 +596,7 @@
 },
 {
 "surface": "kalpa",
-"quick_gloss": "aeons"
+"quick_gloss": "+aeons"
 },
 {
 "surface": "karma",
@@ -608,11 +612,11 @@
 },
 {
 "surface": "mukti",
-"quick_gloss": "liberation"
+"quick_gloss": "+liberation"
 },
 {
 "surface": "bhāg",
-"quick_gloss": "sharer"
+"quick_gloss": "+sharer"
 },
 {
 "surface": "janaḥ",
@@ -633,7 +637,7 @@
 },
 {
 "surface": "nārāyaṇaṃ",
-"quick_gloss": "Nārāyaṇa"
+"quick_gloss": "+nārāyaṇa"
 },
 {
 "surface": "matvā",
@@ -645,7 +649,7 @@
 },
 {
 "surface": "taṃ",
-"quick_gloss": "him"
+"quick_gloss": "+him"
 },
 {
 "surface": "prapūjayet",
@@ -662,23 +666,23 @@
 "tokens": [
 {
 "surface": "tattva",
-"quick_gloss": "by-truth"
-},
-{
-"surface": "vicāraṇaiḥ",
-"quick_gloss": "inquiries"
-},
-{
-"surface": "brahma",
-"quick_gloss": "by-Brahman"
-},
-{
-"surface": "tattva",
 "quick_gloss": "truth"
 },
 {
+"surface": "vicāraṇaiḥ",
+"quick_gloss": "+investigations"
+},
+{
+"surface": "brahma",
+"quick_gloss": "brahman"
+},
+{
+"surface": "tattva",
+"quick_gloss": "+truth"
+},
+{
 "surface": "vivecanaiḥ",
-"quick_gloss": "discernments"
+"quick_gloss": "+discernments"
 }
 ]
 },
@@ -691,19 +695,19 @@
 "tokens": [
 {
 "surface": "jaleṣu",
-"quick_gloss": "in-waters"
+"quick_gloss": "in"
 },
 {
 "surface": "jaleṣu",
-"quick_gloss": "in-waters"
+"quick_gloss": "the"
 },
 {
 "surface": "jaleṣu",
-"quick_gloss": "in-waters"
+"quick_gloss": "waters"
 },
 {
 "surface": "jaleṣu",
-"quick_gloss": "in-waters"
+"quick_gloss": "plural-locative"
 }
 ]
 },
@@ -715,20 +719,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "karmasamūhe",
+"quick_gloss": "in"
+},
+{
+"surface": "karmasamūhe",
+"quick_gloss": "the"
+},
+{
 "surface": "karma",
-"quick_gloss": "in-action"
+"quick_gloss": "action"
 },
 {
 "surface": "samūhe",
-"quick_gloss": "multitude"
-},
-{
-"surface": "karma",
-"quick_gloss": "in-action"
-},
-{
-"surface": "samūhe",
-"quick_gloss": "multitude"
+"quick_gloss": "+multitude"
 }
 ]
 },
@@ -741,7 +745,7 @@
 "tokens": [
 {
 "surface": "anurāgavantaḥ",
-"quick_gloss": "devoted-ones"
+"quick_gloss": "devoted"
 },
 {
 "surface": "tat",
@@ -749,19 +753,23 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 },
 {
-"surface": "arcādi",
+"surface": "arcā",
 "quick_gloss": "worship"
 },
 {
+"surface": "ādi",
+"quick_gloss": "+etc"
+},
+{
 "surface": "karma",
-"quick_gloss": "action"
+"quick_gloss": "+action"
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "+indeed"
 }
 ]
 },
@@ -778,27 +786,27 @@
 },
 {
 "surface": "vrata",
-"quick_gloss": "vow"
+"quick_gloss": "+vow"
 },
 {
 "surface": "tapaḥ",
-"quick_gloss": "austerity"
+"quick_gloss": "+austerity"
 },
 {
 "surface": "dāna",
-"quick_gloss": "gift"
+"quick_gloss": "+gift"
 },
 {
 "surface": "sarva",
-"quick_gloss": "all"
+"quick_gloss": "+all"
 },
 {
 "surface": "yajña",
-"quick_gloss": "sacrifice"
+"quick_gloss": "+sacrifice"
 },
 {
 "surface": "phalaṃ",
-"quick_gloss": "fruit"
+"quick_gloss": "+fruit"
 },
 {
 "surface": "labhet",
@@ -815,7 +823,7 @@
 "tokens": [
 {
 "surface": "saṃskārān",
-"quick_gloss": "sacraments"
+"quick_gloss": "consecrations"
 },
 {
 "surface": "sarva",
@@ -823,7 +831,7 @@
 },
 {
 "surface": "varṇānāṃ",
-"quick_gloss": "classes"
+"quick_gloss": "+classes"
 },
 {
 "surface": "śṛṇuṣva",
@@ -852,11 +860,11 @@
 },
 {
 "surface": "asaṃskṛtaḥ",
-"quick_gloss": "consecrated"
+"quick_gloss": "+consecrated"
 },
 {
 "surface": "adhikārī",
-"quick_gloss": "qualified"
+"quick_gloss": "+qualified"
 },
 {
 "surface": "syāt",
@@ -876,7 +884,7 @@
 },
 {
 "surface": "karmaṇi",
-"quick_gloss": "rite"
+"quick_gloss": "in-rite"
 }
 ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[so-long](tāvat) [by-you-all](bhavadbhiḥ) [should-be-stood](sthātavyam) [thus](iti) [having-requested](prārthya) [should-bow](namet) [then](tataḥ)
+[so-long](tāvat) [by-you-all](bhavadbhiḥ) [should-be-stayed](sthātavyam) [thus](iti) [having-requested](prārthya) [should-bow](namet) [then](tataḥ)
 
 ## mukta-m0-p76-v1877
-[thrice](tridhā) [having-sprinkled-around](paryukṣya) [fire](vahnim) [and](ca) [three-times](triḥ) [having-sprinkled](prokṣya) [after-that](tadanantaram)
+[three-times](tridhā) [having-sprinkled-around](paryukṣya) [fire](vahnim) [and](ca) [three-times](triḥ) [having-sprinkled](prokṣya) [after-that](tadanantaram)
 
 ## mukta-m0-p76-v1878
-[of-the-altar](sthaṇḍilasya) [on-the-north](uttare) [darbha-grasses](darbhān) [north-pointed](udagagrān) [should-strew-around](paristaret)
+[of-altar](sthaṇḍilasya) [in-north](uttare) [kuśa-grasses](darbhān) [north-pointed](udagagrān) [should-strew-around](paristaret)
 
 ## mukta-m0-p76-v1879
-[with-water](sodakam) [sprinkling-vessel](prokṣaṇī+pātram) [ghee-vessel](ājya+sthālīm) [fuel-sticks](samit) [kuśa-grasses](kuśān)
+[with-water](sodakaṃ) [sprinkling-vessel](prokṣaṇīpātram) [ghee-vessel](ājyasthālī) [fuel-sticks](samit) [kuśa-grasses](kuśān)
 
 ## mukta-m0-p76-v1880
-[brahman-priest](brahma) [in-absence](abhāve) [being](sati) [for-sacrifice+accomplishment](yajña+siddhaye) [made-of-darbha](darbhamayam) [priest](vipram) [should-arrange](kalpayet)
+[priest+Brahmā](brahma) [in-absence](abhāve) [being](sati) [sacrifice+accomplishment](yajña+siddhaye) [kuśa-made](darbhamayaṃ) [priest](vipraṃ) [should-fashion](kalpayet)
 
 ## mukta-m0-p76-v1881
 [kuśa-grasses](kuśān) [should-spread](āstaret)
 
 ## mukta-m0-p76-v1882
-[should-place](āsādayet) [them](tāni) [says](āha) [with-water](sodakam) [thus-etc](iti+ādinā)
+[should-place](āsādayet) [those](tāni) [says](āha) [with-water](sodakam) [beginning-with](ityādinā)
 
 ## mukta-m0-p76-v1883
 [with-divine+vision](divya+dṛṣṭyā) [by-sprinkling](prokṣaṇena) [having-consecrated](saṃskṛtya) [after-that](tadanantaram)
 
 ## mukta-m0-p76-v1884
-[hrī](hrī) [to-Viṣṇu](viṣṇave) [ending-with-dviṭha](dviṭha+antena) [should-offer](pradadyāt) [oblation+triad](āhuti+trayam)
+[hrī](hrī) [to-Viṣṇu](viṣṇave) [with-dviṭha-ending](dviṭhāntena) [should-offer](pradadyāt) [oblation+triad](āhuti+trayam)
 
 ## mukta-m0-p76-v1885
-[from-the-northwest](vāyavyāt) [to-the-southeast+corner](agni+koṇa+antam) [should-offer](juhuyāt) [with-ghee+stream](ājya+dhārayā)
+[from-northwest](vāyavyāt) [to-southeast-corner](agni+koṇa+antaṃ) [should-offer](juhuyāt) [with-ghee+stream](ājya+dhārayā)
 
 ## mukta-m0-p76-v1886
-[from-the-southwest](nairṛtāt) [to-the-northeast+corner](īśa+koṇa+antam) [should-offer](juhuyāt) [with-ghee+stream](ājya+dhārayā)
+[from-southwest](nairṛtāt) [to-northeast-corner](īśa+koṇa+antaṃ) [should-offer](juhuyāt) [with-ghee+stream](ājya+dhārayā)
 
 ## mukta-m0-p76-v1887
-[Agni](agnim) [Soma](somam) [Agni-and-Soma](agnīṣomau) [having-traced](samullikhya) [in-due-order](yathākramāt)
+[Agni](agniṃ) [Soma](somaṃ) [Agni-and-Soma](agnīṣomau) [having-traced](samullikhya) [in-due-order](yathākramāt)
 
 ## mukta-m0-p76-v1888
-[with-mantra](mantreṇa) [Viṣṇu](viṣṇum) [having-addressed](uddiśya) [oblation+triad](āhuti+trayam) [should-offer](pradadyāt)
+[with-mantra](mantreṇa) [Viṣṇu](viṣṇum) [having-addressed](uddiśya) [oblation+triad](āhuti+trayaṃ) [should-offer](pradadyāt)
 
 ## mukta-m0-p76-v1889
-[corner](koṇam) [beginning-from](ārabhya) [to-the-southeast+corner](agni+koṇa+antam) [with-ghee+stream](ghṛta+dhārayā) [should-offer](juhuyāt)
+[from-corner](koṇam) [beginning](ārabhya) [to-southeast-corner](agni+koṇa+antaṃ) [with-ghee+stream](ghṛta+dhārayā) [should-offer](juhuyāt)
 
 ## mukta-m0-p76-v1890
 [should-offer](juhuyāt)
 
 ## mukta-m0-p76-v1891
-[having-offered](hutvā) [prescribed+ritual](vidheyakarma) [mentioned](uktam) [oblation](homam) [should-perform](kuryāt) [the-wise-one](vicakṣaṇaḥ)
+[having-offered](hutvā) [prescribed+ritual+stated](vidheya+karma+uktaṃ) [oblation](homaṃ) [should-perform](kuryāt) [the-wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p76-v1892
-[oblation+triad](āhuti+traya) [giving](dānāntam) [stream+oblation](dhārā+homam) [they-declare](pracakṣate)
+[oblation+triad+giving](āhuti+traya+dāna) [ending-with](antaṃ) [stream+oblation](dhārā+homaṃ) [they-declare](pracakṣate)
 
 ## mukta-m0-p76-v1893
-[having-completed](samāpya) [the-present](prakṛtam) [ritual](karma) [sviṣṭakṛt+oblation](sviṣṭakṛt+homam) [should-perform](ācaret)
+[having-completed](samāpya) [present](prakṛtaṃ) [ritual](karma) [sviṣṭakṛt+oblation](sviṣṭakṛt+homam) [should-perform](ācaret)
 
 ## mukta-m0-p76-v1894
-[with-sviṣṭakṛt](sviṣṭikṛtā) [with-vyāhṛtis](vyāhṛtibhiḥ) [expiation](prāyaścittam) [is-prescribed](vidhīyate)
+[by-sviṣṭakṛt](sviṣṭikṛtā) [with-sacred-utterances](vyāhṛtibhiḥ) [expiation](prāyaścittaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p76-v1895
-[in-this](asmin) [ritual](karmaṇi) [O-lord-of-gods](deveśa) [through-negligence](pramādāt) [or](vā) [through-error](bhramataḥ) [also](api)
+[in-this](asmin) [ritual](karmaṇi) [O-lord-of-gods](deveśa) [through-inadvertence](pramādāt) [through-error](bhramataḥ) [or](api) [even](vā)
 
 ## mukta-m0-p76-v1896
-[in-seasonal+consecration](ṛtu+saṃskārādau) [ritual](karmaṇi) [mentioned](uktam) [oblation](homam) [should-perform](kuryāt)
+[in-seasonal+consecration](ṛtu+saṃskāra) [and-so-forth](ādau) [in-ritual](karmaṇi) [prescribed](uktaṃ) [oblation](homaṃ) [should-perform](kuryāt)
 
 ## mukta-m0-p76-v1897
-[sviṣṭakṛt+oblation](sviṣṭakṛt+homam) [auspicious](śobhana) [desired+effecting](abhīṣṭa+kārakam) [oblation](homam) [should-perform](ācaret)
+[sviṣṭakṛt+oblation](sviṣṭakṛt+homaṃ) [auspicious+desired+effecting](śobhana+abhīṣṭa+kārakaṃ) [oblation](homam) [should-perform](ācaret)
 
 ## mukta-m0-p76-v1898
-[beginning-with-māyā](māyā+ādi) [with-this](enā) [by-this](amunā) [O-goddess](devi) [ending-with-svāhā](svāhā+antena) [oblation](āhutim) [should-offer](hunet)
+[beginning-with-māyā](māyā+ādyena) [by-this](amunā) [O-goddess](devi) [ending-with-svāhā](svāhā+antena) [oblation](āhutiṃ) [should-offer](hunet)
 
 ## mukta-m0-p76-v1899
-[by-this](anena) [offering](havanam) [should-perform](kuryāt) [with-māyā](māyayā) [with-fire's+consort](vahni+jāyayā)
+[by-this](anena) [offering](havanaṃ) [should-perform](kuryāt) [with-māyā](māyayā) [fire+consort](vahni+jāyayā)
 
 ## mukta-m0-p76-v1900
-[of-this-ritual](karmaṇaḥ) [of-this](asya) [O-supreme-brahman](parabrahman) [not-done](ayuktam) [and](ca) [done](vihitam) [what](yat)
+[of-ritual](karmaṇaḥ) [of-this](asya) [O-supreme-Brahman](parabrahman) [not-done](ayuktaṃ) [and](ca) [done](vihitam) [whatever](yat)

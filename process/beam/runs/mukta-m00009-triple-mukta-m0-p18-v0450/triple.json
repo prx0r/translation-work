@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "prāpnuvanti",
+     "gloss": "attain",
+     "grounds": "verb indicating attainment of the state described in prior verses",
+     "morph": "3.pl.act-pres √prāp"
+    },
+    {
+     "surface": "mahā+dhīrāḥ",
+     "gloss": "greatly-wise",
+     "grounds": "compound qualifying the practitioners by their steadfast intelligence",
+     "morph": "mahā+dhīra m.nom.pl"
+    },
+    {
+     "surface": "dhanyāḥ",
+     "gloss": "fortunate",
+     "grounds": "adjective expressing the blessed condition of those who attain",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the assertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiva+yoginaḥ",
+     "gloss": "śiva-yogins",
+     "grounds": "compound denoting practitioners united in yoga with Śiva",
+     "morph": "śiva+yogin m.nom.pl"
+    }
+   ],
+   "question": "Which practitioners are fortunate enough to attain the liberated state?",
+   "premises": [
+    "Certain practitioners are characterized as greatly wise.",
+    "These practitioners are devoted to yoga with Śiva.",
+    "Such practitioners are described as fortunate."
+   ],
+   "inference": "Therefore, the greatly wise and fortunate Śiva-yogins attain the liberated state.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the greatly wise and fortunate Śiva-yogins attain that state."
+  }
+ ]
+}
