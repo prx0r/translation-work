@@ -1,13 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 12,
- "question": "What is the intended meaning of the prescriptive injunction to worship?",
+ "question": "What meaning is assigned to a preceding injunctive form such that 'worship' stands as its sense rather than an alternative?",
  "premises": [
-  "The verb 'pūjayet' expresses an injunction.",
-  "The phrase states the meaning of that injunction.",
-  "The intended sense is that one should worship."
+  "An injunctive form precedes this clause.",
+  "That form is assigned the meaning 'worship'.",
+  "The assignment is given as 'thus the meaning'."
  ],
- "inference": "The meaning is that one should worship.",
- "uncertainties": [],
+ "inference": "The force of the preceding injunction is to be taken as an injunction to worship.",
+ "uncertainties": [
+  "The exact preceding injunctive form is not repeated in this verse alone."
+ ],
  "plain_english": "The meaning is: one should worship."
 }

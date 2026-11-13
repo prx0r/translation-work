@@ -1,15 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 3,
- "question": "Why was a certain element not indicated separately in the teaching?",
+ "question": "What justifies withholding separate indication for a given item rather than treating it as a distinct topic?",
  "premises": [
-  "Something is already included within another element.",
-  "Inclusion removes the need for separate mention.",
-  "Separate indication was therefore not made."
+  "The item is included within something already accounted for.",
+  "Inclusion provides a sufficient ground for treatment.",
+  "On that ground, separate indication is not given."
  ],
- "inference": "Because it is included within, it was not indicated separately.",
+ "inference": "Inclusion, not omission by oversight, is the reason for the absence of separate indication.",
  "uncertainties": [
-  "The specific included element is not named in this unit."
+  "The larger whole within which inclusion occurs is not named in this verse."
  ],
- "plain_english": "Because it is included within, it was not indicated separately."
+ "plain_english": "Because it is included, it has not been indicated separately."
 }

@@ -7,49 +7,51 @@
     {
      "surface": "śāstrasya",
      "gloss": "of-scripture",
-     "grounds": "genitive dependent indicating the source of what is indicated",
-     "morph": "n.gen.sg"
+     "grounds": "genitive relation to what follows",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "sūcitam",
      "gloss": "indicated",
-     "grounds": "past passive participle describing what has been pointed out",
-     "morph": "n.nom.sg.ppp √sūc"
+     "grounds": "past passive participle referring to content",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking to prior context",
+     "grounds": "connective linking clauses",
      "morph": "(indecl.)"
     },
     {
      "surface": "srotobhedaṃ",
      "gloss": "stream-difference",
-     "grounds": "compound object denoting division among scriptural streams",
-     "morph": "m.acc.sg (srotas+bheda)"
+     "grounds": "object of forthcoming demonstration",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "navamapaṭale",
-     "gloss": "in-ninth-chapter",
-     "grounds": "locative compound specifying where the demonstration occurs",
-     "morph": "m.loc.sg (navama+paṭala)"
+     "gloss": "ninth-chapter",
+     "grounds": "locative setting for demonstration",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "darśayiṣyāmaḥ",
      "gloss": "we-will-show",
-     "grounds": "future verb expressing the author's intended demonstration",
-     "morph": "1.pl.fut.act √dṛś-caus"
+     "grounds": "first-person future of demonstration",
+     "morph": "1.pl.act.fut"
     }
    ],
-   "question": "Where will the indicated difference of scriptural streams be demonstrated?",
+   "question": "On what basis can the content of scripture be said to require demonstration of a difference between streams in a later chapter?",
    "premises": [
-    "The scripture has indicated a difference of streams.",
-    "The ninth chapter is specified as the location.",
-    "The author declares an intention to show it."
+    "The scripture contains indicated content to be accounted for.",
+    "A difference between streams stands as a distinct item for demonstration.",
+    "That demonstration is assigned to the ninth chapter by the speaker."
    ],
-   "inference": "The difference of scriptural streams indicated earlier will be demonstrated in the ninth chapter.",
-   "uncertainties": [],
-   "plain_english": "And we will show in the ninth chapter the difference of streams indicated by the scripture."
+   "inference": "The speaker commits to demonstrating the difference between streams at a later point in the text.",
+   "uncertainties": [
+    "Scope of 'stream-difference' remains unspecified by this verse alone."
+   ],
+   "plain_english": "And what the scripture has indicated, namely the difference between streams, we shall show in the ninth chapter."
   },
   {
    "verse": 2,
@@ -57,207 +59,215 @@
     {
      "surface": "dadatam",
      "gloss": "giving",
-     "grounds": "present participle describing the Lord as bestowing favor",
-     "morph": "m.acc.sg.pres.part.act √dā"
+     "grounds": "present participle describing the agent",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "prasādena",
      "gloss": "by-grace",
-     "grounds": "instrumental expressing the means of bestowal",
-     "morph": "m.inst.sg"
+     "grounds": "instrumental means for speech",
+     "morph": "m.instr.sg"
     },
     {
      "surface": "antarnairmalyaprathanātmanā",
-     "gloss": "by-inner-purity-manifestation-nature",
-     "grounds": "compound instrumental qualifying the favor as manifesting inner purity",
-     "morph": "m.inst.sg (antar+nairmalya+prathana+ātman)"
+     "gloss": "inner-purity-manifest-nature",
+     "grounds": "instrumental qualifier of grace by inner nature",
+     "morph": "m.instr.sg"
     },
     {
      "surface": "anugraheṇa",
      "gloss": "by-favor",
-     "grounds": "instrumental noun specifying the gracious act",
-     "morph": "m.inst.sg"
+     "grounds": "instrumental means parallel to grace",
+     "morph": "m.instr.sg"
     },
     {
      "surface": "kathaya",
      "gloss": "speak",
-     "grounds": "imperative requesting instruction from the Lord",
-     "morph": "2.sg.imp.act √kath"
+     "grounds": "imperative addressed to one giving",
+     "morph": "2.sg.act.imp"
     }
    ],
-   "question": "How should the Lord who grants favor through inner purity be addressed?",
+   "question": "Under what conditions must speech be requested of one who gives, given the stated means of grace and favor?",
    "premises": [
-    "The Lord is described as giving through grace.",
-    "His favor has the nature of manifesting inner purity.",
-    "A request to speak is directed to him."
+    "Speech is requested of one characterized as giving.",
+    "That request is mediated by grace of an inner-purity-manifest nature.",
+    "Favor stands as a parallel instrumental means for the act of speaking."
    ],
-   "inference": "The Lord who bestows grace manifesting inner purity is petitioned to speak.",
-   "uncertainties": [],
-   "plain_english": "Speak, O Lord who gives favor by grace, whose favor has the nature of manifesting inner purity."
+   "inference": "The act of speaking is to proceed only through grace and favor, not by the speaker's unaided capacity.",
+   "uncertainties": [
+    "The identity of the addressee remains unspecified by this verse alone."
+   ],
+   "plain_english": "Speak, O giver, by grace, by favor of the nature that manifests inner purity."
   },
   {
    "verse": 3,
    "rows": [
     {
      "surface": "antarbhūtatvāt",
-     "gloss": "because-of-being-included",
-     "grounds": "ablative abstract noun giving the reason for non-separate mention",
-     "morph": "n.abl.sg (antarbhūta+tva)"
+     "gloss": "by-inclusion",
+     "grounds": "ablative of cause from being included",
+     "morph": "n.abl.sg"
     },
     {
      "surface": "pṛthaṅ",
      "gloss": "separately",
-     "grounds": "adverb indicating distinct or separate treatment",
+     "grounds": "adverb of manner denying separate treatment",
      "morph": "(indecl.)"
     },
     {
      "surface": "noddiṣṭam",
      "gloss": "not-indicated",
-     "grounds": "negated past passive participle stating omission of separate mention",
-     "morph": "n.nom.sg.ppp (na+uddiṣṭa) √diś"
+     "grounds": "negated passive participle of separate indication",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "Why was a certain element not indicated separately in the teaching?",
+   "question": "What justifies withholding separate indication for a given item rather than treating it as a distinct topic?",
    "premises": [
-    "Something is already included within another element.",
-    "Inclusion removes the need for separate mention.",
-    "Separate indication was therefore not made."
+    "The item is included within something already accounted for.",
+    "Inclusion provides a sufficient ground for treatment.",
+    "On that ground, separate indication is not given."
    ],
-   "inference": "Because it is included within, it was not indicated separately.",
+   "inference": "Inclusion, not omission by oversight, is the reason for the absence of separate indication.",
    "uncertainties": [
-    "The specific included element is not named in this unit."
+    "The larger whole within which inclusion occurs is not named in this verse."
    ],
-   "plain_english": "Because it is included within, it was not indicated separately."
+   "plain_english": "Because it is included, it has not been indicated separately."
   },
   {
    "verse": 4,
    "rows": [
     {
      "surface": "mukhyabhūtaprayojanapratipādanaparo'pi",
-     "gloss": "even-focused-on-main-purpose-explanation",
-     "grounds": "compound adjective with enclitic particle conceding primary focus on the main purpose",
-     "morph": "m.nom.sg (mukhya+bhūta+prayojana+pratipādana+para+api)"
+     "gloss": "main-purpose-explain-focused-even",
+     "grounds": "fused concessive participial compound analyzed as given; internal fusion not split",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "ādivākye",
-     "gloss": "in-initial-statement",
-     "grounds": "locative compound identifying the opening statement as context",
-     "morph": "n.loc.sg (ādi+vākya)"
+     "gloss": "initial-statement",
+     "grounds": "locative setting for the concessive clause",
+     "morph": "n.loc.sg"
     }
    ],
-   "question": "What is the primary focus of the initial statement despite other implications?",
+   "question": "How can a statement remain focused on explaining a main purpose while still allowing for a concessive qualification at the outset?",
    "premises": [
-    "The initial statement is under consideration.",
-    "Its primary orientation is explaining the main purpose.",
-    "Other implications may be present but are secondary."
+    "The initial statement is focused on explaining the main purpose.",
+    "That focus does not preclude a concessive qualification.",
+    "The qualification holds even given that primary focus."
    ],
-   "inference": "Even in the initial statement, the focus is on explaining the main purpose.",
-   "uncertainties": [],
-   "plain_english": "Even though focused on explaining the main purpose, in the initial statement."
+   "inference": "Primary purpose and concession can coexist within the same initial statement.",
+   "uncertainties": [
+    "The specific concession intended is not specified by this verse alone."
+   ],
+   "plain_english": "Even though the initial statement is focused on explaining the main purpose, a concession still holds."
   },
   {
    "verse": 5,
    "rows": [
     {
      "surface": "śivābhedavyāptisāratvasya",
-     "gloss": "of-essence-of-pervasion-of-nondifference-with-śiva",
-     "grounds": "genitive compound naming the essential nature to be shown",
-     "morph": "n.gen.sg (śiva+abheda+vyāpti+sāratva)"
+     "gloss": "non-difference-pervasion-essence",
+     "grounds": "genitive ground for the forthcoming demonstration",
+     "morph": "n.gen.sg"
     },
     {
      "surface": "darśayiṣyamāṇatvāt",
-     "gloss": "because-of-being-about-to-be-shown",
-     "grounds": "ablative abstract noun giving the reason based on future demonstration",
-     "morph": "n.abl.sg (darśayiṣyamāṇa+tva) √dṛś-caus"
+     "gloss": "by-about-to-be-shown",
+     "grounds": "ablative of cause from future demonstration",
+     "morph": "n.abl.sg"
     }
    ],
-   "question": "Why is the essence of pervasion in nondifference with Śiva being introduced?",
+   "question": "What ground requires treating the essence of non-difference and pervasion with respect to Śiva as something yet to be demonstrated?",
    "premises": [
-    "The essence of pervasion in nondifference with Śiva is identified.",
-    "This essence is about to be shown.",
-    "The impending demonstration provides the reason."
+    "The essence of non-difference and pervasion with respect to Śiva is a determinate object.",
+    "That object is marked as about to be shown.",
+    "Its future demonstration provides the ground for the present treatment."
    ],
-   "inference": "It is introduced because the essence of pervasion in nondifference with Śiva is about to be shown.",
-   "uncertainties": [],
-   "plain_english": "Because the essence of pervasion in nondifference with Śiva is about to be shown."
+   "inference": "The claim about that essence stands as a forthcoming demonstration, not as already established here.",
+   "uncertainties": [
+    "The exact scope of 'non-difference and pervasion' is not unpacked in this verse alone."
+   ],
+   "plain_english": "Because the essence of Śiva's non-difference and pervasion is about to be shown, it stands as the ground here."
   },
   {
    "verse": 6,
    "rows": [
     {
      "surface": "ityuktaprāyam",
-     "gloss": "thus-as-if-already-said",
-     "grounds": "compound adjective indicating that the point has been virtually stated",
-     "morph": "n.nom.sg (iti+ukta+prāya)"
+     "gloss": "thus-said-like",
+     "grounds": "adjectival form marking something as nearly stated",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "To what extent has the preceding point already been expressed?",
+   "question": "What is gained by treating a given statement as only nearly stated rather than as fully and explicitly stated?",
    "premises": [
-    "A point has been articulated in prior context.",
-    "The articulation is nearly complete.",
-    "It can be treated as already said."
+    "The matter stands in a form like what has been said thus.",
+    "That form falls short of a full explicit statement.",
+    "The 'nearly stated' form is sufficient for the present purpose."
    ],
-   "inference": "The point has been virtually already stated.",
+   "inference": "The text opts for a condensed, near-statement rather than a full exposition at this point.",
    "uncertainties": [
-    "The exact prior statement referred to is not specified."
+    "The referent of 'thus' is not recoverable from this single token alone."
    ],
-   "plain_english": "This has, as it were, already been said."
+   "plain_english": "This is as if it had been said thus."
   },
   {
    "verse": 7,
    "rows": [
     {
      "surface": "śiṣyasyaiva",
-     "gloss": "of-disciple-only",
-     "grounds": "genitive with emphatic particle restricting the scope to the disciple",
-     "morph": "m.gen.sg+eva"
+     "gloss": "disciple-only",
+     "grounds": "genitive with restrictive emphasis",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "bhūyasā",
      "gloss": "mostly",
-     "grounds": "instrumental adverbial indicating predominance or usual case",
-     "morph": "n.inst.sg"
+     "grounds": "adverbial qualifier of the manner",
+     "morph": "(indecl.)"
     },
     {
      "surface": "īdṛśo",
      "gloss": "such",
-     "grounds": "demonstrative adjective characterizing the kind of guru",
+     "grounds": "demonstrative qualifier of the guru",
      "morph": "m.nom.sg"
     },
     {
      "surface": "guruḥ",
      "gloss": "guru",
-     "grounds": "subject noun denoting the teacher",
+     "grounds": "subject of suggestion",
      "morph": "m.nom.sg"
     },
     {
      "surface": "bhayada",
      "gloss": "fear-giving",
-     "grounds": "compound predicate describing the guru as causing fear",
-     "morph": "m.nom.sg (bhaya+da)"
+     "grounds": "predicate qualifier describing the guru's manner",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotation marker introducing the implied sense",
+     "grounds": "quotative marker for what is suggested",
      "morph": "(indecl.)"
     },
     {
      "surface": "dhvanayati",
      "gloss": "suggests",
-     "grounds": "present verb indicating implied meaning",
-     "morph": "3.sg.pres.act √dhvan-caus"
+     "grounds": "verb of indirect indication",
+     "morph": "3.sg.act.pres"
     }
    ],
-   "question": "What implied meaning is conveyed about the guru's fearsome role toward the disciple?",
+   "question": "What claim about a guru's manner is being suggested by restricting a certain fear-giving stance to the disciple alone?",
    "premises": [
-    "The reference is restricted to the disciple.",
-    "The guru is characterized as such and fear-giving.",
-    "This characterization is presented as an implied sense."
+    "The guru of such a kind is, for the disciple alone, mostly fear-giving.",
+    "This is indicated indirectly, not by direct statement.",
+    "The restriction to the disciple marks a selective, not universal, manner."
    ],
-   "inference": "It is suggested that such a guru is mostly fear-giving for the disciple alone.",
-   "uncertainties": [],
-   "plain_english": "It suggests that such a guru is mostly fear-giving for the disciple alone."
+   "inference": "The text suggests a selective fear-giving manner of the guru directed chiefly to the disciple.",
+   "uncertainties": [
+    "The pedagogical purpose of that fear-giving manner is not stated in this verse alone."
+   ],
+   "plain_english": "Thus the guru, mostly fear-giving in such a manner, suggests this for the disciple alone."
   },
   {
    "verse": 8,
@@ -265,107 +275,107 @@
     {
      "surface": "śiṣyaśabdaḥ",
      "gloss": "disciple-word",
-     "grounds": "compound subject naming the term under analysis",
-     "morph": "m.nom.sg (śiṣya+śabda)"
+     "grounds": "subject of the morphological claim",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "arhapratyayāntaḥ",
-     "gloss": "ending-in-deserving-suffix",
-     "grounds": "compound predicate describing the word's morphological formation",
-     "morph": "m.nom.sg (arha+pratyaya+anta)"
+     "gloss": "deserving-suffix-end",
+     "grounds": "compound qualifier describing the word's ending as given",
+     "morph": "compound = member+membership"
     },
     {
      "surface": "spaṣṭam",
      "gloss": "clear",
-     "grounds": "adjectival predicate indicating obviousness",
-     "morph": "n.nom.sg"
+     "grounds": "adverbial qualifier of the claim",
+     "morph": "(indecl.)"
     },
     {
      "surface": "anyat",
      "gloss": "other",
-     "grounds": "pronoun indicating remaining matters are different or evident",
+     "grounds": "contrastive subject/term set against the above",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "What grammatical formation of the term for disciple is stated to be clear?",
+   "question": "On what morphological ground is a distinction drawn between the word for disciple and some other term?",
    "premises": [
-    "The term śiṣya is the subject of analysis.",
-    "It is described as ending in a suffix meaning deserving.",
-    "The rest is said to be clear."
+    "The word for disciple ends with a suffix of deserving.",
+    "That ending is clear on morphological grounds.",
+    "A contrast is drawn with another term."
    ],
-   "inference": "The word śiṣya clearly ends in a suffix indicating one who deserves, and the rest is clear.",
+   "inference": "The distinction between the two terms turns on the ending of the word for disciple, not on shared meaning alone.",
    "uncertainties": [
-    "The scope of 'other' is not explicitly specified."
+    "The identity of 'other' is not specified by this verse alone."
    ],
-   "plain_english": "The word 'śiṣya' ends in the suffix meaning 'deserving'; the rest is clear."
+   "plain_english": "The word for disciple ends clearly with a suffix of deserving; different is the other."
   },
   {
    "verse": 9,
    "rows": [
     {
      "surface": "śiṣyatvāt",
-     "gloss": "because-of-discipleship",
-     "grounds": "ablative abstract noun giving a reason based on the state of being a disciple",
-     "morph": "n.abl.sg (śiṣya+tva)"
+     "gloss": "by-discipleship",
+     "grounds": "ablative of cause for the implied relation",
+     "morph": "n.abl.sg"
     }
    ],
-   "question": "What reason is provided by the state of being a disciple?",
+   "question": "What relation becomes necessary by discipleship alone, such that it can serve as a ground without further specification?",
    "premises": [
-    "Discipleship is identified as a causal condition.",
-    "A reason is being supplied for a prior claim.",
-    "The state of being a disciple functions as that reason."
+    "Discipleship is posited as a determinate state.",
+    "That state provides a sufficient causal ground here.",
+    "The consequence follows by that ground alone."
    ],
-   "inference": "The reason given is the state of being a disciple.",
+   "inference": "Discipleship functions as a self-sufficient ground for the relation in question.",
    "uncertainties": [
-    "The specific claim this reason supports is not stated in this unit."
+    "The specific consequence of discipleship is not stated in this single token alone."
    ],
-   "plain_english": "Because of being a disciple."
+   "plain_english": "By reason of discipleship."
   },
   {
    "verse": 10,
    "rows": [
     {
      "surface": "ālajālaprāyā",
-     "gloss": "mostly-foolish-talk",
-     "grounds": "compound predicate characterizing the writings as largely nonsensical",
-     "morph": "f.nom.pl (ālajāla+prāya)"
+     "gloss": "foolish-mostly",
+     "grounds": "qualifier of those written",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "likhitāḥ",
      "gloss": "written",
-     "grounds": "past passive participle describing the texts as composed or written down",
-     "morph": "f.nom.pl.ppp √likh"
+     "grounds": "past passive participle describing the subjects",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "tāḥ",
      "gloss": "those",
-     "grounds": "demonstrative pronoun referring to specific writings",
+     "grounds": "anaphoric reference to a class",
      "morph": "f.nom.pl"
     },
     {
      "surface": "upahāsyā",
      "gloss": "laughable",
-     "grounds": "gerundive adjective expressing that they deserve ridicule",
-     "morph": "f.nom.pl.gerundive √has+upa"
+     "grounds": "predicate of evaluation",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle strengthening the judgment",
+     "grounds": "emphatic restriction",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What judgment is passed on those writings characterized as mostly foolish talk?",
+   "question": "What criterion justifies evaluating a written class as laughable rather than as authoritative?",
    "premises": [
-    "Certain writings are identified as mostly foolish talk.",
-    "These writings have been written down.",
-    "They are judged to be worthy of ridicule."
+    "There is a class that is written down.",
+    "That class is mostly of a foolish kind.",
+    "On that criterion, it is indeed laughable."
    ],
-   "inference": "Those writings, being mostly foolish talk, are indeed laughable.",
+   "inference": "The evaluation turns on the character of that class, not on the fact of being written alone.",
    "uncertainties": [
-    "The specific writings referred to are not identified."
+    "The corpus to which 'those written' refers is not identified in this verse alone."
    ],
-   "plain_english": "Those writings, mostly foolish talk, are indeed laughable."
+   "plain_english": "Those written ones, mostly foolish, are indeed laughable."
   },
   {
    "verse": 11,
@@ -373,25 +383,25 @@
     {
      "surface": "vidhāyakam",
      "gloss": "authoritative",
-     "grounds": "adjective indicating injunctive or prescriptive force",
+     "grounds": "predicate attributing authoritativeness",
      "morph": "n.nom.sg"
     },
     {
      "surface": "vidhivākyāntarasyābhāvāt",
-     "gloss": "because-of-absence-of-other-injunctive-statement",
-     "grounds": "ablative compound giving the reason due to lack of another prescriptive statement",
-     "morph": "m.abl.sg (vidhi+vākya+antara+abhāva)"
+     "gloss": "other-injunctive-statement-absence",
+     "grounds": "ablative of cause from absence",
+     "morph": "n.abl.sg"
     }
    ],
-   "question": "Why is a statement taken as authoritative in the absence of alternatives?",
+   "question": "What ground establishes a given statement as authoritative when no other injunctive statement stands to compete with it?",
    "premises": [
-    "A statement is considered authoritative.",
-    "No other injunctive statement is present.",
-    "The absence of alternatives supports its authority."
+    "Authoritativeness is attributed to that statement.",
+    "There is an absence of another injunctive statement.",
+    "That absence provides the ground for its authoritativeness."
    ],
-   "inference": "It is authoritative because there is no other injunctive statement.",
+   "inference": "In the absence of a competing injunctive statement, the given statement stands as authoritative.",
    "uncertainties": [
-    "The specific statement deemed authoritative is not named."
+    "The scope of 'injunctive statement' is not delimited by this verse alone."
    ],
    "plain_english": "It is authoritative because there is no other injunctive statement."
   },
@@ -400,25 +410,27 @@
    "rows": [
     {
      "surface": "pūjayet",
-     "gloss": "one-should-worship",
-     "grounds": "optative verb expressing a prescriptive injunction",
-     "morph": "3.sg.opt.act √pūj"
+     "gloss": "worship",
+     "grounds": "optative verb of injunction",
+     "morph": "3.sg.act.opt"
     },
     {
      "surface": "ityarthaḥ",
      "gloss": "thus-meaning",
-     "grounds": "compound noun stating the intended sense of the injunction",
-     "morph": "m.nom.sg (iti+artha)"
+     "grounds": "nominal form giving the meaning of the preceding",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "What is the intended meaning of the prescriptive injunction to worship?",
+   "question": "What meaning is assigned to a preceding injunctive form such that 'worship' stands as its sense rather than an alternative?",
    "premises": [
-    "The verb 'pūjayet' expresses an injunction.",
-    "The phrase states the meaning of that injunction.",
-    "The intended sense is that one should worship."
+    "An injunctive form precedes this clause.",
+    "That form is assigned the meaning 'worship'.",
+    "The assignment is given as 'thus the meaning'."
    ],
-   "inference": "The meaning is that one should worship.",
-   "uncertainties": [],
+   "inference": "The force of the preceding injunction is to be taken as an injunction to worship.",
+   "uncertainties": [
+    "The exact preceding injunctive form is not repeated in this verse alone."
+   ],
    "plain_english": "The meaning is: one should worship."
   }
  ]

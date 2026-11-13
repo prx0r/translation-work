@@ -1,13 +1,15 @@
 {
  "song": "sva-p01",
  "verse": 7,
- "question": "What implied meaning is conveyed about the guru's fearsome role toward the disciple?",
+ "question": "What claim about a guru's manner is being suggested by restricting a certain fear-giving stance to the disciple alone?",
  "premises": [
-  "The reference is restricted to the disciple.",
-  "The guru is characterized as such and fear-giving.",
-  "This characterization is presented as an implied sense."
+  "The guru of such a kind is, for the disciple alone, mostly fear-giving.",
+  "This is indicated indirectly, not by direct statement.",
+  "The restriction to the disciple marks a selective, not universal, manner."
  ],
- "inference": "It is suggested that such a guru is mostly fear-giving for the disciple alone.",
- "uncertainties": [],
- "plain_english": "It suggests that such a guru is mostly fear-giving for the disciple alone."
+ "inference": "The text suggests a selective fear-giving manner of the guru directed chiefly to the disciple.",
+ "uncertainties": [
+  "The pedagogical purpose of that fear-giving manner is not stated in this verse alone."
+ ],
+ "plain_english": "Thus the guru, mostly fear-giving in such a manner, suggests this for the disciple alone."
 }
