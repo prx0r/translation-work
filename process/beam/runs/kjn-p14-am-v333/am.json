@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 333,
- "question": "What wonderful and great wonder-causing teaching is the goddess asked to hear?",
+ "question": "What wonderful and great wonder-causing thing is the goddess asked to hear?",
  "premises": [
   "the goddess is addressed",
-  "the teaching is wonderful and wonder-causing"
+  "she is told to hear",
+  "the object is wonderful and wonder-causing"
  ],
- "inference": "a remarkable doctrine is about to be revealed",
+ "inference": "The verse introduces a marvelous teaching to be heard.",
  "uncertainties": [
-  "fused pronoun parsing"
+  "fused token tvamadbhutaṃ"
  ],
- "plain_english": "Hear, O goddess, this wonderful teaching that causes great wonder."
+ "plain_english": "Hear, O goddess, this wonderful thing that causes great wonder."
 }

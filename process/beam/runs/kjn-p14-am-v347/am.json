@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 347,
- "question": "What trembling and shaking marks the second stage?",
+ "question": "What trembling and shaking occur as first and second effects?",
  "premises": [
-  "first trembling occurs",
-  "second shaking follows"
+  "first trembling comes",
+  "shaking is second",
+  "sequence is stated"
  ],
- "inference": "stages are marked by bodily movements",
+ "inference": "The verse lists trembling first and shaking second.",
  "uncertainties": [
-  "exact practice context"
+  "exact grammatical relation"
  ],
- "plain_english": "First trembling comes, then shaking marks the second stage."
+ "plain_english": "First trembling comes, and shaking is the second."
 }

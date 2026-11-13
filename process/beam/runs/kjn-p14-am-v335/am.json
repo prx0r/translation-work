@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 335,
- "question": "What kind of person lacks both kula devotion and guru devotion?",
+ "question": "What kind of person is devoid of kula devotion and deprived of guru devotion?",
  "premises": [
   "kula devotion is absent",
-  "guru devotion is absent"
+  "guru devotion is absent",
+  "the condition is emphatic"
  ],
- "inference": "such a person is spiritually deprived",
+ "inference": "The verse describes someone lacking both kula and guru devotion.",
  "uncertainties": [
-  "exact subject"
+  "missing main predicate"
  ],
- "plain_english": "One devoid of kula devotion and deprived of guru devotion is described."
+ "plain_english": "Indeed, one devoid of kula devotion and deprived of guru devotion is described."
 }

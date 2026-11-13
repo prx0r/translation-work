@@ -1,14 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 343,
- "question": "Whose accumulation cannot buy an ocean filled with jewels?",
+ "question": "Whose accumulation is like buying an ocean filled with jewels?",
  "premises": [
-  "an ocean filled with jewels is mentioned",
-  "accumulation is insufficient"
+  "ocean filled with jewels is image",
+  "accumulation belongs to someone",
+  "the image suggests vast value"
  ],
- "inference": "wealth cannot purchase such a thing",
+ "inference": "The verse compares someone's accumulation to an ocean full of jewels.",
  "uncertainties": [
-  "fused verb parsing"
+  "infinitive parsing"
  ],
- "plain_english": "No accumulation of his can buy an ocean filled with jewels."
+ "plain_english": "His accumulation is like buying an ocean filled with jewels."
 }
