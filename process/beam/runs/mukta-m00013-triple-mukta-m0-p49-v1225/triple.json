@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "nṛtyanti",
+     "gloss": "dance",
+     "grounds": "finite verb describing the action of the yoginis",
+     "morph": "3.pl.pres.act √nṛt"
+    },
+    {
+     "surface": "sarva+yoginyaḥ",
+     "gloss": "all-yoginis",
+     "grounds": "compound subject denoting the group performing the action",
+     "morph": "compound: sarva+f.nom.pl"
+    },
+    {
+     "surface": "prītāḥ",
+     "gloss": "pleased",
+     "grounds": "describes the state of the yoginis as they act",
+     "morph": "f.nom.pl √prī"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "accomplishment",
+     "grounds": "object of the bestowal",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadati",
+     "gloss": "they-give",
+     "grounds": "finite verb indicating the granting of accomplishment",
+     "morph": "3.pl.pres.act √dā"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds the granting of accomplishment to the dancing",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What benefits do pleased yoginis manifest in response to the ritual act?",
+   "premises": [
+    "All yoginis dance when they are pleased.",
+    "Pleased yoginis also bestow accomplishment.",
+    "Their joyful response accompanies the ritual context."
+   ],
+   "inference": "The pleasure of the yoginis results in both their dance and the granting of accomplishment.",
+   "uncertainties": [],
+   "plain_english": "All the yoginis dance, pleased, and also bestow accomplishment."
+  }
+ ]
+}

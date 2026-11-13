@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1104,
- "question": "What identity and status does this goddess hold in the eastern tradition?",
+ "question": "What identity and status are assigned to this goddess in the eastern tradition?",
  "premises": [
-  "This goddess is identified as the power of Rudra.",
-  "In the eastern tradition she is declared the principal heroine."
+  "This goddess is identified as Rudra's power.",
+  "The eastern tradition is the locus of this identification.",
+  "She holds the status of leading goddess there."
  ],
- "inference": "Therefore this goddess is Rudra's power and the leading goddess of the eastern tradition.",
- "uncertainties": [],
- "plain_english": "This goddess is the power of Rudra and indeed the leading goddess in the eastern tradition."
+ "inference": "This goddess is Rudra's power and indeed the leading goddess in the eastern tradition.",
+ "uncertainties": [
+  "The specific eastern tradition (pūrva-āmnāya) is not further identified."
+ ],
+ "plain_english": "This goddess is the power of Rudra and is indeed the leading goddess in the eastern tradition."
 }

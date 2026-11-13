@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1112,
- "question": "How is the preceding mantra formulation identified in this concluding statement?",
+ "question": "How is the preceding formulation identified in this concluding statement?",
  "premises": [
-  "The demonstrative eṣā refers to what has just been presented.",
-  "It is identified as bhāṣā."
+  "A formulation has been presented.",
+  "This demonstrative refers to that formulation.",
+  "The formulation is identified as such."
  ],
- "inference": "Therefore the preceding material is identified as this formulation.",
+ "inference": "The preceding material is identified as this formulation.",
  "uncertainties": [
-  "The precise sense of bhāṣā here, whether speech, explanation, or specific mantra form, is context-dependent."
+  "Whether bhāṣā means speech, explanation, or a specific technical formulation is context-dependent."
  ],
  "plain_english": "This is the formulation."
 }

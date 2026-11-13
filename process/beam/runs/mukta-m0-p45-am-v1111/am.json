@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1111,
- "question": "What syllable count results when the haṃsa seed is joined at the end of all parts?",
+ "question": "What syllabic count results when the haṃsa seed is joined at the end of all parts?",
  "premises": [
   "The haṃsa seed is joined at the end of all parts.",
-  "The resulting form is stated to become twenty-syllabled."
+  "A resulting syllable count is specified.",
+  "The result is stated conditionally as then occurring."
  ],
- "inference": "Therefore joining the haṃsa seed at the end of all parts yields a twenty-syllabled form.",
- "uncertainties": [],
+ "inference": "When joined with the haṃsa seed at the end of all, it becomes twenty-syllabled.",
+ "uncertainties": [
+  "The referent of sarva-ante (all parts or all peaks) is not fully explicit."
+ ],
  "plain_english": "When joined with the haṃsa seed at the end of all, it then becomes twenty-syllabled."
 }
