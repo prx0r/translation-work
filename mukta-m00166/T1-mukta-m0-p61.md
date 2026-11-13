@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p61-v1501
-[lower](avara) [+class](varṇa) [+born](jā) [born-of-lower-class](avaravarṇajā)
+[lower](avara)+[higher](vara)+[class](varṇa)+[born](jā)
 
 ## mukta-m0-p61-v1502
-[inquiry](vicāra) [+delight](ruci) [+having-locks](rālakās) [+indeed](tu) [+lower](avara) [+class](varṇa) [+born](jā) [for-us](naḥ) [for-prosperity](śriye)
+[reflection](vicāra)+[delight](ruci)+[having-locks](rālakās)+[and](tu)+[lower+higher+class+born](avara+vara+varṇa+jā) [for-us](naḥ) [for-prosperity](śriye)
 
 ## mukta-m0-p61-v1503
-[veda](veda) [+path](mārga) [+devoted](ratā) [devoted-to-veda-path](vedamārgaratā)
+[sacred-knowledge](veda)+[path](mārga)+[devoted](rata)+[feminine](ā)
 
 ## mukta-m0-p61-v1504
-[oh](aho) [she](sā) [+also](api) [herself](svayaṃ) [goddess](devī) [veda](veda) [+path](mārga) [+devoted](ratā) [supreme](parā)
+[oh](aho) [she](sā)+[also](api) [herself](svayaṃ) [goddess](devī) [sacred-knowledge+path+devoted](veda+mārga+ratā) [supreme](parā)
 
 ## mukta-m0-p61-v1505
-[sacrifice](yaj) [+ñ](ñ) [+ā](ā) [sacrifices](yajñā)
+[sacrifices](yajñāḥ)
 
 ## mukta-m0-p61-v1506
-[they-go](gacchanti) [to-success](siddhiṃ) [auspiciousness](śiva) [+giving](dās) [+indeed](tu) [sacrifices](yajñā)
+[they-go](gacchanti) [to-success](siddhiṃ) [Śiva-giving](śiva+dās)+[indeed](tu) [sacrifices](yajñāḥ)
 
 ## mukta-m0-p61-v1507
-[veda](veda) [+universe](viśva) [+illuminating](vibhāvinī) [illuminating-veda-and-universe](vedaviśvavibhāvinī)
+[sacred-knowledge](veda)+[universe](viśva)+[illuminating](vibhāvinī)
 
 ## mukta-m0-p61-v1508
-[by-whom](yayā) [illuminated](vibhāvitaḥ) [she](sā) [+this](iyaṃ) [veda](veda) [+universe](viśva) [+illuminating](vibhāvinī)
+[by-whom](yayā) [illuminated](vibhāvitaḥ) [she](sā)+[this](iyaṃ) [sacred-knowledge+universe+illuminating](veda+viśva+vibhāvinī)
 
 ## mukta-m0-p61-v1509
-[weapon](astra) [+missile](śastra) [+consisting-of](mayī) [knowledge](vidyā)
+[missile](astra)+[weapon](śastra)+[consisting-of](mayī) [knowledge](vidyā)
 
 ## mukta-m0-p61-v1510
-[weapon](astra) [+missile](śastra) [+consisting-of](mayī) [knowledge](vidyā) [not](na) [by-them](tais) [+if](cet) [be](syād) [subdued](vaśīkṛtā)
+[missile+weapon+consisting-of](astra+śastra+mayī) [knowledge](vidyā) [not](na) [by-them](taiḥ)+[if](cet) [would-be](syāt) [subdued](vaśīkṛtā)
 
 ## mukta-m0-p61-v1511
-[boon](vara) [+missile](śastra) [+weapon](astra) [+bearing](dhāriṇī)
+[boon](vara)+[weapon](śastra)+[missile](astra)+[bearing](dhāriṇī)
 
 ## mukta-m0-p61-v1512
-[bliss](ānanda) [+causing](kāriṇī) [+supreme-lady](īśānī) [boon](vara) [+missile](śastra) [+weapon](astra) [+bearing](dhāriṇī)
+[bliss-causing](ānanda+kāriṇī)+[supreme-lady](īśānī) [boon+weapon+missile+bearing](vara+śastra+astra+dhāriṇī)
 
 ## mukta-m0-p61-v1513
-[good](su) [+intellect](medhāḥ) [of-good-intellect](sumedhāḥ) [wise](sumedhāḥ)
+[of-good-intellect](sumedhāḥ)
 
 ## mukta-m0-p61-v1514
-[she](sā) [to-me](me) [helper](sahāyā) [+let-be](astu) [always](sadā) [good](su) [+intellect](medhāḥ)
+[she](sā) [to-me](me) [helper](sahāyā)+[be](astu) [always](sadā) [of-good-intellect](sumedhāḥ)
 
 ## mukta-m0-p61-v1515
-[true](satya) [+intellect](medhā) [of-true-intellect](satyamedhā) [wise](satyamedhā)
+[of-true-intellect](satya+medhā)
 
 ## mukta-m0-p61-v1516
-[gone](gatā) [always](sadā) [+even](api) [+is](asti) [indeed](hi) [true](satya) [+intellect](medhā)
+[gone](gatā) [always](sadā)+[even](api)+[exists](asti) [indeed](hi) [of-true-intellect](satya+medhā)
 
 ## mukta-m0-p61-v1517
-[auspicious](bhadra) [+Kālī](kālī) [auspicious-Kālī](bhadrakālī) [goddess](bhadrakālī)
+[auspicious-Kālī](bhadra+kālī)
 
 ## mukta-m0-p61-v1518
-[of-devotees](bhaktānāṃ) [she](sā) [be](bhavatu) [of-prosperous](bhavināṃ) [auspicious](bhadra) [+Kālī](kālī) [for-prosperity](śriye) [of-you](vaḥ)
+[of-devotees](bhaktānāṃ) [she](sā) [may-be](bhavatu) [of-the-prosperous](bhavināṃ) [auspicious-Kālī](bhadra+kālī) [for-prosperity](śriye) [of-you](vaḥ)
 
 ## mukta-m0-p61-v1519
-[un](a) [+conquered](parājitā) [unconquered](aparājitā) [invincible](aparājitā)
+[unconquered](aparājitā)
 
 ## mukta-m0-p61-v1520
-[Śakra](śakro) [victorious](jiṣṇuḥ) [+and](ca) [world](lokaṃ) [she](sā) [for-welfare](hitāya) [+let-be](astu) [unconquered](aparājitā)
+[Śakra](śakraḥ) [victorious](jiṣṇuḥ)+[and](ca) [world](lokaṃ) [she](sā) [for-welfare](hitāya)+[be](astu)+[unconquered](aparājitā)
 
 ## mukta-m0-p61-v1521
-[Gāyatrī](gā) [+ya](ya) [+trī](trī) [Gāyatrī](gāyatrī)
+[Gāyatrī](gāyatrī)
 
 ## mukta-m0-p61-v1522
-[Gāyatrī](gāyatrī) [not](na) [and](ca) [by-whom](kena) [by-whom](kena) [always](satataṃ) [who](ke) [who](ke) [not](na) [or](vā) [+worship](arcanti) [him](tam)
+[Gāyatrī](gāyatrī) [not](na) [and](ca) [by-whom](kena) [by-whom](kena) [always](satataṃ) [who](ke) [who](ke) [not](na) [or](vā)+[worship](arcanti) [him](tam)
 
 ## mukta-m0-p61-v1523
-[good](sat) [+action](kṛtiḥ) [of-good-action](satkṛtiḥ) [virtuous](satkṛtiḥ)
+[of-good-action](sat+kṛtiḥ)
 
 ## mukta-m0-p61-v1524
-[Rudrahood](rudratvam) [+wondrous](adbhuta) [+art](kalāṃ) [of-Hari](haritāṃ) [own-state](svatāṃ) [or](vā)
+[Rudra-hood](rudra+tvam)+[wondrous-art](adbhuta+kalāṃ) [of-the-tawny-ones](haritāṃ) [own-state](sva+tāṃ) [or](vā)
 
 ## mukta-m0-p61-v1525
-[twilight](san) [+dhy](dhy) [+ā](ā) [twilight](sandhyā)
+[twilight](sandhyā)

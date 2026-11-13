@@ -7,8 +7,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛ+mānyā",
-"quick_gloss": "man-honored"
+"surface": "nṛmānyā",
+"quick_gloss": "honored-by-men"
 },
 {
 "surface": "prasannā",
@@ -19,8 +19,12 @@
 "quick_gloss": "auspicious"
 },
 {
-"surface": "hṛn+niṣaṇṇā",
-"quick_gloss": "heart-seated"
+"surface": "hṛn+",
+"quick_gloss": "heart"
+},
+{
+"surface": "niṣaṇṇā",
+"quick_gloss": "seated"
 }
 ]
 },
@@ -32,20 +36,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛpa+nandinī",
-"quick_gloss": "king-daughter"
+"surface": "nṛpa+",
+"quick_gloss": "king"
 },
 {
-"surface": "nṛpanandinī",
-"quick_gloss": "princess"
-},
-{
-"surface": "nṛpanandinī",
-"quick_gloss": "royal-maiden"
-},
-{
-"surface": "nṛpanandinī",
-"quick_gloss": "king's-child"
+"surface": "nandinī",
+"quick_gloss": "daughter"
 }
 ]
 },
@@ -57,16 +53,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yat+cittayā",
-"quick_gloss": "by-which-mind"
+"surface": "yat+",
+"quick_gloss": "by-whose-thought"
 },
 {
-"surface": "ātā",
-"quick_gloss": "obtained"
+"surface": "citta+",
+"quick_gloss": "gone"
 },
 {
-"surface": "nṛpa+nandinī",
-"quick_gloss": "king-daughter"
+"surface": "yātā",
+"quick_gloss": "attained"
+},
+{
+"surface": "nṛpa+",
+"quick_gloss": "king"
+},
+{
+"surface": "nandinī",
+"quick_gloss": "daughter"
 },
 {
 "surface": "tvam",
@@ -82,20 +86,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nṛpa+dharma+mayī",
-"quick_gloss": "king-duty-consisting-of"
+"surface": "nṛpa+",
+"quick_gloss": "king"
 },
 {
-"surface": "nṛpadharmamayī",
-"quick_gloss": "royal-law-embodied"
+"surface": "dharma+",
+"quick_gloss": "dharma"
 },
 {
-"surface": "nṛpadharmamayī",
-"quick_gloss": "sovereign-dharma-full"
-},
-{
-"surface": "nṛpadharmamayī",
-"quick_gloss": "ruler's-duty-made"
+"surface": "mayī",
+"quick_gloss": "consisting-of"
 }
 ]
 },
@@ -111,16 +111,28 @@
 "quick_gloss": "always"
 },
 {
-"surface": "sukha+mayī",
-"quick_gloss": "bliss-full"
+"surface": "sukha+",
+"quick_gloss": "bliss"
+},
+{
+"surface": "mayī",
+"quick_gloss": "full"
 },
 {
 "surface": "jīyāt",
 "quick_gloss": "may-she-be-victorious"
 },
 {
-"surface": "nṛpa+dharma+mayī",
-"quick_gloss": "king-duty-consisting-of"
+"surface": "nṛpa+",
+"quick_gloss": "king"
+},
+{
+"surface": "dharma+",
+"quick_gloss": "dharma"
+},
+{
+"surface": "mayī",
+"quick_gloss": "consisting-of"
 },
 {
 "surface": "śivā",
@@ -137,19 +149,7 @@
 "tokens": [
 {
 "surface": "dhanyā",
-"quick_gloss": "fortunate"
-},
-{
-"surface": "dhanyā",
 "quick_gloss": "blessed"
-},
-{
-"surface": "dhanyā",
-"quick_gloss": "praiseworthy"
-},
-{
-"surface": "dhanyā",
-"quick_gloss": "happy"
 }
 ]
 },
@@ -161,15 +161,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhanyā+arcitā",
-"quick_gloss": "fortunate-worshipped"
+"surface": "dhanyā",
+"quick_gloss": "blessed"
+},
+{
+"surface": "arcitā",
+"quick_gloss": "worshipped"
 },
 {
 "surface": "yena",
 "quick_gloss": "by-whom"
 },
 {
-"surface": "mahā+īśvarī",
+"surface": "maheśvarī",
 "quick_gloss": "great-goddess"
 },
 {
@@ -186,20 +190,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhana+dhānya+vivarddhinī",
-"quick_gloss": "wealth-grain-increasing"
+"surface": "dhana+",
+"quick_gloss": "wealth"
 },
 {
-"surface": "dhanadhānyavivarddhinī",
-"quick_gloss": "riches-food-augmenting"
+"surface": "dhānya+",
+"quick_gloss": "grain"
 },
 {
-"surface": "dhanadhānyavivarddhinī",
-"quick_gloss": "prosperity-nourishment-growing"
-},
-{
-"surface": "dhanadhānyavivarddhinī",
-"quick_gloss": "fortune-harvest-enhancing"
+"surface": "vivarddhinī",
+"quick_gloss": "increasing"
 }
 ]
 },
@@ -223,8 +223,16 @@
 "quick_gloss": "by-whom"
 },
 {
-"surface": "dhana+dhānya+vivarddhinī",
-"quick_gloss": "wealth-grain-increasing"
+"surface": "dhana+",
+"quick_gloss": "wealth"
+},
+{
+"surface": "dhānya+",
+"quick_gloss": "grain"
+},
+{
+"surface": "vivardhinī",
+"quick_gloss": "increasing"
 }
 ]
 },
@@ -236,20 +244,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "catur+varṇa+mayī",
-"quick_gloss": "four-class-consisting-of"
+"surface": "catur+",
+"quick_gloss": "four"
+},
+{
+"surface": "varṇa+",
+"quick_gloss": "class"
+},
+{
+"surface": "mayī",
+"quick_gloss": "consisting-of"
 },
 {
 "surface": "mūrtiḥ",
 "quick_gloss": "form"
-},
-{
-"surface": "caturvarṇamayī",
-"quick_gloss": "fourfold-embodied"
-},
-{
-"surface": "mūrtiḥ",
-"quick_gloss": "shape"
 }
 ]
 },
@@ -261,8 +269,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "catur+varṇa+mayī",
-"quick_gloss": "four-class-consisting-of"
+"surface": "catur+",
+"quick_gloss": "four"
+},
+{
+"surface": "varṇa+",
+"quick_gloss": "class"
+},
+{
+"surface": "mayī",
+"quick_gloss": "consisting-of"
 },
 {
 "surface": "mūrtiḥ",
@@ -294,8 +310,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "catur+varṇaiḥ",
-"quick_gloss": "by-four-classes"
+"surface": "catur+",
+"quick_gloss": "four"
+},
+{
+"surface": "varṇaiḥ",
+"quick_gloss": "classes"
 },
 {
 "surface": "ca",
@@ -304,10 +324,6 @@
 {
 "surface": "pūjitā",
 "quick_gloss": "worshipped"
-},
-{
-"surface": "pūjitā",
-"quick_gloss": "honored"
 }
 ]
 },
@@ -319,8 +335,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyāpāra+ādyaiḥ",
-"quick_gloss": "by-occupations-etc."
+"surface": "vyāpāra+",
+"quick_gloss": "occupations"
+},
+{
+"surface": "ādyaiḥ",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "ca",
@@ -328,11 +348,15 @@
 },
 {
 "surface": "sevābhiḥ",
-"quick_gloss": "by-services"
+"quick_gloss": "services"
 },
 {
-"surface": "catur+varṇaiḥ",
-"quick_gloss": "by-four-classes"
+"surface": "catur+",
+"quick_gloss": "four"
+},
+{
+"surface": "varṇaiḥ",
+"quick_gloss": "classes"
 },
 {
 "surface": "ca",
@@ -352,20 +376,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+dharma+mayī",
-"quick_gloss": "all-dharma-consisting-of"
+"surface": "sarva+",
+"quick_gloss": "all"
+},
+{
+"surface": "dharma+",
+"quick_gloss": "dharma"
+},
+{
+"surface": "mayī",
+"quick_gloss": "consisting-of"
 },
 {
 "surface": "siddhiḥ",
 "quick_gloss": "accomplishment"
-},
-{
-"surface": "sarvadharmamayī",
-"quick_gloss": "universal-law-embodied"
-},
-{
-"surface": "siddhiḥ",
-"quick_gloss": "fulfillment"
 }
 ]
 },
@@ -377,8 +401,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+dharma+mayī",
-"quick_gloss": "all-dharma-consisting-of"
+"surface": "sarva+",
+"quick_gloss": "all"
+},
+{
+"surface": "dharma+",
+"quick_gloss": "dharma"
+},
+{
+"surface": "mayī",
+"quick_gloss": "consisting-of"
 },
 {
 "surface": "siddhiḥ",
@@ -389,8 +421,16 @@
 "quick_gloss": "may-be"
 },
 {
-"surface": "nāma+artha+kāriṇī",
-"quick_gloss": "name-meaning-fulfilling"
+"surface": "nāma+",
+"quick_gloss": "name"
+},
+{
+"surface": "artha+",
+"quick_gloss": "meaning"
+},
+{
+"surface": "kāriṇī",
+"quick_gloss": "fulfilling"
 }
 ]
 },
@@ -402,20 +442,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "catur+āśrama+vāsinī",
-"quick_gloss": "four-stages-dwelling"
+"surface": "catur+",
+"quick_gloss": "four"
 },
 {
-"surface": "caturāśramavāsinī",
-"quick_gloss": "four-orders-residing"
+"surface": "āśrama+",
+"quick_gloss": "stages-of-life"
 },
 {
-"surface": "caturāśramavāsinī",
-"quick_gloss": "four-stations-inhabiting"
-},
-{
-"surface": "caturāśramavāsinī",
-"quick_gloss": "four-ashramas-abiding"
+"surface": "vāsinī",
+"quick_gloss": "dwelling-in"
 }
 ]
 },
@@ -439,8 +475,16 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "catur+āśrama+vāsinī",
-"quick_gloss": "four-stages-dwelling"
+"surface": "catur+",
+"quick_gloss": "four"
+},
+{
+"surface": "āśrama+",
+"quick_gloss": "stages-of-life"
+},
+{
+"surface": "vāsinī",
+"quick_gloss": "dwelling-in"
 }
 ]
 },
@@ -454,18 +498,6 @@
 {
 "surface": "brāhmaṇī",
 "quick_gloss": "brahmin-woman"
-},
-{
-"surface": "brāhmaṇī",
-"quick_gloss": "priestess"
-},
-{
-"surface": "brāhmaṇī",
-"quick_gloss": "brahmana-female"
-},
-{
-"surface": "brāhmaṇī",
-"quick_gloss": "sacred-one"
 }
 ]
 },
@@ -489,8 +521,12 @@
 "quick_gloss": "brahmin-woman"
 },
 {
-"surface": "sarva+pūjyā",
-"quick_gloss": "by-all-worshipped"
+"surface": "sarva+",
+"quick_gloss": "by-all"
+},
+{
+"surface": "pūjyā",
+"quick_gloss": "worshipped"
 }
 ]
 },
@@ -503,19 +539,7 @@
 "tokens": [
 {
 "surface": "kṣatriyā",
-"quick_gloss": "warrior-woman"
-},
-{
-"surface": "kṣatriyā",
-"quick_gloss": "kshatriya-female"
-},
-{
-"surface": "kṣatriyā",
-"quick_gloss": "royal-warrior"
-},
-{
-"surface": "kṣatriyā",
-"quick_gloss": "protector"
+"quick_gloss": "kshatriya-woman"
 }
 ]
 },
@@ -532,7 +556,7 @@
 },
 {
 "surface": "kṣatriyā",
-"quick_gloss": "warrior-woman"
+"quick_gloss": "kshatriya-woman"
 },
 {
 "surface": "pātu",
@@ -557,19 +581,7 @@
 "tokens": [
 {
 "surface": "vaiśyā",
-"quick_gloss": "merchant-woman"
-},
-{
-"surface": "vaiśyā",
-"quick_gloss": "vaishya-female"
-},
-{
-"surface": "vaiśyā",
-"quick_gloss": "trader"
-},
-{
-"surface": "vaiśyā",
-"quick_gloss": "commoner-woman"
+"quick_gloss": "vaishya-woman"
 }
 ]
 },
@@ -582,14 +594,14 @@
 "tokens": [
 {
 "surface": "vaiśyā",
-"quick_gloss": "merchant-woman"
+"quick_gloss": "vaishya-woman"
 },
 {
 "surface": "avaśyaṃ",
 "quick_gloss": "certainly"
 },
 {
-"surface": "mahā+īśānī",
+"surface": "maheśānī",
 "quick_gloss": "great-goddess"
 },
 {
@@ -598,7 +610,7 @@
 },
 {
 "surface": "bhavatu",
-"quick_gloss": "may-become"
+"quick_gloss": "may-be"
 },
 {
 "surface": "sarvadā",
@@ -615,19 +627,7 @@
 "tokens": [
 {
 "surface": "śūdrā",
-"quick_gloss": "servant-woman"
-},
-{
-"surface": "śūdrā",
-"quick_gloss": "shudra-female"
-},
-{
-"surface": "śūdrā",
-"quick_gloss": "laborer-woman"
-},
-{
-"surface": "śūdrā",
-"quick_gloss": "attendant"
+"quick_gloss": "shudra-woman"
 }
 ]
 },
@@ -643,15 +643,27 @@
 "quick_gloss": "victorious-is"
 },
 {
-"surface": "abhaya+dā",
-"quick_gloss": "fearlessness-giving"
+"surface": "abhaya+",
+"quick_gloss": "fearlessness"
 },
 {
-"surface": "vāda+sāda+hīnā",
-"quick_gloss": "speech-essence-devoid"
+"surface": "dā",
+"quick_gloss": "giving"
 },
 {
-"surface": "sva+bhāvataḥ",
+"surface": "vāda+",
+"quick_gloss": "debate"
+},
+{
+"surface": "sāda+",
+"quick_gloss": "contest"
+},
+{
+"surface": "hīnā",
+"quick_gloss": "free"
+},
+{
+"surface": "svabhāvataḥ",
 "quick_gloss": "by-nature"
 }
 ]
