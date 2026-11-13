@@ -1,0 +1,274 @@
+{
+ "song": "mukta-m00295-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "name of a deity; nominative subject in enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nārāyaṇo",
+     "gloss": "nārāyaṇa",
+     "grounds": "name of a deity; final vowel shows sandhi before following word",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "name of a deity; nominative form in enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nṛsiṃho",
+     "gloss": "man-lion",
+     "grounds": "name of a deity; final vowel shows sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāsudevavān",
+     "gloss": "possessing-vāsudeva",
+     "grounds": "possessive adjective describing an associated figure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine figures are included in the opening enumeration of deities?",
+   "premises": [
+    "brahmā is named as a deity",
+    "nārāyaṇa, viṣṇu, and nṛsiṃha are named as deities",
+    "a figure possessing vāsudeva is included"
+   ],
+   "inference": "The opening sequence enumerates brahmā, nārāyaṇa, viṣṇu, nṛsiṃha, and one possessing vāsudeva.",
+   "uncertainties": [
+    "The exact referent of vāsudevavān is uncertain without broader context."
+   ],
+   "plain_english": "Brahmā, Nārāyaṇa, Viṣṇu, Nṛsiṃha, and one possessing Vāsudeva."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "ramo",
+     "gloss": "rāma",
+     "grounds": "name of a deity; final vowel shows sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāmaś",
+     "gloss": "rāma",
+     "grounds": "name of a deity; final sibilant shows sandhi before ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting listed figures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāmaś",
+     "gloss": "rāma",
+     "grounds": "name of a deity; final sibilant shows sandhi before ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting listed figures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vuddhaḥ",
+     "gloss": "buddha",
+     "grounds": "name of a figure; spelling as given in text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalki",
+     "gloss": "kalki",
+     "grounds": "name of a figure in the enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharāditaḥ",
+     "gloss": "from-earth-onward",
+     "grounds": "compound indicating starting point or scope; UNC exact sense",
+     "morph": "dharā+ādi+tas (compound/indecl.)"
+    }
+   ],
+   "question": "Which additional figures extend the enumerated sequence beginning from the earth?",
+   "premises": [
+    "rāma is named three times in sequence",
+    "buddha and kalki are named after rāma",
+    "the phrase dharāditaḥ indicates a scope from earth onward"
+   ],
+   "inference": "The sequence extends with three rāmas, buddha, and kalki, beginning from the earth.",
+   "uncertainties": [
+    "The distinction among the three occurrences of rāma is not specified.",
+    "The precise function of dharāditaḥ is uncertain."
+   ],
+   "plain_english": "Rāma, and Rāma, and Rāma, Buddha, and Kalki, beginning from the earth."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "padmanābha",
+     "gloss": "lotus-naveled",
+     "grounds": "epithet or name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dāmodarasya",
+     "gloss": "of-dāmodara",
+     "grounds": "name of a deity in possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tvate",
+     "gloss": "of-you",
+     "grounds": "form as given; UNC interpretation and analysis",
+     "morph": "UNC"
+    },
+    {
+     "surface": "kṣmādi",
+     "gloss": "beginning-with-earth",
+     "grounds": "compound marking the start of a range",
+     "morph": "kṣmā+ādi (compound)"
+    },
+    {
+     "surface": "śivāntā",
+     "gloss": "ending-with-śiva",
+     "grounds": "compound marking the end of a range",
+     "morph": "śiva+anta (compound, f.nom.sg)"
+    }
+   ],
+   "question": "What range of principles or entities is delimited from earth up to Śiva?",
+   "premises": [
+    "padmanābha and dāmodara are named",
+    "kṣmādi indicates a beginning with earth",
+    "śivāntā indicates an ending with śiva"
+   ],
+   "inference": "A range extending from earth to śiva is indicated in association with the named figures.",
+   "uncertainties": [
+    "The form and meaning of tvate are uncertain.",
+    "The syntactic relation among the named figures and the range is unclear."
+   ],
+   "plain_english": "Padmanābha, of Dāmodara, of you, beginning with earth and ending with Śiva."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "īśāno",
+     "gloss": "īśāna",
+     "grounds": "name of a deity; final vowel shows sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanado",
+     "gloss": "wealth-giver",
+     "grounds": "epithet or name of a deity; final vowel shows sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīmo",
+     "gloss": "bhīma",
+     "grounds": "name of a deity; final vowel shows sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudrāḥ",
+     "gloss": "rudras",
+     "grounds": "name of a group of deities in plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mārgādi",
+     "gloss": "beginning-with-mārga",
+     "grounds": "compound marking a starting point; UNC exact referent of mārga",
+     "morph": "mārga+ādi (compound)"
+    },
+    {
+     "surface": "kārtike",
+     "gloss": "in-kārtika",
+     "grounds": "locative indicating time or context",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which deities and temporal or contextual marker are specified in this enumeration?",
+   "premises": [
+    "īśāna, dhanada, and bhīma are named",
+    "rudrāḥ refers to multiple rudras",
+    "mārgādi and kārtike provide contextual markers"
+   ],
+   "inference": "The enumeration includes īśāna, dhanada, bhīma, and the rudras, with markers beginning with mārga in kārtika.",
+   "uncertainties": [
+    "The referent of mārgādi is uncertain.",
+    "The relation between the deities and the contextual markers is unclear."
+   ],
+   "plain_english": "Īśāna, the wealth-giver, Bhīma, and the Rudras, beginning with Mārga, in Kārtika."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "prakṛtaḥ",
+     "gloss": "primordial-nature",
+     "grounds": "term for a principle; form as given in text",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puruṣaḥ",
+     "gloss": "person",
+     "grounds": "term for a principle or being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "term for a principle; nominative form as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivo'",
+     "gloss": "śiva",
+     "grounds": "name of a deity; avagraha marks elision in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arka",
+     "gloss": "sun",
+     "grounds": "first member of a comparison compound",
+     "morph": "arka+rudravat (compound member)"
+    },
+    {
+     "surface": "rudravat",
+     "gloss": "like-rudra",
+     "grounds": "comparative suffix forming likeness to rudra",
+     "morph": "arka+rudravat (compound)"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "past participle indicating state or position",
+     "morph": "m.nom.pl (past-participle, √sthā)"
+    }
+   ],
+   "question": "Which fundamental principles are stated to be situated like the sun and Rudra?",
+   "premises": [
+    "prakṛti, puruṣa, śakti, and śiva are named",
+    "arka-rudravat expresses a comparison to sun and rudra",
+    "sthitāḥ indicates that these are situated"
+   ],
+   "inference": "Prakṛti, puruṣa, śakti, and śiva are stated to be situated like the sun and Rudra.",
+   "uncertainties": [
+    "The exact sense of the comparison arka-rudravat is uncertain."
+   ],
+   "plain_english": "Prakṛti, Puruṣa, Śakti, and Śiva are situated like the sun and Rudra."
+  }
+ ]
+}
