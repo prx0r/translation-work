@@ -1,0 +1,137 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deha+tyakta+mātreṇa",
+     "gloss": "upon-merely-leaving-the-body",
+     "grounds": "compound deha+tyakta+mātra in instrumental singular neuter",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective in accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "śiva",
+     "grounds": "noun in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "passive present third singular from root nigad",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Upon merely leaving the body, is the jīva called supreme Śiva?",
+   "premises": [
+    "the jīva leaves the body",
+    "mere leaving suffices",
+    "supreme Śiva is the result"
+   ],
+   "inference": "The jīva becomes supreme Śiva upon bodily departure.",
+   "uncertainties": [
+    "paraṃ may be adjectival rather than predicative"
+   ],
+   "plain_english": "He, upon merely leaving the body, is called supreme Śiva."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "karṇa+sthaṃ",
+     "gloss": "abiding-in-the-ear",
+     "grounds": "compound karṇa+stha in accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śrūyate",
+     "gloss": "is-heard",
+     "grounds": "passive present third singular from root śru",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative singular feminine of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pāramparya+krama+āgatam",
+     "gloss": "come-down-through-tradition",
+     "grounds": "compound pāramparya+krama+āgata in accusative singular neuter",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is the teaching heard abiding in the ear through tradition?",
+   "premises": [
+    "the teaching abides in the ear",
+    "it is heard by the goddess",
+    "it comes through tradition"
+   ],
+   "inference": "The tradition is heard as something abiding in the ear.",
+   "uncertainties": [
+    "whether karṇa+sthaṃ modifies the teaching or the hearer"
+   ],
+   "plain_english": "Abiding in the ear, it is heard, O goddess, come down through tradition."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "pronoun in instrumental singular neuter",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "jñāna+mātreṇa",
+     "gloss": "mere-knowledge",
+     "grounds": "compound jñāna+mātra in instrumental singular neuter",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "śrutena",
+     "gloss": "heard",
+     "grounds": "past participle in instrumental singular neuter",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative singular feminine adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Does mere knowledge heard by this suffice for the fair-faced one?",
+   "premises": [
+    "this knowledge is mere knowledge",
+    "it has been heard",
+    "it suffices for the fair-faced one"
+   ],
+   "inference": "Mere heard knowledge is sufficient.",
+   "uncertainties": [
+    "anena may refer to a preceding means or teaching"
+   ],
+   "plain_english": "By this mere knowledge heard, O fair-faced one."
+  }
+ ]
+}
