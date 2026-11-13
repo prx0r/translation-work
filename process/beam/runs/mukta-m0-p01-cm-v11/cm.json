@@ -3,29 +3,39 @@
  "verse": 11,
  "rows": [
   {
-   "lemma": "tat+ūrdhvaṃ",
+   "lemma": "abhaya",
+   "morph": "compound-member",
+   "grounds": "first member of compound describing hand gesture"
+  },
+  {
+   "lemma": "vvaradañ",
+   "morph": "compound-member",
+   "grounds": "second member of compound; doubled consonant in text"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "compound: above that"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "śa+ādi",
-   "morph": "n.nom.sg",
-   "grounds": "compound: beginning with śa"
-  },
-  {
-   "lemma": "vikhyātaṃ",
-   "morph": "n.nom.sg.past-pass.part √khyā",
-   "grounds": "well known or renowned"
-  },
-  {
-   "lemma": "purastāt",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "previously or before"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "brahma+pañcakam",
-   "morph": "n.nom.sg",
-   "grounds": "compound: the pentad of brahmas"
+   "lemma": "dakṣiṇa",
+   "morph": "compound-member",
+   "grounds": "first member indicating hand position"
+  },
+  {
+   "lemma": "adhordhva",
+   "morph": "compound-member",
+   "grounds": "indicates lower and upper positions"
+  },
+  {
+   "lemma": "pāṇikām",
+   "morph": "f.acc.sg",
+   "grounds": "qualifies the goddess by hand gestures and positions"
   }
  ]
 }

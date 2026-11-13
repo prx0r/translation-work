@@ -3,34 +3,44 @@
  "verse": 6,
  "rows": [
   {
-   "lemma": "deha+ādi",
-   "morph": "n.nom.sg",
-   "grounds": "compound: body and so forth"
+   "lemma": "dvau",
+   "morph": "m.nom.du",
+   "grounds": "specifies number of syllables"
   },
   {
-   "lemma": "cit+aikātmya",
-   "morph": "n.acc.sg",
-   "grounds": "compound: identity or oneness with consciousness"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "upapādakam",
-   "morph": "m.acc.sg",
-   "grounds": "that which brings about or proves"
+   "lemma": "svāhā",
+   "morph": "(indecl.)",
+   "grounds": "ritual concluding utterance"
   },
   {
-   "lemma": "upāyaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "method or practice"
+   "lemma": "anta",
+   "morph": "compound-member",
+   "grounds": "first member indicating termination with svāhā"
   },
   {
-   "lemma": "kathayāmi",
-   "morph": "1.sg.pres.act √kath",
-   "grounds": "speaker declares intent to explain"
+   "lemma": "hūṅkārau",
+   "morph": "m.nom.du",
+   "grounds": "two syllables of the form hūṅ"
   },
   {
-   "lemma": "vravīmi",
-   "morph": "1.sg.pres.act √brū",
-   "grounds": "speaker declares intent to speak"
+   "lemma": "kālī",
+   "morph": "compound-member",
+   "grounds": "first member naming the mantra"
+  },
+  {
+   "lemma": "mantraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "the formula being declared"
+  },
+  {
+   "lemma": "udāhṛtaḥ",
+   "morph": "m.nom.sg.past-passive-participle √hṛ",
+   "grounds": "states the mantra as taught"
   }
  ]
 }

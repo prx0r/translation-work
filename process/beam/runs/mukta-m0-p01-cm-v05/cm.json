@@ -3,24 +3,44 @@
  "verse": 5,
  "rows": [
   {
-   "lemma": "kathayāmi",
-   "morph": "1.sg.pres.act √kath",
-   "grounds": "speaker declares intent to explain"
-  },
-  {
-   "lemma": "sureśāni",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
-  },
-  {
-   "lemma": "sadyaḥ",
+   "lemma": "hū",
    "morph": "(indecl.)",
-   "grounds": "instant effect"
+   "grounds": "bīja syllable component"
   },
   {
-   "lemma": "kaulika+siddhi+dam",
-   "morph": "n.acc.sg",
-   "grounds": "compound: bestowing kaulika accomplishment"
+   "lemma": "kārau",
+   "morph": "m.nom.du",
+   "grounds": "two syllables ending in kāra"
+  },
+  {
+   "lemma": "dvau",
+   "morph": "m.nom.du",
+   "grounds": "specifies the number of kāra syllables"
+  },
+  {
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "sequence marker in mantra construction"
+  },
+  {
+   "lemma": "paścād",
+   "morph": "(indecl.)",
+   "grounds": "further sequence marker"
+  },
+  {
+   "lemma": "dakṣiṇe",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address within the mantra"
+  },
+  {
+   "lemma": "kālike",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address within the mantra"
+  },
+  {
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "sequence marker for next mantra element"
   }
  ]
 }
