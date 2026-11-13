@@ -3,34 +3,49 @@
  "verse": 1778,
  "rows": [
   {
-   "lemma": "palāyante",
-   "morph": "3.pl.pres.middle √palāy",
-   "grounds": "verb"
+   "lemma": "gacchaṃs",
+   "morph": "m.nom.sg.pres.part √gam",
+   "grounds": "describes activity while moving"
   },
   {
-   "lemma": "mahādevi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "tiṣṭhaṃs",
+   "morph": "m.nom.sg.pres.part √sthā",
+   "grounds": "describes activity while stationary"
   },
   {
-   "lemma": "na",
+   "lemma": "trikāla/",
+   "morph": "compound: tri+kāle=loc.sg.m",
+   "grounds": "indicates recitation at the three daily junctures"
+  },
+  {
+   "lemma": "yyadi",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "introduces a conditional circumstance"
   },
   {
-   "lemma": "atra",
+   "lemma": "paṭhati",
+   "morph": "3.sg.act.pres √paṭh",
+   "grounds": "act of reciting the sacred text"
+  },
+  {
+   "lemma": "śivam",
+   "morph": "m.acc.sg",
+   "grounds": "object of recitation, auspicious or Śiva-related text"
+  },
+  {
+   "lemma": "prāpnuyād",
+   "morph": "3.sg.act.opt √prāp",
+   "grounds": "expresses the attainable result"
+  },
+  {
+   "lemma": "āśu",
    "morph": "(indecl.)",
-   "grounds": "context"
+   "grounds": "indicates speed of attaining the result"
   },
   {
-   "lemma": "kāryā",
-   "morph": "f.nom.sg.gerundive √kṛ",
-   "grounds": "obligation"
-  },
-  {
-   "lemma": "vicāraṇā",
-   "morph": "f.nom.sg",
-   "grounds": "doubt or deliberation"
+   "lemma": "dhīraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "qualified practitioner who recites"
   }
  ]
 }

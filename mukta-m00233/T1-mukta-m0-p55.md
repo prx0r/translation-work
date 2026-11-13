@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p55-v1351
-[tataḥ](tatastālatrayacchoṭipārṣṇighātanirīkṣitaiḥ) [paścima-dvāra](paścimadvāramāsādya) [nārāca-astra](nārācāstraṃ) [prayojayet](prayojayet)
+[then](tatas) [clap+three](tālatraya+cchoṭi) [heel+strike](pārṣṇi+ghāta) [observed-by](nirīkṣitaiḥ)
+
 ## mukta-m0-p55-v1352
-[paścima-dvāra](paścimadvāramāsādya) [nārāca-astra](nārācāstraṃ) [prayojayet](prayojayet)
+[western+door](paścima+dvāram) [having-reached](āsādya) [nārāca+weapon](nārāca+astraṃ) [one-should-employ](prayojayet)
+
 ## mukta-m0-p55-v1353
-[dehalyām](dehalyāṃ) [parikramya](parikramya) [pradakṣiṇam](pradakṣiṇam)
+[on-threshold](dehalyāṃ) [having-circumambulated](parikramya) [clockwise](pradakṣiṇam)
+
 ## mukta-m0-p55-v1354
-[vāstu-daiva-adhipam](vāstudaivādhipaṃ) [madhye](madhye) [brahmāṇam](brahmāṇaṃ) [sva-āsanam](svāsanaṃ) [tathā](tathā)
+[vāstu+deity+lord](vāstu+daiva+adhipaṃ) [in-middle](madhye) [Brahmā](brahmāṇaṃ) [own+seat](sva+āsanaṃ) [likewise](tathā)
+
 ## mukta-m0-p55-v1355
-[kṛtvā-ādau](kṛtvādau) [sakalīkaraṇam](sakalīkaraṇaṃ) [tataḥ](tataḥ)
+[having-done](kṛtvā) [at-first](ādau) [sakalīkaraṇa](sakalīkaraṇaṃ) [then](tataḥ)
+
 ## mukta-m0-p55-v1356
-[mūla-abhimantrita-uṣṇīṣam](mūlābimantritoṣṇīṣamuttarīyaṃ) [ca](ca) [dhārayan](dhārayan)
+[root-mantra+consecrated](mūla+abimantrita) [turban](uṣṇīṣam) [upper-garment](uttarīyaṃ) [and](ca) [wearing](dhārayan)
+
 ## mukta-m0-p55-v1357
-[candana-ālipte](candanālipte) [śiva-hastam](śivahastaṃ) [vidhāya](vidhāya) [tu](tu)
+[sandalpaste+smeared](candana+ālipte) [Śiva+hand](śiva+hastaṃ) [having-placed](vidhāya) [indeed](tu)
+
 ## mukta-m0-p55-v1358
-[tam](tamātmamūrdhni) [ātma-mūrdhni](ātmamūrdhni) [vinyasya](vinyasya) [śivaḥ-aham](śivo'hamiti) [bhāvayan](bhāvayan)
+[that](tam) [own+head](ātma+mūrdhni) [having-placed](vinyasya) [Śiva+I+am](śivaḥ+aham) [thus](iti) [contemplating](bhāvayan)
+
 ## mukta-m0-p55-v1359
-[jñāna-khaḍga-karaḥ](jñānakhaḍgakaraḥ) [prāgvat](prāgvat) [pañca-koṣṭhe](pañcakoṣṭhe) [yathā-vidhi](yathāvidhi)
+[knowledge+sword+in-hand](jñāna+khaḍga+karaḥ) [as-before](prāgvat) [in-five+cells](pañca+koṣṭhe) [according-to-rule](yathāvidhi)
+
 ## mukta-m0-p55-v1360
-[vikirānaiśe](vikirānaiśe) [śiva-kumbha-astra-vardhanī](śivakumbhāstravardhanī)
+[in-vikira](vikirān) [in-northeast](aiśe) [Śiva+pot](śiva+kumbha) [weapon+sprinkling-vessel](astra+vardhanī)
+
 ## mukta-m0-p55-v1361
-[gandha-puṣpa-ādyaiḥ](gandhapuṣpādyairvṛṣakesarivāhane) [vṛṣa-kesari-vāhane](vṛṣakesarivāhane)
+[with-fragrance+flower+etc.](gandha+puṣpa+ādyaiḥ) [bull+lion+vehicles](vṛṣa+kesari+vāhane)
+
 ## mukta-m0-p55-v1362
-[sañjīvana-amṛta-artheśa-kusmān](sañjīvanāmṛtārtheśakusmān) [dvāreṣu](dvāreṣu) [yugmaśaḥ](yugmaśaḥ)
+[sañjīvanī+amṛta+lord+flowers](sañjīvanā+amṛta+artha+īśa+kusmān) [at-doors](dvāreṣu) [in-pairs](yugmaśaḥ)
+
 ## mukta-m0-p55-v1363
-[mahākālam](mahākālaṃ) [bhṛṅgīśam](bhṛṅgīśaṃ) [ca](ca) [gajānanam](gajānanam)
+[Mahākāla](mahākālaṃ) [Bhṛṅgīśa](bhṛṅgīśaṃ) [and](ca) [Gajānanam](gajānanam)
+
 ## mukta-m0-p55-v1364
-[sva-dig-vinyasta-kumbheṣu](svadigvinyastakumbheṣu) [śakrādīn](śakrādīn) [daśa](daśa) [dikpatīn](dikpatīn)
+[own+direction+placed+pots](sva+dik+vinyasta+kumbheṣu) [Indra+etc.](śakra+ādīn) [ten](daśa) [direction+guardians](dik+patīn)
+
 ## mukta-m0-p55-v1365
-[paribhrāmya](paribhrāmya) [tu](tu) [vinyasya](vinyasya) [kumbham](kumbhaṃ) [darbha-upasaṃhṛtaiḥ](darbhopasaṃhṛtaiḥ)
+[having-circumambulated](paribhrāmya) [indeed](tu) [having-placed](vinyasya) [pot](kumbhaṃ) [kuśa-grass+collected](darbha+upasaṃhṛtaiḥ)
+
 ## mukta-m0-p55-v1366
-[śakrādi-lokeśāñ](śakrādilokeśāñ) [śiva-ājñām](śivājñāṃ) [śrāvayet](śrāvayet) [kramāt](kramāt)
+[Indra+etc.+world-lords](śakra+ādi+lokeśāñ) [Śiva+command](śiva+ājñāṃ) [one-should-announce](śrāvayet) [in-order](kramāt)
+
 ## mukta-m0-p55-v1367
-[sthātavyam](sthātavyaṃ) [sāvadhānena](sāvadhānena) [tvā-yāga-antam](tvāyāgāntaṃ) [śiva-ājñayā](śivājñayā)
+[it-should-be-stayed](sthātavyaṃ) [with-attentiveness](sāvadhānena) [you+by+ritual+end](tvā+yāga+antaṃ) [by-Śiva+command](śiva+ājñayā)
+
 ## mukta-m0-p55-v1368
-[nivedya-antam](nivedyāntaṃ) [tataḥ](tatastasmai) [tasmai](tasmai) [jñāna-khaḍgam](jñānakhaḍgaṃ) [samarpayet](samarpayet)
+[offering+end](nivedya+antaṃ) [then](tatas) [to-him](tasmai) [knowledge+sword](jñāna+khaḍgaṃ) [one-should-offer](samarpayet)
+
 ## mukta-m0-p55-v1369
-[saha-ambena](sahāmbena) [yāga-adhyakṣeṇa](yāgādhyakṣeṇa) [śaṅkaraḥ](śaṅkaraḥ)
+[with+mother](saha+ambena) [ritual+presiding-lord](yāga+adhyakṣeṇa) [Śaṅkara](śaṅkaraḥ)
+
 ## mukta-m0-p55-v1370
-[arghyam](arghyaṃ) [nidhāya](nidhāya) [kumbha-agre](kumbhāgre) [vikiraiḥ](vikirairyāgamaṇḍapāt) [yāga-maṇḍapāt](yāgamaṇḍapāt)
+[arghya](arghyaṃ) [having-placed](nidhāya) [pot+in-front](kumbha+agre) [with-vikira](vikiraiḥ) [from-ritual+pavilion](yāga+maṇḍapāt)
+
 ## mukta-m0-p55-v1371
-[madhya-ma-kuṇḍa-agre](madhyamakuṇḍāgra) [upaviśya](upaviśya) [yathā-vidhi](yathāvidhi)
+[middle+fire-pit+front](madhyama+kuṇḍa+agre) [having-sat](upaviśya) [according-to-rule](yathāvidhi)
+
 ## mukta-m0-p55-v1372
-[pañca-saṃskāraiḥ](pañcasaṃskāraiḥ) [saṃskṛtya-ārādhya](saṃskṛtyārādhya) [tam](taṃ) [guruḥ](guruḥ)
+[by-five+purifications](pañca+saṃskāraiḥ) [having-consecrated](saṃskṛtya) [having-worshipped](ārādhya) [that](taṃ) [guru](guruḥ)
+
 ## mukta-m0-p55-v1373
-[tat-tad-dig-analāṃśāṃstu](tattaddiganalāṃśāṃstu) [tat-tat-kuṇḍe](tattatkuṇḍe) [nidhāpayet](nidhāpayet)
+[each+direction+fire+portions](tattat+dik+anala+aṃśān) [indeed](tu) [in-each+fire-pit](tattat+kuṇḍe) [one-should-place](nidhāpayet)
+
 ## mukta-m0-p55-v1374
-[tarpaṇam](tarpaṇaṃ) [kuryāt](kuryāt) [tat-ca](tacca) [mūlam](mūlaṃ) [śiva-antikam](śivāntikam)
+[libation](tarpaṇaṃ) [one-should-do](kuryāt) [and-that](tat+ca) [root-mantra](mūlaṃ) [Śiva+near](śiva+antikam)
+
 ## mukta-m0-p55-v1375
-[brahma-aṅga-mantrāṇām](brahmāṅgamantrāṇāṃ) [tat-daśāṃśam](taddaśāṃśaṃ) [juhoti](juhoti) [ca](ca)
+[of-Brahmā+limb+mantras](brahma+aṅga+mantrāṇāṃ) [that+tenth+part](tat+daśa+aṃśaṃ) [offers](juhoti) [and](ca)

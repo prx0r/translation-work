@@ -3,29 +3,34 @@
  "verse": 1782,
  "rows": [
   {
-   "lemma": "devi",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "gurubhaktāya",
+   "morph": "compound: guru+bhaktāya=m.dat.sg",
+   "grounds": "qualified recipient of the teaching"
   },
   {
-   "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "agent"
+   "lemma": "dātavyan",
+   "morph": "n.nom.sg.gerundive √dā",
+   "grounds": "prescribes transmission to the qualified"
   },
   {
-   "lemma": "ripūn",
-   "morph": "m.acc.pl",
-   "grounds": "object"
-  },
-  {
-   "lemma": "nāśayet",
-   "morph": "3.sg.opt.act √naś",
-   "grounds": "verb"
-  },
-  {
-   "lemma": "dhruvam",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "certainty"
+   "grounds": "negates giving to others"
+  },
+  {
+   "lemma": "deya/",
+   "morph": "n.nom.sg.gerundive √dā",
+   "grounds": "reiterates prohibition of giving"
+  },
+  {
+   "lemma": "yyasya",
+   "morph": "m.dat.sg",
+   "grounds": "indefinite recipient in prohibition"
+  },
+  {
+   "lemma": "kasyacit",
+   "morph": "m.dat.sg",
+   "grounds": "reinforces unrestricted prohibition"
   }
  ]
 }

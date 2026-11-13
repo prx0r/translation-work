@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[with](sabāhusīmāvistāraḥ) [arm](sabāhusīmāvistāraḥ) [boundary](sabāhusīmāvistāraḥ) [extent](sabāhusīmāvistāraḥ) [should-be](syāt) [by-thirty-one-angulas](ekatriṃśadaṅgulaiḥ)
+with-arms+boundary(width)(sabāhusīmā) width(vistāraḥ) should-be(syāt) thirty-one+aṅgulas(ekatriṃśadaṅgulaiḥ)
 
 ## mukta-m0-p44-v1077
-[by-firmness-parts](dhṛtyaṃśaistu) [forearm](prakoṣṭhaṃ) [should-be](syāt) [palm](talaṃ) [seven-angulas-long](saptāṅgulāyatam)
+eighteen-parts(dhṛtyaṃśaiḥ) but(tu) forearm(prakoṣṭhaṃ) should-be(syāt) palm(talaṃ) seven+aṅgulas-long(saptāṅgulāyatam)
 
 ## mukta-m0-p44-v1078
-[nanda-ṛṣi-vasu-ṛṣi-rasa-yava-anger-angulas-thus](nandarṣivasvṛṣirasayavairaṅgulayastatāḥ)
+nine(nanda) seven(ṛṣi) eight(vasu) six(ṛṣi) six(rasa) with-barleycorns(yavaiḥ) aṅgulas(aṅgulayaḥ) extended(tatāḥ)
 
 ## mukta-m0-p44-v1079
-[nail-length](nakhāyāmastalavyāso) [palm-breadth](nakhāyāmastalavyāso) [rasa-angulas](rasāṅgulaiḥ)
+at-nail-tip(nakhāyām) palm+width(talavyāsaḥ) six+aṅgulas(rasāṅgulaiḥ)
 
 ## mukta-m0-p44-v1080
-[root](mūlaṃ) [and](ca) [broad](vistīrṇaṃ) [should-be](syāt) [in-order](krameṇa) [then](tu)
+root(mūlaṃ) and(ca) broad(vistīrṇaṃ) should-be(syāt) in-order(krameṇa) but(tu)
 
 ## mukta-m0-p44-v1081
-[should-be](bhaved) [mouth](vaktraṃ) [with-half-part-kalā](sārdhāṃśakalayā) [of-brows](bhrūvoḥ)
+should-be(bhavet) face(vaktraṃ) with-half+part+digit(sārdhāṃśakalayā) of-eyebrows(bhrūvoḥ)
 
 ## mukta-m0-p44-v1082
-[with-yava-part](sayavāṃśāt) [from-cavity](puṭādāsyaṃ) [gojid-length](gojidairghyaṃ) [half-of-that](tadardhataḥ)
+with-barleycorn+part(sayavāṃśāt) from-fold(puṭāt) mouth(āsyaṃ) two+aṅgulas-length(gojidairghyaṃ) its-half(tadardhataḥ)
 
 ## mukta-m0-p44-v1083
-[that-length](tadāyāmastrivargottarapālikā)
+its-length(tadāyāmaḥ) three+class+upper+edge(trivargottarapālikā)
 
 ## mukta-m0-p44-v1084
-[yava-broad](yavavistīrṇā) [with-yava-two-part](sayavadvayabhāgataḥ)
+barleycorn-wide(yavavistīrṇā) with-barleycorn+two+part(sayavadvayabhāgataḥ)
 
 ## mukta-m0-p44-v1085
-[chin](cibukaṃ) [two-yava](dviyavaṃ) [there](tatra) [neck-ornament](kaṇṭhaveśastato) [then](tato) [jaw](hanoḥ)
+chin(cibukaṃ) two-barleycorns(dviyavaṃ) there(tatra) neck+insertion(kaṇṭhaveśaḥ) then(tataḥ) from-jaw(hanoḥ)
 
 ## mukta-m0-p44-v1086
-[with-two-yava-ocean-parts](sadviyavābdhyaṃśairnālalambaḥ) [arrow-parts](śarāṃśakaiḥ)
+with-six+barleycorn+four-parts(sadviyavābdhyaṃśaiḥ) nose+pendant(nālalambaḥ) five-parts(śarāṃśakaiḥ)
 
 ## mukta-m0-p44-v1087
-[elephant-trunk-shaped](karikarākārau) [should-be](syād) [body](vapuḥ) [all-beautiful](sarvasundaram)
+elephant-trunk+shaped(karikarākārau) should-be(syāt) body(vapuḥ) all-beautiful(sarvasundaram)
 
 ## mukta-m0-p44-v1088
-[by-middle](madhyena) [ten-palms](daśatālena) [measure](mānaṃ) [of-man](puṃso) [then](atha) [is-said](kathyate)
+by-middle(madhyena) ten-tāla(daśatālena) measure(mānaṃ) of-man(puṃsaḥ) now(atha) is-stated(kathyate)
 
 ## mukta-m0-p44-v1089
-[hair-end-to-eye-end](keśāntānnetrāntaṃ) [and](ca) [cavity-end](puṭāntakam)
+from-hair-end(keśāntāt) to-eye-end(netrāntaṃ) and(ca) to-fold-end(puṭāntakam)
 
 ## mukta-m0-p44-v1090
-[heart-end](hṛdayāntaṃ) [should-be](syājjagatyaṃśaiḥ) [with-six-yavas](saṣaḍyavaiḥ)
+to-heart-end(hṛdayāntaṃ) should-be(syāt) by-twelve-parts(jagatyaṃśaiḥ) with-six-barleycorns(saṣaḍyavaiḥ)
 
 ## mukta-m0-p44-v1091
-[with-six-yava-abhi-kṛtya-parts](saṣaḍyavābhikṛtyaṃśairūrvordairghyamudāhṛtam)
+with-six-barleycorns+twenty-one-parts(saṣaḍyavābhikṛtyaṃśaiḥ) of-thighs(ūrvoḥ) length(dairghyam) is-stated(udāhṛtam)
 
 ## mukta-m0-p44-v1092
-[utkṛtya-parts](utkṛtyaṃśairbāhudairghyaṃ) [arm-length](bāhudairghyaṃ) [kalā-yava](kalāyāmastu) [elbow](korparaḥ)
+by-twenty-six-parts(utkṛtyaṃśaiḥ) arm+length(bāhudairghyaṃ) at-sixteen-parts(kalāyām) but(tu) elbow(korparaḥ)
 
 ## mukta-m0-p44-v1093
-[by-thirteen-angulas](trayodaśāṅgulaiścātha) [and-then](cātha) [with-arms-interval-breadth](sabāhvantaravistṛtiḥ)
+by-thirteen+aṅgulas(trayodaśāṅgulaiḥ) and(ca) now(atha) with-arms+inner+width(sabāhvantaravistṛtiḥ)
 
 ## mukta-m0-p44-v1094
-[neck-arms](kaṇṭhabāhūnāṃ) [knee-middle-two](jānumadhyadvayaṃ) [then-below](tvadhaḥ)
+of-neck+arms(kaṇṭhabāhūnāṃ) knee+middle+pair(jānumadhyadvayaṃ) but(tu) below(adhaḥ)
 
 ## mukta-m0-p44-v1095
-[armpit-below](kakṣādharastu) [kalā](kalayā) [prakṛtya-parts](prakṛtyaṃśairurastatiḥ) [chest-thus](urastatiḥ)
+armpit+lower(kakṣādharaḥ) but(tu) by-one-digit(kalayā) by-twenty-one-parts(prakṛtyaṃśaiḥ) chest+extent(urastatiḥ)
 
 ## mukta-m0-p44-v1096
-[by-thirteen](trayodaśaiḥ) [navel-middle](kukṣimadhyaṃ) [with-half-fifteen-angulas](sārdhapañcadaśāṅgulaiḥ)
+by-thirteen(trayodaśaiḥ) belly+middle(kukṣimadhyaṃ) by-fifteen-and-a-half+aṅgulas(sārdhapañcadaśāṅgulaiḥ)
 
 ## mukta-m0-p44-v1097
-[hip-breadth](kaṭivyāsastathaivorvormūleṃ) [thus](tathā) [thigh-root](ūrvormūleṃ) [parts](aṃśaistu) [by-thirteen](trayodaśaiḥ)
+hip+width(kaṭivyāsaḥ) likewise(tathaiva) of-thighs(ūrvoḥ) at-root(mūle) by-parts(aṃśaiḥ) but(tu) thirteen(trayodaśaiḥ)
 
 ## mukta-m0-p44-v1098
-[śruti-parts](śrutyaṃśairnalakāvyāsaḥ) [reed-breadth](nalakāvyāsaḥ) [with-quarter](sapādaistu) [arrow-angulas](śarāṅgulaiḥ)
+by-four-parts(śrutyaṃśaiḥ) reed+width(nalakāvyāsaḥ) with-quarter(sapādaiḥ) but(tu) five+aṅgulas(śarāṅgulaiḥ)
 
 ## mukta-m0-p44-v1099
-[with-yava-two-veda-parts](sayavadvayavedāṃśaiḥ) [with-quarter-angulas](sapādeṣvaṅgulaistataḥ) [then](tataḥ)
+with-barleycorn+two+four-parts(sayavadvayavedāṃśaiḥ) with-quarter+five+aṅgulas(sapādeṣvaṅgulaiḥ) then(tataḥ)
 
 ## mukta-m0-p44-v1100
-[with-quarter-veda-part-thumb](sapādavedāṃśo) [thumb](aṅguṣṭhaḥ) [index-from](tarjanyasmād) [yava-excess](yavādhikā)
+with-quarter+four-parts(sapādavedāṃśaḥ) thumb(aṅguṣṭhaḥ) forefinger(tarjanī) than-that(asmāt) barleycorn+more(yavādhikā)
