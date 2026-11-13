@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p140-v3476
-eight-powers-surrounded (aṣṭaśaktyāvṛtāṃ) I-salute (vande) goddess (devīṃ) Tripura-Bhairavi (tripurabhairavīm)
+[eight-power-surrounded](aṣṭaśaktyāvṛtāṃ) [I-bow](vande) [goddess](devīṃ) [Tripura-Bhairavi](tripurabhairavīm)
 
 ## mukta-m0-p140-v3477
-thirty-six-principles-abiding (ṣaṭtriṃśattattvagāṃ) I-salute (vande) goddess (devīṃ) Tripura-Bhairavi (tripurabhairavīm)
+[thirty-six-principle-pervading](ṣaṭtriṃśattattvagāṃ) [I-bow](vande) [goddess](devīṃ) [Tripura-Bhairavi](tripurabhairavīm)
 
 ## mukta-m0-p140-v3478
-from-Ka-principle-to-end (kāditattvāntarāṃ) I-salute (vande) goddess (devīṃ) Tripura-Bhairavi (tripurabhairavīm)
+[ka-etc-principle-inner](kāditattvāntarāṃ) [I-bow](vande) [goddess](devīṃ) [Tripura-Bhairavi](tripurabhairavīm)
 
 ## mukta-m0-p140-v3479
-all-selved (sarvātmikāṃ) supreme (parāṃ) I-salute (vande) goddess (devīṃ) Tripura-Bhairavi (tripurabhairavīm)
+[all-essence](sarvātmikāṃ) [supreme](parāṃ) [I-bow](vande) [goddess](devīṃ) [Tripura-Bhairavi](tripurabhairavīm)
 
 ## mukta-m0-p140-v3480
-beyond-three-lingas (liṅgatrayātigāṃ) I-salute (vande) goddess (devīṃ) Tripura-Bhairavi (tripurabhairavīm)
+[mark-triad-transcending](liṅgatrayātigāṃ) [I-bow](vande) [goddess](devīṃ) [Tripura-Bhairavi](tripurabhairavīm)
 
 ## mukta-m0-p140-v3481
-eastern (prācyāṃ) inward-consciousness (pratyakcitiṃ) I-salute (vande) goddess (devīṃ) Tripura-Bhairavi (tripurabhairavīm)
+[in-the-east](prācyāṃ) [inward-consciousness](pratyakcitiṃ) [I-bow](vande) [goddess](devīṃ) [Tripura-Bhairavi](tripurabhairavīm)
 
 ## mukta-m0-p140-v3482
-power (śaktiṃ) world-lady (viśveśvarīṃ) I-salute (vande) goddess (devīṃ) Tripura-Bhairavi (tripurabhairavīm)
+[power](śaktiṃ) [universe-ruler](viśveśvarīṃ) [I-bow](vande) [goddess](devīṃ) [Tripura-Bhairavi](tripurabhairavīm)
 
 ## mukta-m0-p140-v3483
-reciting (japanto) once (vāramekaṃ) tu (tu) vidyā (vidyā) eternal-self (nityātmikāḥ) praised (stutāḥ)
+[reciting](japanto) [time](vāram) [one](ekaṃ) [indeed](tu) [mantras](vidyā) [eternal-essence-praised](nityātmikāstutāḥ)
 
 ## mukta-m0-p140-v3484
-obtain (labhante) Lalita (lalitā) by-whom (yābhiḥ) tradition-possessing (saṃpradāyavatī) becomes (bhavet)
+[they-obtain](labhante) [Lalita](lalitā) [by-which](yābhiḥ) [tradition-possessing](saṃpradāyavatī) [may-become](bhavet)
 
 ## mukta-m0-p140-v3485
-at-midday (madhyāhne) tu (tu) beginning (samārabhya) at-midnight (madhyarātrau) complete (samāpayet)
+[at-midday](madhyāhne) [indeed](tu) [having-begun](samārabhya) [at-midnight](madhyarātrau) [one-should-complete](samāpayet)
 
 ## mukta-m0-p140-v3486
-of-Vashini (vaśinyāḥ) first (prathamaṃ) group (varga) of-Kameshvari (kāmeśvaryā) second (dvitīyamkam)
+[of-Vashini](vaśinyāḥ) [first](prathamaṃ) [group](varga) [of-Kameshvari](kāmeśvaryā) [second](dvitīyamkam)
 
 ## mukta-m0-p140-v3487
-in-days (dineṣu) Modini-group (modinīvargāt) one-by-one (ekaikaṃ) should-recite (prajapet) wise-one (sudhīḥ)
+[in-days](dineṣu) [of-Modini-group](modinīvargād) [one-by-one](ekaikaṃ) [should-recite](prajapet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p140-v3488
-two-lines-standing (paṃktidvayasthā) vidyas (vidyāstu) should-recite (prajapet) daily (prativāsaram)
+[row-pair-situated](paṃktidvayasthā) [mantras](vidyāstu) [should-recite](prajapet) [each-day](prativāsaram)
 
 ## mukta-m0-p140-v3489
-on-full-moon (pūrṇāsu) should-recite-vidyas (prajapedvidyāḥ) four-lines-born (catuṣpaṃktibhavāḥ) wise-one (sudhiḥ)
+[on-full-moon-days](pūrṇāsu) [should-recite](prajaped) [mantras](vidyāś) [four-row-born](catuṣpaṃktibhavāḥ) [wise-one](sudhiḥ)
 
 ## mukta-m0-p140-v3490
-not-these (naitābhiḥ) equal (sadṛśī) any (kāpi) vidya (vidyā) in-worlds (lokeṣu) exists (vidyate)
+[not-by-these](naitābhiḥ) [equal](sadṛśī) [any](kāpi) [mantra](vidyā) [in-worlds](lokeṣu) [exists](vidyate)
 
 ## mukta-m0-p140-v3491
-whatever (yadyat) desired (nijopsitaṃ) that (tattat) difficult (duḥkaraṃ) easy (sukaraṃ) becomes (bhavet)
+[whatever](yadyan) [one's-own-desired](nijopsitaṃ) [that](tattad) [difficult](duḥkaraṃ) [easy](sukaraṃ) [may-become](bhavet)
 
 ## mukta-m0-p140-v3492
-fifty-times (pañcāśadvāram) repeating (āvartya) vidya (vidyā) devotion-endowed (bhaktisamanvitaḥ)
+[fifty-times](pañcāśadvāram) [having-repeated](āvartya) [mantras](vidyā) [devotion-endowed](bhaktisamanvitaḥ)
 
 ## mukta-m0-p140-v3493
-hundred-times (śatavāraṃ) repeating (samāvartya) vidya-power-glory (vidyāvibhavavaibhavāḥ)
+[hundred-times](śatavāraṃ) [having-repeated](samāvartya) [mantra-power-majesties](vidyāvibhavavaibhavāḥ)
 
 ## mukta-m0-p140-v3494
-one-and-half-hundred-times (adhyardhaśatavāraṃ) tu (tu) vidya (vidyā) repeating (āvartya) with-devotion (bhaktitaḥ)
+[one-and-a-half-hundred-times](adhyardhaśatavāraṃ) [indeed](tu) [mantras](vidyā) [having-repeated](āvartya) [with-devotion](bhaktitaḥ)
 
 ## mukta-m0-p140-v3495
-so-much-repeating (tāvadāvartya) maiden (kanyā) vā (vā) husband (patiṃ) all-qualities-endowed (sarvaguṇānvitam)
+[that-many-times](tāvad) [having-repeated](āvartya) [maiden](kanyā) [or](vā) [husband](patiṃ) [all-qualities-endowed](sarvaguṇānvitam)
 
 ## mukta-m0-p140-v3496
-two-hundred (dviśataṃ) those (tāḥ) repeating (samāvartya) from-poverty (dāridryāt) freed (mucyate) certainly (dhruvam)
+[two-hundred](dviśataṃ) [them](tāḥ) [having-repeated](samāvartya) [from-poverty](dāridryān) [is-freed](mucyate) [certainly](dhruvam)
 
 ## mukta-m0-p140-v3497
-with-five-hundreds (pañcabhiśca śataiḥ) king (bhūpo) becomes (bhavet) with-six-hundreds (ṣaḍbhiḥ śataiḥ) ruler (nṛpaḥ)
+[by-five](pañcabhiś) [and](ca) [hundreds](śatair) [king](bhūpo) [becomes](bhavet) [by-six](ṣaḍbhiḥ) [hundreds](śatair) [sovereign](nṛpaḥ)
 
 ## mukta-m0-p140-v3498
-with-eight-hundreds (aṣṭabhistu śataiḥ) of-them (tāsāṃ) kings (nṛpāḥ) all (sarve) then (atha) servants (kiṃkarāḥ)
+[by-eight](aṣṭabhis) [indeed](tu) [hundreds](śatais) [of-them](tāsāṃ) [kings](nṛpāḥ) [all](sarve) [then](atha) [servants](kiṃkarāḥ)
 
 ## mukta-m0-p140-v3499
-thus (evaṃ) nine-hundred (navaśataṃ) having-recited (japtvā) all (sarvān) desires (kāmān) obtains (avāpnuyāt)
+[thus](evaṃ) [nine-hundred](navaśataṃ) [having-recited](japtvā) [all](sarvān) [desires](kāmān) [one-obtains](avāpnuyāt)
 
 ## mukta-m0-p140-v3500
-goddess (devīṃ) mantra-formed (mantramayīṃ) I-bow (naumi) matrka (mātṛkāṃ) pitha-formed (pīṭharūpiṇīm)
+[goddess](devīṃ) [mantra-formed](mantramayīṃ) [I-bow](naumi) [mother-syllable](mātṛkāṃ) [seat-formed](pīṭharūpiṇīm)

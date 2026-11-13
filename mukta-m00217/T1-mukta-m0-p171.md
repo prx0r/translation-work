@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p171-v4251
-[svalpa-āśanena](svalpāśanenā) [akṛśatā](akṛśatā) [bahunā](bahunā) [api](api) [na](na) [cīyate](cīyate)
+with-little+food(svalpāśanena) non-emaciation(akṛśatā) with-much(bahunā) also(api) not(na) increases(cīyate)
 
 ## mukta-m0-p171-v4252
-[japa-dhyāna-gataḥ](japadhyānagato) [mantrī](mantrī) [na](na) [khedam](khedam) [adhigacchati](adhigacchati)
+in-recitation+meditation(japadhyāna) gone(gataḥ) mantra-practitioner(mantrī) not(na) fatigue(khedam) attains(adhigacchati)
 
 ## mukta-m0-p171-v4253
-[iti](ityevamādibhiścihnarmahāvismayakāribhiḥ) [evam-ādibhiḥ](ityevamādibhiścihnarmahāvismayakāribhiḥ) [cihnaiḥ](ityevamādibhiścihnarmahāvismayakāribhiḥ) [mahā-vismaya-kāribhiḥ](ityevamādibhiścihnarmahāvismayakāribhiḥ)
+thus(iti) by-such(īvamādibhiḥ) signs(cihnaiḥ) great+wonder(mahāvismaya) causing(kāribhiḥ)
 
 ## mukta-m0-p171-v4254
-[adhiṣṭhitam](adhiṣṭhitaṃ) [niśya-dīpam](niśyadīpaṃ) [nistamisram](nistamisraṃ) [gṛham](gṛhaṃ) [bhavet](bhavet)
+presided-over(adhiṣṭhitam) night+lamp(niśyadīpam) darkness-free(nistamisram) house(gṛham) should-be(bhavet)
 
 ## mukta-m0-p171-v4255
-[yadi](yadi) [siddhim](siddhiṃ) [na](na) [labhate](labhate) [dviḥ](dvistrirvā) [triḥ](dvistrirvā) [vā](dvistrirvā) [punaḥ](punarācaret) [ācaret](punarācaret)
+if(yadi) success(siddhim) not(na) obtains(labhate) twice+or+thrice(dvistriḥ) or(vā) again(punaḥ) should-perform(ācaret)
 
 ## mukta-m0-p171-v4256
-[vedyām](vedyāmathāyase) [āyase](vedyāmathāyase) [pātre](pātre) [mṛṇmaye](mṛṇmaye) [vā](vā) [nave](nave) [śubhe](śubhe)
+on-altar(vedyām) or(atha) in-metal(āyase) vessel(pātre) in-earthen(mṛṇmaye) or(vā) in-new(nave) in-auspicious(śubhe)
 
 ## mukta-m0-p171-v4257
-[gomayena](gomayenopaliptāyāṃ) [upaliptāyām](gomayenopaliptāyāṃ) [bhūmau](bhūmau) [susthala-rūpakam](susthalarūpakam)
+with-cow-dung(gomayena) on-smeared(upaliptāyām) on-ground(bhūmau) good+place(sthala) form(rūpakam)
 
 ## mukta-m0-p171-v4258
-[aṅgula-utsedha-saṃyuktam](aṃgulotsedhasaṃyuktaṃ) [caturasram](caturasraṃ) [samantataḥ](samantataḥ)
+finger+height(aṅgulotsedha) endowed-with(saṃyuktam) four-cornered(caturasram) on-all-sides(samantataḥ)
 
 ## mukta-m0-p171-v4259
-[udak-prahvaḥ](udakprahvaḥ) [pradeśaḥ](pradeśo) [vā](vā) [sthaṇḍilasya](sthaṇḍilasya) [sthalam](sthalaṃ) [smṛtam](smṛtam)
+northward+sloping(udakprahvaḥ) place(pradeśaḥ) or(vā) of-altar(sthaṇḍilasya) place(sthalam) is-remembered(smṛtam)
 
 ## mukta-m0-p171-v4260
-[tat](tadyoṣitāṃ) [yoṣitām](tadyoṣitāṃ) [saḥ](sa) [eva](eva) [uktaḥ](uktaḥ) [śūdraḥ](śūdro) [yam](yaṃ) [varṇam](varṇamāśritaḥ) [āśritaḥ](varṇamāśritaḥ)
+of-their-women(tadyoṣitām) that(saḥ) indeed(eva) declared(uktaḥ) śūdra(śūdraḥ) which(yam) class(varṇam) resorted-to(āśritaḥ)
 
 ## mukta-m0-p171-v4261
-[tat-subhruvām](tatsubhruvāṃ) [ca](ca) [tat-bhṛtya](tadbhṛtya) [śūdrāṇām](śūdrāṇāṃ) [ca](ca) [saḥ](sa) [eva](eva) [hi](hi)
+of-those-fair-browed-women(tatsubhruvām) and(ca) of-their-servants(tadbhṛtya) of-śūdras(śūdrāṇām) and(ca) that(saḥ) indeed(eva) verily(hi)
 
 ## mukta-m0-p171-v4262
-[tarpayāmi](tarpayāmīti) [iti](tarpayāmīti) [mantra-ante](mantrānte) [proktābhiḥ](proktādbhirmūrdhni) [mūrdhni](proktādbhirmūrdhni) [tarpayet](tarpayet)
+I-satisfy(tarpayāmi) thus(iti) at-mantra+end(mantrānte) with-declared(proktādbhiḥ) on-head(mūrdhni) should-satisfy(tarpayet)
 
 ## mukta-m0-p171-v4263
-[abhiṣiñcet](abhiṣiñcet) [sva-mūrdhānam](svamūrdhānaṃ) [jalaiḥ](jalaiḥ) [kumbha-ākhyayā](kumbhākhyamudrayā) [mudrayā](kumbhākhyamudrayā)
+should-sprinkle(abhiṣiñcet) own+head(svamūrdhānam) with-waters(jalaiḥ) with-pitcher-named(kumbhākhya) gesture(mudrayā)
 
 ## mukta-m0-p171-v4264
-[nānā-vidhaiḥ](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ) [bhakṣya](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ) [bhojyaiḥ](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ) [lehyaiḥ](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ) [ca](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ) [upyaiḥ](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ) [tathā](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ) [itaraiḥ](nānāvidhairbhakṣyabhojyairlehyaiścopyaistathetaraiḥ)
+with-various(nānāvidhaiḥ) eatables(bhakṣyaiḥ) foods(bhojyaiḥ) with-lickables(lehyaiḥ) and(ca) with-suckables(copyaiḥ) thus(tathā) with-others(itaraiḥ)
 
 ## mukta-m0-p171-v4265
-[vipra-ārādhanam](viprārādhanamātreṇa) [mātreṇa](viprārādhanamātreṇa) [vyaṅgam](vyaṅgaṃ) [sāṅgatvam](sāṅgatvamāpnuyāt) [āpnuyāt](sāṅgatvamāpnuyāt)
+by-brāhmaṇa+worship(viprārādhanamātreṇa) deficient(vyaṅgam) completeness(sāṅgatvam) may-attain(āpnuyāt)
 
 ## mukta-m0-p171-v4266
-[aṅga-hīnam](aṅgahīnaṃ) [bhavet](bhavedyadyat) [yat yat](bhavedyadyat) [karma](karma) [na](neṣṭārthasādhakam) [iṣṭa-artha-sādhakam](neṣṭārthasādhakam)
+limb+deficient(aṅgahīnam) may-be(bhavet) if(yadi) which(yat) rite(karma) not(na) desired+object(iṣṭārtha) accomplishing(sādhakam)
 
 ## mukta-m0-p171-v4267
-[te](ta) [eva](eva) [pūrṇatām](pūrṇatāṃ) [yānti](yānti) [samastāni](samastāni) [bhavanti](bhavanti) [cet](cet)
+they(te) indeed(eva) completeness(pūrṇatām) attain(yānti) all(samastāni) become(bhavanti) if(cet)
 
 ## mukta-m0-p171-v4268
-[yāni yāni](yāni) [api](yānyapi) [karmāṇi](karmāṇi) [hīyante](hīyante) [dvija-bhojanaiḥ](dvijabhojanaiḥ)
+which(yāni) which(yāni) also(api) rites(karmāṇi) are-deficient(hīyante) by-brāhmaṇa+feedings(dvijabhojanaiḥ)
 
 ## mukta-m0-p171-v4269
-[gurum](guruṃ) [santoṣayet](santoṣayet) [paścāt](paścādgohiraṇyāmbarādibhiḥ) [go-hiraṇya-ambara-ādibhiḥ](paścādgohiraṇyāmbarādibhiḥ)
+teacher(gurum) should-satisfy(santoṣayet) afterwards(paścāt) with-cows+gold+garments(gohiraṇyāmbarādibhiḥ)
 
 ## mukta-m0-p171-v4270
-[ittham](itthaṃ) [puraścaraṇataḥ](puraścaraṇataḥ) [prasannā](prasannā) [devatā](devatā) [bhavet](bhavet)
+thus(ittham) from-preliminary-rites(puraścaraṇataḥ) pleased(prasannā) deity(devatā) should-be(bhavet)
 
 ## mukta-m0-p171-v4271
-[para-īritam](pareritaṃ) [vā](vā) [gāthām](gāthāṃ) [vā](vā) [saṃjapet](saṃjapedyadyanarthakṛt) [yadi](saṃjapedyadyanarthakṛt) [anartha-kṛt](saṃjapedyadyanarthakṛt)
+by-another+uttered(pareritam) or(vā) verse(gāthām) or(vā) should-recite(saṃjapet) if(yadi) harm+causing(anarthakṛt)
 
 ## mukta-m0-p171-v4272
-[brahma-hatyā-samaṃ](brahmahatyāsamaṃ) [teṣām](teṣāṃ) [pātakam](pātakaṃ) [parikīrtitam](parikīrtitam)
+brahmin+killing(brahmahatyā) equal(samam) of-them(teṣām) sin(pātakam) is-declared(parikīrtitam)
 
 ## mukta-m0-p171-v4273
-[mantram](mantraṃ) [guru-mukhāt](gurumukhāt) [prāptam](prāptamekaṃ) [ekam](prāptamekaṃ) [syāt](syāt) [sarva-siddhi-dam](sarvasiddhidam)
+mantra(mantram) from-teacher+mouth(gurumukhāt) obtained(prāptam) one(ekam) may-be(syāt) all+success(sarvasiddhidam)
 
 ## mukta-m0-p171-v4274
-[dūraṅgamam](dūraṅgamaṃ) [jyotiṣām](jyotiṣāṃ) [jyotiḥ](jyotirekaṃ) [ekam](jyotirekaṃ) [tan](tanme) [me](tanme) [manaḥ](manaḥ) [śiva-saṅkalpam](śivasaṅkalpamastu) [astu](śivasaṅkalpamastu)
+far-going(dūraṅgamam) of-lights(jyotiṣām) light(jyotiḥ) one(ekam) that(tat) my(me) mind(manaḥ) auspicious+resolve(śivasaṅkalpam) let-be(astu)
 
 ## mukta-m0-p171-v4275
-[yat](yadapūrvaṃ) [apūrvam](yadapūrvaṃ) [yakṣyamāṇaḥ](yakṣyamantaḥ) [antaḥ](antaḥ) [prajānām](prajānāṃ) [tan](tanme) [me](tanme) [manaḥ](manaḥ) [śiva-saṅkalpam](śivasaṅkalpamastu) [astu](śivasaṅkalpamastu)
+which(yat) unprecedented(apūrvam) to-be-sacrificed(yakṣyam) within(antaḥ) of-beings(prajānām) that(tat) my(me) mind(manaḥ) auspicious+resolve(śivasaṅkalpam) let-be(astu)

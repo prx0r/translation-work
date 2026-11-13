@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[initial-seed](ādyabījāntyasaprāṇairupetāmatha) [worship](pūjayet)
+[initial-seed](ādya-bīja) + [final](antya) + [with-vital-breaths](sa-prāṇaiḥ) + [endowed](upetā) + [then](atha) [one-should-worship](pūjayet)
 
 ## mukta-m0-p137-v3402
-[in-circle](vṛtte) [and](ca) [indeed](eva) [great-lakshmi](mahālakṣmīṃ) [fifth](pañcamīṃ) [in-middle](madhyatastathā)
+[in-circle](vṛtte) [and](ca) + [indeed](eva) [great-lakṣmī](mahā-lakṣmīm) [fifth](pañcamīm) [in-middle](madhyataḥ) + [likewise](tathā)
 
 ## mukta-m0-p137-v3403
-[up-to-neck-woman-form](ākaṇṭhavanitārūpāṃ) [blazing-tawny-hair](jvalatpiṅgaśiroruhām)
+[up-to-neck](ā-kaṇṭha) + [woman](vanitā) + [form](rūpām) [blazing](jvalat) + [tawny](piṅga) + [hair](śiroruhām)
 
 ## mukta-m0-p137-v3404
-[noose](pāśaṃ) [and](ca) [pestle](musalaṃ) [plow](sīram) [fearlessness](abhayaṃ) [boon](varadaṃ) [thus](tathā)
+[noose](pāśam) [and](ca) [club](musalam) [plough](sīram) [fearlessness](abhayam) [boon-giving](varadam) [likewise](tathā)
 
 ## mukta-m0-p137-v3405
-[in-tantra](tantre) [fourteenth](caturdaśaḥ) [breath](śvāsaḥ)
+[in-tantra](tantre) [fourteenth](caturdaśaḥ) [chapter](śvāsaḥ)
 
 ## mukta-m0-p137-v3406
-[auspicious-tripura-sundari](śrīmattripurasundaryā) [mother](jananyā) [of-worlds](jagatāṃ) [always](sadā)
+[of-glorious](śrīmat) + [tripurasundarī](tripurasundaryāḥ) [of-mother](jananyāḥ) [of-worlds](jagatām) [always](sadā)
 
 ## mukta-m0-p137-v3407
-[morning](prātaḥ) [tripura-sundari](tripurasundaryā) [i-bow](namāmi) [lotus-feet](caraṇāmbujam)
+[in-morning](prātaḥ) + [of-tripurasundarī](tripurasundaryāḥ) [I-bow](namāmi) [lotus-feet](caraṇa-ambujam)
 
 ## mukta-m0-p137-v3408
-[morning](prātastripurasundaryā) [i-bow](namāmi) [lotus-feet](padapaṅkajam)
+[in-morning](prātaḥ) + [of-tripurasundarī](tripurasundaryāḥ) [I-bow](namāmi) [lotus-feet](pada-paṅkajam)
 
 ## mukta-m0-p137-v3409
-[morning](prātaḥ) [i-bow](namāmyaham) [noose-goad-arrow-noose-handed](pāśāṃkuśaśarapāśahastāṃ)
+[in-morning](prātaḥ) [noose](pāśa) + [goad](aṅkuśa) + [arrow](śara) + [noose](pāśa) + [holding-in-hands](hastām) [I-bow](namāmi) + [I](aham)
 
 ## mukta-m0-p137-v3410
-[morning](prātar) [i-bow](namāmi) [lotus-feet](pādābjaṃ) [by-whom](yayedaṃ) [shines](bhāsate) [world](jagat)
+[in-morning](prātaḥ) + [I-bow](namāmi) [lotus-feet](pāda-abjam) [by-whom](yayā) + [this](idam) [shines](bhāsate) [world](jagat)
 
 ## mukta-m0-p137-v3411
-[who](yaḥ) [five-verse-collection](ślokapañcakamidaṃ) [morning](prātar) [daily](nityaṃ) [reads](paṭhennaraḥ)
+[who](yaḥ) [verse](śloka) + [five](pañcakam) + [this](idam) [in-morning](prātaḥ) + [daily](nityam) [reads](paṭhet) + [person](naraḥ)
 
 ## mukta-m0-p137-v3412
-[in-support](ādhāre) [heart](hṛdaye) [head](śīrṣe) [fire](vahnau) [sun](sūrye) [moon](niśākare)
+[in-base](ādhāre) [in-heart](hṛdaye) [on-head](śīrṣe) [in-fire](vahnau) [in-sun](sūrye) [in-moon](niśākare)
 
 ## mukta-m0-p137-v3413
-[places](nyasecca) [matrka-place](mātṛkāsthāne) [then](tadā) [that-body-purification](taddehaśuddhaye)
+[one-should-place](nyaset) + [and](ca) [in-mātṛkā](mātṛkā) + [places](sthāne) [then](tadā) [for-that](tat) + [body](deha) + [purification](śuddhaye)
 
 ## mukta-m0-p137-v3414
-[mature](prauḍhā) [and](ca) [partless](niṣkalā) [thus](ca) [twilight](sandhyā) [goddess](devi) [declared](prakīrtitā)
+[mature](prauḍhā) [and](ca) [partless](niṣkalā) + [and](ca) + [thus](iti) [twilight](sandhyā) [goddess](devi) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p137-v3415
-[kameshvari](kāmeśvarī) [and](ca) [midday](madhyāhne) [evening](sāyāhne) [city-bhairavi](purabhairavī)
+[kāmeśvarī](kāmeśvarī) [and](ca) [at-midday](madhyāhne) [in-evening](sāyāhne) [purabhairavī](purabhairavī)
 
 ## mukta-m0-p137-v3416
-[lightning-million-equal-radiance](taḍitkoṭisamābhāsāṃ) [young-girl](bālām) [aksha-garland-shining](akṣasragujjvalām)
+[lightning](taḍit) + [crore](koṭi) + [equal-in-splendor](samābhāsām) [young-girl](bālām) + [rosary](akṣa-srag) + [shining](ujjvalām)
 
 ## mukta-m0-p137-v3417
-[vagbhava](vāgbhavāṃ) [vagbhava-born](vāgbhavaudbhūtāṃ) [three-eyed](trīkṣaṇāṃ) [smiling](sasmitāṃ) [remember](smaret)
+[speech-seed](vāgbhavām) [from-speech-seed](vāgbhava-udbhūtām) [three-eyed](trī-kṣaṇām) [smiling](sa-smitām) [one-should-meditate](smaret)
 
 ## mukta-m0-p137-v3418
-[vagbija-form](vāgbījarūpāṃ) [eternal](nityāṃ) [her](tāṃ) [lightning-cluster-radiant](vidyutpaṭalabhāsvarām)
+[speech-seed](vāg-bīja) + [form](rūpām) [eternal](nityām) [her](tām) [lightning](vidyut) + [mass](paṭala) + [radiant](bhāsvarām)
 
 ## mukta-m0-p137-v3419
-[self-will-assumed-form](svecchāgṛhītavapuṣaṃ) [yuga-eternal-letter-self](yuganityākṣarātmikām)
+[by-own-will](sva-icchā) + [assumed](gṛhīta) + [body](vapuṣam) [pair](yuga) + [eternal](nitya) + [syllable](akṣara) + [nature](ātmikām)
 
 ## mukta-m0-p137-v3420
-[knowledge-mudra-vara-hands](jñānamudrāvarakarān) [vagbhava-worship-devoted](vāgbhavopāstitatparān)
+[knowledge](jñāna) + [gesture](mudrā) + [boon](vara) + [handed](karān) [in-worship-of-speech-seed](vāgbhava-upāsita) + [devoted](tatparān)
 
 ## mukta-m0-p137-v3421
-[to-be-done](kartavyā) [by-initiate](matriṇā) [daily](nityaṃ) [mantra-success-prosperity](mantrasiddhisamṛddhaye)
+[to-be-done](kartavyā) [by-practitioner](matriṇā) [daily](nityam) [for-mantra](mantra) + [accomplishment](siddhi) + [prosperity](samṛddhaye)
 
 ## mukta-m0-p137-v3422
-[impure](aśuddhaḥ) [he](sa) [evil-conduct](durācāraḥ) [all-rites-excluded](sarvakarmabahiṣkṛtaḥ)
+[impure](aśuddhaḥ) [he](saḥ) [of-bad-conduct](durācāraḥ) [from-all](sarva) + [rites](karma) + [excluded](bahiṣkṛtaḥ)
 
 ## mukta-m0-p137-v3423
-[offerings](homān) [having-done](kṛtvā) [o-great-goddess](maheśāni) [hell-born](nārakī) [becomes](jāyate) [man](naraḥ)
+[oblations](homān) [having-performed](kṛtvā) [O-great-goddess](mahā-īśāni) [hell-dweller](nārakī) [becomes](jāyate) [person](naraḥ)
 
 ## mukta-m0-p137-v3424
-[doing](kurvannakāraṇaṃ) [brahmin](viprastyajañ) [dog](śvā) [and](ca) [becomes](bhaveddhruvam)
+[doing](kurvan) + [without-cause](akāraṇam) [brahmin](vipraḥ) + [abandoning](tyajan) [dog](śvā) [and](ca) [becomes](bhavet) + [certainly](dhruvam)
 
 ## mukta-m0-p137-v3425
-[of-twilight-all](sandhyānāmapi) [all](sarvāsāṃ) [morning-twilight](prātaḥsandhyā) [greater](garīyasī)
+[of-twilights](sandhyānām) + [also](api) [of-all](sarvāsām) [morning](prātaḥ) + [twilight](sandhyā) [most-important](garīyasī)

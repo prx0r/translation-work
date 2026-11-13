@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p158-v3926
-for-liberation(mokṣārthe) by-twenty-five(pañcaviṃśatyā) twenty-seven(saptaviṃśatiḥ) in-nourishing(pauṣṭike)
+[for-liberation](mokṣārthe) [with-twenty-five](pañcaviṃśatyā) [twenty-seven](saptaviṃśatiḥ) [in-nourishment-rite](pauṣṭike)
+
 ## mukta-m0-p158-v3927
-brāhmaṇa(brāhmaṇaḥ) kṣatriya(kṣatriyaḥ) vaiśya(vaiśyaḥ) śūdra(śūdraḥ) and(ca) thus(iti) fourfold(caturvidhaḥ)
+[brahmin](brāhmaṇaḥ) [kṣatriya](kṣatriyo) [vaiśya](vaiśyaḥ) [śūdra](śūdraḥ) [and-thus](ca+iti) [fourfold](caturvidhaḥ)
+
 ## mukta-m0-p158-v3928
-among-these(eteṣu) brāhmaṇa(brāhmaṇaḥ) best(śreṣṭhaḥ) in-japa-mālā-making(japamālākṛte) greatly(bhṛśam)
+[among-these](eteṣu) [brahmin](brāhmaṇaḥ) [best](śreṣṭho) [for-making-rosary](japamālā+kṛte) [greatly](bhṛśam)
+
 ## mukta-m0-p158-v3929
-too-thick(atisthūlaḥ) too-subtle(atisūkṣmaḥ) and(ca) broken(sphuṭitaḥ) fragile(bhaṃguraḥ) light(laghuḥ)
+[too-thick](atisthūlaḥ) [too-fine](atisūkṣmaḥ) [and](ca) [cracked](sphuṭito) [brittle](bhaṃguro) [light](laghuḥ)
+
 ## mukta-m0-p158-v3930
-in-bead(maṇau) what-raised(yadunnatam) place(sthānam) face(mukham) back(pṛṣṭham) but(tu) depressed(nimnakam)
+[in-bead](maṇau) [which](yad) [raised](unnataṃ) [place](sthānaṃ) [face](mukhaṃ) [back](pṛṣṭhaṃ) [but](tu) [depressed](nimnakam)
+
 ## mukta-m0-p158-v3931
-from-mutual-rubbing(anyonyagharṣaṇāt) indeed(eva) loss-of-japa(japahāniḥ) would-be(bhavet) certainly(dhruvam)
+[from-mutual-rubbing](anyonya+gharṣaṇāt) [alone](eva) [loss-of-recitation](japa+hāniḥ) [would-be](bhavet) [certainly](dhruvam)
+
 ## mukta-m0-p158-v3932
-in-middle-between(anyonyamadhyadeśe) but(tu) to-be-made(kartavyāḥ) knots(granthayaḥ) auspicious(śubhāḥ)
+[in-mutual-middle-space](anyonya+madhya+deśe) [but](tu) [to-be-made](kartavyā) [knots](granthayaḥ) [auspicious](śubhāḥ)
+
 ## mukta-m0-p158-v3933
-of-wearing(dhāraṇasya) fruit(phalam) of-them(teṣām) will-be-spoken(vakṣyate) according-to-rite(vidhivat) in-order(kramāt)
+[of-wearing](dhāraṇasya) [fruit](phalaṃ) [of-them](teṣāṃ) [will-be-told](vakṣyate) [according-to-rule](vidhivat) [in-order](kramāt)
+
 ## mukta-m0-p158-v3934
-two-faced(dvivaktram) god-and-goddess(devadevyau) but(tu) cow-slaughter(govadham) destroys(nāśayet) certainly(dhruvam)
+[two-faced](dvivaktraṃ) [god-and-goddess](deva+devyau) [indeed](tu) [cow-killing](go+vadhaṃ) [destroys](nāśayet) [certainly](dhruvam)
+
 ## mukta-m0-p158-v3935
-four-faced(caturvaktraḥ) himself(svayam) Brahmā(brahmā) guru-murder(guruhatyām) removes(vyapohati)
+[four-faced](caturvaktraḥ) [himself](svayaṃ) [Brahmā](brahmā) [killing-of-guru](guru+hatyāṃ) [removes](vyapohati)
+
 ## mukta-m0-p158-v3936
-six-faced(ṣaḍvaktraḥ) Kārtikeya(kārtikeyaḥ) but(tu) should-wear(dhārayet) in-right-hand(dakṣiṇe+kare)
+[six-faced](ṣaḍvaktraḥ) [Kārtikeya](kārtikeyaḥ) [but](tu) [one-should-wear](dhārayet) [on-right](dakṣiṇe) [hand](kare)
+
 ## mukta-m0-p158-v3937
-seven-faced(saptavaktraḥ) great-serpent(mahānāgaḥ) indeed(hi) Ananta(anantaḥ) by-name(nāma) named(nāmataḥ)
+[seven-faced](saptavaktraḥ) [great-serpent](mahā+nāgaḥ) [indeed](hi) [Ananta](anantaḥ) [by-name](nāma) [by-name](nāmataḥ)
+
 ## mukta-m0-p158-v3938
-eight-faced(aṣṭavaktraḥ) Mahāsena(mahāsenaḥ) directly(sākṣāt) god(devaḥ) Gaṇādhipa(gaṇādhipaḥ)
+[eight-faced](aṣṭavaktraḥ) [Mahāsena](mahāsena) [visibly](sākṣāt) [god](devaḥ) [lord-of-gaṇas](gaṇa+adhipaḥ)
+
 ## mukta-m0-p158-v3939
-nine-faced(navavaktraḥ) Bhairava(bhairavaḥ) would-be(syāt) should-wear(dhārayet) in-left-hand(vāmahastake)
+[nine-faced](navavaktraḥ) [Bhairava](bhairavaḥ) [would-be](syāt) [one-should-wear](dhārayet) [on-left-hand](vāma+hastake)
+
 ## mukta-m0-p158-v3940
-ten-faced(daśavaktraḥ) would-be(bhavet) dear(vatsa) directly(sākṣāt) god(devaḥ) Janārdana(janārdanaḥ)
+[ten-faced](daśavaktraḥ) [would-be](bhavet) [child](vatsa) [visibly](sākṣāt) [god](devaḥ) [Janārdana](janārdanaḥ)
+
 ## mukta-m0-p158-v3941
-arising(sambhavāni) and(ca) faults(doṣāṇi) quickly(kṣipram) perish(naśyanti) by-wearing(dhāraṇāt)
+[arising](sambhavāni) [and](ca) [faults](doṣāṇi) [quickly](kṣipraṃ) [perish](naśyanti) [from-wearing](dhāraṇāt)
+
 ## mukta-m0-p158-v3942
-in-tuft(śikhāyām) should-wear(dhārayet) always(nityam) of-that(tasya) merit-fruit(puṇyaphalam) hear(śṛṇu)
+[on-topknot](śikhāyāṃ) [one-should-wear](dhārayet) [always](nityaṃ) [its](tasya) [fruit-of-merit](puṇya+phalaṃ) [hear](śṛṇu)
+
 ## mukta-m0-p158-v3943
-of-cows(gavām) hundred-thousand(śatasahasrasya) well-given(samyagdattasya) which-fruit(yatphalam)
+[of-cows](gavāṃ) [of-hundred-thousand](śata+sahasrasya) [properly-given](samyak+dattasya) [which](yat) [fruit](phalam)
+
 ## mukta-m0-p158-v3944
-twelve-faced-rudrākṣa(vaktradvādaśarudrākṣam) sun-twelve-natured(bhāskaradvādaśātmakam)
+[twelve-faced-rudrākṣa](vaktra+dvādaśa+rudrākṣaṃ) [of-twelve-suns-nature](bhāskara+dvādaśa+ātmakam)
+
 ## mukta-m0-p158-v3945
-thirteen-faced(vaktratrayodaśam) dear(vatsa) rudrākṣa(rudrākṣam) if(yadi) should-wear(dhārayet)
+[thirteen-faced](vaktra+trayodaśaṃ) [child](vatsa) [rudrākṣa](rudrākṣaṃ) [if](yadi) [one-wears](dhārayet)
+
 ## mukta-m0-p158-v3946
-fourteen-good-faced(caturdaśasuvaktram) indeed(vai) rudrākṣa(rudrākṣam) if(yadi) should-wear(dhārayet)
+[fourteen-faced](caturdaśa+su+vaktraṃ) [indeed](vai) [rudrākṣa](rudrākṣaṃ) [if](yadi) [one-wears](dhārayet)
+
 ## mukta-m0-p158-v3947
-pure(pavitramaya) face(vaktraḥ) but(tu) moon-crest-headed(śaśikhaṇḍaśirāḥ) himself(svayam)
+[pure](pavitram) [fifteen-faced](aya+vaktraḥ) [but](tu) [moon-crested-headed](śaśi+khaṇḍa+śirāḥ) [himself](svayam)
+
 ## mukta-m0-p158-v3948
-much(bahulam) is-obtained(prāpyate) merit(puṇyam) fortunate(bhāgyavān) becomes(jāyate) man(naraḥ)
+[abundant](bahulaṃ) [is-obtained](prāpyate) [merit](puṇyaṃ) [fortunate](bhāgyavān) [becomes](jāyate) [person](naraḥ)
+
 ## mukta-m0-p158-v3949
-in-expiation(prāyaścitte) and(tathā) in-śrāddha(śrāddhe) at-initiation-time(dīkṣākāle) especially(viśeṣataḥ)
+[in-expiation](prāyaścitte) [and-also](tathā) [in-śrāddha](śrāddhe) [at-initiation-time](dīkṣā+kāle) [especially](viśeṣataḥ)
+
 ## mukta-m0-p158-v3950
-who(yo) brāhmaṇa(vipraḥ) always(satatam) would-do(kuryāt) that-action(tatkarma) fruitful(saphalam) would-be(bhavet)
+[which](yo) [brahmin](vipraḥ) [always](satataṃ) [would-do](kuryāt) [that-rite](tat+karma) [fruitful](sa+phalaṃ) [would-be](bhavet)
