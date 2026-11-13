@@ -8,7 +8,7 @@
      "surface": "aṣṭau",
      "gloss": "eight",
      "grounds": "numeral eight",
-     "morph": "num.indecl"
+     "morph": "numeral.indecl."
     },
     {
      "surface": "ca",
@@ -18,28 +18,28 @@
     },
     {
      "surface": "siddhisaṃprāptirmūlakaulaṃ",
-     "gloss": "siddhi-attainment-root-Kaula",
-     "grounds": "compound: siddhi + attainment + root + Kaula",
-     "morph": "n.acc.sg.n"
+     "gloss": "siddhi-attainment-root-kaula",
+     "grounds": "fused sandhi compound",
+     "morph": "compound (siddhi+saṃprāpti+mūla+kaula)"
     },
     {
      "surface": "varānane",
-     "gloss": "O-fair-faced-one",
+     "gloss": "fair-faced-one",
      "grounds": "vocative address",
-     "morph": "n.voc.sg.f"
+     "morph": "voc.sg.f."
     }
    ],
    "question": "What is identified as the root Kaula in relation to the eight siddhis?",
    "premises": [
-    "Eight siddhis are enumerated.",
-    "Root Kaula is named.",
-    "Fair-faced one is addressed."
+    "eight siddhis are enumerated",
+    "their attainment is root Kaula",
+    "addressed to fair-faced goddess"
    ],
-   "inference": "Root Kaula is linked to eight siddhis.",
+   "inference": "root Kaula consists in attaining the eight siddhis",
    "uncertainties": [
-    "Exact syntactic relation of compound unclear."
+    "compound segmentation uncertain"
    ],
-   "plain_english": "Eight, and siddhi-attainment is root-Kaula, O fair-faced one."
+   "plain_english": "And the attainment of the eight siddhis is the root Kaula, O fair-faced one."
   }
  ]
 }

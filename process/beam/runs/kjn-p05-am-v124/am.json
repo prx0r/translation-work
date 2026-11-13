@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "Why does poison not enter the body even when bitten by great serpents?",
+ "question": "What does not enter the body even when bitten by great serpents?",
  "premises": [
-  "Poison does not enter the body.",
-  "Biting by great serpents occurs.",
-  "The statement is emphatic."
+  "poison is the subject",
+  "entry into body is denied",
+  "great serpents may bite"
  ],
- "inference": "The verse claims poison does not enter the body even after serpent bites.",
+ "inference": "Poison does not enter the body even after a bite by great serpents.",
  "uncertainties": [
-  "Whether daṃśito is passive participle or adjective."
+  "exact case of daṃśito"
  ],
- "plain_english": "Poison does not enter the body, even when bitten by great serpents."
+ "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }

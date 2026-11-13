@@ -1,17 +1,15 @@
 {
  "song": "kjn-p18",
  "verse": 450,
- "question": "How should the practitioner fill that body with milk and fillings always?",
+ "question": "How should a practitioner fill that body with milk and fillings always?",
  "premises": [
-  "milk-from precedes the filling",
-  "fillings are instrumental means",
-  "that body is the object filled",
-  "filling is prescribed always"
+  "Milk is taken from its source.",
+  "Fillings accompany the filling action.",
+  "The body is the object filled."
  ],
- "inference": "The verse prescribes continually filling the designated body using milk-derived and other fillings.",
+ "inference": "The body is continually filled with milk and fillings.",
  "uncertainties": [
-  "the ellipsis token is unresolved",
-  "exact grammatical force of pūrayet is uncertain"
+  "The ellipsis token is unresolved in the source."
  ],
- "plain_english": "One should always fill that body with milk and fillings."
+ "plain_english": "From milk ... with fillings, one should always fill that body."
 }

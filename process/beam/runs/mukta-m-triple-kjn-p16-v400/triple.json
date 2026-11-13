@@ -7,39 +7,39 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "forehead-syllable-mass-situated",
-     "grounds": "compound of lalāṭa varṇa rāśi sthaṃ",
-     "morph": "compound"
+     "grounds": "compound of forehead, syllable, mass, and situated",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numeral noun lakṣa",
-     "morph": "acc.sg.n"
+     "grounds": "accusative object of counting",
+     "morph": "noun.acc.sg.n"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
      "grounds": "absolutive from root kṛ",
-     "morph": "abs"
+     "morph": "gerund"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "O-god-worshipped",
-     "grounds": "compound of sura and arcite",
+     "gloss": "god-worshipped",
+     "grounds": "compound of god and worshipped",
      "morph": "voc.sg.m"
     }
    ],
-   "question": "What must be completed in the forehead-syllable mass before the secret Kaula teaching is given?",
+   "question": "What prescribed action follows situating the forehead syllable mass and worshipping the god?",
    "premises": [
-    "the secret teaching is not given to everyone",
-    "the teaching is to be protected",
-    "completion requires a hundred thousand repetitions"
+    "Forehead syllable mass is situated.",
+    "Hundred thousand is to be done.",
+    "God is worshipped."
    ],
-   "inference": "the practitioner must complete a hundred thousand repetitions situated in the forehead-syllable mass before the worshipped god",
+   "inference": "The verse links situating, counting, and divine worship in one rite.",
    "uncertainties": [
-    "the exact ritual referent of forehead-syllable-mass is unclear"
+    "Exact ritual referent of the forehead syllable mass remains unclear."
    ],
-   "plain_english": "Having done a hundred thousand [repetitions] situated in the forehead-syllable mass, O worshipped god."
+   "plain_english": "Having situated the forehead syllable mass, having done a hundred thousand, O god-worshipped."
   }
  ]
 }

@@ -7,43 +7,43 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun referring to the Lord's hidden nature",
-     "morph": "acc.sg.m (pron.)"
+     "grounds": "demonstrative pronoun accusative singular masculine",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive from root jñā",
-     "morph": "indecl. (absolutive)"
+     "grounds": "absolutive of jñā",
+     "morph": "(indecl.)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound accusative object of jñātvā",
-     "morph": "acc.sg.m (compound)"
+     "grounds": "compound accusative singular masculine",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun as subject of prajāyate",
-     "morph": "nom.sg.n (abstract noun)"
+     "grounds": "abstract noun nominative singular neuter",
+     "morph": "nom.sg.n"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb with prefix pra from root jan",
-     "morph": "3.sg.ātm.-pres. (root jan)"
+     "grounds": "verb prajāyate third singular middle present",
+     "morph": "3.sg.mid-pres"
     }
    ],
-   "question": "How does knowing the hidden true nature of the Lord produce all-knowingness in the bound soul?",
+   "question": "What arises when the hidden true nature is known?",
    "premises": [
-    "The soul knows the hidden true nature.",
-    "All-knowingness arises from that knowledge.",
-    "Divine grace leads toward liberation."
+    "hidden true nature is known",
+    "all-knowingness arises from that knowledge",
+    "taṃ refers to hidden true nature"
    ],
-   "inference": "Knowledge of the Lord's hidden true nature causes all-knowingness to arise.",
+   "inference": "knowing hidden true nature produces all-knowingness",
    "uncertainties": [
-    "The exact syntactic role of sarvajñatvam is inferred from context."
+    "gūḍhasadbhāvaṃ parsed as compound accusative"
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }

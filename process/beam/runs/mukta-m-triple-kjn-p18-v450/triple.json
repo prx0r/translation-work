@@ -7,53 +7,51 @@
     {
      "surface": "kṣīrādā",
      "gloss": "milk-from",
-     "grounds": "kṣīra (milk) + ādā (from) fused",
+     "grounds": "milk plus from, fused source form",
      "morph": "indecl."
     },
     {
      "surface": "....",
      "gloss": "ellipsis",
-     "grounds": "unresolved token in source",
+     "grounds": "source ellipsis retained",
      "morph": "indecl."
     },
     {
      "surface": "viplakāraiḥ",
      "gloss": "with-fillings",
-     "grounds": "viplaka (filling) + instrumental plural ending",
-     "morph": "m.inst.pl"
+     "grounds": "filling substance in instrumental plural",
+     "morph": "instr.pl.m"
     },
     {
      "surface": "pūrayet",
      "gloss": "should-fill",
-     "grounds": "root pūr, optative/imperative third singular",
-     "morph": "verb.3.sg.act-opt"
+     "grounds": "optative filling action",
+     "morph": "3.sg.opt.act"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "tat (that) + tanu (body), accusative singular",
-     "morph": "m.acc.sg"
+     "grounds": "that plus body in accusative",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "indeclinable adverb",
+     "grounds": "temporal adverb",
      "morph": "indecl."
     }
    ],
-   "question": "How should the practitioner fill that body with milk and fillings always?",
+   "question": "How should a practitioner fill that body with milk and fillings always?",
    "premises": [
-    "milk-from precedes the filling",
-    "fillings are instrumental means",
-    "that body is the object filled",
-    "filling is prescribed always"
+    "Milk is taken from its source.",
+    "Fillings accompany the filling action.",
+    "The body is the object filled."
    ],
-   "inference": "The verse prescribes continually filling the designated body using milk-derived and other fillings.",
+   "inference": "The body is continually filled with milk and fillings.",
    "uncertainties": [
-    "the ellipsis token is unresolved",
-    "exact grammatical force of pūrayet is uncertain"
+    "The ellipsis token is unresolved in the source."
    ],
-   "plain_english": "One should always fill that body with milk and fillings."
+   "plain_english": "From milk ... with fillings, one should always fill that body."
   }
  ]
 }
