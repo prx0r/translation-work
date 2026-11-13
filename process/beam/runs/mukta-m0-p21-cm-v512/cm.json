@@ -3,14 +3,29 @@
  "verse": 512,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "tadā",
    "morph": "(indecl.)",
-   "grounds": "section marker"
+   "grounds": "temporal adverb"
   },
   {
-   "lemma": "ṣaṣṭhī+bādhakaḥ",
-   "morph": "compound: ṣaṣṭhī+modifier, bādhakaḥ+head; m.nom.sg",
-   "grounds": "name of an obstructing entity"
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "pravalaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "predicate adjective describing Kali"
+  },
+  {
+   "lemma": "kaliḥ",
+   "morph": "m.nom.sg",
+   "grounds": "name of the age or force of strife"
+  },
+  {
+   "lemma": "jñātavyaḥ",
+   "morph": "m.nom.sg (gerundive, √jñā)",
+   "grounds": "gerundive indicating what must be recognized"
   }
  ]
 }

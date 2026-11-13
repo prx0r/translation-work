@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "kula+dharmasya",
+     "gloss": "of-family-duty",
+     "grounds": "genitive compound denoting duties pertaining to the family or lineage",
+     "morph": "kula+dharma.gen.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking the cited term as an example in enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "term indicating continuation of similar items beyond those named",
+     "morph": "ādi.nom.sg.n"
+    }
+   ],
+   "question": "How does the enumeration of prescribed rites extend to include family duties?",
+   "premises": [
+    "The preceding verses enumerate specific rites and life-stage duties.",
+    "The expression kula+dharmasya names family duty as an included category.",
+    "The term ādi signals that further similar obligations are implied."
+   ],
+   "inference": "Family duties and comparable obligations are included within the prescribed actions.",
+   "uncertainties": [
+    "The full scope of items implied by ādi is not specified."
+   ],
+   "plain_english": "and so forth, such as family duties."
+  }
+ ]
+}

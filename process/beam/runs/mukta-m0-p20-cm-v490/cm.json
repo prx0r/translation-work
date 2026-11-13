@@ -3,24 +3,34 @@
  "verse": 490,
  "rows": [
   {
-   "lemma": "trailokyaṃ",
-   "morph": "tri+loka (n.acc.sg)",
-   "grounds": "object agitated"
+   "lemma": "sarve",
+   "morph": "m.nom.pl",
+   "grounds": "the entirety of the group"
   },
   {
-   "lemma": "kṣobhayatyeva",
-   "morph": "3.sg.active-present √kṣubh-causative + eva",
-   "grounds": "sandhi kṣobhayati + eva"
+   "lemma": "devāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "male deities"
   },
   {
-   "lemma": "satyaṃ",
-   "morph": "satya (n.nom.sg)",
-   "grounds": "emphatic assertion"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
   },
   {
-   "lemma": "satyaṃ",
-   "morph": "satya (n.nom.sg)",
-   "grounds": "repeated emphasis"
+   "lemma": "devyaḥ",
+   "morph": "f.nom.pl",
+   "grounds": "female deities"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "pūjitāḥ",
+   "morph": "m.nom.pl.past-part",
+   "grounds": "honored through worship"
   },
   {
    "lemma": "na",
@@ -28,9 +38,14 @@
    "grounds": "negation"
   },
   {
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "in this matter"
+  },
+  {
    "lemma": "saṃśayaḥ",
-   "morph": "saṃśaya (m.nom.sg)",
-   "grounds": "negated state"
+   "morph": "m.nom.sg",
+   "grounds": "uncertainty"
   }
  ]
 }

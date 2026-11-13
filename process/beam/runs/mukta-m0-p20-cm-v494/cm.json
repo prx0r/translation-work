@@ -3,29 +3,39 @@
  "verse": 494,
  "rows": [
   {
-   "lemma": "tasmāt",
+   "lemma": "sarvadharma",
+   "morph": "compound-member",
+   "grounds": "all dharmas; first member of compound"
+  },
+  {
+   "lemma": "uttamāt",
+   "morph": "m.abl.sg",
+   "grounds": "than the highest among all dharmas"
+  },
+  {
+   "lemma": "kaulāt",
+   "morph": "m.abl.sg",
+   "grounds": "than the kaula dharma"
+  },
+  {
+   "lemma": "paraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "superior or beyond"
+  },
+  {
+   "lemma": "dharmaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "religious path or duty"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "conclusion marker"
+   "grounds": "negation"
   },
   {
-   "lemma": "sarvaprayatnena",
-   "morph": "sarva+prayatna (m.inst.sg)",
-   "grounds": "instrumental of manner"
-  },
-  {
-   "lemma": "kartavyañ",
-   "morph": "kartavya (n.nom.sg)",
-   "grounds": "obligation; sandhi ñ for m before ca"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "maheśvari",
-   "morph": "mahā+īśvarī (f.voc.sg)",
-   "grounds": "vocative address"
+   "lemma": "vidyate",
+   "morph": "3.sg.pass-pres",
+   "grounds": "is found or exists"
   }
  ]
 }

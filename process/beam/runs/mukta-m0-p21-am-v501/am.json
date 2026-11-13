@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p21",
  "verse": 501,
- "question": "Which lunar days define the period for beginning the prescribed practice?",
+ "question": "What condition is established when a certain process has begun?",
  "premises": [
-  "The period begins from the fourth day.",
-  "The period extends up to the ninth day.",
-  "This span is presented as a possible time frame."
+  "A process has commenced",
+  "The commencement sets a condition for what follows"
  ],
- "inference": "The prescribed practice may be undertaken in a period beginning on the fourth day and lasting until the ninth day.",
- "uncertainties": [],
- "plain_english": "But beginning from the fourth day, it may extend up to the ninth day."
+ "inference": "The beginning of this process marks the onset of the subsequent state",
+ "uncertainties": [
+  "The specific process begun is supplied by the surrounding context"
+ ],
+ "plain_english": "When it has begun,"
 }

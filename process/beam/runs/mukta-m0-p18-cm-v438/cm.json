@@ -3,24 +3,29 @@
  "verse": 438,
  "rows": [
   {
-   "lemma": "daśāhābhyantare",
-   "morph": "compound=num+n+n.loc.sg",
-   "grounds": "compound locative: daśa + aha + abhyantara"
+   "lemma": "dvitīya",
+   "morph": "compound-member",
+   "grounds": "next"
   },
   {
-   "lemma": "vairivināśo",
-   "morph": "compound=n+n.nom.sg",
-   "grounds": "compound: vairi + vināśa, result of rite"
+   "lemma": "śloka",
+   "morph": "compound-member",
+   "grounds": "stanza"
   },
   {
-   "lemma": "jāyate",
-   "morph": "3.sg.pres.mid √jan",
-   "grounds": "present of jan, occurrence of result"
+   "lemma": "gataiḥ",
+   "morph": "n.ins.pl",
+   "grounds": "occurring in"
   },
   {
-   "lemma": "dhruvam",
-   "morph": "(indecl.)",
-   "grounds": "adverb asserting certainty of result"
+   "lemma": "padaiḥ",
+   "morph": "n.ins.pl",
+   "grounds": "by terms"
+  },
+  {
+   "lemma": "anvayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "syntactic or logical construal"
   }
  ]
 }
