@@ -1,6 +1,6 @@
 {
- "rev": "12f851d836933497c1253bee2cd5aaec8f827a58",
- "at": "2026-11-13T05:05:53+00:00",
+ "rev": "16bc30033ce8c5b27d121dbb5868c7cdd510b3cf",
+ "at": "2026-11-13T05:08:58+00:00",
  "files": {
   "ajadapramatrsiddhi/data/ajad-p01.argmap.json": {
    "sha256": "f7f7ec1ce551288d8b4f2e2294a3351a25afefbdc3efb460413975c6e271df80",
@@ -24170,6 +24170,22 @@
    "sha256": "ea19051d46c96bb36baa3ad8eaef23e3fdec1934640537b97a29c7699861fb6c",
    "bytes": 3975
   },
+  "mukta-m00247/T1-mukta-m0-p10.md": {
+   "sha256": "3e707c3be2b4371992a1bf68c9e1e30c2d93af83e9d6cf5a8485306c88578c1e",
+   "bytes": 4489
+  },
+  "mukta-m00247/T1-mukta-m0-p11.md": {
+   "sha256": "3996c09684d903ab6763f8cccc7da3009240b13f81781edbee3e6b9d2ebf1014",
+   "bytes": 4605
+  },
+  "mukta-m00247/T1-mukta-m0-p12.md": {
+   "sha256": "bf7c2774fe63e337e2c3ee24b8f4e6567e0780450e86b18f19ea8fab58f5542b",
+   "bytes": 4140
+  },
+  "mukta-m00247/T1-mukta-m0-p13.md": {
+   "sha256": "109eebdf6b7509f14ea39d6c532394b861fb024ed771fb80bf88c404e50756a3",
+   "bytes": 4050
+  },
   "mukta-m00247/STATUS.json": {
    "sha256": "e77ba66490c52479a2ba1a78b83912d0490096a144bf5991bd1f1824d66aa2bc",
    "bytes": 166
@@ -29657,6 +29673,86 @@
   "svabodhasiddhi/GATE.json": {
    "sha256": "3979482293afb24aed10dd08ac278c3c07ddce108c48ffb031f6c480d9fec329",
    "bytes": 2171
+  },
+  "svacchandatantra/data/sva-p01.argmap.json": {
+   "sha256": "14c8c73c8e91915d4708e594639ea5bcf5607523cba620d6ce9375844401e1e1",
+   "bytes": 20599
+  },
+  "svacchandatantra/data/sva-p01.c1.json": {
+   "sha256": "54422a1b5956fc6868c50ef1a9b3bed455a8388835f9e0771838c4da7b5d8b1e",
+   "bytes": 660
+  },
+  "svacchandatantra/data/sva-p01.l0.json": {
+   "sha256": "3fd1b5480ef078cf5567717240c66d6c9dc5f6551f26fa823aef91cd4af56750",
+   "bytes": 36469
+  },
+  "svacchandatantra/data/sva-p01.l2.json": {
+   "sha256": "75a13f269aac311b40cfab16ed03ffa2c18bff973a227f05326e1d4ac97fe4db",
+   "bytes": 8757
+  },
+  "svacchandatantra/data/sva-p01.t1.json": {
+   "sha256": "f111e4a5bb5ed8c851f85b823a712566a7a457ff3fd38aa4514f2e19d2fad2b4",
+   "bytes": 22581
+  },
+  "svacchandatantra/data/sva-p02.argmap.json": {
+   "sha256": "17bae39f5adbd2e16826b5541a3328de8eccf0c4f22a3d34c30fde69416c7f27",
+   "bytes": 20734
+  },
+  "svacchandatantra/data/sva-p02.c1.json": {
+   "sha256": "6d1eb4219623cd8d99f41e25c52a48d5c58c5f46f8ad449a77c43d0215a9f755",
+   "bytes": 589
+  },
+  "svacchandatantra/data/sva-p02.l0.json": {
+   "sha256": "a915884bb90c6ba705192233d702cdd7d8668244713db1bc7ee920efd363d563",
+   "bytes": 35205
+  },
+  "svacchandatantra/data/sva-p02.l2.json": {
+   "sha256": "1fd9504cf450d03c3f2ecd1bc50db2f05db8f5cccc93c3dd398ae8bb36b6bfa0",
+   "bytes": 8887
+  },
+  "svacchandatantra/data/sva-p02.t1.json": {
+   "sha256": "9f5889d26399bc4e382893c53ebb936dfbc13f16c52876ab6006e74da8050d5e",
+   "bytes": 22956
+  },
+  "svacchandatantra/data/sva-p03.argmap.json": {
+   "sha256": "6412be7d0056e2ccd7cc4003a29e1c3f970c006f59366ea36e793126109a40ae",
+   "bytes": 20271
+  },
+  "svacchandatantra/data/sva-p03.c1.json": {
+   "sha256": "000ff56f07f7ea6fb2f739f2feb12339e31123d69909239752f0a7171cdb0b32",
+   "bytes": 514
+  },
+  "svacchandatantra/data/sva-p03.l0.json": {
+   "sha256": "0eacc2f70fa9147b2a9330dd6ca85948d549dbef831c830493a5398ffe628e11",
+   "bytes": 41320
+  },
+  "svacchandatantra/data/sva-p03.l2.json": {
+   "sha256": "c807d34e6b71d8afde03b8bf535e45ca229221c592005e81a511629002792f74",
+   "bytes": 8532
+  },
+  "svacchandatantra/data/sva-p03.t1.json": {
+   "sha256": "a41d66d8b2f4de05961f695cea10d7eb6747024cfa5c7a4827bcf9640f32199b",
+   "bytes": 24561
+  },
+  "svacchandatantra/data/sva-p04.argmap.json": {
+   "sha256": "e4ec5e400ab2d848a2df8ddd6c4901fe70ca58f97d44d285805f442e6c2ae1e4",
+   "bytes": 18744
+  },
+  "svacchandatantra/data/sva-p04.c1.json": {
+   "sha256": "72b2940c997fac4d772006a50129c8a11010614453c21a4655023c7e567860b1",
+   "bytes": 544
+  },
+  "svacchandatantra/data/sva-p04.l0.json": {
+   "sha256": "2be77cf3d0b8f144462915c3c7c4d455e42ea330c2e7eceeb875db4ffaf3e17a",
+   "bytes": 35055
+  },
+  "svacchandatantra/data/sva-p04.l2.json": {
+   "sha256": "622ce0a661aa65a53d40ccfb996f1fa2e5eef8133eeff5247327b27afee9d21b",
+   "bytes": 8297
+  },
+  "svacchandatantra/data/sva-p04.t1.json": {
+   "sha256": "c8bca52af0365bac4a752612066e9d1e81715b5fb91861c38db437ee9c32243a",
+   "bytes": 21101
   },
   "svacchandatantra/data/sva-p07.argmap.json": {
    "sha256": "39b1651366f298ddc6bcdc731dfe97c8826fdd77b4ceae71bf32271d2eb8699a",

@@ -1,15 +1,13 @@
 {
  "song": "sva-p01",
  "verse": 9,
- "question": "What status serves as the reason for the designation under discussion?",
+ "question": "What status serves as the reason for the condition being explained?",
  "premises": [
-  "A reason is expressed by an abstract noun in the ablative.",
-  "The abstract noun denotes the state of being a disciple.",
-  "Such a form typically explains a designation or condition."
+  "A reason is being given.",
+  "The reason is the state of being a disciple.",
+  "Discipleship functions as the explanatory ground."
  ],
- "inference": "The designation is grounded in the status of discipleship.",
- "uncertainties": [
-  "The specific designation being explained is not stated in this unit."
- ],
+ "inference": "The condition is explained by the fact of being a disciple.",
+ "uncertainties": [],
  "plain_english": "Because of being a disciple."
 }

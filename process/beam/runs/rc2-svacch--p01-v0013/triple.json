@@ -7,53 +7,53 @@
     {
      "surface": "mitadṛṣṭibhiravikalpyatvāt",
      "gloss": "because-unimaginable-by-limited-seers",
-     "grounds": "Causal compound giving reason: limited seers cannot conceive the deity's true nature.",
-     "morph": "compound.abl.sg.n"
+     "grounds": "Compound expressing reason: limited seers cannot conceive the deity; ablative sense of cause.",
+     "morph": "compound+abl.sg.n"
     }
    ],
-   "question": "Why can limited seers not conceptually determine the deity's true nature?",
+   "question": "Why can limited seers not conceptually grasp the deity?",
    "premises": [
     "Limited seers possess restricted vision.",
-    "Restricted vision cannot encompass the deity's nature.",
-    "What cannot be encompassed cannot be conceptually determined."
+    "The deity exceeds their conceptual capacity.",
+    "What exceeds conceptual capacity is unimaginable to them."
    ],
-   "inference": "Therefore the deity remains unimaginable to limited seers.",
+   "inference": "Therefore the deity is unimaginable by limited seers.",
    "uncertainties": [],
-   "plain_english": "Because those of limited vision cannot conceive it."
+   "plain_english": "This is because those with limited vision cannot conceive of the deity."
   },
   {
    "verse": 14,
    "rows": [
     {
      "surface": "devam",
-     "gloss": "the-god",
-     "grounds": "Direct object of worship.",
+     "gloss": "god",
+     "grounds": "Object of worship.",
      "morph": "m.acc.sg"
     },
     {
      "surface": "avargeṇa",
      "gloss": "with-avarga",
-     "grounds": "Instrumental indicating the means or formula class used in worship.",
+     "grounds": "Instrumental indicating the means or formula used in worship.",
      "morph": "m.inst.sg"
     },
     {
      "surface": "prapūjayet",
      "gloss": "one-should-worship-thoroughly",
-     "grounds": "Prescriptive injunction to perform worship.",
-     "morph": "3.sg.opt.act √pūj"
+     "grounds": "Prescriptive injunction for ritual worship.",
+     "morph": "3.sg.opt.act (√pūj)"
     }
    ],
-   "question": "By what means should one thoroughly worship the deity?",
+   "question": "By what means should the deity be thoroughly worshipped?",
    "premises": [
     "The deity is the object of worship.",
-    "Worship requires a prescribed means.",
-    "The avarga provides that prescribed means."
+    "A specific means is prescribed for worship.",
+    "The avarga serves as that prescribed means."
    ],
    "inference": "Therefore one should thoroughly worship the deity with the avarga.",
    "uncertainties": [
-    "The exact technical scope of avarga in this ritual context is not specified."
+    "The precise technical referent of avarga in this ritual context is not specified here."
    ],
-   "plain_english": "One should thoroughly worship the god with the avarga."
+   "plain_english": "One should thoroughly worship the god using the avarga."
   },
   {
    "verse": 15,
@@ -65,15 +65,15 @@
      "morph": "f.nom.sg (gerundive)"
     }
    ],
-   "question": "What status is attributed to the deity or form under discussion?",
+   "question": "What status of worship-worthiness is affirmed for the deity?",
    "premises": [
-    "Ritual practice requires a worthy object.",
-    "The subject is presented as fit for worship.",
-    "Fitness for worship establishes ritual eligibility."
+    "The deity is presented as an object of reverence.",
+    "Reverence entails worship-worthiness.",
+    "Worship-worthiness is explicitly affirmed."
    ],
-   "inference": "Therefore the subject is worthy of worship.",
+   "inference": "Therefore the deity is worthy of worship.",
    "uncertainties": [
-    "The specific referent of pūjyā is supplied by context."
+    "The implied subject is not explicitly stated in this token."
    ],
    "plain_english": "She is worthy of worship."
   },
@@ -83,37 +83,37 @@
     {
      "surface": "rūpatve'pi",
      "gloss": "even-in-having-form",
-     "grounds": "Concessive compound with enclitic api: even if form is admitted.",
-     "morph": "compound.loc.sg.n+indecl."
+     "grounds": "Concessive compound with sandhi-marked fusion indicating 'even if having form'.",
+     "morph": "compound+loc.sg.n+(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "Negates the following impossibility.",
+     "grounds": "Negation particle.",
      "morph": "(indecl.)"
     },
     {
      "surface": "kācid",
      "gloss": "any",
-     "grounds": "Indefinite qualifier emphasizing absence of exception.",
+     "grounds": "Indefinite adjective qualifying impossibility.",
      "morph": "f.nom.sg"
     },
     {
      "surface": "anupapattiḥ",
      "gloss": "impossibility",
-     "grounds": "States that no logical or doctrinal incongruity arises.",
+     "grounds": "Subject asserting absence of logical or doctrinal difficulty.",
      "morph": "f.nom.sg"
     }
    ],
-   "question": "Does attributing form to the deity create any doctrinal impossibility?",
+   "question": "Does possessing form create any impossibility for the deity?",
    "premises": [
     "The deity may be considered as having form.",
-    "An objection could claim form entails impossibility.",
+    "Having form could be thought to entail impossibility.",
     "No such impossibility is admitted."
    ],
-   "inference": "Therefore even having form involves no impossibility.",
+   "inference": "Therefore even in having form there is no impossibility.",
    "uncertainties": [],
-   "plain_english": "Even if it has form, there is no impossibility at all."
+   "plain_english": "Even if the deity has form, there is no impossibility in that."
   },
   {
    "verse": 17,
@@ -121,37 +121,37 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "Connects this point to the preceding discussion.",
+     "grounds": "Connective particle linking to prior discussion.",
      "morph": "(indecl.)"
     },
     {
      "surface": "kramayogaḥ",
      "gloss": "sequential-practice",
-     "grounds": "Names the method of ordered application.",
+     "grounds": "Compound naming a graded or sequential method.",
      "morph": "m.nom.sg"
     },
     {
      "surface": "dvitīyādipaṭalabhāvinyāsāvasaropayogi",
-     "gloss": "useful-for-arrangement-occasions-in-second-and-later-chapters",
-     "grounds": "Compound indicating applicability to future ritual arrangement contexts.",
+     "gloss": "useful-for-arrangement-in-second-and-later-chapters",
+     "grounds": "Long compound indicating applicability to arrangements in subsequent chapters.",
      "morph": "m.nom.sg"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "Marks conclusion or citation of the point.",
+     "grounds": "Quotation or concluding marker.",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What practical purpose does the sequential practice serve in later chapters?",
+   "question": "What purpose does sequential practice serve in later chapters?",
    "premises": [
-    "A sequential practice is being described.",
-    "Later chapters involve occasions for ritual arrangement.",
-    "The sequential practice applies to those occasions."
+    "Sequential practice is introduced as a method.",
+    "Later chapters involve arrangements or placements.",
+    "This method is useful for those later arrangements."
    ],
-   "inference": "Therefore the sequential practice is useful for arrangement occasions in the second and later chapters.",
+   "inference": "Therefore sequential practice is useful for the arrangements in the second and later chapters.",
    "uncertainties": [],
-   "plain_english": "And thus the sequential practice is useful for the occasions of arrangement in the second and later chapters."
+   "plain_english": "And thus, sequential practice is useful for the arrangements that will occur in the second and later chapters."
   },
   {
    "verse": 18,
@@ -159,27 +159,27 @@
     {
      "surface": "vyāpyamānaṃ",
      "gloss": "being-pervaded",
-     "grounds": "Object of contemplative awareness, described as pervaded.",
-     "morph": "n.acc.sg.pres.pass.part √vyāp"
+     "grounds": "Present passive participle indicating what is to be contemplated as pervaded.",
+     "morph": "n.acc.sg.pres.pass.part (√vyāp)"
     },
     {
      "surface": "parāmṛśet",
      "gloss": "one-should-contemplate",
-     "grounds": "Prescriptive instruction for reflective awareness.",
-     "morph": "3.sg.opt.act √parāmṛś"
+     "grounds": "Prescriptive injunction for contemplative awareness.",
+     "morph": "3.sg.opt.act (√parāmṛś)"
     }
    ],
-   "question": "How should the practitioner contemplatively apprehend what is being pervaded?",
+   "question": "How should the pervaded reality be contemplatively apprehended?",
    "premises": [
-    "Something is presented as being pervaded.",
-    "Contemplative practice requires a mode of apprehension.",
-    "Reflective contemplation is prescribed."
+    "A reality is presented as being pervaded.",
+    "Contemplation is prescribed as a practice.",
+    "The pervaded reality is the object of that contemplation."
    ],
    "inference": "Therefore one should contemplatively apprehend what is being pervaded.",
    "uncertainties": [
-    "The specific locus or object being pervaded is not explicit in this verse."
+    "The specific referent of what is pervaded is not stated in this verse."
    ],
-   "plain_english": "One should contemplatively apprehend that which is being pervaded."
+   "plain_english": "One should contemplate that which is being pervaded."
   },
   {
    "verse": 19,
@@ -187,51 +187,49 @@
     {
      "surface": "yasyās",
      "gloss": "of-whom",
-     "grounds": "Relative pronoun introducing the subject whose state changes.",
+     "grounds": "Relative pronoun indicating the subject whose condition changes.",
      "morph": "f.gen.sg"
     },
     {
      "surface": "tu",
      "gloss": "but",
-     "grounds": "Marks emphasis or contrast.",
+     "grounds": "Contrastive particle.",
      "morph": "(indecl.)"
     },
     {
      "surface": "nyāsamātreṇa",
      "gloss": "by-mere-placement",
-     "grounds": "Instrumental indicating that placement alone is sufficient cause.",
+     "grounds": "Instrumental indicating the sole means causing dissolution of limitation.",
      "morph": "n.inst.sg"
     },
     {
      "surface": "aṇutvaṃ",
-     "gloss": "atomicity",
-     "grounds": "The limited contracted state that dissolves.",
+     "gloss": "atomic-limitation",
+     "grounds": "State of limited individuality to be dissolved.",
      "morph": "n.nom.sg"
     },
     {
      "surface": "pravilīyate",
      "gloss": "dissolves",
-     "grounds": "Describes the dissolution of limitation.",
-     "morph": "3.sg.pres.pass.ind √lī"
+     "grounds": "Verb describing the dissolution of limitation.",
+     "morph": "3.sg.pres.pass.ind (pra-√lī)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "Marks the stated principle.",
+     "grounds": "Concluding marker.",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What effect does mere ritual placement have on the practitioner's contracted state?",
+   "question": "What effect does mere ritual placement have on atomic limitation?",
    "premises": [
-    "A practitioner may be in a state of atomicity.",
-    "Mere placement is applied in practice.",
-    "This application causes atomicity to dissolve."
+    "A practitioner undergoes ritual placement.",
+    "Mere placement can be efficacious.",
+    "Atomic limitation is subject to dissolution."
    ],
-   "inference": "Therefore mere placement dissolves the practitioner's atomicity.",
-   "uncertainties": [
-    "The referent of yasyās depends on the preceding context."
-   ],
-   "plain_english": "But for whom, by mere placement, atomicity dissolves — thus it is said."
+   "inference": "Therefore by mere placement the practitioner's atomic limitation dissolves.",
+   "uncertainties": [],
+   "plain_english": "But for whom atomic limitation dissolves by mere placement alone, thus it is said."
   },
   {
    "verse": 20,
@@ -239,45 +237,45 @@
     {
      "surface": "cinmūtībhittiṃ",
      "gloss": "wall-of-consciousness-form",
-     "grounds": "Metaphorical barrier identified with consciousness-form to be pierced.",
+     "grounds": "Compound naming the barrier of consciousness-form to be pierced.",
      "morph": "f.acc.sg"
     },
     {
      "surface": "bhittvā",
      "gloss": "having-pierced",
-     "grounds": "Prior action enabling emergence.",
-     "morph": "gerund √bhid"
+     "grounds": "Absolutive indicating prior action.",
+     "morph": "absolutive (√bhid)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "Emphasizes the necessity or immediacy of the act.",
+     "grounds": "Emphatic particle.",
      "morph": "(indecl.)"
     },
     {
      "surface": "niryātam",
      "gloss": "emerged",
-     "grounds": "Describes what has come forth after piercing.",
-     "morph": "n.acc.sg.past.pass.part √yā"
+     "grounds": "Past participle describing what has come forth.",
+     "morph": "n.acc.sg.past.pass.part (nis-√yā)"
     },
     {
      "surface": "parikalpayet",
      "gloss": "one-should-imagine",
-     "grounds": "Prescriptive visualization instruction.",
-     "morph": "3.sg.opt.act √kḷp"
+     "grounds": "Prescriptive injunction for visualization.",
+     "morph": "3.sg.opt.act (pari-√kḷp)"
     },
     {
      "surface": "bhāvayet",
      "gloss": "one-should-meditate",
-     "grounds": "Reinforces the contemplative cultivation of the visualization.",
-     "morph": "3.sg.opt.act √bhū"
+     "grounds": "Prescriptive injunction for meditative cultivation.",
+     "morph": "3.sg.opt.act.caus (√bhū)"
     }
    ],
-   "question": "What visualization should follow piercing the wall of consciousness-form?",
+   "question": "How should emergence through the wall of consciousness be visualized?",
    "premises": [
-    "The wall of consciousness-form can be pierced.",
-    "Piercing allows something to emerge.",
-    "Practice requires imagining and meditating on that emergence."
+    "There is a wall of consciousness-form.",
+    "This wall can be pierced.",
+    "Emergence follows piercing and should be imagined and meditated upon."
    ],
    "inference": "Therefore one should imagine and meditate on what has emerged after piercing the wall of consciousness-form.",
    "uncertainties": [],
@@ -289,49 +287,49 @@
     {
      "surface": "śiṣyāṇāṃ",
      "gloss": "of-disciples",
-     "grounds": "Beneficiaries or subjects of the initiation context.",
+     "grounds": "Genitive indicating those for whom the rite is performed.",
      "morph": "m.gen.pl"
     },
     {
      "surface": "dīkṣāsamaye",
      "gloss": "at-initiation-time",
-     "grounds": "Locative specifying the ritual occasion.",
+     "grounds": "Locative compound specifying the ritual occasion.",
      "morph": "m.loc.sg"
     },
     {
      "surface": "guruṇā",
-     "gloss": "by-the-teacher",
-     "grounds": "Agent performing the application.",
+     "gloss": "by-teacher",
+     "grounds": "Instrumental agent performing the application.",
      "morph": "m.inst.sg"
     },
     {
      "surface": "prayujyamāna",
      "gloss": "being-applied",
-     "grounds": "Describes the procedure as enacted by the teacher.",
-     "morph": "m.nom.sg.pres.pass.part √yuj"
+     "grounds": "Present passive participle describing the procedure in use.",
+     "morph": "m.nom.sg.pres.pass.part (pra-√yuj)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "Marks the contextual specification.",
+     "grounds": "Concluding marker.",
      "morph": "(indecl.)"
     },
     {
      "surface": "śeṣaḥ",
-     "gloss": "the-remainder",
-     "grounds": "Indicates that the rest follows the same pattern.",
+     "gloss": "remainder",
+     "grounds": "Indicates the remaining part of the procedure.",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Who applies the described procedure and in what ritual context?",
+   "question": "Who applies the remaining procedure during the disciples' initiation?",
    "premises": [
-    "The procedure concerns disciples.",
-    "The occasion is the time of initiation.",
-    "The teacher is the agent applying it."
+    "An initiation time for disciples is specified.",
+    "A procedure is being applied at that time.",
+    "The teacher is the agent of application."
    ],
-   "inference": "Therefore the teacher applies the procedure for disciples at the time of initiation, and the rest follows accordingly.",
+   "inference": "Therefore the remainder is what is being applied by the teacher at the disciples' initiation time.",
    "uncertainties": [],
-   "plain_english": "This is applied by the teacher for the disciples at the time of initiation; thus is the remainder."
+   "plain_english": "Thus, the remainder is what is being applied by the teacher at the time of the disciples' initiation."
   },
   {
    "verse": 22,
@@ -339,45 +337,45 @@
     {
      "surface": "etāni",
      "gloss": "these",
-     "grounds": "Refers to the elements previously mentioned.",
+     "grounds": "Demonstrative pronoun referring to previously mentioned elements.",
      "morph": "n.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "Adds this instruction to prior ones.",
+     "grounds": "Connective particle.",
      "morph": "(indecl.)"
     },
     {
      "surface": "brahmabhaṅgyā",
-     "gloss": "in-brahma-manner",
-     "grounds": "Instrumental specifying the mode of application.",
+     "gloss": "by-brahma-manner",
+     "grounds": "Instrumental indicating the mode or method of application.",
      "morph": "f.inst.sg"
     },
     {
      "surface": "niyojyāni",
      "gloss": "to-be-applied",
-     "grounds": "Prescriptive gerundive indicating obligation.",
-     "morph": "n.nom.pl (gerundive) √yuj"
+     "grounds": "Gerundive expressing obligation or prescription.",
+     "morph": "n.nom.pl (gerundive, ni-√yuj)"
     },
     {
      "surface": "mūrdhādicaraṇāvadhi",
      "gloss": "from-head-to-feet",
-     "grounds": "Compound specifying the spatial extent of application.",
-     "morph": "compound (indecl. use)"
+     "grounds": "Compound specifying the spatial range of application.",
+     "morph": "n.nom.sg (adverbial compound)"
     }
    ],
-   "question": "In what manner and over what bodily range should these elements be applied?",
+   "question": "How and where should these elements be ritually applied?",
    "premises": [
-    "These elements require application.",
+    "Certain elements are to be applied.",
     "A specific manner of application is prescribed.",
     "The application extends from head to feet."
    ],
-   "inference": "Therefore these elements should be applied in the brahma manner from head to feet.",
+   "inference": "Therefore these elements should be applied in the Brahma manner from head to feet.",
    "uncertainties": [
-    "The precise technical meaning of brahmabhaṅgyā is not fully explicit."
+    "The exact technical meaning of brahmabhaṅgyā is not fully specified here."
    ],
-   "plain_english": "And these should be applied in the brahma manner, from the head down to the feet."
+   "plain_english": "And these should be applied in the Brahma manner, from the head down to the feet."
   },
   {
    "verse": 23,
@@ -385,31 +383,31 @@
     {
      "surface": "anudbhinnāvayavā",
      "gloss": "with-unmanifest-limbs",
-     "grounds": "Describes the form as having undifferentiated parts.",
-     "morph": "f.nom.sg (bahuvrīhi)"
+     "grounds": "Compound describing a form whose parts are not yet differentiated.",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "bhagavanmūtīḥ",
      "gloss": "divine-form",
-     "grounds": "The form of the Lord to be visualized.",
+     "grounds": "Object to be imagined in meditation or ritual.",
      "morph": "f.nom.sg"
     },
     {
      "surface": "kalpyā",
      "gloss": "to-be-imagined",
-     "grounds": "Prescriptive gerundive for visualization.",
-     "morph": "f.nom.sg (gerundive) √kḷp"
+     "grounds": "Gerundive prescribing visualization.",
+     "morph": "f.nom.sg (gerundive, √kḷp)"
     }
    ],
-   "question": "How should the divine form be visualized with respect to bodily differentiation?",
+   "question": "In what condition should the divine form be imagined?",
    "premises": [
-    "A divine form is the object of visualization.",
-    "Visualization can involve differentiated or undifferentiated parts.",
-    "The form is prescribed as having unmanifest limbs."
+    "The divine form is an object of imagination.",
+    "A form can be imagined with or without differentiated parts.",
+    "The prescribed condition lacks differentiated parts."
    ],
    "inference": "Therefore the divine form should be imagined with unmanifest limbs.",
    "uncertainties": [],
-   "plain_english": "The divine form should be imagined with its limbs unmanifest."
+   "plain_english": "The divine form should be imagined with its limbs not yet differentiated."
   },
   {
    "verse": 24,
@@ -417,41 +415,41 @@
     {
      "surface": "īśānavyāptidarśanāya",
      "gloss": "for-showing-pervasion-of-īśāna",
-     "grounds": "Dative of purpose indicating the aim of the placement.",
+     "grounds": "Dative compound expressing the purpose of the ritual act.",
      "morph": "n.dat.sg"
     },
     {
      "surface": "kalānyāsaḥ",
      "gloss": "placement-of-kalās",
-     "grounds": "Names the ritual act to be performed.",
+     "grounds": "Compound naming the ritual placement of kalās.",
      "morph": "m.nom.sg"
     },
     {
      "surface": "kārya",
      "gloss": "to-be-done",
-     "grounds": "Prescriptive gerundive enjoining the act.",
-     "morph": "m.nom.sg (gerundive) √kṛ"
+     "grounds": "Gerundive prescribing the action.",
+     "morph": "m.nom.sg (gerundive, √kṛ)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "Marks the concluding statement.",
+     "grounds": "Concluding marker.",
      "morph": "(indecl.)"
     },
     {
      "surface": "piṇḍārthaḥ",
      "gloss": "condensed-meaning",
-     "grounds": "Summarizes the essential point of the passage.",
+     "grounds": "Compound indicating the summary sense of the teaching.",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What is the purpose and summary meaning of performing the placement of kalās?",
+   "question": "What is the condensed purpose of performing the placement of kalās?",
    "premises": [
-    "The placement of kalās is a prescribed act.",
-    "Ritual acts are performed for a specific purpose.",
-    "Its purpose is to show the pervasion of Īśāna."
+    "The placement of kalās is prescribed.",
+    "Ritual acts serve a demonstrative purpose.",
+    "The stated purpose is to show the pervasion of Īśāna."
    ],
-   "inference": "Therefore the condensed meaning is that the placement of kalās should be done to show the pervasion of Īśāna.",
+   "inference": "Therefore the condensed meaning is that the placement of kalās is to be done to show the pervasion of Īśāna.",
    "uncertainties": [],
    "plain_english": "The condensed meaning is this: the placement of the kalās should be performed to show the pervasion of Īśāna."
   }

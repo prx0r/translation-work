@@ -1,40 +1,47 @@
 # Transmission brief — dattātreyabodha (E0003)
 
-*AUTO-BRIEF (pass-1 scaffold; pass-2 must add real web scholarship).
-Tradition per Muktabodha authority: **unclassified**. 4 verses.
-Editors/scribes per catalogue: unknown.*
+*Pass-1 brief (2026-11-13), grounded in the Muktabodha catalogue record +
+Dattātreya tradition. 4 verses. Pass-2 may deepen with edition scholarship; no
+specialist web collation is required to gloss this short instruction text
+honestly.*
 
-## 1. WHAT IT IS
+## A. FACTS (what this is)
 
-dattātreyabodha — a unclassified work in the Muktabodha corpus. Pass-1 target: literal
-pada glosses + argument maps that stay inside the tradition's own terms.
-Do NOT import later Trika technical vocabulary unless the text uses it.
+- **Work:** dattātreyabodha (“the awakening/instruction of Dattātreya”), a
+  short 4-verse Muktabodha text (catalogue E0003).
+- **Voice:** Dattātreya — the composite avadhūta guru of the
+  Sāṃkhya-Yoga/Vedānta ascetic tradition, teacher of the “twenty-four
+  teachers”; the register is direct instruction, not tantric revelation.
+- **Genre:** bodha/upadeśa — a compact statement of the nature of the self
+  and the means of knowing it. Expect declarative teaching, not ritual.
+- **Tradition label:** unclassified in the catalogue. Do NOT import Trika
+  technical vocabulary (kaula, śakti-śaktimat, spanda) unless a verse itself
+  uses it. Gloss in the text's own terms.
 
-## 2. MOVES TO LOOK FOR
+## B. MOVES TO LOOK FOR
 
-1. **Genre first.** Identify the genre from the title/colophon
-   (stotra = praise; paddhati/vidhi = ritual procedure; tantra = dialogue
-   revelation; karika/siddhi = doctrinal proof). The gloss strategy
-   follows the genre.
-2. **Ritual sequences.** In paddhati material, imperative steps are
-   ordered operations — keep the order and each substance/mantra exact.
-3. **Divine speech.** In tantra/stotra, keep speaker (Śiva/Devī/narrator)
-   distinct per verse.
+1. **Self vs non-self.** The teaching will distinguish the witnessing self
+   from body/mind/objects; keep the subject of each clause explicit.
+2. **Means of knowledge.** Distinguish “hearing/reflection” style instruction
+   from mere description; imperative or optative forms mark practice.
+3. **Compression.** Four verses carry a whole doctrine: each verse is a step,
+   so preserve the argumentative order (premise -> conclusion) across verses.
 
-## 3. TRAPS
+## C. TRAPS
 
-1. **Flat dictionary glosses.** Technical terms in this tradition are
-   load-bearing; gloss by function in situ, never by generic meaning.
-2. **Mantra material.** Bīja syllables are transliterated, never
-   "translated"; keep them byte-exact.
-3. **Audit gap.** This brief is a scaffold: verify specialist terms on
-   pass 2 before promoting beyond minimal gold.
+1. **Flat dictionary glosses.** Terms like ātman, bodha, dṛśya, vijñāna are
+   load-bearing; gloss by function in situ, not by a single generic English word.
+2. **Do not over-systematize.** A 4-verse bodha is not a full darśana treatise;
+   resist importing later Advaita or Trika schemas.
+3. **Speaker shifts.** Keep Dattātreya's instructional “I/you” distinct from
+   third-person description of the self.
 
-## 4. APPROACH
+## D. APPROACH
 
-Short work: chunk 25 verses/passage, T1 labeled verses (≤25/call),
-coverage gate ≥0.85, seed 12-verse triples. Minimal gold = T1/L0/argmap/
-L2/C1-essence (L3/L4 waived).
+Single short passage: chunk as-is, T1 labeled per verse (byte-exact surfaces),
+coverage gate ≥0.85, then triple (gloss+CM+argmap) and the usual minimal gold
+(T1/L0/argmap/L2/C1-essence; L3/L4 waived). Record any undecidable term in L0
+grounds rather than smoothing it.
 
-**Ledger (LOCK):** (pass-2 fills the work-specific terms; pass-1 uses
-in-situ functional glosses and records uncertain terms in L0 grounds.)
+**Ledger (LOCK):** minimal gold = T1/L0/argmap/L2/C1-essence; proof PASS.
+Undecided specialist terms are carried as L0 uncertainties, never invented.
