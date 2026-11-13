@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p38",
  "verse": 930,
- "question": "What fragrant substances are combined with water for ritual use?",
+ "question": "What consequence follows if Vaśiṣṭha fails to provide a remedy?",
  "premises": [
-  "Camphor, aloewood, musk, and sandalwood are listed.",
-  "These substances are mixed together.",
-  "The mixture is combined with waters."
+  "The speaker conditions the outcome on Vaśiṣṭha's remedy.",
+  "No remedy is contemplated as a failure.",
+  "Death is presented as the consequence."
  ],
- "inference": "A ritual mixture is prepared from camphor, aloewood, musk, sandalwood, and water.",
- "uncertainties": [],
- "plain_english": "With waters mixed with camphor, aloewood, musk, and sandalwood."
+ "inference": "If Vaśiṣṭha does not devise a remedy, death will follow.",
+ "uncertainties": [
+  "The function of 'śreyo ye' is syntactically unclear in this compressed expression."
+ ],
+ "plain_english": "If you do not devise a remedy, then death will be the outcome."
 }

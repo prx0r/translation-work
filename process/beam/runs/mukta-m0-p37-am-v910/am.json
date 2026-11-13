@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p37",
  "verse": 910,
- "question": "What domestic and mental association with ceremonial archways defines the goddess here?",
+ "question": "What transfer of kingship did Mahāṅkuśa perform in relation to Śālva?",
  "premises": [
-  "She dwells in a house endowed with an archway",
-  "Her mind is attached to the archway",
-  "The archway is a repeated focal image"
+  "Mahāṅkuśa gave a kingdom.",
+  "Śālva received the kingdom.",
+  "The act is completed before subsequent events."
  ],
- "inference": "The goddess is present in and mentally devoted to the adorned dwelling",
- "uncertainties": [],
- "plain_english": "She dwells in a house furnished with an archway, and her mind is attached to the archway."
+ "inference": "Mahāṅkuśa gave the kingdom to Śālva.",
+ "uncertainties": [
+  "The role of the final mahāṅkuśe is unclear in this compressed syntax."
+ ],
+ "plain_english": "Mahāṅkuśa, having given the kingdom to Śālva, in regard to Mahāṅkuśa..."
 }
