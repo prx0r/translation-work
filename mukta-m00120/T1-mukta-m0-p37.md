@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[king](rājā) [thus](iti) [by+action+power](kriyāśaktaḥ) [by+darkness](tāmasaḥ) [thus](iti) [by+action+devoid](kriyācyutaḥ)
+[royal](rājasi) [thus](iti) [action-power](kriyā+śaktaḥ) [dark](tāmasi) [thus](iti) [action-devoid](kriyā+cyutaḥ)
 
 ## mukta-m0-p37-v902
-[thus](tathā) [perfection](siddhim) [without](vinā) [goddess](devi) [intoxicating+bliss](madyānandam) [indeed](hi) [certain](niścitam)
+[likewise](tathā) [accomplishment](siddhiṃ) [without](vinā) [O-goddess](devi) [liquor-bliss](madya+ānandaṃ) [indeed](hi) [certain](niścitam)
 
 ## mukta-m0-p37-v903
-[then](tataḥ) [power](śaktim) [one+should+worship](yajet) [by+the+wheel](cakre) [then](tataḥ) [perfection](siddhim) [one+should+drink](pivet) [joyfully](mudā)
+[then](tataḥ) [power](śaktiṃ) [should-worship](yajet) [in-circle](cakre) [then](tataḥ) [accomplishment](siddhiṃ) [should-drink](pibet) [with-joy](mudā)
 
 ## mukta-m0-p37-v904
-[therefore](ataḥ) [eva](eva) [one+should+drink](pivet) [perfection](siddhim) [endowed+with+power](śaktiyuktaḥ) [great+goddess](maheśvari)
+[therefore](ataḥ) [indeed](eva) [should-drink](pivet) [accomplishment](siddhiṃ) [power-united](śakti+yuktaḥ) [O-great-goddess](maheśvari)
 
 ## mukta-m0-p37-v905
-[at+the+end+of+that](tadante) [endowed+with+power](śaktisaṃyukte) [intuitive+knowledge](sambidā) [convention](samayā) [becomes](bhavet)
+[at-its-end](tat+ante) [with-power-united](śakti+saṃyukte) [with-consciousness](sambidā) [in-accordance-with-ritual](samayā) [should-be](bhavet)
 
 ## mukta-m0-p37-v906
-[in+one's+own+free+conduct](svecchācāre) [also](api) [sporting](ramaṇam) [prohibition](niṣedha) [rule](vidhi) [devoid+of](varjitam)
+[in-self-willed-conduct](sva+icchā+ācāre) [even](api) [enjoyment](ramaṇaṃ) [prohibition-rule-devoid](niṣedha+vidhi+varjitam)
 
 ## mukta-m0-p37-v907
-[from+Śiva+born](śivodbhavam) [when](yadā) [substance](dravyam) [power](śaktiḥ) [having+seized](saṃhṛhya) [carefully](yatnataḥ)
+[Shiva-born](śiva+udbhavaṃ) [when](yadā) [substance](dravyaṃ) [power](śaktiḥ) [having-drawn-in](saṃhṛhya) [with-effort](yatnataḥ)
 
 ## mukta-m0-p37-v908
-[in+this+world](ihaloke) [bliss](sukham) [having+enjoyed](bhuktvā) [at+the+end](yātyante) [supreme](paramām) [state](gatim)
+[in-this-world](iha+loke) [happiness](sukhaṃ) [having-enjoyed](bhuktvā) [goes](yāti) [at-end](ante) [supreme](paramāṃ) [state](gatim)
 
 ## mukta-m0-p37-v909
-[who](yaḥ) [does](karoti) [at+the+three+junctures](trisandhāyām) [to+me](mama) [equal](tulyaḥ) [not](na) [doubt](saṃśayaḥ)
+[who](yaḥ) [performs](karoti) [at-three-junctures](trisandhāyāyāṃ) [to-me](mama) [equal](tulyoḥ) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p37-v910
-[between+intuitive+knowledge+and+nectar](sambidāsavayoḥ) [madhye](madhye) [intuitive+knowledge](sambid) [eva](eva) [more+weighty](garīyasī)
+[between-consciousness-and-liquor](sambidā+āsavayoḥ) [in-middle](madhye) [consciousness](sambidā) [indeed](eva) [more-excellent](garīyasī)
 
 ## mukta-m0-p37-v911
-[then](tadā) [meditation+consisting](dhyānamayī) [form](mūrtiḥ) [directly+visible](pratyakṣā) [becomes](bhavati) [certainly](dhruvam)
+[then](tadā) [meditation-made](dhyāna+mayī) [form](mūrtiḥ) [perceptible](pratyakṣā) [becomes](bhavati) [certainly](dhruvam)
 
 ## mukta-m0-p37-v912
-[between+intuitive+knowledge+and+nectar](samvidāsavayoḥ) [madhye](madhye) [intuitive+knowledge](samvid) [eva](eva) [more+weighty](garīyasī)
+[between-consciousness-and-liquor](samvidā+āsavayoḥ) [in-middle](madhye) [consciousness](samvidā) [indeed](eva) [more-excellent](garīyasī)
 
 ## mukta-m0-p37-v913
-[by+meditation](dhyānena) [to+be+meditated+upon](dhyeyam) [which](yat) [form](rūpam) [by+intuitive+knowledge](samvidā) [eternal](nitya) [giver+of+liberation](mukti+dāyikā)
+[by-meditation](dhyānena) [to-be-meditated](dhyeyaṃ) [which-form](yat+rūpaṃ) [by-consciousness](samvidā) [eternal](nitya) [liberation-giving](mukti+dāyikā)
 
 ## mukta-m0-p37-v914
-[following+the+path+of+action](kriyāmārgī) [endowed+with+action+power](kriyāśaktaḥ) [in+the+pure](śuddhe) [also](api) [Vijayā](vijayām) [one+should+drink](pivet)
+[following-ritual-path](kriyā+mārgī) [action-powerful](kriyā+śaktaḥ) [in-pure](śuddhe) [even](api) [vijaya](vijayāṃ) [should-drink](pibet)
 
 ## mukta-m0-p37-v915
-[om](oṃ) [to+Brahmāṇī](brahmāṇyai) [salutation](namaḥ) [svāhā](svāhā)
+[oṃ](oṃ) [to-Brahmani](brahmāṇyai) [salutation](namaḥ) [svaha](svāhā)
 
 ## mukta-m0-p37-v916
-[om](oṃ) [to+Kṣatriyā](kṣatriyāyai) [salutation](namaḥ) [svāhā](svāhā)
+[oṃ](oṃ) [to-Kshatriyani](kṣatriyāyai) [salutation](namaḥ) [svaha](svāhā)
 
 ## mukta-m0-p37-v917
-[hrī](hrī) [to+Vaiśyā](vaiśyāyai) [salutation](namaḥ) [svāhā](svāhā)
+[hrīṃ](hrī/) [to-Vaishyani](vaiśyāyai) [salutation](namaḥ) [svaha](svāhā)
 
 ## mukta-m0-p37-v918
-[klīṃ](klīṃ) [to+Śūdrā](śūdrāyai) [salutation](namaḥ) [svāhā](svāhā)
+[klīṃ](klīṃ) [to-Shudrani](śūdrāyai) [salutation](namaḥ) [svaha](svāhā)
 
 ## mukta-m0-p37-v919
-[delight+of+bliss](ullāsānandini) [in+the+bulb](kande) [of+consciousness+bliss](cidānandasvarūpiṇi) [mind+essence](manonmani)
+[O-delighting-in-ecstasy](ullāsa+ānandini) [O-bulb](kande) [O-consciousness-bliss-formed](cit+ānanda+svarūpiṇi)
 
 ## mukta-m0-p37-v920
-[honey](madhu) [grape](drākṣā) [sky+going](khecarī) [Vijayā](vijayā) [Jayā](jayā)
+[O-transcending-mind](manonmani) [honey](madhu) [grape](drākṣā) [O-sky-moving](khecarī) [vijaya](vijayā) [victory](jayā)
 
 ## mukta-m0-p37-v921
-[root](mūlam) [and](ca) [tenfold](daśadhā) [having+repeated](japtvā) [one+should+offer](juhuyāt) [in+the+mouth+of+the+serpent+coil](kuṇḍalīmukhe)
+[root-mantra](mūlam) [and](ca) [ten-times](daśadhā) [having-muttered](japtvā) [should-offer](juhuyāt) [in-Kundalini-mouth](kuṇḍalī+mukhe)
 
 ## mukta-m0-p37-v922
-[on+one's+own+head](svamūrddhani) [to+be+given](pradātavyam) [by+the+mantra](manunā) [and](ca) [one+should+drink](pivet) [joyfully](mudā)
+[on-own-head](sva+mūrddhani) [to-be-given](pradātavyaṃ) [with-mantra](manunā) [and](ca) [should-drink](pibet) [with-joy](mudā)
 
 ## mukta-m0-p37-v923
-[by+intuitive+knowledge](samvidā) [supreme](paramā) [knowledge](vidyā) [giver+of+enjoyment+and+liberation](bhogamokṣapradā) [auspicious](śivā)
+[by-consciousness](samvidā) [supreme](paramā) [knowledge](vidyā) [enjoyment-liberation-giving](bhoga+mokṣa+pradā) [auspicious](śivā)
 
 ## mukta-m0-p37-v924
-[beloved+of+life](prāṇavallabha)
+[O-dear-to-life](prāṇa+vallabha)
 
 ## mukta-m0-p37-v925
-[for+the+sadhana+of+sadhakas](sādhakānām+sādhanārthe) [by+itself](svayam) [born](jātā) [together+with+origin](abhisaṃyutā)
+[of-practitioners](sādhakānāṃ) [for-accomplishment](sādhana+arthe) [by-herself](svayaṃ) [with-birth-united](jāti+abhisaṃyutā)
