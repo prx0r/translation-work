@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "rāśibhiḥ",
+     "gloss": "with-zodiac-signs",
+     "grounds": "instrumental plural indicating the means or elements used in the placement",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal numeral qualifying nyāsaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "ritual-placement",
+     "grounds": "technical term for ritual placement or installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭhaḥ",
+     "gloss": "sixth",
+     "grounds": "ordinal numeral qualifying an implied nyāsaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pīṭhaiḥ",
+     "gloss": "with-seats",
+     "grounds": "instrumental plural indicating the means or elements used in the placement",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "verb of declaration stating the designation of the placements",
+     "morph": "3.sg.pass-pres (ni-gad)"
+    }
+   ],
+   "question": "What elements constitute the fifth and sixth ritual placements in this sequence?",
+   "premises": [
+    "The fifth ritual placement is performed with the zodiac signs.",
+    "The sixth ritual placement is performed with the seats.",
+    "Both placements are declared as part of the prescribed sequence."
+   ],
+   "inference": "The fifth and sixth ritual placements are respectively identified by the zodiac signs and the seats.",
+   "uncertainties": [],
+   "plain_english": "The fifth placement is performed with the zodiac signs, and the sixth is declared to be performed with the seats."
+  }
+ ]
+}

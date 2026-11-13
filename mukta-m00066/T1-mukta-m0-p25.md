@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[of-bed](śayyāyā) [in-northern](uttare) [part](bhāge) [having-placed](sthāpayitvā) [ever-nectar](sadāmṛtam)
+[of-bed](śayyāyā) [northern](uttare) [in-part](bhāge) [having-placed](sthāpayitvā) [ever-nectar](sadā+amṛtam)
 
 ## mukta-m0-p25-v602
-[full+jar](pūrṇakuṃbhaṃ) [its](tasya) [on-mouth](mukhe) [lotus](paṭmam) [one](ekaṃ) [one-should-visualize](viciṃtayet)
+[full-pot](pūrṇa+kuṃbhaṃ) [its](tasya) [on-mouth](mukhe) [lotus](paṭmam) [one](ekaṃ) [one-should-visualize](viciṃtayet)
 
 ## mukta-m0-p25-v603
-[ever+intoxication+intoxicated+self](sadāmadanamattātmā) [noose+goad+well+holding](pāśāṃkuśalasatkaraḥ)
+[ever-intoxicated](sadā+madana+mattātmā) [noose-hook](pāśa+aṃkuśa) [with-beautiful-hands](lasat+karaḥ)
 
 ## mukta-m0-p25-v604
-[on-lap+seated](aṃkasthitāyā) [of-intoxicated-woman](mattāyāḥ) [siddhi+lakṣmī+vulva+interior](siddhilakṣmībhagāṃtare)
+[on-lap-situated](aṃka+sthitāyā) [of-intoxicated-one](mattāyāḥ) [Siddhilakshmi-vulva](siddhilakṣmī+bhagāṃtare)
 
 ## mukta-m0-p25-v605
-[and-her](tasyāśca) [by-hand+lotus](karapadmena) [with-fresh+sprout+beautiful](navapallavacāruṇā)
+[and-of-her](tasyāś+ca) [with-hand-lotus](kara+padmena) [with-fresh-sprout](nava+pallava) [beautiful-red](cāruṇā)
 
 ## mukta-m0-p25-v606
-[siddhi+lakṣmī+vulva+stream](siddhilakṣmībhagasrota) [liquor+drinking+intoxication+weary](śīdhupānamadālasaḥ)
+[Siddhilakshmi-vulva-stream](siddhilakṣmī+bhaga+srota) [nectar-drinking](śīdhu+pāna) [languid-with-intoxication](mada+ālasaḥ)
 
 ## mukta-m0-p25-v607
-[siddhi+lakṣmī+delight](siddhilakṣmīrati) [sweat](sveta) [by-wiping+ear+slapping](vinudankarṇatālanaiḥ)
+[Siddhilakshmi-delight](siddhilakṣmī+rati) [sweat](sveta) [removing](vinuda) [with-ear-slaps](karṇa+tālanaiḥ)
 
 ## mukta-m0-p25-v608
-[siddhi+lakṣmī+lord+god](siddhilakṣmīpatedeva) [śakti+heramba+form](śaktiherambavigraha)
+[Siddhilakshmi-lord](siddhilakṣmī+pate) [god](deva) [Shakti-Heramba-form](śakti+heramba+vigraha)
 
 ## mukta-m0-p25-v609
-[thus](iti) [by-this](anena) [indeed](eva) [mantra](maṃtreṇa) [done+flower+offering+action](kṛtapuṣpāṃjalikriyaḥ)
+[thus](iti) [by-this-very](anena+eva) [mantra](maṃtreṇa) [performed-flower-offering](kṛta+puṣpāṃjali+kriyaḥ)
 
 ## mukta-m0-p25-v610
-[and-of-the-messenger-woman](dūtyāśca) [on-body](vigrahe) [flower](puṣpam) [one](ekam) [thus](evaṃ) [one-should-place](vinikṣipet)
+[and-of-the-messenger-goddess](dūtyāś+ca) [on-body](vigrahe) [flower](puṣpam) [one](ekam) [thus](evaṃ) [one-should-place](vinikṣipet)
 
 ## mukta-m0-p25-v611
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v612
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v613
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v614
-[of-the-vasus](vasūnāṃ) [of-the-wives-of-vasus](vasupatnīnāṃ) [which](ya) [bliss](ānaṃdam) [o-great-lord](aheśvaraḥ)
+[of-the-Vasus](vasūnāṃ) [of-the-wives-of-Vasus](vasu+patnīnāṃ) [which](ya) [bliss](ānaṃdam) [O-great-lord](aheśvaraḥ)
 
 ## mukta-m0-p25-v615
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v616
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v617
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v618
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v619
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v620
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v621
-[ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[for-accomplishment-of-own-nature](ātma+svarūpa+saṃsiddhyai) [this](tam) [bliss](ānaṃdam) [here](iha) [bring](ānaye)
 
 ## mukta-m0-p25-v622
-[therefore](tasmād) [food+made](annamayaṃ) [sheath](kośaṃ) [to-bliss+consisting](ānaṃdamayatāṃ) [one-should-lead](nayet)
+[therefore](tasmād) [food-made](anna+mayaṃ) [sheath](kośaṃ) [to-bliss-fullness](ānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v623
-[therefore](tasmāt) [vital-breath+made](prāṇamayaṃ) [sheath](krośam) [to-bliss+consisting](ānaṃdamayatāṃ) [one-should-lead](nayet)
+[therefore](tasmāt) [vital-breath-made](prāṇa+mayaṃ) [sheath](krośam) [to-bliss-fullness](ānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v624
-[therefore](tasmān) [mind+made](manomayaṃ) [sheath](kośam) [to-bliss+consisting](ānaṃdamayatāṃ) [one-should-lead](nayet)
+[therefore](tasmān) [mind-made](mano+mayaṃ) [sheath](kośam) [to-bliss-fullness](ānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p25-v625
-[that](tad) [knowledge+made](vijñānamayaṃ) [sheath](kośam) [to-bliss+consisting](anaṃdamayatāṃ) [one-should-lead](nayet)
+[that](tad) [knowledge-made](vijñāna+mayaṃ) [sheath](kośam) [to-bliss-fullness](anaṃdamayatāṃ) [lead](nayet)

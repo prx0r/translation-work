@@ -1,0 +1,642 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1101,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the goddess or vidyā",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "prosperity",
+     "grounds": "auspicious fortune or splendor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāṇa",
+     "gloss": "life-breath",
+     "grounds": "vital breath or life force",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃyuktā",
+     "gloss": "united-with",
+     "grounds": "joined or endowed with",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "dāridrya",
+     "gloss": "poverty",
+     "grounds": "first member of compound describing what is removed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "duḥkha",
+     "gloss": "suffering",
+     "grounds": "second member of compound describing what is removed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mocanī",
+     "gloss": "releaser",
+     "grounds": "agent noun indicating liberation from poverty and suffering",
+     "morph": "f.nom.sg.agent-noun"
+    }
+   ],
+   "question": "What liberating power belongs to this goddess united with prosperity and life-breath?",
+   "premises": [
+    "This goddess is united with prosperity and life-breath.",
+    "She is characterized as releasing poverty and suffering."
+   ],
+   "inference": "Therefore this goddess possesses the power to liberate from poverty and suffering.",
+   "uncertainties": [
+    "Whether śrī and prāṇa form a compound with saṃyuktā or are separate attributes is not fully explicit in tokenization."
+   ],
+   "plain_english": "This goddess, united with prosperity and life-breath, is the releaser from poverty and suffering."
+  },
+  {
+   "verse": 1102,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the previous rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "first member of comparative expression",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative suffix indicating similarity to what came before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "seed syllable or seed mantra element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyogaḥ",
+     "gloss": "conjunction",
+     "grounds": "joining or combination of seed elements",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the conjunction of seed syllables applied in this present context?",
+   "premises": [
+    "The present context is indicated by atra api.",
+    "The conjunction of seed syllables follows the previous pattern."
+   ],
+   "inference": "Therefore the seed-syllable conjunction here is applied as before.",
+   "uncertainties": [],
+   "plain_english": "Here also, the conjunction of seed syllables is as before."
+  },
+  {
+   "verse": 1103,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the previous rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "first member of comparative expression",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative suffix indicating similarity to what came before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "seed syllable or seed mantra element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyogaḥ",
+     "gloss": "conjunction",
+     "grounds": "joining or combination of seed elements",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does the same previous rule for seed-syllable conjunction apply again in this case?",
+   "premises": [
+    "The present case is again marked by atra api.",
+    "The seed-syllable conjunction is stated to be as before."
+   ],
+   "inference": "Therefore the same previous rule for seed-syllable conjunction applies again.",
+   "uncertainties": [
+    "The verse repeats the same wording as the previous one; its distinct referent is not specified within the tokens."
+   ],
+   "plain_english": "Here also, the conjunction of seed syllables is as before."
+  },
+  {
+   "verse": 1104,
+   "rows": [
+    {
+     "surface": "rudra",
+     "gloss": "rudra",
+     "grounds": "name of the deity Rudra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "divine power or energy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative-like or nominative designation of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "eastern",
+     "grounds": "first member indicating the eastern tradition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āmnāye",
+     "gloss": "in-tradition",
+     "grounds": "sacred transmission or scriptural tradition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāyikā",
+     "gloss": "heroine",
+     "grounds": "principal female deity or leading goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What identity and status does this goddess hold in the eastern tradition?",
+   "premises": [
+    "This goddess is identified as the power of Rudra.",
+    "In the eastern tradition she is declared the principal heroine."
+   ],
+   "inference": "Therefore this goddess is Rudra's power and the leading goddess of the eastern tradition.",
+   "uncertainties": [],
+   "plain_english": "This goddess is the power of Rudra and indeed the leading goddess in the eastern tradition."
+  },
+  {
+   "verse": 1105,
+   "rows": [
+    {
+     "surface": "nāda",
+     "gloss": "nāda",
+     "grounds": "subtle sound principle; mantra term kept by function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "bindu",
+     "grounds": "point principle; mantra term kept by function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samāyuktaḥ",
+     "gloss": "united-with",
+     "grounds": "fully joined or combined with",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "stated or taught in the tradition",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "highest or ultimate",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "goddess",
+     "grounds": "vocative address to the supreme goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "With which sonic principles is the supreme goddess declared to be united?",
+   "premises": [
+    "The supreme goddess is addressed directly.",
+    "She is declared to be united with nāda and bindu."
+   ],
+   "inference": "Therefore the supreme goddess is taught as united with nāda and bindu.",
+   "uncertainties": [
+    "The grammatical subject of samāyuktaḥ kathitaḥ could be an implied mantra or the goddess; context suggests the mantra or form is so united."
+   ],
+   "plain_english": "O supreme goddess, it is declared to be united with nāda and bindu."
+  },
+  {
+   "verse": 1106,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the vidyā",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "sacred formula or mantra science",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "honorific first member of address",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśāni",
+     "gloss": "īśāni",
+     "grounds": "vocative name of the goddess Īśānī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "stated or taught in the tradition",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "numeral indicating syllable count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣarī",
+     "gloss": "syllabled",
+     "grounds": "having the specified number of syllables",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many syllables does this mantra-knowledge have according to the teaching?",
+   "premises": [
+    "This vidyā is addressed to the great Īśānī.",
+    "It is declared to consist of eleven syllables."
+   ],
+   "inference": "Therefore this vidyā is an eleven-syllabled mantra.",
+   "uncertainties": [],
+   "plain_english": "O great Īśānī, this vidyā is declared to have eleven syllables."
+  },
+  {
+   "verse": 1107,
+   "rows": [
+    {
+     "surface": "pūrva",
+     "gloss": "previous",
+     "grounds": "first member of comparative expression",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative suffix indicating similarity to what came before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "kāma",
+     "grounds": "first member of the name Kāmarāja",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "king",
+     "grounds": "second member of the name Kāmarāja",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "sacred formula or mantra science",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "comparative suffix indicating similarity to the Kāmarāja vidyā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "According to which prior models should this mantra procedure be understood?",
+   "premises": [
+    "The procedure is said to be as before.",
+    "It is also said to be like the Kāmarāja vidyā."
+   ],
+   "inference": "Therefore this procedure follows the previous pattern and the model of the Kāmarāja vidyā.",
+   "uncertainties": [
+    "The exact procedural elements to be borrowed from the Kāmarāja vidyā are not specified in this verse."
+   ],
+   "plain_english": "As before, and like the Kāmarāja vidyā."
+  },
+  {
+   "verse": 1108,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all cases or contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner as described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "sequence",
+     "grounds": "ordered procedure or arrangement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What general rule governs the sequence of application in all contexts?",
+   "premises": [
+    "The term sarvatra indicates applicability in all contexts.",
+    "The sequence is stated to be thus."
+   ],
+   "inference": "Therefore the same sequence applies everywhere in this manner.",
+   "uncertainties": [],
+   "plain_english": "Everywhere the sequence is thus."
+  },
+  {
+   "verse": 1109,
+   "rows": [
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "name of the deity Viṣṇu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśaḥ",
+     "gloss": "lord",
+     "grounds": "ruling principle or lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "a",
+     "gloss": "a",
+     "grounds": "syllable a; mantra material kept byte-exact",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāra",
+     "gloss": "syllable",
+     "grounds": "marker indicating the syllable named",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "joined-with",
+     "grounds": "combined or associated with",
+     "morph": "m.nom.sg.past-participle"
+    },
+    {
+     "surface": "ha",
+     "gloss": "ha",
+     "grounds": "syllable ha; mantra material kept byte-exact",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāraḥ",
+     "gloss": "syllable",
+     "grounds": "marker indicating the syllable named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "first member indicating lordship over time",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśaḥ",
+     "gloss": "lord",
+     "grounds": "ruling principle or lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ma",
+     "gloss": "ma",
+     "grounds": "syllable ma; mantra material kept byte-exact",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāraḥ",
+     "gloss": "syllable",
+     "grounds": "marker indicating the syllable named",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities or principles are associated with the syllables a, ha, and ma in this mapping?",
+   "premises": [
+    "Viṣṇu as lord is joined with the syllable a.",
+    "The syllable ha is identified as the lord of time.",
+    "The syllable ma is named in the same sequence."
+   ],
+   "inference": "Therefore the syllables a, ha, and ma are mapped respectively to Viṣṇu-lord, the lord of time, and the principle denoted by ma.",
+   "uncertainties": [
+    "The specific deity or principle associated with ma-kāra is not explicitly stated in this verse."
+   ],
+   "plain_english": "Viṣṇu, the lord, is joined with the syllable a; the syllable ha is the lord of time; and the syllable ma is named."
+  },
+  {
+   "verse": 1110,
+   "rows": [
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "numeral first member indicating three parts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kūṭa",
+     "gloss": "peak",
+     "grounds": "section or division of a mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating the final position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haṃsa",
+     "gloss": "haṃsa",
+     "grounds": "haṃsa seed syllable; mantra material kept by function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "seed syllable or seed mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal or consequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadaśī",
+     "gloss": "seventeen-syllabled",
+     "grounds": "having seventeen syllables",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state of the mantra",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What syllable count results when the haṃsa seed is added at the end of the three peaks?",
+   "premises": [
+    "The haṃsa seed is placed at the end of the three peaks.",
+    "The resulting form is stated to become seventeen-syllabled."
+   ],
+   "inference": "Therefore adding the haṃsa seed at the end of the three peaks yields a seventeen-syllabled form.",
+   "uncertainties": [],
+   "plain_english": "When the haṃsa seed is placed at the end of the three peaks, it then becomes seventeen-syllabled."
+  },
+  {
+   "verse": 1111,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member indicating the end of all parts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating the final position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haṃsa",
+     "gloss": "haṃsa",
+     "grounds": "haṃsa seed syllable; mantra material kept by function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyuktā",
+     "gloss": "joined-with",
+     "grounds": "combined or united with",
+     "morph": "f.nom.sg.past-participle"
+    },
+    {
+     "surface": "viṃśa",
+     "gloss": "twenty",
+     "grounds": "numeral indicating syllable count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣarī",
+     "gloss": "syllabled",
+     "grounds": "having the specified number of syllables",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state of the mantra",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal or consequential particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllable count results when the haṃsa seed is joined at the end of all parts?",
+   "premises": [
+    "The haṃsa seed is joined at the end of all parts.",
+    "The resulting form is stated to become twenty-syllabled."
+   ],
+   "inference": "Therefore joining the haṃsa seed at the end of all parts yields a twenty-syllabled form.",
+   "uncertainties": [],
+   "plain_english": "When joined with the haṃsa seed at the end of all, it then becomes twenty-syllabled."
+  },
+  {
+   "verse": 1112,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the formulation",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "bhāṣā",
+     "gloss": "formulation",
+     "grounds": "speech, expression, or stated form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the preceding mantra formulation identified in this concluding statement?",
+   "premises": [
+    "The demonstrative eṣā refers to what has just been presented.",
+    "It is identified as bhāṣā."
+   ],
+   "inference": "Therefore the preceding material is identified as this formulation.",
+   "uncertainties": [
+    "The precise sense of bhāṣā here, whether speech, explanation, or specific mantra form, is context-dependent."
+   ],
+   "plain_english": "This is the formulation."
+  }
+ ]
+}

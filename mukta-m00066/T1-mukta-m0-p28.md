@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[others](anye) [say](vadaṃti) [in-mind](manasi) [supreme+vital-air](paremāruta) [they-said](ūcire)
+[others](anye) [say](vadaṃti) [in-mind](manasi) [supreme+breath](paremāruta) [they-said](ūcire)
 
 ## mukta-m0-p28-v677
-[views](matāni) [these](etāni) [unpleasant](acāruṇi) [in-investigation](vicāre) [having-commenced](saṃpravarttite)
+[views](matāni) [these](etāni) [not+beautiful](acāruṇi) [in-investigation](vicāre) [having-commenced](saṃpravarttite)
 
 ## mukta-m0-p28-v678
-[of-mind](manaso) [of-vital-air](marutaḥ) [and](ca) [indeed](eva) [in-collision](saṃghaṭṭe) [resting-on-vigor](vīryasaṃśrayā)
+[of-mind](manaso) [of-breath](marutaḥ) [and+indeed](ca+eva) [in-conjunction](saṃghaṭṭe) [vigor+dependent](vīrya+saṃśrayā)
 
 ## mukta-m0-p28-v679
-[of-those-two](tayoḥ) [but](tu) [for-the-purpose-of-union](ghaṭanārthaṃ) [and](ca) [yoga+treatise](yogataṃtraṃ) [by-me+made](mayākṛtam)
+[of-those-two](tayoḥ) [but](tu) [for-joining+purpose](ghaṭana+arthaṃ) [and](ca) [yoga+treatise](yoga+taṃtraṃ) [by-me+made](mayā+kṛtam)
 
 ## mukta-m0-p28-v680
-[with-passion](rajasā) [to-unite](vāyojayituṃ) [intellect+vital-air+union](dhīmarudghaṭanaṃ) [O-lord](prabhu)
+[by-passion](rajasā) [to-join](vāyojayituṃ) [intellect+breath+union](dhī+marut+ghaṭanaṃ) [O-lord](prabhu)
 
 ## mukta-m0-p28-v681
-[of-them](taṣām) [end](aṃto) [not](na) [and](ca) [thus](asya) [indeed](eva) [by-these](taiḥ) [fruit](phalaṃ) [not](na) [indeed](hi) [would-arise](saṃbhavet)
+[of-them](taṣām) [end](aṃto) [not](na) [and](ca) [thus](asya) [by-these](evataiḥ) [fruit](phalaṃ) [not](na) [indeed](hi) [would-arise](saṃbhavet)
 
 ## mukta-m0-p28-v682
-[fierce+power](ugraśakti) [with-honey+tastes](madhusvādaiḥ) [higher-and-higher](uttarottaram) [with-higher](uttaraiḥ)
+[fierce+power](ugra+śakti) [with-honey+flavors](madhu+svādaiḥ) [higher+and+higher](uttarottaram) [with-higher](uttaraiḥ)
 
 ## mukta-m0-p28-v683
-[by-Gaulī](gaulī) [by-contact+strengthened](saṃparkabalinā) [by-intellect+vital-air+union+nature](dhīmarudghaṭanātmanā)
+[by-Gaulī](gaulī) [contact+strengthened](saṃparka+balinā) [intellect+breath+union+natured](dhī+marut+ghaṭana+ātmanā)
 
 ## mukta-m0-p28-v684
 [being-present](vidyamāne) [but](tu) [in-heart](hṛdaye) [in-abode](nilaye) [in-union](ghaṭane) [again](punaḥ)
 
 ## mukta-m0-p28-v685
-[slight](īṣat) [also](adhi) [vital-air+union](vāyughaṭanā) [with-that](sa) [indeed](sona) [not](eva) [effective](prayojakaḥ)
+[slight](īṣat) [intellect+breath+union](dhī+vāyu+ghaṭanā) [with-that](sa+sonā) [indeed](eva) [effective](prayojakaḥ)
 
 ## mukta-m0-p28-v686
-[therefore](ataḥ) [of-mind](cittasya) [of-vital-air](maruto) [union](yogaḥ) [first](prathamam) [is-declared](ucyate)
+[therefore](ataḥ) [of-mind](cittasya) [of-breath](maruto) [union](yogaḥ) [first](prathamam) [is-declared](ucyate)
 
 ## mukta-m0-p28-v687
-[of-Patañjali](pādāṃjaliṃ) [or](vā) [of-the-system](dhātuḥ) [that](sa) [in-yoga](yoge) [therefore](tat) [difficult-to-obtain](durllabho) [would-be](bhavet)
+[of-Patañjali](pādāṃjaliṃ) [or](vā) [of-Dhātu](dhātuḥ) [that](sa) [in-yoga](yoge) [that+very-difficult-to-obtain](tat+durllabho) [would-be](bhavet)
 
 ## mukta-m0-p28-v688
-[by-the-Nāthas](nādaiḥ) [and](ca) [by-Gorakṣa+and-others](gorakṣamukhaiḥ) [treatise](taṃtram) [this](etat) [spread-out](vitānatam)
+[by-Nādas](nādaiḥ) [and](ca) [by-Gorakṣa+and-others](gorakṣa+mukhaiḥ) [treatise](taṃtram) [this](etat) [spread-out](vitānatam)
 
 ## mukta-m0-p28-v689
-[by-yoga](yogena) [with-stabilized+vigor](stabdhavīryāḥ) [and](ca) [always](sadā) [enjoyments](bhogān) [they-practice](upāsate)
+[by-yoga](yogena) [stilled+vigor](stabdha+vīryāḥ) [and](ca) [always+enjoyments](sadā+bhogān) [they-practice](upāsate)
 
 ## mukta-m0-p28-v690
-[Matsyendra](matsyeṃdra) [Nātha+Gorakṣa](nāgorakṣaḥ) [Caturaṅgī](caturaṃgī) [and](ca) [Kandalī](kaṃdalī)
+[Matsyendra](matsyeṃdra) [Nātha+Gorakṣa](nā+gorakṣaḥ) [Caturaṅgī](caturaṃgī) [and](ca) [Kandalī](kaṃdalī)
 
 ## mukta-m0-p28-v691
 [Capeṭika](capeṭiko) [Cūḍabāla](cūḍabālaḥ) [likewise](tathā) [Gobāla](gobāla) [indeed](eva) [and](ca)
 
 ## mukta-m0-p28-v692
-[Vyāla](vyāla) [Heraṇḍa](heraṇḍa) [named](nāmā) [and](ca) [Śūrpapāyī](śūrpapāyī) [likewise](tathā) [another](paraḥ)
+[Vyāla](vyāla) [Heraṇḍa](heraṇḍa) [by-name](nāmā) [and](ca) [Śūrpapāyī](śūrpapāyī) [likewise](tathā) [another](paraḥ)
 
 ## mukta-m0-p28-v693
-[these](ete) [intellect+vital-air](dhīrmaruto) [union](ghaṭṭaṃ) [time+destruction+capable](kālasaṃkarṣaṇakṣamam)
+[these](ete) [intellect+breath](dhīr+maruto) [union](ghaṭṭaṃ) [time+overpowering+capable](kāla+saṃkarṣaṇa+kṣamam)
 
 ## mukta-m0-p28-v694
-[having-shattered](khaṇḍayitvā) [time+staff](kāladaṇḍaṃ) [in-universes](brahmāṃḍeṣu) [wander](caraṃti) [they](te)
+[having-shattered](khaṇḍayitvā) [time+staff](kāla+daṇḍaṃ) [in-universes](brahmāṃḍeṣu) [wander](caraṃti) [they](te)
 
 ## mukta-m0-p28-v695
-[that+essence+consisting](tatsārabhūtaṃ) [that+vigor+protection+purpose](tadvīryarakṣārthaṃ) [view](matam) [is-declared](ucyate)
+[that+essence+consisting](tat+sāra+bhūtaṃ) [that+vigor+protection+purpose](tat+vīrya+rakṣā+arthaṃ) [view](matam) [is-declared](ucyate)
 
 ## mukta-m0-p28-v696
 [that](tam) [indeed](eva) [yoga](yogaṃ) [supreme](paramaṃ) [yogins](yoginaḥ) [regard](samacakṣate)
 
 ## mukta-m0-p28-v697
-[both](ubhau) [world+creation+making](jagatsṛṣṭikarau) [which](yat) [mind+vital-air+lords](manomāruteśvarau)
+[both](ubhau) [world+creation+causing](jagat+sṛṣṭi+karau) [which](yat) [mind+breath+lords](manaḥ+māruta+īśvarau)
 
 ## mukta-m0-p28-v698
-[great+consciousness](mahāsaṃvit) [light+nature](prakāśātma) [own-form+essence+restraint](svarūpavasunigrahau)
+[great+consciousness](mahā+saṃvit) [light+nature](prakāśa+ātma) [own-form+essence+restraining](svarūpa+vasu+nigrahau)
 
 ## mukta-m0-p28-v699
 [both](ubhau) [destroy](nāśayato) [body](deha) [gradually](krameṇa) [practiced](pariśīlitau)
 
 ## mukta-m0-p28-v700
-[death+become](mṛtyubhūtā) [these-two](vimau) [indeed](eva) [life+become](prāṇabhūtā) [these-two](vimau) [again](punaḥ)
+[death+become](mṛtyu+bhūtā) [these-two](vimau) [indeed](eva) [life+become](prāṇa+bhūtā) [these-two](vimau) [again](punaḥ)

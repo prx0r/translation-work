@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[striking](tāḍana) [chiefly](pramukhaṃ) [action](karmataṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
+[striking](tāḍana) [beginning-with+etc](pramukhaṃ) [action](karma) [that](taṃ) [cause](hetuṃ) [tell](kathaya) [O-lord](prabho)
 
 ## mukta-m0-p27-v652
-[delusion](mohaṃ) [moment](kṣaṇe) [by-moment](kṣaṇe) [messengers](dūtyāḥ) [they-approach](bhajaṃte) [in-love-play](narma-karmaṇi)
+[delusion](mohaṃ) [moment](kṣaṇe) [moment](kṣaṇe) [by-messengers](dūtyā) [they-experience](bhajaṃte) [in-playful-action](narma+karmaṇi)
 
 ## mukta-m0-p27-v653
-[therefore](tasmāt) [sloth](alasatāṃ) [having-attained](prāptāḥ) [not](na) [they-hasten](dravaṃti) [indeed](eva) [female-messengers](dūtikāḥ)
+[therefore](tasmāt) [languor](alasatāṃ) [having-attained](prāptā) [not](na) [melt](dravaṃti) [indeed](eva) [female-messengers](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-[they-delay](vilaṃbate) [pleasure](ratiṃ) [to-give](dātuṃ) [by-that-delay](tad-vilaṃbāt) [pleasure](sukhaṃ) [whence](kutaḥ)
+[delays](vilaṃbate) [pleasure](ratiṃ) [to-give](dātuṃ) [from-that+delay](tat+vilaṃbāt) [happiness](sukhaṃ) [whence](kutaḥ)
 
 ## mukta-m0-p27-v655
-[they](tāḥ) [awakened](prabuddhāḥ) [with-ardor](samutsāha) [they-begin](ārabhaṃte) [in-the-sacrifice-of-love](rata-adhvare)
+[they](tāḥ) [awakened](prabuddhāḥ) [with-enthusiasm](samutsāha) [undertake](mārabhaṃte) [in-love-sacrifice](rata+adhvare)
 
 ## mukta-m0-p27-v656
-[messenger](dūtī) [runs](dravati) [repeatedly](bahuśaḥ) [as](iva) [fresh-butter](navanītam) [by-fire](agninā)
+[female-messenger](dūtyā) [melts](udravati) [abundantly](bahuśaḥ) [like-fresh-butter](navanītam+iva) [by-fire](agninā)
 
 ## mukta-m0-p27-v657
-[absorption](layam) [object-absorption](artha-layam) [and-also](ca) [api](api) [then](tadā) [causing-tremor](ghaṭṭa-layam) [beloved](priye)
+[dissolution](layam) [meaning-dissolution](artha+layam) [and](ca) [also](api) [then](tadā) [union-dissolution](ghaṭṭa+layam) [O-beloved](priye)
 
 ## mukta-m0-p27-v658
-[they-move](acaran) [of-the-messenger's-body](dūtikā-gātram) [bliss](ānandam) [causing](ayatāṃ) [they-lead](nayet)
+[moving](acaran) [female-messenger's-body](dūtikā+gātram) [blissful-state](ānaṃdamayatāṃ) [may-lead](nayet)
 
 ## mukta-m0-p27-v659
-[himself](svayam) [extremely](atyanta) [steadfast-minded](dhīra-ātmā) [contemplating](bhāvayan) [the-lock-of-the-lingam](liṅga-kuñcikām)
+[oneself](svayam) [extremely](atyaṃta) [firm-minded](dhīrātmā) [contemplating](bhāvayan) [linga-key](liṃga+kuṃcikām)
 
 ## mukta-m0-p27-v660
-[eternal](nitya) [full-of-bliss](ānanda-mayam) [that](tat) [principle](tatvam) [pervading-the-world](jagat-vyāptam) [contemplating](viciṃtayat)
+[eternal-blissful](nitya+ānaṃdamayaṃ) [principle](tatvaṃ) [world-pervading](jagad+vyāptaṃ) [should-contemplate](viciṃtayat)
 
 ## mukta-m0-p27-v661
-[this](ayam) [alone](eva) [great-sacrifice](mahā-yajñaḥ) [austerity](tapaḥ) [and-restraint](ca) [damah] [unexcelled](anuttamam)
+[this](ayam) [indeed](eva) [great-sacrifice](mahā+yajñaḥ) [austerity](tapaḥ) [and](ca) [this](idam) [unsurpassed](anuttamam)
 
 ## mukta-m0-p27-v662
-[this](idam) [vow](vratam) [greatly-meritorious](mahā-puṇyam) [bliss](ānanda) [non-duality](advaita) [giving](dāyakam)
+[this](idaṃ) [vow](vrataṃ) [greatly-meritorious](mahā+puṇyam) [bliss-nonduality-giving](ānaṃda+advaita+dāyakaṃ)
 
 ## mukta-m0-p27-v663
-[of-the-drop](bindu) [discharge](vikṣaraṇam) [by-name](nāma) [of-the-sacrifice](yajña) [avabhṛtha](avabhṛthaḥ) [it-is-called](ucyate)
+[drop-emission](biṃdu+vikṣaraṇaṃ) [named](nāma) [sacrifice-concluding-bath](yajña+avabhṛtha) [is-called](ucyate)
 
 ## mukta-m0-p27-v664
-[as](yathā) [as](yathā) [of-time](kāla) [length](dairghyam) [by-firmness](dhairya-baṃdhena) [by-greater](bhūyasā)
+[as](yathā) [as](yathā) [time-length](kāla+dairghyaṃ) [by-firmness-bond](dhairya+baṃdhena) [greater](bhūyasā)
 
 ## mukta-m0-p27-v665
-[fire](agniḥ) [into-the-mouth](mukhe) [like-mercury](pāradavat) [not](na) [steadfastness](dhairyam) [runs-after](anudhāvati)
+[in-fire's-mouth](agni+mukhe) [like-mercury](pārada+vat) [not](na) [firmness](dhairyam) [runs-away](anudhāvati)
 
 ## mukta-m0-p27-v666
-[how](katham) [it-becomes](bhavati) [O-Caṇḍīśa](caṇḍīśa) [stilled](prastabdhām) [white](śuklam) [in-the-limb](aṃgake)
+[how](kathaṃ) [becomes](bhavati) [O-Caṇḍīśa](caṇḍīśa) [firm](prastabdhaṃ) [semen](śuklam) [in-body](aṃgake)
 
 ## mukta-m0-p27-v667
-[most](atyantam) [wonder-causing](āścarya-janakam) [if](yadi) [of-the-white](śuklasya) [retention](dhāraṇā)
+[extremely-wonder-producing](atyaṃta+āścarya+janakaṃ) [if](yadi) [of-semen](śuklasya) [retention](dhāraṇā)
 
 ## mukta-m0-p27-v668
-[not](na) [by-any](kenāpi) [by-effort](yatnena) [it-arises](jāyate) [white-retention](śukla-dhāraṇā)
+[not](na) [indeed](tu) [by-any](kena+api) [effort](yatnena) [arises](jāyate) [semen-retention](śukla+dhāraṇā)
 
 ## mukta-m0-p27-v669
-[in-the-sexual-tantras](kāma-tantreṣu) [many-times](bahuśaḥ) [by-enjoyers](bhogibhiḥ) [that](yat) [practiced](anuṣṭhitam)
+[in-desire-treatises](kāma+taṃtreṣu) [in-many-ways](bahuśaḥ) [by-enjoyers](bhogibhiḥ) [which](yat) [practiced](anuṣṭhitam)
 
 ## mukta-m0-p27-v670
-[like-that](tadvat) [I-tell](āmi) [O-great-fortuned-one](mahā-bhāge) [stabilization](staṃbhanam) [of-the-essence-wealth](rasa-saṃpadām)
+[that](tat) [I-tell](vadāmi) [O-great-fortunate-one](mahā+bhāge) [retention](staṃbhanaṃ) [of-essence-wealth](rasa+saṃpadām)
 
 ## mukta-m0-p27-v671
-[it-is-delighted](naṃdavyate) [somehow](kathamapi) [mature](prauḍham) [by-one-essence](eka-rasena) [by-the-wise](budhaiḥ)
+[is-praised](naṃdavyate) [somehow](katham+api) [mature](prauḍham) [single-essence](eka+rasaḥ) [by-wise](budhaiḥ)
 
 ## mukta-m0-p27-v672
-[all](sarve) [api](api) [dhātavaḥ](dhātavaḥ) [goddess](devī) [in-their-own](sva-sva) [place](sthāne) [made](kṛta) [abode](āśrayāḥ)
+[all](sarve) [also](api) [elements](dhātavaḥ) [O-goddess](devī) [in-own-places](sva+sva+sthāne) [having-taken-refuge](kṛta+āśrayāḥ)
 
 ## mukta-m0-p27-v673
-[in-the-wheel-of-nāḍīs](nāḍī-cakreṣu) [in-all](sarveṣu) [dwelling](vasan) [api](api) [the-lord-of-essence](raseśvaraḥ)
+[in-channel-circles](nāḍī+cakreṣu) [in-all](sarveṣu) [dwelling](vasan) [also](api) [lord-of-essence](rasa+īśvaraḥ)
 
 ## mukta-m0-p27-v674
-[some](kecit) [say](vadaṃti) [in-the-middle-of-the-eyebrows](bhrū-madhye) [some](kecit) [in-the-heart](dhṛti-pare) [in-the-gem](maṇau)
+[some](kecit) [say](vadaṃti) [in-brow-middle](bhrū+madhye) [some](kecit) [in-heart](hṛdi) [others](pare) [in-jewel](maṇau)
 
 ## mukta-m0-p27-v675
-[some](kecit) [in-the-dūrvā-blade](dūrvā-stale) [goddess](devī) [some](kecit) [in-the-pubic-region](jaghana-sīmani)
+[some](kecit) [in-ūrvastala](ūrvaḥ+tale) [O-goddess](devi) [some](kecit) [in-hip-border](jaghana+sīmani)
