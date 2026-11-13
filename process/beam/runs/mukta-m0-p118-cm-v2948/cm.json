@@ -3,44 +3,49 @@
  "verse": 2948,
  "rows": [
   {
-   "lemma": "ato",
+   "lemma": "itihāsa",
+   "morph": "m.stem",
+   "grounds": "first member of compound with vidaś"
+  },
+  {
+   "lemma": "vidaś",
+   "morph": "adj.nom.pl.m",
+   "grounds": "knowers of history; sandhi form"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "for this reason"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "atra",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "in this case"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "sannikṛṣṭo",
-   "morph": "m.nom.sg.ppp √kṛṣ+sam+ni",
-   "grounds": "closely related"
+   "lemma": "purāṇa",
+   "morph": "n.stem",
+   "grounds": "first member of compound with artha"
   },
   {
-   "lemma": "api",
+   "lemma": "artha",
+   "morph": "m.stem",
+   "grounds": "second member of compound with vidaś"
+  },
+  {
+   "lemma": "vidaś",
+   "morph": "adj.nom.pl.m",
+   "grounds": "knowers of the meaning of ancient lore"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "mātulo",
-   "morph": "m.nom.sg",
-   "grounds": "mother's brother"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
-  },
-  {
-   "lemma": "āpnuyād",
-   "morph": "3.sg.opt.act √āp",
-   "grounds": "should receive"
-  },
-  {
-   "lemma": "dhanam",
-   "morph": "n.acc.sg",
-   "grounds": "property"
+   "lemma": "te",
+   "morph": "pron.nom.pl.m",
+   "grounds": "those people"
   }
  ]
 }

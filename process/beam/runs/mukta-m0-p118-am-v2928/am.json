@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p118",
  "verse": 2928,
- "question": "How should paternal wealth be divided between two equal claimants?",
+ "question": "Who obtains that merit daily in that sacred place?",
  "premises": [
-  "The wealth is derived from the father.",
-  "Two claimants are entitled to it.",
-  "They are equal sharers."
+  "The fruit is obtainable there",
+  "The obtainer is disciplined",
+  "The obtainer is pure"
  ],
- "inference": "Because the wealth comes from the father, the two equal sharers should divide it equally.",
- "uncertainties": [],
- "plain_english": "Since the wealth comes from the father, the two should divide it as equal sharers."
+ "inference": "A disciplined and pure person obtains that fruit there every day.",
+ "uncertainties": [
+  "The referent of 'there' depends on prior context."
+ ],
+ "plain_english": "A disciplined and pure person obtains that fruit there every day."
 }
