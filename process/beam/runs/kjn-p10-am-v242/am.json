@@ -1,16 +1,12 @@
 {
  "song": "kjn-p10",
  "verse": 242,
- "question": "What does an angry one destroy in the triple world?",
+ "question": "What does angry one destroy across triple world?",
  "premises": [
-  "Anger is named",
-  "Destruction is stated",
-  "Triple world is named",
-  "Moving and unmoving are named"
+  "anger leads to destruction",
+  "all moving and unmoving triple world is destroyed"
  ],
- "inference": "An angry one destroys all moving and unmoving things in the triple world.",
- "uncertainties": [
-  "Subject identity unclear"
- ],
- "plain_english": "When angry, one destroys all moving and unmoving things in the triple world."
+ "inference": "the verse states angry destruction of all triple world",
+ "uncertainties": [],
+ "plain_english": "When angry, he destroys all the triple world, moving and unmoving."
 }
