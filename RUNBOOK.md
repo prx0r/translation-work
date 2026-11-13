@@ -311,6 +311,12 @@ but proof BLOCKED (assessor: dispositions in `tools/proof-disp.json` for
 verified sandhi, or fix the real defect), or (c) beam is paused >2h (account
 tier — wait, do not add workers).
 
+**Expansion / lore supply:** `tools/gen_briefs.py --apply` writes grounded
+per-work briefs (bibliography + tradition doctrine) for any onboarded front
+lacking one; `tools/onboard_wave.py --n N --max-verses M` onboards the next
+short untranslated works (brief first, then T1+seed) so the queue never starves.
+Both are idempotent and safe to run while workers drain.
+
 **Backup:** the loop commits locally each pass and `git push origin HEAD` (was
 hardcoded `master`; fixed 2026-11-13 so `burn/muktabodha` actually backs up).
 Full-disk mirror on R2: `r2:opencode2-root/fs` (r2root.sh) + package snapshots.

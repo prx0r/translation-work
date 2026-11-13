@@ -7,13 +7,13 @@
     {
      "surface": "ulukī",
      "gloss": "owl-woman",
-     "grounds": "feminine noun denoting a woman associated with an owl",
+     "grounds": "female figure named in the list of knowers",
      "morph": "f.nom.sg"
     },
     {
      "surface": "pecakī",
      "gloss": "peacock-woman",
-     "grounds": "feminine noun denoting a woman associated with a peacock",
+     "grounds": "female figure named as an alternative",
      "morph": "f.nom.sg"
     },
     {
@@ -31,7 +31,7 @@
     {
      "surface": "sararī",
      "gloss": "sarari-woman",
-     "grounds": "feminine noun denoting a woman associated with a sarari",
+     "grounds": "female figure named in the list of knowers",
      "morph": "f.nom.sg"
     },
     {
@@ -43,29 +43,27 @@
     {
      "surface": "gūlī",
      "gloss": "guli-woman",
-     "grounds": "feminine noun denoting a woman associated with a guli",
+     "grounds": "female figure named in the list of knowers",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb indicating inclusion in the same manner as previously listed figures",
+     "grounds": "particle indicating inclusion in the same series",
      "morph": "(indecl.)"
     }
    ],
    "question": "Which additional female figures are included among those who know through devotion on earth?",
    "premises": [
-    "The verse continues a list of female figures begun in the preceding verses.",
-    "The named figures are the owl-woman, peacock-woman, sarari-woman, and guli-woman.",
-    "The particle tathā indicates these figures are included in the same way as those previously mentioned."
+    "The preceding verses request identification of those who know through devotion on earth.",
+    "Female figures named by bird or animal forms are being enumerated as such knowers.",
+    "This verse adds further named female figures to that ongoing enumeration."
    ],
-   "inference": "The owl-woman, peacock-woman, sarari-woman, and guli-woman are likewise counted among the female figures who know through devotion.",
+   "inference": "The owl-woman, peacock-woman, sarari-woman, and guli-woman are included among the female knowers named in this series.",
    "uncertainties": [
-    "The precise identity or referent of sararī is uncertain.",
-    "The precise identity or referent of gūlī is uncertain.",
-    "The exact species or symbolic meaning associated with pecakī is uncertain."
+    "The precise identity or tradition-specific significance of sararī and gūlī is not specified in the verse."
    ],
-   "plain_english": "The owl-woman, the peacock-woman, or indeed the sarari-woman, or the guli-woman likewise."
+   "plain_english": "The owl-woman, or indeed the peacock-woman, or the sarari-woman, or likewise the guli-woman."
   }
  ]
 }

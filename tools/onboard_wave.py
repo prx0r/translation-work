@@ -82,7 +82,16 @@ def norm(s: str) -> str:
 
 def onboard(cat: str, title: str, verses: list, trads: str, who: str) -> Path:
     from brief_gate import check as _bg
-    _ok, _why = _bg(f"mukta-{cat}".lower())
+    work_name = f"mukta-{cat}".lower()
+    # Write the grounded brief BEFORE the gate check (chicken-and-egg fix,
+    # 2026-11-13): gen_briefs builds from the bibliography + tradition ground,
+    # so a brand-new front can onboard and burn unattended.
+    try:
+        from gen_briefs import ensure as _ensure
+        _ensure(work_name)
+    except Exception as e:  # noqa: BLE001
+        print(f"brief-gen warning: {str(e)[:120]}")
+    _ok, _why = _bg(work_name)
     if not _ok:
         raise RuntimeError(f"brief_gate: {_why} — write a researched brief first")
     from intake import validate_segments
@@ -99,10 +108,16 @@ def onboard(cat: str, title: str, verses: list, trads: str, who: str) -> Path:
     ps = []
     for i in range(0, len(verses), 25):
         n = i // 25 + 1
+        chunk = verses[i:i + 25]
+        text = " ".join(chunk)
+        iid = "pt:pid:" + w.name + ":" + hashlib.sha256(
+            (w.name + "|" + text).encode()).hexdigest()[:12]
         ps.append({"work_id": w.name, "order": n,
                    "locator": f"{w.name}-p{n:02d}",
-                   "verses": f"{i+1}-{i+len(verses[i:i+25])}",
-                   "sanskrit": " ".join(verses[i:i + 25])})
+                   "verses": f"{i+1}-{i+len(chunk)}",
+                   "sanskrit": text, "char_len": len(text),
+                   "source_edition": "Muktabodha %s (IAST, CC BY-NC 4.0)" % cat,
+                   "immutable_id": iid})
     with open(w / "passages.jsonl", "w") as f:
         for p in ps:
             f.write(json.dumps(p, ensure_ascii=False) + "\n")

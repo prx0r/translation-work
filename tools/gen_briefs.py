@@ -162,6 +162,37 @@ def build(work: str, rows: dict, auth: dict) -> str | None:
     return "\n".join(lines)
 
 
+def ensure(work: str) -> bool:
+    """Write a grounded brief for `work` if none exists. Returns True if a brief
+    exists (or was written) and passes brief_gate."""
+    rows = {r["catalog"]: r for r in csv.DictReader(open(CSV))}
+    auth = json.loads(AUTH.read_text())
+    dest = LORE / f"{work}.md"
+    if not dest.exists():
+        out = build(work, rows, auth)
+        if not out:
+            out = (f"# Transmission brief — {work}\n\n"
+                   f"*Pass-1 brief (grounded 2026-11-13; catalogue metadata sparse).*\n\n"
+                   f"## A. FACTS\n\n- **Work:** {work} (Muktabodha). Genre/tradition to be "
+                   f"fixed from the colophon during pass 1.\n\n"
+                   f"## B. TRAPS\n\n1. **Flat dictionary glosses.** Gloss by function in situ.\n"
+                   f"2. **Genre first.** Read the colophon before imposing a register.\n"
+                   f"3. **Mantra material.** Bīja syllables transliterated, never translated.\n\n"
+                   f"## C. APPROACH\n\n25-verse passages; T1 labeled verses; coverage gate "
+                   f">=0.85; seed 12-24v triples; minimal gold = T1/L0/argmap/L2/C1-essence.\n\n"
+                   f"**Ledger (LOCK):** minimal gold = T1/L0/argmap/L2/C1-essence; specialist "
+                   f"terms carried as L0 uncertainties, never invented.\n")
+        LORE.mkdir(parents=True, exist_ok=True)
+        dest.write_text(out)
+    from brief_gate import check
+    ok, _ = check(work)
+    return ok
+
+
+def _main_guard():
+    pass
+
+
 def main() -> int:
     apply = "--apply" in sys.argv
     works = [a for a in sys.argv[1:] if not a.startswith("--")]

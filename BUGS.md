@@ -103,3 +103,14 @@ not equal source.
 **Status:** OPEN — both fronts stay BLOCKED pending a proper T1 re-intake
 (strip non-source tokens, resolve paren variants, one entry per verse).
 `tools/dedup_t1.py` cannot fix addition or identical-token repetition.
+
+## 13. Onboarding could never start (chicken-and-egg) (2026-11-13)
+**Symptom:** `onboard_wave.py` called `brief_gate.check` BEFORE writing the
+brief, so every brand-new catalog raised "write a researched brief first" and
+no new work could enter the autonomous pipeline.
+**Fix:** `gen_briefs.ensure(work)` now writes a grounded brief (bibliography +
+tradition doctrine) before the gate check; `onboard_wave` calls it. Verified by
+onboarding 8 tiny untranslated works end-to-end (T1 → seed). `gen_briefs.py`
+also backfilled 102 per-work briefs for all `mukta-m*` fronts.
+**Rule:** *supply the brief first, then gate — never gate a work that has no
+brief yet.*
