@@ -7,16 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kumbhopari",
+"surface": "kumbha+upari",
 "quick_gloss": "pot+upon"
 },
 {
-"surface": "nidhāyātha",
+"surface": "nidhāya+atha",
 "quick_gloss": "having-placed+then"
 },
 {
 "surface": "sādhyaṃ",
-"quick_gloss": "the-patient"
+"quick_gloss": "the-person-to-be-treated"
 },
 {
 "surface": "samupaveśayet",
@@ -32,12 +32,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhrāmayitvā",
+"surface": "p. 705",
 "quick_gloss": "having-whirled"
 },
 {
-"surface": "tataścodaṅmārjjanaṃ",
-"quick_gloss": "then+and+northward+wiping"
+"surface": "tataḥ+ca+udaṅ",
+"quick_gloss": "then+and+northward"
+},
+{
+"surface": "mārjjanaṃ",
+"quick_gloss": "wiping"
 },
 {
 "surface": "kalaśaṃ",
@@ -45,7 +49,7 @@
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "one-should-cast"
+"quick_gloss": "one-should-throw"
 }
 ]
 },
@@ -57,11 +61,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "hutaśiṣṭānnena",
-"quick_gloss": "offered+remnant+food-with"
+"surface": "huta+śiṣṭa+annena",
+"quick_gloss": "offered+remnant+with-food"
 },
 {
-"surface": "dadyādbaliṃ",
+"surface": "dadyāt+balim",
 "quick_gloss": "one-should-give+offering"
 },
 {
@@ -69,7 +73,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "manunāmunā",
+"surface": "manunā+amunā",
 "quick_gloss": "with-mantra+this"
 }
 ]
@@ -90,16 +94,16 @@
 "quick_gloss": "offering"
 },
 {
-"surface": "pratigṛhṇantu",
-"quick_gloss": "may-they-accept"
+"surface": "prati+gṛhṇantu",
+"quick_gloss": "may-they-receive"
 },
 {
 "surface": "śāntyai",
 "quick_gloss": "for-peace"
 },
 {
-"surface": "hṛttattvavarṇakaḥ",
-"quick_gloss": "heart+element+syllable-group"
+"surface": "hṛt+tattva+varṇakaḥ",
+"quick_gloss": "heart+principle+syllable-group"
 }
 ]
 },
@@ -111,12 +115,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jvarādirogasaṃghātān",
+"surface": "jvarā+ādi+roga+saṃghātān",
 "quick_gloss": "fever+etc.+disease+multitudes"
 },
 {
 "surface": "praogoyaṃ",
-"quick_gloss": "this+application"
+"quick_gloss": "this-application"
 },
 {
 "surface": "vināśayet",
@@ -132,7 +136,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rakṣobhūtādipīḍāṃ",
+"surface": "rakṣaḥ+bhūta+ādi+pīḍāṃ",
 "quick_gloss": "demon+spirit+etc.+affliction"
 },
 {
@@ -140,12 +144,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "nāśayetsa",
+"surface": "nāśayet+sa+tu+ayaṃ",
 "quick_gloss": "may-destroy+that+indeed+this"
-},
-{
-"surface": "tvayaṃ",
-"quick_gloss": "indeed+this"
 },
 {
 "surface": "vidhiḥ",
@@ -166,15 +166,15 @@
 },
 {
 "surface": "mantrī",
-"quick_gloss": "the-mantrin"
+"quick_gloss": "the-practitioner"
 },
 {
 "surface": "paṃcagavyaiḥ",
 "quick_gloss": "with-five-products-of-cow"
 },
 {
-"surface": "pūjayetsādhyamatra",
-"quick_gloss": "should-worship+the-patient+here"
+"surface": "pūjayet+sādhyam+atra",
+"quick_gloss": "one-should-worship+the-person-to-be-treated+here"
 },
 {
 "surface": "ca",
@@ -190,11 +190,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vipravaryyaiḥ",
-"quick_gloss": "by-best+brahmins"
+"surface": "vipra+varyyaiḥ",
+"quick_gloss": "by-excellent-brahmins"
 },
 {
-"surface": "kārayecca",
+"surface": "kārayet+ca",
 "quick_gloss": "one-should-cause-to-perform+and"
 },
 {
@@ -202,8 +202,8 @@
 "quick_gloss": "oblation"
 },
 {
-"surface": "pūrvoditaṃ",
-"quick_gloss": "previously+stated"
+"surface": "pūrva+uditaṃ",
+"quick_gloss": "previously-stated"
 },
 {
 "surface": "kramāt",
@@ -224,11 +224,11 @@
 },
 {
 "surface": "yogaḥ",
-"quick_gloss": "method"
+"quick_gloss": "application"
 },
 {
-"surface": "sarvarogāpamṛtyudrohanāśakaḥ",
-"quick_gloss": "all+disease+untimely-death+calamity+destroying"
+"surface": "sarva+roga+apamṛtyu+droha+nāśakaḥ",
+"quick_gloss": "all+diseases+untimely-death+affliction+destroying"
 }
 ]
 },
@@ -244,15 +244,19 @@
 "quick_gloss": "with-three"
 },
 {
-"surface": "sampūritairjaptaiḥ",
-"quick_gloss": "filled+consecrated"
+"surface": "sampūritaiḥ",
+"quick_gloss": "filled"
+},
+{
+"surface": "japtaiḥ",
+"quick_gloss": "consecrated-by-recitation"
 },
 {
 "surface": "kumbhaiḥ",
 "quick_gloss": "with-pots"
 },
 {
-"surface": "sampātasaṃyutaiḥ",
+"surface": "sampāta+saṃyutaiḥ",
 "quick_gloss": "with-sprinkled-water+endowed"
 }
 ]
@@ -265,16 +269,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "abhiṣiñcedbhānudine",
-"quick_gloss": "one-should-sprinkle+on-sunday"
+"surface": "abhiṣiñcet",
+"quick_gloss": "one-should-sprinkle"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "bhānu+dine",
+"quick_gloss": "on-sunday"
 },
 {
-"surface": "āmayādyāturaṃ",
-"quick_gloss": "by-disease+afflicted"
+"surface": "cāmayā+ādi+āturaṃ",
+"quick_gloss": "by-disease+etc.+afflicted"
 },
 {
 "surface": "tathā",
@@ -294,15 +298,23 @@
 "quick_gloss": "ghee"
 },
 {
+"surface": "bhakṣayet+iti+śeṣaḥ",
+"quick_gloss": "one-should-eat+thus-remainder"
+},
+{
 "surface": "pakvaṃ",
 "quick_gloss": "cooked"
 },
 {
-"surface": "pañcagavyairjapite",
-"quick_gloss": "with-five-products-of-cow+consecrated"
+"surface": "pañcagavyaiḥ",
+"quick_gloss": "with-five-products-of-cow"
 },
 {
-"surface": "manunāmunā",
+"surface": "japite",
+"quick_gloss": "consecrated-by-recitation"
+},
+{
+"surface": "manunā+amunā",
 "quick_gloss": "with-mantra+this"
 }
 ]
@@ -319,16 +331,20 @@
 "quick_gloss": "the-mantra"
 },
 {
-"surface": "japeddaśaśataṃ",
-"quick_gloss": "one-should-recite+ten+hundred"
+"surface": "japet+daśa+śataṃ",
+"quick_gloss": "one-should-recite+ten-hundred"
 },
 {
 "surface": "pañcagavyaṃ",
 "quick_gloss": "the-five-products-of-cow"
 },
 {
-"surface": "spṛśetsudhīḥ",
-"quick_gloss": "should-touch+the-wise-one"
+"surface": "spṛśet",
+"quick_gloss": "one-should-touch"
+},
+{
+"surface": "sudhīḥ",
+"quick_gloss": "the-wise-one"
 }
 ]
 },
@@ -345,14 +361,14 @@
 },
 {
 "surface": "bhavati",
-"quick_gloss": "becomes"
+"quick_gloss": "arises"
 },
 {
-"surface": "tadgehe",
-"quick_gloss": "in-that+house"
+"surface": "tat+gehe",
+"quick_gloss": "in-that-house"
 },
 {
-"surface": "sampadvṛddhiḥ",
+"surface": "sampat+vṛddhiḥ",
 "quick_gloss": "prosperity+increase"
 },
 {
@@ -389,7 +405,7 @@
 "quick_gloss": "yellow-pigment"
 },
 {
-"surface": "bilvarājike",
+"surface": "bilva+rājike",
 "quick_gloss": "bilva+royal"
 }
 ]
@@ -403,7 +419,7 @@
 "tokens": [
 {
 "surface": "kṛṣṇāṃ",
-"quick_gloss": "black-pepper"
+"quick_gloss": "long-pepper"
 },
 {
 "surface": "ca",
@@ -418,8 +434,12 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "javamarkadrumaṃ",
-"quick_gloss": "barley+arka+tree"
+"surface": "javam",
+"quick_gloss": "barley"
+},
+{
+"surface": "arka+drumaṃ",
+"quick_gloss": "arka-tree"
 },
 {
 "surface": "tathā",
@@ -447,7 +467,7 @@
 "quick_gloss": "in-five-products-of-cow"
 },
 {
-"surface": "saṃkvāthayenmuhuḥ",
+"surface": "saṃkvāthayet+muhuḥ",
 "quick_gloss": "one-should-boil+repeatedly"
 }
 ]
@@ -461,19 +481,19 @@
 "tokens": [
 {
 "surface": "japitaṃ",
-"quick_gloss": "consecrated"
+"quick_gloss": "consecrated-by-recitation"
 },
 {
-"surface": "manunānena",
+"surface": "manunā+anena",
 "quick_gloss": "with-mantra+this"
 },
 {
-"surface": "samyakca",
+"surface": "samyak+ca",
 "quick_gloss": "properly+and"
 },
 {
 "surface": "śirasā",
-"quick_gloss": "on-head"
+"quick_gloss": "on-the-head"
 },
 {
 "surface": "dhṛtam",
@@ -489,16 +509,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āpannāśakametatsyād",
-"quick_gloss": "calamity+destroying+this"
+"surface": "āpanna+āśakam",
+"quick_gloss": "calamity+destroying"
 },
 {
-"surface": "vaśyadaṃ",
-"quick_gloss": "should-be+subduing+giving"
+"surface": "etat",
+"quick_gloss": "this"
 },
 {
-"surface": "śivadaṃ",
-"quick_gloss": "auspiciousness+giving"
+"surface": "syāt",
+"quick_gloss": "may-be"
+},
+{
+"surface": "vaśya+daṃ",
+"quick_gloss": "attraction-causing"
+},
+{
+"surface": "śiva+daṃ",
+"quick_gloss": "auspiciousness-giving"
 },
 {
 "surface": "param",
@@ -515,19 +543,19 @@
 "tokens": [
 {
 "surface": "prasthaṃ",
-"quick_gloss": "a-prastha"
+"quick_gloss": "a-prastha-measure"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "kalkadravyāṇi",
+"surface": "kalka+dravyāṇi",
 "quick_gloss": "paste+substances"
 },
 {
 "surface": "mustā",
-"quick_gloss": "mustā"
+"quick_gloss": "nutgrass"
 },
 {
 "surface": "śuṇṭhī",
@@ -551,8 +579,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "māṃsyāhvā",
-"quick_gloss": "spikenard+named"
+"surface": "māṃsyā+āhvā",
+"quick_gloss": "spikenard"
 },
 {
 "surface": "ca",
@@ -560,7 +588,7 @@
 },
 {
 "surface": "viḍaṅgaṃ",
-"quick_gloss": "viḍaṅga"
+"quick_gloss": "embelia"
 },
 {
 "surface": "ca",
@@ -568,11 +596,11 @@
 },
 {
 "surface": "mañjiṣṭhā",
-"quick_gloss": "mañjiṣṭhā"
+"quick_gloss": "madder"
 },
 {
 "surface": "kaṭurohiṇī",
-"quick_gloss": "kaṭurohiṇī"
+"quick_gloss": "black-hellebore"
 }
 ]
 },
@@ -584,12 +612,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūtapretapiśācādibhayaghnaṃ",
-"quick_gloss": "spirit+ghost+piśāca+etc.+fear+destroying"
+"surface": "bhūta+preta+piśāca+ādi+bhaya+ghnaṃ",
+"quick_gloss": "ghost+spirit+demon+etc.+fear+destroying"
 },
 {
-"surface": "nātra",
-"quick_gloss": "not+here"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "saṃśayaḥ",
@@ -617,8 +649,8 @@
 "quick_gloss": "having-made"
 },
 {
-"surface": "hunedaṣṭasahasrakam",
-"quick_gloss": "one-should-offer+eight+thousand"
+"surface": "hunet+aṣṭa+sahasrakam",
+"quick_gloss": "one-should-offer+eight-thousand"
 }
 ]
 },
@@ -630,16 +662,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhavetsarvopadravāṇāṃ",
-"quick_gloss": "may-be+of-all+calamities"
+"surface": "bhavet",
+"quick_gloss": "may-be"
 },
 {
-"surface": "nāśo",
+"surface": "sarva+upadravāṇāṃ",
+"quick_gloss": "of-all+calamities"
+},
+{
+"surface": "nāśaḥ",
 "quick_gloss": "destruction"
 },
 {
-"surface": "mantragadasya",
-"quick_gloss": "of-mantra+poison"
+"surface": "mantra+gadasya",
+"quick_gloss": "of-mantra+ailment"
 },
 {
 "surface": "ca",
@@ -655,7 +691,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūtajvarabhayavyādhikṛtyāpasmāranāśanam",
+"surface": "bhūta+jvara+bhaya+vyādhi+kṛtyā+apasmāra+nāśanam",
 "quick_gloss": "spirit+fever+fear+disease+witchcraft+epilepsy+destroying"
 }
 ]

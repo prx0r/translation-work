@@ -3,24 +3,29 @@
  "verse": 2278,
  "rows": [
   {
-   "lemma": "tat+tat+karma",
-   "morph": "compound, n.nom.sg",
-   "grounds": "compound indicating distributive reference"
+   "lemma": "pañcabhiḥ",
+   "morph": "m/n.inst.pl",
+   "grounds": "numeral indicating one possible count"
   },
   {
-   "lemma": "vidhātavyam",
-   "morph": "n.nom.sg, gerundive (√dhā)",
-   "grounds": "gerundive expressing obligation"
+   "lemma": "navabhiḥ+vā+api",
+   "morph": "navabhiḥ+m/n.inst.pl + vā (indecl.) + api (indecl.)",
+   "grounds": "numeral with alternatives vā and api"
   },
   {
-   "lemma": "mantriṇā",
-   "morph": "m.inst.sg",
-   "grounds": "instrumental singular agent"
+   "lemma": "saptabhiḥ",
+   "morph": "m/n.inst.pl",
+   "grounds": "numeral indicating another possible count"
   },
   {
-   "lemma": "niścita+ātmanā",
-   "morph": "compound, m.inst.sg",
-   "grounds": "bahuvrīhi compound describing the agent"
+   "lemma": "tribhiḥ+eva",
+   "morph": "tribhiḥ+m/n.inst.pl + eva (indecl.)",
+   "grounds": "numeral with emphatic eva"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle marking alternatives"
   }
  ]
 }

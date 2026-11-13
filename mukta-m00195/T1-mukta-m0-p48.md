@@ -17,7 +17,7 @@
 [with-that](tat) [mantra](mantreṇa) [and](ca) [one-should-worship](pūjayet)
 
 ## mukta-m0-p48-v1181
-[gaṅgā](gaṅgā) [sindhu](sindhu) [river](sarid) [excellent](vara) [etc.](ādi) [accompanied-by](sahitāṃ) [auspicious](śrī) [sacred-water](tīrtha) [power](śaktiṃ) [i-worship](bhaje)
+[with-gaṅgā](gaṅgā) [sindhu](sindhu) [river](sarid) [best](vara) [etc.](ādi) [accompanied](sahitāṃ) [auspicious](śrī) [sacred-water](tīrtha) [power](śaktiṃ) [I-worship](bhaje)
 
 ## mukta-m0-p48-v1182
 [fire](vahni) [wife](gehinī)
@@ -26,13 +26,13 @@
 [with-gaṅgā](gāṅga) [mantra](mantreṇa) [one-should-consecrate](mantrayet) [eight](aṣṭa) [times](vārakam)
 
 ## mukta-m0-p48-v1184
-[o-ambālikā](ambālike) [o-greatly-garlanded-one](mahāmālinī) [come](ehi) [come](ehi) [o-goddess](bhagavati) [then](atha)
+[o-ambālikā](ambālike) [o-greatly-garlanded-one](mahāmālinye) [come](ehi) [come](ehi) [o-blessed-one](bhagavati) [then](atha)
 
 ## mukta-m0-p48-v1185
 [and](ca) [o-gaṅgā](gaṅge) [o-mother-gaṅgā](gaṅgāmbike) [twice](dviṭhaḥ)
 
 ## mukta-m0-p48-v1186
-[deity](devatāṃ) [there](tatra) [with-limbs](sāṅgāṃ) [with-retinue](sāvaraṇān) [and-also](tathā)
+[deity](devatāṃ) [there](tatra) [with-limbs](sāṅgāṃ) [with-retinue](sāvaraṇān) [and](tathā)
 
 ## mukta-m0-p48-v1187
 [one-should-remember](smaret) [root](mūla) [mantra](mantraṃ) [one-should-bathe](snāyāt) [in-water](jale) [thrice](triśaḥ)
@@ -41,37 +41,37 @@
 [with-three](tribhiḥ) [worlds](lokaiḥ) [with-root](mūla) [mantras](mantraiḥ) [tāraka](tārakaṃ) [with-seed](bīja) [preceded-by](pūrvakaiḥ)
 
 ## mukta-m0-p48-v1189
-[of-all](sarva) [beings](bhūtānām) [waters](āpaḥ) [goddesses](devyaḥ) [may-purify](punantu) [me](mām)
+[of-all](sarva) [beings](bhūtānām) [waters](āpaḥ) [divine](devyaḥ) [may-purify](punantu) [me](mām)
 
 ## mukta-m0-p48-v1190
-[by-own](nija) [touch](sparśāt) [waters](āpaḥ) [goddesses](devyaḥ) [may-purify](punantu) [me](mām)
+[by-own](nija) [touch](sparśāt) [waters](āpaḥ) [divine](devyaḥ) [may-purify](punantu) [me](mām)
 
 ## mukta-m0-p48-v1191
-[of-ears](karṇayoḥ) [of-eyes](akṣṇoḥ) [waters](āpaḥ) [that](tat) [may-destroy](ghnantu) [to-you](vaḥ) [salutation](namaḥ)
+[of-ears](karṇayoḥ) [of-eyes](akṣṇoḥ) [waters](āpaḥ) [that](tat) [may-destroy](ghnantu) [to-you](vaḥ) [homage](namaḥ)
 
 ## mukta-m0-p48-v1192
 [having-offered-libations](santarpya) [from-water](toya) [middle](madhyāt) [to-bank](taṭaṃ) [one-should-go](vrajet)
 
 ## mukta-m0-p48-v1193
-[with-clay](mṛdā) [and-with-waters](adbhiḥ) [then](tataḥ) [having-sipped](ācamya) [of-god](deva) [bathing](snāna) [procedure](vidhiḥ) [is-remembered](smṛtaḥ)
+[with-clay](mṛdā) [and-with-waters](adbhiḥ) [then](tataḥ) [having-sipped](ācamya) [of-divine](deva) [bathing](snāna) [procedure](vidhiḥ) [is-remembered](smṛtaḥ)
 
 ## mukta-m0-p48-v1194
-[in-difficulty](durge) [in-bodily](kāya) [unwellness](asvāsthye) [and](ca) [in-old-age](vārddhake)
+[in-difficulty](durge) [in-bodily](kāya) [illness](asvāsthye) [and](ca) [in-old-age](vārddhake)
 
 ## mukta-m0-p48-v1195
 [directions](diśaḥ) [as-before](prākvat) [having-purified](saṃśodhya) [one-should-sit](upāviśet) [then](tataḥ)
 
 ## mukta-m0-p48-v1196
-[mātṛkā](mātṛkā) [etc.](ādīn) [and-also](tathā) [root](mūla) [mantra](mantra) [installations](nyāsān) [completely](aśeṣataḥ)
+[mātṛkā](mātṛkā) [etc.](ādīn) [and](tathā) [root](mūla) [mantra](mantra) [installations](nyāsān) [completely](aśeṣataḥ)
 
 ## mukta-m0-p48-v1197
-[from-mere](kevalāt) [water](udaka) [bathing](snānāt) [from-consecration](saṃskāra) [devoid](parivarjitāt)
+[from-mere](kevalāt) [water](udaka) [bathing](snānāt) [by-consecration](saṃskāra) [devoid](parivarjitāt)
 
 ## mukta-m0-p48-v1198
-[his](tat) [foot](pāda) [water](udaka) [born](jāṃ) [stream](dhārāṃ) [falling](nipatantīṃ) [on-own](sva) [head](mūrddhani)
+[of-his](tat) [foot](pāda) [water](udaka) [born](jāṃ) [stream](dhārāṃ) [falling](nipatantīṃ) [on-own](sva) [head](mūrddhani)
 
 ## mukta-m0-p48-v1199
-[therefore](tasmāt) [one-should-wash-away](saṃkṣālayet) [all](sarvam) [this](etat) [body](deha) [gone](gataṃ) [impurity](malam)
+[therefore](tasmāt) [one-should-wash-away](saṃkṣālayet) [all](sarvam) [this](etat) [in-body](deha) [gone](gataṃ) [impurity](malam)
 
 ## mukta-m0-p48-v1200
-[bathing](snāna) [superior](varaṃ) [than-mantra](mantra) [bathing](snānāt) [eight](aṣṭa) [times](guṇaṃ) [considered](matam)
+[than-bathing](snāna) [superior](varaṃ) [than-mantra](mantra) [bathing](snānāt) [eight](aṣṭa) [times](guṇaṃ) [considered](matam)

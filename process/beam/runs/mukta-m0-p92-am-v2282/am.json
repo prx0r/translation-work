@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p92",
  "verse": 2282,
- "question": "Which arrangement must mantrins recognize as appropriate for subjugation rites?",
+ "question": "What mantra formula is employed during the bathing rite?",
  "premises": [
-  "A specific arrangement is identified.",
-  "That arrangement is vidarbha.",
-  "It applies to subjugation rites."
+  "A specific formula is given as a single unit.",
+  "The formula expresses a wish for blessings to flow.",
+  "It is used in the ritual context of bathing."
  ],
- "inference": "Mantrins should know vidarbha as the arrangement for subjugation rites.",
- "uncertainties": [],
- "plain_english": "Mantrins should recognize this vidarbha arrangement as appropriate for the rite of subjugation."
+ "inference": "The bathing is accompanied by the formula śaṃyorabhisravantu naḥ.",
+ "uncertainties": [
+  "Internal grammatical analysis of the mantra is not provided as separate tokens."
+ ],
+ "plain_english": "May blessings flow to us."
 }
