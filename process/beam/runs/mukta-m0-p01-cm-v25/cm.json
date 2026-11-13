@@ -3,29 +3,44 @@
  "verse": 25,
  "rows": [
   {
-   "lemma": "vinaya",
+   "lemma": "danturāñ",
+   "morph": "f.acc.pl",
+   "grounds": "describes the goddess as having prominent teeth; accusative plural feminine"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle linking attributes"
+  },
+  {
+   "lemma": "mahā",
    "morph": "compound-member",
-   "grounds": "first member of descriptive compound with avanatā"
+   "grounds": "intensifying first member qualifying the following term"
   },
   {
-   "lemma": "avanatā",
-   "morph": "f.nom.sg",
-   "grounds": "describes sādhvī; compounded with vinaya"
+   "lemma": "raudrīñ",
+   "morph": "f.acc.sg",
+   "grounds": "denotes a fierce, wrathful quality; accusative singular feminine"
   },
   {
-   "lemma": "sādhvī",
-   "morph": "f.nom.sg",
-   "grounds": "subject of paripapraccha"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle linking attributes"
   },
   {
-   "lemma": "paripapraccha",
-   "morph": "3.sg.perfect.active (√prach)",
-   "grounds": "main verb governing śaṅkaram"
+   "lemma": "caṇḍanādā",
+   "morph": "f.acc.sg (compound: caṇḍa+nāda)",
+   "grounds": "compound describing one with a fierce sound or roar; accusative singular feminine"
   },
   {
-   "lemma": "śaṅkaram",
-   "morph": "m.acc.sg",
-   "grounds": "object of paripapraccha"
+   "lemma": "ati",
+   "morph": "(indecl.)",
+   "grounds": "intensifier modifying the following attribute"
+  },
+  {
+   "lemma": "bhīṣaṇām",
+   "morph": "f.acc.sg",
+   "grounds": "describes an extremely terrifying appearance; accusative singular feminine"
   }
  ]
 }

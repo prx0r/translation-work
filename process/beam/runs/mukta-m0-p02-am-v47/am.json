@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 47,
- "question": "What standard of marital fidelity characterized the women in this account?",
+ "question": "What consequence should follow from the devotee's completed worship of the goddess?",
  "premises": [
-  "The women were not adulterous.",
-  "They were devoted to their husbands.",
-  "Fidelity is presented as their defining conduct."
+  "The goddess has been worshipped by the devotee.",
+  "The worship is presented as complete.",
+  "The devotee requests a boon-giving response."
  ],
- "inference": "The women were faithful and devoted to their husbands.",
- "uncertainties": [],
- "plain_english": "The women were not unfaithful; they were devoted to their husbands."
+ "inference": "Because she has been worshipped, the goddess is asked to become boon-giving.",
+ "uncertainties": [
+  "The trailing character in tva/ is unclear in function."
+ ],
+ "plain_english": "O goddess, you have been worshipped by me; therefore be the giver of boons."
 }

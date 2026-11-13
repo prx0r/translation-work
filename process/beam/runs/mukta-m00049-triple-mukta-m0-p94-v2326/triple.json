@@ -1,0 +1,1163 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2326,
+   "rows": [
+    {
+     "surface": "āstaret",
+     "gloss": "should-spread",
+     "grounds": "optative verb of spreading",
+     "morph": "3.sg.act-opt √stṛ"
+    },
+    {
+     "surface": "nairṛte",
+     "gloss": "in-southwest",
+     "grounds": "directional location for the rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "darbhān",
+     "gloss": "kuśa-grass",
+     "grounds": "sacred grass used in ritual",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "ritual diagram or area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yava+saṃyutān",
+     "gloss": "barley-mixed",
+     "grounds": "grass combined with barley grains",
+     "morph": "compound: yava+saṃyuta, m.acc.pl"
+    }
+   ],
+   "question": "Where and with what materials should the ritual grass be spread?",
+   "premises": [
+    "Kuśa grass should be spread.",
+    "The spreading occurs in the southwest.",
+    "The grass is placed in a circle and mixed with barley."
+   ],
+   "inference": "One should spread barley-mixed kuśa grass in a circle in the southwest.",
+   "uncertainties": [],
+   "plain_english": "One should spread kuśa grass mixed with barley in a circle in the southwest."
+  },
+  {
+   "verse": 2327,
+   "rows": [
+    {
+     "surface": "agni+dagdhāḥ",
+     "gloss": "fire-burned",
+     "grounds": "those who died by fire",
+     "morph": "compound: agni+dagdha, m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ke'pi",
+     "gloss": "any-whosoever",
+     "grounds": "indefinite inclusive expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāla+vyāghra+hatāḥ",
+     "gloss": "serpent-tiger-slain",
+     "grounds": "those killed by wild beasts",
+     "morph": "compound: vyāla+vyāghra+hata, m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which deceased beings are included among the intended recipients of the offering?",
+   "premises": [
+    "Some deceased were burned by fire.",
+    "Some deceased were slain by serpents or tigers.",
+    "The verse includes any such beings."
+   ],
+   "inference": "All those who died by fire or were killed by serpents or tigers are included.",
+   "uncertainties": [],
+   "plain_english": "And whoever were burned by fire, and whoever were slain by serpents or tigers."
+  },
+  {
+   "verse": 2328,
+   "rows": [
+    {
+     "surface": "mat+datta+piṇḍa+toyābhyāṃ",
+     "gloss": "by-my-given-ball-water",
+     "grounds": "offerings of rice-balls and water given by the performer",
+     "morph": "compound: mat+datta+piṇḍa+toya, n.inst.dual"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the deceased mentioned before",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yāntu",
+     "gloss": "may-go",
+     "grounds": "optative wish for attainment",
+     "morph": "3.pl.act-imp √yā"
+    },
+    {
+     "surface": "tṛptim",
+     "gloss": "satisfaction",
+     "grounds": "state of being satiated",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "akṣayām",
+     "gloss": "imperishable",
+     "grounds": "satisfaction that does not decay",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What result should the offered rice-balls and water bring to those deceased beings?",
+   "premises": [
+    "Rice-balls and water are given by the performer.",
+    "The recipients are the previously mentioned deceased.",
+    "The desired outcome is their satisfaction."
+   ],
+   "inference": "By the rice-balls and water given by me, they should attain imperishable satisfaction.",
+   "uncertainties": [],
+   "plain_english": "By the rice-balls and water given by me, may they attain imperishable satisfaction."
+  },
+  {
+   "verse": 2329,
+   "rows": [
+    {
+     "surface": "devatābhyaḥ",
+     "gloss": "to-deities",
+     "grounds": "divine recipients of recitation",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "thrice",
+     "grounds": "threefold repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "prior act of recitation",
+     "morph": "(indecl., absolutive) √jap"
+    },
+    {
+     "surface": "maṇḍalāni",
+     "gloss": "circles",
+     "grounds": "ritual areas to be prepared",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "instruction to prepare",
+     "morph": "3.sg.act-opt √kḷp"
+    }
+   ],
+   "question": "What preparatory recitation must precede arranging the ritual circles?",
+   "premises": [
+    "Recitation is directed to the deities.",
+    "The recitation is performed three times.",
+    "The circles are arranged after this recitation."
+   ],
+   "inference": "After muttering to the deities thrice, one should arrange the circles.",
+   "uncertainties": [],
+   "plain_english": "Having muttered thrice to the deities, one should arrange the circles."
+  },
+  {
+   "verse": 2330,
+   "rows": [
+    {
+     "surface": "vilva+phala+tulyān",
+     "gloss": "bilva-fruit-equal",
+     "grounds": "size comparison for the balls",
+     "morph": "compound: vilva+phala+tulya, m.acc.pl"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "specified number",
+     "morph": "(indecl., numeral)"
+    },
+    {
+     "surface": "piṇḍān",
+     "gloss": "balls",
+     "grounds": "rice-balls for offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "racayet",
+     "gloss": "should-make",
+     "grounds": "instruction to fashion",
+     "morph": "3.sg.act-opt √rac"
+    }
+   ],
+   "question": "How many rice-balls should be made and what size should they be?",
+   "premises": [
+    "Rice-balls are to be made.",
+    "Their size is compared to a bilva fruit.",
+    "The total number is twelve."
+   ],
+   "inference": "One should make twelve rice-balls equal in size to a bilva fruit.",
+   "uncertainties": [],
+   "plain_english": "One should make twelve rice-balls equal in size to a bilva fruit."
+  },
+  {
+   "verse": 2331,
+   "rows": [
+    {
+     "surface": "kuśān",
+     "gloss": "kuśa-grass",
+     "grounds": "sacred grass",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "āstaret",
+     "gloss": "should-spread",
+     "grounds": "instruction to lay down",
+     "morph": "3.sg.act-opt √stṛ"
+    },
+    {
+     "surface": "ācchādayet",
+     "gloss": "should-cover",
+     "grounds": "instruction to cover over",
+     "morph": "3.sg.act-opt √chad"
+    }
+   ],
+   "question": "What actions must be performed with kuśa grass during the offering preparation?",
+   "premises": [
+    "Kuśa grass is the material used.",
+    "One action is spreading it.",
+    "Another action is covering with it."
+   ],
+   "inference": "One should spread kuśa grass and cover with it.",
+   "uncertainties": [
+    "The object to be covered is not explicitly stated in this verse."
+   ],
+   "plain_english": "One should spread kuśa grass and cover with it."
+  },
+  {
+   "verse": 2332,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "number repeated for distribution",
+     "morph": "(indecl., numeral)"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "number repeated for distribution",
+     "morph": "(indecl., numeral)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circles",
+     "grounds": "ritual areas",
+     "morph": "n.loc.dual"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "racayet",
+     "gloss": "should-arrange",
+     "grounds": "instruction to place",
+     "morph": "3.sg.act-opt √rac"
+    },
+    {
+     "surface": "pitṛtaḥ",
+     "gloss": "from-fathers",
+     "grounds": "on the paternal side",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should items be arranged in the two circles on the paternal side?",
+   "premises": [
+    "There are two circles involved.",
+    "The arrangement proceeds in order from the fathers.",
+    "Two and two are to be arranged."
+   ],
+   "inference": "O goddess, one should arrange two and two in the two circles in order on the paternal side.",
+   "uncertainties": [
+    "The exact items arranged as two and two are implied from context rather than named here."
+   ],
+   "plain_english": "O goddess, one should arrange two and two in the two circles in order on the paternal side."
+  },
+  {
+   "verse": 2333,
+   "rows": [
+    {
+     "surface": "ūrddhve",
+     "gloss": "above",
+     "grounds": "upper position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "lower or base position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "middle position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trīn",
+     "gloss": "three",
+     "grounds": "number repeated for each position",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "trīn",
+     "gloss": "three",
+     "grounds": "number repeated for each position",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "piṇḍān",
+     "gloss": "balls",
+     "grounds": "rice-balls for offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "instruction to present",
+     "morph": "3.sg.act-opt √nived"
+    }
+   ],
+   "question": "How many rice-balls should be offered at the upper, root, and middle positions?",
+   "premises": [
+    "Offerings are placed above, at the root, and in the middle.",
+    "Rice-balls are the items offered.",
+    "Three are specified for each position."
+   ],
+   "inference": "One should offer three rice-balls each at the upper, root, and middle positions.",
+   "uncertainties": [],
+   "plain_english": "One should offer three rice-balls each above, at the root, and in the middle."
+  },
+  {
+   "verse": 2334,
+   "rows": [
+    {
+     "surface": "svadhayā",
+     "gloss": "with-svadhā",
+     "grounds": "ritual formula for ancestral offerings",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vitaret",
+     "gloss": "should-offer",
+     "grounds": "instruction to give",
+     "morph": "3.sg.act-opt √tṛ"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "ball",
+     "grounds": "rice-ball offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yava+mādhvīka+saṃyutam",
+     "gloss": "barley-honey-mixed",
+     "grounds": "ball combined with barley and honey",
+     "morph": "compound: yava+mādhvīka+saṃyuta, m.acc.sg"
+    }
+   ],
+   "question": "With what formula and ingredients should a rice-ball be offered?",
+   "premises": [
+    "A rice-ball is to be offered.",
+    "The offering is accompanied by the word svadhā.",
+    "The ball is mixed with barley and honey."
+   ],
+   "inference": "One should offer a rice-ball mixed with barley and honey with the utterance svadhā.",
+   "uncertainties": [],
+   "plain_english": "One should offer a rice-ball mixed with barley and honey with the word svadhā."
+  },
+  {
+   "verse": 2335,
+   "rows": [
+    {
+     "surface": "piṇḍān",
+     "gloss": "balls",
+     "grounds": "rice-balls for offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "instruction to present",
+     "morph": "3.sg.act-opt √nived"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "instruction to give",
+     "morph": "3.sg.act-opt √dā"
+    }
+   ],
+   "question": "What actions are prescribed for the rice-balls in this step of the rite?",
+   "premises": [
+    "Rice-balls are the objects of the rite.",
+    "One prescribed action is offering them.",
+    "Another prescribed action is giving them."
+   ],
+   "inference": "One should offer and give the rice-balls.",
+   "uncertainties": [
+    "The distinction between nivedayet and dadyāt is not specified in this verse."
+   ],
+   "plain_english": "One should offer and give the rice-balls."
+  },
+  {
+   "verse": 2336,
+   "rows": [
+    {
+     "surface": "prīṇayet",
+     "gloss": "should-please",
+     "grounds": "act of satisfying the ancestors",
+     "morph": "3.sg.act-opt √prī"
+    },
+    {
+     "surface": "kara+lepena",
+     "gloss": "with-hand-smearing",
+     "grounds": "ritual smearing done by hand",
+     "morph": "compound: kara+lepa, m.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka+uddiṣṭeṣu",
+     "gloss": "in-single-aimed-rites",
+     "grounds": "rites directed to one individual ancestor",
+     "morph": "compound: eka+uddiṣṭa, n.loc.pl"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "refers to the stated procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed procedure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which type of ancestral rite is the hand-smearing procedure not applicable?",
+   "premises": [
+    "Pleasing may be done by smearing with the hand.",
+    "The verse states a restriction on this rule.",
+    "The restriction applies to single-aimed rites."
+   ],
+   "inference": "This rule of pleasing by hand-smearing does not apply in single-aimed rites.",
+   "uncertainties": [],
+   "plain_english": "One may please by smearing with the hand, but this rule does not apply in rites aimed at a single ancestor."
+  },
+  {
+   "verse": 2337,
+   "rows": [
+    {
+     "surface": "devatābhyaḥ",
+     "gloss": "to-deities",
+     "grounds": "divine recipients of recitation",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "thrice",
+     "grounds": "threefold repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "prior act of recitation",
+     "morph": "(indecl., absolutive) √jap"
+    },
+    {
+     "surface": "piṇḍān",
+     "gloss": "balls",
+     "grounds": "rice-balls for offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sampūjayet",
+     "gloss": "should-worship",
+     "grounds": "instruction to honor",
+     "morph": "3.sg.act-opt √pūj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation must precede the worship of the rice-balls?",
+   "premises": [
+    "Recitation is directed to the deities.",
+    "The recitation is performed three times.",
+    "Worship of the rice-balls follows afterward."
+   ],
+   "inference": "After muttering thrice to the deities, one should then worship the rice-balls.",
+   "uncertainties": [],
+   "plain_english": "Having muttered thrice to the deities, one should then worship the rice-balls."
+  },
+  {
+   "verse": 2338,
+   "rows": [
+    {
+     "surface": "vṛddha+pramātāmahyai",
+     "gloss": "to-elder-great-grandmother",
+     "grounds": "female ancestor on the maternal side",
+     "morph": "compound: vṛddha+pramātāmahī, f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "ball",
+     "grounds": "rice-ball offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "instruction to give",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "intended sense of the instruction",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To which maternal ancestor is a rice-ball specifically directed according to this instruction?",
+   "premises": [
+    "A rice-ball is to be given.",
+    "The recipient named is the elder great-grandmother.",
+    "The verse states this as the intended meaning."
+   ],
+   "inference": "The meaning is that one should give a rice-ball to the elder great-grandmother.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that one should also give a rice-ball to the elder great-grandmother."
+  },
+  {
+   "verse": 2339,
+   "rows": [
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lepa+bhāji+pitṛ+prīṇana+vidhiḥ",
+     "gloss": "smearing-sharing-ancestor-pleasing-rule",
+     "grounds": "procedure for pleasing ancestors who share the smearing",
+     "morph": "compound: lepa+bhājin+pitṛ+prīṇana+vidhi, m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "assertion of absence",
+     "morph": "3.sg.act-pres √as"
+    }
+   ],
+   "question": "Does the procedure for pleasing smear-sharing ancestors apply in this context?",
+   "premises": [
+    "A specific rule for pleasing smear-sharing ancestors is named.",
+    "The verse negates its existence here.",
+    "This indicates an exclusion from the present rite."
+   ],
+   "inference": "The rule for pleasing the smear-sharing ancestors does not apply.",
+   "uncertainties": [],
+   "plain_english": "The rule for pleasing the ancestors who share in the smearing does not apply."
+  },
+  {
+   "verse": 2340,
+   "rows": [
+    {
+     "surface": "gandha+puṣpābhyāṃ",
+     "gloss": "with-fragrance-flowers",
+     "grounds": "offerings of scent and flowers",
+     "morph": "compound: gandha+puṣpa, n.inst.dual"
+    },
+    {
+     "surface": "piṇḍān",
+     "gloss": "balls",
+     "grounds": "rice-balls for offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sampūjayet",
+     "gloss": "should-worship",
+     "grounds": "instruction to honor",
+     "morph": "3.sg.act-opt √pūj"
+    }
+   ],
+   "question": "With what substances should the rice-balls be worshipped?",
+   "premises": [
+    "The rice-balls are to be worshipped.",
+    "Fragrance is used in the worship.",
+    "Flowers are used in the worship."
+   ],
+   "inference": "One should worship the rice-balls with fragrance and flowers.",
+   "uncertainties": [],
+   "plain_english": "One should worship the rice-balls with fragrance and flowers."
+  },
+  {
+   "verse": 2341,
+   "rows": [
+    {
+     "surface": "vibhāvya",
+     "gloss": "having-contemplated",
+     "grounds": "mental visualization or reflection",
+     "morph": "(indecl., absolutive) √bhū"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "should-bow",
+     "grounds": "act of reverence",
+     "morph": "3.sg.act-opt √nam"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "the discerning performer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "imam",
+     "gloss": "this",
+     "grounds": "points to the following mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udīrayan",
+     "gloss": "uttering",
+     "grounds": "speaking aloud",
+     "morph": "m.nom.sg.act-pres-part √īr"
+    }
+   ],
+   "question": "How should the wise performer combine contemplation, bowing, and mantra recitation?",
+   "premises": [
+    "The performer should contemplate.",
+    "The performer should bow in reverence.",
+    "The performer should utter this mantra."
+   ],
+   "inference": "Having contemplated, the wise one should bow while uttering this mantra.",
+   "uncertainties": [],
+   "plain_english": "Having contemplated, the wise one should bow while uttering this mantra."
+  },
+  {
+   "verse": 2342,
+   "rows": [
+    {
+     "surface": "svargaḥ",
+     "gloss": "heaven",
+     "grounds": "exalted state invoked for the father",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "paternal ancestor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessive reference to performer",
+     "morph": "(indecl., pronoun)"
+    },
+    {
+     "surface": "tat+tṛptau",
+     "gloss": "in-his-satisfaction",
+     "grounds": "condition of the father's satisfaction",
+     "morph": "compound: tad+tṛpti, f.loc.sg"
+    },
+    {
+     "surface": "tṛptam",
+     "gloss": "satisfied",
+     "grounds": "state resulting from satisfaction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "assertion of state",
+     "morph": "3.sg.act-pres √as"
+    },
+    {
+     "surface": "akhilaṃ",
+     "gloss": "entire",
+     "grounds": "whole without remainder",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "all beings or the universe",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What universal consequence is declared to follow from the father's satisfaction?",
+   "premises": [
+    "The mantra identifies the father with heaven.",
+    "The father's satisfaction is the condition stated.",
+    "The entire world is said to be satisfied."
+   ],
+   "inference": "When my father is satisfied, the entire world is satisfied.",
+   "uncertainties": [],
+   "plain_english": "My father is heaven; in his satisfaction, the entire world is satisfied."
+  },
+  {
+   "verse": 2343,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmālyam",
+     "gloss": "remnants",
+     "grounds": "used ritual offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "prior act of taking",
+     "morph": "(indecl., absolutive) √dā"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "should-request",
+     "grounds": "instruction to pray for",
+     "morph": "3.sg.act-opt √arth"
+    },
+    {
+     "surface": "āśiṣaḥ",
+     "gloss": "blessings",
+     "grounds": "benedictions sought",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pitṝn",
+     "gloss": "ancestors",
+     "grounds": "paternal forebears",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "From whom and after what action should blessings be requested?",
+   "premises": [
+    "The ritual remnants are taken first.",
+    "Blessings are to be requested.",
+    "The ancestors are the ones addressed."
+   ],
+   "inference": "After taking the remnants, one should request blessings from the ancestors.",
+   "uncertainties": [],
+   "plain_english": "Then, having taken the remnants, one should request blessings from the ancestors."
+  },
+  {
+   "verse": 2344,
+   "rows": [
+    {
+     "surface": "vedāḥ",
+     "gloss": "vedas",
+     "grounds": "sacred knowledge",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "santatayaḥ",
+     "gloss": "progeny",
+     "grounds": "lineage and descendants",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "continual duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varddhantāṃ",
+     "gloss": "may-increase",
+     "grounds": "wish for growth",
+     "morph": "3.pl.mid-imp √vṛdh"
+    },
+    {
+     "surface": "bāndhavāḥ",
+     "gloss": "relatives",
+     "grounds": "kinsfolk",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive reference to performer",
+     "morph": "(indecl., pronoun)"
+    }
+   ],
+   "question": "What blessings for knowledge, lineage, and kin are sought from the ancestors?",
+   "premises": [
+    "The Vedas are wished to increase.",
+    "Progeny is wished to increase.",
+    "Relatives are wished to increase always."
+   ],
+   "inference": "The prayer asks that the Vedas, progeny, and my relatives may always increase.",
+   "uncertainties": [],
+   "plain_english": "May the Vedas, progeny, and my relatives always increase."
+  },
+  {
+   "verse": 2345,
+   "rows": [
+    {
+     "surface": "yācitāraḥ",
+     "gloss": "askers",
+     "grounds": "those who come to request",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continual duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santu",
+     "gloss": "may-be",
+     "grounds": "wish for existence",
+     "morph": "3.pl.act-imp √as"
+    },
+    {
+     "surface": "mā",
+     "gloss": "not",
+     "grounds": "prohibition or negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yācāmi",
+     "gloss": "i-may-beg",
+     "grounds": "performer's own act of asking",
+     "morph": "1.sg.act-pres √yāc"
+    },
+    {
+     "surface": "kañcana",
+     "gloss": "anyone",
+     "grounds": "indefinite person",
+     "morph": "(indecl., pronoun)"
+    }
+   ],
+   "question": "What dual wish is expressed regarding giving to others and begging from others?",
+   "premises": [
+    "There should always be those who ask.",
+    "The performer wishes not to beg.",
+    "The wish concerns asking from anyone."
+   ],
+   "inference": "May there always be askers, and may I not beg from anyone.",
+   "uncertainties": [],
+   "plain_english": "May there always be those who ask, and may I never beg from anyone."
+  },
+  {
+   "verse": 2346,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "ritual gift or payment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "instruction to perform",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "pakṣeṣu",
+     "gloss": "in-fortnights",
+     "grounds": "lunar half-month periods",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "three",
+     "grounds": "specified number of periods",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tattvavit",
+     "gloss": "truth-knower",
+     "grounds": "one who knows the principles",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Over what periods should the knower of truth give the ritual fee in the same manner?",
+   "premises": [
+    "A ritual fee is to be given.",
+    "The action is done in the same manner.",
+    "It is performed over three fortnights by the truth-knower."
+   ],
+   "inference": "The knower of truth should likewise give the fee in the three fortnights.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the knower of truth should give the ritual fee in the three fortnights."
+  },
+  {
+   "verse": 2347,
+   "rows": [
+    {
+     "surface": "tam",
+     "gloss": "that",
+     "grounds": "refers to a previously mentioned mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āha",
+     "gloss": "states",
+     "grounds": "declares or specifies",
+     "morph": "3.sg.act-perf √ah"
+    },
+    {
+     "surface": "pitā me ityādyam",
+     "gloss": "beginning-with-my-father",
+     "grounds": "incipit identifying the mantra",
+     "morph": "(indecl., quoted phrase)"
+    }
+   ],
+   "question": "Which mantra is identified as the one to be used in this context?",
+   "premises": [
+    "A specific mantra is being referred to.",
+    "The verse states that very mantra.",
+    "It is identified by the opening words 'pitā me'."
+   ],
+   "inference": "The verse specifies that the mantra is the one beginning with 'pitā me'.",
+   "uncertainties": [],
+   "plain_english": "It states that very mantra, beginning with 'pitā me'."
+  },
+  {
+   "verse": 2348,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior act of seeing",
+     "morph": "(indecl., absolutive) √dṛś"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "sacred fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raviṃ",
+     "gloss": "sun",
+     "grounds": "solar deity or sun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vipram",
+     "gloss": "brahmin",
+     "grounds": "priestly witness",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "points to the question to be asked",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pṛcchet",
+     "gloss": "should-ask",
+     "grounds": "instruction to inquire",
+     "morph": "3.sg.act-opt √praś"
+    },
+    {
+     "surface": "kṛta+añjaliḥ",
+     "gloss": "with-joined-palms",
+     "grounds": "gesture of reverence",
+     "morph": "compound: kṛta+añjali, m.nom.sg"
+    }
+   ],
+   "question": "Before whom and in what posture should the performer ask the concluding question?",
+   "premises": [
+    "The performer sees fire, sun, and a brahmin.",
+    "The performer asks a question.",
+    "The performer does so with joined palms."
+   ],
+   "inference": "Having seen the fire, sun, and brahmin, one should ask this with joined palms.",
+   "uncertainties": [],
+   "plain_english": "Having seen the fire, the sun, and a brahmin, one should ask this with joined palms."
+  },
+  {
+   "verse": 2349,
+   "rows": [
+    {
+     "surface": "dvijaḥ",
+     "gloss": "brahmin",
+     "grounds": "twice-born priest",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "instruction to declare",
+     "morph": "3.sg.act-opt √vad"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "correctly and completely",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa+aṅgaṃ",
+     "gloss": "with-limbs",
+     "grounds": "with all its parts complete",
+     "morph": "compound: sa+aṅga, n.nom.sg"
+    },
+    {
+     "surface": "jātaṃ",
+     "gloss": "accomplished",
+     "grounds": "completed or effected",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "in accordance with prescribed procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What confirmation should the brahmin give regarding the completion of the rite?",
+   "premises": [
+    "The brahmin is the one who speaks.",
+    "The rite is assessed for proper completion.",
+    "The declaration states it is complete with all parts according to rule."
+   ],
+   "inference": "The brahmin should declare that it has been properly accomplished with all its parts according to rule.",
+   "uncertainties": [],
+   "plain_english": "The brahmin should declare that it has been properly accomplished, complete with all its parts, according to rule."
+  }
+ ]
+}

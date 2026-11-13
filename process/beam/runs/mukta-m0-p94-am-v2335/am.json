@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p94",
  "verse": 2335,
- "question": "What elements and syllable count define the mantra declared in this statement?",
+ "question": "What actions are prescribed for the rice-balls in this step of the rite?",
  "premises": [
-  "The elements māyā, padmāvatī, and svāhā are given.",
-  "The mantra is described as seven-syllabled.",
-  "It is explicitly declared."
+  "Rice-balls are the objects of the rite.",
+  "One prescribed action is offering them.",
+  "Another prescribed action is giving them."
  ],
- "inference": "The mantra consisting of māyā, padmāvatī, and svāhā is declared to be seven-syllabled.",
- "uncertainties": [],
- "plain_english": "The mantra 'māyā, Padmāvatī, svāhā' is declared to be seven-syllabled."
+ "inference": "One should offer and give the rice-balls.",
+ "uncertainties": [
+  "The distinction between nivedayet and dadyāt is not specified in this verse."
+ ],
+ "plain_english": "One should offer and give the rice-balls."
 }
