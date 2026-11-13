@@ -1,13 +1,14 @@
 {
  "song": "kjn-p14",
  "verse": 333,
- "question": "What response is the listener invited to have toward the wondrous teaching being revealed?",
+ "question": "What wonderful and great wonder-causing teaching is the goddess asked to hear?",
  "premises": [
-  "The goddess is directly addressed.",
-  "The teaching is called wonderful and astonishing.",
-  "The listener is commanded to hear."
+  "the goddess is addressed",
+  "the teaching is wonderful and wonder-causing"
  ],
- "inference": "The listener is urged to attend to a teaching that causes great wonder.",
- "uncertainties": [],
- "plain_english": "Listen, O Goddess, to this wonderful teaching that causes great astonishment."
+ "inference": "a remarkable doctrine is about to be revealed",
+ "uncertainties": [
+  "fused pronoun parsing"
+ ],
+ "plain_english": "Hear, O goddess, this wonderful teaching that causes great wonder."
 }

@@ -1,13 +1,14 @@
 {
  "song": "kjn-p14",
  "verse": 335,
- "question": "What disqualifying lack of devotion excludes a person from receiving the teaching?",
+ "question": "What kind of person lacks both kula devotion and guru devotion?",
  "premises": [
-  "Devotion to the kula is required.",
-  "Devotion to the guru is required.",
-  "Their absence is explicitly marked."
+  "kula devotion is absent",
+  "guru devotion is absent"
  ],
- "inference": "One devoid of devotion to both the kula and the guru is disqualified.",
- "uncertainties": [],
- "plain_english": "But in one who is devoid of devotion to the kula and deprived of devotion to the guru..."
+ "inference": "such a person is spiritually deprived",
+ "uncertainties": [
+  "exact subject"
+ ],
+ "plain_english": "One devoid of kula devotion and deprived of guru devotion is described."
 }

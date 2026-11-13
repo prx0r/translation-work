@@ -1,13 +1,14 @@
 {
  "song": "kjn-p14",
  "verse": 346,
- "question": "What initial yogic focus begins the sequence of experiential signs described to the beloved?",
+ "question": "What is first practiced in the root wheel?",
  "premises": [
-  "A first stage is identified.",
-  "The root wheel is named.",
-  "Practice of it is made the condition."
+  "the root wheel is first",
+  "practice begins there"
  ],
- "inference": "When one first practices at the root wheel, the initial stage begins.",
- "uncertainties": [],
- "plain_english": "O Beloved, first, when one practices at the root wheel..."
+ "inference": "the initial stage is root wheel practice",
+ "uncertainties": [
+  "fused conjunction parsing"
+ ],
+ "plain_english": "First, O beloved, one practices the root wheel."
 }

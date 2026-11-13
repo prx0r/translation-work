@@ -1,13 +1,14 @@
 {
  "song": "kjn-p14",
  "verse": 341,
- "question": "Which acts of hostility and disobedience disqualify a person from receiving the teaching?",
+ "question": "Who transgresses the guru's command among those hostile to yoginis?",
  "premises": [
-  "Hostility toward the yoginīs is condemned.",
-  "Transgression of the guru’s command is condemned.",
-  "Such a person is identified as unfit."
+  "hostility to yoginis is present",
+  "guru command is transgressed"
  ],
- "inference": "One hostile to the yoginīs and who transgresses the guru’s command must not receive the teaching.",
- "uncertainties": [],
- "plain_english": "One who is hostile to the yoginīs and who transgresses the guru’s command is unfit."
+ "inference": "such a person violates guru authority",
+ "uncertainties": [
+  "exact syntactic link"
+ ],
+ "plain_english": "Among those hostile to yoginis, one transgresses the guru's command."
 }
