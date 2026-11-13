@@ -16,7 +16,7 @@
 },
 {
 "surface": "netra+tritaya+alaṃkṛta+ānanam",
-"quick_gloss": "eye+three+adorned+face"
+"quick_gloss": "eye-triad+adorned+face"
 }
 ]
 },
@@ -45,7 +45,7 @@
 },
 {
 "surface": "lakṣmyā",
-"quick_gloss": "with-Lakshmi"
+"quick_gloss": "with-Lakṣmī"
 },
 {
 "surface": "yuktaṃ",
@@ -53,7 +53,7 @@
 },
 {
 "surface": "nidhi+pradam",
-"quick_gloss": "treasure+bestowing"
+"quick_gloss": "treasure-giver"
 }
 ]
 },
@@ -65,12 +65,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāśa+aṃkuśa+sphurat+bāhuṃ",
-"quick_gloss": "noose+goad+shining+arms"
+"surface": "pāśa+aṅkuśa+sphurat+bāhuṃ",
+"quick_gloss": "noose-goad+shining+arms"
 },
 {
-"surface": "śaṃkha+cakra+dharam+prabhum",
-"quick_gloss": "conch+discus+bearing+lord"
+"surface": "śaṅkha+cakra+dharam",
+"quick_gloss": "conch-disc+holder"
+},
+{
+"surface": "prabhum",
+"quick_gloss": "lord"
 }
 ]
 },
@@ -83,7 +87,7 @@
 "tokens": [
 {
 "surface": "lakṣmyā",
-"quick_gloss": "with-Lakshmi"
+"quick_gloss": "with-Lakṣmī"
 },
 {
 "surface": "yuktaṃ",
@@ -94,8 +98,12 @@
 "quick_gloss": "Narasimha"
 },
 {
-"surface": "pūjayet+sādhakaḥ",
-"quick_gloss": "should-worship+practitioner"
+"surface": "pūjayet",
+"quick_gloss": "should-worship"
+},
+{
+"surface": "sādhakaḥ",
+"quick_gloss": "practitioner"
 },
 {
 "surface": "sadā",
@@ -124,11 +132,19 @@
 },
 {
 "surface": "śārṅgaṃ",
-"quick_gloss": "bow-Sharnga"
+"quick_gloss": "Śārṅga-bow"
 },
 {
-"surface": "pūjayet+deva+vāmataḥ",
-"quick_gloss": "should-worship+god+on-left"
+"surface": "pūjayet",
+"quick_gloss": "should-worship"
+},
+{
+"surface": "deva",
+"quick_gloss": "of-god"
+},
+{
+"surface": "vāmataḥ",
+"quick_gloss": "on-left"
 }
 ]
 },
@@ -140,8 +156,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "lakṣmī+dakṣiṇataḥ+tuṣṭiṃ",
-"quick_gloss": "Lakshmi+on-right+Tushti"
+"surface": "lakṣmī",
+"quick_gloss": "of-Lakṣmī"
+},
+{
+"surface": "dakṣiṇataḥ",
+"quick_gloss": "on-right-side"
+},
+{
+"surface": "tuṣṭiṃ",
+"quick_gloss": "satisfaction"
 },
 {
 "surface": "vāme",
@@ -149,11 +173,11 @@
 },
 {
 "surface": "tatra+eva",
-"quick_gloss": "there+indeed"
+"quick_gloss": "there-indeed"
 },
 {
 "surface": "kaustubham",
-"quick_gloss": "Kaustubha"
+"quick_gloss": "Kaustubha-jewel"
 }
 ]
 },
@@ -166,15 +190,15 @@
 "tokens": [
 {
 "surface": "pīta+ambaraṃ",
-"quick_gloss": "yellow+garment"
+"quick_gloss": "yellow-garment"
 },
 {
 "surface": "brahma+sūtraṃ",
-"quick_gloss": "sacred+thread"
+"quick_gloss": "sacred-thread"
 },
 {
 "surface": "nābhi+padmaṃ",
-"quick_gloss": "navel+lotus"
+"quick_gloss": "navel-lotus"
 },
 {
 "surface": "kirīṭakam",
@@ -191,23 +215,27 @@
 "tokens": [
 {
 "surface": "ṣaṣṭhī+śraddhā+ādibhiḥ",
-"quick_gloss": "Shashthi+Shraddha+and-others"
+"quick_gloss": "Ṣaṣṭhī-Śraddhā+and-others"
 },
 {
 "surface": "śraddhā",
-"quick_gloss": "Shraddha"
+"quick_gloss": "faith"
 },
 {
 "surface": "medhā",
-"quick_gloss": "Medha"
+"quick_gloss": "wisdom"
 },
 {
-"surface": "tuṣṭiḥ+ca",
-"quick_gloss": "Tushti+and"
+"surface": "tuṣṭiḥ",
+"quick_gloss": "satisfaction"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kārmukā",
-"quick_gloss": "Karmuka"
+"quick_gloss": "bow"
 }
 ]
 },
@@ -227,8 +255,16 @@
 "quick_gloss": "having-worshipped"
 },
 {
-"surface": "vidhi+vat+sādhakaḥ+abhīṣṭam",
-"quick_gloss": "according-to-rule+practitioner+desired"
+"surface": "vidhi+vat",
+"quick_gloss": "according-to-rule"
+},
+{
+"surface": "sādhakaḥ",
+"quick_gloss": "practitioner"
+},
+{
+"surface": "abhīṣṭam",
+"quick_gloss": "desired-object"
 },
 {
 "surface": "āpnuyāt",
@@ -244,12 +280,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+sahasraṃ",
-"quick_gloss": "that+thousand"
+"surface": "tat",
+"quick_gloss": "that"
 },
 {
-"surface": "prajuhuyāt+ghṛta+ākta+haviṣā",
-"quick_gloss": "should-offer+ghee+smeared+oblation"
+"surface": "sahasraṃ",
+"quick_gloss": "thousand"
+},
+{
+"surface": "prajuhuyāt",
+"quick_gloss": "should-offer"
+},
+{
+"surface": "ghṛta+ākta+haviṣā",
+"quick_gloss": "with-ghee+smeared+oblation"
 },
 {
 "surface": "anale",
@@ -265,16 +309,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kuryāt+saṃsiddha+mantraḥ+tu",
-"quick_gloss": "should-make+accomplished+mantra+indeed"
+"surface": "kuryāt",
+"quick_gloss": "should-make"
+},
+{
+"surface": "saṃsiddha+mantraḥ",
+"quick_gloss": "accomplished-mantra"
+},
+{
+"surface": "tu",
+"quick_gloss": "then"
 },
 {
 "surface": "prayogān",
 "quick_gloss": "practices"
 },
 {
-"surface": "ācaret+tataḥ",
-"quick_gloss": "should-perform+then"
+"surface": "ācaret",
+"quick_gloss": "should-perform"
+},
+{
+"surface": "tataḥ",
+"quick_gloss": "thereafter"
 }
 ]
 },
@@ -287,11 +343,11 @@
 "tokens": [
 {
 "surface": "udyat+sahasra+arka+bhāsaṃ",
-"quick_gloss": "rising+thousand+sun+splendor"
+"quick_gloss": "rising-thousand+sun+splendor"
 },
 {
 "surface": "tri+netram",
-"quick_gloss": "three+eyed"
+"quick_gloss": "three-eyed"
 },
 {
 "surface": "bhīṣaṇa+ākṛtim",
@@ -307,12 +363,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nakhaiḥ+dārita+daitya+īśaṃ",
-"quick_gloss": "with-nails+torn+demon+lord"
+"surface": "nakhaiḥ",
+"quick_gloss": "with-claws"
 },
 {
-"surface": "rakta+dhārā+ākta+kāyakam",
-"quick_gloss": "blood+stream+smeared+body"
+"surface": "dārita+daitya+īśaṃ",
+"quick_gloss": "torn+demon-lord"
+},
+{
+"surface": "rakta+dhārā+akta+kāyakam",
+"quick_gloss": "blood-stream+smeared+body"
 }
 ]
 },
@@ -324,20 +384,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśva+rūpa+mayam",
-"quick_gloss": "universal+form+consisting"
+"surface": "viśva+rūpa+mayaṃ",
+"quick_gloss": "universal-form+consisting"
 },
 {
 "surface": "dhyānaṃ",
 "quick_gloss": "meditation"
 },
 {
-"surface": "nṛ+hareḥ",
-"quick_gloss": "of-man+lion"
+"surface": "nṛhareḥ",
+"quick_gloss": "of-Nṛhari"
 },
 {
-"surface": "procyate+adhunā",
-"quick_gloss": "is-declared+now"
+"surface": "procyate",
+"quick_gloss": "is-declared"
+},
+{
+"surface": "adhunā",
+"quick_gloss": "now"
 }
 ]
 },
@@ -349,8 +413,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "antra+mālā+dharam",
-"quick_gloss": "intestine+garland+wearing"
+"surface": "antra+mālā+dharaṃ",
+"quick_gloss": "entrail-garland+wearing"
 },
 {
 "surface": "raudraṃ",
@@ -378,20 +442,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "candra+maulim",
-"quick_gloss": "moon+crested"
+"surface": "candra+mauliṃ",
+"quick_gloss": "moon-crested"
 },
 {
 "surface": "nīla+kaṇṭhaṃ",
-"quick_gloss": "blue+throated"
+"quick_gloss": "blue-throated"
 },
 {
 "surface": "prati+vaktre",
-"quick_gloss": "in-each+face"
+"quick_gloss": "in-each-face"
 },
 {
 "surface": "tri+locanam",
-"quick_gloss": "three+eyed"
+"quick_gloss": "three-eyed"
 }
 ]
 },
@@ -420,7 +484,7 @@
 },
 {
 "surface": "go+kṣīra+sannibham",
-"quick_gloss": "cow+milk+resembling"
+"quick_gloss": "cow-milk+resembling"
 }
 ]
 },
@@ -437,7 +501,7 @@
 },
 {
 "surface": "śūlaṃ",
-"quick_gloss": "spear"
+"quick_gloss": "trident"
 },
 {
 "surface": "ca",
@@ -452,12 +516,12 @@
 "quick_gloss": "and"
 },
 {
-"surface": "nṛ+harim",
-"quick_gloss": "man+lion"
+"surface": "nṛhariṃ",
+"quick_gloss": "Nṛhari"
 },
 {
 "surface": "rudra+gopanam",
-"quick_gloss": "Rudra+hidden"
+"quick_gloss": "Rudra-protector"
 }
 ]
 },
@@ -469,12 +533,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "evam+ugra+harim",
-"quick_gloss": "thus+fierce+Hari"
+"surface": "evam",
+"quick_gloss": "thus"
 },
 {
-"surface": "dhyāyet+sarva+vyādhi+nivṛttaye",
-"quick_gloss": "one-should-meditate+all+disease+removal"
+"surface": "ugra+hariṃ",
+"quick_gloss": "terrible-Hari"
+},
+{
+"surface": "dhyāyet",
+"quick_gloss": "one-should-meditate"
+},
+{
+"surface": "sarva+vyādhi+nivṛttaye",
+"quick_gloss": "all-diseases+removal"
 }
 ]
 },
@@ -487,15 +559,15 @@
 "tokens": [
 {
 "surface": "nṛsiṃhaḥ",
-"quick_gloss": "Narasimha"
+"quick_gloss": "Nṛsiṃha"
 },
 {
 "surface": "sarva+loka+īśaḥ",
-"quick_gloss": "all+world+lord"
+"quick_gloss": "all-worlds+lord"
 },
 {
 "surface": "sarva+ābharaṇa+bhūṣitaḥ",
-"quick_gloss": "all+ornament+adorned"
+"quick_gloss": "all-ornaments+adorned"
 }
 ]
 },
@@ -507,16 +579,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaṃkha+cakra+dharau",
-"quick_gloss": "conch+discus+bearers"
+"surface": "śaṅkha+cakra+dharau",
+"quick_gloss": "conch-disc+holders"
 },
 {
-"surface": "ramyau+anyau",
-"quick_gloss": "charming+other-two"
+"surface": "ramyau",
+"quick_gloss": "delightful"
+},
+{
+"surface": "anyau",
+"quick_gloss": "other-two"
 },
 {
 "surface": "bāṇa+dhanur+dharau",
-"quick_gloss": "arrow+bow+bearers"
+"quick_gloss": "arrow-bow+holders"
 }
 ]
 },
@@ -528,16 +604,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāśa+aṃkuśa+dharau+anyau",
-"quick_gloss": "noose+goad+bearers+other-two"
+"surface": "pāśa+aṅkuśa+dharau",
+"quick_gloss": "noose-goad+holders"
+},
+{
+"surface": "anyau",
+"quick_gloss": "other-two"
 },
 {
 "surface": "dvau",
 "quick_gloss": "two"
 },
 {
-"surface": "ripuḥ+mukuṭa+arpitau",
-"quick_gloss": "enemy+of+crown+placed"
+"surface": "ripoḥ+mukuṭa+arpitau",
+"quick_gloss": "of-enemy+crown+placed"
 }
 ]
 },
@@ -549,12 +629,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhyāyet+ambuja+nīla+ābham+ugra+karmaṇi",
-"quick_gloss": "one-should-meditate+lotus+blue+resembling+fierce+deed"
+"surface": "dhyāyet",
+"quick_gloss": "one-should-meditate"
+},
+{
+"surface": "ambuja+nīla+ābham",
+"quick_gloss": "lotus-blue+resembling"
+},
+{
+"surface": "ugra+karmaṇi",
+"quick_gloss": "in-fierce-deed"
 },
 {
 "surface": "ananya+dhīḥ",
-"quick_gloss": "with-undivided+mind"
+"quick_gloss": "with-undivided-mind"
 }
 ]
 },
@@ -567,15 +655,15 @@
 "tokens": [
 {
 "surface": "nṛsiṃhaḥ",
-"quick_gloss": "Narasimha"
+"quick_gloss": "Nṛsiṃha"
 },
 {
 "surface": "sarva+bhūṣā+āḍhyaḥ",
-"quick_gloss": "all+ornaments+endowed"
+"quick_gloss": "all-ornaments+endowed"
 },
 {
 "surface": "sarva+siddhi+karaḥ",
-"quick_gloss": "all+success+causing"
+"quick_gloss": "all-accomplishments+causing"
 },
 {
 "surface": "prabhuḥ",
@@ -600,19 +688,27 @@
 },
 {
 "surface": "musalaṃ",
-"quick_gloss": "mace"
+"quick_gloss": "pestle"
 },
 {
-"surface": "samyak+abhayaṃ",
-"quick_gloss": "properly+fearlessness"
+"surface": "samyak",
+"quick_gloss": "properly"
+},
+{
+"surface": "abhayaṃ",
+"quick_gloss": "fearlessness"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "aṃkuśam+tathā",
-"quick_gloss": "goad+likewise"
+"surface": "aṃkuśam",
+"quick_gloss": "goad"
+},
+{
+"surface": "tathā",
+"quick_gloss": "likewise"
 }
 ]
 }

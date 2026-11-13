@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p416-v10376
-[in-pure-water](śuddhatoye) [having-stirred](samāloḍya) [that](tām) [and](ca) [there](tatra) [one-should-cook](pacec) [porridge](carum)
+[pure](śuddha) [in-water](toye) [having-mixed](samāloḍya) [that](tāṃ) [and](ca) [there](tatra) [one-should-cook](pacet) [oblation](carum)
 
 ## mukta-m0-p416-v10377
-[for-six-months](māsaṣaṭkam) [on-bhṛgu-day](bhṛgorvāre) [thus](hyevam) [having-done](kṛtvā) [one-obtains](labhed) [the-earth](dhārām)
+[month](māsa) [six](ṣaṭkaṃ) [on-Friday](bhṛgoḥ+vāre) [indeed](hi) [thus](evaṃ) [having-done](kṛtvā) [one-obtains](labhet) [earth](dharām)
 
 ## mukta-m0-p416-v10378
-[om](oṃ-) [the-earth](mahīṃ) [[om](oṃ) [glauṃ](glauṃ) [salutation](namaḥ) [to-the-goddess](bhagavatyai) [to-dharā](dharāyai) [to-dharaṇi](dharaṇi) [to-dharedhara](dharedhare) [svāhā](svāhā) [glauṃ](glauṃ) [hrīṃ](hrīṃ) [om](oṃ) [m](m) ||] [glauṃ](glauṃ) [salutation](namaḥ) [having-proclaimed](procya) [to-the-goddess](bhagavatyai) [the-foot](padam) [one-should-speak](vadet)
+[oṃ-mahīṃ](oṃ-mahīṃ) [[oṃ glauṃ namaḥ bhagavatyai dharāyai dharaṇi dharedhare svāhā glauṃ hrīṃ oṃ m ||]]([oṃ glauṃ namaḥ bhagavatyai dharāyai dharaṇi dharedhare svāhā glauṃ hrīṃ oṃ m ||]) [glauṃ](glauṃ) [namaḥ](namaḥ) [having-uttered](procya) [to-bhagavatī](bhagavatyai) [word](padaṃ) [one-should-say](vadet)
 
 ## mukta-m0-p416-v10379
-[glauṃ](glauṃ) [hrīṃ](hrīṃ) [the-syllable-tāra](tāram) [having-uttered](samuccārya) [twenty-four-syllabled](caturviṃśākṣaro) [mantra](manuḥ)
+[glauṃ](glauṃ) [hrīṃ](hrīṃ) [oṃ](tāraṃ) [having-pronounced](samuccārya) [twenty-four](caturviṃśa) [syllabled](akṣaraḥ) [mantra](manuḥ)
 
 ## mukta-m0-p416-v10380
-[this](eṣa) [declared](uktas) [the-varāha](vārāho) [mantra](mantraḥ) [in-all-desires](akhileṣṭa-) [giver-of-accomplishment](siddha-) [bestower](daḥ)
+[this](eṣa) [declared](uktaḥ) [indeed](tu) [of-Varāha](vārāhaḥ) [mantra](mantraḥ) [accomplished](siddha) [in-all](akhila) [desire-giving](iṣṭa+daḥ)
 
 ## mukta-m0-p416-v10381
-[with-six-long](ṣaḍdīrgha-) [joined](yukta-) [seed-syllable](bījena) [six-limbed](ṣaḍaṅga-) [rite](vidhiḥ) [is-declared](īritaḥ)
+[six](ṣaḍ) [long-vowel](dīrgha) [joined](yukta) [with-seed-syllable](bījena) [six-limb](ṣaḍ+aṅga) [procedure](vidhiḥ) [is-declared](īritaḥ)
 
 ## mukta-m0-p416-v10382
-[all](sarvam) [as-before](prāgvat) [the-six-limbs](ṣaḍaṅgāni) [with-the-six-longs](dīrghaṣaṭkānvitena) [and](ca)
+[all](sarvaṃ) [as-before](prāk+vat) [six-limbs](ṣaḍ+aṅgāni) [long-vowel](dīrgha) [six](ṣaṭka) [endowed-with](anvitena) [and](ca)
 
 ## mukta-m0-p416-v10383
-[in-every-manvantara](pratimanvantaram) [this](vāyam) [incarnation](avatāro) [of-hari](harer) [becomes](bhavet)
+[every](prati) [Manvantara](manvantaraṃ) [indeed](vā) [this](ayam) [incarnation](avatāraḥ) [of-Hari](hareḥ) [would-be](bhavet)
 
 ## mukta-m0-p416-v10384
-[for-a-kalpa](ākalpam) [it-exists](vidyate) [there](tatra) [to-the-devotees](bhakta-) [grace](anugraha-) [doer](kārakaḥ)
+[for-a-kalpa](ā+kalpaṃ) [exists](vidyate) [there](tatra) [devotee](bhakta) [grace](anugraha) [causing](kārakaḥ)
 
 ## mukta-m0-p416-v10385
-[thirty-two-syllabled](dvātriṃśadarṇako) [to-be-kept-secret](gopyo) [enjoyment-and-liberation](bhukti-) [giver](mukti-) [prodaḥ](prado) [considered](mataḥ)
+[thirty-two](dvātriṃśat) [syllabled](arṇakaḥ) [Gopya](gopyaḥ) [enjoyment](bhukti) [liberation](mukti) [giving](pradaḥ) [is-considered](mataḥ)
 
 ## mukta-m0-p416-v10386
-[to-nṛsiṃha](nṛsiṃham) [to-the-terrific](bhīṣaṇam) [to-rudra](rudram) [to-mṛtyumṛtyu](mṛtyumṛtyum) [salutation](namāmi) [i](aham)
+[Nṛsiṃha](nṛsiṃhaṃ) [terrible](bhīṣaṇaṃ) [Rudra](rudraṃ?) [death](mṛtyu) [of-death](mṛtyuṃ) [I-bow](namāmi) [I](aham)
 
 ## mukta-m0-p416-v10387
-[the-first](prathamo) [nyāsa](nyāsaḥ) [is-taught](uddiṣṭaḥ) [all-desires](sarva-) [giver](abhīṣṭa-) [bestower](pradāyakaḥ)
+[first](prathamaḥ) [placement](nyāsa) [is-declared](uddiṣṭaḥ) [all](sarva) [desires](abhīṣṭa) [granting](pradāyakaḥ)
 
 ## mukta-m0-p416-v10388
-[six-limbed](ṣaḍaṅgākhyo) [second](dvitīyo) [this](ayam) [limb-nyāsa](aṅganyāsaḥ) [is-declared](udāhṛtaḥ)
+[six-limb](ṣaḍ+aṅga) [named](ākhyaḥ) [second](dvitīyaḥ) [this](ayam) [limb](aṅga) [placement](nyāsaḥ) [is-described](udāhṛtaḥ)
 
 ## mukta-m0-p416-v10389
-[on-the-right](dakṣiṇe) [arm-root](bāhumūle) [and](ca) [in-its-middle](tanmadhye) [on-the-wrist](maṇibandhake)
+[on-right](dakṣiṇe) [arm-root](bāhu+mūle) [and](ca) [in-its-middle](tat+madhye) [on-wrist](maṇibandhake)
 
 ## mukta-m0-p416-v10390
-[in-its-middle](tanmadhye) [on-the-wrist](maṇibandhe) [and](ca) [on-the-finger-roots](aṅgulīmūle) [up-to-their-end](tadantake)
+[in-its-middle](tat+madhye) [on-wrist](maṇibandhe) [and](ca) [at-finger-root](aṅgulī+mūle) [at-their-end](tat+antake)
 
 ## mukta-m0-p416-v10391
-[on-the-throat](kaṇṭhe) [on-the-heart](hṛdi) [thus](tathā) [on-the-navel](nābhau) [on-the-right-side](dakṣapārśve) [and](ca) [on-the-left](vāmake)
+[on-throat](kaṇṭhe) [on-heart](hṛdi) [likewise](tathā) [on-navel](nābhau) [on-right-side](dakṣa+pārśve) [and](ca) [on-left](vāmake)
 
 ## mukta-m0-p416-v10392
-[the-third](tṛtīyo) [nyāsa](nyāsaḥ) [is-declared](uditaḥ) [directly](sākṣāt) [of-the-deity-formed](devamayo) [becomes](bhavet)
+[third](tṛtīyaḥ) [placement](nyāsa) [is-declared](uditaḥ) [directly](sākṣāt) [deity](deva) [consisting-of](mayaḥ) [one-becomes](bhavet)
 
 ## mukta-m0-p416-v10393
-[from-the-left](vāmā-) [little-finger](kaniṣṭhām) [having-begun](ārabhya) [up-to-the-left](vāmā-) [thumb](aṅguṣṭha-) [limit](avadhi) [one-should-place](nyaset)
+[left](vāmāṃ) [little-finger](kaniṣṭhām) [beginning-from](ārabhya) [up-to-left-thumb](vāmā+aṅguṣṭha+avadhi) [one-should-place](nyaset)
 
 ## mukta-m0-p416-v10394
-[sin](pātakam) [the-fourth](turyaḥ) [declared](uditaḥ) [nyāsa](nyāsaḥ) [on-fingers-etc](aṅguly-) [ādikaḥ](ādikaḥ) [supreme](paraḥ)
+[p. 612)](p. 612)) [sin](pātakaṃ) [fourth](turya) [declared](uditaḥ) [placement](nyāsaḥ) [finger-etc.](aṅguly+ādikaḥ) [supreme](paraḥ)
 
 ## mukta-m0-p416-v10395
-[on-the-eyes](nayane) [below-the-eyes](nayanādhaś) [and](ca) [on-the-cheeks](kapole) [on-the-ear-roots](karṇamūlake)
+[on-eyes](nayane) [below-eyes](nayana+adhaḥ) [and](ca) [on-cheeks](kapole) [at-ear-root](karṇa+mūlake)
 
 ## mukta-m0-p416-v10396
-[on-the-throat](kaṇṭhe) [on-the-navel](nābhau) [on-the-arm](bhuje) [on-the-right](dakṣe) [and](ca) [on-the-left](vāme) [on-the-heart](hṛdaye) [on-the-breast](stane)
+[on-throat](kaṇṭhe) [on-navel](nābhau) [on-arm](bhuje) [on-right](dakṣe) [on-left](vāme) [and](ca) [on-heart](hṛdaye) [on-breast](stane)
 
 ## mukta-m0-p416-v10397
-[on-the-lingam](liṅge) [and-on-the-thighs](ca-ūrau) [thus](tathā) [on-the-knees](jānau) [on-the-shank](jaṅghāyām) [and](ca) [also](api) [on-the-private-parts](guhyake)
+[on-genitals](liṅge) [on-thighs](corau) [likewise](tathā) [on-knees](jānau) [on-shanks](jaṅghāyāṃ) [and](ca) [also](api) [on-private-parts](guhyake)
 
 ## mukta-m0-p416-v10398
-[on-all-limbs](sarvāṅge) [on-the-hair-pores](romakūpeṣu) [on-blood](rakta-) [heart](hṛt-) [lotus](palala-) [bones](asthiṣu)
+[on-whole-body](sarva+aṅge) [in-hair-pores](roma+kūpeṣu) [in-blood](rakta) [heart](hṛt) [flesh](palala) [bones](asthiṣu)
 
 ## mukta-m0-p416-v10399
-[this](ayam) [the-fifth](pañcamo) [nyāsaḥ](nyāsaḥ) [all-calamities](sarva-) [ariṣṭa-](ariṣṭa-) [remover](nivārakaḥ)
+[this](ayam) [indeed](tu) [fifth](pañcamaḥ) [placement](nyāsaḥ) [all](sarva) [calamities](ariṣṭa) [removing](nivārakaḥ)
 
 ## mukta-m0-p416-v10400
-[on-the-thighs](ūrvoḥ) [on-the-two-hips](kaṭidvaye) [on-the-navel](nābhau) [on-the-heart](hṛdi) [on-the-arms](bāhvos) [thus](tathā) [on-the-throat](gale)
+[on-thighs](ūrvoḥ) [on-both-hips](kaṭi+dvaye) [on-navel](nābhau) [on-heart](hṛhi) [on-arms](bāhvoḥ) [likewise](tathā) [on-throat](gale)
