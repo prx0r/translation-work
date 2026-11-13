@@ -3,39 +3,34 @@
  "verse": 187,
  "rows": [
   {
-   "lemma": "satyaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "affirmation"
+   "lemma": "navīna",
+   "morph": "compound:navīna+sṛṣṭi",
+   "grounds": "first member of compound navīna+sṛṣṭi"
   },
   {
-   "lemma": "satyaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "affirmation"
+   "lemma": "sṛṣṭi",
+   "morph": "compound:navīna+sṛṣṭi+karaṇam",
+   "grounds": "second member of compound navīna+sṛṣṭi"
   },
   {
-   "lemma": "punaḥ",
+   "lemma": "karaṇam",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular of karaṇa"
+  },
+  {
+   "lemma": "samudra",
+   "morph": "compound:samudra+śoṣaṇam",
+   "grounds": "first member of compound samudra+śoṣaṇam"
+  },
+  {
+   "lemma": "śoṣaṇam",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular of śoṣaṇa"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "repetition"
-  },
-  {
-   "lemma": "satyaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "affirmation"
-  },
-  {
-   "lemma": "satyapūrvaṃ",
-   "morph": "(indecl.)",
-   "grounds": "compound: satya + pūrva"
-  },
-  {
-   "lemma": "vadāmi",
-   "morph": "1.sg.pres.act (√vad)",
-   "grounds": "speaker's declaration"
-  },
-  {
-   "lemma": "aham",
-   "morph": "1.sg.nom",
-   "grounds": "speaker"
+   "grounds": "conjunctive adverb"
   }
  ]
 }

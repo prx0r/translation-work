@@ -3,39 +3,34 @@
  "verse": 225,
  "rows": [
   {
-   "lemma": "sarvathā",
+   "lemma": "mama",
+   "morph": "pron.gen.sg",
+   "grounds": "first-person possessive"
+  },
+  {
+   "lemma": "prāṇa+priyā",
+   "morph": "compound.f.nom.sg",
+   "grounds": "bahuvrīhi/tatpuruṣa compound: prāṇa (life) + priyā (dear)"
+  },
+  {
+   "lemma": "devī",
+   "morph": "f.voc.sg",
+   "grounds": "direct address to the goddess"
+  },
+  {
+   "lemma": "hāhā",
    "morph": "(indecl.)",
-   "grounds": "indeclinable adverb indicating completeness"
+   "grounds": "exclamation expressing longing or distress"
   },
   {
-   "lemma": "siddhamantro",
-   "morph": "compound: siddha+mantra, m.nom.sg",
-   "grounds": "bahuvrīhi/tatpuruṣa compound; sandhi fusion siddhamantraḥ + ayaṃ context yields final -o"
+   "lemma": "prāṇa+priye",
+   "morph": "compound.f.voc.sg",
+   "grounds": "compound: prāṇa (life) + priye (dear), vocative address"
   },
   {
-   "lemma": "ayaṃ",
-   "morph": "m.nom.sg",
-   "grounds": "demonstrative pronoun referring to the mantra"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation particle"
-  },
-  {
-   "lemma": "atra",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable adverb referring to this case"
-  },
-  {
-   "lemma": "kāryā",
-   "morph": "f.nom.sg, gerundive, √kṛ",
-   "grounds": "gerundive expressing necessity or obligation"
-  },
-  {
-   "lemma": "vicāraṇā",
-   "morph": "f.nom.sg",
-   "grounds": "noun denoting examination or investigation"
+   "lemma": "śive",
+   "morph": "f.voc.sg",
+   "grounds": "direct address to Śivā/the auspicious goddess"
   }
  ]
 }

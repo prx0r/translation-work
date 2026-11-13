@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "first-person possessive",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "prāṇa+priyā",
+     "gloss": "dear-as-life",
+     "grounds": "bahuvrīhi/tatpuruṣa compound: prāṇa (life) + priyā (dear)",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "direct address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "hāhā",
+     "gloss": "alas",
+     "grounds": "exclamation expressing longing or distress",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇa+priye",
+     "gloss": "dear-as-life",
+     "grounds": "compound: prāṇa (life) + priye (dear), vocative address",
+     "morph": "compound.f.voc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "direct address to Śivā/the auspicious goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What intimate relationship of anguished devotion does the speaker express toward the goddess Śivā?",
+   "premises": [
+    "The speaker identifies the goddess as dear as life.",
+    "The exclamation hāhā conveys anguished longing.",
+    "The goddess is directly addressed as beloved and auspicious Śivā."
+   ],
+   "inference": "The speaker expresses intense personal longing and intimate devotion toward the goddess Śivā.",
+   "uncertainties": [
+    "The exclamation hāhā may convey grief, longing, or astonishment depending on context."
+   ],
+   "plain_english": "O my goddess, dear as life—alas, O beloved Śivā, dear as life!"
+  }
+ ]
+}

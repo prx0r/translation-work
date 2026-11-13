@@ -3,29 +3,39 @@
  "verse": 189,
  "rows": [
   {
-   "lemma": "pūjā",
-   "morph": "f.nom.sg",
-   "grounds": "ritual worship"
+   "lemma": "brahma",
+   "morph": "compound:brahma+viṣṇu",
+   "grounds": "first member of compound brahma+viṣṇu"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "lemma": "viṣṇu",
+   "morph": "compound:brahma+viṣṇu+ādi",
+   "grounds": "second member of compound brahma+viṣṇu"
   },
   {
-   "lemma": "trividhā",
-   "morph": "f.nom.sg",
-   "grounds": "of three kinds"
+   "lemma": "ādi",
+   "morph": "compound:brahma+viṣṇu+ādi+nirmāṇam",
+   "grounds": "third member indicating etcetera"
   },
   {
-   "lemma": "proktā",
-   "morph": "f.nom.sg (past-participle) (√vac)",
-   "grounds": "stated"
+   "lemma": "nirmāṇam",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular of nirmāṇa"
   },
   {
-   "lemma": "nityanaimittikāmyataḥ",
-   "morph": "(indecl.)",
-   "grounds": "compound: nitya-naimittika-kāmya + -taḥ"
+   "lemma": "indrāṇām",
+   "morph": "m.gen.pl",
+   "grounds": "genitive plural of indra"
+  },
+  {
+   "lemma": "kāraṇam",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular of kāraṇa"
+  },
+  {
+   "lemma": "kare",
+   "morph": "m.loc.sg",
+   "grounds": "locative singular of kara"
   }
  ]
 }

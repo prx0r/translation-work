@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating the moment following the prior condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "the faculty or designation being identified in this verse",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhidhā",
+     "gloss": "named",
+     "grounds": "designation or appellation applied to the subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātā",
+     "gloss": "arisen",
+     "grounds": "past participle indicating coming into being or being produced",
+     "morph": "f.nom.sg.ppp(jan)"
+    },
+    {
+     "surface": "tadīkṣātaḥ",
+     "gloss": "from-that-glance",
+     "grounds": "compound referring to the gaze mentioned in context; internal sandhi: tad + īkṣātaḥ",
+     "morph": "compound:tat+īkṣā(f.abl.sg)"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the supreme goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "From what cause does the designation of action arise for the great goddess?",
+   "premises": [
+    "At that moment a designation arises.",
+    "The designation identified is action.",
+    "This arising occurs from that glance, O great goddess."
+   ],
+   "inference": "Therefore, action is the designation that arises from that glance.",
+   "uncertainties": [
+    "Whether jātā qualifies kriyā as arisen or qualifies abhidhā as having come into use is contextually ambiguous."
+   ],
+   "plain_english": "Then, O great goddess, the designation 'action' arises from that glance."
+  }
+ ]
+}

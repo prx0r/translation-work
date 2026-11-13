@@ -3,34 +3,39 @@
  "verse": 196,
  "rows": [
   {
-   "lemma": "ādau",
-   "morph": "(indecl.)",
-   "grounds": "at the beginning"
+   "lemma": "ananta",
+   "morph": "compound:ananta+koṭi",
+   "grounds": "first member of compound ananta+koṭi"
   },
   {
-   "lemma": "śuddhibhairavāya",
-   "morph": "m.dat.sg",
-   "grounds": "deity name in dative"
+   "lemma": "koṭi",
+   "morph": "compound:ananta+koṭi+brahmāṇḍa",
+   "grounds": "second member of compound ananta+koṭi"
   },
   {
-   "lemma": "ṛṣaye",
-   "morph": "m.dat.sg",
-   "grounds": "ritual role"
+   "lemma": "brahmāṇḍa",
+   "morph": "compound:ananta+koṭi+brahmāṇḍa+rāja",
+   "grounds": "third member of compound"
   },
   {
-   "lemma": "namaḥ",
-   "morph": "(indecl.)",
-   "grounds": "salutation"
+   "lemma": "rāja",
+   "morph": "compound:ananta+koṭi+brahmāṇḍa+rāja+danta",
+   "grounds": "fourth member of compound"
   },
   {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "formula marker"
+   "lemma": "danta",
+   "morph": "compound:ananta+koṭi+brahmāṇḍa+rāja+danta+agrake",
+   "grounds": "fifth member of compound"
   },
   {
-   "lemma": "atha",
-   "morph": "(indecl.)",
-   "grounds": "sequence"
+   "lemma": "agrake",
+   "morph": "n.loc.sg",
+   "grounds": "locative singular of agraka"
+  },
+  {
+   "lemma": "śive",
+   "morph": "m.voc.sg",
+   "grounds": "vocative singular of śiva"
   }
  ]
 }

@@ -3,34 +3,39 @@
  "verse": 197,
  "rows": [
   {
-   "lemma": "mama",
-   "morph": "1.sg.gen",
-   "grounds": "speaker's address"
+   "lemma": "mahā",
+   "morph": "compound:mahā+nirguṇa",
+   "grounds": "first member of compound mahā+nirguṇa"
   },
   {
-   "lemma": "priye",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
+   "lemma": "nirguṇa",
+   "morph": "compound:mahā+nirguṇa+rūpā",
+   "grounds": "second member of compound mahā+nirguṇa"
   },
   {
-   "lemma": "mahākālī",
-   "morph": "f.dat.sg",
-   "grounds": "deity name"
+   "lemma": "rūpā",
+   "morph": "f.nom.sg",
+   "grounds": "nominative singular feminine, having form"
   },
   {
-   "lemma": "devatāyai",
-   "morph": "f.dat.sg",
-   "grounds": "ritual role"
-  },
-  {
-   "lemma": "namaḥ",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "salutation"
+   "grounds": "conjunctive particle"
   },
   {
-   "lemma": "hṛdi",
-   "morph": "n.loc.sg",
-   "grounds": "place of assignment"
+   "lemma": "vācātītā",
+   "morph": "f.nom.sg",
+   "grounds": "nominative singular feminine of compound vāca+atīta"
+  },
+  {
+   "lemma": "parā",
+   "morph": "adj.nom.sg.f",
+   "grounds": "nominative singular feminine of para"
+  },
+  {
+   "lemma": "kalā",
+   "morph": "f.nom.sg",
+   "grounds": "nominative singular of kalā"
   }
  ]
 }

@@ -3,34 +3,39 @@
  "verse": 195,
  "rows": [
   {
-   "lemma": "bhūtaśuddhiṃ",
-   "morph": "f.acc.sg",
-   "grounds": "purification of elements"
+   "lemma": "śūnye",
+   "morph": "adj.loc.sg.n",
+   "grounds": "locative singular of śūnya"
   },
   {
-   "lemma": "tathā",
+   "lemma": "brahmāṇḍa",
+   "morph": "compound:brahmāṇḍa+gole",
+   "grounds": "first member of compound brahmāṇḍa+gole"
+  },
+  {
+   "lemma": "gole",
+   "morph": "m.loc.sg",
+   "grounds": "locative singular of gola"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "sequence"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.opt.act (√kṛ)",
-   "grounds": "ritual instruction"
+   "lemma": "pañcāśat",
+   "morph": "compound:pañcāśat+śūnya",
+   "grounds": "numeral, first member of compound pañcāśat+śūnya"
   },
   {
-   "lemma": "pūjāyogyā",
-   "morph": "f.nom.sg",
-   "grounds": "compound: pūjā + yogya"
+   "lemma": "śūnya",
+   "morph": "compound:pañcāśat+śūnya+madhyake",
+   "grounds": "second member of compound pañcāśat+śūnya"
   },
   {
-   "lemma": "yathā",
-   "morph": "(indecl.)",
-   "grounds": "purpose"
-  },
-  {
-   "lemma": "bhavet",
-   "morph": "3.sg.opt.act (√bhū)",
-   "grounds": "result"
+   "lemma": "madhyake",
+   "morph": "n.loc.sg",
+   "grounds": "locative singular of madhyaka"
   }
  ]
 }

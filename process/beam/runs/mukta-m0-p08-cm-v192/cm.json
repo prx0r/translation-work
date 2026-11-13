@@ -3,24 +3,39 @@
  "verse": 192,
  "rows": [
   {
-   "lemma": "pañcaśuddhiṃ+vinā",
+   "lemma": "āyuṣyam",
+   "morph": "n.nom.sg",
+   "grounds": "nominative singular neuter of āyuṣya"
+  },
+  {
+   "lemma": "puṇya",
+   "morph": "compound:puṇya+rahite",
+   "grounds": "first member of compound puṇya+rahite"
+  },
+  {
+   "lemma": "rahite",
+   "morph": "n.loc.sg",
+   "grounds": "locative singular of rahita"
+  },
+  {
+   "lemma": "katham",
    "morph": "(indecl.)",
-   "grounds": "compound with vinā indicating absence"
+   "grounds": "interrogative adverb"
   },
   {
-   "lemma": "pūjā",
-   "morph": "f.nom.sg",
-   "grounds": "ritual worship"
+   "lemma": "bhavati",
+   "morph": "3.sg.pres.act-bhū",
+   "grounds": "present active of bhū"
   },
   {
-   "lemma": "abhicārāya",
-   "morph": "m.dat.sg",
-   "grounds": "purpose of harmful ritual"
+   "lemma": "tat",
+   "morph": "pron.nom.sg.n",
+   "grounds": "demonstrative pronoun nominative singular neuter"
   },
   {
-   "lemma": "kalpyate",
-   "morph": "3.sg.pres.pass (√kḷp)",
-   "grounds": "is deemed"
+   "lemma": "vada",
+   "morph": "2.sg.imp.act-vad",
+   "grounds": "imperative of vad"
   }
  ]
 }
