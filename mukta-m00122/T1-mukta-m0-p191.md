@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p191-v4751
-[in-other's-praise](parastavaneṣu) [and](ca) [in-other's-censure](paranindāsu)
+[in-praise-of-others](parastavaneṣu) [in-censure-of-others](paranindāsu) [and](ca)
 
 ## mukta-m0-p191-v4752
-[in-praise-of-guru+knowledge+tradition+conduct](guruvidyāgamācārastavanaṃ) [and](ca) [in-its-propagation](tatpravarttanam)
+[guru+knowledge+tradition+conduct](guruvidyāgamācāra) [praise](stavanaṃ) [its](tat) [promotion](pravarttanam)
 
 ## mukta-m0-p191-v4753
-[not](na) [they-are](bhavanti) [for-others](itareṣāntu) [but](tu) [they-hate](pradviṣantyeva) [them](tāṃśca) [they](te)
+[not](na) [are](bhavanti) [of-others](itareṣām) [but](tu) [hate](pradviṣanti) [indeed](eva) [them](tān) [and](ca) [they](te)
 
 ## mukta-m0-p191-v4754
-[one-who-has-dispelled+all+worldly+delusion+ignorance+non-discrimination](nirastāśeṣasaṃsāramaurkhyājñānāvivekavān)
+[removed+all+worldly](nirastāśeṣasaṃsāra) [delusion+ignorance](maurkhyājñāna) [endowed-with-discrimination](āvivekavān)
 
 ## mukta-m0-p191-v4755
-[protecting](pālayan) [with-smiling+face](susmitamukhaḥ) [delighting-in-worship+and-honoring](pūjāpūjanakautukī)
+[protecting](pālayan) [with-smiling-face](susmitamukhaḥ) [delighting-in-worship-and-honoring](pūjāpūjanakautukī)
 
 ## mukta-m0-p191-v4756
-[the-fallen](patitān) [kinsmen](vandhu) [mind](citta) [commands](ājñā) [hard-to-transgress](durlaṅghyān) [own+group+conditions](svacayasthitīn)
+[fallen](patitān) [relatives+mind](vandhucitta) [commands](ājñā) [difficult-to-transgress](durlaṅghyān) [own-group](svacaya) [conditions](sthitīn)
 
 ## mukta-m0-p191-v4757
-[again+and-again](muhurmuhuśca) [one-should-reflect](vimṛśed) [one-should-refrain](viramed) [from-the-inauspicious-minded](aśubhātmanaḥ)
+[again-and-again](muhurmuhuḥ) [and](ca) [should-reflect](vimṛśet) [should-refrain](viramet) [from-the-inauspicious-minded](aśubhātmanaḥ)
 
 ## mukta-m0-p191-v4758
 [praise](stavanaṃ)
 
 ## mukta-m0-p191-v4759
-[in-the-sense-of-emphasis](evāvadhāraṇe) [them](tān) [possessed-of-self-knowledge](ātmajñānavataḥ) [they](te) [devoid-of-self-knowledge](ātmajñānarahitāḥ)
+[in-emphatic-sense](evāvadhāraṇe) [them](tān) [possessing-self-knowledge](ātmajñānavataḥ) [they](te) [devoid-of-self-knowledge](ātmajñānarahitāḥ)
 
 ## mukta-m0-p191-v4760
-[one-should-spend](gamayed) [with-deity+worship+recitation+yoga+praise+and-so-on](devatāpūjājapayogastavādinā)
+[one-should-spend](gamayet) [with-deity-worship+mantra-recitation+yoga+praise](devatāpūjājapayogastavādinā)
 
 ## mukta-m0-p191-v4761
-[one-should-spend](gamayed) [unceasingly](aniśaṃ) [time](kālaṃ) [not](na) [one-should-speak](vadet) [fault-finding-of-others](paradūṣaṇam)
+[one-should-spend](gamayet) [unceasingly](aniśaṃ) [time](kālaṃ) [not](na) [should-speak](vadet) [fault-finding-of-others](paradūṣaṇam)
 
 ## mukta-m0-p191-v4762
-[by-his-qualities](tadguṇais) [by-his-grace+abundance](tatkṛpādhikyaiḥ) [and](ca) [by-merit+and-prosperity](puṇyaiśvaryyaiśca) [truly](satyataḥ)
+[by-his-qualities](tadguṇaiḥ) [by-his-abundant-grace](tatkṛpādhikyaiḥ) [by-merit-and-sovereignty](puṇyaiśvaryyaiḥ) [and](ca) [truly](satyataḥ)
 
 ## mukta-m0-p191-v4763
-[by-contentment+conduct+constancy](santoṣācāranityam) [and](tathā) [by-peace+knowledge+and-so-on](aśāntijñānādibhis)
+[by-contentment+conduct](santoṣācāra) [constantly](nityam) [by-peace+knowledge](aśāntijñānādibhiḥ) [likewise](tathā)
 
 ## mukta-m0-p191-v4764
-[constant+contemplation](nityācintā) [self+purification](svātmaśuddhiḥ) [the-duty](kṛtyam) [of-those-possessed-of-self](ātmavatāṃ) [always](sadā)
+[constant-contemplation](nityācintā) [self-purification](svātmaśuddhiḥ) [duty](kṛtyam) [of-those-possessing-the-self](ātmavatāṃ) [always](sadā)
 
 ## mukta-m0-p191-v4765
-[self+purification](svātmaśuddhiḥ) [purification](śuddhir) [of-one's-speech+mind+body](svavāṅmanaḥkāyānāṃ) [thus](iti) [namely](yāvat)
+[self-purification](svātmaśuddhiḥ) [of-one's-speech+mind+body](svavāṅmanaḥkāyānāṃ) [purification](śuddhiḥ) [thus](iti) [indeed](yāvat)
 
 ## mukta-m0-p191-v4766
 [the-womb](yoniṃ) [in-its-middle](tanmadhyato) [the-goddess](devīṃ) [Lalitā](lalitāṃ) [behind](pṛṣṭhato) [the-gurus](gurūn)
 
 ## mukta-m0-p191-v4767
-[Kāmeśvarī+and-others](kāmeśvaryyādikās) [there](tatra) [outside-that](tadvahir) [in-the-twelve](dvādaśasvapi)
+[Kāmeśvarī-and-others](kāmeśvaryyādikāḥ) [there](tatra) [outside-that](tadvahiḥ) [in-the-twelve](dvādaśasu) [also](api)
 
 ## mukta-m0-p191-v4768
-[by-their-name+mantras](tannāmavidyābhir) [or](vā) [them](tāḥ) [one-should-worship](pūjayet) [with-offering+arrangement](sārghakalpanam)
+[by-their-name-mantras](tannāmavidyābhiḥ) [or](vā) [them](tāḥ) [one-should-worship](pūjayet) [with-offering-of-arghya](sārghakalpanam)
 
 ## mukta-m0-p191-v4769
-[not](na) [other](anyat) [duty](kṛtyaṃ) [should-be](bhavet) [for-him](tasya) [daily+occasional+and-so-on](nityanaimittikādikam)
+[not](na) [other](anyat) [duty](kṛtyaṃ) [should-be](bhavet) [of-him](tasya) [daily-and-occasional-rites](nityanaimittikādikam)
 
 ## mukta-m0-p191-v4770
-[one-should-worship](pūjayet) [as-before](prāgvad) [from-both+kinds](ubhayaprakārād) [by-one+application](ekayogataḥ)
+[one-should-worship](pūjayet) [as-before](prāgvat) [of-both](ubhaya) [types](prakārāt) [by-union-with-one](ekayogataḥ)
 
 ## mukta-m0-p191-v4771
-[of-the-siddhas](siddhānām) [also](api) [of-all](sarveṣāṃ) [by-which](yenāsau) [possessed-of-self](svātmavān) [he-became](abhūt)
+[of-the-siddhas](siddhānām) [also](api) [of-all](sarveṣāṃ) [by-which](yena) [he](asau) [possessing-the-self](svātmavān) [became](abhūt)
 
 ## mukta-m0-p191-v4772
-[from-whose-touch](yatparāmarśato) [the-state](bhāvas) [indeed](tu) [of-us-two](āvayor) [unity](aikyamaśnute) [attains](aśnute)
+[by-whose-cognition](yatparāmarśato) [the-state](bhāvaḥ) [of-you-and-me](tvāvayoḥ) [unity](aikyam) [attains](aśnute)
 
 ## mukta-m0-p191-v4773
-[not](na) [to-a-non-disciple](āśiṣyāya) [not](na) [to-the-arrogant](dambhāya) [to-one-of-concealed+tradition+conduct](pracchrannānayaśīline)
+[not](na) [to-a-non-disciple](aśiṣyāya) [not](na) [to-the-arrogant](dambhāya) [to-one-of-concealed-tradition-conduct](pracchrannānayaśīline)
 
 ## mukta-m0-p191-v4774
 [not](na) [to-the-sinful](pāpāya) [not](na) [for-wealth](vittāya) [not](na) [to-the-unskilled](adakṣāya) [and](ca) [to-the-divisive](bhedine)
 
 ## mukta-m0-p191-v4775
-[possessed-of-knowledge-of-own-nature](svarūpajñānavān)
+[one-possessing-knowledge-of-own-nature](svarūpajñānavān)

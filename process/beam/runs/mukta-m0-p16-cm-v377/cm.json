@@ -3,24 +3,34 @@
  "verse": 377,
  "rows": [
   {
-   "lemma": "pañcamantratanuḥ",
-   "morph": "compound: pañca-mantra-tanu+possessor; m.nom.sg",
-   "grounds": "bahuvrīhi compound describing the deity's body"
+   "lemma": "pūrvoktena",
+   "morph": "compound.inst.sg.n",
+   "grounds": "compound: pūrva-uktena"
   },
   {
-   "lemma": "śrīmān",
-   "morph": "m.nom.sg",
-   "grounds": "epithet of the deity"
+   "lemma": "vidhānena",
+   "morph": "n.inst.sg",
+   "grounds": "instrument of procedure"
   },
   {
-   "lemma": "devaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "refers to the deity"
+   "lemma": "dhyātvā",
+   "morph": "absolutive √dhyai",
+   "grounds": "prior action"
   },
   {
-   "lemma": "sakalaniṣkalaḥ",
-   "morph": "compound: sakala-niṣkala+coordination; m.nom.sg",
-   "grounds": "dvandva compound expressing dual aspect"
+   "lemma": "kṛtvā",
+   "morph": "absolutive √kṛ",
+   "grounds": "prior action"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction"
+  },
+  {
+   "lemma": "pūjanam",
+   "morph": "n.acc.sg",
+   "grounds": "object of kṛtvā"
   }
  ]
 }

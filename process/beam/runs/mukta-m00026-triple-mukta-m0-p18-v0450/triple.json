@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "guru+santoṣa",
+     "gloss": "guru-satisfaction",
+     "grounds": "first member of compound expressing the cause of accomplishment; satisfaction of the guru",
+     "morph": "compound:guru+dependent,santoṣa+head"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere-measure",
+     "grounds": "indicates sufficiency of the preceding cause alone",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "duṣṭa+mantraḥ",
+     "gloss": "faulty-mantra-possessor",
+     "grounds": "describes a practitioner whose mantra is defective; compound qualifying the implied subject",
+     "morph": "compound:duṣṭa+dependent,mantra+head,m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasizes that success occurs despite the defect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "states the attainment of accomplishment",
+     "morph": "3.sg.pres.act √sidh"
+    }
+   ],
+   "question": "Is the guru's satisfaction alone sufficient for accomplishment despite a defective mantra?",
+   "premises": [
+    "Spiritual accomplishment can depend on the guru's satisfaction.",
+    "A practitioner may possess a faulty or defective mantra.",
+    "The mere satisfaction of the guru can outweigh defects in practice."
+   ],
+   "inference": "Therefore, even a practitioner with a defective mantra attains success through the guru's satisfaction alone.",
+   "uncertainties": [
+    "The internal compound structure of duṣṭa+mantraḥ may be read as karmadhāraya or bahuvrīhi."
+   ],
+   "plain_english": "Even one who has a faulty mantra succeeds through the mere satisfaction of the guru."
+  }
+ ]
+}

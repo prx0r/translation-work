@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "kathyataṃ",
+     "gloss": "let-it-be-told",
+     "grounds": "imperative passive form of kath; urgent request to explain",
+     "morph": "3.sg.passive-imperative kath"
+    },
+    {
+     "surface": "kathyatāṃ",
+     "gloss": "let-it-be-told",
+     "grounds": "repeated imperative passive form of kath; emphatic reiteration",
+     "morph": "3.sg.passive-imperative kath"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal particle introducing the reason for the request",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "refers to the addressed deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sevikāḥ",
+     "gloss": "servants",
+     "grounds": "attendants devoted to the deity",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vayam",
+     "gloss": "we",
+     "grounds": "speakers identifying themselves as the deity's servants",
+     "morph": "1.nom.pl"
+    }
+   ],
+   "question": "Why must the god explain the matter to his devoted attendants?",
+   "premises": [
+    "The speakers urgently request an explanation.",
+    "The addressed deity is the one capable of explaining.",
+    "The speakers identify themselves as the deity's servants."
+   ],
+   "inference": "Because the speakers are devoted servants of the god, they are entitled to receive his explanation.",
+   "uncertainties": [
+    "The exact nuance distinguishing kathyataṃ and kathyatāṃ is not fully certain beyond emphatic repetition."
+   ],
+   "plain_english": "Tell, tell, O god, because we are your servants."
+  }
+ ]
+}

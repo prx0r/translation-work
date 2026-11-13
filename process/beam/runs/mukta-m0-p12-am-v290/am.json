@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 290,
- "question": "What action must be taken to remove the obstacles from the ritual space?",
+ "question": "Which verbal and religious offenses are enumerated among the sins?",
  "premises": [
-  "Obstacles remain to be dealt with.",
-  "Dispersal is the prescribed action."
+  "Untrue speech, slander, and harshness are named",
+  "Selling of gods is named",
+  "These are listed as offenses"
  ],
- "inference": "One should disperse the obstacles.",
- "uncertainties": [],
- "plain_english": "One should disperse the obstacles."
+ "inference": "False and harmful speech and the selling of gods are included among the sins.",
+ "uncertainties": [
+  "The exact sense of devavikraya may refer to selling divine images or religious services."
+ ],
+ "plain_english": "Untrue speech, slander, harshness, and the selling of gods."
 }

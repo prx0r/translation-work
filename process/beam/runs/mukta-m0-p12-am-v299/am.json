@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 299,
- "question": "What concluding element is required in the worship formula reiterated here?",
+ "question": "Which holy places and rivers in this world are invoked as present with that marked person?",
  "premises": [
-  "Worship is enjoined again.",
-  "The formula must end with namaḥ."
+  "Holy places in this world are invoked",
+  "Gaṅgā and other rivers are invoked",
+  "These are associated with the previously described person"
  ],
- "inference": "One should worship using a formula ending with namaḥ.",
- "uncertainties": [],
- "plain_english": "One should worship with formulas ending with namaḥ."
+ "inference": "All holy places and rivers such as the Gaṅgā are present with the person bearing those sacred marks.",
+ "uncertainties": [
+  "The explicit predicate equating these holy places with the person is implied but not fully stated in this verse."
+ ],
+ "plain_english": "Whatever holy places there are in this world, and whatever rivers such as the Gaṅgā."
 }

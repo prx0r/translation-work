@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 276,
- "question": "How many repetitions constitute the prescribed vivification of the mantra?",
+ "question": "Which ritual acts must follow element-purification in sequence?",
  "premises": [
-  "Vivification is declared as a hundred repetitions.",
-  "Alternatively, a ten-numbered recitation is accepted."
+  "Element-purification is performed first",
+  "Breath-control follows element-purification",
+  "A further step follows breath-control"
  ],
- "inference": "The mantra's vivification may be performed by reciting it either one hundred times or ten times.",
- "uncertainties": [],
- "plain_english": "That is declared to be vivification: recitation a hundred times, or indeed a tenfold recitation."
+ "inference": "The ritual proceeds from element-purification to breath-control and then onward.",
+ "uncertainties": [
+  "The specific act indicated by param is not named in this verse."
+ ],
+ "plain_english": "Having performed element-purification, one should then perform breath-control, and after that proceed further."
 }

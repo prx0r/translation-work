@@ -1,0 +1,1217 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "bhūtaśuddhiṃ",
+     "gloss": "element-purification",
+     "grounds": "purification of the elements",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completing the prior act",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "breath-control",
+     "grounds": "regulation of vital breath",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual acts must follow element-purification in sequence?",
+   "premises": [
+    "Element-purification is performed first",
+    "Breath-control follows element-purification",
+    "A further step follows breath-control"
+   ],
+   "inference": "The ritual proceeds from element-purification to breath-control and then onward.",
+   "uncertainties": [
+    "The specific act indicated by param is not named in this verse."
+   ],
+   "plain_english": "Having performed element-purification, one should then perform breath-control, and after that proceed further."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryān",
+     "gloss": "should-perform",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "mātṛkānyāsaṃ",
+     "gloss": "mātṛkā-installation",
+     "grounds": "ritual placement of the mātṛkā letters",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "Śiva",
+     "grounds": "identity with Śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What identity is attained by one who performs mātṛkā-installation?",
+   "premises": [
+    "Someone performs mātṛkā-installation",
+    "That performer is declared to be Śiva",
+    "No doubt exists regarding this claim"
+   ],
+   "inference": "Performing mātṛkā-installation establishes identity with Śiva without doubt.",
+   "uncertainties": [],
+   "plain_english": "Whoever performs the mātṛkā-installation is Śiva; there is no doubt about this."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "rudrākṣasya",
+     "gloss": "of-rudrākṣa",
+     "grounds": "sacred seed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māhātmyaṃ",
+     "gloss": "greatness",
+     "grounds": "exalted power or efficacy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhasmanaś",
+     "gloss": "of-sacred-ash",
+     "grounds": "ritual ash; sandhi form of bhasmanaḥ",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imperative-active √śru"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What sacred substances' greatness is the beloved asked to hear?",
+   "premises": [
+    "The greatness of rudrākṣa is to be told",
+    "The greatness of sacred ash is to be told",
+    "The beloved is commanded to listen"
+   ],
+   "inference": "The teaching will expound the greatness of both rudrākṣa and sacred ash.",
+   "uncertainties": [],
+   "plain_english": "Hear, beloved, the greatness of rudrākṣa and of sacred ash."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "śodhayen",
+     "gloss": "one-should-purify",
+     "grounds": "ritual purification",
+     "morph": "3.sg.optative-active √śudh"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "primary mantra used as instrument",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japan",
+     "gloss": "reciting",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg.present-participle-active √jap"
+    }
+   ],
+   "question": "How should purification be performed using the root mantra?",
+   "premises": [
+    "Purification is prescribed",
+    "The root mantra is the instrument",
+    "Recitation is done one hundred and eight times"
+   ],
+   "inference": "Purification is accomplished by reciting the root mantra one hundred and eight times.",
+   "uncertainties": [
+    "The object to be purified is not explicitly stated in this verse."
+   ],
+   "plain_english": "One should purify by reciting the root mantra one hundred and eight times."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "bāhvoḥ",
+     "gloss": "on-arms",
+     "grounds": "location on both arms",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "pārśvadvaye",
+     "gloss": "on-two-sides",
+     "grounds": "both flanks; compound pārśva+dvaya",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kaṇṭhadeśe",
+     "gloss": "on-neck-region",
+     "grounds": "area of the throat; compound kaṇṭha+deśa",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "on-heart",
+     "grounds": "chest region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "On which bodily locations should the application be made?",
+   "premises": [
+    "The arms are specified as locations",
+    "The two sides, neck region, and heart are specified",
+    "The goddess is addressed directly"
+   ],
+   "inference": "The application is to be made on the arms, both sides, neck region, and heart.",
+   "uncertainties": [
+    "The substance being applied is implied from context but not named here."
+   ],
+   "plain_english": "O goddess, beloved, on the arms, on both sides, on the neck region, and on the heart."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "kūrparād",
+     "gloss": "from-elbow",
+     "grounds": "starting point on the arm; sandhi form of kūrparāt",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bāhuparyantaṃ",
+     "gloss": "up-to-arm",
+     "grounds": "extent along the arm; compound bāhu+paryanta",
+     "morph": "m.acc.sg, compound"
+    },
+    {
+     "surface": "kakṣe",
+     "gloss": "in-armpits",
+     "grounds": "bodily location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "grīvāsu",
+     "gloss": "on-neck",
+     "grounds": "neck region",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-Pārvatī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What further bodily extents are specified for the application to Pārvatī?",
+   "premises": [
+    "Application extends from the elbow up to the arm",
+    "The armpits are included",
+    "The neck regions are included"
+   ],
+   "inference": "The application covers the arm from elbow upward, the armpits, and the neck.",
+   "uncertainties": [],
+   "plain_english": "O Pārvatī, from the elbow up to the arm, in the armpits, and on the neck."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "madhyamā",
+     "gloss": "middle-finger",
+     "grounds": "one of the fingers used",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anāmikā",
+     "gloss": "ring-finger",
+     "grounds": "one of the fingers used",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅgulyaṅguṣṭhena",
+     "gloss": "finger-and-thumb",
+     "grounds": "fingers together with thumb; compound aṅguli+aṅguṣṭha",
+     "morph": "m.inst.sg, compound"
+    },
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "ritual mark on the forehead",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next step in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fingers are used to apply the forehead mark next?",
+   "premises": [
+    "The middle finger is involved",
+    "The ring finger is involved",
+    "The thumb is used together with fingers"
+   ],
+   "inference": "The forehead mark is then applied using the middle finger, ring finger, and thumb.",
+   "uncertainties": [
+    "The exact grouping of fingers with the thumb is somewhat compressed in the compound."
+   ],
+   "plain_english": "Then, using the middle finger, ring finger, and thumb, one applies the forehead mark."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "pṛthivy",
+     "gloss": "earth",
+     "grounds": "elemental principle; sandhi form of pṛthivī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "agnis",
+     "gloss": "fire",
+     "grounds": "elemental principle; sandhi form of agniḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation of enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "divine power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyāśaktir",
+     "gloss": "power-of-action",
+     "grounds": "active power; compound kriyā+śakti; sandhi form of kriyāśaktiḥ",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "supreme lord; compound mahā+īśvara",
+     "morph": "m.nom.sg, compound"
+    }
+   ],
+   "question": "Which principles are enumerated as associated with the ritual substance?",
+   "premises": [
+    "Earth and fire are named",
+    "Power and power-of-action are named",
+    "The great lord is named"
+   ],
+   "inference": "Earth, fire, power, power-of-action, and the great lord form the enumerated principles.",
+   "uncertainties": [],
+   "plain_english": "Earth, fire, likewise power, the power of action, and the great lord."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation or emphatic particle in context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhasmāṃś",
+     "gloss": "sacred-ash",
+     "grounds": "ritual ash; sandhi form of bhasmān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "subhage",
+     "gloss": "O-fortunate-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "second in enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "divine presence",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the sacred ash identified in relation to a second deity?",
+   "premises": [
+    "Sacred ash is mentioned emphatically",
+    "A second deity is named",
+    "The fortunate one is addressed"
+   ],
+   "inference": "The sacred ash is associated with a second deity.",
+   "uncertainties": [
+    "The syntactic role of na and the exact identification are ambiguous in this fragmentary verse."
+   ],
+   "plain_english": "O fortunate one, the sacred ash indeed, and the second deity indeed."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "the aforementioned principles or deities",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "regular observance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaskṛtya",
+     "gloss": "having-saluted",
+     "grounds": "act of reverence",
+     "morph": "absolutive namas+√kṛ"
+    },
+    {
+     "surface": "tripuṇḍraṃ",
+     "gloss": "triple-mark",
+     "grounds": "three horizontal ash marks; compound tri+puṇḍra",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "dhārayed",
+     "gloss": "should-wear",
+     "grounds": "ritual wearing or bearing",
+     "morph": "3.sg.optative-active √dhṛ"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What daily practice is prescribed after saluting these principles?",
+   "premises": [
+    "These are to be saluted daily",
+    "The triple mark is the object to be worn",
+    "The act is conditionally prescribed"
+   ],
+   "inference": "After daily salutation to these, one should wear the triple mark.",
+   "uncertainties": [
+    "The condition introduced by yadi is completed in the following verse."
+   ],
+   "plain_english": "Having daily saluted these, one should wear the triple mark, if..."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "brahmacārī",
+     "gloss": "celibate-student",
+     "grounds": "first life stage; compound brahma+cārin",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "gṛhastho",
+     "gloss": "householder",
+     "grounds": "second life stage; compound gṛha+stha; sandhi form of gṛhasthaḥ",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vanastho",
+     "gloss": "forest-dweller",
+     "grounds": "third life stage; compound vana+stha; sandhi form of vanasthaḥ",
+     "morph": "m.nom.sg, compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatis",
+     "gloss": "renunciant",
+     "grounds": "fourth life stage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "inclusion of all cases",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which practitioners across life stages may wear the triple mark?",
+   "premises": [
+    "Celibate students are included",
+    "Householders and forest-dwellers are included",
+    "Renunciants are included"
+   ],
+   "inference": "Practitioners in all four life stages may wear the triple mark.",
+   "uncertainties": [],
+   "plain_english": "Whether a celibate student, a householder, a forest-dweller, or a renunciant."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extension to other cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "other",
+     "grounds": "additional categories",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣatra",
+     "gloss": "warrior-class",
+     "grounds": "social class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṭ",
+     "gloss": "merchant-class",
+     "grounds": "social class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūdra",
+     "gloss": "servant-class",
+     "grounds": "social class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "strīhatyā",
+     "gloss": "woman-killing",
+     "grounds": "grave sin; compound strī+hatyā",
+     "morph": "f.nom.sg, compound"
+    },
+    {
+     "surface": "ādiṣu",
+     "gloss": "and-so-forth",
+     "grounds": "among such cases",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pātakaiḥ",
+     "gloss": "by-sins",
+     "grounds": "transgressions",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which social classes and grave sins are included in the scope of this teaching?",
+   "premises": [
+    "Other classes including warrior, merchant, and servant are mentioned",
+    "Woman-killing and similar acts are mentioned",
+    "These are characterized as sins"
+   ],
+   "inference": "The teaching extends to various social classes and even to those tainted by grave sins.",
+   "uncertainties": [
+    "The syntactic connection to the main clause continues from previous verses."
+   ],
+   "plain_english": "Likewise others—warrior, merchant, servant—even those tainted by sins such as the killing of a woman and so forth."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "amantreṇa",
+     "gloss": "without-mantra",
+     "grounds": "absence of mantra recitation; compound a+mantra",
+     "morph": "m.inst.sg, compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "performing the act",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "awareness of its greatness",
+     "morph": "absolutive √jñā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahimonnatim",
+     "gloss": "greatness-exaltation",
+     "grounds": "supreme greatness; compound mahiman+unnati",
+     "morph": "f.acc.sg, compound"
+    }
+   ],
+   "question": "Can the ritual act be effective even when performed without mantra?",
+   "premises": [
+    "The act may be done without mantra",
+    "The doer knows its greatness and exaltation",
+    "The act is still performed intentionally"
+   ],
+   "inference": "Even without mantra, the act is valid if done with knowledge of its greatness.",
+   "uncertainties": [
+    "The specific act referred to is carried over from prior verses."
+   ],
+   "plain_english": "Even one who does it without mantra, having known its greatness and exaltation."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "paradravya",
+     "gloss": "another's-wealth",
+     "grounds": "property of others; compound para+dravya",
+     "morph": "n.stem, compound-member"
+    },
+    {
+     "surface": "apaharaṇaṃ",
+     "gloss": "seizing",
+     "grounds": "theft; compound apa+haraṇa",
+     "morph": "n.nom.sg, compound"
+    },
+    {
+     "surface": "paradārā",
+     "gloss": "another's-wife",
+     "grounds": "wife of another; compound para+dāra",
+     "morph": "f.stem, compound-member"
+    },
+    {
+     "surface": "abhimarṣaṇam",
+     "gloss": "touching",
+     "grounds": "illicit contact; compound abhi+marṣaṇa",
+     "morph": "n.nom.sg, compound"
+    }
+   ],
+   "question": "Which transgressions involving others' property and spouses are listed?",
+   "premises": [
+    "Seizing another's wealth is named",
+    "Touching another's wife is named",
+    "Both are presented as transgressions"
+   ],
+   "inference": "Theft of another's wealth and illicit contact with another's wife are enumerated transgressions.",
+   "uncertainties": [],
+   "plain_english": "Seizing another's wealth and touching another's wife."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "asatyavākya",
+     "gloss": "untrue-speech",
+     "grounds": "false speech; compound asatya+vākya",
+     "morph": "n.stem, compound-member"
+    },
+    {
+     "surface": "paiśunyaṃ",
+     "gloss": "slander",
+     "grounds": "malicious speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāruṣyaṃ",
+     "gloss": "harshness",
+     "grounds": "harsh speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devavikrayam",
+     "gloss": "selling-of-gods",
+     "grounds": "trafficking in divine images or worship; compound deva+vikraya",
+     "morph": "m.acc.sg, compound"
+    }
+   ],
+   "question": "Which verbal and religious offenses are enumerated among the sins?",
+   "premises": [
+    "Untrue speech, slander, and harshness are named",
+    "Selling of gods is named",
+    "These are listed as offenses"
+   ],
+   "inference": "False and harmful speech and the selling of gods are included among the sins.",
+   "uncertainties": [
+    "The exact sense of devavikraya may refer to selling divine images or religious services."
+   ],
+   "plain_english": "Untrue speech, slander, harshness, and the selling of gods."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "go",
+     "gloss": "cow",
+     "grounds": "cattle; compound member",
+     "morph": "stem, compound-member"
+    },
+    {
+     "surface": "mṛgāṇāṃ",
+     "gloss": "and-deer",
+     "grounds": "animals; part of enumerated items",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hiraṇyasya",
+     "gloss": "of-gold",
+     "grounds": "precious metal",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tila",
+     "gloss": "sesame",
+     "grounds": "commodity; compound member",
+     "morph": "stem, compound-member"
+    },
+    {
+     "surface": "kambala",
+     "gloss": "woolen-blanket",
+     "grounds": "commodity; compound member",
+     "morph": "stem, compound-member"
+    },
+    {
+     "surface": "vāsasām",
+     "gloss": "and-garments",
+     "grounds": "clothing",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "Which goods are listed in connection with prohibited transactions?",
+   "premises": [
+    "Cows and deer are mentioned",
+    "Gold, sesame, woolen blankets, and garments are mentioned",
+    "These items appear in an enumerative list"
+   ],
+   "inference": "Various animals and commodities are listed as items involved in the enumerated offenses.",
+   "uncertainties": [
+    "The governing action vikrayam appears in verse 293 and applies to this list."
+   ],
+   "plain_english": "Of cows and deer, of gold, of sesame, woolen blankets, and garments."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "dāsī",
+     "gloss": "slave-women",
+     "grounds": "category of women; compound member in context",
+     "morph": "f.stem, compound-member"
+    },
+    {
+     "surface": "veśyāsu",
+     "gloss": "among-prostitutes",
+     "grounds": "category of women",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "kṛṣṇāsu",
+     "gloss": "among-kṛṣṇā-women",
+     "grounds": "category of women; exact referent uncertain",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vṛṣalīsu",
+     "gloss": "among-vṛṣalī-women",
+     "grounds": "category of women",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "nadīṣu",
+     "gloss": "among-rivers",
+     "grounds": "bodies of water",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which groups and domains are included in the enumerated contexts of offense?",
+   "premises": [
+    "Several categories of women are listed",
+    "Rivers are also listed",
+    "These appear as contexts in the enumeration"
+   ],
+   "inference": "The enumeration includes various categories of women and rivers as contexts of offense.",
+   "uncertainties": [
+    "The precise meaning of kṛṣṇāsu in this list is uncertain."
+   ],
+   "plain_english": "Among slave women, prostitutes, kṛṣṇā women, vṛṣalī women, and among rivers."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "māṃsa",
+     "gloss": "meat",
+     "grounds": "animal flesh; compound member",
+     "morph": "n.stem, compound-member"
+    },
+    {
+     "surface": "carma",
+     "gloss": "skin",
+     "grounds": "hide; compound member",
+     "morph": "n.stem, compound-member"
+    },
+    {
+     "surface": "rasa",
+     "gloss": "juice",
+     "grounds": "liquid extract; compound member",
+     "morph": "m.stem, compound-member"
+    },
+    {
+     "surface": "ādīnāṃ",
+     "gloss": "and-so-forth",
+     "grounds": "and similar items",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "lavaṇasya",
+     "gloss": "of-salt",
+     "grounds": "salt",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikrayam",
+     "gloss": "selling",
+     "grounds": "act of sale",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kinds of selling are included in the list of transgressions?",
+   "premises": [
+    "Meat, skin, juice, and similar items are mentioned",
+    "Salt is mentioned",
+    "Selling is the governing action"
+   ],
+   "inference": "Selling meat, skin, juices, salt, and similar items is included among the transgressions.",
+   "uncertainties": [],
+   "plain_english": "The selling of meat, skin, juices, and so forth, and of salt."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "at once; sandhi form of sadyaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyanti",
+     "gloss": "are-destroyed",
+     "grounds": "perish or are nullified",
+     "morph": "3.pl.present-active √naś"
+    },
+    {
+     "surface": "tridaṇḍasya",
+     "gloss": "of-triple-staff",
+     "grounds": "triple-staff mark or emblem; compound tri+daṇḍa",
+     "morph": "m.gen.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāraṇāt",
+     "gloss": "by-wearing",
+     "grounds": "act of bearing or wearing; sandhi form of dhāraṇāt",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What effect does wearing the triple-staff mark have on the listed sins?",
+   "premises": [
+    "The listed sins are the implied subject",
+    "Wearing the triple-staff mark is the cause",
+    "Destruction of those sins is immediate"
+   ],
+   "inference": "By wearing the triple-staff mark, the listed sins are immediately destroyed.",
+   "uncertainties": [
+    "The term tridaṇḍa may refer to the triple ash mark in this context rather than a physical staff."
+   ],
+   "plain_english": "They are immediately destroyed indeed by the wearing of the triple-staff mark."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "nindāyāḥ",
+     "gloss": "by-slander",
+     "grounds": "act of reviling",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "śivabhaktānāṃ",
+     "gloss": "of-devotees-of-Śiva",
+     "grounds": "devotees of Śiva; compound śiva+bhakta",
+     "morph": "m.gen.pl, compound"
+    },
+    {
+     "surface": "prāyaścittair",
+     "gloss": "by-expiations",
+     "grounds": "ritual atonements; sandhi form of prāyaścittaiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śudhyati",
+     "gloss": "is-purified",
+     "grounds": "becomes cleansed",
+     "morph": "3.sg.present-passive √śudh"
+    }
+   ],
+   "question": "Can expiations purify the sin of slandering devotees of Śiva?",
+   "premises": [
+    "Slander of Śiva's devotees is the offense",
+    "Expiations are considered as remedies",
+    "Purification is explicitly denied"
+   ],
+   "inference": "The sin of slandering devotees of Śiva is not purified by expiations.",
+   "uncertainties": [],
+   "plain_english": "One is not purified by expiations from the slander of the devotees of Śiva."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "devadravyāpaharaṇe",
+     "gloss": "in-stealing-god's-property",
+     "grounds": "theft of divine property; compound deva+dravya+apaharaṇa",
+     "morph": "n.loc.sg, compound"
+    },
+    {
+     "surface": "brahmasvaharaṇena",
+     "gloss": "by-stealing-brahmin's-property",
+     "grounds": "theft of a brahmin's property; compound brahma+sva+haraṇa",
+     "morph": "n.inst.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which thefts involving sacred and brahmin property are named as grave offenses?",
+   "premises": [
+    "Stealing god's property is named",
+    "Stealing a brahmin's property is named",
+    "Both are presented as serious offenses"
+   ],
+   "inference": "Theft of divine property and theft of a brahmin's property are grave offenses.",
+   "uncertainties": [
+    "The syntactic completion of this list continues in the next verse."
+   ],
+   "plain_english": "In stealing the property of the gods, and in stealing the property of a brahmin."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "mahādevi",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address; compound mahā+devī",
+     "morph": "f.voc.sg, compound"
+    },
+    {
+     "surface": "mahābhāge",
+     "gloss": "O-greatly-fortunate-one",
+     "grounds": "vocative address; compound mahā+bhāga",
+     "morph": "f.voc.sg, compound"
+    },
+    {
+     "surface": "brāhmaṇātikrameṇa",
+     "gloss": "by-transgression-against-brahmin",
+     "grounds": "offense against a brahmin; compound brāhmaṇa+atikrama",
+     "morph": "m.inst.sg, compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional transgression against brahmins is added to the list of grave offenses?",
+   "premises": [
+    "The great goddess is addressed",
+    "Transgression against a brahmin is named",
+    "This continues the list of grave offenses"
+   ],
+   "inference": "Transgression against a brahmin is included among the grave offenses.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, O greatly fortunate one, and by transgression against a brahmin."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "rudrākṣaṃ",
+     "gloss": "rudrākṣa",
+     "grounds": "sacred seed worn on the body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "deheṣu",
+     "gloss": "on-body",
+     "grounds": "on the body parts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "lalāṭeṣu",
+     "gloss": "on-forehead",
+     "grounds": "on the forehead",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tripuṇḍrakam",
+     "gloss": "triple-mark",
+     "grounds": "three ash marks; compound tri+puṇḍraka",
+     "morph": "n.nom.sg, compound"
+    }
+   ],
+   "question": "What bodily signs mark the person whose sanctity is being praised?",
+   "premises": [
+    "Rudrākṣa is present on the body",
+    "The triple mark is present on the forehead",
+    "These signs belong to a particular person"
+   ],
+   "inference": "The person marked by rudrākṣa on the body and the triple mark on the forehead is distinguished.",
+   "uncertainties": [
+    "The main predicate describing this person is completed in the next verse."
+   ],
+   "plain_english": "He on whose body there is rudrākṣa and on whose forehead the triple mark."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "yāni",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to holy places",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tīrthāni",
+     "gloss": "holy-places",
+     "grounds": "sacred pilgrimage sites",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "loke'smin",
+     "gloss": "in-this-world",
+     "grounds": "in this world; fused sandhi loke+asmin",
+     "morph": "m.loc.sg, compound"
+    },
+    {
+     "surface": "gaṅgādyāḥ",
+     "gloss": "Gaṅgā-and-others",
+     "grounds": "Gaṅgā and other rivers; compound gaṅgā+ādi",
+     "morph": "f.nom.pl, compound"
+    },
+    {
+     "surface": "saritaś",
+     "gloss": "rivers",
+     "grounds": "flowing waters; sandhi form of saritaḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to rivers",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which holy places and rivers in this world are invoked as present with that marked person?",
+   "premises": [
+    "Holy places in this world are invoked",
+    "Gaṅgā and other rivers are invoked",
+    "These are associated with the previously described person"
+   ],
+   "inference": "All holy places and rivers such as the Gaṅgā are present with the person bearing those sacred marks.",
+   "uncertainties": [
+    "The explicit predicate equating these holy places with the person is implied but not fully stated in this verse."
+   ],
+   "plain_english": "Whatever holy places there are in this world, and whatever rivers such as the Gaṅgā."
+  }
+ ]
+}

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p12",
  "verse": 291,
- "question": "What preparatory purification is required for the ritual pavilion?",
+ "question": "Which goods are listed in connection with prohibited transactions?",
  "premises": [
-  "The pavilion is the site of ritual activity.",
-  "Purification is required before proceeding."
+  "Cows and deer are mentioned",
+  "Gold, sesame, woolen blankets, and garments are mentioned",
+  "These items appear in an enumerative list"
  ],
- "inference": "One should purify the pavilion.",
- "uncertainties": [],
- "plain_english": "And one should purify the pavilion."
+ "inference": "Various animals and commodities are listed as items involved in the enumerated offenses.",
+ "uncertainties": [
+  "The governing action vikrayam appears in verse 293 and applies to this list."
+ ],
+ "plain_english": "Of cows and deer, of gold, of sesame, woolen blankets, and garments."
 }
