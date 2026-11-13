@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p90-v2226
-[coral+filled](vidrumākulito) [place](deśo) [gaṇeśa's+very+beloved](gaṇeśasyātivallabhaḥ)
+[coral-filled](vidrumākulito) [place](deśo) [of-gaṇeśa](gaṇeśasya) [very-dear](ativallabhaḥ)
 
 ## mukta-m0-p90-v2227
-[wheat+dūrvā+fields](godhūmadūrvākṣetrāṇi) [stone](śilā) [of+sun](bhānumataḥ) [dear](priyā)
+[wheat](godhūma) [and-dūrvā-grass](dūrvā) [fields](kṣetrāṇi) [stone](śilā) [of-the-sun](bhānumataḥ) [dear](priyā)
 
 ## mukta-m0-p90-v2228
-[two+brāhmaṇas+village](śrotriyayuggrāme) [hari's+joy+vedic+near](harermudvaidikāntike)
+[in-a-village-of-vedic-scholars](śrotriya+yug+grāme) [of-viṣṇu](hareḥ) [joy](mud) [near-the-vedic](vaidika+antike)
 
 ## mukta-m0-p90-v2229
-[banyan+near+junction](vaṭasyārātsaṅgame) [forest](vipine) [lake](hrade)
+[of-a-banyan-tree](vaṭasya) [near](ārāt) [at-a-confluence](saṅgame) [in-a-forest](vipine) [in-a-pool](hrade)
 
 ## mukta-m0-p90-v2230
-[of+śakti](śakteḥ) [joy+and](prītiśca) [secluded](nirjane)
+[of-śakti](śakteḥ) [delight](prītiḥ) [and](ca) [in-a-solitary-place](nirjane)
 
 ## mukta-m0-p90-v2231
-[dry+river](śuṣkanadyāṃ) [and](ca) [rejoice](modante) [minor+deities](kṣudradevatāḥ)
+[in-a-dry-river](śuṣka+nadyāṃ) [and](ca) [rejoice](modante) [minor-deities](kṣudra+devatāḥ)
 
 ## mukta-m0-p90-v2232
-[corpse+scattered](śavākīrṇe) [place](sthāne) [are+pleased](tuṣyanti) [left-handed](vāmakāḥ)
+[with-corpses-scattered](śava+ākīrṇe) [in-a-place](sthāne) [are-pleased](tuṣyanti) [left-hand-practitioners](vāmakāḥ)
 
 ## mukta-m0-p90-v2233
-[temple](devālaye) [may+be](syādvaidikodhikaḥ) [vedic+superior](vaidikodhikaḥ)
+[in-a-temple](deva+ālaye) [should-be](syāt) [vedic](vaidikaḥ) [superior](adhikaḥ)
 
 ## mukta-m0-p90-v2234
-[śūdras+and](śūdrāśca) [success](siddhistatra) [there](tatra) [but](tu) [vedic](vaidikī)
+[śūdras](śūdrāḥ) [and](ca) [success](siddhiḥ) [there](tatra) [indeed](tu) [vedic](vaidikī)
 
 ## mukta-m0-p90-v2235
-[young+women+and](yuvatyaśca) [not](na) [are+present](vartante) [there](tatra) [success](siddhiradūrataḥ) [not+far](adūrataḥ)
+[young-women](yuvatyaḥ) [and](ca) [not](na) [are-present](vartante) [there](tatra) [success](siddhiḥ) [not-far](adūrataḥ)
 
 ## mukta-m0-p90-v2236
-[earth+hole+etc](bhūchidrādiṣu) [not](no) [should+dwell](vaset)
+[in-earth-fissures](bhū+chidra) [and-so-forth](ādiṣu) [not](no) [one-should-dwell](vaset)
 
 ## mukta-m0-p90-v2237
-[having+worshipped](sampūjya) [earth's+son](bhūsutasya) [by+strength](balena) [and](ca)
+[having-worshipped](sampūjya) [of-the-son-of-earth](bhūsutasya) [with-strength](balena) [and](ca)
 
 ## mukta-m0-p90-v2238
-[earth](bhūmirmantroyaṃ) [mantra+this](mantroyaṃ) [may+succeed](siddhyatāmiti) [thus](iti)
+[earth](bhūmiḥ) [mantra](mantraḥ) [this](ayam) [may-it-succeed](siddhyatām) [thus](iti)
 
 ## mukta-m0-p90-v2239
-[span+measured+round](vitastipramitānvṛttāngṛhṇīyātkīlakāndaśa) [should+take](gṛhṇīyāt) [pegs+ten](kīlakāndaśa)
+[of-a-span-measure](vitasti+pramitān) [round](vṛttān) [one-should-take](gṛhṇīyāt) [pegs](kīlakān) [ten](daśa)
 
 ## mukta-m0-p90-v2240
-[west+southwest+between](paścānnair-ṛtyayormadhye) [yantra](yantramastreṇa) [by+weapon](astreṇa) [should+peg](kīlayet)
+[then](paścāt) [of-southwest-and-west](nairṛtya+ayor) [in-the-middle](madhye) [diagram](yantram) [with-the-weapon-mantra](astreṇa) [one-should-fix](kīlayet)
 
 ## mukta-m0-p90-v2241
-[pegged](kīlite) [mantra-practitioner](mantrī) [not](na) [by+obstacles](vighnaiḥ) [is+overcome](paribhūyate)
+[when-fixed](kīlite) [the-practitioner](mantrī) [not](na) [by-obstacles](vighnaiḥ) [is-overcome](paribhūyate)
 
 ## mukta-m0-p90-v2242
-[field+protector](kṣetrapālaṃ) [should+worship+and](pūjayecca) [gaṇeśa+lord](gaṇeśvaram)
+[the-lord-of-the-field](kṣetra+pālaṃ) [one-should-worship](pūjayet) [and](ca) [lord-of-the-gaṇas](gaṇeśvaram)
 
 ## mukta-m0-p90-v2243
-[having+resorted](samāśritya) [tortoise+circle](kūrmacakraṃ) [should+examine](vicārayet)
+[having-resorted-to](samāśritya) [tortoise-diagram](kūrma+cakraṃ) [one-should-examine](vicārayet)
 
 ## mukta-m0-p90-v2244
-[foreign+land+village+house+distinction](paradeśagrāmagṛhabhedātkūrmaścaturvidhaḥ) [tortoise](kūrmaścaturvidhaḥ) [fourfold](caturvidhaḥ)
+[by-difference-of-foreign-land-village-house](para+deśa+grāma+gṛha+bhedāt) [tortoise](kūrmaḥ) [fourfold](caturvidhaḥ)
 
 ## mukta-m0-p90-v2245
-[to+be+drawn](lekhyāḥ) [east+direction+etc](pūrvāśādiṣu) [marks+two](lakṣakau)
+[should-be-drawn](lekhyāḥ) [in-east-and-so-forth](pūrvāśa+ādiṣu) [the-two-marks](lakṣakau)
 
 ## mukta-m0-p90-v2246
-[from+east](pūrvato) [to+be+drawn](lekhyāḥ) [śrī+seed](śrībījaṃ) [middle+cell](madhyakoṣṭhake)
+[from-the-east](pūrvataḥ) [should-be-drawn](lekhyāḥ) [śrī-seed-syllable](śrī+bījaṃ) [in-the-middle-cell](madhya+koṣṭhake)
 
 ## mukta-m0-p90-v2247
-[letter](varṇo) [in+which](yasyāṃ) [direction](diśi) [situated](vyavasthitaḥ)
+[letter](varṇo) [in-whichever](yasyāṃ) [direction](diśi) [is-situated](vyavasthitaḥ)
 
 ## mukta-m0-p90-v2248
-[to+be+known](vijñeyaṃ) [from+vowel](svarādvyañjanatastathā) [from+consonant](vyañjanatastathā) [and](tathā)
+[should-be-known](vijñeyaṃ) [from-vowel](svarāt) [from-consonant](vyañjanataḥ) [likewise](tathā)
 
 ## mukta-m0-p90-v2249
-[of+face](mukhasya) [sides](pārśvayoḥ) [hands](pāṇī) [belly](kukṣī) [feet](pādau) [then+then](tatastataḥ)
+[of-the-face](mukhasya) [on-the-two-sides](pārśvayoḥ) [the-two-hands](pāṇī) [the-two-flanks](kukṣī) [the-two-feet](pādau) [then](tataḥ) [there](tataḥ)
 
 ## mukta-m0-p90-v2250
-[life+loss](jīvanāśo) [in+enmity](vaire) [may+be](syāddhananāśanam) [wealth+destruction](hananāśanam)
+[loss-of-life](jīva+nāśo) [in-enmity](vaire) [would-be](syāt) [loss-of-wealth](dhana+nāśanam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[vāstu-homa](vāstuhomaṃ) [without](vinā) [where](yatra) [done](kṛtaṃ) [vāstu](vāstu) [perishes](vinaśyati)
+[site-ritual](vāstu+homaṃ) [without](vinā) [where](yatra) [done](kṛtaṃ) [site](vāstu) [is-destroyed](vinaśyati)
 
 ## mukta-m0-p04-v77
-[architect](sthapatiḥ) [fit-for-duty](kṛtyayogyaḥ) [let-be](syāt) [installer](sthāpako) [mantra-capable](mantrayogyakaḥ)
+[architect](sthapatiḥ) [ritual-action+fit](kṛtya+yogyaḥ) [should-be](syāt) [installer](sthāpakaḥ) [mantra+fit](mantra+yogyakaḥ)
 
 ## mukta-m0-p04-v78
-[thus](ityaṃśumatkāśyape) [chapter](karṣaṇavidhipaṭalaḥ) [first](prathamaḥ)
+[thus](iti) [in-aṃśumat+kāśyapa](aṃśumat+kāśyape) [ploughing+rule+chapter](karṣaṇa+vidhi+paṭalaḥ) [first](prathamaḥ)
 
 ## mukta-m0-p04-v79
-[of-palace](prāsādasya) [in-spacious](viśāle) [tu](tu) [nine-parts](navabhāga) [divided](vibhājite)
+[of-temple](prāsādasya) [in-breadth](viśāle) [indeed](tu) [nine+part](nava+bhāga) [divided](vibhājite)
 
 ## mukta-m0-p04-v80
-[thus](evaṃ) [nine-nine-parts](navanavāṃśe) [tu](tu) [brahmā](brahmā) [middle](madhye) [nine-part-enjoyer](navāṃśabhuk)
+[thus](evaṃ) [nine+nine+part](nava+nava+aṃśe) [indeed](tu) [brahmā](brahmā) [in-middle](madhye) [nine+part+enjoyer](nava+aṃśa+bhuk)
 
 ## mukta-m0-p04-v81
-[mitra](mitraḥ) [west-part](paścimabhāge) [tu](tu) [north](uttare) [earth-holder](pṛthivīdharaḥ)
+[mitra](mitraḥ) [in-western+part](paścima+bhāge) [indeed](tu) [in-north](uttare) [pṛthivīdhara](pṛthivīdharaḥ)
 
 ## mukta-m0-p04-v82
-[waters](āpaścaivāpavatsaśca) [tvaiśānyāṃ](tvaiśānyāṃ) [direction](diśi) [situated](saṃsthitau)
+[āpa](āpaḥ) [and](ca) [eva](eva) [āpavatsa](āpavatsaḥ) [and](ca) [in-northeast+direction](tvaiśānyāṃ+diśi) [situated](saṃsthitau)
 
 ## mukta-m0-p04-v83
-[indra](indra) [indra-jaya](indrajayaścaiva) [nairṛtyāṃ](nair-ṛtyāṃ) [direction](diśi) [situated](saṃsthitau)
+[indra](indra) [indrajaya](indrajayaḥ) [and](ca) [eva](eva) [in-southwest+direction](nair-ṛtyāṃ+diśi) [situated](saṃsthitau)
 
 ## mukta-m0-p04-v84
-[these](ete) [two-foot-enjoyers](dvipadabhoktāra) [half-half-two](ardhamardhadvayaṃ) [tathā](tathā)
+[these](ete) [two+part+enjoyers](dvi+pada+bhoktāra) [half](ardham) [half+two](ardha+dvayaṃ) [likewise](tathā)
 
 ## mukta-m0-p04-v85
-[āditya](ādityassatyakaścaiva) [bhraṃśa](bhraṃśaścaivāntarikṣakaḥ)
+[āditya](ādityaḥ) [satyaka](satyakaḥ) [and](ca) [eva](eva) [bhraṃśa](bhraṃśaḥ) [and](ca) [eva](eva) [antarikṣaka](antarikṣakaḥ)
 
 ## mukta-m0-p04-v86
-[gandharva](gandharvo) [bhṛṃgarāja](bhṛṃgarājaśca) [mṛga](mṛgaścaiva) [tu](tu) [south](dakṣiṇe)
+[gandharva](gandharvo) [bhṛṅgarāja](bhṛṃgarājaḥ) [and](ca) [mṛga](mṛgaḥ) [and](ca) [eva](eva) [indeed](tu) [in-south](dakṣiṇe)
 
 ## mukta-m0-p04-v87
-[varuṇa](varuṇaḥ) [śoṣa-roga](śoṣarogau) [ca](ca) [pāpayakṣmā](pāpayakṣmā) [ca](ca) [west](paścime)
+[varuṇa](varuṇaḥ) [śoṣa+roga](śoṣa+rogau) [and](ca) [pāpa+yakṣmā](pāpa+yakṣmā) [and](ca) [in-west](paścime)
 
 ## mukta-m0-p04-v88
-[ṛgādi-tid-yuti](ṛgāditidyutiścaiva) [outside](bāhye) [tu](tvekāṃśabhāginaḥ) [one-part-sharers](ekāṃśabhāginaḥ)
+[ṛga+ādi+dyuti](ṛga+ādi+tidyutiḥ) [and](ca) [eva](eva) [on-outside](bāhye) [indeed](tu) [one+part+sharers](eka+aṃśa+bhāginaḥ)
 
 ## mukta-m0-p04-v89
-[īśānādi](īśānādiṣu) [corners](koṇeṣu) [outside-dwellers](bāhyasthāḥ) [pad-varjita](padavarjitāḥ)
+[in-īśāna+etc.](īśānā+diṣu) [in-corners](koṇeṣu) [outside+situated](bāhya+sthāḥ) [part+deprived](pada+varjitāḥ)
 
 ## mukta-m0-p04-v90
-[vijṛmbha](vijṛmbho) [balipiṃcha](balipiṃchaśca) [pūrvavat](pūrvavat) [pad-varjita](padavarjitāḥ)
+[vijṛmbha](vijṛmbho) [balipiñcha](balipiṃchaḥ) [and](ca) [as-before](pūrva+vat) [part+deprived](pada+varjitāḥ)
 
 ## mukta-m0-p04-v91
-[twenty-threads](viṃśatsūtraistu) [te](te) [all](sarve) [bound](badhvā) [vai](vai) [vāstu-mūrti-names](vāstumūrtinām)
+[with-twenty+sūtras](viṃśat+sūtraiḥ) [indeed](tu) [they](te) [all](sarve) [having-bound](badvā) [indeed](vai) [of-vāstu+forms](vāstu+mūrtinām)
 
 ## mukta-m0-p04-v92
-[vāstu-mūrti](vāstumūrtiḥ) [how](kathaṃ) [deva](deva) [bound](badhvā) [him](taṃ) [lay](śāyayet) [how](katham)
+[vāstu+form](vāstu+mūrtiḥ) [how](kathaṃ) [o-god](deva) [having-bound](badvā) [him](taṃ) [should-one-lay-down](śāyayet) [how](katham)
 
 ## mukta-m0-p04-v93
-[asuras](asurāṇāṃ) [for-benefit](hitārthāya) [śukra](śukraḥ) [pratyādihattapaḥ](pratyādihattapaḥ)
+[of-asuras](asurāṇāṃ) [for-benefit](hita+arthāya) [śukra](śukraḥ) [performed](pratyādihat) [austerity](tapaḥ)
 
 ## mukta-m0-p04-v94
-[unawakened](aprabuddhistu) [him](taṃ) [being](bhūtaṃ) [gods](devairyuddhaṃ) [war](pravartate)
+[unawakened](aprabuddhiḥ) [indeed](tu) [that](taṃ) [being](bhūtaṃ) [by-gods](devaiḥ) [battle](yuddhaṃ) [takes-place](pravartate)
 
 ## mukta-m0-p04-v95
-[all-gods](sarvadevāśca) [him](taṃ) [being](bhūtaṃ) [sleep](śayanaṃ) [tu](tu) [hyadhomukham](hyadhomukham)
+[all+gods](sarva+devāḥ) [and](ca) [that](taṃ) [being](bhūtaṃ) [lying-down](śayanaṃ) [indeed](tu) [face+downward](adhi+omukham)
 
 ## mukta-m0-p04-v96
-[completed](samāpa) [vāstu-puruṣa](vāstu+puruṣo) [vāstu-mūrti](vāstumūrtiṃ) [him](tam) [called](ucyate)
+[obtained](samāpa) [vāstu+person](vāstu+puruṣo) [vāstu+form](vāstu+mūrtiṃ) [that](tam) [is-called](ucyate)
 
 ## mukta-m0-p04-v97
-[where](yatra) [whatever](yadvāstu) [vāstu-arrangement](vinyāsaṃ) [that-all](tatsarvaṃ) [vāstu-mūrti-possessing](vāstumūrtimān)
+[where](yatra) [which](yat) [vāstu+arrangement](vāstu+vinyāsaṃ) [that](tat) [all](sarvaṃ) [vāstu+form+possessing](vāstu+mūrti+mān)
 
 ## mukta-m0-p04-v98
-[all](sarva) [prosperity-causing](ṛddhikarārthaṃ) [tu](tu) [vāstu-homa-bali](vāstuhomabaliṃ) [do](kuru)
+[all+prosperity+making+purpose](sarva+ṛddhi+kara+arthaṃ) [indeed](tu) [vāstu+oblation+offering](vāstu+homa+baliṃ) [one-should-do](kuru)
 
 ## mukta-m0-p04-v99
-[their](tāsāṃ) [satisfaction](tṛptiṃ) [done](kṛte) [vāstu-puruṣa](vāstu+puruṣācca) [not](na) [harmed](bādhyate)
+[of-them](tāsāṃ) [satisfaction](tṛptiṃ) [when-done](kṛte) [vāstu+person](vāstu+puruṣāt) [and](ca) [not](na) [is-harmed](bādhyate)
 
 ## mukta-m0-p04-v100
-[vāstu-homa](vāstuhomaśca) [to-be-done](kartavyo) [brahmā-etc](brahmādīnāṃ) [own-names](svanāmataḥ)
+[vāstu+oblation](vāstu+homaḥ) [and](ca) [to-be-done](kartavyo) [of-brahmā+etc.](brahma+ādīnāṃ) [by-own+name](sva+nāmataḥ)

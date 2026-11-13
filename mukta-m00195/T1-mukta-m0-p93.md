@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p93-v2301
-[in-arm](bāhau) [from-wearing](dhāraṇāt) [in-battle](samare) [victory](jayaḥ)
+[on-arm](bāhau) [from-wearing](dhāraṇāt) [in-battle](samare) [victory](jayaḥ)
 
 ## mukta-m0-p93-v2302
-[sarpa+viṣa+death](sarpaviṣamṛtyuḥ) [not](na) [arises](jāyate)
+[snake+poison+death](sarpaviṣamṛtyur) [not](na) [arises](jāyate)
 
 ## mukta-m0-p93-v2303
-[from-that-japa](tajjapāt) [all](sarve) [desire+anger+etc+enemies](kāmakrodhādiśatravaḥ)
+[by-its+chanting](tajjapāt) [all](sarve) [desire+anger+etc.](kāmakrodhādi) [enemies](śatravaḥ)
 
 ## mukta-m0-p93-v2304
-[are-pleased](prasīdanti) [left-arm](vāmabāhau) [standing+gha-killer](sthitoghahā)
+[become-pleased](prasīdanti) [on-left+arm](vāmabāhau) [situated](sthitaḥ) [sin-destroying](aghahā)
 
 ## mukta-m0-p93-v2305
-[piśāca+graha+vetāla+brahma+rākṣasa+snake](piśācagrahavetālabrahmarākṣasapannagāḥ)
+[goblins](piśāca) [seizers](graha) [vampires](vetāla) [brahman-demons](brahmarākṣasa) [serpents](pannagāḥ)
 
 ## mukta-m0-p93-v2306
-[horse-sacrifice+etc+sacrifices](hayamedhādiyajñānāṃ) [fruit-share+becomes](phalabhāgbhavet)
+[horse-sacrifice+etc.](hayamedhādi) [of-sacrifices](yajñānāṃ) [fruit+sharer](phalabhāg) [becomes](bhavet)
 
 ## mukta-m0-p93-v2307
-[majestic](pratāpī) [ca](ca) [gomedha-fruit-share+becomes](gomedhaphalabhāgbhavet)
+[majestic](pratāpī) [and](ca) [cow-sacrifice+fruit+sharer](gomedhaphalabhāg) [becomes](bhavet)
 
 ## mukta-m0-p93-v2308
-[worn](dhṛto) [gives](dadyāt) [ancestors](pitṝṇām) [imperishable+path](akṣayāṅgatim)
+[worn](dhṛtaḥ) [would-give](dadyāt) [to-ancestors](pitṝṇām) [imperishable+state](akṣayāṅgatim)
 
 ## mukta-m0-p93-v2309
-[by-gods+men](devamanujaiḥ) [imperishable](akṣayāṃ) [obtains](labhate) [path](gatim)
+[by-gods+and-men](devamanujaiḥ) [imperishable](akṣayāṃ) [obtains](labhate) [state](gatim)
 
 ## mukta-m0-p93-v2310
-[golden-colored](kāñcanavarṇāyāḥ) [and](ca) [eva](eva) [white](śvetāyāḥ) [cow-dung](gomayam)
+[of-golden+colored](kāñcanavarṇāyāḥ) [of-white](śvetāyāḥ) [and+also](ca+eva) [cow-dung](gomayam)
 
 ## mukta-m0-p93-v2311
-[black-colored](kṛṣṇavarṇāyāḥ) [thus](evaṃ) [five+nectars](pañcāmṛte) [also](api) [ca](ca)
+[of-black+colored](kṛṣṇavarṇāyāḥ) [thus](evaṃ) [in-five+nectars](pañcāmṛte) [also](api) [and](ca)
 
 ## mukta-m0-p93-v2312
-[color+division](varṇavibhāgena) [five+cow-products](pañcagavyāni) [ca](ca) [brings](āharet)
+[by-color+division](varṇavibhāgena) [five-products-of-cow](pañcagavyāni) [and](ca) [should-collect](āharet)
 
 ## mukta-m0-p93-v2313
-[cow-dung+double](gośakṛddviguṇaṃ) [urine](mūtraṃ) [ghee+gives+fourfold](sarpirdadyāccaturguṇam)
+[cow-dung](gośakṛd) [double](dviguṇaṃ) [urine](mūtraṃ) [ghee](sarpiḥ) [should-give](dadyāt) [fourfold](caturguṇam)
 
 ## mukta-m0-p93-v2314
-[for-glory](yaśase) [sprinkles](abhiṣiñcāmi) [tvā](tvā) [kuśa-water](kuśodakam)
+[for-fame](yaśase) [I-sprinkle](abhiṣiñcāmi) [you](tvā) [kuśa+water](kuśodakam)
 
 ## mukta-m0-p93-v2315
-[gharṣayet](gharṣayet)
+[should-rub](gharṣayet)
 
 ## mukta-m0-p93-v2316
-[anoints](lepayet) [sandal+etc](candanādibhiḥ)
+[should-smear](lepayet) [with-sandalwood+etc.](candanādibhiḥ)
 
 ## mukta-m0-p93-v2317
-[lotus-shaped](padmākāreṇa) [ninth](navamiḥ) [placed](sthāpite) [there](tatra) [arranges](vinyaset)
+[in-lotus+form](padmākāreṇa) [vessel](navamiḥ) [placed](sthāpite) [there](tatra) [should-place](vinyaset)
 
 ## mukta-m0-p93-v2318
-[hrīṃ+preceded](hrīṃpūrvaiḥ) [mātṛkā-letters](mātṛkārṇaiḥ) [in-order](kramāt) [one-by-one](ekaikaśo) [gem](maṇim)
+[with-hrīṃ+preceded](hrīṃpūrvaiḥ) [with-mātṛkā+syllables](mātṛkārṇaiḥ) [in-order](kramāt) [one-by-one](ekaikaśaḥ) [bead](maṇim)
 
 ## mukta-m0-p93-v2319
-[pure+ghee+or](kevalājyairvā) [sadyojāta+etc](sadyojātādibhiḥ) [separately](pṛthak)
+[with-ghee+alone](kevalājyaiḥ) [or](vā) [with-sadyojāta+etc.](sadyojātādibhiḥ) [separately](pṛthak)
 
 ## mukta-m0-p93-v2320
-[homa+absence](homābhāve) [japa](japaḥ) [declared](proktaḥ) [strings](protayet) [garland](mālikāṃ) [then](tataḥ)
+[in-absence+of-oblation](homābhāve) [chanting](japaḥ) [is-prescribed](proktaḥ) [should-string](protayet) [rosary](mālikāṃ) [then](tataḥ)
 
 ## mukta-m0-p93-v2321
-[sadyojāta+etc+mantras](sadyojātādibhirmantraiḥ) [as-before](pūrvavat) [washing+etc](kṣālanādikam)
+[with-sadyojāta+etc.](sadyojātādibhiḥ) [with-mantras](mantraiḥ) [as-before](pūrvavat) [washing+etc.](kṣālanādikam)
 
 ## mukta-m0-p93-v2322
-[thirty-six+thirty-two+bead-garland](ṣaṭtriṃśaddvātriṃśatkaṇṭhamālikā)
+[thirty-six](ṣaṭtriṃśat) [or-thirty-two](dvātriṃśat) [neck+rosary](kaṇṭhamālikā)
 
 ## mukta-m0-p93-v2323
-[hundred-eight+plus](aṣṭottaraśataiḥ) [yuktam](yuktam) [upavītaṃ](upavītaṃ) [prescribed](vidhīyate)
+[with-one-hundred-and-eight](aṣṭottaraśataiḥ) [endowed](yuktam) [sacred-thread](upavītaṃ) [is-prescribed](vidhīyate)
 
 ## mukta-m0-p93-v2324
-[six+number](ṣaṭsaṅkhyā) [wearing-order](dhāraṇakramaḥ) [declared](īritaḥ)
+[six+numbered](ṣaṭsaṅkhyā) [wearing+procedure](dhāraṇakramaḥ) [is-declared](īritaḥ)
 
 ## mukta-m0-p93-v2325
-[wearing](dhārayan) [thus](evaṃ) [at-body-end](dehānte) [he](sa) [śiva](śivo) [becomes](bhavet)
+[wearing](dhārayan) [thus](evaṃ) [at-body+end](dehānte) [he](saḥ) [Śiva](śivaḥ) [becomes](bhavet)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p88-v2176
-[gloss](bādhasvaducchanām) [gloss](bādhasva) [gloss](aducchanām) [gloss](pada)
+[repelling](bādhasva) [shining-one](ducchanām)
 
 ## mukta-m0-p88-v2177
-[gloss](dadhatyoṣagūṃ) [gloss](rayiṃ) [gloss](mayi) [gloss](pada)
+[granting](dadhati) [dawn](uṣā) [wealth](rayiṃ) [in-me](mayi)
 
 ## mukta-m0-p88-v2178
-[gloss](śarmaṃtesyāmatrivarūtha) [gloss](udbhau) [gloss](pada) [gloss](pada)
+[shelter](śarmaṃ) [of-you](te) [may-we-be](syāma) [triple+protection](tri+varūthe) [in-both](udbhau)
 
 ## mukta-m0-p88-v2179
-[gloss](sapatnān) [gloss](pada) [gloss](pada) [gloss](pada)
+[rivals](sapatnān)
 
 ## mukta-m0-p88-v2180
-[gloss](uṣase) [gloss](nimuce) [gloss](bhavet) [gloss](pada)
+[for-dawn](uṣase) [at-release](nimuce) [may-it-be](bhavet)
 
 ## mukta-m0-p88-v2181
-[gloss](vṛtrahañjahi) [gloss](vasvasmabhyamābhara) [gloss](pada) [gloss](pada)
+[Vṛtra+slayer](vṛtra+han) [strike](jahi) [wealth](vasu) [to-us](asmabhyam) [bring](ābhara)
 
 ## mukta-m0-p88-v2182
-[gloss](kṛtvā) [gloss](tubhyamagne) [gloss](pidadhmasi) [gloss](pada)
+[having-made](kṛtvā) [for-you](tubhyam) [O-Agni](agne) [we-place](pidadhmasi)
 
 ## mukta-m0-p88-v2183
-[gloss](tasmai) [gloss](nimruk) [gloss](ca) [gloss](sarvapāpagūṃsamūhatām)
+[to-him](tasmai) [destruction](nimruk) [and](ca) [all+evil+accumulation](sarva+pāpa+gūṃ+samūhatām)
 
 ## mukta-m0-p88-v2184
-[gloss](jātavedase'gnaye) [gloss](ca) [gloss](tatastyāgognaye) [gloss](bhavet)
+[to-Jātavedas](jātavedase) [to-Agni](agnaye) [and](ca) [then](tatas) [offering](tyāgaḥ) [to-Agni](agnaye) [may-be](bhavet)
 
 ## mukta-m0-p88-v2185
-[gloss](prakṣāyato) [gloss](mātasyoccheṣi) [gloss](kiñcana) [gloss](pada)
+[of-burning](prakṣāyataḥ) [of-mother](mātuḥ) [you-leave](uccheṣi) [anything](kiñcana)
 
 ## mukta-m0-p88-v2186
-[gloss](asmāndiśāśca) [gloss](sarvāgūṃ) [gloss](stānmapyapākuru) [gloss](pada)
+[to-us](asmān) [directions](diśāḥ) [and](ca) [all](sarvāḥ) [them](tān) [to-me](ma) [remove](apākuru)
 
 ## mukta-m0-p88-v2187
-[gloss](tathāntime) [gloss](vaiśvānarāya) [gloss](ca) [gloss](pada)
+[likewise](tathā) [to-him](antime) [to-Vaiśvānara](vaiśvānarāya) [and](ca)
 
 ## mukta-m0-p88-v2188
-[gloss](kṣatraṃ) [gloss](me) [gloss](jiṣṇu) [gloss](yasyāhamasmi) [gloss](purohitaḥ)
+[sovereignty](kṣatraṃ) [to-me](me) [victorious](jiṣṇu) [whose](yasya) [I](aham) [am](asmi) [priest](purohitaḥ)
 
 ## mukta-m0-p88-v2189
-[gloss](brahmaṇāmitrānunnuyāmi) [gloss](svāṃ) [gloss](aham) [gloss](pada)
+[by-sacred-formula](brahmaṇā) [enemies](amitrān) [I-drive-away](unnuyāmi) [own](svām) [I](aham)
 
 ## mukta-m0-p88-v2190
-[gloss](punarādhītaṃ) [gloss](ma) [gloss](agāt) [gloss](pada)
+[again+studied](punar+ādhītaṃ) [to-me](me) [has-come](agāt)
 
 ## mukta-m0-p88-v2191
-[gloss](vahniṃstuvīta) [gloss](dvādaśarcabhiḥ) [gloss](pada) [gloss](pada)
+[oblation-bearer](vahniṃ) [one-should-praise](stuvīta) [with-twelve+verses](dvādaśa+ṛcabhiḥ)
 
 ## mukta-m0-p88-v2192
-[gloss](etānpāśānpramuñcanveda) [gloss](sa) [gloss](no) [gloss](muñcatu) [gloss](duritādavadyāt)
+[these](etān) [bonds](pāśān) [releasing](pramuñcan) [he-knows](veda) [he](saḥ) [us](naḥ) [may-release](muñcatu) [from-misfortune](duritāt) [from-blame](avadyāt)
 
 ## mukta-m0-p88-v2193
-[gloss](anājānanmanasā) [gloss](yācamāno) [gloss](yadatraino) [gloss](ava) [gloss](tatsuvāmi)
+[not+knowing](an+ājānan) [with-mind](manasā) [asking](yācamānaḥ) [what](yat) [here](atra) [sin](enaḥ) [away](ava) [that](tat) [I-release](suvāmi)
 
 ## mukta-m0-p88-v2194
-[gloss](yacchatāmetadbaddhakāmocanam) [gloss](pada) [gloss](pada) [gloss](pada)
+[of-six](ṣaṭ) [this](etat) [bound+desire+release](baddha+kāma+mocanam)
 
 ## mukta-m0-p88-v2195
-[gloss](pracyuto) [gloss](garbhaḥ) [gloss](sarvānyatho) [gloss](anuṣva)
+[slipped-forth](pracyutaḥ) [embryo](garbhaḥ) [all](sarvāṇi) [as](yathā) [follow](anuṣva)
 
 ## mukta-m0-p88-v2196
-[gloss](jāyāparīkṣagūṃrabhethāḥ) [gloss](pada) [gloss](pada) [gloss](pada)
+[wife+examination](jāyā+parīkṣāṃ) [you-have-undertaken](rabhethāḥ)
 
 ## mukta-m0-p88-v2197
-[gloss](yāni) [gloss](cakṛma) [gloss](karotu) [gloss](māmanehasam)
+[which](yāni) [we-did](cakṛma) [may-make](karotu) [me](mām) [sinless](anehasam)
 
 ## mukta-m0-p88-v2198
-[gloss](tasmādanṛṇaṃ) [gloss](kṛṇotu) [gloss](pada) [gloss](pada)
+[from-that](tasmāt) [free-from-debt](anṛṇaṃ) [may-make](kṛṇotu)
 
 ## mukta-m0-p88-v2199
-[gloss](kṛṇotu) [gloss](pada) [gloss](pada) [gloss](pada)
+[may-make](kṛṇotu)
 
 ## mukta-m0-p88-v2200
-[gloss](mantreṇa) [gloss](tyāgo) [gloss](vaiśvānarāya) [gloss](ca)
+[by-mantra](mantreṇa) [offering](tyāgaḥ) [to-Vaiśvānara](vaiśvānarāya) [and](ca)
