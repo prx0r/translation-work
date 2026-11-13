@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 3,
- "question": "Which sacred locations are named as contexts for the requested teaching?",
+ "question": "What explanatory task is the author undertaking in the Śivadṛṣṭi treatise?",
  "premises": [
-  "Vārāṇasī is named.",
-  "Kāmarūpa and Kāmākhyā are named.",
-  "Nepāla and Mandara mountain are named."
+  "The author declares a present action.",
+  "The action is performed in the Śivadṛṣṭi treatise.",
+  "The action produces a connection of words."
  ],
- "inference": "The teaching is associated with several renowned sacred sites.",
- "uncertainties": [],
- "plain_english": "In Vārāṇasī, in Kāmarūpa, in Kāmākhyā, in Nepāla, and on Mount Mandara."
+ "inference": "The author is composing a word-by-word connection or commentary on the Śivadṛṣṭi.",
+ "uncertainties": [
+  "padasaṃgati may mean syntactic connection or explanatory commentary."
+ ],
+ "plain_english": "I compose a word-connection in the treatise called Śivadṛṣṭi."
 }
