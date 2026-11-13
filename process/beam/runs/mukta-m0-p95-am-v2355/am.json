@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p95",
  "verse": 2355,
- "question": "Which epithets describe the goddess as gentle, embodying enjoyment, and bestowing enjoyment?",
+ "question": "What actions involving foreign acquisitions and offerings may a king perform?",
  "premises": [
-  "The goddess is gentle.",
-  "She is enjoyment and great enjoyment.",
-  "She is called sister.",
-  "She gives enjoyment."
+  "Something may be acquired from a foreign land.",
+  "A king may act after having made and given an offering.",
+  "The verse presents alternative ritual or political actions."
  ],
- "inference": "The verse portrays the goddess as a gentle source and bestower of enjoyment.",
- "uncertainties": [],
- "plain_english": "She is gentle, enjoyment, great enjoyment, sister, and the giver of enjoyment."
+ "inference": "A king may deal with foreign acquisitions by performing and giving an offering.",
+ "uncertainties": [
+  "The syntactic completion and object of kṛtvā are unclear without the next verse."
+ ],
+ "plain_english": "Or having acquired something from a foreign land, or having made and given an offering, the king—"
 }
