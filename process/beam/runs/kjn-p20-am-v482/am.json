@@ -1,13 +1,14 @@
 {
  "song": "kjn-p20",
  "verse": 482,
- "question": "By what name is the speaker celebrated as Śvetapāda before the goddess?",
+ "question": "Who is sung as Śvetapāda?",
  "premises": [
-  "The speaker declares himself to be Śvetapāda.",
-  "The goddess is addressed directly.",
-  "He is sung of as Śvetapāda."
+  "The speaker is Śvetapāda.",
+  "The speaker is sung as Śvetapāda."
  ],
- "inference": "The speaker is known and celebrated under the name Śvetapāda.",
- "uncertainties": [],
- "plain_english": "O Goddess, I am indeed Śvetapāda, and I am sung of as Śvetapāda."
+ "inference": "The speaker identifies with Śvetapāda.",
+ "uncertainties": [
+  "Passive voice nuance is unclear."
+ ],
+ "plain_english": "I am indeed Śvetapāda, O goddess; thus I am sung as Śvetapāda."
 }

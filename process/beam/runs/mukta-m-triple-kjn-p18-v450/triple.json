@@ -7,51 +7,54 @@
     {
      "surface": "kṣīrādā",
      "gloss": "milk-from",
-     "grounds": "kṣīra + ādā fused",
-     "morph": "compound"
+     "grounds": "legacy hint milk+from; fused sandhi not split",
+     "morph": "(indecl.)"
     },
     {
      "surface": "....",
      "gloss": "ellipsis",
-     "grounds": "source ellipsis",
+     "grounds": "illegible token in source",
      "morph": "(indecl.)"
     },
     {
      "surface": "viplakāraiḥ",
      "gloss": "with-fillings",
-     "grounds": "viplaka + āraiḥ",
-     "morph": "m.instr.pl"
+     "grounds": "legacy hint with-fillings",
+     "morph": "instr.pl.m"
     },
     {
      "surface": "pūrayet",
      "gloss": "should-fill",
-     "grounds": "root pūr optative",
-     "morph": "3.sg.act.opt"
+     "grounds": "legacy hint should-fill",
+     "morph": "3.sg.act.opt. (root pūr)"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "tat + tanu",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint that+body",
+     "morph": "acc.sg.m"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "indeclinable",
+     "grounds": "legacy hint always",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How should one always fill that body with milk and fillings?",
+   "question": "How should the practitioner always fill that body with milk and fillings?",
    "premises": [
-    "Milk is taken from its source.",
-    "Fillings accompany the rite.",
-    "That body should be filled."
+    "kṣīrādā indicates milk as source",
+    "viplakāraiḥ supplies fillings",
+    "pūrayet commands filling",
+    "tattanuṃ names target body",
+    "sadā requires constancy"
    ],
-   "inference": "The practitioner should always fill that body with milk and fillings.",
+   "inference": "The verse instructs constant filling of that body from milk with fillings.",
    "uncertainties": [
-    "The ellipsis token is unresolved in the source."
+    "the second token is illegible in the supplied source",
+    "exact sandhi of kṣīrādā is not expanded"
    ],
-   "plain_english": "From milk ... with fillings one should always fill that body."
+   "plain_english": "From milk, with fillings, one should always fill that body."
   }
  ]
 }

@@ -7,58 +7,57 @@
     {
      "surface": "kathitaṃ",
      "gloss": "told",
-     "grounds": "kathita past participle of kath 'tell'",
-     "morph": "participle.nom.sg.n"
+     "grounds": "past passive participle of kath, neuter singular",
+     "morph": "verb.3.sg.passive-participle"
     },
     {
      "surface": "melakaṃ",
      "gloss": "union-place",
-     "grounds": "melaka 'union/meeting'",
-     "morph": "noun.acc.sg.n"
+     "grounds": "neuter singular accusative of melaka",
+     "morph": "noun.m.acc.sg"
     },
     {
      "surface": "sthānaṃ",
      "gloss": "abode",
-     "grounds": "sthāna 'place/abode'",
-     "morph": "noun.acc.sg.n"
+     "grounds": "neuter singular accusative of sthana",
+     "morph": "noun.n.acc.sg"
     },
     {
      "surface": "śrutaṃ",
      "gloss": "heard",
-     "grounds": "śruta past participle of śru 'hear'",
-     "morph": "participle.acc.sg.n"
+     "grounds": "past passive participle of shr, neuter singular",
+     "morph": "verb.3.sg.passive-participle"
     },
     {
      "surface": "te",
      "gloss": "by-you",
-     "grounds": "te genitive of tvam 'you'",
-     "morph": "pron.gen.sg.m"
+     "grounds": "second person singular pronoun, dative or genitive",
+     "morph": "pron.2.sg.dat/gen"
     },
     {
      "surface": "ceṣṭitaṃ",
      "gloss": "desired",
-     "grounds": "ceṣṭita past participle of ceṣṭ 'desire/strive'",
-     "morph": "participle.acc.sg.n"
+     "grounds": "past passive participle of cesht, neuter singular",
+     "morph": "verb.3.sg.passive-participle"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "śubha 'auspicious'",
-     "morph": "adj.acc.sg.n"
+     "grounds": "neuter singular accusative of shubha",
+     "morph": "adj.n.acc.sg"
     }
    ],
-   "question": "What auspicious desired union-place abode has been told to you and heard?",
+   "question": "What auspicious melaka sthana has been told and heard by you as desired?",
    "premises": [
-    "kathitaṃ means told to you",
-    "melakaṃ sthānaṃ names union abode",
-    "śrutaṃ te means heard by you",
-    "ceṣṭitaṃ śubham means desired auspicious"
+    "Melaka sthana is told.",
+    "It is heard by you.",
+    "It is desired auspicious."
    ],
-   "inference": "The verse states an auspicious desired union-place abode was told and heard by you.",
+   "inference": "The auspicious melaka sthana is the told and heard desired abode.",
    "uncertainties": [
-    "exact syntactic relation of melakaṃ and sthānaṃ uncertain"
+    "Exact case roles and sandhi are not fully recoverable from the isolated verse."
    ],
-   "plain_english": "The auspicious desired union-place abode has been told and heard by you."
+   "plain_english": "The auspicious union-place abode has been told; it has been heard by you and is desired."
   }
  ]
 }

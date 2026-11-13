@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "rasanā+tālu+mūle",
-   "morph": "loc.sg.n",
-   "grounds": "legacy hint"
+   "morph": "compound=rasanā+tālu+mūla",
+   "grounds": "compound locative"
   },
   {
    "lemma": "kṛtvā",
-   "morph": "abs",
-   "grounds": "legacy hint"
+   "morph": "abs + root kṛ",
+   "grounds": "absolutive"
   },
   {
    "lemma": "vāyuṃ",
-   "morph": "acc.sg.m",
-   "grounds": "legacy hint"
+   "morph": "m.acc.sg",
+   "grounds": "accusative object"
   },
   {
    "lemma": "pibec",
-   "morph": "3.sg.act-opt",
-   "grounds": "legacy hint"
+   "morph": "3.sg.act-opt + root pā",
+   "grounds": "optative"
   },
   {
    "lemma": "chanaiḥ",
-   "morph": "indecl.",
-   "grounds": "legacy hint"
+   "morph": "(indecl.)",
+   "grounds": "adverb"
   }
  ]
 }

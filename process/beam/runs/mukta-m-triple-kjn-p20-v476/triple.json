@@ -7,51 +7,50 @@
     {
      "surface": "abhakṣyā",
      "gloss": "not-to-be-eaten",
-     "grounds": "gerundive of negated eating; object of urging",
-     "morph": "f.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "adj.f.nom.sg"
     },
     {
      "surface": "codyate",
      "gloss": "is-urged",
-     "grounds": "passive verb of prompting or enjoining",
-     "morph": "3.sg.pres.pass-ind √cud"
+     "grounds": "legacy hint",
+     "morph": "3.sg.pass-pres"
     },
     {
      "surface": "nāthe",
      "gloss": "O-lord",
-     "grounds": "vocative address to the lord",
-     "morph": "m.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.m"
     },
     {
      "surface": "anyathā",
      "gloss": "otherwise",
-     "grounds": "adverb indicating an alternative condition",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "na",
      "gloss": "not",
-     "grounds": "negation particle",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "kadācana",
      "gloss": "ever",
-     "grounds": "indefinite temporal adverb reinforcing negation",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Under what condition can the forbidden ever be enjoined by the lord?",
+   "question": "Why is the fisherman declared not to be eaten otherwise?",
    "premises": [
-    "Something not-to-be-eaten is urged.",
-    "The lord is addressed directly.",
-    "No alternative condition ever applies."
+    "The fisherman is not to be eaten.",
+    "Otherwise he would never be urged."
    ],
-   "inference": "The forbidden is enjoined without exception under the lord's authority.",
+   "inference": "The prohibition protects the fisherman from being consumed.",
    "uncertainties": [
-    "The specific referent of abhakṣyā is not stated in this verse."
+    "Context of codyate is unclear."
    ],
-   "plain_english": "O Lord, what is not to be eaten is enjoined, and never otherwise."
+   "plain_english": "The fisherman is not to be eaten; otherwise, he would never be urged."
   },
   {
    "verse": 477,
@@ -59,61 +58,62 @@
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person pronoun as subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "adverb of perpetual time",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "śiva",
      "gloss": "Śiva",
-     "grounds": "divine name in predicate",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "īśaḥ",
      "gloss": "lord",
-     "grounds": "divine title in predicate",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "śrīkaṇṭho",
      "gloss": "Śrīkaṇṭha",
-     "grounds": "divine name in predicate",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "rudra",
      "gloss": "Rudra",
-     "grounds": "divine name in predicate",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking predicates",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which divine identities does the speaker claim as eternally his own?",
+   "question": "Who is identified as always Śiva, lord, Śrīkaṇṭha, and Rudra?",
    "premises": [
-    "The speaker asserts identity with Śiva and Īśa.",
-    "The speaker asserts identity with Śrīkaṇṭha and Rudra.",
-    "This identity is declared as always true."
+    "The speaker is always Śiva.",
+    "The speaker is also lord, Śrīkaṇṭha, and Rudra."
    ],
-   "inference": "The speaker is eternally identical with these supreme divine forms.",
-   "uncertainties": [],
-   "plain_english": "I am always Śiva, the Lord, Śrīkaṇṭha, and indeed Rudra."
+   "inference": "The speaker claims identity with these divine forms.",
+   "uncertainties": [
+    "Exact ritual context is unclear."
+   ],
+   "plain_english": "I am always Śiva, lord, Śrīkaṇṭha, and Rudra indeed."
   },
   {
    "verse": 478,
@@ -121,107 +121,107 @@
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person pronoun as subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "so",
-     "gloss": "that",
-     "grounds": "demonstrative pronoun qualifying the following noun",
-     "morph": "pron.m.nom.sg"
+     "gloss": "he",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "dhīvaro",
      "gloss": "fisherman",
-     "grounds": "predicate noun identifying the speaker",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "devī",
      "gloss": "O-goddess",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "repeated first-person subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "vīreśvaraḥ",
      "gloss": "Vīreśvara",
-     "grounds": "divine name in predicate",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "How does the speaker unite the identities of fisherman and Vīreśvara in himself?",
+   "question": "How can the speaker be both fisherman and Vīreśvara?",
    "premises": [
-    "The speaker identifies himself as that fisherman.",
-    "The speaker identifies himself as Vīreśvara.",
-    "Both identities are asserted to the goddess."
+    "The speaker is the fisherman.",
+    "The speaker is also Vīreśvara."
    ],
-   "inference": "The speaker encompasses both the humble fisherman and the lord Vīreśvara.",
+   "inference": "The speaker identifies with multiple forms.",
    "uncertainties": [
-    "The specific narrative context of the fisherman identity is not given here."
+    "The relation between forms is unclear."
    ],
-   "plain_english": "O Goddess, I am that fisherman; O beloved, I am Vīreśvara."
+   "plain_english": "I am that fisherman, O goddess; I am Vīreśvara, O beloved."
   },
   {
    "verse": 479,
    "rows": [
     {
      "surface": "saṃharāmi",
-     "gloss": "I-withdraw",
-     "grounds": "first-person verb of cosmic dissolution",
-     "morph": "1.sg.pres.act-ind √saṃ-hṛ"
+     "gloss": "I-destroy",
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres"
     },
     {
      "surface": "jagat",
      "gloss": "world",
-     "grounds": "object of withdrawal",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "adjective qualifying the world",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "saṃhāro",
-     "gloss": "withdrawal",
-     "grounds": "predicate noun identifying the speaker with dissolution",
+     "gloss": "destruction",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person subject in predicate clause",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "kuleśvari",
      "gloss": "O-goddess-of-the-kula",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "What role does the speaker claim in the dissolution of the entire world?",
+   "question": "Who destroys the whole world and is called destruction?",
    "premises": [
-    "The speaker withdraws the entire world.",
-    "The speaker declares himself to be dissolution itself.",
-    "This is addressed to the goddess of the kula."
+    "The speaker destroys all the world.",
+    "The speaker is destruction itself."
    ],
-   "inference": "The speaker is both the agent and the essence of cosmic dissolution.",
-   "uncertainties": [],
-   "plain_english": "I withdraw the entire world; O Kuleśvarī, I am dissolution itself."
+   "inference": "Destruction is identified with the speaker.",
+   "uncertainties": [
+    "The kula context is unclear."
+   ],
+   "plain_english": "I destroy all the world; I am destruction, O goddess of the kula."
   },
   {
    "verse": 480,
@@ -229,105 +229,107 @@
     {
      "surface": "vihitaṃ",
      "gloss": "what-is-enjoined",
-     "grounds": "past participle used substantively as object",
-     "morph": "n.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "trāyate",
      "gloss": "protects",
-     "grounds": "verb expressing preservation",
-     "morph": "3.sg.pres.mid-ind √trai"
+     "grounds": "legacy hint",
+     "morph": "3.sg.mid-pres"
     },
     {
      "surface": "nityaṃ",
      "gloss": "always",
-     "grounds": "adverb of perpetual time",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "vidhātā",
-     "gloss": "ordainer",
-     "grounds": "agent noun in predicate",
+     "gloss": "creator",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "kulāgame",
      "gloss": "in-the-kula-tradition",
-     "grounds": "locative indicating doctrinal context",
-     "morph": "m.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     }
    ],
-   "question": "Who perpetually protects what is enjoined within the kula tradition?",
+   "question": "What always protects what is enjoined in the kula tradition?",
    "premises": [
-    "What is enjoined is always protected.",
-    "The speaker identifies himself as the ordainer.",
-    "This occurs in the kula tradition."
+    "What is enjoined always protects.",
+    "The speaker is the creator in the kula tradition."
    ],
-   "inference": "The speaker is the ordainer who perpetually protects the injunctions of the kula tradition.",
-   "uncertainties": [],
-   "plain_english": "What is enjoined always protects; in the kula tradition, I am the ordainer."
+   "inference": "The creator's enjoined order is protective.",
+   "uncertainties": [
+    "Syntax of vihitaṃ trāyate is unclear."
+   ],
+   "plain_english": "What is enjoined always protects; I am the creator in the kula tradition."
   },
   {
    "verse": 481,
    "rows": [
     {
      "surface": "vicitra",
-     "gloss": "wondrous",
-     "grounds": "adjective describing variegation",
-     "morph": "f.nom.sg"
+     "gloss": "of-wondrous",
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
     },
     {
      "surface": "citratā",
      "gloss": "variegation",
-     "grounds": "abstract noun in predicate",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "sṛṣṭir",
      "gloss": "creation",
-     "grounds": "subject noun",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "vicitra",
      "gloss": "wondrous",
-     "grounds": "predicate adjective in quoted characterization",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "adj.m.nom.sg"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotation marker",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "viśrute",
      "gloss": "well-known",
-     "grounds": "locative participle indicating context of renown",
-     "morph": "n.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "adj.f.loc.sg"
     }
    ],
-   "question": "How is the wondrous variegation of creation characterized in common knowledge?",
+   "question": "Why is creation called wondrous variegation?",
    "premises": [
-    "Creation is wondrous variegation.",
-    "Creation is called wondrous.",
-    "This characterization is well known."
+    "Creation is variegation.",
+    "It is well known as wondrous."
    ],
-   "inference": "Creation is widely known as wondrously variegated.",
-   "uncertainties": [],
-   "plain_english": "Creation is wondrous variegation, and it is well known as wondrous."
+   "inference": "Creation is understood as wondrous variegation.",
+   "uncertainties": [
+    "Exact compound structure is unclear."
+   ],
+   "plain_english": "Creation is wondrous variegation, and thus it is well known."
   },
   {
    "verse": 482,
@@ -335,55 +337,56 @@
     {
      "surface": "śvetapādas",
      "gloss": "Śvetapāda",
-     "grounds": "proper name in predicate",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "devi",
      "gloss": "O-goddess",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "śvetapāda",
-     "gloss": "Śvetapāda",
-     "grounds": "name used in quoted designation",
+     "gloss": "as-Śvetapāda",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotation marker",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "gīyate",
-     "gloss": "is-sung",
-     "grounds": "passive verb of being celebrated or named",
-     "morph": "3.sg.pres.pass-ind √gai"
+     "gloss": "I-am-sung",
+     "grounds": "legacy hint",
+     "morph": "1.sg.pass-pres"
     }
    ],
-   "question": "By what name is the speaker celebrated as Śvetapāda before the goddess?",
+   "question": "Who is sung as Śvetapāda?",
    "premises": [
-    "The speaker declares himself to be Śvetapāda.",
-    "The goddess is addressed directly.",
-    "He is sung of as Śvetapāda."
+    "The speaker is Śvetapāda.",
+    "The speaker is sung as Śvetapāda."
    ],
-   "inference": "The speaker is known and celebrated under the name Śvetapāda.",
-   "uncertainties": [],
-   "plain_english": "O Goddess, I am indeed Śvetapāda, and I am sung of as Śvetapāda."
+   "inference": "The speaker identifies with Śvetapāda.",
+   "uncertainties": [
+    "Passive voice nuance is unclear."
+   ],
+   "plain_english": "I am indeed Śvetapāda, O goddess; thus I am sung as Śvetapāda."
   },
   {
    "verse": 483,
@@ -391,113 +394,113 @@
     {
      "surface": "te",
      "gloss": "they",
-     "grounds": "demonstrative pronoun referring to known figures",
-     "morph": "pron.m.nom.pl"
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "viśrute",
      "gloss": "well-known",
-     "grounds": "locative participle indicating context of renown",
-     "morph": "m.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "adj.f.loc.sg"
     },
     {
      "surface": "loke",
      "gloss": "in-the-world",
-     "grounds": "locative of place",
-     "morph": "m.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     },
     {
      "surface": "bhṛṅgapādā",
      "gloss": "Bhṛṅgapāda",
-     "grounds": "proper name in predicate",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "varaprade",
      "gloss": "O-granter-of-boons",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "How does the speaker identify himself with those known as Bhṛṅgapāda in the world?",
+   "question": "Who is well known in the world as Bhṛṅgapāda?",
    "premises": [
-    "They are well known in the world.",
-    "The speaker declares himself to be Bhṛṅgapāda.",
-    "The goddess is addressed as granter of boons."
+    "They and I are well known.",
+    "The speaker is Bhṛṅgapāda in the world."
    ],
-   "inference": "The speaker is identical with the world-renowned Bhṛṅgapāda.",
+   "inference": "The speaker is identified with Bhṛṅgapāda.",
    "uncertainties": [
-    "The referent of te is not explicitly specified in this verse."
+    "Reference of te is unclear."
    ],
-   "plain_english": "O granter of boons, I am also they, well known in the world as Bhṛṅgapāda."
+   "plain_english": "They and I are well known in the world as Bhṛṅgapāda, O granter of boons."
   },
   {
    "verse": 484,
    "rows": [
     {
      "surface": "bhaṭṭapāda",
-     "gloss": "Bhaṭṭapāda",
-     "grounds": "name used in quoted designation",
+     "gloss": "as-Bhaṭṭapāda",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "quotation marker",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "vikhyāto",
      "gloss": "renowned",
-     "grounds": "past participle describing the name",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "nāma",
      "gloss": "name",
-     "grounds": "subject noun",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "idaṃ",
      "gloss": "this",
-     "grounds": "demonstrative pronoun qualifying name",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mama",
      "gloss": "my",
-     "grounds": "possessive pronoun",
-     "morph": "pron.gen.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.gen"
     },
     {
      "surface": "sundari",
      "gloss": "O-beautiful-one",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "What renowned name does the speaker claim as his own before the beautiful goddess?",
+   "question": "What is the renowned name of the speaker?",
    "premises": [
-    "The name Bhaṭṭapāda is renowned.",
-    "This name belongs to the speaker.",
-    "The goddess is addressed directly."
+    "The speaker is renowned as Bhaṭṭapāda.",
+    "This is the speaker's name."
    ],
-   "inference": "The speaker is renowned under the name Bhaṭṭapāda.",
-   "uncertainties": [],
-   "plain_english": "O beautiful one, this renowned name of mine is Bhaṭṭapāda."
+   "inference": "The speaker's renowned name is Bhaṭṭapāda.",
+   "uncertainties": [
+    "Exact name usage is unclear."
+   ],
+   "plain_english": "Thus renowned is this name of mine, Bhaṭṭapāda, O beautiful one."
   },
   {
    "verse": 485,
@@ -505,45 +508,44 @@
     {
      "surface": "rūrūpādaṃ",
      "gloss": "Rūrūpāda",
-     "grounds": "proper name as predicate object of identity",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "mahādevi",
      "gloss": "O-great-goddess",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "rudro",
      "gloss": "Rudra",
-     "grounds": "appositional identification of the speaker",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "drāvaṇapriye",
      "gloss": "O-lover-of-melting",
-     "grounds": "vocative compound addressing the goddess",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "In what form does Rudra identify himself as Rūrūpāda to the great goddess?",
+   "question": "Who is Rudra and Rūrūpāda?",
    "premises": [
-    "The speaker identifies himself as Rudra.",
-    "The speaker claims the identity of Rūrūpāda.",
-    "The great goddess is addressed."
+    "The speaker is Rudra.",
+    "The speaker is Rūrūpāda."
    ],
-   "inference": "Rudra, the speaker, is also Rūrūpāda.",
+   "inference": "The speaker identifies with Rudra and Rūrūpāda.",
    "uncertainties": [
-    "The exact grammatical relation of rūrūpādaṃ is slightly ambiguous in isolation."
+    "Case of rūrūpādaṃ is unclear."
    ],
-   "plain_english": "O great goddess, O lover of melting, I, Rudra, am Rūrūpāda."
+   "plain_english": "Rūrūpāda, O great goddess; I am Rudra, O lover of melting."
   },
   {
    "verse": 486,
@@ -551,57 +553,56 @@
     {
      "surface": "tva",
      "gloss": "your",
-     "grounds": "pronominal element in vocative compound",
-     "morph": "pron.stem"
+     "grounds": "legacy hint",
+     "morph": "2.sg.gen"
     },
     {
      "surface": "umātu",
-     "gloss": "O-mother",
-     "grounds": "vocative address; part of compound expression",
-     "morph": "f.voc.sg"
+     "gloss": "mother",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "mahādevi",
      "gloss": "O-great-goddess",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "tubhyaṃ",
      "gloss": "to-you",
-     "grounds": "dative pronoun indicating relation",
-     "morph": "pron.dat.sg"
+     "grounds": "legacy hint",
+     "morph": "2.sg.dat"
     },
     {
      "surface": "patir",
      "gloss": "husband",
-     "grounds": "predicate noun",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "What intimate relationship does the speaker claim toward the great goddess?",
+   "question": "Who is husband to the goddess and her mother?",
    "premises": [
-    "The speaker addresses the great goddess as beloved.",
-    "The speaker declares himself in relation to her.",
-    "He states he is her husband."
+    "The speaker is husband to you.",
+    "The speaker addresses the great goddess."
    ],
-   "inference": "The speaker claims to be the husband of the great goddess.",
+   "inference": "The speaker claims marital relation to the goddess.",
    "uncertainties": [
-    "The compound-like sequence tva umātu is syntactically compressed."
+    "tva umātu parsing is unclear."
    ],
-   "plain_english": "O mother, O great goddess, O beloved, I am your husband."
+   "plain_english": "Your mother, O great goddess; I am husband to you, O beloved."
   },
   {
    "verse": 487,
@@ -609,51 +610,50 @@
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "temporal adverb",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "avatāritaṃ",
      "gloss": "brought-down",
-     "grounds": "past participle indicating transmission",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tubhyaṃ",
      "gloss": "to-you",
-     "grounds": "dative recipient",
-     "morph": "pron.dat.sg"
+     "grounds": "legacy hint",
+     "morph": "2.sg.dat"
     },
     {
      "surface": "tattvantu",
      "gloss": "that-truth",
-     "grounds": "noun phrase as subject or object of transmission; form compressed",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ṣaṇmukhasya",
      "gloss": "of-the-six-faced-one",
-     "grounds": "possessive relation to the truth or teaching",
+     "grounds": "legacy hint",
      "morph": "m.gen.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What truth of the six-faced one was brought down to the goddess at that time?",
+   "question": "What truth was brought down to you from the six-faced one?",
    "premises": [
-    "Something was brought down at that time.",
-    "It was brought down to the goddess.",
-    "It concerns the truth of the six-faced one."
+    "That truth was brought down to you.",
+    "It concerns the six-faced one."
    ],
-   "inference": "The truth of the six-faced one was transmitted to the goddess then.",
+   "inference": "A truth from the six-faced one was revealed.",
    "uncertainties": [
-    "The form tattvantu is nonstandard and its exact parsing is uncertain."
+    "Exact referent of tattvantu is unclear."
    ],
-   "plain_english": "Then that truth of the six-faced one was brought down to you."
+   "plain_english": "Then that truth was brought down to you, and that of the six-faced one."
   },
   {
    "verse": 488,
@@ -661,51 +661,50 @@
     {
      "surface": "avyaktaṃ",
      "gloss": "unmanifest",
-     "grounds": "adjective describing the perceptible domain",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "gocaraṃ",
      "gloss": "perceptible",
-     "grounds": "noun or adjective indicating range of perception",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "tena",
      "gloss": "by-that",
-     "grounds": "instrumental demonstrative indicating means or cause",
-     "morph": "pron.m/n.inst.sg"
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "kulajātaṃ",
      "gloss": "born-of-the-kula",
-     "grounds": "compound participle describing origin",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mama",
      "gloss": "my",
-     "grounds": "possessive pronoun",
-     "morph": "pron.gen.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.gen"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "How does the unmanifest become perceptible as something born of the speaker's kula?",
+   "question": "How is the unmanifest made perceptible for the kula-born?",
    "premises": [
-    "The unmanifest becomes perceptible.",
-    "This occurs by that means.",
-    "What arises is born of the speaker's kula."
+    "The unmanifest is perceptible.",
+    "It is by that for the kula-born."
    ],
-   "inference": "Through that, the unmanifest becomes perceptible as born of the speaker's kula.",
+   "inference": "The unmanifest becomes perceptible through that means.",
    "uncertainties": [
-    "The precise referent of tena is not explicit in this verse."
+    "tena referent is unclear."
    ],
-   "plain_english": "O beloved, by that the unmanifest becomes perceptible, born of my kula."
+   "plain_english": "The unmanifest is perceptible by that, O beloved, for my kula-born."
   },
   {
    "verse": 489,
@@ -713,51 +712,50 @@
     {
      "surface": "kimarthaṃ",
      "gloss": "for-what-purpose",
-     "grounds": "interrogative compound asking reason",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "grasitā",
      "gloss": "swallowed",
-     "grounds": "past participle describing the act",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "prājñā",
      "gloss": "O-wise-one",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "ādi",
-     "gloss": "primeval",
-     "grounds": "adjectival element qualifying the six-faced one",
-     "morph": "m.nom.sg"
+     "gloss": "of-the-primeval",
+     "grounds": "legacy hint",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "ṣaṇmukhasya",
-     "gloss": "of-the-six-faced-one",
-     "grounds": "possessive relation to what was swallowed",
+     "gloss": "six-faced-one",
+     "grounds": "legacy hint",
      "morph": "m.gen.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     }
    ],
-   "question": "For what purpose was the primeval teaching of the six-faced one swallowed?",
+   "question": "For what purpose was the primeval six-faced one swallowed?",
    "premises": [
-    "A swallowing is said to have occurred.",
-    "It concerns the primeval six-faced one.",
-    "The reason for this act is questioned."
+    "The primeval six-faced one was swallowed.",
+    "The purpose is being asked."
    ],
-   "inference": "The verse seeks the purpose behind swallowing the primeval six-faced one's teaching.",
+   "inference": "The swallowing of the six-faced one has a purpose.",
    "uncertainties": [
-    "The object swallowed is implied rather than explicitly named."
+    "grasitā agreement is unclear."
    ],
-   "plain_english": "O wise one, for what purpose was the primeval teaching of the six-faced one swallowed?"
+   "plain_english": "For what purpose was the primeval six-faced one swallowed, O wise one?"
   },
   {
    "verse": 490,
@@ -765,63 +763,62 @@
     {
      "surface": "kiṃ",
      "gloss": "what",
-     "grounds": "interrogative pronoun",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
     },
     {
      "surface": "varṇā",
      "gloss": "color",
-     "grounds": "noun in interrogative context",
-     "morph": "m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "dhyāna",
-     "gloss": "meditation",
-     "grounds": "noun in interrogative context",
+     "gloss": "and-meditation",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "mātrañ",
-     "gloss": "measure-only",
-     "grounds": "noun with nasal sandhi indicating limitation or extent",
+     "gloss": "measure",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "śrotum",
      "gloss": "to-hear",
-     "grounds": "infinitive expressing desire",
-     "morph": "(inf.) √śru"
+     "grounds": "legacy hint",
+     "morph": "inf"
     },
     {
      "surface": "icchāmi",
      "gloss": "I-wish",
-     "grounds": "first-person verb of desire",
-     "morph": "1.sg.pres.act-ind √iṣ"
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres"
     },
     {
      "surface": "bhairava",
      "gloss": "O-Bhairava",
-     "grounds": "vocative address",
-     "morph": "m.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.m"
     }
    ],
-   "question": "What details of color and meditation does the questioner wish to hear from Bhairava?",
+   "question": "What color and measure of meditation does the speaker wish to hear?",
    "premises": [
-    "The questioner asks about color and meditation.",
-    "The questioner expresses a wish to hear.",
-    "Bhairava is addressed directly."
+    "The speaker wishes to hear.",
+    "The topic is color and meditation measure."
    ],
-   "inference": "The questioner seeks instruction from Bhairava on color and meditation.",
+   "inference": "The speaker requests details of meditation.",
    "uncertainties": [
-    "The parsing of varṇā and mātrañ is somewhat compressed in this verse."
+    "mātrañ spelling is as listed."
    ],
-   "plain_english": "O Bhairava, I wish to hear: what is the color and what is the measure of meditation?"
+   "plain_english": "What color and measure of meditation do I wish to hear, O Bhairava?"
   },
   {
    "verse": 491,
@@ -829,61 +826,62 @@
     {
      "surface": "icchā",
      "gloss": "will",
-     "grounds": "noun identifying a power",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tvaṃ",
      "gloss": "you",
-     "grounds": "second-person pronoun as subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "2.sg.nom"
     },
     {
      "surface": "jñānaśaktiś",
      "gloss": "knowledge-power",
-     "grounds": "compound noun with final sandhi; predicate identity",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "kriyākhyā",
      "gloss": "called-action",
-     "grounds": "compound noun identifying action power",
+     "grounds": "legacy hint",
      "morph": "f.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhāsini",
      "gloss": "O-radiant-one",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "How is the radiant goddess identified with the powers of will, knowledge, and action?",
+   "question": "What are will, knowledge-power, and action called?",
    "premises": [
-    "The goddess is addressed as radiant.",
-    "She is identified as will.",
-    "She is identified as knowledge-power and action."
+    "Will is you.",
+    "Knowledge-power and action are named."
    ],
-   "inference": "The radiant goddess embodies the three powers of will, knowledge, and action.",
-   "uncertainties": [],
-   "plain_english": "O radiant one, you are will, the power of knowledge, and indeed the power called action."
+   "inference": "The powers are identified with the goddess.",
+   "uncertainties": [
+    "Exact doctrinal mapping is unclear."
+   ],
+   "plain_english": "Will, you; knowledge-power and action indeed, O radiant one."
   },
   {
    "verse": 492,
@@ -891,49 +889,50 @@
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person pronoun",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "tvaṃ",
      "gloss": "you",
-     "grounds": "second-person pronoun",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "2.sg.nom"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction linking pronouns",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "viśālākṣi",
      "gloss": "O-wide-eyed-one",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "sarvaśāstra",
-     "gloss": "all-scriptures",
-     "grounds": "first member of compound describing scope",
-     "morph": "compound-member"
+     "gloss": "of-all-scriptures",
+     "grounds": "legacy hint",
+     "morph": "n.gen.pl"
     },
     {
      "surface": "avatārakaḥ",
      "gloss": "revealer",
-     "grounds": "agent noun in predicate; compound with sarvaśāstra",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Who together serve as the revealer of all scriptures according to this declaration?",
+   "question": "Who reveals all scriptures as I and you?",
    "premises": [
-    "The speaker says 'I and you'.",
-    "The wide-eyed goddess is addressed.",
-    "Together they are called the revealer of all scriptures."
+    "I and you are the revealer.",
+    "The revealer is of all scriptures."
    ],
-   "inference": "The speaker and the goddess together reveal all scriptures.",
-   "uncertainties": [],
-   "plain_english": "O wide-eyed one, you and I are the revealer of all scriptures."
+   "inference": "The speaker and goddess jointly reveal scriptures.",
+   "uncertainties": [
+    "avatārakaḥ agreement is unclear."
+   ],
+   "plain_english": "I and you, O wide-eyed one, are the revealer of all scriptures."
   },
   {
    "verse": 493,
@@ -941,36 +940,37 @@
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "temporal adverb",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "vaṭukarūpeṇa",
      "gloss": "in-the-form-of-Vaṭuka",
-     "grounds": "instrumental compound indicating assumed form",
-     "morph": "n.inst.sg"
+     "grounds": "legacy hint",
+     "morph": "inst.sg.m"
     },
     {
      "surface": "kārtikeyaḥ",
      "gloss": "Kārtikeya",
-     "grounds": "proper name as subject",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "samāgataḥ",
      "gloss": "arrived",
-     "grounds": "past participle indicating arrival",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "In what form did Kārtikeya arrive at that moment in the narrative?",
+   "question": "In what form did Kārtikeya arrive then?",
    "premises": [
-    "The event occurs then.",
-    "Kārtikeya is the one who arrives.",
-    "He arrives in the form of Vaṭuka."
+    "Kārtikeya arrived then.",
+    "He arrived in the form of Vaṭuka."
    ],
-   "inference": "Kārtikeya arrived at that time in the form of Vaṭuka.",
-   "uncertainties": [],
+   "inference": "Kārtikeya's arrival was in Vaṭuka form.",
+   "uncertainties": [
+    "Narrative context is unclear."
+   ],
    "plain_english": "Then Kārtikeya arrived in the form of Vaṭuka."
   },
   {
@@ -979,51 +979,50 @@
     {
      "surface": "śāsito",
      "gloss": "instructed",
-     "grounds": "past participle indicating command given",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "ahaṃ",
      "gloss": "I",
-     "grounds": "first-person subject",
-     "morph": "pron.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg"
     },
     {
      "surface": "mayā",
      "gloss": "by-me",
-     "grounds": "instrumental agent in passive construction",
-     "morph": "pron.inst.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.inst"
     },
     {
      "surface": "devi",
      "gloss": "O-goddess",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     },
     {
      "surface": "ṣaṇmukhā",
      "gloss": "six-faced-one",
-     "grounds": "vocative or nominative form addressing or naming Kārtikeya",
-     "morph": "m.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "mṛṣakātṛkam",
      "gloss": "fish-catching",
-     "grounds": "object or purpose of instruction; form compressed",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What instruction did the speaker give to the six-faced one regarding fish-catching?",
+   "question": "Who instructed the six-faced one in fish-catching?",
    "premises": [
-    "The speaker acted as instructor.",
-    "The six-faced one was addressed.",
-    "The instruction concerned fish-catching."
+    "I was instructed by me.",
+    "The six-faced one is linked to fish-catching."
    ],
-   "inference": "The speaker instructed the six-faced one in the matter of fish-catching.",
+   "inference": "The instruction concerns fish-catching.",
    "uncertainties": [
-    "The form mṛṣakātṛkam is unusual and its exact sense is uncertain."
+    "śāsito ahaṃ mayā is odd."
    ],
-   "plain_english": "O Goddess, I instructed the six-faced one, by me, in fish-catching."
+   "plain_english": "I was instructed by me, O goddess, the six-faced one, fish-catching."
   },
   {
    "verse": 495,
@@ -1031,57 +1030,56 @@
     {
      "surface": "maccha",
      "gloss": "fish",
-     "grounds": "object noun; nonstandard spelling form",
+     "grounds": "legacy hint",
      "morph": "m.acc.sg"
     },
     {
      "surface": "mākarṣayitvā",
      "gloss": "having-drawn-out",
-     "grounds": "absolutive expressing prior action",
-     "morph": "(gerund) √ā-kṛṣ"
+     "grounds": "legacy hint",
+     "morph": "gerund"
     },
     {
      "surface": "tu",
      "gloss": "then",
-     "grounds": "particle marking sequence",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "sphoṭitaṃ",
      "gloss": "split-open",
-     "grounds": "past participle describing action on the belly",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunction",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "udaraṃ",
      "gloss": "belly",
-     "grounds": "object or subject of splitting",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "What actions were performed on the fish after it was drawn out?",
+   "question": "What happened after drawing out the fish?",
    "premises": [
     "The fish was drawn out.",
-    "The belly was split open.",
-    "These actions are narrated to the beloved."
+    "The belly was split open."
    ],
-   "inference": "After drawing out the fish, its belly was split open.",
+   "inference": "Drawing out the fish led to splitting the belly.",
    "uncertainties": [
-    "The form maccha appears as a variant spelling of matsya."
+    "Agent of splitting is unclear."
    ],
-   "plain_english": "O beloved, having drawn out the fish, its belly was then split open."
+   "plain_english": "Having drawn out the fish, then the belly was split open, O beloved."
   },
   {
    "verse": 496,
@@ -1089,49 +1087,50 @@
     {
      "surface": "sthāpayitvā",
      "gloss": "having-placed",
-     "grounds": "absolutive expressing prior action",
-     "morph": "(gerund) √sthā-caus"
+     "grounds": "legacy hint",
+     "morph": "gerund"
     },
     {
      "surface": "jñānapaṭṭaṃ",
      "gloss": "knowledge-tablet",
-     "grounds": "compound object placed inside",
-     "morph": "m.acc.sg"
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "mama",
      "gloss": "my",
-     "grounds": "possessive pronoun",
-     "morph": "pron.gen.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.gen"
     },
     {
      "surface": "gūḍhaṃ",
      "gloss": "secret",
-     "grounds": "adjective describing the tablet or its placement",
-     "morph": "n.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "rakṣitam",
      "gloss": "protected",
-     "grounds": "past participle indicating safeguarding",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "How was the speaker's secret knowledge-tablet secured within the fish?",
+   "question": "What was protected after placing the secret knowledge-tablet?",
    "premises": [
-    "A knowledge-tablet was placed inside.",
-    "The tablet belonged to the speaker.",
-    "It was kept secret and protected."
+    "The knowledge-tablet was placed.",
+    "The secret was protected."
    ],
-   "inference": "The speaker's secret knowledge-tablet was placed inside and protected.",
-   "uncertainties": [],
-   "plain_english": "Having placed my knowledge-tablet inside, it was kept secret and protected."
+   "inference": "The secret knowledge-tablet was protected.",
+   "uncertainties": [
+    "Exact object of rakṣitam is unclear."
+   ],
+   "plain_english": "Having placed the knowledge-tablet, my secret was indeed protected."
   },
   {
    "verse": 497,
@@ -1139,57 +1138,56 @@
     {
      "surface": "gārtaṃ",
      "gloss": "pit",
-     "grounds": "object noun indicating a hollow",
+     "grounds": "legacy hint",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive expressing prior action",
-     "morph": "(gerund) √kṛ"
+     "grounds": "legacy hint",
+     "morph": "gerund"
     },
     {
      "surface": "suruṅgāya",
      "gloss": "in-a-tunnel",
-     "grounds": "dative or locative-like form indicating place or purpose",
-     "morph": "f.dat.sg"
+     "grounds": "legacy hint",
+     "morph": "dat.sg.f"
     },
     {
      "surface": "punaḥ",
      "gloss": "again",
-     "grounds": "adverb indicating repetition or sequence",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "kṣiptaṃ",
      "gloss": "thrown",
-     "grounds": "past participle indicating casting",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "emphatic particle",
+     "grounds": "legacy hint",
      "morph": "(indecl.)"
     },
     {
      "surface": "sāgare",
      "gloss": "into-the-ocean",
-     "grounds": "locative indicating destination",
-     "morph": "m.loc.sg"
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
     }
    ],
-   "question": "Where was the object cast after a pit was made in a tunnel?",
+   "question": "Where was the pit thrown after making a tunnel?",
    "premises": [
-    "A pit was made in a tunnel.",
-    "Something was then thrown.",
-    "The destination was the ocean."
+    "A pit was made.",
+    "It was thrown into the ocean."
    ],
-   "inference": "After making a pit in a tunnel, it was thrown into the ocean.",
+   "inference": "The pit was thrown into the ocean.",
    "uncertainties": [
-    "The grammatical case of suruṅgāya is unusual in this context."
+    "suruṅgāya parsing is unclear."
    ],
-   "plain_english": "Having made a pit in a tunnel, it was indeed thrown again into the ocean."
+   "plain_english": "Having made a pit, it was thrown again into the ocean through a tunnel."
   },
   {
    "verse": 498,
@@ -1197,49 +1195,50 @@
     {
      "surface": "mama",
      "gloss": "my",
-     "grounds": "possessive pronoun",
-     "morph": "pron.gen.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.gen"
     },
     {
      "surface": "krodha",
      "gloss": "anger",
-     "grounds": "subject noun indicating emotion",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "samutpannaṃ",
      "gloss": "arisen",
-     "grounds": "past participle describing emergence",
+     "grounds": "legacy hint",
      "morph": "n.nom.sg"
     },
     {
      "surface": "śaktijālo",
      "gloss": "net-of-power",
-     "grounds": "compound noun as object created",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mayā",
      "gloss": "by-me",
-     "grounds": "instrumental agent",
-     "morph": "pron.inst.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.inst"
     },
     {
      "surface": "kṛtaḥ",
      "gloss": "made",
-     "grounds": "past participle indicating creation",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What response did the speaker create when his anger arose?",
+   "question": "What arose from anger and what was made by power?",
    "premises": [
-    "The speaker's anger arose.",
-    "The speaker acted as agent.",
-    "A net of power was made."
+    "My anger arose.",
+    "A net of power was made by me."
    ],
-   "inference": "When his anger arose, the speaker created a net of power.",
-   "uncertainties": [],
-   "plain_english": "My anger arose, and by me a net of power was made."
+   "inference": "Anger and a power-net are connected.",
+   "uncertainties": [
+    "samutpannaṃ agreement is unclear."
+   ],
+   "plain_english": "My anger arose; a net of power was made by me."
   },
   {
    "verse": 499,
@@ -1247,51 +1246,50 @@
     {
      "surface": "nāgato",
      "gloss": "not-come",
-     "grounds": "negated past participle indicating non-arrival",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "asau",
      "gloss": "that",
-     "grounds": "demonstrative pronoun referring to the fish",
-     "morph": "pron.m.nom.sg"
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "mahāmatsyā",
      "gloss": "great-fish",
-     "grounds": "compound noun as subject",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "mama",
      "gloss": "to-me",
-     "grounds": "pronoun indicating comparison reference",
-     "morph": "pron.gen.sg"
+     "grounds": "legacy hint",
+     "morph": "1.sg.dat"
     },
     {
      "surface": "tulyabalaḥ",
      "gloss": "equal-in-strength",
-     "grounds": "compound adjective describing the fish",
+     "grounds": "legacy hint",
      "morph": "m.nom.sg"
     },
     {
      "surface": "priye",
      "gloss": "O-beloved",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "legacy hint",
+     "morph": "voc.sg.f"
     }
    ],
-   "question": "Why did the great fish equal in strength to the speaker fail to be caught?",
+   "question": "Why has the great fish not come to me?",
    "premises": [
-    "That great fish did not come.",
-    "The fish was equal in strength to the speaker.",
-    "The beloved is addressed."
+    "That great fish has not come.",
+    "It is equal in strength to me."
    ],
-   "inference": "The great fish, equal in strength to the speaker, did not come into the net.",
+   "inference": "The great fish's absence is noted despite equal strength.",
    "uncertainties": [
-    "The connection to the net in verse 498 is implied but not restated."
+    "nāgato parsing is unclear."
    ],
-   "plain_english": "O beloved, that great fish, equal to me in strength, did not come."
+   "plain_english": "That great fish has not come to me, equal in strength, O beloved."
   }
  ]
 }

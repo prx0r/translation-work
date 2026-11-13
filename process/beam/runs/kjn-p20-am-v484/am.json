@@ -1,13 +1,14 @@
 {
  "song": "kjn-p20",
  "verse": 484,
- "question": "What renowned name does the speaker claim as his own before the beautiful goddess?",
+ "question": "What is the renowned name of the speaker?",
  "premises": [
-  "The name Bhaṭṭapāda is renowned.",
-  "This name belongs to the speaker.",
-  "The goddess is addressed directly."
+  "The speaker is renowned as Bhaṭṭapāda.",
+  "This is the speaker's name."
  ],
- "inference": "The speaker is renowned under the name Bhaṭṭapāda.",
- "uncertainties": [],
- "plain_english": "O beautiful one, this renowned name of mine is Bhaṭṭapāda."
+ "inference": "The speaker's renowned name is Bhaṭṭapāda.",
+ "uncertainties": [
+  "Exact name usage is unclear."
+ ],
+ "plain_english": "Thus renowned is this name of mine, Bhaṭṭapāda, O beautiful one."
 }

@@ -1,13 +1,14 @@
 {
  "song": "kjn-p20",
  "verse": 493,
- "question": "In what form did Kārtikeya arrive at that moment in the narrative?",
+ "question": "In what form did Kārtikeya arrive then?",
  "premises": [
-  "The event occurs then.",
-  "Kārtikeya is the one who arrives.",
-  "He arrives in the form of Vaṭuka."
+  "Kārtikeya arrived then.",
+  "He arrived in the form of Vaṭuka."
  ],
- "inference": "Kārtikeya arrived at that time in the form of Vaṭuka.",
- "uncertainties": [],
+ "inference": "Kārtikeya's arrival was in Vaṭuka form.",
+ "uncertainties": [
+  "Narrative context is unclear."
+ ],
  "plain_english": "Then Kārtikeya arrived in the form of Vaṭuka."
 }

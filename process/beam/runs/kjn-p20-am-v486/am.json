@@ -1,15 +1,14 @@
 {
  "song": "kjn-p20",
  "verse": 486,
- "question": "What intimate relationship does the speaker claim toward the great goddess?",
+ "question": "Who is husband to the goddess and her mother?",
  "premises": [
-  "The speaker addresses the great goddess as beloved.",
-  "The speaker declares himself in relation to her.",
-  "He states he is her husband."
+  "The speaker is husband to you.",
+  "The speaker addresses the great goddess."
  ],
- "inference": "The speaker claims to be the husband of the great goddess.",
+ "inference": "The speaker claims marital relation to the goddess.",
  "uncertainties": [
-  "The compound-like sequence tva umātu is syntactically compressed."
+  "tva umātu parsing is unclear."
  ],
- "plain_english": "O mother, O great goddess, O beloved, I am your husband."
+ "plain_english": "Your mother, O great goddess; I am husband to you, O beloved."
 }

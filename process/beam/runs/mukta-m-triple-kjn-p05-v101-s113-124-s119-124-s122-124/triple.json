@@ -7,45 +7,45 @@
     {
      "surface": "rasanā+tālu+mūle",
      "gloss": "at-root-of-tongue-and-palate",
-     "grounds": "locative singular neuter compound rasanā+tālu+mūla",
+     "grounds": "compound of rasanā (tongue), tālu (palate), and mūla (root) in locative singular",
      "morph": "loc.sg.n"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive from root kṛ",
-     "morph": "indecl."
+     "grounds": "absolutive of root kṛ",
+     "morph": "abs"
     },
     {
      "surface": "vāyuṃ",
      "gloss": "air",
-     "grounds": "accusative singular masculine",
+     "grounds": "accusative singular masculine of vāyu",
      "morph": "acc.sg.m"
     },
     {
      "surface": "pibec",
      "gloss": "should-drink",
-     "grounds": "optative third singular from root pā",
-     "morph": "3.sg.opt.act"
+     "grounds": "optative third singular active of root pā",
+     "morph": "opt.3sg.act"
     },
     {
      "surface": "chanaiḥ",
      "gloss": "slowly",
-     "grounds": "indeclinable adverb",
-     "morph": "indecl."
+     "grounds": "adverb meaning slowly",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "What practice of drinking air at the root of tongue and palate destroys old age and death?",
+   "question": "How does slow drinking of air at the tongue-palate root destroy old age and death after one year and prevent serpent poison?",
    "premises": [
-    "air is made at tongue-palate root",
-    "air is drunk slowly",
-    "practice continues for one year"
+    "Air is drunk slowly at tongue-palate root.",
+    "One year of practice destroys old age and death.",
+    "Poison does not enter body even if bitten by great serpents."
    ],
-   "inference": "slow air drinking at the tongue-palate root destroys old age and death",
+   "inference": "The practice grants immunity and longevity.",
    "uncertainties": [
-    "exact physiological location remains interpretive"
+    "Exact physiological mechanism is unspecified."
    ],
-   "plain_english": "Having made air at the root of the tongue and palate, one should drink it slowly."
+   "plain_english": "Having made air at the root of tongue and palate, one should drink slowly; when practiced for one year, old age and death are destroyed; poison does not enter the body even if bitten by great serpents."
   },
   {
    "verse": 123,
@@ -53,39 +53,39 @@
     {
      "surface": "abdam+ekaṃ",
      "gloss": "for-one-year",
-     "grounds": "accusative singular masculine compound abda+eka",
+     "grounds": "compound of abda (year) and eka (one) in accusative singular masculine",
      "morph": "acc.sg.m"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "fused adverbial form yadā+abhyastaṃ",
-     "morph": "indecl."
+     "grounds": "fused form yadā (when) plus abhyasta (practiced) with sandhi",
+     "morph": "(indecl.)"
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "nominative singular masculine dvandva compound",
+     "grounds": "compound of jarā (old age) and mṛtyu (death) in nominative singular masculine",
      "morph": "nom.sg.m"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present third singular active from root naś",
-     "morph": "3.sg.act.pres"
+     "grounds": "present third singular active of root naś",
+     "morph": "3sg.act.pres"
     }
    ],
-   "question": "What happens when the air-drinking practice is continued for one year?",
+   "question": "How does slow drinking of air at the tongue-palate root destroy old age and death after one year and prevent serpent poison?",
    "premises": [
-    "practice is done for one year",
-    "old age and death are named",
-    "destruction is stated"
+    "Air is drunk slowly at tongue-palate root.",
+    "One year of practice destroys old age and death.",
+    "Poison does not enter body even if bitten by great serpents."
    ],
-   "inference": "old age and death are destroyed after one year of practice",
+   "inference": "The practice grants immunity and longevity.",
    "uncertainties": [
-    "whether abhyasta refers to air drinking or broader practice"
+    "Exact physiological mechanism is unspecified."
    ],
-   "plain_english": "When practiced for one year, old age and death are destroyed."
+   "plain_english": "Having made air at the root of tongue and palate, one should drink slowly; when practiced for one year, old age and death are destroyed; poison does not enter the body even if bitten by great serpents."
   },
   {
    "verse": 124,
@@ -93,57 +93,57 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "nominative or accusative singular neuter",
-     "morph": "nom/acc.sg.n"
+     "grounds": "accusative singular neuter of viṣa",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "na",
      "gloss": "not",
      "grounds": "negative particle",
-     "morph": "indecl."
+     "morph": "(indecl.)"
     },
     {
      "surface": "kramate",
      "gloss": "enters",
-     "grounds": "present third singular middle from root kram",
-     "morph": "3.sg.mid.pres"
+     "grounds": "present third singular middle of root kram",
+     "morph": "3sg.mid.pres"
     },
     {
      "surface": "dehe",
      "gloss": "body",
-     "grounds": "locative singular masculine or neuter",
-     "morph": "loc.sg.m/n"
+     "grounds": "locative singular masculine of deha",
+     "morph": "loc.sg.m"
     },
     {
      "surface": "daṃśito",
      "gloss": "even-bitten",
-     "grounds": "nominative singular masculine participle",
+     "grounds": "nominative singular masculine participle of root daṃś",
      "morph": "nom.sg.m"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "indeclinable particle",
-     "morph": "indecl."
+     "grounds": "particle meaning also",
+     "morph": "(indecl.)"
     },
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "instrumental plural masculine compound mahā+uraga",
+     "grounds": "compound of mahā (great) and uraga (serpent) in instrumental plural masculine",
      "morph": "instr.pl.m"
     }
    ],
-   "question": "Does poison enter the body of one bitten even by great serpents?",
+   "question": "How does slow drinking of air at the tongue-palate root destroy old age and death after one year and prevent serpent poison?",
    "premises": [
-    "poison is the subject",
-    "body is the location",
-    "even great-serpent bites are included"
+    "Air is drunk slowly at tongue-palate root.",
+    "One year of practice destroys old age and death.",
+    "Poison does not enter body even if bitten by great serpents."
    ],
-   "inference": "poison does not enter the body even when bitten by great serpents",
+   "inference": "The practice grants immunity and longevity.",
    "uncertainties": [
-    "whether this protection follows from the air practice"
+    "Exact physiological mechanism is unspecified."
    ],
-   "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
+   "plain_english": "Having made air at the root of tongue and palate, one should drink slowly; when practiced for one year, old age and death are destroyed; poison does not enter the body even if bitten by great serpents."
   }
  ]
 }

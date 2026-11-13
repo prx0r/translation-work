@@ -7,39 +7,40 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "amṛta in accusative singular neuter",
-     "morph": "n.acc.sg.n"
+     "grounds": "neuter noun amṛta in accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "kaulasadbhāvaṃ",
-     "gloss": "kaula-true-nature",
-     "grounds": "compound kaula + sadbhāva in accusative singular masculine",
-     "morph": "n.acc.sg.m"
+     "gloss": "true-nature-of-kaula",
+     "grounds": "compound kaula plus sadbhāva in accusative singular",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "imperative of root śru, second person singular active",
-     "morph": "2.sg.act.impv"
+     "grounds": "imperative form of root śru in second person singular",
+     "morph": "2.sg.act-imp + śru"
     },
     {
      "surface": "kāmakalātmakam",
-     "gloss": "desire-art-consisting",
-     "grounds": "compound kāma + kalā + ātmaka in accusative singular neuter",
-     "morph": "adj.acc.sg.n"
+     "gloss": "consisting-of-desire-art",
+     "grounds": "compound adjective kāmakalā plus ātmaka in accusative singular neuter",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "What is the nectar-like true nature of Kaula that consists of kāmakalā?",
+   "question": "What nectar consisting of kāmakalā constitutes the true nature of Kaula that one is urged to hear?",
    "premises": [
-    "Nectar is the true nature of Kaula.",
-    "It consists of kāmakalā.",
-    "The hearer is commanded to listen."
+    "Amṛtaṃ is the object to be heard.",
+    "Kaulasadbhāvaṃ names the true nature of Kaula.",
+    "Kāmakalātmakam describes the nectar's constitution."
    ],
-   "inference": "The verse identifies Kaula's true nature as nectar consisting of kāmakalā and commands hearing it.",
+   "inference": "The verse identifies the nectar to be heard as the true Kaula nature consisting of kāmakalā.",
    "uncertainties": [
-    "The exact syntactic relation of kāmakalātmakam to amṛtaṃ is inferred."
+    "The exact syntactic relation of kaulasadbhāvaṃ to amṛtaṃ is inferred from context.",
+    "Kāmakalātmakam is read as modifying amṛtaṃ."
    ],
-   "plain_english": "Hear the nectar: the true nature of Kaula, consisting of kāmakalā."
+   "plain_english": "Hear the nectar, the true nature of Kaula, which consists of kāmakalā."
   }
  ]
 }

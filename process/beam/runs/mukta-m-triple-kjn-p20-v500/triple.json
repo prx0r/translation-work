@@ -6,9 +6,9 @@
    "rows": [
     {
      "surface": "brahmatvaṃ",
-     "gloss": "brahma-state",
-     "grounds": "brahma plus tva suffix state",
-     "morph": "n.acc.sg.n"
+     "gloss": "Brahma-state",
+     "grounds": "Brahma-state token; neuter accusative singular",
+     "morph": "n.neu.acc.sg"
     },
     {
      "surface": "hi",
@@ -19,39 +19,39 @@
     {
      "surface": "tadā",
      "gloss": "then",
-     "grounds": "indeclinable adverb",
+     "grounds": "indeclinable adverb of time",
      "morph": "(indecl.)"
     },
     {
      "surface": "tyaktaṃ",
      "gloss": "abandoned",
-     "grounds": "root tyaj past participle",
-     "morph": "n.acc.sg.n"
+     "grounds": "past participle of tyaj; neuter accusative singular",
+     "morph": "part.neu.acc.sg (tyaj)"
     },
     {
      "surface": "citta",
      "gloss": "mind",
-     "grounds": "noun citta",
-     "morph": "n.nom.sg.n"
+     "grounds": "mind token; neuter nominative or accusative singular",
+     "morph": "n.neu.nom.sg"
     },
     {
      "surface": "dhīvarātmakam",
-     "gloss": "fisherman-nature",
-     "grounds": "dhīvara plus ātmaka compound",
-     "morph": "n.nom.sg.n"
+     "gloss": "fisherman-natured",
+     "grounds": "compound adjective; neuter accusative singular",
+     "morph": "adj.neu.acc.sg"
     }
    ],
-   "question": "What happens to Brahma-state when mind assumes fisherman-nature?",
+   "question": "Does Brahma-state get abandoned when mind assumes fisherman-nature?",
    "premises": [
-    "Brahma-state is abandoned then.",
-    "Mind becomes fisherman-nature.",
-    "Anger produced Shakti net."
+    "Brahma-state was abandoned then.",
+    "Mind took fisherman-nature.",
+    "Abandonment follows transformation."
    ],
-   "inference": "Brahma-state is relinquished as mind turns fisherman-like.",
+   "inference": "Brahma-state is relinquished when mind becomes fisherman-natured.",
    "uncertainties": [
-    "Exact syntactic relation uncertain."
+    "Exact syntactic role of citta remains unclear."
    ],
-   "plain_english": "Then the state of Brahma is abandoned; the mind becomes fisherman-like."
+   "plain_english": "Then indeed Brahma-state was abandoned; the mind became fisherman-natured."
   }
  ]
 }

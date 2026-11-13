@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 123,
- "question": "What is destroyed when practiced for one year?",
+ "question": "What is destroyed when the practice is done for one year?",
  "premises": [
-  "practice for one year",
-  "old age and death destroyed"
+  "practice lasts one year",
+  "old age and death are destroyed",
+  "destruction follows sustained practice"
  ],
- "inference": "old age and death are destroyed when practiced for one year",
+ "inference": "One year of practice destroys old age and death.",
  "uncertainties": [
-  "practice unspecified"
+  "whether abhyastañ is passive or active"
  ],
  "plain_english": "When practiced for one year, old age and death are destroyed."
 }
