@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "madhyama",
+     "gloss": "middle",
+     "grounds": "denotes the middle position or element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādhare",
+     "gloss": "in-lower-support",
+     "grounds": "locative of ādhāra, the lower base or support",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "denotes the middle part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījasya",
+     "gloss": "of-seed-syllable",
+     "grounds": "genitive of bīja, the seed-syllable (mantra element)",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "indeclinable indicating subsequent position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What placement follows the middle of the seed-syllable in the middle and lower supports?",
+   "premises": [
+    "A middle element is located in the lower support.",
+    "The seed-syllable has a middle part.",
+    "The indicated position comes after that middle part."
+   ],
+   "inference": "The placement is specified as occurring after the middle of the seed-syllable in relation to the middle and lower supports.",
+   "uncertainties": [
+    "The exact referent of 'madhyama' and its syntactic relation to 'ādhare' are not fully explicit without broader context."
+   ],
+   "plain_english": "In the middle and in the lower support, it comes after the middle of the seed-syllable."
+  }
+ ]
+}
