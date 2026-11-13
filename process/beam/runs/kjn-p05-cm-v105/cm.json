@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "ko",
-   "morph": "m.nom.sg",
+   "morph": "pron.nom.sg.m",
    "grounds": "interrogative pronoun"
   },
   {
    "lemma": "asau",
-   "morph": "m.nom.sg",
-   "grounds": "demonstrative pronoun"
+   "morph": "pron.nom.sg.m",
+   "grounds": "demonstrative"
   },
   {
    "lemma": "jīvaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "noun"
+   "morph": "n.nom.sg.m",
+   "grounds": "nominative"
   },
   {
    "lemma": "samuddiṣṭaḥ",
-   "morph": "m.nom.sg",
+   "morph": "part.sg.m.nom",
    "grounds": "past participle"
   },
   {
    "lemma": "kiṃ",
-   "morph": "neut.nom.sg",
-   "grounds": "interrogative pronoun"
+   "morph": "pron.acc.sg.n",
+   "grounds": "interrogative"
   },
   {
    "lemma": "vā",
@@ -34,8 +34,8 @@
   },
   {
    "lemma": "jīva+svarūpakam",
-   "morph": "neut.nom.sg",
-   "grounds": "compound noun"
+   "morph": "n.acc.sg.n",
+   "grounds": "compound accusative"
   }
  ]
 }
