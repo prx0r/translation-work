@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p03",
  "verse": 68,
- "question": "What kind of state remains unknown to those who are deluded?",
+ "question": "What analogy illustrates the agent's role in shaping material into a product?",
  "premises": [
-  "The deluded do not know a certain state",
-  "That state is peaceful and unthinkable",
-  "That state is eternally existing"
+  "A material can be shaped into a product.",
+  "A blacksmith shapes gold into a crown.",
+  "This illustrates an agent acting on material."
  ],
- "inference": "The deluded fail to know the peaceful, unthinkable, eternally existing state.",
- "uncertainties": [
-  "nitya+sambhavaḥ could be read as describing the state or the knower"
- ],
- "plain_english": "They do not know the peaceful, unthinkable, eternally existing state."
+ "inference": "Therefore the blacksmith shaping gold into a crown serves as the analogy.",
+ "uncertainties": [],
+ "plain_english": "Like a blacksmith with gold in the act of producing a crown."
 }

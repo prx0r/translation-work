@@ -1,0 +1,1065 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle continuing the argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asmābhiḥ",
+     "gloss": "by-us",
+     "grounds": "agent of the statement in the commentary",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tattvaprakāśavṛttau",
+     "gloss": "in-tattva-prakāśa-commentary",
+     "grounds": "compound tattva+prakāśa+vṛtti locating the cited discussion",
+     "morph": "f.loc.sg, compound = tattva+prakāśa+vṛtti"
+    }
+   ],
+   "question": "Where is the previously stated position also shown by the authors?",
+   "premises": [
+    "The authors speak in a commentary context",
+    "The cited work is the Tattvaprakāśa commentary",
+    "The same view is presented there"
+   ],
+   "inference": "The authors also present this position in the Tattvaprakāśa commentary.",
+   "uncertainties": [
+    "The exact scope of the position referred to depends on the preceding verse."
+   ],
+   "plain_english": "And we have shown this in the commentary on the Tattvaprakāśa."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "dṛśyante",
+     "gloss": "are-seen",
+     "grounds": "verb indicating observed instances",
+     "morph": "3.pl.pass-pres, root dṛś"
+    },
+    {
+     "surface": "pudgalāḥ",
+     "gloss": "individual-selves",
+     "grounds": "pudgala refers to individual selves in this context",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "indefinite pronoun qualifying pudgalāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "alpajñānakriyānvitāḥ",
+     "gloss": "endowed-with-little-knowledge-action",
+     "grounds": "compound alpa+jñāna+kriyā+anvita describing limited capacities",
+     "morph": "m.nom.pl, compound = alpa+jñāna+kriyā+anvita"
+    }
+   ],
+   "question": "What observable condition of some individual selves supports their limited capacities?",
+   "premises": [
+    "Some individual selves are observed",
+    "These selves possess little knowledge",
+    "These selves possess little action"
+   ],
+   "inference": "Some individual selves are seen to be endowed with limited knowledge and action.",
+   "uncertainties": [],
+   "plain_english": "Some individual selves are seen to be endowed with little knowledge and little power of action."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "pudgalaḥ",
+     "gloss": "individual-self",
+     "grounds": "subject of the stated doctrine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cetanaḥ",
+     "gloss": "conscious",
+     "grounds": "attribute ascribed to the individual self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityaḥ",
+     "gloss": "eternal",
+     "grounds": "attribute denying temporal origin or destruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikārarahitaḥ",
+     "gloss": "devoid-of-change",
+     "grounds": "compound vikāra+rahita denying modification",
+     "morph": "m.nom.sg, compound = vikāra+rahita"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "reports an accepted doctrinal view",
+     "morph": "m.nom.sg, past-passive-participle, root man"
+    }
+   ],
+   "question": "What essential attributes are ascribed to the individual self in this doctrine?",
+   "premises": [
+    "The individual self is described as conscious",
+    "The individual self is described as eternal",
+    "The individual self is described as devoid of change"
+   ],
+   "inference": "The individual self is held to be conscious, eternal, and unchanging.",
+   "uncertainties": [],
+   "plain_english": "The individual self is considered to be conscious, eternal, and free from change."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "siddham",
+     "gloss": "established",
+     "grounds": "marks the claim as settled",
+     "morph": "n.nom.sg, past-passive-participle, root sidh"
+    },
+    {
+     "surface": "āgameṣu",
+     "gloss": "in-scriptures",
+     "grounds": "locates the teaching in authoritative texts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "śrūyate",
+     "gloss": "is-heard",
+     "grounds": "reports scriptural testimony",
+     "morph": "3.sg.pass-pres, root śru"
+    },
+    {
+     "surface": "iti+ataḥ",
+     "gloss": "thus-therefore",
+     "grounds": "fused citation marker and conclusion particle",
+     "morph": "(indecl.), compound = iti+atas"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers back to the individual self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the possibility of change",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikāraḥ",
+     "gloss": "change",
+     "grounds": "modification or transformation under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃbhavati",
+     "gloss": "is-possible",
+     "grounds": "asserts impossibility when negated",
+     "morph": "3.sg.act-pres, root bhū with sam"
+    }
+   ],
+   "question": "Why can no real change be attributed to the individual self?",
+   "premises": [
+    "Scriptures establish the relevant teaching",
+    "The teaching is heard in the scriptures",
+    "What is thus established excludes change in this self"
+   ],
+   "inference": "Therefore change is not possible for this individual self.",
+   "uncertainties": [],
+   "plain_english": "Since this is established and heard in the scriptures, no change is possible for this self."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise-indeed",
+     "grounds": "fused particles extending the same reasoning",
+     "morph": "(indecl.), compound = tathā+eva"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another case to the argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citiḥ",
+     "gloss": "consciousness",
+     "grounds": "first member of the pair discussed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "second member of the pair discussed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tayoḥ+api",
+     "gloss": "of-those-two-also",
+     "grounds": "fused reference to both consciousness and power",
+     "morph": "(indecl.), compound = tayoḥ+api"
+    },
+    {
+     "surface": "avikāriṇoḥ",
+     "gloss": "unchanging",
+     "grounds": "compound a+vikārin attributing absence of change to both",
+     "morph": "f.gen.du, compound = a+vikārin"
+    }
+   ],
+   "question": "What shared status do consciousness and power possess in this account?",
+   "premises": [
+    "Consciousness is under consideration",
+    "Power is under consideration",
+    "Both are described as unchanging"
+   ],
+   "inference": "Consciousness and power are likewise both unchanging.",
+   "uncertainties": [],
+   "plain_english": "Likewise, consciousness and power are also both unchanging."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "vikāritvāt",
+     "gloss": "because-of-mutability",
+     "grounds": "states the reason for rejecting intrinsic variety",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ślo0 19",
+     "gloss": "verse-19",
+     "grounds": "textual reference marker as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closes the cited reasoning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ataḥ+eva",
+     "gloss": "therefore-indeed",
+     "grounds": "fused particles drawing the conclusion",
+     "morph": "(indecl.), compound = atas+eva"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "refers to consciousness and power",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "aupādhikam+eva",
+     "gloss": "conditioned-indeed",
+     "grounds": "compound aupādhika+eva qualifying the variety as due to limiting conditions",
+     "morph": "n.nom.sg, compound = aupādhika+eva"
+    },
+    {
+     "surface": "vaicitryam",
+     "gloss": "manifoldness",
+     "grounds": "the apparent diversity under explanation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti+āha",
+     "gloss": "thus-says",
+     "grounds": "fused citation and reporting verb",
+     "morph": "(indecl.)+3.sg.act-perf, root ah"
+    },
+    {
+     "surface": "tayorapīti",
+     "gloss": "of-those-two-also-thus",
+     "grounds": "citation fragment as given in the text",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What explains the apparent manifoldness of consciousness and power despite their unchanging nature?",
+   "premises": [
+    "Intrinsic mutability would imply real change",
+    "Consciousness and power are unchanging",
+    "The text attributes their variety to limiting conditions"
+   ],
+   "inference": "The manifoldness of consciousness and power is only conditioned, not intrinsic.",
+   "uncertainties": [
+    "The exact referent of ślo0 19 is not specified in this unit."
+   ],
+   "plain_english": "Because mutability is denied, the text says that the manifoldness of those two is only due to limiting conditions."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "saṃpṛktā",
+     "gloss": "connected",
+     "grounds": "describes the joining of consciousness and the individual self",
+     "morph": "f.nom.sg, past-passive-participle, root pṛc with sam"
+    },
+    {
+     "surface": "cit+aṇoḥ",
+     "gloss": "of-consciousness-individual-self",
+     "grounds": "compound cit+aṇu naming the two related principles",
+     "morph": "f.gen.sg, compound = cit+aṇu"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun indicating the means of connection",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "māyā+ādi+artha+avalokane",
+     "gloss": "in-seeing-māyā-and-other-objects",
+     "grounds": "compound māyā+ādi+artha+avalokana naming the sphere of perception",
+     "morph": "n.loc.sg, compound = māyā+ādi+artha+avalokana"
+    }
+   ],
+   "question": "What connection enables the individual self to perceive māyā and other objects?",
+   "premises": [
+    "Consciousness and the individual self are connected",
+    "This connection operates in object perception",
+    "The perceived sphere includes māyā and other objects"
+   ],
+   "inference": "The connection of consciousness with the individual self enables perception of māyā and other objects.",
+   "uncertainties": [
+    "The instrumental referent of yena may be clarified by the next verse."
+   ],
+   "plain_english": "By that connection of consciousness with the individual self, there is perception of māyā and other objects."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "nāda+ākhyam",
+     "gloss": "called-nāda",
+     "grounds": "compound nāda+ākhya naming the principle",
+     "morph": "n.nom.sg, compound = nāda+ākhya"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the described principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies the principle as highest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "metaphor for the source principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+bhūreṣu",
+     "gloss": "in-all-beings",
+     "grounds": "compound sarva+bhūta indicating universal presence",
+     "morph": "n.loc.pl, compound = sarva+bhūta"
+    },
+    {
+     "surface": "avasthitam",
+     "gloss": "situated",
+     "grounds": "states the abiding presence of the seed",
+     "morph": "n.nom.sg, past-passive-participle, root sthā with ava"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closes the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What supreme seed principle is said to abide in all beings?",
+   "premises": [
+    "A principle called nāda is identified",
+    "It is described as the supreme seed",
+    "It is situated in all beings"
+   ],
+   "inference": "The supreme seed called nāda abides in all beings.",
+   "uncertainties": [],
+   "plain_english": "That supreme seed called nāda is situated in all beings."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the proposed cause",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmaṇā",
+     "gloss": "by-karma",
+     "grounds": "instrumental cause under evaluation",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "aṇoḥ",
+     "gloss": "of-individual-self",
+     "grounds": "aṇu refers to the individual self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaicitryam",
+     "gloss": "manifoldness",
+     "grounds": "the diversity requiring explanation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anapekṣeṇa",
+     "gloss": "without-depending",
+     "grounds": "compound an+apekṣa indicating absence of reliance on other factors",
+     "morph": "n.inst.sg, compound = an+apekṣa"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb of origination",
+     "morph": "3.sg.mid-pres, root jan"
+    }
+   ],
+   "question": "Can karma alone produce the manifoldness experienced by the individual self?",
+   "premises": [
+    "Karma is proposed as a cause of manifoldness",
+    "The manifoldness belongs to the individual self",
+    "The verse denies origination by karma without dependence"
+   ],
+   "inference": "The manifoldness of the individual self does not arise from karma alone.",
+   "uncertainties": [],
+   "plain_english": "The manifoldness of the individual self does not arise from karma alone, without depending on anything else."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "pṛthivī+ādīnām",
+     "gloss": "of-earth-and-others",
+     "grounds": "compound pṛthivī+ādi referring to material elements and similar factors",
+     "morph": "f.gen.pl, compound = pṛthivī+ādi"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extends the exclusion to these factors",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anupayogāt",
+     "gloss": "because-of-non-application",
+     "grounds": "compound an+upayoga giving the reason for exclusion",
+     "morph": "m.abl.sg, compound = an+upayoga"
+    }
+   ],
+   "question": "Why are earth and other material factors insufficient to explain the self's manifoldness?",
+   "premises": [
+    "Earth and other factors are considered as possible causes",
+    "These factors are said to be non-applicable",
+    "Non-applicability removes their causal sufficiency"
+   ],
+   "inference": "Earth and other material factors also cannot account for the manifoldness.",
+   "uncertainties": [],
+   "plain_english": "Earth and other such factors also do not apply as the cause."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "karma+upabhogam",
+     "gloss": "experience-of-karma",
+     "grounds": "compound karma+upabhoga naming the fruition of karma",
+     "morph": "m.acc.sg, compound = karma+upabhoga"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "verb indicating production or effecting",
+     "morph": "3.sg.mid-pres, root kṛ"
+    },
+    {
+     "surface": "vaicitryam",
+     "gloss": "manifoldness",
+     "grounds": "the diversity produced in experience",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candana+ādayaḥ",
+     "gloss": "sandalwood-and-others",
+     "grounds": "compound candana+ādi giving examples of experiential objects",
+     "morph": "m.nom.pl, compound = candana+ādi"
+    }
+   ],
+   "question": "How do objects like sandalwood contribute to the varied experience of karma?",
+   "premises": [
+    "Karma is experienced through objects",
+    "Objects such as sandalwood produce varied effects",
+    "These effects constitute manifold experience"
+   ],
+   "inference": "Objects like sandalwood create manifoldness in the experience of karma.",
+   "uncertainties": [],
+   "plain_english": "Sandalwood and other such things produce variety in the experience of karma."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "satyam",
+     "gloss": "true",
+     "grounds": "concedes the preceding point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sādhana+vaicitrya+dvāreṇa",
+     "gloss": "through-diversity-of-means",
+     "grounds": "compound sādhana+vaicitrya+dvāra indicating mediation by diverse instruments",
+     "morph": "n.inst.sg, compound = sādhana+vaicitrya+dvāra"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the mediated role",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "karma",
+     "grounds": "the causal factor whose role is qualified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phala+vaicitryam",
+     "gloss": "diversity-of-fruit",
+     "grounds": "compound phala+vaicitrya naming varied results",
+     "morph": "n.acc.sg, compound = phala+vaicitrya"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "produces",
+     "grounds": "verb asserting causal production",
+     "morph": "3.sg.act-pres, root kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "merely",
+     "grounds": "excludes karma as the sole cause",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avirodhaḥ",
+     "gloss": "non-contradiction",
+     "grounds": "states that the positions are compatible",
+     "morph": "m.nom.sg, compound = a+virodha"
+    }
+   ],
+   "question": "How can karma produce diverse fruits without being the sole cause of manifoldness?",
+   "premises": [
+    "Karma produces diversity of fruits",
+    "This production occurs through diversity of means",
+    "Karma is not the only cause"
+   ],
+   "inference": "There is no contradiction in saying karma yields diverse fruits through diverse means without acting alone.",
+   "uncertainties": [],
+   "plain_english": "True, karma produces diversity of fruits indeed through the diversity of means, but not by itself alone; thus there is no contradiction."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "pravṛttiḥ",
+     "gloss": "activity",
+     "grounds": "the engagement or movement of beings",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+bhūtānām",
+     "gloss": "of-all-beings",
+     "grounds": "compound sarva+bhūta indicating universal scope",
+     "morph": "n.gen.pl, compound = sarva+bhūta"
+    },
+    {
+     "surface": "tyāga+upādāna+kāraṇam",
+     "gloss": "cause-of-rejection-and-acceptance",
+     "grounds": "compound tyāga+upādāna+kāraṇa explaining the basis of activity",
+     "morph": "n.nom.sg, compound = tyāga+upādāna+kāraṇa"
+    }
+   ],
+   "question": "What underlying cause explains the activity of all beings?",
+   "premises": [
+    "All beings engage in activity",
+    "Activity involves rejection and acceptance",
+    "Rejection and acceptance function as its cause"
+   ],
+   "inference": "The activity of all beings is caused by rejection and acceptance.",
+   "uncertainties": [],
+   "plain_english": "The activity of all beings is caused by rejection and acceptance."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "bhūtānām",
+     "gloss": "of-beings",
+     "grounds": "refers to the beings whose activity is discussed",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pravṛttiḥ",
+     "gloss": "activity",
+     "grounds": "the same activity under consideration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃbhavati",
+     "gloss": "is-possible",
+     "grounds": "asserts possibility under the stated condition",
+     "morph": "3.sg.act-pres, root bhū with sam"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indicates absence of the stated cause",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition is the activity of beings possible at all?",
+   "premises": [
+    "Beings exhibit activity",
+    "The verse denies possibility otherwise",
+    "The prior cause is rejection and acceptance"
+   ],
+   "inference": "The activity of beings is not possible without that cause.",
+   "uncertainties": [],
+   "plain_english": "The activity of beings is not possible otherwise."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "śivānām",
+     "gloss": "of-śivas",
+     "grounds": "refers to beings in a śiva state or class",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "asama+aiśvarya+bhājām",
+     "gloss": "possessing-unequal-sovereignty",
+     "grounds": "compound asama+aiśvarya+bhāj describing unequal lordship",
+     "morph": "m.gen.pl, compound = asama+aiśvarya+bhāj"
+    },
+    {
+     "surface": "bhoga+adhikārayoḥ",
+     "gloss": "in-enjoyment-and-authority",
+     "grounds": "compound bhoga+adhikāra naming two domains of difference",
+     "morph": "m.loc.du, compound = bhoga+adhikāra"
+    }
+   ],
+   "question": "In which domains do śivas with unequal sovereignty differ from one another?",
+   "premises": [
+    "Some śivas possess unequal sovereignty",
+    "Enjoyment is a relevant domain",
+    "Authority is a relevant domain"
+   ],
+   "inference": "Śivas with unequal sovereignty differ in enjoyment and authority.",
+   "uncertainties": [
+    "The doctrinal status of multiple śivas depends on the broader passage context."
+   ],
+   "plain_english": "Among śivas who possess unequal sovereignty, there is difference in enjoyment and in authority."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "prāhuḥ",
+     "gloss": "they-say",
+     "grounds": "reports a stated view",
+     "morph": "3.pl.act-perf, root brū"
+    },
+    {
+     "surface": "aparasya",
+     "gloss": "of-the-other",
+     "grounds": "refers to an alternative case or party",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locates the issue in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pragama+asambhavāt",
+     "gloss": "because-of-impossibility-of-occurrence",
+     "grounds": "compound pragama+asambhava giving the reason",
+     "morph": "m.abl.sg, compound = pragama+asambhava"
+    }
+   ],
+   "question": "Why is the alternative case rejected in that context according to the cited view?",
+   "premises": [
+    "An alternative case is considered",
+    "Its occurrence is said to be impossible there",
+    "The cited authorities report this reason"
+   ],
+   "inference": "They reject the other case there because its occurrence is impossible.",
+   "uncertainties": [
+    "The precise identity of aparasya is not explicit in this unit."
+   ],
+   "plain_english": "They say that, in that case, it does not apply to the other because its occurrence is impossible."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "binduḥ",
+     "gloss": "bindu",
+     "grounds": "technical principle named directly",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes exclusive identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpa+ākhyām",
+     "gloss": "called-vikalpa",
+     "grounds": "compound vikalpa+ākhyā naming the conceptual function",
+     "morph": "f.acc.sg, compound = vikalpa+ākhyā"
+    },
+    {
+     "surface": "savikalpaka+buddhiṣu",
+     "gloss": "in-conceptual-cognitions",
+     "grounds": "compound savikalpaka+buddhi locating the function in conceptual awareness",
+     "morph": "f.loc.pl, compound = savikalpaka+buddhi"
+    }
+   ],
+   "question": "What principle is identified as the basis of vikalpa in conceptual cognitions?",
+   "premises": [
+    "Conceptual cognitions involve vikalpa",
+    "Bindu is named in relation to this function",
+    "The identification is presented as exclusive"
+   ],
+   "inference": "Bindu itself is identified as what is called vikalpa in conceptual cognitions.",
+   "uncertainties": [],
+   "plain_english": "It is bindu itself that is called vikalpa in conceptual cognitions."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the proposed identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds a further negation in the argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the item under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvanā+saṃjñaḥ",
+     "gloss": "called-bhāvanā",
+     "grounds": "compound bhāvanā+saṃjña naming the proposed category",
+     "morph": "m.nom.sg, compound = bhāvanā+saṃjña"
+    },
+    {
+     "surface": "saṃskāraḥ",
+     "gloss": "impression",
+     "grounds": "latent trace proposed as the explanation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhyakṣa+bhāvataḥ",
+     "gloss": "because-of-being-perceptible",
+     "grounds": "compound adhyakṣa+bhāva giving the reason for rejection",
+     "morph": "m.abl.sg, compound = adhyakṣa+bhāva"
+    }
+   ],
+   "question": "Why cannot this factor be identified as a latent impression called bhāvanā?",
+   "premises": [
+    "A latent impression called bhāvanā is proposed",
+    "The factor in question is perceptible",
+    "Perceptibility conflicts with being a mere latent impression"
+   ],
+   "inference": "This factor is not a latent impression called bhāvanā because it is perceptible.",
+   "uncertainties": [],
+   "plain_english": "And this is not a latent impression called bhāvanā, because it is perceptible."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the first alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddheḥ",
+     "gloss": "of-intellect",
+     "grounds": "the faculty proposed as undergoing change",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pariṇāmaḥ",
+     "gloss": "transformation",
+     "grounds": "real transformation under consideration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative framing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyā+ūrdhvam+api",
+     "gloss": "beyond-māyā-also",
+     "grounds": "compound māyā+ūrdhvam+api extending the domain beyond māyā",
+     "morph": "(indecl.), compound = māyā+ūrdhvam+api"
+    },
+    {
+     "surface": "sambhavāt",
+     "gloss": "because-of-possibility",
+     "grounds": "gives the reason for rejecting limitation to intellect's transformation",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why is conceptual cognition not merely a transformation of the intellect?",
+   "premises": [
+    "Transformation of the intellect is proposed as an explanation",
+    "Conceptual cognition is possible even beyond māyā",
+    "A merely intellectual transformation cannot account for that scope"
+   ],
+   "inference": "Conceptual cognition is not merely a transformation of the intellect because it is possible even beyond māyā.",
+   "uncertainties": [],
+   "plain_english": "Nor is it a transformation of the intellect, because it is possible even beyond māyā."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "savikalpaka+anubhavaḥ",
+     "gloss": "conceptual-experience",
+     "grounds": "compound savikalpaka+anubhava naming determinate experience",
+     "morph": "m.nom.sg, compound = savikalpaka+anubhava"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "established",
+     "grounds": "asserts that such experience is accepted as real",
+     "morph": "m.nom.sg, past-passive-participle, root sidh"
+    }
+   ],
+   "question": "What status is affirmed for conceptual experience in this argument?",
+   "premises": [
+    "Conceptual experience is under discussion",
+    "The text asserts its establishment",
+    "No limiting condition is added here"
+   ],
+   "inference": "Conceptual experience is established.",
+   "uncertainties": [],
+   "plain_english": "Conceptual experience is established."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "draws a consequence from the previous point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sṛṣṭim",
+     "gloss": "creation",
+     "grounds": "the act of emanation or creation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prakurute",
+     "gloss": "undertakes",
+     "grounds": "verb indicating initiation of creation",
+     "morph": "3.sg.mid-pres, root kṛ with pra"
+    },
+    {
+     "surface": "savikalpaka+bodhavān",
+     "gloss": "possessing-conceptual-cognition",
+     "grounds": "compound savikalpaka+bodha+vat describing the agent of creation",
+     "morph": "m.nom.sg, compound = savikalpaka+bodha+vat"
+    }
+   ],
+   "question": "What cognitive condition enables the agent to undertake creation?",
+   "premises": [
+    "Creation is undertaken by an agent",
+    "The agent possesses conceptual cognition",
+    "This follows from the establishment of conceptual experience"
+   ],
+   "inference": "The one possessing conceptual cognition undertakes creation.",
+   "uncertainties": [],
+   "plain_english": "Therefore, the one who possesses conceptual cognition undertakes creation."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "māyā+kṣobha+katvam",
+     "gloss": "agency-of-agitating-māyā",
+     "grounds": "compound māyā+kṣobha+katva naming the role of stirring māyā",
+     "morph": "n.nom.sg, compound = māyā+kṣobha+katva"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates attribution to Śiva in the stated way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "introduces a contrast or qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "the subject whose agency is qualified",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bindu+kṣobhavat",
+     "gloss": "like-agitation-of-bindu",
+     "grounds": "compound bindu+kṣobha+vat used as a comparison",
+     "morph": "(indecl.), compound = bindu+kṣobha+vat"
+    },
+    {
+     "surface": "nirvikalpaka+mātreṇa",
+     "gloss": "by-non-conceptual-alone",
+     "grounds": "compound nirvikalpaka+mātra indicating mere non-conceptual awareness",
+     "morph": "n.inst.sg, compound = nirvikalpaka+mātra"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the stated meaning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "meaning",
+     "grounds": "summarizes the intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is Śiva not the agitator of māyā merely through non-conceptual awareness?",
+   "premises": [
+    "Agitation of māyā is compared to agitation of bindu",
+    "Mere non-conceptual awareness is insufficient for that role",
+    "The text states this as the intended meaning"
+   ],
+   "inference": "Śiva does not agitate māyā merely by non-conceptual awareness, unlike the agitation of bindu.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that Śiva does not agitate māyā merely through non-conceptual awareness, as in the case of the agitation of bindu."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "refers to other teachers or thinkers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vṛtti+pariṇāma+bheda+vāda+aviśāradāḥ",
+     "gloss": "not-skilled-in-distinction-of-modification-transformation",
+     "grounds": "compound vṛtti+pariṇāma+bheda+vāda+aviśārada criticizing lack of skill in that doctrinal distinction",
+     "morph": "m.nom.pl, compound = vṛtti+pariṇāma+bheda+vāda+aviśārada"
+    }
+   ],
+   "question": "What doctrinal deficiency characterizes the other teachers criticized here?",
+   "premises": [
+    "Other teachers are mentioned",
+    "A distinction between modification and transformation is relevant",
+    "These teachers lack skill in that distinction"
+   ],
+   "inference": "Other teachers are unskilled in the distinction between modification and transformation.",
+   "uncertainties": [],
+   "plain_english": "Other teachers are not skilled in the doctrine distinguishing modification from transformation."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "the subject who establish an alternative view",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indicates a different explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhayanti",
+     "gloss": "establish",
+     "grounds": "verb indicating doctrinal establishment",
+     "morph": "3.pl.act-pres, root sādh"
+    }
+   ],
+   "question": "How do the criticized teachers respond to the distinction at issue?",
+   "premises": [
+    "The teachers are criticized in the previous verse",
+    "They propose a different account",
+    "They attempt to establish that account"
+   ],
+   "inference": "Those teachers establish the matter otherwise.",
+   "uncertainties": [],
+   "plain_english": "Those teachers establish it in a different way."
+  }
+ ]
+}

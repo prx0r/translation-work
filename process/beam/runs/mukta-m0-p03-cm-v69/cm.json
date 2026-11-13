@@ -3,29 +3,29 @@
  "verse": 69,
  "rows": [
   {
-   "lemma": "sarva+bhūta+sthitaṃ",
-   "morph": "compound: sarva+all + bhūta+beings + sthitaṃ+abiding (n.acc.sg.ppp)",
-   "grounds": "present within all beings"
+   "lemma": "kṣobhyate'",
+   "morph": "3.sg.present-passive + kṣubh",
+   "grounds": "present passive verb, sandhi before nantanāthena"
   },
   {
-   "lemma": "hi",
+   "lemma": "nantanāthena",
+   "morph": "compound: ananta+nātha, m.inst.sg",
+   "grounds": "instrumental agent"
+  },
+  {
+   "lemma": "kumbhakāreṇa",
+   "morph": "m.inst.sg",
+   "grounds": "instrumental agent in analogy"
+  },
+  {
+   "lemma": "mṛd",
+   "morph": "f.nom.sg",
+   "grounds": "subject/material being agitated"
+  },
+  {
+   "lemma": "yathā",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
-  },
-  {
-   "lemma": "ekam",
-   "morph": "n.acc.sg",
-   "grounds": "single, non-dual reality"
-  },
-  {
-   "lemma": "adhyeyaṃ",
-   "morph": "n.acc.sg.gerundive (a+√dhyai)",
-   "grounds": "not an object of discursive meditation"
-  },
-  {
-   "lemma": "dhyeya+varjitam",
-   "morph": "compound: dhyeya+meditation-object + varjitam+devoid (n.acc.sg.ppp)",
-   "grounds": "free from being a meditative object"
+   "grounds": "indeclinable introducing analogy"
   }
  ]
 }

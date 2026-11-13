@@ -3,34 +3,44 @@
  "verse": 100,
  "rows": [
   {
-   "lemma": "rodhaśaktyadhikārasya",
-   "morph": "compound.gen.sg.m.",
-   "grounds": "compound rodha+śakti+adhikāra; genitive singular expressing the sway of the obstructing power"
+   "lemma": "pariṇāmasya",
+   "morph": "m.gen.sg",
+   "grounds": "genitive dependent indicating the object of agency"
   },
   {
-   "lemma": "kāle",
-   "morph": "m.loc.sg.",
-   "grounds": "locative of time indicating the period or moment"
+   "lemma": "kartā",
+   "morph": "m.nom.sg",
+   "grounds": "nominative agent noun"
   },
   {
-   "lemma": "yāte",
-   "morph": "ppp.loc.sg.m. (√yā)",
-   "grounds": "past passive participle used in locative absolute with kāle"
+   "lemma": "ayam",
+   "morph": "pron.m.nom.sg",
+   "grounds": "demonstrative pronoun referring to the subject under discussion"
   },
   {
-   "lemma": "svayaṃ",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating spontaneity or absence of external agency"
+   "grounds": "negation particle"
   },
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle marking contrast or emphasis"
+   "grounds": "contrastive particle"
   },
   {
-   "lemma": "aṇoḥ",
-   "morph": "m.gen.sg.",
-   "grounds": "aṇu = the individual self, distinct from Śiva; genitive singular"
+   "lemma": "vṛtteḥ",
+   "morph": "f.gen.sg",
+   "grounds": "genitive dependent contrasted with transformation"
+  },
+  {
+   "lemma": "tataḥ",
+   "morph": "(indecl.)",
+   "grounds": "conclusive particle indicating consequence"
+  },
+  {
+   "lemma": "tathā",
+   "morph": "(indecl.)",
+   "grounds": "manner adverb indicating the resulting position"
   }
  ]
 }

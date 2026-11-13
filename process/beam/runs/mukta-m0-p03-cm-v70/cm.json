@@ -3,34 +3,44 @@
  "verse": 70,
  "rows": [
   {
-   "lemma": "tatra",
+   "lemma": "savikalpajñāna",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "viṣaya",
+   "morph": "compound-member",
+   "grounds": "middle member of compound"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "in that state or reality"
+   "grounds": "indeclinable emphasizing restriction"
   },
   {
-   "lemma": "mano",
+   "lemma": "śarīriṇāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "genitive plural"
+  },
+  {
+   "lemma": "kartṛtvaṃ",
    "morph": "n.nom.sg",
-   "grounds": "the thinking faculty"
+   "grounds": "subject of observation"
   },
   {
-   "lemma": "vilīnam",
-   "morph": "n.nom.sg.ppp (vi+√lī)",
-   "grounds": "merged or absorbed"
+   "lemma": "dṛṣṭam",
+   "morph": "n.nom.sg.past-passive-participle + dṛś",
+   "grounds": "past passive participle"
   },
   {
-   "lemma": "tu",
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "indeclinable marking conclusion"
   },
   {
-   "lemma": "acalaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "unwavering and steady"
-  },
-  {
-   "lemma": "bhava+tanmayam",
-   "morph": "compound: bhava+become + tanmayam+absorbed-in-that (n.nom.sg)",
-   "grounds": "fully identified with that state"
+   "lemma": "bhāvaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "states intended sense"
   }
  ]
 }

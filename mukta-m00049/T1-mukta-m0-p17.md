@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p17-v401
-[brahmin](viprā) [other-than-brahmin](vipretarāḥ) [and+indeed](ca+eva) [all](sarve) [also](api) [here](atra) [qualified](adhikāriṇaḥ)
+[brahmins](viprāḥ) [others+and+indeed](vipreta+rāḥ+ca+eva) [all+also+here](sarve+api+atra) [qualified-ones](adhikāriṇaḥ)
 
 ## mukta-m0-p17-v402
-[that](taṃ) [mantra](mantram) [indeed](eva) [says](āha) [arise](uttiṣṭha) [child](vatsa) [thus+beginning](iti+ādi) [136](|| 136)
+[that](taṃ) [mantra+indeed](mantram+eva) [says](āha) [arise](uttiṣṭha) [child+thus+etc](vatsa+iti+ādi)
 
 ## mukta-m0-p17-v403
 [then](tataḥ) [thus](iti) [own](svaṃ) [wealth](dhanam) [self](ātmānaṃ) [or](vā)
 
 ## mukta-m0-p17-v404
-[brahman](brahma) [nature](svarūpaḥ)
+[brahman](brahma) [own-form](svarūpaḥ) [brahman-natured](brahmasvarūpaḥ) [being](bhūtaḥ)
 
 ## mukta-m0-p17-v405
-[guru](guru) [thus+beginning](iti+ādi)
+[guru+thus+etc](guru+iti+ādi) [guru](guru) [thus](iti) [and-so-on](ādi)
 
 ## mukta-m0-p17-v406
-[thus+beginning](iti+ādinā) [here](atra) [brahman](brahma) [mantra](mantre)
+[thus+etc+by](iti+ādinā) [here](atra) [brahman](brahma) [in-mantra](mantre)
 
 ## mukta-m0-p17-v407
-[own-will](sva+icchā) [conducting](ācārī) [free-from-conceptions](nirvikalpaḥ) [mantra](mantrasya) [this](asya) [by-grace](prasādataḥ)
+[own-will](sva+icchā) [acting](ācārī) [free-from-concepts](nirvikalpaḥ) [of-mantra](mantrasya) [of-this](asya) [by-grace](prasādataḥ)
 
 ## mukta-m0-p17-v408
-[brahmā](brahmā) [brahman-sages](brahma+ṛṣayaḥ) [and](ca) [also](api) [gods](devā) [divine-sages](deva+ṛṣayaḥ) [likewise](tathā)
+[brahmā](brahmā) [brahman-sages+and+also](brahma+ṛṣayaḥ+ca+api) [gods](devāḥ) [divine-sages+likewise](deva+ṛṣayaḥ+tathā)
 
 ## mukta-m0-p17-v409
-[worshipped](upāsitāḥ) [brahman-become](brahma+bhūtāḥ) [supreme-self](parama+ātma) [by-grace](prasādataḥ)
+[worshipped](upāsitāḥ) [become-brahman](brahma+bhūtāḥ) [supreme-self](parama+ātma) [by-grace](prasādataḥ)
 
 ## mukta-m0-p17-v410
-[own-mantra](svīya+mantraṃ) [guru](guruḥ) [should-give](dadyāt) [to-disciples](śiṣyebhyaḥ) [indeed](hi) [without-deliberation](avicārayan)
+[own-mantra](svīya+mantraṃ) [guru](guruḥ) [should-give](dadyāt) [to-disciples](śiṣyebhyaḥ) [indeed+without-deliberation](hi+avicārayan)
 
 ## mukta-m0-p17-v411
-[maternal-uncle](mātulaḥ) [sister's-sons](bhāgineyān) [and](ca) [grandsons](naptṝn) [maternal-grandfather](mātāmahaḥ) [also](api) [and](ca)
+[maternal-uncle](mātulaḥ) [to-sister's-sons](bhāgineyān+ca) [grandsons](naptṝn) [maternal-grandfather+also](mātāmahaḥ+api) [and](ca)
 
 ## mukta-m0-p17-v412
-[I](aham) [thus+beginning](iti+ādinā) [I](ahaṃ) [death-conqueror](mṛtyuñjayaḥ) [became](abhavam) [thus](iti) [remainder](śeṣaḥ)
+[I+thus+etc+by](aham+iti+ādinā) [I](aham) [death-conqueror](mṛtyuñjayaḥ) [became+thus](abhavam+iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p17-v413
-[nārada](nārada) [and-others](ādayaḥ)
+[nārada](nārada) [and-others](ādayaḥ) [nārada-etc](nāradādayaḥ) [sages](ṛṣayaḥ)
 
 ## mukta-m0-p17-v414
-[royal-sages](rāja+ṛṣayaḥ) [janaka](janaka) [and-others](ādayaḥ)
+[royal-sages](rāja+ṛṣayaḥ) [janaka](janaka) [and-others](ādayaḥ) [janaka-etc](janakādayaḥ)
 
 ## mukta-m0-p17-v415
-[accomplished](siddhe) [brahman](brahma) [great-mantra](mahā+mantre) [its-fault](tat+doṣaḥ) [not](na) [indeed](eva) [exists](vidyate)
+[when-accomplished](siddhe) [brahman](brahma) [great-mantra](mahā+mantre) [its-fault](tat+doṣaḥ) [not+indeed](na+eva) [exists](vidyate)
 
 ## mukta-m0-p17-v416
-[brahman-become](brahma+bhūtaḥ) [man](naraḥ) [pure](pūtaḥ) [merit](puṇya) [and-sins](pāpaiḥ) [not](na) [is-tainted](lipyate)
+[become-brahman](brahma+bhūtaḥ) [man](naraḥ) [purified](pūtaḥ) [by-merit-and-sins](puṇya+pāpaiḥ) [not](na) [is-tainted](lipyate)
 
 ## mukta-m0-p17-v417
-[own](sva+sva) [caste](varṇa) [highest](uttama) [devoted](ārate) [but](tu) [worshipable](pūjyāḥ) [honorable](mānyāḥ) [especially](viśeṣataḥ)
+[own-own](sva+sva) [class](varṇa) [highest](uttama) [in-respect+but](ārate+tu) [worshipable](pūjyāḥ) [honorable](mānyāḥ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p17-v418
 [therefore](tasmāt) [all](sarve) [should-worship](pūjayeyuḥ) [brahman-knowledge](brahma+jñān) [brahman-initiated](brahma+dīkṣitān)
 
 ## mukta-m0-p17-v419
-[they-fall](patanti) [terrible-hell](ghora+narake) [as-long-as](yāvat) [sun](bhāskara) [and-stars](tārakam)
+[they-fall](patanti) [terrible-hell](ghora+narake) [as-long-as](yāvat) [sun-and-stars](bhāskara+tārakam)
 
 ## mukta-m0-p17-v420
-[therefore](tasmāt) [ten-million-times](koṭi+guṇaṃ) [sin](pāpaṃ) [brahman-worshipper](brahma+upāsaka) [from-reviling](nindanāt)
+[therefore](tasmāt) [ten-million-times](koṭi+guṇaṃ) [sin](pāpaṃ) [from-brahman-worshipper](brahma+upāsaka) [from-reviling](nindanāt)
 
 ## mukta-m0-p17-v421
-[thus+beginning](iti+ādi) [which](yaḥ) [fault](doṣaḥ) [stated](uktaḥ) [thus](iti) [remainder](śeṣaḥ) [147](|| 147)
+[thus+etc](iti+ādi) [which](yaḥ) [fault](doṣaḥ) [stated](uktaḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p17-v422
-[second](dvitīya) [tatpuruṣa](tatpuruṣaḥ)
+[second](dvitīya) [tatpuruṣa](tatpuruṣaḥ) [compound](samāsaḥ) [case](vibhaktiḥ)
 
 ## mukta-m0-p17-v423
 [they-may-be](bhaveyuḥ) [others](itare) [kṣatriya](kṣatriya) [and-others](ādayaḥ)
 
 ## mukta-m0-p17-v424
-[they-go](gacchanti) [brahman-union](brahma+sāyujyaṃ) [likewise](tathaiva) [your](tava) [by-practice](sādhanāt)
+[they-go](gacchanti) [brahman](brahma) [union-with](sāyujyaṃ) [likewise](tathaiva) [your](tava) [by-practice](sādhanāt)
 
 ## mukta-m0-p17-v425
-[third](tṛtīya) [chapter](ullāsaḥ)
+[third](tṛtīya) [chapter](ullāsaḥ) [section](ullāsaḥ) [end](samāptiḥ)

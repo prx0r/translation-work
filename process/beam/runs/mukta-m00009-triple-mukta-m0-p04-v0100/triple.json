@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "pariṇāmasya",
+     "gloss": "of-transformation",
+     "grounds": "genitive dependent indicating the object of agency",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "nominative agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the subject under discussion",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛtteḥ",
+     "gloss": "of-modification",
+     "grounds": "genitive dependent contrasted with transformation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusive particle indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating the resulting position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What agency is affirmed for transformation while denied for modification?",
+   "premises": [
+    "This subject is the agent of transformation.",
+    "This subject is not the agent of modification.",
+    "The distinction between transformation and modification determines the attribution of agency."
+   ],
+   "inference": "Therefore, agency is ascribed to transformation but withheld from modification.",
+   "uncertainties": [
+    "The referent of ayam is not explicitly named within this verse and depends on the preceding context."
+   ],
+   "plain_english": "This is the agent of transformation, but not of modification; therefore it is so."
+  }
+ ]
+}
