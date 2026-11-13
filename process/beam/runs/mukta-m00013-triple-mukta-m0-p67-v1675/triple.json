@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual act of worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative referring to the previously named yoginīs",
+     "morph": "pron.f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of specification or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginīs",
+     "grounds": "female tantric deities or powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "hṛllekhābījapūrvikāḥ",
+     "gloss": "preceded-by-hṛllekhā-seed",
+     "grounds": "compound indicating worship preceded by the hṛllekhā bīja; hṛllekhā kept as mantra name",
+     "morph": "f.nom.pl (compound: hṛllekhā-bīja-pūrvikā)"
+    }
+   ],
+   "question": "What mantra-seed must precede the worship of these Yoginīs?",
+   "premises": [
+    "The subject is the worship of these Yoginīs.",
+    "Their worship is specified as having a preceding element.",
+    "That preceding element is the hṛllekhā bīja."
+   ],
+   "inference": "Therefore, the worship of these Yoginīs must be preceded by the hṛllekhā bīja.",
+   "uncertainties": [
+    "The exact ritual form of placing the hṛllekhā bīja before the worship is not specified in this verse."
+   ],
+   "plain_english": "Indeed, the worship of these Yoginīs is to be preceded by the hṛllekhā seed-mantra."
+  }
+ ]
+}
