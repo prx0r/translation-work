@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p94",
  "verse": 2350,
- "question": "What divine identity is affirmed as the recipient of repeated devotional salutation?",
+ "question": "What specific offerings must be presented to the brahmin following proper ritual confirmation?",
  "premises": [
-  "Māheśvarī is directly addressed with salutation.",
-  "Annapūrṇā is directly addressed with salutation.",
-  "Both salutations are directed to the same you."
+  "The ritual procedure has been confirmed as properly completed.",
+  "Vessel-foods constitute one category of offering.",
+  "Lumps or balls constitute another category of offering.",
+  "The brahmin is the designated recipient of these offerings."
  ],
- "inference": "Māheśvarī and Annapūrṇā are invoked as one recipient worthy of repeated homage.",
- "uncertainties": [],
- "plain_english": "Salutation to you, O Māheśvarī; salutation be to you, O Annapūrṇā."
+ "inference": "Therefore, one should offer both vessel-foods and lumps to the brahmin.",
+ "uncertainties": [
+  "The exact composition or preparation of pātrī+annāni and piṇḍān is not specified in this verse."
+ ],
+ "plain_english": "One should offer vessel-foods and lumps to the brahmin."
 }
