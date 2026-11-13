@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "p.",
-"quick_gloss": "page"
+"quick_gloss": "page-222"
 },
 {
 "surface": "222",
@@ -32,12 +32,8 @@
 "quick_gloss": "skillful"
 },
 {
-"surface": "tat",
-"quick_gloss": "than-that"
-},
-{
-"surface": "anyā",
-"quick_gloss": "other"
+"surface": "tat+anyā",
+"quick_gloss": "other-than-that"
 },
 {
 "surface": "katamā",
@@ -61,12 +57,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣa",
-"quick_gloss": "Dakṣa-born"
-},
-{
-"surface": "jā",
-"quick_gloss": "+born"
+"surface": "dakṣa+jā",
+"quick_gloss": "born-of-dakṣa"
 }
 ]
 },
@@ -83,7 +75,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "yasmāt",
@@ -95,27 +87,19 @@
 },
 {
 "surface": "satyaṃ",
-"quick_gloss": "truly"
+"quick_gloss": "truth"
 },
 {
-"surface": "dakṣa",
-"quick_gloss": "Dakṣa-born"
-},
-{
-"surface": "jā",
-"quick_gloss": "+born"
+"surface": "dakṣa+jā",
+"quick_gloss": "born-of-dakṣa"
 },
 {
 "surface": "asi",
 "quick_gloss": "you-are"
 },
 {
-"surface": "jagat",
+"surface": "jagat+prasūḥ",
 "quick_gloss": "world-mother"
-},
-{
-"surface": "prasūḥ",
-"quick_gloss": "+mother"
 }
 ]
 },
@@ -127,12 +111,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "koṭi",
-"quick_gloss": "crore"
-},
-{
-"surface": "rūpiṇī",
-"quick_gloss": "+formed"
+"surface": "koṭi+rūpiṇī",
+"quick_gloss": "having-crore-forms"
 }
 ]
 },
@@ -144,12 +124,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "koṭi",
-"quick_gloss": "crore-form"
-},
-{
-"surface": "rūpitvam",
-"quick_gloss": "+form"
+"surface": "koṭi+rūpitvam",
+"quick_gloss": "crore-form-ness"
 },
 {
 "surface": "āptaḥ",
@@ -168,12 +144,8 @@
 "quick_gloss": "I-am"
 },
 {
-"surface": "adya",
+"surface": "adya+api",
 "quick_gloss": "even-today"
-},
-{
-"surface": "api",
-"quick_gloss": "+even"
 },
 {
 "surface": "niścitam",
@@ -206,12 +178,8 @@
 "quick_gloss": "became"
 },
 {
-"surface": "sambhāra",
-"quick_gloss": "preparation"
-},
-{
-"surface": "nīvī",
-"quick_gloss": "+girdle"
+"surface": "sambhāra+nīvyā",
+"quick_gloss": "preparation-leader"
 },
 {
 "surface": "api",
@@ -223,7 +191,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "sā",
@@ -244,7 +212,7 @@
 "tokens": [
 {
 "surface": "kātyāyanī",
-"quick_gloss": "Kātyāyanī"
+"quick_gloss": "kātyāyanī"
 }
 ]
 },
@@ -257,19 +225,15 @@
 "tokens": [
 {
 "surface": "kātyāyanī",
-"quick_gloss": "Kātyāyanī"
+"quick_gloss": "kātyāyanī"
 },
 {
 "surface": "pātu",
 "quick_gloss": "may-protect"
 },
 {
-"surface": "kṛtānta",
-"quick_gloss": "from-death"
-},
-{
-"surface": "siddhāt",
-"quick_gloss": "+accomplishment"
+"surface": "kṛtānta+siddhāt",
+"quick_gloss": "from-death-accomplishment"
 }
 ]
 },
@@ -282,7 +246,7 @@
 "tokens": [
 {
 "surface": "p.",
-"quick_gloss": "page"
+"quick_gloss": "page-223"
 },
 {
 "surface": "223",
@@ -306,16 +270,8 @@
 "quick_gloss": "pure"
 },
 {
-"surface": "tuccha",
-"quick_gloss": "trivial"
-},
-{
-"surface": "ahantva",
-"quick_gloss": "+ego"
-},
-{
-"surface": "hartrī",
-"quick_gloss": "+remover"
+"surface": "tuccha+ahantva+hartrī",
+"quick_gloss": "trivial-ego-remover"
 },
 {
 "surface": "tava",
@@ -364,12 +320,8 @@
 "quick_gloss": "by-self"
 },
 {
-"surface": "advaita",
-"quick_gloss": "non-dual"
-},
-{
-"surface": "gamyā",
-"quick_gloss": "+knowable"
+"surface": "advaita+gamyā",
+"quick_gloss": "non-duality-accessible"
 }
 ]
 },
@@ -381,12 +333,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kavi",
-"quick_gloss": "poet"
-},
-{
-"surface": "priyā",
-"quick_gloss": "+dear"
+"surface": "kavi+priyā",
+"quick_gloss": "dear-to-poets"
 }
 ]
 },
@@ -399,7 +347,7 @@
 "tokens": [
 {
 "surface": "prathitaṃ",
-"quick_gloss": "renowned"
+"quick_gloss": "celebrated"
 },
 {
 "surface": "yaḥ",
@@ -410,16 +358,8 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "kavi",
-"quick_gloss": "poet-dear"
-},
-{
-"surface": "priyā",
-"quick_gloss": "+dear"
-},
-{
-"surface": "apriyaḥ",
-"quick_gloss": "+unloved"
+"surface": "kavi+priyā+apriyaḥ",
+"quick_gloss": "dear-to-poets-unloved"
 },
 {
 "surface": "syāt",
@@ -435,12 +375,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "satya",
-"quick_gloss": "true"
-},
-{
-"surface": "āgamā",
-"quick_gloss": "+tradition"
+"surface": "satya+āgamā",
+"quick_gloss": "whose-tradition-is-true"
 }
 ]
 },
@@ -452,20 +388,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gamā",
-"quick_gloss": "going"
-},
-{
-"surface": "āgamaṃ",
-"quick_gloss": "+and-coming"
+"surface": "gamā+agamaṃ",
+"quick_gloss": "going-and-coming"
 },
 {
 "surface": "nirbhramam",
-"quick_gloss": "without-confusion"
+"quick_gloss": "without-error"
 },
 {
 "surface": "ātanoṣi",
-"quick_gloss": "you-spread"
+"quick_gloss": "you-extend"
 }
 ]
 },
@@ -478,15 +410,15 @@
 "tokens": [
 {
 "surface": "p.",
-"quick_gloss": "page"
+"quick_gloss": "page-224"
 },
 {
 "surface": "224",
 "quick_gloss": "224"
 },
 {
-"surface": "bahiḥsthā",
-"quick_gloss": "external"
+"surface": "bahiḥ+sthā",
+"quick_gloss": "standing-outside"
 }
 ]
 },
@@ -498,24 +430,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva",
-"quick_gloss": "all"
+"surface": "sarva+eka+dhārā+prasarā",
+"quick_gloss": "all-one-stream-flow"
 },
 {
-"surface": "eka",
-"quick_gloss": "+one"
-},
-{
-"surface": "dhārā",
-"quick_gloss": "+stream"
-},
-{
-"surface": "prasarā",
-"quick_gloss": "+flowing"
-},
-{
-"surface": "bahiḥsthā",
-"quick_gloss": "external"
+"surface": "bahiḥ+sthā",
+"quick_gloss": "standing-outside"
 }
 ]
 },
@@ -527,12 +447,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāvya",
-"quick_gloss": "poetry"
-},
-{
-"surface": "śaktiḥ",
-"quick_gloss": "+power"
+"surface": "kāvya+śaktiḥ",
+"quick_gloss": "poetic-power"
 }
 ]
 },
@@ -564,20 +480,12 @@
 "quick_gloss": "in-own"
 },
 {
-"surface": "citta",
-"quick_gloss": "mind"
+"surface": "citta+khe",
+"quick_gloss": "mind-sky"
 },
 {
-"surface": "khe",
-"quick_gloss": "+sky"
-},
-{
-"surface": "kāvya",
-"quick_gloss": "poetry-power"
-},
-{
-"surface": "śaktiḥ",
-"quick_gloss": "+power"
+"surface": "kāvya+śaktiḥ",
+"quick_gloss": "poetic-power"
 }
 ]
 },
@@ -589,12 +497,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kavitva",
-"quick_gloss": "poethood"
-},
-{
-"surface": "dā",
-"quick_gloss": "+giver"
+"surface": "kavitva+dā",
+"quick_gloss": "giver-of-poethood"
 }
 ]
 },
@@ -618,12 +522,8 @@
 "quick_gloss": "may-be"
 },
 {
-"surface": "sumanaḥ",
-"quick_gloss": "good-minded"
-},
-{
-"surface": "gaṇaḥ",
-"quick_gloss": "+multitude"
+"surface": "sumanaḥ+gaṇaḥ",
+"quick_gloss": "good-minded-multitude"
 },
 {
 "surface": "api",
@@ -639,12 +539,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "menā",
-"quick_gloss": "Menā"
-},
-{
-"surface": "putrī",
-"quick_gloss": "+daughter"
+"surface": "menā+putrī",
+"quick_gloss": "daughter-of-menā"
 }
 ]
 }
