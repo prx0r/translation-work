@@ -7,42 +7,42 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "accusative object of jñātvā",
-     "morph": "m.acc.sg"
+     "grounds": "demonstrative pronoun in accusative singular masculine",
+     "morph": "pron.acc.sg.m"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of root jñā",
+     "grounds": "absolutive from root jñā",
      "morph": "indecl."
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound gūḍha plus sadbhāva in accusative",
-     "morph": "m.acc.sg"
+     "grounds": "compound of gūḍha and sadbhāva in accusative singular masculine",
+     "morph": "noun.acc.sg.m"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "compound sarvajña plus tva as abstract noun",
-     "morph": "n.nom.sg"
+     "grounds": "abstract noun in accusative singular neuter",
+     "morph": "noun.acc.sg.n"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "middle voice present of root jan with prefix pra",
-     "morph": "3.sg.mid.pres"
+     "grounds": "pra plus jāyate, third singular middle present",
+     "morph": "verb.3.sg.mid-pres"
     }
    ],
-   "question": "What arises when one knows the hidden true nature of that?",
+   "question": "What arises when one knows that hidden true nature?",
    "premises": [
-    "Knowing hidden true nature causes all-knowingness.",
+    "Knowing hidden true nature yields all-knowingness.",
     "All-knowingness arises from that knowledge."
    ],
-   "inference": "Knowledge of the hidden true nature gives rise to all-knowingness.",
+   "inference": "The verse states that all-knowingness arises through knowing the hidden true nature.",
    "uncertainties": [
-    "The exact gender of gūḍhasadbhāvaṃ is inferred from context."
+    "The exact syntactic role of sarvajñatvam is inferred from context."
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }

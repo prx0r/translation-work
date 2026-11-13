@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 120,
- "question": "How is death destroyed, as the speaker tells without doubt?",
+ "question": "How is death destroyed according to this telling?",
  "premises": [
-  "The speaker tells without doubt.",
-  "Death is destroyed."
+  "speaker tells without doubt",
+  "death is destroyed",
+  "method is as stated"
  ],
- "inference": "The verse asserts that death is destroyed and the speaker tells this without doubt.",
+ "inference": "The verse promises a certain way by which death is destroyed.",
  "uncertainties": [
-  "The method of destruction is not stated here."
+  "exact method referenced"
  ],
- "plain_english": "I tell without doubt how death is destroyed."
+ "plain_english": "I tell without doubt, as death is destroyed."
 }

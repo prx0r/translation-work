@@ -7,40 +7,40 @@
     {
      "surface": "caturaśīti",
      "gloss": "eighty-four",
-     "grounds": "cardinal numeral modifying sahasreṣu",
+     "grounds": "numeral indicating the count eighty-four",
      "morph": "(indecl.)"
     },
     {
      "surface": "sahasreṣu",
      "gloss": "in-thousands",
      "grounds": "locative plural of sahasra",
-     "morph": "n.loc.pl"
+     "morph": "n.loc.pl.n"
     },
     {
      "surface": "yoniyantreṣu",
      "gloss": "in-womb-diagrams",
-     "grounds": "locative plural of compound yoni+yantra",
-     "morph": "n.loc.pl (compound: yoni+yantra)"
+     "grounds": "compound of yoni and yantra in locative plural",
+     "morph": "n.loc.pl.n"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
-     "grounds": "past participle used adjectivally in nominative plural",
-     "morph": "adj.nom.pl.m"
+     "grounds": "past passive participle of pīḍ in nominative plural",
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "In which eighty-four thousand womb-diagrams are beings said to be tormented?",
+   "question": "In how many womb-diagrams are beings said to be tormented?",
    "premises": [
-    "Eighty-four thousand womb-diagrams exist.",
-    "Beings are tormented within them.",
-    "The verse names this torment."
+    "Eighty-four thousand womb-diagrams are mentioned.",
+    "Beings are tormented within those diagrams.",
+    "The count specifies the total diagrams."
    ],
-   "inference": "The verse identifies eighty-four thousand womb-diagrams as sites of torment.",
+   "inference": "Torment is said to occur across eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "The exact referent of yoniyantreṣu is not specified.",
-    "The grammatical gender of pīḍitāḥ is ambiguous."
+    "The exact gender of pīḍitāḥ is not fully specified.",
+    "The precise syntactic scope of caturaśīti remains slightly open."
    ],
-   "plain_english": "In eighty-four thousand womb-diagrams, they are tormented."
+   "plain_english": "They are tormented in eighty-four thousand womb-diagrams."
   }
  ]
 }

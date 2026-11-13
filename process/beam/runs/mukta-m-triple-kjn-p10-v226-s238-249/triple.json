@@ -7,57 +7,55 @@
     {
      "surface": "dūra",
      "gloss": "distant",
-     "grounds": "legacy hint distant",
-     "morph": "(indecl.)"
+     "grounds": "adjective",
+     "morph": "indecl."
     },
     {
      "surface": "āśravaṇa",
      "gloss": "hearing",
-     "grounds": "legacy hint hearing",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "vijñānaṃ",
      "gloss": "knowledge",
-     "grounds": "legacy hint knowledge",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "pāśa",
      "gloss": "bond",
-     "grounds": "legacy hint bond",
-     "morph": "m.acc.sg"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "stobham",
      "gloss": "paralysis",
-     "grounds": "legacy hint paralysis",
-     "morph": "m.acc.sg"
+     "grounds": "noun",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "legacy hint likewise",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
-     "grounds": "legacy hint o-beloved",
+     "grounds": "vocative",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What does distant hearing knowledge accomplish regarding bonds and paralysis?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "distant hearing knowledge is named",
-    "bond and paralysis are named",
-    "beloved is addressed"
+    "distant hearing knowledge bond paralysis likewise beloved"
    ],
-   "inference": "The verse links distant hearing knowledge to bond and paralysis.",
+   "inference": "The verse lists distant hearing knowledge bond paralysis likewise beloved.",
    "uncertainties": [
-    "exact doctrinal referent of pāśa-stobha is unclear"
+    "legacy hints only"
    ],
-   "plain_english": "Distant hearing knowledge, bond, paralysis, likewise, O beloved."
+   "plain_english": "Distant hearing knowledge bond paralysis likewise beloved."
   },
   {
    "verse": 239,
@@ -65,45 +63,43 @@
     {
      "surface": "amaratvam",
      "gloss": "immortality",
-     "grounds": "legacy hint immortality",
-     "morph": "n.acc.sg"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "legacy hint likewise",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     },
     {
      "surface": "devi",
      "gloss": "o-goddess",
-     "grounds": "legacy hint o-goddess",
+     "grounds": "vocative",
      "morph": "f.voc.sg"
     },
     {
      "surface": "samāsāt",
      "gloss": "in-brief",
-     "grounds": "legacy hint in-brief",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     },
     {
      "surface": "parivartanam",
      "gloss": "transformation",
-     "grounds": "legacy hint transformation",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What brief transformation leads to immortality for the goddess?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "immortality is named",
-    "transformation is named",
-    "brief summary is named"
+    "immortality likewise goddess briefly transformation"
    ],
-   "inference": "The verse connects brief transformation with immortality.",
+   "inference": "The verse lists immortality likewise goddess briefly transformation.",
    "uncertainties": [
-    "scope of transformation is unspecified"
+    "legacy hints only"
    ],
-   "plain_english": "Immortality, likewise, O goddess, in brief, transformation."
+   "plain_english": "Immortality likewise goddess briefly transformation."
   },
   {
    "verse": 240,
@@ -111,57 +107,55 @@
     {
      "surface": "dvitīyam",
      "gloss": "second",
-     "grounds": "legacy hint second",
+     "grounds": "ordinal",
      "morph": "n.acc.sg"
     },
     {
      "surface": "aṣṭa",
      "gloss": "eight",
-     "grounds": "legacy hint eight",
-     "morph": "(indecl.)"
+     "grounds": "numeral",
+     "morph": "indecl."
     },
     {
      "surface": "patram",
      "gloss": "petaled",
-     "grounds": "legacy hint petaled",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "teja",
      "gloss": "by-fire",
-     "grounds": "legacy hint by-fire",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "dhyāna",
      "gloss": "meditation",
-     "grounds": "legacy hint meditation",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "sudīpitam",
      "gloss": "well-illuminated",
-     "grounds": "legacy hint well-illuminated",
+     "grounds": "participle",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What characterizes the second eight-petaled wheel in fire meditation?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "second wheel is named",
-    "eight petals are named",
-    "fire meditation illuminates it"
+    "second eight petaled and fire meditation well-illuminated"
    ],
-   "inference": "The verse describes the second wheel as fire-illuminated meditation.",
+   "inference": "The verse lists second eight petaled and fire meditation well-illuminated.",
    "uncertainties": [
-    "exact cakra location is not stated"
+    "legacy hints only"
    ],
-   "plain_english": "Second, eight-petaled, and, by fire, meditation, well-illuminated."
+   "plain_english": "Second eight petaled and fire meditation well-illuminated."
   },
   {
    "verse": 241,
@@ -169,57 +163,55 @@
     {
      "surface": "kurute",
      "gloss": "he-makes",
-     "grounds": "legacy hint he-makes",
-     "morph": "3.sg.act-pres + root kṛ"
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root-kṛ"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "legacy hint in-many-ways",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "legacy hint form",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "dhyāna",
      "gloss": "in-meditation",
-     "grounds": "legacy hint in-meditation",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "eka",
      "gloss": "one-pointed",
-     "grounds": "legacy hint one-pointed",
-     "morph": "(indecl.)"
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "gata",
      "gloss": "gone",
-     "grounds": "legacy hint gone",
-     "morph": "(indecl.)"
+     "grounds": "participle",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "cetasaḥ",
      "gloss": "mind",
-     "grounds": "legacy hint mind",
+     "grounds": "noun",
      "morph": "n.gen.sg"
     }
    ],
-   "question": "What does one-pointed meditation mind produce in many forms?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "he makes is stated",
-    "many forms are stated",
-    "one-pointed meditation mind is stated"
+    "he-makes many-ways form meditation one-pointed gone mind"
    ],
-   "inference": "The verse says one-pointed meditation mind makes many forms.",
+   "inference": "The verse lists he-makes many-ways form meditation one-pointed gone mind.",
    "uncertainties": [
-    "agent and object relation is compressed"
+    "legacy hints only"
    ],
-   "plain_english": "He makes, in many ways, form, in meditation, one-pointed, gone, mind."
+   "plain_english": "He-makes many-ways form meditation one-pointed gone mind."
   },
   {
    "verse": 242,
@@ -227,63 +219,61 @@
     {
      "surface": "kruddhaḥ",
      "gloss": "when-angry",
-     "grounds": "legacy hint when-angry",
+     "grounds": "participle",
      "morph": "m.nom.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "saṃharet",
      "gloss": "he-destroys",
-     "grounds": "legacy hint he-destroys",
-     "morph": "3.sg.act-opt + root saṃhṛ"
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root-hṛ"
     },
     {
      "surface": "sarvaṃ",
      "gloss": "all",
-     "grounds": "legacy hint all",
+     "grounds": "pronoun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "legacy hint triple-world",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sa",
      "gloss": "with-moving",
-     "grounds": "legacy hint with-moving",
-     "morph": "(indecl.)"
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "cara",
      "gloss": "and-unmoving",
-     "grounds": "legacy hint and-unmoving",
-     "morph": "(indecl.)"
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "acaram",
      "gloss": "unmoving",
-     "grounds": "legacy hint unmoving",
+     "grounds": "adjective",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What does angry power destroy across moving and unmoving worlds?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "anger is stated",
-    "destruction of all is stated",
-    "triple world is stated"
+    "when-angry and he-destroys all triple-world with-moving and-unmoving unmoving"
    ],
-   "inference": "The verse says anger destroys all triple world, moving and unmoving.",
+   "inference": "The verse lists when-angry and he-destroys all triple-world with-moving and-unmoving unmoving.",
    "uncertainties": [
-    "subject of anger is not explicit"
+    "legacy hints only"
    ],
-   "plain_english": "When angry, and, he destroys, all, triple world, with moving, and unmoving, unmoving."
+   "plain_english": "When-angry and he-destroys all triple-world with-moving and-unmoving unmoving."
   },
   {
    "verse": 243,
@@ -291,57 +281,55 @@
     {
      "surface": "tṛtīyam",
      "gloss": "third",
-     "grounds": "legacy hint third",
+     "grounds": "ordinal",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "mahā",
      "gloss": "great",
-     "grounds": "legacy hint great",
-     "morph": "(indecl.)"
+     "grounds": "prefix",
+     "morph": "indecl."
     },
     {
      "surface": "cakraṃ",
      "gloss": "wheel",
-     "grounds": "legacy hint wheel",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "nava",
      "gloss": "nine",
-     "grounds": "legacy hint nine",
-     "morph": "(indecl.)"
+     "grounds": "numeral",
+     "morph": "indecl."
     },
     {
      "surface": "tattva",
      "gloss": "tattva",
-     "grounds": "legacy hint tattva",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "pramocakaḥ",
      "gloss": "liberator",
-     "grounds": "legacy hint liberator",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What is the third great wheel that liberates nine tattvas?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "third wheel is named",
-    "great wheel is named",
-    "nine tattva liberator is named"
+    "third and great wheel nine tattva liberator"
    ],
-   "inference": "The verse identifies the third great wheel as liberator of nine tattvas.",
+   "inference": "The verse lists third and great wheel nine tattva liberator.",
    "uncertainties": [
-    "exact nine tattvas are not listed"
+    "legacy hints only"
    ],
-   "plain_english": "Third, and, great, wheel, nine, tattva, liberator."
+   "plain_english": "Third and great wheel nine tattva liberator."
   },
   {
    "verse": 244,
@@ -349,57 +337,55 @@
     {
      "surface": "balī",
      "gloss": "wrinkle",
-     "grounds": "legacy hint wrinkle",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "palita",
      "gloss": "grey-hair",
-     "grounds": "legacy hint grey-hair",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "nāśam",
      "gloss": "destruction",
-     "grounds": "legacy hint destruction",
-     "morph": "m.acc.sg"
+     "grounds": "noun",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "sudūrāt",
      "gloss": "from-very-far",
-     "grounds": "legacy hint from-very-far",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     },
     {
      "surface": "darśanam",
      "gloss": "seeing",
-     "grounds": "legacy hint seeing",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "legacy hint likewise",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     }
    ],
-   "question": "What distant seeing destroys wrinkles and grey hair?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "wrinkle and grey hair destruction is named",
-    "distant seeing is named",
-    "likewise is stated"
+    "wrinkle grey-hair destruction and from-very-far seeing likewise"
    ],
-   "inference": "The verse connects distant seeing with destruction of wrinkles and grey hair.",
+   "inference": "The verse lists wrinkle grey-hair destruction and from-very-far seeing likewise.",
    "uncertainties": [
-    "causal mechanism is not explained"
+    "legacy hints only"
    ],
-   "plain_english": "Wrinkle, grey-hair, destruction, and, from very far, seeing, likewise."
+   "plain_english": "Wrinkle grey-hair destruction and from-very-far seeing likewise."
   },
   {
    "verse": 245,
@@ -407,57 +393,55 @@
     {
      "surface": "ekānte",
      "gloss": "in-solitude",
-     "grounds": "legacy hint in-solitude",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.loc.sg"
     },
     {
      "surface": "bahudhā",
      "gloss": "in-many-ways",
-     "grounds": "legacy hint in-many-ways",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     },
     {
      "surface": "rūpaṃ",
      "gloss": "form",
-     "grounds": "legacy hint form",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kuru",
      "gloss": "make",
-     "grounds": "legacy hint make",
-     "morph": "2.sg.act-imp + root kṛ"
+     "grounds": "verb",
+     "morph": "2.sg.act-imp+root-kṛ"
     },
     {
      "surface": "dhyānañ",
      "gloss": "meditation",
-     "grounds": "legacy hint meditation",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "legacy hint and",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent-on-that",
-     "grounds": "legacy hint intent-on-that",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What solitary practice makes many forms in meditation?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "solitude is named",
-    "many forms are named",
-    "meditation is named"
+    "in-solitude many-ways form make meditation and intent-on-that"
    ],
-   "inference": "The verse instructs making many forms in meditation while intent on that.",
+   "inference": "The verse lists in-solitude many-ways form make meditation and intent-on-that.",
    "uncertainties": [
-    "exact object of tatparaḥ is implicit"
+    "legacy hints only"
    ],
-   "plain_english": "In solitude, in many ways, form, make, meditation, and, intent on that."
+   "plain_english": "In-solitude many-ways form make meditation and intent-on-that."
   },
   {
    "verse": 246,
@@ -465,51 +449,49 @@
     {
      "surface": "kurute",
      "gloss": "he-makes",
-     "grounds": "legacy hint he-makes",
-     "morph": "3.sg.act-pres + root kṛ"
+     "grounds": "verb",
+     "morph": "3.sg.act-pres+root-kṛ"
     },
     {
      "surface": "amaratvaṃ",
      "gloss": "immortality",
-     "grounds": "legacy hint immortality",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "hi",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "satata",
      "gloss": "in-constant",
-     "grounds": "legacy hint in-constant",
-     "morph": "(indecl.)"
+     "grounds": "adjective",
+     "morph": "indecl."
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "legacy hint practice",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "tatparaḥ",
      "gloss": "intent",
-     "grounds": "legacy hint intent",
+     "grounds": "adjective",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What constant practice makes immortality for the intent practitioner?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "he makes is stated",
-    "immortality is stated",
-    "constant practice is stated"
+    "he-makes immortality indeed constant practice intent"
    ],
-   "inference": "The verse says constant practice makes immortality.",
+   "inference": "The verse lists he-makes immortality indeed constant practice intent.",
    "uncertainties": [
-    "practitioner identity is implicit"
+    "legacy hints only"
    ],
-   "plain_english": "He makes, immortality, indeed, in constant, practice, intent."
+   "plain_english": "He-makes immortality indeed constant practice intent."
   },
   {
    "verse": 247,
@@ -517,51 +499,49 @@
     {
      "surface": "divasāt",
      "gloss": "by-day",
-     "grounds": "legacy hint by-day",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.abl.sg"
     },
     {
      "surface": "nāśanena",
      "gloss": "non-eating",
-     "grounds": "legacy hint non-eating",
-     "morph": "n.ins.sg"
+     "grounds": "noun",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "legacy hint indeed",
-     "morph": "(indecl.)"
+     "grounds": "particle",
+     "morph": "indecl."
     },
     {
      "surface": "vayo",
      "gloss": "age",
-     "grounds": "legacy hint age",
-     "morph": "n.acc.sg"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "mṛtyuṃ",
      "gloss": "death",
-     "grounds": "legacy hint death",
-     "morph": "m.acc.sg"
+     "grounds": "noun",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "gamiṣyate",
      "gloss": "will-go",
-     "grounds": "legacy hint will-go",
-     "morph": "3.sg.mid-fut + root gam"
+     "grounds": "verb",
+     "morph": "3.sg.mid-fut+root-gam"
     }
    ],
-   "question": "What daily non-eating removes age and death?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "by day is stated",
-    "non-eating is stated",
-    "age and death are stated"
+    "by-day non-eating indeed age death will-go"
    ],
-   "inference": "The verse says daily non-eating removes age and death.",
+   "inference": "The verse lists by-day non-eating indeed age death will-go.",
    "uncertainties": [
-    "exact fasting regimen is unspecified"
+    "legacy hints only"
    ],
-   "plain_english": "By day, non-eating, indeed, age, death, will go."
+   "plain_english": "By-day non-eating indeed age death will-go."
   },
   {
    "verse": 248,
@@ -569,63 +549,61 @@
     {
      "surface": "satata",
      "gloss": "by-constant",
-     "grounds": "legacy hint by-constant",
-     "morph": "(indecl.)"
+     "grounds": "adjective",
+     "morph": "indecl."
     },
     {
      "surface": "abhyāsa",
      "gloss": "practice",
-     "grounds": "legacy hint practice",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "yogena",
      "gloss": "yoga",
-     "grounds": "legacy hint yoga",
-     "morph": "m.ins.sg"
+     "grounds": "noun",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "dvi",
      "gloss": "two",
-     "grounds": "legacy hint two",
-     "morph": "(indecl.)"
+     "grounds": "numeral",
+     "morph": "indecl."
     },
     {
      "surface": "aṣṭa",
      "gloss": "times-eight",
-     "grounds": "legacy hint times-eight",
-     "morph": "(indecl.)"
+     "grounds": "numeral",
+     "morph": "indecl."
     },
     {
      "surface": "varṣa",
      "gloss": "year",
-     "grounds": "legacy hint year",
-     "morph": "(indecl.)"
+     "grounds": "noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "ākṛtiḥ",
      "gloss": "form",
-     "grounds": "legacy hint form",
+     "grounds": "noun",
      "morph": "f.nom.sg"
     },
     {
      "surface": "bhavet",
      "gloss": "he-becomes",
-     "grounds": "legacy hint he-becomes",
-     "morph": "3.sg.act-opt + root bhū"
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root-bhū"
     }
    ],
-   "question": "What constant yoga practice changes form in sixteen years?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "constant practice is stated",
-    "yoga is stated",
-    "sixteen years is stated"
+    "constant practice yoga two eight year form becomes"
    ],
-   "inference": "The verse says constant yoga practice transforms form in sixteen years.",
+   "inference": "The verse lists constant practice yoga two eight year form becomes.",
    "uncertainties": [
-    "exact transformation is unspecified"
+    "legacy hints only"
    ],
-   "plain_english": "By constant, practice, yoga, two, times-eight, year, form, he becomes."
+   "plain_english": "Constant practice yoga two eight year form becomes."
   },
   {
    "verse": 249,
@@ -633,57 +611,55 @@
     {
      "surface": "dhūmra",
      "gloss": "smoke",
-     "grounds": "legacy hint smoke",
-     "morph": "(indecl.)"
+     "grounds": "adjective",
+     "morph": "indecl."
     },
     {
      "surface": "varṇaṃ",
      "gloss": "colored",
-     "grounds": "legacy hint colored",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "legacy hint always",
-     "morph": "(indecl.)"
+     "grounds": "indeclinable",
+     "morph": "indecl."
     },
     {
      "surface": "cintya",
      "gloss": "contemplate",
-     "grounds": "legacy hint contemplate",
-     "morph": "(indecl.)"
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "trailokyaṃ",
      "gloss": "triple-world",
-     "grounds": "legacy hint triple-world",
+     "grounds": "noun",
      "morph": "n.acc.sg"
     },
     {
      "surface": "cālayet",
      "gloss": "he-shakes",
-     "grounds": "legacy hint he-shakes",
-     "morph": "3.sg.act-opt + root cāl"
+     "grounds": "verb",
+     "morph": "3.sg.act-opt+root-cal"
     },
     {
      "surface": "priye",
      "gloss": "o-beloved",
-     "grounds": "legacy hint o-beloved",
+     "grounds": "vocative",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "What smoke-colored contemplation shakes the triple world?",
+   "question": "What powers and transformations arise from meditating on each cakra?",
    "premises": [
-    "smoke color is named",
-    "constant contemplation is named",
-    "triple world shaking is named"
+    "smoke colored always contemplate triple-world shakes beloved"
    ],
-   "inference": "The verse says smoke-colored contemplation shakes the triple world.",
+   "inference": "The verse lists smoke colored always contemplate triple-world shakes beloved.",
    "uncertainties": [
-    "exact contemplative object is implicit"
+    "legacy hints only"
    ],
-   "plain_english": "Smoke, colored, always, contemplate, triple world, he shakes, O beloved."
+   "plain_english": "Smoke colored always contemplate triple-world shakes beloved."
   }
  ]
 }
