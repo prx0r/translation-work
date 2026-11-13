@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative indicating location in the hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kapāle",
+     "gloss": "in-skull",
+     "grounds": "locative indicating location in the skull-cup",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpitāni",
+     "gloss": "fashioned-things",
+     "grounds": "past participle used substantively for constructed or imagined things",
+     "morph": "n.nom.pl.ppp(vi-√kḷp)"
+    },
+    {
+     "surface": "śubha+aśubhānām",
+     "gloss": "of-auspicious-and-inauspicious",
+     "grounds": "genitive plural dvandva compound denoting both auspicious and inauspicious",
+     "morph": "compound(śubha+coord+aśubha).gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending scope to both kinds",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "to-her",
+     "grounds": "accusative pronoun referring to the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "I-bow",
+     "grounds": "first-person expression of reverence",
+     "morph": "1.sg.pres.act(√nam)"
+    }
+   ],
+   "question": "What scope of fashioned auspicious and inauspicious things warrants homage to the goddess?",
+   "premises": [
+    "Fashioned things are located in the goddess's hand and skull.",
+    "These fashioned things include both auspicious and inauspicious kinds.",
+    "The goddess encompasses this totality of fashioned things."
+   ],
+   "inference": "Therefore the goddess is worthy of bowing as the holder of all fashioned auspicious and inauspicious things.",
+   "uncertainties": [
+    "The precise symbolic relation between hand and skull as loci of fashioned things is not explicit."
+   ],
+   "plain_english": "I bow to her, in whose hand and skull are fashioned all things, both auspicious and inauspicious."
+  }
+ ]
+}
