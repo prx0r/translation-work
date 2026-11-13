@@ -7,79 +7,79 @@
     {
      "surface": "pṛthag",
      "gloss": "separately",
-     "grounds": "manner of distinct presentation",
+     "grounds": "indicates distinct treatment",
      "morph": "(indecl.)"
     },
     {
      "surface": "vibhajya",
      "gloss": "having-divided",
-     "grounds": "act of distinguishing parts before instruction",
-     "morph": "gerund √bhaj"
+     "grounds": "prior act of division",
+     "morph": "gerund (√bhaj)"
     },
     {
      "surface": "upadiṣṭam",
      "gloss": "taught",
-     "grounds": "instruction already given",
-     "morph": "n.nom.sg.ppp √diś+upa"
+     "grounds": "instruction given",
+     "morph": "n.nom.sg. past-participle (√diś + upa)"
     },
     {
      "surface": "upadiṣṭam",
      "gloss": "taught",
-     "grounds": "repeated for emphasis on instruction",
-     "morph": "n.nom.sg.ppp √diś+upa"
+     "grounds": "repeated for emphasis",
+     "morph": "n.nom.sg. past-participle (√diś + upa)"
     }
    ],
-   "question": "In what manner must the teaching be delivered as distinct and divided?",
+   "question": "In what manner must instruction be delivered after separate division?",
    "premises": [
-    "Instruction is presented separately.",
-    "Instruction follows a prior division of its parts.",
-    "The teaching is explicitly given as taught."
+    "Instruction involves a prior act of division.",
+    "The divided elements are treated separately.",
+    "Teaching is explicitly given after this separation."
    ],
-   "inference": "Proper transmission requires dividing the subject and teaching each part distinctly.",
+   "inference": "Proper instruction requires dividing the subject and teaching each part distinctly.",
    "uncertainties": [
-    "The repeated upadiṣṭam may be emphatic or metrical."
+    "The repeated upadiṣṭam may be emphatic or a textual duplication."
    ],
-   "plain_english": "It has been taught separately, after being divided."
+   "plain_english": "Having divided it separately, it has been taught, taught."
   },
   {
    "verse": 102,
    "rows": [
     {
      "surface": "bhaved",
-     "gloss": "should-be",
-     "grounds": "prescribes the appropriate manner",
-     "morph": "3.sg.opt.act √bhū"
+     "gloss": "may-be",
+     "grounds": "expresses possibility or prescription",
+     "morph": "3.sg.optative.act (√bhū)"
     },
     {
      "surface": "eṣāṃ",
      "gloss": "of-these",
-     "grounds": "refers to the previously mentioned items or recipients",
-     "morph": "m.gen.pl"
+     "grounds": "refers to previously mentioned items",
+     "morph": "m.gen.pl (pronoun)"
     },
     {
      "surface": "yathābhiprāyam",
      "gloss": "according-to-intention",
-     "grounds": "conformity with intended meaning or wish",
+     "grounds": "conformity with purpose",
      "morph": "(indecl., avyayībhāva)"
     },
     {
      "surface": "abhiprāya",
      "gloss": "intention",
-     "grounds": "the underlying purpose or wish",
+     "grounds": "purpose or aim",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "According to whose intention should the instruction for these be understood?",
+   "question": "According to whose intention should the application of these teachings proceed?",
    "premises": [
-    "The manner of instruction should conform to intention.",
-    "The intention pertains to these recipients or matters.",
-    "Intention is explicitly named as the guiding principle."
+    "The application concerns these previously mentioned elements.",
+    "An intention or purpose governs the application.",
+    "The manner of being should conform to that intention."
    ],
-   "inference": "The teaching should be adapted according to the intention relevant to these cases.",
+   "inference": "The teaching should be applied in accordance with the intended purpose.",
    "uncertainties": [
     "Whether abhiprāya restates or specifies yathābhiprāyam is unclear."
    ],
-   "plain_english": "It should be according to their intention."
+   "plain_english": "It should be according to the intention of these; that is the intention."
   },
   {
    "verse": 103,
@@ -87,8 +87,8 @@
     {
      "surface": "gṛhāṇa",
      "gloss": "receive",
-     "grounds": "command to accept or take in",
-     "morph": "2.sg.imp.act √grah"
+     "grounds": "command to accept",
+     "morph": "2.sg.imperative.act (√grah)"
     },
     {
      "surface": "iti",
@@ -99,27 +99,27 @@
     {
      "surface": "nivedayet",
      "gloss": "should-inform",
-     "grounds": "act of communicating or presenting",
-     "morph": "3.sg.opt.act √vid+ni"
+     "grounds": "act of presenting or reporting",
+     "morph": "3.sg.optative.act (√nived, ni-√vid caus.)"
     },
     {
      "surface": "nivedayet",
      "gloss": "should-inform",
-     "grounds": "repeated for emphasis on communication",
-     "morph": "3.sg.opt.act √vid+ni"
+     "grounds": "repeated for emphasis",
+     "morph": "3.sg.optative.act (√nived, ni-√vid caus.)"
     }
    ],
-   "question": "What communicative act must accompany the instruction to receive the teaching?",
+   "question": "What verbal act must accompany the reception of the teaching?",
    "premises": [
-    "The recipient is told to receive.",
-    "The instruction is framed with a concluding marker.",
-    "One should inform or present the matter."
+    "The recipient is commanded to receive.",
+    "A concluding utterance is marked by thus.",
+    "One should inform or present accordingly."
    ],
-   "inference": "The teaching must be both received by the student and formally communicated.",
+   "inference": "Reception of the teaching must be accompanied by a formal act of informing.",
    "uncertainties": [
-    "The repeated nivedayet may indicate emphasis or a formulaic close."
+    "The repeated nivedayet may be emphatic or a textual duplication."
    ],
-   "plain_english": "Saying 'receive,' one should inform and present it."
+   "plain_english": "Receive it, thus one should inform, should inform."
   },
   {
    "verse": 104,
@@ -127,91 +127,91 @@
     {
      "surface": "vikasita",
      "gloss": "blossomed",
-     "grounds": "describes an opened or expanded state",
-     "morph": "compound-member"
+     "grounds": "opened or expanded state",
+     "morph": "compound-member (past-participle, √vikas)"
     },
     {
      "surface": "madhyama",
      "gloss": "middle",
-     "grounds": "qualifies the paths as intermediate",
+     "grounds": "central or intermediate",
      "morph": "compound-member"
     },
     {
      "surface": "mārgaiḥ",
      "gloss": "by-paths",
-     "grounds": "means through which attainment occurs",
-     "morph": "m.inst.pl"
+     "grounds": "means or channels",
+     "morph": "m.inst.pl (mārga)"
     },
     {
      "surface": "labhyam",
      "gloss": "obtainable",
-     "grounds": "states that the aim can be attained",
-     "morph": "n.nom.sg.gerundive √labh"
+     "grounds": "capable of being attained",
+     "morph": "n.nom.sg. gerundive (√labh)"
     },
     {
      "surface": "arthaḥ",
-     "gloss": "aim",
-     "grounds": "the goal or meaning to be attained",
+     "gloss": "meaning",
+     "grounds": "object or sense",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "By which paths can the intended aim be obtained in practice?",
+   "question": "By what paths can the intended meaning be obtained?",
    "premises": [
     "There are blossomed middle paths.",
-    "These paths function as means of attainment.",
-    "The aim is described as obtainable."
+    "These paths function as means.",
+    "The meaning is obtainable through them."
    ],
-   "inference": "The intended aim is attainable through the expanded middle paths.",
+   "inference": "The intended meaning is attained through the blossomed middle paths.",
    "uncertainties": [
-    "The exact referent of madhyama mārgaiḥ depends on prior context."
+    "The exact referent of vikasita-madhyama-mārgaiḥ is context-dependent."
    ],
-   "plain_english": "The aim is obtainable through the blossomed middle paths."
+   "plain_english": "The meaning is obtainable through the blossomed middle paths."
   },
   {
    "verse": 105,
    "rows": [
     {
      "surface": "bhavati",
-     "gloss": "is",
-     "grounds": "asserts a state or occurrence",
-     "morph": "3.sg.pres.act √bhū"
+     "gloss": "becomes",
+     "grounds": "states occurrence or existence",
+     "morph": "3.sg.present.act (√bhū)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "marks a stated conclusion",
+     "grounds": "marks conclusion",
      "morph": "(indecl.)"
     },
     {
      "surface": "tatra",
      "gloss": "there",
-     "grounds": "locates the claim in that context",
+     "grounds": "locates in that context",
      "morph": "(indecl.)"
     },
     {
      "surface": "vyāptiḥ",
      "gloss": "pervasion",
-     "grounds": "comprehensive presence or applicability",
+     "grounds": "comprehensive presence",
      "morph": "f.nom.sg"
     },
     {
      "surface": "asti",
      "gloss": "exists",
-     "grounds": "affirms the presence of pervasion",
-     "morph": "3.sg.pres.act √as"
+     "grounds": "asserts presence",
+     "morph": "3.sg.present.act (√as)"
     }
    ],
-   "question": "What condition of pervasion is affirmed to exist in that context?",
+   "question": "What condition of pervasion holds in that stated context?",
    "premises": [
-    "A state is asserted as being so.",
-    "The assertion is located in that context.",
-    "Pervasion is said to exist there."
+    "A state is said to come about.",
+    "That state is located in a specific context.",
+    "Pervasion exists there."
    ],
-   "inference": "In that context, pervasion is present as an established condition.",
+   "inference": "In that context, pervasion is present as the resulting condition.",
    "uncertainties": [
-    "The scope of vyāptiḥ is not specified within this verse."
+    "The scope of tatra is not fully specified in this unit."
    ],
-   "plain_english": "Thus, in that context, pervasion exists."
+   "plain_english": "Thus it becomes; there, pervasion exists."
   },
   {
    "verse": 106,
@@ -219,39 +219,39 @@
     {
      "surface": "sādhaka",
      "gloss": "adept",
-     "grounds": "practitioner undertaking the rite",
-     "morph": "compound-member"
+     "grounds": "practitioner",
+     "morph": "compound-member (m.)"
     },
     {
      "surface": "uttamaiḥ",
      "gloss": "by-best",
-     "grounds": "qualifies the agents as excellent",
-     "morph": "m.inst.pl"
+     "grounds": "highest or excellent",
+     "morph": "m.inst.pl (uttama)"
     },
     {
      "surface": "gṛhasthaiḥ",
      "gloss": "by-householders",
-     "grounds": "identifies practitioners living in the household stage",
-     "morph": "m.inst.pl"
+     "grounds": "those living in households",
+     "morph": "m.inst.pl (gṛhastha)"
     },
     {
      "surface": "yajana",
      "gloss": "worship",
-     "grounds": "ritual act to be performed",
-     "morph": "n.nom.sg"
+     "grounds": "ritual act",
+     "morph": "n.nom.sg (action-noun, √yaj)"
     }
    ],
-   "question": "Which qualified practitioners are authorized to perform the prescribed worship?",
+   "question": "Which practitioners are qualified to perform the prescribed worship?",
    "premises": [
-    "The agents are described as adepts.",
-    "The agents are described as the best householders.",
-    "Worship is the act in question."
+    "Worship is the act in question.",
+    "Adepts are involved in the practice.",
+    "The best householders are specified as agents."
    ],
-   "inference": "The prescribed worship is to be performed by the best householder adepts.",
+   "inference": "The prescribed worship is performed by the best householders who are adepts.",
    "uncertainties": [
-    "The compound boundary in sādhaka uttamaiḥ is interpreted from context."
+    "The compound relation between sādhaka and uttamaiḥ gṛhasthaiḥ is interpretive."
    ],
-   "plain_english": "Worship is performed by the best householder adepts."
+   "plain_english": "Worship is by the best householder adepts."
   },
   {
    "verse": 107,
@@ -259,37 +259,37 @@
     {
      "surface": "yajanam",
      "gloss": "worship",
-     "grounds": "the ritual act to be undertaken",
-     "morph": "n.acc.sg"
+     "grounds": "ritual act as object",
+     "morph": "n.acc.sg (action-noun, √yaj)"
     },
     {
      "surface": "ārabheta",
      "gloss": "should-begin",
-     "grounds": "injunction to commence the act",
-     "morph": "3.sg.opt.mid √rabh+ā"
+     "grounds": "injunction to commence",
+     "morph": "3.sg.optative.middle (ā-√rabh)"
     },
     {
      "surface": "bāhyam",
      "gloss": "external",
-     "grounds": "qualifies the worship as outward",
+     "grounds": "outward form",
      "morph": "n.acc.sg"
     },
     {
      "surface": "arthaḥ",
      "gloss": "meaning",
-     "grounds": "states the intended sense of the injunction",
+     "grounds": "sense or purport",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What kind of worship should be commenced according to this injunction?",
+   "question": "What kind of worship should be commenced according to this instruction?",
    "premises": [
-    "Worship is the object to be begun.",
-    "The worship is specified as external.",
-    "The statement gives the intended meaning."
+    "Worship is the object to be undertaken.",
+    "There is an injunction to begin it.",
+    "The worship is characterized as external."
    ],
-   "inference": "One should begin external worship as the prescribed act.",
+   "inference": "One should begin external worship as the intended practice.",
    "uncertainties": [
-    "arthaḥ may function as a glossing marker rather than a semantic subject."
+    "arthaḥ may function as a glossing marker rather than part of the injunction."
    ],
    "plain_english": "One should begin external worship; that is the meaning."
   },
@@ -299,63 +299,63 @@
     {
      "surface": "ijyata",
      "gloss": "is-worshipped",
-     "grounds": "states the act of worship",
-     "morph": "3.sg.pres.pass √yaj"
+     "grounds": "passive ritual action",
+     "morph": "3.sg.present.passive (√yaj)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "marks the basis for naming",
+     "grounds": "marks explanation",
      "morph": "(indecl.)"
     },
     {
      "surface": "yāga",
      "gloss": "sacrifice",
-     "grounds": "ritual designation derived from worship",
-     "morph": "compound-member"
+     "grounds": "ritual offering",
+     "morph": "compound-member (m.)"
     },
     {
      "surface": "mantragaṇaḥ",
      "gloss": "mantra-group",
-     "grounds": "collective body of mantras involved",
-     "morph": "m.nom.sg"
+     "grounds": "collection of mantras",
+     "morph": "m.nom.sg (compound: mantra+gaṇa)"
     },
     {
      "surface": "anenaiva",
-     "gloss": "by-this-very",
-     "grounds": "identifies the sufficient means",
-     "morph": "m.inst.sg"
+     "gloss": "by-this-alone",
+     "grounds": "exclusive means",
+     "morph": "m./n.inst.sg (pronoun + eva)"
     },
     {
      "surface": "atra",
      "gloss": "here",
-     "grounds": "locates the indication in this context",
+     "grounds": "in this context",
      "morph": "(indecl.)"
     },
     {
      "surface": "pūjanam",
      "gloss": "worship",
-     "grounds": "the act being indicated",
-     "morph": "n.nom.sg"
+     "grounds": "act of honoring",
+     "morph": "n.nom.sg (action-noun, √pūj)"
     },
     {
      "surface": "sūcitam",
      "gloss": "indicated",
-     "grounds": "shows that worship is implied",
-     "morph": "n.nom.sg.ppp √sūc"
+     "grounds": "pointed out or implied",
+     "morph": "n.nom.sg. past-participle (√sūc)"
     }
    ],
-   "question": "What establishes that worship is indicated by the mantra group in this context?",
+   "question": "What constitutes the worship indicated in this ritual context?",
    "premises": [
-    "Worship is the defining act expressed as being worshipped.",
-    "A group of mantras is present in this context.",
-    "By this very means, worship is indicated."
+    "Worship is described as being performed.",
+    "A group of mantras is involved in the sacrifice.",
+    "By this alone the worship here is indicated."
    ],
-   "inference": "The mantra group itself indicates and constitutes the worship here.",
+   "inference": "The indicated worship here consists in worship through that mantra-group alone.",
    "uncertainties": [
-    "The precise syntactic link between yāga and mantragaṇaḥ is compressed."
+    "The precise antecedent of anenaiva is not explicit in this unit."
    ],
-   "plain_english": "Because worship is performed, the mantra group is called sacrifice, and by this very means worship is indicated here."
+   "plain_english": "It is worshipped, thus: by this mantra-group of the sacrifice alone, worship is indicated here."
   },
   {
    "verse": 109,
@@ -363,97 +363,97 @@
     {
      "surface": "eṣa",
      "gloss": "this",
-     "grounds": "points to the practice under discussion",
-     "morph": "m.nom.sg"
+     "grounds": "demonstrative referent",
+     "morph": "m.nom.sg (pronoun)"
     },
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "adds this element to prior instructions",
+     "grounds": "adds another element",
      "morph": "(indecl.)"
     },
     {
      "surface": "śaktinyāsaḥ",
-     "gloss": "śakti-placement",
-     "grounds": "ritual installation of śakti",
-     "morph": "m.nom.sg"
+     "gloss": "power-placement",
+     "grounds": "ritual installation of power",
+     "morph": "m.nom.sg (compound: śakti+nyāsa)"
     },
     {
      "surface": "pūrvatra",
      "gloss": "previously",
-     "grounds": "refers to an earlier stage or text",
+     "grounds": "in the earlier context",
      "morph": "(indecl.)"
     },
     {
      "surface": "antaryāga",
      "gloss": "internal-worship",
-     "grounds": "inward ritual context",
-     "morph": "compound-member"
+     "grounds": "inner ritual",
+     "morph": "compound-member (m.)"
     },
     {
      "surface": "ādāvapi",
      "gloss": "even-at-beginning",
-     "grounds": "includes the initial stage as well",
-     "morph": "(indecl., sandhi: ādau+api)"
+     "grounds": "includes the initial stage",
+     "morph": "(indecl., ādau + api)"
     },
     {
      "surface": "smartavyaḥ",
      "gloss": "to-be-remembered",
-     "grounds": "injunction to keep in mind",
-     "morph": "m.nom.sg.gerundive √smṛ"
+     "grounds": "required recollection",
+     "morph": "m.nom.sg. gerundive (√smṛ)"
     }
    ],
-   "question": "At which stages must the placement of śakti be remembered during worship?",
+   "question": "At what stages must the placement of power be remembered?",
    "premises": [
-    "This śakti-placement is under discussion.",
-    "It is relevant previously and in internal worship.",
-    "It must be remembered even at the beginning."
+    "This placement of power is under discussion.",
+    "It was relevant previously.",
+    "It must be remembered even at the beginning of internal worship."
    ],
-   "inference": "The śakti-placement should be remembered at earlier stages, including the beginning of internal worship.",
+   "inference": "The placement of power must be remembered both previously and at the start of internal worship.",
    "uncertainties": [
-    "pūrvatra may refer to a prior textual section or a prior ritual phase."
+    "The exact scope of pūrvatra relative to antaryāga is compressed."
    ],
-   "plain_english": "And this placement of śakti should be remembered previously and even at the beginning of internal worship."
+   "plain_english": "And this placement of power, previously and even at the beginning of internal worship, must be remembered."
   },
   {
    "verse": 110,
    "rows": [
     {
      "surface": "ityādi",
-     "gloss": "and-so-forth",
-     "grounds": "indicates continuation of a series",
+     "gloss": "thus-and-so-forth",
+     "grounds": "indicates continuation",
      "morph": "(indecl.)"
     },
     {
      "surface": "ityādi",
-     "gloss": "and-so-forth",
+     "gloss": "thus-and-so-forth",
      "grounds": "repeated continuation marker",
      "morph": "(indecl.)"
     },
     {
      "surface": "iti",
      "gloss": "thus",
-     "grounds": "closes the cited sequence",
+     "grounds": "marks closure",
      "morph": "(indecl.)"
     },
     {
      "surface": "ādi",
      "gloss": "beginning",
-     "grounds": "signals the start of an open-ended list",
-     "morph": "n.nom.sg"
+     "grounds": "starting point or et cetera base",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "How does the text signal that the enumerated sequence continues beyond what is stated?",
+   "question": "How is the continuation of the preceding sequence formally marked?",
    "premises": [
-    "The phrase and-so-forth appears repeatedly.",
-    "A closing marker is present.",
-    "The notion of beginning or continuation is invoked."
+    "A continuation marker is used.",
+    "The marker is repeated.",
+    "The sequence is closed with a concluding marker."
    ],
-   "inference": "The text indicates an open-ended continuation of the preceding sequence.",
+   "inference": "The text signals an open-ended continuation of the preceding sequence.",
    "uncertainties": [
-    "The repetition may be formulaic rather than adding new semantic content."
+    "The specific items included in the continuation are not stated."
    ],
-   "plain_english": "And so forth, and so forth, thus beginning and continuing."
+   "plain_english": "And so forth, and so forth, thus beginning."
   },
   {
    "verse": 111,
@@ -461,51 +461,51 @@
     {
      "surface": "kṛte",
      "gloss": "when-done",
-     "grounds": "locative condition of completion",
-     "morph": "n.loc.sg.ppp √kṛ"
+     "grounds": "completed action",
+     "morph": "n.loc.sg. past-participle (√kṛ)"
     },
     {
      "surface": "sati",
      "gloss": "being-so",
-     "grounds": "reinforces the conditional state",
-     "morph": "n.loc.sg.pres.part √as"
+     "grounds": "locative absolute condition",
+     "morph": "n.loc.sg. present-participle (√as)"
     },
     {
      "surface": "sādhakaḥ",
      "gloss": "adept",
-     "grounds": "the practitioner who performs the act",
+     "grounds": "practitioner",
      "morph": "m.nom.sg"
     },
     {
      "surface": "parasiddhipātraṃ",
      "gloss": "supreme-success-vessel",
-     "grounds": "one fit to receive highest accomplishment",
-     "morph": "n.nom.sg"
+     "grounds": "fit recipient of highest attainment",
+     "morph": "n.nom.sg (compound: para+siddhi+pātra)"
     },
     {
      "surface": "bhavati",
      "gloss": "becomes",
-     "grounds": "states the resulting condition",
-     "morph": "3.sg.pres.act √bhū"
+     "grounds": "resulting state",
+     "morph": "3.sg.present.act (√bhū)"
     },
     {
      "surface": "arthaḥ",
      "gloss": "meaning",
-     "grounds": "states the intended sense of the result",
+     "grounds": "sense or purport",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "What result follows for the adept when the prescribed act has been completed?",
+   "question": "What result follows for the adept when the prescribed act is completed?",
    "premises": [
-    "The act is described as having been done.",
-    "The adept is the subject of the result.",
-    "The adept becomes a vessel for supreme accomplishment."
+    "A prescribed act is completed.",
+    "The adept is the subject affected.",
+    "The adept becomes a vessel for supreme success."
    ],
-   "inference": "Upon completion of the prescribed act, the adept becomes fit for supreme accomplishment.",
+   "inference": "Upon completion of the act, the adept becomes fit for supreme attainment.",
    "uncertainties": [
-    "arthaḥ may serve as a concluding gloss rather than part of the main predication."
+    "The specific act referred to by kṛte sati depends on prior context."
    ],
-   "plain_english": "When this is done, the adept becomes a vessel for supreme accomplishment; that is the meaning."
+   "plain_english": "When this is done, the adept becomes a vessel for supreme success; that is the meaning."
   },
   {
    "verse": 112,
@@ -513,63 +513,63 @@
     {
      "surface": "uktā",
      "gloss": "spoken",
-     "grounds": "refers to what has been stated",
-     "morph": "f.nom.sg.ppp √vac"
+     "grounds": "previously stated",
+     "morph": "f.nom.sg. past-participle (√vac)"
     },
     {
      "surface": "śāmbūkādināpi",
      "gloss": "even-by-śāmbūka-and-others",
-     "grounds": "includes śāmbūka and similar means or agents",
-     "morph": "m.inst.sg, sandhi: śāmbūkādinā+api"
+     "grounds": "inclusive alternative agents or means",
+     "morph": "m.inst.sg (compound: śāmbūka+ādi + api)"
     },
     {
      "surface": "vā",
      "gloss": "or",
-     "grounds": "presents an alternative",
+     "grounds": "presents alternative",
      "morph": "(indecl.)"
     },
     {
      "surface": "manasā",
      "gloss": "by-mind",
-     "grounds": "mental mode of worship",
-     "morph": "n.inst.sg"
+     "grounds": "mental means",
+     "morph": "n.inst.sg (manas)"
     },
     {
      "surface": "eva",
      "gloss": "indeed",
-     "grounds": "emphasizes the mental mode",
+     "grounds": "emphatic restriction",
      "morph": "(indecl.)"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "extends the applicability",
+     "grounds": "inclusive emphasis",
      "morph": "(indecl.)"
     },
     {
      "surface": "pūjayed",
      "gloss": "should-worship",
      "grounds": "injunction to perform worship",
-     "morph": "3.sg.opt.act √pūj"
+     "morph": "3.sg.optative.act (√pūj)"
     },
     {
      "surface": "arthaḥ",
      "gloss": "meaning",
-     "grounds": "states the intended sense of the injunction",
+     "grounds": "sense or purport",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "By what alternative means may the prescribed worship be performed according to this statement?",
+   "question": "By what alternative means may the spoken worship be performed?",
    "premises": [
-    "The instruction refers to what has been spoken.",
-    "Worship may be done by śāmbūka and others or by mind alone.",
-    "The statement gives the intended meaning of this option."
+    "A form of worship has been spoken.",
+    "Alternative means are presented.",
+    "Worship may be performed even by mind alone."
    ],
-   "inference": "The prescribed worship may alternatively be performed mentally, even by means associated with śāmbūka and others.",
+   "inference": "The spoken worship may be performed by śāmbūka and others or even mentally alone.",
    "uncertainties": [
-    "The exact identity or function of śāmbūka-ādi is not specified here."
+    "The identity and role of śāmbūka in this context is unclear."
    ],
-   "plain_english": "As stated, one may also worship by means such as śāmbūka, or indeed by the mind alone; that is the meaning."
+   "plain_english": "As spoken, one should worship even by śāmbūka and others, or indeed by mind alone; that is the meaning."
   }
  ]
 }

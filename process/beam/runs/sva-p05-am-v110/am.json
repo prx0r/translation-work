@@ -1,15 +1,15 @@
 {
  "song": "sva-p05",
  "verse": 110,
- "question": "How does the text signal that the enumerated sequence continues beyond what is stated?",
+ "question": "How is the continuation of the preceding sequence formally marked?",
  "premises": [
-  "The phrase and-so-forth appears repeatedly.",
-  "A closing marker is present.",
-  "The notion of beginning or continuation is invoked."
+  "A continuation marker is used.",
+  "The marker is repeated.",
+  "The sequence is closed with a concluding marker."
  ],
- "inference": "The text indicates an open-ended continuation of the preceding sequence.",
+ "inference": "The text signals an open-ended continuation of the preceding sequence.",
  "uncertainties": [
-  "The repetition may be formulaic rather than adding new semantic content."
+  "The specific items included in the continuation are not stated."
  ],
- "plain_english": "And so forth, and so forth, thus beginning and continuing."
+ "plain_english": "And so forth, and so forth, thus beginning."
 }

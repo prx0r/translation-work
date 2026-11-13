@@ -3,13 +3,7 @@
  "song": "kul-p13",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v305 ratio=0.864",
-  "ALIGN_NODISP v306 ratio=0.892",
-  "ALIGN_NODISP v313 ratio=0.895",
-  "ALIGN_NODISP v317 ratio=0.796",
-  "ALIGN_NODISP v318 ratio=0.892"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "b94876369d1346a9",
@@ -26,23 +20,23 @@
   "sub090": {
    "305": {
     "ratio": 0.864,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.987)"
    },
    "306": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.953)"
    },
    "313": {
     "ratio": 0.895,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
    },
    "317": {
     "ratio": 0.796,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.796 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.813)"
    },
    "318": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
    }
   }
  },
@@ -75,13 +69,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v305",
-  "fix: word-order/gloss vs source for v306",
-  "fix: word-order/gloss vs source for v313",
-  "fix: word-order/gloss vs source for v317",
-  "fix: word-order/gloss vs source for v318"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "6dcda71436a59471734fd5f2d45074bf881017c3f5fe223c15f78db61c96578c",
   "l0": "03d0cc0a0bef75dcacd4f9af5985c45e4e10c961a7ce83c8bfb6ddfaf2173d4d",

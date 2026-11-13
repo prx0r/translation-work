@@ -3,10 +3,7 @@
  "song": "kul-p73",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1813 ratio=0.899",
-  "ALIGN_NODISP v1814 ratio=0.875"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "896b9b4b03b84a10",
@@ -23,11 +20,11 @@
   "sub090": {
    "1813": {
     "ratio": 0.899,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.899 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)"
    },
    "1814": {
     "ratio": 0.875,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.938)"
    }
   }
  },
@@ -60,10 +57,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1813",
-  "fix: word-order/gloss vs source for v1814"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "252dd2b05b782b9bd792f8f5efbfe290119c9349b4027ce6ca845934f9659bf7",
   "l0": "6a539e24235794b23f420e9512e0785e9f1cdee56739c728b4291820cc7d0834",

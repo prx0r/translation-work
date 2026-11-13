@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "forehead-syllable-mass-situated",
-     "grounds": "fused compound as given; internal sandhi not split",
-     "morph": "compound=member+membership"
+     "gloss": "situated-in-forehead-letter-mass",
+     "grounds": "compound describing what is located in the collection of syllables at the forehead",
+     "morph": "compound: lalāṭa+varṇa+rāśi+stha (n.acc.sg)"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "cardinal numeral as given",
+     "grounds": "specifies the number of repetitions to be performed",
      "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
-     "gloss": "having-done",
-     "grounds": "gerundive/absolute form as given",
-     "morph": "indecl."
+     "gloss": "having-performed",
+     "grounds": "expresses completion of the act prior to the implied result",
+     "morph": "gerund (indecl.), root kṛ"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "god-worshipped",
-     "grounds": "fused compound as given; internal sandhi not split",
-     "morph": "compound=member+membership"
+     "gloss": "o-god-worshipped-one",
+     "grounds": "vocative address to the deity honored by the gods",
+     "morph": "compound: sura+arcita (m.voc.sg)"
     }
    ],
-   "question": "Under what condition must a hundred-thousand count be placed at the site of god-worship after an act has been completed?",
+   "question": "What ritual repetition must be performed for the deity worshipped by the gods?",
    "premises": [
-    "An act must be completed before placement occurs.",
-    "A count of a hundred-thousand is assigned to a fixed location.",
-    "That location is defined as the site linked to god-worship."
+    "The practice involves a locus in the mass of syllables at the forehead.",
+    "The required act consists of one hundred thousand repetitions.",
+    "The act is addressed to the deity worshipped by the gods."
    ],
-   "inference": "The completed act secures placement of a hundred-thousand at the god-worshipped forehead-syllable site.",
+   "inference": "One must perform one hundred thousand repetitions situated in the forehead's syllable-mass for the god-worshipped deity.",
    "uncertainties": [
-    "Exact scope of the count remains unclear from this verse alone."
+    "The exact nature of the 'varṇa-rāśi' at the forehead is not specified in this verse alone."
    ],
-   "plain_english": "Having done the act, place a hundred-thousand at the forehead-syllable-mass site of the god-worshipped place."
+   "plain_english": "O deity worshipped by the gods, having performed one hundred thousand repetitions situated in the mass of syllables at the forehead."
   }
  ]
 }

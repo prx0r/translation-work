@@ -86,9 +86,11 @@ stayed BLOCKED, and cloud promotions could not clear them.
 (`ājñāsiddhirbhavettasya` / `bhavettasya` / `tasya`), and working-t1 carried
 duplicate verse entries; align ratio dropped to 0.4–0.8 and DATA_OBJECTS failed.
 **Root:** legacy-hint draft rows + chunk overlap, faithfully merged.
-**Fix:** `tools/dedup_t1.py` (count-preserving suffix de-overlap) + working-t1
-duplicate-verse dedupe; T1-only, L0 index invariants hold. Kularnava + kjn
-contracts restored to PASS after re-proof.
+**Fix:** `tools/dedup_t1.py` (count-preserving suffix de-overlap) +
+`tools/collapse_dups.py` (adjacent IDENTICAL repeats, L0 renumber + l0_id
+pruning, count-changing but layer-consistent) + working-t1 duplicate-verse
+dedupe. Kularnava + kjn restored to PASS; all false "sandhi" dispositions
+for duplicated verses removed and regenerated from the true post-fix ratios.
 **Rule:** *de-overlap at merge; one verse entry per working-t1.*
 
 ## 12. Svacchanda/Netra T1 carries non-source tokens (OPEN)

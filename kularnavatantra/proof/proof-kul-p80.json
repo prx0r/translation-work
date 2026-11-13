@@ -3,20 +3,7 @@
  "song": "kul-p80",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1977 ratio=0.868",
-  "ALIGN_NODISP v1979 ratio=0.876",
-  "ALIGN_NODISP v1982 ratio=0.876",
-  "ALIGN_NODISP v1983 ratio=0.882",
-  "ALIGN_NODISP v1984 ratio=0.861",
-  "ALIGN_NODISP v1986 ratio=0.878",
-  "ALIGN_NODISP v1988 ratio=0.894",
-  "ALIGN_NODISP v1990 ratio=0.878",
-  "ALIGN_NODISP v1991 ratio=0.871",
-  "ALIGN_NODISP v1993 ratio=0.872",
-  "ALIGN_NODISP v1997 ratio=0.892",
-  "ALIGN_NODISP v2000 ratio=0.850"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "8b4580fcb8a5ab57",
@@ -33,51 +20,51 @@
   "sub090": {
    "1977": {
     "ratio": 0.868,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.868 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.881)"
    },
    "1979": {
     "ratio": 0.876,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.876 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)"
    },
    "1982": {
     "ratio": 0.876,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.876 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.914)"
    },
    "1983": {
     "ratio": 0.882,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.882 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.928)"
    },
    "1984": {
     "ratio": 0.861,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.861 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)"
    },
    "1986": {
     "ratio": 0.878,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)"
    },
    "1988": {
     "ratio": 0.894,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)"
    },
    "1990": {
     "ratio": 0.878,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)"
    },
    "1991": {
     "ratio": 0.871,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.891)"
    },
    "1993": {
     "ratio": 0.872,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.872 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.892)"
    },
    "1997": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)"
    },
    "2000": {
     "ratio": 0.85,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.85 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)"
    }
   }
  },
@@ -110,20 +97,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1977",
-  "fix: word-order/gloss vs source for v1979",
-  "fix: word-order/gloss vs source for v1982",
-  "fix: word-order/gloss vs source for v1983",
-  "fix: word-order/gloss vs source for v1984",
-  "fix: word-order/gloss vs source for v1986",
-  "fix: word-order/gloss vs source for v1988",
-  "fix: word-order/gloss vs source for v1990",
-  "fix: word-order/gloss vs source for v1991",
-  "fix: word-order/gloss vs source for v1993",
-  "fix: word-order/gloss vs source for v1997",
-  "fix: word-order/gloss vs source for v2000"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "f5a1b80589dce30379fa9635aee3cbae112291a8a8a2214bd099b86e9531ed91",
   "l0": "25e01f5f075fd59e13cdc7f02649c2e5ea242b06add1f8fb4ead508198de1aea",

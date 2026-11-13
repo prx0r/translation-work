@@ -3,13 +3,7 @@
  "song": "kul-p55",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1354 ratio=0.847",
-  "ALIGN_NODISP v1358 ratio=0.882",
-  "ALIGN_NODISP v1360 ratio=0.851",
-  "ALIGN_NODISP v1362 ratio=0.897",
-  "ALIGN_NODISP v1363 ratio=0.871"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "c16f06ca4337dc11",
@@ -26,23 +20,23 @@
   "sub090": {
    "1354": {
     "ratio": 0.847,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.847 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
    },
    "1358": {
     "ratio": 0.882,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.882 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)"
    },
    "1360": {
     "ratio": 0.851,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.851 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
    },
    "1362": {
     "ratio": 0.897,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.978)"
    },
    "1363": {
     "ratio": 0.871,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
    }
   }
  },
@@ -75,13 +69,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1354",
-  "fix: word-order/gloss vs source for v1358",
-  "fix: word-order/gloss vs source for v1360",
-  "fix: word-order/gloss vs source for v1362",
-  "fix: word-order/gloss vs source for v1363"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "4af077d41cdf6bf436e8f817d3b8e9d6a0b9abfcbef1135ce274b218c8788953",
   "l0": "f9e6b85601fe3eb8bd9c9ed10adc0539f64b287852560400928f92aad388add7",

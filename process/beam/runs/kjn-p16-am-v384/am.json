@@ -1,12 +1,15 @@
 {
  "song": "kjn-p16",
  "verse": 384,
- "question": "What transformation occurs in a person who experiences the taste of milk?",
+ "question": "What transformation occurs in a person through experiencing the taste of milk?",
  "premises": [
-  "The taste of milk is experienced",
-  "The person becomes wise and immortal"
+  "The experience involves the taste of milk",
+  "The person becomes wise",
+  "The person becomes immortal"
  ],
  "inference": "Through the taste of milk, a person becomes wise and immortal",
- "uncertainties": [],
+ "uncertainties": [
+  "Whether kṣīra-svāda refers to literal milk or an inner yogic nectar is unclear"
+ ],
  "plain_english": "By the taste of milk, a person becomes wise and immortal."
 }

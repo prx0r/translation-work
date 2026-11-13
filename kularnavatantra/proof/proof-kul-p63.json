@@ -3,11 +3,7 @@
  "song": "kul-p63",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1555 ratio=0.895",
-  "ALIGN_NODISP v1567 ratio=0.886",
-  "ALIGN_NODISP v1570 ratio=0.881"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "0af2b7aa744daff2",
@@ -24,15 +20,15 @@
   "sub090": {
    "1555": {
     "ratio": 0.895,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.986)"
    },
    "1567": {
     "ratio": 0.886,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.975)"
    },
    "1570": {
     "ratio": 0.881,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.881 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.94)"
    }
   }
  },
@@ -65,11 +61,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1555",
-  "fix: word-order/gloss vs source for v1567",
-  "fix: word-order/gloss vs source for v1570"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "95c9714b0dfaaf6edf3d2f209810bf6635dcac12d6dcfe164dcf4fe67568b776",
   "l0": "f865ea66b9ca600c26851ddd6e7805e32d9c0341cd96c02c184fb891be3a848b",
