@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 366,
- "question": "What concluding statement marks the end of the fifteenth chapter?",
+ "question": "Under what condition should one refrain from worshipping Viṣṇu, Śaṅkara, or Maheśvarī?",
  "premises": [
-  "The ordinal pañcadaśaḥ marks the fifteenth chapter.",
-  "The term paṭalaḥ identifies it as a chapter.",
-  "The compound samāptam+idam declares completion."
+  "Worship of Viṣṇu, Śaṅkara, or Maheśvarī is mentioned",
+  "A prohibitive condition is implied by 'so long'",
+  "One should not worship under that condition"
  ],
- "inference": "The fifteenth chapter is hereby completed.",
- "uncertainties": [],
- "plain_english": "The fifteenth chapter is completed here."
+ "inference": "Until the required condition is fulfilled, one should not worship Viṣṇu, Śaṅkara, or Maheśvarī.",
+ "uncertainties": [
+  "The specific limiting condition is supplied by the surrounding context."
+ ],
+ "plain_english": "Until then, one should not worship Viṣṇu, Śaṅkara, or Maheśvarī."
 }

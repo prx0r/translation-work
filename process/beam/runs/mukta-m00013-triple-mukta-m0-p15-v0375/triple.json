@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "oṃ nāradaṃ tarpayāmi",
+     "gloss": "om-narada-i-satisfy",
+     "grounds": "libation formula addressed to Narada; mantra material kept as given",
+     "morph": "mantra-formula"
+    },
+    {
+     "surface": "ityādikrameṇa",
+     "gloss": "in-such-and-other-sequence",
+     "grounds": "iti+ādi+krama; instrumental expressing manner or sequence",
+     "morph": "compound.ins.sg.m"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "application",
+     "grounds": "the applied ritual procedure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what sequential procedure is the Narada libation formula applied?",
+   "premises": [
+    "The formula states satisfaction offered to Narada.",
+    "The expression indicates a sequence of such formulas.",
+    "The verse identifies this as the ritual application."
+   ],
+   "inference": "The Narada libation formula is applied as part of a prescribed sequence of similar offerings.",
+   "uncertainties": [
+    "The full list of recipients implied by ityādi is not specified in this verse."
+   ],
+   "plain_english": "Saying 'Om, I satisfy Narada,' and so on in sequence, is the application."
+  }
+ ]
+}

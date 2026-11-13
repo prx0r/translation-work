@@ -1,16 +1,12 @@
 {
  "song": "mukta-m0-p15",
  "verse": 354,
- "question": "What sequence of ritual actions must be performed within a single day?",
+ "question": "What benefit is declared to result from the previously mentioned practice?",
  "premises": [
-  "The verse lists facing, throwing, and chanting as sequential acts.",
-  "A count of ten thousand is specified for chanting.",
-  "The locative vāsare sets the time frame as a day."
+  "Something is declared",
+  "It gives all prosperity"
  ],
- "inference": "Within a day one should face forward, throw, and chant ten thousand times.",
- "uncertainties": [
-  "The token '?' is unreadable and its referent is unknown.",
-  "The object to be thrown is not specified."
- ],
- "plain_english": "Having faced forward, having thrown, and having chanted ten thousand times in a day..."
+ "inference": "The declared practice bestows all prosperity.",
+ "uncertainties": [],
+ "plain_english": "It is declared to grant all prosperity."
 }
