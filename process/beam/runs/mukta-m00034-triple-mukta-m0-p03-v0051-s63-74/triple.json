@@ -7,37 +7,39 @@
     {
      "surface": "raudraraudreśvarī",
      "gloss": "fierce-fierce-lordess",
-     "grounds": "compound naming the goddess Raudraraudreśvarī",
-     "morph": "compound:f.nom.sg"
+     "grounds": "name of the goddess who has gone forth; compound of raudra and raudreśvarī",
+     "morph": "f.nom.sg"
     },
     {
      "surface": "yā+agāt",
      "gloss": "who-went",
-     "grounds": "relative pronoun fused with verb; internal sandhi marked by +",
-     "morph": "yā:f.nom.sg + agāt:3.sg.aorist.act(√gā)"
+     "grounds": "relative pronoun with verb indicating the goddess who proceeded; fused token kept as given",
+     "morph": "f.nom.sg + 3.sg.aor.act √gā"
     },
     {
      "surface": "tasmāt+iṣṭo",
      "gloss": "therefore-desired",
-     "grounds": "ablative demonstrative fused with past participle; internal sandhi marked by +",
-     "morph": "tasmāt:n.abl.sg + iṣṭaḥ:m.nom.sg"
+     "grounds": "consequence and valued status; fused token kept as given",
+     "morph": "(indecl.) + m.nom.sg"
     },
     {
      "surface": "gurūttamaiḥ",
-     "gloss": "by-best-gurus",
-     "grounds": "compound indicating the most excellent teachers as agents",
-     "morph": "compound:m.inst.pl"
+     "gloss": "by-best-teachers",
+     "grounds": "agents who esteem this goddess",
+     "morph": "m.inst.pl"
     }
    ],
-   "question": "Why is the Raudraraudreśvarī form held as desired by the best gurus?",
+   "question": "Why is the fierce Raudreśvarī goddess esteemed by the best teachers?",
    "premises": [
-    "Raudraraudreśvarī is the form that has come forth.",
-    "This coming forth makes that form especially valued.",
-    "The best gurus therefore desire this form."
+    "Raudreśvarī is the fierce goddess who went forth.",
+    "Her arising establishes a particular valued condition.",
+    "The best teachers therefore hold her as desired."
    ],
-   "inference": "Because Raudraraudreśvarī has manifested in this way, the best gurus regard her as the desired form.",
-   "uncertainties": [],
-   "plain_english": "The Raudraraudreśvarī who came forth is therefore desired by the best gurus."
+   "inference": "Because of her fierce arising, Raudreśvarī is esteemed by the best teachers.",
+   "uncertainties": [
+    "The precise referent of her going forth is not explicit in this verse alone."
+   ],
+   "plain_english": "The fierce Raudreśvarī, who went forth, is therefore desired by the best teachers."
   },
   {
    "verse": 64,
@@ -45,25 +47,27 @@
     {
      "surface": "adhikapriyamelāvāt",
      "gloss": "from-greater-dear-union",
-     "grounds": "ablative compound expressing the cause as an especially dear union",
-     "morph": "compound:m.abl.sg"
+     "grounds": "reason given as an especially beloved meeting or union",
+     "morph": "m.abl.sg"
     },
     {
      "surface": "dhaṭhamelopalakṣaṇaḥ",
-     "gloss": "characterized-by-sudden-union",
-     "grounds": "compound describing the defining mark as a sudden union",
-     "morph": "compound:m.nom.sg"
+     "gloss": "marked-by-sudden-union",
+     "grounds": "characterized by an abrupt or sudden meeting",
+     "morph": "m.nom.sg"
     }
    ],
-   "question": "What characterizes this desired form as arising from an especially dear union?",
+   "question": "What kind of union characterizes the state arising from this especially dear meeting?",
    "premises": [
     "The cause is an especially dear union.",
-    "This union is marked by suddenness.",
-    "The form is defined by that sudden union."
+    "The resulting state is defined by a sudden meeting.",
+    "Suddenness qualifies the nature of that union."
    ],
-   "inference": "The form is characterized by a sudden union because it arises from an especially dear union.",
-   "uncertainties": [],
-   "plain_english": "Because of a greater and dear union, it is characterized by a sudden union."
+   "inference": "The especially dear union is characterized by a sudden meeting.",
+   "uncertainties": [
+    "The exact experiential content of dhaṭha-mela is context-dependent."
+   ],
+   "plain_english": "Because of an especially dear union, it is characterized by a sudden meeting."
   },
   {
    "verse": 65,
@@ -71,43 +75,45 @@
     {
      "surface": "tatkṣaṇe",
      "gloss": "at-that-moment",
-     "grounds": "locative compound indicating the precise time",
-     "morph": "compound:m.loc.sg"
+     "grounds": "indicates the immediate time of the event",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "vismṛtiḥ",
      "gloss": "forgetfulness",
-     "grounds": "noun denoting loss of recollection",
+     "grounds": "loss or disappearance of prior mental orientation",
      "morph": "f.nom.sg"
     },
     {
      "surface": "teṣām",
      "gloss": "of-them",
-     "grounds": "demonstrative pronoun referring to those involved",
+     "grounds": "refers to the participants experiencing the change",
      "morph": "m.gen.pl"
     },
     {
      "surface": "ākāṅkṣāyāḥ",
-     "gloss": "of-desire",
-     "grounds": "noun denoting longing or expectation",
+     "gloss": "of-longing",
+     "grounds": "the desire or expectation that ceases",
      "morph": "f.gen.sg"
     },
     {
      "surface": "parikṣayāt",
      "gloss": "from-destruction",
-     "grounds": "ablative noun expressing the cause as complete cessation",
+     "grounds": "cause of forgetfulness is the complete waning of longing",
      "morph": "m.abl.sg"
     }
    ],
-   "question": "What causes the forgetfulness of desire in them at that very moment?",
+   "question": "What happens to longing at the moment of that sudden union?",
    "premises": [
-    "A specific moment is indicated.",
-    "Desire undergoes complete cessation.",
-    "Forgetfulness arises in them at that moment."
+    "The event occurs at that very moment.",
+    "Longing undergoes complete destruction.",
+    "Forgetfulness arises for those involved."
    ],
-   "inference": "At that moment, their forgetfulness arises because desire has been completely destroyed.",
-   "uncertainties": [],
-   "plain_english": "At that moment, they forget because their desire has completely ceased."
+   "inference": "At that moment, their forgetfulness arises because longing is completely destroyed.",
+   "uncertainties": [
+    "Whether forgetfulness means loss of memory or transcendence of desire is not fully specified."
+   ],
+   "plain_english": "At that moment, they forget, because their longing has completely ceased."
   },
   {
    "verse": 66,
@@ -115,45 +121,45 @@
     {
      "surface": "atra",
      "gloss": "here",
-     "grounds": "indeclinable pointing to this context",
+     "grounds": "locates the observation in this context",
      "morph": "(indecl.)"
     },
     {
      "surface": "ānuguṇyam",
      "gloss": "conformity",
-     "grounds": "noun denoting fittingness or accord",
+     "grounds": "fittingness or harmonious responsiveness",
      "morph": "n.nom.sg"
     },
     {
      "surface": "etasyā",
      "gloss": "of-this",
-     "grounds": "demonstrative pronoun qualifying the goddess",
+     "grounds": "points to the goddess being described",
      "morph": "f.gen.sg"
     },
     {
      "surface": "devyāḥ",
      "gloss": "of-goddess",
-     "grounds": "noun referring to the goddess",
+     "grounds": "the divine feminine principle whose conformity is perceived",
      "morph": "f.gen.sg"
     },
     {
      "surface": "sañcetyate",
      "gloss": "is-perceived",
-     "grounds": "passive verb indicating clear apprehension",
-     "morph": "3.sg.pres.pass(√cit)"
+     "grounds": "the conformity is clearly apprehended",
+     "morph": "3.sg.pass.pres √cit"
     },
     {
      "surface": "sphuṭam",
      "gloss": "clearly",
-     "grounds": "indeclinable adverb emphasizing clarity",
+     "grounds": "emphasizes the clarity of perception",
      "morph": "(indecl.)"
     }
    ],
-   "question": "How is the conformity of this goddess clearly recognized in this context?",
+   "question": "How clearly is the conformity of this goddess perceived in this context?",
    "premises": [
-    "The context is explicitly indicated as here.",
-    "A conformity belonging to this goddess is present.",
-    "That conformity is clearly perceived."
+    "The context is the present experiential situation.",
+    "This goddess possesses a fitting responsiveness.",
+    "That responsiveness is apprehended."
    ],
    "inference": "In this context, the conformity of this goddess is clearly perceived.",
    "uncertainties": [],
@@ -165,49 +171,51 @@
     {
      "surface": "sa",
      "gloss": "that",
-     "grounds": "demonstrative pronoun identifying the sacrifice",
+     "grounds": "demonstrative identifying the true sacrifice",
      "morph": "m.nom.sg"
     },
     {
      "surface": "yāgo",
      "gloss": "sacrifice",
-     "grounds": "noun denoting ritual worship or offering",
+     "grounds": "ritual or worship redefined in experiential terms",
      "morph": "m.nom.sg"
     },
     {
      "surface": "yatra",
      "gloss": "where",
-     "grounds": "relative indeclinable indicating the locus",
+     "grounds": "introduces the defining condition of sacrifice",
      "morph": "(indecl.)"
     },
     {
      "surface": "bhāvānāṃ",
      "gloss": "of-beings",
-     "grounds": "noun referring to entities or states",
+     "grounds": "all entities or states of experience",
      "morph": "m.gen.pl"
     },
     {
      "surface": "viśrāntiḥ",
      "gloss": "resting",
-     "grounds": "noun denoting repose or settling",
+     "grounds": "cessation or repose of beings in their ground",
      "morph": "f.nom.sg"
     },
     {
      "surface": "samanantaram",
      "gloss": "immediately",
-     "grounds": "indeclinable indicating immediate succession",
+     "grounds": "indicates direct, unmediated repose",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What defines the true sacrifice in terms of the immediate resting of beings?",
+   "question": "What defines true sacrifice as the immediate resting of all beings?",
    "premises": [
-    "A sacrifice is being identified.",
-    "Beings come to rest in that locus.",
-    "This resting occurs immediately."
+    "Sacrifice is being defined by a specific condition.",
+    "That condition is the resting of beings.",
+    "The resting occurs immediately."
    ],
-   "inference": "That is the sacrifice where beings come to immediate rest.",
-   "uncertainties": [],
-   "plain_english": "That is the sacrifice where beings come to rest immediately."
+   "inference": "True sacrifice is that in which beings come to immediate rest.",
+   "uncertainties": [
+    "The ontological scope of bhāvānāṃ may include both entities and mental states."
+   ],
+   "plain_english": "That is sacrifice, where beings come to rest immediately."
   },
   {
    "verse": 68,
@@ -215,69 +223,71 @@
     {
      "surface": "pīṭhakrameṇa",
      "gloss": "by-seat-sequence",
-     "grounds": "instrumental compound indicating the ordered method of the seat",
-     "morph": "compound:m.inst.sg"
+     "grounds": "according to the ordered arrangement of sacred seats",
+     "morph": "m.inst.sg"
     },
     {
      "surface": "saṃśritya",
      "gloss": "having-resorted-to",
-     "grounds": "absolutive indicating reliance on the sequence",
-     "morph": "gerund(√śri)"
+     "grounds": "taking support in that ordered structure",
+     "morph": "(indecl.) gerund √śri"
     },
     {
      "surface": "devīcakraṃ",
      "gloss": "goddess-circle",
-     "grounds": "compound naming the circle of goddesses",
-     "morph": "compound:n.nom.sg"
+     "grounds": "the circle or assembly of goddesses",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "vijṛmbhate",
      "gloss": "expands",
-     "grounds": "verb expressing unfolding or expansion",
-     "morph": "3.sg.pres.mid(√jṛmbh)"
+     "grounds": "unfolds or manifests dynamically",
+     "morph": "3.sg.mid.pres √jṛmbh"
     }
    ],
-   "question": "How does the circle of goddesses expand through the sequence of the seat?",
+   "question": "How does the circle of goddesses expand through the sequence of sacred seats?",
    "premises": [
-    "The sequence of the seat is taken as the basis.",
-    "The circle of goddesses is the subject that unfolds.",
-    "Expansion occurs through resorting to that sequence."
+    "The sacred seats form an ordered sequence.",
+    "That sequence is taken as support.",
+    "The goddess circle unfolds dynamically."
    ],
-   "inference": "Having resorted to the sequence of the seat, the circle of goddesses expands.",
+   "inference": "Resorting to the sequence of seats, the circle of goddesses expands.",
    "uncertainties": [],
-   "plain_english": "Resorting to the sequence of the seat, the circle of goddesses expands."
+   "plain_english": "Having resorted to the sequence of the seats, the circle of goddesses expands."
   },
   {
    "verse": 69,
    "rows": [
     {
      "surface": "sarvādyantapratiṣṭhānāt",
-     "gloss": "from-establishment-of-all-beginning-end",
-     "grounds": "ablative compound giving the reason as grounding all beginnings and ends",
-     "morph": "compound:n.abl.sg"
+     "gloss": "from-establishment-of-all-beginnings-ends",
+     "grounds": "because it establishes all beginnings and ends",
+     "morph": "n.abl.sg"
     },
     {
      "surface": "etat",
      "gloss": "this",
-     "grounds": "demonstrative pronoun referring to the previously indicated reality",
+     "grounds": "refers to the principle or seat under discussion",
      "morph": "n.nom.sg"
     },
     {
      "surface": "sarvottamatvataḥ",
-     "gloss": "from-supreme-state",
-     "grounds": "ablative abstract noun indicating the reason as supreme status",
+     "gloss": "because-supreme-above-all",
+     "grounds": "because of its unsurpassed status",
      "morph": "n.abl.sg"
     }
    ],
-   "question": "Why is this reality regarded as supreme in its establishment of all beginnings and ends?",
+   "question": "Why is this principle regarded as supreme above all other realities?",
    "premises": [
-    "This reality establishes all beginnings and ends.",
-    "This reality possesses supreme status.",
-    "Both grounds support its preeminence."
+    "This principle establishes all beginnings and ends.",
+    "What establishes all is unsurpassed.",
+    "Its supremacy follows from that universal establishment."
    ],
-   "inference": "This is supreme because it establishes all beginnings and ends and because of its supreme state.",
-   "uncertainties": [],
-   "plain_english": "Because it establishes all beginnings and ends, and because it is supreme, this is the highest."
+   "inference": "This is supreme because it establishes all beginnings and ends.",
+   "uncertainties": [
+    "The exact referent of etat may be the seat, mantra, or experiential ground."
+   ],
+   "plain_english": "Because it establishes all beginnings and ends, this is supreme above all."
   },
   {
    "verse": 70,
@@ -285,33 +295,33 @@
     {
      "surface": "prakarṣanutimātratvāt",
      "gloss": "from-being-mere-praise-of-excellence",
-     "grounds": "ablative compound giving the reason as consisting only in the praise of excellence",
-     "morph": "compound:n.abl.sg"
+     "grounds": "reason given as consisting solely in the praise of supreme excellence",
+     "morph": "n.abl.sg"
     },
     {
      "surface": "pīṭhaṃ",
      "gloss": "seat",
-     "grounds": "noun denoting the sacred seat",
+     "grounds": "the sacred seat being identified",
      "morph": "n.nom.sg"
     },
     {
      "surface": "praṇavasaṃjñitam",
      "gloss": "named-praṇava",
-     "grounds": "compound indicating the designation as praṇava",
-     "morph": "compound:n.nom.sg"
+     "grounds": "designated by the name praṇava",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "Why is the seat designated by the name praṇava in this teaching?",
+   "question": "Why is the sacred seat identified by the name praṇava in this teaching?",
    "premises": [
-    "The seat receives a specific designation.",
-    "Its nature is expressed as praise of excellence.",
-    "This basis explains the name praṇava."
+    "The seat is characterized as mere praise of excellence.",
+    "Praṇava is the name assigned to it.",
+    "The naming reflects that supreme excellence."
    ],
-   "inference": "Because it consists in the praise of excellence, the seat is named praṇava.",
+   "inference": "Because it is mere praise of excellence, the seat is named praṇava.",
    "uncertainties": [
-    "The exact doctrinal nuance of prakarṣanutimātratva is interpretive."
+    "The phrase prakarṣanutimātratvāt admits more than one doctrinal interpretation."
    ],
-   "plain_english": "Because it is essentially the praise of excellence, the seat is called praṇava."
+   "plain_english": "Because it is nothing but the praise of supreme excellence, the seat is called praṇava."
   },
   {
    "verse": 71,
@@ -319,45 +329,45 @@
     {
      "surface": "atra",
      "gloss": "here",
-     "grounds": "indeclinable indicating the locus",
+     "grounds": "locates the experience in this seat or context",
      "morph": "(indecl.)"
     },
     {
      "surface": "antarnetranāthasya",
      "gloss": "of-inner-eye-lord",
-     "grounds": "compound naming the lord of the inner eye",
-     "morph": "compound:m.gen.sg"
+     "grounds": "the lord associated with the inner eye",
+     "morph": "m.gen.sg"
     },
     {
      "surface": "prakaṭānubhavaḥ",
      "gloss": "manifest-experience",
-     "grounds": "compound denoting a clear, manifest experience",
-     "morph": "compound:m.nom.sg"
+     "grounds": "a clear, direct experience",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "abhavat",
      "gloss": "arose",
-     "grounds": "verb indicating occurrence or arising",
-     "morph": "3.sg.imperfect.act(√bhū)"
+     "grounds": "came into being or occurred",
+     "morph": "3.sg.aor.act √bhū"
     },
     {
      "surface": "n",
      "gloss": "not",
-     "grounds": "negation particle; token given as n",
+     "grounds": "negates the arising of manifest experience as given in the tokenized text",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Did a manifest experience of the lord of the inner eye arise in this locus?",
+   "question": "Did a manifest experience of the inner-eye lord arise in this sacred seat?",
    "premises": [
-    "The locus is specified as here.",
+    "The context is this seat.",
     "A manifest experience of the inner-eye lord is considered.",
-    "The statement negates its arising."
+    "The verse states that it did not arise."
    ],
-   "inference": "Here, a manifest experience of the lord of the inner eye did not arise.",
+   "inference": "In this seat, a manifest experience of the inner-eye lord did not arise.",
    "uncertainties": [
-    "The placement of the negation particle n is syntactically compressed."
+    "The isolated token n may reflect textual transmission or sandhi-related segmentation."
    ],
-   "plain_english": "Here, there was no manifest experience of the lord of the inner eye."
+   "plain_english": "Here, a manifest experience of the lord of the inner eye did not arise."
   },
   {
    "verse": 72,
@@ -365,35 +375,35 @@
     {
      "surface": "yoginīsiddhasaṃsevyam",
      "gloss": "served-by-yoginis-and-siddhas",
-     "grounds": "compound describing what is attended by yoginīs and siddhas",
-     "morph": "compound:n.nom.sg"
+     "grounds": "attended or honored by yoginīs and siddhas",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "uttarasyāṃ",
      "gloss": "in-northern",
-     "grounds": "adjective specifying the direction",
+     "grounds": "specifies the northern direction",
      "morph": "f.loc.sg"
     },
     {
      "surface": "diśi",
      "gloss": "direction",
-     "grounds": "noun denoting spatial direction",
+     "grounds": "spatial location of the seat or abode",
      "morph": "f.loc.sg"
     },
     {
      "surface": "sthitam",
      "gloss": "situated",
-     "grounds": "past participle indicating location",
-     "morph": "n.nom.sg"
+     "grounds": "located or established there",
+     "morph": "n.acc.sg"
     }
    ],
-   "question": "Where is the reality served by yoginīs and siddhas said to be situated?",
+   "question": "Where is the abode served by yoginīs and siddhas situated in sacred space?",
    "premises": [
-    "The reality is served by yoginīs and siddhas.",
-    "A specific direction is named.",
-    "The reality is situated in that direction."
+    "The abode is served by yoginīs and siddhas.",
+    "Its location is specified directionally.",
+    "That direction is the north."
    ],
-   "inference": "That reality, served by yoginīs and siddhas, is situated in the northern direction.",
+   "inference": "The abode served by yoginīs and siddhas is situated in the northern direction.",
    "uncertainties": [],
    "plain_english": "It is situated in the northern direction, served by yoginīs and siddhas."
   },
@@ -403,24 +413,26 @@
     {
      "surface": "sarvajñānāśrayatvena",
      "gloss": "by-being-support-of-all-knowledge",
-     "grounds": "instrumental compound expressing the reason as being the support of all knowledge",
-     "morph": "compound:n.inst.sg"
+     "grounds": "because it serves as the basis of all knowledge",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "lokayātrāpratiṣṭhitam",
      "gloss": "established-in-world-course",
-     "grounds": "compound indicating establishment within the course of the world",
-     "morph": "compound:n.nom.sg"
+     "grounds": "firmly grounded in the ongoing course of the world",
+     "morph": "n.nom.sg"
     }
    ],
-   "question": "How is this reality established in the course of the world through supporting all knowledge?",
+   "question": "How is this abode established within the ongoing course of the world?",
    "premises": [
-    "The reality is the support of all knowledge.",
-    "The world’s course requires such a support.",
-    "The reality is established in that course."
+    "The abode supports all knowledge.",
+    "Support of all knowledge grounds worldly functioning.",
+    "It is established in the course of the world."
    ],
-   "inference": "By being the support of all knowledge, it is established in the course of the world.",
-   "uncertainties": [],
+   "inference": "As the support of all knowledge, it is established in the course of the world.",
+   "uncertainties": [
+    "Lokayātrā may refer to worldly conduct, cosmic process, or both."
+   ],
    "plain_english": "As the support of all knowledge, it is established in the course of the world."
   },
   {
@@ -429,37 +441,37 @@
     {
      "surface": "saṃviddevyo",
      "gloss": "consciousness-goddesses",
-     "grounds": "compound naming the goddesses as forms of consciousness",
-     "morph": "compound:f.nom.pl"
+     "grounds": "goddesses identified with consciousness",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "vyāptisārāḥ",
      "gloss": "whose-essence-is-pervasion",
-     "grounds": "compound describing their essential nature as pervasion",
-     "morph": "compound:f.nom.pl"
+     "grounds": "their essential nature is pervasive presence",
+     "morph": "f.nom.pl"
     },
     {
      "surface": "taddhāma",
      "gloss": "that-abode",
-     "grounds": "compound referring to that abode or locus",
-     "morph": "compound:n.nom.sg"
+     "grounds": "the abode belonging to or defined by them",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "parikīrtitam",
      "gloss": "is-proclaimed",
-     "grounds": "past participle used predicatively to state what is declared",
+     "grounds": "declared or renowned as such",
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Why is that abode proclaimed as the locus of consciousness-goddesses whose essence is pervasion?",
+   "question": "Why is that abode proclaimed as the domain of consciousness-goddesses whose essence is pervasion?",
    "premises": [
-    "The consciousness-goddesses are identified.",
+    "The goddesses are identified with consciousness.",
     "Their essence is pervasion.",
     "That abode is proclaimed in relation to them."
    ],
-   "inference": "That abode is proclaimed as the locus of the consciousness-goddesses whose essence is pervasion.",
+   "inference": "That abode is proclaimed as the domain of consciousness-goddesses whose essence is pervasion.",
    "uncertainties": [],
-   "plain_english": "That abode is proclaimed as belonging to the consciousness-goddesses, whose essence is pervasion."
+   "plain_english": "The consciousness-goddesses, whose essence is pervasion, are proclaimed as that abode."
   }
  ]
 }

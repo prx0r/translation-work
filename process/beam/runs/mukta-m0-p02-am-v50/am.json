@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p02",
  "verse": 50,
- "question": "By what inner act is the abode of Śiva attained?",
+ "question": "What condition renders humans incapable of accomplishing their desired aim?",
  "premises": [
-  "The mind is subject to being burned up.",
-  "Burning the mind is a completed prior act.",
-  "The abode of Śiva is attained as a result."
+  "Humans possess minds agitated by anxiety.",
+  "Accomplishing the desired aim requires fitness and capability.",
+  "Minds agitated by anxiety lack the fitness needed for accomplishment."
  ],
- "inference": "Attainment of Śiva's abode follows from the burning of the mind.",
- "uncertainties": [],
- "plain_english": "And having burned the mind, the abode of Śiva is attained."
+ "inference": "Therefore humans are not capable of accomplishing their desired aim.",
+ "uncertainties": [
+  "The specific object of kartuṃ is supplied from the previous verse's sva+iṣṭa+sādhane."
+ ],
+ "plain_english": "Humans, with minds agitated by anxiety, are not capable of accomplishing it."
 }
