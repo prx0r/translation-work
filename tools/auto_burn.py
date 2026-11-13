@@ -43,6 +43,19 @@ def sha(b: str) -> str:
     return hashlib.sha256(b.encode()).hexdigest()[:12]
 
 
+def seed_locked(work: str, song: str, verses: list, note: str) -> int:
+    """Seed under the SHARED queue lock (beam_swarm.queue_update) so a long
+    beam call never clobbers concurrent worker claims/completions with a stale
+    snapshot (2026-11-13 race fix)."""
+    from beam_swarm import queue_update
+    box = {'n': 0}
+    def _do(tasks):
+        box['n'] = seed(tasks, work, song, verses, note)
+        return tasks, f'seeded {box["n"]}'
+    queue_update(_do)
+    return box['n']
+
+
 def load_queue() -> list:
     return json.loads((ROOT / "process/beam/queue.json").read_text())
 
@@ -105,7 +118,6 @@ def run_work(work: str, lo: int, hi: int) -> None:
     passages = [json.loads(l) for l in open(ROOT / work / "passages.jsonl")]
     passages = [p for p in passages if lo <= int(re.search(r"p(\d+)", p["locator"]).group(1)) <= hi]
     vs = json.loads((ROOT / work / "source/verses.json").read_text())
-    q = load_queue()
     for p in passages:
         song = p["locator"]
         t1 = ROOT / work / f"working-t1-{song}.json"
@@ -115,9 +127,8 @@ def run_work(work: str, lo: int, hi: int) -> None:
         if t1.exists():
             ok, bad = coverage(work, song, target)
             if ok:
-                n = seed(q, work, song, target, f"auto_burn {song} (T1 pre-existing)")
+                n = seed_locked(work, song, target, f"auto_burn {song} (T1 pre-existing)")
                 if n:
-                    save_queue(q)
                     print(f"{song}: seeded {n} (T1 existed)", flush=True)
                 continue
         blocks = [f"VERSE {v}: {vs[v-1]}" for v in target]
@@ -145,8 +156,7 @@ def run_work(work: str, lo: int, hi: int) -> None:
             print(f"{song}: T1 {r.stdout.strip().splitlines()[0] if r.stdout else '?'} "
                   f"cov_ok={ok} bad={bad[:3]}", flush=True)
             if ok:
-                n = seed(q, work, song, target, f"auto_burn {song} T1 gated")
-                save_queue(q)
+                n = seed_locked(work, song, target, f"auto_burn {song} T1 gated")
                 print(f"{song}: seeded {n}", flush=True)
             break
         time.sleep(2)

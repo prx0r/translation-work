@@ -24,9 +24,7 @@ RETRYABLE = ("question rejected", "premise too short", "schema fail",
              "bad row", "surface drift", "no JSON", "l2 too short")
 
 
-def main() -> int:
-    dry = "--dry" in sys.argv
-    q = json.loads(QUEUE.read_text())
+def _recycle(q):
     have = {t["id"] for t in q}
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
     live = {}
@@ -80,11 +78,29 @@ def main() -> int:
             live.setdefault((a["work"], a["song"]), []).append((grp[0], grp[-1]))
             added += 1
         recycled += 1
-    if not dry:
-        QUEUE.write_text(json.dumps(q, ensure_ascii=False, indent=0))
     from collections import Counter
-    print(f"recycled {recycled} failed tasks -> {added} halved tasks"
-          f" | skipped {skipped} | queue: {dict(Counter(t['status'] for t in q))}")
+    summary = (f"recycled {recycled} failed tasks -> {added} halved tasks"
+               f" | skipped {skipped}")
+    return q, summary
+
+
+def main() -> int:
+    dry = "--dry" in sys.argv
+    from beam_swarm import queue_update
+    from collections import Counter
+    if dry:
+        q = json.loads(QUEUE.read_text())
+        _, summary = _recycle(q)
+        print(summary + f" (dry) | queue: {dict(Counter(t['status'] for t in q))}")
+        return 0
+    box = {}
+    def _do(tasks):
+        newq, summary = _recycle(tasks)
+        box['summary'] = summary
+        return newq, summary
+    queue_update(_do)
+    q = json.loads(QUEUE.read_text())
+    print(box.get('summary', '') + f" | queue: {dict(Counter(t['status'] for t in q))}")
     return 0
 
 
