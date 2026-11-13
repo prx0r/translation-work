@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2187,
- "question": "What results does one obtain through the fire rite?",
+ "question": "What verbal action must be prompted during this stage of the rite?",
  "premises": [
-  "The fire rite is performed.",
-  "Prosperity is a possible result.",
-  "All success is also a possible result."
+  "A recitation is required",
+  "The officiant prompts the action",
+  "The groom or participant is made to recite"
  ],
- "inference": "By means of the fire rite, one obtains prosperity and all success.",
- "uncertainties": [],
- "plain_english": "By the fire rite one obtains prosperity and all success."
+ "inference": "One should cause the recitation to be performed.",
+ "uncertainties": [
+  "The specific subject who is caused to recite is not explicitly stated in this verse."
+ ],
+ "plain_english": "One should cause it to be recited."
 }

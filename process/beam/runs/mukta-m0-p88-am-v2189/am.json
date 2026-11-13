@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2189,
- "question": "What sequence of actions concludes with dismissal in the moon circle?",
+ "question": "In which hand must the offering be formally presented?",
  "premises": [
-  "Offering, praising, and bowing are performed first.",
-  "Dismissal follows these acts.",
-  "The dismissal occurs in the moon circle."
+  "An offering is to be made",
+  "A specific hand is designated",
+  "The right hand is prescribed"
  ],
- "inference": "After offering, praising, and bowing, one should dismiss in the moon circle.",
- "uncertainties": [],
- "plain_english": "Having offered, praised, and bowed, one should dismiss in the moon circle."
+ "inference": "One should offer it in the right hand.",
+ "uncertainties": [
+  "The object of the offering is implied from context rather than named here."
+ ],
+ "plain_english": "One should offer it in the right hand."
 }

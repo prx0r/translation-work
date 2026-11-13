@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p88",
  "verse": 2197,
- "question": "What mantra is to be used at this point in the sequence?",
+ "question": "How should the bride be positioned in relation to the groom at this stage?",
  "premises": [
-  "The ritual proceeds to the next step.",
-  "A specific mantra is given.",
-  "The mantra is to be applied then."
+  "A cloth edge is used as a screen",
+  "The bride is covered by it",
+  "She is placed facing the groom"
  ],
- "inference": "Then the mantra 'raṃ vahnyāsanāya namaḥ' is to be used.",
- "uncertainties": [],
- "plain_english": "Then: 'raṃ vahnyāsanāya namaḥ'."
+ "inference": "Having covered her with a cloth, one should place her facing the groom.",
+ "uncertainties": [
+  "The bride is implied as the object being placed but not explicitly named in this verse."
+ ],
+ "plain_english": "Having covered her with the edge of a cloth, one should place her facing the groom."
 }
