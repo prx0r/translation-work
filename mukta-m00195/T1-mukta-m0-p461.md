@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p461-v11501
-six-limbs(ṣaḍaṅgāni) again(punar) of-which(nyasya) in-proper-place(yathāsthāne) arrows(śarān) should-place(nyaset)
+[six+limbs](ṣaḍaṅgāni) [again](punar) [having-placed](nyasya) [in-proper-place](yathāsthāne) [arrows](śarān) [one-should-place](nyaset)
 
 ## mukta-m0-p461-v11502
-beginning-with-śeṣa-and-others(śeṣa+tat+pramukhān) these(etān) preceded-by-five-seed-syllables(pañca+bīja+prapūrvakān)
+[śeṣa+that+beginning-with](śeṣatatpramukhān) [these](etān) [five+seed-syllable](pañcabīja) [preceded-by](prapūrvakān)
 
 ## mukta-m0-p461-v11503
-at-the-root(mūle) upon-a-jewel-lion-throne(lasat+sthalī+rājat+ratna+siṃhāsana+upari)
+[at-the-root](mūle) [shining](lasat) [platform+king](sthalīrāja) [jewel+lion-throne](ratnasiṃhāsana) [upon](upari)
 
 ## mukta-m0-p461-v11504
-discus-conch-sickle-noose(ari+śaṅkha+sṛṇīn+pāśaṃ) flower-arrow-sugarcane-bow(puṣpa+bāṇa+ikṣu+kārmukam)
+[discus+conch](ariśaṅkha) [sickle](sṛṇīn) [noose](pāśaṃ) [flower+arrow](puṣpabāṇa) [sugarcane+bow](ikṣukārmukam)
 
 ## mukta-m0-p461-v11505
-rolling-eyed(ghūrṇa+netraṃ) wearing-earrings(kuṇḍalinaṃ) wearing-garlands(hāriṇaṃ) well-crowned(su+kirīṭinam)
+[rolling+eyes](ghūrṇanetraṃ) [having-earrings](kuṇḍalinaṃ) [having-garlands](hāriṇaṃ) [well+crowned](sukirīṭinam)
 
 ## mukta-m0-p461-v11506
-embracing(āliṅgantaṃ) holding-a-lotus-garland-in-the-left-arm(vāma+bāhu+dhṛta+padma+āvaliṃ) the-lord(vibhum)
+[embracing](āliṅgantaṃ) [left+arm](vāmabāhu) [held+lotus+row](dhṛtapadmāvaliṃ) [the-lord](vibhum)
 
 ## mukta-m0-p461-v11507
-afterwards(paścāt) the-limbs(aṅgāni) and(arrows)(bāṇān) ca by-the-method-of-nyāsa(nyāsa+mārgeṇa) one-should-worship(pūjayet)
+[afterwards](paścāt) [limbs](aṅgāni) [and+arrows](bāṇāṃś) [ca](ca) [by-placement+method](nyāsamārgeṇa) [one-should-worship](pūjayet)
 
 ## mukta-m0-p461-v11508
-beginning-with-the-discus(cakra+ādyam) in-three-hands(triṣu hasteṣu) the-śrīvatsa(śrīvatsam) the-kaustubha(kaustubham) likewise(tathā)
+[discus+etc](cakrādyaṃ) [in-three](triṣu) [in-hands](hasteṣu) [śrīvatsa](śrīvatsaṃ) [kaustubha](kaustubhaṃ) [likewise](tathā)
 
 ## mukta-m0-p461-v11509
-wearing-yellow-garment(pīta+ambaram) mahālakṣmī(mahālakṣmīm) on-the-left-lap(vāma+aṅke) preceded-by-the-seed-syllable(bīja+pūrvikām)
+[yellow+garment](pītāmbaraṃ) [mahālakṣmī](mahālakṣmīṃ) [on-left+lap](vāmāṃke) [seed-syllable+preceded-by](bījapūrvikām)
 
 ## mukta-m0-p461-v11510
-then(tataḥ) the-outer-arrows(bahiḥ+carān+bāṇān) in-the-directions(dikṣu) in-the-intermediate-directions(koṇeṣu) one-should-worship(pūjayet)
+[then](tato) [outside](bahiḥ) [moving](carān) [arrows](bāṇān) [in-directions](dikṣu) [in-corners](koṇeṣu) [one-should-worship](pūjayet)
 
 ## mukta-m0-p461-v11511
-indra-and-others(indra+ādīn) one-should-worship-outside(pūjayet+bāhye) thunderbolt-and-other-weapons(vajra+ādīni+āyudhāni) also(api)
+[indra+etc](indrādīn) [one-should-worship](pūjayet) [outside](bāhye) [thunderbolt+etc](vajrādīni) [weapons](āyudhāni) [also](api)
 
 ## mukta-m0-p461-v11512
-with-three-syllables(tri+svāt) with-utterances(vaktaiḥ) one-should-satisfy(tarppayet) ca up-to-a-thousand-and-twelve(sahasra+dvādaśa+avadhi)
+[with-three+sva](trisvā) [with-faces](dvaktaiḥ) [one-should-satisfy](tarppayet) [ca](ca) [thousand](sahasra) [twelve+up-to](dvādaśāvadhi)
 
 ## mukta-m0-p461-v11513
-with-this-mantra(anena manunā) with-waters(toyaiḥ) mixed-with-mohinī-flowers(mohinī+puṣpa+saṃyutaiḥ)
+[with-this](anena) [by-mantra](manunā) [with-waters](toyaiḥ) [mohinī+flower](mohinīpuṣpa) [joined-with](saṃyutaiḥ)
 
 ## mukta-m0-p461-v11514
-the-three-worlds(trailokyam) one-may-enchant(mohayet) who(yaḥ) tu should-recite-the-mantra(japet+mantram) with-concentration(samāhitaḥ)
+[three+worlds](trailokyaṃ) [one-may-enchant](mohayet) [who](yaḥ) [tu](tu) [should-recite](japet) [mantra](mantraṃ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p461-v11515
-ten-thousand-times(ayutam) having-offered-with-ghee(sarpiṣā hutvā) with-the-offering-remainder(sa+sampātam) in-the-fire(hutāśane)
+[p. 672)](p. 672)) [ten-thousand](ayutaṃ) [with-ghee](sarpiṣā) [having-offered](hutvā) [with-offering-remnant](sasampātaṃ) [in-fire](hutāśane)
 
 ## mukta-m0-p461-v11516
-who(yaḥ) tu under-his-control(tat+vaśagā) she(sā) may-become(syāt) she-also(sā+api) him(tam) may-bring-under-control(vaśam+ānayet)
+[who](yaḥ) [tu](tu) [of-him+under-control](tadvaśagā) [she](sā) [may-be](syāt) [she](sā) [also](api) [him](taṃ) [under-control](vaśam) [may-bring](ānayet)
 
 ## mukta-m0-p461-v11517
-now(atha) ataḥ I-shall-declare(sampravakṣyāmi) in-the-kali-age(kalau) measured-by-rāma-and-six(rāma+ṣaṣṭi+mite)
+[now](atha) [then](ataḥ) [fully+I-shall-declare](sampravakṣyāmi) [rāma+sixth](rāmaṣaṣṭimite) [in-kali-age](kalau)
 
 ## mukta-m0-p461-v11518
-that(tat) naḥ us(naḥ) viṣṇu(viṣṇuḥ) may-inspire(pracodayāt)
+[that](tat) [us](naḥ) [viṣṇu](viṣṇuḥ) [may-inspire](pracodayāt)
 
 ## mukta-m0-p461-v11519
-it-may-destroy(nāśayet) all-sins(sarva+pāpāni) accomplished(siddhā) this(iyam) wish-fulfilling-creeper(kalpa+vallikā)
+[it-may-destroy](nāśayet) [all+sins](sarvapāpāni) [to-be-accomplished](siddhā) [this](iyaṃ) [wish-fulfilling+creeper](kalpavallikā)
 
 ## mukta-m0-p461-v11520
-as-appropriate(yathā+yogyam) one-should-recite(japet) the-achievable(sādhyam) and(ca) the-unachievable(asādhyam) becomes-accomplished(prasiddhyati)
+[as+appropriate](yathāyogyaṃ) [one-should-recite](japet) [to-be-accomplished](sādhyam) [and+not-to-be-accomplished](asādhyaṃ) [ca](ca) [is-accomplished](prasiddhyati)
 
 ## mukta-m0-p461-v11521
-glauṃ(glauṃ) iti thus(iti) one-syllabled-mantra(eka+akṣaraḥ mantraḥ) jagatī-meter(jagatī chandaḥ) is-declared(īritam)
+[glauṃ](glaum) [iti](iti) [one+syllabled](ekākṣaro) [mantra](mantro) [jagatī](jagatī) [metre](chanda) [is-declared](īritam)
 
 ## mukta-m0-p461-v11522
-the-seed(bījam) the-letter-ga(ga+kāraḥ) the-syllable-oṃ(oṃ+kāraḥ) the-power(śaktiḥ) declared(proktam) the-six-limbs(ṣaḍ+aṅgakam)
+[seed](bījaṃ) [ga+syllable](gakāra) [oṃ+syllable](oṃ kāraḥ) [power](śaktiḥ) [declared](proktaṃ) [six+limb](ṣaḍaṅgakam)
 
 ## mukta-m0-p461-v11523
-glauṃ(glauṃ) in-the-navel(nābhau) tu and-likewise(tathā) oṃ(auṃ) in-the-ankle(gulphe) the-bindu(bindum) in-the-two-feet(pāda+dvaye) one-should-place(nyaset)
+[glauṃ](glauṃ) [at-navel](nābhau) [tu](tu) [tathā](tathā) [oṃ](auṃ) [at-ankle](gulphe) [dot](binduṃ) [on-both+feet](pādadvaye) [one-should-place](nyaset)
 
 ## mukta-m0-p461-v11524
-standing-on-a-lotus(padma+upari sthitam) I-bow(vande) playing-the-flute(veṇum gāyantam) the-lord(īśvaram)
+[on-lotus](padmopari) [standing](sthitaṃ) [I-praise](vande) [flute](veṇuṃ) [singing](gāyantam) [the-lord](īśvaram)
 
 ## mukta-m0-p461-v11525
-by-the-gopīs(gopībhiḥ) and-by-the-herds-of-cowherds(gopa+vṛndaiḥ) ca attended(sevitam) kṛṣṇa(kṛṣṇam) one-should-worship(arccayet)
+[by-gopīs](gopībhiḥ) [and+by-cowherd+groups](gopavṛndaiś) [ca](ca) [served](sevitaṃ) [kṛṣṇa](kṛṣṇam) [one-should-worship](arccayet)
