@@ -12,7 +12,7 @@
 },
 {
 "surface": "jāti+bhedaiḥ",
-"quick_gloss": "by-birth+distinctions"
+"quick_gloss": "by-birth+differences"
 },
 {
 "surface": "ca",
@@ -27,8 +27,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "pṛthagvidhaiḥ",
-"quick_gloss": "of-various-kinds"
+"surface": "pṛthak+vidhaiḥ",
+"quick_gloss": "separately+various"
 }
 ]
 },
@@ -56,12 +56,8 @@
 "quick_gloss": "O-lord"
 },
 {
-"surface": "kim",
-"quick_gloss": "what"
-},
-{
-"surface": "naśyati",
-"quick_gloss": "perishes-not"
+"surface": "kim+naśyati",
+"quick_gloss": "what+perishes"
 },
 {
 "surface": "na",
@@ -89,8 +85,8 @@
 "quick_gloss": "by-doctrine+differences"
 },
 {
-"surface": "me",
-"quick_gloss": "my"
+"surface": "medhī",
+"quick_gloss": "of-the-wise"
 },
 {
 "surface": "vyāmohaḥ",
@@ -110,8 +106,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tvadanyaḥ",
-"quick_gloss": "than-you"
+"surface": "tvad+anyaḥ",
+"quick_gloss": "other-than-you"
 },
 {
 "surface": "saṃśayasya",
@@ -127,7 +123,7 @@
 },
 {
 "surface": "cchettā",
-"quick_gloss": "remover"
+"quick_gloss": "cutter"
 },
 {
 "surface": "kaḥ+api",
@@ -152,7 +148,7 @@
 },
 {
 "surface": "nava+ākāraṃ",
-"quick_gloss": "like-new+form"
+"quick_gloss": "new+form"
 },
 {
 "surface": "pratnam",
@@ -184,16 +180,16 @@
 "quick_gloss": "alone"
 },
 {
-"surface": "kasyāpi",
+"surface": "kasya+api",
 "quick_gloss": "of-someone"
 },
 {
 "surface": "puṃsaḥ",
-"quick_gloss": "of-person"
+"quick_gloss": "of-a-person"
 },
 {
-"surface": "viśvā+abhimāninaḥ",
-"quick_gloss": "identifying-with-universe"
+"surface": "viśva+abhimāninaḥ",
+"quick_gloss": "universe+identifying"
 }
 ]
 },
@@ -221,8 +217,12 @@
 "quick_gloss": "equal-to-that"
 },
 {
-"surface": "jagat+dehe",
-"quick_gloss": "in-world+body"
+"surface": "jagat",
+"quick_gloss": "in-the-world"
+},
+{
+"surface": "he",
+"quick_gloss": "indeed"
 },
 {
 "surface": "he",
@@ -230,7 +230,7 @@
 },
 {
 "surface": "vyavasthitāḥ",
-"quick_gloss": "situated"
+"quick_gloss": "established"
 }
 ]
 },
@@ -276,24 +276,28 @@
 "tokens": [
 {
 "surface": "piṇḍayoḥ",
-"quick_gloss": "of-two-lumps"
+"quick_gloss": "of-the-two-lumps"
 }
 ]
 },
 {
-"verse_id": "mukta-m0-p59-v1460",
+"verse_id": "mukta-m0-p59-v14510",
 "song": "mukta-m0-p59",
-"verse": 1460,
+"verse": 14510,
 "quick_english": "",
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pravāha+nityatā",
-"quick_gloss": "in-flow+eternity"
+"surface": "pravāha",
+"quick_gloss": "of-stream"
+},
+{
+"surface": "nityatā",
+"quick_gloss": "eternity"
 },
 {
 "surface": "pāde",
-"quick_gloss": "in-part"
+"quick_gloss": "in-the-part"
 },
 {
 "surface": "tā",
@@ -309,7 +313,7 @@
 },
 {
 "surface": "aṇḍa+gocaraḥ",
-"quick_gloss": "in-sphere-of-egg"
+"quick_gloss": "egg+pertaining-to"
 }
 ]
 },
@@ -358,16 +362,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṣaṇikatva+vidhau",
-"quick_gloss": "in-momentariness+doctrine"
+"surface": "kṣaṇikatva",
+"quick_gloss": "momentariness"
 },
 {
-"surface": "ye",
-"quick_gloss": "indeed"
+"surface": "vidhaye",
+"quick_gloss": "in-the-doctrine"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
+},
+{
+"surface": "ye",
+"quick_gloss": "who"
 },
 {
 "surface": "mūrkhāḥ",
@@ -396,7 +404,7 @@
 },
 {
 "surface": "pūrva+ākāratā",
-"quick_gloss": "prior+form-ness"
+"quick_gloss": "prior+form-state"
 },
 {
 "surface": "garbhaḥ",
@@ -408,11 +416,11 @@
 },
 {
 "surface": "pūrva+ākārataḥ",
-"quick_gloss": "prior+form-ness"
+"quick_gloss": "prior+form-state"
 },
 {
 "surface": "rasaḥ",
-"quick_gloss": "fluid"
+"quick_gloss": "sap"
 }
 ]
 },
@@ -429,7 +437,7 @@
 },
 {
 "surface": "pūrva+ākāratā",
-"quick_gloss": "prior+form-ness"
+"quick_gloss": "prior+form-state"
 },
 {
 "surface": "bījaṃ",
@@ -440,8 +448,8 @@
 "quick_gloss": "that"
 },
 {
-"surface": "bīja+ākāratā",
-"quick_gloss": "seed+form-ness"
+"surface": "bīja+ākārata",
+"quick_gloss": "seed+form-state"
 },
 {
 "surface": "auṣadhiḥ",
@@ -470,15 +478,15 @@
 },
 {
 "surface": "pravāhaḥ",
-"quick_gloss": "flow"
+"quick_gloss": "stream"
 },
 {
 "surface": "me",
-"quick_gloss": "my"
+"quick_gloss": "by-me"
 },
 {
-"surface": "vākyāt",
-"quick_gloss": "by-words"
+"surface": "vākyā",
+"quick_gloss": "O-gods"
 },
 {
 "surface": "deva",
@@ -486,7 +494,7 @@
 },
 {
 "surface": "avabudhyatām",
-"quick_gloss": "let-be-understood"
+"quick_gloss": "let-it-be-understood"
 }
 ]
 },
@@ -543,8 +551,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pravāha+avayava+ākāra",
-"quick_gloss": "of-flow+part+form"
+"surface": "pravāha",
+"quick_gloss": "of-stream"
+},
+{
+"surface": "avayava+ākāra",
+"quick_gloss": "part+form"
 },
 {
 "surface": "bhedena",
@@ -576,12 +588,16 @@
 "quick_gloss": "because"
 },
 {
-"surface": "avayavi+saṃghātaḥ",
-"quick_gloss": "part+aggregate"
+"surface": "avayavi",
+"quick_gloss": "whole"
+},
+{
+"surface": "saṃghātaḥ",
+"quick_gloss": "aggregate"
 },
 {
 "surface": "avayavitvena",
-"quick_gloss": "as-possessing-parts"
+"quick_gloss": "by-wholeness"
 },
 {
 "surface": "gaṇyate",
@@ -614,7 +630,7 @@
 },
 {
 "surface": "śabda+eka+rūpatā",
-"quick_gloss": "word+one-form-ness"
+"quick_gloss": "word+one+formness"
 }
 ]
 },
@@ -631,7 +647,7 @@
 },
 {
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "alone"
 },
 {
 "surface": "gatiḥ",
@@ -639,7 +655,7 @@
 },
 {
 "surface": "sthūle",
-"quick_gloss": "in-gross"
+"quick_gloss": "in-the-gross"
 },
 {
 "surface": "viśva+cakre",
@@ -651,7 +667,7 @@
 },
 {
 "surface": "yujyate",
-"quick_gloss": "applies"
+"quick_gloss": "is-applicable"
 }
 ]
 },
@@ -663,8 +679,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tat+niṣekasya+sāmarthyāt",
-"quick_gloss": "by-power-of-that+emission"
+"surface": "tat",
+"quick_gloss": "of-that"
+},
+{
+"surface": "niṣekasya",
+"quick_gloss": "of-emission"
+},
+{
+"surface": "sāmarthyāt",
+"quick_gloss": "by-power"
 },
 {
 "surface": "tat",
@@ -721,16 +745,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "māruteśvara+sampanna",
-"quick_gloss": "in-Māruteśvara+attained"
+"surface": "māruteśvara",
+"quick_gloss": "in-Māruteśvara"
+},
+{
+"surface": "sampanna",
+"quick_gloss": "accomplished"
 },
 {
 "surface": "saṅkalpa+kṣayaḥ",
-"quick_gloss": "resolve+dissolution"
+"quick_gloss": "resolve+destruction"
 },
 {
 "surface": "īritaḥ",
-"quick_gloss": "is-stated"
+"quick_gloss": "is-declared"
 }
 ]
 },
@@ -747,7 +775,7 @@
 },
 {
 "surface": "aṇḍa+rūpatā",
-"quick_gloss": "egg+form-ness"
+"quick_gloss": "egg+form-state"
 },
 {
 "surface": "pattiḥ",
@@ -792,7 +820,7 @@
 },
 {
 "surface": "prabhuḥ",
-"quick_gloss": "lord"
+"quick_gloss": "the-lord"
 }
 ]
 }
