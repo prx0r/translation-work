@@ -1,15 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "What is the fifth chapter that emerged from Candradīpa?",
+ "question": "Which chapter emerges from candradīpa in this sequence?",
  "premises": [
-  "chapter emerged from candradīpa",
-  "it is the fifth chapter",
-  "it belongs to this text"
+  "emergence from candradīpa is stated",
+  "fifth is the ordinal",
+  "chapter is the unit"
  ],
- "inference": "the fifth chapter originates from Candradīpa",
+ "inference": "This is the fifth chapter emerging from candradīpa.",
  "uncertainties": [
-  "identity of Candradīpa unclear"
+  "exact textual division intended"
  ],
- "plain_english": "The fifth chapter emerged from Candradīpa."
+ "plain_english": "The fifth chapter emerged from candradīpa."
 }

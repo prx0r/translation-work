@@ -8,7 +8,7 @@
      "surface": "gopitavyaṃ",
      "gloss": "to-be-concealed",
      "grounds": "gerundive of gup",
-     "morph": "neut.nom.sg"
+     "morph": "gerundive.n.sg.n"
     },
     {
      "surface": "prayatnena",
@@ -31,14 +31,13 @@
    ],
    "question": "What must be concealed with effort among the lowest men in the mortal world?",
    "premises": [
-    "concealment requires effort",
-    "mortal world contains lowest men",
-    "the teaching is to be hidden"
+    "concealment is required",
+    "effort is specified",
+    "mortal world is the setting"
    ],
-   "inference": "The verse commands that the secret teaching be carefully concealed from unworthy people in the mortal realm.",
+   "inference": "The teaching is to be guarded from unworthy recipients.",
    "uncertainties": [
-    "exact grammatical case of gopitavyaṃ",
-    "whether narādhame is locative or vocative"
+    "exact referent of concealed teaching"
    ],
    "plain_english": "It must be concealed with effort in the mortal world among the lowest of men."
   },
@@ -49,7 +48,7 @@
      "surface": "dātavyaṃ",
      "gloss": "to-be-given",
      "grounds": "gerundive of dā",
-     "morph": "neut.nom.sg"
+     "morph": "gerundive.n.sg.n"
     },
     {
      "surface": "pūrvasiddhasya",
@@ -60,20 +59,19 @@
     {
      "surface": "abdameka+parīkṣitam",
      "gloss": "tested-for-one-year",
-     "grounds": "compound meaning tested for one year",
-     "morph": "n.acc.sg"
+     "grounds": "compound adjective modifying dātavyaṃ",
+     "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "To whom and after what testing should the teaching be given?",
+   "question": "To whom and after what testing should this teaching be given?",
    "premises": [
-    "the teaching is to be given",
+    "giving is prescribed",
     "recipient is previously accomplished",
     "testing lasts one year"
    ],
-   "inference": "The verse restricts transmission to one who is already accomplished and has been tested for a year.",
+   "inference": "Transmission requires prior accomplishment and a one-year test.",
    "uncertainties": [
-    "exact syntactic relation of abdameka+parīkṣitam",
-    "whether dātavyaṃ is nominative or accusative"
+    "whether testing modifies recipient or teaching"
    ],
    "plain_english": "It is to be given to one previously accomplished, tested for one year."
   },
@@ -83,7 +81,7 @@
     {
      "surface": "candradvīpa+vinirgate",
      "gloss": "emerged-from-candradīpa",
-     "grounds": "compound locative absolute",
+     "grounds": "locative absolute participle",
      "morph": "m.loc.sg"
     },
     {
@@ -95,19 +93,19 @@
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "noun paṭala",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     }
    ],
-   "question": "Which chapter is said to have emerged from candradīpa?",
+   "question": "Which chapter emerges from candradīpa in this sequence?",
    "premises": [
-    "emergence is from candradīpa",
-    "the chapter is fifth",
-    "paṭala means chapter"
+    "emergence from candradīpa is stated",
+    "fifth is the ordinal",
+    "chapter is the unit"
    ],
-   "inference": "The verse identifies the fifth chapter as having emerged from candradīpa.",
+   "inference": "This is the fifth chapter emerging from candradīpa.",
    "uncertainties": [
-    "whether candradvīpa+vinirgate is locative absolute or adjective"
+    "exact textual division intended"
    ],
    "plain_english": "The fifth chapter emerged from candradīpa."
   },
@@ -117,13 +115,13 @@
     {
      "surface": "tvat+prasādena",
      "gloss": "by-your-grace",
-     "grounds": "compound instrumental",
+     "grounds": "instrumental compound",
      "morph": "m.instr.sg"
     },
     {
      "surface": "kauleśa",
      "gloss": "o-lord-of-kaulas",
-     "grounds": "vocative of kauleśa",
+     "grounds": "vocative",
      "morph": "m.voc.sg"
     },
     {
@@ -145,16 +143,15 @@
      "morph": "m.nom.sg"
     }
    ],
-   "question": "By whose grace does the speaker claim to have known the determination of kaula?",
+   "question": "By whose grace has the determination of kaula become known?",
    "premises": [
-    "grace is the speaker's means",
+    "grace is the means",
     "kauleśa is addressed",
-    "the speaker has known kaula determination"
+    "determination of kaula is known"
    ],
-   "inference": "The verse attributes knowledge of kaula determination to the grace of the lord of kaulas.",
+   "inference": "The speaker knows the kaula determination through the lord's grace.",
    "uncertainties": [
-    "whether jñāto agrees with ahaṃ or kaula+nirṇayaḥ",
-    "exact case of tvat+prasādena"
+    "whether jñāto modifies ahaṃ or nirṇayaḥ"
    ],
    "plain_english": "By your grace, O lord of kaulas, I have known the determination of kaula."
   },
@@ -176,7 +173,7 @@
     {
      "surface": "jīvaḥ",
      "gloss": "soul",
-     "grounds": "noun jīva",
+     "grounds": "noun",
      "morph": "m.nom.sg"
     },
     {
@@ -204,18 +201,17 @@
      "morph": "n.nom.sg"
     }
    ],
-   "question": "Who is the declared soul, and what is the nature of the soul?",
+   "question": "Who is that declared soul and what is its true nature?",
    "premises": [
-    "a soul is declared",
-    "the soul is questioned",
-    "its nature is questioned"
+    "soul is declared",
+    "identity is questioned",
+    "nature is questioned"
    ],
-   "inference": "The verse asks both for the identity of the declared soul and for the nature of soul itself.",
+   "inference": "The verse asks for both the identity and nature of the soul.",
    "uncertainties": [
-    "whether samuddiṣṭaḥ modifies jīvaḥ or asau",
-    "whether kiṃ vā is disjunctive or rhetorical"
+    "whether samuddiṣṭaḥ is adjectival or verbal"
    ],
-   "plain_english": "Who is that declared soul, or what is the nature of the soul?"
+   "plain_english": "Who is that soul declared, and what is the nature of the soul?"
   },
   {
    "verse": 106,
@@ -229,7 +225,7 @@
     {
      "surface": "ca",
      "gloss": "and",
-     "grounds": "conjunctive particle",
+     "grounds": "conjunction",
      "morph": "(indecl.)"
     },
     {
@@ -241,14 +237,14 @@
     {
      "surface": "layaṃ",
      "gloss": "dissolution",
-     "grounds": "noun laya accusative",
+     "grounds": "accusative of laya",
      "morph": "m.acc.sg"
     },
     {
      "surface": "yāti",
      "gloss": "goes",
-     "grounds": "root yā present",
-     "morph": "3.sg.act-pres"
+     "grounds": "present of yā",
+     "morph": "3.sg.act.pres"
     },
     {
      "surface": "tat+sarvaṃ",
@@ -260,27 +256,26 @@
      "surface": "kathayasva",
      "gloss": "tell",
      "grounds": "imperative of kathay",
-     "morph": "2.sg.imp.act"
+     "morph": "2.sg.imper.act"
     },
     {
      "surface": "me",
      "gloss": "to-me",
-     "grounds": "first person dative",
+     "grounds": "dative of aham",
      "morph": "dat.sg"
     }
    ],
-   "question": "In what does dissolution go, and what all should be told to the speaker?",
+   "question": "In what does all of that ultimately undergo dissolution?",
    "premises": [
-    "dissolution has a destination",
-    "the speaker asks for all of it",
-    "the speaker requests telling"
+    "dissolution is asked about",
+    "all is included",
+    "speaker requests instruction"
    ],
-   "inference": "The verse asks where dissolution goes and requests a complete account of that matter.",
+   "inference": "The verse seeks the final locus of dissolution for all.",
    "uncertainties": [
-    "whether kasmiṃś is masculine or neuter",
-    "whether tat+sarvaṃ refers to dissolution or the whole teaching"
+    "whether kasmiṃś refers to element, principle, or deity"
    ],
-   "plain_english": "In what indeed does dissolution go? Tell me all that."
+   "plain_english": "In what indeed does all that go to dissolution? Tell me."
   }
  ]
 }

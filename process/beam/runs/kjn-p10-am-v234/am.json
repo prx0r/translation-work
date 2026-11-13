@@ -1,16 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 234,
- "question": "Where are the syllables ṣa and śa placed?",
+ "question": "Where are the syllables ṣa and śa located?",
  "premises": [
-  "ṣakāraṃ is the syllable ṣa",
-  "kaṇṭha deśe is the throat region",
-  "śakāraṃ is the syllable śa",
-  "hṛdaye is the heart"
+  "Syllable ṣa is named.",
+  "Throat region is named.",
+  "Syllable śa is named."
  ],
- "inference": "The syllable ṣa is in the throat region and the syllable śa is in the heart.",
+ "inference": "The verse places syllable ṣa in throat region and syllable śa in heart.",
  "uncertainties": [
-  "tadā may imply a sequence not fully explained"
+  "Temporal marker tadā is compressed."
  ],
  "plain_english": "The syllable ṣa is in the throat region, and the syllable śa is in the heart."
 }
