@@ -158,6 +158,26 @@ def stage_assemble(work, song):
     W = ROOT / work
     _CURRENT_WORK[0] = work
     wt = json.loads((W / f'working-t1-{song}.json').read_text())
+    # PARATEXT DOCTRINE (single source): editorial apparatus never enters T1.
+    # CM rows are already filtered by is_paratext below; T1 must be filtered
+    # with the SAME predicate or build_l0 asserts CM != T1 on pseudo-tokens
+    # like 'karata(?' (2026-11-13). Mid-token brackets (genuine fused readings)
+    # are kept by is_paratext.
+    _dropped = 0
+    for e in wt:
+        kept = [t for t in e['tokens'] if not is_paratext(t.get('surface', ''))]
+        if len(kept) != len(e['tokens']):
+            _dropped += len(e['tokens']) - len(kept)
+            e['tokens'] = kept
+        # surrogates/variant parentheses (tasmi(n -> tasmin) are stripped:
+        # the fused letters are genuine text, the parens are editorial and the
+        # T1 schema forbids them. Deparen BOTH T1 surface and CM lemma so
+        # build_l0's surface equality holds.
+        for t in e['tokens']:
+            if '(' in t.get('surface', '') or ')' in t.get('surface', ''):
+                t['surface'] = t['surface'].replace('(', '').replace(')', '')
+    if _dropped:
+        print(f'{song}: dropped {_dropped} paratext token(s) from T1 (never glossed)')
     # glosses into working-t1
     for e in wt:
         f = RUNS / f"{song}-gloss-v{e['verse']:02d}" / 'gloss.json'
@@ -185,7 +205,8 @@ def stage_assemble(work, song):
                 # brackets are genuine fused readings and are kept)
                 if is_paratext(_lm):
                     continue
-                _rows.append([r['lemma'], r['morph'], r.get('grounds', '')])
+                _lm = _lm.replace('(', '').replace(')', '')
+                _rows.append([_lm, r['morph'], r.get('grounds', '')])
             cm[str(e['verse'])] = _rows
     (W / 'cm').mkdir(exist_ok=True)
     cmf = W / 'cm' / f'l0cm-{song}-v1-{len(wt)}.json'
@@ -340,6 +361,11 @@ def main():
         else:
             stage_seed(a.work, a.song)
     stage_assemble(a.work, a.song)
+    # Post-assemble cleanliness (2026-11-13): de-overlap suffix repeats and
+    # collapse adjacent identical tokens, keeping L0/argmap/L2 consistent.
+    for _tool in ('dedup_t1.py', 'collapse_dups.py'):
+        subprocess.run([sys.executable, f'tools/{_tool}', a.work, a.song],
+                       cwd=ROOT, capture_output=True, text=True)
     _disp = ROOT / 'tools' / 'proof-disp.json'
     for cmd in (['tools/validate_song.py', '--song', a.song, '--work', a.work],
                 ['tools/proof_record.py', '--song', a.song, '--work', a.work, '--shastra']

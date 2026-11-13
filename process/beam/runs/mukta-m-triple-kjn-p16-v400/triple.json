@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "situated-in-forehead-letter-mass",
-     "grounds": "compound: lalāṭa (forehead) + varṇa (letter) + rāśi (mass) + stha (situated); qualifies lakṣaṃ",
-     "morph": "compound; acc.sg.n"
+     "gloss": "forehead-letter-mass-situated",
+     "grounds": "compound: lalāṭa (forehead) + varṇa (letter/syllable) + rāśi (mass/heap) + stha (situated); qualifies lakṣaṃ",
+     "morph": "compound adj., n.acc.sg"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numerical quantity, object of the action expressed by kṛtya",
-     "morph": "acc.sg.n"
+     "grounds": "numerical measure of repetitions to be performed",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-performed",
-     "grounds": "absolutive indicating completion of the prescribed act",
-     "morph": "gerund; √kṛ"
+     "grounds": "gerund indicating completion of the prescribed repetition",
+     "morph": "gerund (kṛ)"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "o-god-worshipped-one",
-     "grounds": "compound vocative: sura (god) + arcita (worshipped); address to the practitioner",
-     "morph": "compound; voc.sg.m"
+     "gloss": "god-worshipped-one",
+     "grounds": "compound vocative addressing the practitioner: sura (god) + arcita (worshipped)",
+     "morph": "compound voc., m.voc.sg"
     }
    ],
-   "question": "What quantity of practice situated in the forehead-letter-mass must the god-worshipped practitioner accomplish?",
+   "question": "What forehead-centered repetition must the god-worshipped practitioner complete as part of this secret practice?",
    "premises": [
-    "A hundred-thousand repetitions constitute the prescribed quantity.",
-    "This practice is situated in the mass of letters at the forehead.",
-    "The instruction is directed to one who is worshipped by the gods."
+    "The prescribed act is a repetition numbering one hundred thousand.",
+    "This repetition is situated in the mass of letters at the forehead.",
+    "The instruction is addressed to a practitioner honored as worshipped by gods."
    ],
-   "inference": "Accomplishing a hundred-thousand repetitions at the forehead-letter locus fulfills the enjoined practice.",
+   "inference": "The secret practice requires the god-worshipped practitioner to complete a hundred-thousandfold repetition focused in the forehead's letter-mass.",
    "uncertainties": [
-    "The exact nature of the act counted as lakṣaṃ (recitation, visualization, or other) is not specified in this verse."
+    "The exact nature of the varṇa-rāśi at the forehead is not specified in this verse alone."
    ],
-   "plain_english": "O one worshipped by the gods, having performed a hundred thousand [repetitions] situated in the mass of letters at the forehead."
+   "plain_english": "O one worshipped by the gods, having performed a hundred thousand repetitions situated in the mass of letters at the forehead."
   }
  ]
 }

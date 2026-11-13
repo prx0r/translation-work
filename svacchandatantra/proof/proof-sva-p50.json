@@ -1,0 +1,104 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p50",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1228 ratio=0.839",
+  "ALIGN_NODISP v1239 ratio=0.815",
+  "ALIGN_NODISP v1245 ratio=0.873",
+  "ALIGN_NODISP v1247 ratio=0.702",
+  "L2_CITE_FAIL 2",
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "2922d981026064a8",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 73
+ },
+ "align": {
+  "min_ratio": 0.702,
+  "sub090": {
+   "1228": {
+    "ratio": 0.839,
+    "disposition": null
+   },
+   "1239": {
+    "ratio": 0.815,
+    "disposition": null
+   },
+   "1245": {
+    "ratio": 0.873,
+    "disposition": null
+   },
+   "1247": {
+    "ratio": 0.702,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 64,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "kṛtvā saṃhāra iti saṃhārakālaḥ",
+   "maunīm, sāttvikīṃ tu daivīm vyavasthayeti bhuvanādimaryādayā"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p50-v1231]: cite part not byte-exact in source: kṛtvā saṃhāra iti saṃhārakālaḥ",
+   "l2[sva-p50-v1238]: cite part not byte-exact in source: maunīm, sāttvikīṃ tu daivīm vyavasthayeti bhuvanādimaryādayā"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 73,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v1228",
+  "fix: word-order/gloss vs source for v1239",
+  "fix: word-order/gloss vs source for v1245",
+  "fix: word-order/gloss vs source for v1247"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "020ebd4bc68bad1a2df94c86a9fcd0ee7f2765d4806aafa79042e0b89e7eb68c",
+  "l0": "e9204a9a6c680a89df9ad60c5b244ad239c8a20b143720d2096c3592de395a92",
+  "argmap": "6698024443aef78600539451442903ec5a71f2fadc109de12ebdce4c6906c6f7",
+  "l2": "8443688efa8788ac099ac6438e9ac63d1001706fa63ca1a24822e50d7eb2b90f",
+  "c1": "8bb57a34853874e019e99c784b971ef0342a5b3f10c4374022c3957d58ca1161"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "2922d981026064a8",
+  "t1": "sva-p50/data/sva-p50.t1.json",
+  "l0": "sva-p50/data/sva-p50.l0.json",
+  "l2": "sva-p50/data/sva-p50.l2.json",
+  "c1": "sva-p50/data/sva-p50.c1.json"
+ }
+}

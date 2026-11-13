@@ -53,24 +53,50 @@ def main() -> int:
     ap.add_argument("--rounds", type=int, default=20)
     ap.add_argument("--sleep", type=int, default=600)
     ap.add_argument("--log", default="/root/assemble_all.log")
+    ap.add_argument("--max-fails", type=int, default=3)
     a = ap.parse_args()
     log = open(a.log, "a")
+    statep = Path("/root/assemble_all.fails.json")
+    try:
+        fails = json.loads(statep.read_text())
+    except Exception:
+        fails = {}
+
+    def bump(work, song, ok):
+        key = f"{work}/{song}"
+        if ok:
+            fails.pop(key, None)
+        else:
+            fails[key] = fails.get(key, 0) + 1
+        try:
+            statep.write_text(json.dumps(fails, indent=1))
+        except Exception:
+            pass
     for rnd in range(a.rounds):
         did = 0
         for work, song in discover():
             data = ROOT / work / "data" / f"{song}.t1.json"
             if data.exists():
                 continue
+            key = f"{work}/{song}"
+            if fails.get(key, 0) >= a.max_fails:
+                continue
             ok, msg = song_ready(work, song)
             if not ok:
                 continue
             print(f"[r{rnd}] {work}/{song}: {msg} -> assemble", file=log, flush=True)
-            p = subprocess.run(
-                [sys.executable, "tools/tal_stage.py", "--work", work, "--song", song],
-                cwd=ROOT, capture_output=True, text=True, timeout=1800)
-            out = (p.stdout + p.stderr)[-400:]
-            verdict = "PASS" if "staged, validated, proofed" in out else "BLOCKED"
-            print(f"[r{rnd}] {work}/{song}: {verdict} rc={p.returncode}", file=log, flush=True)
+            try:
+                p = subprocess.run(
+                    [sys.executable, "tools/tal_stage.py", "--work", work, "--song", song],
+                    cwd=ROOT, capture_output=True, text=True, timeout=1800)
+                out = (p.stdout + p.stderr)[-400:]
+                verdict = "PASS" if "staged, validated, proofed" in out else "BLOCKED"
+            except subprocess.TimeoutExpired:
+                verdict = "TIMEOUT"
+            bump(work, song, verdict == "PASS")
+            print(f"[r{rnd}] {work}/{song}: {verdict}"
+                  + (f" (fails {fails.get(key,0)}/{a.max_fails})" if verdict != "PASS" else ""),
+                  file=log, flush=True)
             did += 1
             time.sleep(2)
         if not did:

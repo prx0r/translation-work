@@ -114,3 +114,19 @@ onboarding 8 tiny untranslated works end-to-end (T1 → seed). `gen_briefs.py`
 also backfilled 102 per-work briefs for all `mukta-m*` fronts.
 **Rule:** *supply the brief first, then gate — never gate a work that has no
 brief yet.*
+
+## 14. T1 kept paratext tokens that CM dropped (assemble crash) (2026-11-13)
+**Symptom:** `build_l0` asserted `CM n != T1 n` and crashed the whole song on
+verses with editorial tokens (`karata(?`) or variant parentheses (`tasmi(n`).
+**Root:** `tal_stage.stage_assemble` filtered `is_paratext` from CM rows but not
+from the T1 token stream; the T1 schema also forbids parens in surfaces.
+**Fix:** stage_assemble now (a) drops `is_paratext` tokens from T1 with the SAME
+predicate used for CM, and (b) deparens residual variant surfaces (and the
+matching CM lemma) so surface equality holds. kjn-p16 assembled PASS.
+**Rule:** *T1 and CM are filtered by one predicate; never diverge the two streams.*
+
+## 15. assemble_all retried permanently-blocked songs forever (2026-11-13)
+**Symptom:** sva-p50 / kjn-p16 re-attempted every round with no data written.
+**Fix:** attempt counter in `/root/assemble_all.fails.json`, skip after
+`--max-fails` (default 3); cleared on success. Plus tal_stage now runs
+dedup_t1 + collapse_dups before validate/proof so assembled songs are clean.
