@@ -3,39 +3,44 @@
  "verse": 30,
  "rows": [
   {
-   "lemma": "iyaṃ",
-   "morph": "pron.nom.sg.f",
-   "grounds": "demonstrative pronoun"
+   "lemma": "tasmāt",
+   "morph": "(indecl.)",
+   "grounds": "draws conclusion from prior reasoning"
   },
   {
-   "lemma": "devī",
+   "lemma": "pratipuruṣāt",
+   "morph": "prati+puruṣa (compound, m.abl.sg)",
+   "grounds": "compound: prati + puruṣa, indicating distribution per individual self"
+  },
+  {
+   "lemma": "tacchakteśca",
+   "morph": "tat+śakti (compound, f.abl.sg) + ca (indecl.)",
+   "grounds": "compound with sandhi: tat + śakteḥ + ca"
+  },
+  {
+   "lemma": "bhinnā",
    "morph": "f.nom.sg",
-   "grounds": "divine feminine principle"
+   "grounds": "qualifies kuṇḍalinī as different from person and power"
   },
   {
-   "lemma": "parā",
+   "lemma": "kuṇḍalinī",
    "morph": "f.nom.sg",
-   "grounds": "highest"
+   "grounds": "technical term retained as name"
   },
   {
-   "lemma": "śaktiḥ",
-   "morph": "f.nom.sg",
-   "grounds": "divine energy"
+   "lemma": "nādakāraṇaṃ",
+   "morph": "nāda+kāraṇa (compound, n.nom.sg)",
+   "grounds": "compound: nāda + kāraṇa, identifying function"
   },
   {
-   "lemma": "śuddha+aśuddha",
-   "morph": "m.stem (compound: śuddha+aśuddha)",
-   "grounds": "compound: pure and impure"
+   "lemma": "siddhā",
+   "morph": "f.nom.sg (ppp, √sidh)",
+   "grounds": "past passive participle indicating doctrinal conclusion"
   },
   {
-   "lemma": "adhva",
-   "morph": "m.stem",
-   "grounds": "course or way"
-  },
-  {
-   "lemma": "garbhiṇī",
-   "morph": "f.nom.sg",
-   "grounds": "bearing within"
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "closes the conclusion"
   }
  ]
 }

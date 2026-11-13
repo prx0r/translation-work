@@ -32,7 +32,7 @@
 },
 {
 "surface": "janma+iti+ādi",
-"quick_gloss": "birth+thus+etc"
+"quick_gloss": "birth+etc"
 }
 ]
 },
@@ -44,8 +44,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sadā+eka+rūpaḥ",
-"quick_gloss": "always+one+form"
+"surface": "sadā+eka+rūpa",
+"quick_gloss": "always+one-form"
 },
 {
 "surface": "iti",
@@ -61,7 +61,7 @@
 },
 {
 "surface": "yathā+iti+ādi",
-"quick_gloss": "as+thus+etc"
+"quick_gloss": "as+etc"
 }
 ]
 },
@@ -86,7 +86,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "would-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "satyaṃ",
@@ -126,7 +126,7 @@
 "quick_gloss": "having-known"
 },
 {
-"surface": "muktaḥ",
+"surface": "mukto",
 "quick_gloss": "liberated"
 },
 {
@@ -135,7 +135,7 @@
 },
 {
 "surface": "mānavaḥ",
-"quick_gloss": "human"
+"quick_gloss": "man"
 }
 ]
 },
@@ -156,7 +156,7 @@
 },
 {
 "surface": "ātma+sambandhāt",
-"quick_gloss": "from-connection-with-self"
+"quick_gloss": "from-connection+with-self"
 },
 {
 "surface": "bhavanti",
@@ -172,7 +172,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "o-śiva"
+"quick_gloss": "O-Śivā"
 }
 ]
 },
@@ -189,15 +189,19 @@
 },
 {
 "surface": "tritaye",
-"quick_gloss": "in-triad"
+"quick_gloss": "in-the-triad"
 },
 {
 "surface": "ātmā",
 "quick_gloss": "self"
 },
 {
-"surface": "eva+ekaḥ",
-"quick_gloss": "alone+one"
+"surface": "ekaḥ",
+"quick_gloss": "alone"
+},
+{
+"surface": "eva",
+"quick_gloss": "one"
 },
 {
 "surface": "avaśiṣyate",
@@ -217,12 +221,8 @@
 "quick_gloss": "known"
 },
 {
-"surface": "svayam",
-"quick_gloss": "by-self"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "svayam+eva",
+"quick_gloss": "by-himself"
 },
 {
 "surface": "ātmā",
@@ -241,7 +241,7 @@
 "quick_gloss": "he"
 },
 {
-"surface": "ātma+vit",
+"surface": "ātmavit",
 "quick_gloss": "self-knower"
 }
 ]
@@ -346,11 +346,15 @@
 "tokens": [
 {
 "surface": "śrī+devī+uvāca",
-"quick_gloss": "śrī-devī-said"
+"quick_gloss": "Śrī-Devī+said"
 },
 {
-"surface": "dvividha+iti+ādi",
-"quick_gloss": "twofold+thus+etc"
+"surface": "dvividhā+iti+ādi",
+"quick_gloss": "twofold+etc"
+},
+{
+"surface": "|| 141",
+"quick_gloss": "141"
 }
 ]
 },
@@ -363,7 +367,7 @@
 "tokens": [
 {
 "surface": "gṛha+āśrame",
-"quick_gloss": "in-householder-stage"
+"quick_gloss": "in-householder+stage"
 },
 {
 "surface": "vasantaḥ",
@@ -371,7 +375,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "jñeyāḥ",
@@ -387,7 +391,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "o-dear"
+"quick_gloss": "O-beloved"
 }
 ]
 },
@@ -400,7 +404,7 @@
 "tokens": [
 {
 "surface": "śaiva+avadhūtāḥ",
-"quick_gloss": "śaiva-avadhūtas"
+"quick_gloss": "Śaiva+avadhūtas"
 },
 {
 "surface": "te",
@@ -416,7 +420,7 @@
 },
 {
 "surface": "kula+arcite",
-"quick_gloss": "o-worshipper-of-kula"
+"quick_gloss": "O-worshipper-of-Kula"
 }
 ]
 },
@@ -432,16 +436,12 @@
 "quick_gloss": "they-should-perform"
 },
 {
-"surface": "sarva",
-"quick_gloss": "all"
-},
-{
-"surface": "karmāṇi",
-"quick_gloss": "actions"
+"surface": "sarva+karmāṇi",
+"quick_gloss": "all+actions"
 },
 {
 "surface": "mat+udīrita+vartmanā",
-"quick_gloss": "by-path-declared-by-me"
+"quick_gloss": "by-path+declared-by-me"
 }
 ]
 },
@@ -453,12 +453,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niṣiddham",
-"quick_gloss": "forbidden"
-},
-{
-"surface": "annaṃ",
-"quick_gloss": "food"
+"surface": "niṣiddham+annaṃ",
+"quick_gloss": "forbidden+food"
 },
 {
 "surface": "toyam+ca",
@@ -486,12 +482,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāk",
-"quick_gloss": "previously"
-},
-{
-"surface": "eva",
-"quick_gloss": "indeed"
+"surface": "prāk+eva",
+"quick_gloss": "previously+indeed"
 },
 {
 "surface": "kathitaḥ",
@@ -507,7 +499,7 @@
 },
 {
 "surface": "vara+ānane",
-"quick_gloss": "o-fair-faced"
+"quick_gloss": "O-fair-faced-one"
 }
 ]
 },
@@ -520,15 +512,15 @@
 "tokens": [
 {
 "surface": "sarvam",
-"quick_gloss": "all"
+"quick_gloss": "everything"
 },
 {
 "surface": "āgama+mārgeṇa",
-"quick_gloss": "by-āgama-path"
+"quick_gloss": "by-Āgama+path"
 },
 {
 "surface": "śaiva+brāhma+avadhūtayoḥ",
-"quick_gloss": "of-śaiva-and-brāhma-avadhūtas"
+"quick_gloss": "of-Śaiva+and-Brāhma+avadhūtas"
 }
 ]
 },
@@ -541,19 +533,19 @@
 "tokens": [
 {
 "surface": "pūrṇaḥ",
-"quick_gloss": "full"
+"quick_gloss": "complete"
 },
 {
 "surface": "paramahaṃsa+ākhyaḥ",
-"quick_gloss": "called-paramahaṃsa"
+"quick_gloss": "called-Paramahaṃsa"
 },
 {
 "surface": "parivrāṭ+aparaḥ",
-"quick_gloss": "other-wandering-ascetic"
+"quick_gloss": "other+wandering-ascetic"
 },
 {
 "surface": "priye",
-"quick_gloss": "o-dear"
+"quick_gloss": "O-beloved"
 }
 ]
 },
@@ -570,11 +562,11 @@
 },
 {
 "surface": "loka+ālaye",
-"quick_gloss": "in-world-abode"
+"quick_gloss": "in-world+abode"
 },
 {
 "surface": "tiṣṭhan",
-"quick_gloss": "staying"
+"quick_gloss": "dwelling"
 },
 {
 "surface": "ātmānaṃ",
@@ -602,20 +594,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahma+mantra",
-"quick_gloss": "brahma-mantra"
-},
-{
-"surface": "upāsakāḥ",
-"quick_gloss": "worshippers"
-},
-{
 "surface": "ye",
-"quick_gloss": "who"
+"quick_gloss": "those-who"
+},
+{
+"surface": "brahma+mantra+upāsakāḥ",
+"quick_gloss": "worshippers+of-Brahma-mantra"
 },
 {
 "surface": "iti+ādi",
 "quick_gloss": "thus+etc"
+},
+{
+"surface": "|| 143",
+"quick_gloss": "143"
 }
 ]
 },
@@ -632,7 +624,7 @@
 },
 {
 "surface": "brahma+paraḥ",
-"quick_gloss": "devoted-to-brahman"
+"quick_gloss": "devoted-to-Brahman"
 },
 {
 "surface": "bhūtvā",
@@ -665,7 +657,7 @@
 },
 {
 "surface": "ātma+ucitaṃ",
-"quick_gloss": "action-suited-to-self"
+"quick_gloss": "action+suitable-to-self"
 },
 {
 "surface": "karma",
@@ -697,12 +689,12 @@
 "quick_gloss": "self"
 },
 {
-"surface": "uddhartum",
+"surface": "uddhartuṃ",
 "quick_gloss": "to-uplift"
 },
 {
 "surface": "tattva+jñāna+vivekataḥ",
-"quick_gloss": "by-discrimination-of-knowledge-of-truth"
+"quick_gloss": "by-discrimination+of-truth-knowledge"
 }
 ]
 },
@@ -723,7 +715,7 @@
 },
 {
 "surface": "api",
-"quick_gloss": "also"
+"quick_gloss": "even"
 },
 {
 "surface": "udāsīnaḥ",
@@ -731,7 +723,7 @@
 },
 {
 "surface": "tasya+abhīṣṭāya",
-"quick_gloss": "for-his-desired-goal"
+"quick_gloss": "for-his+desired-end"
 },
 {
 "surface": "tat",
@@ -739,7 +731,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-be"
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -751,16 +743,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "o",
-"quick_gloss": "o"
+"surface": "o/",
+"quick_gloss": "oṃ"
 },
 {
-"surface": "tat+sat+mantra",
-"quick_gloss": "by-that-good-mantra"
-},
-{
-"surface": "niṣpannāḥ",
-"quick_gloss": "accomplished"
+"surface": "tat+sat+mantra+niṣpannāḥ",
+"quick_gloss": "accomplished+by-that-true-mantra"
 },
 {
 "surface": "sampūrṇāḥ",
@@ -768,7 +756,7 @@
 },
 {
 "surface": "syuḥ",
-"quick_gloss": "would-be"
+"quick_gloss": "may-be"
 },
 {
 "surface": "na",

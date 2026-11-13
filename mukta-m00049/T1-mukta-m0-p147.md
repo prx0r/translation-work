@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p147-v3651
-[in-two-days](dinadvaye) [twice-that](tat+diguṇaṃ) [double-of-that](tat+dvaiguṇyaṃ) [in-three-days](dinatraye)
+[two-days](dinadvaye) [that+double](taddviguṇaṃ) [that+twofoldness](taddvaiguṇyaṃ) [day+three](dinatraye)
 
 ## mukta-m0-p147-v3652
-[then](tadā) [with-eight-pots](aṣṭa+kalaśaiḥ) [the-god](devaṃ) [having-bathed](snāpayitvā) [should-worship](yajet) [the-wise-one](su+dhīḥ)
+[then](tadā) [eight+pitchers+with](aṣṭakalaśaiḥ) [god](devaṃ) [having-bathed](snāpayitvā) [should-worship](yajet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p147-v3653
-[again](punaḥ) [well-consecrated](su+saṃskṛtaṃ) [having-made](kṛtvā) [should-worship](pūjayet) [foremost-practitioner](sādhaka+agraṇīḥ)
+[again](punaḥ) [well+consecrated](susaṃskṛtaṃ) [having-made](kṛtvā) [should-worship](pūjayet) [practitioner+foremost](sādhakāgraṇīḥ)
 
 ## mukta-m0-p147-v3654
-[śrī-devī-said](śrīdevī+uvāca) [beginning-with-yadi](yadi+iti+ādi) [there](tatra) [when-obstruction-to-worship](pūjā+bādhe) [being](sati)
+[śrī-devī](śrīdevī) [said](uvāca) [if+etcetera](yadītyādi) [there](tatra) [worship+obstruction](pūjābādhe) [being](sati)
 
 ## mukta-m0-p147-v3655
-[fallen](patitaṃ) [on-impure-ground-etc](duṣṭa+bhūmi+ādau) [not](na) [the-god](devaṃ) [should-worship](pūjayet) [the-wise-one](budhaḥ)
+[fallen](patitaṃ) [impure+ground+etcetera+on](duṣṭabhūmyādau) [not](na) [deity](devaṃ) [should-worship](pūjayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p147-v3656
-[defiled-by-touch-etc-faults](sparśa+ādi+doṣa+duṣṭaṃ) [but](tu) [having-consecrated](saṃskṛtya) [should-worship-again](punaḥ+arcayet)
+[touch+etcetera+fault+defiled](sparśādidoṣaduṣṭaṃ) [but](tu) [having-consecrated](saṃskṛtya) [again](punar) [should-worship](arcayet)
 
 ## mukta-m0-p147-v3657
-[always](sarvadā) [should-worship](pūjayet) [there](tatra) [one's-own](svaṃ) [own-chosen-deity](sva+iṣṭaṃ) [for-attainment-of-happiness](sukha+āptaye)
+[always](sarvadā) [should-worship](pūjayet) [there](tatra) [own](svaṃ) [own+chosen-deity](svamiṣṭaṃ) [happiness+attainment+for](sukhāptaye)
 
 ## mukta-m0-p147-v3658
-[for-supreme-good](niḥśreyasāya) [that](tat) [all](sarvaṃ) [with-details](sa+viśeṣaṃ) [has-been-declared](prakīrtitam)
+[highest-good+for](niḥśreyasāya) [that](tat) [all](sarvaṃ) [with+distinction](saviśeṣaṃ) [declared](prakīrtitam)
 
 ## mukta-m0-p147-v3659
-[even-unwilling](anicchantaḥ+api) [helpless](vivaśāḥ) [are-dragged](kṛṣyante) [by-wind-of-karma](karma+vāyunā)
+[not+desiring](anicchantaḥ) [even](api) [helpless](vivaśāḥ) [are-dragged](kṛṣyante) [karma+wind+by](karmavāyunā)
 
 ## mukta-m0-p147-v3660
-[they-are-born](jāyante) [and](ca) [they-dissolve](pralīyante) [they-exist](vartante) [by-power-of-karma](karmaṇaḥ) [under-control](vaśāt)
+[are-born](jāyante) [and](ca) [dissolve](pralīyante) [exist](vartante) [karma+of](karmaṇaḥ) [under-control](vaśāt)
 
 ## mukta-m0-p147-v3661
-[for-activity](pravṛttaye) [of-those-of-little-understanding](alpa+bodhānāṃ) [for-cessation-of-misconduct](duḥ+ceṣṭita+nivṛttaye)
+[engagement+for](pravṛttaye) [little+understanding+of](alpabodhānāṃ) [bad+conduct+cessation+for](duśceṣṭitanivṛttaye)
 
 ## mukta-m0-p147-v3662
-[from-inauspicious](aśubhāt) [action](karmaṇaḥ) [go](yānti) [living-beings](prāṇinaḥ) [to-severe-torment](tīvra+yātanām)
+[inauspicious+from](aśubhāt) [action+from](karmaṇaḥ) [go](yānti) [living-beings](prāṇinaḥ) [intense+torment](tīvrayātanām)
 
 ## mukta-m0-p147-v3663
-[they-go-and-come](prayānti+āyānti) [there-and-here](amutra+iha) [bound-by-chain-of-karma](karma+śṛṅkhala+yantritāḥ)
+[go](prayānti) [and-come](āyānti) [in-other-world+and-here](amutreha) [karma+chain+restrained](karmaśṛṅkhalayantritāḥ)
 
 ## mukta-m0-p147-v3664
-[so-long](tāvat) [not](na) [arises](jāyate) [liberation](mokṣaḥ) [of-men](nṛṇāṃ) [even-in-hundred-kalpas](kalpa+śataiḥ+api)
+[so-long](tāvat) [not](na) [is-born](jāyate) [liberation](mokṣaḥ) [of-men](nṛṇāṃ) [eon+hundreds+even](kalpaśatairapi)
 
 ## mukta-m0-p147-v3665
-[thus](tathā) [bound](baddhaḥ) [becomes](bhavet) [the-soul](jīvaḥ) [by-karmas](karmabhiḥ) [and](ca) [inauspicious](aśubhaiḥ) [auspicious](śubhaiḥ)
+[thus](tathā) [bound](baddhaḥ) [becomes](bhavet) [soul](jīvaḥ) [actions+by](karmabhiḥ) [and](ca) [inauspicious+auspicious](aśubhaiḥ+śubhaiḥ)
 
 ## mukta-m0-p147-v3666
 [so-long](tāvat) [not](na) [obtains](labhate) [liberation](mokṣaṃ) [as-long-as](yāvat) [knowledge](jñānaṃ) [not](na) [attains](vindati)
 
 ## mukta-m0-p147-v3667
-[it-arises](jāyate) [of-those-whose-darkness-is-diminished](kṣīṇa+tamasāṃ) [of-the-wise](viduṣāṃ) [of-pure-souled](nirmala+ātmanām)
+[is-born](jāyate) [diminished+darkness+of](kṣīṇatamasāṃ) [of-the-wise](viduṣāṃ) [pure+souls+of](nirmalātmanām)
 
 ## mukta-m0-p147-v3668
-[truth](satyam) [one](ekaṃ) [supreme](paraṃ) [brahman](brahma) [having-known-thus](viditvā+evaṃ) [happy](sukhī) [one-should-be](bhavet)
+[truth](satyam) [one](ekaṃ) [supreme](paraṃ) [brahman](brahma) [having-known](viditvā) [thus](evaṃ) [happy](sukhī) [should-be](bhavet)
 
 ## mukta-m0-p147-v3669
-[one-who-has-ascertained-truth](pariniścita+tattvaḥ) [who](yaḥ) [he](saḥ) [liberated](muktaḥ) [from-bondage-of-karma](karma+bandhanāt)
+[ascertained+truth+who](pariniścitatattvaḥ) [who](yaḥ) [he](saḥ) [liberated](muktaḥ) [karma+bondage+from](karmabandhanāt)
 
 ## mukta-m0-p147-v3670
-[of-those-with-pure-inner-organs](vimala+antaḥkaraṇānām)
+[pure+inner-organ+of](vimalāntaḥkaraṇānām)
 
 ## mukta-m0-p147-v3671
-[brahman-alone-I-am](brahma+eva+aham) [thus](iti) [having-known](jñātvā) [liberated](muktaḥ) [becomes](bhavati) [the-embodied-one](deha+bhṛt)
+[brahman](brahma) [indeed](eva) [I](aham) [thus](iti) [having-known](jñātvā) [liberated](muktaḥ) [becomes](bhavati) [body+bearer](dehabhṛt)
 
 ## mukta-m0-p147-v3672
-[even-dwelling-in-body](deha+sthaḥ+api) [not](na) [dwelling-in-body](deha+sthaḥ) [having-known-thus](jñātvā+evaṃ) [partaker-of-liberation](mukti+bhāk) [one-becomes](bhavet)
+[body+dwelling](dehasthaḥ) [even](api) [not](na) [body+dwelling](dehasthaḥ) [having-known](jñātvā) [thus](evaṃ) [liberation+partaker](muktibhāk) [should-be](bhavet)
 
 ## mukta-m0-p147-v3673
-[having-abandoned](vihāya) [devoted-to-brahman](brahma+niṣṭhaḥ) [who](yaḥ) [he](saḥ) [liberated](muktaḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[having-abandoned](vihāya) [brahman+devoted](brahmaniṣṭhaḥ) [who](yaḥ) [he](saḥ) [liberated](muktaḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p147-v3674
-[by-kingdom-obtained-in-dream](svapna+labdhena) [by-kingdom](rājyena) [kings](rājānaḥ) [men](mānavāḥ) [then](tadā)
+[dream+obtained+by](svapnalabdhena) [kingdom+by](rājyena) [kings](rājānaḥ) [humans](mānavāḥ) [then](tadā)
 
 ## mukta-m0-p147-v3675
 [suffering](kliśyantaḥ) [by-austerity](tapasā) [knowledge](jñānaṃ) [without](vinā) [liberation](mokṣaṃ) [not](na) [go](yānti) [they](te)

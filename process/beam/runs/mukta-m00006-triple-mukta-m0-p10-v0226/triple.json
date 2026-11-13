@@ -1,0 +1,849 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "susaṃvādaṃ",
+     "gloss": "well-concordant",
+     "grounds": "adjective describing agreement or coherence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaivāgamākhyaṃ",
+     "gloss": "called-shaiva-scripture",
+     "grounds": "compound naming the Śaiva scripture",
+     "morph": "compound: śaiva+āgama+ākhya, m.acc.sg"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "means-of-knowledge",
+     "grounds": "valid source of knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratyakṣādivat",
+     "gloss": "like-perception-etc",
+     "grounds": "comparative indicating likeness to perception and others",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasya",
+     "gloss": "of-whom",
+     "grounds": "interrogative pronoun implying universal acceptance",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nābhimatam",
+     "gloss": "not-accepted",
+     "grounds": "negated past participle expressing non-acceptance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why should the coherent Śaiva scripture be accepted as a valid means of knowledge like perception?",
+   "premises": [
+    "The Śaiva scripture is internally coherent",
+    "Perception and other means are accepted as valid",
+    "Coherent sources merit acceptance as valid knowledge"
+   ],
+   "inference": "Therefore the Śaiva scripture should be accepted as a valid means of knowledge by all.",
+   "uncertainties": [],
+   "plain_english": "Who would not accept the well-concordant teaching called the Śaiva scripture as a valid means of knowledge, just like perception and the rest?"
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding a further point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svagocare",
+     "gloss": "in-own-sphere",
+     "grounds": "compound indicating its proper domain",
+     "morph": "compound: sva+gocara, m.loc.sg"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to other means of knowledge",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "bādhate",
+     "gloss": "contradicts",
+     "grounds": "verb expressing obstruction or invalidation",
+     "morph": "3.sg.act-present, √bādh"
+    },
+    {
+     "surface": "tatpramāṇatām",
+     "gloss": "its-authoritativeness",
+     "grounds": "compound denoting its status as valid knowledge",
+     "morph": "compound: tad+pramāṇatā, f.acc.sg"
+    }
+   ],
+   "question": "Can other means of knowledge invalidate the Śaiva scripture within its own proper domain?",
+   "premises": [
+    "Each means of knowledge has its own sphere",
+    "Contradiction requires overlap in the same sphere",
+    "Other means do not operate in the scripture's domain"
+   ],
+   "inference": "Therefore other means of knowledge do not contradict its authoritativeness in its own sphere.",
+   "uncertainties": [],
+   "plain_english": "And in its own sphere, those other means of knowledge do not contradict its authoritativeness."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "prāpyaprāpakatvena",
+     "gloss": "by-attainable-attainer-state",
+     "grounds": "compound expressing the relation of goal and means",
+     "morph": "compound: prāpya+prāpaka+tva, n.inst.sg"
+    },
+    {
+     "surface": "prāmāṇyameveti",
+     "gloss": "authoritativeness-indeed-thus",
+     "grounds": "fused form asserting validity with emphasis and quotation marker",
+     "morph": "compound: prāmāṇya+eva+iti, n.nom.sg+(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "etaccoktamasmābhiḥ",
+     "gloss": "this-stated-by-us",
+     "grounds": "fused form referring back to prior statement by the author",
+     "morph": "compound: etad+ca+ukta+asmābhiḥ, n.nom.sg+(indecl.)+n.nom.sg+1.inst.pl"
+    },
+    {
+     "surface": "sarvāgamaprāmāṇye",
+     "gloss": "in-all-scriptures-authoritativeness",
+     "grounds": "compound referring to the context of validating all scriptures",
+     "morph": "compound: sarva+āgama+prāmāṇya, n.loc.sg"
+    }
+   ],
+   "question": "On what basis has the authoritativeness of all scriptures already been established by the author?",
+   "premises": [
+    "Scriptures relate attainable goals and means",
+    "This relation establishes their validity",
+    "The author previously argued for all scriptures' authoritativeness"
+   ],
+   "inference": "Thus their authoritativeness is indeed established by the attainable-attainer relation, as stated earlier.",
+   "uncertainties": [],
+   "plain_english": "Indeed, their authoritativeness consists in being the means to what is to be attained; this has already been stated by us in the discussion on the authoritativeness of all scriptures."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cānyena",
+     "gloss": "and-by-another",
+     "grounds": "fused conjunction and pronoun indicating another means",
+     "morph": "(indecl.)+m.inst.sg"
+    },
+    {
+     "surface": "pramāṇena",
+     "gloss": "by-means-of-knowledge",
+     "grounds": "instrument denoting another valid cognition",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃruddhastasya",
+     "gloss": "obstructed-its",
+     "grounds": "fused participle and pronoun indicating blockage of its domain",
+     "morph": "m.nom.sg+6.gen.sg"
+    },
+    {
+     "surface": "gocaraḥ",
+     "gloss": "sphere",
+     "grounds": "domain or range of application",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can any other means of knowledge obstruct the proper sphere of the Śaiva scripture?",
+   "premises": [
+    "The scripture has a distinct sphere",
+    "Obstruction would require a superior overlapping means",
+    "No other means covers that sphere"
+   ],
+   "inference": "Therefore its sphere is not obstructed by any other means of knowledge.",
+   "uncertainties": [],
+   "plain_english": "And its sphere is not obstructed by any other means of knowledge."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "paraśreyoheturvedavidbhiranyaiśca",
+     "gloss": "supreme-good-cause-by-veda-knowers-and-others",
+     "grounds": "long fused compound stating cause of highest good recognized by Vedic and other knowers",
+     "morph": "compound: para+śreyas+hetu+veda+vid+bhis+anyais+ca, m.nom.sg+3.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "pramāṇametad",
+     "gloss": "means-of-knowledge-this",
+     "grounds": "fused form identifying this scripture as valid knowledge",
+     "morph": "n.nom.sg+n.nom.sg"
+    },
+    {
+     "surface": "grāhyam",
+     "gloss": "to-be-accepted",
+     "grounds": "gerundive expressing obligation to accept",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why must this scripture be accepted by knowers of the Veda and others as authoritative?",
+   "premises": [
+    "This scripture is a cause of supreme good",
+    "Knowers of the Veda and others seek supreme good",
+    "A means to supreme good should be accepted"
+   ],
+   "inference": "Therefore this scripture must be accepted as a valid means of knowledge.",
+   "uncertainties": [],
+   "plain_english": "This is a means of knowledge that is a cause of the highest good, and it should be accepted by those who know the Veda and by others as well."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tābhirabhibhāṣyābhiḥ",
+     "gloss": "by-those-to-be-spoken",
+     "grounds": "instrumental referring to specific other sources or statements",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "sāmānyābhiśca",
+     "gloss": "and-by-general",
+     "grounds": "fused conjunction and adjective indicating general sources",
+     "morph": "f.inst.pl+(indecl.)"
+    },
+    {
+     "surface": "bādhyate",
+     "gloss": "is-contradicted",
+     "grounds": "passive verb expressing being invalidated",
+     "morph": "3.sg.pass-present, √bādh"
+    }
+   ],
+   "question": "Can either specific or general opposing statements invalidate the Śaiva scripture's authority?",
+   "premises": [
+    "Opposition may be specific or general",
+    "Invalidation requires authority in the same domain",
+    "Such opposing statements lack that authority here"
+   ],
+   "inference": "Therefore it is not contradicted by those specific or general statements.",
+   "uncertainties": [
+    "Exact referent of 'those to be spoken' is context-dependent"
+   ],
+   "plain_english": "It is not contradicted by those particular statements nor by general ones."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle introducing analogy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meyaphale",
+     "gloss": "in-object-result",
+     "grounds": "compound indicating the object and its result",
+     "morph": "compound: meya+phala, n.loc.sg"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to other means of knowledge",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tadanūdya",
+     "gloss": "having-followed-that",
+     "grounds": "gerund indicating following or presupposing that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines-forth",
+     "grounds": "verb indicating manifestation or clarification",
+     "morph": "3.sg.mid-present, √kāś"
+    }
+   ],
+   "question": "How does the Śaiva scripture relate to the objects and results established by other means of knowledge?",
+   "premises": [
+    "Other means establish certain objects and results",
+    "The scripture can presuppose those results",
+    "Presupposition allows further illumination"
+   ],
+   "inference": "Thus the scripture shines forth by following upon the objects and results known by them.",
+   "uncertainties": [],
+   "plain_english": "Just as, in regard to their objects and results, it shines forth by following upon them."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "pronoun referring to the scripture",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "meyaphalaṃ",
+     "gloss": "object-result",
+     "grounds": "compound denoting what is known and its fruit",
+     "morph": "compound: meya+phala, n.acc.sg"
+    },
+    {
+     "surface": "coktvā",
+     "gloss": "and-having-stated",
+     "grounds": "fused conjunction and gerund indicating prior statement",
+     "morph": "(indecl.)+(indecl.)"
+    },
+    {
+     "surface": "svaprameyaphalāśritam",
+     "gloss": "resting-on-own-object-result",
+     "grounds": "compound indicating dependence on its own proper object and result",
+     "morph": "compound: sva+prameya+phala+āśrita, n.acc.sg"
+    }
+   ],
+   "question": "What kind of object and result does the Śaiva scripture uniquely establish beyond other means?",
+   "premises": [
+    "Other means have their own objects and results",
+    "The scripture states an object and result of its own",
+    "Its teaching rests on that unique domain"
+   ],
+   "inference": "Therefore the scripture establishes an object and result resting on its own proper domain.",
+   "uncertainties": [],
+   "plain_english": "And having stated its own object and result, it rests upon its own proper object and result."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "sarvābhirgocarīkartumaśakyam",
+     "gloss": "by-all-impossible-to-make-object",
+     "grounds": "fused compound expressing impossibility of being grasped by all other means",
+     "morph": "compound: sarvābhis+gocarī+kartum+aśakya, n.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathamaviṣaye",
+     "gloss": "how-in-non-object",
+     "grounds": "fused interrogative and compound indicating absence of domain",
+     "morph": "(indecl.)+compound: a+viṣaya, m.loc.sg"
+    },
+    {
+     "surface": "bādhakatvaṃ",
+     "gloss": "contradictoriness",
+     "grounds": "abstract noun denoting capacity to contradict",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to other means of knowledge",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing hypothetical possibility",
+     "morph": "3.sg.act-optative, √as"
+    }
+   ],
+   "question": "How could other means of knowledge contradict a domain they cannot possibly access?",
+   "premises": [
+    "The scripture's domain cannot be made an object by all other means",
+    "Contradiction requires access to the same domain",
+    "Other means lack access to this non-object domain"
+   ],
+   "inference": "Therefore there can be no contradictoriness by them in a domain beyond their reach.",
+   "uncertainties": [],
+   "plain_english": "Since it cannot be made an object by all of them, how could they have any power to contradict it in a domain that is not their object?"
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "abhyanujñā",
+     "gloss": "permission",
+     "grounds": "noun indicating allowance or sanction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣedho",
+     "gloss": "prohibition",
+     "grounds": "noun indicating restriction or negation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun referring to the scripture",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tāsu",
+     "gloss": "in-them",
+     "grounds": "locative pronoun referring to other practices or texts",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "viniścitam",
+     "gloss": "ascertained",
+     "grounds": "past participle indicating definite determination",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does the Śaiva scripture definitively permit or prohibit practices found in other traditions?",
+   "premises": [
+    "Scriptures may issue permission or prohibition",
+    "Such determinations apply within their scope",
+    "The Śaiva scripture makes determinations regarding them"
+   ],
+   "inference": "Thus permission or prohibition regarding them is ascertained by that scripture.",
+   "uncertainties": [
+    "Specific practices referred to by 'in them' are not explicit"
+   ],
+   "plain_english": "By it, permission or prohibition in regard to them is definitively ascertained."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "brāhmīṃ",
+     "gloss": "brahmanical",
+     "grounds": "adjective referring to Brahmanical practice or observance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryācchaivīmeva",
+     "gloss": "one-should-do-shaiva-alone",
+     "grounds": "fused optative and compound emphasizing exclusive Śaiva practice",
+     "morph": "3.sg.act-optative, √kṛ + compound: śaivīm+eva, f.acc.sg+(indecl.)"
+    },
+    {
+     "surface": "niyogataḥ",
+     "gloss": "by-injunction",
+     "grounds": "ablative indicating source as authoritative command",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does the Śaiva scripture enjoin exclusive Śaiva practice over Brahmanical observance by strict command?",
+   "premises": [
+    "A scripture may issue exclusive injunctions",
+    "The statement contrasts Brahmanical and Śaiva practice",
+    "The determination is presented as an injunction"
+   ],
+   "inference": "Thus it is ascertained whether one should not perform the Brahmanical practice but only the Śaiva one by injunction.",
+   "uncertainties": [
+    "The verse reports a possible injunctional formulation; its final endorsement depends on context"
+   ],
+   "plain_english": "Thus it is determined by injunction: one should not perform the Brahmanical observance, or rather one should perform only the Śaiva one."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "anādikālasaṃsiddhaṃ",
+     "gloss": "established-from-beginningless-time",
+     "grounds": "compound indicating eternal or primordial establishment",
+     "morph": "compound: anādi+kāla+saṃsiddha, n.nom.sg"
+    },
+    {
+     "surface": "tadguṇatve'pi",
+     "gloss": "even-in-being-its-quality",
+     "grounds": "fused compound with concessive particle indicating despite having that quality",
+     "morph": "compound: tad+guṇatva+api, n.loc.sg+(indecl.)"
+    },
+    {
+     "surface": "śāṅkare",
+     "gloss": "in-shankara-scripture",
+     "grounds": "locative referring to the scripture of Śaṅkara/Śiva",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Does primordial establishment within the Śaṅkara scripture limit its ultimate authority?",
+   "premises": [
+    "Something may be established from beginningless time",
+    "It may exist as a quality within the Śaṅkara scripture",
+    "Such status raises a question about limitation"
+   ],
+   "inference": "Even if established from beginningless time as its quality in the Śaṅkara scripture, a further consideration applies.",
+   "uncertainties": [
+    "The subject qualified by these terms is carried from context"
+   ],
+   "plain_english": "Even though it is established from beginningless time and exists as a quality within the Śaṅkara scripture,"
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāvihataśaktitvāt",
+     "gloss": "and-because-of-unobstructed-power",
+     "grounds": "fused conjunction and causal compound attributing unobstructed power",
+     "morph": "(indecl.)+compound: a+vihata+śakti+tva, n.abl.sg"
+    },
+    {
+     "surface": "patyurbādhaṃ",
+     "gloss": "of-lord-contradiction",
+     "grounds": "genitive and accusative indicating contradiction affecting the Lord",
+     "morph": "m.gen.sg+n.acc.sg"
+    },
+    {
+     "surface": "tadaśnute",
+     "gloss": "that-undergoes",
+     "grounds": "fused pronoun and verb expressing undergoing or experiencing",
+     "morph": "n.nom.sg+3.sg.mid-present, √aś"
+    }
+   ],
+   "question": "Can the Lord's teaching undergo contradiction given the Lord's unobstructed power?",
+   "premises": [
+    "The Lord possesses unobstructed power",
+    "Contradiction would imply limitation of that power",
+    "An unobstructed power cannot be invalidated"
+   ],
+   "inference": "Therefore it does not undergo contradiction of the Lord.",
+   "uncertainties": [],
+   "plain_english": "And because of the Lord's unobstructed power, it does not undergo any contradiction."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "kintūktameva",
+     "gloss": "but-stated-indeed",
+     "grounds": "fused adversative and emphatic form reinforcing prior statement",
+     "morph": "(indecl.)+n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "tatpramāṇyaṃ",
+     "gloss": "its-authoritativeness",
+     "grounds": "compound denoting its validity",
+     "morph": "compound: tad+prāmāṇya, n.nom.sg"
+    },
+    {
+     "surface": "bhagavato'pratihataśaktitvena",
+     "gloss": "of-lord-by-unobstructed-power",
+     "grounds": "fused genitive and instrumental compound giving reason as the Lord's unobstructed power",
+     "morph": "m.gen.sg+compound: a+pratihata+śakti+tva, n.inst.sg"
+    },
+    {
+     "surface": "sarvottamatvāt",
+     "gloss": "because-of-supremacy-over-all",
+     "grounds": "causal abstract noun indicating highest status",
+     "morph": "compound: sarva+uttama+tva, n.abl.sg"
+    }
+   ],
+   "question": "Why is the Śaiva scripture's authoritativeness affirmed as supreme over all others?",
+   "premises": [
+    "The Lord possesses unobstructed power",
+    "The Lord is supreme over all",
+    "A teaching grounded in such supremacy has highest authoritativeness"
+   ],
+   "inference": "Therefore its authoritativeness is indeed affirmed because of the Lord's unobstructed power and supremacy over all.",
+   "uncertainties": [],
+   "plain_english": "But its authoritativeness is indeed as stated, because the Lord's power is unobstructed and because he is supreme over all."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-accepted",
+     "grounds": "gerundive expressing that it should be accepted",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tulyaphalatve'pi",
+     "gloss": "even-in-equal-result",
+     "grounds": "fused compound with concessive particle indicating equality of fruit",
+     "morph": "compound: tulya+phala+tva+api, n.loc.sg+(indecl.)"
+    },
+    {
+     "surface": "vimuktirdīkṣayaiva",
+     "gloss": "liberation-by-initiation-alone",
+     "grounds": "fused subject and instrumental with emphasis on initiation as means",
+     "morph": "f.nom.sg+compound: dīkṣayā+eva, f.inst.sg+(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the teaching or conclusion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why should the Śaiva teaching be preferred when other paths may yield comparable results?",
+   "premises": [
+    "Other paths may appear to yield equal results",
+    "Liberation is attained through initiation in this system",
+    "The distinctive means of liberation warrants acceptance"
+   ],
+   "inference": "Therefore it should be accepted, since liberation comes through initiation alone.",
+   "uncertainties": [],
+   "plain_english": "It should be accepted; for even if the results were equal, liberation comes through initiation alone."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "vidbān",
+     "gloss": "knowing-one",
+     "grounds": "present participle used as noun for a wise person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatnamācaret",
+     "gloss": "should-make-effort",
+     "grounds": "fused object and optative verb urging exertion",
+     "morph": "m.acc.sg+3.sg.act-optative, √ā+car"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What course of action should a knowledgeable person undertake regarding this path to liberation?",
+   "premises": [
+    "Liberation is achieved through initiation in this path",
+    "A knowing person recognizes the proper means",
+    "Proper means require deliberate effort"
+   ],
+   "inference": "Therefore the knowing person should make effort accordingly.",
+   "uncertainties": [],
+   "plain_english": "Thus, the knowing person should make effort."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "siddhirvyāpāranirmuktā",
+     "gloss": "accomplishment-free-from-activity",
+     "grounds": "fused compound describing accomplishment without further exertion",
+     "morph": "compound: siddhi+vyāpāra+nirmuktā, f.nom.sg"
+    },
+    {
+     "surface": "muktirapyatiśāyinī",
+     "gloss": "liberation-also-surpassing",
+     "grounds": "fused compound stating liberation is also supreme or surpassing",
+     "morph": "compound: mukti+api+atiśāyinī, f.nom.sg+(indecl.)"
+    }
+   ],
+   "question": "What distinguishes the accomplishment and liberation attained through this Śaiva path?",
+   "premises": [
+    "This path yields a distinct accomplishment",
+    "That accomplishment is free from further activity",
+    "The resulting liberation is surpassing"
+   ],
+   "inference": "Therefore its accomplishment is free from activity and its liberation is surpassing.",
+   "uncertainties": [],
+   "plain_english": "Its accomplishment is free from activity, and its liberation is surpassing."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "dṛṣṭyantaraistulyaphalatve'pi",
+     "gloss": "even-with-equal-fruit-by-other-views",
+     "grounds": "fused compound with concessive particle comparing other viewpoints",
+     "morph": "compound: dṛṣṭi+antarais+tulya+phala+tva+api, n.loc.sg+(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikalpitā",
+     "gloss": "doubted",
+     "grounds": "past participle indicating conceptual wavering or doubt",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pravṛttiratreti",
+     "gloss": "engagement-here-thus",
+     "grounds": "fused compound with locative and quotation marker asserting engagement here",
+     "morph": "compound: pravṛtti+atra+iti, f.nom.sg+(indecl.)+(indecl.)"
+    }
+   ],
+   "question": "Should engagement in this path be doubted when other views claim equal results?",
+   "premises": [
+    "Other views may claim equal fruits",
+    "Claims of equality can cause doubt",
+    "This path's basis removes such doubt"
+   ],
+   "inference": "Therefore engagement in this path is not to be doubted, even if other views claim equal results.",
+   "uncertainties": [],
+   "plain_english": "Even if other views claim equal results, engagement in this path is not to be doubted."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "ātreyāya",
+     "gloss": "to-atreya",
+     "grounds": "dative indicating the recipient of teaching",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "munīndreṇa",
+     "gloss": "by-great-sage",
+     "grounds": "instrumental denoting the teacher",
+     "morph": "compound: muni+indra, m.inst.sg"
+    },
+    {
+     "surface": "ruruṇā",
+     "gloss": "by-ruru",
+     "grounds": "proper name of the sage",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃprakāśitau",
+     "gloss": "fully-revealed",
+     "grounds": "past participle indicating clear revelation of two things",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Who originally revealed these teachings to Ātreya in the transmitted lineage?",
+   "premises": [
+    "The teachings were transmitted to a recipient",
+    "A great sage named Ruru acted as revealer",
+    "The revelation concerned two matters"
+   ],
+   "inference": "Thus the two were fully revealed to Ātreya by the great sage Ruru.",
+   "uncertainties": [
+    "The dual referent of 'the two' depends on prior context"
+   ],
+   "plain_english": "The two were fully revealed to Ātreya by the great sage Ruru."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "sadyojyotistu",
+     "gloss": "but-sadyojyoti",
+     "grounds": "fused proper name and adversative particle introducing the author",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepāt",
+     "gloss": "in-brief",
+     "grounds": "ablative indicating manner of concise presentation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tāvetau",
+     "gloss": "those-two",
+     "grounds": "demonstrative dual referring to the two revealed matters",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "paribaddhavān",
+     "gloss": "composed",
+     "grounds": "perfect participle indicating systematic composition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How did Sadyojyoti present the two teachings previously revealed by Ruru?",
+   "premises": [
+    "Ruru had revealed two teachings",
+    "Sadyojyoti received or knew that transmission",
+    "Sadyojyoti composed them in concise form"
+   ],
+   "inference": "Therefore Sadyojyoti composed those two teachings briefly.",
+   "uncertainties": [],
+   "plain_english": "But Sadyojyoti composed those two teachings in brief."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "ugrajyotirguruḥ",
+     "gloss": "teacher-ugrajyoti",
+     "grounds": "fused proper name and noun identifying the teacher",
+     "morph": "compound: ugrajyoti+guru, m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "venerable",
+     "grounds": "honorific adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvavidyāsaritpatiḥ",
+     "gloss": "lord-of-river-of-all-sciences",
+     "grounds": "compound metaphorically praising mastery over all sciences",
+     "morph": "compound: sarva+vidyā+sarit+pati, m.nom.sg"
+    }
+   ],
+   "question": "How is the teacher Ugrajyoti honored in the concluding lineage attribution?",
+   "premises": [
+    "The text concludes with a teacher attribution",
+    "Ugrajyoti is named as guru",
+    "He is praised as master of all sciences"
+   ],
+   "inference": "Thus the venerable teacher Ugrajyoti is honored as lord of the river of all sciences.",
+   "uncertainties": [],
+   "plain_english": "The venerable teacher Ugrajyoti is the lord of the river of all sciences."
+  }
+ ]
+}

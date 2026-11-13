@@ -2,25 +2,25 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p149-v3701
-[then](tarhi) [of-whom](kasya) [birth+etc](janma+ādikaṃ) [becomes](bhavati) [there](tatra) [says](āha) [birth+thus+etc](janma+iti+ādi)
+[then](tarhi) [of-whom](kasya) [birth+etc](janma+ādikaṃ) [becomes](bhavati) [there](tatra) [says](āha) [birth+etc](janma+iti+ādi)
 
 ## mukta-m0-p149-v3702
-[always+one+form](sadā+eka+rūpaḥ) [thus](iti) [there](tatra) [says](āha) [as+thus+etc](yathā+iti+ādi)
+[always+one-form](sadā+eka+rūpa) [thus](iti) [there](tatra) [says](āha) [as+etc](yathā+iti+ādi)
 
 ## mukta-m0-p149-v3703
-[knowing](jānan) [here+indeed](iha+eva) [liberated](muktaḥ) [would-be](syāt) [truth](satyaṃ) [truth](satyaṃ) [not](na) [doubt](saṃśayaḥ)
+[knowing](jānan) [here+indeed](iha+eva) [liberated](muktaḥ) [may-be](syāt) [truth](satyaṃ) [truth](satyaṃ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p149-v3704
-[by-self](ātmanā) [self](ātmānam) [having-known](ājñāya) [liberated](muktaḥ) [becomes](bhavati) [human](mānavaḥ)
+[by-self](ātmanā) [self](ātmānam) [having-known](ājñāya) [liberated](mukto) [becomes](bhavati) [man](mānavaḥ)
 
 ## mukta-m0-p149-v3705
-[in-world](loke) [in-this](asmin) [from-connection-with-self](ātma+sambandhāt) [become](bhavanti) [others](anye) [dear](priyāḥ) [o-śiva](śive)
+[in-world](loke) [in-this](asmin) [from-connection+with-self](ātma+sambandhāt) [become](bhavanti) [others](anye) [dear](priyāḥ) [O-Śivā](śive)
 
 ## mukta-m0-p149-v3706
-[when-examined](vicāryamāṇe) [in-triad](tritaye) [self](ātmā) [alone+one](eva+ekaḥ) [remains](avaśiṣyate)
+[when-examined](vicāryamāṇe) [in-the-triad](tritaye) [self](ātmā) [alone](ekaḥ) [one](eva) [remains](avaśiṣyate)
 
 ## mukta-m0-p149-v3707
-[known](vijñātā) [by-self](svayam) [indeed](eva) [self](ātmā) [who](yaḥ) [knows](jānāti) [he](saḥ) [self-knower](ātma+vit)
+[known](vijñātā) [by-himself](svayam+eva) [self](ātmā) [who](yaḥ) [knows](jānāti) [he](saḥ) [self-knower](ātmavit)
 
 ## mukta-m0-p149-v3708
 [of-fourfold](caturvidha) [avadhūtas](avadhūtānām) [this+alone](etat+eva) [supreme](paraṃ) [wealth](dhanam)
@@ -32,46 +32,46 @@
 [of-fourfold](caturvidha) [avadhūtas](avadhūtānāṃ) [characteristic](lakṣaṇaṃ) [with-particulars](sa+viśeṣataḥ)
 
 ## mukta-m0-p149-v3711
-[śrī-devī-said](śrī+devī+uvāca) [twofold+thus+etc](dvividha+iti+ādi)
+[Śrī-Devī+said](śrī+devī+uvāca) [twofold+etc](dvividhā+iti+ādi) [141](|| 141)
 
 ## mukta-m0-p149-v3712
-[in-householder-stage](gṛha+āśrame) [dwelling](vasantaḥ) [also](api) [to-be-known](jñeyāḥ) [they](te) [ascetics](yatayaḥ) [o-dear](priye)
+[in-householder+stage](gṛha+āśrame) [dwelling](vasantaḥ) [even](api) [to-be-known](jñeyāḥ) [they](te) [ascetics](yatayaḥ) [O-beloved](priye)
 
 ## mukta-m0-p149-v3713
-[śaiva-avadhūtas](śaiva+avadhūtāḥ) [they](te) [to-be-known](jñeyāḥ) [to-be-worshipped](pūjanīyāḥ) [o-worshipper-of-kula](kula+arcite)
+[Śaiva+avadhūtas](śaiva+avadhūtāḥ) [they](te) [to-be-known](jñeyāḥ) [to-be-worshipped](pūjanīyāḥ) [O-worshipper-of-Kula](kula+arcite)
 
 ## mukta-m0-p149-v3714
-[they-should-perform](vidadhyuḥ) [all](sarva) [actions](karmāṇi) [by-path-declared-by-me](mat+udīrita+vartmanā)
+[they-should-perform](vidadhyuḥ) [all+actions](sarva+karmāṇi) [by-path+declared-by-me](mat+udīrita+vartmanā)
 
 ## mukta-m0-p149-v3715
-[forbidden](niṣiddham) [food](annaṃ) [and-water](toyam+ca) [not](na) [they-should-take](gṛhṇīyuḥ) [ever](kadācana)
+[forbidden+food](niṣiddham+annaṃ) [and-water](toyam+ca) [not](na) [they-should-take](gṛhṇīyuḥ) [ever](kadācana)
 
 ## mukta-m0-p149-v3716
-[previously](prāk) [indeed](eva) [declared](kathitaḥ) [dharma](dharmaḥ) [and-conduct](ācāraḥ+ca) [o-fair-faced](vara+ānane)
+[previously+indeed](prāk+eva) [declared](kathitaḥ) [dharma](dharmaḥ) [and-conduct](ācāraḥ+ca) [O-fair-faced-one](vara+ānane)
 
 ## mukta-m0-p149-v3717
-[all](sarvam) [by-āgama-path](āgama+mārgeṇa) [of-śaiva-and-brāhma-avadhūtas](śaiva+brāhma+avadhūtayoḥ)
+[everything](sarvam) [by-Āgama+path](āgama+mārgeṇa) [of-Śaiva+and-Brāhma+avadhūtas](śaiva+brāhma+avadhūtayoḥ)
 
 ## mukta-m0-p149-v3718
-[full](pūrṇaḥ) [called-paramahaṃsa](paramahaṃsa+ākhyaḥ) [other-wandering-ascetic](parivrāṭ+aparaḥ) [o-dear](priye)
+[complete](pūrṇaḥ) [called-Paramahaṃsa](paramahaṃsa+ākhyaḥ) [other+wandering-ascetic](parivrāṭ+aparaḥ) [O-beloved](priye)
 
 ## mukta-m0-p149-v3719
-[then](tadā) [in-world-abode](loka+ālaye) [staying](tiṣṭhan) [self](ātmānaṃ) [he](saḥ) [indeed](tu) [should-purify](śodhayet)
+[then](tadā) [in-world+abode](loka+ālaye) [dwelling](tiṣṭhan) [self](ātmānaṃ) [he](saḥ) [indeed](tu) [should-purify](śodhayet)
 
 ## mukta-m0-p149-v3720
-[brahma-mantra](brahma+mantra) [worshippers](upāsakāḥ) [who](ye) [thus+etc](iti+ādi)
+[those-who](ye) [worshippers+of-Brahma-mantra](brahma+mantra+upāsakāḥ) [thus+etc](iti+ādi) [143](|| 143)
 
 ## mukta-m0-p149-v3721
-[always](sadā) [devoted-to-brahman](brahma+paraḥ) [having-become](bhūtvā) [should-accomplish](sādhayet) [knowledge](jñānam) [supreme](uttamam)
+[always](sadā) [devoted-to-Brahman](brahma+paraḥ) [having-become](bhūtvā) [should-accomplish](sādhayet) [knowledge](jñānam) [supreme](uttamam)
 
 ## mukta-m0-p149-v3722
-[should-do](kuryāt) [action-suited-to-self](ātma+ucitaṃ) [action](karma) [always](sadā) [resorting-to-dispassion](vairāgyam+āśritaḥ)
+[should-do](kuryāt) [action+suitable-to-self](ātma+ucitaṃ) [action](karma) [always](sadā) [resorting-to-dispassion](vairāgyam+āśritaḥ)
 
 ## mukta-m0-p149-v3723
-[should-strive](yateta) [self](ātmānam) [to-uplift](uddhartum) [by-discrimination-of-knowledge-of-truth](tattva+jñāna+vivekataḥ)
+[should-strive](yateta) [self](ātmānam) [to-uplift](uddhartuṃ) [by-discrimination+of-truth-knowledge](tattva+jñāna+vivekataḥ)
 
 ## mukta-m0-p149-v3724
-[householder](gṛhasthaḥ) [or](vā) [also](api) [indifferent](udāsīnaḥ) [for-his-desired-goal](tasya+abhīṣṭāya) [that](tat) [would-be](bhavet)
+[householder](gṛhasthaḥ) [or](vā) [even](api) [indifferent](udāsīnaḥ) [for-his+desired-end](tasya+abhīṣṭāya) [that](tat) [may-be](bhavet)
 
 ## mukta-m0-p149-v3725
-[o](o) [by-that-good-mantra](tat+sat+mantra) [accomplished](niṣpannāḥ) [complete](sampūrṇāḥ) [would-be](syuḥ) [not](na) [doubt](saṃśayaḥ)
+[oṃ](o/) [accomplished+by-that-true-mantra](tat+sat+mantra+niṣpannāḥ) [complete](sampūrṇāḥ) [may-be](syuḥ) [not](na) [doubt](saṃśayaḥ)

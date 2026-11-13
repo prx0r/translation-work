@@ -29,16 +29,16 @@
 [svabhāvāt](svabhāvāt) [brahma+bhūtasya](brahmabhūtasya) [kim](kiṃ) [pūjā](pūjā) [dhyāna+dhāraṇā](dhyānadhāraṇā)
 
 ## mukta-m0-p148-v3685
-[na](na) [api](api) [dhyeyaḥ](dhyeyo) [na](na) [vā](vā) [dhyātā](dhyātā) [sarvam](sarvaṃ) [brahma](brahma) [iti](iti) [jānataḥ](jānataḥ)
+[na](nā) [api](api) [dhyeyaḥ](dhyeyo) [na](na) [vā](vā) [dhyātā](dhyātā) [sarvam](sarvaṃ) [brahma](brahma) [iti](iti) [jānataḥ](jānataḥ)
 
 ## mukta-m0-p148-v3686
-[kim](kiṃ) [tasya](tasya) [bandhanam](bandhanaṃ) [kasmāt](kasmān) [muktim](muktim) [icchanti](icchanti) [dur+dhiyaḥ](durdhiyaḥ)
+[kim](kiṃ) [tasya](tasya) [bandhanam](bandhanaṃ) [kasmāt](kasmān) [muktim](muktim) [icchanti](icchanti) [durdhiyaḥ](durdhiyaḥ)
 
 ## mukta-m0-p148-v3687
 [dhyāna+rūpam](dhyānarūpaṃ) [bhajanam](bhajanam)
 
 ## mukta-m0-p148-v3688
-[tat+bhinnam](tadbhinnaṃ) [pūjanam](pūjanam) [api](api) [na](na) [asti](asti) [tasya](tasya)
+[tat+bhinnam](tadbhinnaṃ) [pūjanam](pūjanam) [api](api) [na](nāsti) [asti](nāsti) [tasya](tasya)
 
 ## mukta-m0-p148-v3689
 [dhāraṇā](dhāraṇā) [citta+vṛtti+nirodhaḥ](cittavṛttinirodhaḥ)
@@ -47,31 +47,31 @@
 [na](na) [punaḥ+bhavaḥ](punarbhavaḥ) [na](na) [punaḥ+utpattiḥ](punarutpattiḥ)
 
 ## mukta-m0-p148-v3691
-[nir+liptaḥ](nirliptaḥ) [an+āsaktaḥ](anāsaktaḥ)
+[nirliptaḥ](nirliptaḥ) [anāsaktaḥ](anāsaktaḥ)
 
 ## mukta-m0-p148-v3692
-[svayam](svayaṃ) [virājate](virājate) [tatra](tatra) [hi](hi) [a+praviṣṭaḥ](apraviṣṭaḥ) [praviṣṭa+vat](praviṣṭavat)
+[svayam](svayaṃ) [virājate](virājate) [tatra](tatra) [hi](hy) [apraviṣṭaḥ](apraviṣṭaḥ) [praviṣṭa+vat](praviṣṭavat)
 
 ## mukta-m0-p148-v3693
-[tathā+eva](tathaiva) [bhāti](bhāti) [sat+rūpaḥ](sadrūpo) [hi](hi) [ātmā](ātmā) [sākṣī](sākṣī) [sva+rūpataḥ](svarūpataḥ)
+[tathā](tathaiva) [eva](tathaiva) [bhāti](bhāti) [sat+rūpaḥ](sadrūpo) [hi](hy) [ātmā](ātmā) [sākṣī](sākṣī) [sva+rūpataḥ](svarūpataḥ)
 
 ## mukta-m0-p148-v3694
-[sadā+eka+rūpaḥ](sadaikarūpaḥ) [cit+mātraḥ](cinmātro) [vikāra+parivarjitaḥ](vikāraparivarjitaḥ)
+[sadā+eka+rūpaḥ](sadaikarūpaś) [cit+mātraḥ](cinmātro) [vikāra+parivarjitaḥ](vikāraparivarjitaḥ)
 
 ## mukta-m0-p148-v3695
 [paśyantaḥ](paśyanto') [api](api) [na](na) [paśyanti](paśyanti) [māyā+prāvṛta+buddhayaḥ](māyāprāvṛtabuddhayaḥ)
 
 ## mukta-m0-p148-v3696
-[tathā+eva](tathaiva) [māyayā](māyayā) [dehe](dehe) [bahudhā](bahudhā) [ātmānam](ātmānam) [īkṣate](īkṣate)
+[tathā](tathaiva) [eva](tathaiva) [māyayā](māyayā) [dehe](dehe) [bahudhā](bahudhā') [ātmānam](ātmānam) [īkṣate](īkṣate)
 
 ## mukta-m0-p148-v3697
-[tathā+eva](tathaiva) [buddheḥ](buddheḥ) [cāñcalyam](cāñcalyaṃ) [paśyanti](paśyanti) [ātmani](ātmani) [a+kovidāḥ](akovidāḥ)
+[tathā](tathaiva) [eva](tathaiva) [buddheḥ](buddheś) [cāñcalyam](cāñcalyaṃ) [paśyanti](paśyanty) [ātmani](ātmany) [akovidāḥ](akovidāḥ)
 
 ## mukta-m0-p148-v3698
-[naṣṭe](naṣṭe) [dehe](dehe) [tathā+eva](tathaiva) [ātmā](ātmā) [sama+rūpaḥ](samarūpo) [virājate](virājate)
+[naṣṭe](naṣṭe) [dehe](dehe) [tathā](tathaiva) [eva](tathaiva) [ātmā](ātmā) [sama+rūpaḥ](samarūpo) [virājate](virājate)
 
 ## mukta-m0-p148-v3699
 [anūhanīyam](anūhanīyam)
 
 ## mukta-m0-p148-v3700
-[iti](iti) [ādi+ardhena](ādyardhena)
+[iti](ity) [ādi+ardhena](ādyardhena)

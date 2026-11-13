@@ -3,24 +3,29 @@
  "verse": 229,
  "rows": [
   {
-   "lemma": "prakaraṇāntare",
-   "morph": "n.loc.sg",
-   "grounds": "Locative marking a different section of the present work, not a different text."
-  },
-  {
-   "lemma": "pradarśayiṣyata",
-   "morph": "3.sg.pass-fut",
-   "grounds": "Future passive/impersonal future marking a promised demonstration within the work's own structure."
-  },
-  {
-   "lemma": "iti",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "Clausal closure marking the end of the present argument unit."
+   "grounds": "negation particle"
   },
   {
-   "lemma": "śubham",
-   "morph": "n.nom.sg",
-   "grounds": "Auspicious closure formula common to doctrinal verse units; here marks closure, not a new premise."
+   "lemma": "cānyena",
+   "morph": "(indecl.)+m.inst.sg",
+   "grounds": "fused conjunction and pronoun indicating another means"
+  },
+  {
+   "lemma": "pramāṇena",
+   "morph": "n.inst.sg",
+   "grounds": "instrument denoting another valid cognition"
+  },
+  {
+   "lemma": "saṃruddhastasya",
+   "morph": "m.nom.sg+6.gen.sg",
+   "grounds": "fused participle and pronoun indicating blockage of its domain"
+  },
+  {
+   "lemma": "gocaraḥ",
+   "morph": "m.nom.sg",
+   "grounds": "domain or range of application"
   }
  ]
 }
