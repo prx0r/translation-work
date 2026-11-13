@@ -16,7 +16,7 @@
 },
 {
 "surface": "māyā",
-"quick_gloss": "māyā"
+"quick_gloss": "illusion"
 },
 {
 "surface": "nityā",
@@ -48,8 +48,12 @@
 "quick_gloss": "eternal"
 },
 {
-"surface": "parama+kāraṇatvāt",
-"quick_gloss": "because-of-supreme+causality"
+"surface": "paramakāraṇatvāt",
+"quick_gloss": "because-of-being"
+},
+{
+"surface": "paramakāraṇatvāt",
+"quick_gloss": "supreme+cause"
 }
 ]
 },
@@ -61,8 +65,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kārya+ātmikā",
-"quick_gloss": "effect+natured"
+"surface": "kāryātmikā",
+"quick_gloss": "of-effect+nature"
 },
 {
 "surface": "sā",
@@ -70,19 +74,19 @@
 },
 {
 "surface": "māyā",
-"quick_gloss": "māyā"
+"quick_gloss": "illusion"
 },
 {
-"surface": "iyam",
+"surface": "iyaṃ",
 "quick_gloss": "this"
+},
+{
+"surface": "pariṇāmavatī",
+"quick_gloss": "endowed-with-transformation"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
-},
-{
-"surface": "pariṇāmavatī",
-"quick_gloss": "undergoing-transformation"
 },
 {
 "surface": "yat",
@@ -143,7 +147,7 @@
 "quick_gloss": "path"
 },
 {
-"surface": "kalā+śuddhyā",
+"surface": "kalāśuddhyā",
 "quick_gloss": "by-purification-of-kalā"
 },
 {
@@ -160,8 +164,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tattva+ādīnām",
-"quick_gloss": "of-tattva+and-so-on"
+"surface": "tattvādīnām",
+"quick_gloss": "of-tattva+and-others"
 },
 {
 "surface": "ataḥ",
@@ -194,6 +198,18 @@
 "tokens": [
 {
 "surface": "bhāvaḥ",
+"quick_gloss": "state"
+},
+{
+"surface": "bhāvaḥ",
+"quick_gloss": "nature"
+},
+{
+"surface": "bhāvaḥ",
+"quick_gloss": "condition"
+},
+{
+"surface": "bhāvaḥ",
 "quick_gloss": "being"
 }
 ]
@@ -206,15 +222,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anupādāna+rūpāṇāṃ",
-"quick_gloss": "of-without+material-cause+nature"
+"surface": "anupādānarūpāṇāṃ",
+"quick_gloss": "of-those-without+material-cause"
 },
 {
 "surface": "kalānāṃ",
 "quick_gloss": "of-kalās"
 },
 {
-"surface": "nitya+śuddhayoḥ",
+"surface": "nityaśuddhayoḥ",
+"quick_gloss": "of-the-two-eternally-pure"
+},
+{
+"surface": "nityaśuddhayoḥ",
 "quick_gloss": "of-the-two-eternally-pure"
 }
 ]
@@ -235,12 +255,16 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "mahā+māyā",
-"quick_gloss": "great-māyā"
+"surface": "mahāmāyā",
+"quick_gloss": "great+illusion"
 },
 {
-"surface": "sarva+adhva+prakṛtiḥ",
-"quick_gloss": "of-all+paths+source"
+"surface": "sarvādhva",
+"quick_gloss": "of-all+paths"
+},
+{
+"surface": "prakṛtiḥ",
+"quick_gloss": "primordial-nature"
 },
 {
 "surface": "parā",
@@ -261,7 +285,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "however"
 },
 {
 "surface": "kathayanti",
@@ -273,11 +297,15 @@
 },
 {
 "surface": "māyām",
-"quick_gloss": "māyā"
+"quick_gloss": "illusion"
 },
 {
-"surface": "adhvasu+anaśvarīm",
-"quick_gloss": "in-the-paths+impermanent"
+"surface": "adhvasu",
+"quick_gloss": "in-the-path"
+},
+{
+"surface": "anaśvarīm",
+"quick_gloss": "impermanent"
 }
 ]
 },
@@ -302,7 +330,7 @@
 },
 {
 "surface": "ityādi",
-"quick_gloss": "and-so-on"
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -330,8 +358,12 @@
 "quick_gloss": "to-be-known"
 },
 {
-"surface": "tayoḥ+āgama+vedibhiḥ",
-"quick_gloss": "by-knowers-of-those-two-āgamas"
+"surface": "tayor",
+"quick_gloss": "by-those-knowing"
+},
+{
+"surface": "āgamavedibhiḥ",
+"quick_gloss": "āgama+knowers"
 }
 ]
 },
@@ -343,20 +375,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mantra+yoniḥ",
+"surface": "mantrayoniḥ",
 "quick_gloss": "mantra+source"
 },
 {
-"surface": "mahā+māyā",
-"quick_gloss": "great-māyā"
+"surface": "mahāmāyā",
+"quick_gloss": "great+illusion"
 },
 {
 "surface": "yā",
 "quick_gloss": "which"
 },
 {
-"surface": "parigraha+vartinī",
-"quick_gloss": "in-the-adherent+abiding"
+"surface": "parigraha",
+"quick_gloss": "within-the-sphere"
+},
+{
+"surface": "vartinī",
+"quick_gloss": "abiding"
 }
 ]
 },
@@ -372,8 +408,16 @@
 "quick_gloss": "as-stated"
 },
 {
-"surface": "nādā+ādi+dvāreṇa",
-"quick_gloss": "by-nāda+and-so-on+means"
+"surface": "nādādi",
+"quick_gloss": "by-means-of"
+},
+{
+"surface": "nādādi",
+"quick_gloss": "nāda+and-other"
+},
+{
+"surface": "dvāreṇa",
+"quick_gloss": "doors"
 },
 {
 "surface": "adhiṣṭhitāḥ",
@@ -393,12 +437,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "iyam",
+"surface": "iyaṃ",
 "quick_gloss": "this"
 },
 {
-"surface": "kriyā+ātmikā",
-"quick_gloss": "action+natured"
+"surface": "kriyātmikā",
+"quick_gloss": "of-action+nature"
 },
 {
 "surface": "śaktiḥ",
@@ -409,8 +453,12 @@
 "quick_gloss": "sovereign"
 },
 {
-"surface": "sarvadā+uditā",
-"quick_gloss": "always+risen"
+"surface": "sarvadā",
+"quick_gloss": "always"
+},
+{
+"surface": "uditā",
+"quick_gloss": "arisen"
 }
 ]
 },
@@ -422,8 +470,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāśa+atīta+śiva+samavāyena",
-"quick_gloss": "by-conjunction-with-śiva-beyond-bonds"
+"surface": "samavāyena",
+"quick_gloss": "by-conjunction"
+},
+{
+"surface": "pāśātīta+śiva",
+"quick_gloss": "with-Śiva"
+},
+{
+"surface": "pāśātīta",
+"quick_gloss": "beyond-bonds"
 },
 {
 "surface": "iti",
@@ -444,15 +500,19 @@
 },
 {
 "surface": "vartayate",
-"quick_gloss": "causes-to-abide"
+"quick_gloss": "causes-to-move"
 },
 {
 "surface": "nityaṃ",
 "quick_gloss": "eternally"
 },
 {
-"surface": "nānā+yoniṣu",
-"quick_gloss": "in-various+wombs"
+"surface": "nānā",
+"quick_gloss": "in-various"
+},
+{
+"surface": "yoniṣu",
+"quick_gloss": "wombs"
 },
 {
 "surface": "aniścitā",
@@ -472,12 +532,24 @@
 "quick_gloss": "but"
 },
 {
-"surface": "na+aśuddha+yoni+prāptiḥ",
-"quick_gloss": "not+attainment-of-impure-womb"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "prāptiḥ",
+"quick_gloss": "attainment"
+},
+{
+"surface": "aśuddhayoni",
+"quick_gloss": "of-impure+womb"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
 }
 ]
 },
@@ -493,8 +565,24 @@
 "quick_gloss": "she"
 },
 {
-"surface": "bhoga+sādhana+upāya+pratyaya+udaya+hetunā",
-"quick_gloss": "by-the-cause-of-arising-of-means-and-cognition-for-experience"
+"surface": "hetunā",
+"quick_gloss": "by-the-cause"
+},
+{
+"surface": "udaya",
+"quick_gloss": "of-the-arising"
+},
+{
+"surface": "pratyaya",
+"quick_gloss": "of-cognition"
+},
+{
+"surface": "upāya",
+"quick_gloss": "of-means"
+},
+{
+"surface": "bhogasādhana",
+"quick_gloss": "of-means-of-enjoyment"
 }
 ]
 },
@@ -506,16 +594,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvathā",
+"surface": "sarvathaiva",
 "quick_gloss": "in-every-way"
 },
 {
-"surface": "eva+amṛta+prāpteḥ",
-"quick_gloss": "even+of-attainment-of-immortality"
+"surface": "prāpteḥ",
+"quick_gloss": "of-attainment"
 },
 {
-"surface": "pṛthak+kāraṃ",
-"quick_gloss": "separate+action"
+"surface": "amṛta",
+"quick_gloss": "of-immortality"
+},
+{
+"surface": "pṛthak",
+"quick_gloss": "separate"
+},
+{
+"surface": "kāraṃ",
+"quick_gloss": "action"
 },
 {
 "surface": "pratanvatī",
@@ -535,8 +631,16 @@
 "quick_gloss": "does"
 },
 {
-"surface": "iti+arthaḥ",
-"quick_gloss": "thus+meaning"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "arthaḥ",
+"quick_gloss": "meaning"
+},
+{
+"surface": "karoti",
+"quick_gloss": "performs"
 }
 ]
 },
@@ -552,8 +656,16 @@
 "quick_gloss": "knowledge"
 },
 {
-"surface": "para+amṛta+upāya+hetuḥ",
-"quick_gloss": "of-supreme+immortality+means+cause"
+"surface": "parāmṛta",
+"quick_gloss": "of-supreme+immortality"
+},
+{
+"surface": "upāya",
+"quick_gloss": "means"
+},
+{
+"surface": "hetuḥ",
+"quick_gloss": "cause"
 },
 {
 "surface": "parikaraḥ",
@@ -573,16 +685,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nirbīja+dīkṣāyām+api",
-"quick_gloss": "in-seedless+initiation+also"
+"surface": "nirbījadīkṣāyām",
+"quick_gloss": "in-initiation-without-seed"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "ācāryasya",
 "quick_gloss": "of-the-teacher"
 },
 {
-"surface": "jñāna+pradhānatvāt",
+"surface": "jñānapradhānatvāt",
 "quick_gloss": "knowledge+predominance"
+},
+{
+"surface": "jñānapradhānatvāt",
+"quick_gloss": "because-of-predominance-of-knowledge"
 }
 ]
 },
@@ -594,16 +714,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śabda+rāśiḥ",
-"quick_gloss": "sound+mass"
+"surface": "śabdarāśiḥ",
+"quick_gloss": "mass-of-sounds"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "bindu+utthaḥ",
-"quick_gloss": "from-bindu+arisen"
+"surface": "bindūtthaḥ",
+"quick_gloss": "arisen-from-bindu"
 },
 {
 "surface": "binduḥ",
@@ -631,16 +751,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāda+bindu+ādi+krameṇa",
-"quick_gloss": "in-the-sequence-of-nāda-bindu+and-so-on"
+"surface": "krameṇa",
+"quick_gloss": "in-the-sequence"
 },
 {
-"surface": "śabda+utpattiḥ",
-"quick_gloss": "sound+origination"
+"surface": "nādabindvādikrameṇa",
+"quick_gloss": "of-nāda+bindu+and-others"
 },
 {
-"surface": "iti+uktam",
-"quick_gloss": "thus+said"
+"surface": "śabda",
+"quick_gloss": "of-sound"
+},
+{
+"surface": "utpattiḥ",
+"quick_gloss": "origination"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "uktam",
+"quick_gloss": "stated"
 }
 ]
 }
