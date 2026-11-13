@@ -3,39 +3,44 @@
  "verse": 1446,
  "rows": [
   {
-   "lemma": "ayukta+bhāṣaṇam",
-   "morph": "compound",
-   "grounds": "fused compound denoting unfit or improper words"
+   "lemma": "jagat",
+   "morph": "compound-member",
+   "grounds": "universe"
+  },
+  {
+   "lemma": "āhlāda",
+   "morph": "compound-member",
+   "grounds": "joy"
+  },
+  {
+   "lemma": "jananī",
+   "morph": "f.nom.sg",
+   "grounds": "producer"
+  },
+  {
+   "lemma": "śambhu",
+   "morph": "compound-member",
+   "grounds": "Śiva"
+  },
+  {
+   "lemma": "rūpā",
+   "morph": "f.nom.sg",
+   "grounds": "having form"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connects prohibited behaviors"
+   "grounds": "connection"
   },
   {
-   "lemma": "eva",
+   "lemma": "māṃ",
+   "morph": "pron.acc.sg",
+   "grounds": "speaker"
+  },
+  {
+   "lemma": "sadā",
    "morph": "(indecl.)",
-   "grounds": "emphasis"
-  },
-  {
-   "lemma": "striyaṃ",
-   "morph": "f.acc.sg",
-   "grounds": "recipient or context of the behavior"
-  },
-  {
-   "lemma": "śauryam",
-   "morph": "n.acc.sg",
-   "grounds": "show of force or bravado"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation of the action"
-  },
-  {
-   "lemma": "darśayet",
-   "morph": "3.sg.optative.causative (√dṛś)",
-   "grounds": "prescriptive prohibition"
+   "grounds": "at all times"
   }
  ]
 }

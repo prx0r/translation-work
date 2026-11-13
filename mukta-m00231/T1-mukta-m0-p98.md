@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p98-v2426
-[tadā](tadā) [punar](punar) [japed](japed) [dhīmān](dhīmān) [ekāgra-mānasaṃ](ekāgramānasaṃ) [yathā](yathā)
+[then](tadā) [again](punar) [should-mutter](japet) [wise-one](dhīmān) [one-pointed](ekāgra) [mind](mānasaṃ) [as](yathā)
 
 ## mukta-m0-p98-v2427
-[yatnataḥ](yatnataḥ) [tena](tena) [boddhavyaṃ](boddhavyaṃ) [naro](naro) [vā](vā) [deva-yoni-jaḥ](devayonijaḥ)
+[with-effort](yatnataḥ) [by-him](tena) [to-be-understood](boddhavyaṃ) [man](naro) [or](vā) [god](deva) [born-of-womb](yonijaḥ)
 
 ## mukta-m0-p98-v2428
-[āgatya](āgatya) [vighnaṃ](vighnaṃ) [kurute](kurute) [māyayā](māyayā) [ācchādya](ācchādya) [vigraham](vigraham)
+[having-come](āgatya) [obstacle](vighnaṃ) [makes](kurute) [by-illusion](māyayā) [having-concealed](ācchādya) [form](vigraham)
 
 ## mukta-m0-p98-v2429
-[prabhāta-samayaḥ](prabhātasamayo) [jātaḥ](jātaḥ) [tat](tat) [pitā](pitā) [krośate](krośate) [gṛhe](gṛhe)
+[morning](prabhāta) [time](samayo) [has-arisen](jātaḥ) [your](tvat) [father](pitā) [cries-out](krośate) [in-house](gṛhe)
 
 ## mukta-m0-p98-v2430
-[kadācit](kadācit) [kena](kena) [vā](vā) [dṛṣṭaḥ](dṛṣṭaḥ) [tadā](tadā) [aniṣṭaṃ](aniṣṭaṃ) [bhaviṣyati](bhaviṣyati)
+[sometimes](kadācit) [by-someone](kena) [or](vā) [seen](dṛṣṭaḥ) [then](tadā) [misfortune](aniṣṭaṃ) [will-be](bhaviṣyati)
 
 ## mukta-m0-p98-v2431
-[mṛtāḥ](mṛtāḥ) [pitṛ-gaṇāḥ](pitṛgaṇāḥ) [tatra](tatra) [dūra-deśa-nivāsinaḥ](dūradeśanivāsinaḥ)
+[dead](mṛtāḥ) [ancestor](pitṛ) [groups](gaṇāḥ) [there](tatra) [distant](dūra) [country](deśa) [dwellers](nivāsinaḥ)
 
 ## mukta-m0-p98-v2432
-[strī-putra-sevaka-ādīn](strīputrasevakādīṃśca) [ca](ca) [gṛhītvā](gṛhītvā) [nīyate](nīyate) [paraiḥ](paraiḥ)
+[wife](strī) [son](putra) [servant](sevaka) [and-others](ādīṃśca) [having-taken](gṛhītvā) [is-led-away](nīyate) [by-others](paraiḥ)
 
 ## mukta-m0-p98-v2433
-[nija-kāntā-aṅga-saṃsparśa-vastra-ādi-ābharaṇa-ādikam](nijakāntāṅgasaṃsparśavastrādyābharaṇādikam)
+[own](nija) [beloved](kāntā) [limb](aṅga) [touch](saṃsparśa) [garment](vastra) [and-other](ādi) [ornament](ābharaṇa) [and-so-forth](ādikam)
 
 ## mukta-m0-p98-v2434
-[divase](divase) [yatra](yatra) [vā](vā) [śaṅkā](śaṅkā) [sā](sā) [eva](eva) [tatra](tatra) [prajāyate](prajāyate)
+[on-day](divase) [where](yatra) [or](vā) [doubt](śaṅkā) [that-very](sā+eva) [there](tatra) [arises](prajāyate)
 
 ## mukta-m0-p98-v2435
-[strī-rūpa-dhāriṇī](strīrūpadhāriṇī) [devī](devī) [dvija-rūpa-dharaḥ](dvijarūpadharaḥ) [pumān](pumān)
+[woman](strī) [form](rūpa) [bearing](dhāriṇī) [goddess](devī) [brahmin](dvija) [form](rūpa) [holding](dharaḥ) [man](pumān)
 
 ## mukta-m0-p98-v2436
-[sādhunā](sādhunā) [asādhunā](asādhunā) [vā](vā) [api](api) [yoṣit](yoṣicced) [vara-dāyinī](varadāyinī)
+[by-virtuous](sādhunā) [by-non-virtuous](asādhunā) [or](vā) [even](api) [if-woman](yoṣit) [if](cet) [boon](vara) [giving](dāyinī)
 
 ## mukta-m0-p98-v2437
-[niṣpāpa-puruṣa](niṣpāpapuruṣecaiva) [eva](eva) [ca](ca) [sat-kula-naiḥ](satkulanaiśca) [ca](ca) [saṃskṛtā](saṃskṛtā)
+[in-sinless](niṣpāpa) [man](puruṣe) [and](ca+eva) [in-good](sat) [family](kula) [and](naiśca) [cultivated](saṃskṛtā)
 
 ## mukta-m0-p98-v2438
-[sammukhe](sammukhe) [asammukhe](asammukhe) [vā](vā) [api](api) [saṃskṛtaṃ](saṃskṛtaṃ) [vakti](vakti) [ca](ca) [aparam](aparam)
+[in-front](sammukhe) [not-in-front](asammukhe) [or](vā) [even](api) [refined-speech](saṃskṛtaṃ) [speaks](vakti) [and](ca) [other](aparam)
 
 ## mukta-m0-p98-v2439
-[na](na) [cet](ced) [evaṃ](evaṃ) [bhavet](bhaveccaiva) [ca](ca) [eva](eva) [māyā-racita-vigrahaḥ](māyāracitavigrahaḥ)
+[not](na) [if](cet) [thus](evaṃ) [should-be](bhavet) [and](ca+eva) [illusion](māyā) [fashioned](racita) [form](vigrahaḥ)
 
 ## mukta-m0-p98-v2440
-[sā](sā) [cet](cet) [saṃskṛtam](saṃskṛtam) [ākhyānaṃ](ākhyānaṃ) [vakti](vakti) [vā](vā) [vyaktam](vyaktam) [īdṛśam](īdṛśam)
+[she](sā) [if](cet) [refined](saṃskṛtam) [speech](ākhyānaṃ) [speaks](vakti) [or](vā) [clearly](vyaktam) [such](īdṛśam)
 
 ## mukta-m0-p98-v2441
-[athavā](athavā) [utkaṭaṃ](utkaṭaṃ) [kiñcit](kiñcit) [jyotir](jyotirvā) [vā](vā) [nīla-lohitam](nīlalohitam)
+[or](athavā) [intense](utkaṭaṃ) [something](kiñcit) [light](jyotiḥ) [or](vā) [blue](nīla) [red](lohitam)
 
 ## mukta-m0-p98-v2442
-[vicārya](vicārya) [tat](tadgṛhītavyamevaṃ) [gṛhītavyam](gṛhītavyam) [evaṃ](evaṃ) [dik](dik) [parikīrtitam](parikīrtitam)
+[having-considered](vicārya) [that](tat) [to-be-accepted](gṛhītavyam) [thus](evaṃ) [direction](dik) [is-declared](parikīrtitam)
 
 ## mukta-m0-p98-v2443
-[avaśyaṃ](avaśyaṃ) [tatra](tatra) [bhetavyaṃ](bhetavyaṃ) [na](na) [tatra](tatra) [pratyayaḥ](pratyayaḥ) [kvacit](kvacit)
+[certainly](avaśyaṃ) [there](tatra) [to-be-feared](bhetavyaṃ) [not](na) [there](tatra) [trust](pratyayaḥ) [anywhere](kvacit)
 
 ## mukta-m0-p98-v2444
-[etat](etacchāstraprasaṅgena) [śāstra-prasaṅgena](śāstraprasaṅgena) [kṛtvā](kṛtvā) [kuṭila-vigrahāḥ](kuṭilavigrahāḥ)
+[this](etat) [scripture](śāstra) [context](prasaṅgena) [having-made](kṛtvā) [crooked](kuṭila) [forms](vigrahāḥ)
 
 ## mukta-m0-p98-v2445
-[tasmāt](tasmāttattu) [tat](tat) [tu](tu) [bhavan](bhavanno) [na](na) [vā](vā) [vicāre](vicāre) [yatnam](yatnam) [ācaret](ācaret)
+[therefore](tasmāt) [that](tat) [that](tu) [may-be](bhavet) [or-not](no) [or](vā) [in-examination](vicāre) [effort](yatnam) [should-make](ācaret)
 
 ## mukta-m0-p98-v2446
-[phalaṃ](phalaṃ) [jātam](jātam) [iti](iti) [jñātvā](jñātvā) [juṭikāṃ](juṭikāṃ) [mocayet](mocayettataḥ) [tataḥ](tataḥ)
+[fruit](phalaṃ) [arisen](jātam) [thus](iti) [having-known](jñātvā) [lock-of-hair](juṭikāṃ) [should-release](mocayet) [then](tataḥ)
 
 ## mukta-m0-p98-v2447
-[dattvā](dattvā) [piṣṭamayān](piṣṭamayānante) [ante](ante) [kartavyaṃ](kartavyaṃ) [samupoṣaṇam](samupoṣaṇam)
+[having-given](dattvā) [flour](piṣṭa) [made-of](mayān) [at-end](ante) [to-be-done](karttavyaṃ) [fasting](samupoṣaṇam)
 
 ## mukta-m0-p98-v2448
-[brāhmaṇān](brāhmaṇān) [bhojayet](bhojayettatra) [tatra](tatra) [pañcaviṃśati](pañcaviṃśati) [saṃkhyakān](saṃkhyakān)
+[brahmins](brāhmaṇān) [should-feed](bhojayet) [there](tatra) [twenty-five](pañcaviṃśati) [in-number](saṃkhyakān)
 
 ## mukta-m0-p98-v2449
-[tatraḥ](tatraḥ) [snātvā](snātvā) [ca](ca) [bhuktvā](bhuktvā) [ca](ca) [nivaset](nivaseduttame) [uttame](uttame) [sthale](sthale)
+[there](tatra) [having-bathed](snātvā) [and](ca) [having-eaten](bhuktvā) [and](ca) [should-dwell](nivaset) [in-excellent](uttame) [place](sthale)
 
 ## mukta-m0-p98-v2450
-[tena](tena) [cet](cennirdhanatvaṃ) [nirdhanatvaṃ](nirdhanatvaṃ) [syāt](syāttadā) [tadā](tadā) [devaḥ](devaḥ) [prakupyati](prakupyati)
+[by-that](tena) [if](cet) [poverty](nirdhanatvaṃ) [should-be](syāt) [then](tadā) [god](devaḥ) [becomes-angry](prakupyati)
