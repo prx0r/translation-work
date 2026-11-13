@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 248,
- "question": "What visual form should be contemplated in the deity invoked for this rite?",
+ "question": "Why would action and related categories fall outside the relevant domain in this view?",
  "premises": [
-  "The form is long",
-  "The form is black-colored",
-  "The breasts and head are always raised"
+  "Action and similar categories are under consideration.",
+  "Their applicability depends on being an object or domain.",
+  "They are said not to be within that domain."
  ],
- "inference": "The contemplated form is elongated, black, and held with breasts and head raised.",
- "uncertainties": [],
- "plain_english": "She is long-formed, black-colored, with breasts and head always raised."
+ "inference": "Action and the like do not apply because they are not within that domain.",
+ "uncertainties": [
+  "The exact scope of karma ādi is context-dependent and left general."
+ ],
+ "plain_english": "Because action and the like are not within its domain."
 }

@@ -1,0 +1,1177 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "dṛṣṭāntīkṛto",
+     "gloss": "made-an-example",
+     "grounds": "past participle used adjectivally; indicates something set up as an illustration",
+     "morph": "m.nom.sg.past-participle kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnimātram",
+     "gloss": "fire-only",
+     "grounds": "compound limiting the example to fire alone",
+     "morph": "n.nom.sg compound vahni+first mātra+second"
+    }
+   ],
+   "question": "Can fire alone serve as the valid illustrative example in this argument?",
+   "premises": [
+    "An example is being proposed for illustration.",
+    "The proposed example is restricted to fire alone.",
+    "The restriction to fire alone is denied."
+   ],
+   "inference": "Fire alone is not an adequate example for the point being made.",
+   "uncertainties": [],
+   "plain_english": "Fire alone is not made the example."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "kalpitāḥ",
+     "gloss": "imagined",
+     "grounds": "past participle indicating something mentally constructed or fabricated",
+     "morph": "m.nom.pl.past-participle kḷp"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "refers to the opposing thinkers",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "aśaivatvam",
+     "gloss": "non-shaiva-ness",
+     "grounds": "abstract state of not being Śaiva",
+     "morph": "n.nom.sg compound a+first śaiva+tva+second"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "refers to the self or soul",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratipāditam",
+     "gloss": "established",
+     "grounds": "past participle indicating something asserted or demonstrated",
+     "morph": "n.nom.sg.past-participle prati-pad-caus"
+    }
+   ],
+   "question": "Did the opponents legitimately establish the self's non-Shaiva nature through their reasoning?",
+   "premises": [
+    "The opponents attribute non-Shaiva nature to the self.",
+    "This attribution is presented as established by them.",
+    "The attribution is described as imagined or fabricated."
+   ],
+   "inference": "The opponents' claim that the self is non-Shaiva is a mere fabrication, not a valid establishment.",
+   "uncertainties": [],
+   "plain_english": "They imagined and asserted the non-Shaiva nature of the self."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "refers to the opposing thinkers",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "aśaivatvam",
+     "gloss": "non-shaiva-ness",
+     "grounds": "abstract state of not being Śaiva",
+     "morph": "n.nom.sg compound a+first śaiva+tva+second"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "refers to the self or soul",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "past participle indicating verbal assertion",
+     "morph": "n.nom.sg.past-participle vac"
+    }
+   ],
+   "question": "What position regarding the self's non-Shaiva nature was explicitly stated by the opponents?",
+   "premises": [
+    "The opponents made a verbal assertion.",
+    "Their assertion concerns the self.",
+    "They declared the self to be non-Shaiva."
+   ],
+   "inference": "The opponents explicitly stated that the self is non-Shaiva.",
+   "uncertainties": [],
+   "plain_english": "Thus, they said that the self is non-Shaiva."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the previously mentioned practice or teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhyāse",
+     "gloss": "in-practice",
+     "grounds": "repeated practice or cultivation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "first member of compound indicating result",
+     "morph": "compound phala+first"
+    },
+    {
+     "surface": "āvāptiḥ",
+     "gloss": "attainment",
+     "grounds": "obtaining of the result",
+     "morph": "f.nom.sg compound phala+first āvāpti+second"
+    },
+    {
+     "surface": "sūkṣma",
+     "gloss": "subtle",
+     "grounds": "first member of compound qualifying mantra",
+     "morph": "compound sūkṣma+first"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "sacred utterance; middle member of compound",
+     "morph": "compound sūkṣma+first mantra+second"
+    },
+    {
+     "surface": "svarūpatā",
+     "gloss": "own-form-ness",
+     "grounds": "state of having the nature or form of the subtle mantra",
+     "morph": "f.nom.sg compound sūkṣma+first mantra+second svarūpatā+third"
+    }
+   ],
+   "question": "What result arises from sustained practice in terms of attaining subtle mantra identity?",
+   "premises": [
+    "Practice is undertaken with respect to that teaching.",
+    "Practice yields a fruit or attainment.",
+    "The attainment is identity with the subtle mantra."
+   ],
+   "inference": "Through its practice, one attains the state of being of the nature of the subtle mantra.",
+   "uncertainties": [],
+   "plain_english": "In its practice there is attainment of the fruit, namely the state of being of the nature of the subtle mantra."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "parāpara",
+     "gloss": "higher-lower",
+     "grounds": "first member of compound indicating graded levels",
+     "morph": "compound parāpara+first"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates additional similar distinctions",
+     "morph": "compound parāpara+first ādi+second"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "distinction",
+     "grounds": "difference or division among levels",
+     "morph": "m.nom.sg compound parāpara+first ādi+second bheda+third"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "emphasizes that the explanation is in that very context",
+     "morph": "(indecl.) compound tatra+first eva+second"
+    },
+    {
+     "surface": "pratipāditaḥ",
+     "gloss": "explained",
+     "grounds": "past participle indicating something taught or demonstrated",
+     "morph": "m.nom.sg.past-participle prati-pad-caus"
+    }
+   ],
+   "question": "Where are the distinctions such as higher and lower levels properly explained?",
+   "premises": [
+    "Distinctions such as higher and lower exist.",
+    "These distinctions require explanation.",
+    "The explanation is given in that very context."
+   ],
+   "inference": "The distinctions of higher, lower, and so on are explained there itself.",
+   "uncertainties": [],
+   "plain_english": "And the distinction of higher, lower, and so on is explained there itself."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to the matter under discussion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "second negation particle reinforcing denial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācaḥ",
+     "gloss": "of-speech",
+     "grounds": "refers to verbal expression or utterance",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "spoken",
+     "grounds": "past participle indicating something said",
+     "morph": "n.nom.sg.past-participle kath"
+    },
+    {
+     "surface": "patiśabdasya",
+     "gloss": "of-lord-word",
+     "grounds": "compound referring to the word 'pati' meaning lord",
+     "morph": "m.gen.sg compound pati+first śabda+second"
+    },
+    {
+     "surface": "varṇitam",
+     "gloss": "described",
+     "grounds": "past participle indicating description or explanation",
+     "morph": "n.nom.sg.past-participle varṇ"
+    }
+   ],
+   "question": "Has this teaching been expressed merely as speech or as a description of the word lord?",
+   "premises": [
+    "The teaching might be taken as mere speech.",
+    "The teaching might be taken as describing the word 'lord'.",
+    "Both such reductions are denied."
+   ],
+   "inference": "This is neither merely spoken as speech nor described as pertaining to the word 'lord'.",
+   "uncertainties": [
+    "The exact syntactic force of the double negation is slightly compressed."
+   ],
+   "plain_english": "This is not merely spoken as speech, nor is it described as belonging to the word 'lord'."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indicates agreement or citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "verb of citation introducing authority",
+     "morph": "3.sg.perfect-active ah"
+    },
+    {
+     "surface": "kheṭapālaḥ",
+     "gloss": "kheṭapāla",
+     "grounds": "proper name of an authority or text speaker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śabdarāśi",
+     "gloss": "sound-mass",
+     "grounds": "first member of compound referring to the totality of sound",
+     "morph": "compound śabda+first rāśi+second"
+    },
+    {
+     "surface": "viśeṣatām",
+     "gloss": "specific-character",
+     "grounds": "state of being a particular specification within sound",
+     "morph": "f.acc.sg compound śabda+first rāśi+second viśeṣatā+third"
+    }
+   ],
+   "question": "What authoritative statement does Kheṭapāla make about specificity within the mass of sound?",
+   "premises": [
+    "Kheṭapāla is cited as an authority.",
+    "The topic concerns the mass of sound.",
+    "A specific character within that mass is affirmed."
+   ],
+   "inference": "Kheṭapāla states the specific character belonging to the mass of sound.",
+   "uncertainties": [
+    "The exact grammatical object relation of viśeṣatām in the cited fragment is compressed."
+   ],
+   "plain_english": "And thus Kheṭapāla speaks of the specific character of the mass of sound."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indicates parallel citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataṅgaṭīkāyāṃ",
+     "gloss": "in-mataṅga-commentary",
+     "grounds": "locative reference to a commentary on the Mataṅga",
+     "morph": "f.loc.sg compound mataṅga+first ṭīkā+second"
+    },
+    {
+     "surface": "vyākhyā",
+     "gloss": "explanation",
+     "grounds": "interpretive exposition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-teacher",
+     "grounds": "refers to the authoritative teacher or commentator",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "stated",
+     "grounds": "past participle indicating what was declared",
+     "morph": "n.nom.sg.past-participle vad"
+    }
+   ],
+   "question": "What explanatory support is provided by the teacher in the commentary on the Mataṅga?",
+   "premises": [
+    "The Mataṅga commentary is cited.",
+    "The teacher gives an explanation there.",
+    "That explanation is presented as stated authority."
+   ],
+   "inference": "The teacher has stated the explanation in the commentary on the Mataṅga.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in the commentary on the Mataṅga, the explanation was stated by the teacher."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the cited context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadupāyatvāt",
+     "gloss": "from-being-its-means",
+     "grounds": "abstract reason: because it serves as the means to that",
+     "morph": "n.abl.sg compound tad+first upāya+tva+second"
+    },
+    {
+     "surface": "paratvena",
+     "gloss": "as-supremacy",
+     "grounds": "instrumental expressing attribution of supreme status",
+     "morph": "n.inst.sg compound para+tva+second"
+    },
+    {
+     "surface": "upacāritā",
+     "gloss": "figurative-usage",
+     "grounds": "secondary or metaphorical attribution",
+     "morph": "f.nom.sg.past-participle upa-car-caus"
+    }
+   ],
+   "question": "On what basis is supreme status figuratively attributed to something in that context?",
+   "premises": [
+    "Something is called supreme in that context.",
+    "It functions as the means to that supreme reality.",
+    "Being a means can justify figurative attribution."
+   ],
+   "inference": "Supreme status is attributed figuratively because it serves as the means to that.",
+   "uncertainties": [],
+   "plain_english": "There, or because it is the means to that, supremacy is attributed figuratively."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "tadupāya",
+     "gloss": "its-means",
+     "grounds": "first member of compound referring to being a means to that",
+     "morph": "compound tad+first upāya+second"
+    },
+    {
+     "surface": "āt",
+     "gloss": "from",
+     "grounds": "ablative suffix indicating reason or source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paratvaṃ",
+     "gloss": "supremacy",
+     "grounds": "state of being supreme",
+     "morph": "n.nom.sg compound para+tva+second"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional particle introducing an objection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpa",
+     "gloss": "lamp",
+     "grounds": "first member of compound giving an example",
+     "morph": "compound dīpa+first"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates similar examples",
+     "morph": "compound dīpa+first ādi+second"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upāyatā",
+     "gloss": "means-ness",
+     "grounds": "state of being a means",
+     "morph": "f.nom.sg compound upāya+tā+second"
+    }
+   ],
+   "question": "If supremacy is granted merely from being a means, does that wrongly extend to lamps and similar aids?",
+   "premises": [
+    "Supremacy is proposed on the basis of being a means.",
+    "A lamp and similar things are also means.",
+    "The same basis would apply to them as well."
+   ],
+   "inference": "If being a means confers supremacy, then lamps and the like would also have to be called supreme.",
+   "uncertainties": [],
+   "plain_english": "If supremacy comes merely from being its means, then a lamp and so on would also have that status as means."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "svatantraśakti",
+     "gloss": "independent-power",
+     "grounds": "first member of compound referring to autonomous power",
+     "morph": "compound svatantra+first śakti+second"
+    },
+    {
+     "surface": "vādaḥ",
+     "gloss": "doctrine",
+     "grounds": "asserted view or teaching",
+     "morph": "m.nom.sg compound svatantra+first śakti+second vāda+third"
+    },
+    {
+     "surface": "prakṛtaḥ",
+     "gloss": "under-discussion",
+     "grounds": "the topic currently at hand",
+     "morph": "m.nom.sg.past-participle pra-kṛ"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣām",
+     "gloss": "for-them",
+     "grounds": "refers to the opponents or their position",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ayuktaḥ",
+     "gloss": "unsuitable",
+     "grounds": "not fitting or logically improper",
+     "morph": "m.nom.sg compound a+first yukta+second"
+    }
+   ],
+   "question": "Is the doctrine of independent power appropriate for the opponents in the present discussion?",
+   "premises": [
+    "The doctrine of independent power is under discussion.",
+    "This doctrine is considered in relation to them.",
+    "It is judged unsuitable for them."
+   ],
+   "inference": "Even the doctrine of independent power, as under discussion, is unsuitable for them.",
+   "uncertainties": [],
+   "plain_english": "Even the doctrine of independent power, which is under discussion, is unsuitable for them."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating what must be understood",
+     "morph": "n.nom.sg.gerundive vi-jñā"
+    },
+    {
+     "surface": "śivarūpatvaṃ",
+     "gloss": "shiva-form-ness",
+     "grounds": "state of having the nature or form of Śiva",
+     "morph": "n.nom.sg compound śiva+first rūpa+tva+second"
+    },
+    {
+     "surface": "svaśakti",
+     "gloss": "own-power",
+     "grounds": "first member of compound referring to one's own power",
+     "morph": "compound sva+first śakti+second"
+    },
+    {
+     "surface": "āveśana",
+     "gloss": "entry",
+     "grounds": "immersion or entering into",
+     "morph": "compound sva+first śakti+second āveśana+third"
+    },
+    {
+     "surface": "ātmakam",
+     "gloss": "consisting-of",
+     "grounds": "having that as its essence or nature",
+     "morph": "n.nom.sg compound sva+first śakti+second āveśana+third ātmaka+fourth"
+    }
+   ],
+   "question": "What must be understood as the true nature of being in the form of Shiva?",
+   "premises": [
+    "Being in the form of Śiva is to be understood.",
+    "This state involves one's own power.",
+    "Its essence is entry into that own power."
+   ],
+   "inference": "The state of being Śiva-form must be known as consisting in entry into one's own power.",
+   "uncertainties": [],
+   "plain_english": "The state of being of the nature of Śiva should be known as consisting in entry into one's own power."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "pūrvokta",
+     "gloss": "previously-stated",
+     "grounds": "refers to what was said earlier",
+     "morph": "compound pūrva+first ukta+second"
+    },
+    {
+     "surface": "sarvanijaśakti",
+     "gloss": "all-own-power",
+     "grounds": "compound referring to all of one's own powers",
+     "morph": "compound sarva+first nija+second śakti+third"
+    },
+    {
+     "surface": "sāmarasya",
+     "gloss": "harmony",
+     "grounds": "shared essence or harmonious unity",
+     "morph": "compound sarva+first nija+second śakti+third sāmarasya+fourth"
+    },
+    {
+     "surface": "mayam",
+     "gloss": "made-of",
+     "grounds": "suffixal element indicating composed of that harmony",
+     "morph": "n.nom.sg compound sarva+first nija+second śakti+third sāmarasya+fourth maya+fifth"
+    },
+    {
+     "surface": "upadeśa",
+     "gloss": "instruction",
+     "grounds": "first member of compound referring to teaching",
+     "morph": "compound upadeśa+first"
+    },
+    {
+     "surface": "gamyam",
+     "gloss": "accessible",
+     "grounds": "gerundive indicating what can be reached through instruction",
+     "morph": "n.nom.sg.gerundive gam compound upadeśa+first gamya+second"
+    }
+   ],
+   "question": "How is the previously stated harmony of all one's own powers made accessible?",
+   "premises": [
+    "A harmony of all one's own powers was previously stated.",
+    "This harmony is the content to be realized.",
+    "Instruction provides access to it."
+   ],
+   "inference": "The previously stated state, made of harmony with all one's own powers, is accessible through instruction.",
+   "uncertainties": [],
+   "plain_english": "That previously stated state, consisting in harmony with all one's own powers, is accessible through instruction."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "piṇḍe",
+     "gloss": "in-lump",
+     "grounds": "refers to a lump or mass, possibly of gold",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭikāyāṃ",
+     "gloss": "in-bracelet",
+     "grounds": "refers to a fashioned gold ornament or piece",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle questioning the distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suvarṇatvam",
+     "gloss": "gold-ness",
+     "grounds": "the state or nature of being gold",
+     "morph": "n.nom.sg compound suvarṇa+tva+second"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-accepted",
+     "grounds": "present passive indicating what is admitted or desired",
+     "morph": "3.sg.present-passive iṣ"
+    }
+   ],
+   "question": "Is gold-ness accepted differently in a lump of gold and in a fashioned ornament?",
+   "premises": [
+    "Gold may appear as a lump or as an ornament.",
+    "The question concerns the status of gold-ness in both.",
+    "The implied answer challenges any real difference."
+   ],
+   "inference": "Gold-ness is not accepted as different in a lump or in an ornament.",
+   "uncertainties": [
+    "kaṭikāyāṃ may refer to a specific gold object; rendered generally as bracelet or ornament."
+   ],
+   "plain_english": "Is gold-ness regarded as different in a lump or in an ornament?"
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "rūpakatvaṃ",
+     "gloss": "figurative-ness",
+     "grounds": "state of being metaphorical or merely formal",
+     "morph": "n.acc.sg compound rūpaka+tva+second"
+    },
+    {
+     "surface": "gataṃ",
+     "gloss": "gone-to",
+     "grounds": "past participle indicating having become or reached",
+     "morph": "n.nom.sg.past-participle gam"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "the substance gold",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "by-power",
+     "grounds": "instrumental referring to power",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svatantrayā",
+     "gloss": "by-independent",
+     "grounds": "qualifies power as autonomous",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Does gold become merely figurative rather than being constituted by independent power?",
+   "premises": [
+    "Gold might be thought to become merely figurative in different forms.",
+    "Independent power is the true constitutive principle.",
+    "The figurative interpretation is denied."
+   ],
+   "inference": "Gold does not become merely figurative; it is what it is by independent power.",
+   "uncertainties": [],
+   "plain_english": "Gold does not become merely figurative; it is so indeed by independent power."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner particle indicating in that way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "repeated manner particle emphasizing varied modes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthito",
+     "gloss": "standing",
+     "grounds": "past participle indicating abiding or present",
+     "morph": "m.nom.sg.past-participle sthā"
+    },
+    {
+     "surface": "bhāvaiḥ",
+     "gloss": "by-states",
+     "grounds": "refers to various existing things or conditions",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "the totality of things",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivātmakam",
+     "gloss": "shiva-natured",
+     "grounds": "having Śiva as its essence",
+     "morph": "n.nom.sg compound śiva+first ātmaka+second"
+    }
+   ],
+   "question": "Why does the varied presence of all states imply that everything is essentially Shiva?",
+   "premises": [
+    "Reality abides in various ways through all states.",
+    "These varied modes do not alter its essence.",
+    "Therefore all things share the same ultimate nature."
+   ],
+   "inference": "Because it abides in all states in various ways, everything is of the nature of Śiva.",
+   "uncertainties": [],
+   "plain_english": "Abiding in various ways through all states, therefore everything is of the nature of Śiva."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastutas",
+     "gloss": "in-reality",
+     "grounds": "from the standpoint of ultimate fact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivātmakam",
+     "gloss": "shiva-natured",
+     "grounds": "having Śiva as its essence",
+     "morph": "n.nom.sg compound śiva+first ātmaka+second"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the ultimate reality of all things when considered in their true nature?",
+   "premises": [
+    "The preceding reasoning concludes the discussion.",
+    "Reality is considered from the standpoint of fact.",
+    "The essence affirmed is Śiva-nature."
+   ],
+   "inference": "In reality, everything is indeed of the nature of Śiva.",
+   "uncertainties": [],
+   "plain_english": "Thus, in reality, it is indeed of the nature of Śiva."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "indicates the initial point in a sequence of objections",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "to-begin-with",
+     "grounds": "delimiting particle marking the first step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikāritvaṃ",
+     "gloss": "mutability",
+     "grounds": "state of undergoing change",
+     "morph": "n.nom.sg compound vikāri+tva+second"
+    },
+    {
+     "surface": "śivatattvasya",
+     "gloss": "of-shiva-principle",
+     "grounds": "refers to the Śiva principle or reality",
+     "morph": "n.gen.sg compound śiva+first tattva+second"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present passive indicating an alleged consequence",
+     "morph": "3.sg.present-passive jan"
+    }
+   ],
+   "question": "Would accepting change entail mutability in the Shiva principle as a first objection?",
+   "premises": [
+    "An objection is raised at the outset.",
+    "The objection concerns the Śiva principle.",
+    "Mutability would allegedly arise in it."
+   ],
+   "inference": "The first objection is that mutability would arise in the Śiva principle.",
+   "uncertainties": [],
+   "plain_english": "First of all, mutability would arise in the Śiva principle."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the list of objections",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāvayavatvaṃ",
+     "gloss": "having-parts",
+     "grounds": "state of being composed of parts",
+     "morph": "n.nom.sg compound sa+first avayava+tva+second"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parādhīnatvam",
+     "gloss": "dependence-on-other",
+     "grounds": "state of being dependent on another",
+     "morph": "n.nom.sg compound para+first adhīna+tva+second"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What further defects would allegedly follow for the Shiva principle besides mutability?",
+   "premises": [
+    "The objection continues beyond mutability.",
+    "Having parts is proposed as a consequence.",
+    "Dependence on another is also proposed."
+   ],
+   "inference": "Likewise, having parts and dependence on another would also follow.",
+   "uncertainties": [],
+   "plain_english": "Likewise, there would be having parts and indeed dependence on another."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "nyūnatva",
+     "gloss": "deficiency",
+     "grounds": "first member of compound indicating lack or inferiority",
+     "morph": "compound nyūna+tva+first"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates additional similar defects",
+     "morph": "compound nyūna+tva+first ādi+second"
+    },
+    {
+     "surface": "vināśitvaṃ",
+     "gloss": "destructibility",
+     "grounds": "state of being subject to destruction",
+     "morph": "n.nom.sg compound nyūna+tva+first ādi+second vināśi+tva+third"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ullaṅghana",
+     "gloss": "transgression",
+     "grounds": "first member of compound referring to violation",
+     "morph": "compound ullaṅghana+first"
+    },
+    {
+     "surface": "niṣkṛtiḥ",
+     "gloss": "expiation",
+     "grounds": "remedial removal or compensation for transgression",
+     "morph": "f.nom.sg compound ullaṅghana+first niṣkṛti+second"
+    }
+   ],
+   "question": "What additional undesirable consequences would be attributed to the Shiva principle under this objection?",
+   "premises": [
+    "The list of alleged defects continues.",
+    "Deficiency and destructibility are included.",
+    "Transgression and the need for expiation are also included."
+   ],
+   "inference": "Deficiency, destructibility, and the need for expiation of transgression would also be alleged.",
+   "uncertainties": [],
+   "plain_english": "Likewise, deficiency and so on, destructibility, and expiation for transgression would follow."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to that objection context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādavihāra",
+     "gloss": "foot-movement",
+     "grounds": "first member of compound referring to walking or movement of feet",
+     "morph": "compound pāda+first vihāra+second"
+    },
+    {
+     "surface": "ādeḥ",
+     "gloss": "and-so-on",
+     "grounds": "indicates similar actions or cases",
+     "morph": "m.gen.sg compound pāda+first vihāra+second ādi+third"
+    },
+    {
+     "surface": "sphuṭam",
+     "gloss": "clearly",
+     "grounds": "adverbial emphasis on obviousness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣiddhatā",
+     "gloss": "prohibited-ness",
+     "grounds": "state of being forbidden",
+     "morph": "f.nom.sg compound niṣiddha+tā+second"
+    }
+   ],
+   "question": "Would actions such as foot movement be clearly prohibited under the proposed objection?",
+   "premises": [
+    "The objection considers ordinary actions like foot movement.",
+    "Such actions would fall under prohibition in that view.",
+    "The prohibition is presented as clear."
+   ],
+   "inference": "In that case, foot movement and the like would clearly be prohibited.",
+   "uncertainties": [],
+   "plain_english": "There, the prohibited nature of foot movement and the like would be clear indeed."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indicates the described manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "in-this-way",
+     "grounds": "reinforces the manner of engagement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpravṛttau",
+     "gloss": "in-engagement",
+     "grounds": "active involvement or undertaking",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle introducing consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimitta",
+     "gloss": "cause",
+     "grounds": "first member of compound referring to causal factors",
+     "morph": "compound nimitta+first"
+    },
+    {
+     "surface": "kalanā",
+     "gloss": "reckoning",
+     "grounds": "calculation or attribution of causes",
+     "morph": "f.nom.sg compound nimitta+first kalanā+second"
+    },
+    {
+     "surface": "patet",
+     "gloss": "would-fall",
+     "grounds": "optative indicating an undesirable consequence",
+     "morph": "3.sg.optative-active pat"
+    }
+   ],
+   "question": "Would engagement in such activity entail an unwanted reckoning of causes and motives?",
+   "premises": [
+    "Engagement in activity is considered in that way.",
+    "Such engagement would require causal attribution.",
+    "This causal reckoning would be an unwanted consequence."
+   ],
+   "inference": "If one engaged in that way, a reckoning of causes would arise.",
+   "uncertainties": [],
+   "plain_english": "But if one engaged in that way, a reckoning of causes would arise."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "first member of compound referring to ritual or ordinary action",
+     "morph": "compound karma+first"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates related categories such as action and its sphere",
+     "morph": "compound karma+first ādi+second"
+    },
+    {
+     "surface": "aviṣayatvāt",
+     "gloss": "from-not-being-object",
+     "grounds": "ablative reason: because it is not within that domain",
+     "morph": "n.abl.sg compound a+first viṣaya+tva+second"
+    }
+   ],
+   "question": "Why would action and related categories fall outside the relevant domain in this view?",
+   "premises": [
+    "Action and similar categories are under consideration.",
+    "Their applicability depends on being an object or domain.",
+    "They are said not to be within that domain."
+   ],
+   "inference": "Action and the like do not apply because they are not within that domain.",
+   "uncertainties": [
+    "The exact scope of karma ādi is context-dependent and left general."
+   ],
+   "plain_english": "Because action and the like are not within its domain."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "sarvabhāva",
+     "gloss": "all-states",
+     "grounds": "first member of compound referring to all things or states",
+     "morph": "compound sarva+first bhāva+second"
+    },
+    {
+     "surface": "śivatvena",
+     "gloss": "by-shiva-ness",
+     "grounds": "instrumental expressing the reason: because of being Śiva",
+     "morph": "n.inst.sg compound śiva+tva+second"
+    },
+    {
+     "surface": "nāstitā",
+     "gloss": "non-existence",
+     "grounds": "absence or non-being",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bandha",
+     "gloss": "bondage",
+     "grounds": "first member of dual compound",
+     "morph": "compound bandha+first"
+    },
+    {
+     "surface": "mokṣayoḥ",
+     "gloss": "and-liberation",
+     "grounds": "dual referring to bondage and liberation together",
+     "morph": "m.gen.du compound bandha+first mokṣa+second"
+    }
+   ],
+   "question": "How does the Shiva-nature of all states affect the reality of bondage and liberation?",
+   "premises": [
+    "All states are of the nature of Śiva.",
+    "Bondage and liberation are considered as a pair.",
+    "If all is Śiva, their independent existence is negated."
+   ],
+   "inference": "Because all states are Śiva, bondage and liberation do not ultimately exist.",
+   "uncertainties": [],
+   "plain_english": "Because all states are of the nature of Śiva, there is no existence of bondage and liberation."
+  }
+ ]
+}

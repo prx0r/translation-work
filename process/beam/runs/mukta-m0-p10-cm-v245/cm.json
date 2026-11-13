@@ -3,24 +3,34 @@
  "verse": 245,
  "rows": [
   {
-   "lemma": "khādira+aṅgāram",
-   "morph": "compound m.acc.sg",
-   "grounds": "accusative compound naming ritual material"
+   "lemma": "nyūnatva",
+   "morph": "compound nyūna+tva+first",
+   "grounds": "first member of compound indicating lack or inferiority"
   },
   {
-   "lemma": "ādāya",
-   "morph": "(indecl.) absolutive √dā",
-   "grounds": "absolutive indicating prior action"
+   "lemma": "ādi",
+   "morph": "compound nyūna+tva+first ādi+second",
+   "grounds": "indicates additional similar defects"
   },
   {
-   "lemma": "kuja+aṣṭamyāṃ",
-   "morph": "compound f.loc.sg",
-   "grounds": "locative compound indicating ritual timing"
+   "lemma": "vināśitvaṃ",
+   "morph": "n.nom.sg compound nyūna+tva+first ādi+second vināśi+tva+third",
+   "grounds": "state of being subject to destruction"
   },
   {
-   "lemma": "viśeṣataḥ",
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "adverb emphasizing preference"
+   "grounds": "continues the enumeration"
+  },
+  {
+   "lemma": "ullaṅghana",
+   "morph": "compound ullaṅghana+first",
+   "grounds": "first member of compound referring to violation"
+  },
+  {
+   "lemma": "niṣkṛtiḥ",
+   "morph": "f.nom.sg compound ullaṅghana+first niṣkṛti+second",
+   "grounds": "remedial removal or compensation for transgression"
   }
  ]
 }

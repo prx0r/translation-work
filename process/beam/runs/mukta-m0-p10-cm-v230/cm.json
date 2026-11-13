@@ -3,29 +3,34 @@
  "verse": 230,
  "rows": [
   {
-   "lemma": "gaura+aṅgī",
-   "morph": "compound f.nom.sg",
-   "grounds": "compound describing bodily complexion"
+   "lemma": "parāpara",
+   "morph": "compound parāpara+first",
+   "grounds": "first member of compound indicating graded levels"
   },
   {
-   "lemma": "dīrgha+keśī",
-   "morph": "compound f.nom.sg",
-   "grounds": "compound describing hair"
+   "lemma": "ādi",
+   "morph": "compound parāpara+first ādi+second",
+   "grounds": "indicates additional similar distinctions"
   },
   {
-   "lemma": "yā",
-   "morph": "pron.f.nom.sg",
-   "grounds": "relative pronoun introducing description"
+   "lemma": "bhedaḥ",
+   "morph": "m.nom.sg compound parāpara+first ādi+second bheda+third",
+   "grounds": "difference or division among levels"
   },
   {
-   "lemma": "sadā",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb of constant manner"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "sa+amṛta+bhāṣiṇī",
-   "morph": "compound f.nom.sg",
-   "grounds": "compound describing sweet or immortal speech"
+   "lemma": "tatraiva",
+   "morph": "(indecl.) compound tatra+first eva+second",
+   "grounds": "emphasizes that the explanation is in that very context"
+  },
+  {
+   "lemma": "pratipāditaḥ",
+   "morph": "m.nom.sg.past-participle prati-pad-caus",
+   "grounds": "past participle indicating something taught or demonstrated"
   }
  ]
 }
