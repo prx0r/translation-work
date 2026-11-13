@@ -3,29 +3,44 @@
  "verse": 975,
  "rows": [
   {
-   "lemma": "stanadvaye",
-   "morph": "compound(stana+dvaya).loc.du.n",
-   "grounds": "Locative dual of compound stana-dvaya, indicating the pair of breasts as placement site."
+   "lemma": "namaḥ",
+   "morph": "(indecl.)",
+   "grounds": "mantra syllable/word used as ritual formula"
   },
   {
-   "lemma": "kaṇṭhadeśe",
-   "morph": "compound(kaṇṭha+deśa).loc.sg.m",
-   "grounds": "Locative singular of compound kaṇṭha-deśa, indicating the throat area as placement site."
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "quotation marker closing the mantra formula"
   },
   {
-   "lemma": "trīṇi",
-   "morph": "adj.nom.pl.n",
-   "grounds": "Numeral agreeing with bījāni, specifying the count of seed syllables."
+   "lemma": "mantreṇa",
+   "morph": "m.ins.sg",
+   "grounds": "instrument by which worship is performed"
   },
   {
-   "lemma": "bījāni",
-   "morph": "n.nom.pl.n",
-   "grounds": "Refers to the three bīja syllables mentioned in the preceding verse; kept as functional term."
+   "lemma": "ādhāre",
+   "morph": "m.loc.sg",
+   "grounds": "location of the ritual act; ritual base"
   },
   {
-   "lemma": "vinyaset",
-   "morph": "3.sg.opt.act √vi-ni-as",
-   "grounds": "Optative expressing ritual injunction to place the seed syllables."
+   "lemma": "vahni+maṇḍalam",
+   "morph": "n.acc.sg (compound)",
+   "grounds": "compound object of worship: vahni (fire) + maṇḍala (circle)"
+  },
+  {
+   "lemma": "arcayet",
+   "morph": "3.sg.opt.act (√arc)",
+   "grounds": "prescriptive ritual injunction"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "quotation marker closing the stated instruction"
+  },
+  {
+   "lemma": "arthaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "identifies the purport of the preceding instruction"
   }
  ]
 }

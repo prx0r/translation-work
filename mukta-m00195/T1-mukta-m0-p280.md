@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p280-v6976
-[black-pepper](maricaṃ) [having-ground](piṣṭvā) [there](tatra) [alone](eva) [should-anoint](lepayet)
+[pepper](maricaṃ) [having-ground](piṣṭvā) [there+indeed](tatra+eva) [one-should-smear](lepayet)
 
 ## mukta-m0-p280-v6977
-[should-throw](kṣipet) [on-kṛṣṇacaturdaśī](kṛṣṇacaturdaśyāṃ) [having-repeated](japtvā) [mantra](mantraṃ) [a-thousand-times](sahasraśaḥ)
+[one-should-cast](kṣipet) [on-dark-fourteenth-day](kṛṣṇa+caturdaśyāṃ) [having-chanted](japtvā) [mantra](mantraṃ) [a-thousand-times](sahasraśaḥ)
 
 ## mukta-m0-p280-v6978
-[should-draw](vilikhet) [the-mantrin](mantrī) [with-kṛṣṇa-snake-mouth-blood](kṛṣṇasarpāsyaśoṇitaiḥ)
+[one-should-write](vilikhet) [mantra-practitioner](mantrī) [black-snake+mouth+blood](kṛṣṇa+sarpa+āsya+śoṇitaiḥ)
 
 ## mukta-m0-p280-v6979
-[like-a-crow](kākavat) [wanders](bhramate) [certainly](dhruvam)
+[like-a-crow](kāka+vat) [wanders](bhramate) [certainly](dhruvam)
 
 ## mukta-m0-p280-v6980
-[with-camel-bone](uṣṭrāsthnā) [and-with-cremation-ashes](ca) [śavāṅgāraiḥ) [of-enemy](śatru) [uprooting](uccāṭanaṃ) [would-be](bhavet)
+[with-camel+bone](uṣṭra+asthnā) [and](ca) [with-corpse+coals](śava+aṅgāraiḥ) [of-enemy](śatroḥ) [eradication](uccāṭanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p280-v6981
-[with-foods](annaiḥ) [with-fuel-sticks](samidbhiḥ) [with-pālāśa](pālāśaiḥ) [peace](śāntiṃ) [should-do](kuryāt) [the-discerning-one](vicakṣaṇaḥ)
+[with-food-offerings](annaiḥ) [with-fuel-sticks](samidbhiḥ) [of-palāśa](pālāśaiḥ) [pacification](śāntiṃ) [should-perform](kuryāt) [the-wise-one](vicakṣaṇaḥ)
 
 ## mukta-m0-p280-v6982
-[with-the-three-sweets-anointed](madhuratrayasaṃsiktaiḥ) [with-these](ebhiḥ) [should-do](kuryāt) [indeed](tu) [subjugation](vaśyakam)
+[with-sweet-triad+mixed](madhura+traya+saṃsiktaiḥ) [with-these](ebhiḥ) [should-perform](kuryāt) [indeed](tu) [subjugation](vaśyakam)
 
 ## mukta-m0-p280-v6983
-[great-disease-pacification](mahāvyādhipraśamanaṃ) [always](nityam) [eight-plus](aṣṭādhikaṃ) [hundred](śatam)
+[great-disease+pacification](mahā+vyādhi+praśamanaṃ) [daily](nityam) [eight+more-than](aṣṭa+adhikaṃ) [hundred](śatam)
 
 ## mukta-m0-p280-v6984
-[on-elephant-mounted](gajārūḍhāṃ) [bird-like](vihaṃgamām)
+[elephant-mounted](gaja+ārūḍhāṃ) [sky-going](vihaṃgamām)
 
 ## mukta-m0-p280-v6985
-[from-water-etc-fear-removing](salilādibhayāpahām)
+[water+and-other+fear+removing](salila+ādi+bhaya+apahām)
 
 ## mukta-m0-p280-v6986
-[poison](viṣam) [also](api) [nectar](amṛtam) [would-become](bhavet)
+[poison](viṣam) [even](api) [nectar](amṛtam) [would-become](bhavet)
 
 ## mukta-m0-p280-v6987
-[who](yaḥ) [does](kurute) [mortal](martyaḥ) [he](sa) [meritorious](puṇyāṃ) [state](gatim) [obtains](āpnuyāt)
+[who](yaḥ) [performs](kurute) [mortal](martyaḥ) [he](saḥ) [meritorious](puṇyāṃ) [state](gatim) [obtains](āpnuyāt)
 
 ## mukta-m0-p280-v6988
-[protectoress](saṅgoptrīṃ) [of-all](samasta) [gods-pleasure-giving](suratuṣṭidām)
+[protectress](saṅgoptrīṃ) [all+gods+satisfaction+giving](samasta+sura+tuṣṭi+dām)
 
 ## mukta-m0-p280-v6989
-[untimely-death-destroyer](akālamṛtyumathinī) [always](sadā) [victory-increasing](vijayavarddhinī)
+[untimely-death+destroying](akāla+mṛtyu+mathinī) [always](sadā) [victory+increasing](vijaya+varddhinī)
 
 ## mukta-m0-p280-v6990
-[life-protecting](āyuṣyapālinī) [prosperity-fortune-subjugation-doing](puṣṭilakṣmīsaubhāgyavaśyakṛt)
+[longevity+protecting](āyuṣya+pālinī) [nourishment+prosperity+good-fortune+subjugation+causing](puṣṭi+lakṣmī+saubhāgya+vaśya+kṛt)
 
 ## mukta-m0-p280-v6991
-[great-disease-pacifier](mahāvyādhipraśaminī) [indeed](hi) [epilepsy-destroyer](apasmāravināśinī)
+[great-disease+pacifying](mahā+vyādhi+praśaminī) [indeed](hi) [epilepsy+destroying](apasmāra+vināśinī)
 
 ## mukta-m0-p280-v6992
-[stand](tiṣṭhanti) [ḍākinīs-etc](ḍākinyādyāḥ) [especially](viśeṣataḥ)
+[stand](tiṣṭhanti) [ḍākinīs+and-others](ḍākinī+ādyāḥ) [especially](viśeṣataḥ)
 
 ## mukta-m0-p280-v6993
-[should-draw](likhet) [a-lotus](padmaṃ) [with-yoni-united](yoniyuktaṃ) [with-bindu](sabindukam)
+[one-should-draw](likhet) [lotus](padmaṃ) [womb+joined](yoni+yuktaṃ) [with-bindu](sa+bindukam)
 
 ## mukta-m0-p280-v6994
-[the-rasa-angle](rasakoṇaṃ) [indeed](tu) [should-draw](likhet) [the-root-mantra](mūlamanuṃ) [remembering](smaran)
+[with-six-corners](rasa+koṇaṃ) [indeed](tu) [one-should-write](likhet) [root-mantra](mūla+manuṃ) [remembering](smaran)
 
 ## mukta-m0-p280-v6995
-[should-place](nyasyet) [in-that-middle](tanmadhyagaṃ) [a-vessel](kumbhaṃ) [with-cloth-gem-ornamented](vastraratnavibhūṣitam)
+[one-should-place](nyaset) [that](tat) [in-middle-situated](madhya+gaṃ) [pot](kumbhaṃ) [cloth+jewel+adorned](vastra+ratna+vibhūṣitam)
 
 ## mukta-m0-p280-v6996
-[as-is-right](yathānyāyaṃ) [pāyasa](pāyasam) [indeed](tu) [should-offer](nivedayet)
+[according-to-rule](yathā+nyāyaṃ) [milk-rice](pāyasam) [indeed](tu) [one-should-offer](nivedayet)
 
 ## mukta-m0-p280-v6997
-[should-offer-in-fire](juhuyāt) [with-ghee-anointed](ājyasaṃsiktā) [apāmārga](apāmārga) [sesamum](tila) [ghee](sarpiṣā)
+[one-should-offer-oblation](juhuyāt) [with-ghee+mixed](ājya+saṃsikta) [apāmārga+sesame+ghee](apāmārga+tila+sarpiṣā)
 
 ## mukta-m0-p280-v6998
-[on-a-fire-altar](sthaṇḍile) [or](vāpi) [the-oblation-rite](homakarmma) [should-perform](samācaret)
+[on-altar-ground](sthaṇḍile) [or](vā) [also](api) [fire-ritual](homa+karmma) [one-should-perform](samācaret)
 
 ## mukta-m0-p280-v6999
-[in-the-middle-of-the-vessel](kumbhamadhye) [should-place](nyaset) [the-goddess](devīṃ) [on-the-right](dakṣiṇe) [indeed](tu) [Śrī](śriyaṃ) [should-remember](smaret)
+[in-pot+middle](kumbha+madhye) [one-should-place](nyaset) [goddess](devīṃ) [on-right](dakṣiṇe) [indeed](tu) [Śrī](śriyaṃ) [one-should-contemplate](smaret)
 
 ## mukta-m0-p280-v7000
-[on-the-left-side](vāmapārśve) [indeed](tu) [should-worship](pūjayet) [Gaṇanāyaka](gaṇanāyakam)
+[on-left+side](vāma+pārśve) [indeed](tu) [one-should-worship](pūjayet) [Gaṇanāyaka](gaṇanāyakam)
