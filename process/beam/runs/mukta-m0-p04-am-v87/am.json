@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 87,
- "question": "Who alone is the refuge capable of protecting from sorrow and distress?",
+ "question": "What weapons and implements does the goddess bear in her hands?",
  "premises": [
-  "the lord is addressed as refuge",
-  "protection is requested",
-  "the danger is sorrow and distress"
+  "She holds sword, shield, arrow, and bow",
+  "She holds discus, staff, and water pot",
+  "Her implements combine martial and ascetic symbols"
  ],
- "inference": "the lord alone is the refuge who can protect from sorrow and distress",
- "uncertainties": [],
- "plain_english": "You alone are my refuge, O Lord; protect me from the distress of sorrow."
+ "inference": "The goddess wields both weapons of battle and emblems of spiritual authority",
+ "uncertainties": [
+  "Case ending of first compound treated as nominative attribute in context"
+ ],
+ "plain_english": "She bears sword, shield, arrow, and bow, as well as discus, staff, and water pot."
 }

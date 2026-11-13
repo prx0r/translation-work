@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p69-v1701
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1702
-[with-turned-face](vivṛttāsyaṃ) [world-fear](jagadbhīti) [giving](dāyakaṃ) [in-refuge](saṃśraye) [with-joy](mudā)
+[wide-open](vivṛtta) [+mouthed](āsyaṃ) [world](jagad) [+fear](bhīti) [+giver](dāyakaṃ) [I-resort-to](saṃśraye) [with-joy](mudā)
 
 ## mukta-m0-p69-v1703
-[red-colored](raktavarṇaḥ) [as-sun](sūryavat) [remainder](śiṣṭaṃ)
+[red](rakta) [+colored](varṇaḥ) [remainder](śiṣṭaṃ) [like-sun](sūryavat) [see](ni0) [5](5)
 
 ## mukta-m0-p69-v1704
-[seven-horsed-mounted](saptasaptisamārūḍhaṃ) [of-worlds](jagatāṃ) [eye](netram) [I-take-refuge](āśraye)
+[seven](sapta) [+horses](sapti) [+mounted](samārūḍhaṃ) [of-worlds](jagatāṃ) [eye](netram) [I-resort-to](āśraye)
 
 ## mukta-m0-p69-v1705
-[red-colored](raktavarṇaḥ) [as-sun](sūryavat) [remainder](śiṣṭaṃ)
+[red](rakta) [+colored](varṇaḥ) [remainder](śiṣṭaṃ) [like-sun](sūryavat) [see](ni0) [5](5)
 
 ## mukta-m0-p69-v1706
-[bow-arrow-bearing](cāpabāṇadharaṃ) [with-arms](dorbhyāṃ) [horse-excellent-vehicle](turaṃgavaravāhanam)
+[bow](cāpa) [+arrow](bāṇa) [+holder](dharaṃ) [with-two-arms](dorbhyāṃ) [horse](turaṃga) [+excellent](vara) [+vehicle](vāhanam)
 
 ## mukta-m0-p69-v1707
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1708
-[tiger-mounted](kraravyāghrasamārūḍham) [one-eyed](ekanetraṃ) [I-bow](namāmyaham)
+[fierce](krara) [+tiger](vyāghra) [+mounted](samārūḍham) [one](eka) [+eyed](netraṃ) [I-bow-to](namāmi) [I](aham)
 
 ## mukta-m0-p69-v1709
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1710
-[discus-radiant-handed](cakrojjvalakaraṃ) [I-revere](vaṃde) [sun-chariot-seated](bhāsvadrathasamāśritam)
+[discus](cakra) [+blazing](ujjvala) [+handed](karaṃ) [I-praise](vaṃde) [shining](bhāsvad) [+chariot](ratha) [+seated-on](samāśritam)
 
 ## mukta-m0-p69-v1711
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1712
-[goat-mounted](ajārūḍhaṃ) [four-handed](caturhastaṃ) [two-headed](dviśīrṣaṃ) [named-floater](plavasaṃjñakam)
+[goat](aja) [+mounted](ārūḍhaṃ) [four](catur) [+handed](hastaṃ) [two](dvi) [+headed](śīrṣaṃ) [Plava](plava) [+named](saṃjñakam)
 
 ## mukta-m0-p69-v1713
-[red-colored](raktavarṇaḥ) [as-fire](agnivat) [remainder](śiṣṭam)
+[red](rakta) [+colored](varṇaḥ) [remainder](śiṣṭam) [like-fire](agnivat) [see](ni0) [4](4)
 
 ## mukta-m0-p69-v1714
-[palanquin-mounted](āṃdolikāsamārūḍhaṃ) [sword-shield-bearing](khaḍgakheṭadharaṃ) [auspicious](śubham)
+[swing](āṃdolikā) [+mounted](samārūḍhaṃ) [sword](khaḍga) [+shield](kheṭa) [+holder](dharaṃ) [auspicious](śubham)
 
 ## mukta-m0-p69-v1715
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1716
-[palanquin-vehicle-mounted](śibikāvāhanārūḍhaṃ) [two-chowrie-handed](cāmaradvayapāṇikam)
+[palanquin](śibikā) [+vehicle](vāhana) [+mounted](ārūḍhaṃ) [chowrie](cāmara) [+pair](dvaya) [+holding-in-hands](pāṇikam)
 
 ## mukta-m0-p69-v1717
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1718
-[bull-chariot-mounted](gorathārūḍham) [unceasingly](aniśaṃ) [spear-radiant-lotus-hand](kuṃtojjvalakarāṃbujam)
+[bull](go) [+chariot](ratha) [+mounted](ārūḍham) [constantly](aniśaṃ) [spear](kuṃta) [+blazing](ujjvala) [+lotus-hands](karāṃbujam)
 
 ## mukta-m0-p69-v1719
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1720
-[man-vehicle-mounted](naravāhanamārūḍhaṃ) [sword-shield-bearing-auspicious](khaḍgakheṭadharaṃśubham)
+[human](nara) [+vehicle](vāhanam) [+mounted](ārūḍhaṃ) [sword](khaḍga) [+shield](kheṭa) [+holder](dharaṃ) [auspicious](śubham)
 
 ## mukta-m0-p69-v1721
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1722
-[lofty-horse-mounted](uttuṃgaturagārūḍhaṃ) [axe-radiant-handed](paraśūjjvalapāṇikam)
+[lofty](uttuṃga) [+horse](turaga) [+mounted](ārūḍhaṃ) [axe](paraśu) [+blazing](ujjvala) [+hands](pāṇikam)
 
 ## mukta-m0-p69-v1723
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)
 
 ## mukta-m0-p69-v1724
-[white-horse-excellent-mounted](śvetāśvavaramārūḍhaṃ) [bow-arrow-bearing](śārṅgavāṇadharaṃ) [always](sadā)
+[white](śveta) [+horse](aśva) [+excellent](varam) [+mounted](ārūḍhaṃ) [bow](śārṅga) [+arrow](vāṇa) [+holder](dharaṃ) [always](sadā)
 
 ## mukta-m0-p69-v1725
-[red-colored](raktavarṇaḥ)
+[red](rakta) [+colored](varṇaḥ)

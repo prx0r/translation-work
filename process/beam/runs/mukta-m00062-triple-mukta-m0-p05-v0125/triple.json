@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "sadyojātaḥ",
+     "gloss": "immediately-born",
+     "grounds": "epithet indicating sudden or immediate arising",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhitā",
+     "gloss": "accomplished",
+     "grounds": "past participle indicating realization or attainment",
+     "morph": "f.nom.sg.ppp (√sādh)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "kubjikā",
+     "gloss": "kubjikā",
+     "grounds": "proper name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cakra+nāyikā",
+     "gloss": "circle-mistress",
+     "grounds": "compound denoting the leading goddess of the circle",
+     "morph": "compound: cakra+nāyikā (f.nom.sg)"
+    }
+   ],
+   "question": "What identity is claimed for Kubjikā as the mistress of the circle?",
+   "premises": [
+    "Kubjikā is described as immediately-born.",
+    "Kubjikā is described as accomplished.",
+    "Kubjikā is identified as the mistress of the circle."
+   ],
+   "inference": "Kubjikā is the immediately-born, accomplished mistress of the circle.",
+   "uncertainties": [
+    "The specific sense of sadyojātaḥ in this context may be technical or ritual."
+   ],
+   "plain_english": "She, Kubjikā, immediately arisen and accomplished, is the mistress of the circle."
+  }
+ ]
+}

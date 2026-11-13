@@ -3,29 +3,34 @@
  "verse": 44,
  "rows": [
   {
-   "lemma": "ahaṅkāraḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject reimagined as elephant"
+   "lemma": "nirjīvaḥ",
+   "morph": "m.nom.sg (compound)",
+   "grounds": "adjective describing the initial lifeless state"
   },
   {
-   "lemma": "gaja+tvena",
-   "morph": "compound gaja+tva, n.ins.sg",
-   "grounds": "instrumental indicating imagined identity"
+   "lemma": "jīva",
+   "morph": "compound-member",
+   "grounds": "first member of compound describing assumed form"
   },
   {
-   "lemma": "vegaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "subject reimagined as chariot"
+   "lemma": "rūpeṇa",
+   "morph": "n.inst.sg (compound)",
+   "grounds": "instrumental expressing the mode assumed"
   },
   {
-   "lemma": "kḷptaḥ",
-   "morph": "m.nom.sg.past-participle + kḷp",
-   "grounds": "past participle describing mental offering"
+   "lemma": "pañcabhūta",
+   "morph": "compound-member",
+   "grounds": "first member of compound indicating elemental state"
   },
   {
-   "lemma": "ratha+ātmanā",
-   "morph": "compound ratha+ātman, m.ins.sg",
-   "grounds": "instrumental indicating imagined identity"
+   "lemma": "tvam",
+   "morph": "n.acc.sg (compound)",
+   "grounds": "second member of compound pañcabhūtatvam (state of five elements)"
+  },
+  {
+   "lemma": "āgataḥ",
+   "morph": "m.nom.sg.past-active-participle √gam",
+   "grounds": "past participle indicating arrival at a state"
   }
  ]
 }

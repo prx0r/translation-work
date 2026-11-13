@@ -3,24 +3,39 @@
  "verse": 27,
  "rows": [
   {
-   "lemma": "bibhratī",
-   "morph": "f.nom.sg.present-participle + bhṛ",
-   "grounds": "present participle describing Brāhmī"
+   "lemma": "viśva",
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying saṃdhāraṇāt"
   },
   {
-   "lemma": "kanaka+cchāyām",
-   "morph": "compound kanaka+cchāyā, f.acc.sg",
-   "grounds": "object of bearing, describing appearance"
+   "lemma": "saṃdhāraṇāt",
+   "morph": "n.abl.sg (compound)",
+   "grounds": "ablative of cause from viśva-saṃdhāraṇa (sustaining the universe)"
   },
   {
-   "lemma": "brāhmī",
+   "lemma": "sā",
    "morph": "f.nom.sg",
-   "grounds": "name of the goddess"
+   "grounds": "anaphoric subject referring to the goddess"
   },
   {
-   "lemma": "kṛṣṇa+ajina+ujjvalā",
-   "morph": "compound kṛṣṇa+ajina+ujjvala, f.nom.sg",
-   "grounds": "descriptive compound qualifying Brāhmī"
+   "lemma": "tu",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "vaiṣṇavī",
+   "morph": "f.nom.sg",
+   "grounds": "predicate name attributed to her"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "quotation marker"
+  },
+  {
+   "lemma": "prakīrtitā",
+   "morph": "f.nom.sg.past-passive-participle √kīrt",
+   "grounds": "passive participle expressing traditional designation"
   }
  ]
 }

@@ -3,29 +3,44 @@
  "verse": 31,
  "rows": [
   {
-   "lemma": "karaiḥ",
-   "morph": "m.ins.pl",
-   "grounds": "instrumental indicating number of hands"
+   "lemma": "jīva",
+   "morph": "compound-member",
+   "grounds": "first member of compound describing absence of life"
   },
   {
-   "lemma": "caturbhiḥ",
-   "morph": "m.ins.pl",
-   "grounds": "numeral qualifying hands"
+   "lemma": "hīnaḥ",
+   "morph": "m.nom.sg (compound)",
+   "grounds": "adjective qualifying deha as lacking life"
   },
   {
-   "lemma": "vārāhī",
-   "morph": "f.nom.sg",
-   "grounds": "name of the goddess"
+   "lemma": "yathā",
+   "morph": "(indecl.)",
+   "grounds": "comparative particle introducing simile"
   },
   {
-   "lemma": "dhyeyā",
-   "morph": "f.nom.sg.gerundive + dhyai",
-   "grounds": "gerundive prescribing meditation"
+   "lemma": "dehaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject of the simile"
   },
   {
-   "lemma": "kāla+ghana+cchaviḥ",
-   "morph": "compound kāla+ghana+cchavi, f.nom.sg",
-   "grounds": "descriptive compound indicating complexion"
+   "lemma": "calitum",
+   "morph": "infinitive √cal",
+   "grounds": "infinitive expressing action that is impossible"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle reinforcing negation"
+  },
+  {
+   "lemma": "śakyate",
+   "morph": "3.sg.pass.pres √śak",
+   "grounds": "passive verb expressing impossibility"
   }
  ]
 }

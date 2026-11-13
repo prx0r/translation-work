@@ -3,39 +3,29 @@
  "verse": 41,
  "rows": [
   {
-   "lemma": "pūjayāmi",
-   "morph": "1.sg.present.active + pūj",
-   "grounds": "first-person declaration of worship"
+   "lemma": "caturviṃśati",
+   "morph": "compound-member",
+   "grounds": "first member of compound specifying number of principles"
   },
   {
-   "lemma": "sadā",
+   "lemma": "tatvena",
+   "morph": "n.inst.sg (compound)",
+   "grounds": "instrumental indicating the means of animation"
+  },
+  {
+   "lemma": "brahmāṇḍam",
+   "morph": "n.acc.sg",
+   "grounds": "object that is animated"
+  },
+  {
+   "lemma": "cetayanti",
+   "morph": "3.pl.act.pres-causative √cit",
+   "grounds": "verb expressing enlivening or making conscious"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb indicating constancy"
-  },
-  {
-   "lemma": "bhaktyā",
-   "morph": "f.ins.sg",
-   "grounds": "instrumental indicating manner"
-  },
-  {
-   "lemma": "durgāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "object of worship"
-  },
-  {
-   "lemma": "durge",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address"
-  },
-  {
-   "lemma": "namāmi",
-   "morph": "1.sg.present.active + nam",
-   "grounds": "first-person declaration of bowing"
-  },
-  {
-   "lemma": "aham",
-   "morph": "pronoun.nom.sg",
-   "grounds": "explicit subject"
+   "grounds": "conjunction linking to prior context"
   }
  ]
 }

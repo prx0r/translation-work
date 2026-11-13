@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "whose",
+     "grounds": "relative pronoun referring to the goddess mentioned in context",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "prabhāvam",
+     "gloss": "power",
+     "grounds": "majesty or efficacy of the goddess",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atulaṃ",
+     "gloss": "immeasurable",
+     "grounds": "without equal or comparison",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varṇituṃ",
+     "gloss": "to-describe",
+     "grounds": "infinitive expressing the action of verbal description",
+     "morph": "inf(√varṇ)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of possibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "is-possible",
+     "grounds": "expresses capability or possibility in passive construction",
+     "morph": "3.sg.pass-pres(√śak)"
+    }
+   ],
+   "question": "What claim is made about the possibility of describing the goddess's power?",
+   "premises": [
+    "The goddess possesses a power (prabhāva).",
+    "That power is immeasurable (atula).",
+    "Describing that power is not possible."
+   ],
+   "inference": "Therefore, the goddess's power transcends verbal description.",
+   "uncertainties": [
+    "The referent of yasyā is inferred from the preceding context (mahādevī)."
+   ],
+   "plain_english": "Her power is immeasurable and indeed cannot be described."
+  }
+ ]
+}

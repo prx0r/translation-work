@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[with-cow-ghee](gavyenājyena) [or](vā) [of-Shambhu](śaṃbhoḥ) [should-give-ghrita-blanket](pradadyādghṛtakaṃbalam)
+[with-cow](gavyena) [ghee](ājyena) [or](vā) [of-Śambhu](śaṃbhoḥ) [one-should-offer](pradadyāt) [ghee+blanket](ghṛta+kaṃbalam)
 
 ## mukta-m0-p72-v1777
-[man](narassadātrāṇaparopyudārobhīruśca) [generous+fearful](narassadātrāṇaparopyudārobhīruśca) [born-in-auspicious-year](saumyāyanajātajanmā) [auspicious-birth](saumyāyanajātajanmā)
+[man](naraḥ) [always+giving+devoted](sadā+trāṇa+paraḥ) [and](api) [noble](udāraḥ) [fearless](abhīruḥ) [and](ca) [gentle+conduct+born+birth](saumya+āyana+jāta+janmā)
 
 ## mukta-m0-p72-v1778
-[deceitful](śaṭhopyasahyonanumānavānāṃ) [unbearable+inference](śaṭhopyasahyonanumānavānāṃ) [of-those](śaṭhopyasahyonanumānavānāṃ) [southern-course](yāmyāyane) [union](yojananaṃ) [resorted](prapannaḥ)
+[deceitful](śaṭhaḥ) [and](api) [unbearable](asahyaḥ) [of-those-not-respecting](anumānavānāṃ) [in-southern+course](yāmyā+ayane) [to-Yojana](yojananaṃ) [having-attained](prapannaḥ)
 
 ## mukta-m0-p72-v1779
-[sun-in-chariot](bhāsvadrathagataṃsūryaṃ) [moon+stars-surrounded](caṃdranakṣatrasaṃvṛtam) [red-colored](raktavarṇaḥ) [radiant](bhāsvadrathagataṃsūryaṃ)
+[radiant+chariot+mounted](bhāsvat+ratha+gataṃ) [sun](sūryaṃ) [moon+constellations+surrounded](caṃdra+nakṣatra+saṃvṛtam)
 
 ## mukta-m0-p72-v1780
-[red-colored](raktavarṇaḥ) [red](raktavarṇaḥ) [color](varṇaḥ) [red-hued](raktavarṇaḥ)
+[red+colored](rakta+varṇaḥ)
 
 ## mukta-m0-p72-v1781
-[divine-chariot-mounted](divyasyaṃdanamārūḍhaṃ) [with-sun-etc-planets](sūryādigrahasaṃyutam) [divine](divyasyaṃdanamārūḍhaṃ) [chariot](asyaṃdanamārūḍhaṃ)
+[divine+chariot+mounted](divya+syaṃdana+ārūḍhaṃ) [sun+etc.+planets+accompanied](sūrya+ādi+graha+saṃyutam)
 
 ## mukta-m0-p72-v1782
-[white-colored](śvetavarṇaḥ) [white](śvetavarṇaḥ) [color](varṇaḥ) [white-hued](śvetavarṇaḥ)
+[white+colored](śveta+varṇaḥ)
 
 ## mukta-m0-p72-v1783
-[rosary-raised-hand](akṣamālodyatakaraṃ) [five-syllable-devoted](paṃcākṣaraparāyaṇam) [rosary](akṣamālodyatakaraṃ) [raised-hand](udyatakaraṃ)
+[rosary+uplifted+hand](akṣa+mālā+udyata+karaṃ) [five+syllable+devoted](paṃca+akṣara+parāyaṇam)
 
 ## mukta-m0-p72-v1784
-[seated-in-bound-lotus](baddhapadmāsanāsīnaḥ) [east-facing-smiling-face](prāṅkhohasitānanaḥ) [bound-lotus](baddhapadmāsanāsīnaḥ) [seated](āsīnaḥ)
+[bound+lotus+seat+seated](baddha+padma+āsana+āsīnaḥ) [east+facing](prāṅ+mukhaḥ) [smiling+face](hasita+ānanaḥ)
 
 ## mukta-m0-p72-v1785
-[ash-smeared-all-limbs](bhasmoddhūlitasarvāṃgo) [spring-joy](vasaṃtostumudemama) [ash](bhasmoddhūlitasarvāṃgo) [all-limbs](sarvāṃgo)
+[ash+smeared+all+limbed](bhasma+uddhūlita+sarva+aṃgaḥ) [spring+season](vasaṃtaḥ) [be-for-joy](astu) [to-me](mama)
 
 ## mukta-m0-p72-v1786
-[white-colored](śvetavarṇaḥ) [white](śvetavarṇaḥ) [color](varṇaḥ) [white-hued](śvetavarṇaḥ)
+[white+colored](śveta+varṇaḥ)
 
 ## mukta-m0-p72-v1787
-[rosary-sun-hand](akṣasūtrārka) [moon-white-umbrella](caṃdraśubhrātapatrayuk) [rosary](akṣasūtrārka) [sun](arka)
+[rosary+sun+in-hand](akṣa+sūtra+arka+hastaḥ) [indeed](tu) [moon+bright+parasol+possessing](caṃdra+śubhra+ātapatra+yuk)
 
 ## mukta-m0-p72-v1788
-[summer-east-facing-seated](grīṣmaṃprāṅmukhamāsīnaṃ) [on-sage-worshipped-seat](viṣṭare munipūjite) [summer](grīṣmaṃprāṅmukhamāsīnaṃ) [east-facing](prāṅmukhamāsīnaṃ)
+[summer](grīṣmaṃ) [east+facing](prāṅ+mukham) [seated](āsīnaṃ) [on-seat](viṣṭare) [by-sages+worshipped](muni+pūjite)
 
 ## mukta-m0-p72-v1789
-[waterpot-shining-hand](kamaṃḍalūjjvalakaraṃ) [bow-head-daily](namāmi śirasānvaham) [waterpot](kamaṃḍalūjjvalakaraṃ) [shining-hand](ujjvalakaraṃ)
+[water-pot+shining+in-hand](kamaṃḍalu+ujjvala+karaṃ) [I-bow](namāmi) [with-head](śirasā) [daily](anvaham)
 
 ## mukta-m0-p72-v1790
-[smoke-colored](dhūmravarṇaḥ) [smoke](dhūmra) [color](varṇaḥ) [smoke-hued](dhūmravarṇaḥ)
+[smoke+colored](dhūmra+varṇaḥ)
 
 ## mukta-m0-p72-v1791
-[copper-colored-with-parrot](tāmravarṇaśukopetaḥ) [blue-coral-earring](nīlavidrumakuṃḍalaḥ) [copper](tāmra) [parrot](śuka)
+[copper+colored+parrot+accompanied](tāmra+varṇa+śuka+upetaḥ) [blue+coral+earring](nīla+vidruma+kuṃḍalaḥ)
 
 ## mukta-m0-p72-v1792
-[cloud-garland-surrounded](meghamālāvṛtaścaiva) [lightning-radiant](vidyutvānathadīptimān) [cloud](megha) [garland](mālā)
+[cloud+garland+enveloped](megha+mālā+āvṛtaḥ) [and](ca) [indeed](eva) [lightning+possessing](vidyut+vān) [then](atha) [radiant](dīptimān)
 
 ## mukta-m0-p72-v1793
-[head-bow-today](śirasāpraṇamāmyadyavarṣāharṣābhidhāyikāḥ) [rain-joy-named](varṣāharṣābhidhāyikāḥ) [head](śirasā) [bow](praṇamāmyadya)
+[with-head](śirasā) [I-bow](praṇamāmi) [today](adya) [rains+joy+bestowing](varṣāḥ+harṣa+abhidhāyikāḥ)
 
 ## mukta-m0-p72-v1794
-[green-colored](haridvarṇaḥ) [green](harid) [color](varṇaḥ) [green-hued](haridvarṇaḥ)
+[green+colored](harit+varṇaḥ)
 
 ## mukta-m0-p72-v1795
-[neck-pearl-garland](kaṃṭhemauktikamālastu) [ear-indra-gem-earring](karṇeceṃdrāśmakuṃḍalaḥ) [neck](kaṃṭhe) [pearl-garland](mauktikamālaḥ)
+[on-neck](kaṃṭhe) [pearl+garland](mauktika+mālaḥ) [indeed](tu) [in-ear](karṇe) [sapphire+earring](caṃdra+aśma+kuṃḍalaḥ)
 
 ## mukta-m0-p72-v1796
-[holding-worship-worthy](dadhānaḥ pūjanīyoyamāyurvṛddhyaisukhāya ca) [for-life-increase-happiness](āyurvṛddhyaisukhāya ca) [holding](dadhānaḥ) [worship-worthy](pūjanīyaḥ)
+[wearing](dadhānaḥ) [to-be-worshipped](pūjanīyaḥ) [this](ayam) [for-life+increase](āyuḥ+vṛddhyai) [for-happiness](sukhāya) [and](ca)
 
 ## mukta-m0-p72-v1797
-[season-west-facing-seated](ṛtuḥ pratyaṅmukhāsīnaḥ) [crystal-bracelet-wearing](sphā.ikaṃ valayaṃ vahan) [season](ṛtuḥ) [west-facing](pratyaṅmukhāsīnaḥ)
+[season](ṛtuḥ) [west+facing+seated](pratyaṅ+mukha+āsīnaḥ) [crystal](sphāṭikaṃ) [bracelet](valayaṃ) [wearing](vahan)
 
 ## mukta-m0-p72-v1798
-[moon-white-colored](caṃdragauravarṇaḥ) [moon](caṃdra) [white](gaura) [color](varṇaḥ)
+[moon+bright+colored](caṃdra+gaura+varṇaḥ)
 
 ## mukta-m0-p72-v1799
-[yellow-robe-clad-three-matted](pītavastrasamāvītastrijaṭaḥ) [black-lizard](kṛṣṇagodhikaḥ) [yellow-robe](pītavastra) [three-matted](trijaṭaḥ)
+[yellow+garment+clad](pīta+vastra+samāvītaḥ) [three+braided](tri+jaṭaḥ) [black+lizard](kṛṣṇa+godhikaḥ)
 
 ## mukta-m0-p72-v1800
-[worship-for-prosperity](pūjanīyo vibhūtyarthaṃ) [grain-wealth-increase](dhānyasaṃpadvivṛddhaye) [worship-worthy](pūjanīyaḥ) [for-prosperity](vibhūtyarthaṃ)
+[to-be-worshipped](pūjanīyaḥ) [for-prosperity](vibhūti+artham) [for-grain+wealth+increase](dhānya+saṃpad+vivṛddhaye)
