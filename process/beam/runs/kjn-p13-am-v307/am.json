@@ -3,11 +3,12 @@
  "verse": 307,
  "question": "What are the first two forms enumerated in the sequence of types?",
  "premises": [
-  "A first type is identified.",
   "The first is characterized by the form of a boy.",
-  "A second type is characterized by the form of a madman."
+  "The second is characterized by the form of a madman."
  ],
- "inference": "The first form is that of a boy and the second is that of a madman.",
- "uncertainties": [],
+ "inference": "The sequence begins with a boy-like form and continues with a madman-like form.",
+ "uncertainties": [
+  "The grammatical subject of these forms is not explicitly stated in this verse."
+ ],
  "plain_english": "The first is in the form of a boy, and the second has the form of a madman."
 }
