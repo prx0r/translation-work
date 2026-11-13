@@ -24,11 +24,11 @@
 },
 {
 "surface": "kena",
-"quick_gloss": "by-which"
+"quick_gloss": "by-whom"
 },
 {
 "surface": "vartmanā",
-"quick_gloss": "path"
+"quick_gloss": "by-path"
 }
 ]
 },
@@ -40,24 +40,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhāvātīta",
-"quick_gloss": "beyond-state"
-},
-{
-"surface": "mayaṃ",
-"quick_gloss": "consisting-of"
+"surface": "bhāvātītamayaṃ",
+"quick_gloss": "beyond-state+consisting-of"
 },
 {
 "surface": "vākyaṃ",
 "quick_gloss": "speech"
 },
 {
-"surface": "bhāvātīta",
-"quick_gloss": "beyond-state"
-},
-{
-"surface": "mayaṃ",
-"quick_gloss": "consisting-of"
+"surface": "bhāvātītamayaṃ",
+"quick_gloss": "beyond-state+consisting-of"
 },
 {
 "surface": "stavam",
@@ -73,12 +65,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhāvātīta",
-"quick_gloss": "beyond-state"
-},
-{
-"surface": "mayā",
-"quick_gloss": "consisting-of"
+"surface": "bhāvātītamayā]",
+"quick_gloss": "beyond-state+consisting-of"
 },
 {
 "surface": "kriyā",
@@ -95,27 +83,19 @@
 "tokens": [
 {
 "surface": "kvacid",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 },
 {
 "surface": "dhyānaṃ",
 "quick_gloss": "meditation"
 },
 {
-"surface": "japa",
-"quick_gloss": "recitation"
-},
-{
-"surface": "ādiñ",
-"quick_gloss": "and-so-forth"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "japādiñca",
+"quick_gloss": "recitation+and-so-on+and"
 },
 {
 "surface": "kvacin",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 },
 {
 "surface": "maithunam",
@@ -137,6 +117,18 @@
 {
 "surface": "sammatam",
 "quick_gloss": "approved"
+},
+{
+"surface": " [j:",
+"quick_gloss": "j:"
+},
+{
+"surface": "saṃyutām",
+"quick_gloss": "joined"
+},
+{
+"surface": "]",
+"quick_gloss": ""
 }
 ]
 },
@@ -164,12 +156,8 @@
 "quick_gloss": "to-be-given"
 },
 {
-"surface": "bhojana",
-"quick_gloss": "food"
-},
-{
-"surface": "ānanda",
-"quick_gloss": "bliss"
+"surface": "bhojanānanda",
+"quick_gloss": "food+bliss"
 },
 {
 "surface": "sammatam",
@@ -185,12 +173,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "indriya",
-"quick_gloss": "by-senses"
-},
-{
-"surface": "ākalitaṃ",
-"quick_gloss": "perceived"
+"surface": "indriyākalitaṃ",
+"quick_gloss": "by-senses+perceived"
 },
 {
 "surface": "sarvaṃ",
@@ -198,7 +182,7 @@
 },
 {
 "surface": "prakāśaka",
-"quick_gloss": "manifesting"
+"quick_gloss": "manifestation"
 },
 {
 "surface": "vivarjitam",
@@ -219,7 +203,7 @@
 },
 {
 "surface": "yoniṃ",
-"quick_gloss": "womb"
+"quick_gloss": "womb/source"
 },
 {
 "surface": "jñātvā",
@@ -256,7 +240,7 @@
 "tokens": [
 {
 "surface": "kvacid",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 },
 {
 "surface": "āsye",
@@ -264,7 +248,7 @@
 },
 {
 "surface": "kvacit",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 },
 {
 "surface": "karṇe",
@@ -280,11 +264,11 @@
 },
 {
 "surface": "kvacit",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 },
 {
 "surface": "kvacit",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 }
 ]
 },
@@ -297,7 +281,7 @@
 "tokens": [
 {
 "surface": "kvacil",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 },
 {
 "surface": "liṅgena",
@@ -309,7 +293,7 @@
 },
 {
 "surface": "kvacid",
-"quick_gloss": "sometimes"
+"quick_gloss": "somewhere"
 },
 {
 "surface": "aṃgulinā",
@@ -329,20 +313,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "danta",
-"quick_gloss": "tooth"
+"surface": "dantaghātaṃ",
+"quick_gloss": "tooth+striking"
 },
 {
-"surface": "ghātaṃ",
-"quick_gloss": "striking"
-},
-{
-"surface": "sarva",
-"quick_gloss": "all-limbs"
-},
-{
-"surface": "gātraṃ",
-"quick_gloss": "body"
+"surface": "sarvagātraṃ",
+"quick_gloss": "all+limbs"
 },
 {
 "surface": "coṣyamāṇaṃ",
@@ -379,7 +355,7 @@
 },
 {
 "surface": "śaktyānandasya",
-"quick_gloss": "of-śakti-bliss"
+"quick_gloss": "of-śakti+bliss"
 },
 {
 "surface": "lakṣaṇam",
@@ -399,16 +375,24 @@
 "quick_gloss": "when-manifested"
 },
 {
-"surface": "prema",
-"quick_gloss": "love"
+"surface": "premānande",
+"quick_gloss": "love+bliss"
 },
 {
-"surface": "ānande",
-"quick_gloss": "bliss"
+"surface": " [j:",
+"quick_gloss": "j:"
+},
+{
+"surface": "maheśāna",
+"quick_gloss": "O-great-lord"
+},
+{
+"surface": "]",
+"quick_gloss": ""
 },
 {
 "surface": "sarvānandasya",
-"quick_gloss": "of-all-bliss"
+"quick_gloss": "of-all+bliss"
 },
 {
 "surface": "tulyatā",
@@ -532,7 +516,7 @@
 },
 {
 "surface": "yuto",
-"quick_gloss": "united"
+"quick_gloss": "endowed"
 },
 {
 "surface": "deva",
@@ -569,7 +553,7 @@
 },
 {
 "surface": "śrīsarvānandanātha",
-"quick_gloss": "by-śrī-sarvānandanātha"
+"quick_gloss": "by-śrī+Sarvānandanātha"
 },
 {
 "surface": "viracite",
@@ -577,7 +561,7 @@
 },
 {
 "surface": "sarvollāse",
-"quick_gloss": "in-sarvollāsa"
+"quick_gloss": "in-Sarvollāsa"
 },
 {
 "surface": "ṣaṭpañcāśad",
@@ -609,16 +593,12 @@
 "quick_gloss": "is-able"
 },
 {
-"surface": "vāhya",
-"quick_gloss": "of-external-power"
-},
-{
-"surface": "śaktes",
-"quick_gloss": "of-power"
+"surface": "vāhya+śaktes",
+"quick_gloss": "of-external+power"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "kā",
@@ -626,7 +606,7 @@
 },
 {
 "surface": "kathā",
-"quick_gloss": "mention"
+"quick_gloss": "talk"
 }
 ]
 },
@@ -660,6 +640,22 @@
 {
 "surface": "vimuktakaḥ",
 "quick_gloss": "freed-from"
+},
+{
+"surface": " [kh,",
+"quick_gloss": "kh,c:"
+},
+{
+"surface": "c:",
+"quick_gloss": "c:"
+},
+{
+"surface": "vimohakaḥ",
+"quick_gloss": "deluded-by"
+},
+{
+"surface": "]",
+"quick_gloss": ""
 }
 ]
 },
@@ -754,7 +750,7 @@
 },
 {
 "surface": "śakter",
-"quick_gloss": "of-power"
+"quick_gloss": "of-śakti"
 },
 {
 "surface": "bhaved",
@@ -770,7 +766,7 @@
 },
 {
 "surface": "śakteḥ",
-"quick_gloss": "of-power"
+"quick_gloss": "of-śakti"
 },
 {
 "surface": "kriyā",
@@ -807,7 +803,7 @@
 },
 {
 "surface": "śakter",
-"quick_gloss": "of-power"
+"quick_gloss": "of-śakti"
 },
 {
 "surface": "na",
