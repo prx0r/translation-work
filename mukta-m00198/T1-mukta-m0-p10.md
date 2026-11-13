@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[of-that](tasya) [upon](upari) [seat](adhishthanam) [with-pedestal](sopapithanvitam) [or](tu) [va](va)
+[its](tasya) [above](upari) [indeed](tu) [base](adhiṣṭhānaṃ) [with](sa) [footing](upapīṭha) [endowed](anvitaṃ) [or](tu) [or](vā)
 
 ## mukta-m0-p10-v227
-[that-that](tattad) [above](urdhve) [ground](dharatalam) [or](va) [atha](atha) [with-pedestal](sopapitham) [api](api) [va](va)
+[that](tat) [that](tat) [above](ūrdhve) [floor-level](dharātalaṃ) [or](vā) [now](atha) [with](sa) [footing](upapīṭham) [now](atha) [also](api) [or](vā)
 
 ## mukta-m0-p10-v228
-[by-nature](prakritisama) [thread](sutra) [tu](tu) [should-fashion](kalpayet) [best-artisan](shilpikottamah)
+[nature](prakṛti) [equal](sama) [on-line](sūtre) [indeed](tu) [should-design](kalpayet) [architect](śilpi) [best](uttamaḥ)
 
 ## mukta-m0-p10-v229
-[by-height-measure](aptotsedhamsamanena) [tv](tv) [of-seat](adhishthanasya) [ca](ca) [height](ucchrayam)
+[obtained](āpta) [height](utsedha) [part](aṃśa) [by-measure](mānena) [indeed](tu) [of-base](adhiṣṭhānasya) [and](ca) [height](ucchrayam)
 
 ## mukta-m0-p10-v230
-[front-foot-wide](agrapadavishalam) [tu](tu) [pillar](dandam) [ity](iti) [called](abhidhiyate)
+[front](agra) [foot](pāda) [width](viśālaṃ) [indeed](tu) [rod](daṇḍam) [thus](iti) [is-called](abhidhīyate)
 
 ## mukta-m0-p10-v231
-[as-much-as](yavata) [five-number](pancasamkhya) [tu](tu) [fire-pillar](agnidanda) [end](avasana) [kam](kam)
+[as-far-as](yāvatā) [five](paṃca) [number](saṃkhyā) [indeed](tu) [fire](agni) [rod](daṇḍa) [ending](avasānakam)
 
 ## mukta-m0-p10-v232
-[p-25](p) [upana](upana) [vyasa](vyasa) [one-part](ekamsam) [remainder](shesham) [in-world](jagati) [spread](vistaram)
+[plinth](upāna) [width](vyāsam) [one](eka) [part](aṃśaṃ) [remainder](śeṣaṃ) [floor-moulding](jagati) [width](vistaram)
 
 ## mukta-m0-p10-v233
-[above-kumuda](kumudordhve) [band-course](pattavesam) [that-same](tatsamam) [neck-band](kantthavesanam)
+[torus](kumuda) [above](ūrdhve) [fillet](paṭṭa) [insertion](veśaṃ) [that](tat) [equal](samaṃ) [neck](kaṇṭha) [insertion](veśanam)
 
 ## mukta-m0-p10-v234
-[upper-band](urdhvapattama) [remainder](shesham) [tat](tat) [same](samam) [va](va) [neck-band](kantthavesanam)
+[upper](ūrdhva) [fillet](paṭṭam) [entire](aśeṣaṃ) [that](tat) [equal](samaṃ) [or](vā) [neck](kaṇṭha) [insertion](veśanam)
 
 ## mukta-m0-p10-v235
-[great-vaja](mahavajanni) [outgone](skrantam) [tungatulya](tungatulya) [half](ardha) [eva](eva) [va](va)
+[great](mahā) [fillet](vāja) [projection](niṣkrāntaṃ) [height](tuṃga) [equal](tulya) [half](ardham) [indeed](eva) [or](vā)
 
 ## mukta-m0-p10-v236
-[birth-etc-five-groups](janmadipancavargesu) [that-that](tattad) [limb-end](angavasanakam)
+[birth](janma) [beginning-with](ādi) [five](paṃca) [groups](vargeṣu) [that](tat) [that](tat) [member](aṃga) [ending](avasānakam)
 
 ## mukta-m0-p10-v237
-[upana](upanam) [jagati](jagatim) [ca](ca) [eva](eva) [kumuda](kumudam) [neck-band](kantthapattika)
+[plinth](upānaṃ) [floor-moulding](jagatīṃ) [and](ca) [indeed](eva) [torus](kumudaṃ) [neck](kaṇṭha) [fillet](paṭṭikā)
 
 ## mukta-m0-p10-v238
-[door](dvaran) [ca](ca) [water-spout](jaladharam) [ca](ca) [place](sthalam) [ca](ca) [with-obstacles](pratibandhakaih)
+[drip](dvāraṃ) [and](ca) [water](jala) [channel](dhāraṃ) [and](ca) [level](sthalaṃ) [and](ca) [with-bindings](pratibandhakaiḥ)
 
 ## mukta-m0-p10-v239
-[limb-cutting](pratyamgacchedanam) [cet](cet) [tu](tu) [of-dangers](vipadam) [abode](aspadam) [always](sada)
+[each](prati) [member](aṃga) [cutting](chedanaṃ) [if](cet) [indeed](tu) [of-calamities](vipadām) [abode](āspadaṃ) [always](sadā)
 
 ## mukta-m0-p10-v240
-[seat](adhishthanam) [twofold](dvidha) [known](jneyam) [obstacle](pratibandha) [foot-binding](anghribandhanam)
+[base](adhiṣṭhānaṃ) [twofold](dvidhā) [to-be-known](jñeyaṃ) [bound](pratibandha) [foot](aṃghri) [bound](bandhanam)
 
 ## mukta-m0-p10-v241
-[of-all](sarvesham) [of-obstacles](pratibandhanam) [kumuda](kumudam) [round](vrttam) [called](ucyate)
+[of-all](sarveṣāṃ) [bound-bases](pratibandhānāṃ) [torus](kumudaṃ) [round](vṛttam) [is-said](ucyate)
 
 ## mukta-m0-p10-v242
-[of-those](tayoh) [junction](samkaram) [one](ekasmin) [to-be-done](kartavye) [doer-destruction](kartṛnashanam)
+[of-those-two](tayoḥ) [mixture](saṃkaram) [in-one](ekasmin) [when-to-be-done](kartavye) [maker](kartṛ) [destruction](nāśanam)
 
 ## mukta-m0-p10-v243
-[of-kuta-koshta-etc](kutakoshtadikanam) [tu](tu) [to-be-done](kartavyam) [that-auspicious](tacchubhavaham)
+[of-pavilions](kūṭa) [of-recesses](koṣṭha) [and-others](ādikānāṃ) [indeed](tu) [to-be-done](kartavyaṃ) [that](tat) [auspiciousness](śubha) [bringing](āvaham)
 
 ## mukta-m0-p10-v244
-[inauspicious](ashubham) [opposite](viparitam) [cet](cet) [vastu](vastu) [kingdom](rashtram) [king](nrpasya) [ca](ca)
+[inauspicious](aśubhaṃ) [opposite](viparītaṃ) [if](cet) [of-site](vāstu) [of-country](rāṣṭra) [of-king](nṛpasya) [and](ca)
 
 ## mukta-m0-p10-v245
-[of-seat](adhishthanasya) [ca](ca) [height](utsedham) [nineteen-parts](ekonavimsadamshake)
+[of-base](adhiṣṭhānasya) [and](ca) [height](utsedhaṃ) [nineteen](ekona+viṃśat) [in-parts](aṃśake)
 
 ## mukta-m0-p10-v246
-[thirty-six](shattrimsam) [kumuda-height](kumudoccam) [tu](tu) [ali](alim) [lam](lam) [ca](ca) [one-part](ekabhagaya)
+[thirty-six](ṣaṭ+triṃśaṃ) [torus](kumuda) [height](uccaṃ) [indeed](tu) [fillet](āliṃlaṃ) [and](ca) [by-one](eka) [part](bhāgayā)
 
 ## mukta-m0-p10-v247
-[vajana](vajanam) [ca](ca) [one-part](ekabhagena) [obstacle](pratibandham) [idam](idam) [bhavet](bhavet)
+[fillet](vājanaṃ) [and](ca) [by-one](eka) [part](bhāgena) [bound-base](pratibandham) [this](idam) [should-be](bhavet)
 
 ## mukta-m0-p10-v248
-[of-seat](adhishthanasya) [ca](ca) [height](utsedham) [twenty-five](pancavimsatibhajite)
+[of-base](adhiṣṭhānasya) [and](ca) [height](utsedhaṃ) [twenty-five](paṃca+viṃśati) [when-divided](bhājite)
 
 ## mukta-m0-p10-v249
-[metal-part](dhatvamsam) [kumuda-height](kumudoccam) [tu](tu) [sky-part](vyomamsam) [shaking](kampamanakam)
+[seven](dhātu) [parts](aṃśaṃ) [torus](kumuda) [height](uccaṃ) [indeed](tu) [one](vyoma) [part](aṃśaṃ) [cyma](kaṃpam) [measure](ānakam)
 
 ## mukta-m0-p10-v250
-[great-band](mahapatti) [guna-part](gunamsam) [tu](tu) [that-above](tadurdhve) [part](amsena) [shaking](kampakam)
+[great](mahā) [fillet](paṭṭī) [three](guṇa) [parts](aṃśaṃ) [indeed](tu) [that](tat) [above](ūrdhve) [by-part](aṃśena) [cyma](kampakam)

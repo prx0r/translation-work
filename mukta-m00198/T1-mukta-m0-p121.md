@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p121-v3001
-[prāk+sūtrāt](prāksūtrād) [abhaye](abhaye) [haste](haste) [madhyaṃ](madhyaṃ) [paṃcadaśa+āṃgulam](paṃcadaśāṃgulam)
+[from-front-thread](prāksūtrāt) [in-fearless](abhaye) [hand](haste) [middle](madhyaṃ) [five-fifteen-fingers](paṃcadaśāṃgulam)
 
 ## mukta-m0-p121-v3002
-[talamūlaṃ](talamūlaṃ) [kaṭiṃ](kaṭiṃ) [spṛṣṭvā](spṛṣṭvā) [meḍhrāntaṃ](meḍhrāntaṃ) [tu](tu) [ca](ca) [tatkare](tatkare)
+[palm-base](talamūlaṃ) [hip](kaṭiṃ) [having-touched](spṛṣṭvā) [penis-end](meḍhrāntaṃ) [indeed](tu) [and](ca) [in-that-hand](tatkare)
 
 ## mukta-m0-p121-v3003
-[ūrdhva+vaktraṃ](ūrdhvavaktraṃ) [tu](tu) [varadāt](varadāt) [pṛṣṭha+nābhi+sameḍhrakam](pṛṣṭhanābhisameḍhrakam)
+[upward-face](ūrdhvavaktraṃ) [indeed](tu) [from-boon-giving](varadāt) [back-navel-equal-to-penis](pṛṣṭhanābhisameḍhrakam)
 
 ## mukta-m0-p121-v3004
-[kartarī](kartarī) [maṇibandhāḥ+tu](maṇibandhāstu) [bāhu](bāhu) [bāhya+mukhaṃ](bāhyamukhaṃ) [bhavet](bhavet)
+[scissors-hand](kartarī) [from-wrists](maṇibandhāt) [indeed](tu) [arm](bāhu) [outward-face](bāhyamukhaṃ) [should-be](bhavet)
 
 ## mukta-m0-p121-v3005
-[korparāt](korparāt) [pūrva+sūtrāntaṃ](pūrvasūtrāntaṃ) [rasa+saptadaśa+āṃgulam](rasasaptadaśāṃgulam)
+[from-elbow](korparāt) [to-front-thread-end](pūrvasūtrāntaṃ) [six-seventeen-fingers](rasasaptadaśāṃgulam)
 
 ## mukta-m0-p121-v3006
-[ūru+mūlāt](ūrumūlād) [dvayoḥ+antaḥ](dvayorantaḥ) [eka+āṃgulam+udāhṛtam](ekāṃgulamudāhṛtam)
+[from-thigh-root](ūrumūlāt) [of-both](dvayoḥ) [interval](antaḥ) [one-finger](ekāṃgulam) [is-stated](udāhṛtam)
 
 ## mukta-m0-p121-v3007
-[jānu+antaraṃ](jānvantaraṃ) [catur+mātraṃ](caturmātraṃ) [jaṃghayoḥ](jaṃghayoḥ) [paṃca+mātrakam](paṃcamātrakam)
+[knee-interval](jānvantaraṃ) [four-measures](caturmātraṃ) [of-shanks](jaṃghayoḥ) [five-measures](paṃcamātrakam)
 
 ## mukta-m0-p121-v3008
-[pārṣṇi+antaraṃ](pārṣṇyantaraṃ) [catur+mātraṃ](caturmātraṃ) [rasa+āṃśaṃ](rasāṃśaṃ) [pāda+tala+antaram](pādatalāntaram)
+[heel-interval](pārṣṇyantaraṃ) [four-measures](caturmātraṃ) [six-parts](rasāṃśaṃ) [sole-interval](pādatalāntaram)
 
 ## mukta-m0-p121-v3009
-[ārjavaṃ](ārjavaṃ) [rāja+saṃbhāvaṃ](rājasaṃbhāvaṃ) [kalpya+evaṃ](kalpyevaṃ) [dvija+sattama](dvijasattama)
+[straightness](ārjavaṃ) [royal-character](rājasaṃbhāvaṃ) [should-be-conceived](kalpyam) [thus](evaṃ) [o-best-of-twice-born](dvijasattama) [!]
 
 ## mukta-m0-p121-v3010
-[dakṣiṇe+ardha+indu+śekhare](dakṣiṇe'rdhenduśekhare)
+[*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [*](* ) [on-right](dakṣiṇe) [half-moon-crested](ardhenduśekhare)
 
 ## mukta-m0-p121-v3011
-[trinetraṃ](trinetraṃ) [saumya+vadanaṃ](saumyavadanaṃ) [sarva+ābharaṇa+bhūṣitam](sarvābharaṇabhūṣitam)
+[three-eyed](trinetraṃ) [gentle-faced](saumyavadanaṃ) [adorned-with-all-ornaments](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p121-v3012
-[ubhayoḥ](ubhayoḥ) [pārśvayoḥ+evaṃ](pārśvayorevaṃ) [ambaraṃ](ambaraṃ) [ūru+madhya+gam](ūrumadhyagam)
+[on-both](ubhayoḥ) [sides](pārśvayoḥ) [thus](evaṃ) [garment](ambaraṃ) [reaching-thigh-middle](ūrumadhyagam)
 
 ## mukta-m0-p121-v3013
-[tad+gaurī](tadgaurī) [sahitaṃ](sahitaṃ) [khyātaṃ](khyātaṃ) [bhinnapīṭhaika](bhinnapīṭhaika) [eva](eva) [vā](vā)
+[that](tat) [with-Gaurī](gaurī+sahitaṃ) [known](khyātaṃ) [on-separate-pedestal](bhinnapīṭha) [or](eka) [indeed](eva) [or](vā)
 
 ## mukta-m0-p121-v3014
-[devo](devo) [varada+hastena](varadahastena) [devīṃ](devīṃ) [bāhya](bāhya) [parāśritām](parāśritām)
+[god](devaḥ) [with-boon-giving-hand](varadahastena) [goddess](devīṃ) [outside](bāhya) [resting-upon](parāśritām)
 
 ## mukta-m0-p121-v3015
-[pārśva+sūtrāt+pare](pārśvasūtrātpare) [vā](vā) [vāma+bāhu+āliṃganaṃ](vāmabāhumāliṃganaṃ) [tu](tu) [vā](vā)
+[beyond-side-thread](pārśvasūtrāt) [further](pare) [left-arm-embrace](vāmabāhu+āliṃganaṃ) [indeed](tu) [or](vā)
 
 ## mukta-m0-p121-v3016
-[kaṭi+sūtra+upari](kaṭisūtropari) [spṛṣṭvā](spṛṣṭvā) [puṣpaṃ](puṣpaṃ) [vāma+karoddhṛtam](vāmakaroddhṛtam)
+[above-hip-thread](kaṭisūtra+upari) [having-touched](spṛṣṭvā) [flower](puṣpaṃ) [held-in-left-hand](vāmakara+uddhṛtam)
 
 ## mukta-m0-p121-v3017
-[rakta+utpalaṃ](raktotpalaṃ) [parigrāhya](parigrāhya) [vāma+hastaṃ](vāmahastaṃ) [pralambitam](pralambitam)
+[red-lotus](raktotpalaṃ) [having-grasped](parigrāhya) [left-hand](vāmahastaṃ) [hanging-down](pralambitam)
 
 ## mukta-m0-p121-v3018
-[sarva+ābharaṇa+saṃyuktaṃ](sarvābharaṇasaṃyuktaṃ) [prabhā+maṇḍala+saṃyutam](prabhāmaṇḍalasaṃyutam)
+[endowed-with-all-ornaments](sarvābharaṇasaṃyuktaṃ) [endowed-with-halo](prabhāmaṇḍalasaṃyutam)
 
 ## mukta-m0-p121-v3019
-[ābhaṃgaṃ](ābhaṃgaṃ) [sama+bhaṃgaṃ](samabhaṃgaṃ) [vā](vā) [kalpayet](kalpayet) [kalpa+vittamaḥ](kalpavittamaḥ)
+[slight-bend](ābhaṃgaṃ) [equal-bend](samabhaṃgaṃ) [or](vā) [should-conceive](kalpayet) [o-knower-of-rules](kalpavittamaḥ)
 
 ## mukta-m0-p121-v3020
-[uṣṇīṣa+madhyamāt+vāme](uṣṇīṣamadhyamādvāme) [lalāṭāt+vāmake](lalāṭādvāmake) [tathā](tathā)
+[from-middle-of-crown](uṣṇīṣamadhyamāt) [on-left](vāme) [from-forehead](lalāṭāt) [on-left](vāmake) [likewise](tathā)
 
 ## mukta-m0-p121-v3021
-[dakṣiṇe](dakṣiṇe) [stana+pīṭhasya](stanapīṭhasya) [vāme](vāme) [nābheḥ+ca](nābheśca) [madhyame](madhyame)
+[on-right](dakṣiṇe) [of-breast-mound](stanapīṭhasya) [on-left](vāme) [and](ca) [of-navel](nābheḥ) [in-middle](madhyame)
 
 ## mukta-m0-p121-v3022
-[evaṃ](evaṃ) [tu](tu) [sama+bhaṃgaṃ](samabhaṃgaṃ) [syāt](syāt) [na](na) [ta](ta) [mānaṃ](mānaṃ) [yuga+āṃgulam](yugāṃgulam)
+[thus](evaṃ) [indeed](tu) [equal-bend](samabhaṃgaṃ) [should-be](syāt) [not](na) [that](ta) [measure](mānaṃ) [two-fingers](yugāṃgulam)
 
 ## mukta-m0-p121-v3023
-[nābheḥ+vāme](nābhervāme) [guṇa+āṃśe](guṇāṃśe) [tu](tu) [vāmoḥ+madhyame](vāmorormadhyame) [tathā](tathā)
+[on-left-of-navel](nābheḥ+vāme) [in-three-parts](guṇāṃśe) [indeed](tu) [in-middle-of-left-thigh](vāmoroḥ+madhyame) [likewise](tathā)
 
 ## mukta-m0-p121-v3024
-[ati](ati) [bhaṃgam+idaṃ](bhaṃgamidaṃ) [khyātaṃ](khyātaṃ) [na](na) [taṃ](taṃ) [paṃca+āṃgulaṃ](paṃcāṃgulaṃ) [bhavet](bhavet)
+[excessive-bend](ati+bhaṃgam) [this](idaṃ) [known](khyātaṃ) [not](na) [that](taṃ) [five-fingers](paṃcāṃgulaṃ) [should-be](bhavet)
 
 ## mukta-m0-p121-v3025
-[hikkā+sūtrāt+adhaḥ](hikkāsūtrādadho) [vipra](vipra) [kalā](kalā) [vā](vā) [dvi+navāṃgulam](dvinavāṃgulam)
+[below-collar-thread](hikkāsūtrāt) [below](adhaḥ) [o-brahmin](vipra) [!] [one-part](kalā) [or](vā) [two-nine-fingers](dvinavāṃgulam)
