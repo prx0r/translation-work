@@ -3,19 +3,44 @@
  "verse": 1170,
  "rows": [
   {
-   "lemma": "bhukteśvarī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: bhukti+īśvarī; sovereign of enjoyment"
+   "lemma": "ātma",
+   "morph": "compound-member",
+   "grounds": "first member of compound referring to self and body"
   },
   {
-   "lemma": "bhuktidātrī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: bhukti+dātrī; giver of enjoyment"
+   "lemma": "deha",
+   "morph": "compound-member",
+   "grounds": "second member of compound denoting body"
   },
   {
-   "lemma": "bhuktirākārarūpiṇī",
-   "morph": "f.nom.sg",
-   "grounds": "compound: bhukti+ākāra+rūpiṇī; having the form of the nature of enjoyment"
+   "lemma": "ādikaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "indicates self, body, and similar things"
+  },
+  {
+   "lemma": "kiñcit",
+   "morph": "n.acc.sg",
+   "grounds": "indefinite object of knowing"
+  },
+  {
+   "lemma": "jānāti",
+   "morph": "3.sg.present-act √jñā",
+   "grounds": "act of ordinary cognition"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negates ordinary knowing"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects negation with time expression"
+  },
+  {
+   "lemma": "karhicit",
+   "morph": "(indecl.)",
+   "grounds": "indicates at no time"
   }
  ]
 }

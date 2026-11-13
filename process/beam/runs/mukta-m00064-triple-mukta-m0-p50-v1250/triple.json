@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "ādi+nāthaṃ",
+     "gloss": "primordial-lord",
+     "grounds": "compound referring to the primordial lord; accusative object/apposition in the fused form",
+     "morph": "ādi+nātha (compound, acc.sg.m)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessive pronoun qualifying guruṃ",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "teacher or spiritual preceptor",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vṛttāntaṃ",
+     "gloss": "account",
+     "grounds": "narrative or report of events",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kathayet",
+     "gloss": "should-tell",
+     "grounds": "optative expressing what ought to be reported",
+     "morph": "3.sg.act-optative √kath"
+    },
+    {
+     "surface": "īdṛśam",
+     "gloss": "such",
+     "grounds": "qualifies the account as of this kind",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Must the primordial guru be informed of such a defiant account?",
+   "premises": [
+    "The preceding refusal concerns granting great accomplishment or vision.",
+    "The addressed party has a guru identified as the primordial lord.",
+    "A report of this kind can be communicated to that guru."
+   ],
+   "inference": "Therefore, such an account should be told to one's guru, the primordial lord.",
+   "uncertainties": [
+    "The implied subject who should tell the account is not explicitly stated."
+   ],
+   "plain_english": "One should tell your guru, the primordial lord, such an account."
+  }
+ ]
+}

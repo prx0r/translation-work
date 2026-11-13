@@ -3,44 +3,44 @@
  "verse": 1121,
  "rows": [
   {
-   "lemma": "khaḍgāya",
-   "morph": "m.dat.sg",
-   "grounds": "recipient of obeisance"
-  },
-  {
-   "lemma": "namaḥ",
-   "morph": "(indecl.)",
-   "grounds": "salutation formula"
-  },
-  {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "marks mantra ending"
-  },
-  {
-   "lemma": "antam",
-   "morph": "m.acc.sg",
-   "grounds": "describes mantra form"
-  },
-  {
-   "lemma": "anunā",
-   "morph": "m.ins.sg",
-   "grounds": "instrumental mantra"
-  },
-  {
-   "lemma": "khaḍga",
+   "lemma": "asarva",
    "morph": "compound-member",
-   "grounds": "object of worship"
+   "grounds": "first part of sarva-lokaiḥ as split in tokenization"
   },
   {
-   "lemma": "pūjanaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "ritual act"
+   "lemma": "lokaiḥ",
+   "morph": "m.inst.pl",
+   "grounds": "agents of worship; instrumental plural"
   },
   {
-   "lemma": "kuryāt",
-   "morph": "3.sg.act-optative √kṛ",
-   "grounds": "prescriptive ritual action"
+   "lemma": "pūjitā",
+   "morph": "f.nom.sg.past-participle (√pūj)",
+   "grounds": "honor given to the maiden"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects to preceding celebration"
+  },
+  {
+   "lemma": "kumārī",
+   "morph": "f.nom.sg",
+   "grounds": "the goddess in maiden form"
+  },
+  {
+   "lemma": "sā",
+   "morph": "f.nom.sg",
+   "grounds": "identifies the maiden"
+  },
+  {
+   "lemma": "gṛhe",
+   "morph": "n.loc.sg",
+   "grounds": "location of worship"
+  },
+  {
+   "lemma": "gṛhe",
+   "morph": "n.loc.sg",
+   "grounds": "repetition indicates every house"
   }
  ]
 }
