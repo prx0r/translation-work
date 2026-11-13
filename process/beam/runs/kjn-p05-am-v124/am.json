@@ -1,13 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 124,
- "question": "What immunity to venom is claimed for one established in this practice?",
+ "question": "What protection against poison is attained even when bitten by great serpents?",
  "premises": [
-  "Poison may enter the body",
   "A bite by great serpents is possible",
-  "The practice prevents poison from spreading"
+  "Poison normally enters the body",
+  "In this case poison does not enter"
  ],
- "inference": "For such a practitioner, poison does not spread in the body even when bitten by great serpents.",
+ "inference": "Therefore even if bitten by great serpents, poison does not enter the practitioner's body.",
  "uncertainties": [],
- "plain_english": "Poison does not spread in the body, even if one is bitten by great serpents."
+ "plain_english": "Even if bitten by great serpents, poison does not enter the body."
 }

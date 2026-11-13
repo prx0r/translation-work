@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "kurute",
-   "morph": "3.sg.pres-mid √kṛ",
-   "grounds": "states the yogin's power"
+   "morph": "3.sg.mid-present/√kṛ",
+   "grounds": "states the action performed by the practitioner"
   },
   {
    "lemma": "bahudhā",
    "morph": "(indecl.)",
-   "grounds": "indicates multiplicity of forms"
+   "grounds": "describes multiplicity of form"
   },
   {
    "lemma": "rūpaṃ",
@@ -19,23 +19,23 @@
   },
   {
    "lemma": "dhyāna",
-   "morph": "compound=dhyāna+eka+gata",
+   "morph": "compound=first-member",
    "grounds": "first member of compound describing focused mind"
   },
   {
    "lemma": "eka",
-   "morph": "compound=dhyāna+eka+gata",
-   "grounds": "middle member of compound indicating single-pointedness"
+   "morph": "compound=second-member",
+   "grounds": "second member indicating single focus"
   },
   {
    "lemma": "gata",
-   "morph": "compound=dhyāna+eka+gata",
-   "grounds": "final member of compound describing mind absorbed"
+   "morph": "compound=third-member",
+   "grounds": "third member indicating mind absorbed in meditation"
   },
   {
    "lemma": "cetasaḥ",
    "morph": "n.gen.sg",
-   "grounds": "possessor of one-pointed absorption"
+   "grounds": "possessor of the one-pointed meditative state"
   }
  ]
 }

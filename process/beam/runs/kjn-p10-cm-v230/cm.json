@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "aṣṭa",
-   "morph": "compound=aṣṭa+aṣṭaka",
-   "grounds": "first member of numerical compound"
+   "morph": "compound=first-member",
+   "grounds": "first numeral in compound describing division"
   },
   {
    "lemma": "aṣṭaka",
-   "morph": "compound=aṣṭa+aṣṭaka",
-   "grounds": "second member of numerical compound"
+   "morph": "compound=second-member",
+   "grounds": "second numeral element in compound"
   },
   {
    "lemma": "vibhāgam",
@@ -20,17 +20,17 @@
   {
    "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "connective particle"
   },
   {
    "lemma": "parijñātum",
-   "morph": "infinitive √jñā",
-   "grounds": "expresses purpose of inquiry"
+   "morph": "infinitive/√jñā",
+   "grounds": "expresses purpose of the request"
   },
   {
    "lemma": "anantathā",
    "morph": "(indecl.)",
-   "grounds": "indicates exhaustive manner of knowing"
+   "grounds": "indicates the manner or extent of knowing"
   }
  ]
 }

@@ -3,11 +3,13 @@
  "verse": 227,
  "question": "Which chapter emerges in the context of Candra-dvipa?",
  "premises": [
-  "Candra-dvipa is named as the locus",
-  "Emergence is attributed to a chapter",
-  "The chapter is identified as the ninth"
+  "The context is Candra-dvipa",
+  "Something has emerged in that context",
+  "The emerged item is identified as the ninth chapter"
  ],
- "inference": "The ninth chapter is the one that has emerged in Candra-dvipa.",
- "uncertainties": [],
+ "inference": "The ninth chapter emerges in Candra-dvipa.",
+ "uncertainties": [
+  "Whether vinirgate marks conclusion or emergence is context-dependent"
+ ],
  "plain_english": "The ninth chapter has emerged in Candra-dvipa."
 }
