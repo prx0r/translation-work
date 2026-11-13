@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "mantra syllable, kept byte-exact",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "samānāya",
+     "gloss": "to-samāna",
+     "grounds": "epithet in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svāha",
+     "gloss": "svāhā",
+     "grounds": "mantra oblation particle, kept byte-exact",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks preceding mantra formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāḍaṃgulīr",
+     "gloss": "all-fingers",
+     "grounds": "object of touching; compound sarva+aṅgulī",
+     "morph": "f.acc.pl (compound)"
+    },
+    {
+     "surface": "aṃguṣṭhena",
+     "gloss": "with-thumb",
+     "grounds": "instrument of touching",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √spṛś"
+    }
+   ],
+   "question": "Which mantra formula must be uttered while touching all fingers with the thumb?",
+   "premises": [
+    "The mantra formula is oṃ samānāya svāhā.",
+    "The word iti marks this formula as spoken.",
+    "All fingers are to be touched with the thumb."
+   ],
+   "inference": "One should utter the mantra oṃ samānāya svāhā and touch all fingers with the thumb.",
+   "uncertainties": [
+    "The specific ritual context of this gesture depends on the preceding instructions."
+   ],
+   "plain_english": "Uttering 'oṃ samānāya svāhā', one should touch all the fingers with the thumb."
+  }
+ ]
+}

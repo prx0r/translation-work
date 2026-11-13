@@ -5,10 +5,10 @@
 [covered](veṣṭitaṃ) [with-pair+of-cloths](vastra+yugmena) [yoga-seat](yoga+mīṭhaṃ) [firm](dṛḍhaṃ) [excellent](varam)
 
 ## mukta-m0-p83-v2052
-[in-its+vicinity](tat+sānnidhyaṃ) [indeed](tu) [with-aghora](aghoreṇa) [to-be-given](deyaḥ) [and](ca) [offering](argho) [by-man](nareṇa) [indeed](tu)
+[its+proximity](tat+sānnidhyaṃ) [indeed](tu) [with-aghora-mantra](aghoreṇa) [to-be-given](deyaḥ) [and](ca) [offering](arghaḥ) [by-man](nareṇa) [indeed](tu)
 
 ## mukta-m0-p83-v2053
-[with-cloth+covered+hand](paṭa+āvṛta+karaḥ) [should-stand](tiṣṭhet) [like-Śiva](śiva+vat) [he](sa) [guru](guruḥ) [himself](svayam)
+[with-cloth+covered+hand](paṭa+āvṛta+karaḥ) [should-stand](tiṣṭhet) [like-Śiva](śiva+vat) [he](sa) [guru](guruḥ) [own-guru](svaguruḥ) [himself](svayam)
 
 ## mukta-m0-p83-v2054
 [with-various+kinds+of-garments](nānā+prakāra+vāsobhiḥ) [having-worshipped](iṣṭvā) [should-give](dadyāt) [and](ca) [fee](dakṣiṇām)
@@ -17,61 +17,61 @@
 [ruler+of-district](viṣaya+adhipatiḥ) [village](grāmaṃ) [field](kṣetraṃ) [ruler+of-village](grāma+adhipaḥ) [likewise](tathā)
 
 ## mukta-m0-p83-v2056
-[male-servants](dāsān) [female-servants](dāsīḥ) [good+foods](su+bhakṣyān) [and](ca) [bed](śayanaṃ) [and](ca) [excellent+garment](ambaraṃ) [excellent](varam)
+[male-slaves](dāsān) [female-slaves](dāsīḥ) [good+food](su+bhakṣyān) [and](ca) [bed](śayanaṃ) [and](ca) [garment](ambaraṃ) [excellent](varam)
 
 ## mukta-m0-p83-v2057
 [house+utensils](gṛha+upaskaraṇaṃ) [all](sarvaṃ) [with-devotion+filled](bhakti+pūrvaṃ) [should-offer](nivedayet)
 
 ## mukta-m0-p83-v2058
-[should-offer](nivedayet) [likewise](tathā) [oneself](ātmānaṃ) [then](tato) [should-inform](vijñāpayet) [guru](gurum)
+[should-offer](nivedayet) [likewise](tathā) [self](ātmānaṃ) [then](tataḥ) [should-inform](vijñāpayet) [guru](gurum)
 
 ## mukta-m0-p83-v2059
-[today](adya) [of-me](me) [fruitful](sa+phalaṃ) [birth](janma) [because](yat) [from-ocean+of-great+saṃsāra](saṃsāra+mahā+arṇavāt)
+[today](adya) [my](me) [fruitful](sa+phalaṃ) [birth](janma) [because](yat) [from-saṃsāra+great+ocean](saṃsāra+mahā+arṇavāt)
 
 ## mukta-m0-p83-v2060
-[then](tatas) [indeed](tu) [installer](sthāpako) [delighted](hṛsṭo) [by-sacrificer](yajamānena) [worshipped](pūjitaḥ)
+[then](tataḥ) [indeed](tu) [installer](sthāpakaḥ) [pleased](hṛṣṭaḥ) [by-sacrificer](yajamānena) [worshipped](pūjitaḥ)
 
 ## mukta-m0-p83-v2061
-[at-end+of-initiation+installation+rite](dīkṣa+sthāpana+yāga+ante) [on-festival+day](parvaṇi) [having-arrived](abhyāgate) [likewise](tathā)
+[at-initiation+installation+rite+end](dīkṣa+sthāpana+yāga+ante) [at-festival](parvaṇi) [having-arrived](abhyāgate) [likewise](tathā)
 
 ## mukta-m0-p83-v2062
-[without-having-worshipped](a+saṃpūjya) [guru](guruṃ) [through-delusion](mohāt) [image-attendants](mūrti+pān) [then](atha) [chanters](jāpinaḥ)
+[without-having-worshipped](a+saṃpūjya) [guru](guruṃ) [through-delusion](mohāt) [image-attendants](mūrti+pān) [and](atha) [chanters](jāpinaḥ)
 
 ## mukta-m0-p83-v2063
-[in-absence+of-wealth](nir+dravye) [destroys](hanti) [performer](kartāraṃ) [in-absence+of-mantra](mantra+hīne) [indeed](tu) [officiating-priest](daiśikam)
+[in-absence-of-wealth](nir+dravye) [kills](hanti) [performer](kartāraṃ) [in-absence-of-mantra](mantra+hīne) [indeed](tu) [preceptor](daiśikam)
 
 ## mukta-m0-p83-v2064
-[in-absence+of-cow](dhenu+hīne) [likewise](tathaiva) [life-span](āyuḥ) [offspring](prajā) [indeed](vai) [in-absence+of-flower](puṣpa+hīnake)
+[in-absence-of-cow](dhenu+hīne) [likewise](tathā+eva) [life](āyuḥ) [offspring](prajā) [indeed](vai) [in-absence-of-flower](puṣpa+hīnake)
 
 ## mukta-m0-p83-v2065
-[son](putraṃ) [in-rite](yāge) [and](ca) [in-absence+of-garment](nir+vastre) [wife](pramadā) [in-absence+of-incense](dhūpa+hīnake)
+[son](putraṃ) [in-rite](yāge) [and](ca) [in-absence-of-garment](nir+vastre) [wife](pramadā) [in-absence-of-incense](dhūpa+hīnake)
 
 ## mukta-m0-p83-v2066
-[in-absence+of-banner](niṣ+patāke) [offspring](prajā) [destroys](hanti) [in-absence+of-offering](bali+hīne) [likewise](tathā) [family](kulam)
+[in-absence-of-banner](niṣ+patāke) [offspring](prajā) [kills](hanti) [in-absence-of-offering](bali+hīne) [likewise](tathā) [family](kulam)
 
 ## mukta-m0-p83-v2067
-[for-purpose+of-installation](pratiṣṭhā+arthaṃ) [should-arrange](prakalpya) [at-beginning](ādau) [wealth](dravyaṃ) [which](yat) [pure](śuci) [permanent](śāśvatam)
+[for-installation](pratiṣṭhā+arthaṃ) [should-arrange](prakalpya) [in-beginning](ādau) [wealth](dravyaṃ) [which](yat) [pure](śuci) [permanent](śāśvatam)
 
 ## mukta-m0-p83-v2068
-[by-third+part](tri+aṃśena) [installation](sthāpanaṃ) [there](tatra) [fourth+part](caturtha+aṃśaṃ) [again](punaḥ) [in-three-parts](tri+dhā)
+[by-third-part](tri+aṃśena) [installation](sthāpanaṃ) [there](tatra) [fourth-part](caturtha+aṃśaṃ) [again](punaḥ) [in-three](tri+dhā)
 
 ## mukta-m0-p83-v2069
-[third-part](tṛtīyaṃ) [for-food+and-so-on](bhojana+ādi+arthaṃ) [performer](kartā) [for-dharma](dharmāya) [should-assign](kalpayet)
+[third](tṛtīyaṃ) [for-food+etc](bhojana+ādi+arthaṃ) [performer](kartā) [for-merit](dharmāya) [should-assign](kalpayet)
 
 ## mukta-m0-p83-v2070
-[at-times+of-rite](yāga+kāleṣu) [having-given](datvā) [and](ca) [in-matter](arthe) [non-delivery](na+pratipādanam)
+[at-rite+times](yāga+kāleṣu) [having-given](datvā) [and](ca) [wealth](arthe) [non-delivery](na+pratipādanam)
 
 ## mukta-m0-p83-v2071
-[of-rite](yāgasya) [equipment](upaskaraḥ) [purified](pūto) [by-guru](guroḥ) [to-be-taken](grāhyaḥ) [that](sa) [pavilion](maṇḍapaḥ)
+[of-rite](yāgasya) [equipment](upaskaraḥ) [pure](pūtaḥ) [by-guru](guroḥ) [to-be-taken](grāhyaḥ) [that](sa) [pavilion](maṇḍapaḥ)
 
 ## mukta-m0-p83-v2072
-[rule+of-guru+rite](guru+yāga+vidhiḥ) [declared](proktaḥ) [rule+of-siddha-liṅga](siddha+liṅga+vidhiḥ) [established](sthitaḥ)
+[guru+rite+procedure](guru+yāga+vidhiḥ) [declared](proktaḥ) [siddha-liṅga+procedure](siddha+liṅga+vidhiḥ) [established](sthitaḥ)
 
 ## mukta-m0-p83-v2073
-[for-sake+of-grace+to-world](loka+anugraha+hetu+arthaṃ) [by-own](svayaṃ) [manifestation](bhāvāt) [of-self-born](svayaṃ+bhuvaḥ)
+[for-world+favor+purpose](loka+anugraha+hetu+arthaṃ) [by-own](svayaṃ) [nature](bhāvāt) [self-born](svayaṃ+bhuvaḥ)
 
 ## mukta-m0-p83-v2074
-[thousand-fold+fruit](sahasra+phalam) [than-other](anyasmāt) [would-give](dadyāt) [from-installation+and-worship](sthāpana+pūjanāt)
+[thousand-fold+fruit](sahasra+phalam) [than-other](anyasmāt) [gives](dadyāt) [from-installation+worship](sthāpana+pūjanāt)
 
 ## mukta-m0-p83-v2075
-[at-Kanyā-tīrtha](kanyā+tīrthe) [and](ca) [in-Nepāla](nepāle) [at-Mahendra](mahendre) [and](ca) [at-Amareśvara](amareśvare)
+[at-Kanyā-tīrtha](kanyā+tīrthe) [and](ca) [in-Nepal](nepāle) [at-Mahendra](mahendre) [and](ca) [at-Amareśvara](amareśvare)

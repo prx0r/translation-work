@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative of placement; indicates the heart as the locus of installation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "arddhalakṣmīharaye",
+     "gloss": "to-Arddhalakṣmīhari",
+     "grounds": "dative name of the deity addressed; compound arddha-lakṣmī-hari",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "dative apposition specifying the addressed figure as a deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable salutation completing the dative formula",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What salutation formula is to be installed in the heart for the deity Arddhalakṣmīhari?",
+   "premises": [
+    "The wise practitioner installs names ending in the dative case with namaḥ.",
+    "The specified locus of installation is the heart.",
+    "The addressed deity is Arddhalakṣmīhari."
+   ],
+   "inference": "The formula 'obeisance to the deity Arddhalakṣmīhari' is to be placed in the heart.",
+   "uncertainties": [
+    "The exact theological nuance of arddhalakṣmīhari as a specific form is not fully explicit in this verse alone."
+   ],
+   "plain_english": "In the heart, one places the salutation: 'Obeisance to the deity Arddhalakṣmīhari.'"
+  }
+ ]
+}

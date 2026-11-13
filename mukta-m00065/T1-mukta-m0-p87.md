@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p87-v2151
-[with-crest](sacūlyāt) [upward](ūrdhvataḥ) [lotus](padmo) [pot-mouth](ghaṭāsyaṃ) [and](ca) [mango-sprout](āmrapallavi)
+[with-tuft](sacūlyāt) [above](ūrdhvataḥ) [lotus](padmo) [pot-mouth](ghaṭa+āsyam) [and](ca) [mango-sprout](āmra+pallavi)
 
 ## mukta-m0-p87-v2152
-[jewel-placement](ratnanyāsā) [etc.](ādi) [oblation](homaḥ) [and](ca) [mantra-placement](mantranyāsā) [etc.](ādi) [as-before](pūrvavat)
+[jewel-placement](ratna+nyāsa) [etc.](ādi) [oblation](homaḥ) [and](ca) [mantra-placement](mantra+nyāsa) [etc.](ādi) [as-before](pūrva+vat)
 
 ## mukta-m0-p87-v2153
-[one-should-install](sthāpayen) [mantra](mantra) [mū,-a:-mata]( [mū, a: mata]) [difference](bhedataḥ)
+[should-establish](sthāpayet) [by-mantra](mantra) [mū,-a:]( [mū, a:) [opinion](mata) [difference](bheda+taḥ)
 
 ## mukta-m0-p87-v2154
-[two-parts](dvyaṃśaṃ) [three-parts](tryaṃśaṃ) [whole](samastaṃ) [and](ca) [best-etc.](jyeṣṭhā) [in-order](dikramataḥ) [sometimes](kvacit)
+[two-parts](dvi+aṃśam) [three-parts](tri+aṃśam) [whole](samastam) [and](ca) [in-order-of-senior-etc.](jyeṣṭha+ādi+krama+taḥ) [sometimes](kvacit)
 
 ## mukta-m0-p87-v2155
-[having-inserted](prakṣipya) [water-pots](kalaśāḥ) [to-be-made](kāryāḥ) [sometimes](kvacit) [Īśa-etc.](īśā) [beginning-with](ādi) [with-effort](yatnataḥ)
+[having-inserted](prakṣipya) [water-pots](kalaśāḥ) [to-be-made](kāryāḥ) [sometimes](kvacit) [beginning-with-Īśa](īśa+ādi) [with-effort](yatna+taḥ)
 
 ## mukta-m0-p87-v2156
-[in-Viṣṇu-abode](viṣṇudhāmni) [and](ca) [with-discus](cakreṇa) [of-others](anyeṣāṃ) [with-own-weapons](svāyughaiḥ) [also](api)
+[in-Viṣṇu's-abode](viṣṇu+dhāmni) [and](ca) [with-discus](cakreṇa) [of-others](anyeṣām) [with-own-weapons](sva+āyudhaiḥ) [also](api)
 
 ## mukta-m0-p87-v2157
-[Vāmā](vāmā) [Jyeṣṭhā-named](jyeṣṭhāhvayā) [Raudrī](raudrī) [own-power-triad](svaśakti+traya) [arranged](kalpitā)
+[Vāmā](vāmā) [named-Jyeṣṭhā](jyeṣṭhā+āhvayā) [Raudrī](raudrī) [fashioned-by-triad-of-own-powers](sva+śakti+traya+kalpitā)
 
 ## mukta-m0-p87-v2158
-[by-mantra](mantrataḥ)
+[by-mantra](mantra+taḥ)
 
 ## mukta-m0-p87-v2159
-[by-bamboo-sixth-part](karīra+ṣaṣṭha+bhāgena) [discus](cakraṃ) [should-be](syāt) [even](sama) [kh:-sa-ca]( [kh: sa ca]) [circular](vartulam)
+[by-sixth-part-of-bamboo](karīra+ṣaṣṭha+bhāgena) [discus](cakram) [should-be](syāt) [even](sama) [kh:]( [kh:) [and](sa) [that](ca) [circular](vartulam)
 
 ## mukta-m0-p87-v2160
-[of-Cūlikā-and-other-deities](cūlikā+itara+devānāṃ) [to-be-installed](sthāpanīyāḥ) [according-to-measure](pramāṇataḥ)
+[of-gods-other-than-Cūlikā](cūlikā+itara+devānām) [to-be-established](sthāpanīyāḥ) [according-to-measure](pramāṇa+taḥ)
 
 ## mukta-m0-p87-v2161
-[blue-lotus-petal-luster](indīvara+dala+ābhā) [she](sā) [with-own-seeds](svabījaiḥ) [Cūlikā](cūlikā) [always](sadā)
+[having-luster-of-blue-lotus-petal](indīvara+dala+ābhā) [she](sā) [with-own-seeds](sva+bījaiḥ) [Cūlikā](cūlikā) [always](sadā)
 
 ## mukta-m0-p87-v2162
-[is-taken](gṛhyate) [complete](sakalā) [always](nityaṃ) [with-gift-oblation-etc.](dāna+homa+ādibhiḥ) [together](saha)
+[is-taken](gṛhyate) [complete](sakalā) [always](nityam) [with-gift-oblation-etc.](dāna+homa+ādibhiḥ) [together](saha)
 
 ## mukta-m0-p87-v2163
-[likewise](tathā) [for-dharma-fruit-purpose](dharma+phala+arthāya) [with-abode-tree-banner](dhāma+vṛkṣa+dhvajena) [indeed](tu)
+[likewise](tathā) [for-sake-of-fruit-of-dharma](dharma+phala+arthāya) [by-temple-tree-banner](dhāma+vṛkṣa+dhvajena) [indeed](tu)
 
 ## mukta-m0-p87-v2164
-[according-to-various-āgamas](nānā+āgama+anusāreṇa) [briefly](leśataḥ) [that](taṃ) [I-speak](vadāmi) [now](ataḥ)
+[according-to-various-Āgamas](nānā+āgama+anusāreṇa) [briefly](leśa+taḥ) [that](tam) [I-speak](vadāmi) [now](ataḥ)
 
 ## mukta-m0-p87-v2165
-[of-abode](dhāmno) [twice-length](dviguṇa+dairghyaḥ) [should-be](syāt) [from-half-and-half](sārdha+ardhāt) [equal-to-that](tatsamo) [banner](dhvajaḥ)
+[of-temple](dhāmnaḥ) [twice-length](dvi+guṇa+dairghyaḥ) [should-be](syāt) [from-one-and-a-half-or-half-of-that](sa+ardha+ardhāt) [equal-to-that](tat+samaḥ) [banner](dhvajaḥ)
 
 ## mukta-m0-p87-v2166
-[for-all-purpose-peace](sarva+artha+śāntaye) [white](śuklaḥ) [for-desire-purpose](kāma+arthe) [direction-lord-colored](dikpati+prabhaḥ)
+[for-pacification-of-all-purposes](sarva+artha+śāntaye) [white](śuklaḥ) [for-desire-purpose](kāma+arthe) [having-color-of-direction-lords](dik+pati+prabhaḥ)
 
 ## mukta-m0-p87-v2167
-[with-own-deity-forms](svadeva+rūpakaiḥ) [variegated](citraḥ) [with-own-power](svaśaktyā) [adorned](śobhitaḥ) [sometimes](kvacit)
+[variegated-with-forms-of-own-deity](sva+deva+rūpakaiḥ) [adorned](citraḥ) [by-own-power](sva+śaktyā) [beautified](śobhitaḥ) [sometimes](kvacit)
 
 ## mukta-m0-p87-v2168
 [śirbhkau]](śirbhkau])
 
 ## mukta-m0-p87-v2169
-[in-peace-rite](śāntihome) [when-performed](kṛte) [happiness](saukhyaṃ) [by-southern-face](dakṣiṇāsyena) [mū:-dyena]( [mū: dyena]) [not-otherwise](nānyathā)
+[when-peace-oblation](śānti+home) [is-done](kṛte) [happiness](saukhyam) [by-southern-face](dakṣiṇa+āsyena) [mū:]( [mū:) [dyena](dyena) [not](na) [otherwise](anyathā)
 
 ## mukta-m0-p87-v2170
-[in-northeast](aiśāne) [or](vā) [place](pradeśe) [and](ca) [in-northwest](mārute) [or](vā) [otherwise](anyathā) [others](apare)
+[in-northeastern](aiśāne) [or](vā) [place](pradeśe) [and](ca) [in-northwestern](mārute) [or](vā) [otherwise](anyathā) [others](apare)
 
 ## mukta-m0-p87-v2171
-[above-mentioned](utta) [mū:-ukta]( [mū: ukta]) [etc.-banner-support](mādi+dhvajā+dhāraṃ) [by-head-half](mastaka+ardhena) [or](vā) [sometimes](kvacit)
+[above-mentioned](utta) [mū:]( [mū:) [mentioned](ukta) [banner-support](ādi+dhvaja+ādhāram) [by-half-of-head](mastaka+ardhena) [or](vā) [sometimes](kvacit)
 
 ## mukta-m0-p87-v2172
-[lords-of-worlds](bhuvaneśān) [again](punas) [there](tatra) [for-obstacle-destruction](vighna+nāśāya) [for-success](siddhaye)
+[lords-of-worlds](bhuvana+īśān) [again](punaḥ) [there](tatra) [for-destruction-of-obstacles](vighna+nāśāya) [for-success](siddhaye)
 
 ## mukta-m0-p87-v2173
-[having-properly-meditated](samyāg+dhyātvā) [kh:-jñātvā]( [kh: jñātvā]) [indeed](tu) [them-all](tān+sarvān) [then](tatas) [should-install](tu+āropayet) [teacher](guruḥ)
+[having-properly-meditated](samyāk+dhyātvā) [kh:]( [kh:) [having-known](jñātvā) [indeed](tu) [all-those](tān+sarvān) [then](tataḥ) [should-install](āropayet) [teacher](guruḥ)
 
 ## mukta-m0-p87-v2174
-[Aghora](aghoram) [or](atha) [Śaiva](śaivaṃ) [or](vā) [or](yadvā) [Pāśupata](pāśupataṃ) [great](mahat)
+[Aghora](aghoram) [or](atha) [Śaiva](śaivam) [or](vā) [or](yadvā) [Pāśupata](pāśupatam) [great](mahat)
 
 ## mukta-m0-p87-v2175
-[fragrance-etc.](gandhā) [beginning-with](ādi) [with-Brahma-skull](brahma+muṇḍena) [one-should-give](dadyāt) [with-lord-of-knowledge](vidyādhipena) [or](vā)
+[fragrance-etc.](gandha+ādi) [with-Brahma-skull](brahma+muṇḍena) [should-give](dadyāt) [with-lord-of-knowledge](vidyā+adhipena) [or](vā)
