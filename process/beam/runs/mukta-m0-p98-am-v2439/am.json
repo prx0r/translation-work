@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2439,
- "question": "By what hierarchical distinctions is the following practice structured?",
+ "question": "For what purpose do attendants continually come reverently to the god?",
  "premises": [
-  "Distinctions of higher and lower are invoked",
-  "Distinctions of primary and secondary are invoked",
-  "These distinctions operate by division"
+  "Attendants come continually",
+  "They come with reverence",
+  "Their purpose is to propitiate the god"
  ],
- "inference": "The practice is organized according to graded hierarchical distinctions.",
- "uncertainties": [],
- "plain_english": "By the distinction of higher and lower, and by the division of primary and secondary."
+ "inference": "Therefore they always come reverently to propitiate the god.",
+ "uncertainties": [
+  "The subject of āyānti is implied from the previous verse."
+ ],
+ "plain_english": "And they always come reverently for the purpose of propitiating the god."
 }

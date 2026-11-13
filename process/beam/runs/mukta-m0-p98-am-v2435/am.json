@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p98",
  "verse": 2435,
- "question": "What majestic imagery conveys the grandeur of this goddess?",
+ "question": "Where is the next sacred presence located relative to the previously mentioned goddess?",
  "premises": [
-  "The goddess resembles the lord of snow mountains",
-  "She rides an excellent lord of elephants"
+  "The reference point is her location",
+  "The direction is toward Kubera's quarter",
+  "The presence is situated not far away"
  ],
- "inference": "This goddess is depicted with majestic, mountain-like and royal elephant imagery.",
- "uncertainties": [],
- "plain_english": "She resembles the lord of snow mountains and rides an excellent lord of elephants."
+ "inference": "Therefore the presence is situated not far from her in Kubera's direction.",
+ "uncertainties": [
+  "The subject of vyavasthitaḥ is implied from context."
+ ],
+ "plain_english": "Not far from her, in the direction of Kubera, he is situated."
 }
