@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "pronoun"
+   "morph": "pron.nom.sg.m",
+   "grounds": "pronoun nominative"
   },
   {
    "lemma": "deha+tyakta+mātreṇa",
-   "morph": "m.ins.sg",
+   "morph": "compound",
    "grounds": "compound instrumental"
   },
   {
    "lemma": "paraṃ",
-   "morph": "m.nom.sg",
-   "grounds": "adjective"
+   "morph": "adj.acc.sg.n",
+   "grounds": "adjective accusative"
   },
   {
    "lemma": "śivo",
-   "morph": "m.nom.sg",
-   "grounds": "noun"
+   "morph": "n.nom.sg.m",
+   "grounds": "nominative of śiva"
   },
   {
    "lemma": "nigadyate",
-   "morph": "3.sg.pass-pres",
-   "grounds": "passive verb"
+   "morph": "3.sg.pass-pres + nigad",
+   "grounds": "passive of nigad"
   }
  ]
 }

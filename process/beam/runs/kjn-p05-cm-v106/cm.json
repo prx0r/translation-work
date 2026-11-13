@@ -4,43 +4,43 @@
  "rows": [
   {
    "lemma": "kasmiṃś",
-   "morph": "m.loc.sg",
+   "morph": "pron.loc.sg",
    "grounds": "interrogative locative"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conjunction"
+   "grounds": "indeclinable particle"
   },
   {
    "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "particle"
+   "grounds": "indeclinable particle"
   },
   {
    "lemma": "layaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "noun"
+   "morph": "n.acc.sg.m",
+   "grounds": "accusative of laya"
   },
   {
    "lemma": "yāti",
-   "morph": "3.sg.act-pres",
-   "grounds": "verb"
+   "morph": "3.sg.act-pres + yā",
+   "grounds": "verb yā"
   },
   {
    "lemma": "tat+sarvaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound"
+   "morph": "compound",
+   "grounds": "compound accusative"
   },
   {
    "lemma": "kathayasva",
-   "morph": "2.sg.act-imp",
-   "grounds": "imperative"
+   "morph": "2.sg.act-imp + kathay",
+   "grounds": "imperative of kathay"
   },
   {
    "lemma": "me",
-   "morph": "m.dat.sg",
-   "grounds": "pronoun"
+   "morph": "pron.dat.sg",
+   "grounds": "dative of aham"
   }
  ]
 }
