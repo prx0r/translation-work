@@ -1,13 +1,16 @@
 {
  "song": "kjn-p16",
  "verse": 390,
- "question": "What wondrous effect arises when this practice is mastered step by step?",
+ "question": "What kind of result is claimed to arise when practice is carried out in a stepwise manner rather than all at once?",
  "premises": [
-  "The context is practice.",
-  "The practice becomes mastered step by step.",
-  "It produces great wonder."
+  "The locus of effect is practice itself.",
+  "What is practiced is characterized as step-practiced.",
+  "That which arises from it is characterized as great-wonder-causing."
  ],
- "inference": "When practiced and mastered step by step, it produces great wonder.",
- "uncertainties": [],
- "plain_english": "Indeed, when practiced step by step, it becomes a cause of great wonder."
+ "inference": "In this instruction, efficacy is attributed to graduated, stepwise practice, and its fruit is said to be a cause of great wonder.",
+ "uncertainties": [
+  "The exact referent of 'step-practiced' (a posture, a mantra-step, or a sequence) cannot be determined from these tokens alone.",
+  "The scope of 'great wonder' is not specified in this verse."
+ ],
+ "plain_english": "Indeed, in practice, what is practiced step by step brings about great wonder."
 }

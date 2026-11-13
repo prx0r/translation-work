@@ -6,40 +6,40 @@
    "rows": [
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
-     "gloss": "forehead-letter-mass-situated",
-     "grounds": "compound: lalāṭa (forehead) + varṇa (letter) + rāśi (mass) + stha (situated); describes the locus of the practice",
-     "morph": "compound.adj.acc.sg.n"
+     "gloss": "situated-in-forehead-letter-mass",
+     "grounds": "compound: lalāṭa (forehead) + varṇa (letter) + rāśi (mass) + stha (situated); qualifies lakṣaṃ",
+     "morph": "compound.adj.acc.sg.nt"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numerical measure indicating the required count of repetitions",
-     "morph": "n.acc.sg"
+     "grounds": "numerical measure of the enjoined act",
+     "morph": "n.acc.sg.nt"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-performed",
-     "grounds": "absolutive indicating completion of the prescribed act",
+     "grounds": "absolutive indicating completion of the act",
      "morph": "gerund.(kṛ)"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "god-worshipped-one",
-     "grounds": "compound vocative: sura (god) + arcita (worshipped); address to the qualified recipient",
-     "morph": "compound.m.voc.sg"
+     "gloss": "o-god-worshipped-one",
+     "grounds": "compound vocative: sura (god) + arcita (worshipped); addresses the practitioner",
+     "morph": "compound.voc.sg.m"
     }
    ],
-   "question": "What repeated practice at the forehead-letter locus fulfills the guarded Kaula transmission?",
+   "question": "What hundred-thousandfold act at the forehead letter-mass is enjoined for the god-worshipped practitioner?",
    "premises": [
-    "The prescribed act is situated in the forehead's mass of letters.",
-    "The act must be performed a hundred-thousand times.",
-    "The instruction addresses one honored by the gods."
+    "A hundred-thousandfold act is prescribed.",
+    "This act is situated in the forehead letter-mass.",
+    "The instruction is addressed to a god-worshipped practitioner."
    ],
-   "inference": "A hundred-thousandfold performance at the forehead-letter locus completes the guarded Kaula practice.",
+   "inference": "The god-worshipped practitioner must perform a hundred-thousandfold act at the forehead letter-mass.",
    "uncertainties": [
-    "Whether lakṣaṃ specifies mantra repetitions, offerings, or another counted act is not explicit in this verse alone."
+    "The precise nature of the act counted as lakṣaṃ is not specified in this verse."
    ],
-   "plain_english": "O one worshipped by the gods, having performed a hundred thousand times what is situated in the mass of letters on the forehead."
+   "plain_english": "O one worshipped by the gods, having performed a hundred thousand at the mass of letters situated in the forehead."
   }
  ]
 }

@@ -1,13 +1,16 @@
 {
  "song": "kjn-p16",
  "verse": 395,
- "question": "What cosmic totality is encompassed in the vision described by these compounds?",
+ "question": "What object is being described by these two adjectival compounds, and is that object asserted or merely characterized here?",
  "premises": [
-  "The vision includes constellations and stars.",
-  "It encompasses the cosmic egg or universe.",
-  "The whole is presented as a complete totality."
+  "Two fused adjectival compounds are given in sequence.",
+  "No noun is expressed within verse 395.",
+  "Characterization is of something endowed with stars and encompassed in relation to the universe."
  ],
- "inference": "The described vision encompasses the entire universe endowed with constellations and stars.",
- "uncertainties": [],
- "plain_english": "The universe, endowed with constellations and stars and fully encompassed."
+ "inference": "Verse 395 is purely attributive: it characterizes an unexpressed object (to be supplied by context, possibly from 394 or 396), without asserting existence or action by itself.",
+ "uncertainties": [
+  "The head noun is ellipted and cannot be recovered with certainty from these two tokens alone.",
+  "It is undecidable whether the description is cosmological, mandalic, or of a subtle object in this practice."
+ ],
+ "plain_english": "Endowed with constellations and stars, encompassed as the universe."
 }

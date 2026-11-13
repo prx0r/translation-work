@@ -1,13 +1,16 @@
 {
  "song": "kjn-p16",
  "verse": 391,
- "question": "For whom is there no doubt about the result of this teaching?",
+ "question": "For whom is doubt ruled out in this teaching about the practice just stated?",
  "premises": [
-  "The result comes to be.",
-  "There is no doubt in this matter.",
-  "This applies to those devoted to constant practice."
+  "A positive claim about the practice is in force from the preceding context.",
+  "Doubt is negated here.",
+  "The negation is restricted to those devoted to constant practice."
  ],
- "inference": "For those devoted to constant practice, there is no doubt about this result.",
- "uncertainties": [],
- "plain_english": "There is no doubt here for those devoted to constant practice."
+ "inference": "The verse does not rule out doubt in general, but rules it out for those who are devoted to constant practice.",
+ "uncertainties": [
+  "The exact claim from which doubt would arise is not present in verse 391 itself and must be inferred from 390.",
+  "No criterion beyond 'devoted to constant practice' is given here."
+ ],
+ "plain_english": "For those devoted to constant practice, there is no doubt here."
 }

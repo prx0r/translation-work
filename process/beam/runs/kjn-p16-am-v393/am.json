@@ -1,13 +1,16 @@
 {
  "song": "kjn-p16",
  "verse": 393,
- "question": "Which major deities are included in the vision or dominion described here?",
+ "question": "What function does this series of deities serve in the argument of the passage, given that it is listed rather than described?",
  "premises": [
-  "Brahma, Viṣṇu, Yama, and Indra are named.",
-  "Varuṇa is named.",
-  "Vāyu is named."
+  "A fixed series of major deities is enumerated.",
+  "Copulatives and eva mark the list as a complete or emphatic set.",
+  "No predicates of action are supplied by verse 393 itself."
  ],
- "inference": "The verse enumerates major deities including Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu.",
- "uncertainties": [],
- "plain_english": "Brahma, Viṣṇu, Yama, and Indra, and also Varuṇa and Vāyu."
+ "inference": "Verse 393 functions enumeratively: it presents a set of deities as a given list in this instruction, with its argumentative force depending on the surrounding verses rather than on internal predication.",
+ "uncertainties": [
+  "The syntactic role of this list (subject of an unexpressed verb, witnesses, or recipients) cannot be fixed from these six tokens alone.",
+  "No individual function is assigned to any deity here."
+ ],
+ "plain_english": "Brahmā, Viṣṇu, Yama, and Indra, and Varuṇa and Vāyu indeed, and also..."
 }
