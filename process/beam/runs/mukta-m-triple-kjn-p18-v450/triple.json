@@ -7,51 +7,51 @@
     {
      "surface": "kṣīrādā",
      "gloss": "milk-from",
-     "grounds": "legacy hint milk+from",
-     "morph": "(indecl.)"
+     "grounds": "surface as given; legacy hint milk+from",
+     "morph": "indecl."
     },
     {
      "surface": "....",
-     "gloss": "unknown",
-     "grounds": "token supplied as ellipsis",
-     "morph": "unknown"
+     "gloss": "ellipsis",
+     "grounds": "placeholder token as given; legacy hint ....",
+     "morph": "indecl."
     },
     {
      "surface": "viplakāraiḥ",
      "gloss": "with-fillings",
-     "grounds": "legacy hint with-fillings",
+     "grounds": "surface as given; legacy hint with-fillings",
      "morph": "m.instr.pl"
     },
     {
      "surface": "pūrayet",
      "gloss": "should-fill",
-     "grounds": "legacy hint should-fill",
-     "morph": "3.sg.act.opt"
+     "grounds": "surface as given; legacy hint should-fill",
+     "morph": "3.sg.act.opt."
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "legacy hint that+body",
-     "morph": "m.acc.sg"
+     "grounds": "surface as given; legacy hint that+body",
+     "morph": "f.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "legacy hint always",
-     "morph": "(indecl.)"
+     "grounds": "surface as given; legacy hint always",
+     "morph": "indecl."
     }
    ],
-   "question": "How should the practitioner always fill that body with milk and fillings?",
+   "question": "How should the body be filled always according to this instruction?",
    "premises": [
-    "Milk is taken from source",
-    "Fillings accompany the filling",
-    "Body is filled always"
+    "milk is the source",
+    "fillings complete the body",
+    "practice is constant"
    ],
-   "inference": "The body should be filled always with milk and fillings.",
+   "inference": "the body is always filled from milk with fillings",
    "uncertainties": [
-    "Second token is ellipsized in the supplied list"
+    "second token is illegible"
    ],
-   "plain_english": "Always fill that body with milk and fillings."
+   "plain_english": "From milk ... with fillings one should always fill that body."
   }
  ]
 }

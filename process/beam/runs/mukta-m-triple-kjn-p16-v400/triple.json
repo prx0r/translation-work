@@ -7,39 +7,39 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "forehead-syllable-mass-situated",
-     "grounds": "compound of lalāṭa, varṇa, rāśi, and stha; situated in the forehead-syllable mass",
-     "morph": "adj.nom.sg.n"
+     "grounds": "compound of lalāṭa, varṇa, rāśi, and stha; situated in the forehead syllable mass",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numeral lakṣa in accusative",
+     "grounds": "lakṣa numeral in accusative",
      "morph": "num.acc.sg.n"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "absolutive of root kṛ",
-     "morph": "absolutive (kṛ)"
+     "grounds": "gerund from root kṛ",
+     "morph": "gerund"
     },
     {
      "surface": "sura+arcite",
-     "gloss": "god-worshipped",
-     "grounds": "compound of sura and arcita in vocative",
+     "gloss": "O-god-worshipped",
+     "grounds": "compound of sura and arcita; vocative address",
      "morph": "voc.sg.m"
     }
    ],
-   "question": "What must be done one hundred thousand times in the forehead-syllable mass for the god-worshipped?",
+   "question": "What ritual quantity must be completed in the forehead syllable mass for the worshipped god?",
    "premises": [
-    "One hundred thousand repetitions are prescribed.",
-    "They are situated in the forehead-syllable mass.",
-    "The rite is addressed to the god-worshipped."
+    "forehead syllable mass is the locus",
+    "hundred thousand is the quantity",
+    "completion is expressed by kṛtya"
    ],
-   "inference": "The practitioner must complete one hundred thousand repetitions in the forehead-syllable mass for the worshipped god.",
+   "inference": "The verse states that a hundred thousand must be done in the forehead syllable mass, addressing the worshipped god.",
    "uncertainties": [
-    "The exact ritual referent of forehead-syllable mass is not specified."
+    "exact ritual referent of the hundred thousand is not specified"
    ],
-   "plain_english": "Having done one hundred thousand [repetitions] situated in the forehead-syllable mass, O god-worshipped."
+   "plain_english": "Having done a hundred thousand in the forehead syllable mass, O worshipped god."
   }
  ]
 }
