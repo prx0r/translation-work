@@ -3,29 +3,39 @@
  "verse": 2726,
  "rows": [
   {
-   "lemma": "namo",
+   "lemma": "tān",
+   "morph": "m.acc.pl",
+   "grounds": "accusative plural of demonstrative"
+  },
+  {
+   "lemma": "nṛpaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject of punishment"
+  },
+  {
+   "lemma": "tīvra+daṇḍena",
+   "morph": "compound: tīvra+daṇḍa, m.inst.sg",
+   "grounds": "instrument of discipline"
+  },
+  {
+   "lemma": "śāsyāt",
+   "morph": "3.sg.act-opt of śās",
+   "grounds": "optative injunction"
+  },
+  {
+   "lemma": "tathā",
    "morph": "(indecl.)",
-   "grounds": "salutation formula"
+   "grounds": "connects further action"
   },
   {
-   "lemma": "bhagavate",
-   "morph": "m.dat.sg",
-   "grounds": "recipient of salutation"
+   "lemma": "deśāt",
+   "morph": "m.abl.sg",
+   "grounds": "place of expulsion"
   },
   {
-   "lemma": "paścād",
-   "morph": "(indecl.)",
-   "grounds": "sequence marker"
-  },
-  {
-   "lemma": "vāsudevāya",
-   "morph": "m.dat.sg",
-   "grounds": "divine name"
-  },
-  {
-   "lemma": "tat+param",
-   "morph": "compound: tat+param",
-   "grounds": "compound qualifier"
+   "lemma": "niryāpayet",
+   "morph": "3.sg.act-opt of nir-yā (caus.)",
+   "grounds": "optative injunction"
   }
  ]
 }

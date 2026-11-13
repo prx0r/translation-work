@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[unfathomable](agādhā) [unfathomable](agādhā) [unfathomable](agādhā) [unfathomable](agādhā)
+[unfathomable](agādhā)
 
 ## mukta-m0-p89-v2202
 [not](na) [or](vā) [Bhavānī](bhavānī) [not](nahi) [she](sā) [is](asti) [unfathomable](agādhā)
 
 ## mukta-m0-p89-v2203
-[serpent](nāga) [+](+) [earring](kuṇḍalā) [serpent](nāga) [+](+) [earring](kuṇḍalā)
+[serpent+earringed](nāga+kuṇḍalā)
 
 ## mukta-m0-p89-v2204
-[gold](suvarṇa) [+](+) [earring](kuṇḍalā) [serpent](nāga) [+](+) [earring](kuṇḍalā) [like](iva) [shines](virājate)
+[golden+earringed](suvarṇa+kuṇḍalā) [serpent+earringed](nāga+kuṇḍalā) [like](iva) [shines](virājate)
 
 ## mukta-m0-p89-v2205
-[having-good](su) [+](+) [discus](cakrā) [having-good](su) [+](+) [discus](cakrā) [having-good](su) [+](+) [discus](cakrā) [having-good](su) [+](+) [discus](cakrā)
+[having-beautiful-disc](su+cakrā)
 
 ## mukta-m0-p89-v2206
-[in-good](su) [+](+) [empty](śūnya) [+](+) [circle](cakre) [is-worshipped](paripūjyate) [who](yā) [by-lords-of-circles](cakreśvaraiḥ) [she](sā) [be](astu) [on-all-sides](abhitaḥ) [having-good](su) [+](+) [discus](cakrā)
+[in-beautiful+empty+circle](su+śūnya+cakre) [is-worshipped](paripūjyate) [who](yā) [by-lords-of-circles](cakra+īśvaraiḥ) [she](sā) [may-be](astu) [on-all-sides](abhitaḥ) [having-beautiful-disc](su+cakrā)
 
 ## mukta-m0-p89-v2207
-[circle](cakra) [+](+) [middle](madhya) [+](+) [standing](sthā) [circle](cakra) [+](+) [middle](madhya) [+](+) [standing](sthā) [circle](cakra) [+](+) [middle](madhya) [+](+) [standing](sthā) [circle](cakra) [+](+) [middle](madhya) [+](+) [standing](sthā)
+[circle+middle+dwelling](cakra+madhya+sthā)
 
 ## mukta-m0-p89-v2208
-[discus](cakra) [+](+) [holding](hastā) [auspicious](śivā) [circle](cakra) [+](+) [middle](madhya) [+](+) [standing](sthā) [indeed](eva) [is-victorious](jayati) [she](asau)
+[disc+handed](cakra+hastā) [auspicious](śivā) [circle+middle+dwelling](cakra+madhya+sthā) [indeed](eva) [triumphs](jayati) [this-one](asau)
 
 ## mukta-m0-p89-v2209
-[circle](cakra) [+](+) [corner](koṇa) [+](+) [dwelling](nivāsinī) [circle](cakra) [+](+) [corner](koṇa) [+](+) [dwelling](nivāsinī) [circle](cakra) [+](+) [corner](koṇa) [+](+) [dwelling](nivāsinī) [circle](cakra) [+](+) [corner](koṇa) [+](+) [dwelling](nivāsinī)
+[circle+corner+dwelling](cakra+koṇa+nivāsinī)
 
 ## mukta-m0-p89-v2210
-[spread-out](vitataṃ) [he](sa) [how](kathaṃ) [not](na) [indeed](eva) [universal-sovereignty](cakravartitvam) [may-obtain](āpnuyāt)
+[spread-out](vitataṃ) [he](saḥ) [how](kathaṃ) [not](na) [indeed](eva) [universal-sovereignty](cakra+vartitvam) [may-obtain](āpnuyāt)
 
 ## mukta-m0-p89-v2211
-[all](sarva) [+](+) [mantra](mantra) [+](+) [consisting-of](mayī) [knowledge](vidyā) [all](sarva) [+](+) [mantra](mantra) [+](+) [consisting-of](mayī) [knowledge](vidyā)
+[all+mantra+consisting-of](sarva+mantra+mayī) [knowledge](vidyā)
 
 ## mukta-m0-p89-v2212
-[all](sarva) [+](+) [mantra](mantra) [+](+) [consisting-of](mayī) [knowledge](vidyā) [in-the-heart](hṛdi) [today](adya) [indeed](eva) [here](atra) [may-be-accomplished](siddhyatu)
+[all+mantra+consisting-of](sarva+mantra+mayī) [knowledge](vidyā) [in-the-heart](hṛdi) [today](adya) [indeed](eva) [here](atra) [may-be-accomplished](siddhyatu)
 
 ## mukta-m0-p89-v2213
-[all](sarva) [+](+) [mantra](mantra) [+](+) [syllable](akṣara) [+](+) [row](āvaliḥ) [all](sarva) [+](+) [mantra](mantra) [+](+) [syllable](akṣara) [+](+) [row](āvaliḥ)
+[all+mantra+syllable+series](sarva+mantra+akṣara+āvaliḥ)
 
 ## mukta-m0-p89-v2214
-[all](sarvā) [she](sā) [indeed](eva) [is](asti) [everywhere](sarvatra) [all](sarva) [+](+) [mantra](mantra) [+](+) [syllable](akṣara) [+](+) [row](āvaliḥ)
+[all](sarvā) [she](sā) [indeed](eva) [is](asti) [everywhere](sarvatra) [all+mantra+syllable+series](sarva+mantra+akṣara+āvaliḥ)
 
 ## mukta-m0-p89-v2215
-[honey](madhu) [+](+) [flowing](sravā) [honey](madhu) [+](+) [flowing](sravā) [honey](madhu) [+](+) [flowing](sravā) [honey](madhu) [+](+) [flowing](sravā)
+[honey+flowing](madhu+sravā)
 
 ## mukta-m0-p89-v2216
-[honey](madhu) [+](+) [flowing](sravā) [this](iyam) [honey](madhu) [+](+) [possessing](mat) [+](+) [to-be-served](niṣevyā) [may-give](dadātu) [accomplishment](siddhiṃ) [honey](madhu) [+](+) [possessing](matī) [+](+) [unsurpassed](anūdyām)
+[honey+flowing](madhu+sravā) [this](iyam) [honey+like](madhu+mat) [to-be-resorted-to](niṣevyā) [may-give](dadātu) [accomplishment](siddhiṃ) [honey-possessing](madhu+matī) [unsurpassed](anūdyām)
 
 ## mukta-m0-p89-v2217
-[flowing](sravantī) [flowing](sravantī) [flowing](sravantī) [flowing](sravantī)
+[flowing-stream](sravantī)
 
 ## mukta-m0-p89-v2218
-[which](yat) [extends](tanoti) [indeed](eva) [some](kaḥ) [indeed](api) [this](eṣa) [flowing-river](sravantī) [+](+) [proximity](sannidheḥ) [rite](vidhiḥ)
+[which](yat) [extends](tanoti) [indeed](eva) [some](kaḥ) [also](api) [this](eṣaḥ) [flowing-stream+presence](sravantī+sannidheḥ) [rite](vidhiḥ)
 
 ## mukta-m0-p89-v2219
-[bee-goddess](bhrāmarī) [bee-goddess](bhrāmarī) [bee-goddess](bhrāmarī) [bee-goddess](bhrāmarī)
+[bee-goddess](bhrāmarī)
 
 ## mukta-m0-p89-v2220
-[she](sā) [bee-goddess](bhrāmarī) [make-wander](bhrāmaya) [bad](dur) [+](+) [delusion](bhramaṃ) [of-us](naḥ)
+[she](sā) [bee-goddess](bhrāmarī) [dispel](bhrāmaya) [bad+delusion](dur+bhramaṃ) [of-us](naḥ)
 
 ## mukta-m0-p89-v2221
-[bee](bhramara) [+](+) [locks](alakā) [bee](bhramara) [+](+) [locks](alakā) [bee](bhramara) [+](+) [locks](alakā) [bee](bhramara) [+](+) [locks](alakā)
+[bee+locks](bhramara+alakā)
 
 ## mukta-m0-p89-v2222
-[enough](alaṃ) [to-kill](hantum) [enough](alaṃ) [seen](dṛṣṭaṃ) [young-girl](bālā) [she](sā) [bee](bhramara) [+](+) [locks](alakā)
+[enough](alaṃ) [to-kill](hantum) [enough](alaṃ) [to-see](dṛṣṭaṃ) [young-girl](bālā) [she](sā) [bee+locks](bhramara+alakā)
 
 ## mukta-m0-p89-v2223
-[mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [middle](madhya) [+](+) [standing](sthā) [mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [middle](madhya) [+](+) [standing](sthā) [mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [middle](madhya) [+](+) [standing](sthā) [mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [middle](madhya) [+](+) [standing](sthā)
+[mother+circle+middle+dwelling](mātṛ+maṇḍala+madhya+sthā)
 
 ## mukta-m0-p89-v2224
-[mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [middle](madhya) [+](+) [standing](sthā) [circle](maṇḍala) [+](+) [lordship](indratva) [+](+) [giving](dā) [be](astu) [to-us](naḥ)
+[mother+circle+middle+dwelling](mātṛ+maṇḍala+madhya+sthā) [circle+lordship+giving](maṇḍala+indra+tva+dā) [may-be](astu) [to-us](naḥ)
 
 ## mukta-m0-p89-v2225
-[mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [dwelling](vāsinī) [mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [dwelling](vāsinī) [mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [dwelling](vāsinī) [mother](mātṛ) [+](+) [circle](maṇḍala) [+](+) [dwelling](vāsinī)
+[mother+circle+dwelling](mātṛ+maṇḍala+vāsinī)

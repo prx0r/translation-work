@@ -3,34 +3,29 @@
  "verse": 268,
  "rows": [
   {
-   "lemma": "tad",
-   "morph": "n.nom.sg",
-   "grounds": "demonstrative pronoun referring to prior process"
+   "lemma": "cidbrahma",
+   "morph": "compound",
+   "grounds": "compound: cit+consciousness, brahma+brahman"
   },
   {
-   "lemma": "idaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "demonstrative pronoun identifying the subject"
+   "lemma": "ekaṃ brahma",
+   "morph": "n.nom.sg + n.nom.sg",
+   "grounds": "phrase: ekaṃ+one, brahma+brahman"
   },
   {
-   "lemma": "samudāya+pūrvakaṃ",
-   "morph": "n.nom.sg (compound: samudāya+pūrvaka)",
-   "grounds": "describes the wheel's formation; compound samudāya+pūrvaka"
+   "lemma": "saccit",
+   "morph": "compound",
+   "grounds": "compound: sat+being, cit+consciousness"
   },
   {
-   "lemma": "kila",
+   "lemma": "cidekam",
+   "morph": "compound",
+   "grounds": "compound: cit+consciousness, ekam+one"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "particle indicating traditional assertion"
-  },
-  {
-   "lemma": "vṛnda+krama+cakram",
-   "morph": "n.nom.sg (compound: vṛnda+krama+cakra)",
-   "grounds": "name of the wheel; compound vṛnda+krama+cakra"
-  },
-  {
-   "lemma": "ucyate",
-   "morph": "3.sg.pres.pass (√vac)",
-   "grounds": "passive present denoting designation"
+   "grounds": "quotation marker"
   }
  ]
 }

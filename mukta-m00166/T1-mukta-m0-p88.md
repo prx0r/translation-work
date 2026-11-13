@@ -5,73 +5,73 @@
 [eldest](jyeṣṭhā) [most-excellent](vasiṣṭhā) [is](asti) [always](sadā) [indeed](api) [she](sā) [alone](eva)
 
 ## mukta-m0-p88-v2177
-[most-excellent](śreṣṭhā) [most-excellent](śreṣṭhā) [most-excellent](śreṣṭhā) [most-excellent](śreṣṭhā)
+[most-excellent](śreṣṭhā) [supreme](śreṣṭhā) [best](śreṣṭhā) [preeminent](śreṣṭhā)
 
 ## mukta-m0-p88-v2178
-[most-excellent](śreṣṭhā) [may-be](astu) [for-us](naḥ) [own+desire+fulfilling](sva+iṣṭa+karī) [most-firm](sthaviṣṭhā)
+[most-excellent](śreṣṭhā) [be](astu) [for-us](naḥ) [own+desire+fulfilling](sveṣṭa+karī) [most-firm](sthaviṣṭhā)
 
 ## mukta-m0-p88-v2179
-[netherworld+dwelling](pātāla+vāsinī) [netherworld+dwelling](pātāla+vāsinī) [netherworld+dwelling](pātāla+vāsinī) [netherworld+dwelling](pātāla+vāsinī)
+[netherworld+dwelling](pātāla+vāsinī) [she](sā) [goddess](devī) [residing-below](pātālavāsinī)
 
 ## mukta-m0-p88-v2180
-[most-highly](sarvoccaiḥ) [what](kiṃ) [of-Bali](baleḥ) [became](bhūtā) [for-satisfaction](tuṣṭyai) [netherworld+dwelling](pātāla+vāsinī)
+[most-highly](sarvoccaiḥ) [why](kiṃ) [of-Bali](baleḥ) [became](bhūtā) [for-satisfaction](tuṣṭyai) [netherworld+dwelling](pātāla+vāsinī)
 
 ## mukta-m0-p88-v2181
-[investigation](mīmāṃsā) [investigation](mīmāṃsā) [investigation](mīmāṃsā) [investigation](mīmāṃsā)
+[inquiry](mīmāṃsā) [investigation](mīmāṃsā) [exegesis](mīmāṃsā) [reflection](mīmāṃsā)
 
 ## mukta-m0-p88-v2182
-[investigation](mīmāṃsā) [this](eṣā) [wise-men+group+resounded](manīṣi+prakaraṇa+raṇitaṃ) [speech+play](vāg+vilāsaṃ) [may-give](dadātu)
+[inquiry](mīmāṃsā) [this](eṣā) [wise-men+group+resounded](manīṣi+prakaraṇa+raṇitaṃ) [speech+play](vāg+vilāsaṃ) [may-give](dadātu)
 
 ## mukta-m0-p88-v2183
-[logic+science](tarka+vidyā) [logic+science](tarka+vidyā) [logic+science](tarka+vidyā) [logic+science](tarka+vidyā)
+[logic+science](tarka+vidyā) [reasoning](tarka) [knowledge](vidyā) [discipline](vidyā)
 
 ## mukta-m0-p88-v2184
-[she](sā) [logic+science](tarka+vidyā) [known](viditā) [faultless](anavadyā)
+[she](sā) [logic+science](tarka+vidyā) [known+faultless](vidita+anavadyā) [blameless](anavadyā)
 
 ## mukta-m0-p88-v2185
-[page](p.) [261](261)) [good+devotion](su+bhaktiḥ) [good+devotion](su+bhaktiḥ)
+[page](p.) [261](261)) [good+devotion](su+bhaktiḥ) [pure-devotion](subhaktiḥ)
 
 ## mukta-m0-p88-v2186
 [remembered](smṛtā) [not](na) [as-long-as](yāvat) [by-the-wise](sudhiyā) [good+devotion](su+bhaktiḥ)
 
 ## mukta-m0-p88-v2187
-[devotee+kind](bhakta+vatsalā) [devotee+kind](bhakta+vatsalā) [devotee+kind](bhakta+vatsalā) [devotee+kind](bhakta+vatsalā)
+[devotee+kind](bhakta+vatsalā) [compassionate](vatsalā) [to-devotees](bhakta) [affectionate](bhaktavatsalā)
 
 ## mukta-m0-p88-v2188
-[honors](añcate) [deceit+free](vañcanā+hīnaḥ) [she](sā) [manifestly](vyaktaṃ) [devotee+kind](bhakta+vatsalā)
+[honors](añcate) [deceit+devoid](vañcanā+hīnaḥ) [she](sā) [manifestly](vyaktaṃ) [devotee+kind](bhakta+vatsalā)
 
 ## mukta-m0-p88-v2189
-[beautiful-naveled](sunābhiḥ) [beautiful-naveled](sunābhiḥ) [beautiful-naveled](sunābhiḥ) [beautiful-naveled](sunābhiḥ)
+[beautiful-naveled](su+nābhiḥ) [fair-naveled](sunābhiḥ) [well-centered](sunābhiḥ) [auspicious-naveled](sunābhiḥ)
 
 ## mukta-m0-p88-v2190
-[beautiful-naveled](sunābhiḥ) [this](eṣā) [may-be](astu) [my](mama) [protector](abhigoptrī)
+[beautiful-naveled](su+nābhiḥ) [this](eṣā) [be](astu) [my](mama) [protector](abhigoptrī)
 
 ## mukta-m0-p88-v2191
-[torment](yātanā) [torment](yātanā) [torment](yātanā) [torment](yātanā)
+[torment](yātanā) [suffering](yātanā) [pain](yātanā) [affliction](yātanā)
 
 ## mukta-m0-p88-v2192
-[in-me](mayi) [may-be](astu) [illusion+its+effect+poverty](māyā+tat+kārya+dāridryeṇa) [alone](eva) [belonging-to-Śaṅkara](śāṅkarī)
+[in-me](mayi) [be](astu) [illusion+its+effect+poverty](māyā+tat+kārya+dāridryeṇa) [alone](eva) [belonging-to-Śaṅkara](śāṅkarī)
 
 ## mukta-m0-p88-v2193
-[universal](jātiḥ) [universal](jātiḥ) [universal](jātiḥ) [universal](jātiḥ)
+[universal](jātiḥ) [class](jātiḥ) [genus](jātiḥ) [category](jātiḥ)
 
 ## mukta-m0-p88-v2194
-[not](na) [if](cet) [universal](jātiḥ) [were](bhavet) [any](kācit) [one+many-ness+cognition](eka+aneka+tva+bodhinī)
+[not](na) [if](cet) [universal](jātiḥ) [were](bhavet) [any](kācit) [one+many-ness+cognizing](eka+aneka+tva+bodhinī)
 
 ## mukta-m0-p88-v2195
-[profound](gambhīrā) [profound](gambhīrā) [profound](gambhīrā) [profound](gambhīrā)
+[profound](gambhīrā) [deep](gambhīrā) [mysterious](gambhīrā) [unfathomable](gambhīrā)
 
 ## mukta-m0-p88-v2196
-[profound](gambhīrā) [may-be](syāt) [self+luminous](sva+prakāśā) [desireless](nirāśā)
+[verse+profound](ṛk+gambhīrā) [may-be](syāt) [self+luminous](sva+prakāśā) [free-from-desire](nirāśā)
 
 ## mukta-m0-p88-v2197
-[existence+devoid](bhāva+varjitā) [existence+devoid](bhāva+varjitā) [existence+devoid](bhāva+varjitā) [existence+devoid](bhāva+varjitā)
+[existence+devoid](bhāva+varjitā) [bereft-of-being](bhāvavarjitā) [without-entity](bhāvavarjitā) [devoid-of-bhava](bhāvavarjitā)
 
 ## mukta-m0-p88-v2198
-[existence+form](bhāva+rūpā) [also](api) [ah](aho) [existence+devoid](bhāva+varjitā) [she](sā) [by-own-nature](svabhāvataḥ)
+[existence+form](bhāva+rūpā) [even-though](api) [ah](aho) [existence+devoid](bhāva+varjitā) [she](sā) [by-own-nature](svabhāvataḥ)
 
 ## mukta-m0-p88-v2199
-[serpent+noose+holding](nāga+pāśa+dharā) [form](mūrtiḥ) [serpent+noose+holding](nāga+pāśa+dharā) [form](mūrtiḥ)
+[serpent+noose+holding](nāga+pāśa+dharā) [form](mūrtiḥ) [divine-form](mūrtiḥ) [noose-bearing](nāgapāśadharā)
 
 ## mukta-m0-p88-v2200
-[serpent+noose+holding](nāga+pāśa+dharā) [form](mūrtiḥ) [may-shine](sphuratāt) [battle+crisis](raṇa+saṃkaṭe)
+[serpent+noose+holding](nāga+pāśa+dharā) [form](mūrtiḥ) [may-shine](sphuratāt) [battle+crisis](raṇa+saṃkaṭe) [in-danger](saṃkaṭe)
