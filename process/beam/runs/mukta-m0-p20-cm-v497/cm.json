@@ -3,39 +3,39 @@
  "verse": 497,
  "rows": [
   {
-   "lemma": "brahmāṇḍa",
-   "morph": "compound=brahmāṇḍa-koṭi+first",
-   "grounds": "universe"
+   "lemma": "yad",
+   "morph": "n.nom.sg",
+   "grounds": "relative pronoun introducing repeated clause"
   },
   {
-   "lemma": "koṭi",
-   "morph": "compound=brahmāṇḍa-koṭi+second",
-   "grounds": "millions"
+   "lemma": "yat",
+   "morph": "n.nom.sg",
+   "grounds": "repeated relative pronoun for emphasis"
   },
   {
-   "lemma": "jananī",
-   "morph": "f.nom.sg",
-   "grounds": "mother"
+   "lemma": "kṛtaṃ",
+   "morph": "n.nom.sg.past-pass-part (√kṛ)",
+   "grounds": "past participle describing action; root kṛ"
   },
   {
-   "lemma": "ekā",
-   "morph": "f.nom.sg",
-   "grounds": "one alone"
+   "lemma": "tvayā",
+   "morph": "pron.inst.sg",
+   "grounds": "agent of the action"
   },
   {
-   "lemma": "eva",
+   "lemma": "deva",
+   "morph": "m.voc.sg",
+   "grounds": "vocative address"
+  },
+  {
+   "lemma": "mām+upāśritya",
+   "morph": "pron.acc.sg+abs. (upa-ā-√śri)",
+   "grounds": "absolutive with object: mām+upāśritya; root śri with upa-ā"
+  },
+  {
+   "lemma": "sarvadā",
    "morph": "(indecl.)",
-   "grounds": "indeed"
-  },
-  {
-   "lemma": "ahaṃ",
-   "morph": "1.nom.sg",
-   "grounds": "I"
-  },
-  {
-   "lemma": "svarūpiṇī",
-   "morph": "f.nom.sg",
-   "grounds": "whose nature is that form"
+   "grounds": "indeclinable indicating constant time"
   }
  ]
 }

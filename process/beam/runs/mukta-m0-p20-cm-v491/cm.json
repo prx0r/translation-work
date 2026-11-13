@@ -3,44 +3,24 @@
  "verse": 491,
  "rows": [
   {
-   "lemma": "grāma",
-   "morph": "compound=grāma-madhya+first",
-   "grounds": "village"
+   "lemma": "brahmāṇḍasya+āyuṣaḥ",
+   "morph": "n.gen.sg",
+   "grounds": "compound: brahmāṇḍa+āyus; dependent on end context"
   },
   {
-   "lemma": "madhya",
-   "morph": "compound=grāma-madhya+second",
-   "grounds": "middle"
+   "lemma": "śeṣe",
+   "morph": "m.loc.sg",
+   "grounds": "locative indicating time of dissolution"
   },
   {
-   "lemma": "gataṃ",
-   "morph": "n.nom.sg",
-   "grounds": "situated in"
+   "lemma": "sarva",
+   "morph": "compound-member",
+   "grounds": "first member of compound qualifying beings"
   },
   {
-   "lemma": "sarvaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "everything"
-  },
-  {
-   "lemma": "viṣṭā",
-   "morph": "compound=viṣṭā-mūtra-ādi+first",
-   "grounds": "excrement"
-  },
-  {
-   "lemma": "mūtra",
-   "morph": "compound=viṣṭā-mūtra-ādi+second",
-   "grounds": "urine"
-  },
-  {
-   "lemma": "ādi",
-   "morph": "compound=viṣṭā-mūtra-ādi+third",
-   "grounds": "etcetera"
-  },
-  {
-   "lemma": "ṣūditam",
-   "morph": "n.nom.sg",
-   "grounds": "tainted"
+   "lemma": "sattva+vivarjitam",
+   "morph": "n.nom.sg.past-pass-part (vi-√vṛj)",
+   "grounds": "compound: sarva+sattva+vivarjita; describes the state at end"
   }
  ]
 }

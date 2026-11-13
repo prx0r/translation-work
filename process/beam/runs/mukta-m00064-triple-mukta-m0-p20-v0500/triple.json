@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "kārya+bhāva+samāpannā",
+     "gloss": "having-attained-state-of-effect",
+     "grounds": "compound adjective: kārya (effect) + bhāva (state) + samāpannā (attained), describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb indicating constancy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛti+rūpiṇī",
+     "gloss": "having-nature-of-primordial-matter",
+     "grounds": "compound adjective: prakṛti (primordial matter) + rūpiṇī (having-form/nature), describing the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What nature does the supreme goddess assume in the condition of effect?",
+   "premises": [
+    "The goddess attains the condition of effect.",
+    "In that attained condition she remains constant.",
+    "Her constant nature in that condition is prakṛti."
+   ],
+   "inference": "When manifest as effect, the goddess always abides in the nature of prakṛti.",
+   "uncertainties": [
+    "Whether prakṛti here refers specifically to Sāṃkhya primordial matter or a more general material nature is not fully explicit in this verse alone."
+   ],
+   "plain_english": "Having attained the state of effect, she is always of the nature of primordial matter."
+  }
+ ]
+}

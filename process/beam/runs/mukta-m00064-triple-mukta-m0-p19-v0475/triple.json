@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "procedure",
+     "grounds": "object of śṛṇu; prescribed ritual arrangement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable indicating conformity with prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "qualifies vidhānaṃ as the entire procedure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japa+ante",
+     "gloss": "recitation-end",
+     "grounds": "locative compound indicating time or occasion: at the end of recitation",
+     "morph": "compound=japa+ante; m.loc.sg"
+    },
+    {
+     "surface": "prārthanaṃ",
+     "gloss": "prayer",
+     "grounds": "object of śṛṇu; supplication to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressed to the listener requesting attention",
+     "morph": "2.sg.imp.act; √śru"
+    }
+   ],
+   "question": "What complete procedure and prayer must be performed at the end of recitation?",
+   "premises": [
+    "The entire procedure is to be followed as before.",
+    "A prayer is to be made at the end of recitation.",
+    "The listener is commanded to hear this instruction."
+   ],
+   "inference": "Therefore, at the end of recitation one must hear and follow the entire prior procedure together with the prescribed prayer.",
+   "uncertainties": [],
+   "plain_english": "Hear the entire procedure as before, and the prayer at the end of recitation."
+  }
+ ]
+}
