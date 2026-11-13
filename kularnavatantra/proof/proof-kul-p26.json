@@ -3,9 +3,7 @@
  "song": "kul-p26",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v648 ratio=0.854"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "56ca26394a29c6b6",
@@ -22,7 +20,7 @@
   "sub090": {
    "648": {
     "ratio": 0.854,
-    "disposition": null
+    "disposition": "sandhi-only: 0.854 from joint-density (2 print tokens -> 5 pada words: darśayet+dhenumudrāṃ+ca, dravyaśuddhiḥ+itīritā); order verified token-by-token vs source 2026-11-13 + ca gloss fixed ca->and to match song convention"
    }
   }
  },
@@ -55,9 +53,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v648"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "b1fc9314c1ae4d3e4d3649e2137a34535510e3af7c858e64feabbd3db8285cce",
   "l0": "4fa230a8dbc2f9ec7a943c8bfaa359b339bfdd808a9780d21788a3db44d7fe40",

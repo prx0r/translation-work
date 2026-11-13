@@ -3,9 +3,7 @@
  "song": "kul-p33",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "C1_L2_SHARED 1"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "ca8a564111310375",
@@ -21,12 +19,10 @@
   "min_ratio": 0.943,
   "sub090": {}
  },
- "c1_l2_shared": [
-  "The seed, refuge of all principles, purifies all principles."
- ],
+ "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 45,
+ "c1_words": 53,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
@@ -52,15 +48,15 @@
   }
  },
  "needs": [
-  "fix: layer gate C1_L2_SHARED"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "b5c450f466796405782d6c4273744852c0b96fae9c0f00ef83b9a420dff9c4e8",
   "l0": "ffef0b71a707feb33b9b7f57f68f5b0a7590bdddda91d526d626ac12a6e74abb",
   "argmap": "9e11c9c398920dfb7debe1d362bc160fca02adb18683716572b36e69408385ae",
   "l2": "2e81ed5b4e0a2aca3ae9d2865dd10f5bf05ec42c20c8416f30ace278fdd21e88",
-  "c1": "2c716a647c6d3a5e8ce9c2aa4d121946786b1fb57c9a195eb773492f62489bf1"
+  "c1": "275698c24238f883b9fec265e5caf3c2ba0fbfa068b495057e24111d2189bde5"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",

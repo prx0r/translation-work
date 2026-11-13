@@ -3,11 +3,12 @@
  "verse": 322,
  "question": "What is the twelfth chapter about?",
  "premises": [
-  "conduct-vessel-characteristic is named",
-  "it is the twelfth",
-  "it is a chapter"
+  "the twelfth chapter is named",
+  "it concerns conduct-vessel-characteristic"
  ],
- "inference": "the twelfth chapter concerns conduct-vessel-characteristic",
- "uncertainties": [],
- "plain_english": "The twelfth chapter is on conduct-vessel-characteristic."
+ "inference": "the twelfth chapter concerns conduct and vessel characteristic",
+ "uncertainties": [
+  "exact scope"
+ ],
+ "plain_english": "The twelfth chapter: characteristic of conduct and vessel."
 }

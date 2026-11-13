@@ -3,9 +3,7 @@
  "song": "kul-p54",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "C1_L2_SHARED 2"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "45a2a93d2c899b4a",
@@ -21,13 +19,10 @@
   "min_ratio": 0.916,
   "sub090": {}
  },
- "c1_l2_shared": [
-  "The penance fire burns the stain of improper conduct.",
-  "The teacher should give penance for purification of all sin."
- ],
+ "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 52,
+ "c1_words": 53,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
@@ -53,15 +48,15 @@
   }
  },
  "needs": [
-  "fix: layer gate C1_L2_SHARED"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "14dbd1d1ed1a02be354a43f2b1ea4441ae9b26d1bb7264e352afb2a92c681e0a",
   "l0": "68da8d17aadc7c50727f1b50a389fb69f719d5f32d24bb07397424495ec8791f",
   "argmap": "e8358dee348e7912257db1e98c1cdbc18d4ffc6cd2a5968a10d91e535bcf09cb",
   "l2": "9167ce70628248791e1b7d43c3756746364a8e21656cb2b14755f5cff3a55911",
-  "c1": "f447720b9fbff61ab2a1aa549053cc46d0d89e22bf9b9dc217d2fc8aea5043f4"
+  "c1": "edd510846b3ec39c04522cd99ebea0ca83c066f927e9b0d0ac34289d1c4ca940"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",

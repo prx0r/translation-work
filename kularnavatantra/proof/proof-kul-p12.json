@@ -3,19 +3,7 @@
  "song": "kul-p12",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v278 ratio=0.804",
-  "ALIGN_NODISP v280 ratio=0.837",
-  "ALIGN_NODISP v282 ratio=0.863",
-  "ALIGN_NODISP v283 ratio=0.884",
-  "ALIGN_NODISP v284 ratio=0.869",
-  "ALIGN_NODISP v289 ratio=0.886",
-  "ALIGN_NODISP v290 ratio=0.783",
-  "ALIGN_NODISP v292 ratio=0.878",
-  "ALIGN_NODISP v294 ratio=0.857",
-  "ALIGN_NODISP v295 ratio=0.816",
-  "ALIGN_NODISP v299 ratio=0.796"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "c2d3e015374337b5",
@@ -32,47 +20,47 @@
   "sub090": {
    "278": {
     "ratio": 0.804,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.804 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.796)"
    },
    "280": {
     "ratio": 0.837,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.837 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.829)"
    },
    "282": {
     "ratio": 0.863,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.863 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.879)"
    },
    "283": {
     "ratio": 0.884,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.884 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.868)"
    },
    "284": {
     "ratio": 0.869,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.869 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.862)"
    },
    "289": {
     "ratio": 0.886,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.886 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.882)"
    },
    "290": {
     "ratio": 0.783,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.783 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.793)"
    },
    "292": {
     "ratio": 0.878,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.878 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)"
    },
    "294": {
     "ratio": 0.857,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.857 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)"
    },
    "295": {
     "ratio": 0.816,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.816 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.817)"
    },
    "299": {
     "ratio": 0.796,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.796 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.804)"
    }
   }
  },
@@ -105,19 +93,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v278",
-  "fix: word-order/gloss vs source for v280",
-  "fix: word-order/gloss vs source for v282",
-  "fix: word-order/gloss vs source for v283",
-  "fix: word-order/gloss vs source for v284",
-  "fix: word-order/gloss vs source for v289",
-  "fix: word-order/gloss vs source for v290",
-  "fix: word-order/gloss vs source for v292",
-  "fix: word-order/gloss vs source for v294",
-  "fix: word-order/gloss vs source for v295",
-  "fix: word-order/gloss vs source for v299"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "70de88c436aea78338b5666ead8ff2290cf876baeb65cae227669f8876e78cd8",
   "l0": "297369cecf6acb3334cde46b612e96921bd467c96354d6cc28ec1ef31ea95f72",

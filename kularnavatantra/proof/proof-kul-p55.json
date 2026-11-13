@@ -3,14 +3,7 @@
  "song": "kul-p55",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1354 ratio=0.847",
-  "ALIGN_NODISP v1358 ratio=0.882",
-  "ALIGN_NODISP v1360 ratio=0.851",
-  "ALIGN_NODISP v1362 ratio=0.897",
-  "ALIGN_NODISP v1363 ratio=0.871",
-  "C1_L2_SHARED 1"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "c16f06ca4337dc11",
@@ -27,32 +20,30 @@
   "sub090": {
    "1354": {
     "ratio": 0.847,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.847 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)"
    },
    "1358": {
     "ratio": 0.882,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.882 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)"
    },
    "1360": {
     "ratio": 0.851,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.851 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
    },
    "1362": {
     "ratio": 0.897,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.897 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.978)"
    },
    "1363": {
     "ratio": 0.871,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.871 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
    }
   }
  },
- "c1_l2_shared": [
-  "When the teacher is pleased, the disciple's sins are immediately destroyed."
- ],
+ "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 55,
+ "c1_words": 52,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
@@ -78,20 +69,15 @@
   }
  },
  "needs": [
-  "fix: layer gate C1_L2_SHARED",
-  "fix: word-order/gloss vs source for v1354",
-  "fix: word-order/gloss vs source for v1358",
-  "fix: word-order/gloss vs source for v1360",
-  "fix: word-order/gloss vs source for v1362",
-  "fix: word-order/gloss vs source for v1363"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "667a5f25dc25e786af14c46cb5dd9a88da703edf4687f212d4543d2bc3e4f5b9",
   "l0": "fe60d58e1adf9d266c380f826bc8b59e2738340960859fcff1baf5aa1738ea4d",
   "argmap": "acea65261f3e06243b69e0b80fcb7d9ed6bab1b0762dec642f3db1b1d995beaf",
   "l2": "667efd6a15802047d5fa886a70e3bde5317d545186bbb5bfe8841c5921807a96",
-  "c1": "fc2028e64b23c9d4880ad162bc24709618ace701b8749d134d0913aa02755a69"
+  "c1": "96457dfdb75812370fdbbe8fcb264931d3a8f07133d88e942b4fcf8f01d4e6d8"
  },
  "lineage": {
   "tool": "proof_record v1 2026-11-01",

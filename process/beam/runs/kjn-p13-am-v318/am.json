@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 318,
- "question": "What may be the supreme cakra status?",
+ "question": "What is the supreme cakra status of lord and fallen?",
  "premises": [
-  "lord and fallen are named",
-  "that may be",
-  "cakra-supreme is named"
+  "lord and fallen are both named",
+  "supreme cakra is mentioned"
  ],
- "inference": "the supreme cakra status is under consideration",
+ "inference": "the verse links lord, fallen, and supreme cakra",
  "uncertainties": [
-  "token ? is unclear"
+  "damaged or unclear token"
  ],
- "plain_english": "Lord and fallen, that may be, cakra-supreme?"
+ "plain_english": "Lord and fallen, that may be, supreme cakra, ?."
 }

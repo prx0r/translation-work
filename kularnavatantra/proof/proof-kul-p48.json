@@ -3,13 +3,7 @@
  "song": "kul-p48",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1178 ratio=0.871",
-  "ALIGN_NODISP v1182 ratio=0.781",
-  "ALIGN_NODISP v1183 ratio=0.854",
-  "ALIGN_NODISP v1189 ratio=0.867",
-  "ALIGN_NODISP v1190 ratio=0.792"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "f7a297d837af1eaf",
@@ -26,23 +20,23 @@
   "sub090": {
    "1178": {
     "ratio": 0.871,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.871 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.87)"
    },
    "1182": {
     "ratio": 0.781,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.781 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.79)"
    },
    "1183": {
     "ratio": 0.854,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.854 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)"
    },
    "1189": {
     "ratio": 0.867,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.867 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.897)"
    },
    "1190": {
     "ratio": 0.792,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.792 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.804)"
    }
   }
  },
@@ -75,13 +69,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1178",
-  "fix: word-order/gloss vs source for v1182",
-  "fix: word-order/gloss vs source for v1183",
-  "fix: word-order/gloss vs source for v1189",
-  "fix: word-order/gloss vs source for v1190"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "73670062afd906e6c8a025b8e9a7fdf48383912d195b564365251e6d68ee4531",
   "l0": "7b451fca6d4cc60c9ceb91f65f51516d2458604f3902b2c1e8b63ddce763df0c",

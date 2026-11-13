@@ -3,11 +3,12 @@
  "verse": 324,
  "question": "Where does the lord go after hearing that?",
  "premises": [
-  "having heard that",
-  "the lord goes",
-  "to divine supreme liberation auspicious"
+  "the lord hears that",
+  "he goes to divine supreme liberation"
  ],
- "inference": "the lord goes to divine supreme auspicious liberation",
- "uncertainties": [],
- "plain_english": "Having heard that, the lord goes to divine supreme auspicious liberation."
+ "inference": "hearing that leads the lord to auspicious supreme liberation",
+ "uncertainties": [
+  "referent of that"
+ ],
+ "plain_english": "Having heard that, the lord goes to divine, auspicious, supreme liberation."
 }

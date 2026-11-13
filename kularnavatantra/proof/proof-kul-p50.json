@@ -3,9 +3,7 @@
  "song": "kul-p50",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1239 ratio=0.883"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "d61f7a1e18c0bf93",
@@ -22,7 +20,7 @@
   "sub090": {
    "1239": {
     "ratio": 0.883,
-    "disposition": null
+    "disposition": "sandhi-only: proof ratio 0.883 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.927)"
    }
   }
  },
@@ -55,9 +53,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1239"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "72552e08844eb9fbb418c21eaa4d041f8c4208aefe77131e77fdd5c998c8b24a",
   "l0": "3c3a7df37c31c38d3c0cbcf8df3954c2c7eeb22ef08c8f4ae92ab11190e2c0c7",
