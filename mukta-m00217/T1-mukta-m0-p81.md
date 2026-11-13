@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p81-v2001
-[ruby-ornamented](māṇikyali(khya ? khi)taṃ) [yantra](yantraṃ) [kingdom-giving](rājyadaṃ) [enjoyment-giving](bhuktidaṃ) [considered](matam)
+[ruby+inscribed](māṇikya+likhitaṃ) [diagram](yantraṃ) [kingdom+giving](rājya+daṃ) [enjoyment+giving](bhukti+daṃ) [considered](matam)
 
 ## mukta-m0-p81-v2002
-[prepared](kḷptaṃ) [emerald](marakate) [yantra](yantraṃ) [all-enemy-destroying](sarvaśatruvināśanam)
+[prepared](kḷptaṃ) [in-emerald](marakate) [diagram](yantraṃ) [all+enemy+destruction](sarva+śatru+vināśanam)
 
 ## mukta-m0-p81-v2003
-[that](tan) [to-me](me) [tell](vadasva) [kindly](kṛpayā) [if](yadi) [I](aham) [your](tava) [beloved](vallabhā)
+[that](tat) [to-me](me) [tell](vadasva) [with-compassion](kṛpayā) [if](yadi) [I](aham) [to-you](tava) [beloved](vallabhā)
 
 ## mukta-m0-p81-v2004
-[of-copper](tāmrasya) [by-sun-portion](ravibhāgena) [seat](pīṭha) [make](kuryāt) [charming](manoharam)
+[of-copper](tāmrasya) [with-sun+portion](ravi+bhāgena) [pedestal](pīṭha) [one-should-make](kuryāt) [charming](manoharam)
 
 ## mukta-m0-p81-v2005
-[peace-giving](śāntidaṃ) [nourishment-giving](puṣṭidaṃ) [declared](proktaṃ) [all-enemy-removing](sarvaśatrunivarhaṇam)
+[peace+giving](śānti+daṃ) [nourishment+giving](puṣṭi+daṃ) [declared](proktaṃ) [all+enemy+destruction](sarva+śatru+nivarhaṇam)
 
 ## mukta-m0-p81-v2006
-[of-netherworld-dwellers](pātālavāsināṃ) [goddess](devi) [spread](prastāro) [low-line](nimnarekhakaḥ)
+[of-netherworld+dwellers](pātāla+vāsināṃ) [O-goddess](devi) [arrangement](prastāro) [low+lined](nimna+rekhakaḥ)
 
 ## mukta-m0-p81-v2007
-[of-heaven-world-dwellers](svargalokādivāsānāṃ) [yantras](yantrāṇām) [meru-named](merusaṃjñakaḥ)
+[of-heaven+world+and-other+dwellers](svarga+loka+ādi+vāsānāṃ) [of-diagrams](yantrāṇām) [Meru+named](meru+saṃjñakaḥ)
 
 ## mukta-m0-p81-v2008
-[gradually](kramāt) [raised](samunnataṃ) [all](sarvaṃ) [meru-form](merurūpaṃ) [by-me](mayā) [spoken](uditam)
+[gradually](kramāt) [fully-elevated](samunnataṃ) [all](sarvaṃ) [Meru+form](meru+rūpaṃ) [by-me+declared](mayā+uditam)
 
 ## mukta-m0-p81-v2009
-[by-low-line-union](nimnarekhāsamāyogāt) [earth-spread](bhūprastāro) [by-me](mayā) [spoken](uditaḥ)
+[low+line+combination](nimna+rekhā+samāyogāt) [ground+arrangement](bhū+prastāro) [by-me+declared](mayā+uditaḥ)
 
 ## mukta-m0-p81-v2010
-[to-be-hidden](gopitavyaṃ) [by-you](tvayā) [blessed-one](bhadre) [own-secret](svaguhyam) [like](iva) [always](santatam)
+[to-be-kept-secret](gopitavyaṃ) [by-you](tvayā) [O-fair-one](bhadre) [own+secret](sva+guhyam) [like](iva) [always](santatam)
 
 ## mukta-m0-p81-v2011
-[from-highest-middle](unnatonnatamāmadhyāt) [wheel](cakraṃ) [should-be](syāt) [treasure](nidhanaṃ) [wealth](dhanam)
+[raised+raised+middle](unnata+unnata+mā+adhyāt) [diagram](cakraṃ) [would-be](syāt) [destruction](nidhanaṃ) [of-wealth](dhanam)
 
 ## mukta-m0-p81-v2012
-[one-two-six-gradual-raising](ekadviṣaṭkramonnāmaṃ) [for-prosperity](śriyai) [for-fame](kīrtye) [and](ca) [suitable](kalpate)
+[one+two+six+order+elevation](eka+dvi+ṣaṭ+krama+unnāmaṃ) [for-prosperity](śriyai) [for-fame](kīrtye) [and](ca) [is-suitable](kalpate)
 
 ## mukta-m0-p81-v2013
-[earth-wheel](bhūcakraṃ) [sixteen-spoked](ṣoḍaśāraṃ) [and](ca) [eight-spoked](aṣṭāraṃ) [equal](samaṃ) [becomes](bhavet)
+[earth+diagram](bhū+cakraṃ) [sixteen+spoked](ṣoḍaśa+āraṃ) [and](ca) [also](api) [eight+spoked](aṣṭa+āraṃ) [and](ca) [level](samaṃ) [should-be](bhavet)
 
 ## mukta-m0-p81-v2014
-[four-cornered](caturasraṃ) [equal](samaṃ) [goddess](devi) [sixteen-spoked-etc-dot](ṣoḍaśārādibindukam)
+[four+cornered](catur+asraṃ) [level](samaṃ) [O-goddess](devi) [sixteen+spoke+and-other+up-to-bindu](ṣoḍaśa+āra+ādi+bindukam)
 
 ## mukta-m0-p81-v2015
-[four-cornered](caturasraṃ) [beginning](samārabhya) [dot-end](bindvantaṃ) [equal-line](samarekhakam)
+[four+cornered](catur+asraṃ) [beginning-with](samārabhya) [up-to-bindu](bindu+antaṃ) [even+lined](sama+rekhakam)
 
 ## mukta-m0-p81-v2016
-[on-plank](phalakāyāṃ) [on-cloth](paṭe) [on-wall](bhittau) [place](sthāpayet) [never](na) [ever](kadācana)
+[on-a-board](phalakāyāṃ) [on-cloth](paṭe) [on-wall](bhittau) [one-should-place](sthāpayet) [not](na) [ever](kadācana)
 
 ## mukta-m0-p81-v2017
-[family](kulaṃ) [wealth](vittam) [offspring](apatyaṃ) [and](ca) [uproots](nirmūlayati) [in-every-way](sarvathā)
+[family](kulaṃ) [wealth](vittam) [offspring](apatyaṃ) [and](ca) [uproots](nirmūlayati) [completely](sarvathā)
 
 ## mukta-m0-p81-v2018
-[pala-measure](palapramāṇaṃ) [should-be-made](kartavyam) [worship-seat](arcāpīṭhaṃ) [charming](manoharam)
+[pala+measure](pala+pramāṇaṃ) [to-be-made](kartavyam) [worship+pedestal](arcā+pīṭhaṃ) [charming](manoharam)
 
 ## mukta-m0-p81-v2019
-[on-that](tasmin) [seat](pīṭhe) [and](ca) [construction](nirmāṇaṃ) [of-śrīcakra](śrīcakrasya) [indeed](tu) [cause-to-be-made](kārayet)
+[on-that](tasmin) [pedestal](pīṭhe) [and](ca) [construction](nirmāṇaṃ) [of-Śrīcakra](śrī+cakrasya) [indeed](tu) [one-should-cause](kārayet)
 
 ## mukta-m0-p81-v2020
-[fire](agni) [finger-breadth](aṃgulavistāro) [half-barley](yavārdhena) [height](ucchritir) [becomes](bhavet)
+[three+finger+width](agni+aṅgula+vistāro) [by-barley+half](yava+ardhena) [elevation](ucchritiḥ) [should-be](bhavet)
 
 ## mukta-m0-p81-v2021
-[by-established-order](sthitikrameṇa) [worship](pūjā) [should-be](syāt) [in-established-wheel](sthiticakre) [great-goddess](maheśvari)
+[by-level+order](sthiti+krameṇa) [worship](pūjā) [should-be](syāt) [in-level+diagram](sthiti+cakre) [O-great-goddess](mahā+īśvari)
 
 ## mukta-m0-p81-v2022
-[separately](pratyekaṃ) [threefold](trividhaṃ) [to-be-known](jñeyaṃ) [that](tat) [by-mixing](sāṅkaryāt) [carefully](prayatnataḥ)
+[each](pratyekaṃ) [threefold](trividhaṃ) [to-be-known](jñeyaṃ) [from-their+mixture](tat+sāṅkaryāt) [with-effort](prayatnataḥ)
 
 ## mukta-m0-p81-v2023
-[highest-high-middle](unnatonnatamāmadhyaṃ) [to-be-known](vijñeyaṃ) [by-best-teachers](deśikottamaiḥ)
+[raised+raised+middle](unnata+unnata+mā+adhyaṃ) [to-be-known](vijñeyaṃ) [by-best+teachers](deśika+uttamaiḥ)
 
 ## mukta-m0-p81-v2024
-[equal-upward-line-nine](samordhvarekhānavakaṃ) [equal](same) [on-seat](pīṭhe) [and](ca) [which](yad) [becomes](bhavet)
+[equal+upper+line+nine](sama+ūrdhva+rekhā+navakaṃ) [on-level](same) [pedestal](pīṭhe) [and](ca) [which](yat) [may-be](bhavet)
 
 ## mukta-m0-p81-v2025
-[subtle-line](sūkṣmarekhaṃ) [becomes](bhavet) [there](tatra) [establishment-establishment-nature](sthitisthityātmakaṃ) [śiva](śive)
+[fine+lined](sūkṣma+rekhaṃ) [should-be](bhavet) [there](tatra) [level+level+natured](sthiti+sthiti+ātmakaṃ) [O-Śiva](śive)
