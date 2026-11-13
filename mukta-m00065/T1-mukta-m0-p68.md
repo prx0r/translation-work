@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-with-these(ebhiḥ) but(tu) with-five(paṃcabhiḥ) + joined(yuktaiḥ) bathing(snānam) worship(arca) + etc.(ādi) + purification(śodhanam)
+[with-these](ebhiḥ) [but](tu) [with-five](pañcabhiḥ) [joined](yuktaiḥ) [bathing](snānam) [worship+etc.+purification](arcā+ādi+śodhanam)
 
 ## mukta-m0-p68-v1677
-īśāna(īśāna) + vaktra(vaktra) + ghora(ghora) + called(āhva) + guhya(guhya) + jāta(jāta) + named(ākhya) + consecrated-by-mantras(mantritaiḥ)
+[with-Īśāna+Vaktra+Ghora](īśāna+vaktra+ghora) [called](āhva) [Guhya+Jāta](guhya+jāta) [named+consecrated-by-mantras](ākhya+mantritaiḥ)
 
 ## mukta-m0-p68-v1678
-bull(vṛṣa) + horn(śṛṅga) + dug-up(samutkhātāḥ) pure(pavaka) + abode(āśraya) + arisen(sambhavāḥ)
+[from-bull+horn](vṛṣa+śṛṅga) [dug-up](samutkhātāḥ) [from-pure+place](pavaka+āśraya) [arisen](sambhavāḥ)
 
 ## mukta-m0-p68-v1679
-by-ajena-mantra(ajena) by-washing(kṣālanāt) earth(pṛthvī) + in-order(kramataḥ) but(tu) by-kalāvat-mantra(kalāvatā)
+[by-Aja-mantra](ajena) [by-washing](kṣālanāt) [earth](pṛthvī) [in-order](kramataḥ) [but](tu) [by-Kalā](kalāvatā)
 
 ## mukta-m0-p68-v1680
-with-lukewarm(kavoṣṇaiḥ) but(tu) by-third(tṛtīyena) bathing(snānaṃ) chisel(ṭaṅka) + wound(kṣata) + removing(apaham)
+[with-lukewarm](kavoṣṇaiḥ) [but](tu) [by-third](tṛtīyena) [bathing](snānaṃ) [chisel+wound+removing](ṭaṅka+kṣata+apaham)
 
 ## mukta-m0-p68-v1681
-with-nidigdhikā(nidigdhikā) balā(balā) + roots(mūlaiḥ) bathing(snānaṃ) by-guhya-mantra(guhyena) defect(doṣa) + removing(hṛt)
+[with-Nidigdhikā](nidigdhikā) [with-Balā+roots](balā+mūlaiḥ) [bathing](snānaṃ) [by-Guhya-mantra](guhyena) [defect+removing](doṣa+hṛt)
 
 ## mukta-m0-p68-v1682
-by-dhātrī(dhātryāḥ) from-bathing(snānāt) earth(mahi) + released(tyakte) by-sadyojāta-mantra(sadyojātena) becomes-pure(śuddhyati)
+[with-Dhātrī](dhātryā) [by-bathing](snānāt) [earth](mahī) [abandoned](tyakte) [by-Sadyojāta-mantra](sadyojātena) [is-purified](śuddhyati)
 
 ## mukta-m0-p68-v1683
-having-rubbed(samudvartya) Mahādeva(mahādevaṃ) from-holy-places(tīrtha) + arisen(utthaiḥ) one-should-bathe(snāpayet) with-waters(jalaiḥ)
+[having-rubbed](samudvartya) [Mahādeva](mahādevaṃ) [from-holy-places+arisen](tīrtha+utthaiḥ) [one-should-bathe](snāpayet) [with-waters](jalaiḥ)
 
 ## mukta-m0-p68-v1684
-Puṣkara(puṣkaraṃ) Naimiṣāraṇya(naimiṣāraṇyaṃ) holy-place(tīrthaṃ) and(ca) Varūṇa(varūṇaṃ) likewise(tathā)
+[Puṣkara](puṣkaraṃ) [Naimiṣāraṇya](naimiṣāraṇyaṃ) [holy-place](tīrthaṃ) [and](ca) [Varūṇa](varūṇaṃ) [likewise](tathā)
 
 ## mukta-m0-p68-v1685
-Jāhnavī(jāhnavī) Yamunā(yamunā) Kauśī(kauśī) Sarayū(sarayū) Śoṇa(śoṇa) + Narmadā(narmadā)
+[Jāhnavī](jāhnavī) [Yamunā](yamunā) [Kauśī](kauśī) [Sarayū](sarayū) [Śoṇa](śoṇa) [Narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-seven(sapta) + Godāvarī(godāvarī) + thus(iti) + these(etāḥ) holy(puṇya) + rivers(nadyaḥ) with-great-waters(mahājalaiḥ)
+[seven+Godāvarī](sapta+godāvarī) [thus-these](iti+etāḥ) [holy+rivers](puṇya+nadyaḥ) [with-great+waters](mahā+jalaiḥ)
 
 ## mukta-m0-p68-v1687
-alkaline(kṣāra) + milk(kṣīra) + curd(dadhi) + oil(sneha) + sugarcane-juice(ikṣurasa) + liquor(dāsura) + waters(udakāḥ)
+[alkaline+milk+curd+oil](kṣāra+kṣīra+dadhi+sneha) [sugarcane-juice+soda+liquor+water](ikṣu+rasa+dāsu+uda+kāḥ)
 
 ## mukta-m0-p68-v1688
-crystal(sphāṭikaṃ) ruby(padyarāgaṃ) and(ca) rājāvarta(rājāvartaḥ) + coral(suvidrumam)
+[crystal](sphāṭikaṃ) [ruby](padyarāgaṃ) [and](ca) [rājāvarta-gem](rājāvartaḥ) [coral](suvidrumam)
 
 ## mukta-m0-p68-v1689
-with-these(etat) + gem(ratna) + waters(udakaiḥ) bathing(snānaṃ) great(mahā) + element(bhūti) + producing(karaṃ) supreme(param)
+[with-these+gem+waters](etat+ratna+udakaiḥ) [bathing](snānaṃ) [great+element+producing](mahā+bhūti+karaṃ) [supreme](param)
 
 ## mukta-m0-p68-v1690
-camphor(karpūra) + aloe(aguru) + musk(kastūrī) + kāśmarī(kāśmarī) + sandal(candana) + etc.(ādikaiḥ)
+[with-camphor+aloewood+musk](karpūra+aguru+kastūrī) [kāśmarī+sandalwood+etc.](kāśmarī+candana+ādikaiḥ)
 
 ## mukta-m0-p68-v1691
-one-should-bathe(snāpayet) with-fragrant-water(gandha) + (toyena) by-ajāta-mantra(ajātena) + consecrated(abhimantritam)
+[one-should-bathe](snāpayet) [with-fragrant+water](gandha+toyena) [by-Aja-mantra](ajātena) [consecrated](abhimantritam)
 
 ## mukta-m0-p68-v1692
-white-lotus(puṇḍarīka) + lotus(abja) + root(mālūra) + blue(nīla) + red(rakta) + lotus(utpala) + arka-flower(ārkajam)
+[lotus+water-lily+root](puṇḍarīka+abja+mālūra) [blue+red+lotus+arka-flower](nīla+rakta+utpala+arka+jam)
 
 ## mukta-m0-p68-v1693
-mango(sahakāra) + aśvamāra(aśvamāraṃ) and(ca) punnāga(punnāga) + bakula(bakulāni) and(ca)
+[mango+horse-radish](sahakāra+aśvamāraṃ) [and](ca) [punnāga+bakula](punnāga+bakulāni) [and](ca)
 
 ## mukta-m0-p68-v1694
-pāṭalā(pāṭalā) + droṇa(droṇa) + nepālī(nepālī) kuśa(kuśa) + kiṃśuka(kiṃśuka) + siṃhikā(siṃhikāḥ)
+[pāṭalā+droṇa+nepālī](pāṭalā+droṇa+nepālī) [kuśa+kiṃśuka+siṃhikā](kuśa+kiṃśuka+siṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-soft(mṛdu) + kunda(kunda) + lotus(abja) + leaf(patrī) and(ca) vṛṣa(vṛṣa) + ṛṣibuka(ṛṣibuka) + flower(puṣpakam)
+[soft+kundā+lotus-leaf](mṛdu+kundā+abja+patrī) [and](ca) [vṛṣa+ṛṣibuka+flower](vṛṣa+ṛṣibuka+puṣpakam)
 
 ## mukta-m0-p68-v1696
-bilva(bila) + mango(āmra) + mocana(mocana) + orange(āraṅga) jackfruit(panasaṃ) coconut(nālikerakam)
+[bilva+mango+banana+orange](bila+āmra+mocana+āraṅga) [jackfruit](panasaṃ) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-jujube(vadarī) + citron(bījapūraṃ) and(ca) kava(kava) + marda(mardaṃ) with-tinduka(satindukam)
+[jujube+citron](vadarī+bījapūraṃ) [and](ca) [kavamarda](kava+mardaṃ) [with-tinduka](sa+tindukam)
 
 ## mukta-m0-p68-v1698
-fruit(phala) + bathing(snānam) + this(idam) meritorious(pupyaṃ) of-performer(kartuḥ) + desired(icchā) + fruit(phala) + giving(pradam)
+[fruit+bathing](phala+snānam) [this](idam) [meritorious](pupyaṃ) [of-performer](kartuḥ) [desire+fruit+giving](icchā+phala+pradam)
 
 ## mukta-m0-p68-v1699
-sesame(tila) + wheat(godhuma) + mudga(mudga) + etc.(ādi) barley(yava) + grain(dhānya) + priyaṅgu(priyaṅgubhiḥ)
+[with-sesame+wheat+mudga+etc.](tila+godhuma+sugd+ādi) [barley+grain+priyaṅgu](yava+dhānya+priyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-five(pañca) + brahman(brahma) + arisen(udbhavaiḥ) + with-mantras(mantraiḥ) great(mahā) + bathing(snānaṃ) auspicious(śubha) + giving(pradam)
+[from-five-Brahmans+arisen](pañca+brahma+udbhavaiḥ) [with-mantras](mantraiḥ) [great+bathing](mahā+snānaṃ) [auspiciousness+giving](śubha+pradam)
