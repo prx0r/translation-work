@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p223-v5551
-incense-perfumed(sudhūpadhūpitāṃ) slender(tanvīṃ) messenger-duties(dūtīkarmasu) should-employ(yojayed)
+[well](su) [incense](dhūpa) [fumigated](dhūpitāṃ) [slender-woman](tanvīṃ) [messenger](dūtī) [duties](karmasu) [one-should-employ](yojayed)
 
 ## mukta-m0-p223-v5552
-brāhmaṇī(brāhmaṇī) śūdra-girl(śūdrakanyā) and(ca) likewise(tathā) cowherd-girl(gopālakanyakā)
+[brahmin-woman](brāhmaṇī) [śūdra](śūdra) [girl](kanyā) [and](ca) [likewise](tathā) [cowherd](gopāla) [girl](kanyakā)
 
 ## mukta-m0-p223-v5553
-thus(evam) constituted(bhūtām) her(tām) indeed(tu) worship(yajet) on-flowers-and-cotton(prasūnatūlikopari)
+[thus](evaṃ) [being](bhūtāṃ) [one-should-worship](yajet) [her](tāṃ) [indeed](tu) [flower](prasūna) [cotton-bed](tūlika) [upon](upari)
 
 ## mukta-m0-p223-v5554
-linga-yoni-devoted(liṅgayonirataḥ) mantra-practitioner(mantrī) raurava-hell(rauravaṃ) hell(narakaṃ) goes(vrajet)
+[linga](liṅga) [yoni](yoni) [engaged-in](rato) [mantrin](mantrī) [raurava](rauravaṃ) [hell](narakaṃ) [would-go](vrajet)
 
 ## mukta-m0-p223-v5555
-by-own-power(svaśaktyā) ten-thousand(ayutaṃ) merit(puṇyaṃ) in-other-power-worship(paraśaktiprapūjane)
+[own](sva) [śakti](śaktyā) [ten-thousand](ayutaṃ) [merit](puṇyaṃ) [another's](para) [śakti](śakti) [worship](prapūjane)
 
 ## mukta-m0-p223-v5556
-washerwoman's(rajakyāḥ) knife-woman(kṣurikī) best(śreṣṭhā) knife-woman's(kṣurikyāḥ) leather-worker(carmakāriṇī)
+[of-washerwoman](rajakyāḥ) [barber-woman](kṣurikī) [best](śreṣṭhā) [than-barber-woman](kṣurikyāḥ) [leather-worker-woman](carmakāriṇī)
 
 ## mukta-m0-p223-v5557
-then(tato) more-beautiful(adhikāntyasambhūtā) caṇḍālī(caṇḍālī) and(ca) then(tato) more(adhikā)
+[than-that](tataḥ) [higher](adhikā) [lowest-born](antya) [born](sambhūtā) [caṇḍāla-woman](caṇḍālī) [and](ca) [than-that](tataḥ) [higher](adhikā)
 
 ## mukta-m0-p223-v5558
-pukkasa-woman's(pukkasyā) unbroken(akṣatā) best(śreṣṭhā) then(tato) very-beautiful(atisundarī) remembered(smṛtā)
+[of-pukka-woman](pukkasyā) [undefiled](akṣatā) [best](śreṣṭhā) [than-that](tataḥ) [very-beautiful](atisundarī) [remembered](smṛtā)
 
 ## mukta-m0-p223-v5559
-beyond-that(tatparā) supreme-goddess(parameśāni) with-that-mind(tanmanāḥ) auspicious-marked(śubhalakṣaṇā)
+[devoted-to-that](tatparā) [o-supreme-goddess](parameśāni) [mind-fixed-on-that](tanmanāḥ) [auspicious](śubha) [marked](lakṣaṇā)
 
 ## mukta-m0-p223-v5560
-clever(vidagdhā) and(tv) not-delivered(aprasūtā) and(ca) courage-independence-endowed(dhairyasvātantryasaṃyutā)
+[skilled](vidagdhā) [indeed](tu) [not-having-given-birth](aprasūtā) [and](ca) [firmness](dhairya) [independence](svātantrya) [endowed-with](saṃyutā)
 
 ## mukta-m0-p223-v5561
-own(ātmīyāḥ) and(ca) others'(parāḥ) and(ca) eva(eva) power-only(śaktimātrraṃ) O-great-goddess(maheśvari)
+[one's-own](ātmīyāḥ) [and](ca) [others](parāḥ) [and](ca) [indeed](eva) [śakti](śakti) [merely](mātrraṃ) [o-great-goddess](maheśvari)
 
 ## mukta-m0-p223-v5562
-with-various-fruits-betel(vividhaiḥ+phalatāmbūlaiḥ) garments-ornaments-gold(vastrālaṅkārahemabhiḥ)
+[various](vividhaiḥ) [fruit](phala) [betel](tāmbūlaiḥ) [garments](vastra) [ornaments](alaṅkāra) [gold](hemabhiḥ)
 
 ## mukta-m0-p223-v5563
-enjoyment-desire-bearing(sambhogavāsanāṃ+dhṛtvā) who(yaḥ) does(kuryāt) power-worship(śaktipūjanam)
+[enjoyment](sambhoga) [desire](vāsanāṃ) [holding](dhṛtvā) [who](yaḥ) [should-perform](kuryāt) [śakti](śakti) [worship](pūjanam)
 
 ## mukta-m0-p223-v5564
-supreme-bliss-form(paramānandarūpeṇa) body(deha) state-without(bhāvavivarjitaḥ)
+[supreme](parama) [bliss](ānanda) [form](rūpeṇa) [body](deha) [emotion](bhāva) [devoid-of](vivarjitaḥ)
 
 ## mukta-m0-p223-v5565
-then(tadā) command(tadājñā) indeed(tu) should-be-done(prakartavyā) then(tadā) welfare(śreyaḥ) proceeds(pravartate)
+[her](tat) [command](ājñā) [indeed](tu) [to-be-done](prakartavyā) [then](tadā) [welfare](śreyaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p223-v5566
-done(kṛte) there(tatra) mockery-etc(upahāsādi) leper(kuṣṭhī) becomes(bhavati) not-otherwise(nānyathā)
+[done](kṛte) [there](tatra) [mockery](upahāsa) [etc.](ādi) [leprous](kuṣṭhī) [becomes](bhavati) [not](na) [otherwise](anyathā)
 
 ## mukta-m0-p223-v5567
-deformed(vyaṅgā) or(vā) deformed-limbed(vikṛtāṅgī) and(ca) one-eyed(kāṇākṣī) deaf(badhirā) likewise(tathā)
+[deformed](vyaṅgā) [or](vā) [disfigured](vikṛta) [limbed](aṅgī) [and](ca) [one-eyed](kāṇākṣī) [deaf](badhirā) [likewise](tathā)
 
 ## mukta-m0-p223-v5568
-uninitiated(adīkṣitā) devotionless(bhaktihīnā) guru-service-without(gurusevāvivarjitā)
+[uninitiated](adīkṣitā) [devotion](bhakti) [devoid-of](hīnā) [guru](guru) [service](sevā) [devoid-of](vivarjitā)
 
 ## mukta-m0-p223-v5569
-old-sick(vṛddhāturā) crooked-mouthed(vakramukhī) angry-foul-smelling-filthy(krodhadurgandhakaśmalā)
+[old](vṛddhā) [sick](āturā) [crooked](vakra) [faced](mukhī) [anger](krodha) [bad-smell](durgandha) [impure](kaśmalā)
 
 ## mukta-m0-p223-v5570
-long-toothed(dīrghadantā) and(ca) hanging-lipped(lamboṣṭhī) dry-breasted-hipped(śuṣkastananitambini)
+[long](dīrgha) [toothed](dantā) [and](ca) [hanging](lamba) [lipped](oṣṭhī) [withered](śuṣka) [breast](stana) [buttocks](nitambini)
 
 ## mukta-m0-p223-v5571
-very-fat-very-diseased(mahāsthūlātirogārtā) hanging-breasted(pralambitapayodharā)
+[very](mahā) [fat](sthūlā) [excessively](ati) [diseased](roga) [afflicted](ārtā) [hanging](pralambita) [breasts](payodharā)
 
 ## mukta-m0-p223-v5572
-youngest(kaniṣṭhā) boar-toothed(kroḍadantā) and(ca) always(svārthasamanvitā) self-interested(sadā)
+[youngest](kaniṣṭhā) [projecting](kroḍa) [toothed](dantā) [and](ca) [always](sadā) [own](sva) [interest](artha) [endowed-with](samanvitā)
 
 ## mukta-m0-p223-v5573
-white-robed(śvetāṃṅginī) fierce-image(raudrabimbā) goat-womb(chāgayoniḥ) piśācī(piśācikā)
+[white](śveta) [limbed](aṃṅginī) [fierce](raudra) [form](bimbā) [shadow](cchāya) [yonied](yoniḥ) [demoness-like](piśācikā)
 
 ## mukta-m0-p223-v5574
-these-lakṣaṇa-endowed(etallakṣaṇasampannāḥ) powers(śaktīḥ) diligently(varjayet) avoid(yatnena)
+[this](etat) [characteristic](lakṣaṇa) [endowed-with](sampannāḥ) [śaktis](śaktīḥ) [with-effort](yatnena) [one-should-avoid](varjayet)
 
 ## mukta-m0-p223-v5575
-from-ignorance(ajñānāt) from-greed(lobhato) from-delusion(mohāt) given(datte) worship(pūjā) indeed(tu) fruitless(niṣphalā)
+[from-ignorance](ajñānāt) [from-greed](lobhataḥ) [from-delusion](mohāt) [given](datte) [worship](pūjā) [indeed](tu) [fruitless](niṣphalā)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p23-v551
-[armor](kavaca) [in-female-power-seed](strīśaktibīje) [peg](kīlakaṃ) [and](ca) [declared](prakīrtitam)
+[armor](kavaca) [woman+power+seed](strīśaktibīje) [peg](kīlakaṃ) [and](ca) [declared](prakīrtitam)
 
 ## mukta-m0-p23-v552
-[armor](kṣaḥstrīyugmaṃ) [and](ca) [armor](kavacaṃ) [female-hūṃ-self-pair](strīṃhūmātmayugaṃ) [thus](tathā)
+[kṣaḥ+woman+pair](kṣaḥstrīyugmaṃ) [and](ca) [armor](kavacaṃ) [strīṃ+hūm+self+pair](strīṃhūmātmayugaṃ) [likewise](tathā)
 
 ## mukta-m0-p23-v553
-[dark-limbed](śyāmāṅgīṃ) [red-good-hand-foot-lotus-beautiful](raktasatpāṇicaraṇāmbujaśobhitām)
+[dark-limbed](śyāmāṅgīṃ) [red+good+hand+foot+lotus+adorned](raktasatpāṇicaraṇāmbujaśobhitām)
 
 ## mukta-m0-p23-v554
-[golden-garment](svarṇāṃśukāṃ) [gold-ornament](svarṇabhūṣāṃ) [vaiśya-serpent-pair-girdle](vaisyāhidvandvamekhalām)
+[golden-garment](svarṇāṃśukāṃ) [golden-ornament](svarṇabhūṣāṃ) [merchant+snake+pair+girdle](vaisyāhidvandvamekhalām)
 
 ## mukta-m0-p23-v555
-[wearing](dadhatīṃ) [peacock-feather-bracelet-armlet-beautiful](śikhipicchānāṃ) [valayāṅgadaśobhitām)
+[bearing](dadhatīṃ) [peacock+feather](śikhipicchānāṃ) [bracelet+armlet+adorned](valayāṅgadaśobhitām)
 
 ## mukta-m0-p23-v556
-[twice-born-serpent-shining-ear-ornament](dvijanāgasphuratkarṇabhūṣāṃ) [intoxicated-red-eyed](mattāruṇekṣaṇām)
+[two+teeth+snake+shining+ear+ornament](dvijanāgasphuratkarṇabhūṣāṃ) [intoxicated+reddish+eyed](mattāruṇekṣaṇām)
 
 ## mukta-m0-p23-v557
-[kirātī](kairātīṃ) [peacock-feather-abode-radiant](śikhipatrāḍhyaniketanavirājitām)
+[mountain-dwelling-woman](kairātīṃ) [peacock+feather+abundant+abode+resplendent](śikhipatrāḍhyaniketanavirājitām)
 
 ## mukta-m0-p23-v558
-[young-named](bālākhyā) [tripura-lady](tripureśānī) [east-lion-seat-situated](pūrvasiṃhāsane) [sthitā](sthitā)
+[bālā-named](bālākhyā) [Tripura-queen](tripureśānī) [eastern+lion-throne](pūrvasiṃhāsane) [seated](sthitā)
 
 ## mukta-m0-p23-v559
-[tripura-lady](tripureśīṃ) [to-be-uttered](samuccāryaṃ) [eternal-named](nityākhyāṃ) [bhairavī](bhairavīṃ) [thus](tathā)
+[Tripura-goddess](tripureśīṃ) [having-uttered](samuccāryaṃ) [nityā-named](nityākhyāṃ) [Bhairavī](bhairavīṃ) [likewise](tathā)
 
 ## mukta-m0-p23-v560
-[tāra](tāraṃ) [heart-place-speaking](hṛtpadamābhāṣya) [kāmeśvarī-supreme](kāmeśvarīparaṃ) [then](tataḥ)
+[tāra](tāraṃ) [heart+lotus](hṛtpadam) [having-spoken](ābhāṣya) [Kāmeśvarī+supreme](kāmeśvarīparaṃ) [then](tataḥ)
 
 ## mukta-m0-p23-v561
-[goddess](bhagavatyatha) [blue-end](nīlānte) [banner](patāke) [ca](ca) [goddess-end](bhagāntike)
+[Bhagavatī](bhagavatyatha) [nīla+end](nīlānte) [banner](patāke) [and](ca) [bhaga+end](bhagāntike)
 
 ## mukta-m0-p23-v562
-[supreme-end](paramānte) [thus](tathā) [secret](guhye) [hrīṃ-triad](hrīṅkāratritayaṃ) [write](likhet)
+[supreme+end](paramānte) [likewise](tathā) [secret](guhye) [hrīṃ-syllable+triad](hrīṅkāratritayaṃ) [one-should-write](likhet)
 
 ## mukta-m0-p23-v563
-[infuse](āveśaya) [thus](tathā) [to-be-written](lekhyaṃ) [armor-weapon-fire-beloved](kavacāstrāgnivallabhā)
+[cause-to-enter](āveśaya) [likewise](tathā) [to-be-written](lekhyaṃ) [armor+weapon+fire+beloved](kavacāstrāgnivallabhā)
 
 ## mukta-m0-p23-v564
-[indra-sapphire-shining-blue-banner](indranīlasphurannīlapatākāṃ) [lotus-situated](kamale) [sthitām](sthitām)
+[indranīla+shining+blue+banner](indranīlasphurannīlapatākāṃ) [on-lotus](kamale) [seated](sthitām)
 
 ## mukta-m0-p23-v565
-[wearing](dadhatīṃ) [supreme-lady](parameśānīṃ) [three-worlds-attracting-capable](trailokyākarṣaṇakṣamām)
+[bearing](dadhatīṃ) [supreme-goddess](parameśānīṃ) [three-world+attraction+capable](trailokyākarṣaṇakṣamām)
 
 ## mukta-m0-p23-v566
-[śiva-moon-sky-end-fire-rudra-sound-ornamented](śivacandrakhapāntāgnirudrasvaravibhūṣitam)
+[śiva+moon+void+end+fire+Rudra+vowel+adorned](śivacandrakhapāntāgnirudrasvaravibhūṣitam)
 
 ## mukta-m0-p23-v567
-[seed](bījaṃ) [heart-middle-letter](hṛnmadhyavarṇāstu) [seed-power](bījaśaktī) [peg](tu) [kīlakam](kīlakam)
+[seed](bījaṃ) [heart+middle+syllables](hṛnmadhyavarṇāstu) [seed+powers](bījaśaktī) [but](tu) [peg](kīlakam)
 
 ## mukta-m0-p23-v568
-[single-faced](ekavaktrāṃ) [ten-armed](daśabhujāṃ) [serpent-sacrificial-thread](sarpayajñopavītinīm)
+[one-faced](ekavaktrāṃ) [ten-armed](daśabhujāṃ) [snake+sacrificial-thread-wearing](sarpayajñopavītinīm)
 
 ## mukta-m0-p23-v569
-[bone-skin-distinct](asthicarmāviśeṣāṃ) [her](tāṃ) [fire-peak-equal-radiant](vahnikūṭasamaprabhām)
+[bone+skin+distinct](asthicarmāviśeṣāṃ) [her](tāṃ) [fire+mass+equal+splendor](vahnikūṭasamaprabhām)
 
 ## mukta-m0-p23-v570
-[battle](raṇe) [by-merely-remembering](smaraṇamātreṇa) [to-devotees](bhaktebhyo) [victory-giving](vijayapradām)
+[in-battle](raṇe) [remembrance+mere](smaraṇamātreṇa) [to-devotees](bhaktebhyo) [victory+giving](vijayapradām)
 
 ## mukta-m0-p23-v571
-[noose-fire-fearlessness](pāśamagnimabhītiṃ) [ca](ca) [holding](dadhānāṃ) [victory](vijayāṃ) [remember](smaret)
+[noose](pāśam) [fire](agnim) [fearlessness](abhītiṃ) [and](ca) [bearing](dadhānāṃ) [Vijayā](vijayāṃ) [one-should-meditate](smaret)
 
 ## mukta-m0-p23-v572
-[life](jīvaṃ) [varuṇa-star-rich](varuṇatārāḍhyaṃ) [all-end](sarvānte) [auspicious-foot](maṅgalāpadam)
+[jīva](jīvaṃ) [Varuṇa+tāra+endowed](varuṇatārāḍhyaṃ) [sarvā+end](sarvānte) [maṅgalā+word](maṅgalāpadam)
 
 ## mukta-m0-p23-v573
-[knowledge-part-triad](vidyābhāgatrayeṇaiva) [twice-repetition](dvirāvṛttyā) [six-limbs](ṣaḍaṅgakam)
+[mantra+part+triad](vidyābhāgatrayeṇa) [indeed](eva) [twice+repetition](dvirāvṛttyā) [six-limb](ṣaḍaṅgakam)
 
 ## mukta-m0-p23-v574
-[very-pleased](suprasannāṃ) [moon-faced](śaśimukhīṃ) [various-gem-ornamented](nānāratnavibhūṣitām)
+[very-serene](suprasannāṃ) [moon-faced](śaśimukhīṃ) [various+jewel+adorned](nānāratnavibhūṣitām)
 
 ## mukta-m0-p23-v575
-[boon-fearlessness-beauty-rich](varadābhayaśobhāḍhyāṃ) [remember](smaret) [fortune-increasing](saubhāgyavardhinīm)
+[boon+fearlessness+splendor+endowed](varadābhayaśobhāḍhyāṃ) [one-should-meditate](smaret) [fortune+increasing](saubhāgyavardhinīm)

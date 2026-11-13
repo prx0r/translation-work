@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p232-v5776
-[rasa-gandha-atmane](rasagandhātmane) [tv-ante](tvante) [tri-mūrti-īśam](trimūrtīśaṃ) [sa-bīndukam](sabīndukam)
+[taste-smell-nature](rasagandhātmane) [to-you-at-end](tvante) [three-form-lord](trimūrtīśaṃ) [with-bindu](sabīndukam)
 
 ## mukta-m0-p232-v5777
-[ṭa-varga](ṭavarga) [ca](ca) [tathā-uddhṛtya](tathoddhṛtya) [śrotra-tvak-cakṣuḥ-ity-atha](śrotratvakcakṣurityatha)
+[ṭa-group](ṭavarga) [and](ca) [likewise](tathā) [having-extracted](uddhṛtya) [ear-skin-eye](śrotratvakcakṣuḥ) [thus](iti) [then](atha)
 
 ## mukta-m0-p232-v5778
-[jhiṇṭīśa](jhiṇṭīśa) [bindu-saṃyuktam](bindusaṃyuktaṃ) [ta-vargam](tavargaṃ) [tādṛśam](tādṛśa) [vadet](vadet)
+[jhiṇṭīśa](jhiṇṭīśa) [joined-with-bindu](bindusaṃyuktaṃ) [ta-group](tavargaṃ) [in-that-manner](tādṛśa) [one-should-say](vadet)
 
 ## mukta-m0-p232-v5779
-[varma-aṇu-bindu-yuk](varmāṇubinduyuk) [sadyaḥ](sadyaḥ) [pa-vargaḥ](pavargo) [bindu-saṃyutaḥ](bindusaṃyutaḥ)
+[armor-syllable](varmāṇu) [joined-with-bindu](binduyuk) [sadyaḥ](sadyaḥ) [pa-group](pavargo) [joined-with-bindu](bindusaṃyutaḥ)
 
 ## mukta-m0-p232-v5780
-[anugrahaḥ](anugraho) [bindu-yuktaḥ](binduyukto) [netra-mantraḥ](netramantra) [udāhṛtaḥ](udāhṛtaḥ)
+[anugraha](anugraho) [joined-with-bindu](binduyukto) [eye-mantra](netramantra) [is-declared](udāhṛtaḥ)
 
 ## mukta-m0-p232-v5781
-[uktvā](uktvā) [mano-buddhi-ahaṅkāra-anta-citātmane](manobuddhyahaṅkārāntacitātmane) [padam](padam)
+[having-uttered](uktvā) [to-mind-intellect-ego-end-consciousness-self](manobuddhyahaṅkārāntacitātmane) [word](padam)
 
 ## mukta-m0-p232-v5782
-[evam](evaṃ) [ṣaḍ-aṅga-manava-stāra-bīja-trayādi-kāḥ](ṣaḍaṅgamanavastārabījatrayādikāḥ)
+[thus](evaṃ) [six-limb-mantras](ṣaḍaṅgamanavaḥ) [beginning-with-tāra-seed-triad](tārabījatrayādikāḥ)
 
 ## mukta-m0-p232-v5783
-[nāmitaḥ](nāmitaḥ) [pāda-yugma-antam](pādayugmāntaṃ) [kaṇṭha-dāna-abhi-mastakāt](kaṇṭhadānābhimastakāt)
+[from-navel](nāmitaḥ) [up-to-pair-of-feet](pādayugmāntaṃ) [from-throat-giving-navel-head](kaṇṭhadānābhimastakāt)
 
 ## mukta-m0-p232-v5784
-[tataḥ](tato) [hṛt-padma-madhye](hṛtpadmamadhye) [tu](tu) [dhyātvā](dhyātvā) [vasu-dala-ambujam](vasudalāmbujam)
+[then](tato) [in-middle-of-heart-lotus](hṛtpadmamadhye) [indeed](tu) [having-meditated](dhyātvā) [eight-petaled-lotus](vasudalāmbujam)
 
 ## mukta-m0-p232-v5785
-[nairṛtya-uttara-yāmyeṣu](nair-ṛtyottarayāmyeṣu) [karṇikāyām](karṇikāyāṃ) [daleṣu](daleṣu) [ca](ca)
+[in-southwest-north-south](nair-ṛtyottarayāmyeṣu) [in-pericarp](karṇikāyāṃ) [in-petals](daleṣu) [and](ca)
 
 ## mukta-m0-p232-v5786
-[ekaikaśaḥ](ekaikaśo) [lavarjyāni](lavarjyāni) [tataḥ](tato) [devīm](devīṃ) [hṛdi](hṛdi) [smaret](smaret)
+[one-by-one](ekaikaśo) [excluding-la](lavarjyāni) [then](tato) [goddess](devīṃ) [in-heart](hṛdi) [one-should-remember](smaret)
 
 ## mukta-m0-p232-v5787
-[devīm](devīm)
+[goddess](devīm)
 
 ## mukta-m0-p232-v5788
-[juhuyāt](juhuyād) [tat-daśāṃśam](taddaśāṃśaṃ) [ca](ca) [carubhiḥ](carubhirdhṛtasaṃyutaiḥ) [dhṛta-saṃyutaiḥ](carubhirdhṛtasaṃyutaiḥ)
+[one-should-offer](juhuyāt) [its-tenth-part](taddaśāṃśaṃ) [and](ca) [with-oblations](carubhiḥ) [mixed-with-ghee](dhṛtasaṃyutaiḥ)
 
 ## mukta-m0-p232-v5789
-[arcayet](arcayet) [ṣaṭsu](ṣaṭsu) [koṇeṣu](koṇeṣu) [brahmāṇam](brahmāṇaṃ) [viṣṇum](viṣṇum) [īśvaram](īśvaram)
+[one-should-worship](arcayet) [in-six-corners](ṣaṭsu) [in-corners](koṇeṣu) [Brahmā](brahmāṇaṃ) [Viṣṇu](viṣṇum) [Īśvara](īśvaram)
 
 ## mukta-m0-p232-v5790
-[daleṣu](daleṣu) [mātaraḥ](mātaraḥ) [pūjyāḥ](pūjyāstadbāhye) [tat-bāhye](pūjyāstadbāhye) [loka-nāyakāḥ](lokanāyakāḥ)
+[in-petals](daleṣu) [mothers](mātaraḥ) [to-be-worshipped](pūjyāḥ) [outside-them](tadbāhye) [world-protectors](lokanāyakāḥ)
 
 ## mukta-m0-p232-v5791
-[iti](iti) [saṃsādhitaḥ](saṃsādhito) [mantraḥ](mantraḥ) [ṣaṭ-karma-phala-daḥ](ṣaṭkarmaphalado) [bhavet](bhavet)
+[thus](iti) [well-accomplished](saṃsādhito) [mantra](mantraḥ) [giver-of-fruit-of-six-acts](ṣaṭkarmaphalado) [would-be](bhavet)
 
 ## mukta-m0-p232-v5792
-[sājyena](sājyena) [caruṇā](caruṇā) [paścāt](paścāt) [tarpaṇa-ādi](tarpaṇādi) [samācaret](samācaret)
+[with-ghee-mixed](sājyena) [with-oblation](caruṇā) [afterwards](paścāt) [libation-etc.](tarpaṇādi) [one-should-perform](samācaret)
 
 ## mukta-m0-p232-v5793
-[mṛtā](mṛtā) [vaivasvatāḥ](vaivasvatā) [bhūyaḥ](bhūyo) [jīva-hā](jīvahā) [prāṇa-hā](prāṇahā) [punaḥ](punaḥ)
+[dead](mṛtā) [of-Vaivasvata](vaivasvatā) [again](bhūyo) [life-destroying](jīvahā) [breath-destroying](prāṇahā) [again](punaḥ)
 
 ## mukta-m0-p232-v5794
-[kṣetra-pratiharī](kṣetrapratiharī) [ity-etāḥ](ityetāḥ) [prāṇa-dūtyaḥ](prāṇadūtyo) [nava](nava) [smṛtāḥ](smṛtāḥ)
+[field-obstructing](kṣetrapratiharī) [thus-these](iti) [etāḥ](etāḥ) [life-messengers](prāṇadūtyo) [nine](nava) [are-remembered](smṛtāḥ)
 
 ## mukta-m0-p232-v5795
-[aṃkuśena](aṃkuśena) [hṛtasya-api](hṛtasyāpi) [sādhyasya](sādhyasyāsūn) [asūn](sādhyasyāsūn) [samāharet](samāharet)
+[with-hook](aṃkuśena) [of-seized](hṛtasya) [even](api) [of-target-person](sādhyasya) [life-breaths](asūn) [one-should-draw](samāharet)
 
 ## mukta-m0-p232-v5796
-[tasyāḥ](tasyāḥ) [prāṇa-ātmakam](prāṇātmakaṃ) [yantram](yantraṃ) [sa-kīṭam](sakīṭaṃ) [hṛdaye](hṛdaye) [nyaset](nyaset)
+[of-her](tasyāḥ) [consisting-of-life-breath](prāṇātmakaṃ) [diagram](yantraṃ) [with-insect](sakīṭaṃ) [in-heart](hṛdaye) [one-should-place](nyaset)
 
 ## mukta-m0-p232-v5797
-[daleṣu](daleṣu) [vāyu-vahni-indra-varuṇānām](vāyuvahnīndravaruṇānām) [ataḥ](ataḥ) [param](param)
+[in-petals](daleṣu) [of-Vāyu-Agni-Indra-Varuṇa](vāyuvahnīndravaruṇānām) [thereafter](ataḥ) [then](param)
 
 ## mukta-m0-p232-v5798
-[yādīn](yādīn) [haṃsa-samāyuktān](haṃsasamāyuktān) [bhṛṅga-ākāra-anusmaret](bhṛṅgākārānanusmaret)
+[beginning-with-ya](yādīn) [joined-with-haṃsa](haṃsasamāyuktān) [having-bee-form](bhṛṅgākārān) [one-should-mentally-visualize](anusmaret)
 
 ## mukta-m0-p232-v5799
-[evam](evam) [ātma-hṛd-ambhoje](ātmahṛdambhoje) [bhṛṅgī-rūpān](bhṛṅgīrūpān) [dhiyā](dhiyā) [smaret](smaret)
+[thus](evam) [in-one's-own-heart-lotus](ātmahṛdambhoje) [in-female-bee-form](bhṛṅgīrūpān) [with-mind](dhiyā) [one-should-remember](smaret)
 
 ## mukta-m0-p232-v5800
-[ekaikām](ekaikāṃ) [sādhya-hṛt-padma-ad](sādhyahṛtpadmād) [bhṛṅgān](bhṛṅgānekaikamānayed) [ekaikam](bhṛṅgānekaikamānayed) [ānayed](bhṛṅgānekaikamānayed)
+[one-by-one](ekaikāṃ) [from-target's-heart-lotus](sādhyahṛtpadmād) [bees](bhṛṅgān) [one-by-one](ekaikam) [one-should-bring](ānayed)
