@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p134",
  "verse": 3332,
- "question": "How should a yogin assume the posture known as svastika?",
+ "question": "Which specific fish are prohibited for ritual use?",
  "premises": [
-  "The yogin should keep the body straight.",
-  "The yogin should enter the svastika posture.",
-  "This posture is declared by tradition as svastika."
+  "The catfish is to be avoided.",
+  "The rajiva fish is to be avoided.",
+  "The madgura fish is likewise to be avoided."
  ],
- "inference": "A yogin with a straight body should enter the posture they declare to be svastika.",
- "uncertainties": [],
- "plain_english": "With a straight body, the yogin should enter the posture that they call svastika."
+ "inference": "Catfish, rajiva fish, and madgura fish must be avoided.",
+ "uncertainties": [
+  "exact species identification of rājīva and madgura is uncertain"
+ ],
+ "plain_english": "One should avoid the catfish, and likewise the rajiva and madgura fish."
 }

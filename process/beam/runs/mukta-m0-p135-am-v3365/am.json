@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3365,
- "question": "Who is the direct recipient of the prescribed bathing rite?",
+ "question": "Which additional fragrant substances are listed for ritual use?",
  "premises": [
-  "A bathing action is prescribed.",
-  "The deity is specified as the object.",
-  "The instruction is ritual in nature."
+  "Niśava and kṛṣṭaka are named as substances.",
+  "Kuśīta is included in the list.",
+  "Uramadam is named as a fragrant substance."
  ],
- "inference": "The deity must be ritually bathed.",
- "uncertainties": [],
- "plain_english": "One should bathe the deity."
+ "inference": "Therefore, these substances are included among the prescribed fragrances.",
+ "uncertainties": [
+  "The exact identification of niśavo, kṛṣṭakam, kuśītaṃ, and uramadam is uncertain."
+ ],
+ "plain_english": "Niśava, kṛṣṭaka, kuśīta, and the fragrant uramadam."
 }

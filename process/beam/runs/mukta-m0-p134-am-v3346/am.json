@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p134",
  "verse": 3346,
- "question": "How are the fish, tortoise, and licking mudrās classified in ritual use?",
+ "question": "Which color combinations are prohibited in ritual offerings?",
  "premises": [
-  "The fish, tortoise, and licking mudrās are named.",
-  "They are identified as mudrās.",
-  "They are considered common or general."
+  "A red-black combination must not be given.",
+  "Yellow must not be offered within a white context.",
+  "Both prohibitions are explicitly enjoined."
  ],
- "inference": "The fish, tortoise, and licking mudrās are considered common mudrās.",
- "uncertainties": [],
- "plain_english": "The mudrās named fish, tortoise, and licking are considered common."
+ "inference": "Red-black combinations and yellow mixed with white must not be offered.",
+ "uncertainties": [
+  "the exact referent of śvete as a white base or white item is context-dependent"
+ ],
+ "plain_english": "One should not give a red-and-black offering, nor should one offer yellow within white."
 }

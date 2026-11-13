@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3370,
- "question": "What must the performer do while uttering the prescribed formula during honey bathing?",
+ "question": "What quantities define the middle and inferior levels of this ritual measure?",
  "premises": [
-  "The performer utters a formula ending with 'make'.",
-  "Honey is the specified substance.",
-  "The deity is to be bathed."
+  "The middle level is performed with one hundred.",
+  "The inferior level is set at twenty-five.",
+  "These are graded ritual measures."
  ],
- "inference": "While reciting the formula, the performer should bathe the deity with honey.",
- "uncertainties": [],
- "plain_english": "Uttering 'make' thus, the performer should bathe the deity with honey."
+ "inference": "Therefore, the middle measure is one hundred and the inferior is twenty-five.",
+ "uncertainties": [
+  "The unit being counted is not specified in this verse."
+ ],
+ "plain_english": "One should do the middle with a hundred, and the inferior with twenty-five."
 }

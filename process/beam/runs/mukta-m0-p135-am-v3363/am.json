@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3363,
- "question": "What kind of flag must be erected according to this instruction?",
+ "question": "What quantities are declared appropriate for black aguru in offering?",
  "premises": [
-  "A flag is to be erected.",
-  "The flag is described as having a banner.",
-  "The presence of a banner is emphasized twice."
+  "Four in equal measure is declared appropriate.",
+  "Two in equal measure is also declared appropriate.",
+  "These measures apply to black aguru."
  ],
- "inference": "The ritual requires erecting a flag accompanied by a banner.",
- "uncertainties": [],
- "plain_english": "One should erect the flag accompanied by a banner."
+ "inference": "Therefore, black aguru should be offered in measures of four or two.",
+ "uncertainties": [
+  "The exact unit of measure is not specified."
+ ],
+ "plain_english": "Four in equal measure is declared, and two in equal measure, for black aguru."
 }

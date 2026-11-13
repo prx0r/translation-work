@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p135",
  "verse": 3362,
- "question": "What general ritual action is prescribed by this single instruction?",
+ "question": "In what quantity should the offering be given rather than singly?",
  "premises": [
-  "A placement action is commanded.",
-  "The instruction is prescriptive.",
-  "No specific object or location is stated here."
+  "The offering should be given in pairs or equal twos.",
+  "Giving one by one is explicitly prohibited.",
+  "This prohibition applies at all times."
  ],
- "inference": "The ritual requires an act of placing or installing something.",
- "uncertainties": [
-  "The object and location of placement are not specified in this verse."
- ],
- "plain_english": "One should place it."
+ "inference": "Therefore, the offering must be given in twos and never singly.",
+ "uncertainties": [],
+ "plain_english": "One should give two in equal measure, but never one by one."
 }
