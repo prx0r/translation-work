@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that-one",
+     "grounds": "refers to the one who remembers",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dūritam",
+     "gloss": "sin",
+     "grounds": "evil deed, misfortune, or impurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "any-whatever",
+     "grounds": "indefinite pronoun emphasizing total absence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahākālīṃ",
+     "gloss": "Mahākālī",
+     "grounds": "name of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-may-remember",
+     "grounds": "act of mindful recollection; root √smṛ",
+     "morph": "3.sg.optative-active √smṛ"
+    },
+    {
+     "surface": "dhiyā",
+     "gloss": "with-mind",
+     "grounds": "instrument of focused thought or awareness",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What sin can remain for one who remembers Mahākālī with the mind?",
+   "premises": [
+    "A person remembers Mahākālī with focused thought.",
+    "Sin or misfortune is negated for that person.",
+    "No sin whatsoever is attributed to that person."
+   ],
+   "inference": "Therefore, mindful remembrance of Mahākālī leaves no sin remaining.",
+   "uncertainties": [
+    "dūritam may denote sin, evil, or misfortune depending on context."
+   ],
+   "plain_english": "For one who remembers Mahākālī with the mind, there is no sin whatsoever."
+  }
+ ]
+}

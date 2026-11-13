@@ -3,34 +3,29 @@
  "verse": 94,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "jīvātmānaṃ",
+   "morph": "compound: jīva+ātman (m.acc.sg)",
+   "grounds": "compound naming the embodied self"
+  },
+  {
+   "lemma": "kuṇḍalinīrūpañ",
+   "morph": "compound: kuṇḍalinī+rūpa (m.acc.sg)",
+   "grounds": "compound describing the soul in the form of kuṇḍalinī; final consonant shows sandhi before ca"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negates the first alternative"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "buddheḥ",
-   "morph": "f.gen.sg",
-   "grounds": "the faculty proposed as undergoing change"
+   "lemma": "anāhate",
+   "morph": "n.loc.sg",
+   "grounds": "destination in the anāhata center"
   },
   {
-   "lemma": "pariṇāmaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "real transformation under consideration"
-  },
-  {
-   "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "introduces an alternative framing"
-  },
-  {
-   "lemma": "māyā+ūrdhvam+api",
-   "morph": "(indecl.), compound = māyā+ūrdhvam+api",
-   "grounds": "compound māyā+ūrdhvam+api extending the domain beyond māyā"
-  },
-  {
-   "lemma": "sambhavāt",
-   "morph": "m.abl.sg",
-   "grounds": "gives the reason for rejecting limitation to intellect's transformation"
+   "lemma": "nayet",
+   "morph": "3.sg.optative-active (√nī)",
+   "grounds": "injunction to lead or bring"
   }
  ]
 }

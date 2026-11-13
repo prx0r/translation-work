@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[east-etc-in](prāg+ādiṣu) [but](tu) [seven-also](sapta+api) [in-middle](madhye) [fire](vahniṃ) [thus](tathā) [remembering](smaran)
+[in-east-etc.](prāgādiṣu) [but](tu) [seven](sapta) [also](api) [in-middle](madhye) [fire](vahniṃ) [thus](tathā) [remembering](smaran)
 
 ## mukta-m0-p153-v3802
-[of-tongues](jihvānām) [upon-each-one](abhi+eka+ekaṃ) [of-fire-and](vahneḥ+ca) [two-syllable-beginning](dvi+akṣara+ādikam)
+[of-tongues](jihvānām) [upon](abhi) [one-by-one](ekaikaṃ) [of-fire](vahneḥ) [and](ca) [beginning-with-two-syllables](dvyakṣara+ādikam)
 
 ## mukta-m0-p153-v3803
-[fire](vahniṃ) [with-vessel](sa+bhājanaṃ) [in-hand](haste) [having-taken](gṛhītvā) [charcoal-and](aṅgārakam+ca) [that](tat)
+[fire](vahniṃ) [with-vessel](sa+bhājanaṃ) [in-hand](haste) [having-taken](gṛhītvā) [charcoal](aṅgārakam) [and](ca) [that](tat)
 
 ## mukta-m0-p153-v3804
-[having-circled-around](viparibhrāmya) [pit-but](kuṇḍam+tu) [in-its-middle](tat+madhye) [should-place](vinyaset) [then](tataḥ)
+[having-circumambulated](viparibhrāmya) [fire-pit](kuṇḍam) [but](tu) [in-its-middle](tat+madhye) [one-should-place](vinyaset) [then](tataḥ)
 
 ## mukta-m0-p153-v3805
-[having-done](kṛtvā) [with-darbha-grass](darbhaiḥ) [having-strewn-around](paristīryya) [with-palāśa-aśvattha-leaves](palāśa+aśvattha+patrakaiḥ)
+[having-done](kṛtvā) [with-darbha-grass](darbhaiḥ) [having-strewn-around](paristīryya) [with-palāśa-and-aśvattha-leaves](palāśa+aśvattha+patrakaiḥ)
 
 ## mukta-m0-p153-v3806
-[should-offer](juhuyāt) [one-by-one-but](ekam+ekam+tu) [born-from-lord-nityā-self](nātha+nityā+ātma+bhūta+jaiḥ)
+[one-should-offer](juhuyāt) [one-by-one](ekam+ekam) [but](tu) [born-from-lord-and-nityā-nature](nātha+nityā+ātmabhūta+jaiḥ)
 
 ## mukta-m0-p153-v3807
-[gone-to-own-command-place](sva+ājñā+sthāna+gatāṃ) [having-known](buddhvā) [preceded-by-strewing](paristaraṇa+pūrvakam)
+[gone-to-place-of-own-command](sva+ājñā+sthāna+gatāṃ) [having-known](buddhvā) [preceded-by-strewing-around](paristaraṇa+pūrvakam)
 
 ## mukta-m0-p153-v3808
-[worship](pūjāṃ) [having-completed](samāpya) [should-move](vicaret) [happy](sukhī) [having-that-form-man](tat+rūpa+vān+naraḥ)
+[worship](pūjāṃ) [having-completed](samāpya) [one-should-move-about](vicaret) [happy](sukhī) [having-that-form](tat+rūpa+vān) [man](naraḥ)
 
 ## mukta-m0-p153-v3809
-[should-do-thus](kuryyāt+iti) [in-cruel-acts](krūra+karmasu) [in-malevolent-rites-etc](abhicāra+ādiṣu)
+[one-should-do](kuryyāt) [thus](iti) [in-cruel-acts](krūra+karmasu) [beginning-with-malevolent-rites](abhicāra+ādiṣu)
 
 ## mukta-m0-p153-v3810
-[in-those](teṣu) [that-homa-performance](tat+homa+karaṇaṃ) [when-completed](samāpte) [daily-also](nityaśaḥ+tathā)
+[in-them](teṣu) [performing-that-oblation](tat+homa+karaṇaṃ) [when-completed](samāpte) [daily](nityaśas) [likewise](tathā)
 
 ## mukta-m0-p153-v3811
-[daily-rite](nitya+kramaṃ) [then](tato) [daily](nityaṃ) [with-that-day-mantra](tat+tat+divasa+vidyayā)
+[daily-rite](nitya+kramaṃ) [then](tatas) [daily](nityaṃ) [with-mantra-of-that-day](tat+tat+divasa+vidyayā)
 
 ## mukta-m0-p153-v3812
-[in-auspicious](maṅgale) [previously-uttered](pūrvam+udite) [protect](pāhi) [me-thus](mām+iti) [should-utter](udīrayet)
+[auspicious](maṅgale) [previously-uttered](pūrvam+udite) [protect](pāhi) [me](mām) [thus](iti) [one-should-utter](udīrayet)
 
 ## mukta-m0-p153-v3813
-[homa](homaṃ) [that](taṃ) [threefold](tri+vidhaṃ) [declared](proktaṃ) [by-gross-subtle-supreme](sthūla+sūkṣma+para+tvataḥ)
+[oblation](homaṃ) [that](taṃ) [threefold](trividhaṃ) [declared](proktaṃ) [by-gross-subtle-supreme](sthūla+sūkṣma+paratvataḥ)
 
 ## mukta-m0-p153-v3814
-[of-other](itarasya) [in-prescription](vidhāne) [but](tu) [which](yāni) [to-be-known](jñeyāni) [those](tāni) [but](tu)
+[of-the-other](itarasya) [in-prescription](vidhāne) [but](tu) [which](yāni) [to-be-known](jñeyāni) [those](tāni) [indeed](tu)
 
 ## mukta-m0-p153-v3815
-[should-destroy](vināśayet) [enemies-and](arātīn+ca) [by-homas](homeḥ) [sins](pāpāni) [and-of-self](ca+ātmanaḥ)
+[one-should-destroy](vināśayet) [enemies](arātīn) [and](ca) [by-oblations](homeḥ) [sins](pāpāni) [and](ca) [of-oneself](ātmanaḥ)
 
 ## mukta-m0-p153-v3816
-[therefore-by-homa](tasmāt+homena) [all](sakalaṃ) [should-accomplish](sādhayet) [all-desired](sarva+vāñchitam)
+[therefore](tasmāt) [by-oblation](homena) [all](sakalaṃ) [one-should-accomplish](sādhayet) [all-desired](sarva+vāñchitam)
 
 ## mukta-m0-p153-v3817
-[of-this](asyā) [from-fruition-in-mind](niphālanāt+citte) [that-truth](tat+tattvaṃ) [made-one's-own](sva+ātma+sāt) [made](kṛtam)
+[of-this](asyāḥ) [from-fruition](niphālanāt) [in-mind](citte) [that-truth](tat+tattvaṃ) [made-one's-own](sva+ātmasāt) [done](kṛtam)
 
 ## mukta-m0-p153-v3818
-[chapter](paṭalam) [29](29) [om](oṃ)
+[chapter](paṭalam) [29](29) [oṃ](oṃ)
 
 ## mukta-m0-p153-v3819
-[nothing-unattainable-thus](na+anavāpyam+iti) [this-intended-subject](etat+abhimata+viṣayaḥ)
+[nothing-unattainable](na+anavāpyam) [thus](iti) [this](etat) [intended-subject](abhimata+viṣayaḥ)
 
 ## mukta-m0-p153-v3820
-[considered](parāmṛṣṭam) [29](29) [om-tat-sat](oṃ+tatsat)
+[considered](parāmṛṣṭam) [29](29) [oṃ-tat-sat](oṃ+tatsat)
 
 ## mukta-m0-p153-v3821
-[of-them](tāsāṃ) [circle](cakraṃ) [there](tatra) [worship-sequence](pūjā+kramaṃ) [properly-I-tell](samyak+vadāmi) [to-you](te)
+[of-them](tāsāṃ) [circle](cakraṃ) [there](tatra) [worship-sequence](pūjā+kramaṃ) [properly](samyak) [I-tell](vadāmi) [to-you](te)
 
 ## mukta-m0-p153-v3822
-[subtle-homa-procedures](sūkṣma+homa+vidhānāni) [their-fruits](tat+phalāni) [supreme](paraṃ) [also](tathā)
+[subtle-oblation-procedures](sūkṣma+homa+vidhānāni) [their-fruits](tat+phalāni) [supreme](paraṃ) [likewise](tathā)
 
 ## mukta-m0-p153-v3823
-[without-which](yaiḥ+vinā) [in-world](bhuvane) [mantras](mantrāḥ) [all](sarve) [would-be-fruitless](syuḥ+niṣphalāḥ) [certainly](dhruvam)
+[without-which](yaiḥ+vinā) [in-world](bhuvane) [mantras](mantrāḥ) [all](sarve) [would-be](syuḥ) [fruitless](niṣphalāḥ) [certainly](dhruvam)
 
 ## mukta-m0-p153-v3824
-[formerly](purā) [for-his-slaying-indeed](tasya+vadhāya+eva) [all](sarve) [gods](devāḥ) [made-effort](sa+udyamam)
+[formerly](purā) [for-his-slaying](tasya+vadhāya) [indeed](eva) [all](sarve) [gods](devāḥ) [made-effort](smudyamam)
 
 ## mukta-m0-p153-v3825
-[of-us-two](āvayoḥ) [for-his-removal](tat+nirāsāya) [to-me-thus](mām+iti) [spoke](ākathayat) [then](tadā)
+[of-us-two](āvayoḥ) [for-his-removal](tat+nirāsāya) [to-me](mām) [thus](iti) [spoke](ākathayat) [then](tadā)

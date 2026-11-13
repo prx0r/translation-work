@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "ugrām",
+     "gloss": "fierce-one",
+     "grounds": "name of a goddess-form; object in the enumerated series",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ugra",
+     "gloss": "fierce",
+     "grounds": "qualifying first member describing prabhāṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prabhāṃ",
+     "gloss": "splendor",
+     "grounds": "qualified by ugra; object in the enumerated series",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dīptāṃ",
+     "gloss": "blazing-one",
+     "grounds": "name of a goddess-form; object in the enumerated series",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the previously mentioned locus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikoṇake",
+     "gloss": "in-triangle",
+     "grounds": "locative specifying the ritual diagrammatic locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates continuation or repetition of placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fierce and blazing goddess-forms are situated again within that triangle?",
+   "premises": [
+    "The verse names Ugrā as a present goddess-form.",
+    "The verse names Ugra-prabhā and Dīptā as present goddess-forms.",
+    "The location specified is again that triangle."
+   ],
+   "inference": "Ugrā, Ugra-prabhā, and Dīptā are located again in that triangle.",
+   "uncertainties": [
+    "Whether ugra prabhāṃ denotes a single named form or a descriptive epithet is context-dependent."
+   ],
+   "plain_english": "Again in that triangle are Ugrā, she of fierce splendor, and Dīptā."
+  }
+ ]
+}
