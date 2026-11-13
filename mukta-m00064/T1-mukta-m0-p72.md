@@ -5,13 +5,13 @@
 [that](taṃ) [having-seen](dṛṣṭvā) [lotus+eyed](puṇḍarīka+akṣaṃ) [is-released](mucyate) [indeed](vai) [from-debt+triad](ṛṇa+trayāt)
 
 ## mukta-m0-p72-v1777
-[in-capricorn](makare) [being-present](vartamāne) [and](ca) [at-eclipse](grahaṇe) [of-moon+sun](candra+sūryayoḥ)
+[in-makara](makare) [being-present](vartamāne) [and](ca) [at-eclipse](grahaṇe) [of-moon+sun](candra+sūryayoḥ)
 
 ## mukta-m0-p72-v1778
-[that](tat) [by-brahmā+created](brahma+kalpitaṃ) [place](sthānaṃ) [priests](viprā) [by-brahmā+appointed](brahma+prakalpitāḥ)
+[that](tat) [by-brahmā+created](brahma+kalpitaṃ) [place](sthānaṃ) [brāhmaṇas](viprā) [by-brahmā+appointed](brahma+prakalpitāḥ)
 
 ## mukta-m0-p72-v1779
-[one-should-satisfy](tarpayettu) [gayā+priests](gayā+viprān) [with-oblation+offering+rite](havya+kavya+vidhānataḥ)
+[one-should-satisfy](tarpayet) [indeed](tu) [gayā+brāhmaṇs](gayā+viprān) [by-oblation+offering+rite](havya+kavya+vidhānataḥ)
 
 ## mukta-m0-p72-v1780
 [who](yaḥ) [performs](karoti) [great+gift](mahā+dānaṃ) [bull+release](vṛṣa+utsargaṃ) [performs](karoti) [who](yaḥ)
@@ -20,22 +20,22 @@
 [four+sixty](catuḥ+ṣaṣṭi) [bow+measure](dhanur+mānaṃ) [field](kṣetram) [by-agastya+declared](āgastya+īritam)
 
 ## mukta-m0-p72-v1782
-[urvaśī](urvaśī) [and](ca) [likewise](tathā) [sun](sūryaḥ) [kāma](kāmaḥ) [son](putraḥ) [and](ca) [of-indra](vāsavaḥ)
+[urvaśī](urvaśī) [and](ca) [likewise](tathā) [sun](sūryaḥ) [kāma](kāmaḥ) [son](putraḥ) [and](ca) [vāsava](vāsavaḥ)
 
 ## mukta-m0-p72-v1783
-[by-hanging+dead](udbandhana+mṛtā) [those-who](ye) [and](ca) [by-noose+dead](gala+pāśa+mṛtāḥ) [and](ca) [those-who](ye)
+[by-hanging+dead](udbandhana+mṛtā) [who](ye) [and](ca) [by-noose+dead](gala+pāśa+mṛtāḥ) [and](ca) [who](ye)
 
 ## mukta-m0-p72-v1784
 [not+funeral-rites](na+antyeṣṭiḥ) [not](na) [and](ca) [cremation](dāhaḥ) [and](ca) [not+impurity](na+āśaucaṃ) [for-them](teṣu) [is-prescribed](vidyate)
 
 ## mukta-m0-p72-v1785
-[from-new-moon](amāyāñca) [having-begun](samārabhya) [one-should-perform](kuryāt) [and](ca) [indeed](eva) [three+night-period](tri+rātrakam)
+[from-new-moon](amāyāñ) [and](ca) [having-begun](samārabhya) [one-should-perform](kuryāt) [and](ca) [indeed](eva) [three+night-period](tri+rātrakam)
 
 ## mukta-m0-p72-v1786
-[fruitless](viphalā) [and](ca) [rite](kriyā) [of-them](teṣāṃ) [one-should-practice](caret) [cāndrāyaṇa](cāndrāyaṇaṃ) [vow](vratam)
+[fruitless](viphalā) [and](ca) [rite](kriyā) [of-them](teṣāṃ) [one-should-practice](caret) [and](ca) [cāndrāyaṇa+vow](āndrāyaṇaṃ+vratam)
 
 ## mukta-m0-p72-v1787
-[at-other+holy-place](anya+tīrthe) [done](kṛtaṃ) [sin](pāpaṃ) [at-gayā](gayāyāntu) [is-destroyed](vinaśyati)
+[at-other+holy-place](anya+tīrthe) [done](kṛtaṃ) [sin](pāpaṃ) [at-gayā](gayāyām) [indeed](tu) [is-destroyed](vinaśyati)
 
 ## mukta-m0-p72-v1788
 [at-rāma+field](rāma+kṣetre) [done](kṛtaṃ) [sin](pāpaṃ) [at-maṇikūṭa](maṇikūṭe) [is-destroyed](vinaśyati)
@@ -59,19 +59,19 @@
 [then](tataḥ) [on-other+day](anya+divase) [in-morning](kālyā) [at-āgastya](āgastye) [bath](snānam) [one-should-perform](ācaret)
 
 ## mukta-m0-p72-v1795
-[there](tatra) [svāhā](svāhā) [o-great-goddess](mahā+īśāni) [agniṣṭoma+fruit](agniṣṭoma+phalaṃ) [one-obtains](labhet)
+[there](tatra) [svāhā](svāhā) [o-great-goddess](mahā+īśāni) [agniṣṭoma+fruit](agniṣṭoma+phalaṃ) [obtains](labhet)
 
 ## mukta-m0-p72-v1796
 [birth+birth+accumulated](janma+janma+arjitaṃ) [sin](pāpaṃ) [remove](hara) [of-me](me) [o-supreme-goddess](parama+īśvari)
 
 ## mukta-m0-p72-v1797
-[of-the-deity](devasya) [in-eastern+part](pūrva+bhāge) [indeed](tu) [well](vāpī) [stands](tiṣṭhati) [beautiful](śobhanā)
+[of-deity](devasya) [in-eastern+part](pūrva+bhāge) [indeed](tu) [well](vāpī) [stands](tiṣṭhati) [beautiful](śobhanā)
 
 ## mukta-m0-p72-v1798
 [in-southeast](āgneye) [of-ash+mountain](bhasma+śailasya) [bow+eight+measure](dhanur+aṣṭa+pramāṇataḥ)
 
 ## mukta-m0-p72-v1799
-[at-piśāca+liberation+holy-place](piśāca+mocane+tīrthe) [worshipped](pūjayāmāsa) [the-trident-bearer](śūlinam)
+[at-piśāca+liberation+holy-place](piśāca+mocane+tīrthe) [worshipped](pūjayāmāsa) [śiva](śūlinam)
 
 ## mukta-m0-p72-v1800
 [in-northwest](vāyavye) [of-ash+peak](bhasma+kūṭasya) [bow+madana+measure](dhanur+madana+mānataḥ)
