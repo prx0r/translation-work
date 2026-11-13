@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p108-v2676
-[nakshatra](nākṣatram) [moon](iṃdoḥ) [bhagaṇa](bhagaṇa) [revolution](bhramāt) [and](ca)
+[nakṣatra](nākṣatram) [moon](iṃdoḥ) [zodiac+revolution](bhagaṇa+bhramāt) [and](ca)
 
 ## mukta-m0-p108-v2677
-[thirty](triṃśat) [days](dina) [sāvana](sāvana) [month](māsaḥ)
+[thirty](triṃśat) [day](dinaṃ) [civil+month](sāvana+māsaḥ)
 
 ## mukta-m0-p108-v2678
-[from-first-day](ādyadināt) [to-end](amāntam) [indeed](khalu) [lunar](cāṃdra) [they-call](āhuḥ)
+[first+day](ādya+dināt) [new-moon+end](amā+āṃtaṃ) [indeed](khalu) [lunar](cāṃdram) [they-call](āhuḥ)
 
 ## mukta-m0-p108-v2679
-[by-those-months](tattanmāsaiḥ) [twelve](dvādaśabhiḥ) [that-year](tattadabdaḥ) [becomes](bhavet) [certainly](dhruvam)
+[by-those](tat) [by-those+months](tat+māsaiḥ) [by-twelve](dvādaśabhiḥ) [that+year](tat+abdaḥ) [becomes](bhavet) [certainly](dhruvam)
 
 ## mukta-m0-p108-v2680
-[solstice](ayane) [equinox](viṣuve) [and](ca) [indeed](eva) [transit](saṃkrāṃteḥ) [auspicious-time](puṇyakālatā)
+[at-solstice](ayane) [at-equinox](viṣuve) [and](ca) [indeed](eva) [of-transition](saṃkrāṃteḥ) [auspicious-time+state](puṇyakāla+tā)
 
 ## mukta-m0-p108-v2681
-[vow-fasting-pilgrimage-etc](vratopavāsayātrādi) [rites](kriyā) [by-lunar](cāṃdreṇa) [taken](gṛhyate)
+[vow+fasting+pilgrimage+etc](vrata+upavāsa+yātrā+ādi) [activity](kriyā) [by-lunar](cāṃdreṇa) [is-taken](gṛhyate)
 
 ## mukta-m0-p108-v2682
-[sāvana](sāvanāni) [these](etāni) [yajna-time-rule](yajñakālavidhi) [by-them](stutaiḥ)
+[civil](sāvanāni) [will-be](syuḥ) [these](etāni) [sacrifice+time+rule+praise](yajña+kāla+vidhi+stutaiḥ)
 
 ## mukta-m0-p108-v2683
-[impurity-etc-boundary](sūtakādiparicchedaḥ) [days-months-years](dinamāsābdapāḥ) [and](tathā)
+[impurity+etc+determination](sūtaka+ādi+paricchedaḥ) [day+month+year+falling](dina+māsa+abda+pāḥ) [likewise](tathā)
 
 ## mukta-m0-p108-v2684
-[red-eyed](raktākṣam) [bent-foot](kuṃcitapadam) [ram](meṣam) [in-heart-meditate](hṛdivibhāvaye)
+[red+eyed](rakta+ākṣaṃ) [curved+footed](kuṃcita+padaṃ) [Aries](meṣaṃ) [in-heart](hṛdi) [I-meditate](vibhāvaye)
 
 ## mukta-m0-p108-v2685
-[red-colored](raktavarṇaḥ)
+[red+colored](rakta+varṇaḥ)
 
 ## mukta-m0-p108-v2686
-[hump-shining-shoulder](kakudvirājamānāṃsam) [bull](vṛṣabham) [in-heart-meditate](hṛdibhāvaya)
+[hump+shining+shouldered](kakud+virājamāna+aṃsaṃ) [Taurus](vṛṣabhaṃ) [in-heart](hṛdi) [meditate](bhāvaya)
 
 ## mukta-m0-p108-v2687
-[white-colored](śvetavarṇaḥ)
+[white+colored](śveta+varṇaḥ)
 
 ## mukta-m0-p108-v2688
-[mutually](anyonyā) [joined-lotus-hands](śliṣṭahastābjam) [twins](mithunam) [in-heart-meditate](hṛdibhāvaye)
+[mutually](anyonyā) [clasped+hand+lotuses](śliṣṭa+hasta+abjaṃ) [Gemini](mithunaṃ) [in-heart](hṛdi) [meditate](bhāvaye)
 
 ## mukta-m0-p108-v2689
-[belly-placed-face](kukṣivinyastavadanam) [meditate](dhyāyāmi) [in-heart-crab](hṛdikarkaṭam)
+[belly+placed+face](kukṣi+vinyasta+vadanaṃ) [I-meditate](dhyāyāmi) [in-heart](hṛdi) [Cancer](karkaṭam)
 
 ## mukta-m0-p108-v2690
-[pale-red-colored](pāṭalavarṇaḥ)
+[pale-red+colored](pāṭala+varṇaḥ)
 
 ## mukta-m0-p108-v2691
-[long-tail-joined](dīrghalāṃgūlasaṃyuktam) [lion](siṃham) [in-heart-meditate](hṛdivibhāvaye)
+[long+tail+endowed](dīrgha+lāṃgūla+saṃyuktaṃ) [Leo](siṃhaṃ) [in-heart](hṛdi) [I-meditate](vibhāvaye)
 
 ## mukta-m0-p108-v2692
-[smoke-pale-colored](dhūmrapāṃḍaravarṇaḥ)
+[smoky+pale+colored](dhūmra+pāṃḍara+varṇaḥ)
 
 ## mukta-m0-p108-v2693
-[full-moon-faced](pūrṇacaṃdramukhīm) [beloved](kāṃtām) [maiden](kanyām) [in-heart-meditate](hṛdivibhāvaye)
+[full+moon+faced](pūrṇa+caṃdra+mukhīṃ) [lovely](kāṃtāṃ) [Virgo](kanyāṃ) [in-heart](hṛdi) [I-meditate](vibhāvaye)
 
 ## mukta-m0-p108-v2694
-[variegated-colored](citravarṇā)
+[variegated+colored](citra+varṇā)
 
 ## mukta-m0-p108-v2695
-[balance-named](tuletināmnā) [famous](vikhyatām) [number-form](saṃkhyārūpām) [worship](upāsmahe)
+[Libra](tulā) [thus+name+famous](iti+nāmna+vikhyatāṃ) [balance+form](saṃkhyā+rūpām) [we-worship](upāsmahe)
 
 ## mukta-m0-p108-v2696
-[black-colored](kṛṣṇavarṇā)
+[black+colored](kṛṣṇa+varṇā)
 
 ## mukta-m0-p108-v2697
-[raised-tail-tip](ātolyamānapucchāgram) [scorpion](vṛścikam) [in-heart-meditate](hṛdibhāvaye)
+[raised+tail+tip](ātolyamāna+puccha+agraṃ) [Scorpio](vṛścikaṃ) [in-heart](hṛdi) [I-meditate](vibhāvaye)
 
 ## mukta-m0-p108-v2698
-[golden-colored](kanakavarṇaḥ)
+[golden+colored](kanaka+varṇaḥ)
 
 ## mukta-m0-p108-v2699
-[raised-sharp-arrow-tip](āropitograbāṇāgram) [bow](dhanuḥ) [in-heart-meditate](hṛdivibhāvaye)
+[placed+raised+arrow+tip](āropita+ugra+bāṇa+agraṃ) [bow](dhanuḥ) [in-heart](hṛdi) [I-meditate](vibhāvaye)
 
 ## mukta-m0-p108-v2700
-[tawny-colored](piṃgalavarṇam)
+[tawny+colored](piṃgala+varṇam)

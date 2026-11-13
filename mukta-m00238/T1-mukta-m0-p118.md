@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-[red-colored](rakta+varṇā) [in-body](dehe) [in-mouth](mukhe) [white-colored](śveta+varṇā)
+[red-colored](raktavarṇā) [on-body](dehe) [on-face](mukhe) [white-colored](śvetavarṇā)
 
 ## mukta-m0-p118-v2927
-[skull-vajra-spoken](kapāla+vajriṇī+proktā) [all-enemies-fear-causing](sarva+śatru+bhayaṃ+karī)
+[skull](kapāla) [+vajra-holder](vajriṇī) [+called](proktā) [all](sarva) [+enemy](śatru) [+fear](bhayaṃ) [+causing](karī)
 
 ## mukta-m0-p118-v2928
-[red-colored](rakta+varṇā)
+[red-colored](raktavarṇā)
 
 ## mukta-m0-p118-v2929
-[skull-sword-power](kapāla+khaḍginī+bhutyai) [enemies-fear-increasing](śatrūṇāṃ+bhaya+vardhinī)
+[skull](kapāla) [+sword-holder](khaḍginī) [+for-prosperity](bhutyai) [of-enemies](śatrūṇāṃ) [+fear](bhaya) [+increasing](vardhinī)
 
 ## mukta-m0-p118-v2930
-[red-colored](rakta+varṇā) [in-body](dehe) [in-mouth](mukhe) [red-colored](rakta+varṇā)
+[on-body](dehe) [blue-colored](nīlavarṇā) [on-face](mukhe) [red-colored](raktavarṇā)
 
 ## mukta-m0-p118-v2931
-[sword-protector-equipped](kṛpāṇa+pālikā+yukta) [hand-light-fear-causing](karāloka+bhayaṃ+karī)
+[sword](kṛpāṇa) [+edge](pālikā) [+endowed-with](yukta) [hand](kara) [+world](āloka) [+fear](bhayaṃ) [+causing](karī)
 
 ## mukta-m0-p118-v2932
-[dark-colored](śyāma+varṇā)
+[dark-colored](śyāmavarṇā)
 
 ## mukta-m0-p118-v2933
-[thin-bellied](kṛśa+udarī) [in-hand](kare) [vessel](pātraṃ) [sword](khaḍgaṃ) [holds](dhatte) [terrifying](vibhīṣaṇā)
+[slender](kṛśa) [+belly](udarī) [+in-hand](kare) [bowl](pātraṃ) [sword](khaḍgaṃ) [holds](dhatte) [terrifying](vibhīṣaṇā)
 
 ## mukta-m0-p118-v2934
-[red-colored](rakta+varṇā)
+[red-colored](raktavarṇā)
 
 ## mukta-m0-p118-v2935
-[sword-shield-holding](khaḍgaṃ+kheṭaṃ+dadhānā) [long-limbed](dīrgha+aṃgā) [curved-faced](kuṃcita+ānanā)
+[sword](khaḍgaṃ) [+shield](kheṭaṃ) [+holding](dadhānā) [and](ca) [long](dīrgha) [+limbed](āṃgā) [contracted](kuṃcita) [+faced](ānanā)
 
 ## mukta-m0-p118-v2936
-[red-colored](rakta+varṇā) [in-body](dehe) [in-mouth](mukhe) [red-colored](rakta+varṇā)
+[on-body](dehe) [blue-colored](nīlavarṇā) [on-face](mukhe) [red-colored](raktavarṇā)
 
 ## mukta-m0-p118-v2937
-[bulging-nosed](tuṃdilā+tuṃga+nāsā) [skull-pestle-adorned](kapāla+musala+aṃcitā)
+[pot-bellied](tuṃdilā) [+prominent](tuṃga) [+nosed](nāsā) [and](ca) [skull](kapāla) [+club](musala) [+adorned-with](āṃcitā)
 
 ## mukta-m0-p118-v2938
-[dark-colored](nīla+varṇā) [in-body](dehe) [white-colored](śveta+varṇā) [in-mouth](mukhe)
+[on-body](dehe) [blue-colored](nīlavarṇā) [on-face](mukhe) [white-colored](śvetavarṇā)
 
 ## mukta-m0-p118-v2939
-[sword-pitcher-holds](kṛpāṇaṃ+kuṃḍikāṃ+dhatte) [bound-lotus-posture](baddha+padmāsane) [standing](sthitā)
+[sword](kṛpāṇaṃ) [+water-pot](kuṃḍikāṃ) [+holds](dhatte) [bound](baddha) [+lotus](padma) [+seat](āsane) [seated](sthitā)
 
 ## mukta-m0-p118-v2940
-[multicolored](citra+varṇā)
+[variegated-colored](citravarṇā)
 
 ## mukta-m0-p118-v2941
-[pale-raised-nose](pāṭalābha+unnata+nasā) [straight-bodied](ṛju+kāyā) [big-bellied](mahā+udarī)
+[pale-red](pāṭala) [+hued](ābha) [+raised](unnata) [+nose](nasā) [+straight](ṛju) [+bodied](kāyā) [large](mahā) [+bellied](udarī)
 
 ## mukta-m0-p118-v2942
-[pale-colored](pāṭala+varṇā)
+[pale-red-colored](pāṭalavarṇā)
 
 ## mukta-m0-p118-v2943
-[bell-staff-cruel](ghaṃṭā+daṃḍa+kara+krūrā) [fierce-faced](karāla+āsyā) [matted-haired](jaṭā+vilā)
+[bell](ghaṃṭā) [+staff](daṃḍa) [+in-hand](karā) [+fierce](krūrā) [terrible](karāla) [+faced](āsyā) [matted-hair](jaṭā) [+possessing](vilā)
 
 ## mukta-m0-p118-v2944
-[dark-colored](nīla+varṇā)
+[blue-colored](nīlavarṇā)
 
 ## mukta-m0-p118-v2945
-[black-white-dark](kṛṣṇa+śveta+chavi+śyāmā) [sword-shield-bearing](khaḍga+kheṭaka+dhāriṇī)
+[black](kṛṣṇa) [+white](śveta) [+complexion](cchaviś) [+dark](śyāmā) [sword](khaḍga) [+shield](kheṭaka) [+holding](dhāriṇī)
 
 ## mukta-m0-p118-v2946
-[black-white-colored](kṛṣṇa+śveta+varṇā)
+[black-white-colored](kṛṣṇaśvetavarṇā)
 
 ## mukta-m0-p118-v2947
-[torch-staff-holding](ulmukaṃ+ca+kara+daṃḍaṃ+dadhānā) [world-terrifying](loka+bhīṣaṇā)
+[firebrand](ulmukaṃ) [and](ca) [in-hand](kare) [+staff](daṃḍaṃ) [holding](dadhānā) [world](loka) [+terrifying](bhīṣaṇā)
 
 ## mukta-m0-p118-v2948
-[red-colored](rakta+varṇā) [throat-dark-colored](kaṃṭhe+nīla+varṇā)
+[red-colored](raktavarṇā) [on-neck](kaṃṭhe) [blue-colored](nīlavarṇā)
 
 ## mukta-m0-p118-v2949
-[sky-venerated-one-rudraksha-garland](vyoma+vaṃdya+eka+rudrākṣa+kacalaṃbita+mālikā)
+[by-sky-dwellers](vyoma) [+venerable](vaṃdya) [+single](eka) [+rudrākṣa](rudrākṣa) [+hair](kaca) [+hanging](laṃbita) [+garland](mālikā)
 
 ## mukta-m0-p118-v2950
-[worship-especially](pūjanīyā+viśeṣeṇa) [knowledge-wisdom-cause](jñāna+vijñāna+hetave)
+[to-be-worshipped](pūjanīyā) [especially](viśeṣeṇa) [knowledge](jñāna) [+realization](vijñāna) [for-the-sake-of](hetave)

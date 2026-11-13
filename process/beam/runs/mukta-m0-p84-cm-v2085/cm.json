@@ -3,34 +3,39 @@
  "verse": 2085,
  "rows": [
   {
-   "lemma": "iti",
+   "lemma": "rājānaḥ",
+   "morph": "m.nom.pl",
+   "grounds": "worldly rulers"
+  },
+  {
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "particle marking conclusion of prior topic"
+   "grounds": "inclusive particle"
   },
   {
-   "lemma": "anna+prāśanaṃ",
-   "morph": "compound: anna+prāśana (n.nom.sg)",
-   "grounds": "compound naming the completed rite"
-  },
-  {
-   "lemma": "proktam",
-   "morph": "n.nom.sg.past.pass.part (pra-vac)",
-   "grounds": "past participle indicating completion of exposition"
-  },
-  {
-   "lemma": "cūḍā+vidhim",
-   "morph": "compound: cūḍā+vidhi (m.acc.sg)",
-   "grounds": "compound naming the next ritual procedure"
-  },
-  {
-   "lemma": "atas",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb marking transition to next topic"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "śṛṇu",
-   "morph": "2.sg.imp.act (śru)",
-   "grounds": "imperative addressing the listener"
+   "lemma": "dāsatvam",
+   "morph": "n.acc.sg",
+   "grounds": "state of subservience"
+  },
+  {
+   "lemma": "ṣaṭ+karmāṇi",
+   "morph": "compound: ṣaṭ+modifier, karmāṇi+head",
+   "grounds": "compound for ritual acts"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "sādhayet",
+   "morph": "3.sg.act.opt-√sādh",
+   "grounds": "optative of accomplishment"
   }
  ]
 }

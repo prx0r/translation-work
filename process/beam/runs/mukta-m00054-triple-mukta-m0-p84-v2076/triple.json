@@ -1,0 +1,1085 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2076,
+   "rows": [
+    {
+     "surface": "aiśānyā",
+     "gloss": "in-northeast",
+     "grounds": "directional locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "rakṣayet",
+     "gloss": "may-protect",
+     "grounds": "optative of protection",
+     "morph": "3.sg.act.opt-√rakṣ"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine female subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātaṅgī",
+     "gloss": "mātaṅgī",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śubha+kāriṇī",
+     "gloss": "auspiciousness-doing",
+     "grounds": "compound epithet",
+     "morph": "compound: śubha+modifier, kāriṇī+head"
+    }
+   ],
+   "question": "Which goddess grants protection from the northeast direction?",
+   "premises": [
+    "Protection is invoked in northeast",
+    "Goddess Mātaṅgī is named protector",
+    "She is characterized as auspiciousness-doing"
+   ],
+   "inference": "Goddess Mātaṅgī protects from the northeast as the doer of auspiciousness.",
+   "uncertainties": [],
+   "plain_english": "May the goddess Mātaṅgī, who brings auspiciousness, protect in the northeast."
+  },
+  {
+   "verse": 2077,
+   "rows": [
+    {
+     "surface": "ūrddhvam",
+     "gloss": "upward",
+     "grounds": "directional adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative of protection",
+     "morph": "3.sg.act.impv-√pā"
+    },
+    {
+     "surface": "mahā+devī",
+     "gloss": "great-goddess",
+     "grounds": "compound epithet",
+     "morph": "compound: mahā+modifier, devī+head"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "beneficiaries of welfare",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hita+kāriṇī",
+     "gloss": "welfare-doing",
+     "grounds": "compound epithet",
+     "morph": "compound: hita+modifier, kāriṇī+head"
+    }
+   ],
+   "question": "Which goddess grants protection in the upward direction?",
+   "premises": [
+    "Protection is invoked upward",
+    "Great goddess is named protector",
+    "She acts for welfare of gods"
+   ],
+   "inference": "The great goddess who works for the welfare of the gods protects above.",
+   "uncertainties": [],
+   "plain_english": "May the great goddess, who brings welfare to the gods, protect above."
+  },
+  {
+   "verse": 2078,
+   "rows": [
+    {
+     "surface": "praṇavam",
+     "gloss": "praṇava",
+     "grounds": "sacred syllable om",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatā",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "māyā",
+     "grounds": "seed syllable or principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāma+bījam",
+     "gloss": "kāma-seed",
+     "grounds": "mantric seed syllable",
+     "morph": "compound: kāma+modifier, bījam+head"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūrccakam",
+     "gloss": "kūrcca",
+     "grounds": "mantric seed syllable",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mantric components constitute the sequence of this protective formula?",
+   "premises": [
+    "Praṇava is included first",
+    "Māyā and kāma-seed follow",
+    "Kūrcca is included in sequence"
+   ],
+   "inference": "The formula consists of praṇava, māyā, the kāma-seed, and kūrcca in sequence.",
+   "uncertainties": [
+    "Exact referents of māyā and kūrcca as bīja syllables are context-dependent"
+   ],
+   "plain_english": "The praṇava, then māyā, the kāma-seed, and kūrcca."
+  },
+  {
+   "verse": 2079,
+   "rows": [
+    {
+     "surface": "sārddha+ekādaśa+varṇā",
+     "gloss": "with-half-eleven-syllables",
+     "grounds": "compound describing syllable count",
+     "morph": "compound: sārddha+modifier, ekādaśa+modifier, varṇā+head"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to goddess or formula",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative of protection",
+     "morph": "3.sg.act.impv-√pā"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "recipient of protection",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What scope and duration of protection does the eleven-and-a-half-syllable formula provide?",
+   "premises": [
+    "Formula has eleven and half syllables",
+    "Protection is requested everywhere",
+    "Protection is requested always"
+   ],
+   "inference": "The eleven-and-a-half-syllable formula should protect the speaker everywhere and always.",
+   "uncertainties": [],
+   "plain_english": "May she, of eleven and a half syllables, always protect me everywhere."
+  },
+  {
+   "verse": 2080,
+   "rows": [
+    {
+     "surface": "trailokya+maṅgalam",
+     "gloss": "three-worlds-auspiciousness",
+     "grounds": "compound name of armor",
+     "morph": "compound: trailokya+modifier, maṅgalam+head"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "names the armor",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavacam",
+     "gloss": "armor",
+     "grounds": "protective hymn",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "deva+durllabham",
+     "gloss": "by-gods-hard-to-obtain",
+     "grounds": "compound expressing rarity",
+     "morph": "compound: deva+modifier, durllabham+head"
+    }
+   ],
+   "question": "What is the name and rarity of this protective armor?",
+   "premises": [
+    "Armor is named Trailokyamaṅgala",
+    "It is called an armor",
+    "It is hard to obtain even for gods"
+   ],
+   "inference": "This armor, named Trailokyamaṅgala, is rare even among the gods.",
+   "uncertainties": [],
+   "plain_english": "This armor, named Trailokyamaṅgala, is hard for even the gods to obtain."
+  },
+  {
+   "verse": 2081,
+   "rows": [
+    {
+     "surface": "parama+aiśvaryam",
+     "gloss": "supreme-sovereignty",
+     "grounds": "compound object of attainment",
+     "morph": "compound: parama+modifier, aiśvaryam+head"
+    },
+    {
+     "surface": "atulam",
+     "gloss": "unequalled",
+     "grounds": "qualifies sovereignty",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "optative of attainment",
+     "morph": "3.sg.act.opt-√āp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What supreme attainment is guaranteed by this armor without doubt?",
+   "premises": [
+    "Supreme unequalled sovereignty is attainable",
+    "Attainment is expressed as possible",
+    "No doubt exists in this matter"
+   ],
+   "inference": "One may obtain supreme, unequalled sovereignty through this armor without doubt.",
+   "uncertainties": [],
+   "plain_english": "One may obtain supreme, unequalled sovereignty; there is no doubt about this."
+  },
+  {
+   "verse": 2082,
+   "rows": [
+    {
+     "surface": "aiśvaryam",
+     "gloss": "sovereignty",
+     "grounds": "attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "su+kavitvam",
+     "gloss": "good-poetry",
+     "grounds": "compound attainment",
+     "morph": "compound: su+modifier, kavitvam+head"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāk+siddhi/",
+     "gloss": "speech-perfection",
+     "grounds": "compound attainment; trailing sandhi marker",
+     "morph": "compound: vāk+modifier, siddhi+head"
+    },
+    {
+     "surface": "llabhate",
+     "gloss": "obtains",
+     "grounds": "result of practice",
+     "morph": "3.sg.mid.pres-√labh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific powers and accomplishments result from this armor?",
+   "premises": [
+    "Sovereignty is obtained",
+    "Good poetry is obtained",
+    "Perfection of speech is certainly obtained"
+   ],
+   "inference": "The armor certainly grants sovereignty, poetic skill, and perfection of speech.",
+   "uncertainties": [],
+   "plain_english": "One certainly obtains sovereignty, poetic excellence, and perfection of speech."
+  },
+  {
+   "verse": 2083,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "rudra",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "divine beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sura+sattamāḥ",
+     "gloss": "best-among-gods",
+     "grounds": "compound epithet",
+     "morph": "compound: sura+modifier, sattamāḥ+head"
+    }
+   ],
+   "question": "Which supreme deities are affected by the sight of the accomplished practitioner?",
+   "premises": [
+    "Brahmā, Viṣṇu, and Rudra are named",
+    "Other best among gods are included",
+    "These deities are subjects of reaction"
+   ],
+   "inference": "Brahmā, Viṣṇu, Rudra, and other foremost gods are among those affected.",
+   "uncertainties": [],
+   "plain_english": "Brahmā, Viṣṇu, Rudra, and those gods who are the best among the gods."
+  },
+  {
+   "verse": 2084,
+   "rows": [
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "refers to practitioner",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakam",
+     "gloss": "practitioner",
+     "grounds": "accomplished ritualist",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "lajjā+yuktā",
+     "gloss": "endowed-with-shame",
+     "grounds": "compound describing reaction",
+     "morph": "compound: lajjā+modifier, yuktā+head"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "resulting state",
+     "morph": "3.pl.act.pres-√bhū"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to gods",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do the great gods react upon seeing the accomplished practitioner?",
+   "premises": [
+    "Gods see the practitioner",
+    "The practitioner is accomplished",
+    "Gods become endowed with shame"
+   ],
+   "inference": "Upon seeing the accomplished practitioner, the gods become filled with shame.",
+   "uncertainties": [
+    "The cause of shame is not explicitly stated"
+   ],
+   "plain_english": "O goddess, having seen that practitioner, they become filled with shame."
+  },
+  {
+   "verse": 2085,
+   "rows": [
+    {
+     "surface": "rājānaḥ",
+     "gloss": "kings",
+     "grounds": "worldly rulers",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāsatvam",
+     "gloss": "servitude",
+     "grounds": "state of subservience",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaṭ+karmāṇi",
+     "gloss": "six-acts",
+     "grounds": "compound for ritual acts",
+     "morph": "compound: ṣaṭ+modifier, karmāṇi+head"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-may-accomplish",
+     "grounds": "optative of accomplishment",
+     "morph": "3.sg.act.opt-√sādh"
+    }
+   ],
+   "question": "What worldly and ritual powers can the practitioner accomplish through this armor?",
+   "premises": [
+    "Even kings may become servants",
+    "The six acts are mentioned",
+    "These can be accomplished"
+   ],
+   "inference": "The practitioner can make even kings serve and accomplish the six ritual acts.",
+   "uncertainties": [
+    "The specific six acts are not enumerated here"
+   ],
+   "plain_english": "Even kings become servants, and one may accomplish the six acts."
+  },
+  {
+   "verse": 2086,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kavacam",
+     "gloss": "armor",
+     "grounds": "protective hymn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ajñātvā",
+     "gloss": "without-knowing",
+     "grounds": "prior lack of knowledge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātaṅgī/",
+     "gloss": "mātaṅgī",
+     "grounds": "goddess name; trailing sandhi marker",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yyo",
+     "gloss": "who",
+     "grounds": "relative pronoun form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "worships",
+     "grounds": "optative of worship",
+     "morph": "3.sg.act.opt-√bhaj"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "human practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition renders worship of Mātaṅgī ineffective or incomplete?",
+   "premises": [
+    "A man may worship Mātaṅgī",
+    "Worship occurs without knowing this armor",
+    "Knowledge of armor is implied as necessary"
+   ],
+   "inference": "Worship of Mātaṅgī without knowledge of this armor is deficient.",
+   "uncertainties": [
+    "The exact consequence is implied rather than stated in this verse"
+   ],
+   "plain_english": "The man who worships Mātaṅgī without knowing this armor."
+  },
+  {
+   "verse": 2087,
+   "rows": [
+    {
+     "surface": "gurau",
+     "gloss": "in-guru",
+     "grounds": "object of devotion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "required attitude",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "obligation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kavace",
+     "gloss": "in-armor",
+     "grounds": "object of firm mind",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛḍhā",
+     "gloss": "firm",
+     "grounds": "quality of mind",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matiḥ",
+     "gloss": "mind",
+     "grounds": "mental disposition",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attitudes toward the guru and the armor are required for success?",
+   "premises": [
+    "Devotion to guru must always be maintained",
+    "Firm mind toward armor is required",
+    "Both are prescribed as necessary"
+   ],
+   "inference": "Success requires constant devotion to the guru and firm confidence in the armor.",
+   "uncertainties": [],
+   "plain_english": "One should always have devotion to the guru and a firm mind in the armor."
+  },
+  {
+   "verse": 2088,
+   "rows": [
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "recipient of boon",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mātaṅginī",
+     "gloss": "mātaṅginī",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "apposition or object form in text",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarva+siddhim",
+     "gloss": "all-accomplishments",
+     "grounds": "compound boon",
+     "morph": "compound: sarva+modifier, siddhim+head"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "bestows",
+     "grounds": "granting of result",
+     "morph": "3.sg.act.pres-√yam"
+    }
+   ],
+   "question": "What reward does the goddess Mātaṅginī grant to the qualified devotee?",
+   "premises": [
+    "A qualified recipient is indicated",
+    "Goddess Mātaṅginī is the giver",
+    "All accomplishments are bestowed"
+   ],
+   "inference": "The goddess Mātaṅginī bestows all accomplishments upon such a devotee.",
+   "uncertainties": [
+    "The form devīṃ is unexpected alongside nominative mātaṅginī"
+   ],
+   "plain_english": "To him, the goddess Mātaṅginī bestows all accomplishments."
+  },
+  {
+   "verse": 2089,
+   "rows": [
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "speaker name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paripapraccha",
+     "gloss": "asked",
+     "grounds": "inquiry action",
+     "morph": "3.sg.act.perf-√prach"
+    },
+    {
+     "surface": "sarva+bhūta+hite",
+     "gloss": "in-welfare-of-all-beings",
+     "grounds": "compound expressing concern",
+     "morph": "compound: sarva+modifier, bhūta+modifier, hite+head"
+    },
+    {
+     "surface": "ratā",
+     "gloss": "delighting",
+     "grounds": "devoted disposition",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What motivates Bhairavī to inquire about teachings for universal welfare?",
+   "premises": [
+    "Bhairavī asks a question",
+    "She delights in welfare of all beings",
+    "Her inquiry is motivated by universal concern"
+   ],
+   "inference": "Bhairavī, devoted to the welfare of all beings, asks for beneficial teaching.",
+   "uncertainties": [],
+   "plain_english": "Bhairavī, delighting in the welfare of all beings, asked."
+  },
+  {
+   "verse": 2090,
+   "rows": [
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "veditum",
+     "gloss": "to-know",
+     "grounds": "purpose of desire",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "wish",
+     "grounds": "expression of desire",
+     "morph": "1.sg.act.pres-√iṣ"
+    },
+    {
+     "surface": "sarva+bhūta+upakārakam",
+     "gloss": "beneficial-to-all-beings",
+     "grounds": "compound describing teaching",
+     "morph": "compound: sarva+modifier, bhūta+modifier, upakārakam+head"
+    }
+   ],
+   "question": "What kind of knowledge does Bhairavī seek for the benefit of beings?",
+   "premises": [
+    "Bhairavī wishes to know something",
+    "The object is beneficial to all beings",
+    "The inquiry concerns universal benefit"
+   ],
+   "inference": "Bhairavī seeks knowledge that brings benefit to all beings.",
+   "uncertainties": [],
+   "plain_english": "I wish to know that which is beneficial to all beings."
+  },
+  {
+   "verse": 2091,
+   "rows": [
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "universal manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreyasām+prāptiḥ",
+     "gloss": "attainment-of-welfare",
+     "grounds": "compound goal",
+     "morph": "compound: śreyasām+modifier, prāptiḥ+head"
+    },
+    {
+     "surface": "bhūtānām",
+     "gloss": "of-beings",
+     "grounds": "beneficiaries",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "bhūtim+icchatām",
+     "gloss": "desiring-prosperity",
+     "grounds": "compound describing beings",
+     "morph": "compound: bhūtim+modifier, icchatām+head"
+    }
+   ],
+   "question": "What universal attainment is sought for beings desiring prosperity?",
+   "premises": [
+    "Attainment of welfare is sought",
+    "It is sought in every way",
+    "It is for beings desiring prosperity"
+   ],
+   "inference": "The goal is the complete attainment of welfare for beings who desire prosperity.",
+   "uncertainties": [],
+   "plain_english": "The attainment in every way of welfare for beings who desire prosperity."
+  },
+  {
+   "verse": 2092,
+   "rows": [
+    {
+     "surface": "kathayiṣyāmi",
+     "gloss": "i-shall-tell",
+     "grounds": "promise to teach",
+     "morph": "1.sg.act.fut-√kath"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "completeness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sukha+sampat+karaṃ",
+     "gloss": "happiness-and-prosperity-making",
+     "grounds": "compound describing teaching",
+     "morph": "compound: sukha+modifier, sampat+modifier, karaṃ+head"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "quality of teaching",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities characterize the teaching promised in response to Bhairavī?",
+   "premises": [
+    "A teaching will be told",
+    "It brings happiness and prosperity",
+    "It is auspicious and complete"
+   ],
+   "inference": "The promised teaching is auspicious and brings happiness and prosperity.",
+   "uncertainties": [],
+   "plain_english": "I shall tell all that, which brings happiness and prosperity and is auspicious."
+  },
+  {
+   "verse": 2093,
+   "rows": [
+    {
+     "surface": "vidyā+aiśvarya+sukha+avāpti",
+     "gloss": "knowledge-sovereignty-happiness-attainment",
+     "grounds": "compound describing result",
+     "morph": "compound: vidyā+modifier, aiśvarya+modifier, sukha+modifier, avāpti+head"
+    },
+    {
+     "surface": "maṅgala+pradam",
+     "gloss": "auspiciousness-giving",
+     "grounds": "compound describing teaching",
+     "morph": "compound: maṅgala+modifier, pradam+head"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "highest quality",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme benefits does the promised teaching confer upon practitioners?",
+   "premises": [
+    "Teaching grants knowledge, sovereignty, and happiness",
+    "Teaching gives auspiciousness",
+    "Teaching is described as supreme"
+   ],
+   "inference": "The supreme teaching grants knowledge, sovereignty, happiness, and auspiciousness.",
+   "uncertainties": [],
+   "plain_english": "It brings the attainment of knowledge, sovereignty, and happiness, gives auspiciousness, and is supreme."
+  },
+  {
+   "verse": 2094,
+   "rows": [
+    {
+     "surface": "maṅgalam",
+     "gloss": "auspiciousness",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṅgalānām",
+     "gloss": "of-auspicious-things",
+     "grounds": "comparative class",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "it-is",
+     "grounds": "assertion of existence",
+     "morph": "3.sg.act.pres-√as"
+    },
+    {
+     "surface": "sarva+sukha+pradam",
+     "gloss": "all-happiness-giving",
+     "grounds": "compound predicate",
+     "morph": "compound: sarva+modifier, sukha+modifier, pradam+head"
+    }
+   ],
+   "question": "How is this teaching ranked among sources of auspiciousness and happiness?",
+   "premises": [
+    "It is auspicious among auspicious things",
+    "It gives all happiness",
+    "Its excellence is asserted"
+   ],
+   "inference": "This teaching is the auspiciousness of auspicious things and grants all happiness.",
+   "uncertainties": [],
+   "plain_english": "It is the auspiciousness among auspicious things and gives all happiness."
+  },
+  {
+   "verse": 2095,
+   "rows": [
+    {
+     "surface": "mātaṅgīm",
+     "gloss": "mātaṅgī",
+     "grounds": "object of contemplation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āvahantīm",
+     "gloss": "bringing",
+     "grounds": "present participle describing goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhimata+phala+dām",
+     "gloss": "desired-fruit-giving",
+     "grounds": "compound epithet",
+     "morph": "compound: abhimata+modifier, phala+modifier, dām+head"
+    },
+    {
+     "surface": "modinīm",
+     "gloss": "delighting",
+     "grounds": "epithet of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cintayāmi",
+     "gloss": "i-contemplate",
+     "grounds": "meditative act",
+     "morph": "1.sg.act.pres-√cint"
+    }
+   ],
+   "question": "Which qualities of Mātaṅgī are the focus of contemplative meditation?",
+   "premises": [
+    "Mātaṅgī is contemplated",
+    "She brings and gives desired fruits",
+    "She is delighting"
+   ],
+   "inference": "Meditation focuses on Mātaṅgī as the delighting giver of desired fruits.",
+   "uncertainties": [],
+   "plain_english": "I contemplate Mātaṅgī, who brings and grants desired fruits and who delights."
+  },
+  {
+   "verse": 2096,
+   "rows": [
+    {
+     "surface": "durita+dalana",
+     "gloss": "for-destruction-of-misfortune",
+     "grounds": "compound purpose",
+     "morph": "compound: durita+modifier, dalana+head"
+    },
+    {
+     "surface": "uddaṇḍa+manase",
+     "gloss": "fierce-minded",
+     "grounds": "compound describing disposition",
+     "morph": "compound: uddaṇḍa+modifier, manase+head"
+    }
+   ],
+   "question": "What fierce intention characterizes the goddess in destroying misfortune?",
+   "premises": [
+    "Destruction of misfortune is indicated",
+    "A fierce mind is attributed",
+    "The disposition supports protective action"
+   ],
+   "inference": "The goddess is fierce-minded for the destruction of misfortune.",
+   "uncertainties": [
+    "Grammatical role depends on continuation in surrounding verses"
+   ],
+   "plain_english": "Fierce-minded for the destruction of misfortune."
+  },
+  {
+   "verse": 2097,
+   "rows": [
+    {
+     "surface": "rasanāyām",
+     "gloss": "on-tongue",
+     "grounds": "location of effect",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "palitā",
+     "gloss": "ripeness",
+     "grounds": "state or effect described",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What transformative effect is described as occurring on the tongue?",
+   "premises": [
+    "The tongue is specified as location",
+    "A state called palitā is present",
+    "The effect is part of the goddess's power"
+   ],
+   "inference": "A transformative ripeness or effect is present on the tongue.",
+   "uncertainties": [
+    "Meaning of palitā in this context is uncertain"
+   ],
+   "plain_english": "And on the tongue there is ripeness."
+  },
+  {
+   "verse": 2098,
+   "rows": [
+    {
+     "surface": "yuvati+jana+yūtha",
+     "gloss": "groups-of-young-women",
+     "grounds": "compound subject group",
+     "morph": "compound: yuvati+modifier, jana+modifier, yūtha+head"
+    },
+    {
+     "surface": "sva+vaśa+gāḥ",
+     "gloss": "under-own-control",
+     "grounds": "compound describing subjugation",
+     "morph": "compound: sva+modifier, vaśa+modifier, gāḥ+head"
+    }
+   ],
+   "question": "What power of attraction or control is attributed to the practitioner?",
+   "premises": [
+    "Groups of young women are mentioned",
+    "They come under one's own control",
+    "This indicates a power of attraction"
+   ],
+   "inference": "The practitioner gains the power to bring groups of young women under control.",
+   "uncertainties": [
+    "Grammatical connection depends on surrounding verses"
+   ],
+   "plain_english": "Groups of young women come under one's own control."
+  },
+  {
+   "verse": 2099,
+   "rows": [
+    {
+     "surface": "deva+vrāta",
+     "gloss": "by-hosts-of-gods",
+     "grounds": "compound agent of reverence",
+     "morph": "compound: deva+modifier, vrāta+head"
+    },
+    {
+     "surface": "praṇamita",
+     "gloss": "bowed-to",
+     "grounds": "past participle indicating reverence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pada+ambhoja+yugalā",
+     "gloss": "pair-of-lotus-feet",
+     "grounds": "compound describing revered feet",
+     "morph": "compound: pada+modifier, ambhoja+modifier, yugalā+head"
+    }
+   ],
+   "question": "What reverence is shown to the goddess by the hosts of gods?",
+   "premises": [
+    "Hosts of gods are the agents",
+    "They bow in reverence",
+    "The pair of lotus feet is honored"
+   ],
+   "inference": "The hosts of gods bow to the goddess's pair of lotus feet.",
+   "uncertainties": [
+    "Grammatical agreement depends on continuation in surrounding verses"
+   ],
+   "plain_english": "Whose pair of lotus feet is bowed to by hosts of gods."
+  }
+ ]
+}
