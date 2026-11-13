@@ -1,16 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 244,
- "question": "What destruction and seeing are mentioned?",
+ "question": "What destruction of wrinkles and grey hair comes from seeing?",
  "premises": [
-  "wrinkle is named",
-  "grey hair is named",
-  "destruction is named",
-  "seeing from very far is named"
+  "Wrinkles and grey hair are destroyed.",
+  "Seeing from very far likewise occurs."
  ],
- "inference": "The verse mentions destruction of wrinkles and grey hair, and seeing from very far.",
+ "inference": "Seeing from very far destroys wrinkles and grey hair.",
  "uncertainties": [
-  "whether sudūrāt modifies nāśam or darśanam is not explicit"
+  "Causal relation."
  ],
- "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, likewise."
+ "plain_english": "Wrinkles and grey hair are destroyed, and seeing from very far likewise occurs."
 }

@@ -1,17 +1,14 @@
 {
  "song": "kjn-p10",
  "verse": 247,
- "question": "What goes away by day and non-eating?",
+ "question": "What goes away through non-eating by day?",
  "premises": [
-  "day is named",
-  "non-eating is named",
-  "age is named",
-  "death is named",
-  "going away is named"
+  "Non-eating by day is the practice.",
+  "Age and death will go."
  ],
- "inference": "The verse says age and death will go away by day and non-eating.",
+ "inference": "Non-eating by day removes age and death.",
  "uncertainties": [
-  "whether vayo and mṛtyuṃ are both objects of gamiṣyate is not explicit"
+  "Literal or symbolic."
  ],
- "plain_english": "By day and non-eating, age and death will go away."
+ "plain_english": "Through non-eating by day, age and death will go away."
 }

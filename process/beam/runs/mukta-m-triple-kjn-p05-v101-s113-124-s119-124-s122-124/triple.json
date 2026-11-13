@@ -6,85 +6,84 @@
    "rows": [
     {
      "surface": "rasanā+tālu+mūle",
-     "gloss": "tongue-palate-root",
-     "grounds": "locative singular neuter of compound rasanā+tālu+mūla",
-     "morph": "loc.sg.n"
+     "gloss": "root-of-tongue-and-palate",
+     "grounds": "compound of rasanā tongue, tālu palate, mūla root in locative",
+     "morph": "compound.loc.sg"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
-     "grounds": "absolutive of root kṛ",
-     "morph": "absolutive, root kṛ"
+     "grounds": "absolutive of kṛ",
+     "morph": "(indecl.)"
     },
     {
      "surface": "vāyuṃ",
      "gloss": "air",
-     "grounds": "accusative singular masculine",
-     "morph": "acc.sg.m"
+     "grounds": "accusative of vāyu",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "pibec",
      "gloss": "should-drink",
-     "grounds": "optative of root pā",
-     "morph": "3.sg.optative, root pā"
+     "grounds": "optative of pā",
+     "morph": "3.sg.opt.act"
     },
     {
      "surface": "chanaiḥ",
      "gloss": "slowly",
-     "grounds": "adverbial instrumental form",
+     "grounds": "instrumental plural of chana",
      "morph": "(indecl.)"
     }
    ],
-   "question": "What happens when air is slowly drunk after being placed at the root of tongue and palate?",
+   "question": "How should breath be drawn at the root of tongue and palate to destroy death?",
    "premises": [
-    "air is placed at tongue-palate root",
-    "it is drunk slowly",
-    "the practice is sustained"
+    "breath is drawn slowly",
+    "breath is drawn at tongue-palate root",
+    "practice destroys old age and death"
    ],
-   "inference": "the verse prescribes a slow air-drinking practice at the tongue-palate root",
+   "inference": "slow breath intake at the tongue-palate root is the prescribed technique for overcoming death",
    "uncertainties": [
-    "exact physiological mechanism is not specified",
-    "chanaiḥ is treated adverbially"
+    "exact physiological location remains interpretive"
    ],
-   "plain_english": "Having placed the air at the root of the tongue and palate, one should drink it slowly."
+   "plain_english": "Having placed the breath at the root of the tongue and palate, one should drink it in slowly."
   },
   {
    "verse": 123,
    "rows": [
     {
      "surface": "abdam+ekaṃ",
-     "gloss": "one-year",
-     "grounds": "accusative singular masculine of compound abda+eka",
-     "morph": "acc.sg.m"
+     "gloss": "for-one-year",
+     "grounds": "compound of abda year and eka one in accusative",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "sandhi fusion yadā+abhyastaṃ",
+     "grounds": "yadā when plus abhyasta practiced",
      "morph": "(indecl.)"
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "nominative dual masculine of dvandva compound",
-     "morph": "nom.du.m"
+     "grounds": "compound of jarā old age and mṛtyu death in nominative",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "vinaśyati",
      "gloss": "is-destroyed",
-     "grounds": "present indicative of root naś",
-     "morph": "3.sg.present, root naś"
+     "grounds": "present of naś",
+     "morph": "3.sg.act.pres"
     }
    ],
-   "question": "What is destroyed after this practice has been performed for one year?",
+   "question": "What happens to old age and death after one year of this breath practice?",
    "premises": [
-    "the practice is performed for one year",
-    "old age and death are named",
-    "they are said to be destroyed"
+    "practice continues for one year",
+    "old age and death are named together",
+    "they are destroyed by practice"
    ],
-   "inference": "one year of practice destroys old age and death",
+   "inference": "sustained practice for one year destroys old age and death",
    "uncertainties": [
-    "whether destruction is literal or soteriological is not specified"
+    "whether one year is literal or symbolic"
    ],
    "plain_english": "When practiced for one year, old age and death are destroyed."
   },
@@ -94,8 +93,8 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "accusative singular neuter",
-     "morph": "acc.sg.n"
+     "grounds": "nominative of viṣa",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "na",
@@ -106,43 +105,43 @@
     {
      "surface": "kramate",
      "gloss": "enters",
-     "grounds": "present indicative of root kram",
-     "morph": "3.sg.present, root kram"
+     "grounds": "present of kram",
+     "morph": "3.sg.mid.pres"
     },
     {
      "surface": "dehe",
      "gloss": "body",
-     "grounds": "locative singular masculine",
-     "morph": "loc.sg.m"
+     "grounds": "locative of deha",
+     "morph": "m.loc.sg"
     },
     {
      "surface": "daṃśito",
      "gloss": "even-bitten",
-     "grounds": "past participle of root daṃś",
-     "morph": "nom.sg.m"
+     "grounds": "past participle of daṃś",
+     "morph": "m.nom.sg"
     },
     {
      "surface": "api",
      "gloss": "also",
-     "grounds": "emphatic particle",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "instrumental plural masculine of compound mahā+uraga",
-     "morph": "instr.pl.m"
+     "grounds": "compound of mahā great and uraga serpent in instrumental plural",
+     "morph": "m.instr.pl"
     }
    ],
-   "question": "Does poison enter the body even when one is bitten by great serpents?",
+   "question": "Does poison enter the body of one bitten by great serpents?",
    "premises": [
     "poison does not enter the body",
-    "this holds even if bitten",
-    "the biters are great serpents"
+    "even one bitten by great serpents",
+    "the claim concerns bodily entry of poison"
    ],
-   "inference": "the practice or state protects against serpent poison entering the body",
+   "inference": "poison does not enter the body even when one is bitten by great serpents",
    "uncertainties": [
-    "whether protection is immediate or resultant is not specified"
+    "whether this is literal immunity or yogic protection"
    ],
    "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
   }
