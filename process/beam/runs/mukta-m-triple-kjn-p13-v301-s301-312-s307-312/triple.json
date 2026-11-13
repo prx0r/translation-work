@@ -7,38 +7,38 @@
     {
      "surface": "prathamaṃ",
      "gloss": "first",
-     "grounds": "ordinal adverb",
+     "grounds": "adverbial accusative form",
      "morph": "(indecl.)"
     },
     {
      "surface": "bālarūpeṇa",
-     "gloss": "in-boy-form",
-     "grounds": "instrumental of compound bāla+rūpa",
+     "gloss": "boy-form",
+     "grounds": "instrumental case ending eṇa",
      "morph": "instr.sg.n"
     },
     {
      "surface": "dvitīyam",
      "gloss": "second",
-     "grounds": "ordinal adjective",
-     "morph": "acc.sg.m"
+     "grounds": "accusative case ending am",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "unmattakākṛtim",
      "gloss": "madman-form",
-     "grounds": "compound unmatta+kākṛti",
+     "grounds": "accusative case ending im",
      "morph": "acc.sg.f"
     }
    ],
-   "question": "Which successive vessel-types are named first as boy-form and second as madman-form?",
+   "question": "Which practitioner forms and ritual duties are enumerated for the vessel?",
    "premises": [
-    "first vessel is boy-form",
-    "second vessel is madman-form"
+    "First vessel appears as a boy.",
+    "Second vessel appears as a madman."
    ],
-   "inference": "the enumeration begins with boy-form then madman-form",
+   "inference": "The verses enumerate successive vessel forms.",
    "uncertainties": [
-    "exact grammatical gender of unmattakākṛtim"
+    "The exact ritual status of each form is not specified."
    ],
-   "plain_english": "First is in boy-form; second is in madman-form."
+   "plain_english": "First as a boy, second as a madman."
   },
   {
    "verse": 308,
@@ -46,44 +46,44 @@
     {
      "surface": "svātantraṃ",
      "gloss": "independence",
-     "grounds": "abstract noun",
+     "grounds": "accusative case ending am",
      "morph": "acc.sg.n"
     },
     {
      "surface": "pañcamaṃ",
      "gloss": "fifth",
-     "grounds": "ordinal adjective",
-     "morph": "acc.sg.m"
+     "grounds": "accusative case ending am",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "devi",
      "gloss": "O-goddess",
-     "grounds": "vocative address",
+     "grounds": "vocative case ending i",
      "morph": "voc.sg.f"
     },
     {
      "surface": "ṣaṣṭhañca",
      "gloss": "sixth-and",
-     "grounds": "sandhi ṣaṣṭham+ca",
-     "morph": "acc.sg.m"
+     "grounds": "fused sandhi with ca",
+     "morph": "acc.sg.n"
     },
     {
      "surface": "vīranāyakam",
      "gloss": "hero-lord",
-     "grounds": "compound vīra+nāyaka",
+     "grounds": "accusative case ending am",
      "morph": "acc.sg.m"
     }
    ],
-   "question": "Which fifth and sixth vessel-types are named as independence and hero-lord?",
+   "question": "Which practitioner forms and ritual duties are enumerated for the vessel?",
    "premises": [
-    "fifth is independence",
-    "sixth is hero-lord"
+    "Fifth vessel is independence.",
+    "Sixth vessel is hero-lord."
    ],
-   "inference": "the list continues with independence then hero-lord",
+   "inference": "The enumeration continues with further vessel forms.",
    "uncertainties": [
-    "case of pañcamaṃ and ṣaṣṭhañca"
+    "The relation between independence and hero-lord is not explained."
    ],
-   "plain_english": "Fifth is independence; sixth is hero-lord, O goddess."
+   "plain_english": "Fifth is independence, sixth is hero-lord, O goddess."
   },
   {
    "verse": 309,
@@ -91,44 +91,44 @@
     {
      "surface": "tridaṇḍañcaiva",
      "gloss": "triple-staff-and-indeed",
-     "grounds": "sandhi tridaṇḍam+ca+eva",
+     "grounds": "fused sandhi with ca and eva",
      "morph": "acc.sg.n"
     },
     {
      "surface": "deveśas",
      "gloss": "O-lord-of-gods",
-     "grounds": "vocative address",
+     "grounds": "vocative case ending as",
      "morph": "voc.sg.m"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "anyaṃ",
      "gloss": "another",
-     "grounds": "pronoun",
+     "grounds": "accusative case ending am",
      "morph": "acc.sg.m"
     },
     {
      "surface": "vedavikrayam",
      "gloss": "veda-seller",
-     "grounds": "compound veda+vikraya",
+     "grounds": "accusative case ending am",
      "morph": "acc.sg.m"
     }
    ],
-   "question": "Which additional vessel-types are named as triple-staff and veda-seller?",
+   "question": "Which practitioner forms and ritual duties are enumerated for the vessel?",
    "premises": [
-    "triple-staff is named",
-    "veda-seller is another named type"
+    "Triple-staff is included.",
+    "Another vessel is a veda-seller."
    ],
-   "inference": "the enumeration includes triple-staff and veda-seller",
+   "inference": "The list includes further named vessel types.",
    "uncertainties": [
-    "exact syntactic relation of deveśas"
+    "Whether triple-staff and veda-seller are separate or overlapping categories is unclear."
    ],
-   "plain_english": "Triple-staff indeed, O lord of gods, and likewise another, a veda-seller."
+   "plain_english": "Triple-staff, likewise another, a veda-seller, O lord of gods."
   },
   {
    "verse": 310,
@@ -136,51 +136,50 @@
     {
      "surface": "akulañca",
      "gloss": "non-clan-and",
-     "grounds": "sandhi akulam+ca",
+     "grounds": "fused sandhi with ca",
      "morph": "acc.sg.n"
     },
     {
      "surface": "kulaṃ",
      "gloss": "clan",
-     "grounds": "noun",
+     "grounds": "accusative case ending am",
      "morph": "acc.sg.n"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive",
-     "morph": "abs"
+     "grounds": "absolutive form",
+     "morph": "(indecl.)"
     },
     {
      "surface": "kulaṃ",
      "gloss": "clan",
-     "grounds": "noun",
+     "grounds": "accusative case ending am",
      "morph": "acc.sg.n"
     },
     {
      "surface": "devyā",
      "gloss": "of-goddess",
-     "grounds": "genitive",
+     "grounds": "genitive case ending ā",
      "morph": "gen.sg.f"
     },
     {
      "surface": "subhāmini",
      "gloss": "O-fair-one",
-     "grounds": "vocative address",
+     "grounds": "vocative case ending i",
      "morph": "voc.sg.f"
     }
    ],
-   "question": "How should clan and non-clan be known in relation to the goddess?",
+   "question": "Which practitioner forms and ritual duties are enumerated for the vessel?",
    "premises": [
-    "non-clan and clan are named",
-    "knowing clan follows",
-    "goddess is referenced"
+    "One must know non-clan and clan.",
+    "Knowledge concerns the goddess's clan."
    ],
-   "inference": "clan status is to be known with reference to the goddess",
+   "inference": "Discernment of clan status is required for the vessel.",
    "uncertainties": [
-    "precise relation of devyā"
+    "The exact criterion for non-clan versus clan is not stated."
    ],
-   "plain_english": "Non-clan and clan, having known clan, O fair one of the goddess."
+   "plain_english": "Having known non-clan and clan, O fair one of the goddess."
   },
   {
    "verse": 311,
@@ -188,43 +187,42 @@
     {
      "surface": "svaguruṃ",
      "gloss": "own-guru",
-     "grounds": "compound sva+guru",
+     "grounds": "accusative case ending um",
      "morph": "acc.sg.m"
     },
     {
      "surface": "pujayen",
      "gloss": "one-should-worship",
-     "grounds": "optative of pūj",
-     "morph": "3.sg.act.opt"
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt."
     },
     {
      "surface": "nityaṃ",
      "gloss": "always",
-     "grounds": "indeclinable",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "triṣkālaṃ",
      "gloss": "three-times",
-     "grounds": "compound tri+skāla",
+     "grounds": "accusative adverbial form",
      "morph": "acc.sg.n"
     },
     {
      "surface": "bhāvitātmanaḥ",
      "gloss": "contemplative-souled",
-     "grounds": "compound bhāvita+ātman",
+     "grounds": "genitive case ending aḥ",
      "morph": "gen.sg.m"
     }
    ],
-   "question": "How often should one worship one's own guru?",
+   "question": "Which practitioner forms and ritual duties are enumerated for the vessel?",
    "premises": [
-    "own guru should be worshipped",
-    "worship is always",
-    "worship is three-times"
+    "One should worship one's own guru.",
+    "Worship occurs always and three times."
    ],
-   "inference": "one should always worship one's own guru three times",
+   "inference": "Continuous guru worship is prescribed for the contemplative vessel.",
    "uncertainties": [
-    "exact force of bhāvitātmanaḥ"
+    "The three times are not specified as daily periods."
    ],
    "plain_english": "One should always worship one's own guru three times, for the contemplative-souled."
   },
@@ -234,31 +232,30 @@
     {
      "surface": "nivedayet",
      "gloss": "one-should-offer",
-     "grounds": "causative optative of nivid",
-     "morph": "3.sg.act.opt"
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt."
     },
     {
      "surface": "prayatnena",
      "gloss": "with-effort",
-     "grounds": "instrumental",
-     "morph": "instr.sg.n"
+     "grounds": "instrumental case ending ena",
+     "morph": "instr.sg.m"
     },
     {
      "surface": "bhuktimuktijigīṣayā",
-     "gloss": "enjoyment-liberation-desiring-to-conquer",
-     "grounds": "compound bhukti+mukti+jigīṣā",
+     "gloss": "enjoyment-liberation-desire",
+     "grounds": "instrumental case ending ā",
      "morph": "instr.sg.f"
     }
    ],
-   "question": "Why should one offer with effort?",
+   "question": "Which practitioner forms and ritual duties are enumerated for the vessel?",
    "premises": [
-    "one should offer",
-    "offering is with effort",
-    "aim is enjoyment and liberation"
+    "One should offer with effort.",
+    "The offering aims at enjoyment and liberation."
    ],
-   "inference": "one should carefully offer desiring enjoyment and liberation",
+   "inference": "Effortful offering is directed toward enjoyment and liberation.",
    "uncertainties": [
-    "exact syntactic scope of bhuktimuktijigīṣayā"
+    "The exact object of offering is not stated."
    ],
    "plain_english": "One should offer with effort, desiring enjoyment and liberation."
   }
