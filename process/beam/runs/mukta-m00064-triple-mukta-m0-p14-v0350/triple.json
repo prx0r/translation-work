@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "instrumental of second-person pronoun, agent of requested speech",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "in-that-matter",
+     "grounds": "locative adverb referring to the previously mentioned topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental used adverbially to mark special emphasis",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request addressed to the revered teacher",
+     "morph": "2.sg.act.imp-√vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of recipient of the requested instruction",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "candra+śekhara",
+     "gloss": "moon-crested-one",
+     "grounds": "vocative epithet of Śiva; compound: candra+śekhara",
+     "morph": "m.voc.sg(compound=candra+śekhara)"
+    }
+   ],
+   "question": "What special instruction must the moon-crested lord impart on that matter to the seeker?",
+   "premises": [
+    "The moon-crested lord is addressed as the authoritative teacher.",
+    "The seeker explicitly requests instruction on a previously indicated matter.",
+    "The request emphasizes a special or particular explanation."
+   ],
+   "inference": "The moon-crested lord is obliged to provide a specially focused teaching on that matter to the seeker.",
+   "uncertainties": [
+    "The exact referent of tatra depends on the immediately preceding context."
+   ],
+   "plain_english": "O moon-crested one, tell me especially about that matter."
+  }
+ ]
+}
