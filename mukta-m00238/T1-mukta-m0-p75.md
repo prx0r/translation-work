@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p75-v1851
-green-colored(haridvarṇaḥ)
+green(harid)+colored(varṇaḥ)
 
 ## mukta-m0-p75-v1852
-brahma-thread-bright-shoulder-and(brahmasūtrojjvalāṃsaṃca) crown-marked-head(kirīṭāṃkitamastakam)
+sacred-thread(brahma)+thread(sūtra)+shining(ujjvala)+shoulders(aṃsaṃ)+and(ca) crown(kirīṭa)+marked(aṃkita)+head(mastakam)
 
 ## mukta-m0-p75-v1853
-pale-red-colored(pāṭalavarṇaḥ)
+pale-red(pāṭala)+colored(varṇaḥ)
 
 ## mukta-m0-p75-v1854
-eldest(jyeṣṭhaḥ) white(śuklaḥ) white-colored(śvetavarṇaḥ) pure-āṣāḍha-compassionate(śucirāṣāḍhakoruṇaḥ)
+Jyeṣṭha(jyeṣṭhaḥ) bright(śuklaḥ) white(śveta)+colored(varṇaḥ) pure(śuciḥ)+Āṣāḍha(āṣāḍhakaḥ)+reddish(aruṇaḥ)
 
 ## mukta-m0-p75-v1855
-bhādra-month(bhādronabhasyaḥ) white(śvetaḥ) syāt(syād) āśvayuja-month(āśvayugro) red-tinged(hitoruṇaḥ)
+Bhādra(bhādraḥ)+Nabhasya(nabhasyaḥ) white(śvetaḥ) should-be(syāt)+Āśvayuja(āśvayuk)+fierce(ugraḥ) beneficial(hitaḥ)+reddish(aruṇaḥ)
 
 ## mukta-m0-p75-v1856
-puṣya-month(puṣyaḥ) sahasya-month(sahasyo) green(haritaḥ) māgha-month-too(māghopi) green(smṛtaḥ)
+Puṣya(puṣyaḥ) Sahasya(sahasyaḥ) green(haritaḥ) Māgha(māghaḥ)+also(api) green(haritaḥ) remembered(smṛtaḥ)
 
 ## mukta-m0-p75-v1857
-spoken-months(uktāmāsādhi) gods(devāśca) colors(varṇaiste) earth-lord(pṛthivīpate)
+said(uktāḥ)+month(māsa)+presiding(adhi)+gods(devāḥ)+and(ca) by-those-colors(varṇaiḥ)+those(te) O-earth(pṛthivī)+lord(pate)
 
 ## mukta-m0-p75-v1858
-viṣṇu-pleasure-for(viṣṇoḥprītyarthametāni) give-brāhmaṇas-to(deyānibrāhmaṇoṣviti)
+of-Viṣṇu(viṣṇoḥ)+satisfaction(prīti)+for-sake(artham)+these(etāni) to-be-given(deyāni)+to-brahmins(brāhmaṇeṣu)+thus(iti)
 
 ## mukta-m0-p75-v1859
-haviṣya-food(haviṣyaṃbrahmacaryaṃ) ca(ca) ground-sleeping(bhūśayyāni) yama-observance(yama sthitiḥ)
+sacred-food(haviṣyaṃ)+celibacy(brahmacaryaṃ) and(ca) ground(bhū)+bed(śayyā)+restraint(niyama)+abiding(sthitiḥ)
 
 ## mukta-m0-p75-v1860
-even-birth-thousands-born(apijanmasahasrotthaṃ) sin(pāpaṃdahati) fierce(dāruṇam)
+even(api)+birth(janma)+thousand(sahasra)+arisen(utthaṃ) sin(pāpaṃ)+burns(dahati) terrible(dāruṇam)
 
 ## mukta-m0-p75-v1861
-trivikrama-pleasure-for(trivikramasya prītyarthaṃ) give(jyeṣṭhamāsi ca)
+of-Trivikrama(trivikramasya) satisfaction(prīti)+for-sake(arthaṃ) to-be-given(dātavyaṃ) in-Jyeṣṭha(jyeṣṭha)+month(māsi) and(ca)
 
 ## mukta-m0-p75-v1862
-āṣāḍha-month(āṣāḍhe) vāmana-pleasure-for(vāmanaprītyai) give-with-devotion(dātavyānīhabhaktitaḥ)
+in-Āṣāḍha(āṣāḍhe) for-Vāmana(vāmana)+satisfaction(prītyai) to-be-given(dātavyāni)+here(iha)+with-devotion(bhaktitaḥ)
 
 ## mukta-m0-p75-v1863
-śrāvaṇa-month(śrāvaṇeśrīdharaprītyai) śrīdhara-pleasure-for(dātavyāni) day-by-day(dinedine)
+in-Śrāvaṇa(śrāvaṇe)+for-Śrīdhara(śrīdhara)+satisfaction(prītyai) to-be-given(dātavyāni) day(dine)+by-day(dine)
 
 ## mukta-m0-p75-v1864
-hṛṣīkeśa-pleasing-for(hṛṣīkeśaprīṇanārthaṃ) mirror-and-sweet-rice(darpaṇaṃ sa guḍodanam)
+for-Hṛṣīkeśa(hṛṣīkeśa)+pleasing(prīṇana)+for-sake(arthaṃ) mirror(darpaṇaṃ) with(sa) jaggery(guḍa)+rice(odanam)
 
 ## mukta-m0-p75-v1865
-padmanābha-pleasure-for(prītyarthaṃ padmanābhasya) give-in-āśvayuja(deyamāśvayuje) by-men(naraiḥ)
+satisfaction(prīti)+for-sake(arthaṃ) of-Padmanābha(padmanābhasya) to-be-given(deyam)+in-Āśvayuja(āśvayuje) by-men(naraiḥ)
 
 ## mukta-m0-p75-v1866
-dāmodara-pleasure-for(dāmodarasya prītyarthaṃ) give-in-kārtika(pradadyāt kārtike) man(naraḥ)
+of-Dāmodara(dāmodarasya) satisfaction(prīti)+for-sake(arthaṃ) should-give(pradadyāt) in-Kārtika(kārtike) man(naraḥ)
 
 ## mukta-m0-p75-v1867
-give-for-viṣṇu-pleasure(dātavyā viṣṇusaṃprītyai) in-mārgaśīrṣa(mārgaśīrṣe) best-men(narottamaiḥ)
+to-be-given(dātavyā) for-Viṣṇu(viṣṇu)+satisfaction(saṃprītyai) in-Mārgaśīrṣa(mārgaśīrṣe) by-best(nara)+men(uttamaiḥ)
 
 ## mukta-m0-p75-v1868
-auspicious-sight(subhagodarśanīyaśca) fame-share(yaśobhāgī) ca(ca) born(jāyate)
+good-fortune(su)+fortunate(bhagaḥ)+handsome(darśanīyaḥ)+and(ca) fame(yaśaḥ)+possessing(bhāgī) and(ca) becomes(jāyate)
 
 ## mukta-m0-p75-v1869
-pauṇḍarīka-fruit(pauṃḍarīka phalaṃ) his(tasya) day-by-day(divase divase) becomes(bhavet)
+Puṇḍarīka(pauṃḍarīka) fruit(phalaṃ) of-him(tasya) day(divase) day(divase) may-be(bhavet)
 
 ## mukta-m0-p75-v1870
-govinda-pleasing-for(goviṃdaprīṇanārthāya) give(puruṣarṣabha)
+for-Govinda(goviṃda)+pleasing(prīṇana)+for-sake(arthāya) to-be-given(dātavyaṃ) O-best(puruṣa)+of-men(ṛṣabha)
 
 ## mukta-m0-p75-v1871
-pauṣa-gold-gift(pauṣekanakadānena) supreme-nourishment(parāṃ puṣṭiṃ) likewise(tathaiva ca)
+in-Pauṣa(pauṣe)+gold(kanaka)+by-giving(dānena) supreme(parāṃ) nourishment(puṣṭiṃ) likewise(tathā)+indeed(eva) and(ca)
 
 ## mukta-m0-p75-v1872
-good-vessel-gift-devoted(satpātradānānu rataśca) minister(maṃtrī) caitra-born(caitrodbhavaścāpi) wonderful-mantra(vicitramaṃtraḥ)
+good(sat)+recipient(pātra)+giving(dāna)+devoted(anurataḥ)+and(ca) minister(maṃtrī) Caitra(caitra)+born(udbhavaḥ)+and(ca)+also(api) varied(vicitra)+counsels(maṃtraḥ)
 
 ## mukta-m0-p75-v1873
-desirous-long-lived-water-travel-habituated(kāmīcirāyurjalayānaśīlassyānmādhave) bāṃdhava-happiness-possessed(bāṃdhavasaukhyayuktaḥ)
+desirous(kāmī)+long(cira)+lived(āyuḥ)+water(jala)+vehicle(yāna)+accustomed(śīlaḥ)+would-be(syāt)+in-Mādhava(mādhave) relatives(bāṃdhava)+happiness(saukhya)+endowed(yuktaḥ)
 
 ## mukta-m0-p75-v1874
-wonderful-intellect(vicitrabuddhiḥ) indeed-long-sūtra(khaludīrghasūtro) jyeṣṭha-born-best-man(jyeṣṭhodbhavaśśreṣṭhataronarassyāt)
+varied(vicitra)+intellect(buddhiḥ) indeed(khalu)+procrastinating(dīrgha)+thread(sūtraḥ) Jyeṣṭha(jyeṣṭha)+born(udbhavaḥ)+most-excellent(śreṣṭha)+man(taraḥ)+would-be(naraḥ)+be(syāt)
 
 ## mukta-m0-p75-v1875
-always-digestive-fire-weak(subhakarmakṛtsyādāṣāḍhajogāḍhatarābhimānaḥ) auspicious-deeds-doer(sadāgnimāṃdyaśśubhakarmakṛtsyādāṣāḍhajogāḍhatarābhimānaḥ)
+always(sadā)+digestive-fire(agni)+weakness(māṃdyaḥ)+auspicious(śubha)+deed(karma)+doing(kṛt)+would-be(syāt)+Āṣāḍha(āṣāḍha)+born(jaḥ)+very-deep(gāḍha)+great(tara)+pride(abhimānaḥ)

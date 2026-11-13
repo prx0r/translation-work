@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "puruṣa+artham",
+     "gloss": "human-goals",
+     "grounds": "compound denoting the aims or purposes of human life",
+     "morph": "puruṣa+artha (compound).acc.sg.nt"
+    },
+    {
+     "surface": "anuṣyāḥ",
+     "gloss": "humans",
+     "grounds": "beings pursuing human aims; surface form given as anuṣyāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣetra",
+     "gloss": "sacred-field",
+     "grounds": "sacred place or domain, here associated with Ānandavana",
+     "morph": "nt.nom.sg"
+    },
+    {
+     "surface": "ānandavana",
+     "gloss": "bliss-forest",
+     "grounds": "name of the sacred grove of Kāśī",
+     "morph": "ānanda+vana (compound).nt.nom.sg"
+    },
+    {
+     "surface": "ādayaḥ",
+     "gloss": "and-others",
+     "grounds": "indicates additional related items in the same class",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which human goals, beings, and sacred domains are included in the locus exemplified by Ānandavana?",
+   "premises": [
+    "Human goals are enumerated in this context.",
+    "Humans are included among those present or concerned.",
+    "The sacred field Ānandavana and similar domains are included."
+   ],
+   "inference": "The locus associated with Ānandavana encompasses human goals, humans, and other sacred domains.",
+   "uncertainties": [
+    "The surface anuṣyāḥ may reflect a variant spelling of manuṣyāḥ.",
+    "The syntactic role of kṣetra and ānandavana depends on the broader sentence continuation."
+   ],
+   "plain_english": "Human goals, humans, and the sacred field of Ānandavana and others are included."
+  }
+ ]
+}

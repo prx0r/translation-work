@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p87-v2151
-[yellow](pīta) [color](varṇaḥ) [yellow-colored](pītavarṇaḥ) [one](eka)
+[yellow-colored](pītavarṇaḥ)
 
 ## mukta-m0-p87-v2152
-[staff-bearers](daṃḍinau) [boon-givers](varadau) [to-be-done](kāryau) [rosary](sākṣasūtra) [water-pot](kamaṃḍalu)
+[staff-holders](daṃḍinau) [boon-givers](varadau) [to-be-made](kāryau) [with-rosary+and-water-pot](sākṣasūtrakamaṃḍalū)
 
 ## mukta-m0-p87-v2153
-[sapphire-like](iṃdranīlākṛtiḥ) [trident-bearer](śūlī) [boon-giver](varadaḥ) [vulture-vehicle](gṛdhravāhanaḥ)
+[sapphire-form](iṃdranīlākṛtiḥ) [trident-holder](śūlī) [boon-giver](varadaḥ) [vulture-vehicle](gṛdhravāhanaḥ)
 
 ## mukta-m0-p87-v2154
-[arrow](bāṇa) [bow](bāṇāsana) [holder](dharaḥ) [to-be-made](kartavya) [son-of-urvaśī?](urkasutaḥ) [always](sadā)
+[arrow+bow-holder](bāṇabāṇāsanadharaḥ) [to-be-made](kartavyaḥ) [sun-son](arkasutaḥ) [always](sadā)
 
 ## mukta-m0-p87-v2155
-[blue-colored](nīlavarṇaḥ) [blue](nīla) [color](varṇaḥ) [thus](iti) [end](samāpta)
+[blue-colored](nīlavarṇaḥ) [||1](||) [1](1)
 
 ## mukta-m0-p87-v2156
-[medicines](auṣadha) [food-grains](dhānya) [etc](ādi) [abode](nilayaṃ) [sun-day](bhānuvāsare)
+[medicine+market+grain+etc.](auṣadhāhavadhānyādi) [abode](nilayaṃ) [on-sun-day](bhānuvāsare)
 
 ## mukta-m0-p87-v2157
-[flowers](puṣpa) [song](gīta) [sacrifice](kratu) [milk](kṣīra) [agriculture](kṛṣi) [work](karma) [moon-day](soma-vāsare)
+[flower+song+sacrifice+milk+agriculture-work](puṣpagītakratukṣīrakṛṣikarma) [on-moon-day](induvāsare)
 
 ## mukta-m0-p87-v2158
-[metals](dhātu) [mine](ākara) [coral](pravāla) [weapon](astra) [work](karma) [mars-day](bhūmija-vāsare)
+[metal+mine+coral+weapon-work](dhātvākarapravālāstrakarma) [on-mars-day](bhūmijavāsare)
 
 ## mukta-m0-p87-v2159
-[dispute](vivāda) [metal](dhātu) [gathering](saṃgrāma) [work](karma) [mercury-day](saumya-vāsare)
+[dispute+metal+battle-work](vivādadhātusaṃgrāmakarma) [on-mercury-day](saumyasya) [on-day](vāsare)
 
 ## mukta-m0-p87-v2160
-[trees](vṛkṣa) [shrubs](gulma) [creepers](latā) [vehicle](yāna) [work](karma) [jupiter-day](deva-ijya-vāsare)
+[tree+shrub+creeper+vehicle-work](vṛkṣagulmalatāyānakarma) [on-jupiter-day](devejyavāsare)
 
 ## mukta-m0-p87-v2161
-[trade](paṇya) [festival](utsava) [cow](go) [grains](dhānya) [work](karma) [venus-day](bhārgava-vāsare)
+[trade+festival+etc.+cattle+grain-work](paṇyotsavādigodhānyakarma) [on-venus-day](bhārgavavāsare)
 
 ## mukta-m0-p87-v2162
-[stable](sthira) [work](karma) [all](akhilaṃ) [building](vāstu) [collection](saṃgrahaḥ) [saturn-day](sauri-vāsare)
+[fixed-work](sthirakarma) [all](akhilaṃ) [dwelling](vāstu) [collection](saṃgrahaḥ) [on-saturn-day](saurivāsare) [||1](||) [1](1)
 
 ## mukta-m0-p87-v2163
-[ten](daśa) [life](jīve) [seven](sapta) [eva](eva) [venus](bhṛguje) [five](paṃca) [sun](sūryaje)
+[ten](daśa) [for-jupiter](jīve) [but](tu) [seven](sapta) [indeed](eva) [for-venus](bhṛguje) [five](paṃca) [for-saturn](sūryaje)
 
 ## mukta-m0-p87-v2164
-[twenty-five](paṃcaviṃśa) [venus](śukra) [sun](bhānu) [saturn](maṃda) [moon](iṃdu) [eight](aṣṭa) [nāḍikā](nāḍikāḥ)
+[twenty-five](paṃcaviṃśā) [for-venus+and-sun](śukrabhānvoḥ) [for-saturn+and-moon](maṃdeṃdvoḥ) [and](ca) [eight](aṣṭa) [nāḍikās](nāḍikāḥ) [||1](||) [1](1)
 
 ## mukta-m0-p87-v2165
-[that](tad) [gem](ratnaṃ) [and](ca) [eva](eva) [that](tad) [grain](dhānyaṃ) [that](tad) [color](varṇaṃ) [cloth](vastram) [eva](eva) [ca](ca)
+[that-gem](tadratnaṃ) [and](ca) [indeed](eva) [that-grain](taddhānyaṃ) [that-color](tadvarṇaṃ) [garment](vastraṃ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p87-v2166
-[that](tad) [days](dineṣu) [according-to-ability](yathāśaktyā) [all](sarvāt) [desires](kāmān) [obtain](avāpnuyāt)
+[on-those-days](taddineṣu) [according-to-ability](yathāśaktyā) [all](sarvān) [desires](kāmān) [one-may-obtain](avāpnuyāt)
 
 ## mukta-m0-p87-v2167
-[with-gold](sahiraṇyaṃ) [man](naraḥ) [having-given](dattvā) [not](na) [by-diseases](rogaiḥ) [overcome](abhibhūyate)
+[with-gold](sahiraṇyaṃ) [man](naraḥ) [having-given](dattvā) [not](na) [by-diseases](rogaiḥ) [is-overcome](abhibhūyate)
 
 ## mukta-m0-p87-v2168
-[oil-massage](abhyaṃgaṃ) [saturn-day](sauri-divase) [having-given](dattvā) [life](jīvitam) [obtain](āpnuyāt)
+[oil-anointing](abhyaṃgaṃ) [on-saturn-day](sauridivase) [having-given](dattvā) [long-life](jīvitam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p87-v2169
-[giver](dātā) [great-enthusiasm](mahotsāha) [endowed](yutaḥ) [great-vigor](mahaujā) [day-by-day](dinedine) [prosperous](śasya) [becomes](bhavet) [man](manuṣyaḥ)
+[giver](dātā) [great-enthusiasm](mahotsāha) [endowed-with](yutaḥ) [great-vigor](mahaujāḥ) [day-by-day](dinedine) [prosperous](śasyaḥ) [may-be](bhavet) [person](manuṣyaḥ)
 
 ## mukta-m0-p87-v2170
-[with-defect](kukhe) [and](ca) [suffering](duḥkhe) [api](api) [equal-nature](samasvabhāvaḥ) [varuṇa-born?](vārenaraḥ) [cool-rayed](śītakarasya) [born](jātaḥ)
+[in-happiness](sukhe) [and](ca) [in-sorrow](duḥkhe) [even](api) [equal-natured](samasvabhāvaḥ) [on-day](vāre) [man](naraḥ) [of-moon](śītakarasya) [born](jātaḥ)
 
 ## mukta-m0-p87-v2171
-[with-being](sattvānvitaḥ) [fierce-nature](tīvratarasvabhāvaḥ) [sun-born](dinodbhavaḥ) [thā?](thāvaninaṃdanasya)
+[endowed-with-goodness](sattvānvitaḥ) [very-fierce-natured](tīvratarasvabhāvaḥ) [day-born](dinodbhavaḥ) [or](atha) [of-mars](avaninaṃdanasya)
 
 ## mukta-m0-p87-v2172
-[trade](vaṇik) [activity](kriyāyāṃ) [indeed](hi) [would-be](bhavet) [expert](abhijñaḥ) [wise](prājñaḥ) [virtue-knower](guṇajñaḥ) [day-born](jñadinodbhavoyaḥ)
+[in-trade-activity](vaṇikkriyāyāṃ) [indeed](hi) [may-be](bhavet) [skilled](abhijñaḥ) [wise](prājñaḥ) [virtue-knower](guṇajñaḥ) [mercury-day-born](jñadinodbhavaḥ) [who](yaḥ)
 
 ## mukta-m0-p87-v2173
-[teacher-excellent](ācāryavaryaḥ) [ca](ca) [people-pleasing](janapriyaḥ) [syāt](syāt) [door-guru](vāreguru) [whose](yasya) [man's](narasya) [birth](janma)
+[excellent-teacher](ācāryavaryaḥ) [and](ca) [dear-to-people](janapriyaḥ) [may-be](syāt) [on-day](vāre) [of-jupiter](guroḥ) [whose](yasya) [of-man](narasya) [birth](janma)
 
 ## mukta-m0-p87-v2174
-[white-garment](śuklāṃbaraḥ) [pleasure-bearing](prītidharaḥ) [man](narasyāt) [good-path](sumārga) [go](go) [venus-day-born](bhārgavavārajātaḥ)
+[white-garmented](śuklāṃbaraḥ) [affection-bearing](prītidharaḥ) [man](naraḥ) [may-be](syāt) [on-good-path](sumārgagaḥ) [on-venus-day](bhārgavavāra) [born](jātaḥ)
 
 ## mukta-m0-p87-v2175
-[darkness-quality](tamoguṇaḥ) [cruelty](kraurya) [ca](ca) [yā](yā) [bhibhūtaḥ](bhibhūtaḥ) [saturn-day](śanerdine) [born](jāta) [man](janirmanuṣyaḥ) [end](samāpta)
+[of-tamas-quality](tamoguṇaḥ) [by-cruelty](kraurya) [and](ca) [which](yā) [overpowered](abhibhūtaḥ) [of-saturn](śaneḥ) [on-day](dine) [born-person](jātajanma) [man](manuṣyaḥ) [||1](||) [1](1)
