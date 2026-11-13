@@ -1,15 +1,16 @@
 {
  "song": "kjn-p10",
  "verse": 244,
- "question": "What destruction and seeing are mentioned?",
+ "question": "What destruction of wrinkles and grey hair is named?",
  "premises": [
-  "Wrinkle and grey hair are named",
-  "Destruction is named",
-  "Seeing from afar is named"
+  "wrinkles are named",
+  "grey hair is named",
+  "destruction is named",
+  "seeing from afar is named"
  ],
- "inference": "Wrinkle and grey hair are destroyed, and seeing from afar is mentioned.",
+ "inference": "destruction of wrinkles and grey hair and seeing from afar are named",
  "uncertainties": [
-  "Exact causal relation is not fully explicit"
+  "exact syntactic grouping"
  ],
- "plain_english": "Wrinkle and grey hair are destroyed, and seeing from very far is likewise mentioned."
+ "plain_english": "Destruction of wrinkles and grey hair, and seeing from very far, are likewise named."
 }
