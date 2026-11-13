@@ -7,42 +7,45 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun in accusative singular masculine",
-     "morph": "pron.acc.sg.m"
+     "grounds": "accusative singular masculine pronoun referring to the hidden true nature",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive form of the root jñā",
+     "grounds": "absolutive of jñā, having known",
      "morph": "indecl."
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound accusative singular masculine",
-     "morph": "compound.acc.sg.m"
+     "grounds": "compound gūḍha plus sadbhāva, accusative singular masculine",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun in nominative or accusative singular neuter",
-     "morph": "noun.nom/acc.sg.n"
+     "grounds": "abstract noun in -tva, nominative singular neuter subject",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "middle voice present tense third person singular of root jan",
-     "morph": "verb.3.sg.mid-pres"
+     "grounds": "middle voice present, arises or becomes manifest",
+     "morph": "3.sg.mid.pres (root jan)"
     }
    ],
-   "question": "What arises when the hidden true nature is known?",
+   "question": "What arises when the hidden true nature of that is known?",
    "premises": [
-    "Knowing hidden true nature leads to all-knowingness.",
-    "All-knowingness arises after that knowledge."
+    "knowing hidden true nature precedes arising",
+    "all-knowingness is the stated result",
+    "the verse uses prajāyate"
    ],
-   "inference": "The verse states that all-knowingness arises once the hidden true nature is known.",
-   "uncertainties": [],
-   "plain_english": "Having known that hidden true nature, all-knowingness arises."
+   "inference": "all-knowingness arises from knowing the hidden true nature",
+   "uncertainties": [
+    "gender and number of gūḍhasadbhāvaṃ are inferred from surface form"
+   ],
+   "plain_english": "Knowing that hidden true nature, all-knowingness arises."
   }
  ]
 }

@@ -1,15 +1,14 @@
 {
  "song": "kjn-p13",
  "verse": 321,
- "question": "What must be known by the grace of that lord?",
+ "question": "By whose grace is the determination of knowledge to be known?",
  "premises": [
-  "by that grace",
-  "lord is addressed",
-  "knowledge determination is to be known"
+  "By that grace it is to be known.",
+  "The determination of knowledge is the object."
  ],
- "inference": "By that grace, the determination of knowledge is to be known.",
+ "inference": "The determination of knowledge is known by that grace.",
  "uncertainties": [
-  "exact antecedent of tat"
+  "The antecedent of 'that' is not explicit."
  ],
  "plain_english": "By that grace, O lord of gods, the determination of knowledge is to be known."
 }

@@ -1,16 +1,16 @@
 {
  "song": "kjn-p13",
  "verse": 315,
- "question": "Which vessel materials are named for the goddess?",
+ "question": "Which vessel materials are named in this list?",
  "premises": [
-  "clay vessel is named",
-  "tortoise-born vessel is named",
-  "bell-metal vessel is named",
-  "copper-metal vessel is named"
+  "Clay is named.",
+  "Tortoise-born is named.",
+  "Bell-metal is named.",
+  "Copper-metal is named."
  ],
- "inference": "The verse names several vessel materials and origins.",
+ "inference": "The verse enumerates vessel materials and origins.",
  "uncertainties": [
-  "exact syntactic relation among listed materials"
+  "The list may be incomplete."
  ],
  "plain_english": "Clay, tortoise-born, bell-metal, and copper-metal vessels, O goddess."
 }
