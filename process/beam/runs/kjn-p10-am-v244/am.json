@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 244,
- "question": "What destruction and seeing are described from afar?",
+ "question": "What destruction of wrinkles and grey hair comes from seeing from afar?",
  "premises": [
-  "Wrinkle and grey hair are destroyed.",
-  "Seeing occurs from very far.",
+  "Wrinkles and grey hair are destroyed.",
+  "Seeing from very far causes it.",
   "Likewise is added."
  ],
- "inference": "Wrinkle, grey hair, and distant seeing are described.",
- "uncertainties": [],
- "plain_english": "Wrinkle and grey hair are destroyed, and seeing occurs from very far, likewise."
+ "inference": "The verse says wrinkles and grey hair are destroyed by seeing from very far.",
+ "uncertainties": [
+  "Whether balī palita nāśam is one compound."
+ ],
+ "plain_english": "Wrinkles and grey hair are destroyed by seeing from very far."
 }

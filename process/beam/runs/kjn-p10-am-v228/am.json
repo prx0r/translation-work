@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 228,
- "question": "How does the fire-surrounded self stand?",
+ "question": "How does the self stand when surrounded by fire and one foot?",
  "premises": [
   "The self is surrounded by fire.",
   "It stands on one foot.",
-  "This posture is described."
+  "The posture is stable."
  ],
- "inference": "The self stands on one foot while surrounded by fire.",
- "uncertainties": [],
+ "inference": "The verse describes the self standing on one foot while surrounded by fire.",
+ "uncertainties": [
+  "Whether nāveṣṭita means surrounded or not-surrounded."
+ ],
  "plain_english": "The self, surrounded by fire, stands on one foot."
 }

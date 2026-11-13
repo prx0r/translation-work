@@ -1,13 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 240,
- "question": "How is the second eight-petaled wheel illuminated?",
+ "question": "What is the second eight-petaled wheel illuminated by fire meditation?",
  "premises": [
   "The second wheel has eight petals.",
   "It is illuminated by fire meditation.",
-  "It is well illuminated."
+  "The meditation is well-illuminated."
  ],
- "inference": "The second eight-petaled wheel is well illuminated by fire meditation.",
- "uncertainties": [],
+ "inference": "The verse describes the second eight-petaled wheel as well illuminated by fire meditation.",
+ "uncertainties": [
+  "Whether teja dhyāna is compound."
+ ],
  "plain_english": "The second eight-petaled wheel is well illuminated by fire meditation."
 }
