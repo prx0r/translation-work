@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p333-v8301
-[by-previously+stated](pūrvoditena) [method](vidhinā) [to-sun](sūryyāya) [water-offering](arghaṃ) [one-should-offer](nivedayet)
+[previously+mentioned](pūrvoditena) [by-method](vidhinā) [to-Sūrya](sūryyāya) [water-offering](arghaṃ) [one-should-offer](nivedayet)
 
 ## mukta-m0-p333-v8302
-[with-sun's+eight+fragrances](sūryyāṣṭagandhaiḥ) [or](atha) [or](vā) [with-two+sandalwoods](candanābhyāṃ) [mantra](manum) [indeed](tu) [this](imam)
+[with-Sūrya's+eight+fragrances](sūryyāṣṭagandhaiḥ) [or](atha) [or](vā) [with-two+sandal-pastes](candanābhyāṃ) [mantra](manum) [indeed](tu) [this](imam)
 
 ## mukta-m0-p333-v8303
-[with-holy-place+etc.+water+filled](tīrthādijalasampūrṇam) [of-that](tasya) [above](ūrdhvaṃ) [one-should-place](sthāpayet) [hand](karam)
+[with-holy-place+etc.+water+filled](tīrthādi+jala+sampūrṇam) [of-that](tasya) [above](ūrdhvaṃ) [one-should-place](sthāpayet) [hand](karam)
 
 ## mukta-m0-p333-v8304
-[one-should-recite](japet) [nectar+consisting](sudhāmayam) [and](tam) [indeed](ca) [water-pot](kalaśaṃ) [in-heart](hṛdi) [one-should-visualize](bhāvayet)
+[one-should-recite](japet) [nectar+consisting](sudhāmayam) [and](tam) [and](ca) [water-pot](kalaśaṃ) [in-heart](hṛdi) [one-should-visualize](bhāvayet)
 
 ## mukta-m0-p333-v8305
-[gone+disease](gatarogaḥ) [long+lived](dīrghajīvī) [from-calamity+affliction+freed](vipadbādhāparicyutaḥ)
+[free-from-disease](gatarogaḥ) [long+lived](dīrghajīvī) [from-calamity+affliction+freed](vipad+bādhā+paricyutaḥ)
 
 ## mukta-m0-p333-v8306
-[at-first](ādau) [by-that](tena) [to-be-performed](vidhātavyaḥ) [by-hand](kareṇa) [water-vessel](karakaḥ) [auspicious](śubhaḥ)
+[at-beginning](ādau) [by-that](tena) [to-be-performed](vidhātavyaḥ) [by-hand](kareṇa) [water-vessel](karakaḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p333-v8307
-[poisonous](viṣiṇaṃ) [poisonless](nirviṣaḥ) [may-become](bhūyāt) [from-stationary](sthāvarāt) [from-moving](jaṅgamāt) [also](api)
+[poisonous](viṣiṇaṃ) [non-poisonous](nirviṣaḥ) [may-become](bhūyāt) [from-stationary](sthāvarāt) [from-mobile](jaṅgamāt) [also](api)
 
 ## mukta-m0-p333-v8308
-[one-should-place](vinyasyet) [of-bitten-one](daṃśinaḥ) [on-head](mūrdhni) [having-consecrated-with-mantra](mantrayitvā) [poison](viṣaṃ) [one-should-remove](haret)
+[one-should-place](vinyasyet) [of-bitten-person](daṃśinaḥ) [on-head](mūrdhni) [having-consecrated-with-mantra](mantrayitvā) [poison](viṣaṃ) [one-should-remove](haret)
 
 ## mukta-m0-p333-v8309
-[flooded](plutam) [and](ca) [with-nectar+streams](amṛtadhārābhiḥ) [having-visualized](bhāvayitvā) [mantra](manum) [one-should-recite](japet)
+[flooded](plutam) [and](ca) [with-nectar+streams](amṛta+dhārābhiḥ) [having-visualized](bhāvayitvā) [mantra](manum) [one-should-recite](japet)
 
 ## mukta-m0-p333-v8310
-[epilepsy](apasmṛti) [three+humor+arisen](tridoṣotthān) [diseases](rogān) [one-destroys](hanyāt) [not](na) [doubt](saṃśayaḥ)
+[epilepsy](apasmṛti) [three+humor+arisen](tridoṣa+utthān) [diseases](rogān) [one-destroys](hanyāt) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p333-v8311
-[having-contemplated](sañcintya) [one-should-mutter](prajapet) [daily](nityaṃ) [one-should-cast-away](kṣepayet) [gray-hair](palitam) [old-age](jarām)
+[having-contemplated](sañcintya) [one-should-mutter](prajapet) [daily](nityaṃ) [one-should-cast-away](kṣepayet) [grey-hair](palitam) [old-age](jarām)
 
 ## mukta-m0-p333-v8312
-[second](dvitīyam) [and](ca) [with-moon+streams](indradhārābhiḥ) [one-should-wipe](mārjjayet) [by-that](tena) [mantra+knower](mantravit)
+[second](dvitīyam) [and](ca) [with-moon+streams](candra+dhārābhiḥ) [one-should-wipe](mārjjayet) [by-that](tena) [mantra+knower](mantravit)
 
 ## mukta-m0-p333-v8313
-[letter-ha](hakāraḥ) [with-letter-ra+joined](rephasaṃyuktaḥ) [with-letter-pa](pakāreṇa) [endowed](samanvitaḥ)
+[letter-ha](hakāraḥ) [with-letter-ra+joined](repha+saṃyuktaḥ) [with-letter-pa](pakāreṇa) [endowed](samanvitaḥ)
 
 ## mukta-m0-p333-v8314
-[with-bindu+joined](binduyuktaṃ) [seed-syllable](kūṭam) [declared](uktam) [of-sun](mārtaṇḍasya) [three+syllabled](trivarṇakam)
+[with-bindu+joined](bindu+yuktam) [seed-syllable](kūṭam) [declared](uktam) [of-Mārtaṇḍa](mārtaṇḍasya) [three+syllabled](trivarṇakam)
 
 ## mukta-m0-p333-v8315
-[by-left+path](vāmamārgeṇa) [for-those-worshipping](bhajatām) [to-be-taught](ādeśyam) [what](kim) [this](idam) [by-wise](budhaiḥ)
+[by-left+path](vāma+mārgeṇa) [for-those-worshipping](bhajatām) [to-be-instructed](ādeśyam) [what](kim) [this](idam) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p333-v8316
-[by-deity+spoken](devatoktaḥ) [then](atha) [haṃ-seed](haṃbījam) [bindu](binduḥ) [power](śaktiḥ) [proclaimed](prakīrttitā)
+[by-deity+spoken](devata+uktaḥ) [then](atha) [haṃ-seed](haṃbījam) [bindu](binduḥ) [śakti](śaktiḥ) [is-declared](prakīrttitā)
 
 ## mukta-m0-p333-v8317
-[ravi](raviḥ) [divākara](divākaraḥ) [and](ca) [also](api) [to-be-placed](nyastavyāḥ) [on-fingers](hi) [aṃgulīṣu) [they](tāḥ)
+[ravi](raviḥ) [divākara](divākaraḥ) [and](ca) [also](api) [to-be-placed](nyastavyāḥ) [indeed](hi) [on-fingers](aṃgulīṣu) [they](tāḥ)
 
 ## mukta-m0-p333-v8318
-[in-head+face+heart+secret-part+foot+places](śirovadanahṛdguhyapādadeśeṣu) [them](tāḥ) [one-should-place](nyaset)
+[in-head+face+heart+secret-place+foot+regions](śiraḥ+vadana+hṛd+guhya+pāda+deśeṣu) [them](tāḥ) [one-should-place](nyaset)
 
 ## mukta-m0-p333-v8319
-[pervading](vyāpakaṃ) [with-root+seed](mūlabījena) [one-should-perform](kurvīta) [after-that](tadanantaram)
+[pervading](vyāpakam) [with-root+seed](mūla+bījena) [one-should-perform](kurvīta) [after-that](tadanantaram)
 
 ## mukta-m0-p333-v8320
-[in-each+face](mukhemukhe) [three+eyed](trinayanaṃ) [with-jewel+like+crown+adorned](maṇivanmukuṭānvitam)
+[face+on+face](mukhe+mukhe) [three+eyed](trinayanam) [with-jewel+like+crown+endowed](maṇivat+mukuṭa+anvitam)
 
 ## mukta-m0-p333-v8321
-[rosary](akṣamālāṃ) [skull-cup](kapālaṃ) [and](ca) [holding](dadhataṃ) [with-hand+lotuses](karapaṃkajaiḥ)
+[rosary](akṣamālām) [skull-cup](kapālam) [and](ca) [holding](dadhatam) [with-hand+lotuses](kara+paṃkajaiḥ)
 
 ## mukta-m0-p333-v8322
-[lotus+seated](padmasthitaṃ) [smiling+faced](hāsyamukhaṃ) [Mārtaṇḍa](mārtaṇḍaṃ) [sun](dyumaṇiṃ) [I-worship](bhaje)
+[lotus+seated](padma+sthitam) [smiling+faced](hāsya+mukham) [Mārtaṇḍa](mārtaṇḍam) [sun](dyumaṇim) [I-worship](bhaje)
 
 ## mukta-m0-p333-v8323
-[at-first](ādau) [limbs](aṃgāni) [having-worshipped](sampūjya) [on-pericarp](karṇikāyām) [Uṣā+etc.](uṣādikāḥ)
+[at-beginning](ādau) [limbs](aṃgāni) [having-worshipped](sampūjya) [on-pericarp](karṇikāyām) [Uṣā+etc.](uṣā+ādikāḥ)
 
 ## mukta-m0-p333-v8324
-[eye](netram) [in-īśāna+corner](īśānakoṇe) [and](ca) [outside-that](tadbāhye) [sky-goers](khecarān) [also](api)
+[eye](netram) [in-Īśāna+corner](īśāna+koṇe) [and](ca) [outside-that](tadbāhye) [sky-goers](khecarān) [also](api)
 
 ## mukta-m0-p333-v8325
-[tenth+part](daśāṃśaṃ) [with-lotuses](kamalaiḥ) [blooming](phullaiḥ) [one-should-offer](juhuyāt) [with-sweet-substances+sprinkled](madhurokṣitaiḥ)
+[ten+part](daśāṃśam) [with-lotuses](kamalaiḥ) [blooming](phullaiḥ) [one-should-offer-oblation](juhuyāt) [with-sweet-substances+sprinkled](madhura+ukṣitaiḥ)
