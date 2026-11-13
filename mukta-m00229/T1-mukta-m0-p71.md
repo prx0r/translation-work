@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[jyāsaptakāvaśeṣāt](remainder-of-seven-bows) [tu](but) [saptāsram](seven-cornered) [kuṇḍam](pit) [uttamam](excellent)
+[bowstring+seven+part+remainder](jyāsaptakāvaśeṣāt) [but](tu) [seven-cornered](saptāsraṃ) [pit](kuṇḍam) [best](uttamam)
 
 ## mukta-m0-p71-v1752
-[nyunādhikatvadoṣaḥ](defect-of-less-or-more) [asti](is) [iti](thus) [aṅkavit](one-knowing-numbers) [paribhāvayet](should-consider)
+[deficiency+excess+fault](nyunādhikatvadoṣaḥ) [exists](asti) [thus](iti) [mathematician](aṅkavit) [should-consider](paribhāvayet)
 
 ## mukta-m0-p71-v1753
-[kuṇḍasya](of-pit) [vistāraḥ](width) [khananam](digging) [tāvat](so-much) [īritam](declared)
+[of-pit](kuṇḍasya) [width](vistāraḥ) [digging](khananaṃ) [so-much](tāvat) [declared](īritam)
 
 ## mukta-m0-p71-v1754
-[tāvat](so-much) [nimna-āyatam](deep-and-long) [khanet](should-dig)
+[so-much](tāvat) [depth+extended](nimnāyataṃ) [one-should-dig](khanet)
 
 ## mukta-m0-p71-v1755
-[siddhāntaḥ](conclusion) [upapattyā](by-reasoning) [api](also) [sidhyati](is-established)
+[conclusion](siddhāntaḥ) [by-reasoning](upapattyā) [also](api) [is-established](sidhyati)
 
 ## mukta-m0-p71-v1756
-[ādyamekhalayā](with-first-enclosure) [sārdham](together) [tāvat](so-much) [iti](thus) [api](also) [kecana](some)
+[with-first+rim](ādyamekhalayā) [together](sārdhaṃ) [so-much](tāvat) [thus](iti) [also](api) [some](kecana)
 
 ## mukta-m0-p71-v1757
-[khanet](should-dig) [tiryak](sideways) [ūrddhvam](upward) [ekhalayā](with-enclosure) [saha](with)
+[one-should-dig](khanet) [horizontally](tiryak) [upwards](ūrddhvam) [with-rim](ekhalayā) [together](saha)
 
 ## mukta-m0-p71-v1758
-[mantramuktāvalīgranthe](in-mantramuktāvalī-text) [api](also) [evam](thus) [eva](indeed) [prakīrttitam](declared)
+[in-Mantramuktāvalī+text](mantramuktāvalīgranthe) [also](api) [thus+indeed](evameva) [proclaimed](prakīrttitam)
 
 ## mukta-m0-p71-v1759
-[mantramuktāvalīkartuḥ](of-author-of-mantramuktāvalī) [tad-abodha-vijṛmbhitam](arisen-from-his-ignorance)
+[of-Mantramuktāvalī+author](mantramuktāvalīkartuḥ) [that](tat) [ignorance+manifestation](abodhavijṛmbhitam)
 
 ## mukta-m0-p71-v1760
-[sarveṣu](in-all) [mekhalām](enclosure) [racayet](should-make) [sudhīḥ](wise-one)
+[in-all](sarveṣu) [rim](mekhalāṃ) [should-make](racayet) [wise-one](sudhīḥ)
 
 ## mukta-m0-p71-v1761
-[vistāra-dvādaśāṃśena](by-twelfth-part-of-width) [kecid](some) [icchanti](desire) [tāntrikāḥ](tantrics)
+[by-width+twelfth+part](vistāradvādaśāṃśena) [some](kecit) [desire](icchanti) [tantrics](tāntrikāḥ)
 
 ## mukta-m0-p71-v1762
-[kuṇḍasya](of-pit) [vardhayet](should-increase) [tat-kramāt](by-that-order) [sudhīḥ](wise-one)
+[of-pit](kuṇḍasya) [one-should-increase](vardhayet) [that](tat) [in-order](kramāt) [wise-one](sudhīḥ)
 
 ## mukta-m0-p71-v1763
-[kāmika-ekāṃśataḥ](from-one-part-of-kāmika) [proktaḥ](declared) [kaṇṭhaḥ](neck) [kāmya-paras](beyond-desired) [tu](but) [saḥ](that)
+[in-Kāmika+one+part](kāmikaikāṃśataḥ) [declared](proktaḥ) [neck](kaṇṭhaḥ) [for-desired-purpose](kāmyaparaḥ) [but](tu) [that](saḥ)
 
 ## mukta-m0-p71-v1764
-[trisraḥ](three) [bhūta-saṃkhyā](element-number) [yathā-icchayā](as-desired)
+[three](trisraḥ) [element+number](bhūtasaṃkhyāḥ) [according-to-desire](yathecchayā)
 
 ## mukta-m0-p71-v1765
-[vibhakte](divided) [tāḥ](those) [vyāse](in-diameter) [tisraḥ](three) [tu](but) [mekhalāḥ](enclosures)
+[when-divided](vibhakte) [those](tāḥ) [in-diameter](vyāse) [three](tisraḥ) [but](tu) [rims](mekhalāḥ)
 
 ## mukta-m0-p71-v1766
-[kecid](some) [vistāra-taulyena](by-equality-with-width) [hi](indeed) [unnatatvam](height) [vadanti](say) [vai](indeed)
+[some](kecit) [by-width+equality](vistārataulyena) [indeed](hi) [elevation+state](unnatatvaṃ) [say](vadanti) [verily](vai)
 
 ## mukta-m0-p71-v1767
-[kuryāt](should-make) [sarvatra](everywhere) [kuṇḍeṣu](in-pits) [tisraḥ](three) [sarvatra](everywhere) [śobhanāḥ](auspicious)
+[one-should-make](kuryāt) [everywhere](sarvatra) [in-pits](kuṇḍeṣu) [three](tisraḥ) [everywhere](sarvatra) [beautiful](śobhanāḥ)
 
 ## mukta-m0-p71-v1768
-[dvayoḥ](of-two) [mekhalayoḥ](enclosures) [mānam](measure) [ādyoḥ](of-first) [mekhalayoḥ](enclosures) [yathā](as)
+[of-two](dvayoḥ) [of-rims](mekhalayoḥ) [measure](mānam) [of-first](ādyayoḥ) [of-rims](mekhalayoḥ) [as](yathā)
 
 ## mukta-m0-p71-v1769
-[bhāgaiḥ](by-parts) [vistāritā](expanded) [ājñeyā](to-be-known) [unnatā](raised) [ādyā](first) [navāṅgulaiḥ](by-nine-angulas)
+[by-parts](bhāgaiḥ) [extended](vistāritā) [to-be-known](jñeyā) [elevated+first](unnatādyā) [by-nine+aṅgulas](navāṅgulaiḥ)
 
 ## mukta-m0-p71-v1770
-[connatā](raised) [dvābhyām](by-two) [ūnaiḥ](less) [taiḥ](by-those) [ca](and) [parā](higher) [matā](considered)
+[and-elevated](ca+unnatā) [by-two](dvābhyām) [less](ūnaiḥ) [by-those](taiḥ) [and](ca) [next](parā) [considered](matā)
 
 ## mukta-m0-p71-v1771
-[tāsām](of-those) [mānam](measure) [yat](which) [tat](that) [iha](here) [ucyate](is-said)
+[of-them](tāsāṃ) [measure](mānaṃ) [which](yat) [that](tat) [here](iha) [is-stated](ucyate)
 
 ## mukta-m0-p71-v1772
-[kuṇḍe](in-pit) [tāḥ](those) [tithi-eka-aṅgula](one-angula-per-tithi) [sammitāḥ](measured)
+[in-pit](kuṇḍe) [those](tāḥ) [fifteen+one+aṅgula](tithyekāṅgula) [measured](sammitāḥ)
 
 ## mukta-m0-p71-v1773
-[jñeyā](to-be-known) [rasa-veda-guṇa-aṅgulāḥ](angulas-equal-to-rasa-veda-guna)
+[to-be-known](jñeyāḥ) [six+four+three+aṅgulas](rasavedaguṇāṅgulāḥ)
 
 ## mukta-m0-p71-v1774
-[tāḥ](those) [tu](but) [daśa-aṣṭa-artha-aṅgula-anvitāḥ](endowed-with-ten-eight-wealth-angulas)
+[those](tāḥ) [but](tu) [ten+eight+five+aṅgulas+endowed](daśāṣṭārthāṅgulānvitāḥ)
 
 ## mukta-m0-p71-v1775
-[kuṇḍe](in-pit) [manu-bhāna-daśa-aṅgulāḥ](ten-angulas-of-manu-bhāna)
+[in-pit](kuṇḍe) [fourteen+twelve+ten+aṅgulas](manubhānadaśāṅgulāḥ)

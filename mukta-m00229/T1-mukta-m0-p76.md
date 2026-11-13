@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[peace-rite](śāntike) [declared](prokto) [spring](vasanto) [subjugation-rite](vaśyakarmaṇi)
+[in-pacification](śāntike) [declared](proktaḥ) [spring](vasantaḥ) [in-subjugation-rite](vaśyakarmaṇi)
 
 ## mukta-m0-p76-v1877
-[rainy-season-expulsion](prāvṛḍuccāṭane) [to-be-known](jñeyā) [autumn-killing](śaranmāraṇa) [rite](karmaṇi)
+[rainy-season](prāvṛṭ) [in-eradication](uccāṭane) [to-be-known](jñeyā) [autumn](śarat) [in-killing-rite](māraṇa+karmaṇi)
 
 ## mukta-m0-p76-v1878
-[auspicious](bhadram) [thus-say](ityāhu) [tongue-postures](rāsanāni) [sages](manīṣiṇaḥ)
+[auspicious](bhadram) [thus](iti) [they-say](āhuḥ) [seats](āsanāni) [the-wise](manīṣiṇaḥ)
 
 ## mukta-m0-p76-v1879
-[fierce-posture](vikaṭāsanam)+[this](etat)+[becomes](syāt)+[sitting](upaviśya)+[raised-posture](utkaṭāsane)
+[fierce-seat](vikaṭa+āsanam) [this](etat) [should-be](syāt) [having-sat](upaviśya) [on-raised-seat](utkaṭa+āsane)
 
 ## mukta-m0-p76-v1880
-[hand](kara)+[pair](dvandvaṃ) [cock-posture](kukkuṭāsanam) [declared](īritam)
+[two-hands](kara+dvandvam) [rooster-seat](kukkuṭa+āsanam) [is-declared](īritam)
 
 ## mukta-m0-p76-v1881
-[side-feet](pārśvapādau) [and](ca) [hands](pāṇibhyāṃ) [bound](baddhaṃ) [auspicious-posture](bhadrāsanaṃ) [becomes](bhavet)
+[side-feet](pārśva+pādau) [and](ca) [with-hands](pāṇibhyām) [bound](baddham) [auspicious-seat](bhadra+āsanam) [should-be](bhavet)
 
 ## mukta-m0-p76-v1882
-[in-order](kramato) [to-be-known](jñeyāḥ) [lotus](padma)+[noose](pāśa)+[mace](gadā)+[named](āhvayāḥ)
+[in-order](kramataḥ) [to-be-known](jñeyāḥ) [lotus-noose-mace-named](padma+pāśa+gadā+āhvayāḥ)
 
 ## mukta-m0-p76-v1883
-[lotus-noose-etc](padmapāśādikā) [seals](mudrāḥ) [is-described](kathyate) [thunderbolt](aśani) [characteristic](lakṣaṇam)
+[lotus-noose-etc](padma+pāśa+ādikāḥ) [seals](mudrāḥ) [is-told](kathyate) [of-thunderbolt](aśani) [characteristic](lakṣaṇam)
 
 ## mukta-m0-p76-v1884
-[water](jalaṃ) [peace-rite](śāntividhau) [auspicious](śastaṃ) [subjugation](vaśye) [fire](vahnir) [declared](udīritaḥ)
+[water](jalam) [in-pacification-rite](śānti+vidhau) [commended](śastam) [in-subjugation](vaśye) [fire](vahniḥ) [is-declared](udīritaḥ)
 
 ## mukta-m0-p76-v1885
-[wind](vāyuḥ) [again](bhūyaḥ) [fire](agniḥ) [killing](māraṇe) [opinion](mataḥ)
+[wind](vāyuḥ) [again](bhūyaḥ) [fire](agniḥ) [in-killing](māraṇe) [is-approved](mataḥ)
 
 ## mukta-m0-p76-v1886
-[that-that-rite](tattatkarma) [to-be-performed](vidhātavyaṃ) [by-mantra-holder](mantriṇā) [sharp-souled](niśitātmanā)
+[that-respective-rite](tat+tat+karma) [to-be-performed](vidhātavyam) [by-the-mantrin](mantriṇā) [with-focused-mind](niśita+ātmanā)
 
 ## mukta-m0-p76-v1887
-[fire](pāvakasya) [upward](ūrdhvaṃ) [movement](gatiḥ) [horizontal](tiryaṅ) [wind](nabhasvataḥ)
+[of-fire](pāvakasya) [upward](ūrdhvam) [motion](gatiḥ) [sideways](tiryaṅ) [of-wind](nabhasvataḥ)
 
 ## mukta-m0-p76-v1888
-[does](kuryāt) [stopping](stambhanaṃ) [subjugation](vaśyam) [self-knower](ātmavit)
+[one-should-perform](kuryāt) [immobilization](stambhanam) [subjugation](vaśyam) [knower-of-self](ātma+vit)
 
 ## mukta-m0-p76-v1889
-[winds](marutaḥ) [enemy](vipakṣa)+[expulsion](uccāṭana)+[etc](ādikam)
+[of-wind](marutaḥ) [enemy-eradication-etc](vipakṣa+uccāṭana+ādikam)
 
 ## mukta-m0-p76-v1890
-[declared](proktaḥ) [their](teṣāṃ) [I-will-speak](vakṣyāmi) [circle](maṇḍalam)
+[declared](proktaḥ) [of-them](teṣām) [I-shall-tell](vakṣyāmi) [diagram](maṇḍalam)
 
 ## mukta-m0-p76-v1891
-[swastika-endowed](svastikopetaṃ) [fire](vahneḥ) [half-moon-joined](ardhendusaṃyutam)
+[with-svastika](svastika+upetam) [of-fire](vahneḥ) [with-half-moon](ardha+indu+saṃyutam)
 
 ## mukta-m0-p76-v1892
-[that-that-element-similar](tattadbhūtasamābhāni) [circles](maṇḍalāni) [know](viduḥ) [wise](budhāḥ)
+[of-that-respective-element](tat+tat+bhūta) [resembling](samābhāni) [diagrams](maṇḍalāni) [know](viduḥ) [the-wise](budhāḥ)
 
 ## mukta-m0-p76-v1893
-[sky-wind-black](viyanmarutkṛṣṇaḥ) [red](raktaḥ) [fire](agniḥ) [clear](viśadaṃ) [water](payaḥ)
+[ether-wind](viyat+marut) [black](kṛṣṇaḥ) [red](raktaḥ) [fire](agniḥ) [white](viśadam) [water](payaḥ)
 
 ## mukta-m0-p76-v1894
-[declared](proktāḥ) [formerly](purā) [their](teṣāṃ) [kulākula-testing](kulākulaparīkṣaṇe)
+[declared](proktāḥ) [before](purā) [of-them](teṣām) [in-kula-akula-examination](kula+akula+parīkṣaṇe)
 
 ## mukta-m0-p76-v1895
-[are](syuḥ) [yantra-seeds](yantrabījāni) [six-rites](ṣaṭkarmasu) [in-order](yathākramam)
+[should-be](syuḥ) [diagram-seeds](yantra+bījāni) [in-six-rites](ṣaṭ+karmasu) [in-due-order](yathā+kramam)
 
 ## mukta-m0-p76-v1896
-[thus-these](ityete) [arrangements](vinyāsāḥ) [six](ṣaṭsu) [rites](karmasu)
+[thus](iti) [these](ete) [placements](vinyāsāḥ) [in-six](ṣaṭsu) [rites](karmasu)
 
 ## mukta-m0-p76-v1897
-[that-know](tadvijānīyāt) [auspicious](praśastaṃ) [peace-rite](śāntikarmaṇi)
+[that](tat) [one-should-know](vijānīyāt) [commended](praśastam) [in-pacification-rite](śānti+karmaṇi)
 
 ## mukta-m0-p76-v1898
-[vidarbha](vidarbha) [in-these](eṣu) [to-be-known](vijñeyaḥ) [by-mantra-holders](mantribhiḥ) [subjugation-rite](vaśyakarmaṇi)
+[in-vidarbha](vidarbhe) [among-these](eṣu) [to-be-known](vijñeyaḥ) [by-mantrins](mantribhiḥ) [in-subjugation-rite](vaśya+karmaṇi)
 
 ## mukta-m0-p76-v1899
-[stopping](saṃstambhane) [auspicious](śastaḥ) [thus-said](ityuktam) [by-mantra-knowers](mantravedibhiḥ)
+[in-immobilization](saṃstambhane) [commended](śastaḥ) [thus](iti) [said](uktam) [by-knowers-of-mantras](mantra+vedibhiḥ)
 
 ## mukta-m0-p76-v1900
-[hatred-rites](vidveṣaṇavidhāneṣu) [auspicious](praśastam) [this](idam) [declared](īritam)
+[in-hatred-rites](vidveṣaṇa+vidhāneṣu) [commended](praśastam) [this](idam) [is-declared](īritam)

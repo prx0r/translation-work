@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p73-v1801
-[some](kuṇḍeṣu) [say](kecid) [hot](uṣṇāḥ) [pots](kuṇḍāḥ)
+[in-pits](kuṇḍeṣu) [some](kecid) [say](āhuḥ) [here](iha) [ulvaṇāḥ](ulvaṇāḥ)
 
 ## mukta-m0-p73-v1802
-[yoni-etc](yonyādi) [pots](kuṇḍāni) [other](anyāni) [should-make](kārayet)
+[vulva-etc.](yoni+ādi) [pits](kuṇḍāni) [other](anyāni) [one-should-make](kārayet)
 
 ## mukta-m0-p73-v1803
-[ten-hands](daśahasta) [thus](iti) [worldly](laukikaṃ) [example](nidarśanam)
+[ten-cubits](daśa+hasta) [thus](iti) [worldly](laukikaṃ) [indeed](hi) [example](nidarśanam)
 
 ## mukta-m0-p73-v1804
-[expectation-absence](ākāṃkṣāvirahāt) [eva](eva) [ellipsis](tvadhyāhāraḥ) [not-fitting](na-yujyate)
+[from-absence-of-expectation](ākāṃkṣā+virahāt) [alone](eva) [indeed](tu) [supplying](adhyāhāraḥ) [not](na) [is-fitting](yujyate)
 
 ## mukta-m0-p73-v1805
-[pot-etc](kuṇḍamityādau) [not](na) [seen](dṛśyate) [indeed](eva)
+[in-kuṇḍa-etc.](kuṇḍam+ity+ādau) [not](na) [indeed](eva) [is-seen](dṛśyate)
 
 ## mukta-m0-p73-v1806
-[pot-etc](kuṇḍamityādi) [instruction](upadeśaḥ) [this](ayam) [called](ucyate)
+[kuṇḍa-etc.](kuṇḍam+ity+ādiḥ) [instruction](upadeśaḥ) [this](ayam) [is-stated](ucyate)
 
 ## mukta-m0-p73-v1807
-[side](pakṣaḥ) [its-mode](tatprakāraḥ) [then](atha) [tells](kathayate)
+[view](pakṣaḥ) [its-method](tat+prakāraḥ) [now](atha) [is-told](kathayate)
 
 ## mukta-m0-p73-v1808
-[thirty-three](trayastriṃśat) [barley](yava) [seven](saptaka) [joined](saṃyutāḥ)
+[thirty-three](trayastriṃśat) [barleycorns](yava) [with-seven](saptaka+saṃyutāḥ)
 
 ## mukta-m0-p73-v1809
-[its-measure](tanmānam) [finger](aṅgula) [one](eka) [forty](catvāriṃśat) [four-barley](caturyavāḥ)
+[that-measure](tat+mānam) [in-fingers](aṅgulān) [forty-one](eka+catvāriṃśat) [and-four-barleycorns](catur+yavāḥ)
 
 ## mukta-m0-p73-v1810
-[and](ca) [eight](aṣṭa) [forty](catvāriṃśat) [finger](aṅgulakaṃ) [that](tat)
+[and-eight](ca+aṣṭa) [forty-fingers](catvāriṃśat+aṅgulakaṃ) [and](ca) [that](tat)
 
 ## mukta-m0-p73-v1811
-[its-root](tanmūlam) [eight-fifty](aṣṭapañcāśat) [finger](aṅgulāni) [and](ca) [six-barley](ṣaḍyavāḥ)
+[its-base](tat+mūlam) [fifty-eight](aṣṭa+pañcāśat) [fingers](aṅgulāni) [and](ca) [six-barleycorns](ṣaḍ+yavāḥ)
 
 ## mukta-m0-p73-v1812
-[four-barley](caturyavaiḥ) [with](sākaṃ) [sixty-three](triṣaṣṭiḥ) [and](ca) [finger](aṅgulāni) [api](api)
+[with-four-barleycorns](catur+yavaiḥ) [together](sākaṃ) [sixty-three](triṣaṣṭiḥ) [and](ca) [fingers](aṅgulāni) [also](api)
 
 ## mukta-m0-p73-v1813
-[middle-thread](madhyasūtram) [eight-hands](aṣṭahastasya) [tu](tu) [said](ucyate)
+[middle-line](madhya+sūtram) [of-eight-cubits](aṣṭa+hastasya) [indeed](tu) [is-stated](ucyate)
 
 ## mukta-m0-p73-v1814
-[seven-barley](saptayavaiḥ) [thus](tathā)
+[with-seven-barleycorns](sapta+yavaiḥ) [likewise](tathā)
 
 ## mukta-m0-p73-v1815
-[with-great-effort](atiyatnena) [pots](kuṇḍāni) [two-hand-etc](dvikarādīni) [should-arrange](kalpayet)
+[with-great-effort](ati+yatnena) [pits](kuṇḍāni) [beginning-with-two-cubits](dvi+kara+ādīni) [one-should-construct](kalpayet)
 
 ## mukta-m0-p73-v1816
-[pot-form](kuṇḍasya-rūpaṃ) [should-know](jānīyāt) [supreme](paramaṃ) [nature-body](prakṛtervapuḥ)
+[of-pit](kuṇḍasya) [form](rūpaṃ) [one-should-know](jānīyāt) [supreme](paramaṃ) [of-nature](prakṛteḥ) [body](vapuḥ)
 
 ## mukta-m0-p73-v1817
-[pot](kuṇḍam) [said](ityuktaṃ) [yoni](yoniḥ) [feet](pādau) [tu](tu) [western](paścime)
+[pit](kuṇḍam) [thus-said](ity+uktaṃ) [vulva](yoniḥ) [feet](pādau) [indeed](tu) [in-the-west](paścime)
 
 ## mukta-m0-p73-v1818
-[seeing](vīkṣaṇaṃ) [root-mantra](mūlamantreṇa) [arrow](śareṇa) [sprinkling](prokṣaṇaṃ) [opinion](matam)
+[inspection](vīkṣaṇaṃ) [with-root-mantra](mūla+mantreṇa) [with-arrow](śareṇa) [sprinkling](prokṣaṇaṃ) [is-considered](matam)
 
 ## mukta-m0-p73-v1819
-[digging-removal](khananoddhārau) [heart-mantra](hṛnmantreṇa) [filling](prapūraṇam)
+[digging-and-lifting](khanana+uddhārau) [with-heart-mantra](hṛt+mantreṇa) [filling](prapūraṇam)
 
 ## mukta-m0-p73-v1820
-[weapon-mantra](hetimantreṇa) [armor-mantra](varmamantreṇa) [cleansing](mārjanam)
+[with-weapon-mantra](heti+mantreṇa) [with-armour-mantra](varma+mantreṇa) [sweeping](mārjanam)
 
 ## mukta-m0-p73-v1821
-[after](paścāt) [heart](hṛdayena) [worship](arcanaṃ) [opinion](matam)
+[afterwards](paścāt) [with-heart](hṛdayena) [worship](arcanaṃ) [is-considered](matam)
 
 ## mukta-m0-p73-v1822
-[four-path](catuṣpathaṃ) [protection](tanutreṇa) [reality](tattvayā) [right-splitting](dakṣapāṭanam)
+[four-paths](catuṣ+pathaṃ) [with-body-mantra](tanu+treṇa) [by-that-principle](tattvayā) [right-cutting](dakṣa+pāṭanam)
 
 ## mukta-m0-p73-v1823
-[those](tāni) [should-purify](saṃskuryāt) [four](caturbhiḥ) [seeing-etc](vīkṣaṇādibhiḥ)
+[those](tāni) [one-should-consecrate](saṃskuryāt) [with-four](caturbhiḥ) [beginning-with-inspection](vīkṣaṇa+ādibhiḥ)
 
 ## mukta-m0-p73-v1824
-[pot-etc-rite](kuṇḍādividhiḥ) [here](atra) [said](ukto) [curd](dadhno) [ghee](ghṛtam) [iva](iva) [eagerly](ādarāt)
+[pit-etc.-procedure](kuṇḍa+ādi+vidhiḥ) [here](atra) [stated](uktaḥ) [like-ghee-from-curd](dadhnaḥ+ghṛtam+iva) [respectfully](ādarāt)
 
 ## mukta-m0-p73-v1825
-[mode](prakāraḥ) [scripture-taught](śāstrabodhitaḥ)
+[method](prakāraḥ) [taught-by-scripture](śāstra+bodhitaḥ)
