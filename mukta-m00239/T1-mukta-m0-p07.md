@@ -5,73 +5,73 @@
 [angry](kupitaḥ) [pleased](prasannā) [becomes](bhavati)
 
 ## mukta-m0-p07-v152
-[gorocanā](gorocanā) [on-birch-bark](bhūrje) [whose](yasya) [name](nāma) [having-written](samālikhya) [in-milk](payomadhye) [placing](sthāpayet) [angry](kupitaḥ) [pleased](prasanno) [becomes](bhavati)
+[cow-yellow-pigment](gorocanā) [on-birch-bark](bhūrje) [whose](yasya) [name](nāma) [having-written](samālikhya) [in-milk+and-honey](payaḥ+madhye) [one-places](sthāpayet) [angry](kupitaḥ) [pleased](prasannaḥ) [becomes](bhavati)
 
 ## mukta-m0-p07-v153
-[by-that-smearing](tallepena) [elephant](gajo) [goes](yāti) [far](dūreṇa) [indeed](khalu) [in-front](sammukham)
+[by-its-smearing](tat+lepena) [elephant](gajaḥ) [goes](yāti) [from-far](dūreṇa) [indeed](khalu) [towards](sammukham)
 
 ## mukta-m0-p07-v154
-[that-smeared-limbed](talliptāṅgaṃ) [man](naraṃ) [seeing](dṛṣṭvā) [far](dūre) [goes](gacchati) [elephant](kuñjaraḥ)
+[with-that-smeared-body](tat+lipta+aṅgam) [man](naram) [having-seen](dṛṣṭvā) [from-far](dūre) [goes](gacchati) [elephant](kuñjaraḥ)
 
 ## mukta-m0-p07-v155
-[evil-elephant-removing](duṣṭadantiharaṃ) [far](dūraṃ) [wonderful](citraṃ) [goes](saṃyāti) [is-born](jāyate)
+[wicked-elephant-removing](duṣṭa+danti+haram) [far-away](dūram) [wonder](citram) [together](sam) [goes](yāti) [becomes](jāyate)
 
 ## mukta-m0-p07-v156
-[root](mūlaṃ) [of-triśūlī](triśūlyā) [in-crooked-place](vakrasthaṃ) [elephant-subduing](gajavaśyakaraṃ) [certain](dhruvam)
+[root](mūlam) [of-triśūlī](triśūlyāḥ) [in-mouth-situated](vakra+stham) [elephant-subduing](gaja+vaśya+karam) [certainly](dhruvam)
 
 ## mukta-m0-p07-v157
-[in-mouth](mukhasthaṃ) [bṛhatī-root](bṛhatīmūlaṃ) [in-hand](hastasthaṃ) [tiger-fear-conquering](vyāghrabhītijit)
+[in-mouth-situated](mukha+stham) [of-bṛhatī-root](bṛhatī+mūlam) [in-hand-situated](hasta+stham) [tiger-fear-conquering](vyāghra+bhīti+jit)
 
 ## mukta-m0-p07-v158
-[in-hand](hastasthaṃ) [tiger-lion-etc-fear-removing](vyāghrasiṃhādibhayahṛt) [declared](parikīrtitam)
+[in-hand-situated](hasta+stham) [tiger+lion+etc.-fear-destroying](vyāghra+siṃha+ādi+bhaya+hṛt) [is-declared](parikīrtitam)
 
 ## mukta-m0-p07-v159
-[thus](iti) [śrī-nityanātha-composed](śrīnityanāthaviracite) [in-kāmaratna](kāmaratne) [tiger-warding](vijayādivyāghranivāraṇaṃ) [named](nāma) [third-instruction](tṛtīyopadeśaḥ)
+[thus](iti) [by-śrī-nityanātha-composed](śrī+nityanātha+viracite) [in-kāmaratna](kāmaratne) [victory+etc.-tiger-warding-off](vijaya+ādi+vyāghra+nivāraṇam) [named](nāma) [third-instruction](tṛtīya+upadeśaḥ)
 
 ## mukta-m0-p07-v160
-[opponent](paravādī) [becomes-mute](bhavenmūko) [or](athavā) [goes-to-horizon](yāti digantaram)
+[opponent](para+vādī) [becomes-mute](bhavet+mūkaḥ) [or](athavā) [goes](yāti) [to-horizon](dik+antaram)
 
 ## mukta-m0-p07-v161
-[this](ayaṃ) [cāmuṇḍā-mantra](cāmuṇḍāmantra) [of-stated-yogas](uktayogayoḥ) [accomplishment-giving](siddhikaraḥ)
+[this](ayam) [cāmuṇḍā-mantra](cāmuṇḍā+mantraḥ) [in-stated-applications](ukta+yogayoḥ) [success-giving](siddhi+karaḥ)
 
 ## mukta-m0-p07-v162
-[in-assembly-middle](sabhāmadhye) [and](ca) [of-all](sarveṣāṃ) [mouth-stopping](mukhastambhaḥ) [arises](prajāyate)
+[in-assembly-middle](sabhā+madhye) [and](ca) [of-all](sarveṣām) [mouth-paralysis](mukha+stambhaḥ) [arises](prajāyate)
 
 ## mukta-m0-p07-v163
-[in-īśāna-corner](īśānakoṇe) [placing](sthāpayet) [his](tasya) [mouth-binding](mukhabandhana) [stopping](stambhanaṃ) [becomes](bhavati)
+[in-northeast-corner](īśāna+koṇe) [one-places](sthāpayet) [of-him](tasya) [mouth-binding](mukha+bandhanam) [paralysis](stambhanam) [becomes](bhavati)
 
 ## mukta-m0-p07-v164
-[sleep-stopping](nidrāstambhanam) [this-indeed](etaddhi) [by-root-deity](mūladevena) [spoken](bhāṣitam)
+[sleep-paralysis](nidrā+stambhanam) [this](etat) [indeed](hi) [by-root-deity](mūla+devena) [spoken](bhāṣitam)
 
 ## mukta-m0-p07-v165
-[in-boat-middle](naukāmadhye) [then](tadā) [boat-stopping](naukāstambhanaṃ) [arises](jāyate) [certain](dhruvam)
+[in-boat-middle](naukā+madhye) [then](tadā) [boat-paralysis](naukā+stambhanam) [arises](jāyate) [certainly](dhruvam)
 
 ## mukta-m0-p07-v166
-[white-aparājitā](śvetāparājitā) [for-men](puṃsā) [so](sa) [(ha)](ha) [goddess](devī) [kākajaṅghikā](kākajaṅghikā)
+[white-aparājitā](śvetā+aparājitā) [by-man](puṃsā) [she](sā) [(or)](ha) [goddess](devī) [kākajaṅghikā](kākajaṅghikā)
 
 ## mukta-m0-p07-v167
-[one-by-one](ekaikaṃ) [wards-off-indeed](vārayatyeva) [weapon-clash](śastrasaṅghaṭṭane) [of-men](nṛṇām)
+[one-by-one](eka+ekam) [wards-off](vārayati) [indeed](eva) [in-weapon-clash](śastra+saṅghaṭṭane) [of-men](nṛṇām)
 
 ## mukta-m0-p07-v168
-[jātī-root](jātīmūlaṃ) [in-mouth](mukhe) [thrown](kṣiptaṃ) [enemy-stopping](śatrustambhanam) [excellent](uttamam)
+[jātī-root](jātī+mūlam) [in-mouth](mukhe) [placed](kṣiptam) [enemy-paralysis](śatru+stambhanam) [excellent](uttamam)
 
 ## mukta-m0-p07-v169
-[of-puṅkhā-or-pāṭalā](puṅkhāyā pāṭalāyā vā) [in-mouth](mukhasthaṃ) [arrow-weapon-removing](kāṇḍaśastrahṛt)
+[of-puṅkhā](puṅkhāyāḥ) [of-pāṭalā](pāṭalāyāḥ) [or](vā) [in-mouth-situated](mukha+stham) [arrow+weapon-destroying](kāṇḍa+śastra+hṛt)
 
 ## mukta-m0-p07-v170
-[in-crooked-place](vakrasaṃsthaṃ) [that-same](tadeva) [syāt](syāt) [sword-stopping](khaḍgastambhakaraṃ) [supreme](param)
+[in-mouth-situated](vakra+saṃstham) [that](tat) [indeed](eva) [becomes](syāt) [sword-paralysis-causing](khaḍga+stambha+karam) [supreme](param)
 
 ## mukta-m0-p07-v171
-[date-palm](kharjjūraṃ) [and](ca) [in-battle](raṇe) [in-hand](haste) [sword-stopping](khaḍgastambhaḥ) [arises](prajāyate)
+[date-palm](kharjjūram) [and](ca) [in-battle](raṇe) [in-hand](haste) [sword-paralysis](khaḍga+stambhaḥ) [arises](prajāyate)
 
 ## mukta-m0-p07-v172
-[three-nights](tryahaṃ) [night](rātrau) [then](tatassarvaiḥ) [as-long-as-life](yāvajjīvaṃ) [not-afflicted](na bādhyate)
+[for-three-days](tri+aham) [at-night](rātrau) [then](tataḥ) [by-all](sarvaiḥ) [as-long-as-life](yāvat+jīvam) [not](na) [is-harmed](bādhyate)
 
 ## mukta-m0-p07-v173
-[oṃ aho ? kumbhakarṇa mahārākṣasa kaikasīgarbha-saṃbhūta parasainyaṃ stambhaya mahābhagavān rudraḥ ājñāpayati svāhā | sarvayogānāmaṣṭottaraśataṃ japetsiddhiḥ](oṃ aho ? kumbhakarṇa mahārākṣasa kaikasīgarbha-saṃbhūta parasainyaṃ stambhaya mahābhagavān rudraḥ ājñāpayati svāhā | sarvayogānāmaṣṭottaraśataṃ japetsiddhiḥ)
+[oṃ](oṃ) [aho](aho) [?](?) [kumbhakarṇa](kumbhakarṇa) [great-demon](mahā+rākṣasa) [kaikasī-womb-born](kaikasī+garbha+saṃbhūta) [enemy-army](para+sainyam) [paralyze](stambhaya) [great-lord](mahā+bhagavān) [rudra](rudraḥ) [commands](ājñāpayati) [svāhā](svāhā) [of-all-applications](sarva+yogānām) [one-hundred-and-eight](aṣṭa+uttara+śatam) [one-should-chant](japet) [success](siddhiḥ)
 
 ## mukta-m0-p07-v174
-[body-placed](dehasthā) [in-battle](samare) [of-men](puṃsāṃ) [all-weapon-removing](sarvāyudhanivāriṇī)
+[on-body-situated](deha+sthā) [in-battle](samare) [of-men](puṃsām) [all-weapons-warding-off](sarva+āyudha+nivāriṇī)
 
 ## mukta-m0-p07-v175
-[by-smearing-alone](lepamātreṇa) [of-heroes](vīrāṇāṃ) [all-weapon-warding](sarvaśastranivāraṇam)
+[by-smearing-alone](lepa+mātreṇa) [of-heroes](vīrāṇām) [all-weapons-warding-off](sarva+śastra+nivāraṇam)
