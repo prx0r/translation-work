@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-[south-headed](yāmyaśiraskaṃ) [that](tam) [having-placed](āropya) [having-covered](ācchādya) [and](ca) [with-fuels](indhanaiḥ)
+[southward](yāmya) [head](śiraskaṃ) [him](tam) [having-placed](āropya) [having-covered](ācchādya) [with-fuel](ca) [+](indhanaiḥ)
 
 ## mukta-m0-p136-v3377
-[having-thrown](prakṣipya) [this](mainam) [by-fire-mantra](agnyādimantrataḥ)
+[having-thrown](prakṣipya) [not](mā) [this](enam) [with-agni-etc.](agni) [+](ādi) [mantras](mantrataḥ)
 
 ## mukta-m0-p136-v3378
-[on-head](śirasi) [his](asya) [full](pūrṇāṃ) [and](ca) [by-this](anena) [should-pour](pātayet)
+[on-head](śirasi) [of-him](asya) [full-ladle](pūrṇāṃ) [and](ca) [with-this](anena) [should-pour](pātayet)
 
 ## mukta-m0-p136-v3379
-[mantra-purified](mantrasampūtāṃ) [śāvyāmenāṃ](śāvyāmenāṃ) [great-offering](mahāhutim)
+[mantra](mantra) [purified](sampūtāṃ) [relating-to-śava](śāvyām) [this](enām) [great](mahā) [oblation](hutim)
 
 ## mukta-m0-p136-v3380
-[sun](sūryaṃ) [your](te) [eye](cakṣuḥ) [beginning-thus](ityādyāḥ) [six-verses](ṣaḍṛcaḥ) [should-recite](prajaped) [also](api)
+[sūryaṃ-te-cakṣuḥ](sūryaṃ) [te-cakṣuḥ](te) [cakṣuḥ](cakṣuḥ) [iti-etc.](iti) [+](ādyāḥ) [six-verses](ṣaḍ) [+](ṛcaḥ) [should-recite](prajapet) [also](api)
 
 ## mukta-m0-p136-v3381
-[then](tāvad) [downward-faced](adhovaktrau) [in-fire](vahnau) [having-placed](nikṣipya) [pot](karkarīm)
+[then](tāvat) [downward](adhaḥ) [+](vaktrau) [in-fire](vahnau) [having-thrown](nikṣipya) [pot](karkarīm)
 
 ## mukta-m0-p136-v3382
-[with-that-water](tatsalilaiḥ) [bathed](snātaḥ) [previous-place](pūrvasthāne) [should-deposit](vinikṣipet)
+[with-its](tat) [waters](salilaiḥ) [bathed](snātaḥ) [in-previous](pūrva) [place](sthāne) [should-place](vinikṣipet)
 
 ## mukta-m0-p136-v3383
-[creator](dhātā) [purify](punātu) [mantra](dyāḥ) [having-bathed](snātvā) [on-bank](tīre) [strewn-with-kusha](kuśāstṛte)
+[dhātā-punātu](dhātā) [+](punātu) [etc.](ā) [+](dyaiḥ) [having-bathed](snātvā) [on-bank](tīre) [kuśa](kuśa) [+](āstṛte)
 
 ## mukta-m0-p136-v3384
-[should-give](dadyāt) [with-mantras](mantraiḥ) [these](ebhiḥ) [three](tribhiḥ) [in-order](kramāt)
+[should-give](dadyāt) [with-mantras](mantraiḥ) [with-these](ebhiḥ) [three](tribhiḥ) [in-order](kramāt)
 
 ## mukta-m0-p136-v3385
-[having-bathed](snātvā) [udvayādyena](udvayādyena) [approaching](samupasthāya) [sun](bhāskaram)
+[having-bathed](snātvā) [with-udvayam](udvaya) [+](ādyena) [having-worshipped](samupasthāya) [sun](bhāskaram)
 
 ## mukta-m0-p136-v3386
-[preceded-by-officiant](saṃskartṛpūrvakāḥ) [disciples-sons-wives-etc](śiṣyaputrapatnyādayaḥ) [also](api) [and](ca)
+[performer](saṃskartṛ) [headed-by](pūrvakāḥ) [disciple](śiṣya) [son](putra) [wife](patnī) [etc.](ādayaḥ) [also](api) [and](ca)
 
 ## mukta-m0-p136-v3387
-[that-impurity](tadāśaucaṃ) [once](sakṛt) [eaten](bhaktaṃ) [by-day](divā) [only](eva) [but](tu)
+[their](tat) [impurity](āśaucaṃ) [once](sakṛt) [eating](bhaktaṃ) [by-day](divā) [only](eva) [indeed](tu)
 
 ## mukta-m0-p136-v3388
-[nu](nu) [vehicles-etc](yānādikaṃ) [having-done](kṛtvā) [touch](sparśaṃ) [or](vā) [his](asya) [of-guru](guror) [if](yadi)
+[bathing](nu) [+](yānādikaṃ) [having-done](kṛtvā) [touch](sparśaṃ) [or](vā) [of-him](asya) [of-guru](guroḥ) [if](yadi)
 
 ## mukta-m0-p136-v3389
-[by-ten](daśabhiḥ) [mother-father-brother-son-etc](mātṛpitṛbhrātṛsutādayaḥ)
+[ten-days](daśabhiḥ) [mother](mātṛ) [father](pitṛ) [brother](bhrātṛ) [son](suta) [etc.](ādayaḥ)
 
 ## mukta-m0-p136-v3390
-[on-fifth](pañcame) [or](vā) [day](ahni) [ninth](navama) [eleventh](ekādaśa) [days](ahayoḥ)
+[on-fifth](pañcame) [or](vā) [day](ahni) [on-ninth](navama) [eleventh](ekādaśa) [days](āhayoḥ)
 
 ## mukta-m0-p136-v3391
-[for-that](tadarthaṃ) [but](tu) [should-do](kuryuḥ) [all](sarve) [his](asya) [relatives](bāndhavāḥ)
+[for-that](tat) [+](arthaṃ) [indeed](tu) [should-do](kuryuḥ) [all](sarve) [his](asya) [relatives](bāndhavāḥ)
 
 ## mukta-m0-p136-v3392
-[with-milk](payasā) [and](ca) [with-water](adbhiḥ) [in-that](tasmin) [bones](asthīni) [should-deposit](nikṣipet)
+[with-milk](payasā) [and](ca) [with-waters](adbhiḥ) [in-that](tasmin) [bones](asthīni) [should-throw](nikṣipet)
 
 ## mukta-m0-p136-v3393
-[not](na) [indeed](eva) [post-death-rites](ūrdhvadehikā) [expectation](apekṣā) [of-liberator](mumukṣoḥ) [here](iha) [exists](vidyate)
+[not](na) [indeed](eva) [after-death](aurdhva) [+](dehika) [expectation](apekṣā) [of-one-desiring-liberation](mumukṣoḥ) [here](iha) [exists](vidyate)
 
 ## mukta-m0-p136-v3394
-[daily](pratidinam) [increasing-by-one](ekottaravivṛddhitaḥ)
+[every-day](pratidinam) [by-one](eka) [+](uttara) [increasing](vivṛddhitaḥ)
 
 ## mukta-m0-p136-v3395
-[shraddhas](śrāddhāni) [having-given](dattvā) [then](atha) [on-eleventh](ekādaśe) [day](dine)
+[śrāddhas](śrāddhīni) [having-given](da) [+](sa) [+](ttvā) [then](atha) [on-eleventh](ekādaśe) [day](dine)
 
 ## mukta-m0-p136-v3396
-[brahmin](brāhmaṇaṃ) [but](tu) [one](ekaṃ) [having-chosen](varayitvā) [śivā](śivā)
+[brāhmaṇa](brāhmaṇaṃ) [indeed](tu) [one](ekaṃ) [having-chosen](varayitva) [for-śiva](śivā) [+](stra) [+](jña) [+](yā) [+](yam)
 
 ## mukta-m0-p136-v3397
-[on-darbha](darbheṣu) [having-seated](upaveśya) [having-worshipped](abhipūjya) [and](ca)
+[on-darbha-grass](darbheṣu) [having-seated](upaveśya) [having-worshipped](abhipūjya) [and](ca)
 
 ## mukta-m0-p136-v3398
-[cakes-condiments-food](apūpavyañjanānnādyaṃ) [should-place](nyaset) [outside-boundary](paridhibāhyataḥ)
+[cake](apūpa) [condiment](vyañjana) [food](anna) [etc.](ādyaṃ) [should-place](nyaset) [outside-boundary](paridhi) [+](bāhyataḥ)
 
 ## mukta-m0-p136-v3399
-[south-pointing](dakṣiṇāgrān) [but](tu) [in-those](teṣu) [vessel](pātraṃ) [but](tu) [should-place](sādayet)
+[southward](dakṣiṇa) [+](agrān) [indeed](tu) [on-them](teṣu) [vessel](pātraṃ) [indeed](tu) [should-place](sādayet)
 
 ## mukta-m0-p136-v3400
-[departed](preta) [beginning-thus](ityādyāt) [may-be](syāt) [acceptance-of-svadha](svadhāgrahaḥ)
+[preta](preta) [iti-etc.](iti) [+](ādyāt) [should-be](syāt) [svadhā](svadhā) [+](grahaḥ)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p137-v3401
-[nimitta](nimitta)+[bhūtāyām](bhūtāyām) [strī](strī)+[śabda](śabda)+[antam](antam) [udīrayet](udīrayet)
+[cause-become-loc](nimittabhūtāyāṃ) [woman-word-ending-acc](strī+śabda+antam) [should-utter](udīrayet)
 
 ## mukta-m0-p137-v3402
-[soma](soma)+[devatyāt](devatyāt) [tilān](tilān)+[ca](ca) [madhu](madhu)+[vātataḥ](vātataḥ)
+[soma-deity-abl](soma+devatyāt) [sesame-seeds-acc-and](tilān+ca) [madhuvātaḥ-mantra-from](madhuvātataḥ)
 
 ## mukta-m0-p137-v3403
-[saṃśodhya](saṃśodhya) [yat](yat)+[kiñcit](kiñcit)+[ca](ca) [etat](etat)+[uddharet](uddharet)
+[having-purified](saṃśodhya) [whatever-and-this-acc](yat+kiñcit+ca+etat) [should-lift-up](uddharet)
 
 ## mukta-m0-p137-v3404
-[poṣa](poṣa)+[uktyā](uktyā)+[asmin](asmin) [āvāhayed](āvāhayed) [dvijaiḥ](dvijaiḥ)
+[poṣa-utterance-ins](poṣa+uktyā) [in-this-loc](asmin) [should-invoke](āvāhayet) [with-brahmins-ins](dvijaiḥ)
 
 ## mukta-m0-p137-v3405
-[sa](sa)+[darbha](darbha)+[pāṇibhyām](pāṇibhyām) [tat](tat)+[dakṣiṇa](dakṣiṇa)+[karam](karam) [spṛśet](spṛśet)
+[with-kuśa-grass-hand-ins-du](sa+darbha+pāṇibhyāṃ) [his-right-hand-acc](tat+dakṣiṇa+karam) [should-touch](spṛśet)
 
 ## mukta-m0-p137-v3406
-[bhavān](bhavān)+[ca](ca)+[iti](iti) [prāpnavāni](prāpnavāni)+[iti](iti) [saḥ](saḥ)+[api](api)+[ca](ca)
+[you-honorable-nom](bhavān) [and-iti](ca+iti) [having-obtained-nom](prāpnavān) [thus](iti) [he-nom-also](saḥ+api) [and](ca)
 
 ## mukta-m0-p137-v3407
-[dadyāt](dadyāt) [pretāya](pretāya) [svadhā](svadhā)+[namah](namah)+[iti](iti) [bruvan](bruvan)
+[should-give](dadyāt) [to-departed-dat](pretāya) [svadhā-name-acc](svadhā+nama) [thus](iti) [saying-nom](bruvan)
 
 ## mukta-m0-p137-v3408
-[ādyāt](ādyāt) [rakṣāyai](rakṣāyai) [sarvataḥ](sarvataḥ)+[api](api)+[ca](ca)
+[from-beginning](ādyāt) [for-protection-dat](rakṣāyai) [from-all-sides](sarvataḥ) [also-and](api) [and](ca)
 
 ## mukta-m0-p137-v3409
-[syāt](syāt)+[mantraḥ](mantraḥ) [strī](strī)+[antaḥ](antaḥ) [bhavet](bhavet) [striyāḥ](striyāḥ)
+[should-be](syāt) [mantra-nom](mantraḥ) [woman-ending-nom](strī+antaḥ) [should-be](bhavet) [of-woman-gen](striyāḥ)
 
 ## mukta-m0-p137-v3410
-[tasmai](tasmai) [dadyāt](dadyāt) [tu](tu) [dakṣiṇām](dakṣiṇām)
+[to-him-dat](tasmai) [should-give](dadyāt) [but](tu) [fee-acc](dakṣiṇām)
 
 ## mukta-m0-p137-v3411
-[tat](tat) [sarvam](sarvam) [amuṣmai](amuṣmai) [saṃpradāya](saṃpradāya) [tu](tu)
+[that-acc](tat) [all-acc](sarvam) [to-him-dat](amuṣmai) [having-delivered](saṃpradāya) [but](tu)
 
 ## mukta-m0-p137-v3412
-[avāritam](avāritam) [tat](tat)+[annādyam](annādyam) [dattvā](dattvā) [ca](ca)+[upavaset](upavaset) [svayam](svayam)
+[unobstructed-acc](avāritam) [that-food-etc-acc](tat+anna+ādyam) [having-given](dattvā) [and](ca) [should-fast](upavaset) [himself-nom](svayam)
 
 ## mukta-m0-p137-v3413
-[ca](ca)+[upavaset](upavaset) [kartā](kartā) [bhuñjīyāt](bhuñjīyāt)+[ca](ca) [apare](apare)+[ahani](ahani)
+[and](ca) [should-fast](upavaset) [performer-nom](kartā) [should-eat](bhuñjīyāt) [and](ca) [on-next-day-loc](apare+ahani)
 
 ## mukta-m0-p137-v3414
-[eka](eka)+[uddiṣṭa](uddiṣṭa)+[vidhānena](vidhānena) [dadyāt](dadyāt)+[ca](ca) [prativāsaram](prativāsaram)
+[by-ekaoddiṣṭa-rite-ins](eka+uddiṣṭa+vidhānena) [should-give](dadyāt) [and](ca) [every-day-acc](prati+vāsaram)
 
 ## mukta-m0-p137-v3415
-[pratimāsam](pratimāsam) [tathā](tathā) [śrāddham](śrāddham) [piṇḍān](piṇḍān)+[api](api)+[ca](ca) [nirvapet](nirvapet)
+[every-month-acc](prati+māsam) [likewise](tathā) [śrāddha-acc](śrāddham) [rice-balls-acc-also](piṇḍān+api) [and](ca) [should-offer](nirvapet)
 
 ## mukta-m0-p137-v3416
-[dvādaśa](dvādaśa) [śrāddhaiḥ](śrāddhaiḥ) [*](*) [*](*) [piṇḍān](piṇḍān)+[ca](ca) [ṣoḍaśa](ṣoḍaśa)
+[with-twelve-ins](dvādaśa) [śrāddhas-ins](śrāddhaiḥ) [*](*) [*](*) [rice-balls-acc-and](piṇḍān+ca) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p137-v3417
-[saṅkalpya](saṅkalpya) [pūrvedyus](pūrvedyus) [viśiṣṭān](viśiṣṭān) [varayet](varayet) [dvijān](dvijān)
+[having-resolved](saṅkalpya) [on-previous-day-loc](pūrve+dyuḥ) [distinguished-acc-pl](viśiṣṭān) [should-choose](varayet) [brahmins-acc](dvijān)
 
 ## mukta-m0-p137-v3418
-[śucibhiḥ](śucibhiḥ) [snātaiḥ](snātaiḥ) [brāhmaṇaiḥ](brāhmaṇaiḥ) [caru](caru)+[pāka](pāka)+[vat](vat)
+[by-pure-ins](śucibhiḥ) [by-bathed-ins](snātaiḥ) [by-brahmins-ins](brāhmaṇaiḥ) [like-caru-cooking](caru+pāka+vat)
 
 ## mukta-m0-p137-v3419
-[dakṣiṇataḥ](dakṣiṇataḥ) [tadvat](tadvat) [uttare](uttare) [laukika](laukika)+[analam](analam)
+[to-south-loc](dakṣiṇataḥ) [like-that](tadvat) [to-north-loc](uttare) [worldly-fire-acc](laukika+analam)
 
 ## mukta-m0-p137-v3420
-[pāda](pāda)+[śauca](śauca)+[ādikam](ādikam) [kṛtvā](kṛtvā) [prāṅmukhau](prāṅmukhau) [upaveśayet](upaveśayet)
+[foot-washing-etc-acc](pāda+śauca+ādikam) [having-done](kṛtvā) [facing-east-acc-du](prāk+mukhau) [should-seat](upaveśayet)
 
 ## mukta-m0-p137-v3421
-[yava](yava)+[ambunā](ambunā)+[arghye](arghye) [saṃpādya](saṃpādya) [sudhām](sudhām) [smṛtvā](smṛtvā) [tu](tu) [nikṣipet](nikṣipet)
+[in-barley-water-loc](yava+ambunā) [arghya-acc](arghye) [having-prepared](saṃpādya) [nectar-acc](sudhām) [having-remembered](smṛtvā) [but](tu) [should-place](nikṣipet)
 
 ## mukta-m0-p137-v3422
-[pitāmahāya](pitāmahāya) [atha](atha) [tat](tat)+[pitre](pitre) [ca](ca) [dvijāḥ](dvijāḥ)+[trayaḥ](trayaḥ)
+[to-grandfather-dat](pitāmahāya) [then](atha) [to-his-father-dat](tat+pitre) [and](ca) [brahmins-nom](dvijāḥ) [three-nom](trayaḥ)
 
 ## mukta-m0-p137-v3423
-[vaṃśa](vaṃśa)+[śruta](śruta)+[ācāra](ācāra)+[saṃpannāḥ](saṃpannāḥ) [śiva](śiva)+[tatparāḥ](tatparāḥ)
+[lineage-tradition-conduct-endowed-nom-pl](vaṃśa+śruta+ācāra+saṃpannāḥ) [to-Śiva-devoted-nom-pl](śiva+tatparāḥ)
 
 ## mukta-m0-p137-v3424
-[deva](deva)+[aṃśa](aṃśa)+[kalpitam](kalpitam) [yat](yat) [tat](tat) [pātre](pātre) [kṣiptvā](kṣiptvā)+[abhidhārya](abhidhārya) [tu](tu)
+[to-gods-dat](devān) [imagined-acc](sa+kalpitam) [what-nom](yat) [that-acc](tat) [in-vessel-loc](pātre) [having-thrown](kṣiptvā) [having-consecrated](abhidhārya) [but](tu)
 
 ## mukta-m0-p137-v3425
-[darśayet](darśayet)+[ca](ca) [atha](atha) [prācīna](prācīna)+[avītam](avītam) [udvahan](udvahan)
+[should-show](darśayet) [and](ca) [then](atha) [sacred-thread-over-right-shoulder-acc](prācīna+āvītam) [bearing-nom](udvahan)
