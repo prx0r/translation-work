@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p41",
  "verse": 1025,
- "question": "To which deity and in which direction must the offering be presented with this formula?",
+ "question": "Which Mahāvidyā identity and smoky attributes are ascribed to the goddess in this enumeration?",
  "premises": [
-  "The verse prescribes giving an offering with this formula.",
-  "Kṣetrapāla is named as the recipient of the offering.",
-  "The western direction is specified as the location for this offering."
+  "The name Chinnamastā identifies a specific Mahāvidyā goddess.",
+  "The epithets mahā dhūmā attribute a great smoky quality to her.",
+  "The epithet dhūmra vibhūṣaṇā attributes smoke-dark adornment to her."
  ],
- "inference": "Therefore, one should give the offering with this formula to Kṣetrapāla in the west.",
- "uncertainties": [],
- "plain_english": "Then, with this formula, one should give the offering to Kṣetrapāla in the west."
+ "inference": "The verse enumerates the goddess as Chinnamastā, characterized by great smokiness and smoke-dark adornment.",
+ "uncertainties": [
+  "Whether mahā and dhūmā function as a single compound epithet or as closely associated separate descriptors is not fully explicit from tokenization alone."
+ ],
+ "plain_english": "She is Chinnamastā, greatly smoky, and also adorned with smoke-dark ornaments."
 }

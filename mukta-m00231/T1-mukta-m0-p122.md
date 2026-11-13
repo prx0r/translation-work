@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[faith](śraddhā) [love](prīti) [delight](rati) [and](ca) [indeed](eva) [messenger](dūtiḥ) [beauty](kāntiḥ) [charming](manoramā)
+[faith](śraddhā) [affection+delight](prīti+ratiḥ) [and+indeed](ca+eva) [messenger](dūtiḥ) [lovely+charming](kāntiḥ+manoramā)
 
 ## mukta-m0-p122-v3027
-[deluding](mohinī) [illuminating](dīpanī) [and](ca) [indeed](eva) [drying](śoṣaṇī) [and](ca) [indeed](eva) [auspicious](śaṅkarī)
+[bewitching](mohinī) [inflaming](dīpanī) [and+indeed](ca+eva) [drying](śoṣaṇī) [and+indeed](ca+eva) [auspicious](śaṅkarī)
 
 ## mukta-m0-p122-v3028
-[sixteen](ṣoḍaśa) [vowels](svara) [joined](saṃyuktā) [these](etāḥ) [desire](kāma) [arts](kalā) [worship](yajet)
+[sixteen+vowel+endowed](ṣoḍaśa+svara+saṃyuktā) [these](etāḥ) [love-arts](kāma+kalāḥ) [one-should-worship](yajet)
 
 ## mukta-m0-p122-v3029
-[prosperity](ṛddhiḥ) [gentle](saumyā) [ray](marīci) [and](ca) [thus](tathā) [and](ca) [indeed](eva) [garlanded-with-rays](aṃśumālinī)
+[prosperity](ṛddhiḥ) [gentle](saumyā) [ray](marīciḥ) [and](ca) [likewise](tathā) [and+indeed](ca+eva) [garlanded-with-rays](aṃśu+mālinī)
 
 ## mukta-m0-p122-v3030
-[thus](tathā) [satisfied](tuṣṭā) [nectar](amṛte) [and](ca) [indeed](eva) [digits](kalāḥ) [of-moon](somasya) [sixteen](ṣoḍaśa)
+[likewise](tathā) [satisfaction+nectar](tuṣṭā+amṛte) [and+indeed](ca+eva) [digits](kalāḥ) [of-moon](somasya) [sixteen](ṣoḍaśa)
 
 ## mukta-m0-p122-v3031
-[of-her](tasyāḥ) [indeed](tu) [love](madana) [in-house](āgāre) [worship](pūjayed) [garland-of-yonis](bhagamālinīm)
+[of-her](tasyāḥ) [then](tu) [in-love-abode](madana+āgāre) [one-should-worship](pūjayet) [Bhagamālinī](bhagamālinīm)
 
 ## mukta-m0-p122-v3032
-[then](atha) [in-belly](udari) [at-end-of-yoni](bhagānte) [and](ca) [garland-of-yonis](bhagamāle) [in-yoni-vehicle](bhagāvahe)
+[now](atha) [udari](udari) [bhaga+end](bhaga+ante) [and](ca) [bhagamāle](bhagamāle) [bhagāvahe](bhagāvahe)
 
 ## mukta-m0-p122-v3033
-[all](sarva) [yoni](bhaga) [subjugating](vaśaṅkari) [yoni](bhaga) [form](rūpe) [thereafter](tataḥ-param)
+[all+bhaga+subduing](sarva+bhaga+vaśaṅkari) [bhaga+form](bhaga+rūpe) [then](tataḥ) [after](param)
 
 ## mukta-m0-p122-v3034
-[yonis](bhagāni) [my](me) [indeed](hi) [bring](ānayānte) [bestower](varade) [then](atha) [write](samālikhet)
+[bhagas](bhagāni) [to-me](me) [indeed+bring](hi+ānaya) [at-end](ante) [boon-giver](varade) [then](atha) [one-should-write](samālikhet)
 
 ## mukta-m0-p122-v3035
-[moisten](kledaya) [melt](drāvaya) [unfailing](amoghe) [in-yoni-space](bhagavicce) [thereafter](tataḥ-param)
+[moisten](kledaya) [melt](drāvaya) [unfailing-one](amoghe) [bhaga-knower](bhaga+vicce) [then](tataḥ) [after](param)
 
 ## mukta-m0-p122-v3036
-[beings](sattvān) [lady-of-yoni](bhageśvari) [speak](brūyāt) [word-born](vāgbhavaṃ) [mantra](blūṃ) [beginning-with-ja](jamādikam)
+[beings](sattvān) [O-lady-of-bhaga](bhageśvari) [one-should-say](brūyāt) [vāgbhava](vāgbhavaṃ) [blūṃ+ja+beginning](blūṃ+ja+ādikam)
 
 ## mukta-m0-p122-v3037
-[all](sarvāṇi) [yonis](bhagāni) [my](me) [control](vaśam) [bring](ānaya) [and](ca) [raise](uddharet)
+[all](sarvāṇi) [bhagas](bhagāni) [to-me](me) [under-control+bring](vaśam+ānaya) [and](ca) [one-should-utter](uddharet)
 
 ## mukta-m0-p122-v3038
-[garland-of-yonis](bhagamālām) [and](ca) [eternal](nityām) [and](ca) [joined-with-ṅa](ṅeyutāṃ) [mantra](manum) [raise](uddharet)
+[Bhagamālā](bhagamālām) [and](ca) [Nityā](nityām) [and](ca) [ṅe+joined](ṅe+yutām) [mantra](manum) [one-should-extract](uddharet)
 
 ## mukta-m0-p122-v3039
-[all](sarva) [bliss](ānanda) [full](maye) [in-middle](madhye) [king-of-wheels](cakrarājaṃ) [worship](samarcayet)
+[all+bliss+full](sarva+ānanda+maye) [in-middle](madhye) [wheel+king](cakra+rājaṃ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p122-v3040
-[there-too](tatrāpi) [invocation](āvāhanam) [not](na) [is](asti) [life](jīva) [placement](nyāsam) [thus](tathā) [indeed](eva) [and](ca)
+[there](tatra) [also](api) [invocation](āvāhanaṃ) [not](na) [is](asti) [life+installation](jīva+nyāsaṃ) [likewise](tathā) [indeed](eva) [and](ca)
 
 ## mukta-m0-p122-v3041
-[syllable-tāra](tāram) [and](ca) [mistress-of-worlds](bhuvaneśānīm) [of-tripura](tripurāyāḥ) [triad](trayam) [then](tataḥ)
+[praṇava](tāram) [and](ca) [Bhuvaneśānī](bhuvaneśānīm) [of-Tripurā](tripurāyāḥ) [triad](trayaṃ) [then](tataḥ)
 
 ## mukta-m0-p122-v3042
-[by-this](anena) [mantra](manunā) [mantra-user](mantrī) [in-own-linga](svaliṅge) [worship](pūjayet) [shiva](śivam)
+[by-this](anena) [by-mantra](manunā) [practitioner](mantrī) [in-own-liṅga](sva+liṅge) [should-worship](pūjayet) [Śiva](śivam)
 
 ## mukta-m0-p122-v3043
-[cessation](nivṛtti) [and](ca) [establishment](pratiṣṭhāṃ) [and](ca) [knowledge](vidyāṃ) [peace](śāntiṃ) [thereafter](tataḥ-param)
+[nivṛtti](nivṛttim) [and](ca) [pratiṣṭhā](pratiṣṭhām) [and](ca) [vidyā](vidyām) [śānti](śāntim) [then](tataḥ) [after](param)
 
 ## mukta-m0-p122-v3044
-[complete](samagra) [knowledge](vidyām) [uttering](uccārya) [that](tat) [in-triangle](trikoṇe) [worship](prapūjayet)
+[complete+knowledge](samagra+vidyām) [having-uttered](uccārya) [in-that+triangle](tat+trikoṇe) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p122-v3045
-[all](sarva) [agitating](saṅkṣobhaṇīm) [seal](mudrāṃ) [binding](baddhvā) [yoni](yoniṃ) [move](vicālayet)
+[all+agitating](sarva+saṅkṣobhaṇīm) [mudrā](mudrām) [having-formed](baddhvā) [yoni](yoniṃ) [one-should-move](vicālayet)
 
 ## mukta-m0-p122-v3046
-[index-fingers](tarjanyau) [like-staff](daṇḍavat) [making](kṛtvā) [middle](madhyamā) [above](upari) [ring-fingers](anāmike)
+[index-fingers](tarjanyau) [like-staff](daṇḍa+vat) [having-made](kṛtvā) [middle-fingers](madhyamā) [above](upari) [ring-fingers](anāmike)
 
 ## mukta-m0-p122-v3047
-[agitate](kṣobhayed) [or](athavā) [mantra-user](mantrī) [elephant-trunk](gajahasta) [named](ākhyā) [by-seal](mudrayā)
+[one-should-agitate](kṣobhayet) [or](atha+vā) [practitioner](mantrī) [by-elephant-hand+named+mudrā](gaja+hasta+ākhya+mudrayā)
 
 ## mukta-m0-p122-v3048
-[insert](niḥkṣipet) [fingers](aṅgulīḥ) [all](sarvā) [elephant-trunk](gajatuṇḍa) [shape](ākṛti) [as](yathā)
+[one-should-insert](niḥkṣipet) [fingers](aṅgulīḥ) [all](sarvāḥ) [elephant-trunk+form](gaja+tuṇḍa+ākṛtiḥ) [as](yathā)
 
 ## mukta-m0-p122-v3049
-[utter](uccaret) [garland-of-yonis](bhagamālām) [and](ca) [liquefying](drāviṇī) [seed](bījam) [uttering](uccaran)
+[one-should-utter](uccaret) [Bhagamālā](bhagamālām) [and](ca) [drāviṇī+seed](drāviṇī+bījam) [uttering](uccaran)
 
 ## mukta-m0-p122-v3050
-[dust](rajas) [made-of](mayam) [dust](rajaḥ) [directly](sākṣāt) [consciousness](saṃvid) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[made-of-passion](rajaḥ+mayam) [passion](rajaḥ) [directly](sākṣāt) [consciousness](saṃvid) [indeed](eva) [not](na) [doubt](saṃśayaḥ)

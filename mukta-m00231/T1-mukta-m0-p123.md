@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[śiva+śakti+union](śivaśaktisamāyogo) [yoga](yoga) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[śiva](śiva)[+](śivaśaktisamāyogo)[śakti](śakti)[+](śivaśaktisamāyogo)[union](samāyogo) [union](yoga) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p123-v3052
-[embrace](āliṅganañca) [musk](kastūrī) [camphor](karpūraṃ) [kiss](cumbanaṃ) [becomes](bhavet)
+[embrace](āliṅganañ)[+](āliṅganañca)[and](ca) [musk](kastūrī) [camphor](karpūraṃ) [kiss](cumbanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p123-v3053
-[play+etc](līlādikaṃ) [incense+lamp](dhūpadīpaṃ) [breast+rubbing](kucamardaṃ) [śiva-worship](śivārcanam)
+[sport](līlā)[+](līlādikaṃ)[etcetera](ādikaṃ) [incense](dhūpa)[+](dhūpadīpaṃ)[lamp](dīpaṃ) [breast](kuca)[+](kucamardaṃ)[pressing](mardaṃ) [śiva](śiva)[+](śivārcanam)[worship](arcanam)
 
 ## mukta-m0-p123-v3054
-[with+kula+substance](kuladravyeṇa) [purifying](saṃśodhya) [śiva+śakti-filled](śivaśaktimayo) [becomes](bhavet)
+[kula](kula)[+](kuladravyeṇa)[substance](dravyeṇa) [having-purified](saṃśodhya) [śiva](śiva)[+](śivaśaktimayo)[śakti](śakti)[+](śivaśaktimayo)[consisting-of](mayo) [should-become](bhavet)
 
 ## mukta-m0-p123-v3055
-[in+vessel](kuṇḍe) [three+qualities+endowed](triguṇasampanne) [śrī+bindu+abode](śrībindunilaye) [supreme](pare)
+[in-womb](kuṇḍe) [three](tri)[+](triguṇasampanne)[quality](guṇa)[+](triguṇasampanne)[endowed](sampanne) [śrī](śrī)[+](śrībindunilaye)[bindu](bindu)[+](śrībindunilaye)[abode](nilaye) [supreme](pare)
 
 ## mukta-m0-p123-v3056
-[separate](viviktuḥ) [blaming](kutsanaparo) [becomes](jāyate) [guru+bed+goer](gurutalpagaḥ)
+[of-discriminator](viviktuḥ) [censure](kutsana)[+](kutsanaparo)[intent-on](paro) [becomes](jāyate) [guru](guru)[+](gurutalpagaḥ)[bed](talpa)[+](gurutalpagaḥ)[going-to](gaḥ)
 
 ## mukta-m0-p123-v3057
-[satisfying](tarpayitvā) [great+goddess](mahādevīṃ) [to+śakti](śaktaye) [gift](dakṣiṇāṃ) [gives](dadet)
+[having-satisfied](tarpayitvā) [great](mahā)[+](mahādevīṃ)[goddess](devīṃ) [to-śakti](śaktaye) [fee](dakṣiṇāṃ) [should-give](dadet)
 
 ## mukta-m0-p123-v3058
-[threefold](trividhaṃ) [of+tripurā](tripurāyāśca) [great](mahat) [worship](pūjanaṃ) [told](kathitaṃ)
+[three](tri)[+](trividhaṃ)[fold](vidhaṃ) [of-tripurā](tripurāyāś)[+](tripurāyāśca)[and](ca) [declared](kathitaṃ) [worship](pūjanaṃ) [great](mahat)
 
 ## mukta-m0-p123-v3059
-[then](tadā) [with+very+extensive](suvistaraiḥ) [hymns](stavaiḥ) [all](sarvāṇi) [purifies](pariśodhayet)
+[then](tadā) [with-very](su)[+](suvistaraiḥ)[extensive](vistaraiḥ) [with-hymns](stavaiḥ) [all-things](sarvāṇi) [one-should-purify](pariśodhayet)
 
 ## mukta-m0-p123-v3060
-[in+horse+sacrifice+etc](aśvamedhādiyajñādau) [horse+killing](vājihatyā) [how](kathaṃ) [becomes](bhavet)
+[aśvamedha](aśvamedha)[+](aśvamedhādiyajñādau)[etcetera](ādi)[+](aśvamedhādiyajñādau)[sacrifice](yajña)[+](aśvamedhādiyajñādau)[etcetera](ādau) [horse](vāji)[+](vājihatyā)[killing](hatyā) [how](kathaṃ) [should-be](bhavet)
 
 ## mukta-m0-p123-v3061
-[flour-born](paiṣṭībhavaṃ) [grain-born](dhānyabhavaṃ) [thus](tathā) [wheel+made](cakravinirmitam)
+[flour](paiṣṭī)[+](paiṣṭībhavaṃ)[born-of](bhavaṃ) [grain](dhānya)[+](dhānyabhavaṃ)[born-of](bhavaṃ) [likewise](tathā) [wheel](cakra)[+](cakravinirmitam)[produced-by](vinirmitam)
 
 ## mukta-m0-p123-v3062
-[intoxicating](mādakaṃ) [from+dharma+cutting](dharmasañchedāt) [to+be+avoided](varjyamāhur) [sages](manīṣiṇiḥ)
+[intoxicant](mādakaṃ) [dharma](dharma)[+](dharmasañchedāt)[destruction](sañchedāt) [to-be-avoided](varjyam)[+](varjyamāhurmanīṣiṇiḥ)[they-say](āhur)[+](varjyamāhurmanīṣiṇiḥ)[the-wise](manīṣiṇiḥ)
 
 ## mukta-m0-p123-v3063
-[brahmin+killing+etc+sins](brahmahatyāsurāpānasvarṇasteyādipātakān)
+[brahmin](brahma)[+](brahmahatyāsurāpānasvarṇasteyādipātakān)[killing](hatyā)[+](brahmahatyāsurāpānasvarṇasteyādipātakān)[liquor](surā)[+](brahmahatyāsurāpānasvarṇasteyādipātakān)[drinking](pāna)[+](brahmahatyāsurāpānasvarṇasteyādipātakān)[gold](svarṇa)[+](brahmahatyāsurāpānasvarṇasteyādipātakān)[theft](steya)[+](brahmahatyāsurāpānasvarṇasteyādipātakān)[etcetera](ādi)[+](brahmahatyāsurāpānasvarṇasteyādipātakān)[sins](pātakān)
 
 ## mukta-m0-p123-v3064
-[examines](vicārayet) [always](sadā) [all](sarvaṃ) [with+good+reasoning](sattarkeṇa) [good+practitioner](susādhakaḥ)
+[should-consider](vicārayet) [always](sadā) [everything](sarvaṃ) [with-good](su)[+](susādhakaḥ)[reasoning](sat+tarkeṇa) [good](su)[+](susādhakaḥ)[practitioner](sādhakaḥ)
 
 ## mukta-m0-p123-v3065
-[fish](mīnaṃ) [not](na) [eats](bhuñjate) [alas](hanta) [widow](vidhavā) [that](tat) [how](kathaṃ) [milk](payaḥ)
+[fish](mīnaṃ) [not](na) [they-eat](bhuñjate) [indeed](hanta) [widow](vidhavā) [that](tat) [how](kathaṃ) [milk](payaḥ)
 
 ## mukta-m0-p123-v3066
-[water](jalaṃ) [water+creature](jalacaraṃ) [know](viddhi) [pot+filled](ghaṭapūrṇaṃ) [brings+together](samānayet)
+[water](jalaṃ) [water](jala)[+](jalacaraṃ)[moving](caraṃ) [know](viddhi) [pot](ghaṭa)[+](ghaṭapūrṇaṃ)[filled](pūrṇaṃ) [one-should-bring](samānayet)
 
 ## mukta-m0-p123-v3067
-[without+meat](anāmiṣaṃ) [not](nāsti) [anything](kiñcit) [all](sarvaṃ) [milk+etc](kṣīrādikaṃ) [thus](tathā)
+[not](an)[+](anāmiṣaṃ)[meat](āmiṣaṃ) [not](nāsti) [anything](kiñcit) [all](sarvaṃ) [milk](kṣīra)[+](kṣīrādikaṃ)[etcetera](ādikaṃ) [likewise](tathā)
 
 ## mukta-m0-p123-v3068
-[in+all+beings](sarvabhūteṣu) [knowledge](vijñānaṃ) [thus](tathā) [to+be+known](jñeyaṃ) [by+good+practitioners](susādhakaiḥ)
+[all](sarva)[+](sarvabhūteṣu)[beings](bhūteṣu) [knowledge](vijñānaṃ) [likewise](tathā) [to-be-known](jñeyaṃ) [by-good](su)[+](susādhakaiḥ)[practitioners](sādhakaiḥ)
 
 ## mukta-m0-p123-v3069
-[that+wood](tatkāṣṭhaṃ) [burns](dahyate) [by+that](tena) [thus](tathā) [brahma-filled](brahmamayaṃ) [world](jagat)
+[that](tat)[+](tatkāṣṭhaṃ)[wood](kāṣṭhaṃ) [is-burned](dahyate) [by-that](tena) [likewise](tathā) [brahman](brahma)[+](brahmamayaṃ)[consisting-of](mayaṃ) [world](jagat)
 
 ## mukta-m0-p123-v3070
-[of+sacrifice+possessed](yajñayuktasya) [not+other's](nānyasya) [otherwise](anyathā) [sin](pātakaṃ) [becomes](bhavet)
+[sacrifice](yajña)[+](yajñayuktasya)[joined-with](yuktasya) [not](na)[+](nānyasya)[of-another](anyasya) [otherwise](anyathā) [sin](pātakaṃ) [should-be](bhavet)
 
 ## mukta-m0-p123-v3071
-[from+dharma+adharma+knowledge](dharmādharmaparijñānāt) [from+purification](saṃskārācca) [purity](pavitratā)
+[dharma](dharma)[+](dharmādharmaparijñānāt)[adharma](adharma)[+](dharmādharmaparijñānāt)[full-knowledge](parijñānāt) [purification](saṃskārāt)[+](saṃskārācca)[and](ca) [purity](pavitratā)
 
 ## mukta-m0-p123-v3072
-[examines](vicārayen) [mantra+knower](mantravittu) [delusion+indeed](bhrāntireva) [not](na) [doubt](saṃśayaḥ)
+[should-consider](vicārayen)[+](vicārayenmantravittu)[mantra](mantra)[+](vicārayenmantravittu)[knower](vittu) [delusion](bhrāntiḥ)[+](bhrāntireva)[indeed](eva) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p123-v3073
-[how](kathaṃ) [that+defilement](taddūṣaṇaṃ) [by+which](yena) [attains](prāpyate) [supreme](paramaṃ) [state](padam)
+[how](kathaṃ) [that](tat)[+](taddūṣaṇaṃ)[fault](dūṣaṇaṃ) [by-which](yena) [is-obtained](prāpyate) [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p123-v3074
-[bindu](bindustu) [supreme](paramaṃ) [substance](dravyaṃ) [body](kāyo'yaṃ) [śiva+form](śivarūpakaḥ)
+[bindu](binduḥ)[+](bindustu)[indeed](tu) [supreme](paramaṃ) [substance](dravyaṃ) [body](kāyaḥ)[+](kāyo'yaṃ)[this](ayam) [śiva](śiva)[+](śivarūpakaḥ)[form](rūpakaḥ)
 
 ## mukta-m0-p123-v3075
-[earth](pṛthivyāpastato) [water](pṛthivyāpastato) [then](pṛthivyāpastato) [air](vāyurākāśaṃ) [space](vāyurākāśaṃ) [moon+sun](candrasūryakau)
+[earth](pṛthivī)[+](pṛthivyāpastato)[water](āpaḥ)[+](pṛthivyāpastato)[then](tataḥ) [wind](vāyuḥ)[+](vāyurākāśaṃ)[ether](ākāśaṃ) [moon](candra)[+](candrasūryakau)[sun](sūryakau)

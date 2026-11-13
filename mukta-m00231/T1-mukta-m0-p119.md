@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-two-fold(dvividhaṃ) and(ca) indeed(eva) that(tat) seat(pīṭhaṃ) hidden(guptaṃ) manifest(vyaktaṃ) always(sadā) for-pashu(paśau)
+[twofold](dvividhaṃ) [and](ca) [indeed](eva) [that](tat) + [seat](pīṭhaṃ) [hidden](guptaṃ) [manifest](vyaktaṃ) [always](sadā) [for-the-bound-soul](paśau)
 
 ## mukta-m0-p119-v2952
-manifest(vyaktaṃ) everywhere(sarvatra) lord-of-gods(deveśa) obtained(labhyate) by-kula-beauties(kulasundaraiḥ)
+[manifest](vyaktaṃ) [everywhere](sarvatra) [O-lord-of-gods](deveśa) [is-obtained](labhyate) [by-the-fair-ones-of-the-kula](kulasundaraiḥ)
 
 ## mukta-m0-p119-v2953
-or(athavā) otherwise(anyaprakāreṇa) told(kathyate) great-sadhana(sādhanaṃ) great(mahat)
+[or](athavā) [by-another](anya) + [method](prakāreṇa) [is-taught](kathyate) [practice](sādhanaṃ) [great](mahat)
 
 ## mukta-m0-p119-v2954
-with-offerings(upacāraiḥ) sixteen(ṣoḍaśabhiḥ) her(tāṃ) worship(sampūjya) according-to-rite(vidhānataḥ)
+[with-services](upacāraiḥ) [sixteen](ṣoḍaśabhiḥ) [her](tāṃ) [having-worshipped](sampūjya) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p119-v2955
-mantra(mantraṃ) having-written(vilikhya) as-said(yathoktaṃ) worship(pūjayet) by-kula-path(kulavartmanā)
+[mantra](mantraṃ) [having-written](vilikhya) [as-prescribed](yathoktaṃ) [one-should-worship](pūjayet) [by-the-path-of-kula](kulavartmanā)
 
 ## mukta-m0-p119-v2956
-highly-fortunate(mahābhāgāṃ) then(tato) root-goddess(mūladevīm) with-coverings(āvaraṇaiḥ) together(saha)
+[the-most-fortunate](mahābhāgāṃ) [then](tato) [root](mūla) + [goddess](devīm) [with-retinues](āvaraṇaiḥ) [together](saha)
 
 ## mukta-m0-p119-v2957
-there(tatra) on-seat(pīṭhe) yoga-sleep(yoganidrāṃ) having-worshipped(pūjayitvā) then(tato) sacrifice(yajet)
+[there](tatra) [at-the-seat](pīṭhe) [Yoganidrā](yoganidrāṃ) [having-worshipped](pūjayitvā) [then](tato) [one-should-worship](yajet)
 
 ## mukta-m0-p119-v2958
-to-kamarupa(kāmarūpaṃ) then(tato) having-gone(gatvā) there(tatra) katyayani(kātyāyanīṃ) sacrifice(yajet)
+[to-Kāmarūpa](kāmarūpaṃ) [then](tato) [having-gone](gatvā) [there](tatra) [Kātyāyanī](kātyāyanīṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p119-v2959
-then(tato) to-jalandhara(jālandhare) having-gone(gatvā) purneshi(pūrṇeśīṃ) first(prathamaṃ) sacrifice(yajet)
+[then](tato) [to-Jālandhara](jālandhare) [having-gone](gatvā) [Pūrṇeśī](pūrṇeśīṃ) [first](prathamaṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p119-v2960
-then(tataḥ) to-purnagiri(pūrṇagiriṃ) having-gone(gatvā) sacrifice(yajet) chandi(caṇḍīṃ) focused(samāhitaḥ)
+[then](tataḥ) [to-Pūrṇagiri](pūrṇagiriṃ) [having-gone](gatvā) [one-should-worship](yajet) [Caṇḍī](caṇḍīṃ) [with-concentrated-mind](samāhitaḥ)
 
 ## mukta-m0-p119-v2961
-on-sindurabindu-seat(sindūrabindupīṭhe) ca(ca) kamakhya(kāmākhyāṃ) first(prathamaṃ) sacrifice(yajet)
+[at-the-Sindūrabindu](sindūrabindu) + [seat](pīṭhe) [and](ca) [Kāmākhyā](kāmākhyāṃ) [first](prathamaṃ) [one-should-worship](yajet)
 
 ## mukta-m0-p119-v2962
-thus(evaṃ) seat-lady(pīṭheśvarīṃ) having-chanted(japtvā) worship(pūjayet) desired-deity(iṣṭadevatām)
+[thus](evaṃ) [the-goddess-of-the-seat](pīṭheśvarīṃ) [having-muttered](japtvā) [one-should-worship](pūjayet) [the-chosen-deity](iṣṭadevatām)
 
 ## mukta-m0-p119-v2963
-with-number(saṃkhyāpūrvaṃ) then(tataḥ) ask(pṛcchet) great-goddess(mahādevī) kula-best(kulottamam)
+[after-completing-the-count](saṃkhyāpūrvaṃ) [then](tataḥ) [one-should-ask](pṛcchet) [the-great-goddess](mahādevī) [the-best-of-kula](kulottamam)
 
 ## mukta-m0-p119-v2964
-then(tataḥ) having-bowed(praṇamya) goddess(deveśīṃ) choose(vṛṇuyāt) best-boon(varamuttamam)
+[then](tataḥ) [having-bowed](praṇamya) [to-the-goddess](deveśīṃ) [one-should-choose](vṛṇuyāt) [a-boon](varam) [supreme](uttamam)
 
 ## mukta-m0-p119-v2965
-unshaken(akṣobhitaḥ) kula-practice(kulācāra) service(paricaryā) devoted(paras) become(bhavet)
+[unagitated](akṣobhitaḥ) [in-kula](kula) + [conduct](ācāra) + [service](paricaryā) + [devoted](paro) [one-should-be](bhavet)
 
 ## mukta-m0-p119-v2966
-then(tataḥ) pleased(prasannā) becomes(bhavati) she(saiva) kula-boon-dear(kulavarapriyā)
+[then](tataḥ) [pleased](prasannā) [becomes](bhavati) [she](sā) [indeed](eva) [fond-of-the-best-of-kula](kulavarapriyā)
 
 ## mukta-m0-p119-v2967
-then(tato) having-meditated(dhyātvā) place(nyaset) first(ādau) matrika-inner(mātṛkāntara) named(sañjñakam)
+[then](tato) [having-meditated](dhyātvā) [one-should-place](nyaset) [first](ādau) [that-known-as-the-inner-mātṛkā](mātṛkāntarasañjñakam)
 
 ## mukta-m0-p119-v2968
-from-a-to-ksha(akārādikṣakārāntam) one-by-one(ekaikakramayogataḥ)
+[from-a](akārā) + [beginning-with](ādi) [to-kṣa](kṣakārā) + [ending-with](antam) [in-each-single](ekaika) + [sequence](krama) + [application](yogataḥ)
 
 ## mukta-m0-p119-v2969
-from-head-to-feet(mūrddhādicaraṇāntañca) therefore(tasmāt) ending-at-head(mūrddhāvasānakam)
+[from-head](mūrddhā) + [beginning-with](ādi) [to-feet](caraṇā) + [ending-with](antam) [and](ca) [from-that](tasmāt) [ending-at-the-head](mūrddhāvasānakam)
 
 ## mukta-m0-p119-v2970
-meditate(dhyāyet) kali(kālīṃ) great-demon-battle-rage(mahādaityayuddharāgamahonmukhīm)
+[one-should-meditate-on](dhyāyet) [Kālī](kālīṃ) [in-battle-with-great-demons](mahādaitya) + [yuddha] [eager-with-the-passion-of-combat](rāgamahonmukhīm)
 
 ## mukta-m0-p119-v2971
-left(vāme) conch(śaṅkhaṃ) and(tathā) skin(carma) bow(dhanuḥ) threatening(tarjanam) indeed(eva) ca(ca)
+[in-the-left-hand](vāme) [conch](śaṅkhaṃ) [and](tathā) [shield](carma) [bow](dhanuḥ) [and](ca) [threatening-gesture](tarjanam) [indeed](eva)
 
 ## mukta-m0-p119-v2972
-yellow-garment(pitāmbaradharāṃ) goddess(devīṃ) full-high-breasts(pīnonnatakucadvayām)
+[wearing-yellow-garments](pitāmbaradharāṃ) [the-goddess](devīṃ) [with-two-full-and-uplifted-breasts](pīnonnatakucadvayām)
 
 ## mukta-m0-p119-v2973
-thus(evaṃ) having-meditated(dhyātvā) great-goddess(mahādevīṃ) mental-offerings(mānasairupacārakaiḥ)
+[thus](evaṃ) [having-meditated](dhyātvā) [on-the-great-goddess](mahādevīṃ) [with-mental](mānasaiḥ) + [services](upacārakaiḥ)
 
 ## mukta-m0-p119-v2974
-then(tataḥ) so'ham(so'haṃ) having-contemplated(vibhāvyātha) flower(puṣpaṃ) having-placed(niḥkṣipya) on-head(mastake)
+[then](tataḥ) [I-am-He](so'haṃ) [having-conceived](vibhāvya) [then](atha) [flower](puṣpaṃ) [having-cast](niḥkṣipya) [on-the-head](mastake)
 
 ## mukta-m0-p119-v2975
-having-done(kṛtvā) and(ca) as-before(pūrvavat) hero(vīraḥ) sadashiva(sadāśivaṃ) sacrifice(yajettataḥ)
+[having-done](kṛtvā) [and](ca) [as-before](pūrvavat) [the-hero](vīraḥ) [Sadāśiva](sadāśivaṃ) [should-worship](yajet) [then](tataḥ)
