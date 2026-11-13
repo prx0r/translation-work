@@ -1,14 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 322,
- "question": "What is the twelfth chapter about?",
+ "question": "Which chapter is named by conduct vessel characteristic?",
  "premises": [
   "conduct vessel characteristic is named",
-  "it is the twelfth chapter"
+  "twelfth is named",
+  "chapter is named"
  ],
- "inference": "The twelfth chapter concerns the characteristic of the conduct vessel.",
+ "inference": "The twelfth chapter is named by conduct vessel characteristic.",
  "uncertainties": [
-  "scope of conduct vessel"
+  "exact compound scope"
  ],
- "plain_english": "The twelfth chapter is the characteristic of the conduct vessel."
+ "plain_english": "The twelfth chapter on conduct vessel characteristic."
 }

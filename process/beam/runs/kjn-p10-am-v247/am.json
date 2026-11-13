@@ -1,12 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 247,
- "question": "How does non-eating by day remove age and death?",
+ "question": "What goes away by day and non-eating?",
  "premises": [
-  "non-eating by day is practiced",
-  "age and death will go"
+  "Day is named",
+  "Non-eating is named",
+  "Age and death are named"
  ],
- "inference": "the verse connects daytime non-eating with removal of age and death",
- "uncertainties": [],
- "plain_english": "By non-eating by day, age and death will go."
+ "inference": "Age and death will go away by day and non-eating.",
+ "uncertainties": [
+  "none"
+ ],
+ "plain_english": "By day and non-eating, age and death will go away."
 }
