@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3543,
- "question": "What natural features characterize the sacred setting being described?",
+ "question": "What distances in bow intervals are specified in this passage?",
  "premises": [
-  "The place has edges washed by waves",
-  "The place is served by a gentle breeze",
-  "These features describe an ideal setting"
+  "A distance of eight bow intervals is mentioned.",
+  "A distance of five bow intervals is mentioned.",
+  "The two measures are given in sequence."
  ],
- "inference": "The setting is depicted as pure and pleasantly refreshed.",
- "uncertainties": [],
- "plain_english": "Its edges are washed by its waves and it is served by a gentle breeze."
+ "inference": "Therefore the passage specifies distances of eight and five bow intervals.",
+ "uncertainties": [
+  "The exact referents of these distances depend on surrounding context."
+ ],
+ "plain_english": "The text specifies an interval of eight bows and likewise an interval of five bows."
 }

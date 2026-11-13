@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "correlative temporal particle introducing duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhanam",
+     "gloss": "bondage",
+     "grounds": "state of being bound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "urvyāḥ",
+     "gloss": "of-earth",
+     "grounds": "possessor of the bondage",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "correlative temporal particle matching yāvat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "lineage",
+     "grounds": "family or ritual lineage; exact scope context-dependent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śapanti",
+     "gloss": "they-curse",
+     "grounds": "act of pronouncing a curse",
+     "morph": "3.pl.pres.act √śap"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what duration does the lineage remain under curse in relation to the earth's bondage?",
+   "premises": [
+    "The earth remains in a state of bondage.",
+    "The lineage is subject to a curse.",
+    "The duration of the curse corresponds to the duration of the earth's bondage."
+   ],
+   "inference": "The lineage's curse endures for as long as the earth's bondage persists.",
+   "uncertainties": [
+    "The precise referent of kulaṃ (family, lineage, or ritual community) is context-dependent."
+   ],
+   "plain_english": "As long as the bondage of the earth lasts, so long does the lineage curse."
+  }
+ ]
+}

@@ -1,0 +1,1213 @@
+{
+ "song": "mukta-m0-p147",
+ "items": [
+  {
+   "verse": 3651,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svargāt",
+     "gloss": "from-heaven",
+     "grounds": "place of origin",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "paribhraṣṭaḥ",
+     "gloss": "fallen",
+     "grounds": "one who has descended",
+     "morph": "m.nom.sg (past-participle, bhramś)"
+    },
+    {
+     "surface": "rājate",
+     "gloss": "shines",
+     "grounds": "appears splendid",
+     "morph": "3.sg.pres.middle (rāj)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "m.nom.sg (pronoun)"
+    },
+    {
+     "surface": "dhārmikaḥ",
+     "gloss": "righteous",
+     "grounds": "virtuous person",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes of a righteous person who has fallen from heaven?",
+   "premises": [
+    "A person may fall from heaven.",
+    "That fallen person can be righteous.",
+    "Such a person still shines."
+   ],
+   "inference": "Even after falling from heaven, a righteous person remains radiant.",
+   "uncertainties": [
+    "The exact sense of 'vā' as alternative or emphasis is context-dependent."
+   ],
+   "plain_english": "Then, fallen from heaven, that righteous person still shines."
+  },
+  {
+   "verse": 3652,
+   "rows": [
+    {
+     "surface": "stambhaiḥ",
+     "gloss": "with-pillars",
+     "grounds": "supporting columns",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "maṇimayaiḥ",
+     "gloss": "made-of-jewels",
+     "grounds": "composed of gems",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "divyaiḥ",
+     "gloss": "divine",
+     "grounds": "heavenly",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dhvaja",
+     "gloss": "banner",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaiḍūrya",
+     "gloss": "cat's-eye-gem",
+     "grounds": "vaiḍūrya jewel, compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūṣitam",
+     "gloss": "adorned",
+     "grounds": "decorated",
+     "morph": "n.nom.sg (past-participle, bhūṣ)"
+    }
+   ],
+   "question": "How is the sacred place adorned with divine jeweled features?",
+   "premises": [
+    "The place has pillars made of jewels.",
+    "The pillars are divine.",
+    "It is adorned with banners and vaiḍūrya gems."
+   ],
+   "inference": "The site is magnificently adorned with divine jeweled pillars, banners, and vaiḍūrya gems.",
+   "uncertainties": [
+    "The exact compound structure of 'dhvaja vaiḍūrya bhūṣitam' allows slight variation in parsing."
+   ],
+   "plain_english": "It is adorned with divine jeweled pillars and decorated with banners and vaiḍūrya gems."
+  },
+  {
+   "verse": 3653,
+   "rows": [
+    {
+     "surface": "reje",
+     "gloss": "shone",
+     "grounds": "radiated splendor",
+     "morph": "3.sg.perf.middle (rāj)"
+    },
+    {
+     "surface": "vāgīśvaraḥ",
+     "gloss": "lord-of-speech",
+     "grounds": "deity or master of speech",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "possessing splendor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvastrījanavallabhaḥ",
+     "gloss": "beloved-of-all-women",
+     "grounds": "dear to all women",
+     "morph": "m.nom.sg (compound: sarva-strī-jana-vallabha)"
+    }
+   ],
+   "question": "Who shines gloriously as the beloved lord of speech in this place?",
+   "premises": [
+    "The lord of speech is present.",
+    "He is glorious.",
+    "He is beloved of all women."
+   ],
+   "inference": "The glorious lord of speech, beloved of all women, shines there.",
+   "uncertainties": [],
+   "plain_english": "The glorious lord of speech, beloved of all women, shone there."
+  },
+  {
+   "verse": 3654,
+   "rows": [
+    {
+     "surface": "saṅgame",
+     "gloss": "at-confluence",
+     "grounds": "meeting place of waters",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tīrtharajasya",
+     "gloss": "of-sacred-dust",
+     "grounds": "dust or pollen of the holy place",
+     "morph": "n.gen.sg (compound: tīrtha-rajas)"
+    },
+    {
+     "surface": "bhuktim",
+     "gloss": "enjoyment",
+     "grounds": "worldly enjoyment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "muktim",
+     "gloss": "liberation",
+     "grounds": "spiritual release",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "obtains",
+     "grounds": "gains",
+     "morph": "3.sg.pres.active (vid)"
+    }
+   ],
+   "question": "What spiritual and worldly rewards are obtained at the confluence of the sacred place?",
+   "premises": [
+    "One may be at the confluence of the sacred place.",
+    "Enjoyment is a possible attainment.",
+    "Liberation is a possible attainment."
+   ],
+   "inference": "At that sacred confluence, one obtains both enjoyment and liberation.",
+   "uncertainties": [
+    "The precise meaning of 'tīrtharajasya' as dust or essence of the tīrtha is interpretive."
+   ],
+   "plain_english": "At the confluence of the sacred place, one obtains both enjoyment and liberation."
+  },
+  {
+   "verse": 3655,
+   "rows": [
+    {
+     "surface": "tasyām",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "f.loc.sg (pronoun)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "in prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "after performing ablution",
+     "morph": "(absolutive, snā)"
+    },
+    {
+     "surface": "śivaloke",
+     "gloss": "in-shiva-world",
+     "grounds": "realm of Śiva",
+     "morph": "m.loc.sg (compound: śiva-loka)"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "is revered",
+     "morph": "3.sg.pres.passive (mah)"
+    }
+   ],
+   "question": "What honor is gained by bathing there according to prescribed rites?",
+   "premises": [
+    "One may bathe there according to rule.",
+    "Ritual bathing has spiritual effect.",
+    "Honor in Śiva's world is attainable."
+   ],
+   "inference": "One who bathes there duly is honored in the world of Śiva.",
+   "uncertainties": [],
+   "plain_english": "And having bathed there according to rule, one is honored in the world of Śiva."
+  },
+  {
+   "verse": 3656,
+   "rows": [
+    {
+     "surface": "aśoka[soma]kuṇḍe",
+     "gloss": "in-aśoka-soma-pool",
+     "grounds": "name of a sacred pool",
+     "morph": "n.loc.sg (compound: aśoka-soma-kuṇḍa)"
+    },
+    {
+     "surface": "daśamyām",
+     "gloss": "on-tenth-day",
+     "grounds": "tenth lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg (pronoun)"
+    },
+    {
+     "surface": "snāyāt",
+     "gloss": "should-bathe",
+     "grounds": "performs bathing",
+     "morph": "3.sg.optative.active (snā)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who should bathe in the Aśoka-Soma pool on the tenth lunar day?",
+   "premises": [
+    "There is a sacred pool called Aśoka-Soma.",
+    "The tenth lunar day is specified.",
+    "Bathing there is prescribed."
+   ],
+   "inference": "The verse prescribes that one should bathe in the Aśoka-Soma pool on the tenth day, O supreme goddess.",
+   "uncertainties": [
+    "The bracketed '[soma]' in the surface may indicate a textual variant or insertion."
+   ],
+   "plain_english": "O supreme goddess, whoever bathes in the Aśoka-Soma pool on the tenth day..."
+  },
+  {
+   "verse": 3657,
+   "rows": [
+    {
+     "surface": "somasya",
+     "gloss": "of-soma",
+     "grounds": "of the moon deity Soma",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "duhitā",
+     "gloss": "daughter",
+     "grounds": "female offspring",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanyā",
+     "gloss": "maiden",
+     "grounds": "young unmarried girl",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cyavanena",
+     "gloss": "by-cyavana",
+     "grounds": "by the sage Cyavana",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pālitā",
+     "gloss": "protected",
+     "grounds": "guarded or maintained",
+     "morph": "f.nom.sg (past-participle, pāl)"
+    }
+   ],
+   "question": "Whose daughter was protected by the sage Cyavana at this sacred site?",
+   "premises": [
+    "Soma had a daughter.",
+    "She was a maiden.",
+    "Cyavana protected her."
+   ],
+   "inference": "The maiden daughter of Soma was protected by Cyavana.",
+   "uncertainties": [
+    "The connection to the previous verse's bathing prescription is implied but not explicit."
+   ],
+   "plain_english": "The maiden daughter of Soma was protected by Cyavana."
+  },
+  {
+   "verse": 3658,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "next in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kagyāśramo",
+     "gloss": "kagya-hermitage",
+     "grounds": "hermitage named Kagya",
+     "morph": "m.nom.sg (compound: kagya-āśrama)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "by name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatīrthamayam",
+     "gloss": "containing-all-holy-places",
+     "grounds": "embodying all tīrthas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "blessed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What auspicious hermitage containing all holy places comes next in the pilgrimage?",
+   "premises": [
+    "The narrative moves to a next location.",
+    "There is a hermitage named Kagya.",
+    "It contains all holy places and is auspicious."
+   ],
+   "inference": "Next is the auspicious hermitage named Kagya, which embodies all holy places.",
+   "uncertainties": [
+    "The name 'kagyāśramo' may have variant readings in other manuscripts."
+   ],
+   "plain_english": "Then there is the auspicious hermitage named Kagya, which contains all holy places."
+  },
+  {
+   "verse": 3659,
+   "rows": [
+    {
+     "surface": "dhanurdvādaśakam",
+     "gloss": "twelve-bow-lengths",
+     "grounds": "measure of twelve bow-lengths",
+     "morph": "n.nom.sg (compound: dhanur-dvādaśaka)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "extending to",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "within",
+     "grounds": "inside",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣetram",
+     "gloss": "sacred-region",
+     "grounds": "holy field or area",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the extent of the sacred region described to the great goddess?",
+   "premises": [
+    "The sacred region has a defined extent.",
+    "Its measure is twelve bow-lengths.",
+    "This is addressed to the great goddess."
+   ],
+   "inference": "The sacred region extends within a span of twelve bow-lengths, O great goddess.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, the sacred region extends within twelve bow-lengths."
+  },
+  {
+   "verse": 3660,
+   "rows": [
+    {
+     "surface": "rudrasya",
+     "gloss": "of-rudra",
+     "grounds": "belonging to Rudra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-vishnu",
+     "grounds": "belonging to Viṣṇu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "krauñcasya",
+     "gloss": "of-krauncha",
+     "grounds": "belonging to Krauñca",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇasya",
+     "gloss": "of-troop",
+     "grounds": "belonging to the host",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine figures are associated with the sacred marks in this region?",
+   "premises": [
+    "Rudra is associated with the region.",
+    "Viṣṇu is associated with the region.",
+    "Krauñca and his troop are associated with the region."
+   ],
+   "inference": "The region is associated with Rudra, Viṣṇu, Krauñca, and his troop.",
+   "uncertainties": [
+    "The syntactic completion of this list continues in the next verse."
+   ],
+   "plain_english": "Of Rudra, and likewise of Viṣṇu, and of Krauñca and his troop..."
+  },
+  {
+   "verse": 3661,
+   "rows": [
+    {
+     "surface": "vāsavasya",
+     "gloss": "of-indra",
+     "grounds": "belonging to Vāsava/Indra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śyāmaṃ",
+     "gloss": "dark",
+     "grounds": "dark-colored",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāṣāṇābhaṃ",
+     "gloss": "stone-like",
+     "grounds": "resembling stone",
+     "morph": "n.nom.sg (compound: pāṣāṇa-ābha)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address to beloved",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What supreme dark stone-like mark of Indra is described to the beloved?",
+   "premises": [
+    "Vāsava/Indra is included among the figures.",
+    "A mark is described as dark and stone-like.",
+    "It is called supreme."
+   ],
+   "inference": "There is a supreme, dark, stone-like mark associated with Vāsava, O dear one.",
+   "uncertainties": [
+    "The exact referent of the described mark is completed across verses."
+   ],
+   "plain_english": "And likewise of Vāsava, there is a supreme, dark, stone-like mark, O dear one."
+  },
+  {
+   "verse": 3662,
+   "rows": [
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "at the time that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇupadam",
+     "gloss": "vishnu-footprint",
+     "grounds": "mark of Viṣṇu's foot",
+     "morph": "n.nom.sg (compound: viṣṇu-pada)"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "red-colored",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "becomes visible",
+     "morph": "3.sg.pres.passive (dṛś)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Under what condition does the red footprint of Vishnu become visible?",
+   "premises": [
+    "Viṣṇu's footprint exists in this place.",
+    "It can appear red.",
+    "Its visibility is conditional."
+   ],
+   "inference": "When the footprint of Viṣṇu appears red, it is seen, O supreme goddess.",
+   "uncertainties": [
+    "The specific condition or time implied by 'yadā' is not fully specified."
+   ],
+   "plain_english": "When the red footprint of Viṣṇu is seen, O supreme goddess..."
+  },
+  {
+   "verse": 3663,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "of that place or mark",
+     "morph": "n.gen.sg (pronoun)"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "to-the-north",
+     "grounds": "in the northern direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahāpuṇyam",
+     "gloss": "greatly-meritorious",
+     "grounds": "of great merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrapadam",
+     "gloss": "rudra-footprint",
+     "grounds": "mark of Rudra's foot",
+     "morph": "n.nom.sg (compound: rudra-pada)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address to beloved",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What greatly meritorious mark of Rudra is found north of that place?",
+   "premises": [
+    "There is a location north of the previous mark.",
+    "A footprint of Rudra is there.",
+    "It is greatly meritorious."
+   ],
+   "inference": "To the north of that is the greatly meritorious footprint of Rudra, O dear one.",
+   "uncertainties": [],
+   "plain_english": "To the north of that, O dear one, is the greatly meritorious footprint of Rudra."
+  },
+  {
+   "verse": 3664,
+   "rows": [
+    {
+     "surface": "virājapaṃ",
+     "gloss": "viraja-recitation",
+     "grounds": "a specific recitation or rite named virājapa",
+     "morph": "m.acc.sg (compound: virāja-japa)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "one should abandon",
+     "morph": "3.sg.optative.active (vṛj with vi)"
+    },
+    {
+     "surface": "vidhānam",
+     "gloss": "prescribed-rite",
+     "grounds": "ritual procedure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "for that reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "one should practice",
+     "morph": "3.sg.optative.active (car with sam-ā)"
+    }
+   ],
+   "question": "What ritual practice should be avoided and what should be performed here instead?",
+   "premises": [
+    "A certain recitation or rite called virājapa is mentioned.",
+    "It should be avoided.",
+    "A proper rite should be performed here."
+   ],
+   "inference": "One should avoid the virājapa and therefore perform the proper rite here.",
+   "uncertainties": [
+    "The exact nature of 'virājapaṃ' as a recitation or ritual is uncertain."
+   ],
+   "plain_english": "One should avoid the virājapa and therefore perform the proper rite here."
+  },
+  {
+   "verse": 3665,
+   "rows": [
+    {
+     "surface": "tārayet",
+     "gloss": "delivers",
+     "grounds": "causes to cross over",
+     "morph": "3.sg.optative.active (tṛ causal)"
+    },
+    {
+     "surface": "saptagotrāṇi",
+     "gloss": "seven-lineages",
+     "grounds": "seven family lines",
+     "morph": "n.acc.pl (compound: sapta-gotra)"
+    },
+    {
+     "surface": "kulam",
+     "gloss": "family",
+     "grounds": "one's own lineage",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekottaraṃ",
+     "gloss": "plus-one",
+     "grounds": "increased by one",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "one hundred",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many generations and lineages does proper observance here deliver?",
+   "premises": [
+    "Ritual observance has salvific power.",
+    "Seven lineages are mentioned.",
+    "One hundred and one of one's family are mentioned."
+   ],
+   "inference": "Such observance delivers seven lineages and one hundred and one members of one's family.",
+   "uncertainties": [
+    "The exact counting of 'ekottaraṃ śatam' as 101 family members is the most likely reading."
+   ],
+   "plain_english": "It delivers seven lineages and one hundred and one members of one's family."
+  },
+  {
+   "verse": 3666,
+   "rows": [
+    {
+     "surface": "sarvalokaviśuddhātmā",
+     "gloss": "soul-purified-in-all-worlds",
+     "grounds": "one whose self is purified across all worlds",
+     "morph": "m.nom.sg (compound: sarva-loka-viśuddha-ātman)"
+    },
+    {
+     "surface": "brahmaloke",
+     "gloss": "in-brahma-world",
+     "grounds": "realm of Brahmā",
+     "morph": "m.loc.sg (compound: brahma-loka)"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "is revered",
+     "morph": "3.sg.pres.passive (mah)"
+    }
+   ],
+   "question": "Where is a person purified in all worlds honored after such merit?",
+   "premises": [
+    "A person can become purified in all worlds.",
+    "Such purification brings honor.",
+    "The world of Brahmā is a place of honor."
+   ],
+   "inference": "One whose soul is purified in all worlds is honored in the world of Brahmā.",
+   "uncertainties": [],
+   "plain_english": "With a soul purified in all worlds, one is honored in the world of Brahmā."
+  },
+  {
+   "verse": 3667,
+   "rows": [
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "spiritual knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāśupataṃ",
+     "gloss": "pashupata",
+     "grounds": "relating to the Pāśupata tradition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "after attaining",
+     "morph": "(absolutive, āp with pra)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg (pronoun)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deham",
+     "gloss": "body",
+     "grounds": "physical body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "abandons",
+     "grounds": "gives up",
+     "morph": "3.sg.optative.active (tyaj with pari)"
+    }
+   ],
+   "question": "What result follows for one who abandons the body after obtaining Pashupata knowledge?",
+   "premises": [
+    "One may obtain Pāśupata knowledge.",
+    "One may abandon the body.",
+    "These acts have spiritual consequence."
+   ],
+   "inference": "The verse sets up the condition of one who, having obtained Pāśupata knowledge, abandons the body.",
+   "uncertainties": [
+    "The result of this condition is stated in the following verses."
+   ],
+   "plain_english": "But whoever, having obtained Pāśupata knowledge, abandons the body..."
+  },
+  {
+   "verse": 3668,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "in this",
+     "morph": "n.loc.sg (pronoun)"
+    },
+    {
+     "surface": "kṣetre",
+     "gloss": "sacred-region",
+     "grounds": "holy field",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekāgre",
+     "gloss": "single-pointed",
+     "grounds": "with focused mind",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lauhitye",
+     "gloss": "at-lauhitya",
+     "grounds": "at the Lauhitya place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "virajeṣu",
+     "gloss": "at-viraja-places",
+     "grounds": "at the Viraja sites",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which sacred locations should one be single-pointed when abandoning the body?",
+   "premises": [
+    "Specific sacred regions are named.",
+    "Single-pointed focus is required.",
+    "These locations are spiritually potent."
+   ],
+   "inference": "One should be single-pointed in this sacred region, at Lauhitya, and at the Viraja places.",
+   "uncertainties": [
+    "'lauhitye' and 'virajeṣu' may refer to specific tīrthas or regions."
+   ],
+   "plain_english": "In this sacred region, with single-pointed focus, at Lauhitya and at the Viraja places..."
+  },
+  {
+   "verse": 3669,
+   "rows": [
+    {
+     "surface": "siddhācale",
+     "gloss": "on-siddha-mountain",
+     "grounds": "on the mountain of the perfected ones",
+     "morph": "m.loc.sg (compound: siddha-acala)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "paścimābhikrameṇa",
+     "gloss": "by-westward-approach",
+     "grounds": "by proceeding to the west",
+     "morph": "m.inst.sg (compound: paścima-abhikrama)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what direction should one proceed on Siddha mountain according to the goddess?",
+   "premises": [
+    "Siddha mountain is a sacred location.",
+    "A direction of approach is specified.",
+    "The instruction is addressed to the great goddess."
+   ],
+   "inference": "On Siddha mountain, O great goddess, one should proceed westward.",
+   "uncertainties": [],
+   "plain_english": "On Siddha mountain, O great goddess, by proceeding westward..."
+  },
+  {
+   "verse": 3670,
+   "rows": [
+    {
+     "surface": "nāradasya",
+     "gloss": "of-narada",
+     "grounds": "belonging to Nārada",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "holy-place",
+     "grounds": "sacred ford or site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramadurlabham",
+     "gloss": "supremely-rare",
+     "grounds": "extremely difficult to attain",
+     "morph": "n.nom.sg (compound: parama-durlabha)"
+    }
+   ],
+   "question": "What supremely rare holy place of Narada is found there?",
+   "premises": [
+    "A holy place associated with Nārada exists there.",
+    "It is located in that very place.",
+    "It is supremely rare."
+   ],
+   "inference": "There indeed is the supremely rare holy place of Nārada.",
+   "uncertainties": [],
+   "plain_english": "And there indeed is the supremely rare holy place of Nārada."
+  },
+  {
+   "verse": 3671,
+   "rows": [
+    {
+     "surface": "tapas",
+     "gloss": "austerity",
+     "grounds": "ascetic practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "taptaṃ",
+     "gloss": "performed",
+     "grounds": "practiced",
+     "morph": "n.nom.sg (past-participle, tap)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "formerly",
+     "grounds": "in the past",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāradena",
+     "gloss": "by-narada",
+     "grounds": "by the sage Nārada",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahātmanā",
+     "gloss": "by-great-souled",
+     "grounds": "by the noble one",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "surarṣiṇā",
+     "gloss": "by-divine-sage",
+     "grounds": "by the celestial sage",
+     "morph": "m.inst.sg (compound: sura-ṛṣi)"
+    }
+   ],
+   "question": "Who formerly performed austerity at the holy place of Narada?",
+   "premises": [
+    "Austerity was performed there.",
+    "It was performed in the past.",
+    "The great-souled divine sage Nārada performed it."
+   ],
+   "inference": "Formerly, austerity was performed there by the great-souled divine sage Nārada.",
+   "uncertainties": [],
+   "plain_english": "Formerly, austerity was performed there by the great-souled divine sage Nārada."
+  },
+  {
+   "verse": 3672,
+   "rows": [
+    {
+     "surface": "brahmaṇā",
+     "gloss": "by-brahma",
+     "grounds": "by the god Brahmā",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nirmitaṃ",
+     "gloss": "created",
+     "grounds": "fashioned",
+     "morph": "n.nom.sg (past-participle, mā with nis)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "by that one",
+     "morph": "m.inst.sg (pronoun)"
+    },
+    {
+     "surface": "brahmasara",
+     "gloss": "brahma-lake",
+     "grounds": "lake of Brahmā",
+     "morph": "n.nom.sg (compound: brahma-saras)"
+    },
+    {
+     "surface": "brahmeśvara",
+     "gloss": "lord-of-brahma",
+     "grounds": "name Brahmeśvara",
+     "morph": "m.nom.sg (compound: brahma-īśvara)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrutam",
+     "gloss": "heard",
+     "grounds": "known by tradition",
+     "morph": "n.nom.sg (past-participle, śru)"
+    }
+   ],
+   "question": "What sacred lake and shrine created by Brahma are known by tradition there?",
+   "premises": [
+    "Brahmā created something there.",
+    "It is known as Brahmasara and Brahmeśvara.",
+    "This is known by tradition."
+   ],
+   "inference": "Created by Brahmā, it is traditionally known as Brahmasara and Brahmeśvara.",
+   "uncertainties": [
+    "Whether 'brahmasara' and 'brahmeśvara' refer to one site or two related sites is slightly ambiguous."
+   ],
+   "plain_english": "Created by Brahmā, it is traditionally known as Brahmasara and Brahmeśvara."
+  },
+  {
+   "verse": 3673,
+   "rows": [
+    {
+     "surface": "rāmatīrthaṃ",
+     "gloss": "rama-holy-place",
+     "grounds": "holy place of Rāma",
+     "morph": "n.acc.sg (compound: rāma-tīrtha)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "from there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "after going",
+     "morph": "(absolutive, gam)"
+    },
+    {
+     "surface": "svajanāt",
+     "gloss": "from-own-people",
+     "grounds": "from one's own kin",
+     "morph": "m.abl.sg (compound: sva-jana)"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-freed",
+     "grounds": "is released",
+     "morph": "3.sg.pres.passive (muc)"
+    },
+    {
+     "surface": "bhayāt",
+     "gloss": "from-fear",
+     "grounds": "from danger or fear",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What freedom is gained by going to the holy place of Rama?",
+   "premises": [
+    "One may go to Rāma's holy place.",
+    "Fear related to one's own people exists.",
+    "Visiting the holy place brings release."
+   ],
+   "inference": "Having gone to Rāma's holy place, one is freed from fear concerning one's own people.",
+   "uncertainties": [
+    "'svajanāt bhayāt' could mean fear from one's own people or fear for them; the ablative reading favors fear arising from them."
+   ],
+   "plain_english": "Then, having gone to Rāma's holy place, one is freed from fear arising from one's own people."
+  },
+  {
+   "verse": 3674,
+   "rows": [
+    {
+     "surface": "tāmreśvaraṃ",
+     "gloss": "tamreshvara",
+     "grounds": "shrine named Tāmreśvara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāseśvaraṃ",
+     "gloss": "bhaseshvara",
+     "grounds": "shrine named Bhāseśvara",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "from there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "one should proceed",
+     "morph": "3.sg.optative.active (gam)"
+    },
+    {
+     "surface": "sarvavyādhivināśanam",
+     "gloss": "destroying-all-diseases",
+     "grounds": "removing all illnesses",
+     "morph": "m.acc.sg (compound: sarva-vyādhi-vināśana)"
+    }
+   ],
+   "question": "Which disease-destroying shrines should a pilgrim visit next in the sequence?",
+   "premises": [
+    "The pilgrimage continues to further shrines.",
+    "Tāmreśvara and Bhāseśvara are named.",
+    "These shrines destroy all diseases."
+   ],
+   "inference": "One should then go to Tāmreśvara and Bhāseśvara, which destroy all diseases.",
+   "uncertainties": [
+    "It is unclear whether the disease-destroying quality applies to both shrines or the journey."
+   ],
+   "plain_english": "Then one should go to Tāmreśvara and Bhāseśvara, which destroy all diseases."
+  }
+ ]
+}

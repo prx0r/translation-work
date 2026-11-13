@@ -1,0 +1,1168 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3626,
+   "rows": [
+    {
+     "surface": "nadīnirodhake",
+     "gloss": "at-river-dam",
+     "grounds": "locative of place; compound nadī-nirodhaka",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "toye",
+     "gloss": "in-water",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, subject of samācaret",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "object of samācaret",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative expressing prescribed action",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "What ritual action is prescribed for one at water held by a river dam?",
+   "premises": [
+    "The location is water at a river dam.",
+    "A person is indicated by the relative pronoun.",
+    "Bathing is the action to be performed."
+   ],
+   "inference": "One who is at water held by a river dam should perform a bath there.",
+   "uncertainties": [],
+   "plain_english": "Whoever is at water held by a river dam should perform a bath there."
+  },
+  {
+   "verse": 3627,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "refers to previously mentioned river or place",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "paścima",
+     "gloss": "western",
+     "grounds": "qualifies bhāge",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-southern",
+     "grounds": "locative of place, coordinated with paścima bhāge",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In which directions relative to that place is the location specified, O supreme goddess?",
+   "premises": [
+    "The reference point is that previously mentioned place.",
+    "The western part is indicated.",
+    "The southern part is also indicated."
+   ],
+   "inference": "The location is specified as being in the western and southern part of that place.",
+   "uncertainties": [
+    "The exact referent of tasyāḥ depends on the preceding context."
+   ],
+   "plain_english": "O supreme goddess, it is in her western and southern part."
+  },
+  {
+   "verse": 3628,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the goddess or sacred place",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sampūjanāt",
+     "gloss": "from-worship",
+     "grounds": "ablative of cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "qualifies kāmān",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kāmān",
+     "gloss": "desires",
+     "grounds": "object of avāpsyate",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "avāpsyate",
+     "gloss": "will-obtain",
+     "grounds": "future result of worship",
+     "morph": "3.sg.fut.mid (ava-āp)"
+    }
+   ],
+   "question": "What reward is obtained through the worship of that goddess or sacred presence?",
+   "premises": [
+    "Worship of her is performed.",
+    "The result is stated as obtaining desires.",
+    "The desires obtained are all desires."
+   ],
+   "inference": "By worshipping her, one will obtain all desires.",
+   "uncertainties": [
+    "The referent of tasyāḥ may be the goddess or the sacred site."
+   ],
+   "plain_english": "By worshipping her alone, one will obtain all desires."
+  },
+  {
+   "verse": 3629,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "liṅga",
+     "grounds": "object of pūjayitvā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-gaṇeśa",
+     "grounds": "possessor of the liṅga",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior action before obtaining prosperity",
+     "morph": "(gerund) (pūj)"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "prosperity",
+     "grounds": "object of labhet",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "may-obtain",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.act (labh)"
+    }
+   ],
+   "question": "What benefit results from worshipping the liṅga of Gaṇeśa at that place?",
+   "premises": [
+    "The location is that sacred place.",
+    "The liṅga of Gaṇeśa is worshipped there.",
+    "Prosperity is the stated result."
+   ],
+   "inference": "One who worships the liṅga of Gaṇeśa there may obtain prosperity.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the liṅga of Gaṇeśa there, one may obtain prosperity."
+  },
+  {
+   "verse": 3630,
+   "rows": [
+    {
+     "surface": "yonirūpām",
+     "gloss": "yoni-formed",
+     "grounds": "qualifies mahāmāyām; compound yoni-rūpa",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahāmāyām",
+     "gloss": "great-māyā",
+     "grounds": "object of pūjayet; compound mahā-māyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (pūj)"
+    },
+    {
+     "surface": "bhaktitatparaḥ",
+     "gloss": "devotion-intent",
+     "grounds": "subject devoted to worship; compound bhakti-tatpara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should a person intent on devotion worship Mahāmāyā in her yoni form?",
+   "premises": [
+    "Mahāmāyā is present in yoni form.",
+    "The worshipper is intent on devotion.",
+    "Worship is enjoined as the proper action."
+   ],
+   "inference": "One intent on devotion should worship Mahāmāyā in her yoni form.",
+   "uncertainties": [],
+   "plain_english": "One intent on devotion should worship Mahāmāyā in the form of the yoni."
+  },
+  {
+   "verse": 3631,
+   "rows": [
+    {
+     "surface": "dviputraḥ",
+     "gloss": "dviputra",
+     "grounds": "name of the place or form; compound dvi-putra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātaḥ",
+     "gloss": "renowned",
+     "grounds": "describes dviputraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior action before going to heaven",
+     "morph": "(gerund) (snā)"
+    },
+    {
+     "surface": "divam",
+     "gloss": "to-heaven",
+     "grounds": "destination of vrajet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-go",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.opt.act (vraj)"
+    }
+   ],
+   "question": "What heavenly reward follows bathing at the place renowned as Dviputra?",
+   "premises": [
+    "The place is renowned as Dviputra.",
+    "Bathing is performed there.",
+    "Going to heaven is stated as the result."
+   ],
+   "inference": "One who bathes at the place renowned as Dviputra may go to heaven.",
+   "uncertainties": [
+    "The exact identity of Dviputra is not specified in this verse."
+   ],
+   "plain_english": "At the place renowned as Dviputra, one who bathes there may go to heaven."
+  },
+  {
+   "verse": 3632,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the stream",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhārā",
+     "gloss": "stream",
+     "grounds": "subject of the clause",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāpinī",
+     "gloss": "tāpinī",
+     "grounds": "name of the stream",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior action before destruction of sin",
+     "morph": "(gerund) (snā)"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "result for sin",
+     "morph": "3.sg.pres.act (naś)"
+    },
+    {
+     "surface": "pātakam",
+     "gloss": "sin",
+     "grounds": "subject of naśyati",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What purifying effect does bathing in the stream named Tāpinī produce?",
+   "premises": [
+    "The stream is named Tāpinī.",
+    "Bathing is performed in that stream.",
+    "Sin perishes as a result."
+   ],
+   "inference": "Bathing in the stream named Tāpinī causes sin to perish.",
+   "uncertainties": [],
+   "plain_english": "That stream is named Tāpinī; by bathing there, sin perishes."
+  },
+  {
+   "verse": 3633,
+   "rows": [
+    {
+     "surface": "niḥsṛtā",
+     "gloss": "issued-forth",
+     "grounds": "describes the stream or place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvapāpaghnī",
+     "gloss": "all-sin-destroying",
+     "grounds": "qualifies the subject; compound sarva-pāpa-ghnī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "digvāsā",
+     "gloss": "digvāsā",
+     "grounds": "name of the stream or place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśrutā",
+     "gloss": "famous",
+     "grounds": "describes digvāsā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities characterize the sacred place or stream known as Digvāsā?",
+   "premises": [
+    "It has issued forth as a sacred flow.",
+    "It destroys all sins.",
+    "It is famous by the name Digvāsā."
+   ],
+   "inference": "The place or stream known as Digvāsā is famous, has issued forth, and destroys all sins.",
+   "uncertainties": [
+    "Whether digvāsā refers to a stream or a site is not explicit in this verse."
+   ],
+   "plain_english": "Issued forth and destroying all sins, it is famous by the name Digvāsā."
+  },
+  {
+   "verse": 3634,
+   "rows": [
+    {
+     "surface": "tasyām",
+     "gloss": "in-that",
+     "grounds": "locative referring to Digvāsā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior action before removal of sin",
+     "morph": "(gerund) (snā)"
+    },
+    {
+     "surface": "mandireṇa",
+     "gloss": "by-temple",
+     "grounds": "instrumental; exact ritual sense unclear",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "brahmahatyām",
+     "gloss": "brahman-slaying",
+     "grounds": "object of vyapohati; compound brahma-hatyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vyapohati",
+     "gloss": "removes",
+     "grounds": "result of bathing there",
+     "morph": "3.sg.pres.act (vi-apa-ūh)"
+    }
+   ],
+   "question": "What grave sin is removed by bathing at that place called Digvāsā?",
+   "premises": [
+    "Bathing takes place in that sacred location.",
+    "The sin of brahman-slaying is named.",
+    "The act removes that sin."
+   ],
+   "inference": "Bathing there removes the sin of brahman-slaying.",
+   "uncertainties": [
+    "The role of mandireṇa in the ritual action is unclear."
+   ],
+   "plain_english": "Having bathed there, one removes the sin of brahman-slaying."
+  },
+  {
+   "verse": 3635,
+   "rows": [
+    {
+     "surface": "kārttikyām",
+     "gloss": "in-kārttikī",
+     "grounds": "locative of time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "grahaṇe",
+     "gloss": "in-eclipse",
+     "grounds": "locative of time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayane",
+     "gloss": "in-solstice",
+     "grounds": "locative of time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṣuve",
+     "gloss": "in-equinox",
+     "grounds": "locative of time",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which auspicious times are specified as especially suitable for the sacred observance?",
+   "premises": [
+    "The Kārttikī occasion is mentioned.",
+    "An eclipse is mentioned.",
+    "Solstice and equinox are also mentioned."
+   ],
+   "inference": "The sacred observance is associated with Kārttikī, eclipse, solstice, and equinox times.",
+   "uncertainties": [
+    "The main verb governing these times appears in the following verse."
+   ],
+   "plain_english": "On Kārttikī, during an eclipse, at the solstice, and likewise at the equinox."
+  },
+  {
+   "verse": 3636,
+   "rows": [
+    {
+     "surface": "kārtikam",
+     "gloss": "of-kārttika",
+     "grounds": "qualifies māsam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sakalam",
+     "gloss": "whole",
+     "grounds": "qualifies māsam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māsam",
+     "gloss": "month",
+     "grounds": "duration of bathing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, subject of snāyāt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snāyāt",
+     "gloss": "should-bathe",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (snā)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What extended bathing observance during the month of Kārttika is enjoined, O supreme goddess?",
+   "premises": [
+    "The entire month of Kārttika is specified.",
+    "Bathing is the prescribed action.",
+    "The injunction is addressed with the goddess as witness."
+   ],
+   "inference": "One should bathe throughout the entire month of Kārttika.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, whoever should bathe for the whole month of Kārttika."
+  },
+  {
+   "verse": 3637,
+   "rows": [
+    {
+     "surface": "bhaumavāre",
+     "gloss": "on-tuesday",
+     "grounds": "locative of time; compound bhauma-vāra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caturdaśyām",
+     "gloss": "on-fourteenth-day",
+     "grounds": "locative of lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "caturthyām",
+     "gloss": "on-fourth-day",
+     "grounds": "locative of lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śanaiścare",
+     "gloss": "on-saturday",
+     "grounds": "locative of time",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which specific weekdays and lunar days are named as auspicious for the observance?",
+   "premises": [
+    "Tuesday is specified as a time.",
+    "The fourteenth and fourth lunar days are specified.",
+    "Saturday is also specified."
+   ],
+   "inference": "Tuesday, the fourteenth day, the fourth day, and Saturday are auspicious times for the observance.",
+   "uncertainties": [
+    "The action performed on these days is supplied by surrounding verses."
+   ],
+   "plain_english": "On Tuesday, on the fourteenth day, on the fourth day, and on Saturday."
+  },
+  {
+   "verse": 3638,
+   "rows": [
+    {
+     "surface": "namaste",
+     "gloss": "salutation-to-you",
+     "grounds": "formula of reverence; sandhi namas+te",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvapāpaghni",
+     "gloss": "all-sin-destroying",
+     "grounds": "vocative epithet; compound sarva-pāpa-ghnī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svacche",
+     "gloss": "o-pure-one",
+     "grounds": "vocative epithet",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svacchāmbuvāhini",
+     "gloss": "pure-water-bearing",
+     "grounds": "vocative epithet; compound svaccha-ambu-vāhinī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What epithets are used to praise the sacred stream in this salutation?",
+   "premises": [
+    "The stream is addressed with reverence.",
+    "It is called destroyer of all sins.",
+    "It is called pure and bearer of pure water."
+   ],
+   "inference": "The sacred stream is praised as pure, sin-destroying, and bearing pure water.",
+   "uncertainties": [],
+   "plain_english": "Salutation to you, destroyer of all sins, pure one, bearer of pure waters."
+  },
+  {
+   "verse": 3639,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "comparative or continuative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrāntam",
+     "gloss": "weary",
+     "grounds": "describes a state or object; reading uncertain",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantam",
+     "gloss": "endless",
+     "grounds": "qualifies a following noun; reading uncertain",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pārśvam",
+     "gloss": "side",
+     "grounds": "object or location term",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśasu",
+     "gloss": "in-ten",
+     "grounds": "locative plural numeral",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "varddhitag",
+     "gloss": "increased",
+     "grounds": "form uncertain; possibly participial or abbreviated",
+     "morph": "(uncertain)"
+    }
+   ],
+   "question": "What extended or increased condition is being described in this fragmentary praise?",
+   "premises": [
+    "The verse uses terms for weariness and endlessness.",
+    "A side or region is mentioned.",
+    "An increase in ten directions or aspects is indicated."
+   ],
+   "inference": "The verse appears to describe an endlessly extended or increased condition, but its syntax is unclear.",
+   "uncertainties": [
+    "The syntax and grammatical construction of this verse are highly uncertain.",
+    "The form varddhitag is unclear and may be corrupt or abbreviated."
+   ],
+   "plain_english": "Likewise, weary, always endless, the side increased in ten directions."
+  },
+  {
+   "verse": 3640,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior action before offering arghya",
+     "morph": "(gerund) (snā)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "qualifies mantreṇa",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "instrument accompanying the offering",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (dā)"
+    },
+    {
+     "surface": "arghyam",
+     "gloss": "arghya-offering",
+     "grounds": "object of dadyāt",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "describes the state of the offerer",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual offering should be made with a mantra after bathing in a composed state?",
+   "premises": [
+    "Bathing is completed first.",
+    "A mantra is used in the act.",
+    "The offerer should be composed and give arghya."
+   ],
+   "inference": "After bathing, one should give an arghya offering with this mantra while composed.",
+   "uncertainties": [],
+   "plain_english": "Having bathed, one should, composed in mind, offer arghya with this mantra."
+  },
+  {
+   "verse": 3641,
+   "rows": [
+    {
+     "surface": "muṇḍanam",
+     "gloss": "head-shaving",
+     "grounds": "object of kuryāt",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "upavāsam",
+     "gloss": "fast",
+     "grounds": "object of samācaret",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "What additional ritual acts of shaving and fasting should be performed afterward?",
+   "premises": [
+    "Head-shaving is prescribed.",
+    "Fasting is prescribed.",
+    "These acts follow in sequence."
+   ],
+   "inference": "Afterward one should perform head-shaving and undertake a fast.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform head-shaving and undertake a fast."
+  },
+  {
+   "verse": 3642,
+   "rows": [
+    {
+     "surface": "digvāsālokavikhyātā",
+     "gloss": "digvāsā-world-renowned",
+     "grounds": "qualifies nadī; compound digvāsā-loka-vikhyātā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tīrthānām",
+     "gloss": "among-tīrthas",
+     "grounds": "partitive genitive",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "uttamā",
+     "gloss": "supreme",
+     "grounds": "qualifies nadī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "subject of the clause",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What status is claimed for the river renowned in the world of Digvāsā among sacred tīrthas?",
+   "premises": [
+    "The river is renowned in the world of Digvāsā.",
+    "It is compared among tīrthas.",
+    "It is declared supreme."
+   ],
+   "inference": "The river renowned in the world of Digvāsā is the supreme among tīrthas.",
+   "uncertainties": [
+    "The compound digvāsālokavikhyātā may also be read as renowned in the Digvāsā region."
+   ],
+   "plain_english": "Renowned in the world of Digvāsā, this river is the supreme among tīrthas."
+  },
+  {
+   "verse": 3643,
+   "rows": [
+    {
+     "surface": "tārayet",
+     "gloss": "may-save",
+     "grounds": "optative expressing power or wish",
+     "morph": "3.sg.opt.act (tṛ)"
+    },
+    {
+     "surface": "sarvabhūtāni",
+     "gloss": "all-beings",
+     "grounds": "object of tārayet; compound sarva-bhūta",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sthāvarāṇi",
+     "gloss": "immovable",
+     "grounds": "included among beings",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāṅkari",
+     "gloss": "o-śāṅkarī",
+     "grounds": "vocative address to the goddess or river",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whom does the sacred Śāṅkarī power or river save, including immovable beings?",
+   "premises": [
+    "All beings are the object of saving.",
+    "Immovable beings are explicitly included.",
+    "The saving power is invoked as Śāṅkarī."
+   ],
+   "inference": "O Śāṅkarī, may she save all beings, including the immovable ones.",
+   "uncertainties": [
+    "Śāṅkarī may refer to the goddess or to the river as her manifestation."
+   ],
+   "plain_english": "O Śāṅkarī, may you save all beings, even the immovable ones."
+  },
+  {
+   "verse": 3644,
+   "rows": [
+    {
+     "surface": "sadevāsuragandharvāḥ",
+     "gloss": "with-gods-demons-gandharvas",
+     "grounds": "compound listing beings; sa-deva-asura-gandharva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṛṣayaḥ",
+     "gloss": "seers",
+     "grounds": "subject group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapodhanāḥ",
+     "gloss": "austerity-rich",
+     "grounds": "qualifies ṛṣayaḥ; compound tapas-dhana",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which divine beings and austerity-rich seers are associated with this sacred context?",
+   "premises": [
+    "Gods, demons, and gandharvas are included.",
+    "Seers are mentioned.",
+    "The seers are rich in austerity."
+   ],
+   "inference": "Gods, demons, gandharvas, and austerity-rich seers are present or associated in this context.",
+   "uncertainties": [
+    "The verb connecting these subjects is supplied by surrounding verses."
+   ],
+   "plain_english": "Gods, demons, gandharvas, and seers rich in austerity."
+  },
+  {
+   "verse": 3645,
+   "rows": [
+    {
+     "surface": "prātaḥ",
+     "gloss": "at-dawn",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior action",
+     "morph": "(gerund) (snā)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "subject of the relative clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyamasthaḥ",
+     "gloss": "vow-established",
+     "grounds": "qualifies naraḥ; compound niyama-stha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jitendriyaḥ",
+     "gloss": "sense-controlled",
+     "grounds": "qualifies naraḥ; compound jita-indriya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What disciplined qualities must a person possess when bathing at dawn in this observance?",
+   "premises": [
+    "The person bathes at dawn.",
+    "The person is established in vows.",
+    "The person has controlled the senses."
+   ],
+   "inference": "The person who bathes at dawn should be established in vows and sense-controlled.",
+   "uncertainties": [
+    "The main result for this person is completed in following verses."
+   ],
+   "plain_english": "The person who bathes at dawn, established in vows and with senses controlled."
+  },
+  {
+   "verse": 3646,
+   "rows": [
+    {
+     "surface": "yojanaśatasāhasram",
+     "gloss": "hundred-thousand-yojanas",
+     "grounds": "extent; compound yojana-śata-sāhasra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrūyate",
+     "gloss": "is-heard",
+     "grounds": "reports traditional extent",
+     "morph": "3.sg.pres.pass (śru)"
+    },
+    {
+     "surface": "sariduttamā",
+     "gloss": "best-river",
+     "grounds": "subject described; compound sarit-uttamā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What vast extent is traditionally attributed to this supreme river?",
+   "premises": [
+    "The river is called the best river.",
+    "Its extent is reported by tradition.",
+    "The extent is a hundred thousand yojanas."
+   ],
+   "inference": "The supreme river is traditionally said to extend for a hundred thousand yojanas.",
+   "uncertainties": [
+    "The figure is a traditional sacred measure rather than a literal geographic claim."
+   ],
+   "plain_english": "The supreme river is said to extend for a hundred thousand yojanas."
+  },
+  {
+   "verse": 3647,
+   "rows": [
+    {
+     "surface": "brahmacārī",
+     "gloss": "celibate-practitioner",
+     "grounds": "qualifies the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "qualifies the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior state before observance",
+     "morph": "(gerund) (bhū)"
+    },
+    {
+     "surface": "jitakrodhaḥ",
+     "gloss": "anger-conquered",
+     "grounds": "qualifies the subject; compound jita-krodha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jitendriyaḥ",
+     "gloss": "sense-controlled",
+     "grounds": "qualifies the subject; compound jita-indriya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What personal disciplines of purity and self-control are required for the observant practitioner?",
+   "premises": [
+    "The practitioner should be celibate.",
+    "The practitioner should be pure.",
+    "The practitioner should have conquered anger and controlled the senses."
+   ],
+   "inference": "The observant practitioner must be pure, celibate, free of anger, and sense-controlled.",
+   "uncertainties": [
+    "The main action governed by these qualifications appears in adjacent verses."
+   ],
+   "plain_english": "Having become celibate and pure, with anger conquered and senses controlled."
+  },
+  {
+   "verse": 3648,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "summarizes the prescribed conduct",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmasamācāraḥ",
+     "gloss": "dharma-conducting",
+     "grounds": "qualifies the subject; compound dharma-samācāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, subject of parityajet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpān",
+     "gloss": "sins",
+     "grounds": "object of parityajet",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (pari-tyaj)"
+    }
+   ],
+   "question": "What moral conduct is required of one who would abandon sins in this observance?",
+   "premises": [
+    "The conduct is described as in accordance with dharma.",
+    "The person is the one who abandons sins.",
+    "Abandoning sins is enjoined."
+   ],
+   "inference": "One who conducts oneself according to dharma should abandon sins.",
+   "uncertainties": [],
+   "plain_english": "Thus, whoever conducts himself according to dharma should abandon sins."
+  },
+  {
+   "verse": 3649,
+   "rows": [
+    {
+     "surface": "śatavarṣasamam",
+     "gloss": "hundred-years-equal",
+     "grounds": "duration of heavenly enjoyment; compound śata-varṣa-sama",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāṇī",
+     "gloss": "living-being",
+     "grounds": "subject of modeta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svarge",
+     "gloss": "in-heaven",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "modeta",
+     "gloss": "may-rejoice",
+     "grounds": "optative expressing reward",
+     "morph": "3.sg.opt.act (mud)"
+    },
+    {
+     "surface": "śāṅkari",
+     "gloss": "o-śāṅkarī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What heavenly reward is promised to the living being who fulfills this observance, O Śāṅkarī?",
+   "premises": [
+    "The reward takes place in heaven.",
+    "The duration is equal to a hundred years.",
+    "The living being rejoices as a result."
+   ],
+   "inference": "O Śāṅkarī, the living being may rejoice in heaven for a period equal to a hundred years.",
+   "uncertainties": [],
+   "plain_english": "O Śāṅkarī, that living being may rejoice in heaven for the equivalent of a hundred years."
+  }
+ ]
+}

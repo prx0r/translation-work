@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p146",
  "verse": 3637,
- "question": "Who comes under the practitioner's control, and who is especially emphasized?",
+ "question": "Which specific weekdays and lunar days are named as auspicious for the observance?",
  "premises": [
-  "Kings come under the practitioner's control.",
-  "Women come under his control especially."
+  "Tuesday is specified as a time.",
+  "The fourteenth and fourth lunar days are specified.",
+  "Saturday is also specified."
  ],
- "inference": "Kings and especially women become subject to the practitioner.",
- "uncertainties": [],
- "plain_english": "Kings and especially women come under his control."
+ "inference": "Tuesday, the fourteenth day, the fourth day, and Saturday are auspicious times for the observance.",
+ "uncertainties": [
+  "The action performed on these days is supplied by surrounding verses."
+ ],
+ "plain_english": "On Tuesday, on the fourteenth day, on the fourth day, and on Saturday."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p142",
  "verse": 3536,
- "question": "How does the compassionate deity respond upon hearing the devotee's words?",
+ "question": "What dire consequence is stated for a human who merely bathes?",
  "premises": [
-  "Bhava hears the devotee's speech",
-  "Bhava is compassionate",
-  "His compassion is exceedingly stirred"
+  "A human performs only bathing.",
+  "The text states he goes to a terrible hell.",
+  "No additional qualifying negation is present in the verse."
  ],
- "inference": "The deity is deeply moved by the devotee's words.",
- "uncertainties": [],
- "plain_english": "Having heard that speech of his, the compassionate Bhava was exceedingly moved."
+ "inference": "Therefore the verse states that by mere bathing that human goes to terrible hell.",
+ "uncertainties": [
+  "The statement appears contrary to usual tīrtha praise and may depend on missing context or ritual conditions."
+ ],
+ "plain_english": "That human goes to terrible hell by mere bathing alone."
 }

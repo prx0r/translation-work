@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p147",
+ "items": [
+  {
+   "verse": 3675,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence in pilgrimage itinerary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prescriptive instruction to the pilgrim; root gam",
+     "morph": "3.sg.act-optative gam"
+    },
+    {
+     "surface": "pūrvabhāgaṃ",
+     "gloss": "eastern-region",
+     "grounds": "destination qualified by direction; compound pūrva+bhāga",
+     "morph": "m.acc.sg compound pūrva+bhāga"
+    },
+    {
+     "surface": "piṅgaleśvaram",
+     "gloss": "piṅgaleśvara",
+     "grounds": "name of the sacred site or deity to be visited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "qualifies the destination as supreme or preeminent",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What excellent sacred destination in the eastern region should be visited next?",
+   "premises": [
+    "The pilgrimage sequence continues from the previously named site.",
+    "The next destination is located in the eastern region.",
+    "Piṅgaleśvara is designated as an excellent sacred site."
+   ],
+   "inference": "A pilgrim should proceed next to the excellent Piṅgaleśvara in the eastern region.",
+   "uncertainties": [
+    "Whether pūrvabhāgaṃ specifies a directional region or functions as part of a place designation is not fully explicit."
+   ],
+   "plain_english": "Then one should go to the excellent Piṅgaleśvara in the eastern region."
+  }
+ ]
+}
