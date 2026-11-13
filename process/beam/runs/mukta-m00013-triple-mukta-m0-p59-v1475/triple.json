@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "tarpayet+ca",
+     "gloss": "one-should-libate+and",
+     "grounds": "optative verb with enclitic conjunction; expresses injunction to perform libation",
+     "morph": "3.sg.act-opt+indecl. (√tṛp)"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "qualifies the goddess as the highest object of libation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "direct object of the libation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tat+prakāraḥ",
+     "gloss": "its-method",
+     "grounds": "compound referring to the procedure of the aforementioned libation",
+     "morph": "compound (pronoun+noun, m.nom.sg)"
+    },
+    {
+     "surface": "iha+ucyate",
+     "gloss": "here+is-stated",
+     "grounds": "announces that the method will be explained in this context",
+     "morph": "indecl.+3.sg.pass-pres (√vac)"
+    }
+   ],
+   "question": "What ritual action toward the supreme goddess is now to be explained?",
+   "premises": [
+    "One should perform libation to the supreme goddess.",
+    "The method of that libation is the subject at hand.",
+    "The text announces that this method is stated here."
+   ],
+   "inference": "The verse enjoins libation of the supreme goddess and introduces the explanation of its method.",
+   "uncertainties": [],
+   "plain_english": "And one should libate the supreme goddess; the method for that is stated here."
+  }
+ ]
+}

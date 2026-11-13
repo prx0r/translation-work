@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of ni-√kṣip indicating a prior completed action of placing down",
+     "morph": "(gerund).ni-√kṣip"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative denoting the surface or place where the placement occurs",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "hastārddhamānataḥ",
+     "gloss": "hand-half-measure",
+     "grounds": "compound indicating extent or depth measured as half a hand; internal sandhi in hastārdha",
+     "morph": "hasta+arddha+māna+tas (compound.indecl.)"
+    },
+    {
+     "surface": "kānane",
+     "gloss": "in-forest",
+     "grounds": "locative specifying one possible natural location for the act",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vane",
+     "gloss": "in-grove",
+     "grounds": "locative specifying an alternative or synonymous natural location for the act",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What location and depth are prescribed for placing an item during this ritual procedure?",
+   "premises": [
+    "The action described is placing something down (nikṣipya).",
+    "The placement is to be made on the ground (bhūmau).",
+    "The prescribed depth is the measure of half a hand (hastārddhamānataḥ).",
+    "The prescribed locations are a forest or a grove (kānane vane)."
+   ],
+   "inference": "The ritual item must be placed in the ground to a depth of half a hand in a forest or grove.",
+   "uncertainties": [
+    "The specific object to be placed is not stated in this verse and depends on context."
+   ],
+   "plain_english": "Having placed it on the ground to the depth of half a hand, in a forest or in a grove."
+  }
+ ]
+}
