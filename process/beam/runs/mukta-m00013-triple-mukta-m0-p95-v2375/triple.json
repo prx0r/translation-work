@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative of direction indicating the western quarter",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "varuṇaḥ",
+     "gloss": "Varuna",
+     "grounds": "deity invoked as guardian of the west",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative/imperative sense expressing protective invocation",
+     "morph": "3.sg.imp.act √pā"
+    },
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "in-northwest",
+     "grounds": "locative of direction indicating the northwest quarter",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "pavano'",
+     "gloss": "wind",
+     "grounds": "Pavana/Vayu invoked as guardian; apostrophe marks sandhi fusion in the token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vatus",
+     "gloss": "may-protect",
+     "grounds": "protective invocation; surface reflects sandhi form of the verb",
+     "morph": "3.sg.imp.act √pā"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the pattern of directional guardianship from prior verses",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which guardian deities are invoked to protect the western and northwestern directions?",
+   "premises": [
+    "The western quarter is assigned a specific guardian deity.",
+    "The northwestern quarter is assigned a specific guardian deity.",
+    "Each deity is invoked to provide protection in that direction."
+   ],
+   "inference": "Varuna is invoked to protect in the west, and Pavana is likewise invoked to protect in the northwest.",
+   "uncertainties": [
+    "The exact sandhi resolution underlying the surface forms pavano' and vatus is not fully explicit from the tokenization alone."
+   ],
+   "plain_english": "May Varuna protect me in the west, and may Pavana likewise protect me in the northwest."
+  }
+ ]
+}

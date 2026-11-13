@@ -28,7 +28,7 @@
 },
 {
 "surface": "pravindati",
-"quick_gloss": "attains"
+"quick_gloss": "finds"
 }
 ]
 },
@@ -131,8 +131,12 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "kīṭa+ādikeṣu",
-"quick_gloss": "in-insects"
+"surface": "kīṭa",
+"quick_gloss": "in-worms"
+},
+{
+"surface": "ādikeṣu",
+"quick_gloss": "and-so-forth"
 },
 {
 "surface": "ca",
@@ -185,12 +189,8 @@
 "quick_gloss": "body"
 },
 {
-"surface": "nāśa",
-"quick_gloss": "destruction"
-},
-{
-"surface": "kṛt",
-"quick_gloss": "making"
+"surface": "nāśakṛt",
+"quick_gloss": "destroyer"
 }
 ]
 },
@@ -236,7 +236,7 @@
 "tokens": [
 {
 "surface": "madanaṃ",
-"quick_gloss": "love-god"
+"quick_gloss": "of-love"
 },
 {
 "surface": "rūpam",
@@ -264,8 +264,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ātma+icchayā",
+"surface": "ātma",
 "quick_gloss": "by-own-will"
+},
+{
+"surface": "icchayā",
+"quick_gloss": "by-desire"
 },
 {
 "surface": "kṛtaṃ",
@@ -288,7 +292,7 @@
 "quick_gloss": "not"
 },
 {
-"surface": "ca+ācaret",
+"surface": "cācaret",
 "quick_gloss": "should-perform"
 }
 ]
@@ -412,7 +416,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saḥ",
+"surface": "sa",
 "quick_gloss": "he"
 },
 {
@@ -428,8 +432,12 @@
 "quick_gloss": "brahman"
 },
 {
-"surface": "sva+icchayā",
+"surface": "sva",
 "quick_gloss": "by-own-will"
+},
+{
+"surface": "icchayā",
+"quick_gloss": "by-desire"
 },
 {
 "surface": "līlayā",
@@ -502,7 +510,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "mahā+īśāna",
+"surface": "maheśāna",
 "quick_gloss": "O-great-lord"
 },
 {
@@ -543,15 +551,19 @@
 "quick_gloss": "in-truth"
 },
 {
-"surface": "deha+ante",
+"surface": "deha",
 "quick_gloss": "at-body's-end"
+},
+{
+"surface": "ante",
+"quick_gloss": "at-end"
 },
 {
 "surface": "brahma",
 "quick_gloss": "brahman"
 },
 {
-"surface": "bhāk",
+"surface": "bhāg",
 "quick_gloss": "partaking"
 },
 {
@@ -572,16 +584,24 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śrī+sarvānanda+nātha",
+"surface": "śrī",
 "quick_gloss": "by-śrī-sarvānandanātha"
+},
+{
+"surface": "sarvānandanātha",
+"quick_gloss": "by-sarvānandanātha"
 },
 {
 "surface": "viracite",
 "quick_gloss": "composed"
 },
 {
-"surface": "sarva+ullāse",
+"surface": "sarva",
 "quick_gloss": "in-sarvollāsa"
+},
+{
+"surface": "ullāse",
+"quick_gloss": "in-ullāsa"
 },
 {
 "surface": "triṣaṣṭi",

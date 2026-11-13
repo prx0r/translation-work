@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "māheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to Māheśvarī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "indeclinable expression of homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tubhyam",
+     "gloss": "to-you",
+     "grounds": "second-person pronoun, recipient of salutation",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "annapūrṇe",
+     "gloss": "o-food-full-goddess",
+     "grounds": "vocative address to Annapūrṇā",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "indeclinable expression of homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "optative expression of wish or dedication",
+     "morph": "3.sg.imperative-act as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "second-person pronoun, recipient of salutation",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What divine identity is affirmed as the recipient of repeated devotional salutation?",
+   "premises": [
+    "Māheśvarī is directly addressed with salutation.",
+    "Annapūrṇā is directly addressed with salutation.",
+    "Both salutations are directed to the same you."
+   ],
+   "inference": "Māheśvarī and Annapūrṇā are invoked as one recipient worthy of repeated homage.",
+   "uncertainties": [],
+   "plain_english": "Salutation to you, O Māheśvarī; salutation be to you, O Annapūrṇā."
+  }
+ ]
+}
