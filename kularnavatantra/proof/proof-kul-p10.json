@@ -1,0 +1,124 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p10",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v237 ratio=0.854",
+  "ALIGN_NODISP v238 ratio=0.854",
+  "ALIGN_NODISP v242 ratio=0.814",
+  "ALIGN_NODISP v243 ratio=0.844",
+  "ALIGN_NODISP v244 ratio=0.594",
+  "ALIGN_NODISP v245 ratio=0.841",
+  "ALIGN_NODISP v247 ratio=0.784",
+  "ALIGN_NODISP v248 ratio=0.784",
+  "ALIGN_NODISP v250 ratio=0.730"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "1309a2e38a92a99c",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 126
+ },
+ "align": {
+  "min_ratio": 0.594,
+  "sub090": {
+   "237": {
+    "ratio": 0.854,
+    "disposition": null
+   },
+   "238": {
+    "ratio": 0.854,
+    "disposition": null
+   },
+   "242": {
+    "ratio": 0.814,
+    "disposition": null
+   },
+   "243": {
+    "ratio": 0.844,
+    "disposition": null
+   },
+   "244": {
+    "ratio": 0.594,
+    "disposition": null
+   },
+   "245": {
+    "ratio": 0.841,
+    "disposition": null
+   },
+   "247": {
+    "ratio": 0.784,
+    "disposition": null
+   },
+   "248": {
+    "ratio": 0.784,
+    "disposition": null
+   },
+   "250": {
+    "ratio": 0.73,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 64,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 126,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v237",
+  "fix: word-order/gloss vs source for v238",
+  "fix: word-order/gloss vs source for v242",
+  "fix: word-order/gloss vs source for v243",
+  "fix: word-order/gloss vs source for v244",
+  "fix: word-order/gloss vs source for v245",
+  "fix: word-order/gloss vs source for v247",
+  "fix: word-order/gloss vs source for v248",
+  "fix: word-order/gloss vs source for v250"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "4767bf86a9566c85cb1a02768c468525fd9d06bf28d9aaf57dab84561314c13f",
+  "l0": "e43106bb38e86aa29de9ddfc3fd1b07b2972627e177c69c1848997c9ce81d71a",
+  "argmap": "0b5da5cd5adf0e3f3e2f3bfd03542d42efcba26304ae603f683aa9ef5a5c49a4",
+  "l2": "f643bc72603b022a4bc182ebbd90b17636f23f25a82250a92f57ef7cc4a5f1e2",
+  "c1": "11243aa84af71a21dcfcba21ff8f90b048fd29e735f0fbf289ddf70293f95615"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1309a2e38a92a99c",
+  "t1": "kul-p10/data/kul-p10.t1.json",
+  "l0": "kul-p10/data/kul-p10.l0.json",
+  "l2": "kul-p10/data/kul-p10.l2.json",
+  "c1": "kul-p10/data/kul-p10.c1.json"
+ }
+}

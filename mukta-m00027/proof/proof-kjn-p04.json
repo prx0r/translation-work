@@ -1,0 +1,74 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kjn-p04",
+ "work": "mukta-m00027",
+ "date": "2026-11-01",
+ "blocking": [
+  "DATA_OBJECTS 2 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "db3226feccbee3a5",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 100
+ },
+ "align": {
+  "min_ratio": 0.925,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 70,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 26,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "t1[kjn-p04-v77].tokens[0]: surface contains parens (breaks [and]-MD parsing)",
+   "t1[kjn-p04-v77].tokens[0]: surface contains parens (breaks [and]-MD parsing)"
+  ],
+  "counts": {
+   "t1": 26,
+   "l0": 100,
+   "argmap": 26,
+   "l2": 26,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "209de163ce03b840393cbc168f1db5ba80d4a4f732572a1a761eeab886f2fcf5",
+  "l0": "7ebf2ec4b7bc676e07038bdb63c85eace1788b227015bf57ab393922453bfea4",
+  "argmap": "d7ea34cf23e5cbaf791031ccf06ad27101ffaeb5b63f57ea3e38b35ad73cef8c",
+  "l2": "62362c76e049612c8b92ad4dd3aee5d4b9ba9fea96659540a2c7c17518d87aa5",
+  "c1": "8b6eba81a51296bebe57f5bd3a6a222c17901d2a30bdaabf8d41e8c2f41fc057"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "db3226feccbee3a5",
+  "t1": "kjn-p04/data/kjn-p04.t1.json",
+  "l0": "kjn-p04/data/kjn-p04.l0.json",
+  "l2": "kjn-p04/data/kjn-p04.l2.json",
+  "c1": "kjn-p04/data/kjn-p04.c1.json"
+ }
+}

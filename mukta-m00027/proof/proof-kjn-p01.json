@@ -1,0 +1,94 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kjn-p01",
+ "work": "mukta-m00027",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v10 ratio=0.881",
+  "ALIGN_NODISP v15 ratio=0.886",
+  "ALIGN_NODISP v19 ratio=0.894",
+  "ALIGN_NODISP v20 ratio=0.899"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "6066a21681f0db37",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 133
+ },
+ "align": {
+  "min_ratio": 0.881,
+  "sub090": {
+   "10": {
+    "ratio": 0.881,
+    "disposition": null
+   },
+   "15": {
+    "ratio": 0.886,
+    "disposition": null
+   },
+   "19": {
+    "ratio": 0.894,
+    "disposition": null
+   },
+   "20": {
+    "ratio": 0.899,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 43,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 133,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v10",
+  "fix: word-order/gloss vs source for v15",
+  "fix: word-order/gloss vs source for v19",
+  "fix: word-order/gloss vs source for v20"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "65fbebf48d584d84288804fe0b3c277d3660332d4e14553890a4fd1c05719057",
+  "l0": "5c0028975f933fb2dc744aa0cad524990f96e4e157c79e1e036330f971d5eb2f",
+  "argmap": "5396a207ae3229a8b1b5a089410581fbbfb7f9fcd84e9985334b9040ec000c2f",
+  "l2": "3e7bd061aaf122e12d3935d923854f1b8185cf89f4df81de1a9dd449bf23fc26",
+  "c1": "b7f005b2a1427855c19e61f0b4dfb4ba18b630c19be7311d11bcf7363e10a3a2"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "6066a21681f0db37",
+  "t1": "kjn-p01/data/kjn-p01.t1.json",
+  "l0": "kjn-p01/data/kjn-p01.l0.json",
+  "l2": "kjn-p01/data/kjn-p01.l2.json",
+  "c1": "kjn-p01/data/kjn-p01.c1.json"
+ }
+}

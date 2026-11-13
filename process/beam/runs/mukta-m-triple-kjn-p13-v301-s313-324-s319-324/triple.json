@@ -12,41 +12,41 @@
     },
     {
      "surface": "pātramalābhena",
-     "gloss": "vessel-non-obtainment",
-     "grounds": "pātra + alābha + ena instrumental",
-     "morph": "n.ins.sg"
+     "gloss": "by-vessel-non-obtainment",
+     "grounds": "compound of vessel and non-obtainment",
+     "morph": "compound"
     },
     {
      "surface": "anyapātre",
      "gloss": "in-another-vessel",
-     "grounds": "anya + pātra locative",
+     "grounds": "locative singular",
      "morph": "n.loc.sg"
     },
     {
      "surface": "pibet",
      "gloss": "one-may-drink",
-     "grounds": "root pā optative",
-     "morph": "3.sg.act.opt"
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.opt"
     },
     {
      "surface": "surām",
      "gloss": "liquor",
-     "grounds": "accusative object",
-     "morph": "f.acc.sg"
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
     }
    ],
    "question": "When the proper vessel is unavailable, may one drink liquor from another vessel?",
    "premises": [
-    "this vessel is not obtained",
-    "another vessel is used",
-    "liquor may be drunk"
+    "proper vessel is unavailable",
+    "another vessel is available",
+    "drinking liquor is permitted"
    ],
-   "inference": "absence of the proper vessel permits drinking liquor from another vessel",
+   "inference": "The verse permits drinking liquor from another vessel when the proper vessel is unavailable.",
    "uncertainties": [
     "whether this is literal or ritual",
-    "whether permission is general"
+    "whether any vessel qualifies"
    ],
-   "plain_english": "Because this vessel is not obtained, one may drink liquor from another vessel."
+   "plain_english": "When the proper vessel is not obtained, one may drink liquor from another vessel."
   },
   {
    "verse": 320,
@@ -55,31 +55,31 @@
      "surface": "kathitaṃ",
      "gloss": "declared",
      "grounds": "past participle",
-     "morph": "n.nom.sg"
+     "morph": "v.past.part"
     },
     {
      "surface": "devi",
      "gloss": "O-goddess",
-     "grounds": "vocative address",
-     "morph": "f.voc.sg"
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
     },
     {
      "surface": "sadbhāvaṃ",
      "gloss": "true-nature",
-     "grounds": "sat + bhāva accusative",
-     "morph": "m.acc.sg"
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
     },
     {
      "surface": "kimanyaṃ",
      "gloss": "what-else",
-     "grounds": "kim + anyam",
-     "morph": "n.acc.sg"
+     "grounds": "interrogative compound",
+     "morph": "compound"
     },
     {
      "surface": "pṛcchase",
      "gloss": "you-ask",
-     "grounds": "root pracch present",
-     "morph": "2.sg.mid.pres"
+     "grounds": "second singular present",
+     "morph": "v.2.sg.pres"
     },
     {
      "surface": "adhunā",
@@ -90,16 +90,16 @@
    ],
    "question": "After the true nature has been declared, what else does the goddess ask now?",
    "premises": [
-    "true nature is declared",
+    "true nature has been declared",
     "goddess asks further",
     "question occurs now"
    ],
-   "inference": "the declared true nature prompts a further question",
+   "inference": "The verse marks a transition from declared true nature to a further question.",
    "uncertainties": [
-    "exact referent of true nature",
-    "whether question is rhetorical"
+    "exact content of further question",
+    "whether it is rhetorical"
    ],
-   "plain_english": "O goddess, the true nature has been declared; what else do you ask now?"
+   "plain_english": "The true nature has been declared, O goddess; what else do you ask now?"
   },
   {
    "verse": 321,
@@ -107,38 +107,38 @@
     {
      "surface": "tatprasādena",
      "gloss": "by-that-grace",
-     "grounds": "tat + prasāda instrumental",
-     "morph": "m.ins.sg"
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
     },
     {
      "surface": "deveśa",
      "gloss": "O-lord-of-gods",
-     "grounds": "deva + īśa vocative",
-     "morph": "m.voc.sg"
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
     },
     {
      "surface": "jñātavyaṃ",
      "gloss": "to-be-known",
-     "grounds": "gerundive of jñā",
-     "morph": "n.nom.sg"
+     "grounds": "gerundive",
+     "morph": "v.gerundive"
     },
     {
      "surface": "jñānanirṇayam",
      "gloss": "knowledge-determination",
-     "grounds": "jñāna + nirṇaya accusative",
-     "morph": "m.acc.sg"
+     "grounds": "compound accusative",
+     "morph": "compound"
     }
    ],
-   "question": "By whose grace is the determination of knowledge to be known?",
+   "question": "By whose grace must the determination of knowledge be known?",
    "premises": [
-    "that grace is operative",
+    "grace is the means",
     "lord of gods is addressed",
-    "knowledge-determination is to be known"
+    "knowledge determination is to be known"
    ],
-   "inference": "the determination of knowledge is known through that grace",
+   "inference": "The verse states that the determination of knowledge is to be known by that grace.",
    "uncertainties": [
-    "identity of that grace",
-    "scope of knowledge-determination"
+    "whose grace is referenced",
+    "scope of knowledge determination"
    ],
    "plain_english": "By that grace, O lord of gods, the determination of knowledge is to be known."
   },
@@ -148,32 +148,32 @@
     {
      "surface": "caryāpātralakṣaṇo",
      "gloss": "conduct-vessel-characteristic",
-     "grounds": "caryā + pātra + lakṣaṇa nominative",
-     "morph": "m.nom.sg"
+     "grounds": "compound nominative",
+     "morph": "compound"
     },
     {
      "surface": "dvādaśaḥ",
      "gloss": "twelfth",
      "grounds": "ordinal adjective",
-     "morph": "m.nom.sg"
+     "morph": "adj.nom.sg"
     },
     {
      "surface": "paṭalaḥ",
      "gloss": "chapter",
-     "grounds": "nominative subject",
-     "morph": "m.nom.sg"
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
     }
    ],
    "question": "Which chapter is characterized by conduct and vessel?",
    "premises": [
-    "conduct-vessel characteristic is named",
-    "twelfth ordinal is given",
-    "chapter is the subject"
+    "chapter is twelfth",
+    "characteristic involves conduct",
+    "characteristic involves vessel"
    ],
-   "inference": "the twelfth chapter is the one characterized by conduct and vessel",
+   "inference": "The verse identifies the twelfth chapter as the one characterized by conduct and vessel.",
    "uncertainties": [
-    "exact meaning of conduct-vessel",
-    "chapter numbering context"
+    "exact chapter title",
+    "relation to prior chapters"
    ],
    "plain_english": "The twelfth chapter is characterized by conduct and vessel."
   },
@@ -182,53 +182,53 @@
    "rows": [
     {
      "surface": "adhorddhañca",
-     "gloss": "below-and-above-and",
-     "grounds": "adhas + ūrdhvam + ca",
-     "morph": "(indecl.)"
+     "gloss": "below-and-above",
+     "grounds": "compound with ca",
+     "morph": "compound"
     },
     {
      "surface": "labhej",
      "gloss": "may-obtain",
-     "grounds": "root labh optative",
-     "morph": "3.sg.act.opt"
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.opt"
     },
     {
      "surface": "jīvo",
      "gloss": "living-being",
-     "grounds": "nominative subject",
-     "morph": "m.nom.sg"
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of jñā",
-     "morph": "(indecl.)"
+     "grounds": "absolutive",
+     "morph": "v.abs"
     },
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative accusative",
-     "morph": "m.acc.sg"
+     "grounds": "accusative singular",
+     "morph": "pron.acc.sg"
     },
     {
      "surface": "muktibhojanam",
      "gloss": "liberation-enjoyment",
-     "grounds": "mukti + bhojana accusative",
-     "morph": "n.acc.sg"
+     "grounds": "compound accusative",
+     "morph": "compound"
     }
    ],
-   "question": "What may the living being obtain below and above after knowing that liberation-enjoyment?",
+   "question": "What may a living being obtain below and above after knowing that liberation-enjoyment?",
    "premises": [
     "living being knows that",
-    "liberation-enjoyment is known",
-    "obtaining occurs below and above"
+    "liberation enjoyment is known",
+    "obtainment occurs below and above"
    ],
-   "inference": "knowing that liberation-enjoyment lets the living being obtain below and above",
+   "inference": "The verse says a living being may obtain liberation-enjoyment below and above after knowing that.",
    "uncertainties": [
     "meaning of below and above",
-    "whether obtaining is literal or spiritual"
+    "whether obtainment is immediate"
    ],
-   "plain_english": "The living being may obtain below and above, having known that enjoyment of liberation."
+   "plain_english": "Having known that, a living being may obtain liberation-enjoyment below and above."
   },
   {
    "verse": 324,
@@ -236,58 +236,58 @@
     {
      "surface": "śrutvā",
      "gloss": "having-heard",
-     "grounds": "absolutive of śru",
-     "morph": "(indecl.)"
+     "grounds": "absolutive",
+     "morph": "v.abs"
     },
     {
      "surface": "tasya",
      "gloss": "of-that",
-     "grounds": "genitive pronoun",
-     "morph": "m.gen.sg"
+     "grounds": "genitive singular",
+     "morph": "pron.gen.sg"
     },
     {
      "surface": "patir",
      "gloss": "lord",
-     "grounds": "nominative subject",
-     "morph": "m.nom.sg"
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "divyaṃ",
      "gloss": "divine",
-     "grounds": "adjective accusative",
-     "morph": "n.acc.sg"
+     "grounds": "accusative singular",
+     "morph": "adj.acc.sg"
     },
     {
      "surface": "yāti",
      "gloss": "goes",
-     "grounds": "root yā present",
-     "morph": "3.sg.act.pres"
+     "grounds": "third singular present",
+     "morph": "v.3.sg.pres"
     },
     {
      "surface": "mokṣavaraṃ",
      "gloss": "liberation-supreme",
-     "grounds": "mokṣa + vara accusative",
-     "morph": "n.acc.sg"
+     "grounds": "compound accusative",
+     "morph": "compound"
     },
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "adjective accusative",
-     "morph": "n.acc.sg"
+     "grounds": "accusative singular",
+     "morph": "adj.acc.sg"
     }
    ],
-   "question": "Where does the lord go after hearing that, and what supreme auspicious liberation does he attain?",
+   "question": "Where does the lord go after hearing that divine supreme liberation?",
    "premises": [
     "lord hears that",
-    "lord goes divine",
-    "supreme auspicious liberation is reached"
+    "divine supreme liberation is heard",
+    "lord goes auspiciously"
    ],
-   "inference": "hearing that leads the lord to divine supreme auspicious liberation",
+   "inference": "The verse states that the lord goes to divine supreme liberation, which is auspicious, after hearing that.",
    "uncertainties": [
-    "identity of the lord",
-    "whether going is physical or spiritual"
+    "whether destination is liberation itself",
+    "whether lord is human or divine"
    ],
-   "plain_english": "Having heard that, the lord goes to the divine supreme auspicious liberation."
+   "plain_english": "Having heard that, the lord goes to the divine supreme liberation, which is auspicious."
   }
  ]
 }

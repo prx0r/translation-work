@@ -1,0 +1,100 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "net-p14",
+ "work": "netratantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v329 ratio=0.800",
+  "ALIGN_NODISP v332 ratio=0.896",
+  "ALIGN_NODISP v336 ratio=0.889",
+  "L2_CITE_FAIL 3",
+  "DATA_OBJECTS 3 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "648bc8800179abeb",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 105
+ },
+ "align": {
+  "min_ratio": 0.8,
+  "sub090": {
+   "329": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "332": {
+    "ratio": 0.896,
+    "disposition": null
+   },
+   "336": {
+    "ratio": 0.889,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 37,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "co hyarthe dānaṃ śivatvābhivyakteḥ, kṣapaṇaṃ tu pāśānām",
+   "iti lakṣaṇamuktam durādharṣā balino duḥsahāśca",
+   "asminniti retoraktātmani bījasaṃbhavo garbhādhānam"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[net-p14-v338]: cite part not byte-exact in source: co hyarthe dānaṃ śivatvābhivyakteḥ, kṣapaṇaṃ tu pāśānām",
+   "l2[net-p14-v341]: cite part not byte-exact in source: iti lakṣaṇamuktam durādharṣā balino duḥsahāśca",
+   "l2[net-p14-v346]: cite part not byte-exact in source: asminniti retoraktātmani bījasaṃbhavo garbhādhānam"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 105,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v329",
+  "fix: word-order/gloss vs source for v332",
+  "fix: word-order/gloss vs source for v336"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "f0f84aa14f0c795a8939ad1845cd8e501f22f82aff6600ca3de7e67a64867523",
+  "l0": "3799de9eb2f6c4945752ed0d097aa91ce737ef245f3a2478b7ecb93190afb706",
+  "argmap": "af47d5e753dd53a5adad7c8448d553e13336e52281244caf9e225062041f609c",
+  "l2": "18cc771795038ddda958791689fc769bdd8560096f28ee1964820388037f80f0",
+  "c1": "5cd6fab3857393080723a4012edd691507bb7387a98b3f7279180462d0e751ff"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "648bc8800179abeb",
+  "t1": "net-p14/data/net-p14.t1.json",
+  "l0": "net-p14/data/net-p14.l0.json",
+  "l2": "net-p14/data/net-p14.l2.json",
+  "c1": "net-p14/data/net-p14.c1.json"
+ }
+}

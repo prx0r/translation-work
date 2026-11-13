@@ -1,0 +1,106 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "net-p13",
+ "work": "netratantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v305 ratio=0.897",
+  "ALIGN_NODISP v308 ratio=0.893",
+  "ALIGN_NODISP v312 ratio=0.838",
+  "ALIGN_NODISP v314 ratio=0.880",
+  "L2_CITE_FAIL 3",
+  "DATA_OBJECTS 3 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "339f90009197211d",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 92
+ },
+ "align": {
+  "min_ratio": 0.838,
+  "sub090": {
+   "305": {
+    "ratio": 0.897,
+    "disposition": null
+   },
+   "308": {
+    "ratio": 0.893,
+    "disposition": null
+   },
+   "312": {
+    "ratio": 0.838,
+    "disposition": null
+   },
+   "314": {
+    "ratio": 0.88,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 35,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "tadeti tata ityarthaḥ samācarediti pratīkāram",
+   "iti kriyākālaguṇottare lakṣitāḥ rakṣodhipo nirṛtiḥ",
+   "iti tatraivoktam pūrvoktavidhiriha mantreṇa arcāhomādi"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[net-p13-v312]: cite part not byte-exact in source: tadeti tata ityarthaḥ samācarediti pratīkāram",
+   "l2[net-p13-v320]: cite part not byte-exact in source: iti kriyākālaguṇottare lakṣitāḥ rakṣodhipo nirṛtiḥ",
+   "l2[net-p13-v322]: cite part not byte-exact in source: iti tatraivoktam pūrvoktavidhiriha mantreṇa arcāhomādi"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 92,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v305",
+  "fix: word-order/gloss vs source for v308",
+  "fix: word-order/gloss vs source for v312",
+  "fix: word-order/gloss vs source for v314"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "4cc7a11f49c17ef42445c48aaacaf46c0b5f9dafac250e141afda205c2dd3552",
+  "l0": "d9eb5295e59d5e7702f985000882d5677ac72960e90c54c79997188f80f24e20",
+  "argmap": "726a484d45665b1fe4c3c2bf3efca13d39015de97bdb22bf2ab09d1081147f79",
+  "l2": "60ce290e0aab145988b908ca3f6465d3b544611682f846b4017c2375df6cb270",
+  "c1": "6c26d9344f8da80c3a328638f09aa6dc73bd53a60977ea779230e9295d68aac9"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "339f90009197211d",
+  "t1": "net-p13/data/net-p13.t1.json",
+  "l0": "net-p13/data/net-p13.l0.json",
+  "l2": "net-p13/data/net-p13.l2.json",
+  "c1": "net-p13/data/net-p13.c1.json"
+ }
+}

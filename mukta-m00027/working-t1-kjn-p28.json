@@ -1,159 +1,187 @@
 [
-{
-"verse_id": "kjn-p28-v676",
-"song": "kjn-p28",
-"verse": 676,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "i",
-"quick_gloss": "thus"
-},
-{
-"surface": "...........",
-"quick_gloss": "..........."
-},
-{
-"surface": "ḍādhyāyed",
-"quick_gloss": "one-should-meditate"
-},
-{
-"surface": "acirāt",
-"quick_gloss": "in-not-long-time"
-},
-{
-"surface": "tatsamo",
-"quick_gloss": "equal-to-that"
-},
-{
-"surface": "bhavet",
-"quick_gloss": "one-becomes"
-}
-]
-},
-{
-"verse_id": "kjn-p28-v677",
-"song": "kjn-p28",
-"verse": 677,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "candradvīpa",
-"quick_gloss": "in-candradvīpa"
-},
-{
-"surface": "vinirgate",
-"quick_gloss": "emerged"
-},
-{
-"surface": "caturviṃśatitamaḥ",
-"quick_gloss": "twenty-fourth"
-},
-{
-"surface": "paṭalaḥ",
-"quick_gloss": "chapter"
-}
-]
-},
-{
-"verse_id": "kjn-p28-v678",
-"song": "kjn-p28",
-"verse": 678,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "siddhānāṃ",
-"quick_gloss": "of-siddhas"
-},
-{
-"surface": "yoginīnāṃ",
-"quick_gloss": "of-yoginīs"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "hṛdayaṃ",
-"quick_gloss": "heart"
-},
-{
-"surface": "para",
-"quick_gloss": "supreme"
-},
-{
-"surface": "durlabham",
-"quick_gloss": "difficult-to-obtain"
-}
-]
-},
-{
-"verse_id": "kjn-p28-v679",
-"song": "kjn-p28",
-"verse": 679,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "samyag",
-"quick_gloss": "properly"
-},
-{
-"surface": "etad",
-"quick_gloss": "this"
-},
-{
-"surface": "mayā",
-"quick_gloss": "by-me"
-},
-{
-"surface": "bhadre",
-"quick_gloss": "o-lady"
-},
-{
-"surface": "aprakāśyaṃ",
-"quick_gloss": "not-to-be-revealed"
-},
-{
-"surface": "prakāśitam",
-"quick_gloss": "revealed"
-}
-]
-},
-{
-"verse_id": "kjn-p28-v680",
-"song": "kjn-p28",
-"verse": 680,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "jñānasya",
-"quick_gloss": "of-knowledge"
-},
-{
-"surface": "nirṇaye",
-"quick_gloss": "in-determination"
-},
-{
-"surface": "sāraṃ",
-"quick_gloss": "essence"
-},
-{
-"surface": "nāmnā",
-"quick_gloss": "by-name"
-},
-{
-"surface": "sāhasrikaṃ",
-"quick_gloss": "sāhasrika"
-},
-{
-"surface": "matam",
-"quick_gloss": "considered"
-}
-]
-}
+ {
+  "verse_id": "kjn-p28-v676",
+  "song": "kjn-p28",
+  "verse": 676,
+  "quick_english": "Thus ... one should meditate; in not long time one becomes equal to that.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "i",
+    "quick_gloss": "thus",
+    "grounds": "indeclinable particle"
+   },
+   {
+    "surface": "...........",
+    "quick_gloss": "ellipsis",
+    "grounds": "token given as ellipsis"
+   },
+   {
+    "surface": "ḍādhyāyed",
+    "quick_gloss": "one-should-meditate",
+    "grounds": "optative form"
+   },
+   {
+    "surface": "acirāt",
+    "quick_gloss": "in-not-long-time",
+    "grounds": "ablative of acira"
+   },
+   {
+    "surface": "tatsamo",
+    "quick_gloss": "equal-to-that",
+    "grounds": "compound adjective"
+   },
+   {
+    "surface": "bhavet",
+    "quick_gloss": "one-becomes",
+    "grounds": "optative of bhū"
+   }
+  ]
+ },
+ {
+  "verse_id": "kjn-p28-v677",
+  "song": "kjn-p28",
+  "verse": 677,
+  "quick_english": "After Candradvīpa emerged, the twenty-fourth chapter.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "candradvīpa",
+    "quick_gloss": "in-candradvīpa",
+    "grounds": "locative compound"
+   },
+   {
+    "surface": "vinirgate",
+    "quick_gloss": "emerged",
+    "grounds": "past participle in locative"
+   },
+   {
+    "surface": "caturviṃśatitamaḥ",
+    "quick_gloss": "twenty-fourth",
+    "grounds": "ordinal adjective"
+   },
+   {
+    "surface": "paṭalaḥ",
+    "quick_gloss": "chapter",
+    "grounds": "nominative singular"
+   }
+  ]
+ },
+ {
+  "verse_id": "kjn-p28-v678",
+  "song": "kjn-p28",
+  "verse": 678,
+  "quick_english": "The supreme heart of siddhas and yoginīs is difficult to obtain.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "siddhānāṃ",
+    "quick_gloss": "of-siddhas",
+    "grounds": "genitive plural"
+   },
+   {
+    "surface": "yoginīnāṃ",
+    "quick_gloss": "of-yoginīs",
+    "grounds": "genitive plural"
+   },
+   {
+    "surface": "ca",
+    "quick_gloss": "and",
+    "grounds": "conjunction"
+   },
+   {
+    "surface": "hṛdayaṃ",
+    "quick_gloss": "heart",
+    "grounds": "nominative or accusative singular"
+   },
+   {
+    "surface": "para",
+    "quick_gloss": "supreme",
+    "grounds": "adjective"
+   },
+   {
+    "surface": "durlabham",
+    "quick_gloss": "difficult-to-obtain",
+    "grounds": "adjective"
+   }
+  ]
+ },
+ {
+  "verse_id": "kjn-p28-v679",
+  "song": "kjn-p28",
+  "verse": 679,
+  "quick_english": "This, though not to be revealed, has been properly revealed by me, O lady.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "samyag",
+    "quick_gloss": "properly",
+    "grounds": "adverb"
+   },
+   {
+    "surface": "etad",
+    "quick_gloss": "this",
+    "grounds": "demonstrative pronoun"
+   },
+   {
+    "surface": "mayā",
+    "quick_gloss": "by-me",
+    "grounds": "instrumental singular"
+   },
+   {
+    "surface": "bhadre",
+    "quick_gloss": "o-lady",
+    "grounds": "vocative singular"
+   },
+   {
+    "surface": "aprakāśyaṃ",
+    "quick_gloss": "not-to-be-revealed",
+    "grounds": "adjective"
+   },
+   {
+    "surface": "prakāśitam",
+    "quick_gloss": "revealed",
+    "grounds": "past participle"
+   }
+  ]
+ },
+ {
+  "verse_id": "kjn-p28-v680",
+  "song": "kjn-p28",
+  "verse": 680,
+  "quick_english": "In the determination of knowledge, the essence called sāhasrika is considered.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "jñānasya",
+    "quick_gloss": "of-knowledge",
+    "grounds": "genitive singular"
+   },
+   {
+    "surface": "nirṇaye",
+    "quick_gloss": "in-determination",
+    "grounds": "locative singular"
+   },
+   {
+    "surface": "sāraṃ",
+    "quick_gloss": "essence",
+    "grounds": "nominative or accusative singular"
+   },
+   {
+    "surface": "nāmnā",
+    "quick_gloss": "by-name",
+    "grounds": "instrumental singular"
+   },
+   {
+    "surface": "sāhasrikaṃ",
+    "quick_gloss": "sāhasrika",
+    "grounds": "adjective"
+   },
+   {
+    "surface": "matam",
+    "quick_gloss": "considered",
+    "grounds": "past participle"
+   }
+  ]
+ }
 ]

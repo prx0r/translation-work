@@ -13,14 +13,14 @@
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "gerund/absolute of root jñā",
-     "morph": "(indecl.)"
+     "grounds": "absolutive form of root jñā",
+     "morph": "abs (root jñā)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound accusative singular masculine object of jñātvā",
-     "morph": "m.acc.sg"
+     "grounds": "compound in accusative singular masculine",
+     "morph": "m.acc.sg (compound)"
     },
     {
      "surface": "sarvajñatvam",
@@ -31,18 +31,19 @@
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb pra-jan in third singular ātmanepada present",
-     "morph": "3.sg.ātm.-pres, root jan"
+     "grounds": "middle voice present third singular of root jan",
+     "morph": "3.sg.mid-pres (root jan)"
     }
    ],
-   "question": "What arises when the hidden true nature is known?",
+   "question": "What arises when hidden true nature is known?",
    "premises": [
-    "Knowing hidden true nature produces all-knowingness.",
-    "All-knowingness arises after realization."
+    "Hidden true nature is known.",
+    "All-knowingness then arises.",
+    "Knowledge transforms into omniscience."
    ],
-   "inference": "Realization of concealed true nature gives omniscience.",
+   "inference": "Knowing hidden true nature gives rise to all-knowingness.",
    "uncertainties": [
-    "The accusative gūḍhasadbhāvaṃ is the object of jñātvā; its exact referent is not specified in this verse."
+    "Compound parsing of gūḍhasadbhāvaṃ is not fully certain."
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }

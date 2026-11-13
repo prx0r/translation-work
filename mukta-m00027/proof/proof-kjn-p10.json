@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kjn-p10",
+ "work": "mukta-m00027",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "4fb86a68729133ad",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 168
+ },
+ "align": {
+  "min_ratio": 0.914,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "The self stands on one foot surrounded by fire."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 46,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 168,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "3b97f2906dcbef67f7dc9a719c35a4179414a669bf432b4e6e63b9eb25191dea",
+  "l0": "4f987f03a8a1d8aeb2d24babd6a1a98cc68c5563dae4c5745b97029d6317ffd2",
+  "argmap": "ecc4bf21c53ec1d85b794b1561442a8b0e4c65b6ffcf43f1b75ff30aef434372",
+  "l2": "a758c19143dd755c781900e2b415f20417a953216ca13b9966d29f77f17f3fc5",
+  "c1": "2c9eebe9b2c66010b8ea89a5fbc2517a513dd58823f2ddd397d7ebfa4ae50a74"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "4fb86a68729133ad",
+  "t1": "kjn-p10/data/kjn-p10.t1.json",
+  "l0": "kjn-p10/data/kjn-p10.l0.json",
+  "l2": "kjn-p10/data/kjn-p10.l2.json",
+  "c1": "kjn-p10/data/kjn-p10.c1.json"
+ }
+}

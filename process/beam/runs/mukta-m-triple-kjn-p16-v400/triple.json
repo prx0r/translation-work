@@ -7,40 +7,39 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "forehead-syllable-mass-situated",
-     "grounds": "fused compound; final -ṃ marks accusative/neuter singular; internal sandhi not split",
-     "morph": "compound = lalāṭa+varṇa+rāśi+sthaṃ"
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numeral in accusative singular",
-     "morph": "m.acc.sg.n"
+     "grounds": "numeral in accusative singular neuter",
+     "morph": "num.acc.sg.n"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "verbal adjective/absolutive from root kṛ",
-     "morph": "absolutive (kṛ)"
+     "grounds": "absolutive of root kṛ",
+     "morph": "absolutive"
     },
     {
      "surface": "sura+arcite",
      "gloss": "god-worshipped",
-     "grounds": "fused compound in vocative singular masculine",
-     "morph": "voc.sg.m"
+     "grounds": "compound adjective describing divine worship",
+     "morph": "adj"
     }
    ],
-   "question": "What must be done with the forehead syllable mass after hundred thousand repetitions for the god-worshipped rite?",
+   "question": "What must be done with the forehead syllable mass after a hundred thousand repetitions to be worshipped by gods?",
    "premises": [
     "Forehead syllable mass is situated.",
-    "Hundred thousand repetitions are required.",
-    "The rite is for god-worshipped."
+    "Hundred thousand repetitions are done.",
+    "Result is worshipped by gods."
    ],
-   "inference": "The verse prescribes completing hundred thousand repetitions of the forehead syllable mass for the god-worshipped rite.",
+   "inference": "Doing a hundred thousand repetitions of the forehead syllable mass leads to being worshipped by the gods.",
    "uncertainties": [
-    "Exact grammatical case of the compound is inferred.",
-    "The verse fragment may depend on prior context."
+    "Exact ritual object and grammatical case of sura+arcite remain unclear."
    ],
-   "plain_english": "Having done one hundred thousand [repetitions] of the syllable mass situated on the forehead, O god-worshipped..."
+   "plain_english": "Having done a hundred thousand repetitions of the syllable mass situated on the forehead, one becomes worshipped by the gods."
   }
  ]
 }

@@ -86,121 +86,96 @@
  "mv-k04": {
   "540": "paratext-scope: transmitted lacuna dots + danda splits + AgMsv tag excluded from T1 per paratext rule (contract: paratext never enters T1) — T1 carries the mula only; post-lacuna verse"
  },
- "kul-p26": {
-  "648": "sandhi-only: 0.854 from joint-density (2 print tokens -> 5 pada words: darśayet+dhenumudrāṃ+ca, dravyaśuddhiḥ+itīritā); order verified token-by-token vs source 2026-11-13 + ca gloss fixed ca->and to match song convention"
- },
  "kul-p02": {
-  "26": "sandhi-only: proof ratio 0.894 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.909)",
-  "27": "sandhi-only: proof ratio 0.884 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.911)",
-  "30": "sandhi-only: proof ratio 0.875 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
-  "37": "sandhi-only: proof ratio 0.871 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
+  "26": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.909)",
+  "27": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.911)",
+  "30": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
+  "37": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
  },
  "kul-p03": {
-  "55": "sandhi-only: proof ratio 0.875 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)",
-  "56": "sandhi-only: proof ratio 0.897 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.964)",
-  "57": "sandhi-only: proof ratio 0.867 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.966)"
- },
- "kul-p08": {
-  "184": "sandhi-only: proof ratio 0.878 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.884)",
-  "193": "sandhi-only: proof ratio 0.894 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.899)",
-  "195": "sandhi-only: proof ratio 0.857 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.854)"
+  "55": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)",
+  "56": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.964)",
+  "57": "sandhi/orthographic joints only: proof ratio 0.867 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.966)"
  },
  "kul-p12": {
-  "278": "sandhi-only: proof ratio 0.804 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.796)",
-  "280": "sandhi-only: proof ratio 0.837 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.829)",
-  "282": "sandhi-only: proof ratio 0.863 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.879)",
-  "283": "sandhi-only: proof ratio 0.884 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.868)",
-  "284": "sandhi-only: proof ratio 0.869 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.862)",
-  "289": "sandhi-only: proof ratio 0.886 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.882)",
-  "290": "sandhi-only: proof ratio 0.783 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.793)",
-  "292": "sandhi-only: proof ratio 0.878 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)",
-  "294": "sandhi-only: proof ratio 0.857 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)",
-  "295": "sandhi-only: proof ratio 0.816 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.817)",
-  "299": "sandhi-only: proof ratio 0.796 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.804)"
+  "278": "sandhi/orthographic joints only: proof ratio 0.804 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.796)",
+  "289": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.882)",
+  "294": "sandhi/orthographic joints only: proof ratio 0.857 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.86)"
  },
  "kul-p17": {
-  "404": "sandhi-only: proof ratio 0.892 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.974)",
-  "406": "sandhi-only: proof ratio 0.831 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)",
-  "407": "sandhi-only: proof ratio 0.878 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)",
-  "408": "sandhi-only: proof ratio 0.835 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.962)"
+  "404": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.974)",
+  "406": "sandhi/orthographic joints only: proof ratio 0.831 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)",
+  "407": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)",
+  "408": "sandhi/orthographic joints only: proof ratio 0.835 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.962)"
+ },
+ "kul-p26": {
+  "648": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.851)"
  },
  "kul-p30": {
-  "732": "sandhi-only: proof ratio 0.88 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.872)"
+  "732": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.872)"
  },
  "kul-p38": {
-  "940": "sandhi-only: proof ratio 0.897 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.905)"
+  "940": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.905)"
  },
  "kul-p42": {
-  "1036": "sandhi-only: proof ratio 0.864 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.932)",
-  "1043": "sandhi-only: proof ratio 0.818 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)"
+  "1036": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.932)",
+  "1043": "sandhi/orthographic joints only: proof ratio 0.818 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)"
  },
  "kul-p43": {
-  "1065": "sandhi-only: proof ratio 0.821 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.833)",
-  "1070": "sandhi-only: proof ratio 0.897 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.891)"
- },
- "kul-p48": {
-  "1178": "sandhi-only: proof ratio 0.871 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.87)",
-  "1182": "sandhi-only: proof ratio 0.781 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.79)",
-  "1183": "sandhi-only: proof ratio 0.854 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)",
-  "1189": "sandhi-only: proof ratio 0.867 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.897)",
-  "1190": "sandhi-only: proof ratio 0.792 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.804)"
+  "1065": "sandhi/orthographic joints only: proof ratio 0.821 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.833)"
  },
  "kul-p50": {
-  "1239": "sandhi-only: proof ratio 0.883 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.927)"
+  "1239": "sandhi/orthographic joints only: proof ratio 0.883 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.927)"
  },
  "kul-p55": {
-  "1354": "sandhi-only: proof ratio 0.847 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)",
-  "1358": "sandhi-only: proof ratio 0.882 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)",
-  "1360": "sandhi-only: proof ratio 0.851 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)",
-  "1362": "sandhi-only: proof ratio 0.897 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.978)",
-  "1363": "sandhi-only: proof ratio 0.871 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
+  "1354": "sandhi/orthographic joints only: proof ratio 0.847 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.929)",
+  "1358": "sandhi/orthographic joints only: proof ratio 0.882 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.944)",
+  "1360": "sandhi/orthographic joints only: proof ratio 0.851 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)",
+  "1362": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.978)",
+  "1363": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.976)"
  },
  "kul-p57": {
-  "1414": "sandhi-only: proof ratio 0.88 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
+  "1414": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
  },
  "kul-p58": {
-  "1449": "sandhi-only: proof ratio 0.886 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.95)"
+  "1449": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.95)"
  },
  "kul-p59": {
-  "1468": "sandhi-only: proof ratio 0.866 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.854)"
+  "1468": "sandhi/orthographic joints only: proof ratio 0.866 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.854)"
  },
  "kul-p63": {
-  "1555": "sandhi-only: proof ratio 0.895 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.986)",
-  "1567": "sandhi-only: proof ratio 0.886 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.975)",
-  "1570": "sandhi-only: proof ratio 0.881 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.94)"
+  "1555": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.986)",
+  "1567": "sandhi/orthographic joints only: proof ratio 0.886 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.975)",
+  "1570": "sandhi/orthographic joints only: proof ratio 0.881 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.94)"
  },
  "kul-p65": {
-  "1602": "sandhi-only: proof ratio 0.894 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)",
-  "1603": "sandhi-only: proof ratio 0.894 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.936)",
-  "1610": "sandhi-only: proof ratio 0.79 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.787)",
-  "1614": "sandhi-only: proof ratio 0.889 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
-  "1615": "sandhi-only: proof ratio 0.86 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.87)",
-  "1623": "sandhi-only: proof ratio 0.854 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)"
+  "1602": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)",
+  "1603": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.936)",
+  "1610": "sandhi/orthographic joints only: proof ratio 0.79 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.787)",
+  "1614": "sandhi/orthographic joints only: proof ratio 0.889 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)",
+  "1615": "sandhi/orthographic joints only: proof ratio 0.86 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.87)",
+  "1623": "sandhi/orthographic joints only: proof ratio 0.854 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)"
  },
  "kul-p73": {
-  "1813": "sandhi-only: proof ratio 0.899 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)",
-  "1814": "sandhi-only: proof ratio 0.875 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.938)"
- },
- "kul-p75": {
-  "1868": "sandhi-only: proof ratio 0.854 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.893)",
-  "1874": "sandhi-only: proof ratio 0.83 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.84)"
+  "1813": "sandhi/orthographic joints only: proof ratio 0.899 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)",
+  "1814": "sandhi/orthographic joints only: proof ratio 0.875 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.938)"
  },
  "kul-p80": {
-  "1977": "sandhi-only: proof ratio 0.868 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.881)",
-  "1979": "sandhi-only: proof ratio 0.876 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)",
-  "1982": "sandhi-only: proof ratio 0.876 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.914)",
-  "1983": "sandhi-only: proof ratio 0.882 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.928)",
-  "1984": "sandhi-only: proof ratio 0.861 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)",
-  "1986": "sandhi-only: proof ratio 0.878 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)",
-  "1988": "sandhi-only: proof ratio 0.894 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)",
-  "1990": "sandhi-only: proof ratio 0.878 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)",
-  "1991": "sandhi-only: proof ratio 0.871 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.891)",
-  "1993": "sandhi-only: proof ratio 0.872 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.892)",
-  "1997": "sandhi-only: proof ratio 0.892 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)",
-  "2000": "sandhi-only: proof ratio 0.85 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)"
+  "1977": "sandhi/orthographic joints only: proof ratio 0.868 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.881)",
+  "1979": "sandhi/orthographic joints only: proof ratio 0.876 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)",
+  "1982": "sandhi/orthographic joints only: proof ratio 0.876 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.914)",
+  "1983": "sandhi/orthographic joints only: proof ratio 0.882 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.928)",
+  "1984": "sandhi/orthographic joints only: proof ratio 0.861 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)",
+  "1986": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)",
+  "1988": "sandhi/orthographic joints only: proof ratio 0.894 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.907)",
+  "1990": "sandhi/orthographic joints only: proof ratio 0.878 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)",
+  "1991": "sandhi/orthographic joints only: proof ratio 0.871 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.891)",
+  "1993": "sandhi/orthographic joints only: proof ratio 0.872 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.892)",
+  "1997": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.913)",
+  "2000": "sandhi/orthographic joints only: proof ratio 0.85 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.894)"
  },
  "kul-p83": {
-  "2055": "sandhi-only: proof ratio 0.896 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.97)",
-  "2063": "sandhi-only: proof ratio 0.897 from pada-split vs saṃhitā print (sandhi/orthographic joints); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
+  "2055": "sandhi/orthographic joints only: proof ratio 0.896 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.97)",
+  "2063": "sandhi/orthographic joints only: proof ratio 0.897 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 1.0)"
  }
 }
