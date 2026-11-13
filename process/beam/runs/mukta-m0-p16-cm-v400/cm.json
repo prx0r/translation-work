@@ -3,29 +3,34 @@
  "verse": 400,
  "rows": [
   {
-   "lemma": "brahmavidyā",
-   "morph": "compound(brahman+vidyā).f.nom.sg",
-   "grounds": "tatpuruṣa compound identifying Kālī's essential nature"
+   "lemma": "sarva+sthāneṣu",
+   "morph": "compound sarva+sthāna.loc.pl.nt",
+   "grounds": "compound locative plural indicating every location without exception"
   },
   {
-   "lemma": "svarūpā",
-   "morph": "compound(sva+rūpa).f.nom.sg",
-   "grounds": "bahuvrīhi compound meaning 'whose very nature is'; predicate of sā"
+   "lemma": "sarvatra",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable adverb reinforcing universality of place"
   },
   {
-   "lemma": "sā",
-   "morph": "pron.f.nom.sg",
-   "grounds": "anaphoric pronoun referring to Kālī named in the previous verse"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle denying the presence of distinction"
   },
   {
-   "lemma": "bhuktimukti",
-   "morph": "compound(bhukti+mukti)",
-   "grounds": "dvandva compound denoting the two goals; first member of phalapradā"
+   "lemma": "viśeṣaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object denoting difference or special condition"
   },
   {
-   "lemma": "phalapradā",
-   "morph": "compound(phala+pradā).f.nom.sg",
-   "grounds": "compound with agentive final member pradā; predicate describing Kālī"
+   "lemma": "kvacid",
+   "morph": "(indecl.)",
+   "grounds": "indefinite adverb extending negation to any place"
+  },
+  {
+   "lemma": "bhavet",
+   "morph": "3.sg.optative-act √bhū",
+   "grounds": "optative expressing prescribed absence of distinction"
   }
  ]
 }

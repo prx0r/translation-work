@@ -1,0 +1,1374 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipro",
+     "gloss": "priest",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "svagātra",
+     "gloss": "own-body",
+     "grounds": "source of offering; compound",
+     "morph": "sva+gātra (compound)"
+    },
+    {
+     "surface": "rudhiraṃ",
+     "gloss": "blood",
+     "grounds": "substance offered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "should-give",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.act-optative √dā"
+    }
+   ],
+   "question": "What offering should a priest make to the goddess?",
+   "premises": [
+    "A priest is the ritual agent",
+    "The goddess is the recipient",
+    "One's own blood is the prescribed offering"
+   ],
+   "inference": "The priest should offer his own blood to the goddess",
+   "uncertainties": [],
+   "plain_english": "Thus a priest should give his own body's blood to the goddess."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "śaktināśaḥ",
+     "gloss": "power-loss",
+     "grounds": "consequence named; compound",
+     "morph": "śakti+nāśa (compound, m.nom.sg)"
+    },
+    {
+     "surface": "vikāro",
+     "gloss": "alteration",
+     "grounds": "bodily change",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'sti",
+     "gloss": "is",
+     "grounds": "asserts occurrence",
+     "morph": "3.sg.act-present √as"
+    },
+    {
+     "surface": "svadeha",
+     "gloss": "own-body",
+     "grounds": "source; compound",
+     "morph": "sva+deha (compound)"
+    },
+    {
+     "surface": "rudhira",
+     "gloss": "blood",
+     "grounds": "substance offered; compound member",
+     "morph": "rudhira (compound member)"
+    },
+    {
+     "surface": "arpaṇe",
+     "gloss": "in-offering",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What consequences arise from offering one's own bodily blood?",
+   "premises": [
+    "Offering involves one's own body blood",
+    "Loss of power occurs in this offering",
+    "Bodily alteration occurs in this offering"
+   ],
+   "inference": "Offering one's own blood causes loss of power and bodily alteration",
+   "uncertainties": [],
+   "plain_english": "In the offering of one's own body's blood, there is loss of power and alteration."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "śuddhi",
+     "gloss": "purification",
+     "grounds": "ritual process; compound member",
+     "morph": "śuddhi (compound member)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates series; compound member",
+     "morph": "ādi (compound member)"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "totality of practices",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "addressed deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vyañjakasya",
+     "gloss": "of-manifester",
+     "grounds": "agent or means of manifestation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "aparārdhakam",
+     "gloss": "first-half",
+     "grounds": "portion of a process or formula",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual elements constitute the first half belonging to the manifester?",
+   "premises": [
+    "Purification and related acts are included",
+    "These acts form a complete set",
+    "This set is the first half of the manifester"
+   ],
+   "inference": "Purification and all related acts constitute the manifester's first half",
+   "uncertainties": [
+    "The precise referent of vyañjakasya is context-dependent"
+   ],
+   "plain_english": "O goddess, purification and all such acts are the first half of the manifester."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "bhairavāya",
+     "gloss": "to-bhairava",
+     "grounds": "recipient or goal",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dvitīyena",
+     "gloss": "by-second",
+     "grounds": "second part or means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śivatvañ",
+     "gloss": "śiva-ness",
+     "grounds": "state attained; sandhi form of śivatvam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyakam",
+     "gloss": "third",
+     "grounds": "third part",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What states are attained through the second and third parts directed to Bhairava?",
+   "premises": [
+    "The second part leads to Śiva-ness",
+    "The third part is also specified",
+    "Both are directed to Bhairava"
+   ],
+   "inference": "Through the second part one attains Śiva-ness, and the third part follows in relation to Bhairava",
+   "uncertainties": [
+    "The exact function of tṛtīyakam as subject or object is compressed"
+   ],
+   "plain_english": "By the second, Śiva-ness is for Bhairava, and the third as well."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "pareṇa",
+     "gloss": "by-supreme",
+     "grounds": "highest means or part",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "paratāṃ",
+     "gloss": "supremacy",
+     "grounds": "highest state attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "attainment",
+     "morph": "3.sg.act-present √yā"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's standard",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "tulyo",
+     "gloss": "equal",
+     "grounds": "identity of status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty asserted",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ultimate state is reached through the supreme part?",
+   "premises": [
+    "The supreme part leads to supremacy",
+    "One who reaches it becomes equal to me",
+    "There is no doubt about this"
+   ],
+   "inference": "Through the supreme part one attains supremacy and becomes equal to the speaker",
+   "uncertainties": [],
+   "plain_english": "By the supreme one attains supremacy and becomes equal to me; there is no doubt."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "jāyante",
+     "gloss": "are-born",
+     "grounds": "coming into being",
+     "morph": "3.pl.mid-present √jan"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavās",
+     "gloss": "bhairavas",
+     "grounds": "divine beings; sandhi form of bhairavāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "referent group",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "veśās",
+     "gloss": "in-disguise",
+     "grounds": "outward appearance; sandhi form of veśāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tat+sama",
+     "gloss": "equal-to-that",
+     "grounds": "likeness in vision; compound",
+     "morph": "tat+sama (compound)"
+    },
+    {
+     "surface": "darśinaḥ",
+     "gloss": "seers",
+     "grounds": "those with a certain vision",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are those with equal vision not truly born as Bhairavas?",
+   "premises": [
+    "They are not born as Bhairavas",
+    "They appear in disguise",
+    "They possess vision equal to that"
+   ],
+   "inference": "Those with equal vision are not truly born Bhairavas but appear as such in disguise",
+   "uncertainties": [
+    "The exact referent of tat in tat-sama is implicit"
+   ],
+   "plain_english": "They are not born as Bhairavas; they are in disguise, seers with vision equal to that."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "comparison or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "by-māyā",
+     "grounds": "obscuring power; compound member",
+     "morph": "māyā (compound member)"
+    },
+    {
+     "surface": "āvṛte",
+     "gloss": "covered",
+     "grounds": "state of concealment",
+     "morph": "n.loc.sg (past participle √vṛ)"
+    },
+    {
+     "surface": "vṛtte",
+     "gloss": "being-so",
+     "grounds": "prevailing condition",
+     "morph": "n.loc.sg (past participle √vṛt)"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "illuminating means; compound member",
+     "morph": "jñāna (compound member)"
+    },
+    {
+     "surface": "dīpena",
+     "gloss": "by-lamp",
+     "grounds": "metaphor for illumination",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "revelation",
+     "morph": "3.sg.pass-present √dṛś"
+    },
+    {
+     "surface": "[hanyate]",
+     "gloss": "is-destroyed",
+     "grounds": "removal of covering; editorial bracket",
+     "morph": "3.sg.pass-present √han"
+    }
+   ],
+   "question": "How is reality revealed when covered by māyā?",
+   "premises": [
+    "A condition covered by māyā prevails",
+    "The lamp of knowledge is applied",
+    "What is covered is seen and destroyed"
+   ],
+   "inference": "The lamp of knowledge reveals and destroys what is covered by māyā",
+   "uncertainties": [
+    "The bracketed [hanyate] may be an editorial restoration"
+   ],
+   "plain_english": "Thus, when covered by māyā, it is seen by the lamp of knowledge and is destroyed."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "jīvan",
+     "gloss": "living",
+     "grounds": "while alive; present participle",
+     "morph": "m.nom.sg (present participle √jīv)"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "liberated",
+     "grounds": "state of freedom",
+     "morph": "m.nom.sg (past participle √muc)"
+    },
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "embodied condition; compound member",
+     "morph": "deha (compound member)"
+    },
+    {
+     "surface": "bhāvo",
+     "gloss": "state",
+     "grounds": "mode of existence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "physical body; compound member",
+     "morph": "deha (compound member)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "time of death",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣemam",
+     "gloss": "welfare",
+     "grounds": "final good",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "attainment",
+     "morph": "3.sg.act-optative √āp"
+    }
+   ],
+   "question": "What final welfare is attained by one liberated while living?",
+   "premises": [
+    "One can be liberated while living in the body",
+    "The body comes to an end",
+    "Final welfare is obtained at that end"
+   ],
+   "inference": "One liberated while living obtains final welfare at the end of the body",
+   "uncertainties": [],
+   "plain_english": "Liberated while living in the body-state, one may obtain welfare at the end of the body."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "ultimate reality; compound member",
+     "morph": "brahma (compound member)"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "contemplative practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "addressed deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "ultimate reality; compound member",
+     "morph": "brahma (compound member)"
+    },
+    {
+     "surface": "nirvāṇa",
+     "gloss": "liberation",
+     "grounds": "final release; compound member",
+     "morph": "nirvāṇa (compound member)"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "causal factor",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the cause of liberation in Brahman according to this teaching?",
+   "premises": [
+    "Meditation on Brahman is taught",
+    "Liberation in Brahman is the goal",
+    "Meditation is identified as the cause"
+   ],
+   "inference": "Meditation on Brahman is the cause of liberation in Brahman",
+   "uncertainties": [],
+   "plain_english": "O great goddess, meditation on Brahman is the cause of liberation in Brahman."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "svakīya",
+     "gloss": "own",
+     "grounds": "belonging to oneself; compound member",
+     "morph": "svakīya (compound member)"
+    },
+    {
+     "surface": "jīva",
+     "gloss": "individual-soul",
+     "grounds": "embodied self; compound member",
+     "morph": "jīva (compound member)"
+    },
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "physical form; compound member",
+     "morph": "deha (compound member)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates series; compound member",
+     "morph": "ādi (compound member)"
+    },
+    {
+     "surface": "brahmāṇḍo",
+     "gloss": "universe",
+     "grounds": "cosmic totality; sandhi form of brahmāṇḍaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'nanta",
+     "gloss": "endless",
+     "grounds": "without limit; sandhi form of ananta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should one's own body and the universe be regarded in extent?",
+   "premises": [
+    "One's own soul, body, and so forth are mentioned",
+    "The universe is mentioned",
+    "The universe is described as endless"
+   ],
+   "inference": "One's own body and related things are encompassed within an endless universe",
+   "uncertainties": [
+    "The syntactic relation between the listed items and brahmāṇḍaḥ is compressed"
+   ],
+   "plain_english": "One's own soul, body, and so forth, and the universe are indeed endless."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintanīyaṃ",
+     "gloss": "to-be-thought",
+     "grounds": "object of thought",
+     "morph": "n.nom.sg (gerundive √cint)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "referent",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "existence denied",
+     "morph": "3.sg.act-present √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks contemplation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paribhāvayet",
+     "gloss": "one-should-regard",
+     "grounds": "prescribed contemplation",
+     "morph": "3.sg.act-optative √bhū (with pari)"
+    }
+   ],
+   "question": "How should one contemplate the totality of perceived things?",
+   "premises": [
+    "All that is not to be thought as ultimately real",
+    "One should regard it as not existing",
+    "This contemplation is prescribed"
+   ],
+   "inference": "One should contemplate all that as not existing",
+   "uncertainties": [],
+   "plain_english": "One should not think of all that; one should regard it as not existing."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker's identity",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāla",
+     "gloss": "net",
+     "grounds": "pervasive form; compound member",
+     "morph": "jāla (compound member)"
+    },
+    {
+     "surface": "rūpaś",
+     "gloss": "form",
+     "grounds": "nature; sandhi form of rūpaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhāra",
+     "gloss": "support",
+     "grounds": "foundation; compound member",
+     "morph": "ādhāra (compound member)"
+    },
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "supporting body; compound member",
+     "morph": "deha (compound member)"
+    },
+    {
+     "surface": "varjitaḥ",
+     "gloss": "devoid",
+     "grounds": "absence of supporting body",
+     "morph": "m.nom.sg (past participle √vṛj)"
+    }
+   ],
+   "question": "What is the true nature of the self beyond bodily support?",
+   "premises": [
+    "The self is identified as I alone",
+    "The self has the form of a net",
+    "The self is devoid of a supporting body"
+   ],
+   "inference": "The self alone is of net-like form and devoid of a supporting body",
+   "uncertainties": [
+    "The metaphor jāla-rūpaḥ admits multiple interpretations"
+   ],
+   "plain_english": "I alone am of the form of a net and devoid of a supporting body."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "ultimate reality; compound member",
+     "morph": "brahma (compound member)"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "contemplative practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "refers to stated contemplation",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "authoritative teaching",
+     "morph": "n.nom.sg (past participle √vac)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "same practice",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "sthira",
+     "gloss": "steadfast",
+     "grounds": "stability; compound member",
+     "morph": "sthira (compound member)"
+    },
+    {
+     "surface": "tarāya",
+     "gloss": "for-more",
+     "grounds": "purpose of greater steadiness",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose is this meditation on Brahman declared?",
+   "premises": [
+    "This meditation on Brahman has been declared",
+    "It is intended for greater steadiness",
+    "The teaching affirms its purpose"
+   ],
+   "inference": "This meditation on Brahman is declared for greater steadfastness",
+   "uncertainties": [],
+   "plain_english": "This meditation on Brahman has been declared, and it is for greater steadfastness."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "kṣaṇaṃ",
+     "gloss": "for-a-moment",
+     "grounds": "brief duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "ultimate reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "self-identification",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "asmi",
+     "gloss": "am",
+     "grounds": "assertion of identity",
+     "morph": "1.sg.act-present √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks contemplation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "practitioner",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "prescribed act",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "object of contemplation; compound member",
+     "morph": "ātma (compound member)"
+    },
+    {
+     "surface": "cintanam",
+     "gloss": "contemplation",
+     "grounds": "meditative act",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What brief contemplation of self-identity is prescribed for the practitioner?",
+   "premises": [
+    "The contemplation is done for a moment",
+    "The content is 'I am Brahman'",
+    "Whoever performs this self-contemplation is indicated"
+   ],
+   "inference": "One should perform for a moment the self-contemplation 'I am Brahman'",
+   "uncertainties": [],
+   "plain_english": "Whoever should, for a moment, perform the self-contemplation 'I am Brahman'..."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaṇā",
+     "gloss": "by-brahmā",
+     "grounds": "agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇunā",
+     "gloss": "by-viṣṇu",
+     "grounds": "agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "in-any-way",
+     "grounds": "by any means",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By whom might the prescribed act be performed in any way?",
+   "premises": [
+    "The speaker is named as a possible agent",
+    "Brahmā is named as a possible agent",
+    "Viṣṇu is named as a possible agent"
+   ],
+   "inference": "The act may be performed in any way by me, or by Brahmā, or by Viṣṇu",
+   "uncertainties": [
+    "This verse is syntactically dependent on the preceding or following context"
+   ],
+   "plain_english": "By me, or by Brahmā, or also by Viṣṇu, in any way..."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "dravya",
+     "gloss": "substance",
+     "grounds": "ritual material; compound member",
+     "morph": "dravya (compound member)"
+    },
+    {
+     "surface": "abhāve",
+     "gloss": "in-absence",
+     "grounds": "lack of material",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "addressed deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "substitute material",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.act-optative √car (with sam-ā)"
+    }
+   ],
+   "question": "What substitute material may be used when ritual substances are unavailable?",
+   "premises": [
+    "Ritual substances may be absent",
+    "Water is available as a substitute",
+    "The practice should still be performed"
+   ],
+   "inference": "In the absence of substances, one should perform the practice even with water",
+   "uncertainties": [],
+   "plain_english": "O great goddess, in the absence of substances, one should perform it even with water."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "vakṣye",
+     "gloss": "i-shall-tell",
+     "grounds": "announcement of teaching",
+     "morph": "1.sg.mid-future √vac"
+    },
+    {
+     "surface": "ayuta",
+     "gloss": "ten-thousand",
+     "grounds": "number; compound member",
+     "morph": "ayuta (compound member)"
+    },
+    {
+     "surface": "vidhiṃ",
+     "gloss": "method",
+     "grounds": "ritual procedure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fair-one",
+     "grounds": "addressed goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "listen",
+     "grounds": "command to attend",
+     "morph": "2.sg.mid-imperative √śru"
+    },
+    {
+     "surface": "kamala",
+     "gloss": "lotus",
+     "grounds": "metaphor; compound member",
+     "morph": "kamala (compound member)"
+    },
+    {
+     "surface": "ānane",
+     "gloss": "faced-one",
+     "grounds": "addressed goddess; compound member",
+     "morph": "f.voc.sg (compound)"
+    }
+   ],
+   "question": "What ritual method is the speaker about to teach the goddess?",
+   "premises": [
+    "The speaker announces a teaching",
+    "The method involves ten thousand",
+    "The goddess is asked to listen"
+   ],
+   "inference": "The speaker will tell the method of ten thousand to the goddess",
+   "uncertainties": [
+    "The exact referent of ayuta-vidhi is not specified in this verse"
+   ],
+   "plain_english": "O fair one, O lotus-faced one, listen; I shall tell the method of ten thousand."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "pibed",
+     "gloss": "should-drink",
+     "grounds": "prescribed act",
+     "morph": "3.sg.act-optative √pā"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogin",
+     "grounds": "practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "addressed deity",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truly",
+     "grounds": "emphatic affirmation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truly",
+     "grounds": "emphatic affirmation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "divine identity or state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "[varānane]",
+     "gloss": "o-fair-faced-one",
+     "grounds": "addressed goddess; editorial bracket",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "direct identity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What identity does the yogin attain by performing the prescribed drinking?",
+   "premises": [
+    "The yogin should drink",
+    "The teaching is emphatically affirmed as true",
+    "The yogin becomes Śiva himself"
+   ],
+   "inference": "By drinking as prescribed, the yogin truly becomes Śiva himself",
+   "uncertainties": [
+    "The substance to be drunk is not specified in this verse",
+    "The bracketed [varānane] may be an editorial restoration"
+   ],
+   "plain_english": "O great goddess, the yogin should drink; truly, truly, O fair-faced one, he becomes Śiva himself."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "pāpa",
+     "gloss": "sin",
+     "grounds": "negative moral quality; compound member",
+     "morph": "pāpa (compound member)"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "positive moral quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paśuṃ",
+     "gloss": "beast",
+     "grounds": "bound state metaphor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hatvā",
+     "gloss": "having-slain",
+     "grounds": "act of cutting off",
+     "morph": "(indecl., absolutive √han)"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "instrument; compound member",
+     "morph": "jñāna (compound member)"
+    },
+    {
+     "surface": "khaḍgena",
+     "gloss": "with-sword",
+     "grounds": "metaphor for knowledge",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śāmbhavi",
+     "gloss": "o-daughter-of-śambhu",
+     "grounds": "addressed goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are sin and merit overcome through the sword of knowledge?",
+   "premises": [
+    "Sin and merit are treated as objects to be slain",
+    "The beast is the target",
+    "The sword of knowledge is the instrument"
+   ],
+   "inference": "Having slain the beast of sin and merit with the sword of knowledge, one transcends them",
+   "uncertainties": [
+    "The verse is syntactically incomplete and continues in the next verse"
+   ],
+   "plain_english": "O daughter of Śambhu, having slain the beast of sin and merit with the sword of knowledge..."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "manasā",
+     "gloss": "with-mind",
+     "grounds": "instrument of restraint",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "accompaniment; sandhi form of saha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indriyaṃ",
+     "gloss": "senses",
+     "grounds": "faculties to be restrained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of senses",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃyamya",
+     "gloss": "having-restrained",
+     "grounds": "act of control",
+     "morph": "(indecl., absolutive √yam with sam)"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "place of fixation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-fix",
+     "grounds": "prescribed absorption",
+     "morph": "3.sg.act-optative √yuj"
+    }
+   ],
+   "question": "Where should one fix all the senses after restraining them with the mind?",
+   "premises": [
+    "All the senses are restrained with the mind",
+    "Restraint is followed by fixation",
+    "The self is the locus of fixation"
+   ],
+   "inference": "After restraining all the senses with the mind, one should fix them in the self",
+   "uncertainties": [],
+   "plain_english": "Having restrained all the senses together with the mind, one should fix them in the self."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "aśeṣa",
+     "gloss": "entire",
+     "grounds": "without remainder; compound member",
+     "morph": "aśeṣa (compound member)"
+    },
+    {
+     "surface": "brahmāṇḍa",
+     "gloss": "universe",
+     "grounds": "cosmic totality; compound member",
+     "morph": "brahmāṇḍa (compound member)"
+    },
+    {
+     "surface": "bhāṇḍaṃ",
+     "gloss": "vessel",
+     "grounds": "container metaphor",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "para",
+     "gloss": "supreme",
+     "grounds": "highest; compound member",
+     "morph": "para (compound member)"
+    },
+    {
+     "surface": "brahmaṇi",
+     "gloss": "in-brahman",
+     "grounds": "ultimate locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃnayet",
+     "gloss": "one-should-merge",
+     "grounds": "prescribed dissolution",
+     "morph": "3.sg.act-optative √nī (with sam)"
+    }
+   ],
+   "question": "Into what ultimate reality should the entire universe-vessel be merged?",
+   "premises": [
+    "The entire universe-vessel is the object",
+    "Supreme Brahman is the locus",
+    "Merging into it is prescribed"
+   ],
+   "inference": "One should merge the entire vessel of the universe into supreme Brahman",
+   "uncertainties": [],
+   "plain_english": "One should merge the entire vessel of the universe into supreme Brahman."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "secrecy enjoined",
+     "morph": "n.nom.sg (gerundive √gup)"
+    },
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-concealed",
+     "grounds": "secrecy enjoined",
+     "morph": "n.nom.sg (gerundive √gup)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's possession",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "sarvasva",
+     "gloss": "all-wealth",
+     "grounds": "most precious possession; compound",
+     "morph": "sarva+sva (compound, n.nom.sg)"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "practice",
+     "grounds": "spiritual means",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why must this spiritual practice be kept strictly secret?",
+   "premises": [
+    "The practice must be concealed",
+    "The injunction is emphatically repeated",
+    "It is the speaker's entire wealth"
+   ],
+   "inference": "This practice must be kept secret because it is the speaker's most precious possession",
+   "uncertainties": [],
+   "plain_english": "It must be concealed, it must be concealed; this practice is my entire wealth."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "jāyā",
+     "gloss": "o-spouse",
+     "grounds": "addressed consort",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śeṣa",
+     "gloss": "remainder",
+     "grounds": "epithet component; compound member",
+     "morph": "śeṣa (compound member)"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "cosmic realm; compound member",
+     "morph": "jagat (compound member)"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "lord",
+     "grounds": "ruler; compound member",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "bhakta",
+     "gloss": "devotee",
+     "grounds": "object of affection; compound member",
+     "morph": "bhakta (compound member)"
+    },
+    {
+     "surface": "vatsala",
+     "gloss": "affectionate",
+     "grounds": "loving disposition; compound member",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "īśvara",
+     "gloss": "o-lord",
+     "grounds": "addressed deity",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How is the lord addressed in relation to the world and devotees?",
+   "premises": [
+    "The lord is addressed as spouse",
+    "The lord is called lord of the world",
+    "The lord is described as affectionate to devotees"
+   ],
+   "inference": "The lord is addressed as spouse, lord of the world, and affectionate to devotees",
+   "uncertainties": [
+    "The compound boundaries in the vocative chain are interpretive"
+   ],
+   "plain_english": "O spouse, O lord of the world, O lord affectionate to devotees."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "divya",
+     "gloss": "divine",
+     "grounds": "grade; compound member",
+     "morph": "divya (compound member)"
+    },
+    {
+     "surface": "vīra",
+     "gloss": "hero",
+     "grounds": "grade; compound member",
+     "morph": "vīra (compound member)"
+    },
+    {
+     "surface": "prabhedena",
+     "gloss": "by-distinction",
+     "grounds": "classification",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śrutaṃ",
+     "gloss": "heard",
+     "grounds": "received teaching",
+     "morph": "n.nom.sg (past participle √śru)"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "practice; compound member",
+     "morph": "yoga (compound member)"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "pair",
+     "grounds": "twofold teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "recipient of teaching",
+     "morph": "pron.inst.sg"
+    }
+   ],
+   "question": "What twofold yoga teaching has been heard according to divine and hero distinctions?",
+   "premises": [
+    "The teaching is distinguished by divine and hero grades",
+    "A pair of yogas is mentioned",
+    "The speaker has heard this pair"
+   ],
+   "inference": "The speaker has heard a pair of yogas distinguished by the divine and hero grades",
+   "uncertainties": [
+    "The paśu grade is not explicitly named in this verse"
+   ],
+   "plain_english": "By the distinction of divine and hero, a pair of yogas has been heard by me."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p17",
  "verse": 415,
- "question": "How does the goddess relate to the universe through these groups of mantras?",
+ "question": "By whom might the prescribed act be performed in any way?",
  "premises": [
-  "Specific groups of mantras have been identified.",
-  "The goddess pervades the universe.",
-  "She abides within these mantra groups."
+  "The speaker is named as a possible agent",
+  "Brahmā is named as a possible agent",
+  "Viṣṇu is named as a possible agent"
  ],
- "inference": "The goddess pervades the universe and abides established within these mantra groups.",
- "uncertainties": [],
- "plain_english": "Pervading the universe, she abides within these groups of mantras."
+ "inference": "The act may be performed in any way by me, or by Brahmā, or by Viṣṇu",
+ "uncertainties": [
+  "This verse is syntactically dependent on the preceding or following context"
+ ],
+ "plain_english": "By me, or by Brahmā, or also by Viṣṇu, in any way..."
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p149",
  "verse": 3714,
- "question": "How does this deity embody the fruit and seat of eightfold yoga?",
+ "question": "Which divine figures and hosts are present at the sacred site?",
  "premises": [
-  "The deity is the ground of the fruit of eight-limbed yoga",
-  "The deity is seated on an eight-petaled lotus"
+  "Viṣṇu is present there.",
+  "Indra and Candra are likewise present.",
+  "The scene is surrounded by hosts of Vidyādharas."
  ],
- "inference": "The deity represents both the attainment and the seat of eightfold yoga.",
- "uncertainties": [],
- "plain_english": "He is the ground of the fruit of eight-limbed yoga and is seated on an eight-petaled lotus."
+ "inference": "The sacred site is attended by major deities and Vidyādhara hosts.",
+ "uncertainties": [
+  "The syntactic role of candro is somewhat ambiguous in isolation."
+ ],
+ "plain_english": "There is Viṣṇu, and likewise Indra and the Moon, surrounded by hosts of Vidyādharas."
 }

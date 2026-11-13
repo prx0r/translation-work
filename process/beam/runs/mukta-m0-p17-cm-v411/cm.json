@@ -3,34 +3,44 @@
  "verse": 411,
  "rows": [
   {
-   "lemma": "sarvatra",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "in all places"
+   "grounds": "negation"
   },
   {
-   "lemma": "vyāpinī",
-   "morph": "f.nom.sg",
-   "grounds": "spreading through or encompassing"
+   "lemma": "cintanīyaṃ",
+   "morph": "n.nom.sg (gerundive √cint)",
+   "grounds": "object of thought"
   },
   {
-   "lemma": "ca",
+   "lemma": "tat",
+   "morph": "pron.nom.sg.n",
+   "grounds": "referent"
+  },
+  {
+   "lemma": "sarvaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "totality"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "negation"
   },
   {
-   "lemma": "api",
+   "lemma": "asti",
+   "morph": "3.sg.act-present √as",
+   "grounds": "existence denied"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "marks contemplation"
   },
   {
-   "lemma": "brahma+sthāna",
-   "morph": "n.loc.sg",
-   "grounds": "compound: brahma+brahman + sthāna+abode"
-  },
-  {
-   "lemma": "nivāsinī",
-   "morph": "f.nom.sg",
-   "grounds": "residing or abiding"
+   "lemma": "paribhāvayet",
+   "morph": "3.sg.act-optative √bhū (with pari)",
+   "grounds": "prescribed contemplation"
   }
  ]
 }
