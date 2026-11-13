@@ -1,14 +1,14 @@
 {
  "song": "kjn-p16",
  "verse": 393,
- "question": "Which deities are named in this list?",
+ "question": "Are Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu all included?",
  "premises": [
-  "Brahma Viṣṇu Yama Indra are named",
-  "Varuṇa and Vāyu are named"
+  "major deities are listed",
+  "Varuṇa and Vāyu are added"
  ],
- "inference": "The deities named include Brahma, Viṣṇu, Yama, Indra, Varuṇa, and Vāyu.",
+ "inference": "The verse enumerates cosmic deities in the assembly.",
  "uncertainties": [
-  "grammatical role"
+  "exact ritual context"
  ],
- "plain_english": "Brahma, Viṣṇu, Yama, Indra, and Varuṇa and Vāyu indeed."
+ "plain_english": "Brahma, Viṣṇu, Yama, and Indra, and Varuṇa and Vāyu indeed."
 }

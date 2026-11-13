@@ -4,13 +4,13 @@
  "rows": [
   {
    "lemma": "bhavate",
-   "morph": "3.sg.act-pres+root bhū",
-   "grounds": "verb"
+   "morph": "3.sg.mid-pres+√bhū",
+   "grounds": "middle present third singular"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negative particle"
   },
   {
    "lemma": "atra",
@@ -20,12 +20,12 @@
   {
    "lemma": "saṃdehaḥ",
    "morph": "m.nom.sg",
-   "grounds": "subject"
+   "grounds": "nominative singular"
   },
   {
    "lemma": "satata+abhyāsa+tatparāḥ",
-   "morph": "compound",
-   "grounds": "compound"
+   "morph": "m.nom.pl",
+   "grounds": "compound nominative plural"
   }
  ]
 }

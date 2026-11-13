@@ -7,39 +7,40 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "forehead-syllable-mass-situated",
-     "grounds": "compound of lalāṭa (forehead), varṇa (syllable), rāśi (mass), stha (situated)",
-     "morph": "adj.acc.sg.n"
+     "grounds": "fused compound; final -ṃ marks accusative/neuter singular; internal sandhi not split",
+     "morph": "compound = lalāṭa+varṇa+rāśi+sthaṃ"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numeral lakṣa in accusative singular neuter",
-     "morph": "num.acc.sg.n"
+     "grounds": "numeral in accusative singular",
+     "morph": "m.acc.sg.n"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "gerund from root kṛ (to do)",
-     "morph": "gerund"
+     "grounds": "verbal adjective/absolutive from root kṛ",
+     "morph": "absolutive (kṛ)"
     },
     {
      "surface": "sura+arcite",
      "gloss": "god-worshipped",
-     "grounds": "compound of sura (god) and arcita (worshipped)",
+     "grounds": "fused compound in vocative singular masculine",
      "morph": "voc.sg.m"
     }
    ],
-   "question": "What action follows after placing a hundred thousand in the forehead syllable mass?",
+   "question": "What must be done with the forehead syllable mass after hundred thousand repetitions for the god-worshipped rite?",
    "premises": [
-    "forehead syllable mass holds situated count",
-    "hundred thousand is the stated quantity",
-    "kṛtya marks the action to perform"
+    "Forehead syllable mass is situated.",
+    "Hundred thousand repetitions are required.",
+    "The rite is for god-worshipped."
    ],
-   "inference": "the verse directs performing the rite after the forehead syllable count is established",
+   "inference": "The verse prescribes completing hundred thousand repetitions of the forehead syllable mass for the god-worshipped rite.",
    "uncertainties": [
-    "exact grammatical case and vocative force of sura+arcite remain unresolved"
+    "Exact grammatical case of the compound is inferred.",
+    "The verse fragment may depend on prior context."
    ],
-   "plain_english": "Having situated a hundred thousand in the mass of syllables at the forehead, do the rite, O worshipped god."
+   "plain_english": "Having done one hundred thousand [repetitions] of the syllable mass situated on the forehead, O god-worshipped..."
   }
  ]
 }

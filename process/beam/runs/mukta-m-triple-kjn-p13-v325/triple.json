@@ -7,42 +7,42 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun accusative singular masculine",
+     "grounds": "accusative singular masculine pronoun, object of jñātvā, referring to the hidden true nature",
      "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of jñā (to know)",
+     "grounds": "absolutive of jñā, governing the accusative object taṃ gūḍhasadbhāvaṃ",
      "morph": "(indecl.)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound gūḍha + sadbhāva, accusative singular masculine",
+     "grounds": "compound gūḍha plus sadbhāva, accusative singular masculine, object known",
      "morph": "m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "neuter nominative singular abstract noun",
+     "grounds": "abstract noun from sarvajña plus tva, nominative singular neuter, subject of prajāyate",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb pra-jan, present middle third singular",
-     "morph": "3.sg.mid-pres"
+     "grounds": "middle voice present third singular of prajan, becomes manifest",
+     "morph": "3.sg.mid-pres + root prajan"
     }
    ],
-   "question": "How does knowing the hidden true nature of that produce all-knowingness?",
+   "question": "What arises when the hidden true nature is known?",
    "premises": [
-    "knowing hidden true nature yields all-knowingness",
-    "taṃ denotes the hidden true nature"
+    "Knowing hidden true nature causes all-knowingness.",
+    "All-knowingness arises as result."
    ],
-   "inference": "Realization of the concealed true nature gives rise to omniscience.",
+   "inference": "Knowledge of concealed true nature gives rise to omniscience.",
    "uncertainties": [
-    "the exact referent of taṃ depends on prior context"
+    "The surrounding mokṣa context is not fully explicit in this verse."
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }
