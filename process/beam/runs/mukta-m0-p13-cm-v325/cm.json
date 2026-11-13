@@ -3,19 +3,39 @@
  "verse": 325,
  "rows": [
   {
-   "lemma": "anāhatantu",
-   "morph": "compound+n.acc.sg+indecl.",
-   "grounds": "sandhi fusion of anāhatam (unstruck sound) and tu (and/indeed); refers to the anāhata locus"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
   },
   {
-   "lemma": "tatraiva",
-   "morph": "indecl.+indecl.",
-   "grounds": "sandhi fusion of tatra (there) and eva (indeed); specifies the location"
+   "lemma": "kālaniyamaḥ",
+   "morph": "kāla+niyama (compound, m.nom.sg)",
+   "grounds": "compound denoting temporal limitation; subject of negation"
   },
   {
-   "lemma": "taḍitkoṭisamaprabhām",
-   "morph": "compound+f.acc.sg",
-   "grounds": "bahuvrīhi compound taḍit-koṭi-sama-prabhā describing radiance; qualifies the unstruck sound/presence"
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive particle extending the negation"
+  },
+  {
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "locative adverb referring to this ritual context"
+  },
+  {
+   "lemma": "śaucāśaucam",
+   "morph": "śauca+aśauca (compound, n.nom.sg)",
+   "grounds": "dvandva compound pairing ritual purity and impurity"
+  },
+  {
+   "lemma": "tathaiva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic adverb indicating the same absence applies"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "conjunction linking the two negated conditions"
   }
  ]
 }
