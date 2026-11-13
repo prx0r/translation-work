@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p173-v4301
-[higher-than](param) [truth](satyāt) [not-exists](na+asti) [of-Viṣṇu](viṣṇoḥ) [higher-than](param) [truth](satyāt) [not-exists](na+asti) [of-Viṣṇu](viṣṇoḥ) [supreme-abode](param+padaṃ)
+[higher](paraṃ) [truth](satyam) [not](na) [is](asti) [of-Viṣṇu](viṣṇoḥ) [higher](paraṃ) [truth](satyam) [not](na) [is](asti) [of-Viṣṇu](viṣṇoḥ) [supreme](param) [abode](padam)
 
 ## mukta-m0-p173-v4302
-[not-exists](na+asti) [of-Viṣṇu](viṣṇoḥ) [greater](paraḥ) [mantra](mantro) [not-exists](na+asti) [of-Viṣṇu](viṣṇoḥ) [fierce-of-heat](parantapaḥ)
+[not](na) [is](asti) [of-Viṣṇu](viṣṇoḥ) [higher](paraḥ) [mantra](mantraḥ) [not](na) [is](asti) [of-Viṣṇu](viṣṇoḥ) [higher](param) [austerity](tapaḥ)
 
 ## mukta-m0-p173-v4303
-[what-use](kim) [of-him](tasya) [with-many](bahubhiḥ) [mantras](mantraiḥ) [what-use](kiṃ) [with-offerings](japair) [with-many](bahu) [expansions](vistaraiḥ)
+[what](kim) [of-him](tasya) [with-many](bahubhiḥ) [mantras](mantraiḥ) [what](kim) [with-recitations](japaiḥ) [with-much](bahu) [expansion](vistaraiḥ)
 
 ## mukta-m0-p173-v4304
-[all-pilgrimage-abiding](sarva+tīrtha+mayaḥ) [Viṣṇu](viṣṇuḥ) [all-scripture-abiding](sarva+śāstra+mayaḥ) [lord](prabhuḥ)
+[all](sarva) [holy-places](tīrttha) [consisting-of](mayaḥ) [Viṣṇu](viṣṇuḥ) [all](sarva) [scriptures](śāstra) [consisting-of](mayaḥ) [Lord](prabhuḥ)
 
 ## mukta-m0-p173-v4305
-[from-Brahmā](ā+brahma) [essence](sāra) [all](sarvasvaṃ) [all](sarvam) [this](etat) [by-me](mayā) [uttered](uditam)
+[p.-580](p. 580)) [up-to-Brahman](ābrahma) [essence](sāra) [whole-wealth](sarvasvaṃ) [all](sarvam) [this](etat) [by-me](mayā) [spoken](uditam)
 
 ## mukta-m0-p173-v4306
-[which](yat) [by-me](mayā) [this](idaṃ) [heard](śrutaṃ) [hymn](stotraṃ) [your](tvat) [secret](rahasyaṃ) [very-hard-to-obtain](su+durllabham)
+[which](yat) [by-me](mayā) [this](idam) [heard](śrutam) [hymn](stotraṃ) [your](tvat) [secret](rahasyaṃ) [very](su) [difficult-to-obtain](durllabham)
 
 ## mukta-m0-p173-v4307
-[being-present](vidyamāne) [even](api) [all-lord](sarva+īśe) [fools](mūḍhāḥ) [are-tormented](kliśyanti) [in-transmigration](saṃsṛtau)
+[being-present](vidyamāne) [even](api) [Lord-of-all](sarveśe) [deluded-ones](mūḍhāḥ) [suffer](kliśyanti) [in-transmigration](saṃsṛtau)
 
 ## mukta-m0-p173-v4308
-[with-matted-hair](jaṭilaḥ) [with-ash](bhasma) [smeared-limbs](lipta+aṅgaḥ) [ascetic](tapasvī) [seen](vikṣitaḥ) [by-people](janaiḥ)
+[matted-haired](jaṭilaḥ) [ash](bhasma) [smeared](lipta) [limbed](aṅgaḥ) [ascetic](tapasvī) [agitated](vikṣitaḥ) [by-people](janaiḥ)
 
 ## mukta-m0-p173-v4309
-[which](yat) [that-truth](tattvam) [is-contemplated](cintyate) [always](nityam) [by-you](tvayā) [lord-of-yogins](yogīśvareṇa) [indeed](hi)
+[which](yat) [that](tat) [truth](tattvam) [is-contemplated](cintyate) [constantly](nityam) [by-you](tvayā) [by-lord-of-yogins](yogīśvareṇa) [indeed](hi)
 
 ## mukta-m0-p173-v4310
-[that](tam) [not-knowing](a+vijñāya) [those-fools](tān) [mūḍhāḥ](mūḍhāḥ) [worship](yajante) [knowledge-possessors](jñāna+māninaḥ)
+[that](tam) [not](a) [having-known](vijñāya) [those](tān) [deluded-ones](mūḍhāḥ) [worship](yajante) [knowledge](jñāna) [thinking-themselves](māninaḥ)
 
 ## mukta-m0-p173-v4311
-[revealed](prakāśitaḥ) [not](na) [by-me](me) [of-whom](yasya) [given](dattāḥ) [then](ādyāḥ) [divine-powers](divya+śaktayaḥ)
+[revealed](prakāśitaḥ) [not](na) [to-me](me) [whose](yasya) [given](datta) [and-other](ādyāḥ) [divine](divya) [powers](śaktayaḥ)
 
 ## mukta-m0-p173-v4312
-[by-Bhava-ādi](bhava+ādi) [gurus](guruḥ) [by-fools](mūḍhaiḥ) [common](sāmānyaḥ) [like](iva) [is-regarded](lakṣyate)
+[of-you](bhavat) [and-others](ādi) [guru](guruḥ) [by-deluded-ones](mūḍhaiḥ) [ordinary](sāmānyaḥ) [like](iva) [is-regarded](lakṣyate)
 
 ## mukta-m0-p173-v4313
-[hating](dviṣataḥ) [also](api) [thus](tathā) [sins](pāpān) [not-looked-after](a+upekṣyante) [by-forgiving-ones](kṣamā+alayāḥ)
+[hating](dviṣataḥ) [even](api) [thus](tathā) [sinners](pāpān) [are-not-neglected](upekṣyante) [by-those-abounding-in-forbearance](kṣamālayāḥ)
 
 ## mukta-m0-p173-v4314
-[from-suffering](duḥkhāt) [powerless](a+śaktāḥ) [to-nourish-themselves](svam) [poṣṭum] [by-fortune](śriyā) [not-endowed](na) [adhyāsitāḥ] [formerly](purā)
+[from-suffering](duḥkhāt) [unable](aśaktāḥ) [own](svam) [to-nourish](poṣṭum) [by-fortune](śriyā) [not](na) [were-inhabited](adhyāsitāḥ) [formerly](purā)
 
 ## mukta-m0-p173-v4315
-[attacking](viśasadbhiḥ) [by-their-own-power](sva+śaktyā) [ādyāḥ](ādyāḥ) [with-good-friends](sa+su+hṛt) [friends](mitra) [kinsmen](bāndhavāḥ)
+[by-those-entering](viśasadbhiḥ) [by-own](sva) [power](śaktyā) [and-others](ādyāḥ) [with-friends](sasuhṛt) [companions](mitra) [and-relatives](bāndhavāḥ)
 
 ## mukta-m0-p173-v4316
-[all](sarve) [become](bhavanti) [living](jīvantaḥ) [tortures](yātanāḥ) [on-head](śirasi) [placed](sthitāḥ)
+[all](sarve) [become](bhavanti) [living](jīvantaḥ) [torments](yātanāḥ) [on-head](śirasi) [situated](sthitāḥ)
 
 ## mukta-m0-p173-v4317
-[to-hungry](kṣudhitānām) [to-wretched](dur+gatānām) [whence](kutaḥ) [yoga-concentrations](yoga+samādhayaḥ)
+[of-the-hungry](kṣudhitānām) [of-the-destitute](durgatānām) [whence](kutaḥ) [yoga](yoga) [absorptions](samādhayaḥ)
 
 ## mukta-m0-p173-v4318
-[subject](vaśyā) [she](sā) [lotus-goddess](kamalā) [of-whom](yasya) [having-abandoned](tyaktvā) [you](tvām) [also](api) [Śaṅkara](śaṅkara)
+[submissive](vaśyā) [she](sā) [Kamalā](kamalā) [of-whom](yasya) [having-abandoned](tyaktvā) [you](tvām) [even](api) [Śaṅkara](śaṅkara)
 
 ## mukta-m0-p173-v4319
-[by-all-surpassing-power](sarva+atiśaya+vīryeṇa) [perfect](sampūrṇasya) [great-souled](mahā+ātmanaḥ)
+[with-all](sarva) [surpassing](atiśaya) [heroism](vīryeṇa) [of-the-perfect](sampūrṇasya) [great-souled-one](mahātmanaḥ)
 
 ## mukta-m0-p173-v4320
-[of-whose](yasya) [of-a-part-of-a-part](aṃśa+aṃśa+bhāgena) [without](vinā) [all](sarvam) [is-dissolved](vilīyate)
+[of-whose](yasya) [part](aṃśa) [of-a-part](aṃśaka) [by-portion](bhāgena) [without](vinā) [all](sarvam) [dissolves](vilīyate)
 
 ## mukta-m0-p173-v4321
-[not](na) [of-him](asya) [birth](janma) [old-age](jarā) [death](mṛtyuḥ) [not](na) [having-attained](aprāpya) [object](artham) [indeed](eva) [or](vā)
+[not](na) [his](asya) [birth](janma) [old-age](jarā) [death](mṛtyuḥ) [not](na) [unattained](aprāpya) [matter](vārttam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p173-v4322
-[announce](vijñāpaya) [great-god](mahā+devam) [having-bowed](praṇamya) [one](ekam) [great-lord](mahā+īśvaram)
+[inform](vijñāpaya) [the-great-god](mahādevam) [having-bowed](praṇamya) [the-one](ekam) [great-lord](maheśvaram)
 
 ## mukta-m0-p173-v4323
-[by-desire-etc](kāma+ādyā) [attached-minds](āsakta+cittatvāt) [but](kintu) [all-lord](sarva+īśvara) [master](prabho)
+[by-desire](kāma) [and-other](ādi) [attached](āsakta) [mind](cittatvāt) [but](kintu) [O-lord-of-all](sarveśvara) [O-lord](prabho)
 
 ## mukta-m0-p173-v4324
-[by-name](nāmnā) [by-one](ekena) [indeed](tu) [by-which](yena) [may-be](syāt) [that-fruit](tat) [phalam] [tell](brūhi) [to-me](me) [master](prabho)
+[by-one-name](nāmnā ekena) [indeed](tu) [by-which](yena) [may-be](syāt) [that](tat) [fruit](phalam) [tell](brūhi) [to-me](me) [O-lord](prabho)
 
 ## mukta-m0-p173-v4325
-[thousand-names](sahasra+nāma) [equal-to](amitātulyam) [Rāma-name](rāma+nāma) [fair-faced](varānane)
+[to-thousand-names](sahasranāmim) [equal](tulyam) [Rāma](rāma) [name](nāma) [O-fair-faced-one](varānane)

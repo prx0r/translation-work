@@ -8,19 +8,23 @@
 "tokens": [
 {
 "surface": "viṣṇoḥ",
-"quick_gloss": "of-vishnu"
+"quick_gloss": "of-viṣṇu"
 },
 {
-"surface": "nāmnaḥ",
-"quick_gloss": "of-names"
+"surface": "nnāma",
+"quick_gloss": "name"
 },
 {
 "surface": "sahasrasya",
-"quick_gloss": "of-a-thousand"
+"quick_gloss": "of-thousand"
+},
+{
+"surface": "ṣoḍaśīm",
+"quick_gloss": "a-sixteenth"
 },
 {
 "surface": "kalām",
-"quick_gloss": "a-sixteenth-part"
+"quick_gloss": "part"
 },
 {
 "surface": "na",
@@ -28,11 +32,7 @@
 },
 {
 "surface": "arhanti",
-"quick_gloss": "are-worthy-of"
-},
-{
-"surface": "ṣoḍaśīm",
-"quick_gloss": "the-sixteenth"
+"quick_gloss": "they-deserve"
 }
 ]
 },
@@ -44,32 +44,40 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāmnām",
+"surface": "nāmnāṃ",
 "quick_gloss": "of-names"
 },
 {
 "surface": "sāhasram",
-"quick_gloss": "a-thousand"
-},
-{
-"surface": "muktam",
-"quick_gloss": "released"
-},
-{
-"surface": "śatam",
-"quick_gloss": "a-hundred"
-},
-{
-"surface": "upaniṣadām",
-"quick_gloss": "of-upanishads"
-},
-{
-"surface": "mahat-hṛt",
-"quick_gloss": "the-great-heart"
+"quick_gloss": "thousand"
 },
 {
 "surface": "uktam",
-"quick_gloss": "said"
+"quick_gloss": "spoken"
+},
+{
+"surface": "śatam",
+"quick_gloss": "hundred"
+},
+{
+"surface": "upaniṣadā",
+"quick_gloss": "by-upaniṣad"
+},
+{
+"surface": "varma",
+"quick_gloss": "armor"
+},
+{
+"surface": "hṛt",
+"quick_gloss": "and-heart"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "uktam",
+"quick_gloss": "spoken"
 },
 {
 "surface": "atra",
@@ -86,35 +94,31 @@
 "tokens": [
 {
 "surface": "ramyantā",
-"quick_gloss": "they-rejoice"
+"quick_gloss": "delighting"
 },
 {
-"surface": "arā-rūpantam",
-"quick_gloss": "the-form-of-rama"
+"surface": "rārūpa+antam",
+"quick_gloss": "enemy-form-destroying"
 },
 {
-"surface": "oghnantam",
-"quick_gloss": "the-destroyer-of-darkness"
+"surface": "ogha+ant",
+"quick_gloss": "sin-destroying"
 },
 {
-"surface": "varitam",
-"quick_gloss": "swiftly"
-},
-{
-"surface": "phala-kara",
-"quick_gloss": "fruit-giver"
+"surface": "tvarita+phala+kara",
+"quick_gloss": "quick-fruit-giving"
 },
 {
 "surface": "ṣoḍaśī",
-"quick_gloss": "the-sixteenth"
+"quick_gloss": "ṣoḍaśī"
 },
 {
-"surface": "yā",
-"quick_gloss": "thus"
+"surface": "yan",
+"quick_gloss": "and"
 },
 {
 "surface": "tathā",
-"quick_gloss": "indeed"
+"quick_gloss": "thus"
 },
 {
 "surface": "eva",
@@ -134,8 +138,8 @@
 "quick_gloss": "to-be-honored"
 },
 {
-"surface": "yājanam",
-"quick_gloss": "or-to-be-worshipped"
+"surface": "yajanam",
+"quick_gloss": "worship"
 },
 {
 "surface": "atha",
@@ -151,11 +155,11 @@
 },
 {
 "surface": "hṛt",
-"quick_gloss": "the-heart"
+"quick_gloss": "heart"
 },
 {
 "surface": "proktam",
-"quick_gloss": "said"
+"quick_gloss": "declared"
 },
 {
 "surface": "atra",
@@ -172,7 +176,7 @@
 "tokens": [
 {
 "surface": "daurlabhyam",
-"quick_gloss": "scarcity"
+"quick_gloss": "rarity"
 },
 {
 "surface": "eṣām",
@@ -184,7 +188,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "samuditam",
@@ -200,7 +204,7 @@
 },
 {
 "surface": "labhyam",
-"quick_gloss": "is-obtainable"
+"quick_gloss": "obtainable"
 }
 ]
 },
@@ -212,20 +216,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "soddhāraḥ",
-"quick_gloss": "the-extractor"
+"surface": "sa+uddhāraḥ",
+"quick_gloss": "with-extraction"
 },
 {
-"surface": "daśa-vidyānām",
-"quick_gloss": "of-ten-vidyas"
+"surface": "daśa+vidyānām",
+"quick_gloss": "of-ten-vidyās"
 },
 {
 "surface": "asmin",
 "quick_gloss": "in-this"
 },
 {
-"surface": "śākta-pramodake",
-"quick_gloss": "the-delight-of-shakti"
+"surface": "śākta+pramodake",
+"quick_gloss": "śākta-delight"
 }
 ]
 },
@@ -237,28 +241,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "soddhārau",
-"quick_gloss": "the-two-extractors"
+"surface": "sa+uddhārau",
+"quick_gloss": "with-extractions"
 },
 {
-"surface": "yantra-mantrau",
-"quick_gloss": "of-yantra-and-mantra"
+"surface": "yantra+mantrau",
+"quick_gloss": "yantra-and-mantra"
 },
 {
-"surface": "ca-hṛdayam",
-"quick_gloss": "and-the-heart"
+"surface": "a+hṛdayam",
+"quick_gloss": "and-heart"
 },
 {
 "surface": "akhilam",
-"quick_gloss": "the-whole"
+"quick_gloss": "entire"
 },
 {
 "surface": "tādṛśam",
 "quick_gloss": "such"
 },
 {
+"surface": "tat",
+"quick_gloss": "and"
+},
+{
 "surface": "ca",
-"quick_gloss": "and-that"
+"quick_gloss": "and"
 },
 {
 "surface": "devyāḥ",
@@ -279,19 +287,23 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "upāttam",
-"quick_gloss": "acquired"
+"quick_gloss": "taken"
 },
 {
 "surface": "asmin",
 "quick_gloss": "in-this"
 },
 {
-"surface": "sakala-budhajanaiḥ",
+"surface": "sakala+budha+janaiḥ",
 "quick_gloss": "by-all-wise-people"
+},
+{
+"surface": "yad",
+"quick_gloss": "as"
 },
 {
 "surface": "yathā",
@@ -299,7 +311,7 @@
 },
 {
 "surface": "sthāna",
-"quick_gloss": "according-to-place"
+"quick_gloss": "in-place"
 },
 {
 "surface": "labdham",
@@ -315,19 +327,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrī-devaiḥ",
-"quick_gloss": "by-the-blessed-gods"
+"surface": "śrīdevaiḥ+nnandana+antaiḥ",
+"quick_gloss": "by-śrīdeva-and-others-ending-with-nandana"
 },
 {
-"surface": "nandanāntaiḥ",
-"quick_gloss": "up-to-nandana"
+"surface": "nṛpa+kula+kamalā+haskaraiḥ",
+"quick_gloss": "by-those-delighting-royal-lineage-lotuses"
 },
 {
-"surface": "nṛpa-kula-kamalā-haskaraiḥ",
-"quick_gloss": "by-the-sun-to-lotus-clans-of-kings"
-},
-{
-"surface": "su-praṇītaḥ",
+"surface": "supraṇītaḥ",
 "quick_gloss": "well-composed"
 }
 ]

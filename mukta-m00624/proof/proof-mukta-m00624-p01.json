@@ -3,9 +3,7 @@
  "song": "mukta-m00624-p01",
  "work": "mukta-m00624",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v1 ratio=0.899"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "a77625363ea30483",
@@ -22,7 +20,7 @@
   "sub090": {
    "1": {
     "ratio": 0.899,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.899 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.938)"
    }
   }
  },
@@ -55,9 +53,9 @@
   }
  },
  "needs": [
-  "fix: word-order/gloss vs source for v1"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "5f3ca0de6b0be1be5a8144a81773f0f9679167a60ea24598ec74db5722fe49fa",
   "l0": "f887392329a06f8a74c19d7bdd34dcd30adcda35749089948680b33230908a53",

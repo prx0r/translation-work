@@ -5,8 +5,7 @@
  "date": "2026-11-01",
  "blocking": [
   "ALIGN_NODISP v1628 ratio=0.812",
-  "ALIGN_NODISP v1646 ratio=0.878",
-  "DATA_OBJECTS 14 schema/cross-layer errors"
+  "ALIGN_NODISP v1646 ratio=0.878"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -46,22 +45,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "t1[kul-p66-v1629]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1630]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1631]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1633]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1634]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1635]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1636]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1640]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1642]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1644]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1645]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1647]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1648]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p66-v1649]: history[] entries need {gloss, reason, date}"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 137,
@@ -76,13 +60,12 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
   "fix: word-order/gloss vs source for v1628",
   "fix: word-order/gloss vs source for v1646"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "0a39e6db0bc5b8450a5880b4436090b05c043cd9729cf323f360db15b091936b",
+  "t1": "bfbf80eb1393a461e75b71794b11ff648b28dfd805cf7a0b68a337b4e68b110f",
   "l0": "2b7f35a1f7469a5bdcf1396b891670dca2bc38e85935d89e937e453fde8d87c0",
   "argmap": "41a84f2b2c1c9a4331f3f0249521733d388036f060f2e2b98c5efdc599c15f31",
   "l2": "880f2d719fea9fb7983f09565ae34b6b9a3cee341d004fa9ac20883f8624451d",

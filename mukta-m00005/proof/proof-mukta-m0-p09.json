@@ -3,9 +3,7 @@
  "song": "mukta-m0-p09",
  "work": "mukta-m00005",
  "date": "2026-11-01",
- "blocking": [
-  "DATA_OBJECTS 1 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "ebff04e658aa7db7",
@@ -35,9 +33,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[mukta-m0-p09-v217]: cite part not byte-exact in source: ātmaguṇasya jñānakriyātmano rodhikāḥ etacca prāgeva darśitam"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 136,
@@ -52,9 +48,9 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "0f58c6a12c73e489cca792b55d2629f72190248abf4873d7d6c9c0035d9ed626",
   "l0": "4b494a49d0868aca022e5ae38df26a506b0359f109ee5cfe0e070e2a04871520",

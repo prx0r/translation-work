@@ -4,8 +4,7 @@
  "work": "kularnavatantra",
  "date": "2026-11-01",
  "blocking": [
-  "ALIGN_NODISP v967 ratio=0.848",
-  "DATA_OBJECTS 1 schema/cross-layer errors"
+  "ALIGN_NODISP v967 ratio=0.848"
  ],
  "warnings": [],
  "mode": "shastra",
@@ -41,9 +40,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "t1[kul-p39-v974]: history[] entries need {gloss, reason, date}"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 122,
@@ -58,12 +55,11 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
   "fix: word-order/gloss vs source for v967"
  ],
  "deterministic_gate": "BLOCKED",
  "layer_sha256": {
-  "t1": "fb18c38dad6c58c39e1efbc43018dccebdbe6609bc4ee1f096ebf78fbc06a09b",
+  "t1": "b98e89249c83d7048e6ed8006a4ce63fc3dff1ea4d9c9c340a30299e7b6fd6ce",
   "l0": "8afe73a33716175b769652e2560e8bb5cd27a0cf9606540c9802077ae94c55ad",
   "argmap": "261250843fe69a40dfab0062a7bf8b28a58260bb8442d94b6a49c1eae9b095d3",
   "l2": "eefba0f3ec368b07ad465858dea5cbe6cce5df476e80f11be81d4b8a5babe504",

@@ -3,9 +3,7 @@
  "song": "mukta-m0-p04",
  "work": "mukta-m00006",
  "date": "2026-11-01",
- "blocking": [
-  "DATA_OBJECTS 1 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "40330629dd663beb",
@@ -35,9 +33,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[mukta-m0-p04-v99]: cite part not byte-exact in source: pariṇativiśeṣayogāt sa kadācit kasyacit kathañcicca (ślo0 12"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 140,
@@ -52,9 +48,9 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "980a083aef2949f45acd07b112d4f543876039d2c441136f407e187b2bc36fc3",
   "l0": "efd515aeca90db1af0f84dbae0d53f4eeba979839987612c0df80681d996b8ab",

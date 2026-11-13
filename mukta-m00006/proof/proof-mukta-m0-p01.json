@@ -3,11 +3,7 @@
  "song": "mukta-m0-p01",
  "work": "mukta-m00006",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v12 ratio=0.895",
-  "ALIGN_NODISP v14 ratio=0.880",
-  "DATA_OBJECTS 2 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "caa9e91f4dc31281",
@@ -24,11 +20,11 @@
   "sub090": {
    "12": {
     "ratio": 0.895,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.895 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.916)"
    },
    "14": {
     "ratio": 0.88,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.88 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.937)"
    }
   }
  },
@@ -46,10 +42,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[mukta-m0-p01-v9]: cite part not byte-exact in source: siddhasādhyatā tatra dṛṣṭe sati nādṛṣṭakalpanā yukteti",
-   "l2[mukta-m0-p01-v12]: cite part not byte-exact in source: saṃbandhamātrasya bhāvāt kalādikāryakaraṇotpāde satyanirmokṣ"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 189,
@@ -64,11 +57,9 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v12",
-  "fix: word-order/gloss vs source for v14"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "fc3dfe367a058a9c9ab2c99b601996651d97b2ece57c65a39497ff870c9ccb38",
   "l0": "e194861842d80cc2bf9a40e92689707e3212ee324ca6b09afb605ae6a9a0dbd1",

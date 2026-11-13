@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p171-v4251
-destroyer-of-Indra's-pride(devendradarpahā) earth-adorned-with-wish-fulfilling-trees(kalpadrumālaṃkṛtabhūtalaḥ)
+[indra-of-gods](devendra)+[pride](darpa)+[destroyer](hā) [wish-fulfilling-tree](kalpadruma)+[adorned](alaṃkṛta)+[earth](bhūtalaḥ)
 
 ## mukta-m0-p171-v4252
-conqueror-of-Mahādeva-in-sport(līlājitamahādevaḥ) worshipped-only-by-Mahādeva(mahādevaikapūjitaḥ)
+[sport](līlā)+[conquered](jita)+[great-god](mahādevo) [great-god](mahādeva)+[alone](eka)+[worshipped](pūjitaḥ)
 
 ## mukta-m0-p171-v4253
-beheader-of-the-head-of-the-king-of-Kāśī(kāśīrājaśiraśchettā) sole-crusher-of-Rudra's-power(rudraśaktyekamarddanaḥ)
+[king-of-kāśī](kāśīrāja)+[head](śiraś)+[cutter](chettā) [rudra](rudra)+[power](śakti)+[alone](eka)+[crusher](marddanaḥ)
 
 ## mukta-m0-p171-v4254
-feller-of-Śambhu's-vow(śambhupratijñāpātā) and(ca) worshipper-of-the-hosts-of-the-self-born(svayambhūgaṇapūjakaḥ)
+[śambhu](śambhu)+[vow](pratijñā)+[feller](pātā) [and](ca) [self-born](svayambhū)+[hosts](gaṇa)+[worshipper](pūjakaḥ)
 
 ## mukta-m0-p171-v4255
-subdued-by-Śiva's-severe-austerities-and-vows(śivatīvratapovaśyaḥ) formerly-granter-of-boons-to-Śiva(purāśivavarapradaḥ)
+[śiva](śiva)+[intense](tīvra)+[austerity](tapo)+[subdued-by](vaśyaḥ) [formerly](purā)+[to-śiva](śiva)+[boon](vara)+[giver](pradaḥ)
 
 ## mukta-m0-p171-v4256
-lord-of-the-vow-of-Śiva's-daughter(śivakanyāvratapatiḥ) of-dark-form(kṛṣṇarūpaḥ) slayer-of-Śiva's-enemy(śivārihā)
+[śiva](śiva)+[daughter](kanyā)+[vow](vrata)+[lord](patiḥ) [kṛṣṇa](kṛṣṇa)+[form](rūpaḥ) [śiva](śiva)+[enemy](ari)+[slayer](hā)
 
 ## mukta-m0-p171-v4257
-destroyer-of-the-youths-by-the-sole-brahmā-weapon-of-the-awakened-Mucukunda(vinidramucukundaikabrahmāstrayuvanāśvahṛt)
+[awakened](vinidra)+[mucukunda](mucukunda)+[single](eka)+[brahmā-weapon](brahmāstra)+[yuvanāśva](yuvanāśva)+[slayer](hṛt)
 
 ## mukta-m0-p171-v4258
-maker-of-the-ocean-into-a-nectar-lake-for-water-sports-with-children-and-women(sabālastrījalakrīḍāmṛtavāpīkṛtārṇavaḥ)
+[with](sa)+[children](bāla)+[women](strī)+[water](jala)+[sport](krīḍā)+[nectar](amṛta)+[pond](vāpī)+[made](kṛta)+[ocean](arṇavaḥ)
 
 ## mukta-m0-p171-v4259
-bringer-of-Indra-and-Bhairava-to-the-land-for-the-sake-of-the-devotees-Śrīdāman-and-Śaṅku(śrīdāmaśaṅkubhaktārtthabhūmyānītendrabhairavaḥ)
+[śrīdāma](śrīdāma)+[śaṅku](śaṅku)+[devotee](bhakta)+[distress](ārttha)+[to-earth](bhūmi)+[brought](ānīta)+[indra](indra)+[bhairava](bhairavaḥ)
 
 ## mukta-m0-p171-v4260
-maker-of-millions-of-treasures-in-Dvārakā-accessible-even-to-caṇḍālas-and-others(ācāṇḍālādikamprāpyadvārakānidhikoṭikṛt)
+[from](ā)+[caṇḍāla](cāṇḍāla)+[and-so-on](ādikam)+[attainable](prāpya)+[dvārakā](dvārakā)+[treasure](nidhi)+[crores](koṭi)+[maker](kṛt)
 
 ## mukta-m0-p171-v4261
-marrier-of-the-brāhmaṇa's-daughters(pariṇītadvijasutā) remover-of-Arjuna's-pride(netārjjunamadāpahaḥ)
+[married](pariṇīta)+[brahmin](dvija)+[sons](sutā)+[bringer](netā)+[arjuna](rjjuna)+[pride](mada)+[remover](apahaḥ)
 
 ## mukta-m0-p171-v4262
-shatterer-of-all-divine-weapons-for-Arjuna's-sake(pārtthārtthakhaṇḍitāśeṣadivyāstraḥ) bearer-of-delusion-to-Arjuna(pārtthamohabhṛt)
+[for-pārttha](pārtthārttha)+[shattered](khaṇḍita)+[all](aśeṣa)+[divine-weapons](divyāstraḥ) [pārttha](pārttha)+[delusion](moha)+[bearer](bhṛt)
 
 ## mukta-m0-p171-v4263
-bodiless-one(anaṅgaḥ) conqueror-of-the-lord-of-Gaurī(jitagaurīśaḥ) beloved-of-Rati(ratikāntaḥ) ever-desired(sadepsitaḥ)
+[bodiless](anaṅgo) [conquered](jita)+[gaurī-lord](gaurīśo) [rati](rati)+[beloved](kāntaḥ) [always](sad)+[desired](epsitaḥ)
 
 ## mukta-m0-p171-v4264
-husband-of-Uṣā(uṣāpatiḥ) cause-of-the-universe(viśvahetuḥ) satisfied-with-the-universe(viśvatṛptaḥ) supreme-person(adhipūruṣaḥ)
+[uṣā](uṣā)+[husband](patir)+[universe](viśva)+[cause](hetur)+[universe](viśva)+[satisfied](tṛpto)+[supreme-person]('dhipūruṣaḥ)
 
 ## mukta-m0-p171-v4265
-soul-of-the-one-universe-among-the-twenty-four-universes(caturviśvaikaviśvātmā) most-excellent-among-millions-of-beings(sarvotkṛṣṭāsukoṭiṣu)
+[four](catur)+[worlds](viśva)+[one](eka)+[universal-soul](viśvātmā) [all](sarva)+[most-excellent](utkṛṣṭa)+[among-millions-of-beings](asukoṭiṣu)
 
 ## mukta-m0-p171-v4266
-composer-of-the-Mahābhārata(mahābhāratanirmātā) lord-of-poets(kavīndraḥ) Bādarāyaṇa(bādarāyaṇaḥ)
+[mahābhārata](mahābhārata)+[creator](nirmātā) [poet](kavi)+[lord](indro) [bādarāyaṇa](bādarāyaṇaḥ)
 
 ## mukta-m0-p171-v4267
-author-of-the-Vedānta(vedāntakarttā) sole-manifester-of-Brahman(brahmekavyañjakaḥ) founder-of-the-lineage-of-Puru(puruvaṃśakṛt)
+[vedānta](vedānta)+[author](karttā) [brahman](brahma)+[one](eka)+[manifester](vyañjakaḥ) [puru](puru)+[lineage](vaṃśa)+[maker](kṛt)
 
 ## mukta-m0-p171-v4268
-weaponless(nirāyudhaḥ) conqueror-of-the-world(jagajjaitraḥ) possessor-of-fortune(śrīdhanaḥ) deluder-of-the-wicked(duṣṭamohanaḥ)
+[without-weapons](nirāyudho) [world](jagat)+[conqueror](jaitraḥ) [śrī](śrī)+[wealthy](dhano) [wicked](duṣṭa)+[deluder](mohanaḥ)
 
 ## mukta-m0-p171-v4269
-destroyer-of-the-fate-of-Śuddhodana(śuddhodanirnnaṣṭadiṣṭaḥ) giver-of-happiness(sukhadaḥ) lord-of-the-real-and-unreal(sadasatpatiḥ)
+[śuddhodana](śuddhodanir)+[destroyed](nnaṣṭa)+[fate](diṣṭaḥ) [happiness](sukha)+[giver](daḥ) [being-and-non-being](sadasat)+[lord](patiḥ)
 
 ## mukta-m0-p171-v4270
-lord-of-the-Perfection-of-Wisdom(catuṣkoṭipṛthaktattvaṃ+prajñāpāramiteśvaraḥ)
+[four](catuṣ)+[crores](koṭi)+[distinct](pṛthak)+[principles](tattvaṃ) [prajñāpāramitā](prajñāpāramitā)+[lord](īśvaraḥ)
 
 ## mukta-m0-p171-v4271
-Kalki(kalkī) son-of-Viṣṇuyaśas(viṣṇuyaśaḥ+putraḥ) destroyer-of-the-Kali-age(kalikālavilopakaḥ)
+[kalkī](kalkī) [viṣṇuyaśas](viṣṇuyaśaḥ) [son](putraḥ) [kali-age](kalikāla)+[destroyer](vilopakaḥ)
 
 ## mukta-m0-p171-v4272
-establisher-of-truth(satyapravarttakaḥ) remover-of-the-long-hunger-of-gods-and-brāhmaṇas(devadvijadīrgghakṣudhāpahaḥ)
+[truth](satya)+[establishing](pravarttako) [gods](deva)+[brahmins](dvija)+[long](dīrggha)+[hunger](kṣudhā)+[remover](apahaḥ)
 
 ## mukta-m0-p171-v4273
-immediately-maker-of-the-earth-endowed-with-infinite-prosperity(sadyaḥkṣmānantalakṣmīkṛt) destroyer-of-all-dharma-that-has-perished(naṣṭaniḥśeṣadharmakṛt)
+[immediately](sadyaḥ)+[earth](kṣmā)+[endless](ananta)+[prosperity](lakṣmī)+[maker](kṛn)+[destroyed](naṣṭa)+[entire](niḥśeṣa)+[dharma](dharma)+[restorer](kṛt)
 
 ## mukta-m0-p171-v4274
-sole-unconquerable-ruler-of-the-world(asādhyaikajagacchāstā) revered-by-the-universe(viśvavandyaḥ) banner-of-victory(jayadhvajaḥ)
+[unopposable](asādhya)+[sole](eka)+[world](jagat)+[teacher](chāstā) [by-all](viśva)+[worshipped](vandyo) [victory](jaya)+[banner](dhvajaḥ)
 
 ## mukta-m0-p171-v4275
-best-of-husbands(bharttuḥśreṣṭhaḥ) foremost-lord-of-progeny(prajeśāgryaḥ) chief-progenitor-of-Marīci(marīcijanakāgraṇīḥ)
+[of-husband](bharttuḥ)+[best](śreṣṭhaḥ) [of-progeny-lords](prajeśa)+[foremost](agryo) [of-marīci](marīci)+[born](janaka)+[chief](agraṇīḥ)

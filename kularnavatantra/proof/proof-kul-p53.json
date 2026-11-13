@@ -3,9 +3,7 @@
  "song": "kul-p53",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "DATA_OBJECTS 3 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "2dc06a1af93e80a7",
@@ -35,11 +33,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "t1[kul-p53-v1311]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p53-v1323]: history[] entries need {gloss, reason, date}",
-   "t1[kul-p53-v1325]: history[] entries need {gloss, reason, date}"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 116,
@@ -54,11 +48,11 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
-  "t1": "f71aa4357610b43789184740461c929fab26156fbbc7e48de7bb8fea7279e233",
+  "t1": "08a98cf650d561928d3cbeaa00e87f08c330be986526cab595ea124997b246ee",
   "l0": "1a0fed0d5fc194d85e01b39ef8511bcede53051561260d015ed47f5770bb2df4",
   "argmap": "b11cee93e7b8cb7109c894de138fa4c5c573a55487cb89bbfe017d5203c4b04a",
   "l2": "92faf730bc1a2b0ec6b9d75108cc2113fd43174125e8d30f54ffe97791eb7d04",

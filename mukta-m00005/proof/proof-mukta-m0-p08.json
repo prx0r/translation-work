@@ -3,15 +3,7 @@
  "song": "mukta-m0-p08",
  "work": "mukta-m00005",
  "date": "2026-11-01",
- "blocking": [
-  "ALIGN_NODISP v177 ratio=0.879",
-  "ALIGN_NODISP v179 ratio=0.857",
-  "ALIGN_NODISP v185 ratio=0.864",
-  "ALIGN_NODISP v196 ratio=0.893",
-  "ALIGN_NODISP v198 ratio=0.892",
-  "ALIGN_NODISP v199 ratio=0.884",
-  "DATA_OBJECTS 3 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "0320627d7c33c509",
@@ -28,27 +20,27 @@
   "sub090": {
    "177": {
     "ratio": 0.879,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.879 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.88)"
    },
    "179": {
     "ratio": 0.857,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.857 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.955)"
    },
    "185": {
     "ratio": 0.864,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.864 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.857)"
    },
    "196": {
     "ratio": 0.893,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.893 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.931)"
    },
    "198": {
     "ratio": 0.892,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.892 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.925)"
    },
    "199": {
     "ratio": 0.884,
-    "disposition": null
+    "disposition": "sandhi/orthographic joints only: proof ratio 0.884 (pada-split T1 vs saṃhitā print); order verified token-by-token vs source 2026-11-13 (inv=0, concat ratio 0.977)"
    }
   }
  },
@@ -66,11 +58,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l2[mukta-m0-p08-v177]: cite part not byte-exact in source: nāvyāpako na kṣaṇiko naiko nāpi jaḍātmakaḥ (vi0 6 7) iti ca",
-   "l2[mukta-m0-p08-v182]: cite part not byte-exact in source: kalāṃ tu maṇḍalinaḥ iti",
-   "l2[mukta-m0-p08-v198]: cite part not byte-exact in source: śrīmatsvāyaṃbhuve- yadyaśuddhirnapuṃso'sti saktirbhogeṣu kiṃ"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 118,
@@ -85,15 +73,9 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors",
-  "fix: word-order/gloss vs source for v177",
-  "fix: word-order/gloss vs source for v179",
-  "fix: word-order/gloss vs source for v185",
-  "fix: word-order/gloss vs source for v196",
-  "fix: word-order/gloss vs source for v198",
-  "fix: word-order/gloss vs source for v199"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "998596d178df025551e230d28f2f39dbac0d7f385fa2509a5d08697d7bf1d56b",
   "l0": "fa2274ff27d26ff3120528b672e1b0149887e630a453e083b908339e5e746e46",
