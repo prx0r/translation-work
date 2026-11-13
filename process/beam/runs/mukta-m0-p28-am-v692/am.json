@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p28",
  "verse": 692,
- "question": "Who is declared to be the presiding deity of the ajapā mantra?",
+ "question": "Which revered divine figures are invoked in this compound address?",
  "premises": [
-  "The mantra has a presiding deity.",
-  "That deity is identified as the origin of the worlds.",
-  "That deity is named as the lord of Girijā."
+  "Gaṇeśa, Nandin, and Candreśa are named",
+  "Govinda and Brahmā are named as adorers",
+  "The verse is a vocative address"
  ],
- "inference": "The presiding deity of this mantra is declared to be the lord of Girijā, the origin of the worlds.",
- "uncertainties": [],
- "plain_english": "Its deity is well declared to be the lord of Girijā, the origin of the worlds."
+ "inference": "The addressed lord is honored by major deities including Govinda and Brahmā.",
+ "uncertainties": [
+  "The compound structure is dense; parsed as a vocative epithet chain."
+ ],
+ "plain_english": "O you who are Gaṇeśa, Nandin, and Candreśa, adored by Govinda and Brahmā."
 }
