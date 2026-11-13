@@ -3,34 +3,29 @@
  "verse": 442,
  "rows": [
   {
-   "lemma": "tāvat",
+   "lemma": "tāvajjapaṃ",
+   "morph": "compound=adj+n.acc.sg",
+   "grounds": "compound: tāvat + japa, amount of recitation"
+  },
+  {
+   "lemma": "prakurvīta",
+   "morph": "3.sg.opt.mid √kṛ",
+   "grounds": "optative of pra-kṛ, enjoining action"
+  },
+  {
+   "lemma": "śatrūṇāṃ",
+   "morph": "m.gen.pl",
+   "grounds": "genitive indicating those targeted"
+  },
+  {
+   "lemma": "nāśanāya",
+   "morph": "n.dat.sg",
+   "grounds": "dative of purpose"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "adverb referring to the prescribed amount of recitation"
-  },
-  {
-   "lemma": "japte",
-   "morph": "n.loc.sg (past participle, jap)",
-   "grounds": "locative absolute indicating the condition"
-  },
-  {
-   "lemma": "maheśāni",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address to the goddess"
-  },
-  {
-   "lemma": "puraścaryā",
-   "morph": "f.nom.sg",
-   "grounds": "subject that succeeds"
-  },
-  {
-   "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
-  },
-  {
-   "lemma": "sidhyati",
-   "morph": "3.sg.pres.active (sidh)",
-   "grounds": "verb indicating successful completion"
+   "grounds": "connective particle"
   }
  ]
 }

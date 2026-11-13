@@ -3,24 +3,34 @@
  "verse": 402,
  "rows": [
   {
-   "lemma": "sarvaṃ",
+   "lemma": "ekena",
+   "morph": "n.inst.sg",
+   "grounds": "qualifies vilvapatreṇa"
+  },
+  {
+   "lemma": "vilvapatreṇa",
+   "morph": "n.inst.sg",
+   "grounds": "instrument of offering"
+  },
+  {
+   "lemma": "tat",
    "morph": "n.nom.sg",
-   "grounds": "totality attained"
+   "grounds": "demonstrative qualifying phalaṃ"
   },
   {
-   "lemma": "sampūrṇa+m+āyāti",
-   "morph": "3.sg.pres.act (sam-pūrṇa + ā + √yā)",
-   "grounds": "compound verb form indicating attainment of fullness"
+   "lemma": "phalaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "result obtained"
   },
   {
-   "lemma": "sādhako",
-   "morph": "m.nom.sg",
-   "grounds": "subject"
+   "lemma": "labhate",
+   "morph": "3.sg.pres.mid (√labh)",
+   "grounds": "result of offering"
   },
   {
-   "lemma": "bhakti+mānasaḥ",
-   "morph": "m.nom.sg (bahuvrīhi)",
-   "grounds": "possessive compound describing the practitioner"
+   "lemma": "dhruvam",
+   "morph": "(indecl.)",
+   "grounds": "emphasizes certainty"
   }
  ]
 }

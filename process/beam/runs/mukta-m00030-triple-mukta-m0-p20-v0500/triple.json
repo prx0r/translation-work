@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "navamīn",
+     "gloss": "ninth-day",
+     "grounds": "accusative of time indicating the starting point; form shows final nasal",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "absolutive expressing action prior to the main verb",
+     "morph": "gerund sam-ā-√rabh"
+    },
+    {
+     "surface": "yāvac",
+     "gloss": "until",
+     "grounds": "correlative particle marking the extent or limit of duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navamī",
+     "gloss": "ninth-day",
+     "grounds": "lunar day designation marking the endpoint of the period",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing prescribed duration or possibility",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What duration of observance is prescribed beginning from one ninth lunar day?",
+   "premises": [
+    "The observance begins from a ninth lunar day.",
+    "The prescribed period extends until another ninth lunar day.",
+    "The optative verb indicates a prescribed duration."
+   ],
+   "inference": "The observance is to be carried out for a period starting on one ninth lunar day and continuing until the next ninth lunar day.",
+   "uncertainties": [
+    "Whether the period spans consecutive lunar fortnights or a full lunar month is not explicitly specified."
+   ],
+   "plain_english": "Beginning indeed from the ninth day, it should continue until the ninth day comes again."
+  }
+ ]
+}

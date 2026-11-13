@@ -3,29 +3,29 @@
  "verse": 435,
  "rows": [
   {
-   "lemma": "tāvat",
+   "lemma": "sandhyākālaṃ",
+   "morph": "compound=n+n.acc.sg",
+   "grounds": "compound: sandhyā + kāla, starting point"
+  },
+  {
+   "lemma": "samārabhya",
+   "morph": "(gerund) √rabh",
+   "grounds": "absolutive of sam-ā-rabh, marks start"
+  },
+  {
+   "lemma": "yāvat",
    "morph": "(indecl.)",
-   "grounds": "adverb referring to the prescribed amount of recitation"
+   "grounds": "conjunction marking duration limit"
   },
   {
-   "lemma": "japtaḥ",
-   "morph": "m.nom.sg (past participle, jap)",
-   "grounds": "past participle indicating completed recitation"
-  },
-  {
-   "lemma": "nirātaṃkaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "adjective describing the resulting state"
-  },
-  {
-   "lemma": "sarva+siddhī+īśvaraḥ",
-   "morph": "compound: sarva+siddhi+īśvara (m.nom.sg)",
-   "grounds": "compound describing the attained mastery"
+   "lemma": "suryodayaṃ",
+   "morph": "compound=n+n.nom.sg",
+   "grounds": "compound: sūrya + udaya, endpoint"
   },
   {
    "lemma": "bhavet",
-   "morph": "3.sg.optative.active (bhū)",
-   "grounds": "optative expressing the result"
+   "morph": "3.sg.opt.act √bhū",
+   "grounds": "optative of bhū, indicating duration"
   }
  ]
 }

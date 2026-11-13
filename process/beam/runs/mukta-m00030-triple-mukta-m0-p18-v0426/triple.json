@@ -1,0 +1,1111 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "āsane",
+     "gloss": "on-seat",
+     "grounds": "locative of āsana, place of practice",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japenmantraṃ",
+     "gloss": "should-recite-mantra",
+     "grounds": "fused form: japet + mantraṃ; recitation of mantra",
+     "morph": "compound=verb+object"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral indicating count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "eight-more",
+     "grounds": "compound: aṣṭa + uttara, exceeding by eight",
+     "morph": "compound=adj+adj"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral completing 108 count",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many mantra recitations must be performed while seated on the ritual seat?",
+   "premises": [
+    "The practitioner is situated on a seat.",
+    "The mantra is to be recited.",
+    "The prescribed count is a hundred and eight."
+   ],
+   "inference": "While seated, the practitioner must recite the mantra one hundred and eight times.",
+   "uncertainties": [],
+   "plain_english": "And seated on the seat, one should recite the mantra one hundred and eight times."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "ṣaṭsahasraṃ",
+     "gloss": "six-thousand",
+     "grounds": "numeral compound: ṣaṭ + sahasra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japenmantraṃ",
+     "gloss": "should-recite-mantra",
+     "grounds": "fused form: japet + mantraṃ",
+     "morph": "compound=verb+object"
+    },
+    {
+     "surface": "vairiṇā",
+     "gloss": "for-enemy",
+     "grounds": "instrumental used with purpose of targeting enemy",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "homayed",
+     "gloss": "should-offer-oblation",
+     "grounds": "optative of hu, ritual fire offering",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb asserting certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation and fire offering ensure certain effect against an enemy?",
+   "premises": [
+    "The mantra is to be recited six thousand times.",
+    "The rite is directed against an enemy.",
+    "A fire oblation must be performed."
+   ],
+   "inference": "Reciting the mantra six thousand times and performing oblation will certainly affect the enemy.",
+   "uncertainties": [],
+   "plain_english": "One should recite the mantra six thousand times and certainly perform oblation against the enemy."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "niśīthe",
+     "gloss": "at-midnight",
+     "grounds": "locative indicating ritual time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṛṣṇapuṣpaṇa",
+     "gloss": "with-black-flower",
+     "grounds": "instrumental compound: kṛṣṇa + puṣpa, offering substance",
+     "morph": "compound=adj+n.ins.sg"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer-oblation",
+     "grounds": "optative of hu, ritual fire offering",
+     "morph": "3.sg.opt.act √hu"
+    }
+   ],
+   "question": "At what time and with what substance should the oblation be performed?",
+   "premises": [
+    "The rite is addressed to the great goddess.",
+    "The prescribed time is midnight.",
+    "The offering substance is a black flower."
+   ],
+   "inference": "At midnight one should perform oblation with a black flower.",
+   "uncertainties": [
+    "kṛṣṇapuṣpaṇa may reflect a textual form for kṛṣṇapuṣpeṇa"
+   ],
+   "plain_english": "And, O great goddess, one should perform oblation at midnight with a black flower."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "kulapuṣpeṇa",
+     "gloss": "with-kula-flower",
+     "grounds": "instrumental compound: kula + puṣpa, ritual offering",
+     "morph": "compound=n+n.ins.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "object of the ritual action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-perform",
+     "grounds": "optative of kṛ, enjoining action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "the-wise-one",
+     "grounds": "qualified practitioner performing the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should perform oblation with a kula flower for the goddess of gods?",
+   "premises": [
+    "The offering substance is a kula flower.",
+    "The rite is addressed to the goddess of gods.",
+    "The performer must be wise."
+   ],
+   "inference": "The wise practitioner should perform oblation with a kula flower.",
+   "uncertainties": [],
+   "plain_english": "O goddess of gods, the wise one should perform oblation with a kula flower."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "aṣṭottarasahasreṇa",
+     "gloss": "by-eight-more-thousand",
+     "grounds": "instrumental numeral compound indicating 1008 repetitions",
+     "morph": "compound=adj+n.ins.sg"
+    },
+    {
+     "surface": "vairiṇaṃ",
+     "gloss": "enemy",
+     "grounds": "object targeted by the rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mohayet",
+     "gloss": "one-should-delude",
+     "grounds": "optative causative of muh, magical effect",
+     "morph": "3.sg.opt.caus.act √muh"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb asserting certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What number of repetitions certainly brings delusion upon an enemy?",
+   "premises": [
+    "The rite uses one thousand and eight repetitions.",
+    "The target is an enemy.",
+    "The intended effect is delusion."
+   ],
+   "inference": "Performing the rite one thousand and eight times will certainly delude the enemy.",
+   "uncertainties": [],
+   "plain_english": "By one thousand and eight repetitions, one should certainly delude the enemy."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "aṣṭākṣaraṃ",
+     "gloss": "eight-syllabled",
+     "grounds": "compound: aṣṭa + akṣara, describing mantra",
+     "morph": "compound=num+n.acc.sg"
+    },
+    {
+     "surface": "mahāmantraṃ",
+     "gloss": "great-mantra",
+     "grounds": "compound: mahā + mantra, object of recitation",
+     "morph": "compound=adj+n.acc.sg"
+    },
+    {
+     "surface": "dvisahasraṃ",
+     "gloss": "two-thousand",
+     "grounds": "numeral indicating count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative of jap, enjoining recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "the-wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many times must the wise practitioner recite the eight-syllabled great mantra?",
+   "premises": [
+    "The mantra is eight-syllabled and great.",
+    "The prescribed count is two thousand.",
+    "The practitioner is wise."
+   ],
+   "inference": "The wise one should recite the eight-syllabled great mantra two thousand times.",
+   "uncertainties": [],
+   "plain_english": "The wise one should recite the eight-syllabled great mantra two thousand times."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "gomuṇḍañ",
+     "gloss": "cow-head",
+     "grounds": "compound: go + muṇḍa, ritual object taken",
+     "morph": "compound=n+n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive of sam-ā-dā, prior action",
+     "morph": "(gerund) √dā"
+    },
+    {
+     "surface": "nāmamantraṃ",
+     "gloss": "name-mantra",
+     "grounds": "compound: nāma + mantra, to be written",
+     "morph": "compound=n+n.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "optative of likh, enjoining inscription",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual object must be taken before writing the name-mantra upon it?",
+   "premises": [
+    "A cow's head is to be taken.",
+    "The name-mantra is to be written.",
+    "The writing follows the taking."
+   ],
+   "inference": "After taking a cow's head, one should then write the name-mantra on it.",
+   "uncertainties": [],
+   "plain_english": "And having taken a cow's head, one should then write the name-mantra."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "juhūyāt",
+     "gloss": "one-should-offer-oblation",
+     "grounds": "optative of hu, ritual fire offering",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "nīlapuṣpeṇa",
+     "gloss": "with-blue-flower",
+     "grounds": "instrumental compound: nīla + puṣpa, offering substance",
+     "morph": "compound=adj+n.ins.sg"
+    },
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "eight-more-hundred",
+     "grounds": "numeral compound indicating 108",
+     "morph": "compound=adj+n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what substance and how many times should oblation be offered again?",
+   "premises": [
+    "Oblation is to be performed again.",
+    "The offering substance is a blue flower.",
+    "The count is one hundred and eight."
+   ],
+   "inference": "One should again offer oblation with a blue flower one hundred and eight times.",
+   "uncertainties": [],
+   "plain_english": "One should again offer oblation with a blue flower one hundred and eight times."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "suryodayaṃ",
+     "gloss": "sun-rise",
+     "grounds": "compound: sūrya + udaya, starting point",
+     "morph": "compound=n+n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "absolutive of sam-ā-rabh, marks start",
+     "morph": "(gerund) √rabh"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction marking duration limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryāntaraṃ",
+     "gloss": "sun-setting",
+     "grounds": "compound: sūrya + antara, end point of period",
+     "morph": "compound=n+n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū, indicating duration",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What daytime period defines the duration for the prescribed ritual action?",
+   "premises": [
+    "The action begins at sunrise.",
+    "The action continues until another solar point.",
+    "The endpoint is expressed as sūryāntaraṃ."
+   ],
+   "inference": "The ritual period extends from sunrise until the specified solar endpoint.",
+   "uncertainties": [
+    "sūryāntaraṃ may mean sunset or another solar interval"
+   ],
+   "plain_english": "Beginning at sunrise, for as long as it lasts until the sun's setting."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "sandhyākālaṃ",
+     "gloss": "twilight-time",
+     "grounds": "compound: sandhyā + kāla, starting point",
+     "morph": "compound=n+n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "absolutive of sam-ā-rabh, marks start",
+     "morph": "(gerund) √rabh"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction marking duration limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suryodayaṃ",
+     "gloss": "sun-rise",
+     "grounds": "compound: sūrya + udaya, endpoint",
+     "morph": "compound=n+n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū, indicating duration",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What nighttime period defines the duration for the prescribed ritual action?",
+   "premises": [
+    "The action begins at twilight.",
+    "The action continues until sunrise.",
+    "The duration spans the night period."
+   ],
+   "inference": "The ritual period extends from twilight until sunrise.",
+   "uncertainties": [],
+   "plain_english": "Beginning at twilight time, for as long as it lasts until sunrise."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "kṛṣṇapuṣpeṇa",
+     "gloss": "with-black-flower",
+     "grounds": "instrumental compound: kṛṣṇa + puṣpa, offering substance",
+     "morph": "compound=adj+n.ins.sg"
+    },
+    {
+     "surface": "hotavyaṃ",
+     "gloss": "to-be-offered",
+     "grounds": "gerundive of hu, obligation to offer",
+     "morph": "n.nom.sg.gerundive √hu"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "conjunction marking duration limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "eradication",
+     "grounds": "ritual effect of driving away",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū, indicating completion",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Until what result is achieved must oblation with black flowers continue?",
+   "premises": [
+    "Oblation must be made with black flowers.",
+    "The action continues over time.",
+    "The goal is eradication."
+   ],
+   "inference": "Oblation with black flowers must continue until eradication is achieved.",
+   "uncertainties": [],
+   "plain_english": "Oblation must be made with a black flower until eradication is accomplished."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "mātṛkāpuṭitaṃ",
+     "gloss": "mātṛkā-enclosed",
+     "grounds": "compound: mātṛkā + puṭita, mantra enclosed by alphabet",
+     "morph": "compound=n+adj.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ, prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "optative of pra-jap, repeated recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "surasundari",
+     "gloss": "o-beautiful-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How must the mantra be prepared before recitation according to the goddess?",
+   "premises": [
+    "The mantra is to be enclosed by the mātṛkā.",
+    "This preparation is done first.",
+    "Recitation follows the preparation."
+   ],
+   "inference": "One should enclose the mantra with the mātṛkā and then recite it.",
+   "uncertainties": [],
+   "plain_english": "O beautiful goddess, having enclosed it with the mātṛkā, one should recite it."
+  },
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "daśāhābhyantare",
+     "gloss": "within-ten-days",
+     "grounds": "compound locative: daśa + aha + abhyantara",
+     "morph": "compound=num+n+n.loc.sg"
+    },
+    {
+     "surface": "vairivināśo",
+     "gloss": "enemy-destruction",
+     "grounds": "compound: vairi + vināśa, result of rite",
+     "morph": "compound=n+n.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present of jan, occurrence of result",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb asserting certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Within what time frame does the destruction of the enemy certainly occur?",
+   "premises": [
+    "The ritual produces a result.",
+    "The result is destruction of the enemy.",
+    "The time limit is ten days."
+   ],
+   "inference": "The destruction of the enemy certainly arises within ten days.",
+   "uncertainties": [],
+   "plain_english": "Within ten days, the destruction of the enemy certainly occurs."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "yoginīṃ",
+     "gloss": "yoginī",
+     "grounds": "female deity to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb indicating ritual location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam-pūj, prior action",
+     "morph": "(gerund) √pūj"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "deity to be worshipped next",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative of pūj, enjoining worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what sequence should the yoginī and Bhairava be worshipped at that place?",
+   "premises": [
+    "The yoginī is worshipped first.",
+    "Bhairava is worshipped afterward.",
+    "The actions occur there in sequence."
+   ],
+   "inference": "One should first worship the yoginī there and then worship Bhairava.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the yoginī there, one should then worship Bhairava."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "kṣetrapālañ",
+     "gloss": "kṣetrapāla",
+     "grounds": "guardian deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saspūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam-pūj, prior action; spelling variant",
+     "morph": "(gerund) √pūj"
+    },
+    {
+     "surface": "tāriṇīṃ",
+     "gloss": "tāriṇī",
+     "grounds": "goddess to be worshipped next",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb indicating ritual location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative of pūj, enjoining worship",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "In what sequence should Kṣetrapāla and Tāriṇī be worshipped at that place?",
+   "premises": [
+    "Kṣetrapāla is worshipped first.",
+    "Tāriṇī is worshipped afterward.",
+    "The actions occur there in sequence."
+   ],
+   "inference": "One should first worship Kṣetrapāla there and then worship Tāriṇī.",
+   "uncertainties": [
+    "saspūjya appears as a variant of sampūjya"
+   ],
+   "plain_english": "And having worshipped Kṣetrapāla, one should then worship Tāriṇī there."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "viṃśatyakṣaram",
+     "gloss": "twenty-syllabled",
+     "grounds": "compound: viṃśati + akṣara, describing mantra",
+     "morph": "compound=num+n.acc.sg"
+    },
+    {
+     "surface": "ucārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of uc-car, prior action",
+     "morph": "(gerund) √car"
+    },
+    {
+     "surface": "nāmnomadhye",
+     "gloss": "in-middle-of-name",
+     "grounds": "compound locative: nāman + madhya, placement of mantra",
+     "morph": "compound=n+n.loc.sg"
+    },
+    {
+     "surface": "sanātani",
+     "gloss": "o-eternal-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where must the twenty-syllabled mantra be uttered in relation to the name?",
+   "premises": [
+    "The mantra has twenty syllables.",
+    "The mantra is to be uttered.",
+    "Its placement is in the middle of the name."
+   ],
+   "inference": "The twenty-syllabled mantra must be uttered in the middle of the name.",
+   "uncertainties": [
+    "nāmnomadhye shows sandhi fusion of nāmno + madhye"
+   ],
+   "plain_english": "O eternal one, having uttered the twenty-syllabled mantra in the middle of the name."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "tāvajjapaṃ",
+     "gloss": "that-much-recitation",
+     "grounds": "compound: tāvat + japa, amount of recitation",
+     "morph": "compound=adj+n.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "optative of pra-kṛ, enjoining action",
+     "morph": "3.sg.opt.mid √kṛ"
+    },
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "genitive indicating those targeted",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nāśanāya",
+     "gloss": "for-destruction",
+     "grounds": "dative of purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose should that amount of recitation be performed against enemies?",
+   "premises": [
+    "A specified amount of recitation is required.",
+    "The targets are enemies.",
+    "The purpose is destruction."
+   ],
+   "inference": "One should perform that much recitation for the destruction of enemies.",
+   "uncertainties": [],
+   "plain_english": "One should perform that much recitation for the destruction of enemies."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "hotavyaṃ",
+     "gloss": "to-be-offered",
+     "grounds": "gerundive of hu, obligation to offer",
+     "morph": "n.nom.sg.gerundive √hu"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb indicating ritual location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "deveśañ",
+     "gloss": "lord-of-gods",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative of yaj, enjoining worship",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "the-wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offerings and worship must the wise practitioner perform there for the lord of gods?",
+   "premises": [
+    "Oblation must be made there.",
+    "The lord of gods must be worshipped.",
+    "The practitioner is wise."
+   ],
+   "inference": "The wise one should offer oblation there and worship the lord of gods.",
+   "uncertainties": [],
+   "plain_english": "O goddess of gods, oblation must be made there, and the wise one should worship the lord of gods."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "peg",
+     "grounds": "ritual object to be fixed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb indicating ritual location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaddhvā",
+     "gloss": "having-fixed",
+     "grounds": "absolutive of bandh, prior action; spelling variant",
+     "morph": "(gerund) √bandh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamantrair",
+     "gloss": "with-root-mantras",
+     "grounds": "instrumental compound: mūla + mantra, means of fixing",
+     "morph": "compound=adj+n.ins.pl"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what means must the ritual peg be fixed at that place?",
+   "premises": [
+    "A peg is to be fixed there.",
+    "The fixing is done with root mantras.",
+    "The instruction is addressed to the great goddess."
+   ],
+   "inference": "One should fix the peg there using the root mantras.",
+   "uncertainties": [
+    "vaddhvā appears as a variant of baddhvā"
+   ],
+   "plain_english": "O great goddess, having fixed the peg there with the root mantras."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb indicating ritual location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampujya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam-pūj, prior action; spelling variant",
+     "morph": "(gerund) √pūj"
+    },
+    {
+     "surface": "śavasnānaṃ",
+     "gloss": "corpse-bath",
+     "grounds": "compound: śava + snāna, ritual act",
+     "morph": "compound=n+n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative of sam-ā-car, enjoining action",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "What ritual act must be performed after worshipping Bhairava at that place?",
+   "premises": [
+    "Bhairava is worshipped there first.",
+    "A corpse-bath is prescribed.",
+    "The act follows the worship."
+   ],
+   "inference": "After worshipping Bhairava there, one should perform the corpse-bath.",
+   "uncertainties": [
+    "sampujya appears as a variant of sampūjya"
+   ],
+   "plain_english": "Having worshipped Bhairava there, one should perform the corpse-bath."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "vaṭukaṃ",
+     "gloss": "vaṭuka",
+     "grounds": "deity to be included in worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣetrapālañ",
+     "gloss": "kṣetrapāla",
+     "grounds": "guardian deity to be included",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginīṃ",
+     "gloss": "yoginī",
+     "grounds": "female deity to be included",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhairavīn",
+     "gloss": "bhairavī",
+     "grounds": "goddess to be included",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating inclusion in same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are likewise to be included in the ritual worship sequence?",
+   "premises": [
+    "Vaṭuka and Kṣetrapāla are named.",
+    "Yoginī and Bhairavī are named.",
+    "They are included likewise."
+   ],
+   "inference": "Vaṭuka, Kṣetrapāla, Yoginī, and Bhairavī are likewise to be worshipped.",
+   "uncertainties": [],
+   "plain_english": "Likewise Vaṭuka, Kṣetrapāla, the Yoginī, and Bhairavī."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "yavanīñ",
+     "gloss": "yavanī",
+     "grounds": "female figure named in rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition indicating exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śavaṃ",
+     "gloss": "corpse",
+     "grounds": "object of contemplation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sañcintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative of sam-cint, mental visualization",
+     "morph": "3.sg.opt.act √cint"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "the-wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What must the wise practitioner contemplate in relation to Yavanī and the corpse?",
+   "premises": [
+    "Yavanī is mentioned in the context.",
+    "The corpse is the object of contemplation.",
+    "The wise practitioner performs the contemplation."
+   ],
+   "inference": "The wise one should contemplate the corpse, with Yavanī excluded or in that specific condition.",
+   "uncertainties": [
+    "The exact syntactic role of vinā with yavanīñ is ambiguous"
+   ],
+   "plain_english": "O goddess, the wise one should contemplate the corpse without Yavanī."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "śavarūpaṃ",
+     "gloss": "corpse-form",
+     "grounds": "compound: śava + rūpa, form to be contemplated",
+     "morph": "compound=n+n.acc.sg"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "śiva",
+     "grounds": "deity identified with corpse-form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb indicating ritual location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative of cint, mental visualization",
+     "morph": "3.sg.opt.act √cint"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In what form should Śiva be contemplated at that ritual location?",
+   "premises": [
+    "Śiva is the object of contemplation.",
+    "The form is that of a corpse.",
+    "The contemplation occurs there."
+   ],
+   "inference": "One should contemplate Śiva there in the form of a corpse.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, one should contemplate Śiva there in the form of a corpse."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "mantrasiddhim",
+     "gloss": "mantra-success",
+     "grounds": "compound: mantra + siddhi, attainment sought",
+     "morph": "compound=n+n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb indicating manner or result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "rakṣa",
+     "gloss": "protect",
+     "grounds": "imperative of rakṣ, plea for protection",
+     "morph": "2.sg.imp.act √rakṣ"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "1.sg.acc"
+    },
+    {
+     "surface": "śaraṇāgatam",
+     "gloss": "taken-refuge",
+     "grounds": "compound: śaraṇa + āgata, one who has sought refuge",
+     "morph": "compound=n+adj.acc.sg"
+    }
+   ],
+   "question": "What protection is sought from the goddess after attaining mantra success?",
+   "premises": [
+    "Mantra success is invoked or attained.",
+    "The speaker has taken refuge.",
+    "The speaker asks the goddess for protection."
+   ],
+   "inference": "Having attained mantra success and taken refuge, the speaker asks the goddess to protect him.",
+   "uncertainties": [],
+   "plain_english": "Thus, O goddess, grant mantra success and protect me who have taken refuge."
+  }
+ ]
+}

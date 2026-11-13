@@ -3,24 +3,24 @@
  "verse": 438,
  "rows": [
   {
-   "lemma": "atha",
+   "lemma": "daśāhābhyantare",
+   "morph": "compound=num+n+n.loc.sg",
+   "grounds": "compound locative: daśa + aha + abhyantara"
+  },
+  {
+   "lemma": "vairivināśo",
+   "morph": "compound=n+n.nom.sg",
+   "grounds": "compound: vairi + vināśa, result of rite"
+  },
+  {
+   "lemma": "jāyate",
+   "morph": "3.sg.pres.mid √jan",
+   "grounds": "present of jan, occurrence of result"
+  },
+  {
+   "lemma": "dhruvam",
    "morph": "(indecl.)",
-   "grounds": "particle introducing another alternative"
-  },
-  {
-   "lemma": "vā+anyaprakāreṇa",
-   "morph": "compound: vā+anya+prakāra (indecl.+m.inst.sg)",
-   "grounds": "compound indicating an alternative procedure"
-  },
-  {
-   "lemma": "puraścaraṇam",
-   "morph": "n.acc.sg",
-   "grounds": "accusative object of the statement"
-  },
-  {
-   "lemma": "ucyate",
-   "morph": "3.sg.pres.passive (vac)",
-   "grounds": "passive verb introducing the teaching"
+   "grounds": "adverb asserting certainty of result"
   }
  ]
 }

@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 434,
- "question": "During which lunar fortnights must the eighth and fourteenth day observances occur?",
+ "question": "What daytime period defines the duration for the prescribed ritual action?",
  "premises": [
-  "The eighth and fourteenth days are specified.",
-  "Both fortnights of the lunar month are included."
+  "The action begins at sunrise.",
+  "The action continues until another solar point.",
+  "The endpoint is expressed as sūryāntaraṃ."
  ],
- "inference": "The observance applies to the eighth and fourteenth days in both lunar fortnights.",
- "uncertainties": [],
- "plain_english": "On the eighth and fourteenth days of both fortnights as well."
+ "inference": "The ritual period extends from sunrise until the specified solar endpoint.",
+ "uncertainties": [
+  "sūryāntaraṃ may mean sunset or another solar interval"
+ ],
+ "plain_english": "Beginning at sunrise, for as long as it lasts until the sun's setting."
 }

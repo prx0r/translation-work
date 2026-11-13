@@ -3,24 +3,29 @@
  "verse": 431,
  "rows": [
   {
-   "lemma": "ṣaṭsahasraṃ",
+   "lemma": "aṣṭākṣaraṃ",
+   "morph": "compound=num+n.acc.sg",
+   "grounds": "compound: aṣṭa + akṣara, describing mantra"
+  },
+  {
+   "lemma": "mahāmantraṃ",
+   "morph": "compound=adj+n.acc.sg",
+   "grounds": "compound: mahā + mantra, object of recitation"
+  },
+  {
+   "lemma": "dvisahasraṃ",
    "morph": "n.acc.sg",
-   "grounds": "accusative specifying the number of recitations"
+   "grounds": "numeral indicating count of recitations"
   },
   {
    "lemma": "japet",
-   "morph": "3.sg.optative.active (jap)",
-   "grounds": "optative expressing injunction"
+   "morph": "3.sg.opt.act √jap",
+   "grounds": "optative of jap, enjoining recitation"
   },
   {
-   "lemma": "nityaṃ",
-   "morph": "(indecl.)",
-   "grounds": "adverb indicating regularity"
-  },
-  {
-   "lemma": "bhakti+bhāva+parāyaṇaḥ",
-   "morph": "compound: bhakti+bhāva+parāyaṇa (m.nom.sg)",
-   "grounds": "compound describing the practitioner's attitude"
+   "lemma": "sudhīḥ",
+   "morph": "m.nom.sg",
+   "grounds": "qualified practitioner"
   }
  ]
 }

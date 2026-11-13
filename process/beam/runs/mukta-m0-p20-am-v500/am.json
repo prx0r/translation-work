@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p20",
  "verse": 500,
- "question": "What value do vast preliminary rites hold without complete knowledge of the letters?",
+ "question": "What duration of observance is prescribed beginning from one ninth lunar day?",
  "premises": [
-  "Complete knowledge of the letters is required.",
-  "Preliminary rites may be performed in crores.",
-  "Ritual quantity does not replace requisite knowledge."
+  "The observance begins from a ninth lunar day.",
+  "The prescribed period extends until another ninth lunar day.",
+  "The optative verb indicates a prescribed duration."
  ],
- "inference": "Without complete knowledge of the letters, even a crore of preliminary rites has no value.",
- "uncertainties": [],
- "plain_english": "Without complete knowledge of the letters, what is the use of a crore of preliminary rites?"
+ "inference": "The observance is to be carried out for a period starting on one ninth lunar day and continuing until the next ninth lunar day.",
+ "uncertainties": [
+  "Whether the period spans consecutive lunar fortnights or a full lunar month is not explicitly specified."
+ ],
+ "plain_english": "Beginning indeed from the ninth day, it should continue until the ninth day comes again."
 }

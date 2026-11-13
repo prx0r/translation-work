@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[one](ekam) [only](eva) [head](śiraḥ) [and+face](vaktram) [in+great+lord](maheśe) [of+rudra](rudra) [form](vigrahe)
+[one+indeed](ekameva) [head+face](śirovaktraṃ) [in-maheśa](maheśe) [in-rudra-form](rudravigrahe)
 
 ## mukta-m0-p07-v152
-[by+impure+self](malātmanā) [distinguished](viśiṣṭam) [but](tu) [as+before](pūrvavat) [should+arrange](parikalpayet)
+[by-impure-self](malātmanā) [distinguished+but](viśiṣṭantu) [as-before](pūrvavat) [one-should-conceive](parikalpayet)
 
 ## mukta-m0-p07-v153
-[with+sixth+note](ṣaṣṭhasvara) [united](samopetam) [with+bindu](bindu) [and+sound](nāda) [adorned](vibhūṣitam)
+[endowed-with-sixth-note](ṣaṣṭhasvarasamopetaṃ) [adorned-with-bindu+nāda](bindunādavibhūṣitam)
 
 ## mukta-m0-p07-v154
-[in+the+image](bere) [always](sadā) [like+sadāśiva](sadāśivā) [also](api) [in+the+liṅga](liṅge) [also](api) [thus](evam) [should+perform](samācaret)
+[in-image](bere) [in-sadāśiva+or](sadāśivevāpi) [in-liṅga+also](liṃgepyevaṃ) [thus](evaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p07-v155
-[the+characteristics+of+the+image](pratimālakṣaṇa) [stated](uktaṃ) [and+great+lord](maheśam) [with+mantra](anunā) [accompanied](yutam)
+[as-stated-in-image-characteristics+and](pratimālakṣaṇoktañca) [united-with-maheśa-mantra](maheśamanunāyutam)
 
 ## mukta-m0-p07-v156
-[with+that+mantra](tanmantreṇa) [united](samopetam) [the+body+of+vidyā](vidyādeham) [should+fashion](prakalpayet)
+[with-that-mantra](tanmantreṇa) [endowed](samopetaṃ) [vidyā-body](vidyādehaṃ) [one-should-conceive](prakalpayet)
 
 ## mukta-m0-p07-v157
-[for+the+purpose+of+the+body+of+vidyā](vidyādehārtham) [intended](uddiṣṭam) [everywhere](sarvataḥ) [śiva](śivaḥ) [indeed](eva) [and](ca)
+[designated-for-vidyā-body](vidyādehārthamuddiṣṭaḥ) [in-all-respects](sarvataś) [śiva](śiva) [indeed](eva) [and](ca)
 
 ## mukta-m0-p07-v158
-[by+that](tena) [having+invoked](āvāhya) [śiva](śivam) [in+the+triple+body](dehatritaye) [by+the+former+path](pūrvavartmanā)
+[by-that](tena) [having-invoked](āvāhya) [śiva](śivandeha) [in-body-triad](tritaye) [by-previous-method](pūrvavartmanā)
 
 ## mukta-m0-p07-v159
-[fragrance](gandham) [flower](puṣpam) [and](ca) [incense](dhūpam) [and](ca) [lamp](dīpam) [food+offering](naivedyam) [also](api) [and](ca)
+[fragrance](gandhaṃ) [flower+and](puṣpaśca) [incense+and](dhūpaśca) [lamp+food-offering+also+and](dīpannaivedyamapya ca)
 
 ## mukta-m0-p07-v160
-[united+with+five+enclosures](pañcāvaraṇasaṃyuktam) [in+four](catuḥ) [three](tri) [two](dvaya) [or+one](eka) [enclosure](saṃvṛtau)
+[endowed-with-five-enclosures](pañcāvaraṇasaṃyuktaṃ) [in-four+three+two+one-enclosures](catustridvayekasaṃvṛtau)
 
 ## mukta-m0-p07-v161
-[accompanied+by+retinue](parivārayutam) [and+if](ca) [it+be](tu) [offerings](balim) [in+that](tasmin) [should+perform](samācaret)
+[if-accompanied-by-retinue](parivārayutañcettu) [offering](baliṃ) [in-that](tasmin) [one-should-perform](samācaret)
 
 ## mukta-m0-p07-v162
-[pure+dance](śuddhanṛttam) [and](ca) [as+stated](yathā) [uktam) [all](sarvam) [like+prakṛti](prakṛtivat) [should+lead](nayet)
+[pure-dance+and+here+not-stated](śuddhanṛttañcayannoktaṃ) [all](sarvaṃ) [as-before](prakṛtivat) [one-should-conduct](nayet)
 
 ## mukta-m0-p07-v163
-[pure+dance](śuddhanṛttam) [and](ca) [having+abandoned](hitvā) [or](vā) [action](karma) [all](sarvam) [should+perform](samācaret)
+[pure-dance+and](śuddhanṛttañca) [having-abandoned](hitvā) [or](vā) [rite](karma) [all](sarvaṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p07-v164
-[festival](utsavam) [bathing](snapanam) [and](ca) [indeed](eva) [the+ritual+of+mounting+the+damanaka](damanārohaṇakriyām)
+[festival](utsavaṃ) [bathing+and+indeed](snapanañcaiva) [damana-mounting-rite](damanārohaṇakriyām)
 
 ## mukta-m0-p07-v165
-[year+etc.](saṃvatsara) [ādi](ādi) [inscriptions](lekhām) [and](ca) [named+vasanta](vasantākhyam) [that](tat) [festival](utsavam)
+[year-beginning-inscription+and](saṃvatsarādi lekhāñca) [called-spring](vasantākhyaṃ) [that-festival](tadutsavam)
 
 ## mukta-m0-p07-v166
-[expiation](prāyaścittam) [and](ca) [of+the+decayed](jīrṇānām) [restoration](uddhāram) [and](ca) [o+best+of+gurus](gurūttamāḥ)
+[expiation+and](prāyaścittañca) [of-decayed-ones](jīrṇānāṃ) [renovation+and](uddhārañca) [o-best-of-teachers](gurūttamāḥ)
 
 ## mukta-m0-p07-v167
-[somewhat](kiñca) [in+āṣāḍha](āṣāḍhe) [in+aśvinī](aśvinī) [month](māse) [conjunction+of+pūrva+phālgunī](pūrvaphalgunisaṃgame)
+[and+in-āṣāḍha](kiñcāṣāḍhe) [aśvinī](aśvinī) [in-month](māse) [at-pūrva-phālguṇī-conjunction](pūrvaphalgunisaṃgame)
 
 ## mukta-m0-p07-v168
-[gaurī](gaurī) [and+maheśvarī](maheśvarī) [images](mūrtīḥ) [in+the+proper+place](sadeśe) [and](tu) [manonmanī](manonmanī)
+[gaurī-maheśvarī-images](gaurīmaheśvarīmūrtī) [in-that-place](sadeśe) [but](tu) [manonmanī](manonmanī)
 
 ## mukta-m0-p07-v169
-[by+gaurī+mantra](gaurīmantreṇa) [for+gaurī](gauryāḥ) [tu](tu) [with+twenty+six+kalās](ṣaḍviṃśatikalānvitām)
+[with-gaurī-mantra](gaurī mantreṇa) [of-gaurī+but](gauryāstu) [endowed-with-twenty-six-kalās](ṣaḍviṃśatikalānvitām)
 
 ## mukta-m0-p07-v170
-[by+the+prime+śakti+atom](ādiśaktyaṇunā) [in+her](tasyām) [the+prime+śakti](ādiśaktim) [should+worship](prapūjayet)
+[with-ādiśakti-mantra](ādiśaktyaṇunā) [in-her](tasyām) [ādiśakti](ādiśaktiṃ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p07-v171
-[on+the+eighth](aṣṭamyām) [or](vā) [on+the+fourteenth](caturdaśyām) [at+equinox](viṣuva) [or+solstice](ayanasaṃkrame)
+[on-eighth](aṣṭamyāṃ) [or](vā) [on-fourteenth](caturdaśyāṃ) [at-equinox-solstice-transition](viṣuvāyanasaṃkrame)
 
 ## mukta-m0-p07-v172
-[in+a+good+yoga](suyoge) [on+a+sunday](sūryavāre) [or](vā) [and](ca) [at+the+end+of+the+festival](utsavānte) [for+three](trayam) [days](dinam)
+[at-auspicious-conjunction](suyoge) [on-sunday](sūryavāre) [or](vā) [and+at-festival-end](cotsavānte) [three-days](dinaṃ trayam)
 
 ## mukta-m0-p07-v173
-[for+the+king](rājñaḥ) [at+the+consecration+nakṣatra](abhiṣekanakṣatre) [in+famine](durbhikṣe) [in+evil+omens](durnimittike)
+[at-king’s-coronation-constellation](rājñobhiṣekanakṣatre) [in-famine](durbhikṣe) [at-bad-omen](durnimittike)
 
 ## mukta-m0-p07-v174
-[at+the+end+of+consecration](pratiṣṭhānte) [in+a+portent](adbhute) [in+the+arising+of+all+diseases](sarvarogotpattau) [in+obstruction](avagrahe)
+[at-end-of-consecration](pratiṣṭhānte) [at-wonder](dbhute) [at-arising-of-all-diseases](sarvarogotpattāv) [in-drought](avagrahe)
 
 ## mukta-m0-p07-v175
-[bathing](snapanam) [and](tu) [as+prescribed](yathā) [ānmāya](ānmāya) [that](tat) [and](ca) [of+many+kinds](anekavidham) [would+be](bhavet)
+[bathing+but](snapanantu) [according-to-measure](yathānmāyaṃ) [that+and](taccā) [of-many-kinds](nekavidhaṃ) [should-be](bhavet)

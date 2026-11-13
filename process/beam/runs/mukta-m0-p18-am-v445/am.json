@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 445,
- "question": "By what method must the practitioner perform all the required actions?",
+ "question": "What ritual act must be performed after worshipping Bhairava at that place?",
  "premises": [
-  "A method has been previously stated.",
-  "All required actions must be performed according to it."
+  "Bhairava is worshipped there first.",
+  "A corpse-bath is prescribed.",
+  "The act follows the worship."
  ],
- "inference": "Everything should be done according to the aforementioned method.",
- "uncertainties": [],
- "plain_english": "All should be done by the aforementioned method, O one praised by heroes."
+ "inference": "After worshipping Bhairava there, one should perform the corpse-bath.",
+ "uncertainties": [
+  "sampujya appears as a variant of sampūjya"
+ ],
+ "plain_english": "Having worshipped Bhairava there, one should perform the corpse-bath."
 }

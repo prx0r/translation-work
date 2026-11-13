@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p18",
  "verse": 440,
- "question": "Which parts of the day correspond to the spring and summer seasons?",
+ "question": "In what sequence should Kṣetrapāla and Tāriṇī be worshipped at that place?",
  "premises": [
-  "Spring is assigned to the forenoon.",
-  "Summer is assigned to midday."
+  "Kṣetrapāla is worshipped first.",
+  "Tāriṇī is worshipped afterward.",
+  "The actions occur there in sequence."
  ],
- "inference": "Spring corresponds to the forenoon and summer corresponds to midday.",
- "uncertainties": [],
- "plain_english": "Spring is in the forenoon, and likewise summer is at midday."
+ "inference": "One should first worship Kṣetrapāla there and then worship Tāriṇī.",
+ "uncertainties": [
+  "saspūjya appears as a variant of sampūjya"
+ ],
+ "plain_english": "And having worshipped Kṣetrapāla, one should then worship Tāriṇī there."
 }
