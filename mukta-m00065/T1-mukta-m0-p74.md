@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[hundred](śatam) [eight+more](aṣṭa+uttaraṃ) [having-offered](hutvā) [of-each+one](eka+ikasya) [indeed](tu) [in-occurrence](sambhave)
+[hundred](śatam) [eight+more](aṣṭottaraṃ) [having-offered](hutvā) [of-each+one](ekaikasya) [indeed](tu) [in-occurrence](sambhave)
 
 ## mukta-m0-p74-v1827
 [being-established](sthāpyamānaṃ) [when](yadā) [liṅga](liṅgaṃ) [situated](sthitaṃ) [or](vā) [in-middle](madhyataḥ) [auspicious](śubham)
 
 ## mukta-m0-p74-v1828
-[of-eldest+and-others](jyeṣṭha+ādīnāṃ) [indeed](tu) [of-abodes](veśmānāṃ) [threshold+equal+by-thread](dehalī+sama+sūtrataḥ)
+[of-best+and-others](jyeṣṭhādīnāṃ) [indeed](tu) [of-abodes](veśmānāṃ) [threshold+equal+by-thread](dehalīsamasūtrataḥ)
 
 ## mukta-m0-p74-v1829
-[with-rasa+tortoise](rasa+kūrma+anvitā) [to-be-joined](yojyā) [above+that](tad+ūrdhve) [and](ca) [another+stone](aparā+śilā)
+[with-mercury+tortoise](rasakūrmānvitā) [to-be-placed](yojyā) [above+that](tadūrdhve) [and](ca) [another+stone](aparāśilā)
 
 ## mukta-m0-p74-v1830
-[having-worshipped](iṣṭvā) [royal+stone](rāja+śilāṃ) [there](tatra) [with-śakti+mantra](śakti+mantreṇa) [one-should-place](vinyaset)
+[having-worshipped](iṣṭvā) [royal+stone](rājaśilāṃ) [there](tatra) [with-śakti+mantra](śaktimantreṇa) [one-should-place](vinyaset)
 
 ## mukta-m0-p74-v1831
-[by-Śiva's+command](śiva+ājñayā) [by-you](tvayā) [O-goddess](devi) [to-be-stayed](sthātavyam) [here](iha) [always](sarvadā)
+[by-Śiva's+command](śivājñayā) [by-you](tvayā) [O-goddess](devi) [to-be-stayed](sthātavyam) [here](iha) [always](sarvadā)
 
 ## mukta-m0-p74-v1832
-[and](ca) [demon](asure])
+[and](ca) [O-demoness](asure)
 
 ## mukta-m0-p74-v1833
-[having-smeared](vilipya) [with-sandalwood](candanena) [first](ādau) [having-fumigated](dhūpayitvā) [stone+surface](śilā+talam)
+[having-smeared](vilipya) [with-sandalwood](candanena) [first](ādau) [having-fumigated](dhūpayitvā) [stone+surface](śilātalam)
 
 ## mukta-m0-p74-v1834
-[with-own+direction+lord](sva+dig+īśena) [with-mantra](mantreṇa) [with-hṛd](hṛdā) [or](vā) [with-praṇava](praṇavena) [or](vā)
+[with-own+direction+lord](svadigīśena) [with-mantra](mantreṇa) [with-hṛd](hṛdā) [or](vā) [with-praṇava](praṇavena) [or](vā)
 
 ## mukta-m0-p74-v1835
-[with-cow-products+milk+mixed](gavya+pāyasa+saṃmiśra) [guggulu+liquid](guggulu+drava) [smeared](lepitāḥ)
+[with-cow-products+milk+mixed](gavyapāyasasaṃmiśra) [guggulu+liquid](gugguludrava) [smeared](lepitāḥ)
 
 ## mukta-m0-p74-v1836
-[in-opinion](mate) [in-opinion](mate) [otherwise](anyathā) [having-known](jñātvā) [by-own+will](sva+ikchayā) [or](vā) [should-place+teacher](nyaset+guruḥ)
+[in-opinion](mate) [in-opinion](mate) [otherwise](anyathā) [having-known](jñātvā) [by-own+will](svekchayā) [or](vā) [should-place+teacher](nyasedguruḥ)
 
 ## mukta-m0-p74-v1837
-[sapphire](indranīlaṃ) [and](ca) [good+blue](su+nīlaṃ) [in-east+etc.+order](pūrva+ādi+kramataḥ) [one-should-place](nyaset)
+[sapphire](indranīlaṃ) [and](ca) [good+blue-gem](sunīlaṃ) [in-east+etc.+order](pūrvādikramato) [one-should-place](nyaset)
 
 ## mukta-m0-p74-v1838
-[of-cat's-eye](vaidūryasya) [even](api) [in-non-obtainment](alābhe) [indeed](tu) [blue](nīlaṃ) [or](vā) [ruby](padmarāgakam)
+[of-cat's-eye](vaidūryasya) [even](api) [in-non-availability](alābhe) [indeed](tu) [blue-gem](nīlaṃ) [or](vā) [ruby](padmarāgakam)
 
 ## mukta-m0-p74-v1839
-[topaz](puṣpakaṃ) [ruby](padmarāgaṃ) [and](ca) [cat's-eye](vaidūryaṃ) [from-east+direction+etc.](prāk+diśā+āditaḥ)
+[topaz](puṣpakaṃ) [ruby](padmarāgaṃ) [and](ca) [cat's-eye](vaidūryaṃ) [from-east+direction+etc.](prāgdiśāditaḥ)
 
 ## mukta-m0-p74-v1840
-[from-other+opinions](mata+antarān)
+[from-other+opinions](matāntarān)
 
 ## mukta-m0-p74-v1841
-[having-arranged](nirupya) [these](etāni) [one-should-place](vinyase) [from-Indra+etc.+to-Īśa+end+range](indra+ādi+īśa+anta+gocarāt)
+[having-arranged](nirupya) [these](etāni) [one-should-place](vinyased) [from-Indra+etc.+to-Īśāna+direction+range](indrādīśāntagocarāt)
 
 ## mukta-m0-p74-v1842
-[orpiment](kāśīvam) [then](atha) [vermilion](sindūraṃ) [honey-stone](mākṣikaṃ) [red-ochre](gairikaṃ) [one-should-place](nyaset)
+[orpiment](kāśīvam) [then](atha) [vermilion](sindūraṃ) [honey+born](mākṣikaṃ) [red-ochre](gairikaṃ) [one-should-place](nyaset)
 
 ## mukta-m0-p74-v1843
-[saurāṣṭrī-earth](saurāṣṭrī) [in-honey-stone+non-obtainment](māthika+alābhe) [of-red-ochre](gairikasya) [indeed](tu) [yellow-pigment](rocanām)
+[saurāṣṭrī-earth](saurāṣṭrī) [in-mākṣika+non-availability](māthikālābhe) [of-red-ochre](gairikasya) [indeed](tu) [yellow-pigment](rocanām)
 
 ## mukta-m0-p74-v1844
-[east+etc.](pūrva+ādikaṃ) [somewhere](kvacit)
+[beginning-with-east](pūrvādikaṃ) [somewhere](kvacit)
 
 ## mukta-m0-p74-v1845
-[wild-rice](nīvārān) [and](ca) [also](api) [śyāmāka-grains](śyāmākān) [and](ca) [full-grains](pūrṇadyān) [one-should-deposit](niveśayet)
+[wild-rice](nīvārān) [and](ca) [also](api) [śyāmāka-grains](śyāmākān) [pūrṇadyā-grains](pūrṇadyān) [and](ca) [one-should-place](niveśayet)
 
 ## mukta-m0-p74-v1846
-[one-should-place](nyaset)
+[then](tato) [one-should-place](nyaset)
 
 ## mukta-m0-p74-v1847
-[grass+grain+special-kind](stṛṇa+dhānya+viśeṣaḥ])
+[grass+grain+special-type](stṛṇadhānyaviśeṣaḥ)
 
 ## mukta-m0-p74-v1848
-[uśīra-grass](uśīraṃ) [Viṣṇu-named](viṣṇu+saṃjñaṃ) [and](ca) [sahā-plant](sahāṃ) [and](ca) [lakṣaṇa-plant](lakṣaṇaṃ) [somewhere](kvacit)
+[uśīra-grass](uśīraṃ) [Viṣṇu-named](viṣṇusaṃjñaṃ) [and](ca) [sahā-plant](sahāṃ) [and](ca) [lakṣaṇā-plant](lakṣaṇaṃ) [somewhere](kvacit)
 
 ## mukta-m0-p74-v1849
-[seeds](bījāni) [and](ca) [herbs](auṣadhīḥ) [eight](aṣṭau) [having-filled](kumbhayitvā) [one-should-place](nyaset) [in-order](kramāt)
+[seeds](bījāni) [and](ca) [herbs](auṣadhīḥ) [eight](aṣṭau) [having-filled-in-pots](kumbhayitvā) [one-should-place](nyaset) [in-order](kramāt)
 
 ## mukta-m0-p74-v1850
-[in-material+excess](dravya+adhike) [great+fault](mahā+doṣaḥ) [by-guñjā+measure](guñjā+mādhaiḥ) [by-hand+order](kara+kramāt)
+[in-material+excess](dravyādhike) [great+fault](mahādoṣo) [with-guñjā+measure+etc.](guñjāmādhaiḥ) [by-hand+order](karakramāt)
