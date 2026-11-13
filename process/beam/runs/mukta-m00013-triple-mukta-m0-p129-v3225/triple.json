@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "sphuritam",
+     "gloss": "gleaming",
+     "grounds": "describes the betel as shining or manifest",
+     "morph": "n.nom.sg (ppp, √sphur)"
+    },
+    {
+     "surface": "amba",
+     "gloss": "o-mother",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tāmbūlakam",
+     "gloss": "betel",
+     "grounds": "the betel offering presented to the goddess",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What gleaming betel offering is presented to delight Mother Amba?",
+   "premises": [
+    "A betel offering is being presented.",
+    "The betel is described as gleaming.",
+    "The offering is addressed to Mother Amba."
+   ],
+   "inference": "A gleaming betel offering is dedicated to Mother Amba.",
+   "uncertainties": [],
+   "plain_english": "O Mother, the betel gleams."
+  }
+ ]
+}
