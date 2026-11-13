@@ -130,3 +130,13 @@ matching CM lemma) so surface equality holds. kjn-p16 assembled PASS.
 **Fix:** attempt counter in `/root/assemble_all.fails.json`, skip after
 `--max-fails` (default 3); cleared on success. Plus tal_stage now runs
 dedup_t1 + collapse_dups before validate/proof so assembled songs are clean.
+
+### Repair plan for #12 (svacchandatantra / netratantra) — not yet executed
+These fronts are not dispositionable: T1 concat ≠ source. Repair = controlled
+re-intake per affected song: (1) align T1 tokens to `workcfg.source_spans`
+with `tools/align_check.align`; (2) drop tokens that do not map (gloss-words
+like `parikalpanā`, `anuṣaṅga`) and deparen truncated variants; (3) collapse
+identical repeats (`collapse_dups`); (4) rebuild L0 from CM, remap argmap/L2
+`l0_ids`; (5) re-proof. Until then they stay BLOCKED and `assemble_all` skips
+after the retry cap. Cheap alternative: re-`auto_burn` the song from source
+(fresh T1) once a stricter draft prompt is in place.
