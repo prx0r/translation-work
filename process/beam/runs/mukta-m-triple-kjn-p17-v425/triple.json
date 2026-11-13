@@ -7,39 +7,39 @@
     {
      "surface": "amṛtaṃ",
      "gloss": "nectar",
-     "grounds": "direct object of the imperative",
-     "morph": "n.acc.sg"
+     "grounds": "amṛta with accusative ending",
+     "morph": "n.acc.sg.n"
     },
     {
      "surface": "kaulasadbhāvaṃ",
      "gloss": "kaula-true-nature",
-     "grounds": "compound describing the nectar as the true nature of Kaula",
-     "morph": "kaula+sadbhāva (compound), n.acc.sg"
+     "grounds": "compound kaula + sad + bhāva in accusative",
+     "morph": "n.acc.sg.m"
     },
     {
      "surface": "śṛṇu",
      "gloss": "hear",
-     "grounds": "command addressed to the listener",
-     "morph": "2.sg.imp.act √śru"
+     "grounds": "imperative of root śru",
+     "morph": "2.sg.act.impv"
     },
     {
      "surface": "kāmakalātmakam",
-     "gloss": "desire-art-essenced",
-     "grounds": "compound qualifying the nectar as having the essence of desire-art",
-     "morph": "kāma+kalā+ātmaka (compound), n.acc.sg"
+     "gloss": "desire-art-consisting",
+     "grounds": "compound kāma + kalā + ātmaka in accusative",
+     "morph": "adj.acc.sg.n"
     }
    ],
-   "question": "What essential nature characterizes the Kaula nectar that is to be heard?",
+   "question": "What is the nectar-like true nature of Kaula that one is commanded to hear?",
    "premises": [
-    "The nectar is identified as the true nature of Kaula.",
-    "This nectar is characterized as having the essence of desire-art.",
-    "The listener is commanded to hear about this nectar."
+    "Nectar is identified with Kaula's true nature.",
+    "That nature consists of kāmakalā.",
+    "The hearer is commanded to listen."
    ],
-   "inference": "The Kaula nectar to be heard is the true nature of Kaula, essentially constituted by the art of desire.",
+   "inference": "The verse presents Kaula's true nature as nectar composed of kāmakalā and commands hearing it.",
    "uncertainties": [
-    "The precise technical meaning of kāmakalā in this context may vary across traditions."
+    "Exact gender of the compound accusatives is not fully certain from surface alone."
    ],
-   "plain_english": "Hear of the nectar, the true nature of Kaula, whose essence is the art of desire."
+   "plain_english": "Hear the nectar: the true nature of Kaula, consisting of kāmakalā."
   }
  ]
 }

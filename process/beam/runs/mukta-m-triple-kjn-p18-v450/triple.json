@@ -6,53 +6,54 @@
    "rows": [
     {
      "surface": "kṣīrādā",
-     "gloss": "from-milk-onward",
-     "grounds": "ablative base kṣīra with limiting particle ā, indicating starting point; fused form as given",
-     "morph": "compound/indecl."
+     "gloss": "milk-from",
+     "grounds": "kṣīra (milk) + ādā (from) fused",
+     "morph": "indecl."
     },
     {
      "surface": "....",
-     "gloss": "gap",
-     "grounds": "ellipsis marker indicating missing or omitted text in the source",
+     "gloss": "ellipsis",
+     "grounds": "unresolved token in source",
      "morph": "indecl."
     },
     {
      "surface": "viplakāraiḥ",
-     "gloss": "with-various-fillings",
-     "grounds": "instrumental plural of viplakāra, denoting means or substances used for filling",
+     "gloss": "with-fillings",
+     "grounds": "viplaka (filling) + instrumental plural ending",
      "morph": "m.inst.pl"
     },
     {
      "surface": "pūrayet",
-     "gloss": "one-should-fill",
-     "grounds": "optative verb expressing injunction or prescribed practice",
-     "morph": "3.sg.opt.act √pṛ"
+     "gloss": "should-fill",
+     "grounds": "root pūr, optative/imperative third singular",
+     "morph": "verb.3.sg.act-opt"
     },
     {
      "surface": "tattanuṃ",
      "gloss": "that-body",
-     "grounds": "compound of tad and tanu, object to be filled",
-     "morph": "f.acc.sg"
+     "grounds": "tat (that) + tanu (body), accusative singular",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sadā",
      "gloss": "always",
-     "grounds": "indeclinable adverb indicating continual practice",
+     "grounds": "indeclinable adverb",
      "morph": "indecl."
     }
    ],
-   "question": "With what substances should that body be continually filled in this practice?",
+   "question": "How should the practitioner fill that body with milk and fillings always?",
    "premises": [
-    "The practice begins from milk onward as a starting substance.",
-    "Various fillings are specified as the means of filling.",
-    "The prescribed action is to fill that body continually."
+    "milk-from precedes the filling",
+    "fillings are instrumental means",
+    "that body is the object filled",
+    "filling is prescribed always"
    ],
-   "inference": "Therefore, one should always fill that body with various fillings beginning from milk onward.",
+   "inference": "The verse prescribes continually filling the designated body using milk-derived and other fillings.",
    "uncertainties": [
-    "The token '....' marks a gap, so intermediate substances or details are missing.",
-    "The exact referent of 'that body' depends on the preceding context."
+    "the ellipsis token is unresolved",
+    "exact grammatical force of pūrayet is uncertain"
    ],
-   "plain_english": "Beginning from milk onward, one should always fill that body with various fillings."
+   "plain_english": "One should always fill that body with milk and fillings."
   }
  ]
 }

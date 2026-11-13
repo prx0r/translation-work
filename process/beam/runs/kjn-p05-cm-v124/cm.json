@@ -4,28 +4,28 @@
  "rows": [
   {
    "lemma": "viṣaṃ",
-   "morph": "nom.sg.n",
-   "grounds": "nominative subject"
+   "morph": "n.nom/acc.sg",
+   "grounds": "nominative or accusative singular neuter"
   },
   {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "negative particle"
   },
   {
    "lemma": "kramate",
-   "morph": "3.sg.act.pres",
-   "grounds": "root kram, present"
+   "morph": "3.sg.act-pres (kram)",
+   "grounds": "third person singular present of kram"
   },
   {
    "lemma": "dehe",
-   "morph": "loc.sg.m",
-   "grounds": "locative"
+   "morph": "m.loc.sg",
+   "grounds": "locative singular masculine"
   },
   {
    "lemma": "daṃśito",
-   "morph": "nom.sg.m",
-   "grounds": "past participle of daṃś"
+   "morph": "m.nom.sg",
+   "grounds": "nominative singular masculine participle"
   },
   {
    "lemma": "api",
@@ -35,7 +35,7 @@
   {
    "lemma": "mahā+uragaiḥ",
    "morph": "compound instr.pl.m",
-   "grounds": "compound: mahā + uraga"
+   "grounds": "compound instrumental plural masculine"
   }
  ]
 }
