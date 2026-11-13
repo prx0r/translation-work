@@ -3,14 +3,39 @@
  "verse": 633,
  "rows": [
   {
-   "lemma": "gaṇapatiṃ",
-   "morph": "m.acc.sg",
-   "grounds": "deity to be worshipped"
+   "lemma": "mūla",
+   "morph": "compound-member",
+   "grounds": "first member identifying the primary mantra"
   },
   {
-   "lemma": "pūjayet",
-   "morph": "3.sg.optative-active √pūj",
-   "grounds": "instruction for worship"
+   "lemma": "mantraṃ",
+   "morph": "m.acc.sg",
+   "grounds": "the root mantra to be recited"
+  },
+  {
+   "lemma": "dvādaśadhā",
+   "morph": "(indecl.)",
+   "grounds": "specifies repetition count"
+  },
+  {
+   "lemma": "tasya",
+   "morph": "pron.m/n.gen.sg",
+   "grounds": "refers to the water or prior object"
+  },
+  {
+   "lemma": "upari",
+   "morph": "(indecl.)",
+   "grounds": "indicates placement of recitation over it"
+  },
+  {
+   "lemma": "japet",
+   "morph": "3.sg.optative-active (√jap)",
+   "grounds": "prescriptive recitation"
+  },
+  {
+   "lemma": "priye",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address to the listener"
   }
  ]
 }

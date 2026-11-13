@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p233-v5801
-[śrī](śrīṃ) [hrī](hrīṃ) [klī](klīṃ) [glau](glau) [ca](ca) [tataḥ](tataḥ) [pūrva-dale](pūrvadale) [likhet](likhet)
+[śrīṃ-hrīṃ-klīṃ-glauṃ](śrīṃhrīṃklīṃglauṃ) [and](ca) [then](tataḥ) [on-eastern+petal](pūrvadale) [one-should-write](likhet)
 
 ## mukta-m0-p233-v5802
-[me](me) [bdhau](bdhau) [vaśam-ānaya](vaśamānaya) [svāhā](svāhā)
+[mebdhau](mebdhau) [under-control](vaśam) [bring](ānaya) [svāhā](svāhā)
 
 ## mukta-m0-p233-v5803
-[saṃvāda-sūktasya](saṃvādasūktasya) [tadā](tadā) [idānīm](idānīm) [nigadyate](nigadyate)
+[of-saṃvāda+hymn](saṃvādasūktasya) [then](tadā) [now](idānīṃ) [is-declared](nigadyate)
 
 ## mukta-m0-p233-v5804
-[saṃidhya-samanaḥ](samidhyasamano) [vasūni](vasūnyā) [bhava](bhava)
+[being-kindled](samidhyamānaḥ) [first](prathamaḥ) [so](anu) [dharma](dharmaḥ) [wealths](vasūni) [become](bhava)
 
 ## mukta-m0-p233-v5805
-[bhāgam](bhāgaṃ) [yathā](yathā) [pūrve](pūrve) [śam](śan) [nānānāḥ](nānānā) [upāsate](upāsate)
+[share](bhāgaṃ) [as](yathā) [ancestors](pūrve) [auspicious](śan) [for-us](naḥ) [nānā](nānā) [worship](upāsate)
 
 ## mukta-m0-p233-v5806
-[saha-vitā](sahavitā) [imeṣām](imeṣāṃ) [sama-nimātram](samanimātraṃ) [abhimantraye](abhimantraye) [vaḥ](vaḥ)
+[with-vita](sahavitam) [of-them](eṣāṃ) [sama+nimātram](samanimātraṃ) [I-consecrate](abhimantraye) [you](vaḥ)
 
 ## mukta-m0-p233-v5807
-[hṛdayāni](hṛdayāni) [vaḥ](vaḥ) [samāni](samāni) [vastu](vastu) [vaḥ](vo) [manaḥ](mano) [yathā-vat](yathāvat) [saha-sati](sahasati)
+[hearts](hṛdayāni) [your](vaḥ) [same](samāni) [be](vastu) [your](vaḥ) [mind](manaḥ) [as](yathā) [calf](vatsaḥ) [well+with-mother](susahā) [is](sati)
 
 ## mukta-m0-p233-v5808
-[agniḥ-devaḥ](agnirdevastathā) [ajāyasa](ajāyasa) [sañjñānam](sañjñānam) [itarāsu](itarāsu) [ca](ca)
+[Agni](agniḥ) [god](devaḥ) [likewise](tathā) [born](jāya) [concord](sañjñānam) [in-others](itarāsu) [and](ca)
 
 ## mukta-m0-p233-v5809
-[jātavedase](jātavedase) [sunava](sunava) [iti](iti) [ṛcā](ṛcā) [punaḥ](punaḥ)
+[to-Jātavedas](jātavedase) [press-out](sunava) [with-verse](ityṛcā) [again](punaḥ)
 
 ## mukta-m0-p233-v5810
-[tat](tat) [bahis-bhūpuram](bahirbhūpuraṃ) [kṛtvā](kṛtvā) [tatra](tatra) [pāda-catuṣṭayam](pādacatuṣṭayam)
+[that](tat) [outside](bahiḥ) [ground+enclosure](bhūpuraṃ) [having-made](kṛtvā) [there](tatra) [foot+quartet](pādacatuṣṭayam)
 
 ## mukta-m0-p233-v5811
-[koṇeṣu](koṇeṣu) [ca](ca) [vikoṇeṣu](vikoṇeṣu) [likhet](likhet) [yat](yat) [ca](ca) [tat](tat) [ucyate](ucyate)
+[in-corners](koṇeṣu) [and](ca) [in-intermediate-corners](vikoṇeṣu) [one-should-write](likhet) [which](yat) [and](ca) [that](tat) [is-stated](ucyate)
 
 ## mukta-m0-p233-v5812
-[rājeti](rājeti) [śam-naḥ-bhavatu](śannobhavadvipade) [śam-ca](śañcatuṣpade)
+[rā](rā) [iti](iti) [auspicious](śam) [for-us](naḥ) [be](bhavat) [for-biped](dvipade) [auspicious](śam) [and](ca) [for-quadruped](catuṣpade)
 
 ## mukta-m0-p233-v5813
-[vaśyam](vaśyaṃ) [kānti-saubhāgya-puṣṭi-dam](kāntisaubhāgyapuṣṭidam)
+[subjugating](vaśyaṃ) [beauty](kānti) [good-fortune](saubhāgya) [nourishment+giving](puṣṭidam)
 
 ## mukta-m0-p233-v5814
-[madhye](madhye) [tatra](tatra) [koṇeṣu](koṇeṣu) [saṃllikhet](saṁllikhet)
+[in-middle](madhye) [there](tatra) [in-corners](koṇeṣu) [one-should-write](saṁllikhet)
 
 ## mukta-m0-p233-v5815
-[tat-madhye](tanmadhye) [sādhyam](sādhyaṃ) [sādhaka-karma-yuk](sādhakakarmayuk)
+[in-its-middle](tanmadhye) [the-target](sādhyaṃ) [practitioner+action+joined](sādhakakarmayuk)
 
 ## mukta-m0-p233-v5816
-[sudhīḥ](sudhīḥ)
+[the-wise-one](sudhīḥ)
 
 ## mukta-m0-p233-v5817
-[bahiḥ-ca](bahiścāpi) [likhet](likhet) [pārśva-dvaye](pārśvadvaye) [punaḥ](punaḥ)
+[outside](bahiḥ) [and](ca) [also](api) [one-should-write](likhet) [on-side+pair](pārśvadvaye) [again](punaḥ)
 
 ## mukta-m0-p233-v5818
-[bindu-yutam](binduyutaṃ) [likhet](likhet) [atha](atha) [likhet](likhet) [punaḥ](punaḥ)
+[with-bindu+endowed](binduyutaṃ) [one-should-write](likhet) [then](atha) [one-should-write](likhet) [again](punaḥ)
 
 ## mukta-m0-p233-v5819
-[śṛṅkhalā-kāra-rekhābhiḥ](śṛṅkhalākārarekhābhirekaikenāntarāṇi) [eka-eka](ekaikena) [antarāṇi](antarāṇi) [ca](ca)
+[by-chain+form+lines](śṛṅkhalākārarekhābhiḥ) [by-one+by-one](ekaikena) [intervals](antarāṇi) [and](ca)
 
 ## mukta-m0-p233-v5820
-[vṛtta-dvayam](vṛttadvayaṃ) [likhet](likhet) [tatra](tatra) [vīthyā](vīthyā) [lekhyaṃ](lekhyaṃ) [vilomataḥ](vilomataḥ)
+[circle+pair](vṛttadvayaṃ) [one-should-draw](likhet) [there](tatra) [in-path](vīthyā) [to-be-written](lekhyaṃ) [in-reverse-order](vilomataḥ)
 
 ## mukta-m0-p233-v5821
-[tat-bāhye](tadbāhye) [kuryāt](kuryād) [vīthī-catuṣṭayam](vīthīcatuṣṭayam)
+[outside-that](tadbāhye) [one-should-make](kuryāt) [path+quartet](vīthīcatuṣṭayam)
 
 ## mukta-m0-p233-v5822
-[dvitīyāyām](dvitīyāyāṃ) [vilomena](vilomena) [kuryāt](kuryād) [bāhye](bāhye) [aṣṭa-koṇakam](aṣṭakoṇakam)
+[in-second](dvitīyāyāṃ) [in-reverse-order](vilomena) [one-should-make](kuryāt) [outside](bāhye) [eight+cornered](aṣṭakoṇakam)
 
 ## mukta-m0-p233-v5823
-[triśūlāni](triśūlāni) [kuryāt](kuryāt) [ṣoḍaśa-saṃkhyayā](ṣoḍaśasaṃkhyayā)
+[tridents](triśūlāni) [one-should-make](kuryāt) [in-number+sixteen](ṣoḍaśasaṃkhyayā)
 
 ## mukta-m0-p233-v5824
-[sarva-saubhāgya-jananam](sarvasaubhāgyajananaṃ) [sarva-śatru-vināśa-kṛt](sarvaśatruvināśakṛt)
+[all+good-fortune+producing](sarvasaubhāgyajananaṃ) [all+enemy+destruction+making](sarvaśatruvināśakṛt)
 
 ## mukta-m0-p233-v5825
-[kartavyā](kartavyā) [pūjā](pūjā) [yantrasya](yantrasya) [siddhaye](siddhaye)
+[to-be-done](kartavyā) [worship](pūjā) [of-yantra](yantrasya) [for-accomplishment](siddhaye)

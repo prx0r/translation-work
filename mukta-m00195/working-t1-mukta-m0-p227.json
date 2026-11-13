@@ -41,7 +41,7 @@
 "tokens": [
 {
 "surface": "veda+karma",
-"quick_gloss": "veda-ritual"
+"quick_gloss": "veda+ritual"
 },
 {
 "surface": "vihīnaḥ",
@@ -56,7 +56,7 @@
 "quick_gloss": "to-be-known"
 },
 {
-"surface": "brahma+rākṣasaḥ",
+"surface": "brahmarākṣasaḥ",
 "quick_gloss": "brahma-demon"
 }
 ]
@@ -78,19 +78,15 @@
 },
 {
 "surface": "seveta",
-"quick_gloss": "should-serve"
+"quick_gloss": "one-should-serve"
 },
 {
 "surface": "aniśam",
 "quick_gloss": "constantly"
 },
 {
-"surface": "adhyāya",
-"quick_gloss": "meditation"
-},
-{
-"surface": "tatparaḥ",
-"quick_gloss": "devoted"
+"surface": "adhyāya+tatparaḥ",
+"quick_gloss": "meditation+devoted"
 }
 ]
 },
@@ -110,12 +106,8 @@
 "quick_gloss": "with-mantras"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "anyasya",
-"quick_gloss": "of-another"
+"surface": "na+anyasya",
+"quick_gloss": "not-of-another"
 },
 {
 "surface": "tu",
@@ -139,8 +131,8 @@
 "quick_gloss": "one-should-make"
 },
 {
-"surface": "hrīṃ+kāraṃ",
-"quick_gloss": "hrīṃ-syllable"
+"surface": "hrīṃkāraṃ",
+"quick_gloss": "hrīṃ-sound"
 },
 {
 "surface": "karṇikā",
@@ -161,19 +153,15 @@
 "tokens": [
 {
 "surface": "tat+agreṣu",
-"quick_gloss": "at-their-tips"
+"quick_gloss": "on-its-tips"
 },
 {
 "surface": "gāyatrī+arṇān",
-"quick_gloss": "gāyatrī-syllables"
+"quick_gloss": "gāyatrī+syllables"
 },
 {
-"surface": "triśaḥ",
-"quick_gloss": "thrice"
-},
-{
-"surface": "triśaḥ",
-"quick_gloss": "thrice"
+"surface": "triśaḥ+triśaḥ",
+"quick_gloss": "thrice+thrice"
 }
 ]
 },
@@ -185,7 +173,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ka+kāra+ādyān",
+"surface": "kakāra+ādyān",
 "quick_gloss": "beginning-with-ka"
 },
 {
@@ -193,24 +181,8 @@
 "quick_gloss": "likewise"
 },
 {
-"surface": "um",
-"quick_gloss": "om"
-},
-{
-"surface": "āpaḥ",
-"quick_gloss": "waters"
-},
-{
-"surface": "jyotiḥ",
-"quick_gloss": "light"
-},
-{
-"surface": "rasa",
-"quick_gloss": "rasa"
-},
-{
-"surface": "amṛtaṃ",
-"quick_gloss": "immortality"
+"surface": "umā+āpaḥ+jyotiḥ+rasa+amṛtaṃ",
+"quick_gloss": "umā+waters+light+juice+immortality"
 },
 {
 "surface": "brahma",
@@ -260,7 +232,7 @@
 },
 {
 "surface": "mahā+adbhutam",
-"quick_gloss": "greatly-wondrous"
+"quick_gloss": "great+wonder"
 }
 ]
 },
@@ -280,8 +252,8 @@
 "quick_gloss": "in-six-corners"
 },
 {
-"surface": "vāg+bhavaṃ",
-"quick_gloss": "vāgbhava-seed"
+"surface": "vāgbhavaṃ",
+"quick_gloss": "speech-seed"
 },
 {
 "surface": "bījam",
@@ -314,7 +286,7 @@
 },
 {
 "surface": "spṛṇotu",
-"quick_gloss": "may-fill"
+"quick_gloss": "may-satisfy"
 },
 {
 "surface": "amṛtasya",
@@ -322,7 +294,7 @@
 },
 {
 "surface": "deva+dhāraṇaḥ",
-"quick_gloss": "god-supporting"
+"quick_gloss": "god+holder"
 },
 {
 "surface": "bhūyāsam",
@@ -339,19 +311,19 @@
 "tokens": [
 {
 "surface": "mantra+varṇān",
-"quick_gloss": "mantra-syllables"
+"quick_gloss": "mantra+syllables"
 },
 {
 "surface": "vā",
 "quick_gloss": "or"
 },
 {
-"surface": "bahiḥ",
-"quick_gloss": "outside"
+"surface": "bahir+vṛtra",
+"quick_gloss": "outside+circle"
 },
 {
-"surface": "vṛtra+catuṣṭayam",
-"quick_gloss": "vṛtra-circle"
+"surface": "catuṣṭayam",
+"quick_gloss": "quartet"
 }
 ]
 },
@@ -363,12 +335,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bahiḥ+vṛtram",
-"quick_gloss": "outer-circle"
+"surface": "bahir+vṛtraṃ",
+"quick_gloss": "outer+circle"
 },
 {
 "surface": "mātṛkā+arṇaiḥ",
-"quick_gloss": "with-mātṛkā-syllables"
+"quick_gloss": "with-mātṛkā+syllables"
 },
 {
 "surface": "prapūrayet",
@@ -414,7 +386,7 @@
 "tokens": [
 {
 "surface": "saṃyunakti",
-"quick_gloss": "unites"
+"quick_gloss": "joins"
 }
 ]
 },
@@ -426,20 +398,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "aiṃ",
-"quick_gloss": "aiṃ"
-},
-{
-"surface": "klīṃ",
-"quick_gloss": "klīṃ"
-},
-{
-"surface": "sauṃ",
-"quick_gloss": "sauṃ"
-},
-{
-"surface": "hrīṃ",
-"quick_gloss": "hrīṃ"
+"surface": "aiṃklīṃsauṃhrīṃ",
+"quick_gloss": "aiṃ-klīṃ-sauṃ-hrīṃ"
 },
 {
 "surface": "ca",
@@ -450,8 +410,12 @@
 "quick_gloss": "seed-syllables"
 },
 {
-"surface": "paṭa+svarṇa+ādi+nirmite",
-"quick_gloss": "on-cloth-gold-etc"
+"surface": "paṭa+svarṇa+ādi",
+"quick_gloss": "on-cloth+gold+etc."
+},
+{
+"surface": "nirmite",
+"quick_gloss": "made"
 }
 ]
 },
@@ -464,7 +428,7 @@
 "tokens": [
 {
 "surface": "śruti+dhārā",
-"quick_gloss": "retention-of-hearing"
+"quick_gloss": "scripture+retention"
 },
 {
 "surface": "ca",
@@ -472,7 +436,7 @@
 },
 {
 "surface": "nīrogaḥ",
-"quick_gloss": "free-from-disease"
+"quick_gloss": "disease-free"
 },
 {
 "surface": "ca",
@@ -496,8 +460,12 @@
 "quick_gloss": "all-knowing"
 },
 {
+"surface": "tu",
+"quick_gloss": "indeed"
+},
+{
 "surface": "abhyāsaḥ",
-"quick_gloss": "by-practice"
+"quick_gloss": "practice"
 },
 {
 "surface": "bhavati",
@@ -555,7 +523,7 @@
 },
 {
 "surface": "tryambaka+akṣarān",
-"quick_gloss": "tryambaka-syllables"
+"quick_gloss": "tryambaka+syllables"
 }
 ]
 },
@@ -567,16 +535,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vakṣyamāṇa",
-"quick_gloss": "to-be-stated"
+"surface": "vakṣyamāṇām",
+"quick_gloss": "to-be-spoken"
 },
 {
 "surface": "ṛcam",
 "quick_gloss": "verse"
 },
 {
-"surface": "sādhya+nāma+varṇa+vibhūṣitām",
-"quick_gloss": "with-sādhya-name-syllables"
+"surface": "sādhyaḥ",
+"quick_gloss": "practitioner"
+},
+{
+"surface": "nāma+varṇa",
+"quick_gloss": "name+syllable"
+},
+{
+"surface": "vibhūṣitām",
+"quick_gloss": "adorned"
 }
 ]
 },
@@ -597,7 +573,7 @@
 },
 {
 "surface": "triṣṭup+chandaḥ",
-"quick_gloss": "triṣṭup-meter"
+"quick_gloss": "triṣṭubh+meter"
 },
 {
 "surface": "rudraḥ",
@@ -639,11 +615,11 @@
 },
 {
 "surface": "traiyambakaṃ",
-"quick_gloss": "three-eyed"
+"quick_gloss": "tryambaka"
 },
 {
 "surface": "yantraṃ",
-"quick_gloss": "yantra"
+"quick_gloss": "diagram"
 },
 {
 "surface": "gopanīyaṃ",
@@ -664,11 +640,11 @@
 "tokens": [
 {
 "surface": "āyuḥ+ārogya+saubhāgya",
-"quick_gloss": "longevity-health-prosperity"
+"quick_gloss": "longevity+health+prosperity"
 },
 {
 "surface": "dharma+artha+sukha+mokṣa",
-"quick_gloss": "dharma-wealth-pleasure-liberation"
+"quick_gloss": "dharma+wealth+pleasure+liberation"
 },
 {
 "surface": "dam",

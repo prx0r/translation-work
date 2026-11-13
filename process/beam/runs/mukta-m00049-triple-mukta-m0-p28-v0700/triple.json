@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "māyā+bījena",
+     "gloss": "with-māyā-seed",
+     "grounds": "instrumental of compound māyā-bīja; māyā-bīja denotes the seed syllable associated with māyā",
+     "morph": "compound: māyā+bīja, n.ins.sg"
+    },
+    {
+     "surface": "hrīm+iti+bījena",
+     "gloss": "with-hrīṃ-thus-seed",
+     "grounds": "instrumental compound specifying the seed as hrīṃ; hrīṃ is a bīja syllable kept transliterated",
+     "morph": "compound: hrīm+iti+bīja, n.ins.sg"
+    },
+    {
+     "surface": "tat+jalaṃ",
+     "gloss": "that-water",
+     "grounds": "demonstrative with noun referring to the water to be consecrated",
+     "morph": "compound: tat+jala, n.acc.sg"
+    },
+    {
+     "surface": "mantrayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "optative expressing ritual injunction to empower with mantra",
+     "morph": "verb 3.sg.act.opt, root mantr"
+    }
+   ],
+   "question": "Which mantra seed syllables are required to consecrate the ritual water?",
+   "premises": [
+    "Ritual water requires consecration by mantra.",
+    "The māyā seed is prescribed for this consecration.",
+    "The seed syllable hrīṃ is identified as that bīja."
+   ],
+   "inference": "Therefore one should consecrate that water with the māyā seed, namely hrīṃ.",
+   "uncertainties": [
+    "The exact referent of tat+jalaṃ depends on the immediately preceding ritual context."
+   ],
+   "plain_english": "One should consecrate that water with the māyā-seed, the seed syllable hrīṃ."
+  }
+ ]
+}

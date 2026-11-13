@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive expressing a prior act of giving before recitation",
+     "morph": "(gerund) √dā"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive optative enjoining mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the prescribed action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "direct object naming the mantra to be recited",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "ten-times",
+     "grounds": "specifies one possible count of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatadhā",
+     "gloss": "hundred-times",
+     "grounds": "specifies an alternative higher count of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle extending the range of permissible counts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternatives in recitation count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times must the Gāyatrī be recited after making the prescribed offering?",
+   "premises": [
+    "An act of giving precedes the recitation.",
+    "The Gāyatrī is the mantra prescribed for recitation.",
+    "The recitation may be performed ten times or a hundred times."
+   ],
+   "inference": "After making the offering, one should recite the Gāyatrī either ten times or a hundred times.",
+   "uncertainties": [
+    "The specific object or recipient of 'datvā' depends on the preceding verses (673–674)."
+   ],
+   "plain_english": "Having given the offering, one should indeed recite the Gāyatrī ten times or even a hundred times."
+  }
+ ]
+}

@@ -8,19 +8,19 @@
 "tokens": [
 {
 "surface": "puruṣaḥ",
-"quick_gloss": "man"
+"quick_gloss": "person"
 },
 {
 "surface": "asau",
 "quick_gloss": "that"
 },
 {
-"surface": "mama",
-"quick_gloss": "of-me"
+"surface": "ama",
+"quick_gloss": "immortal"
 },
 {
-"surface": "pasya",
-"quick_gloss": "see"
+"surface": "paśya",
+"quick_gloss": "behold"
 }
 ]
 },
@@ -41,18 +41,18 @@
 },
 {
 "surface": "samudbhūtam",
-"quick_gloss": "born-from"
+"quick_gloss": "arisen"
 },
 {
 "surface": "ādhi",
-"quick_gloss": "mental-illness"
+"quick_gloss": "mental-affliction"
 },
 {
 "surface": "vyādhi",
 "quick_gloss": "disease"
 },
 {
-"surface": "bhayam",
+"surface": "bhayaṃ",
 "quick_gloss": "fear"
 },
 {
@@ -73,24 +73,20 @@
 "quick_gloss": "chanting"
 },
 {
-"surface": "satatam",
-"quick_gloss": "constantly"
+"surface": "satataṃ",
+"quick_gloss": "continually"
 },
 {
 "surface": "jantuḥ",
-"quick_gloss": "person"
+"quick_gloss": "creature"
 },
 {
-"surface": "na",
-"quick_gloss": "not"
-},
-{
-"surface": "aribhiḥ",
-"quick_gloss": "by-enemies"
+"surface": "nāribhiḥ",
+"quick_gloss": "by-women"
 },
 {
 "surface": "paribhūyate",
-"quick_gloss": "is-overcome"
+"quick_gloss": "is-overpowered"
 }
 ]
 },
@@ -102,8 +98,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mohana+āśāya",
-"quick_gloss": "for-destruction-of-delusion"
+"surface": "mohana",
+"quick_gloss": "delusion"
+},
+{
+"surface": "āśāya",
+"quick_gloss": "for-destruction"
 },
 {
 "surface": "niyogaḥ",
@@ -127,12 +127,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtyānām",
+"surface": "kṛtyānāṃ",
 "quick_gloss": "of-magical-rites"
 },
 {
-"surface": "śatru+hanyāya",
-"quick_gloss": "for-slaying-enemies"
+"surface": "śatru",
+"quick_gloss": "for-enemy"
+},
+{
+"surface": "hanyāya",
+"quick_gloss": "slaying"
 },
 {
 "surface": "cetasaḥ",
@@ -164,8 +168,16 @@
 "quick_gloss": "of-this"
 },
 {
-"surface": "durvadhya+ari+vināśane",
-"quick_gloss": "in-destruction-of-invincible-enemies"
+"surface": "durvadhya",
+"quick_gloss": "invincible"
+},
+{
+"surface": "ari",
+"quick_gloss": "enemy"
+},
+{
+"surface": "vināśane",
+"quick_gloss": "in-destruction"
 }
 ]
 },
@@ -177,16 +189,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vayam",
+"surface": "vayaṃ",
 "quick_gloss": "we"
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "of-that"
 },
 {
 "surface": "nikupnaḥ",
-"quick_gloss": "angry"
+"quick_gloss": "not-angry"
 },
 {
 "surface": "sthātu",
@@ -219,7 +231,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "ca",
@@ -230,8 +242,12 @@
 "quick_gloss": "of-this"
 },
 {
-"surface": "śatru+vināśane",
-"quick_gloss": "in-destruction-of-enemies"
+"surface": "śatru",
+"quick_gloss": "enemy"
+},
+{
+"surface": "vināśane",
+"quick_gloss": "in-destruction"
 }
 ]
 },
@@ -244,11 +260,11 @@
 "tokens": [
 {
 "surface": "pratikṛtsyāmi",
-"quick_gloss": "we-will-retaliate"
+"quick_gloss": "I-shall-retaliate"
 },
 {
 "surface": "vidravaḥ",
-"quick_gloss": "flee"
+"quick_gloss": "flight"
 }
 ]
 },
@@ -273,11 +289,19 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
-"surface": "tapaḥ+vighna+karāḥ",
-"quick_gloss": "obstacles-to-austerity"
+"surface": "tapaḥ",
+"quick_gloss": "austerity"
+},
+{
+"surface": "vighna",
+"quick_gloss": "obstacle"
+},
+{
+"surface": "karāḥ",
+"quick_gloss": "causing"
 },
 {
 "surface": "ca",
@@ -325,8 +349,12 @@
 "quick_gloss": "which"
 },
 {
-"surface": "tapaḥ+upahāḥ",
-"quick_gloss": "destroyers-of-austerity"
+"surface": "tapaḥ",
+"quick_gloss": "austerity"
+},
+{
+"surface": "upahāḥ",
+"quick_gloss": "destroying"
 }
 ]
 },
@@ -338,23 +366,35 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tapaḥ+vighna+karāḥ",
-"quick_gloss": "obstacles-to-austerity"
+"surface": "tapaḥ",
+"quick_gloss": "austerity"
+},
+{
+"surface": "vighna",
+"quick_gloss": "obstacle"
+},
+{
+"surface": "karāḥ",
+"quick_gloss": "causing"
 },
 {
 "surface": "pāṭhe",
 "quick_gloss": "in-recitation"
 },
 {
-"surface": "sva+āyudhāḥ",
-"quick_gloss": "with-own-weapons"
+"surface": "sva",
+"quick_gloss": "own"
+},
+{
+"surface": "āyudhāḥ",
+"quick_gloss": "weapons"
 },
 {
 "surface": "śam",
 "quick_gloss": "peace"
 },
 {
-"surface": "idam",
+"surface": "idaṃ",
 "quick_gloss": "this"
 },
 {
@@ -388,11 +428,11 @@
 },
 {
 "surface": "jīvaya",
-"quick_gloss": "you-make-live"
+"quick_gloss": "revive"
 },
 {
 "surface": "asya",
-"quick_gloss": "of-him"
+"quick_gloss": "of-this"
 },
 {
 "surface": "arīn",
@@ -434,11 +474,11 @@
 },
 {
 "surface": "anmanave",
-"quick_gloss": "for-the-mind"
+"quick_gloss": "to-the-mind"
 },
 {
 "surface": "kṣipra",
-"quick_gloss": "quickly"
+"quick_gloss": "swift"
 },
 {
 "surface": "veśinau",
@@ -462,7 +502,7 @@
 "quick_gloss": "should-worship"
 },
 {
-"surface": "rudram",
+"surface": "rudraṃ",
 "quick_gloss": "Rudra"
 },
 {
@@ -470,12 +510,16 @@
 "quick_gloss": "of-him"
 },
 {
-"surface": "śatru+kṣayaḥ",
-"quick_gloss": "destruction-of-enemies"
+"surface": "śatru",
+"quick_gloss": "enemy"
+},
+{
+"surface": "kṣayaḥ",
+"quick_gloss": "destruction"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "will-be"
+"quick_gloss": "should-be"
 }
 ]
 },
@@ -487,19 +531,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sahasram",
+"surface": "sahasraṃ",
 "quick_gloss": "thousand"
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
 "surface": "japan",
 "quick_gloss": "chanting"
 },
 {
-"surface": "vyādhim",
+"surface": "vyādhiṃ",
 "quick_gloss": "disease"
 },
 {
@@ -524,8 +568,12 @@
 "quick_gloss": "facing"
 },
 {
-"surface": "aṣṭāviṃśati+saṅkhyayā",
-"quick_gloss": "twenty-eight-times"
+"surface": "aṣṭāviṃśati",
+"quick_gloss": "twenty-eight"
+},
+{
+"surface": "saṅkhyayā",
+"quick_gloss": "by-number"
 }
 ]
 },
@@ -537,12 +585,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manana+abhyāsāt",
-"quick_gloss": "by-practice-of-contemplation"
+"surface": "manana",
+"quick_gloss": "contemplation"
+},
+{
+"surface": "abhyāsāt",
+"quick_gloss": "by-practice"
 },
 {
 "surface": "vidvattā",
-"quick_gloss": "wisdom"
+"quick_gloss": "learnedness"
 },
 {
 "surface": "su",
@@ -575,11 +627,15 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
-"surface": "sudurlabha+prasādhane",
-"quick_gloss": "in-accomplishing-very-difficult"
+"surface": "sudurlabha",
+"quick_gloss": "very-difficult"
+},
+{
+"surface": "prasādhane",
+"quick_gloss": "in-accomplishment"
 }
 ]
 },
@@ -603,15 +659,15 @@
 "quick_gloss": "who"
 },
 {
-"surface": "mataḥ",
-"quick_gloss": "devoted"
+"surface": "mata",
+"quick_gloss": "opinion"
 },
 {
 "surface": "turyāya",
-"quick_gloss": "to-the-fourth"
+"quick_gloss": "to-fourth"
 },
 {
-"surface": "āśritaḥ",
+"surface": "śritaḥ",
 "quick_gloss": "resorted"
 }
 ]
@@ -624,7 +680,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "uddiṣṭam",
+"surface": "uddiṣṭaṃ",
 "quick_gloss": "prescribed"
 },
 {
@@ -632,8 +688,12 @@
 "quick_gloss": "application"
 },
 {
-"surface": "pāpa+kartane",
-"quick_gloss": "in-committing-sin"
+"surface": "pāpa",
+"quick_gloss": "sin"
+},
+{
+"surface": "kartane",
+"quick_gloss": "in-doing"
 }
 ]
 },
@@ -649,8 +709,12 @@
 "quick_gloss": "having-gone"
 },
 {
-"surface": "pāpa+dhīna",
-"quick_gloss": "in-sinful-thought"
+"surface": "pāpa",
+"quick_gloss": "sin"
+},
+{
+"surface": "dhīna",
+"quick_gloss": "poor"
 },
 {
 "surface": "eva",
@@ -683,10 +747,10 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "but"
+"quick_gloss": "indeed"
 },
 {
-"surface": "śatrūṇām",
+"surface": "śatrūṇāṃ",
 "quick_gloss": "of-enemies"
 },
 {
@@ -695,7 +759,7 @@
 },
 {
 "surface": "mataḥ",
-"quick_gloss": "considered"
+"quick_gloss": "is-considered"
 }
 ]
 },
@@ -719,7 +783,7 @@
 "quick_gloss": "to-me"
 },
 {
-"surface": "pāpam",
+"surface": "pāpaṃ",
 "quick_gloss": "sin"
 },
 {
