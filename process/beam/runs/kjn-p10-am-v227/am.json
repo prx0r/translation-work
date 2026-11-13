@@ -1,15 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter emerges in candra-dvīpa?",
+ "question": "Which chapter emerges after candra-dvipa in this sequence?",
  "premises": [
-  "Candra-dvīpa is named",
-  "Emergence is named",
-  "Ninth chapter is named"
+  "candra dvīpa vinirgate navamaḥ paṭalaḥ",
+  "the ninth chapter emerges from candra-dvipa",
+  "the verse names the chapter"
  ],
- "inference": "The verse identifies the ninth chapter as emerging there.",
+ "inference": "The ninth chapter is the one that emerges.",
  "uncertainties": [
-  "Exact island reference is implicit"
+  "whether vinirgate modifies dvīpa or paṭalaḥ"
  ],
- "plain_english": "The ninth chapter emerges in candra-dvīpa."
+ "plain_english": "The ninth chapter emerges from candra-dvipa."
 }

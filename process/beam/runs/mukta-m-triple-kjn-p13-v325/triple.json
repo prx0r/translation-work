@@ -7,42 +7,42 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun accusative singular masculine",
+     "grounds": "accusative singular masculine pronoun",
      "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of jñā root",
-     "morph": "absolutive"
+     "grounds": "absolutive of root jñā",
+     "morph": "abs."
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound adjective accusative singular masculine",
+     "grounds": "compound gūḍha plus sadbhāva in accusative singular masculine",
      "morph": "m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun nominative singular neuter",
+     "grounds": "abstract noun derived from sarvajña",
      "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb prajā root middle present third singular",
-     "morph": "3.sg.mid-pres"
+     "grounds": "present middle third singular of pra-jan",
+     "morph": "3.sg.mid.pres."
     }
    ],
-   "question": "What arises when one knows that hidden true nature?",
+   "question": "What arises when the hidden true nature is known?",
    "premises": [
     "Knowing hidden true nature causes all-knowingness.",
-    "All-knowingness arises from that knowledge."
+    "All-knowingness arises after knowledge."
    ],
-   "inference": "Knowledge of hidden true nature gives rise to all-knowingness.",
+   "inference": "All-knowingness is the result of knowing the hidden true nature.",
    "uncertainties": [
-    "Exact internal sandhi of gūḍhasadbhāvaṃ is not split."
+    "The exact referent of taṃ is not specified in this verse."
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }

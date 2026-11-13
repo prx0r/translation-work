@@ -1,14 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 322,
- "question": "Which chapter concerns conduct and vessel characteristics?",
+ "question": "What is the twelfth chapter about?",
  "premises": [
-  "The twelfth chapter is named.",
-  "It concerns conduct and vessel characteristics."
+  "conduct vessel characteristic is named",
+  "twelfth is named",
+  "chapter is named"
  ],
- "inference": "The verse identifies the twelfth chapter as concerning conduct and vessel characteristics.",
+ "inference": "The verse identifies the twelfth chapter as concerning the characteristic of the conduct vessel.",
  "uncertainties": [
-  "No doctrinal content beyond chapter title."
+  "whether caryāpātra is a compound"
  ],
- "plain_english": "The twelfth chapter concerns conduct and vessel characteristics."
+ "plain_english": "The twelfth chapter: characteristic of the conduct vessel."
 }
