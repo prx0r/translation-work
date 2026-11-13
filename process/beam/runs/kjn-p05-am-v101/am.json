@@ -1,15 +1,14 @@
 {
  "song": "kjn-p05",
  "verse": 101,
- "question": "What must be concealed with effort in the mortal world among the lowest of men?",
+ "question": "What must be concealed with effort among the lowest men in the mortal world?",
  "premises": [
-  "concealment is required",
-  "effort is specified",
-  "mortal world is specified"
+  "concealment requires effort",
+  "mortal world contains lowest men"
  ],
- "inference": "the teaching must be hidden from unworthy persons",
+ "inference": "the teaching must be guarded from unworthy recipients",
  "uncertainties": [
-  "none"
+  "exact referent of concealed teaching"
  ],
  "plain_english": "It must be concealed with effort in the mortal world among the lowest of men."
 }

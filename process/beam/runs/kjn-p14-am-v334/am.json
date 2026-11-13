@@ -1,16 +1,15 @@
 {
  "song": "kjn-p14",
  "verse": 334,
- "question": "Which beings are named as ascetics in this context?",
+ "question": "Which beings are listed alongside ascetics in this context?",
  "premises": [
   "gandharvas are named",
-  "kinnaras are named",
-  "yakshas and asuras are named",
-  "they are ascetics"
+  "kinnaras and yakshas are named",
+  "asuras and ascetics are named"
  ],
- "inference": "Several celestial and demonic beings are called ascetics.",
+ "inference": "The verse lists gandharvas, kinnaras, yakshas, asuras, and ascetics.",
  "uncertainties": [
-  "exact list relation"
+  "exact role in sentence"
  ],
- "plain_english": "Gandharvas, kinnaras, yakshas, and asuras are ascetics."
+ "plain_english": "Gandharvas, kinnaras, yakshas, asuras, and ascetics."
 }
