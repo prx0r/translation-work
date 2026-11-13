@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[object+enjoyment+wealth](viṣayābhoga+vibhavā) [of-spreading-forth+desire](prasṛti+icchā) [of-him](asya) [is-filled](pūryate)
+[object](viṣaya) [enjoyment](ābhoga) [abundance](vibhavā) [spreading](prasṛta) [desire](icchā) [of-him](asya) [is-filled](prapūryate)
 
 ## mukta-m0-p10-v227
-[fivefold](pañcātmakaṃ) [which](yat) [object+own-form](viṣaya+svarūpam) [is-experienced](anubhūyate)
+[fivefold](pañcātmakaṃ) [which](yat) [object](viṣaya) [form](rūpa) [is-experienced](anubhūyate)
 
 ## mukta-m0-p10-v228
-[object+enjoyment+ascertained](viṣayābhoga+nirjñāta) [in-non-conceptual+established](nirvikalpa+pratiṣṭhite)
+[object](viṣaya) [enjoyment](ābhoga) [known](nirjñāta) [non-conceptual](nirvikalpa) [established-in](pratiṣṭhite)
 
 ## mukta-m0-p10-v229
-[sixteenfold](ṣoḍaśātmā) [he](sa) [become](sañjātaḥ) [from-object+enjoyment+fulfillment](viṣayābhoga+pūraṇāt)
+[sixteenfold](ṣoḍaśātmā) [he](sa) [become](sañjāto) [object](viṣaya) [enjoyment](ābhoga) [fulfillment](pūraṇāt)
 
 ## mukta-m0-p10-v230
-[consciousness+ray+flashing](cit+marīci+camatkāra) [knowable+inscription+jagged](prameya+ullekha+danturam)
+[consciousness](cit) [ray](marīci) [flashing](camatkāra) [knowable](prameya) [inscription](ullekha) [jagged](danturam)
 
 ## mukta-m0-p10-v231
-[of-own-self](svātmanaḥ) [difficult+lordship+demonstration+characterized](durghaṭa+aiśvarya+pratipādana+lakṣaṇam)
+[of-own-self](svātmano) [difficult-to-accomplish](durghaṭa) [sovereignty](aiśvarya) [manifestation](pratipādana) [characterized-by](lakṣaṇam)
 
 ## mukta-m0-p10-v232
-[great-bliss+predominance](mahānanda+pradhānatvāt) [wheel](cakram) [bliss+named](ānanda+saṃjñitam)
+[great-bliss](mahānanda) [predominance](pradhānatvāt) [wheel](cakram) [bliss](ānanda) [named](saṃjñitam)
 
 ## mukta-m0-p10-v233
-[objects](viṣayāḥ) [indeed](eva) [of-these](eteṣāṃ) [should-be](bhavet) [consciousness+own-nature+ground](saṃvit+svarūpa+bhūḥ)
+[objects](viṣayā) [indeed](eva) [of-these](eteṣāṃ) [should-be](bhavet) [consciousness](saṃvit) [own-nature](svarūpa) [ground](bhūḥ)
 
 ## mukta-m0-p10-v234
-[tasting+nature](carvaṇa+ātmā) [also](api) [withdrawal](saṃhāraḥ) [by-inevitability](nāntarīyatayā) [declared](uditaḥ)
+[relishing](carvaṇa) [nature](ātmā) [also](api) [withdrawal](saṃhāro) [by-inevitability](nāntarīyatayā) [declared](uditaḥ)
 
 ## mukta-m0-p10-v235
-[in-object+enjoyment](viṣayābhoge) [eagerness](autsukyaṃ) [of-rays](marīcīnāṃ) [ceases](nivartate)
+[object](viṣaya) [enjoyment](ābhoga) [eagerness](autsukyaṃ) [of-rays](marīcīnāṃ) [ceases](nivartate)
 
 ## mukta-m0-p10-v236
-[of-moving](carantyāḥ) [indeed](eva) [expansion](viṣphāraḥ) [of-level](bhūmayyāḥ) [sixteenfold](ṣoḍaśātmakaḥ)
+[moving](carantyā) [indeed](eva) [expansion](viṣphāro) [of-level](bhūmayyāḥ) [sixteenfold](ṣoḍaśātmakaḥ)
 
 ## mukta-m0-p10-v237
-[for-absorption+attainment](samādhi+lābhāya) [always](sadaiva) [may-be](bhūyāt) [by-state+enjoyment](bhāva+upabhogena) [of-great-person](mahājanasya)
+[absorption](samādhi) [attainment](lābhāya) [always](sadaiva) [may-be](bhūyād) [state](bhāva) [enjoyment](upabhogena) [of-great-person](mahājanasya)
 
 ## mukta-m0-p10-v238
-[having-meditated](dhyātvā) [now](samprati) [form+wheel](mūrti+cakram) [proper](ucitaṃ) [is-expounded](vyākhyāyate) [by-reasonings](yuktibhiḥ)
+[having-meditated](dhyātvā) [now](samprati) [form](mūrti) [wheel](cakram) [appropriate](ucitaṃ) [is-expounded](vyākhyāyate) [by-reasonings](yuktibhiḥ)
 
 ## mukta-m0-p10-v239
-[rest](viśrāntiḥ) [declared](uditā) [of-that](tasya) [by-turning-back](pratyāvṛttyā) [in-subject](pramātari)
+[rest](viśrāntir) [declared](uditā) [of-that](tasya) [by-turning-back](pratyāvṛttyā) [in-the-subject](pramātari)
 
 ## mukta-m0-p10-v240
-[of-ego](ahaṅkārasya) [all+application+purpose+tenfold](sakala+prayoga+artha+daśātmanaḥ)
+[of-ego](ahaṅkārasya) [all](sakala) [application](prayoga) [purpose](artha) [tenfold](daśātmanaḥ)
 
 ## mukta-m0-p10-v241
-[unmanifest+form](avyakta+rūpaḥ) [ego](ahaṅkāraḥ) [he](sa) [embodied](mūrtaḥ) [here](atra) [clearly](sphuṭaṃ) [situated](sthitaḥ)
+[unmanifest](avyakta) [form](rūpaḥ) [ego](ahaṅkāraḥ) [he](sa) [embodied](mūrtaḥ) [here](atra) [clearly](sphuṭaṃ) [situated](sthitaḥ)
 
 ## mukta-m0-p10-v242
-[time+creation+consisting-of](kāla+sṛṣṭi+mayaḥ) [expansion](sphāraḥ) [of-rays](marīcīnāṃ) [consciousness+intense](cit+utkaṭaḥ)
+[time](kāla) [creation](sṛṣṭi) [consisting-of](mayaḥ) [expansion](sphāro) [of-rays](marīcīnāṃ) [consciousness](cit) [intense](utkaṭaḥ)
 
 ## mukta-m0-p10-v243
-[outward-facing](bahirmukhe) [or](vā) [which](yat) [therefore](ataḥ) [time+desire+nature](kāla+kāma+ātmakaṃ) [world](jagat)
+[outward-facing](bahirmukhe) [or](vā) [because](yataḥ) [from-this](ataḥ) [time](kāla) [desire](kāma) [nature](ātmakaṃ) [world](jagat)
 
 ## mukta-m0-p10-v244
-[object+enjoyment+expansion](viṣayābhoga+viṣphāra) [in-dejected](viṣaṇṇāsu) [rays](marīciṣu)
+[object](viṣaya) [enjoyment](ābhoga) [expansion](viṣphāra) [exhausted](viṣaṇṇāsu) [in-rays](marīciṣu)
 
 ## mukta-m0-p10-v245
 [seventeenth](saptadaśaḥ) [of-sixteen](ṣoḍaśānāṃ) [of-rays](marīcīnāṃ) [leader](vināyakaḥ)
 
 ## mukta-m0-p10-v246
-[seventeenfold](saptadaśa+ātma) [this](tat) [this](idaṃ) [form+wheel](mūrti+cakram) [should-be-considered](vimṛśyatām)
+[seventeenfold](saptadaśātma) [this](tat) [this](idaṃ) [form](mūrti) [wheel](cakraṃ) [should-be-considered](vimṛśyatām)
 
 ## mukta-m0-p10-v247
-[various+cognition+diversity](tattat+pratīti+vaicitrya) [impression+abode+level-gone](vāsanā+ālaya+bhūmigam)
+[various](tattat) [cognition](pratīti) [diversity](vaicitrya) [impression](vāsanā) [abode](ālaya) [level](bhūmigam)
 
 ## mukta-m0-p10-v248
-[now](idānīṃ) [he](sa) [arrived](samāpannaḥ) [mother+confluence+recipient](mātṛ+melā+avabhājanam)
+[now](idānīṃ) [he](sa) [arrived](samāpanno) [mother](mātṛ) [union](melāpa) [state](avabhājanam)
 
 ## mukta-m0-p10-v249
-[this](etat) [pair](dvayaṃ) [where](yatra) [dissolved](līnaṃ) [with-sameness-of-flavor](sāmarasyena) [exists](vartate)
+[this](etat) [pair](dvayaṃ) [where](yatra) [dissolved](līnaṃ) [in-harmony](sāmarasyena) [exists](vartate)
 
 ## mukta-m0-p10-v250
-[by-dwelling](āvāsanena) [suddenly](sahasā) [in-form+wheel](mūrti+cakre) [is-experienced](anubhūyate)
+[by-immersion](āvāsanena) [suddenly](sahasā) [in-form](mūrti) [wheel](cakre) [is-experienced](anubhūyate)

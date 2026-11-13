@@ -1,0 +1,154 @@
+{
+ "song": "mukta-m00407-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable; mantra seed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrī",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable; mantra seed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaumārya",
+     "gloss": "to-kaumārī",
+     "grounds": "vocative or dative form addressed to Kaumārī; UNC exact case",
+     "morph": "f.sg.voc/dat"
+    },
+    {
+     "surface": "2",
+     "gloss": "twice",
+     "grounds": "numeral indicating repetition",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "3",
+     "gloss": "three-times",
+     "grounds": "numeral indicating repetition",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "hṛdayādi+pūjā",
+     "gloss": "heart-etc-worship",
+     "grounds": "compound: hṛdaya-ādi (beginning-with-heart) + pūjā (worship)",
+     "morph": "compound=f.sg.nom"
+    },
+    {
+     "surface": "candanākṣata+pūspa+dhūpa+dipa+naivedyādikaṃ",
+     "gloss": "sandal-rice-flower-incense-lamp-food-etc",
+     "grounds": "compound listing ritual offerings ending with ādika (etc.)",
+     "morph": "compound=n.sg.acc"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive expressing prior action of offering",
+     "morph": "abs.(√dā)"
+    },
+    {
+     "surface": "japya",
+     "gloss": "to-be-recited",
+     "grounds": "gerundive indicating recitation to be performed",
+     "morph": "gerundive.n.sg.nom/acc(√jap)"
+    },
+    {
+     "surface": "stotra",
+     "gloss": "hymn",
+     "grounds": "hymn or praise to be recited",
+     "morph": "n.sg.nom/acc"
+    }
+   ],
+   "question": "What ritual sequence of worship, offering, and recitation is prescribed for Kaumārī?",
+   "premises": [
+    "The mantra syllables oṃ and hrīṃ invoke Kaumārī.",
+    "Worship beginning with the heart and offerings such as sandalwood, rice, flowers, incense, lamp, and food are to be given.",
+    "After giving offerings, a hymn is to be recited."
+   ],
+   "inference": "The prescribed rite requires invocation, heart-centered worship with material offerings, and subsequent recitation of a hymn.",
+   "uncertainties": [
+    "The exact grammatical case of kaumārya is uncertain.",
+    "The specific referents of the numerals 2 and 3 in the ritual sequence are not explicit."
+   ],
+   "plain_english": "Oṃ hrīṃ, to Kaumārī: perform the worship beginning with the heart twice and three times, offer sandalwood, unbroken rice, flowers, incense, lamp, food, and so forth, and then recite the hymn."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "tuṃvureśvarīya",
+     "gloss": "to-tuṃvureśvarī",
+     "grounds": "form addressed to Tuṃvureśvarī; UNC exact derivation/case",
+     "morph": "f.sg.voc/dat"
+    },
+    {
+     "surface": "2",
+     "gloss": "twice",
+     "grounds": "numeral indicating repetition",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "āgnayādi+īśānāntaṃ",
+     "gloss": "southeast-beginning-northeast-ending",
+     "grounds": "compound indicating directional range from southeast to northeast",
+     "morph": "compound=n.sg.acc"
+    },
+    {
+     "surface": "āvāhanādī",
+     "gloss": "invocation-etc",
+     "grounds": "compound: āvāhana (invocation) + ādi (etc.)",
+     "morph": "compound=n.pl.nom/acc"
+    },
+    {
+     "surface": "0",
+     "gloss": "zero",
+     "grounds": "numeral; ritual marker, UNC specific function",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "tato+salapūjā",
+     "gloss": "then-all-worship",
+     "grounds": "compound: tataḥ (then) + sala/sarva-pūjā (all worship); UNC first member",
+     "morph": "compound=f.sg.nom"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred syllable; mantra seed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānaṃtāyatyādi",
+     "gloss": "to-infinite-etc-beginning",
+     "grounds": "compound beginning with ānantāya (to the infinite) + ādi; UNC exact form",
+     "morph": "compound"
+    },
+    {
+     "surface": "āvāhanā",
+     "gloss": "invocation",
+     "grounds": "act of invocation",
+     "morph": "f.sg.nom"
+    }
+   ],
+   "question": "What directional invocation and subsequent worship are prescribed for Tuṃvureśvarī?",
+   "premises": [
+    "Tuṃvureśvarī is addressed in the ritual sequence.",
+    "Invocation and related acts are performed from the southeast direction to the northeast.",
+    "Afterward, complete worship and an invocation beginning with the formula to the infinite are performed."
+   ],
+   "inference": "The rite for Tuṃvureśvarī includes directional invocations followed by comprehensive worship and a further invocation formula.",
+   "uncertainties": [
+    "The exact form and case of tuṃvureśvarīya are uncertain.",
+    "The function of the numeral 0 is unclear.",
+    "The analysis of tato+salapūjā and ānaṃtāyatyādi is uncertain."
+   ],
+   "plain_english": "To Tuṃvureśvarī: perform invocation and related acts twice from the southeast to the northeast, then perform the complete worship; oṃ, perform the invocation beginning with 'to the infinite' and so forth."
+  }
+ ]
+}

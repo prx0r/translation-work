@@ -1,0 +1,47 @@
+{
+ "song": "mukta-m00219-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "liṅgāṅga",
+     "gloss": "mark-limb",
+     "grounds": "compound; liṅga (mark/sign) + aṅga (limb/part)",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalpanaṃ",
+     "gloss": "fashioning",
+     "grounds": "action noun from kḷp (to fashion, arrange, imagine)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samyaggeha",
+     "gloss": "proper-house",
+     "grounds": "compound with internal sandhi; samyak (proper/correct) + geha (house)",
+     "morph": "compound"
+    },
+    {
+     "surface": "bandhanalakṣaṇam",
+     "gloss": "bondage-characteristic",
+     "grounds": "compound; bandhana (bondage/binding) + lakṣaṇa (characteristic/mark)",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What characterizes the conceptual fashioning of mark and limb as a form of bondage?",
+   "premises": [
+    "The fashioning of mark and limb is identified as a conceptual construction.",
+    "This construction is associated with a proper house.",
+    "The construction is characterized as bondage."
+   ],
+   "inference": "The conceptual fashioning of mark and limb, situated in the proper house, is defined by the characteristic of bondage.",
+   "uncertainties": [
+    "The precise referents of liṅga and aṅga are unclear without surrounding context.",
+    "The meaning of samyaggeha (proper house) is context-dependent and uncertain.",
+    "The syntactic role of the compound chain is inferred in the absence of a finite verb."
+   ],
+   "plain_english": "The fashioning of mark and limb is characterized as bondage within the proper house."
+  }
+ ]
+}

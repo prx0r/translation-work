@@ -7,19 +7,31 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣayābhoga+vibhavā",
-"quick_gloss": "object+enjoyment+wealth"
+"surface": "viṣaya",
+"quick_gloss": "object"
 },
 {
-"surface": "prasṛti+icchā",
-"quick_gloss": "of-spreading-forth+desire"
+"surface": "ābhoga",
+"quick_gloss": "enjoyment"
+},
+{
+"surface": "vibhavā",
+"quick_gloss": "abundance"
+},
+{
+"surface": "prasṛta",
+"quick_gloss": "spreading"
+},
+{
+"surface": "icchā",
+"quick_gloss": "desire"
 },
 {
 "surface": "asya",
 "quick_gloss": "of-him"
 },
 {
-"surface": "pūryate",
+"surface": "prapūryate",
 "quick_gloss": "is-filled"
 }
 ]
@@ -40,8 +52,12 @@
 "quick_gloss": "which"
 },
 {
-"surface": "viṣaya+svarūpam",
-"quick_gloss": "object+own-form"
+"surface": "viṣaya",
+"quick_gloss": "object"
+},
+{
+"surface": "rūpa",
+"quick_gloss": "form"
 },
 {
 "surface": "anubhūyate",
@@ -57,12 +73,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣayābhoga+nirjñāta",
-"quick_gloss": "object+enjoyment+ascertained"
+"surface": "viṣaya",
+"quick_gloss": "object"
 },
 {
-"surface": "nirvikalpa+pratiṣṭhite",
-"quick_gloss": "in-non-conceptual+established"
+"surface": "ābhoga",
+"quick_gloss": "enjoyment"
+},
+{
+"surface": "nirjñāta",
+"quick_gloss": "known"
+},
+{
+"surface": "nirvikalpa",
+"quick_gloss": "non-conceptual"
+},
+{
+"surface": "pratiṣṭhite",
+"quick_gloss": "established-in"
 }
 ]
 },
@@ -82,12 +110,20 @@
 "quick_gloss": "he"
 },
 {
-"surface": "sañjātaḥ",
+"surface": "sañjāto",
 "quick_gloss": "become"
 },
 {
-"surface": "viṣayābhoga+pūraṇāt",
-"quick_gloss": "from-object+enjoyment+fulfillment"
+"surface": "viṣaya",
+"quick_gloss": "object"
+},
+{
+"surface": "ābhoga",
+"quick_gloss": "enjoyment"
+},
+{
+"surface": "pūraṇāt",
+"quick_gloss": "fulfillment"
 }
 ]
 },
@@ -99,12 +135,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cit+marīci+camatkāra",
-"quick_gloss": "consciousness+ray+flashing"
+"surface": "cit",
+"quick_gloss": "consciousness"
 },
 {
-"surface": "prameya+ullekha+danturam",
-"quick_gloss": "knowable+inscription+jagged"
+"surface": "marīci",
+"quick_gloss": "ray"
+},
+{
+"surface": "camatkāra",
+"quick_gloss": "flashing"
+},
+{
+"surface": "prameya",
+"quick_gloss": "knowable"
+},
+{
+"surface": "ullekha",
+"quick_gloss": "inscription"
+},
+{
+"surface": "danturam",
+"quick_gloss": "jagged"
 }
 ]
 },
@@ -116,12 +168,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svātmanaḥ",
+"surface": "svātmano",
 "quick_gloss": "of-own-self"
 },
 {
-"surface": "durghaṭa+aiśvarya+pratipādana+lakṣaṇam",
-"quick_gloss": "difficult+lordship+demonstration+characterized"
+"surface": "durghaṭa",
+"quick_gloss": "difficult-to-accomplish"
+},
+{
+"surface": "aiśvarya",
+"quick_gloss": "sovereignty"
+},
+{
+"surface": "pratipādana",
+"quick_gloss": "manifestation"
+},
+{
+"surface": "lakṣaṇam",
+"quick_gloss": "characterized-by"
 }
 ]
 },
@@ -133,16 +197,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mahānanda+pradhānatvāt",
-"quick_gloss": "great-bliss+predominance"
+"surface": "mahānanda",
+"quick_gloss": "great-bliss"
+},
+{
+"surface": "pradhānatvāt",
+"quick_gloss": "predominance"
 },
 {
 "surface": "cakram",
 "quick_gloss": "wheel"
 },
 {
-"surface": "ānanda+saṃjñitam",
-"quick_gloss": "bliss+named"
+"surface": "ānanda",
+"quick_gloss": "bliss"
+},
+{
+"surface": "saṃjñitam",
+"quick_gloss": "named"
 }
 ]
 },
@@ -154,7 +226,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣayāḥ",
+"surface": "viṣayā",
 "quick_gloss": "objects"
 },
 {
@@ -170,8 +242,16 @@
 "quick_gloss": "should-be"
 },
 {
-"surface": "saṃvit+svarūpa+bhūḥ",
-"quick_gloss": "consciousness+own-nature+ground"
+"surface": "saṃvit",
+"quick_gloss": "consciousness"
+},
+{
+"surface": "svarūpa",
+"quick_gloss": "own-nature"
+},
+{
+"surface": "bhūḥ",
+"quick_gloss": "ground"
 }
 ]
 },
@@ -183,15 +263,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "carvaṇa+ātmā",
-"quick_gloss": "tasting+nature"
+"surface": "carvaṇa",
+"quick_gloss": "relishing"
+},
+{
+"surface": "ātmā",
+"quick_gloss": "nature"
 },
 {
 "surface": "api",
 "quick_gloss": "also"
 },
 {
-"surface": "saṃhāraḥ",
+"surface": "saṃhāro",
 "quick_gloss": "withdrawal"
 },
 {
@@ -212,8 +296,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣayābhoge",
-"quick_gloss": "in-object+enjoyment"
+"surface": "viṣaya",
+"quick_gloss": "object"
+},
+{
+"surface": "ābhoga",
+"quick_gloss": "enjoyment"
 },
 {
 "surface": "autsukyaṃ",
@@ -237,15 +325,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "carantyāḥ",
-"quick_gloss": "of-moving"
+"surface": "carantyā",
+"quick_gloss": "moving"
 },
 {
 "surface": "eva",
 "quick_gloss": "indeed"
 },
 {
-"surface": "viṣphāraḥ",
+"surface": "viṣphāro",
 "quick_gloss": "expansion"
 },
 {
@@ -266,20 +354,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "samādhi+lābhāya",
-"quick_gloss": "for-absorption+attainment"
+"surface": "samādhi",
+"quick_gloss": "absorption"
+},
+{
+"surface": "lābhāya",
+"quick_gloss": "attainment"
 },
 {
 "surface": "sadaiva",
 "quick_gloss": "always"
 },
 {
-"surface": "bhūyāt",
+"surface": "bhūyād",
 "quick_gloss": "may-be"
 },
 {
-"surface": "bhāva+upabhogena",
-"quick_gloss": "by-state+enjoyment"
+"surface": "bhāva",
+"quick_gloss": "state"
+},
+{
+"surface": "upabhogena",
+"quick_gloss": "enjoyment"
 },
 {
 "surface": "mahājanasya",
@@ -303,12 +399,16 @@
 "quick_gloss": "now"
 },
 {
-"surface": "mūrti+cakram",
-"quick_gloss": "form+wheel"
+"surface": "mūrti",
+"quick_gloss": "form"
+},
+{
+"surface": "cakram",
+"quick_gloss": "wheel"
 },
 {
 "surface": "ucitaṃ",
-"quick_gloss": "proper"
+"quick_gloss": "appropriate"
 },
 {
 "surface": "vyākhyāyate",
@@ -328,7 +428,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viśrāntiḥ",
+"surface": "viśrāntir",
 "quick_gloss": "rest"
 },
 {
@@ -345,7 +445,7 @@
 },
 {
 "surface": "pramātari",
-"quick_gloss": "in-subject"
+"quick_gloss": "in-the-subject"
 }
 ]
 },
@@ -361,8 +461,20 @@
 "quick_gloss": "of-ego"
 },
 {
-"surface": "sakala+prayoga+artha+daśātmanaḥ",
-"quick_gloss": "all+application+purpose+tenfold"
+"surface": "sakala",
+"quick_gloss": "all"
+},
+{
+"surface": "prayoga",
+"quick_gloss": "application"
+},
+{
+"surface": "artha",
+"quick_gloss": "purpose"
+},
+{
+"surface": "daśātmanaḥ",
+"quick_gloss": "tenfold"
 }
 ]
 },
@@ -374,8 +486,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avyakta+rūpaḥ",
-"quick_gloss": "unmanifest+form"
+"surface": "avyakta",
+"quick_gloss": "unmanifest"
+},
+{
+"surface": "rūpaḥ",
+"quick_gloss": "form"
 },
 {
 "surface": "ahaṅkāraḥ",
@@ -411,11 +527,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kāla+sṛṣṭi+mayaḥ",
-"quick_gloss": "time+creation+consisting-of"
+"surface": "kāla",
+"quick_gloss": "time"
 },
 {
-"surface": "sphāraḥ",
+"surface": "sṛṣṭi",
+"quick_gloss": "creation"
+},
+{
+"surface": "mayaḥ",
+"quick_gloss": "consisting-of"
+},
+{
+"surface": "sphāro",
 "quick_gloss": "expansion"
 },
 {
@@ -423,8 +547,12 @@
 "quick_gloss": "of-rays"
 },
 {
-"surface": "cit+utkaṭaḥ",
-"quick_gloss": "consciousness+intense"
+"surface": "cit",
+"quick_gloss": "consciousness"
+},
+{
+"surface": "utkaṭaḥ",
+"quick_gloss": "intense"
 }
 ]
 },
@@ -444,16 +572,24 @@
 "quick_gloss": "or"
 },
 {
-"surface": "yat",
-"quick_gloss": "which"
+"surface": "yataḥ",
+"quick_gloss": "because"
 },
 {
 "surface": "ataḥ",
-"quick_gloss": "therefore"
+"quick_gloss": "from-this"
 },
 {
-"surface": "kāla+kāma+ātmakaṃ",
-"quick_gloss": "time+desire+nature"
+"surface": "kāla",
+"quick_gloss": "time"
+},
+{
+"surface": "kāma",
+"quick_gloss": "desire"
+},
+{
+"surface": "ātmakaṃ",
+"quick_gloss": "nature"
 },
 {
 "surface": "jagat",
@@ -469,16 +605,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viṣayābhoga+viṣphāra",
-"quick_gloss": "object+enjoyment+expansion"
+"surface": "viṣaya",
+"quick_gloss": "object"
+},
+{
+"surface": "ābhoga",
+"quick_gloss": "enjoyment"
+},
+{
+"surface": "viṣphāra",
+"quick_gloss": "expansion"
 },
 {
 "surface": "viṣaṇṇāsu",
-"quick_gloss": "in-dejected"
+"quick_gloss": "exhausted"
 },
 {
 "surface": "marīciṣu",
-"quick_gloss": "rays"
+"quick_gloss": "in-rays"
 }
 ]
 },
@@ -515,7 +659,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saptadaśa+ātma",
+"surface": "saptadaśātma",
 "quick_gloss": "seventeenfold"
 },
 {
@@ -527,8 +671,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "mūrti+cakram",
-"quick_gloss": "form+wheel"
+"surface": "mūrti",
+"quick_gloss": "form"
+},
+{
+"surface": "cakraṃ",
+"quick_gloss": "wheel"
 },
 {
 "surface": "vimṛśyatām",
@@ -544,12 +692,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tattat+pratīti+vaicitrya",
-"quick_gloss": "various+cognition+diversity"
+"surface": "tattat",
+"quick_gloss": "various"
 },
 {
-"surface": "vāsanā+ālaya+bhūmigam",
-"quick_gloss": "impression+abode+level-gone"
+"surface": "pratīti",
+"quick_gloss": "cognition"
+},
+{
+"surface": "vaicitrya",
+"quick_gloss": "diversity"
+},
+{
+"surface": "vāsanā",
+"quick_gloss": "impression"
+},
+{
+"surface": "ālaya",
+"quick_gloss": "abode"
+},
+{
+"surface": "bhūmigam",
+"quick_gloss": "level"
 }
 ]
 },
@@ -569,12 +733,20 @@
 "quick_gloss": "he"
 },
 {
-"surface": "samāpannaḥ",
+"surface": "samāpanno",
 "quick_gloss": "arrived"
 },
 {
-"surface": "mātṛ+melā+avabhājanam",
-"quick_gloss": "mother+confluence+recipient"
+"surface": "mātṛ",
+"quick_gloss": "mother"
+},
+{
+"surface": "melāpa",
+"quick_gloss": "union"
+},
+{
+"surface": "avabhājanam",
+"quick_gloss": "state"
 }
 ]
 },
@@ -603,7 +775,7 @@
 },
 {
 "surface": "sāmarasyena",
-"quick_gloss": "with-sameness-of-flavor"
+"quick_gloss": "in-harmony"
 },
 {
 "surface": "vartate",
@@ -620,15 +792,19 @@
 "tokens": [
 {
 "surface": "āvāsanena",
-"quick_gloss": "by-dwelling"
+"quick_gloss": "by-immersion"
 },
 {
 "surface": "sahasā",
 "quick_gloss": "suddenly"
 },
 {
-"surface": "mūrti+cakre",
-"quick_gloss": "in-form+wheel"
+"surface": "mūrti",
+"quick_gloss": "in-form"
+},
+{
+"surface": "cakre",
+"quick_gloss": "wheel"
 },
 {
 "surface": "anubhūyate",

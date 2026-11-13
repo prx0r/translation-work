@@ -1,0 +1,115 @@
+{
+ "song": "mukta-m00624-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "ma+candra",
+     "gloss": "ma-and-moon",
+     "grounds": "compound or paired elements; exact technical referent uncertain (UNC)",
+     "morph": "compound"
+    },
+    {
+     "surface": "utkīrṇe",
+     "gloss": "engraved",
+     "grounds": "describes the jewel as inscribed",
+     "morph": "ppp.loc.sg.n (ud-√kṛ)"
+    },
+    {
+     "surface": "śubha",
+     "gloss": "auspicious",
+     "grounds": "qualifies the worship jewel",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arcā",
+     "gloss": "worship",
+     "grounds": "qualifies the jewel",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ratne",
+     "gloss": "jewel",
+     "grounds": "locus of the engraving and ray",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvitīyo",
+     "gloss": "second",
+     "grounds": "ordinal qualifier of the ray",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayūkhaḥ",
+     "gloss": "ray",
+     "grounds": "subject of the designation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What constitutes the second ray within the auspicious worship jewel?",
+   "premises": [
+    "An auspicious worship jewel is the locus described.",
+    "The jewel is engraved with ma+candra.",
+    "A second ray is identified in that engraved jewel."
+   ],
+   "inference": "The second ray is the one present in the auspicious worship jewel engraved with ma+candra.",
+   "uncertainties": [
+    "The precise referent of ma+candra is not specified in the text (UNC)."
+   ],
+   "plain_english": "The second ray is in the auspicious worship jewel engraved with ma and candra."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "drotkīrṇe",
+     "gloss": "engraved-with-dro",
+     "grounds": "describes the jewel as inscribed; internal element 'dro' uncertain (UNC)",
+     "morph": "ppp.loc.sg.n (ud-√kṛ, compound-initial element)"
+    },
+    {
+     "surface": "śubha",
+     "gloss": "auspicious",
+     "grounds": "qualifies the worship jewel",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arcā",
+     "gloss": "worship",
+     "grounds": "qualifies the jewel",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ratne",
+     "gloss": "jewel",
+     "grounds": "locus of the engraving and ray",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tṛtīyo",
+     "gloss": "third",
+     "grounds": "ordinal qualifier of the ray",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayūkhaḥ",
+     "gloss": "ray",
+     "grounds": "subject of the designation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What constitutes the third ray within the auspicious worship jewel?",
+   "premises": [
+    "An auspicious worship jewel is the locus described.",
+    "The jewel is engraved with dro.",
+    "A third ray is identified in that engraved jewel."
+   ],
+   "inference": "The third ray is the one present in the auspicious worship jewel engraved with dro.",
+   "uncertainties": [
+    "The precise referent of the element 'dro' in drotkīrṇe is not specified in the text (UNC)."
+   ],
+   "plain_english": "The third ray is in the auspicious worship jewel engraved with dro."
+  }
+ ]
+}

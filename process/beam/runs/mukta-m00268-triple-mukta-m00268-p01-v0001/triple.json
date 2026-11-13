@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m00268-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "pronoun referring to an unspecified group; antecedent not given in this short text (UNC)",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "prāṇāgnihotraṃ",
+     "gloss": "life-breath-fire-offering",
+     "grounds": "compound denoting an offering made with or as the vital breaths; exact ritual or internal sense uncertain without context (UNC)",
+     "morph": "compound.acc.sg.n (prāṇa+agni-hotra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasādaṃ",
+     "gloss": "grace",
+     "grounds": "favor or gracious gift, here the desired result",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative request addressed to the trident-bearer",
+     "morph": "imp.2.sg.act √kṛ"
+    },
+    {
+     "surface": "śūlabhṛt",
+     "gloss": "trident-bearer",
+     "grounds": "epithet of Śiva addressed as the agent of grace",
+     "morph": "compound.voc.sg.m (śūla+bhṛt)"
+    }
+   ],
+   "question": "By what act should the trident-bearer transform their life-breath fire-offering into grace?",
+   "premises": [
+    "Their life-breath fire-offering is presented.",
+    "Grace is the desired outcome of that offering.",
+    "The trident-bearer has the power to effect this transformation."
+   ],
+   "inference": "The trident-bearer is petitioned to render their life-breath fire-offering as grace.",
+   "uncertainties": [
+    "The referent of teṣāṃ is not specified in this isolated verse (UNC).",
+    "The precise sense of prāṇāgnihotraṃ, whether ritual or internalized, is uncertain without context (UNC)."
+   ],
+   "plain_english": "O trident-bearer, make their life-breath fire-offering into grace."
+  }
+ ]
+}
