@@ -3,24 +3,34 @@
  "verse": 3,
  "rows": [
   {
-   "lemma": "tac",
+   "lemma": "samayācāra",
+   "morph": "compound=samaya+ācāra",
+   "grounds": "first member of compound object"
+  },
+  {
+   "lemma": "vidhānañ",
    "morph": "n.acc.sg",
-   "grounds": "object of hearing"
+   "grounds": "object requested; sandhi form of vidhānam"
   },
   {
-   "lemma": "chṛṇuśva",
-   "morph": "2.sg.mid.imp-√śru",
-   "grounds": "imperative command"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective"
   },
   {
-   "lemma": "svarūpeṇa",
-   "morph": "n.ins.sg",
-   "grounds": "manner of hearing"
+   "lemma": "sādhanañ",
+   "morph": "n.acc.sg",
+   "grounds": "object requested; sandhi form of sādhanam"
   },
   {
-   "lemma": "mahāyauvanagarvite",
-   "morph": "f.voc.sg",
-   "grounds": "vocative epithet of Devī"
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connective"
+  },
+  {
+   "lemma": "prakāśaya",
+   "morph": "2.sg.act-imperative √prakāś",
+   "grounds": "imperative request"
   }
  ]
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p03",
  "verse": 72,
- "question": "Why must this secret teaching be carefully concealed?",
+ "question": "What is required for recitation, worship, and related practices to succeed?",
  "premises": [
-  "The teaching is a secret",
-  "It must be concealed",
-  "It grants the fruit of all desires"
+  "Recitation, worship, and related practices are mentioned.",
+  "Without a certain element they do not succeed.",
+  "This applies in any case."
  ],
- "inference": "Because it grants the fruit of all desires, this secret must be concealed",
- "uncertainties": [],
- "plain_english": "Indeed this secret must be concealed, for it grants the fruit of all desires."
+ "inference": "Recitation, worship, and related practices cannot succeed without that required element.",
+ "uncertainties": [
+  "The antecedent of yena is implicit, likely referring to the power mantra or svāhā."
+ ],
+ "plain_english": "Without which, recitation, worship, and the like would not succeed anywhere."
 }

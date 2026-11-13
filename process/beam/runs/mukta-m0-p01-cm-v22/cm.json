@@ -3,24 +3,44 @@
  "verse": 22,
  "rows": [
   {
-   "lemma": "krī/",
+   "lemma": "adeyā",
+   "morph": "f.nom.sg",
+   "grounds": "gerundive describing the knowledge"
+  },
+  {
+   "lemma": "api",
    "morph": "(indecl.)",
-   "grounds": "bīja syllable, transliterated"
+   "grounds": "concessive particle"
   },
   {
-   "lemma": "kṣatajastho",
-   "morph": "m.nom.sg",
-   "grounds": "compound describing seat"
+   "lemma": "mahā",
+   "morph": "compound=mahā+vidyā",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "vyomavaktro",
-   "morph": "m.nom.sg",
-   "grounds": "epithet of the power"
+   "lemma": "vidyā",
+   "morph": "f.nom.sg",
+   "grounds": "subject"
   },
   {
-   "lemma": "thūmrabhairavyalaṅkṛtaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound describing adornment; spelling as given"
+   "lemma": "kalau",
+   "morph": "m.loc.sg",
+   "grounds": "temporal context"
+  },
+  {
+   "lemma": "pūrṇa",
+   "morph": "compound=pūrṇa+phala",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "phala",
+   "morph": "compound=pūrṇa+phala",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "pradā",
+   "morph": "f.nom.sg",
+   "grounds": "describes the knowledge"
   }
  ]
 }

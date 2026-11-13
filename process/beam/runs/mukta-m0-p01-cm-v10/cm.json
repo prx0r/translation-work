@@ -3,19 +3,39 @@
  "verse": 10,
  "rows": [
   {
-   "lemma": "vṛṣadhvajo",
-   "morph": "m.nom.sg",
-   "grounds": "name of a consonant power"
+   "lemma": "janma",
+   "morph": "compound=janma+antara",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "vyomavaktras",
-   "morph": "m.nom.sg",
-   "grounds": "name of a consonant power"
+   "lemma": "antara",
+   "morph": "compound=janma+antara",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "trailokyagrasanātmakaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound name of a consonant power"
+   "lemma": "sahasreṇa",
+   "morph": "n.ins.sg",
+   "grounds": "instrument indicating long duration"
+  },
+  {
+   "lemma": "kathituṃ",
+   "morph": "infinitive √kath",
+   "grounds": "action that is not possible"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "eva",
+   "morph": "(indecl.)",
+   "grounds": "emphatic particle"
+  },
+  {
+   "lemma": "śakyate",
+   "morph": "3.sg.pass-present √śak",
+   "grounds": "potentiality denied"
   }
  ]
 }

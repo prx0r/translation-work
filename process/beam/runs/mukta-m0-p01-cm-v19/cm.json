@@ -3,24 +3,39 @@
  "verse": 19,
  "rows": [
   {
-   "lemma": "oṃ",
-   "morph": "(indecl.)",
-   "grounds": "bīja syllable, transliterated"
+   "lemma": "sṛṣṭi",
+   "morph": "compound=sṛṣṭi+sthiti",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "caṇḍīśaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "deity or power named"
+   "lemma": "sthiti",
+   "morph": "compound=sṛṣṭi+sthiti",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "kṣatajārūḍho",
-   "morph": "m.nom.sg",
-   "grounds": "compound describing seat"
+   "lemma": "karī",
+   "morph": "f.nom.sg",
+   "grounds": "describes the goddess"
   },
   {
-   "lemma": "dhūmrabhairavyalaṅkṛtaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "compound describing adornment"
+   "lemma": "devī",
+   "morph": "f.nom.sg",
+   "grounds": "subject"
+  },
+  {
+   "lemma": "viṣṇu",
+   "morph": "compound=viṣṇu+rūpa",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "rūpā",
+   "morph": "f.nom.sg",
+   "grounds": "describes the goddess"
+  },
+  {
+   "lemma": "maheśvarī",
+   "morph": "compound=mahā+īśvarī, f.nom.sg",
+   "grounds": "epithet"
   }
  ]
 }

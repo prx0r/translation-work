@@ -3,29 +3,39 @@
  "verse": 13,
  "rows": [
   {
-   "lemma": "vidyudjihvā",
-   "morph": "f.nom.sg",
-   "grounds": "power used as ritual component"
+   "lemma": "kathayāmi",
+   "morph": "1.sg.act-present √kath",
+   "grounds": "declaration of teaching"
   },
   {
-   "lemma": "mukhaṃ",
+   "lemma": "mahā",
+   "morph": "compound=mahā+mantra",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "mantraṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object to be told"
+  },
+  {
+   "lemma": "mantra",
+   "morph": "compound=mantra+artha",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "artha",
+   "morph": "compound=mantra+artha+tva",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "tvaṃ",
    "morph": "n.acc.sg",
-   "grounds": "ritual placement"
+   "grounds": "abstract quality of mantra meaning"
   },
   {
-   "lemma": "kṛtvā",
-   "morph": "(gerund)-√kṛ",
-   "grounds": "prior action"
-  },
-  {
-   "lemma": "caṇḍikāntaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "compound indicating terminal element"
-  },
-  {
-   "lemma": "nagātmaje",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address to Devī"
+   "lemma": "sūreśvari",
+   "morph": "compound=sūra+īśvarī, f.voc.sg",
+   "grounds": "vocative address"
   }
  ]
 }

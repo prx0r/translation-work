@@ -3,39 +3,44 @@
  "verse": 50,
  "rows": [
   {
-   "lemma": "tiṣṭhanti",
-   "morph": "3.pl.pres.act √sthā",
-   "grounds": "finite verb expressing abiding presence"
+   "lemma": "smaraṇena",
+   "morph": "n.ins.sg",
+   "grounds": "instrumental of smaraṇa (remembrance); means by which liberation occurs"
   },
   {
-   "lemma": "satataṃ",
+   "lemma": "+",
+   "morph": "separator",
+   "grounds": "token separator"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating continual duration"
+   "grounds": "emphatic particle restricting the means to remembrance alone"
   },
   {
-   "lemma": "devi",
+   "lemma": "deveśi",
    "morph": "f.voc.sg",
-   "grounds": "vocative address to the goddess"
+   "grounds": "vocative address to the goddess; compound deva+īśī"
   },
   {
-   "lemma": "brahmā",
-   "morph": "m.nom.sg",
-   "grounds": "named deity standing in presence"
+   "lemma": "mucyate",
+   "morph": "3.sg.pass-pres(√muc)",
+   "grounds": "passive verb expressing release; root √muc"
   },
   {
-   "lemma": "ādyāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "plural adjective indicating a group beginning with Brahmā"
+   "lemma": "bhava",
+   "morph": "compound-member",
+   "grounds": "first member of compound denoting the sphere of bondage"
   },
   {
-   "lemma": "tridiva",
-   "morph": "compound:tridiva+aukasaḥ",
-   "grounds": "first member of compound denoting the celestial realm; compounded with following token"
+   "lemma": "+",
+   "morph": "separator",
+   "grounds": "token separator"
   },
   {
-   "lemma": "aukasaḥ",
-   "morph": "m.nom.pl (compound:tridiva+aukasaḥ)",
-   "grounds": "second member of compound denoting inhabitants; together with preceding token forms 'heaven-dwellers'"
+   "lemma": "bandhanāt",
+   "morph": "n.abl.sg",
+   "grounds": "ablative of separation; second member of bhava-bandhana compound"
   }
  ]
 }

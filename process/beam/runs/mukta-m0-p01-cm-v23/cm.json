@@ -3,24 +3,39 @@
  "verse": 23,
  "rows": [
   {
-   "lemma": "krīṃ",
-   "morph": "(indecl.)",
-   "grounds": "bīja syllable, transliterated"
+   "lemma": "āgama",
+   "morph": "compound=āgama+ukta",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "vyomāsyañja",
-   "morph": "m.acc.sg",
-   "grounds": "compound form as given, internal sandhi preserved"
+   "lemma": "ukta",
+   "morph": "compound=āgama+ukta",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "vidārīsthaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound describing seat"
+   "lemma": "vidhānena",
+   "morph": "n.ins.sg",
+   "grounds": "instrumental means"
   },
   {
-   "lemma": "nādabinduvirājitam",
-   "morph": "m.acc.sg",
-   "grounds": "compound describing adornment"
+   "lemma": "kalau",
+   "morph": "m.loc.sg",
+   "grounds": "temporal context"
+  },
+  {
+   "lemma": "devān",
+   "morph": "m.acc.pl",
+   "grounds": "objects of worship"
+  },
+  {
+   "lemma": "yajet",
+   "morph": "3.sg.act-optative √yaj",
+   "grounds": "prescriptive injunction"
+  },
+  {
+   "lemma": "sudhīḥ",
+   "morph": "m.nom.sg",
+   "grounds": "qualified subject"
   }
  ]
 }

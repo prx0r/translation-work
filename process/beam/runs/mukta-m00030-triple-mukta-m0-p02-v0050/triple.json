@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "smaraṇena",
+     "gloss": "by-remembrance",
+     "grounds": "instrumental of smaraṇa (remembrance); means by which liberation occurs",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "token separator",
+     "morph": "separator"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle restricting the means to remembrance alone",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess; compound deva+īśī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "passive verb expressing release; root √muc",
+     "morph": "3.sg.pass-pres(√muc)"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "worldly-existence",
+     "grounds": "first member of compound denoting the sphere of bondage",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "+",
+     "grounds": "token separator",
+     "morph": "separator"
+    },
+    {
+     "surface": "bandhanāt",
+     "gloss": "from-bondage",
+     "grounds": "ablative of separation; second member of bhava-bandhana compound",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What power does mere remembrance hold for release from worldly bondage?",
+   "premises": [
+    "Remembrance is presented as the operative means.",
+    "The emphatic particle restricts efficacy to remembrance alone.",
+    "Liberation is described as release from the bondage of worldly existence."
+   ],
+   "inference": "Mere remembrance alone suffices to bring about liberation from worldly bondage.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, by mere remembrance alone one is liberated from the bondage of worldly existence."
+  }
+ ]
+}

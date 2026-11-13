@@ -3,19 +3,39 @@
  "verse": 18,
  "rows": [
   {
-   "lemma": "vasujihvā",
-   "morph": "f.nom.sg",
-   "grounds": "name of a power"
+   "lemma": "deva",
+   "morph": "compound=deva+deva",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "kālarātryā",
-   "morph": "f.ins.sg",
-   "grounds": "associated power"
+   "lemma": "deva",
+   "morph": "compound=deva+deva",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "rudraḍākinyalaṅkṛtā",
+   "lemma": "prāṇa",
+   "morph": "compound=prāṇa+mayī",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "mayī",
    "morph": "f.nom.sg",
-   "grounds": "compound describing adornment"
+   "grounds": "describes the goddess"
+  },
+  {
+   "lemma": "sarva",
+   "morph": "compound=sarva+deva",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "deva",
+   "morph": "compound=sarva+deva",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "svarūpiṇī",
+   "morph": "compound=sva+rūpiṇī, f.nom.sg",
+   "grounds": "describes the goddess"
   }
  ]
 }

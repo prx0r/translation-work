@@ -3,19 +3,34 @@
  "verse": 33,
  "rows": [
   {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "lemma": "abhedañ",
+   "morph": "n.acc.sg",
+   "grounds": "identity, absence of distinction"
   },
   {
-   "lemma": "cintā",
-   "morph": "f.nom.sg",
-   "grounds": "reflection or worry"
+   "lemma": "+",
+   "morph": "(sandhi)",
+   "grounds": "sandhi connector"
   },
   {
-   "lemma": "yaḥ",
+   "lemma": "cintayed",
+   "morph": "3.sg.active-optative (√cint)",
+   "grounds": "conceives, realizes"
+  },
+  {
+   "lemma": "+",
+   "morph": "(sandhi)",
+   "grounds": "sandhi connector"
+  },
+  {
+   "lemma": "yas",
    "morph": "m.nom.sg",
    "grounds": "relative pronoun"
+  },
+  {
+   "lemma": "+",
+   "morph": "(sandhi)",
+   "grounds": "sandhi connector"
   },
   {
    "lemma": "tu",
@@ -23,24 +38,34 @@
    "grounds": "emphatic particle"
   },
   {
-   "lemma": "vijñeyā",
-   "morph": "f.nom.sg",
-   "grounds": "to be understood"
-  },
-  {
-   "lemma": "jñātavya",
-   "morph": "compound-member",
-   "grounds": "to be known"
-  },
-  {
-   "lemma": "kāla",
-   "morph": "compound-member",
-   "grounds": "time or occasion"
-  },
-  {
-   "lemma": "śāsanaḥ",
+   "lemma": "sa",
    "morph": "m.nom.sg",
-   "grounds": "governor or regulator"
+   "grounds": "demonstrative pronoun"
+  },
+  {
+   "lemma": "yogī",
+   "morph": "m.nom.sg",
+   "grounds": "accomplished practitioner"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "+",
+   "morph": "(sandhi)",
+   "grounds": "sandhi connector"
+  },
+  {
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "in this matter"
+  },
+  {
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "uncertainty"
   }
  ]
 }

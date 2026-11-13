@@ -3,24 +3,39 @@
  "verse": 20,
  "rows": [
   {
-   "lemma": "śrīṃ",
+   "lemma": "asyāḥ",
+   "morph": "f.gen.sg",
+   "grounds": "refers to the teaching or goddess"
+  },
+  {
+   "lemma": "śravaṇa",
+   "morph": "compound=śravaṇa+mātra",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "mātreṇa",
+   "morph": "n.ins.sg",
+   "grounds": "instrument indicating sufficiency"
+  },
+  {
+   "lemma": "jīvat",
+   "morph": "compound=jīvat+mukta",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "muktaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "resulting state"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "bīja syllable, transliterated"
+   "grounds": "connective"
   },
   {
-   "lemma": "krodhīśaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "deity or power named"
-  },
-  {
-   "lemma": "kṣatajārūḍhaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound describing seat"
-  },
-  {
-   "lemma": "dhūmrabhairavyalaṅkṛtam",
-   "morph": "m.acc.sg",
-   "grounds": "compound describing adornment"
+   "lemma": "sādhakaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject who attains liberation"
   }
  ]
 }

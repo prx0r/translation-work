@@ -3,29 +3,34 @@
  "verse": 12,
  "rows": [
   {
-   "lemma": "yeṣāṃ",
-   "morph": "m.gen.pl",
-   "grounds": "relative pronoun referring to letters"
+   "lemma": "mantra",
+   "morph": "compound=mantra+artha",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "jñānaṃ",
+   "lemma": "arthaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of knowing"
+  },
+  {
+   "lemma": "mantra",
+   "morph": "compound=mantra+caitanya",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "caitanyaṃ",
    "morph": "n.acc.sg",
-   "grounds": "required understanding"
+   "grounds": "object of knowing"
   },
   {
-   "lemma": "vinā",
-   "morph": "(indecl.)",
-   "grounds": "absence condition"
+   "lemma": "yoni",
+   "morph": "compound=yoni+mudrā",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "vāme",
-   "morph": "f.voc.sg",
-   "grounds": "vocative address to Devī"
-  },
-  {
-   "lemma": "siddhir",
-   "morph": "f.nom.sg",
-   "grounds": "spiritual accomplishment"
+   "lemma": "mudrāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "object of knowing"
   },
   {
    "lemma": "na",
@@ -33,14 +38,14 @@
    "grounds": "negation"
   },
   {
-   "lemma": "syād",
-   "morph": "3.sg.act.opt-√as",
-   "grounds": "potential result"
+   "lemma": "vetti",
+   "morph": "3.sg.act-present √vid",
+   "grounds": "predicate verb"
   },
   {
-   "lemma": "gurustani",
-   "morph": "f.voc.sg",
-   "grounds": "vocative epithet of Devī"
+   "lemma": "yaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "relative pronoun subject"
   }
  ]
 }
