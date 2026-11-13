@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p95-v2351
-[wise](dhīra) [man](nara) [very](utyaṃta) [soft](mṛdu) [answer](uttaraḥ) [if](ced) [uttarāphalgunī](uttarāphalgunikā) [birth](prasūtau)
+[wise-one](dhīraḥ) [ascends](anaroti) [end](aṃta) [soft+later](mṛdūttaraḥ) [if](syāt) [if](cet) [uttarāphalgunī+born-in](uttarāphalgunikāprasūtau)
 
 ## mukta-m0-p95-v2352
-[birth-time](prasutikāle) [if](yadi) [whose](yasya) [hand](hasto) [hand-born](hastodgatā) [his](tasya) [all-wealth](samastasaṃpat)
+[at-birth+time](prasutikāle) [if](yadi) [of-whom](yasya) [hasta-nakṣatra](hastaḥ) [hasta+arisen](hastodgatā) [of-him](tasya) [all+prosperity](samastasaṃpat)
 
 ## mukta-m0-p95-v2353
-[birth-time](prasutikāle) [if](yadi) [whose](yasya) [citrā](citrā) [intellect](buddhiḥ) [various](vicitrā) [indeed](khalu) [his](tasya) [in-scriptures](śāstre)
+[at-birth+time](prasutikāle) [if](yadi) [of-whom](yasya) [citrā-nakṣatra](citrā) [intellect](buddhiḥ) [varied](vicitrā) [indeed](khalu) [of-him](tasya) [in-scripture](śāstre)
 
 ## mukta-m0-p95-v2354
-[svātī-born](svātīprasūtau) [man's](manujasya) [whose](yasya) [king](nṛpaḥ) [obtained](prāpta) [glory](vibhūti) [endowed](yuktaḥ)
+[svātī+born](svātīprasūtau) [of-man](manujasya) [of-whom](yasya) [may-be](bhavet) [king](nṛpaḥ) [obtained+fortune](prāptavibhūti) [endowed-with](yuktaḥ)
 
 ## mukta-m0-p95-v2355
-[whose](yasya) [birth](prasūtau) [and](ca) [viśākhā](viśākhā) [friend](sakhā) [nakṣatra](nakṣatra) [too](api) [man](manuṣyaḥ)
+[of-whom](yasya) [at-birth](prasūtau) [and](ca) [may-be](bhavet) [viśākhā-nakṣatra](viśākhā) [friend](sakhā) [of-not-eating](anakasyāpi) [may-be](bhavet) [man](manuṣyaḥ)
 
 ## mukta-m0-p95-v2356
-[if](syāt) [birth](saṃbhave) [whose](yasya) [kilānurādhā](kilānurādhā) [wealth](saṃpat) [obstruction](vibādhā) [various](vividhā) [and](ca) [his](tasya)
+[may-be](syāt) [at-birth](saṃbhave) [of-whom](yasya) [indeed](kila) [anurādhā-nakṣatra](anurādhā) [prosperity](saṃpat) [obstruction](vibādhā) [manifold](vividhā) [and](ca) [of-him](tasya)
 
 ## mukta-m0-p95-v2357
-[best](śreṣṭha) [establishment](pratiṣṭha) [eloquent](vadatāṃ) [most-excellent](variṣṭho) [eldest-born](jyeṣṭhodbhavaḥ) [man](puruṣo) [especially](viśeṣāt)
+[best](śreṣṭha) [established](pratiṣṭhaḥ) [of-speakers](vadatāṃ) [most-excellent](variṣṭhaḥ) [jyeṣṭhā-born](jyeṣṭhodbhavaḥ) [may-be](syāt) [man](puruṣaḥ) [especially](viśeṣāt)
 
 ## mukta-m0-p95-v2358
-[if](ced) [otherwise](anyathā) [that](tat) [does](kurute) [especially](viśeṣāt) [fortune](saubhāgya) [mother's](mātu) [and](yu) [family-growth](kulābhivṛddhim)
+[if](cet) [otherwise](anyathā) [that](tat) [does](kurute) [especially](viśeṣāt) [good-fortune](saubhāgyam) [long-life](ātu(yuḥ)) [and](ca) [family+increase](kulābhivṛddhim)
 
 ## mukta-m0-p95-v2359
-[there](tatra) [born-child](utpannaśiśuḥ) [face](mukham) [eight-years](aṣṭavarṣāṇi) [seen](nālokyaṃ) [by-him](tena) [auspicious](śubham) [desiring](icchatā)
+[there](tatra) [born+child's](utpannaśiśoḥ) [face](mukham) [eight+years](aṣṭavarṣāṇi) [not-to-be-seen](nālokyaṃ) [that](tat) [by-him](tena) [welfare+desiring](śubhamicchatā)
 
 ## mukta-m0-p95-v2360
-[with-gems](ratnaiḥ) [hundred-herbs-roots](śatauṣadhīmūlaiḥ) [seven-clays](saptamṛdbhiḥ) [fill](prapūrayet)
+[with-gems](ratnaiḥ) [with-hundred+herbs+roots](śatauṣadhīmūlaiḥ) [with-seven+clays](saptamṛdbhiḥ) [should-fill](prapūrayet)
 
 ## mukta-m0-p95-v2361
-[child](bālakaṃ) [or](vā) [father-bathing](pitṛsnāne) [by-brahmins](vipraiḥ) [performed](saṃpādite) [when](sati)
+[child's](bālakāṃ') [or](vā) [father's+bath](pitṛsnāne) [by-priests](vipraiḥ) [accomplished](saṃpādite) [being](sati)
 
 ## mukta-m0-p95-v2362
-[contrary-limbs](viruddhāvayave) [root](mūle) [rite](vidhiḥ) [thus](evaṃ) [remembered](smṛto) [by-wise](budhaiḥ)
+[in-adverse+limb](viruddhāvayave) [in-mūla-nakṣatra](mūle) [rite](vidhiḥ) [thus](evaṃ) [remembered](smṛtaḥ) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p95-v2363
-[fourth-foot](caturthapādaḥ) [auspicious](śubhado) [very](nitāṃtaṃ) [in-serpent](sārpe) [reverse](vilomaṃ) [to-be-considered](parikalpanīyam)
+[fourth+quarter](caturthapādaḥ) [auspicious](śubhadaḥ) [exceedingly](nitāṃtaṃ) [in-āśleṣā](sārpe) [reverse](vilomaṃ) [to-be-considered](parikalpanīyam)
 
 ## mukta-m0-p95-v2364
-[if](ced) [birth-time](janmakāle) [kilatatramūlam](kilatatramūlam) [uprooting](unmūlanaṃ) [that](tat) [does](kurute) [family's](kulasya)
+[if](cet) [at-birth+time](janmakāle) [indeed](kila) [that](tatra) [mūla-nakṣatra](mūlam) [uprooting](unmūlanaṃ) [that](tat) [does](kurute) [of-family](kulasya)
 
 ## mukta-m0-p95-v2365
-[cattle](paśūnāṃ) [friend-group](mitravargasya) [in-order](kramāt) [root](mūlam) [inauspicious](aniṣṭadam)
+[of-cattle](paśūnāṃ) [of-friend+group](mitravargasya) [in-order](kramāt) [mūla-nakṣatra](mūlam) [inauspicious](aniṣṭadam)
 
 ## mukta-m0-p95-v2366
-[elephants](gajāḥ) [and](ca) [arms-pair](bhujayoryugme) [hands](hastayoḥ) [heart-desired](hṛdayeṣṭakam)
+[elephants](gajāḥ) [and](ca) [on-arms+pair](bhujayoryugme) [on-hands](hastayoḥ) [on-heart](hṛdaye) [brick](iṣṭakam)
 
 ## mukta-m0-p95-v2367
-[placing](vinyasya) [man-form](puruṣākāre) [root's](mūlasya) [fruit](phalam) [predict](ādiśet)
+[having-placed](vinyasya) [in-human+form](puruṣākāre) [of-mūla-nakṣatra](mūlasya) [result](phalam) [should-declare](ādiśet)
 
 ## mukta-m0-p95-v2368
-[shoulders](skaṃdhayoḥ) [dhūrvahatva](dhūrvahatvaṃ) [and](ca) [arms-pair](bāhuyugme) [tva](tva) [action-doer](karmakṛt)
+[on-shoulders](skaṃdhayoḥ) [burden+bearing](dhūrvahatvaṃ) [and](ca) [on-arm+pair](bāhuyugme) [indeed](tu) [work+doer](karmakṛt)
 
 ## mukta-m0-p95-v2369
-[short-life](alpāyuḥ) [navel](nābhi) [region](deśe) [and](ca) [secret](guhye) [ca](ca) [happiness](sukham) [wonderful](adbhutam)
+[short+life](alpāyuḥ) [in-navel+region](nābhideśe) [and](ca) [in-private-part](guhye) [and](ca) [happiness](sukham) [wonderful](adbhutam)
 
 ## mukta-m0-p95-v2370
-[ghaṭī-fruit](ghaṭīphalaṃ) [kilaproktaṃ](kilaproktaṃ) [root's](mūlasya) [by-sages](munipuṃgavaiḥ)
+[ghaṭī+result](ghaṭīphalaṃ) [indeed](kila) [declared](proktaṃ) [of-mūla-nakṣatra](mūlasya) [by-sage+best](munipuṃgavaiḥ)
 
 ## mukta-m0-p95-v2371
-[father](pitā) [mother](mātā) [yama](yamaḥ) [time](kālo) [viśvedevā](viśvedevā) [maheśvara](maheśvaraḥ)
+[father](pitā) [mother](mātā) [yama](yamaḥ) [time](kālaḥ) [viśvedevās](viśvedevāḥ) [maheśvara](maheśvaraḥ)
 
 ## mukta-m0-p95-v2372
-[gandharva](gaṃdharvo) [yamadeva](yamadevaḥ) [ca](ca) [brahmā](brahmā) [viṣṇu](viṣṇuḥ) [yama](yamaḥ) [and](tathā)
+[gandharva](gaṃdharvaḥ) [yama+god](yamadevaḥ) [and](ca) [brahmā](brahmā) [viṣṇu](viṣṇuḥ) [yama](yamaḥ) [likewise](tathā)
 
 ## mukta-m0-p95-v2373
-[ṣaṇmukha](ṣaṇmukho) [bhṛṃgirīṭi](bhṛṃgirīṭiḥ) [ca](ca) [gaurī](gaurī) [named](nāmnā) [sarasvatī](sarasvatī)
+[six-faced](ṣaṇmukhaḥ) [bhṛṅgirīṭi](bhṛṃgirīṭiḥ) [and](ca) [gaurī](gaurī) [by-name](nāmnā) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p95-v2374
-[reverse](viparītāḥ) [again](punar) [known](jñeyā) [āśleṣā-born-child](āśleṣājātabālake)
+[reversed](viparītāḥ) [again](punaḥ) [to-be-known](jñeyāḥ) [in-āśleṣā+born+child](āśleṣājātabālake)
 
 ## mukta-m0-p95-v2375
-[twenty-third](trayoviṃśe) [and](ca) [ninth](navame) [family-destruction](kulakṣayakaraḥ) [child](śiśuḥ)
+[in-twenty-third](trayoviṃśe) [and](ca) [in-ninth](navame) [family+destruction+causing](kulakṣayakaraḥ) [child](śiśuḥ)
