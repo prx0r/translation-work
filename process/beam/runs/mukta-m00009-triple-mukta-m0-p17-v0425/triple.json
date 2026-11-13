@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "dharmirūpam",
+     "gloss": "attribute-holder-nature",
+     "grounds": "compound dharmin+rūpa; predicate describing ultimate reality",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic particle restricting the predicate",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramārthaṃ",
+     "gloss": "ultimate-reality",
+     "grounds": "subject term identified in the statement",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the contrasted predicate",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle introducing the negated alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmarūpam",
+     "gloss": "attribute-nature",
+     "grounds": "compound dharma+rūpa; negated predicate",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "this-is-the-meaning",
+     "grounds": "compound iti+arthaḥ; concluding gloss on the preceding discussion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is ultimate reality constituted by the attribute-holder's nature or by the attribute's nature?",
+   "premises": [
+    "Ultimate reality is identified as having the nature of the attribute-holder.",
+    "Ultimate reality is explicitly denied to have the nature of the attribute.",
+    "The statement presents the intended meaning of the preceding account."
+   ],
+   "inference": "Therefore ultimate reality is the attribute-holder's nature alone, not the attribute's nature.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that the ultimate reality is of the nature of the attribute-holder alone, and not of the nature of the attribute."
+  }
+ ]
+}

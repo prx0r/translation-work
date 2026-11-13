@@ -251,12 +251,27 @@ def main() -> int:
     disp = {}
     if args.disp:
         disp = json.loads(Path(args.disp).read_text()).get(song, {})
+
+    def _clean_span(toks: list[str]) -> list[str]:
+        # Dandas glued to words (oṃ…||, …||2||) are punctuation, not text:
+        # strip pipes, then drop only tokens that are PURE apparatus.
+        # A whole-token is_paratext drop would empty verses whose only "fault"
+        # is a glued danda (mātṛkātantra v2/v3 read 0.000). Deleting data is
+        # never the fix; cleaning the comparison is.
+        out = []
+        for t in toks:
+            s = t.replace("|", "").replace("‖", "")
+            if not s.strip():
+                continue
+            if _para is not None and _para(s):
+                continue
+            out.append(s)
+        return out
+
     align = {}; sub090 = {}
     for v in sorted(src):
         a = "".join(t1.get(v, []))
-        _sv = src[v]
-        if _para is not None:
-            _sv = [t for t in _sv if not _para(t)]
+        _sv = _clean_span(src[v])
         b = "".join(_sv)
         r = difflib.SequenceMatcher(None, deparen(a), deparen(b)).ratio()
         align[str(v)] = round(r, 3)
@@ -318,7 +333,8 @@ def main() -> int:
         if l2path.exists():
             for o in json.loads(l2path.read_text(encoding="utf-8")):
                 cites += [p.strip() for p in str(o.get("sanskrit_cite", "")).split("|") if p.strip()]
-        src_flat = deparen(norm_ws(" ".join(" ".join(t) for v, t in sorted(src.items()))))
+        _flat_toks = [tok for v, t in sorted(src.items()) for tok in _clean_span(t)]
+        src_flat = deparen(norm_ws(" ".join(_flat_toks)))
         fails = [c for c in cites if deparen(norm_ws(c)) not in src_flat]
         real_fails = [c[:80] for c in fails]
         verses_text = {}

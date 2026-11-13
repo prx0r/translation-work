@@ -15,6 +15,7 @@ Usage:
 """
 from __future__ import annotations
 import argparse
+import re
 import hashlib
 import json
 import os
@@ -73,6 +74,26 @@ in-situ functional glosses and records uncertain terms in L0 grounds.)
 """
 
 
+def clean_mukta_verse(v: str) -> str:
+    """Strip editorial apparatus from Muktabodha verse strings (2026-11-13).
+    Removes ONLY standalone apparatus tokens: danda separators (`|`/`||`),
+    chapter numbers (`||2||`, bare `2`), page refs (`12a)`, `10b)`, `p.`).
+    Never alters word content: `oṃnamomātṛkāyai||` -> `oṃnamomātṛkāyai`.
+    Ritual colophons and mantras are kept byte-exact."""
+    t = re.sub(r"\|\|", " | ", v)
+    toks = t.split()
+    out = []
+    for w in toks:
+        if re.fullmatch(r"\|+", w):
+            continue
+        if re.fullmatch(r"\d+[a-z]?\)?", w):
+            continue
+        if w in ("p.",):
+            continue
+        out.append(w)
+    return re.sub(r"\s+", " ", " ".join(out)).strip()
+
+
 def norm(s: str) -> str:
     import unicodedata
     s = "".join(c for c in unicodedata.normalize("NFKD", s or "")
@@ -96,6 +117,9 @@ def onboard(cat: str, title: str, verses: list, trads: str, who: str) -> Path:
         raise RuntimeError(f"brief_gate: {_why} — write a researched brief first")
     from intake import validate_segments
     from harvest_to_factory import extract_verses
+    verses = [v for v in (clean_mukta_verse(v) for v in verses) if v]
+    if not verses:
+        raise ValueError(f"{cat}: no verses after apparatus cleaning")
     src = next(MUKTA.glob(f"*{cat}-IAST.txt"), None)
     if src is None:
         raise FileNotFoundError(f"no muktabodha file for {cat}")

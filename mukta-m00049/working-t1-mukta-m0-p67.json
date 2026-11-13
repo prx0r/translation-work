@@ -19,7 +19,7 @@
 "quick_gloss": "or"
 },
 {
-"surface": "cakra+madhya+gataṃ",
+"surface": "cakramadhyagataṃ",
 "quick_gloss": "circle+middle+gone"
 },
 {
@@ -36,7 +36,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bibhītāḥ",
+"surface": "bibhītās",
 "quick_gloss": "frightened"
 },
 {
@@ -52,8 +52,8 @@
 "quick_gloss": "of-heroes"
 },
 {
-"surface": "brahma+tejasā",
-"quick_gloss": "brahman+splendor"
+"surface": "brahmatejasā",
+"quick_gloss": "by-brahman+splendor"
 }
 ]
 },
@@ -69,16 +69,12 @@
 "quick_gloss": "this"
 },
 {
-"surface": "iti",
+"surface": "tu",
 "quick_gloss": "thus"
 },
 {
-"surface": "ādi",
-"quick_gloss": "etcetera"
-},
-{
-"surface": "|| 176",
-"quick_gloss": "176"
+"surface": "ityādi",
+"quick_gloss": "and-so-forth"
 }
 ]
 },
@@ -96,10 +92,6 @@
 {
 "surface": "vivāham",
 "quick_gloss": "wedding"
-},
-{
-"surface": "|| 178",
-"quick_gloss": "178"
 }
 ]
 },
@@ -115,7 +107,7 @@
 "quick_gloss": "here"
 },
 {
-"surface": "bhairavī+cakre",
+"surface": "bhairavīcakre",
 "quick_gloss": "in-bhairavī+circle"
 }
 ]
@@ -136,7 +128,7 @@
 "quick_gloss": "here"
 },
 {
-"surface": "bhairavī+cakraṃ",
+"surface": "bhairavīcakraṃ",
 "quick_gloss": "bhairavī+circle"
 },
 {
@@ -161,7 +153,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+indra+amara+gaṇāḥ",
+"surface": "sendrāmaragaṇāḥ",
 "quick_gloss": "with-indra+immortal+hosts"
 },
 {
@@ -206,8 +198,12 @@
 "quick_gloss": "your"
 },
 {
-"surface": "naivedyam+uttamam",
-"quick_gloss": "offering+supreme"
+"surface": "naivedyam",
+"quick_gloss": "food-offering"
+},
+{
+"surface": "uttamam",
+"quick_gloss": "supreme"
 }
 ]
 },
@@ -227,12 +223,16 @@
 "quick_gloss": "cooked"
 },
 {
-"surface": "yadā+ānītaṃ",
-"quick_gloss": "when+brought"
+"surface": "yadā",
+"quick_gloss": "when"
 },
 {
-"surface": "vīra+hasta+arpitaṃ",
-"quick_gloss": "hero+hand+offered"
+"surface": "ānītaṃ",
+"quick_gloss": "brought"
+},
+{
+"surface": "vīrahastārpitaṃ",
+"quick_gloss": "by-hero+hand+offered"
 },
 {
 "surface": "śuci",
@@ -252,12 +252,12 @@
 "quick_gloss": "are-liberated"
 },
 {
-"surface": "paśu+pāśebhyaḥ",
+"surface": "paśupāśebhyaḥ",
 "quick_gloss": "from-animal+bonds"
 },
 {
-"surface": "kali+kalmaṣa+dūṣitāḥ",
-"quick_gloss": "by-kali+sin+tainted"
+"surface": "kalikalmaṣadūṣitāḥ",
+"quick_gloss": "by-kali+impurity+tainted"
 }
 ]
 },
@@ -285,7 +285,7 @@
 "quick_gloss": "should-accomplish"
 },
 {
-"surface": "kula+sādhanam",
+"surface": "kulasādhanam",
 "quick_gloss": "kula+practice"
 }
 ]
@@ -302,11 +302,11 @@
 "quick_gloss": "spitting"
 },
 {
-"surface": "adhaḥ+vāyuṃ",
-"quick_gloss": "downward+wind"
+"surface": "adhovāyuṃ",
+"quick_gloss": "lower+wind"
 },
 {
-"surface": "varṇa+bhedaṃ",
+"surface": "varṇabhedaṃ",
 "quick_gloss": "caste+distinction"
 },
 {
@@ -327,12 +327,16 @@
 "quick_gloss": "revilers"
 },
 {
-"surface": "kula+śāstrāṇāṃ",
+"surface": "kulaśāstrāṇāṃ",
 "quick_gloss": "of-kula+scriptures"
 },
 {
-"surface": "cakrāt+dūra+taraṃ",
-"quick_gloss": "from-circle+farther"
+"surface": "cakrāt",
+"quick_gloss": "from-circle"
+},
+{
+"surface": "dūrataraṃ",
+"quick_gloss": "far-away"
 },
 {
 "surface": "tyajet",
@@ -348,7 +352,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula+dharmāt",
+"surface": "kuladharmāt",
 "quick_gloss": "from-kula+dharma"
 },
 {
@@ -369,7 +373,7 @@
 },
 {
 "surface": "vrajet",
-"quick_gloss": "goes"
+"quick_gloss": "would-go"
 }
 ]
 },
@@ -385,7 +389,7 @@
 "quick_gloss": "fear"
 },
 {
-"surface": "sa+bhayaṃ",
+"surface": "sabhayaṃ",
 "quick_gloss": "with-fear"
 }
 ]
@@ -402,12 +406,8 @@
 "quick_gloss": "there"
 },
 {
-"surface": "cakra+sthāne",
+"surface": "cakrasthāne",
 "quick_gloss": "in-circle+place"
-},
-{
-"surface": "|| 185",
-"quick_gloss": "185"
 }
 ]
 },
@@ -419,7 +419,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kula+dharma+āśritāḥ",
+"surface": "kuladharmāśritāḥ",
 "quick_gloss": "kula+dharma+resorting"
 },
 {
@@ -431,7 +431,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "pūjyāḥ",
+"surface": "pūjyās",
 "quick_gloss": "worshipable"
 },
 {
@@ -439,7 +439,7 @@
 "quick_gloss": "they"
 },
 {
-"surface": "deva+vat",
+"surface": "devavat",
 "quick_gloss": "like-god"
 },
 {
@@ -464,7 +464,7 @@
 "quick_gloss": "goes"
 },
 {
-"surface": "ghora+nirayam",
+"surface": "ghoranirayam",
 "quick_gloss": "to-terrible+hell"
 },
 {
@@ -472,7 +472,7 @@
 "quick_gloss": "even"
 },
 {
-"surface": "vedānta+pāragaḥ",
+"surface": "vedāntapāragaḥ",
 "quick_gloss": "vedānta+versed"
 }
 ]
@@ -485,16 +485,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sākṣāt+śiva+svarūpāṇāṃ",
+"surface": "sākṣācchivasvarūpāṇāṃ",
 "quick_gloss": "of-manifest+śiva+forms"
 },
 {
-"surface": "pāpa+śaṅkā",
+"surface": "pāpaśaṅkā",
 "quick_gloss": "sin+suspicion"
 },
 {
 "surface": "bhavet",
-"quick_gloss": "may-be"
+"quick_gloss": "should-be"
 },
 {
 "surface": "kutaḥ",
@@ -518,15 +518,15 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "śāmbhava+ācārān",
+"surface": "śāmbhavācārān",
 "quick_gloss": "śāmbhava+conducts"
 },
 {
 "surface": "careyuḥ",
-"quick_gloss": "should-practice"
+"quick_gloss": "they-should-practice"
 },
 {
-"surface": "śiva+śāsanāt",
+"surface": "śivaśāsanāt",
 "quick_gloss": "by-śiva+command"
 }
 ]
@@ -539,12 +539,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "loka+yātrā+prasiddhi+arthaṃ",
+"surface": "lokayātrāprasiddhyarthaṃ",
 "quick_gloss": "world+course+accomplishment+for-sake"
 },
 {
 "surface": "kuryuḥ",
-"quick_gloss": "should-do"
+"quick_gloss": "they-should-do"
 },
 {
 "surface": "karma",
@@ -568,7 +568,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cakra+madhye",
+"surface": "cakramadhye",
 "quick_gloss": "in-circle+middle"
 },
 {
@@ -577,7 +577,7 @@
 },
 {
 "surface": "japtvā",
-"quick_gloss": "having-recited"
+"quick_gloss": "having-muttered"
 },
 {
 "surface": "tat",
@@ -622,7 +622,7 @@
 },
 {
 "surface": "pāpaiḥ",
-"quick_gloss": "by-sins"
+"quick_gloss": "sins"
 },
 {
 "surface": "pramucyate",
@@ -639,7 +639,7 @@
 "tokens": [
 {
 "surface": "nityaṃ",
-"quick_gloss": "always"
+"quick_gloss": "constantly"
 },
 {
 "surface": "samācaran",
@@ -650,7 +650,7 @@
 "quick_gloss": "mortal"
 },
 {
-"surface": "brahma+nirvāṇam",
+"surface": "brahmanirvāṇam",
 "quick_gloss": "brahman+liberation"
 },
 {
@@ -668,15 +668,11 @@
 "tokens": [
 {
 "surface": "careyuḥ",
-"quick_gloss": "should-practice"
+"quick_gloss": "they-should-practice"
 },
 {
 "surface": "kuryuḥ",
-"quick_gloss": "should-do"
-},
-{
-"surface": "|| 196",
-"quick_gloss": "196"
+"quick_gloss": "they-should-do"
 }
 ]
 }
