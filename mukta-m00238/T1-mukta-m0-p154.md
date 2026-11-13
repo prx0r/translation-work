@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p154-v3826
-[kshatriya](kṣatriyaḥ) [curved-crest](vakraśikhaḥ) [joined-palms](baddhāṃjaliḥ) [right-armpit-downward-facing-sword](dakṣiṇakakṣe'dhomukhakhaḍgaḥ)
+[name](yenadināthaḥ) [kṣatriyaḥ](kṣatriyaḥ) [crooked-crest](vakraśikhaḥ) [bound-palms](baddhāṃjaliḥ) [right-armpit](dakṣiṇakakṣe) [downward-facing-sword](adhomukhakhaḍgaḥ)
 
 ## mukta-m0-p154-v3827
-[hunter](vyādhaḥ) [joined-palms](sāṃjalibandhaḥ) [left-bow-arrow](vāmedhanurbāṇau) [curved-crest](vakraśikhaḥ) [feet-pair](padoḥpādvau)
+[name](kanna) [name](ṣṇa) [name](ppaḥ) [hunter](vyādhaḥ) [with-folded-hands](sāṃjalibandhaḥ) [left-bow-arrow](vāmedhanurbāṇau) [crooked-crest](vakraśikhaḥ) [at-feet-footwear](padoḥpādvau)
 
 ## mukta-m0-p154-v3828
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibandhaḥ) [left-club](vāmegadā)
+[name](kalānāthaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibandhaḥ) [left-mace](vāmegadā)
 
 ## mukta-m0-p154-v3829
-[kshatriya](kṣatriyaḥ) [joined-palms](sāṃjalibandhaḥ)
+[name](mānakuṃjaḥ) [kṣatriya](kṣatriyaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3830
-[cowherd](gopaḥ) [flute-player-like](viṇuvādakanibhaḥ)
+[name](gonāthaḥ) [cowherd](gopaḥ) [flute-player-like](viṇuvādakanibhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3831
-[shudra](śūdraḥ) [right-hand-knife](dskṣakare kṣurikā)
+[name](śaṃkulādāyaḥ) [śūdra](śūdraḥ) [right-hand](dskṣakare) [razor](kṣurikā)
 
 ## mukta-m0-p154-v3832
-[vaishya](vaiśyaḥ) [joined-palms](sāṃjalibandhaḥ)
+[name](mūrtināthaḥ) [vaiśya](vaiśyaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3833
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibandhaḥ)
+[name](rudrapaśupatiḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3834
-[brahmin](brāhmaṇaḥ) [flower-garland-in-both-hands](dvayoḥkarayoḥ puṣpamālā)
+[name](skaṃdanāthaḥ) [brāhmaṇa](brāhmaṇaḥ) [in-two-hands](dvayoḥkarayoḥ) [flower-garland](puṣpamālā)
 
 ## mukta-m0-p154-v3835
-[fifth-caste](paṃcamaḥ) [joined-palms](sāṃjalibandhaḥ)
+[name](naṃdanaḥ) [fifth-class](paṃcamaḥ) [with-folded-hands](sāṃjalibandhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3836
-[kshatriya](kṣatriyaḥ) [joined-palms](sāṃjalibandhaḥ) [both-armpits-washed-cloth-seat-rosary-knots](dvayoḥ kakṣayoḥ dhautavastrāsanajapamālādigranthiḥ)
+[name](vicāravān) [kṣatriya](kṣatriyaḥ) [with-folded-hands](sāṃjalibandhaḥ) [in-both-armpits](dvayoḥ) [in-both-armpits](kakṣayoḥ) [washed-cloth-seat-rosary-etc-bundle](dhautavastrāsanajapamālādigranthiḥ)
 
 ## mukta-m0-p154-v3837
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibandhaḥ) [crowned](kirīṭī) [right-armpit-axe](dakṣiṇakakṣe paraśuḥ)
+[name](caṃḍeśvaraḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibandhaḥ) [wearing-crown](kirīṭī) [right-armpit](dakṣiṇakakṣe) [axe](paraśuḥ)
 
 ## mukta-m0-p154-v3838
-[shudra](śūdraḥ) [joined-palms](sāṃjalibaṃdhaḥ) [left-cloth-knot](vāme vastragranthiḥ)
+[name](kulapakṣakaḥ) [śūdra](śūdraḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [left](vāme) [cloth-bundle](vastragranthiḥ)
 
 ## mukta-m0-p154-v3839
-[vaishya-girl](vaiśyakanyā) [joined-palms](sāṃjalibaṃdhā)
+[name](pūtavatī) [vaiśya-maiden](vaiśyakanyā) [with-folded-hands](sāṃjalibaṃdhā) [standing](sthitā)
 
 ## mukta-m0-p154-v3840
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibaṃdhaḥ)
+[name](vidyāśūraḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3841
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibaṃdhaḥ)
+[name](abhūticaraḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3842
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibaṃdhaḥ)
+[name](navanaṃdaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3843
-[fifth-caste](paṃcamaḥ) [crowned](kirīṭī) [joined-palms](sāṃjalibaṃdhaḥ) [left-sword](vāmekhaḍgaḥ)
+[name](kalikāmaḥ) [fifth-class](paṃcamaḥ) [wearing-crown](kirīṭī) [with-folded-hands](sāṃjalibaṃdhaḥ) [left-sword](vāmekhaḍgaḥ)
 
 ## mukta-m0-p154-v3844
-[buruda](buruḍaḥ) [ear-to-head-covered-special-cloth-etc](vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ) [left-armpit-flute](vāmakakṣe vāśikā) [joined-palms](sāṃjalibaṃdhaḥ)
+[name](dabrabhaktaḥ) [buruḍa](buruḍaḥ) [with-cloth-blanket-etc-made-object-covered-up-to-ear-head](vastrakambalādinirmitavastuviśeṣeṇāvṛtakarṇāntamastakaḥ) [left-armpit](vāmakakṣe) [bag](vāśikā) [with-folded-hands](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p154-v3845
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibaṃdhaḥ) [matted-hair-crown](jaṭāmakuṭadhārī)
+[name](śrīmūlaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [matted-hair-crown-bearer](jaṭāmakuṭadhārī)
 
 ## mukta-m0-p154-v3846
-[shudra](śūdraḥ) [joined-palms](sāṃjalibaṃdhaḥ)
+[name](mārasukumāraḥ) [śūdra](śūdraḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3847
-[kshatriya](kṣatriyaḥ) [curved-crest](vakraśikhaḥ) [left-hand-stone-statue](vāmakare śilāputrakavān) [spread-feet-seated](prasṛtapadbhyāmupaviṣṭaḥ)
+[name](kaśyanāthaḥ) [kṣatriya](kṣatriyaḥ) [crooked-crest](vakraśikhaḥ) [left-hand](vāmakare) [having-stone-child](śilāputrakavān) [with-outstretched-feet-seated](prasṛtapadbhyāmupaviṣṭaḥ)
 
 ## mukta-m0-p154-v3848
-[hunter](vyādhaḥ) [right-hand-short-wood-cutter-sword-like-weapon](dakṣakare hrasvaṃ kāṣṭhādicchedakaṃ khaḍgasadṛśamāyudhaṃdadhānaḥ)
+[name](mukhanaṃdanaḥ) [hunter](vyādhaḥ) [right-hand](dakṣakare) [short-wood-etc-cutting-sword-like-weapon-holding](hrasvaṃ) [short-wood-etc-cutting-sword-like-weapon-holding](kāṣṭhādicchedakaṃ) [short-wood-etc-cutting-sword-like-weapon-holding](khaḍgasadṛśamāyudhaṃdadhānaḥ)
 
 ## mukta-m0-p154-v3849
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibaṃdhaḥ)
+[name](niruddhaśārdūlaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)
 
 ## mukta-m0-p154-v3850
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibaṃdhaḥ)
+[name](mataṃgaḥ) [brāhmaṇa](brāhmaṇaḥ) [with-folded-hands](sāṃjalibaṃdhaḥ) [standing](sthitaḥ)

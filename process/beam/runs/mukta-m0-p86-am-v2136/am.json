@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p86",
  "verse": 2136,
- "question": "How should the petal decorations be arranged around the implement?",
+ "question": "What sacred text should be written and with which auspicious materials?",
  "premises": [
-  "Petal elements are to be added to the design.",
-  "Their size is specified as one part.",
-  "Their placement is specified as all around."
+  "The divine armor is to be written",
+  "Self-born flowers are used",
+  "The flowers must be auspicious"
  ],
- "inference": "Therefore, one should fashion petals of one part all around.",
- "uncertainties": [],
- "plain_english": "One should fashion petals of one part all around."
+ "inference": "One should write the divine armor using auspicious self-born flowers",
+ "uncertainties": [
+  "Exact referent of svayambhu flowers is context-dependent"
+ ],
+ "plain_english": "Having written the divine armor with auspicious self-born flowers."
 }

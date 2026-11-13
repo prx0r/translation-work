@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p147-v3651
-[middle-finger](madhyamā) [ring-finger](anāmikā) [thumbs](aṃguṣṭhaiḥ) [in-order-and-reverse](anuloma-vilomataḥ)
+[middle-finger](madhyamā) [ring-finger](anāmikā) [thumbs](aṃguṣṭhaiḥ) [in-natural-order](anuloma) [and-reverse-order](vilomataḥ)
 
 ## mukta-m0-p147-v3652
-[crown](mūrddhā) [and](ca) [indeed](eva) [forehead](lalāṭaṃ) [and](ca) [ears](karṇau) [throat](kaṃṭhaḥ) [thus-indeed](tathā-eva) [and](ca)
+[head](mūrddhā) [and](ca) [indeed](eva) [forehead](lalāṭaṃ) [and](ca) [ears](karṇau) [throat](kaṃṭhaḥ) [likewise](tathā) [indeed](eva) [and](ca)
 
 ## mukta-m0-p147-v3653
-[five-fingers](paṃcāṃgulaiḥ) [place](nyaset) [upward](ūddhri) [by-om](praṇavena) [but](tu) [by-mantra](maṃtrataḥ)
+[with-five-fingers](paṃcāṃgulaiḥ) [one-should-place](nyaset) [on-head](mūddhri) [with-praṇava](praṇavena) [indeed](tu) [with-mantra](maṃtrataḥ)
 
 ## mukta-m0-p147-v3654
-[sadya](sadyena) [right-ear](dakṣiṇe-karṇe) [vāmadeva](vāmadevena) [left](vāmataḥ)
+[with-sadyojāta-mantra](sadyena) [on-right](dakṣiṇe) [ear](karṇe) [with-vāmadeva-mantra](vāmadevena) [on-left](vāmataḥ)
 
 ## mukta-m0-p147-v3655
-[heart](hṛdayaṃ) [in-heart](hṛdaye) [not-indeed](na-eva) [three-fingers](tribhiḥ-aṃgulibhiḥ) [touch](spṛśet)
+[heart](hṛdayaṃ) [on-heart](hṛdaye) [indeed](na) [with-three-fingers](tribhiḥ) [fingers](aṃgulibhiḥ) [one-should-touch](spṛśet)
 
 ## mukta-m0-p147-v3656
-[left-arm](vāma-bāhau) [place](nyaset) [wise](dhīmān) [armor](kavacena) [three-fingers](tri-aṃgulaiḥ)
+[on-left-arm](vāma) [arm](bāhau) [one-should-place](nyaset) [wise-one](dhīmān) [with-kavaca-mantra](kavacena) [with-three-fingers](tri) [fingers](yaṃgulaiḥ)
 
 ## mukta-m0-p147-v3657
-[occasional](naimittikeṣu) [ash](bhasitaṃ) [protection-works](rakṣā-kāryeṣu) [always](sarvadā)
+[in-occasional-rites](naimittikeṣu) [ashes](bhasitaṃ) [in-protection-acts](rakṣā) [acts](kāryeṣu) [always](sarvadā)
 
 ## mukta-m0-p147-v3658
-[alkali](kṣāraṃ) [and](ca) [liberation-works](mokṣa-kāryeṣu) [to-be-used](prayoktavyaṃ) [always-by-wise](sadā-budhaiḥ)
+[alkaline-ashes](kṣāraṃ) [and](ca) [in-liberation-acts](mokṣa) [acts](kāryeṣu) [to-be-used](prayoktavyaṃ) [always](sadā) [by-the-wise](budhaiḥ)
 
 ## mukta-m0-p147-v3659
-[rule](kalpaṃ) [and](ca) [indeed](eva) [sub-rule](anukalpaṃ) [and](ca) [also](api) [minor-rule](upakalpaṃ) [non-rule](akalpakaṃ)
+[primary-method](kalpaṃ) [and](ca) [indeed](eva) [secondary-method](anukalpaṃ) [and](ca) [also](api) [tertiary-method](upakalpam) [non-method](akalpakam)
 
 ## mukta-m0-p147-v3660
-[as-scripture](yathā-śāstra) [prescribed](ukta) [rite](vidhinā) [taking](gṛhītvā) [cow-dung](gomayaṃ) [fresh](navam)
+[as-taught-in-scripture](yathā) [scripture-taught](śāstra) [stated](ukta) [by-method](vidhinā) [having-taken](gṛhītvā) [cow-dung](go) [dung](mayaṃ) [fresh](navam)
 
 ## mukta-m0-p147-v3661
-[dry](śoṣayet) [by-man](puruṣeṇa-eva) [burn](dahet) [fierce](ghorāt) [shiva-fire](śivāgninā)
+[one-should-dry](śoṣayet) [with-puruṣa-mantra](puruṣeṇa) [indeed](eva) [one-should-burn](dahet) [with-ghora-mantra](ghorāt) [with-śiva-fire](śiva) [fire](agninā)
 
 ## mukta-m0-p147-v3662
-[in-forest](vaneṣu) [cow-dung](gomayaṃ) [and](ca) [dry](śuṣkaṃ) [powdered](cūrṇī-kṛtaṃ) [thus](tathā)
+[in-forests](vaneṣu) [cow-dung](go) [dung](mayaṃ) [which](yat) [and](ca) [dry](śuṣkaṃ) [powdered](cūrṇī) [made](kṛtaṃ) [likewise](tathā)
 
 ## mukta-m0-p147-v3663
-[cloth](vastreṇa) [filtered](uttaritaṃ) [ash](bhasma) [cow-urine](gomūtrāt) [bound-lump](baddha-piṃḍitam)
+[by-cloth](vastreṇa) [sifted](uttaritaṃ) [ashes](bhasma) [with-cow-urine](go) [urine](mūtrāt) [bound](baddha) [made-into-ball](piṃḍitam)
 
 ## mukta-m0-p147-v3664
-[place-time-suitable](deśa-kāla-ucitaṃ) [ash](bhasma) [taking](gṛhītvā) [impurity-free](aśuci-varjitam)
+[according-to-place-and-time](deśa) [time](kāla) [suitable](ucitaṃ) [ashes](bhasma) [having-taken](gṛhītvā) [impurity](aśuci) [devoid-of](varjitam)
 
 ## mukta-m0-p147-v3665
-[common](sādhāraṇam) [this](idaṃ) [ash](bhasma) [rule](kalpam) [honey](madhūnā) [hear](śṛṇu)
+[common](sādhāraṇam) [this](idam) [ashes](bhasma) [indeed](tu) [primary-method](akalpam) [now](adhūnā) [hear](śṛṇu)
 
 ## mukta-m0-p147-v3666
-[shruti-smriti-fire](śrauta-smārta-agni) [forest-fire](dāvāgni) [pure-fire](virajāgni) [shiva-fire](śivāgni-jam)
+[born-of-śrauta-fire](śrauta) [smārta-fire](smārta) [fire](agni) [forest-fire](dāva) [fire](agni) [pure-fire](viraja) [fire](agni) [śiva-fire](śiva) [fire](agni) [born](jam)
 
 ## mukta-m0-p147-v3667
-[vedic](vaidikaiḥ) [indeed](eva) [that](tat) [grasp](grāhyaṃ) [ash-fivefold](bhasma-paṃcavidhaṃ) [and](ca) [that](tat)
+[by-followers-of-veda](vaidikaiḥ) [indeed](eva) [that](tat) [to-be-taken](grāhyaṃ) [ashes](bhasma) [fivefold](paṃca) [kinds](vidhaṃ) [and](ca) [that](tat)
 
 ## mukta-m0-p147-v3668
-[sandal](caṃdanena) [both](ubhayaṃ) [do](kuryāt) [thus](iti) [manu](manuḥ) [said](abravīt)
+[with-sandalwood](caṃdanena) [both](ubhayaṃ) [one-should-do](kuryāt) [thus](iti) [that](tat) [Manu](manuḥ) [said](abravīt)
 
 ## mukta-m0-p147-v3669
-[half-moon](ardha-caṃdraṃ) [but](tu) [shudras](śūdrāṇām) [others](anyeṣām) [upward-mark](ūrdhva-puṃḍrakam)
+[half-moon](ardha) [moon](caṃdraṃ) [indeed](tu) [for-śūdras](śūdrāṇām) [for-others](anyeṣām) [vertical-mark](ūrdhva) [mark](puṃḍrakam)
 
 ## mukta-m0-p147-v3670
-[eye-pair-measure](netra-yugma-pramāṇaṃ) [but](tu) [three-lines](tripuṃḍraṃ) [wear](dhārayet) [twice-born](dvijaḥ)
+[eye-pair](netra) [pair](yugma) [measure](pramāṇaṃ) [indeed](tu) [three-lines](tri) [mark](puṃḍraṃ) [should-wear](dhārayet) [twice-born](dvijaḥ)
 
 ## mukta-m0-p147-v3671
-[that-three-lines](tat-tripuṃḍraṃ) [becomes](bhavet) [auspicious](śastaṃ) [great-sin-destroying](mahā-pātaka-nāśanam)
+[that](tat) [three-lines-mark](tri) [mark](puṃḍraṃ) [should-be](bhavet) [auspicious](śastaṃ) [great-sin](mahā) [sin](pātaka) [destroying](nāśanam)
 
 ## mukta-m0-p147-v3672
-[pure-indeed](śuciḥ-eva) [becomes](bhavet) [always](nityaṃ) [three-lines](tripuṃḍrasya) [and](ca) [wearing](dhāraṇāt)
+[pure](śuciḥ) [indeed](eva) [one-becomes](bhavet) [always](nityaṃ) [of-three-lines-mark](tri) [mark](puṃḍrasya) [and](ca) [by-wearing](dhāraṇāt)
 
 ## mukta-m0-p147-v3673
-[beta-la-rakshasas](betāla-rākṣasāḥ) [pretas](pretāḥ) [who](ye) [and](ca) [others](anye) [small-creatures](kṣudra-jaṃtavaḥ)
+[vetālas](betāla) [rākṣasas](rākṣasāḥ) [ghosts](pretāḥ) [which](ye) [and](ca) [others](anye) [small](kṣudra) [creatures](jaṃtavaḥ)
 
 ## mukta-m0-p147-v3674
-[saints-row](satāṃ-paṅti) [purifies](punāti) [indeed](eva) [all](sakalāṃ) [four-faced](caturānana)
+[of-the-good](satāṃ) [row](paṅti) [purifies](punāti) [indeed](eva) [whole](sakalāṃ) [and](ca) [O-four-faced-one](catur) [faced-one](ānana)
 
 ## mukta-m0-p147-v3675
-[places](sthāneṣu) [fifteen](paṃcadaśasu) [body](śarīre) [best-practitioner](sādhaka-uttamaḥ)
+[in-places](sthāneṣu) [fifteen](paṃcadaśasu) [on-body](śarīre) [best-practitioner](sādhaka) [best](uttamaḥ)
