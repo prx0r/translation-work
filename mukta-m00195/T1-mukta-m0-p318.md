@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p318-v7926
-[king](rājā)+[facing](abhimukhī) [subjugation](vaśya)+[faced](mukhī)+[thus](iti) [and](ca)
+[king+facing](rājābhimukhī) [subjugating+faced](vaśyamukhī) [thus](iti) [and](ca)
 
 ## mukta-m0-p318-v7927
-[goddess](devā)+[supreme](adhi)+[goddess](devi) [all](sarvā)+[thus](iti) [of-people](janasya) [face](mukham)+[one-should-utter](uccaret)
+[goddess+supreme-goddess](devādhidevi) [all](sarva) [thus](iti) [of-people](janasya) [face](mukham) [one-should-utter](uccaret)
 
 ## mukta-m0-p318-v7928
-[dik](dik)+[seven](sapta)+[kratu](kratu)+[vaide](vaide)+[iṣu](ṣu)+[maitra](maitra)+[syllables](arṇaiḥ)+[with](ā) [limb](aṅga)+[formation](kalpanam)
+[dik+seven+kratu+vaideṣu+maitra+syllables](diksaptakratuvaideṣumaitrārṇaiḥ) [limb+arrangement](aṅgakalpanam)
 
 ## mukta-m0-p318-v7929
-[one-should-know](jāniyāt)+[specially](viśeṣāt) [subjugation](vaśya)+[causing](kṛt)+[this-pair](tvayam)
+[one-should-know](jāniyāt) [specially](viśeṣāt) [subjugation+causing](vaśyakṛt) [this-pair](tvayam)
 
 ## mukta-m0-p318-v7930
-[nyāsa](nyāsa)+[worship](pūjā)+[and-so-forth](ādikam) [should-be](bhavet)
+[installation+worship+etc](nyāsapūjādikam) [should-be](bhavet)
 
 ## mukta-m0-p318-v7931
-[milk-rice](pāyasa)+[oblation](homaḥ)+[and](ca) [application](prayoga)+[and-so-forth](ādyam) [and](ca) [as-before](pūrvavat)
+[milk-rice+oblation](pāyasahomaḥ) [and](ca) [application+etc](prayogādyam) [and](ca) [as-before](pūrvavat)
 
 ## mukta-m0-p318-v7932
-[vāgbhava](vāgbhavaṃ) [heart](hṛdayaṃ) [and](ca)+[then](atha) [śrī](śrī)+[mātaṅgī](mātaṅgī)+[word](padam) [one-should-know](vedet)
+[speech-seed](vāgbhavaṃ) [heart](hṛdayam) [and](ca) [then](atha) [śrī+mātaṅgī+word](śrīmātaṅgīpadam) [one-should-know](vedet)
 
 ## mukta-m0-p318-v7933
 [truth](satyam) [speak](kathaya) [pair](yugmakam)
 
 ## mukta-m0-p318-v7934
-[with-vāgbhava](vāgbhavena)+[here](atra) [worship](pūjā)+[and-so-forth](ādyam) [and](ca) [done](kṛta)+[or-not-done](akṛtam)
+[with-speech-seed](vāgbhavena) [here](atra) [worship+etc](pūjādyam) [and](ca) [done+undone](kṛtākṛtam)
 
 ## mukta-m0-p318-v7935
-[should-tell](kathayet)+[goddess](devī) [of-questioner](pṛcchakasya) [auspicious](śubha)+[and-inauspicious](aśubham)
+[should-tell](kathayet) [goddess](devī) [of-questioner](pṛcchakasya) [auspicious+inauspicious](śubhāśubham)
 
 ## mukta-m0-p318-v7936
-[mantra](mantraḥ) [all](sarva)+[tasks](kārya)+[accomplishing](prasādhakaḥ)
+[mantra](mantraḥ) [all+task+accomplishing](sarvakāryaprasādhakaḥ)
 
 ## mukta-m0-p318-v7937
-[and](ca)+[its](asya) [deity](devatā) [declared](parikīrtitā)
+[and](ca) [of-this](asya) [deity](devatā) [proclaimed](parikīrtitā)
 
 ## mukta-m0-p318-v7938
-[with-doubled](dviruktaiḥ)+[and](ca) [of-six-limbs](ṣaḍaṅgasya) [procedure](vidhiḥ) [worship](pūjā)+[recitation](japa)+[and-so-forth](ādikam)
+[with-twice-uttered](dviruktaiḥ) [and](ca) [of-six-limbs](ṣaḍaṅgasya) [procedure](vidhiḥ) [worship+recitation+etc](pūjājapādikam)
 
 ## mukta-m0-p318-v7939
-[with-bandhūka](bandhūka)+[flowers](puṣpaiḥ)+[oblation](homaḥ) [should-be](syāt)+[with-white](sitayā) [milk-rice](pāyasena) [and](ca)
+[with-bandhūka+flowers](bandhūkapuṣpaiḥ) [oblation](homaḥ) [should-be](syāt) [with-white](sitayā) [with-milk-rice](pāyasena) [and](ca)
 
 ## mukta-m0-p318-v7940
-[all](samasta)+[mantra](mantra)+[giving](dāna)+[and-so-forth](ādau) [accomplished](siddhaḥ) [should-be](syāt)+[best](uttamaḥ)+[practitioner](sādhakaḥ)
+[in-all+mantra+giving+etc](samastamantradānādau) [accomplished](siddhaḥ) [should-be](syāt) [practitioner+best](sādhakottamaḥ)
 
 ## mukta-m0-p318-v7941
-[svāhā](svāhā)+[eight](aṣṭa)+[syllable](akṣaraḥ)+[this](ayam)+[declared](udīritaḥ)
+[svāhā+eight+syllable](svāhāṣṭākṣaraḥ) [this](ayam) [declared](udīritaḥ)
 
 ## mukta-m0-p318-v7942
-[and](ca)+[limb](aṅgam) [twice](dviḥ)+[repeated](āvṛtti)+[with-words](padaiḥ)+[should-be](bhavet)
+[and](ca) [limb](aṅgam) [with-twice-repeated+words](dvirāvṛttipadaiḥ) [should-be](bhavet)
 
 ## mukta-m0-p318-v7943
-[moon](candra)+[crested](avataṃsām) [with-various](vividhaiḥ)+[songs](gāyanaiḥ)+[world](viśva)+[enchanting](mohinīm)
+[moon+crested](candrāvataṃsām) [with-various](vividhaiḥ) [with-songs](gāyanaiḥ) [universe+enchanting](viśvamohinīm)
 
 ## mukta-m0-p318-v7944
-[to-be-worshipped](pūjyāḥ) [in-pericarp](keśareṣu)+[limb](aṅga)+[worship](pūjanam)
+[to-be-worshipped](pūjyāḥ) [in-pericarp](keśareṣu) [limb+worship](aṅgapūjanam)
 
 ## mukta-m0-p318-v7945
-[vajra](vajra)+[and-so-forth](ādyaiḥ)+[with](sa) [seven](sapta)+[enclosure](āvṛttiḥ)+[this](iyam) [considered](matā)
+[with-vajra+etc](vajrādyaiḥ) [seven+enclosure](saptāvṛttiḥ) [this](iyam) [considered](matā)
 
 ## mukta-m0-p318-v7946
-[madhūka](madhūka)+[born](jaiḥ)+[three-sweets](trimadhu)+[smeared](aktaiḥ) [all](sarvam) [one-should-enchant](sammohayet)+[world](jagat)
+[with-madhūka-born](madhūkajaiḥ) [with-three-sweets+smeared](trimadhvāktaiḥ) [all](sarvam) [one-should-enchant](sammohayet) [world](jagat)
 
 ## mukta-m0-p318-v7947
-[now](atha)+[ucchiṣṭā](ucchiṣṭām) [I-shall-declare](pravakṣyāmi) [mātaṅgī](mātaṅgīm) [cow](go)+[syllable](ja)+[colored](varṇikām)
+[now](atha) [ucchiṣṭā](ucchiṣṭām) [I-shall-declare](pravakṣyāmi) [mātaṅgī](mātaṅgīm) [cow+syllabled](gojavarṇikām)
 
 ## mukta-m0-p318-v7948
-[svāhā](svāhā) [mantra](mantraḥ)+[this](ayam) [may-enchant](mohayet)+[world](jagat)
+[svāhā](svāhā) [mantra](mantraḥ) [this](ayam) [should-enchant](mohayet) [world](jagat)
 
 ## mukta-m0-p318-v7949
-[mātaṅgī](māgaṅgī) [ucchiṣṭā](cocchiṣṭā) [cow](go)+[syllable](b)+[colored](ja)+[colored](varṇikā)
+[mātaṅgī](mātaṅgī) [ucchiṣṭā](ucchiṣṭā) [cow+syllabled](gobjavarṇikā)
 
 ## mukta-m0-p318-v7950
-[should-be](syuḥ)+[mantra](mantra)+[syllables](varṇaiḥ)+[then](tato) [one-should-place](dhāyet)+[in-heart](hṛd)+[lotus](ambuje)
+[should-be](syuḥ) [with-mantra+syllables](mantravarṇaiḥ) [then](tataḥ) [one-should-place](dhāyet) [in-heart+lotus](hṛdambuje)

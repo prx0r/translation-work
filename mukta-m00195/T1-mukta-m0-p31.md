@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p31-v751
-[black-yellow-red-white](śyāma-pīta-aruṇa-śvetaiḥ) [by-that](tad) [inner-stūpa](antaḥ-stūpa) [externally](bāhyataḥ)
+[with-black](śyāma) [yellow](pīta) [red](aruṇa) [white](śvetaiḥ) [its](tat) [teeth](antaḥ) [stūpa](stūpa) [outside](bāhyataḥ)
 
 ## mukta-m0-p31-v752
-[staff-sword-noose-goad-club](daṇḍa-khaḍga-pāśa-aṅkuśa-gadāḥ) [should-draw](likhet)
+[staff](daṇḍa) [sword](khaḍga) [noose](pāśa) [goad](aṅkuśa) [mace](gadā) [should-draw](likhet)
 
 ## mukta-m0-p31-v753
-[silent](maunī) [straight-bodied](ṛju-kāyaḥ) [conquered-senses](jita-indriyaḥ)
+[silent](maunī) [straight-bodied](ṛju+kāyaḥ) [sense-controlled](jita+indriyaḥ)
 
 ## mukta-m0-p31-v754
-[in-left-side](vāma-bhāge) [and](tu) [should-place](sthāpayet) [auspicious](śubham) [jar](kalaśam)
+[on-left-side](vāma+bhāge) [indeed](tu) [should-place](sthāpayet) [pitcher](kalaśaṃ) [auspicious](śubham)
 
 ## mukta-m0-p31-v755
-[having-placed](nidhāya) [then](atha) [lamps](dīpān) [should-kindle](prajvālayet) [auspicious](śubhān)
+[having-placed](nidhāya) [then](atha) [lamps](dīpān) [should-light](prajvālayet) [auspicious](śubhān)
 
 ## mukta-m0-p31-v756
-[should-prepare](saṃskuryāt) [them](tāni) [all](sarvāṇi) [by-stated](vakṣyamāṇa) [procedure](vidhānataḥ)
+[should-consecrate](saṃskuryāt) [them](tāni) [all](sarvāṇi) [according-to-method-to-be-stated](vakṣyamāṇa+vidhānataḥ)
 
 ## mukta-m0-p31-v757
-[by-śara-mantra](śara-mantreṇa) [directional-bond](dig-bandham) [should-make](kuryāt) [mantrin](mantrī) [collected-minded](samāhitaḥ)
+[with-śara-mantra](śara+mantreṇa) [direction-binding](dik+bandhaṃ) [should-perform](kuryāt) [priest](mantrī) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p31-v758
-[elemental-purification](bhūta-śuddhim) [then](tataḥ) [having-made](kṛtvā) [life-establishment](prāṇa-sthāpanam) [should-perform](ācaret)
+[element-purification](bhūta+śuddhim) [then](tataḥ) [having-done](kṛtvā) [vital-breath-installation](prāṇa+sthāpanam) [should-perform](ācaret)
 
 ## mukta-m0-p31-v759
-[on-head](mūrdhni) [chandas](chandaḥ) [in-mouth](vaktra-gatam) [should-place](nyaset)
+[on-head](mūrdhni) [meter](chandaḥ) [in-mouth](vaktra+gataṃ) [should-place](nyaset)
 
 ## mukta-m0-p31-v760
-[should-place](vinyaset) [mantrin](mantrī) [five-limbs](paṃca-aṅgam) [or](vā) [according-to-rule](yathā-vidhi)
+[should-assign](vinyaset) [priest](mantrī) [five-limbs](paṃca+aṅgaṃ) [or](vā) [according-to-rule](yathā+vidhi)
 
 ## mukta-m0-p31-v761
-[by-limbs](aṅgaiḥ) [deprived](vihīnasya) [of-mantra](manoḥ) [limb](aṅgam) [by-that](tena-eva) [should-form](kalpayet)
+[of-limbs](aṅgaiḥ) [devoid](vihīnasya) [of-mantra](manoḥ) [limb](aṅgaṃ) [by-that-alone](tena+eva) [should-conceive](kalpayet)
 
 ## mukta-m0-p31-v762
-[knowing-mantra](mantra-jñaḥ) [yoga-seat](yoga-pīṭham) [should-form](prakalpayet)
+[mantra-knower](mantra+jñaḥ) [yoga-seat](yoga+pīṭhaṃ) [should-visualize](prakalpayet)
 
 ## mukta-m0-p31-v763
-[then](tataḥ) [mudrās](mudrāḥ) [should-place](sthāpayed) [water-offering](arghyam) [supreme](uttamam)
+[then](tataḥ) [hand-gestures](mudrāḥ) [should-establish](sthāpayet) [arghya](arghyam) [excellent](uttamam)
 
 ## mukta-m0-p31-v764
-[there](tatra) [little-little](alpa-alpam) [conch-water](śaṅkha-ambu) [to-that-deity](tat-tad-devarataḥ) [should-place](nyaset)
+[there](tatra) [little-by-little](alpaṃ+alpaṃ) [conch-water](śaṅkha+ambu) [devoted-to-that-deity](tat+tat+deva+rataḥ) [should-place](nyaset)
 
 ## mukta-m0-p31-v765
-[mantrin](mantrī) [by-purificatory-water](prokṣaṇī-adbhiḥ) [collected-minded](samāhitaḥ)
+[priest](mantri) [with-sprinkling-waters](prokṣaṇī+adbhiḥ) [concentrated](samāhitaḥ)
 
 ## mukta-m0-p31-v766
-[should-sprinkle](prokṣayet) [fragrance-flower-etc](gandha-puṣpa-ādyaiḥ) [in-place](deśe) [own](sve) [best-of-teachers](deśika-uttamaḥ)
+[should-sprinkle](prokṣayet) [with-fragrance-flowers-etc.](gandha+puṣpa+ādyaiḥ) [in-place](deśe) [own](sve) [best-of-teachers](deśika+uttamaḥ)
 
 ## mukta-m0-p31-v767
-[then](tataḥ) [there](tatra) [should-worship](pūjayet) [chosen-deity](iṣṭa-devatām)
+[then](tataḥ) [there](tatra) [should-worship](pūjayet) [chosen-deity](iṣṭa+devatām)
 
 ## mukta-m0-p31-v768
-[thus](tathā) [on-support](adhāre) [on-foot](caraṇe) [on-all-limbs](sarva-gātrake)
+[likewise](tathā) [on-base](ādhāre) [on-foot](caraṇe) [on-all-limbs](sarva+gātrake)
 
 ## mukta-m0-p31-v769
-[by-all-offerings](sarva-upacāraiḥ) [that](tam) [worshipped](iṣṭam) [by-guru-ordained](gurva-ādiṣṭena) [path](vartmanā)
+[with-all-offerings](sarva+upacāraiḥ) [that-desired-one](tam+ceṣṭaṃ) [by-path-taught-by-guru](guru+ādiṣṭena) [by-method](vartmanā)
 
 ## mukta-m0-p31-v770
-[water](pānīyam) [for-sprinkling](prokṣaṇī-saṃstham) [having-rejected](tyaktvā) [having-sprinkled](saṃsicya) [as-before](pūrva-vat)
+[water](pānīyaṃ) [placed-in-sprinkling-vessel](prokṣaṇī+saṃsthaṃ) [having-discarded](tyaktvā) [having-sprinkled](saṃsicya) [as-before](pūrva+vat)
 
 ## mukta-m0-p31-v771
-[first](pūrvam) [by-rice-grains](śāli-bhiḥ) [by-unhusked-rice](taṇḍulaiḥ) [then](tataḥ)
+[first](pūrvaṃ) [with-rice-grains](śālibhiḥ) [with-husked-rice](taṇḍulaiḥ) [then](tataḥ)
 
 ## mukta-m0-p31-v772
-[cut-roots](chinna-mūlāḥ) [kuśa-grass](kuśāḥ) [long](dīrghāḥ) [twenty-seven](sapta-viṃśati) [numbered](saṅkhyakāḥ)
+[cut-roots](chinna+mūlāḥ) [kuśa-grasses](kuśāḥ) [long](dīrghāḥ) [twenty-seven-in-number](saptaviṃśati+saṅkhyakāḥ)
 
 ## mukta-m0-p31-v773
-[should-worship](yajet) [support-power-etc](ādhāra-śakti-ādi) [seat-mantra](pīṭha-mantra) [up-to-end](avasānakam)
+[should-worship](yajet) [ending-with-seat-mantras-beginning-with-ādhāra-śakti](ādhāra+śakti+ādi+pīṭha+mantra+avasānakam)
 
 ## mukta-m0-p31-v774
-[by-triple-thread](tri-guṇa-ātmaka-sūtreṇa) [wrapped](veṣṭitam) [all-around](sarvataḥ) [outside](bahiḥ)
+[with-thread-of-three-guṇas](triguṇa+ātmaka+sūtreṇa) [wrapped](veṣṭitaṃ) [on-all-sides](sarvataḥ) [outside](bahiḥ)
 
 ## mukta-m0-p31-v775
-[and-here](ca-atra) [should-place](sthāpayed) [best-of-teachers](deśika-uttamaḥ)
+[and](ca) [here](atra) [should-place](sthāpayet) [best-of-teachers](deśika+uttamaḥ)
