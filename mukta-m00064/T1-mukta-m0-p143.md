@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p143-v3551
-[on-thirteenth](trayodaśyāñ)[and](ca) [by-bathing](snānena) [śiva-world](śiva)[and](lokañ)[and](ca) [goes](gacchati)
+[on-the-thirteenth-day](trayodaśyām) [and](ca) [by-bathing](snānena) [to-Śiva's-world](śiva+lokam) [and](ca) [goes](gacchati)
 
 ## mukta-m0-p143-v3552
-[not](nāsti) [by-that](tena) [equal](samaṃ) [holy-place](tīrthaṃ) [of-yamunā](yamunāyā) [not](na) [doubt](saṃśayaḥ)
+[not](na) [exists](asti) [with-that](tena) [equal](samam) [sacred-place](tīrtham) [of-the-Yamunā](yamunāyāḥ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p143-v3553
-[pool](kuṇḍaṃ) [hāri-named](hāri)[named](saṃjñakañ)[and](ca) [having-bathed](snātvā) [sacrifice-equal](kratu)[equal](samaṃ) [fruit](phalam)
+[pool](kuṇḍam) [Hāri](hāri) [named](saṃjñakam) [and](ca) [having-bathed](snātvā) [sacrifice-equal](kratu+samam) [fruit](phalam)
 
 ## mukta-m0-p143-v3554
-[at-ṛṣi-dhanvantari](ṛṣi)[dhanvantari](dhanvantare) [in-east](pūrve) [of-puṣkara-mountain](puṣkara)[mountain](ācala)[south](dakṣiṇe)
+[of-Ṛṣi-Dhanvantari](ṛṣi+dhanvantare) [formerly](pūrve) [of-Puṣkara-mountain](puṣkara+acala) [in-the-south](dakṣiṇe)
 
 ## mukta-m0-p143-v3555
-[and-durgā-well](durgā)[well](kūpañ)[and](ca) [there](tatra)[indeed](iva) [by-kāla-hand-measure](kāla)[hand](hasta)[measure](pramāṇataḥ)
+[Durgā-well](durgā+kūpam) [and](ca) [there-indeed](tatra+eva) [Kālahasta-measure](kālahasta+pramāṇataḥ)
 
 ## mukta-m0-p143-v3556
-[in-east](pūrve) [on-mountain](naga)[mountain](acale) [there](tatra) [in-place](sthāne) [in-śrī-puruṣottama](śrī)[puruṣottama](puruṣottame)
+[in-the-east](pūrve) [on-the-mountain](naga+acale) [there](tatra) [in-the-place](sthāne) [of-Śrī-Puruṣottama](śrī+puruṣottame)
 
 ## mukta-m0-p143-v3557
-[in-gayā-pool-water](gayā)[pool](kuṇḍa)[water](jale) [o-goddess](devi) [elephant-like](gaja)[like](vad)[indeed](dhi) [bow-measured](dhanur)[measured](mitam)
+[in-the-water-of-Gayā-pool](gayā+kuṇḍa+jale) [O-goddess](devi) [like-an-elephant](gaja+vat) [indeed](hi) [bow-measured](dhanuḥ+mitam)
 
 ## mukta-m0-p143-v3558
-[freed-from-all-sins](sarva)[sin](pāpa)[freed](vinirmukto) [is-released](mucyate) [indeed](vai) [from-three-debts](ṛṇa)[three](trayāt)
+[freed-from-all-sins](sarva+pāpa+vinirmuktaḥ) [is-released](mucyate) [indeed](vai) [from-the-three-debts](ṛṇa+trayāt)
 
 ## mukta-m0-p143-v3559
-[there](tatra) [having-bathed](snātvā)[and-worship](arcayel)[liṅga](liṅgaṃ) [not](na) [goes](yāti) [to-sun-fear](bhāskarī)[fear](bhayam)
+[there](tatra) [having-bathed](snātvā) [one-should-worship](arcayet) [the-liṅga](liṅgam) [not](na) [goes](yāti) [fear-of-the-sun](bhāskarī+bhayam)
 
 ## mukta-m0-p143-v3560
-[there](tatra)[indeed](iva) [mental](mānasaṃ) [pool](kuṇḍaṃ) [in-south](dakṣiṇe) [and](ca)[indeed](eva) [know](jānīhi)
+[there-indeed](tatra+eva) [Mānasa-pool](mānasam) [pool](kuṇḍam) [in-the-south](dakṣiṇe) [and](ca) [indeed](eva) [you-should-know](jānīhi)
 
 ## mukta-m0-p143-v3561
-[one-should-see](paśyet) [siddheśvarī](siddheśvarīṃ) [yoni](yoniṃ) [red-stone-formed](rakta)[stone](pāṣāṇa)[formed](rūpiṇīm)
+[one-should-see](paśyet) [Siddheśvarī](siddheśvarīm) [yoni](yonim) [having-the-form-of-red-stone](rakta+pāṣāṇa+rūpiṇīm)
 
 ## mukta-m0-p143-v3562
-[in-very-southern-part](atyā)[southern](dakṣiṇa)[part](bhāge) [but](tu) [not](na)[very](ati)[far](dūre) [and](ca) [situated](saṃsthitā)
+[in-the-far-south](ati+ādakṣiṇa+bhāge) [indeed](tu) [not](na) [very-far](ati+dūre) [and](ca) [situated](saṃsthitā)
 
 ## mukta-m0-p143-v3563
-[in-kāma-pool](kāma)[pool](kuṇḍe) [man](naraḥ) [having-bathed](snātvā) [desires](kāmān)[obtains](āpnoti) [always](nityaśaḥ)
+[in-Kāma-pool](kāma+kuṇḍe) [a-man](naraḥ) [having-bathed](snātvā) [desires](kāmān) [obtains](āpnoti) [always](nityaśaḥ)
 
 ## mukta-m0-p143-v3564
-[eight-hand-measured](asta)[hand](hasta)[measured](mitaṃ) [pool](kuṇḍaṃ) [situated-among-three-stones](pāṣāṇa)[three](traya)[among](madhyagam)
+[eight-cubits-measured](asta+hasta+mitam) [pool](kuṇḍam) [situated-among-three-stones](pāṣāṇa+traya+madhyagam)
 
 ## mukta-m0-p143-v3565
-[at-midday](madhyāhne) [salty](lavaṇaṃ) [or](vā) [but](tu) [in-afternoon](aparāhṇe) [but](tu) [dark](kṛṣṇakam)
+[at-midday](madhyāhne) [saline](lavaṇam) [or](vā) [indeed](tu) [in-the-afternoon](aparāhṇe) [indeed](tu) [black](kṛṣṇakam)
 
 ## mukta-m0-p143-v3566
-[which](yā) [stream](dhārā) [of-kāma-pool](kāma)[pool](kuṇḍasya) [matted-hair-water](jaṭa)[water](udakā) [is-called](prakīrtitā)
+[which](yā) [stream](dhārā) [of-Kāma-pool](kāma+kuṇḍasya) [Jaṭodakā](jaṭa+udakā) [is-called](prakīrtitā)
 
 ## mukta-m0-p143-v3567
-[in-south](dakṣiṇe) [of-śiva-pool](śiva)[pool](kuṇḍasya) [which](yā) [stream](dhārā) [that](sā) [sky-river](viyan)[river](nadī)
+[in-the-south](dakṣiṇe) [of-Śiva-pool](śiva+kuṇḍasya) [which](yā) [stream](dhārā) [that](sā) [Viyannadī](viyat+nadī)
 
 ## mukta-m0-p143-v3568
-[in-middle](madhye) [of-vahni-kūṭa](vahni)[peak](kūṭasya) [but](tu) [which](yā) [stream](dhārā) [mountain-issued](giri)[issued](niḥsṛtā)
+[of-Vahnikūṭa](vahni+kūṭasya) [in-the-middle](madhye) [indeed](tu) [which](yā) [stream](dhārā) [flowing-from-the-mountain](giri+niḥsṛtā)
 
 ## mukta-m0-p143-v3569
-[in-west](paścime) [of-makaranda](makarandasya) [issued](niḥsṛtā) [going-to-earth-platform](bhūmi)[platform](pīṭha)[going](gā)
+[in-the-west](paścime) [of-Makaranda](makarandasya) [flowing](niḥsṛtā) [going-to-the-ground-platform](bhūmi+pīṭha+gā)
 
 ## mukta-m0-p143-v3570
-[of-vakra-kūṭa](vakra)[peak](kūṭasya) [which](yā) [stream](dhārā) [that](sā) [to-be-known](vijñeyā) [and](ca) [gomatī](gomatī)
+[of-Vakrakūṭa](vakra+kūṭasya) [which](yā) [stream](ghārā) [that](sā) [to-be-known](vijñeyā) [and](ca) [Gomatī](gomatī)
 
 ## mukta-m0-p143-v3571
-[to-north-of-that](tad)[north](uttare) [seven-streams](sapta)[streams](dhārā) [bow](dhanuḥ) [within-seven-times-three](sapta)[three](traya)[within](antare)
+[to-the-north-of-that](tat+uttare) [seven-streams](sapta+dhārāḥ) [within-seven-times-three-bows](dhanuḥ+sapta+traya+antare)
 
 ## mukta-m0-p143-v3572
-[having-bathed](snātvā) [and](ca) [in-vāruṇa-pool](vāruṇe) [pool](kuṇḍe) [vāruṇa-world](vāruṇa) [world](lokam)[obtains](āpnuyāt)
+[having-bathed](snātvā) [and](ca) [in-Vāruṇa-pool](vāruṇe) [pool](kuṇḍe) [of-Varuṇa](vāruṇa) [world](lokam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p143-v3573
-[seven-hand-measured](sapta)[hand](hasta)[measured](mitaṃ) [liṅga](liṅgam)[in-length](āyāme) [and](ca)[two-hand](akṣi)[hand](hastakam)
+[seven-cubits-measured](sapta+hasta+mitam) [liṅga](liṅgam) [in-length](āyāme) [and](ca) [two-cubits](akṣi+hastakam)
 
 ## mukta-m0-p143-v3574
-[from-that](tasmād)[in-īśāna-direction](īśāna)[direction](kāṣṭhāyāṃ) [on-vahni-kūṭa](vahni)[peak](kūṭe)[fire](analaṃ) [śiva](śivam)
+[from-that](tasmāt) [in-the-northeast-direction](īśāna+kāṣṭhāyām) [on-Vahnikūṭa](vahni+kūṭe) [fiery](analam) [Śiva](śivam)
 
 ## mukta-m0-p143-v3575
-[in-lauhitya-water](lauhitya)[water](pāyasi) [having-bathed](snātvā) [having-ascended](āruhya) [fire-mountain](vahni)[mountain](parvatam)
+[in-the-red-waters](lauhitya+pāyasi) [having-bathed](snātvā) [having-ascended](āruhya) [fire-mountain](vahni+parvatam)

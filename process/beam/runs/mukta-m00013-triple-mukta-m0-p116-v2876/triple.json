@@ -1,0 +1,1175 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2876,
+   "rows": [
+    {
+     "surface": "trailokya",
+     "gloss": "three-world",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vijayaṃ",
+     "gloss": "victory",
+     "grounds": "name element of the armor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable indicating name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śastrāstra",
+     "gloss": "weapon-missile",
+     "grounds": "compound describing the armor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "object described",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantravigraham",
+     "gloss": "mantra-embodied",
+     "grounds": "compound qualifying armor",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the nature and name of the mantra-embodied armor being introduced?",
+   "premises": [
+    "The armor is named Trailokya-vijaya.",
+    "It consists of weapons and missiles.",
+    "It has a mantra as its embodied form."
+   ],
+   "inference": "The text introduces a protective armor called Trailokya-vijaya that is constituted of weapons, missiles, and mantra.",
+   "uncertainties": [],
+   "plain_english": "There is a mantra-embodied armor named Trailokya-vijaya, consisting of weapons and missiles."
+  },
+  {
+   "verse": 2877,
+   "rows": [
+    {
+     "surface": "jaghāna",
+     "gloss": "killed",
+     "grounds": "action performed by Madhusūdana",
+     "morph": "3.sg.perfect-active √han"
+    },
+    {
+     "surface": "sakalān+daityān",
+     "gloss": "all-demons",
+     "grounds": "fused compound object; internal sandhi noted",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the armor",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-worn",
+     "grounds": "prior action of wearing the armor",
+     "morph": "absolutive √dhṛ"
+    },
+    {
+     "surface": "madhusūdanaḥ",
+     "gloss": "Madhusūdana",
+     "grounds": "agent, epithet of Viṣṇu",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power did the Trailokya-vijaya armor demonstrate when worn by Madhusūdana?",
+   "premises": [
+    "Madhusūdana wore the armor.",
+    "After wearing it, he killed all demons.",
+    "The armor is the instrument enabling this feat."
+   ],
+   "inference": "Wearing the Trailokya-vijaya armor empowered Madhusūdana to destroy all demons.",
+   "uncertainties": [],
+   "plain_english": "Having worn this armor, Madhusūdana killed all the demons."
+  },
+  {
+   "verse": 2878,
+   "rows": [
+    {
+     "surface": "dhanādhipaḥ",
+     "gloss": "wealth-lord",
+     "grounds": "epithet of Kubera",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuberaḥ",
+     "gloss": "Kubera",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsavaḥ",
+     "gloss": "Vāsava",
+     "grounds": "name of Indra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tridaśa+īśvaraḥ",
+     "gloss": "thirty-gods-lord",
+     "grounds": "fused compound epithet of Indra; internal sandhi noted",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which other divine figures are associated with the power of this armor?",
+   "premises": [
+    "Kubera, lord of wealth, is mentioned.",
+    "Vāsava, lord of the thirty gods, is mentioned.",
+    "Their mention implies association with the armor's efficacy."
+   ],
+   "inference": "The armor's power is affirmed by association with Kubera and Vāsava.",
+   "uncertainties": [
+    "The exact syntactic relation to the previous verse is implicit in this excerpt."
+   ],
+   "plain_english": "Also Kubera, the lord of wealth, and Vāsava, the lord of the thirty gods."
+  },
+  {
+   "verse": 2879,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive expressing prohibition",
+     "morph": "n.nom.sg.gerundive √dā"
+    },
+    {
+     "surface": "para+śiṣyebhyaḥ",
+     "gloss": "to-other-disciples",
+     "grounds": "fused compound; recipients excluded",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "asādhakebhyaḥ",
+     "gloss": "to-unworthy-ones",
+     "grounds": "recipients excluded due to lack of qualification",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "emphatic temporal negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom must the transmission of this armor be strictly denied?",
+   "premises": [
+    "The armor is not to be given.",
+    "It must not be given to other disciples.",
+    "It must never be given to unworthy practitioners."
+   ],
+   "inference": "The armor must never be transmitted to outsiders or unqualified practitioners.",
+   "uncertainties": [],
+   "plain_english": "It must never be given to other disciples or to unworthy ones."
+  },
+  {
+   "verse": 2880,
+   "rows": [
+    {
+     "surface": "bhairavyāḥ",
+     "gloss": "of-Bhairavī",
+     "grounds": "deity associated with the armor",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kavacasya",
+     "gloss": "of-armor",
+     "grounds": "object whose seer is specified",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "demonstrative specifying the armor",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "ritual seer of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇāmūrtiḥ",
+     "gloss": "Dakṣiṇāmūrti",
+     "grounds": "name of the seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is declared as the seer of this armor of Bhairavī?",
+   "premises": [
+    "The armor belongs to Bhairavī.",
+    "A seer is assigned to this armor.",
+    "The seer is identified as Dakṣiṇāmūrti."
+   ],
+   "inference": "Dakṣiṇāmūrti is the seer of this Bhairavī armor.",
+   "uncertainties": [],
+   "plain_english": "And the seer of this armor of Bhairavī is indeed Dakṣiṇāmūrti."
+  },
+  {
+   "verse": 2881,
+   "rows": [
+    {
+     "surface": "dharma+artha+kāma+mokṣeṣu",
+     "gloss": "in-duty-wealth-desire-liberation",
+     "grounds": "fused compound listing the four aims; internal sandhi noted",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual application of the armor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "For which human aims is the application of this armor declared?",
+   "premises": [
+    "The armor has a ritual application.",
+    "The application covers dharma, artha, kāma, and mokṣa.",
+    "This application is formally declared."
+   ],
+   "inference": "The armor is declared to be applied for all four human aims.",
+   "uncertainties": [],
+   "plain_english": "Its application is declared for dharma, wealth, desire, and liberation."
+  },
+  {
+   "verse": 2882,
+   "rows": [
+    {
+     "surface": "bhṛguḥ",
+     "gloss": "Bhṛgu",
+     "grounds": "code name for a seed syllable element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manusvara+yutaḥ",
+     "gloss": "anusvāra-joined",
+     "grounds": "fused compound describing phonetic addition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sargaḥ",
+     "gloss": "visarga",
+     "grounds": "phonetic element added",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bīja+traya+ātmakaḥ",
+     "gloss": "seed-triad-consisting-of",
+     "grounds": "fused compound describing composition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What phonetic components constitute the triad of seed syllables described here?",
+   "premises": [
+    "The element Bhṛgu is specified.",
+    "It is joined with anusvāra and visarga.",
+    "The result consists of a triad of seed syllables."
+   ],
+   "inference": "The described mantra element is formed from Bhṛgu with anusvāra and visarga as a triad of seeds.",
+   "uncertainties": [
+    "Exact bīja syllable identity depends on traditional code interpretation."
+   ],
+   "plain_english": "Bhṛgu joined with anusvāra and visarga constitutes the triad of seed syllables."
+  },
+  {
+   "verse": 2883,
+   "rows": [
+    {
+     "surface": "bhālaṃ",
+     "gloss": "forehead",
+     "grounds": "body part to be protected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "kumārī",
+     "gloss": "Kumārī",
+     "grounds": "protective goddess form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarga+hīnā",
+     "gloss": "visarga-devoid",
+     "grounds": "fused compound describing mantra form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kumārikā",
+     "gloss": "Kumārikā",
+     "grounds": "protective goddess form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine forms are invoked to protect the forehead in this armor?",
+   "premises": [
+    "The forehead is the target of protection.",
+    "Kumārī is invoked to protect it.",
+    "Kumārikā, described as visarga-devoid, is also invoked."
+   ],
+   "inference": "Kumārī and the visarga-devoid Kumārikā are invoked to protect the forehead.",
+   "uncertainties": [],
+   "plain_english": "May Kumārī protect the forehead, and may the visarga-devoid Kumārikā also protect it."
+  },
+  {
+   "verse": 2884,
+   "rows": [
+    {
+     "surface": "kāma+bījaṃ",
+     "gloss": "love-seed",
+     "grounds": "fused compound naming the seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "ghrāṇa+yugmaṃ",
+     "gloss": "nostril-pair",
+     "grounds": "fused compound; body part to be protected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √av"
+    }
+   ],
+   "question": "Which seed syllable is assigned to protect the pair of nostrils?",
+   "premises": [
+    "The pair of nostrils requires protection.",
+    "The kāma-bīja is invoked.",
+    "Protection is requested always."
+   ],
+   "inference": "The kāma-bīja is invoked to always protect the pair of nostrils.",
+   "uncertainties": [],
+   "plain_english": "May the love-seed always protect the pair of nostrils; may it always protect them."
+  },
+  {
+   "verse": 2885,
+   "rows": [
+    {
+     "surface": "hasaiṃ",
+     "gloss": "hasaiṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "throat",
+     "grounds": "body part to be protected",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hasakalarīṃ",
+     "gloss": "hasakalarīṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "skandhau",
+     "gloss": "shoulders",
+     "grounds": "body parts to be protected",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "hasauḥ",
+     "gloss": "hasauḥ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhujau",
+     "gloss": "arms",
+     "grounds": "body parts to be protected",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "Which mantra syllables are assigned to protect the throat, shoulders, and arms?",
+   "premises": [
+    "The throat is assigned protection by hasaiṃ.",
+    "The shoulders are assigned protection by hasakalarīṃ.",
+    "The arms are assigned protection by hasauḥ."
+   ],
+   "inference": "Specific bīja syllables are mapped to protect the throat, shoulders, and arms.",
+   "uncertainties": [],
+   "plain_english": "May hasaiṃ protect the throat, hasakalarīṃ protect the shoulders, and hasauḥ protect the arms."
+  },
+  {
+   "verse": 2886,
+   "rows": [
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "body part to be protected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hasakalarīṃ",
+     "gloss": "hasakalarīṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣaḥ",
+     "gloss": "chest",
+     "grounds": "body part to be protected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "hasaroḥ",
+     "gloss": "hasaroḥ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stanau",
+     "gloss": "breasts",
+     "grounds": "body parts to be protected",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "Which mantra syllables are assigned to protect the heart, chest, and breasts?",
+   "premises": [
+    "The heart is assigned protection by hasakalarīṃ.",
+    "The chest is assigned protection by hasakalarīṃ.",
+    "The breasts are assigned protection by hasaroḥ."
+   ],
+   "inference": "Specific bīja syllables are mapped to protect the heart, chest, and breasts.",
+   "uncertainties": [],
+   "plain_english": "May hasakalarīṃ protect the heart, may it protect the chest, and may hasaroḥ protect the breasts."
+  },
+  {
+   "verse": 2887,
+   "rows": [
+    {
+     "surface": "hasraiṃ",
+     "gloss": "hasraiṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśva+yugmaṃ",
+     "gloss": "side-pair",
+     "grounds": "fused compound; body parts to be protected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hasakalarīṃ",
+     "gloss": "hasakalarīṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra syllables are invoked to always protect the pair of sides?",
+   "premises": [
+    "The pair of sides requires protection.",
+    "The syllables hasraiṃ and hasakalarīṃ are invoked.",
+    "Protection is requested always."
+   ],
+   "inference": "Hasraiṃ and hasakalarīṃ are invoked to always protect the pair of sides.",
+   "uncertainties": [],
+   "plain_english": "May hasraiṃ always protect the pair of sides, and may hasakalarīṃ always protect them."
+  },
+  {
+   "verse": 2888,
+   "rows": [
+    {
+     "surface": "aiṃ",
+     "gloss": "aiṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īṃ",
+     "gloss": "īṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessive pronoun referring to practitioner",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "madhya+deśaṃ",
+     "gloss": "middle-region",
+     "grounds": "fused compound; body region to be protected",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bīja+vidyā",
+     "gloss": "seed-mantra",
+     "grounds": "fused compound referring to the seed knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √av"
+    }
+   ],
+   "question": "Which seed mantra is invoked to protect the practitioner's middle region?",
+   "premises": [
+    "The middle region of the body requires protection.",
+    "The syllables aiṃ, īṃ, and oṃ are named.",
+    "The seed-mantra is asked to always protect."
+   ],
+   "inference": "The seed-mantra composed of aiṃ, īṃ, and oṃ is invoked to always protect the middle region.",
+   "uncertainties": [],
+   "plain_english": "May the seed-mantra aiṃ, īṃ, oṃ always protect my middle region."
+  },
+  {
+   "verse": 2889,
+   "rows": [
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "hasauḥ",
+     "gloss": "hasauḥ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭī+deśaṃ",
+     "gloss": "hip-region",
+     "grounds": "fused compound; body region to be protected",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaṭkuṭā",
+     "gloss": "six-syllabled",
+     "grounds": "epithet of Bhairavī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "Bhairavī",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun referring to practitioner",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "Which form of Bhairavī is invoked to protect the hip region?",
+   "premises": [
+    "The hip region requires protection.",
+    "The syllable hasauḥ is invoked.",
+    "The six-syllabled Bhairavī is named as protector."
+   ],
+   "inference": "The six-syllabled Bhairavī with hasauḥ is invoked to protect the hip region.",
+   "uncertainties": [],
+   "plain_english": "May hasauḥ and the six-syllabled Bhairavī protect my hip region."
+  },
+  {
+   "verse": 2890,
+   "rows": [
+    {
+     "surface": "guhya+deśaṃ",
+     "gloss": "secret-region",
+     "grounds": "fused compound; body region to be protected",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hasauḥ",
+     "gloss": "hasauḥ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "jānunī",
+     "gloss": "knees",
+     "grounds": "body parts to be protected",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "Bhairavī",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun referring to practitioner",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "Which body parts are placed under the protection of Bhairavī and hasauḥ here?",
+   "premises": [
+    "The secret region requires protection.",
+    "The knees require protection.",
+    "Hasauḥ and Bhairavī are invoked as protectors."
+   ],
+   "inference": "Hasauḥ and Bhairavī are invoked to protect the secret region and the knees.",
+   "uncertainties": [],
+   "plain_english": "May hasauḥ protect the secret region, and may my Bhairavī protect the knees."
+  },
+  {
+   "verse": 2891,
+   "rows": [
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "hasauḥ",
+     "gloss": "hasauḥ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+dehaṃ",
+     "gloss": "all-body",
+     "grounds": "fused compound; entire body to be protected",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "Bhairavī",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √av"
+    }
+   ],
+   "question": "What scope of bodily protection is requested from Bhairavī and hasauḥ?",
+   "premises": [
+    "Protection is requested for the entire body.",
+    "Hasauḥ and Bhairavī are invoked.",
+    "Protection is requested at all times."
+   ],
+   "inference": "Hasauḥ and Bhairavī are invoked to always protect the entire body.",
+   "uncertainties": [],
+   "plain_english": "May hasauḥ protect the whole body, and may Bhairavī always protect it."
+  },
+  {
+   "verse": 2892,
+   "rows": [
+    {
+     "surface": "hasauḥ",
+     "gloss": "hasauḥ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessive pronoun referring to practitioner",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "direction to be protected",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "Bhairavī",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cakra+āsthitā",
+     "gloss": "disc-seated",
+     "grounds": "fused compound describing Bhairavī's position",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which directional protection is assigned to Bhairavī seated in the disc?",
+   "premises": [
+    "The right side requires protection.",
+    "Hasauḥ is invoked.",
+    "Bhairavī seated in the disc is the protector."
+   ],
+   "inference": "Bhairavī seated in the disc, with hasauḥ, is invoked to protect the right side.",
+   "uncertainties": [],
+   "plain_english": "May hasauḥ protect my right side, and may Bhairavī seated in the disc protect it."
+  },
+  {
+   "verse": 2893,
+   "rows": [
+    {
+     "surface": "hasaiṃ",
+     "gloss": "hasaiṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hasakalahrīṃ",
+     "gloss": "hasakalahrīṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hasarauḥ",
+     "gloss": "hasarauḥ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "direction to be protected",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "Bhairavī",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mantra syllables and deity protect the western direction?",
+   "premises": [
+    "The western direction requires protection.",
+    "The syllables hasaiṃ, hasakalahrīṃ, and hasarauḥ are invoked.",
+    "Bhairavī is named as protector."
+   ],
+   "inference": "Bhairavī with hasaiṃ, hasakalahrīṃ, and hasarauḥ is invoked to protect the west.",
+   "uncertainties": [],
+   "plain_english": "May hasaiṃ, hasakalahrīṃ, and hasarauḥ, together with Bhairavī, protect the west."
+  },
+  {
+   "verse": 2894,
+   "rows": [
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √pā"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśānye",
+     "gloss": "in-northeast",
+     "grounds": "direction to be protected",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "direction to be protected",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kālike",
+     "gloss": "Kālikā",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "avatu",
+     "gloss": "may-protect",
+     "grounds": "benedictive verb",
+     "morph": "3.sg.imperative-active √av"
+    }
+   ],
+   "question": "Which directions are placed under the protection of Kālikā and the hrīṃ syllable?",
+   "premises": [
+    "The hrīṃ syllable is invoked twice.",
+    "The northeast and right directions are named.",
+    "Kālikā is invoked to protect."
+   ],
+   "inference": "Kālikā with hrīṃ is invoked to always protect the northeast and the right side.",
+   "uncertainties": [
+    "The repetition of 'dakṣiṇe' alongside 'aiśānye' may indicate overlapping directional coverage."
+   ],
+   "plain_english": "May hrīṃ, hrīṃ always protect the northeast, and may Kālikā protect the right side."
+  },
+  {
+   "verse": 2895,
+   "rows": [
+    {
+     "surface": "dik+vidikṣu",
+     "gloss": "in-directions-intermediate-directions",
+     "grounds": "fused compound; all directions to be protected",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation, transliterated as mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "Kālikā",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khaḍga+dhāriṇī",
+     "gloss": "sword-bearing",
+     "grounds": "fused compound epithet of Kālikā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is Kālikā invoked to protect all directions and intermediate directions?",
+   "premises": [
+    "All directions and intermediate directions require protection.",
+    "The exclamation svāhā is used.",
+    "Kālikā is invoked as sword-bearing."
+   ],
+   "inference": "Sword-bearing Kālikā is invoked with svāhā to protect all directions and intermediate directions.",
+   "uncertainties": [],
+   "plain_english": "In all directions and intermediate directions, svāhā—may sword-bearing Kālikā protect."
+  },
+  {
+   "verse": 2896,
+   "rows": [
+    {
+     "surface": "saṃgrāme",
+     "gloss": "in-battle",
+     "grounds": "dangerous situation requiring protection",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kānane",
+     "gloss": "in-forest",
+     "grounds": "dangerous situation requiring protection",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "durge",
+     "gloss": "in-difficult-place",
+     "grounds": "dangerous situation requiring protection",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "toye",
+     "gloss": "in-water",
+     "grounds": "dangerous situation requiring protection",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taraṅga+dustare",
+     "gloss": "by-waves-difficult-to-cross",
+     "grounds": "fused compound describing dangerous water",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which perilous situations is the protective power of this armor sought?",
+   "premises": [
+    "Protection is sought in battle.",
+    "Protection is sought in forest and difficult places.",
+    "Protection is sought in water difficult to cross due to waves."
+   ],
+   "inference": "The armor is invoked for protection in various perilous situations including battle, wilderness, and dangerous waters.",
+   "uncertainties": [],
+   "plain_english": "In battle, in the forest, in difficult places, and in water hard to cross because of waves."
+  },
+  {
+   "verse": 2897,
+   "rows": [
+    {
+     "surface": "trailokya+vijayaṃ",
+     "gloss": "three-world-victory",
+     "grounds": "fused compound naming the armor",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable indicating name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "object praised",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parama+adbhutam",
+     "gloss": "supremely-wondrous",
+     "grounds": "fused compound praising the armor",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the Trailokya-vijaya armor characterized in this concluding praise?",
+   "premises": [
+    "The armor is named Trailokya-vijaya.",
+    "It is described as an armor.",
+    "It is characterized as supremely wondrous."
+   ],
+   "inference": "The Trailokya-vijaya armor is praised as supremely wondrous.",
+   "uncertainties": [],
+   "plain_english": "This armor named Trailokya-vijaya is supremely wondrous."
+  },
+  {
+   "verse": 2898,
+   "rows": [
+    {
+     "surface": "sparddhām",
+     "gloss": "rivalry",
+     "grounds": "conflict removed by the armor's power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "uddhūya",
+     "gloss": "having-shaken-off",
+     "grounds": "prior action removing rivalry",
+     "morph": "absolutive ud-√dhū"
+    },
+    {
+     "surface": "bhavane",
+     "gloss": "in-house",
+     "grounds": "place where deities dwell",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "Lakṣmī",
+     "grounds": "goddess of prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "Vāṇī",
+     "grounds": "goddess of speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "may-dwell",
+     "grounds": "benedictive result",
+     "morph": "3.sg.optative-active √vas"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "consequential particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What harmonious result follows from the power of this armor in the household?",
+   "premises": [
+    "Rivalry is shaken off.",
+    "Lakṣmī and Vāṇī are named.",
+    "They may dwell together in the house as a result."
+   ],
+   "inference": "Through this armor's power, Lakṣmī and Vāṇī dwell together without rivalry in the house.",
+   "uncertainties": [],
+   "plain_english": "Having shaken off rivalry, Lakṣmī and Vāṇī may then dwell together in the house."
+  },
+  {
+   "verse": 2899,
+   "rows": [
+    {
+     "surface": "vilikhya",
+     "gloss": "having-inscribed",
+     "grounds": "prior ritual action",
+     "morph": "absolutive vi-√likh"
+    },
+    {
+     "surface": "bhūrje",
+     "gloss": "on-birch-bark",
+     "grounds": "material for inscription",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gulikāṃ",
+     "gloss": "ball",
+     "grounds": "object prepared for wearing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svarṇa+sthāṃ",
+     "gloss": "in-gold-placed",
+     "grounds": "fused compound describing placement in gold",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "should-wear",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active √dhṛ"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual procedure is prescribed for wearing this armor as an amulet?",
+   "premises": [
+    "The armor should be inscribed on birch bark.",
+    "It should be formed into a ball placed in gold.",
+    "One should wear it if following this procedure."
+   ],
+   "inference": "The armor may be ritually worn as an amulet by inscribing it on birch bark, enclosing it in gold, and wearing it.",
+   "uncertainties": [],
+   "plain_english": "If one inscribes it on birch bark, forms it into a ball placed in gold, one should wear it."
+  }
+ ]
+}

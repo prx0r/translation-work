@@ -12,7 +12,7 @@
 },
 {
 "surface": "śatarudrīyaṃ",
-"quick_gloss": "śatarudrīya-hymn"
+"quick_gloss": "śatarudrīya"
 },
 {
 "surface": "kañcid",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "japet",
-"quick_gloss": "should-recite"
+"quick_gloss": "should-mutter"
 }
 ]
 },
@@ -40,12 +40,8 @@
 "quick_gloss": "govinda"
 },
 {
-"surface": "brahmaṇaḥ",
-"quick_gloss": "brahmaṇa"
-},
-{
-"surface": "ca+eva",
-"quick_gloss": "and+indeed"
+"surface": "brahmaṇaḥ+ca+eva",
+"quick_gloss": "brahman+and+indeed"
 },
 {
 "surface": "pāripātraḥ",
@@ -65,36 +61,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ādityaḥ",
-"quick_gloss": "āditya"
+"surface": "ādityaḥ+ca",
+"quick_gloss": "āditya+and"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "kaseruḥ+ca",
+"quick_gloss": "kaseru+and"
 },
 {
-"surface": "kaseruḥ",
-"quick_gloss": "kaseru"
+"surface": "manaḥ+ca",
+"quick_gloss": "manas+and"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "manaḥ",
-"quick_gloss": "manas"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "mānasaḥ",
-"quick_gloss": "mānasa"
-},
-{
-"surface": "tathā",
-"quick_gloss": "likewise"
+"surface": "mānasaḥ+tathā",
+"quick_gloss": "mānasa+likewise"
 }
 ]
 },
@@ -115,23 +95,15 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
-"surface": "nīlaḥ",
-"quick_gloss": "nīla"
+"surface": "nīlaḥ+ca",
+"quick_gloss": "nīla+and"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "kumudaḥ",
-"quick_gloss": "kumuda"
-},
-{
-"surface": "tathā",
-"quick_gloss": "likewise"
+"surface": "kumudaḥ+tathā",
+"quick_gloss": "kumuda+likewise"
 }
 ]
 },
@@ -143,20 +115,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rāmaḥ",
-"quick_gloss": "rāma"
+"surface": "rāmaḥ+ca",
+"quick_gloss": "rāma+and"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "lakṣmaṇaḥ",
-"quick_gloss": "lakṣmaṇa"
-},
-{
-"surface": "ca+eva",
-"quick_gloss": "and+indeed"
+"surface": "lakṣmaṇaḥ+ca+eva",
+"quick_gloss": "lakṣmaṇa+and+indeed"
 },
 {
 "surface": "śubhado",
@@ -172,20 +136,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kuruḥ",
-"quick_gloss": "kuru"
+"surface": "kuruḥ+ca",
+"quick_gloss": "kuru+and"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "dharma+rūpaḥ",
-"quick_gloss": "dharma+form"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "dharma+rūpaḥ+ca",
+"quick_gloss": "dharma+form+and"
 },
 {
 "surface": "kāhālo",
@@ -217,20 +173,12 @@
 "quick_gloss": "kamala"
 },
 {
-"surface": "kāma+dhenuḥ",
-"quick_gloss": "kāmadhenu"
+"surface": "kāma+dhenuḥ+ca",
+"quick_gloss": "wish-cow+and"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "haraḥ",
-"quick_gloss": "hara"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "haraḥ+ca",
+"quick_gloss": "hara+and"
 },
 {
 "surface": "makarandakaḥ",
@@ -251,7 +199,7 @@
 },
 {
 "surface": "lauhityasya+ante",
-"quick_gloss": "of-lauhitya+end"
+"quick_gloss": "of-lauhitya+at-end"
 },
 {
 "surface": "ete",
@@ -267,11 +215,11 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "paścima+ādiṣu",
-"quick_gloss": "western+beginning+etc."
+"quick_gloss": "in-west+etc."
 },
 {
 "surface": "kīrtitāḥ",
@@ -291,12 +239,8 @@
 "quick_gloss": "in-southeast"
 },
 {
-"surface": "jāla+śailaḥ",
-"quick_gloss": "jālaśaila"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "jāla+śailaḥ+ca",
+"quick_gloss": "jālaśaila+and"
 },
 {
 "surface": "aiśānye",
@@ -328,12 +272,8 @@
 "quick_gloss": "hear"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "antar+gṛhaṃ",
-"quick_gloss": "inner+house"
+"surface": "ca+antar+gṛhaṃ",
+"quick_gloss": "and+inner+house"
 },
 {
 "surface": "priye",
@@ -350,15 +290,11 @@
 "tokens": [
 {
 "surface": "na+ārohet",
-"quick_gloss": "should-not-ascend"
+"quick_gloss": "not+should-ascend"
 },
 {
-"surface": "mala+bhadrañ",
-"quick_gloss": "malabhadra"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "mala+bhadrañ+ca",
+"quick_gloss": "malabhadra+and"
 },
 {
 "surface": "mahā+pātakam",
@@ -383,7 +319,7 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "o-goddess"
+"quick_gloss": "goddess"
 },
 {
 "surface": "sarva+tīrtha+mayaṃ",
@@ -412,7 +348,7 @@
 },
 {
 "surface": "mahā+īśāni",
-"quick_gloss": "o-great-goddess"
+"quick_gloss": "great-goddess"
 },
 {
 "surface": "kalpe",
@@ -420,7 +356,7 @@
 },
 {
 "surface": "brahma+vadhaiḥ",
-"quick_gloss": "with-brahmin+slaughters"
+"quick_gloss": "brahman+slaughters"
 },
 {
 "surface": "samam",
@@ -453,7 +389,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "no"
+"quick_gloss": "not"
 },
 {
 "surface": "saṃśayaḥ",
@@ -474,7 +410,7 @@
 },
 {
 "surface": "duḥkha+vinirmukto",
-"quick_gloss": "suffering+freed"
+"quick_gloss": "sorrow+freed"
 },
 {
 "surface": "muktim",
@@ -511,7 +447,7 @@
 },
 {
 "surface": "parityajya",
-"quick_gloss": "having-abandoned"
+"quick_gloss": "abandoning"
 },
 {
 "surface": "te+api",
@@ -593,7 +529,7 @@
 },
 {
 "surface": "saṃsāra+bhaya+mocakam",
-"quick_gloss": "saṃsāra+fear+removing"
+"quick_gloss": "saṃsāra+fear+releasing"
 }
 ]
 },
@@ -606,7 +542,7 @@
 "tokens": [
 {
 "surface": "bhaviṣyanti",
-"quick_gloss": "they-will-be"
+"quick_gloss": "will-be"
 },
 {
 "surface": "sadā+devi",
@@ -635,11 +571,11 @@
 },
 {
 "surface": "kalau",
-"quick_gloss": "in-kali+age"
+"quick_gloss": "in-kali"
 },
 {
 "surface": "yuge",
-"quick_gloss": "yuge"
+"quick_gloss": "age"
 }
 ]
 },
@@ -672,7 +608,7 @@
 },
 {
 "surface": "kṣayam",
-"quick_gloss": "to-destruction"
+"quick_gloss": "destruction"
 }
 ]
 },
@@ -688,7 +624,7 @@
 "quick_gloss": "birth+interval+thousands"
 },
 {
-"surface": "puṇya+yānam",
+"surface": "puṇya-yānam",
 "quick_gloss": "merit+vehicle"
 },
 {
@@ -722,7 +658,7 @@
 },
 {
 "surface": "hṛtañ+ca",
-"quick_gloss": "stolen+and"
+"quick_gloss": "taken+and"
 },
 {
 "surface": "yat",
