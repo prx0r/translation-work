@@ -7,13 +7,13 @@
     {
      "surface": "ulukī",
      "gloss": "owl-woman",
-     "grounds": "feminine noun derived from uluka (owl)",
+     "grounds": "feminine nominative singular form ulukī",
      "morph": "f.nom.sg"
     },
     {
      "surface": "pecakī",
      "gloss": "peacock-woman",
-     "grounds": "feminine noun derived from pecaka (peacock)",
+     "grounds": "feminine nominative singular form pecakī",
      "morph": "f.nom.sg"
     },
     {
@@ -31,7 +31,7 @@
     {
      "surface": "sararī",
      "gloss": "sarari-woman",
-     "grounds": "feminine noun derived from sarara",
+     "grounds": "feminine nominative singular form sararī",
      "morph": "f.nom.sg"
     },
     {
@@ -42,28 +42,28 @@
     },
     {
      "surface": "gūlī",
-     "gloss": "gūlī-woman",
-     "grounds": "feminine noun form gūlī",
+     "gloss": "guli-woman",
+     "grounds": "feminine nominative singular form gūlī",
      "morph": "f.nom.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "correlative adverb",
+     "grounds": "correlative particle",
      "morph": "(indecl.)"
     }
    ],
-   "question": "Which additional female animal-forms are listed as possible manifestations in this enumeration?",
+   "question": "Which additional female forms are enumerated after gṛdhrī and nakhī in this list?",
    "premises": [
-    "The verse lists owl-woman and peacock-woman.",
-    "It also lists sarari-woman and gūlī-woman.",
-    "Disjunctive particles separate the alternatives."
+    "ulukī and pecakī appear first",
+    "sararī and gūlī follow with vā",
+    "tathā closes the enumeration"
    ],
-   "inference": "The enumeration continues with four more female forms.",
+   "inference": "The verse extends the catalogue of female forms with owl, peacock, sarari, and guli women.",
    "uncertainties": [
-    "The exact doctrinal significance of each listed form is not stated."
+    "Exact referents of sararī and gūlī remain unclear"
    ],
-   "plain_english": "Owl-woman or peacock-woman, indeed sarari-woman or gūlī-woman, likewise."
+   "plain_english": "Owl-woman, peacock-woman, or indeed sarari-woman, or guli-woman likewise."
   }
  ]
 }

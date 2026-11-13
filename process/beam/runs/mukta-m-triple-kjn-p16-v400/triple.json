@@ -7,40 +7,39 @@
     {
      "surface": "lalāṭa+varṇa+rāśi+sthaṃ",
      "gloss": "forehead-syllable-mass-situated",
-     "grounds": "compound adjective describing the situated forehead syllable mass",
-     "morph": "compound (lalāṭa+varṇa+rāśi+stha)"
+     "grounds": "compound of lalāṭa varṇa rāśi stha; situated in forehead syllable mass",
+     "morph": "adj.acc.sg.n"
     },
     {
      "surface": "lakṣaṃ",
      "gloss": "hundred-thousand",
-     "grounds": "numeral accusative singular neuter",
-     "morph": "acc.sg.n"
+     "grounds": "lakṣa numeral",
+     "morph": "num.acc.sg.n"
     },
     {
      "surface": "kṛtya",
      "gloss": "having-done",
-     "grounds": "absolutive from root kṛ",
-     "morph": "absolutive (kṛ)"
+     "grounds": "kṛ root absolutive",
+     "morph": "abs"
     },
     {
      "surface": "sura+arcite",
      "gloss": "god-worshipped",
-     "grounds": "compound adjective describing worship by gods",
-     "morph": "compound (sura+arcita)"
+     "grounds": "compound sura arcita; worshipped by gods",
+     "morph": "adj.loc.sg.m"
     }
    ],
-   "question": "What action involving a hundred thousand is prescribed once the forehead syllable mass is worshipped by gods?",
+   "question": "What quantity of forehead-syllable practice must be completed after worshipping the god?",
    "premises": [
-    "Forehead syllable mass is situated",
-    "A hundred thousand is to be done",
-    "The rite is god-worshipped"
+    "Forehead syllable mass is situated.",
+    "Hundred thousand repetitions are prescribed.",
+    "The rite follows god worship."
    ],
-   "inference": "The practitioner performs a hundred thousand after worshipping the forehead syllable mass.",
+   "inference": "The practitioner completes hundred thousand repetitions of the forehead syllable after worshipping the god.",
    "uncertainties": [
-    "Exact ritual referent of lakṣaṃ remains unclear",
-    "Syntactic relation of sura+arcite is not fully explicit"
+    "Exact ritual object of lakṣaṃ is not specified in this verse."
    ],
-   "plain_english": "Having worshipped the forehead syllable mass by gods, one performs a hundred thousand."
+   "plain_english": "Having worshipped the god, one completes a hundred thousand repetitions of the syllable situated in the forehead mass."
   }
  ]
 }
