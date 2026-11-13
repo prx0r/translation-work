@@ -3,13 +3,11 @@
  "verse": 124,
  "question": "Does poison enter the body even when bitten by great serpents?",
  "premises": [
-  "poison is subject",
-  "body is location",
-  "great serpent bite is condition"
+  "Poison does not enter",
+  "It does not enter the body",
+  "Even if bitten by great serpents"
  ],
- "inference": "poison does not enter the body even after such bites",
- "uncertainties": [
-  "protective mechanism unspecified"
- ],
+ "inference": "The verse claims poison does not enter the body even after serpent bite.",
+ "uncertainties": [],
  "plain_english": "Poison does not enter the body, even if bitten by great serpents."
 }

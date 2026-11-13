@@ -1,15 +1,13 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom should this teaching be given after one year of testing?",
+ "question": "To whom should this teaching be given after a one-year test?",
  "premises": [
-  "Teaching should be given",
-  "Recipient is previously accomplished",
-  "Recipient is tested for one year"
+  "The teaching is to be given",
+  "It is given to the previously accomplished",
+  "The recipient is tested for one year"
  ],
- "inference": "Only a tested and accomplished recipient may receive it",
- "uncertainties": [
-  "Exact recipient criteria beyond testing are not stated"
- ],
+ "inference": "The verse restricts transmission to a tested and previously accomplished recipient.",
+ "uncertainties": [],
  "plain_english": "It should be given to one previously accomplished and tested for one year."
 }
