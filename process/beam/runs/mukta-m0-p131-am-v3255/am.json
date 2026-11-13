@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3255,
- "question": "How does this salutation present Śiva’s lordship over the stationary and mastery of restraint?",
+ "question": "Which purified souls bathe there and approach the deity Janārdana in that place?",
  "premises": [
-  "Śiva is addressed as lord of stationary beings.",
-  "Śiva is addressed as increaser of restrained senses.",
-  "Both epithets receive obeisance."
+  "Some persons possess purified souls.",
+  "These persons bathe there and approach Janārdana."
  ],
- "inference": "The salutation honors Śiva as ruler of the immobile and promoter of sensory restraint.",
- "uncertainties": [],
- "plain_english": "Obeisance to the lord of stationary beings, obeisance to the one who increases restraint of the senses."
+ "inference": "Those with purified souls bathe there and approach Janārdana.",
+ "uncertainties": [
+  "The sentence continues beyond the listed tokens, so the full predicate is incomplete."
+ ],
+ "plain_english": "But those whose souls are purified, having bathed there, approach Janārdana."
 }
