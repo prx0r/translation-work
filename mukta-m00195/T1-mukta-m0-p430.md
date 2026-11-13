@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p430-v10726
-[hanūmantam](hanūmantaṃ) [and](ca) [sugrīvam](sugrīvaṃ) [bharatam](bharataṃ) [and](ca) [bibhīṣaṇam](bibhīṣaṇam)
+[hanūmant](hanūmantaṃ) [and](ca) [sugrīva](sugrīvaṃ) [bharata](bharataṃ) [and](ca) [vibhīṣaṇa](bibhīṣaṇam)
 
 ## mukta-m0-p430-v10727
-[āñjaneyam](āñjaneyaṃ) [then+in-front](tad+agre) [and](ca) [reciting](vācayantaṃ) [with-joined-palms](kṛta+añjalim)
+[āñjaneya](āñjaneyaṃ) [then](tad) [in-front](agre) [and](ca) [reciting](vācayantaṃ) [made+añjali](kṛta+añjalim)
 
 ## mukta-m0-p430-v10728
-[akopam](akopaṃ) [named-dharmapāla](dharmapāla+ākhyam) [ministers](mantriṇaḥ) [and](ca) [in-order](kramāt) [one-should-worship](yajet)
+[akopa](akopaṃ) [dharma+pālaka+named](dharma+pāla+ākhyaṃ) [and](ca) [ministers](mantriṇaḥ) [in-order](kramāt) [one-should-worship](yajet)
 
 ## mukta-m0-p430-v10729
-[bharadvājam](bharadvājaṃ) [kāśyapam](kāśyapaṃ) [and](ca) [vālmīkim](vālmīkiṃ) [kauśikam](kauśikaṃ) [likewise](tathā)
+[bharadvāja](bharadvājaṃ) [kāśyapa](kāśyapaṃ) [and](ca) [vālmīki](vālmīkiṃ) [kauśika](kauśikaṃ) [likewise](tathā)
 
 ## mukta-m0-p430-v10730
-[sanatkumāram](sanatkumāraṃ) [and](ca) [one-should-worship](yajet) [its+outside](tat+bāhye) [in-twelve-spoked](dvādaśa+ārake)
+[sanatkumāra](sanatkumāraṃ) [and](ca) [one-should-worship](yajet) [its](tat) [outside](bāhye) [twelve+spoked](dvādaśa+ārake)
 
 ## mukta-m0-p430-v10731
-[dvividam](dvividaṃ) [and](ca) [gavākṣam](gavākṣaṃ) [and](ca) [with-diadem](sa+kirīṭaṃ) [with-earrings](sa+kuṇḍalam)
+[dvivida](dvividaṃ) [and](ca) [gavākṣa](gavākṣaṃ) [and](ca) [with+diadem](sa+kirīṭaṃ) [with+earrings](sa+kuṇḍalam)
 
 ## mukta-m0-p430-v10732
-[one-should-worship](arcayet) [in-sixteen-petaled](ṣoḍaśa+dale) [from-east](pūrvataḥ) [but](tu) [with-joined-palms](kṛta+añjalīn)
+[one-should-worship](arcayet) [sixteen+petaled](ṣoḍaśa+dale) [from-east](pūrvataḥ) [indeed](tu) [made+añjali](kṛta+añjalīn)
 
 ## mukta-m0-p430-v10733
-[pratyūṣaḥ](pratyūṣaḥ) [and](ca) [prabhātaḥ](prabhātaḥ) [and](ca) [vasus](vasavaḥ) [eight](aṣṭau) [are-declared](prakīrttitāḥ)
+[pratyūṣa](pratyūṣaḥ) [and](ca) [prabhāta](prabhātaḥ) [and](ca) [vasus](vasavaḥ) [eight](aṣṭau) [proclaimed](prakīrttitāḥ)
 
 ## mukta-m0-p430-v10734
-[ajaikapāt](aja+eka+pāt) [ahirbudhnyaḥ](ahirbudhnyaḥ) [pinākī](pinākī) [and](ca) [aparājitaḥ](aparājitaḥ)
+[ajaikapād](aja+eka+pāt) [ahirbudhnya](ahirbudhnyaḥ) [pinākī](pinākī) [and](ca) [aparājita](aparājitaḥ)
 
 ## mukta-m0-p430-v10735
-[sthāṇuḥ](sthāṇuḥ) [bhagaḥ](bhagaḥ) [and](ca) [bhagavān](bhagavān) [rudrāḥ](rudrāḥ) [eleven](ekādaśa) [are-remembered](smṛtāḥ)
+[sthāṇu](sthāṇuḥ) [bhaga](bhagaḥ) [and](ca) [bhagavat](bhagavān) [rudras](rudrāḥ) [eleven](ekādaśa) [remembered](smṛtāḥ)
 
 ## mukta-m0-p430-v10736
-[gabhastiḥ](gabhastiḥ) [but](tu) [yamaḥ](yamaḥ) [witness-of-all](sarva+sākṣī) [and](ca) [also](api) [divākaraḥ](divākaraḥ)
+[gabhasti](gabhastiḥ) [indeed](tu) [yama](yamaḥ) [all+witness](sarva+sākṣī) [and](ca) [also](api) [divākara](divākaraḥ)
 
 ## mukta-m0-p430-v10737
-[citraḥ](citraḥ) [viṣṇuḥ](viṣṇuḥ) [thus](iti) [are-declared](proktāḥ) [ādityas](ādityāḥ) [twelve](dvādaśa) [in-order](kramāt)
+[citra](citraḥ) [viṣṇu](viṣṇuḥ) [thus](iti) [declared](proktāḥ) [ādityas](ādityāḥ) [twelve](dvādaśa) [in-order](kramāt)
 
 ## mukta-m0-p430-v10738
-[dhātāram](dhātāram) [at-end](ante) [one-should-worship](prayajet) [in-thirty-two-petaled](dvātriṃśat+patrake) [these](imān)
+[dhātṛ](dhātāram) [at-end](ante) [one-should-worship](prayajet) [thirty-two+petaled](dvātriṃśat+patrake) [these](imān)
 
 ## mukta-m0-p430-v10739
-[indra-and-others](indra+ādīn) [in-ground-enclosure](bhū+gṛhe) [outside](bāhye) [their-weapons](tat+astrāṇi) [and](ca) [one-should-worship](saṃyajet)
+[indra+and-others](indra+ādīn) [in-earth+house](bhū+gṛhe) [outside](bāhye) [their](tat) [weapons](astrāṇi) [and](ca) [one-should-worship](saṃyajet)
 
 ## mukta-m0-p430-v10740
-[thus](evam) [accomplished-mantra](siddha+manuḥ) [mantrī](mantrī) [applications](prayogān) [to-perform](karttum) [is-fit](arhati)
+[thus](evam) [accomplished+mantra](siddha+manuḥ) [mantrin](mantrī) [applications](prayogān) [to-perform](karttum) [is-fit](arhati)
 
 ## mukta-m0-p430-v10741
-[one-becomes](bhavet) [like-lord-of-wealth](dhana+adhipati+vat) [by-blue-lotus-oblation](nīla+utpala+hutena) [and](ca)
+[one-becomes](bhavet) [wealth+lord](dhana+adhipati) [like](vat) [blue+lotus+oblation](nīla+utpala+hutena) [and](ca)
 
 ## mukta-m0-p430-v10742
-[one-should-subdue](vaśayet) [world](viśvam) [entire](akhilaṃ) [with-bilva-flowers](bilva+puṣpaiḥ) [in-rainy-season](ghana+atyaye)
+[one-should-subdue](vaśayet) [world](viśvam) [entire](akhilaṃ) [bilva+flowers](bilva+puṣpaiḥ) [in-rainy-season](ghana+atyaye)
 
 ## mukta-m0-p430-v10743
-[offered](hutāḥ) [for-long-life](dīrgha+āyuṣe) [dūrvā-grass](dūrvāḥ) [with-red-lotuses](rakta+abjaiḥ) [for-wealth-increase](dhana+vṛddhaye)
+[offered](hutāḥ) [for-long+life](dīrgha+āyuṣe) [dūrvā-grass](dūrvāḥ) [with-red+lotuses](rakta+abjaiḥ) [for-wealth+increase](dhana+vṛddhaye)
 
 ## mukta-m0-p430-v10744
-[then](tataḥ) [deity](devaṃ) [having-invoked](samavāhya) [one-should-worship](pūjayet) [with-offerings](upacārakaiḥ)
+[then](tataḥ) [god](devaṃ) [having-invoked](samavāhya) [one-should-worship](pūjayet) [with-offerings](upacārakaiḥ)
 
 ## mukta-m0-p430-v10745
-[fire](agniṃ) [having-offered](hutvā) [in-abode](ālaye) [properly](samyak) [with-sacrificial](yajñiyaiḥ) [or](atha) [with-fuel](indhanaiḥ)
+[fire](agniṃ) [having-offered](hutvā) [in-abode](ālaye) [properly](samyak) [with-sacrificial](yajñiyaiḥ) [or](atha) [with-fuel](vandhanaiḥ)
 
 ## mukta-m0-p430-v10746
-[there](tatra) [one-should-worship](sampūjayet) [properly](samyak) [rāghava](rāghavaṃ) [by-prescribed-method](prokta+vartmanā)
+[there](tatra) [one-should-worship](sampūjayet) [properly](samyak) [rāghava](rāghavaṃ) [by-declared+method](prokta+vartmanā)
 
 ## mukta-m0-p430-v10747
-[with-sesame](tilaiḥ) [having-offered](hutvā) [whatever+desired](yat+yat+iṣṭam) [that+that](tat+tat) [indeed](eva) [obtains](āpnuyāt) [person](naraḥ)
+[with-sesame](tilaiḥ) [having-offered](hutvā) [whatever](yat+yat) [desired](iṣṭaṃ) [that+that](tat+tat) [indeed](eva) [obtains](āpnuyāt) [person](naraḥ)
 
 ## mukta-m0-p430-v10748
-[with-bilva-flowers](bilva+prasūnaiḥ) [sovereignty](aiśvaryyam) [when-worshipped](arcite) [in-fire](agnau) [when-offered](hute) [becomes](bhavet)
+[with-bilva+flowers](bilva+prasūnaiḥ) [sovereignty](aiśvaryyam) [in-worshipped+fire](arcite+agnau) [when-offered](hute) [becomes](bhavet)
 
 ## mukta-m0-p430-v10749
-[with-palāśa-flowers](palāśa+kusumaiḥ) [having-offered](hutvā) [mantrī](mantrī) [indeed](vai) [knower-of-veda](veda+vit) [becomes](bhavet)
+[with-palāśa+flowers](palāśa+kusumaiḥ) [having-offered](hutvā) [mantrin](mantrī) [indeed](vai) [veda+knower](veda+vit) [becomes](bhavet)
 
 ## mukta-m0-p430-v10750
-[free-from-disease](nir+āmayaḥ) [and](ca) [long-lived](dīrgha+āyuḥ) [becomes](bhavati) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
+[free-from-disease](nir+āmayaḥ) [and](ca) [long+lived](dīrgha+āyuḥ) [becomes](bhavati) [indeed](eva) [not](na) [doubt](saṃśayaḥ)
