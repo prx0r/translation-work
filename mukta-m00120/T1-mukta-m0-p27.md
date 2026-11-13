@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[then](tataśca) [incense](dhūpa-) [leaves](patrāṇi) [in-the-śrīcakra](śrīcakre) [should-place](viniyojayet)
+[then-and](tataśca) [incense-and-leaves](dhūpa-patrāṇi) [in-śrī-cakra](śrīcakre) [one-should-place](viniyojayet)
 
 ## mukta-m0-p27-v652
-[the-best-rice-dish](paramānnañca) [and-buttermilk](takrañca) [scented-water](suvāsita-jalaṃ) [beloved](priye)
+[excellent-rice-and](paramānnañca) [buttermilk-and](takrañca) [well-fragranced-water](suvāsita-jalaṃ) [o-beloved](priye)
 
 ## mukta-m0-p27-v653
-[with-ghee](ghṛtena) [moistened](jñāvitaṃ) [meat](māṃsaṃ) [various](vidhaṃ) [should-place](sthāpayet) [beloved](priye)
+[with-ghee](ghṛtena) [known-prepared](jñāvitaṃ) [meat](māṃsaṃ) [various](vividhaṃ) [one-should-place](sthāpayet) [o-beloved](priye)
 
 ## mukta-m0-p27-v654
-[garlic](laśūnaṃ) [in-the-middle-of-the-śrīcakra](śrīcakra-madhye) [should-place](sthāpayed) [ginger](ārdrakaṃ) [beloved](priye)
+[garlic](laśūnaṃ) [in-śrī-cakra-middle](śrīcakramadhye) [one-should-place](sthāpayed) [ginger](ārdrakaṃ) [o-beloved](priye)
 
 ## mukta-m0-p27-v655
-[parched-rice](lājāṃśca) [flattened-rice-cake](piṭakañca) [and](eva) [in-the-śrīcakra](śrīcakre) [should-place](viniyojayet)
+[parched-rice-and](lājāṃś) [flattened-rice-and-indeed](cipiṭakañcaiva) [in-śrī-cakra](śrīcakre) [one-should-place](viniyojayet)
 
 ## mukta-m0-p27-v656
-[in-row-form](paṅktyākāre) [in-the-middle-of-the-cakra](cakra-madhye) [should-place](sthāpayet) [supreme-goddess](parameśvari)
+[in-row-form](paṅktyākāre) [in-cakra-middle](cakramadhye) [one-should-place](sthāpayet) [o-supreme-goddess](parameśvari)
 
 ## mukta-m0-p27-v657
-[purified](śodhitaṃ) [according-to-rule](vidhivat) [all](sarvaṃ) [in-row-form](paṅktyākāre) [should-place](niyojayet)
+[purified](śodhitaṃ) [according-to-rule](vidhivat) [all](sarvaṃ) [in-row-form](paṅktyākāre) [one-should-arrange](niyojayet)
 
 ## mukta-m0-p27-v658
-[thus](iti) [in-the-śrī-sarvānanda-nātha-composed](śrī-sarvānandanātha-viracite) [sarvollāsa](sarvollāse) [twenty-first-ullāsa](ekaviṃśaty-ullāsaḥ)
+[thus](iti) [by-śrī-sarvānandanātha-composed](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvollāse) [twenty-first-chapter](ekaviṃśatyullāsaḥ)
 
 ## mukta-m0-p27-v659
-[in-peace-rite](śāntike) [in-prosperity-rite](puṣṭike) [or-in-prosperity-rite]([j: pauṣṭike]) [should-do](kārye) [of-silver](rājataṃ) [should-cause-to-be-made](kārayet) [beloved](priye)
+[in-peace-rite](śāntike) [in-nourishment-rite](puṣṭike) [in-work](kārye) [silver](rājataṃ) [one-should-make](kārayet) [o-beloved](priye)
 
 ## mukta-m0-p27-v660
-[in-all-rites](sarva-kāryeṣu) [should-be-done](kartavyaṃ) [viśvāmitra](viśvāmitraṃ) [mistress-of-the-clan](kuleśvari)
+[in-all-works](sarvakāryeṣu) [to-be-done](kartavyaṃ) [viśvāmitra](viśvāmitraṃ) [o-kula-goddess](kuleśvari)
 
 ## mukta-m0-p27-v661
-[in-the-state-of-non-difference](abheda-sthita-) [vessel](pātrakam)
+[non-difference-situated-vessel](abhedasthitapātrakam)
 
 ## mukta-m0-p27-v662
-[there](tatra) [a-support](adhāraṃ) [having-placed](tu) [saṃsthāpya] [the-śrī-vessel](śrī-pātraṃ) [should-place](sthāpayet) [then](tataḥ)
+[there](tatra) [base-indeed](ādhārantu) [having-placed](saṃsthāpya) [śrī-vessel](śrīpātraṃ) [one-should-place-then](sthāpayettataḥ)
 
 ## mukta-m0-p27-v663
-[the-number-of-feet](pada-saṃkhyāñca) [and-the-corner](koṇañca) [a-maṇḍala](maṇḍalaṃ) [should-make](kārayet) [beloved](priye)
+[step-number-and](padasaṃkhyāñca) [corner-and](koṇañca) [circle](maṇḍalaṃ) [one-should-make](kārayet) [o-beloved](priye)
 
 ## mukta-m0-p27-v664
-[now](idānīṃ) [to-hear](śrotum) [I-wish](icchāmi) [knowledge-of-tattva](tattva-jñānañca) [and-that](tad) [tell](vada)
+[now](idānīṃ) [to-hear-I-wish](śrotumicchāmi) [tattva-knowledge-and](tattvajñānañca) [that-tell](tadvada)
 
 ## mukta-m0-p27-v665
-[abiding-in-the-sattva-guṇa](sattva-guṇāśrayāḥ)
+[sattva-quality-resorting](sattvaguṇāśrayāḥ)
 
 ## mukta-m0-p27-v666
-[by-the-grace-of-knowledge-of-tattva](tattva-jñāna-prasādena) [śambhuḥ](śambhuḥ) [the-causer-of-dissolution](saṃhāra-kārakaḥ)
+[by-tattva-knowledge-grace](tattvajñānaprasādena) [śambhu](śambhuḥ) [destruction-maker](saṃhārakārakaḥ)
 
 ## mukta-m0-p27-v667
-[without-knowledge-of-tattva](tattva-jñānaṃ) [without](vinā) [goddess](devi) [liberation](muktiḥ) [to-ridicule](hāsyāya) [is-fit](kalpate)
+[tattva-knowledge](tattvajñānaṃ) [without](vinā) [o-goddess](devi) [liberation](muktir) [for-laughter](hāsyāya) [becomes](kalpate)
 
 ## mukta-m0-p27-v668
-[hear](śṛṇu) [goddess](devi) [I-shall-proclaim](pravakṣyāmi) [the-tattva](tattvaṃ) [supreme](parama) [very-rare](durlabham)
+[listen](śṛṇu) [o-goddess](devi) [I-shall-speak](pravakṣyāmi) [tattva](tattvaṃ) [supremely-difficult-to-obtain](parama-durlabham)
 
 ## mukta-m0-p27-v669
-[wine](madyaṃ) [meat](māṃsaṃ) [thus](tathā) [fish](matsyaṃ) [the-mudrā](mudrāñca) [and-sexual-union](maithunaṃ) [auspicious-one](śive)
+[wine](madyaṃ) [meat](māṃsaṃ) [likewise](tathā) [fish](matsyaṃ) [gesture-and](mudrāñca) [sexual-union](maithunaṃ) [o-śivā](śive)
 
 ## mukta-m0-p27-v670
-[sovereignty](aiśvaryaṃ) [supreme](paramaṃ) [delighted](hṛṣṭaṃ) [by-drinking-wine](madya-pānena) [daughter-of-the-mountain](śailaje)
+[sovereignty](aiśvaryaṃ) [supreme](paramaṃ) [delightful](hṛṣṭaṃ) [by-wine-drinking](madya-pānena) [o-daughter-of-mountain](śailaje)
 
 ## mukta-m0-p27-v671
-[by-merely-eating-fish](matsya-bhojana-mātreṇa) [direct-perception-of-kālī](kālī-pratyakṣatā) [becomes](bhavet)
+[by-fish-eating-mere](matsyabhojanamātreṇa) [kālī-visibility](kālīpratyakṣatā) [may-be](bhavet)
 
 ## mukta-m0-p27-v672
-[by-sexual-union](maithunena) [the-great-yogī](mahā-yogī) [to-me](mama) [equal](tulyoḥ) [not](na) [doubt](saṃśayaḥ)
+[by-sexual-union](maithunena) [great-yogin](mahāyogī) [to-me-equal](mama-tulyo) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p27-v673
-[by-the-second](dvitīyena) [and](ca) [tattva](tattvena) [the-state-of-great-bhairava](mahā-bhairavatāṃ) [he-goes](vrajet)
+[by-second](dvitīyena) [and](ca) [by-tattva](tattvena) [great-bhairava-state](mahābhairavatāṃ) [one-attains](vrajet)
 
 ## mukta-m0-p27-v674
-[by-the-supreme](pareṇa) [to-the-supreme-state](paratāṃ) [he-goes](yāti) [to-you](tava) [or-to-me]([gh, j: mama]) [equal](tulyoḥ) [not](na) [doubt](saṃśayaḥ)
+[by-supreme](pareṇa) [supremacy](paratāṃ) [one-goes](yāti) [to-you-equal](tava-tulyoḥ) [not](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p27-v675
-[of-this](asya) [the-nature](bhāvaṃ) [the-fruit](phalaṃ) [some](kiñca) [in-five-ways](pañcadhā) [or](api) [in-one-way](ekadhā) [what](ca) [is-it](kim)
+[of-this](asya) [nature](bhāvaṃ) [fruit](phalaṃ) [what](kiñca) [fivefold-and-also-onefold](pañcadhāpyekadhā) [and](ca) [what](kim)

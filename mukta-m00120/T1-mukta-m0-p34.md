@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[eye-pleasing](cakṣurātam)
+[eye](cakṣur)+[obtained](ātam)
 
 ## mukta-m0-p34-v827
 [supreme](paramaṃ) [state](padam)
 
 ## mukta-m0-p34-v828
-[thus](iti) [śrī+sarvānanda+nātha+composed](śrīsarvānandanāthaviracite) [in-sarvollāsa](sarvvollāse) [twenty-seventh+chapter](saptaviṃśatyullāsaḥ)
+[thus](iti) [śrī](śrī)+[Sarvānandanātha](sarvānanda+nātha)+[composed](viracite) [in-Sarvollāsa](sarvvollāse) [twenty-seventh](saptaviṃśati)+[chapter](ullāsaḥ)
 
 ## mukta-m0-p34-v829
 [without](vinā) [power](śaktiṃ) [not](na) [would-succeed](siddhyeta) [therefore](tasmāt) [power](śaktiṃ) [one-should-resort-to](samāśrayet)
 
 ## mukta-m0-p34-v830
-[there](tatra) [situated](sthitā) [deity+natured](devatātmā) [she](sā) [power](śaktiḥ) [worshipped-by-all](sarvapūjitā)
+[there](tatra) [situated](sthitā) [deity](devatā)+[self](ātmā) [she](sā) [power](śaktiḥ) [by-all](sarva)+[worshipped](pūjitā)
 
 ## mukta-m0-p34-v831
-[then](tataśca) [practitioner](sādhakaḥ) [best](śreṣṭho) [should-adorn](mūṣayed)+[with-many+ornaments](bahubhūṣaṇaiḥ)
+[then](tataḥ)+[and](ca) [practitioner](sādhakaḥ) [best](śreṣṭho) [should-adorn](mūṣayed)+[with-many](bahu)+[ornaments](bhūṣaṇaiḥ)
 
 ## mukta-m0-p34-v832
-[guru+devotion+engaged](gurubhaktiratāṃ) [O-goddess](devi) [kula+practice+devoted](kulasādhanatatparām)
+[in-guru](guru)+[devotion](bhakti)+[engaged](ratāṃ) [O-goddess](devi) [in-kula](kula)+[practice](sādhana)+[devoted](tatparām)
 
 ## mukta-m0-p34-v833
-[having-brought](ānīya) [with-great+effort](bahuyatnena) [caste+distinction](jātibhedaṃ) [not](na) [one-should-make](cācaret)
+[having-brought](ānīya) [with-great](bahu)+[effort](yatnena) [birth](jāti)+[distinction](bhedaṃ) [not](na) [one-should-make](cācaret)
 
 ## mukta-m0-p34-v834
-[or](athavā) [by-drink+delighted](pānasaṃhṛṣṭāṃ) [in-circle+middle](cakramadhye) [one-should-bring](samānayet)
+[or](athavā) [by-drink](pāna)+[delighted](saṃhṛṣṭāṃ) [in-circle](cakra)+[middle](madhye) [one-should-bring](samānayet)
 
 ## mukta-m0-p34-v835
-[or](athavā) [woman+near](strīsamīpe) [or](vā) [diagram](yantraṃ) [having-made](kṛtvā) [one-should-worship](prapūjayet)
+[or](athavā) [woman](strī)+[near](samīpe) [or](vā) [diagram](yantraṃ) [having-made](kṛtvā) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p34-v836
-[near-her](tatsamīpe) [made](kṛtaṃ) [diagram](yantraṃ) [by-her+command+state+respect](tadājñābhāvamānataḥ)
+[near-her](tat)+[near](samīpe) [made](kṛtaṃ) [diagram](yantraṃ) [by-her](tad)+[command](ājñā)+[respect](bhāva)+[mānataḥ](mānataḥ)
 
 ## mukta-m0-p34-v837
-[than-kāmarūpa](kāmarūpāt) [hundred+times](śataguṇaṃḥ) [declared](samudīritam)+[imperishable](avyayam)
+[than-Kāmarūpa](kāmarūpāt) [hundred](śata)+[times](guṇaṃḥ) [declared](samudīritam)+[imperishable](avyayam)
 
 ## mukta-m0-p34-v838
-[kula+devoted](kulaniṣṭhaśca) [and-brahmin](vipraśca) [her](tasyāḥ) [purification](śuddhiṃ) [not](na) [one-should-perform](cācaret)
+[kula](kula)+[steadfast](niṣṭhaḥ)+[and](ca) [brahmin](vipraḥ)+[and](ca) [her](tasyāḥ) [purification](śuddhiṃ) [not](na) [one-should-perform](cācaret)
 
 ## mukta-m0-p34-v839
-[one-should-purify](śodhayet) [supreme+power](paraśaktiñca) [duality+self+oneness+cause](dvitvātmaikatvahetave)
+[one-should-purify](śodhayet) [supreme](para)+[power](śaktiñ)+[and](ca) [duality](dvitva)+[self](ātma)+[oneness](eka+tva)+[for-the-sake-of](hetave)
 
 ## mukta-m0-p34-v840
-[in-gaṅgā+sinless](gaṅgāyāmanadhaṃ]) [as](yathā)
+[in-Gaṅgā](gaṅgāyām)+[unharmed](anadhaṃ)] [as](yathā)
 
 ## mukta-m0-p34-v841
-[power+purification](śaktiśuddhiḥ) [to-be-done](prakartavyā) [when+one+self](yadaikātmā) [not](na) [if](cet) [O-śiva](śive)
+[power](śakti)+[purification](śuddhiḥ) [to-be-done](prakartavyā) [when](yadā)+[one](eka)+[self](ātmā) [not](na) [if](cet) [O-Śiva](śive)
 
 ## mukta-m0-p34-v842
-[self+purification](ātmaśuddhe) [power+purification](śaktiśuddhiḥ)+[of-him](tasya) [success+far](siddhidūrataḥ)
+[self](ātma)+[purification](śuddhe) [j:]( [j:) [ātmaśuddhiḥ](ātmaśuddhiḥ)](]) [power](śakti)+[purification](śuddhiḥ)+[of-him](tasya) [success](siddhi)+[far](dūrataḥ)
 
 ## mukta-m0-p34-v843
-[of-power+fault](śakterdoṣaṃ) [then](tadā) [where](kutra) [oneself](svayaṃ) [there+indeed](tatraiva) [dissolution](saṃlayaḥ)
+[of-power](śakteḥ)+[fault](doṣaṃ) [then](tadā) [where](kutra) [oneself](svayaṃ) [there](tatra)+[indeed](eva) [dissolution](saṃlayaḥ)
 
 ## mukta-m0-p34-v844
-[of-him](tasya) [purification](śuddhiḥ) [how](kathaṃ) [O-lovely-one](bhadre) [by-mind](manasā) [contemplation](cintanaṃ) [if](yadi)
+[of-him](tasya) [purification](śuddhiḥ) [how](kathaṃ) [O-fair-one](bhadre) [by-mind](manasā) [contemplation](cintanaṃ) [g:]( [g:) [cintaya](cintaya)](]) [if](yadi)
 
 ## mukta-m0-p34-v845
-[jāhnavī](jāhnavī) [yamunā](yamunā) [vāṇī](vāṇī) [always](sadā) [shines](bhātīti) [by-knowledge](jñānataḥ)
+[Jāhnavī](jāhnavī) [Yamunā](yamunā) [speech](vāṇī) [g:]( [g:) [vāri](vāri)](]) [always](sadā) [shines](bhāti)+[thus](iti) [by-knowledge](jñānataḥ)
 
 ## mukta-m0-p34-v846
-[that+purification](sāśuddhiśced) [would-be](bhaveddeva) [then+impurity](tadāśuddhiśca) [deity](devatā)
+[she](sā)+[impure](aśuddhiḥ)+[if](cet) [would-be](bhaved)+[goddess](deva) [then](tadā)+[impure](aśuddhiḥ)+[and](ca) [deity](devatā)
 
 ## mukta-m0-p34-v847
-[by-mind](manasā) [if](cet) [not](na) [purification](śuddhiḥ) [would-be](syān)+[mantra+purification](mantraśuddhiḥ) [very-far](sudūrataḥ)
+[by-mind](manasā) [if](cet) [not](na) [purification](śuddhiḥ) [would-be](syān)+[mantra](mantra)+[purification](śuddhiḥ) [very-far](sudūrataḥ)
 
 ## mukta-m0-p34-v848
-[complete+circle](pūrṇacakraṃ) [not+if](nacet) [there](tatra) [complete+bliss](pūrṇānandaṃ) [not+if](naced) [because](yataḥ)
+[complete](pūrṇa)+[circle](cakraṃ) [not](na)+[if](cet) [there](tatra) [complete](pūrṇa)+[bliss](ānandaṃ) [not](na)+[if](cet) [because](yataḥ)
 
 ## mukta-m0-p34-v849
-[having-bowed](praṇamya) [with-deity+awareness](devatāvuddhyā) [enjoyment+vessel](bhogapātraṃ) [one-should-offer](pradāpayet)
+[having-bowed](praṇamya) [deity](devatā)+[as-consciousness](buddhyā) [enjoyment](bhoga)+[vessel](pātraṃ) [one-should-offer](pradāpayet)
 
 ## mukta-m0-p34-v850
-[high-breasted](uccastanīṃ) [desire+delighting](kāmaratāṃ) [and-widow](vidhavāñca) [one-should-worship](prapūjayet)
+[high](ucca)+[breasted](stanīṃ) [in-love](kāma)+[delighting](ratāṃ) [widow](vidhavāñ)+[and](ca) [one-should-worship](prapūjayet)

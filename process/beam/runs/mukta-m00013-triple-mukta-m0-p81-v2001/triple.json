@@ -1,0 +1,1115 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2001,
+   "rows": [
+    {
+     "surface": "pratyekena",
+     "gloss": "each",
+     "grounds": "individually, one by one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bilvapatraiḥ",
+     "gloss": "with-bilva-leaves",
+     "grounds": "instrument of worship; compound bilva+patra",
+     "morph": "n.ins.pl (compound: bilva+patra)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.act.opt √pūj"
+    }
+   ],
+   "question": "What alternative offering permits worship using individual bilva leaves?",
+   "premises": [
+    "Worship may be performed individually.",
+    "Bilva leaves serve as offerings.",
+    "The instruction addresses the goddess."
+   ],
+   "inference": "One may alternatively worship by offering bilva leaves individually.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, alternatively one should worship by offering each bilva leaf individually."
+  },
+  {
+   "verse": 2002,
+   "rows": [
+    {
+     "surface": "śālagrāmaśilām",
+     "gloss": "śālagrāma-stone",
+     "grounds": "sacred stone object of worship; compound śālagrāma+śilā",
+     "morph": "f.acc.sg (compound: śālagrāma+śilā)"
+    },
+    {
+     "surface": "ekāṃ",
+     "gloss": "one",
+     "grounds": "single instance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gṛhasthaḥ",
+     "gloss": "householder",
+     "grounds": "person in householder stage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.act.opt √pūj"
+    }
+   ],
+   "question": "May a householder worship using only a single śālagrāma stone?",
+   "premises": [
+    "A householder is the worshipper.",
+    "The object is one śālagrāma stone.",
+    "Worship of that single stone is prescribed."
+   ],
+   "inference": "Even a householder may worship a single śālagrāma stone.",
+   "uncertainties": [],
+   "plain_english": "Even a householder may worship a single śālagrāma stone."
+  },
+  {
+   "verse": 2003,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrvayā",
+     "gloss": "with-dūrvā-grass",
+     "grounds": "prohibited offering material",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual act of worship",
+     "morph": "3.sg.act.opt √yaj"
+    },
+    {
+     "surface": "durgāṃ",
+     "gloss": "durgā",
+     "grounds": "deity receiving worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bilvapatraiḥ",
+     "gloss": "with-bilva-leaves",
+     "grounds": "prohibited offering material; compound bilva+patra",
+     "morph": "n.ins.pl (compound: bilva+patra)"
+    },
+    {
+     "surface": "divākaram",
+     "gloss": "sun-god",
+     "grounds": "deity receiving worship",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which offerings are prohibited when worshipping Durgā and the sun-god?",
+   "premises": [
+    "Dūrvā grass is mentioned with negated worship of Durgā.",
+    "Bilva leaves are mentioned with the sun-god.",
+    "The verse states ritual prohibitions."
+   ],
+   "inference": "One should not worship Durgā with dūrvā grass nor the sun-god with bilva leaves.",
+   "uncertainties": [],
+   "plain_english": "One should not worship Durgā with dūrvā grass, nor the sun-god with bilva leaves."
+  },
+  {
+   "verse": 2004,
+   "rows": [
+    {
+     "surface": "unmatta",
+     "gloss": "dhattūra",
+     "grounds": "plant/flower name used as offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "markapuṣpam",
+     "gloss": "arka-flower",
+     "grounds": "flower offering; compound marka+puṣpa",
+     "morph": "n.nom.sg (compound: marka+puṣpa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects prohibited items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "for-viṣṇu",
+     "grounds": "deity in whose worship items are avoided",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "varjya",
+     "gloss": "to-be-avoided",
+     "grounds": "ritual prohibition",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "unconditional applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "agents who observe the rule",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which flowers must the wise always avoid in Viṣṇu worship?",
+   "premises": [
+    "Dhattūra and arka flowers are named.",
+    "The context is worship of Viṣṇu.",
+    "The wise must always avoid them."
+   ],
+   "inference": "The wise should always avoid dhattūra and arka flowers in the worship of Viṣṇu.",
+   "uncertainties": [
+    "marka interpreted as arka based on legacy hint and common usage"
+   ],
+   "plain_english": "The wise should always avoid dhattūra and arka flowers in the worship of Viṣṇu."
+  },
+  {
+   "verse": 2005,
+   "rows": [
+    {
+     "surface": "vilvapatraiḥ",
+     "gloss": "with-bilva-leaves",
+     "grounds": "offering material; compound vilva+patra",
+     "morph": "n.ins.pl (compound: vilva+patra)"
+    },
+    {
+     "surface": "tatprasūnaiḥ",
+     "gloss": "with-its-flowers",
+     "grounds": "flowers of the same plant; compound tat+prasūna",
+     "morph": "n.ins.pl (compound: tat+prasūna)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual act of worship",
+     "morph": "3.sg.act.opt √arc"
+    },
+    {
+     "surface": "devakīsutam",
+     "gloss": "devakī-son",
+     "grounds": "epithet of Kṛṣṇa; compound devakī+suta",
+     "morph": "m.acc.sg (compound: devakī+suta)"
+    }
+   ],
+   "question": "Are bilva leaves and bilva flowers forbidden in worship of Kṛṣṇa?",
+   "premises": [
+    "Bilva leaves are mentioned as offerings.",
+    "Bilva flowers are mentioned as offerings.",
+    "Worship of Devakī's son is negated with them."
+   ],
+   "inference": "One should not worship the son of Devakī with bilva leaves or bilva flowers.",
+   "uncertainties": [],
+   "plain_english": "One should not worship the son of Devakī with bilva leaves or with its flowers."
+  },
+  {
+   "verse": 2006,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative reference to prior rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bilvavidhānaṃ",
+     "gloss": "bilva-rule",
+     "grounds": "prescribed rule regarding bilva; compound bilva+vidhāna",
+     "morph": "n.nom.sg (compound: bilva+vidhāna)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative reference to the rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vihitapuṣpābhāve",
+     "gloss": "in-absence-of-prescribed-flowers",
+     "grounds": "condition when prescribed flowers are unavailable; compound vihita+puṣpa+abhāva",
+     "morph": "m.loc.sg (compound: vihita+puṣpa+abhāva)"
+    }
+   ],
+   "question": "Under what condition does the stated bilva rule apply?",
+   "premises": [
+    "A rule concerning bilva has been stated.",
+    "The condition mentioned is absence of prescribed flowers.",
+    "The rule is linked to that condition."
+   ],
+   "inference": "The stated bilva rule applies in the absence of prescribed flowers.",
+   "uncertainties": [],
+   "plain_english": "Thus, that rule regarding bilva applies in the absence of the prescribed flowers."
+  },
+  {
+   "verse": 2007,
+   "rows": [
+    {
+     "surface": "ghusṛṇaṃ",
+     "gloss": "saffron",
+     "grounds": "substance to be avoided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "white-lotus",
+     "grounds": "flower to be avoided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "red-colored item to be avoided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hayārim",
+     "gloss": "horse-enemy",
+     "grounds": "plant/flower name; compound haya+ari",
+     "morph": "m.acc.sg (compound: haya+ari)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items in list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "ritual prohibition",
+     "morph": "3.sg.act.opt √sṛj with vi"
+    }
+   ],
+   "question": "Which substances and flowers must be avoided in worship?",
+   "premises": [
+    "Saffron, white lotus, a red item, and hayāri are listed.",
+    "The verb indicates they should be set aside or avoided.",
+    "The list forms a prohibition."
+   ],
+   "inference": "One should avoid saffron, white lotus, red items, and hayāri.",
+   "uncertainties": [
+    "Exact identity of hayāri and the referent of raktaṃ are context-dependent"
+   ],
+   "plain_english": "One should avoid saffron, white lotus, red items, and hayāri."
+  },
+  {
+   "verse": 2008,
+   "rows": [
+    {
+     "surface": "vāsobhiḥ",
+     "gloss": "with-garments",
+     "grounds": "cloth used to carry flowers",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "saṃbhṛtaṃ",
+     "gloss": "collected",
+     "grounds": "gathered together",
+     "morph": "n.acc.sg (past participle)"
+    },
+    {
+     "surface": "nītaṃ",
+     "gloss": "brought",
+     "grounds": "carried to the place of worship",
+     "morph": "n.acc.sg (past participle)"
+    },
+    {
+     "surface": "matimān",
+     "gloss": "the-wise-one",
+     "grounds": "discerning worshipper",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "ritual act of worship",
+     "morph": "3.sg.act.opt √arc"
+    },
+    {
+     "surface": "śive",
+     "gloss": "to-śiva",
+     "grounds": "deity receiving worship",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "May flowers collected and carried in garments be offered to Śiva?",
+   "premises": [
+    "Flowers collected and brought in garments are described.",
+    "The wise person is the agent.",
+    "Worship of Śiva with them is negated."
+   ],
+   "inference": "The wise person should not worship Śiva with flowers collected and brought in garments.",
+   "uncertainties": [],
+   "plain_english": "The wise person should not worship Śiva with flowers collected and brought in garments."
+  },
+  {
+   "verse": 2009,
+   "rows": [
+    {
+     "surface": "svayaṃ+vikasitaiḥ",
+     "gloss": "with-self-bloomed",
+     "grounds": "flowers that bloomed naturally; compound svayam+vikasita",
+     "morph": "n.ins.pl (compound: svayam+vikasita)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣeṇa",
+     "gloss": "by-a-person",
+     "grounds": "agent implied in interpretation",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "svayaṃ+vikāsitaiḥ",
+     "gloss": "with-self-bloomed",
+     "grounds": "variant form of self-bloomed; compound svayam+vikāsita",
+     "morph": "n.ins.pl (compound: svayam+vikāsita)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "explanation of the term",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the term for self-bloomed flowers explained in this context?",
+   "premises": [
+    "The expression svayaṃ+vikasitaiḥ is cited.",
+    "A related form svayaṃ+vikāsitaiḥ is given.",
+    "The verse states this as the meaning."
+   ],
+   "inference": "The meaning of self-bloomed flowers is clarified by equating the cited forms.",
+   "uncertainties": [
+    "The precise grammatical distinction between the two cited forms is not fully explicit"
+   ],
+   "plain_english": "The meaning is that flowers should be self-bloomed, as indicated by the cited expressions."
+  },
+  {
+   "verse": 2010,
+   "rows": [
+    {
+     "surface": "bhūgataṃ",
+     "gloss": "ground-fallen",
+     "grounds": "flower that has fallen to the ground; compound bhū+gata",
+     "morph": "n.acc.sg (compound: bhū+gata)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "ritual prohibition",
+     "morph": "3.sg.act.opt √vṛj"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "general offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śephālīṃ",
+     "gloss": "śephālī",
+     "grounds": "specific flower exempted",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vakulaṃ",
+     "gloss": "bakula",
+     "grounds": "specific flower exempted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "except",
+     "grounds": "exclusion from prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which fallen flowers remain acceptable despite the general prohibition?",
+   "premises": [
+    "Flowers fallen on the ground should generally be avoided.",
+    "Śephālī and bakula are named as exceptions.",
+    "The exception is marked by 'except'."
+   ],
+   "inference": "One should avoid ground-fallen flowers except śephālī and bakula.",
+   "uncertainties": [],
+   "plain_english": "One should avoid flowers that have fallen on the ground, except for śephālī and bakula."
+  },
+  {
+   "verse": 2011,
+   "rows": [
+    {
+     "surface": "tamālasya",
+     "gloss": "of-tamāla",
+     "grounds": "plant whose flowers are considered",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmasya",
+     "gloss": "of-lotus",
+     "grounds": "flower whose condition is considered",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "chinnabhinne",
+     "gloss": "cut-broken",
+     "grounds": "damaged condition; compound chinna+bhinna",
+     "morph": "n.nom.du (compound: chinna+bhinna)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of fault",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣyati",
+     "gloss": "is-faulty",
+     "grounds": "ritual defect",
+     "morph": "3.sg.act.pres √duṣ"
+    }
+   ],
+   "question": "Are cut or broken tamāla and lotus flowers considered ritually defective?",
+   "premises": [
+    "Tamāla and lotus are specified.",
+    "Their cut or broken condition is mentioned.",
+    "Fault is explicitly negated."
+   ],
+   "inference": "Cut or broken tamāla and lotus flowers are not considered faulty.",
+   "uncertainties": [],
+   "plain_english": "Cut or broken flowers of tamāla and lotus are not considered defective."
+  },
+  {
+   "verse": 2012,
+   "rows": [
+    {
+     "surface": "dinaikaṃ",
+     "gloss": "for-one-day",
+     "grounds": "duration of suitability; compound dina+eka",
+     "morph": "n.acc.sg (compound: dina+eka)"
+    },
+    {
+     "surface": "karavīrāṇi",
+     "gloss": "oleander-flowers",
+     "grounds": "specific flowers whose suitability is stated",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yogyāni",
+     "gloss": "suitable",
+     "grounds": "fit for ritual use",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapodhana",
+     "gloss": "o-ascetic",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg (compound: tapas+dhana)"
+    }
+   ],
+   "question": "For how long do oleander flowers remain suitable for worship?",
+   "premises": [
+    "Oleander flowers are the subject.",
+    "Their suitability is affirmed.",
+    "The duration specified is one day."
+   ],
+   "inference": "Oleander flowers remain suitable for worship for one day.",
+   "uncertainties": [],
+   "plain_english": "O ascetic, oleander flowers remain suitable for one day."
+  },
+  {
+   "verse": 2013,
+   "rows": [
+    {
+     "surface": "nirmālyabhūtaiḥ",
+     "gloss": "with-remnant-become",
+     "grounds": "flowers that have become remnants; compound nirmālya+bhūta",
+     "morph": "n.ins.pl (compound: nirmālya+bhūta)"
+    },
+    {
+     "surface": "kusumaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "offering material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ucchiṣṭaiḥ",
+     "gloss": "with-leftovers",
+     "grounds": "ritually used or leftover items",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg (compound: parama+īśvarī)"
+    }
+   ],
+   "question": "What kinds of used flowers are addressed to the supreme goddess here?",
+   "premises": [
+    "Flowers that have become remnants are mentioned.",
+    "Leftover flowers are mentioned.",
+    "The supreme goddess is addressed."
+   ],
+   "inference": "The verse refers to remnant and leftover flowers in address to the supreme goddess.",
+   "uncertainties": [
+    "The prohibitive verb is implied from context rather than stated in this verse"
+   ],
+   "plain_english": "O Supreme Goddess, with flowers that have become remnants and with leftover flowers..."
+  },
+  {
+   "verse": 2014,
+   "rows": [
+    {
+     "surface": "tulasīghrāṇamātreṇa",
+     "gloss": "by-tulasī-smelling-only",
+     "grounds": "mere smelling of tulasī; compound tulasī+ghrāṇa+mātra",
+     "morph": "n.ins.sg (compound: tulasī+ghrāṇa+mātra)"
+    },
+    {
+     "surface": "kruddhā",
+     "gloss": "angry",
+     "grounds": "state of displeasure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.pres √bhū"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "beautiful-one",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What reaction does the beautiful goddess have to merely smelling tulasī?",
+   "premises": [
+    "The act described is merely smelling tulasī.",
+    "The goddess is called the beautiful one.",
+    "She becomes angry as a result."
+   ],
+   "inference": "The beautiful goddess becomes angry from merely smelling tulasī.",
+   "uncertainties": [],
+   "plain_english": "The beautiful goddess becomes angry merely from smelling tulasī."
+  },
+  {
+   "verse": 2015,
+   "rows": [
+    {
+     "surface": "mahādevyai",
+     "gloss": "to-the-great-goddess",
+     "grounds": "deity for whom welfare is sought; compound mahā+devī",
+     "morph": "f.dat.sg (compound: mahā+devī)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "icchet",
+     "gloss": "one-desires",
+     "grounds": "wish or intention",
+     "morph": "3.sg.act.opt √iṣ"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "good",
+     "grounds": "auspicious welfare",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-oneself",
+     "grounds": "one's own welfare",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What condition links one's desire for welfare to the great goddess?",
+   "premises": [
+    "The great goddess is the recipient context.",
+    "A person may desire good for oneself.",
+    "The statement is conditional."
+   ],
+   "inference": "If one desires one's own welfare in relation to the great goddess, certain conduct follows.",
+   "uncertainties": [
+    "The consequent prohibition is completed in the following verse"
+   ],
+   "plain_english": "If one desires one's own welfare in relation to the great goddess..."
+  },
+  {
+   "verse": 2016,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual act of worship",
+     "morph": "3.sg.act.opt √arc"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevīṃ",
+     "gloss": "the-great-goddess",
+     "grounds": "deity receiving worship; compound mahā+devī",
+     "morph": "f.acc.sg (compound: mahā+devī)"
+    },
+    {
+     "surface": "kuśakāśodbhavena",
+     "gloss": "with-kuśa-kāśa-produced",
+     "grounds": "item made from kuśa and kāśa grass; compound kuśa+kāśa+udbhava",
+     "morph": "n.ins.sg (compound: kuśa+kāśa+udbhava)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What material must be avoided when worshipping the great goddess for one's welfare?",
+   "premises": [
+    "The context is worship of the great goddess.",
+    "An item produced from kuśa and kāśa is mentioned.",
+    "Worship with it is negated."
+   ],
+   "inference": "One should not worship the great goddess with anything produced from kuśa and kāśa grass.",
+   "uncertainties": [],
+   "plain_english": "One should not worship the great goddess with anything produced from kuśa and kāśa grass."
+  },
+  {
+   "verse": 2017,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of fault-finding",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūṣyet",
+     "gloss": "one-should-fault",
+     "grounds": "declare ritually defective",
+     "morph": "3.sg.act.opt √duṣ"
+    },
+    {
+     "surface": "chinna-bhinnam",
+     "gloss": "cut-broken",
+     "grounds": "damaged condition; compound chinna+bhinna",
+     "morph": "n.acc.sg (compound: chinna+bhinna)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātīpuṣpam",
+     "gloss": "jasmine-flower",
+     "grounds": "specific flower; compound jātī+puṣpa",
+     "morph": "n.acc.sg (compound: jātī+puṣpa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkari",
+     "gloss": "o-śaṅkarī",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is a cut or broken jasmine flower considered defective for Śaṅkarī?",
+   "premises": [
+    "A jasmine flower is specified.",
+    "Its cut or broken condition is mentioned.",
+    "Faulting it is negated in address to Śaṅkarī."
+   ],
+   "inference": "One should not consider a cut or broken jasmine flower defective, O Śaṅkarī.",
+   "uncertainties": [],
+   "plain_english": "O Śaṅkarī, one should not regard a cut or broken jasmine flower as defective."
+  },
+  {
+   "verse": 2018,
+   "rows": [
+    {
+     "surface": "bilvaiḥ",
+     "gloss": "with-bilva-leaves",
+     "grounds": "offering material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "marūvakādyaiḥ",
+     "gloss": "with-maruvaka-etc",
+     "grounds": "maruvaka and similar items; compound marūvaka+ādi",
+     "morph": "n.ins.pl (compound: marūvaka+ādi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulasīdalavarjitaiḥ",
+     "gloss": "with-tulasī-leaf-devoid",
+     "grounds": "excluding tulasī leaves; compound tulasī+dala+varjita",
+     "morph": "n.ins.pl (compound: tulasī+dala+varjita)"
+    }
+   ],
+   "question": "Which leaves are included and which excluded in this offering list?",
+   "premises": [
+    "Bilva leaves are included.",
+    "Maruvaka and similar items are included.",
+    "Tulasī leaves are explicitly excluded."
+   ],
+   "inference": "Offerings may include bilva and maruvaka and others, but must exclude tulasī leaves.",
+   "uncertainties": [
+    "The governing verb is carried over from surrounding verses"
+   ],
+   "plain_english": "With bilva leaves and maruvaka and the like, but excluding tulasī leaves."
+  },
+  {
+   "verse": 2019,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "concessive particle; compound tathā+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "of-them",
+     "grounds": "refers to previously mentioned rules",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "niyamaḥ",
+     "gloss": "restriction",
+     "grounds": "binding rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripurādau",
+     "gloss": "in-tripura-etc",
+     "grounds": "in worship of Tripurā and related deities; compound tripurā+ādi",
+     "morph": "m.loc.sg (compound: tripurā+ādi)"
+    }
+   ],
+   "question": "Do these restrictions apply in the worship of Tripurā and related deities?",
+   "premises": [
+    "Prior restrictions have been stated.",
+    "The context named is Tripurā and others.",
+    "The restriction is negated for that context."
+   ],
+   "inference": "Even so, that restriction does not apply in the worship of Tripurā and related deities.",
+   "uncertainties": [],
+   "plain_english": "Even so, that restriction does not apply in the worship of Tripurā and related deities."
+  },
+  {
+   "verse": 2020,
+   "rows": [
+    {
+     "surface": "itarāsām",
+     "gloss": "of-others",
+     "grounds": "other goddesses or deities",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāyāṃ",
+     "gloss": "in-worship",
+     "grounds": "ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tadasattve",
+     "gloss": "in-its-absence",
+     "grounds": "when the item is absent; compound tad+asattva",
+     "morph": "n.loc.sg (compound: tad+asattva)"
+    },
+    {
+     "surface": "sattve",
+     "gloss": "in-existence",
+     "grounds": "when the item is present",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of fault",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "ritual defect",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there any fault in other worship whether the specified item is present or absent?",
+   "premises": [
+    "The context is worship of other deities.",
+    "Both absence and presence of the item are considered.",
+    "Fault is negated in either case."
+   ],
+   "inference": "In the worship of others, there is no fault whether the item is absent or present.",
+   "uncertainties": [
+    "The specific item referred to by tad is understood from prior context"
+   ],
+   "plain_english": "In the worship of other deities, there is no fault whether that item is absent or present."
+  },
+  {
+   "verse": 2021,
+   "rows": [
+    {
+     "surface": "niṣedhaparam",
+     "gloss": "prohibition-purport",
+     "grounds": "having prohibition as its main intent; compound niṣedha+para",
+     "morph": "n.nom.sg (compound: niṣedha+para)"
+    }
+   ],
+   "question": "What is the primary purport of the statement under discussion?",
+   "premises": [
+    "The statement is characterized by its purport.",
+    "Its purport is identified as prohibition.",
+    "No other purport is stated."
+   ],
+   "inference": "The statement is primarily intended as a prohibition.",
+   "uncertainties": [
+    "The exact statement referred to is supplied by immediate context"
+   ],
+   "plain_english": "Its purport is prohibition."
+  },
+  {
+   "verse": 2022,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of an alternative purport",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyādiniṣedhaparam",
+     "gloss": "arghya-etc-prohibition-purport",
+     "grounds": "not intended to prohibit arghya and similar items; compound arghya+ādi+niṣedha+para",
+     "morph": "n.nom.sg (compound: arghya+ādi+niṣedha+para)"
+    }
+   ],
+   "question": "Does the prohibition extend to arghya and similar ritual items?",
+   "premises": [
+    "A possible purport would prohibit arghya and similar items.",
+    "That purport is explicitly negated.",
+    "The contrast limits the scope of prohibition."
+   ],
+   "inference": "The statement is not intended to prohibit arghya and similar items.",
+   "uncertainties": [],
+   "plain_english": "But it is not intended as a prohibition of arghya and similar items."
+  },
+  {
+   "verse": 2023,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to the established manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrvayā",
+     "gloss": "with-dūrvā-grass",
+     "grounds": "prohibited offering material",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual act of worship",
+     "morph": "3.sg.act.opt √yaj"
+    },
+    {
+     "surface": "durgām",
+     "gloss": "durgā",
+     "grounds": "deity receiving worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-etc",
+     "grounds": "indicates continuation of similar statements; compound iti+ādi",
+     "morph": "(indecl.) (compound: iti+ādi)"
+    }
+   ],
+   "question": "How is the earlier prohibition about worshipping Durgā with dūrvā reiterated?",
+   "premises": [
+    "The verse cites not worshipping Durgā with dūrvā.",
+    "The citation is marked as an example and so forth.",
+    "It refers back to the established rule."
+   ],
+   "inference": "The prohibition against worshipping Durgā with dūrvā is reiterated as an example of such rules.",
+   "uncertainties": [],
+   "plain_english": "Thus, one should not worship Durgā with dūrvā grass, and so on."
+  },
+  {
+   "verse": 2024,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīkramīyavākyāt",
+     "gloss": "from-śrīkrama-statement",
+     "grounds": "source citation from a Śrīkrama text; compound śrī+krama+īya+vākya",
+     "morph": "n.abl.sg (compound: śrī+krama+īya+vākya)"
+    }
+   ],
+   "question": "From which textual tradition is the preceding rule cited?",
+   "premises": [
+    "A concluding quotation marker is present.",
+    "The source is named as a Śrīkrama statement.",
+    "The ablative indicates derivation from that source."
+   ],
+   "inference": "The preceding rule is cited from a statement of the Śrīkrama tradition.",
+   "uncertainties": [
+    "The specific Śrīkrama text is not identified"
+   ],
+   "plain_english": "Thus, according to a statement from the Śrīkrama tradition."
+  }
+ ]
+}
