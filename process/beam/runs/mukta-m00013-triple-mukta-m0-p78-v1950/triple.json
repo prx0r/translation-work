@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "su+dṛḍhaṃ",
+     "gloss": "very-firm",
+     "grounds": "intensifying prefix su- with adjective dṛḍha; qualifies sādhakaṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "sādhakaṃ",
+     "gloss": "practitioner",
+     "grounds": "object of matvā",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "having-considered",
+     "grounds": "absolutive expressing prior assessment",
+     "morph": "gerund(√man)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "main verb of the clause",
+     "morph": "3.sg.pres.act(√yā)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "subject, referring to the goddess previously mentioned",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "o-practitioner",
+     "grounds": "direct address to the practitioner",
+     "morph": "n.voc.sg.m"
+    },
+    {
+     "surface": "ālayam",
+     "gloss": "abode",
+     "grounds": "destination of yāti",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What assessment of the practitioner prompts the goddess to visit his abode?",
+   "premises": [
+    "The goddess evaluates the practitioner.",
+    "The practitioner is judged to be very firm.",
+    "Upon this judgment, the goddess goes to an abode."
+   ],
+   "inference": "Recognizing the practitioner as very firm, the goddess comes to his abode.",
+   "uncertainties": [
+    "The referent of ālayam could be the practitioner's dwelling or a ritual seat; context favors the practitioner's place."
+   ],
+   "plain_english": "O practitioner, having judged the practitioner to be very steadfast, she goes to his abode."
+  }
+ ]
+}

@@ -1,0 +1,1345 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1926,
+   "rows": [
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "pronoun of addressed goddess",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "snehena",
+     "gloss": "by-affection",
+     "grounds": "instrument of binding",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-devotion",
+     "grounds": "instrument of binding",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects affection and devotion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaddhaḥ",
+     "gloss": "bound",
+     "grounds": "state of the speaker",
+     "morph": "m.nom.sg (ppp bandh)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What binds the speaker to the supreme goddess?",
+   "premises": [
+    "The speaker addresses the supreme goddess directly.",
+    "The speaker claims to be bound.",
+    "Affection and devotion are the binding forces."
+   ],
+   "inference": "The speaker is bound to the supreme goddess by affection and devotion.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, I am bound by your affection and devotion."
+  },
+  {
+   "verse": 1927,
+   "rows": [
+    {
+     "surface": "prāṇāyāmaṃ",
+     "gloss": "breath-control",
+     "grounds": "yogic practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgañca",
+     "gloss": "and-six-limbed",
+     "grounds": "six-part ritual; sandhi ṣaḍaṅgam+ca",
+     "morph": "compound: ṣaṣ-six+aṅga-limb (n.acc.sg) + ca (indecl.)"
+    },
+    {
+     "surface": "māyayā",
+     "gloss": "by-ritual-power",
+     "grounds": "instrumental means; māyā in ritual context",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction for practice",
+     "morph": "3.sg.act-optative (sam-ā-car)"
+    }
+   ],
+   "question": "Which preparatory practices should the practitioner perform next?",
+   "premises": [
+    "Breath-control is prescribed as a practice.",
+    "A six-limbed ritual is prescribed.",
+    "These are to be performed by ritual power."
+   ],
+   "inference": "The practitioner should then perform breath-control and the six-limbed ritual by ritual power.",
+   "uncertainties": [
+    "māyayā may mean illusion or ritual power depending on context"
+   ],
+   "plain_english": "Then one should perform breath-control and the six-limbed rite by means of māyā."
+  },
+  {
+   "verse": 1928,
+   "rows": [
+    {
+     "surface": "arghyam",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucchiṣṭa",
+     "gloss": "remnant",
+     "grounds": "first member of compound describing substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "raktena",
+     "gloss": "with-red-substance",
+     "grounds": "instrumental substance for offering",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative (dā)"
+    },
+    {
+     "surface": "tasyai",
+     "gloss": "to-her",
+     "grounds": "recipient goddess",
+     "morph": "pron.dat.sg.f"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "time expression",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "repeated for daily recurrence",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What daily offering must be given to the goddess?",
+   "premises": [
+    "An offering is to be given.",
+    "The offering involves remnant red substance.",
+    "The act is to be repeated day after day."
+   ],
+   "inference": "One should give her an offering with the remnant red substance every day.",
+   "uncertainties": [
+    "raktena may refer to blood or red ritual substance"
+   ],
+   "plain_english": "One should give her an offering with the remnant red substance day after day."
+  },
+  {
+   "verse": 1929,
+   "rows": [
+    {
+     "surface": "kāyena",
+     "gloss": "with-body",
+     "grounds": "instrument of worship",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mamasā",
+     "gloss": "with-mind",
+     "grounds": "instrument of worship; form as given",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "with-speech",
+     "grounds": "instrument of worship",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative (pūj)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to prior injunctions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "time expression",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "repeated for daily recurrence",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "By what means should the goddess be worshipped daily?",
+   "premises": [
+    "Worship is enjoined as a daily act.",
+    "Body, mind, and speech are specified as means.",
+    "The worship is to be performed every day."
+   ],
+   "inference": "One should worship her daily with body, mind, and speech.",
+   "uncertainties": [
+    "mamasā appears nonstandard for manasā"
+   ],
+   "plain_english": "And one should worship her day after day with body, mind, and speech."
+  },
+  {
+   "verse": 1930,
+   "rows": [
+    {
+     "surface": "āniśīthaṃ",
+     "gloss": "until-midnight",
+     "grounds": "duration of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra practice injunction",
+     "morph": "3.sg.act-optative (jap)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior action",
+     "morph": "(gerund dā)"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "delightful",
+     "grounds": "quality of offering",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How long and under what condition should the mantra be recited?",
+   "premises": [
+    "Mantra recitation is prescribed.",
+    "A delightful offering must be given beforehand.",
+    "The recitation continues until midnight."
+   ],
+   "inference": "After giving a delightful offering, one should recite the mantra until midnight.",
+   "uncertainties": [],
+   "plain_english": "Having given a delightful offering, one should recite the mantra until midnight."
+  },
+  {
+   "verse": 1931,
+   "rows": [
+    {
+     "surface": "sādhaka+indraḥ",
+     "gloss": "best-practitioner",
+     "grounds": "eminent practitioner",
+     "morph": "compound: sādhaka-practitioner+indra-lord (m.nom.sg)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "goddess seen",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior vision",
+     "morph": "(gerund dṛś)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative (dā)"
+    },
+    {
+     "surface": "arghya",
+     "gloss": "offering",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the best practitioner do upon seeing the goddess?",
+   "premises": [
+    "The best practitioner may see the goddess.",
+    "Seeing her prompts a ritual response.",
+    "An offering and related items are to be given."
+   ],
+   "inference": "Upon seeing her, the best practitioner should then give the offering and so forth.",
+   "uncertainties": [],
+   "plain_english": "Then, having seen her, the best practitioner should also give the offering and so forth."
+  },
+  {
+   "verse": 1932,
+   "rows": [
+    {
+     "surface": "vastra",
+     "gloss": "garment",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūṣa",
+     "gloss": "ornament",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior action",
+     "morph": "(gerund tyaj)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "departure of the goddess",
+     "morph": "3.sg.act-present (yā)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "the goddess",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "possessive modifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mandiram",
+     "gloss": "abode",
+     "grounds": "destination",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What happens after the goddess leaves garments and ornaments behind?",
+   "premises": [
+    "Garments, ornaments, and related items are abandoned.",
+    "The goddess is the agent of departure.",
+    "She returns to her own abode."
+   ],
+   "inference": "After abandoning garments, ornaments, and so forth, she goes to her own abode.",
+   "uncertainties": [],
+   "plain_english": "Having left behind garments, ornaments, and so forth, she goes to her own abode."
+  },
+  {
+   "verse": 1933,
+   "rows": [
+    {
+     "surface": "ātma",
+     "gloss": "own",
+     "grounds": "possessive modifier",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāryāṃ",
+     "gloss": "wife",
+     "grounds": "object to be abandoned",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "prior renunciation",
+     "morph": "(gerund pari-tyaj)"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction",
+     "morph": "3.sg.act-optative (bhaj)"
+    },
+    {
+     "surface": "tāñca",
+     "gloss": "and-her",
+     "grounds": "goddess as object; sandhi tām+ca",
+     "morph": "pron.acc.sg.f + ca (indecl.)"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "the-wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whom must the wise practitioner worship after abandoning his own wife?",
+   "premises": [
+    "The wise practitioner is instructed to abandon his own wife.",
+    "Worship of another female figure is enjoined.",
+    "The instruction is directed to a discerning practitioner."
+   ],
+   "inference": "The wise practitioner, having abandoned his own wife, should worship her.",
+   "uncertainties": [
+    "This is a transgressive ritual injunction requiring careful contextual interpretation"
+   ],
+   "plain_english": "Having abandoned his own wife, the wise one should worship her."
+  },
+  {
+   "verse": 1934,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "possessor in epithet",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāryā",
+     "gloss": "wife",
+     "grounds": "epithet of the mantra or goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "qualifier of mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject identified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "happiness",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āvahaḥ",
+     "gloss": "bringing",
+     "grounds": "effect of the mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What benefit does the great mantra of the fire's wife bring practitioners?",
+   "premises": [
+    "The wife of fire is identified as a great mantra.",
+    "Practitioners are the recipients of its effect.",
+    "The mantra brings happiness."
+   ],
+   "inference": "The great mantra, the wife of fire, brings happiness to practitioners.",
+   "uncertainties": [
+    "vahneḥ bhāryā may refer to Svāhā or a specific goddess"
+   ],
+   "plain_english": "The great mantra, the wife of fire, brings happiness to practitioners."
+  },
+  {
+   "verse": 1935,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(gerund dhyai)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra practice injunction",
+     "morph": "3.sg.act-optative (jap)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niśīthe",
+     "gloss": "at-midnight",
+     "grounds": "time of arrival",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "comes",
+     "grounds": "arrival of the goddess",
+     "morph": "3.sg.act-present (yā)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "the goddess",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result follows meditating and reciting the mantra at midnight?",
+   "premises": [
+    "Meditation and mantra recitation are prescribed.",
+    "The practice is performed in the prescribed manner.",
+    "Midnight is the specified time of manifestation."
+   ],
+   "inference": "Thus meditating and reciting the mantra, she comes at midnight.",
+   "uncertainties": [],
+   "plain_english": "Thus, having meditated and recited the mantra, she comes at midnight."
+  },
+  {
+   "verse": 1936,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāvena",
+     "gloss": "with-attitude",
+     "grounds": "mode of reception",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyai",
+     "gloss": "to-her",
+     "grounds": "recipient goddess",
+     "morph": "pron.dat.sg.f"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative (dā)"
+    },
+    {
+     "surface": "pādya",
+     "gloss": "foot-water",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner receive the goddess upon her arrival?",
+   "premises": [
+    "The goddess arrives at the appointed time.",
+    "She is to be received with the attitude toward a woman.",
+    "Foot-water and related honors are to be offered."
+   ],
+   "inference": "Then, with the attitude toward a woman, one should offer her foot-water and so forth.",
+   "uncertainties": [],
+   "plain_english": "Then, with the attitude due to a woman, one should offer her foot-water and so forth."
+  },
+  {
+   "verse": 1937,
+   "rows": [
+    {
+     "surface": "anna",
+     "gloss": "food",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādyai",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional items",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "rati",
+     "gloss": "sexual",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhogena",
+     "gloss": "with-enjoyment",
+     "grounds": "mode of honoring",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pati+vat",
+     "gloss": "like-husband",
+     "grounds": "manner of conduct",
+     "morph": "compound: pati-husband+vat-like (indecl.)"
+    },
+    {
+     "surface": "pālayeta",
+     "gloss": "one-should-honor",
+     "grounds": "injunction",
+     "morph": "3.sg.act-optative (pāl)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner should the practitioner attend to the goddess?",
+   "premises": [
+    "Food and other offerings are to be provided.",
+    "Sexual enjoyment is included in the service.",
+    "The practitioner should act like a husband."
+   ],
+   "inference": "One should always attend to her like a husband with food and sexual enjoyment.",
+   "uncertainties": [
+    "This is a transgressive ritual injunction requiring careful contextual interpretation"
+   ],
+   "plain_english": "One should always attend to her like a husband, with food and with sexual enjoyment."
+  },
+  {
+   "verse": 1938,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to prescribed practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratidinam",
+     "gloss": "every-day",
+     "grounds": "daily repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "practitioner",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "spiritual attainment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "resultative possibility",
+     "morph": "3.sg.act-optative (as)"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpataḥ",
+     "gloss": "in-form",
+     "grounds": "nature of success",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attainment results from performing this practice every day?",
+   "premises": [
+    "The prescribed practice is performed daily.",
+    "A result is promised to the practitioner.",
+    "The attainment takes the form of desire."
+   ],
+   "inference": "By practicing thus every day, he may attain success in the form of desire.",
+   "uncertainties": [
+    "kāma-rūpataḥ may mean according to desire or in the form of Kāma"
+   ],
+   "plain_english": "Thus, by practicing every day, he may attain success in the form of desire."
+  },
+  {
+   "verse": 1939,
+   "rows": [
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jāyā",
+     "gloss": "wife",
+     "grounds": "epithet of mantra or goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṣṭa+sahastryaṃ",
+     "gloss": "eight-thousand",
+     "grounds": "number of recitations",
+     "morph": "compound: aṣṭa-eight+sahasra-thousand (n.acc.sg)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra practice injunction",
+     "morph": "3.sg.act-optative (jap)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "time expression",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "repeated for daily recurrence",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many times must the fire-wife mantra be recited daily?",
+   "premises": [
+    "The mantra of the fire's wife is specified.",
+    "A specific count of recitations is prescribed.",
+    "The recitation is to be done every day."
+   ],
+   "inference": "One should recite the mantra of the fire's wife eight thousand times every day.",
+   "uncertainties": [
+    "aṣṭa+sahastryaṃ form is unusual; interpreted as eight thousand"
+   ],
+   "plain_english": "One should recite the mantra of the fire's wife eight thousand times day after day."
+  },
+  {
+   "verse": 1940,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "prior recognition",
+     "morph": "(gerund jñā)"
+    },
+    {
+     "surface": "dṛḍhaṃ",
+     "gloss": "firm",
+     "grounds": "quality of practitioner",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sādhaka+indraṃ",
+     "gloss": "best-practitioner",
+     "grounds": "eminent practitioner",
+     "morph": "compound: sādhaka-practitioner+indra-lord (m.acc.sg)"
+    },
+    {
+     "surface": "niśīthe",
+     "gloss": "at-midnight",
+     "grounds": "time of arrival",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "comes",
+     "grounds": "arrival of the goddess",
+     "morph": "3.sg.act-present (yā)"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "certainty of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does the goddess certainly come at midnight?",
+   "premises": [
+    "The goddess recognizes the practitioner.",
+    "The practitioner must be firm and eminent.",
+    "Midnight is the time of her coming."
+   ],
+   "inference": "Knowing the best practitioner to be firm, she certainly comes at midnight.",
+   "uncertainties": [],
+   "plain_english": "Knowing the best practitioner to be firm, she certainly comes at midnight."
+  },
+  {
+   "verse": 1941,
+   "rows": [
+    {
+     "surface": "su+santuṣṭā",
+     "gloss": "very-satisfied",
+     "grounds": "state of the goddess",
+     "morph": "compound: su-very+santuṣṭa-satisfied (f.nom.sg)"
+    },
+    {
+     "surface": "sādhaka+indraṃ",
+     "gloss": "best-practitioner",
+     "grounds": "recipient of pleasure",
+     "morph": "compound: sādhaka-practitioner+indra-lord (m.acc.sg)"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "she-should-please",
+     "grounds": "reciprocal action",
+     "morph": "3.sg.act-optative (tuṣ causative)"
+    },
+    {
+     "surface": "rati",
+     "gloss": "sexual",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhojanaiḥ",
+     "gloss": "with-enjoyments",
+     "grounds": "means of pleasing",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How does the very satisfied goddess please the best practitioner?",
+   "premises": [
+    "The goddess becomes very satisfied.",
+    "She acts to please the best practitioner.",
+    "Sexual enjoyments are the means."
+   ],
+   "inference": "Being very satisfied, she should please the best practitioner with sexual enjoyments.",
+   "uncertainties": [],
+   "plain_english": "Very satisfied, she pleases the best practitioner with sexual enjoyments."
+  },
+  {
+   "verse": 1942,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior renunciation",
+     "morph": "(gerund tyaj)"
+    },
+    {
+     "surface": "bhāryāṃ",
+     "gloss": "wife",
+     "grounds": "object to be abandoned",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction",
+     "morph": "3.sg.act-optative (bhaj)"
+    },
+    {
+     "surface": "āñca",
+     "gloss": "and-her",
+     "grounds": "goddess as object; form as given",
+     "morph": "pron.acc.sg.f + ca (indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "negative consequence",
+     "morph": "3.sg.act-present (naś)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty of consequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence follows if the practitioner does not worship her exclusively?",
+   "premises": [
+    "Abandoning one's wife and worshipping her is enjoined.",
+    "An alternative course of action is considered.",
+    "A certain negative consequence is stated."
+   ],
+   "inference": "Having abandoned his wife he should worship her; otherwise he certainly perishes.",
+   "uncertainties": [
+    "āñca is a nonstandard form for tāñca/enām ca"
+   ],
+   "plain_english": "Having abandoned his wife, he should worship her; otherwise he certainly perishes."
+  },
+  {
+   "verse": 1943,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "scope of welfare",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuśalaṃ",
+     "gloss": "welfare",
+     "grounds": "favorable condition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "prior recognition",
+     "morph": "(gerund jñā)"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "movement of the goddess",
+     "morph": "3.sg.act-present (yā)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "the goddess",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ālayam",
+     "gloss": "abode",
+     "grounds": "destination",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why does the goddess go to the practitioner's abode?",
+   "premises": [
+    "The goddess perceives welfare everywhere.",
+    "This perception precedes her movement.",
+    "She goes to the practitioner's abode."
+   ],
+   "inference": "Knowing welfare everywhere, she goes to the practitioner's abode.",
+   "uncertainties": [],
+   "plain_english": "Knowing welfare everywhere, she goes to the practitioner's abode."
+  },
+  {
+   "verse": 1944,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "prior renunciation",
+     "morph": "(gerund tyaj)"
+    },
+    {
+     "surface": "bhāryāṃ",
+     "gloss": "wife",
+     "grounds": "object to be abandoned",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction",
+     "morph": "3.sg.act-optative (bhaj)"
+    },
+    {
+     "surface": "tāñca",
+     "gloss": "and-her",
+     "grounds": "goddess as object; sandhi tām+ca",
+     "morph": "pron.acc.sg.f + ca (indecl.)"
+    },
+    {
+     "surface": "sādhaka+indraḥ",
+     "gloss": "best-practitioner",
+     "grounds": "eminent practitioner",
+     "morph": "compound: sādhaka-practitioner+indra-lord (m.nom.sg)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What ongoing exclusive devotion is required of the best practitioner?",
+   "premises": [
+    "The best practitioner is addressed directly.",
+    "Abandoning one's wife is required.",
+    "Continuous worship of her is enjoined."
+   ],
+   "inference": "O beloved, the best practitioner, having abandoned his wife, should always worship her.",
+   "uncertainties": [
+    "This is a transgressive ritual injunction requiring careful contextual interpretation"
+   ],
+   "plain_english": "O beloved, having abandoned his wife, the best practitioner should always worship her."
+  },
+  {
+   "verse": 1945,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "prior recognition",
+     "morph": "(gerund jñā)"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to knowledge",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "sādhitā",
+     "gloss": "accomplished",
+     "grounds": "state of the knowledge",
+     "morph": "f.nom.sg (ppp sādh)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "mantric knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "balā",
+     "gloss": "Balā",
+     "grounds": "name of the knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects names",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atibalā",
+     "gloss": "Atibalā",
+     "grounds": "name of the knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which accomplished forms of knowledge are identified to the beloved?",
+   "premises": [
+    "A knowledge is described as accomplished.",
+    "Two names are given for this knowledge.",
+    "The beloved is addressed directly."
+   ],
+   "inference": "O beloved, know the accomplished knowledge called Balā and Atibalā.",
+   "uncertainties": [],
+   "plain_english": "O beloved, know the accomplished knowledge called Balā and Atibalā."
+  },
+  {
+   "verse": 1946,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "qualifier of knowledge",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "mantric knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitāṃ",
+     "gloss": "called",
+     "grounds": "designation",
+     "morph": "f.acc.sg (ppp kath)"
+    },
+    {
+     "surface": "gopanīyā",
+     "gloss": "to-be-concealed",
+     "grounds": "injunction of secrecy",
+     "morph": "f.nom.sg (gerundive gup)"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "manner of concealment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the great knowledge be treated after being named?",
+   "premises": [
+    "The knowledge is called a great knowledge.",
+    "A directive regarding its treatment is given.",
+    "Concealment must be done with effort."
+   ],
+   "inference": "This, called the great knowledge, must be carefully concealed.",
+   "uncertainties": [],
+   "plain_english": "This, called the great knowledge, must be concealed with effort."
+  },
+  {
+   "verse": 1947,
+   "rows": [
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of ritual action",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "totality of actions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "general injunction",
+     "morph": "3.sg.act-optative (kṛ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su+samāhitaḥ",
+     "gloss": "well-concentrated",
+     "grounds": "required mental state",
+     "morph": "compound: su-well+samāhita-collected (m.nom.sg)"
+    }
+   ],
+   "question": "With what mantra and mental state should all rites be performed?",
+   "premises": [
+    "All ritual actions are to be performed.",
+    "The root mantra is the prescribed instrument.",
+    "The practitioner must be well concentrated."
+   ],
+   "inference": "One should perform everything with the root mantra while being well concentrated.",
+   "uncertainties": [],
+   "plain_english": "And, being well concentrated, one should do everything with the root mantra."
+  },
+  {
+   "verse": 1948,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to prescribed method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(gerund dhyai)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra practice injunction",
+     "morph": "3.sg.act-optative (jap)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sahasrañca",
+     "gloss": "and-thousand",
+     "grounds": "number of recitations; sandhi sahasram+ca",
+     "morph": "n.acc.sg + ca (indecl.)"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "time expression",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "repeated for daily recurrence",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How many daily mantra recitations are prescribed after meditation?",
+   "premises": [
+    "Meditation precedes recitation.",
+    "The mantra is to be recited.",
+    "A thousand recitations are prescribed daily."
+   ],
+   "inference": "Thus having meditated, one should recite the mantra a thousand times every day.",
+   "uncertainties": [],
+   "plain_english": "Thus, having meditated, one should recite the mantra a thousand times day after day."
+  },
+  {
+   "verse": 1949,
+   "rows": [
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandalwood",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative (dā)"
+    },
+    {
+     "surface": "tasyai",
+     "gloss": "to-her",
+     "grounds": "recipient goddess",
+     "morph": "pron.dat.sg.f"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "the-wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offerings should the wise practitioner always give to her?",
+   "premises": [
+    "The wise practitioner is the agent.",
+    "Fragrance, sandalwood, and betel are specified.",
+    "These offerings are to be given always."
+   ],
+   "inference": "The wise one should always give her fragrance, sandalwood, and betel.",
+   "uncertainties": [],
+   "plain_english": "The wise one should always give her fragrance, sandalwood, and betel."
+  }
+ ]
+}
