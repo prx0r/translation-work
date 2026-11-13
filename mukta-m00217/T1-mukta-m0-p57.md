@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-cloud-dark (meghaśyāmāḥ) corpse-mounted (śava+ārūḍhāḥ) skull-staff-bearing (kapāla+daṇḍa+dhāriṇaḥ)
+[cloud-dark](meghaśyāmāḥ) [corpse-mounted](śava+ārūḍhāḥ) [skull+staff-holders](kapāla+daṇḍa+dhāriṇaḥ)
 
 ## mukta-m0-p57-v1402
-hear (śṛṇu) I-will-speak (vakṣye) great-goddess (mahādevi) nine-enclosure-worship (nava+āvaraṇa+pūjanam)
+[listen](śṛṇu) [I-shall-tell](vakṣye) [great-goddess](mahādevi) [nine+enclosure+worship](nava+āvaraṇa+pūjanam)
 
 ## mukta-m0-p57-v1403
-then (tataḥ) triangle (trikoṇam) and-eight-petaled (ca+aṣṭāram) ten-petaled (daśāram) and (ca) ten-petaled (daśārakam)
+[then](tatas) [triangle](trikoṇaṃ) [and+eight-spoked](ca+aṣṭāraṃ) [ten-spoked](daśāraṃ) [and](ca) [ten-spoked](daśārakam)
 
 ## mukta-m0-p57-v1404
-from-bindu-to-eight-corner-end (baindava+ad+aṣṭa+koṇa+antam) all-middle-this (sarva+madhya+m+idam) may-be (bhavet)
+[from-bindu](baindavāt) [up-to-eight-cornered](aṣṭa+koṇa+antaṃ) [all+middle](sarva+madhyam) [this](idam) [should-be](bhavet)
 
 ## mukta-m0-p57-v1405
-eight-petaled (vasu+patram) sixteen-petaled (kalā+patram) square (caturasram) in-order (kramāt) dear (priye)
+[eight-petaled](vasu+patraṃ) [sixteen-petaled](kalā+patraṃ) [square](caturasraṃ) [in-order](kramāt) [beloved](priye)
 
 ## mukta-m0-p57-v1406
-sixty-four (catuḥ+ṣaṣṭiḥ) because (yataḥ) crores (koṭyaḥ) of-yoginis (yoginīnām) great-powered (mahā+ojasām)
+[sixty-four](catuṣṣaṣṭiḥ) [because](yataḥ) [crores](koṭyo) [of-yoginīs](yoginīnāṃ) [of-great-power](mahā+ojasām)
 
 ## mukta-m0-p57-v1407
-without (vinā) guru-instruction (guru+upadeśena) practitioner (sādhakam) devour (bhakṣayanti) indeed (hi)
+[without](vinā) [guru+instruction](guru+upadeśena) [practitioner](sādhakaṃ) [they-devour](bhakṣayanti) [indeed](hi)
 
 ## mukta-m0-p57-v1408
-ordinary-vessel-nectar (sāmānya+pātra+sudhayā) worship (pūjayet) accomplishment-deities (siddhi+devatāḥ)
+[with-common+vessel+nectar](sāmānya+pātra+sudhayā) [one-should-worship](pūjayet) [accomplishment-deities](siddhi+devatāḥ)
 
 ## mukta-m0-p57-v1409
-at-gates (dvāreṣu) wind-corner-etc-corners (vāyu+koṇa+ādi+koṇeṣu) indeed (hi) below (adhaḥ) above (ūrdhvataḥ)
+[at-doors](dvāreṣu) [from-northwest-corner](vāyu+koṇa+ādi+koṇeṣu) [indeed](hi) [below](adhaḥ) [above](ūrdhvataḥ)
 
 ## mukta-m0-p57-v1410
-animā (aṇimā) mahimā (mahimā) and-indeed (ca+eva) laghimā (laghimā) garimā (garimā) so (tathā)
+[minuteness](aṇimā) [greatness](mahimā) [and](ca+eva) [lightness](laghimā) [heaviness](garimā) [likewise](tathā)
 
 ## mukta-m0-p57-v1411
-desire (icchā) attainment (prāptiḥ) all-desires (sarva+kāmā) liberation-accomplishment (mokṣa+siddhiḥ) in-order (kramāt) dear (priye)
+[will](icchā) [attainment](prāptiḥ) [fulfillment-of-all-desires](sarva+kāmā) [liberation-accomplishment](mokṣa+siddhiḥ) [in-order](kramāt) [beloved](priye)
 
 ## mukta-m0-p57-v1412
-great-ornament-jewels (mahā+bharaṇa+ratnāni) with-gold (sa+suvarṇāni) indeed (vai) treasures (nidhīn)
+[great+ornament+jewels](mahā+bharaṇa+ratnāni) [with-gold](sa+suvarṇāni) [indeed](vai) [treasures](nidhīn)
 
 ## mukta-m0-p57-v1413
-three-worlds-deluding (trailokya+mohane) wheel (cakre) middle-line-abiding (madhya+rekhā+sama+āśritāḥ)
+[in-three-worlds-enchanting+circle](trailokya+mohane) [cakre](cakre) [resting-on-middle-lines](madhya+rekhā+samāśritāḥ)
 
 ## mukta-m0-p57-v1414
-noose-goad-fear-boon-handed (pāśa+aṃkuśa+abhaya+vara+karāḥ) manifest-forms (prakaṭa+rūpakāḥ)
+[noose+goad+fearlessness+boon-hands](pāśa+aṅkuśa+abhaya+vara+karāḥ) [of-manifest-form](prakaṭa+rūpakāḥ)
 
 ## mukta-m0-p57-v1415
-east-gate-etc-gates (pūrva+dvāra+ādi+dvāreṣu) pure-corner-etc (śuci+koṇa+ādiṣu) in-order (kramāt)
+[from-east-door](pūrva+dvāra+ādi+dvāreṣu) [from-northeast-corner](śuci+koṇa+ādiṣu) [in-order](kramāt)
 
 ## mukta-m0-p57-v1416
-vārāhī (vārāhyā) indrī (aindrī) and (ca) cāmuṇḍā (cāmuṇḍā) mahālakṣmī (mahālakṣmīḥ) in-order (kramāt) dear (priye)
+[Vārāhī](vārāhī) [Indrāṇī](aindrī) [and](ca) [Cāmuṇḍā](cāmuṇḍā) [Mahālakṣmī](mahālakṣmīḥ) [in-order](kramāt) [beloved](priye)
 
 ## mukta-m0-p57-v1417
-kapālī (kapālī) bhīṣaṇa (bhīṣaṇaḥ) and-indeed (ca+eva) saṃhāra (saṃhāraḥ) and (ca) eight (aṣṭa) bhairavas (bhairavāḥ)
+[Kapālī](kapālī) [Bhīṣaṇa](bhīṣaṇaḥ) [and](ca+eva) [Saṃhāra](saṃhāraḥ) [and](ca) [eight](aṣṭa) [Bhairavas](bhairavāḥ)
 
 ## mukta-m0-p57-v1418
-cohāra-seat (cohāra+pīṭham) goddess (deveśi) jālandhara (jālandharam) then (ataḥ) beyond (param)
+[Oḍḍiyāna-seat](cohāra+pīṭhaṃ) [O-lady-of-gods](deveśi) [Jālandhara](jālandharaṃ) [thereafter](ataḥ) [supreme](param)
 
 ## mukta-m0-p57-v1419
-mothers (mātaraḥ) bhairava-lap-seated (bhairava+aṅka+sthāḥ) smiling-faced (smera+vaktrāḥ) intoxicated-languid (madā+alasāḥ)
+[mothers](mātaro) [seated-on-Bhairava's-lap](bhairava+aṅka+sthāḥ) [smiling-faced](smera+vaktrāḥ) [languid-with-intoxication](mada+ālasāḥ)
 
 ## mukta-m0-p57-v1420
-noose-goad-bearing (pāśa+aṃkuśa+dharāḥ) all (sarvāḥ) in-order (krameṇa) holding (dadhatīm) remember (smaret)
+[holding-noose+goad](pāśa+aṅkuśa+dharāḥ) [all](sarvāḥ) [in-order](krameṇa) [holding](dadhatīṃḥ) [one-should-visualize](smaret)
 
 ## mukta-m0-p57-v1421
-vajra-vaidūrya-garland (vajra+vaīdūrya+mālām) and (ca) lotus (padmam) and (ca) boon-giving (vara+dam) so (tathā)
+[thunderbolt+cat's-eye-garland](vajra+vaidūrya+mālāṃ) [and](ca) [lotus](padmaṃ) [and](ca) [boon-giving](varadaṃ) [likewise](tathā)
 
 ## mukta-m0-p57-v1422
-trident (śūlam) skull (kapālam) corpse (pretam) and (ca) bearing (bibhrāṇāḥ) small-drum (kṣudra+dundubhim)
+[trident](śūlaṃ) [skull](kapālaṃ) [corpse](pretaṃ) [and](ca) [bearing](bibhrāṇāḥ) [small-drum](kṣudra+dundubhim)
 
 ## mukta-m0-p57-v1423
-noose-goad-boon-fear-handed (pāśa+aṃkuśa+vara+abhīti+karāḥ) seat-eight-deities (pīṭha+aṣṭa+devatāḥ)
+[noose+goad+boon+fearlessness-hands](pāśa+aṅkuśa+vara+abhīti+karāḥ) [eight-seat-deities](pīṭha+aṣṭa+devatāḥ)
 
 ## mukta-m0-p57-v1424
-thus (evam) third-line (tṛtīya+rekhāyām) like-accomplishment (siddhi+vat) worship (pūjayet) dear (priye)
+[thus](evaṃ) [in-third-line](tṛtīya+rekhāyāṃ) [like-accomplishment](siddhivat) [one-should-worship](pūjayet) [beloved](priye)
 
 ## mukta-m0-p57-v1425
-all-agitating (sarva+saṃkṣobhiṇī) and-indeed (ca+eva) all-melting (sarva+vidrāviṇī) so (tathā)
+[all-agitating](sarva+saṃkṣobhiṇī) [and](ca+eva) [all-driving-away](sarva+vidrāviṇī) [likewise](tathā)

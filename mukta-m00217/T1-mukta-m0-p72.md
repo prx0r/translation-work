@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p72-v1776
-[in-sun](saure) [tu](tu) [sun-mantra](ghṛṇimantraṃ) [and](ca) [six-syllable](ṣaḍarṇaṃ) [Veda-letter](vedavarṇakam)
+[in-solar](saure) [but](tu) [ghṛṇi-mantra](ghṛṇimantraṃ) [and](ca) [six-syllabled](ṣaḍarṇaṃ) [veda-syllabled](vedavarṇakam)
 
 ## mukta-m0-p72-v1777
-[Śākta](śākte) [tu](tu) [ajapā-named](ajapākhyaṃ) [and](ca) [Bhairavī](bhairavī) [Bālā-mantra](bālāmantraśca)
+[ajapā-named](ajapākhyaṃ) [but](tu) [in-śākta](śākte) [but](tu) [bālā-mantra](bālāmantraśca) [bhairavī](bhairavī)
 
 ## mukta-m0-p72-v1778
-[Bhairavī](bhairavī) [Tripurāmbā](tripurāmbā) [and](ca) [Buddhist](bauddhe) [Padmāvatī](padmāvatī) [thus](tathā)
+[bhairavī](bhairavī) [tripurāmbā](tripurāmbā) [and](ca) [in-buddhist](bauddhe) [padmāvatī](padmāvatī) [likewise](tathā)
 
 ## mukta-m0-p72-v1779
-[Mātaṅgī](mātaṅgī) [Sumukhī](sumukhī) [and](ca) [Caṇḍamātaṅginī](caṇḍamātaṅginī) [thus](tathā)
+[mātaṅgī](mātaṅgī) [sumukhī](sumukhī) [and](ca) [indeed](eva) [caṇḍamātaṅginī](caṇḍamātaṅginī) [likewise](tathā)
 
 ## mukta-m0-p72-v1780
-[root-vidyās](mūlavidyāḥ) [sixteen-indeed](ṣoḍaśaiva) [in-initiation](dīkṣāyāṃ) [of-Śrī-guru-mind](śrīgurormanoḥ)
+[root-vidyās](mūlavidyāḥ) [sixteen](ṣoḍaśa) [indeed](eva) [in-initiation](dīkṣāyāṃ) [of-śrī-guru](śrīguror) [of-mantra](manoḥ)
 
 ## mukta-m0-p72-v1781
-[of-Śambhu](śambhoś) [two-foot-vidyās](caraṇavidye) [dve](dve) [supreme-grace-named](parāprasādasaṃjñake)
+[of-śambhu](śambhoś) [foot-vidyās](caraṇavidye) [two](dve) [parā-prasāda-named](parāprasādasaṃjñake)
 
 ## mukta-m0-p72-v1782
-[one-syllable](ekārṇaṃ) [in-Gāṇapatya](gāṇapatye) [tu](tu) [Mahāgaṇapati](mahāgaṇapatiṃ) [thus](tathā)
+[one-syllabled](ekārṇaṃ) [in-gāṇapatya](gāṇapatye) [but](tu) [mahāgaṇapati](mahāgaṇapatiṃ) [likewise](tathā)
 
 ## mukta-m0-p72-v1783
-[Lakṣmīgaṇapati](lakṣmīgaṇapatiṃ) [and](ca) [Herambagaṇapa](herambagaṇapaṃ) [thus](tathā)
+[lakṣmī-gaṇapati](lakṣmīgaṇapatiṃ) [and](ca) [indeed](eva) [heramba-gaṇapa](herambagaṇapaṃ) [likewise](tathā)
 
 ## mukta-m0-p72-v1784
-[of-Dakṣiṇākālikā](dakṣiṇākālikāyāstu) [one-syllable](ekārṇaṃ) [three-syllable-indeed](tryarṇameva) [ca](ca)
+[of-dakṣiṇā-kālikā](dakṣiṇākālikāyās) [but](tu) [one-syllabled](ekārṇaṃ) [three-syllabled](tryarṇam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p72-v1785
-[ten-syllable-pair](daśākṣaradvayaṃ) [and](ca) [in-Tārā](tārāyāṃ) [sixteen-syllable](ṣoḍaśākṣarī)
+[ten-syllable-pair](daśākṣaradvayaṃ) [and](ca) [indeed](eva) [in-tārā](tārāyāṃ) [sixteen-syllabled](ṣoḍaśākṣarī)
 
 ## mukta-m0-p72-v1786
-[Śrī-Vāk-Kāma-Parāruddhā](śrīvākkāmaparāruddhā) [threefold](trividhā) [tripuṭā](tripuṭā) [thus](tathā)
+[śrī-vāk-kāma-parā-ruddhā](śrīvākkāmaparāruddhā) [threefold](trividhā) [tripuṭā](tripuṭā) [likewise](tathā)
 
 ## mukta-m0-p72-v1787
-[six-kūṭa](ṣaṭkūṭā) [seven-kūṭa](saptakūṭā) [syāt](syāt) [eight-kūṭa](aṣṭakūṭā) [tu](tu) [fifth](pañcamī)
+[six-part](ṣaṭkūṭā) [seven-part](saptakūṭā) [should-be](syād) [eight-part](aṣṭakūṭā) [but](tu) [fifth](pañcamī)
 
 ## mukta-m0-p72-v1788
-[Pītāmbarā](pītāmbarā) [eight-Vārāhīs](aṣṭavārāhyo) [in-initiation](dīkṣāyāṃ) [tu](tu) [mutually](parasparam)
+[pītāmbarā-aṣṭa-vārāhī](pītāmbarāṣṭavārāhyo) [in-initiation](dīkṣāyāṃ) [but](tu) [mutually](parasparam)
 
 ## mukta-m0-p72-v1789
-[Jayā-named](jayākhyā) [and](ca) [nine-syllable](navārṇā) [ca](ca) [peace-fire-salt-natured](śāntyagnilavaṇātmikā)
+[jayā-named](jayākhyā) [and](ca) [nine-syllabled](navārṇā) [and](ca) [śānti-agni-lavaṇa-natured](śāntyagnilavaṇātmikā)
 
 ## mukta-m0-p72-v1790
-[with-five-shrine-distinctions](pañcāyatanabhedaistu) [in-sun](saure) [in-Śākta](śākte) [and](ca) [in-Vaiṣṇava](vaiṣṇave)
+[by-five-shrine-divisions](pañcāyatanabhedais) [but](tu) [in-solar](saure) [in-śākta](śākte) [and](ca) [in-vaiṣṇava](vaiṣṇave)
 
 ## mukta-m0-p72-v1791
-[in-Vaiṣṇava-eight](vaiṣṇavāṣṭakamadhye) [tu](tu) [leaving](hitvā) [own-eighteen-syllable](svāṣṭadaśākṣaram)
+[in-vaiṣṇava-octad-middle](vaiṣṇavāṣṭakamadhye) [but](tu) [having-excluded](hitvā) [own-eight-ten-syllabled](svāṣṭadaśākṣaram)
 
 ## mukta-m0-p72-v1792
-[in-Śaiva](śaive) [Pāśupata](pāśupataṃ) [leaving](hitvā) [there](tatra) [Traiyambaka](traiyambakaṃ) [insert](kṣipet)
+[in-śaiva](śaive) [pāśupata](pāśupataṃ) [having-excluded](hitvā) [there](tatra) [traiyambaka](traiyambakaṃ) [one-should-insert](kṣipet)
 
 ## mukta-m0-p72-v1793
-[in-Gāṇapatya](gāṇapatye) [of-Gaṇas](gaṇānāṃ) [tvā](tvā) [leaving](hitvā) [Ucchiṣṭa-Gaṇeśvara](ucchiṣṭaṃ+gaṇeśvaram)
+[in-gāṇapatya](gāṇapatye) [gaṇānāṃ-tvā](gaṇānāṃ) [tvā](tvā) [having-excluded](hitvā) [ucchiṣṭa-gaṇeśvara](ucchiṣṭaṃ) [gaṇeśvara](gaṇeśvaram)
 
 ## mukta-m0-p72-v1794
-[of-these-shrines](etadāyatanānāṃ) [ca](ca) [api](api) [limb-limbhood](aṅgāṅgitvaṃ) [mutually](parasparam)
+[of-these-shrines](etadāyatanānāṃ) [and](ca) [also](api) [subsidiary-principal-relation](aṅgāṅgitvaṃ) [mutually](parasparam)
 
 ## mukta-m0-p72-v1795
-[in-six-Śāmbhava-teaching](ṣaṭśāmbhavopadeśe) [tu](tu) [hy](hy) [limb-limbhood](aṅgāṅgitvaṃ) [mutually](parasparam)
+[in-six-śāmbhava-teaching](ṣaṭśāmbhavopadeśe) [but](tu) [indeed](hi) [subsidiary-principal-relation](aṅgāṅgitvaṃ) [mutually](parasparam)
 
 ## mukta-m0-p72-v1796
-[Siddhalakṣmī](siddhalakṣmī) [Rājyalakṣmī](rājyalakṣmī) [or](vā) [other-distinction-triad](anyadbhedatrayaṃ) [again](punaḥ)
+[siddhalakṣmī](siddhalakṣmī) [rājyalakṣmī](rājyalakṣmīr) [or](vā) [other-division-triad](anyadbhedatrayaṃ) [again](punaḥ)
 
 ## mukta-m0-p72-v1797
-[in-other-vidyās](anyavidyāsu) [in-mantras](mantreṣu) [with-those-distinctions](tattadbhedaiḥ) [mutually](parasparam)
+[in-other-vidyās](anyavidyāsu) [in-mantras](mantreṣu) [by-their-respective-divisions](tattadbhedaiḥ) [mutually](parasparam)
 
 ## mukta-m0-p72-v1798
-[in-five-shrine-initiation](pañcāyatanadīkṣāyāṃ) [in-worship](pūjāyāṃ) [ca](ca) [especially](viśeṣataḥ)
+[in-five-shrine-initiation](pañcāyatanadīkṣāyāṃ) [in-worship](pūjāyāṃ) [and](ca) [especially](viśeṣataḥ)
 
 ## mukta-m0-p72-v1799
-[with-Mahāgaṇeśa-mantra](mahāgaṇeśamantreṇa) [with-sun-mantra](ghṛṇimantreṇa) [joined](saṃyutā)
+[with-mahāgaṇeśa-mantra](mahāgaṇeśamantreṇa) [with-ghṛṇi-mantra](ghṛṇimantreṇa) [joined](saṃyutā)
 
 ## mukta-m0-p72-v1800
-[joining](saṃyojya) [sixteen-syllable](ṣoḍaśārṇāṃ) [tu](tu) [in-initiation](dīkṣāyāṃ) [japa-worship](japapūjanāt)
+[having-joined](saṃyojya) [sixteen-syllabled](ṣoḍaśārṇāṃ) [but](tu) [in-initiation](dīkṣāyāṃ) [by-recitation-worship](japapūjanāt)

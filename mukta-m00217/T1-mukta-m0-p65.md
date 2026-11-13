@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p65-v1601
-[full](pūrṇaṃ) [but](tu) [by-half-areca](kramukārdhena) [sandalwood](śrīkhaṇḍaṃ) [areca-shaped](kramukākṛti)
+[full](pūrṇaṃ) [but](tu) [betel-nut+half](kramuka+ardhena) [sandalwood](śrīkhaṇḍaṃ) [betel-nut+shape](kramuka+ākṛti)
 
 ## mukta-m0-p65-v1602
-[of-the-pot](kuṇḍasya) [worship](pūjanaṃ) [I-will-speak](vakṣye) [great-obstacle-destroying](mahāvighnavināśanam)
+[of-fire-pit](kuṇḍasya) [worship](pūjanaṃ) [I-shall-tell](vakṣye) [great+obstacle+destroying](mahā+vighna+vināśanam)
 
 ## mukta-m0-p65-v1603
-[dug](khātaṃ) [and](ca) [let-one-make](racayet) [pit](kuṇḍaṃ) [everywhere](sarvatra) [very-pleasing](sumanoharam)
+[dug](khātaṃ) [and](ca) [one-should-make](racayet) [fire-pit](kuṇḍaṃ) [everywhere](sarvatra) [very+charming](su+manoharam)
 
 ## mukta-m0-p65-v1604
-[everywhere](sarvatra) [one-finger](ekāṃgulaṃ) [leaving](tyaktvā) [three](tisraḥ) [should-be-made](kāryāḥ) [very-beautiful](suśobhanāḥ)
+[everywhere](sarvatra) [one+finger](eka+aṃgulaṃ) [having-left](tyaktvā) [three](tisraḥ) [should-be-made](kāryāḥ) [very+beautiful](su+śobhanāḥ)
 
 ## mukta-m0-p65-v1605
-[four-finger-wide](caturaṃgulavistārāḥ) [three-also](tisro'pi) [O-supreme-goddess](parameśvari)
+[four+finger+wide](catur+aṃgula+vistārāḥ) [three](tisraḥ) [also](api) [O-supreme-goddess](parama+īśvari)
 
 ## mukta-m0-p65-v1606
-[six-finger-wide](ṣaḍaṃgulisuvistārāṃ) [eight-finger-wide](aṣṭāṃgulisuvistṛtām)
+[twelve+finger+very-wide](ravya+aṃguli+su+vistārāṃ) [eight+finger+very-extended](vasva+aṃguli+su+vistṛtām)
 
 ## mukta-m0-p65-v1607
-[mark](lakṣaṇaṃ) [of-square](caturasrasya) [spoken](kathitaṃ) [to-you](tava) [beautiful-one](sundari)
+[characteristic](lakṣaṇaṃ) [of-square](caturasrasya) [told](kathitaṃ) [to-you](tava) [O-beautiful-one](sundari)
 
 ## mukta-m0-p65-v1608
-[by-that-measure](tena+mānena) [all](sarvāṇi) [pits](kuṇḍāni) [let-the-wise-make](racayed+budhaḥ)
+[by-that](tena) [measure](mānena) [all](sarvāṇi) [fire-pits](kuṇḍāni) [should-make](racayet) [wise-one](budhaḥ)
 
 ## mukta-m0-p65-v1609
-[from-south-to-north-end](dakṣiṇādyūttarāntaṃ) [but](tu) [three-three](tisrastisraśca) [let-one-make](kārayet)
+[from-south](dakṣiṇa+ādi) [to-north+end](uttara+antaṃ) [but](tu) [three](tisraḥ) [three](tisraḥ) [and](ca) [one-should-make](kārayet)
 
 ## mukta-m0-p65-v1610
-[gravel](śarkarāṃ) [let-one-scatter-there](vikirettatra) [triangle](trikoṇaṃ) [that-cavity](tatpuṭaṃ) [let-one-draw](likhet)
+[gravel](śarkarāṃ) [one-should-scatter](vikiret) [there](tatra) [triangle](trikoṇaṃ) [that+cover](tat+puṭaṃ) [one-should-draw](likhet)
 
 ## mukta-m0-p65-v1611
-[above-above](uparyupari) [by-difference](bhedena) [there](tatra) [seat](pīṭhaṃ) [let-one-worship](samarcayet)
+[above+above](upari+upari) [by-division](bhedena) [there](tatra) [pedestal](pīṭhaṃ) [one-should-worship](samarcayet)
 
 ## mukta-m0-p65-v1612
-[support-power-tortoise](ādhāraśaktikūrmau) [and](ca) [then](tato) [ananta](anantaṃ) [varaha](varāhakaṃ)
+[support+power](ādhāra+śakti) [and-tortoise](kūrmau) [and](ca) [then](tataḥ) [Ananta](anantaṃ) [and-Varaha](varāhakaṃ)
 
 ## mukta-m0-p65-v1613
-[vessels](pātrāṇi) [saffrons](kesarāṇyevaṃ) [thus](evaṃ) [in-their-places](tattatsthāneṣu) [let-one-worship](pūjayet)
+[vessels](pātrāṇi) [filaments](kesarāṇi) [thus](evaṃ) [in-their+respective+places](tattat+sthāneṣu) [one-should-worship](pūjayet)
 
 ## mukta-m0-p65-v1614
-[unrighteousnesses](adharmāścaiva) [in-corners](koṇeṣu) [of-seat](pīṭhasya) [let-one-worship-around](paripūjayet)
+[Adharma](adharmāḥ) [and](ca) [indeed](eva) [in-corners](koṇeṣu) [of-pedestal](pīṭhasya) [one-should-worship](paripūjayet)
 
 ## mukta-m0-p65-v1615
-[in-middle](madhye) [menstruating-woman](ṛtumatīṃ) [veda-mother](vedamātaraṃ) [veda-desire](vedamasyakām)
+[in-middle](madhye) [Ṛtumatī](ṛtumatīṃ) [Veda+mother](veda+mātaraṃ) [Veda+essence](veda+masyakām)
 
 ## mukta-m0-p65-v1616
-[fire](vahniṃ) [in-pit](kuṇḍe) [having-circumambulated](paribhrāmya) [a-little](kiñcidaṅgārakaṃ) [let-one-abandon](tyajet)
+[fire](vahniṃ) [in-pit](kuṇḍe) [having-circled](paribhrāmya) [a-little](kiñcit) [ember](aṅgārakaṃ) [one-should-cast](tyajet)
 
 ## mukta-m0-p65-v1617
-[afterwards](paścāt) [let-one-kindles-fire](prajvālayedvahniṃ) [by-knowledge-fire](jñānāgneḥ) [by-transition](saṃkrameṇa) [but](tu)
+[afterwards](paścāt) [one-should-kindle](prajvālayet) [fire](vahniṃ) [of-knowledge+fire](jñāna+agneḥ) [by-transmission](saṃkrameṇa) [indeed](tu)
 
 ## mukta-m0-p65-v1618
-[by-breath-path](śvāsamārgeṇa) [mantra-vidya-yoni-path](manuvidyonimārgeṇa) [let-one-contract](saṃkṣipet)
+[by-breath+path](śvāsa+mārgeṇa) [by-mantra+knowledge](manuvid+yā) [by-womb+path](yoni+mārgeṇa) [one-should-draw-in](saṃkṣipet)
 
 ## mukta-m0-p65-v1619
-[first](ādau) [by-vyahrtis](vyāhṛtibhiḥ) [afterwards](paścād) [by-fire-mantra](vahnimantreṇa) [and](ca) [in-order](kramāt)
+[at-first](ādau) [with-vyāhṛtis](vyāhṛtibhiḥ) [afterwards](paścāt) [with-fire+mantra](vahni+mantreṇa) [and](ca) [in-order](kramāt)
 
 ## mukta-m0-p65-v1620
-[all-knowing](sarvajñājñāpaya) [svaha](svāhā) [by-mantra](manunā) [let-one-pray](prārthayet) [then](tataḥ)
+[O-all-knowing](sarvajña) [command](ājñāpaya) [svāhā](svāhā) [with-mantra](manunā) [one-should-pray](prārthayet) [then](tataḥ)
 
 ## mukta-m0-p65-v1621
-[gold-colored](suvarṇavarṇamamalaṃ) [pure](amalaṃ) [blazing](samiddhaṃ) [all-faced](viśvatomukham)
+[gold+colored](suvarṇa+varṇam) [spotless](amalaṃ) [kindled](samiddhaṃ) [facing-all-directions](viśvataḥ+mukham)
 
 ## mukta-m0-p65-v1622
-[with-sa-sa](saṣaśā) [valaraya](valarāyaśca) [and](ca) [ramasva-rayaya](ramasvasvarayā(rayaṣaṣṭhasvarā)nvitāḥ)
+[saṣaśā](saṣaśā) [valarāyaśca](valarāyaśca) [ramasvasvarayā(rayaṣaṣṭhasvarā)nvitāḥ](ramasvasvarayā(rayaṣaṣṭhasvarā)nvitāḥ)
 
 ## mukta-m0-p65-v1623
-[ruby](padmarāgā) [gold](suvarṇā) [and](ca) [third](tṛtīyā) [good-red](bhadralohitā)
+[ruby](padmarāgā) [golden](suvarṇā) [and](ca) [third](tṛtīyā) [auspicious+red](bhadra+lohitā)
 
 ## mukta-m0-p65-v1624
-[in-order](krameṇa) [let-one-join](yojayedbījairvinyaset) [seeds](bījairvinyaset) [O-supreme-goddess](parameśvari)
+[in-order](krameṇa) [one-should-join](yojayet) [with-seed-syllables](bījaiḥ) [one-should-place](vinyaset) [O-supreme-goddess](parama+īśvari)
 
 ## mukta-m0-p65-v1625
-[gods](surāśca) [and](ca) [ancestors](pitaraścaiva) [gandharvas](gandharvā) [yakshas](yakṣapannagāḥ) [serpents](pannagāḥ)
+[gods](surāḥ) [and](ca) [ancestors](pitaraḥ) [and](ca) [indeed](eva) [gandharvas](gandharvāḥ) [yakṣas](yakṣa) [and-nāgas](pannagāḥ)

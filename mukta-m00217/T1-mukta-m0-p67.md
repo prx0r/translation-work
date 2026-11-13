@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p67-v1651
-there empty fruit middle-cell-pair indeed death-giving
+[there](tatra) [void](śūnyaṃ) [result](phalaṃ) [middle+cell+pair](madhya+koṣṭha+yugmaṃ) [but](tu) [death-giving](mṛtyudam)
 
 ## mukta-m0-p67-v1652
-disease-destroying-pair tail among-them-middle-gone becomes
+[disease+loss-causing](roga+hāni+karau) [tail](pucchaṃ) [of-those-two](tayoḥ) [middle-situated](madhya+gataṃ) [should-be](bhavet)
 
 ## mukta-m0-p67-v1653
-thus indeed success not-elsewhere holy-guru's-command by beloved
+[likewise](tathaiva) [success](siddhiḥ) [not+elsewhere](na+anyatra) [by-venerable-guru's+command](śrī+guroḥ+ājñayā) [beloved](priye)
 
 ## mukta-m0-p67-v1654
-lamp-extinction also to-be-done what more in-oblation one-should-sacrifice
+[lamp+offering](dīpa+avaso') [also](api) [to-be-done](kartavyaḥ) [what](kiṃ) [again](punar) [in-oblation](havane) [one-should-sacrifice](yajet)
 
 ## mukta-m0-p67-v1655
-self-born-flower-anointed and flowers-unbroken one-should-sacrifice
+[with-self-born+flowers+smeared](sva+bhambhū+kusuma+āktaiḥ) [and](ca) [with-flowers](kusumaiḥ) [with-unbroken-rice](akṣataiḥ) [one-should-worship](yajet)
 
 ## mukta-m0-p67-v1656
-gayatri properly reciting that-end also such-one then
+[gāyatrī](gāyatrī) [properly](samyak) [having-uttered](uccārya) [at-its-end](tad+ante) [also](api) [so-and-so](amukaṃ) [then](tataḥ)
 
 ## mukta-m0-p67-v1657
-then and such-goddess-holy-feet I-worship also
+[then](tataḥ) [and](ca) [of-so-and-so-goddess+śrī+feet](amuka+devī+śrī+pādukāṃ) [I-worship](pūjayāmi) [and](ca)
 
 ## mukta-m0-p67-v1658
-within-seven-days mantra-practitioner desired obtains
+[within-seven-days](sapta+aha+abhyantare) [practitioner](mantrī) [desired](vāṃchitaṃ) [completely+obtains](sam+avāpnuyāt)
 
 ## mukta-m0-p67-v1659
-those-those-element-? rays surrounded wheel-placed-deities
+[by-those+element+syllable+rays](tat+tat+bhūta+arṇa+kiraṇaiḥ) [surrounded](vṛtāḥ) [in-circle-situated+deities](cakra+stha+devatāḥ)
 
 ## mukta-m0-p67-v1660
-thus perfected-knowledge's application-procedure listen
+[thus](evaṃ) [of-accomplished-mantra](saṃsiddha+vidyāyāḥ) [application+procedure](viniyoga+krama) [hear](śṛṇu)
 
 ## mukta-m0-p67-v1661
-target-image named to-be-drawn one auspicious then
+[of-the-target+image](sādhya+pratikṛtiṃ) [name](nāma) [by-writing-implement](lekhanyā) [one](ekāṃ) [auspicious](śubhāṃ) [then](tataḥ)
 
 ## mukta-m0-p67-v1662
-abandoning shame comes indeed other told beloved
+[having-abandoned](tyaktvā) [shame](lajjāṃ) [comes](samāyāti) [indeed](hi) [now](atha) [another](anyat) [is-told](kathyate) [beloved](priye)
 
 ## mukta-m0-p67-v1663
-self and so target so fortune-beautiful
+[oneself](ātmānaṃ) [and](ca) [likewise](tathā) [target](sādhyaṃ) [likewise](tathā) [Saubhāgya-sundara](saubhāgya+sundaraḥ)
 
 ## mukta-m0-p67-v1664
-whose name again properly he becomes servant indeed
+[by-whose](yasya) [name](nāmnā) [again](punaḥ) [properly](samyak) [he](saḥ) [becomes](bhavet) [slave](dāsaḥ) [indeed](eva) [truly](hi)
 
 ## mukta-m0-p67-v1665
-yonimudra-holder becoming swiftly attraction becomes
+[yoni-mudrā+holding](yoni+mudrā+dharaḥ) [having-become](bhūtvā) [swiftly](vegāt) [attraction](ākarṣaṇaṃ) [should-be](bhavet)
 
 ## mukta-m0-p67-v1666
-cow-bile-saffron by equal-part and sandal
+[with-gorocanā+and-saffron](gorocanā+kuṃkumābhyāṃ) [equal+portion](sama+bhāgaṃ) [and](ca) [sandalwood](candanam)
 
 ## mukta-m0-p67-v1667
-flower fruit water and food fragrance cloth and ornament
+[flower](puṣpaṃ) [fruit](phalaṃ) [water](jalaṃ) [and](ca) [food](annaṃ) [fragrance](gandhaṃ) [garment](vastraṃ) [and](ca) [ornament](bhūṣaṇam)
 
 ## mukta-m0-p67-v1668
-woman by-seeing alone servant and-his becomes beloved
+[woman](aṅganā) [by-mere-seeing](vīkṣaṇāt) [indeed](eva) [slave-girl](dāsī) [and](ca) [of-him](asya) [becomes](bhavet) [beloved](priye)
 
 ## mukta-m0-p67-v1669
-meditating month-only indeed target-named woman then
+[contemplating](cintayan) [for-a-month](māsa+mātraṃ) [indeed](hi) [target-named](sādhya+ākhyāṃ) [woman](lalanāṃ) [then](tataḥ)
 
 ## mukta-m0-p67-v1670
-vermilion-made wheel king one-deludes instantly
+[in-vermilion+drawn](sindūra+racite) [circle](cakre) [king](rājānaṃ) [one-enchants](mohayet) [in-an-instant](kṣaṇāt)
 
 ## mukta-m0-p67-v1671
-mind-charcoal by wheel indeed one-draws blood-fluid by indeed
+[with-mind+charcoal](citta+aṅgāreṇa) [circle](cakraṃ) [but](tu) [one-should-draw](likhet) [with-blood+fluid](rakta+draveṇa) [indeed](hi)
 
 ## mukta-m0-p67-v1672
-arka-neem-fluids by indeed pen-sun's one-writes
+[with-arka+and-nimba+juices](arka+nimba+dravābhyāṃ) [but](tu) [with-writing-implement](likhinyā) [of-arka](arkasya) [one-should-draw](saṃlikhet)
 
 ## mukta-m0-p67-v1673
-incense-sandal at-night cloth or one-wears then
+[one-should-fumigate](dhūpayet) [sandalwood](candanaṃ) [at-night](rātrau) [garment](vastraṃ) [or](vā) [one-should-wear](dhārayet) [then](tataḥ)
 
 ## mukta-m0-p67-v1674
-smeared-cow-dung-ground indeed one-draws orpiment by then
+[on-smeared+cow-dung+ground](lipta+gomaya+bhūmau) [but](tu) [one-should-draw](likhet) [with-gorocanā](rocanayā) [then](tataḥ)
 
 ## mukta-m0-p67-v1675
-that-forehead-throat-heart-navel-birth-circle-joined
+[on-his+forehead+throat+heart+navel+birth+region](tat+bhāla+gala+hṛt+nābhi+janma+maṇdala) [joined](yojitam)
