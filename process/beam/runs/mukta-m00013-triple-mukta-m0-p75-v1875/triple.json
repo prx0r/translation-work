@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "vibhaktair",
+     "gloss": "with-divided",
+     "grounds": "instrumental plural of vibhakta (divided, separated); qualifies mantra+varṇaiś",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "mantra+varṇaiś",
+     "gloss": "mantra-syllables",
+     "grounds": "compound mantra+varṇa in instrumental plural; syllables/letters of the mantra",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍ+aṅgānāñ",
+     "gloss": "of-six-limbs",
+     "grounds": "compound ṣaḍ+aṅga (six limbs) in genitive plural; refers to the six ancillary parts",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpanam",
+     "gloss": "arrangement",
+     "grounds": "action noun from kḷp (to fashion, arrange); denotes ritual construction or assignment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what components is the ritual arrangement of mantra syllables and six limbs to be fashioned?",
+   "premises": [
+    "Mantra syllables are employed in a divided form.",
+    "The six limbs constitute a component of the arrangement.",
+    "A ritual arrangement is to be fashioned from these components."
+   ],
+   "inference": "The arrangement is fashioned using divided mantra syllables together with the six limbs.",
+   "uncertainties": [
+    "The exact syntactic scope of the two ca particles in relation to the preceding ritual instructions is context-dependent."
+   ],
+   "plain_english": "The arrangement is to be made with the divided mantra syllables and with those of the six limbs."
+  }
+ ]
+}

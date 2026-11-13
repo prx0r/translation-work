@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the teaching",
+     "morph": "pron.nom.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying the teaching as highest",
+     "morph": "adj.nom.acc.sg.n"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "adjective qualifying the teaching as esoteric",
+     "morph": "adj.nom.acc.sg.n"
+    },
+    {
+     "surface": "saṃkṣepāt",
+     "gloss": "in-brief",
+     "grounds": "ablative expressing manner or reason of brevity",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating what has been spoken",
+     "morph": "ppp.nom.acc.sg.n (√kath)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "first-person pronoun indicating the speaker as agent",
+     "morph": "pron.inst.sg.1"
+    }
+   ],
+   "question": "What characterizes the supreme secret teaching just disclosed here?",
+   "premises": [
+    "The teaching is identified as this supreme secret.",
+    "The teaching has been declared in brief form.",
+    "The speaker is the agent who declared it."
+   ],
+   "inference": "The highest secret teaching has been concisely revealed by the speaker.",
+   "uncertainties": [],
+   "plain_english": "But this supreme secret has been declared by me in brief."
+  }
+ ]
+}

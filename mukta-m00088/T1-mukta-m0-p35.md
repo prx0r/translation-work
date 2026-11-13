@@ -8,37 +8,37 @@
 [in-this](asminn) [indeed](eva) [imperishable](avyaye) [principle](tattve) [dissolved](vilīnaṃ) [that](tad) [one-should-contemplate](vicintayet)
 
 ## mukta-m0-p35-v853
-[thisness](idantā) [characterized](lakṣaṇaṃ) [substance](dravyaṃ) [one-should-offer](juhuyāt) [outward](abahir) [facing](mukhaḥ)
+[thisness](idantā) [characterized](lakṣaṇaṃ) [substance](dravyaṃ) [one-should-offer](juhuyād) [outward](abahir) [facing](mukhaḥ)
 
 ## mukta-m0-p35-v854
-[declared](kathitaḥ) [action](karma) [yoga](yogaḥ) [this](ayaṃ) [by-which](yena) [in-that](tat) [steadfastness](niṣṭhatā) [may-be](bhavet)
+[declared](kathitaḥ) [action](karma) [yoga](yogo) [this]('yaṃ) [by-which](yena) [in-that](tat) [steadfastness](niṣṭhatā) [may-be](bhavet)
 
 ## mukta-m0-p35-v855
-[of-this](etat) [by-practice](abhyāsataḥ) [and](ca) [indeed](eva) [accomplished](siddhaḥ) [becomes](bhavati) [yogi](yogi) [king](rāṭ)
+[by-practice](abhyāsatas) [of-this](etad) [and](ca) [indeed](eva) [accomplished](siddho) [becomes](bhavati) [yogi](yogi) [king](rāṭ)
 
 ## mukta-m0-p35-v856
-[offered-food](naivedyaṃ) [and](ca) [one-should-partake](upabhuñjīta) [having-given](dattvā) [to-that](tat) [devotion](bhakti) [endowed](sāline)
+[food-offering](naivedyaṃ) [and](ca) [one-should-partake](upabhuñjīta) [having-given](dattvā) [to-that](tad) [devotion](bhakti) [endowed](sāline)
 
 ## mukta-m0-p35-v857
-[then](tataḥ) [and](ca) [to-guru](gurave) [should-give](dadyāt) [salutation](namaskāra) [triad](trayaṃ) [accomplishments](sidhīḥ)
+[then](tatas) [and](ca) [to-guru](gurave) [one-should-give](dadyān) [salutation](namaskāra) [triad](trayaṃ) [accomplishments](sidhīḥ)
 
 ## mukta-m0-p35-v858
-[on-body](aṅge) [clinging](lagnaṃ) [of-humans](manuṣyāṇāṃ) [brahmin](brahma) [murder](hatyāṃ) [removes](vyapohati)
+[on-body](ange) [clinging](lagnaṃ) [of-humans](manuṣyāṇāṃ) [brahmin](brahma) [killing](hatyāṃ) [removes](vyapohati)
 
 ## mukta-m0-p35-v859
-[holy-place](tīrtha) [bath](snāna) [thousand](sahasra) [ten-million](koṭi) [fruit](phala) [giving](daṃ) [śrī](srī) [cakra](cakra) [foot](pāda) [water](udakam)
+[holy-place](tīrtha) [bath](snāna) [thousand](sahasra) [crore](koṭi) [fruit](phala) [giving](daṃ) [śrī](srī) [cakra](cakra) [foot](pāda) [water](udakam)
 
 ## mukta-m0-p35-v860
-[by-Pūrṇānanda](pūrṇānandena) [by-accomplished-one](kṛtinā) [worship](saparyā) [this](eṣā) [proclaimed](prakīrtitā)
+[by-Pūrṇānanda](pūrṇānandena) [accomplished](kṛtinā) [worship](saparyā) [this](eṣā) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p35-v861
 [illumination](prakāsaḥ)
 
 ## mukta-m0-p35-v862
-[which](kaṃ) [which](kaṃ) [enjoyment](bhogaṃ) [in-you](tvayi) [not](na) [gathers](cinute) [mind](cittam) [when-resorted-to](ālambitāyām)
+[what](kaṃ) [what](kaṃ) [enjoyment](bhogaṃ) [in-you](tvayi) [not](na) [gathers](cinute) [mind](cittam) [resorted-to](ālambitāyām)
 
 ## mukta-m0-p35-v863
-[consciousness](cit) [moon](candra) [circle](maṇḍala) [within](antaḥ) [standing](sthe) [salutation](namas) [to-you](te) [Hara](hara) [beloved](vallabhe)
+[consciousness](cit) [moon](candra) [circle](maṇḍala) [within](antaḥsthe) [salutation](namas) [to-you](te) [Hara](hara) [beloved](vallabhe)
 
 ## mukta-m0-p35-v864
 [in-stability](sthiti) [state](bhāva) [abiding](sthite) [goddess](devi) [salutation](namaḥ) [to-Sthāṇu](sthāṇu) [dear](priye) [O-Mother](ambike)
@@ -47,10 +47,10 @@
 [consciousness](caitanya) [pentad](pañcake) [goddess](devi) [salutation](namas) [to-you](tubhyaṃ) [Hara](hara) [consort](aṅgane)
 
 ## mukta-m0-p35-v866
-[in-consciousness](cit) [repose](viśrānti) [great](mahā) [being](sattā) [essence-alone](mātre) [mother](mātar) [salutation](namas) [be](astu) [to-you](te)
+[in-consciousness](cit) [repose](visrānti) [great](mahā) [being](sattā) [essence-alone](mātre) [mother](mātar) [salutation](namas) [be](astu) [to-you](te)
 
 ## mukta-m0-p35-v867
-[four](catuḥ) [seats](pīṭha) [sovereign](īśvari) [auspicious-one](śive) [salutation](namas) [to-you](te) [three](tri) [cities](pura) [sovereign](īśvari)
+[four](catuḥ) [seats](pīṭha) [sovereign](īsvari) [auspicious-one](sive) [salutation](namas) [to-you](te) [three](tri) [cities](pura) [sovereign](īsvari)
 
 ## mukta-m0-p35-v868
 [mother](mātṛkā) [form](rūpam) [having-assumed](āsthāya) [to-her](tasyai) [mother](mātar) [salutation](namas) [be](astu) [to-you](te)
@@ -62,16 +62,16 @@
 [speech-seed](vāgbhava) [beginning-with](ādi) [great](mahā) [accomplishment](siddhiṃ) [give](dehi) [Tripurasundarī](tripurasundari)
 
 ## mukta-m0-p35-v871
-[suffering](duḥkha) [triad](traya) [withered](parimlāna) [face](vadanaṃ) [protect](pāhi) [me](māṃ) [auspicious-one](śive)
+[sorrow](duḥkha) [triad](traya) [withered](parimlāna) [face](vadanaṃ) [protect](pāhi) [me](māṃ) [auspicious-one](sive)
 
 ## mukta-m0-p35-v872
-[according-to](yathā) [ability](śakti) [recitation](japaṃ) [worship](pūjāṃ) [accept](gṛhāṇa) [by-my](mat) [favor](anugrahāt)
+[according-to-ability](yathāsakti) [recitation](japaṃ) [worship](pūjāṃ) [accept](gṛhāṇa) [by-my](mad) [favor](anugrahāt)
 
 ## mukta-m0-p35-v873
 [my](mama) [offense](aparādhaṃ) [wretchedness](kārpaṇyaṃ) [forgive](kṣamasva) [supreme](para) [goddess](devate)
 
 ## mukta-m0-p35-v874
-[impure](aśuddhaṃ) [strength](balam) [of-us](asmākaṃ) [of-children](sisūnāṃ) [Hara](hara) [beloved](vallabhe)
+[impure](asuddhaṃ) [strength](balam) [of-us](asmākaṃ) [of-children](sisūnāṃ) [Hara](hara) [beloved](vallabhe)
 
 ## mukta-m0-p35-v875
-[so-long](tāvat) [I](aham) [fulfilled](kṛta) [purpose](arthaḥ) [am](asmi) [not](na) [of-you](te) [anything](kiñcana) [diminishes](hīyate)
+[so-long](tāvad) [I](ahaṃ) [fulfilled](kṛta) [purpose](artho) [am](asmi) [not](na) [of-you](te) [anything](kiñcana) [diminishes](hīyate)
