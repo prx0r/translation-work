@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p100-v2476
-[independent](svataṃtraḥ) [cattle-possessing](paśumān) [mantra-knower](maṃtrī) [in-viṣkambha](viṣkaṃbhe) [born](jāyate) [man](naraḥ)
+[independent](svataṃtraḥ) [possessing-cattle](paśumān) [counselor](maṃtrī) [in-viṣkambha](viṣkaṃbhe) [is-born](jāyate) [man](naraḥ)
 
 ## mukta-m0-p100-v2477
-[devotee-of-guru-and-gods](gurudevādibhaktaśca) [born-from-love-yoga](prītiyogodbhavonaraḥ)
+[guru+deva+etc.-devoted](gurudevādibhaktaḥ) [and](ca) [from-prīti-yoga-born](prītiyogodbhavaḥ) [man](naraḥ)
 
 ## mukta-m0-p100-v2478
-[long-lived-yoga-born](āyuṣmadyogasaṃjātaḥ) [famous](kīrtimān) [scholar](paṃḍitassukhī) [happy](sukhī)
+[from-āyuṣmat-yoga-born](āyuṣmadyogasaṃjātaḥ) [famous](kīrtimān) [learned](paṃḍitaḥ) [happy](sukhī)
 
 ## mukta-m0-p100-v2479
-[born-from-fortune-yoga](saubhāgyayogasaṃjāto) [wealthy](dhanīsyāt) [foreign-going](paradeśagaḥ)
+[from-saubhāgya-yoga-born](saubhāgyayogasaṃjātaḥ) [wealthy](dhanī) [will-be](syāt) [gone-to-foreign-land](paradeśagaḥ)
 
 ## mukta-m0-p100-v2480
-[born-in-good-anger-yoga](sukopīśobhaneyoge) [born](jātobuddhipriyodṛḍhaḥ) [intelligence-loving](buddhipriya) [firm](dṛḍhaḥ)
+[very-angry](sukopī) [in-śobhana-yoga](śobhaneyoge) [born](jātaḥ) [intellect+dear](buddhipriyaḥ) [firm](dṛḍhaḥ)
 
 ## mukta-m0-p100-v2481
-[knowing-others'-intentions](pareṃgitajñomānīsyādatigaṃḍodbhavonaraḥ) [proud](mānī) [born-from-great-obstacle](atigaṃḍodbhava) [man](naraḥ)
+[others'+gestures-knowing](pareṃgitajñaḥ) [proud](mānī) [will-be](syāt) [from-atigaṇḍa-born](atigaṃḍodbhavaḥ) [man](naraḥ)
 
 ## mukta-m0-p100-v2482
-[devoted-to-meritorious-deeds](puṇyakarmaratoyoge) [born](jāyate) [good-deed-named](sukarmākhye)
+[in-meritorious-deeds-delighting](puṇyakarmarataḥ) [in-yoga](yoge) [called-sukarman](sukarmākhye) [indeed](tu) [is-born](jāyate)
 
 ## mukta-m0-p100-v2483
-[born-from-firmness-yoga](dhṛtiyogodbhavodhīro) [firm](dhīraḥ) [much-wealthy](bahuvittonnataśśaṭhaḥ) [elevated](unnataḥ) [cunning](śaṭhaḥ)
+[from-dhṛti-yoga-born](dhṛtiyogodbhavaḥ) [steadfast](dhīraḥ) [having-much-wealth](bahuvittaḥ) [elevated](unnataḥ) [deceitful](śaṭhaḥ)
 
 ## mukta-m0-p100-v2484
-[very-deaf](badhirotitarāṃkāmī) [lustful](kāmī) [wealthy](dhanīmānī) [proud](mānī) [firm](dṛḍhaḥ) [lord](prabhuḥ)
+[deaf](badhiraḥ) [exceedingly](atitarāṃ) [lustful](kāmī) [wealthy](dhanī) [proud](mānī) [firm](dṛḍhaḥ) [mighty](prabhuḥ)
 
 ## mukta-m0-p100-v2485
-[nail-diseased](kunakhīśrutagobhoktā) [hearing-cow-enjoyer](śrutagobhoktā) [wealthy](dhanīgaṃḍodbhavaḥ) [obstacle-born](gaṃḍodbhavaḥ) [man](pumān)
+[having-bad-nails](kunakhī) [learned](śrutaḥ) [cow-enjoyer](gobhoktā) [wealthy](dhanī) [from-gaṇḍa-born](gaṃḍodbhavaḥ) [man](pumān)
 
 ## mukta-m0-p100-v2486
-[many-sons-and-wives-rich](bahuputrakalatrāḍhyastridoṣīvṛddhiyogajaḥ) [three-humors](tridoṣī) [growth-yoga-born](vṛddhiyogajaḥ)
+[rich-in-many-sons+wives](bahuputrakalatrāḍhyaḥ) [having-three-doṣas](tridoṣī) [from-vṛddhi-yoga-born](vṛddhiyogajaḥ)
 
 ## mukta-m0-p100-v2487
-[patient](kṣamīcanirdhanomānīdhruvayogodbhavonaraḥ) [poor](nirdhanaḥ) [proud](mānī) [born-from-fixed-yoga](dhruvayogodbhava) [man](naraḥ)
+[forbearing](kṣamī) [and](ca) [poor](nirdhanaḥ) [proud](mānī) [from-dhruva-yoga-born](dhruvayogodbhavaḥ) [man](naraḥ)
 
 ## mukta-m0-p100-v2488
-[born-from-obstruction-yoga](vyāghātayogasaṃjātaḥ) [sons-and-wife-exceeding](putradārādhiko) [virtuous](guṇī)
+[from-vyāghāta-yoga-born](vyāghātayogasaṃjātaḥ) [abundant-in-sons+wives](putradārādhikaḥ) [virtuous](guṇī)
 
 ## mukta-m0-p100-v2489
-[knowing-others'-intentions](pareṃgitajñodhanavānharṣaṇe) [wealthy](dhanavān) [born-in-joy](harṣaṇe) [man](jāyate) [naraḥ]
+[others'+gestures-knowing](pareṃgitajñaḥ) [possessing-wealth](dhanavān) [in-harṣaṇa](harṣaṇe) [is-born](jāyate) [man](naraḥ)
 
 ## mukta-m0-p100-v2490
-[unconquerable](ajayyaḥ) [wealthy](vittavāñchrīmānvajrayogodbhavo) [auspicious](śrīmān) [vajra-yoga-born](vajrayogodbhava) [man](naraḥ)
+[unconquerable](ajayyaḥ) [possessing-wealth](vittavān) [prosperous](śrīmān) [from-vajra-yoga-born](vajrayogodbhavaḥ) [man](naraḥ)
 
 ## mukta-m0-p100-v2491
-[auspicious](śrīmāndhīmānprajāvāṃśca) [intelligent](dhīmān) [progeny-possessing](prajāvān) [born-from-accomplishment-yoga](siddhiyogodbhavonaraḥ) [man](naraḥ)
+[prosperous](śrīmān) [intelligent](dhīmān) [having-offspring](prajāvān) [and](ca) [from-siddhi-yoga-born](siddhiyogodbhavaḥ) [man](naraḥ)
 
 ## mukta-m0-p100-v2492
-[born-in-vyatīpāta](vyatīpāte) [man](narojātastejasvīśītalaḥ) [radiant](tejasvī) [cool](śītalaḥ) [dear](priyaḥ)
+[in-vyatīpāta](vyatīpāte) [man](naraḥ) [born](jātaḥ) [splendid](tejasvī) [cool](śītalaḥ) [dear](priyaḥ)
 
 ## mukta-m0-p100-v2493
-[bile-natured](pittātmāvittasaṃpanno) [wealth-complete](vittasaṃpannaḥ) [best-yoga](varyānyogekalatravān) [wife-possessing](kalatravān)
+[of-bilious-nature](pittātmā) [endowed-with-wealth](vittasaṃpannaḥ) [in-varīyān-yoga](varyānyoge) [having-wife](kalatravān)
 
 ## mukta-m0-p100-v2494
-[moving-in-speech](vācācalaśca) [timid](bhīruśca) [auspicious](śrīmānparighayogajaḥ) [born-from-parigha-yoga](parighayogajaḥ)
+[unsteady-in-speech](vācācalaḥ) [and](ca) [timid](bhīruḥ) [and](ca) [prosperous](śrīmān) [from-parigha-yoga-born](parighayogajaḥ)
 
 ## mukta-m0-p100-v2495
-[wealthy](dhanavānparivārāḍhyaḥ) [family-rich](parivārāḍhyaḥ) [born-from-śiva-yoga](śivayogodbhavonaraḥ) [man](naraḥ)
+[possessing-wealth](dhanavān) [rich-in-retinue](parivārāḍhyaḥ) [from-śiva-yoga-born](śivayogodbhavaḥ) [man](naraḥ)
 
 ## mukta-m0-p100-v2496
-[three-humors-natured](tridoṣātmādhanībhoktā) [wealthy](dhanī) [enjoyer](bhoktā) [in-siddhi-yoga](siddhayoge) [scholar](paṃḍitaḥ)
+[of-three-doṣas-nature](tridoṣātmā) [wealthy](dhanī) [enjoyer](bhoktā) [in-siddha-yoga](siddhayoge) [indeed](tu) [learned](paṃḍitaḥ)
 
 ## mukta-m0-p100-v2497
-[grain-possessing](dhānyavānromaśākārassādhyayoge) [hairy-bodied](romaśākāraḥ) [in-sādhya-yoga](sādhyayoge) [scholar](paṃḍitaḥ)
+[possessing-grain](dhānyavān) [hairy-in-form](romaśākāraḥ) [in-sādhya-yoga](sādhyayoge) [indeed](tu) [learned](paṃḍitaḥ)
 
 ## mukta-m0-p100-v2498
-[in-auspicious-yoga](śubhayogebhaviṣyajjñaḥ) [future-knower](bhaviṣyajjñaḥ) [phlegmatic](śleṣmalo) [wealthy](dhanadhānyavān) [grain-possessing](dhānyavān)
+[in-śubha-yoga](śubhayoge) [knowing-the-future](bhaviṣyajjñaḥ) [phlegmatic](śleṣmalaḥ) [possessing-wealth+grain](dhanadhānyavān)
 
 ## mukta-m0-p100-v2499
-[in-śukla-yoga](śuklayoge) [born](tu) [wind-phlegm-natured](saṃjāto) [man](vātaśleṣmātmako) [naraḥ]
+[in-śukla-yoga](śuklayoge) [indeed](tu) [born](saṃjātaḥ) [of-wind+phlegm-nature](vātaśleṣmātmakaḥ) [man](naraḥ)
 
 ## mukta-m0-p100-v2500
-[born-from-brahma-yoga](brahmayogodbhavaśśreṣṭhaḥ) [best](śreṣṭhaḥ) [beloved](kāṃtaśca) [wealth-and-grain-possessing](dhanadhānyavān)
+[from-brahma-yoga-born](brahmayogodbhavaḥ) [excellent](śreṣṭhaḥ) [lovely](kāṃtaḥ) [and](ca) [possessing-wealth+grain](dhanadhānyavān)

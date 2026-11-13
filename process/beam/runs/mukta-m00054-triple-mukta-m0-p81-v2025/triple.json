@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "jagadānandakarī",
+     "gloss": "world-bliss-causing",
+     "grounds": "compound jagat-ānanda-karī; epithet attributing the production of bliss for the world",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagadāhlādakāriṇī",
+     "gloss": "world-delight-causing",
+     "grounds": "compound jagat-āhlāda-kāriṇī; epithet attributing the production of delight for the world",
+     "morph": "compound; f.nom.sg"
+    }
+   ],
+   "question": "What beneficent effects upon the world characterize this goddess?",
+   "premises": [
+    "The goddess is designated jagadānandakarī.",
+    "The goddess is designated jagadāhlādakāriṇī.",
+    "Both epithets attribute world-directed beneficent effects to her."
+   ],
+   "inference": "Therefore the goddess is characterized as causing both bliss and delight for the world.",
+   "uncertainties": [
+    "The precise semantic distinction between ānanda and āhlāda is not explicitly specified."
+   ],
+   "plain_english": "And she is the one who brings bliss to the world and causes the world to rejoice."
+  }
+ ]
+}

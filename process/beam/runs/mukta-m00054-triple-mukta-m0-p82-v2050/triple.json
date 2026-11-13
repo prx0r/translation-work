@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the reciter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "may-recite",
+     "grounds": "verb expressing potential or habitual recitation",
+     "morph": "3.sg.act-opt √paṭh"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable indicating constant time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrument expressing the manner of recitation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "śreyaḥ",
+     "gloss": "welfare",
+     "grounds": "noun denoting benefit or highest good",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb indicating the arising of the result",
+     "morph": "3.sg.act-pres √bhū"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What benefit results from constant recitation performed with devotion?",
+   "premises": [
+    "A person may recite this text always.",
+    "The recitation is performed with devotion.",
+    "Welfare arises as the outcome of such recitation."
+   ],
+   "inference": "Constant devotional recitation produces welfare for the reciter.",
+   "uncertainties": [],
+   "plain_english": "O beloved, for one who always recites with devotion, welfare indeed arises."
+  }
+ ]
+}

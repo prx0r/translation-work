@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p81",
  "verse": 2008,
- "question": "What action toward the woman is prescribed after the recitation?",
+ "question": "Which lunar phases are identified as manifestations of the goddess?",
  "premises": [
-  "The woman is the object of the action",
-  "Approach is prescribed"
+  "The goddess is identified with the new moon.",
+  "The goddess is identified with the prior phase.",
+  "The goddess is identified with the latter phase and the full moon."
  ],
- "inference": "One should approach the woman.",
- "uncertainties": [],
- "plain_english": "One should approach the woman."
+ "inference": "The goddess manifests as the new moon, the prior and latter phases, and the full moon.",
+ "uncertainties": [
+  "pūrvā and uttarā may qualify paripūrṇimā or stand as separate phases."
+ ],
+ "plain_english": "She is the new moon, likewise the prior and latter phases, and the full moon."
 }

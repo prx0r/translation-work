@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[pomegranate](dāḍimī) [flower-resembling](puṣpasaṃkāśāḥ) [yellow-garment](pītāṃbara) [charming](manoharāḥ)
+[pomegranate](dāḍimī) [flower+resembling](puṣpa+saṃkāśāḥ) [yellow+garment+charming](pītāṃbara+manoharāḥ)
 
 ## mukta-m0-p03-v52
-[intoxicating](madara) [red](rakta) [rolling-eyes](bilolākṣyāḥ) [their](tāsāṃ) [name](nāma) [listen](śṛṇu)
+[intoxication+red+rolling+eyed](mada+rakta+bila+ulākṣyas) [of-them](tāsāṃ) [names](nāmāni) [now](iha) [hear](śṛṇu)
 
 ## mukta-m0-p03-v53
-[all-attracting](sarvākarṣiṇī) [mudrā](mudrā) [and](ca) [thus](tathā) [all-subduing](sarvavaśaṃkarī)
+[all+attracting+mudrā](sarvākarṣiṇi+mudrā) [and](ca) [likewise](tathā) [all+subduing](sarvavaśaṃkarī)
 
 ## mukta-m0-p03-v54
-[all-sky-going](sarvakhecari) [mudrā](mudrā) [and](ca) [all-seed](sarvabījā) [thus](tathā) [supreme](parā)
+[all+sky-moving+mudrā](sarvakhecari+mudrā) [and](ca) [all+seed](sarvabījā) [likewise](tathā) [supreme](parā)
 
 ## mukta-m0-p03-v55
-[thus](ityetāḥ) [spoken](kathitāḥ) [brahmin](vipra) [ten](daśa) [mudrā](mudrā) [presiding-deities](adhidevatāḥ) [red-colored](raktavarṇaḥ)
+[thus](iti) [these](etāḥ) [declared](kathitā) [O-brahmin](vipra) [ten+mudrā+presiding-goddesses](daśa+mudrā+adhidevatāḥ) [red+colored](raktavarṇaḥ)
 
 ## mukta-m0-p03-v56
-[ego](ahaṃkārā) [attracting](karṣiṇī) [and](ca) [all-attracting](sarvākarṣiṇikā) [kalā](kalā)
+[ego](ahaṃkārā) [attracting](karṣiṇī) [and](ca) [all+attracting+digit](sarvākarṣiṇikā+kalā)
 
 ## mukta-m0-p03-v57
-[taste-attracting](rasākarṣiṇikā) [and](ca) [eva](eva) [smell-attracting](gaṃdhākarṣiṇikā) [kalā](kalā)
+[taste+attracting](rasākarṣiṇikā) [and+indeed](ca+eva) [smell+attracting+digit](gaṃdhākarṣiṇikā+kalā)
 
 ## mukta-m0-p03-v58
-[memory-attracting](smṛtyākarṣiṇikā) [eternal](nityā) [name](nāma) [attracting](karṣiṇikā) [kalā](kalā)
+[memory+attracting](smṛtyākarṣiṇikā) [eternal](nityā) [name+attracting+digit](nāmā+karṣiṇikā+kalā)
 
 ## mukta-m0-p03-v59
-[nectar-attracting](amṛtākarṣiṇī) [eternal](nityā) [body-attracting](śarīrākarṣiṇī) [supreme](parā)
+[nectar+attracting](amṛtākarṣiṇī) [eternal](nityā) [body+attracting](śarīrā+karṣiṇī) [supreme](parā)
 
 ## mukta-m0-p03-v60
-[coral-tree](vidrumadruma) [resembling](saṃkāśā) [gentle](maṃda) [smiling-faced](prahasitānanāḥ)
+[coral+tree+resembling](vidruma+druma+saṃkāśā) [gentle](maṃda) [smiling+faced](prahasita+ānanāḥ)
 
 ## mukta-m0-p03-v61
-[bow](cāpa) [arrow](bāṇau) [shield](carmakhaḍga) [etc](udadhāna) [divine-beauty](divyakāṃtayaḥ) [red-colored](raktavarṇaḥ)
+[bow+arrows](cāpa+bāṇau) [shield+sword](carma+khaḍgau) [holding](dadhānā) [divine+beauties](divya+kāṃtayaḥ) [red+colored](raktavarṇaḥ)
 
 ## mukta-m0-p03-v62
-[love-god](anaṃga) [madana](madana) [love-god](anaṃga) [madana-afflicted](madanāturayā) [with](saha)
+[Anaṅgamadanā](anaṃgamadanā) [with](saha) [Anaṅgamadanāturā](anaṃgamadanāturayā)
 
 ## mukta-m0-p03-v63
-[love-god-garlanded](anaṃgamālinī) [supreme](parā) [these](caitāḥ) [goddesses](devyo) [japā-flower-hued](japātviṣaḥ)
+[Anaṅgamālinī](anaṃgamālinya) [supreme](parā) [and](ca) [these](etāḥ) [goddesses](devyaḥ) [poison+of-chanting](japa+ātviṣaḥ)
 
 ## mukta-m0-p03-v64
-[bear](bibhratyā) [water](uda) [sky](bhra) [stride](vikrāṃti) [graceful](śālinī) [playful](lalitā) [command](ājñayā) [red-colored](raktavarṇaḥ)
+[bearing](bibhrati) [cloud+prowess+endowed](uda+abhra+vikrāṃti+śālinyaḥ) [by-Lalitā's+command](lalitā+ājñayā) [red+colored](raktavarṇaḥ)
 
 ## mukta-m0-p03-v65
-[braid](veṇī) [made-hair](kṛtakacasmotāḥ) [sindūra-tilaka](siṃdūratilaka) [shining](ujjvalāḥ)
+[braid](veṇī) [made+hair+adorned](kṛta+kaca+smitāḥ) [vermilion+mark+resplendent](siṃdūra+tilaka+ujjvalāḥ)
 
 ## mukta-m0-p03-v66
-[fire-bow](vahnicāpaṃ) [fire-arrow](vahnibāṇaṃ) [fire-form](vahnirūpa) [sword](asiṃ) [thus](tathā)
+[fire+bow](vahni+cāpaṃ) [fire+arrow](vahni+bāṇaṃ) [fire+form+sword](vahni+rūpam+asiṃ) [likewise](tathā)
 
 ## mukta-m0-p03-v67
-[demon-lord](asureṃdraṃ) [enraged](pratikruddhāḥ) [love-ashes](kāmabhasma) [born](samudbhavam)
+[demon+lord](asura+iṃdraṃ) [extremely+angry](pratikruddhāḥ) [Kāma+ashes+born](kāma+bhasma+samudbhavam)
 
 ## mukta-m0-p03-v68
-[all-agitating](sarvasaṃkṣobhiṇī) [and](ca) [eva](eva) [all-dissolving](sarvavidrāviṇī) [thus](tathā)
+[all+agitating](sarvasaṃkṣobhiṇī) [and+indeed](ca+eva) [all+driving-away](sarvavidrāviṇī) [likewise](tathā)
 
 ## mukta-m0-p03-v69
-[all-deluding](sarvasaṃmohinī) [power](śaktiḥ) [all-stupefying](sarvastaṃbhinikā) [thus](tathā)
+[all+deluding+power](sarvasaṃmohinī+śaktiḥ) [all+paralyzing](sarvastaṃbhinikā) [likewise](tathā)
 
 ## mukta-m0-p03-v70
-[all-coloring](sarvaraṃjinikā) [power](śaktiḥ) [all-maddening](sarvonmādinikā) [thus](tathā)
+[all+delighting+power](sarvaraṃjinikā+śaktiḥ) [all+maddening](sarvonmādinikā) [likewise](tathā)
 
 ## mukta-m0-p03-v71
-[all-mantra-filled](sarvamaṃtramayī) [power](śaktiḥ) [all-duality-destroying](sarvadvaṃdvakṣayaṃkarī)
+[all+mantra+consisting+power](sarvamaṃtramayī+śaktiḥ) [all+conflict+destroying](sarvadvaṃdva+kṣayaṃkarī)
 
 ## mukta-m0-p03-v72
-[thus](ityevaṃ) [tradition](saṃpradāyānāṃ) [names](nāmāni) [spoken](kathitāni) [indeed](vai) [red-colored](raktavarṇaḥ)
+[thus](iti) [indeed](evaṃ) [of-the-traditions](saṃpradāyānāṃ) [names](nāmāni) [declared](kathitāni) [indeed](vai) [red+colored](raktavarṇaḥ)
 
 ## mukta-m0-p03-v73
-[mace](gadāṃ) [bell](ghaṃṭā) [jewel](maṇiṃ) [and](ca) [eva](eva) [bearing](dadhānā) [blazing](dīpta) [forms](vigrahāḥ)
+[mace](gadāṃ) [bell](ghaṃṭāṃ) [jewel](maṇiṃ) [and+indeed](ca+eva) [holding](dadhānā) [blazing+bodies](dīpta+vigrahāḥ)
 
 ## mukta-m0-p03-v74
-[their](etāsām) [also](api) [names](nāmāni) [listen](samākarṇaya) [kumbhaja](kuṃbhaja)
+[of-these](etāsām) [also](api) [names](nāmāni) [listen](samākarṇaya) [O-pot-born](kuṃbhaja)
 
 ## mukta-m0-p03-v75
-[all-dear-making](sarvapriyaṃkarī) [goddess](devī) [all-auspicious-doing](sarvamaṃgalakāriṇī)
+[all+dear+making+goddess](sarvapriyaṃkarī+devī) [all+auspicious+causing](sarvamaṃgalakāriṇī)
