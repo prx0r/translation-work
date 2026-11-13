@@ -7,42 +7,42 @@
     {
      "surface": "taṃ",
      "gloss": "that",
-     "grounds": "demonstrative pronoun accusative singular masculine",
+     "grounds": "accusative masculine singular of tad",
      "morph": "m.acc.sg"
     },
     {
      "surface": "jñātvā",
      "gloss": "having-known",
-     "grounds": "absolutive of root jñā",
-     "morph": "(indecl.)"
+     "grounds": "absolutive of jñā",
+     "morph": "(abs.)"
     },
     {
      "surface": "gūḍhasadbhāvaṃ",
      "gloss": "hidden-true-nature",
-     "grounds": "compound adjective accusative singular masculine",
+     "grounds": "accusative masculine singular compound gūḍha+sadbhāva",
      "morph": "m.acc.sg"
     },
     {
      "surface": "sarvajñatvam",
      "gloss": "all-knowingness",
-     "grounds": "abstract noun accusative singular neuter",
-     "morph": "n.acc.sg"
+     "grounds": "neuter nominative singular abstract noun",
+     "morph": "n.nom.sg"
     },
     {
      "surface": "prajāyate",
      "gloss": "arises",
-     "grounds": "verb third singular middle present",
-     "morph": "3.sg.mid.pres"
+     "grounds": "third person singular middle present of pra-jan",
+     "morph": "3.sg.mid.-pres."
     }
    ],
-   "question": "What arises when the hidden true nature is known?",
+   "question": "What arises when one knows the hidden true nature?",
    "premises": [
-    "Knowing hidden true nature produces all-knowingness.",
-    "All-knowingness arises after such knowledge."
+    "Knowing hidden true nature causes all-knowingness.",
+    "All-knowingness arises from that knowledge."
    ],
-   "inference": "Knowledge of the hidden true nature gives rise to all-knowingness.",
+   "inference": "Knowledge of the hidden true nature produces omniscience.",
    "uncertainties": [
-    "gūḍhasadbhāvaṃ is taken as accusative modifier of taṃ."
+    "Compound gūḍha+sadbhāva is parsed as one fused accusative form."
    ],
    "plain_english": "Having known that hidden true nature, all-knowingness arises."
   }

@@ -1,16 +1,17 @@
 {
  "song": "kjn-p13",
  "verse": 318,
- "question": "What becomes the supreme cakra when lord and fallen are that?",
+ "question": "What pairing of lord and fallen is said to become supreme cakra?",
  "premises": [
-  "lord is named",
-  "fallen is named",
-  "supreme cakra is named"
+  "lord is mentioned",
+  "fallen is mentioned",
+  "that may be",
+  "supreme cakra is mentioned"
  ],
- "inference": "The verse connects lord and fallen with the supreme cakra, but the final token is uncertain.",
+ "inference": "The verse pairs lord and fallen with the supreme cakra.",
  "uncertainties": [
-  "final token is illegible or editorially marked unknown",
-  "exact syntactic relation is unclear"
+  "text is corrupt or incomplete",
+  "exact doctrinal claim unclear"
  ],
- "plain_english": "Lord and fallen, that may be the supreme cakra, ?"
+ "plain_english": "Lord and fallen, that may be, supreme cakra, ?."
 }
