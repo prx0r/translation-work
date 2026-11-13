@@ -3,24 +3,49 @@
  "verse": 484,
  "rows": [
   {
-   "lemma": "kālikādarśanantasya",
-   "morph": "compound: kālikā+darśana, n.nom.sg + m.gen.sg",
-   "grounds": "fused compound expressing result for the practitioner"
+   "lemma": "śiva",
+   "morph": "compound=śiva-tatvena+first",
+   "grounds": "śiva"
   },
   {
-   "lemma": "bhaved",
-   "morph": "3.sg.opt.act √bhū",
-   "grounds": "optative stating the promised result"
+   "lemma": "tatvena",
+   "morph": "compound=śiva-tatvena+second",
+   "grounds": "by that principle"
   },
   {
-   "lemma": "eva",
+   "lemma": "śāstha",
+   "morph": "compound=śāstha-ādi+first",
+   "grounds": "teaching/scripture"
+  },
+  {
+   "lemma": "ādi",
+   "morph": "compound=śāstha-ādi+second",
+   "grounds": "etcetera"
+  },
+  {
+   "lemma": "dūṣaṇaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "defilement/fault"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "particle emphasizing certainty"
+   "grounds": "not"
   },
   {
-   "lemma": "triyāmataḥ",
-   "morph": "n.abl.sg",
-   "grounds": "ablative indicating time limit"
+   "lemma": "asti",
+   "morph": "3.sg.act-pres √as",
+   "grounds": "exists"
+  },
+  {
+   "lemma": "vai",
+   "morph": "(indecl.)",
+   "grounds": "truly"
+  },
+  {
+   "lemma": "tadā",
+   "morph": "(indecl.)",
+   "grounds": "at that time"
   }
  ]
 }

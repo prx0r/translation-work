@@ -3,29 +3,39 @@
  "verse": 482,
  "rows": [
   {
-   "lemma": "dakṣiṇākālikā",
-   "morph": "f.nom.sg",
-   "grounds": "subject, name of the goddess"
+   "lemma": "strī",
+   "morph": "compound=strī-rajaḥ+first",
+   "grounds": "woman"
   },
   {
-   "lemma": "tasya",
-   "morph": "m.gen.sg",
-   "grounds": "possessive referring to the practitioner"
+   "lemma": "rajaḥ",
+   "morph": "compound=strī-rajaḥ+second",
+   "grounds": "menstrual fluid"
   },
   {
-   "lemma": "gehe",
-   "morph": "n.loc.sg",
-   "grounds": "locative indicating place of dwelling"
+   "lemma": "parameśāni",
+   "morph": "f.voc.sg",
+   "grounds": "vocative address"
   },
   {
-   "lemma": "tiṣṭhati",
-   "morph": "3.sg.pres.act √sthā",
-   "grounds": "present verb stating the result"
+   "lemma": "dehaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "body"
   },
   {
-   "lemma": "nānyathā",
+   "lemma": "tena",
+   "morph": "n.inst.sg",
+   "grounds": "from that"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "negated adverb asserting certainty"
+   "grounds": "itself"
+  },
+  {
+   "lemma": "jāyate",
+   "morph": "3.sg.pass-pres √jan",
+   "grounds": "comes into being"
   }
  ]
 }

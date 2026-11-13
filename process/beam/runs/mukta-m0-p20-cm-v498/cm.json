@@ -3,24 +3,39 @@
  "verse": 498,
  "rows": [
   {
-   "lemma": "caturvedādhipo",
-   "morph": "compound: catur+veda+adhipa, m.nom.sg",
-   "grounds": "predicate describing attained status"
+   "lemma": "kulāla",
+   "morph": "compound=kulāla-cakra+first",
+   "grounds": "potter"
   },
   {
-   "lemma": "bhūtvā",
-   "morph": "absolutive √bhū",
-   "grounds": "absolutive indicating attained state"
+   "lemma": "cakra",
+   "morph": "compound=kulāla-cakra+second",
+   "grounds": "wheel"
   },
   {
-   "lemma": "trikālajñas",
-   "morph": "compound: tri+kāla+jña, m.nom.sg",
-   "grounds": "predicate describing omnitemporal knowledge"
+   "lemma": "bhedena",
+   "morph": "m.inst.sg",
+   "grounds": "by distinction"
   },
   {
-   "lemma": "trivarṣataḥ",
-   "morph": "n.abl.sg",
-   "grounds": "ablative indicating time frame"
+   "lemma": "ghaṭa",
+   "morph": "compound=ghaṭa-ākāśaṃ+first",
+   "grounds": "pot"
+  },
+  {
+   "lemma": "ākāśaṃ",
+   "morph": "compound=ghaṭa-ākāśaṃ+second",
+   "grounds": "space"
+  },
+  {
+   "lemma": "yathā",
+   "morph": "(indecl.)",
+   "grounds": "just as"
+  },
+  {
+   "lemma": "ghaṭe",
+   "morph": "m.loc.sg",
+   "grounds": "in the pot"
   }
  ]
 }

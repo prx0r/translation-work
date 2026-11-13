@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p22",
  "verse": 546,
- "question": "Which harmful beings are targeted by the ash ritual's protective power?",
+ "question": "How is fear of weapons prevented by reciting seven times and holding in the mouth?",
  "premises": [
-  "Ghosts, spirits, and seizers are named.",
-  "Demons and brahma-demons are named.",
-  "Other similar beings are included."
+  "Recitation is performed seven times.",
+  "Something is to be held in the mouth.",
+  "Fear of weapons does not arise."
  ],
- "inference": "The ritual targets ghosts, spirits, possessing entities, demons, brahma-demons, and others.",
- "uncertainties": [],
- "plain_english": "Of ghosts, spirits, possessing entities, demons, brahma-demons, and others—"
+ "inference": "Therefore reciting seven times and holding it in the mouth prevents fear of weapons.",
+ "uncertainties": [
+  "The object to be held in the mouth is not explicitly named."
+ ],
+ "plain_english": "Having recited seven times and held it in the mouth, fear of weapons does not arise."
 }

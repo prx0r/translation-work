@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p22",
  "verse": 548,
- "question": "What effect does merely sprinkling the empowered ash have on possessing entities?",
+ "question": "What birth result is promised for a sonless woman sprinkled with those waters?",
  "premises": [
-  "The ash is sprinkled.",
-  "The effect concerns all seizing entities.",
-  "The result is their destruction."
+  "Consecrated waters are used for sprinkling.",
+  "The woman is sonless.",
+  "A son is born as the result."
  ],
- "inference": "Merely sprinkling the ash brings about the destruction of all possessing entities.",
- "uncertainties": [],
- "plain_english": "By merely sprinkling the ash, all possessing entities are destroyed."
+ "inference": "Therefore a sonless woman sprinkled with those waters gives birth to a son.",
+ "uncertainties": [
+  "The form aputro is irregular for the expected feminine form."
+ ],
+ "plain_english": "A sonless woman, sprinkled with those waters, gives birth to a son."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p22",
  "verse": 542,
- "question": "How certain is the practitioner's possession of these attained powers, O goddess?",
+ "question": "What indestructible benefit belongs to one who is always devoted to worship?",
  "premises": [
-  "These powers dwell in his hand.",
-  "The goddess is addressed directly.",
-  "No further consideration is needed."
+  "A person is always devoted to worship.",
+  "A benefit is referred to as that.",
+  "The benefit becomes indestructible for such a person."
  ],
- "inference": "These powers dwell in his hand without any doubt.",
- "uncertainties": [],
- "plain_english": "O goddess, these dwell in his hand; there is no doubt about this."
+ "inference": "Therefore for one always devoted to worship that benefit becomes indestructible.",
+ "uncertainties": [
+  "The specific referent of tat is carried over from prior context."
+ ],
+ "plain_english": "For one who is always devoted to worship, that becomes indestructible."
 }

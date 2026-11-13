@@ -3,34 +3,44 @@
  "verse": 491,
  "rows": [
   {
-   "lemma": "anyāṃ",
-   "morph": "f.acc.sg",
-   "grounds": "accusative object of worship"
+   "lemma": "grāma",
+   "morph": "compound=grāma-madhya+first",
+   "grounds": "village"
   },
   {
-   "lemma": "sampūjayet",
-   "morph": "3.sg.opt.act √pūj with sam",
-   "grounds": "optative prescribing worship"
+   "lemma": "madhya",
+   "morph": "compound=grāma-madhya+second",
+   "grounds": "middle"
   },
   {
-   "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "locative adverb"
+   "lemma": "gataṃ",
+   "morph": "n.nom.sg",
+   "grounds": "situated in"
   },
   {
-   "lemma": "tvanyāṃ",
-   "morph": "particle + f.acc.sg",
-   "grounds": "fused form with particle and accusative object"
+   "lemma": "sarvaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "everything"
   },
   {
-   "lemma": "sammarddayañ",
-   "morph": "m.nom.sg.pres.part.act √mṛd with sam",
-   "grounds": "present participle describing concurrent action; form preserved"
+   "lemma": "viṣṭā",
+   "morph": "compound=viṣṭā-mūtra-ādi+first",
+   "grounds": "excrement"
   },
   {
-   "lemma": "japet",
-   "morph": "3.sg.opt.act √jap",
-   "grounds": "optative prescribing recitation"
+   "lemma": "mūtra",
+   "morph": "compound=viṣṭā-mūtra-ādi+second",
+   "grounds": "urine"
+  },
+  {
+   "lemma": "ādi",
+   "morph": "compound=viṣṭā-mūtra-ādi+third",
+   "grounds": "etcetera"
+  },
+  {
+   "lemma": "ṣūditam",
+   "morph": "n.nom.sg",
+   "grounds": "tainted"
   }
  ]
 }

@@ -3,39 +3,39 @@
  "verse": 550,
  "rows": [
   {
-   "lemma": "bahu",
-   "morph": "compound:bahu+first",
-   "grounds": "first member of compound describing the woman"
+   "lemma": "sva+arthaṃ",
+   "morph": "compound.acc.sg.nt",
+   "grounds": "compound sva+artha in accusative sense indicating purpose; internal sandhi preserved in fused token"
   },
   {
-   "lemma": "putra",
-   "morph": "compound:putra+middle",
-   "grounds": "second member of compound describing the woman"
-  },
-  {
-   "lemma": "vatī",
-   "morph": "compound:vatī+final.f.nom.sg",
-   "grounds": "final member of compound; feminine form agreeing with nārī"
-  },
-  {
-   "lemma": "nārī",
-   "morph": "f.nom.sg",
-   "grounds": "subject of the sentence"
-  },
-  {
-   "lemma": "subhagā",
-   "morph": "f.nom.sg",
-   "grounds": "predicate adjective describing the woman"
-  },
-  {
-   "lemma": "jāyate",
-   "morph": "3.sg.pass-pres √jan",
-   "grounds": "main verb expressing resulting state"
-  },
-  {
-   "lemma": "dhruvam",
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "adverb asserting certainty of the outcome"
+   "grounds": "disjunctive particle presenting an alternative"
+  },
+  {
+   "lemma": "atha",
+   "morph": "(indecl.)",
+   "grounds": "particle used with vā to mark an alternative"
+  },
+  {
+   "lemma": "para+arthaṃ",
+   "morph": "compound.acc.sg.nt",
+   "grounds": "compound para+artha in accusative sense indicating purpose; internal sandhi preserved in fused token"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle completing the alternative"
+  },
+  {
+   "lemma": "apa+mṛtyur",
+   "morph": "compound.nom.sg.m",
+   "grounds": "compound apa+mṛtyu denoting premature death; nominative subject"
+  },
+  {
+   "lemma": "vinaśyati",
+   "morph": "3.sg.act-pres √naś+vi",
+   "grounds": "verb expressing the removal or perishing of untimely death"
   }
  ]
 }
