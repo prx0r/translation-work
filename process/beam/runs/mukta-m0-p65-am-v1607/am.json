@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1607,
- "question": "What number of name-linked mantra recitations brings a targeted person under control?",
+ "question": "Is eating or food excluded in the ritual context being described?",
  "premises": [
-  "The mantra is recited using a person's name.",
-  "The recitation is performed one thousand times.",
-  "The targeted person comes under control."
+  "Eating is mentioned",
+  "Food is mentioned",
+  "Exclusion is expressed twice"
  ],
- "inference": "Reciting the mantra one thousand times with a person's name brings that person under control.",
- "uncertainties": [],
- "plain_english": "If one should recite the mantra a thousand times with someone's name, that person would come under control."
+ "inference": "The context involves absence of eating and food",
+ "uncertainties": [
+  "The syntactic connection to surrounding verses is elliptical"
+ ],
+ "plain_english": "Eating and food are without, without."
 }

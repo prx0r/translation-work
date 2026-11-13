@@ -3,29 +3,34 @@
  "verse": 1617,
  "rows": [
   {
-   "lemma": "punar",
+   "lemma": "gurvādi",
+   "morph": "compound guru+ādi, (indecl.)",
+   "grounds": "compound indicating a series beginning with guru"
+  },
+  {
+   "lemma": "navapātrāṇāṃ",
+   "morph": "compound nava+pātra, n.gen.pl",
+   "grounds": "genitive compound specifying items"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "repetition of a prior step"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "dhyātvā",
-   "morph": "(gerund) √dhyai",
-   "grounds": "renewed visualization"
+   "lemma": "atra",
+   "morph": "(indecl.)",
+   "grounds": "locative adverb specifying context"
   },
   {
-   "lemma": "āvāhya",
-   "morph": "(gerund) ā+√vah",
-   "grounds": "ritual invocation of the deity"
+   "lemma": "sthāpanam",
+   "morph": "n.nom.sg",
+   "grounds": "nominal action subject to negation"
   },
   {
-   "lemma": "pañca+upacāraiḥ",
-   "morph": "compound=number+m.ins.pl",
-   "grounds": "worship using five ritual services"
-  },
-  {
-   "lemma": "pūjayet",
-   "morph": "3.sg.act-opt √pūj",
-   "grounds": "performance of worship"
+   "lemma": "iṣyate",
+   "morph": "3.sg.passive-present + iṣ",
+   "grounds": "present passive expressing approval or requirement"
   }
  ]
 }

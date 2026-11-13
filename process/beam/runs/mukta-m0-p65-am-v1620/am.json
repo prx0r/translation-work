@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p65",
  "verse": 1620,
- "question": "What protection against poverty is granted to one who remembers this sacred knowledge?",
+ "question": "What injunction is reinforced by pairing two verbs of performance?",
  "premises": [
-  "A person remembers that sacred knowledge.",
-  "Poverty is a force that can overcome a person.",
-  "Such a person is not overcome by poverties."
+  "One verb prescribes performing",
+  "Another verb prescribes doing",
+  "Both express obligation"
  ],
- "inference": "One who remembers that sacred knowledge is not overcome by poverty.",
- "uncertainties": [],
- "plain_english": "O goddess, whoever should remember that knowledge is not overcome by poverties."
+ "inference": "The required action should be duly performed",
+ "uncertainties": [
+  "The specific action is supplied by preceding instructions"
+ ],
+ "plain_english": "One should perform it; one should do it."
 }

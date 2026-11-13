@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle referring to the preceding visualization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānandamayīṃ",
+     "gloss": "consisting-of-bliss",
+     "grounds": "describes the goddess visualized in the prior verses",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating prior contemplative act",
+     "morph": "absolutive (√dhyai)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescriptive injunction following the visualization",
+     "morph": "3.sg.opt.act (√smṛ)"
+    },
+    {
+     "surface": "ānandabhairavam",
+     "gloss": "bliss-bhairava",
+     "grounds": "object of remembrance; compound of ānanda and bhairava",
+     "morph": "m.acc.sg (compound: ānanda+bhairava)"
+    }
+   ],
+   "question": "What contemplative act must follow visualizing the blissful goddess to enable remembrance of Ānandabhairava?",
+   "premises": [
+    "The preceding visualization depicts a blissful goddess.",
+    "Meditation on this blissful form is to be completed first.",
+    "Remembrance of Ānandabhairava is enjoined as the subsequent act."
+   ],
+   "inference": "Having meditated on the blissful goddess, the practitioner should remember Ānandabhairava.",
+   "uncertainties": [
+    "The precise experiential distinction between dhyātvā and smaret in this context is not fully specified."
+   ],
+   "plain_english": "Thus, having meditated on her as consisting of bliss, one should remember Ānandabhairava."
+  }
+ ]
+}

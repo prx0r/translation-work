@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p400-v9976
-[four-thousand](catuḥsahasraṃ) [should-mutter](prajapet) [daily](nityaṃ) [up-to-a-year](saṃvatsara+avadhi)
+[four-thousand](catuḥsahasraṃ) [one-should-mutter](prajapen) [daily](nityaṃ) [year+limit](saṃvatsara+avadhi)
 
 ## mukta-m0-p400-v9977
-[afflictions](kleśān) [having-conquered](nirjitya) [radiant](tejasvī) [should-live](jīvet) [hundred-years](varṣa+śataṃ) [wise-one](sudhīḥ)
+[afflictions](kleśān) [having-conquered](nirjitya) [radiant](tejasvī) [one-should-live](jīved) [hundred+years](varṣa+śataṃ) [wise-one](sudhīḥ)
 
 ## mukta-m0-p400-v9978
-[with-curd](dadhnā) [and](ca) [with-fuel-sticks](samidbhiḥ) [or](vā) [on-lunar-days](pratipatsu) [should-be](bhavet) [wealth](dhanam)
+[with-curd](dadhnā) [and](ca) [with-fuel-sticks](samidbhir) [or](vā) [on-first-lunar-days](pratipatsu) [would-be](bhaved) [wealth](dhanam)
 
 ## mukta-m0-p400-v9979
-[with-sesame-seeds](tilaiḥ) [become-luminous](jyotiṣmatī+bhūtaiḥ) [enemy-kingdom](ripu+rāṣṭraṃ) [should-conquer](jayet) [king](nṛpaḥ)
+[with-sesame-seeds](tilair) [luminous+become](jyotiṣmatī+bhūtai) [enemy+kingdom](ripu+rāṣṭrañ) [should-conquer](jayen) [king](nṛpaḥ)
 
 ## mukta-m0-p400-v9980
-[maiden](kanyām) [desired](iṣṭām) [obtains](avāpnoti) [she](sā) [also](api) [him](taṃ) [would-obtain](prāpnuyāt) [as-husband](varam)
+[maiden](kanyām) [desired](iṣṭām) [obtains](avāpnoti) [she](sā) [also](api) [him](taṃ) [would-obtain](prāpnuyād) [as-suitor](varam)
 
 ## mukta-m0-p400-v9981
-[with-cooked-rice-offerings](sānnaiḥ) [thousand](sahasram) [soon](acirāt) [great](mahatīṃ) [prosperity](śriyam) [would-obtain](āpnuyāt)
+[with-cooked-rice-offerings](sānnaiḥ) [thousand](sahasram) [soon](acirān) [great](mahatīṃ) [prosperity](śriyam) [one-would-obtain](āpnuyāt)
 
 ## mukta-m0-p400-v9982
-[ghee-smeared](ājya+ākta) [dūrvā-grass](dūrvā) [by-oblation](homena) [should-live](jīvet) [hundred-years](varṣa+śataṃ) [man](naraḥ)
+[ghee+smeared](ājyākta) [dūrvā-grass+oblation](dūrvā+homena) [should-live](jīved) [hundred+years](varṣa+śataṃ) [person](naraḥ)
 
 ## mukta-m0-p400-v9983
-[by-offering](juhvatā) [is-obtained](labhyate) [fortune](lakṣmīḥ) [wealth](dhana) [grain](dhānya) [prosperity-giving](samṛddhi+dā)
+[by-offering](juhvatā) [is-obtained](labhyate) [fortune](lakṣmīr) [wealth+grain+abundance+giving](dhana+dhānya+samṛddhi+dā)
 
 ## mukta-m0-p400-v9984
-[prosperity](śrīḥ) [should-be](bhavet) [great](mahatī) [of-him](tasya) [in-six-months](ṣaṇ+māsāt) [unfailing](anapāyinī)
+[prosperity](śrīr) [would-be](bhaven) [great](mahatī) [of-him](tasya) [in-six+months](ṣaṇ+māsād) [not+departing](ana+pāyinī)
 
 ## mukta-m0-p400-v9985
-[should-offer](juhuyāt) [within-a-year](vatsarāt+arvāk) [he](saḥ) [should-become](bhavet) [lord-of-Indirā](indirā+patiḥ)
+[one-should-offer](juhuyād) [within-a-year](vatsarād) [before](arvāk) [he](sa) [would-become](bhaved) [Indra's+lord](indirā+patiḥ)
 
 ## mukta-m0-p400-v9986
-[for-a-year](vatsaraṃ) [of-one-offering](juhvataḥ) [with-them](taiḥ) [would-be](syāt) [fortune](lakṣmīḥ) [by-Indra](indreṇa) [desired](vāñchitā)
+[for-a-year](vatsaraṃ) [of-one-offering](juhvatas) [with-them](taiḥ) [would-be](syāl) [fortune](lakṣmīr) [by-Indra](indreṇa) [desired](vāñchitā)
 
 ## mukta-m0-p400-v9987
-[three-thousand](trisahasraṃ) [every-day](prati+dinam) [for-mantra-accomplishment](mantra+siddhyai) [self-controlled](jita+indriyaḥ)
+[three-thousand](trisahasraṃ) [every+day](prati+dinam) [for-mantra+accomplishment](mantra+siddhyai) [sense-controlled](jitendriyaḥ)
 
 ## mukta-m0-p400-v9988
-[should-live](jīvet) [hundred-years](varṣa+śataṃ) [having-become](bhūtvā) [with-radiance](tejasā) [sun-splendor](bhāskara+prabhaḥ)
+[one-should-live](jīved) [hundred+years](varṣa+śataṃ) [having-become](bhūtvā) [with-radiance](tejasā) [sun+splendor](bhāskara+prabhaḥ)
 
 ## mukta-m0-p400-v9989
-[with-blossoms](prasūnaiḥ) [with-flowers](kusumaiḥ) [blooming](phullaiḥ) [with-kuṭaja](kuṭajaiḥ) [jasmine-born](jāti+sambhavaiḥ)
+[with-blossoms](prasūnaiḥ) [with-flowers](kusumaiḥ) [blooming](phullaiḥ) [with-kuṭaja](kuṭajair) [jasmine+born](jāti+sambhavaiḥ)
 
 ## mukta-m0-p400-v9990
-[would-obtain](āpnuyāt) [great](mahatīṃ) [fortune](lakṣmīṃ) [in-a-year](vatsarāt) [more-than-desired](vāñchita+adhikām)
+[one-would-obtain](āpnuyān) [great](mahatīṃ) [fortune](lakṣmīṃ) [within-a-year](vatsarād) [desired+surpassing](vāñchita+adhikām)
 
 ## mukta-m0-p400-v9991
-[with-cow-milk](go+dugdhena) [oblation](haviḥ) [having-made](kṛtvā) [with-morsel](kavalam) [by-that](tena) [should-arrange](kalpayet)
+[with-cow's+milk](go+dugdhena) [oblation](haviḥ) [having-made](kṛtvā) [with-mouthful](kavalantena) [one-should-perform](kalpayet)
 
 ## mukta-m0-p400-v9992
-[with-fragrance](gandha) [garlands](mālya) [and-so-forth](ādibhiḥ) [properly](samyak) [having-muttered](japitvā) [hundred-and-eight](aṣṭa+uttaraṃ) [hundred](śatam)
+[with-fragrance+garlands+and-so-forth](gandha+mālya+ādibhiḥ) [properly](samyag) [having-muttered](japitvā) [eight+more-than+hundred](aṣṭa+uttaraṃ) [hundred](śatam)
 
 ## mukta-m0-p400-v9993
-[is-born](jāyate) [in-a-year](vatsarāt) [indeed](eva) [fortune](lakṣmīḥ) [three-worlds-enchanting](trailokya+mohinī)
+[is-born](jāyate) [within-a-year](vatsarād) [indeed](eva) [fortune](lakṣmīs) [three-worlds+enchanting](trailokya+mohinī)
 
 ## mukta-m0-p400-v9994
-[Sarasvatī](bhāratī) [would-dwell](nivaset) [of-him](tasya) [in-lotus-mouth](mukha+ambhoje) [ever-steadfast](ati+niścalā)
+[Sarasvatī](bhāratī) [would-dwell](nivaset) [of-him](tasya) [mouth+lotus](mukha+ambhoje) [ever+steady](ati+niścalā)
 
 ## mukta-m0-p400-v9995
-[digestive-fire](jāṭhara+agniḥ) [would-become](bhavet) [of-him](tasya) [with-ghee](ghṛtena) [indeed](eva) [sacrificial-fire](hutāśanaḥ)
+[digestive+fire](jāṭhara+agnir) [would-become](bhavet) [of-him](tasya) [with-ghee](ghṛtena) [indeed](eva) [sacrificial-fire](hutāśanaḥ)
 
 ## mukta-m0-p400-v9996
-[milk-tree](kṣīra+vṛkṣa) [born-from](samudbhūtaiḥ) [with-decoctions](kvāthaiḥ) [them](tān) [should-fill](pūrayet) [in-order](kramāt)
+[milk+tree+arisen](kṣīra+vṛkṣa+samudbhūtaiḥ) [with-decoctions](kvāthais) [them](tān) [one-should-fill](pūrayet) [in-order](kramāt)
 
 ## mukta-m0-p400-v9997
-[in-pots](kumbheṣu) [with-incense](dhūpa) [lamps](dīpa) [and-so-forth](ādyaiḥ) [with-flowers](puṣpa) [incense](dhūpaiḥ) [delightful](manoharaiḥ)
+[in-pots](kumbheṣu) [with-incense+lamps+and-so-forth](dhūpa+dīpa+ādyaiḥ) [with-flower+incense](puṣpa+dhūpair) [mind-delighting](manoharaiḥ)
 
 ## mukta-m0-p400-v9998
-[should-sprinkle](abhiṣiñcet) [then](tataḥ) [the-person-to-be-treated](sādhyam) [humble](vinītaṃ) [given-fee](datta+dakṣiṇam)
+[one-should-sprinkle](abhiṣiñcet) [then](tataḥ) [the-person-to-be-treated](sādhyaṃ) [humble](vinītaṃ) [given+fee](datta+dakṣiṇam)
 
 ## mukta-m0-p400-v9999
-[of-fire](agneḥ) [worship](ārādhanam) [and](ca) [thus](ittham) [enjoyment](bhukti) [liberation](mukti) [giving](prada+dāyakam)
+[of-fire](agner) [worship](ārādhanaṃ) [thus](cetthaṃ) [enjoyment+liberation+giving](bhukti+mukti+pradāyakam)
 
 ## mukta-m0-p400-v10000
-[oṃ-kroṃ-hrīṃ-āṃ](oṃ-kroṃ-hrīṃ-āṃ) [oṃ-kroṃ hrīṃ āṃ vaiṃ vaivasvatāya dharmarājāya bhaktānugrahakṛte namaḥ ||](oṃ-kroṃ hrīṃ āṃ vaiṃ vaivasvatāya dharmarājāya bhaktānugrahakṛte namaḥ ||) [and](ca) [that-seed](tat+bījaṃ) [ending-in-ṅa](ṅa+antaṃ) [of-Vaivasvata](vaivasvataṃ) [should-say](vadet)
+[oṃ-kroṃ-hrīṃ-āṃ](oṃ-kroṃ-hrīṃ-āṃ) [oṃ-kroṃ hrīṃ āṃ vaiṃ vaivasvatāya dharmarājāya bhaktānugrahakṛte namaḥ ||](oṃ-kroṃ hrīṃ āṃ vaiṃ vaivasvatāya dharmarājāya bhaktānugrahakṛte namaḥ ||) [and](ca) [that+seed](tad+bījaṃ) [ṅ-ending](ṅentaṃ) [Vaivasvata](vaivasvataṃ) [one-should-say](vadet)

@@ -11,8 +11,8 @@
 "quick_gloss": "four-thousand"
 },
 {
-"surface": "prajapet",
-"quick_gloss": "should-mutter"
+"surface": "prajapen",
+"quick_gloss": "one-should-mutter"
 },
 {
 "surface": "nityaṃ",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "saṃvatsara+avadhi",
-"quick_gloss": "up-to-a-year"
+"quick_gloss": "year+limit"
 }
 ]
 },
@@ -44,12 +44,12 @@
 "quick_gloss": "radiant"
 },
 {
-"surface": "jīvet",
-"quick_gloss": "should-live"
+"surface": "jīved",
+"quick_gloss": "one-should-live"
 },
 {
 "surface": "varṣa+śataṃ",
-"quick_gloss": "hundred-years"
+"quick_gloss": "hundred+years"
 },
 {
 "surface": "sudhīḥ",
@@ -73,7 +73,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "samidbhiḥ",
+"surface": "samidbhir",
 "quick_gloss": "with-fuel-sticks"
 },
 {
@@ -82,11 +82,11 @@
 },
 {
 "surface": "pratipatsu",
-"quick_gloss": "on-lunar-days"
+"quick_gloss": "on-first-lunar-days"
 },
 {
-"surface": "bhavet",
-"quick_gloss": "should-be"
+"surface": "bhaved",
+"quick_gloss": "would-be"
 },
 {
 "surface": "dhanam",
@@ -102,19 +102,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tilaiḥ",
+"surface": "tilair",
 "quick_gloss": "with-sesame-seeds"
 },
 {
-"surface": "jyotiṣmatī+bhūtaiḥ",
-"quick_gloss": "become-luminous"
+"surface": "jyotiṣmatī+bhūtai",
+"quick_gloss": "luminous+become"
 },
 {
-"surface": "ripu+rāṣṭraṃ",
-"quick_gloss": "enemy-kingdom"
+"surface": "ripu+rāṣṭrañ",
+"quick_gloss": "enemy+kingdom"
 },
 {
-"surface": "jayet",
+"surface": "jayen",
 "quick_gloss": "should-conquer"
 },
 {
@@ -155,12 +155,12 @@
 "quick_gloss": "him"
 },
 {
-"surface": "prāpnuyāt",
+"surface": "prāpnuyād",
 "quick_gloss": "would-obtain"
 },
 {
 "surface": "varam",
-"quick_gloss": "as-husband"
+"quick_gloss": "as-suitor"
 }
 ]
 },
@@ -180,7 +180,7 @@
 "quick_gloss": "thousand"
 },
 {
-"surface": "acirāt",
+"surface": "acirān",
 "quick_gloss": "soon"
 },
 {
@@ -193,7 +193,7 @@
 },
 {
 "surface": "āpnuyāt",
-"quick_gloss": "would-obtain"
+"quick_gloss": "one-would-obtain"
 }
 ]
 },
@@ -205,28 +205,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ājya+ākta",
-"quick_gloss": "ghee-smeared"
+"surface": "ājyākta",
+"quick_gloss": "ghee+smeared"
 },
 {
-"surface": "dūrvā",
-"quick_gloss": "dūrvā-grass"
+"surface": "dūrvā+homena",
+"quick_gloss": "dūrvā-grass+oblation"
 },
 {
-"surface": "homena",
-"quick_gloss": "by-oblation"
-},
-{
-"surface": "jīvet",
+"surface": "jīved",
 "quick_gloss": "should-live"
 },
 {
 "surface": "varṣa+śataṃ",
-"quick_gloss": "hundred-years"
+"quick_gloss": "hundred+years"
 },
 {
 "surface": "naraḥ",
-"quick_gloss": "man"
+"quick_gloss": "person"
 }
 ]
 },
@@ -246,20 +242,12 @@
 "quick_gloss": "is-obtained"
 },
 {
-"surface": "lakṣmīḥ",
+"surface": "lakṣmīr",
 "quick_gloss": "fortune"
 },
 {
-"surface": "dhana",
-"quick_gloss": "wealth"
-},
-{
-"surface": "dhānya",
-"quick_gloss": "grain"
-},
-{
-"surface": "samṛddhi+dā",
-"quick_gloss": "prosperity-giving"
+"surface": "dhana+dhānya+samṛddhi+dā",
+"quick_gloss": "wealth+grain+abundance+giving"
 }
 ]
 },
@@ -271,12 +259,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śrīḥ",
+"surface": "śrīr",
 "quick_gloss": "prosperity"
 },
 {
-"surface": "bhavet",
-"quick_gloss": "should-be"
+"surface": "bhaven",
+"quick_gloss": "would-be"
 },
 {
 "surface": "mahatī",
@@ -287,12 +275,12 @@
 "quick_gloss": "of-him"
 },
 {
-"surface": "ṣaṇ+māsāt",
-"quick_gloss": "in-six-months"
+"surface": "ṣaṇ+māsād",
+"quick_gloss": "in-six+months"
 },
 {
-"surface": "anapāyinī",
-"quick_gloss": "unfailing"
+"surface": "ana+pāyinī",
+"quick_gloss": "not+departing"
 }
 ]
 },
@@ -304,24 +292,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "juhuyāt",
-"quick_gloss": "should-offer"
+"surface": "juhuyād",
+"quick_gloss": "one-should-offer"
 },
 {
-"surface": "vatsarāt+arvāk",
+"surface": "vatsarād",
 "quick_gloss": "within-a-year"
 },
 {
-"surface": "saḥ",
+"surface": "arvāk",
+"quick_gloss": "before"
+},
+{
+"surface": "sa",
 "quick_gloss": "he"
 },
 {
-"surface": "bhavet",
-"quick_gloss": "should-become"
+"surface": "bhaved",
+"quick_gloss": "would-become"
 },
 {
 "surface": "indirā+patiḥ",
-"quick_gloss": "lord-of-Indirā"
+"quick_gloss": "Indra's+lord"
 }
 ]
 },
@@ -337,7 +329,7 @@
 "quick_gloss": "for-a-year"
 },
 {
-"surface": "juhvataḥ",
+"surface": "juhvatas",
 "quick_gloss": "of-one-offering"
 },
 {
@@ -345,11 +337,11 @@
 "quick_gloss": "with-them"
 },
 {
-"surface": "syāt",
+"surface": "syāl",
 "quick_gloss": "would-be"
 },
 {
-"surface": "lakṣmīḥ",
+"surface": "lakṣmīr",
 "quick_gloss": "fortune"
 },
 {
@@ -375,15 +367,15 @@
 },
 {
 "surface": "prati+dinam",
-"quick_gloss": "every-day"
+"quick_gloss": "every+day"
 },
 {
 "surface": "mantra+siddhyai",
-"quick_gloss": "for-mantra-accomplishment"
+"quick_gloss": "for-mantra+accomplishment"
 },
 {
-"surface": "jita+indriyaḥ",
-"quick_gloss": "self-controlled"
+"surface": "jitendriyaḥ",
+"quick_gloss": "sense-controlled"
 }
 ]
 },
@@ -395,12 +387,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jīvet",
-"quick_gloss": "should-live"
+"surface": "jīved",
+"quick_gloss": "one-should-live"
 },
 {
 "surface": "varṣa+śataṃ",
-"quick_gloss": "hundred-years"
+"quick_gloss": "hundred+years"
 },
 {
 "surface": "bhūtvā",
@@ -412,7 +404,7 @@
 },
 {
 "surface": "bhāskara+prabhaḥ",
-"quick_gloss": "sun-splendor"
+"quick_gloss": "sun+splendor"
 }
 ]
 },
@@ -436,12 +428,12 @@
 "quick_gloss": "blooming"
 },
 {
-"surface": "kuṭajaiḥ",
+"surface": "kuṭajair",
 "quick_gloss": "with-kuṭaja"
 },
 {
 "surface": "jāti+sambhavaiḥ",
-"quick_gloss": "jasmine-born"
+"quick_gloss": "jasmine+born"
 }
 ]
 },
@@ -453,8 +445,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āpnuyāt",
-"quick_gloss": "would-obtain"
+"surface": "āpnuyān",
+"quick_gloss": "one-would-obtain"
 },
 {
 "surface": "mahatīṃ",
@@ -465,12 +457,12 @@
 "quick_gloss": "fortune"
 },
 {
-"surface": "vatsarāt",
-"quick_gloss": "in-a-year"
+"surface": "vatsarād",
+"quick_gloss": "within-a-year"
 },
 {
 "surface": "vāñchita+adhikām",
-"quick_gloss": "more-than-desired"
+"quick_gloss": "desired+surpassing"
 }
 ]
 },
@@ -483,7 +475,7 @@
 "tokens": [
 {
 "surface": "go+dugdhena",
-"quick_gloss": "with-cow-milk"
+"quick_gloss": "with-cow's+milk"
 },
 {
 "surface": "haviḥ",
@@ -494,16 +486,12 @@
 "quick_gloss": "having-made"
 },
 {
-"surface": "kavalam",
-"quick_gloss": "with-morsel"
-},
-{
-"surface": "tena",
-"quick_gloss": "by-that"
+"surface": "kavalantena",
+"quick_gloss": "with-mouthful"
 },
 {
 "surface": "kalpayet",
-"quick_gloss": "should-arrange"
+"quick_gloss": "one-should-perform"
 }
 ]
 },
@@ -515,19 +503,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gandha",
-"quick_gloss": "with-fragrance"
+"surface": "gandha+mālya+ādibhiḥ",
+"quick_gloss": "with-fragrance+garlands+and-so-forth"
 },
 {
-"surface": "mālya",
-"quick_gloss": "garlands"
-},
-{
-"surface": "ādibhiḥ",
-"quick_gloss": "and-so-forth"
-},
-{
-"surface": "samyak",
+"surface": "samyag",
 "quick_gloss": "properly"
 },
 {
@@ -536,7 +516,7 @@
 },
 {
 "surface": "aṣṭa+uttaraṃ",
-"quick_gloss": "hundred-and-eight"
+"quick_gloss": "eight+more-than+hundred"
 },
 {
 "surface": "śatam",
@@ -556,20 +536,20 @@
 "quick_gloss": "is-born"
 },
 {
-"surface": "vatsarāt",
-"quick_gloss": "in-a-year"
+"surface": "vatsarād",
+"quick_gloss": "within-a-year"
 },
 {
 "surface": "eva",
 "quick_gloss": "indeed"
 },
 {
-"surface": "lakṣmīḥ",
+"surface": "lakṣmīs",
 "quick_gloss": "fortune"
 },
 {
 "surface": "trailokya+mohinī",
-"quick_gloss": "three-worlds-enchanting"
+"quick_gloss": "three-worlds+enchanting"
 }
 ]
 },
@@ -594,11 +574,11 @@
 },
 {
 "surface": "mukha+ambhoje",
-"quick_gloss": "in-lotus-mouth"
+"quick_gloss": "mouth+lotus"
 },
 {
 "surface": "ati+niścalā",
-"quick_gloss": "ever-steadfast"
+"quick_gloss": "ever+steady"
 }
 ]
 },
@@ -610,8 +590,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jāṭhara+agniḥ",
-"quick_gloss": "digestive-fire"
+"surface": "jāṭhara+agnir",
+"quick_gloss": "digestive+fire"
 },
 {
 "surface": "bhavet",
@@ -643,15 +623,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṣīra+vṛkṣa",
-"quick_gloss": "milk-tree"
+"surface": "kṣīra+vṛkṣa+samudbhūtaiḥ",
+"quick_gloss": "milk+tree+arisen"
 },
 {
-"surface": "samudbhūtaiḥ",
-"quick_gloss": "born-from"
-},
-{
-"surface": "kvāthaiḥ",
+"surface": "kvāthais",
 "quick_gloss": "with-decoctions"
 },
 {
@@ -660,7 +636,7 @@
 },
 {
 "surface": "pūrayet",
-"quick_gloss": "should-fill"
+"quick_gloss": "one-should-fill"
 },
 {
 "surface": "kramāt",
@@ -680,28 +656,16 @@
 "quick_gloss": "in-pots"
 },
 {
-"surface": "dhūpa",
-"quick_gloss": "with-incense"
+"surface": "dhūpa+dīpa+ādyaiḥ",
+"quick_gloss": "with-incense+lamps+and-so-forth"
 },
 {
-"surface": "dīpa",
-"quick_gloss": "lamps"
-},
-{
-"surface": "ādyaiḥ",
-"quick_gloss": "and-so-forth"
-},
-{
-"surface": "puṣpa",
-"quick_gloss": "with-flowers"
-},
-{
-"surface": "dhūpaiḥ",
-"quick_gloss": "incense"
+"surface": "puṣpa+dhūpair",
+"quick_gloss": "with-flower+incense"
 },
 {
 "surface": "manoharaiḥ",
-"quick_gloss": "delightful"
+"quick_gloss": "mind-delighting"
 }
 ]
 },
@@ -714,14 +678,14 @@
 "tokens": [
 {
 "surface": "abhiṣiñcet",
-"quick_gloss": "should-sprinkle"
+"quick_gloss": "one-should-sprinkle"
 },
 {
 "surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
-"surface": "sādhyam",
+"surface": "sādhyaṃ",
 "quick_gloss": "the-person-to-be-treated"
 },
 {
@@ -730,7 +694,7 @@
 },
 {
 "surface": "datta+dakṣiṇam",
-"quick_gloss": "given-fee"
+"quick_gloss": "given+fee"
 }
 ]
 },
@@ -742,32 +706,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "agneḥ",
+"surface": "agner",
 "quick_gloss": "of-fire"
 },
 {
-"surface": "ārādhanam",
+"surface": "ārādhanaṃ",
 "quick_gloss": "worship"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "ittham",
+"surface": "cetthaṃ",
 "quick_gloss": "thus"
 },
 {
-"surface": "bhukti",
-"quick_gloss": "enjoyment"
-},
-{
-"surface": "mukti",
-"quick_gloss": "liberation"
-},
-{
-"surface": "prada+dāyakam",
-"quick_gloss": "giving"
+"surface": "bhukti+mukti+pradāyakam",
+"quick_gloss": "enjoyment+liberation+giving"
 }
 ]
 },
@@ -791,20 +743,20 @@
 "quick_gloss": "and"
 },
 {
-"surface": "tat+bījaṃ",
-"quick_gloss": "that-seed"
+"surface": "tad+bījaṃ",
+"quick_gloss": "that+seed"
 },
 {
-"surface": "ṅa+antaṃ",
-"quick_gloss": "ending-in-ṅa"
+"surface": "ṅentaṃ",
+"quick_gloss": "ṅ-ending"
 },
 {
 "surface": "vaivasvataṃ",
-"quick_gloss": "of-Vaivasvata"
+"quick_gloss": "Vaivasvata"
 },
 {
 "surface": "vadet",
-"quick_gloss": "should-say"
+"quick_gloss": "one-should-say"
 }
 ]
 }
