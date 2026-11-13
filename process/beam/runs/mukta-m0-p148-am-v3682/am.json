@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p148",
  "verse": 3682,
- "question": "What healing and omniscient capacities are claimed for the deity in worldly existence?",
+ "question": "Where is the location specified in relation to her northeast part?",
  "premises": [
-  "The deity is the physician of saṃsāra.",
-  "The deity is all-knowing.",
-  "The deity is the remedy of all remedies."
+  "A location is given relative to her.",
+  "The direction is northeast.",
+  "The distance is measured in arrow throws."
  ],
- "inference": "The deity possesses complete knowledge and the supreme power to heal the condition of worldly existence.",
- "uncertainties": [],
- "plain_english": "He is the physician of the world, all-knowing, and the remedy of all remedies."
+ "inference": "The location is in her northeast part at a distance of eighty arrow throws.",
+ "uncertainties": [
+  "The referent of tasyāḥ is not explicit in this verse."
+ ],
+ "plain_english": "In her northeast part, at a distance of eighty arrow throws."
 }
