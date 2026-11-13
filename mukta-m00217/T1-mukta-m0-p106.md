@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p106-v2626
-[sarva-tattvam](sarvatattvaṃ) [ca](ca) [samproktāḥ](samproktāḥ) [tattva-adhvānaḥ](tattvādhvānaḥ) [tu](tu) [deśikaiḥ](deśikaiḥ)
+all-[sarva](sarva)[principle](tattvaṃ) and-[ca](ca) declared-[samproktāḥ](samproktāḥ)[principle-path](tattva+adhvānaḥ)[indeed](tu) by-teachers-[deśikaiḥ](deśikaiḥ)
 
 ## mukta-m0-p106-v2627
-[rasātalaḥ](rasātalaḥ) [ca](ca) [tad-anu](tadanu) [talātalaḥ](talātalaḥ) [iti](iti) [smṛtāḥ](smṛtāḥ)
+rasātala-[rasātalaḥ](rasātalaḥ)[and](ca) after-that-[tadanu](tadanu) talātala-[talātala](talātala) thus-[iti](iti) remembered-[smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p106-v2628
-[satya-lokaḥ](satyalokaḥ) [ca](ca) [samproktāḥ](samproktāḥ) [lokāḥ](lokāḥ) [ete](ete) [yathā-kramam](yathākramam)
+satyaloka-[satya+lokaḥ](satyalokaḥ)[and](ca) declared-[samproktaḥ](samproktaḥ) worlds-[lokāḥ](lokā) these-[ete](ete) in-order-[yathā+kramam](yathākramam)
 
 ## mukta-m0-p106-v2629
-[pada-adhvā](padādhvā) [varṇa-vṛndam](varṇavṛndaṃ) [syāt](syāt) [mantra-adhvā](mantrādhvā) [pada-saṃcayaḥ](padasaṃcayaḥ)
+word-path-[pada+adhvā](padādhvā) syllable-group-[varṇa+vṛndam](varṇavṛndaṃ) should-be-[syāt](syāt)[mantra-path](mantra+adhvā) word-collection-[pada+saṃcayaḥ](padasaṃcayaḥ)
 
 ## mukta-m0-p106-v2630
-[kūrcena](kūrcena) [ca](ca) [guruḥ](guruḥ) [śiṣyam](śiṣyaṃ) [spṛśan](spṛśan) [kuṇḍe](kuṇḍe) [svake](svake) [hunet](hunet)
+with-kuśa-grass-[kūrcena](kūrcena) and-[ca](ca) teacher-[guruḥ](guruḥ) disciple-[śiṣyam](śiṣyaṃ) touching-[spṛśan](spṛśan) in-fire-pit-[kuṇḍe](kuṇḍe) in-own-[svake](svake) should-offer-[hunet](hunet)
 
 ## mukta-m0-p106-v2631
-[śodhayāmi](śodhayāmi) [dvi-ṭhāntena](dviṭhāntena) [mantreṇa](mantreṇa) [aṣṭa-āhutīḥ](āṣṭāhutīḥ) [pṛthak](pṛthak)
+I-purify-[śodhayāmi](śodhayāmi) with-dviṭh-ending-[dviṭha+antena](dviṭhāntena) with-mantra-[mantreṇa](mantreṇa)[eight-oblations](aṣṭa+āhutīḥ) separately-[pṛthak](pṛthak)
 
 ## mukta-m0-p106-v2632
-[pāda-udaka-pradāna-ādyaiḥ](pādodakapradānādyaiḥ) [kuryāt](kuryāt) [pāpa-vimocanam](pāpavimocanam)
+with-foot-water-giving-etc-[pāda+udaka+pradāna+ādyaiḥ](pādodakapradānādyaiḥ) should-make-[kuryāt](kuryāt) sin-release-[pāpa+vimocanam](pāpavimocanam)
 
 ## mukta-m0-p106-v2633
-[sṛjet](sṛjet) [sṛṣṭyā](sṛṣṭyā) [vilīnān](vilīnāṃstāñ) [tān](vilīnāṃstāñ) [śiva-antān](śivāntāṃśca) [ca](śivāntāṃśca) [guru-uttamaḥ](gurūttamaḥ)
+should-create-[sṛjet](sṛjet) by-creation-[sṛṣṭyā](sṛṣṭyā) dissolved-them-[vilīnān](vilīnāṃs)[them](tān) up-to-śiva-[śiva+antān](śivāntān)[and](ca) best-of-teachers-[guru+uttamaḥ](gurūttamaḥ)
 
 ## mukta-m0-p106-v2634
-[tat-caitanyam](taccaitanyaṃ) [sthitam](sthitaṃ) [tasmin](tasmiṃstasminneva) [tasmin](tasmiṃstasminneva) [eva](tasmiṃstasminneva) [niyojayet](niyojayet)
+that-consciousness-[tat+caitanyam](taccaitanyaṃ) situated-[sthitam](sthitam) in-that-[tasmin](tasmin)[in-that-very](tasmin+eva) should-place-[niyojayet](niyojayet)
 
 ## mukta-m0-p106-v2635
-[aṅga-prabhṛtyā](aṅgaprabhṛtyā) [vṛtīnām](vṛtīnāṃ) [hunet](hunedbhūyo) [bhūyas](hunedbhūyo) [ghṛtena](ghṛtena) [vai](vai)
+beginning-with-limbs-[aṅga+prabhṛtyā](aṅgaprabhṛtyā) of-enclosures-[vṛtīnām](vṛtīnām) should-offer-[hunet](hunet)[again](bhūyaḥ) with-ghee-[ghṛtena](ghṛtena) indeed-[vai](vai)
 
 ## mukta-m0-p106-v2636
-[bhuvaḥ](bhuvaḥ) [syāt](syādvāyave) [vāyave](syādvāyave) [ca](cāntarikṣāya) [antarikṣāya](cāntarikṣāya) [ca](ca) [yutaḥ](yuto) [manuḥ](manuḥ)
+bhuvaḥ-[bhuvaḥ](bhuvaḥ) should-be-[syāt](syāt)[to-wind](vāyave) and-[ca](ca)[to-atmosphere](antarikṣāya) and-[ca](ca) joined-[yutaḥ](yuto) mantra-[manuḥ](manuḥ)
 
 ## mukta-m0-p106-v2637
-[bhūḥ](bhūrbhuvaḥsvaścandramase) [bhuvaḥ](bhūrbhuvaḥsvaścandramase) [svaḥ](bhūrbhuvaḥsvaścandramase) [candramase](bhūrbhuvaḥsvaścandramase) [nakṣatrebhyaḥ](nakṣatrebhyaśca) [ca](nakṣatrebhyaśca) [pūrvataḥ](pūrvataḥ)
+bhūr-bhuvaḥ-svaḥ-[bhūḥ+bhuvaḥ+svaḥ](bhūrbhuvaḥsvaḥ)[to-moon](candramase) and-to-constellations-[nakṣatrebhyaḥ](nakṣatrebhyaḥ)[and](ca) from-east-[pūrvataḥ](pūrvataḥ)
 
 ## mukta-m0-p106-v2638
-[mahate](mahate) [ca](ca) [dvi-ṭhāntāḥ](dviṭhāntāḥ) [syuḥ](syurmahāvyāhṛtimantrakāḥ) [mahā-vyāhṛti-mantrakāḥ](syurmahāvyāhṛtimantrakāḥ)
+to-mahat-[mahate](mahate) and-[ca](ca) with-dviṭh-ending-[dviṭha+antāḥ](dviṭhāntāḥ) should-be-[syuḥ](syur)[great-vyāhṛti-mantras](mahā+vyāhṛti+mantrakāḥ)
 
 ## mukta-m0-p106-v2639
-[juhuyāt](juhuyādāhutīraṣṭau) [āhutīḥ](juhuyādāhutīraṣṭau) [aṣṭau](juhuyādāhutīraṣṭau) [kevala-ājyena](kevalājyena) [mantra-vit](mantravit)
+should-offer-[juhuyāt](juhuyāt)[oblations](āhutīḥ)[eight](aṣṭau) with-only-ghee-[kevala+ājyena](kevalājyena) mantra-knower-[mantra+vit](mantravit)
 
 ## mukta-m0-p106-v2640
-[deha-dharma-adhikāram](dehadharmādhikāraṃ) [ca](ca) [jāgrat](jāgratsvapnasuṣuptiṣu) [svapna](jāgratsvapnasuṣuptiṣu) [suṣuptiṣu](jāgratsvapnasuṣuptiṣu)
+body-dharma-authority-[deha+dharma+adhikāram](dehadharmādhikāraṃ) and-[ca](ca) in-waking-dream-deep-sleep-[jāgrat+svapna+suṣuptiṣu](jāgratsvapnasuṣuptiṣu)
 
 ## mukta-m0-p106-v2641
-[karmaṇā](karmaṇā) [ca](ca) [eva](caiva) [hastābhyām](hastābhyāṃ) [padbhyām](padbhyāmuktvodareṇa) [uktvā](padbhyāmuktvodareṇa) [udareṇa](padbhyāmuktvodareṇa) [ca](ca)
+by-action-[karmaṇā](karmaṇā) and-[ca](ca)[indeed](eva) by-hands-[hastābhyām](hastābhyām) by-feet-[padbhyām](padbhyām)[by-speech](uktvā)[by-belly](udareṇa) and-[ca](ca)
 
 ## mukta-m0-p106-v2642
-[uktam](uktaṃ) [ya](ya) [yat](yatkṛtaṃ) [kṛtam](yatkṛtaṃ) [tat](tacca) [ca](tacca) [sarvam](sarvaṃ) [brahma-arpaṇam](brahmārpaṇaṃ) [bhava](bhava)
+spoken-[uktam](uktaṃ) what-[yat](ya) what-[yat](yat)[done](kṛtam) that-[tat](tat)[and](ca) all-[sarvam](sarvaṃ) offering-to-brahman-[brahma+arpaṇam](brahmārpaṇaṃ) be-[bhava](bhava)
 
 ## mukta-m0-p106-v2643
-[hutvā](hutvā) [pūrṇa-āhutim](pūrṇāhutiṃ) [mantrī](mantrī) [srucā](srucā) [mūla-aṇunā](mūlāṇunā) [tataḥ](tataḥ)
+having-offered-[hutvā](hutvā) final-oblation-[pūrṇa+āhutim](pūrṇāhutiṃ) mantra-holder-[mantrī](mantrī) with-ladle-[srucā](srucā) with-root-mantra-[mūla+aṇunā](mūlāṇunā) then-[tataḥ](tataḥ)
 
 ## mukta-m0-p106-v2644
-[nyūna-atirikta-pūrṇa-artham](nyūnātiriktapūrṇārthaṃ) [dadāmi](dadāmi) [sa-ghṛtam](saghṛtaṃ) [tilam](tilam)
+for-completing-deficiency-excess-[nyūna+atirikta+pūrṇa+artham](nyūnātiriktapūrṇārthaṃ) I-give-[dadāmi](dadāmi) with-ghee-[sa+ghṛtam](saghṛtaṃ) sesame-[tilam](tilam)
 
 ## mukta-m0-p106-v2645
-[yā](yānulomāṣṭamaṃ) [anuloma](yānulomāṣṭamaṃ) [aṣṭamam](yānulomāṣṭamaṃ) [varṇam](varṇaṃ) [ṣaṣṭha](ṣaṣṭhopāntyasvarākulam) [upāntya](ṣaṣṭhopāntyasvarākulam) [svara](ṣaṣṭhopāntyasvarākulam) [ākulam](ṣaṣṭhopāntyasvarākulam)
+which-[yā](yā)[in-order-eighth-syllable](anuloma+aṣṭamam) letter-[varṇam](varṇaṃ) filled-with-sixth-penultimate-vowels-[ṣaṣṭha+upāntya+svara+ākulam](ṣaṣṭhopāntyasvarākulam)
 
 ## mukta-m0-p106-v2646
-[sahasra-arcis](sahasrārcirmahātejaḥ) [mahā-tejaḥ](sahasrārcirmahātejaḥ) [namas](namaste) [te](namaste) [bahu-rūpa-dhṛk](bahurūpadhṛk) [(t)]((t))
+thousand-rayed-[sahasra+arcis](sahasrārcis)[great-splendor](mahā+tejaḥ) salutation-to-you-[namaḥ+te](namaste) bearer-of-many-forms-[bahu+rūpa+dhṛk](bahurūpadhṛk)
 
 ## mukta-m0-p106-v2647
-[tvam](tvaṃ) [raudraḥ](raudro) [raudra-karmā](raudrakarmā) [ca](ca) [ghora-hā](ghorahā) [tvam](tvaṃ) [namāmi](namāmi) [te](te)
+you-[tvam](tvaṃ) fierce-[raudraḥ](raudro) fierce-deed-[raudra+karmā](raudrakarmā) and-[ca](ca) destroyer-of-terror-[ghora+hā](ghorahā) you-[tvam](tvaṃ) I-bow-[namāmi](namāmi) to-you-[te](te)
 
 ## mukta-m0-p106-v2648
-[sarpiṣā](sarpiṣā) [srucam](srucamāpūrya) [āpūrya](srucamāpūrya) [puṣpam](puṣpaṃ) [ca](coparyadhomukham) [upari](coparyadhomukham) [adhomukham](coparyadhomukham)
+with-ghee-[sarpiṣā](sarpiṣā) ladle-[srucam](srucam)[having-filled](āpūrya) flower-[puṣpam](puṣpam) and-[ca](ca)[above](upari)[face-down](adhomukham)
 
 ## mukta-m0-p106-v2649
-[savya-uttara-karābhyām](savyottarakarābhyāṃ) [ca](ca) [sampuṭābhyām](sampuṭābhyāṃ) [ca](ca) [śaṅkha-vat](śaṅkhavat)
+with-left-right-hands-[savya+uttara+karābhyām](savyottarakarābhyāṃ) and-[ca](ca) with-hollowed-hands-[sampuṭābhyām](sampuṭābhyām) and-[ca](ca) like-conch-[śaṅkhavat](śaṅkhavat)
 
 ## mukta-m0-p106-v2650
-[pūrṇa-ādarvī](pūrṇādarvīti) [iti](pūrṇādarvīti) [mantreṇa](mantreṇa) [mūlena](mūlena) [ca](ca) [su-saṃyataḥ](susaṃyataḥ)
+with-pūrṇādarvi-mantra-[pūrṇā+darvi+iti+mantreṇa](pūrṇādarvīti mantreṇa) with-root-mantra-[mūlena](mūlena) and-[ca](ca) well-restrained-[su+saṃyataḥ](susaṃyataḥ)

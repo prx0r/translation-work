@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p107-v2651
-having-placed(flower) flower its in-front with-ladle downward-facing that
+[having-placed](nidhāya) [flower](puṣpaṃ) [of-her+in-front](tasya+agre) [with-ladle+downward-faced](sruveṇa+adhomukhena) [that](tām)
 
 ## mukta-m0-p107-v2652
-vauṣaḍ-ending with pour stream mantra-accompanied
+[with-vauṣaṭ+ending](vauṣaḍ+antena) [one-should-offer](juhuyāt) [stream](dhārāṃ) [with-recitation+accompanied](japa+samanvitām)
 
 ## mukta-m0-p107-v2653
-vauṣaḍ-ending mantra vaiṣṇava best-of-gods
+[with-vauṣaṭ+ending](vauṣaḍ+antena) [with-mantra](mantreṇa) [with-Vaiṣṇava](vaiṣṇavena) [god+best](sura+uttamam)
 
 ## mukta-m0-p107-v2654
-its-upon ghee give then-above flowers-etc
+[of-that+upon](tasya+upari) [ghee](ghṛtaṃ) [one-should-give](dadyāt) [of-that+above](tat+ūrdhvaṃ) [flower+etc.](kusuma+ādikam)
 
 ## mukta-m0-p107-v2655
-then-above downward-facing making ladle rising mantra-knower
+[of-that+above](tat+ūrdhve) [downward-faced](adhomukhaṃ) [having-made](kṛtvā) [ladle](sruvam) [having-risen](utthāya) [mantra+knowing](mantra+vit)
 
 ## mukta-m0-p107-v2656
-root namah-ending uttering left-foot foremost
+[root-mantra](mūlaṃ) [namas+ending](namaḥ+antam) [having-uttered](uccārya) [left+foot+foremost](vāma+pāda+puraḥsaram)
 
 ## mukta-m0-p107-v2657
-in-rite-interval arrived presence make respectfully
+[in-action+another](karma+antare) [even](api) [being-reached](saṃprāpte) [presence](sannidhiṃ) [make](kuru) [with-respect](sādaram)
 
 ## mukta-m0-p107-v2658
-from-kunda removing and teacher deity in-pot place
+[from-fire-pit](kuṇḍāt) [having-dismissed](udvāsya) [and](ca) [teacher](ācāryaḥ) [deity](devatāṃ) [in-pot](kalaśe) [should-place](nyaset)
 
 ## mukta-m0-p107-v2659
-seven-vyāhṛti fire-tongue-etc one-offering in-order
+[with-seven+vyāhṛtis](sapta+vyāhṛtyā) [of-fire-tongues+etc.](agni+jihvā+ādīnām) [one+oblation](eka+āhutiṃ) [in-order](kramāt)
 
 ## mukta-m0-p107-v2660
-thirty-two-pala copper made copper-vessel
+[thirty-two+pala+copper](dvātriṃśat+pala+tāmreṇa) [made](nirmitaṃ) [copper+vessel](tāmra+pātrakam)
 
 ## mukta-m0-p107-v2661
-teacher for-vow that to-him full-vessel know-wise
+[teacher](guruḥ) [to-chosen](vṛtāya) [then](tat) [to-him](tasmai) [full+vessel](pūrṇa+pātraṃ) [know](viduḥ) [the-wise](budhāḥ)
 
 ## mukta-m0-p107-v2662
-then around-fire enclosures place-not
+[then](tataḥ) [strewn-grasses](paristarān) [in-fire](agnau) [enclosing-sticks](paridhīn) [placing](nikṣipan) [indeed](nanu)
 
 ## mukta-m0-p107-v2663
-with-cloth eye-mantra disciple-eyes binding and
+[with-cloth](vastreṇa) [with-eye+mantra](netra+mantreṇa) [of-disciple+eyes](śiṣya+netre) [having-bound](nibadhya) [and](ca)
 
 ## mukta-m0-p107-v2664
-with-flowers filling his anjali throw pot
+[with-flowers](sumanobhiḥ) [having-filled](prapūrya) [his](asya) [indeed](hi) [joined-palms](añjalim) [one-should-cast](kṣepayet) [in-pot](ghaṭe)
 
 ## mukta-m0-p107-v2665
-eye-binding removing seat on-kuśa
+[eye+bandage](netra+bandham) [having-removed](apāsya) [one-should-seat](upaveśayet) [on-kuśa+seat](kuśa+saṃstare)
 
 ## mukta-m0-p107-v2666
-ignorance-darkness-blind knowledge-collyrium-stick
+[of-ignorance+darkness+blinded](ajñāna+timira+andhasya) [with-knowledge+collyrium+stick](jñāna+añjana+śalākayā)
 
 ## mukta-m0-p107-v2667
-then worship-rite gather and-generate him
+[therefore](ataḥ) [by-worship+method](pūjā+vidhānena) [one-should-withdraw](saṃharet) [and-should-generate](janayet) [and](ca) [him](tam)
 
 ## mukta-m0-p107-v2668
-five-upacaras worship pot-residing desired-deity
+[with-five+offerings](pañca+upacāraiḥ) [having-worshipped](abhyarcya) [in-pot+abiding+chosen-deity](kalaśa+stha+iṣṭa+devatām)
 
 ## mukta-m0-p107-v2669
-then seat disciple adorned in-mandala
+[then](atha) [one-should-seat](upaveśayet) [disciple](śiṣyaṃ) [adorned](bhūṣitaṃ) [in-maṇḍala+interior](maṇḍala+antare)
 
 ## mukta-m0-p107-v2670
-then five-sounds and brahmin-blessings with
+[then](atha) [with-five+sounds](pañca+ninādaiḥ) [and](ca) [with-brāhmaṇas+blessing+words](vipra+āśīr+vacanaiḥ) [together](saha)
 
 ## mukta-m0-p107-v2671
-by-which manner formerly filled nectar-juices
+[by-which](yena) [manner](prakāreṇa) [formerly](purā) [filled](pūritaḥ) [and](ca) [with-nectar+juices](sudhā+rasaiḥ)
 
 ## mukta-m0-p107-v2672
-so-him anoint quickly prosperity-obtain
+[in-that-very-way](tathā+eva) [this-one](enam) [and](ca) [one-should-sprinkle](abhiṣiñcet) [quickly](āśu) [for-prosperity+attainment](saṃpad+avāptaye)
 
 ## mukta-m0-p107-v2673
-those-waters anoint him protection for teacher-best
+[with-those+waters](tat+toyaiḥ) [one-should-sprinkle](abhiṣiñcet) [him](taṃ) [for-protection](rakṣāyai) [teacher+best](deśika+uttamaḥ)
 
 ## mukta-m0-p107-v2674
-that-deity own-form and make consecration
+[of-that+deity+form](tat+devatā+svarūpaṃ) [and](ca) [one-should-establish](vidadhyāt) [complete-form](sakalī+kṛtim)
 
 ## mukta-m0-p107-v2675
-having-sipped near his sit speech-controlled child
+[having-sipped-water](ācamya) [near](nikaṭe) [of-him](tasya) [should-sit](niviśet) [speech+restrained](vāk+yataḥ) [disciple](śiśuḥ)

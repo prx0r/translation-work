@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[īśāna+upāsitā](īśānopāsitā) [vidyā](vidyā) [hi+aṇima+ādi+aṣṭa+siddhi+dā](hyaṇimādyaṣṭasiddhidā)
+[īśāna+worshipped](īśānopāsitā) [knowledge](vidyā) [indeed](hi) [aṇimā+etc.+eight+accomplishment+giving](aṇimādyaṣṭasiddhidā)
 
 ## mukta-m0-p11-v252
-[nārāyaṇa+upāsitā](nārāyaṇopāsiteyaṃ) [iyaṃ](nārāyaṇopāsiteyaṃ) [ṣaṭ+kūṭā](ṣaṭkūṭā) [bhuvi](bhuvi) [durlabhā](durlabhā)
+[nārāyaṇa+worshipped](nārāyaṇopāsitā) [this](iyam) [six+part](ṣaṭkūṭā) [on-earth](bhuvi) [difficult+to-obtain](durlabhā)
 
 ## mukta-m0-p11-v253
-[śiva+mādana+sūrya+indu+vahni](śivamādanasūryenduvahniśca) [ca](śivamādanasūryenduvahniśca) [bhuvana+īśvarī](bhuvaneśvarī)
+[śiva](śiva) [mādana](mādana) [sun](sūrya) [moon](indu) [fire](vahniḥ) [and](ca) [bhuvaneśvarī](bhuvaneśvarī)
 
 ## mukta-m0-p11-v254
-[lopa+āvāgbhava+kūṭaṃ](lopāvāgbhavakūṭaṃ) [tu](tu) [jīvena+ārādhitā](jīvenārādhitātviyam) [iyam](jīvenārādhitātviyam)
+[lopā](lopā) [vāgbhava+part](vāgbhavakūṭam) [but](tu) [by-jīva](jīvena) [worshipped](ārādhitā) [indeed+this](tu+iyam)
 
 ## mukta-m0-p11-v255
-[māyā+śrī+bīja+pūrvā](māyāśrībījapūrvā) [tu](tu) [svapna+avasya+svarūpiṇī](svapnāvasyāsvarūpiṇī)
+[māyā+śrī+bīja+preceded](māyāśrībījapūrvā) [but](tu) [dream+state+nature](svapnāvasyāsvarūpiṇī)
 
 ## mukta-m0-p11-v256
-[śrī+mahā+ṣoḍaśa+arṇā](śrīmahāṣoḍaśārṇā) [tu](tu) [turīyā](turīyā) [samprakīrtitā](samprakīrtitā)
+[śrī+mahā+sixteen+syllabled](śrīmahāṣoḍaśārṇā) [but](tu) [turīya](turīyā) [well+proclaimed](samprakīrtitā)
 
 ## mukta-m0-p11-v257
-[sat+asat+vastu+nirdhāraḥ](sadasadvastunirdhārasturīyāyā) [turīyāyāḥ](sadasadvastunirdhārasturīyāyā) [imāḥ](imāḥ) [kalāḥ](kalāḥ)
+[real+and+unreal+thing+determination](sadasadvastunirdhāraḥ) [of-turīyā](turīyāyāḥ) [these](imāḥ) [parts](kalāḥ)
 
 ## mukta-m0-p11-v258
-[māyā+ādiḥ](māyādiḥ) [ṣoḍaśa+arṇā](ṣoḍaśārṇā) [tu](tu) [mumukṣutva+svarūpiṇī](mumukṣutvasvarūpiṇī)
+[māyā+beginning](māyādiḥ) [sixteen+syllabled](ṣoḍaśārṇā) [but](tu) [desire-for-liberation+nature](mumukṣutvasvarūpiṇī)
 
 ## mukta-m0-p11-v259
-[ramā+ādiḥ](ramādiḥ) [ṣoḍaśī](ṣoḍaśī) [citta+vaimalyasya](cittavaimalyasya) [svarūpiṇī](svarūpiṇī)
+[ramā+beginning](ramādiḥ) [sixteen-syllabled](ṣoḍaśī) [mind+purity](cittavaimalyasya) [nature](svarūpiṇī)
 
 ## mukta-m0-p11-v260
-[pañcadhā](pañcadhā) [ṣoḍaśa+arṇā](ṣoḍaśārṇā) [tu](tu) [durlabhā](durlabhā) [bhuvana+traye](bhuvanatraye)
+[fivefold](pañcadhā) [sixteen+syllabled](ṣoḍaśārṇā) [but](tu) [difficult+to-obtain](durlabhā) [in-three+worlds](bhuvanatraye)
 
 ## mukta-m0-p11-v261
-[bhedāḥ](bhedāḥ) [pūrva+ukta+rītyā](pūrvoktarītyā) [ca](ca) [jñātavyāḥ](jñātavyāstantrakovidaiḥ) [tantra+kovidaiḥ](jñātavyāstantrakovidaiḥ)
+[divisions](bhedāḥ) [previously+stated+method](pūrvoktarītyā) [and](ca) [to-be-known](jñātavyāḥ) [by-tantra+knowers](tantrakovidaiḥ)
 
 ## mukta-m0-p11-v262
-[ubhaya+ātmaka+bhedāḥ](ubhayātmakabhedāśca) [ca](ubhayātmakabhedāśca) [śavalāḥ](śavalāśca) [ca](śavalāśca) [tathā+eva](tathaiva) [ca](tathaiva)
+[both+natured+divisions](ubhayātmakabhedāḥ) [and](ca) [mixed](śavalāḥ) [and](ca) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p11-v263
-[aśuddhāḥ](aśuddhā) [iti](iti) [vijñeyāḥ](vijñeyā) [ubhaya+ātmānaḥ](ubhayātmāna) [eva](eva) [ca](ca)
+[impure](aśuddhāḥ) [thus](iti) [to-be-known](vijñeyāḥ) [both+natured](ubhayātmānaḥ) [indeed](eva) [and](ca)
 
 ## mukta-m0-p11-v264
-[evaṃ](evaṃ) [caturvidhā](caturvidhā) [vidyā](vidyā) [vijñeyā](vijñeyā) [deśika+uttamaiḥ](deśikottamaiḥ)
+[thus](evam) [fourfold](caturvidhā) [knowledge](vidyā) [to-be-known](vijñeyā) [by-teacher+best](deśikottamaiḥ)
 
 ## mukta-m0-p11-v265
-[yayā](yayā) [vijñātayā](vijñātayā) [devi](devi) [sākṣāt](sākṣāt) [sura+guru+prabhaḥ](suraguruprabhaḥ)
+[by-which](yayā) [known](vijñātayā) [O-goddess](devi) [directly](sākṣāt) [god+teacher+splendor](suraguruprabhaḥ)
 
 ## mukta-m0-p11-v266
-[svara+antaṃ](svarāntaṃ) [pṛthivī+sthaṃ](pṛthivīsthaṃ) [tu](tu) [turya+svara+samanvitaṃ](turyasvarasamanvitam)
+[vowel+end](svarāntam) [earth+standing](pṛthivīstham) [but](tu) [fourth+vowel+endowed](turyasvarasamanvitam)
 
 ## mukta-m0-p11-v267
-[śakra+svara+sama+upetaḥ](śakrasvarasamopeto) [vidyā](vidyeyaṃ) [iyaṃ](vidyeyaṃ) [tryakṣarī](tryakṣarī) [matā](matā)
+[śakra+vowel+endowed](śakrasvarasamopetaḥ) [knowledge](vidyā) [this](iyam) [three+syllabled](tryakṣarī) [considered](matā)
 
 ## mukta-m0-p11-v268
-[mahā+saubhāgya+jananī](mahāsaubhāgyajananī) [mahā+sārasvata+pradā](mahāsārasvatapradā)
+[great+good-fortune+producing](mahāsaubhāgyajananī) [great+sarasvatī+giving](mahāsārasvatapradā)
 
 ## mukta-m0-p11-v269
-[nyaset](nyasecchirasi) [śirasi](nyasecchirasi) [pūjyatvāt](pūjyatvāt) [paṃktiḥ](paṃktiśchando) [chandaḥ](paṃktiśchando) [mukhe](mukhe) [priye](priye)
+[one-should-place](nyaset) [on-head](śirasi) [because-of-worthiness](pūjyatvāt) [paṅkti+metre](paṃktiḥ) [chandas](chandaḥ) [in-mouth](mukhe) [O-dear](priye)
 
 ## mukta-m0-p11-v270
-[bījaṃ](bījaṃ) [tu](tu) [vāgbhavaṃ](vāgbhavaṃ) [śaktiḥ](śaktistārtīyaṃ) [tārtīyaṃ](śaktistārtīyaṃ) [kīlakaṃ](kīlakaṃ) [tathā](tathā)
+[seed](bījam) [but](tu) [vāgbhava](vāgbhavam) [power](śaktiḥ) [third](tārtīyam) [peg](kīlakam) [likewise](tathā)
 
 ## mukta-m0-p11-v271
-[nābhyādi+pāda+paryantaṃ](nābhyādipādaparyantaṃ) [galādi+nābhi](galādānābhi) [ca](ca) [aparam](cāparam)
+[from-navel](nābhyādi) [up-to-foot](pādaparyantam) [from-throat](galāt) [up-to-navel](ānābhi) [and](ca) [another](aparam)
 
 ## mukta-m0-p11-v272
-[vāma+pāṇi+tale](vāmapāṇitale) [ca](ca) [ekaṃ](caikaṃ) [dakṣa+pāṇi+tale](dakṣapāṇitale) [tathā](tathā)
+[in-left+hand+surface](vāmapāṇitale) [and](ca) [one](ekam) [in-right+hand+surface](dakṣapāṇitale) [likewise](tathā)
 
 ## mukta-m0-p11-v273
-[pañca](pañca) [bāṇān](bāṇān) [krameṇa+eva](krameṇaiva) [kara+aṃguliṣu](karāṃguliṣu) [vinyaset](vinyaset)
+[five](pañca) [arrows](bāṇān) [in-order](krameṇa) [indeed](eva) [on-hand+fingers](karāṃguliṣu) [one-should-place](vinyaset)
 
 ## mukta-m0-p11-v274
-[thānta+dvayaṃ](thāntadvayaṃ) [samālikhya](samālikhya) [vahni+saṃsthaṃ](vahnisaṃsthaṃ) [krameṇa](krameṇa) [tu](tu)
+[tha+end+pair](thāntadvayam) [having-drawn](samālikhya) [in-fire+situated](vahnisaṃstham) [in-order](krameṇa) [but](tu)
 
 ## mukta-m0-p11-v275
-[bāṇa+dvayaṃ](bāṇadvayamidaṃ) [idaṃ](bāṇadvayamidaṃ) [proktaṃ](proktaṃ) [mādanaṃ](mādanaṃ) [bhūmi+saṃsthitam](bhūmisaṃsthitam)
+[arrow+pair](bāṇadvayam) [this](idam) [declared](proktam) [mādana](mādanam) [on-earth+situated](bhūmisaṃsthitam)

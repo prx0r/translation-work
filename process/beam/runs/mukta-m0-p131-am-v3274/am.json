@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3274,
- "question": "What result is requested from a bridge after it has been ritually sprinkled?",
+ "question": "What comparison is used to illustrate the situation described in this simile?",
  "premises": [
-  "The bridge has been well sprinkled by the speaker.",
-  "The bridge is directly addressed.",
-  "It is asked to give the fruit as previously stated."
+  "An ocean is mentioned.",
+  "Milk is mentioned as the point of comparison.",
+  "The particle 'like' marks a simile."
  ],
- "inference": "The sprinkled bridge is asked to become the giver of the stated fruit.",
- "uncertainties": [],
- "plain_english": "O bridge, well sprinkled by me, be the giver of the fruit as stated."
+ "inference": "The verse uses the simile of an ocean with milk to illustrate the point.",
+ "uncertainties": [
+  "The full tenor of the simile depends on the preceding context."
+ ],
+ "plain_english": "Like an ocean with milk."
 }
