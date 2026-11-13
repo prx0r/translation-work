@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p103-v2551
-as [yathā] as [yathā] of-deity [devatāyā] worship [pūjanaṃ] or [vā] as-of-guru [yathāguroḥ]
+[as](yathā) [as](yathā) [of-deity](devatāyā) [worship](pūjanaṃ) [or](vā) [as](yathā)+[of-guru](guroḥ)
 
 ## mukta-m0-p103-v2552
-as-ability [yathāśaktyā] indeed [hi] let-him-bestow [vitaret] to-maiden [kumāryai] whatever-desired [yadyadīpsitam]
+[according-to-ability](yathāśaktyā) [indeed](hi) [one-should-offer](vitaret) [to-maiden](kumāryai) [whatever](yadyad)+[is-desired](īpsitam)
 
 ## mukta-m0-p103-v2553
-flower [puṣpaṃ] to-maiden [kumāryai] which-given [yaddattaṃ] that-meru-like [tanmerusadṛśaṃ] considered [matam]
+[flower](puṣpaṃ) [to-maiden](kumāryai) [which](yad)+[given](dattaṃ) [that](tan)+[meru-like](meru)+[equal](sadṛśaṃ) [is-considered](matam)
 
 ## mukta-m0-p103-v2554
-small [alpam] even-or [apyathavā] mantra-less [mantrahīnaṃ] many-quality [bahuguṇaṃ] becomes [bhavet]
+[little](alpam)+[even](apy)+[or](athavā) [mantra](mantra)+[devoid](hīnaṃ) [many](bahu)+[qualities](guṇaṃ) [may-become](bhavet)
 
 ## mukta-m0-p103-v2555
-from-maiden-veneration [kumārīvandanādeva] maiden-like [kumārīsadṛśo] becomes [bhavet]
+[maiden](kumārī)+[by-homage](vandanād)+[indeed](eva) [maiden](kumārī)+[like](sadṛśo) [one-becomes](bhavet)
 
 ## mukta-m0-p103-v2556
-maiden [kumārī] yoginī [yoginī] indeed [sākṣāt] maiden [kumārī] all-deities [sarvadevatā]
+[maiden](kumārī) [yoginī](yoginī) [manifestly](sākṣāt) [maiden](kumārī) [all](sarva)+[deity](devatā)
 
 ## mukta-m0-p103-v2557
-beautiful-maiden [sukumārī] great-goddess [mahādevī] threefold [tridhā] form-established [mūrttirvyavasthitā]
+[delicate-maiden](sukumārī) [great-goddess](mahādevī) [threefold](tridhā) [form](mūrttir)+[is-established](vyavasthitā)
 
 ## mukta-m0-p103-v2558
-where [yatra] time [kāle] not [na] anything [kiñcit] would-be [syād] gods-demons-great-serpents [devāsuramahoragāḥ]
+[when](yatra) [at-time](kāle) [not](na) [anything](kiñcit) [may-be](syād) [gods](deva)+[demons](asura)+[great-serpents](mahoragāḥ)
 
 ## mukta-m0-p103-v2559
-primordial-creation [ādyasṛṣṭeśca] which [yā] power [śaktiḥ] manifest [pratyakṣā] she [sā] indeed [tu] that-threefold [tattridhā]
+[of-primal-creation](ādyasṛṣṭeś)+[and](ca) [which](yā) [power](śaktiḥ) [manifest](pratyakṣā) [she](sā) [indeed](tu) [that](tat)+[threefold](tridhā)
 
 ## mukta-m0-p103-v2560
-earth-heaven-form [bhūrbhuvomūrttirūpā] she [sā] one [ekā] worshipful [pūjyā] maiden [kumārikā]
+[earth](bhūr)+[atmosphere](bhuvo)+[form](mūrtti)+[having-form](rūpā) [she](sā) [one](ekā) [to-be-worshipped](pūjyā) [maiden](kumārikā)
 
 ## mukta-m0-p103-v2561
-regular-order [nityakrameṇa] O-goddess [deveśi] let-him-worship [pūjayed] with-rite [vidhipūrvakam]
+[daily](nitya)+[in-sequence](krameṇa) [O-lord-of-gods](deveśi) [one-should-worship](pūjayed)+[according-to-rite](vidhi)+[preceded](pūrvakam)
 
 ## mukta-m0-p103-v2562
-worshipped [pūjitāḥ] accepted [pratigṛhyante] depart [nirgacchanti] dishonored [avamānitāḥ]
+[worshipped](pūjitāḥ) [they-accept](pratigṛhyante) [they-depart](nirgacchanty)+[dishonored](avamānitāḥ)
 
 ## mukta-m0-p103-v2563
-spirits-vetālas-gandharvas [bhūtavetālagandharvā] ḍākinī-yakṣa-rākṣasas [ḍākinīyakṣarākṣasāḥ]
+[spirits](bhūta)+[vetālas](vetāla)+[gandharvas](gandharvā) [ḍākinīs](ḍākinī)+[yakṣas](yakṣa)+[rākṣasas](rākṣasāḥ)
 
 ## mukta-m0-p103-v2564
-earth-etc [pṛthivyādīni] all [sarvāṇi] brahmāṇḍa [brahmāṇḍaṃ] with-moving-immoving [sacarācaram]
+[earth](pṛthivy)+[and-so-forth](ādīni) [all](sarvāṇi) [cosmic-egg](brahmāṇḍaṃ) [with](sa)+[moving](cara)+[unmoving](acaram)
 
 ## mukta-m0-p103-v2565
-they [te] pleased [tuṣṭāḥ] all-pleased [sarvatuṣṭāśca] whoever [yastu] maiden [kanyāṃ] worships [prapūjayet]
+[they](te) [satisfied](tuṣṭāḥ) [all](sarva)+[satisfied](tuṣṭāś)+[and](ca) [who](yas)+[indeed](tu) [maiden](kanyāṃ) [worships](prapūjayet)
 
 ## mukta-m0-p103-v2566
-destroy [ghnanti] obstacles [vighnān] worshipped [pūjitāstāstathā] enemy [śatruṃ] great-fierce [mahotkaṭam]
+[they-destroy](ghnanti) [obstacles](vighnān) [worshipped](pūjitās)+[those](tās)+[likewise](tathā) [enemy](śatruṃ) [very](mahā)+[fierce](utkaṭam)
 
 ## mukta-m0-p103-v2567
-planets [grahā] yakṣas [yakṣāḥ] perish [kṣayaṃ] go [yānti] spirits-vetālas-serpents [bhūtavetālapannagāḥ]
+[planets](grahā) [yakṣas](yakṣāḥ) [destruction](kṣayaṃ) [go](yānti) [spirits](bhūta)+[vetālas](vetāla)+[serpents](pannagāḥ)
 
 ## mukta-m0-p103-v2568
-great-fears [mahābhayāni] famine [durbhikṣam] portents [utpātāni] thousands [sahasraśaḥ]
+[great](mahā)+[fears](bhayāni) [famine](durbhikṣam)+[calamities](utpātāni) [by-thousands](sahasraśaḥ)
 
 ## mukta-m0-p103-v2569
-from-maiden-worship [kumārīpūjanādeva] not [na] his [tasya] prevail [prabhavanti] and [ca]
+[maiden](kumārī)+[by-worship](pūjanād)+[indeed](eva) [not](na) [of-him](tasya) [arise](prabhavanti) [and](ca)
 
 ## mukta-m0-p103-v2570
-fourfold [catuṣkaṃ] divine-vetāla [divyavetālaṃ] becomes [bhavet] maiden-worship [kumārikārcanāt]
+[quartet](catuṣkaṃ) [divine](divya)+[vetāla](vetālaṃ) [becomes](bhavet) [maiden](kumārikā)+[by-worship](rcanāt)
 
 ## mukta-m0-p103-v2571
-from-second-year [dvitīyavatsarādūrdhvaṃ] until [yāvat] be [syād] eighth-year [aṣṭamābdikam]
+[second](dvitīya)+[from-year](vatsarād)+[above](ūrdhvaṃ) [until](yāvat) [may-be](syād)+[eighth](aṣṭama)+[year](ābdikam)
 
 ## mukta-m0-p103-v2572
-or [athavā] until-sixteenth-year [ṣoḍaśābdāntaṃ] until [yāvat] flower [puṣpaṃ] not [na] arises [jāyate]
+[or](athavā) [sixteenth](ṣoḍaśa)+[year](ābdā)+[until-end](ntaṃ) [as-long-as](yāvat) [flower](puṣpaṃ) [not](na) [is-born](jāyate)
 
 ## mukta-m0-p103-v2573
-child-pleasing [bālapriyañca] offering [naivedyaṃ] strength-lack-action [balābhāvaviceṣṭitam]
+[child](bāla)+[pleasing](priyañ)+[and](ca) [food-offering](naivedyaṃ) [child](bala)+[without](abhāva)+[activity](viceṣṭitam)
 
 ## mukta-m0-p103-v2574
-one-year [ekavarṣā] becomes [bhavet] twilight [sandhyā] two-year [dvivarṣā] and [ca] Sarasvatī [sarasvatī]
+[one](eka)+[year-old](varṣā) [becomes](bhavet) [sandhyā](sandhyā) [two](dvi)+[year-old](varṣā) [and](ca) [sarasvatī](sarasvatī)
 
 ## mukta-m0-p103-v2575
-auspicious [subhagā] five-year [pañcavarṣā] and [ca] six-year [ṣaḍvarṣā] and [ca] Umā [umā] becomes [bhavet]
+[subhagā](subhagā) [five](pañca)+[year-old](varṣā) [and](ca) [six](ṣaḍ)+[year-old](varṣā) [and](ca) [umā](umā) [becomes](bhavet)

@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p118-v2926
-old young and fallen mature youth-proud
+[old](vṛddhāḥ) [young](bālāḥ) [and](tathā) [withered](srastāḥ) [mature](prauḍhāḥ) [youth+proud](yauvana+garvitāḥ)
+
 ## mukta-m0-p118-v2927
-by-part deprived and piece-by-piece hundredfold made
+[part+by](aṃśakena) [devoid](vihīnāḥ) [and](ca) [piece+by+piece](khaṇḍaśaḥ) [hundredfold](śatadhā) [made](kṛtāḥ)
+
 ## mukta-m0-p118-v2928
-accomplishment-liberation-giving all by-practitioner appointed
+[attainment+liberation+giving](siddhi+mokṣa+pradāḥ) [all](sarve) [by-practitioner](sādhakena) [employed](niyojitāḥ)
+
 ## mukta-m0-p118-v2929
-that-that succeeds without-effort from yoni-mudra-bond
+[that+that](tat+tat) [is-accomplished](sidhyati) [without-effort](anāyāsāt) [yoni+seal+binding+from](yoni+mudrā+nibandhanāt)
+
 ## mukta-m0-p118-v2930
-then qualified in-tantra becomes practitioner-best
+[then](tataḥ) [qualified](adhikārī) [tantra+in](tantre) [this](asmin) [becomes](bhavet) [practitioner+best](sādhaka+sattamaḥ)
+
 ## mukta-m0-p118-v2931
-not he is-stained by-sin from yoni-mudra-bond
+[not](na) [he](asau) [is-stained](lipyati) [by-sin](pāpena) [yoni+seal+binding+from](yoni+mudrā+nibandhanāt)
+
 ## mukta-m0-p118-v2932
-having-done sin-thousands countless always
+[having-done](kṛtvā) [sin+thousands](pāpa+sahasrāṇi) [innumerable](asaṃkhyātāni) [always](sarvadā)
+
 ## mukta-m0-p118-v2933
-evil-mantras and succeed mantras other but what moreover
+[defective+mantras](duṣṭa+mantrāḥ) [and](ca) [succeed](sidhyanti) [mantras](mantrāḥ) [and](ca) [others](anye) [indeed](tu) [how](kiṃ) [again](punaḥ)
+
 ## mukta-m0-p118-v2934
-place-meditation-devoid well-accomplished even enemies
+[place+meditation+devoid](sthāna+dhyāna+viniryuktāḥ) [well-accomplished](su+siddhāḥ) [even](api) [hostile](vairiṇaḥ)
+
 ## mukta-m0-p118-v2935
-whole partless subtle and whole-partless
+[with-parts](sakalam) [without-parts](niṣkalam) [subtle](sūkṣmam) [and](tathā) [with-parts+without-parts](sakala+niṣkalam)
+
 ## mukta-m0-p118-v2936
-whole brahma-bond-situated above-that know partless
+[with-parts](sakalam) [Brahman+bond+situated](brahma+bandha+stham) [that+above](tat+ūrdhvam) [know](viddhi) [without-parts](niṣkalam)
+
 ## mukta-m0-p118-v2937
-bindu-situated kalā-distinct kalā-transcended above-that
+[bindu+situated](bindu+sthitam) [kalā+divided](kalā+bhinnam) [kalā+beyond](kalā+atītam) [that+above](tat+ūrdhvataḥ)
+
 ## mukta-m0-p118-v2938
-in-these place-gone mantras place-situated proclaimed
+[in-these](eṣu) [place+gone](sthāna+gatāḥ) [mantras](mantrāḥ) [place+abiding](sthāna+sthāḥ) [are-declared](parikīrttitāḥ)
+
 ## mukta-m0-p118-v2939
-meditation-situated and indeed those mantras to-be-known by-practitioner or
+[meditation+abiding](dhyāna+sthāḥ) [and](ca) [indeed](eva) [those](te) [mantras](mantrāḥ) [to-be-known](vijñeyāḥ) [by-practitioner](sādhakena) [or](vā)
+
 ## mukta-m0-p118-v2940
-whose where firm devotion arises always if
+[whose](yasya) [where](yatra) [firm](dṛḍhā) [devotion](bhaktiḥ) [arises](jāyate) [always](satatam) [if](yadi)
+
 ## mukta-m0-p118-v2941
-now then of-all-knowledges is-written accomplishment-cause
+[now](atha) [then](ataḥ) [all+vidyās+of](sarva+vidyānām) [is-written](likhyate) [accomplishment+cause](siddhi+kāraṇam)
+
 ## mukta-m0-p118-v2942
-four-way or river or banyan-root trident
+[at-crossroads](catuṣpathe) [or](vā) [in-river](nadyām) [or](vā) [at-banyan+root](vaṭa+mūle) [at-trident](triśūlake)
+
 ## mukta-m0-p118-v2943
-with-vermilion should-draw yantra vast desired-fulfilled
+[with-vermilion](sindūreṇa) [should-draw](likhet) [diagram](yantram) [large](vipulam) [target+containing](sādhya+darbhitam)
+
 ## mukta-m0-p118-v2944
-having-satisfied inside-that should-recite night-carefully
+[having-satisfied](tarpayitvā) [that+inside+standing](tat+antaḥ+stham) [should-recite](prajapet) [night+engaged](niśi+cārataḥ)
+
 ## mukta-m0-p118-v2945
-at-night holy-house and indeed garden or god-abode
+[at-night](rātrau) [in-holy+house](puṇya+gṛhe) [and](ca) [indeed](eva) [in-garden](udyāne) [or](vā) [in-god+abode](sura+ālaye)
+
 ## mukta-m0-p118-v2946
-then previously-said-form kula-agitation should-perform
+[then](tataḥ) [previously+stated+manner+by](pūrva+ukta+rūpeṇa) [kula+agitation](kula+kṣobham) [should-perform](samācaret)
+
 ## mukta-m0-p118-v2947
-of-seats supreme seat kamarupa great-fruit
+[of-seats](pīṭhānām) [supreme](paramam) [seat](pīṭham) [Kāmarūpa](kāmarūpam) [great+fruit](mahā+phalam)
+
 ## mukta-m0-p118-v2948
-abandoning all-seats in-his body should-dwell shiva
+[having-abandoned](vihāya) [all+seats](sarva+pīṭhāni) [his](tasya) [in-body](dehe) [dwells](vaset) [Śivā](śivā)
+
 ## mukta-m0-p118-v2949
-where with koti-groups first dwells mardini
+[where](yatra) [crore+multitudes+with](koṭi+gaṇaiḥ) [together](sārdham) [primordial](ādyā) [dwells](vasati) [Mardinī](mardinī)
+
 ## mukta-m0-p118-v2950
-from-whom goddesses and gods and sages indeed born-from-being
+[from-which](yataḥ) [goddesses](devyaḥ) [and](ca) [gods](devāḥ) [and](ca) [sages](munayaḥ) [and](ca) [indeed](eva) [emotion-born](bhāva+jāḥ)
