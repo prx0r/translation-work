@@ -7,19 +7,19 @@
     {
      "surface": "sāmprataṃ",
      "gloss": "now",
-     "grounds": "adverb of present time",
+     "grounds": "adverb of time",
      "morph": "(indecl.)"
     },
     {
      "surface": "śrotum",
      "gloss": "to-hear",
      "grounds": "infinitive of śru",
-     "morph": "(indecl.)"
+     "morph": "inf"
     },
     {
      "surface": "icchāmi",
      "gloss": "I-wish",
-     "grounds": "root iṣ, present active",
+     "grounds": "root iṣ, first person singular present active",
      "morph": "1.sg.act-pres"
     },
     {
@@ -37,19 +37,19 @@
     {
      "surface": "śubham",
      "gloss": "auspicious",
-     "grounds": "accusative singular neuter adjective",
+     "grounds": "accusative singular neuter",
      "morph": "n.acc.sg"
     }
    ],
-   "question": "What auspicious deception of time does the speaker now wish to hear?",
+   "question": "What auspicious deception of time does the speaker now wish to hear about?",
    "premises": [
-    "speaker wishes to hear now",
-    "time has auspicious deception",
-    "hearing is explicitly requested"
+    "The speaker requests hearing now.",
+    "The requested topic concerns time.",
+    "The topic is called auspicious deception."
    ],
-   "inference": "The verse requests teaching on time's auspicious deception.",
+   "inference": "The verse frames a request to learn a beneficial way time is overcome or deceived.",
    "uncertainties": [
-    "legacy hints only"
+    "The exact doctrinal referent of time-deception is not specified in this verse."
    ],
    "plain_english": "Now I wish to hear the auspicious deception of time."
   },
@@ -77,7 +77,7 @@
     {
      "surface": "yathā",
      "gloss": "as",
-     "grounds": "relative particle",
+     "grounds": "relative adverb",
      "morph": "(indecl.)"
     },
     {
@@ -93,17 +93,17 @@
      "morph": "3.sg.act-pres"
     }
    ],
-   "question": "How is death destroyed according to the speaker's certain teaching?",
+   "question": "How is death destroyed without doubt according to the teaching being given?",
    "premises": [
-    "speaker tells without doubt",
-    "death is destroyed",
-    "manner is being explained"
+    "The speaker promises to tell.",
+    "There is no doubt.",
+    "Death is destroyed in the manner described."
    ],
-   "inference": "The verse promises a certain teaching on destruction of death.",
+   "inference": "The verse assures that the method removes death with certainty.",
    "uncertainties": [
-    "legacy hints only"
+    "The method itself is given in following verses."
    ],
-   "plain_english": "I tell without doubt how death is destroyed."
+   "plain_english": "I tell you without doubt: thus death is destroyed."
   },
   {
    "verse": 121,
@@ -111,13 +111,13 @@
     {
      "surface": "amṛta+agraṃ",
      "gloss": "at-tip-of-nectar",
-     "grounds": "compound of amṛta and agra",
+     "grounds": "compound: amṛta + agra, locative sense",
      "morph": "compound"
     },
     {
      "surface": "rasa+agreṇa",
      "gloss": "with-essence-of-juice",
-     "grounds": "compound in instrumental case",
+     "grounds": "compound: rasa + agra, instrumental sense",
      "morph": "compound"
     },
     {
@@ -139,17 +139,17 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "Why does even a wise person burn at the tip of nectar?",
+   "question": "Why does even a wise person burn at the tip of nectar with the essence of juice?",
    "premises": [
-    "wise person is burning",
-    "burning occurs at nectar tip",
-    "essence of juice is involved"
+    "The location is the tip of nectar.",
+    "The instrument is the essence of juice.",
+    "Even a wise person burns."
    ],
-   "inference": "The verse warns that even wisdom does not prevent burning at nectar's tip.",
+   "inference": "The verse warns that subtle nectar-related practice can burn even the wise if mishandled.",
    "uncertainties": [
-    "legacy hints only"
+    "The exact physiological or yogic process is not fully explicit."
    ],
-   "plain_english": "Even a wise person burns at the tip of nectar by the essence of juice."
+   "plain_english": "Even a wise person burns at the tip of nectar with the essence of juice."
   },
   {
    "verse": 122,
@@ -157,14 +157,14 @@
     {
      "surface": "rasanā+tālu+mūle",
      "gloss": "at-root-of-tongue-and-palate",
-     "grounds": "compound in locative case",
+     "grounds": "compound: rasanā + tālu + mūla, locative sense",
      "morph": "compound"
     },
     {
      "surface": "kṛtvā",
      "gloss": "having-made",
      "grounds": "absolutive of kṛ",
-     "morph": "(indecl.)"
+     "morph": "abs"
     },
     {
      "surface": "vāyuṃ",
@@ -185,15 +185,15 @@
      "morph": "(indecl.)"
     }
    ],
-   "question": "How should air be drunk in this yogic practice?",
+   "question": "How should air be drunk after placing it at the root of tongue and palate?",
    "premises": [
-    "air is made at tongue-palate root",
-    "air should be drunk",
-    "drinking is done slowly"
+    "Air is placed at the root of tongue and palate.",
+    "One should drink it.",
+    "The drinking is done slowly."
    ],
-   "inference": "The verse prescribes slow drinking of air after placing it at the tongue-palate root.",
+   "inference": "The verse prescribes a slow yogic intake of air from the tongue-palate root.",
    "uncertainties": [
-    "legacy hints only"
+    "The precise breath technique is not detailed beyond this."
    ],
    "plain_english": "Having placed air at the root of tongue and palate, one should drink it slowly."
   },
@@ -203,19 +203,19 @@
     {
      "surface": "abdam+ekaṃ",
      "gloss": "for-one-year",
-     "grounds": "compound accusative singular",
+     "grounds": "compound: abda + eka, accusative duration",
      "morph": "compound"
     },
     {
      "surface": "yadā+abhyastañ",
      "gloss": "when-practiced",
-     "grounds": "compound with sandhi",
+     "grounds": "compound: yadā + abhyasta, nominative/accusative neuter",
      "morph": "compound"
     },
     {
      "surface": "jarā+mṛtyur",
      "gloss": "old-age-and-death",
-     "grounds": "compound nominative singular",
+     "grounds": "compound: jarā + mṛtyu, nominative singular",
      "morph": "compound"
     },
     {
@@ -225,15 +225,15 @@
      "morph": "3.sg.act-pres"
     }
    ],
-   "question": "What result follows from practicing this for one year?",
+   "question": "What happens to old age and death when this practice is done for one year?",
    "premises": [
-    "practice lasts one year",
-    "old age and death are named",
-    "they are destroyed"
+    "The practice is done for one year.",
+    "It is practiced regularly.",
+    "Old age and death are destroyed."
    ],
-   "inference": "The verse states that one year of practice destroys old age and death.",
+   "inference": "The verse promises destruction of aging and death after a year of practice.",
    "uncertainties": [
-    "legacy hints only"
+    "The exact practice is inferred from the preceding verses."
    ],
    "plain_english": "When practiced for one year, old age and death are destroyed."
   },
@@ -243,7 +243,7 @@
     {
      "surface": "viṣaṃ",
      "gloss": "poison",
-     "grounds": "nominative singular neuter",
+     "grounds": "nominative/accusative singular neuter",
      "morph": "n.nom.sg"
     },
     {
@@ -268,7 +268,7 @@
      "surface": "daṃśito",
      "gloss": "even-bitten",
      "grounds": "nominative singular masculine participle",
-     "morph": "m.nom.sg"
+     "morph": "participle"
     },
     {
      "surface": "api",
@@ -279,21 +279,21 @@
     {
      "surface": "mahā+uragaiḥ",
      "gloss": "by-great-serpents",
-     "grounds": "compound instrumental plural",
+     "grounds": "compound: mahā + uraga, instrumental plural",
      "morph": "compound"
     }
    ],
-   "question": "What protection from serpent poison results from this practice?",
+   "question": "Why does poison not enter the body even when bitten by great serpents?",
    "premises": [
-    "poison does not enter body",
-    "even bitten by great serpents",
-    "protection is asserted"
+    "Poison does not enter the body.",
+    "This holds even if bitten.",
+    "The biters are great serpents."
    ],
-   "inference": "The verse claims immunity to serpent poison even after being bitten.",
+   "inference": "The verse claims immunity to serpent poison as a result of the practice.",
    "uncertainties": [
-    "legacy hints only"
+    "Whether this is literal or yogic symbolism is not stated."
    ],
-   "plain_english": "Poison does not enter the body even when one is bitten by great serpents."
+   "plain_english": "Poison does not enter the body, even if one is bitten by great serpents."
   }
  ]
 }

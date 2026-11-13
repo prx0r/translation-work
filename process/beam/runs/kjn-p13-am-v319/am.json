@@ -1,16 +1,15 @@
 {
  "song": "kjn-p13",
  "verse": 319,
- "question": "What may be done when the proper vessel is not obtained?",
+ "question": "When the proper vessel is unavailable, may liquor be consumed in another vessel?",
  "premises": [
   "proper vessel is unavailable",
-  "drinking may occur",
-  "another vessel is used",
-  "liquor is the object"
+  "another vessel may be used",
+  "liquor may be consumed"
  ],
- "inference": "If the proper vessel is not obtained, one may drink liquor from another vessel.",
+ "inference": "The verse permits drinking liquor in another vessel when the proper vessel is not obtained.",
  "uncertainties": [
-  "whether this is exception or general rule"
+  "context of vessel ritual unclear"
  ],
- "plain_english": "By non-obtainment of this vessel, one may drink liquor in another vessel."
+ "plain_english": "Because this vessel is not obtained, one may drink liquor in another vessel."
 }

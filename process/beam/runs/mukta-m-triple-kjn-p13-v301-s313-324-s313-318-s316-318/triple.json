@@ -6,52 +6,52 @@
    "rows": [
     {
      "surface": "kaulikaṃ",
-     "gloss": "kaulika",
-     "grounds": "adjective modifying implied vessel",
+     "gloss": "kaula-related",
+     "grounds": "kaulika stem with accusative singular ending",
      "morph": "m.acc.sg"
     },
     {
      "surface": "tu",
      "gloss": "indeed",
-     "grounds": "particle",
+     "grounds": "indeclinable particle",
      "morph": "(indecl.)"
     },
     {
      "surface": "varārohe",
-     "gloss": "fair-hipped-one",
-     "grounds": "vocative address",
+     "gloss": "O-fair-hipped-one",
+     "grounds": "vocative address to the goddess",
      "morph": "f.voc.sg"
     },
     {
      "surface": "tathā",
      "gloss": "likewise",
-     "grounds": "adverb",
+     "grounds": "indeclinable adverb",
      "morph": "(indecl.)"
     },
     {
      "surface": "anyaṃ",
      "gloss": "another",
-     "grounds": "pronoun-adjective",
+     "grounds": "accusative singular masculine pronoun",
      "morph": "m.acc.sg"
     },
     {
      "surface": "kācasambhavam",
      "gloss": "glass-born",
-     "grounds": "compound kāca+sambhava",
-     "morph": "n.acc.sg"
+     "grounds": "compound describing a vessel born of glass",
+     "morph": "m.acc.sg"
     }
    ],
-   "question": "Which vessels are likewise kaulika and glass-born for the fair-hipped one?",
+   "question": "Which vessels are praised as supreme for ritual drinking?",
    "premises": [
-    "kaulika vessel is named",
-    "glass-born vessel is named",
-    "both are addressed to fair-hipped one"
+    "kaulika vessel is praised",
+    "glass-born vessel is praised",
+    "beloved is addressed"
    ],
-   "inference": "The verse lists kaulika and glass-born vessels as additional approved vessels.",
+   "inference": "The verse adds kaulika and glass-born vessels to the praised list.",
    "uncertainties": [
-    "implied pātram is not explicit"
+    "exact ritual context is not stated in this excerpt"
    ],
-   "plain_english": "Likewise, O fair-hipped one, another kaulika vessel and a glass-born vessel."
+   "plain_english": "Likewise, O fair-hipped one, another kaulika vessel and a glass-born vessel are praised."
   },
   {
    "verse": 317,
@@ -59,31 +59,31 @@
     {
      "surface": "viśvāmitrakapālañca",
      "gloss": "viśvāmitra-skull-and",
-     "grounds": "compound plus ca",
-     "morph": "n.acc.sg+(indecl.)"
+     "grounds": "compound naming Viśvāmitra's skull with conjunctive particle",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "sarvapātrottamaṃ",
-     "gloss": "supreme-among-all-vessels",
-     "grounds": "compound sarva+pātra+uttama",
-     "morph": "n.acc.sg"
+     "gloss": "all-vessel-supreme",
+     "grounds": "compound meaning supreme among all vessels",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "priye",
-     "gloss": "beloved",
+     "gloss": "O-beloved",
      "grounds": "vocative address",
      "morph": "f.voc.sg"
     }
    ],
-   "question": "Which skull-vessel is declared supreme among all vessels for the beloved?",
+   "question": "Which vessel is called supreme among all vessels?",
    "premises": [
-    "Viśvāmitra skull vessel is named",
-    "it is called supreme among all vessels",
+    "viśvāmitra skull vessel is named",
+    "it is called supreme among vessels",
     "beloved is addressed"
    ],
-   "inference": "The Viśvāmitra skull vessel is the supreme vessel among all vessels.",
+   "inference": "The Viśvāmitra skull vessel is declared supreme among all vessels.",
    "uncertainties": [
-    "exact ritual context is not stated"
+    "ritual use details are not stated in this excerpt"
    ],
    "plain_english": "And the skull of Viśvāmitra, O beloved, is the supreme vessel among all vessels."
   },
@@ -93,52 +93,52 @@
     {
      "surface": "patiñca",
      "gloss": "lord-and",
-     "grounds": "accusative plus ca",
-     "morph": "m.acc.sg+(indecl.)"
+     "grounds": "noun with conjunctive particle",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "patitañca",
      "gloss": "fallen-and",
-     "grounds": "participle plus ca",
-     "morph": "m.acc.sg+(indecl.)"
+     "grounds": "participle with conjunctive particle",
+     "morph": "m.acc.sg"
     },
     {
      "surface": "tad",
      "gloss": "that",
-     "grounds": "pronoun",
+     "grounds": "demonstrative pronoun",
      "morph": "n.nom.sg"
     },
     {
      "surface": "bhave",
      "gloss": "may-be",
-     "grounds": "root bhū optative",
-     "morph": "3.sg.opt.act"
+     "grounds": "verb form expressing possibility",
+     "morph": "3.sg.act.opt"
     },
     {
      "surface": "ccakottamaḥ",
-     "gloss": "supreme-cakra",
-     "grounds": "compound cakra+uttama",
+     "gloss": "cakra-supreme",
+     "grounds": "compound naming supreme cakra",
      "morph": "m.nom.sg"
     },
     {
      "surface": "?",
      "gloss": "unknown",
-     "grounds": "uncertain token",
-     "morph": "unknown"
+     "grounds": "editorial placeholder token",
+     "morph": "(indecl.)"
     }
    ],
-   "question": "What becomes the supreme cakra when lord and fallen are that?",
+   "question": "What condition makes the supreme cakra applicable?",
    "premises": [
-    "lord is named",
-    "fallen is named",
+    "lord and fallen are joined",
+    "that may be stated",
     "supreme cakra is named"
    ],
-   "inference": "The verse connects lord and fallen with the supreme cakra, but the final token is uncertain.",
+   "inference": "The verse connects lord, fallen, and supreme cakra in a conditional statement.",
    "uncertainties": [
-    "final token is illegible or editorially marked unknown",
-    "exact syntactic relation is unclear"
+    "the final token is an editorial placeholder",
+    "the exact doctrinal condition is unclear from this excerpt"
    ],
-   "plain_english": "Lord and fallen, that may be the supreme cakra, ?"
+   "plain_english": "Lord and fallen, that may be; supreme cakra, unknown."
   }
  ]
 }

@@ -1,14 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 117,
- "question": "What kaula essence should not be given, though arising from yoginīs?",
+ "question": "What kaula essence should not be given?",
  "premises": [
-  "The kaula essence is not to be given.",
-  "It arises from yoginīs."
+  "not to be given is stated",
+  "kaula essence is stated",
+  "of yoginīs origin is stated"
  ],
  "inference": "The kaula essence originating from yoginīs should not be given.",
  "uncertainties": [
-  "The reason for withholding is not stated."
+  "exact restriction"
  ],
- "plain_english": "The kaula essence, origin of yoginīs, is not to be given."
+ "plain_english": "The kaula essence originating from yoginīs should not be given."
 }
