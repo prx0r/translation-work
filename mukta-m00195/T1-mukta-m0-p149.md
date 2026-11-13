@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p149-v3701
-of-vessel(pātrasya) two-parts(aṃśa+dvayaṃ) filled-with-liquor(madya+pūrṇaṃ) third-part(tryaṃśaṃ) but(tu) empty(riktakam)
+[of-vessel](pātrasya) [two-parts](aṃśa+dvayaṃ) [filled-with-liquor](madya+pūrṇaṃ) [but-third-part](tri+aṃśan+tu) [empty](riktakam)
 
 ## mukta-m0-p149-v3702
-not(na) should-lift(uddharet) vessel(pātram) without-support(anādhāre) not(na) should-place(nikṣipet)
+[not](na) [should-lift](uddharet) [vessel](pātram) [without-support](an+ādhāre) [not](na) [should-place](nikṣipet)
 
 ## mukta-m0-p149-v3703
-on-cow-dung(gomaye) vessel(pātraṃ) obeisance-to-you(namaḥ+ante) brahmin(vipram) should-behold(īkṣayet)
+[on-cow-dung](gomaye) [vessel](pātraṃ) [having-bowed](namante) [brahmin](vipram) [should-behold](īkṣayet)
 
 ## mukta-m0-p149-v3704
-and(ca) association(saṃgaḥ) but(tu) instrument(karaṇaṃ) of-vedic-rites(śrauta+karmaṇām)
+[and](ca) [association](saṃgas+tu) [performance](karaṇaṃ) [of-vedic-rites](śrauta+karmaṇām)
 
 ## mukta-m0-p149-v3705
-while-going(gacchan) not(na) should-perform(kurvīta) at-any-time(kadācana)
+[while-going](gacchan) [not](na) [should-perform](kurvīta) [ever](kadācana)
 
 ## mukta-m0-p149-v3706
-should-be-known(jñeyaḥ) to-Raurava(rauravaṃ) hell(narakaṃ) would-go(vrajet)
+[should-be-known](jñeyo) [to-raurava](rauravaṃ) [hell](narakaṃ) [would-go](vrajet)
 
 ## mukta-m0-p149-v3707
-should-see(paśyet) by-him(tena) not-said(uktaṃ) harsh(paruṣaṃ) should-endure(sahet)
+[should-see](paśyet) [by-him](tena) [not-said](uktaṃ) [harsh-word](paruṣaṃ) [should-endure](sahet)
 
 ## mukta-m0-p149-v3708
-with-devotion(bhaktyā) beginning-with-Śrī(śrī+pūrvakaṃ) wise-one(vidvān) having-bowed(praṇamya) should-proclaim(parikīrtayet)
+[with-devotion](bhaktyā) [beginning-with-śrī](śrī+pūrvakaṃ) [the-wise-one](vidvān) [having-bowed](praṇamya) [should-proclaim](parikīrtayet)
 
 ## mukta-m0-p149-v3709
-obtained-from-guru's-mouth(guru+mukhāt+labdhaṃ) fruitful(saphalaṃ) would-be(syāt) not(na) and(ca) otherwise(anyathā)
+[from-guru's-mouth](guru+mukhāt) [obtained](labdhaṃ) [fruitful](sa+phalaṃ) [would-be](syāt) [not](na) [otherwise](ca+anyathā)
 
 ## mukta-m0-p149-v3710
-as-own-wife(sva+dāravat) should-resort-to(niṣeveta) Kaula-scriptures(kala+śāstrāṇi) tantric-practitioner(tāntrikaḥ)
+[as-own-wife](sva+dāravat) [should-serve](niṣeveta) [vessel](kalaśa) [scriptures](śāstrāṇi) [the-tāntrika](tāntrikaḥ)
 
 ## mukta-m0-p149-v3711
-torn(chinna) broken(bhinnān) disordered-letters(vyasta+varṇān) and(ca) Vedic-texts(vaidikān)
+[cut](chinna) [broken](bhinnān) [disordered-letters](vyasta+varṇān) [and](ca) [vedic-texts](vaidikān)
 
 ## mukta-m0-p149-v3712
-opposed-to-dharma-scriptures(dharma+śāstra+viruddhaḥ) which(yaḥ) conduct(ācāraḥ) that(saḥ) indeed(tu) Kaulika(kaulikaḥ)
+[opposed-to-dharma-śāstras](dharma+śāstra+viruddho) [which](ya) [conduct](ācāraḥ) [that](sa) [indeed](tu) [kaulika](kaulikaḥ)
 
 ## mukta-m0-p149-v3713
-should-do(kurvīta) having-done(kṛtvā) hell(nirayam) would-obtain(āpnuyāt)
+[should-do](kurvīta) [having-done](kṛtvā) [hell](nirayam) [would-obtain](āpnuyāt)
 
 ## mukta-m0-p149-v3714
-hero's-wife(vīra+bhāryāṃ) maiden(kumārīṃ) vow-observing(vrata+dhāriṇīm)
+[hero's-wife](vīra+bhāryāṃ) [maiden](kumārīṃ) [observing-a-vow](vrata+dhāriṇīm)
 
 ## mukta-m0-p149-v3715
-daughter-in-law(snuṣāṃ) once-gone-for-desire(sakṛt+kāma+gatā) old-woman(vṛddhāṃ) not(na) indeed(eva) charming(manoharām)
+[daughter-in-law](snuṣāṃ) [once](sakṛt) [gone-for-desire](kāma+gatā) [old-woman](vṛddhāṃ) [not](na) [indeed](eva) [charming](manaḥ+harām)
 
 ## mukta-m0-p149-v3716
-dark-complexioned-woman(śyāmāṃ) should-worship(pūjayet) Kaula-woman(kaulika+aṅganām)
+[young-woman](śyāmāṃ) [should-worship](pūjayet) [kaula-woman](kaulika+aṅganām)
 
 ## mukta-m0-p149-v3717
-agitated(kṣubdhāṃ) or(vā) by-herself(svataḥ) requesting(prārthinīṃ) should-approach(yabhet)
+[agitated](kṣubdhāṃ) [or](vā) [by-herself](svataḥ) [requesting](prārthinīṃ) [should-approach](yabhet)
 
 ## mukta-m0-p149-v3718
-mango-tree(sahakāram) aśoka-tree(aśokaṃ) and(ca) eager-for-play(krīḍā+lubdhāḥ) maidens(kumārikāḥ)
+[mango-tree](saha+kāram) [aśoka-tree](aśokaṃ) [and](ca) [eager-for-play](krīḍā+lubdhāḥ) [maidens](kumārikāḥ)
 
 ## mukta-m0-p149-v3719
-wearing-red-garments(rakta+vasanāṃ) having-seen(dṛṣṭvā) should-salute(vandeta) with-devotion(bhaktitaḥ)
+[wearing-red-garment](rakta+vasanāṃ) [having-seen](dṛṣṭvā) [should-salute](vandeta) [with-devotion](bhaktitaḥ)
 
 ## mukta-m0-p149-v3720
-Kula-doctrine-scriptures(kula+darśana+śāstrāṇi) Kula-substances(kula+dravyāṇi) Kaulikas(kaulikān)
+[kula-doctrine-scriptures](kula+darśana+śāstrāṇi) [kula-substances](kula+dravyāṇi) [kaulikas](kaulikān)
 
 ## mukta-m0-p149-v3721
-teachers(śikṣakān) instructors(bodhakān) yogis(yogi) yoginīs(yoginī) accomplished-beings(siddha+pūruṣān)
+[teachers](śikṣakān) [instructors](bodhakān) [yogis](yogi) [yoginīs](yoginī) [accomplished-persons](siddha+pūruṣān)
 
 ## mukta-m0-p149-v3722
-should-not-despise(jugupseta) not(na) should-laugh(haset) not(na) should-disrespect(apamānayet)
+[should-despise](jugupseta) [not](na) [should-laugh](haset) [not](na) [should-disrespect](apamānayet)
 
 ## mukta-m0-p149-v3723
-ugly(kurūpā) thus(iti) very-dark(ati+kṛṣṇā) thus(iti) not(na) should-say(vadet) Kula-woman(kula+yoṣitam)
+[ugly](kurūpā) [thus](iti) [very-dark](ati+kṛṣṇā) [thus](iti) [not](na) [should-say](vadet) [kula-woman](kula+yoṣitam)
 
 ## mukta-m0-p149-v3724
-should-see(paśyet) fallen-woman(patitāṃ) naked(nagnām) mad(unmattāṃ) with-exposed-breasts(prakaṭa+stanīm)
+[should-see](paśyet) [fallen-woman](patitāṃ) [naked](nagnām) [mad-woman](unmattāṃ) [with-breasts-exposed](prakaṭa+stanīm)
 
 ## mukta-m0-p149-v3725
-having-committed-hundred-offenses(śata+aparādhāṃ) or(vā) even-with-a-flower(puṣpeṇa+api) not(na) should-strike(tāḍayet)
+[with-hundred-faults](śata+aparādhāṃ) [or](vā) [with-flower](puṣpeṇa) [even](api) [not](na) [should-strike](tāḍayet)
