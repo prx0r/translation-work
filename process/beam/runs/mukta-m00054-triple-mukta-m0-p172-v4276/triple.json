@@ -1,0 +1,967 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4276,
+   "rows": [
+    {
+     "surface": "nakṣatreśo",
+     "gloss": "moon-lord",
+     "grounds": "compound nakṣatra-īśaḥ, lord of stars/moon",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ravi-",
+     "gloss": "sun",
+     "grounds": "first member of compound with tejaḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "-tejaḥ",
+     "gloss": "splendor",
+     "grounds": "second member of compound ravi-tejaḥ, having sun-like splendor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śreṣṭhaḥ",
+     "gloss": "best",
+     "grounds": "superlative/excellent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śukraḥ",
+     "gloss": "venus",
+     "grounds": "planet Venus, also preceptor of demons",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kavīśvaraḥ",
+     "gloss": "poet-lord",
+     "grounds": "compound kavi-īśvaraḥ, lord of poets",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which celestial and preceptorial figures are identified as foremost in their respective domains?",
+   "premises": [
+    "The moon-lord possesses sun-like splendor and is best.",
+    "Venus is identified as the lord of poets."
+   ],
+   "inference": "The moon-lord and Venus are presented as supreme exemplars in their spheres.",
+   "uncertainties": [],
+   "plain_english": "The lord of stars, radiant like the sun, is the best; Venus is the lord of poets."
+  },
+  {
+   "verse": 4277,
+   "rows": [
+    {
+     "surface": "vāyur",
+     "gloss": "wind",
+     "grounds": "wind deity/element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahniḥ",
+     "gloss": "fire",
+     "grounds": "fire deity/element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "epithet meaning pure or purifier",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhaḥ",
+     "gloss": "best",
+     "grounds": "superlative/excellent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkaro",
+     "gloss": "shankara",
+     "grounds": "name of Shiva, beneficent one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudrarāḍ",
+     "gloss": "rudra-king",
+     "grounds": "compound rudra-rāj, king of Rudras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "spiritual preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which elemental and divine figures are declared foremost among purifiers, Rudras, and teachers?",
+   "premises": [
+    "Wind and pure fire are declared the best.",
+    "Shankara is the king of Rudras and the teacher."
+   ],
+   "inference": "Elemental forces and Shiva are identified as supreme in purity, rulership, and guidance.",
+   "uncertainties": [],
+   "plain_english": "Wind and pure fire are the best; Shankara is the king of the Rudras and the teacher."
+  },
+  {
+   "verse": 4278,
+   "rows": [
+    {
+     "surface": "varṇādir",
+     "gloss": "letter-beginning",
+     "grounds": "compound varṇa-ādiḥ, beginning of letters/syllables",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agryā",
+     "gloss": "foremost",
+     "grounds": "feminine foremost/excellent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "woman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaurī",
+     "gloss": "gauri",
+     "grounds": "goddess Gauri",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktyagryā",
+     "gloss": "power-foremost",
+     "grounds": "compound śakti-agryā, foremost among powers/shaktis",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīś",
+     "gloss": "fortune",
+     "grounds": "goddess Shri/Lakshmi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāradaḥ",
+     "gloss": "narada",
+     "grounds": "sage Narada",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which primordial sound, goddess, power, and sage are ranked as foremost in their categories?",
+   "premises": [
+    "The beginning of letters is foremost and Gauri is the foremost woman.",
+    "Shri is the foremost power and Narada is included among the foremost."
+   ],
+   "inference": "Primordial sound, Gauri, Shri, and Narada are presented as supreme in their respective domains.",
+   "uncertainties": [
+    "varṇādir may refer to the syllable 'a' or to color/beginning; taken as beginning of letters"
+   ],
+   "plain_english": "The first of letters is foremost, Gauri is the foremost woman, Shri is the foremost power, and Narada is foremost."
+  },
+  {
+   "verse": 4279,
+   "rows": [
+    {
+     "surface": "pavanaḥ",
+     "gloss": "wind",
+     "grounds": "wind, purifier",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pavaneśāno",
+     "gloss": "wind-lord",
+     "grounds": "compound pavana-īśānaḥ, lord of winds",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varuṇo",
+     "gloss": "varuna",
+     "grounds": "deity Varuna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yādasāmpatiḥ",
+     "gloss": "water-creatures-lord",
+     "grounds": "compound yādasām-patiḥ, lord of aquatic beings",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities are identified as supreme among winds and aquatic beings?",
+   "premises": [
+    "Pavana is identified as the lord of winds.",
+    "Varuna is identified as the lord of aquatic beings."
+   ],
+   "inference": "Pavana and Varuna hold supreme lordship over wind and water creatures respectively.",
+   "uncertainties": [],
+   "plain_english": "Pavana is the lord of the winds, and Varuna is the lord of aquatic creatures."
+  },
+  {
+   "verse": 4280,
+   "rows": [
+    {
+     "surface": "annaṃ",
+     "gloss": "food",
+     "grounds": "nourishment, food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sudarśśanāstrāgryo",
+     "gloss": "sudarshana-weapon-foremost",
+     "grounds": "compound sudarśana-astra-agryaḥ, foremost among weapons is Sudarshana",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vajrapraharaṇottamam",
+     "gloss": "thunderbolt-weapon-best",
+     "grounds": "compound vajra-praharaṇa-uttamam, thunderbolt as best striking weapon",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which substances and weapons are declared foremost in nourishment and martial power?",
+   "premises": [
+    "Food is presented as foremost in its category.",
+    "Sudarshana is the foremost weapon and the thunderbolt is the best striking weapon."
+   ],
+   "inference": "Food, Sudarshana, and the thunderbolt are identified as supreme in their respective domains.",
+   "uncertainties": [],
+   "plain_english": "Food is foremost; the Sudarshana is the foremost weapon, and the thunderbolt is the best striking weapon."
+  },
+  {
+   "verse": 4281,
+   "rows": [
+    {
+     "surface": "arundhaty",
+     "gloss": "arundhati",
+     "grounds": "Arundhati, ideal chaste wife",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekapatnīśo",
+     "gloss": "one-wife-lord",
+     "grounds": "compound eka-patnī-īśaḥ, lord devoted to one wife",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hya",
+     "gloss": "indeed",
+     "grounds": "particle hi with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśvattho'",
+     "gloss": "sacred-fig-tree",
+     "grounds": "aśvattha tree, with sandhi marking",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśeṣavṛkṣarāṭ",
+     "gloss": "all-trees-king",
+     "grounds": "compound aśeṣa-vṛkṣa-rāj, king of all trees",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which woman, husband, and tree are exalted as supreme exemplars of fidelity and kingship?",
+   "premises": [
+    "Arundhati is foremost and the lord devoted to one wife is supreme.",
+    "The sacred fig tree is indeed the king of all trees."
+   ],
+   "inference": "Arundhati, the one-wife lord, and the sacred fig tree are presented as supreme exemplars.",
+   "uncertainties": [
+    "ekapatnīśo may refer to Rama as the ideal husband devoted to one wife"
+   ],
+   "plain_english": "Arundhati is foremost, the lord devoted to one wife is supreme, and indeed the sacred fig tree is the king of all trees."
+  },
+  {
+   "verse": 4282,
+   "rows": [
+    {
+     "surface": "merur",
+     "gloss": "meru",
+     "grounds": "Mount Meru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "giripatir",
+     "gloss": "mountain-lord",
+     "grounds": "compound giri-patiḥ, lord of mountains",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mārgo",
+     "gloss": "path",
+     "grounds": "path or way",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāmāgryaḥ",
+     "gloss": "sama-foremost",
+     "grounds": "compound sāma-agryaḥ, foremost among Sama chants",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālasattamaḥ",
+     "gloss": "time-best",
+     "grounds": "compound kāla-sattamaḥ, best among times",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mountain, path, chant, and time are declared the best in their respective classes?",
+   "premises": [
+    "Meru is the lord of mountains.",
+    "The path, the foremost Sama chant, and the best time are identified as supreme."
+   ],
+   "inference": "Meru, the path, the foremost Sama, and the best time are presented as preeminent.",
+   "uncertainties": [
+    "mārgo may refer to a specific spiritual path or path in general"
+   ],
+   "plain_english": "Meru is the lord of mountains, the path is foremost, the Sama is the foremost chant, and it is the best of times."
+  },
+  {
+   "verse": 4283,
+   "rows": [
+    {
+     "surface": "tārkṣyaḥ",
+     "gloss": "garuda",
+     "grounds": "Tarkshya, Garuda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khagendra",
+     "gloss": "bird-king",
+     "grounds": "compound khaga-indra, king of birds",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛtvagryo",
+     "gloss": "priest-foremost",
+     "grounds": "compound ṛtvij-agryaḥ, foremost among priests",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vasantaḥ",
+     "gloss": "spring",
+     "grounds": "spring season",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalpapādapaḥ",
+     "gloss": "wish-fulfilling-tree",
+     "grounds": "compound kalpa-pādapaḥ, wish-granting tree",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which bird, priest, season, and tree are identified as foremost in their domains?",
+   "premises": [
+    "Tarkshya is the king of birds.",
+    "The foremost priest, spring, and the wish-fulfilling tree are supreme in their classes."
+   ],
+   "inference": "Garuda, the foremost priest, spring, and the wish-fulfilling tree are presented as preeminent.",
+   "uncertainties": [
+    "ṛtvagryo may refer to a specific priestly role or the best officiating priest"
+   ],
+   "plain_english": "Tarkshya is the king of birds, the foremost priest, spring is the foremost season, and the wish-fulfilling tree is foremost."
+  },
+  {
+   "verse": 4284,
+   "rows": [
+    {
+     "surface": "cintāmaṇir",
+     "gloss": "wish-fulfilling-jewel",
+     "grounds": "cintamani, jewel granting wishes",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruśreṣṭho",
+     "gloss": "teacher-best",
+     "grounds": "compound guru-śreṣṭhaḥ, best among teachers",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātāhitatamaḥ",
+     "gloss": "mother-most-beneficial",
+     "grounds": "compound mātā-ahitatamaḥ, mother as most beneficial; reading follows given form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "father",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which jewel, teacher, and parental figures are declared the most excellent and beneficial?",
+   "premises": [
+    "The wish-fulfilling jewel and the best teacher are foremost.",
+    "The mother is most beneficial and the father is foremost."
+   ],
+   "inference": "The wish-fulfilling jewel, the best teacher, mother, and father are presented as supreme.",
+   "uncertainties": [
+    "mātāhitatamaḥ is read as mother most beneficial; compound formation is unusual"
+   ],
+   "plain_english": "The wish-fulfilling jewel is foremost, the best teacher is foremost, the mother is most beneficial, and the father is foremost."
+  },
+  {
+   "verse": 4285,
+   "rows": [
+    {
+     "surface": "varṇeśo",
+     "gloss": "letter-lord",
+     "grounds": "compound varṇa-īśaḥ, lord of letters/castes",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brāhmaṇaś",
+     "gloss": "brahmin",
+     "grounds": "brahmin, with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāntaḥ",
+     "gloss": "and-inner",
+     "grounds": "ca + antaḥ, and within/inner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇāgryann",
+     "gloss": "inner-organ-foremost",
+     "grounds": "compound karaṇa-agryam, foremost inner organ/faculty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "amo",
+     "gloss": "unmeasured",
+     "grounds": "possibly amaḥ or part of salutation; reading uncertain",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation, homage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which social, inner, and devotional elements are affirmed as foremost and worthy of obeisance?",
+   "premises": [
+    "The lord of letters and the brahmin are foremost.",
+    "The foremost inner organ is affirmed with obeisance."
+   ],
+   "inference": "Supreme status is assigned to the lord of letters, the brahmin, the inner organ, and obeisance is offered.",
+   "uncertainties": [
+    "amo namaḥ reading is uncertain; may be a salutation formula or textual corruption"
+   ],
+   "plain_english": "The lord of letters, the brahmin, and the foremost inner organ are supreme; obeisance, obeisance."
+  },
+  {
+   "verse": 4286,
+   "rows": [
+    {
+     "surface": "sarvāparādhaśamanam",
+     "gloss": "all-offenses-pacifying",
+     "grounds": "compound sarva-aparādha-śamanam, that which pacifies all offenses",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parambhaktivivarddhanam",
+     "gloss": "supreme-devotion-increasing",
+     "grounds": "compound parama-bhakti-vivardhanam, that which increases supreme devotion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What spiritual effects of pacifying offenses and increasing devotion are attributed to the subject?",
+   "premises": [
+    "The subject pacifies all offenses.",
+    "The subject increases supreme devotion."
+   ],
+   "inference": "The subject is characterized as removing faults and fostering supreme devotion.",
+   "uncertainties": [],
+   "plain_english": "It pacifies all offenses and increases supreme devotion."
+  },
+  {
+   "verse": 4287,
+   "rows": [
+    {
+     "surface": "viṣṇulokaikasopānaṃ",
+     "gloss": "vishnu-world-sole-stairway",
+     "grounds": "compound viṣṇu-loka-eka-sopānam, the sole stairway to Vishnu's world",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaduḥkhavināśanam",
+     "gloss": "all-sorrows-destroying",
+     "grounds": "compound sarva-duḥkha-vināśanam, that which destroys all sorrows",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What salvific and liberating powers are ascribed to the subject regarding Vishnu's world and sorrow?",
+   "premises": [
+    "The subject is the sole stairway to Vishnu's world.",
+    "The subject destroys all sorrows."
+   ],
+   "inference": "The subject grants access to Vishnu's realm and removes all suffering.",
+   "uncertainties": [],
+   "plain_english": "It is the sole stairway to the world of Vishnu and the destroyer of all sorrows."
+  },
+  {
+   "verse": 4288,
+   "rows": [
+    {
+     "surface": "kāmakrodhādiniśśeṣam",
+     "gloss": "desire-anger-etc-complete",
+     "grounds": "compound kāma-krodha-ādi-niḥśeṣam, completely removing desire, anger, etc.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anomalaviśodhanam",
+     "gloss": "fault-impurity-purifying",
+     "grounds": "compound an-amala-viśodhanam, purifying of faults and impurities",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What purifying effects on passions and impurities are attributed to the subject?",
+   "premises": [
+    "The subject completely removes desire, anger, and similar passions.",
+    "The subject purifies faults and impurities."
+   ],
+   "inference": "The subject eradicates inner passions and cleanses all impurities.",
+   "uncertainties": [],
+   "plain_english": "It completely removes desire, anger, and the rest, and purifies all faults and impurities."
+  },
+  {
+   "verse": 4289,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prāṇinām",
+     "gloss": "living-beings",
+     "grounds": "living beings, creatures",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "swiftly, immediately",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvābhīṣṭaphalapradam",
+     "gloss": "all-desired-fruit-giving",
+     "grounds": "compound sarva-abhīṣṭa-phala-pradam, giving all desired fruits",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What universal benefit and speed of fulfillment are promised to all living beings?",
+   "premises": [
+    "The subject benefits all living beings.",
+    "The subject quickly grants all desired fruits."
+   ],
+   "inference": "The subject swiftly fulfills the desires of all creatures.",
+   "uncertainties": [],
+   "plain_english": "It quickly grants all desired fruits to all living beings."
+  },
+  {
+   "verse": 4290,
+   "rows": [
+    {
+     "surface": "ghoraduḥkhapraśamanaṃ",
+     "gloss": "terrible-sorrow-pacifying",
+     "grounds": "compound ghora-duḥkha-praśamanam, pacifying terrible sorrow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīvradāridryanāśanam",
+     "gloss": "intense-poverty-destroying",
+     "grounds": "compound tīvra-dāridrya-nāśanam, destroying intense poverty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What relief from severe suffering and poverty is attributed to the subject?",
+   "premises": [
+    "The subject pacifies terrible sorrow.",
+    "The subject destroys intense poverty."
+   ],
+   "inference": "The subject alleviates extreme suffering and removes severe poverty.",
+   "uncertainties": [],
+   "plain_english": "It pacifies terrible sorrow and destroys intense poverty."
+  },
+  {
+   "verse": 4291,
+   "rows": [
+    {
+     "surface": "sarvaiśvaryapradaṃ",
+     "gloss": "all-sovereignty-giving",
+     "grounds": "compound sarva-aiśvarya-pradam, granting all sovereignty/powers",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhidaṃ",
+     "gloss": "all-accomplishments-giving",
+     "grounds": "compound sarva-siddhi-dam, granting all accomplishments",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvakāladam",
+     "gloss": "all-times-giving",
+     "grounds": "compound sarva-kāla-dam, giving benefits at all times",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What comprehensive powers, accomplishments, and temporal benefits are bestowed by the subject?",
+   "premises": [
+    "The subject grants all sovereignty and all accomplishments.",
+    "The subject gives benefits at all times."
+   ],
+   "inference": "The subject bestows complete power, success, and enduring benefits.",
+   "uncertainties": [
+    "sarvakāladam may mean granting all time or effective at all times"
+   ],
+   "plain_english": "It grants all sovereignty, all accomplishments, and benefits at all times."
+  },
+  {
+   "verse": 4292,
+   "rows": [
+    {
+     "surface": "aprajñajāḍyaśamanaṃ",
+     "gloss": "ignorance-dullness-pacifying",
+     "grounds": "compound aprajñā-jāḍya-śamanam, pacifying lack of wisdom and dullness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvavidyāpravarttakam",
+     "gloss": "all-knowledge-promoting",
+     "grounds": "compound sarva-vidyā-pravarttakam, promoting all knowledge",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What intellectual transformation from dullness to knowledge is effected by the subject?",
+   "premises": [
+    "The subject pacifies ignorance and dullness.",
+    "The subject promotes all knowledge."
+   ],
+   "inference": "The subject removes mental dullness and initiates the acquisition of all knowledge.",
+   "uncertainties": [],
+   "plain_english": "It pacifies ignorance and dullness and promotes all knowledge."
+  },
+  {
+   "verse": 4293,
+   "rows": [
+    {
+     "surface": "vandhyānāṃ",
+     "gloss": "barren-women",
+     "grounds": "barren women",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "sutadañ",
+     "gloss": "son-giving",
+     "grounds": "compound suta-dam, giving a son",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāśu",
+     "gloss": "and-quickly",
+     "grounds": "ca + āśu, and quickly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśreṣṭhaphalapradam",
+     "gloss": "all-best-fruit-giving",
+     "grounds": "compound sarva-śreṣṭha-phala-pradam, giving all the best fruits",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What immediate boons for progeny and supreme rewards are granted by the subject?",
+   "premises": [
+    "The subject quickly grants sons to barren women.",
+    "The subject gives all the best fruits."
+   ],
+   "inference": "The subject provides progeny and the highest rewards swiftly.",
+   "uncertainties": [],
+   "plain_english": "It quickly grants sons to barren women and gives all the best fruits."
+  },
+  {
+   "verse": 4294,
+   "rows": [
+    {
+     "surface": "māṅgalyam",
+     "gloss": "auspicious",
+     "grounds": "bringing auspiciousness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyam",
+     "gloss": "meritorious",
+     "grounds": "bringing merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āyuṣyaṃ",
+     "gloss": "life-promoting",
+     "grounds": "promoting long life",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śravaṇāt",
+     "gloss": "from-hearing",
+     "grounds": "from hearing",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "paṭhanāj",
+     "gloss": "from-reciting",
+     "grounds": "from reciting/reading, with sandhi",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "japāt",
+     "gloss": "from-repetition",
+     "grounds": "from japa/repetition",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What auspicious, meritorious, and life-enhancing results arise from hearing, reciting, and repeating the subject?",
+   "premises": [
+    "The subject is auspicious, meritorious, and life-promoting.",
+    "These results arise from hearing, reciting, and repetition."
+   ],
+   "inference": "Hearing, reciting, and repeating the subject yield auspiciousness, merit, and long life.",
+   "uncertainties": [],
+   "plain_english": "It is auspicious, meritorious, and life-promoting through hearing, recitation, and repetition."
+  },
+  {
+   "verse": 4295,
+   "rows": [
+    {
+     "surface": "purāṇa",
+     "gloss": "purana",
+     "grounds": "Purana texts",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "scriptural treatises",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtayaḥ",
+     "gloss": "smriti-texts",
+     "grounds": "Smriti texts",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "paṭhitāḥ",
+     "gloss": "recited",
+     "grounds": "recited, read",
+     "morph": "m.nom.pl.past-passive-participle"
+    },
+    {
+     "surface": "pāṭhitās",
+     "gloss": "caused-to-recite",
+     "grounds": "caused to be recited/taught",
+     "morph": "m.nom.pl.past-causative-passive-participle"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise, also",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What traditional textual practices of reciting and teaching are compared to engaging with this subject?",
+   "premises": [
+    "Puranas, scriptures, and Smritis are recited.",
+    "They are likewise caused to be recited."
+   ],
+   "inference": "Engagement with this subject is comparable to reciting and teaching traditional sacred texts.",
+   "uncertainties": [],
+   "plain_english": "Puranas, scriptures, and Smritis have been recited and likewise taught to others."
+  },
+  {
+   "verse": 4296,
+   "rows": [
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "constantly, always",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "accomplishes, succeeds",
+     "morph": "3.sg.present.active √sidh"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "all",
+     "grounds": "for all people",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "acirāt",
+     "gloss": "quickly",
+     "grounds": "without delay, soon",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kimuto'",
+     "gloss": "how-much-more",
+     "grounds": "kim uta, how much more, with sandhi marking",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akhilam",
+     "gloss": "entirely",
+     "grounds": "entirely, completely",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What certainty and speed of complete success are promised to all practitioners?",
+   "premises": [
+    "Success always comes quickly for all.",
+    "How much more so is complete success assured."
+   ],
+   "inference": "All practitioners attain success swiftly, and complete fulfillment is even more certain.",
+   "uncertainties": [],
+   "plain_english": "It always succeeds quickly for everyone; how much more so does it succeed entirely."
+  },
+  {
+   "verse": 4297,
+   "rows": [
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "this teaching/text",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address to Bhadra",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "by you",
+     "morph": "2.sg.inst"
+    },
+    {
+     "surface": "gopyam",
+     "gloss": "to-be-kept-secret",
+     "grounds": "to be guarded, kept secret",
+     "morph": "n.nom.sg.future-passive-participle"
+    },
+    {
+     "surface": "pāṭhyaṃ",
+     "gloss": "to-be-recited",
+     "grounds": "to be recited/read",
+     "morph": "n.nom.sg.future-passive-participle"
+    },
+    {
+     "surface": "svārtthaikasiddhaye",
+     "gloss": "own-purpose-sole-attainment-for",
+     "grounds": "compound sva-artha-eka-siddhaye, for attainment of one's own sole purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What injunctions of secrecy and recitation are given for attaining one's own purpose?",
+   "premises": [
+    "This teaching must be kept secret by you.",
+    "This teaching must be recited for the attainment of one's own purpose."
+   ],
+   "inference": "The teaching is to be guarded and recited to achieve one's intended goal.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, this must be kept secret by you and recited for the attainment of your own purpose."
+  },
+  {
+   "verse": 4298,
+   "rows": [
+    {
+     "surface": "bhaktiśraddhāvihīnāya",
+     "gloss": "devotion-faith-devoid-to",
+     "grounds": "compound bhakti-śraddhā-vihīnāya, to one devoid of devotion and faith",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "viṣṇusāmānya-darśśine",
+     "gloss": "vishnu-ordinary-seer-to",
+     "grounds": "compound viṣṇu-sāmānya-darśine, to one who sees Vishnu as ordinary",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "To which kinds of unqualified recipients must this teaching not be disclosed?",
+   "premises": [
+    "The teaching must not be given to one devoid of devotion and faith.",
+    "The teaching must not be given to one who regards Vishnu as ordinary."
+   ],
+   "inference": "Disclosure is prohibited to those lacking devotion and proper regard for Vishnu.",
+   "uncertainties": [],
+   "plain_english": "It must not be given to one devoid of devotion and faith, or to one who sees Vishnu as ordinary."
+  },
+  {
+   "verse": 4299,
+   "rows": [
+    {
+     "surface": "matprasādād",
+     "gloss": "my-grace-from",
+     "grounds": "from my grace",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ṛte",
+     "gloss": "without",
+     "grounds": "without, except for",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "this teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "grahīṣyanty",
+     "gloss": "will-grasp",
+     "grounds": "will take, will receive",
+     "morph": "3.pl.future.active √grah"
+    },
+    {
+     "surface": "alpamedhasaḥ",
+     "gloss": "small-intellect",
+     "grounds": "compound alpa-medhasaḥ, those of little intelligence",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are the dull-minded unable to receive this teaching without divine grace?",
+   "premises": [
+    "Without my grace, the dull-minded cannot receive this teaching.",
+    "Divine grace is required for grasping this teaching."
+   ],
+   "inference": "Reception of the teaching depends on grace, which the dull-minded lack without it.",
+   "uncertainties": [],
+   "plain_english": "Without my grace, those of little intelligence will not grasp this."
+  }
+ ]
+}

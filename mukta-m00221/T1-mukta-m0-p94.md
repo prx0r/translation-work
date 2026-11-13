@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p94-v2326
-[mokṣa-lakṣmīm](mokṣalakṣmīm) [abhiprepsuḥ](abhiprepsur) [abhavam](abhavaṃ) [sarvathā](sarvathā) [nanu](nanu)
+[liberation-prosperity](mokṣalakṣmīm) [desiring-to-obtain](abhiprepsuḥ) [non-becoming](abhavaṃ) [in-every-way](sarvathā) [indeed](nanu)
 
 ## mukta-m0-p94-v2327
-[tat](tat) [pṛcchāmi](pṛcchāmi) [bhavantam](bhavantaṃ) [yat](yad) [vaktuṃ](vaktuṃ) [tan](tan) [me](me) [samarhasi](samarhasi)
+[therefore](tat) [I-ask](pṛcchāmi) [you](bhavantaṃ) [what](yat) [to-be-told](vaktuṃ) [that](tat) [to-me](me) [you-should-deign](samarhasi)
 
 ## mukta-m0-p94-v2328
-[na](nā) [avaktavyam](vaktvyaṃ) [mayi](mayi) [bhavet](bhavec) [śiṣye](chiṣye) [kāruṇikasya](kāruṇikasya) [te](te)
+[not-to-be-spoken](nā'vaktvyaṃ) [in-me](mayi) [should-be](bhavet) [disciple](śiṣye) [of-compassionate](kāruṇikasya) [of-you](te)
 
 ## mukta-m0-p94-v2329
-[na](no) [upāsīt](pāsīttaṃ) [tam](taṃ) [parā-śaktim](parāśaktiṃ) [sarva-loka-maheśvarīm](sarvalokamaheśvarīm)
+[not](na) [he-worshipped](upāsīt) [that](taṃ) [supreme-power](parāśaktiṃ) [all-worlds-great-sovereign](sarvaloka+maheśvarīm)
 
 ## mukta-m0-p94-v2330
-[kutaḥ](kuto) [va](va) [vedana-rate](vedanirate) [na](na) [hi](hi) [syāt](syāttasya) [darśanam](darśanam)
+[whence](kutaḥ) [or](vā) [in-Veda-delighting](veda+nirate) [not](na) [indeed](hi) [would-be](syāt) [of-him](tasya) [vision](darśanam)
 
 ## mukta-m0-p94-v2331
-[iti](ityā) [āpṛṣṭaḥ](pṛṣṭo) [jāmadagnyam](jāmadagnyaṃ) [prāha](prāha) [datta-guruḥ](dattagurur) [muniḥ](muniḥ)
+[thus](iti) [asked](āpṛṣṭaḥ) [to-Jāmadagnya](jāmadagnyaṃ) [spoke](prāha) [Datta-guru](datta+guruḥ) [sage](muniḥ)
 
 ## mukta-m0-p94-v2332
-[na](na) [hi](hi) [atra](atra) [kevalam](kevalaṃ) [śāstram](śāstraṃ) [prayojakam](prayojakamupeyate)
+[not](na) [indeed](hi) [here](atra) [only](kevalaṃ) [scripture](śāstraṃ) [as-cause](prayojakam) [is-regarded](upeyate)
 
 ## mukta-m0-p94-v2333
-[vāsanānām](vāsanānāṃ) [śatam](śataṃ) [citte](citte) [sañcitam](sañcitaṃ) [prāṇinām](prāṇināṃ) [pṛthak](pṛthak)
+[of-impressions](vāsanānāṃ) [hundred](śataṃ) [in-mind](citte) [accumulated](sañcitaṃ) [of-beings](prāṇināṃ) [separately](pṛthak)
 
 ## mukta-m0-p94-v2334
-[yāvat](yāvadyatsaṅgamāpnoti) [yat](yat) [saṅgam](saṅgam) [āpnoti](āpnoti) [tāvat](tāvat) [tat](tat) [syāt](syānna) [ca](cā) [anyathā](nyathā)
+[as-long-as](yāvat) [whatever](yat) [association](saṅgam) [it-obtains](āpnoti) [so-long](tāvat) [that](tat) [would-be](syāt) [not](na) [and](ca) [otherwise](anyathā)
 
 ## mukta-m0-p94-v2335
-[sañjāta-tripura-bhaktiḥ](sañjātatripurābhaktiḥ) [patnyā](patnyā) [dīkṣām](dīkṣāṃ) [samādade](samādade)
+[arisen-Tripurā-devotion](sañjāta+tripurā+bhaktiḥ) [with-wife](patnyā) [initiation](dīkṣāṃ) [he-received](samādade)
 
 ## mukta-m0-p94-v2336
-[na](na) [tāvat](tāvanmokṣasaudhasya) [mokṣa-saudhasya](mokṣasaudhasya) [sopāna-ārohaṇa-kṣamaḥ](sopānārohaṇakṣamaḥ)
+[not](na) [yet](tāvat) [of-liberation-palace](mokṣa+saudhasya) [staircase-ascending](sopāna+ārohaṇa) [capable](kṣamaḥ)
 
 ## mukta-m0-p94-v2337
-[na](na) [yogyatā](yogyatā) [tathā](tathātra) [atra](atra) [api](pi) [vinā](vinā) [dīkṣām](dīkṣāṃ) [bhṛgu-udbaha](bhṛgūdbaha)
+[not](na) [fitness](yogyatā) [thus](tathā) [here](atra) [also](api) [without](vinā) [initiation](dīkṣāṃ) [O-descendant-of-Bhṛgu](bhṛgūdbaha)
 
 ## mukta-m0-p94-v2338
-[sva-buddhyā](svabuddhyā) [tu](tu) [kṛtam](kṛtaṃ) [karma](karma) [vidhinā](vidhinā) [ca](ca) [samanvitam](samanvitam)
+[by-own-intellect](sva+buddhyā) [indeed](tu) [done](kṛtaṃ) [action](karma) [with-rule](vidhinā) [and](ca) [endowed](samanvitam)
 
 ## mukta-m0-p94-v2339
-[sevitāram](sevitāraṃ) [yathā](yathā) [hanti](hanti) [ca](cā) [apakvantu](pakvantu) [rasāyanam](rasāyanam)
+[the-practitioner](sevitāraṃ) [as](yathā) [kills](hanti) [and](ca) [unripe](apakvam) [indeed](tu) [elixir](rasāyanam)
 
 ## mukta-m0-p94-v2340
-[yaḥ](yaḥ) [samāsādayet](samāsādayet) [sa](sa) [hi](hi) [devatā-droham](devatādroham) [āpnuyāt](āpnuyāt)
+[who](yaḥ) [would-undertake](samāsādayet) [he](saḥ) [indeed](hi) [deity-offense](devatā+droham) [would-incur](āpnuyāt)
 
 ## mukta-m0-p94-v2341
-[ajñaḥ](ajño) [droha-kṛtam](drohakṛtaṃ) [doṣam](doṣaṃ) [nāśayet](nāśayenmānavaḥ) [mānavaḥ](mānavaḥ) [katham](katham)
+[ignorant](ajñaḥ) [offense-committed](droha+kṛtaṃ) [fault](doṣaṃ) [would-destroy](nāśayet) [human](mānavaḥ) [how](katham)
 
 ## mukta-m0-p94-v2342
-[yojayanti](yojayantyeva) [eva](eva) [bhūpālāḥ](bhūpālā) [mahā-daṇḍaiḥ](mahādaṇḍaiḥ) [pṛthagvidhaiḥ](pṛthagvidhaiḥ)
+[impose](yojayanti) [indeed](eva) [kings](bhūpālāḥ) [with-great-punishments](mahā+daṇḍaiḥ) [of-various-kinds](pṛthag+vidhaiḥ)
 
 ## mukta-m0-p94-v2343
-[veda-vādaiḥ](vedavādaireva) [eva](eva) [na](na) [hi](hi) [bhavet](bhavedatrādhikāritā) [atra](atra) [adhikāritā](adhikāritā)
+[by-Veda-discourses](veda+vādaiḥ) [alone](eva) [not](na) [indeed](hi) [would-be](bhavet) [here](atra) [eligibility](adhikāritā)
 
 ## mukta-m0-p94-v2344
-[puruṣa-arthaḥ](puruṣārtho) [veda-vidhau](vedavidhau) [sarvathā](sarvathā) [na](na) [hi](hi) [vidyate](vidyate)
+[human-goal](puruṣārthaḥ) [in-Vedic-injunction](veda+vidhau) [in-every-way](sarvathā) [not](na) [indeed](hi) [is-found](vidyate)
 
 ## mukta-m0-p94-v2345
-[aṇu-mātrā-ātma-bhūtānām](aṇumātrātmabhūtānāṃ) [puruṣa-artha-abhimāninām](puruṣārthābhimāninām)
+[of-those-atom-sized-in-self](aṇumātra+ātma+bhūtānāṃ) [of-those-claiming-human-goal](puruṣārtha+abhimāninām)
 
 ## mukta-m0-p94-v2346
-[vaidikāḥ](vaidikā) [hi](hyacalammanyāḥ) [acalam-manyāḥ](acalammanyāḥ) [phalam](phalaṃ) [dhūma-samudbhavam](dhūmasamudbhavam)
+[Vedic-people](vaidikāḥ) [indeed](hi) [considering-immovable](acalam+manyāḥ) [fruit](phalaṃ) [smoke-born](dhūma+samudbhavam)
 
 ## mukta-m0-p94-v2347
-[miteṣu](miteṣu) [duḥkha-bhūteṣu](duḥkhabhūteṣu) [phaleṣu](phaleṣu) [sukha-buddhayaḥ](sukhabuddhayaḥ)
+[in-limited](miteṣu) [in-pain-consisting](duḥkha+bhūteṣu) [in-fruits](phaleṣu) [those-with-happiness-notion](sukha+buddhayaḥ)
 
 ## mukta-m0-p94-v2348
-[pravartitaḥ](pravartito) [guṇa-mayaḥ](guṇamayo) [vedaḥ](vedo) [dhātrā](dhātrā) [jagat-kṛtiḥ](jagatkṛtiḥ)
+[set-forth](pravartitaḥ) [consisting-of-guṇas](guṇa+mayaḥ) [Veda](vedaḥ) [by-Creator](dhātrā) [world-creating](jagat+kṛtiḥ)
 
 ## mukta-m0-p94-v2349
-[martu-kāmasya](martukāmasya) [viṣa-vat](viṣavat) [kāminām](kāmināṃ) [kāmanā-mayaḥ](kāmanāmayaḥ)
+[for-one-desiring-to-die](martu+kāmasya) [like-poison](viṣavat) [for-the-desirous](kāmināṃ) [desire-disease](kāmanā+āmayaḥ)
 
 ## mukta-m0-p94-v2350
-[dhātrā](dhātraiva) [eva](eva) [gopanāt](gopanāttasya) [tasya](tasya) [gupta-bhāveṣu](guptabhāveṣu) [mohitāḥ](mohitāḥ)
+[by-Creator](dhātrā) [indeed](eva) [by-concealment](gopanāt) [of-that](tasya) [in-hidden-states](gupta+bhāveṣu) [deluded](mohitāḥ)

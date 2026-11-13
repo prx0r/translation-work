@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[vimūrcchaḥ](vimūrcchaḥ) [tāvat](tāvat) [abhyetya](abhyetya) [vibhāṇḍaḥ](vibhāṇḍaḥ) [abhihanat](abhihanat) [padā](padā)
+[fainted](vimūrcchas) [then](tāvat) [having-approached](abhyetya) [Vibhāṇḍa](vibhāṇḍo') [struck](abhihanat) [with-foot](padā)
 
 ## mukta-m0-p83-v2052
-[apāharat](apāharat) [atikrodhāt](atikrodhāt) [kṛtta-mūrddhām](kṛttamūrddhām) [amāra](amāra) [saḥ](saḥ)
+[seized-away](apāharat) [with-great-anger](atikrodhāt) [cut-off-head](kṛtta+mūrddhām) [killed](amāra) [he](saḥ)
 
 ## mukta-m0-p83-v2053
-[mohinī](mohinī) [garuḍa-āruḍhā](garuḍāruḍhā) [gṛghra-sthaḥ](gṛghrastho) [vikaṭa-īkṣaṇaḥ](vikaṭekṣaṇaḥ)
+[Mohinī](mohinī) [mounted-on-Garuḍa](garuḍa+āruḍhā) [seated-on-vulture](gṛghra+stho) [fierce-eyed](vikaṭa+īkṣaṇaḥ)
 
 ## mukta-m0-p83-v2054
-[sa-pakṣayoḥ](sapakṣayoḥ) [parvatayoḥ](parvatayor) [iva](iva) [atyanta-vicitritam](atyantavicitritam)
+[with-two-wings](sa+pakṣayoḥ) [of-two-mountains](parvatayoḥ) [as-if](iva) [extremely-variegated](atyanta+vicitritam)
 
 ## mukta-m0-p83-v2055
-[nakhaiḥ](nakhaiḥ) [tuṇḍaiḥ](tuṇḍair) [dārita-aṅgaḥ](dāritāṇgo) [mamāra](mamāra) [patitaḥ](patito) [avane](avanau)
+[with-nails](nakhaiḥ) [and-with-beaks](tuṇḍaiḥ) [torn-limbed](dārita+aṇgo) [died](mamāra) [fallen](patitaḥ) [on-ground](avanau)
 
 ## mukta-m0-p83-v2056
-[mohinī-cakra-samcchinna-galaḥ](mohinīcakrasamcchinnagalo) [mṛtyum](mṛtyum) [upāgataḥ](upāgataḥ)
+[by-Mohinī-disc-cut-neck](mohinī+cakra+samcchinna+galo) [death](mṛtyum) [attained](upāgataḥ)
 
 ## mukta-m0-p83-v2057
-[sva-vāhena](svavāhenā) [ati-bhīmena](atibhīmena) [yuyodha](yuyodhā) [atyanta-sāhasī](atyantasāhasī)
+[with-own-mount](sva+vāhena) [very-terrible](ati+bhīmena) [fought](yuyodha) [extremely-daring](atyanta+sāhasī)
 
 ## mukta-m0-p83-v2058
-[koṭi-saṅkhyā-gaṇa-yutaiḥ](koṭisaṅkhyāgaṇayutairaṣṭabhiḥ) [aṣṭabhiḥ](aṣṭabhiḥ) [sevitaḥ](sevito) [aniśam](aniśam)
+[by-crore-numbered-troops-endowed](koṭi+saṅkhyā+gaṇa+yutaiḥ) [with-eight](aṣṭabhiḥ) [attended](sevitaḥ) [constantly](aniśam)
 
 ## mukta-m0-p83-v2059
-[kāla-megha-nibhāḥ](kālameghanibhāḥ) [sarpa-bhūṣaṇāḥ](sarpabhūṣaṇāḥ) [kṛttivāsasaḥ](kṛttivāsasaḥ)
+[resembling-dark-clouds](kāla+megha+nibhāḥ) [snake-ornamented](sarpa+bhūṣaṇāḥ) [wearing-elephant-hide](kṛtti+vāsasaḥ)
 
 ## mukta-m0-p83-v2060
-[niviśya](niviśya) [te](te) [nimeṣeṇa](nimeṣeṇa) [niḥśeṣān](niḥśeṣāñ) [cakruḥ](cakrurojasā) [ojasā](ojasā)
+[having-entered](niviśya) [they](te) [in-an-instant](nimeṣeṇa) [without-remainder](niḥśeṣān) [made](cakruḥ) [by-power](ojasā)
 
 ## mukta-m0-p83-v2061
-[kecit](kecinnakhaiḥ) [nakhaiḥ](nakhaiḥ) [pāṭita-aṅgāḥ](pāṭitāṇgāḥ) [kecit](kecinmuṣṭibhirāhatāḥ) [muṣṭibhiḥ](muṣṭibhiḥ) [āhatāḥ](āhatāḥ)
+[some](kecit) [by-nails](nakhaiḥ) [torn-limbed](pāṭita+aṇgāḥ) [some](kecit) [by-fists](muṣṭibhiḥ) [struck](āhatāḥ)
 
 ## mukta-m0-p83-v2062
-[evaṃ](evaṃ) [dṛṣṭvā](dṛṣṭvā) [pranaṣṭām](pranaṣṭāṃ) [svām](svām) [indra-śatru-ścamūm](indraśatruścamūṃ) [ruṣā](ruṣā)
+[thus](evaṃ) [having-seen](dṛṣṭvā) [destroyed](pranaṣṭāṃ) [own](svām) [Indraśatru's](indraśatruḥ) [army](camūṃ) [in-anger](ruṣā)
 
 ## mukta-m0-p83-v2063
-[evaṃ](evaṃ) [gaṇān](gaṇān) [ardyamānān](ardyamānān) [vīkṣya](vīkṣya) [daityena](daityena) [saṃyuge](saṃyuge)
+[thus](evaṃ) [troops](gaṇān) [being-tormented](ardyamānān) [having-seen](vīkṣya) [by-demon](daityena) [in-battle](saṃyuge)
 
 ## mukta-m0-p83-v2064
-[indra-śatrum](indraśatruṃ) [parvata-ābham](parvatābhaṃ) [yuyudhuḥ](yuyudhuḥ) [sarpa-vāhanam](sarpavāhanam)
+[Indraśatru](indraśatruṃ) [mountain-like](parvata+ābhaṃ) [fought](yuyudhuḥ) [serpent-mounted](sarpa+vāhanam)
 
 ## mukta-m0-p83-v2065
-[vajra-saṃhanam](vajrasaṃhanaṃ) [tasya](tasya) [śūla-daṇḍa-prapātanaiḥ](śūladaṇḍaprapātanaiḥ)
+[thunderbolt-hard](vajra+saṃhanaṃ) [of-him](tasya) [by-trident-staff-fallings](śūla+daṇḍa+prapātanaiḥ)
 
 ## mukta-m0-p83-v2066
-[tam](taṃ) [dṛṣṭvā](dṛṣṭvā) [virujaṃ](virujaṃ) [daityaṃ](daityaṃ) [bhairavāṇām](bhairavāṇāṃ) [bhayaṅkaram](bhayaṅkaram)
+[him](taṃ) [having-seen](dṛṣṭvā) [unwounded](virujaṃ) [demon](daityaṃ) [of-Bhairavas](bhairavāṇāṃ) [terrible](bhayaṅkaram)
 
 ## mukta-m0-p83-v2067
-[yuddhvā](yuddhvā) [ciram](ciram) [utpatantam](utpatantaṃ) [gadayā](gadayā) [hantum](hantum) [ambaram](ambaram)
+[having-fought](yuddhvā) [long](ciram) [leaping-up](utpatantaṃ) [with-mace](gadayā) [to-strike](hantum) [in-sky](ambaram)
 
 ## mukta-m0-p83-v2068
-[yuddhvā](yuddhvā) [surā-rātiḥ](surā'rātirapi) [api](api) [kālakarṣṇikā](kālakarṣṇikā) [āhvyām](āhvyām)
+[having-fought](yuddhvā) [enemy-of-gods](sura+arātiḥ) [also](api) [by-Kālakarṣṇikā-named](kālakarṣṇikā+āhvyām)
 
 ## mukta-m0-p83-v2069
-[tat-śakti-gaṇa-niḥśeṣī-kṛta-daitya-mahā-gaṇaḥ](tacchaktigaṇaniḥśeṣīkṛtadaityamahāgaṇaḥ)
+[by-that-śakti-troop-completely-destroyed-demon-great-host](tat+śakti+gaṇa+niḥśeṣī+kṛta+daitya+mahā+gaṇaḥ)
 
 ## mukta-m0-p83-v2070
-[svapneśyā](svapneśyā) [yuyudhe](yuyudhe) [daityaḥ](daityo) [mahā-kukṣiḥ](mahākukṣir) [vṛka-āśrayaḥ](vṛkāśrayaḥ)
+[with-Svapneśyā](svapneśyā) [fought](yuyudhe) [demon](daityo) [great-bellied](mahā+kukṣiḥ) [wolf-mounted](vṛka+āśrayaḥ)
 
 ## mukta-m0-p83-v2071
-[ciram](ciraṃ) [yodhayataḥ](yodhayatastasya) [tasya](tasya) [mahā-kukṣeḥ](mahākukṣer) [balīyasaḥ](balīyasaḥ)
+[long](ciraṃ) [while-fighting](yodhayataḥ) [of-him](tasya) [of-great-bellied](mahā+kukṣeḥ) [very-powerful](balīyasaḥ)
 
 ## mukta-m0-p83-v2072
-[mada-uddhataḥ](madoddhato) [api](api) [baṭuka-bhairave](baṭukabhairave) [susaṅgataḥ](susaṅgataḥ)
+[even-maddened-with-pride](mada+uddhataḥ) [api](api) [with-Baṭuka-Bhairava](baṭuka+bhairave) [well-engaged](su+saṅgataḥ)
 
 ## mukta-m0-p83-v2073
-[mahā-kapāla-daṇḍa-āḍhyaiḥ](mahākapāladaṇdāḍhyaiḥ) [sarpa-bhūṣaṇa-saṃyutaiḥ](sarpabhūṣaṇasaṃyutaiḥ)
+[with-great-skull-staff-equipped](mahā+kapāla+daṇḍa+āḍhyaiḥ) [with-serpent-ornaments-endowed](sarpa+bhūṣaṇa+saṃyutaiḥ)
 
 ## mukta-m0-p83-v2074
-[tamastoma-nibhaiḥ](tamastomanibhaiś) [candra-cūḍaiḥ](candracūḍairyuktena) [yuktena](yuktena) [sarvataḥ](sarvataḥ)
+[resembling-mass-of-darkness](tamas+toma+nibhaiḥ) [with-moon-crested](candra+cūḍaiḥ) [endowed](yuktena) [on-all-sides](sarvataḥ)
 
 ## mukta-m0-p83-v2075
-[baṭukānām](baṭukānāṃ) [gaṇāḥ](gaṇāḥ) [kruddhāḥ](kruddhā) [niviśya](niviśyā) [asura-vāhinīm](asuravāhinīm)
+[of-Baṭukas](baṭukānāṃ) [troops](gaṇāḥ) [enraged](kruddhā) [having-entered](niviśya) [demon-army](asura+vāhinīm)
