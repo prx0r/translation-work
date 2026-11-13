@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p74-v1826
-[one-should-worship](pūjayet)
+[one-should-worship](pūjayet) [thus](iti) [with-devotion](bhaktyā) [the-deity](devam)
 
 ## mukta-m0-p74-v1827
-[with-ghee-anointed](ghṛtāktaiḥ) [with-black-flowers](kṛṣṇa+puṣpaiḥ) [one-tenth-offering](daśāṃśa+homaḥ)
+[ghee+anointed](ghṛta+aktaiḥ) [black+flowers](kṛṣṇa+puṣpaiḥ) [tenth-part+oblation](daśāṃśa+homaḥ) [should-be-performed](kāryaḥ)
 
 ## mukta-m0-p74-v1828
-[svāhā](svāhā)
+[svāhā](svāhā) [thus](iti) [oblation](āhutiḥ) [offered](dattā)
 
 ## mukta-m0-p74-v1829
-[thus](evaṃ) [by-mere-meditation](dhyāna+mātreṇa) [bitten](daṣṭaḥ) [poisonless](nirviṣyaḥ) [having-risen](samutthāya) [long](ciraṃ) [may-live](jīvet)
+[thus](evam) [meditation+mere](dhyāna+mātreṇa) [bitten](daṣṭaḥ) [poisonless](nirviṣyaḥ) [having-risen](samutthāya) [long](ciraṃ) [may-live](jīvet)
 
 ## mukta-m0-p74-v1830
-[thus](iti) [garuḍa-hymn](garuḍa+stotram)
+[thus](iti) [Garuḍa+praise](garuḍa+stotram) [ends](samāptam) [here](atra)
 
 ## mukta-m0-p74-v1831
-[something](kiñcit) [other](anyat) [but](tu) [of-gods](devānāṃ) [practice](sādhanam) [if](yadi) [may-be-told](kathyatām)
+[something+other](kiñcit+anyat) [but](tu) [of-gods](devānāṃ) [practice](sādhanaṃ) [if](yadi) [may-be-told](kathyatām)
 
 ## mukta-m0-p74-v1832
-[that](tat) [practice-method](sādhana+vidhim) [I-shall-tell](vakṣye) [of-men](nṛṇāṃ) [success-giving](siddhi+karaṃ) [quickly](drutam)
+[that+practice+method](tat+sādhana+vidhiṃ) [I-shall-tell](vakṣye) [of-men](nṛṇāṃ) [accomplishment+causing](siddhi+karaṃ) [quickly](drutam)
 
 ## mukta-m0-p74-v1833
-[by-japa](jayena) [practice](sādhanam) [having-done](kṛtvā) [conquered](jitam) [all](sarvam) [moving-and-unmoving](cara+acaram)
+[with-conquest](jayena) [practice](sādhanaṃ) [having-done](kṛtvā) [conquered](jitaṃ) [all](sarvaṃ) [moving+non-moving](cara+acaram)
 
 ## mukta-m0-p74-v1834
-[one-pointed-mind](ekāgra+cittam) [having-fixed](ādhāya) [one-should-practice](sādhayet) [practice](sādhanam) [great](mahat)
+[one-pointed+mind](ekāgra+cittam) [having-fixed](ādhāya) [one-should-practice](sādhayet) [practice](sādhanaṃ) [great](mahat)
 
 ## mukta-m0-p74-v1835
-[by-hundred-thousand-japa](lakṣa+japāt) [pleased](prasannaḥ) [may-become](syāt) [truth](satyam) [to-you](te) [told](kathitam) [by-me](mayā)
+[hundred-thousand+recitation](lakṣa+japāt) [pleased](prasannaḥ) [he-becomes](syāt) [truth](satyaṃ) [to-you](te) [told](kathitaṃ) [by-me](mayā)
 
 ## mukta-m0-p74-v1836
-[day-and-night](divā+rātrau) [japa](japam) [one-should-do](kuryāt) [until](yāvat) [vision](sandarśanam) [may-be](bhavet)
+[day+night](divā+rātrau) [recitation](japaṃ) [one-should-do](kuryād) [until](yāvat) [vision](sandarśanaṃ) [may-be](bhavet)
 
 ## mukta-m0-p74-v1837
-[very-pleased](suprasannaḥ) [then](tataḥ) [having-become](bhūtvā) [goes](prayāti) [before-practitioner](sādhaka+agrataḥ)
+[very-pleased](suprasannaḥ) [then](tataḥ) [having-become](bhūtvā) [he-goes](prayāti) [practitioner+before](sādhaka+agrataḥ)
 
 ## mukta-m0-p74-v1838
-[boon](varam) [having-obtained](labdhvā) [best-of-practitioners](sādhaka+indraḥ) [may-enjoy](viharet) [own](ātmanaḥ) [happiness](sukham)
+[boon](varaṃ) [having-obtained](labdhvā) [practitioner+chief](sādhaka+indraḥ) [may-enjoy](viharet) [of-himself](ātmanaḥ) [happiness](sukham)
 
 ## mukta-m0-p74-v1839
-[thus](iti) [in-garuḍa-tantra](garuḍa+tantre) [in-devī-īśvara-dialogue](devī+īśvara+saṃvāde) [hanūmat-practice](hanūmat+sādhanam)
+[thus](iti) [in-Garuḍa-tantra](garuḍa+tantre) [in-Devī-Īśvara-dialogue](devī+īśvara+saṃvāde) [Hanumat+practice](hanūmat+sādhanam)
 
 ## mukta-m0-p74-v1840
-[root-mantra](mūla+mantram) [then](tataḥ) [having-muttered](japtvā) [one-should-sprinkle](siñcet) [by-sun-number](āditya+saṃkhyayā)
+[root+mantra](mūla+mantraṃ) [then](tataḥ) [having-recited](japtvā) [one-should-sprinkle](siñcet) [sun+number](āditya+saṃkhyayā)
 
 ## mukta-m0-p74-v1841
-[hand-and-limb-assignments](kara+aṅga+nyāsau) [one-should-do](kuryāt)
+[hand+limb+assignments](kara+aṅga+nyāsau) [one-should-perform](kuryāt) [thus](iti) [properly](samyak)
 
 ## mukta-m0-p74-v1842
-[thus](iti) [having-meditated](dhyātvā) [six-thousand](ṣaṭ+sahasram) [one-should-mutter](japet)
+[thus](iti) [having-meditated](dhyātvā) [six+thousand](ṣaṭ+sahasraṃ) [one-should-recite](japet)
 
 ## mukta-m0-p74-v1843
-[ten-syllabled](daśa+arṇaḥ) [this](ayam) [mantra](manuḥ) [declared](proktaḥ) [of-men](narāṇām) [wish-fulfilling-tree](sura+pādapaḥ)
+[ten+syllabled](daśa+arṇaḥ) [this](ayam) [mantra](manuḥ) [declared](proktaḥ) [of-men](narāṇāṃ) [wish-fulfilling+tree](sura+pādapaḥ)
 
 ## mukta-m0-p74-v1844
-[at-that-moment](tat+kṣaṇāt) [indeed](eva) [obtains](cāpnoti) [truth](satyam) [truth](satyam) [certainly-ascertained](suniścitam)
+[that+moment+from](tat+kṣaṇāt+eva) [and](ca) [one-obtains](āpnoti) [truth](satyaṃ) [truth](satyaṃ) [well-ascertained](suniścitam)
 
 ## mukta-m0-p74-v1845
-[and-that](saḥ) [indeed](ca) [with-visarga-and-bindu](visarga+bindu+yuktaḥ) [of-two-kha-letters-form](kha+kāra+dvaya+svarūpaḥ)
+[that](saḥ) [and](ca) [visarga+bindu+endowed](visarga+bindu+yuktaḥ) [kha-letter+pair+form](kha+kāra+dvaya+svarūpaḥ)
 
 ## mukta-m0-p74-v1846
-[to-feet](pādayoḥ) [to-bindu-śakti](bindu+śaktaye) [obeisance](namaḥ)
+[at-the-feet](pādayoḥ) [bindu-śakti+to](bindu+śaktaye) [obeisance](namaḥ) [thus](iti)
 
 ## mukta-m0-p74-v1847
-[in-meditation-and-worship](dhyāna+arcane) [as-in-śāradā-taught-vaiśvānara-mantra](śāradā+ukta+vaiśvānara+mantra+vat)
+[in-meditation+worship](dhyāna+arcane) [as-taught-by-Śāradā+Vaiśvānara-mantra](śāradā+ukta+vaiśvānara+mantra+vat) [thus](iti) [proceed](kuryāt)
 
 ## mukta-m0-p74-v1848
-[all](sarva) [pains](vedanāḥ) [and](ca) [may-destroy](nāśayet)
+[all+pains](sarva+vedanāḥ) [and](ca) [may-destroy](nāśayet) [completely](samantāt)
 
 ## mukta-m0-p74-v1849
-[thus](iti) [mouse-poison-removing-mantra](mūṣika+viṣa+hara+mantraḥ)
+[thus](iti) [mouse+poison+removing+mantra](mūṣika+viṣa+hara+mantraḥ) [ends](samāptaḥ) [here](atra)
 
 ## mukta-m0-p74-v1850
-[thus](iti) [mouse-destroying-mantra](mūṣika+vināśana+mantraḥ)
+[thus](iti) [mouse+destruction+mantra](mūṣika+vināśana+mantraḥ) [ends](samāptaḥ) [here](atra)

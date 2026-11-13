@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "ūrdhva+adhaḥ",
-"quick_gloss": "above+below"
+"quick_gloss": "above-below"
 },
 {
 "surface": "pātu",
@@ -19,8 +19,12 @@
 "quick_gloss": "always"
 },
 {
-"surface": "brahmā+ananto",
-"quick_gloss": "brahmā+ananta"
+"surface": "brahmā",
+"quick_gloss": "brahmā"
+},
+{
+"surface": "anantaḥ",
+"quick_gloss": "ananta"
 },
 {
 "surface": "yathā",
@@ -53,11 +57,11 @@
 },
 {
 "surface": "puṇyaṃ",
-"quick_gloss": "meritorious"
+"quick_gloss": "sacred"
 },
 {
 "surface": "trailokya+rakṣaṇaṃ",
-"quick_gloss": "three-world+protection"
+"quick_gloss": "three-world-protection"
 },
 {
 "surface": "param",
@@ -77,20 +81,28 @@
 "quick_gloss": "brahmā"
 },
 {
-"surface": "viṣṇuḥ+ca",
-"quick_gloss": "viṣṇu+and"
+"surface": "viṣṇuḥ",
+"quick_gloss": "viṣṇu"
 },
 {
-"surface": "rudraḥ+ca",
-"quick_gloss": "rudra+and"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "dhāraṇāt+paṭhanāt",
-"quick_gloss": "from-wearing+from-reciting"
+"surface": "rudraḥ",
+"quick_gloss": "rudra"
 },
 {
-"surface": "ādi+yataḥ",
-"quick_gloss": "and-so-forth+because"
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "dhāraṇāt",
+"quick_gloss": "from-wearing"
+},
+{
+"surface": "paṭhanāt+ādyataḥ",
+"quick_gloss": "from-recitation-etc"
 }
 ]
 },
@@ -102,16 +114,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "puṣpāñjali+aṣṭakaṃ",
-"quick_gloss": "flower-offering+octad"
+"surface": "puṣpa+añjali+aṣṭakaṃ",
+"quick_gloss": "flower-offering-octad"
 },
 {
 "surface": "devyai",
-"quick_gloss": "to-the-goddess"
+"quick_gloss": "to-goddess"
 },
 {
-"surface": "mūlena+eva",
-"quick_gloss": "with-root-mantra+alone"
+"surface": "mūlena",
+"quick_gloss": "with-root-mantra"
+},
+{
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
 "surface": "samarpayet",
@@ -136,7 +152,7 @@
 },
 {
 "surface": "vaset",
-"quick_gloss": "may-dwell"
+"quick_gloss": "dwells"
 },
 {
 "surface": "tasya",
@@ -152,7 +168,7 @@
 },
 {
 "surface": "na",
-"quick_gloss": "no"
+"quick_gloss": "not"
 },
 {
 "surface": "saṃśayaḥ",
@@ -181,11 +197,15 @@
 },
 {
 "surface": "svarṇa+sthāṃ",
-"quick_gloss": "in-gold+placed"
+"quick_gloss": "placed-in-gold"
 },
 {
-"surface": "dhārayet+yadi",
-"quick_gloss": "one-should-wear+if"
+"surface": "dhārayet",
+"quick_gloss": "one-should-wear"
+},
+{
+"surface": "yadi",
+"quick_gloss": "if"
 }
 ]
 },
@@ -201,12 +221,16 @@
 "quick_gloss": "garlands"
 },
 {
-"surface": "kusumāni+eva",
-"quick_gloss": "flowers+indeed"
+"surface": "kusumāni",
+"quick_gloss": "flowers"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "sukha+dāni",
-"quick_gloss": "happiness+giving"
+"quick_gloss": "happiness-giving"
 },
 {
 "surface": "bhavanti",
@@ -256,7 +280,7 @@
 },
 {
 "surface": "te",
-"quick_gloss": "those"
+"quick_gloss": "they"
 },
 {
 "surface": "narāḥ",
@@ -264,7 +288,7 @@
 },
 {
 "surface": "te",
-"quick_gloss": "those"
+"quick_gloss": "they"
 }
 ]
 },
@@ -360,11 +384,11 @@
 },
 {
 "surface": "tyajanti",
-"quick_gloss": "they-abandon"
+"quick_gloss": "abandon"
 },
 {
-"surface": "tyajanti",
-"quick_gloss": "they-abandon"
+"surface": "dur+grahāḥ",
+"quick_gloss": "evil-planets"
 }
 ]
 },
@@ -401,20 +425,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "su+vakṣoja",
-"quick_gloss": "beautiful+breast"
+"surface": "su+vakṣoja+nabhrām",
+"quick_gloss": "beautiful-breast-cloud"
 },
 {
-"surface": "nabhrām",
-"quick_gloss": "cloud-like"
+"surface": "su+vakṣoja+nabhrām",
+"quick_gloss": "beautiful-breast-cloud"
 },
 {
-"surface": "su+vakṣoja",
-"quick_gloss": "beautiful+breast"
+"surface": "su+vakṣoja+nabhrām",
+"quick_gloss": "beautiful-breast-cloud"
 },
 {
-"surface": "nabhrām",
-"quick_gloss": "cloud-like"
+"surface": "su+vakṣoja+nabhrām",
+"quick_gloss": "beautiful-breast-cloud"
 }
 ]
 },
@@ -430,20 +454,16 @@
 "quick_gloss": "bearing"
 },
 {
-"surface": "bṛhat+ratna",
-"quick_gloss": "great+jewel"
-},
-{
-"surface": "bhūṣāṃ",
-"quick_gloss": "ornament"
+"surface": "bṛhat+ratna+bhūṣāṃ",
+"quick_gloss": "great-jewel-ornament"
 },
 {
 "surface": "su+madhyāṃ",
-"quick_gloss": "beautiful+waist"
+"quick_gloss": "slender-waisted"
 },
 {
 "surface": "su+kāñcīm",
-"quick_gloss": "beautiful+girdle"
+"quick_gloss": "well-girdled"
 }
 ]
 },
@@ -456,19 +476,19 @@
 "tokens": [
 {
 "surface": "dhṛtābhiḥ",
-"quick_gloss": "by-held"
+"quick_gloss": "held"
 },
 {
 "surface": "dhṛtābhiḥ",
-"quick_gloss": "by-held"
+"quick_gloss": "held"
 },
 {
 "surface": "dhṛtābhiḥ",
-"quick_gloss": "by-held"
+"quick_gloss": "held"
 },
 {
 "surface": "dhṛtābhiḥ",
-"quick_gloss": "by-held"
+"quick_gloss": "held"
 }
 ]
 },
@@ -481,7 +501,7 @@
 "tokens": [
 {
 "surface": "tri+śaktiṃ",
-"quick_gloss": "three+powers"
+"quick_gloss": "three-powers"
 },
 {
 "surface": "bhajāmi",
@@ -489,7 +509,7 @@
 },
 {
 "surface": "tri+śaktiṃ",
-"quick_gloss": "three+powers"
+"quick_gloss": "three-powers"
 },
 {
 "surface": "bhajāmi",
@@ -505,20 +525,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pāmaraḥ+api",
-"quick_gloss": "ignorant-person+even"
+"surface": "pāmaraḥ",
+"quick_gloss": "even-ignorant"
 },
 {
-"surface": "pāmaraḥ+api",
-"quick_gloss": "ignorant-person+even"
+"surface": "api",
+"quick_gloss": "even"
 },
 {
-"surface": "pāmaraḥ+api",
-"quick_gloss": "ignorant-person+even"
+"surface": "pāmaraḥ",
+"quick_gloss": "even-ignorant"
 },
 {
-"surface": "pāmaraḥ+api",
-"quick_gloss": "ignorant-person+even"
+"surface": "api",
+"quick_gloss": "even"
 }
 ]
 },
@@ -559,16 +579,16 @@
 "quick_gloss": "may-obtain"
 },
 {
-"surface": "mānavaḥ+api",
-"quick_gloss": "human+even"
+"surface": "mānavaḥ",
+"quick_gloss": "human"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "labhet",
 "quick_gloss": "may-obtain"
-},
-{
-"surface": "mānavaḥ+api",
-"quick_gloss": "human+even"
 }
 ]
 },
@@ -580,20 +600,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jagat+vāyu",
-"quick_gloss": "world+wind"
+"surface": "jagat+vāyu+rūpā",
+"quick_gloss": "world-wind-form"
 },
 {
-"surface": "rūpā",
-"quick_gloss": "form"
+"surface": "jagat+vāyu+rūpā",
+"quick_gloss": "world-wind-form"
 },
 {
-"surface": "jagat+vāyu",
-"quick_gloss": "world+wind"
+"surface": "jagat+vāyu+rūpā",
+"quick_gloss": "world-wind-form"
 },
 {
-"surface": "rūpā",
-"quick_gloss": "form"
+"surface": "jagat+vāyu+rūpā",
+"quick_gloss": "world-wind-form"
 }
 ]
 },

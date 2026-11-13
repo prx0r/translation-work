@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[verse](kārikā) [śrī+jñāna+called](śrī(jñānā)khyātaṃ) [abandon](visarja) [knowledge+verse](jñānakārikā(m))
+[kārikā](kārikā) [śrī(jñānā)khyātaṃ](śrī-jñāna-ākhyātam) [visarja](visarja) [jñānakārikā(m)](jñāna-kārikām)
 
 ## mukta-m0-p01-v2
-[now](sāmprataṃ) [i-will-tell](kathayiṣyāmi) [of-yogins](yogināṃ) [proper+cause](yuktakāraṇam)
+[sāmprataṃ](sāmpratam) [kathayiṣyāmi](kathayiṣyāmi) [yogināṃ](yoginām) [yuktakāraṇam](yukta-kāraṇam)
 
 ## mukta-m0-p01-v3
-[five+five+freed](pañcapañcavinirmukto) [............+devoid](............varjitam)
+[pañcapañcavinirmukto](pañca-pañca-vinirmuktaḥ) [............](............) [varjitam](varjitam)
 
 ## mukta-m0-p01-v4
-[all+disease+freed](sarvavyā(dhi)vinirmuktaṃ) [and+which](yacca) [sense+perceptible](indriyagocara(m))
+[sarvavyā(dhi)vinirmuktaṃ](sarva-vyādhi-vinirmuktam) [yacca](yad+ca) [indriyagocara(m)](indriya-gocaram)
 
 ## mukta-m0-p01-v5
-[twelve+end](dvādaśāntaṃ) [digit+hundred](kalāśataṃ) [letter+syllable+devoid](varṇākṣaravivarjitam)
+[dvādaśāntaṃ](dvādaśa-antam) [kalāśataṃ](kalā-śatam) [varṇākṣaravivarjitam](varṇa-akṣara-vivarjitam)
 
 ## mukta-m0-p01-v6
-[brahmā](brahmā) [viṣṇu+likewise](viṣṇustathā) [rudra](rudra) [īśvaraḥ](īśvaraḥ) [śiva+indeed](śiva) [and](eva) [also](ca)
+[brahmā](brahmā) [viṣṇustathā](viṣṇuḥ+tathā) [rudra](rudraḥ) [īśvaraḥ](īśvaraḥ) [śiva](śivaḥ) [eva](eva) [ca](ca)
 
 ## mukta-m0-p01-v7
-[form+body](rūpakāyaḥ) [always+transcendent](sadātītaṃ) [mantra+tantra+devoid](mantratantrāvivarjitam)
+[rūpakāyaḥ](rūpa-kāyaḥ) [sadātītaṃ](sadā-atītam) [mantratantrāvivarjitam](mantra-tantra-avivarjitam)
 
 ## mukta-m0-p01-v8
-[with-śakti](sākulatvaṃ) [when](yadā) [mind](cittaṃ) [object+attached+minds](viṣayāsaktacetasām)
+[sākulatvaṃ](sākulatvam) [yadā](yadā) [cittaṃ](cittam) [viṣayāsaktacetasām](viṣaya-āsakta-cetasām)
 
 ## mukta-m0-p01-v9
-[this+duality+called](etaddvandvasamākhyātaṃ) [of-saṃsāra](saṃsārasya) [indeed](tu) [determination](nirṇayam)
+[etaddvandvasamākhyātaṃ](etad-dvandva-samākhyātam) [saṃsārasya](saṃsārasya) [tu](tu) [nirṇayam](nirṇayam)
 
 ## mukta-m0-p01-v10
-[by-which](yena) [knowledge+mere](vijñānamātreṇa) [liberation](muktir) [becomes](bhavati) [of-yogins](yoginām)
+[yena](yena) [vijñānamātreṇa](vijñāna-mātreṇa) [muktirbhavati](muktiḥ+bhavati) [yoginām](yoginām)
 
 ## mukta-m0-p01-v11
-[certain](niścitaṃ) [unmoving](niścalaṃ) [equanimity](sāmyaṃ) [non-dual](nirdvandvaṃ) [and](ca) [unagitated](nirākulam)
+[niścitaṃ](niścitam) [niścalaṃ](niścalam) [sāmyaṃ](sāmyam) [nirdvandvaṃ](nirdvandvam) [ca](ca) [nirākulam](nirākulam)
 
 ## mukta-m0-p01-v12
-[thought-free](niścittaṃ) [mind+devoid](cittarahitaṃ) [verse+knowledge](kārikājñānam) [supreme](uttamam)
+[niścittaṃ](niścittam) [cittarahitaṃ](citta-rahitam) [kārikājñānamuttamam](kārikā-jñānam+uttamam)
 
 ## mukta-m0-p01-v13
-[all+support+freed](sarvāśrayavinirmuktaṃ) [mind+and+indeed](cittāścai(va)) [supportless](nirāśrayam)
+[sarvāśrayavinirmuktaṃ](sarva-āśraya-vinirmuktam) [cittāścai(va)](cittāḥ+ca+eva) [nirāśrayam](nirāśrayam)
 
 ## mukta-m0-p01-v14
-[god](devo) [goddess](devī) [likewise+other](tathānyañca) [dharma+adharma+devoid](dharmādharmavivarjitam)
+[devo](devaḥ) [devī](devī) [tathānyañca](tathā+anyat+ca) [dharmādharmavivarjitam](dharma-adharma-vivarjitam)
 
 ## mukta-m0-p01-v15
-[support](āśrayaṃ) [bondage](bandham) [called](ityuktaṃ) [liberation+and+indeed](muktiścaiva) [supportless](nirāśrayam)
+[āśrayaṃ](āśrayam) [bandhamityuktaṃ](bandham+iti+uktam) [muktiścaiva](muktiḥ+ca+eva) [nirāśrayam](nirāśrayam)
 
 ## mukta-m0-p01-v16
-[object+state](viṣayāvasthaṃ) [when](yadā) [mind](cittaṃ) [duality+liberation+devoid](dvandvamuktivivarjita(m))
+[viṣayāvasthaṃ](viṣaya-avastham) [yadā](yadā) [cittaṃ](cittam) [dvandvamuktivivarjita(m)](dvandva-mukti-vivarjitam)
 
 ## mukta-m0-p01-v17
-[how](kathantaṃ) [unmoving](niścalaṃ) [o-goddess](devi) [to-be-known](jñātavyaṃ) [knowledge+verse](jñānakārike)
+[kathantaṃ](katham+antam) [niścalaṃ](niścalam) [devi](devi) [jñātavyaṃ](jñātavyam) [jñānakārike](jñāna-kārike)
 
 ## mukta-m0-p01-v18
-[verse+truth+essence](kārikātattvasadbhāvaṃ) [siddha+lord+lineage+born](siddhanāthakulodbhavam)
+[kārikātattvasadbhāvaṃ](kārikā-tattva-sadbhāvam) [siddhanāthakulodbhavam](siddha-nātha-kula-udbhavam)
 
 ## mukta-m0-p01-v19
-[earth](pṛthivī) [water](āpastaṃ) [likewise](tathā) [yogin](yogī) [wind](vāyur) [space+indeed](ākāśameva) [and](ca)
+[pṛthivyāpastaṃ](pṛthivī+āpaḥ+stam) [tathā](tathā) [yogī](yogī) [vāyurākāśameva](vāyuḥ+ākāśam+eva) [ca](ca)
 
 ## mukta-m0-p01-v20
-[of-all](sarveṣāṃ) [pervading](vyāpakaḥ) [peaceful](śānta) [pervasion](vyāptī) [of-that](tasya) [not](na) [is-known](vidyate)
+[sarveṣāṃ](sarveṣām) [vyāpakaḥ](vyāpakaḥ) [śānta](śāntaḥ) [vyāptī](vyāptiḥ) [tasya](tasya) [na](na) [vidyate](vidyate)
 
 ## mukta-m0-p01-v21
-[told](kathitaṃ) [by-principles](tattvabhir) [reality](vastu) [knowledge+jewel](jñānaratnaṃ) [very-rare](sudurlabham)
+[kathitaṃ](kathitam) [tattvabhirvastu](tattvaiḥ+vastu) [jñānaratnaṃ](jñāna-ratnam) [sudurlabham](su-durlabham)
 
 ## mukta-m0-p01-v22
-[sāttvika+and](sāttvikantu) [third](tṛtīyañca) [by-three](tribhir) [by-quality](dharmeṇa) [characteristic](lakṣaṇam)
+[sāttvikantu](sāttvikam+tu) [tṛtīyañca](tṛtīyam+ca) [tribhirdharmeṇa](tribhiḥ+dharmeṇa) [lakṣaṇam](lakṣaṇam)
 
 ## mukta-m0-p01-v23
-[sāttvika](sāttvikaṃ) [third](tṛtīyaṃ) [to-be-known](jñeyaṃ) [quality+endowed](dharmayuktaṃ) [always](sadā) [abiding](sthitam)
+[sāttvikaṃ](sāttvikam) [tṛtīyaṃ](tṛtīyam) [jñeyaṃ](jñeyam) [dharmayuktaṃ](dharma-yuktam) [sadā](sadā) [sthitam](sthitam)
 
 ## mukta-m0-p01-v24
-[quality+triad+freed](guṇatrayavinirmuktaṃ) [always](sadā) [nirvāṇa+characterized](nirvāṇalakṣaṇam)
+[guṇatrayavinirmuktaṃ](guṇa-traya-vinirmuktam) [sadā](sadā) [nirvāṇalakṣaṇam](nirvāṇa-lakṣaṇam)
 
 ## mukta-m0-p01-v25
-[all+fire+restraint+transcendent](sarvāgnivinayātītam) [sense+transcendent](indriyātītam) [imperishable](avyayam)
+[sarvāgnivinayātītam](sarva-agni-vinaya-atītam) [indriyātītam](indriya-atītam) [avyayam](avyayam)
