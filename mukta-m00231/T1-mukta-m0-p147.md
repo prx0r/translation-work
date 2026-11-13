@@ -5,73 +5,73 @@
 [eighteen-armed](aṣṭādaśabhujā) [worshipful](pūjyā) [she](sā) [thousand-armed](sahasrabhujā) [in-battle](raṇe)
 
 ## mukta-m0-p147-v3652
-[rosary](akṣamālāṃ) [and](tu) [pestle](muṣalaṃ) [arrow-sword](bāṇāsiṃ) [thunderbolt](kuliśaṃ) [mace](gadām)
+[rosary](akṣamālāṃ) [indeed](tu) [mace](muṣalaṃ) [arrow+sword](bāṇāsiṃ) [thunderbolt](kuliśaṃ) [club](gadām)
 
 ## mukta-m0-p147-v3653
-[spear-staff-shield-noose](śaktidaṇḍacarmapāśaṃ) [drinking-vessel](pānapātraṃ) [water-pot](kamaṇḍalum)
+[spear+staff+shield+noose](śaktidaṇḍacarmapāśaṃ) [drinking-vessel](pānapātraṃ) [water-pot](kamaṇḍalum)
 
 ## mukta-m0-p147-v3654
-[to-be-remembered](smartavyā) [at-praise-time-beginning](stutikālādau) [buffalo-demon-slayer](mahiṣāsuramardinī)
+[to-be-remembered](smartavyā) [at-time-of-praise+and-so-on](stutikālādau) [Mahiṣāsura-slayer](mahiṣāsuramardinī)
 
 ## mukta-m0-p147-v3655
-[thus](evaṃ) [having-meditated](dhyātvā) [man](naro) [always](nityaṃ) [obtains-desired-of-self](labhetepsitamātmanaḥ)
+[thus](evaṃ) [having-meditated](dhyātvā) [man](naro) [always](nityaṃ) [may-obtain+desired](labhetepsitam) [of-self](ātmanaḥ)
 
 ## mukta-m0-p147-v3656
-[directly](sākṣāt) [sarasvatī](sarasvatī) [declared](proktā) [shumbha-demon-destroyer](śumbhāsuranibarhiṇī)
+[directly](sākṣāt) [Sarasvatī](sarasvatī) [declared](proktā) [Śumbha-demon-destroyer](śumbhāsuranibarhiṇī)
 
 ## mukta-m0-p147-v3657
-[conch-bell-plough-and](śaṅkhaghaṇṭālāṅgalañca) [bow-and](kārmukañca) [then](tathā) [supreme](param)
+[conch+bell+plough](śaṅkhaghaṇṭālāṅgalañca) [bow](kārmukañca) [likewise](tathā) [supreme](param)
 
 ## mukta-m0-p147-v3658
-[again-tara-and](punastārañca) [varahi](vārāhī) [chandi-mantra](caṇḍīmantraḥ) [uttered](samīritaḥ)
+[again](punas) [tāra](tārañca) [Vārāhī](vārāhī) [Caṇḍī-mantra](caṇḍīmantraḥ) [declared](samīritaḥ)
 
 ## mukta-m0-p147-v3659
-[thus](iti) [glorious-knowledge-bliss-supreme-swami-composed](śrīmajjñānānandaparamahaṃsaviracite) [kaulavali-determination](kaulāvalīnirṇaye) [twentieth-chapter](viṃśollāsaḥ)
+[thus](iti) [in-the-Kaulāvalīnirṇaya+composed-by+Śrīmat+Jñānānanda+Paramahaṃsa](śrīmajjñānānandaparamahaṃsaviracite) [in-the-Kaulāvalīnirṇaya](kaulāvalīnirṇaye) [twentieth-chapter](viṃśollāsaḥ)
 
 ## mukta-m0-p147-v3660
-[among-fourth-ashrama-people](caturthāśramiṇāṃ) [in-middle](madhye) [avadhuta-ashrama](avadhūtāśramo) [great](mahān)
+[among-those-of-the-fourth-stage-of-life](caturthāśramiṇāṃ) [in-the-midst](madhye) [the-avadhūta-stage](avadhūtāśramo) [great](mahān)
 
 ## mukta-m0-p147-v3661
-[if](yadi) [not](na) [be](syāttadā) [then](caiva) [hear](śṛṇu) [what](yat) [I-tell](kathayāmi) [to-you](te)
+[if](yadi) [not](na) [should-be](syāt) [then](tadā) [indeed](caiva) [hear](śṛṇu) [what](yat) [I-tell](kathayāmi) [to-you](te)
 
 ## mukta-m0-p147-v3662
-[by-that-command](tadājñayā) [liberated](vimuktaḥ) [be](syāttāṃ) [having-worshipped](sampūjya) [in-family-line](kulāntare)
+[by-her-command](tadājñayā) [liberated](vimuktaḥ) [one-may-be](syāt) [her](tāṃ) [having-worshipped](sampūjya) [in-another-family](kulāntare)
 
 ## mukta-m0-p147-v3663
-[without-dualities](nirdvandvo) [without-ego](nirahaṅkāraḥ) [pure-nadi-conquered-senses](śuddhanāḍījitendriyaḥ)
+[free-from-dualities](nirdvandvo) [free-from-ego](nirahaṅkāraḥ) [pure-channels+conquered-senses](śuddhanāḍījitendriyaḥ)
 
 ## mukta-m0-p147-v3664
-[bound-lotus-posture](baddhapadmāsano) [yogi](yogī) [yoga](yogaṃ) [should-join](yuñjīta) [with-effort](yatnataḥ)
+[with-bound-lotus-posture](baddhapadmāsano) [yogin](yogī) [yoga](yogaṃ) [should-practice](yuñjīta) [with-effort](yatnataḥ)
 
 ## mukta-m0-p147-v3665
-[thumbs](aṅguṣṭhau) [and](tu) [should-bind](nibadhnīyāddhastābhyāṃ) [in-reverse-order](vyutkrameṇa) [and](tu)
+[the-two-thumbs](aṅguṣṭhau) [indeed](tu) [one-should-bind](nibadhnīyāt) [with-both-hands](hastābhyāṃ) [in-reverse-order](vyutkrameṇa) [indeed](tu)
 
 ## mukta-m0-p147-v3666
-[from-anus-two-fingers-above](gudāttu) [dvyaṅgulādūrdhvamadhomeḍhrāttu) [two-fingers](dvyaṅgulam)
+[from-anus](gudāt) [indeed](tu) [two-fingers-above](dvyaṅgulādūrdhvam) [below-genitals](adhomeḍhrāt) [indeed](tu) [two-fingers](dvyaṅgulam)
 
 ## mukta-m0-p147-v3667
-[kanda-is](kandamasti) [in-body-this](śarīre'smin) [merit-demerit-free](puṇyāpuṇyavivarjitaḥ)
+[bulb](kandam) [exists](asti) [in-body](śarīre) [this](asmin) [devoid-of-merit+and-demerit](puṇyāpuṇyavivarjitaḥ)
 
 ## mukta-m0-p147-v3668
-[jiva-in-root-chakra-this](jīvastu) [mūlacakre'smin](mūlacakre'smin) [downward-prana-moves-he](adhaḥprāṇaścaratyasau)
+[individual-soul](jīvas) [indeed](tu) [in-root-cakra](mūlacakre) [this](asmin) [downward-breath](adhaḥprāṇaḥ) [moves](carati) [that](asau)
 
 ## mukta-m0-p147-v3669
-[there](tatra) [nadis](nāḍyaḥ) [arisen](samutpannāḥ) [of-thousands](sahasrāṇāṃ) [seventy-two](dvisaptatiḥ)
+[there](tatra) [channels](nāḍyaḥ) [arisen](samutpannāḥ) [of-thousands](sahasrāṇāṃ) [seventy-two](dvisaptatiḥ)
 
 ## mukta-m0-p147-v3670
-[ida](iḍā) [and](ca) [pingala](piṅgalā) [and](caiva) [left-right](vāmadakṣiṇataḥ) [situated](sthite)
+[iḍā](iḍā) [and](ca) [piṅgalā](piṅgalā) [and](ca) [indeed](eva) [on-left+and-right](vāmadakṣiṇataḥ) [situated](sthite)
 
 ## mukta-m0-p147-v3671
-[back-middle-gone](pṛṣṭhamadhyagatā) [she](sā) [and](tu) [with](saha) [crown](mūrdhni) [established](vyavasthitā)
+[going-through-middle-of-back](pṛṣṭhamadhyagatā) [she](sā) [indeed](tu) [together](saha) [in-head](mūrdhni) [situated](vyavasthitā)
 
 ## mukta-m0-p147-v3672
-[on-liberation-path](muktimārge) [always](sadā) [hidden](guptā) [genital-crown](meḍhramūrdhni) [established](vyavasthitā)
+[in-path-of-liberation](muktimārge) [always](sadā) [hidden](guptā) [at-genitals+and-head](meḍhramūrdhni) [situated](vyavasthitā)
 
 ## mukta-m0-p147-v3673
-[five-colored-radiant](pañcavarṇojjvalā) [goddess](devī) [five-elements-dwelling](pañcabhūtanivāsinī)
+[shining-with-five-colors](pañcavarṇojjvalā) [goddess](devī) [dwelling-in-five-elements](pañcabhūtanivāsinī)
 
 ## mukta-m0-p147-v3674
-[having-filled](pūrayitvā) [and](tu) [cut](vicinnā) [variegated](citrā) [she](sā) [knot-formed](granthirūpiṇī)
+[having-filled](pūrayitvā) [indeed](tu) [pierced](vicinnā) [brilliant](citrā) [she](sā) [in-form-of-knot](granthirūpiṇī)
 
 ## mukta-m0-p147-v3675
-[of-her](tasyā) [in-middle](madhye) [brahma-nadi](brahmanāḍī) [lotus-stalk-thread-formed](mṛṇālatanturūpiṇī)
+[of-her](tasyā) [in-middle](madhye) [brahma-channel](brahmanāḍī) [in-form-of-lotus-stalk-fiber](mṛṇālatanturūpiṇī)

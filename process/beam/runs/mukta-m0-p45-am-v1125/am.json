@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p45",
  "verse": 1125,
- "question": "Under what condition does the deity's satisfaction fail to arise from the ritual offering?",
+ "question": "What frequencies of performance are permitted for the prescribed observance?",
  "premises": [
-  "A prescribed ritual offering is required to please the deity.",
-  "An alternative procedure contrary to the prescription may be followed.",
-  "In such an alternative case, the deity's satisfaction does not arise at any time."
+  "The observance may be performed one time.",
+  "The observance may alternatively be performed two times.",
+  "The observance may alternatively be performed three times or a fourth time."
  ],
- "inference": "Therefore, deviation from the prescribed offering prevents the deity's satisfaction from arising.",
- "uncertainties": [],
- "plain_english": "Otherwise, the deity's satisfaction never arises."
+ "inference": "The prescribed observance allows a range of frequencies from one up to four times.",
+ "uncertainties": [
+  "The exact ritual action whose frequency is specified depends on the preceding verses."
+ ],
+ "plain_english": "It may be done once, or twice, or three times, or a fourth time."
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p130-v3226
-[of-small](kṣudrasya) [great](mahatī) [worship](pūjā) [virtuous](sukṛtī) [and](ca) [praise-done](kṛtastutiḥ)
+[of-lowly](kṣudrasya) [great](mahatī) [honor](pūjā) [well-doer](sukṛtī) [and](ca) [done+praise](kṛta+stutiḥ)
 
 ## mukta-m0-p130-v3227
-[mantra+gain](mantralābhastathā) [so](tathā) [in-dream](svapne) [of-gurus](gurūṇāṃ) [of-daughter](duhitustathā) [so](tathā)
+[mantra+attainment](mantra+lābhaḥ) [likewise](tathā) [in-dream](svapne) [of-gurus](gurūṇāṃ) [daughter](duhituḥ) [likewise](tathā)
 
 ## mukta-m0-p130-v3228
-[ill-scented](asugandhiḥ) [well-scented+and](sugandhiśca) [faith](śraddhā) [flower-born+so](puṣpodbhavastathā)
+[bad+smell](asu+gandhiḥ) [good+smell](su+gandhiḥ) [and](ca) [faith](śraddhā) [flower+arising](puṣpa+udbhavaḥ) [likewise](tathā)
 
 ## mukta-m0-p130-v3229
-[thus](iti) [knowing](vijñāya) [hero-lord](vīrendraḥ) [rite+and](prayogañca) [should-perform](samācaret)
+[thus](iti) [having-known](vijñāya) [hero+lord](vīra+indraḥ) [practice](prayogam) [and](ca) [should-perform](samācaret)
 
 ## mukta-m0-p130-v3230
-[black-colored-servant](kṛṣṇavarṇabhaṭaṃ) [in-dream](svapne) [blow](prahārastena) [by-him](tena) [meeting](melanam)
+[black+colored+soldier](kṛṣṇa+varṇa+bhaṭaṃ) [in-dream](svapne) [striking](prahāraḥ) [by-him](tena) [meeting](melanam)
 
 ## mukta-m0-p130-v3231
-[kingdom-turmoil](rājyakṣobhavahnivāyujantubhirvadhadarśanam) [fire](vahni) [wind](vāyu) [by-creatures](jantubhiḥ) [killing](vadha) [seeing](darśanam)
+[kingdom+disturbance](rājya+kṣobha) [fire+wind+creatures](vahni+vāyu+jantubhiḥ) [killing+seeing](vadha+darśanam)
 
 ## mukta-m0-p130-v3232
-[other-mantra](anyamantrārcane) [in-worship](arcane) [faith](śraddhā) [own-god](svadevārcananindanam) [worship](arcana) [blame](nindanam)
+[other+mantra+worship](anya+mantra+arcane) [faith](śraddhā) [own+deity+worship+censure](sva+deva+arcana+nindanam)
 
 ## mukta-m0-p130-v3233
-[Gaṇeśa](gaṇeśaṃ) [Vaṭuka](vaṭukaṃ) [after](paścāt) [field-lord](kṣetreśaṃ) [yoginīs+so](yoginīstathā)
+[Gaṇeśa](gaṇeśaṃ) [Vaṭuka](vaṭukaṃ) [afterwards](paścāt) [Kṣetreśa](kṣetreśaṃ) [Yoginīs](yoginīḥ) [likewise](tathā)
 
 ## mukta-m0-p130-v3234
-[Kumāra](kumāraṃ) [Baṭuka](baṭukaṃ) [Bhadra](bhadraṃ) [Lakṣmī](lakṣmīṃ) [beautiful](sucārunāyakam) [leader](nāyakam)
+[Kumāra](kumāraṃ) [Baṭuka](baṭukaṃ) [Bhadra](bhadraṃ) [Lakṣmī](lakṣmīṃ) [Sucārunāyaka](sucārunāyakam)
 
 ## mukta-m0-p130-v3235
-[having-worshipped](pūjayitvā) [by-rite](vidhānena) [offering](baliṃ) [after](paścānnivedayet) [should-offer](nivedayet)
+[having-worshipped](pūjayitvā) [according-to-rule](vidhānena) [offering](baliṃ) [afterwards](paścāt) [should-offer](nivedayet)
 
 ## mukta-m0-p130-v3236
-[now-then](athātaḥ) [I-will-declare](sampravakṣyāmi) [desired](kāmyaprayogamuttamam) [rite](prayogam) [excellent](uttamam)
+[now](atha) [then](ataḥ) [I-shall-declare](sampravakṣyāmi) [desire+practice](kāmya+prayogam) [supreme](uttamam)
 
 ## mukta-m0-p130-v3237
-[having-worshipped](pūjayitvā) [at-great-night](mahārātrau) [three-days](tridinaṃ) [should-recite](prajapenmanum) [mantra](manum)
+[having-worshipped](pūjayitvā) [on-great+night](mahā+rātrau) [for-three+days](tri+dinaṃ) [one-should-repeat+mantra](prajapet+manum)
 
 ## mukta-m0-p130-v3238
-[vetāla](vetālapādukāsiddhiṃ) [sandal](pādukā) [power](siddhiṃ) [sword](khaṅgasiddhintathaiva) [power](siddhiṃ) [so](tathā) [indeed](eva) [and](ca)
+[vetāla+sandal+accomplishment](vetāla+pādukā+siddhiṃ) [sword+accomplishment](khaṅga+siddhim) [likewise](tathā) [indeed](eva) [and](ca)
 
 ## mukta-m0-p130-v3239
-[clan-house](kulāgāraṃ) [of-flowering](puṣpitāyā) [having-seen](dṛṣṭvā) [who](yo) [recites](japate) [man](naraḥ)
+[family+house](kula+āgāraṃ) [of-menstruating-woman](puṣpitāyāḥ) [having-seen](dṛṣṭvā) [who](yaḥ) [repeats](japate) [man](naraḥ)
 
 ## mukta-m0-p130-v3240
-[only](kevalaṃ) [in-secret-manner](guptabhāvena) [he](sa) [indeed](tu) [treasure-of-knowledge](vidyānidhirbhavet) [becomes](bhavet)
+[only](kevalaṃ) [with-secret+attitude](gupta+bhāvena) [he](saḥ) [indeed](tu) [knowledge+treasure](vidyā+nidhiḥ) [would-become](bhavet)
 
 ## mukta-m0-p130-v3241
-[control](vaśamāyānti) [come](āyānti) [they](te) [all](sarve) [of-sādhaka](sādhakasya) [not](na) [and](ca) [otherwise](anyathā)
+[come-under-control](vaśam+āyānti) [they](te) [all](sarve) [of-practitioner](sādhakasya) [not](na) [otherwise](ca+anyathā)
 
 ## mukta-m0-p130-v3242
-[having-recited](prajapya) [and](cā'yutaṃ) [ten-thousand](ayutaṃ) [wise](prājñaḥ) [this](etadeva) [indeed](eva) [fruit](phalaṃ) [obtains](labhet)
+[having-repeated](prajapya) [and](ca) [ten-thousand](ayutaṃ) [wise-one](prājñaḥ) [this+very](etat+eva) [fruit](phalaṃ) [obtains](labhet)
 
 ## mukta-m0-p130-v3243
-[should-recite](prajaped) [who](yo) [becomes](bhavet) [immediately](sadyo) [of-vidyā](vidyāyāvallabhaḥ) [beloved](vallabhaḥ) [himself](svayam)
+[should-repeat](prajapet) [who](yaḥ) [would-become](bhavet) [immediately](sadyaḥ) [of-knowledge+beloved](vidyāyāḥ+vallabhaḥ) [himself](svayam)
 
 ## mukta-m0-p130-v3244
-[prose](gadyapadyamayī) [verse](padya) [composed](mayī) [speech](vāṇī) [in-assembly](sabhāyāṃ) [his](tasya) [arises](jāyate)
+[prose+verse+consisting](gadya+padya+mayī) [speech](vāṇī) [in-assembly](sabhāyāṃ) [of-him](tasya) [is-born](jāyate)
 
 ## mukta-m0-p130-v3245
-[by-his-name](tannāmnā) [wise](sudhiyaḥ) [all](sarve) [bow](praṇamanti) [joy](mudānvitāḥ) [endowed](anvitāḥ)
+[by-his+name](tat+nāmnā) [wise-ones](sudhiyaḥ) [all](sarve) [bow-down](praṇamanti) [with-joy+endowed](mudā+anvitāḥ)
 
 ## mukta-m0-p130-v3246
-[or](athavā) [wealth-desiring](dhanakāmastu) [but](tu) [great](mahadaiśvaryakāmukaḥ) [sovereignty](aiśvarya) [desiring](kāmukaḥ)
+[or](athavā) [wealth+desiring](dhana+kāmaḥ) [indeed](tu) [great+sovereignty+desiring](mahā+aiśvarya+kāmukaḥ)
 
 ## mukta-m0-p130-v3247
-[one-hundred-eight](aṣṭottaraśataṃ) [having-recited](japtvā) [clan](kulamāmantrya) [having-addressed](āmantrya) [knower-of-truth](tattvavit)
+[eight+above+hundred](aṣṭa+uttara+śataṃ) [having-repeated](japtvā) [family](kulam) [having-invoked](āmantrya) [truth+knower](tattva+vit)
 
 ## mukta-m0-p130-v3248
-[or](athavā) [hand](hastamāropya) [having-placed](āropya) [steady-minded](sthiradhīḥ) [purified](pūtamānasaḥ) [mind](mānasaḥ)
+[or](athavā) [on-hand+having-placed](hastam+āropya) [steady+minded](sthira+dhīḥ) [pure+minded](pūta+mānasaḥ)
 
 ## mukta-m0-p130-v3249
-[earth](pṛthvīmṛtumatīṃ) [menstruating](ṛtumatīṃ) [having-seen](vīkṣya) [thousand](sahasraṃ) [if](yadi) [daily](nityaśaḥ)
+[earth+clay+possessing](pṛthvī+mṛt+matīṃ) [having-seen](vīkṣya) [thousand](sahasraṃ) [if](yadi) [daily](nityaśaḥ)
 
 ## mukta-m0-p130-v3250
-[great-China](mahācīnakrame) [in-method](krame) [goddess](devīṃ) [having-meditated](dhyātvā) [goddess](devīṃ) [should-worship](prapūjayet)
+[in-great+Cīna+sequence](mahā+cīna+krame) [goddess](devīṃ) [having-meditated](dhyātvā) [goddess](devīṃ) [should-worship](prapūjayet)

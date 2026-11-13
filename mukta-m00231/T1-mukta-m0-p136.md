@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p136-v3376
-[by-matrika-or](mātṛkayā'thavā) [should-do](kuryād) [according-to-tantra-rule](yathātantravidhānataḥ)
+[with-mātṛkā](mātṛkayā) [or](athavā) [one-should-do](kuryād) [as-per-tantra+method](yathātantravidhānataḥ)
 
 ## mukta-m0-p136-v3377
-[or-by-another-method](athavānyaprakāreṇa) [is-said](kathyate) [practice](sādhanaṃ) [great](mahat)
+[or](athavā) [by-another+method](anyaprakāreṇa) [is-told](kathyate) [practice](sādhanaṃ) [great](mahat)
 
 ## mukta-m0-p136-v3378
-[that-side](tatpārśve) [write-object](sādhyamālikhya) [strike](tāḍayed) [divine-eyes](divyadṛṣṭibhiḥ)
+[at-its+side](tatpārśve) [the-target+having-drawn](sādhyamālikhya) [one-should-strike](tāḍayed) [with-divine+sights](divyadṛṣṭibhiḥ)
 
 ## mukta-m0-p136-v3379
-[with-gorocana-etc-substances](gorocanādibhirdravyaiḥ) [own-moon](svīyacandraṃ) [draw](samālikhet)
+[with-gorocanā+and-other+substances](gorocanādibhirdravyaiḥ) [one's-own+moon](svīyacandraṃ) [one-should-draw](samālikhet)
 
 ## mukta-m0-p136-v3380
-[blazing](jvalantīṃ) [with-name](nāmasahitāṃ) [pierced-by-kama-bija](kāmabījavidarbhitām)
+[blazing](jvalantīṃ) [with-name+accompanied](nāmasahitāṃ) [with-kāma+bīja+interwoven](kāmabījavidarbhitām)
 
 ## mukta-m0-p136-v3381
-[unseen-before](adṛṣṭapūrvā) [that](sā) [power](śaktiḥ) [quickly-comes](drutamāyāti) [rare](durlabhā)
+[unseen+before](adṛṣṭapūrvā) [that](sā) [power](śaktiḥ) [quickly+comes](drutamāyāti) [hard-to-obtain](durlabhā)
 
 ## mukta-m0-p136-v3382
-[comes](āyāti) [practitioner](sādhakaṃ) [properly](samyak) [mantra-deluded](mantramūḍhā) [being](satī) [auspicious](śubhā)
+[comes](āyāti) [to-the-practitioner](sādhakaṃ) [properly](samyak) [by-mantra+bewildered](mantramūḍhā) [being](satī) [auspicious](śubhā)
 
 ## mukta-m0-p136-v3383
-[rising-sun-thousand-like](udyatsūryasahasrābham) [self](ātmānam) [red](aruṇaṃ) [thus](tathā)
+[rising+sun+thousand+resembling](udyatsūryasahasrābham) [oneself](ātmānam) [red](aruṇaṃ) [likewise](tathā)
 
 ## mukta-m0-p136-v3384
-[by-this](anena) [sequence-yoga](kramayogena) [youth](yuvā) [kandarpa-form-possessing](kandarparūpavān)
+[by-this](anena) [sequence+method](kramayogena) [youthful](yuvā) [with-Kandarpa+form](kandarparūpavān)
 
 ## mukta-m0-p136-v3385
-[all-blood-offering-but](sarvaraktopacārastu) [mudra-placed-body](mudrānihitavigrahaḥ)
+[all+red+offerings](sarvaraktopacāraḥ) [and](tu) [in-mudrā+placed+body](mudrānihitavigrahaḥ)
 
 ## mukta-m0-p136-v3386
-[he](sa) [becomes-servant-like](bhaveddāsavat) [truth](satyaṃ) [wealth-lord-or](dhaneśo) [speech-lord](vākpatiḥ)
+[he](sa) [becomes](bhavet) [like-a-servant](dāsavat) [truly](satyaṃ) [lord-of-wealth](dhaneśaḥ) [or](vā) [even](api) [lord-of-speech](vākpatiḥ)
 
 ## mukta-m0-p136-v3387
-[unseen-or](adṛṣṭā) [being-or](vā) [yoga-mudra-bearing-or](yogamudrādharā'pi)
+[unseen](adṛṣṭā) [or](vā) [being-chaste](satī) [or](vā) [even](api) [yoga+mudrā+bearing](yogamudrādharā) [or](api) [even](vā)
 
 ## mukta-m0-p136-v3388
-[nagini-or-apsara-or](nāginīmapsarāṃ) [gandharvi-or](gandharvīṃ) [celestial-woman](surāṅganām)
+[a-nāginī](nāginīm) [an-apsaras](apsarāṃ) [or](vā) [a-gandharvī](gandharvīṃ) [or](vā) [a-celestial+woman](surāṅganām)
 
 ## mukta-m0-p136-v3389
-[love-born-heat](madanodbhavasantāpāṃ) [throbbing-hips-good-breasts](sphurajjaghanasustanīm)
+[by-love+born+torment](madanodbhavasantāpāṃ) [with-quivering+hips+and-breasts](sphurajjaghanasustanīm)
 
 ## mukta-m0-p136-v3390
-[great-kama-kala-meditation-from](mahākāmakalādhyānāt) [practitioner](sādhakaḥ) [steady-mind](sthiramānasaḥ)
+[by-great+kāma+kalā+meditation](mahākāmakalādhyānāt) [the-practitioner](sādhakaḥ) [with-steady+mind](sthiramānasaḥ)
 
 ## mukta-m0-p136-v3391
-[rocanā-part-one-but](rocanābhāgamekaṃ) [part-one-but](tu) [kumkuma](kuṅkumam)
+[of-gorocanā](rocanā) [part+one](bhāgamekaṃ) [indeed](tu) [part+one](bhāgamekaṃ) [indeed](tu) [saffron](kuṅkumam)
 
 ## mukta-m0-p136-v3392
-[in-one-place](ekatra) [tilaka](tilakaṃ) [should-do](kuryāt) [three-worlds-subjugating](trilokavaśakārakam)
+[in-one-place](ekatra) [tilaka-mark](tilakaṃ) [one-should-make](kuryāt) [three-world+subduing](trilokavaśakārakam)
 
 ## mukta-m0-p136-v3393
-[king](rājānaṃ) [city](nagaraṃ) [village](grāmaṃ) [whatever-else-said](yatkiṃcidanyaducyate)
+[king](rājānaṃ) [city](nagaraṃ) [village](grāmaṃ) [whatever](yatkiṃcid) [else](anyat) [is-said](ucyate)
 
 ## mukta-m0-p136-v3394
-[yon-flowers-linga-flowers-mixing-and](yonipuṣpairliṅgapuṣpairmiśrīkṛtya) [practitioner](ca) [sādhakaḥ]
+[with-yoni+flowers](yonipuṣpaiḥ) [with-liṅga+flowers](liṅgapuṣpaiḥ) [having-mixed](miśrīkṛtya) [and](ca) [the-practitioner](sādhakaḥ)
 
 ## mukta-m0-p136-v3395
-[secret-place](rahasyasthānake) [mantra-knower](mantrī) [write-with-rocanā](likhedrocanayā) [on-earth](bhuvi)
+[in-a-secret+place](rahasyasthānake) [the-mantrin](mantrī) [should-draw](likhet) [with-gorocanā](rocanayā) [on-the-ground](bhuvi)
 
 ## mukta-m0-p136-v3396
-[image](pratimāṃ) [beautiful](sundarīṃ) [charming](ramyāṃ) [draw](vilikhya) [very-pleasing](sumanoharām)
+[an-image](pratimāṃ) [beautiful](sundarīṃ) [lovely](ramyāṃ) [having-drawn](vilikhya) [mind+captivating](sumanoharām)
 
 ## mukta-m0-p136-v3397
-[whose](yasyā) [name](nāma) [great-vidya-hook-within-pierced](mahāvidyāmaṅkuśāntarvidarbhitam)
+[of-whom](yasyā) [name](nāma) [great+vidyā](mahāvidyām) [within-aṅkuśa+interwoven](aṅkuśāntarvidarbhitam)
 
 ## mukta-m0-p136-v3398
-[bindu-nada-kala-overcome-hook](bindunādakalākrāntamaṅkuśaṃ) [proclaimed](parikīrttitam)
+[by-bindu+nāda+kalā+pervaded](bindunādakalākrāntam) [aṅkuśa](aṅkuśaṃ) [is-declared](parikīrttitam)
 
 ## mukta-m0-p136-v3399
-[vowel-end](svarāntaṃ) [earth-situated](pṛthivīsaṃsthaṃ) [rati-bindu-accompanied](ratibindusamanvitam)
+[vowel+ending](svarāntaṃ) [on-earth+placed](pṛthivīsaṃsthaṃ) [with-rati+bindu+endowed](ratibindusamanvitam)
 
 ## mukta-m0-p136-v3400
-[blue-pomegranate-flower-like](nīladāḍimbapuṣpābhaṃ) [should-meditate](cintayed) [body-joints](dehasandhiṣu)
+[blue+pomegranate+flower+resembling](nīladāḍimbapuṣpābhaṃ) [one-should-visualize](cintayet) [in-body+joints](dehasandhiṣu)
