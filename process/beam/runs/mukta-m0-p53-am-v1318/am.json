@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1318,
- "question": "What northern field and southern boundary define this region?",
+ "question": "What colored lines outside the altar are associated with Yama in the south?",
  "premises": [
-  "Brahmakṣetra is located in the north.",
-  "The southern limit extends to the ocean.",
-  "The region is bounded by these markers."
+  "A white line is outside the altar.",
+  "A black element is indicated.",
+  "The southern direction belongs to Yama."
  ],
- "inference": "The region has Brahmakṣetra in the north and reaches the ocean in the south.",
- "uncertainties": [],
- "plain_english": "In the north is Brahmakṣetra, and in the south it extends up to the ocean."
+ "inference": "Outside the altar, white and black markings are associated with Yama in the south.",
+ "uncertainties": [
+  "The token vedhā has an editorial variant and its precise meaning is unclear."
+ ],
+ "plain_english": "Outside the altar there should be a white line and a black one; in the south this belongs to Yama."
 }

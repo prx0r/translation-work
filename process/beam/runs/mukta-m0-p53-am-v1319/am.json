@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1319,
- "question": "What is the name and position of this central seat?",
+ "question": "What shape and base are required for the object set by foot insertion?",
  "premises": [
-  "This seat is described as the middle one.",
-  "It is called Puṇya by name.",
-  "Its identity and position are explicitly stated."
+  "The object has a rounded tip.",
+  "It is set by foot insertion.",
+  "It should have a corner base and be very beautiful."
  ],
- "inference": "This middle seat is known by the name Puṇya.",
- "uncertainties": [],
- "plain_english": "This is the middle seat, known by the name Puṇya."
+ "inference": "The inserted object should have a rounded tip, a corner base, and a beautiful form.",
+ "uncertainties": [
+  "The token kāmamūlaṃ is an editorial variant and its technical sense is unclear."
+ ],
+ "plain_english": "It should have a rounded tip, be set by inserting its foot, have a cornered base, and be very beautiful."
 }

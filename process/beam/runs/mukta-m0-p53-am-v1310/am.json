@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1310,
- "question": "Which great field and additional sacred place are named here?",
+ "question": "What measurements are to be excluded and considered when marking widths and lengths by rotation?",
  "premises": [
-  "Avimukta is identified as a great field.",
-  "Haṃsaprapatana is also named.",
-  "Both are included together."
+  "Certain parts are to be left out.",
+  "Two widths with a half are specified.",
+  "Two lengths by rotation are considered."
  ],
- "inference": "The great field Avimukta and likewise Haṃsaprapatana are named.",
- "uncertainties": [],
- "plain_english": "There is the great field Avimukta, and likewise Haṃsaprapatana."
+ "inference": "The layout requires excluding specified parts and taking defined widths and lengths by rotation.",
+ "uncertainties": [
+  "The forms tyājyā and dirdhau are textually unusual and their precise grammatical roles are uncertain."
+ ],
+ "plain_english": "Leaving out the parts to be excluded, two widths with a half and two lengths by rotation are to be taken as the measure."
 }

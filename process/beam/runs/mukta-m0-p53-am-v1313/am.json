@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1313,
- "question": "What sacred features are located to the south and north?",
+ "question": "What markings and trident placement are prescribed in the white and northeast areas?",
  "premises": [
-  "The Vṛṣabha liṅga is in the south.",
-  "The banana forest is in the north.",
-  "The two locations are specified by direction."
+  "A line should be in the white area.",
+  "A staff element is indicated.",
+  "A trident should be in the northeast."
  ],
- "inference": "The Vṛṣabha liṅga lies to the south and the banana forest to the north.",
- "uncertainties": [],
- "plain_english": "In the south is the Vṛṣabha liṅga, and in the north is the banana forest."
+ "inference": "The design requires a line in the white area and a trident placed in the northeast.",
+ "uncertainties": [
+  "The syntactic relation of daṇḍa to the surrounding elements is somewhat compressed."
+ ],
+ "plain_english": "There should be a line in the white area, and in the northeast there should be a trident."
 }

@@ -3,29 +3,44 @@
  "verse": 1309,
  "rows": [
   {
-   "lemma": "bhūgolapīṭhakaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "compound bhū+gola+pīṭhaka, name of seat"
+   "lemma": "veda+āsre",
+   "morph": "compound noun.loc.sg.n veda+asra",
+   "grounds": "locates the operation in a square area"
   },
   {
-   "lemma": "nāma",
+   "lemma": "graha+bhakte",
+   "morph": "compound adj.loc.sg.n graha+bhakta",
+   "grounds": "specifies division into nine parts"
+  },
+  {
+   "lemma": "vedāsraṃ grahabhaktaṃ",
+   "morph": "compound adj.nom.sg.n veda+asra+graha+bhakta",
+   "grounds": "editorial variant repeats the same specification"
+  },
+  {
+   "lemma": "syāt",
+   "morph": "3.sg.optative-act √as",
+   "grounds": "prescribes the configuration"
+  },
+  {
+   "lemma": "madhye",
+   "morph": "noun.loc.sg.n",
+   "grounds": "locates the central element"
+  },
+  {
+   "lemma": "śūlaṃ",
+   "morph": "noun.nom.sg.n",
+   "grounds": "names the central marker"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "indeclinable indicating name"
+   "grounds": "emphasizes the specification"
   },
   {
-   "lemma": "yatra",
+   "lemma": "randhrataḥ",
    "morph": "(indecl.)",
-   "grounds": "relative adverb of place"
-  },
-  {
-   "lemma": "vai",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
-  },
-  {
-   "lemma": "golakeśvaraḥ",
-   "morph": "m.nom.sg",
-   "grounds": "deity name"
+   "grounds": "indicates measurement or placement from a hole"
   }
  ]
 }

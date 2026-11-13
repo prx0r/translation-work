@@ -3,34 +3,44 @@
  "verse": 1304,
  "rows": [
   {
-   "lemma": "tatra",
+   "lemma": "eka+jaṃ",
+   "morph": "compound adj.acc.sg.n eka+ja",
+   "grounds": "describes origin from a single source"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "locative adverb referring to that place"
+   "grounds": "connects qualifying attributes"
   },
   {
-   "lemma": "someśvaraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "name of the liṅga"
+   "lemma": "eka+varṇaṃ",
+   "morph": "compound adj.acc.sg.n eka+varṇa",
+   "grounds": "describes uniform color"
   },
   {
-   "lemma": "liṅgam",
-   "morph": "n.nom.sg",
-   "grounds": "sacred emblem"
-  },
-  {
-   "lemma": "ādipīṭhaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "compound ādi+pīṭha"
-  },
-  {
-   "lemma": "tathā",
+   "lemma": "vā",
    "morph": "(indecl.)",
-   "grounds": "particle of addition"
+   "grounds": "offers an alternative qualification"
   },
   {
-   "lemma": "param",
-   "morph": "n.nom.sg",
-   "grounds": "adjective qualifying the seat"
+   "lemma": "śubham",
+   "morph": "adj.acc.sg.n",
+   "grounds": "evaluates the material positively"
+  },
+  {
+   "lemma": "etat",
+   "morph": "pron.acc.sg.n",
+   "grounds": "refers to the described material"
+  },
+  {
+   "lemma": "ataḥ",
+   "morph": "(indecl.)",
+   "grounds": "introduces the contrasting consequence"
+  },
+  {
+   "lemma": "aśubham",
+   "morph": "adj.nom.sg.n",
+   "grounds": "evaluates deviation negatively"
   }
  ]
 }

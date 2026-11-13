@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1309,
- "question": "What seat is named and which deity presides there?",
+ "question": "How should the square area be divided and where should the central spike be placed?",
  "premises": [
-  "The seat is called Bhūgolapīṭhaka.",
-  "Golakeśvara is present at that seat.",
-  "The location and presiding deity are linked."
+  "The area is four-cornered.",
+  "It is divided into nine parts.",
+  "A spike should be placed in the middle from the hole."
  ],
- "inference": "The seat named Bhūgolapīṭhaka is where Golakeśvara indeed resides.",
- "uncertainties": [],
- "plain_english": "It is the seat named Bhūgolapīṭhaka, where indeed Golakeśvara is present."
+ "inference": "A square divided into nine parts should have a central spike positioned from the hole.",
+ "uncertainties": [
+  "The exact technical sense of randhrataḥ in this measurement is unclear."
+ ],
+ "plain_english": "In a four-cornered area divided into nine parts, there should be a spike in the middle, measured from the hole."
 }

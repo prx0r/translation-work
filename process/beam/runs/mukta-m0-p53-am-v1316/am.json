@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1316,
- "question": "Which great field and hermitage are included in this enumeration?",
+ "question": "What weapon and color are assigned to Agni in the specified direction?",
  "premises": [
-  "A great field of Sītā is named.",
-  "The hermitage of Agastya is named.",
-  "Both are listed together."
+  "The middle peak is red.",
+  "The form is associated with Agni.",
+  "Agni's spear is placed in that direction."
  ],
- "inference": "The great field of Sītā and the hermitage of Agastya are included.",
- "uncertainties": [],
- "plain_english": "There is the great field of Sītā, and likewise the hermitage of Agastya."
+ "inference": "In that direction, Agni's spear is identified with a red middle peak.",
+ "uncertainties": [
+  "The relation between śūlaṃ and śaktiḥ is compressed and may reflect textual variation."
+ ],
+ "plain_english": "The middle peak is red; in that direction belongs Agni's spear."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1312,
- "question": "What great forest and presiding deity are found at that place?",
+ "question": "How should the staff below the altar be proportioned in length and width?",
  "premises": [
-  "A great forest made of grass is present there.",
-  "Pātālaśaṅkara is present there.",
-  "The forest and deity are co-located."
+  "The staff is placed below the altar.",
+  "Its length is divided into three parts.",
+  "Its width should measure three widths."
  ],
- "inference": "There is a great grass-made forest where Pātālaśaṅkara resides.",
- "uncertainties": [],
- "plain_english": "There is a great forest made of grass, and there is Pātālaśaṅkara."
+ "inference": "The staff below the altar should be made with a three-part length and a width of three measures.",
+ "uncertainties": [
+  "The exact unit implied by tri+vistara is not specified in the verse."
+ ],
+ "plain_english": "Below the altar, a staff should be made, divided into three parts lengthwise and three widths wide."
 }

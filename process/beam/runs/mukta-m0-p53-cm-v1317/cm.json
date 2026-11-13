@@ -3,29 +3,39 @@
  "verse": 1317,
  "rows": [
   {
-   "lemma": "mādhavāraṇyakaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "compound mādhava+āraṇyaka"
+   "lemma": "mūle",
+   "morph": "noun.loc.sg.n",
+   "grounds": "specifies the lower end"
   },
   {
-   "lemma": "kṣetraṃ",
-   "morph": "n.nom.sg",
-   "grounds": "sacred field"
-  },
-  {
-   "lemma": "harasya",
-   "morph": "m.gen.sg",
-   "grounds": "genitive of the deity name"
-  },
-  {
-   "lemma": "āraṇyakaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "forest region"
-  },
-  {
-   "lemma": "tathā",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "particle of addition"
+   "grounds": "connects locations"
+  },
+  {
+   "lemma": "agre",
+   "morph": "noun.loc.sg.n",
+   "grounds": "specifies the upper end"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects locations"
+  },
+  {
+   "lemma": "daṇḍasya",
+   "morph": "noun.gen.sg.m",
+   "grounds": "identifies the object described"
+  },
+  {
+   "lemma": "kāryaḥ",
+   "morph": "gerundive.nom.sg.m √kṛ",
+   "grounds": "prescribes shaping"
+  },
+  {
+   "lemma": "vṛtta+agra+mūlataḥ",
+   "morph": "compound adj.nom.sg.m vṛtta+agra+mūla",
+   "grounds": "specifies rounded ends"
   }
  ]
 }
