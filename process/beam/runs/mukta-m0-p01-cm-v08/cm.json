@@ -3,34 +3,39 @@
  "verse": 8,
  "rows": [
   {
-   "lemma": "tataḥ",
+   "lemma": "kṛṣyā",
+   "morph": "compound:kṛṣi",
+   "grounds": "compound first member"
+  },
+  {
+   "lemma": "+ādi",
+   "morph": "compound:ādi",
+   "grounds": "and so forth; compound member"
+  },
+  {
+   "lemma": "+vat",
    "morph": "(indecl.)",
-   "grounds": "consequence of the preceding reasoning"
+   "grounds": "comparative suffix; compound final member"
   },
   {
-   "lemma": "cit+aikyaṃ",
-   "morph": "n.nom.sg, compound cit+aikya",
-   "grounds": "unity with consciousness"
-  },
-  {
-   "lemma": "prakṛtaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "set forth as the topic or established"
-  },
-  {
-   "lemma": "jagataḥ",
-   "morph": "n.gen.sg",
-   "grounds": "of the world"
-  },
-  {
-   "lemma": "na",
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "contrastive particle"
   },
   {
-   "lemma": "nivartate",
-   "morph": "3.sg.mid-pres, √nivṛt",
-   "grounds": "comes to an end"
+   "lemma": "kartāraṃ",
+   "morph": "m.acc.sg",
+   "grounds": "doer"
+  },
+  {
+   "lemma": "prajñāvantam",
+   "morph": "m.acc.sg",
+   "grounds": "possessing knowledge"
+  },
+  {
+   "lemma": "apekṣate",
+   "morph": "3.sg.middle-present;√īkṣ",
+   "grounds": "depends on"
   }
  ]
 }

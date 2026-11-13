@@ -3,29 +3,49 @@
  "verse": 146,
  "rows": [
   {
-   "lemma": "śivādy",
-   "morph": "compound",
-   "grounds": "beginning with Śiva; sandhi form"
+   "lemma": "sidhyarthaṃ",
+   "morph": "n.acc.sg (compound siddhi+artha)",
+   "grounds": "for the sake of fulfillment"
   },
   {
-   "lemma": "adevaparyantaṃ",
-   "morph": "compound",
-   "grounds": "extending up to the gods; compound as given"
+   "lemma": "bhoga",
+   "morph": "m.stem (compound member)",
+   "grounds": "experience"
   },
   {
-   "lemma": "sarvaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "the entire range"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "tatraiva",
-   "morph": "(indecl.)",
-   "grounds": "in that very reality"
+   "lemma": "abhilāṣa",
+   "morph": "m.stem (compound member)",
+   "grounds": "longing"
   },
   {
-   "lemma": "saṃsthitam",
-   "morph": "n.nom.sg.past-participle",
-   "grounds": "firmly established"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "janako",
+   "morph": "m.nom.sg (compound bhoga+abhilāṣa+janaka)",
+   "grounds": "that which generates"
+  },
+  {
+   "lemma": "rāgo",
+   "morph": "m.nom.sg (rāga)",
+   "grounds": "passion or coloring"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "’bhyupagantavyaḥ",
+   "morph": "m.nom.sg.gerundive (abhi-upa-gam)",
+   "grounds": "to be accepted"
   }
  ]
 }

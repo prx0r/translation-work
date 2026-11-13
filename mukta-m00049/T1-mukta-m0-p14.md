@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p14-v326
-[offered-to-brahman](brahmasāt) [made+food-offering](kṛta+naivedyam) [one-should-eat](aśnīyāt) [without-deliberating](avicārayan)
+[brahma-sāt](brahmasāt) [kṛta-naivedyam](kṛtanaivedyam) [aśnīyāt](aśnīyād) [avicārayan](avicārayan)
 
 ## mukta-m0-p14-v327
-[that+food](tat+annaṃ) [purifying](pāvanaṃ) [O-goddess](devi) [of-gods](devānām) [even](api) [hard-to-obtain](durlabham)
+[tat-annam](tadannaṃ) [pāvanam](pāvanaṃ) [devi](devi) [devānām](devānām) [api](api) [durlabham](durlabham)
 
 ## mukta-m0-p14-v328
-[of-the-supreme-lord](parameśasya) [from-partaking-of-food-offering](naivedya+sevanād) [which](yat) [fruit](phalaṃ) [may-be](bhavet)
+[parameśasya](parameśasya) [naivedya-sevanāt](naivedyasevanād) [yat](yat) [phalam](phalaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p14-v329
-[once](sakṛt) [by-taking-grace](prasāda+grahaṇāt) [one-is-liberated](mucyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[sakṛt](sakṛt) [prasāda-grahaṇāt](prasādagrahaṇāt) [mucyate](mucyate) [na](na) [atra](atra) [saṃśayaḥ](saṃśayaḥ)
 
 ## mukta-m0-p14-v330
-[that](tat) [fruit](phalaṃ) [obtains](labhate) [mortal](martyo) [by-partaking-of-what-is-offered-to-brahman](brahma+arpita+niṣevaṇāt)
+[tat](tat) [phalam](phalaṃ) [labhate](labhate) [martyaḥ](martyo) [brahma-arpita-niṣevaṇāt](brahmārpitaniṣevaṇāt)
 
 ## mukta-m0-p14-v331
-[when-eaten](bhakṣite) [brahman](brahma) [food-offering](naivedye) [therefore](tasmāt) [ten-million-times](koṭi+guṇaṃ) [one-obtains](labhet)
+[bhakṣite](bhakṣite) [brahma-naivedye](brahma) [brahma-naivedye](naivedye) [tasmāt](tasmāt) [koṭi-guṇam](koṭiguṇaṃ) [labhet](labhet)
 
 ## mukta-m0-p14-v332
-[of-the-great-grace](mahā+prasāda) [glory](māhātmyaṃ) [to-describe](varṇituṃ) [not](na) [indeed](eva) [is-possible](śakyate)
+[mahā-prasāda-māhātmyam](mahāprasādamāhātmyaṃ) [varṇitum](varṇituṃ) [na](na) [eva](eva) [śakyate](śakyate)
 
 ## mukta-m0-p14-v333
-[having-taken](gṛhītvā) [a-morsel](kīkaśo) [or](vā) [even](api) [union-with-brahman](brahma+sāyujyam) [one-attains](āpnuyāt)
+[gṛhītvā](gṛhītvā) [kīkaśaḥ](kīkaśo) [vā](vā) [api](api) [brahma-sāyujyam](brahmasāyujyam) [āpnuyāt](āpnuyāt)
 
 ## mukta-m0-p14-v334
-[that+food](tat+annaṃ) [by-brahmins](brāhmaṇaiḥ) [to-be-taken](grāhyam) [even](api) [by-those-who-have-reached-the-end-of-vedanta](vedānta+pāragaiḥ)
+[tat-annam](tadannaṃ) [brāhmaṇaiḥ](brāhmaṇair) [grāhyam](grāhyam) [api](api) [vedānta-pāragaiḥ](vedāntapāragaiḥ)
 
 ## mukta-m0-p14-v335
-[who](yaḥ) [impure+thought](aśuddha+buddhiṃ) [makes](kurute) [he](sa) [great+sinner](mahā+pātakī) [becomes](bhavet)
+[yaḥ](yo) [aśuddha-buddhim](aśuddhabuddhiṃ) [kurute](kurute) [saḥ](sa) [mahā-pātakī](mahāpātakī) [bhavet](bhavet)
 
 ## mukta-m0-p14-v336
-[to-the-supreme-brahman](para+brahma) [in-offered](arpite) [indeed](hi) [in-food](anne) [not](na) [one-should-make](kuryāt) [disrespect](avahelanam)
+[para-brahma-arpite](parabrahmārpite) [hi](hi) [anne](anne) [na](na) [kuryāt](kuryād) [avahelanam](avahelanam)
 
 ## mukta-m0-p14-v337
-[food+water+and-so-on](anna+toya+ādikaṃ) [O-fair-one](bhadre) [ancestors](pitṝn) [they](te) [cause-to-fall](pātayanti) [down](adhaḥ)
+[anna-toya-ādikam](annatoyādikaṃ) [bhadre](bhadre) [pitṝn](pitṝṃs) [te](te) [pātayanti](pātayanty) [adhaḥ](adhaḥ)
 
 ## mukta-m0-p14-v338
-[of-those-who-hate-food-offering-made-over-to-brahman](brahmasāt+kṛta+naivedya+dveṣṭṝṇāṃ) [not](na) [is](asti) [expiation](niṣkṛtiḥ)
+[brahma-sāt-kṛta-naivedya-dveṣṭṝṇām](brahmasātkṛtanaivedyadveṣṭṝṇāṃ) [na](na) [asti](asti) [niṣkṛtiḥ](niṣkṛtiḥ)
 
 ## mukta-m0-p14-v339
-[acting-according-to-one's-own-will](svecchā+ācāraḥ) [here](atra) [enjoined](vihito) [of-the-great-mantra](mahā+mantrasya) [in-practice](sādhane)
+[sva-icchā-ācāraḥ](svecchācāro) [atra](atra) [vihitaḥ](vihito) [mahā-mantrasya](mahāmantrasya) [sādhane](sādhane)
 
 ## mukta-m0-p14-v340
-[where-etcetera](yatra+ityādi) [nectar](amṛtam) [liquor](śīdhu) [a-morsel](kīkaśo) [or](vā) [even](api) [outcaste](cāṇḍālaḥ) [even](api)
+[yatra-ity-ādi](yatretyādi) [amṛtam](amṛtam) [śīdhu](śīdhu) [kīkaśaḥ](kīkaśo) [vā](vā) [api](api) [cāṇḍālaḥ](cāṇḍālo) [api](api)
 
 ## mukta-m0-p14-v341
-[contemplated](bhāvitaṃ) [thought](cintitaṃ) [to-brahman](brahmaṇe) [offered](arpitam) [thus](iti) [meaning](arthaḥ)
+[bhāvitam](bhāvitaṃ) [cintitam](cintitaṃ) [brahmaṇe](brahmaṇe) [arpitam](arpitam) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p14-v342
-[impotent](klīvaṃ) [a-little](manāk) [O-beloved](priye) [thus](iti) [Amara](amaraḥ) [disrespect](avahelanam) [contempt](tiraskāram)
+[klīvam](klīvaṃ) [manāk](manāk) [priye](priye) [iti](iti) [amaraḥ](amaraḥ) [avahelanam](avahelanam) [tiraskāram](tiraskāram)
 
 ## mukta-m0-p14-v343
-[until-the-time-of-dissolution](pralaya+kāla+paryantam) [thus](iti) [meaning](arthaḥ) [expiation](niṣkṛtiḥ) [deliverance](nistāraḥ)
+[pralaya-kāla-paryantam](pralayakālaparyantam) [iti](iti) [arthaḥ](arthaḥ) [niṣkṛtiḥ](niṣkṛtir) [nistāraḥ](nistāraḥ)
 
 ## mukta-m0-p14-v344
-[as-if](iva) [acting](ācaranti) [thus](iti) [meaning](arthaḥ)
+[iva](iva) [ācaranti](ācarantīty) [iti](iti) [arthaḥ](arthaḥ)
 
 ## mukta-m0-p14-v345
-[of-one-established-in-brahman](brahma+niṣṭhasya) [of-the-knower](viduṣaḥ) [acting-according-to-one's-own-will](svecchā+ācāraḥ) [rule](vidhiḥ) [remembered](smṛtaḥ)
+[brahma-niṣṭhasya](brahmaniṣṭhasya) [viduṣaḥ](viduṣaḥ) [sva-icchā-ācāraḥ](svecchācāro) [vidhiḥ](vidhiḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p14-v346
-[not](na) [obstacle](vighnaḥ) [transgression](pratyavāyaḥ) [of-him](asya) [from-practice-of-the-brahman-mantra](brahma+mantrasya) [from-accomplishment](sādhanāt)
+[na](na) [vighnaḥ](vighnaḥ) [pratyavāyaḥ](pratyavāyo) [asya](asya) [brahma-mantrasya](brahmamantrasya) [sādhanāt](sādhanāt)
 
 ## mukta-m0-p14-v347
-[in-benefiting-others](para+upakāra) [devoted](nirato) [unchanging](nirvikāraḥ) [ever](sadā) [minded](āśayaḥ)
+[para-upakāra-nirataḥ](paropakāranirato) [nirvikāraḥ](nirvikāraḥ) [sadā-āśayaḥ](sadāśayaḥ)
 
 ## mukta-m0-p14-v348
-[of-mother-and-father](mātā+pitroḥ) [causing-delight](prīti+kārī) [of-them](tayoḥ) [intent-on-service](sevana+tatparaḥ)
+[mātā-pitroḥ](mātāpitroḥ) [prīti-kārī](prītikārī) [tayoḥ](tayoḥ) [sevana-tatparaḥ](sevanatatparaḥ)
 
 ## mukta-m0-p14-v349
-[self-controlled](yata+ātmā) [firm-minded](dṛḍha+buddhiḥ) [one-should-be](syāt) [directly](sākṣāt) [brahman](brahma) [thus](iti) [contemplating](bhāvayan)
+[yata-ātmā](yatātmā) [dṛḍha-buddhiḥ](dṛḍhabuddhiḥ) [syāt](syāt) [sākṣāt](sākṣād) [brahma](brahma) [iti](iti) [bhāvayan](bhāvayan)
 
 ## mukta-m0-p14-v350
-[going-to-another's-wife](para+strī+gamanañ) [and](ca) [indeed](eva) [practitioner-of-brahman-mantra](brahma+mantrī) [should-avoid](vivarjayet)
+[para-strī-gamanam](parastrīgamanañ) [ca](ca) [eva](eva) [brahma-mantrī](brahmamantrī) [vivarjayet](vivarjayet)

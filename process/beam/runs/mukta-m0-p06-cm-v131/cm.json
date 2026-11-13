@@ -3,39 +3,89 @@
  "verse": 131,
  "rows": [
   {
-   "lemma": "sarvayoginī",
-   "morph": "f.nom.sg",
-   "grounds": "the totality of yoginīs"
+   "lemma": "tad",
+   "morph": "n.nom.sg (tad)",
+   "grounds": "that view"
   },
   {
-   "lemma": "tatrasthā",
-   "morph": "f.nom.sg",
-   "grounds": "located in that state or place"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "sarve",
-   "morph": "m.nom.pl",
-   "grounds": "the entirety"
+   "lemma": "ayuktam",
+   "morph": "n.nom.sg (compound tad+ayukta)",
+   "grounds": "not fitting"
   },
   {
-   "lemma": "siddhāś",
-   "morph": "m.nom.pl",
-   "grounds": "accomplished ones; sandhi form of siddhāḥ"
+   "lemma": "jaḍatve",
+   "morph": "n.loc.sg (jaḍatva)",
+   "grounds": "in the state of being insentient"
   },
   {
-   "lemma": "ca",
+   "lemma": "tasya",
+   "morph": "m.gen.sg (tad)",
+   "grounds": "of that subject"
+  },
+  {
+   "lemma": "ghaṭa",
+   "morph": "m.stem (compound member)",
+   "grounds": "example of insentient thing"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "ādi",
+   "morph": "stem (compound member)",
+   "grounds": "and similar things"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "vat",
+   "morph": "(indecl., compound member)",
+   "grounds": "in the manner of"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "jñāna",
+   "morph": "n.stem (compound member)",
+   "grounds": "cognition"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "samavāya",
+   "morph": "m.stem (compound member)",
+   "grounds": "inseparable relation"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "ayogāt",
+   "morph": "m.abl.sg (compound jñāna+samavāya+ayoga)",
+   "grounds": "because of non-connection"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
-  },
-  {
-   "lemma": "tatra",
-   "morph": "(indecl.)",
-   "grounds": "in that same locus"
-  },
-  {
-   "lemma": "vai",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "conclusion marker"
   }
  ]
 }

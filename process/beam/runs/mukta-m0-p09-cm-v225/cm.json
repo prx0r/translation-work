@@ -3,24 +3,49 @@
  "verse": 225,
  "rows": [
   {
-   "lemma": "tena+añjita+locanaḥ+tu",
-   "morph": "compound = member+membership",
-   "grounds": "fused form as given; internal sandhi unresolved by editor; compound structure marked by + with no split into separate rows"
+   "lemma": "ābhyo",
+   "morph": "f.abl.pl",
+   "grounds": "abl.pl.f. of idam; refers anaphorically to the guṇavṛttis named in v223–v224."
   },
   {
-   "lemma": "adṛśyo",
-   "morph": "m.nom.sg",
-   "grounds": "adjectival form in predicate position; analyzed as fused form given"
+   "lemma": "bhinnā",
+   "morph": "f.nom.pl",
+   "grounds": "predicative of vṛttayaḥ; marks ontological distinction from the referent ābhyaḥ."
   },
   {
-   "lemma": "bhavati",
-   "morph": "3.sg.act.pres/root-bhū",
-   "grounds": "present predication linking subject to adṛśya state"
-  },
-  {
-   "lemma": "dhruvam",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "modal adverbial emphasizing inevitability of the predicated state"
+   "grounds": "negation; scopes over bhinnā in this clause."
+  },
+  {
+   "lemma": "mūlasya",
+   "morph": "n.gen.sg",
+   "grounds": "gen.sg. of mūla; marks the ontological source from which vṛttayaḥ would derive."
+  },
+  {
+   "lemma": "vṛttayo",
+   "morph": "f.nom.pl",
+   "grounds": "nom.pl. of vṛtti; technical in this passage as the derived modes under discussion."
+  },
+  {
+   "lemma": "’to",
+   "morph": "(indecl.)",
+   "grounds": "contraction of atas; inferential marker linking the preceding negation to the following clause."
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation; scopes over santi."
+  },
+  {
+   "lemma": "santi",
+   "morph": "3.pl.pres.act/as",
+   "grounds": "3.pl.pres.act. of as; existential predicate of tāḥ."
+  },
+  {
+   "lemma": "tāḥ",
+   "morph": "f.nom.pl",
+   "grounds": "f.nom.pl. of tad; anaphoric to vṛttayaḥ."
   }
  ]
 }

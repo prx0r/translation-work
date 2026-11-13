@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "ābhyo",
+     "gloss": "from-these",
+     "grounds": "abl.pl.f. of idam; refers anaphorically to the guṇavṛttis named in v223–v224.",
+     "morph": "f.abl.pl"
+    },
+    {
+     "surface": "bhinnā",
+     "gloss": "separate",
+     "grounds": "predicative of vṛttayaḥ; marks ontological distinction from the referent ābhyaḥ.",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation; scopes over bhinnā in this clause.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlasya",
+     "gloss": "of-root",
+     "grounds": "gen.sg. of mūla; marks the ontological source from which vṛttayaḥ would derive.",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vṛttayo",
+     "gloss": "modifications",
+     "grounds": "nom.pl. of vṛtti; technical in this passage as the derived modes under discussion.",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "’to",
+     "gloss": "therefore",
+     "grounds": "contraction of atas; inferential marker linking the preceding negation to the following clause.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation; scopes over santi.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santi",
+     "gloss": "exist",
+     "grounds": "3.pl.pres.act. of as; existential predicate of tāḥ.",
+     "morph": "3.pl.pres.act/as"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "they",
+     "grounds": "f.nom.pl. of tad; anaphoric to vṛttayaḥ.",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "On what ontological ground must the modifications in question be denied existence rather than denied mere distinction from their source?",
+   "premises": [
+    "The modifications are not distinct from those modes specified in the preceding verses.",
+    "Modifications are only posited in relation to a root as their source.",
+    "If no distinct modifications of the root are admitted, no such modifications can exist."
+   ],
+   "inference": "Since the modifications are not distinct from the previously named modes and cannot stand as distinct from the root, they do not exist.",
+   "uncertainties": [
+    "The precise anaphoric reach of ābhyaḥ depends strictly on v223–v224 and is not recoverable from this verse alone."
+   ],
+   "plain_english": "The modifications are not distinct from these; therefore, as modifications distinct from the root, they do not exist."
+  }
+ ]
+}

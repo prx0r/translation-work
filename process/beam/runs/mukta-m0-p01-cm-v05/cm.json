@@ -3,14 +3,24 @@
  "verse": 5,
  "rows": [
   {
-   "lemma": "svarūpa+lābha+sulābhaḥ",
-   "morph": "m.nom.sg, compound svarūpa+lābha+sulabha",
-   "grounds": "easily obtained through the attainment of one's own nature"
+   "lemma": "jñāna",
+   "morph": "compound:jñāna",
+   "grounds": "cognition; compound first member"
   },
   {
-   "lemma": "sambandhaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "connection or relation"
+   "lemma": "+kriye",
+   "morph": "f.acc.du",
+   "grounds": "activity; compound final member"
+  },
+  {
+   "lemma": "maheśasya",
+   "morph": "m.gen.sg",
+   "grounds": "of the supreme lord"
+  },
+  {
+   "lemma": "parityajya",
+   "morph": "(indecl.);gerund;√tyaj",
+   "grounds": "leaving aside"
   },
   {
    "lemma": "na",
@@ -18,14 +28,9 @@
    "grounds": "negation"
   },
   {
-   "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle giving reason"
-  },
-  {
-   "lemma": "avastunaḥ",
-   "morph": "n.gen.sg",
-   "grounds": "of that which is not a real entity"
+   "lemma": "kāraṇam",
+   "morph": "n.nom.sg",
+   "grounds": "causal factor"
   }
  ]
 }

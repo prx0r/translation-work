@@ -1,0 +1,87 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "ato",
+     "gloss": "therefore",
+     "grounds": "conclusive particle drawing inference from prior argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+'nyathā",
+     "gloss": "otherwise",
+     "grounds": "indicates the contrary alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+anupapattyā",
+     "gloss": "by-impossibility",
+     "grounds": "reasoning from the untenability of the alternative",
+     "morph": "f.sg.inst"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound describing the supreme lord",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+ātiśaya",
+     "gloss": "excellence",
+     "grounds": "second member of compound indicating surpassing degree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+yuktaḥ",
+     "gloss": "endowed-with",
+     "grounds": "qualifies parameśvara as possessing excellence of knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "identified as the sole agent in question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "restrictive particle excluding other causes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udrede",
+     "gloss": "in-intensification",
+     "grounds": "locative referring to the arising or increase mentioned in prior context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "refers back to the intensification or power under discussion",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "predicate identifying the supreme lord as the cause",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What establishes the supreme lord alone as the cause of that intensification?",
+   "premises": [
+    "No cause other than the great lord exists for that intensification.",
+    "Any alternative explanation is impossible.",
+    "The supreme lord is endowed with excellence of knowledge."
+   ],
+   "inference": "Therefore, only the supreme lord endowed with excellence of knowledge is the cause of that intensification.",
+   "uncertainties": [
+    "The exact referent of tasyāḥ is inferred from the preceding verse's discussion of intensification."
+   ],
+   "plain_english": "Therefore, because any other explanation is impossible, only the supreme lord, endowed with supreme knowledge, is the cause of that intensification."
+  }
+ ]
+}

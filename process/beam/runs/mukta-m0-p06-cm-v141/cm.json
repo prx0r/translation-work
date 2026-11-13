@@ -3,39 +3,84 @@
  "verse": 141,
  "rows": [
   {
-   "lemma": "bauddhā",
-   "morph": "m.nom.pl",
-   "grounds": "followers of the Buddha"
+   "lemma": "śaurya",
+   "morph": "n.stem (compound member)",
+   "grounds": "courage"
   },
   {
-   "lemma": "rahantāś",
-   "morph": "m.nom.pl",
-   "grounds": "Arhats; archaic or variant form"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "lemma": "krauryā",
+   "morph": "n.stem (compound member)",
+   "grounds": "harshness"
   },
   {
-   "lemma": "ye",
-   "morph": "m.nom.pl",
-   "grounds": "relative pronoun"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "kecit",
-   "morph": "m.nom.pl",
-   "grounds": "some or whoever"
+   "lemma": "dīnāṃ",
+   "morph": "n.gen.pl (compound śaurya+kraurya+ādi)",
+   "grounds": "and similar effects"
   },
   {
-   "lemma": "somasiddhānta",
-   "morph": "compound",
-   "grounds": "in the Soma-siddhānta tradition; compound form"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "dakṣiṇāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "southern adherents or right-hand followers"
+   "lemma": "arati",
+   "morph": "f.stem (compound member)",
+   "grounds": "dissatisfaction"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "māndyā",
+   "morph": "n.stem (compound member)",
+   "grounds": "sluggishness"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "dīnāṃ",
+   "morph": "n.gen.pl (compound arati+māndya+ādi)",
+   "grounds": "and similar effects"
+  },
+  {
+   "lemma": "guṇa",
+   "morph": "m.stem (compound member)",
+   "grounds": "guṇa"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "kāryāṇām",
+   "morph": "n.gen.pl (compound guṇa+kārya)",
+   "grounds": "of products"
+  },
+  {
+   "lemma": "āgameṣu",
+   "morph": "m.loc.pl (āgama)",
+   "grounds": "in authoritative teachings"
+  },
+  {
+   "lemma": "śravaṇāt",
+   "morph": "n.abl.sg (śravaṇa)",
+   "grounds": "because of being heard"
   }
  ]
 }

@@ -3,39 +3,49 @@
  "verse": 140,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "sattvaṃ",
+   "morph": "n.nom.sg (sattva)",
+   "grounds": "quality of clarity"
+  },
+  {
+   "lemma": "rajas",
+   "morph": "n.nom.sg (rajas)",
+   "grounds": "quality of activity"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "tamas",
+   "morph": "n.nom.sg (tamas)",
+   "grounds": "quality of inertia"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "vidanti",
-   "morph": "3.pl.present-active",
-   "grounds": "they recognize or perceive"
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "enumeration marker"
   },
   {
-   "lemma": "padaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "the supreme abode or condition"
+   "lemma": "kāraṇāni",
+   "morph": "n.nom.pl (kāraṇa)",
+   "grounds": "causal factors"
   },
   {
-   "lemma": "śāntaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "tranquil and quiescent"
+   "lemma": "dhiyo",
+   "morph": "f.gen.sg (dhī)",
+   "grounds": "of the intellect"
   },
   {
-   "lemma": "kaivalyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "the state of aloneness or liberation"
-  },
-  {
-   "lemma": "niṣkriyaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "free from activity"
-  },
-  {
-   "lemma": "gurum",
-   "morph": "n.acc.sg",
-   "grounds": "weighty, supreme, or guru-principle; form as given"
+   "lemma": "guṇāḥ",
+   "morph": "m.nom.pl (guṇa)",
+   "grounds": "the guṇas"
   }
  ]
 }

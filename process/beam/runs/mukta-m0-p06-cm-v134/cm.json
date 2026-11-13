@@ -3,44 +3,49 @@
  "verse": 134,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "prayoktṛ",
+   "morph": "n.stem (compound member)",
+   "grounds": "the one who employs"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "karaṇaṃ",
+   "morph": "n.nom.sg (compound prayoktṛ+karaṇa)",
+   "grounds": "means of action"
+  },
+  {
+   "lemma": "bhogye",
+   "morph": "n.loc.sg (bhogya)",
+   "grounds": "in the object of experience"
+  },
+  {
+   "lemma": "rañjakaṃ",
+   "morph": "n.nom.sg (rañjaka)",
+   "grounds": "that which colors or attracts"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "hṛdi",
-   "morph": "n.loc.sg",
-   "grounds": "in the heart center"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "na",
+   "lemma": "upari",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "beyond or in addition"
   },
   {
-   "lemma": "nābhi",
-   "morph": "f.loc.sg",
-   "grounds": "in the navel region; form as given"
-  },
-  {
-   "lemma": "kaṇṭhe",
-   "morph": "m.loc.sg",
-   "grounds": "in the throat center"
-  },
-  {
-   "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "alternative particle"
-  },
-  {
-   "lemma": "vaktre",
-   "morph": "n.loc.sg",
-   "grounds": "in the mouth or face"
-  },
-  {
-   "lemma": "ghaṇṭikarandhrayoḥ",
-   "morph": "n.loc.dual",
-   "grounds": "in the apertures associated with the uvula or cranial openings"
+   "lemma": "trayam",
+   "morph": "n.nom.sg (traya)",
+   "grounds": "group of three"
   }
  ]
 }

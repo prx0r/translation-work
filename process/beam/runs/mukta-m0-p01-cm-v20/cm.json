@@ -3,39 +3,44 @@
  "verse": 20,
  "rows": [
   {
-   "lemma": "tat",
+   "lemma": "svatantraṃ",
    "morph": "n.nom.sg",
-   "grounds": "that same state or principle"
+   "grounds": "self-dependent"
   },
   {
-   "lemma": "eva",
+   "lemma": "kārya",
+   "morph": "compound:kārya",
+   "grounds": "compound first member"
+  },
+  {
+   "lemma": "+kṛd",
+   "morph": "n.nom.sg",
+   "grounds": "producing; compound final member"
+  },
+  {
+   "lemma": "yasmān",
    "morph": "(indecl.)",
-   "grounds": "emphatic identity"
+   "grounds": "since"
   },
   {
-   "lemma": "īśvara+tattvaṃ",
-   "morph": "n.nom.sg, compound īśvara+tattva",
-   "grounds": "the principle known as Īśvara-tattva"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
   },
   {
-   "lemma": "syāt",
-   "morph": "3.sg.act-opt, √as",
-   "grounds": "is to be understood as"
-  },
-  {
-   "lemma": "paśyat",
+   "lemma": "upādānam",
    "morph": "n.nom.sg",
-   "grounds": "perceiving or beholding"
+   "grounds": "substantial cause"
   },
   {
-   "lemma": "viśvam",
-   "morph": "n.acc.sg",
-   "grounds": "the totality of the world"
+   "lemma": "acit",
+   "morph": "n.nom.sg",
+   "grounds": "non-conscious"
   },
   {
-   "lemma": "idantayā",
-   "morph": "f.ins.sg",
-   "grounds": "by the sense of this"
+   "lemma": "kvacit",
+   "morph": "(indecl.)",
+   "grounds": "in any case"
   }
  ]
 }

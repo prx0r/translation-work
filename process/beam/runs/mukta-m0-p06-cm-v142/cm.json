@@ -3,29 +3,59 @@
  "verse": 142,
  "rows": [
   {
-   "lemma": "itihāsa",
-   "morph": "compound",
-   "grounds": "historical and epic narratives; compound member"
+   "lemma": "acaitanye",
+   "morph": "n.loc.sg (acaitanya)",
+   "grounds": "in what is not conscious"
   },
   {
-   "lemma": "purāṇāni",
-   "morph": "n.nom.pl",
-   "grounds": "ancient sacred narratives"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "bhūtatattvañ",
-   "morph": "n.nom.sg",
-   "grounds": "the doctrine of elements and principles; sandhi form"
-  },
-  {
-   "lemma": "ca",
+   "lemma": "’py",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "even"
   },
   {
-   "lemma": "gāruḍam",
-   "morph": "n.nom.sg",
-   "grounds": "the Gāruḍa tradition or lore"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "anekatva",
+   "morph": "n.stem (compound member)",
+   "grounds": "state of being many"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "saṃkhyā",
+   "morph": "f.stem (compound member)",
+   "grounds": "count"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "saṃbandha",
+   "morph": "m.stem (compound member)",
+   "grounds": "relation"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "hetutaḥ",
+   "morph": "(indecl., compound anekatva+saṃkhyā+saṃbandha+hetu)",
+   "grounds": "because of causation"
   }
  ]
 }

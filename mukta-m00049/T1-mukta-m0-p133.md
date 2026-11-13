@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p133-v3301
-[thus](tathā) [to+the+gods+having+been+worshipped](pūjitadevebhyo) [having+given](dattvā) [the+rite](karma) [should+complete](samāpayet)
+[thus](tathā) [to-the-worshipped+gods](pūjita+devebhyo) [having-given](dattvā) [rite](karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p133-v3302
-[by+this+alone](anenaiva) [of+the+planets](grahāṇām) [sacrifice](yajñaḥ) [also](api) [has+been+prescribed](vihitaḥ) [O+beloved](priye)
+[by-this+indeed](anena+eva) [of-planets+and](grahāṇām+ca) [sacrifice+also](yajñaḥ+api) [prescribed](vihitaḥ) [o-beloved](priye)
 
 ## mukta-m0-p133-v3303
-[after+the+resolve](saṅkalpānantaraṃ) [to+be+done](kāryam) [the+worship+of+the+site](vāstvarcanam) [thus](iti) [the+sequence](kramaḥ)
+[after-resolution](saṅkalpa+anantaraṃ) [to-be-done](kāryaṃ) [vāstu+worship](vāstu+arcanam) [thus](iti) [procedure](kramaḥ)
 
 ## mukta-m0-p133-v3304
-[of+the+planets](grahāṇām) [the+yantra](yantram) [and+the+mantra](mantrau) [meditation](dhyānam) [before](prāgeva) [has+been+declared](kīrtitam)
+[of-planets](grahāṇāṃ) [diagram+and-mantras](yantra+mantrau) [and](ca) [meditation](dhyānaṃ) [before+indeed](prāk+eva) [declared](kīrtitam)
 
 ## mukta-m0-p133-v3305
-[now](atha) [of+the+rites+undertaken](prastutakṛtyānām) [is+declared](ucyate) [the+preparation+of+the+well](kūpasaṃskriyā)
+[now](atha) [of-present+rites](prastuta+kṛtyānām) [is-stated](ucyate) [well+consecration](kūpa+saṃskriyā)
 
 ## mukta-m0-p133-v3306
-[having+sacrificed](iṣṭvā) [having+worshipped](pūjayitvā) || [146](146)
+[having-sacrificed](iṣṭvā) [having-worshipped](pūjayitvā) [146](|| 146)
 
 ## mukta-m0-p133-v3307
-[the+ācārya](ācarya) [having+appointed](vidhāya)
+[having-invited-the-priest](ācarya) [having-performed](vidhāya)
 
 ## mukta-m0-p133-v3308
-[to+that](tasmai) [to+the+vāstu+daemon](vāstudaityāya)
+[to-that](tasmai) [vāstu+demon](vāstu+daityāya)
 
 ## mukta-m0-p133-v3309
-[in+a+maṇḍala](maṇḍale) [in+a+jar](kalaśe) [or+also](vāpi) [on+a+śālagrāma](śālagrāme) [according+to+ability](yathāmati)
+[in-maṇḍala](maṇḍale) [in-pot](kalaśe) [or+also](vā+api) [in-śālagrāma](śālagrāme) [according-to-understanding](yathā+mati)
 
 ## mukta-m0-p133-v3310
-[Śiva](śivaḥ) [Durgā](durgā) [the+planets](grahāḥ) [and+also](ca) [the+guardians+of+the+quarters](dikpatayaḥ) [thus](tathā)
+[Śiva](śivo) [Durgā](durgā) [planets+and+also](grahāḥ+ca+api) [to-be-worshipped](pūjyā) [guardians-of-directions+likewise](dik+patayaḥ+tathā)
 
 ## mukta-m0-p133-v3311
-[pre-eminence](prādhānyam) [to+Varuṇa](varuṇasya) [here](atra) [he](saḥ) [is+to+be+worshipped](pūjyaḥ) [especially](viśeṣataḥ)
+[primacy](prādhānyaṃ) [of-Varuṇa](varuṇasya) [here](atra) [he](sa) [indeed](hi) [to-be-worshipped](pūjyo) [especially](viśeṣataḥ)
 
 ## mukta-m0-p133-v3312
-[according+to+rule](vidhivat) [in+the+fire+prepared](saṃskṛte) [in+the+fire](vahnau) [a+Varuṇa+offering](vāruṇam) [should+perform](homam) [ācaret](ācaret)
+[according-to-rule](vidhi+vat) [in-consecrated](saṃskṛte) [fire](vahnau) [for-Varuṇa](vāruṇaṃ) [oblation](homam) [one-should-perform](ācaret)
 
 ## mukta-m0-p133-v3313
-[with+the+rite+ending+in+the+full+offering](pūrṇāhutyantakṛtyena) [the+fire+rite](homakarma) [should+complete](samāpayet)
+[with-final-offering+ending+rite](pūrṇa+āhuti+anta+kṛtyena) [oblation+rite](homa+karma) [one-should-complete](samāpayet)
 
 ## mukta-m0-p133-v3314
-[with+the+sprinkling+mantra+stated](uktaprokṣaṇamantreṇa) [should+sprinkle](prokṣayet) [the+excellent+well](kūpam) [uttamam](uttamam)
+[with-stated+sprinkling+mantra](ukta+prokṣaṇa+mantreṇa) [one-should-sprinkle](prokṣayet) [well](kūpam) [excellent](uttamam)
 
 ## mukta-m0-p133-v3315
-[for+the+gratification+of+all+beings](sarvabhūtaprīṇanāya) [should+release](utsṛjet) [the+well+water+reservoir](kūpajalāśayam)
+[for-all+beings+satisfaction](sarva+bhūta+prīṇanāya) [one-should-release](utsṛjet) [well+water+reservoir](kūpa+jalā+āśayam)
 
 ## mukta-m0-p133-v3316
-[may+be+well+pleased](suprīyantām) [all+beings](sarvabhūtāḥ) [dwelling+in+the+sky](nabhobhūta) [and+in+water](yavāsinaḥ)
+[may-be-well-pleased](suprīyantāṃ) [all+beings](sarva+bhūtā) [sky+earth+water+dwellers](nabhaḥ+bhū+toya+vāsinaḥ)
 
 ## mukta-m0-p133-v3317
-[may+be+satisfied](tṛpyantu) [all+beings](sarvabhūtāni) [by+bathing](snāna) [by+drinking](pāna) [and+by+immersion](avagāhanaiḥ)
+[may-be-satisfied](tṛpyantu) [all+beings](sarva+bhūtāni) [by-bathing+drinking+immersion](snāna+pāna+avagāhanaiḥ)
 
 ## mukta-m0-p133-v3318
-[those](ye) [and](ca) [whoever](kecid) [perish](vipadyante) [by+the+fruit+of+their+own+actions](svasvakarmavipākataḥ)
+[who](ye) [and](ca) [any](kecid) [perish](vipadyante) [by-own+own+action+result](sva+sva+karma+vipākataḥ)
 
 ## mukta-m0-p133-v3319
-[the+sequence+of+the+well+consecration](kūpasaṃskārakramam) [alone](eva) [has+said](āha) [with+“resolve”+etc.](saṃkalpamityādibhiḥ) || [154](154)
+[well+consecration+procedure+indeed](kūpa+saṃskāra+kramam+eva) [states](āha) [with-resolution+thus+etc](saṃkalpam+iti+ādibhiḥ) [154](|| 154)
 
 ## mukta-m0-p133-v3320
-[thereafter](tatastu) [having+given+dakṣiṇā](dakṣiṇām) [kṛtvā](kṛtvā) [one+who+has+performed+the+rite+of+peace+etc.](kṛtaśāntyādikakriyaḥ)
+[then+indeed](tataḥ+tu) [fee](dakṣiṇāṃ) [having-given](kṛtvā) [done+pacification+etc+rites](kṛta+śānti+ādi+ka+kriyaḥ)
 
 ## mukta-m0-p133-v3321
-[in+the+consecration+of+water+reservoirs](jalāśayapratiṣṭhāsu) [everywhere](sarvatra) [this](eṣaḥ) [sequence](kramaḥ) [O+auspicious+one](śive)
+[in-water+reservoir+installations](jalā+āśaya+pratiṣṭhāsu) [everywhere](sarvatra) [this](eṣa) [procedure](kramaḥ) [o-Śiva](śive)
 
 ## mukta-m0-p133-v3322
-[in+a+reservoir+etc.](taḍāgādau) [and](ca) [to+be+made](kartavyāḥ) [serpents](nāga) [pillars](stambha) [and+water-dwellers](jalecarāḥ)
+[in-tank+etc](taḍāga+ādau) [and](ca) [to-be-made](kartavyā) [nāga+pillar+water+creatures](nāga+stambha+jala+carāḥ)
 
 ## mukta-m0-p133-v3323
-[to+be+made](kāryāḥ) [of+metal](dhātumayāḥ) [and+these](caete) [according+to+the+means+of+the+doer](kartṛvittānusārataḥ)
+[to-be-made](kāryā) [metal+made+and+these](dhātu+mayāḥ+ca+ete) [according-to-doer+wealth](kartṛ+vitta+anusārataḥ)
 
 ## mukta-m0-p133-v3324
-[of+gold](rājatau) [makaras](makarau) [tortoises](kūrmam) [a+pair](mithunam) [of+copper](tāmra) [and+rinti](rintikam)
+[silver](rājatau) [two-makaras](makarau) [tortoise+pair](kūrma+mithunaṃ) [copper](tāmra) [fish](rintikam)
 
 ## mukta-m0-p133-v3325
-[the+ocean](sāgaram) [and](ca) [having+offered](samutsṛjya) [praying](prārthayan) [the+serpent](nāgam) [should+worship](arcayet)
+[ocean+and](sāgaram+ca) [having-released](samutsṛjya) [praying](prārthayan) [nāga](nāgam) [one-should-worship](arcayet)

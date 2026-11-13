@@ -3,34 +3,59 @@
  "verse": 12,
  "rows": [
   {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
+   "lemma": "saṃbandha",
+   "morph": "compound:saṃbandha",
+   "grounds": "compound first member"
   },
   {
-   "lemma": "hi",
-   "morph": "(indecl.)",
-   "grounds": "emphatic particle giving reason"
+   "lemma": "+mātrasya",
+   "morph": "n.gen.sg",
+   "grounds": "only; compound final member"
   },
   {
-   "lemma": "vaikartanaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "the sun, born of Vikarṭana"
+   "lemma": "bhāvāt",
+   "morph": "m.abl.sg",
+   "grounds": "due to presence"
   },
   {
-   "lemma": "jyotiḥ",
-   "morph": "n.nom.sg",
-   "grounds": "radiant light"
+   "lemma": "kalā",
+   "morph": "compound:kalā",
+   "grounds": "compound first member"
   },
   {
-   "lemma": "dīpa+ālokam",
-   "morph": "m.acc.sg, compound dīpa+āloka",
-   "grounds": "the light of a lamp"
+   "lemma": "+ādi",
+   "morph": "compound:ādi",
+   "grounds": "compound member"
   },
   {
-   "lemma": "apekṣate",
-   "morph": "3.sg.mid-pres, √īkṣ with apa",
-   "grounds": "depends on or needs"
+   "lemma": "+kārya",
+   "morph": "compound:kārya",
+   "grounds": "compound member"
+  },
+  {
+   "lemma": "+kāraṇa",
+   "morph": "compound:kāraṇa",
+   "grounds": "compound member"
+  },
+  {
+   "lemma": "+utpāde",
+   "morph": "m.loc.sg",
+   "grounds": "in arising; compound final member"
+  },
+  {
+   "lemma": "sati",
+   "morph": "m.loc.sg",
+   "grounds": "when present"
+  },
+  {
+   "lemma": "+anirmokṣa",
+   "morph": "compound:anirmokṣa",
+   "grounds": "compound first member"
+  },
+  {
+   "lemma": "+prasaṅgaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "undesirable entailment; compound final member"
   }
  ]
 }

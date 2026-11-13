@@ -3,34 +3,54 @@
  "verse": 149,
  "rows": [
   {
-   "lemma": "viṣākhyo",
-   "morph": "m.nom.sg",
-   "grounds": "Viśākha; sandhi form of viṣākhyaḥ"
+   "lemma": "aneka",
+   "morph": "stem (compound member)",
+   "grounds": "multiple"
   },
   {
-   "lemma": "mayūrākṣa",
-   "morph": "m.nom.sg",
-   "grounds": "Mayūrākṣa"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "ye",
-   "morph": "m.nom.pl",
-   "grounds": "relative pronoun"
+   "lemma": "tattva",
+   "morph": "n.stem (compound member)",
+   "grounds": "categories of reality"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "parikalpanā",
+   "morph": "f.stem (compound member)",
+   "grounds": "conceptual assumption"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "abhāva",
+   "morph": "m.stem (compound member)",
+   "grounds": "non-existence"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "prasaṅgāt",
+   "morph": "m.abl.sg (compound aneka+tattva+parikalpanā+abhāva+prasaṅga)",
+   "grounds": "because of unwelcome implication"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
    "grounds": "connective particle"
-  },
-  {
-   "lemma": "ṛṣayas",
-   "morph": "m.nom.pl",
-   "grounds": "sages or ṛṣis"
-  },
-  {
-   "lemma": "tapodhanāḥ",
-   "morph": "m.nom.pl",
-   "grounds": "those whose wealth is austerity"
   }
  ]
 }

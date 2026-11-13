@@ -3,54 +3,64 @@
  "verse": 128,
  "rows": [
   {
-   "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "that knower identified with deities"
+   "lemma": "śivaśaktyā",
+   "morph": "f.ins.sg (compound śiva+śakti)",
+   "grounds": "through the power of Śiva"
   },
   {
-   "lemma": "brahmā",
-   "morph": "m.nom.sg",
-   "grounds": "the creator deity"
+   "lemma": "sarva",
+   "morph": "stem (compound member)",
+   "grounds": "totality"
   },
   {
-   "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "same subject"
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
   },
   {
-   "lemma": "hariś",
-   "morph": "m.nom.sg",
-   "grounds": "Viṣṇu; sandhi form of hariḥ"
+   "lemma": "viṣayo",
+   "morph": "m.nom.sg (compound sarva+viṣaya)",
+   "grounds": "range of objects"
   },
   {
-   "lemma": "caiva",
+   "lemma": "’bhivyajyate",
+   "morph": "3.sg.passive-present (abhi-vi-añj)",
+   "grounds": "is made evident"
+  },
+  {
+   "lemma": "tato",
    "morph": "(indecl.)",
-   "grounds": "emphatic conjunction"
+   "grounds": "for that reason"
   },
   {
-   "lemma": "sa",
-   "morph": "m.nom.sg",
-   "grounds": "same subject"
-  },
-  {
-   "lemma": "rudrañ",
-   "morph": "m.nom.sg",
-   "grounds": "Rudra; sandhi form of rudraḥ/ca"
-  },
-  {
-   "lemma": "caive",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "emphatic conjunction with sandhi"
+   "grounds": "negation"
   },
   {
-   "lemma": "śvaras",
-   "morph": "m.nom.sg",
-   "grounds": "the Lord; sandhi form of īśvaraḥ"
+   "lemma": "asya",
+   "morph": "m.gen.sg (idam)",
+   "grounds": "of that subject"
   },
   {
-   "lemma": "tathā",
+   "lemma": "vikāro",
+   "morph": "m.nom.sg (vikāra)",
+   "grounds": "change of state"
+  },
+  {
+   "lemma": "vināśitā",
+   "morph": "f.nom.sg (vināśitā)",
+   "grounds": "state of being destroyed"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "in the same way"
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "conclusion marker"
   }
  ]
 }

@@ -3,44 +3,84 @@
  "verse": 136,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "padārtheṣu",
+   "morph": "m.loc.pl (padārtha)",
+   "grounds": "in categories or things"
+  },
+  {
+   "lemma": "vartante",
+   "morph": "3.pl.middle-present (vṛt)",
+   "grounds": "they operate"
+  },
+  {
+   "lemma": "sāttvikā",
+   "morph": "m.nom.pl (sāttvika)",
+   "grounds": "characterized by sattva"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "ādi",
+   "morph": "stem (compound member)",
+   "grounds": "and others"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "vyavahāras",
+   "morph": "m.nom.sg (compound sāttvika+ādi+vyavahāra)",
+   "grounds": "conventional usage"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "contrastive particle"
   },
   {
-   "lemma": "pūrake",
-   "morph": "m.loc.sg",
-   "grounds": "in the inhalation phase of breath"
+   "lemma": "teṣāṃ",
+   "morph": "m.gen.pl (tad)",
+   "grounds": "of those"
   },
   {
-   "lemma": "kumbhake",
-   "morph": "m.loc.sg",
-   "grounds": "in the breath-retention phase"
+   "lemma": "sattva",
+   "morph": "n.stem (compound member)",
+   "grounds": "quality of clarity"
   },
   {
-   "lemma": "caiva",
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "ādi",
+   "morph": "stem (compound member)",
+   "grounds": "and other qualities"
+  },
+  {
+   "lemma": "+",
+   "morph": "(marker)",
+   "grounds": "compound connector"
+  },
+  {
+   "lemma": "bāhulyāt",
+   "morph": "n.abl.sg (compound sattva+ādi+bāhulya)",
+   "grounds": "because of abundance"
+  },
+  {
+   "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "emphatic conjunction"
+   "grounds": "explanation marker"
   },
   {
-   "lemma": "recake",
-   "morph": "m.loc.sg",
-   "grounds": "in the exhalation phase of breath"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "connective particle"
-  },
-  {
-   "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "in the same way"
-  },
-  {
-   "lemma": "punaḥ",
-   "morph": "(indecl.)",
-   "grounds": "furthermore"
+   "lemma": "bhāvaḥ",
+   "morph": "m.nom.sg (bhāva)",
+   "grounds": "the intended sense"
   }
  ]
 }

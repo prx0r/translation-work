@@ -3,24 +3,39 @@
  "verse": 177,
  "rows": [
   {
-   "lemma": "sukha+duḥkhaṃ",
-   "morph": "compound n.nom.sg",
-   "grounds": "compound pair of experiential opposites"
+   "lemma": "nāvyāpako",
+   "morph": "compound: na+avyāpaka (bahuvrīhi, m.nom.sg)",
+   "grounds": "negates omnipresence of the individual self"
   },
   {
-   "lemma": "bhava+abhāvau",
-   "morph": "compound m.nom.du",
-   "grounds": "compound pair of being and non-being"
+   "lemma": "na+kṣaṇiko",
+   "morph": "compound: na+kṣaṇika (bahuvrīhi, m.nom.sg)",
+   "grounds": "negates momentariness; fused form kept as one token"
   },
   {
-   "lemma": "gamana+āgamanaṃ",
-   "morph": "compound n.nom.sg",
-   "grounds": "compound pair of departure and arrival"
+   "lemma": "na+eko",
+   "morph": "compound: na+eka (bahuvrīhi, m.nom.sg)",
+   "grounds": "negates singularity; fused form kept as one token"
   },
   {
-   "lemma": "tathā",
+   "lemma": "na+api",
    "morph": "(indecl.)",
-   "grounds": "indicates continuation of the list"
+   "grounds": "extends negation to the next property; fused form kept as one token"
+  },
+  {
+   "lemma": "jaḍātmakaḥ",
+   "morph": "compound: jaḍa+ātmaka (bahuvrīhi, m.nom.sg)",
+   "grounds": "negates an inert nature for the individual self"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "marks the conclusion of the negations"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "connects this conclusion with the preceding argument"
   }
  ]
 }

@@ -3,24 +3,34 @@
  "verse": 201,
  "rows": [
   {
-   "lemma": "vātsyāyanena",
-   "morph": "m.inst.sg",
-   "grounds": "agent of declaration"
+   "lemma": "karmānuṣṭhānādarśanācca",
+   "morph": "compound: karma+action, anuṣṭhāna+performance, adarśana+non-seeing, ca+conjunction; abl.sg.nt",
+   "grounds": "compound with sandhi: karmānuṣṭhāna + adarśanāt + ca"
   },
   {
-   "lemma": "muninā",
-   "morph": "m.inst.sg",
-   "grounds": "epithet of Vatsyayana"
+   "lemma": "malayuktasyaiva",
+   "morph": "compound: mala+impurity, yukta+endowed, eva+emphatic; gen.sg.m",
+   "grounds": "compound with sandhi: mala + yuktasya + eva"
   },
   {
-   "lemma": "proktaṃ",
-   "morph": "n.nom.sg.past-passive-participle pra+vac",
-   "grounds": "teaching attributed to authority"
+   "lemma": "karmārjanaṃ",
+   "morph": "compound: karma+action, arjana+acquisition; nom.sg.nt",
+   "grounds": "compound: karma + arjanam"
   },
   {
-   "lemma": "yogam+anuttamam",
-   "morph": "m.acc.sg (yoga+head, anuttama+modifier)",
-   "grounds": "object of declaration; compound"
+   "lemma": "tadbhogo",
+   "morph": "compound: tat+its, bhoga+experience; nom.sg.m",
+   "grounds": "compound with sandhi: tat + bhogaḥ"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
+  },
+  {
+   "lemma": "upayujyate",
+   "morph": "3.sg.pass-pres; upa-√yuj",
+   "grounds": "passive verb"
   }
  ]
 }
