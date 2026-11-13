@@ -1,0 +1,704 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative injunction to perform worship",
+     "morph": "3.sg.act-optative √yaj"
+    },
+    {
+     "surface": "nara+viśeṣaṃ",
+     "gloss": "distinguished-man",
+     "grounds": "object of worship; compound of man and special",
+     "morph": "compound nara+viśeṣa, m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+agni+guru+brāhmaṇaiḥ",
+     "gloss": "with-gods-fire-guru-brahmins",
+     "grounds": "companions or recipients in worship; compound in instrumental plural",
+     "morph": "compound deva+agni+guru+brāhmaṇa, m.inst.pl"
+    }
+   ],
+   "question": "Whom must a practitioner worship together with gods, fire, guru, and brahmins?",
+   "premises": [
+    "The verb yajet prescribes an act of worship.",
+    "The object nara+viśeṣaṃ denotes a distinguished man.",
+    "The instrumental compound lists gods, fire, guru, and brahmins as associated parties."
+   ],
+   "inference": "The practitioner should worship a distinguished man along with gods, fire, the guru, and brahmins.",
+   "uncertainties": [
+    "The exact identity or status of the distinguished man is unspecified."
+   ],
+   "plain_english": "One should worship a distinguished man together with the gods, fire, the guru, and brahmins."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "śarāvaṃ",
+     "gloss": "dish",
+     "grounds": "container to be filled",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrayitvā",
+     "gloss": "having-filled",
+     "grounds": "prior action before offering",
+     "morph": "absolutive √pūr"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-crossroads",
+     "grounds": "location for the offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation to be presented",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "should-offer",
+     "grounds": "optative injunction for presenting the offering",
+     "morph": "3.sg.act-optative √hṛ"
+    }
+   ],
+   "question": "Where and how should a ritual offering be presented after filling a dish?",
+   "premises": [
+    "A dish is to be filled as a preparatory act.",
+    "The crossroads is specified as the place of action.",
+    "The verb haret enjoins presenting the offering."
+   ],
+   "inference": "After filling a dish, one should present the offering at a crossroads.",
+   "uncertainties": [
+    "The contents with which the dish is filled are not stated."
+   ],
+   "plain_english": "Having filled a dish, one should indeed offer the oblation at a crossroads."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "ātma+cintita+kāryāṇi",
+     "gloss": "self-conceived-tasks",
+     "grounds": "goals or undertakings thought of by oneself",
+     "morph": "compound ātman+cintita+kārya, n.acc.pl"
+    },
+    {
+     "surface": "sādhayati",
+     "gloss": "accomplishes",
+     "grounds": "states successful completion",
+     "morph": "3.sg.act-present √sādh"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na+anyathā",
+     "gloss": "not-otherwise",
+     "grounds": "excludes alternative outcomes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What outcome follows for tasks conceived by the practitioner through this rite?",
+   "premises": [
+    "The object refers to tasks conceived by oneself.",
+    "The verb sādhayati asserts accomplishment.",
+    "The phrase na+anyathā denies any other result."
+   ],
+   "inference": "The practitioner accomplishes the tasks he has conceived, without exception.",
+   "uncertainties": [],
+   "plain_english": "One indeed accomplishes the tasks one has conceived, and not otherwise."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "saṃmukhībhūya",
+     "gloss": "having-faced",
+     "grounds": "preparatory act of turning toward something",
+     "morph": "absolutive saṃmukhī-√bhū"
+    },
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "prior act of casting or throwing",
+     "morph": "absolutive √kṣip"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "prior act of recitation",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "ca+ayutaṃ",
+     "gloss": "and-ten-thousand",
+     "grounds": "specifies a count of ten thousand recitations",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "?",
+     "gloss": "unknown",
+     "grounds": "unreadable or missing token in source",
+     "morph": "unknown"
+    },
+    {
+     "surface": "vāsare",
+     "gloss": "in-day",
+     "grounds": "time frame for the actions",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What sequence of ritual actions must be performed within a single day?",
+   "premises": [
+    "The verse lists facing, throwing, and chanting as sequential acts.",
+    "A count of ten thousand is specified for chanting.",
+    "The locative vāsare sets the time frame as a day."
+   ],
+   "inference": "Within a day one should face forward, throw, and chant ten thousand times.",
+   "uncertainties": [
+    "The token '?' is unreadable and its referent is unknown.",
+    "The object to be thrown is not specified."
+   ],
+   "plain_english": "Having faced forward, having thrown, and having chanted ten thousand times in a day..."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "madhyāhna+samaye",
+     "gloss": "at-midday-time",
+     "grounds": "specifies the time of practice",
+     "morph": "compound madhyāhna+samaya, m.loc.sg"
+    },
+    {
+     "surface": "sūrya+saṃmukhe",
+     "gloss": "facing-sun",
+     "grounds": "specifies orientation during recitation",
+     "morph": "compound sūrya+saṃmukha, m.loc.sg"
+    },
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "the act of mantra repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction to perform recitation",
+     "morph": "3.sg.act-optative √ā-car"
+    }
+   ],
+   "question": "At what time and in what orientation should mantra recitation be performed?",
+   "premises": [
+    "The time is specified as midday.",
+    "The orientation is specified as facing the sun.",
+    "The verb ācaret enjoins performing recitation."
+   ],
+   "inference": "One should perform recitation at midday while facing the sun.",
+   "uncertainties": [],
+   "plain_english": "At midday, facing the sun, one should perform the recitation."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "refers to the practitioner mentioned previously",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dṛṣṭi+nipātena",
+     "gloss": "by-gaze-fall",
+     "grounds": "instrumental cause, the casting of the gaze",
+     "morph": "compound dṛṣṭi+nipāta, m.inst.sg"
+    },
+    {
+     "surface": "dvipadaḥ",
+     "gloss": "two-footed",
+     "grounds": "beings with two feet, such as humans",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣpadaḥ",
+     "gloss": "four-footed",
+     "grounds": "beings with four feet, such as animals",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings are affected by the falling of the practitioner's gaze?",
+   "premises": [
+    "The instrumental phrase indicates the cause as the fall of his gaze.",
+    "Two-footed beings are named as affected.",
+    "Four-footed beings are also named as affected."
+   ],
+   "inference": "By the fall of his gaze, both two-footed and four-footed beings are affected.",
+   "uncertainties": [
+    "The specific effect on these beings is not stated in this verse."
+   ],
+   "plain_english": "By the fall of his gaze, both two-footed and four-footed beings are affected."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "ekaviṃśati+japtena",
+     "gloss": "by-twenty-one-chanted",
+     "grounds": "water empowered by twenty-one recitations",
+     "morph": "compound ekaviṃśati+japta, n.inst.sg"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "instrument used for remedy",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "jvara+pīḍitaḥ",
+     "gloss": "fever-afflicted",
+     "grounds": "person suffering from fever",
+     "morph": "compound jvara+pīḍita, m.nom.sg"
+    }
+   ],
+   "question": "What remedy is applied to a person afflicted by fever?",
+   "premises": [
+    "Water is specified as the instrument.",
+    "The water is empowered by twenty-one recitations.",
+    "The recipient is afflicted by fever."
+   ],
+   "inference": "A person afflicted by fever is treated with water consecrated by twenty-one recitations.",
+   "uncertainties": [
+    "The manner of application of the water is not specified."
+   ],
+   "plain_english": "One afflicted by fever is treated with water consecrated by twenty-one recitations."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "tat+nāma+kīrtanāt",
+     "gloss": "from-his-name-proclamation",
+     "grounds": "cause or means, the proclaiming of that name",
+     "morph": "compound tad+nāman+kīrtana, n.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic restriction to this means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛtaṃ",
+     "gloss": "taken",
+     "grounds": "something stolen or removed",
+     "morph": "n.nom.sg past-participle √hṛ"
+    },
+    {
+     "surface": "naṣṭaṃ",
+     "gloss": "lost",
+     "grounds": "something missing or destroyed",
+     "morph": "n.nom.sg past-participle √naś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "result of recovery",
+     "morph": "3.sg.pass-present √labh"
+    }
+   ],
+   "question": "How can something taken or lost be recovered according to this teaching?",
+   "premises": [
+    "The means is the proclamation of that name alone.",
+    "Both taken and lost things are mentioned.",
+    "The verb labhyate indicates recovery."
+   ],
+   "inference": "By merely proclaiming that name, what was taken or lost is obtained again.",
+   "uncertainties": [
+    "The referent of 'that name' depends on prior context."
+   ],
+   "plain_english": "By proclaiming that name alone, what was taken or lost is recovered."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "uḍḍāmareśvara+mahātantre",
+     "gloss": "in-uḍḍāmareśvara-great-tantra",
+     "grounds": "title of the source text",
+     "morph": "compound uḍḍāmareśvara+mahātantra, n.loc.sg"
+    },
+    {
+     "surface": "mantra+koṣa+nirūpaṇaṃ",
+     "gloss": "mantra-treasury-explanation",
+     "grounds": "section title describing the content",
+     "morph": "compound mantra+koṣa+nirūpaṇa, n.nom.sg"
+    },
+    {
+     "surface": "dvādaśaḥ",
+     "gloss": "twelfth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Uḍḍāmareśvara Mahātantra concludes at this point?",
+   "premises": [
+    "The text is identified as the Uḍḍāmareśvara Mahātantra.",
+    "The section is named the explanation of the mantra treasury.",
+    "The ordinal dvādaśaḥ marks it as the twelfth."
+   ],
+   "inference": "This marks the end of the twelfth chapter, the explanation of the mantra treasury, in the Uḍḍāmareśvara Mahātantra.",
+   "uncertainties": [],
+   "plain_english": "In the Uḍḍāmareśvara Mahātantra, this is the twelfth chapter, the explanation of the mantra treasury."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "location for installing the image",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "arcāṃ",
+     "gloss": "worship-image",
+     "grounds": "object to be made for worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-make",
+     "grounds": "causative injunction to commission an image",
+     "morph": "3.sg.act-causative-optative √kṛ"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deity to be represented",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "specific deity named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "with-goddess",
+     "grounds": "companion deity in worship",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "saha+arcayet",
+     "gloss": "together-should-worship",
+     "grounds": "injunction to worship together with the goddess",
+     "morph": "(indecl.) + 3.sg.act-optative √arc"
+    }
+   ],
+   "question": "How should Śiva be installed and worshipped in a household setting?",
+   "premises": [
+    "A worship image is to be commissioned in the house.",
+    "The deity specified is Śiva.",
+    "Worship is to be performed together with the goddess."
+   ],
+   "inference": "One should have an image of Śiva made in the house and worship him together with the goddess.",
+   "uncertainties": [],
+   "plain_english": "In the house one should have an image of the god Śiva made and worship him together with the goddess."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāna+phalaṃ",
+     "gloss": "bathing-fruit",
+     "grounds": "result or benefit of ritual bathing",
+     "morph": "compound snāna+phala, n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "i-shall-tell",
+     "grounds": "speaker's declaration of intent to explain",
+     "morph": "1.sg.act-future √vac"
+    },
+    {
+     "surface": "yathā+uktaṃ",
+     "gloss": "as-said",
+     "grounds": "indicates transmission of prior teaching",
+     "morph": "(indecl.) + n.nom.sg past-participle √vac"
+    },
+    {
+     "surface": "tripurāriṇā",
+     "gloss": "by-tripura-enemy",
+     "grounds": "authority who spoke the teaching, an epithet of Śiva",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Whose teaching will be presented regarding the fruits of ritual bathing?",
+   "premises": [
+    "The speaker announces intent to tell the fruit of bathing.",
+    "The teaching is described as previously said.",
+    "Tripurāri is named as the source of that teaching."
+   ],
+   "inference": "The speaker will now explain the fruit of bathing as taught by Tripurāri.",
+   "uncertainties": [],
+   "plain_english": "Now I shall tell the fruit of bathing, as it was said by Tripurāri."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "śānti+arthī",
+     "gloss": "peace-seeker",
+     "grounds": "one desiring peace",
+     "morph": "compound śānti+arthin, m.nom.sg"
+    },
+    {
+     "surface": "śāntim",
+     "gloss": "peace",
+     "grounds": "desired result",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "states attainment of the result",
+     "morph": "3.sg.act-present √āp"
+    },
+    {
+     "surface": "durbhagā",
+     "gloss": "unfortunate-woman",
+     "grounds": "woman lacking good fortune",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "subhagā",
+     "gloss": "fortunate",
+     "grounds": "state of good fortune attained",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "optative result of transformation",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What benefits does ritual bathing confer on seekers of peace and unfortunate women?",
+   "premises": [
+    "A seeker of peace obtains peace.",
+    "An unfortunate woman is mentioned as a subject.",
+    "The result stated is becoming fortunate."
+   ],
+   "inference": "Through this practice, a peace-seeker obtains peace and an unfortunate woman becomes fortunate.",
+   "uncertainties": [],
+   "plain_english": "One who desires peace obtains peace, and an unfortunate woman becomes fortunate."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "abhāryaḥ",
+     "gloss": "without-wife",
+     "grounds": "man lacking a wife",
+     "morph": "compound a+bhārya, m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "states attainment",
+     "morph": "3.sg.act-present √labh"
+    },
+    {
+     "surface": "bhāryāṃ",
+     "gloss": "wife",
+     "grounds": "object obtained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sukha+arthī",
+     "gloss": "happiness-seeker",
+     "grounds": "one desiring happiness",
+     "morph": "compound sukha+arthin, m.nom.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "desired result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "should-obtain",
+     "grounds": "optative attainment of happiness",
+     "morph": "3.sg.act-optative √āp"
+    }
+   ],
+   "question": "What benefits does ritual bathing confer on a man without a wife and a seeker of happiness?",
+   "premises": [
+    "A man without a wife obtains a wife.",
+    "A seeker of happiness is mentioned as a subject.",
+    "The result stated is obtaining happiness."
+   ],
+   "inference": "Through this practice, a man without a wife obtains a wife and a seeker of happiness obtains happiness.",
+   "uncertainties": [],
+   "plain_english": "One without a wife obtains a wife, and one who desires happiness obtains happiness."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "uḍḍāmareśvara+mahātantre",
+     "gloss": "in-uḍḍāmareśvara-great-tantra",
+     "grounds": "title of the source text",
+     "morph": "compound uḍḍāmareśvara+mahātantra, n.loc.sg"
+    },
+    {
+     "surface": "mantra+koṣa+nirūpaṇaṃ",
+     "gloss": "mantra-treasury-explanation",
+     "grounds": "section title describing the content",
+     "morph": "compound mantra+koṣa+nirūpaṇa, n.nom.sg"
+    },
+    {
+     "surface": "trayodaśaḥ",
+     "gloss": "thirteenth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Uḍḍāmareśvara Mahātantra concludes at this point?",
+   "premises": [
+    "The text is identified as the Uḍḍāmareśvara Mahātantra.",
+    "The section is named the explanation of the mantra treasury.",
+    "The ordinal trayodaśaḥ marks it as the thirteenth."
+   ],
+   "inference": "This marks the end of the thirteenth chapter, the explanation of the mantra treasury, in the Uḍḍāmareśvara Mahātantra.",
+   "uncertainties": [],
+   "plain_english": "In the Uḍḍāmareśvara Mahātantra, this is the thirteenth chapter, the explanation of the mantra treasury."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "mantra+koṣa+kathanaṃ",
+     "gloss": "mantra-treasury-narration",
+     "grounds": "section title describing the content",
+     "morph": "compound mantra+koṣa+kathana, n.nom.sg"
+    },
+    {
+     "surface": "caturdaśaḥ",
+     "gloss": "fourteenth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter title and number are given for this section of the text?",
+   "premises": [
+    "The section is named the narration of the mantra treasury.",
+    "The ordinal caturdaśaḥ marks it as the fourteenth.",
+    "The term paṭalaḥ identifies it as a chapter."
+   ],
+   "inference": "This is the fourteenth chapter, the narration of the mantra treasury.",
+   "uncertainties": [],
+   "plain_english": "This is the fourteenth chapter, the narration of the mantra treasury."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "pañcadaśaḥ",
+     "gloss": "fifteenth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samāptam+idam",
+     "gloss": "completed-this",
+     "grounds": "marks the conclusion of this chapter or section",
+     "morph": "compound samāpta+idam, n.nom.sg"
+    }
+   ],
+   "question": "What concluding statement marks the end of the fifteenth chapter?",
+   "premises": [
+    "The ordinal pañcadaśaḥ marks the fifteenth chapter.",
+    "The term paṭalaḥ identifies it as a chapter.",
+    "The compound samāptam+idam declares completion."
+   ],
+   "inference": "The fifteenth chapter is hereby completed.",
+   "uncertainties": [],
+   "plain_english": "The fifteenth chapter is completed here."
+  }
+ ]
+}

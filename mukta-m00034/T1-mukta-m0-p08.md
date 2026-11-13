@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[endless](ananta) [unfathomable+deep](āgādha+gambhīre) [consciousness+form](saṃvid+rūpe) [plunges](nimajjati)
+[endless+unfathomable+deep](anantāgādhagambhīre) [consciousness+form](saṃvidrūpe) [immerses](nimajjati)
 
 ## mukta-m0-p08-v177
-[existence+non-existence](asti+nāsti) [transcended](vyatikrāntaṃ) [all+support](sarva+āśraya) [without-support](nirāśrayam)
+[is+is-not+transcended](astināstivyatikrāntaṃ) [all+support+supportless](sarvāśrayanirāśrayam)
 
 ## mukta-m0-p08-v178
-[supreme](parāṃ) [power](śaktiṃ) [without](vinā) [of-that](tasya) [being-established](sthitasya) [even](api) [by-own-nature](svabhāvataḥ)
+[supreme](parāṃ) [power](śaktiṃ) [without](vinā) [of-that](tasya) [abiding+even](sthitasyāpi) [by-own-nature](svabhāvataḥ)
 
 ## mukta-m0-p08-v179
-[unreal+like](asat+kalpatvam) [thus](iti) [of-this](asya) [that+dependence](tat+apekṣitvam) [is-accepted](iṣyate)
+[unreal+like-ness+thus+of-this](asatkalpatvamityasya) [non-conceptual](asaṅkalpa) [that+dependence](tadapekṣitvam) [is-accepted](iṣyate)
 
 ## mukta-m0-p08-v180
-[of-that](tasyā) [also](api) [supreme+state](para+avasthā) [shines](bhāti) [subtle+difference](sūkṣma+prabhedataḥ)
+[of-that](tasyā) [also](api) [supreme+state](parāvasthā) [shines](bhāti) [goes](yāti) [subtle+difference+by](sūkṣmaprabhedataḥ)
 
 ## mukta-m0-p08-v181
-[being+non-being](bhāva+abhāvau) [in-light](prakāśe) [within](antaḥ) [foundation](pratiṣṭhām) [attain](adhigacchataḥ)
+[being+non-being](bhāvābhāvau) [in-light](prakāśe) [within](antaḥ) [establishment](pratiṣṭhām) [attain](adhigacchataḥ)
 
 ## mukta-m0-p08-v182
-[gradation+etc.](tāratamya+ādi) [conception](kalanā) [impression](vāsanā) [affliction](vedha) [far-from](dūrage)
+[gradation+etc.+conception](tāratamyādikalanā) [impression+piercing+far-from](vāsanāvedhadūrage)
 
 ## mukta-m0-p08-v183
-[supreme+light](para+prakāśa) [resting](viśrānti) [in-state](daśāyām) [even](api) [which](yat) [abide](sthitāḥ)
+[supreme+light+resting](paraprakāśaviśrānti) [in-state+even](daśāyāmapi) [which](yat) [abiding](sthitāḥ)
 
 ## mukta-m0-p08-v184
-[therefore](atas) [them](tām) [having-made-dark](asanīkṛtya) [which](yā) [rest](viśrāntiḥ) [unsurpassed](anuttarā)
+[therefore](atas) [them](tām) [having-disregarded](asanīkṛtya) [which](yā) [rest](viśrāntiḥ) [unsurpassed](anuttarā)
 
 ## mukta-m0-p08-v185
-[where](yatra) [unobstructed](apaṭe) [ceased](parikṣīṇaḥ) [even](api) [chisel](ṭaṅkaḥ) [this](asau) [method](nayaḥ) [therefore](tataḥ)
+[where](yatra) [on-cloth](apaṭe) [dissolved+even](parikṣīṇo'pi) [dissolved](parikṣīṇā) [chisel](ṭaṅkaḥ) [this](asau) [method](nayaḥ) [therefore](tataḥ)
 
 ## mukta-m0-p08-v186
-[which](yā) [but](tu) [rest+of-rest](viśrānti+viśrāntiḥ) [that](tat) [goddess+form](devī+rūpam) [is-accepted](iṣyate)
+[which](yā) [but](tu) [rest+of-rest](viśrāntiviśrāntiḥ) [that](tat) [goddess+form](devīrūpam) [is-accepted](iṣyate)
 
 ## mukta-m0-p08-v187
-[in-unity](aikye) [even](api) [shown](darśitaṃ) [well](samyak) [understanding+purification](pratītipari+śuddhaye)
+[in-unity+even](aikye'pi) [shown](darśitaṃ) [well](samyak) [understanding+purification+for](pratītipariśuddhaye)
 
 ## mukta-m0-p08-v188
-[of-universe](viśvasya) [thus](iti) [how](kathaṃ) [first](pūrvam) [origination](utpattiḥ) [thus](iti) [doubt](saṃśayam)
+[of-universe](viśvasya) [thus](iti) [how](kathaṃ) [first](pūrvam) [arising](utpattiḥ) [thus](iti) [doubt](saṃśayam) [in-doubt](saṃśaye)
 
 ## mukta-m0-p08-v189
-[unobstructed+consciousness+ocean](nirāvaraṇa+cit+sindhau) [flashing+essence+beautiful](sphurattā+sāra+sundaram)
+[unobstructed+consciousness+ocean](nirāvaraṇacitsindhau) [in-ocean](citsinddhau) [vibrating+essence+beautiful](sphurattāsārasundaram)
 
 ## mukta-m0-p08-v190
-[that](tat) [goddess+form](devī+rūpam) [here](atra) [within](antaḥ) [first+vibration+nature](prathama+spandana+ātmanā)
+[that](tat) [goddess+form](devīrūpam) [here](atra) [within](antaḥ) [first+vibration+nature](prathamaspandanātmanā)
 
 ## mukta-m0-p08-v191
-[all+expectation](sarva+apekṣā) [devoid-of](virahitaṃ) [own+rising+essence+nature](sva+uccalattā+svarūpakam)
+[all+expectation+devoid](sarvāpekṣāvirahitaṃ) [own+surging+essence+nature](svoccalattāsvarūpakam)
 
 ## mukta-m0-p08-v192
-[that+consisting-of](tat+mayaṃ) [and](ca) [that+transcending](tat+uttīrṇaṃ) [by-pervasiveness](vyāpakatvena) [exists](vartate)
+[that+consisting-of](tanmayaṃ) [and](ca) [that+transcending](taduttīrṇaṃ) [by-pervasiveness](vyāpakatvena) [exists](vartate)
 
 ## mukta-m0-p08-v193
-[khecarī+etc.](khecarī+ādi) [own-form](svarūpaṃ) [which](yat) [that](tat) [of-her](asyā) [indeed](eva) [expansion](jṛmbhitam)
+[khecarī+etc.+nature](khecaryādisvarūpaṃ) [which](yat) [that](tat) [of-her](asyā) [indeed](eva) [expansion](jṛmbhitam)
 
 ## mukta-m0-p08-v194
-[freedom+manifestation](svātantrya+ullāsa) [abundance](kodreka) [predominance](prādhānyāt) [separately](pṛthak) [is-spoken](ucyate)
+[freedom+exultation+surge+predominance+by](svātantryollāsakodrekaprādhānyāt) [separately](pṛthak) [is-spoken](ucyate)
 
 ## mukta-m0-p08-v195
-[each](pratyekaṃ) [by-subtle](sūkṣmayā) [mode](vṛttyā) [by-own-fitness](sva+aucityena) [is-experienced](anubhūyate)
+[each](pratyekaṃ) [by-subtle](sūkṣmayā) [mode](vṛttyā) [by-own-fitness](svaucityena) [is-experienced](anubhūyate)
 
 ## mukta-m0-p08-v196
-[by-sameness-of-taste+nature](sāmarasya+ātmanā) [all](sarvaṃ) [goddess+circle](devī+cakraṃ) [shines-forth](prakāśate)
+[by-sameness-of-taste+nature](sāmarasyātmanā) [all](sarvaṃ) [goddess+circle](devīcakraṃ) [shines](prakāśate)
 
 ## mukta-m0-p08-v197
-[five+ether+state](pañca+ākāśatayā) [first](pūrvaṃ) [that](tat) [said](uktaṃ) [consciousness+nature](saṃvid+ātmanā)
+[five+ether+state+by](pañcākāśatayā) [previously](pūrvaṃ) [that](tat) [said](uktaṃ) [consciousness+nature+by](saṃvidātmanā)
 
 ## mukta-m0-p08-v198
-[supreme+rest](para+viśrānti) [rest](viśrānti) [predominance](prādhānyāt) [but](tu) [this](idam) [is-accepted](iṣyate)
+[supreme+rest+resting](paraviśrāntiviśrānti) [predominance+by](prādhānyāt) [but](tu) [this](idam) [is-accepted](iṣyate)
 
 ## mukta-m0-p08-v199
-[all+doership](sarva+kartṛtvam) [thus](iti) [this](etat) [power+fivefold+aspect](śakti+pañcaka+lakṣaṇam)
+[all+doership](sarvakartṛtvam) [thus](iti) [this](etat) [power+fivefold+characterized](śaktipañcakalakṣaṇam)
 
 ## mukta-m0-p08-v200
-[knowledge+predominance](jñāna+ādhikatvāt) [of-accomplishment](siddheḥ) [but](tu) [that](saḥ) [but](tu) [consciousness+mere+characterized](cit+mātra+lakṣaṇaḥ)
+[knowledge+predominance+by](jñānādhikatvāt) [of-accomplishment](siddheḥ) [but](tu) [that](saḥ) [but](tu) [consciousness+mere+characterized](cinmātralakṣaṇaḥ)
