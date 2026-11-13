@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 111,
- "question": "How is this teaching heard as coming down through tradition?",
+ "question": "How is this teaching heard and transmitted?",
  "premises": [
   "it abides in the ear",
   "it is heard",
-  "tradition transmits it"
+  "it comes through tradition"
  ],
- "inference": "The verse says this teaching is heard in the ear as transmitted through tradition.",
- "uncertainties": [],
- "plain_english": "O goddess, it is heard in the ear, come down through tradition."
+ "inference": "The verse presents oral traditional transmission.",
+ "uncertainties": [
+  "exact lineage"
+ ],
+ "plain_english": "Abiding in the ear, it is heard, O goddess, having come down through tradition."
 }

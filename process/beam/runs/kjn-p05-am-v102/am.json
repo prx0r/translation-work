@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 102,
- "question": "To whom should this teaching be given after a one-year test?",
+ "question": "To whom and after what testing should this teaching be given?",
  "premises": [
-  "gift requires prior accomplishment",
-  "recipient must be tested one year",
-  "transmission is conditional"
+  "teaching is to be given",
+  "recipient must be previously accomplished",
+  "recipient must be tested for one year"
  ],
- "inference": "The verse restricts teaching to one who has already accomplished and been tested for a year.",
- "uncertainties": [],
- "plain_english": "It should be given to one previously accomplished, after being tested for one year."
+ "inference": "therefore only a tested accomplished recipient qualifies",
+ "uncertainties": [
+  "abdameka+parīkṣitam may modify recipient or teaching"
+ ],
+ "plain_english": "It should be given to one previously accomplished and tested for one year."
 }

@@ -3,12 +3,13 @@
  "verse": 242,
  "question": "What does the angry one destroy in the triple world?",
  "premises": [
-  "Anger is the condition.",
-  "All moving and unmoving triple world is destroyed."
+  "anger is named",
+  "destruction is stated",
+  "triple world is named"
  ],
- "inference": "The angry one destroys all moving and unmoving triple world.",
+ "inference": "The verse says the angry one destroys all triple world, moving and unmoving.",
  "uncertainties": [
-  "Agent identity."
+  "agent identity remains open"
  ],
- "plain_english": "When angry, he destroys all moving and unmoving triple world."
+ "plain_english": "When angry, he destroys all triple world, moving and unmoving."
 }

@@ -1,14 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 247,
- "question": "What goes away through non-eating by day?",
+ "question": "What happens to age and death by day through non-eating?",
  "premises": [
-  "Non-eating by day is the practice.",
-  "Age and death will go."
+  "day is named",
+  "non-eating is stated",
+  "age and death are named"
  ],
- "inference": "Non-eating by day removes age and death.",
+ "inference": "The verse says age and death will go by day through non-eating.",
  "uncertainties": [
-  "Literal or symbolic."
+  "exact regimen remains open"
  ],
- "plain_english": "Through non-eating by day, age and death will go away."
+ "plain_english": "By day, through non-eating, age and death will go."
 }

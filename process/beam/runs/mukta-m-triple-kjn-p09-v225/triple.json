@@ -6,38 +6,39 @@
    "rows": [
     {
      "surface": "caturaśīti",
-     "gloss": "in-eighty-four",
-     "grounds": "numeral eighty-four",
+     "gloss": "eighty-four",
+     "grounds": "numeral modifying thousands",
      "morph": "(indecl.)"
     },
     {
      "surface": "sahasreṣu",
-     "gloss": "in-thousands",
-     "grounds": "locative plural of sahasra",
-     "morph": "n.loc.pl.n"
+     "gloss": "thousands",
+     "grounds": "locative plural neuter",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "yoniyantreṣu",
-     "gloss": "in-womb-diagrams",
-     "grounds": "compound yoni plus yantra in locative plural",
-     "morph": "n.loc.pl.n"
+     "gloss": "womb-diagrams",
+     "grounds": "compound yoni+yantra in locative plural",
+     "morph": "n.loc.pl"
     },
     {
      "surface": "pīḍitāḥ",
      "gloss": "tormented",
      "grounds": "past participle of pīḍ",
-     "morph": "adj.nom.pl.m"
+     "morph": "m.nom.pl"
     }
    ],
-   "question": "Which beings are tormented across eighty-four thousand womb-diagrams?",
+   "question": "Which beings suffer torment across eighty-four thousand womb-diagrams?",
    "premises": [
     "Eighty-four thousand womb-diagrams exist.",
     "Beings are tormented within them.",
-    "Torment occurs in those diagrams."
+    "Torment occurs in womb-diagrams."
    ],
-   "inference": "The verse states beings suffer in eighty-four thousand womb-diagrams.",
+   "inference": "Thus beings undergo torment in eighty-four thousand womb-diagrams.",
    "uncertainties": [
-    "Exact referent of tormented beings unspecified."
+    "Exact class of beings unspecified.",
+    "Gender of pīḍitāḥ ambiguous."
    ],
    "plain_english": "They are tormented in eighty-four thousand womb-diagrams."
   }

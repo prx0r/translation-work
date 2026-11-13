@@ -1,13 +1,15 @@
 {
  "song": "kjn-p05",
  "verse": 103,
- "question": "Which chapter emerges from Candradīpa in this sequence?",
+ "question": "What is the fifth chapter that emerged from candradīpa?",
  "premises": [
-  "candradīpa is the source",
-  "fifth chapter is named",
-  "chapter ordering is stated"
+  "something emerged from candradīpa",
+  "it is called fifth",
+  "it is a chapter"
  ],
- "inference": "The verse identifies the fifth chapter as emerging from Candradīpa.",
- "uncertainties": [],
- "plain_english": "The fifth chapter emerged from Candradīpa."
+ "inference": "therefore the fifth chapter emerged from candradīpa",
+ "uncertainties": [
+  "vinirgate may be locative absolute or adjective"
+ ],
+ "plain_english": "The fifth chapter emerged from candradīpa."
 }

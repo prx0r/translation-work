@@ -1,14 +1,15 @@
 {
  "song": "kjn-p10",
  "verse": 227,
- "question": "Which chapter emerges in candra-dvīpa?",
+ "question": "What chapter emerges in candra dvīpa?",
  "premises": [
-  "Candra-dvīpa is the setting.",
-  "The ninth chapter emerges there."
+  "candra dvīpa is named",
+  "emergence is stated",
+  "ninth chapter is named"
  ],
- "inference": "The ninth chapter is located in candra-dvīpa.",
+ "inference": "The verse names the ninth chapter emerging in candra dvīpa.",
  "uncertainties": [
-  "No further doctrinal content."
+  "context of emergence remains open"
  ],
- "plain_english": "The ninth chapter emerges in candra-dvīpa."
+ "plain_english": "In candra dvīpa the ninth chapter emerges."
 }
