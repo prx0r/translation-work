@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p34",
  "verse": 830,
- "question": "What effects result from offering tagara oblations to the goddess?",
+ "question": "Which figures are associated with the virtuous woman in this sequence of royal offspring?",
  "premises": [
-  "The goddess is satisfied by oblations of tagara.",
-  "The goddess grants fame in response to tagara oblations."
+  "A virtuous woman is named as subject.",
+  "Savita, Sarita, and a son are mentioned.",
+  "A king and a prince are also mentioned."
  ],
- "inference": "Offerings of tagara please the goddess and bring fame to the worshipper.",
- "uncertainties": [],
- "plain_english": "She is pleased by oblations of tagara and grants fame to those who offer them."
+ "inference": "The virtuous woman is connected with Savita, Sarita, a son, a king, and a prince.",
+ "uncertainties": [
+  "The syntactic relation among the accusatives and the main verb is not explicit in this verse alone."
+ ],
+ "plain_english": "The virtuous woman is associated with Savita, Sarita, a son, a king, and a prince."
 }

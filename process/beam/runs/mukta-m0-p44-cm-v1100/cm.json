@@ -3,29 +3,39 @@
  "verse": 1100,
  "rows": [
   {
-   "lemma": "anyān",
-   "morph": "m.acc.pl",
-   "grounds": "accusative plural masculine adjective qualifying paśūn"
+   "lemma": "paramaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "qualifies mokṣaṃ"
   },
   {
-   "lemma": "api",
+   "lemma": "pāvanaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "qualifies mokṣaṃ"
+  },
+  {
+   "lemma": "mokṣaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "object of śrotum"
+  },
+  {
+   "lemma": "kim",
+   "morph": "n.acc.sg",
+   "grounds": "interrogative pronoun"
+  },
+  {
+   "lemma": "ataḥ",
    "morph": "(indecl.)",
-   "grounds": "indeclinable particle indicating inclusion"
+   "grounds": "ablative sense, comparative"
   },
   {
-   "lemma": "paśūn",
-   "morph": "m.acc.pl",
-   "grounds": "accusative plural masculine noun, object of offering"
+   "lemma": "śrotum",
+   "morph": "inf(śru)",
+   "grounds": "complements icchasi"
   },
   {
-   "lemma": "dadyāt",
-   "morph": "3.sg.opt.act √dā",
-   "grounds": "optative verb expressing prescribed action of offering"
-  },
-  {
-   "lemma": "sādhakecchānusārataḥ",
-   "morph": "compound (indecl.)",
-   "grounds": "compound: sādhaka+icchā+anusārataḥ indicating conformity to the practitioner's desire"
+   "lemma": "icchasi",
+   "morph": "2.sg.pres.act(iṣ)",
+   "grounds": "addressed to listener"
   }
  ]
 }

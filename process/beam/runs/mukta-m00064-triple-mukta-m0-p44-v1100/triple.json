@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies mokṣaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "qualifies mokṣaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "object of śrotum",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "beyond-this",
+     "grounds": "ablative sense, comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "complements icchasi",
+     "morph": "inf(śru)"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-desire",
+     "grounds": "addressed to listener",
+     "morph": "2.sg.pres.act(iṣ)"
+    }
+   ],
+   "question": "What liberation could surpass the supreme purifying liberation already granted at Kāśī?",
+   "premises": [
+    "The speaker grants liberation at Kāśī.",
+    "That liberation is described as supreme and purifying.",
+    "The listener is asked about desiring to hear of something beyond it."
+   ],
+   "inference": "No higher or purer liberation remains to be sought beyond the one already granted.",
+   "uncertainties": [],
+   "plain_english": "What supreme, purifying liberation beyond this do you wish to hear of?"
+  }
+ ]
+}

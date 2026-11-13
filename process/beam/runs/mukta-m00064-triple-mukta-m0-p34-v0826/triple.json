@@ -1,0 +1,1227 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 826,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipro",
+     "gloss": "brahmin",
+     "grounds": "subject in transformed state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nṛpo",
+     "gloss": "king",
+     "grounds": "royal status attained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive indicating prior transformation",
+     "morph": "abs. (bhū)"
+    },
+    {
+     "surface": "kāmarūpa+nivāsinaḥ",
+     "gloss": "of-kāmarūpa-inhabitants",
+     "grounds": "compound denoting people of Kāmarūpa",
+     "morph": "compound: kāmarūpa+nivāsin (m.gen.pl)"
+    }
+   ],
+   "question": "What transformation leads the brahmin to rule over the inhabitants of Kāmarūpa?",
+   "premises": [
+    "A brahmin undergoes a transformation.",
+    "He becomes a king afterward.",
+    "He comes to rule inhabitants of Kāmarūpa."
+   ],
+   "inference": "The brahmin becomes king and assumes authority over the people of Kāmarūpa.",
+   "uncertainties": [],
+   "plain_english": "Then the brahmin, having become a king, ruled over the inhabitants of Kāmarūpa."
+  },
+  {
+   "verse": 827,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣa+trayaṃ",
+     "gloss": "year-three",
+     "grounds": "compound indicating duration of three years",
+     "morph": "compound: varṣa+traya (n.acc.sg)"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "object of ruling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating completed rule",
+     "morph": "abs. (kṛ)"
+    },
+    {
+     "surface": "daṇḍī",
+     "gloss": "staff-bearer",
+     "grounds": "epithet of ascetic or official status",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvijo",
+     "gloss": "twice-born",
+     "grounds": "brahmin identity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nṛpaḥ",
+     "gloss": "king",
+     "grounds": "royal role",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How long does the twice-born staff-bearing king maintain his rule over the kingdom?",
+   "premises": [
+    "The ruler is a twice-born staff-bearer and king.",
+    "He performs the act of ruling.",
+    "The duration of rule is three years."
+   ],
+   "inference": "The twice-born staff-bearing king rules the kingdom for three years.",
+   "uncertainties": [],
+   "plain_english": "Thus the staff-bearing twice-born king ruled the kingdom for three years."
+  },
+  {
+   "verse": 828,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa+dale",
+     "gloss": "twelve-petaled",
+     "grounds": "compound describing a lotus or center",
+     "morph": "compound: dvādaśa+dala (n.loc.sg)"
+    },
+    {
+     "surface": "nābhiḥ",
+     "gloss": "navel",
+     "grounds": "subject becoming fit in that locus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "becomes-fit",
+     "grounds": "attainment of suitability or readiness",
+     "morph": "3.sg.pres.mid (kḷp)"
+    },
+    {
+     "surface": "pūrva+bhūmipaḥ",
+     "gloss": "former-king",
+     "grounds": "compound identifying the previous ruler",
+     "morph": "compound: pūrva+bhūmipa (m.nom.sg)"
+    }
+   ],
+   "question": "What spiritual or symbolic locus becomes suitable for the former king after his rule?",
+   "premises": [
+    "The former king completes his prior phase.",
+    "A twelve-petaled locus is specified.",
+    "He becomes fit in that locus."
+   ],
+   "inference": "Afterward the former king becomes fit in the twelve-petaled navel center.",
+   "uncertainties": [
+    "Whether dvādaśa+dale nābhiḥ refers to a yogic center or another symbolic locus is not explicit."
+   ],
+   "plain_english": "Then the former king becomes fit in the twelve-petaled navel."
+  },
+  {
+   "verse": 829,
+   "rows": [
+    {
+     "surface": "tat+rājyaṃ",
+     "gloss": "that-kingdom",
+     "grounds": "compound referring to the previously mentioned kingdom",
+     "morph": "compound: tad+rājya (n.acc.sg)"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "entire",
+     "grounds": "totality of the kingdom",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dharmeṇa",
+     "gloss": "by-dharma",
+     "grounds": "means or principle of governance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pālayiṣyati",
+     "gloss": "he-will-protect",
+     "grounds": "future act of righteous rule",
+     "morph": "3.sg.fut.act (pāl)"
+    }
+   ],
+   "question": "By what principle will the ruler protect the entire kingdom addressed to the goddess?",
+   "premises": [
+    "The entire kingdom is the object of protection.",
+    "The goddess is addressed directly.",
+    "Protection will be carried out according to dharma."
+   ],
+   "inference": "He will protect the entire kingdom according to dharma.",
+   "uncertainties": [
+    "The subject of pālayiṣyati is implied from context rather than named in this verse."
+   ],
+   "plain_english": "O goddess, he will protect that entire kingdom according to dharma."
+  },
+  {
+   "verse": 830,
+   "rows": [
+    {
+     "surface": "savitaṃ",
+     "gloss": "savita",
+     "grounds": "name of a son or figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saritaṃ",
+     "gloss": "sarita",
+     "grounds": "name of a son or figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tanayaṃ",
+     "gloss": "son",
+     "grounds": "offspring designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sādhvī",
+     "gloss": "virtuous-woman",
+     "grounds": "female subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rājānaṃ",
+     "gloss": "king",
+     "grounds": "royal figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rāja+putrakam",
+     "gloss": "king-son",
+     "grounds": "compound denoting a prince",
+     "morph": "compound: rāja+putraka (m.acc.sg)"
+    }
+   ],
+   "question": "Which figures are associated with the virtuous woman in this sequence of royal offspring?",
+   "premises": [
+    "A virtuous woman is named as subject.",
+    "Savita, Sarita, and a son are mentioned.",
+    "A king and a prince are also mentioned."
+   ],
+   "inference": "The virtuous woman is connected with Savita, Sarita, a son, a king, and a prince.",
+   "uncertainties": [
+    "The syntactic relation among the accusatives and the main verb is not explicit in this verse alone."
+   ],
+   "plain_english": "The virtuous woman is associated with Savita, Sarita, a son, a king, and a prince."
+  },
+  {
+   "verse": 831,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "until-then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sparśācale",
+     "gloss": "on-sparśa-mountain",
+     "grounds": "locative place name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sparśa+maṇir",
+     "gloss": "touch-gem",
+     "grounds": "compound naming a miraculous gem",
+     "morph": "compound: sparśa+maṇi (m.nom.sg)"
+    },
+    {
+     "surface": "āvirbhaviṣyati",
+     "gloss": "will-appear",
+     "grounds": "future manifestation",
+     "morph": "3.sg.fut.act (āvir-bhū)"
+    }
+   ],
+   "question": "What miraculous object will manifest on Sparśa mountain at that time?",
+   "premises": [
+    "A specific time is indicated.",
+    "The location is Sparśa mountain.",
+    "A touch-gem will appear."
+   ],
+   "inference": "The touch-gem will manifest on Sparśa mountain at that time.",
+   "uncertainties": [],
+   "plain_english": "At that time the touch-gem will appear on Sparśa mountain."
+  },
+  {
+   "verse": 832,
+   "rows": [
+    {
+     "surface": "bhaviṣyanti",
+     "gloss": "will-be",
+     "grounds": "future occurrence",
+     "morph": "3.pl.fut.act (bhū)"
+    },
+    {
+     "surface": "tadā+eva",
+     "gloss": "then-indeed",
+     "grounds": "compound emphasizing that very time",
+     "morph": "compound: tadā+eva (indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "will-be",
+     "grounds": "potential or resulting state",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "vaśiṣṭha+śāpa+mocanam",
+     "gloss": "vasiṣṭha-curse-release",
+     "grounds": "compound denoting liberation from Vasiṣṭha's curse",
+     "morph": "compound: vaśiṣṭha+śāpa+mocana (n.nom.sg)"
+    }
+   ],
+   "question": "What release from Vasiṣṭha's curse is said to occur at that very time?",
+   "premises": [
+    "Events will occur at that very time.",
+    "A release from Vasiṣṭha's curse is named.",
+    "The release is presented as resulting then."
+   ],
+   "inference": "At that very time there will be release from Vasiṣṭha's curse.",
+   "uncertainties": [
+    "The subject who receives the release is not specified in this verse."
+   ],
+   "plain_english": "At that very time there will be release from Vasiṣṭha's curse."
+  },
+  {
+   "verse": 833,
+   "rows": [
+    {
+     "surface": "kāmākhyā+sannidhāne",
+     "gloss": "kāmākhyā-proximity",
+     "grounds": "compound indicating presence near Kāmākhyā",
+     "morph": "compound: kāmākhyā+sannidhāna (n.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future occurrence",
+     "morph": "3.sg.fut.act (bhū)"
+    },
+    {
+     "surface": "kalau+yuge",
+     "gloss": "in-kali-age",
+     "grounds": "compound specifying the era",
+     "morph": "compound: kali+yuga (n.loc.sg)"
+    }
+   ],
+   "question": "In which era and sacred proximity will the foretold event take place?",
+   "premises": [
+    "The event will occur in the future.",
+    "The location is the proximity of Kāmākhyā.",
+    "The era specified is the Kali age."
+   ],
+   "inference": "The event will take place in the proximity of Kāmākhyā during the Kali age.",
+   "uncertainties": [
+    "The specific event is carried over from preceding verses."
+   ],
+   "plain_english": "And it will happen in the presence of Kāmākhyā in the Kali age."
+  },
+  {
+   "verse": 834,
+   "rows": [
+    {
+     "surface": "yathā+ukta+phaladā",
+     "gloss": "as-stated-fruit-giving",
+     "grounds": "compound describing Kāmākhyā as granting promised results",
+     "morph": "compound: yathā+ukta+phaladā (f.nom.sg)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāmākhyā",
+     "gloss": "kāmākhyā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future state",
+     "morph": "3.sg.fut.act (bhū)"
+    }
+   ],
+   "question": "What efficacy will the goddess Kāmākhyā possess in the foretold future time?",
+   "premises": [
+    "Kāmākhyā is the subject.",
+    "She is described as giving results as stated.",
+    "This state will obtain in the future."
+   ],
+   "inference": "Kāmākhyā will indeed be fruitful as previously described.",
+   "uncertainties": [],
+   "plain_english": "O goddess, Kāmākhyā will indeed grant the fruits as stated."
+  },
+  {
+   "verse": 835,
+   "rows": [
+    {
+     "surface": "kāmākhyā",
+     "gloss": "kāmākhyā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deva+vandya+aṅghri+kamalā",
+     "gloss": "by-gods-venerated-foot-lotus",
+     "grounds": "compound describing her lotus feet as venerated by gods",
+     "morph": "compound: deva+vandya+aṅghri+kamalā (f.nom.sg)"
+    },
+    {
+     "surface": "lajjitā",
+     "gloss": "abashed",
+     "grounds": "emotional state attributed to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What unexpected emotional state is attributed to the goddess Kāmākhyā despite her divine veneration?",
+   "premises": [
+    "Kāmākhyā's lotus feet are venerated by the gods.",
+    "She is described as abashed.",
+    "The state is attributed to her herself."
+   ],
+   "inference": "Despite being venerated by the gods, Kāmākhyā herself becomes abashed.",
+   "uncertainties": [
+    "The cause of her abashment is not stated in this verse."
+   ],
+   "plain_english": "Kāmākhyā, whose lotus feet are venerated by the gods, herself becomes abashed."
+  },
+  {
+   "verse": 836,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrotavyam",
+     "gloss": "to-be-heard",
+     "grounds": "gerundive expressing what should be heard",
+     "morph": "n.nom.sg (gerundive, śru)"
+    },
+    {
+     "surface": "ito",
+     "gloss": "beyond-this",
+     "grounds": "ablative sense indicating further matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "girije",
+     "gloss": "o-mountain-born",
+     "grounds": "vocative epithet of the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathyatāṃ",
+     "gloss": "let-it-be-told",
+     "grounds": "imperative request for narration",
+     "morph": "3.sg.imp.pass (kath)"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "agent of telling",
+     "morph": "2.inst.sg"
+    }
+   ],
+   "question": "What further account does the speaker request the mountain-born goddess to narrate?",
+   "premises": [
+    "The speaker asks what more is to be heard.",
+    "The mountain-born goddess is addressed.",
+    "She is requested to tell it."
+   ],
+   "inference": "The speaker asks the goddess to tell what more there is to hear.",
+   "uncertainties": [],
+   "plain_english": "O goddess, O mountain-born one, what more is to be heard beyond this? Let it be told by you."
+  },
+  {
+   "verse": 837,
+   "rows": [
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchasi",
+     "gloss": "do-you-go",
+     "grounds": "question about repeated movement",
+     "morph": "2.sg.pres.act (gam)"
+    },
+    {
+     "surface": "muhur",
+     "gloss": "again-and-again",
+     "grounds": "repeated action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "out-of-compassion",
+     "grounds": "motive requested for response",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "speak",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (vad)"
+    },
+    {
+     "surface": "śaṅkara",
+     "gloss": "o-śaṅkara",
+     "grounds": "vocative name",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Why does the goddess ask Śaṅkara to explain his repeated departures with compassion?",
+   "premises": [
+    "Śaṅkara is asked where he goes repeatedly.",
+    "He is addressed as lord.",
+    "He is urged to speak out of compassion."
+   ],
+   "inference": "The goddess seeks a compassionate explanation for Śaṅkara's repeated departures.",
+   "uncertainties": [],
+   "plain_english": "Where do you go again and again, O lord? Speak out of compassion, O Śaṅkara."
+  },
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "sādhvī",
+     "gloss": "virtuous-woman",
+     "grounds": "character description",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satī",
+     "gloss": "chaste",
+     "grounds": "moral quality",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāsikā",
+     "gloss": "ruler",
+     "grounds": "role of authority",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "revatī",
+     "gloss": "revatī",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jana+viśrutā",
+     "gloss": "people-known",
+     "grounds": "compound indicating fame among people",
+     "morph": "compound: jana+viśruta (f.nom.sg)"
+    },
+    {
+     "surface": "jana+vismṛtā",
+     "gloss": "people-forgotten",
+     "grounds": "compound indicating being forgotten by people",
+     "morph": "compound: jana+vismṛta (f.nom.sg)"
+    }
+   ],
+   "question": "How is Revatī characterized as both renowned and forgotten among people?",
+   "premises": [
+    "Revatī is described as virtuous, chaste, and a ruler.",
+    "She is known among people.",
+    "She is also forgotten among people."
+   ],
+   "inference": "Revatī is portrayed paradoxically as both famous and forgotten among people.",
+   "uncertainties": [],
+   "plain_english": "Revatī is a virtuous, chaste ruler, indeed known among people and yet forgotten by people."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "her",
+     "grounds": "demonstrative referring to Revatī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kucau",
+     "gloss": "breasts",
+     "grounds": "body part described",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kaṭhinau",
+     "gloss": "hard",
+     "grounds": "quality of the breasts",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvandvau",
+     "gloss": "pair",
+     "grounds": "dual pair",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "yonau",
+     "gloss": "in-vulva",
+     "grounds": "locative body part",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tasyāḥ+ca",
+     "gloss": "and-of-her",
+     "grounds": "compound with connective indicating possession",
+     "morph": "compound: tad+ca (f.gen.sg + indecl.)"
+    },
+    {
+     "surface": "pīnatā",
+     "gloss": "fullness",
+     "grounds": "quality attributed to her",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What physical attributes of Revatī are emphasized in this description of her body?",
+   "premises": [
+    "Her pair of breasts is described as hard.",
+    "Her vulva is mentioned as a locus.",
+    "Fullness is attributed to her."
+   ],
+   "inference": "The verse emphasizes the hardness of her breasts and fullness in her vulva.",
+   "uncertainties": [
+    "The exact syntactic linkage of yonau with pīnatā is somewhat compressed."
+   ],
+   "plain_english": "Her pair of breasts was hard, and in her vulva there was fullness."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "tat+sannidhau",
+     "gloss": "in-her-presence",
+     "grounds": "compound indicating proximity to her",
+     "morph": "compound: tad+sannidhi (n.loc.sg)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "with-her",
+     "grounds": "companion in enjoyment",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "of-me",
+     "grounds": "speaker's experience",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "ramaṇaṃ",
+     "gloss": "enjoyment",
+     "grounds": "act of delight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "intensity of enjoyment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What experience does the speaker claim to have had in Revatī's presence?",
+   "premises": [
+    "The speaker addresses the great goddess.",
+    "He refers to being in Revatī's presence.",
+    "He describes great enjoyment with her."
+   ],
+   "inference": "The speaker claims to have experienced great enjoyment with her in her presence.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, in her presence I had great enjoyment with her."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "tvayā",
+     "gloss": "with-you",
+     "grounds": "companion in comparison",
+     "morph": "2.inst.sg"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "together",
+     "grounds": "association marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratiḥ",
+     "gloss": "pleasure",
+     "grounds": "experience compared",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasyāḥ",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun referring to Revatī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "na+alpasya",
+     "gloss": "not-little",
+     "grounds": "compound negating smallness",
+     "morph": "compound: na+alpa (n.gen.sg)"
+    },
+    {
+     "surface": "tapasaḥ",
+     "gloss": "of-austerity",
+     "grounds": "source of the fruit",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result of austerity",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the pleasure with Revatī explained as the result of significant austerity?",
+   "premises": [
+    "Pleasure with her is compared to pleasure with the goddess.",
+    "It is called the fruit of austerity.",
+    "The austerity is described as not little."
+   ],
+   "inference": "The pleasure with Revatī is presented as the fruit of great austerity.",
+   "uncertainties": [
+    "The comparison with tvayā sārddhaṃ ratiḥ is elliptical in this verse."
+   ],
+   "plain_english": "Pleasure with her, like that with you, is the fruit of no small austerity."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "present time marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kim+abhūt",
+     "gloss": "what-became",
+     "grounds": "compound asking about her present state",
+     "morph": "compound: kim+abhūt (interrogative + 3.sg.aor.act, bhū)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "subject previously discussed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "with-compassion",
+     "grounds": "manner requested for reply",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "supreme",
+     "grounds": "intensity of compassion",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (vad)"
+    }
+   ],
+   "question": "What does the goddess ask Śaṅkara to reveal about Revatī's present condition?",
+   "premises": [
+    "The question concerns Revatī's current state.",
+    "The speaker asks what has become of her.",
+    "A compassionate answer is requested."
+   ],
+   "inference": "The goddess asks Śaṅkara to compassionately tell what has now become of Revatī.",
+   "uncertainties": [],
+   "plain_english": "Now what has become of her? Tell me with supreme compassion."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pointing to her story",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādhvī+caritaṃ",
+     "gloss": "virtuous-woman-conduct",
+     "grounds": "compound denoting the deeds of the virtuous woman",
+     "morph": "compound: sādhvī+carita (n.acc.sg)"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "something",
+     "grounds": "indefinite portion of the account",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker's promise to narrate",
+     "morph": "1.sg.pres.act (kath)"
+    },
+    {
+     "surface": "śucismite",
+     "gloss": "o-smiling-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What does Śaṅkara promise to narrate about the virtuous woman's conduct?",
+   "premises": [
+    "Śaṅkara responds to the request.",
+    "He refers to the conduct of the virtuous woman.",
+    "He promises to tell something of it."
+   ],
+   "inference": "Śaṅkara promises to tell something of the virtuous woman's conduct.",
+   "uncertainties": [],
+   "plain_english": "O smiling one, I will tell something of that virtuous woman's conduct."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "vedāṅga+sambhavā",
+     "gloss": "from-vedāṅga-born",
+     "grounds": "compound indicating origin from Vedāṅga",
+     "morph": "compound: vedāṅga+sambhava (f.nom.sg)"
+    },
+    {
+     "surface": "sādhvī",
+     "gloss": "virtuous-woman",
+     "grounds": "character description",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "spiritual identity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "subject pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "surī",
+     "gloss": "divine",
+     "grounds": "celestial or divine status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "regarded as such",
+     "morph": "f.nom.sg (past participle, man)"
+    }
+   ],
+   "question": "What origin and spiritual status are attributed to the virtuous woman identified as a yoginī?",
+   "premises": [
+    "She is born from Vedāṅga.",
+    "She is described as a virtuous woman and yoginī.",
+    "She is considered divine."
+   ],
+   "inference": "The virtuous yoginī, born from Vedāṅga, is regarded as divine.",
+   "uncertainties": [
+    "The precise sense of vedāṅga+sambhavā as origin is not fully explicit."
+   ],
+   "plain_english": "That virtuous woman, born from Vedāṅga, was a yoginī and was considered divine."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "mām+āptum",
+     "gloss": "me-to-obtain",
+     "grounds": "compound infinitive expressing purpose",
+     "morph": "compound: mām+āptum (1.acc.sg + infinitive, āp)"
+    },
+    {
+     "surface": "utkaṭaṃ",
+     "gloss": "intense",
+     "grounds": "quality of austerity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "taptam",
+     "gloss": "performed-austerity",
+     "grounds": "austerity undertaken",
+     "morph": "n.acc.sg (past participle, tap)"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative determiner",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of the field",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "kṣetra+kāmade",
+     "gloss": "desire-granting-field",
+     "grounds": "compound describing the sacred field",
+     "morph": "compound: kṣetra+kāmada (n.loc.sg)"
+    },
+    {
+     "surface": "kāmadā",
+     "gloss": "desire-granting",
+     "grounds": "epithet of the woman",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "For what purpose did the desire-granting yoginī perform intense austerity in the sacred field?",
+   "premises": [
+    "The yoginī performed intense austerity.",
+    "The austerity took place in the speaker's desire-granting field.",
+    "Her purpose was to obtain the speaker."
+   ],
+   "inference": "The desire-granting yoginī performed intense austerity in that field to obtain the speaker.",
+   "uncertainties": [],
+   "plain_english": "To obtain me, the desire-granting one performed intense austerity in this desire-granting field of mine."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "indefinite numeral",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brāhmaṇo",
+     "gloss": "brahmin",
+     "grounds": "visitor who arrives",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāto",
+     "gloss": "having-gone",
+     "grounds": "arrival at the place",
+     "morph": "m.nom.sg (past participle, yā)"
+    },
+    {
+     "surface": "bhikṣā+arthaṃ",
+     "gloss": "for-alms",
+     "grounds": "compound expressing purpose",
+     "morph": "compound: bhikṣā+artha (m.acc.sg)"
+    },
+    {
+     "surface": "tām",
+     "gloss": "to-her",
+     "grounds": "object addressed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "speech act",
+     "morph": "3.sg.perf.act (vac)"
+    },
+    {
+     "surface": "ha",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What encounter occurs when a brahmin arrives seeking alms from the yoginī?",
+   "premises": [
+    "A brahmin goes there.",
+    "He comes for the purpose of alms.",
+    "He speaks to her."
+   ],
+   "inference": "A brahmin arrives there seeking alms and addresses the yoginī.",
+   "uncertainties": [],
+   "plain_english": "There one brahmin came for alms and spoke to her."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaśāpa",
+     "gloss": "cursed",
+     "grounds": "act of cursing",
+     "morph": "3.sg.perf.act (śap)"
+    },
+    {
+     "surface": "vipraḥ",
+     "gloss": "brahmin",
+     "grounds": "agent of the curse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "recipient of the curse",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mlecchatāṃ",
+     "gloss": "barbarian-state",
+     "grounds": "condition imposed by curse",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāhi",
+     "gloss": "go",
+     "grounds": "imperative within curse",
+     "morph": "2.sg.imp.act (yā)"
+    },
+    {
+     "surface": "durmade",
+     "gloss": "o-arrogant-one",
+     "grounds": "vocative accusation",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What curse does the brahmin pronounce upon the yoginī and for what implied fault?",
+   "premises": [
+    "The brahmin curses her.",
+    "He commands her to become a barbarian.",
+    "He addresses her as arrogant."
+   ],
+   "inference": "The brahmin curses the yoginī to become a barbarian, calling her arrogant.",
+   "uncertainties": [
+    "The specific act of arrogance is not described in this verse."
+   ],
+   "plain_english": "Then the brahmin cursed her: 'Go to the state of a barbarian, O arrogant one.'"
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "iti+uktvā",
+     "gloss": "thus-having-said",
+     "grounds": "compound absolutive marking completion of speech",
+     "morph": "compound: iti+uktvā (indecl. + abs., vac)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the brahmin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yayau",
+     "gloss": "went",
+     "grounds": "departure",
+     "morph": "3.sg.perf.act (yā)"
+    },
+    {
+     "surface": "vipro",
+     "gloss": "brahmin",
+     "grounds": "subject restated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mlecchatvam",
+     "gloss": "barbarian-state",
+     "grounds": "condition attained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpa",
+     "gloss": "obtained",
+     "grounds": "result of the curse",
+     "morph": "3.sg.perf.act (āp)"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "recipient of the cursed state",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What immediate consequence follows the brahmin's curse upon the yoginī?",
+   "premises": [
+    "The brahmin speaks and departs.",
+    "The yoginī is the subject affected.",
+    "She obtains the state of a barbarian."
+   ],
+   "inference": "After the brahmin departs, the yoginī falls into the state of a barbarian.",
+   "uncertainties": [],
+   "plain_english": "Having said this, the brahmin went away, and the yoginī obtained the state of a barbarian."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "tasyāḥ+tu",
+     "gloss": "by-her-but",
+     "grounds": "compound indicating agent with contrastive particle",
+     "morph": "compound: tad+tu (f.gen.sg + indecl.)"
+    },
+    {
+     "surface": "tapasā",
+     "gloss": "by-austerity",
+     "grounds": "means of influence",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "krītaḥ",
+     "gloss": "bought",
+     "grounds": "metaphor for being won over",
+     "morph": "m.nom.sg (past participle, krī)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "abhavaṃ",
+     "gloss": "became",
+     "grounds": "resulting state",
+     "morph": "1.sg.imperf.act (bhū)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "permanence of the state",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the yoginī's austerity affect the speaker's relationship to her despite her cursed state?",
+   "premises": [
+    "The yoginī possesses austerity.",
+    "The speaker says he was bought by her austerity.",
+    "This became his enduring state."
+   ],
+   "inference": "Through her austerity the yoginī won the speaker over permanently.",
+   "uncertainties": [
+    "The metaphor of being 'bought' by austerity is figurative and context-dependent."
+   ],
+   "plain_english": "But, O goddess, by her austerity I was won over and became always hers."
+  }
+ ]
+}
