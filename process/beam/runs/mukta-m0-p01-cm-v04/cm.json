@@ -3,59 +3,49 @@
  "verse": 4,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "uttamaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "qualifies the teacher"
+  },
+  {
+   "lemma": "brāhmaṇaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "social or ritual identity"
+  },
+  {
+   "lemma": "tapasvī",
+   "morph": "m.nom.sg",
+   "grounds": "one engaged in austerity"
+  },
+  {
+   "lemma": "satya",
+   "morph": "compound: satya+vādī",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "vādī",
+   "morph": "m.nom.sg",
+   "grounds": "one who speaks truth"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "ga",
-   "morph": "compound-member",
-   "grounds": "phoneme component"
+   "lemma": "gṛhastho",
+   "morph": "m.nom.sg",
+   "grounds": "stage of life"
   },
   {
-   "lemma": "kāra",
-   "morph": "compound-member",
-   "grounds": "phoneme marker"
+   "lemma": "guruḥ",
+   "morph": "m.nom.sg",
+   "grounds": "subject being defined"
   },
   {
-   "lemma": "u",
-   "morph": "compound-member",
-   "grounds": "phoneme component"
-  },
-  {
-   "lemma": "kāra",
-   "morph": "compound-member",
-   "grounds": "phoneme marker"
-  },
-  {
-   "lemma": "visarjanīya",
-   "morph": "compound-member",
-   "grounds": "phoneme component"
-  },
-  {
-   "lemma": "bāhyaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "outside these elements"
-  },
-  {
-   "lemma": "yato",
-   "morph": "(indecl.)",
-   "grounds": "causal particle"
-  },
-  {
-   "lemma": "anyad",
-   "morph": "n.nom.sg",
-   "grounds": "something else"
-  },
-  {
-   "lemma": "atra",
-   "morph": "(indecl.)",
-   "grounds": "in this case"
-  },
-  {
-   "lemma": "asti",
-   "morph": "3.sg.act-pres",
-   "grounds": "is present"
+   "lemma": "ucyate",
+   "morph": "3.sg.pass-pres",
+   "grounds": "states designation"
   }
  ]
 }

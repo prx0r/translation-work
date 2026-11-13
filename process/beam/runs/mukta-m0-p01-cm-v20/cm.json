@@ -3,59 +3,44 @@
  "verse": 20,
  "rows": [
   {
-   "lemma": "guṇa",
-   "morph": "compound-member",
-   "grounds": "guṇa principle"
+   "lemma": "svapne",
+   "morph": "m.loc.sg",
+   "grounds": "dream state"
   },
   {
-   "lemma": "kāraṇatvena",
-   "morph": "n.ins.sg",
-   "grounds": "by causality of guṇas"
+   "lemma": "tū",
+   "morph": "(indecl.)",
+   "grounds": "contrastive particle"
   },
   {
-   "lemma": "eva",
+   "lemma": "niyamo",
+   "morph": "m.nom.sg",
+   "grounds": "restriction or requirement"
+  },
+  {
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation"
+  },
+  {
+   "lemma": "hi",
    "morph": "(indecl.)",
    "grounds": "emphatic particle"
   },
   {
-   "lemma": "siddheḥ",
-   "morph": "f.abl.sg",
-   "grounds": "since established"
-  },
-  {
-   "lemma": "kārya",
-   "morph": "compound-member",
-   "grounds": "product"
-  },
-  {
-   "lemma": "antara",
-   "morph": "compound-member",
-   "grounds": "another"
-  },
-  {
-   "lemma": "hetutve",
-   "morph": "n.loc.sg",
-   "grounds": "in being a cause of another effect"
-  },
-  {
-   "lemma": "ca",
-   "morph": "(indecl.)",
-   "grounds": "conjunction"
-  },
-  {
-   "lemma": "pramāṇa",
-   "morph": "compound-member",
-   "grounds": "valid means of knowledge"
-  },
-  {
-   "lemma": "abhāvād",
-   "morph": "m.abl.sg",
-   "grounds": "because of lack"
-  },
-  {
    "lemma": "iti",
    "morph": "(indecl.)",
-   "grounds": "concluding particle"
+   "grounds": "quotation marker"
+  },
+  {
+   "lemma": "nārada",
+   "morph": "compound: nārada+vacanāt",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "vacanāt",
+   "morph": "n.abl.sg",
+   "grounds": "based on Nārada's statement"
   }
  ]
 }

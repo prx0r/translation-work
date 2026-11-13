@@ -1,0 +1,1279 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun referring to previously mentioned agent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner adverb indicating similarity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvadbhiḥ",
+     "gloss": "by-so-many",
+     "grounds": "correlative measure indicating number of means",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "nihitaiḥ",
+     "gloss": "placed",
+     "grounds": "past participle describing things deposited or applied",
+     "morph": "n.inst.pl + ni-dhā"
+    },
+    {
+     "surface": "vijahāti",
+     "gloss": "abandons",
+     "grounds": "main verb expressing removal of bondage",
+     "morph": "3.sg.act.pres + vi-hā"
+    },
+    {
+     "surface": "bandhatvam",
+     "gloss": "bondage-ness",
+     "grounds": "abstract state of being bound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "By what means does that agent abandon the state of bondage?",
+   "premises": [
+    "A specific agent is under discussion",
+    "Certain means are applied or placed",
+    "Bondage is a state that can be abandoned"
+   ],
+   "inference": "Through those applied means, that agent abandons bondage.",
+   "uncertainties": [
+    "The exact referent of tasya depends on prior context"
+   ],
+   "plain_english": "Likewise, by so many means that have been applied, that one abandons the state of bondage."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "nihitaiḥ",
+     "gloss": "placed",
+     "grounds": "past participle describing applied means",
+     "morph": "n.inst.pl + ni-dhā"
+    },
+    {
+     "surface": "sadbhiḥ",
+     "gloss": "by-six",
+     "grounds": "numeral indicating six means",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bandhatvaṃ",
+     "gloss": "bondage-ness",
+     "grounds": "abstract state of being bound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijahāti",
+     "gloss": "abandons",
+     "grounds": "main verb expressing removal of bondage",
+     "morph": "3.sg.act.pres + vi-hā"
+    }
+   ],
+   "question": "How many applied means are required to abandon the state of bondage?",
+   "premises": [
+    "Means are applied to remove bondage",
+    "The number of means is specified as six",
+    "Bondage can be abandoned through these means"
+   ],
+   "inference": "By six applied means, one abandons bondage.",
+   "uncertainties": [],
+   "plain_english": "By six means that have been applied, one abandons the state of bondage."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "śārve",
+     "gloss": "in-śārva",
+     "grounds": "refers to the scripture associated with Śiva",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāstre",
+     "gloss": "in-scripture",
+     "grounds": "authoritative teaching or text",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "demonstrative referring to previously mentioned principles",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netarathā",
+     "gloss": "not-otherwise",
+     "grounds": "negated alternative manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktimanti",
+     "gloss": "endowed-with-reasoning",
+     "grounds": "possessing logical justification",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "come into being or are established",
+     "morph": "3.pl.mid.pres + jan"
+    }
+   ],
+   "question": "Where do these reasoned principles arise as valid and not otherwise?",
+   "premises": [
+    "Certain principles are under consideration",
+    "Principles can be reasoned or unreasoned",
+    "The Śārva scripture is an authoritative source"
+   ],
+   "inference": "These principles arise as reasoned only in the Śārva scripture.",
+   "uncertainties": [],
+   "plain_english": "And those principles arise as endowed with reasoning in the Śārva scripture, and not otherwise."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "bījād",
+     "gloss": "from-seed",
+     "grounds": "source compared to a seed",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "act of bestowing or producing",
+     "morph": "3.sg.act.pres + dā"
+    },
+    {
+     "surface": "citryaṃ",
+     "gloss": "variety",
+     "grounds": "manifold or diverse manifestation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣkṛṣya",
+     "gloss": "having-extracted",
+     "grounds": "drawing out or unfolding from within",
+     "morph": "(gerund) + niṣ-kṛṣ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to the agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sasādhanaṃ",
+     "gloss": "with-means",
+     "grounds": "accompanied by instruments or conditions",
+     "morph": "m.acc.sg (compound: sa+sādhana)"
+    },
+    {
+     "surface": "bhogam",
+     "gloss": "enjoyment",
+     "grounds": "experience or fruition",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who produces varied enjoyment together with its means from a seed?",
+   "premises": [
+    "A seed can yield diverse results",
+    "Enjoyment requires accompanying means",
+    "An agent extracts and gives this variety"
+   ],
+   "inference": "The agent who extracts and gives varied enjoyment with its means acts like a seed.",
+   "uncertainties": [
+    "The identity of yaḥ is clarified by later verses"
+   ],
+   "plain_english": "Who, having extracted it from the seed, gives variety and enjoyment together with its means."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "śuddhe",
+     "gloss": "in-pure",
+     "grounds": "qualified as pure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "adhvani",
+     "gloss": "path",
+     "grounds": "cosmic path or domain",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "the supreme lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "doer or causal agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "stated or taught in scripture",
+     "morph": "m.nom.sg + pra-vac"
+    },
+    {
+     "surface": "anantaḥ",
+     "gloss": "ananta",
+     "grounds": "the lord Ananta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asite",
+     "gloss": "in-impure",
+     "grounds": "qualified as impure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prabhuḥ",
+     "gloss": "lord",
+     "grounds": "ruling authority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks reported teaching",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which agents are declared to act in the pure and impure paths respectively?",
+   "premises": [
+    "The cosmic paths are divided into pure and impure",
+    "Agency is assigned within these paths",
+    "Scripture declares specific lords for each domain"
+   ],
+   "inference": "Śiva is the agent in the pure path, and Ananta is the lord in the impure path.",
+   "uncertainties": [],
+   "plain_english": "In the pure path Śiva is declared the agent, and in the impure path Ananta is the lord, thus it is said."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "the totality of manifestation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context or locus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nihitaṃ",
+     "gloss": "placed",
+     "grounds": "deposited or laid to rest",
+     "morph": "n.acc.sg + ni-dhā"
+    },
+    {
+     "surface": "pralaye",
+     "gloss": "at-dissolution",
+     "grounds": "time of cosmic reabsorption",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tena+eva",
+     "gloss": "by-that-very",
+     "grounds": "emphatic instrumental referring to the same agent",
+     "morph": "m.inst.sg (compound: tena+eva)"
+    },
+    {
+     "surface": "viśrāntyai",
+     "gloss": "for-rest",
+     "grounds": "purpose of repose or cessation",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose is the universe placed in dissolution by that very agent?",
+   "premises": [
+    "The universe undergoes dissolution",
+    "An agent places the universe in that state",
+    "Dissolution serves a purpose"
+   ],
+   "inference": "That very agent places the universe in dissolution for its rest.",
+   "uncertainties": [],
+   "plain_english": "And at dissolution the universe is placed there by that very one for the sake of rest."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "tathāvidhān",
+     "gloss": "of-such-nature",
+     "grounds": "having a particular condition or qualification",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "selves",
+     "grounds": "individual selves",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indicates repetition or renewal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogayogyān",
+     "gloss": "fit-for-enjoyment",
+     "grounds": "made capable of experiencing enjoyment",
+     "morph": "m.acc.pl (compound: bhoga+yogya)"
+    },
+    {
+     "surface": "vidhatte",
+     "gloss": "arranges",
+     "grounds": "ordains or makes ready",
+     "morph": "3.sg.mid.pres + vi-dhā"
+    }
+   ],
+   "question": "How does the agent prepare individual selves for renewed enjoyment after dissolution?",
+   "premises": [
+    "Individual selves exist in a particular condition",
+    "Enjoyment requires fitness",
+    "The agent acts again after dissolution"
+   ],
+   "inference": "The agent arranges the selves again so that they become fit for enjoyment.",
+   "uncertainties": [],
+   "plain_english": "And again he arranges the selves of such a nature so that they become fit for enjoyment."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "samalaṃ",
+     "gloss": "with-impurity",
+     "grounds": "associated with impurity",
+     "morph": "m.acc.sg (compound: sa+mala)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the previously mentioned agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahābaladaḥ",
+     "gloss": "great-strength-giver",
+     "grounds": "bestower of great power",
+     "morph": "m.nom.sg (compound: mahā+bala+da)"
+    },
+    {
+     "surface": "kāruṇyāt",
+     "gloss": "out-of-compassion",
+     "grounds": "motivated by compassion",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sarvadā+eva",
+     "gloss": "always",
+     "grounds": "emphatic continuity at all times",
+     "morph": "(indecl.) (compound: sarvadā+eva)"
+    },
+    {
+     "surface": "vinivṛttyai",
+     "gloss": "for-cessation",
+     "grounds": "purpose of turning away or removal",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why does the great-strength-giver act upon the self associated with impurity?",
+   "premises": [
+    "The self is associated with impurity",
+    "The agent gives great strength",
+    "Compassion motivates the agent's action"
+   ],
+   "inference": "Out of compassion, he always acts for the cessation of impurity.",
+   "uncertainties": [],
+   "plain_english": "Out of compassion, he, the giver of great strength, always acts for the cessation of that which is associated with impurity."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "puṃbala+rodhaṃ",
+     "gloss": "soul-strength-obstruction",
+     "grounds": "blocking the power of the individual self",
+     "morph": "m.acc.sg (compound: puṃs+bala+rodha)"
+    },
+    {
+     "surface": "kurvan",
+     "gloss": "making",
+     "grounds": "performing or effecting",
+     "morph": "m.nom.sg.act.pres.part + kṛ"
+    },
+    {
+     "surface": "dṛṣṭaḥ",
+     "gloss": "seen",
+     "grounds": "observed or understood in teaching",
+     "morph": "m.nom.sg + dṛś"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the agent under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśaśakti+sāhāyyam",
+     "gloss": "bond-power-assistance",
+     "grounds": "aid given to the power of bondage",
+     "morph": "n.acc.sg (compound: pāśa+śakti+sāhāyya)"
+    }
+   ],
+   "question": "How is the agent understood to assist the power of bondage in relation to the self?",
+   "premises": [
+    "The self's strength can be obstructed",
+    "Bondage has an operative power",
+    "The agent's action is observed in this process"
+   ],
+   "inference": "He is seen as obstructing the self's strength and assisting the power of bondage.",
+   "uncertainties": [
+    "The apparent assistance to bondage is explained by the maturation process"
+   ],
+   "plain_english": "He is seen as obstructing the strength of the soul and as assisting the power of bondage."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "bījasya",
+     "gloss": "of-seed",
+     "grounds": "object of comparison",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāpe",
+     "gloss": "in-sleep",
+     "grounds": "dormant state",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pariṇatiḥ",
+     "gloss": "maturation",
+     "grounds": "ripening or transformation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iṣṭā",
+     "gloss": "desired",
+     "grounds": "accepted or intended",
+     "morph": "f.nom.sg + iṣ"
+    },
+    {
+     "surface": "malasya",
+     "gloss": "of-impurity",
+     "grounds": "the impurity affecting the self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "citihāneḥ",
+     "gloss": "in-consciousness-diminution",
+     "grounds": "state of reduced awareness",
+     "morph": "f.loc.sg (compound: citi+hāni)"
+    }
+   ],
+   "question": "How is the maturation of impurity compared to the dormant state of a seed?",
+   "premises": [
+    "A seed matures while dormant",
+    "Impurity undergoes maturation",
+    "Consciousness can be diminished in this state"
+   ],
+   "inference": "The maturation of impurity in diminished consciousness is like the maturation of a seed in sleep.",
+   "uncertainties": [],
+   "plain_english": "Like the maturation of a seed in sleep, the maturation of impurity is accepted in the diminution of consciousness."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "sarvātmasu",
+     "gloss": "in-all-selves",
+     "grounds": "referring to every individual self",
+     "morph": "m.loc.pl (compound: sarva+ātman)"
+    },
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugapat",
+     "gloss": "simultaneously",
+     "grounds": "at the same time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "potential action under objection",
+     "morph": "3.sg.act.opt + kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the objection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "codayan",
+     "gloss": "objecting",
+     "grounds": "raising a challenge or doubt",
+     "morph": "m.nom.sg.act.pres.part + cud"
+    },
+    {
+     "surface": "vācyaḥ",
+     "gloss": "to-be-answered",
+     "grounds": "requiring a response",
+     "morph": "m.nom.sg + vac"
+    }
+   ],
+   "question": "Why must the objection about simultaneous action in all selves be answered?",
+   "premises": [
+    "An objection claims action should not occur simultaneously in all selves",
+    "Such an objection challenges the account of divine action",
+    "Objections require a reasoned answer"
+   ],
+   "inference": "The one raising this objection must be answered.",
+   "uncertainties": [],
+   "plain_english": "The one objecting, saying that he should not act simultaneously in all selves, must be answered."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the proposed solution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samādhiḥ",
+     "gloss": "solution",
+     "grounds": "resolution of the objection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anekatvāt",
+     "gloss": "because-of-multiplicity",
+     "grounds": "reason based on plurality",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kālāntara+bhogyatā",
+     "gloss": "enjoyability-at-another-time",
+     "grounds": "fitness for experience at a different time",
+     "morph": "f.nom.sg (compound: kālāntara+bhogya+tā)"
+    },
+    {
+     "surface": "balīyastvam",
+     "gloss": "greater-strength",
+     "grounds": "superior force or weight",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is multiplicity not a sufficient solution to the objection about simultaneous action?",
+   "premises": [
+    "Multiplicity is proposed as a solution",
+    "Enjoyability at another time is a factor",
+    "A stronger reason may override the proposed solution"
+   ],
+   "inference": "Because of multiplicity, enjoyability at another time, and greater strength, this is not a solution.",
+   "uncertainties": [
+    "The exact logical relation among the three reasons is compressed"
+   ],
+   "plain_english": "This is not a solution, because of multiplicity, because enjoyability occurs at another time, and because of greater strength."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "ce",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a claim",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "then",
+     "grounds": "consequent marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to proposed resolution",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samādhānaṃ",
+     "gloss": "solution",
+     "grounds": "proposed resolution",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "proper",
+     "grounds": "logically fitting or correct",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "reports the objection",
+     "morph": "3.sg.act.perf + ah"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation repeated in response",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samādhiḥ",
+     "gloss": "solution",
+     "grounds": "resolution under dispute",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What response is given to the claim that the proposed resolution is not proper?",
+   "premises": [
+    "Someone claims the proposed solution is not proper",
+    "The text reports this claim",
+    "The response rejects that solution"
+   ],
+   "inference": "The text states that this proposed solution is not a proper solution.",
+   "uncertainties": [],
+   "plain_english": "If one says, 'then this solution is not proper,' the reply is: 'it is not a solution.'"
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "īśe",
+     "gloss": "in-lord",
+     "grounds": "referring to the Lord",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bīje",
+     "gloss": "in-seed",
+     "grounds": "referring to the seed analogy",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "introduces reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavini",
+     "gloss": "in-future",
+     "grounds": "pertaining to what will be",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vibhutvaṃ",
+     "gloss": "pervasiveness",
+     "grounds": "all-pervading capacity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhoktṛbhāvaḥ",
+     "gloss": "experiencer-ness",
+     "grounds": "state of being an experiencer",
+     "morph": "m.nom.sg (compound: bhoktṛ+bhāva)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What future capacities are present in both the Lord and the seed analogy?",
+   "premises": [
+    "The Lord and the seed are being compared",
+    "Future states are under consideration",
+    "Pervasiveness and experiencer-ness are relevant capacities"
+   ],
+   "inference": "Because in both the Lord and the seed there is future pervasiveness and experiencer-ness.",
+   "uncertainties": [
+    "The precise scope of bhavini with both terms is interpretive"
+   ],
+   "plain_english": "Because in the Lord and in the seed there is future pervasiveness and the state of being an experiencer."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "bījād",
+     "gloss": "from-seed",
+     "grounds": "source in the analogy",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "yugapat",
+     "gloss": "simultaneously",
+     "grounds": "at the same time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "person",
+     "grounds": "the individual self or experiencer",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhojayati",
+     "gloss": "causes-to-enjoy",
+     "grounds": "brings about experience",
+     "morph": "3.sg.act.caus.pres + bhuj"
+    },
+    {
+     "surface": "sarva+karmāṇi",
+     "gloss": "all-actions",
+     "grounds": "the totality of actions or karmas",
+     "morph": "n.nom.pl (compound: sarva+karman)"
+    }
+   ],
+   "question": "How do all actions from a seed cause simultaneous enjoyment for a person?",
+   "premises": [
+    "A seed gives rise to multiple results",
+    "A person experiences enjoyment",
+    "All actions can operate together in the analogy"
+   ],
+   "inference": "From the seed, all actions simultaneously cause the person to enjoy.",
+   "uncertainties": [],
+   "plain_english": "From the seed, all actions simultaneously cause the person to experience enjoyment."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "pācayati",
+     "gloss": "matures",
+     "grounds": "ripens or brings to fruition",
+     "morph": "3.sg.act.caus.pres + pac"
+    },
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise",
+     "grounds": "emphatic similarity",
+     "morph": "(indecl.) (compound: tathā+eva)"
+    },
+    {
+     "surface": "śambhuḥ",
+     "gloss": "śambhu",
+     "grounds": "the benevolent Lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "referring to karmas or selves",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samānam",
+     "gloss": "same",
+     "grounds": "equivalence between cases",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ubhayatra",
+     "gloss": "in-both",
+     "grounds": "in both compared situations",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what way is Śambhu's maturation of karmas the same in both cases?",
+   "premises": [
+    "The seed analogy has been presented",
+    "Śambhu matures karmas or their results",
+    "A comparison is drawn between two cases"
+   ],
+   "inference": "Likewise Śambhu matures them, so the situation is the same in both cases.",
+   "uncertainties": [
+    "The referent of tān may be karmas or selves depending on context"
+   ],
+   "plain_english": "Likewise Śambhu matures them; thus it is the same in both cases."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "samānam",
+     "gloss": "same",
+     "grounds": "reaffirmation of equivalence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What conclusion is reaffirmed about the equivalence of the two cases?",
+   "premises": [
+    "A comparison between two cases has been made",
+    "Equivalence was asserted previously",
+    "The conclusion is restated"
+   ],
+   "inference": "The two cases are the same.",
+   "uncertainties": [],
+   "plain_english": "Thus, it is the same."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "śaknoti",
+     "gloss": "is-able",
+     "grounds": "has the capacity",
+     "morph": "3.sg.act.pres + śak"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle giving reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyatvaṃ",
+     "gloss": "fitness",
+     "grounds": "state of being fit or ready",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā+eva",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.) (compound: tathā+eva)"
+    },
+    {
+     "surface": "kartuṃ",
+     "gloss": "to-make",
+     "grounds": "to bring about",
+     "morph": "(inf.) + kṛ"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "the supreme Lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What capacity does the great Lord possess regarding the fitness of beings?",
+   "premises": [
+    "Fitness is required for experience or maturation",
+    "The great Lord is an agent",
+    "Divine capacity is under discussion"
+   ],
+   "inference": "The great Lord is indeed able to make fitness in the same way.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the great Lord is also able to bring about fitness in the same way."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-not-do",
+     "grounds": "optative action under inference",
+     "morph": "3.sg.act.opt + kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yugapat",
+     "gloss": "simultaneously",
+     "grounds": "at the same time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks inferred conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anumīyate",
+     "gloss": "is-inferred",
+     "grounds": "known by inference",
+     "morph": "3.sg.pass.pres + anu-mā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What conclusion is inferred about the Lord acting simultaneously in all cases?",
+   "premises": [
+    "The Lord has the capacity to act",
+    "Simultaneous action is questioned",
+    "Inference is used to determine the meaning"
+   ],
+   "inference": "It is inferred that he does not act simultaneously; this is the meaning.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that it is inferred: he does not act simultaneously."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "bhavatā",
+     "gloss": "by-you",
+     "grounds": "addressed interlocutor",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "uttaram",
+     "gloss": "answer",
+     "grounds": "reply to the objection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhidheyaṃ",
+     "gloss": "to-be-stated",
+     "grounds": "required to be expressed",
+     "morph": "n.nom.sg + abhi-dhā"
+    },
+    {
+     "surface": "sthitisamaye",
+     "gloss": "in-maintenance-time",
+     "grounds": "period of cosmic maintenance",
+     "morph": "m.loc.sg (compound: sthiti+samaya)"
+    },
+    {
+     "surface": "samānakālīne",
+     "gloss": "at-same-time",
+     "grounds": "occurring at the same time",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What answer must be stated regarding events occurring at the same time during maintenance?",
+   "premises": [
+    "An interlocutor must provide an answer",
+    "The context is the time of maintenance",
+    "Events may be considered as occurring at the same time"
+   ],
+   "inference": "You must state the answer concerning what occurs at the same time during the period of maintenance.",
+   "uncertainties": [],
+   "plain_english": "You must state the answer regarding what occurs at the same time during the period of maintenance."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "pāka",
+     "gloss": "maturation",
+     "grounds": "ripening of karma or impurity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "what remains to be explained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sugamam",
+     "gloss": "easy",
+     "grounds": "easy to understand",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What factor alone makes the remaining explanation easy to understand?",
+   "premises": [
+    "An explanation has been partially given",
+    "Maturation is a key factor",
+    "The remainder should follow easily"
+   ],
+   "inference": "Maturation alone is the key, and the remainder is easy.",
+   "uncertainties": [],
+   "plain_english": "It is maturation indeed; the remainder is easy to understand."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "yāvati",
+     "gloss": "in-whatever",
+     "grounds": "relative measure of extent",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "time",
+     "grounds": "period or moment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "happens",
+     "grounds": "comes to be",
+     "morph": "3.sg.act.pres + bhū"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "the event or maturation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in that manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "correlative extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśena",
+     "gloss": "by-lord",
+     "grounds": "by the Lord as agent",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How does the Lord's action correspond to the time in which maturation occurs?",
+   "premises": [
+    "Maturation occurs at a certain time",
+    "The Lord is the agent of maturation",
+    "Timing and action correspond"
+   ],
+   "inference": "Whatever occurs at a given time occurs thus to that extent by the Lord.",
+   "uncertainties": [],
+   "plain_english": "Indeed, in whatever time that happens, it happens to that extent in that way by the Lord."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "reports the teaching",
+     "morph": "3.sg.act.perf + ah"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "the present point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tulyam",
+     "gloss": "equal",
+     "grounds": "equivalent or comparable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What equivalence is affirmed by the teaching in this conclusion?",
+   "premises": [
+    "A comparison has been developed",
+    "The teaching draws a conclusion",
+    "Equivalence is asserted"
+   ],
+   "inference": "Thus it is said: this is equal.",
+   "uncertainties": [
+    "The exact terms being equated rely on preceding verses"
+   ],
+   "plain_english": "Thus he says: this is equal."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "alam",
+     "gloss": "enough",
+     "grounds": "sufficient or concluding",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddiṣṭam",
+     "gloss": "indicated",
+     "grounds": "pointed out or stated",
+     "morph": "n.nom.sg + ud-diś"
+    },
+    {
+     "surface": "aśuddheḥ",
+     "gloss": "of-impure",
+     "grounds": "of the impure domain or impurity",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sadrūpaṃ",
+     "gloss": "true-form",
+     "grounds": "real nature or proper form",
+     "morph": "n.nom.sg (compound: sat+rūpa)"
+    },
+    {
+     "surface": "niravaśeṣeṇa",
+     "gloss": "without-remainder",
+     "grounds": "completely, leaving nothing out",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What has been fully indicated regarding the true nature of the impure domain?",
+   "premises": [
+    "The impure domain has been discussed",
+    "Its true nature can be indicated",
+    "The exposition aims at completeness"
+   ],
+   "inference": "The true nature of the impure has been indicated completely.",
+   "uncertainties": [],
+   "plain_english": "Enough; the true nature of the impure has been indicated without remainder."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 6,
- "question": "What consequence would follow if meaning arose only at the final phoneme?",
+ "question": "What additional penalty may be incurred for the fault described?",
  "premises": [
-  "If meaning depended only on the final phoneme, it would arise at the beginning too.",
-  "Such an outcome is implied by the objection.",
-  "The stated sense highlights this consequence."
+  "A curse is mentioned",
+  "Obtaining is expressed as a possibility",
+  "The consequence is negative"
  ],
- "inference": "The view that meaning arises only at the end leads to an unacceptable consequence.",
- "uncertainties": [],
- "plain_english": "The sense is: it would then also be so at the very beginning."
+ "inference": "One may obtain a curse.",
+ "uncertainties": [
+  "The subject and cause are implied from context."
+ ],
+ "plain_english": "One would obtain a curse."
 }

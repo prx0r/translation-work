@@ -1,0 +1,1247 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "guruñ",
+     "gloss": "teacher",
+     "grounds": "object of reverence or address",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound",
+     "morph": "compound: jñāna+dātāram"
+    },
+    {
+     "surface": "dātāraṃ",
+     "gloss": "giver",
+     "grounds": "one who imparts knowledge",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇānandena",
+     "gloss": "by-kṛṣṇānanda",
+     "grounds": "agent or author name",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dhīmatā",
+     "gloss": "wise",
+     "grounds": "qualifies kṛṣṇānanda",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Who is being honored as the teacher and giver of knowledge?",
+   "premises": [
+    "A teacher is addressed",
+    "The teacher gives knowledge",
+    "The wise Kṛṣṇānanda refers to this teacher"
+   ],
+   "inference": "The teacher is honored as the giver of knowledge by the wise Kṛṣṇānanda.",
+   "uncertainties": [],
+   "plain_english": "And the wise Kṛṣṇānanda honors the teacher, the giver of knowledge."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of pair",
+     "morph": "compound: guru+śiṣyayoḥ"
+    },
+    {
+     "surface": "śiṣyayoḥ",
+     "gloss": "and-disciple",
+     "grounds": "pair of teacher and disciple",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "Which two parties form the central relationship under discussion?",
+   "premises": [
+    "A teacher is mentioned",
+    "A disciple is mentioned",
+    "Both are referred to together as a pair"
+   ],
+   "inference": "The relationship concerns both the teacher and the disciple.",
+   "uncertainties": [],
+   "plain_english": "Of the teacher and the disciple."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "states designation",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What designation is formally applied to the figure being defined?",
+   "premises": [
+    "A figure is the subject",
+    "A designation is being stated",
+    "The term used is teacher"
+   ],
+   "inference": "The figure is formally called the teacher.",
+   "uncertainties": [],
+   "plain_english": "He is called the teacher."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "uttamaḥ",
+     "gloss": "best",
+     "grounds": "qualifies the teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brāhmaṇa",
+     "grounds": "social or ritual identity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tapasvī",
+     "gloss": "ascetic",
+     "grounds": "one engaged in austerity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satya",
+     "gloss": "truth",
+     "grounds": "first member of compound",
+     "morph": "compound: satya+vādī"
+    },
+    {
+     "surface": "vādī",
+     "gloss": "speaker",
+     "grounds": "one who speaks truth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhastho",
+     "gloss": "householder",
+     "grounds": "stage of life",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject being defined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states designation",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What qualities define the best person who may be called a teacher?",
+   "premises": [
+    "The best brāhmaṇa is described",
+    "He is ascetic and truth-speaking",
+    "A householder with these qualities is called teacher"
+   ],
+   "inference": "The best teacher is a truth-speaking, ascetic brāhmaṇa householder.",
+   "uncertainties": [],
+   "plain_english": "The best brāhmaṇa, an ascetic, a speaker of truth, and a householder, is called a teacher."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to a person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "movement to a destination",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "nakaraṃ",
+     "gloss": "to-hell",
+     "grounds": "destination of suffering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ghoraṃ",
+     "gloss": "terrible",
+     "grounds": "qualifies hell",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual offering or honor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viphalā",
+     "gloss": "fruitless",
+     "grounds": "without result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What consequences follow when the proper conditions for worship are violated?",
+   "premises": [
+    "A person goes to terrible hell",
+    "Worship is mentioned",
+    "That worship becomes fruitless"
+   ],
+   "inference": "Violation leads to terrible hell and fruitless worship.",
+   "uncertainties": [
+    "The specific condition violated is not stated in this verse."
+   ],
+   "plain_english": "He goes to terrible hell, and that worship becomes fruitless."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "śāpam",
+     "gloss": "curse",
+     "grounds": "negative consequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "obtains",
+     "grounds": "receives as result",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What additional penalty may be incurred for the fault described?",
+   "premises": [
+    "A curse is mentioned",
+    "Obtaining is expressed as a possibility",
+    "The consequence is negative"
+   ],
+   "inference": "One may obtain a curse.",
+   "uncertainties": [
+    "The subject and cause are implied from context."
+   ],
+   "plain_english": "One would obtain a curse."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "vāmanaḥ",
+     "gloss": "dwarf",
+     "grounds": "physical characteristic",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ku",
+     "gloss": "bad",
+     "grounds": "first member of compound",
+     "morph": "compound: ku+nakhī"
+    },
+    {
+     "surface": "nakhī",
+     "gloss": "nailed",
+     "grounds": "having bad nails",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāva",
+     "gloss": "dark",
+     "grounds": "first member of compound",
+     "morph": "compound: śyāva+dantaḥ"
+    },
+    {
+     "surface": "dantaḥ",
+     "gloss": "toothed",
+     "grounds": "having dark teeth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strī",
+     "gloss": "by-woman",
+     "grounds": "first member of compound",
+     "morph": "compound: strī+jitaḥ"
+    },
+    {
+     "surface": "jitaḥ",
+     "gloss": "conquered",
+     "grounds": "dominated by a woman",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikāṅgakaḥ",
+     "gloss": "having-extra-limb",
+     "grounds": "physical deformity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What physical or personal defects disqualify someone from being a teacher?",
+   "premises": [
+    "Various bodily defects are listed",
+    "Being dominated by a woman is listed",
+    "These traits characterize an unsuitable person"
+   ],
+   "inference": "Persons with such defects are disqualified from being teachers.",
+   "uncertainties": [
+    "The disqualification is implied by the list's context."
+   ],
+   "plain_english": "A dwarf, one with bad nails, dark teeth, conquered by a woman, or having an extra limb."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "vihīnaḥ",
+     "gloss": "devoid",
+     "grounds": "lacking something",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṭhāntara",
+     "gloss": "variant-reading",
+     "grounds": "editorial note in text",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "role in question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣya",
+     "gloss": "by-disciple",
+     "grounds": "first member of compound",
+     "morph": "compound: śiṣya+sammataḥ"
+    },
+    {
+     "surface": "sammataḥ",
+     "gloss": "approved",
+     "grounds": "accepted or agreed upon",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can a deficient person be accepted as a teacher by a disciple?",
+   "premises": [
+    "A person is described as devoid",
+    "A variant reading is noted",
+    "Such a person may be approved by a disciple as teacher"
+   ],
+   "inference": "A deficient person may still be approved as teacher by a disciple.",
+   "uncertainties": [
+    "The exact deficiency is unclear due to the variant reading marker."
+   ],
+   "plain_english": "He who is devoid — variant reading — is approved as a teacher by the disciple."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "kriyā",
+     "gloss": "rite",
+     "grounds": "first member of compound",
+     "morph": "compound: kriyā+hīnaṃ"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "devoid",
+     "grounds": "lacking ritual practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaṭhañ",
+     "gloss": "deceitful",
+     "grounds": "dishonest character",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmanaṃ",
+     "gloss": "dwarf",
+     "grounds": "physically deficient person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of compound",
+     "morph": "compound: guru+nindakam"
+    },
+    {
+     "surface": "nindakam",
+     "gloss": "reviler",
+     "grounds": "one who criticizes the teacher",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which types of persons should be rejected as unsuitable teachers or associates?",
+   "premises": [
+    "Persons lacking rites are listed",
+    "Deceitful persons and dwarfs are listed",
+    "A reviler of the teacher is listed"
+   ],
+   "inference": "Such persons are unsuitable and should be rejected.",
+   "uncertainties": [],
+   "plain_english": "One devoid of rites, deceitful, a dwarf, and a reviler of the teacher."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "object to be avoided",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tantreṇa",
+     "gloss": "by-scripture",
+     "grounds": "according to tantric teaching",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "injunction to reject",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What scriptural injunction applies to an unfit teacher?",
+   "premises": [
+    "A teacher is the object",
+    "Tantric scripture is the authority",
+    "Avoidance is prescribed"
+   ],
+   "inference": "According to scripture, one should avoid such a teacher.",
+   "uncertainties": [],
+   "plain_english": "One should avoid such a teacher according to the tantra."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "vāmanaḥ",
+     "gloss": "dwarf",
+     "grounds": "example of disqualified type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādy",
+     "gloss": "beginning-with",
+     "grounds": "and so forth",
+     "morph": "compound: ādi+api"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhyam",
+     "gloss": "to-be-understood",
+     "grounds": "instruction to the reader",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How broadly should the list of disqualifying traits be understood?",
+   "premises": [
+    "The dwarf is mentioned as an example",
+    "Similar cases are indicated",
+    "The reader is instructed to understand accordingly"
+   ],
+   "inference": "The disqualifying traits include the dwarf and others like him.",
+   "uncertainties": [],
+   "plain_english": "Thus, the dwarf and others like him should also be understood in this way."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "dāna",
+     "gloss": "giving",
+     "grounds": "first member of compound",
+     "morph": "compound: dāna+dhyāna"
+    },
+    {
+     "surface": "dhyāna",
+     "gloss": "meditation",
+     "grounds": "second member of compound",
+     "morph": "compound: dhyāna+parāyaṇ"
+    },
+    {
+     "surface": "parāyaṇ",
+     "gloss": "devoted",
+     "grounds": "dedicated to giving and meditation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What positive practices characterize a person devoted to spiritual discipline?",
+   "premises": [
+    "Giving is mentioned",
+    "Meditation is mentioned",
+    "Devotion to these is indicated"
+   ],
+   "inference": "A disciplined person is devoted to giving and meditation.",
+   "uncertainties": [
+    "The subject is implied from surrounding context."
+   ],
+   "plain_english": "Devoted to giving and meditation."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "dīnāya",
+     "gloss": "to-wretched",
+     "grounds": "recipient described as miserable",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ācāra",
+     "gloss": "conduct",
+     "grounds": "first member of compound",
+     "morph": "compound: ācāra+śūnyāya"
+    },
+    {
+     "surface": "śūnyāya",
+     "gloss": "devoid",
+     "grounds": "lacking proper conduct",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "yantra",
+     "gloss": "yantra",
+     "grounds": "first member of compound",
+     "morph": "compound: yantra+dveṣa"
+    },
+    {
+     "surface": "dveṣa",
+     "gloss": "hatred",
+     "grounds": "hostility toward yantra",
+     "morph": "compound: dveṣa+parāya"
+    },
+    {
+     "surface": "parāya",
+     "gloss": "devoted",
+     "grounds": "dedicated to hatred of yantra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What negative traits identify recipients unworthy of receiving sacred instruction?",
+   "premises": [
+    "A wretched person is mentioned",
+    "One devoid of conduct is mentioned",
+    "One devoted to hatred of yantra is mentioned"
+   ],
+   "inference": "Such persons are unworthy recipients of sacred instruction.",
+   "uncertainties": [],
+   "plain_english": "To the wretched, to one devoid of conduct, and to one devoted to hatred of the yantra."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "first member of compound",
+     "morph": "compound: guru+bhakti"
+    },
+    {
+     "surface": "bhakti",
+     "gloss": "devotion",
+     "grounds": "second member of compound",
+     "morph": "compound: bhakti+vihīnāya"
+    },
+    {
+     "surface": "vihīnāya",
+     "gloss": "devoid",
+     "grounds": "lacking devotion to teacher",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyā",
+     "gloss": "to-be-given",
+     "grounds": "prohibition of giving",
+     "morph": "f.nom.sg.gerundive"
+    },
+    {
+     "surface": "malināya",
+     "gloss": "to-impure",
+     "grounds": "recipient described as impure",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom must sacred knowledge or initiation not be given?",
+   "premises": [
+    "One lacking devotion to the teacher is mentioned",
+    "An impure person is mentioned",
+    "Giving is prohibited"
+   ],
+   "inference": "Sacred knowledge must not be given to those lacking devotion to the teacher or to the impure.",
+   "uncertainties": [
+    "The thing not to be given is implied from context."
+   ],
+   "plain_english": "It should not be given to one devoid of devotion to the teacher, nor to the impure."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "kṛpaṇāḥ",
+     "gloss": "miserly",
+     "grounds": "character flaw",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds similar cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daridrā",
+     "gloss": "poor",
+     "grounds": "lacking wealth",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rogiṇo",
+     "gloss": "diseased",
+     "grounds": "afflicted by illness",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ruṣṭā",
+     "gloss": "angry",
+     "grounds": "prone to anger",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rāgiṇo",
+     "gloss": "passionate",
+     "grounds": "dominated by desire",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhoga",
+     "gloss": "enjoyment",
+     "grounds": "first member of compound",
+     "morph": "compound: bhoga+lālasāḥ"
+    },
+    {
+     "surface": "lālasāḥ",
+     "gloss": "desirous",
+     "grounds": "craving enjoyment",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What personal conditions or dispositions make individuals unsuitable as disciples?",
+   "premises": [
+    "Miserly and poor persons are listed",
+    "Diseased, angry, and passionate persons are listed",
+    "Those craving enjoyment are listed"
+   ],
+   "inference": "Persons with these conditions or dispositions are unsuitable as disciples.",
+   "uncertainties": [],
+   "plain_english": "The miserly, the poor, the diseased, the angry, the passionate, and those desirous of enjoyment."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "anyāya",
+     "gloss": "by-unjust-means",
+     "grounds": "first member of compound",
+     "morph": "compound: anyāya+upārjita"
+    },
+    {
+     "surface": "upārjita",
+     "gloss": "acquired",
+     "grounds": "second member of compound",
+     "morph": "compound: upārjita+dhanāḥ"
+    },
+    {
+     "surface": "dhanāḥ",
+     "gloss": "wealth",
+     "grounds": "those possessing unjustly acquired wealth",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "para",
+     "gloss": "another's",
+     "grounds": "first member of compound",
+     "morph": "compound: para+dāra"
+    },
+    {
+     "surface": "dāra",
+     "gloss": "wife",
+     "grounds": "second member of compound",
+     "morph": "compound: dāra+ratāḥ"
+    },
+    {
+     "surface": "ratāḥ",
+     "gloss": "delighting",
+     "grounds": "taking pleasure in another's wife",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What unethical behaviors disqualify a person from discipleship?",
+   "premises": [
+    "Some acquire wealth by unjust means",
+    "Some delight in another's wife",
+    "These persons are identified by such behavior"
+   ],
+   "inference": "Those who act unethically in these ways are disqualified from discipleship.",
+   "uncertainties": [],
+   "plain_english": "And those whose wealth is acquired by unjust means, and who delight in another's wife."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "bhraṣṭa",
+     "gloss": "fallen",
+     "grounds": "first member of compound",
+     "morph": "compound: bhraṣṭa+ācārāḥ"
+    },
+    {
+     "surface": "ācārāḥ",
+     "gloss": "conduct",
+     "grounds": "those of fallen conduct",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kaṣṭa",
+     "gloss": "difficult",
+     "grounds": "first member of compound",
+     "morph": "compound: kaṣṭa+vṛttayaḥ"
+    },
+    {
+     "surface": "vṛttayaḥ",
+     "gloss": "livelihood",
+     "grounds": "those with harsh livelihood",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "piśunāḥ",
+     "gloss": "slanderous",
+     "grounds": "given to backbiting",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "khalāḥ",
+     "gloss": "wicked",
+     "grounds": "morally bad",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What further moral failings exclude a person from being accepted as a disciple?",
+   "premises": [
+    "Persons of fallen conduct are listed",
+    "Those with harsh livelihood are listed",
+    "Slanderous and wicked persons are listed"
+   ],
+   "inference": "Persons with these moral failings should be excluded from discipleship.",
+   "uncertainties": [
+    "The sense of kaṣṭa-vṛttayaḥ may be context-dependent."
+   ],
+   "plain_english": "And those of fallen conduct, those with a difficult livelihood, the slanderous, and the wicked."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "parityājyāḥ",
+     "gloss": "to-be-rejected",
+     "grounds": "injunction to abandon",
+     "morph": "m.nom.pl.gerundive"
+    },
+    {
+     "surface": "śiṣyatvena",
+     "gloss": "in-discipleship",
+     "grounds": "in the role of disciple",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "upakalpitāḥ",
+     "gloss": "considered",
+     "grounds": "regarded or proposed",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What action must be taken toward those deemed unfit for discipleship?",
+   "premises": [
+    "Certain persons are considered for discipleship",
+    "Rejection is prescribed",
+    "The context is the role of disciple"
+   ],
+   "inference": "Those considered unfit must be rejected as disciples.",
+   "uncertainties": [],
+   "plain_english": "Those considered for discipleship should be rejected."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "gurutā",
+     "gloss": "teacherhood",
+     "grounds": "state of being a teacher",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śiṣyatā",
+     "gloss": "discipleship",
+     "grounds": "state of being a disciple",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "refers to teacher and disciple",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "vatsara",
+     "gloss": "year",
+     "grounds": "first member of compound",
+     "morph": "compound: vatsara+vāsataḥ"
+    },
+    {
+     "surface": "vāsataḥ",
+     "gloss": "residence",
+     "grounds": "living together for a year",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What period of mutual residence is required to establish the teacher-disciple relationship?",
+   "premises": [
+    "Teacherhood and discipleship are mentioned",
+    "Both parties are referred to",
+    "A year of residence is indicated"
+   ],
+   "inference": "Teacherhood or discipleship is established through a year of living together.",
+   "uncertainties": [
+    "The exact grammatical construction of vāsataḥ is context-dependent."
+   ],
+   "plain_english": "Teacherhood or discipleship arises from their living together for a year."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "svapne",
+     "gloss": "in-dream",
+     "grounds": "dream state",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tū",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyamo",
+     "gloss": "rule",
+     "grounds": "restriction or requirement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārada",
+     "gloss": "of-nārada",
+     "grounds": "first member of compound",
+     "morph": "compound: nārada+vacanāt"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "statement",
+     "grounds": "based on Nārada's statement",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Does the usual rule for establishing the relationship apply in a dream context?",
+   "premises": [
+    "A dream context is mentioned",
+    "The rule is negated",
+    "Nārada's statement is cited as authority"
+   ],
+   "inference": "According to Nārada, the usual rule does not apply in a dream.",
+   "uncertainties": [],
+   "plain_english": "But in a dream there is indeed no such rule, according to the statement of Nārada."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds a related consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣya",
+     "gloss": "by-disciple",
+     "grounds": "first member of compound",
+     "morph": "compound: śiṣya+ārjjitaṃ"
+    },
+    {
+     "surface": "ārjjitaṃ",
+     "gloss": "acquired",
+     "grounds": "earned or accumulated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "negative karmic result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "recipient of consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "receives as result",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What karmic consequence does a teacher incur from a disciple's wrongdoing?",
+   "premises": [
+    "Sin acquired by the disciple is mentioned",
+    "The teacher obtains it",
+    "This result is stated as certain"
+   ],
+   "inference": "The teacher certainly obtains the sin acquired by the disciple.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the teacher certainly obtains the sin acquired by the disciple."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "śiṣya",
+     "gloss": "of-disciple",
+     "grounds": "first member of compound",
+     "morph": "compound: śiṣya+yogyatā"
+    },
+    {
+     "surface": "yogyatā",
+     "gloss": "fitness",
+     "grounds": "suitability or qualification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What quality of the disciple is being identified as a key concern?",
+   "premises": [
+    "A disciple is mentioned",
+    "Fitness is mentioned",
+    "The topic is the disciple's qualification"
+   ],
+   "inference": "The fitness of the disciple is the concern.",
+   "uncertainties": [],
+   "plain_english": "The fitness of the disciple."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "divine beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prasīdanti",
+     "gloss": "are-pleased",
+     "grounds": "become gracious",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "current cosmic age",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "other",
+     "grounds": "first member of compound",
+     "morph": "compound: anya+vidhānataḥ"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "by-means",
+     "grounds": "by other methods",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why are alternative ritual methods ineffective for pleasing the gods in the Kali age?",
+   "premises": [
+    "The Kali age is specified",
+    "The gods are not pleased",
+    "Other methods are indicated as ineffective"
+   ],
+   "inference": "In the Kali age, the gods are not pleased by other methods.",
+   "uncertainties": [],
+   "plain_english": "Indeed, in the Kali age the gods are not pleased by other methods."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "refers to practitioners or gods",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "āgama",
+     "gloss": "by-āgama",
+     "grounds": "first member of compound",
+     "morph": "compound: āgama+mārgeṇa"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "path",
+     "grounds": "by the path of the Āgamas",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrauta",
+     "gloss": "by-vedic",
+     "grounds": "first member of compound",
+     "morph": "compound: śrauta+vartmanā"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "way",
+     "grounds": "by the Vedic way",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "Which scriptural path leads to success in the Kali age rather than the Vedic way?",
+   "premises": [
+    "Success is mentioned",
+    "The Āgama path is specified",
+    "The Vedic way is negated"
+   ],
+   "inference": "In this context, success comes by the Āgama path, not by the Vedic way.",
+   "uncertainties": [
+    "The referent of teṣām is implied from context."
+   ],
+   "plain_english": "For them, success comes by the path of the Āgamas, not by the Vedic way."
+  }
+ ]
+}

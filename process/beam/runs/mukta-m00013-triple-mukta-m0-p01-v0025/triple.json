@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "teṣā",
+     "gloss": "of-them",
+     "grounds": "genitive plural masculine of tad, referring to the deities mentioned previously; sandhi form before bhidā",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "bhidā",
+     "gloss": "distinction",
+     "grounds": "difference or division among them",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karttavyā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation or propriety",
+     "morph": "gerundive.nom.sg.f"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "icchet",
+     "gloss": "one-should-desire",
+     "grounds": "expresses wish or intention",
+     "morph": "3.sg.act-opt √iṣ"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "welfare",
+     "grounds": "good or auspicious outcome",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-oneself",
+     "grounds": "refers to one's own self or benefit",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Should a practitioner seeking personal welfare make distinctions among the deities?",
+   "premises": [
+    "The deities in question follow the āgama path for attainment.",
+    "Making distinctions among them is presented as an action subject to prohibition.",
+    "The desire for one's own welfare conditions the prescribed conduct."
+   ],
+   "inference": "One who desires personal welfare should not make distinctions among those deities.",
+   "uncertainties": [
+    "The exact scope of teṣā depends on the specific deities identified in the preceding verses."
+   ],
+   "plain_english": "If one desires one's own welfare, one should not make distinctions among them."
+  }
+ ]
+}

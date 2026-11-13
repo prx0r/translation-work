@@ -3,44 +3,34 @@
  "verse": 30,
  "rows": [
   {
-   "lemma": "tasmāt",
+   "lemma": "kulārṇave",
+   "morph": "m.loc.sg",
+   "grounds": "textual source citation"
+  },
+  {
+   "lemma": "sarvaśātrārthavettā",
+   "morph": "compound: sarva+śāstra+artha+vettṛ+m.nom.sg",
+   "grounds": "sarva-śāstra-artha-vettā; qualification"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "draws conclusion from prior reasoning"
+   "grounds": "connects qualifications"
   },
   {
-   "lemma": "pratipuruṣāt",
-   "morph": "prati+puruṣa (compound, m.abl.sg)",
-   "grounds": "compound: prati + puruṣa, indicating distribution per individual self"
+   "lemma": "gṛhastho",
+   "morph": "m.nom.sg",
+   "grounds": "social status"
   },
   {
-   "lemma": "tacchakteśca",
-   "morph": "tat+śakti (compound, f.abl.sg) + ca (indecl.)",
-   "grounds": "compound with sandhi: tat + śakteḥ + ca"
+   "lemma": "gurur",
+   "morph": "m.nom.sg",
+   "grounds": "role affirmed"
   },
   {
-   "lemma": "bhinnā",
-   "morph": "f.nom.sg",
-   "grounds": "qualifies kuṇḍalinī as different from person and power"
-  },
-  {
-   "lemma": "kuṇḍalinī",
-   "morph": "f.nom.sg",
-   "grounds": "technical term retained as name"
-  },
-  {
-   "lemma": "nādakāraṇaṃ",
-   "morph": "nāda+kāraṇa (compound, n.nom.sg)",
-   "grounds": "compound: nāda + kāraṇa, identifying function"
-  },
-  {
-   "lemma": "siddhā",
-   "morph": "f.nom.sg (ppp, √sidh)",
-   "grounds": "past passive participle indicating doctrinal conclusion"
-  },
-  {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "closes the conclusion"
+   "lemma": "ucyate",
+   "morph": "3.sg.present-passive + vac",
+   "grounds": "authoritative statement"
   }
  ]
 }

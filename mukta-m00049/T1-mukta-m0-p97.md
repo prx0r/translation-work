@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p97-v2401
-[all+accomplishment](sarvasiddhim) [obtains](avāpnoti) [human](mānavaḥ) [from-kaula+worship](kaulikārcanāt)
+[all](sarva)+[accomplishment](siddhim)+[obtains](avāpnoti) [human](mānavaḥ) [kaula](kaulika)+[worship](arcanāt)
 
 ## mukta-m0-p97-v2402
-[complete+task+accomplishment](sampūrṇakāryasiddhiḥ) [would-be](syāt) [by-one](ekayā) [kaula+worship](kaulikārcayā)
+[complete](sampūrṇa)+[task](kārya)+[accomplishment](siddhiḥ) [becomes](syāt)+[by-one](ekayā) [kaula](kaulika)+[worship](arcayā)
 
 ## mukta-m0-p97-v2403
-[for-departed+heaven](pretasvargāya) [one-should-give](dadyāt)
+[departed-spirit](preta)+[heaven](svargāya) [should-give](dadyāt) [89](|| 89)
 
 ## mukta-m0-p97-v2404
-[for-that+own+attainment](tatsvaravāptaye) [for-departed+heaven+attainment](pretasvargāvāptaye)
+[that](tat)+[own-note](svara)+[attainment](vāptaye) [departed-spirit](preta)+[heaven](svarga)+[attainment](avāptaye) [91](|| 91)
 
 ## mukta-m0-p97-v2405
 [hungry](bubhukṣitān) [starving](kṣudhitān)
 
 ## mukta-m0-p97-v2406
-[dark](asitāṃ) [fifth](pañcamīṃ) [until](yāvat) [rule+this](vidhireṣa) [śiva+uttered](śivoditaḥ)
+[dark](asitāṃ) [fifth-day](pañcamīṃ) [until](yāvat) [rule](vidhiḥ)+[this](eṣa) [śiva](śiva)+[declared](uditaḥ)
 
 ## mukta-m0-p97-v2407
-[actions+not+to-be-abandoned](karmāṇyaparihāryāṇi) [action+desiring](karmārthī) [to-do+is-fit](kartumarhati)
+[actions](karmāṇi)+[not](a)+[to-be-avoided](parihāryāṇi) [action](karma)+[desiring](arthī) [to-do](kartum)+[is-fit](arhati)
 
 ## mukta-m0-p97-v2408
-[having-worshipped](sampūjyā) [primordial-goddess](ādyāṃ) [with-five+elements](pañcatattvaiḥ) [should-do+these](kuryādetāni) [kaula-practitioner](kaulikaḥ)
+[having-worshipped](sampūjyā)+[primordial-goddess](ādyāṃ) [five](pañca)+[elements](tattvaiḥ) [should-perform](kuryāt)+[these](etāni) [kaula-practitioner](kaulikaḥ)
 
 ## mukta-m0-p97-v2409
-[meditating](dhyāyan) [goddess](devīṃ) [remembering+mantra](smaranmantraṃ) [having-bowed](natvā) [should-go](gacched) [according-to+understanding](yathāmati)
+[meditating](dhyāyan) [goddess](devīṃ) [remembering](smaran)+[mantra](mantraṃ) [having-bowed](natvā) [should-go](gacched) [as](yathā)+[one-thinks](āmati)
 
 ## mukta-m0-p97-v2410
-[by-that+that+ritual+stated+rule](tattatkalpoktavidhinā) [meditation+worship](dhyānapūjāṃ) [one-should-perform](samācaret)
+[that](tat)+[that](tat)+[ritual](kalpa)+[stated](ukta)+[method](vidhinā) [meditation](dhyāna)+[worship](pūjāṃ) [should-perform](samācaret)
 
 ## mukta-m0-p97-v2411
-[kaula+worship](kaulārcanaṃ) [offering+and](dakṣiṇāñca) [having-done](kṛtvā) [rite](karma) [one-should-complete](samāpayet)
+[kaula](kaula)+[worship](arcanaṃ) [fee](dakṣiṇāṃ)+[and](ca) [having-done](kṛtvā) [rite](karma) [should-complete](samāpayet)
 
 ## mukta-m0-p97-v2412
-[intended](uddeśyam) [one-should-worship+deity](arcayeddevaṃ) [general](sāmānyo) [rule+declared](vidhirīritaḥ)
+[to-be-designated](uddeśyam)+[should-worship](arcayet)+[deity](devaṃ) [general](sāmānyaḥ) [rule](vidhiḥ)+[declared](īritaḥ)
 
 ## mukta-m0-p97-v2413
-[kaula-practitioner](kaulikaḥ) [supreme](paramaṃ) [sacred-place](tīrthaṃ) [therefore](tasmāt) [kaula](kaulaṃ) [always+one-should-worship](sadārcayet)
+[kaula-practitioner](kaulikaḥ) [supreme](paramaṃ) [sacred-place](tīrthaṃ) [therefore](tasmāt) [kaula](kaulaṃ) [always](sadā)+[should-worship](arcayet)
 
 ## mukta-m0-p97-v2414
-[dwell](vasanti) [in-kaula](kaulike) [body](dehe) [what+not](kinna) [would-be](syāt) [from-kaula+worship](kaulikārcanāt)
+[dwell](vasanti) [kaula](kaulike) [body](dehe) [what](kim)+[not](na) [becomes](syāt) [kaula](kaulika)+[worship](arcanāt)
 
 ## mukta-m0-p97-v2415
-[blessed](dhanyo) [honorable](mānyaḥ) [most-meritorious](puṇyatamaḥ) [that](sa) [place](deśaḥ) [is-desired](prārthate) [by-gods](suraiḥ)
+[blessed](dhanyaḥ) [honorable](mānyaḥ) [most-meritorious](puṇyatamaḥ) [that](sa) [place](deśaḥ) [is-desired](prārthate) [by-gods](suraiḥ)
 
 ## mukta-m0-p97-v2416
-[merit+sin+devoid+of](puṇyapāpavihīnasya) [power](prabhāvaṃ) [knows](vetti) [who](ko) [on-earth](bhuvi)
+[merit](puṇya)+[sin](pāpa)+[devoid](vihīnasya) [power](prabhāvaṃ) [knows](vetti) [who](kaḥ) [on-earth](bhuvi)
 
 ## mukta-m0-p97-v2417
-[teaching](śikṣayan) [world+conduct+and](lokayātrāñca) [kaula](kaulo) [wanders](viharati) [on-earth](kṣitau)
+[teaching](śikṣayan) [world](loka)+[conduct](yātrāṃ)+[and](ca) [kaula](kaulaḥ) [wanders](viharati) [on-earth](kṣitau)
 
 ## mukta-m0-p97-v2418
-[procedure](vidhānam) [of-consecration](abhiṣekasya) [with-compassion](kṛpayā) [make-hear](śrāvayasva) [me](mām)
+[procedure](vidhānam)+[of-consecration](abhiṣekasya) [out-of-compassion](kṛpayā) [make-hear](śrāvayasva) [me](mām)
 
 ## mukta-m0-p97-v2419
-[with-secret+manner](guptabhāvena) [doing](kurvanto) [men](narā) [liberation](mokṣaṃ) [went](yayuḥ) [formerly](purā)
+[secret](gupta)+[manner](bhāvena) [performing](kurvantaḥ) [men](narāḥ) [liberation](mokṣaṃ) [went](yayuḥ) [formerly](purā)
 
 ## mukta-m0-p97-v2420
-[at-night](naktaṃ) [or](vā) [in-day](divase) [one-should-perform](kuryāt) [with-manifestation+consecration](saprakāśābhiṣecanam)
+[at-night](naktaṃ) [or](vā) [in-day](divase) [should-perform](kuryāt) [with-manifestation](saprakāśa)+[consecration](abhiṣecanam)
 
 ## mukta-m0-p97-v2421
-[from-full+consecration](pūrṇābhiṣekāt) [kaula](kaulaḥ) [becomes](syāt) [circle+lord](cakrādhīśaḥ) [kula+worshipper](kulārcakaḥ)
+[full](pūrṇa)+[consecration](abhiṣekāt) [kaula](kaulaḥ) [becomes](syāt) [circle](cakra)+[lord](adhīśaḥ) [kula](kula)+[worshipper](arcakaḥ)
 
 ## mukta-m0-p97-v2422
-[according-to+ability+with-offerings](yathāśaktyupacāreṇa) [lord-of-obstacles](vighneśaṃ) [should-worship+guru](pūjayedguruḥ)
+[according-to](yathā)+[ability](śakti)+[offerings](upacāreṇa) [obstacle-lord](vighneśaṃ) [should-worship](pūjayet)+[guru](guruḥ)
 
 ## mukta-m0-p97-v2423
-[of-fully+consecrated+kaula+thus+etc.](pūrṇābhiṣiktakaulasyetyādi)
+[fully](pūrṇa)+[consecrated](abhiṣikta)+[kaula](kaulasya)+[etcetera](ityādi)
 
 ## mukta-m0-p97-v2424
-[at-night](naktaṃ) [in-night](rātrau)
+[at-night](naktaṃ) [at-night](rātrau) [111](|| 111)
 
 ## mukta-m0-p97-v2425
-[lord-of-obstacles](vighneśam) [Gaṇapati](gaṇapatim)
+[obstacle-lord](vighneśam) [gaṇapati](gaṇapatim)

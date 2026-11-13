@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "tatkalase",
+     "gloss": "in-that-vessel",
+     "grounds": "Locative of the vessel previously indicated; refers to the ritual container.",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "prakṣipya",
+     "gloss": "having-thrown",
+     "grounds": "Absolutive expressing prior action of placing something into the vessel.",
+     "morph": "gerund (pra-√kṣip)"
+    },
+    {
+     "surface": "uttolya",
+     "gloss": "having-lifted",
+     "grounds": "Absolutive expressing subsequent action of raising the vessel.",
+     "morph": "gerund (ud-√tul)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "Direct object of the prescribed act of receiving; sacred formula.",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "gṛhṇīyād",
+     "gloss": "one-should-receive",
+     "grounds": "Optative prescribing the ritual act of taking or receiving the mantra.",
+     "morph": "3.sg.opt.act (√grah)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-the-meaning",
+     "grounds": "Concluding gloss indicating the intended sense of the instruction.",
+     "morph": "nom.sg.m (compound: iti+artha)"
+    }
+   ],
+   "question": "What ritual procedure must be followed to receive the mantra using that vessel?",
+   "premises": [
+    "The mantra is to be thrown into that vessel.",
+    "The vessel containing it is then to be lifted.",
+    "One should receive the mantra as prescribed."
+   ],
+   "inference": "The correct ritual reception of the mantra requires depositing it in the vessel, lifting the vessel, and then taking the mantra.",
+   "uncertainties": [
+    "The specific substance or object thrown into the vessel is not explicitly stated in this verse."
+   ],
+   "plain_english": "Having thrown it into that vessel and lifted it up, one should receive the mantra; such is the meaning."
+  }
+ ]
+}

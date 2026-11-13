@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 7,
- "question": "Can the intended cognition of a meaning arise from an undifferentiated cause?",
+ "question": "What physical or personal defects disqualify someone from being a teacher?",
  "premises": [
-  "A specific cognition of the expressed meaning is intended.",
-  "An undifferentiated cause lacks distinguishing capacity.",
-  "Such specific cognition cannot arise from it."
+  "Various bodily defects are listed",
+  "Being dominated by a woman is listed",
+  "These traits characterize an unsuitable person"
  ],
- "inference": "The intended meaning-cognition cannot come from an undifferentiated source.",
- "uncertainties": [],
- "plain_english": "The intended cognition of the expressed meaning cannot arise from what is undifferentiated."
+ "inference": "Persons with such defects are disqualified from being teachers.",
+ "uncertainties": [
+  "The disqualification is implied by the list's context."
+ ],
+ "plain_english": "A dwarf, one with bad nails, dark teeth, conquered by a woman, or having an extra limb."
 }

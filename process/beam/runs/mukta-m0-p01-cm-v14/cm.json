@@ -3,44 +3,39 @@
  "verse": 14,
  "rows": [
   {
-   "lemma": "viśeṣaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "specific determination"
+   "lemma": "guru",
+   "morph": "compound: guru+bhakti",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "atra",
+   "lemma": "bhakti",
+   "morph": "compound: bhakti+vihīnāya",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "vihīnāya",
+   "morph": "m.dat.sg",
+   "grounds": "lacking devotion to teacher"
+  },
+  {
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "in this case"
+   "grounds": "negation"
   },
   {
-   "lemma": "ucyate",
-   "morph": "3.sg.pass-pres",
-   "grounds": "is expressed"
+   "lemma": "deyā",
+   "morph": "f.nom.sg.gerundive",
+   "grounds": "prohibition of giving"
   },
   {
-   "lemma": "idaṃ",
-   "morph": "n.nom.sg",
-   "grounds": "demonstrative"
+   "lemma": "malināya",
+   "morph": "m.dat.sg",
+   "grounds": "recipient described as impure"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
    "grounds": "conjunction"
-  },
-  {
-   "lemma": "sat",
-   "morph": "n.nom.sg",
-   "grounds": "being/real"
-  },
-  {
-   "lemma": "kintu",
-   "morph": "(indecl.)",
-   "grounds": "contrastive particle"
-  },
-  {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "concluding particle"
   }
  ]
 }

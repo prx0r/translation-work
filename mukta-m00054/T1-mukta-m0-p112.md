@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p112-v2776
-[delightful-of-right-hand-conduct](dakṣiṇācāra)+[devoted-to](niratā) [pleaser-of-right-hand-conduct](dakṣiṇācāra)+[giver-of-satisfaction](tuṣṭi)+[dā](dā)
+[right-hand-practice+devoted](dakṣiṇācāraniratā) [right-hand-practice+pleased-by](dakṣiṇācāratuṣṭidā)
 
 ## mukta-m0-p112-v2777
-[joyful-in-right-hand-conduct](dakṣiṇācāra)+[sukhinī](sukhinī) [accomplished-by-right-hand-conduct](dakṣiṇācāra)+[sādhitā](sādhitā)
+[right-hand-practice+happy-in](dakṣiṇācārasukhinī) [right-hand-practice+accomplished-by](dakṣiṇācārasādhitā)
 
 ## mukta-m0-p112-v2778
-[refuge-of-right-hand-conduct](dakṣiṇācāra)+[śaraṇā](śaraṇā) [delighted-by-right-hand-conduct](dakṣiṇācāra)+[harṣitā](harṣitā)
+[right-hand-practice+refuge](dakṣiṇācāraśaraṇā) [right-hand-practice+delighted-by](dakṣiṇācāraharṣitā)
 
 ## mukta-m0-p112-v2779
-[form-of-the-door](dvāra)+[rūpā](rūpā) [situated-at-the-door](dvāra)+[saṃsthā](saṃsthā) [dwelling-in-the-door-region](dvāra)+[deśa]+[nivāsinī](nivāsinī)
+[door+form](dvārarūpā) [door+abiding](dvārasaṃsthā) [door+place+dwelling](dvāradeśanivāsinī)
 
 ## mukta-m0-p112-v2780
-[causer-of-faults](doṣa)+[karā](karā) [remover-of-faults](doṣa)+[harā](harā) [destroyer-of-masses-of-faults](doṣa)+[rāśi]+[vināśinī](vināśinī)
+[fault+causing](doṣakarā) [fault+removing](doṣaharā) [fault+heap+destroying](doṣarāśivināśinī)
 
 ## mukta-m0-p112-v2781
-[like-a-thousand-suns-of-faults](doṣa)+[ākara]+[sahasra]+[ābhā](ābhā) [equal-to-the-sun-of-faults](doṣa)+[ākara]+[samānanā](samānanā)
+[moon+thousand+splendor](doṣākarasahasrābhā) [moon+equal+face](doṣākarasamānanā)
 
 ## mukta-m0-p112-v2782
-[radiance-equal-to-the-sun-of-faults](doṣa)+[ākara]+[sama]+[jyotiḥ](jyotiḥ) [cool-like-the-sun-of-faults](doṣa)+[ākara]+[suśītalā](suśītalā)
+[moon+equal+radiance](doṣākarasamajyotir) [moon+very+cool](doṣākarasuśītalā)
 
 ## mukta-m0-p112-v2783
-[beloved-goddess-of-the-sun-of-faults](doṣa)+[ākara]+[iṣṭa]+[devī](devī) [ca](ca) [served-by-the-sun-of-faults](doṣa)+[ākara]+[niṣevitā](niṣevitā)
+[moon+beloved+goddess](doṣākareṣṭadevī) [and](ca) [moon+worshipped-by](doṣākaraniṣevitā)
 
 ## mukta-m0-p112-v2784
-[forehead-shining-with-the-sun-of-faults](doṣa)+[ākara]+[ullasat]+[bhālā](bhālā) [greatly-delighting-the-sun-of-faults](doṣa)+[ākara]+[suharṣiṇī](suharṣiṇī)
+[moon+shining+forehead](doṣākarollasadbhālā) [moon+greatly+delighting](doṣākarasuharṣiṇī)
 
 ## mukta-m0-p112-v2785
-[life-breath-of-the-bride-of-the-sun-of-faults](doṣa)+[ākara]+[vadhū]+[prāṇā](prāṇā) [regarded-as-the-bride-of-the-sun-of-faults](doṣa)+[ākara]+[vadhū]+[matā](matā)
+[moon+bride+life](doṣākaravadhūprāṇā) [moon+bride+regarded-as](doṣākaravadhūrmmatā)
 
 ## mukta-m0-p112-v2786
-[worshipful-of-faults](doṣa)+[āpūjyā](āpūjyā) [tathā](tathā) [worshipped-for-faults](doṣa)+[āpūjitā](āpūjitā) [remover-of-faults](doṣa)+[hāriṇī](hāriṇī)
+[night+worshipped](doṣāpūjyā) [likewise](tathā) [night+worshipped](doṣāpūjitā) [fault+removing](doṣahāriṇī)
 
 ## mukta-m0-p112-v2787
-[devoted-to-the-ritual-of-faults](doṣa)+[āpuraḥ]+[cāra]+[ratā](ratā) [daughter-of-the-worshipper-of-faults](doṣa)+[āpūjaka]+[putriṇī](putriṇī)
+[night+preliminary-rite+delighting-in](doṣāpuraścāraratā) [night+worshipper+daughter](doṣāpūjakaputriṇī)
 
 ## mukta-m0-p112-v2788
-[slayer-of-enemies-of-the-worshipper-of-faults](doṣa)+[āpūjaka]+[vairi]+[ghnī](ghnī) [destroyer-of-obstacles-of-the-worshipper-of-faults](doṣa)+[āpūjaka]+[vighna]+[hṛt](hṛt)
+[night+worshipper+enemy+slaying](doṣāpūjakavairighnī) [night+worshipper+obstacle+removing](doṣāpūjakavighnahṛt)
 
 ## mukta-m0-p112-v2789
-[worshipped-with-flowers-of-restraint](dama)+[prasūna]+[sampūjyā](sampūjyā) [fond-of-flowers-of-restraint](dama)+[puṣpa]+[priyā](priyā) [sadā](sadā)
+[dama-flower+worshipped-with](damaprasūnasampūjyā) [dama-flower+fond-of](damapuṣpapriyā) [always](sadā)
 
 ## mukta-m0-p112-v2790
-[beloved-of-daṇḍapāṇi](daṇḍa)+[pāṇi]+[priyā](priyā) [mother-of-daṇḍapāṇi](daṇḍa)+[pāṇi]+[mātā](mātā) [treasure-of-compassion](dayā)+[nidhiḥ](nidhiḥ)
+[staff+hand+beloved](daṇḍapāṇipriyā) [staff+hand+mother](daṇḍapāṇimātā) [compassion+treasure](dayānidhiḥ)
 
 ## mukta-m0-p112-v2791
-[attached-to-the-house-of-daṇḍapāṇi](daṇḍa)+[pāṇi]+[gṛha]+[āsaktā](āsaktā) [dear-speaker-to-daṇḍapāṇi](daṇḍa)+[pāṇi]+[priya]+[vadā](vadā)
+[staff+hand+house+attached-to](daṇḍapāṇigṛhāsaktā) [staff+hand+pleasant+speaking](daṇḍapāṇipriya/vvadā)
 
 ## mukta-m0-p112-v2792
-[one-whose-life-is-seized-by-daṇḍapāṇi](daṇḍa)+[pāṇi]+[hṛta]+[prāṇā](prāṇā) [giver-of-perfect-accomplishment-to-daṇḍapāṇi](daṇḍa)+[pāṇi]+[su]+[siddhi]+[dā](dā)
+[staff+hand+captivated+life](daṇḍapāṇihṛtaprāṇā) [staff+hand+excellent+accomplishment+giving](daṇḍapāṇisusiddhidā)
 
 ## mukta-m0-p112-v2793
-[remover-of-obstacles-of-daṇḍapāṇi](daṇḍa)+[pāṇi]+[vighna]+[harā](harā) [bearer-of-the-head-of-daṇḍapāṇi](daṇḍa)+[pāṇi]+[śiraḥ]+[dhṛtā](dhṛtā)
+[staff+hand+obstacle+removing](daṇḍapāṇivighnaharā) [staff+hand+head+held](daṇḍapāṇiśirodhṛtā)
 
 ## mukta-m0-p112-v2794
-[one-who-has-attained-the-state-of-daṇḍapāṇi](daṇḍa)+[pāṇi]+[prāpta]+[padā](padā) [facing-towards-the-boon-of-daṇḍapāṇi](daṇḍa)+[pāṇi]+[vara]+[unmukhī](unmukhī)
+[staff+hand+attained+state](daṇḍapāṇiprāptapadā) [staff+hand+boon+inclined-toward](daṇḍapāṇivaronmukhī)
 
 ## mukta-m0-p112-v2795
-[armed-with-a-staff](daṇḍa)+[doṣkā](doṣkā) [wielder-of-a-staff](daṇḍa)+[karā](karā) [abode-of-one-whose-mind-is-made-by-the-staff](daṇḍa)+[citta]+[kṛtā]+[spadā](spadā)
+[punishment+arm](daṇḍadoṣkā) [punishment+causing](daṇḍakarā) [punishment+mind+made+abode](daṇḍacittakṛtāspadā)
 
 ## mukta-m0-p112-v2796
-[beloved-of-the-staff-bearer](daṇḍin)+[priyā](priyā) [worshipful-to-the-staff-bearer](daṇḍin)+[pūjyā](pūjyā) [giver-of-satisfaction-to-the-staff-bearer](daṇḍin)+[santoṣa]+[dāyinī](dāyinī)
+[staff-bearer+beloved](daṇḍipriyā) [staff-bearer+worshipped](daṇḍipūjyā) [staff-bearer+satisfaction+giving](daṇḍisantoṣadāyinī)
 
 ## mukta-m0-p112-v2797
-[worthy-of-being-done-by-the-class-of-robbers](dasyu)+[varga]+[kṛta]+[arhā](arhā) [ca](ca) [destroyer-of-the-class-of-robbers](dasyu)+[varga]+[vināśinī](vināśinī)
+[thief+group+made+worship](dasyuvargakṛtārhā) [and](ca) [thief+group+destroying](dasyuvargavināśinī)
 
 ## mukta-m0-p112-v2798
-[doer-of-what-is-pleasing-to-robbers](dasyu)+[priya]+[karī](karī) [intent-on-beholding-the-dance-of-robbers](dasyu)+[nṛtya]+[darśana]+[tatparā](tatparā)
+[thief+favor+doing](dasyupriyakarī) [thief+dance+seeing+intent-on](dasyunṛtyadarśanatatparā)
 
 ## mukta-m0-p112-v2799
-[worthy-of-subduing-the-class-of-the-wicked](duṣṭa)+[varga]+[nigraha]+[arhā](arhā) [destroyer-of-the-life-breath-of-slanderers](dūṣaka)+[prāṇa]+[nāśinī](nāśinī)
+[wicked+group+punishment+worthy](duṣṭavarganigrahārhā) [corrupter+life+destroying](dūṣakaprāṇanāśinī)
 
 ## mukta-m0-p112-v2800
-[causer-of-hatred-towards-slanderers](dūṣaka)+[dveṣana]+[karī](karī) [burning-one](dāhikā)(dāhikā) [of-burning-nature](dahana)+[ātmikā](ātmikā)
+[corrupter+hatred+causing](dūṣakadveṣanakarī) [burning](dāhikā) [burning+nature](dahanātmikā)

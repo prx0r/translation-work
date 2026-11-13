@@ -3,54 +3,44 @@
  "verse": 16,
  "rows": [
   {
-   "lemma": "nādas",
-   "morph": "m.nom.sg",
-   "grounds": "subtle sound principle"
+   "lemma": "anyāya",
+   "morph": "compound: anyāya+upārjita",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "tasya",
-   "morph": "m.gen.sg",
-   "grounds": "of it"
+   "lemma": "upārjita",
+   "morph": "compound: upārjita+dhanāḥ",
+   "grounds": "second member of compound"
   },
   {
-   "lemma": "api",
+   "lemma": "dhanāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "those possessing unjustly acquired wealth"
+  },
+  {
+   "lemma": "para",
+   "morph": "compound: para+dāra",
+   "grounds": "first member of compound"
+  },
+  {
+   "lemma": "dāra",
+   "morph": "compound: dāra+ratāḥ",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "ratāḥ",
+   "morph": "m.nom.pl",
+   "grounds": "taking pleasure in another's wife"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "inclusive particle"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "vācya",
-   "morph": "compound-member",
-   "grounds": "meaning/object"
-  },
-  {
-   "lemma": "buddhiṃ",
-   "morph": "f.acc.sg",
-   "grounds": "understanding"
-  },
-  {
-   "lemma": "janayati",
-   "morph": "3.sg.act-pres",
-   "grounds": "generates"
-  },
-  {
-   "lemma": "iti",
-   "morph": "(indecl.)",
-   "grounds": "quotation marker"
-  },
-  {
-   "lemma": "vakṣyati",
-   "morph": "3.sg.act-fut",
-   "grounds": "will declare"
-  },
-  {
-   "lemma": "kārikā",
-   "morph": "compound-member",
-   "grounds": "the kārikā"
-  },
-  {
-   "lemma": "upasaṃhāre",
-   "morph": "m.loc.sg",
-   "grounds": "at the summation"
+   "lemma": "ye",
+   "morph": "m.nom.pl",
+   "grounds": "relative pronoun"
   }
  ]
 }

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p96-v2376
-[impurity](aśauca) [+end](antāt) [impurity](aśaucasya) [+end](anto) [where](yatra) [+is](asti) [that](tat) [+impurity](aśauca) [+end](antaṃ) [from-that](tasmāt)
+[impurity](aśaucasya) [end](antaḥ) [where](yatra) [is](asti) [that](tat) [impurity+end](aśaucāntam) [from-that](tasmāt) [from-impurity+end](aśaucāntāt)
 
 ## mukta-m0-p96-v2377
-[one-should-do](kuryāt)
+[one-should-do](kuryāt) [thus](iti) [action](karma) [prescribed](vihitam)
 
 ## mukta-m0-p96-v2378
-[śūdra](śūdra) [+common](sāmānya) [+class](varṇayoḥ) [+of](upa) [+initiation](nayana) [+in-place-of](sthāne) [marriage](vivāho) [should-be-known](jñeyaḥ)
+[śūdra](śūdra) [common](sāmānya) [of-two-castes](varṇayoḥ) [in-place-of-initiation](upanayanasthāne) [marriage](vivāhaḥ) [should-be-known](jñeyaḥ) [indeed](eva)
 
 ## mukta-m0-p96-v2379
-[hearing](śṛṇvataḥ) [+even](api) [gone](gata) [+impurity](aśauce) [sapiṇḍa-relative](sapiṇḍasya) [death](mṛtiṃ) [o-auspicious-one](śive)
+[of-hearing](śṛṇvataḥ) [even](api) [gone](gata) [impurity](aśauce) [of-sapiṇḍa](sapiṇḍasya) [death](mṛtim) [O-Śiva](śive) [when](yadā)
 
 ## mukta-m0-p96-v2380
-[except](ṛte) [family](kula) [+worship](arcanāt) [+from-the-first](ādye) [likewise](tathā) [begun](prārabdha) [+action](karmaṇaḥ)
+[except](ṛte) [from-family+worship](kulārcanāt) [and-so-on](ādye) [likewise](tathā) [of-begun](prārabdha) [action](karmaṇaḥ) [also](ca) [except](vinā)
 
 ## mukta-m0-p96-v2381
-[husband](bhartrā) [with](saha) [o-kuleśāni](kuleśāni) [not](na) [should-burn](dahet) [family](kula) [+desiring-woman](kāminīm)
+[with-husband](bhartrā) [together](saha) [O-lord-of-families](kuleśāni) [not](na) [should-burn](dahet) [family](kula) [desiring-woman](kāminīm) [ever](kadācit)
 
 ## mukta-m0-p96-v2382
-[from-delusion](mohāt) [husband](bhartuḥ) [+pyre](citā) [+ascending](ārohāt) [she-becomes](bhavet) [hell](naraka) [+going](gāminī)
+[from-delusion](mohāt) [of-husband](bhartuḥ) [pyre+ascending](citārohāt) [she-becomes](bhavet) [to-hell](naraka) [going](gāminī) [woman](strī) [indeed](hi)
 
 ## mukta-m0-p96-v2383
-[one-should-cast-into-stream](pravāhayet) [or](vā) [one-should-bury](nikhanet) [or](vā) [+also](api) [one-should-burn](dāhayet) [o-kālikā](kālike)
+[one-should-cause-to-flow](pravāhayet) [or](vā) [one-should-bury](nikhanet) [one-should-burn](dāhayet) [or](vā) [also](api) [O-Kālikā](kālike) [body](śavam)
 
 ## mukta-m0-p96-v2384
-[of-noble-families](kulīnānāṃ) [near](samīpe) [or](vā) [death](maraṇaṃ) [commended](śastam) [o-mother](ambike)
+[of-noble-families](kulīnānām) [in-vicinity](samīpe) [or](vā) [death](maraṇam) [praised](śastam) [O-mother](ambike) [is](asti) [indeed](hi)
 
 ## mukta-m0-p96-v2385
-[abandons](parityajati) [who](yaḥ) [vital-breaths](prāṇān) [he](saḥ) [in-own-nature](svarūpe) [is-established](pratiṣṭhati)
+[abandons](parityajati) [who](yaḥ) [vital-breaths](prāṇān) [he](saḥ) [in-own-nature](svarūpe) [is-established](pratiṣṭhati) [then](tadā) [certainly](eva)
 
 ## mukta-m0-p96-v2386
-[three](tri) [+night](rātra) [+impurity](aśaucam) [is-prescribed](iṣyate)
+[three-night](trirātra) [impurity](aśaucam) [is-desired](iṣyate) [thus](iti) [by-scripture](śāstreṇa) [prescribed](vihitam) [period](kālaḥ) [this](ayam)
 
 ## mukta-m0-p96-v2387
-[in-ritual-action](karmaṇi) [+impure](aśuciḥ) [person](janaḥ) [+entitled](adhikārī) [not](na) [should-be](syāt)
+[in-ritual-action](karmaṇi) [impure](aśuciḥ) [person](janaḥ) [qualified](adhikārī) [not](na) [should-be](syāt) [ever](kadācit) [indeed](hi)
 
 ## mukta-m0-p96-v2388
-[north](uttara) [+facing](abhimukhaṃ) [having-made](kṛtvā) [one-should-lay](śāyayet) [him](taṃ) [pyre](citā) [+upon](upari)
+[north](uttara) [facing](abhimukham) [having-made](kṛtvā) [one-should-lay](śāyayet) [him](tam) [on-pyre](citopari) [body](śavam) [then](tataḥ)
 
 ## mukta-m0-p96-v2389
-[having-given](dattvā) [rice-ball](piṇḍaṃ) [dead-person](preta) [+in-mouth](mukhe) [one-should-burn](dahet) [fire](vahni) [+mantra](manuṃ) [remembering](smaran)
+[having-given](dattvā) [rice-ball](piṇḍam) [in-dead-person's+mouth](pretamukhe) [one-should-burn](dahet) [fire](vahni) [mantra](manum) [remembering](smaran) [then](tadā)
 
 ## mukta-m0-p96-v2390
-[barley](yava) [+wheat](godhūma) [+flour](cūrṇaiḥ) [or](vā) [myrobalan](dhātrī) [+fruit](phala) [+equal](samaṃ) [o-beloved](priye)
+[with-barley](yava) [wheat](godhūma) [flour](cūrṇaiḥ) [or](vā) [myrobalan+fruit](dhātrīphala) [equal](samam) [O-beloved](priye) [measure](pramāṇam)
 
 ## mukta-m0-p96-v2391
-[in-absence-of-that](tadabhāve) [+another](anya) [+son](putrādau) [eldest](jyeṣṭha) [+in-order](anukramataḥ) [should-be](bhavet)
+[in-absence-of-that](tadabhāve) [in-other](anya) [son](putra) [and-so-on](ādau) [by-eldest](jyeṣṭha) [in-order](anukramataḥ) [should-be](bhavet) [duty](kāryam)
 
 ## mukta-m0-p96-v2392
-[dead](mṛta) [+ghosthood](pretatva) [+for-release](muktyartham) [one-should-release](utsṛjet) [sesame](tila) [+gold](kāñcanam)
+[for-dead](mṛta) [preta-state](pretatva) [release](muktyartham) [one-should-release](utsṛjet) [sesame](tila) [gold](kāñcanam) [gift](dānam) [then](tadā)
 
 ## mukta-m0-p96-v2393
-[corpse](śavaṃ) [one-should-lay](śāyayet)
+[corpse](śavam) [one-should-lay](śāyayet) [properly](yathāvat) [on-ground](bhūmau) [then](tataḥ) [with-care](sāvadhānam) [body](deham) [there](tatra)
 
 ## mukta-m0-p96-v2394
-[dead](mṛta) [+ghosthood](pretatva) [+for-release](vimuktyarthaṃ) [sesame](tila) [+gold](kāñcanam) [one-should-release](utsṛjet)
+[for-dead](mṛta) [preta-state](pretatva) [release](vimuktyartham) [sesame](tila) [gold](kāñcanam) [one-should-release](utsṛjet) [gift](dānam) [then](tadā)
 
 ## mukta-m0-p96-v2395
-[food](bhojyaṃ) [many](bahu) [+kinds](vidhaṃ) [one-should-give](dadyāt) [dead-person](preta) [+for-heaven](svargāya) [good](sat) [+son](sutaḥ)
+[food](bhojyam) [of-many+kinds](bahuvidham) [one-should-give](dadyāt) [for-dead-person's+heaven](pretasvargāya) [good](sat) [son](sutaḥ) [dutiful](dharmātmā) [then](tadā)
 
 ## mukta-m0-p96-v2396
-[whatever](yad) [whatever](yat) [dead-person](preta) [+dear](priyaṃ) [substance](dravyaṃ) [that](tat) [for-heaven](svargāya) [one-should-release](samutsṛjet)
+[whatever](yad) [whatever](yat) [to-dead-person+dear](pretapriyam) [thing](dravyam) [that](tat) [for-heaven](svargāya) [one-should-release](samutsṛjet) [son](putraḥ)
 
 ## mukta-m0-p96-v2397
-[with-gold](svarṇena) [+adorned](alaṅkṛtaṃ) [having-made](kṛtvā) [one-should-abandon](tyajet) [that](tat) [+heaven](svara) [+for-attainment](vāptaye)
+[with-gold](svarṇena) [adorned](alaṅkṛtam) [having-made](kṛtvā) [one-should-abandon](tyajet) [for-his](tat) [heaven](svara) [attainment](vāptaye) [object](vastu)
 
 ## mukta-m0-p96-v2398
-[brahman](brahma) [+knowers](jñān) [brāhmaṇas](brāhmaṇān) [kaulas](kaulān) [hungry](kṣudhitān) [+also](api) [one-should-feed](bhojayet)
+[brahman](brahma) [knowing](jñān) [brāhmaṇs](brāhmaṇān) [kaulas](kaulān) [hungry](kṣudhitān) [also](api) [one-should-feed](bhojayet) [person](janaḥ)
 
 ## mukta-m0-p96-v2399
-[hungry-ones](bubhukṣitān) [having-fed](bhojayitvā) [ghosthood](pretatvaṃ) [one-should-release](mocayet) [of-father](pituḥ)
+[hungry-ones](bubhukṣitān) [having-fed](bhojayitvā) [preta-state](pretatvam) [one-should-release](mocayet) [of-father](pituḥ) [son](putraḥ) [thus](evam) [duly](yathāvat)
 
 ## mukta-m0-p96-v2400
-[year](varṣe) [year](varṣe) [death](mṛta) [+day](tithau) [one-should-give](dadyāt) [food](annaṃ) [to-departed-life](gatāsave)
+[year](varṣe) [year](varṣe) [on-death+day](mṛtatithau) [one-should-give](dadyāt) [food](annam) [to-gone](gata) [life](asave) [person](janāya)
