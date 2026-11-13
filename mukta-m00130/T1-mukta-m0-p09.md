@@ -2,28 +2,28 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[fire-seed](vahnibījaṃ) [o-great-goddess](maheśāni) [in-heart](hṛt)+[lotus](padme) [as-before](pūrvavat) [o-beloved](priye)
+[fire-seed](vahnibījaṃ) [o-great-goddess](maheśāni) [in-heart-lotus](hṛtpadme) [as-before](pūrvavat) [o-beloved](priye)
 
 ## mukta-m0-p09-v202
 [on-forehead](lalāṭe) [of-water](vāruṇaṃ) [seed](bījaṃ) [white](śuklaṃ) [having-visualized](sañcintya) [o-beautiful-one](sundari)
 
 ## mukta-m0-p09-v203
-[thus](evaṃ) [in-twelvefold-way](dvādaśadhā) [o-goddess](devi) [element](bhūta)+[purification](śuddhiṃ) [one-should-perform](samācaret)
+[thus](evaṃ) [in-twelve-ways](dvādaśadhā) [o-goddess](devi) [element-purification](bhūtaśuddhiṃ) [one-should-perform](samācaret)
 
 ## mukta-m0-p09-v204
-[previously-stated](pūrvoktaṃ) [o-supreme-goddess](parameśāni) [general](sāmānyaṃ) [purification](śuddhim)+[indeed](eva) [and](ca)
+[previously-stated](pūrvoktaṃ) [o-supreme-goddess](parameśāni) [general](sāmānyaṃ) [purification](śuddhim) [indeed](eva) [and](ca)
 
 ## mukta-m0-p09-v205
-[of-body](dehasya) [of-subtle](sūkṣma)+[form](rūpasya) [element](bhūta)+[purification](śuddhiḥ)+[this](iyaṃ) [o-beloved](priye)
+[of-body](dehasya) [of-subtle-form](sūkṣma+rūpasya) [element-purification](bhūtaśuddhir) [this](iyaṃ) [o-beloved](priye)
 
 ## mukta-m0-p09-v206
 [with-soul](jīvena) [together](saha) [o-goddess-of-gods](deveśi) [in-suṣumnā](suṣumnāyāṃ) [one-should-immerse](nimajjayet)
 
 ## mukta-m0-p09-v207
-[one-should-repeat](prajapet) [with-supreme](parayā) [devotion](bhaktyā) [with-rosary](mālayā) [by-letter](varṇa)+[number](saṅkhyayā)
+[one-should-recite](prajapet) [with-supreme](parayā) [devotion](bhaktyā) [with-rosary](mālayā) [by-letter-count](varṇa+saṅkhyayā)
 
 ## mukta-m0-p09-v208
-[with-mind-transcending](manonmanī)+[united](yute) [soul](jīvaḥ) [in-brahma-aperture](brahma+randhre) [and](ca) [one-should-repeat](saṃjapet)
+[united-with-manonmanī](manonmanī+yute) [soul](jīvaḥ) [in-brahmarandhra](brahmarandhre) [and](ca) [one-should-recite](saṃjapet)
 
 ## mukta-m0-p09-v209
 [soul](jīvaḥ) [pure](śuddho) [becomes](bhaved) [o-goddess](devi) [with-attendants](gaṇaiḥ) [with-retinue](parikaraiḥ) [together](saha)
@@ -32,46 +32,46 @@
 [eyes](akṣiṇī) [nostrils](nāsike) [ears](karṇau) [tongue](jihvā) [and](ca) [o-lotus-eyed-one](kamala+īkṣaṇe)
 
 ## mukta-m0-p09-v211
-[navel](nābhiṃ) [and](ca) [o-supreme-goddess](parameśāni) [mind](manaḥ)+[and](ca) [o-supreme-goddess](parameśvari)
+[navel](nābhiṃ) [and](ca) [o-supreme-goddess](parameśāni) [mind](manaḥ) [and](ca) [o-supreme-goddess](parameśvari)
 
 ## mukta-m0-p09-v212
-[mind](manaḥ)+[and](ca) [o-supreme-goddess](parameśāni) [transcending-mind](unmanī) [existence](bhavana)+[destroying](āśinī)
+[mind](manaḥ) [and](ca) [o-supreme-goddess](parameśāni) [unmanī](unmanī) [destroyer-of-existence](bhava+nāśinī)
 
 ## mukta-m0-p09-v213
-[waking](jāgrat)+[dream](svapna)+[deep-sleep](suṣupti)+[states](avasthā) [this](etad) [o-goddess](devi) [triad](trayaṃ) [remembered](smṛtam)
+[waking-dream-deep-sleep-states](jāgrat+svapna+suṣupti+avasthā) [this](etad) [o-goddess](devi) [triad](trayaṃ) [remembered](smṛtam)
 
 ## mukta-m0-p09-v214
-[of-senses](indriyāṇāṃ) [indeed](tu) [of-all](sarveṣāṃ) [mind](manaḥ) [supreme](parama)+[charioteer](sārathiḥ)
+[of-senses](indriyāṇāṃ) [but](tu) [of-all](sarveṣāṃ) [mind](manaḥ) [supreme-charioteer](parama+sārathiḥ)
 
 ## mukta-m0-p09-v215
-[own-action](sva+karma) [enjoys](bhajate) [o-goddess](devi) [transcending-mind](unmanī) [always](satataṃ) [o-beloved](priye)
+[own-action](sva+karma) [experiences](bhajate) [o-goddess](devi) [unmanī](unmanī) [always](satataṃ) [o-beloved](priye)
 
 ## mukta-m0-p09-v216
-[weeping](rodanaṃ) [delusion](moha)+[fainting](mūrcche) [hunger](kṣudhā) [thirst](tṛṣṇā) [o-smiling-one](śuci+smite)
+[weeping](rodanaṃ) [delusion-fainting](moha+mūrcche) [and](ca) [hunger](kṣudhā) [thirst](tṛṣṇā) [o-one-with-pure-smile](śuci+smite)
 
 ## mukta-m0-p09-v217
-[soul](jobo) [eternal](nityaḥ)+[imperishable](avyayaḥ) [subtle](sūkṣmaḥ) [all-pervading](sarva+gaḥ) [all-knowing](sarva+vit) [supreme](paraḥ)
+[soul](jobo) [eternal](nityo) [imperishable](’vyayaḥ) [subtle](sūkṣmaḥ) [all-pervading](sarvagaḥ) [all-knowing](sarvavit) [supreme](paraḥ)
 
 ## mukta-m0-p09-v218
-[lamp](pradīpa)+[flame](kalikā)+[form](ākāraḥ) [all](sarvaḥ) [having-attained](prāpya) [expands](vijṛmbhate)
+[lamp-flame-shaped](pradīpa+kalikā+ākāraḥ) [all](sarvaḥ) [having-attained](prāpya) [expands](vijṛmbhate)
 
 ## mukta-m0-p09-v219
-[crore](koṭi)+[sun](sūrya)+[resembling](pratīkāśāṃ) [golden-river](svarṇa+dīṃ) [sin](pāpa)+[destroying](nāśinīm)
+[resembling-ten-million-suns](koṭi+sūrya+pratīkāśāṃ) [celestial-river](svarṇa+dīṃ) [sin-destroying](pāpa+nāśinīm)
 
 ## mukta-m0-p09-v220
-[directly](sākṣād) [brahma](brahma)+[lake](hrada)+[form](ākārāṃ) [various](nānā)+[pleasure](sukha)+[sporting](vihāriṇīm)
+[directly](sākṣād) [in-form-of-brahma-lake](brahma+hrada+ākārāṃ) [sporting-in-various-joys](nānā+sukha+vihāriṇīm)
 
 ## mukta-m0-p09-v221
-[knowledge](jñāna)+[realization](vijñāna)+[endowed](saṃyuktāṃ) [consciousness](cit)+[form](ākārāṃ) [eternal](sanātanīm)
+[endowed-with-knowledge-and-wisdom](jñāna+vijñāna+saṃyuktāṃ) [of-consciousness-form](cit+ākārāṃ) [eternal](sanātanīm)
 
 ## mukta-m0-p09-v222
-[on-left](vāma)+[side](pārśve) [situated](sthitāṃ) [eternal](nityāṃ) [brahma](brahma)+[form](rūpāṃ) [lightning](taḍit)+[consisting](mayīm)
+[on-left-side](vāma+pārśve) [situated](sthitāṃ) [eternal](nityāṃ) [of-brahman-form](brahma+rūpāṃ) [consisting-of-lightning](taḍin+mayīm)
 
 ## mukta-m0-p09-v223
-[in-its-middle](tat)+[middle](madhya)+[situated](sthāṃ) [o-great-goddess](maheśāni) [nectar](amṛta)+[existence](bhava)+[filled](pūritām)
+[situated-in-its-middle](tan+madhya+sthāṃ) [o-great-goddess](maheśāni) [filled-with-nectar](amṛta+bhava+pūritām)
 
 ## mukta-m0-p09-v224
-[left-channel](vāma+nāḍī) [o-great-goddess](maheśāni) [sleep](supti)+[form](rūpā) [in-front](puraḥ)+[situated](sthitā)
+[left-channel](vāma+nāḍī) [o-great-goddess](maheśāni) [of-sleep-form](supti+rūpā) [situated-in-front](puraḥ+sthitā)
 
 ## mukta-m0-p09-v225
-[on-right](dakṣiṇe) [in-piṅgalā](piṅgalā)+[residing](āśritā)
+[on-right](dakṣiṇe) [resorting-to-piṅgalā](piṅgalā+āśritā)
