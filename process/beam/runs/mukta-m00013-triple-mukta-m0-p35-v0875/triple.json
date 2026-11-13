@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "vasulakṣaṃ",
+     "gloss": "eight-hundred-thousand",
+     "grounds": "compound of vasu (eight) and lakṣa (hundred-thousand), indicating a numerical measure",
+     "morph": "compound; n.acc.sg"
+    },
+    {
+     "surface": "japen",
+     "gloss": "one-should-repeat",
+     "grounds": "optative verbal form expressing prescribed repetition",
+     "morph": "3.sg.act.opt-pres √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of repetition; sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-and-so-forth",
+     "grounds": "compound indicating continuation of similar instructions",
+     "morph": "compound; (indecl.)"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "from-statement",
+     "grounds": "ablative indicating scriptural authority for the instruction",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What scriptural authority prescribes repeating the mantra eight hundred thousand times?",
+   "premises": [
+    "The instruction directs repetition of the mantra eight hundred thousand times.",
+    "The phrase thus-and-so-forth indicates additional related prescriptions.",
+    "The prescription is grounded in a cited statement."
+   ],
+   "inference": "A scriptural statement authorizes repeating the mantra eight hundred thousand times and related practices.",
+   "uncertainties": [
+    "The specific source text of the cited statement is not identified here."
+   ],
+   "plain_english": "According to the cited statement, one should repeat the mantra eight hundred thousand times, and so forth."
+  }
+ ]
+}

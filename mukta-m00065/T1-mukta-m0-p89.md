@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p89-v2201
-[obtained-permission](labdhānujño) [from-great-god](mahādevāt) [should-do](kuryāt) [liṅga-etc-removal](liṅgādikoddhṛtim)
+[having-obtained-permission](labdhānujñaḥ) [from-mahādeva](mahādevāt) [one-should-perform](kuryāt) [liṅga+and-other+extraction](liṅga+ādi+ka+uddhṛtim)
 
 ## mukta-m0-p89-v2202
-[whatever](yad) [here](atra) [situated](saṃsthitaṃ) [being](satvaṃ) [having-abandoned](tyaktvā) [and](ca) [to-another-place](anyatra) [may-go](yātu) [that](tat)
+[whatever](yat) [here](atra) [situated](saṃsthitam) [being](satvam) [having-abandoned](tyaktvā) [and](ca) [elsewhere](anyatra) [may-go](yātu) [that](tat)
 
 ## mukta-m0-p89-v2203
-[then](tataḥ) [having-sprinkled](abhiṣicya) [liṅga-etc](liṅgādyam) [by-weapon-mantra-sprinkled](astrajaptena) [or](vā) [by-water](vāriṇā)
+[then](tataḥ) [having-sprinkled](abhiṣicya) [liṅga+and-so-forth](liṅga+ādyam) [with-astra-muttered](astra+japtena) [water](vāriṇā)
 
 ## mukta-m0-p89-v2204
-[in-raising-up](utthāpane) [should-bind](prabadhnīyāt) [thus](iti) [said](uktaṃ) [by-śambhu](śambhunā) [somewhere](kvacit)
+[in-raising](utthāpane) [one-should-bind](prabadhnīyāt) [thus](iti) [said](uktam) [by-śambhu](śambhunā) [somewhere](kvacit)
 
 ## mukta-m0-p89-v2205
-[on-hump](vṛṣayoḥ) [kakude](kakude) [having-bound](baddhvā) [by-armor](varmaṇā) [by-child-thread](bālatantunā)
+[on-the-humps](kakude) [of-the-two-bulls](vṛṣayoḥ) [having-bound](baddhvā) [with-armor-mantra](varmaṇā) [with-young-thread](bāla+tantunā)
 
 ## mukta-m0-p89-v2206
-[īśa-etc](īśāśādīḥ) [in-order](kramāt) [all](sarvāḥ) [by-khādaka](khādakena) [guru](guruḥ) [should-dig](khanet)
+[beginning-with-īśā-direction](īśā+āśādīḥ) [in-order](kramāt) [all](sarvāḥ) [with-spade](khādakena) [the-guru](guruḥ) [should-dig](khanet)
 
 ## mukta-m0-p89-v2207
-[rope-yoke-pair](pāśasīrayugaṃ) [should-make](kuryāt) [strong](balavantau) [and](tathā) [two-bulls](vṛṣau)
+[noose+plough+yoke](pāśa+sīra+yugam) [one-should-make](kuryāt) [strong](balavantau) [likewise](tathā) [two-bulls](vṛṣau)
 
 ## mukta-m0-p89-v2208
-[flag-defiled](dhvajadūṣitam)
+[flag+defiled](dhvaja+dūṣitam)
 
 ## mukta-m0-p89-v2209
-[thick](sthūlaṃ) [or](vā) [badly-fixed](durniviṣṭaṃ) [and](ca) [whatever](yad) [pain-causing](pīḍākaraṃ) [on-earth](bhuvi)
+[large](sthūlam) [or](vā) [badly-fixed](dur+niviṣṭam) [and](ca) [which](yat) [causing-pain](pīḍā+karam) [on-earth](bhuvi)
 
 ## mukta-m0-p89-v2210
-[of-these](eṣāṃ) [should-do](kuryāt) [treatment](cikitsāṃ) [and](ca) [as-of-one-afflicted](vyāghitasya) [iva](iva) [medicine](bheṣajam)
+[of-these](eṣām) [one-should-perform](kuryāt) [remedy](cikitsām) [and](ca) [as-of-the-sick](vyāghitasya) [like-medicine](iva) [medicine](bheṣajam)
 
 ## mukta-m0-p89-v2211
-[when-being-done](kriyamāṇe) [not](na) [fault](doṣaḥ) [is](asti) [mantra-devoid](mantravarjitayā) [since](yataḥ)
+[in-being-done](kriyamāṇe) [not](na) [fault](doṣaḥ) [exists](asti) [by-being-devoid-of-mantras](mantra+varjitayā) [since](yataḥ)
 
 ## mukta-m0-p89-v2212
-[ripe-clay-gem-produced](pakvamṛcchailaratnotthaṃ) [should-throw](kṣipet) [by-left-hand](vāmena) [in-daily-rite](nityake)
+[cooked-clay+stone+jewel-born](pakva+mṛt+śaila+ratna+uttham) [one-should-cast](kṣipet) [with-vāma](vāmena) [in-the-eternal-fire](nityake)
 
 ## mukta-m0-p89-v2213
-[iron](lohaṃ) [all](sarvaṃ) [having-extracted](viniṣpāṭya) [again](punar) [there](tatra) [eva](eva) [should-place](vinyaset)
+[metal](loham) [all](sarvam) [having-extracted](viniṣpāṭya) [again](punaḥ) [there](tatra) [indeed](eva) [one-should-place](vinyaset)
 
 ## mukta-m0-p89-v2214
-[should-throw](kṣipet)
+[one-should-cast](kṣipet)
 
 ## mukta-m0-p89-v2215
-[not-defective](aduṣṭaṃ) [by-rule](vidhinā) [having-removed](uddhṛtya) [should-place](sthāpayet) [with-yāga-before](yāgapūrvakam)
+[undamaged](aduṣṭam) [having-extracted-according-to-rule](vidhinā+uddhṛtya) [one-should-install](sthāpayet) [preceded-by-worship](yāga+pūrvakam)
 
 ## mukta-m0-p89-v2216
-[brahma-śilā-etc](brahmaśilādikaṃ) [all](sarvaṃ) [should-place](sthāpayet) [as-before](pūrvavat) [in-order](kramāt)
+[brahma-stone+and-so-forth](brahma+śilā+ādikam) [all](sarvam) [one-should-install](sthāpayet) [as-before](pūrva+vat) [in-order](kramāt)
 
 ## mukta-m0-p89-v2217
-[liṅga-etc](liṅgādi) [and](ca) [another](aparam) [to-be-placed](sthāpyam) [in-excess](adhike) [or](vā) [fruit](phalaṃ) [much](bahu)
+[liṅga+and-so-forth](liṅga+ādi) [and](ca) [another](aparam) [to-be-installed](sthāpyam) [in-excess](adhike) [or](vā) [fruit](phalam) [much](bahu)
 
 ## mukta-m0-p89-v2218
-[so-many](tāvat) [kalpa-thousands](kalpasahasrāṇi) [that-doer](tatkartā) [in-that-city](tatpure) [would-dwell](vaset)
+[for-that-many](tāvat) [thousands-of-kalpas](kalpa+sahasrāṇi) [its-performer](tat+kartā) [in-his-abode](tat+pure) [dwells](vaset)
 
 ## mukta-m0-p89-v2219
-[twice-as-much](dviguṇaṃ) [and](ca) [stone-produced](āśmajānāṃ) [and](ca) [lead-produced](sīsakānāṃ) [than-that](tataḥ) [more](adhikam)
+[twofold](dvi+guṇam) [and](ca) [of-those-made-of-stone](aśma+jānām) [and](ca) [of-those-made-of-lead](sīsakānām) [than-that](tataḥ) [greater](adhikam)
 
 ## mukta-m0-p89-v2220
-[twice-as-much](dviguṇaṃ) [gem-produced](ratnajānāṃ) [tu](tu) [in-gem-excess](ratnādhikye) [more](adhikaṃ) [fruit](phalam)
+[twofold](dvi+guṇam) [of-those-made-of-jewels](ratna+jānām) [but](tu) [in-excess-of-jewels](ratna+adhikye) [greater](adhikam) [fruit](phalam)
 
 ## mukta-m0-p89-v2221
-[by-fierce](ghoreṇa) [or](vā) [by-great-weapon](mahāstreṇa) [twice-as-much](dviguṇaṃ) [in-shrine-shaking](dhāmacālane)
+[with-ghora](ghoreṇa) [or](vā) [with-great-weapon-mantra](mahā+astreṇa) [twofold](dvi+guṇam) [in-moving-the-shrine](dhāma+cālane)
 
 ## mukta-m0-p89-v2222
-[quickly](tvaritam) [dies](mriyate) [creature](jantuḥ) [to-raurava](rauravam) [and](ca) [dead](mṛtaḥ) [goes](vrajet)
+[quickly](tvaritam) [dies](mriyate) [creature](jantū) [and](ca) [dead](mṛtaḥ) [to-raurava](rauravam) [goes](vrajet)
 
 ## mukta-m0-p89-v2223
-[wood-plank-covered](dārupaṭṭāvṛtaṃ) [liṅga](liṅgaṃ) [having-made](kṛtvā) [tu](tu) [should-cover](ghaṭayet) [house](gṛham)
+[covered-with-wooden-planks](dāru+paṭṭa+āvṛtam) [liṅga](liṅgam) [having-made](kṛtvā) [then](tu) [one-should-construct](ghaṭayet) [the-shrine](gṛham)
 
 ## mukta-m0-p89-v2224
-[in-accomplished](siddhe) [shrine](dhāmni) [limb-joining](aṅgasaṃyogam) [should-do](kuryāt) [having-drawn](ākṛṣya) [by-sword](khaḍgataḥ)
+[when-the-shrine-is-accomplished](siddhe) [in-the-shrine](dhāmni) [joining-of-limbs](aṅga+saṃyogam) [one-should-perform](kuryāt) [having-drawn-out](ākṛṣya) [from-the-sword](khaḍgataḥ)
 
 ## mukta-m0-p89-v2225
-[without-hole](acchidra) [completeness](pūrṇatā) [by-which](yena) [may-be](syāt) [by-aghora-hundred](aghoraśatena) [tu](tu)
+[holeless+fullness](acchidra+pūrṇatā) [by-which](yena) [may-be](syāt) [with-a-hundred-aghora-mantras](aghora+śatena) [indeed](tu)

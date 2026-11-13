@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p91-v2251
-[bāṇa](bāṇa) [svayaṃbhu](svayaṃbhu) [liṅgānām](liṅgānānāṃ) [padma](padma) [khaṇḍa](khaṇḍa) [taḍāgayoḥ](taḍāgayoḥ)
+[bāṇa](bāṇa) [svayaṃbhū](svayaṃbhū) [liṅga](liṅgānāṃ) [lotus](padma) [section](khaṇḍa) [tank](taḍāgayoḥ)
 
 ## mukta-m0-p91-v2252
-[siddha](siddha) [deva](deva) [ālayaḥ](ālayaḥ) [grāmaḥ](grāmaḥ) [nagaram](nagaraṃ) [kheṭakam](kheṭakaṃ) [puram](puram)
+[siddha](siddha) [temple](devālayo) [village](grāma) [city](nagaraṃ) [market-town](kheṭakaṃ) [town](puram)
 
 ## mukta-m0-p91-v2253
-[puṇya](puṇya) [sthānam](sthānam) [atha](atha) [anyat](anyat) [ca](ca) [siddha](siddha) [sthānāni](sthānāni) [amūni](amūni) [ca](ca)
+[holy](puṇya) [place](sthānam) [and](atha) [other](anyac) [and](ca) [siddha](siddha) [places](sthāny) [these](amūni) [and](ca)
 
 ## mukta-m0-p91-v2254
-[gṛhṇīyāt](gṛhṇīyāt) [bhūmim](bhūmim) [ādau](ādau) [tu](tu) [śāsanena](śāsanena) [krayeṇa](krayeṇa) [vā](vā)
+[one-should-take](gṛhṇīyād) [land](bhūmim) [first](ādau) [indeed](tu) [by-grant](śāsanena) [by-purchase](krayeṇa) [or](vā)
 
 ## mukta-m0-p91-v2255
-[ādau](ādau) [kūrma](kurma) [ādyateḥ](ādyateḥ) [sthānam](sthānam) [īśa](īśa) [ādīnām](ādīnām) [tataḥ](tataḥ) [yataḥ](yataḥ)
+[first](ādau) [tortoise](kurma) [and-so-forth](ādyateḥ) [place](sthānam) [of-Īśa](īśādīnāṃ) [then](tato) [because](yataḥ)
 
 ## mukta-m0-p91-v2256
-[maṭham](maṭham) [āśritya](āśritya) [ye](ye) [liṅgam](liṅgam) [arcayanti](arcayanti) [ku](ku) [buddhayaḥ](buddhayaḥ)
+[monastery](maṭham) [having-resorted-to](āśritya) [who](ye) [liṅga](liṅgam) [worship](arcayanti) [of-evil-intellect](kubuddhayaḥ)
 
 ## mukta-m0-p91-v2257
-[yadi](yadi) [icchet](icchet) [narakam](narakaṃ) [gantum](gantuṃ) [putra](putra) [pautra](pautra) [ādibhiḥ](ādibhiḥ) [saha](saha)
+[if](yad) [one-desires](icchen) [to-hell](narakaṃ) [to-go](gantuṃ) [with-sons](putra) [grandsons](pautra) [and-others](ādibhiḥ) [with](saha)
 
 ## mukta-m0-p91-v2258
-[mahī](mahī)
+[earth](mahī)
 
 ## mukta-m0-p91-v2259
-[ripuḥ](ripuḥ) [mānam](mānaṃ) [sukham](sukhaṃ) [ca](ca) [syāt](syāt) [madhyamā](madhyamā) [sarvataḥ](sarvataḥ) [plavā](plavā)
+[enemy](ripur) [honor](mānaṃ) [happiness](sukhaṃ) [and](ca) [would-be](syān) [middle](madhyamā) [on-all-sides](sarvataḥ) [flooded](plavā)
 
 ## mukta-m0-p91-v2260
-[bhaṅgaḥ](bhaṅgaḥ) [pītaḥ](pītaḥ) [arthaḥ](arthaḥ) [ijyā](ijyā) [syāt](syāt) [pūrva](pūrva) [ādeḥ](ādeḥ) [vasudhā](vasudhā) [plavāt](plavāt)
+[breaking](bhaṅgaḥ) [yellow](pīto) [wealth](artha) [worship](ijyā) [would-be](syāt) [from-east](pūrvād) [and-so-forth](er) [from-flooding](vasudhā) [of-land](plavāt)
 
 ## mukta-m0-p91-v2261
-[sa](sa) [jñakaḥ](jñakaḥ)
+[with-name](sajñakaḥ)
 
 ## mukta-m0-p91-v2262
-[nadī](nadī) [praveśitā](praveśitā) [śastā](śastā) [pūrva](pūrva) [ādi](ādi) [paścime](paścime) [api](api) [vā](vā)
+[by-river](nadī) [entered](praveśitā) [auspicious](śastā) [from-east](pūrvādi) [in-west](paścime) [also](api) [or](vā)
 
 ## mukta-m0-p91-v2263
-[vaṭaḥ](vaṭaḥ) [prācyām](prācyām) [yama](yama) [āśāyām](āśāyām) [yajña](yajña) [aṅgaḥ](aṅgaḥ) [bodhiḥ](bodhiḥ) [abdiśi](abdiśi)
+[banyan](vaṭaḥ) [in-east](prācyāṃ) [in-south](yamāśāyāṃ) [sacrificial-tree](yajñāṅgo) [bodhi-tree](bodhir) [in-west](abdiśi)
 
 ## mukta-m0-p91-v2264
-[jayantī](jayantī) [dāḍimī](dāḍimī) [śyāmā](śyāmā) [punnāga](punnāga) [ariṣṭa](ariṣṭa) [pādapāḥ](pādapāḥ)
+[jayantī](jayantī) [pomegranate](dāḍimī) [śyāmā](śyāmā) [punnāga](punnāga) [ariṣṭa](ariṣṭa) [trees](pādapā)
 
 ## mukta-m0-p91-v2265
-[bahu](bahu) [darbha](darbha) [vatī](vatī) [viprā](viprā) [kṣatriyā](kṣatriyā) [ca](ca) [śara](śara) [ākulā](ākulā)
+[much](bahu) [kuśa-grass](darbha) [possessing](vatī) [brāhmaṇa](viprā) [kṣatriya](kṣatriyā) [and](ca) [with-reeds](śara) [filled](ākulā)
 
 ## mukta-m0-p91-v2266
-[phala](phala) [puṣpa](puṣpa) [vatī](vatī) [snigdhā](snigdhā) [snigdha](snigdha) [gulma](gulma) [oṣadhī](oṣadhī) [drumāḥ](drumāḥ)
+[with-fruits](phala) [and-flowers](puṣpa) [possessing](vatī) [smooth](snigdhā) [smooth](snigdha) [shrubs](gulma) [herbs](oṣadhī) [and-trees](drumāḥ)
 
 ## mukta-m0-p91-v2267
-[eka](eka) [varṇā](varṇā) [ghanā](ghanā) [tulyā](tulyā) [yama](yama) [ambu](ambu) [diśi](diśi) [ca](ca) [unnatā](unnatā)
+[one](eka) [colored](varṇā) [dense](ghanā) [even](tulyā) [in-south](yama) [and-west](ambudiśi) [and](ca) [elevated](unnatā)
 
 ## mukta-m0-p91-v2268
-[candana](candana) [aguru](aguru) [kāśmīra](kāśmīra) [candra](candra) [abja](abja) [utpala](utpala) [campakāḥ](campakāḥ)
+[sandal](candanā) [agaru](aguru) [kāśmīra](kāśmīra) [sandal](candra) [lotus](abja) [blue-lotus](utpala) [campaka](campakāḥ)
 
 ## mukta-m0-p91-v2269
-[śāli](śāli) [ibha](ibha) [mada](mada) [dadhi](dadhi) [ājya](ājya) [dugdha](dugdha) [anya](anya) [etat](etat) [su](su) [gandhinī](gandhinī)
+[rice](śālī) [sugarcane](bha) [curd](mada) [ghee](dadhyājya) [milk](dugdhāny) [this](etat) [sweet-smelling](sugandhinī)
 
 ## mukta-m0-p91-v2270
-[grīṣma](grīṣma) [kāle](kāle) [ca](ca) [yā](yā) [śītā](śītā) [uṣmaṇā](uṣmaṇā) [śiśire](śiśire) [anviyā](anviyā)
+[in-summer](grīṣma) [time](kāle) [and](ca) [which](yā) [cool](śītā) [with-heat](uṣmaṇā) [in-winter](śiśire) [accompanied](anviyā)
 
 ## mukta-m0-p91-v2271
-[śubha](śubha) [ātmanā](ātmanā)
+[by-auspicious](śubha) [soul](ātmanā)
 
 ## mukta-m0-p91-v2272
-[miṣaḥ](miṣaḥ) [vṛṣāḥ](vṛṣāḥ)
+[fish](miṣo) [bull](vṛṣā)
 
 ## mukta-m0-p91-v2273
-[sā](sā) [mahī](mahī)
+[that](sā) [earth](mahī)
 
 ## mukta-m0-p91-v2274
-[āṣāḍhā](āṣāḍhā) [kṛttikā](kṛttikā) [jyeṣṭhā](jyeṣṭhā) [tathā](tathā) [śatabhiṣā](śatabhiṣā) [ca](ca) [bham](bham)
+[āṣāḍhā](āṣāḍhā) [kṛttikā](kṛttikā) [jyeṣṭhā](jyeṣṭhā) [and](tathā) [śatabhiṣā](śatabhiṣā) [and](ca) [constellation](bham)
 
 ## mukta-m0-p91-v2275
-[sva](sva) [jāti](jāti) [brāhmaṇī](brāhmaṇī) [vā](vā) [api](api) [yathā](yathā) [lābham](lābhaṃ) [ca](ca) [gṛhyate](gṛhyate)
+[own](sva) [caste](jāti) [brāhmaṇī](brāhmaṇī) [or](vāpi) [as](yathā) [obtained](lābhaṃ) [and](ca) [is-taken](gṛhyate)
