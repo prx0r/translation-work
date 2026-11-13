@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2250,
- "question": "What does a blazing flame represent as the tongue of Jātavedas?",
+ "question": "Whom does the speaker invoke and what favor is requested from the goddess Śrī?",
  "premises": [
-  "A flame is present and blazing in a given location.",
-  "That same blazing flame is singled out for identification.",
-  "Jātavedas is characterized as possessing a tongue."
+  "The speaker invokes the goddess Śrī.",
+  "Śrī is explicitly addressed as a goddess.",
+  "The speaker requests that the goddess Śrī favor him."
  ],
- "inference": "The blazing flame is identified as the tongue of Jātavedas.",
- "uncertainties": [],
- "plain_english": "Where the flame blazes brightly, that is the tongue of Jātavedas."
+ "inference": "The verse constitutes a prayer in which the speaker invokes goddess Śrī and asks for her favor.",
+ "uncertainties": [
+  "The term śriyam/śrīḥ can denote both prosperity and the goddess personified; the presence of devīm/devī supports personification."
+ ],
+ "plain_english": "I invoke the goddess Śrī; may the goddess Śrī be pleased with me."
 }

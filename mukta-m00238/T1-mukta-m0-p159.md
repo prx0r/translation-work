@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p159-v3951
-[verses](ślokāḥ) [are](tu) [vasu-naga-aksha](vasunāgākṣa) [veda-number](vedasaṃkhyāḥ) [declared](prakīrtitāḥ)
+[verses](ślokāḥ)+[indeed](tu) [eight](vasu)+[elephant](nāga)+[eyes](akṣa) [veda](veda)+[numbered](saṃkhyāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p159-v3952
-[verses](ślokāḥ) [are](tu) [there](tatra) [spoken](gaditāḥ) [khe-su-jvalana-netra](kheṣujvalananetrakāḥ)
+[verses](ślokāḥ)+[indeed](tu) [there](tatra) [stated](gaditāḥ) [sky](khe)+[arrows](ṣu)+[fire](jvalana)+[eyes](netrakāḥ)
 
 ## mukta-m0-p159-v3953
-[padma-nikha-akshi-tejo-akshi](padmānikhākṣitejokṣi) [numbered](saṃkhyātāni) [by-experts](vicakṣaṇaiḥ)
+[lotus](padma)+[fire](ani)+[sky](kha)+[eyes](akṣi)+[fire](tejaḥ)+[eyes](akṣi) [counted](saṃkhyātāni)+[by-the-wise](vicakṣaṇaiḥ)
 
 ## mukta-m0-p159-v3954
-[there](tatra) [verses](ślokāḥ) [are](tu) [zero-sky-rasa-jvalana-number](śūnyābhrarasajvalanasaṃkhyakāḥ)
+[there](tatra)+[verses](ślokāḥ)+[indeed](tu) [void](śūnya)+[cloud](abhra)+[taste](rasa)+[fire](jvalana)+[numbered](saṃkhyakāḥ)
 
 ## mukta-m0-p159-v3955
-[verses](ślokāḥ) [are](tu) [there](tatra) [spoken](gaditāḥ) [enemy-naga-aksha-mana](arināgākṣamānasāḥ)
+[verses](ślokāḥ)+[indeed](tu) [there](tatra) [stated](gaditāḥ) [enemies](ari)+[elephant](nāga)+[eyes](akṣa)+[measured](mānasāḥ)
 
 ## mukta-m0-p159-v3956
-[verses](ślokāḥ) [are](tu) [there-spoken](tatragaditāḥ) [zero-sky-void-ocean](śūnyābhravyomasāgarāḥ)
+[verses](ślokāḥ)+[indeed](tu) [there](tatra)+[stated](gaditāḥ) [void](śūnya)+[cloud](abhra)+[sky](vyoma)+[oceans](sāgarāḥ)
 
 ## mukta-m0-p159-v3957
-[all-vedanta-essence](sarvavedāṃtasarvasvaṃ) [fifty-section-adorned](paṃcāśatkhaṃḍamaṃḍitam)
+[all](sarva)+[vedānta](vedānta)+[essence](sarvasvaṃ) [fifty](paṃcāśat)+[sections](khaṃḍa)+[adorned](maṃḍitam) (5)
 
 ## mukta-m0-p159-v3958
-[first](ādyā) [sanatkumariya](sanatkumārīyā) [second](dvitīyā) [suta-samhita](sūtasaṃhitā)
+[first](ādyā)+[of-sanatkumāra](sanatkumārīyā) [second](dvitīyā) [sūta](sūta)+[saṃhitā](saṃhitā)
 
 ## mukta-m0-p159-v3959
-[fifth](paṃcamī) [shankari-known](śāṃkarījñeyā) [sixth](ṣaṣṭhī) [would-be-saura-samhita](syātsaurasaṃhitā)
+[fifth](paṃcamī) [of-śaṅkara](śāṃkarī)+[to-be-known](jñeyā) [sixth](ṣaṣṭhī)+[should-be](syāt)+[saura](saura)+[saṃhitā](saṃhitā)
 
 ## mukta-m0-p159-v3960
-[second](dvitīyā) [samhita](saṃhitā) [brahmins](viprāḥ) [six-thousand-verses](ṣaṭsahasrai) [adorned](ralaṃkṛtā)
+[second](dvitīyā) [saṃhitā](saṃhitā) [o-brāhmaṇas](viprāḥ) [six](ṣaṭ)+[thousands](sahasrai) (6000 [verses](ślo0)) [adorned](ralaṃkṛtā)
 
 ## mukta-m0-p159-v3961
-[thirty](triṃśadbhiḥ) [shankari-joined](śāṃkarī) [sections-twelve](khaṃḍairdvādaśabhi) [joined](yutā)
+[with-thirty](triṃśadbhiḥ) (30000 [verses](ślo0)) [śāṅkarī](śāṃkarī) [endowed](yuktā)+[with-sections](khaṃḍaiḥ)+[twelve](dvādaśabhiḥ)+(12)+[joined](ryutā)
 
 ## mukta-m0-p159-v3962
-[hundred-thousand](yutaṃskāṃdaṃpaṃcāśatkhaṃḍamaṃḍitam)
+(100000 [verses](ślo0)) [endowed](yutaṃ)+[skānda](skāṃdaṃ)+[fifty](paṃcāśat)+[sections](khaṃḍa)+[adorned](maṃḍitam)
 
 ## mukta-m0-p159-v3963
-[rig-veda](ṛgvedadaścayajurvedaḥ) [sama-atharva-fourfold](sāmātharvāścaturvidhāḥ)
+[ṛgveda](ṛgvedaḥ)+[and](ca)+[yajurveda](yajurvedaḥ) [sāma](sāma)+[atharva](atharvāḥ)+[and](ca)+[fourfold](caturvidhāḥ)
 
 ## mukta-m0-p159-v3964
-[sama-gandharva-veda](sāmnigāṃdharvavedaḥ) [would-be](syāt) [artha-veda-atharvana](arthavedohyatharvaṇe)
+[in-sāma](sāmni)+[gāndharva](gāṃdharva)+[veda](vedaḥ) [should-be](syāt)+[artha](artha)+[veda](vedaḥ)+[indeed](hi)+[in-atharva](atharvaṇe)
 
 ## mukta-m0-p159-v3965
-[anga-vedas](aṃgavedāstuvijñeyāḥ) [in-order](kramādete) [great-fruits](mahāphalāḥ)
+[subsidiary](aṃga)+[vedas](vedāḥ)+[indeed](tu)+[to-be-known](vijñeyāḥ) [in-order](kramāt)+[these](ete) [greatly](mahā)+[fruitful](phalāḥ)
 
 ## mukta-m0-p159-v3966
-[ayur-etc-upavedas](āyurādyupavedebhyaḥ) [four](catvārojajñiresutāḥ)
+[āyurveda](āyur)+[and-other](ādi)+[upavedas](upavedebhyaḥ) [four](catvāraḥ)+[were-born](jajñire)+[sons](sutāḥ) || 1
 
 ## mukta-m0-p159-v3967
-[meter-etc-six-angas](chaṃdaśceti) [of-rig-etc-great](ṛgādīnāṃ) [mahiiyasam](mahīyasām)
+[metre](chaṃdaḥ)+[and](ca)+[thus](iti) [six](ṣaḍ)+[limbs](aṃgāni) [of-ṛg-and-others](ṛgādīnāṃ) [of-the-great](mahīyasām) || 1
 
 ## mukta-m0-p159-v3968
-[nyaya-brahma-mimamsa](nyāyastadbrahmamīmāṃsetyupāṃgānyuditāniṣaṭ)
+[logic](nyāyaḥ)+[and-that](tat)+[brahma](brahma)+[mīmāṃsā](mīmāṃse)+[thus](iti)+[subsidiary-limbs](upāṃgāni)+[declared](uditāni)+[six](ṣaṭ) || 1
 
 ## mukta-m0-p159-v3969
-[juhu-samid-named](juhūḥ) [of-four-ritual-made](samitsamākhyātāścaturṇāṃ) [vidhi-nirmita](vidhinirmitāḥ)
+[juhū](juhūḥ) [samit](samit)+[called](samākhyātāḥ)+[of-the-four](caturṇāṃ) [by-rule](vidhi)+[made](nirmitāḥ) || 1
 
 ## mukta-m0-p159-v3970
-[isha-vasya-etc](īśāvāsyaṃcakenākhyaṃ) [katha-vali-named](kaṭhavallyabhidhaṃ) [thus](tathā)
+[īśāvāsya](īśāvāsyaṃ)+[and](ca)+[kena](kena)+[named](ākhyaṃ) [kaṭha](kaṭha)+[vallī](valli)+[named](abhidhaṃ) [likewise](tathā)
 
 ## mukta-m0-p159-v3971
-[prashna-named](praśnākhyaṃ) [brihad-aranyaka](bṛhadāraṇyamaitareyaṃ) [thus-indeed](tathaiva) [ca](ca)
+[praśna](praśna)+[named](ākhyaṃ) [bṛhadāraṇyaka](bṛhadāraṇyam)+[aitareya](aitareyaṃ) [likewise](tathaiva) [and](ca)
 
 ## mukta-m0-p159-v3972
-[kalagni-rudra-hamsa](kālāgnirudraṃhaṃsaṃ) [ca](ca) [narayana](nārāyaṇamataḥ) [param](param)
+[kālāgnirudra](kālāgnirudraṃ)+[haṃsa](haṃsaṃ) [and](ca) [nārāyaṇa](nārāyaṇam)+[thereafter](ataḥ) [supreme](param)
 
 ## mukta-m0-p159-v3973
-[brahma-named](brahmākhyaṃ) [ca-indeed](caiva) [jabala](jābālamatharvaśira) [atharva-shira-called](āhvayam)
+[brahma](brahma)+[named](ākhyaṃ) [and](ca)+[indeed](eva) [jābāla](jābālam)+[atharvaśiras](atharvaśira) [called](āhvayam)
 
 ## mukta-m0-p159-v3974
-[maitreya](maitreyaṃ) [paramahamsa](parahaṃsaṃ) [ca](ca) [kshurika-named](kṣurikānāmakaṃnathā)
+[maitreya](maitreyaṃ) [paramahaṃsa](parahaṃsaṃ) [and](ca) [kṣurikā](kṣurikā)+[named](nāmakaṃ)+[then](atha)
 
 ## mukta-m0-p159-v3975
-[maitrayaniya](maitrāyaṇīyaṃ) [ca-atharva](cātharva) [shikha-named](śikhāsaṃjñamanukramāt)
+[maitrāyaṇīya](maitrāyaṇīyaṃ) [and](ca)+[atharva](atharva) [śikhā](śikhā)+[named](saṃjñam)+[in-order](anukramāt)

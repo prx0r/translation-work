@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p155-v3851
-[kshatriya](kṣatriyaḥ) [crowned](kiriṭī) [joined-palms](sāṃjalibaṃdhaḥ) [left-sword](vāmekhaḍgaḥ)
+[warrior](kṣatriyaḥ) [crowned](kirīṭī) [with-hands-folded-in-reverence](sāṃjalibaṃdhaḥ) [with-sword-in-left-hand](vāmekhaḍgaḥ)
 
 ## mukta-m0-p155-v3852
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibaṃdhaḥ)
+[Gaṇanātha](gaṇanāthaḥ) [brahmin](brāhmaṇaḥ) [with-hands-folded-in-reverence](sāṃjalibaṃdhaḥ)
 
 ## mukta-m0-p155-v3853
-[kshatriya](kṣatrīyaḥ) [crowned](kirīṭī) [joined-palms](sāṃjalibaṃdhaḥ) [left-sword](vāmekhaḍgaḥ)
+[Parāntaka](parāntakaḥ) [warrior](kṣatrīyaḥ) [crowned](kirīṭī) [with-hands-folded-in-reverence](sāṃjalibaṃdhaḥ) [with-sword-in-left-hand](vāmekhaḍgaḥ)
 
 ## mukta-m0-p155-v3854
-[brahmin](brāhmaṇaḥ) [joined-palms](sāṃjalibandhaḥ)
+[Satyārtha](satyārthaḥ) [brahmin](brāhmaṇaḥ) [with-hands-folded-in-reverence](sāṃjalibandhaḥ)
 
 ## mukta-m0-p155-v3855
-[brahmin](brāhmaṇaḥ) [matted-crown](jaṭāmukuṭadhārī) [joined-palms](sāṃjalibaṃdhaḥ) [side-earring](kakṣebhṛṅgārī)
+[Atibhakta](atibhaktaḥ) [brahmin](brāhmaṇaḥ) [wearing-matted-hair-crown](jaṭāmukuṭadhārī) [with-hands-folded-in-reverence](sāṃjalibaṃdhaḥ) [with-water-pot-in-armpit](kakṣebhṛṅgārī)
 
 ## mukta-m0-p155-v3856
-[kshatriya](kṣatriyaḥ) [matted-crown](jaṭāmukuṭadhārī) [joined-palms](baddhāṃjaliḥ)
+[Pratāpaśūra](pratāpaśūraḥ) [warrior](kṣatriyaḥ) [wearing-matted-hair-crown](jaṭāmakuṭadhārī) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3857
-[brahmin](brāhmaṇaḥ) [matted-haired](jaṭādhārī) [joined-palms](baddhāṃjaliḥ)
+[Mānadhana](mānadhanaḥ) [brahmin](brāhmaṇaḥ) [wearing-matted-hair](jaṭādhārī) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3858
-[fifth-caste](paṃcamaḥ) [right-boon-hand](dakṣiṇevaradahastaḥ) [left-kamandalu](laṃbitavāmakareṇa kamaṇḍaludharaḥ)
+[Kalinīti](kalinītiḥ) [of-the-fifth-class](paṃcamaḥ) [with-boon-giving-right-hand](dakṣiṇe+varada+hastaḥ) [holding-water-pot-with-hanging-left-hand](laṃbita+vāma+kareṇa+kamaṇḍalu+dharaḥ)
 
 ## mukta-m0-p155-v3859
-[brahmin](brāhmaṇaḥ) [curved-tuft](vakraśikhaḥ) [right-sword](dakṣiṇakare khaḍgaḥ)
+[Kīrtikatha](kīrtikathaḥ) [brahmin](brāhmaṇaḥ) [with-curved-lock-of-hair](vakraśikhaḥ) [with-sword-in-right-hand](dakṣiṇakare+khaḍgaḥ)
 
 ## mukta-m0-p155-v3860
-[cowherd](gopaḥ) [joined-palms](baddhaṃjaliḥ) [crowned](kirīṭī) [left-sword](vāme khaḍgaḥ)
+[Paṃcapāda](paṃcapādaḥ) [cowherd](gopaḥ) [with-hands-folded](baddhaṃjaliḥ) [crowned](kirīṭī) [with-sword-in-left-hand](vāme+khaḍgaḥ)
 
 ## mukta-m0-p155-v3861
-[brahmin](brāhmaṇaḥ) [matted-haired](jaṭādhārī) [joined-palms](baddhāṃjaliḥ)
+[Avikārī](avikārī) [brahmin](brāhmaṇaḥ) [wearing-matted-hair](jaṭādhārī) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3862
-[shudra](śūdraḥ) [matted-haired](jaṭādhārī) [joined-palms](baddhāṃjaliḥ)
+[Gaṇollapa](gaṇollapaḥ) [śūdra](śūdraḥ) [wearing-matted-hair](jaṭādhārī) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3863
-[kshatriya](kṣatriyaḥ) [matted-crown](jaṭāmukuṭadhārī) [joined-palms](baddhāṃjaliḥ)
+[Abhirāma](abhirāmaḥ) [warrior](kṣatriyaḥ) [wearing-matted-hair-crown](jaṭāmukuṭadhārī) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3864
-[brahmin](brāhmaṇaḥ) [joined-palms](baddhāṃjaliḥ) [matted-crown](jaṭāmukuṭadhārī)
+[Nirvācaka](nirvācakaḥ) [brahmin](brāhmaṇaḥ) [with-hands-folded](baddhāṃjaliḥ) [wearing-matted-hair-crown](jaṭāmukuṭadhārī)
 
 ## mukta-m0-p155-v3865
-[shudra](śūdraḥ) [matted-crown](jaṭāmukuṭadhārī) [joined-palms](baddhaṃjaliḥ)
+[Śaktimān](śaktimān) [śūdra](śūdraḥ) [wearing-matted-hair-crown](jaṭāmukuṭadhārī) [with-hands-folded](baddhaṃjaliḥ)
 
 ## mukta-m0-p155-v3866
-[cowherd](gopaḥ) [crowned](kirīṭī) [joined-palms](baddhāṃjaliḥ) [left-sword](vāme khaḍgaḥ)
+[Siṃhaka](siṃhakaḥ) [cowherd](gopaḥ) [crowned](kirīṭī) [with-hands-folded](baddhāṃjaliḥ) [with-sword-in-left-hand](vāme+khaḍgaḥ)
 
 ## mukta-m0-p155-v3867
-[kshatriya](kṣatriyaḥ) [crowned](kirīṭī) [joined-palms](baddhāṃjaliḥ) [left-snake-staff](vāme nāgavetram)
+[Bhūtimān](bhūtimān) [warrior](kṣatriyaḥ) [crowned](kirīṭī) [with-hands-folded](baddhāṃjaliḥ) [with-serpent-staff-in-left-hand](vāme+nāgavetram)
 
 ## mukta-m0-p155-v3868
-[shudra](śūdraḥ) [matted-crown](jaṭāmukuṭadharī) [right-sword](dakṣiṇakare khaḍgaḥ)
+[Sāhasapriya](sāhasapriyaḥ) [śūdra](śūdraḥ) [wearing-matted-hair-crown](jaṭāmakuṭadharī) [with-sword-in-right-hand](dakṣiṇakare+khaḍgaḥ)
 
 ## mukta-m0-p155-v3869
-[brahmin](brāhmaṇaḥ) [joined-palms](baddhāṃjaliḥ)
+[Kīrtināthāmṛta](kīrtināthāmṛtaḥ) [brahmin](brāhmaṇaḥ) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3870
-[shudra](śūdraḥ) [matted-crown](jaṭāmukuṭadhārī) [left-sword](vāme khaḍgaḥ) [joined-palms](baddhāṃjaliḥ)
+[Śūravyāghra](śūravyāghraḥ) [śūdra](śūdraḥ) [wearing-matted-hair-crown](jaṭāmukuṭadhārī) [with-sword-in-left-hand](vāme+khaḍgaḥ) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3871
-[brahmin](brāhmaṇaḥ) [joined-palms](baddhāṃjaliḥ)
+[Vibhūticara](vibhūticaraḥ) [brahmin](brāhmaṇaḥ) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3872
-[kshatriya](kṣatriyaḥ) [joined-palms](baddhāṃjaliḥ)
+[Lohitākṣa](lohitākṣaḥ) [warrior](kṣatriyaḥ) [with-hands-folded](baddhāṃjaliḥ)
 
 ## mukta-m0-p155-v3873
-[shudra](śudraḥ) [matted-haired](jaṭādhārī) [joined-palms](baddhāṃjaliḥ) [left-staff](vāme vetram)
+[Sahasrakara](sahasrakaraḥ) [śūdra](śudraḥ) [wearing-matted-hair](jaṭādhārī) [with-hands-folded](baddhāṃjaliḥ) [with-staff-in-left-hand](vāme+vetram)
 
 ## mukta-m0-p155-v3874
-[brahmin](brāhmaṇaḥ) [joined-palms](baddhāṃjaliḥ) [crowned](kirīṭī) [left-sword](vāme khaḍgaḥ)
+[Śaṃbhucitta](śaṃbhucittaḥ) [brahmin](brāhmaṇaḥ) [with-hands-folded](baddhāṃjaliḥ) [crowned](kirīṭī) [with-sword-in-left-hand](vāme+khaḍgaḥ)
 
 ## mukta-m0-p155-v3875
-[brahmin](brāhmaṇaḥ) [joined-palms](baddhāṃjaliḥ) [matted-crown](jaṭāmukuṭadhārī) [left-vina](vāme vīṇā)
+[Gītānaṃda](gītānaṃdaḥ) [brahmin](brāhmaṇaḥ) [with-hands-folded](baddhāṃjaliḥ) [wearing-matted-hair-crown](jaṭāmukuṭadhārī) [with-lute-in-left-hand](vāme+vīṇā)

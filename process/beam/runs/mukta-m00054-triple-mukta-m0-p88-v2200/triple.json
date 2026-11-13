@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "karuṇā+sudhayā",
+     "gloss": "with-compassion-nectar",
+     "grounds": "compound of karuṇā (compassion) and sudhā (nectar), expressing the means of sprinkling",
+     "morph": "karuṇā+sudhā: inst.sg.f"
+    },
+    {
+     "surface": "mān",
+     "gloss": "me",
+     "grounds": "object of the requested actions",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "direct address to the deity",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "abhiṣiñca",
+     "gloss": "sprinkle",
+     "grounds": "command requesting consecration or anointing",
+     "morph": "2.sg.imp.act √abhi-ṣic"
+    },
+    {
+     "surface": "sthirīkuru",
+     "gloss": "make-steady",
+     "grounds": "command requesting stabilization or firming",
+     "morph": "2.sg.imp.act √sthirī-kṛ"
+    }
+   ],
+   "question": "What compassionate consecration and stabilization does the supplicant request from the addressed deity?",
+   "premises": [
+    "The deity is directly addressed as the agent of the actions.",
+    "The supplicant requests to be sprinkled with compassion-nectar.",
+    "The supplicant requests to be made steady."
+   ],
+   "inference": "The deity is petitioned to consecrate and stabilize the supplicant through compassionate grace.",
+   "uncertainties": [],
+   "plain_english": "You, sprinkle me with the nectar of compassion and make me steady."
+  }
+ ]
+}

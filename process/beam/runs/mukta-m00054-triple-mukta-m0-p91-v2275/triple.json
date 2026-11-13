@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "niśumbhādiharā",
+     "gloss": "destroyer-of-niśumbha-and-others",
+     "grounds": "bahuvrīhi/tatpuruṣa compound naming the goddess as slayer of Niśumbha and others",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "epithet identifying the goddess as mother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hariśaṅkara",
+     "gloss": "hari-and-śaṅkara",
+     "grounds": "dvandva compound naming the divine pair as agents of worship",
+     "morph": "compound; m.inst.du"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "past passive participle describing honor received by the goddess",
+     "morph": "f.nom.sg; ppp pūj"
+    }
+   ],
+   "question": "What identity and divine honors are attributed to the goddess who destroys Niśumbha?",
+   "premises": [
+    "The goddess is identified as the destroyer of Niśumbha and others.",
+    "The goddess is called mother.",
+    "The goddess is worshipped by Hari and Śaṅkara."
+   ],
+   "inference": "The destroyer of Niśumbha is the mother goddess honored by Hari and Śaṅkara.",
+   "uncertainties": [],
+   "plain_english": "She is the destroyer of Niśumbha and others, the Mother, worshipped by Hari and Śaṅkara."
+  }
+ ]
+}
