@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-[auḍḍīśa-born](auḍḍīśaprabhavā) [these](ete) [vasu-count](vasusaṃkhyāḥ) [indeed](tu) [men](mānavāḥ)
+[oḍḍīśa-born](auḍḍīśaprabhavā) [these](ete) [eight-in-number](vasusaṃkhyāḥ) [indeed](tu) [humans](mānavāḥ)
 
 ## mukta-m0-p24-v577
-[dhvanirāśiḥ](dhvanirāśiḥ) [joined](samāyuktaḥ) [varaṇa-rāśi-eightfold](varaṇarāśyaṣṭakena) [and](ca)
+[sound-mass](dhvanirāśiḥ) [joined-with](samāyuktaḥ) [syllable-mass+eightfold](varaṇarāśyaṣṭakena) [and](ca)
 
 ## mukta-m0-p24-v578
-[time's](kālasya) [limiters](avachedakāḥ) [those](te) [fourth-state-refuge](turīyapadasaṃśrayāḥ)
+[of-time](kālasya) [delimiters](avachedakāḥ) [they](te) [fourth-state+resorting-to](turīyapadasaṃśrayāḥ)
 
 ## mukta-m0-p24-v579
-[true](satyaḥ) [full](pūrṇaḥ) [nature-named](svabhāvākhyaḥ) [splendor](pratibhaḥ) [auspicious-named](subhagābhidhaḥ)
+[satya](satyaḥ) [pūrṇa](pūrṇaḥ) [svabhāva-named](svabhāvā'khyaḥ) [pratibha](pratibhaḥ) [subhaga-named](subhagā'bhidhaḥ)
 
 ## mukta-m0-p24-v580
-[flood](oghaḥ) [fourfold](caturvidhaḥ) [knowledge-difference-etc-yuga-difference](vidyāvibhedādyugabhedataḥ)
+[stream](oghaḥ) [fourfold](caturvidhaḥ) [knowledge+difference+and+age+difference-from](vidyāvibhedādyugabhedataḥ)
 
 ## mukta-m0-p24-v581
-[flood](oghaḥ) [but](tu) [fifth](pañcamaḥ) [also](api) [may-be](syāt) [guru-knowledge-promoter](guruvidyāpravartakaḥ)
+[stream](oghaḥ) [but](tu) [fifth](pañcamaḥ) [also](api) [may-be](syāt) [guru+knowledge+promoting](guruvidyāpravartakaḥ)
 
 ## mukta-m0-p24-v582
-[we](vayaṃ) [divine-natured](divyabhāvāḥ) [perfected](siddhāḥ) [Kumāra-etc](kumārādyāḥ) [and](ca) [men](mānavāḥ)
+[we](vayaṃ) [divine-natured](divyabhāvāḥ) [siddhas](siddhāḥ) [kumāra-and-others](kumārādyāḥ) [and](ca) [humans](mānavāḥ)
 
 ## mukta-m0-p24-v583
-[then](atha) [of-fire](agneḥ) [consciousness-nature](cinmayatvam) [to-you](te) [describe](varṇayāmi) [in-order](kramāt) [hear](śṛṇu)
+[now](atha) [of-fire](agneḥ) [consciousness-nature](cinmayatvaṃ) [to-you](te) [I-describe](varṇayāmi) [in-order](kramāt) [listen](śṛṇu)
 
 ## mukta-m0-p24-v584
-[darkness](tamaḥ) [action](kriyāḥ) [sattva-form](sattvamūrtiḥ) [blossoming](vikasaḥ) [consciousness-inner](cinmayāntaraḥ)
+[darkness](tamaḥ) [activity](kriyaḥ) [goodness-form](sattvamūrtiḥ) [expanding](vikasaḥ) [consciousness+inner](cinmayā'ntaraḥ)
 
 ## mukta-m0-p24-v585
-[right-left-middle-situated](dakṣavāmamadhyasaṃstham) [piṅgalā-iḍā-suṣumnā](paiṅgaleḍāsuṣumṇakam)
+[right+left+middle+situated](dakṣavāmamadhyasaṃsthaṃ) [piṅgalā+iḍā+suṣumṇā](paiṅgaleḍāsuṣumṇakam)
 
 ## mukta-m0-p24-v586
-[bound](baddham) [middle](madhyam) [knowledge-path](jñānamārgam) [knowers](vidvāṃsaḥ) [Rāhu-Āryakas](rāhurāryakāḥ)
+[bound](baddhaṃ) [middle](madhyaṃ) [knowledge-path](jñānamārgaṃ) [the-wise](vidvāṃsaḥ) [rāhu+rāryakāḥ](rāhurāryakāḥ)
 
 ## mukta-m0-p24-v587
-[action](kriyām) [desire](icchām) [awakens](cetayati) [mortals](martyāḥ) [therefore](tena) [indeed](hi) [conscious](cetanāḥ)
+[action](kriyām) [desire](icchāṃ) [perceives](cetayati) [mortals](martyāḥ) [by-that](tena) [indeed](hi) [conscious](cetanāḥ)
 
 ## mukta-m0-p24-v588
-[refuge-become-consciousness-only](āśrayībhūtacinmātrasya) [upward-flow](ūrdhvavāhaḥ) [and](ca) [conscious](cetanāḥ)
+[resorted-to+consciousness-mere](āśrayībhūtacinmātrasya) [upward-flowing](ūrdhvavāhaḥ) [and](ca) [conscious](cetanāḥ)
 
 ## mukta-m0-p24-v589
-[not](na) [awaken](cetayanti) [they](te) [past](bhūtam) [future](bhavyam) [and](ca) [anywhere](kvacid) [in-self](ātmani)
+[not](na) [they-perceive](cetayanti) [they](te) [past](bhūtaṃ) [future](bhavyaṃ) [and](ca) [anywhere](kvacit) [in-self](ātmani)
 
 ## mukta-m0-p24-v590
-[thus](evam) [situated](sthite) [great-god](mahādevaḥ) [who](yaḥ) [three-eyed](trinetraḥ) [thence](tataḥ) [greater](adhikaḥ)
+[thus](evaṃ) [being-situated](sthite) [great-god](mahādevaḥ) [who](yaḥ) [three-eyed](trinetraḥ) [than-that](tataḥ) [higher](adhikaḥ)
 
 ## mukta-m0-p24-v591
-[by-him](tena) [inner-our-knowledge](antarasmadvijñānam) [full](pūrṇam) [is-perceived](samupalakṣyate)
+[by-him](tena) [inner](antara) [our-knowledge](asmadvijñānaṃ) [full](pūrṇaṃ) [is-perceived](samupalakṣyate)
 
 ## mukta-m0-p24-v592
-[forehead-region](phāladeśe) [pierced](vinirbhinna) [middle-nāḍī](madhyanāḍī) [consciousness-natured](cidātmikā)
+[forehead-region](phāladeśe) [split-forth](vinirbhinna) [middle-channel](madhyanāḍī) [consciousness-natured](cidātmikā)
 
 ## mukta-m0-p24-v593
-[therefore](tasmāt) [that-eye-born](tannetrasambhūtaḥ) [consciousness-fire](cidagniḥ) [thus](iti) [famous](viśrutaḥ)
+[therefore](tasmāt) [from-that-eye+born](tannetrasambhūtaḥ) [consciousness-fire](cidagniḥ) [thus](iti) [well-known](viśrutaḥ)
 
 ## mukta-m0-p24-v594
-[hear](śṛṇu) [in-world](loke) [Viśvakarman](viśvakarman) [which](yat) [happiness](sukham) [that](tat) [consciousness-natured](cidātmakam)
+[listen](śṛṇu) [in-world](loke) [O-Viśvakarman](viśvakarman) [what](yat) [happiness](sukhaṃ) [that](tat) [consciousness-natured](cidātmakam)
 
 ## mukta-m0-p24-v595
-[happiness-bringing](sukhāvaham) [beautiful](sundaram) [and](ca) [in-world](loke) [direct-manifestation](pratyakṣabhāvanāt)
+[happiness-bringing](sukhāvahaṃ) [beautiful](sundaram) [and](ca) [in-world](loke) [by-direct+perception](pratyakṣabhāvanāt)
 
 ## mukta-m0-p24-v596
-[self-glory-natured](svavaibhavātmakam) [universe](viśvam) [by-independence](svātantryeṇa) [manifested](prakāśitam)
+[own-glory-natured](svavaibhavātmakaṃ) [universe](viśvaṃ) [by-independence](svātantryeṇa) [manifested](prakāśitam)
 
 ## mukta-m0-p24-v597
-[ego](abhimānaḥ) [vain](vṛthā) [from-delusion](mohāt) [I-am-doer-thus-situated](ahaṃkartetisaṃsthitaḥ)
+[egoism](abhimānaḥ) [in-vain](vṛthā) [from-delusion](mohāt) [I](ahaṃ) [doer](kartā) [thus](iti) [situated](saṃsthitaḥ)
 
 ## mukta-m0-p24-v598
-[thus](tathā) [api](api) [unapproved-attainment](asammataprāptiḥ) [may-be](bhavet) [or](vā) [how](katham) [say](īraya)
+[nevertheless](tathā'pi) [unapproved+attainment](asammataprāptiḥ) [may-be](bhavet) [or](vā) [how](katham) [tell](īraya)
 
 ## mukta-m0-p24-v599
-[therefore](tasmāt) [woman-consciousness-meditation](yoṣinmayadhyānam) [by-her](tayā) [indeed](eva) [manifested](pravibhāvitam)
+[therefore](tasmāt) [which](yā) [consciousness-meditation](cinmayadhyānaṃ) [by-her](tayā) [indeed](eva) [revealed](pravibhāvitam)
 
 ## mukta-m0-p24-v600
-[thus](evam) [situated](sthitā) [great-queen](mahārājñī) [cintāmaṇi-house](cintāmaṇigṛhe) [then](tadā)
+[thus](evaṃ) [situated](sthitā) [great-queen](mahārājñī) [in-wish-gem+house](cintāmaṇigṛhe) [then](tadā)
