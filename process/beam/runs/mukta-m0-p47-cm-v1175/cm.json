@@ -3,19 +3,49 @@
  "verse": 1175,
  "rows": [
   {
-   "lemma": "bhūtapautrī",
-   "morph": "compound.f.nom.sg",
-   "grounds": "compound epithet: bhūta (beings) + pautrī (granddaughter)"
+   "lemma": "kāṃ",
+   "morph": "pron.interr.acc.sg.f",
+   "grounds": "interrogative pronoun qualifying vidyāṃ"
   },
   {
-   "lemma": "bhūtaputrī",
-   "morph": "compound.f.nom.sg",
-   "grounds": "compound epithet: bhūta (beings) + putrī (daughter)"
+   "lemma": "vidyāṃ",
+   "morph": "n.acc.sg.f",
+   "grounds": "object of prāpya"
   },
   {
-   "lemma": "bhūtabhāryāvidheśvarī",
-   "morph": "compound.f.nom.sg",
-   "grounds": "compound epithet: bhūta-bhāryā (consort of beings) + vidhi/vidheśa (lord/husband) + īśvarī (sovereign lady)"
+   "lemma": "prāpya",
+   "morph": "gerund(prāp)",
+   "grounds": "absolutive expressing prior attainment"
+  },
+  {
+   "lemma": "sā",
+   "morph": "pron.dem.nom.sg.f",
+   "grounds": "subject; referent depends on preceding context"
+  },
+  {
+   "lemma": "jātā",
+   "morph": "ppp.nom.sg.f(jan)",
+   "grounds": "resultant state following attainment of knowledge"
+  },
+  {
+   "lemma": "tāṃ",
+   "morph": "pron.dem.acc.sg.f",
+   "grounds": "anaphoric to kāṃ vidyāṃ, object of vadasva"
+  },
+  {
+   "lemma": "vadasva",
+   "morph": "impv.2.sg.mid(vad)",
+   "grounds": "request addressed to the lord"
+  },
+  {
+   "lemma": "mayi",
+   "morph": "pron.1.loc.sg",
+   "grounds": "recipient of the requested explanation"
+  },
+  {
+   "lemma": "prabho",
+   "morph": "n.voc.sg.m",
+   "grounds": "vocative address to the respondent"
   }
  ]
 }
