@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p66-v1626
-[of-that](tasya) [poverty+renunciation](dāridrya+saṃnyāsaṃ) [like-a-servant](dāsīvat) [I-shall-do](karavāṇi)+[I](aham)
+[of-that](tasya) [poverty+renunciation](dāridrya+saṃnyāsaṃ) [like-a-servant](dāsīvat) [I-shall-do](karavāṇi) [I](aham)
 
 ## mukta-m0-p66-v1627
-[oblation](homaḥ)+[also](api) [and](ca) [to-be-performed](vidhātavyaḥ) [in-a-moment](kṣaṇāt)+[for-poverty+pacification](dāridrya+śāntaye)
+[oblation](homaḥ) [also](api) [and](ca) [to-be-performed](vidhātavyaḥ) [in-a-moment](kṣaṇāt) [for-poverty+pacification](dāridrya+śāntaye)
 
 ## mukta-m0-p66-v1628
 [in-copper+vessel](tāmra+pātre) [likewise](tathā) [to-be-made](kāryaṃ) [diagram](maṇḍalaṃ) [very-beautiful](su+manoharam)
 
 ## mukta-m0-p66-v1629
-[whence](kutaḥ) [poverty+fear](dāridrya+śaṅkā)+[of-him](asya) [he](sa) [indeed](hi) [lord-of-crores](koṭī+īśvaraḥ) [may-become](bhavet)
+[whence](kutaḥ) [poverty+fear](dāridrya+śaṅkā) [of-him](asya) [he](sa) [indeed](hi) [lord-of-crores](koṭī+īśvaraḥ) [may-become](bhavet)
 
 ## mukta-m0-p66-v1630
-[of-Kubera](kuberasya) [by-opinion](matena)+[of-her](asyāḥ) [worship+etc](pūjā+ādi) [is-done](kriyate) [always](sadā)
+[of-kubera](kuberasya) [by-opinion](matena) [of-her](asyāḥ) [worship+etc.](pūjā+ādi) [is-done](kriyate) [always](sadā)
 
 ## mukta-m0-p66-v1631
-[beginning-with-east](pūrva+ādi) [ending-with-north](uttara+antam)+[and](ca) [in-middle](madhye) [goddess](devīṃ) [one-should-worship](prapūjayet)
+[from-east+etc.](pūrvā+ādi) [up-to-north](uttara+antam) [and](ca) [in-middle](madhye) [goddess](devīṃ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p66-v1632
-[in-heart+etc](hṛdaya+ādiṣu)
+[in-heart+etc.](hṛdaya+ādiṣu)
 
 ## mukta-m0-p66-v1633
-[with-various+ornament+adorned+limbs](nānā+alaṅkāra+bhūṣā+aṅgīṃ) [naked](nagnāṃ) [intoxicated](mattāṃ) [always+with-liquors](sadā+āsavaiḥ)
+[with-various+ornament+adorned+limbs](nānā+alaṅkāra+bhūṣā+aṅgīṃ) [naked](nagnāṃ) [intoxicated](mattāṃ) [always](sadā) [with-liquors](āsavaiḥ)
 
 ## mukta-m0-p66-v1634
-[naked](nagnaḥ) [having-become](bhūtvā) [great+worship](mahā+pūjāṃ) [one-should-perform](kuryāt)+[at-night](rātrau) [especially](viśeṣataḥ)
+[having-become-naked](nagnaḥ) [having-become](bhūtvā) [great+worship](mahā+pūjāṃ) [one-should-perform](kuryāt) [at-night](rātrau) [especially](viśeṣataḥ)
 
 ## mukta-m0-p66-v1635
-[outside-that](tat+vahis)+[Asitāṅga+etc+Bhairavas](asitāṅga+ādi+bhairavān) [one-should-worship](pūjayet)
+[outside-that](tat+vahis) [asitāṅga+etc.+bhairavas](asitāṅga+ādi+bhairavān) [one-should-worship](pūjayet)
 
 ## mukta-m0-p66-v1636
-[letter+hundred-thousand](varṇa+lakṣaṃ) [one-should-chant](japet)+[mantra](mantraṃ) [by-its+tenth-part](tat+daśāṃśena) [one-should-offer-oblations](homayet)
+[syllable+hundred-thousand](varṇa+lakṣaṃ) [one-should-repeat+mantra](japet+mantraṃ) [with-its+tenth-part](tat+daśāṃśena) [one-should-offer-oblation](homayet)
 
 ## mukta-m0-p66-v1637
-[Kālikā](kālikā) [of-goddess](devyāḥ) [thus](iti) [with-own+seed](nija+bījena) [thus+meaning](iti+arthaḥ)
+[of-kālikā+goddess](kālikā+devyāḥ) [thus](iti) [with-own+seed-syllable](nija+bījena) [thus+meaning](iti+arthaḥ)
 
 ## mukta-m0-p66-v1638
-[of-whom](yasyāḥ) [by-remembrance+mere](smaraṇa+mātreṇa) [wind](pavanaḥ)+[even](api) [is-made-still](sthirāyate)
+[of-whom](yasyāḥ) [by-mere+remembrance](smaraṇa+mātreṇa) [even-wind](pavanaḥ) [also](api) [becomes-still](sthirāyate)
 
 ## mukta-m0-p66-v1639
-[fire+devoid+Indra+joined+Māyā](vahni+hīna+indra+yuṅ+māyā) [Sthiramāyā](sthira+māyā) [is-proclaimed](prakīrtitā)
+[fire-less+moon+joined+māyā](vahni+hīna+indu+yuk+māyā) [stable+māyā](sthira+māyā) [is-proclaimed](prakīrtitā)
 
 ## mukta-m0-p66-v1640
-[thus](iti)+[also](api) [another+mantra](mantra+antaram)
+[thus](iti) [also](api) [another+mantra](mantra+antaram)
 
 ## mukta-m0-p66-v1641
-[hlīṃ](hlīṃ) [seed](bījaṃ) [in-secret+place](guhya+deśe) [but](tu) [svāhā+power](svāhā+śaktiḥ)+[but](tu) [on-feet](pādayoḥ)
+[hlīṃ+seed](hlīṃ+bījaṃ) [in-secret+place](guhya+deśe) [indeed](tu) [svāhā+power](svāhā+śaktiḥ) [indeed](tu) [on-feet](pādayoḥ)
 
 ## mukta-m0-p66-v1642
-[on-finger+branches](kara+śākhāsu) [on-palms](talayoḥ) [hand+limb+placement](kara+aṅga+nyāsam)+[one-should-perform](ācaret)
+[on-finger+branches](kara+śākhāsu) [on-palms](talayoḥ) [hand+limb+installation](kara+aṅga+nyāsam) [one-should-perform](ācaret)
 
 ## mukta-m0-p66-v1643
-[in-order](krameṇa) [mantra+letters](mantra+varṇān)+[but](tu) [having-placed](nyasya) [one-should-meditate](dhyāyet)+[as-per-rule](yathā+vidhi)
+[in-sequence](krameṇa) [mantra+syllables](mantra+varṇān) [indeed](tu) [having-placed](nyasya) [one-should-meditate](dhyāyet) [as-prescribed](yathā+vidhi)
 
 ## mukta-m0-p66-v1644
-[thus](evaṃ) [having-meditated](dhyātvā) [with-mental+offerings](mānasaiḥ) [having-worshipped](sampūjya) [external+worship](bahiḥ+pūjām)+[one-should-begin](ārabhet)
+[thus](evaṃ) [having-meditated](dhyātvā) [with-mental+offerings](mānasaiḥ) [having-worshipped](sampūjya) [external+worship](bahiḥ+pūjām) [one-should-begin](ārabhet)
 
 ## mukta-m0-p66-v1645
-[worship+implements](pūjā+upakaraṇam)+[and](ca)+[one-should-sprinkle](abhyukṣayet)
+[worship+implements](pūjā+upakaraṇam) [and](ca) [one-should-sprinkle](abhyukṣayet)
 
 ## mukta-m0-p66-v1646
-[with-forefinger+thumb+union](tarjanī+aṅguṣṭha+yogena) [with-limbs+coverings](sa+aṅga+āvaraṇāṃ) [Bagalāmukhīm](bagalāmukhīm) [one-should-satisfy](tarpayet)
+[with-forefinger+thumb+joining](tarjanī+aṅguṣṭha+yogena) [with-limbs+enclosures](sa+aṅga+āvaraṇāṃ) [bagalāmukhī](bagalāmukhīm) [one-should-propitiate](tarpayet)
 
 ## mukta-m0-p66-v1647
-[with-priyaṅgu+flower](priyaṅgu+kusumena)+[also](api) [with-yellow+flowers](pīta+puṣpaiḥ)+[and](ca) [one-should-offer-oblations](homayet)
+[with-priyaṅgu+flower](priyaṅgu+kusumena) [also](api) [and-with-yellow+flowers](pīta+puṣpaiḥ) [and](ca) [one-should-offer-oblation](homayet)
 
 ## mukta-m0-p66-v1648
-[with-yellow+ornament+adorned](pīta+bhūṣaṇa+bhūṣām)+[and](ca) [on-jewel+throne](ratna+siṃhāsane) [seated](sthitām)
+[with-yellow+ornament+adorned](pīta+bhūṣaṇa+bhūṣām) [and](ca) [on-jewel+throne](ratna+siṃhāsane) [seated](sthitām)
 
 ## mukta-m0-p66-v1649
-[in-chanting+oblation+practice](japa+homa+prayoge) [and](ca) [mantra](mantraṃ) [and](ca)+[also](api)+[ten-thousand](ayutaṃ) [one-should-chant](japet)
+[in-recitation+oblation+application](japa+homa+prayoge) [and](ca) [mantra](mantraṃ) [also](ca) [and](api) [ten-thousand](ayutaṃ) [one-should-repeat](japet)
 
 ## mukta-m0-p66-v1650
-[one-should-paralyze](stambhayet)+[enemy+armies](para+sainyāni) [not](na)+[here](atra) [to-be-made](kāryā) [consideration](vicāraṇā)
+[one-may-paralyze](stambhayet) [enemy+armies](para+sainyāni) [not](na) [here](atra) [to-be-done](kāryā) [consideration](vicāraṇā)
