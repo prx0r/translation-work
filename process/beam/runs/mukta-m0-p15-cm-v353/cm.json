@@ -3,34 +3,39 @@
  "verse": 353,
  "rows": [
   {
-   "lemma": "ātmānaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "object of contemplation"
-  },
-  {
-   "lemma": "paramaṃ",
-   "morph": "n.acc.sg",
-   "grounds": "highest reality"
-  },
-  {
-   "lemma": "brahma",
-   "morph": "n.acc.sg",
-   "grounds": "absolute reality"
-  },
-  {
-   "lemma": "cintayedathavā",
-   "morph": "3.sg.act-optative √cint + (indecl.)",
-   "grounds": "alternative contemplative injunction"
-  },
-  {
    "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "negation introducing alternative"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "cet",
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "conditional particle"
+   "grounds": "connective particle"
+  },
+  {
+   "lemma": "aprarūḍhatvāt",
+   "morph": "n.abl.sg, compound=a+prarūḍha+tva",
+   "grounds": "compound: a+prarūḍha+tva; lack of firm establishment"
+  },
+  {
+   "lemma": "vyavahārasatyatvaṃ",
+   "morph": "n.nom.sg, compound=vyavahāra+satya+tva",
+   "grounds": "compound: vyavahāra+satya+tva; reality within transaction"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
+  },
+  {
+   "lemma": "satyatvaṃ",
+   "morph": "n.nom.sg",
+   "grounds": "state of being real or true"
+  },
+  {
+   "lemma": "bhavati",
+   "morph": "3.sg.act.pres √bhū",
+   "grounds": "comes to be or holds"
   }
  ]
 }

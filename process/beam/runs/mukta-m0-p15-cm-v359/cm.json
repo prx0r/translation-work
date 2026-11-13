@@ -3,24 +3,49 @@
  "verse": 359,
  "rows": [
   {
-   "lemma": "evaṃ",
+   "lemma": "kāla",
+   "morph": "m.nom.sg",
+   "grounds": "temporal factor proposed as obstruction"
+  },
+  {
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "summarizing the preceding visualization"
+   "grounds": "emphatic particle"
   },
   {
-   "lemma": "kāmakalārūpaṃ",
-   "morph": "m.acc.sg (compound: kāma+kalā+rūpa)",
-   "grounds": "body identified with kāmakalā"
+   "lemma": "sa",
+   "morph": "pron.nom.sg",
+   "grounds": "demonstrative referring to time"
   },
   {
-   "lemma": "svātmadehaṃ",
-   "morph": "m.acc.sg (compound: sva+ātman+deha)",
-   "grounds": "one's own body as locus of contemplation"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "negation particle"
   },
   {
-   "lemma": "vicintayet",
-   "morph": "3.sg.act-optative √cint",
-   "grounds": "meditative injunction"
+   "lemma": "bhavet",
+   "morph": "3.sg.act.opt √bhū",
+   "grounds": "potential existence"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "marks the objection"
+  },
+  {
+   "lemma": "cet",
+   "morph": "(indecl.)",
+   "grounds": "conditional particle introducing objection"
+  },
+  {
+   "lemma": "naiva",
+   "morph": "(indecl.), compound=na+eva",
+   "grounds": "compound: na+eva; emphatic negation"
+  },
+  {
+   "lemma": "kutracit",
+   "morph": "(indecl.)",
+   "grounds": "in any case or place"
   }
  ]
 }

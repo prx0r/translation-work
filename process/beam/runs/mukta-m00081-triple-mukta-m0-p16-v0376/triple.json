@@ -1,0 +1,1191 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 376,
+   "rows": [
+    {
+     "surface": "satye'pi",
+     "gloss": "in-truth-even",
+     "grounds": "satya + api; concessive",
+     "morph": "compound=satya+api"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or effect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭaṃ",
+     "gloss": "seen",
+     "grounds": "observed",
+     "morph": "n.nom.sg.past-passive-participle √dṛś"
+    },
+    {
+     "surface": "kvacidajñānisevitāt",
+     "gloss": "from-anywhere-served-by-ignorant",
+     "grounds": "kvacid + ajñānin + sevita; source of service",
+     "morph": "compound=kvacid+ajñānin+sevita; n.abl.sg"
+    }
+   ],
+   "question": "Can service rendered by an ignorant person yield a genuine result even when truth is present?",
+   "premises": [
+    "Truth may be present in some respect.",
+    "Service may be performed by an ignorant person.",
+    "No fruit is observed from such service."
+   ],
+   "inference": "Ignorant service does not produce the intended fruit despite the presence of truth.",
+   "uncertainties": [
+    "The exact scope of phala in this context is not fully specified."
+   ],
+   "plain_english": "Even if truth is present, no fruit is seen anywhere from what is served by an ignorant person."
+  },
+  {
+   "verse": 377,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "repeated relative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "repeated correlative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyatvaṃ",
+     "gloss": "truth-ness",
+     "grounds": "state of being true",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśvarūpatā",
+     "gloss": "universal-form-ness",
+     "grounds": "state of being all-forms",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Wherever truth is affirmed, does it entail the nature of being the universal form?",
+   "premises": [
+    "Wherever something is considered, there a corresponding status is asserted.",
+    "Truth-ness is asserted in that context.",
+    "Universal-form-ness is asserted together with it."
+   ],
+   "inference": "Truth-ness and universal-form-ness are coextensive in every locus.",
+   "uncertainties": [],
+   "plain_english": "Wherever and wherever, there and there, there is truth-ness and universal-form-ness."
+  },
+  {
+   "verse": 378,
+   "rows": [
+    {
+     "surface": "mūrtāmūrtadharmayogo",
+     "gloss": "union-of-formed-unformed-properties",
+     "grounds": "mūrta + amūrta + dharma + yoga",
+     "morph": "compound=mūrta+amūrta+dharma+yoga; m.nom.sg"
+    },
+    {
+     "surface": "ghaṭaḥ",
+     "gloss": "pot",
+     "grounds": "example object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the knower or supreme",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gocaraḥ",
+     "gloss": "within-range",
+     "grounds": "object of cognition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can a pot defined by formed and unformed properties fall within the range of that reality?",
+   "premises": [
+    "A pot is characterized by a union of formed and unformed properties.",
+    "That reality has a certain cognitive range.",
+    "The pot is denied as falling within that range."
+   ],
+   "inference": "The pot, as a conditioned object, is not within the range of that reality.",
+   "uncertainties": [
+    "The referent of tasya is context-dependent."
+   ],
+   "plain_english": "The pot, as a union of formed and unformed properties, is not within its range."
+  },
+  {
+   "verse": 379,
+   "rows": [
+    {
+     "surface": "pratipattuḥ",
+     "gloss": "of-the-knower",
+     "grounds": "cognizing subject",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "cognizes",
+     "morph": "3.sg.present-active √vid"
+    },
+    {
+     "surface": "ghaṭaḥ",
+     "gloss": "pot",
+     "grounds": "object of knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pravibhedataḥ",
+     "gloss": "by-distinction",
+     "grounds": "through differentiation",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How can a knower cognize this pot through distinction if it lacks determinate range?",
+   "premises": [
+    "A knower is the subject of cognition.",
+    "This pot would be known through distinction.",
+    "The possibility of such knowing is questioned."
+   ],
+   "inference": "Knowledge of the pot by distinction is problematic under the stated conditions.",
+   "uncertainties": [],
+   "plain_english": "How does the knower know, by distinction, that this is a pot?"
+  },
+  {
+   "verse": 380,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭaḥ",
+     "gloss": "pot",
+     "grounds": "object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "cognizes",
+     "morph": "3.sg.present-active √vid"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathaṃcit",
+     "gloss": "in-any-way",
+     "grounds": "by any means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānīyāt",
+     "gloss": "would-know",
+     "grounds": "potential cognition",
+     "morph": "3.sg.optative-active √jñā"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "explanatory gloss",
+     "morph": "compound=iti+artha; m.nom.sg"
+    }
+   ],
+   "question": "What is the intended meaning of denying that one can know this as a pot in any way?",
+   "premises": [
+    "One might claim to know this as a pot.",
+    "Such knowledge is denied in any way.",
+    "The verse states this as its meaning."
+   ],
+   "inference": "The intended meaning is that determinate knowledge of the pot is impossible under the given view.",
+   "uncertainties": [],
+   "plain_english": "How does one know, 'this is a pot'? One could not know it in any way — that is the meaning."
+  },
+  {
+   "verse": 381,
+   "rows": [
+    {
+     "surface": "śaśaśṛṅgādike",
+     "gloss": "in-rabbit-horn-etc",
+     "grounds": "example of unreal object",
+     "morph": "compound=śaśa+śṛṅga+ādika; n.loc.sg"
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "not-even",
+     "grounds": "emphatic negation",
+     "morph": "compound=na+api"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "possible existence",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "vibhaktyā",
+     "gloss": "by-distinction",
+     "grounds": "by differentiation or inflectional determination",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "samanvayaḥ",
+     "gloss": "connection",
+     "grounds": "coherence or relation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can a determinate connection by distinction arise for unreal entities like a rabbit's horn?",
+   "premises": [
+    "A rabbit's horn is an unreal example.",
+    "Connection would require determination by distinction.",
+    "Such connection is denied even there."
+   ],
+   "inference": "Unreal entities cannot support determinate relational connection.",
+   "uncertainties": [
+    "vibhaktyā may refer to grammatical or ontological distinction."
+   ],
+   "plain_english": "In a rabbit's horn and such things, there would not even be a connection by distinction."
+  },
+  {
+   "verse": 382,
+   "rows": [
+    {
+     "surface": "i[2 ]to'pi",
+     "gloss": "from-this-even",
+     "grounds": "itaḥ + api; sandhi marked in text",
+     "morph": "compound=itas+api"
+    },
+    {
+     "surface": "sarvaśivatā",
+     "gloss": "all-śiva-ness",
+     "grounds": "state of being all-auspicious or all-Śiva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sata",
+     "gloss": "of-the-real",
+     "grounds": "of what exists",
+     "morph": "n.gen.sg.present-participle √as"
+    },
+    {
+     "surface": "utpattiyogataḥ",
+     "gloss": "from-fitness-for-arising",
+     "grounds": "utpatti + yoga + tas",
+     "morph": "compound=utpatti+yoga+tas; (indecl.)"
+    }
+   ],
+   "question": "Does the fitness for arising of the real establish its nature as all-Śiva?",
+   "premises": [
+    "The real has fitness for arising.",
+    "From this even, all-Śiva-ness is asserted.",
+    "The arising capacity is taken as significant."
+   ],
+   "inference": "The real's capacity for arising grounds its all-Śiva nature.",
+   "uncertainties": [
+    "The exact logical force of ito'pi is compressed."
+   ],
+   "plain_english": "Even from this, because of the real's fitness for arising, there is all-Śiva-ness."
+  },
+  {
+   "verse": 383,
+   "rows": [
+    {
+     "surface": "sa[4 ]",
+     "gloss": "he",
+     "grounds": "that one, the Lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryarūpeṇa",
+     "gloss": "in-effect-form",
+     "grounds": "as the form of effect",
+     "morph": "compound=kārya+rūpa; n.inst.sg"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "lord",
+     "grounds": "Bhagavān",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avakalpate",
+     "gloss": "is-configured",
+     "grounds": "is conceived or manifested",
+     "morph": "3.sg.present-middle √kḷp"
+    }
+   ],
+   "question": "Is the Lord himself configured in the form of the effect?",
+   "premises": [
+    "The Lord is the subject.",
+    "He appears in the form of effect.",
+    "This configuration is affirmed."
+   ],
+   "inference": "The Lord himself is manifested as the effect-form.",
+   "uncertainties": [],
+   "plain_english": "He alone, the Lord, is configured in the form of the effect."
+  },
+  {
+   "verse": 384,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "further",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkurātmakakāryarūpeṇa",
+     "gloss": "in-sprout-natured-effect-form",
+     "grounds": "aṅkura + ātmaka + kārya + rūpa",
+     "morph": "compound=aṅkura+ātmaka+kārya+rūpa; n.inst.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.present-active √bhū"
+    }
+   ],
+   "question": "Does the same reality become manifest again in the specific form of a sprout as effect?",
+   "premises": [
+    "The reality is considered again.",
+    "It takes the form of an effect whose nature is a sprout.",
+    "It becomes in that form."
+   ],
+   "inference": "The same reality manifests as the sprout-shaped effect.",
+   "uncertainties": [],
+   "plain_english": "Again, it becomes in the form of an effect whose nature is a sprout."
+  },
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "abhivyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "making manifest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "of the effect or reality",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-made",
+     "grounds": "is produced",
+     "morph": "3.sg.present-passive √kṛ"
+    },
+    {
+     "surface": "sāpi",
+     "gloss": "that-even",
+     "grounds": "sā + api",
+     "morph": "compound=sā+api; f.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative challenge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satī",
+     "gloss": "being-real",
+     "grounds": "existing",
+     "morph": "f.nom.sg.present-participle √as"
+    }
+   ],
+   "question": "If manifestation of this is produced here, is that manifestation itself already real?",
+   "premises": [
+    "Manifestation of this is said to be made.",
+    "The status of that manifestation is questioned.",
+    "The question asks whether it is real."
+   ],
+   "inference": "The reality-status of manifestation itself is put into doubt.",
+   "uncertainties": [],
+   "plain_english": "Then, if its manifestation is made here, is that manifestation itself real?"
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "vya[3 ]ktyabhāvāt",
+     "gloss": "from-absence-of-manifestation",
+     "grounds": "vyakti + abhāva",
+     "morph": "compound=vyakti+abhāva; m.abl.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānantyam",
+     "gloss": "endlessness",
+     "grounds": "infinite regress or boundlessness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "a[4 ]satyā",
+     "gloss": "if-unreal",
+     "grounds": "being unreal",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "hānisaṃbhavaḥ",
+     "gloss": "possibility-of-loss",
+     "grounds": "hāni + saṃbhava",
+     "morph": "compound=hāni+saṃbhava; m.nom.sg"
+    }
+   ],
+   "question": "If manifestation is absent or unreal, do endlessness and the possibility of loss follow?",
+   "premises": [
+    "Absence of manifestation is considered.",
+    "Unreality of manifestation is considered.",
+    "Endlessness and possibility of loss are presented as consequences."
+   ],
+   "inference": "Denying real manifestation leads to problematic consequences like endlessness or loss.",
+   "uncertainties": [
+    "The exact logical link between ānantyam and hānisaṃbhava is terse."
+   ],
+   "plain_english": "If from absence of manifestation, then endlessness; if it is unreal, there is the possibility of loss."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "vastvapi",
+     "gloss": "thing-even",
+     "grounds": "vastu + api",
+     "morph": "compound=vastu+api; n.nom.sg"
+    },
+    {
+     "surface": "aṅkurādikam",
+     "gloss": "sprout-etc",
+     "grounds": "aṅkura + ādika",
+     "morph": "compound=aṅkura+ādika; n.nom.sg"
+    },
+    {
+     "surface": "asadeva",
+     "gloss": "unreal-only",
+     "grounds": "asat + eva",
+     "morph": "compound=asat+eva; n.nom.sg"
+    },
+    {
+     "surface": "satkāryam",
+     "gloss": "real-effect",
+     "grounds": "sat + kārya",
+     "morph": "compound=sat+kārya; n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "concession",
+     "morph": "3.sg.imperative-active √as"
+    },
+    {
+     "surface": "kimardhajaratīyena",
+     "gloss": "what-with-half-old-doctrine",
+     "grounds": "idiom for inconsistent compromise",
+     "morph": "compound=kim+ardha+jaratīya; n.inst.sg"
+    }
+   ],
+   "question": "Why accept a half-measure that treats the sprout as unreal while calling the effect real?",
+   "premises": [
+    "The sprout and such things are considered.",
+    "One might call them unreal yet accept a real effect.",
+    "Such a compromise is challenged as inconsistent."
+   ],
+   "inference": "An inconsistent half-position on reality and unreality should be rejected.",
+   "uncertainties": [
+    "The idiom ardhajaratīya is culturally specific."
+   ],
+   "plain_english": "Even the thing, like a sprout, would be unreal only — so let the effect be real? What is the use of this half-old compromise?"
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "naivaṃ",
+     "gloss": "not-thus",
+     "grounds": "na + evam",
+     "morph": "compound=na+evam"
+    },
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ[6 ]",
+     "gloss": "that",
+     "grounds": "that manifestation or assumption",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vihāya",
+     "gloss": "having-abandoned",
+     "grounds": "leaving aside",
+     "morph": "absolutive √hā"
+    },
+    {
+     "surface": "sarvatrānyatra",
+     "gloss": "everywhere-elsewhere",
+     "grounds": "sarvatra + anyatra",
+     "morph": "compound=sarvatra+anyatra"
+    },
+    {
+     "surface": "satkriyā",
+     "gloss": "real-activity",
+     "grounds": "sat + kriyā; real making or operation",
+     "morph": "compound=sat+kriyā; f.nom.sg"
+    }
+   ],
+   "question": "Why must real activity not be posited everywhere else while abandoning that specific manifestation?",
+   "premises": [
+    "The proposed view is rejected.",
+    "Abandoning that would require positing real activity elsewhere.",
+    "Such a shift is taken as problematic."
+   ],
+   "inference": "One cannot coherently abandon that manifestation and relocate real activity everywhere else.",
+   "uncertainties": [
+    "The referent of tāṃ is inferred from context."
+   ],
+   "plain_english": "Not so, because having abandoned that, real activity would have to be assumed everywhere else."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "ka[8 ]lpyā",
+     "gloss": "to-be-assumed",
+     "grounds": "must be posited",
+     "morph": "f.nom.sg.future-passive-participle √kḷp"
+    },
+    {
+     "surface": "vaiśeṣikāṇāṃ",
+     "gloss": "of-vaiśeṣikas",
+     "grounds": "followers of Vaiśeṣika",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "explanatory emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartṛtaiveśvare",
+     "gloss": "agency-alone-in-lord",
+     "grounds": "kartṛtā + eva + īśvara; sandhi in compound",
+     "morph": "compound=kartṛtā+eva+īśvara; f.nom.sg+loc.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "located",
+     "morph": "f.nom.sg.past-passive-participle √sthā"
+    }
+   ],
+   "question": "Do the Vaiśeṣikas locate agency exclusively in the Lord rather than in the effect's manifestation?",
+   "premises": [
+    "The Vaiśeṣikas hold a specific view.",
+    "Agency alone is established in the Lord.",
+    "This contrasts with other possible loci of activity."
+   ],
+   "inference": "For the Vaiśeṣikas, agency is situated only in the Lord.",
+   "uncertainties": [],
+   "plain_english": "For the Vaiśeṣikas, indeed, agency alone is established in the Lord."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "svānyaprakāśakaṃ",
+     "gloss": "illuminating-self-and-other",
+     "grounds": "sva + anya + prakāśaka",
+     "morph": "compound=sva+anya+prakāśaka; n.nom.sg"
+    },
+    {
+     "surface": "nānyat",
+     "gloss": "not-other",
+     "grounds": "na + anyat",
+     "morph": "compound=na+anyat; n.nom.sg"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "like-that",
+     "grounds": "similar to that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "another thing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "could be",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "If something illuminates both itself and another, why would another thing not be like that?",
+   "premises": [
+    "Something may illuminate itself and another.",
+    "No other thing is posited as the same.",
+    "The exclusion is questioned."
+   ],
+   "inference": "The restriction against another being similarly self-and-other illuminating is challenged.",
+   "uncertainties": [],
+   "plain_english": "If one thing illuminates itself and another, would not another be like that? Why not?"
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "niyamāt",
+     "gloss": "by-restriction",
+     "grounds": "due to rule or constraint",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dharmaviṣaye",
+     "gloss": "in-property-domain",
+     "grounds": "dharma + viṣaya",
+     "morph": "compound=dharma+viṣaya; m.loc.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naikena tulyatā",
+     "gloss": "not-equality-with-one",
+     "grounds": "na + ekena + tulyatā; phrase as single token",
+     "morph": "compound=na+eka+tulyatā; f.nom.sg"
+    }
+   ],
+   "question": "Does restriction in the domain of properties prevent equality with any single thing?",
+   "premises": [
+    "There is restriction in the domain of properties.",
+    "Equality with one is considered.",
+    "Such equality is denied."
+   ],
+   "inference": "Because of restriction in the property-domain, equality with one is not established.",
+   "uncertainties": [
+    "The token contains internal spacing as given."
+   ],
+   "plain_english": "Because of restriction in the domain of properties, therefore there is no equality with one."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "vyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "manifest state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "present",
+     "morph": "f.nom.sg.past-passive-participle √sthā"
+    },
+    {
+     "surface": "padārthānāṃ",
+     "gloss": "of-things",
+     "grounds": "of categories or entities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ghaṭaḥ",
+     "gloss": "pot",
+     "grounds": "example",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyaktaḥ",
+     "gloss": "manifest",
+     "grounds": "made manifest",
+     "morph": "m.nom.sg.past-passive-participle √añj"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "is designated",
+     "morph": "3.sg.present-passive √dhā"
+    }
+   ],
+   "question": "Is manifestation an established condition of things such that a pot is called manifest?",
+   "premises": [
+    "Manifestation is established for things.",
+    "A pot is taken as an example.",
+    "The pot is called manifest."
+   ],
+   "inference": "Manifestation is a real and established condition by which things like a pot are designated manifest.",
+   "uncertainties": [],
+   "plain_english": "Manifestation is established for things; a pot is called manifest."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "san",
+     "gloss": "being-real",
+     "grounds": "existing",
+     "morph": "m.nom.sg.present-participle √as"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-made",
+     "grounds": "is acted upon",
+     "morph": "3.sg.present-passive √kṛ"
+    },
+    {
+     "surface": "natu",
+     "gloss": "but-not",
+     "grounds": "na + tu",
+     "morph": "compound=na+tu"
+    },
+    {
+     "surface": "vyakter",
+     "gloss": "of-manifestation",
+     "grounds": "than manifestation",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "vyatiriktāyāḥ",
+     "gloss": "distinct",
+     "grounds": "separate from",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "asatyāḥ",
+     "gloss": "unreal",
+     "grounds": "non-existent",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "karaṇam",
+     "gloss": "making",
+     "grounds": "production",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is what is made the real thing itself rather than the production of an unreal manifestation distinct from it?",
+   "premises": [
+    "What exists is made or acted upon.",
+    "A manifestation distinct from it may be posited.",
+    "Making of an unreal distinct manifestation is denied."
+   ],
+   "inference": "Production concerns the real entity, not an unreal manifestation separate from it.",
+   "uncertainties": [],
+   "plain_english": "What is real is made, but not the making of an unreal manifestation distinct from it."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "1dīpena",
+     "gloss": "by-lamp",
+     "grounds": "instrument of illumination",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-made",
+     "grounds": "is effected",
+     "morph": "3.sg.present-passive √kṛ"
+    },
+    {
+     "surface": "vyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "making visible",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghaṭādeḥ",
+     "gloss": "of-pot-etc",
+     "grounds": "ghaṭa + ādi",
+     "morph": "compound=ghaṭa+ādi; m.gen.sg"
+    },
+    {
+     "surface": "sata",
+     "gloss": "of-real",
+     "grounds": "of what exists",
+     "morph": "n.gen.sg.present-participle √as"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When a lamp makes a pot manifest, is it the manifestation of what is already real that is effected?",
+   "premises": [
+    "A lamp is an instrument.",
+    "Manifestation of a pot and such things is made.",
+    "The manifestation concerns what is real."
+   ],
+   "inference": "The lamp effects manifestation of an already real object.",
+   "uncertainties": [
+    "The final vā may introduce an unstated alternative."
+   ],
+   "plain_english": "By a lamp, the manifestation of a pot and so on is made — of what is real indeed, or..."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "ekenā",
+     "gloss": "by-one",
+     "grounds": "by a single cause or agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "aparatulyatvāt",
+     "gloss": "from-non-equality-with-other",
+     "grounds": "apara + tulya + tva",
+     "morph": "compound=apara+tulya+tva; n.abl.sg"
+    },
+    {
+     "surface": "naca[3 ]",
+     "gloss": "and-not",
+     "grounds": "na + ca",
+     "morph": "compound=na+ca"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asata",
+     "gloss": "of-unreal",
+     "grounds": "of what does not exist",
+     "morph": "n.gen.sg.present-participle √as"
+    },
+    {
+     "surface": "udbhavaḥ",
+     "gloss": "arising",
+     "grounds": "origination",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can the unreal arise, given that one thing is not equal to another as a cause?",
+   "premises": [
+    "One thing differs from another.",
+    "Arising of the unreal is considered.",
+    "Such arising is denied."
+   ],
+   "inference": "The unreal cannot arise, even when causal differences are considered.",
+   "uncertainties": [],
+   "plain_english": "Because of non-equality with another by one, there is not, or cannot be, the arising of the unreal."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "viṣayasya",
+     "gloss": "of-object",
+     "grounds": "object of cognition or action",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryasya",
+     "gloss": "of-effect",
+     "grounds": "product",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ta[3 ]dānīm",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhāvasvarūpatvāt",
+     "gloss": "from-nature-of-absence",
+     "grounds": "abhāva + svarūpa + tva",
+     "morph": "compound=abhāva+svarūpa+tva; n.abl.sg"
+    }
+   ],
+   "question": "Why can neither object nor effect arise then if their nature is mere absence?",
+   "premises": [
+    "An object and an effect are under consideration.",
+    "At that time they would have the nature of absence.",
+    "Absence-nature undermines their arising."
+   ],
+   "inference": "If object and effect are essentially absent, their arising cannot be accounted for.",
+   "uncertainties": [],
+   "plain_english": "And because at that time the object and the effect would have the nature of absence."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "ghaṭā[4 ]",
+     "gloss": "of-pot",
+     "grounds": "pot as example",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "ntaraṃ",
+     "gloss": "other",
+     "grounds": "another instance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvadṛṣṭam",
+     "gloss": "previously-seen",
+     "grounds": "pūrva + dṛṣṭa",
+     "morph": "compound=pūrva+dṛṣṭa; n.acc.sg"
+    },
+    {
+     "surface": "ākalayya",
+     "gloss": "having-observed",
+     "grounds": "having noticed",
+     "morph": "absolutive √kal"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ceṣṭanam",
+     "gloss": "effort",
+     "grounds": "activity or striving",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does effort arise from observing another previously seen pot as a basis for action?",
+   "premises": [
+    "Another pot previously seen is observed.",
+    "Effort follows upon that observation.",
+    "The sequence links prior cognition to action."
+   ],
+   "inference": "Effort is prompted by recognizing another instance like a previously seen pot.",
+   "uncertainties": [
+    "The split surface ghaṭā[4 ] ntaraṃ reflects the given tokenization."
+   ],
+   "plain_english": "Having observed another pot previously seen, then there is effort."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "a[1 ]ṅkuro",
+     "gloss": "sprout",
+     "grounds": "example effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyata",
+     "gloss": "is-born",
+     "grounds": "comes into being",
+     "morph": "3.sg.present-middle √jan"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "could be",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "kārakātmatā",
+     "gloss": "agent-ness",
+     "grounds": "kāraka + ātmatā; status as causal factor",
+     "morph": "compound=kāraka+ātmatā; f.nom.sg"
+    }
+   ],
+   "question": "If a sprout is said to be born, can it possess the status of a causal agent?",
+   "premises": [
+    "A sprout is said to be born.",
+    "Agent-ness is considered for it.",
+    "Such agent-ness is denied."
+   ],
+   "inference": "The sprout, as something born, does not have true causal agent-ness.",
+   "uncertainties": [],
+   "plain_english": "If one says 'a sprout is born', there would not be agent-ness."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "karmākhyasya",
+     "gloss": "of-so-called-object",
+     "grounds": "karma + ākhya; the factor called object",
+     "morph": "compound=karma+ākhya; n.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asatyatvāt",
+     "gloss": "from-unreality",
+     "grounds": "asatya + tva",
+     "morph": "compound=asatya+tva; n.abl.sg"
+    },
+    {
+     "surface": "tatsaṃbandho",
+     "gloss": "connection-with-that",
+     "grounds": "tad + saṃbandha",
+     "morph": "compound=tad+saṃbandha; m.nom.sg"
+    },
+    {
+     "surface": "asatā",
+     "gloss": "with-unreal",
+     "grounds": "with what is unreal",
+     "morph": "n.inst.sg.present-participle √as"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "rhetorical challenge",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can there be a connection with the unreal if the so-called object is itself unreal?",
+   "premises": [
+    "The so-called object is unreal.",
+    "A connection with that unreal is proposed.",
+    "Connection with the unreal is questioned."
+   ],
+   "inference": "No real connection can be established with what is unreal.",
+   "uncertainties": [
+    "karmākhya is taken in the grammatical-causal sense of object."
+   ],
+   "plain_english": "Indeed, because the so-called object is unreal, how could there be a connection with the unreal?"
+  }
+ ]
+}

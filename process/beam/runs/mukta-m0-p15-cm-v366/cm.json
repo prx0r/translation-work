@@ -3,29 +3,39 @@
  "verse": 366,
  "rows": [
   {
-   "lemma": "mayoktaṃ",
-   "morph": "n.acc.sg (compound: mayā+ukta)",
-   "grounds": "teaching previously declared by the speaker"
+   "lemma": "atha",
+   "morph": "(indecl.)",
+   "grounds": "introduces another objection"
   },
   {
-   "lemma": "tat",
-   "morph": "n.acc.sg",
-   "grounds": "refers to the previously stated teaching"
+   "lemma": "ced",
+   "morph": "(indecl.)",
+   "grounds": "conditional particle introducing objection"
   },
   {
-   "lemma": "krameṇaiva",
-   "morph": "m.ins.sg + (indecl.)",
-   "grounds": "emphasis on proper sequence"
+   "lemma": "deśabādhaḥ",
+   "morph": "m.nom.sg, compound=deśa+bādha",
+   "grounds": "compound: deśa+bādha; refutation based on place"
   },
   {
-   "lemma": "abhiṣekadvayaṃ",
-   "morph": "n.acc.sg (compound: abhiṣeka+dvaya)",
-   "grounds": "two consecrations to be performed"
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   },
   {
-   "lemma": "caret",
-   "morph": "3.sg.act-optative √car",
-   "grounds": "injunction to carry out the rite"
+   "lemma": "taddeśe",
+   "morph": "m.loc.sg, compound=tat+deśa",
+   "grounds": "compound: tat+deśa; in the specified location"
+  },
+  {
+   "lemma": "rajataṃ",
+   "morph": "n.nom.sg",
+   "grounds": "the object cited in the example"
+  },
+  {
+   "lemma": "nahi",
+   "morph": "(indecl.), compound=na+hi",
+   "grounds": "compound: na+hi; emphatic negation"
   }
  ]
 }

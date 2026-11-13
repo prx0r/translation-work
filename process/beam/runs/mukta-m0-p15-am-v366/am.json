@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p15",
  "verse": 366,
- "question": "How must the two consecrations taught earlier be performed?",
+ "question": "Can an error be refuted simply because the object is not present in that place?",
  "premises": [
-  "The teaching was previously spoken by the speaker.",
-  "Two consecrations are specified.",
-  "Proper sequence is emphasized."
+  "An objection appeals to refutation by place.",
+  "Silver is cited as absent in that place.",
+  "Absence in place is proposed as decisive."
  ],
- "inference": "Therefore one should perform the pair of consecrations in the proper order.",
- "uncertainties": [],
- "plain_english": "One should perform that pair of consecrations, as spoken by me, in due order."
+ "inference": "The objection claims refutation because silver is not in that place.",
+ "uncertainties": [
+  "The classic shell-silver error context is implied but not explicitly named."
+ ],
+ "plain_english": "Then if one objects that there is refutation by place, because silver is not in that place—"
 }
