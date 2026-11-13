@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p348-v8676
-[oṃ](oṃ) [vām+śrīm+hrīm](vāṃśrīṃhrīṃ) [having-pronounced](samuccāryya) [ending-with-sphreṃ-sauṃ-svāhā](sphreṃsauṃ+svāhāntako) [mantra](manuḥ)
+[oṃ-vāṃ-śrīṃ-hrīṃ](oṃ) [vāṃ+śrīṃ+hrīṃ](vāṃśrīṃhrīṃ) [having-pronounced](samuccāryya) [sphreṃ+sauṃ+svāhā+ending](sphreṃsauṃ) [svāhā+ending](svāhāntako) [mantra](manuḥ)
 
 ## mukta-m0-p348-v8677
-[rudra-vāgīśvarī](rudravāgīśvarī) [goddess](devī) [gāyatrī](gāyatrī) [meter](chanda) [declared](īritam)
+[rudra+vāgīśvarī](rudravāgīśvarī) [goddess](devī) [gāyatrī](gāyatrī) [meter](chanda) [declared](īritam)
 
 ## mukta-m0-p348-v8678
-[sām+sīm+sūm](sāṃsīṃsūṃ) [and](ca) [also](api) [saim+sauṃ+saḥ](saiṃsauṃsaḥ) [with-the-preceding](pūrvakaiḥ) [limb+formation](aṃga+kalpanam)
+[sāṃ+sīṃ+sūṃ](sāṃsīṃsūṃ) [and](cāpi) [saiṃ+sauṃ+saḥ](saiṃsauṃsaḥ) [with-previous](pūrvakaiḥ) [limb+arrangement](aṃgakalpanam)
 
 ## mukta-m0-p348-v8679
-[having-said-tṛpta](tṛpta+iti+uktvā) [speak+speak](vada+vada) [to-the-primordial-awareness-thunderbolt-holder](anādi+bodha+vajriṇe)
+[tṛpta](tṛpta) [having-said](ityuktvā) [speak+speak](vadavada) [to-primordial+knowledge+thunderbolt-holder](anādibodhavajriṇe)
 
 ## mukta-m0-p348-v8680
-[to-the-one-of-innate-form](sahaja+āti+rūpiṇe) [and](ca) [infinite+power+strength](ananta+śakti+balim) [one-should-say](vadet)
+[to-innate+nature-formed](sahajātirūpiṇe) [and](ca) [infinite+power](anantaśakti) [strength](baliṃ) [say](vadet)
 
 ## mukta-m0-p348-v8681
-[granting-all-desires](sarva+kāma+pradaḥ) [and](ca) [thus](evam) [meditation](dhyānam) [of-her](asyā) [is-described](nirūpyate)
+[all+desire+giver](sarvakāmapradaḥ) [and](ca) [thus](evaṃ) [meditation](dhyānam) [of-her](asyā) [is-described](nirūpyate)
 
 ## mukta-m0-p348-v8682
-[recitation+worship+application+etc.](japa+pūjā+prayoga+ādi) [to-be-known](jñeyam) [same-as-vāgvādinī](vāgvādinī+samam)
+[recitation+worship+application](japapūjāprayogādi) [to-be-known](jñeyaṃ) [vāgvādinī+same](vāgvādinīsamam)
 
 ## mukta-m0-p348-v8683
-[oṃ](oṃ) [śrīm+sphuṃ+śrīm](śrīṃsphuṃ+śrīṃ) [namaḥ](namaḥ) [and](ca) [thus](iti) [six-syllabled](ṣaḍ+arṇaḥ) [mantra](mantraḥ) [is-called](ucyate)
+[oṃ](oṃ) [śrīṃ+sphuṃ+śrīṃ](śrīṃsphuṃ) [śrīṃ](śrīṃ) [obeisance](namaḥ) [and](ca) [thus](iti) [six+syllabled](ṣaḍarṇo) [mantra](mantra) [is-called](ucyate)
 
 ## mukta-m0-p348-v8684
-[with-śrīm-seed](śrīṃ+bījena) [six-limbs](ṣaḍ+aṅgāni) [meditation](dhyānam) [of-her](asyā) [is-described](nirūpyate)
+[with-śrīṃ+seed](śrīṃbījena) [six+limbs](ṣaḍaṅgāni) [meditation](dhyānam) [of-her](asyā) [is-described](nirūpyate)
 
 ## mukta-m0-p348-v8685
-[of-her](asyā) [worship+etc.](pūjā+ādikam) [same-as-sixth-syllable-vāgvādinī](ṣaṣṭha+varṇa+vāgvādinī+samam)
+[of-her](asyā) [worship+etc.](pūjādikaṃ) [sixth+syllable+vāgvādinī+same](ṣaṣṭhavarṇavāgvādinīsamam)
 
 ## mukta-m0-p348-v8686
-[hrīm](hrīṃ) [o-lord-of-speech](vācaspate) [amṛta+plūḥ](amṛta+plūḥ) [plūṃ+hrīm+sauṃ](plūṃhrīṃsauṃ) [and](ca) [one-should-utter](saṃvadet)
+[hrīṃ](hrīṃ) [o-lord-of-speech](vācaspate) [nectar+flood](amṛtaplūḥ) [plūṃ+hrīṃ+sauṃ](plūṃhrīṃsauṃ) [and](ca) [should-utter](saṃvadet)
 
 ## mukta-m0-p348-v8687
-[viṣṇu-vāgīśvarī](viṣṇuvāgīśvarī) [goddess](devī) [virāṭ](virāṭ) [meter](chandaḥ) [declared](prakīrttitam)
+[viṣṇu+vāgīśvarī](viṣṇuvāgīśvarī) [goddess](devī) [virāṭ](virāṭ) [meter](chandaḥ) [is-declared](prakīrttitam)
 
 ## mukta-m0-p348-v8688
-[vācaspate+amṛta](vācaspate+amṛta) [thus](iti) [eye](netram) [plūḥ+plūṃ](plūḥ+plūṃ) [likewise](tathā) [weapon](astrakam)
+[o-lord-of-speech](vācaspate) [nectar](amṛta) [thus](iti) [eye](netraṃ) [plūḥ+plūṃ](plūḥ) [plūṃ](plūṃ) [likewise](tathā) [weapon](astrakam)
 
 ## mukta-m0-p348-v8689
-[for-a-year](saṃvatsaram) [eating-sacrificial-food](haviṣya+āśī) [thousand](sahasram) [each-day](prati+ahañ) [one-should-recite](japet)
+[for-a-year](saṃvatsaraṃ) [eating-sacrificial-food](haviṣyāśī) [thousand](sahasram) [each+day](pratyahañ) [should-recite](japet)
 
 ## mukta-m0-p348-v8690
-[by-that](tena) [transcendent](loka+uttarā) [intelligence](medhā) [arises](jāyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[by-that](tena) [transcendent](lokottarā) [intelligence](medhā) [is-born](jāyate) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p348-v8691
-[past](bhūtam) [future](bhavyam) [present](varttamānam) [all](sarvam) [knows](jānāti) [practitioner](sādhakaḥ)
+[past](bhūtam) [future](bhavyaṃ) [present](varttamānaṃ) [all](sarvaṃ) [knows](jānāti) [practitioner](sādhakaḥ)
 
 ## mukta-m0-p348-v8692
-[one-handful-of-water](culuka+ekam) [consecrated](mantritam) [but](tu) [ten-times](daśa+vāram) [three-impurities](mala+trayam)
+[one+handful-of-water](culukaikam) [consecrated](mantritam) [but](tu) [ten+times](daśavāram) [impurity+three](malatrayam)
 
 ## mukta-m0-p348-v8693
-[heard-once](sakṛt+śrutam) [but](tu) [what](yat) [by-that](tena) [not](na) [and](ca) [is-forgotten](vismaryyate) [anywhere](kvacit)
+[once+heard](sakṛcchrutam) [but](tu) [that](yat) [by-that](tena) [not](na) [and](ca) [is-forgotten](vismaryyate) [anywhere](kvacit)
 
 ## mukta-m0-p348-v8694
-[hrīm](hrīṃ) [and](ca) [padmāvati](padmāvati) [svāhā](svāhā) [seven-syllabled](sapta+arṇaḥ) [declared](parikīrttitaḥ)
+[hrīṃ](hrīṃ) [and](ca) [padmāvatī](padmāvati) [svāhā](svāhā) [seven+syllabled](saptārṇaḥ) [is-declared](parikīrttitaḥ)
 
 ## mukta-m0-p348-v8695
-[one-should-perform](prakuryyāt) [with-māyā](māyayā) [limbs](aṅgāni) [meditation](dhyānam) [of-her](asyā) [is-described](nirūpyate)
+[should-perform](prakuryyāt) [with-māyā](māyayā) [limbs](aṅgāni) [meditation](dhyānam) [of-her](asyā) [is-described](nirūpyate)
 
 ## mukta-m0-p348-v8696
-[having-bandhūka-flower-luster](bandhūka+ābhām) [three-eyed](tri+nayanām) [resplendent-with-various-ornaments](nānā+kalpa+ujjvalām) [one-should-visualize](smaret)
+[bandhūka+colored](bandhūkābhāṃ) [three+eyed](trinayanāṃ) [with-various+ornaments+shining](nānākalpojjvalāṃ) [one-should-visualize](smaret)
 
 ## mukta-m0-p348-v8697
-[world-guardians](loka+pālān) [their-weapons](tat+astrāṇi) [padmāvatī-worship](padmāvatī+arcanam) [remembered](smṛtam)
+[world+guardians](lokapālān) [their+weapons](tadastrāṇi) [padmāvatī+worship](padmāvatyarcanaṃ) [is-prescribed](smṛtam)
 
 ## mukta-m0-p348-v8698
-[equal-to-padmāvatī](padmāvatī+samā) [another](anyā) [but](tu) [not](na) [exists](asti) [giver-of-good-fortune](saubhāgya+dā) [on-earth](bhuvi)
+[padmāvatī+equal](padmāvatīsamā) [other](anyā) [but](tu) [not](na) [exists](asti) [good-fortune+giving](saubhāgyadā) [on-earth](bhuvi)
 
 ## mukta-m0-p348-v8699
-[having-uttered-oṃ](tāram+uktvā) [then](tathā) [and](ca) [ehi](ehi) [o-supreme-goddess](parameśvari) [wife-of-fire](agni+gehinīm)
+[tāra](tāram) [having-uttered](uktvā) [then](tathā) [and](ca) [come](ehi) [o-supreme-goddess](parameśvari) [fire+wife](agnigehinīm)
 
 ## mukta-m0-p348-v8700
-[mounted-on-horse](aśva+ārūḍhā) [six-limbs](ṣaḍaṃṅgāni) [with-three-parts-beginning-with-oṃ](tāra+ādyaiḥ+tri+padaiḥ) [in-two-ways](dvidhā)
+[horse+riding](aśvārūḍhā) [six+limbs](ṣaḍaṅgāni) [with-tāra+beginning](tārādyaiḥ) [with-three+words](tripadaiḥ) [in-two-ways](dvidhā)
