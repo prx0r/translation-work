@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2539,
- "question": "What adornments and garments are offered in the worship of the maiden?",
+ "question": "Which northern troops associated with Kubera include Keśava the discus-holder?",
  "premises": [
-  "Garlands are offered",
-  "Gold and silver ornaments are offered",
-  "Fine garments are offered"
+  "Keśava, the discus-holder, is named.",
+  "Northern troops are mentioned.",
+  "These troops are associated with Kubera."
  ],
- "inference": "The worship includes offerings of garlands, ornaments, and fine garments",
- "uncertainties": [],
- "plain_english": "With garlands, with gold and silver ornaments, and with fine garments."
+ "inference": "Keśava the discus-holder is among the northern troops associated with Kubera.",
+ "uncertainties": [
+  "The syntactic relation between Keśava and the troops is compressed and partly ambiguous."
+ ],
+ "plain_english": "Keśava, the discus-holder, and the northern troops of Kubera."
 }

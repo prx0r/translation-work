@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p102",
  "verse": 2534,
- "question": "What supreme accomplishment does the maiden of accomplished knowledge bestow?",
+ "question": "Which sacred sites of Agastya and Maṇikarṇa are named as locations?",
  "premises": [
-  "The giver is the maiden who is accomplished knowledge",
-  "She gives accomplishment",
-  "The accomplishment is supreme"
+  "The holy place of Agastya is mentioned.",
+  "The pool at Maṇikarṇa is mentioned.",
+  "Both are presented as relevant locations."
  ],
- "inference": "The maiden Siddhavidyā bestows supreme accomplishment",
- "uncertainties": [],
- "plain_english": "And the maiden Siddhavidyā gives the supreme accomplishment."
+ "inference": "The verse names Agastya's holy place and the Maṇikarṇa pool as sacred locations.",
+ "uncertainties": [
+  "The action to be performed at these sites is not stated in this verse."
+ ],
+ "plain_english": "At the holy place of Agastya, and likewise at the Maṇikarṇa pool."
 }
