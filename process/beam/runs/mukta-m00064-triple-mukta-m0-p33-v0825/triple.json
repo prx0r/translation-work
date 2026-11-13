@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "karatoyānadīṃ",
+     "gloss": "karatoya-river",
+     "grounds": "name of a river; object of extent implied by yāvat",
+     "morph": "acc.sg.f, compound: karatoyā+nadī"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "delimits the spatial extent of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kariṣyati",
+     "gloss": "will-make",
+     "grounds": "future action attributed to the goddess described in prior verses",
+     "morph": "3.sg.act-fut √kṛ"
+    },
+    {
+     "surface": "mahadraṇam",
+     "gloss": "great-battle",
+     "grounds": "object of kariṣyati; describes the violent outcome",
+     "morph": "acc.sg.m, compound: mahā+raṇa"
+    }
+   ],
+   "question": "To what geographical extent and violent form will Kāmākhyā's destructive action reach?",
+   "premises": [
+    "Kāmākhyā continues the violent action described in the preceding verses.",
+    "The action is said to extend as far as the Karatoyā river.",
+    "The action will produce a great battle."
+   ],
+   "inference": "Kāmākhyā's manifestation will culminate in a great battle reaching as far as the Karatoyā river.",
+   "uncertainties": [
+    "Whether mahadraṇam denotes a literal battle or metaphorical carnage is context-dependent."
+   ],
+   "plain_english": "She will make a great battle as far as the Karatoyā river."
+  }
+ ]
+}
