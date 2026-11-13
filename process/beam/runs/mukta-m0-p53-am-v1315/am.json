@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p53",
  "verse": 1315,
- "question": "What personal benefits accrue to the devotee of this hymn?",
+ "question": "What shape, extent, and status define the supreme seat described?",
  "premises": [
-  "He becomes long-lived, happy, and eloquent",
-  "His speech is assured",
-  "There is no doubt about this"
+  "The seat measures eighty-eight in expanse.",
+  "The seat is triangular in shape.",
+  "The seat is described as supreme."
  ],
- "inference": "Recitation of the hymn brings longevity, happiness, and eloquence.",
- "uncertainties": [],
- "plain_english": "He becomes long-lived, happy, and eloquent; his speech is assured, there is no doubt."
+ "inference": "The supreme seat is triangular and eighty-eight in expanse.",
+ "uncertainties": [
+  "The unit of the measure eighty-eight is not stated."
+ ],
+ "plain_english": "The supreme seat is triangular and eighty-eight in extent."
 }
