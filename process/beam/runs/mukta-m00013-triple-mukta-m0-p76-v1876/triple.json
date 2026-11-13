@@ -1,0 +1,1169 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1876,
+   "rows": [
+    {
+     "surface": "amukasya",
+     "gloss": "of-a-certain-person",
+     "grounds": "refers to an unspecified individual",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "amuka+śāntaye",
+     "gloss": "for-peace-of-certain-person",
+     "grounds": "compound expressing purpose of pacification",
+     "morph": "compound: amuka+śānti, f.dat.sg"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual assignment or application",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual application is designated for the pacification of a specified person?",
+   "premises": [
+    "A specific person is indicated as the target.",
+    "The purpose is pacification for that person.",
+    "A ritual application is being assigned."
+   ],
+   "inference": "The verse prescribes the application of the rite for the pacification of a particular individual.",
+   "uncertainties": [],
+   "plain_english": "This is the application for the pacification of a certain person."
+  },
+  {
+   "verse": 1877,
+   "rows": [
+    {
+     "surface": "pāṇyoḥ",
+     "gloss": "on-both-hands",
+     "grounds": "location for placement",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "nāsikayoḥ",
+     "gloss": "on-both-nostrils",
+     "grounds": "location for placement",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "śīrṣe",
+     "gloss": "on-head",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantra+varṇān",
+     "gloss": "mantra-syllables",
+     "grounds": "objects to be placed",
+     "morph": "compound: mantra+varṇa, m.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what bodily locations and sequence should mantra syllables be ritually placed?",
+   "premises": [
+    "Mantra syllables are the objects to be placed.",
+    "Specific body locations are named for placement.",
+    "The placement must follow a sequential order."
+   ],
+   "inference": "The practitioner should place mantra syllables in order on the hands, nostrils, and head.",
+   "uncertainties": [],
+   "plain_english": "One should place the mantra syllables in order on the hands, nostrils, and head."
+  },
+  {
+   "verse": 1878,
+   "rows": [
+    {
+     "surface": "guhyoḥ",
+     "gloss": "on-private-parts",
+     "grounds": "location for placement",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "uru",
+     "gloss": "on-thighs",
+     "grounds": "location for placement",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "jānu",
+     "gloss": "on-knees",
+     "grounds": "location for placement",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "padeṣu",
+     "gloss": "on-feet",
+     "grounds": "location for placement",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "nyāsam",
+     "gloss": "placement",
+     "grounds": "ritual act of placing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √sam-ā-car"
+    }
+   ],
+   "question": "How should the ritual placement be continued on the lower parts of the body?",
+   "premises": [
+    "Further body locations are specified.",
+    "The act is a ritual placement.",
+    "The performance is to be done in this manner."
+   ],
+   "inference": "The practitioner should thus perform the placement on the private parts, thighs, knees, and feet.",
+   "uncertainties": [],
+   "plain_english": "Thus one should perform the placement on the private parts, thighs, knees, and feet."
+  },
+  {
+   "verse": 1879,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(gerund) √dhyai"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "means of worship",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "(gerund) √sam-pūj"
+    },
+    {
+     "surface": "arghya+sthāpanaṃ",
+     "gloss": "placing-of-arghya",
+     "grounds": "ritual act to be performed",
+     "morph": "compound: arghya+sthāpana, n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "What ritual actions must precede the placement of the arghya offering?",
+   "premises": [
+    "Meditation is performed in the prescribed manner.",
+    "Worship is conducted with mental offerings.",
+    "The placement of arghya follows these acts."
+   ],
+   "inference": "After meditating and worshipping with mental offerings, one should perform the placement of arghya.",
+   "uncertainties": [],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should place the arghya."
+  },
+  {
+   "verse": 1880,
+   "rows": [
+    {
+     "surface": "vahnaye",
+     "gloss": "to-fire",
+     "grounds": "recipient of offering or invocation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vāyave",
+     "gloss": "to-wind",
+     "grounds": "recipient of offering or invocation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "viyate",
+     "gloss": "to-space",
+     "grounds": "recipient of offering or invocation",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "yajamānāya",
+     "gloss": "to-sacrificer",
+     "grounds": "recipient of offering or invocation",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "Which recipients are addressed in this stage of the ritual offering?",
+   "premises": [
+    "Fire is named as a recipient.",
+    "Wind and space are named as recipients.",
+    "The sacrificer is named as a recipient."
+   ],
+   "inference": "The offering or invocation is directed to fire, wind, space, and the sacrificer.",
+   "uncertainties": [
+    "The exact ritual action connecting these recipients is supplied by context."
+   ],
+   "plain_english": "To fire, to wind, to space, and to the sacrificer."
+  },
+  {
+   "verse": 1881,
+   "rows": [
+    {
+     "surface": "daugdhaṃ",
+     "gloss": "milk-product",
+     "grounds": "substance used in rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dugdhaṃ",
+     "gloss": "milk",
+     "grounds": "substance used in rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "substance used in rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adds another item",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūrvāḥ",
+     "gloss": "dūrvā-grass",
+     "grounds": "substance used in rite",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "these",
+     "grounds": "refers to listed items",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "statement of traditional knowledge",
+     "morph": "3.pl.perf.act √vid"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "the-wise",
+     "grounds": "authoritative knowers",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which substances are recognized by the wise as appropriate for this ritual use?",
+   "premises": [
+    "Milk products, milk, and curd are listed.",
+    "Dūrvā grass is also included.",
+    "The wise recognize these as the proper items."
+   ],
+   "inference": "The wise know milk products, milk, curd, and dūrvā grass to be the appropriate substances.",
+   "uncertainties": [],
+   "plain_english": "The wise know these to be milk products, milk, curd, and dūrvā grass."
+  },
+  {
+   "verse": 1882,
+   "rows": [
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphasizes immediacy of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛtyoḥ",
+     "gloss": "from-death",
+     "grounds": "source of liberation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vimucyeta",
+     "gloss": "one-is-liberated",
+     "grounds": "result of the rite",
+     "morph": "3.sg.opt.pass √vi-muc"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyāḥ",
+     "gloss": "other",
+     "grounds": "contrasts with lesser rites",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kṣudrikāḥ",
+     "gloss": "minor",
+     "grounds": "qualifies other rites",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kriyāḥ",
+     "gloss": "rites",
+     "grounds": "other ritual actions",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What supreme liberative power is claimed for this rite compared to minor rites?",
+   "premises": [
+    "Direct liberation from death is stated as possible.",
+    "Other rites are characterized as minor.",
+    "A rhetorical contrast diminishes those other rites."
+   ],
+   "inference": "This rite can directly liberate one from death, making minor rites insignificant by comparison.",
+   "uncertainties": [],
+   "plain_english": "One is directly liberated from death; what need is there for other minor rites?"
+  },
+  {
+   "verse": 1883,
+   "rows": [
+    {
+     "surface": "ādhi",
+     "gloss": "mental-afflictions",
+     "grounds": "inner suffering",
+     "morph": "m.stem (compound member)"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "bodily-diseases",
+     "grounds": "physical suffering",
+     "morph": "m.stem (compound member)"
+    },
+    {
+     "surface": "vinirmuktaḥ",
+     "gloss": "freed",
+     "grounds": "state resulting from rite",
+     "morph": "m.nom.sg (past participle) √vi-nis-muc"
+    },
+    {
+     "surface": "dīrgham+āyuḥ",
+     "gloss": "long-life",
+     "grounds": "benefit obtained",
+     "morph": "compound: dīrgha+āyus, n.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-obtains",
+     "grounds": "result of the rite",
+     "morph": "3.sg.opt.act √ava-āp"
+    }
+   ],
+   "question": "What freedom and longevity benefits result from performing this ritual practice?",
+   "premises": [
+    "Freedom from mental afflictions is promised.",
+    "Freedom from bodily diseases is promised.",
+    "Long life is obtained as a result."
+   ],
+   "inference": "One freed from mental and bodily afflictions obtains long life.",
+   "uncertainties": [],
+   "plain_english": "Freed from mental afflictions and bodily diseases, one obtains long life."
+  },
+  {
+   "verse": 1884,
+   "rows": [
+    {
+     "surface": "āmayān",
+     "gloss": "diseases",
+     "grounds": "ailments to be overcome",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "akhilān",
+     "gloss": "all",
+     "grounds": "totality of diseases",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "prior achievement",
+     "morph": "(gerund) √ji"
+    },
+    {
+     "surface": "dīrgham+āyuḥ",
+     "gloss": "long-life",
+     "grounds": "benefit obtained",
+     "morph": "compound: dīrgha+āyus, n.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-obtains",
+     "grounds": "result of the rite",
+     "morph": "3.sg.opt.act √ava-āp"
+    }
+   ],
+   "question": "What outcome follows the complete conquest of all diseases through this practice?",
+   "premises": [
+    "All diseases are to be conquered.",
+    "Conquest of diseases is achieved through the practice.",
+    "Long life is obtained afterward."
+   ],
+   "inference": "Having conquered all diseases, one obtains long life.",
+   "uncertainties": [],
+   "plain_english": "Having conquered all diseases, one obtains long life."
+  },
+  {
+   "verse": 1885,
+   "rows": [
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "material prosperity",
+     "morph": "n.stem (compound member)"
+    },
+    {
+     "surface": "dhānya",
+     "gloss": "grain",
+     "grounds": "material prosperity",
+     "morph": "n.stem (compound member)"
+    },
+    {
+     "surface": "samṛddhiḥ",
+     "gloss": "abundance",
+     "grounds": "resulting prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "acireṇa+eva",
+     "gloss": "in-no-long-time",
+     "grounds": "speed of accomplishment",
+     "morph": "compound: acira+eva, (indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "is-accomplished",
+     "grounds": "successful attainment",
+     "morph": "3.sg.pres.act √sidh"
+    }
+   ],
+   "question": "What material prosperity is promised and how quickly is it accomplished?",
+   "premises": [
+    "Abundance of wealth and grain is promised.",
+    "The accomplishment occurs without long delay.",
+    "The result is presented as attainable."
+   ],
+   "inference": "Abundance of wealth and grain arises and is accomplished in no long time.",
+   "uncertainties": [],
+   "plain_english": "There may be abundance of wealth and grain, and it is accomplished in no long time."
+  },
+  {
+   "verse": 1886,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra or practice",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "japāt",
+     "gloss": "from-recitation",
+     "grounds": "cause of accomplishment",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sarva+siddhiḥ",
+     "gloss": "all-accomplishment",
+     "grounds": "complete success",
+     "morph": "compound: sarva+siddhi, f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "arises",
+     "grounds": "result of recitation",
+     "morph": "3.sg.pres.act √bhū"
+    }
+   ],
+   "question": "What comprehensive result arises from the recitation of this mantra?",
+   "premises": [
+    "The recitation of this is the cause.",
+    "All accomplishment is named as the result.",
+    "The result arises from that recitation."
+   ],
+   "inference": "From the recitation of this, all accomplishment arises.",
+   "uncertainties": [],
+   "plain_english": "From its recitation, all accomplishment arises."
+  },
+  {
+   "verse": 1887,
+   "rows": [
+    {
+     "surface": "dhiyo",
+     "gloss": "intellects",
+     "grounds": "object of inspiration",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "our",
+     "grounds": "possessive reference",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "pracodayāt",
+     "gloss": "may-inspire",
+     "grounds": "prayer for inspiration",
+     "morph": "3.sg.opt.act √pra-cud"
+    },
+    {
+     "surface": "mṛtyoḥ",
+     "gloss": "from-death",
+     "grounds": "source of release",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mukṣīya",
+     "gloss": "may-i-be-released",
+     "grounds": "prayer for liberation",
+     "morph": "1.sg.aor.opt.mid √muc"
+    },
+    {
+     "surface": "mā+amṛtāt",
+     "gloss": "not-from-immortality",
+     "grounds": "prayer to retain immortality",
+     "morph": "compound: mā+amṛta, n.abl.sg"
+    }
+   ],
+   "question": "What dual prayer for inspiration and liberation is expressed in this mantra verse?",
+   "premises": [
+    "A prayer asks for the inspiration of intellects.",
+    "A prayer asks for release from death.",
+    "A prayer asks not to be separated from immortality."
+   ],
+   "inference": "The verse prays for inspired intellects, release from death, and not separation from immortality.",
+   "uncertainties": [],
+   "plain_english": "May he inspire our intellects; may I be released from death, not from immortality."
+  },
+  {
+   "verse": 1888,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra or practice",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "japāt",
+     "gloss": "from-recitation",
+     "grounds": "cause of accomplishment",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sarva+siddhiḥ",
+     "gloss": "all-accomplishment",
+     "grounds": "complete success",
+     "morph": "compound: sarva+siddhi, f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "arises",
+     "grounds": "result of recitation",
+     "morph": "3.sg.pres.act √bhū"
+    }
+   ],
+   "question": "What comprehensive result is again affirmed for the recitation of this mantra?",
+   "premises": [
+    "The recitation of this is the cause.",
+    "All accomplishment is named as the result.",
+    "The result arises from that recitation."
+   ],
+   "inference": "From the recitation of this, all accomplishment arises.",
+   "uncertainties": [],
+   "plain_english": "From its recitation, all accomplishment arises."
+  },
+  {
+   "verse": 1889,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative reference to teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭaṃ",
+     "gloss": "seen",
+     "grounds": "found in a text",
+     "morph": "n.nom.sg (past participle) √dṛś"
+    },
+    {
+     "surface": "tripurā+tantre",
+     "gloss": "in-tripura-tantra",
+     "grounds": "textual source",
+     "morph": "compound: tripurā+tantra, n.loc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative reference to teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dṛṣṭaṃ",
+     "gloss": "seen",
+     "grounds": "found in a text",
+     "morph": "n.nom.sg (past participle) √dṛś"
+    },
+    {
+     "surface": "bhūta+ḍāmare",
+     "gloss": "in-bhuta-damara",
+     "grounds": "textual source",
+     "morph": "compound: bhūta+ḍāmara, n.loc.sg"
+    }
+   ],
+   "question": "Which tantric textual sources are cited as authorities for the teaching presented?",
+   "premises": [
+    "A teaching is said to be seen in the Tripurā Tantra.",
+    "A teaching is said to be seen in the Bhūtaḍāmara.",
+    "Both sources are invoked as authorities."
+   ],
+   "inference": "The teaching is grounded in what is found in the Tripurā Tantra and the Bhūtaḍāmara.",
+   "uncertainties": [],
+   "plain_english": "What is seen in the Tripurā Tantra and what is seen in the Bhūtaḍāmara."
+  },
+  {
+   "verse": 1890,
+   "rows": [
+    {
+     "surface": "svāhā+antaṃ",
+     "gloss": "ending-with-svaha",
+     "grounds": "describes mantra form",
+     "morph": "compound: svāhā+anta, m.acc.sg"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "object to be extracted and recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "prior preparatory act",
+     "morph": "(gerund) √ud-hṛ"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "daśa+sahasrakam",
+     "gloss": "ten-thousand-times",
+     "grounds": "number of recitations",
+     "morph": "compound: daśa+sahasraka, n.acc.sg"
+    }
+   ],
+   "question": "How should the extracted mantra ending in svāhā be recited for ritual efficacy?",
+   "premises": [
+    "The mantra ends with svāhā.",
+    "The mantra must be extracted before use.",
+    "It should be recited ten thousand times."
+   ],
+   "inference": "One should extract the mantra ending in svāhā and recite it ten thousand times.",
+   "uncertainties": [],
+   "plain_english": "Having extracted the mantra ending with svāhā, one should recite it ten thousand times."
+  },
+  {
+   "verse": 1891,
+   "rows": [
+    {
+     "surface": "ākarṣayet",
+     "gloss": "one-attracts",
+     "grounds": "claimed ritual effect",
+     "morph": "3.sg.opt.caus.act √ā-kṛṣ"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation in assertion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "certainty of effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "rhetorical intensifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "moreover",
+     "grounds": "adds emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānuṣīm",
+     "gloss": "a-human-woman",
+     "grounds": "object of attraction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What power of attraction is claimed for this mantra without any doubt?",
+   "premises": [
+    "The mantra causes attraction.",
+    "There is said to be no doubt about this effect.",
+    "A human woman is specified as the object."
+   ],
+   "inference": "The mantra undoubtedly attracts a human woman here.",
+   "uncertainties": [],
+   "plain_english": "One attracts her without doubt; what to say of a human woman here?"
+  },
+  {
+   "verse": 1892,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "temporal extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "she-comes",
+     "grounds": "resulting movement",
+     "morph": "3.sg.pres.act √ā-yā"
+    },
+    {
+     "surface": "santrastā",
+     "gloss": "terrified",
+     "grounds": "state of the attracted person",
+     "morph": "f.nom.sg (past participle) √sam-tras"
+    },
+    {
+     "surface": "madana+anala+vigrahā",
+     "gloss": "body-inflamed-by-love-fire",
+     "grounds": "describes intense passion",
+     "morph": "compound: madana+anala+vigraha, f.nom.sg"
+    }
+   ],
+   "question": "In what emotional and passionate state does the attracted woman arrive?",
+   "premises": [
+    "She comes as a result of the attraction.",
+    "She is terrified.",
+    "Her body is inflamed by the fire of love."
+   ],
+   "inference": "She comes terrified, her body inflamed by the fire of love.",
+   "uncertainties": [],
+   "plain_english": "Until she comes, terrified and with her body inflamed by the fire of love."
+  },
+  {
+   "verse": 1893,
+   "rows": [
+    {
+     "surface": "cāmuṇḍā",
+     "gloss": "camunda",
+     "grounds": "deity to be visualized",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śava+vāhinī",
+     "gloss": "riding-a-corpse",
+     "grounds": "iconographic attribute",
+     "morph": "compound: śava+vāhin, f.nom.sg"
+    },
+    {
+     "surface": "japa+vidhau",
+     "gloss": "in-recitation-rite",
+     "grounds": "ritual context",
+     "morph": "compound: japa+vidhi, m.loc.sg"
+    },
+    {
+     "surface": "dhyeyā",
+     "gloss": "to-be-meditated-upon",
+     "grounds": "prescribed visualization",
+     "morph": "f.nom.sg (gerundive) √dhyai"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "by-practitioners",
+     "grounds": "agents of the practice",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which form of Cāmuṇḍā must practitioners visualize during the recitation rite?",
+   "premises": [
+    "Cāmuṇḍā is the deity to be meditated upon.",
+    "She is characterized as riding a corpse.",
+    "Practitioners should visualize her always in the recitation rite."
+   ],
+   "inference": "Practitioners should always meditate on Cāmuṇḍā riding a corpse during the recitation rite.",
+   "uncertainties": [],
+   "plain_english": "In the recitation rite, practitioners should always meditate on Cāmuṇḍā riding a corpse."
+  },
+  {
+   "verse": 1894,
+   "rows": [
+    {
+     "surface": "yayoḥ",
+     "gloss": "of-whom-two",
+     "grounds": "relative reference to two persons",
+     "morph": "pron.gen.du"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object used in rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "correlative reference",
+     "morph": "pron.gen.du"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "speed of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidveṣañ",
+     "gloss": "enmity",
+     "grounds": "ritual effect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parasparam",
+     "gloss": "mutual",
+     "grounds": "reciprocal relation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mutual effect is produced when the names of two persons are used in the rite?",
+   "premises": [
+    "The names of two persons are involved.",
+    "The effect is mutual enmity.",
+    "The effect arises quickly."
+   ],
+   "inference": "Using the names of two persons quickly produces mutual enmity between them.",
+   "uncertainties": [],
+   "plain_english": "Of whichever two persons the names are used, mutual enmity quickly arises between those two."
+  },
+  {
+   "verse": 1895,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative reference to a person",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object used in rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "conditional reference",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "correlative reference",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "vidveṣañ",
+     "gloss": "enmity",
+     "grounds": "ritual effect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parasparam",
+     "gloss": "mutual",
+     "grounds": "reciprocal relation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does naming a person in the rite result in mutual enmity involving that person?",
+   "premises": [
+    "A person's name may be used in the rite.",
+    "Enmity is produced as a result.",
+    "The enmity is mutual."
+   ],
+   "inference": "If a person's name is used, mutual enmity arises involving that person.",
+   "uncertainties": [
+    "The second party in the mutual enmity is implied by context."
+   ],
+   "plain_english": "Whosever name is used, mutual enmity arises for him."
+  },
+  {
+   "verse": 1896,
+   "rows": [
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object to be declared",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "authorial announcement",
+     "morph": "1.sg.fut.act √sam-pra-vac"
+    },
+    {
+     "surface": "mahā+bhairava+saṃjñakam",
+     "gloss": "known-as-mahabhairava",
+     "grounds": "name of the mantra",
+     "morph": "compound: mahā+bhairava+saṃjñaka, m.acc.sg"
+    }
+   ],
+   "question": "Which specific mantra is the speaker about to declare by name?",
+   "premises": [
+    "The speaker announces a declaration.",
+    "The object declared is a mantra.",
+    "The mantra is known as Mahābhairava."
+   ],
+   "inference": "The speaker will declare the mantra known as Mahābhairava.",
+   "uncertainties": [],
+   "plain_english": "I shall now declare the mantra known as Mahābhairava."
+  },
+  {
+   "verse": 1897,
+   "rows": [
+    {
+     "surface": "etat+mantraṃ",
+     "gloss": "this-mantra",
+     "grounds": "refers to the declared mantra",
+     "morph": "compound: etad+mantra, m.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference to context of use",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidveṣaḥ",
+     "gloss": "enmity",
+     "grounds": "ritual effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "result of the act",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty of effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain effect follows from writing this mantra in the prescribed context?",
+   "premises": [
+    "This mantra is to be written.",
+    "The act is performed in that context.",
+    "Enmity certainly arises as a result."
+   ],
+   "inference": "If one writes this mantra there, enmity certainly arises.",
+   "uncertainties": [],
+   "plain_english": "One should write this mantra there; enmity certainly arises."
+  },
+  {
+   "verse": 1898,
+   "rows": [
+    {
+     "surface": "jñāna+mātreṇa",
+     "gloss": "by-mere-knowledge",
+     "grounds": "sufficient cause",
+     "morph": "compound: jñāna+mātra, n.ins.sg"
+    },
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "targets of the effect",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vidveṣaḥ",
+     "gloss": "enmity",
+     "grounds": "ritual effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "result of knowledge",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "certainty of effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect on enemies is produced by mere knowledge of this mantra?",
+   "premises": [
+    "Mere knowledge is sufficient cause.",
+    "The targets are enemies.",
+    "Enmity certainly arises among them."
+   ],
+   "inference": "By mere knowledge of it, enmity certainly arises among enemies.",
+   "uncertainties": [],
+   "plain_english": "By mere knowledge of it, enmity certainly arises among enemies."
+  },
+  {
+   "verse": 1899,
+   "rows": [
+    {
+     "surface": "bhasmanā",
+     "gloss": "with-ash",
+     "grounds": "ritual substance used",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "refers to the ash or mantra-empowered substance",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "target of the act",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "one-strikes",
+     "grounds": "ritual act",
+     "morph": "3.sg.opt.act √han"
+    },
+    {
+     "surface": "vidveṣaḥ",
+     "gloss": "enmity",
+     "grounds": "ritual effect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "of-him",
+     "grounds": "refers to the target",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "arises",
+     "grounds": "result of the act",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "those among whom enmity arises",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What social consequence follows when a person is struck with that empowered ash?",
+   "premises": [
+    "A person is struck with that ash.",
+    "The ash is used in the ritual act.",
+    "Enmity arises among men concerning that person."
+   ],
+   "inference": "Striking someone with that ash causes enmity to arise among men regarding him.",
+   "uncertainties": [
+    "The exact referent of 'tena' (ash alone or ash empowered by mantra) is context-dependent."
+   ],
+   "plain_english": "Whomever one strikes with that ash, enmity arises for him among men."
+  }
+ ]
+}
