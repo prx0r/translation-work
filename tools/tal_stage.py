@@ -158,6 +158,16 @@ def stage_assemble(work, song):
     W = ROOT / work
     _CURRENT_WORK[0] = work
     wt = json.loads((W / f'working-t1-{song}.json').read_text())
+    # Duplicate verse entries (same verse twice, e.g. legacy twin tokenizations)
+    # break every downstream count. Keep the first occurrence.
+    _seen = set(); _wt = []
+    for e in wt:
+        if e.get('verse') in _seen:
+            continue
+        _seen.add(e.get('verse')); _wt.append(e)
+    if len(_wt) != len(wt):
+        print(f'{song}: dropped {len(wt)-len(_wt)} duplicate verse entries from working-T1')
+    wt = _wt
     # PARATEXT DOCTRINE (single source): editorial apparatus never enters T1.
     # CM rows are already filtered by is_paratext below; T1 must be filtered
     # with the SAME predicate or build_l0 asserts CM != T1 on pseudo-tokens

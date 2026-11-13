@@ -335,7 +335,20 @@ def main() -> int:
                 cites += [p.strip() for p in str(o.get("sanskrit_cite", "")).split("|") if p.strip()]
         _flat_toks = [tok for v, t in sorted(src.items()) for tok in _clean_span(t)]
         src_flat = deparen(norm_ws(" ".join(_flat_toks)))
-        fails = [c for c in cites if deparen(norm_ws(c)) not in src_flat]
+        def _clean_cite(c: str) -> str:
+            # Witness sigla and danda pipes are apparatus, not text: strip them
+            # from the cite before comparing (the cite is allowed to be clean
+            # even when the source span carries `(vi0 6|7)`-style sigla).
+            toks = []
+            for w in str(c).replace("|", " ").split():
+                w2 = w.replace("‖", "")
+                if not w2.strip():
+                    continue
+                if _para is not None and _para(w2):
+                    continue
+                toks.append(w2)
+            return deparen(norm_ws(" ".join(toks)))
+        fails = [c for c in cites if _clean_cite(c) not in src_flat]
         real_fails = [c[:80] for c in fails]
         verses_text = {}
     else:

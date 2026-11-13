@@ -3,9 +3,7 @@
  "song": "kul-p05",
  "work": "kularnavatantra",
  "date": "2026-11-01",
- "blocking": [
-  "DATA_OBJECTS 3 schema/cross-layer errors"
- ],
+ "blocking": [],
  "warnings": [],
  "mode": "shastra",
  "source_sha": "3d4d8728d685ec09",
@@ -40,11 +38,7 @@
   "gloss_missing_in_l2": []
  },
  "data_objects": {
-  "errors": [
-   "l0[kul-p05-v110-p004]: chosen 'duality' != T1.quick_gloss 'duality-and-non-duality-and-free-from' (mark revised+reason)",
-   "l0[kul-p05-v110-p005]: chosen 'non-duality' != T1.quick_gloss None (mark revised+reason)",
-   "l0[kul-p05-v110-p006]: chosen 'free-from' != T1.quick_gloss None (mark revised+reason)"
-  ],
+  "errors": [],
   "counts": {
    "t1": 25,
    "l0": 133,
@@ -59,12 +53,12 @@
   }
  },
  "needs": [
-  "fix: schema/cross-layer errors"
+  "human-review"
  ],
- "deterministic_gate": "BLOCKED",
+ "deterministic_gate": "PASS",
  "layer_sha256": {
   "t1": "b89373dcfae8ab2512d6e2bf0e8d06078a3cc91825fd4f22e4af4a9bc64a2314",
-  "l0": "0647b5d26aa10e11ac0449aa3ac1e9bb1f043cb66b407399af1b6dc50fae7a1e",
+  "l0": "42de60979ebaa2f9629d62fd399ca73fb8abade5d7864cb935e230a4a2f840dd",
   "argmap": "7e5e2fce73ebbd13898969a706a6e149230ccbdc8f3e7eaa331e63dc95d8ea63",
   "l2": "c89a9c4819fb5b0dde4de3bfb589ee6dea90f5eb9e105f6099b16ec6bcc2ccc8",
   "c1": "52eab0cb6af710da64d60d96c82b95168a5c9bec5e1ba9a6c2d29c11ec398f43"

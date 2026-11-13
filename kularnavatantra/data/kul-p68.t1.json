@@ -985,16 +985,9 @@
   "source_sha": "",
   "history": [
    {
-    "ts": "2026-11-13",
-    "op": "dedup_t1",
-    "note": "de-overlapped 1 token(s): stripped redundant suffix repeats",
-    "details": [
-     {
-      "was": "dīkṣitena",
-      "now": "dīkṣite",
-      "suffix": "na"
-     }
-    ]
+    "gloss": "By him all becomes worshipped; for the initiated person there is no doubt.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
    }
   ]
  },

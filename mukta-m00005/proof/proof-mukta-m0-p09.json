@@ -4,7 +4,6 @@
  "work": "mukta-m00005",
  "date": "2026-11-01",
  "blocking": [
-  "L2_CITE_FAIL 1",
   "DATA_OBJECTS 1 schema/cross-layer errors"
  ],
  "warnings": [],
@@ -29,9 +28,7 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "ātmaguṇasya jñānakriyātmano rodhikāḥ etacca prāgeva darśitam"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
@@ -55,7 +52,6 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
   "fix: schema/cross-layer errors"
  ],
  "deterministic_gate": "BLOCKED",

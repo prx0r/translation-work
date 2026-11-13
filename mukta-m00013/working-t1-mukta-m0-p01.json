@@ -3,32 +3,38 @@
   "verse_id": "mukta-m0-p01-v1",
   "song": "mukta-m0-p01",
   "verse": 1,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "And the wise Kṛṣṇānanda honors the teacher, the giver of knowledge.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "guruñ",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "object of reverence or address"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "jñāna",
-    "quick_gloss": "knowledge"
+    "quick_gloss": "knowledge",
+    "grounds": "first member of compound"
    },
    {
     "surface": "dātāraṃ",
-    "quick_gloss": "giver"
+    "quick_gloss": "giver",
+    "grounds": "one who imparts knowledge"
    },
    {
     "surface": "kṛṣṇānandena",
-    "quick_gloss": "by-Kṛṣṇānanda"
+    "quick_gloss": "by-kṛṣṇānanda",
+    "grounds": "agent or author name"
    },
    {
     "surface": "dhīmatā",
-    "quick_gloss": "wise"
+    "quick_gloss": "wise",
+    "grounds": "qualifies kṛṣṇānanda"
    }
   ]
  },
@@ -36,16 +42,18 @@
   "verse_id": "mukta-m0-p01-v2",
   "song": "mukta-m0-p01",
   "verse": 2,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Of the teacher and the disciple.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "guru",
-    "quick_gloss": "of-teacher"
+    "quick_gloss": "teacher",
+    "grounds": "first member of pair"
    },
    {
     "surface": "śiṣyayoḥ",
-    "quick_gloss": "and-disciple"
+    "quick_gloss": "and-disciple",
+    "grounds": "pair of teacher and disciple"
    }
   ]
  },
@@ -53,20 +61,23 @@
   "verse_id": "mukta-m0-p01-v3",
   "song": "mukta-m0-p01",
   "verse": 3,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "He is called the teacher.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "guruḥ",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "subject being defined"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "marks designation"
    },
    {
     "surface": "abhidhīyate",
-    "quick_gloss": "is-called"
+    "quick_gloss": "is-called",
+    "grounds": "states designation"
    }
   ]
  },
@@ -74,44 +85,53 @@
   "verse_id": "mukta-m0-p01-v4",
   "song": "mukta-m0-p01",
   "verse": 4,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "The best brāhmaṇa, an ascetic, a speaker of truth, and a householder, is called a teacher.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "uttamaḥ",
-    "quick_gloss": "best"
+    "quick_gloss": "best",
+    "grounds": "qualifies the teacher"
    },
    {
     "surface": "brāhmaṇaḥ",
-    "quick_gloss": "of-brāhmaṇas"
+    "quick_gloss": "brāhmaṇa",
+    "grounds": "social or ritual identity"
    },
    {
     "surface": "tapasvī",
-    "quick_gloss": "ascetic"
+    "quick_gloss": "ascetic",
+    "grounds": "one engaged in austerity"
    },
    {
     "surface": "satya",
-    "quick_gloss": "truth"
+    "quick_gloss": "truth",
+    "grounds": "first member of compound"
    },
    {
     "surface": "vādī",
-    "quick_gloss": "speaker"
+    "quick_gloss": "speaker",
+    "grounds": "one who speaks truth"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "gṛhastho",
-    "quick_gloss": "householder"
+    "quick_gloss": "householder",
+    "grounds": "stage of life"
    },
    {
     "surface": "guruḥ",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "subject being defined"
    },
    {
     "surface": "ucyate",
-    "quick_gloss": "is-called"
+    "quick_gloss": "is-called",
+    "grounds": "states designation"
    }
   ]
  },
@@ -119,40 +139,48 @@
   "verse_id": "mukta-m0-p01-v5",
   "song": "mukta-m0-p01",
   "verse": 5,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "He goes to terrible hell, and that worship becomes fruitless.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "sa",
-    "quick_gloss": "he"
+    "quick_gloss": "he",
+    "grounds": "refers to a person"
    },
    {
     "surface": "yāti",
-    "quick_gloss": "goes"
+    "quick_gloss": "goes",
+    "grounds": "movement to a destination"
    },
    {
     "surface": "nakaraṃ",
-    "quick_gloss": "to-hell"
+    "quick_gloss": "to-hell",
+    "grounds": "destination of suffering"
    },
    {
     "surface": "ghoraṃ",
-    "quick_gloss": "terrible"
+    "quick_gloss": "terrible",
+    "grounds": "qualifies hell"
    },
    {
     "surface": "sā",
-    "quick_gloss": "that"
+    "quick_gloss": "that",
+    "grounds": "refers to worship"
    },
    {
     "surface": "pūjā",
-    "quick_gloss": "worship"
+    "quick_gloss": "worship",
+    "grounds": "ritual offering or honor"
    },
    {
     "surface": "viphalā",
-    "quick_gloss": "fruitless"
+    "quick_gloss": "fruitless",
+    "grounds": "without result"
    },
    {
     "surface": "bhavet",
-    "quick_gloss": "becomes"
+    "quick_gloss": "becomes",
+    "grounds": "resulting state"
    }
   ]
  },
@@ -160,16 +188,18 @@
   "verse_id": "mukta-m0-p01-v6",
   "song": "mukta-m0-p01",
   "verse": 6,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "One would obtain a curse.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "śāpam",
-    "quick_gloss": "curse"
+    "quick_gloss": "curse",
+    "grounds": "negative consequence"
    },
    {
     "surface": "avāpnuyāt",
-    "quick_gloss": "obtains"
+    "quick_gloss": "obtains",
+    "grounds": "receives as result"
    }
   ]
  },
@@ -177,48 +207,58 @@
   "verse_id": "mukta-m0-p01-v7",
   "song": "mukta-m0-p01",
   "verse": 7,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "A dwarf, one with bad nails, dark teeth, conquered by a woman, or having an extra limb.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "vāmanaḥ",
-    "quick_gloss": "dwarf"
+    "quick_gloss": "dwarf",
+    "grounds": "physical characteristic"
    },
    {
     "surface": "ku",
-    "quick_gloss": "bad"
+    "quick_gloss": "bad",
+    "grounds": "first member of compound"
    },
    {
     "surface": "nakhī",
-    "quick_gloss": "nailed"
+    "quick_gloss": "nailed",
+    "grounds": "having bad nails"
    },
    {
     "surface": "śyāva",
-    "quick_gloss": "black"
+    "quick_gloss": "dark",
+    "grounds": "first member of compound"
    },
    {
     "surface": "dantaḥ",
-    "quick_gloss": "toothed"
+    "quick_gloss": "toothed",
+    "grounds": "having dark teeth"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "strī",
-    "quick_gloss": "by-woman"
+    "quick_gloss": "by-woman",
+    "grounds": "first member of compound"
    },
    {
     "surface": "jitaḥ",
-    "quick_gloss": "conquered"
+    "quick_gloss": "conquered",
+    "grounds": "dominated by a woman"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "adhikāṅgakaḥ",
-    "quick_gloss": "having-extra-limb"
+    "quick_gloss": "having-extra-limb",
+    "grounds": "physical deformity"
    }
   ]
  },
@@ -226,36 +266,43 @@
   "verse_id": "mukta-m0-p01-v8",
   "song": "mukta-m0-p01",
   "verse": 8,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "He who is devoid — variant reading — is approved as a teacher by the disciple.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "vihīnaḥ",
-    "quick_gloss": "devoid"
+    "quick_gloss": "devoid",
+    "grounds": "lacking something"
    },
    {
     "surface": "pāṭhāntara",
-    "quick_gloss": "variant-reading"
+    "quick_gloss": "variant-reading",
+    "grounds": "editorial note in text"
    },
    {
     "surface": "yaḥ",
-    "quick_gloss": "who"
+    "quick_gloss": "who",
+    "grounds": "relative pronoun"
    },
    {
     "surface": "sa",
-    "quick_gloss": "he"
+    "quick_gloss": "he",
+    "grounds": "correlative pronoun"
    },
    {
     "surface": "guruḥ",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "role in question"
    },
    {
     "surface": "śiṣya",
-    "quick_gloss": "by-disciple"
+    "quick_gloss": "by-disciple",
+    "grounds": "first member of compound"
    },
    {
     "surface": "sammataḥ",
-    "quick_gloss": "approved"
+    "quick_gloss": "approved",
+    "grounds": "accepted or agreed upon"
    }
   ]
  },
@@ -263,40 +310,48 @@
   "verse_id": "mukta-m0-p01-v9",
   "song": "mukta-m0-p01",
   "verse": 9,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "One devoid of rites, deceitful, a dwarf, and a reviler of the teacher.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "kriyā",
-    "quick_gloss": "rite"
+    "quick_gloss": "rite",
+    "grounds": "first member of compound"
    },
    {
     "surface": "hīnaṃ",
-    "quick_gloss": "devoid"
+    "quick_gloss": "devoid",
+    "grounds": "lacking ritual practice"
    },
    {
     "surface": "śaṭhañ",
-    "quick_gloss": "deceitful"
+    "quick_gloss": "deceitful",
+    "grounds": "dishonest character"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "api",
-    "quick_gloss": "also"
+    "quick_gloss": "also",
+    "grounds": "inclusive particle"
    },
    {
     "surface": "vāmanaṃ",
-    "quick_gloss": "dwarf"
+    "quick_gloss": "dwarf",
+    "grounds": "physically deficient person"
    },
    {
     "surface": "guru",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "first member of compound"
    },
    {
     "surface": "nindakam",
-    "quick_gloss": "reviler"
+    "quick_gloss": "reviler",
+    "grounds": "one who criticizes the teacher"
    }
   ]
  },
@@ -304,20 +359,23 @@
   "verse_id": "mukta-m0-p01-v10",
   "song": "mukta-m0-p01",
   "verse": 10,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "One should avoid such a teacher according to the tantra.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "guruṃ",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "object to be avoided"
    },
    {
     "surface": "tantreṇa",
-    "quick_gloss": "by-scripture"
+    "quick_gloss": "by-scripture",
+    "grounds": "according to tantric teaching"
    },
    {
     "surface": "varjayet",
-    "quick_gloss": "should-avoid"
+    "quick_gloss": "should-avoid",
+    "grounds": "injunction to reject"
    }
   ]
  },
@@ -325,36 +383,43 @@
   "verse_id": "mukta-m0-p01-v11",
   "song": "mukta-m0-p01",
   "verse": 11,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Thus, the dwarf and others like him should also be understood in this way.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "vāmanaḥ",
-    "quick_gloss": "dwarf"
+    "quick_gloss": "dwarf",
+    "grounds": "example of disqualified type"
    },
    {
     "surface": "tathā",
-    "quick_gloss": "likewise"
+    "quick_gloss": "likewise",
+    "grounds": "indicates similar cases"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "closing marker"
    },
    {
     "surface": "ādy",
-    "quick_gloss": "beginning-with"
+    "quick_gloss": "beginning-with",
+    "grounds": "and so forth"
    },
    {
     "surface": "api",
-    "quick_gloss": "also"
+    "quick_gloss": "also",
+    "grounds": "inclusive particle"
    },
    {
     "surface": "bodhyam",
-    "quick_gloss": "to-be-understood"
+    "quick_gloss": "to-be-understood",
+    "grounds": "instruction to the reader"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "closing marker"
    }
   ]
  },
@@ -362,20 +427,23 @@
   "verse_id": "mukta-m0-p01-v12",
   "song": "mukta-m0-p01",
   "verse": 12,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Devoted to giving and meditation.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "dāna",
-    "quick_gloss": "giving"
+    "quick_gloss": "giving",
+    "grounds": "first member of compound"
    },
    {
     "surface": "dhyāna",
-    "quick_gloss": "meditation"
+    "quick_gloss": "meditation",
+    "grounds": "second member of compound"
    },
    {
     "surface": "parāyaṇ",
-    "quick_gloss": "devoted"
+    "quick_gloss": "devoted",
+    "grounds": "dedicated to giving and meditation"
    }
   ]
  },
@@ -383,36 +451,43 @@
   "verse_id": "mukta-m0-p01-v13",
   "song": "mukta-m0-p01",
   "verse": 13,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "To the wretched, to one devoid of conduct, and to one devoted to hatred of the yantra.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "dīnāya",
-    "quick_gloss": "to-wretched"
+    "quick_gloss": "to-wretched",
+    "grounds": "recipient described as miserable"
    },
    {
     "surface": "ācāra",
-    "quick_gloss": "conduct"
+    "quick_gloss": "conduct",
+    "grounds": "first member of compound"
    },
    {
     "surface": "śūnyāya",
-    "quick_gloss": "devoid"
+    "quick_gloss": "devoid",
+    "grounds": "lacking proper conduct"
    },
    {
     "surface": "yantra",
-    "quick_gloss": "to-yantra"
+    "quick_gloss": "yantra",
+    "grounds": "first member of compound"
    },
    {
     "surface": "dveṣa",
-    "quick_gloss": "hatred"
+    "quick_gloss": "hatred",
+    "grounds": "hostility toward yantra"
    },
    {
     "surface": "parāya",
-    "quick_gloss": "devoted"
+    "quick_gloss": "devoted",
+    "grounds": "dedicated to hatred of yantra"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    }
   ]
  },
@@ -420,20 +495,23 @@
   "verse_id": "mukta-m0-p01-v14",
   "song": "mukta-m0-p01",
   "verse": 14,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "It should not be given to one devoid of devotion to the teacher, nor to the impure.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "guru",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "first member of compound"
    },
    {
     "surface": "bhakti",
-    "quick_gloss": "devotion"
+    "quick_gloss": "devotion",
+    "grounds": "second member of compound"
    },
    {
     "surface": "vihīnāya",
-    "quick_gloss": "devoid"
+    "quick_gloss": "devoid",
+    "grounds": "lacking devotion to teacher"
    },
    {
     "surface": "na",
@@ -442,15 +520,18 @@
    },
    {
     "surface": "deyā",
-    "quick_gloss": "to-be-given"
+    "quick_gloss": "to-be-given",
+    "grounds": "prohibition of giving"
    },
    {
     "surface": "malināya",
-    "quick_gloss": "to-impure"
+    "quick_gloss": "to-impure",
+    "grounds": "recipient described as impure"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    }
   ]
  },
@@ -458,40 +539,48 @@
   "verse_id": "mukta-m0-p01-v15",
   "song": "mukta-m0-p01",
   "verse": 15,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "The miserly, the poor, the diseased, the angry, the passionate, and those desirous of enjoyment.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "kṛpaṇāḥ",
-    "quick_gloss": "miserly"
+    "quick_gloss": "miserly",
+    "grounds": "character flaw"
    },
    {
     "surface": "tathā",
-    "quick_gloss": "likewise"
+    "quick_gloss": "likewise",
+    "grounds": "adds similar cases"
    },
    {
     "surface": "daridrā",
-    "quick_gloss": "poor"
+    "quick_gloss": "poor",
+    "grounds": "lacking wealth"
    },
    {
     "surface": "rogiṇo",
-    "quick_gloss": "diseased"
+    "quick_gloss": "diseased",
+    "grounds": "afflicted by illness"
    },
    {
     "surface": "ruṣṭā",
-    "quick_gloss": "angry"
+    "quick_gloss": "angry",
+    "grounds": "prone to anger"
    },
    {
     "surface": "rāgiṇo",
-    "quick_gloss": "passionate"
+    "quick_gloss": "passionate",
+    "grounds": "dominated by desire"
    },
    {
     "surface": "bhoga",
-    "quick_gloss": "enjoyment"
+    "quick_gloss": "enjoyment",
+    "grounds": "first member of compound"
    },
    {
     "surface": "lālasāḥ",
-    "quick_gloss": "desirous"
+    "quick_gloss": "desirous",
+    "grounds": "craving enjoyment"
    }
   ]
  },
@@ -499,40 +588,48 @@
   "verse_id": "mukta-m0-p01-v16",
   "song": "mukta-m0-p01",
   "verse": 16,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "And those whose wealth is acquired by unjust means, and who delight in another's wife.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "anyāya",
-    "quick_gloss": "by-unjust-means"
+    "quick_gloss": "by-unjust-means",
+    "grounds": "first member of compound"
    },
    {
     "surface": "upārjita",
-    "quick_gloss": "acquired"
+    "quick_gloss": "acquired",
+    "grounds": "second member of compound"
    },
    {
     "surface": "dhanāḥ",
-    "quick_gloss": "wealth"
+    "quick_gloss": "wealth",
+    "grounds": "those possessing unjustly acquired wealth"
    },
    {
     "surface": "para",
-    "quick_gloss": "another's"
+    "quick_gloss": "another's",
+    "grounds": "first member of compound"
    },
    {
     "surface": "dāra",
-    "quick_gloss": "wife"
+    "quick_gloss": "wife",
+    "grounds": "second member of compound"
    },
    {
     "surface": "ratāḥ",
-    "quick_gloss": "delighting"
+    "quick_gloss": "delighting",
+    "grounds": "taking pleasure in another's wife"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "ye",
-    "quick_gloss": "who"
+    "quick_gloss": "who",
+    "grounds": "relative pronoun"
    }
   ]
  },
@@ -540,40 +637,48 @@
   "verse_id": "mukta-m0-p01-v17",
   "song": "mukta-m0-p01",
   "verse": 17,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "And those of fallen conduct, those with a difficult livelihood, the slanderous, and the wicked.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "bhraṣṭa",
-    "quick_gloss": "fallen"
+    "quick_gloss": "fallen",
+    "grounds": "first member of compound"
    },
    {
     "surface": "ācārāḥ",
-    "quick_gloss": "conduct"
+    "quick_gloss": "conduct",
+    "grounds": "those of fallen conduct"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "ye",
-    "quick_gloss": "who"
+    "quick_gloss": "who",
+    "grounds": "relative pronoun"
    },
    {
     "surface": "kaṣṭa",
-    "quick_gloss": "difficult"
+    "quick_gloss": "difficult",
+    "grounds": "first member of compound"
    },
    {
     "surface": "vṛttayaḥ",
-    "quick_gloss": "livelihood"
+    "quick_gloss": "livelihood",
+    "grounds": "those with harsh livelihood"
    },
    {
     "surface": "piśunāḥ",
-    "quick_gloss": "slanderous"
+    "quick_gloss": "slanderous",
+    "grounds": "given to backbiting"
    },
    {
     "surface": "khalāḥ",
-    "quick_gloss": "wicked"
+    "quick_gloss": "wicked",
+    "grounds": "morally bad"
    }
   ]
  },
@@ -581,20 +686,23 @@
   "verse_id": "mukta-m0-p01-v18",
   "song": "mukta-m0-p01",
   "verse": 18,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Those considered for discipleship should be rejected.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "parityājyāḥ",
-    "quick_gloss": "to-be-rejected"
+    "quick_gloss": "to-be-rejected",
+    "grounds": "injunction to abandon"
    },
    {
     "surface": "śiṣyatvena",
-    "quick_gloss": "in-discipleship"
+    "quick_gloss": "in-discipleship",
+    "grounds": "in the role of disciple"
    },
    {
     "surface": "upakalpitāḥ",
-    "quick_gloss": "considered"
+    "quick_gloss": "considered",
+    "grounds": "regarded or proposed"
    }
   ]
  },
@@ -602,36 +710,43 @@
   "verse_id": "mukta-m0-p01-v19",
   "song": "mukta-m0-p01",
   "verse": 19,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Teacherhood or discipleship arises from their living together for a year.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "gurutā",
-    "quick_gloss": "teacherhood"
+    "quick_gloss": "teacherhood",
+    "grounds": "state of being a teacher"
    },
    {
     "surface": "śiṣyatā",
-    "quick_gloss": "discipleship"
+    "quick_gloss": "discipleship",
+    "grounds": "state of being a disciple"
    },
    {
     "surface": "vā",
-    "quick_gloss": "or"
+    "quick_gloss": "or",
+    "grounds": "alternative"
    },
    {
     "surface": "api",
-    "quick_gloss": "also"
+    "quick_gloss": "also",
+    "grounds": "inclusive particle"
    },
    {
     "surface": "tayoḥ",
-    "quick_gloss": "of-those-two"
+    "quick_gloss": "of-those-two",
+    "grounds": "refers to teacher and disciple"
    },
    {
     "surface": "vatsara",
-    "quick_gloss": "year"
+    "quick_gloss": "year",
+    "grounds": "first member of compound"
    },
    {
     "surface": "vāsataḥ",
-    "quick_gloss": "residence"
+    "quick_gloss": "residence",
+    "grounds": "living together for a year"
    }
   ]
  },
@@ -639,20 +754,23 @@
   "verse_id": "mukta-m0-p01-v20",
   "song": "mukta-m0-p01",
   "verse": 20,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "But in a dream there is indeed no such rule, according to the statement of Nārada.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "svapne",
-    "quick_gloss": "in-dream"
+    "quick_gloss": "in-dream",
+    "grounds": "dream state"
    },
    {
     "surface": "tū",
-    "quick_gloss": "but"
+    "quick_gloss": "but",
+    "grounds": "contrastive particle"
    },
    {
     "surface": "niyamo",
-    "quick_gloss": "rule"
+    "quick_gloss": "rule",
+    "grounds": "restriction or requirement"
    },
    {
     "surface": "na",
@@ -661,19 +779,23 @@
    },
    {
     "surface": "hi",
-    "quick_gloss": "thus"
+    "quick_gloss": "indeed",
+    "grounds": "emphatic particle"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "quotation marker"
    },
    {
     "surface": "nārada",
-    "quick_gloss": "of-Nārada"
+    "quick_gloss": "of-nārada",
+    "grounds": "first member of compound"
    },
    {
     "surface": "vacanāt",
-    "quick_gloss": "statement"
+    "quick_gloss": "statement",
+    "grounds": "based on Nārada's statement"
    }
   ]
  },
@@ -681,36 +803,43 @@
   "verse_id": "mukta-m0-p01-v21",
   "song": "mukta-m0-p01",
   "verse": 21,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Likewise, the teacher certainly obtains the sin acquired by the disciple.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "tathā",
-    "quick_gloss": "likewise"
+    "quick_gloss": "likewise",
+    "grounds": "adds a related consequence"
    },
    {
     "surface": "śiṣya",
-    "quick_gloss": "by-disciple"
+    "quick_gloss": "by-disciple",
+    "grounds": "first member of compound"
    },
    {
     "surface": "ārjjitaṃ",
-    "quick_gloss": "acquired"
+    "quick_gloss": "acquired",
+    "grounds": "earned or accumulated"
    },
    {
     "surface": "pāpaṃ",
-    "quick_gloss": "sin"
+    "quick_gloss": "sin",
+    "grounds": "negative karmic result"
    },
    {
     "surface": "guruḥ",
-    "quick_gloss": "teacher"
+    "quick_gloss": "teacher",
+    "grounds": "recipient of consequence"
    },
    {
     "surface": "prāpnoti",
-    "quick_gloss": "obtains"
+    "quick_gloss": "obtains",
+    "grounds": "receives as result"
    },
    {
     "surface": "niścitam",
-    "quick_gloss": "certainly"
+    "quick_gloss": "certainly",
+    "grounds": "emphasizes certainty"
    }
   ]
  },
@@ -718,16 +847,18 @@
   "verse_id": "mukta-m0-p01-v22",
   "song": "mukta-m0-p01",
   "verse": 22,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "The fitness of the disciple.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "śiṣya",
-    "quick_gloss": "of-disciple"
+    "quick_gloss": "of-disciple",
+    "grounds": "first member of compound"
    },
    {
     "surface": "yogyatā",
-    "quick_gloss": "fitness"
+    "quick_gloss": "fitness",
+    "grounds": "suitability or qualification"
    }
   ]
  },
@@ -735,8 +866,8 @@
   "verse_id": "mukta-m0-p01-v23",
   "song": "mukta-m0-p01",
   "verse": 23,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Indeed, in the Kali age the gods are not pleased by other methods.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "na",
@@ -745,31 +876,38 @@
    },
    {
     "surface": "hi",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "emphatic particle"
    },
    {
     "surface": "devāḥ",
-    "quick_gloss": "gods"
+    "quick_gloss": "gods",
+    "grounds": "divine beings"
    },
    {
     "surface": "prasīdanti",
-    "quick_gloss": "are-pleased"
+    "quick_gloss": "are-pleased",
+    "grounds": "become gracious"
    },
    {
     "surface": "kalau",
-    "quick_gloss": "in-Kali-age"
+    "quick_gloss": "in-kali-age",
+    "grounds": "current cosmic age"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "anya",
-    "quick_gloss": "other"
+    "quick_gloss": "other",
+    "grounds": "first member of compound"
    },
    {
     "surface": "vidhānataḥ",
-    "quick_gloss": "by-means"
+    "quick_gloss": "by-means",
+    "grounds": "by other methods"
    }
   ]
  },
@@ -777,24 +915,28 @@
   "verse_id": "mukta-m0-p01-v24",
   "song": "mukta-m0-p01",
   "verse": 24,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "For them, success comes by the path of the Āgamas, not by the Vedic way.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "teṣām",
-    "quick_gloss": "of-them"
+    "quick_gloss": "of-them",
+    "grounds": "refers to practitioners or gods"
    },
    {
     "surface": "āgama",
-    "quick_gloss": "by-Āgama"
+    "quick_gloss": "by-āgama",
+    "grounds": "first member of compound"
    },
    {
     "surface": "mārgeṇa",
-    "quick_gloss": "path"
+    "quick_gloss": "path",
+    "grounds": "by the path of the Āgamas"
    },
    {
     "surface": "siddhiḥ",
-    "quick_gloss": "success"
+    "quick_gloss": "success",
+    "grounds": "spiritual accomplishment"
    },
    {
     "surface": "na",
@@ -803,11 +945,13 @@
    },
    {
     "surface": "śrauta",
-    "quick_gloss": "by-Vedic"
+    "quick_gloss": "by-vedic",
+    "grounds": "first member of compound"
    },
    {
     "surface": "vartmanā",
-    "quick_gloss": "way"
+    "quick_gloss": "way",
+    "grounds": "by the Vedic way"
    }
   ]
  },
@@ -815,40 +959,48 @@
   "verse_id": "mukta-m0-p01-v25",
   "song": "mukta-m0-p01",
   "verse": 25,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "If one desires one's own welfare, one should not make distinctions among them.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "teṣā",
-    "quick_gloss": "of-them"
+    "quick_gloss": "of-them",
+    "grounds": "genitive plural masculine of tad, referring to the deities mentioned previously; sandhi form before bhidā"
    },
    {
     "surface": "bhidā",
-    "quick_gloss": "distinction"
+    "quick_gloss": "distinction",
+    "grounds": "difference or division among them"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negation"
    },
    {
     "surface": "karttavyā",
-    "quick_gloss": "to-be-made"
+    "quick_gloss": "to-be-made",
+    "grounds": "gerundive expressing obligation or propriety"
    },
    {
     "surface": "yadi",
-    "quick_gloss": "if"
+    "quick_gloss": "if",
+    "grounds": "conditional particle introducing a condition"
    },
    {
     "surface": "icchet",
-    "quick_gloss": "desires"
+    "quick_gloss": "one-should-desire",
+    "grounds": "expresses wish or intention"
    },
    {
     "surface": "śubham",
-    "quick_gloss": "good"
+    "quick_gloss": "welfare",
+    "grounds": "good or auspicious outcome"
    },
    {
     "surface": "ātmanaḥ",
-    "quick_gloss": "of-self"
+    "quick_gloss": "of-oneself",
+    "grounds": "refers to one's own self or benefit"
    }
   ]
  }

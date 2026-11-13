@@ -1,84 +1,100 @@
 [
-{
-"verse_id": "mukta-m00407-p01-v1",
-"song": "mukta-m00407-p01",
-"verse": 1,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "oṃ",
-"quick_gloss": "oṃ"
-},
-{
-"surface": "hrī",
-"quick_gloss": "hrīṃ"
-},
-{
-"surface": "kaumārya",
-"quick_gloss": "to-kaumārī"
-},
-{
-"surface": "hṛdaya+ādi+pūjā",
-"quick_gloss": "heart+etc.+worship"
-},
-{
-"surface": "candana+akṣata+pūspa+dhūpa+dipa+naivedya+ādikaṃ",
-"quick_gloss": "sandal+unbroken-rice+flower+incense+lamp+food-offering+etc."
-},
-{
-"surface": "datvā",
-"quick_gloss": "having-given"
-},
-{
-"surface": "japya",
-"quick_gloss": "to-be-recited"
-},
-{
-"surface": "stotra",
-"quick_gloss": "hymn"
-}
-]
-},
-{
-"verse_id": "mukta-m00407-p01-v2",
-"song": "mukta-m00407-p01",
-"verse": 2,
-"quick_english": "",
-"quick_english_source": "t1parse",
-"tokens": [
-{
-"surface": "tuṃvureśvarīya",
-"quick_gloss": "to-tuṃbureśvarī"
-},
-{
-"surface": "āgnaya+ādi",
-"quick_gloss": "beginning-with-southeast+etc."
-},
-{
-"surface": "īśāna+antaṃ",
-"quick_gloss": "ending-with-northeast"
-},
-{
-"surface": "āvāhana+ādī",
-"quick_gloss": "invocation+etc."
-},
-{
-"surface": "tato+sala+pūjā",
-"quick_gloss": "then+water-offering+worship"
-},
-{
-"surface": "oṃ",
-"quick_gloss": "oṃ"
-},
-{
-"surface": "ānaṃtāya+tya+ādi",
-"quick_gloss": "beginning-with-ānantāya+etc."
-},
-{
-"surface": "āvāhanā",
-"quick_gloss": "invocation"
-}
-]
-}
+ {
+  "verse_id": "mukta-m00407-p01-v1",
+  "song": "mukta-m00407-p01",
+  "verse": 1,
+  "quick_english": "Om, hrim. O Kaumari, after performing worship beginning with the heart and offering sandal, unbroken rice, flowers, incense, lamp, food offerings, and so forth, a hymn is to be recited.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "oṃ",
+    "quick_gloss": "om",
+    "grounds": "sacred syllable; mantra seed"
+   },
+   {
+    "surface": "hrī",
+    "quick_gloss": "hrim",
+    "grounds": "bija syllable; mantra seed"
+   },
+   {
+    "surface": "kaumārya",
+    "quick_gloss": "o-kaumari",
+    "grounds": "address to Kaumari; form as given"
+   },
+   {
+    "surface": "hṛdaya+ādi+pūjā",
+    "quick_gloss": "heart-etc-worship",
+    "grounds": "compound indicating worship beginning with the heart"
+   },
+   {
+    "surface": "candana+akṣata+pūspa+dhūpa+dipa+naivedya+ādikaṃ",
+    "quick_gloss": "sandal-unbroken-rice-flower-incense-lamp-food-offering-etc",
+    "grounds": "compound listing ritual offerings"
+   },
+   {
+    "surface": "datvā",
+    "quick_gloss": "having-given",
+    "grounds": "absolutive expressing prior action"
+   },
+   {
+    "surface": "japya",
+    "quick_gloss": "to-be-recited",
+    "grounds": "gerundive indicating required recitation"
+   },
+   {
+    "surface": "stotra",
+    "quick_gloss": "hymn",
+    "grounds": "object of recitation"
+   }
+  ]
+ },
+ {
+  "verse_id": "mukta-m00407-p01-v2",
+  "song": "mukta-m00407-p01",
+  "verse": 2,
+  "quick_english": "For Tumburesvari, perform invocation and related acts beginning with the southeast and ending with the northeast; then perform water-offering worship. Om, invocation beginning with Anantaya and so forth.",
+  "quick_english_source": "manual",
+  "tokens": [
+   {
+    "surface": "tuṃvureśvarīya",
+    "quick_gloss": "for-tumburesvari",
+    "grounds": "address or dedication to Tumburesvari; form as given"
+   },
+   {
+    "surface": "āgnaya+ādi",
+    "quick_gloss": "beginning-with-southeast-etc",
+    "grounds": "compound indicating directional sequence starting from southeast"
+   },
+   {
+    "surface": "īśāna+antaṃ",
+    "quick_gloss": "ending-with-northeast",
+    "grounds": "compound indicating directional sequence ending at northeast"
+   },
+   {
+    "surface": "āvāhana+ādī",
+    "quick_gloss": "invocation-etc",
+    "grounds": "compound indicating invocation and related acts"
+   },
+   {
+    "surface": "tato+sala+pūjā",
+    "quick_gloss": "then-water-offering-worship",
+    "grounds": "compound indicating subsequent worship with water offering; 'sala' form as given"
+   },
+   {
+    "surface": "oṃ",
+    "quick_gloss": "om",
+    "grounds": "sacred syllable; mantra seed"
+   },
+   {
+    "surface": "ānaṃtāya+tya+ādi",
+    "quick_gloss": "beginning-with-anantaya-etc",
+    "grounds": "compound indicating sequence beginning with Anantaya; internal form as given"
+   },
+   {
+    "surface": "āvāhanā",
+    "quick_gloss": "invocation",
+    "grounds": "ritual act of summoning"
+   }
+  ]
+ }
 ]

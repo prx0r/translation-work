@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 243,
- "question": "Should engagement in this path be doubted when other views claim equal results?",
+ "question": "What multipliers apply to recitation for vaiśya and śūdra practitioners?",
  "premises": [
-  "Other views may claim equal fruits",
-  "Claims of equality can cause doubt",
-  "This path's basis removes such doubt"
+  "A vaiśya practitioner is assigned a fourfold measure.",
+  "A śūdra practitioner is assigned a fivefold measure.",
+  "These are comparative multipliers for recitation."
  ],
- "inference": "Therefore engagement in this path is not to be doubted, even if other views claim equal results.",
- "uncertainties": [],
- "plain_english": "Even if other views claim equal results, engagement in this path is not to be doubted."
+ "inference": "Recitation is four times for a vaiśya and five times for a śūdra.",
+ "uncertainties": [
+  "The baseline quantity being multiplied is implied from context."
+ ],
+ "plain_english": "For a vaiśya it is four times, and for a śūdra five times."
 }

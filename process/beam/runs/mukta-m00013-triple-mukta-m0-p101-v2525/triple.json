@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "pūrvabhādrapadā",
+     "gloss": "in-pūrvabhādrapadā",
+     "grounds": "locative of the lunar mansion name Pūrvabhādrapadā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "yoge",
+     "gloss": "in-conjunction",
+     "grounds": "locative of yoga indicating an astrological conjunction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svātyāṃ",
+     "gloss": "in-svātī",
+     "grounds": "locative of the lunar mansion name Svātī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "maṅgala",
+     "gloss": "tuesday",
+     "grounds": "first member of compound denoting the day of Mars",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāsare",
+     "gloss": "on-day",
+     "grounds": "locative of vāsara in compound maṅgala-vāsara",
+     "morph": "m.loc.sg; maṅgala+tatpuruṣa"
+    }
+   ],
+   "question": "Which lunar mansions and weekday qualify as auspicious occasions for the prescribed rite?",
+   "premises": [
+    "Pūrvabhādrapadā in conjunction is named as a suitable timing.",
+    "The lunar mansion Svātī is named as a suitable timing.",
+    "Tuesday is named as the suitable weekday."
+   ],
+   "inference": "These astrological conditions constitute additional valid occasions for the prescribed action.",
+   "uncertainties": [
+    "The exact astrological sense of yoge with pūrvabhādrapadā depends on broader ritual context."
+   ],
+   "plain_english": "Or when Pūrvabhādrapadā is in conjunction, or in Svātī, on a Tuesday."
+  }
+ ]
+}

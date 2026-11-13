@@ -3,28 +3,33 @@
   "verse_id": "mukta-m0-p02-v26",
   "song": "mukta-m0-p02",
   "verse": 26,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "One should abandon initiation, exposition, and lordship in the presence of the guru.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "dīkṣā",
-    "quick_gloss": "initiation-explanation"
+    "quick_gloss": "initiation",
+    "grounds": "object of abandonment"
    },
    {
     "surface": "vyākhyāṃ",
-    "quick_gloss": "and-exposition"
+    "quick_gloss": "exposition",
+    "grounds": "object of abandonment"
    },
    {
     "surface": "prabhutvañca",
-    "quick_gloss": "and-lordship"
+    "quick_gloss": "and-lordship",
+    "grounds": "prabhutvam + ca; internal sandhi noted"
    },
    {
     "surface": "guroragre",
-    "quick_gloss": "in-front-of-guru"
+    "quick_gloss": "before-guru",
+    "grounds": "guroḥ + agre; locative context"
    },
    {
     "surface": "parityajet",
-    "quick_gloss": "one-should-abandon"
+    "quick_gloss": "one-should-abandon",
+    "grounds": "injunction to renounce"
    }
   ]
  },
@@ -32,37 +37,43 @@
   "verse_id": "mukta-m0-p02-v27",
   "song": "mukta-m0-p02",
   "verse": 27,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Having become a disciple, one should never act together with the guru.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negation"
    },
    {
     "surface": "kuryād",
-    "quick_gloss": "one-should-do"
+    "quick_gloss": "one-should-do",
+    "grounds": "prohibited action"
    },
    {
     "surface": "guruṇā",
-    "quick_gloss": "with-guru"
+    "quick_gloss": "with-guru",
+    "grounds": "companion in action"
    },
    {
     "surface": "sārddhaṃ",
-    "quick_gloss": "together"
+    "quick_gloss": "together",
+    "grounds": "accompaniment"
    },
    {
     "surface": "śiṣyo",
-    "quick_gloss": "having-become-disciple"
+    "quick_gloss": "disciple",
+    "grounds": "subject in disciple role"
    },
    {
     "surface": "bhūtvā",
     "quick_gloss": "having-become",
-    "grounds": "prior action"
+    "grounds": "prior state"
    },
    {
     "surface": "kadācana",
-    "quick_gloss": "ever"
+    "quick_gloss": "ever",
+    "grounds": "universal temporal prohibition"
    }
   ]
  },
@@ -70,32 +81,38 @@
   "verse_id": "mukta-m0-p02-v28",
   "song": "mukta-m0-p02",
   "verse": 28,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Because he gives identity with Śiva, derived from the syllable u, he is remembered as the guru.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "ukārāc",
-    "quick_gloss": "from-syllable-u"
+    "quick_gloss": "from-syllable-u",
+    "grounds": "ukārāt; etymological basis"
    },
    {
     "surface": "chivatādātmyaṃ",
-    "quick_gloss": "identity-with-śiva"
+    "quick_gloss": "identity-with-śiva",
+    "grounds": "śiva-tādātmyam; internal sandhi noted"
    },
    {
     "surface": "dadyād",
-    "quick_gloss": "he-gives"
+    "quick_gloss": "he-gives",
+    "grounds": "bestowal by guru"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "marks explanation"
    },
    {
     "surface": "guruḥ",
-    "quick_gloss": "guru"
+    "quick_gloss": "guru",
+    "grounds": "subject defined"
    },
    {
     "surface": "smṛtaḥ",
-    "quick_gloss": "is-remembered"
+    "quick_gloss": "is-remembered",
+    "grounds": "traditional designation"
    }
   ]
  },
@@ -103,24 +120,28 @@
   "verse_id": "mukta-m0-p02-v29",
   "song": "mukta-m0-p02",
   "verse": 29,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "He is called guru because he removes darkness.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "andhakāranirodhitvād",
-    "quick_gloss": "because-of-removing-darkness"
+    "quick_gloss": "because-of-removing-darkness",
+    "grounds": "andhakāra-nirodhitvāt; causal etymology"
    },
    {
     "surface": "gurur",
-    "quick_gloss": "guru"
+    "quick_gloss": "guru",
+    "grounds": "term being defined"
    },
    {
     "surface": "ity",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "marks designation"
    },
    {
     "surface": "abhidhīyate",
-    "quick_gloss": "is-called"
+    "quick_gloss": "is-called",
+    "grounds": "verbal designation"
    }
   ]
  },
@@ -128,32 +149,38 @@
   "verse_id": "mukta-m0-p02-v30",
   "song": "mukta-m0-p02",
   "verse": 30,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "In the Kulārṇava, a householder who knows the meaning of all scriptures is called a guru.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "kulārṇave",
-    "quick_gloss": "in-kulārṇava"
+    "quick_gloss": "in-kulārṇava",
+    "grounds": "textual source citation"
    },
    {
     "surface": "sarvaśātrārthavettā",
-    "quick_gloss": "knower-of-meaning-of-all-śāstras"
+    "quick_gloss": "knower-of-all-scripture-meaning",
+    "grounds": "sarva-śāstra-artha-vettā; qualification"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connects qualifications"
    },
    {
     "surface": "gṛhastho",
-    "quick_gloss": "householder"
+    "quick_gloss": "householder",
+    "grounds": "social status"
    },
    {
     "surface": "gurur",
-    "quick_gloss": "guru"
+    "quick_gloss": "guru",
+    "grounds": "role affirmed"
    },
    {
     "surface": "ucyate",
-    "quick_gloss": "is-called"
+    "quick_gloss": "is-called",
+    "grounds": "authoritative statement"
    }
   ]
  },
@@ -161,36 +188,43 @@
   "verse_id": "mukta-m0-p02-v31",
   "song": "mukta-m0-p02",
   "verse": 31,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "A householder may serve as preceptor in rites for the gods, for the ancestors, and in other contexts.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "daive",
-    "quick_gloss": "in-divine-rite"
+    "quick_gloss": "in-divine-rite",
+    "grounds": "ritual context"
    },
    {
     "surface": "pitre'",
-    "quick_gloss": "in-ancestral-rite"
+    "quick_gloss": "in-ancestral-rite",
+    "grounds": "pitrye; internal sandhi/apocope noted"
    },
    {
     "surface": "rimitre",
-    "quick_gloss": "and-for-enemy"
+    "quick_gloss": "and-for-enemy",
+    "grounds": "rimitre; reading uncertain, possibly ripu/mitra context"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connects contexts"
    },
    {
     "surface": "gṛhastho",
-    "quick_gloss": "householder"
+    "quick_gloss": "householder",
+    "grounds": "subject"
    },
    {
     "surface": "deśiko",
-    "quick_gloss": "preceptor"
+    "quick_gloss": "preceptor",
+    "grounds": "role in rites"
    },
    {
     "surface": "bhavet",
-    "quick_gloss": "should-be"
+    "quick_gloss": "should-be",
+    "grounds": "prescriptive role"
    }
   ]
  },
@@ -198,44 +232,53 @@
   "verse_id": "mukta-m0-p02-v32",
   "song": "mukta-m0-p02",
   "verse": 32,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "For him there would never be success, neither through mantras nor through worship of the gods.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "tasya",
-    "quick_gloss": "of-him"
+    "quick_gloss": "of-him",
+    "grounds": "refers to one lacking proper relation"
    },
    {
     "surface": "tu",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "emphasis"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negation repeated"
    },
    {
     "surface": "kadācid",
-    "quick_gloss": "ever"
+    "quick_gloss": "ever",
+    "grounds": "universal negation in time"
    },
    {
     "surface": "bhavet",
-    "quick_gloss": "would-be"
+    "quick_gloss": "would-be",
+    "grounds": "potential result denied"
    },
    {
     "surface": "siddhir",
-    "quick_gloss": "success"
+    "quick_gloss": "success",
+    "grounds": "spiritual accomplishment"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negation repeated"
    },
    {
     "surface": "mantrair",
-    "quick_gloss": "by-mantras"
+    "quick_gloss": "by-mantras",
+    "grounds": "means denied"
    },
    {
     "surface": "daivapūjanaiḥ",
-    "quick_gloss": "by-worship-of-gods"
+    "quick_gloss": "by-worship-of-gods",
+    "grounds": "daiva-pūjanaiḥ; means denied"
    }
   ]
  },
@@ -243,32 +286,38 @@
   "verse_id": "mukta-m0-p02-v33",
   "song": "mukta-m0-p02",
   "verse": 33,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Even if one is situated only a krośa away, one should bow to the guru every day.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "krośamātra",
-    "quick_gloss": "at-distance-of-krośa"
+    "quick_gloss": "at-distance-of-krośa",
+    "grounds": "krośa-mātra; measure of distance"
    },
    {
     "surface": "sthito",
-    "quick_gloss": "situated"
+    "quick_gloss": "situated",
+    "grounds": "location of disciple"
    },
    {
     "surface": "bhūtvā",
-    "quick_gloss": "having-become"
+    "quick_gloss": "having-become",
+    "grounds": "condition"
    },
    {
     "surface": "guruṃ",
-    "quick_gloss": "guru"
+    "quick_gloss": "guru",
+    "grounds": "object of reverence"
    },
    {
     "surface": "pratidinaṃ",
-    "quick_gloss": "every-day"
+    "quick_gloss": "every-day",
+    "grounds": "daily obligation"
    },
    {
     "surface": "namet",
-    "quick_gloss": "one-should-bow"
+    "quick_gloss": "one-should-bow",
+    "grounds": "prescribed reverence"
    }
   ]
  },
@@ -276,20 +325,23 @@
   "verse_id": "mukta-m0-p02-v34",
   "song": "mukta-m0-p02",
   "verse": 34,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "During the northern course of the sun, it should be done once.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "ekadhā",
-    "quick_gloss": "in-one-way"
+    "quick_gloss": "in-one-way",
+    "grounds": "manner or frequency"
    },
    {
     "surface": "uttarāyaṇe",
-    "quick_gloss": "in-northern-course-of-sun"
+    "quick_gloss": "in-northern-course",
+    "grounds": "uttara-ayaṇe; solar period"
    },
    {
     "surface": "karttavyam",
-    "quick_gloss": "should-be-done"
+    "quick_gloss": "should-be-done",
+    "grounds": "prescribed action"
    }
   ]
  },
@@ -297,24 +349,28 @@
   "verse_id": "mukta-m0-p02-v35",
   "song": "mukta-m0-p02",
   "verse": 35,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Of a younger brother, or of one who has resorted to the side of an enemy.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "sodarasya",
-    "quick_gloss": "of-brother"
+    "quick_gloss": "of-brother",
+    "grounds": "potential candidate"
    },
    {
     "surface": "kaniṣṭhasya",
-    "quick_gloss": "of-younger"
+    "quick_gloss": "of-younger",
+    "grounds": "qualifies brother"
    },
    {
     "surface": "vairipakṣāśritasya",
-    "quick_gloss": "of-one-resorting-to-enemy-side"
+    "quick_gloss": "of-one-resorting-to-enemy-side",
+    "grounds": "vairi-pakṣa-āśritasya; disqualifying association"
    },
    {
     "surface": "vā",
-    "quick_gloss": "or"
+    "quick_gloss": "or",
+    "grounds": "alternative case"
    }
   ]
  },
@@ -322,32 +378,38 @@
   "verse_id": "mukta-m0-p02-v36",
   "song": "mukta-m0-p02",
   "verse": 36,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Initiation of a forest dweller or of one living in seclusion is not a bestower of auspiciousness.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "vanavāsinaḥ",
-    "quick_gloss": "of-forest-dweller"
+    "quick_gloss": "of-forest-dweller",
+    "grounds": "vana-vāsinaḥ; ascetic context"
    },
    {
     "surface": "viviktāśramiṇo",
-    "quick_gloss": "of-one-in-secluded-stage"
+    "quick_gloss": "of-one-in-secluded-stage",
+    "grounds": "vivikta-āśramiṇaḥ; secluded life"
    },
    {
     "surface": "dīkṣā",
-    "quick_gloss": "initiation"
+    "quick_gloss": "initiation",
+    "grounds": "subject of evaluation"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negation"
    },
    {
     "surface": "sā",
-    "quick_gloss": "that"
+    "quick_gloss": "that",
+    "grounds": "refers to initiation"
    },
    {
     "surface": "kalyāṇadāyikā",
-    "quick_gloss": "bestower-of-auspiciousness"
+    "quick_gloss": "bestower-of-auspiciousness",
+    "grounds": "kalyāṇa-dāyikā; beneficial result denied"
    }
   ]
  },
@@ -355,44 +417,53 @@
   "verse_id": "mukta-m0-p02-v37",
   "song": "mukta-m0-p02",
   "verse": 37,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "One should not initiate a daughter or a son, and likewise a brother should not initiate a brother.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "sutām",
-    "quick_gloss": "daughter"
+    "quick_gloss": "daughter",
+    "grounds": "potential initiate"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "prohibition"
    },
    {
     "surface": "putrañca",
-    "quick_gloss": "son"
+    "quick_gloss": "and-son",
+    "grounds": "putram + ca; potential initiate"
    },
    {
     "surface": "tathā",
-    "quick_gloss": "likewise"
+    "quick_gloss": "likewise",
+    "grounds": "extends prohibition"
    },
    {
     "surface": "bhrātā",
-    "quick_gloss": "brother"
+    "quick_gloss": "brother",
+    "grounds": "initiator in this case"
    },
    {
     "surface": "bhrātaraṃ",
-    "quick_gloss": "brother"
+    "quick_gloss": "brother",
+    "grounds": "potential initiate"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "prohibition"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connects prohibitions"
    },
    {
     "surface": "dīkṣayet",
-    "quick_gloss": "should-initiate"
+    "quick_gloss": "should-initiate",
+    "grounds": "prohibited act"
    }
   ]
  },
@@ -400,16 +471,18 @@
   "verse_id": "mukta-m0-p02-v38",
   "song": "mukta-m0-p02",
   "verse": 38,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "This is because of the statement that it pollutes.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "dūṣyatīti",
-    "quick_gloss": "because-it-pollutes"
+    "quick_gloss": "because-it-pollutes-thus",
+    "grounds": "dūṣyati + iti; reason stated"
    },
    {
     "surface": "vacanāt",
-    "quick_gloss": "because-of-statement"
+    "quick_gloss": "because-of-statement",
+    "grounds": "scriptural authority"
    }
   ]
  },
@@ -417,24 +490,28 @@
   "verse_id": "mukta-m0-p02-v39",
   "song": "mukta-m0-p02",
   "verse": 39,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "It may also be so in the material context.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "syād",
-    "quick_gloss": "may-be"
+    "quick_gloss": "may-be",
+    "grounds": "possible case"
    },
    {
     "surface": "bhautike'",
-    "quick_gloss": "in-material"
+    "quick_gloss": "in-material",
+    "grounds": "bhautike; internal sandhi/apocope noted"
    },
    {
     "surface": "pi",
-    "quick_gloss": "also"
+    "quick_gloss": "also",
+    "grounds": "extension to another case"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connective"
    }
   ]
  },
@@ -442,36 +519,43 @@
   "verse_id": "mukta-m0-p02-v40",
   "song": "mukta-m0-p02",
   "verse": 40,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "O beloved, if one obtains such an opportunity, one should then initiate, having set aside consideration of a guru.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "labhet",
-    "quick_gloss": "one-may-obtain"
+    "quick_gloss": "one-may-obtain",
+    "grounds": "condition of obtaining"
    },
    {
     "surface": "priye",
-    "quick_gloss": "o-beloved"
+    "quick_gloss": "o-beloved",
+    "grounds": "vocative address"
    },
    {
     "surface": "tadaiva",
-    "quick_gloss": "then-indeed"
+    "quick_gloss": "then-indeed",
+    "grounds": "tadā + eva; immediate timing"
    },
    {
     "surface": "tāntu",
-    "quick_gloss": "him"
+    "quick_gloss": "him",
+    "grounds": "tām + tu; object of initiation, reading uncertain"
    },
    {
     "surface": "dīkṣeta",
-    "quick_gloss": "one-should-initiate"
+    "quick_gloss": "one-should-initiate",
+    "grounds": "prescribed action"
    },
    {
     "surface": "tyaktvā",
-    "quick_gloss": "having-abandoned"
+    "quick_gloss": "having-abandoned",
+    "grounds": "prior renunciation"
    },
    {
     "surface": "guruvicāraṇam",
-    "quick_gloss": "consideration-of-guru"
+    "quick_gloss": "consideration-of-guru",
+    "grounds": "guru-vicāraṇam; usual scrutiny set aside"
    }
   ]
  },
@@ -479,24 +563,28 @@
   "verse_id": "mukta-m0-p02-v41",
   "song": "mukta-m0-p02",
   "verse": 41,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "The expiation, everywhere, is the recitation of ten thousand Sāvitrī, as seen in scripture.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "prāyaścattantu",
-    "quick_gloss": "expiation"
+    "quick_gloss": "expiation-indeed",
+    "grounds": "prāyaścittam + tu; remedial act"
    },
    {
     "surface": "ayutasāvitrījapaḥ",
-    "quick_gloss": "recitation-of-ten-thousand-sāvitrī"
+    "quick_gloss": "recitation-of-ten-thousand-sāvitrī",
+    "grounds": "ayuta-sāvitrī-japaḥ; specified expiation"
    },
    {
     "surface": "sarvatra",
-    "quick_gloss": "everywhere"
+    "quick_gloss": "everywhere",
+    "grounds": "general applicability"
    },
    {
     "surface": "darśanāt",
-    "quick_gloss": "because-of-seeing"
+    "quick_gloss": "because-of-seeing",
+    "grounds": "based on scriptural observation"
    }
   ]
  },
@@ -504,24 +592,28 @@
   "verse_id": "mukta-m0-p02-v42",
   "song": "mukta-m0-p02",
   "verse": 42,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Śaṅkha says: by recitation of ten thousand, all sins are destroyed.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "śaṅkha",
-    "quick_gloss": "śaṅkha"
+    "quick_gloss": "śaṅkha",
+    "grounds": "authority cited"
    },
    {
     "surface": ":",
-    "quick_gloss": ":"
+    "quick_gloss": ":",
+    "grounds": "punctuation marker"
    },
    {
     "surface": "daśasāhasryajāpena",
-    "quick_gloss": "by-recitation-of-ten-thousand"
+    "quick_gloss": "by-recitation-of-ten-thousand",
+    "grounds": "daśa-sāhasrya-jāpena; means of purification"
    },
    {
     "surface": "sarvakalmaṣanāśinī",
-    "quick_gloss": "destroyer-of-all-sins"
+    "quick_gloss": "destroyer-of-all-sins",
+    "grounds": "sarva-kalmaṣa-nāśinī; effect of recitation"
    }
   ]
  },
@@ -529,20 +621,23 @@
   "verse_id": "mukta-m0-p02-v43",
   "song": "mukta-m0-p02",
   "verse": 43,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "One should give it to the eldest son, and so forth.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "jyeṣṭhaputrāya",
-    "quick_gloss": "to-eldest-son"
+    "quick_gloss": "to-eldest-son",
+    "grounds": "jyeṣṭha-putrāya; recipient"
    },
    {
     "surface": "dadyād",
-    "quick_gloss": "one-should-give"
+    "quick_gloss": "one-should-give",
+    "grounds": "prescribed transmission"
    },
    {
     "surface": "ityādi",
-    "quick_gloss": "and-so-forth"
+    "quick_gloss": "and-so-forth",
+    "grounds": "iti + ādi; indicates continuation"
    }
   ]
  },
@@ -550,32 +645,38 @@
   "verse_id": "mukta-m0-p02-v44",
   "song": "mukta-m0-p02",
   "verse": 44,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "When an eclipse occurs, it is a great pilgrimage occasion, and there is no fault anywhere.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "mahātrīrthaṃ",
-    "quick_gloss": "great-pilgrimage"
+    "quick_gloss": "great-pilgrimage",
+    "grounds": "mahā-tīrtham; sacred occasion/place"
    },
    {
     "surface": "uparāge",
-    "quick_gloss": "when-eclipse-occurs"
+    "quick_gloss": "when-eclipse-occurs",
+    "grounds": "eclipse occasion"
    },
    {
     "surface": "sati",
-    "quick_gloss": "being"
+    "quick_gloss": "being",
+    "grounds": "locative absolute condition"
    },
    {
     "surface": "sarvatra",
-    "quick_gloss": "everywhere"
+    "quick_gloss": "everywhere",
+    "grounds": "universal scope"
    },
    {
     "surface": "na",
-    "quick_gloss": "no"
+    "quick_gloss": "no",
+    "grounds": "negation of fault"
    },
    {
     "surface": "doṣaḥ",
-    "quick_gloss": "fault"
+    "quick_gloss": "fault",
+    "grounds": "ritual defect denied"
    }
   ]
  },
@@ -583,24 +684,28 @@
   "verse_id": "mukta-m0-p02-v45",
   "song": "mukta-m0-p02",
   "verse": 45,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "In the Vaiśampāyana-saṃhitā, there is a statement of Vyāsa addressed to Śaunaka.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "vaiśampāyanasaṃhitāyāṃ",
-    "quick_gloss": "in-vaiśampāyana-saṃhitā"
+    "quick_gloss": "in-vaiśampāyana-saṃhitā",
+    "grounds": "vaiśampāyana-saṃhitāyām; textual source"
    },
    {
     "surface": "śaunakaṃ",
-    "quick_gloss": "towards-śaunaka"
+    "quick_gloss": "towards-śaunaka",
+    "grounds": "addressee in dialogue"
    },
    {
     "surface": "prati",
-    "quick_gloss": "regarding"
+    "quick_gloss": "regarding",
+    "grounds": "marks address"
    },
    {
     "surface": "vyasavacanām",
-    "quick_gloss": "statement-of-vyāsa"
+    "quick_gloss": "statement-of-vyāsa",
+    "grounds": "vyāsa-vacanam; cited speech, form uncertain"
    }
   ]
  },
@@ -608,24 +713,28 @@
   "verse_id": "mukta-m0-p02-v46",
   "song": "mukta-m0-p02",
   "verse": 46,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "What is obtained in a dream or given by a woman is purified by consecration alone.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "svapnalabdhaṃ",
-    "quick_gloss": "obtained-in-dream"
+    "quick_gloss": "obtained-in-dream",
+    "grounds": "svapna-labdham; mode of acquisition"
    },
    {
     "surface": "striyādattaṃ",
-    "quick_gloss": "given-by-woman"
+    "quick_gloss": "given-by-woman",
+    "grounds": "striyā + dattam; mode of reception"
    },
    {
     "surface": "saṃskāreṇaiva",
-    "quick_gloss": "by-consecration-alone"
+    "quick_gloss": "by-consecration-alone",
+    "grounds": "saṃskāreṇa + eva; sole means of purification"
    },
    {
     "surface": "śudhyati",
-    "quick_gloss": "is-purified"
+    "quick_gloss": "is-purified",
+    "grounds": "ritual purification"
    }
   ]
  },
@@ -633,28 +742,33 @@
   "verse_id": "mukta-m0-p02-v47",
   "song": "mukta-m0-p02",
   "verse": 47,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "And in the case of the mother it is remembered as eightfold; this indeed pertains especially to a mantra served from the guru.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "mātuścā",
-    "quick_gloss": "and-of-mother"
+    "quick_gloss": "and-of-mother",
+    "grounds": "mātuḥ + ca; maternal case"
    },
    {
     "surface": "ṣṭaguṇāḥ",
-    "quick_gloss": "eightfold"
+    "quick_gloss": "eightfold",
+    "grounds": "aṣṭa-guṇāḥ; quantity or degree, initial sandhi noted"
    },
    {
     "surface": "smṛtāḥ",
-    "quick_gloss": "are-remembered"
+    "quick_gloss": "are-remembered",
+    "grounds": "traditional teaching"
    },
    {
     "surface": "idastu",
-    "quick_gloss": "this-indeed"
+    "quick_gloss": "this-indeed",
+    "grounds": "idam + tu; specification"
    },
    {
     "surface": "gurorupāsitamantraparam",
-    "quick_gloss": "pertaining-to-mantra-served-from-guru"
+    "quick_gloss": "pertaining-to-mantra-served-from-guru",
+    "grounds": "guroḥ-upāsita-mantra-param; refers to mantra received and served from guru"
    }
   ]
  },
@@ -662,24 +776,28 @@
   "verse_id": "mukta-m0-p02-v48",
   "song": "mukta-m0-p02",
   "verse": 48,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "In the Yoginī-tantra, by the force of syntactical unity, the word 'strī' refers to a widow.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "yoginītantre",
-    "quick_gloss": "in-yoginī-tantra"
+    "quick_gloss": "in-yoginī-tantra",
+    "grounds": "yoginī-tantre; textual source"
    },
    {
     "surface": "strīpadaṃ",
-    "quick_gloss": "word-strī"
+    "quick_gloss": "word-strī",
+    "grounds": "strī-padam; term under interpretation"
    },
    {
     "surface": "vidhavāparaṃ",
-    "quick_gloss": "referring-to-widow"
+    "quick_gloss": "referring-to-widow",
+    "grounds": "vidhavā-param; interpretive restriction"
    },
    {
     "surface": "ekavākyatābalāt",
-    "quick_gloss": "by-force-of-single-syntactical-connection"
+    "quick_gloss": "by-force-of-single-syntactical-connection",
+    "grounds": "eka-vākyatā-balāt; hermeneutic principle"
    }
   ]
  },
@@ -687,16 +805,18 @@
   "verse_id": "mukta-m0-p02-v49",
   "song": "mukta-m0-p02",
   "verse": 49,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "One becomes a resident of hell.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "nārakī",
-    "quick_gloss": "resident-of-hell"
+    "quick_gloss": "resident-of-hell",
+    "grounds": "state of punishment"
    },
    {
     "surface": "bhave",
-    "quick_gloss": "one-becomes"
+    "quick_gloss": "one-becomes",
+    "grounds": "resulting state"
    }
   ]
  },
@@ -704,32 +824,38 @@
   "verse_id": "mukta-m0-p02-v50",
   "song": "mukta-m0-p02",
   "verse": 50,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Having thrown it into that vessel and lifted it up, one should receive the mantra; such is the meaning.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "tatkalase",
-    "quick_gloss": "in-that-vessel"
+    "quick_gloss": "in-that-vessel",
+    "grounds": "Locative of the vessel previously indicated; refers to the ritual container."
    },
    {
     "surface": "prakṣipya",
-    "quick_gloss": "having-thrown"
+    "quick_gloss": "having-thrown",
+    "grounds": "Absolutive expressing prior action of placing something into the vessel."
    },
    {
     "surface": "uttolya",
-    "quick_gloss": "having-lifted"
+    "quick_gloss": "having-lifted",
+    "grounds": "Absolutive expressing subsequent action of raising the vessel."
    },
    {
     "surface": "mantraṃ",
-    "quick_gloss": "mantra"
+    "quick_gloss": "mantra",
+    "grounds": "Direct object of the prescribed act of receiving; sacred formula."
    },
    {
     "surface": "gṛhṇīyād",
-    "quick_gloss": "one-should-receive"
+    "quick_gloss": "one-should-receive",
+    "grounds": "Optative prescribing the ritual act of taking or receiving the mantra."
    },
    {
     "surface": "ityarthaḥ",
-    "quick_gloss": "thus-the-meaning"
+    "quick_gloss": "thus-the-meaning",
+    "grounds": "Concluding gloss indicating the intended sense of the instruction."
    }
   ]
  }

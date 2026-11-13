@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 245,
- "question": "How did Sadyojyoti present the two teachings previously revealed by Ruru?",
+ "question": "What is the intended meaning identified in this explanatory note?",
  "premises": [
-  "Ruru had revealed two teachings",
-  "Sadyojyoti received or knew that transmission",
-  "Sadyojyoti composed them in concise form"
+  "A term is being explained.",
+  "The explanation identifies the śrī seed.",
+  "The phrase marks this as the meaning."
  ],
- "inference": "Therefore Sadyojyoti composed those two teachings briefly.",
- "uncertainties": [],
- "plain_english": "But Sadyojyoti composed those two teachings in brief."
+ "inference": "The meaning indicated is the śrī seed.",
+ "uncertainties": [
+  "The antecedent term being explained is not present in this verse."
+ ],
+ "plain_english": "The meaning is the śrī seed."
 }

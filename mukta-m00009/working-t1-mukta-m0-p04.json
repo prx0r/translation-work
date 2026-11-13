@@ -9,15 +9,17 @@
    {
     "surface": "ca",
     "quick_gloss": "and",
-    "grounds": "conjunction"
+    "grounds": "connective particle continuing the argument"
    },
    {
     "surface": "asmābhiḥ",
-    "quick_gloss": "by-us"
+    "quick_gloss": "by-us",
+    "grounds": "agent of the statement in the commentary"
    },
    {
     "surface": "tattvaprakāśavṛttau",
-    "quick_gloss": "in-tattva-prakāśa+commentary"
+    "quick_gloss": "in-tattva-prakāśa-commentary",
+    "grounds": "compound tattva+prakāśa+vṛtti locating the cited discussion"
    }
   ]
  },
@@ -30,19 +32,23 @@
   "tokens": [
    {
     "surface": "dṛśyante",
-    "quick_gloss": "are-seen"
+    "quick_gloss": "are-seen",
+    "grounds": "verb indicating observed instances"
    },
    {
     "surface": "pudgalāḥ",
-    "quick_gloss": "souls"
+    "quick_gloss": "individual-selves",
+    "grounds": "pudgala refers to individual selves in this context"
    },
    {
     "surface": "kecit",
-    "quick_gloss": "some"
+    "quick_gloss": "some",
+    "grounds": "indefinite pronoun qualifying pudgalāḥ"
    },
    {
     "surface": "alpajñānakriyānvitāḥ",
-    "quick_gloss": "endowed-with+little+knowledge+and-action"
+    "quick_gloss": "endowed-with-little-knowledge-action",
+    "grounds": "compound alpa+jñāna+kriyā+anvita describing limited capacities"
    }
   ]
  },
@@ -55,23 +61,28 @@
   "tokens": [
    {
     "surface": "pudgalaḥ",
-    "quick_gloss": "soul"
+    "quick_gloss": "individual-self",
+    "grounds": "subject of the stated doctrine"
    },
    {
     "surface": "cetanaḥ",
-    "quick_gloss": "unconscious"
+    "quick_gloss": "conscious",
+    "grounds": "attribute ascribed to the individual self"
    },
    {
     "surface": "nityaḥ",
-    "quick_gloss": "eternal"
+    "quick_gloss": "eternal",
+    "grounds": "attribute denying temporal origin or destruction"
    },
    {
     "surface": "vikārarahitaḥ",
-    "quick_gloss": "devoid-of+modification"
+    "quick_gloss": "devoid-of-change",
+    "grounds": "compound vikāra+rahita denying modification"
    },
    {
     "surface": "mataḥ",
-    "quick_gloss": "is-considered"
+    "quick_gloss": "considered",
+    "grounds": "reports an accepted doctrinal view"
    }
   ]
  },
@@ -84,35 +95,43 @@
   "tokens": [
    {
     "surface": "siddham",
-    "quick_gloss": "established"
+    "quick_gloss": "established",
+    "grounds": "marks the claim as settled"
    },
    {
     "surface": "āgameṣu",
-    "quick_gloss": "in-scriptures"
+    "quick_gloss": "in-scriptures",
+    "grounds": "locates the teaching in authoritative texts"
    },
    {
     "surface": "śrūyate",
-    "quick_gloss": "is-heard"
+    "quick_gloss": "is-heard",
+    "grounds": "reports scriptural testimony"
    },
    {
     "surface": "iti+ataḥ",
-    "quick_gloss": "therefore"
+    "quick_gloss": "thus-therefore",
+    "grounds": "fused citation marker and conclusion particle"
    },
    {
     "surface": "asya",
-    "quick_gloss": "of-this"
+    "quick_gloss": "of-this",
+    "grounds": "refers back to the individual self"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negates the possibility of change"
    },
    {
     "surface": "vikāraḥ",
-    "quick_gloss": "modification"
+    "quick_gloss": "change",
+    "grounds": "modification or transformation under discussion"
    },
    {
     "surface": "saṃbhavati",
-    "quick_gloss": "is-possible"
+    "quick_gloss": "is-possible",
+    "grounds": "asserts impossibility when negated"
    }
   ]
  },
@@ -125,27 +144,33 @@
   "tokens": [
    {
     "surface": "tathā+eva",
-    "quick_gloss": "likewise"
+    "quick_gloss": "likewise-indeed",
+    "grounds": "fused particles extending the same reasoning"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "adds another case to the argument"
    },
    {
     "surface": "citiḥ",
-    "quick_gloss": "consciousness"
+    "quick_gloss": "consciousness",
+    "grounds": "first member of the pair discussed"
    },
    {
     "surface": "śaktiḥ",
-    "quick_gloss": "power"
+    "quick_gloss": "power",
+    "grounds": "second member of the pair discussed"
    },
    {
     "surface": "tayoḥ+api",
-    "quick_gloss": "of-those-two+also"
+    "quick_gloss": "of-those-two-also",
+    "grounds": "fused reference to both consciousness and power"
    },
    {
     "surface": "avikāriṇoḥ",
-    "quick_gloss": "unchanging"
+    "quick_gloss": "unchanging",
+    "grounds": "compound a+vikārin attributing absence of change to both"
    }
   ]
  },
@@ -158,39 +183,48 @@
   "tokens": [
    {
     "surface": "vikāritvāt",
-    "quick_gloss": "because-of-mutability"
+    "quick_gloss": "because-of-mutability",
+    "grounds": "states the reason for rejecting intrinsic variety"
    },
    {
     "surface": "ślo0 19",
-    "quick_gloss": "(verse-19)"
+    "quick_gloss": "verse-19",
+    "grounds": "textual reference marker as given"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "closes the cited reasoning"
    },
    {
     "surface": "ataḥ+eva",
-    "quick_gloss": "therefore"
+    "quick_gloss": "therefore-indeed",
+    "grounds": "fused particles drawing the conclusion"
    },
    {
     "surface": "tayoḥ",
-    "quick_gloss": "of-those-two"
+    "quick_gloss": "of-those-two",
+    "grounds": "refers to consciousness and power"
    },
    {
     "surface": "aupādhikam+eva",
-    "quick_gloss": "conditioned+indeed"
+    "quick_gloss": "conditioned-indeed",
+    "grounds": "compound aupādhika+eva qualifying the variety as due to limiting conditions"
    },
    {
     "surface": "vaicitryam",
-    "quick_gloss": "manifoldness"
+    "quick_gloss": "manifoldness",
+    "grounds": "the apparent diversity under explanation"
    },
    {
     "surface": "iti+āha",
-    "quick_gloss": "thus-says"
+    "quick_gloss": "thus-says",
+    "grounds": "fused citation and reporting verb"
    },
    {
     "surface": "tayorapīti",
-    "quick_gloss": "-"
+    "quick_gloss": "of-those-two-also-thus",
+    "grounds": "citation fragment as given in the text"
    }
   ]
  },
@@ -203,19 +237,23 @@
   "tokens": [
    {
     "surface": "saṃpṛktā",
-    "quick_gloss": "connected"
+    "quick_gloss": "connected",
+    "grounds": "describes the joining of consciousness and the individual self"
    },
    {
     "surface": "cit+aṇoḥ",
-    "quick_gloss": "of-conscious+atom"
+    "quick_gloss": "of-consciousness-individual-self",
+    "grounds": "compound cit+aṇu naming the two related principles"
    },
    {
     "surface": "yena",
-    "quick_gloss": "by-which"
+    "quick_gloss": "by-which",
+    "grounds": "relative pronoun indicating the means of connection"
    },
    {
     "surface": "māyā+ādi+artha+avalokane",
-    "quick_gloss": "in-perception-of+māyā+and-other+objects"
+    "quick_gloss": "in-seeing-māyā-and-other-objects",
+    "grounds": "compound māyā+ādi+artha+avalokana naming the sphere of perception"
    }
   ]
  },
@@ -228,31 +266,38 @@
   "tokens": [
    {
     "surface": "nāda+ākhyam",
-    "quick_gloss": "called-nāda"
+    "quick_gloss": "called-nāda",
+    "grounds": "compound nāda+ākhya naming the principle"
    },
    {
     "surface": "yat",
-    "quick_gloss": "which"
+    "quick_gloss": "which",
+    "grounds": "relative pronoun introducing the described principle"
    },
    {
     "surface": "param",
-    "quick_gloss": "supreme"
+    "quick_gloss": "supreme",
+    "grounds": "qualifies the principle as highest"
    },
    {
     "surface": "bījam",
-    "quick_gloss": "seed"
+    "quick_gloss": "seed",
+    "grounds": "metaphor for the source principle"
    },
    {
     "surface": "sarva+bhūreṣu",
-    "quick_gloss": "in-all+beings"
+    "quick_gloss": "in-all-beings",
+    "grounds": "compound sarva+bhūta indicating universal presence"
    },
    {
     "surface": "avasthitam",
-    "quick_gloss": "situated"
+    "quick_gloss": "situated",
+    "grounds": "states the abiding presence of the seed"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "closes the statement"
    }
   ]
  },
@@ -265,27 +310,33 @@
   "tokens": [
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negates the proposed cause"
    },
    {
     "surface": "karmaṇā",
-    "quick_gloss": "by-karma"
+    "quick_gloss": "by-karma",
+    "grounds": "instrumental cause under evaluation"
    },
    {
     "surface": "aṇoḥ",
-    "quick_gloss": "of-soul"
+    "quick_gloss": "of-individual-self",
+    "grounds": "aṇu refers to the individual self"
    },
    {
     "surface": "vaicitryam",
-    "quick_gloss": "manifoldness"
+    "quick_gloss": "manifoldness",
+    "grounds": "the diversity requiring explanation"
    },
    {
     "surface": "anapekṣeṇa",
-    "quick_gloss": "without-depending"
+    "quick_gloss": "without-depending",
+    "grounds": "compound an+apekṣa indicating absence of reliance on other factors"
    },
    {
     "surface": "jāyate",
-    "quick_gloss": "arises"
+    "quick_gloss": "arises",
+    "grounds": "verb of origination"
    }
   ]
  },
@@ -298,15 +349,18 @@
   "tokens": [
    {
     "surface": "pṛthivī+ādīnām",
-    "quick_gloss": "of-earth+and-others"
+    "quick_gloss": "of-earth-and-others",
+    "grounds": "compound pṛthivī+ādi referring to material elements and similar factors"
    },
    {
     "surface": "api",
-    "quick_gloss": "also"
+    "quick_gloss": "also",
+    "grounds": "extends the exclusion to these factors"
    },
    {
     "surface": "anupayogāt",
-    "quick_gloss": "because-of-non-application"
+    "quick_gloss": "because-of-non-application",
+    "grounds": "compound an+upayoga giving the reason for exclusion"
    }
   ]
  },
@@ -319,19 +373,23 @@
   "tokens": [
    {
     "surface": "karma+upabhogam",
-    "quick_gloss": "experience-of+karma"
+    "quick_gloss": "experience-of-karma",
+    "grounds": "compound karma+upabhoga naming the fruition of karma"
    },
    {
     "surface": "kurute",
-    "quick_gloss": "makes"
+    "quick_gloss": "makes",
+    "grounds": "verb indicating production or effecting"
    },
    {
     "surface": "vaicitryam",
-    "quick_gloss": "manifoldness"
+    "quick_gloss": "manifoldness",
+    "grounds": "the diversity produced in experience"
    },
    {
     "surface": "candana+ādayaḥ",
-    "quick_gloss": "sandalwood+and-others"
+    "quick_gloss": "sandalwood-and-others",
+    "grounds": "compound candana+ādi giving examples of experiential objects"
    }
   ]
  },
@@ -344,45 +402,53 @@
   "tokens": [
    {
     "surface": "satyam",
-    "quick_gloss": "true"
+    "quick_gloss": "true",
+    "grounds": "concedes the preceding point"
    },
    {
     "surface": "sādhana+vaicitrya+dvāreṇa",
-    "quick_gloss": "through-means-of+diversity-of+instruments"
+    "quick_gloss": "through-diversity-of-means",
+    "grounds": "compound sādhana+vaicitrya+dvāra indicating mediation by diverse instruments"
    },
    {
     "surface": "eva",
     "quick_gloss": "indeed",
-    "grounds": "emphasis"
+    "grounds": "emphasizes the mediated role"
    },
    {
     "surface": "karma",
-    "quick_gloss": "karma"
+    "quick_gloss": "karma",
+    "grounds": "the causal factor whose role is qualified"
    },
    {
     "surface": "phala+vaicitryam",
-    "quick_gloss": "diversity-of+fruit"
+    "quick_gloss": "diversity-of-fruit",
+    "grounds": "compound phala+vaicitrya naming varied results"
    },
    {
     "surface": "karoti",
-    "quick_gloss": "produces"
+    "quick_gloss": "produces",
+    "grounds": "verb asserting causal production"
    },
    {
     "surface": "na",
     "quick_gloss": "not",
-    "grounds": "negation"
+    "grounds": "negates exclusivity"
    },
    {
     "surface": "kevalam",
-    "quick_gloss": "merely"
+    "quick_gloss": "merely",
+    "grounds": "excludes karma as the sole cause"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "marks the conclusion"
    },
    {
     "surface": "avirodhaḥ",
-    "quick_gloss": "non-contradiction"
+    "quick_gloss": "non-contradiction",
+    "grounds": "states that the positions are compatible"
    }
   ]
  },
@@ -395,15 +461,18 @@
   "tokens": [
    {
     "surface": "pravṛttiḥ",
-    "quick_gloss": "activity"
+    "quick_gloss": "activity",
+    "grounds": "the engagement or movement of beings"
    },
    {
     "surface": "sarva+bhūtānām",
-    "quick_gloss": "of-all+beings"
+    "quick_gloss": "of-all-beings",
+    "grounds": "compound sarva+bhūta indicating universal scope"
    },
    {
     "surface": "tyāga+upādāna+kāraṇam",
-    "quick_gloss": "cause-of+rejection+and-acceptance"
+    "quick_gloss": "cause-of-rejection-and-acceptance",
+    "grounds": "compound tyāga+upādāna+kāraṇa explaining the basis of activity"
    }
   ]
  },
@@ -416,24 +485,28 @@
   "tokens": [
    {
     "surface": "bhūtānām",
-    "quick_gloss": "of-beings"
+    "quick_gloss": "of-beings",
+    "grounds": "refers to the beings whose activity is discussed"
    },
    {
     "surface": "pravṛttiḥ",
-    "quick_gloss": "activity"
+    "quick_gloss": "activity",
+    "grounds": "the same activity under consideration"
    },
    {
     "surface": "saṃbhavati",
-    "quick_gloss": "is-possible"
+    "quick_gloss": "is-possible",
+    "grounds": "asserts possibility under the stated condition"
    },
    {
     "surface": "na",
     "quick_gloss": "not",
-    "grounds": "negation"
+    "grounds": "negates the alternative"
    },
    {
     "surface": "anyathā",
-    "quick_gloss": "otherwise"
+    "quick_gloss": "otherwise",
+    "grounds": "indicates absence of the stated cause"
    }
   ]
  },
@@ -446,15 +519,18 @@
   "tokens": [
    {
     "surface": "śivānām",
-    "quick_gloss": "of-śivas"
+    "quick_gloss": "of-śivas",
+    "grounds": "refers to beings in a śiva state or class"
    },
    {
     "surface": "asama+aiśvarya+bhājām",
-    "quick_gloss": "possessing+unequal+sovereignty"
+    "quick_gloss": "possessing-unequal-sovereignty",
+    "grounds": "compound asama+aiśvarya+bhāj describing unequal lordship"
    },
    {
     "surface": "bhoga+adhikārayoḥ",
-    "quick_gloss": "in-enjoyment+and-authority"
+    "quick_gloss": "in-enjoyment-and-authority",
+    "grounds": "compound bhoga+adhikāra naming two domains of difference"
    }
   ]
  },
@@ -467,19 +543,23 @@
   "tokens": [
    {
     "surface": "prāhuḥ",
-    "quick_gloss": "they-say"
+    "quick_gloss": "they-say",
+    "grounds": "reports a stated view"
    },
    {
     "surface": "aparasya",
-    "quick_gloss": "of-the-other"
+    "quick_gloss": "of-the-other",
+    "grounds": "refers to an alternative case or party"
    },
    {
     "surface": "tatra",
-    "quick_gloss": "there"
+    "quick_gloss": "there",
+    "grounds": "locates the issue in that context"
    },
    {
     "surface": "pragama+asambhavāt",
-    "quick_gloss": "because-of-impossibility-of+occurrence"
+    "quick_gloss": "because-of-impossibility-of-occurrence",
+    "grounds": "compound pragama+asambhava giving the reason"
    }
   ]
  },
@@ -492,19 +572,23 @@
   "tokens": [
    {
     "surface": "binduḥ",
-    "quick_gloss": "bindu"
+    "quick_gloss": "bindu",
+    "grounds": "technical principle named directly"
    },
    {
     "surface": "eva",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "emphasizes exclusive identification"
    },
    {
     "surface": "vikalpa+ākhyām",
-    "quick_gloss": "called-vikalpa"
+    "quick_gloss": "called-vikalpa",
+    "grounds": "compound vikalpa+ākhyā naming the conceptual function"
    },
    {
     "surface": "savikalpaka+buddhiṣu",
-    "quick_gloss": "in-conceptual+cognitions"
+    "quick_gloss": "in-conceptual-cognitions",
+    "grounds": "compound savikalpaka+buddhi locating the function in conceptual awareness"
    }
   ]
  },
@@ -517,27 +601,33 @@
   "tokens": [
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negates the proposed identification"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "adds a further negation in the argument"
    },
    {
     "surface": "ayam",
-    "quick_gloss": "this"
+    "quick_gloss": "this",
+    "grounds": "demonstrative referring to the item under discussion"
    },
    {
     "surface": "bhāvanā+saṃjñaḥ",
-    "quick_gloss": "called-bhāvanā"
+    "quick_gloss": "called-bhāvanā",
+    "grounds": "compound bhāvanā+saṃjña naming the proposed category"
    },
    {
     "surface": "saṃskāraḥ",
-    "quick_gloss": "impression"
+    "quick_gloss": "impression",
+    "grounds": "latent trace proposed as the explanation"
    },
    {
     "surface": "adhyakṣa+bhāvataḥ",
-    "quick_gloss": "because-of-being+perceptible"
+    "quick_gloss": "because-of-being-perceptible",
+    "grounds": "compound adhyakṣa+bhāva giving the reason for rejection"
    }
   ]
  },
@@ -551,27 +641,32 @@
    {
     "surface": "na",
     "quick_gloss": "not",
-    "grounds": "negation"
+    "grounds": "negates the first alternative"
    },
    {
     "surface": "buddheḥ",
-    "quick_gloss": "of-intellect"
+    "quick_gloss": "of-intellect",
+    "grounds": "the faculty proposed as undergoing change"
    },
    {
     "surface": "pariṇāmaḥ",
-    "quick_gloss": "transformation"
+    "quick_gloss": "transformation",
+    "grounds": "real transformation under consideration"
    },
    {
     "surface": "vā",
-    "quick_gloss": "or"
+    "quick_gloss": "or",
+    "grounds": "introduces an alternative framing"
    },
    {
     "surface": "māyā+ūrdhvam+api",
-    "quick_gloss": "beyond-māyā+also"
+    "quick_gloss": "beyond-māyā-also",
+    "grounds": "compound māyā+ūrdhvam+api extending the domain beyond māyā"
    },
    {
     "surface": "sambhavāt",
-    "quick_gloss": "because-of-possibility"
+    "quick_gloss": "because-of-possibility",
+    "grounds": "gives the reason for rejecting limitation to intellect's transformation"
    }
   ]
  },
@@ -584,11 +679,13 @@
   "tokens": [
    {
     "surface": "savikalpaka+anubhavaḥ",
-    "quick_gloss": "conceptual+experience"
+    "quick_gloss": "conceptual-experience",
+    "grounds": "compound savikalpaka+anubhava naming determinate experience"
    },
    {
     "surface": "siddhaḥ",
-    "quick_gloss": "is-established"
+    "quick_gloss": "established",
+    "grounds": "asserts that such experience is accepted as real"
    }
   ]
  },
@@ -601,19 +698,23 @@
   "tokens": [
    {
     "surface": "tataḥ",
-    "quick_gloss": "therefore"
+    "quick_gloss": "therefore",
+    "grounds": "draws a consequence from the previous point"
    },
    {
     "surface": "sṛṣṭim",
-    "quick_gloss": "creation"
+    "quick_gloss": "creation",
+    "grounds": "the act of emanation or creation"
    },
    {
     "surface": "prakurute",
-    "quick_gloss": "undertakes"
+    "quick_gloss": "undertakes",
+    "grounds": "verb indicating initiation of creation"
    },
    {
     "surface": "savikalpaka+bodhavān",
-    "quick_gloss": "possessing+conceptual+cognition"
+    "quick_gloss": "possessing-conceptual-cognition",
+    "grounds": "compound savikalpaka+bodha+vat describing the agent of creation"
    }
   ]
  },
@@ -626,35 +727,43 @@
   "tokens": [
    {
     "surface": "māyā+kṣobha+katvam",
-    "quick_gloss": "agency-of-agitating+māyā"
+    "quick_gloss": "agency-of-agitating-māyā",
+    "grounds": "compound māyā+kṣobha+katva naming the role of stirring māyā"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negates attribution to Śiva in the stated way"
    },
    {
     "surface": "tu",
-    "quick_gloss": "but"
+    "quick_gloss": "but",
+    "grounds": "introduces a contrast or qualification"
    },
    {
     "surface": "śivasya",
-    "quick_gloss": "of-śiva"
+    "quick_gloss": "of-śiva",
+    "grounds": "the subject whose agency is qualified"
    },
    {
     "surface": "bindu+kṣobhavat",
-    "quick_gloss": "like-agitation-of+bindu"
+    "quick_gloss": "like-agitation-of-bindu",
+    "grounds": "compound bindu+kṣobha+vat used as a comparison"
    },
    {
     "surface": "nirvikalpaka+mātreṇa",
-    "quick_gloss": "by-non-conceptual+alone"
+    "quick_gloss": "by-non-conceptual-alone",
+    "grounds": "compound nirvikalpaka+mātra indicating mere non-conceptual awareness"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "marks the stated meaning"
    },
    {
     "surface": "bhāvaḥ",
-    "quick_gloss": "meaning"
+    "quick_gloss": "meaning",
+    "grounds": "summarizes the intended sense"
    }
   ]
  },
@@ -667,11 +776,13 @@
   "tokens": [
    {
     "surface": "anye",
-    "quick_gloss": "others"
+    "quick_gloss": "others",
+    "grounds": "refers to other teachers or thinkers"
    },
    {
     "surface": "vṛtti+pariṇāma+bheda+vāda+aviśāradāḥ",
-    "quick_gloss": "not-skilled-in+distinction-of+modification+and-transformation"
+    "quick_gloss": "not-skilled-in-distinction-of-modification-transformation",
+    "grounds": "compound vṛtti+pariṇāma+bheda+vāda+aviśārada criticizing lack of skill in that doctrinal distinction"
    }
   ]
  },
@@ -684,15 +795,18 @@
   "tokens": [
    {
     "surface": "guravaḥ",
-    "quick_gloss": "teachers"
+    "quick_gloss": "teachers",
+    "grounds": "the subject who establish an alternative view"
    },
    {
     "surface": "anyathā",
-    "quick_gloss": "otherwise"
+    "quick_gloss": "otherwise",
+    "grounds": "indicates a different explanation"
    },
    {
     "surface": "sādhayanti",
-    "quick_gloss": "establish"
+    "quick_gloss": "establish",
+    "grounds": "verb indicating doctrinal establishment"
    }
   ]
  },

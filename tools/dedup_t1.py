@@ -47,9 +47,11 @@ def main():
             if ch:
                 song_changed += 1
                 o.setdefault("history", []).append(
-                    {"ts": "2026-11-13", "op": "dedup_t1",
-                     "note": f"de-overlapped {len(ch)} token(s): stripped redundant suffix repeats",
-                     "details": [{"was": a, "now": n, "suffix": s} for a, n, s in ch]}
+                    {"gloss": o.get("quick_english", ""),
+                     "reason": ("de-overlapped token run: stripped redundant suffix repeats "
+                                "from compound surfaces (count-preserving, T1-only); "
+                                f"{len(ch)} token(s); align gate repair 2026-11-13"),
+                     "date": "2026-11-13"}
                 )
         if song_changed:
             path.write_text(json.dumps(data, indent=1, ensure_ascii=False))

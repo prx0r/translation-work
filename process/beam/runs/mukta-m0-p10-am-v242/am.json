@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p10",
  "verse": 242,
- "question": "What distinguishes the accomplishment and liberation attained through this Śaiva path?",
+ "question": "How is the recitation measure of a brahmin-devoted śūdra's wife determined?",
  "premises": [
-  "This path yields a distinct accomplishment",
-  "That accomplishment is free from further activity",
-  "The resulting liberation is surpassing"
+  "A śūdra devoted to a brahmin is considered.",
+  "His wife's recitation is compared to his.",
+  "The recitation is declared similar."
  ],
- "inference": "Therefore its accomplishment is free from activity and its liberation is surpassing.",
- "uncertainties": [],
- "plain_english": "Its accomplishment is free from activity, and its liberation is surpassing."
+ "inference": "The wife of a brahmin-devoted śūdra has a recitation measure similar to his.",
+ "uncertainties": [
+  "The exact referent of similarity depends on prior numerical rules."
+ ],
+ "plain_english": "For a śūdra devoted to a brahmin, his wife's recitation is similar."
 }

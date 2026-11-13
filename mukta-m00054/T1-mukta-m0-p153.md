@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[of-luminaries](tejasām) [even](api) [splendid](tejasvī) [twelve-souled](dvādaśa+ātman) [obeisance](namaḥ) [be](astu) [to-you](te)
+[of-luminaries](tejasām) [even](api) [radiant-one](tejasvī) [twelve](dvādaśa) + [souled](ātman) + [obeisance](namo) + [be](’stu) [to-you](te)
 
 ## mukta-m0-p153-v3802
-[to-lord](pataye) [of-hosts](gaṇānām) [of-luminaries](jyotiḥ) [to-lord](pataye) [of-day](dina+ādhi) [obeisance](namaḥ)
+[to-light](jyotir) + [multitudes](gaṇānām) + [lord](pataye) [to-day](dinā) + [lord](dhipataye) [obeisance](namaḥ)
 
 ## mukta-m0-p153-v3803
-[obeisance](namo) [obeisance](namaḥ) [thousand-rayed](sahasrāṃśo) [to-Āditya](ādityāya) [obeisance](namo) [obeisance](namaḥ)
+[obeisance](namo) [obeisance](namaḥ) [thousand](sahasrāṃ) + [rayed-one](śo) [to-Āditya](ādityāya) [obeisance](namo) [obeisance](namaḥ)
 
 ## mukta-m0-p153-v3804
-[obeisance](namaḥ) [to-awakener](prabodhāya) [of-lotuses](padma) [to-fierce-one](pracaṇḍāya) [obeisance](namaḥ) [be](astu) [to-you](te)
+[obeisance](namaḥ) [to-lotus](padma) + [awakener](prabodhāya) [to-fierce-one](pracaṇḍāya) [obeisance](namo) + [be](’stu) [to-you](te)
 
 ## mukta-m0-p153-v3805
-[to-luminous-one](bhāsvate) [to-devourer](bhakṣāya) [of-all](sarva) [to-terrible](raudrāya) [to-embodied-form](vapuṣe) [obeisance](namaḥ)
+[to-luminous-one](bhāsvate) [to-all](sarva) + [devourer](bhakṣāya) [to-terrible](raudrāya) [to-form](vapuṣe) [obeisance](namaḥ)
 
 ## mukta-m0-p153-v3806
-[to-slayer](ghnāya) [of-ingrates](kṛtaghna) [to-god](devāya) [to-lord](pataye) [of-luminaries](jyotiṣām) [obeisance](namaḥ)
+[to-ingrate](kṛtaghna) + [slayer](ghnāya) [to-god](devāya) [of-lights](jyotiṣām) + [lord](pataye) [obeisance](namaḥ)
 
 ## mukta-m0-p153-v3807
-[obeisance](namaḥ) [to-destroyer](abhinighnāya) [of-darkness](tamaḥ) [to-radiance](rucaye) [to-witness](sākṣiṇe) [of-the-world](loka)
+[obeisance](namas) + [to-darkness](tamo) + [destroyer](bhinighnāya) [to-splendor](rucaye) [to-world](loka) + [witness](sākṣiṇe)
 
 ## mukta-m0-p153-v3808
-[protects](pāyati) [this-one](eṣa) [burns](tapati) [this-one](eṣa) [rains](varṣati) [this-one](eṣa) [with-rays](gabhastibhiḥ)
+[protects](pāyaty) + [this-one](eṣa) [burns](tapaty) + [this-one](eṣa) [rains](varṣaty) + [this-one](eṣa) [with-rays](gabhastibhiḥ)
 
 ## mukta-m0-p153-v3809
-[this-one](eṣa) [and](ca) [indeed](eva) [fire-sacrifice](agnihotram) [and](ca) [and](ca) [indeed](eva) [fruit](phalam) [of-fire-sacrificers](agnihotriṇām)
+[this-one](eṣa) [and](ca) + [indeed](ivā) + [fire](gni) + [offering](hotrañ) + [and](ca) [fruit](phalañ) + [and](ca) + [indeed](ivā) + [of-fire-offerers](gnihotriṇām)
 
 ## mukta-m0-p153-v3810
-[which](yāni) [duties](kṛtyāni) [in-worlds](lokeṣu) [in-all](sarveṣu) [supreme-lord](parama+prabhuḥ)
+[which](yāni) [duties](kṛtyāni) [in-worlds](lokeṣu) [in-all](sarveṣu) [supreme](parama) + [lord](prabhuḥ)
 
 ## mukta-m0-p153-v3811
-[praising](kīrttayan) [man](puruṣaḥ) [any](kaścit) [not](na) [despairs](avasīdati) [O-Rāghava](rāghava)
+[praising](kīrttayan) + [person](puruṣaḥ) [any](kaścin) + [not](nā) + [despairs](vasīdati) [O-Rāghava](rāghava)
 
 ## mukta-m0-p153-v3812
-[p.-539](p.) [539)](539)) [this](etat) [thrice](tri+guṇitam) [having-recited](japtvā) [in-battles](yuddheṣu) [you-will-be-victorious](vijayiṣyase)
+[this](etat) + [thrice](tri) + [multiplied](guṇitañ) + [having-chanted](japtvā) [in-battles](yuddheṣu) [you-will-be-victorious](vijayiṣyase)
 
 ## mukta-m0-p153-v3813
-[thus](evam) [having-spoken](uktvā) [then](tataḥ) [Agastya](agastyaḥ) [went](jagāma) [he](sa) [as-he-had-come](yathā+āgatam)
+[thus](evam) + [having-spoken](uktvā) [then](tato) + [Agastya](’gastyo) [went](jagāma) [he](sa) [as](yathā) + [come](gatam)
 
 ## mukta-m0-p153-v3814
-[bore-in-mind](dhārayāmāsa) [very-pleased](su+prītaḥ) [Rāghava](rāghavaḥ) [of-disciplined-self](prayata+ātmavān)
+[retained](dhārayāmāsa) [very](su) + [pleased](prīto) [Rāghava](rāghavaḥ) [restrained](prayatā) + [souled](tmavān)
 
 ## mukta-m0-p153-v3815
-[thrice](triḥ) [having-sipped-water](ācamya) [pure](śuciḥ) [having-become](bhūtvā) [bow](dhanuḥ) [having-taken](ādāya) [valiant](vīryavān)
+[thrice](trir) + [having-sipped-water](ācamya) [pure](śucir) + [having-become](bbhūtvā) [bow](dhanur) + [having-taken](ādāya) [valiant-one](vīryavān)
 
 ## mukta-m0-p153-v3816
-[with-all-effort](sarva+yatnena) [with-great](mahatā) [engaged](ābṛtaḥ) [of-him](tasya) [in-slaying](vadhe) [became](abhavat)
+[with-all](sarva) + [effort](yatnena) [with-great](mahatā) + [engaged](bṛtas) + [in-his](tasya) [in-slaying](vadhe) + [became](’bhavat)
 
 ## mukta-m0-p153-v3817
-[destruction](saṅkṣaya) [of-lord](pati) [of-night-wanderers](niśicara) [having-known](viditvā) [gone-amid](madhya+gataḥ) [host-of-gods](sura+gaṇa) [speech](vacaḥ) [hasten](tvara) [thus](iti)
+[night-ranger](niśicara) + [lord](pati) + [destruction](saṅkṣaya) [having-known](viditvā) [god](sura) + [host](gaṇa) + [midst](madhya) + [gone](gato) [word](vacas) + [haste](tvareti)
 
 ## mukta-m0-p153-v3818
-[swift-as-wind](vāta+jūtaḥ) [who](yaḥ) [protects](abhirakṣati) [by-self](ātmanā) [people](prajāḥ) [nourished](pupoṣa) [in-many-ways](purudhā) [widely](vi) [shines](rājati)
+[wind](vāta) + [swift](jūto) [who](yo) [protects](.ābhirakṣati) [by-self](tmanā) [creatures](prajāḥ) [nourished](pupoṣa) [in-many-ways](purudhā) [shines-forth](vi) [rules](rājati)
 
 ## mukta-m0-p153-v3819
-[for-seeing](dṛśe) [for-all](viśvāya) [the-sun](sūryam)
+[for-seeing](dṛśe) [for-all](viśvāya) [sun](sūryam)
 
 ## mukta-m0-p153-v3820
 [you](tva) [O-Varuṇa](vvaruṇa) [see](paśyasi)
 
 ## mukta-m0-p153-v3821
-[with-sweetness](maddhvā) [sacrifice](yajñaṃ) [you-two-adorn](samañjāthe)
+[sweet](maddhvā) [sacrifice](yajñaṃ) [adorn-together](samañjāthe)
 
 ## mukta-m0-p153-v3822
-[westward](pratīcīna) [roaring](dhunim) [swift](āśum) [conquering](jayantam) [after](anu) [which](yāsu) [you-increase](varddhase)
+[westward](pratīcīna) [enclosure](vvṛjanan) + [milking](dohase) [roaring](dhunim) + [swift](āśuñ) + [conquering](jayantam) + [after](anu) [whom](yāsu) [you-grow](varddhase)
 
 ## mukta-m0-p153-v3823
-[this](imam) [at-confluence](saṅgame) [of-waters](apām) [of-sun](sūryasya) [like-child](śiśum) [na](na) [sages](viprāḥ) [with-thoughts](matibhīḥ) [praise](rihanti)
+[this](imam) + [work](apā) [in-assembly](saṅgame) [of-sun](sūryasya) [child](śiśun) + [not](na) [sages](viprā) [with-prayers](matibhī) [send-forth](rihanti)
 
 ## mukta-m0-p153-v3824
-[filled](āprāḥ) [heaven](dyāvā) [earth](pṛthivī) [atmosphere](antarikṣam) [sun](sūryaḥ) [soul](āatmā) [of-moving](jagataḥ) [and-of-stationary](tasthuṣaḥ) [and](ca)
+[filled](āprā) [heaven](dyāvā) [earth](pṛthivī) [atmosphere](.āntarikṣaṃ) [sun](sūrya) [soul](.āatmā) [of-moving](jagatas) + [and](tasthuṣaś) + [and](ca)
 
 ## mukta-m0-p153-v3825
-[p.-540](p.) [540)](540)) [also](api) [as](yathā) [youths](yuvānaḥ) [you-rejoice](matsathā) [us](naḥ) [all](viśvam) [world](jagat) [in-protection](abhipittve) [thought](manīṣā)
+[also](api) [as](yathā) [youths](yuvāno) [you-rejoice](matsathā) [for-us](no) [all](viśvañ) + [world](jagad) + [at-approach](abhipittve) [with-thought](manīṣā)

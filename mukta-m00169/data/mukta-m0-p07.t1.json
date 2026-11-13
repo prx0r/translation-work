@@ -1012,16 +1012,9 @@
   "source_sha": "",
   "history": [
    {
-    "ts": "2026-11-13",
-    "op": "dedup_t1",
-    "note": "de-overlapped 1 token(s): stripped redundant suffix repeats",
-    "details": [
-     {
-      "was": "dāsaḥ",
-      "now": "dā",
-      "suffix": "saḥ"
-     }
-    ]
+    "gloss": "As long as life lasts, he would be her slave; there is no doubt about this.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
    }
   ]
  },

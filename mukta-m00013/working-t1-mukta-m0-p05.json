@@ -3,28 +3,33 @@
   "verse_id": "mukta-m0-p05-v101",
   "song": "mukta-m0-p05",
   "verse": 101,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "For Kālikā and Tārā, the star-circle is remembered as bringing auspicious results.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "smṛtam",
-    "quick_gloss": "remembered"
+    "quick_gloss": "remembered",
+    "grounds": "past passive participle indicating traditional teaching"
    },
    {
     "surface": "kālikāyāḥ+ca",
-    "quick_gloss": "of-kālikā+and"
+    "quick_gloss": "of-kālikā+and",
+    "grounds": "compound with conjunction linking deities"
    },
    {
     "surface": "tārāyāḥ",
-    "quick_gloss": "of-tārā"
+    "quick_gloss": "of-tārā",
+    "grounds": "genitive relation to the circle"
    },
    {
     "surface": "tārā+cakraṃ",
-    "quick_gloss": "tārā-circle"
+    "quick_gloss": "star-circle",
+    "grounds": "compound naming the auspicious configuration"
    },
    {
     "surface": "śubha+āvaham",
-    "quick_gloss": "auspicious-bringing"
+    "quick_gloss": "auspicious-bringing",
+    "grounds": "compound describing beneficial effect"
    }
   ]
  },
@@ -32,12 +37,13 @@
   "verse_id": "mukta-m0-p05-v102",
   "song": "mukta-m0-p05",
   "verse": 102,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "This is taught by the best of sages.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "muni+sattamaiḥ",
-    "quick_gloss": "by-best-of-sages"
+    "quick_gloss": "by-best-of-sages",
+    "grounds": "compound indicating authoritative teachers"
    }
   ]
  },
@@ -45,33 +51,38 @@
   "verse_id": "mukta-m0-p05-v103",
   "song": "mukta-m0-p05",
   "verse": 103,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "And in the case of debt, by mere attainment, all accomplishment indeed arises.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "ṛṇe",
-    "quick_gloss": "in-debt"
+    "quick_gloss": "in-debt",
+    "grounds": "locative indicating a condition or state"
    },
    {
     "surface": "ca",
     "quick_gloss": "and",
-    "grounds": "connective particle"
+    "grounds": "conjunction adding a condition"
    },
    {
     "surface": "prāpti+mātreṇa",
-    "quick_gloss": "upon-attainment"
+    "quick_gloss": "by-mere-attainment",
+    "grounds": "compound expressing sufficiency of attainment"
    },
    {
     "surface": "sarvā+siddhiḥ",
-    "quick_gloss": "all-accomplishment"
+    "quick_gloss": "all-accomplishment",
+    "grounds": "compound denoting complete success"
    },
    {
     "surface": "tu",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "particle emphasizing the result"
    },
    {
     "surface": "jāyate",
-    "quick_gloss": "arises"
+    "quick_gloss": "arises",
+    "grounds": "verb stating the outcome"
    }
   ]
  },
@@ -79,28 +90,33 @@
   "verse_id": "mukta-m0-p05-v104",
   "song": "mukta-m0-p05",
   "verse": 104,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Having prepared a bed of darbha grass, one should place the disciple there.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "darbha+śayyāṃ",
-    "quick_gloss": "darbha-bed"
+    "quick_gloss": "darbha-grass-bed",
+    "grounds": "compound naming the prepared seat"
    },
    {
     "surface": "pariṣkṛtya",
-    "quick_gloss": "having-prepared"
+    "quick_gloss": "having-prepared",
+    "grounds": "absolutive indicating prior action"
    },
    {
     "surface": "śiṣyaṃ",
-    "quick_gloss": "disciple"
+    "quick_gloss": "disciple",
+    "grounds": "object of placement"
    },
    {
     "surface": "tatra",
-    "quick_gloss": "there"
+    "quick_gloss": "there",
+    "grounds": "locative adverb referring to the prepared place"
    },
    {
     "surface": "niveśayet",
-    "quick_gloss": "should-place"
+    "quick_gloss": "should-place",
+    "grounds": "optative prescribing ritual action"
    }
   ]
  },
@@ -108,12 +124,13 @@
   "verse_id": "mukta-m0-p05-v105",
   "song": "mukta-m0-p05",
   "verse": 105,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "This concerns the consecration of the disciple.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "śiṣya+abhimantraṇam",
-    "quick_gloss": "disciple-consecration"
+    "quick_gloss": "disciple-consecration",
+    "grounds": "compound naming the ritual act"
    }
   ]
  },
@@ -121,16 +138,18 @@
   "verse_id": "mukta-m0-p05-v106",
   "song": "mukta-m0-p05",
   "verse": 106,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "It is taken from the Yoginī Tantra and not from elsewhere.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "yoginī+tantrāt",
-    "quick_gloss": "from-yoginī-tantra"
+    "quick_gloss": "from-yoginī-tantra",
+    "grounds": "compound indicating the source text"
    },
    {
     "surface": "na+anyatra",
-    "quick_gloss": "not-elsewhere"
+    "quick_gloss": "not-elsewhere",
+    "grounds": "compound restricting the source"
    }
   ]
  },
@@ -138,24 +157,28 @@
   "verse_id": "mukta-m0-p05-v107",
   "song": "mukta-m0-p05",
   "verse": 107,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Thus, this sequence of monthly procedures always brings sorrow.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "duḥkha+pradaḥ",
-    "quick_gloss": "sorrow-giving"
+    "quick_gloss": "sorrow-giving",
+    "grounds": "compound describing a negative result"
    },
    {
     "surface": "nityam",
-    "quick_gloss": "always"
+    "quick_gloss": "always",
+    "grounds": "adverb indicating constant effect"
    },
    {
     "surface": "evam",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "adverb summarizing the procedure"
    },
    {
     "surface": "māsa+vidhi+kramaḥ",
-    "quick_gloss": "month-procedure-sequence"
+    "quick_gloss": "month-procedure-sequence",
+    "grounds": "compound naming the ordered monthly rule"
    }
   ]
  },
@@ -163,24 +186,28 @@
   "verse_id": "mukta-m0-p05-v108",
   "song": "mukta-m0-p05",
   "verse": 108,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "On the second day knowledge arises, and on the third day one becomes pure.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "dvitīyāyāṃ",
-    "quick_gloss": "on-second-day"
+    "quick_gloss": "on-second-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "bhavet+jñānaṃ",
-    "quick_gloss": "becomes-knowledge"
+    "quick_gloss": "becomes-knowledge",
+    "grounds": "compound expressing arising of knowledge"
    },
    {
     "surface": "tṛtīyāyāṃ",
-    "quick_gloss": "on-third-day"
+    "quick_gloss": "on-third-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "śuciḥ+bhavet",
-    "quick_gloss": "pure-becomes"
+    "quick_gloss": "pure-becomes",
+    "grounds": "compound expressing attainment of purity"
    }
   ]
  },
@@ -188,28 +215,33 @@
   "verse_id": "mukta-m0-p05-v109",
   "song": "mukta-m0-p05",
   "verse": 109,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "On the sixth day there is loss of knowledge, and on the seventh day one obtains happiness.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "ṣaṣṭhyāṃ",
-    "quick_gloss": "on-sixth-day"
+    "quick_gloss": "on-sixth-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "jñāna+kṣayaḥ",
-    "quick_gloss": "knowledge-destruction"
+    "quick_gloss": "knowledge-destruction",
+    "grounds": "compound indicating loss of knowledge"
    },
    {
     "surface": "saukhyam",
-    "quick_gloss": "happiness"
+    "quick_gloss": "happiness",
+    "grounds": "result obtained on another day"
    },
    {
     "surface": "labhate",
-    "quick_gloss": "obtains"
+    "quick_gloss": "obtains",
+    "grounds": "verb stating attainment"
    },
    {
     "surface": "saptamī+dine",
-    "quick_gloss": "on-seventh-day"
+    "quick_gloss": "on-seventh-day",
+    "grounds": "compound specifying lunar day"
    }
   ]
  },
@@ -217,28 +249,33 @@
   "verse_id": "mukta-m0-p05-v110",
   "song": "mukta-m0-p05",
   "verse": 110,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "On the eighth day there is destruction of intellect, and on the ninth day there is destruction of the body.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "aṣṭamyāṃ",
-    "quick_gloss": "on-eighth-day"
+    "quick_gloss": "on-eighth-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "buddhi+nāśam",
-    "quick_gloss": "intellect-destruction"
+    "quick_gloss": "intellect-destruction",
+    "grounds": "compound indicating loss of intellect"
    },
    {
     "surface": "syāt",
-    "quick_gloss": "becomes"
+    "quick_gloss": "becomes",
+    "grounds": "optative expressing result"
    },
    {
     "surface": "navamyāṃ",
-    "quick_gloss": "on-ninth-day"
+    "quick_gloss": "on-ninth-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "vapuṣaḥ+kṣayaḥ",
-    "quick_gloss": "of-body-destruction"
+    "quick_gloss": "of-body-destruction",
+    "grounds": "compound indicating bodily decline"
    }
   ]
  },
@@ -246,24 +283,28 @@
   "verse_id": "mukta-m0-p05-v111",
   "song": "mukta-m0-p05",
   "verse": 111,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "On the tenth day there is royal fortune, and on the eleventh day one becomes pure.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "daśamyāṃ",
-    "quick_gloss": "on-tenth-day"
+    "quick_gloss": "on-tenth-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "rāja+saubhāgya",
-    "quick_gloss": "royal-fortune"
+    "quick_gloss": "royal-fortune",
+    "grounds": "compound indicating royal good fortune"
    },
    {
     "surface": "ekādaśyāṃ",
-    "quick_gloss": "on-eleventh-day"
+    "quick_gloss": "on-eleventh-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "śuciḥ+bhavet",
-    "quick_gloss": "pure-becomes"
+    "quick_gloss": "pure-becomes",
+    "grounds": "compound expressing attainment of purity"
    }
   ]
  },
@@ -271,28 +312,33 @@
   "verse_id": "mukta-m0-p05-v112",
   "song": "mukta-m0-p05",
   "verse": 112,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "On the twelfth day there is complete purity, and on the thirteenth day there is poverty.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "dvādaśyāṃ",
-    "quick_gloss": "on-twelfth-day"
+    "quick_gloss": "on-twelfth-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "sarva+śuddhiḥ",
-    "quick_gloss": "all-purity"
+    "quick_gloss": "all-purity",
+    "grounds": "compound indicating complete purification"
    },
    {
     "surface": "syāt",
-    "quick_gloss": "becomes"
+    "quick_gloss": "becomes",
+    "grounds": "optative expressing result"
    },
    {
     "surface": "trayodaśyām",
-    "quick_gloss": "on-thirteenth-day"
+    "quick_gloss": "on-thirteenth-day",
+    "grounds": "locative specifying lunar day"
    },
    {
     "surface": "daridratā",
-    "quick_gloss": "poverty"
+    "quick_gloss": "poverty",
+    "grounds": "negative outcome on the specified day"
    }
   ]
  },
@@ -300,24 +346,28 @@
   "verse_id": "mukta-m0-p05-v113",
   "song": "mukta-m0-p05",
   "verse": 113,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "There is an increase of dharma, and one should avoid non-study.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "dharma+vṛddhiḥ",
-    "quick_gloss": "dharma-increase"
+    "quick_gloss": "dharma-increase",
+    "grounds": "compound indicating growth of dharma"
    },
    {
     "surface": "syāt",
-    "quick_gloss": "becomes"
+    "quick_gloss": "becomes",
+    "grounds": "optative expressing result"
    },
    {
     "surface": "asvādhyāyam",
-    "quick_gloss": "self-study"
+    "quick_gloss": "non-study",
+    "grounds": "term indicating suspension of recitation or study"
    },
    {
     "surface": "vivarjayet",
-    "quick_gloss": "should-avoid"
+    "quick_gloss": "should-avoid",
+    "grounds": "optative prescribing avoidance"
    }
   ]
  },
@@ -325,16 +375,18 @@
   "verse_id": "mukta-m0-p05-v114",
   "song": "mukta-m0-p05",
   "verse": 114,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "A thunderous roar at twilight, an earthquake, and the falling of meteors are mentioned.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "sandhyā+garjita+nirghoṣa",
-    "quick_gloss": "twilight-thunder-roar"
+    "quick_gloss": "twilight-thunder-roar",
+    "grounds": "compound naming ominous twilight sound"
    },
    {
     "surface": "bhūkampa+ullakā+nipātanam",
-    "quick_gloss": "earthquake-meteor-falling"
+    "quick_gloss": "earthquake-meteor-falling",
+    "grounds": "compound listing portentous events"
    }
   ]
  },
@@ -342,12 +394,13 @@
   "verse_id": "mukta-m0-p05-v115",
   "song": "mukta-m0-p05",
   "verse": 115,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "This is stated in another Śaiva scripture.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "śaiva+āgama+antare",
-    "quick_gloss": "in-another-śaiva-āgama"
+    "quick_gloss": "in-another-śaiva-scripture",
+    "grounds": "compound indicating an alternative textual source"
    }
   ]
  },
@@ -355,24 +408,28 @@
   "verse_id": "mukta-m0-p05-v116",
   "song": "mukta-m0-p05",
   "verse": 116,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "In Kṛttikā one becomes unhappy, and in Rohiṇī one becomes a lord of speech.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "kṛttikāyāṃ",
-    "quick_gloss": "in-kṛttikā"
+    "quick_gloss": "in-kṛttikā",
+    "grounds": "locative specifying lunar mansion"
    },
    {
     "surface": "bhavet+duḥkhī",
-    "quick_gloss": "becomes-unhappy"
+    "quick_gloss": "becomes-unhappy",
+    "grounds": "compound expressing resulting sorrow"
    },
    {
     "surface": "rohiṇyāṃ",
-    "quick_gloss": "in-rohiṇī"
+    "quick_gloss": "in-rohiṇī",
+    "grounds": "locative specifying lunar mansion"
    },
    {
     "surface": "vāk+patiḥ+bhavet",
-    "quick_gloss": "lord-of-speech-becomes"
+    "quick_gloss": "lord-of-speech-becomes",
+    "grounds": "compound expressing attainment of eloquence or mastery of speech"
    }
   ]
  },
@@ -380,28 +437,33 @@
   "verse_id": "mukta-m0-p05-v117",
   "song": "mukta-m0-p05",
   "verse": 117,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "In Pūrva Phalgunī one obtains it, and there is no doubt.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "pūrva+phalgunyāṃ",
-    "quick_gloss": "in-pūrva-phalgunī"
+    "quick_gloss": "in-pūrva-phalgunī",
+    "grounds": "compound specifying lunar mansion"
    },
    {
     "surface": "prāpnoti",
-    "quick_gloss": "obtains"
+    "quick_gloss": "obtains",
+    "grounds": "verb stating attainment"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negation"
    },
    {
     "surface": "saṃśayaḥ",
-    "quick_gloss": "doubt"
+    "quick_gloss": "doubt",
+    "grounds": "assertion of certainty"
    }
   ]
  },
@@ -409,24 +471,28 @@
   "verse_id": "mukta-m0-p05-v118",
   "song": "mukta-m0-p05",
   "verse": 118,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "There is loss of sutra, and in Mūlā there is an increase of fame.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "sutra+hāniḥ",
-    "quick_gloss": "son-loss"
+    "quick_gloss": "thread-loss",
+    "grounds": "compound indicating loss; exact referent uncertain"
    },
    {
     "surface": "syāt",
-    "quick_gloss": "becomes"
+    "quick_gloss": "becomes",
+    "grounds": "optative expressing result"
    },
    {
     "surface": "mūlāyāṃ",
-    "quick_gloss": "in-mūlā"
+    "quick_gloss": "in-mūlā",
+    "grounds": "locative specifying lunar mansion"
    },
    {
     "surface": "kīrti+varddhanam",
-    "quick_gloss": "fame-increase"
+    "quick_gloss": "fame-increase",
+    "grounds": "compound indicating growth of fame"
    }
   ]
  },
@@ -434,28 +500,33 @@
   "verse_id": "mukta-m0-p05-v119",
   "song": "mukta-m0-p05",
   "verse": 119,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "There is happiness in Uttara Bhādra, and in Revatī there is an increase of fame.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "saukhyam",
-    "quick_gloss": "happiness"
+    "quick_gloss": "happiness",
+    "grounds": "favorable outcome"
    },
    {
     "surface": "ca+uttara+bhādre",
-    "quick_gloss": "and-in-uttara-bhādra"
+    "quick_gloss": "and-in-uttara-bhādra",
+    "grounds": "compound specifying lunar mansion with conjunction"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction linking mansions"
    },
    {
     "surface": "revatyāṃ",
-    "quick_gloss": "in-revatī"
+    "quick_gloss": "in-revatī",
+    "grounds": "locative specifying lunar mansion"
    },
    {
     "surface": "kīrti+varddhanam",
-    "quick_gloss": "fame-increase"
+    "quick_gloss": "fame-increase",
+    "grounds": "compound indicating growth of fame"
    }
   ]
  },
@@ -463,28 +534,33 @@
   "verse_id": "mukta-m0-p05-v120",
   "song": "mukta-m0-p05",
   "verse": 120,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "The commencement of mantra practice is recommended, in proper order, when related to the lord or to fire.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "praśasyate",
-    "quick_gloss": "is-recommended"
+    "quick_gloss": "is-recommended",
+    "grounds": "passive verb expressing approval"
    },
    {
     "surface": "yat+īśasya",
-    "quick_gloss": "when-of-īśa"
+    "quick_gloss": "when-of-lord",
+    "grounds": "compound indicating condition related to the lord"
    },
    {
     "surface": "kṛśānoḥ+vā",
-    "quick_gloss": "or-of-fire"
+    "quick_gloss": "or-of-fire",
+    "grounds": "compound offering an alternative association"
    },
    {
     "surface": "mantra+ārambhaḥ",
-    "quick_gloss": "mantra-commencement"
+    "quick_gloss": "mantra-commencement",
+    "grounds": "compound naming the beginning of mantra practice"
    },
    {
     "surface": "yathā+kramam",
-    "quick_gloss": "according-to-order"
+    "quick_gloss": "according-to-order",
+    "grounds": "compound indicating proper sequence"
    }
   ]
  },
@@ -492,16 +568,18 @@
   "verse_id": "mukta-m0-p05-v121",
   "song": "mukta-m0-p05",
   "verse": 121,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "That subject is accepted because it is stated in the Agastya Saṃhitā.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "tatra+āma+viṣayam",
-    "quick_gloss": "there-that-subject"
+    "quick_gloss": "there-that-subject",
+    "grounds": "compound referring to the matter under discussion"
    },
    {
     "surface": "agastya+saṃhitā+uktatvāt",
-    "quick_gloss": "because-of-being-stated-in-agastya-saṃhitā"
+    "quick_gloss": "because-stated-in-agastya-saṃhitā",
+    "grounds": "compound giving textual authority as reason"
    }
   ]
  },
@@ -509,24 +587,28 @@
   "verse_id": "mukta-m0-p05-v122",
   "song": "mukta-m0-p05",
   "verse": 122,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Likewise, such conjunctions are said to bring auspicious results in all tantras.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "tathā",
-    "quick_gloss": "likewise"
+    "quick_gloss": "likewise",
+    "grounds": "adverb indicating continuation"
    },
    {
     "surface": "yogaḥ",
-    "quick_gloss": "conjunction"
+    "quick_gloss": "conjunction",
+    "grounds": "subject denoting an auspicious conjunction"
    },
    {
     "surface": "sarvatra+tantre",
-    "quick_gloss": "in-all-tantras"
+    "quick_gloss": "in-all-tantras",
+    "grounds": "compound indicating universal textual scope"
    },
    {
     "surface": "śubha+āvahāḥ",
-    "quick_gloss": "auspicious-bringing"
+    "quick_gloss": "auspicious-bringing",
+    "grounds": "compound describing beneficial effect"
    }
   ]
  },
@@ -534,40 +616,48 @@
   "verse_id": "mukta-m0-p05-v123",
   "song": "mukta-m0-p05",
   "verse": 123,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "Harṣaṇa, Varīyān, Śiva, Siddha, Brahma, and Aindra are among the sixteen.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "harṣaṇaḥ",
-    "quick_gloss": "harṣaṇa"
+    "quick_gloss": "harṣaṇa",
+    "grounds": "name of a yoga or period"
    },
    {
     "surface": "varīyāṃśca",
-    "quick_gloss": "varīyān"
+    "quick_gloss": "varīyān",
+    "grounds": "name of a yoga or period; fused with conjunction"
    },
    {
     "surface": "śivaḥ",
-    "quick_gloss": "śiva"
+    "quick_gloss": "śiva",
+    "grounds": "name of a yoga or period"
    },
    {
     "surface": "siddhaḥ",
-    "quick_gloss": "siddha"
+    "quick_gloss": "siddha",
+    "grounds": "name of a yoga or period"
    },
    {
     "surface": "brahma",
-    "quick_gloss": "brahma"
+    "quick_gloss": "brahma",
+    "grounds": "name of a yoga or period"
    },
    {
     "surface": "aindraḥ",
-    "quick_gloss": "aindra"
+    "quick_gloss": "aindra",
+    "grounds": "name of a yoga or period"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "conjunction"
    },
    {
     "surface": "ṣoḍaśa",
-    "quick_gloss": "sixteen"
+    "quick_gloss": "sixteen",
+    "grounds": "numeral indicating count"
    }
   ]
  },
@@ -575,24 +665,28 @@
   "verse_id": "mukta-m0-p05-v124",
   "song": "mukta-m0-p05",
   "verse": 124,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "They are indeed stated to be auspicious in all tantras.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "śubhāni",
-    "quick_gloss": "auspicious-things"
+    "quick_gloss": "auspicious-things",
+    "grounds": "describes the listed items as favorable"
    },
    {
     "surface": "eva",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "particle emphasizing certainty"
    },
    {
     "surface": "sarva+tantreṣu",
-    "quick_gloss": "in-all-tantras"
+    "quick_gloss": "in-all-tantras",
+    "grounds": "compound indicating universal textual scope"
    },
    {
     "surface": "bhāṣitam",
-    "quick_gloss": "stated"
+    "quick_gloss": "stated",
+    "grounds": "past passive participle indicating authoritative statement"
    }
   ]
  },
@@ -600,21 +694,23 @@
   "verse_id": "mukta-m0-p05-v125",
   "song": "mukta-m0-p05",
   "verse": 125,
-  "quick_english": "",
-  "quick_english_source": "t1parse",
+  "quick_english": "And one should perform the commencement of initiation when the moon and stars are favorable.",
+  "quick_english_source": "manual",
   "tokens": [
    {
     "surface": "candra+tārā+anukūle",
-    "quick_gloss": "when-moon-and-star-favorable"
+    "quick_gloss": "moon-star-favorable",
+    "grounds": "compound adjective indicating favorable condition of moon and star; locative sense in context"
    },
    {
     "surface": "ca",
     "quick_gloss": "and",
-    "grounds": "connective particle"
+    "grounds": "conjunctive particle adding a further condition"
    },
    {
     "surface": "kuryāt+dīkṣā+pravarttanam",
-    "quick_gloss": "should-perform-initiation-commencement"
+    "quick_gloss": "should-perform-initiation-commencement",
+    "grounds": "fused form: optative verb governing a compound object denoting the commencement of initiation (dīkṣā+pravarttana)"
    }
   ]
  }

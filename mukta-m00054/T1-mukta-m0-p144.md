@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p144-v3576
-[ram-bearer](herambaḥ) [shambara](śambaraḥ) [shambhu](śambhuḥ) [long-eared](lambakarṇaḥ) [great-strong](mahābalaḥ)
+[heramba](herambaḥ) [śambara](śambaraḥ) [śambhu](śambhur) [long+eared](llambakarṇo) [great+mighty](mahābalaḥ)
 
 ## mukta-m0-p144-v3577
-[remover-of-obstacles](vināyakaḥ) [odd-eyed](virūpākṣaḥ) [steadfast](dhīraḥ) [hero](śūraḥ) [boon-giver](varapradaḥ)
+[remover-of-obstacles](vināyako) [odd-eyed](virūpākṣo) [steadfast](dhīraḥ) [heroic](śūro) [boon-giver](varapradaḥ)
 
 ## mukta-m0-p144-v3578
-[rudra-favorite](rudrapriyaḥ) [ganas-chief](gaṇādhyakṣaḥ) [uma-son](umāputraḥ) [sin-destroyer](aghanāśanaḥ)
+[dear-to-rudra](rudrapriyo) [lord-of-gaṇas](gaṇādhyakṣa) [son-of-umā](umāputro) [destroyer-of-sin](ghanāśanaḥ)
 
 ## mukta-m0-p144-v3579
-[siddhi-favorite](siddhipriyaḥ) [siddhi-lord](siddhipatiḥ) [siddha](siddhaḥ) [siddhi-vinayaka](siddhivināyakaḥ)
+[lover-of-success](siddhipriyaḥ) [lord-of-success](siddhipatiḥ) [accomplished](siddhaḥ) [success+remover-of-obstacles](siddhivināyakaḥ)
 
 ## mukta-m0-p144-v3580
-[clinking](kaṭaṅkaṭaḥ) [king-son](rājaputraḥ) [shalaka](śālakaḥ) [equal](sammitaḥ) [measureless](amitaḥ)
+[kaṭaṅkaṭa](kaṭaṅkaṭo) [prince](rājaputraḥ) [śālaka](śālakaḥ) [measured](sammito) [immeasurable](mitaḥ)
 
 ## mukta-m0-p144-v3581
-[earth-lord](bhūpatiḥ) [world-lord](bhuvanapatiḥ) [beings-lord](bhūtānāmpatiḥ) [imperishable](avyayaḥ)
+[lord-of-earth](bhūpatir) [lord-of-world](bbhuvanapatir) [lord-of-beings](bbhūtānām) [lord](patir) [imperishable](avyayaḥ)
 
 ## mukta-m0-p144-v3582
-[poet](kaviḥ) [poets-best](kavīnāmṛṣabhaḥ) [brahman-lover](brahmaṇyaḥ) [brahman-lord](brahmaṇaspatiḥ)
+[poet](kaviḥ) [bull-of-poets](kavīnām) [bull](ṛṣabho) [devoted-to-brahman](brahmaṇyo) [lord-of-prayer](brahmaṇaspatiḥ)
 
 ## mukta-m0-p144-v3583
-[golden-city-within-standing](hiraṇmayapurāntasthaḥ) [sun-disk-middle-going](sūryamaṇḍalamadhyagaḥ)
+[dwelling-in-golden-city](hiraṇmayapurāntasthas) [situated-in-sun-disk](sūryamaṇḍalamadhyagaḥ)
 
 ## mukta-m0-p144-v3584
-[uma-lap-play-delighted](umāṅkakelikutukī) [liberation-giver](muktidaḥ) [clan-protector](kulapālanaḥ)
+[delighting-in-play-on-umā's-lap](umāṅkakelikutukī) [giver-of-liberation](muktidaḥ) [protector-of-family](kulapālanaḥ)
 
 ## mukta-m0-p144-v3585
-[aversion-destroyed-demon-glory](vaimukhyahatadaityaśrīḥ) [foot-struck-conquered-earth](pādāhatajitakṣitiḥ)
+[destroyer-of-demon-fortune-by-aversion](vaimukhyahatadaityaśrīḥ) [conqueror-of-earth-by-foot-strike](pādāhatajitakṣitiḥ)
 
 ## mukta-m0-p144-v3586
-[bad-dream-remover](dussvapnahṛt) [overpowering](prasahanaḥ) [virtuous-sound-established](guṇinādapratiṣṭhitaḥ)
+[remover-of-bad-dreams](dussvapnahṛt) [forbearing](prasahano) [established-in-sound-of-virtuous](guṇinādapratiṣṭhitaḥ)
 
 ## mukta-m0-p144-v3587
-[yellow-robed](pītāmbaraḥ) [broken-tusked](khaṇḍaradaḥ) [broken-moon-made-crown](khaṇḍendukṛtaśekharaḥ)
+[yellow-garmented](pītāmbaraḥ) [breaker-of-tusk](khaṇḍaradaḥ) [one-who-made-crescent-moon-his-crest](khaṇḍendukṛtaśekharaḥ)
 
 ## mukta-m0-p144-v3588
-[yoga-lord](yogādhipaḥ) [star-abiding](tārakasthaḥ) [spirit](puruṣaḥ) [elephant-eared](gajakarṇakaḥ)
+[lord-of-yoga](yogādhipas) [abiding-in-stars](tārakasthaḥ) [supreme-person](puruṣo) [elephant-eared](gajakarṇakaḥ)
 
 ## mukta-m0-p144-v3589
-[god-of-gods](devadevaḥ) [smara-breath](smaraprāṇaḥ) [lamp](dīpakaḥ) [wind-peg](vāyukīlakaḥ)
+[god-of-gods](devadevaḥ) [life-of-love-god](smaraprāṇo) [illuminator](dīpako) [bolt-of-wind](vāyukīlakaḥ)
 
 ## mukta-m0-p144-v3590
-[boar-tusked](varāharadanaḥ) [death-conqueror](mṛtyuñjayaḥ) [tiger-skin-robed](vyāghrājināmbaraḥ)
+[boar-tusked](varāharadano) [conqueror-of-death](mṛtyuñjayo) [clad-in-tiger-skin](vyāghrājināmbaraḥ)
 
 ## mukta-m0-p144-v3591
-[shambhu-mouth-from-born](śambhuvaktrodbhavaḥ) [shambhu-anger-remover](śambhukopahā) [shambhu-laughter-ground](śambhuhāsyabhūḥ)
+[born-from-śambhu's-face](śambhuvaktrodbhavaḥ) [destroyer-of-śambhu's-anger](śambhukopahā) [born-from-śambhu's-laughter](śambhuhāsyabhūḥ)
 
 ## mukta-m0-p144-v3592
-[uma-limb-dirt-born](umāṅgamalajaḥ) [gauri-tejas-ground](gaurītejobhūḥ) [heavenly-ganga-born](svarddhunībhavaḥ)
+[born-from-dirt-of-umā's-body](umāṅgamalajo) [born-from-gaurī's-radiance](gaurītejobhūḥ) [born-from-celestial-river](svarddhunībhavaḥ)
 
 ## mukta-m0-p144-v3593
-[all-soul](sarvātmā) [all-gods-soul](sarvadevātmā) [brahma-head](brahmamūrdhā) [quarter-ear](kakupśrutiḥ)
+[soul-of-all](sarvātmā) [soul-of-all-gods](sarvadevātmā) [brahman-headed](brahmamūrddhā) [having-directions-as-ears](kakupśrutiḥ)
 
 ## mukta-m0-p144-v3594
-[world-birth-womb-opening-closing](jagajjanmalayonmeṣanimiṣaḥ) [sun-moon-eye](arkkasomadṛk)
+[whose-opening-and-closing-of-eyes-are-birth-and-dissolution-of-world](jagajjanmalayonmeṣanimiṣonyarkkasomadṛk)
 
 ## mukta-m0-p144-v3595
-[planet-nakshatra-teeth](graharkṣakṣadaśanaḥ) [speech-tongued](vāṇījihvaḥ) [indra-nosed](vāsavanāsikaḥ)
+[having-planets-and-constellations-as-teeth](graharkṣkṣadaśano) [having-speech-as-tongue](vāṇījihvo) [having-vāsava-as-nose](vāsavanāsikaḥ)
 
 ## mukta-m0-p144-v3596
-[mountain-shouldered](kulācalāṃsaḥ) [sun-moon-belled](somārkaghaṇṭaḥ) [rudra-head-bearer](rudraśirodharaḥ)
+[having-mountain-ranges-as-shoulders](kulācalāṃsaḥ) [having-moon-and-sun-as-bells](somārkaghaṇṭo) [having-rudra-as-neck](rudraśirodharaḥ)
 
 ## mukta-m0-p144-v3597
-[sky-navel](vyomanābhiḥ) [shri-heart](śrīhṛdayaḥ) [meru-backed](merupṛṣṭhaḥ) [ocean-bellied](arṇavodaraḥ)
+[having-sky-as-navel](vyomanābhiḥ) [having-śrī-as-heart](śrīhṛdayo) [having-meru-as-back](merupṛṣṭho) [having-ocean-as-belly](rṇavodaraḥ)
 
 ## mukta-m0-p144-v3598
-[earth-waisted](pṛthvīkaṭiḥ) [creation-linga](sṛṣṭiliṅgaḥ) [mountain-thighed](śailorū) [thick-garland-kneed](ddasrajānukaḥ)
+[having-earth-as-hips](pṛthvīkaṭiḥ) [having-creation-as-mark](sṛṣṭiliṅgaḥ) [having-mountains-as-thighs](śailorur) [having-directions-as-knees](ddasrajānukaḥ)
 
 ## mukta-m0-p144-v3599
-[light-disk-tailed](jyotirmaṇḍalalāṅgūlaḥ) [heart-firebrand-steadfast](hṛdayālātaniścalaḥ)
+[having-circle-of-lights-as-tail](jyotirmaṇḍalalāṃgūlo) [motionless-in-heart-fire-pit](hṛdayālātaniścalaḥ)
 
 ## mukta-m0-p144-v3600
-[good-devotee-meditation-fetter](sadbhaktadhyānanigaḍaḥ) [worship-obstacle-restrained](pūjāvārinivāritaḥ)
+[fettered-by-meditation-of-true-devotees](sadbhaktadhyānanigaḍaḥ) [restrained-by-water-of-worship](pūjāvārinivāritaḥ)

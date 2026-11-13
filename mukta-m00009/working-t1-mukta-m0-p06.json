@@ -8,24 +8,28 @@
   "tokens": [
    {
     "surface": "tāsu",
-    "quick_gloss": "in-them"
+    "quick_gloss": "in-them",
+    "grounds": "refers to previously mentioned states or powers"
    },
    {
     "surface": "eva",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "emphatic particle"
    },
    {
     "surface": "ātmabhrāntiḥ",
-    "quick_gloss": "self-delusion"
+    "quick_gloss": "self-delusion",
+    "grounds": "mistaken identification of the self"
    },
    {
     "surface": "iti",
     "quick_gloss": "thus",
-    "grounds": "quotation marker"
+    "grounds": "quotation or conclusion marker"
    },
    {
     "surface": "bhāvaḥ",
-    "quick_gloss": "meaning"
+    "quick_gloss": "meaning",
+    "grounds": "intended sense or purport"
    }
   ]
  },
@@ -38,23 +42,28 @@
   "tokens": [
    {
     "surface": "vaikharī",
-    "quick_gloss": "vaikharī"
+    "quick_gloss": "vaikharī-speech",
+    "grounds": "external articulated level of speech"
    },
    {
     "surface": "śrotraje",
-    "quick_gloss": "in-ear-born"
+    "quick_gloss": "born-in-ear",
+    "grounds": "arising through the organ of hearing"
    },
    {
     "surface": "bodhe",
-    "quick_gloss": "cognition"
+    "quick_gloss": "in-awareness",
+    "grounds": "cognitive apprehension"
    },
    {
     "surface": "madhyamā",
-    "quick_gloss": "madhyamā"
+    "quick_gloss": "madhyamā-speech",
+    "grounds": "intermediate conceptual level of speech"
    },
    {
     "surface": "savikalpake",
-    "quick_gloss": "in-conceptual"
+    "quick_gloss": "in-conceptual-thought",
+    "grounds": "awareness involving differentiation"
    }
   ]
  },
@@ -67,19 +76,23 @@
   "tokens": [
    {
     "surface": "tasyā",
-    "quick_gloss": "of-that"
+    "quick_gloss": "of-that",
+    "grounds": "refers to madhyamā speech"
    },
    {
     "surface": "api",
-    "quick_gloss": "also"
+    "quick_gloss": "also",
+    "grounds": "inclusive particle"
    },
    {
     "surface": "samutpādanahetuḥ",
-    "quick_gloss": "production-cause"
+    "quick_gloss": "cause-of-production",
+    "grounds": "that which brings something into being"
    },
    {
     "surface": "paśyantī",
-    "quick_gloss": "paśyantī"
+    "quick_gloss": "paśyantī-speech",
+    "grounds": "seeing level of speech preceding madhyamā"
    }
   ]
  },
@@ -92,23 +105,28 @@
   "tokens": [
    {
     "surface": "yadā",
-    "quick_gloss": "when"
+    "quick_gloss": "when",
+    "grounds": "temporal or conditional particle"
    },
    {
     "surface": "āvṛttiḥ",
-    "quick_gloss": "activity"
+    "quick_gloss": "activity",
+    "grounds": "turning or functioning movement"
    },
    {
     "surface": "aśeṣeṇa",
-    "quick_gloss": "completely"
+    "quick_gloss": "completely",
+    "grounds": "without remainder"
    },
    {
     "surface": "vilīnā",
-    "quick_gloss": "dissolved"
+    "quick_gloss": "dissolved",
+    "grounds": "merged or absorbed"
    },
    {
     "surface": "cittasaṃśrayā",
-    "quick_gloss": "mind-supported"
+    "quick_gloss": "resting-on-mind",
+    "grounds": "supported by or dependent on the mind"
    }
   ]
  },
@@ -121,27 +139,33 @@
   "tokens": [
    {
     "surface": "atyantasaṃśleṣāt",
-    "quick_gloss": "by-extreme-intimacy"
+    "quick_gloss": "from-extreme-intimacy",
+    "grounds": "due to very close union"
    },
    {
     "surface": "tadrūpā",
-    "quick_gloss": "of-that-form"
+    "quick_gloss": "of-that-form",
+    "grounds": "having the same form as that"
    },
    {
     "surface": "iva",
-    "quick_gloss": "as-if"
+    "quick_gloss": "as-if",
+    "grounds": "comparative particle indicating appearance"
    },
    {
     "surface": "bhāti",
-    "quick_gloss": "appears"
+    "quick_gloss": "appears",
+    "grounds": "shines or manifests"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "quotation marker"
    },
    {
     "surface": "uktam",
-    "quick_gloss": "said"
+    "quick_gloss": "said",
+    "grounds": "stated in the teaching"
    }
   ]
  },
@@ -154,35 +178,43 @@
   "tokens": [
    {
     "surface": "na",
-    "quick_gloss": "not"
+    "quick_gloss": "not",
+    "grounds": "negation particle"
    },
    {
     "surface": "saḥ",
-    "quick_gloss": "that"
+    "quick_gloss": "that",
+    "grounds": "demonstrative pronoun"
    },
    {
     "surface": "asti",
-    "quick_gloss": "is"
+    "quick_gloss": "is",
+    "grounds": "existential verb"
    },
    {
     "surface": "pratyayaḥ",
-    "quick_gloss": "cognition"
+    "quick_gloss": "cognition",
+    "grounds": "mental apprehension or awareness"
    },
    {
     "surface": "aṇūnāṃ",
-    "quick_gloss": "of-atoms"
+    "quick_gloss": "of-individual-selves",
+    "grounds": "of limited beings; aṇu = individual self"
    },
    {
     "surface": "yaḥ",
-    "quick_gloss": "which"
+    "quick_gloss": "which",
+    "grounds": "relative pronoun"
    },
    {
     "surface": "śabdānugamāt",
-    "quick_gloss": "word-following"
+    "quick_gloss": "from-following-word",
+    "grounds": "from dependence on or accompaniment by word"
    },
    {
     "surface": "ṛte",
-    "quick_gloss": "without"
+    "quick_gloss": "without",
+    "grounds": "except or apart from"
    }
   ]
  },
@@ -195,27 +227,33 @@
   "tokens": [
    {
     "surface": "sā",
-    "quick_gloss": "this"
+    "quick_gloss": "that",
+    "grounds": "demonstrative pronoun"
    },
    {
     "surface": "eṣā",
-    "quick_gloss": "indeed"
+    "quick_gloss": "this",
+    "grounds": "proximate demonstrative"
    },
    {
     "surface": "caturvidhā",
-    "quick_gloss": "fourfold"
+    "quick_gloss": "fourfold",
+    "grounds": "having four kinds"
    },
    {
     "surface": "vṛttiḥ",
-    "quick_gloss": "function"
+    "quick_gloss": "function",
+    "grounds": "mode of operation; vṛtti in this context"
    },
    {
     "surface": "nivṛttyādikalā",
-    "quick_gloss": "nivṛtti-etc.-kalā"
+    "quick_gloss": "nivṛtti-and-other-kalās",
+    "grounds": "the kalās beginning with nivṛtti"
    },
    {
     "surface": "āśrayāt",
-    "quick_gloss": "resting-on"
+    "quick_gloss": "by-resting-on",
+    "grounds": "through dependence or support"
    }
   ]
  },
@@ -228,15 +266,18 @@
   "tokens": [
    {
     "surface": "bindusiddhiḥ",
-    "quick_gloss": "bindu-accomplishment"
+    "quick_gloss": "accomplishment-of-bindu",
+    "grounds": "realization or establishment of bindu"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "conclusion marker"
    },
    {
     "surface": "bhāvaḥ",
-    "quick_gloss": "meaning"
+    "quick_gloss": "meaning",
+    "grounds": "intended purport"
    }
   ]
  },
@@ -249,7 +290,8 @@
   "tokens": [
    {
     "surface": "nivṛttiḥ",
-    "quick_gloss": "nivṛtti"
+    "quick_gloss": "nivṛtti",
+    "grounds": "first kalā in the series"
    },
    {
     "surface": "ca",
@@ -258,7 +300,8 @@
    },
    {
     "surface": "pratiṣṭhā",
-    "quick_gloss": "pratiṣṭhā"
+    "quick_gloss": "pratiṣṭhā",
+    "grounds": "second kalā in the series"
    },
    {
     "surface": "ca",
@@ -267,11 +310,13 @@
    },
    {
     "surface": "vidyā",
-    "quick_gloss": "vidyā"
+    "quick_gloss": "vidyā",
+    "grounds": "third kalā in the series"
    },
    {
     "surface": "śāntiḥ",
-    "quick_gloss": "śānti"
+    "quick_gloss": "śānti",
+    "grounds": "fourth kalā in the series"
    },
    {
     "surface": "ca",
@@ -280,7 +325,8 @@
    },
    {
     "surface": "pañcamī",
-    "quick_gloss": "fifth"
+    "quick_gloss": "fifth",
+    "grounds": "the fifth member completing the set"
    }
   ]
  },
@@ -293,35 +339,43 @@
   "tokens": [
    {
     "surface": "samastādhvavyāpikāḥ",
-    "quick_gloss": "all-path-pervading"
+    "quick_gloss": "pervading-all-paths",
+    "grounds": "extending through every path"
    },
    {
     "surface": "sthitāḥ",
-    "quick_gloss": "situated"
+    "quick_gloss": "situated",
+    "grounds": "established or present"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "concluding marker"
    },
    {
     "surface": "āha",
-    "quick_gloss": "says"
+    "quick_gloss": "says",
+    "grounds": "declares in the text"
    },
    {
     "surface": "yābhiḥ",
-    "quick_gloss": "by-which"
+    "quick_gloss": "by-which",
+    "grounds": "by means of which kalās"
    },
    {
     "surface": "vyāptaḥ",
-    "quick_gloss": "pervaded"
+    "quick_gloss": "pervaded",
+    "grounds": "thoroughly encompassed"
    },
    {
     "surface": "adhvapañcakam",
-    "quick_gloss": "path-fivefold"
+    "quick_gloss": "fivefold-path",
+    "grounds": "the set of five paths"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "concluding marker"
    }
   ]
  },
@@ -334,27 +388,33 @@
   "tokens": [
    {
     "surface": "tattvādhvā",
-    "quick_gloss": "tattva-path"
+    "quick_gloss": "tattva-path",
+    "grounds": "path of principles"
    },
    {
     "surface": "bhuvanādhvā",
-    "quick_gloss": "bhuvana-path"
+    "quick_gloss": "bhuvana-path",
+    "grounds": "path of worlds"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connective particle"
    },
    {
     "surface": "varṇādhvā",
-    "quick_gloss": "varṇa-path"
+    "quick_gloss": "varṇa-path",
+    "grounds": "path of phonemes"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connective particle"
    },
    {
     "surface": "padātmakaḥ",
-    "quick_gloss": "pada-natured"
+    "quick_gloss": "of-pada-nature",
+    "grounds": "consisting of words or padas"
    }
   ]
  },
@@ -367,23 +427,28 @@
   "tokens": [
    {
     "surface": "vyomavyāpisaṃjñaḥ",
-    "quick_gloss": "vyomavyāpi-named"
+    "quick_gloss": "named-vyomavyāpi",
+    "grounds": "bearing the designation vyomavyāpi"
    },
    {
     "surface": "mantrādhvā",
-    "quick_gloss": "mantra-path"
+    "quick_gloss": "mantra-path",
+    "grounds": "path of mantras"
    },
    {
     "surface": "punaḥ",
-    "quick_gloss": "again"
+    "quick_gloss": "again",
+    "grounds": "furthermore"
    },
    {
     "surface": "saṃhitāmantrāḥ",
-    "quick_gloss": "saṃhitā-mantras"
+    "quick_gloss": "saṃhitā-mantras",
+    "grounds": "mantras belonging to the saṃhitā"
    },
    {
     "surface": "eva",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "restrictive emphasis"
    }
   ]
  },
@@ -396,27 +461,33 @@
   "tokens": [
    {
     "surface": "tyaktvā",
-    "quick_gloss": "having-abandoned"
+    "quick_gloss": "having-abandoned",
+    "grounds": "after leaving behind"
    },
    {
     "surface": "ekam",
-    "quick_gloss": "one"
+    "quick_gloss": "one",
+    "grounds": "repeated to indicate succession"
    },
    {
     "surface": "ekam",
-    "quick_gloss": "one"
+    "quick_gloss": "one",
+    "grounds": "repeated to indicate succession"
    },
    {
     "surface": "saṃprāpya",
-    "quick_gloss": "having-reached"
+    "quick_gloss": "having-reached",
+    "grounds": "after attaining"
    },
    {
     "surface": "kalādiṣu",
-    "quick_gloss": "in-kalā-etc."
+    "quick_gloss": "in-kalās-and-others",
+    "grounds": "among the kalās and related stages"
    },
    {
     "surface": "ajarāmaram",
-    "quick_gloss": "unaging-immortal"
+    "quick_gloss": "unaging-immortal",
+    "grounds": "free from aging and death"
    }
   ]
  },
@@ -429,19 +500,23 @@
   "tokens": [
    {
     "surface": "kalādhvā",
-    "quick_gloss": "kalā-path"
+    "quick_gloss": "kalā-path",
+    "grounds": "path constituted by the kalās"
    },
    {
     "surface": "varṇitaḥ",
-    "quick_gloss": "described"
+    "quick_gloss": "described",
+    "grounds": "explained or set forth"
    },
    {
     "surface": "pūrvaṃ",
-    "quick_gloss": "before"
+    "quick_gloss": "before",
+    "grounds": "previously in the text"
    },
    {
     "surface": "nivṛttyādivibhedataḥ",
-    "quick_gloss": "by-nivṛtti-etc.-division"
+    "quick_gloss": "by-nivṛtti-division",
+    "grounds": "according to divisions beginning with nivṛtti"
    }
   ]
  },
@@ -454,11 +529,13 @@
   "tokens": [
    {
     "surface": "sākārakāraṇām",
-    "quick_gloss": "with-form-cause"
+    "quick_gloss": "with-form-cause",
+    "grounds": "having a formed cause or causal aspect"
    },
    {
     "surface": "ātmabinduśaktiśivāśrayām",
-    "quick_gloss": "resting-on-self-bindu-śakti-śiva"
+    "quick_gloss": "resting-on-self-bindu-śakti-śiva",
+    "grounds": "supported by self, bindu, śakti, and śiva"
    }
   ]
  },
@@ -471,23 +548,28 @@
   "tokens": [
    {
     "surface": "teṣu",
-    "quick_gloss": "among-them"
+    "quick_gloss": "among-them",
+    "grounds": "within those locations or groups"
    },
    {
     "surface": "kālānalādīnām",
-    "quick_gloss": "of-kālānala-etc."
+    "quick_gloss": "of-kālānala-and-others",
+    "grounds": "of those beginning with kālānala"
    },
    {
     "surface": "anantāṇḍasya",
-    "quick_gloss": "of-endless-egg"
+    "quick_gloss": "of-endless-egg",
+    "grounds": "of the boundless cosmic sphere"
    },
    {
     "surface": "ṣaḍ",
-    "quick_gloss": "six"
+    "quick_gloss": "six",
+    "grounds": "numeral six"
    },
    {
     "surface": "bahiḥ",
-    "quick_gloss": "outside"
+    "quick_gloss": "outside",
+    "grounds": "external to"
    }
   ]
  },
@@ -500,23 +582,28 @@
   "tokens": [
    {
     "surface": "rudrāṇāṃ",
-    "quick_gloss": "of-rudras"
+    "quick_gloss": "of-rudras",
+    "grounds": "of the Rudra deities"
    },
    {
     "surface": "śatasaṃkhyānāṃ",
-    "quick_gloss": "hundred-numbered"
+    "quick_gloss": "hundred-in-number",
+    "grounds": "numbering one hundred"
    },
    {
     "surface": "vīrabhadrasya",
-    "quick_gloss": "of-vīrabhadra"
+    "quick_gloss": "of-vīrabhadra",
+    "grounds": "of the deity Vīrabhadra"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connective particle"
    },
    {
     "surface": "upari",
-    "quick_gloss": "above"
+    "quick_gloss": "above",
+    "grounds": "higher than or beyond"
    }
   ]
  },
@@ -529,15 +616,18 @@
   "tokens": [
    {
     "surface": "ekāśītipadā",
-    "quick_gloss": "eighty-one-part"
+    "quick_gloss": "having-eighty-one-parts",
+    "grounds": "consisting of eighty-one divisions or stations"
    },
    {
     "surface": "devī",
-    "quick_gloss": "goddess"
+    "quick_gloss": "goddess",
+    "grounds": "the divine feminine principle"
    },
    {
     "surface": "pratisargapadakramāt",
-    "quick_gloss": "by-successive-emanation-order"
+    "quick_gloss": "by-successive-emanation-order",
+    "grounds": "according to the sequence of emanated stages"
    }
   ]
  },
@@ -550,28 +640,33 @@
   "tokens": [
    {
     "surface": "mantrāvajātahṛdayau",
-    "quick_gloss": "mantra-born-hearts"
+    "quick_gloss": "hearts-born-from-mantras",
+    "grounds": "two hearts arising from the mantras"
    },
    {
     "surface": "tatra",
-    "quick_gloss": "there"
+    "quick_gloss": "there",
+    "grounds": "in that context or location"
    },
    {
     "surface": "sā",
     "quick_gloss": "that",
-    "grounds": "that one"
+    "grounds": "demonstrative pronoun"
    },
    {
     "surface": "tu",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "contrastive or emphatic particle"
    },
    {
     "surface": "parā",
-    "quick_gloss": "supreme"
+    "quick_gloss": "supreme",
+    "grounds": "highest or transcendent"
    },
    {
     "surface": "kalā",
-    "quick_gloss": "kalā"
+    "quick_gloss": "kalā",
+    "grounds": "the supreme kalā"
    }
   ]
  },
@@ -584,31 +679,38 @@
   "tokens": [
    {
     "surface": "pañcādhvanaḥ",
-    "quick_gloss": "five-paths"
+    "quick_gloss": "five-paths",
+    "grounds": "the fivefold path system"
    },
    {
     "surface": "vyāpya",
-    "quick_gloss": "having-pervaded"
+    "quick_gloss": "having-pervaded",
+    "grounds": "after encompassing"
    },
    {
     "surface": "teṣu",
-    "quick_gloss": "in-them"
+    "quick_gloss": "in-them",
+    "grounds": "within those paths or domains"
    },
    {
     "surface": "eva",
-    "quick_gloss": "indeed"
+    "quick_gloss": "indeed",
+    "grounds": "emphatic particle"
    },
    {
     "surface": "vartate",
-    "quick_gloss": "abides"
+    "quick_gloss": "abides",
+    "grounds": "remains or operates"
    },
    {
     "surface": "iti",
-    "quick_gloss": "thus"
+    "quick_gloss": "thus",
+    "grounds": "quotation marker"
    },
    {
     "surface": "arthaḥ",
-    "quick_gloss": "meaning"
+    "quick_gloss": "meaning",
+    "grounds": "intended sense"
    }
   ]
  },
@@ -621,27 +723,33 @@
   "tokens": [
    {
     "surface": "pītā",
-    "quick_gloss": "yellow"
+    "quick_gloss": "yellow",
+    "grounds": "of yellow color"
    },
    {
     "surface": "eṣā",
-    "quick_gloss": "this"
+    "quick_gloss": "this",
+    "grounds": "proximate demonstrative"
    },
    {
     "surface": "caturaśrā",
-    "quick_gloss": "four-cornered"
+    "quick_gloss": "four-cornered",
+    "grounds": "having four angles or sides"
    },
    {
     "surface": "ca",
-    "quick_gloss": "and"
+    "quick_gloss": "and",
+    "grounds": "connective particle"
    },
    {
     "surface": "kaṭhinā",
-    "quick_gloss": "hard"
+    "quick_gloss": "hard",
+    "grounds": "firm or solid"
    },
    {
     "surface": "vajralāñchitā",
-    "quick_gloss": "thunderbolt-marked"
+    "quick_gloss": "marked-by-thunderbolt",
+    "grounds": "bearing the sign of the vajra"
    }
   ]
  },
@@ -654,15 +762,18 @@
   "tokens": [
    {
     "surface": "tatpralīnāṇusaṃghasya",
-    "quick_gloss": "of-that-dissolved-atom-multitude"
+    "quick_gloss": "of-multitude-of-selves-dissolved-there",
+    "grounds": "of the group of individual selves dissolved in that; aṇu = individual self"
    },
    {
     "surface": "saṃkalpaḥ",
-    "quick_gloss": "thought"
+    "quick_gloss": "thought",
+    "grounds": "mental intention or conceptualization"
    },
    {
     "surface": "vinivartate",
-    "quick_gloss": "ceases"
+    "quick_gloss": "ceases",
+    "grounds": "turns back or comes to an end"
    }
   ]
  },
@@ -675,27 +786,33 @@
   "tokens": [
    {
     "surface": "brahmā",
-    "quick_gloss": "brahmā"
+    "quick_gloss": "brahmā",
+    "grounds": "the deity Brahmā"
    },
    {
     "surface": "atra",
-    "quick_gloss": "here"
+    "quick_gloss": "here",
+    "grounds": "in this context"
    },
    {
     "surface": "kāraṇam",
-    "quick_gloss": "cause"
+    "quick_gloss": "cause",
+    "grounds": "causal agent or principle"
    },
    {
     "surface": "mantraḥ",
-    "quick_gloss": "mantra"
+    "quick_gloss": "mantra",
+    "grounds": "sacred formula"
    },
    {
     "surface": "sadyojātaḥ",
-    "quick_gloss": "sadyojāta"
+    "quick_gloss": "sadyojāta",
+    "grounds": "the Sadyojāta mantra or form"
    },
    {
     "surface": "adhidevatā",
-    "quick_gloss": "presiding-deity"
+    "quick_gloss": "presiding-deity",
+    "grounds": "ruling divine presence"
    }
   ]
  },
@@ -708,23 +825,28 @@
   "tokens": [
    {
     "surface": "bhūtāni",
-    "quick_gloss": "elements"
+    "quick_gloss": "elements",
+    "grounds": "gross material elements"
    },
    {
     "surface": "pañca",
-    "quick_gloss": "five"
+    "quick_gloss": "five",
+    "grounds": "numeral five"
    },
    {
     "surface": "tanmātrāḥ",
-    "quick_gloss": "subtle-elements"
+    "quick_gloss": "subtle-elements",
+    "grounds": "subtle sensory essences"
    },
    {
     "surface": "pañca",
-    "quick_gloss": "five"
+    "quick_gloss": "five",
+    "grounds": "numeral five"
    },
    {
     "surface": "karmendriyāṇi",
-    "quick_gloss": "action-organs"
+    "quick_gloss": "action-organs",
+    "grounds": "organs of action"
    },
    {
     "surface": "ca",

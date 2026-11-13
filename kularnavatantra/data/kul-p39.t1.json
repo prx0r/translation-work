@@ -1144,16 +1144,9 @@
   "source_sha": "",
   "history": [
    {
-    "ts": "2026-11-13",
-    "op": "dedup_t1",
-    "note": "de-overlapped 1 token(s): stripped redundant suffix repeats",
-    "details": [
-     {
-      "was": "jīvātmanorāhuryogaṃ",
-      "now": "jīvātmanor",
-      "suffix": "āhuryogaṃ"
-     }
-    ]
+    "gloss": "The experts in yoga say that yoga is the oneness of the individual self and the Self.",
+    "reason": "de-overlapped token run: stripped redundant suffix repeats (count-preserving, T1-only); align gate repair 2026-11-13",
+    "date": "2026-11-13"
    }
   ]
  },

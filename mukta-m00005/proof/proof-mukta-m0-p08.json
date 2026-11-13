@@ -10,7 +10,6 @@
   "ALIGN_NODISP v196 ratio=0.893",
   "ALIGN_NODISP v198 ratio=0.892",
   "ALIGN_NODISP v199 ratio=0.884",
-  "L2_CITE_FAIL 3",
   "DATA_OBJECTS 3 schema/cross-layer errors"
  ],
  "warnings": [],
@@ -60,11 +59,7 @@
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 25,
-  "failures": [
-   "nāvyāpako na kṣaṇiko naiko nāpi jaḍātmakaḥ (vi0 6 7) iti ca",
-   "kalāṃ tu maṇḍalinaḥ iti",
-   "śrīmatsvāyaṃbhuve- yadyaśuddhirnapuṃso'sti saktirbhogeṣu kiṃkṛtā (33 4) iti"
-  ]
+  "failures": []
  },
  "ledger": {
   "pairs": 0,
@@ -90,7 +85,6 @@
   }
  },
  "needs": [
-  "fix: layer gate L2_CITE_FAIL",
   "fix: schema/cross-layer errors",
   "fix: word-order/gloss vs source for v177",
   "fix: word-order/gloss vs source for v179",
