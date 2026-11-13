@@ -5,73 +5,73 @@
 [should-give](pradadyāt) [fee](dakṣiṇāṃ) [to-him](tasmai) [thousand](sahasraṃ) [hundred](śatam) [indeed](eva) [or](vā)
 
 ## mukta-m0-p35-v852
-[all+peace](sarva+śāntim) [obtains](avāpnoti) [all+protection+maker](sarva+rakṣā+kṛtiḥ) [should-become](bhavet)
+[all](sarva) [peace](śāntim) [obtains](avāpnoti) [all](sarva) [protection](rakṣā) [maker](kṛtiḥ) [should-be](bhavet)
 
 ## mukta-m0-p35-v853
-[in-that-manner](tadvat) [rites](karmāṇi) [one-should-perform](kurvīta) [not](na) [here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
+[likewise](tadvat) [rites](karmāṇi) [one-should-perform](kurvīta) [not](na) [here](atra) [to-be-done](kāryā) [deliberation](vicāraṇā)
 
 ## mukta-m0-p35-v854
-[flame+mouthed](jvālā+mukhīṃ) [terrible+formed](bhīma+rūpāṃ) [one-should-meditate](dhyāyet) [three-worlds+fear-giving](trailokya+bhīti+dām)
+[flame](jvālā) [faced](mukhīṃ) [terrible](bhīma) [formed](rūpāṃ) [one-should-meditate](dhyāyet) [three](tri) [worlds](lokya) [fear](bhīti) [giving](dām)
 
 ## mukta-m0-p35-v855
-[Mārīci](mārīciḥ) [Kāśyapa](kāśyapaḥ) [declared](proktaḥ) [mantra](manuḥ) [of-this](asya) [great+mantra](mahā+manoḥ)
+[mārīci](mārīciḥ) [kāśyapa](kāśyapaḥ) [declared](proktaḥ) [mantra](manuḥ) [of-this](asya) [great](mahā) [mantra](manoḥ)
 
 ## mukta-m0-p35-v856
 [by-nine](navabhiḥ) [by-seven](saptabhiḥ) [by-six](ṣaḍbhiḥ) [by-seven](saptabhiḥ) [again](punaḥ) [by-eight](aṣṭabhiḥ)
 
 ## mukta-m0-p35-v857
-[he](sa) [us](naḥ) [may-carry-across](pariṣadati) [difficulties](durgāṇi) [all](viśvā) [like](nāva) [indeed](eva) [river](sindhuṃ) [beyond-dangers](duritā) [like-fire](ati+agniḥ)
+[he](sa) [us](naḥ) [may-carry-across](pariṣadati) [difficulties](durgāṇi) [all](viśvā) [as](nāva) [indeed](eva) [river](sindhuṃ) [beyond-evils](duritā) [fire](ati) [agniḥ](agniḥ)
 
 ## mukta-m0-p35-v858
-[in-hips](kaṭi) [in-navel](andhu+nābhiṣu) [in-heart](hṛdi) [in-breasts](stanayoḥ) [in-two-sides](pāśvayoḥ) [in-two](dvayoḥ)
+[on-hips](kaṭi) [on-navel](andhu) [on-navel-regions](nābhiṣu) [on-heart](hṛdi) [on-breasts](stanayoḥ) [on-two-sides](pāśvayoḥ) [on-two](dvayoḥ)
 
 ## mukta-m0-p35-v859
-[in-elbows](prakūrpara) [in-forearms](prakoṣṭheṣu) [in-wrists](maṇibandha) [in-palms](taleṣu) [and](ca)
+[on-elbows](prakūrpara) [on-forearms](prakoṣṭheṣu) [on-wrists](maṇibandha) [on-palms](taleṣu) [and](ca)
 
 ## mukta-m0-p35-v860
-[in-order](krameṇa) [should-place](vinyaset) [syllables](varṇān) [wise-one](vidvān) [mantra+born](mantra+samudbhavān)
+[in-order](krameṇa) [one-should-place](vinyaset) [syllables](varṇān) [wise-one](vidvān) [mantra](mantra) [born](samudbhavān)
 
 ## mukta-m0-p35-v861
-[with-neck](sa+kaṇṭha) [arms](bāhu) [heart](hṛt) [belly](kukṣi) [hips](kaṭi) [secret-parts](guhya) [thighs](ūru) [knees](jānuṣu)
+[with-neck](sa) [throat](kaṇṭha) [arms](bāhu) [heart](hṛt) [belly](kukṣi) [hips](kaṭi) [secret-parts](guhya) [thighs](ūru) [knees](jānuṣu)
 
 ## mukta-m0-p35-v862
-[bearing](bibhrāṇām) [fire+natured](anala+ātmikāṃ) [moon+holding](śaśi+dharāṃ) [Durgā](durgāṃ) [three+eyed](tri+netrāṃ) [one-should-meditate](smaret)
+[bearing](bibhrāṇām) [fire](anala) [natured](ātmikāṃ) [moon](śaśi) [holding](dharāṃ) [durgā](durgāṃ) [three](tri) [eyed](netrāṃ) [one-should-meditate](smaret)
 
 ## mukta-m0-p35-v863
-[at-its-end](tat+ante) [with-sesame](tila) [white-mustard](siddhārtha) [citramūla+roots](citra+mūlaiḥ) [with-excellent-fuel-sticks](samid+varaiḥ)
+[at-its-end](tadante) [sesame](tila) [white-mustard](siddhārtha) [citramūla-roots](citramūlaiḥ) [with-sacrificial-sticks](samidvaraiḥ)
 
 ## mukta-m0-p35-v864
-[forty-four](catuścatvāriṃśat) [endowed-with](āḍhyaṃ) [four-hundred](catuś+śata) [accompanied-by](samanvitam)
+[forty-four](catuścatvāriṃśat) [endowed](āḍhyaṃ) [four-hundred](catuśśata) [accompanied](samanvitam)
 
 ## mukta-m0-p35-v865
-[in-maṇḍala](maṇḍale) [in-sarvatobhadra](sarvataḥ+bhadre) [six-corner+marked+pericarp](ṣaṭ+koṇa+aṅkita+karṇike)
+[in-maṇḍala](maṇḍale) [sarvatobhadra](sarvatobhadre) [six](ṣaṭ) [corner](koṇa) [marked](aṅkita) [pericarp](karṇike)
 
 ## mukta-m0-p35-v866
-[Sumukhī](sumukhīṃ) [Durmukhī](durmukhīṃ) [Saṃjñā](saṃjñāṃ) [afterwards](paścād) [Vyāghramukhī](vyāghra+mukhīṃ) [again](punaḥ)
+[sumukhī](sumukhīṃ) [durmukhī](durmukhīṃ) [named](saṃjñāṃ) [afterwards](paścād) [tiger](vyāghra) [faced](mukhīṃ) [again](punaḥ)
 
 ## mukta-m0-p35-v867
-[seat](āsanaṃ) [with-lion-mantra](siṃha+mantreṇa) [should-give](dadyāt) [with-prescribed](uktena) [teacher](deśikaḥ)
+[seat](āsanaṃ) [with-lion-mantra](siṃhamantreṇa) [should-give](dadyāt) [with-prescribed](uktena) [teacher](deśikaḥ)
 
 ## mukta-m0-p35-v868
-[all-knowledge+consisting](sarva+vidyā+mayī) [Brahmavidyā](brahma+vidyā) [Annapūrṇā+included](anna+pūrṇā+antargatā) [is-spoken](ucyate)
+[all](sarva) [knowledge](vidyā) [consisting-of](mayī) [brahma](brahma) [knowledge](vidyā) [annapūrṇā](annapūrṇā) [contained-within](antargatā) [is-spoken](ucyate)
 
 ## mukta-m0-p35-v869
-[from-Śrī+etc.](śrī+ādi) [from-eight-syllables](pāda+aṣṭaka) [born](utpannāḥ) [forms](mūrtayaḥ) [to-be-worshipped](arcyāḥ) [outside](bahiḥ) [again](punaḥ)
+[śrī](śrī) [etc](ādi) [syllable](pāda) [eight](aṣṭaka) [born](utpannā) [forms](mūrtayaḥ) [to-be-worshipped](arcyāḥ) [outside](bahiḥ) [again](punaḥ)
 
 ## mukta-m0-p35-v870
-[Aśvodaraja+named](aśva+udara+ja+saṃjñaḥ) [another](anyaḥ) [again](punaḥ) [Vaiśvānara+named](vaiśvānara+āhvayaḥ)
+[aśvodaraja](aśvodaraja) [named](saṃjñaḥ) [another](anyaḥ) [again](punaḥ) [vaiśvānara](vaiśvānara) [called](āhvayaḥ)
 
 ## mukta-m0-p35-v871
-[then](tataḥ) [earth](bhū) [water](salila) [fire](agni) [wind](vāyu) [then](atha) [Ananta](ananta) [with-obeisance+endowed](namaḥ+anvitān)
+[then](tataḥ) [earth](bhū) [water](salila) [fire](agni) [wind](vāyu) [and](atha) [ananta](ananta) [obeisance](namaḥ) [endowed-with](anvitān)
 
 ## mukta-m0-p35-v872
-[then](tataḥ) [and](ca) [in-east+etc.-directions](pūrva+ādi+dikṣu) [earth+etc.-tetrad](pṛthivī+ādi+catuṣṭayam)
+[then](tataḥ) [and](ca) [in-east](pūrva) [etc](ādi) [directions](dikṣu) [earth](pṛthivī) [etc](ādi) [tetrad](catuṣṭayam)
 
 ## mukta-m0-p35-v873
-[kalā+tetrad](kalā+catuṣṭayaṃ) [in-corners](koṇeṣu) [having-worshipped](saṃpūjya) [according-to-rule](yathā+vidhi)
+[kalā](kalā) [tetrad](catuṣṭayaṃ) [in-corners](koṇeṣu) [having-worshipped](saṃpūjya) [according-to-rule](yathāvidhi)
 
 ## mukta-m0-p35-v874
-[Jāgatā](jāgatā) [Tapanī](tapanī) [Vedagarbhā](veda+garbhā) [fire+formed](dahana+rūpiṇī)
+[jāgatā](jāgatā) [tapanī](tapanī) [veda](veda) [womb](garbhā) [fire](dahana) [formed](rūpiṇī)
 
 ## mukta-m0-p35-v875
-[Vāgīśvarī](vāgīśvarī) [Madavahā](mada+vahā) [moon+formed](soma+rūpā) [mind+swift](manaḥ+javā)
+[vāgīśvarī](vāgīśvarī) [intoxication](mada) [bearing](vahā) [moon](soma) [formed](rūpā) [mind](manaḥ) [swift](javā)
