@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[to-beautiful-form+homage](surūpāyanamaḥ) [to-splendor+homage](tejasenamaḥ) [to-splendor-making+treasure+homage](tejaskaranidhayenamaḥ)
+[to-beautiful-form](surūpāya)[obeisance](namaḥ) [to-lustrous-one](tejase)[obeisance](namaḥ) [to-splendor+making+treasure](tejas+kara+nidhaye)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2952
-[to-turbaned-one+homage](uṣṇīṣiṇenamaḥ) [to-beautiful-faced-one+homage](suvaktrāyanamaḥ) [to-elevated-one+homage](udagrāyanamaḥ)
+[to-turbaned-one](uṣṇīṣiṇe)[obeisance](namaḥ) [to-beautiful-faced-one](su+vaktrāya)[obeisance](namaḥ) [to-lofty-one](udagrāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2953
-[to-humble-one+homage](vinatāyanamaḥ) [to-long-one+homage](dīrgghāyanamaḥ) [to-tawny-haired-one+homage](harikeśāyanamaḥ)
+[to-humble-one](vinatāya)[obeisance](namaḥ) [to-long-one](dīrgghāya)[obeisance](namaḥ) [to-tawny-haired-one](hari+keśāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2954
-[to-accomplished-purpose-one+homage](siddhārtthāyanamaḥ) [to-shaven-headed-one+homage](muṇḍāyanamaḥ)
+[to-accomplished-purpose-one](siddhārtthāya)[obeisance](namaḥ) [to-shaven-headed-one](muṇḍāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2955
-[to-all-auspicious-making-one+homage](sarvaśubhaṃkarāyanamaḥ) [to-unborn-one+homage](ajāyanamaḥ) [to-many-formed-one+homage](bahurūpāyanamaḥ)
+[to-all+auspiciousness+making-one](sarva+śubhaṃ+karāya)[obeisance](namaḥ) [to-unborn-one](ajāya)[obeisance](namaḥ) [to-many-formed-one](bahu+rūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2956
-[to-fragrance-bearing-one+homage](gandhadhāriṇenamaḥ) [to-matted-hair-one+homage](kaparddinenamaḥ)
+[to-fragrance+bearing-one](gandha+dhāriṇe)[obeisance](namaḥ) [to-matted-haired-one](kaparddine)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2957
-[to-upward-semen-one+homage](urddhvaretasenamaḥ) [to-upward-mark-one+homage](urddhvaliṅgāyanamaḥ)
+[to-upward+semen-one](urddhva+retase)[obeisance](namaḥ) [to-upward+mark-one](urddhva+liṅgāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2958
-[to-upward-lying-one+homage](urddhvaśāyinenamaḥ) [to-sky-abiding-one+homage](nabhasthalāyanamaḥ) [to-three-braided-one+homage](trijaṭāyanamaḥ)
+[to-upward+lying-one](urddhva+śāyine)[obeisance](namaḥ) [to-sky+abiding-one](nabhaḥ+sthalāya)[obeisance](namaḥ) [to-three-matted-locks-one](tri+jaṭāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2959
-[to-mighty-one+homage](vibhavenamaḥ) [to-day-wandering-one+homage](ahaścarāyanamaḥ) [to-night-wandering-one+homage](naktañcarāyanamaḥ)
+[to-mighty-one](vibhave)[obeisance](namaḥ) [to-day+moving-one](ahaḥ+carāya)[obeisance](namaḥ) [to-night+moving-one](naktañ+carāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2960
-[to-sharp-spirited-one+homage](tigmamanyavenamaḥ) [to-beautifully-radiant-one+homage](suvarccasāyanamaḥ) [to-elephant-slayer+homage](gajaghnenamaḥ)
+[to-sharp+wrath-one](tigma+manyave)[obeisance](namaḥ) [to-brilliant-one](su+varccasāya)[obeisance](namaḥ) [to-elephant+slayer](gaja+ghne)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2961
-[to-demon-slayer+homage](daityaghnenamaḥ) [to-time+homage](kālāyanamaḥ) [to-world-supporter+homage](lokadhātrenamaḥ)
+[to-demon+slayer](daitya+ghne)[obeisance](namaḥ) [to-time](kālāya)[obeisance](namaḥ) [to-world+sustainer](loka+dhātre)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2962
-[to-quality-mine+homage](guṇākarāyanamaḥ)
+[to-quality+mine](guṇa+ākarāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2963
-[to-lion+tiger+form-one+homage](siṃhaśārddūlarūpāyanamaḥ)
+[to-lion+tiger+form-one](siṃha+śārddūla+rūpāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2964
-[to-wet-skin+garment+covered-one+homage](ārddracarmāmbarāvṛtāyanamaḥ) [to-time-yogin+homage](kālayoginenamaḥ)
+[to-wet+skin+garment+covered-one](ārddra+carma+ambara+āvṛtāya)[obeisance](namaḥ) [to-time+yoked-one](kāla+yogine)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2965
-[to-night-wandering-one+homage](niśācarāyanamaḥ) [to-spirit-wandering-one+homage](pretacāriṇenamaḥ)
+[to-night+roaming-one](niśā+carāya)[obeisance](namaḥ) [to-spirit+wandering-one](preta+cāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2966
-[to-motion+homage](gatayenamaḥ) [to-dance-loving-one+homage](nṛtyapriyāyanamaḥ) [to-eternal-dancer+homage](nityanarttāyanamaḥ)
+[to-refuge](gataye)[obeisance](namaḥ) [to-dance+fond-one](nṛtya+priyāya)[obeisance](namaḥ) [to-eternal+dancer](nitya+narttāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2967
-[to-dancer+homage](narttakāyanamaḥ) [to-all-sportive-one+homage](sarvalālasāyanamaḥ) [to-terrible-one+homage](ghorāyanamaḥ)
+[to-dancer](narttakāya)[obeisance](namaḥ) [to-all+sportive-one](sarva+lālasāya)[obeisance](namaḥ) [to-terrible-one](ghorāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2968
-[to-great-austerity-one+homage](mahātapasenamaḥ) [to-noose+homage](pāśāyanamaḥ) [to-eternal-one+homage](nityāyanamaḥ)
+[to-great+austerity-one](mahā+tapase)[obeisance](namaḥ) [to-noose](pāśāya)[obeisance](namaḥ) [to-eternal-one](nityāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2969
-[to-mountain-dwelling-one+homage](giriruhāyanamaḥ) [to-sky+homage](nabhasenamaḥ) [to-thousand-handed-one+homage](sahasrahastāyanamaḥ)
+[to-mountain+dwelling-one](giri+ruhāya)[obeisance](namaḥ) [to-sky](nabhasen)[obeisance](namaḥ) [to-thousand+handed-one](sahasra+hastāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2970
-[to-victory+homage](vijayāyanamaḥ) [to-resolute-effort+homage](vyavasāyanamaḥ) [to-unwearied-one+homage](atandritāyanamaḥ)
+[to-victory](vijayāya)[obeisance](namaḥ) [to-resolve](vyavasāyan)[obeisance](namaḥ) [to-unwearied-one](atandritāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2971
-[to-unassailable-one+homage](adharṣaṇāyanamaḥ) [to-assailing-natured-one+homage](dharṣaṇātmanenamaḥ) [to-sacrifice-slayer+homage](yajñaghnenamaḥ)
+[to-unassailable-one](adharṣaṇāya)[obeisance](namaḥ) [to-assailing+natured-one](dharṣaṇa+ātmanen)[obeisance](namaḥ) [to-sacrifice+slayer](yajña+ghne)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2972
-[to-desire-destroyer+homage](kāmanāśakāyanamaḥ) [to-dakṣa-sacrifice-remover+homage](dakṣayāgāpahāriṇenamaḥ)
+[to-desire+destroyer](kāma+nāśakāya)[obeisance](namaḥ) [to-Dakṣa+sacrifice+destroyer](dakṣa+yāga+apahāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2973
-[to-easily-enduring-one+homage](susahāyanamaḥ) [to-middle-one+homage](madhyamāyanamaḥ) [to-splendor-remover+homage](tejopahāriṇenamaḥ)
+[to-very-patient-one](su+sahāya)[obeisance](namaḥ) [to-middle-one](madhyamāya)[obeisance](namaḥ) [to-splendor+remover](tejaḥ+upahāriṇe)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2974
-[to-strength-slayer+homage](balaghnenamaḥ) [to-delighted-one+homage](uditāyanamaḥ) [to-meaning+homage](artthāyanamaḥ)
+[to-strength+slayer](bala+ghne)[obeisance](namaḥ) [to-delighted-one](uditāya)[obeisance](namaḥ) [to-meaning](artthāya)[obeisance](namaḥ)
 
 ## mukta-m0-p119-v2975
-[to-unconquered-one+homage](ajitāyanamaḥ) [to-inferior-one+homage](avarāyanamaḥ) [to-profound-one+homage](gambhīrāyanamaḥ)
+[to-unconquered-one](ajitāya)[obeisance](namaḥ) [to-inferior-one](avarāya)[obeisance](namaḥ) [to-profound-one](gambhīrāya)[obeisance](namaḥ)

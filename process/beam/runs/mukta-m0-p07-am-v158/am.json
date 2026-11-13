@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p07",
  "verse": 158,
- "question": "What action follows anointing the vulva with oil in this ritual?",
+ "question": "What correspondence must hold between the rosary and the act of counting?",
  "premises": [
-  "Oil is used to anoint the vulva.",
-  "The anointing precedes another action.",
-  "The woman then approaches her husband."
+  "The rosary has a certain kind or quality",
+  "Counting is performed with it",
+  "The counting corresponds to that kind"
  ],
- "inference": "After anointing the vulva with oil, she approaches her husband.",
- "uncertainties": [],
- "plain_english": "Having anointed the vulva with oil, she approaches her husband."
+ "inference": "The manner or nature of counting corresponds to the kind of rosary used.",
+ "uncertainties": [
+  "The predicate is elliptical; the exact correspondence is implied rather than stated"
+ ],
+ "plain_english": "Of whatever kind the rosary is, of that kind also is the counting."
 }

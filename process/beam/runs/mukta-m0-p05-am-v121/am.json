@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 121,
- "question": "How can three entities without distinction still be mutually differentiated?",
+ "question": "Why is the stated subject accepted as authoritative in this context?",
  "premises": [
-  "These three are in themselves without distinction.",
-  "They are connected with great and small sources.",
-  "Connection with different sources produces differentiation."
+  "A particular subject is being referred to",
+  "The Agastya Saṃhitā states it",
+  "Being stated there provides authority"
  ],
- "inference": "Although without distinction, these three are mutually distinguished due to their connection with great and small sources.",
- "uncertainties": [],
- "plain_english": "Although these three are without distinction, they are mutually distinguished because of their connection with great and small sources."
+ "inference": "The subject is accepted because it is stated in the Agastya Saṃhitā",
+ "uncertainties": [
+  "The exact content of tatra+āma+viṣayam is not explicit"
+ ],
+ "plain_english": "That subject is accepted because it is stated in the Agastya Saṃhitā."
 }

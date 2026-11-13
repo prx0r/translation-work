@@ -20,7 +20,7 @@
 },
 {
 "surface": "tanmasi",
-"quick_gloss": "we-relax"
+"quick_gloss": "we-weaken"
 }
 ]
 },
@@ -45,7 +45,7 @@
 },
 {
 "surface": "tannmasi",
-"quick_gloss": "we-relax"
+"quick_gloss": "we-weaken"
 }
 ]
 },
@@ -70,7 +70,7 @@
 },
 {
 "surface": "tannmasi",
-"quick_gloss": "we-relax"
+"quick_gloss": "we-weaken"
 }
 ]
 },
@@ -103,7 +103,7 @@
 },
 {
 "surface": "tanmasi",
-"quick_gloss": "we-relax"
+"quick_gloss": "we-weaken"
 }
 ]
 },
@@ -115,14 +115,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "naḥ",
-"quick_gloss": "us"
-},
-{
 "surface": "dveṣṭi",
 "quick_gloss": "hates"
 },
@@ -132,7 +124,7 @@
 },
 {
 "surface": "eṣāñ",
-"quick_gloss": "of-these"
+"quick_gloss": "of-them"
 },
 {
 "surface": "jambhe",
@@ -152,14 +144,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "naḥ",
-"quick_gloss": "us"
-},
-{
 "surface": "dveṣṭi",
 "quick_gloss": "hates"
 },
@@ -169,7 +153,7 @@
 },
 {
 "surface": "eṣāñ",
-"quick_gloss": "of-these"
+"quick_gloss": "of-them"
 },
 {
 "surface": "jambhe",
@@ -189,14 +173,6 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yaḥ",
-"quick_gloss": "who"
-},
-{
-"surface": "naḥ",
-"quick_gloss": "us"
-},
-{
 "surface": "dveṣṭi",
 "quick_gloss": "hates"
 },
@@ -206,7 +182,7 @@
 },
 {
 "surface": "eṣāñ",
-"quick_gloss": "of-these"
+"quick_gloss": "of-them"
 },
 {
 "surface": "jambhe",
@@ -227,7 +203,7 @@
 "tokens": [
 {
 "surface": "bāhubhyām",
-"quick_gloss": "to-arms"
+"quick_gloss": "with-both-arms"
 },
 {
 "surface": "uta",
@@ -267,8 +243,8 @@
 "quick_gloss": "most-auspicious"
 },
 {
-"surface": "giriśanta",
-"quick_gloss": "o-mountain-dweller"
+"surface": "giriśantā",
+"quick_gloss": "o-mountain-dweller+most-auspicious"
 },
 {
 "surface": "abhicākaśīhi",
@@ -284,12 +260,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śivā",
+"surface": "śivāṅ",
 "quick_gloss": "auspicious"
 },
 {
 "surface": "giritra",
-"quick_gloss": "o-mountain-abiding"
+"quick_gloss": "o-mountain-protector"
 },
 {
 "surface": "tāṅ",
@@ -349,8 +325,12 @@
 "quick_gloss": "free-from-disease"
 },
 {
-"surface": "sumanā'-asat",
-"quick_gloss": "of-good-mind"
+"surface": "sumanā'-",
+"quick_gloss": "well-minded"
+},
+{
+"surface": "asat",
+"quick_gloss": "may-be"
 }
 ]
 },
@@ -362,16 +342,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "adṛśrann",
+"surface": "adṛśran",
 "quick_gloss": "they-appeared"
 },
 {
-"surface": "adṛśrann",
+"surface": "adṛśran",
 "quick_gloss": "they-appeared"
 },
 {
 "surface": "udahāryaḥ",
-"quick_gloss": "arisen"
+"quick_gloss": "praiseworthy"
 },
 {
 "surface": "sa",
@@ -411,8 +391,24 @@
 "quick_gloss": "his"
 },
 {
-"surface": "sattvāno'hantebhyo'karannamaḥ",
+"surface": "sattvāno'",
 "quick_gloss": "beings"
+},
+{
+"surface": "aham",
+"quick_gloss": "I"
+},
+{
+"surface": "tebhyo'",
+"quick_gloss": "to-them"
+},
+{
+"surface": "akaran",
+"quick_gloss": "have-made"
+},
+{
+"surface": "namaḥ",
+"quick_gloss": "homage"
 }
 ]
 },
@@ -424,8 +420,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yāśca",
+"surface": "yāś",
 "quick_gloss": "which"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "te",
@@ -465,12 +465,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "niṣaṅgadhiḥ",
-"quick_gloss": "quiver"
+"surface": "'-ābhura",
+"quick_gloss": "empty"
 },
 {
-"surface": "'-ābhurasya",
-"quick_gloss": "of-this"
+"surface": "asya",
+"quick_gloss": "its"
+},
+{
+"surface": "niṣaṅgadhiḥ",
+"quick_gloss": "quiver-holder"
 }
 ]
 },
@@ -482,11 +486,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tayā",
+"surface": "tayā'",
 "quick_gloss": "with-that"
 },
 {
-"surface": "'smān",
+"surface": "asmān",
 "quick_gloss": "us"
 },
 {
@@ -519,20 +523,28 @@
 "quick_gloss": "and-also"
 },
 {
-"surface": "ya'-iṣudhis",
+"surface": "ya'-",
 "quick_gloss": "which"
 },
 {
-"surface": "tavāre",
+"surface": "iṣudhis",
+"quick_gloss": "quiver"
+},
+{
+"surface": "tavā",
 "quick_gloss": "your"
 },
 {
+"surface": "re",
+"quick_gloss": "far"
+},
+{
 "surface": "'-asmann",
-"quick_gloss": "away-from-us"
+"quick_gloss": "from-us"
 },
 {
 "surface": "nidhehi",
-"quick_gloss": "deposit"
+"quick_gloss": "place"
 },
 {
 "surface": "tam",
@@ -549,11 +561,11 @@
 "tokens": [
 {
 "surface": "niśīrya",
-"quick_gloss": "having-broken"
+"quick_gloss": "having-shattered"
 },
 {
 "surface": "śalyānām",
-"quick_gloss": "of-arrows"
+"quick_gloss": "of-darts"
 },
 {
 "surface": "mukhā",
@@ -569,7 +581,7 @@
 },
 {
 "surface": "sumanā",
-"quick_gloss": "of-good-mind"
+"quick_gloss": "well-minded"
 },
 {
 "surface": "bhava",
@@ -626,16 +638,12 @@
 "quick_gloss": "portion"
 },
 {
-"surface": ".ā",
-"quick_gloss": "indeed"
-},
-{
-"surface": "akhus",
-"quick_gloss": "yours"
+"surface": ".āakhus",
+"quick_gloss": ".āakhus"
 },
 {
 "surface": "te",
-"quick_gloss": "is"
+"quick_gloss": "your"
 },
 {
 "surface": "paśuḥ",
@@ -659,12 +667,12 @@
 "quick_gloss": "to-us"
 },
 {
-"surface": "vvasyas",
-"quick_gloss": "welfare"
+"surface": "vvasyasas",
+"quick_gloss": "better"
 },
 {
-"surface": "askarad",
-"quick_gloss": "may-make"
+"surface": "karad",
+"quick_gloss": "he-may-make"
 },
 {
 "surface": "yathā",
@@ -675,12 +683,8 @@
 "quick_gloss": "to-us"
 },
 {
-"surface": "śreyas",
-"quick_gloss": "better"
-},
-{
-"surface": "karad",
-"quick_gloss": "may-make"
+"surface": "śreyaskarad",
+"quick_gloss": "welfare"
 },
 {
 "surface": "yathā",
@@ -692,7 +696,7 @@
 },
 {
 "surface": "vvyavasāyayāt",
-"quick_gloss": "may-determine"
+"quick_gloss": "he-may-direct"
 }
 ]
 },
@@ -766,7 +770,7 @@
 },
 {
 "surface": "svaḥ",
-"quick_gloss": "own"
+"quick_gloss": "heaven"
 },
 {
 "surface": "samīhase",
@@ -791,19 +795,19 @@
 },
 {
 "surface": "jalpyā",
-"quick_gloss": "muttering"
+"quick_gloss": "murmuring"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "āsutṛpa",
-"quick_gloss": "life-draining"
+"surface": "asutṛpa",
+"quick_gloss": "life-drinking"
 },
 {
 "surface": "''-ukthaśāsaś",
-"quick_gloss": "reciting-hymns"
+"quick_gloss": "hymn-reciting"
 },
 {
 "surface": "caranti",
@@ -827,8 +831,12 @@
 "quick_gloss": "father"
 },
 {
-"surface": "janitauṣadhīnām",
-"quick_gloss": "generator"
+"surface": "janitau",
+"quick_gloss": "begetter"
+},
+{
+"surface": "ṣadhīnām",
+"quick_gloss": "of-plants"
 },
 {
 "surface": "apāṅ",
