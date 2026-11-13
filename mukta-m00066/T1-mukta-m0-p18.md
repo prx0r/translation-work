@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[bodiless+powers](anaṃgaśaktayo) [eight](ṣṭau) [indeed](tu) [to-be-worshipped](pūjanīyā) [by-the-wise](manīṣibhiḥ)
+[ananga-śaktayaḥ](anaṃgaśaktayoṣṭau) [eight](aṣṭau) [indeed](tu) [to-be-worshipped](pūjanīyāmanīṣibhiḥ) [by-the-wise](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[ananga-madana](anaṃgamadanā) [ananga](naṃga) [with-madanatura](madanāturayā) [together](saha)
+[ananga-madanā](anaṃgamadanānaṃga) [ananga](anaṃga) [with-madanāturā](madanāturayā) [together](saha)
 
 ## mukta-m0-p18-v428
-[ananga-malinī](anaṃgamālinī) [and](ca) [eight](aṣṭau) [to-be-worshipped](pūjanīyā) [according-to-rule](vidhānataḥ)
+[ananga-mālinī](anaṃgamālinī) [and-eight](cāṣṭau) [to-be-worshipped](pūjanīyā) [according-to-rule](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-[bliss+wheel](ānaṃdacakram) [bliss](ānaṃda) [uproar](kolāhala) [increasing](vivarddhanam)
+[bliss-wheel](ānaṃdacakramānaṃda) [bliss](ānaṃda) [uproar-increasing](kolāhalavivarddhanam)
 
 ## mukta-m0-p18-v430
-[lightning+splendor](taṭitprabhā) [radiance](samullāsa) [tawny](piṃjaraiḥ) [with-desire+rays](kāmaraśmibhiḥ)
+[with-lightning-splendor](taṭitprabhā) [with-radiance-tawny](samullāsapiṃjaraiḥ) [with-desire-rays](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[ananga-power](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from-channels](nāḍībhyo) [flowed](galitaṃ) [new](navam)
+[ananga-śakti](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from-channels-flowed](nāḍībhyogalitaṃ) [new](navam)
 
 ## mukta-m0-p18-v432
-[eroticism+bearing](śṛṃgāravāhinī) [stream](pūra) [filled-with-passion](pūrṇarāgāṃ) [reddish](kurāruṇam)
+[eroticism-bearing-stream](śṛṃgāravāhinīpūra) [filled-with-passion](pūrṇarāgāṃ) [tawny-red](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[god-of-love+fluid](manmathadrava) [mass](saṃdoha) [endowed-with](juṣṭam) [by-distinctions-of-meaning](arthaprabhedanaiḥ)
+[love-god-fluid](manmathadrava) [mass](saṃdoha) [endowed-with](juṣṭamarthaprabhedanaiḥ) [by-meaning-distinctions](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[who](kā) [this](iyaṃ) [moon+digit](caṃdrakalā) [named](nāma) [where](kutra) [stands](tiṣṭhati) [O-Śaṅkara](śaṃkara)
+[who](keyaṃ) [moon-digit](caṃdrakalānāma) [named](nāma) [where](kutra) [stands](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-[hear](śṛṇu) [desire+digit](kāmakalā) [named](nāma) [channel+enjoyment](nāḍībhogāṃ) [bearing](buvāhinī)
+[listen](śṛṇukāmakalānāma) [kāmakalā](kāmakalānāma) [named](nāma) [channel-enjoyment-water-bearing](nāḍībhogāṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-[channel+wheel](nāḍīcakraṃ) [entire](samastaṃ) [and](ca) [by-that](tayā) [pervaded](vyāptaṃ) [O-fair-faced-one](varānane)
+[channel-wheel](nāḍīcakraṃ) [entire](samastaṃ) [and](ca) [by-that](tayā) [pervaded](vyāptaṃ) [o-fair-faced-one](varānane)
 
 ## mukta-m0-p18-v437
-[some](kāścid) [bliss+bearing](ānaṃdavāhinya) [one](ekaiva) [impurity+bearing](malavāhinī)
+[some](kāścidānaṃdavāhinya) [bliss-bearing](ānaṃdavāhinya) [one-only](ekaivamalavāhinī) [impurity-bearing](amalavāhinī)
 
 ## mukta-m0-p18-v438
-[eight](aṣṭau) [enjoyment+fluid+bearing](bhogāṃbuvāhinyaḥ) [among-them](tāsu) [moon+digit](caṃdrakalā) [supreme](parā)
+[eight](aṣṭaubhogāṃbuvāhinyaḥ) [enjoyment-water-bearing](bhogāṃbuvāhinyaḥ) [among-them](tāsu) [moon-digit](caṃdrakalā) [supreme](parā)
 
 ## mukta-m0-p18-v439
-[moon+line](caṃdrarekhā) [moon-possessing](caṃdravatī) [likewise](tathā) [moon+great+rising](caṃdramahodayā)
+[moon-line](caṃdrarekhā) [moon-possessing](caṃdravatī) [likewise](tathā) [moon-rise](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-[these](etā) [enjoyment+fluid+bearing](bhogāṃbuvāhinya) [with-their-own+parts](svāṃśaiś) [moon+digit](caṃdrakalā) [resorting-to](śritāḥ)
+[these](etābhogāṃbuvāhinya) [enjoyment-water-bearing](bhogāṃbuvāhinya) [with-their-own-parts](svāṃśaiścaṃdrakalāśritāḥ) [moon-digit-resorting-to](caṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-[principal+being](pradhānabhūtā) [shining](vilasad) [lightning+garland](vidyuddāma) [equal+splendor](samaprabhā)
+[principal-being](pradhānabhūtā) [shining-lightning-garland](vilasadvidyuddāma) [equal-splendor](samaprabhā)
 
 ## mukta-m0-p18-v442
-[all+channels](sarvanāḍī) [root+being](mūlabhūtaṃ) [navel+wheel](nābhicakraṃ) [resorting-to](samāśritā)
+[all-channels-root-being](sarvanāḍīmūlabhūtaṃ) [navel-wheel](nābhicakraṃ) [resorting-to](samāśritā)
 
 ## mukta-m0-p18-v443
-[its+mouth](tanmukho) [opening](tghāṭanaṃ) [in-the-world](loke) [hard-to-obtain](durlabhaṃ) [O-supreme-goddess](parameśvari)
+[its-mouth-opening](tanmukhot) [opening](ghāṭanaṃ) [in-the-world](loke) [hard-to-obtain](durlabhaṃ) [o-supreme-goddess](parameśvari)
 
 ## mukta-m0-p18-v444
-[of-two-or-three](dvitrāṇām) [alone](eva) [arises](jāyeta) [among-thousands](sahasreṣv) [then](atha) [among-kaulas](kauliṣu)
+[of-two-or-three](dvitrāṇāmeva) [only](eva) [may-arise](jāyeta) [among-thousands](sahasreṣvathakauliṣu) [then-among-kaulas](athakauliṣu)
 
 ## mukta-m0-p18-v445
-[whose](yasya) [in-linga](liṃge) [of-the-lord](svara) [sprinkling](seka) [even-once](sakṛdvā) [in-this-birth](pīhajanmani)
+[whose](yasya) [in-linga](liṃgesvarāseka) [sprinkling](rāseka) [once-even](sakṛdvāpīhajanmani) [in-this-birth](ihajanmani)
 
 ## mukta-m0-p18-v446
-[of-the-indescribable](anirvācyasya) [liberation](nirvāṇa) [state](padavī) [not-far](nadaviyasī)
+[of-the-indescribable](anirvācyasya) [liberation](nirvāṇa) [path](padavīnadaviyasī) [not-far](adaviyasī)
 
 ## mukta-m0-p18-v447
-[of-the-observance](samayasya) [from-full-knowledge](parijñānād) [of-the-procedure](upacārasya) [from-conception](kalpanāt)
+[of-the-observance](samayasya) [from-knowledge](parijñānādupacārasya) [of-ritual](upacārasya) [from-conception](kalpanāt)
 
 ## mukta-m0-p18-v448
-[sometimes](kadācit) [somewhere](kvacid) [manifestation](unmeṣaṃ) [mouth+opening](mukhodghāṭana) [characterized-by](lakṣaṇam)
+[sometimes](kadācit) [somewhere](kvacidunmeṣaṃ) [manifestation](unmeṣaṃ) [mouth-opening-characterized](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-[for-that-purpose](tadarthāny) [indeed](eva) [scriptures](śāstrāṇi) [for-that-purpose](tadarthāś) [and](ca) [activities](pravṛttayaḥ)
+[for-that-purpose](tadarthānyevaśāstrāṇi) [indeed-scriptures](evaśāstrāṇi) [for-that-purpose](tadarthāśca) [and-practices](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[therefore](tasmāc) [in-moon-digit+channel](caṃdrakalānāḍyāṃ) [enjoyment+nectar](bhogāmṛta) [great-ocean](mahodadhim)
+[therefore](tasmāccaṃdrakalānāḍyāṃ) [in-moon-digit-channel](caṃdrakalānāḍyāṃ) [enjoyment-nectar](bhogāmṛtamahodadhim) [great-ocean](mahodadhim)
