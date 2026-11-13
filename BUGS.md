@@ -140,3 +140,16 @@ identical repeats (`collapse_dups`); (4) rebuild L0 from CM, remap argmap/L2
 `l0_ids`; (5) re-proof. Until then they stay BLOCKED and `assemble_all` skips
 after the retry cap. Cheap alternative: re-`auto_burn` the song from source
 (fresh T1) once a stricter draft prompt is in place.
+
+## 16. Queue clobbering by un-locked writers (2026-11-13)
+**Symptom:** retired/superseded tasks reappeared as pending; the SAME task was
+claimed by two workers; throughput was near zero (stale snapshots overwriting
+worker claims).
+**Root:** `auto_burn.save_queue` (tw-wave), `recycle_failed.py`, and
+`registry_sync --seed` all did `json.load` → mutate → `json.dump` on
+`queue.json` WITHOUT the shared lock used by `beam_swarm.queue_update`. A long
+beam call in auto_burn then wrote a stale whole-queue snapshot over concurrent
+worker edits.
+**Fix:** all three now mutate through `beam_swarm.queue_update` (file-locked,
+fresh read, immediate write). `auto_burn.seed_locked()` re-reads at seed time.
+**Rule:** *one writer discipline for queue.json — always queue_update.*

@@ -1,0 +1,575 @@
+{
+ "song": "kul-p24",
+ "items": [
+  {
+   "verse": 588,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner or consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyāvṛto",
+     "gloss": "covered-by-māyā",
+     "grounds": "describes the self as veiled by māyā; compound",
+     "morph": "compound=māyā+āvṛtaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "hyātmā",
+     "gloss": "indeed-the-self",
+     "grounds": "sandhi hi+ātmā; subject seen through the substance",
+     "morph": "sandhi=hi+(indecl.)+ātmā (m.nom.sg)"
+    },
+    {
+     "surface": "dravyapānena",
+     "gloss": "by-drinking-substance",
+     "grounds": "instrument by which the veiled self is seen; compound",
+     "morph": "compound=dravya+pānena (n.ins.sg)"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "passive perception or realization of the self",
+     "morph": "3.sg.pass-pres (√dṛś)"
+    }
+   ],
+   "question": "How does drinking the ritual substance reveal the self covered by māyā?",
+   "premises": [
+    "The self is covered by māyā.",
+    "Drinking the ritual substance serves as an instrument of vision.",
+    "Through this drinking the self becomes seen."
+   ],
+   "inference": "Ritual drinking functions as a means by which the māyā-veiled self is directly perceived.",
+   "uncertainties": [
+    "Whether dṛśyate indicates literal seeing or inner realization is context-dependent."
+   ],
+   "plain_english": "Thus the self, covered by māyā, is seen through the drinking of the substance."
+  },
+  {
+   "verse": 589,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to people who drink",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pibanti",
+     "gloss": "drink",
+     "grounds": "action performed by those people",
+     "morph": "3.pl.act-pres (√pā)"
+    },
+    {
+     "surface": "janāḥ",
+     "gloss": "people",
+     "grounds": "subjects of the relative clause",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers back to those who drink",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "stanyapānaṃ",
+     "gloss": "milk-drinking",
+     "grounds": "drinking of mother's milk; contrasted with ritual drinking; compound",
+     "morph": "compound=stanya+pānam (n.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates existence or occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "states absence of milk-drinking for them",
+     "morph": "3.sg.pass-pres (√vid)"
+    }
+   ],
+   "question": "What distinguishes those who drink the ritual substance from ordinary milk-drinkers?",
+   "premises": [
+    "Some people drink the ritual substance.",
+    "For those people milk-drinking does not exist.",
+    "Ritual drinking marks a break from ordinary nourishment."
+   ],
+   "inference": "Those who partake in this drinking are defined by a practice distinct from ordinary infantile nourishment.",
+   "uncertainties": [
+    "The statement may be rhetorical or hyperbolic rather than literal."
+   ],
+   "plain_english": "For those people who drink, there is no drinking of milk."
+  },
+  {
+   "verse": 590,
+   "rows": [
+    {
+     "surface": "aho",
+     "gloss": "oh-wonder",
+     "grounds": "exclamation expressing amazement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "enjoyer",
+     "grounds": "one who partakes or experiences",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madyasya",
+     "gloss": "of-wine",
+     "grounds": "object of enjoyment",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mohayed",
+     "gloss": "would-delude",
+     "grounds": "potential power to cause delusion",
+     "morph": "3.sg.act-opt (√muh)"
+    },
+    {
+     "surface": "amarānapi",
+     "gloss": "immortals-even",
+     "grounds": "sandhi amarān+api; even gods could be deluded",
+     "morph": "sandhi=amarān (m.acc.pl)+api (indecl.)"
+    }
+   ],
+   "question": "What power does the enjoyer of wine possess over even the immortal gods?",
+   "premises": [
+    "There is an enjoyer of wine.",
+    "Wine has the power to delude.",
+    "Even immortals are susceptible to such delusion."
+   ],
+   "inference": "The proper enjoyer of wine wields a power capable of affecting even the gods.",
+   "uncertainties": [
+    "Whether this praises mastery or warns of danger depends on the wider ritual context."
+   ],
+   "plain_english": "Oh, the enjoyer of wine could delude even the immortals."
+  },
+  {
+   "verse": 591,
+   "rows": [
+    {
+     "surface": "maddhyānaikaparo",
+     "gloss": "devoted-to-meditation-on-me",
+     "grounds": "one solely intent on meditation on the speaker/deity; compound",
+     "morph": "compound=mat+dhyāna+eka+paraḥ (m.nom.sg)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior state leading to liberation and Kaula status",
+     "morph": "gerund (√bhū)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "state attained by such devotion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "repeated subject for emphasis",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaula-practitioner",
+     "grounds": "one belonging to or accomplished in the Kula way",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What spiritual status is attained by one devoted solely to meditation on the divine?",
+   "premises": [
+    "A person becomes solely devoted to meditation on the divine.",
+    "Such a person is declared liberated.",
+    "Such a person is also declared a Kaulika."
+   ],
+   "inference": "Exclusive meditative devotion confers both liberation and authentic Kaula identity.",
+   "uncertainties": [
+    "The exact referent of mat in maddhyāna is inferred from context as the deity or supreme principle."
+   ],
+   "plain_english": "Having become devoted solely to meditation on me, he is liberated and he is a Kaulika."
+  },
+  {
+   "verse": 592,
+   "rows": [
+    {
+     "surface": "tayoraikyasamutpanna",
+     "gloss": "arisen-from-unity-of-those-two",
+     "grounds": "bliss born from the union of two principles; compound",
+     "morph": "compound=tayoḥ+aikya+samutpannaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "ānando",
+     "gloss": "bliss",
+     "grounds": "the experiential state produced by unity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "identified with that bliss; sandhi form mokṣaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "equates bliss arising from unity with liberation",
+     "morph": "3.sg.pass-pres (√vac)"
+    }
+   ],
+   "question": "How is liberation defined in terms of the bliss arising from the unity of two principles?",
+   "premises": [
+    "Bliss arises from the unity of two principles.",
+    "This bliss is given a specific designation.",
+    "That designation is liberation."
+   ],
+   "inference": "Liberation is identified with the bliss born from the union of the two principles.",
+   "uncertainties": [
+    "The two principles referred to by tayoḥ are not explicitly named in this verse."
+   ],
+   "plain_english": "The bliss arising from the unity of those two is called liberation."
+  },
+  {
+   "verse": 593,
+   "rows": [
+    {
+     "surface": "tasyābhivyañjakaṃ",
+     "gloss": "manifesting-that",
+     "grounds": "sandhi tasya+abhivyañjakam; that which reveals or expresses that bliss; compound",
+     "morph": "sandhi=tasya (m.gen.sg)+abhivyañjakam (n.nom.sg)"
+    },
+    {
+     "surface": "madyaṃ",
+     "gloss": "wine",
+     "grounds": "ritual substance serving as manifestor",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "by-yogis",
+     "grounds": "agents who drink it",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "indicates reason for the practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīyate",
+     "gloss": "is-drunk",
+     "grounds": "ritual act performed by yogis",
+     "morph": "3.sg.pass-pres (√pā)"
+    }
+   ],
+   "question": "Why do yogis drink wine as a manifestation of liberating bliss?",
+   "premises": [
+    "A certain bliss is identified with liberation.",
+    "Wine manifests that bliss.",
+    "Yogis drink wine for that reason."
+   ],
+   "inference": "Yogis drink wine because it serves as a manifesting support for the bliss of liberation.",
+   "uncertainties": [
+    "The degree to which wine is literal or symbolic is not specified in this verse."
+   ],
+   "plain_english": "Wine manifests that bliss; therefore it is drunk by yogis."
+  },
+  {
+   "verse": 594,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative particle introducing a rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation within rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "act of perceiving or recognizing",
+     "morph": "3.sg.act-pres (√dṛś)"
+    },
+    {
+     "surface": "loko'yaṃ",
+     "gloss": "world-this",
+     "grounds": "sandhi lokaḥ+ayam; this world or people in general",
+     "morph": "sandhi=lokaḥ (m.nom.sg)+ayam (m.nom.sg)"
+    },
+    {
+     "surface": "brahmaviṣṇumaheśvarān",
+     "gloss": "brahma-viṣṇu-maheśvara",
+     "grounds": "the three great deities as objects of vision; compound",
+     "morph": "compound=brahma+viṣṇu+maheśvarān (m.acc.pl)"
+    }
+   ],
+   "question": "What failure of recognition does this world exhibit regarding Brahmā, Viṣṇu, and Maheśvara?",
+   "premises": [
+    "Brahmā, Viṣṇu, and Maheśvara are present as objects of recognition.",
+    "This world does not see them.",
+    "The question implies a failure of perception."
+   ],
+   "inference": "The world fails to recognize the supreme deities that are in principle available to be seen.",
+   "uncertainties": [
+    "Whether the deities are to be seen externally or within a ritual or yogic vision is unstated."
+   ],
+   "plain_english": "Why does this world not see Brahmā, Viṣṇu, and Maheśvara?"
+  },
+  {
+   "verse": 595,
+   "rows": [
+    {
+     "surface": "nirṇītavedaśāstrārtho",
+     "gloss": "having-determined-veda-scripture-meaning",
+     "grounds": "one who has ascertained the meaning of Veda and śāstra; compound",
+     "morph": "compound=nirṇīta+veda+śāstra+arthaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "varadāṃ",
+     "gloss": "boon-giving",
+     "grounds": "epithet of the ritual drink as granting boons",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāruṇīṃ",
+     "gloss": "vāruṇī-liquor",
+     "grounds": "the ritual wine associated with Varuṇa",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "injunction to drink under proper understanding",
+     "morph": "3.sg.act-opt (√pā)"
+    }
+   ],
+   "question": "Under what condition of scriptural understanding should one drink the boon-giving vāruṇī?",
+   "premises": [
+    "The meaning of Veda and śāstra can be determined.",
+    "Vāruṇī is described as boon-giving.",
+    "Drinking is prescribed for one who has determined scriptural meaning."
+   ],
+   "inference": "Only one who has properly ascertained the meaning of Veda and śāstra is fit to drink the boon-giving vāruṇī.",
+   "uncertainties": [
+    "The scope of vedaśāstra is broad and not specified further here."
+   ],
+   "plain_english": "One who has determined the meaning of the Vedas and śāstras should drink the boon-giving vāruṇī."
+  },
+  {
+   "verse": 596,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "coming into being of a state",
+     "morph": "3.sg.mid-pres (√jan)"
+    },
+    {
+     "surface": "devatābhāvo",
+     "gloss": "deity-nature",
+     "grounds": "state of being or identification with deity; compound",
+     "morph": "compound=devatā+bhāvaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "bhavabandhavimocakaḥ",
+     "gloss": "liberating-from-world-bondage",
+     "grounds": "quality of releasing from bondage of worldly existence; compound",
+     "morph": "compound=bhava+bandha+vimocakaḥ (m.nom.sg)"
+    }
+   ],
+   "question": "What transformative result arises from the properly undertaken ritual drinking?",
+   "premises": [
+    "A state of deity-nature arises.",
+    "This state liberates from the bondage of worldly existence.",
+    "The arising of deity-nature and liberation are linked."
+   ],
+   "inference": "The practice leads to the arising of deity-nature, which frees one from worldly bondage.",
+   "uncertainties": [
+    "The causal link to the previous verse's injunction is implied by sequence."
+   ],
+   "plain_english": "There arises a deity-nature that liberates one from the bondage of worldly existence."
+  },
+  {
+   "verse": 597,
+   "rows": [
+    {
+     "surface": "golambhane",
+     "gloss": "in-cow-rite",
+     "grounds": "locative context of a rite involving a cow; compound",
+     "morph": "compound=go+lambhane (n.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiśyasya",
+     "gloss": "of-vaiśya",
+     "grounds": "person of the vaiśya class in that context",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śūdrasya",
+     "gloss": "of-śūdra",
+     "grounds": "person of the śūdra class in that context",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "antyeṣṭikarmaṇi",
+     "gloss": "in-funeral-rite",
+     "grounds": "locative context of funeral rites; compound",
+     "morph": "compound=antyeṣṭi+karmaṇi (n.loc.sg)"
+    }
+   ],
+   "question": "In which ritual contexts involving vaiśyas and śūdras is the following exemption situated?",
+   "premises": [
+    "A cow-related rite is mentioned.",
+    "Funeral rites are mentioned.",
+    "Vaiśyas and śūdras are specified in these contexts."
+   ],
+   "inference": "The verse sets specific social and ritual contexts for the conduct described in the next verse.",
+   "uncertainties": [
+    "The exact nature of golambhane in this context is debated in tradition."
+   ],
+   "plain_english": "In the cow rite, and in the funeral rites of a vaiśya or a śūdra."
+  },
+  {
+   "verse": 598,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "spiritual teacher remembered during the act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "mental act accompanying drinking and eating",
+     "morph": "m.nom.sg (pres.part, √smṛ)"
+    },
+    {
+     "surface": "pibanmadyaṃ",
+     "gloss": "drinking-wine",
+     "grounds": "fused form piban+madyaṃ; act of drinking wine; compound/participial",
+     "morph": "sandhi=piban (m.nom.sg pres.part, √pā)+madyam (n.acc.sg)"
+    },
+    {
+     "surface": "khādan",
+     "gloss": "eating",
+     "grounds": "act of eating meat",
+     "morph": "m.nom.sg (pres.part, √khād)"
+    },
+    {
+     "surface": "māṃsaṃna",
+     "gloss": "meat-not",
+     "grounds": "fused form māṃsam+na; eating meat but not incurring fault",
+     "morph": "sandhi=māṃsam (n.acc.sg)+na (indecl.)"
+    },
+    {
+     "surface": "doṣabhāk",
+     "gloss": "fault-partaker",
+     "grounds": "one who bears or incurs fault; negated by preceding na; compound",
+     "morph": "compound=doṣa+bhāk (m.nom.sg)"
+    }
+   ],
+   "question": "How does remembrance of the guru affect fault when drinking wine and eating meat in specified rites?",
+   "premises": [
+    "One remembers the guru while drinking wine and eating meat.",
+    "These acts occur in the previously specified ritual contexts.",
+    "Such a person does not partake of fault."
+   ],
+   "inference": "Guru-remembrance exempts the practitioner from fault in these ritual acts within the stated contexts.",
+   "uncertainties": [
+    "The exemption's scope is tied to the contexts named in verse 597."
+   ],
+   "plain_english": "Remembering the guru while drinking wine and eating meat in those contexts, one does not incur fault."
+  },
+  {
+   "verse": 599,
+   "rows": [
+    {
+     "surface": "seveta",
+     "gloss": "should-enjoy",
+     "grounds": "injunction or condition regarding enjoyment",
+     "morph": "3.sg.act-opt (√sev)"
+    },
+    {
+     "surface": "madhumāṃsāni",
+     "gloss": "wine-and-meats",
+     "grounds": "ritual substances of wine and meat; compound",
+     "morph": "compound=madhu+māṃsāni (n.acc.pl)"
+    },
+    {
+     "surface": "tṛṣṇayā",
+     "gloss": "with-craving",
+     "grounds": "motive of desire or thirst",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject of the condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "one who incurs sin or transgression",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What moral consequence follows from consuming wine and meat out of mere craving?",
+   "premises": [
+    "Wine and meat may be consumed.",
+    "Consumption can be motivated by craving.",
+    "If done from craving, the person becomes a sinner."
+   ],
+   "inference": "Consuming wine and meat from craving, rather than proper ritual understanding, results in sin.",
+   "uncertainties": [
+    "The contrast with guru-guided or knowledge-based use is implied by the surrounding verses."
+   ],
+   "plain_english": "If he enjoys wine and meat out of craving, he becomes a sinner."
+  }
+ ]
+}

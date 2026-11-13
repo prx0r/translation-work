@@ -4,23 +4,23 @@
  "rows": [
   {
    "lemma": "daśādhāreṣu",
-   "morph": "loc.pl.m",
-   "grounds": "locative plural of support-base"
+   "morph": "compound(m.loc.pl)",
+   "grounds": "specifies the locations for placement"
   },
   {
    "lemma": "brahmādīn",
-   "morph": "acc.pl.m",
-   "grounds": "accusative plural of brahmā and following deities"
+   "morph": "compound(m.acc.pl)",
+   "grounds": "the deities to be placed"
   },
   {
    "lemma": "yādi",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable connective"
+   "morph": "compound",
+   "grounds": "qualifies the associated group or powers"
   },
   {
    "lemma": "śaktiyutānnyaset",
-   "morph": "3.sg.act-opt (nyas)",
-   "grounds": "fused form meaning place them joined with śakti"
+   "morph": "compound(m.acc.pl.past-passive-participle(√yuj)+3.sg.optative.act(√nyas))",
+   "grounds": "instruction to place them together with their powers; fused form"
   }
  ]
 }

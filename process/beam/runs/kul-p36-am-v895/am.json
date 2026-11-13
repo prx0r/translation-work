@@ -1,15 +1,13 @@
 {
  "song": "kul-p36",
  "verse": 895,
- "question": "What arts and instruments are named?",
+ "question": "Which artistic activities are included among the practices being described?",
  "premises": [
-  "flute vina and instruments are named",
-  "poem composition is named",
-  "ca joins the list"
+  "Musical instruments such as flute and vina are named.",
+  "Poetic composition and similar activities are named.",
+  "These are presented together as included acts."
  ],
- "inference": "Flute, vina, instruments, and poem composition are named.",
- "uncertainties": [
-  "compound membership uncertain"
- ],
- "plain_english": "Flute, vina, instruments, and poem composition are named."
+ "inference": "Playing instruments and composing poetry are included in the described practices.",
+ "uncertainties": [],
+ "plain_english": "Playing instruments like the flute and vina, and composing poetry and the like."
 }
