@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p116-v2876
-[serpent+darkness-maker-called](nāgāndhakārīkāhvaṃ) [and](ca) [pillar+darkness-maker](stambhāndhakārikā) [again](punaḥ)
+[nāga+andhakārikā+āhvam](nāgāndhakārīkāhvaṃ) [and](ca) [stambha+andhakārikā](stambhāndhakārikā) [again](punaḥ)
 
 ## mukta-m0-p116-v2877
-[darkness-named](andhākhyā) [indeed](tu) [ray-marked](marīcyaṅkā) [root+branch](mūlaśākhā) [thus](iti) [is-called](kīrtitā)
+[andha+ākhyā](andhākhyā) [but](tu) [marīci+aṅkā](marīcyaṅkā) [root+branch](mūlaśākheti) [is-called](kīrtitā)
 
 ## mukta-m0-p116-v2878
-[veda+one+with-half](vedaikasārdhaiḥ) [by-vedas](vedaiḥ) [and](tu) [world+water+form](bhavāmburūpa) [by-fourths](turyakaiḥ)
+[veda+eka+sārdhaiḥ](vedaikasārdhair) [by-vedas](vedaistu) [bhava+ambu+rūpa](bhavāmburūpa) [by-fourths](turyakaiḥ)
 
 ## mukta-m0-p116-v2879
-[with-half+water](sārdhāmbunā) [position](sthitiḥ) [to-be-known](jñeyā) [of-branch+door](śākhādvārikayoḥ) [in-order](kramāt)
+[with-half+water](sārdhāmbunā) [position](sthitir) [should-be-known](jñeyā) [of-branch+and-door](śākhādvārikayoḥ) [in-order](kramāt)
 
 ## mukta-m0-p116-v2880
 [like-root](mūlavat)
 
 ## mukta-m0-p116-v2881
-[gaṅgā](jāhravī) [and-yamunā](yamune) [and](ca) [also](api) [their-side](tatpārśve) [load-bearer](bhāravāhikā)
+[jāhravī](jāhravī) [and-yamunā](yamune) [and](ca) [also](api) [at-their-side](tatpārśve) [load-bearer](bhāravāhikā)
 
 ## mukta-m0-p116-v2882
 [with-pairs](yugmakaiḥ)
 
 ## mukta-m0-p116-v2883
-[adorning](śobhayat) [with-effort](yatnataḥ) [branches](śākhāḥ) [with-those-ornaments](tat+dhanayaiḥ) [and](ca) [very-beautiful](suśobhanaiḥ)
+[should-adorn](śobhayad) [with-effort](yatnataḥ) [branches](śākhās) [with-those-rich](tadhanayaiś) [and](ca) [very-beautiful](suśobhanaiḥ)
 
 ## mukta-m0-p116-v2884
-[in-first-udumbara](prathamodumbare) [to-be-placed](sthāpyāḥ) [with-all+limbs+adorned](sarvāvayavaśobhitāḥ)
+[in-first-udumbara](prathamodumbare) [(?)](?) [should-be-placed](sthāpyāḥ) [adorned-with-all-parts](sarvāvayavaśobhitāḥ)
 
 ## mukta-m0-p116-v2885
-[planets](grahāḥ) [and](ca) [mothers](mātāraḥ) [goddesses](vevyaḥ) [in-channel+activity+situated](nādyavyāpārasaṃsthitāḥ)
+[planets](grahāś) [and](ca) [mothers](mātāro) [vevīs](vevyo) [situated-in-channel-activity](nādyavyāpārasaṃsthitāḥ)
 
 ## mukta-m0-p116-v2886
-[forehead](lalāṭaṃ) [beautiful](śobhanaṃ) [and](ca) [above](ūrdhvaṃ) [with-serpent-teeth+endowed](nāgadantānvitaṃ) [firm](dṛḍham)
+[forehead](lalāṭaṃ) [beautiful](śobhanaṃ) [and](ca) [above](ūrdhvaṃ) [endowed-with-nāgadantas](nāgadantānvitaṃ) [firm](dṛḍham)
 
 ## mukta-m0-p116-v2887
-[by-door+height+half+quarter](dvārocchrayārdhapādena) [by-hand+foot+two](karapādadvayena) [or](vā)
+[by-half-quarter-of-door-height](dvārocchrayārdhapādena) [or](vā) [by-two-hands-and-feet](karapādadvayena)
 
 ## mukta-m0-p116-v2888
-[by-three](tribhiḥ) [by-quality+mountain+thirds](guṇagiritryaṃśaiḥ) [two](dvi) [in-two+parts](dvibhāge) [base+pair](khuradvayam)
+[by-three](tribhir) [by-thirds-of-guṇa-and-mountain](guṇagiritryaṃśair) [two](dvi) [in-two-parts](dvibhāge) [two-bases](khuradvayam)
 
 ## mukta-m0-p116-v2889
-[born-from-egg](aṇḍajam)
+[egg-born](aṇḍajam)
 
 ## mukta-m0-p116-v2890
-[to-be-made](kāryaḥ) [and](ca) [by-four+measures](caturyamāṃśaiḥ) [threshold](dehalī) [tiger+strap](vyāghrapaṭṭikā)
+[should-be-made](kāryaś) [and](ca) [by-four-measures](caturyamāṃśaiś) [threshold](dehalī) [tiger-band](vyāghrapaṭṭikā)
 
 ## mukta-m0-p116-v2891
-[all](sarva) [piercing+destruction+for](vedhavināśāya) [a-little](kiñcit) [to-the-north](uttarataḥ) [one-should-place](nyaset)
+[for-destruction-of-all-piercing](sarvavedhavināśāya) [a-little](kiñcid) [to-the-north](uttarato) [one-should-place](nyaset)
 
 ## mukta-m0-p116-v2892
-[therefore](tasmāt) [that+avoidance+for-the-sake](tat+varjanānārthāya) [of-guru](guroḥ) [having-known](jñātvaṃ) [that](tat) [is-stated](ucyate)
+[therefore](tasmāt) [for-the-sake-of-avoiding-that](tadvarjanānārthāya) [having-known-from-the-teacher](gurorjñātvaṃ) [that-is-stated](taducyate)
 
 ## mukta-m0-p116-v2893
-[by-road](rathyā) [pierced](viddhe) [exile](pravāsaḥ) [would-be](syāt) [by-crossroads](catuṣpathena) [harshness](rūkṣatā)
+[when-pierced-by-road](rathyāviddhe) [exile](pravāsaḥ) [would-be](syāc) [by-crossroads](catuṣpathena) [harshness](rūkṣatā)
 
 ## mukta-m0-p116-v2894
-[by-tree](vṛkṣeṇa) [wealth+destruction](vittanāśaḥ) [and](ca) [by-pillar](stambhena) [another's+servitude](parabhṛtyatā)
+[by-tree](vṛkṣeṇa) [loss-of-wealth](vittanāśaś) [and](ca) [by-pillar](stambhena) [servitude-to-another](parabhṛtyatā)
 
 ## mukta-m0-p116-v2895
-[by-corner](koṇena) [king+punishment](rājadaṇḍaḥ) [would-be](syāt) [confusion](vibhramaḥ) [by-door+branch](dvāraśākhayā)
+[by-corner](koṇena) [royal-punishment](rājadaṇḍaḥ) [would-be](syād) [confusion](vibhramo) [by-door-leaf](dvāraśākhayā)
 
 ## mukta-m0-p116-v2896
-[of-enemy](śatroḥ) [fear](bhayaṃ) [and](ca) [by-well](kūpena) [by-god+pierced](devabiddhe) [bondage](bandhanam)
+[fear-of-enemy](śatrorbhayaṃ) [and](ca) [by-well](kūpena) [when-pierced-by-temple](devabiddhe) [bondage](bandhanam)
 
 ## mukta-m0-p116-v2897
-[by-ashes](bhasmanā) [cattle+destruction](paśunāśaḥ) [would-be](syāt) [by-increase](vardhamānena) [cow+injury](govyadhā)
+[by-ashes](bhasmanā) [loss-of-cattle](paśunāśaḥ) [would-be](syād) [by-vardhamāna](vardhamānena) [injury-to-cows](govyadhā)
 
 ## mukta-m0-p116-v2898
-[by-face](vaktreṇa) [and](ca) [friend+milking](suhṛ+doghaḥ) [but](tu) [by-veranda+ear](ālindaśravaṇena) [fear](bhīḥ)
+[by-face](vaktreṇa) [and](ca) [enmity-with-friend](suhṛdogas) [but](tv) [by-hearing-in-veranda](ālindaśravaṇena) [fear](bhīḥ)
 
 ## mukta-m0-p116-v2899
-[by-pit](śvabhreṇa) [then](atha) [son+destruction](sutakṣayaḥ)
+[by-pit](śvabhreṇa) [then](atha) [loss-of-son](sutakṣayaḥ)
 
 ## mukta-m0-p116-v2900
-[by-itch](kaṇḍanyā) [wealth+destruction](dhananāśaḥ) [would-be](syāt) [by-stone+pierced](śilābiddhe) [pain](rujā) [likewise](tathā)
+[by-kaṇḍanī](kaṇḍanyā) [loss-of-wealth](dhananāśaḥ) [would-be](syāc) [when-pierced-by-stone](śilābiddhe) [pain](rujā) [likewise](tathā)
