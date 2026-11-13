@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[mother](ambā) [again](bhūyo) [may-remove](haratv) [this-one](eṣā) [birth](sambhavaṃ) [in-difficult](durbhave) [existence](bhave)
+[mother](ambā) [again](bhūyo) [may-remove](haratu) [this](eṣā) [birth](sambhavaṃ) [in-difficult](durbhave) [in-existence](bhave)
 
 ## mukta-m0-p57-v1402
-[own](sva) [eye](akṣā) [beautiful-eyed](svakṣā) [goddess](devī)
+[having-beautiful](su) [+eyes](akṣā) [she](sā) [is](asti)
 
 ## mukta-m0-p57-v1403
-[beautiful-eyed](svakṣā) [protection](rakṣā) [doing](kāriṇī) [this](iyaṃ) [of-me](mama) [may-be](astu)
+[having-beautiful-eyes](svakṣā) [protection](rakṣā) [+doing](kāriṇī) [this](iyaṃ) [to-me](mama) [may-be](astu)
 
 ## mukta-m0-p57-v1404
-[by-good](sādhu) [people](jana) [worshipped](arcitā) [goddess](devī)
+[by-good](sādhu) [+people](jana) [+worshipped](arcitā) [she](sā)
 
 ## mukta-m0-p57-v1405
-[delighting](nandayantī) [all](akhilān) [by-glance](dṛṣṭyā) [she](sā) [this](iyaṃ) [by-good](sādhu) [people](jana) [worshipped](arcitā)
+[delighting](nandayantī) [all](akhilān) [by-glance](dṛṣṭyā) [this](sā) [she](iyaṃ) [by-good](sādhu) [+people](jana) [+worshipped](arcitā)
 
 ## mukta-m0-p57-v1406
-[of-the-family](kaulikī) [goddess](devī) [supreme](parā) [power](śaktiḥ)
+[of-the-kaula-family](kaulikī) [she](sā) [goddess](devī) [is](asti)
 
 ## mukta-m0-p57-v1407
-[self-willed](svacchandā) [here](iha) [praised](kīrtitā) [by-virtuous](sukṛtibhiḥ) [with-worldly-power](sā) [worldly](laukikī) [of-the-family](kaulikī)
+[self-willed](svacchandā) [here](iha) [praised](kīrtitā) [by-virtuous-ones](sukṛtibhiḥ) [with-transcendent](sā) [+worldly](laukikī) [of-the-kaula-family](kaulikī)
 
 ## mukta-m0-p57-v1408
-[family](kula) [knowledge](vidyā) [sacred](parā) [science](vidyā)
+[family](kula) [+knowledge](vidyā) [she](sā) [is](asti)
 
 ## mukta-m0-p57-v1409
-[easily-attained](sulabha) [essence](rasā) [with-charming](sarasā) [playful](lasa) [speech](bhāsā) [may-shine](vilasatu) [in-heart](cetasi) [she](sā) [family](kula) [knowledge](vidyā)
+[easily-attainable](sulabha) [+essence](rasā) [with-charming](sarasā) [+playful](lasa) [+speech](bhāsā) [may-shine](vilasatu) [in-heart](cetasi) [she](sā) [family](kula) [+knowledge](vidyā)
 
 ## mukta-m0-p57-v1410
-[of-good-family](sukulā) [goddess](devī) [noble](śreṣṭhā) [power](śaktiḥ)
+[of-good-family](sukulā) [she](sā) [goddess](devī) [is](asti)
 
 ## mukta-m0-p57-v1411
-[of-good-family](sukulā) [she](sā) [by-nakula](nakula) [worshipped](arcitā) [beneficial](hitā) [may-be](astu)
+[of-good-family](sukulā) [she](sā) [by-Nakula](nakula) [+worshipped](arcitā) [beneficial](hitā) [may-be](astu)
 
 ## mukta-m0-p57-v1412
-[by-family](kula) [worshipped](pūjitā) [goddess](devī) [revered](vandyā)
+[by-the-family](kula) [+worshipped](pūjitā) [she](sā) [is](asti)
 
 ## mukta-m0-p57-v1413
-[spotless](amala) [immovable](acala) [eye](locana) [lotus](aravindā) [steady](sthiratā) [form](kṛt) [by-family](kula) [worshipped](pūjitā) [unconquered](ajitā) [may-be](astu)
+[with-spotless](amala) [+unmoving](acala) [+eye](locana) [+lotuses](aravindā) [of-steady](sthiratā) [+form](kṛt) [by-the-family](kula) [+worshipped](pūjitā) [unconquered](ajitā) [may-be](astu)
 
 ## mukta-m0-p57-v1414
-[time](kāla) [wheel](cakra) [revolving](bhramā) [goddess](devī)
+[of-time](kāla) [+wheel](cakra) [+revolution](bhramā) [she](sā) [is](asti)
 
 ## mukta-m0-p57-v1415
-[delusion](bhrama) [peace](śama) [delight](ārāma) [making](karī) [of-me](mama) [may-be](astu)
+[of-delusion](bhrama) [peace](śama) [+giving-delight](ārāmakarī) [to-me](mama) [may-be](astu)
 
 ## mukta-m0-p57-v1416
-[wandering](bhrāntā) [goddess](devī) [moving](carantī) [power](śaktiḥ)
+[wandering](bhrāntā) [she](sā) [goddess](devī) [is](asti)
 
 ## mukta-m0-p57-v1417
-[wandering](bhrāntā) [abiding](sthitiṃ) [in-heart](cetasi) [may-establish](saṃvidadhyāḥ) [you](tvam)
+[wandering-one](bhrāntā) [abiding](sthitiṃ) [in-heart](cetasi) [may-you-establish](saṃvidadhyāḥ)
 
 ## mukta-m0-p57-v1418
-[delusion](vibhramā) [illusion](māyā) [confusion](moha) [power](śaktiḥ)
+[bewildering](vibhramā) [she](sā) [goddess](devī) [is](asti)
 
 ## mukta-m0-p57-v1419
-[delusion](vibhramā) [remove](hara) [coming](gama) [and-going](āgama) [tradition](āgamam)
+[bewildering-one](vibhramā) [remove](hara) [coming](gamā) [+and-going](gama) [+arrival](āgamam)
 
 ## mukta-m0-p57-v1420
-[wandering](bhrama) [destroying](nāśinī) [goddess](devī) [remover](hāriṇī)
+[of-delusion](bhrama) [+destroyer](nāśinī) [she](sā) [is](asti)
 
 ## mukta-m0-p57-v1421
-[with-grace](samayā) [with-compassion](dayayā) [may-be](bhūyāt) [of-me](mama) [she](sā) [wandering](bhrama) [destroying](nāśinī)
+[with-right-conduct](samayā) [with-compassion](dayayā) [may-be](bhūyāt) [to-me](mama) [she](sā) [of-delusion](bhrama) [+destroyer](nāśinī)
 
 ## mukta-m0-p57-v1422
-[wind](vātyā) [row](ālī) [gale](anilā) [goddess](devī)
+[wind](vātyā) [+row](ālī) [she](sā) [is](asti)
 
 ## mukta-m0-p57-v1423
-[wind](vātyā) [row](ālī) [she](sā) [praised](kīrtitā) [by-time](kāla) [knowers](vidbhiḥ)
+[wind](vātyā) [+row](ālī) [she](sā) [praised](kīrtitā) [by-time-knowers](kālavidbhiḥ)
 
 ## mukta-m0-p57-v1424
-[cloud](megha) [garland](mālā) [goddess](devī) [row](paṅktiḥ)
+[cloud](megha) [+garland](mālā) [she](sā) [is](asti)
 
 ## mukta-m0-p57-v1425
-[she](sā) [cloud](megha) [garland](mālā) [conceived](kalitā) [by-art](kalā) [knowers](jñaiḥ)
+[she](sā) [cloud](megha) [+garland](mālā) [conceived](kalitā) [by-art-knowers](kalājñaiḥ)
