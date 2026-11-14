@@ -66,7 +66,7 @@ force it).
 
 ## 4. The MCP surface (added 2026-11-14)
 
-Two tools on the `shastra` server (`mcp_server.py`, 33 tools total):
+Two tools on the `shastra` server (`mcp_server.py`, 34 tools total):
 
 - **`shastra.serve_status(work="")`** — read-only scorecard. Per work: `audited`,
   `source`, `proj_src` (source_verses count = the readability condition),
@@ -155,7 +155,20 @@ batch: weekly  make_readable --all --publish
 daily: serve_status | head -1   (served / total KPI)
 ```
 
+## 7. Hard rules (inherited)
+Hard rules (inherited)
+
+- **BLOCKED ≠ PASS.** A work with an unverified source or an ineligible song
+  is BLOCKED, reported as such, never force-emitted.
+- **Three stamps stay separate:** bytes (sha256, re-hashed on every emit),
+  mechanics (`proof_record` PASS + trace verify), meaning (human sign-off —
+  pending everywhere). `served` is a *bytes+links* fact, not a truth claim.
+- **Never invent a mapping.** UNMAPPED works stay UNMAPPED until a shared
+  external ID justifies CANDIDATE.
+- **No auto-publish of meaning.** `make_readable` publishes machine-proposed
+  projections; it never signs off or marks reviewed.
 ## 8. Session log — 2026-11-14, second pass (trace fan-out + ipvv)
+Session log — 2026-11-14, second pass (trace fan-out + ipvv)
 
 - **`tools/make_traces.py` + `shastra.make_traces`** (34 tools total): batch
   `trace_bundle` per passage — one work, `--served-untraced`, or `--all`.
@@ -177,14 +190,3 @@ daily: serve_status | head -1   (served / total KPI)
   publish is the detector, not the problem. Coordination issue: trika-x#20.
   Publish only from a refresh-then-publish pass, or during a loop pause.
 
-## 7. Hard rules (inherited)
-
-- **BLOCKED ≠ PASS.** A work with an unverified source or an ineligible song
-  is BLOCKED, reported as such, never force-emitted.
-- **Three stamps stay separate:** bytes (sha256, re-hashed on every emit),
-  mechanics (`proof_record` PASS + trace verify), meaning (human sign-off —
-  pending everywhere). `served` is a *bytes+links* fact, not a truth claim.
-- **Never invent a mapping.** UNMAPPED works stay UNMAPPED until a shared
-  external ID justifies CANDIDATE.
-- **No auto-publish of meaning.** `make_readable` publishes machine-proposed
-  projections; it never signs off or marks reviewed.
