@@ -1,0 +1,221 @@
+{
+ "song": "vtn-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "bandha",
+     "gloss": "bondage",
+     "grounds": "bondage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "liberation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhaya",
+     "gloss": "both",
+     "grounds": "both",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttīrṇa",
+     "gloss": "transcended",
+     "grounds": "transcended",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "great",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "liberation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karatala",
+     "gloss": "palm",
+     "grounds": "palm",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āmalakavat",
+     "gloss": "emblic-like",
+     "grounds": "emblic-like",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "standing",
+     "grounds": "standing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "+",
+     "gloss": "plus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the great liberation that transcends both bondage and liberation?",
+   "premises": [
+    "Bondage and liberation are both transcended.",
+    "Great liberation stands like emblic in palm.",
+    "The meaning is thus stated."
+   ],
+   "inference": "The verse identifies mahamukti as immediate self-nature beyond the bondage-liberation pair.",
+   "uncertainties": [
+    "Exact internal sandhi of āmalakavat is not expanded."
+   ],
+   "plain_english": "Bondage and liberation are both transcended; the great liberation stands as clearly as an emblic in the palm. Thus is the meaning."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "prāptyā",
+     "gloss": "by-attainment",
+     "grounds": "by attainment",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "khasvaratā",
+     "gloss": "own-nature-state",
+     "grounds": "own-nature state",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "How is one's own nature attained in this teaching?",
+   "premises": [
+    "Attainment is by own-nature-state.",
+    "Own nature is the operative ground.",
+    "No gradual path is stated."
+   ],
+   "inference": "The verse presents attainment as resting in one's own nature-state.",
+   "uncertainties": [
+    "Case and exact compound analysis of khasvaratā remain tentative."
+   ],
+   "plain_english": "By attainment of one's own nature-state."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "svena",
+     "gloss": "by-own",
+     "grounds": "by own",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "rāti",
+     "gloss": "enjoys",
+     "grounds": "enjoys",
+     "morph": "3.sg.act-pres (root rā)"
+    },
+    {
+     "surface": "vyāpnoti",
+     "gloss": "pervades",
+     "grounds": "pervades",
+     "morph": "3.sg.act-pres (root vyāp)"
+    },
+    {
+     "surface": "svīkaroti",
+     "gloss": "accepts",
+     "grounds": "accepts",
+     "morph": "3.sg.act-pres (root svīkṛ)"
+    },
+    {
+     "surface": "ādatte,",
+     "gloss": "takes",
+     "grounds": "takes",
+     "morph": "3.sg.mid-pres (root ādā)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khasvaraḥ",
+     "gloss": "own-nature",
+     "grounds": "own nature",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does one's own nature do when it is realized?",
+   "premises": [
+    "One enjoys by one's own nature.",
+    "One pervades by one's own nature.",
+    "One accepts and takes by one's own nature."
+   ],
+   "inference": "The verse describes realized own-nature as active enjoyment, pervasion, acceptance, and taking.",
+   "uncertainties": [
+    "Exact relation of svena to each verb is not fully specified."
+   ],
+   "plain_english": "By one's own nature one enjoys, pervades, accepts, and takes; this is one's own nature."
+  }
+ ]
+}

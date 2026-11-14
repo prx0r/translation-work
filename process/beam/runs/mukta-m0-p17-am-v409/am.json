@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p17",
  "verse": 409,
- "question": "What three-eyed blissful radiance describes the goddess in this passage?",
+ "question": "Who becomes well worshipped and all-auspicious beautiful in the world?",
  "premises": [
-  "The goddess is endowed with three bright joyous eyes."
+  "well worshipped in world is stated",
+  "all auspicious beautiful is stated"
  ],
- "inference": "The goddess has three bright eyes full of bliss and joy.",
+ "inference": "The verse describes one who becomes well worshipped and all-auspicious beautiful in the world.",
  "uncertainties": [
-  "Exact compound segmentation not resolved."
+  "subject identity"
  ],
- "plain_english": "She has three bright eyes full of bliss and joy."
+ "plain_english": "He becomes well worshipped in the world and all-auspicious beautiful."
 }

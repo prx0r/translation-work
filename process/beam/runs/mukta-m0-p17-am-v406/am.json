@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p17",
  "verse": 406,
- "question": "What floral garland surrounds the goddess in this passage?",
+ "question": "What has already been said before in this context?",
  "premises": [
-  "The goddess is surrounded by jasmine garland."
+  "before is stated",
+  "said already is stated"
  ],
- "inference": "The goddess is encircled by jasmine and malati garlands.",
+ "inference": "The verse says that the matter has already been said before.",
  "uncertainties": [
-  "Exact compound segmentation not resolved."
+  "exact referent of the already said matter"
  ],
- "plain_english": "She is surrounded by jasmine and malati garlands."
+ "plain_english": "It has already been said before."
 }

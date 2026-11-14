@@ -1,13 +1,19 @@
 {
  "song": "mukta-m0-p17",
  "verse": 419,
- "question": "What serpent-king tusk-like bracelet radiates on the goddess in this passage?",
+ "question": "What middle or external-middle options are addressed to the goddess?",
  "premises": [
-  "The goddess's wrist is radiant with a bracelet like a serpent king's tusk."
+  "middle is named",
+  "or is stated",
+  "alone is named",
+  "goddess is addressed",
+  "external middle included is named",
+  "tu is stated",
+  "or is stated"
  ],
- "inference": "A serpent-king tusk-like bracelet radiates at the goddess's wrist.",
+ "inference": "The verse presents middle, alone, or external-middle-included options addressed to the goddess.",
  "uncertainties": [
-  "Exact compound segmentation not resolved."
+  "exact ritual choice"
  ],
- "plain_english": "A serpent-king tusk-like bracelet radiates at her wrist."
+ "plain_english": "Middle, or alone, O goddess, or external-middle-included, tu, or."
 }

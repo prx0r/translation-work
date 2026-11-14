@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p17",
  "verse": 405,
- "question": "What lunar crown and curled hair describe the goddess in this passage?",
+ "question": "What should be worshipped in all cakras at worship time?",
  "premises": [
-  "The goddess has a half-moon crown.",
-  "The goddess has curled hair sprouts."
+  "those indeed are named",
+  "all cakras are named",
+  "worship time is named",
+  "worship is commanded"
  ],
- "inference": "The goddess wears a half-moon crown and curled hair sprouts.",
+ "inference": "The verse commands worship of those in all cakras at worship time.",
  "uncertainties": [
-  "Exact compound segmentation not resolved."
+  "referent of tā"
  ],
- "plain_english": "She wears a half-moon crown with curled hair sprouts."
+ "plain_english": "Those should indeed be worshipped in all cakras at worship time."
 }

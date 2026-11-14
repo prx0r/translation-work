@@ -1,13 +1,17 @@
 {
  "song": "mukta-m0-p17",
  "verse": 415,
- "question": "What incomparable chin region radiance describes the goddess in this passage?",
+ "question": "What three tattvas are named in this teaching?",
  "premises": [
-  "The goddess has an incomparable quality-endowed chin region."
+  "kama tattva is named",
+  "poison knowledge is named",
+  "liberation tattva is named",
+  "three is named",
+  "thus is stated"
  ],
- "inference": "The goddess's chin region radiates with incomparable qualities.",
+ "inference": "The verse names kama tattva, poison knowledge, and liberation tattva as three.",
  "uncertainties": [
-  "Exact compound segmentation not resolved."
+  "exact relation among the three"
  ],
- "plain_english": "Her chin region radiates with incomparable qualities."
+ "plain_english": "Kama tattva, poison knowledge, and liberation tattva are the three."
 }

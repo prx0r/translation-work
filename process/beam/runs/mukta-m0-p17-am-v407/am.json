@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p17",
  "verse": 407,
- "question": "What autumnal lunar forehead band describes the goddess in this passage?",
+ "question": "Is there any vidya similar to this one, O goddess?",
  "premises": [
-  "The goddess has an autumn half-moon curved forehead band."
+  "not similar is stated",
+  "any vidya is denied",
+  "goddess is addressed",
+  "exists is stated"
  ],
- "inference": "The goddess bears a soft autumnal lunar forehead band.",
+ "inference": "The verse denies that any similar vidya exists for this one.",
  "uncertainties": [
-  "Exact compound segmentation not resolved."
+  "exact referent of etasyāḥ"
  ],
- "plain_english": "She bears a soft autumnal lunar forehead band."
+ "plain_english": "O goddess, no similar vidya exists for this."
 }

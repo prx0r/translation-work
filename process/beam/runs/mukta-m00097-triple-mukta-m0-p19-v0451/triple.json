@@ -1,0 +1,287 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of root hu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vādhyate",
+     "gloss": "is-afflicted",
+     "grounds": "passive present of root vadh",
+     "morph": "3.sg.pass.-pres. +vadh"
+    },
+    {
+     "surface": "rogaiḥ",
+     "gloss": "by-diseases",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "kālamṛtyubhayādibhiḥ",
+     "gloss": "by-time-death-fear-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "What afflictions are said not to afflict one after offering?",
+   "premises": [
+    "offering has been performed",
+    "affliction by diseases is denied",
+    "time death fear and similar afflictions are included"
+   ],
+   "inference": "the offered rite protects from disease time death fear and related afflictions",
+   "uncertainties": [
+    "exact ritual referent of hutvā is not specified in this verse"
+   ],
+   "plain_english": "Having offered, one is not afflicted by diseases, time, death, fear, and similar afflictions."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīrājānakaśrīmajjayarathaviracite",
+     "gloss": "in-composed-by-sri-rajanaka-sri-jayaratha",
+     "grounds": "locative singular compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīvāmakeśvarīmatavivaraṇe",
+     "gloss": "commentary-on-sri-vamakesvari-mata",
+     "grounds": "locative singular compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of Jayaratha's commentary on the Vamakesvari Mata concludes here?",
+   "premises": [
+    "the colophon names Jayaratha as composer",
+    "the work is a commentary on Vamakesvari Mata",
+    "the chapter is called fifth"
+   ],
+   "inference": "this passage closes the fifth chapter of that commentary",
+   "uncertainties": [
+    "whether paṭala means chapter or section depends on edition usage"
+   ],
+   "plain_english": "Thus ends the fifth chapter in the commentary on the Sri Vamakesvari Mata composed by Sri Rajanaka Sri Jayaratha."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "yathāgurumukhaṃ",
+     "gloss": "as-from-guru-mouth",
+     "grounds": "compound adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaiścid",
+     "gloss": "by-some",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyākṛtam",
+     "gloss": "explained",
+     "grounds": "past participle nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "alpakam",
+     "gloss": "briefly",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How has this been explained and by whom?",
+   "premises": [
+    "some persons explained it",
+    "the explanation follows the guru's mouth",
+    "the explanation is brief"
+   ],
+   "inference": "the matter was briefly explained by some according to the guru's teaching",
+   "uncertainties": [
+    "whether kaiścid refers to commentators or students is not explicit"
+   ],
+   "plain_english": "This has been briefly explained by some as from the guru's mouth."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "kena",
+     "gloss": "by-what",
+     "grounds": "instrumental singular neuter interrogative",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimittena",
+     "gloss": "reason",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "kairapi",
+     "gloss": "by-some",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vivecitam",
+     "gloss": "examined",
+     "grounds": "past participle nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what reason has this been examined by some?",
+   "premises": [
+    "some persons examined it",
+    "the examination is questioned as to its reason",
+    "the object examined is this"
+   ],
+   "inference": "the verse asks what reason motivated some persons to examine this matter",
+   "uncertainties": [
+    "the exact referent of etad depends on preceding context"
+   ],
+   "plain_english": "By what reason, then, has this been examined by some?"
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "śrutabahiṣkṛtabuddhitayā",
+     "gloss": "by-hearing-excluded-intellect",
+     "grounds": "instrumental singular feminine compound",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "gone",
+     "grounds": "past participle nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What happens when intellect is excluded from hearing?",
+   "premises": [
+    "intellect is excluded from hearing",
+    "the result is described as gone",
+    "the participle is neuter singular"
+   ],
+   "inference": "excluding intellect from hearing leads to a state described as gone",
+   "uncertainties": [
+    "the exact subject of gatam is not stated in this verse"
+   ],
+   "plain_english": "Through intellect excluded from hearing, it has gone."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "avicārya",
+     "gloss": "without-examining",
+     "grounds": "absolutive of root vicār",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktavyo",
+     "gloss": "to-be-spoken",
+     "grounds": "gerundive nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣo",
+     "gloss": "fault",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇaḥ",
+     "gloss": "merit",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fault or merit attaches to speaking without examination?",
+   "premises": [
+    "speaking without examination is addressed",
+    "neither fault nor merit is assigned",
+    "the statement is emphatic and final"
+   ],
+   "inference": "speaking without examination carries neither fault nor merit",
+   "uncertainties": [
+    "whether punaḥ qualifies the whole statement or only the second negation is ambiguous"
+   ],
+   "plain_english": "Without examining, indeed, it is to be spoken: no fault, no merit again."
+  }
+ ]
+}

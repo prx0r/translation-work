@@ -1,14 +1,17 @@
 {
  "song": "mukta-m0-p17",
  "verse": 413,
- "question": "What shining gem group and gold earring describe the goddess in this passage?",
+ "question": "Who is able to measure this auspicious thing?",
  "premises": [
-  "The goddess has shining gem groups.",
-  "The goddess has radiant gold earrings."
+  "who is asked",
+  "to measure is named",
+  "able is named",
+  "thus is stated",
+  "auspicious is named"
  ],
- "inference": "The goddess wears shining gem groups and radiant gold earrings.",
+ "inference": "The verse asks who is able to measure the auspicious thing.",
  "uncertainties": [
-  "Exact compound segmentation not resolved."
+  "referent of śivam"
  ],
- "plain_english": "She wears shining gem groups and radiant gold earrings."
+ "plain_english": "Who is able to measure this auspicious thing?"
 }

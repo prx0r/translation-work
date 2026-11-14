@@ -1,0 +1,47 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "yugatraye'pi",
+     "gloss": "in-three-yugas-even",
+     "grounds": "locative of yugatraya plus enclitic api",
+     "morph": "loc.sg.n + (indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kalipūrveṣu",
+     "gloss": "in-kali-preceding",
+     "grounds": "locative plural of kalipūrva",
+     "morph": "loc.pl.m/n"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "adverbial ablative form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does the described conduct of abandoning cooked food and committing sins for relief from suffering apply across the three yugas before Kali?",
+   "premises": [
+    "the verse names three yugas",
+    "it addresses the goddess",
+    "it refers to times before Kali",
+    "it affirms the claim in truth"
+   ],
+   "inference": "The conduct is asserted to hold in the three yugas preceding Kali.",
+   "uncertainties": [
+    "exact referent of the conduct depends on preceding verses",
+    "gender and number of kalipūrveṣu are context-dependent"
+   ],
+   "plain_english": "In the three yugas too, O goddess, before Kali, in truth."
+  }
+ ]
+}

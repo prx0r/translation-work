@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p04",
  "verse": 99,
- "question": "Who worships Agastya's great vidyā here?",
+ "question": "Which deities are named in this compound?",
  "premises": [
-  "Agastya has a great vidyā",
-  "She is worshipped here",
-  "Agastya worships her"
+  "Dakshinamurti is named",
+  "Hayagriva is named",
+  "Ganesha is named"
  ],
- "inference": "Agastya's great vidyā is here worshipped by Agastya",
+ "inference": "The verse names Dakshinamurti, Hayagriva, and Ganesha in one compound.",
  "uncertainties": [
-  "Relation to verse 93"
+  "syntactic role of the compound in the larger sentence"
  ],
- "plain_english": "Agastya's great vidyā is indeed here worshipped by Agastya."
+ "plain_english": "Dakshinamurti, Hayagriva, and Ganesha are named together."
 }
