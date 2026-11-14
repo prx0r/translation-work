@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "balipīṭhaṃ",
+     "gloss": "offering-altar",
+     "grounds": "compound bali + pīṭha; accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vṛṣaṃ",
+     "gloss": "bull",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadvaktrābhimukhaṃ",
+     "gloss": "that-face-facing",
+     "grounds": "fused tat-vaktra-abhimukham; accusative predicate",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "be",
+     "grounds": "optative of √bhū; expresses prescription",
+     "morph": "v.3.sg.opt-√bhū"
+    }
+   ],
+   "question": "Should the offering-altar, bull, and trident face the linga's mouth?",
+   "premises": [
+    "The altar bull and trident are named.",
+    "They should be facing that mouth.",
+    "Bhavet expresses obligation."
+   ],
+   "inference": "The three ritual objects are to be oriented toward the linga's face.",
+   "uncertainties": [
+    "The exact referent of tat is supplied by surrounding context."
+   ],
+   "plain_english": "The offering altar, bull, and trident should face that mouth."
+  }
+ ]
+}

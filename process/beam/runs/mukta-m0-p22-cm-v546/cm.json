@@ -3,44 +3,29 @@
  "verse": 546,
  "rows": [
   {
-   "lemma": "na",
+   "lemma": "gṛhasthaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "nominative"
+  },
+  {
+   "lemma": "sṛṣṭimārgeṇa",
+   "morph": "m.instr.sg",
+   "grounds": "compound sṛṣṭi + mārga"
+  },
+  {
+   "lemma": "karanyāsaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "compound kara + nyāsa"
+  },
+  {
+   "lemma": "tu",
    "morph": "(indecl.)",
-   "grounds": "negation"
+   "grounds": "indeclinable"
   },
   {
-   "lemma": "paśoḥ",
-   "morph": "m.gen.sg",
-   "grounds": "genitive"
-  },
-  {
-   "lemma": "sannidhāne",
-   "morph": "n.loc.sg",
-   "grounds": "locative"
-  },
-  {
-   "lemma": "api",
-   "morph": "(indecl.)",
-   "grounds": "particle"
-  },
-  {
-   "lemma": "paśoḥ",
-   "morph": "m.dat.sg",
-   "grounds": "dative"
-  },
-  {
-   "lemma": "eva",
-   "morph": "(indecl.)",
-   "grounds": "particle"
-  },
-  {
-   "lemma": "na",
-   "morph": "(indecl.)",
-   "grounds": "negation"
-  },
-  {
-   "lemma": "darśayet",
-   "morph": "3.sg.act-opt.√dṛś",
-   "grounds": "optative of dṛś"
+   "lemma": "kārayet",
+   "morph": "3.sg.act-opt",
+   "grounds": "verb root kṛ causative"
   }
  ]
 }

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p202",
+ "items": [
+  {
+   "verse": 5050,
+   "rows": [
+    {
+     "surface": "ekaviṃśati+kara+antaṃ",
+     "gloss": "up-to-twenty-one-cubits-end",
+     "grounds": "compound of twenty-one, cubit, and end; accusative limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+hastāt",
+     "gloss": "from-three-cubits",
+     "grounds": "ablative from three cubits",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dvi+ka+vardhanāt",
+     "gloss": "by-two-cubit-increase",
+     "grounds": "ablative by two-cubit increase",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What upper cubit limit results from increasing by two cubits starting from three cubits?",
+   "premises": [
+    "limit extends to twenty-one cubits",
+    "increase proceeds by two cubits",
+    "starting measure is three cubits"
+   ],
+   "inference": "The measure ranges from three cubits to twenty-one cubits by two-cubit increments.",
+   "uncertainties": [
+    "exact grammatical case of compound members not specified"
+   ],
+   "plain_english": "The measure extends up to twenty-one cubits, indeed from three cubits by two-cubit increase."
+  }
+ ]
+}

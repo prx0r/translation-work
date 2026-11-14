@@ -3,34 +3,29 @@
  "verse": 600,
  "rows": [
   {
-   "lemma": "madhye",
+   "lemma": "īśānasya",
+   "morph": "m.gen.sg",
+   "grounds": "genitive relation indicating possession; refers to the Īśāna aspect of Śiva"
+  },
+  {
+   "lemma": "kalāḥ",
+   "morph": "f.acc.pl",
+   "grounds": "object of arrangement; the kalās associated with Īśāna"
+  },
+  {
+   "lemma": "pañca",
    "morph": "(indecl.)",
-   "grounds": "locative adverb indicating placement in the center"
+   "grounds": "specifies the number of kalās"
   },
   {
-   "lemma": "tathā",
-   "morph": "(indecl.)",
-   "grounds": "adverb linking the preceding sprinkling and placement"
+   "lemma": "praṇavādi",
+   "morph": "praṇava+ādi-compound;f.acc.pl",
+   "grounds": "compound qualifying kalāḥ; praṇava kept as mantra term"
   },
   {
-   "lemma": "agnim",
-   "morph": "m.acc.sg",
-   "grounds": "object of placement in the ritual center"
-  },
-  {
-   "lemma": "ādhāya",
-   "morph": "(indecl.)",
-   "grounds": "absolutive of ā-dhā, action completed before abandonment"
-  },
-  {
-   "lemma": "kravyādāṃśaṃ",
-   "morph": "m.acc.sg",
-   "grounds": "compound denoting the portion associated with carnivorous fire"
-  },
-  {
-   "lemma": "parityajet",
-   "morph": "3.sg.act.opt. root parityaj",
-   "grounds": "optative expressing ritual prescription"
+   "lemma": "prakalpayet",
+   "morph": "3.sg.act.opt;√kḷp+pra",
+   "grounds": "prescriptive injunction to arrange or assign the kalās"
   }
  ]
 }

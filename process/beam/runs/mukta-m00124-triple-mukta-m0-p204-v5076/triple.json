@@ -1,0 +1,1085 @@
+{
+ "song": "mukta-m0-p204",
+ "items": [
+  {
+   "verse": 5076,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "galam",
+     "gloss": "neck",
+     "grounds": "body part",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ityuktaṃ",
+     "gloss": "thus-said",
+     "grounds": "iti+uktaṃ",
+     "morph": "ppp"
+    },
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "half-two-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "śiro",
+     "gloss": "head",
+     "grounds": "body part",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What proportion is assigned to the neck and head in this gopura measurement?",
+   "premises": [
+    "One part is the neck.",
+    "One and a half parts is the head."
+   ],
+   "inference": "The neck and head receive distinct fractional parts.",
+   "uncertainties": [
+    "Exact architectural referent unclear."
+   ],
+   "plain_english": "The neck is one part and the head becomes one and a half parts."
+  },
+  {
+   "verse": 5077,
+   "rows": [
+    {
+     "surface": "dvādaśāṃśaṃ",
+     "gloss": "twelve-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tribhūmyuccaiḥ",
+     "gloss": "three-ground-high",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "uccaiḥ",
+     "gloss": "high",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapotaṃ",
+     "gloss": "pigeon",
+     "grounds": "architectural member",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sāṅghribhāgabhāk",
+     "gloss": "with-foot-part-possessor",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "How high is the pigeon member measured from the three grounds?",
+   "premises": [
+    "Twelve parts are given.",
+    "The pigeon member is high with foot part."
+   ],
+   "inference": "The pigeon member is measured by twelve parts with foot inclusion.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "The pigeon member is twelve parts high, including the foot part."
+  },
+  {
+   "verse": 5078,
+   "rows": [
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-part",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pādadairghyaṃ",
+     "gloss": "foot-length",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "aṣṭāṃśena",
+     "gloss": "eight-part",
+     "grounds": "instrumental measure",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "aṃśamānataḥ",
+     "gloss": "by-part-measure",
+     "grounds": "compound measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What length is assigned to the foot in this measurement?",
+   "premises": [
+    "The foot length is two parts.",
+    "It is measured by eight parts."
+   ],
+   "inference": "The foot length equals two parts by part-measure.",
+   "uncertainties": [
+    "Exact relation of eight parts unclear."
+   ],
+   "plain_english": "The foot length is two parts, measured by eight parts."
+  },
+  {
+   "verse": 5079,
+   "rows": [
+    {
+     "surface": "śeṣeṇa",
+     "gloss": "remainder",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "sthūpikotsedhaḥ",
+     "gloss": "stupa-height",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tritalaṃ",
+     "gloss": "three-ground",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evamīritam",
+     "gloss": "thus-declared",
+     "grounds": "evam+īritam",
+     "morph": "ppp"
+    }
+   ],
+   "question": "How is the stupa height determined from the remainder?",
+   "premises": [
+    "The remainder gives the stupa height.",
+    "It is three-ground and thus declared."
+   ],
+   "inference": "The stupa height is fixed from the remainder.",
+   "uncertainties": [
+    "Remainder referent unclear."
+   ],
+   "plain_english": "The stupa height is from the remainder, three-ground, thus declared."
+  },
+  {
+   "verse": 5080,
+   "rows": [
+    {
+     "surface": "tribhāgasahitaṃ",
+     "gloss": "three-part-accompanied",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bhāgam",
+     "gloss": "part",
+     "grounds": "measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "antoccaṃ",
+     "gloss": "top-high",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pravidhīyate",
+     "gloss": "prescribed",
+     "grounds": "pra+vidhīyate",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What top height is prescribed with three parts?",
+   "premises": [
+    "Three parts accompany the part.",
+    "The top height is prescribed."
+   ],
+   "inference": "The top height includes three parts.",
+   "uncertainties": [
+    "Exact top member unclear."
+   ],
+   "plain_english": "The top height is prescribed with three parts."
+  },
+  {
+   "verse": 5081,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "galamānaṃ",
+     "gloss": "neck-measure",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tribhāgaiḥ",
+     "gloss": "three-parts",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "śikharodayaḥ",
+     "gloss": "peak-rise",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does the neck measure relate to peak rise?",
+   "premises": [
+    "The neck measure is by part.",
+    "Peak rise is by three parts."
+   ],
+   "inference": "Neck and peak rise are measured by different part counts.",
+   "uncertainties": [
+    "Relation between them unclear."
+   ],
+   "plain_english": "The neck measure is by part, and peak rise is by three parts."
+  },
+  {
+   "verse": 5082,
+   "rows": [
+    {
+     "surface": "uttarādi",
+     "gloss": "north-etc",
+     "grounds": "directional compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhāntaṃ",
+     "gloss": "peak-end",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekonatriṃśat",
+     "gloss": "one-less-thirty",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśakam",
+     "gloss": "part",
+     "grounds": "measure",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "How many parts extend from north to peak end?",
+   "premises": [
+    "From north to peak end is included.",
+    "It is twenty-nine parts."
+   ],
+   "inference": "The north-to-peak span is twenty-nine parts.",
+   "uncertainties": [
+    "Whether inclusive unclear."
+   ],
+   "plain_english": "From north to peak end is also twenty-nine parts."
+  },
+  {
+   "verse": 5083,
+   "rows": [
+    {
+     "surface": "pādonadvyaṃśakaṃ",
+     "gloss": "foot-less-two-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mañcaṃ",
+     "gloss": "platform",
+     "grounds": "architectural member",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "half-two-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pādapaḥ",
+     "gloss": "tree",
+     "grounds": "architectural member",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What platform and tree measures are given here?",
+   "premises": [
+    "The platform is foot-less two parts.",
+    "The tree is one and a half parts."
+   ],
+   "inference": "Platform and tree have distinct fractional measures.",
+   "uncertainties": [
+    "Architectural referents unclear."
+   ],
+   "plain_english": "The platform is foot-less two parts and the tree is one and a half parts."
+  },
+  {
+   "verse": 5084,
+   "rows": [
+    {
+     "surface": "sapādāṃśaka",
+     "gloss": "with-foot-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "potoccaṃ",
+     "gloss": "pigeon-high",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ūrdhvabhāgāt",
+     "gloss": "from-upper-part",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "dvibhāgataḥ",
+     "gloss": "from-two-part",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is pigeon height measured from upper parts?",
+   "premises": [
+    "Pigeon height is with foot part.",
+    "It is from upper part and two parts."
+   ],
+   "inference": "Pigeon height is measured from upper and two parts.",
+   "uncertainties": [
+    "Exact relation unclear."
+   ],
+   "plain_english": "Pigeon height is with foot part, from upper part and two parts."
+  },
+  {
+   "verse": 5085,
+   "rows": [
+    {
+     "surface": "sārdhadvyaṃśaḥ",
+     "gloss": "half-two-part",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śiras",
+     "gloss": "head",
+     "grounds": "body part",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tuṅgaḥ",
+     "gloss": "high",
+     "grounds": "adjective",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śeṣeṇa",
+     "gloss": "remainder",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śirodayaḥ",
+     "gloss": "head-rise",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What height is assigned to the head?",
+   "premises": [
+    "The head is one and a half parts high.",
+    "The remainder gives head rise."
+   ],
+   "inference": "Head height and head rise are proportioned separately.",
+   "uncertainties": [
+    "Remainder referent unclear."
+   ],
+   "plain_english": "The head is one and a half parts high, and head rise is from the remainder."
+  },
+  {
+   "verse": 5086,
+   "rows": [
+    {
+     "surface": "uttarādi",
+     "gloss": "north-etc",
+     "grounds": "directional compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhāntaṃ",
+     "gloss": "peak-end",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mañcaṃ",
+     "gloss": "platform",
+     "grounds": "architectural member",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ṣaṭtriṃśat",
+     "gloss": "thirty-six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśakam",
+     "gloss": "part",
+     "grounds": "measure",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "How many parts are assigned to the platform from north to peak end?",
+   "premises": [
+    "From north to peak end is considered.",
+    "The platform is thirty-six parts."
+   ],
+   "inference": "The platform span is thirty-six parts.",
+   "uncertainties": [
+    "Whether platform alone or whole span unclear."
+   ],
+   "plain_english": "From north to peak end, the platform is thirty-six parts."
+  },
+  {
+   "verse": 5087,
+   "rows": [
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-part",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "prastarotsedhaḥ",
+     "gloss": "stone-height",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pādoccaṃ",
+     "gloss": "foot-high",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vedabhāgataḥ",
+     "gloss": "from-veda-part",
+     "grounds": "ablative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What stone height is given from the veda part?",
+   "premises": [
+    "Stone height is two parts.",
+    "It is foot-high from veda part."
+   ],
+   "inference": "Stone height is two parts from the veda part.",
+   "uncertainties": [
+    "Veda part meaning unclear."
+   ],
+   "plain_english": "Stone height is two parts, foot-high from the veda part."
+  },
+  {
+   "verse": 5088,
+   "rows": [
+    {
+     "surface": "mañcaṃ",
+     "gloss": "platform",
+     "grounds": "architectural member",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pādonabhāgābhyāṃ",
+     "gloss": "by-foot-less-part",
+     "grounds": "instrumental dual",
+     "morph": "n.inst.du.m"
+    },
+    {
+     "surface": "dvibhāgābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "instrumental dual",
+     "morph": "n.inst.du.m"
+    },
+    {
+     "surface": "tripādaḥ",
+     "gloss": "three-foot",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "pādavaidhṛtiḥ",
+     "gloss": "foot-support",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How is the platform supported by foot parts?",
+   "premises": [
+    "The platform is by foot-less part and two.",
+    "Foot support is three-foot."
+   ],
+   "inference": "Platform support uses foot-less and two parts.",
+   "uncertainties": [
+    "Exact support relation unclear."
+   ],
+   "plain_english": "The platform is by foot-less part and two, with three-foot support."
+  },
+  {
+   "verse": 5089,
+   "rows": [
+    {
+     "surface": "sapādabhāgaṃ",
+     "gloss": "with-foot-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mañcoccaṃ",
+     "gloss": "platform-high",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sārdhabhāga",
+     "gloss": "half-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "dvibhāgikam",
+     "gloss": "two-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What platform height is given with foot and half parts?",
+   "premises": [
+    "Platform height is with foot part.",
+    "It is half part and two part."
+   ],
+   "inference": "Platform height combines foot, half, and two parts.",
+   "uncertainties": [
+    "Combination rule unclear."
+   ],
+   "plain_english": "Platform height is with foot part, half part, and two part."
+  },
+  {
+   "verse": 5090,
+   "rows": [
+    {
+     "surface": "sadvipāda",
+     "gloss": "with-two-foot",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-part",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "body part",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "śiṣṭāḥ",
+     "gloss": "remainder",
+     "grounds": "participle",
+     "morph": "ppp"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "peak",
+     "grounds": "architectural member",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "ppp"
+    }
+   ],
+   "question": "How are head and peak considered from the remainder?",
+   "premises": [
+    "With two foot and two part are given.",
+    "Head and peak are considered from remainder."
+   ],
+   "inference": "Head and peak are derived from the remainder.",
+   "uncertainties": [
+    "Exact derivation unclear."
+   ],
+   "plain_english": "With two foot and two part, head and peak are considered from the remainder."
+  },
+  {
+   "verse": 5091,
+   "rows": [
+    {
+     "surface": "stambhaprastarabhāgābhyāṃ",
+     "gloss": "by-pillar-stone-part",
+     "grounds": "instrumental dual",
+     "morph": "n.inst.du.m"
+    },
+    {
+     "surface": "dvibhāgābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "instrumental dual",
+     "morph": "n.inst.du.m"
+    },
+    {
+     "surface": "kalpitābhyām",
+     "gloss": "devised",
+     "grounds": "instrumental dual",
+     "morph": "ppp"
+    },
+    {
+     "surface": "adhastale",
+     "gloss": "below-ground",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "What is devised below ground from pillar and stone parts?",
+   "premises": [
+    "Pillar and stone parts are given.",
+    "Two parts are devised below ground."
+   ],
+   "inference": "Below-ground parts are devised from pillar and stone measures.",
+   "uncertainties": [
+    "Exact below-ground member unclear."
+   ],
+   "plain_english": "Below ground, pillar and stone parts are devised by two."
+  },
+  {
+   "verse": 5092,
+   "rows": [
+    {
+     "surface": "uktāni",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "ppp"
+    },
+    {
+     "surface": "gopurāṅgāni",
+     "gloss": "gopura-limbs",
+     "grounds": "compound",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "divide",
+     "grounds": "vidh",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "caturaṃśakam",
+     "gloss": "four-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "How are the gopura limbs divided?",
+   "premises": [
+    "The gopura limbs are said.",
+    "They are divided into four parts."
+   ],
+   "inference": "Gopura limbs are divided into four parts.",
+   "uncertainties": [
+    "Division basis unclear."
+   ],
+   "plain_english": "The gopura limbs are said to be divided into four parts."
+  },
+  {
+   "verse": 5093,
+   "rows": [
+    {
+     "surface": "dvyaṅgulaṃ",
+     "gloss": "two-finger",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tryaṅgulaṃ",
+     "gloss": "three-finger",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuḥpañcaṣaḍaṅgulam",
+     "gloss": "four-five-six-finger",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What finger-width options are given for this measure?",
+   "premises": [
+    "Two finger or three finger are options.",
+    "Also four, five, or six finger."
+   ],
+   "inference": "The measure may be two to six fingers.",
+   "uncertainties": [
+    "Which member measured unclear."
+   ],
+   "plain_english": "The measure may be two, three, or four to six fingers."
+  },
+  {
+   "verse": 5094,
+   "rows": [
+    {
+     "surface": "pañcabhāge",
+     "gloss": "five-part",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "viśāle",
+     "gloss": "in-wide",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhāge",
+     "gloss": "three-part",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "garbhavistaraḥ",
+     "gloss": "womb-extent",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How is womb extent related to five and three parts?",
+   "premises": [
+    "In five parts wide, but in three parts.",
+    "Womb extent is stated."
+   ],
+   "inference": "Womb extent is measured by three parts in a five-part width.",
+   "uncertainties": [
+    "Exact width relation unclear."
+   ],
+   "plain_english": "Womb extent is in three parts, though the width is five parts."
+  },
+  {
+   "verse": 5095,
+   "rows": [
+    {
+     "surface": "vyāsaḥ",
+     "gloss": "diameter",
+     "grounds": "measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saptāṃśa",
+     "gloss": "seven-part",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vedāṃśo",
+     "gloss": "veda-part",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "garbhakūṭaḥ",
+     "gloss": "womb-peak",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgabhāk",
+     "gloss": "part-possessor",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What diameter and womb-peak measures are given?",
+   "premises": [
+    "Diameter is seven parts.",
+    "Womb peak is veda part and part possessor."
+   ],
+   "inference": "Diameter and womb peak are proportioned by parts.",
+   "uncertainties": [
+    "Veda part value unclear."
+   ],
+   "plain_english": "Diameter is seven parts, and womb peak is veda part and part possessor."
+  },
+  {
+   "verse": 5096,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭha",
+     "gloss": "peak-cell",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "antarāle",
+     "gloss": "between",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañjarādi",
+     "gloss": "cage-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vibhūṣitam",
+     "gloss": "adorned",
+     "grounds": "participle",
+     "morph": "ppp"
+    }
+   ],
+   "question": "What adorns the peak cell between?",
+   "premises": [
+    "Peak cell is between.",
+    "Cage and others adorn it."
+   ],
+   "inference": "The peak cell is adorned with cage and similar members.",
+   "uncertainties": [
+    "Exact members unclear."
+   ],
+   "plain_english": "The peak cell between is adorned with cage and others."
+  },
+  {
+   "verse": 5097,
+   "rows": [
+    {
+     "surface": "tāre",
+     "gloss": "star",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "navāṃśe",
+     "gloss": "nine-part",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "garbhaḥ",
+     "gloss": "womb",
+     "grounds": "architectural member",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tribhāgaḥ",
+     "gloss": "three-part",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the womb placed in star and nine parts?",
+   "premises": [
+    "In star and nine parts, womb is.",
+    "Three parts are outside in order."
+   ],
+   "inference": "Womb is inside star/nine parts, with three parts outside in order.",
+   "uncertainties": [
+    "Exact placement unclear."
+   ],
+   "plain_english": "In star and nine parts, the womb is, with three parts outside in order."
+  },
+  {
+   "verse": 5098,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhādi",
+     "gloss": "peak-cell-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sarvāṅgaṃ",
+     "gloss": "all-limb",
+     "grounds": "compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "arrange",
+     "grounds": "pari+kalpayet",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How are peak cell and all limbs arranged?",
+   "premises": [
+    "Peak cell and all limbs are mentioned.",
+    "They are arranged as before."
+   ],
+   "inference": "Peak cell and all limbs follow the previous arrangement.",
+   "uncertainties": [
+    "Previous arrangement unclear."
+   ],
+   "plain_english": "Peak cell and all limbs are arranged as before."
+  },
+  {
+   "verse": 5099,
+   "rows": [
+    {
+     "surface": "sārdhāṃśo",
+     "gloss": "half-part",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhittiviṣkambha",
+     "gloss": "wall-diameter",
+     "grounds": "compound measure",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ekabhāgam",
+     "gloss": "one-part",
+     "grounds": "compound measure",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "alindakam",
+     "gloss": "alcove",
+     "grounds": "architectural member",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What wall diameter and alcove measures are given?",
+   "premises": [
+    "Wall diameter is half part.",
+    "Alcove is one part."
+   ],
+   "inference": "Wall diameter and alcove have distinct part measures.",
+   "uncertainties": [
+    "Relation unclear."
+   ],
+   "plain_english": "Wall diameter is half part and alcove is one part."
+  }
+ ]
+}
