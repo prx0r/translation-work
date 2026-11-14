@@ -1,0 +1,898 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1726,
+   "rows": [
+    {
+     "surface": "nalinī",
+     "gloss": "lotus-like",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nandinī",
+     "gloss": "joy-giving",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nandā",
+     "gloss": "joyful",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ānandānandavarttinī",
+     "gloss": "joy-of-joy-moving",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which joyful and lotus-like qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is called lotus-like.",
+    "The goddess is called joy-giving.",
+    "The goddess is called joyful.",
+    "The goddess moves in joy of joy."
+   ],
+   "inference": "The goddess is praised through joyful and lotus imagery.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is lotus-like, joy-giving, joyful, and moving in the joy of joy."
+  },
+  {
+   "verse": 1727,
+   "rows": [
+    {
+     "surface": "kulīnā",
+     "gloss": "noble",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulamadhyasthā",
+     "gloss": "middle-of-family-standing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuladharmopadeśinī",
+     "gloss": "family-dharma-instructing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess related to family and its dharma here?",
+   "premises": [
+    "The goddess is noble.",
+    "The goddess stands in the family middle.",
+    "The goddess instructs family dharma."
+   ],
+   "inference": "The goddess is noble, centrally placed in family, and teaches family dharma.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is noble, stands in the midst of the family, and instructs in family dharma."
+  },
+  {
+   "verse": 1728,
+   "rows": [
+    {
+     "surface": "sūryā",
+     "gloss": "sun",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūryasahasrābhā",
+     "gloss": "thousand-sun-like",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "candrakoṭinibhānanā",
+     "gloss": "crore-moon-faced",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What solar and lunar radiance is attributed to the goddess here?",
+   "premises": [
+    "The goddess is sun.",
+    "The goddess shines like a thousand suns.",
+    "The goddess has a face like crores of moons."
+   ],
+   "inference": "The goddess combines solar and lunar radiance.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is the sun, shines like a thousand suns, and has a face like crores of moons."
+  },
+  {
+   "verse": 1729,
+   "rows": [
+    {
+     "surface": "dāvāgnikoṭijvalinī",
+     "gloss": "crore-forest-fire-blazing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kadrukoṭisvarūpiṇī",
+     "gloss": "crore-serpent-form",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fiery and serpent imagery is attributed to the goddess here?",
+   "premises": [
+    "The goddess blazes like crores of forest fires.",
+    "The goddess has the form of crores of serpents."
+   ],
+   "inference": "The goddess is praised through fire and serpent imagery.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess blazes like crores of forest fires and has the form of crores of serpents."
+  },
+  {
+   "verse": 1730,
+   "rows": [
+    {
+     "surface": "ākāśakoṭivistārā",
+     "gloss": "crore-sky-extensive",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yamakoṭibhayaṅkarā",
+     "gloss": "crore-yama-frightening",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cosmic extent and frightening power are attributed to the goddess here?",
+   "premises": [
+    "The goddess extends like crores of skies.",
+    "The goddess frightens like crores of Yamas."
+   ],
+   "inference": "The goddess is vast and terrifying in cosmic scope.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess extends like crores of skies and frightens like crores of Yamas."
+  },
+  {
+   "verse": 1731,
+   "rows": [
+    {
+     "surface": "niṣkalaṅkā",
+     "gloss": "stainless",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirādhārā",
+     "gloss": "supportless",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirguṇā",
+     "gloss": "without-quality",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guṇavarjitā",
+     "gloss": "quality-devoid",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What transcendent qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is stainless.",
+    "The goddess is supportless.",
+    "The goddess is without quality.",
+    "The goddess is devoid of quality."
+   ],
+   "inference": "The goddess is praised as transcendent and free from qualities.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is stainless, supportless, without quality, and devoid of quality."
+  },
+  {
+   "verse": 1732,
+   "rows": [
+    {
+     "surface": "citrā",
+     "gloss": "wondrous",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicitrā",
+     "gloss": "variegated",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "citrāṅgī",
+     "gloss": "variegated-limbed",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hetugarbhā",
+     "gloss": "cause-wombed",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raṇeśvarī",
+     "gloss": "battle-lord",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What wondrous, causal, and martial qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is wondrous.",
+    "The goddess is variegated.",
+    "The goddess has variegated limbs.",
+    "The goddess is cause-wombed.",
+    "The goddess is battle-lord."
+   ],
+   "inference": "The goddess is wondrous, causal, and martial.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is wondrous, variegated, variegated-limbed, cause-wombed, and battle-lord."
+  },
+  {
+   "verse": 1733,
+   "rows": [
+    {
+     "surface": "śrutiḥ",
+     "gloss": "veda",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrutimayī",
+     "gloss": "veda-full",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satyā",
+     "gloss": "truth",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrutirūpā",
+     "gloss": "veda-form",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrutipriyā",
+     "gloss": "veda-beloved",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What Vedic and truthful qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is Veda.",
+    "The goddess is full of Veda.",
+    "The goddess is truth.",
+    "The goddess has Veda form.",
+    "The goddess is beloved of Veda."
+   ],
+   "inference": "The goddess is identified with Veda, truth, and Vedic form.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is Veda, full of Veda, truth, Veda-form, and beloved of Veda."
+  },
+  {
+   "verse": 1734,
+   "rows": [
+    {
+     "surface": "pārvatī",
+     "gloss": "pārvatī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "himavatputrī",
+     "gloss": "himalaya-daughter",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārasthā",
+     "gloss": "beyond-standing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārarūpiṇī",
+     "gloss": "beyond-form",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What Himalayan and transcendent qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is Pārvatī.",
+    "The goddess is Himalaya's daughter.",
+    "The goddess stands beyond.",
+    "The goddess has beyond-form."
+   ],
+   "inference": "The goddess is Pārvatī, Himalaya's daughter, and transcendent.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is Pārvatī, daughter of Himalaya, standing beyond, and having beyond-form."
+  },
+  {
+   "verse": 1735,
+   "rows": [
+    {
+     "surface": "bhūtadhātrī",
+     "gloss": "beings-supporter",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūteśī",
+     "gloss": "beings-lord",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūtasthā",
+     "gloss": "beings-standing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūtabhāvinī",
+     "gloss": "beings-becoming",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What relation to beings is attributed to the goddess here?",
+   "premises": [
+    "The goddess supports beings.",
+    "The goddess lords over beings.",
+    "The goddess stands in beings.",
+    "The goddess becomes beings."
+   ],
+   "inference": "The goddess supports, rules, pervades, and becomes beings.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess supports beings, lords over beings, stands in beings, and becomes beings."
+  },
+  {
+   "verse": 1736,
+   "rows": [
+    {
+     "surface": "haṃsākhyā",
+     "gloss": "haṃsa-named",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "haṃsarūpā",
+     "gloss": "haṃsa-form",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "haṃsasthā",
+     "gloss": "haṃsa-standing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "haṃsarūpiṇī",
+     "gloss": "haṃsa-formed",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What haṃsa-related qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is named haṃsa.",
+    "The goddess has haṃsa form.",
+    "The goddess stands in haṃsa.",
+    "The goddess is haṃsa-formed."
+   ],
+   "inference": "The goddess is closely identified with haṃsa.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is named haṃsa, has haṃsa form, stands in haṃsa, and is haṃsa-formed."
+  },
+  {
+   "verse": 1737,
+   "rows": [
+    {
+     "surface": "dvādaśārasarojasthā",
+     "gloss": "twelve-spoke-lotus-standing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sūryamaṇḍalavāsinī",
+     "gloss": "sun-orb-dwelling",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where is the goddess said to stand and dwell here?",
+   "premises": [
+    "The goddess stands in a twelve-spoke lotus.",
+    "The goddess dwells in the sun orb."
+   ],
+   "inference": "The goddess is located in a twelve-spoke lotus and the sun orb.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess stands in a twelve-spoke lotus and dwells in the sun orb."
+  },
+  {
+   "verse": 1738,
+   "rows": [
+    {
+     "surface": "ḍākinī",
+     "gloss": "ḍākinī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rākiṇī",
+     "gloss": "rākiṇī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lākinī",
+     "gloss": "lākinī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kākinī",
+     "gloss": "kākinī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which yoginī names are attributed to the goddess here?",
+   "premises": [
+    "The goddess is ḍākinī.",
+    "The goddess is rākiṇī.",
+    "The goddess is lākinī.",
+    "The goddess is kākinī.",
+    "Thus these names apply."
+   ],
+   "inference": "The goddess is identified with these yoginī names.",
+   "uncertainties": [
+    "Exact ritual context is not supplied."
+   ],
+   "plain_english": "The goddess is ḍākinī, rākiṇī, lākinī, and kākinī, thus."
+  },
+  {
+   "verse": 1739,
+   "rows": [
+    {
+     "surface": "sṛṣṭisthitivināśā",
+     "gloss": "creation-maintenance-destruction",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭisthityantakāriṇī",
+     "gloss": "creation-maintenance-end-doer",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What cosmic functions are attributed to the goddess here?",
+   "premises": [
+    "The goddess is creation, maintenance, and destruction.",
+    "The goddess does creation, maintenance, and end."
+   ],
+   "inference": "The goddess performs creation, maintenance, and destruction.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is creation, maintenance, and destruction, and does creation, maintenance, and end."
+  },
+  {
+   "verse": 1740,
+   "rows": [
+    {
+     "surface": "catuḥṣaṣṭikalādhārā",
+     "gloss": "sixty-four-arts-support",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dehadaṇḍakalāśrayā",
+     "gloss": "body-staff-arts-abode",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What arts and bodily supports are attributed to the goddess here?",
+   "premises": [
+    "The goddess supports sixty-four arts.",
+    "The goddess is abode of body-staff arts."
+   ],
+   "inference": "The goddess supports arts and bodily arts.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess supports sixty-four arts and is the abode of body-staff arts."
+  },
+  {
+   "verse": 1741,
+   "rows": [
+    {
+     "surface": "hiṅgulā",
+     "gloss": "hiṅgulā",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maṅgalā",
+     "gloss": "auspicious",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sītā",
+     "gloss": "sītā",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suṣumṇāmadhyagāminī",
+     "gloss": "suṣumṇā-middle-going",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What auspicious and channel-related qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is Hiṅgulā.",
+    "The goddess is auspicious.",
+    "The goddess is Sītā.",
+    "The goddess goes in the middle of Suṣumṇā."
+   ],
+   "inference": "The goddess is auspicious and moves in Suṣumṇā's middle.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is Hiṅgulā, auspicious, Sītā, and goes in the middle of Suṣumṇā."
+  },
+  {
+   "verse": 1742,
+   "rows": [
+    {
+     "surface": "hṛtpadmanilayā",
+     "gloss": "heart-lotus-abode",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhīmā",
+     "gloss": "terrific",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairavanādinī",
+     "gloss": "bhairava-sounding",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What heart-lotus and terrifying qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess abides in the heart lotus.",
+    "The goddess is terrific.",
+    "The goddess sounds like Bhairava."
+   ],
+   "inference": "The goddess abides in the heart lotus and is terrific and Bhairava-sounding.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess abides in the heart lotus, is terrific, and sounds like Bhairava."
+  },
+  {
+   "verse": 1743,
+   "rows": [
+    {
+     "surface": "antakūṭabījasthā",
+     "gloss": "end-peak-seed-standing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "trikūṭavanavāsinī",
+     "gloss": "trikūṭa-forest-dwelling",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What seed and forest dwelling are attributed to the goddess here?",
+   "premises": [
+    "The goddess stands in the end-peak seed.",
+    "The goddess dwells in Trikūṭa forest."
+   ],
+   "inference": "The goddess stands in end-peak seed and dwells in Trikūṭa forest.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess stands in the end-peak seed and dwells in Trikūṭa forest."
+  },
+  {
+   "verse": 1744,
+   "rows": [
+    {
+     "surface": "vidyādharī",
+     "gloss": "vidyādharī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lokadhātrī",
+     "gloss": "world-supporter",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "amarā",
+     "gloss": "immortal",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "apsaraḥpriyā",
+     "gloss": "apsaras-beloved",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What world-supporting and immortal qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is Vidyādharī.",
+    "The goddess supports the world.",
+    "The goddess is immortal.",
+    "The goddess is beloved of Apsaras."
+   ],
+   "inference": "The goddess supports the world and is immortal and beloved of Apsaras.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is Vidyādharī, supports the world, is immortal, and is beloved of Apsaras."
+  },
+  {
+   "verse": 1745,
+   "rows": [
+    {
+     "surface": "īśānī",
+     "gloss": "īśānī",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśānī",
+     "gloss": "world-īśānī",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvanā",
+     "gloss": "world",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "world-lord",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What world-lordship is attributed to the goddess here?",
+   "premises": [
+    "The goddess is Īśānī.",
+    "The goddess is world-Īśānī.",
+    "The goddess is world.",
+    "The goddess is world-lord."
+   ],
+   "inference": "The goddess is world-lord and identified with world.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is Īśānī, world-Īśānī, world, and world-lord."
+  },
+  {
+   "verse": 1746,
+   "rows": [
+    {
+     "surface": "acintyaśakticittātmā",
+     "gloss": "inconceivable-power-mind-self",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cintā",
+     "gloss": "thought",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cittasvarūpiṇī",
+     "gloss": "thought-form",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What inconceivable power and thought qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess has inconceivable power-mind-self.",
+    "The goddess is thought.",
+    "The goddess has thought-form."
+   ],
+   "inference": "The goddess is inconceivable power and thought-form.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess has inconceivable power-mind-self, is thought, and has thought-form."
+  },
+  {
+   "verse": 1747,
+   "rows": [
+    {
+     "surface": "asitā",
+     "gloss": "dark",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghorarūpā",
+     "gloss": "terrific-form",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sudhādhārā",
+     "gloss": "nectar-stream",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sudhāvahā",
+     "gloss": "nectar-bearing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What dark, terrific, and nectar qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is dark.",
+    "The goddess has terrific form.",
+    "The goddess is nectar-stream.",
+    "The goddess is nectar-bearing."
+   ],
+   "inference": "The goddess is dark, terrific, and nectar-bearing.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is dark, has terrific form, is nectar-stream, and nectar-bearing."
+  },
+  {
+   "verse": 1748,
+   "rows": [
+    {
+     "surface": "anudyamā",
+     "gloss": "unexerted",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣamānandā",
+     "gloss": "forgiveness-bliss",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "durlabhā",
+     "gloss": "hard-to-attain",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavanātmikā",
+     "gloss": "becoming-self",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What unexerted and hard-to-attain qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess is unexerted.",
+    "The goddess is forgiveness-bliss.",
+    "The goddess is hard to attain.",
+    "The goddess is becoming-self."
+   ],
+   "inference": "The goddess is unexerted, blissful, hard to attain, and becoming-self.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess is unexerted, forgiveness-bliss, hard to attain, and becoming-self."
+  },
+  {
+   "verse": 1749,
+   "rows": [
+    {
+     "surface": "śīlasthā",
+     "gloss": "conduct-standing",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śīlarūpā",
+     "gloss": "conduct-form",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śīlā",
+     "gloss": "conduct",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śīlapradāyinī",
+     "gloss": "conduct-giver",
+     "grounds": "compound epithet",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What conduct-related qualities are attributed to the goddess here?",
+   "premises": [
+    "The goddess stands in conduct.",
+    "The goddess has conduct form.",
+    "The goddess is conduct.",
+    "The goddess gives conduct."
+   ],
+   "inference": "The goddess is identified with conduct and gives conduct.",
+   "uncertainties": [
+    "Exact compound parsing is not supplied."
+   ],
+   "plain_english": "The goddess stands in conduct, has conduct form, is conduct, and gives conduct."
+  }
+ ]
+}

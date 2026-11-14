@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1846,
- "question": "What specific set of Bagalā's names is requested to be spoken now?",
+ "question": "How quickly are enemies reduced to ashes?",
  "premises": [
-  "Bagalā has a set of names.",
-  "The set consists of one hundred and eight names.",
-  "The speaker is asked to recite them now."
+  "He makes them ashes quickly.",
+  "As grass offered to fire."
  ],
- "inference": "The text calls for the recitation of the one hundred and eight names of Bagalā.",
- "uncertainties": [],
- "plain_english": "Now speak the one hundred and eight names of Bagalā."
+ "inference": "Enemies are destroyed as quickly as grass in fire.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "He quickly reduces them to ashes, as grass offered to fire."
 }

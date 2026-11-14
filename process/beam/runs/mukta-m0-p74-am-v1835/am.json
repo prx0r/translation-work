@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1835,
- "question": "What compassionate response is the devotee seeking from the mother goddess?",
+ "question": "What is the hymn of thousand names that emerged from the speaker's mouth?",
  "premises": [
-  "The goddess is addressed as possessing good compassion.",
-  "The goddess is addressed as mother.",
-  "The devotee asks her to be pleased."
+  "The hymn is named thousand names.",
+  "It emerged from the speaker's mouth."
  ],
- "inference": "The devotee appeals to the compassionate mother goddess to grant her favor.",
- "uncertainties": [],
- "plain_english": "O Mother of good compassion, be pleased."
+ "inference": "The thousand-named hymn is the speaker's own oral composition.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "This hymn, called the thousand names, emerged from my mouth."
 }

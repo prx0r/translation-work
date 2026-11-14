@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1866,
- "question": "What inspection must follow the fire offering to Vāstospati in the installation sequence?",
+ "question": "What follows after performing life installation?",
  "premises": [
-  "An offering to Vāstospati is made.",
-  "The pedestal and pit are prepared.",
-  "Inspection is required afterward."
+  "having done life installation",
+  "then worship chosen deity"
  ],
- "inference": "After offering to Vāstospati, one should examine the pedestal and the pit.",
- "uncertainties": [],
- "plain_english": "Then, having made an offering to Vāstospati, one should examine the pedestal and the pit."
+ "inference": "life installation precedes worship of the chosen deity",
+ "uncertainties": [
+  "compound boundaries"
+ ],
+ "plain_english": "Having done life installation, then one should worship the chosen deity."
 }

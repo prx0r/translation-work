@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1748,
- "question": "Which additional sages continue the ordered enumeration in this sacred list?",
+ "question": "What unexerted and hard-to-attain qualities are attributed to the goddess here?",
  "premises": [
-  "Cyavana, Kashyapa, and Pulastya are named.",
-  "The list proceeds in order."
+  "The goddess is unexerted.",
+  "The goddess is forgiveness-bliss.",
+  "The goddess is hard to attain.",
+  "The goddess is becoming-self."
  ],
- "inference": "Cyavana, Kashyapa, and Pulastya are added in sequence to the enumeration.",
- "uncertainties": [],
- "plain_english": "Cyavana, and indeed Kashyapa, and Pulastya, in due order."
+ "inference": "The goddess is unexerted, blissful, hard to attain, and becoming-self.",
+ "uncertainties": [
+  "Exact compound parsing is not supplied."
+ ],
+ "plain_english": "The goddess is unexerted, forgiveness-bliss, hard to attain, and becoming-self."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1844,
- "question": "What daily devotional practice is prescribed through recitation of Bagalā's heart hymn?",
+ "question": "What animal comparisons illustrate fear or reaction?",
  "premises": [
-  "There is an excellent heart hymn of Bagalā.",
-  "A person may recite it.",
-  "The recitation is to be done daily."
+  "Frogs seeing a serpent react with fear.",
+  "A mouse seeing a cat reacts with fear."
  ],
- "inference": "Daily recitation of Bagalā's excellent heart hymn is prescribed as a devotional practice.",
- "uncertainties": [],
- "plain_english": "Whoever daily recites the excellent heart hymn of Bagalā."
+ "inference": "The verse uses animal fear comparisons.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "As frogs seeing a serpent, as a mouse seeing a cat."
 }

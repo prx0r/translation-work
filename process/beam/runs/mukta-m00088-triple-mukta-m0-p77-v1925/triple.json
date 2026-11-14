@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "daśākṣareṇa",
+     "gloss": "ten-syllable",
+     "grounds": "compound daśa+akṣara in instrumental singular",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "durgāyai",
+     "gloss": "to-durga",
+     "grounds": "dative singular of durgā",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "dadyān",
+     "gloss": "should-give",
+     "grounds": "optative of root dā",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "mandiram",
+     "gloss": "temple",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What mantra syllable count and recipient are prescribed for offering the supreme temple?",
+   "premises": [
+    "ten-syllable mantra is used",
+    "offering is made to Durga",
+    "temple offered is supreme"
+   ],
+   "inference": "The rite prescribes offering a supreme temple to Durga with a ten-syllable mantra.",
+   "uncertainties": [
+    "exact ritual context is not stated in this verse"
+   ],
+   "plain_english": "With a ten-syllable mantra, one should give Durga a supreme temple."
+  }
+ ]
+}

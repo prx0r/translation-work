@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1857,
- "question": "Which additional items must be deposited together with the tortoise emblem?",
+ "question": "In which directions should the mantrin face during daily rites?",
  "premises": [
-  "A tortoise is included in the deposit.",
-  "Other items accompany it.",
-  "Silver and barley grains are specified."
+  "daily rites are done",
+  "mantrin faces east or north"
  ],
- "inference": "Silver and barley grains should be placed together with the tortoise.",
- "uncertainties": [],
- "plain_english": "One should place silver and barley grains together with the tortoise."
+ "inference": "the practitioner performs rites facing east or north",
+ "uncertainties": [
+  "whether kṛta modifies nitya-kriyaḥ"
+ ],
+ "plain_english": "The mantrin, having done daily rites, faces east or north."
 }

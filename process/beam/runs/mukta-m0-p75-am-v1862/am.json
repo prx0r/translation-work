@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1862,
- "question": "What minimal deposit is permitted when none of the prescribed materials can be obtained?",
+ "question": "When and how should seat worship be performed?",
  "premises": [
-  "The prescribed materials may be unavailable.",
-  "A reduced option is allowed.",
-  "One item among them suffices."
+  "then perform seat worship",
+  "by prescribed ritual method"
  ],
- "inference": "If the materials cannot be obtained, one should place at least one of them.",
- "uncertainties": [],
- "plain_english": "But even if the materials cannot be obtained, one should place one among them."
+ "inference": "seat worship follows the prescribed ritual method",
+ "uncertainties": [
+  "compound boundaries"
+ ],
+ "plain_english": "Then one should perform seat worship according to the prescribed ritual method."
 }

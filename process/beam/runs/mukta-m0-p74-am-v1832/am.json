@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1832,
- "question": "Where does the goddess with the supreme yellow form dwell according to tradition?",
+ "question": "What Tripura, prosperity, mother, enjoyer, Bhairavi, and om attributes are named?",
  "premises": [
-  "The goddess has a supreme yellow form.",
-  "She dwells in Maṇidvīpa.",
-  "Maṇidvīpa is well-known as her abode."
+  "The goddess is Tripura and prosperity.",
+  "The goddess is three-mother, three-enjoyer, Tripura-Bhairavi, and om."
  ],
- "inference": "The supreme yellow-formed goddess resides in the well-known abode of Maṇidvīpa.",
- "uncertainties": [],
- "plain_english": "She has a supreme yellow form and dwells in the well-known Maṇidvīpa."
+ "inference": "The verse lists sacred names and attributes of the goddess.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "Tripura, prosperity, three-mother, three-enjoyer, Tripura-Bhairavi, om."
 }

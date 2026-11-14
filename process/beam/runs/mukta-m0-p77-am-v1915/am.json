@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p77",
  "verse": 1915,
- "question": "What paradoxical attitudes toward subduing and compassion toward demons define the goddess?",
+ "question": "What fee is given to the teacher?",
  "premises": [
-  "The goddess delights in subduing.",
-  "The goddess is devoted to giving compassion to demons."
+  "A fee is given",
+  "The teacher receives it",
+  "Gold is measured by karsha"
  ],
- "inference": "The goddess simultaneously subdues and extends compassion, even toward demons.",
- "uncertainties": [],
- "plain_english": "She delights in subduing and is devoted to giving compassion to demons."
+ "inference": "Gold measured by karsha is given to the teacher as fee.",
+ "uncertainties": [
+  "Exact sandhi boundaries not expanded"
+ ],
+ "plain_english": "Give the teacher gold measured by karsha as fee."
 }

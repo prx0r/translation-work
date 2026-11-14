@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1747,
- "question": "Which deities and sages are enumerated as present in this sacred context?",
+ "question": "What dark, terrific, and nectar qualities are attributed to the goddess here?",
  "premises": [
-  "Vishnu, Brahma, Rudra, Agastya, and Indra are named.",
-  "They are listed together in sequence."
+  "The goddess is dark.",
+  "The goddess has terrific form.",
+  "The goddess is nectar-stream.",
+  "The goddess is nectar-bearing."
  ],
- "inference": "The verse enumerates Vishnu, Brahma, Rudra, Agastya, and Indra as present.",
- "uncertainties": [],
- "plain_english": "Vishnu and Brahma, and Rudra, and Agastya, and Indra of a hundred sacrifices."
+ "inference": "The goddess is dark, terrific, and nectar-bearing.",
+ "uncertainties": [
+  "Exact compound parsing is not supplied."
+ ],
+ "plain_english": "The goddess is dark, has terrific form, is nectar-stream, and nectar-bearing."
 }

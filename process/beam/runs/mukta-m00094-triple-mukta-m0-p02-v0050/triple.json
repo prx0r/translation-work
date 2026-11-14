@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ+aham",
+     "gloss": "I-am-He",
+     "grounds": "fused sandhi form saḥ + aham",
+     "morph": "pronoun.nom.sg + pronoun.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive from dhyā",
+     "morph": "absolutive (dhyā)"
+    },
+    {
+     "surface": "pādyaṃ",
+     "gloss": "foot-water",
+     "grounds": "water for washing feet",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-offer",
+     "grounds": "optative of dā",
+     "morph": "3.sg.opt.act (dā)"
+    },
+    {
+     "surface": "padoḥ",
+     "gloss": "at-the-feet",
+     "grounds": "locative dual of pāda",
+     "morph": "loc.du.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "After meditating 'I am He,' what offering should be made at the feet?",
+   "premises": [
+    "Meditation establishes identity with deity.",
+    "Foot-water is then offered.",
+    "Offering occurs at the feet."
+   ],
+   "inference": "The verse prescribes pādya after dhyāna of saḥ aham.",
+   "uncertainties": [
+    "Exact ritual sequence beyond this verse is not specified."
+   ],
+   "plain_english": "Then, having meditated 'I am He,' one should offer foot-water at the feet, O beloved."
+  }
+ ]
+}

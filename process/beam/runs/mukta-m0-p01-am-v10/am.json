@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p01",
  "verse": 10,
- "question": "By what name and renown is the ever-first god known?",
+ "question": "What morning duty done by Buddha deity should be told?",
  "premises": [
-  "The god is always first.",
-  "He is designated as Śiva.",
-  "He is famous by name and accomplishment."
+  "Buddha deity is named.",
+  "A morning duty done is to be told."
  ],
- "inference": "The ever-first god is renowned as Śiva through both name and attainment.",
- "uncertainties": [],
- "plain_english": "The ever-first god is known as Śiva, famous by name and by accomplishment."
+ "inference": "The verse asks for narration of a morning duty performed by a Buddha deity.",
+ "uncertainties": [
+  "The exact duty is not specified in this verse."
+ ],
+ "plain_english": "Tell me what morning duty was done by the Buddha deity."
 }

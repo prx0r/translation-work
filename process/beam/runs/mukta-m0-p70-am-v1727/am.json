@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1727,
- "question": "What ritual actions must be performed at Indra's supreme tirtha?",
+ "question": "How is the goddess related to family and its dharma here?",
  "premises": [
-  "The location is Indra's supreme tirtha.",
-  "One must bathe and worship Vāsava there."
+  "The goddess is noble.",
+  "The goddess stands in the family middle.",
+  "The goddess instructs family dharma."
  ],
- "inference": "At Indra's supreme tirtha, bathing and worship of Indra are required.",
- "uncertainties": [],
- "plain_english": "At Indra's supreme tirtha, having bathed and worshipped Vāsava."
+ "inference": "The goddess is noble, centrally placed in family, and teaches family dharma.",
+ "uncertainties": [
+  "Exact compound parsing is not supplied."
+ ],
+ "plain_english": "The goddess is noble, stands in the midst of the family, and instructs in family dharma."
 }

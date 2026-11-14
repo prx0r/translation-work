@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 14,
- "question": "How should one contemplate the primordial seed of the Vedas?",
+ "question": "In how many ways may the mantra be recited?",
  "premises": [
-  "The object is the first seed of the Vedas.",
-  "The practitioner should have a very steady heart.",
-  "The contemplation should proceed in order."
+  "Recitation may be threefold.",
+  "Recitation may be sevenfold.",
+  "Recitation may be tenfold."
  ],
- "inference": "One with a steady heart should meditate in sequence on the Vedas' primordial seed.",
- "uncertainties": [],
- "plain_english": "With a very steady heart, one should meditate in order on that first seed of the Vedas."
+ "inference": "The mantra may be recited in three, seven, or ten ways.",
+ "uncertainties": [
+  "The exact ritual distinction among the counts is not stated."
+ ],
+ "plain_english": "One should recite the mantra threefold, sevenfold, or tenfold."
 }

@@ -1,15 +1,14 @@
 {
  "song": "mukta-m0-p01",
  "verse": 22,
- "question": "What is Vageshvari as knowledge power in vagbhava said to give?",
+ "question": "What is described as like a million suns and subtle as poison thread?",
  "premises": [
-  "Vageshvari is knowledge power in vagbhava",
-  "she is described as liberation-giving",
-  "the verse names her directly"
+  "The object is like a million suns.",
+  "The object is subtle as poison thread."
  ],
- "inference": "Vageshvari, knowledge power in vagbhava, gives liberation.",
+ "inference": "The described power is both sun-like and thread-subtle.",
  "uncertainties": [
-  "compound boundary inside the fused token is inferred"
+  "The exact referent is not stated in this verse."
  ],
- "plain_english": "Vageshvari, knowledge power in vagbhava, is liberation-giving."
+ "plain_english": "Like a million suns, subtle as a poison thread."
 }

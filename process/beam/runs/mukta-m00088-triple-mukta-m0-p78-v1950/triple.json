@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "passive form of labh, meaning obtained",
+     "morph": "3.sg.pass-pres + labh"
+    },
+    {
+     "surface": "koṭiguṇitaṃ",
+     "gloss": "ten-million-fold",
+     "grounds": "compound koṭi-guṇita, multiplied by ten million",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "viśvaset",
+     "gloss": "should-trust",
+     "grounds": "optative of viśvas, meaning trust",
+     "morph": "3.sg.opt.act + viśvas"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāmṛśet",
+     "gloss": "should-consult",
+     "grounds": "optative of parāmṛś, meaning consult",
+     "morph": "3.sg.opt.act + parāmṛś"
+    }
+   ],
+   "question": "When a gift is obtained ten-million-fold, should one trust and not consult?",
+   "premises": [
+    "Buried wealth is lost to kings or thieves.",
+    "A gift yields ten-million-fold return.",
+    "Trust is prescribed; consultation is rejected."
+   ],
+   "inference": "Therefore one should give rather than hoard wealth.",
+   "uncertainties": [
+    "The exact object or authority of parāmṛśet is not specified."
+   ],
+   "plain_english": "What is given is obtained ten-million-fold; one should trust, not consult."
+  }
+ ]
+}

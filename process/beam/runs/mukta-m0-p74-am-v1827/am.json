@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1827,
- "question": "What qualities of the yellow-clad goddess inspire the speaker to seek refuge?",
+ "question": "How is the goddess described as all-bliss-filled and all-protection-embodied?",
  "premises": [
-  "The goddess wears yellow garments.",
-  "The goddess is pure.",
-  "The speaker takes refuge in her."
+  "The goddess is all-bliss-filled.",
+  "The goddess is all-protection-embodied."
  ],
- "inference": "Her purity and distinctive yellow attire make her a worthy refuge for the speaker.",
- "uncertainties": [],
- "plain_english": "I take refuge in the pure one who wears yellow garments."
+ "inference": "The goddess embodies complete bliss and protection.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "The goddess is filled with all bliss and is the embodiment of all protection."
 }

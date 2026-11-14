@@ -1,12 +1,14 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1740,
- "question": "What sequence of ritual acts is prescribed south of Agastya's place?",
+ "question": "What arts and bodily supports are attributed to the goddess here?",
  "premises": [
-  "One goes to the south of Agastya's place.",
-  "Bathing and offering libations are performed."
+  "The goddess supports sixty-four arts.",
+  "The goddess is abode of body-staff arts."
  ],
- "inference": "South of Agastya's place, one should go, bathe, and offer libations.",
- "uncertainties": [],
- "plain_english": "Going south of Agastya's place, having bathed and offered libations."
+ "inference": "The goddess supports arts and bodily arts.",
+ "uncertainties": [
+  "Exact compound parsing is not supplied."
+ ],
+ "plain_english": "The goddess supports sixty-four arts and is the abode of body-staff arts."
 }

@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1829,
- "question": "What supreme status of the yellow-adorned goddess is shown by Brahmā's worship?",
+ "question": "Which divine attributes are listed as three-knowledges, threefold, maya, three-worlds, and tripura-syllabled?",
  "premises": [
-  "The goddess is adorned with yellow ornaments.",
-  "The goddess is supreme.",
-  "The lotus-born one worships her."
+  "The goddess is associated with three knowledges.",
+  "The goddess is threefold, maya, of three worlds, and tripura-syllabled."
  ],
- "inference": "Being worshipped even by the lotus-born confirms her supreme status and worthiness of reverence.",
- "uncertainties": [],
- "plain_english": "I bow to the supreme one, adorned with yellow ornaments, who is worshipped by the lotus-born."
+ "inference": "The verse enumerates multiple divine attributes of the goddess.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "She is three knowledges, threefold, maya, of the three worlds, and tripura-syllabled."
 }

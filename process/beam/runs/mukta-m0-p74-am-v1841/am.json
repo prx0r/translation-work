@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1841,
- "question": "What purification and ultimate attainment result for the mortal devoted to this practice?",
+ "question": "How should this hymn be concealed and read?",
  "premises": [
-  "The mortal becomes free from sin.",
-  "The mortal eventually dies.",
-  "After death the mortal may obtain liberation."
+  "It should be concealed with effort.",
+  "It should be read carefully."
  ],
- "inference": "Devotion to this practice leads the mortal from purification in life to liberation after death.",
- "uncertainties": [],
- "plain_english": "The mortal becomes free from sin, and having died, may obtain liberation."
+ "inference": "The hymn requires both secrecy and careful recitation.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "It should be concealed with effort and read carefully."
 }

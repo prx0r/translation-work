@@ -1,12 +1,16 @@
 {
  "song": "mukta-m0-p70",
  "verse": 1735,
- "question": "Who may perform the mouth-washing ritual at this stage of practice?",
+ "question": "What relation to beings is attributed to the goddess here?",
  "premises": [
-  "Mouth washing is performed.",
-  "Both woman and man are mentioned as possible agents."
+  "The goddess supports beings.",
+  "The goddess lords over beings.",
+  "The goddess stands in beings.",
+  "The goddess becomes beings."
  ],
- "inference": "Either a woman or a man may perform the mouth-washing rite.",
- "uncertainties": [],
- "plain_english": "Having washed the mouth, whether a woman or a man."
+ "inference": "The goddess supports, rules, pervades, and becomes beings.",
+ "uncertainties": [
+  "Exact compound parsing is not supplied."
+ ],
+ "plain_english": "The goddess supports beings, lords over beings, stands in beings, and becomes beings."
 }

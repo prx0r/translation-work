@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "sarvāṅgasundarī",
+     "gloss": "all-limb-beautiful",
+     "grounds": "epithet describing the goddess as beautiful in every limb",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "divine mother addressed by the epithets",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasaubhāgyadāyinī",
+     "gloss": "all-auspiciousness-giver",
+     "grounds": "epithet describing the goddess as bestower of all auspiciousness",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What divine mother is praised as all-limb-beautiful and giver of all auspiciousness?",
+   "premises": [
+    "The verse lists epithets of the goddess.",
+    "Sarvāṅgasundarī means all-limb-beautiful.",
+    "Sarvasaubhāgyadāyinī means giver of all auspiciousness."
+   ],
+   "inference": "The goddess is the all-beautiful mother who grants all auspiciousness.",
+   "uncertainties": [
+    "The exact theological referent beyond the epithet list is not specified."
+   ],
+   "plain_english": "The all-limb-beautiful mother, giver of all auspiciousness."
+  }
+ ]
+}

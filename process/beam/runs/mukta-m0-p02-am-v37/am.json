@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p02",
  "verse": 37,
- "question": "Who venerates the great Tripurasundari?",
+ "question": "What should one say to the three eyes after naming Viṣṇu's speech embodiment?",
  "premises": [
-  "Brahma, Vishnu, and Shiva venerate her.",
-  "She is the great Tripurasundari."
+  "viṣṇu+vāk+rūpiṇī is nominative",
+  "netra+trayāya is dative",
+  "vauṣaṭ is mantra syllable",
+  "iti+api is particle"
  ],
- "inference": "The great Tripurasundari is venerated by Brahma, Vishnu, and Shiva.",
+ "inference": "One should say vauṣaṭ to the three eyes.",
  "uncertainties": [
-  "bhava is interpreted as Shiva."
+  "exact ritual placement"
  ],
- "plain_english": "Venerated by Brahma, Vishnu, and Shiva is the great Tripurasundari."
+ "plain_english": "Embodiment of Viṣṇu's speech, to the three eyes vauṣaṭ, thus also."
 }

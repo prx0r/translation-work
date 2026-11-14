@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p72",
  "verse": 1791,
- "question": "In what locations and circumstances is continual protection sought for the speaker?",
+ "question": "What afflictions is the goddess said to be free from?",
  "premises": [
-  "Protection is requested everywhere",
-  "House and forest are explicitly named",
-  "Protection is requested always for the speaker"
+  "She is free from passion and disease.",
+  "She is devoid of old age and death."
  ],
- "inference": "The speaker seeks continual protection everywhere, in house and in forest",
- "uncertainties": [],
- "plain_english": "May it grant me protection everywhere, in the house and in the forest, always."
+ "inference": "The verse presents her as free from passion, disease, aging, and death.",
+ "uncertainties": [
+  "Gender/number mismatch between first and second epithets."
+ ],
+ "plain_english": "Free from passion and disease, devoid of old age and death."
 }

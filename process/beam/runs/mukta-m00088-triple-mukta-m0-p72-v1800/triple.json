@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "amṛtā",
+     "gloss": "immortal",
+     "grounds": "immortal epithet of the goddess",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "satya+saṅkalpā",
+     "gloss": "true-resolved",
+     "grounds": "compound satya plus saṅkalpā",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "pretyā",
+     "gloss": "departed",
+     "grounds": "past participle sense departed",
+     "morph": "part.nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to goddess",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "prasthita+udanī",
+     "gloss": "standing-up-giving",
+     "grounds": "compound prasthita plus udanī",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is the goddess's state after departure and her act of giving?",
+   "premises": [
+    "The goddess is immortal.",
+    "Her resolve is true.",
+    "She has departed.",
+    "She stands giving."
+   ],
+   "inference": "The verse portrays an immortal goddess who, after departure, stands giving.",
+   "uncertainties": [
+    "Exact referent of pretyā and prasthita+udanī remains unclear."
+   ],
+   "plain_english": "She is immortal, true in resolve, departed, and stands giving."
+  }
+ ]
+}

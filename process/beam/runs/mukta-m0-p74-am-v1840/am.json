@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1840,
- "question": "What favorable response does Bagalā show toward one who recites her praise?",
+ "question": "On which lunar and planetary occasions is the hymn to be practiced?",
  "premises": [
-  "Someone recites the Bagalā text.",
-  "The recitation is ongoing.",
-  "Bagalā becomes pleased with that reciter."
+  "Practice occurs on full moon and new moon.",
+  "Practice occurs on the ninth and on Mars-Venus days."
  ],
- "inference": "Recitation of the Bagalā praise brings about the goddess's pleasure toward the reciter.",
- "uncertainties": [],
- "plain_english": "Whoever recites this of Bagalā, to him, while reciting, she becomes pleased."
+ "inference": "The hymn is tied to specific auspicious occasions.",
+ "uncertainties": [
+  "Compound segmentation not expanded."
+ ],
+ "plain_english": "On full moon, new moon, the ninth, and Mars-Venus days."
 }
