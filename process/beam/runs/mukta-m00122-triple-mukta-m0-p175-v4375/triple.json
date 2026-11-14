@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p175",
+ "items": [
+  {
+   "verse": 4375,
+   "rows": [
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "meditation as the stated act or object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "amṛteśvarī",
+     "gloss": "amṛteśvarī",
+     "grounds": "goddess named as the meditation's focus",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "repeated meditation term",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle closing the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is declared to be meditation on Amṛteśvarī?",
+   "premises": [
+    "Meditation on Amṛteśvarī is meditation.",
+    "Only meditation is intended.",
+    "Thus concludes the statement."
+   ],
+   "inference": "The verse equates meditation with Amṛteśvarī and restricts it to meditation alone.",
+   "uncertainties": [
+    "The exact syntactic relation of amṛteśvarī to dhyānam is not fully explicit."
+   ],
+   "plain_english": "Meditation on Amṛteśvarī is meditation only, thus."
+  }
+ ]
+}

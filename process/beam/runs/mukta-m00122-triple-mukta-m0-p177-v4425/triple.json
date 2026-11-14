@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p177",
+ "items": [
+  {
+   "verse": 4425,
+   "rows": [
+    {
+     "surface": "tṛtīyacaturthākṣarabhūtena",
+     "gloss": "third-fourth-syllable-born",
+     "grounds": "compound adjective in instrumental singular, indicating the agent or means born from the third and fourth syllables",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "caturakṣarī",
+     "gloss": "four-syllabled",
+     "grounds": "feminine nominative singular adjective modifying the implied mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sambhūyeti",
+     "gloss": "should-be-formed",
+     "grounds": "optative verb form with iti, expressing prescribed formation",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-much",
+     "grounds": "indeclinable limiting the extent of the formation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the four-syllabled mantra formed from the third and fourth syllables?",
+   "premises": [
+    "third and fourth syllables generate the mantra",
+    "four-syllabled form should be formed",
+    "formation extends as much as specified"
+   ],
+   "inference": "The four-syllabled mantra arises from the third and fourth syllables in the prescribed formation.",
+   "uncertainties": [
+    "Exact syntactic role of yāvat and sambhūyeti remains unresolved; mantra context is inferred from surrounding verses."
+   ],
+   "plain_english": "By what is born from the third and fourth syllables, the four-syllabled mantra should be formed, as much as prescribed."
+  }
+ ]
+}
