@@ -1,0 +1,267 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "direct perception of the principle",
+     "morph": "verb 3.sg.pass-pres"
+    },
+    {
+     "surface": "deharūpeṇa",
+     "gloss": "by-body-form",
+     "grounds": "instrumental means of seeing",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "sarvavyāpī",
+     "gloss": "all-pervading",
+     "grounds": "scope of the principle",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "nirañjanaḥ",
+     "gloss": "stainless",
+     "grounds": "quality of the principle",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How is the stainless all-pervading principle perceived?",
+   "premises": [
+    "stainless all-pervading principle appears",
+    "appears through body-form",
+    "perception is direct"
+   ],
+   "inference": "body-form mediates perception of the stainless all-pervading",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "The stainless all-pervading principle is seen in body-form."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "samprāṇāpānayorgranthirūpe",
+     "gloss": "in-knot-form-of-prāṇa-apāna",
+     "grounds": "fused compound naming the knot",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tyabhidhīyate",
+     "gloss": "that-is-called",
+     "grounds": "predicative naming",
+     "morph": "verb 3.sg.pass-pres"
+    }
+   ],
+   "question": "What is called the knot-form of prāṇa and apāna?",
+   "premises": [
+    "prāṇa and apāna form a knot",
+    "that knot has a named form",
+    "the name is given here"
+   ],
+   "inference": "the prāṇa-apāna knot is a named subtle structure",
+   "uncertainties": [
+    "exact referent of 'that'"
+   ],
+   "plain_english": "That is called the knot-form of prāṇa and apāna."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "uccārapadato",
+     "gloss": "from-utterance-place",
+     "grounds": "ablative source of sound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "haṃsaḥ",
+     "gloss": "haṃsa",
+     "grounds": "mantra-bird symbol",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "so'hamityabhidhīyate",
+     "gloss": "so'ham-thus-is-called",
+     "grounds": "fused sandhi form",
+     "morph": "verb 3.sg.pass-pres"
+    }
+   ],
+   "question": "From what place is haṃsa called so'ham?",
+   "premises": [
+    "haṃsa arises from utterance place",
+    "haṃsa is called so'ham",
+    "the naming follows utterance"
+   ],
+   "inference": "the haṃsa mantra is identified with so'ham from its utterance place",
+   "uncertainties": [
+    "exact phonetic locus"
+   ],
+   "plain_english": "From the utterance place haṃsa is called so'ham."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "jyotirliṅgaṃ",
+     "gloss": "light-liṅga",
+     "grounds": "luminous subtle mark",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "bhruvormadhye",
+     "gloss": "in-middle-of-brows",
+     "grounds": "fused locative of brows",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "raktaśuklātmakaṃ",
+     "gloss": "red-white-natured",
+     "grounds": "dual colour nature",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "śiva",
+     "grounds": "deity identified with liṅga",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "Where is the red-white-natured light-liṅga of Śiva located?",
+   "premises": [
+    "light-liṅga is red-white-natured",
+    "it is located between brows",
+    "it is identified with Śiva"
+   ],
+   "inference": "Śiva's red-white light-liṅga resides between the brows",
+   "uncertainties": [
+    "case relation of śivam"
+   ],
+   "plain_english": "The red-white-natured light-liṅga of Śiva is in the middle of the brows."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral count",
+     "morph": "num.nom.du.m"
+    },
+    {
+     "surface": "ṣaṣṭibhoginī",
+     "gloss": "sixty-yoginī",
+     "grounds": "yoginī group",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "locus of manifestation",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "paśālliṅgaṃ",
+     "gloss": "paśu-liṅga",
+     "grounds": "liṅga associated with paśu",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "reveals",
+     "grounds": "causative disclosure",
+     "morph": "verb 3.sg.caus-opt"
+    }
+   ],
+   "question": "What does the place of two sixty-yoginī reveal?",
+   "premises": [
+    "two sixty-yoginī have a place",
+    "that place reveals paśu-liṅga",
+    "revelation is causative"
+   ],
+   "inference": "the yoginī place discloses the paśu-liṅga",
+   "uncertainties": [
+    "exact syntactic relation"
+   ],
+   "plain_english": "The place of the two sixty-yoginī reveals the paśu-liṅga."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "sravati",
+     "gloss": "flows",
+     "grounds": "verbal action",
+     "morph": "verb 3.sg.act-pres"
+    },
+    {
+     "surface": "brahmaṇaḥ sthānāt",
+     "gloss": "from-Brahman's-place",
+     "grounds": "fused ablative phrase",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "siñcate",
+     "gloss": "sprinkles",
+     "grounds": "verbal action",
+     "morph": "verb 3.sg.act-pres"
+    },
+    {
+     "surface": "bhuvanatrayam",
+     "gloss": "three-worlds",
+     "grounds": "object of sprinkling",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What flows from Brahman's place and sprinkles the three worlds?",
+   "premises": [
+    "something flows from Brahman's place",
+    "it sprinkles three worlds",
+    "flow and sprinkling are paired"
+   ],
+   "inference": "a flow from Brahman's place irrigates the three worlds",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "It flows from Brahman's place and sprinkles the three worlds."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "daśāṣṭadoṣarahitaṃ",
+     "gloss": "ten-eight-fault-free",
+     "grounds": "compound quality",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "mīnanāthena",
+     "gloss": "by-Mīnanātha",
+     "grounds": "agent of telling",
+     "morph": "n.instr.sg.m"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "passive narration",
+     "morph": "verb 3.sg.pass-pres"
+    }
+   ],
+   "question": "What is told by Mīnanātha as ten-eight-fault-free?",
+   "premises": [
+    "Mīnanātha tells something",
+    "it is ten-eight-fault-free",
+    "the telling is passive"
+   ],
+   "inference": "Mīnanātha declares a ten-eight-fault-free teaching",
+   "uncertainties": [
+    "referent of 'it'"
+   ],
+   "plain_english": "By Mīnanātha is told the ten-eight-fault-free."
+  }
+ ]
+}

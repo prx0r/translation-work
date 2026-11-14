@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "feminine nominative singular pronoun referring to the woman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative singular feminine address to parameśānī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "feminine nominative singular passive participle from root jñā",
+     "morph": "f.nom.sg.pass.part"
+    },
+    {
+     "surface": "kulayoṣitā",
+     "gloss": "kula-woman",
+     "grounds": "compound kula plus yoṣitā in nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which woman is to be recognized as a kula-woman?",
+   "premises": [
+    "that woman is addressed to the supreme goddess",
+    "that woman is to be known",
+    "that woman is called a kula-woman"
+   ],
+   "inference": "The verse identifies the woman in question as a kula-woman to be recognized.",
+   "uncertainties": [
+    "the exact ritual criteria for kula-womanhood are not stated in this verse"
+   ],
+   "plain_english": "That woman, O supreme goddess, is to be known as a kula-woman."
+  }
+ ]
+}

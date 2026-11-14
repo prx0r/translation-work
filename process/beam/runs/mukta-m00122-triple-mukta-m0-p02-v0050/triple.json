@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "koṣṭhāni",
+     "gloss": "compartments",
+     "grounds": "neuter plural of koṣṭha; object of likhet",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ṣoḍaśā'tra",
+     "gloss": "sixteen-here",
+     "grounds": "ṣoḍaśa plus atra fused by sandhi; numeral and adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syusteṣu",
+     "gloss": "are-in-them",
+     "grounds": "syuḥ plus teṣu fused by sandhi; verb plus locative pronoun",
+     "morph": "v.3pl.act.pres (root as) + pron.loc.pl.m/n"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "accusative plural of varṇa; object of likhet",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "kramāllikhet",
+     "gloss": "in-order-should-write",
+     "grounds": "kramāt plus likhet fused by sandhi; optative of likh",
+     "morph": "v.3sg.act.opt (root likh) + (indecl.)"
+    }
+   ],
+   "question": "What number of compartments is prescribed and how should letters be placed in them?",
+   "premises": [
+    "sixteen compartments are specified here",
+    "letters are to be written in them",
+    "writing proceeds in order"
+   ],
+   "inference": "The rite prescribes sixteen compartments with letters written sequentially inside them.",
+   "uncertainties": [
+    "syusteṣu fusion and exact compartment scheme are not specified in this verse"
+   ],
+   "plain_english": "Here there are sixteen compartments; in them one should write the letters in order."
+  }
+ ]
+}
