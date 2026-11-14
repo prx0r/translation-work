@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p07",
  "verse": 164,
- "question": "Where has this teaching already been explained in detail?",
+ "question": "Where should the tongue be worshipped in this ritual sequence?",
  "premises": [
-  "The teaching has been spoken before.",
-  "It appears in the Phetkāriṇī Tantra.",
-  "It appears in the Nīla Tantra in detail."
+  "The tongue is the object of worship",
+  "The location specified is his mouth",
+  "The prescribed action is worship"
  ],
- "inference": "This teaching has already been explained in detail in the Phetkāriṇī Tantra and the Nīla Tantra.",
- "uncertainties": [],
- "plain_english": "It has been spoken in detail in the Phetkāriṇī Tantra and in the Nīla Tantra."
+ "inference": "One should worship the tongue in his mouth.",
+ "uncertainties": [
+  "The referent of 'his' depends on the preceding context."
+ ],
+ "plain_english": "One should worship the tongue in his mouth."
 }

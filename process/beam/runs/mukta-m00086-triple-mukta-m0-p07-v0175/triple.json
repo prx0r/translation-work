@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "mekhalāsu",
+     "gloss": "on-enclosures",
+     "grounds": "locative plural of mekhalā, referring to the ritual terraces or girdles",
+     "morph": "mekhalā.loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāsu",
+     "gloss": "on-all",
+     "grounds": "locative plural adjective qualifying mekhalāsu",
+     "morph": "sarva.loc.pl.f"
+    },
+    {
+     "surface": "dīpamālā",
+     "gloss": "lamp-garland",
+     "grounds": "compound of dīpa (lamp) and mālā (garland or row)",
+     "morph": "dīpa-mālā.nom.sg.f"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative expressing ritual injunction from ni-√yuj",
+     "morph": "3.sg.act-opt~ni√yuj"
+    }
+   ],
+   "question": "Where must the garland of lamps be arranged within the ritual enclosures?",
+   "premises": [
+    "The ritual space includes multiple enclosures called mekhalās.",
+    "The instruction applies to all these enclosures without exception.",
+    "A garland of lamps is the object to be arranged."
+   ],
+   "inference": "Therefore, one should arrange a garland of lamps on all the enclosures.",
+   "uncertainties": [
+    "The precise architectural form of the mekhalās in this ritual context is not specified."
+   ],
+   "plain_english": "One should arrange a garland of lamps on all the enclosures."
+  }
+ ]
+}
