@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p244",
+ "items": [
+  {
+   "verse": 6100,
+   "rows": [
+    {
+     "surface": "niścinoti",
+     "gloss": "determines",
+     "grounds": "verb expressing ascertainment or decisive determination",
+     "morph": "3.sg.act-pres √niś-ci"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking to prior conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrārthaṃ",
+     "gloss": "scripture-meaning",
+     "grounds": "object of determination; compound of śāstra and artha",
+     "morph": "acc.sg.m śāstra+artha"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the qualified person",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dharmaṃ",
+     "gloss": "dharma",
+     "grounds": "object of knowing; righteous duty or law",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "verb expressing true knowledge",
+     "morph": "3.sg.act-pres √vid"
+    },
+    {
+     "surface": "netaraḥ",
+     "gloss": "not-other",
+     "grounds": "negated alternative; na fused with itaraḥ",
+     "morph": "nom.sg.m na+itara"
+    }
+   ],
+   "question": "Who alone possesses authoritative knowledge of dharma through scriptural interpretation?",
+   "premises": [
+    "A qualified person determines the meaning of scripture.",
+    "That same person knows dharma.",
+    "No other person knows dharma."
+   ],
+   "inference": "Only the one who correctly determines scriptural meaning truly knows dharma.",
+   "uncertainties": [],
+   "plain_english": "And he who determines the meaning of the scripture knows dharma, not another."
+  }
+ ]
+}
