@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p07",
  "verse": 156,
- "question": "Which flowers are named in the place where Bhairava is addressed?",
+ "question": "How are gurus arranged across the ten vidyas?",
  "premises": [
-  "The verse names aparajita flower.",
-  "It names java flower.",
-  "Bhairava is addressed."
+  "gurus exist in ten vidyas",
+  "they are arranged in rows",
+  "the arrangement is stated"
  ],
- "inference": "The specified flowers are associated with the Bhairava context.",
+ "inference": "Gurus are arranged in rows across the ten vidyas.",
  "uncertainties": [
-  "Whether these are required offerings or merely mentioned is unclear."
+  "number per row"
  ],
- "plain_english": "Where aparajita and java flowers are present, Bhairava is invoked."
+ "plain_english": "As in the ten vidyas, gurus are arranged in rows."
 }

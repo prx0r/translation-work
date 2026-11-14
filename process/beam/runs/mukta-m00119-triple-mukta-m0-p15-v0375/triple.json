@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "kaheti",
+     "gloss": "kaheti-mantra",
+     "grounds": "two-syllable mantra named kaheti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpiṇī",
+     "gloss": "flowering-one",
+     "grounds": "feminine form puṣpiṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukhyā",
+     "gloss": "chief",
+     "grounds": "feminine adjective agreeing with puṣpiṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "all-that",
+     "grounds": "fused tat+sarvam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-practice",
+     "grounds": "root car, third person singular optative",
+     "morph": "3.sg.par-opt"
+    }
+   ],
+   "question": "What practice is prescribed for the chief puṣpiṇī mantra kaheti?",
+   "premises": [
+    "kaheti is a two-syllable mantra",
+    "puṣpiṇī is called the chief one",
+    "all of that should be practiced always"
+   ],
+   "inference": "The practitioner should always practice all that belongs to the chief puṣpiṇī mantra kaheti.",
+   "uncertainties": [
+    "technical sense of puṣpiṇī in this mantra context is not fully specified"
+   ],
+   "plain_english": "The mantra kaheti is the chief puṣpiṇī; one should always practice all of it."
+  }
+ ]
+}

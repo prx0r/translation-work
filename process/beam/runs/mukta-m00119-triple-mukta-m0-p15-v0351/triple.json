@@ -1,0 +1,1151 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "ṛṣicchandādikaṃ",
+     "gloss": "rishi-meter-etc",
+     "grounds": "compound naming rishi, meter, and related elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kīrtitaṃ",
+     "gloss": "praised",
+     "grounds": "past participle of kirt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to supreme goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where are rishi, meter, and related elements praised for the supreme goddess?",
+   "premises": [
+    "rishi meter etc are praised",
+    "location is specified",
+    "supreme goddess is addressed"
+   ],
+   "inference": "The verse locates the praised ritual elements in relation to the supreme goddess.",
+   "uncertainties": [
+    "exact referent of yatra depends on prior context"
+   ],
+   "plain_english": "Where rishi, meter, and the rest are praised, O supreme goddess."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "noun for contemplative practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chandādikaṃ",
+     "gloss": "meter-etc",
+     "grounds": "compound of meter and related items",
+     "morph": "compound"
+    },
+    {
+     "surface": "stotraṃ",
+     "gloss": "hymn",
+     "grounds": "noun for praise hymn",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devīvatsarvameva",
+     "gloss": "goddess-like-all-indeed",
+     "grounds": "fused compound with eva",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing statement",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Are meditation, meter, hymn, and all goddess-like elements to be practiced indeed?",
+   "premises": [
+    "meditation is listed",
+    "meter and hymn are listed",
+    "all goddess-like elements are included"
+   ],
+   "inference": "The verse groups meditation, meter, hymn, and goddess-like elements as a unified set.",
+   "uncertainties": [
+    "devīvatsarvameva parsing is fused"
+   ],
+   "plain_english": "Meditation, meter, hymn, and all goddess-like elements indeed."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "briefly",
+     "grounds": "adverb of brevity",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past participle of prac",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvametat",
+     "gloss": "all-this",
+     "grounds": "compound of all and this",
+     "morph": "compound"
+    },
+    {
+     "surface": "kimicchasi",
+     "gloss": "what-desire",
+     "grounds": "fused interrogative verb",
+     "morph": "2.sg.act"
+    }
+   ],
+   "question": "What more does the practitioner desire after all this has been briefly said?",
+   "premises": [
+    "all this was said briefly",
+    "the statement is complete",
+    "a desire is queried"
+   ],
+   "inference": "The verse closes a summary and invites further request.",
+   "uncertainties": [
+    "kimicchasi may be rhetorical"
+   ],
+   "plain_english": "Thus all this was briefly said; what do you desire?"
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "kālī",
+     "gloss": "kali",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tārā",
+     "gloss": "tara",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "chinnā",
+     "gloss": "chinnamasta",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "sundari",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bagalāmukhī",
+     "gloss": "bagalamukhi",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are named in this sequence of the ten great vidyas?",
+   "premises": [
+    "kali is named",
+    "tara is named",
+    "chinnamasta sundari bagalamukhi are named"
+   ],
+   "inference": "The verse enumerates several mahavidya goddesses.",
+   "uncertainties": [
+    "list may continue in next verse"
+   ],
+   "plain_english": "Kali, Tara, and Chinnamasta, Sundari, Bagalamukhi."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "dhūmāvatī",
+     "gloss": "dhumavati",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "krameṇaiva",
+     "gloss": "in-order-indeed",
+     "grounds": "fused adverb with eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidya",
+     "grounds": "compound for great vidya",
+     "morph": "compound"
+    },
+    {
+     "surface": "daśaiva",
+     "gloss": "ten-indeed",
+     "grounds": "fused numeral with eva",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Are the ten great vidyas to be enumerated in order indeed?",
+   "premises": [
+    "dhumavati is named",
+    "ten great vidyas are referenced",
+    "order is emphasized"
+   ],
+   "inference": "The verse completes the enumeration of ten mahavidyas in sequence.",
+   "uncertainties": [
+    "exact list order beyond named items"
+   ],
+   "plain_english": "Dhumavati, in order indeed, the ten great vidyas indeed."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "aghorākhyo",
+     "gloss": "aghora-named",
+     "grounds": "compound adjective naming aghora",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "rishi",
+     "grounds": "noun for seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "said",
+     "grounds": "past participle of prac",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "virāṭchandaḥ",
+     "gloss": "virat-meter",
+     "grounds": "fused compound of virat and meter",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "praised",
+     "grounds": "past participle of kirt",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who is the named rishi and meter for this goddess practice?",
+   "premises": [
+    "aghora-named rishi is said",
+    "virat meter is praised",
+    "ritual attribution is given"
+   ],
+   "inference": "The verse assigns a rishi and meter to the practice.",
+   "uncertainties": [
+    "goddess referent is implicit"
+   ],
+   "plain_english": "The rishi named Aghora is said; Virat meter is praised."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "kāmaśaktis",
+     "gloss": "desire-shakti",
+     "grounds": "compound of desire and shakti",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kūrcaṃ",
+     "gloss": "kurcha",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "kilaka",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "fully-praised",
+     "grounds": "past participle of kirt",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which shakti, kurcha, and kilaka are fully praised for this practice?",
+   "premises": [
+    "desire shakti is named",
+    "kurcha is named",
+    "kilaka is named"
+   ],
+   "inference": "The verse lists core mantra components for the practice.",
+   "uncertainties": [
+    "exact bija forms are not given here"
+   ],
+   "plain_english": "Desire-shakti, and kurcha, kilaka are fully praised."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "dhyānapūjādikaṃ",
+     "gloss": "meditation-puja-etc",
+     "grounds": "compound of meditation, puja, and related rites",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kālikāvat",
+     "gloss": "kali-like",
+     "grounds": "compound meaning like kali",
+     "morph": "compound"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "practice",
+     "grounds": "optative of car",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "Should all meditation, puja, and related rites be practiced like Kali?",
+   "premises": [
+    "all meditation and puja are included",
+    "practice is like kali",
+    "optative instructs performance"
+   ],
+   "inference": "The verse directs that the full rite be performed in Kali's manner.",
+   "uncertainties": [
+    "scope of adika is open"
+   ],
+   "plain_english": "All meditation, puja, and the rest should be practiced like Kali."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "tāriṇīkullukāyāś",
+     "gloss": "tarini-kulluka-of",
+     "grounds": "fused genitive compound",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "virūpākṣo",
+     "gloss": "virupaksha",
+     "grounds": "rishi name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "rishi",
+     "grounds": "noun for seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle of smr",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is remembered as the rishi for Tarini Kulluka?",
+   "premises": [
+    "tarini kulluka is referenced",
+    "virupaksha is named",
+    "rishi is remembered"
+   ],
+   "inference": "The verse assigns Virupaksha as rishi for Tarini Kulluka.",
+   "uncertainties": [
+    "kulluka may be a variant name"
+   ],
+   "plain_english": "For Tarini Kulluka, Virupaksha is remembered as rishi."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "kūrcabījaṃ",
+     "gloss": "kurcha-bija",
+     "grounds": "compound of kurcha and bija",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "shakti name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "shakti",
+     "grounds": "noun for power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vadhū",
+     "gloss": "vadhu",
+     "grounds": "ritual element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kīlakam",
+     "gloss": "kilaka",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which bija, shakti, vadhu, and kilaka belong to this goddess practice?",
+   "premises": [
+    "kurcha bija is named",
+    "maya shakti is named",
+    "vadhu and kilaka are named"
+   ],
+   "inference": "The verse lists mantra components for the practice.",
+   "uncertainties": [
+    "exact bija syllables omitted"
+   ],
+   "plain_english": "Kurcha bija, and Maya shakti, Vadhu, and kilaka."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "vajravairocanī",
+     "gloss": "vajra-vairocani",
+     "grounds": "compound name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "procya",
+     "gloss": "said",
+     "grounds": "absolutive of prac",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃbuddhyante",
+     "gloss": "fully-awaken",
+     "grounds": "passive verb of budh",
+     "morph": "3.pl.pass"
+    },
+    {
+     "surface": "savarman",
+     "gloss": "with-armor",
+     "grounds": "compound with armor",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Are practitioners said to fully awaken with armor through Vajra Vairocani?",
+   "premises": [
+    "vajra vairocani is named",
+    "fully awaken is stated",
+    "with armor is included"
+   ],
+   "inference": "The verse links the goddess to awakening and armored protection.",
+   "uncertainties": [
+    "grammatical subject is implicit"
+   ],
+   "plain_english": "Vajra Vairocani is said; they fully awaken with armor."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "habījaṃ",
+     "gloss": "ha-bija",
+     "grounds": "compound of ha and bija",
+     "morph": "compound"
+    },
+    {
+     "surface": "mu/",
+     "gloss": "mu",
+     "grounds": "bija syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "shakti",
+     "grounds": "noun for power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "kilaka",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rocanī",
+     "gloss": "rocani",
+     "grounds": "name or element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle of man",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which ha bija, mu, shakti, kilaka, and rocani are considered here?",
+   "premises": [
+    "ha bija is named",
+    "mu is named",
+    "shakti kilaka rocani are named"
+   ],
+   "inference": "The verse lists mantra components considered for the practice.",
+   "uncertainties": [
+    "mu/ is an editorial syllable form"
+   ],
+   "plain_english": "Ha bija, mu, and shakti, kilaka, Rocani are considered."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "dhyānapūjādikaṃ",
+     "gloss": "meditation-puja-etc",
+     "grounds": "compound of meditation, puja, and related rites",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "neuter adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chinnāvat",
+     "gloss": "chinnamasta-like",
+     "grounds": "compound meaning like chinnamasta",
+     "morph": "compound"
+    },
+    {
+     "surface": "samupācaret",
+     "gloss": "should-practice",
+     "grounds": "optative of car",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "Should all meditation, puja, and related rites be practiced like Chinnamasta?",
+   "premises": [
+    "all meditation and puja are included",
+    "practice is like chinnamasta",
+    "optative instructs performance"
+   ],
+   "inference": "The verse directs that the full rite be performed in Chinnamasta's manner.",
+   "uncertainties": [
+    "scope of adika is open"
+   ],
+   "plain_english": "All meditation, puja, and the rest should be practiced like Chinnamasta."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "vikarālo",
+     "gloss": "vikarala",
+     "grounds": "rishi name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "rishi",
+     "grounds": "noun for seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "said",
+     "grounds": "past participle of prac",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃktichandaḥ",
+     "gloss": "pankti-meter",
+     "grounds": "fused compound of pankti and meter",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "praised",
+     "grounds": "past participle of kirt",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who is the named rishi and pankti meter for this goddess practice?",
+   "premises": [
+    "vikarala rishi is said",
+    "pankti meter is praised",
+    "ritual attribution is given"
+   ],
+   "inference": "The verse assigns a rishi and meter to the practice.",
+   "uncertainties": [
+    "goddess referent is implicit"
+   ],
+   "plain_english": "The rishi Vikarala is said; Pankti meter is praised."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "ha/",
+     "gloss": "ha",
+     "grounds": "bija syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "bija",
+     "grounds": "noun for seed syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sau/",
+     "gloss": "sau",
+     "grounds": "bija syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahāśaktiḥ",
+     "gloss": "great-shakti",
+     "grounds": "compound of great and shakti",
+     "morph": "compound"
+    },
+    {
+     "surface": "amantraṃ",
+     "gloss": "a-mantra",
+     "grounds": "compound meaning without mantra",
+     "morph": "compound"
+    },
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "kilaka",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past participle of man",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which ha bija, sau, great shakti, a-mantra, and kilaka are considered here?",
+   "premises": [
+    "ha bija is named",
+    "sau is named",
+    "great shakti a-mantra kilaka are named"
+   ],
+   "inference": "The verse lists mantra components considered for the practice.",
+   "uncertainties": [
+    "editorial slashes mark syllables"
+   ],
+   "plain_english": "Ha bija, Sau, great shakti, a-mantra, and kilaka are considered."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "dhyānapūjādikaṃ",
+     "gloss": "meditation-puja-etc",
+     "grounds": "compound of meditation, puja, and related rites",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bālāvat",
+     "gloss": "bala-like",
+     "grounds": "compound meaning like bala",
+     "morph": "compound"
+    },
+    {
+     "surface": "samupācaret",
+     "gloss": "should-practice",
+     "grounds": "optative of car",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "Should all meditation, puja, and related rites be practiced like Bala?",
+   "premises": [
+    "all meditation and puja are included",
+    "practice is like bala",
+    "optative instructs performance"
+   ],
+   "inference": "The verse directs that the full rite be performed in Bala's manner.",
+   "uncertainties": [
+    "scope of adika is open"
+   ],
+   "plain_english": "All meditation, puja, and the rest should be practiced like Bala."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vagbhava",
+     "grounds": "mantra element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "kama-raja",
+     "grounds": "compound of kama and raja",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lajjā",
+     "gloss": "shame",
+     "grounds": "mantra element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tripure",
+     "gloss": "tripura",
+     "grounds": "goddess or place name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "noun for word or foot",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which vagbhava, kama-raja, shame, and tripura word are named here?",
+   "premises": [
+    "vagbhava is named",
+    "kama raja is named",
+    "shame and tripura word are named"
+   ],
+   "inference": "The verse lists mantra elements associated with Tripura.",
+   "uncertainties": [
+    "padam may mean word or foot"
+   ],
+   "plain_english": "Vagbhava, Kama-raja, and shame, and the Tripura word."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "sundarīkullukāyās",
+     "gloss": "sundari-kulluka-of",
+     "grounds": "fused genitive compound",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "rishi",
+     "grounds": "noun for seer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ānandabhairavaḥ",
+     "gloss": "ananda-bhairava",
+     "grounds": "rishi name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is remembered as the rishi for Sundari Kulluka?",
+   "premises": [
+    "sundari kulluka is referenced",
+    "ananda bhairava is named",
+    "rishi is stated"
+   ],
+   "inference": "The verse assigns Ananda Bhairava as rishi for Sundari Kulluka.",
+   "uncertainties": [
+    "kulluka may be a variant name"
+   ],
+   "plain_english": "For Sundari Kulluka, Ananda Bhairava is indeed the rishi."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "lajjā",
+     "gloss": "shame",
+     "grounds": "mantra element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "shakti",
+     "grounds": "noun for power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahēśāni",
+     "gloss": "maheshani",
+     "grounds": "goddess name",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāmabījaṃ",
+     "gloss": "kama-bija",
+     "grounds": "compound of kama and bija",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kīlakam",
+     "gloss": "kilaka",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which shame shakti, kama bija, and kilaka are named for Maheshani?",
+   "premises": [
+    "shame shakti is named",
+    "maheshani is addressed",
+    "kama bija and kilaka are named"
+   ],
+   "inference": "The verse lists mantra components for Maheshani.",
+   "uncertainties": [
+    "exact bija syllables omitted"
+   ],
+   "plain_english": "Shame shakti, O Maheshani, Kama bija, and kilaka."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "dhyānapūjādikaṃ",
+     "gloss": "meditation-puja-etc",
+     "grounds": "compound of meditation, puja, and related rites",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sundarīvat",
+     "gloss": "sundari-like",
+     "grounds": "compound meaning like sundari",
+     "morph": "compound"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "practice",
+     "grounds": "optative of car",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "Should all meditation, puja, and related rites be practiced like Sundari?",
+   "premises": [
+    "all meditation and puja are included",
+    "practice is like sundari",
+    "optative instructs performance"
+   ],
+   "inference": "The verse directs that the full rite be performed in Sundari's manner.",
+   "uncertainties": [
+    "scope of adika is open"
+   ],
+   "plain_english": "All meditation, puja, and the rest should be practiced like Sundari."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "tara",
+     "grounds": "mantra element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūrcaṃ",
+     "gloss": "kurcha",
+     "grounds": "ritual element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nārasiṃhaiḥ",
+     "gloss": "narasimha",
+     "grounds": "instrumental plural form",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pañcānāṃ",
+     "gloss": "of-five",
+     "grounds": "genitive plural numeral",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kullukā",
+     "gloss": "kulluka",
+     "grounds": "noun for kulluka",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle of man",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are Tara, kurcha, Narasimha, five, and kulluka considered together?",
+   "premises": [
+    "tara is named",
+    "kurcha is named",
+    "narasimha and five kulluka are named"
+   ],
+   "inference": "The verse groups these elements in a considered classification.",
+   "uncertainties": [
+    "exact relation among items is compressed"
+   ],
+   "plain_english": "Tara, kurcha, with Narasimha, of five, Kulluka is considered."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun for deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-indeed",
+     "grounds": "fused pronoun with eva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bījādi",
+     "gloss": "bija-etc",
+     "grounds": "compound of bija and related items",
+     "morph": "compound"
+    },
+    {
+     "surface": "svasvadevakrameṇa",
+     "gloss": "own-own-deity-order",
+     "grounds": "fused compound of own, deity, and order",
+     "morph": "compound"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Does the deity's bija and related elements follow each deity's own order indeed?",
+   "premises": [
+    "deity is referenced",
+    "bija etc are referenced",
+    "own deity order is stated"
+   ],
+   "inference": "The verse states that mantra components follow each deity's own order.",
+   "uncertainties": [
+    "saiva referent is implicit"
+   ],
+   "plain_english": "The deity indeed, bija and the rest, in each deity's own order indeed."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "briefly",
+     "grounds": "adverb of brevity",
+     "morph": "indecl."
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past participle of prac",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaharūpaṃ",
+     "gloss": "ka-form",
+     "grounds": "compound of ka and form",
+     "morph": "compound"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative of shr",
+     "morph": "2.sg.act"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What ka-form is to be heard after this brief statement, dear one?",
+   "premises": [
+    "all this was said briefly",
+    "ka form is introduced",
+    "dear one is addressed"
+   ],
+   "inference": "The verse closes a summary and introduces the ka form.",
+   "uncertainties": [
+    "kaharūpaṃ may be a technical form"
+   ],
+   "plain_english": "Thus briefly said; hear the ka-form, dear one."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "kaheti",
+     "gloss": "ka-ha",
+     "grounds": "fused compound of ka and ha",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvyakṣaro",
+     "gloss": "two-syllable",
+     "grounds": "compound of two and syllable",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "noun for mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "mouth",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "virājate",
+     "gloss": "shines",
+     "grounds": "verb of shining",
+     "morph": "3.sg.act"
+    }
+   ],
+   "question": "Which two-syllable ka-ha mantra shines in whose mouth?",
+   "premises": [
+    "ka-ha is named",
+    "two-syllable mantra is stated",
+    "shining in mouth is stated"
+   ],
+   "inference": "The verse describes a two-syllable ka-ha mantra shining in the mouth.",
+   "uncertainties": [
+    "yasya referent is implicit"
+   ],
+   "plain_english": "Ka-ha, a two-syllable mantra, shines in whose mouth."
+  }
+ ]
+}

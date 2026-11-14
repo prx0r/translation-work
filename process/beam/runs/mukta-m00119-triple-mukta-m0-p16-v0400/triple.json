@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "kamalāyāḥ",
+     "gloss": "of-kamala",
+     "grounds": "genitive singular feminine of kamalā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanadā",
+     "gloss": "wealth-giver",
+     "grounds": "nominative singular feminine name or epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśyāḥ",
+     "gloss": "of-bhuvaneshi",
+     "grounds": "genitive singular feminine of bhuvaneśī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative second singular active of root śru",
+     "morph": "2.sg.act.imp.√śru"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which goddess among Kamala and Bhuvaneshi is named Dhanada?",
+   "premises": [
+    "Dhanada is named in connection with Kamala.",
+    "Bhuvaneshi is addressed as beloved.",
+    "The verse commands hearing."
+   ],
+   "inference": "The verse identifies Dhanada with Kamala and directs attention to Bhuvaneshi.",
+   "uncertainties": [
+    "The exact doctrinal relation between Kamala and Bhuvaneshi is not explicit."
+   ],
+   "plain_english": "Of Kamala, indeed Dhanada; of Bhuvaneshi, hear, beloved."
+  }
+ ]
+}
