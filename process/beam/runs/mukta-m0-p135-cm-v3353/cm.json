@@ -3,24 +3,34 @@
  "verse": 3353,
  "rows": [
   {
-   "lemma": "ityaṃśumān",
-   "morph": "compound",
-   "grounds": "colophon marker"
+   "lemma": "kurukullāyāḥ",
+   "morph": "f.gen.sg",
+   "grounds": "indicates possession or attribution"
   },
   {
-   "lemma": "kāśyape",
-   "morph": "m.loc.sg",
-   "grounds": "locative of text attribution"
+   "lemma": "oṃ",
+   "morph": "(indecl.)",
+   "grounds": "sacred seed syllable, kept byte-exact"
   },
   {
-   "lemma": "kālahārimūrtilakṣaṇapaṭalaḥ",
-   "morph": "m.nom.sg (compound)",
-   "grounds": "title of chapter"
+   "lemma": "kurukullehrīḥ",
+   "morph": "(indecl./mantra-form)",
+   "grounds": "mantra segment including seed syllable, kept byte-exact"
   },
   {
-   "lemma": "saptatitamaḥ",
-   "morph": "m.nom.sg",
-   "grounds": "ordinal number of chapter"
+   "lemma": "svāhā",
+   "morph": "(indecl.)",
+   "grounds": "ritual exclamation, kept byte-exact"
+  },
+  {
+   "lemma": "iti",
+   "morph": "(indecl.)",
+   "grounds": "quotation marker"
+  },
+  {
+   "lemma": "trayodaśākṣarī",
+   "morph": "trayodaśa+akṣarī (compound, f.nom.sg)",
+   "grounds": "compound stating syllable count of the mantra"
   }
  ]
 }

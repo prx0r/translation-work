@@ -1,0 +1,25 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3450,
+   "rows": [
+    {
+     "surface": "saptamāvaraṇapūjā",
+     "gloss": "seventh-enclosure-worship",
+     "grounds": "compound of saptama (seventh), āvaraṇa (enclosure), and pūjā (worship), naming the ritual stage",
+     "morph": "compound: saptama+āvaraṇa+pūjā"
+    }
+   ],
+   "question": "Which stage of enclosure worship is prescribed after the sixth in this ritual sequence?",
+   "premises": [
+    "The preceding context names the worship of the fifth enclosure.",
+    "The immediately preceding context names the worship of the sixth enclosure.",
+    "Ritual sequences in this text proceed through ordered enclosures."
+   ],
+   "inference": "The next prescribed stage in the sequence is the worship of the seventh enclosure.",
+   "uncertainties": [],
+   "plain_english": "Worship of the seventh enclosure."
+  }
+ ]
+}

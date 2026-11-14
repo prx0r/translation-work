@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p133",
  "verse": 3314,
- "question": "Which ordinal position marks this form in the described sequence?",
+ "question": "How is the concluding syllable of the third Kurukullā mantra identified?",
  "premises": [
-  "An ordinal number is given",
-  "The number specifies seventy-eighth"
+  "The third mantra has been described as twenty-five-syllabled.",
+  "Its closing element is stated explicitly.",
+  "The syllable svāhā marks its end."
  ],
- "inference": "This form occupies the seventy-eighth position in the sequence",
- "uncertainties": [],
- "plain_english": "This is the seventy-eighth form."
+ "inference": "The twenty-five-syllabled mantra concludes with svāhā.",
+ "uncertainties": [
+  "The full preceding form of this mantra is given across earlier verses."
+ ],
+ "plain_english": "The twenty-five-syllabled mantra ends with: svāhā."
 }

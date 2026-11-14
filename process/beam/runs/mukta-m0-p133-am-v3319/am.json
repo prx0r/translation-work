@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p133",
  "verse": 3319,
- "question": "What attribute should the other right hand of the form bear?",
+ "question": "Where and by what means should the circle of offerings be worshipped?",
  "premises": [
-  "The right side is specified",
-  "The other hand on that side is indicated",
-  "That hand is endowed with a rosary"
+  "A circle of offerings is part of the rite.",
+  "It is to be worshipped in a specific location.",
+  "The same means as before is used."
  ],
- "inference": "The other right hand should hold a rosary",
- "uncertainties": [],
- "plain_english": "On the right, the other hand should be endowed with a rosary."
+ "inference": "One should worship the circle of offerings in its middle by that very same means.",
+ "uncertainties": [
+  "The referent of tenaiva depends on the immediately preceding ritual instruction."
+ ],
+ "plain_english": "And one should worship the circle of offerings in its middle by that very same means."
 }

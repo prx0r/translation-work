@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p138",
  "verse": 3450,
- "question": "What material preparation is prescribed for the ritual platform on the altar?",
+ "question": "Which stage of enclosure worship is prescribed after the sixth in this ritual sequence?",
  "premises": [
-  "A ritual platform is to be prepared on the altar.",
-  "The preparation involves eight droṇa measures.",
-  "The specified material for this preparation is rice grains."
+  "The preceding context names the worship of the fifth enclosure.",
+  "The immediately preceding context names the worship of the sixth enclosure.",
+  "Ritual sequences in this text proceed through ordered enclosures."
  ],
- "inference": "The ritual procedure requires forming a platform on the altar using eight droṇa measures of rice grains.",
- "uncertainties": [
-  "The exact volume denoted by a droṇa in this context is not specified in the verse."
- ],
- "plain_english": "Prepare a ritual platform on the altar with eight droṇa measures of rice grains."
+ "inference": "The next prescribed stage in the sequence is the worship of the seventh enclosure.",
+ "uncertainties": [],
+ "plain_english": "Worship of the seventh enclosure."
 }
