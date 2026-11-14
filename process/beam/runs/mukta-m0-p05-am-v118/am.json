@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p05",
  "verse": 118,
- "question": "Which additional goddesses are named in this continuation of the enumeration?",
+ "question": "On which days should a human skull be collected?",
  "premises": [
-  "Annapūrṇā is named.",
-  "Kapālī is named.",
-  "Jvālāmālinī and Kāminī are named."
+  "Tuesday is named.",
+  "Saturday is named.",
+  "A human skull is collected."
  ],
- "inference": "The enumeration continues with Annapūrṇā, Kapālī, Jvālāmālinī, and Kāminī.",
- "uncertainties": [],
- "plain_english": "Annapūrṇā, Kapālī, Jvālāmālinī, and Kāminī."
+ "inference": "The verse permits skull collection on Tuesday or Saturday.",
+ "uncertainties": [
+  "none"
+ ],
+ "plain_english": "On Tuesday or on Saturday, one should collect a human skull."
 }

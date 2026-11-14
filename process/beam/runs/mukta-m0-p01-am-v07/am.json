@@ -1,14 +1,19 @@
 {
  "song": "mukta-m0-p01",
  "verse": 7,
- "question": "Which poets are named as authorities?",
+ "question": "Which divine powers are invoked in this praise?",
  "premises": [
-  "Durvasa is named.",
-  "Vyasa, Valmiki, Bharadvaja and others are named."
+  "sun is named",
+  "Garuḍa is named",
+  "moon is named",
+  "Kandarpa is named",
+  "Śaṅkara is named",
+  "fire is named",
+  "Viṣṇu is named"
  ],
- "inference": "The verse lists poets and authorities.",
+ "inference": "The verse invokes a set of divine powers in praise.",
  "uncertainties": [
-  "Whether all are called poets or only the last is ambiguous."
+  "exact ritual function of each power"
  ],
- "plain_english": "Durvasa, Vyasa, Valmiki, Bharadvaja and others, poet."
+ "plain_english": "With sun, Garuḍa, moon, Kandarpa, Śaṅkara, fire, and Viṣṇu."
 }

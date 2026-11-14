@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p01",
  "verse": 8,
- "question": "What secret has been told to the goddess?",
+ "question": "Why is further consideration of mantra extraction unnecessary?",
  "premises": [
-  "Something has been told to you.",
-  "It is a supreme secret."
+  "commentary author did extraction",
+  "extraction was done word-by-word",
+  "enough has been said"
  ],
- "inference": "The verse states a supreme secret has been told to the goddess.",
+ "inference": "Since mantra extraction was already done word-by-word, further consideration is unnecessary.",
  "uncertainties": [
-  "The content of the secret is not restated here."
+  "identity of commentary author"
  ],
- "plain_english": "Thus to you, O goddess, the supreme secret has been told."
+ "plain_english": "The commentary author also extracted the mantra word-by-word; enough, without further consideration."
 }

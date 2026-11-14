@@ -1,0 +1,335 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "ravi",
+     "gloss": "sun",
+     "grounds": "sun deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tārkṣya",
+     "gloss": "garuda",
+     "grounds": "Garuḍa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "endu",
+     "gloss": "moon",
+     "grounds": "moon",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kandarpa",
+     "gloss": "kandarpa",
+     "grounds": "Kandarpa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkara",
+     "gloss": "shankara",
+     "grounds": "Śaṅkara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anala",
+     "gloss": "fire",
+     "grounds": "fire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇubhiḥ",
+     "gloss": "by-vishnu",
+     "grounds": "instrumental plural with Vishnu",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "Which divine powers are invoked together with Vishnu in this praise?",
+   "premises": [
+    "The verse lists sun, Garuda, moon, Kandarpa, Shankara, and fire.",
+    "Vishnu appears in instrumental plural form.",
+    "The list functions as an invocation of divine powers."
+   ],
+   "inference": "The verse praises the goddess through a set of divine powers including Vishnu.",
+   "uncertainties": [
+    "Exact syntactic relation of the list to the goddess is not explicit in the supplied tokens."
+   ],
+   "plain_english": "Sun, Garuda, moon, Kandarpa, Shankara, fire, and Vishnu are invoked together."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "vārtikakāreṇa",
+     "gloss": "by-commentary-author",
+     "grounds": "instrumental singular by the commentary author",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evameva",
+     "gloss": "thus-indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratipadaṃ",
+     "gloss": "word-by-word",
+     "grounds": "adverbial phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantroddhāraḥ",
+     "gloss": "mantra-extraction",
+     "grounds": "nominative singular compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛta",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alam",
+     "gloss": "enough",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anālocyālocanena",
+     "gloss": "with-consideration-non-consideration",
+     "grounds": "instrumental singular compound",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "Why is word-by-word mantra extraction by the commentary author considered sufficient?",
+   "premises": [
+    "The commentary author has performed mantra extraction word by word.",
+    "The verse says this is enough.",
+    "It adds a phrase about consideration and non-consideration."
+   ],
+   "inference": "The verse treats the author's word-by-word mantra extraction as sufficient without further deliberation.",
+   "uncertainties": [
+    "The exact force of anālocyālocanena is ambiguous."
+   ],
+   "plain_english": "The commentary author has extracted the mantra word by word, and that is enough."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "vande",
+     "gloss": "i-praise",
+     "grounds": "first person singular present active",
+     "morph": "1.sg.act.pres root vand"
+    },
+    {
+     "surface": "sarveśvarīṃ",
+     "gloss": "all-ruling",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahāśrīsiddhamātṛkām",
+     "gloss": "great-shri-siddha-matrika",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess is praised as all-ruling and great Śrī Siddha Mātṛkā?",
+   "premises": [
+    "The speaker praises a goddess.",
+    "She is called all-ruling.",
+    "She is called great Śrī Siddha Mātṛkā."
+   ],
+   "inference": "The verse praises the goddess as all-ruling great Śrī Siddha Mātṛkā.",
+   "uncertainties": [
+    "No additional doctrinal context is supplied beyond the praise."
+   ],
+   "plain_english": "I praise the goddess, the all-ruling great Śrī Siddha Mātṛkā."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tattat",
+     "gloss": "each",
+     "grounds": "indeclinable reduplicated form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramātṛ",
+     "gloss": "knower",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpatayā",
+     "gloss": "form-as",
+     "grounds": "instrumental singular",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "krīḍanaśīlāṃ",
+     "gloss": "playing-natured",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "i-praise",
+     "grounds": "first person singular present active",
+     "morph": "1.sg.act.pres root vand"
+    },
+    {
+     "surface": "samāviśāmi",
+     "gloss": "i-enter",
+     "grounds": "first person singular present active",
+     "morph": "1.sg.act.pres root samāviś"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the goddess relate to each knower and other forms?",
+   "premises": [
+    "The goddess is described as playing-natured.",
+    "She is praised in each knower and other forms.",
+    "The speaker says he enters her."
+   ],
+   "inference": "The verse presents the goddess as playfully assuming each knower and other forms, which the speaker enters.",
+   "uncertainties": [
+    "The exact scope of ādi is not specified."
+   ],
+   "plain_english": "I praise and enter the goddess, who playfully takes the form of each knower and so on."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "brahmāṇḍa",
+     "gloss": "cosmic-egg",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭāha",
+     "gloss": "shell",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "up-to",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "i-praise",
+     "grounds": "first person singular present active",
+     "morph": "1.sg.act.pres root vand"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhamātṛkām",
+     "gloss": "siddha-matrika",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What spatial extent is praised in the Siddha Mātṛkā?",
+   "premises": [
+    "The verse mentions cosmic egg and shell.",
+    "It extends up to that limit.",
+    "The object praised is that Siddha Mātṛkā."
+   ],
+   "inference": "The verse praises that Siddha Mātṛkā throughout the cosmic egg and its shell.",
+   "uncertainties": [
+    "Whether antaṃ modifies the whole cosmic extent or the shell alone is ambiguous."
+   ],
+   "plain_english": "I praise that Siddha Mātṛkā up to the shell of the cosmic egg and beyond."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "vande",
+     "gloss": "i-praise",
+     "grounds": "first person singular present active",
+     "morph": "1.sg.act.pres root vand"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vākya",
+     "gloss": "sentence",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the sentence beginning with I praise?",
+   "premises": [
+    "The verse gives a sentence.",
+    "The sentence begins with I praise.",
+    "Its meaning is stated as sentence meaning."
+   ],
+   "inference": "The verse identifies the meaning of the sentence whose opening word is I praise.",
+   "uncertainties": [
+    "The exact referent of the sentence is not supplied in these tokens."
+   ],
+   "plain_english": "Thus is the meaning of the sentence beginning with I praise."
+  }
+ ]
+}

@@ -1,0 +1,579 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "purato",
+     "gloss": "in-front",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlam",
+     "gloss": "root",
+     "grounds": "neuter noun in accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "having-uttered",
+     "grounds": "gerund from causative utter",
+     "morph": "(ger.)"
+    },
+    {
+     "surface": "dharmādharmādikaṃ",
+     "gloss": "dharma-adharma-etc",
+     "grounds": "compound noun in accusative",
+     "morph": "n.acc.sg.n compound"
+    },
+    {
+     "surface": "paṭhan",
+     "gloss": "reading",
+     "grounds": "present participle",
+     "morph": "m.nom.sg.part"
+    }
+   ],
+   "question": "What must be uttered in front and read to begin the rite?",
+   "premises": [
+    "Root is uttered in front.",
+    "Dharma and adharma are read."
+   ],
+   "inference": "The verse prescribes an initial recitation of root and dharma-adharma material.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "In front, having uttered the root, one reads dharma, adharma, and the rest."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśatiṃ",
+     "gloss": "or-twenty",
+     "grounds": "numeral in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "gerund from jap",
+     "morph": "(ger.)"
+    },
+    {
+     "surface": "tejas",
+     "gloss": "energy",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "let-one-drop",
+     "grounds": "causative optative",
+     "morph": "3.sg.act.opt. root pāt"
+    }
+   ],
+   "question": "How many mantras must be chanted before dropping the energy?",
+   "premises": [
+    "One chants a hundred or twenty.",
+    "Then one drops the energy."
+   ],
+   "inference": "The verse sets a chanting count before releasing energy.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Therefore, having chanted a hundred or twenty, one should drop the energy."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.part"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yathoktaṃ",
+     "gloss": "as-spoken",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.part"
+    },
+    {
+     "surface": "buddharūpiṇā",
+     "gloss": "buddha-formed",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg compound"
+    }
+   ],
+   "question": "Who is said to have told this teaching to the goddess?",
+   "premises": [
+    "The teaching was told to the goddess.",
+    "It was told by the buddha-formed one."
+   ],
+   "inference": "The verse attributes the instruction to a buddha-formed speaker.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Thus, O goddess, that was told as spoken by the buddha-formed one."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "siddhipradaṃ",
+     "gloss": "accomplishment-giving",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg compound"
+    },
+    {
+     "surface": "samācārād",
+     "gloss": "from-conduct",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-hidden",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "svayonivat",
+     "gloss": "like-own-yoni",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must this accomplishment-giving practice be hidden like one's own yoni?",
+   "premises": [
+    "The practice gives accomplishment.",
+    "It must be hidden from conduct."
+   ],
+   "inference": "The verse demands secrecy for the accomplishment-giving practice.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "This accomplishment-giving practice, from conduct, must be hidden like one's own yoni."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "puraścaraṇahīnena",
+     "gloss": "without-puraścaraṇa",
+     "grounds": "compound adjective in instrumental",
+     "morph": "m.inst.sg compound"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "by-mantra",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "neuter noun in accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. root bhū"
+    }
+   ],
+   "question": "Does a mantra lacking puraścaraṇa yield any fruit?",
+   "premises": [
+    "A mantra without puraścaraṇa is used.",
+    "No fruit becomes from it."
+   ],
+   "inference": "The verse denies fruit to mantra practice lacking puraścaraṇa.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By a mantra without puraścaraṇa, no fruit becomes."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "kuje",
+     "gloss": "on-tuesday",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śanivāre",
+     "gloss": "on-saturday",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naramuṇḍaṃ",
+     "gloss": "human-skull",
+     "grounds": "neuter noun in accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samāharet",
+     "gloss": "let-one-collect",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. root samāhṛ"
+    }
+   ],
+   "question": "On which days should a human skull be collected?",
+   "premises": [
+    "Tuesday is named.",
+    "Saturday is named.",
+    "A human skull is collected."
+   ],
+   "inference": "The verse permits skull collection on Tuesday or Saturday.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "On Tuesday or on Saturday, one should collect a human skull."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naktaṃ",
+     "gloss": "at-night",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśaśataṃ",
+     "gloss": "ten-hundred",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "let-one-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. root pra-jap"
+    },
+    {
+     "surface": "mantrasiddhaye",
+     "gloss": "for-mantra-accomplishment",
+     "grounds": "dative compound",
+     "morph": "f.dat.sg compound"
+    }
+   ],
+   "question": "How many mantras should be chanted at night there for accomplishment?",
+   "premises": [
+    "There, at night, one chants.",
+    "Ten hundred is the count.",
+    "It is for mantra accomplishment."
+   ],
+   "inference": "The verse prescribes ten hundred chants at night for mantra accomplishment.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "There, at night, one should chant ten hundred for mantra accomplishment."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaprakāreṇa",
+     "gloss": "other-way",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg compound"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "puraścaraṇa",
+     "grounds": "neuter noun in nominative",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres. root vac"
+    }
+   ],
+   "question": "Is puraścaraṇa also described by any other method?",
+   "premises": [
+    "Another way is named.",
+    "Puraścaraṇa is said by it."
+   ],
+   "inference": "The verse introduces an alternative description of puraścaraṇa.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Or, by another way, puraścaraṇa is said."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "devavat",
+     "gloss": "like-deity",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "neuter noun in accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund from kṛ",
+     "morph": "(ger.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "let-one-chant",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. root jap"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "adverb of quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "beautiful-faced",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should worship and chanting be performed for the beautiful-faced goddess?",
+   "premises": [
+    "Worship is done like a deity.",
+    "Then one chants so much.",
+    "The goddess is beautiful-faced."
+   ],
+   "inference": "The verse links deity-like worship with measured chanting.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Having performed worship like a deity, one should chant so much, O beautiful-faced one."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrddhnipadme",
+     "gloss": "in-crown-lotus",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "gerund from dhyā",
+     "morph": "(ger.)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "feminine noun in accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vidhyāya",
+     "gloss": "let-one-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. root vidhā"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative meditation and worship is performed in the crown lotus?",
+   "premises": [
+    "The crown lotus is named.",
+    "One meditates there.",
+    "Worship is performed."
+   ],
+   "inference": "The verse offers an alternative meditation and worship in the crown lotus.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Or, in the crown lotus, having meditated, one should perform worship, and."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "rule",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "puraścaraṇam",
+     "gloss": "puraścaraṇa",
+     "grounds": "neuter noun in nominative",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres. root vac"
+    }
+   ],
+   "question": "By which rule is puraścaraṇa said to be accomplished?",
+   "premises": [
+    "By this rule.",
+    "Puraścaraṇa is said."
+   ],
+   "inference": "The verse identifies this rule as the description of puraścaraṇa.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "By this very rule, puraścaraṇa is said."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "caturdaśīṃ",
+     "gloss": "from-fourteenth",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "gerund from samārabh",
+     "morph": "(ger.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "another",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturdaśī",
+     "gloss": "fourteenth",
+     "grounds": "feminine noun in nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "From which fourteenth until which other fourteenth does the rite extend?",
+   "premises": [
+    "One begins from a fourteenth.",
+    "It continues until another fourteenth."
+   ],
+   "inference": "The verse defines a span from one fourteenth to another.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Having begun from a fourteenth, until another fourteenth."
+  }
+ ]
+}

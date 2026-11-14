@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the preceding rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "modifies the whole rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "locative of time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vīraiḥ",
+     "gloss": "by-heroes",
+     "grounds": "instrumental agent",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive present verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Is the entire puraścaraṇa rite prescribed for vīras in the cremation ground at night?",
+   "premises": [
+    "Entire rite is called puraścaraṇa.",
+    "Vīras are the prescribed agents.",
+    "Performance occurs in cremation ground at night."
+   ],
+   "inference": "Thus the rite is restricted to vīra practitioners in the cremation ground at night.",
+   "uncertainties": [
+    "Whether vīraiḥ denotes practitioner grade or heroic beings."
+   ],
+   "plain_english": "All this is prescribed to be performed by heroes in the cremation ground at night."
+  }
+ ]
+}

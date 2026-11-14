@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "caturthasvaraḥ",
+     "gloss": "fourth-vowel",
+     "grounds": "fourth vowel in nominative singular masculine form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ī",
+     "gloss": "long-i",
+     "grounds": "bīja vowel ī",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb indicating manner of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣmrī",
+     "gloss": "kṣmrī",
+     "grounds": "mantra syllable kṣmrī",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the fourth vowel ī enter the kṣmrī bīja?",
+   "premises": [
+    "The fourth vowel is ī.",
+    "It is placed thus in kṣmrī.",
+    "The bīja is kṣmrī."
+   ],
+   "inference": "The kṣmrī bīja contains ī as its fourth vowel.",
+   "uncertainties": [
+    "Exact ritual application beyond this verse remains unspecified."
+   ],
+   "plain_english": "The fourth vowel is ī; thus [it is] kṣmrī."
+  }
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "sarvātmakatva",
+     "gloss": "all-consisting-nature",
+     "grounds": "compound of sarva, ātmaka, and tva",
+     "morph": "compound: sarva+ātmaka+tva"
+    },
+    {
+     "surface": "kalanena",
+     "gloss": "by-comprehending",
+     "grounds": "instrumental of kalana",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "possessive adjective modifying akṣarāṇām",
+     "morph": "adj.gen.pl.m/n"
+    },
+    {
+     "surface": "akṣarāṇām",
+     "gloss": "syllables-of",
+     "grounds": "genitive plural of akṣara",
+     "morph": "n.gen.pl.n"
+    }
+   ],
+   "question": "What is the means by which one comprehends the all-pervading nature of one's own syllables?",
+   "premises": [
+    "sarvātmakatva means all-consisting nature",
+    "kalanena means by comprehending",
+    "nija akṣarāṇām means own syllables"
+   ],
+   "inference": "comprehending all-consisting nature concerns one's own syllables",
+   "uncertainties": [
+    "exact scope of sarvātmakatva in this context"
+   ],
+   "plain_english": "By comprehending the all-consisting nature of one's own syllables."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "pūrve",
+     "gloss": "earlier",
+     "grounds": "adverbial temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīdīpikācārya",
+     "gloss": "śrī-Dīpikā-teacher",
+     "grounds": "compound naming the teacher",
+     "morph": "compound: śrī+dīpikā+ācārya"
+    },
+    {
+     "surface": "pramukhā",
+     "gloss": "foremost",
+     "grounds": "adjective modifying guravo",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "guravo",
+     "gloss": "teachers",
+     "grounds": "nominative plural of guru",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "Which teachers are acknowledged as foremost before this effort?",
+   "premises": [
+    "pūrve means earlier",
+    "śrīdīpikācārya names a teacher",
+    "pramukhā guravo means foremost teachers"
+   ],
+   "inference": "the foremost teachers include the Śrī Dīpikā teacher",
+   "uncertainties": [
+    "whether pramukhā modifies only śrīdīpikācārya or all teachers"
+   ],
+   "plain_english": "Earlier, the foremost teachers, including the Śrī Dīpikā teacher, were mine."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "śrīvāmakeśvarīmatam",
+     "gloss": "śrī-Vāmakeśvarī-doctrine",
+     "grounds": "compound accusative object",
+     "morph": "compound: śrī+vāmakeśvarī+matam"
+    },
+    {
+     "surface": "uddyotayituṃ",
+     "gloss": "to-illuminate",
+     "grounds": "infinitive purpose",
+     "morph": "infinitive"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "udyamo",
+     "gloss": "effort",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "’dyāyam",
+     "gloss": "this",
+     "grounds": "demonstrative adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What is the purpose of this effort concerning the Śrī Vāmakeśvarī doctrine?",
+   "premises": [
+    "śrīvāmakeśvarīmatam is the doctrine",
+    "uddyotayituṃ means to illuminate",
+    "udyamo means effort"
+   ],
+   "inference": "this effort aims to illuminate the Śrī Vāmakeśvarī doctrine",
+   "uncertainties": [
+    "exact referent of ’dyāyam"
+   ],
+   "plain_english": "This effort of mine is to illuminate the Śrī Vāmakeśvarī doctrine."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative object of naumi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mantramayīṃ",
+     "gloss": "mantra-consisting",
+     "grounds": "adjective modifying devīṃ",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "naumi",
+     "gloss": "I-bow-to",
+     "grounds": "first person singular present of nam",
+     "morph": "1.sg.act.pres root nam"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "Mātṛkā",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pīṭharūpiṇīm",
+     "gloss": "seat-form",
+     "grounds": "adjective modifying mātṛkāṃ",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "To whom does the author bow as mantra-formed goddess and seat-formed Mātṛkā?",
+   "premises": [
+    "devīṃ means goddess",
+    "mantramayīṃ means mantra-consisting",
+    "mātṛkāṃ means Mātṛkā",
+    "pīṭharūpiṇīm means seat-form"
+   ],
+   "inference": "the author bows to the mantra-formed goddess and seat-formed Mātṛkā",
+   "uncertainties": [
+    "whether devīṃ and mātṛkāṃ name one or two figures"
+   ],
+   "plain_english": "I bow to the goddess consisting of mantra and to Mātṛkā in seat form."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "kālahallohala",
+     "gloss": "kālahalla-poison",
+     "grounds": "compound naming the poison",
+     "morph": "compound: kāla+hallohala"
+    },
+    {
+     "surface": "ullola",
+     "gloss": "agitation",
+     "grounds": "noun in compound relation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalanā",
+     "gloss": "destruction",
+     "grounds": "noun in compound relation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śamakāriṇīm",
+     "gloss": "causing",
+     "grounds": "adjective modifying the goddess",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What destructive agitation of Kālahalla poison does the goddess pacify?",
+   "premises": [
+    "kālahallohala names the poison",
+    "ullola means agitation",
+    "kalanā means destruction",
+    "śamakāriṇīm means causing pacification"
+   ],
+   "inference": "the goddess causes pacification of the poison's destructive agitation",
+   "uncertainties": [
+    "exact compound parsing of kālahallohala"
+   ],
+   "plain_english": "Causing pacification of the destructive agitation of Kālahalla poison."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "vākya",
+     "gloss": "sentence",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning assigned to the sentence?",
+   "premises": [
+    "vākya means sentence",
+    "arthaḥ means meaning"
+   ],
+   "inference": "the sentence has a meaning",
+   "uncertainties": [
+    "the specific meaning is not given in this fragment"
+   ],
+   "plain_english": "The meaning of the sentence."
+  }
+ ]
+}

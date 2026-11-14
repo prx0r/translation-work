@@ -3,24 +3,39 @@
  "verse": 175,
  "rows": [
   {
-   "lemma": "sarvārthasādhakaṃ",
-   "morph": "adj.nom.sg.n",
-   "grounds": "compound sarva+artha+sādhaka describing the cakra"
+   "lemma": "sarva",
+   "morph": "compound.member",
+   "grounds": "first member of compound sarva-artha"
   },
   {
-   "lemma": "nāma",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable naming particle"
+   "lemma": "artha",
+   "morph": "compound.member",
+   "grounds": "second member of compound sarva-artha"
   },
   {
-   "lemma": "ṇādibhāntaiḥ",
-   "morph": "adj.inst.pl.m",
-   "grounds": "compound ṇa-ādi-bha-anta in instrumental plural"
+   "lemma": "sādhakī",
+   "morph": "f.nom.sg",
+   "grounds": "feminine adjective agreeing with śaktiḥ"
   },
   {
-   "lemma": "vibhūṣitam",
-   "morph": "ppp.nom.sg.n",
-   "grounds": "past passive participle of bhūṣ"
+   "lemma": "śaktiḥ",
+   "morph": "f.nom.sg",
+   "grounds": "subject noun of the verse"
+  },
+  {
+   "lemma": "sarva",
+   "morph": "compound.member",
+   "grounds": "first member of compound sarva-āśā"
+  },
+  {
+   "lemma": "āśā",
+   "morph": "compound.member",
+   "grounds": "second member of compound sarva-āśā"
+  },
+  {
+   "lemma": "paripūrakī",
+   "morph": "f.nom.sg",
+   "grounds": "feminine adjective agreeing with śaktiḥ"
   }
  ]
 }
