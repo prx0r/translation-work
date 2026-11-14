@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "first-person pronoun indicating the recipient of the action",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "under-control",
+     "grounds": "object denoting subjection or control",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ānaya",
+     "gloss": "bring",
+     "grounds": "imperative verb directing the bringing into control",
+     "morph": "2.sg.act.imp-ā-nī"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantric oblation syllable kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśatyantagajāntakaḥ",
+     "gloss": "ending-in-twenty-and-elephant-slayer",
+     "grounds": "compound designating the concluding coded elements of the mantra",
+     "morph": "compound: viṃśati-anta-gaja-antakaḥ (m.nom.sg)"
+    }
+   ],
+   "question": "What concluding petition and coded designation complete the Gaṇapati mantra formula?",
+   "premises": [
+    "The imperative ānaya directs bringing the speaker under control.",
+    "The syllable svāhā functions as the concluding oblation term of the mantra.",
+    "The compound viṃśatyantagajāntakaḥ specifies the final coded designation in the formula."
+   ],
+   "inference": "The mantra concludes by petitioning subjugation to the speaker and sealing the formula with svāhā and a coded designation.",
+   "uncertainties": [
+    "The precise technical decoding of viṃśatyantagajāntakaḥ within this mantra system is not fully explicit from the verse alone."
+   ],
+   "plain_english": "Bring me under control, svāhā — ending in viṃśati and Gajāntaka."
+  }
+ ]
+}

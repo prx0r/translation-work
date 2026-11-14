@@ -3,29 +3,34 @@
  "verse": 234,
  "rows": [
   {
-   "lemma": "tatra",
+   "lemma": "sarvasaubhāgyam",
+   "morph": "compound: sarva+saubhāgya (n.acc.sg)",
+   "grounds": "compound denoting complete auspiciousness"
+  },
+  {
+   "lemma": "āpnoti",
+   "morph": "3.sg.act-pres √āp",
+   "grounds": "result of the oblation"
+  },
+  {
+   "lemma": "buddhyā",
+   "morph": "f.ins.sg",
+   "grounds": "instrumental indicating excellence in intellect"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "refers to the cited context"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "vā",
-   "morph": "(indecl.)",
-   "grounds": "alternative particle"
+   "lemma": "vākpatir",
+   "morph": "compound: vāc+pati (m.nom.sg)",
+   "grounds": "compound indicating mastery of speech"
   },
   {
-   "lemma": "tadupāyatvāt",
-   "morph": "n.abl.sg compound tad+first upāya+tva+second",
-   "grounds": "abstract reason: because it serves as the means to that"
-  },
-  {
-   "lemma": "paratvena",
-   "morph": "n.inst.sg compound para+tva+second",
-   "grounds": "instrumental expressing attribution of supreme status"
-  },
-  {
-   "lemma": "upacāritā",
-   "morph": "f.nom.sg.past-participle upa-car-caus",
-   "grounds": "secondary or metaphorical attribution"
+   "lemma": "bhavet",
+   "morph": "3.sg.act-opt √bhū",
+   "grounds": "resulting state"
   }
  ]
 }

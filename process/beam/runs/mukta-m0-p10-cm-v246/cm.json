@@ -3,34 +3,39 @@
  "verse": 246,
  "rows": [
   {
-   "lemma": "tatra",
+   "lemma": "vaśayed",
+   "morph": "3.sg.act-opt caus. √vaś",
+   "grounds": "prescribed act of control"
+  },
+  {
+   "lemma": "duṣṭalokāṃś",
+   "morph": "compound: duṣṭa+loka (acc.pl.m)",
+   "grounds": "compound denoting harmful people; accusative plural"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "refers to that objection context"
+   "grounds": "connective particle"
   },
   {
-   "lemma": "pādavihāra",
-   "morph": "compound pāda+first vihāra+second",
-   "grounds": "first member of compound referring to walking or movement of feet"
+   "lemma": "havanān",
+   "morph": "n.abl.sg",
+   "grounds": "ablative indicating cause"
   },
   {
-   "lemma": "ādeḥ",
-   "morph": "m.gen.sg compound pāda+first vihāra+second ādi+third",
-   "grounds": "indicates similar actions or cases"
-  },
-  {
-   "lemma": "sphuṭam",
+   "lemma": "na",
    "morph": "(indecl.)",
-   "grounds": "adverbial emphasis on obviousness"
+   "grounds": "negation particle"
   },
   {
-   "lemma": "eva",
+   "lemma": "atra",
    "morph": "(indecl.)",
-   "grounds": "emphatic particle"
+   "grounds": "locative adverbial particle"
   },
   {
-   "lemma": "niṣiddhatā",
-   "morph": "f.nom.sg compound niṣiddha+tā+second",
-   "grounds": "state of being forbidden"
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "asserts absence of uncertainty"
   }
  ]
 }
