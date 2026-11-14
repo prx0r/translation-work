@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p126",
  "verse": 3140,
- "question": "What should be understood to have arrived at that point in time?",
+ "question": "Which facial landmarks define the alignment points for this posture?",
  "premises": [
-  "The goddess is addressed",
-  "A time is to be known",
-  "That time is said to have arrived"
+  "A point is at the right eye boundary.",
+  "Another point is at the left nostril end.",
+  "These serve as alignment landmarks."
  ],
- "inference": "At that point, a particular time should be understood to have arrived.",
- "uncertainties": [
-  "The specific nature of this time is defined by context."
- ],
- "plain_english": "O goddess, that time should be known to have arrived."
+ "inference": "The alignment is defined by the boundary of the right eye and the end of the left nostril.",
+ "uncertainties": [],
+ "plain_english": "At the boundary of the right eye and at the end of the left nostril."
 }
