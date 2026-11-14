@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 110,
- "question": "Which initiation is declared to be the third in the sequence?",
+ "question": "What sectional counts are assigned to these forms and to the Vaiṣṇavī?",
  "premises": [
-  "The initiations are enumerated in order.",
-  "One initiation is named the offering of the five senses.",
-  "This initiation holds the third position."
+  "These forms are said to have five sections.",
+  "The Vaiṣṇavī is said to have eight sections."
  ],
- "inference": "The initiation named the offering of the five senses is declared to be the third.",
- "uncertainties": [],
- "plain_english": "The initiation named the offering of the five senses is declared to be the third."
+ "inference": "The group is five-sectioned while the Vaiṣṇavī is eight-sectioned.",
+ "uncertainties": [
+  "The exact referent of 'these' depends on the preceding verse."
+ ],
+ "plain_english": "These become five-sectioned, but the Vaiṣṇavī is eight-sectioned."
 }

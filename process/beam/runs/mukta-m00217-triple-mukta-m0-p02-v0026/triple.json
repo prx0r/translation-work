@@ -1,0 +1,963 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "vyāpakānte",
+     "gloss": "at-end-of-pervasive",
+     "grounds": "locative of vyāpaka with anta; place after pervasion",
+     "morph": "compound: vyāpaka+anta; m.loc.sg"
+    },
+    {
+     "surface": "yonimudrāṃ",
+     "gloss": "yoni-seal",
+     "grounds": "ritual hand gesture named yoni-mudrā",
+     "morph": "compound: yoni+mudrā; f.acc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "at-mouth",
+     "grounds": "location where the gesture is placed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund; √kṣip"
+    },
+    {
+     "surface": "abhivandya",
+     "gloss": "having-saluted",
+     "grounds": "absolutive indicating reverential act",
+     "morph": "gerund; abhi+√vand"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions complete the placement after the pervasive phase?",
+   "premises": [
+    "The action occurs at the end of the pervasive phase.",
+    "The yoni-mudrā is placed at the mouth.",
+    "Salutation accompanies the placement."
+   ],
+   "inference": "The rite concludes the pervasive phase by placing the yoni-mudrā at the mouth and offering salutation.",
+   "uncertainties": [],
+   "plain_english": "At the end of the pervasive phase, place the yoni-mudrā at the mouth and offer salutation."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "sammohanākhyo",
+     "gloss": "named-sammohana",
+     "grounds": "name of this nyāsa; sandhi form of sammohana-ākhyaḥ",
+     "morph": "compound: sammohana+ākhya; m.nom.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "nyāso'yaṃ",
+     "gloss": "this-placement",
+     "grounds": "demonstrative identifying the nyāsa; sandhi nyāsaḥ+ayam",
+     "morph": "compound: nyāsa+ayam; m.nom.sg"
+    },
+    {
+     "surface": "kṣobhakārakaḥ",
+     "gloss": "causing-agitation",
+     "grounds": "describes the effect of this nyāsa",
+     "morph": "compound: kṣobha+kāraka; m.nom.sg"
+    }
+   ],
+   "question": "What is the name and effect of this specific nyāsa?",
+   "premises": [
+    "The nyāsa is addressed to the goddess.",
+    "It is named Sammohana.",
+    "Its function is to cause agitation."
+   ],
+   "inference": "This nyāsa, called Sammohana, is declared to produce agitation.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, this placement is called Sammohana and it causes agitation."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "pādayor",
+     "gloss": "on-two-feet",
+     "grounds": "body location for placement",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "jaṅghayor",
+     "gloss": "on-two-calves",
+     "grounds": "body location for placement",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "jānvoḥ",
+     "gloss": "on-two-knees",
+     "grounds": "body location for placement",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "kaṭyor",
+     "gloss": "on-two-hips",
+     "grounds": "body location for placement",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "andhuni",
+     "gloss": "on-genitals",
+     "grounds": "body location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pṛṣṭhake",
+     "gloss": "on-back",
+     "grounds": "body location for placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which lower and rear body locations receive the prescribed placements?",
+   "premises": [
+    "Placements are assigned to paired limbs and joints.",
+    "The sequence includes feet, calves, knees, and hips.",
+    "It also includes the genitals and the back."
+   ],
+   "inference": "The rite specifies placements on the feet, calves, knees, hips, genitals, and back.",
+   "uncertainties": [
+    "Exact anatomical sense of andhuni is context-dependent."
+   ],
+   "plain_english": "Place them on the feet, calves, knees, hips, genitals, and back."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "karṇayor",
+     "gloss": "on-two-ears",
+     "grounds": "body location for placement",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "brahmarandhre",
+     "gloss": "on-brahma-opening",
+     "grounds": "crown aperture location",
+     "morph": "compound: brahma+randhra; n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadane",
+     "gloss": "on-face",
+     "grounds": "body location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "emphatic connective; sandhi ca+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-parvati",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which upper body locations complete the sequence of placements?",
+   "premises": [
+    "The sequence continues on the upper body.",
+    "It includes the ears and the brahmarandhra.",
+    "It also includes the face."
+   ],
+   "inference": "The placement sequence is completed on the ears, brahmarandhra, and face.",
+   "uncertainties": [],
+   "plain_english": "O Pārvatī, place them on the ears, on the brahmarandhra, and also on the face."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "saṃhāro'yaṃ",
+     "gloss": "this-dissolution",
+     "grounds": "identifies the nyāsa as dissolution; sandhi saṃhāraḥ+ayam",
+     "morph": "compound: saṃhāra+ayam; m.nom.sg"
+    },
+    {
+     "surface": "mahānyāso",
+     "gloss": "great-placement",
+     "grounds": "names the rite as a great nyāsa",
+     "morph": "compound: mahā+nyāsa; m.nom.sg"
+    },
+    {
+     "surface": "bījaiḥ+ṣoḍaśabhiḥ",
+     "gloss": "with-sixteen-seeds",
+     "grounds": "instrumental specifying the seed-syllables used",
+     "morph": "compound: bīja+ṣoḍaśa; n.ins.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential application",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is the dissolution form of the great nyāsa performed?",
+   "premises": [
+    "This rite is identified as dissolution.",
+    "It is called the great nyāsa.",
+    "It uses sixteen seed-syllables in sequence."
+   ],
+   "inference": "The dissolution great nyāsa is performed in order with sixteen seed-syllables.",
+   "uncertainties": [
+    "The specific sixteen bījas are not listed in this verse."
+   ],
+   "plain_english": "This is the dissolution, the great placement, performed in order with sixteen seed-syllables."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "sṛṣṭyarthaṃ",
+     "gloss": "for-creation",
+     "grounds": "purpose of the placement",
+     "morph": "compound: sṛṣṭi+artha; m.acc.sg"
+    },
+    {
+     "surface": "vinyased",
+     "gloss": "one-should-place",
+     "grounds": "injunctive instruction for the rite",
+     "morph": "3.sg.opt.act; vi+ni+√as"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "mother-letters",
+     "grounds": "object to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates same method as previously described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should the mātṛkā be placed when the aim is creation?",
+   "premises": [
+    "The placement is for the purpose of creation.",
+    "The object to be placed is the mātṛkā.",
+    "The method follows the previous pattern."
+   ],
+   "inference": "For creation, one should place the mātṛkā in the same manner as before.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, O beloved, for creation one should place the mātṛkā as before."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "trividheti",
+     "gloss": "thus-threefold",
+     "grounds": "refers to a prior statement of threefoldness; sandhi trividha+iti",
+     "morph": "compound: trividha+iti; (indecl.)"
+    },
+    {
+     "surface": "yaduktaṃ",
+     "gloss": "what-was-said",
+     "grounds": "refers back to earlier teaching; sandhi yat+uktam",
+     "morph": "compound: yad+ukta; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the request",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakaṭīkuru",
+     "gloss": "make-clear",
+     "grounds": "imperative request for explanation",
+     "morph": "2.sg.imp.act; pra+kaṭī+√kṛ"
+    },
+    {
+     "surface": "śaṅkara",
+     "gloss": "o-shankara",
+     "grounds": "vocative address to Śiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What clarification is requested about the previously stated threefold division?",
+   "premises": [
+    "A threefold division was mentioned earlier.",
+    "The speaker asks for clarification.",
+    "The request is addressed to Śaṅkara."
+   ],
+   "inference": "The goddess asks Śaṅkara to explain clearly what was meant by the threefold division.",
+   "uncertainties": [],
+   "plain_english": "O Śaṅkara, please make clear what was said to be threefold."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "śivaśaktimayaṃ",
+     "gloss": "consisting-of-shiva-shakti",
+     "grounds": "describes the nature of the subject",
+     "morph": "compound: śiva+śakti+maya; n.acc.sg"
+    },
+    {
+     "surface": "tattra",
+     "gloss": "that-there",
+     "grounds": "points to the matter in question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker promises explanation",
+     "morph": "1.sg.pres.act; √kath"
+    },
+    {
+     "surface": "tavā",
+     "gloss": "to-you",
+     "grounds": "recipient of the teaching; sandhi form of tava",
+     "morph": "pronoun.2.gen.sg"
+    },
+    {
+     "surface": "anaghe",
+     "gloss": "o-sinless-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What nature of the threefold division does Śiva promise to explain?",
+   "premises": [
+    "Śiva responds to the request for clarification.",
+    "The subject is described as consisting of Śiva and Śakti.",
+    "The explanation is addressed to the sinless goddess."
+   ],
+   "inference": "Śiva promises to explain that threefold division as consisting of Śiva and Śakti.",
+   "uncertainties": [],
+   "plain_english": "O sinless one, I will tell you that it consists of Śiva and Śakti."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "previously",
+     "grounds": "refers to earlier teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇaistu",
+     "gloss": "with-qualities",
+     "grounds": "instrumental indicating basis of prior account; sandhi guṇaiḥ+tu",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "was-told",
+     "grounds": "states what was previously explained",
+     "morph": "f.nom.sg.past-passive-participle; √kath"
+    },
+    {
+     "surface": "śivaśaktyātmikāṃ",
+     "gloss": "of-shiva-shakti-nature",
+     "grounds": "describes the nature to be heard now",
+     "morph": "compound: śiva+śakti+ātmaka; f.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative directing attention",
+     "morph": "2.sg.imp.act; √śru"
+    }
+   ],
+   "question": "How does the present teaching relate to the earlier account based on qualities?",
+   "premises": [
+    "An earlier account was given in terms of qualities.",
+    "The present account concerns Śiva-Śakti nature.",
+    "The listener is asked to hear this account."
+   ],
+   "inference": "After the earlier account based on qualities, the teaching now turns to the Śiva-Śakti nature.",
+   "uncertainties": [],
+   "plain_english": "It was told before in terms of the qualities; now hear it as having the nature of Śiva and Śakti."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "hakāraḥ",
+     "gloss": "letter-ha",
+     "grounds": "identifies the syllable under discussion",
+     "morph": "compound: ha+kāra; m.nom.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restricts the identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "shiva",
+     "grounds": "identifies the letter with Śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states the doctrinal identification",
+     "morph": "3.sg.pres.pass; √vac"
+    }
+   ],
+   "question": "Which principle is identified with the letter ha alone?",
+   "premises": [
+    "The letter ha is the subject.",
+    "It is addressed in teaching to the supreme goddess.",
+    "It is said to be Śiva alone."
+   ],
+   "inference": "The letter ha is identified exclusively with Śiva.",
+   "uncertainties": [],
+   "plain_english": "O supreme Goddess, the letter ha is called Śiva alone."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "yaducyate",
+     "gloss": "what-is-said",
+     "grounds": "introduces the content expressed by letters; sandhi yat+ucyate",
+     "morph": "compound: yad+ucyate; n.nom.sg"
+    },
+    {
+     "surface": "mātṛkārṇaistat",
+     "gloss": "by-those-mother-letters",
+     "grounds": "instrumental indicating means of expression; sandhi mātṛkā-arṇaiḥ+tat",
+     "morph": "compound: mātṛkā+arṇa+tat; m.ins.pl"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "totality expressed through the letters",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ahamīśvaraḥ",
+     "gloss": "i-am-lord",
+     "grounds": "identifies the expressed totality with the Lord; sandhi aham+īśvaraḥ",
+     "morph": "compound: aham+īśvara; m.nom.sg"
+    }
+   ],
+   "question": "What identity is claimed for all that is expressed by the mātṛkā letters?",
+   "premises": [
+    "The mātṛkā letters express something.",
+    "What they express is said to be all.",
+    "That all is identified as 'I am the Lord'."
+   ],
+   "inference": "All that is expressed by the mātṛkā letters is identified with the Lord as 'I'.",
+   "uncertainties": [],
+   "plain_english": "Whatever is expressed by those mātṛkā letters, all that is 'I am the Lord'."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "sakāraḥ",
+     "gloss": "letter-sa",
+     "grounds": "identifies the syllable under discussion",
+     "morph": "compound: sa+kāra; m.nom.sg"
+    },
+    {
+     "surface": "śaktirūpatvāt",
+     "gloss": "because-of-shakti-form",
+     "grounds": "gives reason for identification",
+     "morph": "compound: śakti+rūpa+tva; n.abl.sg"
+    },
+    {
+     "surface": "paravācī",
+     "gloss": "supreme-speech",
+     "grounds": "identifies the letter with supreme speech",
+     "morph": "compound: para+vāc; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another attribute",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sargavān",
+     "gloss": "possessing-emanation",
+     "grounds": "attributes creative power to the letter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the letter sa identified with supreme speech and emanation?",
+   "premises": [
+    "The letter sa is the subject.",
+    "It has the nature of Śakti.",
+    "It is described as supreme speech and possessing emanation."
+   ],
+   "inference": "Because it is of Śakti's nature, the letter sa is identified as supreme speech endowed with emanation.",
+   "uncertainties": [],
+   "plain_english": "The letter sa, because it has the form of Śakti, is supreme speech and possesses emanation."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "object revealed in realization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "darśayedyogaḥ",
+     "gloss": "yoga-would-show",
+     "grounds": "states what yoga reveals; sandhi darśayet+yogaḥ",
+     "morph": "compound: darśayet+yoga; m.nom.sg"
+    },
+    {
+     "surface": "so'haṃśabdena",
+     "gloss": "by-so-ham-word",
+     "grounds": "instrumental indicating the revealing formula; sandhi saḥ+aham+śabdena",
+     "morph": "compound: saḥ+aham+śabda; m.ins.sg"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How does yoga reveal the self through the formula so'ham?",
+   "premises": [
+    "Yoga is said to show the self.",
+    "The showing occurs through the word so'ham.",
+    "The teaching is addressed to the beautiful goddess."
+   ],
+   "inference": "Yoga reveals the self by means of the formula so'ham.",
+   "uncertainties": [],
+   "plain_english": "O beautiful one, yoga would reveal the self through the word so'ham."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "nādarūpeṇa",
+     "gloss": "in-form-of-sound",
+     "grounds": "describes the mode of manifestation",
+     "morph": "compound: nāda+rūpa; n.ins.sg"
+    },
+    {
+     "surface": "sā+devī",
+     "gloss": "that-goddess",
+     "grounds": "identifies the goddess",
+     "morph": "compound: sā+devī; f.nom.sg"
+    },
+    {
+     "surface": "hakārārdhasvarūpiṇī",
+     "gloss": "having-half-ha-form",
+     "grounds": "describes her as the form of half the letter ha",
+     "morph": "compound: hakāra+ardha+svarūpin; f.nom.sg"
+    }
+   ],
+   "question": "In what sonic form is the goddess identified with half of ha?",
+   "premises": [
+    "The goddess is described in the form of nāda.",
+    "She is identified as the form of half of ha.",
+    "The identification concerns her sonic manifestation."
+   ],
+   "inference": "The goddess manifests as nāda and is identified as the form of half the letter ha.",
+   "uncertainties": [],
+   "plain_english": "That goddess, in the form of nāda, has the form of half the letter ha."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "tasyārdhāṅgaṃ",
+     "gloss": "her-half-part",
+     "grounds": "refers to the other half portion; sandhi tasyā+ardha+aṅgam",
+     "morph": "compound: tasya+ardha+aṅga; n.nom.sg"
+    },
+    {
+     "surface": "mahāśaktir",
+     "gloss": "great-power",
+     "grounds": "identifies the half as Mahāśakti",
+     "morph": "compound: mahā+śakti; f.nom.sg"
+    },
+    {
+     "surface": "hakārārdhasvarūpiṇī",
+     "gloss": "having-half-ha-form",
+     "grounds": "describes her as the form of half the letter ha",
+     "morph": "compound: hakāra+ardha+svarūpin; f.nom.sg"
+    }
+   ],
+   "question": "How is the remaining half of ha identified with Mahāśakti?",
+   "premises": [
+    "A half portion is being identified.",
+    "That half is called Mahāśakti.",
+    "It is described as the form of half the letter ha."
+   ],
+   "inference": "The other half of ha is identified as Mahāśakti, having the form of half the letter ha.",
+   "uncertainties": [],
+   "plain_english": "Her other half-part is Mahāśakti, having the form of half the letter ha."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "nityeti",
+     "gloss": "thus-eternal",
+     "grounds": "states the name eternal; sandhi nityā+iti",
+     "morph": "compound: nitya+iti; (indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-called",
+     "grounds": "declares the designation",
+     "morph": "3.sg.pres.pass; √kath"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "citkalā",
+     "gloss": "consciousness-phase",
+     "grounds": "identifies her as a phase of consciousness",
+     "morph": "compound: cit+kalā; f.nom.sg"
+    },
+    {
+     "surface": "paradevatā",
+     "gloss": "supreme-deity",
+     "grounds": "identifies her as the supreme deity",
+     "morph": "compound: para+devatā; f.nom.sg"
+    }
+   ],
+   "question": "What supreme identity is attributed to the goddess called Nityā?",
+   "premises": [
+    "The goddess is called Nityā.",
+    "She is identified as citkalā.",
+    "She is identified as the supreme deity."
+   ],
+   "inference": "The goddess called Nityā is declared to be the consciousness-phase and the supreme deity.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, she is called Nityā, the phase of consciousness, the supreme deity."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "prātarutthāya",
+     "gloss": "having-risen-early",
+     "grounds": "indicates the time and prior action",
+     "morph": "compound: prātar+utthāya; gerund; ud+√sthā"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "guruṃ+smṛtvā",
+     "gloss": "having-remembered-guru",
+     "grounds": "absolutive indicating remembrance of the guru",
+     "morph": "compound: guru+smṛtvā; gerund; √smṛ"
+    },
+    {
+     "surface": "svanāmabhiḥ",
+     "gloss": "with-own-names",
+     "grounds": "instrumental indicating recitation by names",
+     "morph": "compound: sva+nāman; n.ins.pl"
+    }
+   ],
+   "question": "What preparatory acts should be performed upon rising in the morning?",
+   "premises": [
+    "The practitioner rises early in the morning.",
+    "The guru is to be remembered.",
+    "Remembrance is done with the guru's own names."
+   ],
+   "inference": "After rising early, one should remember the guru by reciting the guru's own names.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, having risen early in the morning, one should remember the guru with his own names."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "sarvaśṛṅgāraveṣāḍhyaḥ",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "describes the practitioner's attire and adornment",
+     "morph": "compound: sarva+śṛṅgāra+veṣa+āḍhya; m.nom.sg"
+    },
+    {
+     "surface": "karpūraghusṛṇādibhiḥ",
+     "gloss": "with-camphor-saffron-and-others",
+     "grounds": "instrumental listing fragrant substances",
+     "morph": "compound: karpūra+ghusṛṇa+ādi; n.ins.pl"
+    }
+   ],
+   "question": "How should the practitioner be adorned before the ritual?",
+   "premises": [
+    "The practitioner is richly adorned.",
+    "Adornment includes all ornaments and attire.",
+    "Fragrant substances such as camphor and saffron are used."
+   ],
+   "inference": "The practitioner should be fully adorned with ornaments and fragrant substances like camphor and saffron.",
+   "uncertainties": [],
+   "plain_english": "One should be richly adorned with all ornaments and attire, with camphor, saffron, and the like."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "navaratnavibhūṣāḍhyo",
+     "gloss": "adorned-with-nine-gems",
+     "grounds": "describes ornamentation with nine gems",
+     "morph": "compound: navaratna+vibhūṣā+āḍhya; m.nom.sg"
+    },
+    {
+     "surface": "raktāmbaravirājitaḥ",
+     "gloss": "shining-in-red-garment",
+     "grounds": "describes attire of red cloth",
+     "morph": "compound: rakta+ambara+virājita; m.nom.sg"
+    }
+   ],
+   "question": "What specific ornaments and garments distinguish the practitioner's appearance?",
+   "premises": [
+    "The practitioner wears ornaments of nine gems.",
+    "The practitioner is clothed in red garments.",
+    "These features make the practitioner shine."
+   ],
+   "inference": "The practitioner should be adorned with nine gems and shine in red garments.",
+   "uncertainties": [],
+   "plain_english": "Adorned with the nine gems and shining in red garments."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "yāgamaṇḍapamāsādya",
+     "gloss": "having-reached-worship-pavilion",
+     "grounds": "indicates arrival at the ritual space",
+     "morph": "compound: yāga+maṇḍapa+āsādya; gerund; ā+√sad"
+    },
+    {
+     "surface": "lākṣācitravicitritam",
+     "gloss": "variegated-with-lac-designs",
+     "grounds": "describes the decoration of the pavilion",
+     "morph": "compound: lākṣā+citra+vicitrita; m.acc.sg"
+    }
+   ],
+   "question": "What kind of ritual pavilion should the practitioner enter?",
+   "premises": [
+    "The practitioner reaches the worship pavilion.",
+    "The pavilion is decorated with lac designs.",
+    "The decoration makes it variegated."
+   ],
+   "inference": "The practitioner should enter a worship pavilion decorated with variegated lac designs.",
+   "uncertainties": [],
+   "plain_english": "Having reached the worship pavilion, which is variegated with lac-painted designs."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "gomayena+ca",
+     "gloss": "and-with-cow-dung",
+     "grounds": "instrumental indicating smearing substance",
+     "morph": "compound: gomaya+ca; n.ins.sg"
+    },
+    {
+     "surface": "saṃliptaṃ",
+     "gloss": "smeared",
+     "grounds": "describes the prepared surface",
+     "morph": "n.acc.sg.past-passive-participle; sam+√lip"
+    },
+    {
+     "surface": "cārupuṣpavitānitam",
+     "gloss": "strewn-with-beautiful-flowers",
+     "grounds": "describes floral decoration",
+     "morph": "compound: cāru+puṣpa+vitānita; n.acc.sg"
+    }
+   ],
+   "question": "How should the ritual space be prepared before the rite?",
+   "premises": [
+    "The space is smeared with cow dung.",
+    "The space is decorated with beautiful flowers.",
+    "These preparations ready the pavilion."
+   ],
+   "inference": "The ritual space should be smeared with cow dung and strewn with beautiful flowers.",
+   "uncertainties": [],
+   "plain_english": "It should be smeared with cow dung and strewn with beautiful flowers."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "mantroddhāraṃ",
+     "gloss": "mantra-extraction",
+     "grounds": "names the ritual act of extracting the mantra",
+     "morph": "compound: mantra+uddhāra; m.acc.sg"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive instruction for the rite",
+     "morph": "3.sg.opt.mid; pra+√kṛ"
+    },
+    {
+     "surface": "sarvakāryārthasiddhaye",
+     "gloss": "for-success-of-all-aims",
+     "grounds": "states the purpose of the act",
+     "morph": "compound: sarva+kārya+artha+siddhi; f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should the extraction of the mantra be performed?",
+   "premises": [
+    "The prescribed act is mantra extraction.",
+    "It is to be performed as a ritual instruction.",
+    "Its purpose is the success of all aims and tasks."
+   ],
+   "inference": "One should perform mantra extraction to accomplish the success of all aims.",
+   "uncertainties": [],
+   "plain_english": "One should perform the extraction of the mantra for the success of all aims."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "kumāryāstu",
+     "gloss": "but-of-kumari",
+     "grounds": "introduces the subject of Kumārī; sandhi kumāryāḥ+tu",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal position in the sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripurā",
+     "gloss": "tripura",
+     "grounds": "name of the goddess form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which goddess form is identified as the third in the Kumārī sequence?",
+   "premises": [
+    "The sequence concerns Kumārī.",
+    "The third position is specified.",
+    "That third is identified as Tripurā."
+   ],
+   "inference": "In the Kumārī sequence, the third is identified as Tripurā.",
+   "uncertainties": [],
+   "plain_english": "O supreme Goddess, the third of Kumārī is Tripurā."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "kumārī",
+     "gloss": "kumari",
+     "grounds": "names the goddess form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "ordinal position in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "pronoun.f.nom.sg"
+    },
+    {
+     "surface": "tripureśī",
+     "gloss": "tripureshi",
+     "grounds": "name of the goddess form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which goddess form is identified as the second in the Kumārī sequence?",
+   "premises": [
+    "The sequence concerns Kumārī.",
+    "The second position is specified.",
+    "That second is identified as Tripureśī."
+   ],
+   "inference": "In the Kumārī sequence, the second is identified as Tripureśī.",
+   "uncertainties": [],
+   "plain_english": "O great Goddess, the second Kumārī is she, Tripureśī."
+  }
+ ]
+}

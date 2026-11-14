@@ -83,7 +83,7 @@
 },
 {
 "surface": "rūpiṇī",
-"quick_gloss": "in-the-form-of"
+"quick_gloss": "form-possessing"
 },
 {
 "surface": "śakti+saṃyutam",
@@ -116,7 +116,7 @@
 },
 {
 "surface": "aṣṭa+patreṣu",
-"quick_gloss": "on-the-eight-petals"
+"quick_gloss": "in-the-eight-petals"
 },
 {
 "surface": "pūjayet",
@@ -148,11 +148,11 @@
 "quick_gloss": "noose"
 },
 {
-"surface": "aṅkuśam",
+"surface": "aṅkuśañca",
 "quick_gloss": "and-goad"
 },
 {
-"surface": "ca+abhito",
+"surface": "abhito",
 "quick_gloss": "on-all-sides"
 },
 {
@@ -169,19 +169,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktīḥ",
+"surface": "śaktīr+aṣṭvā",
 "quick_gloss": "eight-śaktis"
-},
-{
-"surface": "aṣṭa",
-"quick_gloss": "eight"
 },
 {
 "surface": "atha",
 "quick_gloss": "then"
 },
 {
-"surface": "tat+madhye",
+"surface": "tan+madhye",
 "quick_gloss": "in-their-middle"
 },
 {
@@ -211,7 +207,7 @@
 },
 {
 "surface": "pota+parītaṃ",
-"quick_gloss": "surrounded-by-boat"
+"quick_gloss": "by-boat+surrounded"
 },
 {
 "surface": "dvīpam",
@@ -269,7 +265,7 @@
 "tokens": [
 {
 "surface": "namaḥ+antaiḥ",
-"quick_gloss": "ending-with-namaḥ"
+"quick_gloss": "with-namaḥ+ending"
 },
 {
 "surface": "nāmabhiḥ",
@@ -301,12 +297,8 @@
 "quick_gloss": "by-the-third"
 },
 {
-"surface": "iti",
-"quick_gloss": "thus"
-},
-{
-"surface": "arthaḥ",
-"quick_gloss": "meaning"
+"surface": "iti+arthaḥ",
+"quick_gloss": "thus+meaning"
 }
 ]
 },
@@ -368,7 +360,7 @@
 },
 {
 "surface": "īśvari",
-"quick_gloss": "O-Goddess"
+"quick_gloss": "O-Īśvarī"
 }
 ]
 },
@@ -381,15 +373,15 @@
 "tokens": [
 {
 "surface": "pañcaviṃśa+arṇa+mūlena",
-"quick_gloss": "with-the-twenty-five-syllable-root"
+"quick_gloss": "with-twenty-five+syllable+root-mantra"
 },
 {
 "surface": "pūjā+ante",
-"quick_gloss": "at-the-end-of-worship"
+"quick_gloss": "at-worship+end"
 },
 {
 "surface": "parama+īśvari",
-"quick_gloss": "O-Supreme-Goddess"
+"quick_gloss": "O-supreme-goddess"
 }
 ]
 },
@@ -439,11 +431,11 @@
 "tokens": [
 {
 "surface": "rayaḥ",
-"quick_gloss": "ra"
+"quick_gloss": "ra-ya"
 },
 {
 "surface": "dharā+anvitaḥ",
-"quick_gloss": "endowed-with-dharā"
+"quick_gloss": "with-dharā"
 },
 {
 "surface": "paścāt",
@@ -451,11 +443,11 @@
 },
 {
 "surface": "raya+yugmaṃ",
-"quick_gloss": "pair-of-ra"
+"quick_gloss": "ra-pair"
 },
 {
 "surface": "marut+yutam",
-"quick_gloss": "joined-with-maru"
+"quick_gloss": "with-marut"
 }
 ]
 },
@@ -471,20 +463,20 @@
 "quick_gloss": "sixth"
 },
 {
-"surface": "tad",
-"quick_gloss": "then"
-},
-{
-"surface": "aṣṭamaṃ",
-"quick_gloss": "eighth"
+"surface": "tat+aṣṭamaṃ",
+"quick_gloss": "then+eighth"
 },
 {
 "surface": "vidyāt",
 "quick_gloss": "one-should-know"
 },
 {
-"surface": "hṛd+ambu+marut+anvitam",
-"quick_gloss": "endowed-with-hṛd-ambu-maru"
+"surface": "hṛd+ambu",
+"quick_gloss": "heart-lotus"
+},
+{
+"surface": "marut+anvitam",
+"quick_gloss": "with-marut"
 }
 ]
 },
@@ -504,12 +496,8 @@
 "quick_gloss": "as"
 },
 {
-"surface": "hrīḥ śrīḥ ikṣusāgarāya namaḥ",
-"quick_gloss": "hrīḥ śrīḥ ikṣusāgarāya namaḥ"
-},
-{
-"surface": "iti+ādayaḥ",
-"quick_gloss": "and-so-on"
+"surface": "hrīḥ śrīḥ ikṣusāgarāya namaḥ ityādayaḥ",
+"quick_gloss": "hrīḥ śrīḥ ikṣusāgarāya namaḥ ityādayaḥ"
 }
 ]
 },
@@ -530,11 +518,11 @@
 },
 {
 "surface": "śeṣaḥ",
-"quick_gloss": "remainder"
+"quick_gloss": "ellipsis"
 },
 {
 "surface": "īśvari",
-"quick_gloss": "O-Īśvarī"
+"quick_gloss": "O-Īśvara"
 },
 {
 "surface": "iti",
@@ -542,7 +530,7 @@
 },
 {
 "surface": "devī+sambuddhiḥ",
-"quick_gloss": "vocative-of-the-goddess"
+"quick_gloss": "goddess-vocative"
 }
 ]
 },
@@ -555,11 +543,11 @@
 "tokens": [
 {
 "surface": "svatantra+pūjā+kramam",
-"quick_gloss": "independent-worship-procedure"
+"quick_gloss": "independent+worship+procedure"
 },
 {
 "surface": "upadiśati",
-"quick_gloss": "he-teaches"
+"quick_gloss": "teaches"
 }
 ]
 },
@@ -572,7 +560,7 @@
 "tokens": [
 {
 "surface": "anayā",
-"quick_gloss": "with-this"
+"quick_gloss": "by-this"
 },
 {
 "surface": "asyā",
@@ -588,11 +576,11 @@
 },
 {
 "surface": "vidyayā",
-"quick_gloss": "with-the-vidyā"
+"quick_gloss": "by-vidyā"
 },
 {
 "surface": "parama+īśvari",
-"quick_gloss": "O-Supreme-Goddess"
+"quick_gloss": "O-supreme-goddess"
 }
 ]
 },
@@ -616,7 +604,7 @@
 "quick_gloss": "everywhere"
 },
 {
-"surface": "bādhaḥ",
+"surface": "bādho",
 "quick_gloss": "obstacle"
 },
 {
@@ -646,11 +634,11 @@
 },
 {
 "surface": "bahu+varṇābhiḥ",
-"quick_gloss": "by-many-colors"
+"quick_gloss": "by-many+colors"
 },
 {
 "surface": "bahu+rūpābhiḥ",
-"quick_gloss": "by-many-forms"
+"quick_gloss": "by-many+forms"
 },
 {
 "surface": "āvṛtām",
@@ -667,11 +655,11 @@
 "tokens": [
 {
 "surface": "ratna+pādukayoḥ",
-"quick_gloss": "on-the-jewel-sandals"
+"quick_gloss": "in-jewel+sandals"
 },
 {
 "surface": "nyasta+pada+ambuja+yugāṃ",
-"quick_gloss": "placed-lotus-feet-pair"
+"quick_gloss": "placed+lotus-feet+pair"
 },
 {
 "surface": "smaret",
@@ -700,7 +688,7 @@
 },
 {
 "surface": "anna+ājyābhyāṃ",
-"quick_gloss": "with-food+clarified-butter"
+"quick_gloss": "with-food+ghee"
 },
 {
 "surface": "ghṛtena",

@@ -3,19 +3,34 @@
  "verse": 116,
  "rows": [
   {
-   "lemma": "dīkṣām+upadiśet",
-   "morph": "acc.sg.f + 3.sg.opt.act (upa√diś)",
-   "grounds": "optative verb with its object; compound retained as one token"
+   "lemma": "yasya",
+   "morph": "m.gen.sg",
+   "grounds": "relative pronoun"
   },
   {
-   "lemma": "bhūyas",
+   "lemma": "vijñānamātreṇa",
+   "morph": "compound",
+   "grounds": "compound: vijñāna-mātreṇa"
+  },
+  {
+   "lemma": "brahma",
+   "morph": "n.nom.sg",
+   "grounds": "nominal base brahman"
+  },
+  {
+   "lemma": "sākṣānna",
    "morph": "(indecl.)",
-   "grounds": "indicates repetition or continuation in the sequence"
+   "grounds": "sākṣāt with sandhi to na"
   },
   {
-   "lemma": "liṅga+rūpa+mano+layām",
-   "morph": "acc.sg.f (compound: liṅga+rūpa+manas+laya)",
-   "grounds": "qualifies the initiation as absorption of mind in the form of the liṅga"
+   "lemma": "na",
+   "morph": "(indecl.)",
+   "grounds": "indeclinable negation"
+  },
+  {
+   "lemma": "saṃśayaḥ",
+   "morph": "m.nom.sg",
+   "grounds": "nominal base saṃśaya"
   }
  ]
 }

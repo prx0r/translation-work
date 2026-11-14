@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p05",
  "verse": 122,
- "question": "What is the nature of the established Shambhavi phase pervading body, breath, and self?",
+ "question": "What syllable counts are assigned to the Vaiṣṇavī and Śaivī forms here?",
  "premises": [
-  "A phase called śāmbhavī is present.",
-  "It is well established.",
-  "It thoroughly pervades body, breath, and self."
+  "The Vaiṣṇavī form is described as having nineteen syllables.",
+  "The Śaivī form is described as having seventeen syllables."
  ],
- "inference": "The established śāmbhavī phase thoroughly pervades body, breath, and self.",
- "uncertainties": [],
- "plain_english": "The established śāmbhavī phase thoroughly pervades body, breath, and self."
+ "inference": "Vaiṣṇavī and Śaivī are distinguished by nineteen and seventeen syllables respectively.",
+ "uncertainties": [
+  "The tokenization repeats the syllable-count element within the first compound."
+ ],
+ "plain_english": "The Vaiṣṇavī has nineteen syllables, and the Śaivī has seventeen syllables."
 }

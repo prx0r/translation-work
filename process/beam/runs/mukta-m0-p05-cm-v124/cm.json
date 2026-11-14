@@ -3,29 +3,34 @@
  "verse": 124,
  "rows": [
   {
-   "lemma": "prāṇa+pratiṣṭhā+mantram",
-   "morph": "acc.sg.m (compound: prāṇa+pratiṣṭhā+mantra)",
-   "grounds": "names the mantra for establishing breath; compound retained as one token"
+   "lemma": "praṇavaṃ",
+   "morph": "m.acc.sg",
+   "grounds": "nominal base praṇava"
+  },
+  {
+   "lemma": "bhuvaneśānīṃ",
+   "morph": "f.acc.sg",
+   "grounds": "nominal base bhuvaneśānī"
+  },
+  {
+   "lemma": "ramāṃ",
+   "morph": "f.acc.sg",
+   "grounds": "nominal base ramā"
   },
   {
    "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "connective particle"
+   "grounds": "indeclinable conjunction"
   },
   {
-   "lemma": "mūla+mantram",
-   "morph": "acc.sg.m (compound: mūla+mantra)",
-   "grounds": "names the root mantra as an additional object"
-  },
-  {
-   "lemma": "pathet",
-   "morph": "3.sg.opt.act (√paṭh)",
-   "grounds": "optative prescribing recitation"
-  },
-  {
-   "lemma": "api",
+   "lemma": "eva",
    "morph": "(indecl.)",
-   "grounds": "particle indicating inclusion"
+   "grounds": "indeclinable particle"
+  },
+  {
+   "lemma": "maheśvari",
+   "morph": "f.voc.sg",
+   "grounds": "vocative form"
   }
  ]
 }

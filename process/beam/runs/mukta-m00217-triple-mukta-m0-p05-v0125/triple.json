@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "vyutkramāt",
+     "gloss": "in-reverse-order",
+     "grounds": "ablative of vyutkrama indicating reversal of the sequence given in the preceding verses",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address to the goddess in the revelatory dialogue",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pūrvoktaṃ",
+     "gloss": "previously-stated",
+     "grounds": "compound adjective qualifying bījapañcakam, referring to the five seed-syllables enumerated earlier",
+     "morph": "n.nom.sg (pūrva+ukta)"
+    },
+    {
+     "surface": "bījapañcakam",
+     "gloss": "seed-syllable-pentad",
+     "grounds": "compound noun denoting the group of five seed-syllables",
+     "morph": "n.nom.sg (bīja+pañcaka)"
+    }
+   ],
+   "question": "In what sequence must the previously stated pentad of seed-syllables be arranged?",
+   "premises": [
+    "The preceding verses enumerate five seed-syllables in a specific sequence.",
+    "The term vyutkramāt explicitly indicates reversal of that sequence.",
+    "The previously stated pentad is the object to be arranged."
+   ],
+   "inference": "The previously stated pentad of seed-syllables must be taken in reverse order.",
+   "uncertainties": [],
+   "plain_english": "O Supreme Goddess, take the previously stated group of five seed-syllables in reverse order."
+  }
+ ]
+}
