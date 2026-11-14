@@ -1,0 +1,973 @@
+{
+ "song": "mukta-m0-p248",
+ "items": [
+  {
+   "verse": 6176,
+   "rows": [
+    {
+     "surface": "madhyapatra",
+     "gloss": "middle-leaf",
+     "grounds": "compound referring to the central petal or leaf",
+     "morph": "compound"
+    },
+    {
+     "surface": "samāyātaṃ",
+     "gloss": "arrived",
+     "grounds": "past participle indicating extension or arrival",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripādena",
+     "gloss": "by-three-parts",
+     "grounds": "instrumental indicating measure of three parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ardhato'pi",
+     "gloss": "or-by-half",
+     "grounds": "ablative with enclitic particle indicating alternative half measure",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What alternative measurements may govern the extent reaching the middle leaf?",
+   "premises": [
+    "The middle leaf is the reference point",
+    "Extent may be measured by three parts",
+    "Extent may alternatively be measured by half"
+   ],
+   "inference": "The reach to the middle leaf admits either a three-part or a half measure.",
+   "uncertainties": [
+    "Exact unit of the three-part or half measure is not specified"
+   ],
+   "plain_english": "It may reach the middle leaf by three parts, or alternatively by half."
+  },
+  {
+   "verse": 6177,
+   "rows": [
+    {
+     "surface": "vistārocc",
+     "gloss": "width-and-height",
+     "grounds": "compound combining breadth and height",
+     "morph": "compound"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adjective indicating equality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvad",
+     "gloss": "in-that-way",
+     "grounds": "adverb indicating similarity to prior measure",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vistāra",
+     "gloss": "width",
+     "grounds": "noun referring to breadth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samameva",
+     "gloss": "equal-only",
+     "grounds": "adjective with emphatic particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What proportional relationships between width and height are permitted in this design?",
+   "premises": [
+    "Width and height may be made equal",
+    "The same proportion may be applied accordingly",
+    "Width alone may alternatively be kept equal"
+   ],
+   "inference": "The design allows either equal width and height or an equal width proportion.",
+   "uncertainties": [
+    "The exact reference for 'in that way' depends on prior context"
+   ],
+   "plain_english": "The width and height may be equal in that way, or the width alone may be equal."
+  },
+  {
+   "verse": 6178,
+   "rows": [
+    {
+     "surface": "pādabhūṣaṇa",
+     "gloss": "foot-ornament",
+     "grounds": "compound denoting decorative elements at the base",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍyādi",
+     "gloss": "adornment-and-others",
+     "grounds": "compound with adi indicating similar decorative items",
+     "morph": "compound"
+    },
+    {
+     "surface": "patrādho",
+     "gloss": "below-leaf",
+     "grounds": "compound indicating position beneath the leaf",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative placement",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative verb prescribing arrangement",
+     "morph": "3.sg.optative-active √kḷp"
+    }
+   ],
+   "question": "Where should foot ornaments and similar adornments be arranged in the design?",
+   "premises": [
+    "Foot ornaments and similar adornments are to be made",
+    "Their placement may be below the leaf",
+    "The arrangement is prescribed as an option"
+   ],
+   "inference": "One should arrange foot ornaments and similar adornments below the leaf.",
+   "uncertainties": [],
+   "plain_english": "One should arrange foot ornaments, adornments, and the like below the leaf."
+  },
+  {
+   "verse": 6179,
+   "rows": [
+    {
+     "surface": "triśūlāparabhāge",
+     "gloss": "on-other-side-of-trident",
+     "grounds": "compound locative indicating the opposite part of the trident",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vṛṣabhaṃ",
+     "gloss": "bull",
+     "grounds": "accusative object denoting the bull figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle indicating an option",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-draw",
+     "grounds": "optative verb prescribing drawing",
+     "morph": "3.sg.optative-active √likh"
+    }
+   ],
+   "question": "What figure may be drawn on the other side of the trident?",
+   "premises": [
+    "The location specified is the other side of the trident",
+    "A bull is the figure to be depicted",
+    "Drawing it is presented as an option"
+   ],
+   "inference": "One may draw a bull on the other side of the trident.",
+   "uncertainties": [],
+   "plain_english": "On the other side of the trident, one may draw a bull."
+  },
+  {
+   "verse": 6180,
+   "rows": [
+    {
+     "surface": "pūrvabhāge",
+     "gloss": "in-eastern-part",
+     "grounds": "locative compound indicating the eastern side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pare",
+     "gloss": "on-other",
+     "grounds": "locative adjective indicating the opposite or further side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "accusative object denoting the staff",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "compound locative indicating position above the staff",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śūlam",
+     "gloss": "trident",
+     "grounds": "accusative object denoting the trident",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-place",
+     "grounds": "optative verb prescribing placement or execution",
+     "morph": "3.sg.optative-active √car"
+    }
+   ],
+   "question": "How should the staff and trident be positioned on the eastern and upper parts?",
+   "premises": [
+    "The eastern or other part is the location for the staff",
+    "Above that staff the trident is to be placed",
+    "The placement is prescribed"
+   ],
+   "inference": "One should place the staff in the eastern part and the trident above it.",
+   "uncertainties": [
+    "The exact sense of 'pare' as other or further is context-dependent"
+   ],
+   "plain_english": "In the eastern part one should place the staff, and above it one should place the trident."
+  },
+  {
+   "verse": 6181,
+   "rows": [
+    {
+     "surface": "sudṛḍhaṃ",
+     "gloss": "very-firmly",
+     "grounds": "adverbial adjective indicating firmness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāpayecchūlaṃ",
+     "gloss": "one-should-establish-trident",
+     "grounds": "optative verb with object fused by sandhi",
+     "morph": "3.sg.optative-causative-active √sthā"
+    },
+    {
+     "surface": "tatpratiṣṭhā",
+     "gloss": "that-installation",
+     "grounds": "compound noun naming the act of installation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "passive verb indicating designation",
+     "morph": "3.sg.present-passive √gad"
+    }
+   ],
+   "question": "What ritual designation applies to firmly establishing the trident?",
+   "premises": [
+    "The trident must be established firmly",
+    "This act has a specific ritual name",
+    "The name given is installation"
+   ],
+   "inference": "Firmly establishing the trident is called its installation.",
+   "uncertainties": [],
+   "plain_english": "One should establish the trident very firmly; that is called its installation."
+  },
+  {
+   "verse": 6182,
+   "rows": [
+    {
+     "surface": "proktakālarkṣa",
+     "gloss": "stated-time-asterism",
+     "grounds": "compound referring to previously prescribed time and lunar mansion",
+     "morph": "compound"
+    },
+    {
+     "surface": "vārādyaṃ",
+     "gloss": "weekday-and-so-on",
+     "grounds": "compound with adi indicating weekday and other time factors",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadvadevāṅkurārpaṇam",
+     "gloss": "likewise-sprout-offering",
+     "grounds": "compound with emphatic particle indicating same procedure for sprout offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the timing of the sprout offering be determined in this rite?",
+   "premises": [
+    "Time, asterism, and weekday were previously stated",
+    "The sprout offering follows the same timing",
+    "The procedure is to be applied likewise"
+   ],
+   "inference": "The sprout offering should be performed at the same previously stated time, asterism, and weekday.",
+   "uncertainties": [
+    "The specific earlier passage defining the timing is not cited here"
+   ],
+   "plain_english": "The sprout offering should be done in the same way, at the previously stated time, asterism, weekday, and so on."
+  },
+  {
+   "verse": 6183,
+   "rows": [
+    {
+     "surface": "padmasaṃghāta",
+     "gloss": "lotus-cluster",
+     "grounds": "compound denoting a group or arrangement of lotuses",
+     "morph": "compound"
+    },
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-method",
+     "grounds": "instrumental indicating the procedure or path",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "cordhvādhaḥ",
+     "gloss": "and-above-below",
+     "grounds": "indeclinable compound with initial sandhi indicating upper and lower parts",
+     "morph": "indecl."
+    },
+    {
+     "surface": "khaṇḍayorapi",
+     "gloss": "also-in-two-parts",
+     "grounds": "locative dual with enclitic particle indicating both sections",
+     "morph": "n.loc.dual"
+    }
+   ],
+   "question": "By what method should the upper and lower sections be treated in the lotus-cluster arrangement?",
+   "premises": [
+    "The lotus-cluster method is the guiding procedure",
+    "Both upper and lower sections are included",
+    "The two parts are to be treated accordingly"
+   ],
+   "inference": "The upper and lower sections should be handled by the lotus-cluster method.",
+   "uncertainties": [
+    "The specific action applied to the sections is implied rather than stated"
+   ],
+   "plain_english": "By the lotus-cluster method, in both the upper and lower sections as well."
+  },
+  {
+   "verse": 6184,
+   "rows": [
+    {
+     "surface": "acala",
+     "gloss": "immovable",
+     "grounds": "adjective qualifying the type of installation",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "installation",
+     "grounds": "noun denoting the act of establishing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cettu",
+     "gloss": "if-indeed",
+     "grounds": "conditional particle with emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ratnanyāsaṃ",
+     "gloss": "gem-deposit",
+     "grounds": "compound noun denoting placement of gems",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "optative causative verb prescribing the action",
+     "morph": "3.sg.optative-causative-active √kṛ"
+    }
+   ],
+   "question": "What additional ritual action is required when performing an immovable installation?",
+   "premises": [
+    "The installation may be of the immovable type",
+    "A gem deposit is a possible ritual action",
+    "The action is prescribed conditionally"
+   ],
+   "inference": "If the installation is immovable, one should have the gem deposit performed.",
+   "uncertainties": [],
+   "plain_english": "If it is an immovable installation, one should have the gem deposit performed."
+  },
+  {
+   "verse": 6185,
+   "rows": [
+    {
+     "surface": "śuddhiṃ",
+     "gloss": "purification",
+     "grounds": "accusative noun denoting ritual cleansing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior completion",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mṛdādyaistu",
+     "gloss": "with-clay-and-others",
+     "grounds": "instrumental plural with adi and emphatic particle indicating materials",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "purādīnāṃ",
+     "gloss": "of-city-and-others",
+     "grounds": "genitive plural with adi indicating places to be circumambulated",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "accusative noun denoting clockwise movement",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What preparatory acts precede circumambulation of the city and related sites?",
+   "premises": [
+    "Purification must be performed first",
+    "Clay and other materials are used in purification",
+    "Circumambulation of the city and other places follows"
+   ],
+   "inference": "After performing purification with clay and other materials, one should circumambulate the city and related sites.",
+   "uncertainties": [],
+   "plain_english": "Having performed purification with clay and other materials, one should circumambulate the city and other places."
+  },
+  {
+   "verse": 6186,
+   "rows": [
+    {
+     "surface": "pūrvoktamānaṃ",
+     "gloss": "previously-stated-measure",
+     "grounds": "compound adjective referring to earlier prescribed dimensions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūtekagrahakuṇḍa",
+     "gloss": "element-single-fire-pit",
+     "grounds": "compound indicating a fire pit associated with elements or a single planet",
+     "morph": "compound"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "past participle indicating accompaniment or inclusion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What specifications must the fire pit arrangement satisfy according to prior instruction?",
+   "premises": [
+    "The measure was stated previously",
+    "A fire pit of a specified type is required",
+    "The arrangement must be endowed with these features"
+   ],
+   "inference": "The arrangement should follow the previously stated measure and include the specified fire pit.",
+   "uncertainties": [
+    "The precise meaning of bhūtekagraha in this compound is unclear"
+   ],
+   "plain_english": "It should be of the previously stated measure and endowed with the specified fire pit."
+  },
+  {
+   "verse": 6187,
+   "rows": [
+    {
+     "surface": "vāstu",
+     "gloss": "site-ritual",
+     "grounds": "compound element referring to the vāstu rite",
+     "morph": "compound"
+    },
+    {
+     "surface": "homasamāyuktaṃ",
+     "gloss": "joined-with-fire-offering",
+     "grounds": "compound adjective indicating accompaniment by homa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vedyāṃ",
+     "gloss": "on-altar",
+     "grounds": "locative noun indicating the ritual platform",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sthaṇḍila",
+     "gloss": "prepared-ground",
+     "grounds": "compound element referring to a ritual platform",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined-with",
+     "grounds": "past participle indicating inclusion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual components must be combined on the altar during this stage?",
+   "premises": [
+    "A vāstu fire offering is required",
+    "The rite takes place on the altar",
+    "A prepared ritual ground is included"
+   ],
+   "inference": "The altar should be prepared with a ritual ground and accompanied by the vāstu fire offering.",
+   "uncertainties": [],
+   "plain_english": "It should be accompanied by the vāstu fire offering, on the altar together with a prepared ritual ground."
+  },
+  {
+   "verse": 6188,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "biṃbaṃ",
+     "gloss": "image",
+     "grounds": "accusative noun denoting the sacred image",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samānīya",
+     "gloss": "having-brought",
+     "grounds": "absolutive indicating prior action",
+     "morph": "indecl."
+    },
+    {
+     "surface": "snāpayetpūrvavartmanā",
+     "gloss": "one-should-bathe-by-prior-method",
+     "grounds": "optative causative verb fused with instrumental indicating earlier procedure",
+     "morph": "3.sg.optative-causative-active √snā"
+    }
+   ],
+   "question": "What procedure should be followed to bathe the image after bringing it?",
+   "premises": [
+    "The image is brought after prior steps",
+    "Bathing is the next prescribed action",
+    "The bathing follows the previously described method"
+   ],
+   "inference": "After bringing the image, one should bathe it according to the earlier method.",
+   "uncertainties": [],
+   "plain_english": "Then, having brought the image, one should bathe it according to the previous method."
+  },
+  {
+   "verse": 6189,
+   "rows": [
+    {
+     "surface": "bere",
+     "gloss": "on-image",
+     "grounds": "locative noun referring to the image",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "conjunctive particles with emphasis",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bandhayet",
+     "gloss": "one-should-bind",
+     "grounds": "optative verb prescribing tying",
+     "morph": "3.sg.optative-causative-active √bandh"
+    },
+    {
+     "surface": "kautukaṃ",
+     "gloss": "protective-thread",
+     "grounds": "accusative noun denoting the ritual thread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "nominative noun denoting the officiating preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should bind the protective thread on the image during this rite?",
+   "premises": [
+    "The protective thread is to be bound",
+    "The image is the locus of binding",
+    "The teacher is the agent of the rite"
+   ],
+   "inference": "The teacher should bind the protective thread on the image.",
+   "uncertainties": [
+    "The repeated ca/caiva may imply another object not explicitly named in this verse"
+   ],
+   "plain_english": "And the teacher should bind the protective thread on the image."
+  },
+  {
+   "verse": 6190,
+   "rows": [
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "absolutive indicating prior covering action",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śveta+raktābhyāṃ",
+     "gloss": "with-white-and-red",
+     "grounds": "instrumental dual compound indicating two colors",
+     "morph": "n.inst.dual"
+    },
+    {
+     "surface": "vāsobhyāmastramuccaran",
+     "gloss": "with-cloths-uttering-weapon-mantra",
+     "grounds": "compound with instrumental dual and present participle indicating covering with cloths while uttering the astra mantra",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the image be covered while reciting the weapon mantra?",
+   "premises": [
+    "The image is to be covered",
+    "White and red cloths are used",
+    "The weapon mantra is uttered during the act"
+   ],
+   "inference": "One should cover the image with white and red cloths while uttering the weapon mantra.",
+   "uncertainties": [],
+   "plain_english": "Having covered it with white and red cloths, while uttering the weapon mantra."
+  },
+  {
+   "verse": 6191,
+   "rows": [
+    {
+     "surface": "śivāstraṃ",
+     "gloss": "śiva-weapon",
+     "grounds": "accusative noun denoting the Śiva weapon deity or mantra form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃyajettatra",
+     "gloss": "one-should-worship-there",
+     "grounds": "optative verb fused with locative adverb indicating worship at that place",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "caturbāhvindu",
+     "gloss": "four-armed-moon-marked",
+     "grounds": "compound describing iconographic features",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūṣitam",
+     "gloss": "adorned",
+     "grounds": "past participle describing the form as adorned",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What form of the Śiva weapon should be worshipped at that location?",
+   "premises": [
+    "The Śiva weapon is the object of worship",
+    "Worship takes place there",
+    "The form is four-armed, moon-marked, and adorned"
+   ],
+   "inference": "One should worship there the adorned Śiva weapon, four-armed and marked with the moon.",
+   "uncertainties": [
+    "The element 'indu' may refer to a crescent mark or moon ornament"
+   ],
+   "plain_english": "There one should worship the Śiva weapon, adorned, four-armed and marked with the moon."
+  },
+  {
+   "verse": 6192,
+   "rows": [
+    {
+     "surface": "svāsye",
+     "gloss": "in-own-face",
+     "grounds": "locative compound indicating the deity's own mouth or face",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daṃṣṭrānvitaṃ",
+     "gloss": "endowed-with-fangs",
+     "grounds": "compound adjective describing the face",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "spear",
+     "grounds": "first member of compound listing attributes held",
+     "morph": "compound"
+    },
+    {
+     "surface": "śūlābhayavarānvitam",
+     "gloss": "endowed-with-trident-fearlessness-boon",
+     "grounds": "compound adjective listing trident, fearlessness gesture, and boon gesture",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What facial features and hand attributes characterize the worshipped Śiva weapon form?",
+   "premises": [
+    "The face is described as having fangs",
+    "The form holds a spear and trident",
+    "The form displays fearlessness and boon gestures"
+   ],
+   "inference": "The Śiva weapon form has fangs in its face and bears spear, trident, fearlessness, and boon.",
+   "uncertainties": [],
+   "plain_english": "Its face has fangs, and it is endowed with a spear, trident, the gesture of fearlessness, and the gesture of boon."
+  },
+  {
+   "verse": 6193,
+   "rows": [
+    {
+     "surface": "dviraṣṭa+varṣeṇopetaṃ",
+     "gloss": "endowed-with-sixteen-years",
+     "grounds": "compound indicating an age of twice eight years",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "subhāsaṃ",
+     "gloss": "with-beautiful-smile",
+     "grounds": "compound adjective describing a pleasing expression",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svastikānvitam",
+     "gloss": "endowed-with-swastika",
+     "grounds": "compound adjective indicating presence of the svastika mark",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What age, expression, and auspicious mark define this deity's depicted form?",
+   "premises": [
+    "The form is depicted as sixteen years old",
+    "The form has a beautiful smile",
+    "The form bears the svastika mark"
+   ],
+   "inference": "The deity should be visualized as sixteen years old, smiling beautifully, and marked with a svastika.",
+   "uncertainties": [],
+   "plain_english": "It is sixteen years old, has a beautiful smile, and is marked with a svastika."
+  },
+  {
+   "verse": 6194,
+   "rows": [
+    {
+     "surface": "vṛṣo",
+     "gloss": "bull",
+     "grounds": "nominative noun denoting the bull figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadyasti",
+     "gloss": "if-exists",
+     "grounds": "conditional particle fused with verb indicating presence",
+     "morph": "3.sg.present-active √as"
+    },
+    {
+     "surface": "tatkuṃbhaṃ",
+     "gloss": "that-pot",
+     "grounds": "compound accusative referring to the associated pot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "locative pronoun referring to the group present",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tānarcayetkramāt",
+     "gloss": "one-should-worship-them-in-order",
+     "grounds": "optative verb fused with pronoun and ablative indicating sequential worship",
+     "morph": "3.sg.optative-causative-active √arc"
+    }
+   ],
+   "question": "How should worship proceed when a bull and its associated pot are present?",
+   "premises": [
+    "The presence of a bull is a condition",
+    "A pot associated with it is included",
+    "Worship of them must follow proper order"
+   ],
+   "inference": "If a bull is present, one should worship it and its pot among them in due order.",
+   "uncertainties": [
+    "The referent of 'among them' depends on prior context"
+   ],
+   "plain_english": "If a bull is present, one should worship that pot and them in due order."
+  },
+  {
+   "verse": 6195,
+   "rows": [
+    {
+     "surface": "tatva+tatveśvaropetaṃ",
+     "gloss": "endowed-with-principle-and-principle-lord",
+     "grounds": "compound adjective indicating presence of tattva and its lord",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūrtimūrtīśvarānnyaset",
+     "gloss": "one-should-install-form-and-form-lords",
+     "grounds": "optative verb fused with accusative objects indicating installation of mūrti and mūrteśvaras",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "What entities must be installed together with the principle and its lord?",
+   "premises": [
+    "The principle and its lord are included",
+    "The form and form-lords are to be installed",
+    "Installation is prescribed as a ritual act"
+   ],
+   "inference": "One should install the form and form-lords together with the principle and its lord.",
+   "uncertainties": [],
+   "plain_english": "One should install the form and the lords of forms, together with the principle and the lord of the principle."
+  },
+  {
+   "verse": 6196,
+   "rows": [
+    {
+     "surface": "daṇḍamadhyāgra+patrāntaṃ",
+     "gloss": "from-staff-middle-tip-to-leaf-end",
+     "grounds": "compound indicating the span from middle and tip of staff to end of leaf",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatvatatveśvarānyaset",
+     "gloss": "one-should-install-principle-and-principle-lords",
+     "grounds": "optative verb fused with accusative objects indicating installation of tattvas and tattveśvaras",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "Over what spatial range should the principles and their lords be installed?",
+   "premises": [
+    "A span from staff middle and tip to leaf end is specified",
+    "Principles and their lords are to be installed",
+    "The installation covers that range"
+   ],
+   "inference": "One should install the principles and their lords from the middle and tip of the staff to the end of the leaf.",
+   "uncertainties": [
+    "The exact segmentation of the compound span is interpretive"
+   ],
+   "plain_english": "One should install the principles and the lords of principles from the middle and tip of the staff to the end of the leaf."
+  },
+  {
+   "verse": 6197,
+   "rows": [
+    {
+     "surface": "nyastvaivaṃ",
+     "gloss": "having-installed-thus",
+     "grounds": "absolutive with emphatic particle indicating completion in this manner",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mūrti+mūrtīśāñchivāstraṃ",
+     "gloss": "form-form-lords-and-śiva-weapon",
+     "grounds": "accusative plural and singular fused by sandhi listing installed entities",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vinyased",
+     "gloss": "one-should-place",
+     "grounds": "optative verb prescribing placement",
+     "morph": "3.sg.optative-active √nyas"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "nominative noun denoting the officiating preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should place the Śiva weapon after installing the forms and their lords?",
+   "premises": [
+    "The forms and their lords have been installed thus",
+    "The Śiva weapon is to be placed next",
+    "The teacher is the officiating agent"
+   ],
+   "inference": "Having installed the forms and their lords in this way, the teacher should place the Śiva weapon.",
+   "uncertainties": [],
+   "plain_english": "Having thus installed the forms and the lords of forms, the teacher should place the Śiva weapon."
+  },
+  {
+   "verse": 6198,
+   "rows": [
+    {
+     "surface": "madhya+patre",
+     "gloss": "on-middle-leaf",
+     "grounds": "locative compound indicating the central petal",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyasedrudaṃ",
+     "gloss": "one-should-place-rudra",
+     "grounds": "optative verb fused with accusative object indicating placement of Rudra",
+     "morph": "3.sg.optative-active √nyas"
+    },
+    {
+     "surface": "brahmāṇaṃ",
+     "gloss": "brahmā",
+     "grounds": "accusative noun denoting the deity Brahmā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣapatrake",
+     "gloss": "on-right-leaf",
+     "grounds": "locative compound indicating the right petal",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which deities should be placed on the middle and right leaves respectively?",
+   "premises": [
+    "The middle leaf is a designated location",
+    "Rudra is to be placed on the middle leaf",
+    "Brahmā is to be placed on the right leaf"
+   ],
+   "inference": "One should place Rudra on the middle leaf and Brahmā on the right leaf.",
+   "uncertainties": [],
+   "plain_english": "One should place Rudra on the middle leaf and Brahmā on the right leaf."
+  },
+  {
+   "verse": 6199,
+   "rows": [
+    {
+     "surface": "ṣaṇmukhaṃ",
+     "gloss": "six-faced-one",
+     "grounds": "accusative compound denoting the six-faced deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuṃbhadeśe",
+     "gloss": "in-pot-region",
+     "grounds": "locative compound indicating the area of the pot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle marking continuation or specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuṃbhasyāsye",
+     "gloss": "at-mouth-of-pot",
+     "grounds": "locative compound indicating the opening of the pot",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vināyakam",
+     "gloss": "vināyaka",
+     "grounds": "accusative noun denoting the deity Vināyaka",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should the six-faced deity and Vināyaka be placed in relation to the pot?",
+   "premises": [
+    "The six-faced deity is assigned to the pot region",
+    "Vināyaka is assigned to the mouth of the pot",
+    "Both placements are prescribed in sequence"
+   ],
+   "inference": "One should place the six-faced deity in the pot region and Vināyaka at the mouth of the pot.",
+   "uncertainties": [],
+   "plain_english": "One should place the six-faced one in the region of the pot, and Vināyaka at the mouth of the pot."
+  }
+ ]
+}
