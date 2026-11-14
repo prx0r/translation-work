@@ -1,13 +1,16 @@
 {
  "song": "mukta-m0-p169",
  "verse": 4218,
- "question": "What unprecedented achievement over the ocean secures the hero's fame?",
+ "question": "What qualities describe the result or object?",
  "premises": [
-  "A bridge was bound across the ocean.",
-  "The act was wondrous and unprecedented.",
-  "He is a treasure of fame."
+  "nṛpamānyāṃ means honored by kings",
+  "sarvahṛdyāṃ means pleasing to all hearts",
+  "nānābhogānvitāṃ means endowed with various enjoyments",
+  "śubhām means auspicious"
  ],
- "inference": "Building an unprecedented bridge across the ocean makes the hero a repository of fame.",
- "uncertainties": [],
- "plain_english": "He is a treasure of fame for building a wondrous, unprecedented bridge across the ocean."
+ "inference": "The described result is king-honored, heart-pleasing, enjoyment-endowed, and auspicious.",
+ "uncertainties": [
+  "noun modified omitted"
+ ],
+ "plain_english": "King-honored, pleasing to all hearts, endowed with various enjoyments, auspicious."
 }

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p170",
+ "items": [
+  {
+   "verse": 4250,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "gerund of vidhā; action completed before next step",
+     "morph": "absol. (vidhā)"
+    },
+    {
+     "surface": "taddvayorantān",
+     "gloss": "of-those-two-ends",
+     "grounds": "fused form; parsed as tad-dvayoḥ antān, genitive dual plus accusative plural end",
+     "morph": "gen.du.m + acc.pl.m"
+    },
+    {
+     "surface": "madhyasūtrāntataḥ",
+     "gloss": "from-middle-thread-end",
+     "grounds": "compound madhya-sūtra-anta with ablative suffix -taḥ",
+     "morph": "abl.sg.n (madhya-sūtra-anta)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverbial ablative of krama; sequential performance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the two ends be arranged relative to the middle thread end?",
+   "premises": [
+    "two ends are made first",
+    "middle thread end follows",
+    "arrangement proceeds in order"
+   ],
+   "inference": "the ritual construction proceeds from the two ends to the middle thread end in sequence",
+   "uncertainties": [
+    "exact ritual object unspecified",
+    "sandhi parsing of taddvayorantān uncertain"
+   ],
+   "plain_english": "Having made the two ends, one proceeds from the end of the middle thread in order."
+  }
+ ]
+}

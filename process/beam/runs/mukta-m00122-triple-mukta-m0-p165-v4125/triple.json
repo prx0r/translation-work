@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4125,
+   "rows": [
+    {
+     "surface": "abdād",
+     "gloss": "after-a-year",
+     "grounds": "ablative singular of abda (year)",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "annasamṛddhiḥ",
+     "gloss": "food-prosperity",
+     "grounds": "compound anna (food) + samṛddhi (prosperity), nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "becomes",
+     "grounds": "optative third singular of as (to be)",
+     "morph": "3.sg.opt (as)"
+    },
+    {
+     "surface": "ghṛtāktairvvā",
+     "gloss": "with-ghee-anointed-or",
+     "grounds": "instrumental plural of ghṛtākta (ghee-anointed) plus disjunctive vā (or)",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "madhuplutaḥ",
+     "gloss": "with-honey-soaked",
+     "grounds": "adjective madhu-pluta (honey-soaked), agreeing with the ritual substance",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What anointing or soaking condition yields food prosperity after a year?",
+   "premises": [
+    "Food prosperity arises after a year.",
+    "Ghee-anointed or honey-soaked substances are specified.",
+    "The verse states a conditional ritual result."
+   ],
+   "inference": "The verse links yearly food prosperity to ghee-anointed or honey-soaked ritual substances.",
+   "uncertainties": [
+    "The exact grammatical relation of madhuplutaḥ to ghṛtāktairvvā remains unclear.",
+    "The implied ritual object or offering is not stated in this verse."
+   ],
+   "plain_english": "After a year, food prosperity becomes, with ghee-anointed or honey-soaked substances."
+  }
+ ]
+}

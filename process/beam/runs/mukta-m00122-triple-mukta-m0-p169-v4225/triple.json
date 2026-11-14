@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p169",
+ "items": [
+  {
+   "verse": 4225,
+   "rows": [
+    {
+     "surface": "dadhyannahomād",
+     "gloss": "by-curd-rice-offering",
+     "grounds": "compound dadhyanna + homa in ablative of means",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "annāḍhyaḥ",
+     "gloss": "food-wealthy",
+     "grounds": "compound anna + āḍhya as nominative subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative subject of syāt",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative third singular of as",
+     "morph": "3.sg.act-opt (root as)"
+    },
+    {
+     "surface": "trimāsataḥ",
+     "gloss": "in-three-months",
+     "grounds": "ablative of time from trimāsa",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What offering makes a sādhaka wealthy in food within three months?",
+   "premises": [
+    "dadhyanna homa is the prescribed offering",
+    "the practitioner becomes food-wealthy",
+    "the result occurs within three months"
+   ],
+   "inference": "Offering curd-rice makes the practitioner wealthy in food within three months.",
+   "uncertainties": [
+    "whether trimāsataḥ means within or after three months"
+   ],
+   "plain_english": "By offering curd-rice, the practitioner becomes wealthy in food within three months."
+  }
+ ]
+}
