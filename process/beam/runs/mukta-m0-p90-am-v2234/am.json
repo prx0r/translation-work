@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2234,
- "question": "With which ritual utterance should the oblation be offered?",
+ "question": "Which foot seat ascent and coconut seat items are listed?",
  "premises": [
-  "The utterance vauṣaṭ is specified.",
-  "It functions as the instrument of offering.",
-  "The act of offering is enjoined."
+  "foot seat is named",
+  "ascent is named",
+  "coconut seat is named"
  ],
- "inference": "One should offer the oblation with this utterance, vauṣaṭ.",
- "uncertainties": [],
- "plain_english": "One should offer the oblation with the utterance vauṣaṭ."
+ "inference": "The verse lists foot seat, ascent, and coconut seat.",
+ "uncertainties": [
+  "exact relation among items"
+ ],
+ "plain_english": "Foot seat, ascent, and coconut seat are listed thus."
 }

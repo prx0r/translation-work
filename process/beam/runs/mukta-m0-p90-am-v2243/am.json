@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2243,
- "question": "When should the priest burn these items and when must he refrain from burning them?",
+ "question": "Which planetary colors or varnas are listed?",
  "premises": [
-  "The priest is the ritual agent.",
-  "Burning is prescribed in an occasional rite.",
-  "Burning is prohibited in a daily rite."
+  "sun and moon are named",
+  "mars and mercury are named",
+  "jupiter is named"
  ],
- "inference": "In an occasional rite the priest should burn these, but in a daily rite he should not burn them.",
+ "inference": "The verse lists sun, moon, mars, mercury, and jupiter.",
  "uncertainties": [
-  "The identity of imān is supplied by the preceding ritual context."
+  "exact relation to colors"
  ],
- "plain_english": "In an occasional rite the priest should burn these, but in a daily rite he should not burn them."
+ "plain_english": "Sun, moon, mars, mercury, and jupiter are listed."
 }

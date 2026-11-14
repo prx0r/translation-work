@@ -1,0 +1,349 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "dravyābhedaṃ",
+     "gloss": "substance-distinction",
+     "grounds": "accusative singular of dravyābheda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktiśuddhiṃ",
+     "gloss": "śakti-purification",
+     "grounds": "accusative singular of śaktiśuddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caturviṃśatike'pi+ca",
+     "gloss": "in-twenty-fourth+also",
+     "grounds": "locative singular fused with api and ca",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which two topics are assigned to the twenty-fourth ecstasy section?",
+   "premises": [
+    "dravyābhedaṃ names substance-distinction",
+    "śaktiśuddhiṃ names śakti-purification",
+    "caturviṃśatike'pi+ca places both in the twenty-fourth section"
+   ],
+   "inference": "The twenty-fourth section treats substance-distinction and śakti-purification.",
+   "uncertainties": [
+    "exact scope of dravyābheda is not specified beyond the heading"
+   ],
+   "plain_english": "In the twenty-fourth section, substance-distinction and śakti-purification are treated."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "ānandabhairavadhyānaṃ",
+     "gloss": "ānanda-bhairava-meditation",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathaivānandabhairavīm",
+     "gloss": "likewise+ānanda-bhairavī",
+     "grounds": "accusative singular feminine with tathā+eva fusion",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What meditation and feminine counterpart are assigned to the next section?",
+   "premises": [
+    "ānandabhairavadhyānaṃ names ānanda-bhairava meditation",
+    "tathaivānandabhairavīm names the corresponding ānanda-bhairavī",
+    "the pair is presented together"
+   ],
+   "inference": "The section treats ānanda-bhairava meditation and the corresponding ānanda-bhairavī.",
+   "uncertainties": [
+    "the exact section number is not stated in these two tokens"
+   ],
+   "plain_english": "Likewise, ānanda-bhairava meditation and ānanda-bhairavī are treated."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "māṃsaṃ+matsyañca+mudrāñca",
+     "gloss": "meat+fish+seal",
+     "grounds": "compound accusatives with ca fusions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ+śodhanaṃ+tathā",
+     "gloss": "characteristic+purification+likewise",
+     "grounds": "compound accusatives with tathā",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substances and practices receive characteristic and purification treatment?",
+   "premises": [
+    "māṃsaṃ names meat",
+    "matsyaṃ names fish",
+    "mudrā names seal",
+    "lakṣaṇaṃ and śodhanaṃ name characteristic and purification"
+   ],
+   "inference": "Meat, fish, and seal are given characteristic and purification treatment.",
+   "uncertainties": [
+    "the section number is not stated in these tokens"
+   ],
+   "plain_english": "Meat, fish, and seal are treated as to characteristic and purification."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "vakṣye'haṃ+lakṣaṇaṃ+śakteraṣṭāviṃśatike'pi+ca",
+     "gloss": "I-will-speak+characteristic+of-śakti",
+     "grounds": "first-person future verb with fused aham, accusative lakṣaṇam, genitive śakteḥ, locative aṣṭāviṃśatike, api, ca",
+     "morph": "v.1.sg.act-fut+compound"
+    }
+   ],
+   "question": "What does the speaker promise to explain in the twenty-eighth section?",
+   "premises": [
+    "vakṣye means I will speak",
+    "lakṣaṇaṃ means characteristic",
+    "śakteḥ means of śakti",
+    "aṣṭāviṃśatike means in the twenty-eighth"
+   ],
+   "inference": "The speaker will explain the characteristic of śakti in the twenty-eighth section.",
+   "uncertainties": [
+    "the exact ritual scope of śakti's characteristic is not specified"
+   ],
+   "plain_english": "I will speak the characteristic of śakti in the twenty-eighth section also."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "vidhānaṃ+samvidā-pānamullāse",
+     "gloss": "rite+of-samvid-drinking",
+     "grounds": "compound accusative with samvid-pāna and ullāsa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triṃśadike'pi+ca",
+     "gloss": "in-thirtieth+also",
+     "grounds": "locative singular with api and ca",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What rite is assigned to the thirtieth ecstasy section?",
+   "premises": [
+    "vidhānaṃ means rite",
+    "samvidā-pānam means drinking of samvid",
+    "triṃśadike means in the thirtieth"
+   ],
+   "inference": "The thirtieth section treats the rite of drinking samvid.",
+   "uncertainties": [
+    "the nature of samvid is not explained in this heading"
+   ],
+   "plain_english": "The rite of drinking samvid is treated in the thirtieth section."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "ekatriṃśadikolāse",
+     "gloss": "in-thirty-first-ecstasy",
+     "grounds": "locative singular compound with ullāsa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vakṣye+nānāprakārakam",
+     "gloss": "I-will-speak+various-kinds",
+     "grounds": "first-person future verb with nānāprakārakam",
+     "morph": "v.1.sg.act-fut"
+    }
+   ],
+   "question": "What will be spoken in the thirty-first ecstasy section?",
+   "premises": [
+    "ekatriṃśadikolāse means in the thirty-first ecstasy",
+    "vakṣye means I will speak",
+    "nānāprakārakam means various kinds"
+   ],
+   "inference": "In the thirty-first ecstasy, various kinds will be spoken.",
+   "uncertainties": [
+    "the specific kinds are not enumerated in this heading"
+   ],
+   "plain_english": "In the thirty-first ecstasy, I will speak of various kinds."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "vaṭukādivalistritriṃśadike",
+     "gloss": "vaṭuka+etc+offering+thirty-third",
+     "grounds": "locative singular compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "is-proclaimed",
+     "grounds": "past participle masculine singular",
+     "morph": "m.nom.sg.participle"
+    }
+   ],
+   "question": "What offering is proclaimed in the thirty-third section?",
+   "premises": [
+    "vaṭukādi means vaṭuka and others",
+    "vali means offering",
+    "tritriṃśadike means in the thirty-third",
+    "parikīrtitaḥ means is proclaimed"
+   ],
+   "inference": "The offering to vaṭuka and others is proclaimed in the thirty-third section.",
+   "uncertainties": [
+    "the full list of recipients is not given"
+   ],
+   "plain_english": "The offering to vaṭuka and others is proclaimed in the thirty-third section."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "pañcatriṃśadike",
+     "gloss": "in-thirty-fifth",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-speak",
+     "grounds": "first-person singular future active",
+     "morph": "v.1.sg.act-fut"
+    },
+    {
+     "surface": "prāthanaṃ+pātravandanam",
+     "gloss": "prayer+vessel-salutation",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What prayer and salutation are spoken in the thirty-fifth section?",
+   "premises": [
+    "pañcatriṃśadike means in the thirty-fifth",
+    "vakṣye means I will speak",
+    "prāthanaṃ means prayer",
+    "pātravandanam means vessel-salutation"
+   ],
+   "inference": "In the thirty-fifth section, prayer and vessel-salutation are spoken.",
+   "uncertainties": [
+    "the vessels involved are not specified"
+   ],
+   "plain_english": "In the thirty-fifth section, I will speak prayer and vessel-salutation."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "saptatriṃśadikollāse",
+     "gloss": "in-thirty-seventh-ecstasy",
+     "grounds": "locative singular compound with ullāsa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīgurordhyānalakṣaṇam",
+     "gloss": "śrī-guru-meditation-characteristic",
+     "grounds": "accusative singular compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What characteristic is treated in the thirty-seventh ecstasy section?",
+   "premises": [
+    "saptatriṃśadikollāse means in the thirty-seventh ecstasy",
+    "śrīgurordhyānalakṣaṇam means characteristic of śrī-guru meditation"
+   ],
+   "inference": "The thirty-seventh ecstasy treats the characteristic of śrī-guru meditation.",
+   "uncertainties": [
+    "the meditation details are not given in the heading"
+   ],
+   "plain_english": "In the thirty-seventh ecstasy, the characteristic of śrī-guru meditation is treated."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "ūnacatvāriṃśadīti",
+     "gloss": "thirty-nine-less",
+     "grounds": "indeclinable phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamasya+vidhānakam",
+     "gloss": "of-fifth+rite",
+     "grounds": "genitive pañcamasya with vidhānakam",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What rite of the fifth is treated at thirty-nine?",
+   "premises": [
+    "ūnacatvāriṃśadīti means thirty-nine",
+    "pañcamasya means of the fifth",
+    "vidhānakam means rite"
+   ],
+   "inference": "At thirty-nine, the rite of the fifth is treated.",
+   "uncertainties": [
+    "which fifth item is meant is not specified"
+   ],
+   "plain_english": "At thirty-nine, the rite of the fifth is treated."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "ekacatvāriṃśadīti",
+     "gloss": "forty-one",
+     "grounds": "indeclinable numeral phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamānāndalakṣaṇam",
+     "gloss": "of-fifth+ānanda-characteristic",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ānanda characteristic of the fifth is treated at forty-one?",
+   "premises": [
+    "ekacatvāriṃśadīti means forty-one",
+    "pañcamānāndalakṣaṇam means characteristic of the fifth ānanda"
+   ],
+   "inference": "At forty-one, the characteristic of the fifth ānanda is treated.",
+   "uncertainties": [
+    "the fifth ānanda is not identified beyond the heading"
+   ],
+   "plain_english": "At forty-one, the characteristic of the fifth ānanda is treated."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "ānandaṃ+navapātrasya",
+     "gloss": "ānanda+of-nine-vessels",
+     "grounds": "accusative ānanda with genitive navapātrasya",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tricatvāriṃśadīti+ca",
+     "gloss": "forty-three",
+     "grounds": "indeclinable numeral phrase with ca",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ānanda of nine vessels is treated at forty-three?",
+   "premises": [
+    "ānandaṃ means ānanda",
+    "navapātrasya means of nine vessels",
+    "tricatvāriṃśadīti means forty-three"
+   ],
+   "inference": "At forty-three, the ānanda of nine vessels is treated.",
+   "uncertainties": [
+    "the nine vessels are not enumerated"
+   ],
+   "plain_english": "At forty-three, the ānanda of nine vessels is treated."
+  }
+ ]
+}

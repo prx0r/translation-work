@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2260,
- "question": "When should the deities of the six rites be worshipped during ritual practice?",
+ "question": "What certainty is stated about desired objects?",
  "premises": [
-  "Deities of the six rites are declared.",
-  "The rite has a beginning phase.",
-  "Those deities should be worshipped then."
+  "whatever he desires",
+  "he certainly obtains that"
  ],
- "inference": "The deities of the six rites should be worshipped at the beginning of the rite.",
- "uncertainties": [],
- "plain_english": "The deities of the six rites are declared; one should worship them at the beginning of the rite."
+ "inference": "Whatever is desired is certainly obtained.",
+ "uncertainties": [
+  "ritual precondition not stated in this verse"
+ ],
+ "plain_english": "Whatever he desires, he certainly obtains."
 }

@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2230,
- "question": "Which ritual ranges apply respectively to auspicious rites and to cruel acts?",
+ "question": "Which seats and beings are listed together?",
  "premises": [
-  "Auspicious rites are specified as one domain.",
-  "Cruel acts are specified as another domain.",
-  "Each domain is defined by its terminal rite."
+  "horse seat is named",
+  "elephant and palanquin are named",
+  "human is included"
  ],
- "inference": "In auspicious rites they should extend up to marriage, and in cruel acts up to death.",
+ "inference": "The verse lists horse seat, elephant, palanquin, and human together.",
  "uncertainties": [
-  "The subject of syur is implied from the ritual sequence."
+  "exact relation among items"
  ],
- "plain_english": "In auspicious rites they should extend up to marriage, and in cruel acts up to death."
+ "plain_english": "Horse seat, elephant, palanquin, and human are listed thus."
 }

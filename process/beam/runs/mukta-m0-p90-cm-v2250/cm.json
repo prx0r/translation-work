@@ -3,39 +3,29 @@
  "verse": 2250,
  "rows": [
   {
-   "lemma": "śriyam",
-   "morph": "f.acc.sg",
-   "grounds": "object of invocation; personified as goddess"
+   "lemma": "bhaumavarṇaṃ",
+   "morph": "acc.sg.n",
+   "grounds": "bhauma = of Mars; varṇa = color; accusative object of samāruhya"
   },
   {
-   "lemma": "devīm",
-   "morph": "f.acc.sg",
-   "grounds": "attribute qualifying śriyam"
+   "lemma": "samāruhya",
+   "morph": "indecl.",
+   "grounds": "sam-ā-ruh participle; governs the preceding color phrase"
   },
   {
-   "lemma": "upahvaye",
-   "morph": "1.sg.atm-pres.ind √hve+upa",
-   "grounds": "main verb expressing the act of calling upon"
+   "lemma": "trisahasraṃ",
+   "morph": "acc.sg.n",
+   "grounds": "tri = three; sahasra = thousand; accusative count"
   },
   {
-   "lemma": "śrīḥ",
-   "morph": "f.nom.sg",
-   "grounds": "subject of the requested favor"
+   "lemma": "manuṃ",
+   "morph": "acc.sg.m",
+   "grounds": "manu = mantra; accusative object of japet"
   },
   {
-   "lemma": "mā",
-   "morph": "pron.acc.sg.1 (enclitic)",
-   "grounds": "object of the favor sought"
-  },
-  {
-   "lemma": "devī",
-   "morph": "f.nom.sg",
-   "grounds": "attribute qualifying śrīḥ"
-  },
-  {
-   "lemma": "juṣatām",
-   "morph": "3.sg.atm-imperative √juṣ",
-   "grounds": "optative request directed to the goddess"
+   "lemma": "japet",
+   "morph": "opt.3.sg.act",
+   "grounds": "root jap; optative prescription"
   }
  ]
 }

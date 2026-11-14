@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2262,
- "question": "What times of day are assigned to the rainy season and the cold season?",
+ "question": "What recitation count follows making the white-color seat?",
  "premises": [
-  "The rainy season is assigned a time of day.",
-  "That time is afternoon.",
-  "The cold season is remembered as associated with evening."
+  "white-color seat is made",
+  "sun-thousand recitations are prescribed"
  ],
- "inference": "The rainy season corresponds to afternoon and the cold season to evening.",
- "uncertainties": [],
- "plain_english": "The rainy season should be the afternoon, and the cold season is remembered as the evening."
+ "inference": "The white-color seat requires a thousand sun recitations.",
+ "uncertainties": [
+  "exact mantra identity not stated"
+ ],
+ "plain_english": "Having made the white-color seat, one should recite a thousand sun mantras."
 }

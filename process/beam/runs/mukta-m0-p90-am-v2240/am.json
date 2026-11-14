@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2240,
- "question": "Which form grants great success in the ritual of uprooting?",
+ "question": "What four-fold differences arise from brahmin kshatriya vaishya shudra births?",
  "premises": [
-  "The context is the rite of uprooting.",
-  "A form called very red is identified.",
-  "That form is many-formed and grants great success."
+  "four varna births are named",
+  "differences are four-fold",
+  "birth differences are referenced"
  ],
- "inference": "In uprooting, the many-formed one called very red is the giver of great success.",
- "uncertainties": [],
- "plain_english": "In uprooting, the many-formed one called Very Red grants great success."
+ "inference": "The verse states four-fold differences arise from the four varna births.",
+ "uncertainties": [
+  "exact referent of caturvidhāḥ"
+ ],
+ "plain_english": "Four-fold differences arise from brahmin, kshatriya, vaishya, and shudra births."
 }

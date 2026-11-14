@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2270,
- "question": "Which ritual aims are assigned to the western and northern directions?",
+ "question": "Who is the reciting man said to be?",
  "premises": [
-  "Directions determine ritual suitability.",
-  "The west is associated with paralyzing.",
-  "The north is associated with pacification."
+  "let the man recite",
+  "he is Vishnu",
+  "there is no doubt"
  ],
- "inference": "Paralyzing should be known in the west and pacification in the north.",
- "uncertainties": [],
- "plain_english": "One should know paralyzing in the west, and pacification should be in the north."
+ "inference": "The man who recites is Vishnu, without doubt.",
+ "uncertainties": [
+  "ritual precondition not stated in this verse"
+ ],
+ "plain_english": "Let the man recite; he is Vishnu, no doubt."
 }

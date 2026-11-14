@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2232,
- "question": "What number of individual oblations is prescribed according to the kalpa-sūtra teaching?",
+ "question": "Which items are listed with the goddess?",
  "premises": [
-  "The number 360 is specified.",
-  "Each oblation is to be given individually.",
-  "The rule is attributed to the kalpa-sūtra."
+  "dog and cock are named",
+  "makara and arrow are named",
+  "goddess is addressed"
  ],
- "inference": "One should give 360 oblations, one by one, as taught in the kalpa-sūtra.",
- "uncertainties": [],
- "plain_english": "One should give 360 oblations, one by one, as taught in the kalpa-sūtra."
+ "inference": "The verse lists dog, cock, makara, and arrow with the goddess.",
+ "uncertainties": [
+  "exact relation among items"
+ ],
+ "plain_english": "Dog, cock, makara, and arrow are listed thus, O goddess."
 }

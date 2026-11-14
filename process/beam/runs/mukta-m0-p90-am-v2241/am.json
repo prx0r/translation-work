@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2241,
- "question": "By what means do all mantras attain successful accomplishment?",
+ "question": "How many horse births are declared and remembered?",
  "premises": [
-  "All mantras are the subject.",
-  "Their success is asserted.",
-  "The application of mudrā and mantra is given as the means."
+  "horses are five-fold",
+  "births are declared",
+  "eighteen are remembered"
  ],
- "inference": "All mantras succeed through the application of mudrā and mantra.",
- "uncertainties": [],
- "plain_english": "All mantras succeed through the application of mudrā and mantra."
+ "inference": "The verse states five-fold horse births are declared and eighteen are remembered.",
+ "uncertainties": [
+  "exact relation between five and eighteen"
+ ],
+ "plain_english": "Horses are five-fold declared; births eighteen are remembered."
 }

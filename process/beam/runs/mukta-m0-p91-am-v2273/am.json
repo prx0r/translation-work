@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p91",
  "verse": 2273,
- "question": "What preparatory action accompanies mantra recitation in hatred and expulsion rites?",
+ "question": "What daily recitation follows standing on various colors?",
  "premises": [
-  "Mantra recitation is prescribed.",
-  "The contexts are hatred and expulsion rites.",
-  "One should look at the rosary beforehand."
+  "a man stands on various colors",
+  "one hundred are recited daily"
  ],
- "inference": "In hatred and expulsion rites, one should look at the rosary and then perform recitation.",
- "uncertainties": [],
- "plain_english": "In rites of hatred and expulsion, one should look at the rosary and then perform the recitation."
+ "inference": "Standing on various colors, one recites one hundred daily.",
+ "uncertainties": [
+  "exact mantra identity not stated"
+ ],
+ "plain_english": "A man standing on various colors recites one hundred daily."
 }

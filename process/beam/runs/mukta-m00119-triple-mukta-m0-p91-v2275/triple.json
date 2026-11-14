@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "adverbial use of krama indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "neuter noun in nominative singular",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "etaddhi",
+     "gloss": "this-indeed",
+     "grounds": "demonstrative etat fused with enclitic hi",
+     "morph": "pron.nom.sg.n + (indecl.)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle of kath",
+     "morph": "part.pass.nom.sg.n"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "In what order is the fruit of this practice declared to the supreme goddess?",
+   "premises": [
+    "fruit is declared in order",
+    "this fruit is indeed declared",
+    "the goddess is addressed directly"
+   ],
+   "inference": "The verse states that the fruit is declared sequentially to the supreme goddess.",
+   "uncertainties": [
+    "the exact referent of etad depends on the preceding verses",
+    "the precise ritual fruit is not specified here"
+   ],
+   "plain_english": "In order, this fruit has indeed been declared, O supreme goddess."
+  }
+ ]
+}

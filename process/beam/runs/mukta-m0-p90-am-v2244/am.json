@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2244,
- "question": "What kind of dakṣiṇā is appropriate when the usual offering is unavailable?",
+ "question": "What nine-color and five-color orders are referenced?",
  "premises": [
-  "The situation is one of absence or lack.",
-  "A dakṣiṇā must still be understood as due.",
-  "It should be such as satisfies the guru."
+  "nine-color order is named",
+  "five-color order is named",
+  "both are referenced"
  ],
- "inference": "In case of unavailability, the dakṣiṇā should be understood as whatever brings satisfaction to the guru.",
- "uncertainties": [],
- "plain_english": "If it is unavailable, the dakṣiṇā should be understood as whatever satisfies the guru."
+ "inference": "The verse references nine-color order and five-color order.",
+ "uncertainties": [
+  "exact application"
+ ],
+ "plain_english": "By nine-color order and by five-color order."
 }

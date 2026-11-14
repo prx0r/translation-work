@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2233,
- "question": "What action is enjoined regarding the offering in this context?",
+ "question": "Which sun chariot narrow and comfortable seat items are listed?",
  "premises": [
-  "An optative verb prescribes offering.",
-  "The object is understood from the preceding instruction."
+  "sun is named",
+  "chariot is named",
+  "narrow and comfortable seat are named"
  ],
- "inference": "One should offer it.",
+ "inference": "The verse lists sun, chariot, narrow, and comfortable seat.",
  "uncertainties": [
-  "The specific offering is implied by the surrounding verses."
+  "exact relation among items"
  ],
- "plain_english": "One should offer it."
+ "plain_english": "Sun, chariot, narrow, and comfortable seat are listed."
 }

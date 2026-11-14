@@ -1,0 +1,47 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "yoginīvijayaṃ",
+     "gloss": "yoginī-victory",
+     "grounds": "fused compound yoginī+vijaya; accusative singular tantra name",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "blessed-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "mālinītantrameva",
+     "gloss": "mālinī-tantra-indeed",
+     "grounds": "fused compound mālinī+tantra plus emphatic eva; accusative singular",
+     "morph": "acc.sg.n (indecl. eva)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining listed items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which tantric scriptures are named in this enumeration after yoginīvijaya and mālinītantra?",
+   "premises": [
+    "The verse enumerates tantric scriptures.",
+    "Yoginīvijaya is named as a tantra.",
+    "Mālinītantra is named with emphasis.",
+    "Ca conjoins the listed items."
+   ],
+   "inference": "The enumeration includes yoginīvijaya and mālinītantra among tantric scriptures.",
+   "uncertainties": [
+    "Exact grammatical gender of tantra names is inferred.",
+    "Context of full enumeration is partial."
+   ],
+   "plain_english": "Yoginīvijaya, O blessed one, and indeed Mālinītantra."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2231,
- "question": "How should ghee oblations be offered for each ritual act in sequence?",
+ "question": "Which animals are named alongside the goddess?",
  "premises": [
-  "The instruction applies to each rite.",
-  "The offerings are ghee oblations.",
-  "They must be performed in order."
+  "tiger dog jackal are named",
+  "ram and goat are named",
+  "goddess is addressed"
  ],
- "inference": "Thus, for each rite one should offer ghee oblations in due order.",
- "uncertainties": [],
- "plain_english": "Thus, for each rite one should offer ghee oblations in order."
+ "inference": "The verse names tiger, dog, jackal, ram, and goat alongside the goddess.",
+ "uncertainties": [
+  "exact compound parsing"
+ ],
+ "plain_english": "Tiger, dog, jackal, ram, and goat are named, O goddess and supreme lady."
 }

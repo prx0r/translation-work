@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2237,
- "question": "What specific ritual utterance is identified as the distinguishing detail here?",
+ "question": "Which named animals are addressed to Parvati?",
  "premises": [
-  "The utterance 'I worship' is given.",
-  "It is marked as a specification.",
-  "This distinguishes the procedure."
+  "bull-named is listed",
+  "horse-named is listed",
+  "buffalo-named is listed"
  ],
- "inference": "The specification is the utterance 'I worship'.",
- "uncertainties": [],
- "plain_english": "The specification is the utterance, 'I worship'."
+ "inference": "The verse lists bull-named, horse-named, and buffalo-named items addressed to Parvati.",
+ "uncertainties": [
+  "exact relation among items"
+ ],
+ "plain_english": "Bull-named, horse-named, and buffalo-named items are listed, O Parvati."
 }

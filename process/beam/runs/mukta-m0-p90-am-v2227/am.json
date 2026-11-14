@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p90",
  "verse": 2227,
- "question": "What ritual action must be carried out as the oblation?",
+ "question": "What forms of camel seat and kuśa follow in order?",
  "premises": [
-  "An oblation is specified as the object.",
-  "The verb enjoins performance of that action."
+  "camel seat forms are named",
+  "kuśa and following are named",
+  "they follow in order"
  ],
- "inference": "One should perform the oblation.",
- "uncertainties": [],
- "plain_english": "One should perform the oblation."
+ "inference": "The verse lists camel-seat forms and kuśa items in order.",
+ "uncertainties": [
+  "exact compound membership"
+ ],
+ "plain_english": "Camel-seat forms and kuśa items follow in order."
 }
