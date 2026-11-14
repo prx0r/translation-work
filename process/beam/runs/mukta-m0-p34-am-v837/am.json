@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p34",
  "verse": 837,
- "question": "What alternative forms may the central arch or projection take in this arrangement?",
+ "question": "How does the prescribed measure differ between copper and ruby materials?",
  "premises": [
-  "A middle arch is mentioned.",
-  "It may be broad.",
-  "Alternatively the middle projection may be broad."
+  "Copper follows the previously stated number",
+  "Ruby and similar materials are treated differently",
+  "For ruby and others the measure is as desired"
  ],
- "inference": "The design allows either a broad middle arch or a broad middle projection.",
- "uncertainties": [],
- "plain_english": "The middle arch may be broad, or the middle projection may be broad."
+ "inference": "Copper uses the previous measure, while ruby and similar materials may be sized as desired.",
+ "uncertainties": [
+  "The exact previous number referred to is not specified in this verse"
+ ],
+ "plain_english": "For copper the previous number applies, but for ruby and other materials it may be as desired."
 }

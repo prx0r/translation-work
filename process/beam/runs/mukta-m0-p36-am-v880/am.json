@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 880,
- "question": "What proportional measures are assigned to the neck and the head?",
+ "question": "What figure should be drawn upon the previously formed triangle?",
  "premises": [
-  "The neck measure is two parts.",
-  "The head is four and a half parts."
+  "A triangle-shaped form has been established",
+  "Further drawing is to be done upon it",
+  "The instruction is prescriptive"
  ],
- "inference": "The neck takes two parts and the head takes four and a half parts.",
- "uncertainties": [],
- "plain_english": "The measure of the neck should be two parts, and the head four and a half parts."
+ "inference": "One should draw further upon the established triangle-shaped form",
+ "uncertainties": [
+  "specific figure to be drawn is specified in following verses"
+ ],
+ "plain_english": "This forms a triangle shape, and upon it one should draw further."
 }

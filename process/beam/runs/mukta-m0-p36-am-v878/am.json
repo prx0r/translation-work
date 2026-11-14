@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 878,
- "question": "Into how many parts should the height of the temple be divided?",
+ "question": "Which substances should be used to draw the ritual diagram?",
  "premises": [
-  "The temple height is the object of division.",
-  "The division is by the number twenty-eight."
+  "Rocanā and saffron are to be used",
+  "Musk, sandal, and camphor are also to be used",
+  "These substances serve as drawing materials"
  ],
- "inference": "The temple height must be divided into twenty-eight parts.",
- "uncertainties": [],
- "plain_english": "One should divide the height of the temple into twenty-eight parts."
+ "inference": "The diagram should be drawn using rocanā, saffron, musk, sandal, and camphor",
+ "uncertainties": [
+  "indu may refer to camphor or moon-related substance"
+ ],
+ "plain_english": "Use rocanā and saffron, and also musk, sandal, and camphor."
 }

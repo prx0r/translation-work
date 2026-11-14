@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p36",
  "verse": 879,
- "question": "What proportional heights are assigned to the entablature and the pillar?",
+ "question": "Who draws the initial lines and from which directional points?",
  "premises": [
-  "The entablature height is assigned three parts.",
-  "The pillar height is assigned five parts."
+  "The teacher is the agent of drawing",
+  "Two lines are to be drawn",
+  "The lines extend from the front of īśa to its corresponding front"
  ],
- "inference": "The entablature takes three parts and the pillar takes five parts.",
- "uncertainties": [],
- "plain_english": "The height of the entablature should be three parts and the height of the pillar five parts."
+ "inference": "The teacher draws two lines starting from the īśa direction to the indicated front points",
+ "uncertainties": [
+  "exact spatial referent of tadagrābhyāṃ is context-dependent"
+ ],
+ "plain_english": "The teacher should draw two lines from the front of the īśa direction to the corresponding front points."
 }

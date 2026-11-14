@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p32",
  "verse": 786,
- "question": "How should the officiating teacher be honored during the ritual?",
+ "question": "What divine attributes characterize the lord invoked in this visualization?",
  "premises": [
-  "The teacher is the recipient of worship.",
-  "The worship must be performed properly.",
-  "Cloth, gold, and rings are given as offerings."
+  "The lord is called ruler of six lineages.",
+  "He is described as glorious and supreme Śambhu.",
+  "He is described as unborn and imperishable."
  ],
- "inference": "One should properly worship the teacher with gifts of cloth, gold, and rings.",
- "uncertainties": [],
- "plain_english": "One should properly worship the teacher with cloth, gold, and rings."
+ "inference": "The invoked deity is the glorious Paraśambhu, lord of six lineages, unborn and imperishable.",
+ "uncertainties": [
+  "The tokenization repeats rajo/avyaya elements; interpretation follows given tokens."
+ ],
+ "plain_english": "He is the glorious lord of the six lineages, the supreme Śambhu, unborn and imperishable."
 }

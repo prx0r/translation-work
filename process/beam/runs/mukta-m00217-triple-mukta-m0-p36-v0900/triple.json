@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "caturasraṃ",
+     "gloss": "four-cornered-square",
+     "grounds": "describes the shape of the diagram requested in the preceding context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturdvārasahitaṃ",
+     "gloss": "with-four-gates",
+     "grounds": "compound qualifying the diagram as having four entrances",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What specific shape and structural features must the requested diagram possess, O supreme goddess?",
+   "premises": [
+    "The diagram is specified as four-cornered and square.",
+    "The diagram is specified as furnished with four gates.",
+    "The supreme goddess is directly addressed regarding this form."
+   ],
+   "inference": "The requested diagram must be constructed as a square structure equipped with four gates.",
+   "uncertainties": [
+    "The verb governing these attributes is supplied from the preceding verse (kuru)."
+   ],
+   "plain_english": "O supreme goddess, make it square and furnished with four gates."
+  }
+ ]
+}

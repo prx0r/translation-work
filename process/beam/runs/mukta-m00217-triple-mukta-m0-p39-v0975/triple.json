@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "pūrvādigranthiṣu",
+     "gloss": "eastern-etc-knots",
+     "grounds": "locative plural of compound pūrva-ādi-granthi, indicating location",
+     "morph": "pūrva-ādi-granthi+loc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner in continuity with prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayedaṣṭa",
+     "gloss": "should-worship-eight",
+     "grounds": "fused form of optative pūjayet and numeral aṣṭa; sandhi within token",
+     "morph": "3.sg.opt.act-√pūj + num"
+    },
+    {
+     "surface": "bhairavān",
+     "gloss": "bhairavas",
+     "grounds": "accusative plural, object of worship",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which deities are to be worshipped in the eastern and other knots?",
+   "premises": [
+    "The ritual context specifies knots beginning with the eastern direction.",
+    "The prescribed manner continues from the preceding instructions.",
+    "Eight Bhairavas are designated as the recipients of worship."
+   ],
+   "inference": "Therefore eight Bhairavas should be worshipped in the eastern and other knots.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the knots beginning with the east, one should worship the eight Bhairavas."
+  }
+ ]
+}

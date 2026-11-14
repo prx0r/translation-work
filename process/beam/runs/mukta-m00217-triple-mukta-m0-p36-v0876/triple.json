@@ -1,0 +1,931 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 876,
+   "rows": [
+    {
+     "surface": "ṛjurekhaṃ",
+     "gloss": "straight-lined",
+     "grounds": "describes the cloth/diagram",
+     "morph": "compound=ṛju+rekha, n.acc.sg"
+    },
+    {
+     "surface": "netraramyaṃ",
+     "gloss": "pleasing-to-eyes",
+     "grounds": "describes the cloth/diagram",
+     "morph": "compound=netra+ramya, n.acc.sg"
+    },
+    {
+     "surface": "sandhibhedaṃ",
+     "gloss": "with-divided-joints",
+     "grounds": "describes the cloth/diagram",
+     "morph": "compound=sandhi+bheda, n.acc.sg"
+    },
+    {
+     "surface": "samamṛju",
+     "gloss": "even-and-straight",
+     "grounds": "describes the cloth/diagram",
+     "morph": "compound=sama+ṛju, n.acc.sg"
+    }
+   ],
+   "question": "What qualities must the prepared ritual cloth possess for the diagram?",
+   "premises": [
+    "The cloth must have straight lines",
+    "The cloth must be pleasing to the eyes",
+    "The cloth must have divided joints and be even"
+   ],
+   "inference": "A properly prepared cloth is straight, attractive, evenly divided, and suitable for drawing the diagram",
+   "uncertainties": [],
+   "plain_english": "The cloth should be straight-lined, pleasing to the eyes, with clearly divided joints, and even and straight."
+  },
+  {
+   "verse": 877,
+   "rows": [
+    {
+     "surface": "paṭṭaṃ",
+     "gloss": "cloth",
+     "grounds": "object to be prepared",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viracya",
+     "gloss": "having-prepared",
+     "grounds": "action prior to drawing",
+     "morph": "gerund, root vi-rac"
+    },
+    {
+     "surface": "śrīkāṣṭhe",
+     "gloss": "on-sacred-wood",
+     "grounds": "location or base material",
+     "morph": "compound=śrī+kāṣṭha, n.loc.sg"
+    },
+    {
+     "surface": "raktacandanasambhave",
+     "gloss": "born-from-red-sandalwood",
+     "grounds": "describes the wood",
+     "morph": "compound=rakta+candana+sambhava, n.loc.sg"
+    }
+   ],
+   "question": "On what material base should the ritual cloth be prepared?",
+   "premises": [
+    "The cloth is to be prepared first",
+    "The base is sacred wood",
+    "The wood originates from red sandalwood"
+   ],
+   "inference": "The ritual cloth should be prepared upon sacred wood derived from red sandalwood",
+   "uncertainties": [],
+   "plain_english": "Having prepared the cloth, place it on sacred wood that comes from red sandalwood."
+  },
+  {
+   "verse": 878,
+   "rows": [
+    {
+     "surface": "rocanākuṃkumābhyāṃ",
+     "gloss": "with-rocanā-and-saffron",
+     "grounds": "substances for drawing",
+     "morph": "compound=rocanā+kuṃkuma, n.inst.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects substances",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kastūrīcandanendubhiḥ",
+     "gloss": "with-musk-sandal-camphor",
+     "grounds": "additional substances for drawing",
+     "morph": "compound=kastūrī+candana+indu, n.inst.pl"
+    }
+   ],
+   "question": "Which substances should be used to draw the ritual diagram?",
+   "premises": [
+    "Rocanā and saffron are to be used",
+    "Musk, sandal, and camphor are also to be used",
+    "These substances serve as drawing materials"
+   ],
+   "inference": "The diagram should be drawn using rocanā, saffron, musk, sandal, and camphor",
+   "uncertainties": [
+    "indu may refer to camphor or moon-related substance"
+   ],
+   "plain_english": "Use rocanā and saffron, and also musk, sandal, and camphor."
+  },
+  {
+   "verse": 879,
+   "rows": [
+    {
+     "surface": "īśādagrestadagrābhyāṃ",
+     "gloss": "from-īśa-front-to-its-front",
+     "grounds": "directional reference for drawing lines",
+     "morph": "compound=īśa+agra+tad+agra, n.inst.dual"
+    },
+    {
+     "surface": "rekhe",
+     "gloss": "two-lines",
+     "grounds": "objects to be drawn",
+     "morph": "f.acc.dual"
+    },
+    {
+     "surface": "ākṛṣya",
+     "gloss": "having-drawn",
+     "grounds": "action performed by teacher",
+     "morph": "gerund, root ā-kṛṣ"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "agent performing the drawing",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who draws the initial lines and from which directional points?",
+   "premises": [
+    "The teacher is the agent of drawing",
+    "Two lines are to be drawn",
+    "The lines extend from the front of īśa to its corresponding front"
+   ],
+   "inference": "The teacher draws two lines starting from the īśa direction to the indicated front points",
+   "uncertainties": [
+    "exact spatial referent of tadagrābhyāṃ is context-dependent"
+   ],
+   "plain_english": "The teacher should draw two lines from the front of the īśa direction to the corresponding front points."
+  },
+  {
+   "verse": 880,
+   "rows": [
+    {
+     "surface": "trikoṇākārarūpeyaṃ",
+     "gloss": "this-triangle-shaped-form",
+     "grounds": "describes the resulting figure",
+     "morph": "compound=trikoṇa+ākāra+rūpa+iyam, f.nom.sg"
+    },
+    {
+     "surface": "tasyā+upari",
+     "gloss": "upon-that",
+     "grounds": "location for further drawing",
+     "morph": "compound=tasyā+upari, (indecl.)"
+    },
+    {
+     "surface": "saṃlikhet",
+     "gloss": "should-draw",
+     "grounds": "instruction for next action",
+     "morph": "3.sg.optative-active, root sam-likh"
+    }
+   ],
+   "question": "What figure should be drawn upon the previously formed triangle?",
+   "premises": [
+    "A triangle-shaped form has been established",
+    "Further drawing is to be done upon it",
+    "The instruction is prescriptive"
+   ],
+   "inference": "One should draw further upon the established triangle-shaped form",
+   "uncertainties": [
+    "specific figure to be drawn is specified in following verses"
+   ],
+   "plain_english": "This forms a triangle shape, and upon it one should draw further."
+  },
+  {
+   "verse": 881,
+   "rows": [
+    {
+     "surface": "pūrvaśaktyagrabhāge",
+     "gloss": "on-front-part-of-eastern-śakti",
+     "grounds": "location for drawing",
+     "morph": "compound=pūrva+śakti+agra+bhāga, m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānayaṣṭivad",
+     "gloss": "like-measuring-stick",
+     "grounds": "manner of drawing",
+     "morph": "compound=māna+yaṣṭi+vat, (indecl.)"
+    },
+    {
+     "surface": "ālikhet",
+     "gloss": "should-draw",
+     "grounds": "instruction for action",
+     "morph": "3.sg.optative-active, root ā-likh"
+    }
+   ],
+   "question": "How and where should the next line be drawn in the diagram?",
+   "premises": [
+    "The drawing is on the front part of the eastern śakti",
+    "The line should be drawn like a measuring stick",
+    "The action is prescribed"
+   ],
+   "inference": "One should draw a straight line like a measuring stick on the front part of the eastern śakti",
+   "uncertainties": [],
+   "plain_english": "On the front part of the eastern śakti, one should draw a line straight like a measuring stick."
+  },
+  {
+   "verse": 882,
+   "rows": [
+    {
+     "surface": "saṃdhibhedakrameṇaiva",
+     "gloss": "by-order-of-joint-division-alone",
+     "grounds": "method of proceeding",
+     "morph": "compound=sandhi+bheda+krama+eva, m.inst.sg"
+    },
+    {
+     "surface": "tayoḥ+śaktyoḥ",
+     "gloss": "of-those-two-śaktis",
+     "grounds": "referents for the divisions",
+     "morph": "compound=tayoḥ+śakti, f.gen.dual"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "next",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what method should the divisions of the two śaktis proceed next?",
+   "premises": [
+    "The procedure follows the order of joint division",
+    "The divisions concern those two śaktis",
+    "The sequence continues thereafter"
+   ],
+   "inference": "The next divisions of the two śaktis should proceed strictly by the order of joint division",
+   "uncertainties": [],
+   "plain_english": "Then, proceeding next, follow the order of joint division for those two śaktis."
+  },
+  {
+   "verse": 883,
+   "rows": [
+    {
+     "surface": "vahnimaṇḍalametattu",
+     "gloss": "this-fire-circle",
+     "grounds": "identifies the constructed figure",
+     "morph": "compound=vahni+maṇḍala+etat+tu, n.nom.sg"
+    },
+    {
+     "surface": "pūrvāgraṃ",
+     "gloss": "east-facing",
+     "grounds": "orientation of the figure",
+     "morph": "compound=pūrva+agra, n.nom.sg"
+    },
+    {
+     "surface": "vīravandite",
+     "gloss": "o-honored-by-heroes",
+     "grounds": "vocative address",
+     "morph": "compound=vīra+vandita, f.voc.sg"
+    }
+   ],
+   "question": "What is the identity and orientation of the constructed ritual figure?",
+   "premises": [
+    "The constructed figure is a fire circle",
+    "The fire circle faces east",
+    "The instruction is addressed to the honored one"
+   ],
+   "inference": "The constructed figure is identified as an east-facing fire circle",
+   "uncertainties": [],
+   "plain_english": "O one honored by heroes, this is the fire circle, facing east."
+  },
+  {
+   "verse": 884,
+   "rows": [
+    {
+     "surface": "pūrvaśaktīśavahnibhyāṃ",
+     "gloss": "from-eastern-śakti-īśa-fire",
+     "grounds": "reference points for corners",
+     "morph": "compound=pūrva+śakti+īśa+vahni, m.inst.dual"
+    },
+    {
+     "surface": "koṇābhyāṃ",
+     "gloss": "from-two-corners",
+     "grounds": "geometric points",
+     "morph": "m.inst.dual"
+    },
+    {
+     "surface": "suravandite",
+     "gloss": "o-honored-by-gods",
+     "grounds": "vocative address",
+     "morph": "compound=sura+vandita, f.voc.sg"
+    }
+   ],
+   "question": "From which corners should the next construction proceed in the fire circle?",
+   "premises": [
+    "The reference involves eastern śakti, īśa, and fire",
+    "Two corners are specified",
+    "The instruction is addressed to the honored one"
+   ],
+   "inference": "The next construction proceeds from the two corners associated with the eastern śakti, īśa, and fire",
+   "uncertainties": [
+    "exact mapping of the three terms to two corners is context-dependent"
+   ],
+   "plain_english": "O one honored by the gods, proceed from the two corners of the eastern śakti, īśa, and fire."
+  },
+  {
+   "verse": 885,
+   "rows": [
+    {
+     "surface": "vāyurākṣasakoṇābhyāṃ",
+     "gloss": "from-wind-and-rākṣasa-corners",
+     "grounds": "starting points for the line",
+     "morph": "compound=vāyu+rākṣasa+koṇa, m.inst.dual"
+    },
+    {
+     "surface": "rekhāṃ",
+     "gloss": "line",
+     "grounds": "object to be drawn",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paścimagāṃ",
+     "gloss": "going-westward",
+     "grounds": "direction of the line",
+     "morph": "compound=paścima+ga, f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of method",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which direction should a line be drawn from the wind and rākṣasa corners?",
+   "premises": [
+    "The line starts from the wind and rākṣasa corners",
+    "The line is directed westward",
+    "The instruction continues the established method"
+   ],
+   "inference": "A line should be drawn westward from the wind and rākṣasa corners",
+   "uncertainties": [],
+   "plain_english": "Likewise, draw a westward-going line from the wind and rākṣasa corners."
+  },
+  {
+   "verse": 886,
+   "rows": [
+    {
+     "surface": "yonyagragāṃ",
+     "gloss": "going-to-yoni-tip",
+     "grounds": "direction of the line",
+     "morph": "compound=yoni+agra+ga, f.acc.sg"
+    },
+    {
+     "surface": "pūrvadeśe",
+     "gloss": "in-eastern-region",
+     "grounds": "location of drawing",
+     "morph": "compound=pūrva+deśa, m.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇottarataḥ",
+     "gloss": "from-south-and-north",
+     "grounds": "directional span",
+     "morph": "compound=dakṣiṇa+uttara+tas, (indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence of drawing",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should lines be drawn toward the yoni tip in the eastern region?",
+   "premises": [
+    "The lines go toward the tip of the yoni",
+    "The drawing occurs in the eastern region",
+    "The lines proceed in order from south and north"
+   ],
+   "inference": "Lines should be drawn in order from south and north toward the yoni tip in the eastern region",
+   "uncertainties": [],
+   "plain_english": "In the eastern region, draw lines in order from south and north going toward the tip of the yoni."
+  },
+  {
+   "verse": 887,
+   "rows": [
+    {
+     "surface": "koṇāgragāṃ",
+     "gloss": "going-to-corner-tip",
+     "grounds": "direction of joining line",
+     "morph": "compound=koṇa+agra+ga, f.acc.sg"
+    },
+    {
+     "surface": "yojayitvā",
+     "gloss": "having-joined",
+     "grounds": "action completing the figure",
+     "morph": "gerund, root yuj"
+    },
+    {
+     "surface": "daśakoṇaṃ",
+     "gloss": "ten-cornered-figure",
+     "grounds": "resulting diagram",
+     "morph": "compound=daśa+koṇa, n.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active, root bhū"
+    }
+   ],
+   "question": "What geometric figure results from joining the lines to the corner tips?",
+   "premises": [
+    "Lines going to corner tips are joined",
+    "The joining completes the construction",
+    "The result is a specific figure"
+   ],
+   "inference": "Joining the lines to the corner tips produces a ten-cornered figure",
+   "uncertainties": [],
+   "plain_english": "Having joined the lines going to the corner tips, a ten-cornered figure is then formed."
+  },
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "īśānavahnito+rekhe",
+     "gloss": "lines-from-īśāna-and-fire",
+     "grounds": "lines to be extended",
+     "morph": "compound=īśāna+vahni+tas+rekhā, f.acc.dual"
+    },
+    {
+     "surface": "pūrvayonyagrayoḥ",
+     "gloss": "to-fronts-of-eastern-yoni",
+     "grounds": "target points",
+     "morph": "compound=pūrva+yoni+agra, n.loc.dual"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence of extension",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Toward which points should the lines from īśāna and fire be extended?",
+   "premises": [
+    "Lines originate from īśāna and fire",
+    "The target points are the fronts of the eastern yoni",
+    "The extension follows an order"
+   ],
+   "inference": "The lines from īśāna and fire should be extended in order to the fronts of the eastern yoni",
+   "uncertainties": [],
+   "plain_english": "Extend the lines from īśāna and fire in order to the fronts of the eastern yoni."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "vāyurākṣasakoṇāgrarekhe",
+     "gloss": "lines-from-wind-rākṣasa-corner-tips",
+     "grounds": "lines to be extended",
+     "morph": "compound=vāyu+rākṣasa+koṇa+agra+rekhā, f.acc.dual"
+    },
+    {
+     "surface": "vistārya",
+     "gloss": "having-extended",
+     "grounds": "action of expansion",
+     "morph": "gerund, root vi-stṛ"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which additional lines must be extended in the diagram construction?",
+   "premises": [
+    "Lines originate from the wind and rākṣasa corner tips",
+    "These lines are to be extended",
+    "The instruction is addressed to the beautiful one"
+   ],
+   "inference": "The lines from the wind and rākṣasa corner tips should be extended",
+   "uncertainties": [],
+   "plain_english": "O beautiful one, extend the lines from the tips of the wind and rākṣasa corners."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "ekāgra",
+     "gloss": "single-pointed",
+     "grounds": "quality of the line",
+     "morph": "compound=eka+agra, f.acc.sg"
+    },
+    {
+     "surface": "pūrvakoṇāgracumbinīṃ",
+     "gloss": "touching-eastern-corner-tip",
+     "grounds": "describes the line's endpoint",
+     "morph": "compound=pūrva+koṇa+agra+cumbin, f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manoharām",
+     "gloss": "charming",
+     "grounds": "aesthetic quality of the line",
+     "morph": "compound=manas+hara, f.acc.sg"
+    }
+   ],
+   "question": "What qualities should the line touching the eastern corner tip possess?",
+   "premises": [
+    "The line touches the eastern corner tip",
+    "The line should be single-pointed",
+    "The line should be charming"
+   ],
+   "inference": "The line touching the eastern corner tip should be single-pointed and charming",
+   "uncertainties": [],
+   "plain_english": "Make it single-pointed, touching the tip of the eastern corner, and charming."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "daśakoṇeṣu",
+     "gloss": "in-ten-corners",
+     "grounds": "location within the figure",
+     "morph": "compound=daśa+koṇa, n.loc.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "compound=deva+īśī, f.voc.sg"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left-out",
+     "grounds": "action of exclusion",
+     "morph": "gerund, root tyaj"
+    },
+    {
+     "surface": "koṇacatuṣṭayam",
+     "gloss": "group-of-four-corners",
+     "grounds": "corners to be excluded",
+     "morph": "compound=koṇa+catuṣṭaya, n.acc.sg"
+    }
+   ],
+   "question": "Which corners must be excluded within the ten-cornered figure?",
+   "premises": [
+    "The figure contains ten corners",
+    "A group of four corners is to be left out",
+    "The instruction is addressed to the goddess"
+   ],
+   "inference": "Four corners within the ten-cornered figure must be excluded",
+   "uncertainties": [],
+   "plain_english": "O goddess, within the ten corners, leave out a group of four corners."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "number of corners",
+     "morph": "n.nom.dual"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-southern",
+     "grounds": "location of two corners",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vibhāge",
+     "gloss": "part",
+     "grounds": "division of the figure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "parallel specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarabhāgake",
+     "gloss": "in-northern-part",
+     "grounds": "location of other two corners",
+     "morph": "compound=uttara+bhāgaka, m.loc.sg"
+    }
+   ],
+   "question": "Where are the four excluded corners located within the diagram?",
+   "premises": [
+    "Two corners are in the southern part",
+    "Two corners are in the northern part",
+    "These form the excluded group"
+   ],
+   "inference": "The four excluded corners are two in the southern part and two in the northern part",
+   "uncertainties": [],
+   "plain_english": "Two in the southern part, and likewise two in the northern part."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "yoniṃ",
+     "gloss": "yoni",
+     "grounds": "element to be joined",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "element to be joined",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "action of combination",
+     "morph": "gerund, root sam-yuj"
+    },
+    {
+     "surface": "śakrāraṃ",
+     "gloss": "indra-corner",
+     "grounds": "resulting formation",
+     "morph": "compound=śakra+āra, n.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-produced",
+     "grounds": "result of joining",
+     "morph": "3.sg.present-middle, root jan"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "concludes the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What formation arises from joining the yoni and fire elements?",
+   "premises": [
+    "The yoni and fire are joined together",
+    "The joining produces a specific formation",
+    "The formation is called śakrāra"
+   ],
+   "inference": "Joining the yoni and fire produces the śakrāra formation",
+   "uncertainties": [
+    "śakrāra may refer to a specific corner or spoke associated with Indra"
+   ],
+   "plain_english": "Having joined the yoni and the fire, the śakrāra is thus produced."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "ṛjvākṛtiḥ",
+     "gloss": "straight-form",
+     "grounds": "shape of the formation",
+     "morph": "compound=ṛju+ākṛti, f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "so-that",
+     "grounds": "manner of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-produced",
+     "grounds": "resulting state",
+     "morph": "3.sg.present-middle, root jan"
+    },
+    {
+     "surface": "atimanoharā",
+     "gloss": "very-charming",
+     "grounds": "aesthetic quality",
+     "morph": "compound=ati+manohara, f.nom.sg"
+    }
+   ],
+   "question": "What aesthetic and formal qualities should the resulting figure possess?",
+   "premises": [
+    "The resulting figure has a straight form",
+    "The figure is produced accordingly",
+    "The figure is very charming"
+   ],
+   "inference": "The resulting figure should be straight in form and very charming",
+   "uncertainties": [],
+   "plain_english": "O goddess, so that it becomes straight in form and very charming."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "bindutrikoṇavasvāraṃ",
+     "gloss": "bindu-triangle-eight-spoked",
+     "grounds": "describes the cakra structure",
+     "morph": "compound=bindu+trikoṇa+vasu+āra, n.acc.sg"
+    },
+    {
+     "surface": "cakrabhedād",
+     "gloss": "by-division-of-cakra",
+     "grounds": "method of formation",
+     "morph": "compound=cakra+bheda, m.abl.sg"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address",
+     "morph": "compound=vara+ānana, f.voc.sg"
+    }
+   ],
+   "question": "What cakra structure emerges through the division of the diagram?",
+   "premises": [
+    "The structure includes bindu, triangle, and eight spokes",
+    "It arises by division of the cakra",
+    "The instruction is addressed to the fair-faced one"
+   ],
+   "inference": "By division of the cakra, a structure of bindu, triangle, and eight spokes is formed",
+   "uncertainties": [
+    "vasvāra interpreted as eight-spoked based on vasu=eight"
+   ],
+   "plain_english": "O fair-faced one, by the division of the cakra, it becomes a structure with bindu, triangle, and eight spokes."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "śakrayonyaṅkitaṃ",
+     "gloss": "marked-with-śakra-and-yoni",
+     "grounds": "describes the diagram's markings",
+     "morph": "compound=śakra+yoni+aṅkita, n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bāhyamadhyagataṃ",
+     "gloss": "placed-in-outer-and-middle",
+     "grounds": "location within the diagram",
+     "morph": "compound=bāhya+madhya+gata, n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-active, root bhū"
+    }
+   ],
+   "question": "How should the śakra and yoni markings be positioned in the diagram?",
+   "premises": [
+    "The diagram is marked with śakra and yoni",
+    "These markings are placed in outer and middle regions",
+    "The arrangement is prescribed"
+   ],
+   "inference": "The diagram should be marked with śakra and yoni placed in the outer and middle regions",
+   "uncertainties": [],
+   "plain_english": "O goddess, it should be marked with śakra and yoni, placed in the outer and middle parts."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "sarvasāmrājyadaṃ",
+     "gloss": "granting-all-sovereignty",
+     "grounds": "effect of the diagram",
+     "morph": "compound=sarva+sāmrājya+da, n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvopadravanāśanam",
+     "gloss": "destroying-all-afflictions",
+     "grounds": "effect of the diagram",
+     "morph": "compound=sarva+upadrava+nāśana, n.nom.sg"
+    }
+   ],
+   "question": "What protective and empowering effects does this diagram bestow?",
+   "premises": [
+    "The diagram grants all sovereignty",
+    "The diagram destroys all afflictions",
+    "These are its stated effects"
+   ],
+   "inference": "The diagram bestows universal sovereignty and removes all afflictions",
+   "uncertainties": [],
+   "plain_english": "O goddess, it grants all sovereignty and destroys all afflictions."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "mahāmokṣapradaṃ",
+     "gloss": "granting-great-liberation",
+     "grounds": "spiritual effect of the diagram",
+     "morph": "compound=mahā+mokṣa+prada, n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vāgvilāsakaraṃ+mahat",
+     "gloss": "causing-great-speech-delight",
+     "grounds": "effect on speech and expression",
+     "morph": "compound=vāc+vilāsa+kara+mahat, n.nom.sg"
+    }
+   ],
+   "question": "What spiritual and expressive benefits does this diagram confer?",
+   "premises": [
+    "The diagram grants great liberation",
+    "The diagram causes great delight in speech",
+    "These are its higher benefits"
+   ],
+   "inference": "The diagram confers great liberation and enhances the power and delight of speech",
+   "uncertainties": [],
+   "plain_english": "O goddess, it grants great liberation and brings about great delight in speech."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "tadyutaṃ",
+     "gloss": "joined-with-that",
+     "grounds": "describes the combined figure",
+     "morph": "compound=tad+yuta, n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "instruction to act",
+     "morph": "2.sg.imperative-active, root kṛ"
+    },
+    {
+     "surface": "padmākṣi",
+     "gloss": "o-lotus-eyed-one",
+     "grounds": "vocative address",
+     "morph": "compound=padma+akṣi, f.voc.sg"
+    },
+    {
+     "surface": "vasupatraṃ",
+     "gloss": "eight-petaled",
+     "grounds": "describes the lotus",
+     "morph": "compound=vasu+patra, n.acc.sg"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "charming",
+     "grounds": "aesthetic quality",
+     "morph": "compound=manas+hara, n.acc.sg"
+    }
+   ],
+   "question": "What additional element should be added to complete the charming diagram?",
+   "premises": [
+    "The existing figure is to be joined with another element",
+    "The added element is an eight-petaled form",
+    "The result should be charming"
+   ],
+   "inference": "One should add a charming eight-petaled lotus to the existing figure",
+   "uncertainties": [
+    "vasupatra interpreted as eight-petaled based on vasu=eight"
+   ],
+   "plain_english": "O lotus-eyed one, make it joined with that, forming a charming eight-petaled lotus."
+  }
+ ]
+}

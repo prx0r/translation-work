@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-those",
+     "grounds": "Refers back to the four divisions mentioned previously; indicates possession or relation to them.",
+     "morph": "pron.gen.pl.f"
+    },
+    {
+     "surface": "sammārjayed",
+     "gloss": "one-should-sweep",
+     "grounds": "Prescribes a ritual or preparatory action to be performed on the specified parts.",
+     "morph": "sam-√mṛj.opt.3.sg.act"
+    },
+    {
+     "surface": "bhāgānagrayorubhayorimān",
+     "gloss": "these-parts-at-both-tips",
+     "grounds": "Fused form comprising bhāgān (parts), agrayoḥ (at-the-two-tips), ubhayoḥ (of-both), and imān (these); specifies the portions to be swept.",
+     "morph": "compound+fused: bhāga.acc.pl.m + agra.loc.du + ubhaya.loc.du + idam.acc.pl.m"
+    }
+   ],
+   "question": "Which specific portions of those divisions must be swept away at both ends?",
+   "premises": [
+    "The prior division yields four parts measured in sequence.",
+    "A sweeping action is prescribed for portions belonging to those divisions.",
+    "The targeted portions are identified as these parts at both tips."
+   ],
+   "inference": "Therefore, the practitioner must sweep away these specified parts located at both ends of those divisions.",
+   "uncertainties": [
+    "The exact physical or diagrammatic referent of the tips depends on the ritual context of the preceding verses."
+   ],
+   "plain_english": "One should sweep away these parts of them at both tips."
+  }
+ ]
+}
