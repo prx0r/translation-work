@@ -1,12 +1,15 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3259,
- "question": "Which deity is present to the north of the sacred field of Kālī?",
+ "question": "Do royal punishment and ritual expiation apply in the case under discussion?",
  "premises": [
-  "The field of Kālī has a northern region.",
-  "Janārdana, god of gods, is located there."
+  "Royal punishment might be considered applicable.",
+  "Ritual expiation might be considered applicable.",
+  "The text denies the existence of both in this case."
  ],
- "inference": "Janārdana, the god of gods, is in the north of the Kālī field.",
- "uncertainties": [],
- "plain_english": "To the north of the field of Kālī is Janārdana, the god of gods."
+ "inference": "Neither royal punishment nor ritual expiation applies in this case.",
+ "uncertainties": [
+  "The specific case referred to depends on the immediate preceding context."
+ ],
+ "plain_english": "There is neither royal punishment nor expiation in this case."
 }

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "prāgukta",
+     "gloss": "previously-stated",
+     "grounds": "prior participial compound referring to earlier prescription",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "indicates doubling of the prescribed measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription for ritual action",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "kāmato",
+     "gloss": "intentionally",
+     "grounds": "denotes action done by desire or will",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkṛtir",
+     "gloss": "expiation",
+     "grounds": "ritual atonement for a fault",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-otherwise",
+     "grounds": "emphatic negation reinforcing the prescribed measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What degree of expiation is required when a ritual fault is committed intentionally?",
+   "premises": [
+    "A ritual fault may be committed intentionally.",
+    "Earlier verses prescribe a standard measure of expiation.",
+    "Intentional commission alters the required measure of expiation."
+   ],
+   "inference": "Therefore, an intentional ritual fault requires performing twice the previously prescribed expiation.",
+   "uncertainties": [],
+   "plain_english": "If the fault is committed intentionally, one must perform an expiation that is twice what was previously prescribed, and not otherwise."
+  }
+ ]
+}

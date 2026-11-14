@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p131",
  "verse": 3255,
- "question": "Which purified souls bathe there and approach the deity Janārdana in that place?",
+ "question": "Should fasting be imposed as expiation upon a person afflicted by illness?",
  "premises": [
-  "Some persons possess purified souls.",
-  "These persons bathe there and approach Janārdana."
+  "Expiation must be given after careful consideration.",
+  "A person may be afflicted by illness.",
+  "Fasting is not to be imposed on one afflicted by illness."
  ],
- "inference": "Those with purified souls bathe there and approach Janārdana.",
- "uncertainties": [
-  "The sentence continues beyond the listed tokens, so the full predicate is incomplete."
- ],
- "plain_english": "But those whose souls are purified, having bathed there, approach Janārdana."
+ "inference": "Fasting must not be prescribed as expiation for a sick person.",
+ "uncertainties": [],
+ "plain_english": "After careful consideration, expiation should be given, but fasting must not be imposed on one who is ill."
 }

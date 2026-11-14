@@ -3,39 +3,34 @@
  "verse": 3270,
  "rows": [
   {
-   "lemma": "abhūt",
-   "morph": "3.sg.act-aor √bhū",
-   "grounds": "past existence or presence"
+   "lemma": "sahasrā",
+   "morph": "compound sahasra+aghora",
+   "grounds": "numeral element in compound"
   },
   {
-   "lemma": "brāhmī",
-   "morph": "f.nom.sg",
-   "grounds": "name of a goddess"
+   "lemma": "aghora",
+   "morph": "compound aghora+vṛddhi",
+   "grounds": "name of a mantra"
   },
   {
-   "lemma": "ca",
+   "lemma": "vṛddhisyāt",
+   "morph": "compound vṛddhi+syāt",
+   "grounds": "compound of increase with optative verb"
+  },
+  {
+   "lemma": "sahasrāt",
+   "morph": "n.abl.sg",
+   "grounds": "ablative indicating starting point"
+  },
+  {
+   "lemma": "prabhṛti",
    "morph": "(indecl.)",
-   "grounds": "connects listed goddesses"
+   "grounds": "indeclinable indicating starting point"
   },
   {
-   "lemma": "vārāhī",
-   "morph": "f.nom.sg",
-   "grounds": "name of a goddess"
-  },
-  {
-   "lemma": "lakṣmīḥ",
-   "morph": "f.nom.sg",
-   "grounds": "name of a goddess"
-  },
-  {
-   "lemma": "ca+eva",
-   "morph": "compound",
-   "grounds": "emphatic conjunction"
-  },
-  {
-   "lemma": "anu+madhyamā",
-   "morph": "compound",
-   "grounds": "compound: anu (along/in) + madhyamā (middle)"
+   "lemma": "kramāt",
+   "morph": "(indecl.)",
+   "grounds": "ablative used adverbially for order"
   }
  ]
 }

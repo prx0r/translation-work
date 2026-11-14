@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive dependent indicating the target of opposition",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking items in the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratikūlatvam",
+     "gloss": "opposition",
+     "grounds": "abstract noun denoting contrariness or hostility",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the same class of acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipta",
+     "gloss": "deposited",
+     "grounds": "past participle qualifying what is appropriated; taken with saṃgrahaḥ",
+     "morph": "ppp.ni-√kṣip"
+    },
+    {
+     "surface": "saṃgrahaḥ",
+     "gloss": "appropriation",
+     "grounds": "noun denoting taking or seizing of entrusted property",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which acts against the teacher and entrusted property are condemned as transgressions?",
+   "premises": [
+    "Opposition to the teacher is included in the enumeration of prohibited acts.",
+    "Appropriation of deposited property is likewise included as a prohibited act.",
+    "These acts continue the preceding list of transgressive conduct."
+   ],
+   "inference": "Hostility toward the teacher and misappropriation of entrusted deposits are condemned transgressions.",
+   "uncertainties": [],
+   "plain_english": "And opposition to the teacher, and likewise the appropriation of what has been deposited."
+  }
+ ]
+}

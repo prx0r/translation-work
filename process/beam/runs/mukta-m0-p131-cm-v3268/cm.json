@@ -3,29 +3,49 @@
  "verse": 3268,
  "rows": [
   {
-   "lemma": "bhādra+śukla+caturdaśyāṃ",
-   "morph": "compound",
-   "grounds": "compound: bhādra (Bhādra month) + śukla (bright fortnight) + caturdaśyāṃ (on fourteenth day)"
+   "lemma": "sveṣṭa",
+   "morph": "compound sva+iṣṭa",
+   "grounds": "compound indicating one's chosen object of worship"
   },
   {
-   "lemma": "tasyāṃ",
-   "morph": "f.loc.sg",
-   "grounds": "refers to the specified day"
+   "lemma": "liṅge",
+   "morph": "n.loc.sg",
+   "grounds": "locative referring to the liṅga"
   },
   {
-   "lemma": "snātvā",
+   "lemma": "paribhraṣṭe",
+   "morph": "n.loc.sg past-participle pari+bhraṃś",
+   "grounds": "locative absolute indicating displacement"
+  },
+  {
+   "lemma": "ne",
    "morph": "(indecl.)",
-   "grounds": "ritual act performed on that day"
+   "grounds": "negation particle in sandhi context"
   },
   {
-   "lemma": "divaṃ",
-   "morph": "f.acc.sg",
-   "grounds": "destination attained"
+   "lemma": "iṣṭa",
+   "morph": "compound iṣṭa+dagdha",
+   "grounds": "part of compound or adjective indicating the chosen liṅga"
   },
   {
-   "lemma": "vrajet",
-   "morph": "3.sg.act-opt √vraj",
-   "grounds": "result of bathing on that day"
+   "lemma": "dagdhe",
+   "morph": "n.loc.sg past-participle dah",
+   "grounds": "locative absolute indicating burning"
+  },
+  {
+   "lemma": "hṛte",
+   "morph": "n.loc.sg past-participle hṛ",
+   "grounds": "locative absolute indicating removal"
+  },
+  {
+   "lemma": "api",
+   "morph": "(indecl.)",
+   "grounds": "inclusive particle"
+  },
+  {
+   "lemma": "vā",
+   "morph": "(indecl.)",
+   "grounds": "disjunctive particle"
   }
  ]
 }

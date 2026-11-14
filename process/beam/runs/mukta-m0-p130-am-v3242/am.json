@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p130",
  "verse": 3242,
- "question": "How is the stair made high after nine row parts?",
+ "question": "Which specific deities are included among those whose images are restricted in placement?",
  "premises": [
-  "Nine row parts are made then stair high by three parts."
+  "Certain deities are named as examples.",
+  "The list includes Viṣṇu, Brahmā, and Indra.",
+  "The list also includes Buddha or the Jina."
  ],
- "inference": "The stair height follows the row construction.",
+ "inference": "Therefore Viṣṇu, Brahmā, Indra, and also Buddha or the Jina are included among those deities.",
  "uncertainties": [
-  "Exact stair relation unclear."
+  "The term ārhata may refer specifically to a Jina image in this context."
  ],
- "plain_english": "After making nine row parts, the stair is raised by three parts."
+ "plain_english": "Viṣṇu, Brahmā, Indra, and also Buddha or the Jina are included."
 }
