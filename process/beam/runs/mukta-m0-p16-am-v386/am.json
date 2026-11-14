@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 386,
- "question": "How is the standard finger unit of measurement defined?",
+ "question": "What fractional shadow measures are prescribed at the two tips?",
  "premises": [
-  "The interval between two joints is considered.",
-  "This interval is described as long.",
-  "It is declared as the finger measure."
+  "The measure is expressed in relation to a daṇḍa.",
+  "Possible fractions are three quarters or half.",
+  "The measure applies at the two tips."
  ],
- "inference": "The long interval between two joints is declared to be the standard finger measure.",
- "uncertainties": [],
- "plain_english": "The long interval between the two joints is declared to be the standard finger measure."
+ "inference": "At the two tips, the shadow measure may be three quarters or half a daṇḍa.",
+ "uncertainties": [
+  "The token dagrayoḥ appears irregular and may reflect a textual issue."
+ ],
+ "plain_english": "At the two tips, the shadow measure may be three quarters of a daṇḍa or half."
 }

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p154",
  "verse": 3841,
- "question": "Who installs Ambikā and in what vessel is she placed?",
+ "question": "What fractional divisions are allowed as alternatives in the measurement scheme?",
  "premises": [
-  "A vardhanī vessel is prepared",
-  "Ambikā is the deity to be installed",
-  "The teacher performs the installation"
+  "A one-fifth division is an option.",
+  "A subdivision of the fire-part is an option.",
+  "These are presented as alternatives."
  ],
- "inference": "The teacher should install Ambikā in the prepared vardhanī vessel.",
- "uncertainties": [],
- "plain_english": "the teacher should install Ambikā in the prepared vardhanī vessel."
+ "inference": "It may be one part in five, or a subdivision of the fire-part.",
+ "uncertainties": [
+  "The exact parsing of agnyaṃśeṃśam is uncertain."
+ ],
+ "plain_english": "It may be one part in five, or else a subdivision of the fire-part."
 }

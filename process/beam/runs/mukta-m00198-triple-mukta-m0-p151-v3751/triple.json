@@ -1,0 +1,986 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3751,
+   "rows": [
+    {
+     "surface": "susaṃhitapadaṃ",
+     "gloss": "well-joined-footed",
+     "grounds": "compound describing a layout with well-joined divisions",
+     "morph": "compound"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāriṃśaccatuṣpadam",
+     "gloss": "forty-four-footed",
+     "grounds": "compound specifying forty divisions or feet",
+     "morph": "compound"
+    }
+   ],
+   "question": "What structural configuration is specified for the well-joined layout?",
+   "premises": [
+    "The layout is described as well-joined in its divisions.",
+    "It is further specified as having forty-four feet or divisions."
+   ],
+   "inference": "The prescribed layout is a well-joined structure composed of forty-four divisions.",
+   "uncertainties": [
+    "Exact architectural referent of 'pada' in this context is unclear."
+   ],
+   "plain_english": "The layout is well joined and consists of forty-four divisions."
+  },
+  {
+   "verse": 3752,
+   "rows": [
+    {
+     "surface": "sanandapaṃcavedāṃśaṃ",
+     "gloss": "with-nanda-five-veda-parts",
+     "grounds": "compound indicating divisions including nanda and five Veda parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃcādaśaviśālakam",
+     "gloss": "fifteen-wide",
+     "grounds": "compound specifying breadth of fifteen units",
+     "morph": "compound"
+    }
+   ],
+   "question": "What divisions and breadth define this prescribed layout?",
+   "premises": [
+    "The layout includes parts designated as nanda and five Veda portions.",
+    "Its breadth is specified as fifteen units."
+   ],
+   "inference": "The layout is defined by specific named divisions and a breadth of fifteen units.",
+   "uncertainties": [
+    "Meaning of 'sananda' and 'paṃcavedāṃśa' as technical terms is uncertain."
+   ],
+   "plain_english": "It has divisions including nanda and five Veda parts, and it is fifteen units wide."
+  },
+  {
+   "verse": 3753,
+   "rows": [
+    {
+     "surface": "vinyaṣaḍdviśataṃ",
+     "gloss": "arranged-six-two-hundred",
+     "grounds": "compound indicating an arrangement totaling two hundred and six",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "missing",
+     "grounds": "illegible or missing token in source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "missing",
+     "grounds": "illegible or missing token in source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṣṭhasamanvitam",
+     "gloss": "endowed-with-cells",
+     "grounds": "compound describing possession of cells or compartments",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many cells or compartments are included in this arrangement?",
+   "premises": [
+    "The arrangement involves a count related to two hundred and six and five.",
+    "The structure is endowed with cells or compartments."
+   ],
+   "inference": "The layout comprises a specified number of cells, though part of the count is missing.",
+   "uncertainties": [
+    "Two tokens are missing, making the full numerical total unclear.",
+    "Exact parsing of 'vinyaṣaḍdviśataṃ' is uncertain."
+   ],
+   "plain_english": "It is arranged with two hundred and six, five, and is endowed with cells, but part of the text is missing."
+  },
+  {
+   "verse": 3754,
+   "rows": [
+    {
+     "surface": "navaviṃśatikaṃ",
+     "gloss": "twenty-nine",
+     "grounds": "numeral compound indicating twenty-nine",
+     "morph": "compound"
+    },
+    {
+     "surface": "saptaśataṃ",
+     "gloss": "seven-hundred",
+     "grounds": "numeral compound indicating seven hundred",
+     "morph": "compound"
+    },
+    {
+     "surface": "vipratikāntakam",
+     "gloss": "opposed-to-brahmins",
+     "grounds": "compound indicating something adverse for brahmins",
+     "morph": "compound"
+    }
+   ],
+   "question": "What numerical measure is declared adverse for brahmins?",
+   "premises": [
+    "A measure of seven hundred and twenty-nine is stated.",
+    "This measure is described as opposed to brahmins."
+   ],
+   "inference": "The count of seven hundred and twenty-nine is considered unfavorable for brahmins.",
+   "uncertainties": [
+    "The exact unit being counted is not specified in this verse."
+   ],
+   "plain_english": "Seven hundred and twenty-nine is said to be unfavorable for brahmins."
+  },
+  {
+   "verse": 3755,
+   "rows": [
+    {
+     "surface": "saikāṣṭapaṃcayutaṃ",
+     "gloss": "with-one-eight-five-added",
+     "grounds": "compound indicating addition of one, eight, and five",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāṣṭaśataṃ",
+     "gloss": "and-eight-hundred",
+     "grounds": "conjunction plus numeral compound for eight hundred",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viprāṇām",
+     "gloss": "of-brahmins",
+     "grounds": "genitive plural indicating those for whom it applies",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What alternative numerical measure is assigned for brahmins?",
+   "premises": [
+    "A measure of eight hundred with one, eight, and five added is given.",
+    "This measure is specified for brahmins."
+   ],
+   "inference": "Eight hundred plus fourteen is prescribed as a measure for brahmins.",
+   "uncertainties": [
+    "The exact unit being counted is not specified in this verse."
+   ],
+   "plain_english": "But for brahmins, eight hundred together with one, eight, and five is given."
+  },
+  {
+   "verse": 3756,
+   "rows": [
+    {
+     "surface": "saikāṣṭakādhikaṃ",
+     "gloss": "with-one-eight-excess",
+     "grounds": "compound indicating an excess of one and eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "daśaśatam",
+     "gloss": "ten-hundred",
+     "grounds": "numeral compound indicating one thousand",
+     "morph": "compound"
+    },
+    {
+     "surface": "īśvarasya",
+     "gloss": "of-lord",
+     "grounds": "genitive singular indicating association with the lord",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kārakam",
+     "gloss": "making",
+     "grounds": "agentive adjective indicating effecting or producing",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What numerical measure is said to be effective for the lord?",
+   "premises": [
+    "A measure of one thousand with an excess of one and eight is stated.",
+    "This measure is described as effecting or suitable for the lord."
+   ],
+   "inference": "One thousand and nine is presented as the effective measure for the lord.",
+   "uncertainties": [
+    "The exact unit and the sense of 'kārakam' in this technical context are uncertain."
+   ],
+   "plain_english": "Ten hundred with one and eight added is effective for the lord."
+  },
+  {
+   "verse": 3757,
+   "rows": [
+    {
+     "surface": "vinyāsārdhaṃ",
+     "gloss": "half-of-arrangement",
+     "grounds": "compound indicating half of the layout",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāmāṇāṃ",
+     "gloss": "of-villages",
+     "grounds": "genitive plural indicating application to villages",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "division",
+     "grounds": "noun indicating a unit or division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṃśataṃ",
+     "gloss": "thirty",
+     "grounds": "numeral indicating thirty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What reduced arrangement is prescribed for villages?",
+   "premises": [
+    "Half of the arrangement is mentioned for villages.",
+    "A division of thirty is stated as the measure."
+   ],
+   "inference": "For villages, the arrangement should be half-sized with thirty divisions.",
+   "uncertainties": [
+    "The relation between 'half of arrangement' and 'thirty divisions' is somewhat ambiguous."
+   ],
+   "plain_english": "But for villages, the arrangement should be half, and the division should be thirty."
+  },
+  {
+   "verse": 3758,
+   "rows": [
+    {
+     "surface": "tadante",
+     "gloss": "at-its-end",
+     "grounds": "compound indicating the end of that",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatsamābhāsaṃ",
+     "gloss": "similar-in-appearance-to-that",
+     "grounds": "compound indicating resemblance to that",
+     "morph": "compound"
+    },
+    {
+     "surface": "savikalpāt",
+     "gloss": "by-variation",
+     "grounds": "ablative indicating cause or means through variation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tadāntakam",
+     "gloss": "ending-with-that",
+     "grounds": "compound indicating termination with that",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the terminal portion be formed by variation?",
+   "premises": [
+    "At its end there is something similar in appearance to that.",
+    "This is produced by variation and ends with that."
+   ],
+   "inference": "The terminal portion should resemble the preceding form but be modified by variation.",
+   "uncertainties": [
+    "The referents of 'that' and the nature of the variation are unclear."
+   ],
+   "plain_english": "At its end, by variation, it should appear similar to that and terminate accordingly."
+  },
+  {
+   "verse": 3759,
+   "rows": [
+    {
+     "surface": "yugāṃśe",
+     "gloss": "in-yuga-part",
+     "grounds": "locative compound indicating a yuga division",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūtramadhye",
+     "gloss": "in-middle-of-line",
+     "grounds": "locative compound indicating the middle of a line",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ojāṃśe",
+     "gloss": "in-odd-part",
+     "grounds": "locative compound indicating an odd division",
+     "morph": "compound"
+    },
+    {
+     "surface": "padamadhyame",
+     "gloss": "in-middle-of-division",
+     "grounds": "locative compound indicating the middle of a division",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the specified elements be placed within the layout?",
+   "premises": [
+    "Placement is indicated in the yuga part and middle of the line.",
+    "Placement is also indicated in the odd part and middle of the division."
+   ],
+   "inference": "The elements are to be positioned at specified midpoints within designated parts of the layout.",
+   "uncertainties": [
+    "Technical meanings of 'yugāṃśa' and 'ojāṃśa' in this context are uncertain."
+   ],
+   "plain_english": "They should be placed in the yuga part, in the middle of the line, in the odd part, and in the middle of the division."
+  },
+  {
+   "verse": 3760,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃcadaṇḍaṃ",
+     "gloss": "one-two-three-four-five-rods",
+     "grounds": "compound listing possible rod measures",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīthivistṛtam",
+     "gloss": "street-width",
+     "grounds": "compound indicating the breadth of a street",
+     "morph": "compound"
+    }
+   ],
+   "question": "What range of rod measures may define the width of a street?",
+   "premises": [
+    "Measures of one, two, three, four, or five rods are listed.",
+    "These measures apply to the width of a street."
+   ],
+   "inference": "A street may be made one to five rods wide.",
+   "uncertainties": [],
+   "plain_english": "The width of a street may be one, two, three, four, or five rods."
+  },
+  {
+   "verse": 3761,
+   "rows": [
+    {
+     "surface": "brahmavīthiriti",
+     "gloss": "brahma-street-thus",
+     "grounds": "compound with quotative particle naming the Brahma street",
+     "morph": "compound"
+    },
+    {
+     "surface": "khyātā",
+     "gloss": "known",
+     "grounds": "past participle indicating it is known or called",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nābhivīthīti",
+     "gloss": "navel-street-thus",
+     "grounds": "compound with quotative particle naming the navel street",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb indicating designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What names are given to the designated central streets?",
+   "premises": [
+    "One street is known as the Brahma street.",
+    "Another is called the navel street."
+   ],
+   "inference": "The central streets are designated as Brahma street and navel street.",
+   "uncertainties": [],
+   "plain_english": "It is known as the Brahma street, and it is also called the navel street."
+  },
+  {
+   "verse": 3762,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-very",
+     "grounds": "pronoun with emphatic particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jaghanaṃ",
+     "gloss": "hip",
+     "grounds": "noun used as a designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīthi",
+     "gloss": "street",
+     "grounds": "noun indicating a street",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rathavīthirihocyate",
+     "gloss": "chariot-street-here-is-called",
+     "grounds": "compound with locative particle and passive verb naming the chariot street",
+     "morph": "compound"
+    }
+   ],
+   "question": "What additional designation is applied to that same street?",
+   "premises": [
+    "That same street is identified as the hip.",
+    "It is here called the chariot street."
+   ],
+   "inference": "The same street is also designated as the hip street and the chariot street.",
+   "uncertainties": [
+    "The metaphorical sense of 'jaghana' as a street name is interpretive."
+   ],
+   "plain_english": "That very street is the hip street, and here it is called the chariot street."
+  },
+  {
+   "verse": 3763,
+   "rows": [
+    {
+     "surface": "tiryagdvārasamāyuktā",
+     "gloss": "joined-with-cross-door",
+     "grounds": "compound describing a street equipped with a transverse door",
+     "morph": "compound"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nārā",
+     "gloss": "nārā",
+     "grounds": "technical name of a street type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjñitā",
+     "gloss": "named",
+     "grounds": "past participle indicating designation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What name is given to a street equipped with a transverse door?",
+   "premises": [
+    "A street is described as joined with a transverse door.",
+    "That street is named nārā."
+   ],
+   "inference": "A street with a transverse door is designated as nārā.",
+   "uncertainties": [
+    "The precise technical meaning of 'nārā' is uncertain."
+   ],
+   "plain_english": "The street that is equipped with a transverse door is named nārā."
+  },
+  {
+   "verse": 3764,
+   "rows": [
+    {
+     "surface": "vīthīnārācakādīnāṃ",
+     "gloss": "of-street-nārā-wheel-and-others",
+     "grounds": "genitive plural compound listing street types",
+     "morph": "compound"
+    },
+    {
+     "surface": "pathanāmnā",
+     "gloss": "by-name-path",
+     "grounds": "instrumental compound indicating designation as path",
+     "morph": "compound"
+    },
+    {
+     "surface": "praśaṃsitā",
+     "gloss": "praised",
+     "grounds": "past participle indicating commendation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are the street, nārā, wheel, and related forms collectively regarded?",
+   "premises": [
+    "Street, nārā, wheel, and others are mentioned together.",
+    "They are praised under the name of path."
+   ],
+   "inference": "These various street forms are commended collectively as paths.",
+   "uncertainties": [
+    "The exact referent of 'cakra' in this list is uncertain."
+   ],
+   "plain_english": "The street, nārā, wheel, and others are praised under the name of path."
+  },
+  {
+   "verse": 3765,
+   "rows": [
+    {
+     "surface": "jane",
+     "gloss": "for-people",
+     "grounds": "locative singular indicating the beneficiaries",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vīthervaṣṭhā",
+     "gloss": "street-arrangement",
+     "grounds": "compound indicating the arrangement or state of a street",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhakarmasukhāvaham",
+     "gloss": "bringing-house-work-happiness",
+     "grounds": "compound describing something that brings comfort in household work",
+     "morph": "compound"
+    }
+   ],
+   "question": "What benefit does the proper street arrangement bring to people?",
+   "premises": [
+    "The arrangement of the street is considered in relation to people.",
+    "It brings happiness in household work."
+   ],
+   "inference": "A proper street arrangement promotes comfort and ease in household activities for people.",
+   "uncertainties": [
+    "The exact form and meaning of 'vīthervaṣṭhā' is uncertain."
+   ],
+   "plain_english": "For people, the arrangement of the street brings happiness in household work."
+  },
+  {
+   "verse": 3766,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative adverb indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatheṣṭaśaileṣu",
+     "gloss": "on-desired-rocky-sites",
+     "grounds": "locative plural compound indicating chosen rocky places",
+     "morph": "compound"
+    },
+    {
+     "surface": "diṣṭamāne",
+     "gloss": "when-measured",
+     "grounds": "locative participle indicating the condition of being measured",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gṛhaṃ",
+     "gloss": "house",
+     "grounds": "accusative singular object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative verb commanding construction",
+     "morph": "2.sg.imperative-act √kṛ"
+    }
+   ],
+   "question": "What practical instruction follows for constructing a house?",
+   "premises": [
+    "A consequence is drawn from the preceding considerations.",
+    "A house should be made on desired rocky sites when properly measured."
+   ],
+   "inference": "One should construct a house on chosen rocky sites according to proper measurement.",
+   "uncertainties": [],
+   "plain_english": "Therefore, when the site is measured, build the house on the desired rocky ground."
+  },
+  {
+   "verse": 3767,
+   "rows": [
+    {
+     "surface": "prathamadhyapathāgre",
+     "gloss": "at-front-of-first-middle-path",
+     "grounds": "locative compound indicating a position at the front of the first middle path",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmabāhye",
+     "gloss": "outside-work-area",
+     "grounds": "locative compound indicating outside the work area",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhonnatam",
+     "gloss": "house-elevated",
+     "grounds": "compound indicating an elevated house",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should an elevated house be situated in relation to paths and work areas?",
+   "premises": [
+    "A position at the front of the first middle path is indicated.",
+    "A position outside the work area is indicated for an elevated house."
+   ],
+   "inference": "An elevated house should be placed at the front of the first middle path and outside the work area.",
+   "uncertainties": [
+    "The technical sense of 'karmabāhye' is uncertain."
+   ],
+   "plain_english": "An elevated house should be at the front of the first middle path and outside the work area."
+  },
+  {
+   "verse": 3768,
+   "rows": [
+    {
+     "surface": "nandyāvartaparāgaṃ",
+     "gloss": "nandyāvarta-and-parāga",
+     "grounds": "compound naming layout types nandyāvarta and parāga",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmakaṃ",
+     "gloss": "lotus",
+     "grounds": "noun naming the lotus layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "prosperity",
+     "grounds": "noun indicating auspiciousness or prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pratiṣṭhitam",
+     "gloss": "established",
+     "grounds": "past participle indicating something established",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which auspicious layout forms are recognized as established?",
+   "premises": [
+    "Nandyāvarta, parāga, and padmaka layouts are mentioned.",
+    "They are associated with prosperity and described as established."
+   ],
+   "inference": "The nandyāvarta, parāga, and lotus layouts are established as auspicious forms.",
+   "uncertainties": [
+    "The exact distinction between 'nandyāvarta' and 'parāga' here is uncertain."
+   ],
+   "plain_english": "The nandyāvarta, parāga, and lotus forms are established as auspicious."
+  },
+  {
+   "verse": 3769,
+   "rows": [
+    {
+     "surface": "daṇḍākāraikavīthī",
+     "gloss": "staff-shaped-single-street",
+     "grounds": "compound describing a single street shaped like a staff",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility or prescription",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "prāṅmukhaṃ",
+     "gloss": "east-facing",
+     "grounds": "compound indicating orientation toward the east",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apyudaṅmukham",
+     "gloss": "also-north-facing",
+     "grounds": "compound with particle indicating orientation toward the north",
+     "morph": "compound"
+    }
+   ],
+   "question": "What orientation may a single staff-shaped street have?",
+   "premises": [
+    "A single street shaped like a staff is described.",
+    "It may face east or also face north."
+   ],
+   "inference": "A staff-shaped single street may be oriented either eastward or northward.",
+   "uncertainties": [],
+   "plain_english": "A single staff-shaped street may face east or north."
+  },
+  {
+   "verse": 3770,
+   "rows": [
+    {
+     "surface": "mukhe mukhe",
+     "gloss": "at-each-end",
+     "grounds": "reduplicated locative indicating each end or entrance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viniṣṭhāntaṃ",
+     "gloss": "ending-in-termination",
+     "grounds": "compound indicating termination at the end",
+     "morph": "compound"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daṇḍakam",
+     "gloss": "staff-form",
+     "grounds": "noun naming the staff-shaped layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb indicating designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What structural feature defines the layout called daṇḍaka?",
+   "premises": [
+    "The layout terminates at each end.",
+    "Such a form is called daṇḍaka."
+   ],
+   "inference": "A layout that ends at each entrance is designated as daṇḍaka.",
+   "uncertainties": [],
+   "plain_english": "That which terminates at each end is called daṇḍaka."
+  },
+  {
+   "verse": 3771,
+   "rows": [
+    {
+     "surface": "karkarī",
+     "gloss": "karkarī",
+     "grounds": "technical name of a layout type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daṇḍakaṃ",
+     "gloss": "staff-form",
+     "grounds": "noun naming the staff-shaped layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "indeed-thus",
+     "grounds": "emphatic particles indicating explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdigveśmanirgamam",
+     "gloss": "having-exits-to-four-directions",
+     "grounds": "compound describing exits in four directions",
+     "morph": "compound"
+    }
+   ],
+   "question": "What characterizes the karkarī form of the daṇḍaka layout?",
+   "premises": [
+    "The karkarī daṇḍaka is described.",
+    "It has exits in all four directions."
+   ],
+   "inference": "The karkarī daṇḍaka is a staff-form layout with exits facing the four directions.",
+   "uncertainties": [
+    "The precise technical meaning of 'karkarī' is uncertain."
+   ],
+   "plain_english": "The karkarī daṇḍaka is thus the form that has exits in all four directions."
+  },
+  {
+   "verse": 3772,
+   "rows": [
+    {
+     "surface": "parjanyāṃśe",
+     "gloss": "in-parjanya-part",
+     "grounds": "locative compound indicating the Parjanya division",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūṣāṃśe",
+     "gloss": "in-pūṣan-part",
+     "grounds": "locative compound indicating the Pūṣan division",
+     "morph": "compound"
+    },
+    {
+     "surface": "dauvārike",
+     "gloss": "in-doorkeeper-part",
+     "grounds": "locative indicating the doorkeeper division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "emphatic adverb indicating similarity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which directional divisions are specified for placement in this context?",
+   "premises": [
+    "The Parjanya part and the Pūṣan part are mentioned.",
+    "The doorkeeper part is likewise mentioned."
+   ],
+   "inference": "Placement is specified in the Parjanya, Pūṣan, and doorkeeper divisions.",
+   "uncertainties": [
+    "The exact architectural function of these divisions is not fully specified."
+   ],
+   "plain_english": "In the Parjanya part, in the Pūṣan part, and likewise in the doorkeeper part."
+  },
+  {
+   "verse": 3773,
+   "rows": [
+    {
+     "surface": "janavīdhyāvasānaṃ",
+     "gloss": "ending-at-people-street",
+     "grounds": "compound indicating termination at the people's street",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarhivīthī",
+     "gloss": "tarhi-street",
+     "grounds": "compound naming a type of street",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative addressing the best of brahmins",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What street type is identified as ending at the people's street?",
+   "premises": [
+    "A termination at the people's street is described.",
+    "This is addressed to the best of the twice-born as the tarhi street."
+   ],
+   "inference": "The street that ends at the people's street is called the tarhi street.",
+   "uncertainties": [
+    "The meaning of 'tarhivīthī' is uncertain."
+   ],
+   "plain_english": "O best of the twice-born, the street that ends at the people's street is the tarhi street."
+  },
+  {
+   "verse": 3774,
+   "rows": [
+    {
+     "surface": "śrīkaraṃ",
+     "gloss": "prosperity-making",
+     "grounds": "compound indicating something that produces prosperity",
+     "morph": "compound"
+    },
+    {
+     "surface": "daṇḍakaṃ",
+     "gloss": "staff-form",
+     "grounds": "noun naming the staff-shaped layout",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hyetat",
+     "gloss": "indeed-this",
+     "grounds": "emphatic particle with demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural indicating universal applicability",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "daṇḍasaṃpadam",
+     "gloss": "staff-prosperity",
+     "grounds": "compound indicating the excellence or prosperity of the staff form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What auspicious quality is attributed to this daṇḍaka layout for all?",
+   "premises": [
+    "This daṇḍaka is described as prosperity-making.",
+    "It is said to be the staff-prosperity for all."
+   ],
+   "inference": "This daṇḍaka layout is auspicious and brings prosperity to all.",
+   "uncertainties": [
+    "The precise nuance of 'daṇḍasaṃpadam' is interpretive."
+   ],
+   "plain_english": "Indeed, this prosperity-making daṇḍaka is the staff-form prosperity for all."
+  }
+ ]
+}

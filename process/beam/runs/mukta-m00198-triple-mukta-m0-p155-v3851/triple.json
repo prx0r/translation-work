@@ -1,0 +1,885 @@
+{
+ "song": "mukta-m0-p155",
+ "items": [
+  {
+   "verse": 3851,
+   "rows": [
+    {
+     "surface": "nālīgṛhaviśālaṃ",
+     "gloss": "drain-chamber-width",
+     "grounds": "compound indicating width of the drain chamber",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "tasyārdhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound referring to half of that width",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhitti vistṛtam",
+     "gloss": "wall-extended",
+     "grounds": "compound indicating breadth of the wall",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional width must the drain chamber and its surrounding wall have?",
+   "premises": [
+    "The drain chamber has a prescribed width",
+    "The wall breadth relates to that width",
+    "The wall breadth equals half the chamber width"
+   ],
+   "inference": "The surrounding wall must extend to half the width of the drain chamber.",
+   "uncertainties": [],
+   "plain_english": "The drain chamber should be of a certain width, and the wall around it should extend to half of that width."
+  },
+  {
+   "verse": 3852,
+   "rows": [
+    {
+     "surface": "kuṭṭimasya viśālaṃ",
+     "gloss": "of-pavement-width",
+     "grounds": "compound indicating width of the pavement",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "refers to vertical measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavadeva hi",
+     "gloss": "just-as-before-indeed",
+     "grounds": "compound indicating conformity with prior rule",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the height of the pavement be determined relative to earlier prescriptions?",
+   "premises": [
+    "The pavement has a specified width",
+    "Its height must also be fixed",
+    "Earlier rules already define that height"
+   ],
+   "inference": "The height of the pavement must follow the same measure prescribed before.",
+   "uncertainties": [],
+   "plain_english": "The width of the pavement is specified, but its height should indeed be just as stated before."
+  },
+  {
+   "verse": 3853,
+   "rows": [
+    {
+     "surface": "tena dvitriguṇaṃ",
+     "gloss": "by-that-two-or-three-times",
+     "grounds": "compound expressing multiplication by two or three",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "compound particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nālīgehaviśālakam",
+     "gloss": "drain-chamber-width",
+     "grounds": "compound indicating width of the drain chamber",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what multiples may the drain chamber width be increased from the base measure?",
+   "premises": [
+    "A base measure for the drain chamber exists",
+    "The width may be enlarged",
+    "Permitted enlargements are twofold or threefold"
+   ],
+   "inference": "The drain chamber width may be made two or three times the base measure.",
+   "uncertainties": [
+    "Spelling nālīgehaviśālakam differs from nālīgṛhaviśālakam in earlier verse"
+   ],
+   "plain_english": "The width of the drain chamber may even be two or three times that measure."
+  },
+  {
+   "verse": 3854,
+   "rows": [
+    {
+     "surface": "śāntikābhyudayaṃ",
+     "gloss": "peace-and-prosperity",
+     "grounds": "compound denoting rites for pacification and prosperity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable indicating conformity with prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi viśeṣataḥ",
+     "gloss": "indeed-especially",
+     "grounds": "compound emphasizing special importance",
+     "morph": "compound"
+    }
+   ],
+   "question": "How must rites for peace and prosperity be performed in this construction context?",
+   "premises": [
+    "Rites for peace and prosperity are required",
+    "Prior instructions govern their performance",
+    "Special care is emphasized"
+   ],
+   "inference": "Rites for peace and prosperity must be performed especially as prescribed before.",
+   "uncertainties": [],
+   "plain_english": "The rites for peace and prosperity should indeed be performed especially as before."
+  },
+  {
+   "verse": 3855,
+   "rows": [
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "two-times",
+     "grounds": "compound indicating double measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dviguṇārdhaṃ",
+     "gloss": "two-times-and-half",
+     "grounds": "compound indicating two and a half times",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triguṇaṃ piṇḍikā",
+     "gloss": "three-times-pedestal",
+     "grounds": "compound specifying pedestal measure as three times",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What proportional measures are permitted for the pedestal in relation to the base unit?",
+   "premises": [
+    "The pedestal requires a defined proportion",
+    "Multiple proportional options are allowed",
+    "Options include double, two and a half, or triple"
+   ],
+   "inference": "The pedestal may be made two, two and a half, or three times the base measure.",
+   "uncertainties": [],
+   "plain_english": "Then the pedestal may be two times, two and a half times, or three times the measure."
+  },
+  {
+   "verse": 3856,
+   "rows": [
+    {
+     "surface": "pīṭhavyāsasamaṃ",
+     "gloss": "equal-to-pedestal-width",
+     "grounds": "compound indicating equality with pedestal width",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhadviguṇaṃ",
+     "gloss": "with-half-two-times",
+     "grounds": "compound indicating two and a half times",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dviguṇārdhakam",
+     "gloss": "two-times-and-half",
+     "grounds": "compound indicating two and a half times",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative measures relative to the pedestal width are prescribed for the associated dimension?",
+   "premises": [
+    "A dimension relates to pedestal width",
+    "It may equal the pedestal width",
+    "It may also be two and a half times"
+   ],
+   "inference": "The dimension may be equal to the pedestal width or two and a half times it.",
+   "uncertainties": [
+    "sārdhadviguṇaṃ and dviguṇārdhakam appear synonymous here"
+   ],
+   "plain_english": "It may be equal to the width of the pedestal, or two and a half times, or two and a half times."
+  },
+  {
+   "verse": 3857,
+   "rows": [
+    {
+     "surface": "pūjāṃśasyaiva dviguṇaṃ",
+     "gloss": "of-worship-part-indeed-two-times",
+     "grounds": "compound indicating double the worship portion",
+     "morph": "compound"
+    },
+    {
+     "surface": "pīṭha vyāsamudāhṛtam",
+     "gloss": "pedestal-width-declared",
+     "grounds": "compound stating the declared pedestal width",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the pedestal width defined in relation to the worship portion?",
+   "premises": [
+    "The worship portion has a fixed measure",
+    "The pedestal width is derived from it",
+    "The pedestal width is declared as double that portion"
+   ],
+   "inference": "The pedestal width is declared to be twice the worship portion.",
+   "uncertainties": [],
+   "plain_english": "The width of the pedestal is declared to be exactly twice the worship portion."
+  },
+  {
+   "verse": 3858,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound referring to half of that measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripādamagnyaṃśaṃ",
+     "gloss": "three-quarters-or-fire-part",
+     "grounds": "compound indicating alternative fractional measures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhittivyāsamudāhṛtam",
+     "gloss": "wall-width-declared",
+     "grounds": "compound stating the declared wall width",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fractional measures are declared for the width of the wall?",
+   "premises": [
+    "The wall width must be specified",
+    "It is derived from a prior measure",
+    "Permitted fractions include half or three quarters"
+   ],
+   "inference": "The wall width is declared as half or three quarters of the reference measure.",
+   "uncertainties": [
+    "Interpretation of agnyaṃśa as a specific fractional part is uncertain"
+   ],
+   "plain_english": "The width of the wall is declared to be half of that, or three quarters, or a fire-part."
+  },
+  {
+   "verse": 3859,
+   "rows": [
+    {
+     "surface": "hīne hīnapramāṇeṣu",
+     "gloss": "in-lesser-lesser-measures",
+     "grounds": "compound indicating cases of reduced measurements",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvantareṣṭavibhājite",
+     "gloss": "divided-by-two-intervals-desired",
+     "grounds": "compound describing division into desired intervals",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should measurements be adjusted when dealing with reduced or lesser dimensions?",
+   "premises": [
+    "Some constructions use lesser measures",
+    "Such measures require proper division",
+    "Division follows desired intervals between two limits"
+   ],
+   "inference": "In cases of lesser measures, dimensions should be divided according to the desired intervals.",
+   "uncertainties": [
+    "Exact technical sense of dvantareṣṭavibhājite is unclear"
+   ],
+   "plain_english": "In cases of lesser and reduced measures, it should be divided according to the desired intervals."
+  },
+  {
+   "verse": 3860,
+   "rows": [
+    {
+     "surface": "kuḍyavyāsaṃ",
+     "gloss": "wall-width",
+     "grounds": "compound indicating width of the wall",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "harmyaiśca",
+     "gloss": "and-with-palaces",
+     "grounds": "compound indicating inclusion of palace structures",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "in-nine-ways",
+     "grounds": "indeclinable indicating ninefold division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvija !",
+     "gloss": "o-twice-born",
+     "grounds": "vocative address to the practitioner",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Into how many divisions must the wall width and palace structures be arranged?",
+   "premises": [
+    "Wall width must be determined",
+    "Palace structures are included in the rule",
+    "A ninefold division is prescribed"
+   ],
+   "inference": "The wall width and palace structures must be arranged in nine divisions.",
+   "uncertainties": [],
+   "plain_english": "O twice-born one, the wall width and the palace structures should be made in nine divisions."
+  },
+  {
+   "verse": 3861,
+   "rows": [
+    {
+     "surface": "sādhāraṃ",
+     "gloss": "with-support",
+     "grounds": "adjective indicating presence of a support",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirādhāraṃ",
+     "gloss": "without-support",
+     "grounds": "adjective indicating absence of a support",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgukta vidhinā",
+     "gloss": "by-previously-stated-rule",
+     "grounds": "compound indicating method stated earlier",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative commanding action",
+     "morph": "2.sg.imperative-active + kṛ"
+    }
+   ],
+   "question": "What structural options are permitted when constructing according to the previously stated rule?",
+   "premises": [
+    "Construction follows a previously stated rule",
+    "The structure may include a support",
+    "The structure may also lack a support"
+   ],
+   "inference": "One should construct it either with support or without support according to the earlier rule.",
+   "uncertainties": [],
+   "plain_english": "Make it either with a support or without a support, according to the previously stated rule."
+  },
+  {
+   "verse": 3862,
+   "rows": [
+    {
+     "surface": "ratnalohajaliṃgānāṃ",
+     "gloss": "of-jewel-metal-water-liṅgas",
+     "grounds": "compound listing types of liṅgas",
+     "morph": "compound"
+    },
+    {
+     "surface": "pīṭhanālīgṛhāyatam",
+     "gloss": "pedestal-drain-chamber-extended",
+     "grounds": "compound indicating extension of pedestal and drain chamber",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the pedestal and drain chamber be extended for liṅgas made of jewels, metal, or water?",
+   "premises": [
+    "Liṅgas may be made of jewels, metal, or water",
+    "Such liṅgas require specific structural provisions",
+    "The pedestal and drain chamber must be extended accordingly"
+   ],
+   "inference": "For jewel, metal, or water liṅgas, the pedestal and drain chamber must be extended.",
+   "uncertainties": [
+    "Exact meaning of jaliṃga in this compound is uncertain"
+   ],
+   "plain_english": "For liṅgas made of jewels, metal, or water, the pedestal and drain chamber should be extended."
+  },
+  {
+   "verse": 3863,
+   "rows": [
+    {
+     "surface": "sthūlamūlaṃ",
+     "gloss": "thick-base",
+     "grounds": "compound describing a form with thick base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiraḥ sthūlaṃ",
+     "gloss": "thick-head",
+     "grounds": "compound describing a form with thick top",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhyasthūlaṃ",
+     "gloss": "thick-middle",
+     "grounds": "compound describing a form with thick middle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu ārṣakam",
+     "gloss": "but-ṛṣi-related",
+     "grounds": "compound indicating a type associated with ṛṣis",
+     "morph": "compound"
+    }
+   ],
+   "question": "What distinct forms are recognized for the ṛṣi-related type of liṅga?",
+   "premises": [
+    "An ṛṣi-related type of liṅga is identified",
+    "This type admits different shapes",
+    "Shapes include thick base, thick head, or thick middle"
+   ],
+   "inference": "The ṛṣi-related liṅga may be thick at the base, thick at the head, or thick in the middle.",
+   "uncertainties": [
+    "Technical classification of ārṣaka is not fully specified"
+   ],
+   "plain_english": "The ṛṣi-related type may be thick at the base, thick at the head, or thick in the middle."
+  },
+  {
+   "verse": 3864,
+   "rows": [
+    {
+     "surface": "pāṣāṇaṃ",
+     "gloss": "stone",
+     "grounds": "refers to a stone liṅga or material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiromānaṃ",
+     "gloss": "head-measure",
+     "grounds": "compound indicating measurement of the head",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā tuṃgaṃ",
+     "gloss": "without-height",
+     "grounds": "compound indicating exclusion of height",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu saṃgṛhet",
+     "gloss": "but-should-take",
+     "grounds": "optative expressing prescribed action",
+     "morph": "3.sg.optative-middle + saṃ-grah"
+    }
+   ],
+   "question": "How should the measurement of a stone liṅga be taken with respect to its head and height?",
+   "premises": [
+    "A stone liṅga requires measurement",
+    "The head measure is relevant",
+    "The height is excluded in this calculation"
+   ],
+   "inference": "One should take the head measure of the stone liṅga without including its height.",
+   "uncertainties": [],
+   "plain_english": "One should take the stone liṅga and its head measure, but without including the height."
+  },
+  {
+   "verse": 3865,
+   "rows": [
+    {
+     "surface": "teṣvekāṃśakalāṃśeṃśaṃ",
+     "gloss": "among-them-one-part-fraction-part",
+     "grounds": "compound indicating a fractional division among those parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṃgamadhyāttu dakṣiṇe",
+     "gloss": "from-liṅga-middle-but-to-south",
+     "grounds": "compound indicating position south of the liṅga's middle",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should a specific fractional division be placed relative to the middle of the liṅga?",
+   "premises": [
+    "A fractional division is required",
+    "The liṅga's middle serves as reference",
+    "The placement is to the south of that middle"
+   ],
+   "inference": "The specified fractional part should be placed to the south of the middle of the liṅga.",
+   "uncertainties": [
+    "Exact parsing of teṣvekāṃśakalāṃśeṃśaṃ is difficult"
+   ],
+   "plain_english": "Among those, a fractional part should be placed to the south from the middle of the liṅga."
+  },
+  {
+   "verse": 3866,
+   "rows": [
+    {
+     "surface": "prāsādamadhyasūtraṃ",
+     "gloss": "temple-middle-line",
+     "grounds": "compound indicating central axis of the temple",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāramadhyaṃ",
+     "gloss": "door-middle",
+     "grounds": "compound indicating middle of the doorway",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadeva hi",
+     "gloss": "that-indeed-only",
+     "grounds": "compound emphasizing identity",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alignment must hold between the temple's central axis and the doorway's center?",
+   "premises": [
+    "The temple has a central axis",
+    "The doorway has a middle point",
+    "These two must coincide"
+   ],
+   "inference": "The middle line of the temple and the middle of the doorway must be the same.",
+   "uncertainties": [],
+   "plain_english": "The central line of the temple and the middle of the doorway are indeed the same."
+  },
+  {
+   "verse": 3867,
+   "rows": [
+    {
+     "surface": "yena liṃgena",
+     "gloss": "by-which-liṅga",
+     "grounds": "compound indicating the liṅga used as standard",
+     "morph": "compound"
+    },
+    {
+     "surface": "yanmānaṃ",
+     "gloss": "which-measure",
+     "grounds": "compound indicating the measure taken",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirmitaṃ",
+     "gloss": "constructed",
+     "grounds": "past participle indicating construction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadanasya tu",
+     "gloss": "of-temple-but",
+     "grounds": "compound indicating relation to the temple",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does the chosen liṅga determine the measure used for constructing the temple?",
+   "premises": [
+    "A particular liṅga is selected",
+    "That liṅga provides a measure",
+    "The temple is constructed according to that measure"
+   ],
+   "inference": "The temple is constructed according to the measure determined by the chosen liṅga.",
+   "uncertainties": [],
+   "plain_english": "By whichever liṅga and by whatever measure the temple is constructed."
+  },
+  {
+   "verse": 3868,
+   "rows": [
+    {
+     "surface": "sa pādaṃ",
+     "gloss": "that-quarter",
+     "grounds": "compound indicating one quarter measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "sārdhapādonadviguṇaṃ",
+     "gloss": "with-half-quarter-less-two-times",
+     "grounds": "compound expressing a complex proportional measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triguṇaṃ tu vā",
+     "gloss": "three-times-but-or",
+     "grounds": "compound indicating alternative triple measure",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional scaling options are available based on the liṅga-derived measure?",
+   "premises": [
+    "A base measure is derived from the liṅga",
+    "Scaling options are prescribed",
+    "Options include quarter-based, reduced double, or triple measures"
+   ],
+   "inference": "The measure may be scaled as a quarter, as two times less a quarter and a half, or as three times.",
+   "uncertainties": [
+    "Exact mathematical parsing of sārdhapādonadviguṇaṃ is uncertain"
+   ],
+   "plain_english": "That may be a quarter, or two times less by a quarter and a half, or three times."
+  },
+  {
+   "verse": 3869,
+   "rows": [
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "compound indicating three-quarter measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "one-of-three-parts",
+     "grounds": "compound indicating one third",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "refers to the remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavadeva hi",
+     "gloss": "just-as-before-indeed",
+     "grounds": "compound indicating conformity with prior rule",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the remaining portion be determined when alternative fractional divisions are used?",
+   "premises": [
+    "Alternative fractional divisions are possible",
+    "Divisions include three quarters or one third",
+    "The remainder must follow prior rules"
+   ],
+   "inference": "Whether three quarters or one third is used, the remainder should be determined as before.",
+   "uncertainties": [],
+   "plain_english": "It may be three quarters or one third, and the remainder should indeed be as before."
+  },
+  {
+   "verse": 3870,
+   "rows": [
+    {
+     "surface": "vesare",
+     "gloss": "in-vesara-style",
+     "grounds": "locative indicating the Vesara temple style",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nṛttamūrtīnāṃ",
+     "gloss": "of-dancing-images",
+     "grounds": "compound referring to images in dancing posture",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "raudrāṇāṃ",
+     "gloss": "of-fierce-ones",
+     "grounds": "refers to fierce forms",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "yānamūrtinām",
+     "gloss": "of-vehicle-images",
+     "grounds": "compound referring to images mounted on vehicles",
+     "morph": "f.gen.pl"
+    }
+   ],
+   "question": "Which specific iconographic forms are addressed in the context of the Vesara temple style?",
+   "premises": [
+    "The Vesara temple style is under consideration",
+    "Specific image types are relevant in this style",
+    "These include dancing, fierce, and vehicle-mounted forms"
+   ],
+   "inference": "In the Vesara style, rules concern dancing images, fierce images, and vehicle-mounted images.",
+   "uncertainties": [],
+   "plain_english": "In the Vesara style, this concerns dancing images, fierce images, and images mounted on vehicles."
+  },
+  {
+   "verse": 3871,
+   "rows": [
+    {
+     "surface": "viparītaṃ",
+     "gloss": "reversed",
+     "grounds": "adjective indicating contrary arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na kartavyaṃ",
+     "gloss": "not-to-be-done",
+     "grounds": "compound expressing prohibition",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvodaya phalārthibhiḥ",
+     "gloss": "by-those-desiring-all-rising-fruits",
+     "grounds": "compound indicating seekers of universal prosperity",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why must reversal of prescribed arrangements be avoided by those seeking universal prosperity?",
+   "premises": [
+    "Certain arrangements are prescribed for images",
+    "Reversal of these arrangements is possible",
+    "Seekers of universal prosperity must avoid reversal"
+   ],
+   "inference": "Those desiring universal prosperity must not reverse the prescribed arrangements.",
+   "uncertainties": [],
+   "plain_english": "Those who desire the fruits of universal prosperity must not do the reverse."
+  },
+  {
+   "verse": 3872,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "compound marking conclusion in the Aṃśumān Kāśyapa text",
+     "morph": "compound"
+    },
+    {
+     "surface": "liṃgaprāsādapaṭalaḥ",
+     "gloss": "liṅga-temple-chapter",
+     "grounds": "compound naming the chapter on liṅga and temple",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃcanavatitamaḥ",
+     "gloss": "ninety-fifth",
+     "grounds": "ordinal indicating chapter number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What textual section concludes with the rules on liṅga and temple construction in this work?",
+   "premises": [
+    "The text is identified as Aṃśumān Kāśyapa",
+    "A chapter on liṅga and temple is completed",
+    "This chapter is numbered ninety-fifth"
+   ],
+   "inference": "The ninety-fifth chapter on liṅga and temple concludes in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the ninety-fifth chapter on the liṅga and the temple in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 3873,
+   "rows": [
+    {
+     "surface": "jīrṇadehaṃ",
+     "gloss": "worn-out-body",
+     "grounds": "compound referring to a decayed body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tyajeddehī",
+     "gloss": "should-abandon-embodied-one",
+     "grounds": "compound expressing that the embodied being abandons",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadanyaṃ",
+     "gloss": "another-than-that",
+     "grounds": "compound referring to another body",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paripaṭhyate",
+     "gloss": "is-studied",
+     "grounds": "verb indicating traditional teaching",
+     "morph": "3.sg.present-passive + pari-paṭh"
+    }
+   ],
+   "question": "What analogy between the embodied soul and temple renewal is taught through the abandonment of a worn body?",
+   "premises": [
+    "An embodied being abandons a worn-out body",
+    "Another body is taken in its place",
+    "This principle is taught in tradition"
+   ],
+   "inference": "Just as the embodied being abandons a worn body for another, renewal is required when structures decay.",
+   "uncertainties": [],
+   "plain_english": "As the embodied being abandons a worn-out body and takes another, so it is taught."
+  },
+  {
+   "verse": 3874,
+   "rows": [
+    {
+     "surface": "tasmācchīghraṃ",
+     "gloss": "therefore-quickly",
+     "grounds": "compound indicating prompt action as consequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental indicating diligent effort",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "jīrṇoddhāraṃ",
+     "gloss": "renovation-of-worn",
+     "grounds": "compound referring to restoration of what is decayed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative expressing obligation",
+     "morph": "3.sg.optative-active + sam-ā-car"
+    }
+   ],
+   "question": "What obligation follows from the analogy of abandoning a worn-out body for a decayed temple?",
+   "premises": [
+    "A worn-out body is abandoned for renewal",
+    "Decayed structures require similar attention",
+    "Prompt and diligent action is necessary"
+   ],
+   "inference": "Therefore one should quickly and diligently undertake the renovation of what is worn out.",
+   "uncertainties": [],
+   "plain_english": "Therefore one should quickly and with effort carry out the renovation of what is worn out."
+  }
+ ]
+}

@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p158",
  "verse": 3936,
- "question": "What additional adornments distinguish the aghora weapon's visualized form?",
+ "question": "What range of footed forms is allowed in depicting the deity?",
  "premises": [
-  "The form wears a white sacred thread.",
-  "The form is adorned with red flowers.",
-  "Both features are presented as part of its appearance."
+  "One-footed, two-footed, and three-footed forms are named.",
+  "A thousand-footed form is also named.",
+  "These are presented as alternatives."
  ],
- "inference": "Therefore, the aghora weapon is visualized with a white sacred thread and red flower adornments.",
- "uncertainties": [],
- "plain_english": "It wears a white sacred thread and is adorned with red flowers."
+ "inference": "The deity may be depicted with one, two, three, or countless feet.",
+ "uncertainties": [
+  "sahasra may indicate a vast number rather than an exact count."
+ ],
+ "plain_english": "The image may be one-footed, two-footed, three-footed, or indeed thousand-footed."
 }

@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p155",
  "verse": 3851,
- "question": "Which fragrant substances are prescribed for the rājasa oblation?",
+ "question": "What proportional width must the drain chamber and its surrounding wall have?",
  "premises": [
-  "Sandalwood, agarwood, camphor, yellow pigment, and saffron are listed.",
-  "The term ādibhiḥ includes other similar substances.",
-  "These materials serve as oblation ingredients."
+  "The drain chamber has a prescribed width",
+  "The wall breadth relates to that width",
+  "The wall breadth equals half the chamber width"
  ],
- "inference": "The rājasa oblation employs sandalwood, agarwood, camphor, yellow pigment, saffron, and similar fragrant substances.",
- "uncertainties": [
-  "rocana may refer to a specific yellow pigment or bright substance"
- ],
- "plain_english": "The oblation uses sandalwood, agarwood, camphor, yellow pigment, saffron, and other such substances."
+ "inference": "The surrounding wall must extend to half the width of the drain chamber.",
+ "uncertainties": [],
+ "plain_english": "The drain chamber should be of a certain width, and the wall around it should extend to half of that width."
 }

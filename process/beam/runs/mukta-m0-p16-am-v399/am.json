@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p16",
  "verse": 399,
- "question": "What form and efficacy are attributed to the ritual altar?",
+ "question": "What width and height proportions are prescribed for this element?",
  "premises": [
-  "The altar is four-sided.",
-  "The altar is four-cornered.",
-  "The altar grants all fruits."
+  "The width is equal to the front foot.",
+  "The height is three quarters.",
+  "The height is explicitly named as such."
  ],
- "inference": "A four-sided, four-cornered altar is declared to grant all fruits.",
- "uncertainties": [],
- "plain_english": "The altar, four-sided and four-cornered, grants all fruits."
+ "inference": "The element’s width should equal the front foot and its height should be three quarters.",
+ "uncertainties": [
+  "The reference unit for the three-quarter height is implied by context."
+ ],
+ "plain_english": "The width is said to be equal to the front foot, and the height is said to be three quarters."
 }

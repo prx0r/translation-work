@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p157",
  "verse": 3916,
- "question": "Under what condition do all practitioners attain success according to this statement?",
+ "question": "On which weekdays should the prescribed digging be performed?",
  "premises": [
-  "All practitioners are the subject",
-  "Success is attained",
-  "Attainment does not occur otherwise"
+  "Days of Jupiter, Venus, and Mercury are specified",
+  "Monday is also specified",
+  "Digging is prescribed on these days"
  ],
- "inference": "All practitioners attain success, and not in any other way",
- "uncertainties": [
-  "The specific condition implied by otherwise is unstated here"
- ],
- "plain_english": "All practitioners attain success, and not otherwise."
+ "inference": "Digging should be performed on the days of Jupiter, Venus, Mercury, and Monday.",
+ "uncertainties": [],
+ "plain_english": "One should dig on the days of Jupiter, Venus, Mercury, and Monday."
 }
