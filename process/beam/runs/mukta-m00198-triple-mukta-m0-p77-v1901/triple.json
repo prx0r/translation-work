@@ -1,0 +1,1143 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "alīndaṃ",
+     "gloss": "terrace",
+     "grounds": "architectural term for a raised platform or veranda",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "auspicious-part",
+     "grounds": "uncertain element, possibly part of a compound or variant reading",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast or specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuḍyaṃ",
+     "gloss": "wall",
+     "grounds": "structural wall element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varṣasthalam",
+     "gloss": "rain-place",
+     "grounds": "compound: varṣa+sthala; area exposed to rain",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle introducing an alternative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What alternative structural elements may be used for the terrace or surrounding area?",
+   "premises": [
+    "A terrace is one possible element.",
+    "A wall or a rain-place may be used instead.",
+    "These options are presented as alternatives."
+   ],
+   "inference": "The design allows multiple alternative structural forms for the specified area.",
+   "uncertainties": [
+    "The exact meaning and attachment of śaṃ is unclear."
+   ],
+   "plain_english": "One may use a terrace, or a wall, or else a rain-exposed place."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "śālākāraṃ",
+     "gloss": "hall-shaped",
+     "grounds": "compound: śālā+ākāra; having the form of a hall",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sabhāgaṃ",
+     "gloss": "with-divisions",
+     "grounds": "compound: sa+bhāga; having parts or sections",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "gallery",
+     "grounds": "architectural term for a row or gallery",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛtiḥ",
+     "gloss": "construction",
+     "grounds": "act or form of making",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What hall-like or gallery forms are permitted in the temple layout?",
+   "premises": [
+    "A hall-shaped form with divisions is an option.",
+    "A gallery construction is another option.",
+    "These are presented as valid alternatives."
+   ],
+   "inference": "The layout may adopt either a divided hall form or a gallery form.",
+   "uncertainties": [],
+   "plain_english": "It may be hall-shaped with divisions, or indeed constructed as a gallery."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "locative indicating outer position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "repeated for emphasis or distributive sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṃghriyasthāpya",
+     "gloss": "having-placed-pillars",
+     "grounds": "compound/gerundive sense: aṃghri+sthapya; placing pillars",
+     "morph": "indecl."
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "locative indicating middle position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "repeated for emphasis or distributive sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "joined",
+     "grounds": "connected or furnished with",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How may pillars be arranged in the outer and middle zones of the structure?",
+   "premises": [
+    "Pillars may be placed in the outer areas.",
+    "Pillars may be placed in the middle areas.",
+    "The arrangement may be joined in these zones."
+   ],
+   "inference": "Pillar placement can be configured in outer and middle zones as alternatives.",
+   "uncertainties": [
+    "The exact syntactic role of aṃghriyasthāpya is somewhat compressed."
+   ],
+   "plain_english": "Or, having placed pillars in the outer parts and in the middle parts, it may be joined accordingly."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "alīndaṃ",
+     "gloss": "terrace",
+     "grounds": "architectural terrace element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hārayoḥ",
+     "gloss": "of-two-galleries",
+     "grounds": "dual referring to two surrounding galleries",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "māne",
+     "gloss": "in-measure",
+     "grounds": "locative indicating proportion or measurement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vivṛttāṃghrikam",
+     "gloss": "with-turned-pillars",
+     "grounds": "compound: vivṛtta+aṃghrika; having rounded or turned pillars",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What form may the terrace take in relation to the measure of two galleries?",
+   "premises": [
+    "The terrace is considered in the measure of two galleries.",
+    "It may have turned or rounded pillars.",
+    "This is given as an alternative form."
+   ],
+   "inference": "The terrace may be designed with turned pillars according to the galleries' measure.",
+   "uncertainties": [],
+   "plain_english": "Or the terrace, in the measure of the two galleries, may indeed have turned pillars."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhādyalaṃkāraṃ",
+     "gloss": "decorated-with-kuta-koshtha-etc",
+     "grounds": "compound: kūṭa+koṣṭha+ādi+alaṃkāra; ornamented with turrets, cells, and so on",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ūrdhvasthavat",
+     "gloss": "like-upper-structure",
+     "grounds": "compound: ūrdhvastha+vat; in the manner of what is above",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-design",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "How should the upper decorative elements of the structure be designed?",
+   "premises": [
+    "The structure should have ornaments such as turrets and cells.",
+    "These should follow the pattern of the upper structure.",
+    "The designer is instructed to arrange them accordingly."
+   ],
+   "inference": "Upper decorations must be designed in conformity with the upper structure.",
+   "uncertainties": [],
+   "plain_english": "One should design it with ornaments such as turrets and cells, like the upper structure."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "śīrṣadaṇḍakaśālābhaṃ",
+     "gloss": "resembling-head-bar-hall",
+     "grounds": "compound: śīrṣa+daṇḍaka+śālā+ābha; resembling a hall with a head-bar",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śālākāraṃ",
+     "gloss": "hall-shaped",
+     "grounds": "having the form of a hall",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb of designation",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What designation is given to a hall-shaped structure resembling a head-bar hall?",
+   "premises": [
+    "The structure resembles a hall with a head-bar.",
+    "It is hall-shaped.",
+    "Such a structure receives a specific designation."
+   ],
+   "inference": "A hall-shaped form resembling a head-bar hall is identified by that name.",
+   "uncertainties": [
+    "The precise architectural meaning of śīrṣadaṇḍaka is technical."
+   ],
+   "plain_english": "That hall-shaped form, resembling a hall with a head-bar, is so called."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "prastaraṃ",
+     "gloss": "entablature",
+     "grounds": "architectural member above pillars",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratisaṃchādyaṃ",
+     "gloss": "to-be-covered",
+     "grounds": "gerundive indicating covering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍyaṃ",
+     "gloss": "to-be-adorned",
+     "grounds": "gerundive indicating adornment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing exclusion",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaśvīṣṭaraṃ",
+     "gloss": "desired-covering",
+     "grounds": "uncertain compound; possibly yaśvi+īṣṭara or a technical term",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the entablature be treated with respect to covering and adornment?",
+   "premises": [
+    "The entablature is to be covered.",
+    "It is to be adorned.",
+    "This is done without a certain covering element."
+   ],
+   "inference": "The entablature requires covering and adornment while excluding a specified element.",
+   "uncertainties": [
+    "The term yaśvīṣṭaraṃ is obscure and may be a technical or corrupt form."
+   ],
+   "plain_english": "The entablature should be covered and adorned, without the specified covering."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "gopuraṃ",
+     "gloss": "gateway-tower",
+     "grounds": "temple gateway structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle of designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parivāram",
+     "gloss": "retinue-shrines",
+     "grounds": "subsidiary deities or their shrines",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle marking transition",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressing the listener",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What topic is introduced after the gateway-tower has been described?",
+   "premises": [
+    "The gateway-tower has thus been declared.",
+    "The text transitions to a new topic.",
+    "The listener is asked to hear about the retinue."
+   ],
+   "inference": "After defining the gateway-tower, the text proceeds to the retinue shrines.",
+   "uncertainties": [],
+   "plain_english": "Thus the gateway-tower has been described; now hear about the retinue shrines."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "ityaṃ",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śumān",
+     "gloss": "auspicious",
+     "grounds": "uncertain reading, possibly śubham or a name element",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kashyapa-text",
+     "grounds": "locative referring to the Kāśyapa tradition or work",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gopuralakṣaṇapaṭalaḥ",
+     "gloss": "chapter-on-gateway-features",
+     "grounds": "compound: gopura+lakṣaṇa+paṭala; chapter defining gateway characteristics",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catuścatvāriṃśaḥ",
+     "gloss": "forty-fourth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Kāśyapa text concludes with the characteristics of the gateway-tower?",
+   "premises": [
+    "The passage concludes with a colophon-like statement.",
+    "It names the chapter on gateway-tower characteristics.",
+    "It identifies this as the forty-fourth chapter."
+   ],
+   "inference": "The description of gateway-tower features concludes the forty-fourth chapter in the Kāśyapa text.",
+   "uncertainties": [
+    "The form śumān is unclear and may be a textual variant."
+   ],
+   "plain_english": "Thus, in the Kāśyapa text, this is the forty-fourth chapter on the characteristics of the gateway-tower."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "num.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣoḍaśaṃ",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "num.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvātriṃśacca",
+     "gloss": "and-thirty-two",
+     "grounds": "compound: dvātriṃśat+ca; numeral with conjunction",
+     "morph": "num.nom.sg"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-due-order",
+     "grounds": "compound: yathā+krama; according to sequence",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What numerical options are prescribed for arranging the retinue in sequence?",
+   "premises": [
+    "Eight is one possible number.",
+    "Sixteen is another possible number.",
+    "Thirty-two is also possible in due order."
+   ],
+   "inference": "The retinue may be arranged in sets of eight, sixteen, or thirty-two in sequence.",
+   "uncertainties": [],
+   "plain_english": "One should arrange eight, or sixteen, or indeed thirty-two, in due order."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-planned",
+     "grounds": "gerund indicating prior determination",
+     "morph": "indecl."
+    },
+    {
+     "surface": "antarahārāyāṃ",
+     "gloss": "in-inner-enclosure",
+     "grounds": "locative of the inner circuit or gallery",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "parivārāṣṭakaṃ",
+     "gloss": "retinue-group-of-eight",
+     "grounds": "compound: parivāra+aṣṭaka; eight subsidiary shrines",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative addressing the recipient",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How many retinue shrines should be planned for the inner enclosure?",
+   "premises": [
+    "The planning is done for the inner enclosure.",
+    "A group of eight retinue shrines is specified.",
+    "The instruction is addressed to the twice-born."
+   ],
+   "inference": "Eight retinue shrines should be established in the inner enclosure.",
+   "uncertainties": [],
+   "plain_english": "O twice-born, having planned, place a group of eight retinue shrines in the inner enclosure."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "madhyahārā",
+     "gloss": "middle-enclosure",
+     "grounds": "the middle circuit or gallery",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caturthe",
+     "gloss": "in-fourth",
+     "grounds": "locative indicating the fourth position or division",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvātriṃśatparivārakam",
+     "gloss": "having-thirty-two-retinue",
+     "grounds": "compound: dvātriṃśat+parivāraka; possessing thirty-two retinue shrines",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What number of retinue shrines is assigned to the middle enclosure in the fourth arrangement?",
+   "premises": [
+    "The middle enclosure is under consideration.",
+    "The fourth arrangement is specified.",
+    "Thirty-two retinue shrines are assigned."
+   ],
+   "inference": "In the fourth arrangement, the middle enclosure has thirty-two retinue shrines.",
+   "uncertainties": [],
+   "plain_english": "But in the fourth, the middle enclosure has thirty-two retinue shrines."
+  },
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "mukhāyāmaṃ",
+     "gloss": "front-length",
+     "grounds": "compound: mukha+āyāma; length of the front",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition of exclusion",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bīje",
+     "gloss": "in-seed-plan",
+     "grounds": "locative referring to the basic ground plan",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caturaśre",
+     "gloss": "in-square",
+     "grounds": "locative of a square layout",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "when-made",
+     "grounds": "locative absolute participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative absolute participle",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Under what ground-plan condition is the front length excluded from consideration?",
+   "premises": [
+    "The front length is excluded.",
+    "The seed plan is made square.",
+    "This condition is stated as a locative absolute."
+   ],
+   "inference": "When the basic plan is made square, the front length is not separately considered.",
+   "uncertainties": [],
+   "plain_english": "When the seed plan is made square, without considering the front length,"
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭabhāgeṣu",
+     "gloss": "in-eight-parts",
+     "grounds": "locative plural indicating division into eight",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūrvādi",
+     "gloss": "beginning-with-east",
+     "grounds": "compound: pūrva+ādi; starting from the east",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramayogataḥ",
+     "gloss": "by-sequential-arrangement",
+     "grounds": "compound: krama+yoga+tas; according to ordered application",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the eight divisions to be assigned directionally in sequence?",
+   "premises": [
+    "The area is divided into eight parts.",
+    "The assignment begins with the east.",
+    "The arrangement follows a sequential order."
+   ],
+   "inference": "The eight parts are allocated in sequence starting from the east.",
+   "uncertainties": [],
+   "plain_english": "Then, in the eight parts, beginning with the east, they are arranged in due sequence."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "agniḥ",
+     "gloss": "fire-god",
+     "grounds": "deity Agni",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "durga",
+     "grounds": "goddess Durgā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāmye",
+     "gloss": "in-south",
+     "grounds": "locative indicating southern direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptamātaraḥ",
+     "gloss": "seven-mothers",
+     "grounds": "compound: sapta+mātaraḥ; the group of seven mother goddesses",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which deities may be placed in the southern quarter of the layout?",
+   "premises": [
+    "The southern quarter is specified.",
+    "Agni or Durgā may be placed there.",
+    "Alternatively, the Seven Mothers may be placed there."
+   ],
+   "inference": "The southern quarter may house Agni, Durgā, or the Seven Mothers.",
+   "uncertainties": [],
+   "plain_english": "In the south, one may place Agni or Durgā, or else the Seven Mothers."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "ekaberantu",
+     "gloss": "but-single-image",
+     "grounds": "compound: eka+bera+tu; a single icon, with particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāmye",
+     "gloss": "in-south",
+     "grounds": "locative indicating southern direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "locative indicating southwest direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vināyakam",
+     "gloss": "vinayaka",
+     "grounds": "deity Gaṇeśa/Vināyaka",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where may a single image or Vināyaka be placed in the southern directions?",
+   "premises": [
+    "A single image is one option.",
+    "The south or southwest are possible locations.",
+    "Vināyaka may be placed in the southwest."
+   ],
+   "inference": "A single image may be placed in the south, or Vināyaka in the southwest.",
+   "uncertainties": [],
+   "plain_english": "Or a single image in the south, or Vināyaka in the southwest."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "saumye",
+     "gloss": "in-north",
+     "grounds": "locative indicating northern direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "keśavasthānaṃ",
+     "gloss": "place-of-keshava",
+     "grounds": "compound: keśava+sthāna; location for Keśava",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kātyāyanī",
+     "gloss": "katyayani",
+     "grounds": "goddess Kātyāyanī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which deities are prescribed for placement in the northern quarter?",
+   "premises": [
+    "The northern quarter is specified.",
+    "It may be the place of Keśava.",
+    "Alternatively, Kātyāyanī may be placed there."
+   ],
+   "inference": "The north may be assigned to Keśava or to Kātyāyanī.",
+   "uncertainties": [],
+   "plain_english": "In the north, it may be the place of Keśava, or there Kātyāyanī."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "pratimātvālayopetā",
+     "gloss": "endowed-with-image-and-shrine",
+     "grounds": "compound: pratimā+ālaya+upetā; furnished with an image and a shrine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pīṭhaśced",
+     "gloss": "if-pedestal",
+     "grounds": "compound: pīṭhaḥ+ced; if there is a pedestal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ālayaṃ",
+     "gloss": "shrine",
+     "grounds": "temple or shrine structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition of exclusion",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What configuration applies when a pedestal is present without a full shrine?",
+   "premises": [
+    "A configuration with image and shrine is mentioned.",
+    "A pedestal may be present.",
+    "The shrine may be absent."
+   ],
+   "inference": "The arrangement may include an image with a pedestal even without a full shrine.",
+   "uncertainties": [
+    "The exact conditional syntax is compressed."
+   ],
+   "plain_english": "It may be endowed with an image and shrine, or if there is a pedestal, without a shrine."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "gauryāstu",
+     "gloss": "but-of-gauri",
+     "grounds": "compound: gauryāḥ+tu; of Gaurī, with particle",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "gallery",
+     "grounds": "row or gallery structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "compound: vā+atha; alternative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vimānaṃ",
+     "gloss": "tower",
+     "grounds": "temple tower or superstructure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-design",
+     "grounds": "optative prescribing construction",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "What structural forms may be designed for the shrine of Gaurī?",
+   "premises": [
+    "The shrine of Gaurī is under consideration.",
+    "A gallery may be designed.",
+    "Alternatively, a tower may be designed."
+   ],
+   "inference": "For Gaurī, one may design either a gallery or a tower.",
+   "uncertainties": [],
+   "plain_english": "For Gaurī, one should design either a gallery or a tower."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "mūlaharmyāt",
+     "gloss": "from-main-temple",
+     "grounds": "ablative indicating the principal shrine as reference",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "compound: tri+pāda; three parts out of four",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "one half",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pādameva",
+     "gloss": "one-quarter-indeed",
+     "grounds": "compound: pāda+eva; one quarter, emphatic",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What proportional sizes relative to the main temple are allowed for subsidiary structures?",
+   "premises": [
+    "The main temple is the reference measure.",
+    "Three-quarters is a possible proportion.",
+    "Half or one-quarter are also possible proportions."
+   ],
+   "inference": "Subsidiary structures may be three-quarters, half, or one-quarter the size of the main temple.",
+   "uncertainties": [],
+   "plain_english": "Relative to the main temple, it may be three-quarters, or half, or indeed one-quarter."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "tricatuṣpaṃcahastaṃ",
+     "gloss": "three-four-five-cubits",
+     "grounds": "compound: tri+catur+pañca+hasta; measuring three, four, or five hastas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parivārālayastatam",
+     "gloss": "retinue-shrine-extended",
+     "grounds": "compound: parivāra+ālaya+tata; the retinue shrine extended or measured",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What cubit measurements are permitted for the extent of a retinue shrine?",
+   "premises": [
+    "The retinue shrine's extent is specified.",
+    "Three, four, or five cubits are possible measures.",
+    "These are given as alternatives."
+   ],
+   "inference": "A retinue shrine may measure three, four, or five cubits.",
+   "uncertainties": [
+    "The final element tatam is slightly ambiguous in formation."
+   ],
+   "plain_english": "The retinue shrine may extend to three, four, or five cubits."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "śāntikādiṣu",
+     "gloss": "in-peaceful-and-others",
+     "grounds": "compound: śāntika+ādi; in the peaceful and other types",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yanmūlaṃ",
+     "gloss": "which-root",
+     "grounds": "compound: yat+mūla; whatever is the root or principal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gehameṣāṃ",
+     "gloss": "house-of-these",
+     "grounds": "compound: geha+eṣām; the house of these",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadeva",
+     "gloss": "that-indeed",
+     "grounds": "compound: tat+eva; that very one",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What determines the house form for peaceful and other classes of retinue deities?",
+   "premises": [
+    "Peaceful and other classes are considered.",
+    "Each has a root or principal form.",
+    "Their house should follow that same root form."
+   ],
+   "inference": "For peaceful and other types, the shrine should follow the principal form of each.",
+   "uncertainties": [],
+   "plain_english": "In the peaceful and other types, whatever is the root form, that indeed is their house."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "trivargamaṇṭapākāraṃ",
+     "gloss": "with-threefold-hall-enclosure",
+     "grounds": "compound: tri+varga+maṇṭapa+ākāra; having the form of a threefold pavilion and enclosure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "catudvāra",
+     "gloss": "four-gated",
+     "grounds": "compound: catur+dvāra; having four gates",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "furnished or provided with",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What structural features should characterize the retinue shrine complex?",
+   "premises": [
+    "The complex should have a threefold hall and enclosure form.",
+    "It should have four gates.",
+    "These features are to be included together."
+   ],
+   "inference": "The retinue shrine complex should be four-gated with a threefold hall and enclosure.",
+   "uncertainties": [
+    "The exact meaning of trivarga in this architectural context is technical."
+   ],
+   "plain_english": "It should be endowed with a threefold hall and enclosure and have four gates."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "parivārālayaṃ",
+     "gloss": "retinue-shrine",
+     "grounds": "compound: parivāra+ālaya; shrine for subsidiary deities",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratimālakṣaṇaṃ",
+     "gloss": "image-characteristics",
+     "grounds": "compound: pratimā+lakṣaṇa; defining features of images",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressing the listener",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What subject is introduced after the description of the retinue shrine?",
+   "premises": [
+    "The retinue shrine has been declared.",
+    "The text transitions to a new topic.",
+    "The listener is asked to hear about image characteristics."
+   ],
+   "inference": "After describing the retinue shrine, the text proceeds to the characteristics of images.",
+   "uncertainties": [],
+   "plain_english": "The retinue shrine has been declared; now hear the characteristics of the images."
+  }
+ ]
+}

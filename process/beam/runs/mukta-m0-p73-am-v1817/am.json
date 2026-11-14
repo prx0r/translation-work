@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1817,
- "question": "What principle governs acceptance and rejection in this evaluative context?",
+ "question": "How are breadth and length proportioned when the breadth is divided into ten parts?",
  "premises": [
-  "That very thing should be taken here.",
-  "The opposite is identified.",
-  "The opposite should be abandoned."
+  "The breadth is divided into ten parts.",
+  "Its length is twelve parts."
  ],
- "inference": "One should accept that very thing here and abandon what is opposite.",
- "uncertainties": [
-  "The referent of 'that very thing' depends on the immediately preceding criteria."
- ],
- "plain_english": "One should accept that very thing here and abandon the opposite."
+ "inference": "When the breadth is ten parts, the corresponding length is twelve parts.",
+ "uncertainties": [],
+ "plain_english": "When the breadth is divided into ten parts, its length should be twelve parts."
 }

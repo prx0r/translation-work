@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p71",
  "verse": 1763,
- "question": "What substance should the wise person give abundantly to Bidārikā?",
+ "question": "What proportional measures relative to the main house are allowed for the given part?",
  "premises": [
-  "Bidārikā is named as the recipient.",
-  "Salt is specified as the offering.",
-  "The wise person should give it abundantly."
+  "One third of the main house is a possible measure.",
+  "A half part is also possible.",
+  "These are presented as alternatives."
  ],
- "inference": "The wise person should give salt abundantly to Bidārikā.",
- "uncertainties": [],
- "plain_english": "The wise person should give salt abundantly to Bidārikā."
+ "inference": "The measure may be one third of the main house or a half part.",
+ "uncertainties": [
+  "The exact referent of bhāgam in this compressed rule is context-dependent."
+ ],
+ "plain_english": "Take one third of the main house, or else a half part."
 }

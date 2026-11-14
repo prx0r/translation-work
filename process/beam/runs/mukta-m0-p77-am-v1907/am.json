@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p77",
  "verse": 1907,
- "question": "What kind of food preparation is required for the ritual offering?",
+ "question": "How should the entablature be treated with respect to covering and adornment?",
  "premises": [
-  "The food is cooked in ghee.",
-  "The food is prepared with milk.",
-  "It is accomplished by pure fire alone."
+  "The entablature is to be covered.",
+  "It is to be adorned.",
+  "This is done without a certain covering element."
  ],
- "inference": "The offering should be food cooked in ghee and milk, prepared by pure fire alone.",
- "uncertainties": [],
- "plain_english": "The offering should be food cooked in ghee and prepared with milk, accomplished by pure fire alone."
+ "inference": "The entablature requires covering and adornment while excluding a specified element.",
+ "uncertainties": [
+  "The term yaśvīṣṭaraṃ is obscure and may be a technical or corrupt form."
+ ],
+ "plain_english": "The entablature should be covered and adorned, without the specified covering."
 }

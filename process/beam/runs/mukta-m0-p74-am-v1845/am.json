@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1845,
- "question": "Which flowers are recognized as well-known examples in this context?",
+ "question": "What transition is made from the two-storey description to the three-storey teaching?",
  "premises": [
-  "Jasmine is mentioned as an option.",
-  "Mālatī is mentioned as an alternative.",
-  "Mālatī is emphasized as well-known."
+  "The two-storey structure has been described.",
+  "The three-storey structure is introduced next.",
+  "The listener is instructed to hear the new topic."
  ],
- "inference": "Jasmine or mālatī, especially the well-known mālatī, is recognized.",
- "uncertainties": [],
- "plain_english": "Jasmine or mālatī, indeed the well-known mālatī."
+ "inference": "Having described the two-storey form, the text now turns to teaching the three-storey form.",
+ "uncertainties": [
+  "The compound hyevamākhyātaṃ contains internal sandhi (hi+evam+ākhyātaṃ)."
+ ],
+ "plain_english": "The two-storey form has thus been described; now hear about the three-storey form."
 }

@@ -3,24 +3,29 @@
  "verse": 1889,
  "rows": [
   {
-   "lemma": "sāyaṃ",
+   "lemma": "mukhe",
+   "morph": "n.loc.sg",
+   "grounds": "locative noun indicating each face"
+  },
+  {
+   "lemma": "mukhe",
+   "morph": "n.loc.sg",
+   "grounds": "repeated locative emphasizing each face"
+  },
+  {
+   "lemma": "ca",
    "morph": "(indecl.)",
-   "grounds": "indeclinable"
+   "grounds": "conjunction"
   },
   {
-   "lemma": "saṅkalpya",
-   "morph": "v.abs + saṅkalp",
-   "grounds": "absolutive"
+   "lemma": "bhadrāṃgaṃ",
+   "morph": "n.acc.sg",
+   "grounds": "compound object naming the projection element"
   },
   {
-   "lemma": "vidhivat",
-   "morph": "(indecl.)",
-   "grounds": "indeclinable"
-  },
-  {
-   "lemma": "ghaṭasthāpanapūrvakam",
-   "morph": "n.acc.sg.n",
-   "grounds": "compound"
+   "lemma": "śiraścāyatamaṇḍanam",
+   "morph": "compound",
+   "grounds": "compound with ca indicating elongated head ornament; sandhi śiraḥ+ca"
   }
  ]
 }

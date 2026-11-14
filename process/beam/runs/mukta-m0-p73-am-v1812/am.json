@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1812,
- "question": "Which named categories are listed as the relevant types in this classification?",
+ "question": "What length proportion should be assigned to the cell in this context?",
  "premises": [
-  "Several categories are enumerated.",
-  "The list includes flag, smoke, dog, lion, bull, donkey, and elephant.",
-  "These form a set of types."
+  "The length is being determined.",
+  "The cell length should be set at five parts."
  ],
- "inference": "The categories listed are flag, smoke, dog and lion, bull, and donkey and the best elephant.",
- "uncertainties": [
-  "The technical application of these category names depends on the broader ritual context."
- ],
- "plain_english": "The categories are flag, smoke, dog and lion, bull, and donkey and the best elephant."
+ "inference": "The cell length is prescribed as five parts.",
+ "uncertainties": [],
+ "plain_english": "In length, one should determine the cell length as five parts."
 }

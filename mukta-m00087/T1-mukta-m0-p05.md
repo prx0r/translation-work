@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[pure](śuddha) [division+pair](bheda+dvayam) [I-shall-speak](vakṣye) [enjoyment+liberation+fruit+giving](bhoga+mokṣa+phala+pradam)
+[pure+division+pair](śuddhabhedadvayaṃ) [I-shall-tell](vakṣye) [enjoyment+liberation+fruit+giving](bhogamokṣaphalapradam)
 
 ## mukta-m0-p05-v102
-[this](idam) [indeed](eva) [again](punaḥ) [in-śakti](śaktau) [knowledge](vidyā) [this](iyam) [Indra+worshipped](śakra+pūjitā)
+[this](idam) [indeed](eva) [again](punaḥ) [in-śakti](śaktau) [vidyā](vidyā) [this](iyaṃ) [indra+worshipped](śakrapūjitā)
 
 ## mukta-m0-p05-v103
-[in-vāc](vāci) [in-kāma](kāme) [ha+ka+ether+earth+ether+fire+endowed-with](haka+ākāśa+kṣmā+ākāśa+agni+samanvitam)
+[in-vāc](vāci) [in-kāma](kāme) [ha+kā+ākāśa+kṣmā+ākāśa+agni+endowed-with](hakākāśakṣmākāśāgnīsamanvitam)
 
 ## mukta-m0-p05-v104
-[unmanī](unmanī) [by-name](nāma) [knowledge](vidyā) [this](iyam) [only](kevalam) [liberation+giving](mokṣa+dāyinī)
+[unmanī](unmanī) [by-name](nāma) [vidyā](vidyā) [this](iyaṃ) [only](kevalaṃ) [liberation+giving](mokṣadāyinī)
 
 ## mukta-m0-p05-v105
-[these](ete) [pure](śuddhāḥ) [always](sadā) [recited](japtāḥ) [success+giving](siddhi+dāḥ) [not](na) [here](atra) [doubt](saṃśayaḥ)
+[these](ete) [pure](śuddhāḥ) [always](sadā) [recited](japtāḥ) [success+giving](siddhidā) [not](na) [here](atra) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p05-v106
-[from-here](ataḥ) [further](param) [I-shall-declare](pravakṣyāmi) [mantras](mantrāḥ) [mixed+named](śabala+saṃjñakāḥ)
+[from-this](ataḥ) [beyond](paraṃ) [I-shall-declare](pravakṣyāmi) [mantras](mantrāḥ) [mixed+named](śabalasaṃjñakāḥ)
 
 ## mukta-m0-p05-v107
-[at-end](antye) [jīva](jīvaḥ) [śiva+placed](śiva+sthaḥ) [but](tu) [knowledge](vidyā) [Varuṇa+worshipped](varuṇa+pūjitā)
+[at-end](antye) [jīva](jīvaḥ) [in-śiva+situated](śivasthastu) [vidyā](vidyā) [varuṇa+worshipped](varuṇapūjitā)
 
 ## mukta-m0-p05-v108
-[there](tatra) [indeed](eva) [kāma](kāmam) [knowledge](vidyā) [this](iyam) [Dharma-rāja+worshipped](dharma+rāja+prapūjitā)
+[there](tatra) [indeed](eva) [kāma](kāmaṃ) [vidyā](vidyā) [this](iyaṃ) [dharma+king+worshipped](dharmarājaprapūjitā)
 
 ## mukta-m0-p05-v109
-[by-fire](vahninā) [worshipped](pūjitā) [knowledge](vidyā) [great+obstacle+multitude+burning](mahā+vighna+augha+dāhinī)
+[by-fire](vahninā) [worshipped](pūjitā) [vidyā](vidyā) [great+obstacle+multitude+burning](mahāvighnaughadāhinī)
 
 ## mukta-m0-p05-v110
-[knowledge](vidyā) [by-serpent+king](pannaga+rājena) [worshipped](pūjitā) [enjoyment+liberation+giving](bhukti+mukti+dā)
+[vidyā](vidyā) [by-serpent+king](pannagarājena) [worshipped](pūjitā) [enjoyment+liberation+giving](bhuktimuktidā)
 
 ## mukta-m0-p05-v111
-[māyā](māyā) [by-wind+worshipped](vāyu+prapūjyā) [this](iyam) [great+sin+multitude+destroying](mahā+pāpa+augha+bhañjinī)
+[māyā](māyā) [by-wind+worshipped](vāyuprapūjyā) [this](iyaṃ) [great+sin+multitude+destroying](mahāpāpaughabhañjinī)
 
 ## mukta-m0-p05-v112
-[māyā](māyā) [with+ha+ka+Indra+fire+māyā](saha+ka+śakra+agni+māyā) [this](iyam) [by-Soma+worshipped](soma+pūjitā)
+[māyā](māyā) [with+ha+ka+śakra+agni+māyā](sahakaśakrāgnimāyā) [this](iyaṃ) [by-moon+worshipped](somapūjitā)
 
 ## mukta-m0-p05-v113
-[by-Īśāna+worshipped](īśāna+ārādhitā) [knowledge](vidyā) [all+desire+fulfilling](sarva+kāma+prapūriṇī)
+[by-īśāna+worshipped](īśānārādhitā) [vidyā](vidyā) [all+desire+fulfilling](sarvakāmaprapūriṇī)
 
 ## mukta-m0-p05-v114
-[by-Rati+worshipped](rati+ārādhita) [knowledge](vidyā) [this](iyam) [all+desire+purpose+accomplishing](sarva+kāma+artha+sādhinī)
+[by-rati+worshipped](ratyārādhitā) [vidyā](vidyā) [this](iyaṃ) [all+desire+purpose+accomplishing](sarvakāmārthasādhinī)
 
 ## mukta-m0-p05-v115
-[by-Nārāyaṇa+worshipped](nārāyaṇa+ārādhitā) [this](iyam) [six+part](ṣaṭ+kūṭā) [supreme+goddess](parama+īśvarī)
+[by-nārāyaṇa+worshipped](nārāyaṇārādhitā) [this](iyaṃ) [six+part](ṣaṭkūṭā) [supreme+goddess](parameśvarī)
 
 ## mukta-m0-p05-v116
-[in-śakti](śaktau) [Agastya+speech+part](agastya+vāk+kūṭam) [knowledge](vidyā) [this](iyam) [by-Brahmā+worshipped](brahma+pūjitā)
+[in-śakti](śaktau) [agastya+speech+part](agastyavākkūṭaṃ) [vidyā](vidyā) [this](iyaṃ) [by-brahmā+worshipped](brahmapūjitā)
 
 ## mukta-m0-p05-v117
-[by-Jīva+worshipped](jīva+arcitā) [great+knowledge](mahā+vidyā) [all+desire+giving](sarva+kāma+pradāyinī)
+[by-jīva+worshipped](jīvārcitā) [great+vidyā](mahāvidyā) [all+desire+giving](sarvakāmapradāyinī)
 
 ## mukta-m0-p05-v118
-[pure+impure](śuddha+aśuddhāḥ) [great+knowledge](mahā+vidyāḥ) [to-be-known](jñātavyāḥ) [by-practitioner+best](sādhaka+uttamaiḥ)
+[pure+impure](śuddhāśuddhā) [great+vidyā](mahāvidyā) [to-be-known](jñātavyā) [by-best+practitioners](sādhakottamaiḥ)
 
 ## mukta-m0-p05-v119
-[they](tāḥ) [indeed](eva) [indeed](hi) [always](sadā) [pure+impure+divisions](śuddha+aśuddha+bhedāḥ) [become](bhavanti) [indeed](hi)
+[they](tā) [indeed](eva) [truly](hi) [always](sadā) [pure+impure+divisions](śuddhāśuddhabhedāḥ) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p05-v120
-[likewise](tathaiva) [mixed+pair+divisions](śabala+dvandva+bhedāḥ) [auspicious](bhadrāḥ) [become](bhavanti) [indeed](hi)
+[likewise](tathaiva) [mixed+pair+divisions](śabaladvandvabhedāḥ) [auspicious](bhadrāḥ) [become](bhavanti) [indeed](hi)
 
 ## mukta-m0-p05-v121
-[to-be-known](jñātavyāḥ) [by-guru+mouth](guru+vaktreṇa) [and](ca) [otherwise](anyathā) [curse](śāpam) [one-would-obtain](āpnuyāt)
+[to-be-known](jñātavyā) [from-guru+mouth](guruvaktreṇa) [and](ca) [otherwise](anyathā) [curse](śāpam) [one-obtains](āpnuyāt)
 
 ## mukta-m0-p05-v122
-[of-Dakṣiṇāmūrti-tantra](dakṣiṇāmūrti+tantrasya) [doctrine](matam) [this](etat) [declared](prakīrtitam)
+[of-dakṣiṇāmūrti+tantra](dakṣiṇāmūrtitantrasya) [doctrine](matam) [this](etat) [proclaimed](prakīrtitam)
 
 ## mukta-m0-p05-v123
-[dormant+pierced+cut+etc.+fault+purification+purpose](supta+kīlita+chinna+ādi+doṣa+śuddhi+artham) [indeed](eva) [and](ca)
+[dormant+nailed+severed+etc.](suptakīlitachinnādi) [fault+purification+purpose](doṣaśuddhyartham) [indeed](eva) [and](ca)
 
 ## mukta-m0-p05-v124
-[by-last](antimena) [but](tu) [that](sā) [cut](chinnā) [by-that](tena) [knowledge](vidyā) [not](na) [succeeds](sidhyati)
+[by-final](antimena) [but](tu) [that](sā) [severed](chinnā) [therefore](tena) [vidyā](vidyā) [not](na) [succeeds](sidhyati)
 
 ## mukta-m0-p05-v125
-[I-shall-speak](vakṣye) [I](aham) [Śrīkrama-mantra-determination+stated+method](śrīkrama+mantra+nirṇaya+ukta+krameṇa) [but](tu)
+[I-shall-tell](vakṣye) [I](ahaṃ) [śrī+krama+mantra+determination+stated+method](śrīkramamantranirṇayoktakrameṇa) [indeed](tu)

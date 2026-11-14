@@ -1,13 +1,14 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1810,
- "question": "To whom do the previously stated general rules commonly apply?",
+ "question": "What breadth and length are prescribed for the door ornament?",
  "premises": [
-  "All the preceding rules are considered.",
-  "They apply in relation to the god and the priest.",
-  "They are declared as common here."
+  "The door ornament has a breadth of eleven parts.",
+  "Its length corresponds to that measure."
  ],
- "inference": "All these rules are declared here as common for both the god and the priest.",
- "uncertainties": [],
- "plain_english": "All this is declared here as common for the god and for the priest."
+ "inference": "The door ornament is specified with a breadth of eleven parts and a corresponding length.",
+ "uncertainties": [
+  "The exact referent of 'its length' depends on the preceding proportional scheme."
+ ],
+ "plain_english": "The door ornament should have a breadth of eleven parts and a corresponding length."
 }

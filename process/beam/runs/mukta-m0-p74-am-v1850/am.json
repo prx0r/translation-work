@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p74",
  "verse": 1850,
- "question": "In which garland-makers' places is such an offering also deemed unsuitable?",
+ "question": "What proportional measurements determine the lintel height and the foot rise in this architectural specification?",
  "premises": [
-  "The previous verse rejects such an offering in the flower-offering rite.",
-  "This verse names garland-makers' houses as locations.",
-  "This verse also names a garland-maker's house and adds it with 'and'."
+  "The lintel height is specified as half of the previously given measure.",
+  "The foot rise is specified as consisting of two parts.",
+  "Both measurements are stated as definite proportional quantities."
  ],
- "inference": "The unsuitability of such an offering extends to garland-makers' houses and shops.",
+ "inference": "The lintel height equals half the prior reference measure, while the foot rise equals two parts.",
  "uncertainties": [
-  "The verse is elliptical and relies on the preceding negation for its full predicate."
+  "The exact referent of 'that' in tadardhaṃ depends on the preceding verse's measure."
  ],
- "plain_english": "And in garland-makers' houses and in a garland-maker's shop."
+ "plain_english": "The lintel height is half of that, and the rise of the foot is two parts."
 }

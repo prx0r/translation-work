@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1855,
- "question": "What alternative form may be given to the dandika layout?",
+ "question": "What are the prescribed measurements for the head height and the finial in this scheme?",
  "premises": [
-  "The dandika layout is the object of construction.",
-  "It may be made in a scissors-shaped form.",
-  "The verb prescribes this as an option."
+  "The head height is given a fractional part measure",
+  "The finial has its own numerical measure",
+  "Both measures are explicitly stated"
  ],
- "inference": "The dandika layout may alternatively be made in a scissors-like shape.",
- "uncertainties": [],
- "plain_english": "Or one should make the dandika layout in a shape like scissors."
+ "inference": "The head height is two and a half parts, and the finial measure is eleven.",
+ "uncertainties": [
+  "Exact unit basis for ekādaśaṃ is not explicitly stated in this verse"
+ ],
+ "plain_english": "The head height is two and a half parts, and the finial measure is eleven."
 }

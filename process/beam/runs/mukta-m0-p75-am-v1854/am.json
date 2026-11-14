@@ -1,13 +1,13 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1854,
- "question": "What street configurations are specified as possible layout options?",
+ "question": "What measures are assigned to the platform and the pillar rise in this specification?",
  "premises": [
-  "One configuration has a single street.",
-  "Another configuration has two streets.",
-  "Both are described as endowed with streets."
+  "The platform measure is half of the prior unit",
+  "The pillar rise is separately specified",
+  "The pillar rise equals two parts"
  ],
- "inference": "The layout may be configured with either one street or two streets.",
+ "inference": "The platform measure is half of that, while the pillar rise is two parts.",
  "uncertainties": [],
- "plain_english": "It may be endowed with one street or with two streets."
+ "plain_english": "The platform measure is indeed half of that, and the pillar rise is two parts."
 }

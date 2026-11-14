@@ -1,15 +1,12 @@
 {
  "song": "mukta-m0-p73",
  "verse": 1821,
- "question": "How are the remainder values designated as income and expenditure in this step?",
+ "question": "What length corresponds to a breadth divided into eleven parts?",
  "premises": [
-  "A remainder is obtained.",
-  "That remainder is called income.",
-  "Expenditure is declared in that context."
+  "The breadth is divided into eleven parts.",
+  "Its length is thirteen parts."
  ],
- "inference": "The remainder is called income, and expenditure is declared there accordingly.",
- "uncertainties": [
-  "The precise assignment rule distinguishing income and expenditure remainders is compressed."
- ],
- "plain_english": "The remainder is called income, and expenditure is declared there."
+ "inference": "A breadth of eleven parts corresponds to a length of thirteen parts.",
+ "uncertainties": [],
+ "plain_english": "When the breadth is eleven parts, its length should be thirteen parts."
 }

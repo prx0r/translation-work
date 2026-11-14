@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p71",
  "verse": 1769,
- "question": "What bali is prescribed for the deities situated in the western direction?",
+ "question": "How many optional measurement varieties are established for each case in this scheme?",
  "premises": [
-  "Deities situated in the western direction are specified.",
-  "Food with ghee is named as the offering.",
-  "This is stated as the prescribed bali."
+  "Each case has a threefold measure.",
+  "An optional measure is specified.",
+  "The optional measure should be fivefold."
  ],
- "inference": "Food with ghee is prescribed as the bali for those situated in the west.",
- "uncertainties": [],
- "plain_english": "Food with ghee is prescribed as the bali for those situated in the western direction."
+ "inference": "Each case should have a threefold measure with a fivefold optional variety.",
+ "uncertainties": [
+  "The technical distinction between māna and chanda follows architectural convention."
+ ],
+ "plain_english": "For each, the measure is threefold, and the optional measure should be fivefold."
 }

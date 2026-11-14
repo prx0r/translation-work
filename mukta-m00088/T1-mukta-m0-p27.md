@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-should-meditate(dhyāyet) śrī+tripurā+siddhā(śrītripurāsiddhāṃ) vaśinī+in-front(vasinīpurataḥ) wise-one(sudhīḥ)
+[should-meditate](dhyāyec) [śrī+tripurā+siddhā](chrītripurāsiddhāṃ) [in-front-of+vaśinī](vaśinīpurataḥ) [the-wise-one](sudhīḥ)
 
 ## mukta-m0-p27-v652
-having-shown(sandarsya) khecarī+mudrā(khecarīmudrāṃ) should-worship(yajet) śakti(śaktiñ) and(ca) with-māyā(māyayā)
+[having-displayed](sandarsya) [khecarī+mudrā](khecarīmudrāṃ) [should-worship](yajec) [śakti](chaktiñ) [and](ca) [with-māyā](māyayā)
 
 ## mukta-m0-p27-v653
-in-circle(cakre) samudrā+etc.(samudrā+ityādi) as-before(pūrvavat) should-arrange(parikalpayet)
+[in-the-circle](cakre) [samudrā+thus+etc.](samudrā) [iti](ity) [ādi](ādi) [as-before](pūrvavat) [one-should-arrange](parikalpayet)
 
 ## mukta-m0-p27-v654
-west+etc.+four+directions(paścimādi+caturdikṣu) arrows(bāṇān) should-worship-well(saṃpūjayet) wise-one(budhaḥ)
+[in-the-west+etc.+four+directions](paścimādicaturdikṣu) [the-arrows](bāṇān) [should-worship](saṃpūjayed) [the-wise-one](budhaḥ)
 
 ## mukta-m0-p27-v655
-red+garland+splendor+endowed(rakta+mālya+viśobhāḍhyān) youth+intoxicated+forms(yauvana+unmatta+vigrahān)
+[with-red+garlands+adorned](raktamālyavisobhāḍhyān) [with-youth+intoxicated+forms](yauvanonmattavigrahān)
 
 ## mukta-m0-p27-v656
-arrow+bow+noose+goad+pairs(bāṇa+dhanuḥ+pāsa+sṛṇi+yugmāni) and(ca) in-order(kramāt) accordingly(anu)
+[arrow+bow+noose+goad+pairs](bāṇadhanuḥpāsasṛṇiyugmāni) [and](ca) [in-order](kramād) [after](anu)
 
 ## mukta-m0-p27-v657
-nyāsa+stated+sequence+method(nyāsa+ukta+krama+yogeṇa) should-worship(pūjayet) practitioner+best(sādhaka+uttamaḥ)
+[by-nyāsa+stated+sequence+application](nyāsoktakramayogeṇa) [should-worship](pūjayet) [best+of-practitioners](sādhakottamaḥ)
 
 ## mukta-m0-p27-v658
-weapon+triangle+pair+middle(astra+trikoṇayoḥ+madhye) should-worship(pūjayet) limb+deities(aṅga+devatāḥ)
+[in-the-weapon+triangle+middle](astratrikoṇayormadhye) [should-worship](pūjayed) [limb+deities](aṅgadevatāḥ)
 
 ## mukta-m0-p27-v659
-syllable+non-syllable+distinction(akṣara+akṣara+bhedena) collectively+separately(samasta+vyastayā) should-worship(yajet)
+[by-syllable+syllable+distinction](akṣarākṣarabhedena) [collectively+individually](samastavyastayā) [one-should-worship](yajet)
 
 ## mukta-m0-p27-v660
-of-sundarī(sundaryāḥ) and(ca) with-three(triḥ) sections(kūṭaiḥ) triangle(trikoṇaṃ) should-worship-all-around(paripūjayet)
+[of-the-beautiful-goddess](sundaryāś) [and](ca) [with-three](tribhiḥ) [with-seed-syllables](kūṭais) [the-triangle](trikoṇaṃ) [one-should-worship](paripūjayet)
 
 ## mukta-m0-p27-v661
-vajreśvarī(vajreśvarīṃ) viṣṇu+śakti(viṣṇu+śaktiṃ) in-sun+circle(sūrya+cakre) should-worship(prapūjayet)
+[Vajreśvarī](vajresvarīṃ) [Viṣṇu+śakti](viṣṇusaktiṃ) [in-the-sun+circle](sūryacakre) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p27-v662
-in-bindu+circle(bindu+cakre) should-worship(yajet) goddess(devīṃ) supreme+brahman+form(paraṃbrahma+svarūpiṇīm)
+[in-the-bindu+circle](binducakre) [one-should-worship](yajed) [the-goddess](devīṃ) [supreme-brahman+form](paraṃbrahmasvarūpiṇīm)
 
 ## mukta-m0-p27-v663
-in-pūrṇa(pūrṇe) and(ca) oḍḍīśa+nātha(oḍḍīsa+nāthaḥ) and(ca) caryā+nātha(caryā+nāthaḥ) but(tu) in-oḍraka(oḍrake)
+[in-the-Pūrṇa](pūrṇe) [and](ca) [Uḍḍīśa+nātha](uḍḍīsanāthaś) [and](ca) [Caryā+nātha](caryānāthas) [but](tu) [in-the-Oḍraka](oḍrake)
 
 ## mukta-m0-p27-v664
-thus(evaṃ) circle+ruler(cakreśvarīṃ) having-meditated(dhyātvā) with-kāmarāja(kāmarājena) should-worship(pūjayet)
+[thus](evaṃ) [the-circle-goddess](cakresvarīṃ) [having-meditated](dhyātvā) [with-the-Kāmarāja](kāmarājena) [one-should-worship](pūjayet)
 
 ## mukta-m0-p27-v665
-all+siddhi+granting(sarva+siddhi+prade) in-circle(cakre) in-second+enclosure(dvitīya+āvaraṇe) should-lead(nayet)
+[in-the-all+siddhi+granting](sarvasiddhiprade) [circle](cakre) [in-the-second+enclosure](dvitīyāvaraṇe) [one-should-lead](nayet)
 
 ## mukta-m0-p27-v666
-noose+goad+bow+arrow+holding(pāśa+aṅkuśa+dhanuḥ+bāṇa+dharāṃ) red(raktāṃ) very-beautiful(suśobhanām)
+[noose+goad+bow+arrow+holding](pāsānkusadhanurbāṇadharāṃ) [red](raktāṃ) [very-beautiful](susobhanām)
 
 ## mukta-m0-p27-v667
-seed+mudrā(bīja+mudrāñ) and(ca) having-shown(sandarśya) supreme(parāṃ) śakti(śaktiṃ) should-worship(prapūjayet)
+[seed+mudrā](bījamudrāñ) [and](ca) [having-displayed](sandarsya) [the-supreme](parāṃ) [śakti](saktiṃ) [one-should-worship](prapūjayet)
 
 ## mukta-m0-p27-v668
-all+siddhi+consisting(sarva+siddhi+maya) in-circle(cakre) samudrā+etc.(samudrā+iti+ādi) as-before(pūrvavat)
+[in-the-all+siddhi+consisting](sarvasiddhimaye) [circle](cakre) [samudrā+thus+etc.](samudrety) [ādi](ādi) [as-before](pūrvavat)
 
 ## mukta-m0-p27-v669
-supreme+brahman+form(paraṃbrahma+svarūpāñ) and(ca) supreme+nectar+form(parama+amṛta+rūpiṇīm)
+[supreme-brahman+form](paraṃbrahmasvarūpāñ) [and](ca) [supreme+nectar+form](paramāmṛtarūpiṇīm)
 
 ## mukta-m0-p27-v670
-all+mudrā+ruler(sarva+mudrā+īśvarīñ) and-also(ca+api) all+knowledge+ruler(sarva+vidyā+īśvarīṃ) likewise(tathā)
+[all+mudrā+sovereign](sarvamudresvarīñ) [and](ca) [also](api) [all+knowledge+sovereign](sarvavidyesvarīṃ) [likewise](tathā)
 
 ## mukta-m0-p27-v671
-all+yoga+ruler(sarva+yoga+īśvarīñ) and-also(ca+api) all+siddhi+ruler(sarva+siddhi+īśvarīm) also(api)
+[all+yoga+sovereign](sarvayogesvarīñ) [and](ca) [also](api) [all+siddhi+sovereign](sarvasiddhīsvarīm) [also](api)
 
 ## mukta-m0-p27-v672
-with-mudrā(samudrāṃ) with-weapons(sa+āyudhāñ) and-also(ca+api) with-circle(sa+cakrāñ) and(ca) with-vehicle(sa+vāhanām)
+[with-ocean](samudrāṃ) [with-weapons](sāyudhāñ) [and](ca) [also](api) [with-circle](sacakrāñ) [and](ca) [also](api) [with-vehicle](savāhanām)
 
 ## mukta-m0-p27-v673
-supreme+non-supreme(parā+aparāṃ) great+goddess(mahā+devīṃ) enjoyment+liberation+giver(bhukti+mukti+pradāyinīm)
+[supreme+non-supreme](parāparāṃ) [great+goddess](mahādevīṃ) [enjoyment+liberation+giver](bhuktimuktipradāyinīm)
 
 ## mukta-m0-p27-v674
-by-mind(manasā) thus(evaṃ) having-beheld(samālokya) śrīmat+tripura+sundarī(śrīmat+tripura+sundarīm)
+[with-mind](manasaiv) [thus](aṃ) [having-beheld](samālokya) [śrī+Tripurasundarī](śrīmattripurasundarīm)
 
 ## mukta-m0-p27-v675
-all+bliss+consisting(sarva+ānanda+mayaṃ) circle(cakraṃ) bindu-born(baindavaṃ) should-worship-all-around(paripūjayet)
+[all+bliss+consisting](sarvānandamayaṃ) [circle](cakraṃ) [of-the-bindu](baindavaṃ) [one-should-worship](paripūjayet)

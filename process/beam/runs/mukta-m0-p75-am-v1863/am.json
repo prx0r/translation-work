@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p75",
  "verse": 1863,
- "question": "What range of street counts is established for this layout series?",
+ "question": "What measures are assigned to the platform and the talipaya extent in this specification?",
  "premises": [
-  "The series begins with six streets.",
-  "The series extends up to twenty-three.",
-  "The range is stated as a limit."
+  "The platform measure is half of the prior unit",
+  "The talipaya extent is separately defined",
+  "The talipaya extent equals two parts"
  ],
- "inference": "The layout series ranges from six streets up to twenty-three.",
- "uncertainties": [],
- "plain_english": "Beginning with six streets and extending up to twenty-three."
+ "inference": "The platform measure is half of that, and the talipaya extent is two parts.",
+ "uncertainties": [
+  "The exact architectural referent of talipāyatam is not fully certain"
+ ],
+ "plain_english": "The platform measure is half of that, and the talipaya extent is two parts."
 }
