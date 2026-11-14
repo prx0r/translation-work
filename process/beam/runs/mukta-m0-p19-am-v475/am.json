@@ -1,14 +1,16 @@
 {
  "song": "mukta-m0-p19",
  "verse": 475,
- "question": "What flower made of the great seat is rare for all gods?",
+ "question": "Which sensory and mental faculties are listed as objects of worship in the first round?",
  "premises": [
-  "The flower is made of the great seat.",
-  "It is rare for all gods."
+  "the verse enumerates form taste smell mind firmness memory",
+  "conjunctions connect the listed worship items",
+  "the list follows the first-round worship instruction"
  ],
- "inference": "The great-seat flower is a rare offering even for all gods.",
+ "inference": "the first round's worship includes form taste smell mind firmness and memory",
  "uncertainties": [
-  "The exact ritual referent of mahāpīṭha is not specified in this verse."
+  "the exact ritual referent of dhairyam remains context-dependent",
+  "whether the list is exhaustive or abbreviated is not stated here"
  ],
- "plain_english": "The flower made of the great seat is rare for all gods."
+ "plain_english": "Form, taste, smell, mind, firmness, and memory."
 }
