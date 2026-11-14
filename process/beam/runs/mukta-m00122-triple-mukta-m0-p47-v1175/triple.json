@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "patet",
+     "gloss": "he-falls",
+     "grounds": "third-person singular active present of pat, 'to fall'",
+     "morph": "verb 3.sg.act-pres"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādayoḥ",
+     "gloss": "at-feet",
+     "grounds": "locative dual of pāda, 'foot'",
+     "morph": "noun loc.du.m"
+    },
+    {
+     "surface": "kṣipraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb of speed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jitaḥ+asmi",
+     "gloss": "I-am-conquered",
+     "grounds": "fused form jitaḥ (participle) + asmi (first-person singular present of as); transcribed with internal + retained",
+     "morph": "participle+verb 1.sg.act-pres"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "instrumental singular of the second-person pronoun",
+     "morph": "pron instr.sg.2"
+    },
+    {
+     "surface": "vadan",
+     "gloss": "saying",
+     "grounds": "present participle of vad, 'to speak'",
+     "morph": "participle nom.sg.m"
+    }
+   ],
+   "question": "What bodily sign and verbal declaration mark the moment of surrender to the possessing deity?",
+   "premises": [
+    "The possessed person falls at the deity's feet.",
+    "He declares himself conquered by the deity.",
+    "The surrender occurs quickly."
+   ],
+   "inference": "The verse identifies prostration and verbal submission as the culminating sign of divine possession.",
+   "uncertainties": [
+    "The exact addressee and ritual context are not specified in this verse alone."
+   ],
+   "plain_english": "Or he quickly falls at your feet, saying, 'I am conquered by you.'"
+  }
+ ]
+}

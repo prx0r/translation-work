@@ -1,14 +1,15 @@
 {
  "song": "mukta-m0-p46",
  "verse": 1150,
- "question": "Which regional rite rests on the goddess's back petal?",
+ "question": "What suffering arises from diarrhea and similar abdominal faults?",
  "premises": [
-  "Gauḍa and Kashmir rite rests on goddess back petal",
-  "The verse names the resting place directly"
+  "Diarrhea and similar faults are abdominal.",
+  "Abdominal faults bring suffering.",
+  "The verse states this causation."
  ],
- "inference": "The verse identifies the regional rite's resting place on the goddess's back petal.",
+ "inference": "Abdominal disorders such as diarrhea cause suffering.",
  "uncertainties": [
-  "Exact internal compound segmentation is not fully certain"
+  "Exact optative force of āvahet remains context-dependent."
  ],
- "plain_english": "The rite of Gauḍa and Kashmir rests on the goddess's back petal."
+ "plain_english": "Diarrhea and similar abdominal faults would bring suffering."
 }

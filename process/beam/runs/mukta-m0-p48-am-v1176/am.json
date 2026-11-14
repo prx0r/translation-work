@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p48",
  "verse": 1176,
- "question": "What shape becomes devoid of the dot in this instruction?",
+ "question": "Where may the yantra be placed for this operation?",
  "premises": [
-  "triangle is mentioned",
-  "dot is removed",
-  "becoming is stated"
+  "Placement may be in cloth.",
+  "Placement may be in potsherd.",
+  "Placement may be on hot ground."
  ],
- "inference": "The triangle is to be without the dot.",
+ "inference": "The operation allows placement in cloth, potsherd, or on hot ground.",
  "uncertainties": [
-  "exact ritual referent of dot"
+  "Exact ritual context is not specified."
  ],
- "plain_english": "Thus the triangle, O goddess, becomes devoid of the dot."
+ "plain_english": "The yantra may be placed in cloth, in a potsherd, or on hot ground."
 }

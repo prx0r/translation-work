@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "tānyeva",
+     "gloss": "those-same",
+     "grounds": "refers to the letters named in the preceding instruction",
+     "morph": "pron.nom.pl.n"
+    },
+    {
+     "surface": "mātṛkākhyābhiḥ",
+     "gloss": "with-mātṛkā-names",
+     "grounds": "instrumental plural feminine, names of the mātṛkā",
+     "morph": "noun.ins.pl.f"
+    },
+    {
+     "surface": "vidarbhitam",
+     "gloss": "filled",
+     "grounds": "past participle describing the letters as filled or enclosed",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "atho",
+     "gloss": "then",
+     "grounds": "indeclinable transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "optative third singular active of nyas, to place or install",
+     "morph": "verb.3.sg.act-opt+nyas"
+    }
+   ],
+   "question": "How should the previously named letters be arranged after being filled with mātṛkā names?",
+   "premises": [
+    "the same letters are to be used",
+    "they are filled with mātṛkā names",
+    "they are then to be placed"
+   ],
+   "inference": "The ritual instruction is to take the specified letters, fill them with mātṛkā names, and then place them.",
+   "uncertainties": [
+    "the exact placement location is not stated in this verse alone"
+   ],
+   "plain_english": "Those same letters, filled with mātṛkā names, are then to be placed."
+  }
+ ]
+}
