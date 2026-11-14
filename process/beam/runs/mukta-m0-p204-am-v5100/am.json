@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p204",
  "verse": 5100,
- "question": "How many parts should the great hall occupy in front or behind?",
+ "question": "What arrangements for the bed and bathing must be made at the ritual center thereafter?",
  "premises": [
-  "great hall stands in front or behind",
-  "its measure is five or six parts"
+  "A bed should be arranged in the middle.",
+  "A ritual bathing should be caused to be performed thereafter.",
+  "These actions follow the prior dismissal and feeding described in context."
  ],
- "inference": "the great hall may be five-part or six-part",
- "uncertainties": [
-  "whether front or back placement is intended"
- ],
- "plain_english": "In front or behind, the great hall is five-part or six-part."
+ "inference": "After the preceding rites, one must arrange a bed in the center and then have the bathing performed.",
+ "uncertainties": [],
+ "plain_english": "Then one should arrange a bed in the middle and thereafter have the ritual bathing performed."
 }

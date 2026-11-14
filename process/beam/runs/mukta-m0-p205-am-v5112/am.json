@@ -1,15 +1,13 @@
 {
  "song": "mukta-m0-p205",
  "verse": 5112,
- "question": "How is a temple-shaped gate-temple described?",
+ "question": "What arrangement is required when the deities occupy different seats?",
  "premises": [
-  "gate-temple has temple shape",
-  "it is described",
-  "description is authoritative"
+  "The deities may be on different seats.",
+  "Separate arrangement is indicated.",
+  "A pavilion must be arranged accordingly."
  ],
- "inference": "A temple-shaped gate-temple is described as such.",
- "uncertainties": [
-  "internal compound segmentation"
- ],
- "plain_english": "A gate-temple shaped like a temple is described."
+ "inference": "If these are on different seats, one should arrange a separate pavilion.",
+ "uncertainties": [],
+ "plain_english": "If these are on different seats, one should arrange a separate pavilion."
 }

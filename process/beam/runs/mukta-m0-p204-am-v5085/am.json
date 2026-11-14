@@ -1,14 +1,13 @@
 {
  "song": "mukta-m0-p204",
  "verse": 5085,
- "question": "What height is assigned to the head?",
+ "question": "What proportional body measure extends from the guideline to the left knee?",
  "premises": [
-  "The head is one and a half parts high.",
-  "The remainder gives head rise."
+  "Measurement begins from the thread line.",
+  "The endpoint is the left knee.",
+  "The measure equals half the upper body."
  ],
- "inference": "Head height and head rise are proportioned separately.",
- "uncertainties": [
-  "Remainder referent unclear."
- ],
- "plain_english": "The head is one and a half parts high, and head rise is from the remainder."
+ "inference": "From the thread to the end of the left knee is the measure of half the upper body.",
+ "uncertainties": [],
+ "plain_english": "From the thread to the end of the left knee is the measure of half the upper body."
 }

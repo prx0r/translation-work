@@ -1,15 +1,15 @@
 {
  "song": "mukta-m0-p205",
  "verse": 5121,
- "question": "Which decoration is prescribed for temple or hall?",
+ "question": "What interval is prescribed for the front hands between hip-end and elbow?",
  "premises": [
-  "temple decoration is possible",
-  "hall decoration is possible",
-  "or allows either"
+  "The hip-end is a reference point.",
+  "The elbow is another reference point.",
+  "An interval is specified for the front hands."
  ],
- "inference": "Either temple decoration or hall decoration may be prescribed.",
+ "inference": "For the front hands, the interval from the hip-end to the elbow is of the prescribed measure.",
  "uncertainties": [
-  "whether both can apply together"
+  "The exact technical meaning of darvāgantaraṃ is unclear."
  ],
- "plain_english": "Temple decoration, or indeed hall decoration, may be used."
+ "plain_english": "For the front hands, the interval from the hip-end to the elbow is the prescribed span."
 }

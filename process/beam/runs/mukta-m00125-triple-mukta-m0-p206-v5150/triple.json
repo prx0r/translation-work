@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p206",
+ "items": [
+  {
+   "verse": 5150,
+   "rows": [
+    {
+     "surface": "taddigastrāṇi",
+     "gloss": "of-those-directions-weapons",
+     "grounds": "compound referring to weapons or protective elements aligned with the previously mentioned directions",
+     "morph": "compound n.nom/acc.pl"
+    },
+    {
+     "surface": "vṛttāni",
+     "gloss": "circular",
+     "grounds": "describes the shape of the fire-pits",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "fire-pits",
+     "grounds": "ritual pits to be arranged in the maṇḍapa",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "aśrāṇi",
+     "gloss": "angular",
+     "grounds": "alternative shape for the fire-pits",
+     "morph": "n.nom/acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative between shapes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescribes the action to be performed",
+     "morph": "3.sg.opt.act √nī"
+    }
+   ],
+   "question": "Should the fire-pits aligned with those directions be made circular or angular in shape?",
+   "premises": [
+    "The fire-pits are aligned with those directions.",
+    "The fire-pits may be made circular in shape.",
+    "Alternatively the fire-pits may be made angular in shape."
+   ],
+   "inference": "One should arrange the directional fire-pits as either circular or angular.",
+   "uncertainties": [
+    "The precise referent of astrāṇi in this ritual context is not fully explicit."
+   ],
+   "plain_english": "One should arrange the fire-pits of those directions so that they are either circular or angular."
+  }
+ ]
+}
