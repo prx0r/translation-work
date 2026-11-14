@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p305",
+ "items": [
+  {
+   "verse": 7625,
+   "rows": [
+    {
+     "surface": "sapta+koṭi+īśvarī",
+     "gloss": "seven-crore-sovereign",
+     "grounds": "bahuvrīhi/tatpuruṣa compound: sapta (seven) + koṭi (crore) + īśvarī (sovereign goddess), nominative singular feminine",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative singular feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāk+aiśvarya+karī",
+     "gloss": "speech-sovereignty-causing",
+     "grounds": "compound: vāk (speech) + aiśvarya (sovereignty/mastery) + karī (causing, feminine agentive), nominative singular feminine",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past passive participle from √man (to think/consider), nominative singular feminine",
+     "morph": "ppp.nom.sg.f (√man)"
+    }
+   ],
+   "question": "What specific power is ascribed to the seven-crore sovereign goddess?",
+   "premises": [
+    "The goddess is identified as the seven-crore sovereign.",
+    "She is described as causing sovereignty over speech.",
+    "This characterization is presented as an established view."
+   ],
+   "inference": "The seven-crore sovereign goddess is held to confer mastery over speech.",
+   "uncertainties": [],
+   "plain_english": "The seven-crore sovereign goddess is considered the one who grants mastery over speech."
+  }
+ ]
+}

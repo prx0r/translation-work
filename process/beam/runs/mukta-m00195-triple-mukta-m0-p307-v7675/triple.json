@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p307",
+ "items": [
+  {
+   "verse": 7675,
+   "rows": [
+    {
+     "surface": "hasakalarakārāṃś",
+     "gloss": "ha-sa-ka-la-ra-syllables",
+     "grounds": "accusative plural referring to the syllabic components ha, sa, ka, la, and ra",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding further syllabic components",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍakāraikārasaṃyutān",
+     "gloss": "joined-with-ḍa-and-e-syllables",
+     "grounds": "compound describing elements combined with the syllables ḍa and e",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which additional syllabic components are specified for this mantra formulation?",
+   "premises": [
+    "The formulation includes the syllables ha, sa, ka, la, and ra.",
+    "The formulation also includes components joined with the syllables ḍa and e.",
+    "These syllabic elements are enumerated as part of the same specification."
+   ],
+   "inference": "The mantra formulation is specified by including ha, sa, ka, la, ra together with elements joined to ḍa and e.",
+   "uncertainties": [
+    "The exact referent qualified by these accusative forms depends on the preceding verse context."
+   ],
+   "plain_english": "And it includes the syllables ha, sa, ka, la, and ra, together with those joined with the syllables ḍa and e."
+  }
+ ]
+}

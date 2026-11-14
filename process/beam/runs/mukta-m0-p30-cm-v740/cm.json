@@ -3,14 +3,39 @@
  "verse": 740,
  "rows": [
   {
-   "lemma": "śāmbarī",
-   "morph": "f.nom.sg",
-   "grounds": "name or epithet of the goddess; transliterated sense retained"
+   "lemma": "eka",
+   "morph": "compound-member",
+   "grounds": "first member of compound"
   },
   {
-   "lemma": "māyā",
-   "morph": "f.nom.sg",
-   "grounds": "identifies the goddess with māyā"
+   "lemma": "koṣṭha",
+   "morph": "compound-member",
+   "grounds": "second member of compound"
+  },
+  {
+   "lemma": "catuṣka",
+   "morph": "compound-member",
+   "grounds": "third member of compound"
+  },
+  {
+   "lemma": "ādyaṃ",
+   "morph": "compound: eka-koṣṭha-catuṣka-ādi, n.nom.sg",
+   "grounds": "starting from one-cell groups of four"
+  },
+  {
+   "lemma": "pañca",
+   "morph": "compound-member",
+   "grounds": "number of lotuses"
+  },
+  {
+   "lemma": "padmaṃ",
+   "morph": "compound: pañca-padma, n.nom.sg",
+   "grounds": "five-lotus arrangement"
+  },
+  {
+   "lemma": "pravakṣyate",
+   "morph": "3.sg.future.passive, pra-√vac",
+   "grounds": "introduces next topic"
   }
  ]
 }

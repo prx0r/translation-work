@@ -1,13 +1,15 @@
 {
  "song": "mukta-m0-p30",
  "verse": 745,
- "question": "What compassionate motive explains why the goddess is known as Mṛduhāsinī?",
+ "question": "Which colors are applied to the corner cells starting from the southeast?",
  "premises": [
-  "The speaker recognizes the goddess's nature.",
-  "Her soft smile is linked to compassion.",
-  "She is identified as the goddess Mṛduhāsinī."
+  "The southeast is the starting direction.",
+  "Corner cells are specified.",
+  "Red, green, and dark colors are listed."
  ],
- "inference": "The goddess is softly smiling because of her compassion.",
- "uncertainties": [],
- "plain_english": "Thus I know that the goddess is softly smiling indeed out of compassion."
+ "inference": "Starting from the southeast, the corner cells are to be treated with red, green, and dark colors.",
+ "uncertainties": [
+  "The function of the token ā is unclear in this context."
+ ],
+ "plain_english": "Starting from the southeast, the corner cells are to be colored with red, green, and dark hues."
 }
